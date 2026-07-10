@@ -1,66 +1,83 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import Link from 'next/link';
+import { getVolumes } from '../lib/sermons';
+import SearchClient from './search-client';
 
-export default function Home() {
+export default async function Home() {
+  const volumes = await getVolumes();
+
+  const stats = [
+    { number: '3,563', label: 'Published Sermons' },
+    { number: '63', label: 'Volumes' },
+    { number: '40', label: 'Years of Ministry' },
+    { number: '14,000', label: 'Church Members' },
+  ];
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.js file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <div>
+      {/* ── HERO ── */}
+      <section className="hero-section">
+        <div className="hero-bg-glow" />
+        <div className="container hero-content">
+          <p className="hero-eyebrow">The Prince of Preachers</p>
+          <h1 className="hero-title">
+            Charles Haddon<br />
+            <em>Spurgeon</em>
+          </h1>
+          <p className="hero-subtitle">
+            Explore over 3,500 sermons from the most prolific preacher in Church history,
+            organized in 63 volumes of faithful and passionate biblical exposition.
           </p>
+
+          {/* Search bar — lazy-loads index on first focus */}
+          <SearchClient />
+
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      {/* ── STATS ── */}
+      <section className="stats-section">
+        <div className="container stats-grid">
+          {stats.map((s) => (
+            <div key={s.label} className="stat-item">
+              <span className="stat-number">{s.number}</span>
+              <span className="stat-label">{s.label}</span>
+            </div>
+          ))}
         </div>
-      </main>
+      </section>
+
+      {/* ── QUOTE BANNER ── */}
+      <section className="quote-banner">
+        <div className="container quote-inner">
+          <span className="quote-mark">&ldquo;</span>
+          <blockquote className="quote-text">
+            A Bible that is falling apart usually belongs to someone who isn't.
+          </blockquote>
+          <cite className="quote-author">— Charles H. Spurgeon</cite>
+        </div>
+      </section>
+
+      {/* ── VOLUMES GRID ── */}
+      <section className="container volumes-section">
+        <div className="section-header">
+          <h2 className="section-title">The 63 Volumes</h2>
+          <p className="section-subtitle">Select a volume to explore the sermons</p>
+        </div>
+        <div className="grid grid-cols-4">
+          {volumes.map((volume) => {
+            const volNum = parseInt(volume.replace('volume-', ''), 10);
+            return (
+              <Link href={`/volume/${volume}`} key={volume}>
+                <div className="card">
+                  <div className="card-vol-number">{volNum}</div>
+                  <h2>Volume {volNum}</h2>
+                  <p>Explore Sermons</p>
+                </div>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
     </div>
   );
 }
