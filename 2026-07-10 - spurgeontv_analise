@@ -1,0 +1,188 @@
+# 📺 SpurgeonTV — Análise Completa do Projeto
+
+## O Que é o SpurgeonTV?
+
+SpurgeonTV é uma **plataforma de leitura de sermões** de Charles Haddon Spurgeon (1834–1892), o "Príncipe dos Pregadores". O site reúne a coleção completa dos 63 volumes de sermões publicados por Spurgeon — mais de 3.500 sermões — em uma interface moderna, elegante e em português.
+
+---
+
+## 🔗 Conta GitHub Associada
+
+> [!IMPORTANT]
+> O repositório **não possui um remote configurado** (git remote vazio), o que significa que **o projeto ainda não foi publicado no GitHub**. No entanto, os commits locais estão assinados com:
+> - **Nome:** `webert-dev`
+> - **Email:** `webert@ymail.com`
+
+Isso indica que a conta GitHub associada ao projeto é provavelmente **`webert-dev`** em [github.com/webert-dev](https://github.com/webert-dev).
+
+---
+
+## 🏗️ Arquitetura & Stack Tecnológica
+
+| Camada | Tecnologia |
+|---|---|
+| Framework | **Next.js 16.2.10** (App Router) |
+| Runtime | **React 19.2.4** |
+| Linguagem | JavaScript (sem TypeScript) |
+| Estilização | **Vanilla CSS** (`globals.css`, 865 linhas) |
+| Markdown → HTML | **marked** `^18.0.6` |
+| Conteúdo | Arquivos `.md` locais (63 diretórios) |
+| Busca | Index JSON estático (`search-index.json`, 678 KB) |
+| Deploy-ready | Vercel (padrão Next.js) |
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+SPURGEONTV/
+├── app/
+│   ├── layout.js            # Layout global (header, footer)
+│   ├── page.js              # Página inicial (Hero, Stats, Grid de Volumes)
+│   ├── globals.css          # Design system completo (tokens, componentes)
+│   ├── search-client.js     # Componente de busca client-side
+│   └── sobre/
+│       └── page.js          # Página "Sobre Spurgeon" com timeline
+│   └── volume/
+│       └── [id]/
+│           └── [sermonId]/  # Página de leitura individual do sermão
+├── lib/
+│   ├── sermons.js           # API de leitura dos arquivos .md
+│   └── search-index.json    # Index de busca (gerado, 678 KB)
+├── scripts/
+│   └── generate-search-index.mjs  # Script de build do index
+├── public/
+│   └── search-index.json    # Index servido ao cliente
+└── chspurgeon-sermons-main/
+    ├── volume-01/ ... volume-63/   # 63 diretórios com arquivos .md
+    └── README.md, LICENSE          # Fonte dos dados
+```
+
+---
+
+## ⚙️ Como o Sistema Funciona
+
+1. **Conteúdo**: Os sermões são arquivos Markdown (`.md`) no diretório `chspurgeon-sermons-main/`, organizados em 63 volumes.
+2. **Build**: O script `generate-search-index.mjs` lê todos os arquivos `.md`, extrai título, número do volume e referência bíblica, e gera `public/search-index.json` (executado automaticamente via `prebuild`).
+3. **Server Components**: As páginas de volume e sermão são **Server Components** — os arquivos são lidos com `fs/promises` no servidor e renderizados estaticamente (`generateStaticParams`).
+4. **Busca**: O `SearchClient` é um **Client Component** que carrega o index JSON lazily (só no primeiro focus) e filtra por título, referência bíblica ou versículo.
+5. **Markdown Rendering**: O conteúdo dos sermões é convertido de Markdown para HTML via `marked` e injetado com `dangerouslySetInnerHTML`.
+
+---
+
+## 🎨 Design System
+
+O CSS usa um tema **dark mode premium** com:
+- Paleta: fundo escuro `#0f1115` + dourado `#d4af37` como cor de destaque
+- Tipografia: **Inter** (sans-serif) + **Playfair Display** (serif) via Google Fonts
+- Glassmorphism no header (backdrop-filter blur)
+- Cards com hover effects
+- Timeline animada na página "Sobre"
+
+---
+
+## 🚀 Rotas da Aplicação
+
+| Rota | Descrição |
+|---|---|
+| `/` | Página inicial — Hero, Stats, Grid dos 63 Volumes |
+| `/sobre` | Biografia de Spurgeon com timeline histórica |
+| `/volume/[id]` | Lista de sermões de um volume específico |
+| `/volume/[id]/[sermonId]` | Leitura completa de um sermão |
+
+---
+
+## 💡 Sugestões de Melhorias
+
+### 🔴 Alta Prioridade
+
+#### 1. Publicar no GitHub
+O projeto não tem remote configurado. Publicar abriria portas para CI/CD, Vercel auto-deploy e controle de versão colaborativo.
+```bash
+git remote add origin https://github.com/webert-dev/spurgeontv.git
+git push -u origin main
+```
+
+#### 2. Segurança: `dangerouslySetInnerHTML`
+O conteúdo dos sermões é injetado diretamente via `dangerouslySetInnerHTML`. Como os arquivos são locais e estáticos, o risco é baixo — mas seria boa prática sanitizar o HTML com uma lib como **DOMPurify** (client-side) ou **sanitize-html** (server-side).
+
+#### 3. Adicionar TypeScript
+O projeto usa JavaScript puro. Migrar para TypeScript aumentaria a segurança de tipos, especialmente nas funções do `lib/sermons.js` que lidam com parsing de Markdown.
+
+#### 4. Reduzir o `search-index.json` (678 KB)
+O arquivo de busca tem 678 KB — pesado para carregar no browser. Soluções:
+- **Comprimir com gzip/brotli**: Ativar compressão no `next.config.mjs`
+- **Paginação do index**: Dividir por volume
+- **Busca server-side com Route Handlers**: Substituir a busca client-side por API `/api/search?q=...`
+
+---
+
+### 🟡 Média Prioridade
+
+#### 5. Migrar `extractScripture` para módulo compartilhado
+A função `extractScripture` está **duplicada** em `lib/sermons.js` e `scripts/generate-search-index.mjs`. Criar um módulo compartilhado evitaria divergência entre as versões.
+
+#### 6. Adicionar Metadados Dinâmicos (SEO)
+As páginas de sermão não têm `generateMetadata`. Adicionar título e descrição dinâmicos para cada sermão melhoraria muito o SEO.
+```js
+export async function generateMetadata({ params }) {
+  const sermon = await getSermonContent(params.id, params.sermonId);
+  return {
+    title: `${sermon.title} | SpurgeonTV`,
+    description: sermon.scripture?.verse,
+  };
+}
+```
+
+#### 7. Navegação entre Sermões (Anterior / Próximo)
+A página de leitura de sermão não tem links "← Sermão Anterior" / "Próximo Sermão →". Isso interromperia a fluidez da leitura.
+
+#### 8. Modo de Leitura / Ajuste de Tipografia
+Para um site de leitura de sermões longos, seria ideal:
+- Controle de tamanho de fonte
+- Espaçamento entre linhas ajustável
+- Opção de fonte serifada vs. sans-serif
+
+#### 9. Breadcrumb na Página de Sermão
+A navegação atual tem apenas "← Voltar ao Volume X". Um breadcrumb `Home > Volume 3 > Sermão 42` tornaria a navegação mais clara.
+
+---
+
+### 🟢 Baixa Prioridade / Extras
+
+#### 10. Funcionalidade de Favoritos
+Salvar sermões favoritos no `localStorage` para retornar depois.
+
+#### 11. Modo de Leitura em Voz Alta (TTS)
+Integrar a Web Speech API para ler os sermões em voz alta — faria sentido para um site chamado "SpurgeonTV".
+
+#### 12. Progresso de Leitura
+Mostrar uma barra de progresso no topo durante a leitura de um sermão.
+
+#### 13. Compartilhamento de Trechos
+Permitir que o usuário selecione um trecho do sermão e compartilhe como imagem (estilo "share quote").
+
+#### 14. Adicionar README real ao projeto
+O README atual é o boilerplate do `create-next-app`. Documentar o propósito, stack, e como rodar o projeto localmente seria um bom passo.
+
+#### 15. `output: 'export'` no `next.config.mjs`
+Como o site é 100% estático (todos os dados são arquivos locais), habilitar o modo de exportação estática eliminaria a necessidade de um servidor Node.js para deploy.
+```js
+const nextConfig = { output: 'export' };
+```
+
+---
+
+## 📊 Resumo de Saúde do Projeto
+
+| Categoria | Status | Nota |
+|---|---|---|
+| Funcionalidade Core | ✅ Completo | Volumes, sermões e busca funcionando |
+| Design / UI | ✅ Excelente | Dark mode, gold accent, tipografia premium |
+| SEO | ⚠️ Parcial | Metadados estáticos apenas no layout |
+| Segurança | ⚠️ Atenção | `dangerouslySetInnerHTML` sem sanitização |
+| Performance | ⚠️ Melhorável | Index JSON de 678 KB |
+| TypeScript | ❌ Ausente | Projeto em JS puro |
+| Testes | ❌ Ausente | Nenhum teste automatizado |
+| CI/CD | ❌ Ausente | Sem remote, sem pipeline |
+| Documentação | ❌ Fraca | README é boilerplate |
