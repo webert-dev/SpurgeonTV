@@ -1,8 +1,9 @@
 import Link from 'next/link';
-import { getVolumes } from '../lib/sermons';
+import { getVolumes } from '../../lib/sermons';
 import SearchClient from './search-client';
 
-export default async function Home() {
+export default async function Home({ params }) {
+  const { lang } = await params;
   const volumes = await getVolumes();
 
   const stats = [
@@ -29,7 +30,7 @@ export default async function Home() {
           </p>
 
           {/* Search bar — lazy-loads index on first focus */}
-          <SearchClient />
+          <SearchClient lang={lang} />
 
         </div>
       </section>
@@ -67,7 +68,7 @@ export default async function Home() {
           {volumes.map((volume) => {
             const volNum = parseInt(volume.replace('volume-', ''), 10);
             return (
-              <Link href={`/volume/${volume}`} key={volume}>
+              <Link href={`/${lang}/volume/${volume}`} key={volume}>
                 <div className="card">
                   <div className="card-vol-number">{volNum}</div>
                   <h2>Volume {volNum}</h2>

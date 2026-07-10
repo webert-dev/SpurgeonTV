@@ -1,13 +1,14 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 
 /**
  * SermonInfoPanel
  * A collapsible panel that shows enriched metadata for a single sermon.
  * Rendered inside the volume listing below each sermon item.
  */
-export default function SermonInfoPanel({ meta }) {
+export default function SermonInfoPanel({ meta, lang = 'en' }) {
   const [open, setOpen] = useState(false);
 
   if (!meta) return null;
@@ -59,6 +60,34 @@ export default function SermonInfoPanel({ meta }) {
             {/* Title & scripture */}
             <p className="sermon-info-title">{meta.title}</p>
             <p className="sermon-info-scripture">{meta.scripture}</p>
+            
+            <div className="sermon-info-langs" style={{ display: 'flex', gap: '1rem', marginTop: '1rem', fontSize: '0.85em', color: 'var(--text-secondary)' }}>
+              <span>Available in:</span>
+              {meta.availableLangs?.includes('en') ? (
+                <Link href={`/en/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'en' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>EN</Link>
+              ) : (
+                <span style={{ opacity: 0.3 }}>EN</span>
+              )}
+              {meta.availableLangs?.includes('es') ? (
+                <Link href={`/es/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'es' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>ES</Link>
+              ) : (
+                <span style={{ opacity: 0.3 }}>ES</span>
+              )}
+              {meta.availableLangs?.includes('pt') ? (
+                <Link href={`/pt/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'pt' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>PT</Link>
+              ) : (
+                <span style={{ opacity: 0.3 }}>PT</span>
+              )}
+            </div>
+
+            {lang === 'es' && meta.isTranslated && (
+              <>
+                <hr className="sermon-info-divider" />
+                <p className="sermon-info-translator" style={{ fontSize: '0.85em', fontStyle: 'italic', color: 'var(--color-gold)', textAlign: 'center', marginTop: '1rem' }}>
+                  Traducción al español por el Misionero Allan Román
+                </p>
+              </>
+            )}
           </div>
         </div>
       )}

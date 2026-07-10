@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 
-export default function SearchClient() {
+export default function SearchClient({ lang = 'en' }) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
@@ -106,7 +106,7 @@ export default function SearchClient() {
           {results.map((sermon) => (
             <Link
               key={`${sermon.volume}-${sermon.slug}`}
-              href={`/volume/${sermon.volume}/${sermon.slug}`}
+              href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`}
               className="search-result-item"
               onClick={() => {
                 setIsOpen(false);

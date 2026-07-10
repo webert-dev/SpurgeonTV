@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../lib/sermons';
+import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
 
 export async function generateStaticParams() {
   const volumes = await getVolumes();
@@ -15,11 +15,11 @@ export async function generateStaticParams() {
 }
 
 export default async function SermonPage({ params }) {
-  const { id, sermonId } = await params;
+  const { id, sermonId, lang } = await params;
 
   const [sermon, neighbors] = await Promise.all([
-    getSermonContent(id, sermonId),
-    getSermonNeighbors(id, sermonId),
+    getSermonContent(id, sermonId, lang),
+    getSermonNeighbors(id, sermonId, lang),
   ]);
 
   if (!sermon) notFound();
@@ -29,7 +29,7 @@ export default async function SermonPage({ params }) {
 
   return (
     <div className="reader-container" style={{ padding: '4rem 0' }}>
-      <Link href={`/volume/${id}`} className="back-link">
+      <Link href={`/${lang}/volume/${id}`} className="back-link">
         ← Back to Volume {volNum}
       </Link>
 
@@ -59,7 +59,7 @@ export default async function SermonPage({ params }) {
       <nav className="sermon-nav" aria-label="Sermon navigation">
         <div className="sermon-nav-side">
           {neighbors.prev ? (
-            <Link href={`/volume/${id}/${neighbors.prev.slug}`} className="sermon-nav-link sermon-nav-link--prev">
+            <Link href={`/${lang}/volume/${id}/${neighbors.prev.slug}`} className="sermon-nav-link sermon-nav-link--prev">
               <span className="sermon-nav-arrow" aria-hidden="true">←</span>
               <span className="sermon-nav-text">
                 <span className="sermon-nav-label">Previous Sermon</span>
@@ -76,13 +76,13 @@ export default async function SermonPage({ params }) {
           )}
         </div>
 
-        <Link href={`/volume/${id}`} className="sermon-nav-volume-btn" title={`Back to Volume ${volNum}`}>
+        <Link href={`/${lang}/volume/${id}`} className="sermon-nav-volume-btn" title={`Back to Volume ${volNum}`}>
           Vol. {volNum}
         </Link>
 
         <div className="sermon-nav-side sermon-nav-side--right">
           {neighbors.next ? (
-            <Link href={`/volume/${id}/${neighbors.next.slug}`} className="sermon-nav-link sermon-nav-link--next">
+            <Link href={`/${lang}/volume/${id}/${neighbors.next.slug}`} className="sermon-nav-link sermon-nav-link--next">
               <span className="sermon-nav-text">
                 <span className="sermon-nav-label">Next Sermon</span>
                 <span className="sermon-nav-title">{neighbors.next.title}</span>
