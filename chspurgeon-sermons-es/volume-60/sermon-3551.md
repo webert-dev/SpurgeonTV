@@ -1,0 +1,155 @@
+# Sermón 3551 | El Plpito Del Tabernculo Metropolitanoel Evangelio Nos Lleg En Poder
+
+El Plpito del Tabernculo Metropolitano
+
+El Evangelio Nos Lleg En Poder
+
+NO. 3551
+
+Sermn predicado el Domingo 28 de Abril de 1872
+
+En el Tabernculo Metropolitano, Newington
+
+> Pues nuestro evangelio no lleg a vosotros en palabras solamente...
+
+> de la ira venidera." 1 Tesalonicenses 1:5-10
+
+> Sermones
+
+> A un trabajador le gusta ver los frutos de su trabajo. Es muy desalentador que le dedique mucho esfuerzo y no pueda ver los resultados. Los trabajadores de Dios en la fe, continuaran esforzndose, aunque no vieran resultados; pero es ms consolador, mucho ms fcil continuar en el servicio, cuando ven que Dios los est bendiciendo. Ahora bien, no es malo que un ministro Cristiano hable de las conversiones que ha conseguido bajo su ministerio. Pablo dijo que l hubiera hablado de ellas, pero como otros lo hacan tan continuamente, no era necesario mencionarlas. Sin embargo, bajo ninguna circunstancia Pablo habra actuado mal, y por consiguiente, concluimos que es muy aceptable a veces que veamos lo que se ha hecho, y que hablemos de ello, y especialmente porque si cualquier ministerio hace algo bueno, es porque Dios lo ha hecho, y toda la gloria se le debe a l y a l solamente.
+
+> No hablar de lo que Dios ha hecho sera una ingratitud. Podra tener alguna semejanza con la humildad, pero en realidad sera deslealtad al Altsimo. Por eso mismo Pablo no dud en hablar de sus conversos en Tesalnica, y de su buen carcter, y del buen fruto que haban dado, y de la forma en que haban difundido el evangelio en otras comarcas. l no se jactaba; le daba la gloria a Dios, pero l comentaba lo que se haba hecho. Nosotros pensamos que podemos hacer lo mismo; en la medida que Dios bendiga nuestro trabajo, cualquiera de nosotros puede hablar de ello para alabanza y gloria de Dios, y para el estmulo de nuestros compaeros trabajadores. El Apstol en este pasaje nos dice lo que ha hecho Dios en Tesalnica. Procederemos de inmediato a desarrollarlo, pues nuestro texto es largo.
+
+> Y notarn ustedes que nos dice, primero,
+
+> lo que haba predicado en Tesalnica
+
+> ; luego
+
+> cmo le haba llegado a la gente
+
+> ; y, en tercer lugar, cul haba sido
+
+> el resultado de esto para ellos mismos
+
+> ; y, en cuarto lugar, cul
+
+> haba sido el resultado para otra gente
+
+> . Primero, el Apstol nos dice:
+
+> I.
+
+> QU FUE PREDICADO EN TESALNICA.
+
+> l dice, "Nuestro evangelio" (observen la frase), nuestro evangelio no lleg a vosotros en palabras solamente." Por qu le llama Pablo "nuestro evangelio"? l no lo invent; l no lo pens, ni lo haca nuevo cada domingo. No; era el evangelio de Cristo mucho antes que fuera el evangelio de Pablo. Sin embargo le llama nuestro evangelio
+
+> para diferenciarlo
+
+> , porque haba otros evangelios. Haba quienes llegaban y decan, "Esta es la buena nueva! y otros, por otro lado, decan, "Esta es la buena nueva! Pero Pablo dice que hay otro evangelio, y agrega, "No que haya otro, sino que hay algunos que os perturban." l, por consiguiente, afirm sus pies y dijo, "Traigan los evangelios que quieran, cada uno de ustedes; pero yo tengo un evangelio que predico, diferente al de ustedes, y ese evangelio es el que he predicado a los Tesalonicenses, el cual no les ha llegado en palabra solamente." En estos tiempos, amados mos, debe hacerse una diferenciacin entre el evangelio de los hombres y el evangelio de Dios; hoy da el evangelio del hombre es bastante popular. Alguien se pone a pensar hasta que le duele la cabeza, produce disparates, viene y los ofrece como algo nuevo. Los hombres van hasta el fondo de un tema y lo baten hasta que remueven el lodo de ese fondo y luego no pueden ver su propio camino, y nadie ms puede verlo, y luego salen con algo maravilloso y, usando palabras difciles de pronunciar y ms difciles de entender, ganan el prestigio barato de ser grandes eruditos y profundos telogos. Bien, dejemos que sigan su camino; ese es su evangelio; pero nosotros tenemos otro evangelio, el cual lo hemos ganado de otra manera, y deseamos propagarlo de otra manera. Pablo dijo "nuestro evangelio," pues, para hacer una distincin.
+
+> Pero tambin quiso decir que era su evangelio porque
+
+> le haba sido encomendado
+
+> ; lo haba recibido como un depsito sagrado; l era, por decirlo as, un mayordomo de Dios, con la misin de preservar y mantener viva la verdad en el mundo; y Pablo la preserv sin adulterarla. As cuando termin su vida pudo decir, "He peleado la buena batalla, he guardado la fe." Si alguien adulter el evangelio, no fue Pablo. l lo entreg tal como Cristo se lo dio. Oh! que cada uno de nosotros que es llamado a predicar el evangelio, y, por supuesto, cada miembro de la iglesia sienta que la verdad nos es encomendada para conservarla en el mundo! Nuestros antepasados la conservaron en la hoguera, y en el tormento cruel, y cuando se fueron al cielo en sus carros de fuego dejaron la verdad para que la preservaran sus hijos. Transmitida a nosotros por la larga fila de mrtires y confesores, Presbiterianos y Puritanos, qu vamos a hacer con ella ahora? No sentiremos que todo el costo de conservarla a travs de los siglos nos exige actuar igual que ellos, si hubiera la necesidad (aun a costa de nuestra sangre) y que, mientras vivamos, nunca se diga que en nuestra vida, en nuestra oracin, en nuestra conversacin, o en nuestra predicacin, el evangelio sufri en nuestras manos? "Yo s a quin he credo," dijo Pablo, y "estoy convencido de que l es poderoso para guardar mi depsito," o, ms bien, como algunos lo interpretan, "l es capaz de guardar mi depsito, el cual se me encomend para guardar; tambin Cristo guardar y preservar el evangelio puro y claro, aun hasta la ltima hora del tiempo." Que el Seor nos lo conceda, para gloria de su nombre!
+
+> Pero adems pienso que el Apstol utiliz el trmino "nuestro evangelio" no slo para diferenciarlo y porque sinti que le fue encomendado, sino porque
+
+> l mismo lo haba gozado
+
+> y lo haba experimentado. Qu derecho tiene alguien de predicar lo que no ha disfrutado ni hecho suyo? He odo de cierto mdico que usualmente probaba sus propias medicinas en l mismo; seguro que debiera ser siempre la prctica de aquellos que sirven al mdico celestial. Cmo vendremos y predicaremos el blsamo de Galaad, el cual cura todas las heridas, si las nuestras no han sido curadas? En qu lastimoso caso se encuentra el desdichado que habla de regeneracin, pero no ha nacido otra vez; que predica la fe, pero nunca ha credo; que habla de perdn, pero nunca ha sido lavado en la preciosa sangre; habla de la justicia de Cristo, pero tiembla en la desnudez de su propia corrupcin! Ah! hombre infeliz, ser heraldo de buenas nuevas, mientras l mismo no participa en ellas! A Ezequiel, antes que tuviera que ir y hablar del mensaje de Dios, se le dio un mensaje, y qu deca? "Hijo de hombre, come este rollo." Tuvo que tomar el mensaje escrito en el rollo y comerlo, y cuando estaba en su propio cuerpo entonces pudo hablar del mensaje con gran poder.
+
+> Es una buena mxima antigua la que dice: "Si tu predicacin debe llegar al corazn, debe salir del corazn." Debe haber conmovido a nuestras almas, antes que podamos esperar conmover las almas de otros. El Seor es mi testigo que al predicar aqu a ustedes, todos estos aos, amados mos, les he predicado lo que he probado y aplicado de la buena Palabra de Dios. He predicado la doctrina del pecado humano, porque he sentido su poder, sentido su amargura y vergenza, y me he revolcado en el polvo ante Dios, casi con desesperacin. Les he predicado el poder de la sangre preciosa para limpiar el pecado, porque he mirado hacia las amadas heridas de Cristo y he encontrado purificacin en ellas. Slo les hemos hablado de lo que nosotros mismos hemos conocido, y sentido, y comprobado que es cierto. Me ira a mi habitacin esta noche sintindome desventurado si no tuviera ms seguridad de la verdad de mi mensaje que la que pudiera encontrar en la experiencia de otros hombres.
+
+> Ahora muchos de ustedes estn comprometidos en la predicacin de Cristo a otros, y en ensear a Cristo a los nios en las escuelas. Siempre hablen de la llenura de sus propios corazones, porque cuando puedan decir, "He probado esto; me regocijo en esto," la palabra de ustedes seguramente llegar con poder a los corazones de quienes los escuchan. El hombre que desee traer a otros a Cristo debe de imitar a Elas, el profeta, quien, cuando hall al nio muerto en su cama y que no poda ser levantado a la vida de ninguna manera, fue y puso su boca en la boca del nio, y sus manos sobre las manos del nio, y sus pies sobre los pies del nio, y entonces poco a poco la vida se le restituy al nio. Debemos sentir una compasin interna por aquellos a quienes queremos traer a Cristo, y entonces proclamar desde nuestra propia alma lo que sabemos acerca del Salvador, y entonces llegar con frescura y con poder, y Dios y el Espritu Santo bendicen esto. Esta entonces, fue la razn que Pablo tuvo para llamarlo "nuestro evangelio", el evangelio encomendado a l, el evangelio que haba probado y aplicado a s mismo. Ahora quiero que ustedes observen en segundo lugar:
+
+> II.
+
+> CMO LLEG EL EVANGELIO A LOS DE TESALNICA.
+
+> l lo describe como viniendo en cuatro grados, primero, dice, "nuestro evangelio no lleg a vosotros slo en palabras, sino tambin en poder y en el Espritu Santo y en cuarto lugar, en plena conviccin."  Bien, estas cuatro palabras me permiten dividir a mi auditorio en este momento.  A todos los que han asistido regularmente a esta casa de reunin, que se han sentado en estas bancas durante algn tiempo,
+
+> ciertamente nuestro evangelio ha venido en palabra
+
+> ; todos la han escuchado, y la han escuchado de tal manera que entienden su sentido, el don de ella. La han odo de muchas maneras y formas prestndole la debida atencin. Oh, pero es de temerse que hay algunos para los que la palabra ha venido en eso, en palabras solamente, y es muy triste para el predicador (y debe ser ms triste para los que se encuentran en tal condicin), que esta Palabra que da vida sea solamente una palabra. Hubo el banquete del evangelio, y el mensaje fue enviado, pero quienes haban sido invitados no vinieron al banquete.  Escucharon el mensaje y eso fue todo.  All estn los enfermos junto al estanque de Betesda; ven el agua y eso es todo; pero no entran al estanque y no son curados. Oh, encontrarse enfermo y tener la curacin a la mano! Tener hambre, y que el pan est disponible! Estar sediento, y con un arroyo corriendo a nuestro pies, y no beber! Recuerden, queridos lectores, que si la Palabra de Dios viene a ustedes hoy como palabra solamente, algn da ser ms que eso, ya que es una verdad cierta de la Escritura que los que oyen la palabra son responsables por lo que oyen. "Mirad, pues, cmo os," deber ser algo a lo que tengamos que responder el da del juicio. "Ustedes escucharon el evangelio, pero lo rechazaron!" ser una de las acusaciones que se presentarn en contra de los que lo escucharon, y ser ms tolerable para Tiro y para Sidn que para ellos. Me gustara ahora dividir esta congregacin, respondiendo a esta pregunta: "Cuntos hay aqu presentes para quienes el evangelio ha venido en palabra solamente?" Dejen que hablen sus conciencias; que cada hombre ponga su mano sobre su corazn y responda: "Es ese mi caso?" Si es as, rogamos que salgan de esa condicin de inmediato, que no pasen ni un da ms as. Que la Palabra venga a ustedes de otra manera!
+
+> Pero, en segundo lugar, haba
+
+> algunos a quienes les lleg con poder
+
+> . Ahora bien, hay oyentes a quienes el evangelio les llega con un poder inspirador. Solan ser descuidados, pero ahora ya no pueden serlo. Oyen la palabra "eternidad! eternidad! eternidad!" resonando en sus odos, y los sobresalta y los despierta.  No pueden estar a gusto mientras  estn enemistados con Dios; sienten que su nido est agitado. Ha llegado a ellos con poder. Ms que eso, hay quienes han sentido un efecto aplastante; los ha golpeado duramente; ha magullado su rectitud; ha hecho astillas sus propias esperanzas; y aunque no han mirado hacia Cristo para la esperanza verdadera, sienten el poder del evangelio, que coloca a  todas las otras esperanzas en el polvo. Ah! Yo s que algunos de ustedes han sentido el poder del evangelio, porque se han ido a sus casas y han orado, tal vez docenas de veces, despus de escuchar el sermn, se han ido a sus recmaras, y han comenzado a orar, pero a la maana siguiente lo han olvidado. El bien de ustedes ha sido como el roco de la maana, y se ha evaporado cuando el calor de las preocupaciones del da le ha llegado. Ay! En muchos surcos hemos sembrado en vano. Hemos lanzado la semilla en terreno pedregoso; la hemos lanzado al lado del camino, y nuestros esfuerzos han sido vanos;  sin embargo, debemos continuar todava predicando el evangelio, porque a algunas personas les llegar an con mayor poder.
+
+> Otra vez, yo pedira otra divisin de la congregacin. S que hay algunos que estarn bajo esta divisin. No son salvos, pero no pueden burlarse del evangelio; no pueden pasar ante l con indiferencia. Es como una espada aguda de dos filos; perfora, corta, y hiere. Yo le ruego a Dios que los mate espiritualmente, para que puedan recibir nueva vida.
+
+> Ahora, el tercer grado de la llegada de la Palabra a Tesalnica fue que
+
+> vino en el Espritu Santo
+
+> . Ah! Aqu est el camino bendito; porque si viene en otro poder que no sea ste, vendr en vano; pero si viene en el Espritu Santo, Oh!, entonces, entonces se logra su objetivo, porque el Espritu Santo aligera a los hombres por una misteriosa operacin, que no podemos describir, pero que muchos hemos sentido, la cual llega a los hombres creando en ellos una nueva vida, y como ellos estaban muertos en el pecado entonces comienzan a vivir como no lo haban hecho antes. Ese mismo Espritu los ilumina, mostrndoles mil verdades que nunca antes haban visto; descubren que han entrado en un nuevo mundo; han pasado de la oscuridad a la luz maravillosa. Entonces el Espritu de Dios comienza a purificarlos. Los limpia de este y ese pecado, y los libra de impurezas, los renueva; est en ellos como un espritu para quemar y consumir al pecado, un espritu que los limpia limpindolos de sus maldades. Luego viene como un espritu de consolacin y les da alegra y paz, los eleva sobre sus preocupaciones, sus tentaciones, sus dudas y los llena con un anticipo de bendicin eterna. Oh! Bendito es ese hombre para quien nuestro evangelio llega con el Espritu Santo. Amados, no nos admira si las personas se burlan del evangelio en s mismo, o si otros lo oyen y no son conmovidos por l, porque el evangelio en s mismo es como una espada sin el brazo de un guerrero que la sostenga. Pero cuando el Espritu de Dios viene, el hombre ya no duda ms. Es cuando coloca la verdad en el corazn (de manera que alma y espritu, articulacin y mdula, se sumergen en ella) que los hombres son convencidos, convertidos, salvos, y la verdad es para ellos ciertamente una cosa viva. Rueguen, oh, amados miembros de esta iglesia, rueguen porque la palabra de Dios, nuestro evangelio, pueda venir en el Espritu Santo.
+
+> Pero hubo una cuarta clase para quienes la palabra lleg en un grado ms elevado; porque se agrega
+
+> "y en plena conviccin."
+
+> A todos los cristianos llega en el Espritu Santo, pero para algunos llega con un grado an mayor de poder espiritual.
+
+> Ellos creen en el evangelio, pero no lo creen tmidamente; lo aceptan como una realidad firme, slida, indisputable; se aferran a l como con una mano de hierro, y su propio inters en l no permanece en duda. No, ellos saben en quien creen, estn persuadidos de que l es capaz de guardar lo que se le ha encomendado. Ellos creen en Cristo con la fe de Abraham, que no titube ante la promesa por falta de fe. Las nubes y la oscuridad se han ido del cielo de ellos, y ven el ter azul claro de la presencia de Dios por encima de ellos. Se regocijan en el Seor siempre, y otra vez se vuelven a regocijar. Hay algunos as en esta congregacin; bendigo a Dios por cada uno de ellos. Que haya muchos ms; porque ustedes que poseen plena certidumbre son los hombres fuertes para el servicio. Teniendo la alegra del Seor en sus propias almas, sta se convierte en su fuerza cuando salen a luchar las batallas del Maestro, porque ustedes sienten el amor del Maestro. Que el Seor nos d muchos, muchos ms en la iglesia, para quienes la palabra de Dios venga en el Espritu Santo y con plena certidumbre. As fue como lleg la palabra de Dios a ellos. Debo de pasar al tercer punto y se es:
+
+> III.
+
+> CUL HABIA SIDO EL RESULTADO DE ESTO EN ELLOS MISMOS?
+
+> Observen que el apstol dice primero, "Tambin os hicisteis imitadores de nosotros y del Seor." Cuando se convierte un hombre no est apto para ser un conductor; tiene que ser un
+
+> imitador
+
+> . No tomamos reclutas sin experiencia y los hacemos capitanes; deben ser entrenados; deben ir a las filas y marchar un poco.  De manera que, una de las primeras cosas que la gracia hace, es hacer de un hombre un discpulo, es decir, un aprendiz, y entonces l ve en la palabra de Dios lo que debe de ser su vida y su conducta y, viendo alrededor de l, ve algunos de los que Dios ha bendecido con su gracia, cuya vida y conducta est de acuerdo con la Palabra, y l sigue a los sirvientes de Dios, no ciegamente; hace una distincin entre ellos y su Maestro, solamente los sigue tanto como se mantengan en compaa con el Seor. "Tambin os hicisteis imitadores de nosotros y del Seor." Hermanos yo s que muchos de ustedes aqu presentes, cuando la palabra de Dios vino a ustedes, se hicieron imitadores de hombres santos. Si ustedes oan de una buena accin, deseaban imitarla. Si ustedes lean alguna biografa que hablaba de nobles hechos, aspiraban a emular tales hechos. Y cuando leyeron el carcter de su Seor y Maestro en los cuatro Evangelistas, ustedes pidieron tener la gracia de vivir una vida de sacrificio, de devocin a Dios y de amor hacia los hombres. Bien, no se trata de una obra pequea de la gracia, cuando un hombre es llamado para ser un imitador de lo que es bueno.
+
+> Al mismo tiempo, nos dice que esa gente
+
+> recibi la Palabra de Dios "en medio de gran tribulacin
+
+> , con gozo del Espritu Santo." Yo s que hay algunos en este templo que, cuando recibieron el evangelio, tuvieron que sufrir por l, pero aun as se gozaron. Desde el da que se revistieron de Cristo pblicamente, fueron insultados, se volvieron sujetos de humillacin. Hermanos, algunos se han alejado de nosotros porque no pudieron aguantar las constantes burlas, pero otros se han quedado por la gracia de Dios y se han hecho capaces de soportar cualquier estigma o cualquier desdn. Y cierto, no es acaso algo sin importancia soportar las bromas y mofas de la gente si el corazn est dirigido hacia Dios?  Qu nos importa, qu podra importarnos aunque todos los hombres nos sealaran con el dedo y nos silbaran por ello? S verdadero con Dios, creyente, y con tu conciencia tambin, y bien puedes recibir la Palabra "con el gozo del Espritu Santo," y "en medio de gran tribulacin." Esta es una prueba del ministerio de un ministro cristiano, que puede sealar a quienes se han convertido en imitadores de lo que es bueno, y han continuado aun cuando hayan tenido que sufrir por eso.
+
+> Pero parece que esa gente de Tesalnica fue ms all. Crecieron de ser imitadores en algn sentido y, entonces,
+
+> se volvieron lderes
+
+> . "De tal manera que habis sido ejemplo para todos los creyentes de Macedonia y de Acaya,"  Ahora bien, es una cosa muy sencilla para un cristiano ser ejemplo para un pecador. Debe serlo, y no es cristiano si no lo es. Tu religin no valdra nada si no la colocas como un bello ejemplo para los impos. Pero hay un grado mayor de gracia cuando un hombre se convierte en ejemplo hasta para los cristianos (cuando es un creyente tal, que otros pueden verlo como un cristiano maduro) que pueden considerarlo como un tipo de lo que debe ser un cristiano. Pablo dice que algunos de esos idlatras degradados a los que les haba predicado el evangelio primero lo siguieron a l y al Seor, despus crecieron en gracia, de manera que se pusieron al frente y llegaron a ser ejemplo para los creyentes. Djenme sostener esto, amados, para motivacin de ustedes. Que ninguno de nosotros est contento con el ordinario y fro ser cristiano de hoy en da. Qu fra y pobre materia es! Si el propio Seor viniera, hallara fe en la tierra? Dnde est el celo de los das pasados?  Dnde est el ardor, donde est la valenta de las edades que fueron?  Si estas cosas no se encontraran en ningn lado, Oh, hermano mo, busca tenerlas en tu propia alma. Pdele a Dios si te ves forzado a ver a otros decaer, que t no decaigas, porque la gracia de Dios puede hacer de ti un ejemplo para el resto de su gente. De ellos hay aqu esta noche, de quienes podra hablar, que el Seor los bendiga y los conserve como son, porque he visto aqu a cristianos apostlicos.
+
+> Si no lo he visto en ningn otro lado, lo he visto aqu entre algunos de mis hermanos y hermanas aqu presentes, cuyo servicio ser recordado en el da del juicio. No desean que sea conocido aqu, ni lo ser, pero con lgrimas y oraciones se han dedicado a Cristo, y lo han servido bien, y l los recordar en ese da.
+
+> Ms an, el Apstol sigue adelante para decirnos lo que fue hecho por estos Tesalonicenses, a saber: que
+
+> se convirtieron de los dolos
+
+> . Oh! Que Dios nos convierta de todo dolo que tengamos! No adoramos dioses de madera y piedra, pero cuntos hay que profesan la fe pero que todava adoran el conocimiento; que lo busquen, pero que no lo adoren. Hay quienes adoran la fama; otros que adoran el placer. Esta ciudad est llena de idlatras por todos lados. Cuando la gracia de Dios viene, hace que los hombres adoren al Dios desconocido, y dejen sus dolos para los que as lo prefieran. Convirtindose de los dolos, los Tesalonicenses sirvieron al Dios viviente. No slo reconocieron que era el Dios viviente; sino que comenzaron a servirlo; pusieron su fuerza a favor de Su causa. As ser entre nosotros cada vez que la Palabra haya venido en el Espritu Santo; dedicaremos nuestro tiempo y nos gastaremos en el servicio de nuestro Creador y Redentor.
+
+> Y agrega que
+
+> esperaban la venida del Seor
+
+> . Oh! sta es una gran seal de gracia, cuando el Cristiano espera que venga su Seor, y vive como quien lo espera en cualquier momento. Si ustedes y yo supiramos esta noche que el Seor va a venir antes que este servicio termine, en qu estado de nuestro corazn nos sentaramos en estas bancas? En ese estado debemos estar. Si yo supiera que vera a mi Seor antes que se levantara otra vez el sol, cmo predicara? Debo predicar justo en la forma como si fuera a venir de inmediato, y no hubiera duda en ello. Estaramos muy poco apegados a las cosas de este mundo si supiramos que Cristo estaba por llegar rpidamente; as de poco debemos apegarnos a ellas. Nos deberamos preocupar muy poco por las incomodidades de la vida sabiendo que todo terminar y que Cristo vendr en muy breve plazo; as de poco deberamos preocuparnos de las incomodidades de la vida. Bendito es el hombre cuya alma est siempre esperando la venida del Seor! Puede no estudiar los textos de las Escrituras para saber los tiempos y estaciones, pero, si siempre est esperando que su Seor venga en cualquier momento, y vive bajo el sentimiento de esa conviccin, y bajo el poder de ella, ser un hombre santo.  "Qu clase de personas" dice Pedro "debis ser vosotros en conducta santa y piadosa!" As deseamos ser por el poder del Espritu Santo. As hemos observado lo que hizo la gracia de Dios para los de Tesalnica.  Ahora sealemos:
+
+> IV.
+
+> CUL FUE EL RESULTADO DE ESTO PARA OTROS?
+
+> Aqu deseo hablar esencialmente a los miembros de esta iglesia. Tesalnica era un puerto de mar. Tambin era una ciudad importante de Macedonia. Por ello, cualquier cosa que se hiciera en Tesalnica era  muy seguro que se supiera en toda Macedonia y el resto de Grecia. Si la iglesia en Tesalnica hubiera sido una iglesia aburrida, soolienta, como son algunas iglesias cristianas, hubiera perdido una excelente oportunidad de hacer el bien, pero al ser una iglesia completamente despierta, realmente llena de la propia fuerza de Dios, desde esa iglesia reson la Palabra de Dios por toda Grecia, y cuando los barcos dejaban el puerto portaban la buena nueva al Asia menor y a otras tierras, de manera que Tesalnica se convirti en el punto de partida para los heraldos de la cruz. Ahora bien, si hay un lugar en el mundo que debiera sentir su responsabilidad, ese lugar es Londres. No somos egostas, creo, cuando decimos que es el mismo corazn del mundo. Cualquier cosa que se haga aqu seguramente se sabr, y una iglesia seria en Londres es solamente lo que debiera ser. Una iglesia en Londres de cualquier prominencia que sea soolienta, y aburrida, y fra tendr que rendir una muy pesada cuenta cuando venga el gran Maestro. En la iglesia en Tesalnica reson el evangelio involuntariamente, y tambin voluntariamente. Lo hicieron involuntariamente, porque hablaron sus mismas vidas.  Si no predicaron, estaban tan llenos de fe, de buenas obras, y santidad, que otra gente hablaba de ello, y lo daba a conocer, y la obra de Dios en las entraas de la iglesia, poda ser percibida en las vidas de sus miembros, y as se difundi. Oh! Cun feliz sera cualquier pastor cuyo pueblo fuera tan piadoso, tan unido, tan generoso, tan perseverante, tan devoto, tan lleno de fe y del Espritu Santo, que por todos lados se hablara de ellos, y por ellos, por su conducta, la Palabra de Dios resonara en otras partes.  Asegrense de eso, hermanos mos, asegrense de eso. Dios nos ha colocado donde somos observados por muchos. Denles algo para observar que sea valioso. Con los ojos de una multitud de testigos sobre nosotros, corramos con paciencia la carrera que nos es asignada.
+
+> Pero tambin la iglesia en Tesalnica
+
+> envi la Palabra voluntariamente
+
+> . No tengo duda que, si tenan hombres que podan predicar el evangelio, les pedan que fueran y lo predicaran; y si algunos salan de viaje, ya fueran capitanes o mercaderes que iban de lugar en lugar, o personas de influencia, o lo que fueran, les decan, "A cualquier lado que vayan perseveren en propagarlo. Prediquen el evangelio; divulguen a Jesucristo. Sean misioneros, todos ustedes." Ahora pues, en esto puedo regocijarme, y lo har, pues as ha sido entre nosotros. En este momento presente, supongo que no menos de trescientos de nuestros hijos que hemos tenido en las rodillas estn predicando el evangelio, mientras yo predico aqu, quiero decir ministros de Cristo predicando el evangelio. Adems de eso, por todas esas calles estn predicando nuestros evangelistas en las esquinas. Debiera haber an ms de ellos. Algunos de ustedes que vienen a orme los domingos en la noche, no debieran venir. Si tienen la gracia de Dios en su corazn, vengan y obtengan suficiente carne espiritual para que se alimenten, pero recuerden que Londres est desfalleciendo por falta del evangelio. Cmo se atreven ustedes, entonces, a estar sentados quietos para gozar del evangelio mientras los hombres perecen? Hay casas que son accesibles; hay salas pequeas y grandes; hay esquinas; hay todo tipo de lugares en donde se puede predicar a Jess. Oh! Esforcmonos con toda nuestra fuerza para hacer que sea conocido a lo largo y a lo ancho de esta gran ciudad.
+
+> En este momento tenemos predicando a nuestros hijos, los hijos de esta iglesia, en Australia, en Amrica, (hay abundancia de ellos all) predicando el evangelio de Cristo, en las islas del Pacfico, a travs de toda la extensin de nuestros Dominios. Demos gracias a Dios que hay tantos; pero deba haber muchos ms. Propongo como una teora, que un hombre cristiano no pregunte: "Estoy llamado a predicar el evangelio? Sino que debe preguntar Hay alguna razn para que yo no predique el evangelio?" El viejo plan era que los jvenes predicaran ante la Iglesia para ver si podan predicar. Creo que debemos educarlos de tal manera que slo que demuestren que no pueden predicar, no prediquen. Ahora bien, el Seor Oncken ha sido bendecido en Alemania, como ustedes saben, en el engrandecimiento de muchas iglesias Bautistas, y l siempre trabaja bajo esta teora: Todo miembro de la iglesia debe decir, al llegar, qu puede hacer. Si dice que no puede hacer nada, y es viejo, y enfermo, y tiene que estar en cama, muy bien, puede servir a Dios con el sufrimiento; pero si tiene alguna habilidad, y dice, "no puedo hacer nada," entonces la respuesta es, "No puedes entrar en la iglesia." No podemos tener vagos; slo debemos tener abejas trabajadoras en la colmena. Pienso que sera una buena decisin del Tabernculo el expulsar a todo miembro que no est haciendo esto o lo otro por el Seor Jesucristo. Me temo que algunos de ustedes se tendran que ir.
+
+> Bien, no promoveremos esa resolucin, pero promoveremos otra, a saber, que todo miembro que haya sido zngano hasta este momento orar para ser abeja; que todo el que no haya hecho nada, le pida al Seor que le ayude a empezar; que aquellos que han hecho la mitad de lo que pueden, quieran hacer la otra mitad; y que aquellos que estn haciendo todo lo que pueden quieran siempre hacer un poco ms, porque siempre el hacer algo ms de lo que uno puede, a la larga, es el mejor tipo de obra, porque entonces tienes que descansar en la fuerza de Dios cuando ests en el lmite de la tuya, y ah est el punto donde los resultados se obtienen. Pido las oraciones de los queridos hermanos que han estado con nosotros, algunos de ellos, por diecisis y diecisiete aos en este servicio, para que Dios no frene su mano a la mitad; que as como nos ha multiplicado a una congregacin sin igual de 4,500 miembros aproximadamente, tambin nos d una gracia sin igual; que nuestro celo, y seriedad, y entusiasmo pueda estar en proporcin con el nmero; y que el xito alcanzado por Dios est en proporcin con las responsabilidades colocadas sobre nosotros.
+
+> Hago sonar la trompeta de nuevo esta noche!  Como dijo Dios, "Hblenles a los hijos de Israel que vayan adelante," as quiero hablarles. Adelante, en el nombre de Dios; adelante! El mundo an reposa en el malo. Adelante, ustedes portadores de luz! Dispersen las tinieblas. An se re Satans de Dios. Adelante con el arma invencible de la cruz, y hganlo que luche! Hagan sonar sus trompetas alrededor de los muros de Jeric; que siga el asedio.  Dejen que suene la trompeta, y caer al suelo el muro aplastado por el poder del Dios eterno.
+
+> Adelante! Oigo a los ngeles decirlo. Adelante! Me parece or a innumerables espritus dicindolo. Hacindonos seas como el Hombre de Macedonia, que llam a Pablo al otro lado del mar. Adelante! Las mismas potencias del infierno detrs de nosotros bien pueden empujarnos. Adelante! El amor de Cristo dentro de nosotros, nos impulsar, y que cada hombre y mujer aqu reunidos, que hayan sido redimidos por la sangre resuelvan esta noche, con la fuerza de Jehovah, hacer por Dios y por su verdad algo ms de lo que hasta ahora hayamos pensado, para alabanza de la gloria de su gracia. Que Dios los bendiga, por causa de Jess.  Amn.
+
+> Sermones
