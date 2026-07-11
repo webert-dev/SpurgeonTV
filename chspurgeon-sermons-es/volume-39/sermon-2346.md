@@ -1,6 +1,6 @@
 # Sermón 2346 | Sermón 2346
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 La Vanidades de la Tierra y las Verdades
 
@@ -8,147 +8,147 @@ del Cielo
 
 NO. 2346
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL JUEVES 7 DE NOVIEMBRE, 1889
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
-Y TAMBIN LEDO EL
+Y TAMBIÉN LEÍDO EL
 
 DOMINGO 4 DE FEBRERO DE 1894.
 
-Ciertamente como una sombra es el
+“Ciertamente como una sombra es el
 
-hombre; ciertamente en vano se afana; amontona riquezas, y no sabe quin las
+hombre; ciertamente en vano se afana; amontona riquezas, y no sabe quién las
 
-recoger. Y ahora, Seor, qu esperar? Mi esperanza est en ti. Lbrame de
+recogerá. Y ahora, Seńor, żqué esperaré? Mi esperanza está en ti. Líbrame de
 
-todas mis transgresiones; no me pongas por escarnio del insensato.   Salmo 39:
+todas mis transgresiones; no me pongas por escarnio del insensato”.   Salmo 39:
 
 6-8.
 
-S, como una
+“Sí, como una
 
-sombra anda el hombre Salmo 39: 6.
+sombra anda el hombre…” Salmo 39: 6.
 
 La Biblia de
 
-las Amricas.
+las Américas.
 
-stas son unas palabras solemnes. A veces
+Éstas son unas palabras solemnes. A veces
 
-tenemos un tema ms jovial que ste; pero yo creo que tanto espiritualmente como
+tenemos un tema más jovial que éste; pero yo creo que tanto espiritualmente como
 
 naturalmente, mejor es ir a la casa del luto que a la casa del banquete. Una
 
-meditacin serena sobre las cosas, no como son en la ficcin, sino como
+meditación serena sobre las cosas, no como son en la ficción, sino como
 
 comprueban ser en la realidad, es siempre saludable. Hay una gran abundancia de
 
-afliccin en el mundo, y todos nosotros nos encontramos, de vez en cuando, con
+aflicción en el mundo, y todos nosotros nos encontramos, de vez en cuando, con
 
-algo que apacigua nuestro espritu y atempera nuestra sangre.
+algo que apacigua nuestro espíritu y atempera nuestra sangre.
 
 Entonces, si esta noche pensamos un poco en el
 
-carcter fugaz de este mundo, y consideramos el mundo verdadero donde
+carácter fugaz de este mundo, y consideramos el mundo verdadero donde
 
-nicamente se encuentra la certeza, y nos instruimos para aprender hechos y realidades,
+únicamente se encuentra la certeza, y nos instruimos para aprender hechos y realidades,
 
-con la bendicin del Espritu de Dios, podremos recibir un ms duradero
+con la bendición del Espíritu de Dios, podremos recibir un más duradero
 
 refrigerio que si nuestros corazones fueran conducidos a saltar de gozo por
 
-causa de una meditacin sobre algn tema embelesador.
+causa de una meditación sobre algún tema embelesador.
 
 No voy a alargar el prefacio pues hay demasiado
 
-contenido en el texto mismo como para ceder ms tiempo a una larga
+contenido en el texto mismo como para ceder más tiempo a una larga
 
-introduccin. Por tanto, noten, primero, que
+introducción. Por tanto, noten, primero, que
 
-David registra su visin de la vida humana:
+David registra su visión de la vida humana:
 
-Ciertamente como una
+“Ciertamente como una
 
 sombra es el hombre; ciertamente en vano se afana; amontona riquezas, y no sabe
 
-quin las recoger. Luego, a continuacin,
+quién las recogerá”. Luego, a continuación,
 
 David
 
-expresa sus propias emociones en la contemplacin de estas cosas:
+expresa sus propias emociones en la contemplación de estas cosas:
 
-Y ahora,
+“Y ahora,
 
-Seor, qu esperar? Mi esperanza est en ti. Y luego, en tercer lugar,
+Seńor, żqué esperaré? Mi esperanza está en ti”. Y luego, en tercer lugar,
 
-David ofrece una oracin apropiada y
+David ofrece una oración apropiada y
 
 necesaria,
 
-pues clama: Lbrame de todas mis transgresiones; no me pongas
+pues clama: “Líbrame de todas mis transgresiones; no me pongas
 
-por escarnio del insensato.
+por escarnio del insensato”.
 
 I.
 
 Primero, entonces, hemos de notar que, en
 
-nuestro texto, DAVID REGISTRA SU VISIN DE LA VIDA HUMANA.
+nuestro texto, DAVID REGISTRA SU VISIÓN DE LA VIDA HUMANA.
 
-Ustedes advertirn que inserta dos veces en este
+Ustedes advertirán que inserta dos veces en este
 
-versculo la palabra ciertamente, y con el ciertamente que est al final
+versículo la palabra “ciertamente”, y con el “ciertamente” que está al final
 
-del versculo cinco, que tiene el mismo significado y puede ser traducido como
+del versículo cinco, que tiene el mismo significado y puede ser traducido como
 
-ciertamente, expresa la misma palabra tres veces, ciertamente, ciertamente,
+“ciertamente”, expresa la misma palabra tres veces, “ciertamente, ciertamente,
 
-ciertamente, o si as lo quieren, de cierto, de cierto, de cierto. Nos
+ciertamente”, o si así lo quieren, “de cierto, de cierto, de cierto”. Nos
 
-recuerda a medias a su Hijo, que es ms grandioso, al Hijo de David, cuyo
+recuerda a medias a su Hijo, que es más grandioso, al Hijo de David, cuyo
 
-lenguaje fue enfatizado a menudo con esas sagradas palabras de confirmacin: De
+lenguaje fue enfatizado a menudo con esas sagradas palabras de confirmación: “De
 
-cierto, de cierto os digo.
+cierto, de cierto os digo”.
 
-David pareciera decirnos aqu que no hay nada
+David pareciera decirnos aquí que no hay nada
 
-seguro excepto que nada es seguro. Ciertamente dice l- nada en la tierra
+seguro excepto que nada es seguro. “Ciertamente” –dice él- “nada en la tierra
 
-es seguro; ciertamente no hay verdad en ninguna parte aqu abajo. Hay una
+es seguro; ciertamente no hay verdad en ninguna parte aquí abajo”. Hay una
 
 tierra de verdades, hay un hogar de seguridades y algunos de nosotros vamos en
 
-camino hacia all, y ya contamos con las arras de nuestra herencia; pero en
+camino hacia allá, y ya contamos con las arras de nuestra herencia; pero en
 
-cuanto a ustedes, que tienen su porcin en esta vida, ustedes tienen vanidad y
+cuanto a ustedes, que tienen su porción en esta vida, ustedes tienen vanidad y
 
-no verdad; el cambio est escrito sobre todas las cosas terrenales.
+no verdad; el cambio está escrito sobre todas las cosas terrenales.
 
-Habindonos dado as la tnica de la certeza
+Habiéndonos dado así la tónica de la certeza
 
-pues el salmista no escriba al azar, antes bien escriba lo que conoca,
+–pues el salmista no escribía al azar, antes bien escribía lo que conocía,
 
-escriba lo que haba experimentado, y escriba bajo la inspiracin del
+escribía lo que había experimentado, y escribía bajo la inspiración del
 
-Espritu de Dios- debemos considerar con ms cuidado lo que ha escrito. Si es
+Espíritu de Dios- debemos considerar con más cuidado lo que ha escrito. Si es
 
 tan cierto, debemos estar seguros de conocer su contenido.
 
 Y, en primer lugar, me parece que se refiere a la
 
-vida como un camino; y dice al respecto: S, como una sombra anda el hombre.
+vida como un camino; y dice al respecto: “Sí, como una sombra anda el hombre”.
 
-Luego habla de la vida como una zozobra; y de eso dice: Ciertamente en vano se
+Luego habla de la vida como una zozobra; y de eso dice: “Ciertamente en vano se
 
-afana. Y luego habla de la vida como un xito, segn dicen los hombres, y de
+afana”. Y luego habla de la vida como un éxito, según dicen los hombres, y de
 
-eso dice: Amontona riquezas, y no sabe quin las recoger.
+eso dice: “Amontona riquezas, y no sabe quién las recogerá”.
 
 David primero se refiere a
 
@@ -156,277 +156,277 @@ la vida como un andar.
 
 Parece que tuviera en mente la idea de una
 
-gran procesin: S, como una sombra anda el hombre. Si decidieran ir al show
+gran procesión: “Sí, como una sombra anda el hombre”. Si decidieran ir al show
 
-del seor Alcalde el prximo sbado, podran ver un espectculo vano y sabran
+del seńor Alcalde el próximo sábado, podrían ver un espectáculo vano y sabrían
 
-con precisin qu quera decir David. Tales cosas eran ms comunes en los
+con precisión qué quería decir David. Tales cosas eran más comunes en los
 
-pases orientales que en los nuestros; pero ya sea que se trate del show del
+países orientales que en los nuestros; pero ya sea que se trate del show del
 
-seor Alcalde o de cualquier otro, es un cuadro de lo que es esta vida mortal. La
+seńor Alcalde o de cualquier otro, es un cuadro de lo que es esta vida mortal. La
 
-procesin, si la vieran, o aunque no la vieran pero slo leyeran u oyeran
+procesión, si la vieran, o aunque no la vieran pero sólo leyeran u oyeran
 
-respecto a ella, podra recordarles qu es la vida; todo lo que ven es un puro
+respecto a ella, podría recordarles qué es la vida; todo lo que ven es un puro
 
-espectculo. Hay reyes en ese show, hay prncipes en ese show, y hay hroes de
+espectáculo. Hay reyes en ese show, hay príncipes en ese show, y hay héroes de
 
-tiempos antiguos en el show; pero, en realidad, all no hay ni reyes, ni prncipes,
+tiempos antiguos en el show; pero, en realidad, allí no hay ni reyes, ni príncipes,
 
-ni hroes. Es puro show; y as es, en gran medida, esta vida mortal.
+ni héroes. Es puro show; y así es, en gran medida, esta vida mortal.
 
-En algunas clases de la sociedad, la ostentacin
+En algunas clases de la sociedad, la ostentación
 
-lo es todo; sus miembros tienen que guardar las apariencias. Justamente es
+lo es todo; sus miembros tienen que “guardar las apariencias”. Justamente es
 
-eso; y, en el mundo entero eso es casi todo lo que hay apariencias- un
+eso; y, en el mundo entero eso es casi todo lo que hay –“apariencias”- un
 
-espectculo vano. Si quisieran realidad, no podran verla; la realidad es
+espectáculo vano. Si quisieran realidad, no podrían verla; la realidad es
 
-invisible. Si quieren sombra, pueden verla: Las cosas que se ven son
+invisible. Si quieren sombra, pueden verla: “Las cosas que se ven son
 
-temporales, pero las que no se ven son eternas. Yo deseara que pudiramos
+temporales, pero las que no se ven son eternas”. Yo desearía que pudiéramos
 
-captar esa idea como algo prctico, es decir, que todo lo que podemos ver es
+captar esa idea como algo práctico, es decir, que todo lo que podemos ver es
 
 una sombra, pero que lo que no podemos ver es la sustancia real.
 
 Cuando hablamos acerca de la fe, los hombres nos
 
-llaman: visionarios. Bien, bien, pueden llamarnos as si quieren, pues
+llaman: “visionarios”. Bien, bien, pueden llamarnos así si quieren, pues
 
-tenemos una visin de un orden muy excelso; pero nosotros queremos devolverles
+tenemos una visión de un orden muy excelso; pero nosotros queremos devolverles
 
 la palabra con su significado ordinario, pues si hacen su tesoro de lo que
 
-pueden ver y manejar, entonces ustedes son los visionarios, pues el espectculo
+pueden ver y manejar, entonces ustedes son los visionarios, pues el espectáculo
 
 con el que ustedes se regocijan es vano, y eso que ustedes ven con sus ojos no
 
-es sino una visin, un sueo que se esfuma cuando uno se despierta. La vida
+es sino una visión, un sueńo que se esfuma cuando uno se despierta. ˇLa vida
 
-terrenal es slo un show!
+terrenal es sólo un show!
 
-Oh, amigos, yo deseara que realmente considerramos
+ˇOh, amigos, yo desearía que realmente consideráramos
 
-eso! No seramos tan violentos como somos, si nos dijramos: stas slo son
+eso! No seríamos tan violentos como somos, si nos dijéramos: “Éstas sólo son
 
-sombras. No estaramos tan molestos ni afligidos como estamos, si nos
+sombras”. No estaríamos tan molestos ni afligidos como estamos, si nos
 
-dijramos con frecuencia: stas son sombras; no podra verlas si no lo fueran.
+dijéramos con frecuencia: “Éstas son sombras; no podría verlas si no lo fueran.
 
-Si fueran reales, no seran perceptibles para mis sentidos; slo seran
+Si fueran reales, no serían perceptibles para mis sentidos; sólo serían
 
-perceptibles para la facultad superior de la fe. Ciertamente, como una sombra
+perceptibles para la facultad superior de la fe”. “Ciertamente, como una sombra
 
-anda el hombre. Es un show, y nada ms.
+anda el hombre”. Es un show, y nada más.
 
-Pero es un espectculo pasajero, pues David no
+Pero es un espectáculo pasajero, pues David no
 
-dice: Ciertamente el hombre se sienta como si fuese una sombra, y permanece en
+dice: “Ciertamente el hombre se sienta como si fuese una sombra, y permanece en
 
-el mismo lugar, sino que dice: como una sombra
+el mismo lugar”, sino que dice: “como una sombra
 
 anda
 
-el hombre. La vida es como una procesin que pasa delante de
+el hombre”. La vida es como una procesión que pasa delante de
 
-sus ojos. Se acerca; escuchen los gritos de la gente! Estar aqu en unos
+sus ojos. ˇSe acerca; escuchen los gritos de la gente! Estará aquí en unos
 
 cuantos minutos. La gente llena las calles. Pero de pronto se ha desvanecido,
 
-ha desaparecido. No les da la impresin de que la vida es algo as? Yo
+ha desaparecido. żNo les da la impresión de que la vida es algo así? ˇYo
 
-recuerdo, oh, yo recuerdo tantas figuras en la procesin! Me ha parecido estar
+recuerdo, oh, yo recuerdo tantas figuras en la procesión! Me ha parecido estar
 
-como junto a una ventana, aunque eso slo ha sido una impresin, pues yo
+como junto a una ventana, aunque eso sólo ha sido una impresión, pues yo
 
-tambin he andado en la procesin. Recuerdo a los grandes hombres sinceros de
+también he andado en la procesión. Recuerdo a los grandes hombres sinceros de
 
-mi niez, a quienes oa orar; ahora estn cantando en el ms all. Luego,
+mi nińez, a quienes oía orar; ahora están cantando en el más allá. Luego,
 
-cuando pienso en ustedes, queridos amigos, recuerdo una larga procesin de
+cuando pienso en ustedes, queridos amigos, recuerdo una larga procesión de
 
-hombres santos y mujeres piadosas que han pasado ante m y se han ido a la
+hombres santos y mujeres piadosas que han pasado ante mí y se han ido a la
 
-gloria. Qu huestes de amigos tenemos en el mundo invisible: que se han
+gloria. ˇQué huestes de amigos tenemos en el mundo invisible: “que se han
 
-reunido con la mayora! Conforme envejecemos, ellos realmente son la mayora,
+reunido con la mayoría”! Conforme envejecemos, ellos realmente son la mayoría,
 
-y nuestros amigos que estn en la tierra son sobrepasados en nmero por
+y nuestros amigos que están en la tierra son sobrepasados en número por
 
-nuestros amigos que estn en el cielo. Algunos de ustedes recordarn con afecto
+nuestros amigos que están en el cielo. Algunos de ustedes recordarán con afecto
 
-a seres queridos que han pasado en la procesin, pero, por favor, tengan
+a seres queridos que han pasado en la procesión, pero, por favor, tengan
 
-presente que ustedes tambin van en la procesin. Aunque ellos parecieran haber
+presente que ustedes también van en la procesión. Aunque ellos parecieran haber
 
-pasado antes que ustedes, ustedes han estado pasando con ellos, y podran
+pasado antes que ustedes, ustedes han estado pasando con ellos, y podrían
 
-alcanzar el punto de cesacin en breve, y ste ser el tema de conversacin
+alcanzar el punto de cesación en breve, y éste será el tema de conversación
 
-entre la hermandad que ustedes aman: l, tambin, se ha ido, o Ella se qued
+entre la hermandad que ustedes aman: “Él, también, se ha ido”, o “Ella se quedó
 
-dormida; pues todos vamos caminando como en una procesin, y vamos
+dormida”; pues todos vamos caminando como en una procesión, y vamos
 
-esfumndonos hacia la tierra de sustancia y realidad.
+esfumándonos hacia la tierra de sustancia y realidad.
 
-Un espectculo que se est esfumando es, en s
+Un espectáculo que se está esfumando es, en sí
 
-mismo, vano, cuando es medido por esta vida mortal: un espectculo vano. Para
+mismo, vano, cuando es medido por esta vida mortal: “un espectáculo vano”. Para
 
-un hombre que no tiene ninguna esperanza en el ms all, todo es Vanidad de
+un hombre que no tiene ninguna esperanza en el más allá, todo es “Vanidad de
 
-vanidades, todo es vanidad. Dentro de la estrecha circunferencia de este pobre
+vanidades, todo es vanidad”. Dentro de la estrecha circunferencia de este pobre
 
 globo, no hay nada que valga lo suficiente como para que un hombre abra su boca
 
-y lo pida o lo reciba. Tomen el crculo ms amplio y ms grande de los cielos,
+y lo pida o lo reciba. Tomen el círculo más amplio y más grande de los cielos,
 
-y all, dentro de la ilimitada circunferencia, hay algo que ha de encontrarse
+y allí, dentro de la ilimitada circunferencia, hay algo que ha de encontrarse
 
 que vale la pena encontrar. Si moran en Dios, tienen algo sustancial; si mueren
 
-fuera de Dios, entonces se tiene mucho ruido para nada. La vida es un
+fuera de Dios, entonces se tiene “mucho ruido para nada”. La vida es un
 
-espectculo vano cuando es vivida separada de Dios.
+espectáculo vano cuando es vivida separada de Dios.
 
-Si lo consideraran por un minuto, veran
+Si lo consideraran por un minuto, verían
 
-directamente que as es. Piensen en los ejrcitos de Babilonia y de Asiria, en los
+directamente que así es. Piensen en los ejércitos de Babilonia y de Asiria, en los
 
 palacios que construyeron sus reyes, en las poderosas ciudades que edificaron;
 
-dnde estn ahora? Piensen en los medos y en los persas, con toda la pompa de
+żdónde están ahora? Piensen en los medos y en los persas, con toda la pompa de
 
-su poder; dnde estn sus glorias ahora? Y en Grecia, cuyos palacios y templos
+su poder; żdónde están sus glorias ahora? Y en Grecia, cuyos palacios y templos
 
-son una desolacin. Escuchen las pisadas de los ejrcitos romanos acercndose
+son una desolación. Escuchen las pisadas de los ejércitos romanos acercándose
 
 por la
 
 Via Sacra;
 
-oigan con atencin
+oigan con atención
 
 las aclamaciones del pueblo mientras se suben a los propios techos de las
 
-chimeneas para ver a los vencedores cuando regresan a casa; adnde se han ido
+chimeneas para ver a los vencedores cuando regresan a casa; żadónde se han ido
 
 todos? La fama hizo tocar una vez la trompeta de bronce y los ecos resonaron
 
-por un tiempo, pero luego se hizo el silencio. Ciertamente, como una sombra anda
+por un tiempo, pero luego se hizo el silencio. “Ciertamente, como una sombra anda
 
-el hombre. Imagnense una procesin, y habrn captado el pensamiento que David
+el hombre”. Imagínense una procesión, y habrán captado el pensamiento que David
 
-quera transmitirles. De esa manera, con demasiada frecuencia, es la vida
+quería transmitirles. De esa manera, con demasiada frecuencia, es la vida
 
-entera del hombre: es el simple paso de un desfile, y nada ms.
+entera del hombre: es el simple paso de un desfile, y nada más.
 
 El salmista luego habla de
 
-la vida como de una afliccin,
+la vida como de una aflicción,
 
-y dice: Ciertamente en vano se
+y dice: “Ciertamente en vano se
 
-afana. En efecto, as es. Cun pocas personas estn libres del espritu de las
+afana”. En efecto, así es. Cuán pocas personas están libres del espíritu de las
 
 cosas de este mundo como para poder pasar por la vida apaciblemente. Si
 
-pudiramos vivir una vez en las eternidades, estaramos tranquilos, y sosegados,
+pudiéramos vivir una vez en las eternidades, estaríamos tranquilos, y sosegados,
 
-y descansados; pero vivimos de acuerdo al momento y al da, y estamos sumidos
+y descansados; pero vivimos de acuerdo al momento y al día, y estamos sumidos
 
-en la preocupacin, y en la inquietud, y en el apuro y en la irritacin, y no
+en la preocupación, y en la inquietud, y en el apuro y en la irritación, y no
 
 conocemos el descanso verdadero. El trabajo de este mundo, si es llevado a cabo
 
-como si fuera nicamente para este mundo, est bien descrito aqu: Ciertamente
+como si fuera únicamente para este mundo, está bien descrito aquí: “Ciertamente
 
-en vano se afana.
+en vano se afana”.
 
-Miren cmo comienzan la vida, vidos de sus
+Miren cómo comienzan la vida, ávidos de sus
 
-gozos, sus honores, su riqueza. Noten cmo trabajan laboriosamente, y se
+gozos, sus honores, su riqueza. Noten cómo trabajan laboriosamente, y se
 
-afanan, y laboran. Cunto trabajo cerebral es efectuado a la luz del aceite de
+afanan, y laboran. ˇCuánto trabajo cerebral es efectuado a la luz del aceite de
 
-la lmpara de la medianoche!
+la lámpara de la medianoche!
 
 Muchos hombres agitan sus mentes y agotan sus
 
-espritus, hasta perder su vida buscando su manutencin. Procuran vivir, y he
+espíritus, hasta perder su vida buscando su manutención. Procuran vivir, y he
 
-aqu, la vida se les va; y se despiertan, y se preguntan cmo es que la han
+aquí, la vida se les va; y se despiertan, y se preguntan cómo es que la han
 
-dejado ir y no han vivido realmente del todo. Algunos estn completamente
+dejado ir y no han vivido realmente del todo. Algunos están completamente
 
 inclinados a adquirir, y no pretenden gozar en ninguna medida; cuando tales
 
 individuos consiguen lo suficiente, no es suficiente para ellos. Cuando obtienen
 
-el doble, todava estn vidos de ms, y viven en una perpetua afliccin. Entonces
+el doble, todavía están ávidos de más, y viven en una perpetua aflicción. Entonces
 
-uno tiene ms que otro e interviene la envidia, una de las ms desgastantes de
+uno tiene más que otro e interviene la envidia, una de las más desgastantes de
 
 todas las pasiones; y cuando un hombre tiene todo lo que pensaba que iba a
 
-necesitar jams, le entra el miedo de perderlo. Ahora est ansioso acerca de
+necesitar jamás, le entra el miedo de perderlo. Ahora está ansioso acerca de
 
-sto, y preocupado acerca de eso otro, e inquieto acerca de aquello.
+ésto, y preocupado acerca de eso otro, e inquieto acerca de aquello.
 
-Cranme que no hay personas que sufran ms la
+Créanme que no hay personas que sufran más la
 
-inquietud de la vida que aquellas que deberan tener el suficiente sentido para
+inquietud de la vida que aquellas que deberían tener el suficiente sentido para
 
-estar libres de eso; teniendo sustento y abrigo no estn contentos con
+estar libres de eso; “teniendo sustento y abrigo” no “están contentos con
 
-esto; y habiendo tomado todo lo que es bueno para llevar consigo, son como un
+esto”; y habiendo tomado todo lo que es bueno para llevar consigo, son como un
 
-viajero que, teniendo un slido bastn para ayudarle en su camino, necesita
+viajero que, teniendo un sólido bastón para ayudarle en su camino, necesita
 
-llevar un manojo de varas con l, y as se carga innecesariamente. Acaso no es
+llevar un manojo de varas con él, y así se carga innecesariamente. żAcaso no es
 
-as?
+así?
 
-Alguna vez entraron en la Bolsa de valores de
+żAlguna vez entraron en la Bolsa de valores de
 
-Pars, u oyeron alguna vez, por casualidad, el ruido de la Bolsa de valores de
+París, u oyeron alguna vez, por casualidad, el ruido de la Bolsa de valores de
 
-Londres? Es ms difcil ver este ltimo lugar que el primero; pero cuando he
+Londres? Es más difícil ver este último lugar que el primero; pero cuando he
 
-estado en el piso superior de la Bolsa de Pars, y he vuelto mi mirada hacia la
+estado en el piso superior de la Bolsa de París, y he vuelto mi mirada hacia la
 
-delirante multitud abajo, me he preguntado que si Bedlam fuera desalojado, si habra
+delirante multitud abajo, me he preguntado que si Bedlam fuera desalojado, si habría
 
-aqu ms ruido, ms murmullos, ms gritos, ms empujones y prisas, primero de este
+aquí más ruido, más murmullos, más gritos, más empujones y prisas, primero de este
 
-lado, y luego de aqul. No poda entender qu era lo que hacan; tal vez eso
+lado, y luego de aquél. No podía entender qué era lo que hacían; tal vez eso
 
-haca que la escena pareciera ms desquiciante. Cada hombre se vea muy alerta,
+hacía que la escena pareciera más desquiciante. Cada hombre se veía muy alerta,
 
-y presto a consumir a todos los dems hombres del lugar; y yo creo que la Bolsa
+y presto a consumir a todos los demás hombres del lugar; y yo creo que la Bolsa
 
 no es sino un cuadro de la vida mercantil en cualquier lado: competencia,
 
 competencia, todo mundo comprando barato, y triturando a cada quien que
 
-trabaja, y luego quejndose de que, a su vez, l est siendo molido, tambin,
+trabaja, y luego quejándose de que, a su vez, él está siendo molido, también,
 
-siendo medido con su propia medida. Ay, qu vida es sa!
+siendo medido con su propia medida. ˇAy, qué vida es ésa!
 
-Si David hubiera escrito este Salmo hoy, podra
+Si David hubiera escrito este Salmo hoy, podría
 
-haber escrito en letras maysculas: CIERTAMENTE EN VANO SE AFANA. Oh, que
+haber escrito en letras mayúsculas: “CIERTAMENTE EN VANO SE AFANA”. ˇOh, que
 
-hubiera un poco de tranquilidad! Oh, que hubiera tiempo para pensar! Oh, que
+hubiera un poco de tranquilidad! ˇOh, que hubiera tiempo para pensar! ˇOh, que
 
 hubieran oportunidades para acercarse a Dios, y exponer todos los pensamientos
 
-y todas las preocupaciones delante de l, y entonces salir sintiendo paciencia
+y todas las preocupaciones delante de Él, y entonces salir sintiendo paciencia
 
-entremezclada con gozo, y gozo con la expectacin de una indecible
+entremezclada con gozo, y gozo con la expectación de una indecible
 
 bienaventuranza que nos ayuda realmente a vivir, en lugar de ser inquietados en
 
@@ -434,43 +434,43 @@ vano!
 
 Bien, en seguida, David prosigue a hablar de
 
-la vida como un xito;
+la vida como un éxito;
 
 y menciona a
 
-quienes se supona que haban sido exitosos en la vida; aunque, fjense bien, acumular
+quienes se suponía que habían sido exitosos en la vida; aunque, fíjense bien, acumular
 
-riquezas, despus de todo, no es tener xito en la vida. Cuando lean en el
+riquezas, después de todo, no es tener éxito en la vida. Cuando lean en el
 
-peridico
+periódico
 
 La Noticias Ilustradas de
 
 Londres
 
-que alguien muri y que vala tal cantidad, no lo crean. Un
+que alguien murió y que “valía” tal cantidad, no lo crean. Un
 
-hombre no vale lo que posee cuando muere; un hombre no podra valer ni dos
+hombre no vale lo que posee cuando muere; un hombre no podría valer ni dos
 
-centavos, y aunque pueda poseer un milln, l mismo no vale nada, pobre hombre
+centavos, y aunque pueda poseer un millón, él mismo no vale nada, ˇpobre hombre
 
-que lo ambicionaba todo! Pero ustedes dicen que tal y tal individuo muri y
+que lo ambicionaba todo! Pero ustedes dicen que tal y tal individuo murió y
 
-dej 200,000 libras esterlinas. S, hay varios entre nosotros que cuando
+dejó 200,000 libras esterlinas. Sí, hay varios entre nosotros que cuando
 
 muramos, vamos a
 
 dejar
 
-mucho ms que
+mucho más que
 
-eso. Yo voy a dejar todo el mundo tras de m, y hay otras muchas personas aqu
+eso. Yo voy a dejar todo el mundo tras de mí, y hay otras muchas personas aquí
 
-que harn lo mismo, y dejarn todos los millones que hay, y todas las
+que harán lo mismo, y dejarán todos los millones que hay, y todas las
 
 propiedades que alguna vez existieron, y todos los tesoros del mundo; y yo
 
-supongo que cada uno de nosotros, cuando muramos, dejar todo tras de s, pues
+supongo que cada uno de nosotros, cuando muramos, dejará todo tras de sí, pues
 
 los sudarios no tienen bolsas, y los hombres no se llevan nada con ellos a sus
 
@@ -478,7 +478,7 @@ tumbas.
 
 Pero incluso cuando un hombre fuere exitoso en
 
-acumular riquezas, vean cmo lo describe David: Amontona riquezas. Eso es
+acumular riquezas, vean cómo lo describe David: “Amontona riquezas”. Eso es
 
 todo; no participa de ellas, no las usa, simplemente las acumula. Acumula sin
 
@@ -486,67 +486,67 @@ disfrute. Cuando un hombre tiene alimento y comida, tiene lo que necesita para
 
 su comodidad y todo lo que tenga en exceso, si fuera contado por miles, mil
 
-libras esterlinas bien podran ser mil pas, en lo que a algn beneficio para
+libras esterlinas bien podrían ser mil púas, en lo que a algún beneficio para
 
-l se refiere. Pero la ms grande acumulacin no le dar ms consuelo, pues
+él se refiere. Pero la más grande acumulación no le dará más consuelo, pues
 
-tendr la ansiedad adicional de cuidarla.
+tendrá la ansiedad adicional de cuidarla.
 
-Cuando las riquezas estn consagradas a la
+Cuando las riquezas están consagradas a la
 
-gloria de Dios, asumen un carcter muy diferente; pero ahora estoy hablando
+gloria de Dios, asumen un carácter muy diferente; pero ahora estoy hablando
 
-acerca de este mundo y de la mera posesin de sus tesoros. David lo describe
+acerca de este mundo y de la mera posesión de sus tesoros. David lo describe
 
 como el amontonamiento de riquezas, y eso es todo lo que es: obtener un gran
 
-montn, como lo hacen los nios a la orilla de mar, pues uno obtiene un montn
+montón, como lo hacen los nińos a la orilla de mar, pues uno obtiene un montón
 
-ms grande de arena que otro nio, pero, cul es el beneficio de eso?
+más grande de arena que otro nińo, pero, żcuál es el beneficio de eso?
 
-El salmista dice tambin que cuando el hombre
+El salmista dice también que cuando el hombre
 
-amontona riquezas, no sabe quin las recoger. Acapara sin seguridad. sta es
+amontona riquezas, “no sabe quién las recogerá”. Acapara sin seguridad. Ésta es
 
-probablemente una alusin al labrador que ha cortado su trigo y pone las
+probablemente una alusión al labrador que ha cortado su trigo y pone las
 
 gavillas juntas; y luego en la noche, antes de poder reunirlas en el granero, y
 
 mucho menos antes de poder trillar el grano, y molerlo, llega un merodeador, y
 
-se va corriendo con todo. El avaro amontona su oro, pero no sabe quin lo
+se va corriendo con todo. El avaro amontona su oro, pero no sabe quién lo
 
-recoger. No hemos visto el fruto del trabajo de muchos aos esfumarse en una
+recogerá. żNo hemos visto el fruto del trabajo de muchos ańos esfumarse en una
 
-hora? La cosecha de toda una vida ha desaparecido por un pnico en un momento.
+hora? La cosecha de toda una vida ha desaparecido por un pánico en un momento.
 
-Amontona riquezas, y no sabe quin las
+“Amontona riquezas, y no sabe quién las
 
-recoger. Deja su riqueza sin placer. El salmista alude al hecho de que los
+recogerá”. Deja su riqueza sin placer. El salmista alude al hecho de que los
 
-hombres no pueden decir qu ser de sus posesiones cuando mueran. Estoy seguro
+hombres no pueden decir qué será de sus posesiones cuando mueran. Estoy seguro
 
-de que hay muchos hombres que se revolveran en sus tumbas si supieran qu es
+de que hay muchos hombres que se revolverían en sus tumbas si supieran qué es
 
 lo que se estaba haciendo con sus riquezas ganadas duramente. Vivir enteramente
 
-para enriquecer a otros acerca de cuyo carcter sabes tan poco, pareciera ser
+para enriquecer a otros acerca de cuyo carácter sabes tan poco, pareciera ser
 
-un pobre objetivo en la vida; y, sin embargo, es el nico objetivo que muchos
+un pobre objetivo en la vida; y, sin embargo, es el único objetivo que muchos
 
-estn persiguiendo. Sin prole o sin hijos, pudiera ser que los hombres prosigan
+están persiguiendo. Sin prole o sin hijos, pudiera ser que los hombres prosigan
 
-reuniendo riquezas para algn heredero desconocido que, si lo conocieran, sera
+reuniendo riquezas para algún heredero desconocido que, si lo conocieran, sería
 
 tal vez objeto de su desprecio; sin embargo, prosiguen trabajando como esclavos
 
-para uno que nunca ser agradecido con ellos cuando estn muertos.
+para uno que nunca será agradecido con ellos cuando estén muertos.
 
-Ahora, todas estas cosas puestas juntas, no
+Ahora, todas estas cosas puestas juntas, żno
 
 constituyen un cuadro muy lamentable? Sin embargo, es muy cierto en cuanto a
 
-los mundanos, en cuanto al hombre que no tiene esperanza en el ms all, al
+los mundanos, en cuanto al hombre que no tiene esperanza en el más allá, al
 
 hombre que nunca ha proyectado su alma a lo espiritual y al reino celestial,
 
@@ -556,71 +556,71 @@ II.
 
 Y ahora, contento de alejarme de esta parte de
 
-nuestro tema, les pido que notemos cmo EXPRESA DAVID SUS PROPIAS EMOCIONES EN
+nuestro tema, les pido que notemos cómo EXPRESA DAVID SUS PROPIAS EMOCIONES EN
 
-LA CONTEMPLACIN DE ESTAS COSAS.
+LA CONTEMPLACIÓN DE ESTAS COSAS.
 
 Y, primero,
 
 ha
 
-llegado a una decisin.
+llegado a una decisión.
 
 Habiendo considerado estas cosas, comienza con la
 
-expresin de sus propios sentimientos as: Y ahora, Seor. Me gusta ese modo
+expresión de sus propios sentimientos así: “Y ahora, Seńor”. Me gusta ese modo
 
-de hablar; es algo grandioso ir a Dios con un ahora. Ustedes saben cmo viene
+de hablar; es algo grandioso ir a Dios con un “ahora”. Ustedes saben cómo viene
 
-el Seor a nosotros; l dice: Venid luego, dice Jehov, y estemos a cuenta. Me
+el Seńor a nosotros; Él dice: “Venid luego, dice Jehová, y estemos a cuenta”. Me
 
 gusta a veces que un hombre se acerque a Dios, y se siente, y parezca decir:
 
-Ahora, Seor, T ves que me he dado cuenta de la vanidad de este mundo; bien
+“Ahora, Seńor, Tú ves que me he dado cuenta de la vanidad de este mundo; bien
 
 puedo dejarlo ir todo, pues se derrite en mis manos; es una simple sombra que
 
 no es digna de que se viva para ella, y yo tengo que vivir en la eternidad
 
-contigo. Tengo que vivir en el cielo o en el infierno. Oh, Dios mo, haz que
+contigo. Tengo que vivir en el cielo o en el infierno. ˇOh, Dios mío, haz que
 
-recupere mi cordura! Llvame muy cerca de Ti, y estemos a cuenta, para resolver
+recupere mi cordura! Llévame muy cerca de Ti, y estemos a cuenta, para resolver
 
-el dilema. Y ahora, Seor.
+el dilema. ‘Y ahora, Seńor’”.
 
-Todo momento es solemne si quisiramos volverlo
+Todo momento es solemne si quisiéramos volverlo
 
-as; pero hay ciertos momentos decisivos en la vida, cuando los ojos del hombre
+así; pero hay ciertos momentos decisivos en la vida, cuando los ojos del hombre
 
-han sido abiertos para ver la falacia de sus bsquedas anteriores, cuando,
+han sido abiertos para ver la falacia de sus búsquedas anteriores, cuando,
 
-llegado al cruce de los caminos, mira las seales y dice: Y ahora, Seor,
+llegado al cruce de los caminos, mira las seńales y dice: “Y ahora, Seńor,
 
-guame; aydame a tomar la direccin correcta, a esquivar las sombras y a
+guíame; ayúdame a tomar la dirección correcta, a esquivar las sombras y a
 
-buscar lo que es sustancial. Ahora, Seor.
+buscar lo que es sustancial. Ahora, Seńor”.
 
-Tambin me gusta esta expresin de las emociones
+También me gusta esta expresión de las emociones
 
 de David, porque
 
 consulta con Dios.
 
-Como una sombra anda el hombre: pero, -dice- y ahora, Seor, no hay vanidad
+“Como una sombra anda el hombre: pero”, -dice- “y ahora, Seńor, no hay vanidad
 
-contigo, no hay impostura, no hay engao contigo; he aqu, yo me alejo de este
+contigo, no hay impostura, no hay engańo contigo; he aquí, yo me alejo de este
 
-espejismo que me acaba de engaar, y vengo a Ti, mi Dios, la Roca de mi
+espejismo que me acaba de engańar, y vengo a Ti, mi Dios, la Roca de mi
 
-salvacin, y miro a Ti. Y ahora, Seor. Quiera Dios que alguien aqu diga:
+salvación, y miro a Ti. Y ahora, Seńor”. Quiera Dios que alguien aquí diga:
 
-Tengo que pasar la eternidad en alguna parte. No voy a desperdiciar el tiempo
+“Tengo que pasar la eternidad en alguna parte. No voy a desperdiciar el tiempo
 
 presente viviendo como si este mundo lo fuera todo; antes bien, voy a alzar mi
 
-oracin esta noche, y voy a decir: Ahora, Seor, ahora ha pasado mi niez, y
+oración esta noche, y voy a decir: ‘Ahora, Seńor, ahora ha pasado mi nińez, y
 
-soy un joven; ahora que he cumplido veintin aos, ahora que tengo treinta,
+soy un joven; ahora que he cumplido veintiún ańos, ahora que tengo treinta,
 
 cuarenta, cincuenta, ahora que mi cabello encanece, es tiempo que sea sabio si
 
@@ -628,53 +628,53 @@ he de serlo alguna vez,
 
 ahora,
 
-Seor.
+Seńor’”.
 
 Y si fuera tan infeliz como para tener a una
 
-persona aqu que ha avanzado hasta el propio fin de su arrendamiento, y ya
+persona aquí que ha avanzado hasta el propio fin de su arrendamiento, y ya
 
-tiene setenta aos, y sin embargo, todava siguiera viviendo para un mundo que
+tiene setenta ańos, y sin embargo, todavía siguiera viviendo para un mundo que
 
-se le est escabullendo, quiera Dios que el Espritu Santo le haga decir esta
+se le está escabullendo, quiera Dios que el Espíritu Santo le haga decir esta
 
-noche: Y ahora, Seor, ahora te busco, ahora me vuelvo a Ti.
+noche: “Y ahora, Seńor, ahora te busco, ahora me vuelvo a Ti”.
 
 Pueden ver de inmediato que
 
-David siente que est fuera de lugar,
+David siente que está fuera de lugar,
 
-pues dice: Y ahora, Seor,
+pues dice: “Y ahora, Seńor,
 
-qu esperar? Dice: qu espero? Puedo ver lo que estos necios estn
+żqué esperaré?” Dice: “żqué espero? Puedo ver lo que estos necios están
 
-esperando; estn esperando tomar su lugar en el espectculo, se ponen sus
+esperando; están esperando tomar su lugar en el espectáculo, se ponen sus
 
-vestidos de disfraces, y salen hacia all para tomar parte en el desfile; pero
+vestidos de disfraces, y salen hacia allá para tomar parte en el desfile; pero
 
-yo no ir all. No pertenezco a ninguna de las clases que conforman ese
+yo no iré allá. No pertenezco a ninguna de las clases que conforman ese
 
-espectculo. Qu espero, entonces? Veo que los hombres en vano se afanan;
+espectáculo. żQué espero, entonces? Veo que los hombres en vano se afanan;
 
-pero, Seor, yo he aprendido a confiar en Ti; entonces, qu espero? Y, oh Dios
+pero, Seńor, yo he aprendido a confiar en Ti; entonces, żqué espero? Y, oh Dios
 
-mo, veo cmo otros agarran firmemente el tesoro que no pueden guardar, que no
+mío, veo cómo otros agarran firmemente el tesoro que no pueden guardar, que no
 
-vale la pena tener, pues pronto habrn de dejarlo, o l los dejar pronto a
+vale la pena tener, pues pronto habrán de dejarlo, o él los dejará pronto a
 
-ellos; yo no voy en pos de ese tipo de cosas; ahora, Seor, qu espero?
+ellos; yo no voy en pos de ese tipo de cosas; ahora, Seńor, żqué espero?”
 
 Es como un pez fuera del agua, es un hombre que
 
-est fuera de su pas natal, es evidentemente un extranjero y un exilado que
+está fuera de su país natal, es evidentemente un extranjero y un exilado que
 
-est volvindose a su Dios; es un forastero para con su Dios, y le dice:
+está volviéndose a su Dios; es un forastero para con su Dios, y le dice:
 
-Ahora, Seor, qu espero?, una pregunta que nicamente Dios mismo puede
+“Ahora, Seńor, żqué espero?”, una pregunta que únicamente Dios mismo puede
 
 responder plenamente.
 
-Observarn, tambin, que
+Observarán, también, que
 
 tiene su mirada puesta en el futuro.
 
@@ -682,241 +682,241 @@ Es un hombre que espera algo.
 
 La fe es una virtud excelsa, y la confianza en Dios es una flor que brota de
 
-ella. Qu espero? Todava no lo he encontrado; estoy esperndolo, pues aqu
+ella. “żQué espero? Todavía no lo he encontrado; estoy esperándolo, pues aquí
 
-no tenemos una ciudad permanente, antes bien, buscamos una ciudad venidera. Nuestro
+no tenemos una ciudad permanente, antes bien, buscamos una ciudad venidera”. Nuestro
 
-tesoro no est aqu; est all lejos, sobre los montes eternos, donde Cristo se
+tesoro no está aquí; está allá lejos, sobre los montes eternos, donde Cristo se
 
 sienta a la diestra de Dios. El hombre descrito en nuestro texto es un hombre
 
-que espera, cuyo principal deleite est ahora en un mundo venidero.
+que espera, cuyo principal deleite está ahora en un mundo venidero.
 
-Y, por ltimo, ustedes observan en este punto,
+Y, por último, ustedes observan en este punto,
 
 que
 
-es un hombre cuya esperanza est en
+es un hombre cuya esperanza está en
 
 Dios:
 
-Mi esperanza est en ti. No tengo esperanzas terrenales; antes
+“Mi esperanza está en ti”. No tengo esperanzas terrenales; antes
 
-bien, digo: Alma ma, en Dios solamente reposa, porque de l es mi esperanza.
+bien, digo: “Alma mía, en Dios solamente reposa, porque de él es mi esperanza”.
 
-He abandonado desde hace mucho las esperanzas de encontrar algo aqu, alguna
+“He abandonado desde hace mucho las esperanzas de encontrar algo aquí, alguna
 
-vez, que me llene, o que me contente; y ahora, Seor, mi esperanza est en Ti.
+vez, que me llene, o que me contente; y ahora, Seńor, mi esperanza está en Ti.
 
-Es nicamente a Ti, Dios mo, a quien deseo; y si te tengo a Ti, si estoy lleno
+Es únicamente a Ti, Dios mío, a quien deseo; y si te tengo a Ti, si estoy lleno
 
-de Ti, si T moras en m, si T me transformas a Tu imagen, si T te dignas
+de Ti, si Tú moras en mí, si Tú me transformas a Tu imagen, si Tú te dignas
 
-usarme para Tu gloria, si T me llevas a casa para morar contigo donde Jess
+usarme para Tu gloria, si Tú me llevas a casa para morar contigo donde Jesús
 
-est, sto es lo que espero, y no espero nada ms.
+está, ésto es lo que espero, y no espero nada más”.
 
 Nosotros esperamos las buenas cosas venideras. No
 
-somos habitantes de este pas; somos ciudadanos de la Nueva Jerusaln que est
+somos habitantes de este país; somos ciudadanos de la Nueva Jerusalén que está
 
-arriba; slo somos nufragos aqu por un momento, y estamos exilados del hogar
+arriba; sólo somos náufragos aquí por un momento, y estamos exilados del hogar
 
-hasta que el bote venga para transportarnos a travs del ro a la tierra donde
+hasta que el bote venga para transportarnos a través del río a la tierra donde
 
-estn nuestras verdaderas posesiones, y adonde nuestro Bienamado se ha ido. La
+están nuestras verdaderas posesiones, y adonde nuestro Bienamado se ha ido. La
 
-vida, y la luz, y el amor, y todo para nosotros, es l, que ha ido como nuestro
+vida, y la luz, y el amor, y todo para nosotros, es Él, que ha ido como nuestro
 
 Precursor al lugar que ha preparado para quienes le aman.
 
 III.
 
-Ahora cierro notando que DAVID OFRECE UNA ORACIN
+Ahora cierro notando que DAVID OFRECE UNA ORACIÓN
 
-APROPIADA Y NECESARIA: Lbrame de todas mis transgresiones; no me pongas por
+APROPIADA Y NECESARIA: “Líbrame de todas mis transgresiones; no me pongas por
 
-escarnio del insensato. Despus de todo, estamos aqu, hermanos; no sabemos
+escarnio del insensato”. Después de todo, estamos aquí, hermanos; no sabemos
 
-cunto tiempo ms nos podramos quedar aqu, y hay algunas cosas que
+cuánto tiempo más nos podríamos quedar aquí, y hay algunas cosas que
 
-necesitamos mientras estamos aqu. Bien, cules son? Enven sus solicitudes;
+necesitamos mientras estamos aquí. Bien, żcuáles son? Envíen sus solicitudes;
 
-qu necesitan?
+żqué necesitan?
 
-David asienta lo que necesita: l quiere ser
+David asienta lo que necesita: “Él quiere ser
 
-liberado de problemas, apunta alguien. No, l no dice nada al respecto; l ora
+liberado de problemas”, apunta alguien. No, él no dice nada al respecto; él ora
 
-diciendo: Lbrame de todas mis transgresiones. l quiere ser librado de ese
+diciendo: “Líbrame de todas mis transgresiones”. “Él quiere ser librado de ese
 
-dolor de cabeza, de ese dolor de corazn, de ese dolor en los miembros, de esa
+dolor de cabeza, de ese dolor de corazón, de ese dolor en los miembros, de esa
 
-depresin de espritu. Nada de eso; la oracin de este hombre piadoso es: Lbrame
+depresión de espíritu”. Nada de eso; la oración de este hombre piadoso es: “Líbrame
 
-de todas mis transgresiones.
+de todas mis transgresiones”.
 
 Esto es, primero
 
-or pidiendo liberacin de los pecados cometidos.
+oró pidiendo liberación de los pecados cometidos.
 
-Seor, quita
+“Seńor, quita
 
-todo mi pecado, para que est limpio completamente de cada brizna de pecado que
+todo mi pecado, para que esté limpio completamente de cada brizna de pecado que
 
-he cometido alguna vez. Acaso eso puede ser? Oh, s; eso nos ha sucedido a
+he cometido alguna vez”. żAcaso eso puede ser? ˇOh, sí; eso nos ha sucedido a
 
 muchos de nosotros! Hemos sido limpiados en la sangre del Cordero; y ese
 
-lavamiento es un lavamiento perfecto; no deja ninguna mancha tras de s. Si t
+lavamiento es un lavamiento perfecto; no deja ninguna mancha tras de sí. Si tú
 
-crees en el Seor Jesucristo, l ha tomado tu pecado sobre S; l ha quitado tu
+crees en el Seńor Jesucristo, Él ha tomado tu pecado sobre Sí; Él ha quitado tu
 
-pecado por el grandioso derramamiento de sangre; ya no est ms en ti; ha
+pecado por el grandioso derramamiento de sangre; ya no está más en ti; ha
 
-cesado de ser, segn este portentoso texto: La maldad de Israel ser buscada,
+cesado de ser, según este portentoso texto: “La maldad de Israel será buscada,
 
-y no aparecer; y los pecados de Jud, y no se hallarn. Cun grande
+y no aparecerá; y los pecados de Judá, y no se hallarán”. ˇCuán grande
 
-bienaventuranza es vivir sin ninguna nube de ningn tipo entre tu alma y tu
+bienaventuranza es vivir sin ninguna nube de ningún tipo entre tu alma y tu
 
-Dios, saber que cada pecado es borrado por la expiacin de Cristo, y que tu
+Dios, saber que cada pecado es borrado por la expiación de Cristo, y que tu
 
 Padre celestial te mira con deleite y favor, como a un hijo de Dios, y que no
 
-te reprocha! Oh, feliz, feliz, feliz es el hombre que camina en la luz, como
+te reprocha! ˇOh, feliz, feliz, feliz es el hombre que camina en la luz, como
 
-Dios est en la luz, y as tiene comunin con Dios, cuando la sangre de
+Dios está en la luz, y así tiene comunión con Dios, cuando la sangre de
 
-Jesucristo, Su Hijo, nos limpia de todo pecado! La primera oracin de David es
+Jesucristo, Su Hijo, nos limpia de todo pecado! La primera oración de David es
 
-para pedir liberacin de los pecados cometidos. Si la peticin es respondida en
+para pedir liberación de los pecados cometidos. Si la petición es respondida en
 
-tu caso, no caminars en un espectculo vano, y no te afanars en absoluto, y
+tu caso, no caminarás en un espectáculo vano, y no te afanarás en absoluto, y
 
-mucho menos te afanars en vano.
+mucho menos “te afanarás en vano”.
 
-A continuacin,
+A continuación,
 
 ora para ser liberado de los asaltos del pecado.
 
-Quin hay aqu
+żQuién hay aquí
 
-que no sea tentado? Si alguien dijera: yo estoy por encima de la tentacin, o
+que no sea tentado? Si alguien dijera: “yo estoy por encima de la tentación, o
 
-ms all de la tentacin, bien, esa persona est muy adentrada en el orgullo y
+más allá de la tentación”, bien, esa persona está muy adentrada en el orgullo y
 
-en la seguridad carnal; est carcomida por la lepra del autoengao. Todos
+en la seguridad carnal; está carcomida por la lepra del autoengańo. Todos
 
-nosotros somos tentados, y cada da necesitamos orar: No nos metas en
+nosotros somos tentados, y cada día necesitamos orar: “No nos metas en
 
-tentacin, mas lbranos del maligno. Lbrame de todas mis transgresiones.
+tentación, mas líbranos del maligno”. “Líbrame de todas mis transgresiones.
 
-Seor, no permitas que peque; no dejes que te ofenda de corazn, o de
+Seńor, no permitas que peque; no dejes que te ofenda de corazón, o de
 
-pensamiento, o de palabra o de obras.
+pensamiento, o de palabra o de obras”.
 
-Oh, que pudiramos ser perfectos, como para no
+ˇOh, que pudiéramos ser perfectos, como para no
 
-manifestar nunca un feo temperamento, no decir nunca una palabra sarcstica, no
+manifestar nunca un feo temperamento, no decir nunca una palabra sarcástica, no
 
-tener nunca un mal pensamiento! Oh, que pudiramos ser perfectos! Ah,
+tener nunca un mal pensamiento! ˇOh, que pudiéramos ser perfectos! ˇAh,
 
-seores, estas son las riquezas que codiciamos: ser perfectamente libres de
+seńores, estas son las riquezas que codiciamos: ser perfectamente libres de
 
-toda tendencia a pecar! Si pudiramos conseguir eso, entonces habramos llegado
+toda tendencia a pecar! Si pudiéramos conseguir eso, entonces habríamos llegado
 
 al cielo, pues eso es el cielo: ser perfectamente liberados del pecado. Bien,
 
-bien, tendremos esa perfeccin; Dios nos la dar; pero hagamos de sto el tema
+bien, tendremos esa perfección; Dios nos la dará; pero hagamos de ésto el tema
 
-de nuestra oracin diaria: Lbrame de todas mis transgresiones.
+de nuestra oración diaria: “Líbrame de todas mis transgresiones”.
 
-David tambin
+David también
 
-oraba por la liberacin de pecados peculiarmente peligrosos.
+oraba por la liberación de pecados peculiarmente peligrosos.
 
-Permtanme
+Permítanme
 
-poner un nfasis en una pequea palabra de mi texto: Lbrame de
+poner un énfasis en una pequeńa palabra de mi texto: “Líbrame de
 
 todas
 
-mis transgresiones. Me temo que
+mis transgresiones”. Me temo que
 
-todos nosotros tenemos algn pecado especial que es ms nuestro pecado que el
+todos nosotros tenemos algún pecado especial que es más nuestro pecado que el
 
-pecado de otro, alguna tendencia hereditaria, tal vez, alguna propensin a una
+pecado de otro, alguna tendencia hereditaria, tal vez, alguna propensión a una
 
 forma particular de pecado. Yo creo que si algunos hermanos fueran tentados
 
-alguna vez a experimentar una alegra exuberante, no pecaran en esa direccin,
+alguna vez a experimentar una alegría exuberante, no pecarían en esa dirección,
 
 pues nacieron en el mes de Noviembre, y tienen una niebla en su propia alma.
 
-Hay otros que, si fueran tentados a una gran depresin, no pecaran de esa
+Hay otros que, si fueran tentados a una gran depresión, no pecarían de esa
 
 manera, pues tienen la luz del sol en sus almas, y sus ojos parpadean con un
 
-jbilo natural. Algunos hombres no son tentados a ser avaros; sera una
+júbilo natural. Algunos hombres no son tentados a ser avaros; sería una
 
 misericordia si lo fueran, pues son unos tremendos derrochadores. Algunos
 
-hombres nunca son tentados a ser prdigos; yo casi deseara que el demonio, o
+hombres nunca son tentados a ser pródigos; yo casi desearía que el demonio, o
 
-alguien mejor, los tentara de esa manera, pues son muy mezquinos y es muy difcil
+alguien mejor, los tentara de esa manera, pues son muy mezquinos y es muy difícil
 
 obtener de ellos aunque sea tres centavos para ayudar a la mejor de las causas.
 
-Satans nos conoce muy bien; l ve las junturas
+Satanás nos conoce muy bien; él ve las junturas
 
-de nuestro arns, l sabe a cules pecados estamos especialmente inclinados; y
+de nuestro arnés, él sabe a cuáles pecados estamos especialmente inclinados; y
 
-si es as en cuanto a los pecadores, tambin lo es en cuanto a los santos.
+si es así en cuanto a los pecadores, también lo es en cuanto a los santos.
 
-Todos nosotros tenemos la necesidad de orar: Lbrame de
+Todos nosotros tenemos la necesidad de orar: “Líbrame de
 
 todas
 
 mis transgresiones; especialmente de los pecados con los que
 
-estoy ms comprometido. Seor, slvame de ellos. Yo te invito, querido amigo,
+estoy más comprometido. Seńor, sálvame de ellos”. Yo te invito, querido amigo,
 
-a hacer esta oracin de David.
+a hacer esta oración de David.
 
-Y luego hagan tambin la otra oracin: No me
+Y luego hagan también la otra oración: “No me
 
 pongas por escarnio del insensato. Si he de ser escarnecido, que sea
 
-escarnecido por los sabios; pero no me pongas por escarnio del insensato.
+escarnecido por los sabios; pero no me pongas por escarnio del insensato”.
 
-As,
+Así,
 
 David
 
-or pidiendo la liberacin de la merecida deshonra.
+oró pidiendo la liberación de la merecida deshonra.
 
-Oh, que Dios nos
+ˇOh, que Dios nos
 
-conceda que ninguno de ustedes -a quienes ha llamado a una vida ms excelsa y
+conceda que ninguno de ustedes -a quienes ha llamado a una vida más excelsa y
 
-mejor y que ha conducido a anhelar la gloria y la eternidad- haga jams que el
+mejor y que ha conducido a anhelar la gloria y la eternidad- haga jamás que el
 
-enemigo blasfeme y le d una razn real para que los desprecie! Que Dios nos
+enemigo blasfeme y le dé una razón real para que los desprecie! ˇQue Dios nos
 
-guarde de caer! Oh, hombres cristianos, Cristo ha sido herido ms por Sus
+guarde de caer! ˇOh, hombres cristianos, Cristo ha sido herido más por Sus
 
 amigos que por Sus enemigos! A nosotros no nos preocupa lo que el infiel tenga
 
-que decir; al menos, no nos preocupara si ustedes no le ayudaran en ciertos
+que decir; al menos, no nos preocuparía si ustedes no le ayudaran en ciertos
 
 momentos a decir cosas tristes por su inconsistencia. Sentimos la punta de la
 
-flecha, y la punzada de la herida es aguda; pero es un dolor ms penetrante
+flecha, y la punzada de la herida es aguda; pero es un dolor más penetrante
 
-sentir que tus maldades pusieron las plumas de la flecha que dispar el enemigo
+sentir que tus maldades pusieron las plumas de la flecha que disparó el enemigo
 
-desde su arco. Que Dios nos guarde de ese mal! Que no le prestemos nunca una
+desde su arco. ˇQue Dios nos guarde de ese mal! ˇQue no le prestemos nunca una
 
 pluma de nuestras alas con la cual se dispare una flecha contra Cristo o Su
 
@@ -924,105 +924,105 @@ causa!
 
 David
 
-tambin or para ser preservado de la indebida difamacin:
+también oró para ser preservado de la indebida difamación:
 
-No me pongas por
+“No me pongas por
 
-escarnio del insensato. Si vivieran la vida de un ngel, las personas necias
+escarnio del insensato”. Si vivieran la vida de un ángel, las personas necias
 
-pronto esparciran una historia perversa en contra de ustedes. A menos que el
+pronto esparcirían una historia perversa en contra de ustedes. A menos que el
 
-Seor detenga sus lenguas, ellos no las detendrn. Oren, entonces, para ser
+Seńor detenga sus lenguas, ellos no las detendrán. Oren, entonces, para ser
 
 preservados de la calumnia. Si viniera, que sea una calumnia real, y que no
 
-contenga ninguna verdad; pero que Dios los preserve incluso de eso, pues es
+contenga ninguna verdad; pero que Dios los preserve incluso de eso, pues ˇes
 
-algo cruel, y hiere en lo ms vivo!
+algo cruel, y hiere en lo más vivo!
 
-Adems,
+Además,
 
 David
 
-or pidiendo liberacin de la desilusin espiritual;
+oró pidiendo liberación de la desilusión espiritual;
 
-y que seamos
+ˇy que seamos
 
-preservados tambin de todas las desilusiones concernientes a nuestra confianza
+preservados también de todas las desilusiones concernientes a nuestra confianza
 
-en Dios! Si confiramos en Dios, y l no nos liberara, seramos, en verdad, el
+en Dios! Si confiáramos en Dios, y Él no nos liberara, seríamos, en verdad, el
 
 reproche del necio. Nosotros salimos valerosamente por la verdad de Dios, y
 
-estamos solos, y sin embargo, si esa verdad no nos vindicara nunca, entonces
+estamos solos, y sin embargo, si esa verdad no nos vindicara nunca, ˇentonces
 
-seramos puestos por escarnio del insensato! Oramos pidiendo que no seamos
+seríamos puestos por escarnio del insensato! Oramos pidiendo que no seamos
 
-puestos en vergenza, y que el brazo desnudo de Dios defienda Su propia causa,
+puestos en vergüenza, y que el brazo desnudo de Dios defienda Su propia causa,
 
-y nosotros creemos que as ser.
+y nosotros creemos que así será.
 
-Y lo ltimo es que, en su oracin: No me pongas
+Y lo último es que, en su oración: “No me pongas
 
-por escarnio del insensato,
+por escarnio del insensato”,
 
 David
 
-implora la liberacin de las terribles burlas al final.
+implora la liberación de las terribles burlas al final.
 
-Que nunca me pierda
+ˇQue nunca me pierda
 
 y entonces tenga que aguantar este escarnio para siempre! Saben, algunas veces me
 
-ha asaltado el pensamiento de que, si no soy veraz, y si en el ltimo gran da
+ha asaltado el pensamiento de que, si no soy veraz, y si en el último gran día
 
-el Seor dijera: Nunca os conoc; apartaos de m, malditos, aqullos que
+el Seńor dijera: “Nunca os conocí; apartaos de mí, malditos”, aquéllos que
 
-tendran que alejarse conmigo, cmo se volveran y me diran: Y
+tendrían que alejarse conmigo, cómo se volverían y me dirían: “żY
 
-t,
+tú,
 
 y
 
-t?
+tú?
 
-T nos hablabas; t nos predicabas; y, sin embargo, t mismo
+Tú nos hablabas; tú nos predicabas; y, sin embargo, tú mismo
 
-ests aqu. sto sera sufrir una vergenza como la que sufri el rey de
+estás aquí”. Ésto sería sufrir una vergüenza como la que sufrió el rey de
 
-Babilonia cuando descendi al abismo y los reyes a quienes haba matado
+Babilonia cuando descendió al abismo y los reyes a quienes había matado
 
-comenzaron a decirle: Llegaste a ser como nosotros? Cmo se gloriaban por
+comenzaron a decirle: “żLlegaste a ser como nosotros?” ˇCómo se gloriaban por
 
-causa de su conquistador, l mismo encerrado en el infierno, vencido por el
+causa de su conquistador, él mismo encerrado en el infierno, vencido por el
 
-Dios Todopoderoso! Profesantes, yo les suplico que digan esta oracin esta
+Dios Todopoderoso! Profesantes, yo les suplico que digan esta oración esta
 
-noche: No me pongas por escarnio del insensato.
+noche: “No me pongas por escarnio del insensato”.
 
 Sean sinceros y hombres veraces, para que en el
 
-ltimo da no slo no tengan que soportar la ira de Dios, sino la vergenza y
+último día no sólo no tengan que soportar la ira de Dios, sino la vergüenza y
 
-el desprecio sempiterno que sus compaeros pecadores amontonarn sobre ustedes,
+el desprecio sempiterno que sus compańeros pecadores amontonarán sobre ustedes,
 
-mientras ustedes permanecen, despus de haber profesado, siendo unos
+mientras ustedes permanecen, después de haber profesado, siendo unos
 
 desechados.
 
-Que el Seor les conceda Su bendicin a
+ˇQue el Seńor les conceda Su bendición a
 
-aqullos que van a ser bautizados esta noche! Que sean fieles hasta el fin; y
+aquéllos que van a ser bautizados esta noche! ˇQue sean fieles hasta el fin; y
 
-que otros en medio de nosotros, que han confesado a Cristo desde hace aos,
+que otros en medio de nosotros, que han confesado a Cristo desde hace ańos,
 
-sean guardados del pecado! Que todos nosotros confiemos en Cristo esta noche!
+sean guardados del pecado! ˇQue todos nosotros confiemos en Cristo esta noche!
 
-Si nunca antes hemos confiado en Jess, comencemos a confiar de inmediato, y
+Si nunca antes hemos confiado en Jesús, comencemos a confiar de inmediato, y
 
-que cada uno diga: Ahora, Seor, qu espero? Mi esperanza est en ti. Que
+que cada uno diga: “Ahora, Seńor, żqué espero? Mi esperanza está en ti”. ˇQue
 
-todos vayamos a Jess, y encontremos vida eterna en l! Amn y amn.
+todos vayamos a Jesús, y encontremos vida eterna en Él! Amén y amén.
 
 Nota del
 
@@ -1030,19 +1030,19 @@ traductor:
 
 Bedlam
 
-es un hospital siquitrico de Londres. La palabra
+es un hospital siquiátrico de Londres. La palabra
 
 bedlam
 
-significa tumulto y confusin. El hospital fue notorio por
+significa tumulto y confusión. El hospital fue notorio por
 
-crueldad y trato inhumano con sus pacientes. Era el eptome de una casa de
+crueldad y trato inhumano con sus pacientes. Era el epítome de una “casa de
 
-locos. El pastor Spurgeon compara a la Bolsa de valores con una casa de locos.
+locos”. El pastor Spurgeon compara a la Bolsa de valores con una casa de locos.
 
-Si el hospital quedara vaco, la Bolsa lo suplira.
+Si el hospital quedara vacío, la Bolsa lo supliría.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 7/Julio/2010
 

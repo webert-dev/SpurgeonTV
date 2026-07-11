@@ -1,14 +1,14 @@
 # Sermón 3185 | Sermón 3185
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-El Cantar de mi Amado.
+“El Cantar de mi Amado.”
 
 NO. 3185
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -16,37 +16,37 @@ Y PUBLICADO EL JUEVES
 
 17 DE FEBRERO DE 1910.
 
-Mi amado es mo, y yo suya; l apacienta
+“Mi amado es mío, y yo suya; él apacienta
 
-entre lirios. Hasta que apunte el da, y huyan las sombras, vulvete, amado
+entre lirios. Hasta que apunte el día, y huyan las sombras, vuélvete, amado
 
-mo; s semejante al corzo, o como el cervatillo sobre los montes de Beter.
+mío; sé semejante al corzo, o como el cervatillo sobre los montes de Beter.”
 
 Cantar de los Cantares 2: 16, 17.
 
-Bien se ha dicho que si hay un versculo
+Bien se ha dicho que si hay un versículo
 
-venturoso en la Biblia es este: Mi amado es mo, y yo suya: l apacienta entre
+venturoso en la Biblia es este: “Mi amado es mío, y yo suya: él apacienta entre
 
-lirios. Es tan apacible, tan lleno de seguridad, desborda tanta felicidad y dicha,
+lirios.” Es tan apacible, tan lleno de seguridad, desborda tanta felicidad y dicha,
 
-que muy bien pudiera haber sido escrito por la misma mano que escribi el Salmo
+que muy bien pudiera haber sido escrito por la misma mano que escribió el Salmo
 
-veintitrs: Jehov es mi pastor; nada me faltar. En lugares de delicados
+veintitrés: “Jehová es mi pastor; nada me faltará. En lugares de delicados
 
-pastos me har descansar; junto a aguas de reposo me pastorear. El versculo
+pastos me hará descansar; junto a aguas de reposo me pastoreará.” El versículo
 
-tiene el sabor de quien, justo antes de ir a Getseman, les dijo a Sus
+tiene el sabor de quien, justo antes de ir a Getsemaní, les dijo a Sus
 
-discpulos: La paz os dejo, mi paz os doy; yo no os la doy como el mundo la
+discípulos: “La paz os dejo, mi paz os doy; yo no os la doy como el mundo la
 
-da En el mundo tendris afliccin; pero confiad, yo he vencido al mundo. Toquemos
+da… En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.” Toquemos
 
-nuevamente la campana de plata de este versculo, pues sus notas son
+nuevamente la campana de plata de este versículo, pues sus notas son
 
-exquisitamente dulces: Mi amado es mo, y yo suya: l apacienta entre los
+exquisitamente dulces: “Mi amado es mío, y yo suya: él apacienta entre los
 
-lirios.
+lirios.”
 
 Con todo, hay una sombra en la segunda parte del
 
@@ -56,99 +56,99 @@ nada superior; pero no se trata de un paisaje enteramente iluminado por el sol.
 
 Hay una nube en el cielo que proyecta una sombra en la escena; no disminuye su
 
-brillo, pues todo es claro y se destaca viva y refulgentemente: Mi amado es
+brillo, pues todo es claro y se destaca viva y refulgentemente: “Mi amado es
 
-mo, y yo
+mío, y yo
 
 (soy)
 
-suya. Eso est muy
+suya.” Eso está muy
 
-claro, aunque, repito, no todo es luz de sol; hay sombras tambin: Hasta que
+claro, aunque, repito, no todo es luz de sol; hay sombras también: “Hasta que
 
-apunte el da, y huyan las sombras. Hay tambin una mencin de los montes de
+apunte el día, y huyan las sombras.” Hay también una mención de “los montes de
 
-Beter, los montes de la divisin, y cualquier cosa semejante a una divisin es
+Beter”, los montes de la división, y cualquier cosa semejante a una división es
 
 amargura.
 
-Yo veo aqu un cordero pascual, pero veo hierbas
+Yo veo aquí un cordero pascual, pero veo hierbas
 
-amargas con l. Veo al lirio, pero me parece que le veo todava entre las
+amargas con él. Veo al lirio, pero me parece que le veo todavía entre las
 
 espinas. Veo el hermoso y encantador paisaje de segura confianza, pero una
 
 sombra, apenas una sombra leve, le arrebata algo de su gloria; y el espectador tiene
 
-que buscar algo que est todava ms all: Hasta que apunte el da, y huyan
+que buscar algo que está todavía más allá: “Hasta que apunte el día, y huyan
 
-las sombras.
+las sombras.”
 
 Me parece que el texto indica justo este estado
 
-mental y, tal vez, algunos de ustedes podran ejemplificarlo en este momento: no
+mental y, tal vez, algunos de ustedes podrían ejemplificarlo en este momento: no
 
-dudan de su salvacin; saben que Cristo es suyo y estn seguros de ello, aunque
+dudan de su salvación; saben que Cristo es suyo y están seguros de ello, aunque
 
-tal vez no estn gozando en el presente de la luz del semblante de su Salvador.
+tal vez no estén gozando en el presente de la luz del semblante de su Salvador.
 
-Ustedes saben que l les pertenece, pero no se estn alimentando de ese hecho
+Ustedes saben que Él les pertenece, pero no se están alimentando de ese hecho
 
-precioso. Reconocen su inters vital en Cristo, al punto que no tienen ni una
+precioso. Reconocen su interés vital en Cristo, al punto que no tienen ni una
 
-sombra de duda de que son Suyos, y de que l les pertenece; pero, an as, Su
+sombra de duda de que son Suyos, y de que Él les pertenece; pero, aún así, Su
 
-izquierda no est debajo de su cabeza, ni Su derecha los est abrazando. Una
+izquierda no está debajo de su cabeza, ni Su derecha los está abrazando. Una
 
-sombra de tristeza se proyecta sobre su corazn, posiblemente por la afliccin,
+sombra de tristeza se proyecta sobre su corazón, posiblemente por la aflicción,
 
-seguramente por la ausencia temporal de su Seor; de tal manera que, aunque
+seguramente por la ausencia temporal de su Seńor; de tal manera que, aunque
 
-exclaman: Mi amado es mo, y yo suya, se ven forzados a caer de rodillas y
+exclaman: “Mi amado es mío, y yo suya”, se ven forzados a caer de rodillas y
 
-orar: Hasta que apunte el da, y huyan las sombras, vulvete, amado mo; s
+orar: “Hasta que apunte el día, y huyan las sombras, vuélvete, amado mío; sé
 
-semejante al corzo, o como el cervatillo sobre los montes de la divisin.
+semejante al corzo, o como el cervatillo sobre los montes de la división.”
 
 Podemos ocupar provechosamente el tiempo
 
-hablando de estos asuntos, si Dios, el Espritu Santo, nos habilita. Tenemos
+hablando de estos asuntos, si Dios, el Espíritu Santo, nos habilita. Tenemos
 
-aqu, primero,
+aquí, primero,
 
 a un alma que goza de un
 
-inters personal en el Seor Jesucristo,
+interés personal en el Seńor Jesucristo,
 
-o, un inters personal asegurado.
+o, un interés personal asegurado.
 
-Tenemos, a continuacin,
+Tenemos, a continuación,
 
 a un alma que
 
-toma el ms profundo inters en Cristo, y que anhela saber dnde est l,
+toma el más profundo interés en Cristo, y que anhela saber dónde está Él,
 
 o,
 
-el ms profundo inters evidenciado; y luego, tenemos
+el más profundo interés evidenciado; y luego, tenemos
 
-a un alma que desea ansiosamente una comunin presente con Cristo,
+a un alma que desea ansiosamente una comunión presente con Cristo,
 
 o
 
-una comunin visible, una comunin consciente que es buscada.
+una comunión visible, una comunión consciente que es buscada.
 
 I.
 
-Tenemos aqu, primero, UN INTERS PERSONAL
+Tenemos aquí, primero, UN INTERÉS PERSONAL
 
-ASEGURADO EN EL SEOR JESUCRISTO.
+ASEGURADO EN EL SEŃOR JESUCRISTO.
 
 No pretendo intentar predicar esta noche; me
 
-gustara que fuera mi texto el que predique, y la manera en que me gustara que
+gustaría que fuera mi texto el que predique, y la manera en que me gustaría que
 
-predicara sera ver en qu medida podemos asirnos a l; cmo podramos tomarlo,
+predicara sería ver en qué medida podemos asirnos a él; cómo podríamos tomarlo,
 
 palabra por palabra, y beberlo; llegar a cada palabra como a un pozo, y
 
@@ -156,41 +156,41 @@ sentarse en el brocal, y tomar un trago refrescante; llegar a cada palabra como
 
 a una palmera, y comer de su fruto.
 
-El texto comienza con las palabras: mi amado. Vamos,
+El texto comienza con las palabras: “mi amado”. Vamos,
 
-alma, puedes aventurarte a llamar a Cristo: tu amado? Ciertamente l debera
+alma, żpuedes aventurarte a llamar a Cristo: tu amado? Ciertamente Él debería
 
-ser amado por ti, pues, qu no ha hecho por ti? Favores copiosos y
+ser amado por ti, pues, żqué no ha hecho por ti? Favores copiosos y
 
 extraordinarios han sido los dones de Su mano, dones comprados por Su propia
 
-sangre, sumamente preciosa. Si t no le amas, corazn mo, eres, en verdad, la
+sangre, sumamente preciosa. Si tú no le amas, corazón mío, eres, en verdad, la
 
-cosa ms ingrata. Engaoso, putrefacto, despreciable por sobre todas las cosas,
+cosa más ingrata. Engańoso, putrefacto, despreciable por sobre todas las cosas,
 
-y desesperadamente perverso eres t, oh, corazn mo, si, siendo Jess tu
+y desesperadamente perverso eres tú, oh, corazón mío, si, siendo Jesús tu
 
-Salvador, t no le amas. l debera ser amado por la mayora aqu presente,
+Salvador, tú no le amas. Él debería ser amado por la mayoría aquí presente,
 
 pues ustedes profesan haber sido redimidos por Su sangre, y adoptados en la
 
-familia de Dios a travs Suyo. Ustedes profesaron, cuando fueron bautizados,
+familia de Dios a través Suyo. Ustedes profesaron, cuando fueron bautizados,
 
-estar muertos con l; y cuando vengan a esta mesa de la comunin esta noche,
+estar muertos con Él; y cuando vengan a esta mesa de la comunión esta noche,
 
-profesarn que l es el alimento y la bebida, la vida, el sostn y
+profesarán que Él es el alimento y la bebida, la vida, el sostén y
 
 el consuelo de su alma; entonces, si
 
 ustedes
 
-no le aman, qu les podra
+no le aman, żqué les podría
 
-decir? Dejar que se lo digan a ustedes mismos:
+decir? Dejaré que se lo digan a ustedes mismos:
 
-Seor, yo
+“ˇSeńor, yo
 
-demostrara ser un ser muy despreciable!,
+demostraría ser un ser muy despreciable!,
 
 Si no sintiera
 
@@ -200,47 +200,47 @@ Antes que no
 
 amar a mi Salvador,
 
-Oh, que cese
+ˇOh, que cese
 
-de existir!
+de existir!”
 
-Mi amado. Debe serlo, y lo ha sido. Hubo un
+“Mi amado.” Debe serlo, y lo ha sido. Hubo un
 
-tiempo en el que ni t ni yo le ambamos, pero ese tiempo ya pas. Recordamos el
+tiempo en el que ni tú ni yo le amábamos, pero ese tiempo ya pasó. Recordamos el
 
 dichoso momento cuando vimos Su rostro por primera vez, por medio de la fe, y
 
-le omos decir: Con amor eterno te he amado. Oh, la dicha del da de la
+le oímos decir: “Con amor eterno te he amado.” ˇOh, la dicha del día de la
 
-conversin! T no la has olvidado. Cun activos y entusiastas eran entonces
+conversión! Tú no la has olvidado. ˇCuán activos y entusiastas eran entonces
 
 algunos de ustedes! En aquellos primeros meses cuando fueron llevados a la casa
 
 de misericordia, y fueron lavados y vestidos, y todas sus necesidades fueron
 
-satisfechas por la plenitud atesorada en Cristo Jess, verdaderamente le
+satisfechas por la plenitud atesorada en Cristo Jesús, verdaderamente le
 
-amamos. Ustedes no eran hipcritas, no es cierto? Y solan cantar con mucha
+amamos. Ustedes no eran hipócritas, żno es cierto? Y solían cantar con mucha
 
-potencia de voz y de corazn:
+potencia de voz y de corazón:
 
-Jess, yo
+“Jesús, yo
 
 amo Tu nombre encantador,
 
-Es msica
+Es música
 
-para mi odo;
+para mi oído;
 
-Anso hacerlo
+Ansío hacerlo
 
 resonar tan fuerte
 
 Que la tierra
 
-y el cielo lo oigan.
+y el cielo lo oigan.”
 
-S, en verdad le ambamos, pero no podemos
+Sí, en verdad le amábamos, pero no podemos
 
 detenernos en eso; nosotros,
 
@@ -248,89 +248,89 @@ en verdad,
 
 le
 
-amamos. A pesar de todas nuestras fallas, flaquezas e imperfecciones, el Seor,
+amamos. A pesar de todas nuestras fallas, flaquezas e imperfecciones, el Seńor,
 
 que sabe todas las cosas, sabe que, en verdad, le amamos. Hermanos, algunas
 
-veces no es fcil saber si en verdad aman a Cristo, o no. He odo muchos
+veces no es fácil saber si en verdad aman a Cristo, o no. He oído muchos
 
-comentarios acerca del himno que contiene esta lnea:
+comentarios acerca del himno que contiene esta línea:
 
-Amo al
+“żAmo al
 
-Seor, o no?
+Seńor, o no?”
 
 Pero yo creo que todo cristiano honesto se hace
 
 algunas veces esa pregunta, y pienso que una buena manera de responderla es ir
 
-y escuchar a un ministro fiel. El domingo pasado por la maana, me sent en una
+y escuchar a un ministro fiel. El domingo pasado por la mańana, me senté en una
 
-capilla wesleyana para escuchar a un predicador que tena una mente muy
+capilla wesleyana para escuchar a un predicador que tenía una mente muy
 
 sencilla; era un wesleyano sumamente heterodoxo, pero era a la vez un hermano
 
-calvinista completamente ortodoxo; y cuando comenz a predicar acerca del amor
+calvinista completamente ortodoxo; y cuando comenzó a predicar acerca del amor
 
-de Jesucristo, las lgrimas rodaron por sus mejillas. No pude evitar, estando
+de Jesucristo, las lágrimas rodaron por sus mejillas. No pude evitar, estando
 
-sentado all, que mis lgrimas se derramaran sobre el piso arenoso; pens:
+sentado allí, que mis lágrimas se derramaran sobre el piso arenoso; pensé:
 
-bien, ahora, yo
+“bien, ahora, yo
 
 en verdad
 
 amo al
 
-Salvador. Haba pensado que, tal vez, no le amaba; pero cuando o hablar de
+Salvador.” Había pensado que, tal vez, no le amaba; pero cuando oí hablar de
 
-l, y el predicador comenz a tocar en las cuerdas de mi corazn, la msica
+Él, y el predicador comenzó a tocar en las cuerdas de mi corazón, la música
 
-lleg; tan pronto Cristo fue expuesto ante de m, eso despert a mi alma, si es
+llegó; tan pronto Cristo fue expuesto ante de mí, eso despertó a mi alma, si es
 
-que en verdad hubiese estado dormida antes. Cuando o hablar de l, aunque slo
+que en verdad hubiese estado dormida antes. Cuando oí hablar de Él, aunque sólo
 
 fuera con acentos entrecortados, no pude sino sentir que en verdad le amaba, y
 
-que le amaba ms que a la vida misma. Confo en que es verdad, en relacin a
+que le amaba más que a la vida misma. Confío en que es verdad, en relación a
 
-muchas personas presentes, que Cristo es nuestro amado.
+muchas personas presentes, que Cristo es nuestro “amado”.
 
-Pero el texto no solamente dice: amado, sino
+Pero el texto no solamente dice: “amado”, sino
 
 dice:
 
-mi
+“mi
 
-amado es mo, como si lo
+amado es mío”, como si lo
 
-esposa lo tomara todo para s. Monopolizar, ustedes lo saben, es la naturaleza
+esposa lo tomara todo para sí. Monopolizar, ustedes lo saben, es la naturaleza
 
-del amor. Hay un pasaje notable en el tercer captulo de la profeca de Oseas,
+del amor. Hay un pasaje notable en el tercer capítulo de la profecía de Oseas,
 
 que no necesito citar excepto a manera de bosquejo, en el que se le pide al
 
-profeta que tome a una mujer que haba sido inmunda e incasta, y se le ordena
+profeta que tome a una mujer que había sido inmunda e incasta, y se le ordena
 
-que le diga: T sers ma durante muchos das; no fornicars, ni tomars otro
+que le diga: “Tú serás mía durante muchos días; no fornicarás, ni tomarás otro
 
-varn; lo mismo har yo contigo. Eso tena el propsito de servir de tipo de
+varón; lo mismo haré yo contigo.” Eso tenía el propósito de servir de tipo de
 
 lo que Cristo hace por Su Iglesia. Nuestro amor anda correteando en pos de
 
-veinte objetos hasta que Cristo viene y, entonces, dice: ah, insensato, ahora
+veinte objetos hasta que Cristo viene y, entonces, dice: “ah, insensato, ahora
 
-no volars lejos ya ms. Ven, paloma, y no te extraviars ms de nuevo. Ser
+no volarás lejos ya más. Ven, paloma, y no te extraviarás más de nuevo. Seré
 
-completamente tuya, y t sers completamente ma; habr un monopolio entre
+completamente tuya, y tú serás completamente mía; habrá un monopolio entre
 
-nosotros; yo estar casado contigo, y t estars casada conmigo. Habr una
+nosotros; yo estaré casado contigo, y tú estarás casada conmigo. Habrá una
 
-comunin entre nosotros. Yo ser tuyo, pecador errante, como tu Esposo, y t
+comunión entre nosotros. Yo seré tuyo, pecador errante, como tu Esposo, y tú
 
-sers mo.
+serás mío.”
 
-Cada corazn que ha sido sometido por la gracia
+Cada corazón que ha sido sometido por la gracia
 
 soberana, hace de Jesucristo el principal objeto de su amor. Nosotros amamos a
 
@@ -338,263 +338,263 @@ nuestros hijos, y amamos a todos nuestros seres queridos; Dios no quiera que
 
 alguna vez dejemos de amarlos; pero por encima de todos ellos hemos de amar a
 
-nuestro Seor. No hay ninguno entre nosotros, yo pienso, que tendra que
+nuestro Seńor. No hay ninguno entre nosotros, yo pienso, que tendría que
 
-preguntarse de quin prescindira primero; sera una melanclica experiencia
+preguntarse de quién prescindiría primero; sería una melancólica experiencia
 
 tener que seguir a la pareja amada a la tumba; pero si se tratase de una
 
-eleccin entre la esposa y el Salvador, no deliberaramos ni un instante. Y en
+elección entre la esposa y el Salvador, no deliberaríamos ni un instante. Y en
 
 cuanto a los hijos de nuestro amor, a quienes esperamos ver crecer hasta
 
-convertirse en hombre y mujeres, sera un triste golpe para nosotros tener que
+convertirse en hombre y mujeres, sería un triste golpe para nosotros tener que
 
-depositarlos en la tumba, pero no nos tomara ni un segundo decidir si hemos de
+depositarlos en la tumba, pero no nos tomaría ni un segundo decidir si hemos de
 
-perder a nuestros Isaacs o hemos de perder a nuestro Jess. Es ms, no
+perder a nuestros Isaacs o hemos de perder a nuestro Jesús. Es más, no
 
-sentiramos que los perdimos si Dios se los llev de nosotros, pero no
+sentiríamos que los perdimos si Dios se los llevó de nosotros, pero no
 
-podramos permitirnos pensar ni por un solo instante en perderlo a l, que es
+podríamos permitirnos pensar ni por un solo instante en perderlo a Él, que es
 
 nuestro sempiterno Todo en todo.
 
 Entonces, el cristiano convierte a Cristo en su
 
-amado por sobre todo lo dems. Otras personas pueden amar lo que les plazca;
+amado por sobre todo lo demás. Otras personas pueden amar lo que les plazca;
 
-pero el cristiano ama a su Salvador. Se queda al pie de la cruz, y dice: Este
+pero el cristiano ama a su Salvador. Se queda al pie de la cruz, y dice: “Este
 
-madero, una vez maldito, es ahora el baluarte de mi confianza. Vuelve su
+madero, una vez maldito, es ahora el baluarte de mi confianza.” Vuelve su
 
-mirada al Salvador, y dice: Muchas personas no ven ninguna belleza en l como
+mirada al Salvador, y dice: “Muchas personas no ven ninguna belleza en Él como
 
-para llegar a desearle, pero, para m, l es sealado entre diez mil, y todo l
+para llegar a desearle, pero, para mí, Él es seńalado entre diez mil, y todo Él
 
-codiciable. Que el acadmico tome a sus clsicos, y que el guerrero tome sus
+codiciable.” Que el académico tome a sus clásicos, y que el guerrero tome sus
 
 armas de guerra, que el amante tome sus tiernas palabras y sus cantos amorosos;
 
-pero el cristiano toma al Salvador, toma al Seor Jess para que sea para l,
+pero el cristiano toma al Salvador, toma al Seńor Jesús para que sea para él,
 
-el Alfa y la Omega, el principio, el fin, el medio y el Todo en todo, y en l
+el Alfa y la Omega, el principio, el fin, el medio y el Todo en todo, y en Él
 
 encuentra el solaz de su alma.
 
-Algunas personas han pensado que hay una tautologa
+Algunas personas han pensado que hay una tautología
 
-en el texto cuando se afirma: Mi amado es
+en el texto cuando se afirma: “Mi amado es
 
-mo.
+mío.”
 
-Claro, por supuesto, si es mi amado, l es mo, qu necesidad hay de decir
+Claro, por supuesto, si es mi amado, Él es mío, żqué necesidad hay de decir
 
 eso? Bien, aquellos que conocen la experiencia del cristiano saben que, todos
 
-los creyentes estn sujetos a muchas dudas y temores, y que sienten que no
+los creyentes están sujetos a muchas dudas y temores, y que sienten que no
 
 pueden hacer que su seguridad sea mayor, de tal manera que gustan de duplicar
 
-sus expresiones de seguridad cuando pueden, y as, cada uno de ellos dice: Mi
+sus expresiones de seguridad cuando pueden, y así, cada uno de ellos dice: “Mi
 
-amado es mo. No hay tautologa alguna; el que habla slo est dando dos
+amado es mío.” No hay tautología alguna; el que habla sólo está dando dos
 
 golpes de martillo para meter el clavo en el lugar de destino. Se expresa de
 
-tal manera que no haya error al respecto, as que la esposa quiere decir lo que
+tal manera que no haya error al respecto, así que la esposa quiere decir lo que
 
-dice, y tiene la intencin de que los dems lo entiendan tambin: Mi amado es
+dice, y tiene la intención de que los demás lo entiendan también: “Mi amado es
 
-mo.
+mío.”
 
-Pero yo pienso que podra significar algo ms
+Pero yo pienso que podría significar algo más
 
-que eso, porque nosotros podramos amar algo que, sin embargo, podra no ser
+que eso, porque nosotros podríamos amar algo que, sin embargo, podría no ser
 
-nuestro. Un hombre podra llamar al dinero su amado, y con todo, pudiera no
+nuestro. Un hombre podría llamar al dinero su amado, y con todo, pudiera no
 
-llegar a alcanzarlo nunca; podra perseguirlo, aunque pudiera no ser capaz de
+llegar a alcanzarlo nunca; podría perseguirlo, aunque pudiera no ser capaz de
 
-alcanzarlo. El amante de la erudicin podra cortejar el saber que ambiciona en
+alcanzarlo. El amante de la erudición podría cortejar el saber que ambiciona en
 
 todas las academias del mundo, aunque pudiera ser incapaz de lograr la
 
-consecucin de sus deseos. Los hombres podran amar, y sobre sus lechos de
+consecución de sus deseos. Los hombres podrían amar, y sobre sus lechos de
 
 moribundos pudieran tener que confesar que su amado no es suyo; pero todo
 
-cristiano tiene aquello en lo que est puesto su corazn. El cristiano tiene a
+cristiano tiene aquello en lo que está puesto su corazón. El cristiano tiene a
 
-Cristo, le ama, y lo posee tambin.
+Cristo, le ama, y lo posee también.
 
-Adems, queridos amigos, ustedes saben que hay
+Además, queridos amigos, ustedes saben que hay
 
 un tiempo en el que los hombres son incapaces de decir que sus amados son
 
 suyos. Aquel que ha sido sumamente rico o sumamente sabio, no puede llevarse
 
-con l, ni su riqueza ni su sabidura, a la tumba; y para el pecador que muere,
+con él, ni su riqueza ni su sabiduría, a la tumba; y para el pecador que muere,
 
 y es enterrado, cuando se despierta en otro mundo, la realidad es que Creso
 
-ser tan pobre como Lzaro; y el hombre ms sabio, sin Cristo, se descubrir a
+será tan pobre como Lázaro; y el hombre más sabio, sin Cristo, se descubrirá a
 
-s mismo desprovisto de toda sabidura cuando despierte en el da de la
+sí mismo desprovisto de toda sabiduría cuando despierte en el día de la
 
-resurreccin. Extendern sus manos pero slo asirn el vaco, y tendrn que
+resurrección. Extenderán sus manos pero sólo asirán el vacío, y tendrán que
 
-clamar: Nuestro amado no es nuestro.
+clamar: “Nuestro amado no es nuestro.”
 
 Pero cuando nosotros despertemos y seamos a
 
-imagen de Cristo, le veremos ya sea que nos quedemos dormidos o seamos
+imagen de Cristo, le veremos –ya sea que nos quedemos dormidos o seamos
 
-cambiados, en cualquiera de los casos, estaremos presentes con l- entonces
+cambiados, en cualquiera de los casos, estaremos presentes con Él- entonces
 
-cada creyente dir: S, l es mo, todava es mo. Yo lo poseo, verdaderamente
+cada creyente dirá: “Sí, Él es mío, todavía es mío. Yo lo poseo, verdaderamente
 
-lo poseo: Mi amado es mo. Estoy inclinado a pensar que, si un hombre puede
+lo poseo: ‘Mi amado es mío’.” Estoy inclinado a pensar que, si un hombre puede
 
-decir esto, en verdad, puede decir la cosa ms grandiosa que algn hombre
+decir esto, en verdad, puede decir la cosa más grandiosa que algún hombre
 
-hubiere dicho jams: Mi amado es mo. Mira, -pregunta el hombre rico-
+hubiere dicho jamás: “Mi amado es mío.” “Mira”, -pregunta el hombre rico-
 
-puedes mirar all lejos, ms all de aquellos majestuosos robles? Ves all,
+“żpuedes mirar allá lejos, más allá de aquellos majestuosos robles? żVes allá,
 
-donde est aquella aguja de una iglesia? Bien, hasta donde alcances a mirar,
+donde está aquella aguja de una iglesia? Bien, hasta donde alcances a mirar,
 
-todo eso es mo. Ah!, -dice Muerte- al tiempo que pone su mano huesuda
+todo eso es mío.” “ˇAh!”, -dice Muerte- al tiempo que pone su mano huesuda
 
-sobre el hombre-, dos metros de tierra,
+sobre el hombre-, “dos metros de tierra,
 
 eso
 
-es lo tuyo. Mira, -dice el erudito, al tiempo que seala todos los
+es lo tuyo.” “Mira”, -dice el erudito, al tiempo que seńala todos los
 
-volmenes sobre sus estantes. He investigado todos estos volmenes, y todo el
+volúmenes sobre sus estantes. “He investigado todos estos volúmenes, y todo el
 
-conocimiento que est all me pertenece. Ah!, -dice Muerte otra vez, al
+conocimiento que está allí me pertenece.” “ˇAh!”, -dice Muerte otra vez, al
 
-tiempo que le golpea con su fra mano-, quin podra explicar la diferencia
+tiempo que le golpea con su fría mano-, “żquién podría explicar la diferencia
 
 entre la calavera de un sabio y la calavera de un ignorante, una vez que el
 
-gusano hubiere limpiado ambas?
+gusano hubiere limpiado ambas?”
 
-Pero cuando el cristiano puede sealar hacia
+Pero cuando el cristiano puede seńalar hacia
 
-arriba y decir: yo amo a mi Salvador, tiene una posesin que es, con
+arriba y decir: “yo amo a mi Salvador”, tiene una posesión que es, con
 
-certidumbre, suya para siempre. Puede venir Muerte, y vendr, incluso por l; pero
+certidumbre, suya para siempre. Puede venir Muerte, y vendrá, incluso por él; pero
 
-todo lo que puede hacer Muerte es abrir la puerta y admitir al cristiano al ms
+todo lo que puede hacer Muerte es abrir la puerta y admitir al cristiano al más
 
-pleno gozo de aquello que ya era suyo. Mi amado es mo. Entonces, aunque slo
+pleno gozo de aquello que ya era suyo. “Mi amado es mío”. Entonces, aunque sólo
 
-posea poco, estar satisfecho con ello; y aunque fuera tan pobre que el mundo
+posea poco, estaré satisfecho con ello; y aunque fuera tan pobre que el mundo
 
-pase sin mirarme, y no me advierta nunca, vivir muy contento en la ms humilde
+pase sin mirarme, y no me advierta nunca, viviré muy contento en la más humilde
 
-oscuridad posible porque mi amado es mo, y l es ms que todo el mundo para
+oscuridad posible porque “mi amado es mío”, y Él es más que todo el mundo para
 
-m. A quin tengo yo en los cielos sino a ti? Y fuera de ti nada deseo en la
+mí. “żA quién tengo yo en los cielos sino a ti? Y fuera de ti nada deseo en la
 
-tierra.
+tierra.”
 
 Ahora quiero hacer un alto y comprobar si
 
-realmente hemos cubierto la distancia hasta este punto. Cuntos de nosotros
+realmente hemos cubierto la distancia hasta este punto. żCuántos de nosotros
 
-hemos dicho: Mi amado es mo? Me temo que podra haber algn pobre cristiano
+hemos dicho: “Mi amado es mío”? Me temo que podría haber algún pobre cristiano
 
-que comente: Ah!, yo no podra decir eso. Ahora, mi querido oyente, te har
+que comente: “ˇAh!, yo no podría decir eso”. Ahora, mi querido oyente, te haré
 
-una pregunta: Ests asido de Cristo? Es l tu nica esperanza? Si es as,
+una pregunta: żEstás asido de Cristo? żEs Él tu única esperanza? Si es así,
 
-entonces l es tuyo. Cuando baja la marea, has visto alguna vez esos moluscos,
+entonces Él es tuyo. Cuando baja la marea, żhas visto alguna vez esos moluscos,
 
 llamadas lapas, aferrarse a las rocas, o sostenerse firmemente pegadas, tal
 
-vez, al muelle? Ahora, es eso lo que tu fe hace con Cristo? Te aferras a l?
+vez, al muelle? Ahora, żes eso lo que tu fe hace con Cristo? żTe aferras a Él?
 
-Es l toda tu confianza? Descansas en l? Bien, entonces, si haces eso, no
+żEs Él toda tu confianza? żDescansas en Él? Bien, entonces, si haces eso, no
 
-necesitas ninguna otra marca o seal; esa es sumamente suficiente; si te ests
+necesitas ninguna otra marca o seńal; esa es sumamente suficiente; si te estás
 
-asiendo de Cristo, entonces Cristo es tuyo. Aquella mujer que slo toc el
+asiendo de Cristo, entonces Cristo es tuyo. Aquella mujer que sólo tocó el
 
-borde de Su manto, recibi el poder que sali de l. Si puedes asirte de l y,
+borde de Su manto, recibió el poder que salió de Él. Si puedes asirte de Él y,
 
 desechando cualquier otra confianza y renunciando a cualquier otro apoyo,
 
-dices: S, aunque perezca, me asir nicamente de Cristo, entonces no
+dices: “Sí, aunque perezca, me asiré únicamente de Cristo”, entonces no
 
 permitas que entre ni una sola duda para quitarte el consuelo de tu alma, pues
 
 tu amado es tuyo.
 
-O tal vez, para decirlo de otra forma, podra
+O tal vez, para decirlo de otra forma, podría
 
-preguntarte: amas a Jess? Despierta Su nombre los ecos de tu corazn? Mira
+preguntarte: żamas a Jesús? żDespierta Su nombre los ecos de tu corazón? Mira
 
-al niito en brazos de su madre. Quieres cargarlo por unos momentos, pero no, l
+al nińito en brazos de su madre. Quieres cargarlo por unos momentos, pero no, él
 
 no quiere apartarse de su madre; y si insistes en cargarlo, pone sus bracitos alrededor
 
-del cuello de su madre, y se aferra all. Podras arrancarlo de ese lugar, tal
+del cuello de su madre, y se aferra allí. Podrías arrancarlo de ese lugar, tal
 
-vez, pero no tendras corazn para hacerlo. Se aferra a su madre, y esa es tu
+vez, pero no tendrías corazón para hacerlo. Se aferra a su madre, y esa es tu
 
-evidencia de que ella es su madre. Te aferras a Cristo de esa manera, y aunque
+evidencia de que ella es su madre. żTe aferras a Cristo de esa manera, y aunque
 
-sientas que el demonio querra arrancarte de Cristo si pudiera, todava te
+sientas que el demonio querría arrancarte de Cristo si pudiera, todavía te
 
-aferras a l como mejor puedas? Recuerdas lo que dice John Bunyan acerca del
+aferras a Él como mejor puedas? żRecuerdas lo que dice John Bunyan acerca del
 
-prisionero a quien Gran-corazn rescat de las garras del Gigante-Mata-lo-Bueno?
+prisionero a quien Gran-corazón rescató de las garras del Gigante-Mata-lo-Bueno?
 
-El seor Mente-Dbil dijo: Cuando me recluy en su guarida, como no fui con l
+El seńor Mente-Débil dijo: “Cuando me recluyó en su guarida, como no fui con él
 
-voluntariamente, pens que no saldra vivo otra vez.
+voluntariamente, pensé que no saldría vivo otra vez.”
 
-Es se tu caso? Ests dispuesto a tener a
+żEs ése tu caso? żEstás dispuesto a tener a
 
-Cristo, si puedes tenerle? Ests dispuesto a renunciar a l? Entonces nunca
+Cristo, si puedes tenerle? żEstás dispuesto a renunciar a Él? Entonces nunca
 
-renunciars a l; l es tuyo. No pienses que Cristo quiere un alto grado de fe
+renunciarás a Él; Él es tuyo. No pienses que Cristo quiere un alto grado de fe
 
-para establecer una unin entre l y un pecador, pues la fe del tamao de un
+para establecer una unión entre Él y un pecador, pues la fe del tamańo de un
 
-grano de mostaza basta para la salvacin, aunque, ciertamente, no lo es para
+grano de mostaza basta para la salvación, aunque, ciertamente, no lo es para
 
-alcanzar el grado ms elevado de consuelo. Si confas en Cristo y amas a
+alcanzar el grado más elevado de consuelo. Si confías en Cristo y amas a
 
-Cristo, no dejes que Satans te impida decir, en las palabras del texto: Mi
+Cristo, no dejes que Satanás te impida decir, en las palabras del texto: “Mi
 
-amado es mo.
+amado es mío”.
 
 Bien, hemos llegado hasta este punto, pero
 
 debemos recordar las siguientes palabras:
 
-y
+“y
 
-yo suya.
+yo suya”.
 
-Ahora, esto es vlido para todo cristiano. Yo soy Suyo ya que
+Ahora, esto es válido para todo cristiano. Yo soy Suyo ya que
 
-Cristo me ha hecho Suyo. Yo soy Suyo por eleccin; l me eligi. Yo soy Suyo
+Cristo me ha hecho Suyo. Yo soy Suyo por elección; Él me eligió. Yo soy Suyo
 
-por un don de Su Padre; Dios me dio a l. Soy Suyo por una compra; l me compr
+por un don de Su Padre; Dios me dio a Él. Soy Suyo por una compra; Él me compró
 
-con Su sangre. Soy Suyo por poder, pues Su Espritu me ha ganado. Yo soy Suyo
+con Su sangre. Soy Suyo por poder, pues Su Espíritu me ha ganado. Yo soy Suyo
 
-por mi propia dedicacin, pues me he consagrado a l. Soy Suyo por profesin,
+por mi propia dedicación, pues me he consagrado a Él. Soy Suyo por profesión,
 
-pues me he unido a Su pueblo. Soy Suyo ahora por mi propia eleccin deliberada
+pues me he unido a Su pueblo. Soy Suyo ahora por mi propia elección deliberada
 
-de l, siendo movido por Su gracia para elegirle. Cada cristiano aqu presente
+de Él, siendo movido por Su gracia para elegirle. Cada cristiano aquí presente
 
 sabe que esto es cierto, que Cristo es suyo, y que ustedes son de Cristo.
 
@@ -604,57 +604,57 @@ miembros de Su cuerpo. Son ramas de Su tronco. Ustedes le pertenecen.
 
 Pero hay algunas personas que alcanzan un
 
-significado ms prctico de esta frase: yo soy suyo, que otras personas. Ustedes
+significado más práctico de esta frase: “yo soy suyo”, que otras personas. Ustedes
 
-saben que, en la Iglesia de Roma, se cuenta con ciertas rdenes de hombres y
+saben que, en la Iglesia de Roma, se cuenta con ciertas órdenes de hombres y
 
 mujeres que se dedican a diversas obras de benevolencia, de caridad o de
 
-supersticin, que llegan a ser considerados especialmente como los siervos del
+superstición, que llegan a ser considerados especialmente como los siervos del
 
-Seor Jess. Ahora, nosotros nunca hemos admirado esa forma de hermandades
+Seńor Jesús. Ahora, nosotros nunca hemos admirado esa forma de hermandades
 
-masculinas o femeninas, pero ese espritu es justo lo que debera penetrar en
+masculinas o femeninas, pero ese espíritu es justo lo que debería penetrar en
 
-el corazn de cada cristiano y de cada cristiana. Ustedes, miembros de iglesias
+el corazón de cada cristiano y de cada cristiana. Ustedes, miembros de iglesias
 
-cristianas, si fueran lo que deberan ser, estaran enteramente consagrados al
+cristianas, si fueran lo que deberían ser, estarían enteramente consagrados al
 
-Salvador. La religin pura y sin mcula delante de Dios el Padre ha de ser
+Salvador. “La religión pura y sin mácula delante de Dios el Padre” ha de ser
 
-practicada por la Iglesia entera de Cristo, no meramente por ciertas rdenes
+practicada por la Iglesia entera de Cristo, no meramente por ciertas “órdenes”
 
-que son llamadas por eso religiosas. Cada mujer cristiana es una hermana de
+que son llamadas por eso “religiosas”. Cada mujer cristiana es “una hermana de
 
-la caridad. Nos enteramos de hombres que pertenecen a la orden de los
+la caridad”. Nos enteramos de hombres que pertenecen a la orden de los
 
-pasionistas, pero todo creyente debera ser de la orden de los pasionistas,
+‘pasionistas’, pero todo creyente debería ser de la orden de los ‘pasionistas’,
 
-movido por la pasin del Salvador para consagrarse a s mismo a la obra del
+movido por la pasión del Salvador para consagrarse a sí mismo a la obra del
 
 Salvador.
 
-Yo soy suyo. Yo quisiera que adoptaran esto
+“Yo soy suyo”. Yo quisiera que adoptaran esto
 
 como su lema, ustedes, cristianos profesantes, si honestamente pueden hacerlo.
 
-Cuando se despierten cada maana, musiten una breve oracin mientras se visten
+Cuando se despierten cada mańana, musiten una breve oración mientras se visten
 
-y an antes de ponerse de rodillas, sintiendo: yo soy de Cristo, y lo primero,
+y aún antes de ponerse de rodillas, sintiendo: “yo soy de Cristo, y lo primero,
 
-cuando me despierto, ha de ser una palabra con l, y para l. Cuando salen a
+cuando me despierto, ha de ser una palabra con Él, y para Él.” Cuando salen a
 
 hacer sus quehaceres, quiero que sientan que no pueden hacer sus negocios como
 
-los hacen otros hombres; que no pueden imitar sus timos y prcticas maosas
+los hacen otros hombres; que no pueden imitar sus timos y prácticas mańosas
 
-porque algo susurra dentro de su corazn: yo soy Suyo! Yo soy Suyo! Soy
+porque algo susurra dentro de su corazón: “ˇyo soy Suyo! ˇYo soy Suyo! Soy
 
 diferente de otros hombres. Ellos pueden hacer lo que quieran, pues su juicio
 
-ha de venir todava; pero yo soy diferente a ellos, pues yo soy un hombre de
+ha de venir todavía; pero yo soy diferente a ellos, pues yo soy un hombre de
 
-Cristo. Yo quisiera que todos los cristianos sintieran que la vida que
+Cristo.” Yo quisiera que todos los cristianos sintieran que la vida que
 
 viven
 
@@ -662,21 +662,21 @@ les es dada para que glorifiquen a Cristo por medio de
 
 ella. Oh, si la riqueza que hay en la iglesia cristiana fuera dedicada a la
 
-causa de Dios, no habra nunca alguna falta de fondos para sostener las
+causa de Dios, no habría nunca alguna falta de fondos para sostener las
 
-misiones, o para construir casas de oracin en los oscuros barrios de Londres.
+misiones, o para construir casas de oración en los oscuros barrios de Londres.
 
 Si algunos ricos dieran para la causa de Cristo como lo hacen algunos pobres,
 
-hombre y mujeres que conozco, no habra nunca ninguna carencia en el tesoro.
+hombre y mujeres que conozco, no habría nunca ninguna carencia en el tesoro.
 
 Algunas veces me he gozado por causa de algunos
 
 de ustedes; he tenido que bendecir porque he visto en esta iglesia una piedad
 
-apostlica. He conocido hombres y mujeres que, de lo poco que poseen, han dado
+apostólica. He conocido hombres y mujeres que, de lo poco que poseen, han dado
 
-casi todo lo que tenan, y cuyo nico objetivo en la vida ha sido gastar lo
+casi todo lo que tenían, y cuyo único objetivo en la vida ha sido gastar lo
 
 suyo y aun gastarse ellos mismos por Cristo, y yo me he regocijado por causa de
 
@@ -684,83 +684,83 @@ ellos.
 
 Pero hay otras personas entre ustedes que no han
 
-dado un diezmo, es ms, ni siquiera una pequea fraccin de lo que poseen, para
+dado un diezmo, es más, ni siquiera una pequeńa fracción de lo que poseen, para
 
 la causa de Cristo; sin embargo, tal vez, se ponen de pie, y cantan:
 
-Amo a mi
+“Amo a mi
 
 Dios con tan grande celo
 
-Que podra
+Que podría
 
-darle todo.
+darle todo.”
 
-Dejen de cantar eso! No canten mentiras, pues
+ˇDejen de cantar eso! No canten mentiras, pues
 
-saben muy bien que no le daran todo, y que no le dan todo; y tambin saben muy
+saben muy bien que no le darían todo, y que no le dan todo; y también saben muy
 
-bien que consideraran la cosa ms absurda del mundo si fueran a darle a l
+bien que considerarían la cosa más absurda del mundo si fueran a darle a Él
 
-todo, o siquiera soar hacerlo. Oh, necesitamos una mayor consagracin! Nosotros
+todo, o siquiera sońar hacerlo. ˇOh, necesitamos una mayor consagración! Nosotros
 
-estamos, la mayora de nosotros, hasta nuestros tobillos en nuestra religin, y
+estamos, la mayoría de nosotros, hasta nuestros tobillos en nuestra religión, y
 
-slo unos cuantos de nosotros estamos hundidos hasta las rodillas; pero, oh,
+sólo unos cuantos de nosotros estamos hundidos hasta las rodillas; pero, ˇoh,
 
-necesitamos al hombre que nada en la religin, que se ha despegado de la tierra
+necesitamos al hombre que nada en la religión, que se ha despegado de la tierra
 
-por completo y ahora nada en consagracin, viviendo enteramente para Aquel que
+por completo y ahora nada en consagración, viviendo enteramente para Aquel que
 
-le am, y se entreg a S mismo por l!
+le amó, y se entregó a Sí mismo por él!
 
-Me temo que tendr que detenerme aqu, y hacer
+Me temo que tendré que detenerme aquí, y hacer
 
-la pregunta sin recibir ninguna respuesta a ella: cun lejos podemos llegar en
+la pregunta sin recibir ninguna respuesta a ella: żcuán lejos podemos llegar en
 
-cuanto a esta segunda frase: Mi amado es mo, y yo suya? Sienten como si no
+cuanto a esta segunda frase: “Mi amado es mío, y yo suya”? żSienten como si no
 
-pudieran decir eso? Sienten que no deben decirlo? Entonces que esta sea su
+pudieran decir eso? żSienten que no deben decirlo? Entonces que esta sea su
 
-oracin: Seor, si no he hecho todava todo lo que puedo hacer, si ha quedado
+oración: “ˇSeńor, si no he hecho todavía todo lo que puedo hacer, si ha quedado
 
-algo que podra haber hecho por Ti, y que no he hecho, dame gracia para que
+algo que podría haber hecho por Ti, y que no he hecho, dame gracia para que
 
-haga todo lo que puedo hacer por Ti, y darte todo lo que pueda! No debera
+haga todo lo que puedo hacer por Ti, y darte todo lo que pueda!” No debería
 
 haber ni un solo cabello que no hubiere sido consagrado en la cabeza de un
 
 cristiano, ni una sola gota de sangre sin consagrar en sus venas. Cristo se
 
-entreg enteramente por nosotros; l merece que nos entreguemos enteramente a
+entregó enteramente por nosotros; Él merece que nos entreguemos enteramente a
 
-l. All donde comienza la reserva, all comienza el dominio de Satans, pues
+Él. Allí donde comienza la reserva, allí comienza el dominio de Satanás, pues
 
 lo que no es de Cristo, es propiedad de la carne, y la propiedad de la carne es
 
-la propiedad de Satans. Oh, que la consagracin espiritual sea perfecta en
+la propiedad de Satanás. ˇOh, que la consagración espiritual sea perfecta en
 
 cada uno de nosotros para que, si vivimos, vivamos para Cristo; o, si morimos,
 
-que tambin sea para l! Espero que, aunque tengamos que hacer muchas confesiones
+que también sea para Él! Espero que, aunque tengamos que hacer muchas confesiones
 
-graves, que todava podamos decir: Mi amado es mo, y yo suya.
+graves, que todavía podamos decir: Mi amado es mío, y yo suya.”
 
-Si l estuviera aqu en este momento, si
+Si Él estuviera aquí en este momento, si
 
-pudiramos dejar un espacio libre, y viniera repentinamente, y se pusiera en
+pudiéramos dejar un espacio libre, y viniera repentinamente, y se pusiera en
 
-nuestro medio, con Sus heridas visibles todava, sera muy dulce poder decir
+nuestro medio, con Sus heridas visibles todavía, sería muy dulce poder decir
 
-entonces: Mi amado es mo, y yo suya. Pero me temo que, en Su presencia,
+entonces: “Mi amado es mío, y yo suya”. Pero me temo que, en Su presencia,
 
-tendramos que decir: Jess, perdnanos; somos Tuyos, pero no hemos actuado
+tendríamos que decir: “ˇJesús, perdónanos; somos Tuyos, pero no hemos actuado
 
-como si lo furamos; hemos robado de Ti aquello que compraste y que tienes el
+como si lo fuéramos; hemos robado de Ti aquello que compraste y que tienes el
 
-derecho de guardar; a partir de este da, que llevemos en nuestro cuerpo las
+derecho de guardar; a partir de este día, que llevemos en nuestro cuerpo las
 
-marcas del Seor Jess, y que seamos enteramente Tuyos!
+marcas del Seńor Jesús, y que seamos enteramente Tuyos!”
 
 II.
 
@@ -768,89 +768,89 @@ No puedo decir gran cosa sobre la segunda parte
 
 del tema, pues nuestro tiempo casi se ha ido. EL ALMA, ESTANDO SEGURA DE SU
 
-INTERS PERSONAL EN CRISTO, ANHELA SABER DNDE EST.
+INTERÉS PERSONAL EN CRISTO, ANHELA SABER DÓNDE ESTÁ.
 
-Dnde est?, pregunta el alma, y la respuesta
+“żDónde está?”, pregunta el alma, y la respuesta
 
-nos llega del texto: l apacienta entre lirios. Al mundano no le importa
+nos llega del texto: “Él apacienta entre lirios.” Al mundano no le importa
 
-dnde est Cristo, pero ese es el nico tema de pensamiento del cristiano.
+dónde está Cristo, pero ese es el único tema de pensamiento del cristiano.
 
-Quisiera
+“Quisiera
 
-saber dnde se ha ido,
+saber dónde se ha ido,
 
 Para poder
 
-buscarlo y encontrarlo tambin.
+buscarlo y encontrarlo también.”
 
-Jess se ha ido, entonces, entre los lirios,
+Jesús se ha ido, entonces, entre los lirios,
 
 entre esos santos, blancos como la nieve, que florecen en el huerto del cielo,
 
-esos lirios de oro que estn alrededor del trono. l est all en:
+esos lirios de oro que están alrededor del trono. Él está allí en:
 
-La Jerusaln
+“La Jerusalén
 
 de oro
 
 Bendecida con
 
-leche y miel.
+leche y miel”.
 
-Esto nos hace anhelar estar all, para poder
+Esto nos hace anhelar estar allí, para poder
 
-apacentar con l entre los lirios.
+apacentar con Él entre los lirios.
 
-Pero, todava hay muchos lirios aqu abajo, esas
+Pero, todavía hay muchos lirios aquí abajo, esas
 
-almas vrgenes que:
+almas vírgenes que:
 
-Doquiera que
+“Doquiera que
 
-el Cordero las gue
+el Cordero las guíe
 
 De Sus
 
-pisadas nunca se apartan.
+pisadas nunca se apartan.”
 
 Si queremos encontrar a Cristo, tenemos que
 
-tener comunin con Su pueblo, debemos participar de las ordenanzas con Sus
+tener comunión con Su pueblo, debemos participar de las ordenanzas con Sus
 
-santos; pues, aunque l no apacienta
+santos; pues, aunque Él no apacienta
 
 de
 
 los
 
-lirios, l apacienta
+lirios, Él apacienta
 
 entre
 
 ellos; y
 
-all, quiz, podremos reunirnos con l. Ustedes estn aqu esta noche, queridos
+allí, quizá, podremos reunirnos con Él. Ustedes están aquí esta noche, queridos
 
 amigos, y muchos son miembros de esta iglesia, y algunos son miembros de otras
 
-iglesias, y han venido al sitio en que Cristo apacienta a Su rebao. Ahora que
+iglesias, y han venido al sitio en que Cristo apacienta a Su rebańo. Ahora que
 
-l apacienta entre los lirios, bsquenlo. En la mesa de la comunin, no
+Él apacienta entre los lirios, búsquenlo. En la mesa de la comunión, no
 
-participen meramente de los elementos, sino bsquenlo a l. Miren a Su carne y
+participen meramente de los elementos, sino búsquenlo a Él. Miren a Su carne y
 
-Su sangre a travs del pan y del vino, de los que son el smbolo. No se
+Su sangre a través del pan y del vino, de los que son el símbolo. No se
 
-preocupen por mis pobres palabras, sino por l; y en lo tocante a cualquier
+preocupen por mis pobres palabras, sino por Él; y en lo tocante a cualquier
 
-otra cosa en la que han estado pensando, vayan ms all de eso hasta l. l
+otra cosa en la que han estado pensando, vayan más allá de eso hasta Él. “Él
 
-apacienta entre lirios, entonces, bsquenlo all donde los santos se congregan
+apacienta entre lirios”, entonces, búsquenlo allí donde los santos se congregan
 
 en Su nombre.
 
-Si quieren reunirse con l, miren, tambin, en
+Si quieren reunirse con Él, miren, también, en
 
 los benditos lechos de lirios de la Escritura. Cada Libro de la Biblia pareciera
 
@@ -862,9 +862,9 @@ la
 
 Palabra de Dios, la suma y sustancia
 
-de la revelacin del Altsimo. l apacienta entre lirios. All es donde ha de
+de la revelación del Altísimo. “Él apacienta entre lirios”. Allí es donde ha de
 
-ser encontrado. Seor Jess, ven y apacintanos entre los lirios esta noche;
+ser encontrado. ˇSeńor Jesús, ven y apaciéntanos entre los lirios esta noche;
 
 ven y apacienta nuestras almas hambrientas y nosotros bendeciremos Tu santo
 
@@ -876,177 +876,177 @@ Debo dejar inconclusa esa parte del tema porque
 
 quiero hablar del ALMA, QUE POSEYENDO EL AMOR DE CRISTO, DESEA SU PRESENCIA
 
-CONSCIENTE: Hasta que apunte el da, y huyan las sombras, vulvete, amado mo;
+CONSCIENTE: “Hasta que apunte el día, y huyan las sombras, vuélvete, amado mío;
 
-s semejante al corzo, o como el cervatillo sobre los montes de Beter.
+sé semejante al corzo, o como el cervatillo sobre los montes de Beter.”
 
-Ustedes observan que el alma habla aqu del
+Ustedes observan que el alma habla aquí del
 
-despuntar del da. Todos los que amamos al Seor, tenemos que buscar un
+despuntar del día. Todos los que amamos al Seńor, tenemos que buscar un
 
-despuntar del da, pero el pecador tiene una noche que le espera. Pecador, este
+despuntar del día, pero el pecador tiene una noche que le espera. Pecador, este
 
-es tu da; y cuando t mueras, esa ser tu larga y terrible noche, desprovista de
+es tu día; y cuando tú mueras, esa será tu larga y terrible noche, desprovista de
 
 cualquier estrella de esperanza.
 
-Pero, cristiano, esta es tu noche, el perodo
+Pero, cristiano, esta es tu noche, el período
 
-ms oscuro que tendrs alguna vez; pero tu da despuntar. S, el Seor vendr
+más oscuro que tendrás alguna vez; pero tu día despuntará. Sí, el Seńor vendrá
 
-en Su gloria, o de lo contrario, t dormirs en l, y entonces tu da
+en Su gloria, o de lo contrario, tú dormirás en Él, y entonces tu día
 
-despuntar. Cuando la trompeta de la resurreccin resuene, el da del Seor
+despuntará. Cuando la trompeta de la resurrección resuene, el día del Seńor
 
-ser tinieblas y no luz para el pecador, pero para ti ser un eterno amanecer.
+será tinieblas y no luz para el pecador, pero para ti será un eterno amanecer.
 
-Quiz, en el momento presente, tu vida est envuelta en sombras. Eres pobre y
+Quizá, en el momento presente, tu vida está envuelta en sombras. Eres pobre y
 
-la pobreza proyecta una sombra. Tienes un enfermo en casa, o, tal vez, t mismo
+la pobreza proyecta una sombra. Tienes un enfermo en casa, o, tal vez, tú mismo
 
 tengas un cuerpo enfermizo; esa es una sombra para ti. Y el recuerdo de tu pecado
 
-es otra sombra; pero, cuando el da despunte, las sombras se disiparn. No
+es otra sombra; pero, cuando el día despunte, las sombras se disiparán. No
 
-habr pobreza entonces; no habr pecado entonces, lo cual es mejor todava; y:
+habrá pobreza entonces; no habrá pecado entonces, lo cual es mejor todavía; y:
 
-No habrn
+“No habrán
 
-gemidos que se mezclen con los cnticos
+gemidos que se mezclen con los cánticos
 
 Que entonan
 
-las lenguas inmortales.
+las lenguas inmortales.”
 
 Hermanos, es tan dulce saber que nuestras
 
-mejores cosas estn adelante. Oh, pecador, t ests dejando tus mejores cosas atrs
+mejores cosas están adelante. Oh, pecador, tú estás dejando tus mejores cosas atrás
 
 y te diriges hacia tus peores cosas; pero el cristiano va hacia sus mejores
 
-cosas. Su turno est llegando; l disfrutar de lo mejor en breve, pues las
+cosas. Su turno está llegando; él disfrutará de lo mejor en breve, pues las
 
-sombras se disiparn. Ya no ser ms vejado, ni afligido, ni turbado, sino
+sombras se disiparán. Ya no será más vejado, ni afligido, ni turbado, sino
 
-estar eternamente en la luz, pues las sombras
+estará eternamente en la luz, pues las sombras
 
-huirn.
+huirán.
 
-Mientras permanezcan las sombras, t percibes
+Mientras permanezcan las sombras, tú percibes
 
 que el alma le pide a Jesucristo que se vuelva, como si hubiera apartado Su
 
-rostro de ella. El alma dice: Te has apartado de m, Seor mo? Entonces,
+rostro de ella. El alma dice: “żTe has apartado de mí, Seńor mío? Entonces,
 
-vulvete a m otra vez. Te he afligido y te he vejado volvindome mundano,
+vuélvete a mí otra vez. żTe he afligido y te he vejado volviéndome mundano,
 
-carnal, descuidado y atolondrado? Entonces, vulvete a m, Seor mo. Has
+carnal, descuidado y atolondrado? Entonces, vuélvete a mí, Seńor mío. żHas
 
-estado enojado conmigo? Oh, mame! No has dicho T que Tu ira dura un
+estado enojado conmigo? ˇOh, ámame! żNo has dicho Tú que Tu ira dura un
 
-instante, pero que Tu amor es eterno? En una pequea ira T has escondido Tu
+instante, pero que Tu amor es eterno? En una pequeńa ira Tú has escondido Tu
 
-rostro de m; pero, oh, ahora vulvete a m!
+rostro de mí; pero, ˇoh, ahora vuélvete a mí!”
 
 Ustedes saben que el estado apropiado para un
 
 cristiano no es un estado en el que Cristo vuelve hacia otro lado Su rostro
 
-sonriente, sino el estado en el que el amor de Cristo est refulgiendo
+sonriente, sino el estado en el que el amor de Cristo está refulgiendo
 
-plenamente en Su rostro. Yo s que algunos de ustedes piensan que es mejor estar
+plenamente en Su rostro. Yo sé que algunos de ustedes piensan que es mejor estar
 
-en la sombra; pero, amados, no piensen as. No necesitan tener sombras para
+en la sombra; pero, amados, no piensen así. No necesitan tener sombras para
 
 siempre, pues pueden tener la presencia de Cristo para su regocijo incluso
 
 ahora, y yo quisiera que se volvieran ambiciosos para alcanzar dos cielos: un
 
-cielo abajo y un cielo arriba; Cristo aqu, y luego Cristo all; Cristo aqu,
+cielo abajo y un cielo arriba; Cristo aquí, y luego Cristo allá; Cristo aquí,
 
-ponindolos tan alegres como pueda serlo su corazn, y luego Cristo llenndolos
+poniéndolos tan alegres como pueda serlo su corazón, y luego Cristo llenándolos
 
-para siempre con toda la plenitud de Dios. Busquemos esa doble bendicin, y
+para siempre con toda la plenitud de Dios. ˇBusquemos esa doble bendición, y
 
 esperemos poder alcanzarla!
 
-Luego el alma dice: Vulvete, amado mo; s
+Luego el alma dice: “Vuélvete, amado mío; sé
 
-semejante al corzo, o como el cervatillo sobre los montes de Beter. El doctor
+semejante al corzo, o como el cervatillo sobre los montes de Beter.” El doctor
 
-Thomson, que escribi
+Thomson, que escribió
 
 La Tierra y el
 
 Libro,
 
-nos informa que l cree que conoce los montes de Beter. Importa poco
+nos informa que él cree que conoce los montes de Beter. Importa poco
 
-si los conoce o no, pero l ha visto los corzos y los cervatillos saltando
+si los conoce o no, pero él ha visto los corzos y los cervatillos saltando
 
-sobre los precipicios. Ciertamente, esas criaturas indmitas, acostumbradas a
+sobre los precipicios. Ciertamente, esas criaturas indómitas, acostumbradas a
 
-las rocas escarpadas, van all, donde las pisadas humanas no se atreven a
+las rocas escarpadas, van allí, donde las pisadas humanas no se atreven a
 
-seguir. Y as es el amor de Jesucristo. Nuestro amor es desviado fcilmente; si
+seguir. Y así es el amor de Jesucristo. Nuestro amor es desviado fácilmente; si
 
 somos tratados con rudeza, pronto olvidamos a quienes fueron tan afectuosos con
 
-nosotros; pero Cristo es como un corzo o como un cervatillo y l salta sobre
+nosotros; pero Cristo es como un corzo o como un cervatillo y Él salta sobre
 
-los montes de nuestros pecados, y sobre todos lo montes de la desunin de
+los montes de nuestros pecados, y sobre todos lo montes de la desunión de
 
-nuestra incredulidad e ingratitud, que podran mantenerle alejado. Como un
+nuestra incredulidad e ingratitud, que podrían mantenerle alejado. Como un
 
-cervatillo, salta sobre ellas como si no fuesen nada en absoluto, y as se
+cervatillo, salta sobre ellas como si no fuesen nada en absoluto, y así se
 
-apresura a tener comunin con nosotros. Hay la idea de ligereza aqu; el corzo
+apresura a tener comunión con nosotros. Hay la idea de ligereza aquí; el corzo
 
-va velozmente, casi como el relmpago, y lo mismo hace el Salvador para venir
+va velozmente, casi como el relámpago, y lo mismo hace el Salvador para venir
 
-al alma necesitada. l puede alzarte desde el estado ms bajo de afliccin
+al alma necesitada. Él puede alzarte desde el estado más bajo de aflicción
 
-espiritual a la posicin ms excelsa de gozo espiritual; esperemos que lo
+espiritual a la posición más excelsa de gozo espiritual; ˇesperemos que lo
 
-haga! Oh, clama a l; clama a l! No hay nada que pueda ser ms expresivo para
+haga! ˇOh, clama a Él; clama a Él! No hay nada que pueda ser más expresivo para
 
-una madre que la voz de su hijo, y no hay nada que pueda ser ms expresivo con
+una madre que la voz de su hijo, y no hay nada que pueda ser más expresivo con
 
-Cristo que la voz de Su amado pueblo; entonces clama a l. Di: Salvador,
+Cristo que la voz de Su amado pueblo; entonces clama a Él. Di: “Salvador,
 
-mustrame Tu amor. Amado Salvador, no te ocultes de Tu propia carne. Yo te amo;
+muéstrame Tu amor. Amado Salvador, no te ocultes de Tu propia carne. Yo te amo;
 
 no puedo vivir sin ti; me aflige pensar que hubiere hecho que te alejaras. Ven
 
-a m; ven a m; regresa a m, y algrame en Tu presencia. Clama a l de esta
+a mí; ven a mí; regresa a mí, y alégrame en Tu presencia.” Clama a Él de esta
 
-manera, y l vendr a ti. Y t, pobre pecador, que no has visto nunca
+manera, y Él vendrá a ti. Y tú, pobre pecador, que no has visto nunca
 
-consoladoramente Su rostro, recuerda que hay vida en una mirada a l. Que Dios
+consoladoramente Su rostro, recuerda que hay vida en una mirada a Él. ˇQue Dios
 
-te d gracia ahora para que puedas verle con gozo eterno en el ms all!
+te dé gracia ahora para que puedas verle con gozo eterno en el más allá!
 
 Nota del
 
 traductor:
 
-Tautologa:
+Tautología:
 
-Repeticin
+Repetición
 
 de un mismo pensamiento expresado de distintas maneras. Suele tomarse en mal
 
-sentido por repeticin intil y viciosa.
+sentido por repetición inútil y viciosa.
 
 Creso:
 
-ltimo rey de Lidia. Su
+último rey de Lidia. Su
 
-legendaria riqueza provena del trfico comercial y de las minas de oro de su
+legendaria riqueza provenía del tráfico comercial y de las minas de oro de su
 
 reino. Fue vencido y ejecutado por Ciro.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 29/Noviembre/2012
 

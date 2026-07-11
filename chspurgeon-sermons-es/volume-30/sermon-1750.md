@@ -1,18 +1,18 @@
 # Sermón 1750 | Sermón 1750
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Fe
 
 que Obra por el Amor
 
-Un Sermn en
+Un Sermón en
 
-Conmemoracin del Natalicio de Lutero
+Conmemoración del Natalicio de Lutero
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA NOCHE DEL
 
@@ -22,61 +22,61 @@ NOVIEMBRE, 1883
 
 EN EXETER HALL, LONDRES.
 
-Porque en Cristo
+“Porque en Cristo
 
-Jess ni la circuncisin vale algo, ni la incircuncisin, sino la fe que obra
+Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra
 
-por el amor. Glatas 5: 6.
+por el amor”. Gálatas 5: 6.
 
 Pablo elimina por
 
-completo esa confianza en los aspectos externos de la religin que es la
+completo esa confianza en los aspectos externos de la religión que es la
 
-tentacin comn en todos los tiempos. La circuncisin era algo muy importante
+tentación común en todos los tiempos. La circuncisión era algo muy importante
 
-para el judo y frecuentemente confiaba en ella, pero Pablo declara que de nada
+para el judío y frecuentemente confiaba en ella, pero Pablo declara que de nada
 
-sirve. Es posible que hubiera otros que se alegraran por no ser judos, pero
+sirve. Es posible que hubiera otros que se alegraran por no ser judíos, pero
 
-Pablo declara que su incircuncisin no les serva ms que su opuesto. Ciertos
+Pablo declara que su incircuncisión no les servía más que su opuesto. Ciertos
 
-asuntos vinculados con la piedad son aspectos externos, y con todo, son tiles
+asuntos vinculados con la piedad son aspectos externos, y con todo, son útiles
 
 en su lugar apropiado: ese es el caso especialmente con el bautismo y la cena
 
-del Seor, con las reuniones de la congregacin, con la lectura de la palabra,
+del Seńor, con las reuniones de la congregación, con la lectura de la palabra,
 
-y con la oracin y la alabanza pblicas. Esas cosas son apropiadas y
+y con la oración y la alabanza públicas. Esas cosas son apropiadas y
 
 provechosas, pero ninguna de ellas debe ser constituida en ninguna medida o
 
-grado en el fundamento de nuestra esperanza de salvacin, pues este texto
+grado en el fundamento de nuestra esperanza de salvación, pues este texto
 
 arrasa con todas ellas, y describe claramente que no valen nada si son
 
 constituidas en fundamentos de nuestra confianza.
 
-En los das de Lutero la
+En los días de Lutero la
 
-confianza supersticiosa en las observancias externas se haba impuesto sobre la
+confianza supersticiosa en las observancias externas se había impuesto sobre la
 
-fe en el Evangelio; las ceremonias se haban multiplicado excesivamente bajo la
+fe en el Evangelio; las ceremonias se habían multiplicado excesivamente bajo la
 
-autoridad del Papa, se decan misas para las almas del purgatorio, y los
+autoridad del Papa, se decían misas para las almas del purgatorio, y los
 
-hombres realmente vendan indulgencias por el pecado a plena luz del da.
+hombres realmente vendían indulgencias por el pecado a plena luz del día.
 
-Cuando Dios levant a Martn Lutero, quien naci hace cuatro siglos, dio un
+Cuando Dios levantó a Martín Lutero, quien nació hace cuatro siglos, dio un
 
-enftico testimonio contra la salvacin por medio de formas externas y por
+enfático testimonio contra la salvación por medio de formas externas y por
 
-medio del poder de la superchera sacerdotal, afirmando que la salvacin es
+medio del poder de la superchería sacerdotal, afirmando que la salvación es
 
-slo por la fe, que la iglesia entera de Dios es una congregacin de sacerdotes
+sólo por la fe, que la iglesia entera de Dios es una congregación de sacerdotes
 
 y que cada creyente es un sacerdote para Dios. Si Lutero no lo hubiera
 
-afirmado, la doctrina habra sido igualmente cierta pues la distincin entre el
+afirmado, la doctrina habría sido igualmente cierta pues la distinción entre el
 
 clero y los laicos no tiene ninguna base en
 
@@ -86,169 +86,169 @@ la Escritura
 
 los santos:
 
-kleros
+“kleros
 
-de Dios,
+de Dios”,
 
-clrigos de Dios, o herencia. Tambin leemos: Mas vosotros sois real
+clérigos de Dios, o herencia. También leemos: “Mas vosotros sois real
 
-sacerdocio. Todo individuo que cree en el Seor Jesucristo es ungido para
+sacerdocio”. Todo individuo que cree en el Seńor Jesucristo es ungido para
 
 ejercer el sacerdocio cristiano, y por tanto, no necesita poner su confianza en
 
 otro hombre en vista de que el supuesto sacerdote no es en nada superior a
 
-cualquier otro individuo. Cada ser humano tiene que rendir cuentas de s mismo
+cualquier otro individuo. Cada ser humano tiene que rendir cuentas de sí mismo
 
-ante Dios. Cada quien tiene que leer y escudriar las Escrituras por s mismo,
+ante Dios. Cada quien tiene que leer y escudrińar las Escrituras por sí mismo,
 
-y tiene que creer por s mismo, y cuando recibe la salvacin, tiene que
+y tiene que creer por sí mismo, y cuando recibe la salvación, tiene que
 
-ofrecerse a s mismo como un sacrificio vivo para Dios por Jesucristo, quien es
+ofrecerse a sí mismo como un sacrificio vivo para Dios por Jesucristo, quien es
 
-el nico Sumo Sacerdote de nuestra profesin. Eso basta en cuanto al lado
+el único Sumo Sacerdote de nuestra profesión. Eso basta en cuanto al lado
 
-negativo del texto, que est lleno de advertencias para esta poca ritualista.
+negativo del texto, que está lleno de advertencias para esta época ritualista.
 
 El testimonio primordial
 
-de nuestro gran reformador fue en cuanto a la justificacin de un pecador a los
+de nuestro gran reformador fue en cuanto a la justificación de un pecador a los
 
 ojos de Dios por la fe en Jesucristo, y solamente por eso. Lutero pudo haber
 
-adoptado apropiadamente esta declaracin como su lema: en Cristo Jess ni la
+adoptado apropiadamente esta declaración como su lema: “en Cristo Jesús ni la
 
-circuncisin vale algo, ni la incircuncisin, sino la fe que obra por el amor.
+circuncisión vale algo, ni la incircuncisión, sino la fe que obra por el amor”.
 
 Lutero se encontraba angustiado y perturbado en su mente en el monasterio
 
-agustino en Wittenberg; estando all ley en una vieja Biblia en latn: El
+agustino en Wittenberg; estando allí leyó en una vieja Biblia en latín: “El
 
-justo por la fe vivir. Esta era una idea nueva para l, y, por su medio, la
+justo por la fe vivirá”. Esta era una idea nueva para él, y, por su medio, la
 
-luz espiritual penetr en cierta medida en su alma; pero eran tales los
+luz espiritual penetró en cierta medida en su alma; pero eran tales los
 
-prejuicios de su educacin y tal la oscuridad de su entorno, que an esperaba
+prejuicios de su educación y tal la oscuridad de su entorno, que aún esperaba
 
-encontrar la salvacin gracias a ceremonias externas. Debido a eso ayunaba
+encontrar la salvación gracias a ceremonias externas. Debido a eso ayunaba
 
 largamente al punto que se le vio desfallecer de hambre. Era sumamente celoso
 
-de la salvacin por obras. Por fin realiz una peregrinacin a Roma esperando
+de la salvación por obras. Por fin realizó una peregrinación a Roma esperando
 
-encontrar all todo lo que era santo y provechoso. Se vio frustrado en su
+encontrar allí todo lo que era santo y provechoso. Se vio frustrado en su
 
-bsqueda, pero aun as encontr ms cosas de las que buscaba. Mientras suba de
+búsqueda, pero aun así encontró más cosas de las que buscaba. Mientras subía de
 
-rodillas por la supuesta escalera de Pilato, el texto de Wittenberg reson otra
+rodillas por la supuesta escalera de Pilato, el texto de Wittenberg resonó otra
 
-vez a sus odos como el estallido de un trueno: El justo por la fe vivir.
+vez a sus oídos como el estallido de un trueno: “El justo por la fe vivirá”.
 
-Subi y baj por esas escaleras y ya nunca volvi a arrastrarse por all. La
+Subió y bajó por esas escaleras y ya nunca volvió a arrastrarse por allí. La
 
-cadena estaba rota y el alma estaba libre. Lutero haba encontrado la luz y a
+cadena estaba rota y el alma estaba libre. Lutero había encontrado la luz y a
 
-partir de entonces hacer brillar esa luz sobre las naciones se convirti en la
+partir de entonces hacer brillar esa luz sobre las naciones se convirtió en la
 
-ocupacin de su vida, clamando por siempre: El justo por la fe vivir. La
+ocupación de su vida, clamando por siempre: “El justo por la fe vivirá”. La
 
-mejor conmemoracin que podemos hacer de este varn es predicar la doctrina que
+mejor conmemoración que podemos hacer de este varón es predicar la doctrina que
 
-l estimaba tanto, y la mejor manera en que pueden ayudarme los que no son
+él estimaba tanto, y la mejor manera en que pueden ayudarme los que no son
 
 salvos es creyendo esta doctrina y demostrando su verdad en sus propios casos.
 
-Que el Espritu haga que as sea en cientos de casos.
+Que el Espíritu haga que así sea en cientos de casos.
 
 I.
 
 Primero,
 
-preguntmonos, QU ES ESTA FE? Siempre estamos hablando de ella, pero, qu
+preguntémonos, żQUÉ ES ESTA FE? Siempre estamos hablando de ella, pero, żqué
 
 es? Siempre que trato de explicarla siento miedo no sea que los confunda en vez
 
-de que les explique. Circula una historia relacionada con El Progreso del
+de que les explique. Circula una historia relacionada con “El Progreso del
 
-Peregrino de John Bunyan. El buen Thomas Scott, el comentarista, escribi unas
+Peregrino” de John Bunyan. El buen Thomas Scott, el comentarista, escribió unas
 
-notas aclaratorias para ese libro pues consideraba que el Progreso del Peregrino
+notas aclaratorias para ese libro pues consideraba que el “Progreso del Peregrino”
 
-era un libro difcil y l quera aclararlo. Una piadosa aldeana en su parroquia
+era un libro difícil y él quería aclararlo. Una piadosa aldeana en su parroquia
 
-tena el libro y lo estaba leyendo cuando en una ocasin su ministro la visit.
+tenía el libro y lo estaba leyendo cuando en una ocasión su ministro la visitó.
 
-l le dijo: Oh, veo que est leyendo El Progreso del Peregrino de Bunyan. Lo
+Él le dijo: “Oh, veo que está leyendo ‘El Progreso del Peregrino’ de Bunyan. żLo
 
-entiende? Ella respondi bastante inocentemente: Oh, s, seor, yo entiendo
+entiende?” Ella respondió bastante inocentemente: “Oh, sí, seńor, yo entiendo
 
-muy bien al seor Bunyan, y espero que un da ser capaz de entender las
+muy bien al seńor Bunyan, y espero que un día seré capaz de entender las
 
-explicaciones suyas. Temo que una vez que haya yo concluido ustedes digan:
+explicaciones suyas”. Temo que una vez que haya yo concluido ustedes digan:
 
-Entiendo lo que es la fe tal como la encuentro en
+“Entiendo lo que es la fe tal como la encuentro en
 
 la Biblia
 
-, y un da, tal vez,
+, y un día, tal vez,
 
-ser capaz de entender la explicacin que da el predicador. Advertido de esto,
+seré capaz de entender la explicación que da el predicador”. Advertido de esto,
 
 voy a hablar tan claramente como pueda.
 
 Y, primero, debe
 
-recordarse que la fe no es una mera aceptacin de un credo. Es muy apropiado
+recordarse que la fe no es una mera aceptación de un credo. Es muy apropiado
 
-decir: Creo en Dios Padre Todopoderoso, Creador del cielo y de la tierra
+decir: “Creo en Dios Padre Todopoderoso, Creador del cielo y de la tierra”…
 
-etctera; pero ustedes pueden repetir todo eso y no ser creyentes en el
+etcétera; pero ustedes pueden repetir todo eso y no ser “creyentes” en el
 
-sentido escritural de ese trmino. Aunque el credo sea verdadero, pudiera no
+sentido escritural de ese término. Aunque el credo sea verdadero, pudiera no
 
-ser cierto para ustedes; les dara lo mismo si lo opuesto hubiera sido cierto,
+ser cierto para ustedes; les daría lo mismo si lo opuesto hubiera sido cierto,
 
-pues guardan la verdad como guardaran cualquier papel en un casillero y as no
+pues guardan la verdad como guardarían cualquier papel en un casillero y así no
 
-puede tener ningn efecto sobre ustedes. Es una doctrina muy apropiada
+puede tener ningún efecto sobre ustedes. “Es una doctrina muy apropiada”
 
-afirman- es una doctrina muy apropiada, y as dejan que duerma
+–afirman- “es una doctrina muy apropiada”, y así dejan que duerma
 
-tranquilamente. No ejerce ninguna influencia en su corazn ni afecta su vida. No
+tranquilamente. No ejerce ninguna influencia en su corazón ni afecta su vida. No
 
 vayan a imaginar que profesar un credo ortodoxo es lo mismo que la fe en
 
 Cristo. Un credo verdadero es deseable por muchas razones, pero si fuese algo
 
-muerto e ineficaz no puede traer la salvacin. La fe es creer la verdad, pero
+muerto e ineficaz no puede traer la salvación. La fe es creer la verdad, pero
 
-es algo ms.
+es algo más.
 
-Adems, la fe no es la
+Además, la fe no es la
 
 mera creencia en que hay un Dios, aunque se deba tener, pues no podemos
 
-acercarnos a Dios a menos que creamos que le hay, y que es galardonador de los
+acercarnos a Dios a menos que “creamos que le hay, y que es galardonador de los
 
-que le buscan. Debemos creer
+que le buscan”. Debemos creer
 
 en
 
-Dios: que es bueno, bendito, veraz, recto, y por tanto, debemos confiar en l,
+Dios: que es bueno, bendito, veraz, recto, y por tanto, debemos confiar en Él,
 
-debemos fiarnos de l y debemos alabarle. Prescindiendo de lo que l haga,
+debemos fiarnos de Él y debemos alabarle. Prescindiendo de lo que Él haga,
 
-prescindiendo de lo que l diga, no se debe sospechar de Dios sino que se debe
+prescindiendo de lo que Él diga, no se debe sospechar de Dios sino que se debe
 
-creer en l. Ustedes saben en qu consiste creer en un hombre, no es cierto?
+creer en Él. Ustedes saben en qué consiste creer en un hombre, żno es cierto?
 
-Saben en qu consiste en creer a un hombre al punto de seguirle, fiarse de l y
+Saben en qué consiste en creer a un hombre al punto de seguirle, fiarse de él y
 
-aceptar su consejo. La fe cree en Dios de esa misma manera: no slo cree que
+aceptar su consejo. La fe cree en Dios de esa misma manera: no sólo cree que
 
-es, sino que encuentra reposo en Su carcter, en Su Hijo, en Su promesa, en Su
+es, sino que encuentra reposo en Su carácter, en Su Hijo, en Su promesa, en Su
 
-pacto, en Su palabra y en todo lo relacionado con l. Fe confa vvida y
+pacto, en Su palabra y en todo lo relacionado con Él. Fe confía vívida y
 
 amorosamente en su Dios en cuanto a todo. Hemos de creer especialmente en lo
 
@@ -262,17 +262,17 @@ Escritura
 
 infalible testimonio que ha de ser recibido sin cuestionamientos. Aceptamos el
 
-testimonio del Padre concerniente a Jess, al cual estamos atentos como a una
+testimonio del Padre concerniente a Jesús, al cual estamos atentos “como a una
 
-antorcha que alumbra en lugar oscuro.
+antorcha que alumbra en lugar oscuro”.
 
 Fe tiene que creer
 
-especialmente en Aquel que es la suma y sustancia de toda esta revelacin,
+especialmente en Aquel que es la suma y sustancia de toda esta revelación,
 
 Jesucristo, que se hizo Dios en carne humana para redimir a nuestra naturaleza
 
-cada de todos los males del pecado, y para elevarla a la eterna felicidad.
+caída de todos los males del pecado, y para elevarla a la eterna felicidad.
 
 Creemos
 
@@ -286,17 +286,17 @@ Cristo, y nos apoyamos
 
 sobre
 
-Cristo, aceptndolo por causa del
+Cristo, aceptándolo por causa del
 
 testimonio que Dios nos ha legado concerniente a Su Hijo, que es la
 
-propiciacin por nuestros pecados. Nosotros aceptamos el indecible don de Dios
+propiciación por nuestros pecados. Nosotros aceptamos el indecible don de Dios
 
-y recibimos a Jess como nuestro todo en todo.
+y recibimos a Jesús como nuestro todo en todo.
 
 Si yo quisiera describir
 
-a la fe salvadora en una palabra, yo dira que es
+a la fe salvadora en una palabra, yo diría que es
 
 confianza.
 
@@ -306,11 +306,11 @@ Cristo que confiamos nuestros destinos eternos y a nosotros mismos en las manos
 
 de un Dios reconciliado. Como criaturas, alzamos nuestra mirada al grandioso
 
-Padre de los espritus; como pecadores, confiamos en la expiacin de Jesucristo
+Padre de los espíritus; como pecadores, confiamos en la expiación de Jesucristo
 
-para el perdn de nuestros pecados; como seres dbiles y endebles, nos
+para el perdón de nuestros pecados; como seres débiles y endebles, nos
 
-confiamos al poder del Espritu Santo para que nos santifique y nos guarde as;
+confiamos al poder del Espíritu Santo para que nos santifique y nos guarde así;
 
 arriesgamos nuestros eternos intereses en la nave de la gracia inmerecida,
 
@@ -320,31 +320,31 @@ palabra empleada para exponer la fe en las Escrituras algunas veces significa
 
 apoyarse. Nos apoyamos con todo nuestro peso sobre nuestro Dios, en Jesucristo.
 
-Nos colgamos de Cristo as como un recipiente cuelga de un clavo. Recostarse
+Nos colgamos de Cristo así como un recipiente cuelga de un clavo. “Recostarse”
 
-era un trmino con el que los antiguos puritanos solan describir a la fe: es un
+era un término con el que los antiguos puritanos solían describir a la fe: es un
 
 descansar, es un apoyarse en algo fuera de nosotros. Culpable como soy, yo creo
 
-en la palabra de Dios que dice que la sangre de Jesucristo su Hijo nos limpia
+en la palabra de Dios que dice que “la sangre de Jesucristo su Hijo nos limpia
 
-de todo pecado, y confiando en esa sangre yo s que soy limpiado de todo
+de todo pecado”, y confiando en esa sangre yo sé que soy limpiado de todo
 
-pecado. Dios expone a Cristo como una propiciacin; nosotros creemos que l es
+pecado. Dios expone a Cristo como una propiciación; nosotros creemos que Él es
 
-una propiciacin y lo tomamos para que sea
+una propiciación y lo tomamos para que sea
 
 nuestra
 
-propiciacin; mediante esa apropiacin nuestro pecado es cubierto y somos
+propiciación; mediante esa apropiación nuestro pecado es cubierto y somos
 
 libres. Fe es aferrarse a, es apropiarse de, es recibir en nuestro interior al
 
-Seor Jesucristo. Algunas veces yo lo ilustro con aquel pasaje de Pablo donde
+Seńor Jesucristo. Algunas veces yo lo ilustro con aquel pasaje de Pablo donde
 
-l dice: Cerca de ti est la palabra, en tu boca. Cuando un trozo de alimento
+él dice: “Cerca de ti está la palabra, en tu boca”. Cuando un trozo de alimento
 
-est en tu boca, si desearas poseerlo como para no perderlo nunca, qu es lo
+está en tu boca, si desearas poseerlo como para no perderlo nunca, żqué es lo
 
 mejor que puedes hacer?
 
@@ -352,59 +352,59 @@ Tragarlo.
 
 Hacer
 
-que se introduzca dentro de nosotros. Ahora, de acuerdo al apstol, la palabra
+que se introduzca dentro de nosotros. Ahora, de acuerdo al apóstol, la palabra
 
-que predicamos est en tu boca; entonces permite que se adentre en tu corazn
+que predicamos está “en tu boca”; entonces permite que se adentre en tu corazón
 
-y vers que es cierto que con el corazn se cree para justicia, pero con la
+y verás que es cierto que “con el corazón se cree para justicia, pero con la
 
-boca se confiesa para salvacin. Esta es la fe que salva al alma.
+boca se confiesa para salvación”. Esta es la fe que salva al alma.
 
 II.
 
 En
 
-segundo lugar vamos a considerar POR QU
+segundo lugar vamos a considerar żPOR QUÉ
 
 LA FE ES
 
-SELECCIONADA COMO EL CAMINO DE SALVACIN?
+SELECCIONADA COMO EL CAMINO DE SALVACIÓN?
 
 Quisiera recordarles que
 
-si no pudiramos responder esta pregunta no importara, pues ya que el Seor ha
+si no pudiéramos responder esta pregunta no importaría, pues ya que el Seńor ha
 
-designado a la fe como el camino de gracia no nos corresponde disputar su eleccin.
+designado a la fe como el camino de gracia no nos corresponde disputar su elección.
 
-Los mendigos no deben elegir; confiemos, si as lo ordena el Seor.
+Los mendigos no deben elegir; confiemos, si así lo ordena el Seńor.
 
 Pero nosotros podemos
 
 responder esta pregunta en cierta medida. Primero, es claro que
 
-ningn otro camino es posible.
+ningún otro camino es posible.
 
 No es
 
-posible que seamos salvados por nuestros propios mritos pues ya hemos
+posible que seamos salvados por nuestros propios méritos pues ya hemos
 
-quebrantado la ley, y la obediencia futura, estando todava pendiente de
+quebrantado la ley, y la obediencia futura, estando todavía pendiente de
 
 cumplirse, no puede compensar las fallas pasadas.
 
-Aunque mis lgrimas pudiesen fluir ininterrumpidamente,
+“Aunque mis lágrimas pudiesen fluir ininterrumpidamente,
 
-Aunque mi celo no conociera ningn descanso,
+Aunque mi celo no conociera ningún descanso,
 
-Nada de eso podra expiar el pecado:
+Nada de eso podría expiar el pecado:
 
-T tienes que salvar, y slo T.
+Tú tienes que salvar, y sólo Tú”.
 
 El camino de las buenas
 
-obras est bloqueado por nuestros pecados pasados, y con toda seguridad
+obras está bloqueado por nuestros pecados pasados, y con toda seguridad
 
-experimentar bloqueos adicionales por pecados futuros; por tanto tenemos que
+experimentará bloqueos adicionales por pecados futuros; por tanto tenemos que
 
 regocijarnos porque Dios nos ha recomendado el camino abierto de la fe.
 
@@ -412,129 +412,129 @@ Dios ha escogido el
 
 camino de la fe
 
-para que la salvacin sea
+para que la salvación sea
 
 por gracia.
 
-Si tuviramos que hacer algo para salvarnos a nosotros mismos,
+Si tuviéramos que hacer algo para salvarnos a nosotros mismos,
 
-con toda seguridad le imputaramos una cierta medida de virtud a nuestras
+con toda seguridad le imputaríamos una cierta medida de virtud a nuestras
 
 propias acciones, o a nuestros sentimientos, o a nuestras oraciones, o a
 
-nuestras mercedes, y as le restaramos valor a la pura gracia de Dios. Pero la
+nuestras mercedes, y así le restaríamos valor a la pura gracia de Dios. Pero la
 
-salvacin viene de Dios como un favor puro, como un acto de generosidad y
+salvación viene de Dios como un favor puro, como un acto de generosidad y
 
-benevolencia inmerecidas y por tanto, el Seor slo la
+benevolencia inmerecidas y por tanto, el Seńor sólo la
 
-pondr
+pondrá
 
 en la mano de la fe, puesto que la fe no se arroga nada. Fe, de hecho, descarta
 
-toda idea de mrito, y por tanto el Seor de gracia decide colocar el tesoro de
+toda idea de mérito, y por tanto el Seńor de gracia decide colocar el tesoro de
 
 Su amor en manos de la fe.
 
-Adems, es por fe
+Además, es por fe
 
 para que no haya ninguna jactancia
 
 ; pues
 
-si la salvacin fuera por nuestros actos o sentimientos, con toda seguridad nos
+si la salvación fuera por nuestros actos o sentimientos, con toda seguridad nos
 
-jactaramos; pero, si es por fe, nuestro yo no puede gloriarse. Dnde,
+jactaríamos; pero, si es por fe, nuestro ‘yo’ no puede gloriarse. “żDónde,
 
-pues, est la jactancia? Queda excluida. Por cul ley? Por la de las obras?
+pues, está la jactancia? Queda excluida. żPor cuál ley? żPor la de las obras?
 
-No, sino por la ley de la fe. Fe es humilde y atribuye toda la alabanza a
+No, sino por la ley de la fe”. Fe es humilde y atribuye toda la alabanza a
 
-Dios. Fe es veraz y confiesa su obligacin para con la gracia soberana de Dios.
+Dios. Fe es veraz y confiesa su obligación para con la gracia soberana de Dios.
 
-Yo bendigo al Seor
+Yo bendigo al Seńor
 
-porque l ha escogido este camino de la fe porque
+porque Él ha escogido este camino de la fe porque
 
 es tan apropiado para los pobres pecadores.
 
-Algunos aqu presentes
+Algunos aquí presentes
 
-esta noche no habran sido salvados nunca si la salvacin hubiere sido
+esta noche no habrían sido salvados nunca si la salvación hubiere sido
 
-preparada slo para los buenos y los justos. Yo era culpable delante de mi Dios
+preparada sólo para los buenos y los justos. Yo era culpable delante de mi Dios
 
-y permaneca autocondenado. Ningn joven tuvo jams un sentido ms agudo de
+y permanecía autocondenado. Ningún joven tuvo jamás un sentido más agudo de
 
-culpa del que yo tena. Cuando fui convicto de pecado vi que mis pensamientos y
+culpa del que yo tenía. Cuando fui convicto de pecado vi que mis pensamientos y
 
-mis deseos eran viles a los ojos de Dios y tambin me volv vil a mis propios
+mis deseos eran viles a los ojos de Dios y también me volví vil a mis propios
 
-ojos. Fui conducido a la desesperacin; y yo s que nunca hubiera podido ser
+ojos. Fui conducido a la desesperación; y yo sé que nunca hubiera podido ser
 
-animado por ningn plan de salvacin excepto por ese que es por fe. Debido a
+animado por ningún plan de salvación excepto por ese que es por fe. Debido a
 
 nuestra debilidad el pacto de obras no nos proporciona ninguna forma apropiada
 
-de esperanza en ningn momento, pero bajo ciertas circunstancias vemos esto muy
+de esperanza en ningún momento, pero bajo ciertas circunstancias vemos esto muy
 
-vvidamente. Supongan que se encontraran en el artculo de la muerte, qu
+vívidamente. Supongan que se encontraran en el artículo de la muerte, żqué
 
-buenas obras podran hacer? Aquel ladrn moribundo descubri que era algo
+buenas obras podrían hacer? Aquel ladrón moribundo descubrió que era algo
 
 dichoso que por fe pudiera confiar en el Crucificado, y antes de que el sol se
 
-pusiera pudiera estar con l en el Paraso. La fe es un camino adecuado para
+pusiera pudiera estar con Él en el Paraíso. La fe es un camino adecuado para
 
-los pecadores, y especialmente para los pecadores que estn a punto de morir;
+los pecadores, y especialmente para los pecadores que están a punto de morir;
 
-en algn sentido todos nosotros estamos en esa condicin, y algunos de nosotros
+en algún sentido todos nosotros estamos en esa condición, y algunos de nosotros
 
-acaso lo estemos ms especialmente; pues quin de nosotros sabe con certeza si
+acaso lo estemos más especialmente; pues żquién de nosotros sabe con certeza si
 
-ver el alba del da de maana?
+verá el alba del día de mańana?
 
 Yo bendigo otra vez a
 
-Dios porque el camino de salvacin es por fe, porque
+Dios porque el camino de salvación es por fe, porque
 
-es un camino abierto al ms ignorante.
+es un camino abierto al más ignorante.
 
-Cun excelente teologa
+Cuán excelente teología
 
-recibimos en estos das que es catalogada como pensamiento profundo. Los
+recibimos en estos días que es catalogada como ‘pensamiento profundo’. Los
 
 hombres se sumergen muy profundamente en sus temas y remueven de tal manera el
 
 lodo en el fondo que no puedes verlos y ni ellos mismos pueden verse. Yo
 
-percibo que ni los propios maestros de una cierta escuela saben de lo que estn
+percibo que ni los propios maestros de una cierta escuela saben de lo que están
 
-hablando. Ahora bien, si la salvacin se aprendiera nicamente leyendo folios
+hablando. Ahora bien, si la salvación se aprendiera únicamente leyendo folios
 
-gigantescos, qu sera de las multitudes de pobres almas en Bow, y en Bethnal
+gigantescos, żqué sería de las multitudes de pobres almas en Bow, y en Bethnal
 
 Green, y Seven Dials? Si el Evangelio hubiera consistido en acumular
 
-aprendizaje, cmo podran ser salvos los que son sin letras? Pero ahora
+aprendizaje, żcómo podrían ser salvos los que son sin letras? Pero ahora
 
-podemos ir a cada uno de ellos y decirles: Jess muri.
+podemos ir a cada uno de ellos y decirles: “Jesús murió”.
 
-Hay vida en una mirada al Crucificado;
+“Hay vida en una mirada al Crucificado;
 
-Hay vida en este instante para ti.
+Hay vida en este instante para ti”.
 
 Por poco que puedas
 
-saber, t sabes que has pecado; has de saber, entonces, que Jess vino para
+saber, tú sabes que has pecado; has de saber, entonces, que Jesús vino para
 
-quitar el pecado, y que todo aquel que en l crea es perdonado inmediatamente y
+quitar el pecado, y que todo aquel que en Él crea es perdonado inmediatamente y
 
 entra en la vida eterna. Este breve y bendito Evangelio es apropiado para todos
 
-los casos, desde prncipes a campesinos, y no nos sorprende que la fe fuera
+los casos, desde príncipes a campesinos, y no nos sorprende que la fe fuera
 
-seleccionada como el camino de la salvacin.
+seleccionada como el camino de la salvación.
 
 III.
 
@@ -542,135 +542,135 @@ Pero
 
 ahora, en tercer lugar, esta noche quiero extenderme hablando sobre otra
 
-pregunta: CMO OPERA
+pregunta: żCÓMO OPERA
 
 LA FE
 
 ?
 
-Pues segn nuestro texto es una Fe
+Pues según nuestro texto es una “Fe
 
 que
 
 obra
 
-por el amor. La nica fe que salva al alma es una fe viva, operante,
+por el amor”. La única fe que salva al alma es una fe viva, operante,
 
-amorosa. No puedo decirles qu cosas tan duras he odo acerca de esta doctrina
+amorosa. No puedo decirles qué cosas tan duras he oído acerca de esta doctrina
 
-de la salvacin por fe. Dicen que es inmoral. He odo que lo dicen personas
+de la salvación por fe. Dicen que es inmoral. He oído que lo dicen personas
 
 inmorales, y ellas lo saben muy bien. Dicen que conduce al pecado, y pienso que
 
-quienes lo dicen, se complaceran con ella por esa misma razn, si creyeran en
+quienes lo dicen, se complacerían con ella por esa misma razón, si creyeran en
 
-su propia declaracin. Yo nunca he odo a un santo acusar a la fe de conducirlo
+su propia declaración. Yo nunca he oído a un santo acusar a la fe de conducirlo
 
-al pecado. No conozco a nadie que vaya en pos de Dios y que viva cerca de l
+al pecado. No conozco a nadie que vaya en pos de Dios y que viva cerca de Él
 
 que tenga temor de que la fe en Dios lo tiente a transgredir. El hecho es que
 
-la fe no hace nada de ese tipo; su accin es exactamente lo contrario de manera
+la fe no hace nada de ese tipo; su acción es exactamente lo contrario de manera
 
-sumamente clara. Como la esposa prudente en los Proverbios, la fe le da bien
+sumamente clara. Como la esposa prudente en los Proverbios, la fe ‘le da bien
 
-al hombre y no mal todos los das de su vida.
+al hombre y no mal todos los días de su vida’.
 
 Primero,
 
-toca el mvil principal de nuestra
+toca el móvil principal de nuestra
 
 naturaleza generando amor dentro del alma.
 
-Qu se necesita ahora para las
+żQué se necesita ahora para las
 
-clases degradadas de Londres? Regulaciones sanitarias? Ciertamente, si no se
+clases degradadas de Londres? żRegulaciones sanitarias? Ciertamente, si no se
 
 les permitiera que quedaran como letra muerta por falta de alguien que las
 
-implemente. Nuevas casas? Definitivamente; entre ms mejor. Rentas ms bajas?
+implemente. żNuevas casas? Definitivamente; entre más mejor. żRentas más bajas?
 
 Seguramente, pues nadie tiene el derecho de obtener una renta excesiva por habitaciones
 
-insalubres. Ms altos salarios? Ciertamente, a todos nosotros nos vendra bien
+insalubres. żMás altos salarios? Ciertamente, a todos nosotros nos vendría bien
 
 un mayor salario. Muchas otras cosas son necesarias. Mientras aquellos palacios
 
-de la ginebra permanezcan en las esquinas de las calles no se lograr mucho
+de la ginebra permanezcan en las esquinas de las calles no se logrará mucho
 
-progreso en mejorar a las masas; y yo supongo que las cantinas siempre florecern
+progreso en mejorar a las masas; y yo supongo que las cantinas siempre florecerán
 
 mientras permanezca el gusto por la bebida. Supongan que esos expendios
 
-autorizados de veneno fueran clausurados, bastara con eso? No lo creo. Hay
+autorizados de veneno fueran clausurados, żbastaría con eso? No lo creo. Hay
 
 hombres y mujeres en Londres, y miles de ellos, que, aunque fueran ubicados en
 
-las casas ms limpias y estuvieran a millas de distancia de las cantinas donde
+las casas más limpias y estuvieran a millas de distancia de las cantinas donde
 
-se vende la ginebra, todava beberan y todava convertiran sus hogares en
+se vende la ginebra, todavía beberían y todavía convertirían sus hogares en
 
-pocilgas. Qu se necesita? Oh, si pudieras hacer de ellos unos cristianos!
+pocilgas. żQué se necesita? ˇOh, si pudieras hacer de ellos unos cristianos!
 
 Supongan que pudieran nacer de nuevo. Supongan que pudieran ser conducidos a
 
 amar las cosas que ahora odian, y a odiar las cosas que ahora aman. Nuevos
 
-corazones y espritus rectos son la necesidad de los parias de Londres. Cmo
+corazones y espíritus rectos son la necesidad de los parias de Londres. żCómo
 
-pueden producirse esas cosas? En la mano de Dios el Espritu Santo, eso es
+pueden producirse esas cosas? En la mano de Dios el Espíritu Santo, eso es
 
-exactamente lo que la fe obra en el corazn. Aqu tenemos un reloj. Necesita
+exactamente lo que la fe obra en el corazón. Aquí tenemos un reloj. “Necesita
 
-una limpieza. S, lmpialo. Ahora no funciona. Necesita un nuevo cristal.
+una limpieza”. Sí, límpialo. “Ahora no funciona. Necesita un nuevo cristal”.
 
-Bien, ponle un nuevo cristal. Sigue sin funcionar. Necesita nuevas
+Bien, ponle un nuevo cristal. “Sigue sin funcionar. Necesita nuevas
 
-manecillas. Consigue nuevas manecillas, por supuesto. Aun as no funciona. Qu
+manecillas”. Consigue nuevas manecillas, por supuesto. Aun así no funciona. żQué
 
-es lo que tiene? El relojero dice que necesita un resorte principal. All est
+es lo que tiene? El relojero dice que necesita un resorte principal. Allí está
 
 el origen del mal: nada puede estar bien hasta que eso sea rectificado. Pon a
 
 funcionar todos los mecanismos, pero no olvides que el resorte principal es la
 
-parte primordial del asunto. Fe le suministra al alma un poderoso mvil de
+parte primordial del asunto. Fe le suministra al alma un poderoso móvil de
 
-accin. Le dice al hombre: T eres perdonado por medio de la sangre de Cristo
+acción. Le dice al hombre: “Tú eres perdonado por medio de la sangre de Cristo
 
-que muri por ti: qu sientes en cuanto a l? El hombre responde: Yo amo al
+que murió por ti: żqué sientes en cuanto a Él?” El hombre responde: “Yo amo al
 
-Seor por redimirme. Amando a Jess, el hombre tiene ahora dentro de su alma
+Seńor por redimirme”. Amando a Jesús, el hombre tiene ahora dentro de su alma
 
-la simiente de todo bien. Se convertir en un ser ms santo y mejor, pues ha
+la simiente de todo bien. Se convertirá en un ser más santo y mejor, pues ha
 
-comenzado a amar y el amor engendra la santidad. Hay algn servicio en el
+comenzado a amar y el amor engendra la santidad. żHay algún servicio en el
 
 mundo como el servicio del amor? Tienes un sirviente en tu casa que es
 
-lisonjero y servil; pero si fueras a reducir su salario te mostrara el lado
+lisonjero y servil; pero si fueras a reducir su salario te mostraría el lado
 
-spero de su lengua y buscara otro empleo. No esperas de l nada ms que eso y
+áspero de su lengua y buscaría otro empleo. No esperas de él nada más que eso y
 
-si lo hicieras, no lo obtendras. Cun diferente era un viejo sirviente del que
+si lo hicieras, no lo obtendrías. Cuán diferente era un viejo sirviente del que
 
-me he enterado, quien, cuando su amo perdi su posicin en el mundo, se
+me he enterado, quien, cuando su amo perdió su posición en el mundo, se
 
-contentaba con media paga; y cuando, con mucha afliccin, se le dijo que tena
+contentaba con media paga; y cuando, con mucha aflicción, se le dijo que tenía
 
-que irse pues su amo no poda proporcionarle ni la ropa, hizo que sus viejos
+que irse pues su amo no podía proporcionarle ni la ropa, hizo que sus viejos
 
-vestidos le duraran, pues no quera abandonar a su amo en su ancianidad. Ms
+vestidos le duraran, pues no quería abandonar a su amo en su ancianidad. Más
 
 bien hubiera querido ganar el pan para su viejo amo que tener que dejarle. Era
 
-un siervo apegado que vala su peso en oro; hay pocos sirvientes como l en
+un siervo apegado que valía su peso en oro; hay pocos sirvientes como él en
 
-estos das, pues no hay tales amos como aquel. Este tipo de servicio no puede
+estos días, pues no hay tales amos como aquel. Este tipo de servicio no puede
 
-ser comprado pero su precio est por encima de los rubes. Cuando el Seor nos
+ser comprado pero su precio está por encima de los rubíes. Cuando el Seńor nos
 
-conduce a creer en Jess, nos convertimos a partir de entonces en Sus siervos
+conduce a creer en Jesús, nos convertimos a partir de entonces en Sus siervos
 
 amorosos y le servimos, no por la recompensa sino por gratitud. Para nosotros ya
 
@@ -678,91 +678,93 @@ no se trata de tanta cantidad de trabajo por determinado sueldo; no tememos la
 
 amenaza del infierno por la desobediencia, ni miramos al cielo como algo ganado
 
-por obras. No, no; nuestra salvacin es un don gratuito. La recibimos por medio
+por obras. No, no; nuestra salvación es un don gratuito. La recibimos por medio
 
-del infinito amor y de la suprema compasin, y por tanto nosotros devolvemos el
+del infinito amor y de la suprema compasión, y por tanto nosotros devolvemos el
 
-ms clido afecto de nuestro corazn. Nuestro corazn se aferra a ese amado
+más cálido afecto de nuestro corazón. Nuestro corazón se aferra a ese amado
 
-costado que fue abierto por nosotros. Sentimos un tierno amor por esos amados
+costado que fue abierto por nosotros. ˇSentimos un tierno amor por esos amados
 
-pies atravesados; podramos besarlos cada da! Esas benditas manos del
+pies atravesados; podríamos besarlos cada día! ˇEsas benditas manos del
 
-Crucificado! A su contacto somos fortalecidos, honrados, consolados. Jess es todo
+Crucificado! A su contacto somos fortalecidos, honrados, consolados. Jesús es todo
 
-l codiciable para nosotros; es el Seor de nuestro corazn. La fe, en vez de
+Él codiciable para nosotros; es el Seńor de nuestro corazón. La fe, en vez de
 
-ser una cosa pobre y miserable, como algunos imaginan, es la causa ms grandiosa
+ser una cosa pobre y miserable, como algunos imaginan, es la causa más grandiosa
 
 de amor, y por tanto, de obediencia y santidad.
 
-Han de saber, adems,
+Han de saber, además,
 
 que
 
-la fe nos pone en una nueva relacin.
+la fe nos pone en una nueva relación.
 
 Estamos obligados por naturaleza a ser los siervos de Dios, pero la fe
 
-susurra a nuestro odo: Di Padre nuestro y cuando el corazn ha recibido el
+susurra a nuestro oído: “Di ‘Padre nuestro’ y cuando el corazón ha recibido el
 
-Espritu de adopcin, el aspecto de servicio se modifica enteramente; el
+Espíritu de adopción, el aspecto de servicio se modifica enteramente; el
 
-servicio mercenario es sustituido por la obediencia amorosa, y nuestro espritu
+servicio mercenario es sustituido por la obediencia amorosa, y nuestro espíritu
 
-es transformado. Convertirse en un heredero de Dios y en un coheredero con Jess
+es transformado. Convertirse en un heredero de Dios y en un coheredero con Jesús
 
-es sublimar el trabajo y convertirlo en un deleite, es trabajar en comunin con
+es sublimar el trabajo y convertirlo en un deleite, es trabajar en comunión con
 
 Dios. La ley no es un grillete para un hijo de Dios: es su deleite.
 
-La fe erradica del alma esa forma de egosmo que anteriormente pareca
+La fe erradica del alma esa forma de egoísmo que anteriormente parecía
 
 necesaria.
 
-As que t esperas ser salvado por lo que haces, no
+Así que tú esperas ser salvado por lo que haces, żno
 
-es cierto? Puedo preguntarte, amigo, a quin ests sirviendo en todo eso? Yo
+es cierto? żPuedo preguntarte, amigo, a quién estás sirviendo en todo eso? Yo
 
-te lo dir. Te ests sirviendo a ti mismo. Todo lo que haces es ganar felicidad
+te lo diré. Te estás sirviendo a ti mismo. Todo lo que haces es ganar felicidad
 
-para ti mismo. Cmo, entonces, ests sirviendo a Dios? Ests viviendo una vida
+para ti mismo. żCómo, entonces, estás sirviendo a Dios? Estás viviendo una vida
 
-egosta aunque est teida con el color de la espiritualidad. Lo que es
+egoísta aunque esté teńida con el color de la espiritualidad. Lo que es
 
-realizado por ti en el caso de la religin no tiene otro objetivo sino que
+realizado por ti en el caso de la religión no tiene otro objetivo sino que
 
-t
+tú
 
 seas salvado y que vayas al cielo. Toda
 
-tu obra ms celosa es para el yo. Supn que yo te dijera: Yo s que soy
+tu obra más celosa es para el ‘yo’. Supón que yo te dijera: “Yo sé que soy
 
-salvo; yo s que Jess ha quitado mi pecado; yo s que no permitir que
+salvo; yo sé que Jesús ha quitado mi pecado; yo sé que no permitirá que
 
-perezca; vamos, entonces en mi caso hay espacio para el servicio del Seor por
+perezca”; vamos, entonces en mi caso hay espacio para el servicio del Seńor por
 
-lo que l ha hecho por m. Ahora no tengo que salvarme a m mismo, sino que
+lo que Él ha hecho por mí. Ahora no tengo que salvarme a mí mismo, sino que
 
-tengo que servir a Cristo. La gratitud es la motivacin del Evangelio, y la
+tengo que servir a Cristo. La gratitud es la motivación del Evangelio, y la
 
 virtud abnegada es posible bajo su poder pero no sobre la base del servicio
 
 legal. Me parece que la pura virtud es una completa imposibilidad mientras un
 
-hombre no sea salvado porque siempre tiene que participar de la visin rastrera
+hombre no sea salvado porque siempre tiene que participar de la visión rastrera
 
-y ruin del beneficio propio por lo que est haciendo. Una vez que la gran
+y ruin del beneficio propio por lo que está haciendo. Una vez que la gran
 
-transaccin se lleva a cabo, y t eres salvado, entonces eres alzado a una
+transacción se lleva a cabo, y tú eres salvado, entonces eres alzado a una
 
-esfera ms noble, y dices:
+esfera más noble, y dices:
 
-Entonces,
+“Entonces,
 
-por qu, oh bendito Jesucristo,
+ż
 
-No habra de amarte ms
+por qué, oh bendito Jesucristo,
+
+No habría de amarte más
 
 ?
 
@@ -774,99 +776,99 @@ No con la esperanza de ganar algo,
 
 Ni en busca de una recompensa:
 
-Pero como T me has amado,
+Pero como Tú me has amado,
 
-Oh, siempre amante Seor,
+Oh, siempre amante Seńor,
 
-As quisiera amarte, amadsimo Seor,
+Así quisiera amarte, amadísimo Seńor,
 
-Y en Tu loa cantar,
+Y en Tu loa cantaré,
 
-Slo porque T eres mi Dios,
+Sólo porque Tú eres mi Dios,
 
-Y mi Eterno Rey.
+Y mi Eterno Rey”.
 
 Por esto la fe inspira
 
-una motivacin mayor que la que la ley puede sugerir.
+una motivación mayor que la que la ley puede sugerir.
 
 Fe genera pronto el amor por el hombre;
 
 pues,
 
-si el Seor Jess te ha salvado, hermano mo, pronto desears que otros sean
+si el Seńor Jesús te ha salvado, hermano mío, pronto desearás que otros sean
 
-salvados tambin. T has gustado de esta miel, y la dulzura sobre tu propia
+salvados también. Tú has gustado de esta miel, y la dulzura sobre tu propia
 
-lengua te constrie a invitar a otros al festn. Aquel que ha sido introducido
+lengua te constrińe a invitar a otros al festín. Aquel que ha sido introducido
 
 a la libertad de la gracia inmerecida quisiera, si pudiera, liberar a todo pecador
 
 cautivo.
 
-Cuando est bien
+Cuando está bien
 
 ejercitada,
 
-la fe significa armona con
+la fe significa armonía con
 
 Dios.
 
 Crea un acuerdo con la voluntad divina de manera que nos agrada todo
 
-lo que agrada a Dios. Si el Seor sentara al creyente sobre un muladar junto a
+lo que agrada a Dios. Si el Seńor sentara al creyente sobre un muladar junto a
 
-Job, todava bendecira Su nombre. Fe est de acuerdo con el precepto divino, y
+Job, todavía bendeciría Su nombre. Fe está de acuerdo con el precepto divino, y
 
-desea obedecerlo, y con la doctrina divina, que desea conocer y publicar; s, fe
+desea obedecerlo, y con la doctrina divina, que desea conocer y publicar; sí, fe
 
-dice de todo lo que es de Dios: Es el Seor, que mande, ensee o haga lo que
+dice de todo lo que es de Dios: “Es el Seńor, que mande, enseńe o haga lo que
 
-bien le pareciere.
+bien le pareciere”.
 
 Les he mostrado que la fe
 
-no es el nimio principio que sus detractores describen como Slo cree. Oh,
+no es el nimio principio que sus detractores describen como “Sólo cree”. Oh,
 
-que supieran en qu consiste slo creer. Es la liberacin de la mente de sus
+que supieran en qué consiste sólo creer. Es la liberación de la mente de sus
 
-cadenas. Es el amanecer del propio da del cielo. El Slo cree es una lucha
+cadenas. Es el amanecer del propio día del cielo. El “Sólo cree” es una lucha
 
-vitalicia. Esta es la obra de Dios, que creis en el que l ha enviado.
+vitalicia. Esta es “la obra de Dios, que creáis en el que él ha enviado”.
 
 Hermanos, yo creo que
 
 una fe humilde y perseverante en Dios es una
 
-de las formas ms excelsas de adoracin que suba jams al trono de Dios.
+de las formas más excelsas de adoración que suba jamás al trono de Dios.
 
 Aunque
 
-los querubines y los serafines saludan al Seor con sus Santo, Santo, Santo,
+los querubines y los serafines saludan al Seńor con sus “Santo, Santo, Santo”,
 
-aunque todo el ejrcito de seres resplandecientes rodeen el trono con perpetuos
+aunque todo el ejército de seres resplandecientes rodeen el trono con perpetuos
 
-aleluyas, no hay una reverencia ms ferviente dada a Dios que cuando un pobre
+aleluyas, no hay una reverencia más ferviente dada a Dios que cuando un pobre
 
-pecador, negro como la noche, clama con fe: Lvame, y ser ms blanco que la
+pecador, negro como la noche, clama con fe: “Lávame, y seré más blanco que la
 
-nieve. Creer en el perdn del pecado es una maravillosa adoracin de la
+nieve”. Creer en el perdón del pecado es una maravillosa adoración de la
 
 misericordia y del poder de Dios. Creer en una providencia constante es una
 
-dulce manera de adoracin a Dios en Su poder y bondad. Cuando un pobre labrador
+dulce manera de adoración a Dios en Su poder y bondad. Cuando un pobre labrador
 
-en su casucha, necesitado de pan para sus hijos, se arrodilla y clama: Seor,
+en su casucha, necesitado de pan para sus hijos, se arrodilla y clama: “Seńor,
 
-est escrito, se te dar tu pan, y tus aguas sern seguras, yo creo en Tu
+está escrito, ‘se te dará tu pan, y tus aguas serán seguras’, yo creo en Tu
 
-palabra, y por tanto, miro a Ti en mi necesidad, rinde un homenaje a la verdad
+palabra, y por tanto, miro a Ti en mi necesidad”, rinde un homenaje a la verdad
 
-y a la fidelidad de Dios que ni el mismo Gabriel podra rendir pues nunca
+y a la fidelidad de Dios que ni el mismo Gabriel podría rendir pues nunca
 
-conoci el aguijn del hambre. Creer que Dios nos guardar hasta el fin y que
+conoció el aguijón del hambre. Creer que Dios nos guardará hasta el fin y que
 
-nos llevar a Su gloria es ms honroso para Dios que todos los himnos de los
+nos llevará a Su gloria es más honroso para Dios que todos los himnos de los
 
 glorificados. Cuando confiamos en Su promesa, desde nosotros, moribundos hijos
 
@@ -874,79 +876,79 @@ de la tierra, sube al cielo un incienso de un olor fragante, aceptable a Dios
 
 por Jesucristo.
 
-Pienso que tambin hay
+Pienso que también hay
 
-esto acerca de la fe: que tiene un poder maravilloso sobre Dios. Me pides que
+esto acerca de la fe: que tiene un poder maravilloso sobre Dios. żMe pides que
 
-me retracte de esa expresin? No lo har. La voy a explicar. Fe vence al
+me retracte de esa expresión? No lo haré. La voy a explicar. Fe vence al
 
-Altsimo en Su trono. La fe de un ser inferior puede conquistar a un ser superior.
+Altísimo en Su trono. La fe de un ser inferior puede conquistar a un ser superior.
 
-Me explico: hace algunos aos, yo me paseaba una noche en el jardn, cuando vi
+Me explico: hace algunos ańos, yo me paseaba una noche en el jardín, cuando vi
 
-a un perro extraviado del que ya me haban dicho que tena el hbito de visitar
+a un perro extraviado del que ya me habían dicho que tenía el hábito de visitar
 
-mis terrenos, pero que no le ayudaba en lo ms mnimo al jardinero, y por tanto,
+mis terrenos, pero que no le ayudaba en lo más mínimo al jardinero, y por tanto,
 
-que sus atenciones no eran deseables. Mientras caminaba meditando en mi sermn
+que sus atenciones no eran deseables. Mientras caminaba meditando en mi sermón
 
-un sbado por la noche, vi a aquel perro activamente ocupado en hacer destrozos.
+un sábado por la noche, vi a aquel perro activamente ocupado en hacer destrozos.
 
-Le arroj mi bastn y le grit que se largara. Pero qu creen que hizo? En vez
+Le arrojé mi bastón y le grité que se largara. żPero qué creen que hizo? En vez
 
-de gruirme, o de salir corriendo aullando, me mir muy amigablemente, recogi
+de gruńirme, o de salir corriendo aullando, me miró muy amigablemente, recogió
 
-mi bastn con su hocico y me lo trajo, y luego, moviendo su cola, puso el
+mi bastón con su hocico y me lo trajo, y luego, moviendo su cola, puso el
 
-bastn a mis pies. Yo tena lgrimas en mis ojos; el perro me haba conquistado.
+bastón a mis pies. Yo tenía lágrimas en mis ojos; el perro me había conquistado.
 
-Dije: Eres un buen perro! Eres un buen perro; despus de esto puedes venir
+Dije: “ˇEres un buen perro! Eres un buen perro; después de esto puedes venir
 
-aqu cuando quieras. Por qu me haba conquistado el perro? Porque tuvo
+aquí cuando quieras”. żPor qué me había conquistado el perro? Porque tuvo
 
-confianza en m, y no quiso creer que yo podra hacerle algn dao. Pero
+confianza en mí, y no quiso creer que yo podría hacerle algún dańo. Pero
 
-volviendo a cosas ms sublimes: el Seor mismo no puede resistirse a la humilde
+volviendo a cosas más sublimes: el Seńor mismo no puede resistirse a la humilde
 
-confianza. No ven cmo un pecador lleva, por as decirlo, la vara de la
+confianza. żNo ven cómo un pecador lleva, por así decirlo, la vara de la
 
-justicia al Seor, y clama: Si T me golpeas, yo lo merezco; yo me someto a
+justicia al Seńor, y clama: “Si Tú me golpeas, yo lo merezco; yo me someto a
 
-Ti? El grandioso Dios no puede desdear a un corazn confiado. Eso es
+Ti”? El grandioso Dios no puede desdeńar a un corazón confiado. Eso es
 
-imposible. No sera Dios si pudiera echar fuera al alma que incuestionablemente
+imposible. No sería Dios si pudiera echar fuera al alma que incuestionablemente
 
-confa en l. Entonces este es el poder de la fe, y no me sorprende que el
+confía en Él. Entonces este es el poder de la fe, y no me sorprende que el
 
-Seor la haya elegido pues la fe es algo sumamente agradable para Dios. Oh,
+Seńor la haya elegido pues la fe es algo sumamente agradable para Dios. ˇOh,
 
-que todos ustedes confiaran en l! Dios alza Su espada contra ustedes, entonces,
+que todos ustedes confiaran en Él! Dios alza Su espada contra ustedes, entonces,
 
-corran a Sus brazos. l los amenaza, entonces,
+corran a Sus brazos. Él los amenaza, entonces,
 
-sujtense a Su promesa. l los persigue,
+sujétense a Su promesa. Él los persigue,
 
-entonces, acudan presurosos a Su amado Hijo. Confen al pie de la cruz en Su
+entonces, acudan presurosos a Su amado Hijo. Confíen al pie de la cruz en Su
 
-plena expiacin, y tienen que ser salvos.
+plena expiación, y tienen que ser salvos.
 
 IV.
 
 Ahora
 
-voy a concluir de una manera apropiada a esta conmemoracin de Lutero. Ustedes
+voy a concluir de una manera apropiada a esta conmemoración de Lutero. Ustedes
 
-ya han odo hasta la saciedad que Lutero predicaba la salvacin por fe
+ya han oído hasta la saciedad que Lutero predicaba la salvación por fe
 
-nicamente. Ahora, VAYAMOS A
+únicamente. Ahora, VAYAMOS A
 
 LA VIDA
 
 DE
 
-LUTERO, y veamos lo que el propio Lutero quera decir con eso. Qu tipo de fe
+LUTERO, y veamos lo que el propio Lutero quería decir con eso. żQué tipo de fe
 
-exhiba el propio Lutero gracias a la cual l fue justificado?
+exhibía el propio Lutero gracias a la cual él fue justificado?
 
 Primero, en el caso de
 
@@ -954,97 +956,97 @@ Lutero, la fe lo condujo a
 
 una abierta
 
-confesin de lo que crea.
+confesión de lo que creía.
 
-Lutero no tena la intencin de subir al cielo
+Lutero no tenía la intención de subir al cielo
 
-por las escaleras traseras, como muchos jvenes esperan hacerlo. Ustedes desean
+por las escaleras traseras, como muchos jóvenes esperan hacerlo. Ustedes desean
 
 ser cristianos a escondidas para escapar la ofensa de la cruz. Lutero no
 
-rehusaba confesar a Cristo y tomar su cruz y seguirle. l saba que quien cree
+rehusaba confesar a Cristo y tomar su cruz y seguirle. Él sabía que quien cree
 
-con el corazn tiene que hacer tambin una confesin con su boca, y l la hizo
+con el corazón tiene que hacer también una confesión con su boca, y él la hizo
 
-muy noblemente. Comenz a ensear y a predicar la verdad que haba iluminado a su
+muy noblemente. Comenzó a enseńar y a predicar la verdad que había iluminado a su
 
-propia alma. Uno de sus sermones desagrad al duque Jorge de Sajonia, pero como
+propia alma. Uno de sus sermones desagradó al duque Jorge de Sajonia, pero como
 
-a la vez salv a una dama de alcurnia, Lutero no se inmut. l no era un hombre
+a la vez salvó a una dama de alcurnia, Lutero no se inmutó. Él no era un hombre
 
-que ocultara la verdad porque fuera peligroso confesarla. Tetzel lleg con sus
+que ocultara la verdad porque fuera peligroso confesarla. Tetzel llegó con sus
 
 preciosas indulgencias y con sus liberaciones de las almas del purgatorio.
 
-Miles de buenos catlicos estaba indignados pero nadie le quera poner el
+Miles de buenos católicos estaba indignados pero nadie le quería poner el
 
-cascabel al gato. Lutero llam a Tetzel siervo del Papa y del demonio, y
+cascabel al gato. Lutero llamó a Tetzel “siervo del Papa y del demonio”, y
 
-declar: como vino entre nosotros aprovechndose de la credulidad de la gente,
+declaró: “como vino entre nosotros aprovechándose de la credulidad de la gente,
 
-no poda refrenarme de protestar contra eso y oponerme a su odiosa carrera.
+no podía refrenarme de protestar contra eso y oponerme a su odiosa carrera”.
 
-Sin medir sus palabras, sin intentar hablar amablemente, Lutero se enfrent a
+Sin medir sus palabras, sin intentar hablar amablemente, Lutero se enfrentó a
 
-l sin miedo a las consecuencias. l crea en las bendiciones de la gracia sin
+él sin miedo a las consecuencias. Él creía en las bendiciones de la gracia “sin
 
-dinero y sin precio, y no ocultaba sus convicciones. Clav sus tesis en la
+dinero y sin precio”, y no ocultaba sus convicciones. Clavó sus tesis en la
 
-puerta de la iglesia donde todos pudieran leerlas. Cuando los astrnomos
+puerta de la iglesia donde todos pudieran leerlas. Cuando los astrónomos
 
-requieran un nombre para una nueva constelacin en los cielos que sea el
+requieran un nombre para una nueva constelación en los cielos que sea “el
 
-martillo y los clavos. Oh, que la fe franca de este hombre reprenda a quienes
+martillo y los clavos”. ˇOh, que la fe franca de este hombre reprenda a quienes
 
-no hacen ninguna profesin!
+no hacen ninguna profesión!
 
 Su
 
-impvido valor por la verdad
+impávido valor por la verdad
 
 provocaba que fuera grandemente odiado
 
-en su propio da con una ferocidad que todava no se ha extinguido. Lutero
+en su propio día con una ferocidad que todavía no se ha extinguido. Lutero
 
-sigue siendo todava el hombre ms odiado en ciertos sectores. De eso son
+sigue siendo todavía el hombre más odiado en ciertos sectores. De eso son
 
-testigos los viles opsculos que se han producido durante la ltima quincena para
+testigos los viles opúsculos que se han producido durante la última quincena para
 
 desgracia de la prensa que contaminan. No puedo decir nada mejor ni nada peor
 
-de esos opsculos sino que son dignos de la causa en cuyo inters son
+de esos opúsculos sino que son dignos de la causa en cuyo interés son
 
 publicados. Si se menciona el nombre de Lutero los esclavos de Roma crujen sus
 
-dientes. Esta intensa animadversin demuestra el poder de Lutero. Jvenes, yo
+dientes. Esta intensa animadversión demuestra el poder de Lutero. Jóvenes, yo
 
-no s cul pudiera ser su ambicin; pero yo espero que no deseen ser meras
+no sé cuál pudiera ser su ambición; pero yo espero que no deseen ser meras
 
-hojuelas en la avena en este mundo sin aportar ningn sabor de ningn tipo. Mi
+hojuelas en la avena en este mundo sin aportar ningún sabor de ningún tipo. Mi
 
-ambicin no va en esa lnea. Yo s que si no tengo a nadie que me odie
+ambición no va en esa línea. Yo sé que si no tengo a nadie que me odie
 
 intensamente, no puedo tener a nadie que me ame intensamente; y estoy preparado
 
-para tenerlos a ambos. Cuando los varones de recto corazn ven en un hombre un honesto
+para tenerlos a ambos. Cuando los varones de recto corazón ven en un hombre un honesto
 
-amor por la verdad, claman: l es nuestro hermano. Que sea nuestro adalid.
+amor por la verdad, claman: “Él es nuestro hermano. Que sea nuestro adalid”.
 
-Cuando los hombres de corazn malvado replican: Abajo con l!, les damos
+Cuando los hombres de corazón malvado replican: “ˇAbajo con él!”, les damos
 
-gracias por el homenaje inconsciente que rinden de esa manera a la decisin de
+gracias por el homenaje inconsciente que rinden de esa manera a la decisión de
 
-carcter. Ningn hijo de Dios debe cortejar la aprobacin del mundo.
+carácter. Ningún hijo de Dios debe cortejar la aprobación del mundo.
 
-Ciertamente Lutero no lo haca. l agradaba a Dios y eso le bastaba.
+Ciertamente Lutero no lo hacía. Él agradaba a Dios y eso le bastaba.
 
-Su fe era tambin de
+Su fe era también de
 
 este tipo: que lo impulsaba a
 
 una
 
-ferviente reverencia por lo que crea que deca
+ferviente reverencia por lo que creía que decía
 
 la Santa
 
@@ -1058,29 +1060,29 @@ la Biblia
 
 contiene; con todo,
 
-para l
+para él
 
 la Escritura
 
 era la corte de apelaciones definitiva. Si alguien hubiera convencido a Lutero
 
-de algn error en cuanto a ese libro, de buena gana se habra retractado; pero
+de algún error en cuanto a ese libro, de buena gana se habría retractado; pero
 
-ese no era el plan de ellos, simplemente decan: es un hereje; condnenlo o
+ese no era el plan de ellos, simplemente decían: “es un hereje; condénenlo o
 
-hagan que se retracte. A esto no cedi nunca ni por un instante. Ay, en esta
+hagan que se retracte”. A esto no cedió nunca ni por un instante. Ay, en esta
 
-poca cantidades de hombres se estn proponiendo como sus propios escritores
+época cantidades de hombres se están proponiendo como sus propios escritores
 
 inspirados. Me han dicho que todo hombre que es su propio abogado tiene a un
 
-necio por cliente; y yo estoy inclinado a pensar que, cuando algn hombre se
+necio por cliente; y yo estoy inclinado a pensar que, cuando algún hombre se
 
-propone como su propio salvador y su propia revelacin, ocurre mucho de lo
+propone como su propio salvador y su propia revelación, ocurre mucho de lo
 
-mismo. Esa altiva idea est en el aire en este momento presente: cada individuo
+mismo. Esa altiva idea está en el aire en este momento presente: cada individuo
 
-est elaborando su propia Biblia. No suceda as con Lutero. l amaba al Libro
+está elaborando su propia Biblia. No sucedía así con Lutero. ˇÉl amaba al Libro
 
 sagrado! Luchaba con su ayuda. Era su hacha de combate y su arma de guerra. Un
 
@@ -1088,17 +1090,17 @@ texto de
 
 la Escritura
 
-encenda su alma, pero rechazaba las palabras de la tradicin. No cedera ante
+encendía su alma, pero rechazaba las palabras de la tradición. No cedería ante
 
 Melanchton, o Zwinglio, o Calvino, o quienquiera que fuese, prescindiendo de
 
-cun letrado o po; llevaba su propia fe personal a
+cuán letrado o pío; llevaba su propia fe personal a
 
 la Escritura
 
-, y segua la
+, y seguía la
 
-palabra del Seor de acuerdo a la luz que posea. Que haya muchos Luteros en
+palabra del Seńor de acuerdo a la luz que poseía. ˇQue haya muchos Luteros en
 
 este lugar!
 
@@ -1110,25 +1112,25 @@ la
 
 intensa actividad de su fe.
 
-Lutero no crea en que Dios hiciera la
+Lutero no creía en que Dios hiciera la
 
-obra que a l le corresponda de manera que le permitiera permanecer ocioso.
+obra que a él le correspondía de manera que le permitiera permanecer ocioso.
 
-Nada de eso. Un discpulo le dijo una vez a Mahoma: Voy a soltar mi camello y
+Nada de eso. Un discípulo le dijo una vez a Mahoma: “Voy a soltar mi camello y
 
-voy a confiar en la providencia. No respondi Mahoma- confa en la
+voy a confiar en la providencia”. “No” –respondió Mahoma- “confía en la
 
-providencia pero amarra cuidadosamente a tu camello. Esto se asemeja al
+providencia pero amarra cuidadosamente a tu camello”. Esto se asemeja al
 
-precepto puritano de Oliver Cromwell, Confa en Dios, pero mantn tu plvora
+precepto puritano de Oliver Cromwell, “Confía en Dios, pero mantén tu pólvora
 
-seca. Lutero crea ms que nadie en mantener su plvora seca. Cmo trabajaba!
+seca”. Lutero creía más que nadie en mantener su pólvora seca. ˇCómo trabajaba!
 
-Con la pluma, con la boca, con la mano; desbordaba energa casi ms all de lo
+Con la pluma, con la boca, con la mano; desbordaba energía casi más allá de lo
 
-creble. Pareca un hombre de muchas manos. Haca obras que hubieran agotado las
+creíble. Parecía un hombre de muchas manos. Hacía obras que hubieran agotado las
 
-fuerzas de cientos de hombres ms pequeos. Trabajaba como si todo dependiera
+fuerzas de cientos de hombres más pequeńos. Trabajaba como si todo dependiera
 
 de su propia actividad, y luego se apoyaba en Dios en santa confianza como si
 
@@ -1136,163 +1138,163 @@ no hubiera hecho nada. Este es el tipo de fe que salva a un hombre tanto en
 
 esta vida como en la vida venidera.
 
-Adems,
+Además,
 
-la fe de Lutero abundaba en oracin.
+la fe de Lutero abundaba en oración.
 
-Qu
+ˇQué
 
-suplicaciones eran las suyas! Quienes las oan nos cuentan de sus lgrimas, de
+suplicaciones eran las suyas! Quienes las oían nos cuentan de sus lágrimas, de
 
-sus luchas, de sus santos argumentos. Entraba en su aposento con el corazn
+sus luchas, de sus santos argumentos. Entraba en su aposento con el corazón
 
-afligido, y permaneca all una hora o dos, y luego sala cantando he vencido,
+afligido, y permanecía allí una hora o dos, y luego salía cantando “he vencido,
 
-he vencido. Ah dijo un da- tengo tanto que hacer hoy que no podra realizarlo
+he vencido”. “Ah” –dijo un día- “tengo tanto que hacer hoy que no podría realizarlo
 
-sin dedicar al menos tres horas a la oracin. Yo pens que dira: no puedo
+sin dedicar al menos tres horas a la oración”. Yo pensé que diría: “no puedo
 
-permitirme asignar ni siquiera un cuarto de hora a la oracin; ms bien
+permitirme asignar ni siquiera un cuarto de hora a la oración”; más bien
 
-aumentaba su oracin conforme aumentaba su labor. Esta es la fe que salva: una
+aumentaba su oración conforme aumentaba su labor. Esta es la fe que salva: una
 
-fe que se aferra a Dios y que prevalece con l en suplicacin privada.
+fe que se aferra a Dios y que prevalece con Él en suplicación privada.
 
 La suya fue una fe que
 
-le liber enteramente del miedo del hombre.
+le liberó enteramente del miedo del hombre.
 
 El
 
-duque Jorge va a detenerlo. Es l?, dijo Lutero- Aunque llovieran duques
+duque Jorge va a detenerlo. “żEs él?”, –dijo Lutero- “Aunque llovieran duques
 
-Jorges yo ira. Se le exhorta para que no vaya a Worms, pues correra peligro.
+Jorges yo iría”. Se le exhorta para que no vaya a Worms, pues correría peligro.
 
-Aunque hubiera tantos demonios en Worms como haba tejas sobre los techos de
+Aunque hubiera tantos demonios en Worms como había tejas sobre los techos de
 
-las casas ira all. Y all se dirigi, como todos ustedes saben, actuando virilmente
+las casas iría allí. Y allí se dirigió, como todos ustedes saben, actuando virilmente
 
-por el Evangelio y por su Dios. No se comprometa con nadie y guardaba su fe en
+por el Evangelio y por su Dios. No se comprometía con nadie y guardaba su fe en
 
 Dios pura y sin mezcla. Papas, emperadores, doctores, electores, todos ellos
 
-eran como nada para Lutero cuando estaban en contra del Seor. Que as sea
+eran como nada para Lutero cuando estaban en contra del Seńor. Que así sea
 
-tambin con nosotros.
+también con nosotros.
 
 La suya fue una fe que
 
-lo condujo a arriesgar todo por la verdad. No pareca que hubiera alguna
+lo condujo a arriesgar todo por la verdad. No parecía que hubiera alguna
 
-esperanza de que regresara con vida a Worms. Con toda seguridad sera quemado
+esperanza de que regresara con vida a Worms. Con toda seguridad sería quemado
 
-como John Huss pero lo sorprendente es que se escap. Su arrojo le proporcion
+como John Huss pero lo sorprendente es que se escapó. Su arrojo le proporcionó
 
 seguridad frente al peligro. Expresaba su pesar de que la corona del martirio,
 
-con toda probabilidad, no le tocara; pero tena en su interior la fe que estaba
+con toda probabilidad, no le tocara; pero tenía en su interior la fe que estaba
 
-dispuesta a morir por Jess. Aquel que en un caso as salva su vida la perder,
+dispuesta a morir por Jesús. Aquel que en un caso así salva su vida la perderá,
 
-pero el que pierde su vida por causa de Cristo la encontrar para vida eterna.
+pero el que pierde su vida por causa de Cristo la encontrará para vida eterna.
 
 Esta fue la fe que hizo
 
 que Lutero fuera un hombre entre los hombres, y que
 
-le salv de las afectaciones sacerdotales.
+le salvó de las afectaciones sacerdotales.
 
-Yo no s si ustedes
+Yo no sé si ustedes
 
-admiran lo que se considera como una religin muy superior: es una cosa de
+admiran lo que se considera como una religión muy superior: es una cosa de
 
-belleza, pero no de uso; debera guardarse siempre en una vitrina; est hecha
+belleza, pero no de uso; debería guardarse siempre en una vitrina; está hecha
 
-para salones y para reuniones religiosas, pero estara fuera de lugar en un
+para salones y para reuniones religiosas, pero estaría fuera de lugar en un
 
-taller o en una granja. Ahora bien, la religin de Lutero estaba con l en casa
+taller o en una granja. Ahora bien, la religión de Lutero estaba con él en casa
 
-y a la mesa, as como en el plpito. Su religin era parte y porcin de su vida
+y a la mesa, así como en el púlpito. Su religión era parte y porción de su vida
 
-comn, y esa vida era libre, abierta, osada, y sin restricciones. Es fcil
+común, y esa vida era libre, abierta, osada, y sin restricciones. Es fácil
 
-censurar a Lutero desde el punto de vista superfino, pues l viva en una
+censurar a Lutero desde el punto de vista superfino, pues él vivía en una
 
-honesta indefensin. Mi admiracin se enardece al pensar en la fervorosa
+honesta indefensión. Mi admiración se enardece al pensar en la fervorosa
 
-apertura del hombre. No me sorprende que aun los alemanes impos lo reverencien,
+apertura del hombre. No me sorprende que aun los alemanes impíos lo reverencien,
 
-pues l es todo un alemn y todo un hombre. Cuando habla no se saca las
+pues él es todo un alemán y todo un hombre. Cuando habla no se saca las
 
-palabras de su boca para mirarlas, y para preguntarle a Melanchton si servirn;
+palabras de su boca para mirarlas, y para preguntarle a Melanchton si servirán;
 
 antes bien golpea duro, y ya ha hablado una docena de frases antes de haber
 
 pensado si son pulidas o no. Ciertamente es completamente indiferente a las
 
-crticas, y dice lo que piensa y siente. Est tranquilo pues se siente en casa;
+críticas, y dice lo que piensa y siente. Está tranquilo pues se siente en casa;
 
-acaso no est por doquier en la casa de su grandioso Padre? Acaso no tiene
+żacaso no está por doquier en la casa de su grandioso Padre? żAcaso no tiene
 
-una intencin pura y simple de decir la verdad y de hacer lo recto?
+una intención pura y simple de decir la verdad y de hacer lo recto?
 
 Me agrada que Lutero
 
-tenga una esposa e hijos. Me gusta verlo con su familia y con un rbol de
+tenga una esposa e hijos. Me gusta verlo con su familia y con un árbol de
 
-Navidad, haciendo msica con el pequeo Juanito Lutero sobre sus rodillas. Me
+Navidad, haciendo música con el pequeńo Juanito Lutero sobre sus rodillas. Me
 
-encanta orlo cantar un pequeo himno con los nios, y contarle a su hermoso
+encanta oírlo cantar un pequeńo himno con los nińos, y contarle a su hermoso
 
 muchacho acerca de los caballos en el cielo con bridas de oro y monturas de
 
-plata. La fe no haba suprimido su hombra sino que la haba santificado para los
+plata. La fe no había suprimido su hombría sino que la había santificado para los
 
-usos ms nobles. Lutero no viva ni se mova como si fuera un mero clrigo,
+usos más nobles. Lutero no vivía ni se movía como si fuera un mero clérigo,
 
-sino como un hermano para nuestra comn humanidad. Despus de todo, hermanos,
+sino como un hermano para nuestra común humanidad. Después de todo, hermanos,
 
-han de saber que los ms grandes telogos tienen que comer pan con mantequilla
+han de saber que los más grandes teólogos tienen que comer pan con mantequilla
 
-como las dems personas. Cierran sus ojos antes de dormir y los abren por la
+como las demás personas. Cierran sus ojos antes de dormir y los abren por la
 
-maana tal como lo hacen las dems personas. Esto es un hecho, aunque algunos
+mańana tal como lo hacen las demás personas. Esto es un hecho, aunque algunos
 
-caballeros estirados quisieran que dudramos de ello. Sienten y piensan como otros
+caballeros estirados quisieran que dudáramos de ello. Sienten y piensan como otros
 
-hombres. Por qu habran de dar la impresin como si no lo hicieran? Acaso no
+hombres. żPor qué habrían de dar la impresión como si no lo hicieran? żAcaso no
 
 es algo bueno comer y beber para la gloria de Dios y mostrarle a la gente que
 
-las cosas comunes pueden ser santificadas por la palabra de Dios y la oracin?
+las cosas comunes pueden ser santificadas por la palabra de Dios y la oración?
 
-Qu importa si no nos vestimos con ornamentos litrgicos, y cosas parecidas? Los
+żQué importa si no nos vestimos con ornamentos litúrgicos, y cosas parecidas? Los
 
-mejores ornamentos litrgicos corresponden a una plena entrega a la obra del
+mejores ornamentos litúrgicos corresponden a una plena entrega a la obra del
 
-Seor; y si un hombre vive rectamente, hace de cada vestido un ornamento
+Seńor; y si un hombre vive rectamente, hace de cada vestido un ornamento
 
-eclesistico, hace de cada comida un sacramento y de cada casa un templo. Todas
+eclesiástico, hace de cada comida un sacramento y de cada casa un templo. Todas
 
-nuestras horas son cannicas, todos nuestros das son santos, cada aliento es
+nuestras horas son canónicas, todos nuestros días son santos, cada aliento es
 
-incienso y cada pulso es msica para el Altsimo.
+incienso y cada pulso es música para el Altísimo.
 
 Nos dicen que Lutero
 
-ignoraba las buenas obras. Es cierto que no permita que se hablara de las
+ignoraba las buenas obras. Es cierto que no permitía que se hablara de las
 
-buenas obras como si fueran medios para la salvacin, pero exiga vidas santas
+buenas obras como si fueran medios para la salvación, pero exigía vidas santas
 
-de aquellos que profesaban la fe en Jess.
+de aquellos que profesaban la fe en Jesús.
 
 Lutero
 
-abundaba en oracin y caridades.
+abundaba en oración y caridades.
 
-Cun caritativo era Lutero! Me temo que
+ˇCuán caritativo era Lutero! Me temo que
 
-no tena en cuenta en todo momento los principios de
+no tenía en cuenta en todo momento los principios de
 
 la Sociedad
 
@@ -1300,7 +1302,7 @@ para
 
 la
 
-Organizacin
+Organización
 
 del Socorro
 
@@ -1308,7 +1310,7 @@ Caritativo y
 
 la
 
-Represin
+Represión
 
 de
 
@@ -1316,31 +1318,31 @@ la Mendicidad. Cuando
 
 va caminando, si hay mendigos
 
-vaca sus bolsillos para darles a ellos. Acaban de ingresar doscientas coronas,
+vacía sus bolsillos para darles a ellos. Acaban de ingresar doscientas coronas,
 
-y, aunque tiene una familia, clama: Doscientas coronas! Dios me est dando mi
+y, aunque tiene una familia, clama: “ˇDoscientas coronas! Dios me está dando mi
 
-porcin en esta vida. Mira le dice a un pobre hermano ministro toma la
+porción en esta vida”. “Mira” –le dice a un pobre hermano ministro “toma la
 
-mitad. Y dnde estn los pobres? Llmenlos. Tengo que deshacerme de esto! Me
+mitad. żY dónde están los pobres? Llámenlos. ˇTengo que deshacerme de esto! Me
 
-temo que su esposa Catalina se vea forzada a veces a menear la cabeza por esa
+temo que su esposa Catalina se veía forzada a veces a menear la cabeza por esa
 
-actitud, pues, en verdad, no era siempre el marido ms ahorrativo que pudiera
+actitud, pues, en verdad, no era siempre el marido más ahorrativo que pudiera
 
-existir. En caridades era insuperable y en todos los deberes de la vida exceda
+existir. En caridades era insuperable y en todos los deberes de la vida excedía
 
-el nivel de su poca. Como todas las dems personas tena sus fallas; pero como
+el nivel de su época. Como todas las demás personas tenía sus fallas; pero como
 
-sus enemigos tocan ese tema hasta el cansancio y van mucho ms all de la
+sus enemigos tocan ese tema hasta el cansancio y van mucho más allá de la
 
-verdad, no necesito detenerme en sus fallas. Yo deseara que los detractores de
+verdad, no necesito detenerme en sus fallas. Yo desearía que los detractores de
 
-Lutero fueran la mitad de buenos de lo que l era. Toda la gloria de su
+Lutero fueran la mitad de buenos de lo que él era. Toda la gloria de su
 
-grandiosa carrera sea slo para el Seor.
+grandiosa carrera sea sólo para el Seńor.
 
-Por ltimo, la fe de
+Por último, la fe de
 
 Lutero era una fe que
 
@@ -1352,25 +1354,25 @@ Yo supongo que nunca nadie tuvo mayores
 
 conflictos de alma que Lutero. Era un hombre de alturas y de honduras. Algunas
 
-veces suba al cielo y entonaba sus aleluyas; y luego descenda hasta el abismo
+veces subía al cielo y entonaba sus aleluyas; y luego descendía hasta el abismo
 
-con sus misereres. Me temo que aunque era grande y vigoroso, tena un mal
+con sus “misereres”. Me temo que aunque era grande y vigoroso, tenía un mal
 
-hgado. Fue gravemente afligido en el cuerpo en maneras que no necesito
+hígado. Fue gravemente afligido en el cuerpo en maneras que no necesito
 
 mencionar; y era arrumbado a veces durante meses seguidos, siendo tan torturado
 
 y atormentado que anhelaba morir. Sus dolores eran extremos y nos preguntamos
 
-cmo los soportaba tan bien. Pero siempre, entre los ataques de la enfermedad,
+cómo los soportaba tan bien. Pero siempre, entre los ataques de la enfermedad,
 
 Lutero estaba de pie predicando otra vez la palabra de Dios. Esas luchas
 
-desesperadas con el demonio le habran aplastado si no hubiera sido por su fe.
+desesperadas con el demonio le habrían aplastado si no hubiera sido por su fe.
 
-El diablo parece haber estado asedindole constantemente y l estaba asediando
+El diablo parece haber estado asediándole constantemente y él estaba asediando
 
-constantemente al diablo. En ese tremendo duelo se apoyaba en su Seor, y,
+constantemente al diablo. En ese tremendo duelo se apoyaba en su Seńor, y,
 
 confiando en
 
@@ -1378,29 +1380,29 @@ la Omnipotencia
 
 ,
 
-pona en huda a Satans.
+ponía en huída a Satanás.
 
-Jvenes, yo ruego que un
+Jóvenes, yo ruego que un
 
-Lutero pueda surgir de sus filas. Cun alegremente los fieles le daran la
+Lutero pueda surgir de sus filas. ˇCuán alegremente los fieles le darían la
 
-bienvenida! Yo, que soy ms seguidor de Calvino que de Lutero, y mucho ms un
+bienvenida! Yo, que soy más seguidor de Calvino que de Lutero, y mucho más un
 
-seguidor de Jess que de cualquiera de ellos dos, estara encantado de ver a
+seguidor de Jesús que de cualquiera de ellos dos, estaría encantado de ver a
 
 otro Lutero sobre esta tierra.
 
 Que Dios los bendiga,
 
-hermanos, por Cristo nuestro Seor. Amn.
+hermanos, por Cristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Glatas 3.
+leída antes del sermón: Gálatas 3.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Agosto/2013
 

@@ -1,6 +1,6 @@
 # Sermón 2824 | Sermón 2824
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
@@ -8,117 +8,117 @@ Escarnecido por los Soldados
 
 NO. 2824
 
-SERMN
+SERMÓN
 
 PREDICADO LA NOCHE DEL DOMINGO 3 DE JUNIO DE 1883
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES,
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES,
 
-Y LEDO
+Y LEÍDO
 
 EL DOMINGO 29 DE MARZO DE 1903.
 
-Y pusieron sobre su cabeza una corona tejida de espinas, y
+“Y pusieron sobre su cabeza una corona tejida de espinas, y
 
-una caa en su mano derecha; e hincando la rodilla delante de l, le
+una cańa en su mano derecha; e hincando la rodilla delante de él, le
 
-escarnecan, diciendo: Salve, Rey de los judos! Mateo 27: 29.
+escarnecían, diciendo: ˇSalve, Rey de los judíos!” Mateo 27: 29.
 
-Se trata de un vergonzoso espectculo en
+Se trata de un vergonzoso espectáculo en
 
-el que la crueldad usa su ms afilado instrumento para cortar, no la carne,
+el que la crueldad usa su más afilado instrumento para cortar, no la carne,
 
-sino el propio espritu, pues el escarnio, el menosprecio, el insulto y el
+sino el propio espíritu, pues el escarnio, el menosprecio, el insulto y el
 
-ridculo son tan dolorosos para la mente y el corazn, como el azote lo es para
+ridículo son tan dolorosos para la mente y el corazón, como el azote lo es para
 
-el cuerpo, y cortan como el bistur ms agudo. Estos soldados romanos
+el cuerpo, y cortan como el bisturí más agudo. Estos soldados romanos
 
-constituan un brutal agrupamiento de hombres fieros, valientes, terribles en
+constituían un brutal agrupamiento de hombres fieros, valientes, terribles en
 
-la lucha, toscos, ignorantes, incivilizados y apenas mejor que los brbaros; y
+la lucha, toscos, ignorantes, incivilizados y apenas mejor que los bárbaros; y
 
-cuando tuvieron a este Rey nico en su poder, aprovecharon al mximo su
+cuando tuvieron a este Rey único en su poder, aprovecharon al máximo su
 
-oportunidad para atormentarle. Oh, cmo se rean al considerar que se llamaba
+oportunidad para atormentarle. ˇOh, cómo se reían al considerar que se llamaba
 
-a S mismo Rey, esa pobre criatura enjuta que pareca que se desmayara y
+a Sí mismo Rey, esa pobre criatura enjuta que parecía que se desmayaría y
 
-fallecera en sus manos, cuyo bendito semblante estaba desfigurado ms que el
+fallecería en sus manos, cuyo bendito semblante estaba desfigurado más que el
 
-de los hijos de los hombres! Les debe de haber parecido una triste burla que l
+de los hijos de los hombres! Les debe de haber parecido una triste burla que Él
 
-fuera un rival para el Csar imperial, as que dijeron: Si es un rey, vistmoslo
+fuera un rival para el César imperial, así que dijeron: “Si es un rey, vistámoslo
 
-de prpura real, y entonces arrojaron sobre Sus hombros la tnica de un
+de púrpura real”, y entonces arrojaron sobre Sus hombros la túnica de un
 
-soldado. Como es un rey, tejmosle una corona; y la hicieron de espinas.
+soldado. “Como es un rey, tejámosle una corona”; y la hicieron de espinas.
 
 Luego hincaban la rodilla en un homenaje de escarnio para el hombre al que Su
 
 propio pueblo despreciaba, al que incluso la turba rechazaba, y al que los
 
-hombres principales de la nacin aborrecan. Les pareca que era una criatura
+hombres principales de la nación aborrecían. Les parecía que era una criatura
 
-tan pobre, miserable y abatida, que todo lo que podan hacer era mofarse de l,
+tan pobre, miserable y abatida, que todo lo que podían hacer era mofarse de Él,
 
-y convertirlo en el blanco de su ms cruel ridculo.
+y convertirlo en el blanco de su más cruel ridículo.
 
 Estos soldados romanos albergaban, como hombres,
 
-un espritu que con afliccin percibo algunas veces en los muchachos de
+un espíritu que con aflicción percibo algunas veces en los muchachos de
 
-nuestros das. Ese mismo espritu cruel que es capaz de torturar a un pjaro o
+nuestros días. Ese mismo espíritu cruel que es capaz de torturar a un pájaro o
 
 a un escarabajo, o cazar a un perro o a un gato simplemente porque se ven indefensos,
 
-y porque est en su poder hacerlo: ese era el tipo de espritu que estaba
+y porque está en su poder hacerlo: ese era el tipo de espíritu que estaba
 
-presente en estos soldados. No haban sido enseados nunca a evitar la
+presente en estos soldados. No habían sido enseńados nunca a evitar la
 
-crueldad; es ms, la crueldad era el elemento en el que vivan. Estaba
+crueldad; es más, la crueldad era el elemento en el que vivían. Estaba
 
-impregnada en su propio ser; era su entretenimiento. En su ms esperado da
+impregnada en su propio ser; era su entretenimiento. En su más esperado día
 
-festivo iban y se sentaban en las filas de asientos del Coliseo, o de algn
+festivo iban y se sentaban en las filas de asientos del Coliseo, o de algún
 
 anfiteatro de provincia, para ver a los leones contendiendo con los hombres o a
 
-las bestias salvajes despedazndose entre s. Eran entrenados para la crueldad
+las bestias salvajes despedazándose entre sí. Eran entrenados para la crueldad
 
-y se habituaban a ella; daban la impresin de haber sido amamantados con sangre
+y se habituaban a ella; daban la impresión de haber sido amamantados con sangre
 
-y nutridos con alimentos que los volvan capaces de la mayor crueldad; y, por
+y nutridos con alimentos que los volvían capaces de la mayor crueldad; y, por
 
-tanto, cuando Cristo estuvo en sus manos, se encontr en una situacin en
+tanto, cuando Cristo estuvo en sus manos, se encontró en una situación en
 
 verdad aflictiva.
 
-Reunieron a toda la compaa y le echaron
+Reunieron a toda la compańía y le echaron
 
 encima un manto escarlata, y pusieron sobre Su cabeza una corona de espinas, y
 
-una caa en Su mano derecha; e hincaban la rodilla delante de l, y le
+una cańa en Su mano derecha; e hincaban la rodilla delante de Él, y le
 
-escarnecan, diciendo: Salve, Rey de los judos! Luego le escupan, y
+escarnecían, diciendo: “ˇSalve, Rey de los judíos!” Luego le escupían, y
 
-tomaban la caa de Su mano, y le golpeaban con ella en la cabeza.
+tomaban la cańa de Su mano, y le golpeaban con ella en la cabeza.
 
 Ahora dejamos a esos soldados romanos, y
 
-a los judos que participaron en perseguirle, pues quien se los entreg cometi
+a los judíos que participaron en perseguirle, pues quien se los entregó cometió
 
 un mayor pecado. Ni Pilato ni sus legionarios eran los principales criminales
 
 en aquel momento, como bien lo sabemos. De este incidente en la vida de nuestro
 
-Seor, creo que podemos aprender, primero,
+Seńor, creo que podemos aprender, primero,
 
 lecciones
 
-para el corazn;
+para el corazón;
 
 y, en segundo lugar,
 
@@ -128,69 +128,69 @@ para la conciencia.
 
 I.
 
-Primero, tenemos aqu UN CONJUNTO DE
+Primero, tenemos aquí UN CONJUNTO DE
 
-LECCIONES PARA NUESTRO CORAZN.
+LECCIONES PARA NUESTRO CORAZÓN.
 
-Amados, comenzamos con esta leccin: cuando
+Amados, comenzamos con esta lección: cuando
 
-veo al grandioso Sustituto de los pecadores sometido a tal vergenza, escarnio
+veo al grandioso Sustituto de los pecadores sometido a tal vergüenza, escarnio
 
-y ridculo, mi corazn se dice:
+y ridículo, mi corazón se dice:
 
-Mira lo
+“Mira lo
 
-que merece el pecado.
+que merece el pecado”.
 
-No hay nada en el mundo que merezca ms justamente
+No hay nada en el mundo que merezca más justamente
 
 ser despreciado, aborrecido y condenado, que el pecado. Si lo consideramos
 
-correctamente, veremos que es la cosa ms abominable y ms vergonzosa en todo
+correctamente, veremos que es la cosa más abominable y más vergonzosa en todo
 
-el universo. De todas las cosas que hayan existido jams, el pecado es lo que
+el universo. De todas las cosas que hayan existido jamás, el pecado es lo que
 
-ms merece ser abominado y menospreciado. Recuerden que no fue algo creado por
+más merece ser abominado y menospreciado. Recuerden que no fue algo creado por
 
-Dios. Es una monstruosidad, un espectro de la noche que arranc a un ejrcito
+Dios. Es una monstruosidad, un espectro de la noche que arrancó a un ejército
 
-de ngeles de sus tronos en el cielo, ech fuera del paraso a nuestros
+de ángeles de sus tronos en el cielo, echó fuera del paraíso a nuestros
 
 primeros padres, y trajo sobre nosotros innumerables amarguras.
 
 Consideren, por un minuto, lo que es el
 
-pecado, y vern que merece ser ridiculizado por su necedad. Qu es el pecado?
+pecado, y verán que merece ser ridiculizado por su necedad. żQué es el pecado?
 
-Es una rebelin en contra del Omnipotente, una revuelta contra el Todopoderoso.
+Es una rebelión en contra del Omnipotente, una revuelta contra el Todopoderoso.
 
-Es una completa necedad! Quin podra arrojarse contra las pas del escudo de
+ˇEs una completa necedad! żQuién podría arrojarse contra las púas del escudo de
 
-Jehov sin que fuera despedazado? Quin se abalanzara contra la punta de Su
+Jehová sin que fuera despedazado? żQuién se abalanzaría contra la punta de Su
 
 lanza esperando vencerle? Se debe escarnecer una necedad tan grande como esa.
 
-Bajo ese aspecto, el pecado es el pice de la necedad, el clmax del absurdo,
+Bajo ese aspecto, el pecado es el ápice de la necedad, el clímax del absurdo,
 
-pues, qu poder podra enfrentarse jams contra Dios y salir airoso?
+pues, żqué poder podría enfrentarse jamás contra Dios y salir airoso?
 
-Pero, adems, el pecado merece ser
+Pero, además, el pecado merece ser
 
 escarnecido porque es un perverso ataque contra un Ser lleno de bondad,
 
-justicia y verdad. Adviertan ese mal que arremete contra el Altsimo, y
+justicia y verdad. Adviertan ese mal que arremete contra el Altísimo, y
 
-hirrenlo con un hierro candente para que su marca permanezca all para
+hiérrenlo con un hierro candente para que su marca permanezca allí para
 
-siempre. Expnganlo en el cepo pblico, y que todas las manos y los corazones
+siempre. Expónganlo en el cepo público, y que todas las manos y los corazones
 
-veraces arrojen escarnio sobre l, por haber desobedecido la perfecta ley de
+veraces arrojen escarnio sobre él, por haber desobedecido la perfecta ley de
 
 Dios, por haber airado al generoso Creador y Preservador de los hombres, por haber
 
-despreciado al amor eterno y haber causado un dao infinito a los mejores
+despreciado al amor eterno y haber causado un dańo infinito a los mejores
 
-intereses de la raza humana. Es algo ridculo, porque es infructfero, y ha de
+intereses de la raza humana. Es algo ridículo, porque es infructífero, y ha de
 
 terminar siendo derrotado. Es vergonzoso, por su perverso, malicioso e
 
@@ -198,77 +198,77 @@ infundado ataque contra Dios.
 
 Si miras un poco hacia el pasado, y
 
-consideras lo que el pecado intent hacer, vers la razn por la que tiene que
+consideras lo que el pecado intentó hacer, verás la razón por la que tiene que
 
-ser afrentado por su audacia. Seris como Dios, dijo aquel que era el vocero
+ser afrentado por su audacia. “Seréis como Dios”, dijo aquel que era el vocero
 
-del pecado; pero, somos nosotros, por naturaleza, como dioses? Acaso no somos
+del pecado; pero, żsomos nosotros, por naturaleza, como dioses? żAcaso no somos
 
-ms como demonios? Y aquel que expres esa mentira, Satans, acaso tuvo el
+más como demonios? Y aquel que expresó esa mentira, Satanás, żacaso tuvo el
 
-xito que esperaba cuando se atrevi a rebelarse contra su Creador? Mira cmo
+éxito que esperaba cuando se atrevió a rebelarse contra su Creador? ˇMira cómo
 
-se disip su gloria anterior! Cmo caste del cielo, oh Lucero, hijo de la maana,
+se disipó su gloria anterior! ˇCómo caíste del cielo, oh Lucero, hijo de la mańana,
 
-y cmo se apag tu esplendor para convertirse en noche sempiterna! Sin embargo,
+y cómo se apagó tu esplendor para convertirse en noche sempiterna! Sin embargo,
 
-el pecado, comunicndose a travs de los labios de Satans, habl de ser un rey
+el pecado, comunicándose a través de los labios de Satanás, habló de ser un rey
 
 y de hacernos reyes a todos nosotros; pero nos ha degradado hasta el muladar y
 
-hasta la ms completa mendicidad; ay, peor que eso, nos ha degradado hasta la
+hasta la más completa mendicidad; ay, peor que eso, nos ha degradado hasta la
 
-muerte y el infierno. El pecado merece ser escupido! Si ha de ser coronado,
+muerte y el infierno. ˇEl pecado merece ser escupido! Si ha de ser coronado,
 
-que sea coronado de espinas. No hinques la rodilla delante de l, sino cbrelo
+que sea coronado de espinas. No hinques la rodilla delante de él, sino cúbrelo
 
-con todo el escarnio que puedas. Todo corazn veraz y honesto del cielo, que
+con todo el escarnio que puedas. Todo corazón veraz y honesto del cielo, que
 
-est entre los ngeles y los espritus glorificados, y de la tierra, que est entre
+esté entre los ángeles y los espíritus glorificados, y de la tierra, que esté entre
 
 los hombres y las mujeres santificados, debe mirar al pecado como algo digno de
 
-un indecible desprecio. Que Dios haga tan despreciable al pecado delante de
+un indecible desprecio. ˇQue Dios haga tan despreciable al pecado delante de
 
-nuestros ojos, como Cristo pareca despreciable a los soldados romanos! Hemos
+nuestros ojos, como Cristo parecía despreciable a los soldados romanos! ˇHemos
 
 de burlarnos de sus tentaciones; hemos de escarnecer sus prometidas
 
-recompensas; y nunca hemos de inclinar nuestros corazones ante l en ningn
+recompensas; y nunca hemos de inclinar nuestros corazones ante él en ningún
 
 grado, puesto que Dios nos ha liberado de su maldita esclavitud!
 
-Esa es la primera leccin que nuestros
+Esa es la primera lección que nuestros
 
-corazones deben aprender de la burla de la que fue objeto nuestro Seor de
+corazones deben aprender de la burla de la que fue objeto nuestro Seńor de
 
-parte de los soldados: debemos ver qu cosa tan despreciable es el pecado.
+parte de los soldados: debemos ver qué cosa tan despreciable es el pecado.
 
-Aprendan, a continuacin, mis amados
+Aprendan, a continuación, mis amados
 
 hermanos y hermanas,
 
-cun profundamente
+cuán profundamente
 
-se humill nuestro glorioso Sustituto por causa nuestra.
+se humilló nuestro glorioso Sustituto por causa nuestra.
 
-En l no hubo
+En Él no hubo
 
-pecado ni por naturaleza ni por acto. l era puro, enteramente sin mancha
+pecado ni por naturaleza ni por acto. Él era puro, enteramente sin mancha
 
-delante del propio Dios; sin embargo, como nuestro Representante, carg con
+delante del propio Dios; sin embargo, como nuestro Representante, cargó con
 
-nuestros pecados. Por nosotros lo hizo pecado, declara la Escritura de manera
+nuestros pecados. “Por nosotros lo hizo pecado”, declara la Escritura de manera
 
-sumamente enftica; y en vista de que l fue considerado como el pecador, aunque
+sumamente enfática; y en vista de que Él fue considerado como el pecador, aunque
 
-no hubo pecado en l, naturalmente result que se convirtiera en objeto de
+no hubo pecado en Él, naturalmente resultó que se convirtiera en objeto de
 
-desprecio. Pero qu portento que tuviera que ser as! l, que cre todas las
+desprecio. ˇPero qué portento que tuviera que ser así! ˇÉl, que creó todas las
 
-cosas por la palabra de Su poder, y todas las cosas en l subsisten, l, que no
+cosas por la palabra de Su poder, y todas las cosas en Él subsisten, Él, que no
 
-estim el ser igual a Dios como cosa a que aferrarse (algo que no puede ser
+estimó el ser igual a Dios como cosa a que aferrarse (algo que no puede ser
 
 comprendido), se sienta en una vieja silla para ser convertido en un rey de
 
@@ -276,83 +276,83 @@ remedo, y para ser objeto de burla y de esputos! Todos los otros milagros
 
 puestos juntos no equivalen a este milagro; este se alza por encima de todos
 
-los dems, y sobrepasa a todos los milagros: que el propio Dios, habiendo
+los demás, y sobrepasa a todos los milagros: que el propio Dios, habiendo
 
 esposado nuestra causa, y asumido nuestra naturaleza, se dignara humillarse a
 
-tal profundidad de escarnio como este. Aunque miradas de santos ngeles le
+tal profundidad de escarnio como este. Aunque miríadas de santos ángeles le
 
-adoraban, aunque de buen grado habran abandonado su excelso estado en el cielo,
+adoraban, aunque de buen grado habrían abandonado su excelso estado en el cielo,
 
-para herir a Sus enemigos y liberarlo, l se someti voluntariamente a toda la
+para herir a Sus enemigos y liberarlo, Él se sometió voluntariamente a toda la
 
-ignominia que he descrito, y a muchas cosas ms que son completamente
+ignominia que he descrito, y a muchas cosas más que son completamente
 
-indescriptibles; pues quin sabe qu cosas fueron dichas y hechas en esa insolente
+indescriptibles; pues ˇquién sabe qué cosas fueron dichas y hechas en esa insolente
 
-sala de guardias, cosas que las plumas santas no pudieron registrar, o qu
+sala de guardias, cosas que las plumas santas no pudieron registrar, o qué
 
-burlas sucias y qu comentarios obscenos fueron expresados, que eran ms
+burlas sucias y qué comentarios obscenos fueron expresados, que eran más
 
 terribles para Cristo que la inmunda saliva que se resbalaba por Sus benditas
 
 mejillas en aquel momento de vergonzosa burla!
 
-Ah, hermanos y hermanas mos, no pueden imaginar cun
+ˇAh, hermanos y hermanas míos, no pueden imaginar cuán
 
-profundamente se humill su Seor por ustedes!
+profundamente se humilló su Seńor por ustedes!
 
 Cuando oigo que alguien dice que ha sido
 
-tan calumniado por Su causa que no puede soportarlo, deseara que supiera lo
+tan calumniado por Su causa que no puede soportarlo, desearía que supiera lo
 
-que l aguant por causa suya. Si estuviramos en el cepo y la humanidad entera
+que Él aguantó por causa suya. Si estuviéramos en el cepo y la humanidad entera
 
-nos abucheara por millones y millones de aos, sera como nada comparado con la
+nos abucheara por millones y millones de ańos, sería como nada comparado con la
 
 asombrosa condescendencia de quien es Dios sobre todo, bendito por siempre,
 
-humillndose como lo hizo por causa nuestra.
+humillándose como lo hizo por causa nuestra.
 
-Esa es la segunda leccin que deben
+Esa es la segunda lección que deben
 
 aprender nuestros corazones.
 
-Luego permtanme decirles muy
+Luego permítanme decirles muy
 
-tiernamente, deseando que alguna otra voz pudiera hablar al respecto ms
+tiernamente, deseando que alguna otra voz pudiera hablar al respecto más
 
 efectivamente, que
 
-vean cmo les am su
+vean cómo les amó su
 
 Redentor.
 
 Ustedes saben que, cuando Cristo estuvo junto al sepulcro de
 
-Lzaro y llor, los judos comentaron: Mirad cmo le amaba. Ah, pero mrenle
+Lázaro y lloró, los judíos comentaron: “Mirad cómo le amaba.” ˇAh, pero mírenle
 
-all en medio de esos soldados romanos: despreciado, rechazado, insultado,
+allá en medio de esos soldados romanos: despreciado, rechazado, insultado,
 
-ridiculizado!; y, luego, permtanme decirles: Mirad cmo nos am, a ustedes y
+ridiculizado!; y, luego, permítanme decirles: “ˇMirad cómo nos amó, a ustedes y
 
-a m y a todo Su pueblo! En tal caso, podra citar las palabras de Juan, Mirad
+a mí y a todo Su pueblo!” En tal caso, podría citar las palabras de Juan, “Mirad
 
-cul amor. Pero este amor de Jess est ms all de toda manera y medida de
+cuál amor”. Pero este amor de Jesús está más allá de toda manera y medida de
 
-las que tengamos alguna nocin. Si yo tomara todo el amor de ustedes por l, y
+las que tengamos alguna noción. Si yo tomara todo el amor de ustedes por Él, y
 
 lo acumulara como un vasto monte; si yo reuniera a todos los miembros de la
 
-nica Iglesia de Cristo en la tierra, y les pidiera que vaciaran sus corazones,
+única Iglesia de Cristo en la tierra, y les pidiera que vaciaran sus corazones,
 
-y luego sacara del cielo a las miradas de redimidos y de espritus
+y luego sacara del cielo a las miríadas de redimidos y de espíritus
 
 perfeccionados delante del trono, y sumara todo el amor de sus corazones; y si
 
-pudiera recolectar todo el amor que han sentido y que sentirn jams a lo largo
+pudiera recolectar todo el amor que han sentido y que sentirán jamás a lo largo
 
-de toda la eternidad todos los santos; todo eso sera slo como una gota en una
+de toda la eternidad todos los santos; todo eso sería sólo como una gota en una
 
 cubeta comparado con el ilimitado e insondable amor de Cristo hacia nosotros,
 
@@ -360,107 +360,107 @@ que lo condujo a humillarse tan bajo como para ser objeto de escarnio y de mofa
 
 de esos hombres malvados, por causa nuestra. Entonces, amados hermanos, de esta
 
-triste escena hemos de aprender cun grandemente nos am Jess, y cada uno de
+triste escena hemos de aprender cuán grandemente nos amó Jesús, y cada uno de
 
-nosotros, a su vez, ha de amarle con todo el corazn.
+nosotros, a su vez, ha de amarle con todo el corazón.
 
 No puedo dejar este conjunto de lecciones
 
-para su corazn, sin darles una leccin ms; esta es,
+para su corazón, sin darles una lección más; esta es,
 
-vean los grandiosos hechos detrs del escarnio.
+vean los grandiosos hechos detrás del escarnio.
 
 Yo creo, en verdad,
 
 -no puedo evitar creerlo- que nuestro bendito Maestro, cuando estaba en las manos
 
-de esos crueles soldados que le coronaron con espinas, y se inclinaban ante l
+de esos crueles soldados que le coronaron con espinas, y se inclinaban ante Él
 
 en una reverencia burlona, y le insultaban de todas las maneras posibles, todo
 
-el tiempo miraba detrs de la cortina de las circunstancias visibles, y vea
+el tiempo miraba detrás de la cortina de las circunstancias visibles, y veía
 
-que la cruel pantomima, -es ms, la cruel tragedia- slo ocultaba parcialmente
+que la cruel pantomima, -es más, la cruel tragedia- sólo ocultaba parcialmente
 
-la realidad divina, pues l era un Rey incluso entonces, y tena un trono, y
+la realidad divina, pues Él era un Rey incluso entonces, y tenía un trono, y
 
-esa corona de espinas era el emblema de la diadema de la soberana universal
+esa corona de espinas era el emblema de la diadema de la soberanía universal
 
-que, a su debido tiempo, adornar Su bendita frente; esa caa era para l un
+que, a su debido tiempo, adornará Su bendita frente; esa cańa era para Él un
 
-tipo del cetro que sostendr como Rey de reyes y Seor de seores; y cuando
+tipo del cetro que sostendrá como Rey de reyes y Seńor de seńores; y cuando
 
-dijeron: Salve, Rey de los judos, l oy, detrs de ese grito de burla, la
+dijeron: “Salve, Rey de los judíos”, Él oyó, detrás de ese grito de burla, la
 
-nota triunfante de Su gloria futura, Aleluya, aleluya, aleluya, porque el
+nota triunfante de Su gloria futura, “ˇAleluya, aleluya, aleluya, porque el
 
-Seor nuestro Dios Todopoderoso reina, y reinar el Seor para siempre!, pues
+Seńor nuestro Dios Todopoderoso reina, y reinará el Seńor para siempre!”, pues
 
-cuando hincaban burlonamente la rodilla delante de l, vio a todas las naciones
+cuando hincaban burlonamente la rodilla delante de Él, vio a todas las naciones
 
-doblando realmente la rodilla delante de l, y a Sus enemigos lamiendo el polvo
+doblando realmente la rodilla delante de Él, y a Sus enemigos lamiendo el polvo
 
-a Sus pies. Nuestro Salvador saba que esos cnicos soldados, inconscientemente
+a Sus pies. Nuestro Salvador sabía que esos cínicos soldados, inconscientemente
 
-para ellos, ponan delante de l cuadros de la gran recompensa de la afliccin
+para ellos, ponían delante de Él cuadros de la gran recompensa de la aflicción
 
 de Su alma. No debemos descorazonarnos si tenemos que soportar cualquier cosa
 
-del mismo tipo como la que sufri nuestro Seor. l no se desanim, sino que
+del mismo tipo como la que sufrió nuestro Seńor. Él no se desanimó, sino que
 
-permaneci firme a travs de todo ello. La mofa es el homenaje involuntario que
+permaneció firme a través de todo ello. La mofa es el homenaje involuntario que
 
 la falsedad rinde a la verdad. El escarnio es la alabanza inconsciente que el
 
-pecado brinda a la santidad. Qu tributo ms honroso podran rendir a Cristo
+pecado brinda a la santidad. żQué tributo más honroso podrían rendir a Cristo
 
 esos soldados que escupirle? Si Cristo hubiese recibido honra de parte de tales
 
-hombres, no habra habido honor en ello para l. Ustedes saben cmo inclusive
+hombres, no habría habido honor en ello para Él. Ustedes saben cómo inclusive
 
-un moralista pagano, cuando le dijeron: Fulano de Tal habl ayer bien de ti en
+un moralista pagano, cuando le dijeron: “Fulano de Tal habló ayer bien de ti en
 
-la plaza, pregunt: qu he hecho mal para que ese infeliz hablara bien de
+la plaza”, preguntó: “żqué he hecho mal para que ese infeliz hablara bien de
 
-m? l consideraba, correctamente, que era una desgracia ser alabado por un
+mí?” Él consideraba, correctamente, que era una desgracia ser alabado por un
 
-malvado; y debido a que nuestro Seor no haba hecho nada indebido, todo lo que
+malvado; y debido a que nuestro Seńor no había hecho nada indebido, todo lo que
 
-esos hombres podan hacer era hablar mal de l, y ultrajarle, pues su
+esos hombres podían hacer era hablar mal de Él, y ultrajarle, pues su
 
-naturaleza y carcter eran precisamente lo opuesto de los Suyos. Representando,
+naturaleza y carácter eran precisamente lo opuesto de los Suyos. Representando,
 
-como estos soldados lo hacan, a los no regenerados, al mundo que odia a Dios,
+como estos soldados lo hacían, a los no regenerados, al mundo que odia a Dios,
 
-yo digo que su escarnio era la ms veraz reverencia que pudieran ofrecer a
+yo digo que su escarnio era la más veraz reverencia que pudieran ofrecer a
 
-Cristo, mientras continuaran siendo lo que eran; y as, detrs de la
+Cristo, mientras continuaran siendo lo que eran; y así, detrás de la
 
-persecucin, detrs de la hereja, detrs del odio de los impos hacia la cruz
+persecución, detrás de la herejía, detrás del odio de los impíos hacia la cruz
 
-de Cristo, veo avanzar a Su reino sempiterno, y yo creo que el monte de la
+de Cristo, veo avanzar a Su reino sempiterno, y yo creo que “el monte de la
 
-casa de Jehov ser establecido por cabecera de montes, y ms alto que los
+casa de Jehová será establecido por cabecera de montes, y más alto que los
 
-collados, y que corrern a l todas las naciones, tal como lo profetiz
+collados”, y que “correrán a él todas las naciones”, tal como lo profetizó
 
-Isaas; que Jess se sentar sobre el trono de David, y que del
+Isaías; que Jesús se sentará sobre el trono de David, y que del
 
-engrandecimiento de Su reino no habr un trmino, pues los reyes de la tierra
+engrandecimiento de Su reino no habrá un término, pues los reyes de la tierra
 
-le traern su gloria y honra y l reinar por los siglos de los siglos.
+le traerán su gloria y honra y “él reinará por los siglos de los siglos.
 
-Aleluya! Gloria sea dada a Su santo nombre!
+ˇAleluya!” ˇGloria sea dada a Su santo nombre!
 
-Han aprendido nuestros corazones verdaderamente
+żHan aprendido nuestros corazones verdaderamente
 
 estas cuatro grandes lecciones: lo vergonzoso del pecado; la condescendencia de
 
-nuestro Seor; el inmensurable amor que lo hizo tan condescendiente, y la
+nuestro Seńor; el inmensurable amor que lo hizo tan condescendiente, y la
 
-gloria inefable que se esconde detrs de las cortinas de toda esta vergenza y
+gloria inefable que se esconde detrás de las cortinas de toda esta vergüenza y
 
-esta afliccin? Si no, supliquemos al Espritu Santo que nos las ensee.
+esta aflicción? Si no, supliquemos al Espíritu Santo que nos las enseńe.
 
 II.
 
@@ -468,17 +468,17 @@ Ahora quiero darles, partiendo de este
 
 mismo incidente, UN CONJUNTO DE LECCIONES PARA SU CONCIENCIA.
 
-Y, primero, es una reflexin muy dolorosa
+Y, primero, es una reflexión muy dolorosa
 
 (dejen que su conciencia sienta su dolor) que
 
-Jesucristo sea escarnecido todava.
+Jesucristo sea escarnecido todavía.
 
-l se ha ido a los cielos, y se
+Él se ha ido a los cielos, y se
 
-sienta all en gloria; sin embargo, espiritualmente, como para acarrear una
+sienta allí en gloria; sin embargo, espiritualmente, como para acarrear una
 
-gran culpa sobre aqul que lo haga, el glorioso Cristo de Dios puede todava
+gran culpa sobre aquél que lo haga, el glorioso Cristo de Dios puede todavía
 
 ser escarnecido, y es escarnecido por quienes se mofan de Su pueblo.
 
@@ -486,7 +486,7 @@ Ahora, hombres del mundo, si ven faltas y
 
 fracasos en nosotros, no deseamos que nos encubran. Puesto que somos siervos de
 
-Dios, no pedimos exencin de unas honestas crticas, ni deseamos que nuestros
+Dios, no pedimos exención de unas honestas críticas, ni deseamos que nuestros
 
 pecados sean tratados con mayor suavidad que los de otros hombres; pero, al
 
@@ -494,467 +494,467 @@ mismo tiempo, les pedimos que se cuiden de no calumniar, y escandalizar y
 
 perseguir a quienes son verdaderos seguidores de Cristo; pues, si lo hicieran,
 
-se estaran mofando de l, y le estaran persiguiendo.
+se estarían mofando de Él, y le estarían persiguiendo.
 
-Yo creo que, aunque fueran los ms pobres
+Yo creo que, aunque fueran los más pobres
 
-de Su pueblo, los menos dotados y los ms defectuosos, sin embargo, si se
+de Su pueblo, los menos dotados y los más defectuosos, sin embargo, si se
 
-hablara mal de ellos por causa de Cristo, nuestro Seor lo toma todo como si
+hablara mal de ellos por causa de Cristo, nuestro Seńor lo toma todo como si
 
-fuera hecho contra l mismo. Ustedes recuerdan que Saulo de Tarso, cuando
+fuera hecho contra Él mismo. Ustedes recuerdan que Saulo de Tarso, cuando
 
-estaba cado en tierra, oy una voz que le deca: Saulo, Saulo, por qu me
+estaba caído en tierra, oyó una voz que le decía: “Saulo, Saulo, żpor qué me
 
-persigues? Bien, pero, pudo haber dicho, yo nunca te he perseguido a Ti,
+persigues?” “Bien, pero”, pudo haber dicho, “yo nunca te he perseguido a Ti,
 
-Seor. No, pero arrastraba a hombres y mujeres cristianos y los entregaba en
+Seńor.” No, pero arrastraba a hombres y mujeres cristianos y los entregaba en
 
-la crcel, y los azotaba, y los forzaba a blasfemar; y debido a que le haba
+la cárcel, y los azotaba, y los forzaba a blasfemar; y debido a que le había
 
-hecho esto al pueblo de Cristo, Cristo le pudo decir efectivamente: En cuanto
+hecho esto al pueblo de Cristo, Cristo le pudo decir efectivamente: “En cuanto
 
-lo hicisteis a uno de estos mis hermanos ms pequeos, a m lo hicisteis.
+lo hicisteis a uno de estos mis hermanos más pequeńos, a mí lo hicisteis.”
 
-Perseguidores, si ustedes quieren divertirse, pueden encontrar una diversin
+Perseguidores, si ustedes quieren divertirse, pueden encontrar una diversión
 
-ms barata que la de difamar a los siervos de Cristo. Recuerden que el Seor ha
+más barata que la de difamar a los siervos de Cristo. Recuerden que el Seńor ha
 
-dicho en relacin a ellos: El que os toca, toca a la nia de su ojo. Si
+dicho en relación a ellos: “El que os toca, toca a la nińa de su ojo.” Si
 
-ustedes tocaran la nia del ojo de un hombre, estaran provocndole a que se
+ustedes tocaran la nińa del ojo de un hombre, estarían provocándole a que se
 
-defendiera; entonces, no provoquen la justa ira de Cristo, burlndose de
+defendiera; entonces, no provoquen la justa ira de Cristo, burlándose de
 
-alguien de Su pueblo. No dir ms sobre este punto; si este mensaje se refiere
+alguien de Su pueblo. No diré más sobre este punto; si este mensaje se refiere
 
-a cualquier persona presente, ha de or la advertencia.
+a cualquier persona presente, ha de oír la advertencia.
 
-Adems, Cristo puede ser escarnecido
+Además, Cristo puede ser escarnecido
 
 cuando se menosprecia Su doctrina. Me parece algo espantoso que los hombres
 
 hagan del cristianismo el blanco de su escarnio; sin embargo, en este tiempo,
 
-casi no hay ninguna porcin de la verdad de Dios que no sea ridiculizada y
+casi no hay ninguna porción de la verdad de Dios que no sea ridiculizada y
 
 caricaturizada. Es despojada de sus propias ropas y vestida con un viejo manto
 
-escarlata de alguien ms, y luego es colocada en un silla, mientras los hombres
+escarlata de alguien más, y luego es colocada en un silla, mientras los hombres
 
-pretenden rendirle un gran homenaje, y le ofrecen una salutacin, diciendo que
+pretenden rendirle un gran homenaje, y le ofrecen una salutación, diciendo que
 
-sienten una gran reverencia por la enseanza de Cristo; pero, en breve, escupen
+sienten una gran reverencia por la enseńanza de Cristo; pero, en breve, escupen
 
-su rostro, y la tratan con un desdeo supremo. Hay algunos que niegan la Deidad
+su rostro, y la tratan con un desdeńo supremo. Hay algunos que niegan la Deidad
 
 de Cristo, otros que odian la doctrina central de Su sacrifico expiatorio, en
 
-tanto que muchos hablan mal de la justificacin por fe, que es el propio
+tanto que muchos hablan mal de la justificación por fe, que es el propio
 
-corazn del Evangelio. Hay alguna doctrina (yo no conozco ninguna), que haya
+corazón del Evangelio. żHay alguna doctrina (yo no conozco ninguna), que haya
 
-escapado de la mofa y del escarnio de los impos? En el da presente, si un
+escapado de la mofa y del escarnio de los impíos? En el día presente, si un
 
 hombre quiere hacerse de un nombre, no escribe sobre algo que entiende, y que
 
-es para el bienestar pblico, sino que, de inmediato, comienza a arremeter
+es para el bienestar público, sino que, de inmediato, comienza a arremeter
 
 contra alguna doctrina de la Escritura, de la que desconoce el significado; la
 
-tergiversa, y expresa una nocin de su propia creacin en oposicin a esa
+tergiversa, y expresa una noción de su propia creación en oposición a esa
 
-doctrina, pues es un hombre del pensamiento moderno, es una persona de mucha
+doctrina, pues es un hombre del “pensamiento moderno”, es una persona de mucha
 
-importancia. Es un trabajo fcil burlarse de la Biblia, y negar la verdad. Creo
+importancia. Es un trabajo fácil burlarse de la Biblia, y negar la verdad. Creo
 
-que yo mismo podra pasar como un hombre ilustrado, de esa manera, si alguna
+que yo mismo podría pasar como un hombre ilustrado, de esa manera, si alguna
 
-vez el diablo me controlara lo suficiente para hacerme sentir alguna ambicin
+vez el diablo me controlara lo suficiente para hacerme sentir alguna ambición
 
-de ese tipo. De hecho, escasamente hay algn necio en el cristianismo que no se
+de ese tipo. De hecho, escasamente hay algún necio en el cristianismo que no se
 
-pudiera hacer un nombre entre los pensadores modernos, con slo que blasfeme
+pudiera hacer un nombre entre los pensadores modernos, con sólo que blasfeme
 
 con la suficiente sonoridad, pues ese parece ser el camino a la fama en
 
-nuestros das, en medio de la gran masa de la humanidad. Quienes insultan as a
+nuestros días, en medio de la gran masa de la humanidad. Quienes insultan así a
 
 la verdad de Dios, como aquellos soldados, con sus esputos, insultaron al
 
-Cristo de Dios, reciben el ttulo de pensadores.
+Cristo de Dios, reciben el título de “pensadores”.
 
 Voy a decirles la verdad a algunos de
 
-ustedes, que asisten aqu regularmente, cuando digo que Cristo puede ser
+ustedes, que asisten aquí regularmente, cuando digo que Cristo puede ser
 
-todava escarnecido por resoluciones que nunca conducen a la obediencia.
+todavía escarnecido por resoluciones que nunca conducen a la obediencia.
 
-Permtanme hablar delicadamente acerca de esta verdad solemne. Dame tu mano, amigo
+Permítanme hablar delicadamente acerca de esta verdad solemne. Dame tu mano, amigo
 
-mo; permteme mirarte a los ojos; deseara vehementemente mirar en tu alma si
+mío; permíteme mirarte a los ojos; desearía vehementemente mirar en tu alma si
 
 pudiera, mientras comparto este asunto muy personalmente contigo. Varias veces,
 
-antes de abandonar esta casa, t has dicho: me arrepentir de mi pecado;
+antes de abandonar esta casa, tú has dicho: “me arrepentiré de mi pecado;
 
-buscar al Seor; voy a creer en Jess. Dijiste esas palabras con toda
+buscaré al Seńor; voy a creer en Jesús.” Dijiste esas palabras con toda
 
-sinceridad cuando las expresaste; entonces, por qu no has cumplido tus
+sinceridad cuando las expresaste; entonces, żpor qué no has cumplido tus
 
-promesas? No me importa qu excusa ofrezcas, porque cualquier razn que des
+promesas? No me importa qué excusa ofrezcas, porque cualquier razón que des
 
-ser sumamente irrazonable, pues equivaldra a esto: que haba algo mejor que
+será sumamente irrazonable, pues equivaldría a esto: que había algo mejor que
 
-hacer que lo que Cristo te pide, algo mejor para ti que ser salvado por l,
+hacer que lo que Cristo te pide, algo mejor para ti que ser salvado por Él,
 
-algo mejor que el perdn de tus pecados, algo mejor que la regeneracin, algo
+algo mejor que el perdón de tus pecados, algo mejor que la regeneración, algo
 
-mejor que el amor eterno de Cristo. Habras escogido a Cristo, pero Barrabs se
+mejor que el amor eterno de Cristo. Habrías escogido a Cristo, pero Barrabás se
 
-interpuso en tu camino, as que dijiste: No a ste, sino Barrabs. Habras
+interpuso en tu camino, así que dijiste: “No a éste, sino Barrabás”. Habrías
 
-pensado seriamente acerca de la salvacin de tu alma, pero habas prometido
+pensado seriamente acerca de la salvación de tu alma, pero habías prometido
 
-asistir a cierto lugar de diversin, as que pospusiste buscar al Salvador cuando
+asistir a cierto lugar de diversión, así que pospusiste buscar al Salvador cuando
 
 tuvieras oportunidad.
 
-Posiblemente te dijeras: mi negocio es
+Posiblemente te dijeras: “mi negocio es
 
-de tal naturaleza que tendr que renunciar a l si me hago cristiano, y no
+de tal naturaleza que tendré que renunciar a él si me hago cristiano, y no
 
-puedo permitirme eso. O acerca de alguien que escuch un sermn que le
+puedo permitirme eso.” Oí acerca de alguien que escuchó un sermón que le
 
-impresion (y no oa sermones con frecuencia), y deseaba ser cristiano, pero
+impresionó (y no oía sermones con frecuencia), y deseaba ser cristiano, pero
 
-haba hecho diversas apuestas por grandes sumas, y senta que no poda pensar
+había hecho diversas apuestas por grandes sumas, y sentía que no podía pensar
 
 en otras cosas hasta no terminar con ese asunto.
 
 Hay muchas cosas de ese tipo que alejan a
 
-los hombres de Cristo. No me importa qu sea lo que prefieras al Salvador; t
+los hombres de Cristo. No me importa qué sea lo que prefieras al Salvador; tú
 
-le has insultado si prefieres cualquier otra cosa a l. Si fuera el mundo
+le has insultado si prefieres cualquier otra cosa a Él. Si fuera el mundo
 
-entero y todo lo que contiene que hubieras elegido, estas cosas son slo
+entero y todo lo que contiene que hubieras elegido, estas cosas son sólo
 
-nimiedades cuando se comparan con la soberana de Cristo, con Sus derechos a la
+nimiedades cuando se comparan con la soberanía de Cristo, con Sus derechos a la
 
-corona en cada corazn, y con las inmensurables riquezas que est preparado a
+corona en cada corazón, y con las inmensurables riquezas que está preparado a
 
-otorgar a toda alma que venga y confe en l. Prefieres a una ramera que a
+otorgar a toda alma que venga y confíe en Él. żPrefieres a una ramera que a
 
 Cristo? Entonces, no me digas que no le escupes en Su rostro; haces algo que es
 
-inclusive peor que eso. Prefieres ganancias obtenidas indebidamente que
+inclusive peor que eso. żPrefieres ganancias obtenidas indebidamente que
 
-aceptar a Jess como tu Salvador? No me digas, caballero, que nunca has hincado
+aceptar a Jesús como tu Salvador? No me digas, caballero, que nunca has hincado
 
-la rodilla en escarnio delante de l; pues has hecho algo peor que eso. O fue
+la rodilla en escarnio delante de Él; pues has hecho algo peor que eso. żO fue
 
-un pequeo placer mezquino, -una carcajada frvola y la insensatez de una hora-
+un pequeńo placer mezquino, -una carcajada frívola y la insensatez de una hora-
 
-lo que preferiste a tu Seor? Oh, qu ha de sentir cuando ve que estas cosas
+lo que preferiste a tu Seńor? ˇOh, qué ha de sentir cuando ve que estas cosas
 
-despreciables son preferidas a l, sabiendo que la condenacin eterna est
+despreciables son preferidas a Él, sabiendo que la condenación eterna está
 
-detrs de tu insensata eleccin! Sin embargo, los hombres eligen la necedad de
+detrás de tu insensata elección! ˇSin embargo, los hombres eligen la necedad de
 
 un momento y el infierno, en lugar de preferir a Cristo y el cielo!
 
-Fue arrojado jams un insulto as a
+żFue arrojado jamás un insulto así a
 
-Cristo por los soldados romanos? Vaya, legionarios, ustedes no son los peores hombres!
+Cristo por los soldados romanos? ˇVaya, legionarios, ustedes no son los peores hombres!
 
-Hay algunos que, compungidos de corazn, hacen una promesa de arrepentimiento,
+Hay algunos que, compungidos de corazón, hacen una promesa de arrepentimiento,
 
 y luego, por causa del mundo, y por causa de su carne y por causa del demonio,
 
-rompen esa promesa; los soldados no pecaron contra Cristo tan vilmente como
+rompen esa promesa; ˇlos soldados no pecaron contra Cristo tan vilmente como
 
 eso!
 
-Escuchen adems esto. Tengo que tocarles
+Escuchen además esto. Tengo que tocarles
 
-nuevamente el corazn a algunos. No fue algo vergonzoso que llamaran a Cristo:
+nuevamente el corazón a algunos. żNo fue algo vergonzoso que llamaran a Cristo:
 
 Rey, sin querer decirlo; y, visiblemente, darle una corona, un cetro, un manto
 
-real, y hundir la rodilla y darle la salutacin de los labios, pero sin querer
+real, y hundir la rodilla y darle la salutación de los labios, pero sin querer
 
-significarlo realmente? Me destroza el corazn al pensar en lo que voy a decir,
+significarlo realmente? Me destroza el corazón al pensar en lo que voy a decir,
 
 pero he de decirlo. Hay algunos profesantes, -miembros de iglesias cristianas,
 
-y miembros de esta iglesia- que llaman a Cristo: Maestro y Seor, pero no hacen
+y miembros de esta iglesia- que llaman a Cristo: Maestro y Seńor, pero no hacen
 
-las cosas que l dice. Profesan creer la verdad, pero es como si no fuera la
+las cosas que Él dice. Profesan creer la verdad, pero es como si no fuera la
 
-verdad para ellos, pues nunca ceden a su poder, y actan como si lo que llaman
+verdad para ellos, pues nunca ceden a su poder, y actúan como si lo que llaman
 
-verdad fuera ficcin e invencin humana. Hay todava algunos, como aquellos de
+verdad fuera ficción e invención humana. Hay todavía algunos, como aquellos de
 
-quienes escribi el apstol, de los que puedo decir lo mismo que l dijo: de
+quienes escribió el apóstol, de los que puedo decir lo mismo que él dijo: “de
 
 los cuales os dije muchas veces, y aun ahora lo digo llorando, que son enemigos
 
-de la cruz de Cristo, aunque estn en la iglesia nominal. Su Dios es su
+de la cruz de Cristo”, aunque estén en la iglesia nominal. Su Dios es su
 
-vientre, se gloran en su vergenza, y les preocupan las cosas terrenales; sin
+vientre, se glorían en su vergüenza, y les preocupan las cosas terrenales; sin
 
-embargo, hincan la rodilla delante de Cristo, y cantan: cornenle, cornenle;
+embargo, hincan la rodilla delante de Cristo, y cantan: “corónenle, corónenle”;
 
 y comen el pan y beben el vino que manifiestan el cuerpo quebrantado y la
 
-sangre derramada, pero no tienen parte ni porcin en l. Siempre ha sido as en
+sangre derramada, pero no tienen parte ni porción en Él. Siempre ha sido así en
 
-la iglesia nominal, y as ser, supongo, hasta que Cristo venga para separar la
+la iglesia nominal, y así será, supongo, hasta que Cristo venga para separar la
 
 paja del trigo.
 
-Pero, oh, cun terrible es eso! Insultar
+Pero, ˇoh, cuán terrible es eso! Insultar
 
 a Cristo en el cuarto de guardias, fue lo suficientemente malo; pero insultarle
 
-en la mesa de la comunin, es bastante peor. Que un soldado romano le escupiera
+en la mesa de la comunión, es bastante peor. Que un soldado romano le escupiera
 
 el rostro, fue lo suficientemente malo; pero venir y mezclarse con Su pueblo, y
 
 llamarte Su siervo, y luego ir deliberadamente a beber con el borracho, o ser
 
-incasto en tu vida, o deshonesto en tu negocio, o falso en tu conversacin, o
+incasto en tu vida, o deshonesto en tu negocio, o falso en tu conversación, o
 
-inmundo en tu corazn, es mucho ms abominable. No conozco una palabra ms
+inmundo en tu corazón, es mucho más abominable. No conozco una palabra más
 
-suave que pueda expresar la verdad. Llamar a Cristo: Seor, y sin embargo,
+suave que pueda expresar la verdad. Llamar a Cristo: Seńor, y sin embargo,
 
 nunca cumplir lo que ordena, esto es mofa y escarnio del peor tipo posible,
 
-pues le hiere en el propio corazn.
+pues le hiere en el propio corazón.
 
-Lea hoy, una parte de un sermn gals,
+Leía hoy, una parte de un sermón galés,
 
-que me impact mucho. El predicador deca: todos los que estn en esta congregacin
+que me impactó mucho. El predicador decía: “todos los que están en esta congregación
 
-deben confesar a su seor real. Primero voy a solicitarles a los siervos del
+deben confesar a su ‘seńor’ real. Primero voy a solicitarles a los siervos del
 
-demonio que le brinden un reconocimiento. El diablo es un admirable seor y
+demonio que le brinden un reconocimiento. El diablo es un admirable seńor y
 
 alguien glorioso a quien servir, y su servicio es puro gozo y deleite; todos
 
-los que le sirven, digan ahora: Amn, gloria al demonio! Dganlo. Pero
+los que le sirven, digan ahora: ‘ˇAmén, gloria al demonio!’ Díganlo.” Pero
 
-nadie habl. Vamos, -dijo el predicador- no se avergencen de reconocer a aqul
+nadie habló. “Vamos”, -dijo el predicador- “no se avergüencen de reconocer a aquél
 
-a quien han servido cada uno de los das de su vida; declaren su adhesin, y
+a quien han servido cada uno de los días de su vida; declaren su adhesión, y
 
-digan: gloria a mi seor, el diablo!, o, de lo contrario, callen para
+digan: ‘ˇgloria a mi seńor, el diablo!’, o, de lo contrario, callen para
 
-siempre. Pero nadie habl tampoco esta vez, as que el ministro dijo:
+siempre.” Pero nadie habló tampoco esta vez, así que el ministro dijo:
 
-entonces, yo espero que hablen cuando les pida que glorifiquen a Cristo. Y,
+“entonces, yo espero que hablen cuando les pida que glorifiquen a Cristo.” Y,
 
-en efecto, hablaron, hasta que la capilla retumb cuando clamaron: gloria a
+en efecto, hablaron, hasta que la capilla retumbó cuando clamaron: “ˇgloria a
 
-Cristo!Eso fue bueno; pero si yo los probara de la misma manera, tengo la
+Cristo!”Eso fue bueno; pero si yo los probara de la misma manera, tengo la
 
-tolerable certeza que nadie reconocera a su seor si su seor fuera el
+tolerable certeza que nadie reconocería a su seńor si su ‘seńor’ fuera el
 
-diablo, y me temo que algunos de los siervos del demonio se uniran a nosotros
+diablo, y me temo que algunos de los siervos del demonio se unirían a nosotros
 
 en sus aleluyas a Cristo. Eso es lo malo; el propio demonio puede usar la
 
-autonegacin, y puede ensear a sus siervos a negar a su seor, y de esa
+autonegación, y puede enseńar a sus siervos a negar a su seńor, y de esa
 
 precisa manera darle el mayor honor.
 
-Oh queridos amigos, sean fieles a
+ˇOh queridos amigos, sean fieles a
 
-Cristo; y, en cualquier cosa que hagan, nunca se mofen de l! Hay muchas otras
+Cristo; y, en cualquier cosa que hagan, nunca se mofen de Él! Hay muchas otras
 
-cosas que pueden hacer que podran ser mucho ms provechosas para ustedes que
+cosas que pueden hacer que podrían ser mucho más provechosas para ustedes que
 
-mofarse de Cristo. Si Dios es Dios, srvanle; si Cristo es su Seor y Dios,
+mofarse de Cristo. Si Dios es Dios, sírvanle; si Cristo es su Seńor y Dios,
 
-hnrenle; pero si no tienen la intencin de honrarle, no le llamen Seor, pues,
+hónrenle; pero si no tienen la intención de honrarle, no le llamen Seńor, pues,
 
-si lo hicieran, todas sus faltas y pecados sern puestos a su puerta, y l ser
+si lo hicieran, todas sus faltas y pecados serán puestos a su puerta, y Él será
 
 deshonrado por medio de ustedes.
 
 Ahora me parece que oigo que alguien
 
-dice: me temo, seor, que me he burlado de Cristo; qu debo hacer? Bien, mi
+dice: “me temo, seńor, que me he burlado de Cristo; żqué debo hacer?” Bien, mi
 
-respuesta es: no te desesperes, porque eso sera burlarse de l de otra manera,
+respuesta es: no te desesperes, porque eso sería burlarse de Él de otra manera,
 
-al dudar de Su poder para salvarte. Estoy inclinado a abandonarlo todo. No
+al dudar de Su poder para salvarte. “Estoy inclinado a abandonarlo todo.” No
 
-actes as, pues eso sera insultar a tu Hacedor por causa de otro pecado; es
+actúes así, pues eso sería insultar a tu Hacedor por causa de otro pecado; es
 
-decir, una abierta rebelin en contra de l. Qu har, entonces? Bien, acude
+decir, una abierta rebelión en contra de Él. “żQué haré, entonces?” Bien, acude
 
-a l y cuntale tu dolor y tu afliccin. l les dijo a Sus discpulos que
+a Él y cuéntale tu dolor y tu aflicción. Él les dijo a Sus discípulos que
 
-predicaran el Evangelio en Jerusaln primero, porque all era donde esos
+predicaran el Evangelio en Jerusalén primero, porque allí era donde esos
 
-soldados vivan, los propios hombres que se haban burlado de l; y l or por
+soldados vivían, los propios hombres que se habían burlado de Él; y Él oró por
 
-Sus asesinos: Padre, perdnalos, porque no saben lo que hacen. De manera
+Sus asesinos: “Padre, perdónalos, porque no saben lo que hacen.” De manera
 
-semejante, l te presenta primero Su misericordia a ti. Ven a l, entonces; y,
+semejante, Él te presenta primero Su misericordia a ti. Ven a Él, entonces; y,
 
-si ests consciente de que te has burlado de l en cualquiera de estas maneras
+si estás consciente de que te has burlado de Él en cualquiera de estas maneras
 
-que he mencionado, debes decirte: entonces, si l me perdona, a partir de
+que he mencionado, debes decirte: “entonces, si Él me perdona, a partir de
 
-ahora vivir alabndole con mucha mayor razn. Yo no puedo limpiar mi pecado,
+ahora viviré alabándole con mucha mayor razón. Yo no puedo limpiar mi pecado,
 
-pero l puede hacerlo; y, si l lo hace, le amar mucho porque se me habr dado
+pero Él puede hacerlo; y, si Él lo hace, le amaré mucho porque se me habrá dado
 
-mucho; y gastar lo mo, y aun yo mismo me gastar del todo para glorificar Su
+mucho; y gastaré lo mío, y aun yo mismo me gastaré del todo para glorificar Su
 
-santo nombre.
+santo nombre.”
 
-Mi tiempo casi se ha agotado, as que
+Mi tiempo casi se ha agotado, así que
 
-ste ser mi ltimo comentario. Independientemente de que nos hayamos burlado
+éste será mi último comentario. Independientemente de que nos hayamos burlado
 
 de Cristo o no, vengan, amados hermanos y hermanas, y
 
-glorifiqumosle ahora.
+glorifiquémosle ahora.
 
-En esta precisa hora, coronmosle con el
+En esta precisa hora, coronémosle con el
 
 amor y la confianza de nuestros corazones. Saquen esa corona real: la corona de
 
-su amor, de su confianza, de su completa consagracin a l, y pnganla sobre Su
+su amor, de su confianza, de su completa consagración a Él, y pónganla sobre Su
 
-cabeza ahora, dicindole: Mi Seor, mi Dios, mi Rey. Ahora pongan el cetro en
+cabeza ahora, diciéndole: “Mi Seńor, mi Dios, mi Rey.” Ahora pongan el cetro en
 
-Sus manos rindiendo absoluta obediencia a Su voluntad. Hay algo que l les
+Sus manos rindiendo absoluta obediencia a Su voluntad. żHay algo que Él les
 
-pide que hagan? Hganlo. Hay algo que l les pide que den? Denlo. Hay algo de
+pide que hagan? Háganlo. żHay algo que Él les pide que den? Denlo. żHay algo de
 
-lo que l les pide que se abstengan? Abstnganse de ello. No pongan un cetro de
+lo que Él les pide que se abstengan? Absténganse de ello. No pongan un cetro de
 
-caa en Sus manos, sino denle el entero control sobre todo su ser. l ha de ser
+cańa en Sus manos, sino denle el entero control sobre todo su ser. Él ha de ser
 
-su verdadero Seor, y ha de reinar en su espritu, alma y cuerpo. Qu sigue?
+su verdadero Seńor, y ha de reinar en su espíritu, alma y cuerpo. żQué sigue?
 
-Inclnense delante de l, y adrenle en la quietud de lo ms ntimo de su
+Inclínense delante de Él, y adórenle en la quietud de lo más íntimo de su
 
-corazn. No necesitan inclinar sus cuerpos, sino son sus espritus lo que han
+corazón. No necesitan inclinar sus cuerpos, sino son sus espíritus lo que han
 
-de caer postrados delante de Aquel que est sentado en el trono, y clamen: Al
+de caer postrados delante de Aquel que está sentado en el trono, y clamen: “Al
 
-que nos am, y nos lav de nuestros pecados con su sangre, y nos hizo reyes y
+que nos amó, y nos lavó de nuestros pecados con su sangre, y nos hizo reyes y
 
-sacerdotes para Dios, su Padre; a l sea gloria e imperio por los siglos de los
+sacerdotes para Dios, su Padre; a él sea gloria e imperio por los siglos de los
 
-siglos. Amn.
+siglos. Amén.”
 
 Y una vez que le hayan adorado, entonces
 
-proclmenle Rey. Como dijeron aquellos soldados en son de burla: Salve, Rey
+proclámenle Rey. Como dijeron aquellos soldados en son de burla: “ˇSalve, Rey
 
-de los judos!, as ahora ustedes han de proclamarle Rey de los judos y de
+de los judíos!”, así ahora ustedes han de proclamarle Rey de los judíos y de
 
-los gentiles, tambin. Regresen a casa, y cuntenles a sus amigos que Jess es
+los gentiles, también. Regresen a casa, y cuéntenles a sus amigos que Jesús es
 
-Rey. Proclamen entre las naciones que el Seor reina, tal como lo expresa la
+Rey. Proclamen entre las naciones que “el Seńor reina”, tal como lo expresa la
 
-Versin antigua: reina desde el madero. l ha hecho que la cruz sea Su trono,
+Versión antigua: “reina desde el madero”. Él ha hecho que la cruz sea Su trono,
 
-y all reina en majestad y en misericordia. Cuntenselo a sus hijos,
+y allí reina en majestad y en misericordia. Cuéntenselo a sus hijos,
 
-cuntenselo a sus sirvientes, cuntenselo a sus vecinos, cuntenlo en cualquier
+cuéntenselo a sus sirvientes, cuéntenselo a sus vecinos, cuéntenlo en cualquier
 
-lugar en el que puedan ser escuchados: que el Seor Jess reina como Rey de
+lugar en el que puedan ser escuchados: que el Seńor Jesús reina como Rey de
 
-reyes y Seor de seores. Dganles: Honrad al Hijo, para que no se enoje, y
+reyes y Seńor de seńores. Díganles: “Honrad al Hijo, para que no se enoje, y
 
-perezcis en el camino; pues se inflama de pronto su ira.
+perezcáis en el camino; pues se inflama de pronto su ira.”
 
 Y luego, cuando le hayas proclamado,
 
-hnrale t mismo. As como los rudos soldados le escupieron, t has de rendirle
+hónrale tú mismo. Así como los rudos soldados le escupieron, tú has de rendirle
 
-tu homenaje y afecto, dicindole: Seor Jess, T eres mo por los siglos de
+tu homenaje y afecto, diciéndole: “Seńor Jesús, Tú eres mío por los siglos de
 
-los siglos. Di, acompaando a la esposa: Yo soy de mi amado, y mi amado es
+los siglos.” Di, acompańando a la esposa: “Yo soy de mi amado, y mi amado es
 
-mo. Les sugiero que cada individuo aqu presente, que ama mucho a mi Seor,
+mío”. Les sugiero que cada individuo aquí presente, que ama mucho a mi Seńor,
 
 piense en algo nuevo que pueda hacer por Cristo durante esta semana: alguna
 
-ddiva especial que pudieran otorgarle, alguna accin especial que pudieran
+dádiva especial que pudieran otorgarle, alguna acción especial que pudieran
 
-hacer, que sea completamente nueva, y que sea slo para Jess, y enteramente
+hacer, que sea completamente nueva, y que sea sólo para Jesús, y enteramente
 
-para Jess, como un acto de homenaje para Su nombre. Con frecuencia siento el
+para Jesús, como un acto de homenaje para Su nombre. Con frecuencia siento el
 
-deseo de que el pueblo de Dios sea ms creativo, como aquella mujer que quera
+deseo de que el pueblo de Dios sea más creativo, como aquella mujer que quería
 
-honrarle grandemente, as que trajo su frasco de alabastro, y lo quebr, y
+honrarle grandemente, así que trajo su frasco de alabastro, y lo quebró, y
 
-derram el precioso ungento en Su cabeza. Piensen en algo especial que puedan
+derramó el precioso ungüento en Su cabeza. Piensen en algo especial que puedan
 
-hacer por Cristo, o darle a l.
+hacer por Cristo, o darle a Él.
 
-Un querido amigo, que ahora est en el
+Un querido amigo, que ahora está en el
 
-cielo y que sola adorar en este lugar, tena un hijo que haba sido un gran libertino
+cielo y que solía adorar en este lugar, tenía un hijo que había sido un gran libertino
 
-incorregible y que segua llevando, de hecho, una vida viciosa. El hijo haba
+incorregible y que seguía llevando, de hecho, una vida viciosa. El hijo había
 
-estado alejado de su padre por mucho tiempo, y su padre no saba qu hacer para
+estado alejado de su padre por mucho tiempo, y su padre no sabía qué hacer para
 
-hacerle regresar a casa, ya que el hijo le haba tratado muy mal, haba
+hacerle regresar a casa, ya que el hijo le había tratado muy mal, había
 
-estropeado su consuelo y haba arruinado su hogar. Pero, cuando yo estaba
+estropeado su consuelo y había arruinado su hogar. Pero, cuando yo estaba
 
-predicando una noche, le vino a la cabeza este pensamiento: voy a investigar,
+predicando una noche, le vino a la cabeza este pensamiento: “voy a investigar,
 
-maana por la maana, dnde est mi hijo, e ir donde se encuentra. El padre
+mańana por la mańana, dónde está mi hijo, e iré donde se encuentra.” El padre
 
-saba que el hijo estaba muy enojado con l, y que senta mucha amargura en su
+sabía que el hijo estaba muy enojado con él, y que sentía mucha amargura en su
 
-contra, as que pens en cierta fruta que le gustaba mucho a su hijo, y le
+contra, así que pensó en cierta fruta que le gustaba mucho a su hijo, y le
 
-envi a la maana siguiente una canasta llena de esas frutas; cuando el hijo la
+envió a la mańana siguiente una canasta llena de esas frutas; cuando el hijo la
 
-recibi, se dijo: quiere decir que mi padre siente todava algn afecto por
+recibió, se dijo: “quiere decir que mi padre siente todavía algún afecto por
 
-m. Al da siguiente del envo, el padre visit a su hijo, y al otro da
+mí.” Al día siguiente del envío, el padre visitó a su hijo, y al otro día
 
-tambin lleg a verle, y ese fue el medio de llevarle al Salvador. El hijo se
+también llegó a verle, y ese fue el medio de llevarle al Salvador. El hijo se
 
-haba consumido en los vicios, y muri pronto, pero su padre me cont que fue
+había consumido en los vicios, y murió pronto, pero su padre me contó que fue
 
-un gran gozo para su corazn pensar que poda tener una buena esperanza en
+un gran gozo para su corazón pensar que podía tener una buena esperanza en
 
-relacin a su hijo. Si el hijo hubiera muerto lejos del hogar si el padre no le
+relación a su hijo. Si el hijo hubiera muerto lejos del hogar si el padre no le
 
-hubiera buscado, no se lo habra perdonado nunca. Ahora, l hizo eso por
+hubiera buscado, no se lo habría perdonado nunca. Ahora, él hizo eso por
 
-Cristo. No podran algunos de ustedes hacer algo similar por la misma razn? Hay
+Cristo. żNo podrían algunos de ustedes hacer algo similar por la misma razón? żHay
 
-algn esqueleto en su casa? Hay algo torcido que pudieran enderezar; o tienen
+algún esqueleto en su casa? żHay algo torcido que pudieran enderezar; o tienen
 
-algo que pudieran darle a Su Seor y Maestro? Piensen, cada uno de ustedes por
+algo que pudieran darle a Su Seńor y Maestro? Piensen, cada uno de ustedes por
 
-s mismo, qu es lo que puede hacer; y, en la medida en que Cristo fue tan
+sí mismo, qué es lo que puede hacer; y, en la medida en que Cristo fue tan
 
 vergonzosamente despreciado y rechazado, busquen honrarle y glorificarle de la
 
-mejor manera que puedan, y l aceptar su homenaje y su ofrenda por causa de Su
+mejor manera que puedan, y Él aceptará su homenaje y su ofrenda por causa de Su
 
-amor. Que el Seor les ayude a hacer eso! Amn.
+amor. ˇQue el Seńor les ayude a hacer eso! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 2/Octubre/2012
 

@@ -1,6 +1,6 @@
 # Sermón 277 | Sermón 277
 
-El Plpito de
+El Púlpito de
 
 la Capilla
 
@@ -12,9 +12,9 @@ La Sangre
 
 del Pacto Eterno
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -26,85 +26,85 @@ EN EL MUSIC HALL, ROYAL SURREY GARDENS,
 
 LONDRES.
 
-La sangre del pacto eterno. Hebreos 13: 20.
+“La sangre del pacto eterno”. Hebreos 13: 20.
 
 Todos los tratos de Dios
 
-para con los hombres han tenido el carcter de un pacto. A Dios le ha
+para con los hombres han tenido el carácter de un pacto. A Dios le ha
 
 complacido disponer las cosas de tal manera que todos Sus tratos con nosotros
 
-son exclusivamente a travs de un pacto y nosotros slo podemos tratar con l de
+son exclusivamente a través de un pacto y nosotros sólo podemos tratar con Él de
 
-igual manera. Adn, en el huerto, estaba sujeto a un pacto con Dios y Dios
+igual manera. Adán, en el huerto, estaba sujeto a un pacto con Dios y Dios
 
-tena un pacto con l. Adn rpidamente invalid ese pacto. Hay un pacto que
+tenía un pacto con él. Adán rápidamente invalidó ese pacto. Hay un pacto que
 
-an est en vigor en todo su terrible poder; terrible, digo, porque el hombre
+aún está en vigor en todo su terrible poder; terrible, digo, porque el hombre
 
-invalid su parte del pacto, y, en consecuencia, Dios cumplir invariablemente
+invalidó su parte del pacto, y, en consecuencia, Dios cumplirá invariablemente
 
-las solemnes amenazas y las sanciones contenidas en l. Es el pacto de obras.
+las solemnes amenazas y las sanciones contenidas en él. Es el pacto de obras.
 
-Conforme a ese pacto trat con Moiss, y conforme a l trata con toda la raza
+Conforme a ese pacto trató con Moisés, y conforme a él trata con toda la raza
 
-humana representada por el primer Adn. Posteriormente, cuando Dios trat con
+humana representada por el primer Adán. Posteriormente, cuando Dios trató con
 
-No, lo hizo a travs de un pacto y cuando en una poca posterior trat con
+Noé, lo hizo a través de un pacto y cuando en una época posterior trató con
 
-Abraham, plugo a Dios comprometerse con l por medio de un pacto. l preserv y
+Abraham, plugo a Dios comprometerse con él por medio de un pacto. Él preservó y
 
-guard ese pacto que fue renovado continuamente con muchos de sus herederos. Dios
+guardó ese pacto que fue renovado continuamente con muchos de sus herederos. Dios
 
-no trat ni siquiera con David, un varn conforme a Su corazn, de otra manera
+no trató ni siquiera con David, un varón conforme a Su corazón, de otra manera
 
-que mediante un pacto. Hizo un pacto con Su ungido, y, amados, l trata todava
+que mediante un pacto. Hizo un pacto con Su ungido, y, amados, Él trata todavía
 
-en este da con ustedes y conmigo por medio de un pacto. Cuando venga en todos
+en este día con ustedes y conmigo por medio de un pacto. Cuando venga en todos
 
-Sus terrores para condenar, herir por pacto, es decir, por la espada del pacto
+Sus terrores para condenar, herirá por pacto, es decir, por la espada del pacto
 
-del Sina. Y si viene en los esplendores de Su gracia para salvar, viene
+del Sinaí. Y si viene en los esplendores de Su gracia para salvar, viene
 
-todava a nosotros por un pacto, es decir, por el pacto de Sion: el pacto que
+todavía a nosotros por un pacto, es decir, por el pacto de Sion: el pacto que
 
-realiz con el Seor Jesucristo, cabeza y representante de Su pueblo. Y fjense
+realizó con el Seńor Jesucristo, cabeza y representante de Su pueblo. Y fíjense
 
-bien que siempre que entramos en relaciones ntimas y estrechas con Dios, es
+bien que siempre que entramos en relaciones íntimas y estrechas con Dios, es
 
-seguro que ser, por parte nuestra, por un pacto. Despus de la conversin, hacemos
+seguro que será, por parte nuestra, por un pacto. Después de la conversión, hacemos
 
-con Dios un pacto de gratitud; venimos a l conscientes de lo que ha hecho por
+con Dios un pacto de gratitud; venimos a Él conscientes de lo que ha hecho por
 
-nosotros, y nos entregamos a l. Ponemos nuestro sello a ese pacto cuando nos
+nosotros, y nos entregamos a Él. Ponemos nuestro sello a ese pacto cuando nos
 
-unimos a Su iglesia por el bautismo; y da tras da, cuantas veces nos reunimos
+unimos a Su iglesia por el bautismo; y día tras día, cuantas veces nos reunimos
 
 en torno a la mesa para el partimiento del pan, renovamos el voto de nuestro
 
-pacto y as tenemos una relacin personal con Dios. Yo no puedo elevar mi
+pacto y así tenemos una relación personal con Dios. Yo no puedo elevar mi
 
-oracin a l excepto a travs del pacto de gracia; y s que no soy Su hijo a
+oración a Él excepto a través del pacto de gracia; y sé que no soy Su hijo a
 
-menos que sea Suyo, primero, a travs del pacto por medio del cual Cristo me
+menos que sea Suyo, primero, a través del pacto por medio del cual Cristo me
 
-compr, y despus, a travs del pacto por medio del cual me entregu a l y le
+compró, y después, a través del pacto por medio del cual me entregué a Él y le
 
 di todo lo que soy y todo lo que tengo. Es importante, entonces, que sepamos
 
-distinguir entre un pacto y otro, ya que el pacto es la nica escalera que va
+distinguir entre un pacto y otro, ya que el pacto es la única escalera que va
 
-de la tierra al cielo, ya que es la nica manera en la que Dios se relaciona
+de la tierra al cielo, ya que es la única manera en la que Dios se relaciona
 
-con nosotros y en la que nosotros podemos tratar con l. No debemos estar en
+con nosotros y en la que nosotros podemos tratar con Él. No debemos estar en
 
 tinieblas o error con respecto a lo que es el pacto de gracia y a lo que no es.
 
-Esta maana, voy a
+Esta mańana, voy a
 
-procurar aclarar y simplificar lo ms que pueda el contenido del pacto
+procurar aclarar y simplificar lo más que pueda el contenido del pacto
 
-mencionado en nuestro texto, y, por esa razn,
+mencionado en nuestro texto, y, por esa razón,
 
 voy a hablar, en primer lugar, del
 
@@ -112,103 +112,103 @@ pacto de gracia;
 
 en segundo lugar, de
 
-su carcter perenne;
+su carácter perenne;
 
 y en tercer lugar, de
 
-la relacin que tiene la sangre con el pacto.
+la relación que tiene la sangre con el pacto.
 
-La sangre del pacto eterno.
+“La sangre del pacto eterno”.
 
 I.
 
 Entonces,
 
-primero que nada, esta maana tengo que hablar del PACTO mencionado en el
+primero que nada, esta mańana tengo que hablar del PACTO mencionado en el
 
-texto; y observo que podemos descubrir fcilmente a primera vista
+texto; y observo que podemos descubrir fácilmente a primera vista
 
 lo que no es el pacto.
 
 Vemos de
 
-inmediato que ste no es el pacto de obras, por la sencilla razn de que es un
+inmediato que éste no es el pacto de obras, por la sencilla razón de que es un
 
-pacto eterno. Ahora bien, el pacto de obras no era eterno en ningn sentido. No
+pacto eterno. Ahora bien, el pacto de obras no era eterno en ningún sentido. No
 
-era eterno ya que se realiz por primera vez en el huerto de Edn: tuvo un
+era eterno ya que se realizó por primera vez en el huerto de Edén: tuvo un
 
-comienzo. Fue quebrantado. Ser violado continuamente y pronto acabar y pasar;
+comienzo. Fue quebrantado. Será violado continuamente y pronto acabará y pasará;
 
-por tanto, no es eterno en ningn sentido. El pacto de obras no puede recibir
+por tanto, no es eterno en ningún sentido. El pacto de obras no puede recibir
 
-el ttulo de eterno. Pero como el pacto de mi texto es una alianza eterna, no
+el título de eterno. Pero como el pacto de mi texto es una alianza eterna, no
 
-es el pacto de obras. Dios hizo un pacto con la raza humana que estableca ms
+es el pacto de obras. Dios hizo un pacto con la raza humana que establecía más
 
-o menos lo siguiente: Si t, oh hombre, eres obediente, vivirs y sers feliz,
+o menos lo siguiente: “Si tú, oh hombre, eres obediente, vivirás y serás feliz,
 
-pero si eres desobediente, perecers. El da que me desobedecieres, ciertamente
+pero si eres desobediente, perecerás. El día que me desobedecieres, ciertamente
 
-morirs. Ese pacto fue realizado con todos nosotros en la persona de nuestro
+morirás”. Ese pacto fue realizado con todos nosotros en la persona de nuestro
 
-representante, el primer Adn. Si Adn hubiera guardado ese pacto, creemos que
+representante, el primer Adán. Si Adán hubiera guardado ese pacto, creemos que
 
-todos nosotros habramos sido preservados. Pero como Adn invalid el pacto,
+todos nosotros habríamos sido preservados. Pero como Adán invalidó el pacto,
 
-ustedes y yo, y todos nosotros, camos y fuimos considerados a partir de
+ustedes y yo, y todos nosotros, caímos y fuimos considerados a partir de
 
 entonces como herederos de la ira y del pecado, inclinados a todo mal y sujetos
 
 a todo sufrimiento. Ese pacto fue abolido con respecto al pueblo de Dios. Fue
 
-sustituido por un nuevo y mejor pacto que lo eclips total y enteramente con su
+sustituido por un nuevo y mejor pacto que lo eclipsó total y enteramente con su
 
 gloria llena de gracia.
 
-Adems, permtaseme
+Además, permítaseme
 
-comentar que el pacto aqu significado no es el pacto de gratitud realizado
+comentar que el pacto aquí significado no es el pacto de gratitud realizado
 
-entre el amoroso hijo de Dios y su Salvador. Ese pacto es muy legtimo y
+entre el amoroso hijo de Dios y su Salvador. Ese pacto es muy legítimo y
 
-apropiado. Confo que todos los que conocemos al Salvador hayamos dicho en
+apropiado. Confío que todos los que conocemos al Salvador hayamos dicho en
 
 nuestros propios corazones:
 
-Fue realizada! La grandiosa transaccin fue realizada;
+“ˇFue realizada! La grandiosa transacción fue realizada;
 
-Yo soy de mi Seor, y l es mo.
+Yo soy de mi Seńor, y Él es mío”.
 
 Le hemos entregado todo
 
-a l. Pero ese no es el pacto al que hace referencia el texto, por la sencilla
+a Él. Pero ese no es el pacto al que hace referencia el texto, por la sencilla
 
-razn de que el pacto de nuestro texto es un pacto eterno. Ahora bien, el
+razón de que el pacto de nuestro texto es un pacto eterno. Ahora bien, el
 
-nuestro fue escrito hace slo unos cuantos aos. Lo habramos despreciado en
+nuestro fue escrito hace sólo unos cuantos ańos. Lo habríamos despreciado en
 
 las primeras etapas de nuestra vida, y no puede ser a lo sumo tan viejo como
 
 nosotros mismos.
 
-Habiendo mostrado rpidamente
+Habiendo mostrado rápidamente
 
 lo que no es este pacto, puedo comentar
 
 lo
 
-que s es este pacto.
+que sí es este pacto.
 
-Y aqu ser necesario que subdivida de nuevo este
+Y aquí será necesario que subdivida de nuevo este
 
-encabezado, y que hable de l as: para entender un pacto es preciso saber
+encabezado, y que hable de él así: para entender un pacto es preciso saber
 
-quines son las partes contratantes; en segundo lugar, cules son las
+quiénes son las partes contratantes; en segundo lugar, cuáles son las
 
-estipulaciones del contrato; y en tercer lugar, cules son los objetos del
+estipulaciones del contrato; y en tercer lugar, cuáles son los objetos del
 
-mismo; y luego, si quisieran profundizar ms, tienen que entender algo sobre
+mismo; y luego, si quisieran profundizar más, tienen que entender algo sobre
 
 los motivos que condujeron a las partes contratantes a establecer el pacto
 
@@ -224,57 +224,57 @@ las excelsas partes contratantes
 
 que lo establecieron. El pacto de
 
-gracia fue realizado antes de la fundacin mundo entre Dios el Padre y Dios el
+gracia fue realizado antes de la fundación mundo entre Dios el Padre y Dios el
 
-Hijo; o para expresarlo a una luz todava ms bblica, fue realizado entre las
+Hijo; o para expresarlo a una luz todavía más bíblica, fue realizado entre las
 
 tres divinas Personas de la adorable Trinidad. Este pacto no fue realizado
 
-directamente entre Dios y el hombre. El hombre no exista en aquel tiempo, pero
+directamente entre Dios y el hombre. El hombre no existía en aquel tiempo, pero
 
-Cristo particip en el pacto como el representante del hombre. En ese sentido
+Cristo participó en el pacto como el representante del hombre. En ese sentido
 
 concederemos que fue un pacto entre Dios y el hombre, pero no fue un pacto
 
-entre Dios y cada ser humano en su carcter personal e individual. Fue un pacto
+entre Dios y cada ser humano en su carácter personal e individual. Fue un pacto
 
-entre Dios y Cristo, y a travs de Cristo, indirectamente, con toda la simiente
+entre Dios y Cristo, y a través de Cristo, indirectamente, con toda la simiente
 
-comprada con sangre y amada por Cristo desde antes la fundacin del mundo. Es
+comprada con sangre y amada por Cristo desde antes la fundación del mundo. Es
 
-un pensamiento noble y glorioso -la esencia de la poesa de esa vieja doctrina
+un pensamiento noble y glorioso -la esencia de la poesía de esa vieja doctrina
 
-calvinista que nosotros enseamos- que antes de que el lucero de la maana
+calvinista que nosotros enseńamos- que antes de que el lucero de la mańana
 
 conociera su lugar, antes de que Dios con Su palabra creara la existencia a
 
-partir de la nada, antes de que el ala del ngel agitara las ignotas capas
+partir de la nada, antes de que el ala del ángel agitara las ignotas capas
 
-celestiales, antes de que un solitario cntico turbara la solemnidad del
+celestiales, antes de que un solitario cántico turbara la solemnidad del
 
-silencio en el que Dios reinaba supremo, l ya haba entrado en solemne consejo
+silencio en el que Dios reinaba supremo, Él ya había entrado en solemne consejo
 
-consigo mismo, con Su Hijo y con Su Espritu, y en ese consejo haba decretado,
+consigo mismo, con Su Hijo y con Su Espíritu, y en ese consejo había decretado,
 
-determinado, propuesto y predestinado la salvacin de Su pueblo. Adems, en el
+determinado, propuesto y predestinado la salvación de Su pueblo. Además, en el
 
-pacto ya haba arreglado las maneras y los medios y haba fijado y establecido
+pacto ya había arreglado las maneras y los medios y había fijado y establecido
 
-todo lo que deba colaborar conjuntamente para que se cumplieran el propsito y
+todo lo que debía colaborar conjuntamente para que se cumplieran el propósito y
 
 el decreto. Mi alma se remonta ahora al pasado, transportada por las alas de la
 
-imaginacin y de la fe, y atisba en aquel misterioso saln del consejo, y por
+imaginación y de la fe, y atisba en aquel misterioso salón del consejo, y por
 
-medio de la fe contemplo al Padre comprometindose con el Hijo, y al Hijo
+medio de la fe contemplo al Padre comprometiéndose con el Hijo, y al Hijo
 
-comprometindose con el Padre, mientras que el Espritu da Su compromiso a
+comprometiéndose con el Padre, mientras que el Espíritu da Su compromiso a
 
-ambos, y as fue completado y establecido ese divino pacto que haba de
+ambos, y así fue completado y establecido ese divino pacto que había de
 
-permanecer oculto en la oscuridad. Este es el pacto que en estos ltimos das
+permanecer oculto en la oscuridad. Este es el pacto que en estos últimos días
 
-ha sido ledo a la luz del cielo, y se ha convertido en el gozo, en la
+ha sido leído a la luz del cielo, y se ha convertido en el gozo, en la
 
 esperanza y en el motivo de gloria de todos los santos.
 
@@ -282,375 +282,375 @@ esperanza y en el motivo de gloria de todos los santos.
 
 Y
 
-ahora, cules eran
+ahora, żcuáles eran
 
 las estipulaciones
 
 del pacto?
 
-Iban ms o menos en este sentido: Dios haba visto de antemano
+Iban más o menos en este sentido: Dios había visto de antemano
 
-que el hombre, despus de la creacin, invalidara el pacto de obras; que por
+que el hombre, después de la creación, invalidaría el pacto de obras; que por
 
-leve y benigna que fuera la condicin bajo la cual Adn habra de poseer el
+leve y benigna que fuera la condición bajo la cual Adán habría de poseer el
 
-Paraso, esa condicin sera demasiado ardua para l y dara coces contra ella,
+Paraíso, esa condición sería demasiado ardua para él y daría coces contra ella,
 
-yendo a la ruina con toda certeza. Tambin Dios haba visto de antemano que Sus
+yendo a la ruina con toda certeza. También Dios había visto de antemano que Sus
 
-elegidos, a quienes haba escogido de entre toda la humanidad, caeran por el
+elegidos, a quienes había escogido de entre toda la humanidad, caerían por el
 
-pecado de Adn, puesto que ellos, al igual que el resto de la humanidad, estaban
+pecado de Adán, puesto que ellos, al igual que el resto de la humanidad, estaban
 
-representados en Adn. Por tanto el pacto tena como propsito la restauracin
+representados en Adán. Por tanto el pacto tenía como propósito la restauración
 
-del pueblo elegido. Y ahora podemos entender fcilmente cules eran las
+del pueblo elegido. Y ahora podemos entender fácilmente cuáles eran las
 
 estipulaciones. Del lado del Padre, su contenido iba en este sentido. Yo no
 
-podra referirlo en la gloriosa lengua celestial en la que fue escrito; de buen
+podría referirlo en la gloriosa lengua celestial en la que fue escrito; de buen
 
-grado lo bajar al nivel de un lenguaje adaptado al odo de la carne y al
+grado lo bajaré al nivel de un lenguaje adaptado al oído de la carne y al
 
-corazn de un mortal. As, digo, est expresado el pacto, en lneas parecidas a
+corazón de un mortal. Así, digo, está expresado el pacto, en líneas parecidas a
 
-estas: Yo, Jehov el Altsimo, por este medio doy a Mi unignito y bienamado
+estas: “Yo, Jehová el Altísimo, por este medio doy a Mi unigénito y bienamado
 
-Hijo un pueblo, ms incontable que el nmero de las estrellas, cuyo pecado l
+Hijo un pueblo, más incontable que el número de las estrellas, cuyo pecado Él
 
-lavar, y al cual l preservar, guardar, guiar, y presentar al final sin
+lavará, y al cual Él preservará, guardará, guiará, y presentará al final sin
 
 mancha ni arruga ni cosa semejante delante de Mi trono. Yo pacto mediante
 
-juramento, y juro por M mismo porque no puedo jurar por otro mayor, que estas
+juramento, y juro por Mí mismo porque no puedo jurar por otro mayor, que estas
 
-personas que doy ahora a Cristo sern por siempre objetos de Mi amor eterno. Las
+personas que doy ahora a Cristo serán por siempre objetos de Mi amor eterno. Las
 
-perdonar por causa del mrito de la sangre. Les dar una perfecta justicia. Las
+perdonaré por causa del mérito de la sangre. Les daré una perfecta justicia. Las
 
-adoptar y las convertir en Mis hijos y Mis hijas, y reinarn conmigo a travs
+adoptaré y las convertiré en Mis hijos y Mis hijas, y reinarán conmigo a través
 
-de Cristo eternamente. Eso establece ese glorioso lado del pacto. El Espritu
+de Cristo eternamente”. Eso establece ese glorioso lado del pacto. El Espíritu
 
-Santo tambin, como una de las excelsas partes contratantes de ese lado del
+Santo también, como una de las excelsas partes contratantes de ese lado del
 
-pacto, declar: Yo pacto por este medio dice l- que a todos aquellos que
+pacto, declaró: “Yo pacto por este medio” –dice Él- “que a todos aquellos que
 
 el Padre dio al Hijo, los voy a vivificar a su tiempo. Voy a mostrarles su
 
-necesidad de redencin. Voy a suprimir en ellos toda esperanza infundada, y voy
+necesidad de redención. Voy a suprimir en ellos toda esperanza infundada, y voy
 
 a destruir sus refugios de mentiras. Voy a llevarlos a la sangre de la
 
-aspersin. Voy a darles una fe mediante la cual esta sangre ser aplicada a
+aspersión. Voy a darles una fe mediante la cual esta sangre será aplicada a
 
 ellos. Voy a obrar en ellos toda gracia. Voy a mantener viva su fe; voy a
 
-limpiarlos y voy quitarles toda depravacin, y sern presentados al final sin
+limpiarlos y voy quitarles toda depravación, y serán presentados al final sin
 
-mancha ni arruga. Este es el lado del pacto que est siendo cumplido y
+mancha ni arruga”. Este es el lado del pacto que está siendo cumplido y
 
-guardado escrupulosamente en este preciso da.
+guardado escrupulosamente en este preciso día.
 
 En cuanto al otro lado
 
-del pacto, esa es la parte que fue asumida y pactada por Cristo. l declar y
+del pacto, esa es la parte que fue asumida y pactada por Cristo. Él declaró y
 
-pact as con Su Padre: Padre mo, por Mi parte, pacto que asumir la
+pactó así con Su Padre: “Padre mío, por Mi parte, pacto que asumiré la
 
 naturaleza del hombre cuando se cumpla el tiempo. Voy a asumir la forma y la
 
-naturaleza de la raza cada. Voy a vivir en su desventurado mundo, y voy a guardar
+naturaleza de la raza caída. Voy a vivir en su desventurado mundo, y voy a guardar
 
 perfectamente la ley a nombre de Mi pueblo. Voy a obrar una justicia sin
 
-mancha, que habr de ser aceptable para las exigencias de Tu justa y santa ley.
+mancha, que habrá de ser aceptable para las exigencias de Tu justa y santa ley.
 
-A su debido tiempo voy a cargar con los pecados de todo Mi pueblo. T vas a
+A su debido tiempo voy a cargar con los pecados de todo Mi pueblo. Tú vas a
 
-exigir de M el pago de sus deudas. Yo soportar el castigo de su paz, y por Mi
+exigir de Mí el pago de sus deudas. Yo soportaré el castigo de su paz, y por Mi
 
-llaga sern curados. Padre Mo, Yo pacto y prometo que ser obediente hasta la
+llaga serán curados. Padre Mío, Yo pacto y prometo que seré obediente hasta la
 
-muerte, y muerte de cruz. Yo engrandecer Tu ley y la honrar. Yo voy a sufrir
+muerte, y muerte de cruz. Yo engrandeceré Tu ley y la honraré. Yo voy a sufrir
 
-todo lo que ellos tenan que haber sufrido. Voy a soportar la maldicin de Tu
+todo lo que ellos tenían que haber sufrido. Voy a soportar la maldición de Tu
 
-ley y todos los vasos de Tu ira sern vaciados y derramados sobre Mi cabeza.
+ley y todos los vasos de Tu ira serán vaciados y derramados sobre Mi cabeza.
 
 Luego voy a resucitar. Voy a ascender al cielo. Voy a interceder por ellos a Tu
 
 diestra. Voy a responsabilizarme por cada uno de ellos, para que ninguno de los
 
-que Me has dado se pierda jams, sino que voy a llevar a todas Mis ovejas de
+que Me has dado se pierda jamás, sino que voy a llevar a todas Mis ovejas de
 
-las que, por mi sangre, T me has constituido el pastor, voy a llevarlas salvas
+las que, por mi sangre, Tú me has constituido el pastor, voy a llevarlas salvas
 
-a Ti, a cada una de ellas, al final. Ese es el contenido del pacto; y ahora, as
+a Ti, a cada una de ellas, al final”. Ese es el contenido del pacto; y ahora, así
 
-lo creo, ustedes tienen una idea clara de lo que era y de cmo se encuentra: el
+lo creo, ustedes tienen una idea clara de lo que era y de cómo se encuentra: el
 
-pacto entre Dios y Cristo, entre Dios el Padre y Dios el Espritu, y Dios el
+pacto entre Dios y Cristo, entre Dios el Padre y Dios el Espíritu, y Dios el
 
 Hijo como cabeza del pacto y como representante de todos los elegidos de Dios. Les
 
-he presentado, tan brevemente como he podido, cules eran sus estipulaciones.
+he presentado, tan brevemente como he podido, cuáles eran sus estipulaciones.
 
-Observen, por favor, queridos amigos mos, que el pacto ha sido perfectamente
+Observen, por favor, queridos amigos míos, que el pacto ha sido perfectamente
 
-cumplido de un lado. Dios el Hijo pag las deudas de todos los elegidos. l
+cumplido de un lado. Dios el Hijo pagó las deudas de todos los elegidos. Él
 
-sufri toda la ira divina por nosotros, por nuestra redencin. No queda nada
+sufrió toda la ira divina por nosotros, por nuestra redención. No queda nada
 
-pendiente de esa parte del pacto, excepto que l continuar intercediendo para
+pendiente de esa parte del pacto, excepto que Él continuará intercediendo para
 
 llevar a la gloria con seguridad a todos los redimidos.
 
 Del lado del Padre esta
 
-parte del pacto ha sido cumplida para incontables miradas. Dios el Padre y
+parte del pacto ha sido cumplida para incontables miríadas. Dios el Padre y
 
-Dios el Espritu no se han rezagado en Su divino compromiso. Y fjense bien que
+Dios el Espíritu no se han rezagado en Su divino compromiso. Y fíjense bien que
 
 ese lado ha sido concluido y ha sido llevado a cabo tan plena y tan
 
-completamente como el otro. Cristo puede decir acerca de lo que prometi hacer:
+completamente como el otro. Cristo puede decir acerca de lo que prometió hacer:
 
-Consumado es y lo mismo dirn todos los gloriosos pactantes. Todos aquellos
+“Consumado es” y lo mismo dirán todos los gloriosos pactantes. Todos aquellos
 
-por quienes Cristo muri sern perdonados, todos sern justificados, todos
+por quienes Cristo murió serán perdonados, todos serán justificados, todos
 
-sern adoptados. El Espritu los vivificar a todos, a todos les dar fe, a
+serán adoptados. El Espíritu los vivificará a todos, a todos les dará fe, a
 
-todos los llevar al cielo, y cada uno de ellos ser acepto en el amado, sin
+todos los llevará al cielo, y cada uno de ellos será acepto en el amado, sin
 
-obstculos, en el da cuando el pueblo sea contado y Jess ser glorificado.
+obstáculos, en el día cuando el pueblo sea contado y Jesús será glorificado.
 
 3.
 
 Y
 
-ahora, habiendo visto quines eran los excelsos pactantes y cules eran los
+ahora, habiendo visto quiénes eran los excelsos pactantes y cuáles eran los
 
-trminos del pacto realizado entre ellos, veamos cules eran
+términos del pacto realizado entre ellos, veamos cuáles eran
 
 los objetos de este pacto.
 
-Fue realizado este pacto para todo individuo
+żFue realizado este pacto para todo individuo
 
-de la raza de Adn? Ciertamente no; descubrimos lo secreto por lo visible. Lo
+de la raza de Adán? Ciertamente no; descubrimos lo secreto por lo visible. Lo
 
-que est en el pacto ha de ser visto a su debido tiempo con el ojo y habr de
+que está en el pacto ha de ser visto a su debido tiempo con el ojo y habrá de
 
-ser odo con el odo. Veo a multitudes de hombres que perecen, que prosiguen desenfrenadamente
+ser oído con el oído. Veo a multitudes de hombres que perecen, que prosiguen desenfrenadamente
 
 en sus perversos caminos, rechazando el ofrecimiento de Cristo que les es
 
-presentado en el Evangelio da tras da, hollando bajo sus pies la sangre del
+presentado en el Evangelio día tras día, hollando bajo sus pies la sangre del
 
-Hijo del Hombre, desafiando al Espritu que lucha con ellos; veo que esos
+Hijo del Hombre, desafiando al Espíritu que lucha con ellos; veo que esos
 
 hombres van de mal en peor y al fin perecen en sus pecados. No tengo la
 
-insensatez de creer que ellos tienen una participacin en el pacto de gracia.
+insensatez de creer que ellos tienen una participación en el pacto de gracia.
 
 Los que mueren en la impenitencia, las multitudes que rechazan al Salvador,
 
-demuestran claramente que no tienen ni parte ni porcin en el pacto sagrado de
+demuestran claramente que no tienen ni parte ni porción en el pacto sagrado de
 
-la gracia divina; pues si tuvieran alguna participacin en l, habra ciertas
+la gracia divina; pues si tuvieran alguna participación en él, habría ciertas
 
-seales y evidencias que nos lo mostraran. Veramos a su debido tiempo que en
+seńales y evidencias que nos lo mostrarían. Veríamos a su debido tiempo que en
 
-esta vida seran llevados al arrepentimiento, seran lavados en la sangre del
+esta vida serían llevados al arrepentimiento, serían lavados en la sangre del
 
-Salvador y seran salvados. El pacto para ir de inmediato y directamente al
+Salvador y serían salvados. El pacto –para ir de inmediato y directamente al
 
-punto, por ofensiva que pudiera ser la doctrina- el pacto tiene relacin con
+punto, por ofensiva que pudiera ser la doctrina- el pacto tiene relación con
 
-los elegidos y con nadie ms. Los ofende eso? Pues van a ofenderse ms. Qu
+los elegidos y con nadie más. żLos ofende eso? Pues van a ofenderse más. żQué
 
-dijo Cristo? Yo ruego por ellos; no ruego por el mundo, sino por los que me
+dijo Cristo? “Yo ruego por ellos; no ruego por el mundo, sino por los que me
 
-diste; porque tuyos son. Si Cristo ora exclusivamente por Sus elegidos, por
+diste; porque tuyos son”. Si Cristo ora exclusivamente por Sus elegidos, żpor
 
-qu habran de enojarse porque
+qué habrían de enojarse porque
 
 la
 
 Palabra
 
-les ensee que en el pacto hay una provisin hecha
+les enseńe que en el pacto hay una provisión hecha
 
 para los elegidos, para que reciban la vida eterna? Todos los que creen, todos
 
-los que confan en Cristo, todos los que perseveran hasta el fin, todos los que
+los que confían en Cristo, todos los que perseveran hasta el fin, todos los que
 
-entran en el reposo eterno, todos ellos y nadie ms tienen una participacin en
+entran en el reposo eterno, todos ellos y nadie más tienen una participación en
 
 el pacto de la gracia divina.
 
 4.
 
-Adems,
+Además,
 
-tenemos que considerar cules eran los motivos del pacto. Cul fue la
+tenemos que considerar cuáles eran los motivos del pacto. żCuál fue la
 
-necesidad de realizar un pacto? Dios no estaba bajo compulsin ni
+necesidad de realizar un pacto? Dios no estaba bajo compulsión ni
 
-constreimiento de ningn tipo. Todava en aquel momento no exista ninguna
+constreńimiento de ningún tipo. Todavía en aquel momento no existía ninguna
 
 criatura. Aun si la criatura hubiera podido ejercer alguna influencia sobre el
 
-Creador, no exista ninguna criatura en el perodo en el que el pacto fue
+Creador, no existía ninguna criatura en el período en el que el pacto fue
 
 realizado. No podemos buscar en ninguna parte para encontrar el motivo de Dios
 
-para realizar el pacto excepto en l mismo, pues de Dios se poda decir
+para realizar el pacto excepto en Él mismo, pues de Dios se podía decir
 
-literalmente en aquel da: Yo soy, y fuera de m no hay ms. Entonces, por
+literalmente en aquel día: “Yo soy, y fuera de mí no hay más”. Entonces, żpor
 
-qu estableci el pacto? Yo respondo que lo dict la absoluta soberana. Pero,
+qué estableció el pacto? Yo respondo que lo dictó la absoluta soberanía. Pero,
 
-por qu ciertos hombres fueron objetos del pacto y por qu otros no? Yo
+żpor qué ciertos hombres fueron objetos del pacto y por qué otros no? Yo
 
-respondo que la gracia soberana gui la pluma. No fue el mrito del hombre, no
+respondo que la gracia soberana guió la pluma. No fue el mérito del hombre, no
 
 fue nada que Dios hubiera visto de antemano en nosotros lo que lo condujo a
 
-elegir a muchos y a dejar que otros prosiguieran en sus pecados. No haba nada
+elegir a muchos y a dejar que otros prosiguieran en sus pecados. No había nada
 
-en ellos; la soberana y la gracia se combinaron para hacer la divina eleccin.
+en ellos; la soberanía y la gracia se combinaron para hacer la divina elección.
 
-Si ustedes, hermanos y hermanas mos, tienen la bendita esperanza de pertenecer
+Si ustedes, hermanos y hermanas míos, tienen la bendita esperanza de pertenecer
 
 al pacto de gracia, tienen que cantar aquel himno:
 
-Qu
+“żQué
 
-haba en m que mereciera estima o que agradara a mi Creador?
+había en mí que mereciera estima o que agradara a mi Creador?
 
 Fue
 
-as, Padre, siempre he de cantar, porque as te pareci bien.
+así, Padre, siempre he de cantar, porque así te pareció bien”.
 
-Tendr misericordia del
+“Tendrá misericordia del
 
-que tenga misericordia; as que no depende del que quiere, ni del que corre,
+que tenga misericordia”; “así que no depende del que quiere, ni del que corre,
 
-sino de Dios que tiene misericordia. Su soberana eligi y Su gracia
+sino de Dios que tiene misericordia”. Su soberanía eligió y Su gracia
 
-distingui y Su inmutabilidad decret. Ningn motivo dict la eleccin de los
+distinguió y Su inmutabilidad decretó. Ningún motivo dictó la elección de los
 
-individuos, excepto un motivo de amor y de soberana divina en l mismo. Sin
+individuos, excepto un motivo de amor y de soberanía divina en Él mismo. Sin
 
-duda la grandiosa intencin de Dios al hacer el pacto fue Su propia gloria;
+duda la grandiosa intención de Dios al hacer el pacto fue Su propia gloria;
 
-cualquier motivo inferior a ese estara por debajo de Su dignidad. Dios
+cualquier motivo inferior a ese estaría por debajo de Su dignidad. Dios
 
-encuentra Sus motivos en l mismo; no tiene que mirar a unas polillas y a unos
+encuentra Sus motivos en Él mismo; no tiene que mirar a unas polillas y a unos
 
-gusanos para Sus actos. l es el YO SOY.
+gusanos para Sus actos. Él es el “YO SOY”.
 
-l no se sienta en ningn trono precario,
+“Él no se sienta en ningún trono precario,
 
-Ni pide permiso para ser.
+Ni pide permiso para ser”.
 
-l hace lo que le place
+Él hace lo que le place
 
-con los ejrcitos del cielo. Quin puede detener Su mano y decirle: Qu
+con los ejércitos del cielo. żQuién puede detener Su mano y decirle: “Qué
 
-haces? Acaso le preguntar el barro al alfarero el motivo por el que lo
+haces?” żAcaso le preguntará el barro al alfarero el motivo por el que lo
 
-convirti en un vaso? Acaso la cosa formada le ha de dictar rdenes a su
+convirtió en un vaso? żAcaso la cosa formada le ha de dictar órdenes a su
 
-Creador antes de su creacin? No, Dios es Dios y el hombre debe reducirse a su
+Creador antes de su creación? No, Dios es Dios y el hombre debe reducirse a su
 
 nada natural, y si Dios lo exalta, no debe jactarse como si Dios tuviera una
 
-razn para la obra en el hombre. l encuentra Sus motivos en S mismo. l se
+razón para la obra en el hombre. Él encuentra Sus motivos en Sí mismo. Él se
 
-contiene a S mismo, y no encuentra nada ms all de S mismo y no necesita
+contiene a Sí mismo, y no encuentra nada más allá de Sí mismo y no necesita
 
-nada de nadie excepto de l mismo. As, esta maana he discutido, tan
+nada de nadie excepto de Él mismo. Así, esta mańana he discutido, tan
 
 plenamente el tiempo me lo ha permitido, el primer punto respecto al pacto. Que
 
-el Espritu Santo nos conduzca a adentrarnos en esta sublime verdad.
+el Espíritu Santo nos conduzca a adentrarnos en esta sublime verdad.
 
 II.
 
 Y
 
-ahora, en segundo lugar, vamos a considerar SU CARCTER ETERNO. Es llamado un
+ahora, en segundo lugar, vamos a considerar SU CARÁCTER ETERNO. Es llamado un
 
 pacto eterno. Pueden observar de inmediato su
 
-antigedad.
+antigüedad.
 
-El pacto de gracia es la ms antigua de todas las
+El pacto de gracia es la más antigua de todas las
 
-cosas. Es a veces un motivo de gran gozo para m cuando pienso que el pacto de
+cosas. Es a veces un motivo de gran gozo para mí cuando pienso que el pacto de
 
-gracia es ms antiguo que el pacto de obras. El pacto de obras tuvo un inicio,
+gracia es más antiguo que el pacto de obras. El pacto de obras tuvo un inicio,
 
 pero el pacto de gracia no lo tuvo; y bendito sea Dios porque el pacto de obras
 
-tiene su fin, pero el pacto de gracia permanecer siendo firme cuando el cielo
+tiene su fin, pero el pacto de gracia permanecerá siendo firme cuando el cielo
 
-y la tierra pasen. La antigedad del pacto de gracia exige nuestra agradecida
+y la tierra pasen. La antigüedad del pacto de gracia exige nuestra agradecida
 
-atencin. Es una verdad que tiende a elevar a la mente. No conozco ninguna
+atención. Es una verdad que tiende a elevar a la mente. No conozco ninguna
 
-doctrina ms grandiosa que sta. Es la propia esencia y el alma de toda poesa
+doctrina más grandiosa que ésta. Es la propia esencia y el alma de toda poesía
 
-y al detenerme y meditar en ella, confieso que mi espritu ha sido a veces
+y al detenerme y meditar en ella, confieso que mi espíritu ha sido a veces
 
-arrebatado de gozo. Puedes concebir la idea de que antes de que existieran
+arrebatado de gozo. żPuedes concebir la idea de que antes de que existieran
 
-todas las cosas, Dios ya haba pensado en ti? Que cuando no haba formado todava
+todas las cosas, Dios ya había pensado en ti? żQue cuando no había formado todavía
 
-Sus montes, ya haba pensado en ti, pobre gusano insignificante? Antes de que
+Sus montes, ya había pensado en ti, pobre gusano insignificante? Antes de que
 
-las magnficas constelaciones comenzaran a brillar, y antes de que hubiera sido
+las magníficas constelaciones comenzaran a brillar, y antes de que hubiera sido
 
 fijado el grandioso centro del mundo, y todos los poderosos planetas y los
 
-diversos mundos hubieran sido conducidos a girar a su alrededor, Dios ya haba
+diversos mundos hubieran sido conducidos a girar a su alrededor, Dios ya había
 
-fijado entonces el centro de Su pacto, y haba ordenado el nmero de esas
+fijado entonces el centro de Su pacto, y había ordenado el número de esas
 
-estrellas menores que deberan girar en torno a ese bendito centro y obtener de
+estrellas menores que deberían girar en torno a ese bendito centro y obtener de
 
-l la luz. Vamos, cuando uno est absorto en algunas grandes concepciones del
+él la luz. Vamos, cuando uno está absorto en algunas grandes concepciones del
 
-ilimitado universo, cuando con los astrnomos volamos a travs del espacio,
+ilimitado universo, cuando con los astrónomos volamos a través del espacio,
 
 cuando lo encontramos sin fin, y vemos que las huestes estrelladas son sin
 
-nmero, no parece maravilloso que Dios diera al pobre hombre insignificante una
+número, żno parece maravilloso que Dios diera al pobre hombre insignificante una
 
 preferencia que trasciende al universo entero? Oh, esto no puede volvernos
 
 orgullosos, porque es una verdad divina, pero tiene que hacernos sentir
 
-felices. Oh, creyente, t consideras que no eres nada, pero Dios no piensa as
+felices. Oh, creyente, tú consideras que no eres nada, pero Dios no piensa así
 
-de ti. Los hombres te desprecian, pero Dios se acord de ti antes de crear nada.
+de ti. Los hombres te desprecian, pero Dios se acordó de ti antes de crear nada.
 
-El pacto de amor que hizo con Su hijo por ti es ms antiguo que la ms remota
+El pacto de amor que hizo con Su hijo por ti es más antiguo que la más remota
 
-antigedad, y si volaras de regreso hasta donde el tiempo no haba comenzado,
+antigüedad, y si volaras de regreso hasta donde el tiempo no había comenzado,
 
 antes de que esas rocas macizas que muestran las marcas de la ancianidad
 
-hubiesen comenzado a ser depositadas, l te haba amado y te haba elegido y
+hubiesen comenzado a ser depositadas, Él te había amado y te había elegido y
 
-haba hecho un pacto respecto de ti. Recuerda bien estas antiguas cosas de los
+había hecho un pacto respecto de ti. Recuerda bien estas antiguas cosas de los
 
 collados eternos.
 
-Adems, es un pacto
+Además, es un pacto
 
 eterno por su
 
@@ -666,91 +666,91 @@ la
 
 Torre
 
-de Babel se derrumb, y las propias Pirmides muestran
+de Babel se derrumbó, y las propias Pirámides muestran
 
-seales de ruina. Nada de lo que el hombre ha hecho es eterno, porque no puede
+seńales de ruina. Nada de lo que el hombre ha hecho es eterno, porque no puede
 
-protegerlo de la destruccin. Pero respecto al pacto de gracia, bien dijo David:
+protegerlo de la destrucción. Pero respecto al pacto de gracia, bien dijo David:
 
-Es ordenado en todas las cosas, y ser guardado. Es:
+“Es ordenado en todas las cosas, y será guardado”. Es:
 
-Firmado y sellado y ratificado,
+“Firmado y sellado y ratificado,
 
-Bien ordenado en todas las cosas.
+Bien ordenado en todas las cosas”.
 
-No hay ni un si ni un
+No hay ni un “si” ni un
 
-pero en todo l de principio a fin. El libre albedro odia las palabras: se
+“pero” en todo él de principio a fin. El libre albedrío odia las palabras: “se
 
-har y as ser de Dios, y le gustan los si y los pero dichos por el
+hará” y “así será” de Dios, y le gustan los “si” y los “pero” dichos por el
 
-hombre, pero no hay ni un si ni un pero en el pacto de gracia. Las nicas
+hombre, pero no hay ni un “si” ni un “pero” en el pacto de gracia. Las únicas
 
-condiciones son: har y se har. Jehov lo jura y el Hijo lo cumple. Es
+condiciones son: “haré” y “se hará”. Jehová lo jura y el Hijo lo cumple. Es
 
-cierto y tiene que serlo. Tiene que ser seguro, pues YO SOY lo determina. l
+cierto y tiene que serlo. Tiene que ser seguro, pues “YO SOY” lo determina. “Él
 
-dijo, y no har? Habl, y no lo ejecutar? Es un pacto seguro. He dicho algunas
+dijo, ży no hará? Habló, ży no lo ejecutará?” Es un pacto seguro. He dicho algunas
 
 veces que si alguien estuviera a punto de construir un puente o una casa, y dejara
 
 una sola piedra o una madera para que yo las colocara donde yo quisiera, les
 
-garantizo que su casa se caera. Si alguien estuviera a punto de construir un
+garantizo que su casa se caería. Si alguien estuviera a punto de construir un
 
-puente, y dejara simplemente que yo colocara una piedra escogida por m, yo lo
+puente, y dejara simplemente que yo colocara una piedra escogida por mí, yo lo
 
-retara a construir un puente que resistiera. Bastara con que yo seleccionara
+retaría a construir un puente que resistiera. Bastaría con que yo seleccionara
 
-la clave y l podra construir luego de la manera que quisiera, pero pronto
+la ‘clave’ y él podría construir luego de la manera que quisiera, pero pronto
 
-se caera (1). Ahora, el pacto arminiano no se puede sostener porque hay uno o
+se caería (1). Ahora, el pacto arminiano no se puede sostener porque hay uno o
 
-dos ladrillos en l (y eso es decirlo en la forma ms benigna, pues podra
+dos ladrillos en él (y eso es decirlo en la forma más benigna, pues podría
 
-haber dicho: porque cada una de sus piedras, y eso estara ms cerca del
+haber dicho: “porque cada una de sus piedras”, y eso estaría más cerca del
 
 blanco) que dependen de la voluntad del hombre. Queda al arbitrio de la criatura
 
 salvarse o no. Si no quiere, no hay ninguna influencia compelente que pudiera
 
-dominar o vencer a su voluntad. Segn el arminiano no hay ninguna promesa de
+dominar o vencer a su voluntad. Según el arminiano no hay ninguna promesa de
 
-que una influencia ser lo suficientemente fuerte para doblegarlo. As que
+que una influencia será lo suficientemente fuerte para doblegarlo. Así que
 
-queda al arbitrio del hombre, y Dios, el poderoso Constructor aunque pusiera
+queda al arbitrio del hombre, y Dios, el poderoso Constructor –aunque pusiera
 
-piedra sobre piedra y todo fuera slido como el universo- puede ser derrotado
+piedra sobre piedra y todo fuera sólido como el universo- puede ser derrotado
 
-por Su criatura. Desechen una tal blasfemia! Toda la estructura, de principio
+por Su criatura. ˇDesechen una tal blasfemia! Toda la estructura, de principio
 
-a fin, est en las manos de Dios. Los propios trminos y condiciones de ese
+a fin, está en las manos de Dios. Los propios términos y condiciones de ese
 
-pacto se han convertido en sus sellos y garantas, en vista de que Jess los ha
+pacto se han convertido en sus sellos y garantías, en vista de que Jesús los ha
 
 cumplido todos. Su pleno cumplimiento en cada jota y tilde es seguro, y debe
 
-cumplirse por Cristo Jess, quiralo el hombre o no lo quiera. No es el pacto
+cumplirse por Cristo Jesús, quiéralo el hombre o no lo quiera. No es el pacto
 
 de la criatura, es del Creador. No es el pacto del hombre, es el pacto del
 
-Todopoderoso, y lo llevar a cabo y lo realizar prescindiendo de la voluntad
+Todopoderoso, y lo llevará a cabo y lo realizará prescindiendo de la voluntad
 
 del hombre. Pues esta es la propia gloria de la gracia: que el hombre odia ser
 
-salvado, que est enemistado con Dios, pero Dios lo redimir; que el pacto de
+salvado, que está enemistado con Dios, pero Dios lo redimirá; que el pacto de
 
-Dios es: sers, y la intencin del hombre es: no ser, y el se har de
+Dios es: “serás”, y la intención del hombre es: “no seré”, y el “se hará” de
 
-Dios vencer al no quiero del hombre. La gracia todopoderosa cabalga
+Dios vencerá al “no quiero” del hombre. La gracia todopoderosa cabalga
 
-victoriosa sobre el cuello del libre albedro, y lo lleva cautivo en gloriosa
+victoriosa sobre el cuello del libre albedrío, y lo lleva cautivo en gloriosa
 
 cautividad al poder siempre vencedor de la gracia irresistible y del amor. Es
 
-un pacto seguro, y por tanto, merece el ttulo de eterno.
+un pacto seguro, y por tanto, merece el título de eterno.
 
-Adems, no slo es
+Además, no sólo es
 
 seguro sino que es
 
@@ -758,31 +758,31 @@ inmutable.
 
 Si no
 
-fuera inmutable, no podra ser eterno. Lo que cambia fenece. Podemos estar muy
+fuera inmutable, no podría ser eterno. Lo que cambia fenece. Podemos estar muy
 
-seguros de que todo lo que tenga sobre s
+seguros de que todo lo que tenga sobre sí
 
-la palabra cambio tarde o temprano muere, y ser quitado como cosa que
+la palabra “cambio” tarde o temprano muere, y será quitado como cosa que
 
 no es. Pero todo es inmutable en el pacto. Todo lo que Dios ha determinado
 
-suceder y ni una sola palabra o lnea o letra podran ser alteradas. Lo que el
+sucederá y ni una sola palabra o línea o letra podrían ser alteradas. Lo que el
 
-Espritu promete se har, y todo lo que Dios el Hijo prometi ha sido cumplido
+Espíritu promete se hará, y todo lo que Dios el Hijo prometió ha sido cumplido
 
-y ser consumado en el da de Su venida. Oh, si creyramos que las sagradas
+y será consumado en el día de Su venida. Oh, si creyéramos que las sagradas
 
-lneas pudieran ser borradas, que el pacto pudiera ser emborronado y
+líneas pudieran ser borradas, que el pacto pudiera ser emborronado y
 
-distorsionado, vamos, entonces, queridos amigos mos, podramos sumirnos en la
+distorsionado, vamos, entonces, queridos amigos míos, podríamos sumirnos en la
 
-desesperacin. He odo que algunos predicadores dicen que cuando el cristiano
+desesperación. He oído que algunos predicadores dicen que cuando el cristiano
 
-es santo, est en el pacto, pero que cuando peca, es eliminado de nuevo; cuando
+es santo, está en el pacto, pero que cuando peca, es eliminado de nuevo; cuando
 
 se arrepiente, es registrado otra vez, y si luego cae, entonces es borrado de
 
-nuevo; y as entra y sale por la puerta, como si saliera de su casa o entrara
+nuevo; y así entra y sale por la puerta, como si saliera de su casa o entrara
 
 en ella. Entra por una puerta y sale por otra. Algunas veces es un hijo de Dios
 
@@ -790,103 +790,103 @@ y algunas veces es el hijo del demonio; algunas veces es un heredero del cielo,
 
 y repentinamente es un heredero del infierno. Y conozco a un hombre que se
 
-atrevi a decir que aunque un hombre pudiera haber perseverado a travs de la
+atrevió a decir que aunque un hombre pudiera haber perseverado a través de la
 
-gracia durante sesenta aos, con todo, si se apartara el ltimo ao de su vida,
+gracia durante sesenta ańos, con todo, si se apartara el último ańo de su vida,
 
-si pecara y muriera en esa condicin, perecera eternamente, y toda su fe, y
+si pecara y muriera en esa condición, perecería eternamente, y toda su fe, y
 
-todo el amor que Dios le haba manifestado en los das transcurridos, no
+todo el amor que Dios le había manifestado en los días transcurridos, no
 
-serviran de nada. Me da gusto decir que tal concepto de Dios es precisamente la
+servirían de nada. Me da gusto decir que tal concepto de Dios es precisamente la
 
-propia nocin que tengo del diablo. Yo no podra creer en un Dios as, y no podra
+propia noción que tengo del diablo. Yo no podría creer en un Dios así, y no podría
 
-postrarme delante de l. Un Dios que ama hoy y odia maana; un Dios que da una
+postrarme delante de Él. Un Dios que ama hoy y odia mańana; un Dios que da una
 
-promesa y que sin embargo sabe de antemano que despus de todo el hombre no
+promesa y que sin embargo sabe de antemano que después de todo el hombre no
 
-ver cumplida la promesa; un Dios que perdona y castiga que justifica y que
+verá cumplida la promesa; un Dios que perdona y castiga –que justifica y que
 
 posteriormente ejecuta- es un Dios que no puedo soportar. No es el Dios de las
 
 Escrituras, estoy seguro de ello, pues
 
-l
+Él
 
-es inmutable, justo, santo y veraz, y habiendo amado a los Suyos, los amar
+es inmutable, justo, santo y veraz, y habiendo amado a los Suyos, los amará
 
-hasta el fin, y si l ha dado una promesa a alguien, la promesa ser guardada,
+hasta el fin, y si Él ha dado una promesa a alguien, la promesa será guardada,
 
-y el hombre que est una vez en la gracia, est en la gracia para siempre, e
+y el hombre que está una vez en la gracia, está en la gracia para siempre, e
 
-invariablemente entrar en la gloria.
+invariablemente entrará en la gloria.
 
 Y luego, para concluir,
 
 tenemos este punto: el pacto es eterno porque
 
-nunca se acabar.
+nunca se acabará.
 
-Ser cumplido pero seguir siendo firme. Cuando
+Será cumplido pero seguirá siendo firme. Cuando
 
 Cristo haya completado todo, y haya llevado a cada creyente al cielo; cuando el
 
-Padre haya visto a todo Su pueblo reunido, el pacto, es verdad, llegar a una
+Padre haya visto a todo Su pueblo reunido, el pacto, es verdad, llegará a una
 
-consumacin, pero no a una conclusin, pues as dice el pacto: los herederos
+consumación, pero no a una conclusión, pues así dice el pacto: ‘los herederos
 
-de la gracia sern benditos para siempre, y en tanto que para siempre dure,
+de la gracia serán benditos para siempre’, y en tanto que “para siempre” dure,
 
-este pacto eterno demandar la felicidad, la seguridad y la glorificacin de cada
+este pacto eterno demandará la felicidad, la seguridad y la glorificación de cada
 
-una de las personas que hubieren sido contempladas en l.
+una de las personas que hubieren sido contempladas en él.
 
 III.
 
 Habiendo
 
-considerado ya el carcter eterno del pacto, concluyo con la porcin ms dulce
+considerado ya el carácter eterno del pacto, concluyo con la porción más dulce
 
-y ms preciosa de la doctrina, es decir, la relacin que tiene la sangre con el
+y más preciosa de la doctrina, es decir, la relación que tiene la sangre con el
 
 pacto:
 
 LA SANGRE DEL
 
-PACTO ETERNO. La sangre de Cristo tiene una relacin cudruple con el pacto.
+PACTO ETERNO. La sangre de Cristo tiene una relación cuádruple con el pacto.
 
 Con respecto a Cristo,
 
 Su sangre
 
-preciosa derramada en Getseman, en Gabata y el Glgota, es
+preciosa derramada en Getsemaní, en Gabata y el Gólgota, es
 
 el cumplimiento
 
 del pacto. El pecado es
 
-quitado por medio de esta sangre; por las agonas de Jess la justicia es
+quitado por medio de esta sangre; por las agonías de Jesús la justicia es
 
 satisfecha, por Su muerte la ley es honrada; y por esa sangre preciosa, en toda
 
 su eficacia mediadora y en todo su poder purificador, Cristo cumple todo lo que
 
-estipul con Dios que hara en favor de Su pueblo.
+estipuló con Dios que haría en favor de Su pueblo.
 
 Oh, creyente, mira a la
 
-sangre de Cristo, y recuerda que as es cumplida la parte del pacto que
+sangre de Cristo, y recuerda que así es cumplida la parte del pacto que
 
 corresponde a Cristo. Y ahora no queda nada que deba cumplirse excepto la parte
 
-de Dios; no hay nada que t debas hacer; Jess lo ha hecho todo; no hay nada
+de Dios; no hay nada que tú debas hacer; Jesús lo ha hecho todo; no hay nada
 
-que el libre albedro deba suplir; Cristo ha hecho todo lo que Dios exiga. La
+que el libre albedrío deba suplir; Cristo ha hecho todo lo que Dios exigía. La
 
 sangre es el cumplimiento de la parte correspondiente al deudor del pacto, y
 
-ahora Dios est obligado, por Su propio juramento solemne, a mostrar gracia y
+ahora Dios está obligado, por Su propio juramento solemne, a mostrar gracia y
 
 misericordia a todos los que Cristo ha redimido por Su sangre. Con respecto a
 
@@ -896,47 +896,47 @@ a
 
 Dios el Padre la
 
-obligacin
+obligación
 
 del
 
 pacto. Cuando veo a Cristo morir en la cruz, a partir de ese momento, si se me
 
-permite usar el trmino con respecto a alguien que siempre ha de ser libre, veo
+permite usar el término con respecto a alguien que siempre ha de ser libre, veo
 
 al Dios eterno obligado, por Su propio juramento y por Su pacto, a cumplir cada
 
-estipulacin. Dice el pacto: Os dar corazn nuevo, y pondr espritu nuevo
+estipulación. żDice el pacto: “Os daré corazón nuevo, y pondré espíritu nuevo
 
-dentro de vosotros? Tiene que ser cumplido, pues Jess muri, y la muerte de Jess
+dentro de vosotros”? Tiene que ser cumplido, pues Jesús murió, y la muerte de Jesús
 
-es el sello del pacto. Dice: Esparcir sobre vosotros agua limpia, y seris
+es el sello del pacto. żDice: “Esparciré sobre vosotros agua limpia, y seréis
 
-limpiados de todas vuestras inmundicias? Entonces tendr que hacerlo, pues
+limpiados de todas vuestras inmundicias”? Entonces tendrá que hacerlo, pues
 
-Cristo ha cumplido Su parte. Y, por tanto, ahora no podemos presentar ms el pacto
+Cristo ha cumplido Su parte. Y, por tanto, ahora no podemos presentar más el pacto
 
 como algo de lo que se pueda dudar, sino como nuestro derecho exigible ante
 
-Dios a travs de Cristo; y al presentarnos humildemente de rodillas,
+Dios a través de Cristo; y al presentarnos humildemente de rodillas,
 
-argumentando ese pacto, nuestro Padre celestial no negar las promesas
+argumentando ese pacto, nuestro Padre celestial no negará las promesas
 
-contenidas en l, sino que har que cada una de ellas sea s y amn para
+contenidas en él, sino que hará que cada una de ellas sea sí y amén para
 
 nosotros por medio de la sangre de Jesucristo.
 
-Adems, la sangre del
+Además, la sangre del
 
-pacto tiene relacin
+pacto tiene relación
 
 para con nosotros
 
 como los objetos
 
-del pacto, y esa es su tercera luz; no slo es un
+del pacto, y esa es su tercera luz; no sólo es un
 
-cumplimiento con respecto a Cristo, y una obligacin con respecto a Su Padre,
+cumplimiento con respecto a Cristo, y una obligación con respecto a Su Padre,
 
 sino que es
 
@@ -944,31 +944,31 @@ una evidencia
 
 con
 
-respecto a nosotros mismos. Y aqu, amados hermanos y hermanas, permtanme
+respecto a nosotros mismos. Y aquí, amados hermanos y hermanas, permítanme
 
-hablarles afectuosamente. Confan enteramente en la sangre? Ha sido aplicada
+hablarles afectuosamente. żConfían enteramente en la sangre? żHa sido aplicada
 
-a su conciencia la sangre preciosa de Cristo? Han visto sus pecados perdonados
+a su conciencia la sangre preciosa de Cristo? żHan visto sus pecados perdonados
 
-a travs de Su sangre? Han recibido el perdn de los pecados a travs de la
+a través de Su sangre? żHan recibido el perdón de los pecados a través de la
 
-sangre de Jess? Se gloran en Su sacrificio y es Su cruz la nica esperanza y
+sangre de Jesús? żSe glorían en Su sacrificio y es Su cruz la única esperanza y
 
-el nico refugio de ustedes? Entonces participan en el pacto. Algunos seres
+el único refugio de ustedes? Entonces participan en el pacto. Algunos seres
 
-quieren saber si son elegidos. No podramos responderles eso a menos que nos
+quieren saber si son elegidos. No podríamos responderles eso a menos que nos
 
-dijeran esto: Crees? Est fundada tu fe en la sangre preciosa? Entonces t
+dijeran esto: żCrees? żEstá fundada tu fe en la sangre preciosa? Entonces tú
 
-ests en el pacto. Y, oh, pobre pecador, si no tienes nada que te recomiende;
+estás en el pacto. Y, oh, pobre pecador, si no tienes nada que te recomiende;
 
-si te quedas atrs y dices: No me atrevo a venir! Tengo miedo! No estoy en
+si te quedas atrás y dices: “ˇNo me atrevo a venir! ˇTengo miedo! ˇNo estoy en
 
-el pacto!, Cristo todava te invita a que vengas. Venid a
+el pacto!”, Cristo todavía te invita a que vengas. “Venid a
 
-m,
+mí”,
 
-dice l. Si no puedes venir al
+dice Él. “Si no puedes venir al
 
 Padre del pacto, ven a
 
@@ -978,39 +978,39 @@ Fianza
 
 del pacto. Venid a
 
-m,
+mí,
 
-y yo os har descansar. Y cuando hayas venido a l, y Su sangre te haya
+y yo os haré descansar”. Y cuando hayas venido a Él, y Su sangre te haya
 
-sido aplicada, no dudes de que en el registro carmes de la eleccin est tu
+sido aplicada, no dudes de que en el registro carmesí de la elección esté tu
 
-nombre. Puedes leer tu nombre en los sangrientos caracteres de la expiacin de
+nombre. żPuedes leer tu nombre en los sangrientos caracteres de la expiación de
 
-un Salvador? Entonces lo leers un da en las letras de oro de la eleccin del
+un Salvador? ˇEntonces lo leerás un día en las letras de oro de la elección del
 
-Padre! El que cree es elegido. La sangre es el smbolo, la seal, la garanta,
+Padre! El que cree es elegido. La sangre es el símbolo, la seńal, la garantía,
 
 la fianza y el sello del pacto de la gracia para ti. Siempre ha de ser el
 
-telescopio a travs del cual t puedes mirar para ver las cosas que estn
+telescopio a través del cual tú puedes mirar para ver las cosas que están
 
-lejanas. T no puedes ver tu eleccin a simple vista, pero puedes verla
+lejanas. Tú no puedes ver tu elección a simple vista, pero puedes verla
 
-claramente a travs de la sangre de Cristo. Confa en la sangre, pobre pecador,
+claramente a través de la sangre de Cristo. Confía en la sangre, pobre pecador,
 
-y entonces la sangre del pacto eterno es una prueba de que t eres un heredero
+y entonces la sangre del pacto eterno es una prueba de que tú eres un heredero
 
 del cielo.
 
-Por ltimo, la sangre
+Por último, la sangre
 
-tiene una relacin
+tiene una relación
 
 con los tres,
 
 y
 
-aqu puedo agregar que
+aquí puedo agregar que
 
 la sangre es la
 
@@ -1018,23 +1018,23 @@ gloria de todos.
 
 Para el Hijo es el cumplimiento, para el Padre es la
 
-obligacin, para el pecador es la evidencia, y para todos, -para el Padre, el
+obligación, para el pecador es la evidencia, y para todos, -para el Padre, el
 
-Hijo y el pecador- es la comn gloria y la comn jactancia. En esto el Padre
+Hijo y el pecador- es la común gloria y la común jactancia. En esto el Padre
 
-tiene complacencia; en esto el Hijo tambin, con gozo, mira desde lo alto y ve
+tiene complacencia; en esto el Hijo también, con gozo, mira desde lo alto y ve
 
-la compra de Sus agonas; y en esto siempre ha de encontrar Su consuelo y Su
+la compra de Sus agonías; y en esto siempre ha de encontrar Su consuelo y Su
 
-cntico eterno: Jess, tu sangre y tu justicia son mi gloria y mi cntico
+cántico eterno: “ˇJesús, tu sangre y tu justicia son mi gloria y mi cántico
 
-eternamente y para siempre!
+eternamente y para siempre!”
 
 Y ahora, mis queridos
 
-oyentes, tengo que hacerles una pregunta, y habr concluido. Tienes ustedes la
+oyentes, tengo que hacerles una pregunta, y habré concluido. żTienes ustedes la
 
-esperanza de estar en el pacto? Han puesto su confianza en la sangre? Aunque, tal
+esperanza de estar en el pacto? żHan puesto su confianza en la sangre? Aunque, tal
 
 vez, con base en lo que he estado diciendo imaginen que el Evangelio es
 
@@ -1046,7 +1046,7 @@ buen anuncio y las buenas nuevas son tan amplios como el universo. Yo se los
 
 comunico a toda criatura bajo el cielo, porque se me ha dicho que lo haga. El
 
-secreto de Dios, que es tratar con la aplicacin, est restringido a los
+secreto de Dios, que es tratar con la aplicación, está restringido a los
 
 elegidos de Dios,
 
@@ -1054,79 +1054,79 @@ mas
 
 no el mensaje, pues este ha de
 
-ser proclamado a todas las naciones. T has odo el Evangelio en repetidas
+ser proclamado a todas las naciones. Tú has oído el Evangelio en repetidas
 
-ocasiones en tu vida. Dice as: Palabra fiel y digna de ser recibida por
+ocasiones en tu vida. Dice así: “Palabra fiel y digna de ser recibida por
 
-todos: que Cristo Jess vino al mundo para salvar a los pecadores. Crees eso?
+todos: que Cristo Jesús vino al mundo para salvar a los pecadores”. żCrees eso?
 
-Y he aqu tu esperanza, que es algo semejante a esto: yo soy un pecador. Yo
+Y he aquí tu esperanza, que es algo semejante a esto: “yo soy un pecador. Yo
 
-confo que Cristo muri por m; yo pongo mi confianza en el mrito de Su
+confío que Cristo murió por mí; yo pongo mi confianza en el mérito de Su
 
 sangre, y ya sea que me hunda o que nade, no tengo ninguna otra esperanza
 
-excepto sta.
+excepto ésta”.
 
-Nada en mi mano traigo,
+“Nada en mi mano traigo,
 
-Simplemente a Tu cruz me aferro.
+Simplemente a Tu cruz me aferro”.
 
-T lo has odo; lo has
+Tú lo has oído; żlo has
 
-recibido en tu corazn, y te has aferrado a l? Entonces t eres alguien
+recibido en tu corazón, y te has aferrado a él? Entonces tú eres alguien
 
-contemplado por el pacto. Y por qu te habra de amedrentar la eleccin? Si t
+contemplado por el pacto. żY por qué te habría de amedrentar la elección? Si tú
 
-has elegido a Cristo, puedes estar seguro de que l te eligi. Si tus ojos
+has elegido a Cristo, puedes estar seguro de que Él te eligió. Si tus ojos
 
-llorosos lo estn mirando a l, entonces Sus ojos omniscientes te han mirado
+llorosos lo están mirando a Él, entonces Sus ojos omniscientes te han mirado
 
-por largo tiempo; si tu corazn lo ama, Su corazn te ama ms de lo que t
+por largo tiempo; si tu corazón lo ama, Su corazón te ama más de lo que tú
 
-podras amarlo jams, y si ests diciendo ahora: Padre mo, T sers el gua
+podrías amarlo jamás, y si estás diciendo ahora: “Padre mío, Tú serás el guía
 
-de mi juventud, te voy a decir un secreto: l ha sido tu gua, y te ha
+de mi juventud”, te voy a decir un secreto: Él ha sido tu guía, y te ha
 
-conducido a ser lo que eres ahora, un humilde buscador, y l ser tu gua y te
+conducido a ser lo que eres ahora, un humilde buscador, y Él será tu guía y te
 
-conducir seguro al final.
+conducirá seguro al final.
 
-Pero, eres un ser
+Pero, żeres un ser
 
-altivo, jactancioso, promotor del libre albedro, que dices: voy a arrepentirme
+altivo, jactancioso, promotor del libre albedrío, que dices: “voy a arrepentirme
 
 y voy a creer siempre y cuando yo lo elija; tengo tanto derecho a ser salvado
 
-como cualquier otro, pues cumplo con mi deber tan bien como los dems, y sin
+como cualquier otro, pues cumplo con mi deber tan bien como los demás, y sin
 
-duda voy a recibir mi recompensa? Si ests reclamando una expiacin universal,
+duda voy a recibir mi recompensa”? Si estás reclamando una expiación universal,
 
-que ha de ser recibida a opcin de la voluntad del hombre, anda y reclmala, y
+que ha de ser recibida a opción de la voluntad del hombre, anda y reclámala, y
 
-te vers frustrado en tu reclamo. Descubrirs que Dios no tratar contigo sobre
+te verás frustrado en tu reclamo. Descubrirás que Dios no tratará contigo sobre
 
-esa base del todo, sino que te dir: Vete de aqu, pues nunca te he conocido.
+esa base del todo, sino que te dirá: “Vete de aquí, pues nunca te he conocido.
 
-El que no venga a m a travs del Hijo no viene del todo. Yo creo que el
+El que no venga a mí a través del Hijo no viene del todo”. Yo creo que el
 
-hombre que no est dispuesto a someterse a al amor electivo y a la gracia
+hombre que no esté dispuesto a someterse a al amor electivo y a la gracia
 
 soberana de Dios, tiene un gran motivo para cuestionarse si es en verdad un
 
-cristiano, pues el espritu que da coces contra eso es el espritu del demonio
+cristiano, pues el espíritu que da coces contra eso es el espíritu del demonio
 
-y es el espritu del corazn que no ha sido humillado, que no ha sido renovado.
+y es el espíritu del corazón que no ha sido humillado, que no ha sido renovado.
 
-Que Dios suprima de tu corazn la enemistad hacia Su propia verdad preciosa, y
+Que Dios suprima de tu corazón la enemistad hacia Su propia verdad preciosa, y
 
-te reconcilie con ella y luego te reconcilie con l mismo por medio de
+te reconcilie con ella y luego te reconcilie con Él mismo por medio de
 
 LA SANGRE
 
 de Su Hijo, que es
 
-la garanta y el sello del pacto eterno.
+la garantía y el sello del pacto eterno.
 
 Nota del traductor:
 
@@ -1134,9 +1134,9 @@ Nota del traductor:
 
 arquitectura, es la piedra con que se cierra por la parte superior un arco o
 
-una bveda.
+una bóveda.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 22/Febrero/2012
 

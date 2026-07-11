@@ -1,14 +1,14 @@
-# Sermón 964 | El Plpito Del Tabernculo Metropolitanola Esencia Del Evangelio
+# Sermón 964 | El Púlpito Del Tabernáculo Metropolitanola Esencia Del Evangelio
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 La Esencia del Evangelio
 
 NO. 964
 
-Sermn predicado el Domingo
+Sermón predicado el Domingo
 
-En el Tabernculo Metropolitano, Newington
+En el Tabernáculo Metropolitano, Newington
 
 "" -- Juan 3:18
 

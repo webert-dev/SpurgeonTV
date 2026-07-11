@@ -1,6 +1,6 @@
 # Sermón 846 | Sermón 846
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
@@ -8,33 +8,33 @@ Suculentos Manjares de Navidad
 
 NO. 846
 
-SERMN
+SERMÓN
 
-PREDICADO LA MAANA DEL DOMINGO 20 DE DICIEMBRE, 1868
+PREDICADO LA MAŃANA DEL DOMINGO 20 DE DICIEMBRE, 1868
 
 POR CHALES HADDON SPURGEON
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES.
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES.
 
-Y Jehov de los ejrcitos har en este monte a todos los
+“Y Jehová de los ejércitos hará en este monte a todos los
 
 pueblos banquete de manjares suculentos, banquete de vinos refinados, de
 
-gruesos tutanos y de vinos purificados. Isaas 25: 6.
+gruesos tuétanos y de vinos purificados.” Isaías 25: 6.
 
-Y el SEOR de los ejrcitos preparar en este monte para
+“Y el SEŃOR de los ejércitos preparará en este monte para
 
 todos los pueblos un banquete de manjares suculentos, un banquete de vino
 
-aejo, pedazos escogidos con tutano, y vino aejo refinado. Isaas 25: 6. La
+ańejo, pedazos escogidos con tuétano, y vino ańejo refinado.” Isaías 25: 6. La
 
-Biblia de las Amricas.
+Biblia de las Américas.
 
 Casi hemos arribado a la grandiosa
 
-estacin festiva del ao. El da de Navidad encontraremos a todo el mundo en
+estación festiva del ańo. El día de Navidad encontraremos a todo el mundo en
 
 Inglaterra disfrutando
 
@@ -44,83 +44,83 @@ todos los manjares
 
 suculentos que puedan permitirse. Siervos de Dios, ustedes a quienes
 
-corresponde la mayor porcin en la persona de Aquel nacido en Beln, yo los
+corresponde la mayor porción en la persona de Aquel nacido en Belén, yo los
 
-invito a la ms refinada cena de Navidad que ofrece manjares supremamente suculentos
+invito a la más refinada cena de Navidad que ofrece manjares supremamente suculentos
 
-que hacen crujir de abundancia la mesa: pan del cielo, viandas para su espritu.
+que hacen crujir de abundancia la mesa: pan del cielo, viandas para su espíritu.
 
-He aqu, cun ricas y abundantes son las provisiones que Dios ha preparado
+ˇHe aquí, cuán ricas y abundantes son las provisiones que Dios ha preparado
 
-para la festividad excelsa que desea que Sus siervos celebren, no slo de vez
+para la festividad excelsa que desea que Sus siervos celebren, no sólo de vez
 
-en cuando, sino todos los das de su vida!
+en cuando, sino todos los días de su vida!
 
-Dios, en el versculo que estamos
+Dios, en el versículo que estamos
 
 considerando, se ha agradado en describir las provisiones del Evangelio de
 
 Jesucristo. Aunque se han sugerido muchas otras interpretaciones para este
 
-versculo, todas ellas son desabridas y rancias, y completamente indignas de expresiones
+versículo, todas ellas son desabridas y rancias, y completamente indignas de expresiones
 
 tales como las que tenemos ante nosotros. Cuando contemplamos la persona de
 
-nuestro Seor Jesucristo, cuya carne es verdadera comida y cuya sangre es
+nuestro Seńor Jesucristo, cuya carne es verdadera comida y cuya sangre es
 
 verdadera bebida, cuando le vemos ofrecido en el monte escogido, entonces
 
 descubrimos una plenitud de significado en estas palabras de gracia de sagrada
 
-hospitalidad: el Seor har banquete de manjares suculentos, de pedazos
+hospitalidad: “el Seńor hará banquete de manjares suculentos, de pedazos
 
-escogidos con tutano. Al propio Seor le gustaba describir Su Evangelio bajo
+escogidos con tuétano.” Al propio Seńor le gustaba describir Su Evangelio bajo
 
-la mismsima imagen que es empleada aqu. l habl de la cena de bodas del rey
+la mismísima imagen que es empleada aquí. Él habló de la cena de bodas del rey
 
-que dijo: Mis toros y animales engordados han sido muertos, y todo est
+que dijo: “Mis toros y animales engordados han sido muertos, y todo está
 
-dispuesto; y parecera que ni siquiera hubiera podido completar la belleza de
+dispuesto”; y parecería que ni siquiera hubiera podido completar la belleza de
 
-la parbola del hijo prdigo sin aadir: traed el becerro gordo y matadlo, y
+la parábola del hijo pródigo sin ańadir: ‘traed el becerro gordo y matadlo, y
 
-comamos y hagamos fiesta. As como una festividad en la tierra es mirada con
+comamos y hagamos fiesta’. Así como una festividad en la tierra es mirada con
 
-anhelo y recordada como un oasis en medio del desierto del tiempo, as el
+anhelo y recordada como un oasis en medio del desierto del tiempo, así el
 
-Evangelio de Jesucristo es para el alma su dulce liberacin de la servidumbre y
+Evangelio de Jesucristo es para el alma su dulce liberación de la servidumbre y
 
-la angustia, y es su jbilo y su alegra. Tenemos la intencin de hablar esta
+la angustia, y es su júbilo y su alegría. Tenemos la intención de hablar esta
 
-maana sobre este tema, esperando recibir la ayuda del grandioso Seor de la
+mańana sobre este tema, esperando recibir la ayuda del grandioso Seńor de la
 
 fiesta.
 
-Nuestro primer encabezado ser
+Nuestro primer encabezado será
 
 el banquete;
 
-el segundo ser
+el segundo será
 
-el saln del banquete:
+el salón del banquete:
 
-en este monte;
+“en este monte”;
 
-el tercero ser
+el tercero será
 
-el Anfitrin:
+el Anfitrión:
 
-El
+“El
 
-Seor de los ejrcitos preparar en este monte para todos los pueblos banquete;
+Seńor de los ejércitos preparará en este monte para todos los pueblos banquete;
 
-y el cuarto ser
+y el cuarto será
 
 los invitados:
 
-invitar
+invitará
 
-a todos los pueblos.
+“a todos los pueblos”.
 
 I.
 
@@ -128,19 +128,19 @@ Primero, entonces, hemos de considerar EL
 
 BANQUETE.
 
-Es descrito como constituido por las ms
+Es descrito como constituido por las más
 
-excelentes viandas, es ms, como lo mejor de lo mejor. Son manjares suculentos,
+excelentes viandas, es más, como lo mejor de lo mejor. Son manjares suculentos,
 
-pero son tambin pedazos escogidos con tutano. Abundan los vinos ms
+pero son también pedazos escogidos con tuétano. Abundan los vinos más
 
 deliciosos y vigorizantes, vinos refinados que retienen su aroma, su fuerza y
 
-su sabor; pero estos vinos son sumamente aejos y exticos, habiendo sido
+su sabor; pero estos vinos son sumamente ańejos y exóticos, habiendo sido
 
 criados para que alcanzaran un gran refinamiento, por la larga espera y por
 
-haber sido purificados, enriquecidos, y procesados para que alcanzaran el ms
+haber sido purificados, enriquecidos, y procesados para que alcanzaran el más
 
 alto grado de lustre y de excelencia. En el Evangelio, Dios ha provisto lo
 
@@ -154,33 +154,33 @@ y
 
 observemos que se trata de manjares suculentos, y de pedazos escogidos con
 
-tutano.
+tuétano.
 
 Una de las primeras bendiciones del
 
 Evangelio es
 
-la completa justificacin.
+la completa justificación.
 
 Aunque
 
-culpable en s, al pecador le son perdonados sus pecados tan pronto cree en
+culpable en sí, al pecador le son perdonados sus pecados tan pronto cree en
 
-Jess. La justicia de Cristo se convierte en su justicia, y es acepto en el
+Jesús. La justicia de Cristo se convierte en su justicia, y es acepto en el
 
-Amado. Ahora, este es, en verdad, un exquisito platillo. Aqu hay algo que
+Amado. Ahora, este es, en verdad, un exquisito platillo. Aquí hay algo que
 
-puede nutrir el alma. Pensar que yo, aunque sea un ser profundamente culpable,
+puede nutrir el alma. ˇPensar que yo, aunque sea un ser profundamente culpable,
 
 soy absuelto por Dios y liberado de la servidumbre de la ley! Pensar que yo,
 
 aunque antes era un heredero de la ira, ahora sea tan acepto delante de Dios
 
-como lo fue Adn cuando caminaba sin ningn pecado en el huerto; es ms, ms
+como lo fue Adán cuando caminaba sin ningún pecado en el huerto; es más, más
 
-acepto an, pues la divina justicia de Cristo me pertenece, y estoy completo
+acepto aún, pues la divina justicia de Cristo me pertenece, ˇy estoy completo
 
-en l, amado en el Amado, y acepto tambin en l!
+en Él, amado en el Amado, y acepto también en Él!
 
 Amados, esta es una verdad tan preciosa
 
@@ -190,359 +190,363 @@ calma profunda y celestial, que no puede ser encontrada en ninguna otra parte
 
 sobre la faz la tierra. Esta es una especie de miel que nunca empalaga: recibir
 
-dentro de ti la garanta proveniente tanto de la palabra de Dios como del
+dentro de ti la garantía proveniente tanto de la palabra de Dios como del
 
-testimonio del Espritu Santo, que has sido reconciliado y aceptado por medio
+testimonio del Espíritu Santo, que has sido reconciliado y aceptado por medio
 
 de la sangre y la justicia de Jesucristo. Esta es una misericordia
 
-especialsima. Este es, en verdad, un manjar suculento. Pero esto no es todo,
+especialísima. Este es, en verdad, un manjar suculento. Pero esto no es todo,
 
-pues se trata de pedazos escogidos con tutano. Cuando profundizas hasta el
+pues se trata de pedazos escogidos con tuétano. Cuando profundizas hasta el
 
-alma y el corazn de este asunto, encuentras en l una melosidad intrnseca que
+alma y el corazón de este asunto, encuentras en él una melosidad intrínseca que
 
 trasciende en riqueza, pues nos hace recordar que esta justicia, esta
 
-aceptacin y esta justificacin se vuelven nuestras de una manera perfectamente
+aceptación y esta justificación se vuelven nuestras de una manera perfectamente
 
-legal, que es algo contra lo cual el propio Satans no puede proporcionar a
+legal, que es algo contra lo cual el propio Satanás no puede proporcionar a
 
-nadie que presente objecin alguna, pues nuestro Sustituto ha pagado nuestra deuda,
+nadie que presente objeción alguna, pues nuestro Sustituto ha pagado nuestra deuda,
 
 por lo que somos absueltos justamente. Cristo ha cumplido la ley, y la ha
 
-honrado por nosotros; por eso somos justamente aceptados y amados. Aqu
+honrado por nosotros; por eso somos justamente aceptados y amados. Aquí
 
-encontramos, ciertamente, pedazos escogidos con tutano, cuando percibimos la
+encontramos, ciertamente, pedazos escogidos con tuétano, cuando percibimos la
 
-verdad y la realidad de la sustitucin de Jess, y captamos con el corazn y
+verdad y la realidad de la sustitución de Jesús, y captamos con el corazón y
 
-con el alma el hecho de que nuestro Sustituto se pone en nuestra posicin ante
+con el alma el hecho de que nuestro Sustituto se pone en nuestra posición ante
 
 el tribunal de justicia, para que nos podamos poner en Su sitio en el lugar de
 
 honor y de amor.
 
-Cun grande bienaventuranza es clamar con
+Cuán grande bienaventuranza es clamar con
 
-el apstol: Quin acusar a los escogidos de Dios? Dios es el que justifica.
+el apóstol: “żQuién acusará a los escogidos de Dios? Dios es el que justifica.
 
-Quin es el que condenar? Cristo es el que muri; ms aun, el que tambin
+żQuién es el que condenará? Cristo es el que murió; más aun, el que también
 
-resucit, el que adems est a la diestra de Dios, el que tambin intercede por
+resucitó, el que además está a la diestra de Dios, el que también intercede por
 
-nosotros. Acrquense, todos aquellos cuyos gustos espirituales son purificados
+nosotros.” Acérquense, todos aquellos cuyos gustos espirituales son purificados
 
-por la gracia, y alimntense de esta selecta provisin, dulce ms que miel, y
+por la gracia, y aliméntense de esta selecta provisión, ‘dulce más que miel, y
 
-que la que destila del panal.
+que la que destila del panal’.
 
-Meditemos sobre una segunda bendicin del
+Meditemos sobre una segunda bendición del
 
 pacto de gracia, es decir, sobre
 
 la
 
-adopcin.
+adopción.
 
-Nos es claramente revelado que todos los que han credo en Cristo
+Nos es claramente revelado que todos los que han creído en Cristo
 
-Jess para salvacin de sus almas, son hijos de Dios. Amados, ahora somos
+Jesús para salvación de sus almas, son hijos de Dios. “Amados, ahora somos
 
-hijos de Dios. Aqu, en verdad, hay un manjar suculento. Cmo!, acaso un
+hijos de Dios.” Aquí, en verdad, hay un manjar suculento. ˇCómo!, żacaso un
 
-gusano del polvo se convierte en un hijo de Dios? Acaso un rebelde es adoptado
+gusano del polvo se convierte en un hijo de Dios? żAcaso un rebelde es adoptado
 
-en la familia celestial? Acaso un criminal condenado no solamente es
+en la familia celestial? żAcaso un criminal condenado no solamente es
 
-perdonado, sino hecho, en realidad, un hijo de Dios? Prodigio de prodigios! Mirad
+perdonado, sino hecho, en realidad, un hijo de Dios? ˇProdigio de prodigios! “ˇMirad
 
-cul amor nos ha dado el Padre, para que seamos llamados hijos de Dios! A
+cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios!” żA
 
-cules de los reyes o de los prncipes de esta tierra dijo Dios alguna vez: Mi
+cuáles de los reyes o de los príncipes de esta tierra dijo Dios alguna vez: “Mi
 
-Hijo eres t? No les ha hablado as a los grandes ni a los poderosos, sino que
+Hijo eres tú”? No les ha hablado así a los grandes ni a los poderosos, sino que
 
-Dios ha escogido a lo vil del mundo y lo menospreciado, s, y lo que no es,
+Dios ha escogido a lo vil del mundo y lo menospreciado, sí, y lo que no es,
 
 para hacer que fueran de la simiente real. Los sabios y los prudentes son
 
-pasados por alto, pero los bebs reciben la revelacin de Su amor.
+pasados por alto, pero los bebés reciben la revelación de Su amor.
 
-Seor, por qu se me concede esto a m?
+Seńor, żpor qué se me concede esto a mí?
 
-Quin soy yo, y qu es la casa de mi padre, para que hables de hacerme Tu
+żQuién soy yo, y qué es la casa de mi padre, para que hables de hacerme Tu
 
-hijo? Este glorioso manjar suculento contiene tambin pedazos escogidos con
+hijo? Este glorioso manjar suculento contiene también pedazos escogidos con
 
-tutano. Hay una riqueza interna en la adopcin, pues, Si hijos, tambin
+tuétano. Hay una riqueza interna en la adopción, pues, “Si hijos, también
 
 herederos; herederos de Dios y coherederos con Cristo, si es que padecemos
 
-juntamente con l, para que juntamente con l seamos glorificados. Bien hace
+juntamente con él, para que juntamente con él seamos glorificados.” Bien hace
 
-el apstol en recordarnos que si hijos, tambin herederos, pues as se nos
+el apóstol en recordarnos que si hijos, también herederos, pues así se nos
 
-garantiza nuestra bendita herencia. Todo es vuestro: sea Pablo, sea Apolos,
+garantiza nuestra bendita herencia. “Todo es vuestro: sea Pablo, sea Apolos,
 
 sea Cefas, sea el mundo, sea la vida, sea la muerte, sea lo presente, sea lo
 
-porvenir, todo es vuestro, y vosotros de Cristo, y Cristo de Dios. El que no
+porvenir, todo es vuestro, y vosotros de Cristo, y Cristo de Dios”. “El que no
 
-escatim ni a su propio Hijo, sino que lo entreg por todos nosotros, cmo no
+escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, żcómo no
 
-nos dar tambin con l todas las cosas? Aqu encontramos exquisiteces reales
+nos dará también con él todas las cosas?” Aquí encontramos exquisiteces reales
 
-de las que la Palabra ha dicho con toda verdad: Sern completamente saciados
+de las que la Palabra ha dicho con toda verdad: “Serán completamente saciados
 
-de la grosura de tu casa.
+de la grosura de tu casa.”
 
-Dejando atrs el tema de la bendicin de
+Dejando atrás el tema de la bendición de
 
-la adopcin, recordemos que cada hijo de Dios es objeto de amor eterno sin
+la adopción, recordemos que cada hijo de Dios es objeto de amor eterno sin
 
-principio y sin final. Este es uno de los pedazos escogidos con tutano. Es
+principio y sin final. Este es uno de los pedazos escogidos con tuétano. żEs
 
-cierto que yo, un creyente en Jess, indigno como soy, soy objeto del amor
+cierto que yo, un creyente en Jesús, indigno como soy, soy objeto del amor
 
-eterno de Dios? Qu arrobamiento est contenido en este pensamiento! Mucho
+eterno de Dios? ˇQué arrobamiento está contenido en este pensamiento! Mucho
 
-antes de que el Seor comenzara a crear el mundo, ya haba pensado en m. Mucho
+antes de que el Seńor comenzara a crear el mundo, ya había pensado en mí. Mucho
 
-antes de que Adn cayera o que Cristo naciera, y antes que los ngeles cantaran
+antes de que Adán cayera o que Cristo naciera, y antes que los ángeles cantaran
 
-su primer coral motivados por el milagro de Beln, la mirada y el corazn de
+su primer coral motivados por el milagro de Belén, la mirada y el corazón de
 
-Dios estaban fijos en Su pueblo elegido. l nunca
+Dios estaban fijos en Su pueblo elegido. Él nunca
 
-comenz
+comenzó
 
-a amarlos, ya que siempre fueron el pueblo a l cercano.
+a amarlos, ya que siempre fueron “el pueblo a él cercano”.
 
-No est escrito, Con amor eterno te he amado; por tanto, te prolongu mi
+żNo está escrito, “Con amor eterno te he amado; por tanto, te prolongué mi
 
-misericordia? Algunos dan coces contra la doctrina de la eleccin, pero lo
+misericordia”? Algunos dan coces contra la doctrina de la elección, pero lo
 
-hacen por estar mal aconsejados, pues laboran para voltear uno de los ms
+hacen por estar mal aconsejados, pues laboran para voltear uno de los más
 
-nobles platillos del banquete; quieren tapar uno de los ms frescos arroyos que
+nobles platillos del banquete; quieren tapar uno de los más frescos arroyos que
 
-fluyen del Lbano; quieren cubrir de basura una de las vetas ms ricas del
+fluyen del Líbano; quieren cubrir de basura una de las vetas más ricas del
 
 mineral de oro que enriquece al pueblo de Dios. Pues esta doctrina de un amor que
 
-no tiene comienzo, es el mejor vino de nuestro Amado, que se entra a mi amado
+no tiene comienzo, es el mejor vino de nuestro Amado, que “se entra a mi amado
 
-suavemente, y hace hablar los labios de los viejos. Cun jubilosamente se
+suavemente, y hace hablar los labios de los viejos”. ˇCuán jubilosamente se
 
-alegra y salta de puro gozo el corazn cuando esta verdad es aclarada por el
+alegra y salta de puro gozo el corazón cuando esta verdad es aclarada por el
 
-testimonio del Espritu de Dios! Entonces el alma es saciada de favores, y
+testimonio del Espíritu de Dios! Entonces el alma es saciada de favores, y
 
-llenada con la bendicin del Seor.
+llenada con la bendición del Seńor.
 
 Igualmente deleitable es la
 
-correspondiente reflexin de que este amor que no tuvo principio no tendr
+correspondiente reflexión de que este amor que no tuvo principio no tendrá
 
-tampoco fin. Dios no cambia. Irrevocables son los dones y el llamamiento de Dios.
+tampoco fin. Dios no cambia. “Irrevocables son los dones y el llamamiento de Dios”.
 
-Una vez que l pone Su corazn de amor en un hombre, no deja nunca de hacerle
+Una vez que Él pone Su corazón de amor en un hombre, no deja nunca de hacerle
 
-bien. l dice por boca de Su siervo el profeta que odia repudiar. Aunque pecamos
+bien. Él dice por boca de Su siervo el profeta que odia repudiar. Aunque pecamos
 
-contra l con frecuencia y le provocamos a celos, an as, como las aguas de
+contra Él con frecuencia y le provocamos a celos, aún así, como las aguas de
 
-No as es Su pacto para con nosotros; pues, como las aguas de No no volvern
+Noé así es Su pacto para con nosotros; pues, como las aguas de Noé no volverán
 
-a cubrir la tierra, de igual manera l jura que no estar airado contra
+a cubrir la tierra, de igual manera Él jura que no estará airado contra
 
-nosotros ni nos censurar. Los montes se movern, y los collados temblarn,
+nosotros ni nos censurará. “Los montes se moverán, y los collados temblarán,
 
-pero no se apartar de ti mi misericordia, ni el pacto de mi paz se
+pero no se apartará de ti mi misericordia, ni el pacto de mi paz se
 
-quebrantar, dijo Jehov, el que tiene misericordia de ti. Porque yo Jehov
+quebrantará, dijo Jehová, el que tiene misericordia de ti.” “Porque yo Jehová
 
-no cambio; por esto, hijos de Jacob, no habis sido consumidos. Se olvidar
+no cambio; por esto, hijos de Jacob, no habéis sido consumidos.” “żSe olvidará
 
 la mujer de lo que dio a luz, para dejar de compadecerse del hijo de su
 
-vientre? Aunque olvide ella, yo nunca me olvidar de ti. Vamos, amados, en
+vientre? Aunque olvide ella, yo nunca me olvidaré de ti.” Vamos, amados, en
 
-verdad, esto es un manjar suculento; y puedo aadir que contiene pedazos
+verdad, esto es un manjar suculento; y puedo ańadir que contiene pedazos
 
-escogidos con tutano si recuerdan que no simplemente ha pensado el Seor en
+escogidos con tuétano si recuerdan que no simplemente ha pensado el Seńor en
 
 ustedes desde la eternidad, sino que los
 
-am
+amó
 
 desde entonces.
 
-Oh, la profundidad de esa palabra:
+ˇOh, la profundidad de esa palabra:
 
-amor, cuando es aplicada al infinito Jehov, cuyo nombre, cuya esencia, cuya
+“amor”, cuando es aplicada al infinito Jehová, cuyo nombre, cuya esencia, cuya
 
-naturaleza es amor! l les ha amado con toda la inmutable intensidad de Su
+naturaleza es amor! ˇÉl les ha amado con toda la inmutable intensidad de Su
 
-corazn, nunca ms y nunca menos; les ha amado tanto que les entreg a Su
+corazón, nunca más y nunca menos; les ha amado tanto que les entregó a Su
 
-unignito Hijo; les am tanto que nada podra contentarle sino hacer que sean
+unigénito Hijo; les amó tanto que nada podría contentarle sino hacer que sean
 
 conformados a la imagen de Su amado Hijo, y hacer que participen de Su gloria
 
-para que puedan estar con l donde l est! Vengan, ntranse de esto, ustedes
+para que puedan estar con Él donde Él está! Vengan, nútranse de esto, ustedes
 
-que son herederos de la vida eterna, pues aqu hay pedazos escogidos con
+que son herederos de la vida eterna, pues aquí hay pedazos escogidos con
 
-tutano.
+tuétano.
 
-Amados, no habramos completado esta
+Amados, no habríamos completado esta
 
-lista si omitiramos una preciosa doctrina que necesita, tal vez, un refinado
+lista si omitiéramos una preciosa doctrina que necesita, tal vez, un refinado
 
 gusto, pero que, una vez que el hombre ha aprendido a alimentarse de ella, le
 
 parece que es lo mejor de todo: quiero decir, la grandiosa verdad de
 
-la unin con Cristo.
+la unión con Cristo.
 
 La palabra de Dios
 
-nos ensea claramente que todos los que han credo, son uno con Cristo: estn
+nos enseńa claramente que todos los que han creído, son uno con Cristo: están
 
-casados con l, hay una unin conyugal basada en un afecto mutuo. La unin es
+casados con Él, hay una unión conyugal basada en un afecto mutuo. La unión es
 
-ms ntima an, pues hay una unin vital entre Cristo y Sus santos. Los santos
+más íntima aún, pues hay una unión vital entre Cristo y Sus santos. Los santos
 
-estn en l como los pmpanos estn en la vid; ellos son miembros del cuerpo
+están en Él como los pámpanos están en la vid; ellos son miembros del cuerpo
 
-del cual l es la cabeza. Ellos son uno con Jess en
+del cual Él es la cabeza. Ellos son uno con Jesús en
 
 un
 
-sentido tan real y verdadero, que con l mueren y con l son enterrados, con l
+sentido tan real y verdadero, que con Él mueren y con Él son enterrados, con Él
 
-son resucitados y con l son levantados juntamente y sentados
+son resucitados y con Él son levantados juntamente y sentados
 
 en los
 
-lugares celestiales. Hay una unin indisoluble entre Cristo y todo Su pueblo: Yo
+lugares celestiales. Hay una unión indisoluble entre Cristo y todo Su pueblo: “Yo
 
-en ellos y ellos en m. La unin podra ser descrita as: Cristo es en Su
+en ellos y ellos en mí”. La unión podría ser descrita así: Cristo es en Su
 
-pueblo la esperanza de gloria, y ellos estn muertos y su vida est escondida
+pueblo la esperanza de gloria, y ellos están muertos y su vida está escondida
 
-en Cristo. Esta es una unin del tipo ms prodigioso, y el lenguaje slo puede
+en Cristo. Esta es una unión del tipo más prodigioso, y el lenguaje sólo puede
 
-exponer sus imgenes muy dbilmente pero es incapaz de explicarla por completo.
+exponer sus imágenes muy débilmente pero es incapaz de explicarla por completo.
 
-La unidad con Jess es uno de los pedazos escogidos con tutano. Pues si, en
+La unidad con Jesús es uno de los pedazos escogidos con tuétano. Pues si, en
 
-verdad, somos uno con Cristo, entonces porque l vive nosotros debemos vivir;
+verdad, somos uno con Cristo, entonces porque Él vive nosotros debemos vivir;
 
-porque l fue castigado por el pecado, nosotros tambin hemos soportado la ira
+porque Él fue castigado por el pecado, nosotros también hemos soportado la ira
 
-de Dios en l; porque l fue justificado por Su resurreccin, nosotros tambin
+de Dios en Él; porque Él fue justificado por Su resurrección, nosotros también
 
-somos justificados en l; porque l es recompensado y se sienta para siempre a
+somos justificados en Él; porque Él es recompensado y se sienta para siempre a
 
-la diestra de Su Padre, nosotros tambin hemos obtenido la herencia en l y por
+la diestra de Su Padre, nosotros también hemos obtenido la herencia en Él y por
 
-fe la asimos ahora, y gozamos de su seal.
+fe la asimos ahora, y gozamos de su seńal.
 
-Oh, podra ser que esta cabeza que se
+Oh, żpodría ser que esta cabeza que se
 
-duele tenga ya un derecho a una corona celestial? Es posible que este corazn
+duele tenga ya un derecho a una corona celestial? żEs posible que este corazón
 
-palpitante tenga un derecho al reposo que resta para el pueblo de Dios? Es
+palpitante tenga un derecho al reposo que resta para el pueblo de Dios? żEs
 
-posible que estos pies cansados tengan un ttulo para pisar los salones
+posible que estos pies cansados tengan un título para pisar los salones
 
-sagrados de la Nueva Jerusaln? As es, pues si somos uno con Cristo, entonces,
+sagrados de la Nueva Jerusalén? Así es, pues si somos uno con Cristo, entonces,
 
-todo lo que l tiene nos pertenece, y es slo asunto de tiempo y de un designio
+todo lo que Él tiene nos pertenece, y es sólo asunto de tiempo y de un designio
 
 de la gracia para que lleguemos a su pleno gozo. En verdad, meditando sobre
 
-este tpico, cada uno de nosotros puede exclamar: Como de meollo y de grosura
+este tópico, cada uno de nosotros puede exclamar: “Como de meollo y de grosura
 
-ser saciada mi alma, y con labios de jbilo te alabar mi boca.
+será saciada mi alma, y con labios de júbilo te alabará mi boca”.
 
 Yo no puedo exponer todas las viandas del
 
-banquete de mi Seor; un mesero no basta para llevar ante ustedes todas las
+banquete de mi Seńor; un mesero no basta para llevar ante ustedes todas las
 
-exquisiteces de un festn sin par; pero quisiera recordarles una ms, que es la
+exquisiteces de un festín sin par; pero quisiera recordarles una más, que es la
 
 doctrina de
 
-la resurreccin y la vida
+la resurrección y la vida
 
 eterna.
 
-Este pobre mundo adivin confusamente la inmortalidad del alma,
+Este pobre mundo adivinó confusamente la inmortalidad del alma,
 
-pero no supo nada de la resurreccin del cuerpo: el Evangelio de Jess ha
+pero no supo nada de la resurrección del cuerpo: el Evangelio de Jesús ha
 
-trado la vida y la inmortalidad a la luz, y nos ha declarado acerca de Jess
+traído la vida y la inmortalidad a la luz, y nos ha declarado acerca de Jesús
 
-que, quien crea en l no morir jams. El que cree en m, aunque est muerto,
+que, quien crea en él no morirá jamás. “El que cree en mí, aunque esté muerto,
 
-vivir. Jess es la resurreccin y la vida. No solamente el alma, mas el
+vivirá”. Jesús es la resurrección y la vida. No solamente el alma, mas el
 
-cuerpo tambin participar de la inmortalidad, porque se tocar la trompeta, y
+cuerpo también participará de la inmortalidad, ‘porque se tocará la trompeta, y
 
-los muertos sern resucitados incorruptibles, y nosotros seremos
+los muertos serán resucitados incorruptibles, y nosotros seremos
 
-transformados. Esperamos morir, pero se nos asegura que viviremos de nuevo. Si
+transformados’. Esperamos morir, pero se nos asegura que viviremos de nuevo. Si
 
-el Seor no viene, sabemos que nuestros cuerpos vern la corrupcin; pero he
+el Seńor no viene, sabemos que nuestros cuerpos verán la corrupción; pero he
 
-aqu nuestro consuelo: no tememos la aniquilacin; esa oscura sombra no se
+aquí nuestro consuelo: no tememos la aniquilación; esa oscura sombra no se
 
-atraviesa nunca por nuestros espritus; no tememos ningn infierno, ningn
+atraviesa nunca por nuestros espíritus; no tememos ningún infierno, ningún
 
-purgatorio, ningn juicio: Cristo ha perfeccionado para siempre a quienes son
+purgatorio, ningún juicio: Cristo ha perfeccionado para siempre a quienes son
 
-apartados; nadie puede condenar a quien l absuelve. Los santos juzgarn a los
+apartados; nadie puede condenar a quien Él absuelve. Los santos juzgarán a los
 
-ngeles, y se sentarn con el Seor en el da del juicio final. Para nosotros
+ángeles, y se sentarán con el Seńor en el día del juicio final. Para nosotros
 
-la venida de Cristo ser un da de gozo y de regocijo: seremos arrebatados
+la venida de Cristo será un día de gozo y de regocijo: seremos arrebatados
 
-juntamente con l; Su reino ser nuestro reino, Su gloria nuestra gloria.
+juntamente con Él; Su reino será nuestro reino, Su gloria nuestra gloria.
 
 Por tal motivo han de consolarse unos a
 
 otros con estas palabras, y cuando vean a sus hermanos y a sus hermanas partir
 
-uno a uno de entre ustedes, no se aflijan como aquellos que estn sin
+uno a uno de entre ustedes, no se aflijan como aquellos que están sin
 
-esperanza, sino que han de decirse los unos a los otros: Ellos no estn
+esperanza, sino que han de decirse los unos a los otros: “Ellos no están
 
-perdidos, sino que han partido antes, pues, Bienaventurados de aqu en
+perdidos, sino que han partido antes”, pues, “Bienaventurados de aquí en
 
-adelante los muertos que mueren en el Seor. S, dice el Espritu, descansarn
+adelante los muertos que mueren en el Seńor. Sí, dice el Espíritu, descansarán
 
-de sus trabajos, porque sus obras con ellos siguen. Aqu hay un banquete de
+de sus trabajos, porque sus obras con ellos siguen.” Aquí hay un banquete de
 
-pedazos escogidos con tutano, pues la nuestra es una esperanza gloriosa y
+pedazos escogidos con tuétano, pues la nuestra es una esperanza gloriosa y
 
 plena de inmortalidad. Nuestra inmortalidad esperada no es la de la mera
 
-existencia, no es el estril privilegio de la vida sin bienaventuranza, de la existencia
+existencia, no es el estéril privilegio de la vida sin bienaventuranza, de la existencia
 
-sin felicidad: est llena de gloria; pues seremos semejantes a l, porque le
+sin felicidad: está llena de gloria; pues “seremos semejantes a él, porque le
 
-veremos tal como l es; estaremos con Dios, a cuya diestra hay plenitud de
+veremos tal como él es”; estaremos con Dios, a cuya diestra hay plenitud de
 
-gozo y dichas para siempre. Nos har beber del ro de Sus placeres; cantos y
+gozo y dichas para siempre. Nos hará beber del río de Sus placeres; cantos y
 
-dicha sempiterna estarn sobre nuestras cabezas, y la afliccin y el suspirar
+dicha sempiterna estarán sobre nuestras cabezas, y la aflicción y el suspirar
 
-se desvanecern.
+se desvanecerán.
+
+“
+
+ˇ
 
 Oh,
 
@@ -554,6 +558,8 @@ amor
 
 !
 
+ˇ
+
 La dicha sin fin de celebrar
 
 El banquete nupcial en lo
@@ -561,6 +567,8 @@ El banquete nupcial en lo
 alto
 
 !
+
+ˇ
 
 Oh, anhelo la hora
 
@@ -574,21 +582,21 @@ La esperanza de estar
 
 siempre
 
-En ese dulce lugar de encuentro.
+En ese dulce lugar de encuentro.”
 
-As he presentado ante ustedes unos
+Así he presentado ante ustedes unos
 
-cuantos pedazos escogidos con tutano que el Rey de reyes ha puesto delante de
+cuantos pedazos escogidos con tuétano que el Rey de reyes ha puesto delante de
 
 Sus invitados en el banquete de bodas de Su amor.
 
 Cambiando el curso del pensamiento, aunque
 
-adhirindonos al mismo tema, permtanme traer ante ustedes las copas de vino.
+adhiriéndonos al mismo tema, permítanme traer ante ustedes las copas de vino.
 
-Banquete de vino aejo y de vino aejo refinado. Consideraremos que estos
+“Banquete de vino ańejo… y de vino ańejo refinado.” Consideraremos que estos
 
-vinos simbolizan los gozos del Evangelio. Qu son estos vinos? Yo slo puedo
+vinos simbolizan los gozos del Evangelio. żQué son estos vinos? Yo sólo puedo
 
 hablar de aquellos que me ha sido permitidos catar.
 
@@ -600,59 +608,59 @@ un sentido de perfecta paz
 
 con Dios.
 
-Oh, yo les digo que cuando uno est quieto por un momento, y el
+Oh, yo les digo que cuando uno está quieto por un momento, y el
 
-estrpito y el alboroto del negocio estn fuera del alcance de nuestros odos,
+estrépito y el alboroto del negocio están fuera del alcance de nuestros oídos,
 
-es una de las cosas ms deliciosas del mundo meditar en Dios, y sentir que l
+es una de las cosas más deliciosas del mundo meditar en Dios, y sentir que Él
 
-no es un enemigo para m, y que yo no soy enemigo para l. Sentir en
+no es un enemigo para mí, y que yo no soy enemigo para Él. Sentir en
 
-contemplacin que le amo sobrepasa cualquier comparacin reconfortante. Si hay
+contemplación que le amo sobrepasa cualquier comparación reconfortante. Si hay
 
-algo que yo pudiera hacer para servirle, lo hara. Si hubiese cualquier
+algo que yo pudiera hacer para servirle, lo haría. Si hubiese cualquier
 
-sufrimiento que le honrara, si l me diera la fortaleza para encararlo,
+sufrimiento que le honrara, si Él me diera la fortaleza para encararlo,
 
-constituira mi felicidad, aunque me causara morir la muerte de un mrtir mil
+constituiría mi felicidad, aunque me causara morir la muerte de un mártir mil
 
-veces. Si slo pudiera honrar a mi Dios, y mi Amigo, todo sera aceptable para
+veces. Si sólo pudiera honrar a mi Dios, y mi Amigo, todo sería aceptable para
 
-m. No hay nada que se interponga entre el Seor y yo por va de diferencia o
+mí. No hay nada que se interponga entre el Seńor y yo por vía de diferencia o
 
-extraamiento; yo soy conducido muy cerca por medio de la sangre de Su amado
+extrańamiento; yo soy conducido muy cerca por medio de la sangre de Su amado
 
-unignito Hijo. l es mi Dios, mi Padre, y mi todo, y yo soy Su hijo. Algunos
+unigénito Hijo. Él es mi Dios, mi Padre, y mi todo, y yo soy Su hijo. Algunos
 
 de nosotros hemos intentado la felicidad imaginaria de la risa; nos hemos
 
 entremezclado con el aturdido tropel de gente, y hemos catado los vinos de la
 
-casa del jbilo carnal, pero nuestra honesta experiencia es que un solo sorbo
+casa del júbilo carnal, pero nuestra honesta experiencia es que un solo sorbo
 
-de la copa de la salvacin equivale a ros de regocijo mundano.
+de la copa de la salvación equivale a ríos de regocijo mundano.
 
-Slidos
+“Sólidos
 
 alborozos y placeres duraderos
 
-Slo son
+Sólo son
 
-conocidos por los hijos de Sion.
+conocidos por los hijos de Sion.”
 
-Un corazn tranquilo, que descansa en el
+Un corazón tranquilo, que descansa en el
 
-amor de Dios, que mora en perfecta paz, tiene una realeza vinculada a l que no
+amor de Dios, que mora en perfecta paz, tiene una realeza vinculada a él que no
 
 puede ser comparada ni por un instante con los goces pasajeros de este mundo.
 
 Nuestro gozo resplandece a veces con una
 
-luz ms refulgente, pero aun entonces no es menos puro y seguro. Pueden
+luz más refulgente, pero aun entonces no es menos puro y seguro. Pueden
 
-contemplar este vino cuando est rojo, cuando resplandece su color en la copa, cuando
+contemplar este vino cuando está rojo, cuando resplandece su color en la copa, cuando
 
-se entra suavemente, pues no hay dolor ni irritacin de ojos que est
+se entra suavemente, pues no hay dolor ni irritación de ojos que esté
 
 reservados para aquellos que beban de este vino sagrado incluso hasta la
 
@@ -662,103 +670,103 @@ un sentido de seguridad.
 
 Un hijo de Dios, cuando ha contemplado
 
-bien a su Redentor, y ha visto el mrito de la sangre preciosa y el poder de la
+bien a su Redentor, y ha visto el mérito de la sangre preciosa y el poder de la
 
-incesante intercesin, se siente seguro, perfectamente seguro. Yo no entiendo
+incesante intercesión, se siente seguro, perfectamente seguro. Yo no entiendo
 
 al hijo de Dios que lee su Biblia y a pesar de ello se encuentra temeroso de
 
 ser arrojado en el infierno. Puedo entender que el miedo atraviese su mente en
 
-cuanto a que, al final, despus de todo, resulte ser un desechado; pero
+cuanto a que, al final, después de todo, resulte ser un desechado; pero
 
-conforme se aproxima una vez ms al pie de la cruz, y mira a Jess, siento que
+conforme se aproxima una vez más al pie de la cruz, y mira a Jesús, siento que
 
-eso no puede ser. Nadie que estuvo al pie de la cruz ha sido desechado jams;
+eso no puede ser. Nadie que estuvo al pie de la cruz ha sido desechado jamás;
 
-pues est escrito, Al que a m viene, no le echo fuera. Un hijo de Dios que
+pues está escrito, “Al que a mí viene, no le echo fuera”. Un hijo de Dios que
 
 no tiene otra esperanza que la que encuentra en Cristo, no tiene motivo para
 
-pensar que su estado eterno sea inseguro. Todos los que estn en Cristo estn
+pensar que su estado eterno sea inseguro. Todos los que están en Cristo están
 
-seguros, as como todos los que estaban en el arca de No estaban seguros. Ningn
+seguros, así como todos los que estaban en el arca de Noé estaban seguros. Ningún
 
-diluvio, ninguna tormenta podra lastimar al hombre de quien se dijo: Jehov
+diluvio, ninguna tormenta podría lastimar al hombre de quien se dijo: “Jehová
 
-le cerr la puerta. El Seor le ha cerrado la puerta a todo Su pueblo en
+le cerró la puerta”. El Seńor le ha cerrado la puerta a todo Su pueblo en
 
-Cristo, y estn eternamente a salvo en Cristo. Cuando el espritu sabe que Ahora,
+Cristo, y están eternamente a salvo en Cristo. Cuando el espíritu sabe que “Ahora,
 
-pues, ninguna condenacin hay para los que estn en Cristo Jess, entonces se
+pues, ninguna condenación hay para los que están en Cristo Jesús”, entonces se
 
 ve henchido de deleite. Cuando uno siente que viva o muera, que trabaje o
 
-sufra, todo est bien, cun libre de cuidado est el corazn! Cun divinamente
+sufra, todo está bien, ˇcuán libre de cuidado está el corazón! Cuán divinamente
 
-gozoso es saber que si uno perdiese toda su riqueza terrenal, el Seor
+gozoso es saber que si uno perdiese toda su riqueza terrenal, el Seńor
 
-proveer; que si uno es tentado, tentado grandemente, con la tentacin ser
+proveerá; que si uno es tentado, tentado grandemente, ˇcon la tentación será
 
-abierta la va de escape! Cuando uno siente que todo est seguro, que todo est
+abierta la vía de escape! Cuando uno siente que todo está seguro, que todo está
 
 seguro eternamente, todo asegurado para vida o muerte, yo les digo que esto
 
-constituye vino aejo refinado, vinos purificados, y alguien que alcanza un
+constituye vino ańejo refinado, vinos purificados, y alguien que alcanza un
 
 sorbo de esos vinos no necesita envidiar los banquetes celestiales de los
 
-ngeles.
+ángeles.
 
-Este gozo nuestro se alzar algunas veces
+Este gozo nuestro se alzará algunas veces
 
-a una elevacin todava ms sublime, cuando es causada por
+a una elevación todavía más sublime, cuando es causada por
 
-la comunin con Dios.
+la comunión con Dios.
 
-Los creyentes, mientras estn entregados a la
+Los creyentes, mientras están entregados a la
 
-oracin y a la alabanza, al servicio y al sufrimiento, son capacitados por el
+oración y a la alabanza, al servicio y al sufrimiento, son capacitados por el
 
-Espritu Santo para sostener una larga pltica con su Seor. No se imaginen que
+Espíritu Santo para sostener una larga plática con su Seńor. No se imaginen que
 
-el dilogo de Abraham con Dios fue un privilegio inusual. El padre de los
+el diálogo de Abraham con Dios fue un privilegio inusual. El padre de los
 
 fieles no hizo sino disfrutar de lo que todos los fieles participan de acuerdo
 
 a la gracia que les es dada. Nosotros le contamos nuestras aflicciones a Dios;
 
-y discurrimos sobre nuestras aflicciones no en ficcin, sino declarndolas en
+y discurrimos sobre nuestras aflicciones no en ficción, sino declarándolas en
 
-una conversacin real, como cuando un hombre habla con su vecino: mientras
+una conversación real, como cuando un hombre habla con su vecino: mientras
 
-tanto el Espritu del Seor nos susurra con el silbo apacible y delicado de la
+tanto el Espíritu del Seńor nos susurra con el silbo apacible y delicado de la
 
-promesa tales palabras que calman nuestras mentes y guan nuestros pies.
+promesa tales palabras que calman nuestras mentes y guían nuestros pies.
 
-S, y cuando nuestro Amado nos lleva a la
+Sí, y cuando nuestro Amado nos lleva a la
 
-casa del banquete de la consciente comunin real con l mismo, y agita el
+casa del banquete de la consciente comunión real con Él mismo, y agita el
 
-pendn de amor sobre nosotros, nuestra santa dicha es sumamente superior a todo
+pendón de amor sobre nosotros, nuestra santa dicha es sumamente superior a todo
 
-jbilo meramente humano, como los cielos estn lejos de la tierra. Entonces, en
+júbilo meramente humano, como los cielos están lejos de la tierra. Entonces, en
 
-verdad, hablamos y cantamos con un gusto sagrado, y sentimos como si pudisemos
+verdad, hablamos y cantamos con un gusto sagrado, y sentimos como si pudiésemos
 
-llorar de puro gozo de corazn, pues nuestro Amado es nuestro y nosotros somos
+llorar de puro gozo de corazón, pues nuestro Amado es nuestro y nosotros somos
 
-Suyos. Su izquierda est debajo de nuestras cabezas, y Su derecha nos abraza, y
+Suyos. Su izquierda está debajo de nuestras cabezas, y Su derecha nos abraza, y
 
-nuestro nico temor es que hubiera algo que afligiera a nuestro Amado y
+nuestro único temor es que hubiera algo que afligiera a nuestro Amado y
 
 provocara que ser retirara de nosotros; pues, ver Su faz y gustar de Su amor es
 
-el cielo en la tierra y un exquisito gusto anticipado del cielo arriba. La comunin
+el cielo en la tierra y un exquisito gusto anticipado del cielo arriba. La comunión
 
-con Cristo es como vino aejo refinado.
+con Cristo es como vino ańejo refinado.
 
-Pondremos sobre la mesa otra copa ms, de
+Pondremos sobre la mesa otra copa más, de
 
 la cual pueden beber todo lo que quieran. Hemos provisto para ustedes
 
@@ -768,41 +776,41 @@ una
 
 esperanza sumamente segura y firme, sumamente refulgente y gloriosa: la
 
-esperanza de que lo que conocemos hoy ser sobrepasado por lo que conoceremos
+esperanza de que lo que conocemos hoy será sobrepasado por lo que conoceremos
 
-maana; la esperanza de que, pronto, lo que ahora vemos por espejo,
+mańana; la esperanza de que, pronto, lo que ahora vemos por espejo,
 
-oscuramente, ser visto cara a cara. Cuando estemos en el cielo diremos como la
+oscuramente, será visto cara a cara. Cuando estemos en el cielo diremos como la
 
-Reina de Sab dijo en Jerusaln: Ni aun se me dijo la mitad. Estamos en
+Reina de Sabá dijo en Jerusalén: “Ni aun se me dijo la mitad”. Estamos en
 
-espera de un da venturoso cuando nos veremos liberados de la carga de este
+espera de un día venturoso cuando nos veremos liberados de la carga de este
 
-crujiente tabernculo, y estando ausentes del cuerpo, estaremos presentes al
+crujiente tabernáculo, y estando ausentes del cuerpo, estaremos presentes al
 
-Seor. Nuestra esperanza de la futura bienaventuranza es elevada y confiada.
+Seńor. Nuestra esperanza de la futura bienaventuranza es elevada y confiada.
 
-Oh, la visin de Su rostro! Oh, la visin de Jess en Su exaltacin! Oh, el
+ˇOh, la visión de Su rostro! ˇOh, la visión de Jesús en Su exaltación! Oh, el
 
-beso de Sus labios; la palabra, Bien, buen siervo y fiel proveniente de esa
+beso de Sus labios; la palabra, “Bien, buen siervo y fiel” proveniente de esa
 
-amada boca y luego permanecer para siempre recostado en Su seno. Vyanse,
+amada boca y luego permanecer para siempre recostado en Su seno. Váyanse,
 
-cuidados, vyanse, tristezas; si el cielo est tan cerca, ustedes no nos
+cuidados, váyanse, tristezas; si el cielo está tan cerca, ustedes no nos
 
-molestarn. El mesn puede ser tosco y afectado de pobreza, pero nosotros slo
+molestarán. El mesón puede ser tosco y afectado de pobreza, pero nosotros sólo
 
 somos viajeros, no somos inquilinos que dependen de un contrato. Este no es
 
-nuestro lugar de reposo; vamos camino a casa! Amados, en la expectativa de los
+nuestro lugar de reposo; ˇvamos camino a casa! Amados, en la expectativa de los
 
 apacibles lugares de reposo en la tierra que fluye leche y miel, ustedes
 
-encuentran vino aejo refinado.
+encuentran vino ańejo refinado.
 
-Si no estuviremos limitados de tiempo
+Si no estuviéremos limitados de tiempo
 
-esta maana, como, ay!, lo estamos, les habra recordado que estos goces del
+esta mańana, como, ˇay!, lo estamos, les habría recordado que estos goces del
 
 creyente son
 
@@ -810,21 +818,21 @@ antiguos en su origen,
 
 pues
 
-el texto nos muestra eso. La expresin: vinos
+el texto nos muestra eso. La expresión: vinos
 
-aejos
+ańejos
 
-es la que se pretende expresar por vinos purificados; han
+es la que se pretende expresar por “vinos purificados”; han
 
 estado en reposo durante largo tiempo y se les ha potenciado toda la virtud que
 
 contienen, y han sido purificados de todo material ordinario.
 
-En el Oriente, el vino es mejorado
+ˇEn el Oriente, el vino es mejorado
 
-almacenndolos todava ms que los vinos en Occidente! Con mayor razn, las misericordias
+almacenándolos todavía más que los vinos en Occidente! Con mayor razón, las misericordias
 
-de Dios son ms dulces para nuestras meditaciones debido a su antigedad. Desde
+de Dios son más dulces para nuestras meditaciones debido a su antigüedad. Desde
 
 toda la eternidad, o desde antes que la tierra fuera hecha, los compromisos del
 
@@ -832,97 +840,97 @@ pacto del amor sempiterno han estado descansando como vinos purificados, y hoy
 
 nos traen las supremas riquezas de todos los atributos de Dios.
 
-Les habra recordado tambin de
+Les habría recordado también de
 
 la plenitud de su excelencia,
 
 porque el
 
-vino aejo refinado mantiene su sabor, y retiene su aroma; y hay una plenitud y
+vino ańejo refinado mantiene su sabor, y retiene su aroma; y hay una plenitud y
 
 riqueza en cuanto a las bendiciones de la divina gracia que las hacen muy
 
 queridas para nuestros corazones. Los gozos de la gracia no son emociones
 
-fantsticas, o destellos pasajeros de una excitacin meterica, antes bien,
+fantásticas, o destellos pasajeros de una excitación meteórica, antes bien,
 
-estn basados sobre una verdad sustancial; son razonables, adecuados y propios.
+están basados sobre una verdad sustancial; son razonables, adecuados y propios.
 
 No pertenecen a las emociones espumosas y superficiales del mero sentimiento,
 
 sino que son movimientos sinceros, solemnes y profundos, justificados por el
 
-ms preclaro juicio. Nuestra bienaventuranza no es de la espuma y de la oleada,
+más preclaro juicio. Nuestra bienaventuranza no es de la espuma y de la oleada,
 
-sino que mora en las cavernas ms ntimas de nuestro corazn.
+sino que mora en las cavernas más íntimas de nuestro corazón.
 
-Les habra recordado de
+Les habría recordado de
 
 su naturaleza refinada.
 
-Ningn pecado se
+Ningún pecado se
 
-mezcl con los gozos del Evangelio y los deleites de la comunin: estn muy
+mezcló con los gozos del Evangelio y los deleites de la comunión: están muy
 
 bien purificados. Los gozos del Evangelio son sempiternos, hacen a los hombres
 
-semejantes a los ngeles. As como en el Evangelio Dios desciende a los
+semejantes a los ángeles. Así como en el Evangelio Dios desciende a los
 
-hombres, as por el Evangelio los hombres ascienden a Dios.
+hombres, así por el Evangelio los hombres ascienden a Dios.
 
-Tambin habra podido mostrarles
+También habría podido mostrarles
 
-cun absolutamente incomparables
+cuán absolutamente incomparables
 
 son las
 
-provisiones de la gracia. No hay un festn comparable al del Evangelio, ninguna
+provisiones de la gracia. No hay un festín comparable al del Evangelio, ninguna
 
-comida semejante a la carne de Jess, ninguna bebida como Su sangre, ningunos
+comida semejante a la carne de Jesús, ninguna bebida como Su sangre, ningunos
 
 goces como los que coronan el banquete del Evangelio.
 
 II.
 
-No puedo decir nada ms; la mesa est
+No puedo decir nada más; la mesa está
 
 puesta ante ustedes, y ahora hemos de proseguir con gran brevedad para notar EL
 
-SALN DEL BANQUETE.
+SALÓN DEL BANQUETE.
 
-En este monte. Aqu hay una referencia
+“En este monte”. Aquí hay una referencia
 
-a tres cosas: el mismo smbolo conlleva tres interpretaciones. Primero,
+a tres cosas: el mismo símbolo conlleva tres interpretaciones. Primero,
 
-literalmente, el monte sobre el que est construida Jerusaln. Yo no dudo que
+literalmente, el monte sobre el que está construida Jerusalén. Yo no dudo que
 
-la referencia sea aqu
+la referencia sea aquí
 
 al collado sobre
 
-el que est ubicada Jerusaln;
+el que está ubicada Jerusalén;
 
-la grandiosa transaccin que fue cumplida en
+la grandiosa transacción que fue cumplida en
 
-Jerusaln sobre el Calvario ha preparado un gran banquete para todas las
+Jerusalén sobre el Calvario ha preparado un gran banquete para todas las
 
-naciones. Fue all donde la cruz central sostuvo a Aquel que uni a la tierra y
+naciones. Fue allí donde la cruz central sostuvo a Aquel que unió a la tierra y
 
-al cielo en misteriosa unin; fue all donde en medio de densas tinieblas el
+al cielo en misteriosa unión; fue allí donde en medio de densas tinieblas el
 
-Hijo de Dios fue hecho maldicin por los hombres; fue all que la afliccin
+Hijo de Dios fue hecho maldición por los hombres; fue allí que la aflicción
 
-culmin para que el gozo fuera consumado. Sobre ese mismo monte en el que los
+culminó para que el gozo fuera consumado. Sobre ese mismo monte en el que los
 
-judos y los gentiles se encontraron, y con clamorosa ira clamaron: Sea
+judíos y los gentiles se encontraron, y con clamorosa ira clamaron: “ˇSea
 
-crucificado!, fue all, en la entrega del Unignito, cuya carne es verdadera
+crucificado!”, fue allí, en la entrega del Unigénito, cuya carne es verdadera
 
-comida, y cuya sangre es verdadera bebida, que el Seor hizo un banquete de
+comida, y cuya sangre es verdadera bebida, que el Seńor hizo un banquete de
 
-manjares suculentos. Todo aquello de lo que he hablado esta maana es
+manjares suculentos. Todo aquello de lo que he hablado esta mańana es
 
-encontrado en Cristo. l es la resurreccin y la vida: en l somos
+encontrado en Cristo. Él es la resurrección y la vida: en Él somos
 
 justificados, adoptados, y asegurados; cada gota de gozo que bebemos mana de
 
@@ -932,43 +940,43 @@ Un segundo significado es
 
 la iglesia.
 
-Frecuentemente Jerusaln es
+Frecuentemente Jerusalén es
 
-usada como smbolo de la iglesia de Dios, y es bajo el palio de la iglesia que
+usada como símbolo de la iglesia de Dios, y es bajo el palio de la iglesia que
 
-es preparado el gran banquete del Seor para todas las naciones. Yo soy, en el
+es preparado el gran banquete del Seńor para todas las naciones. Yo soy, en el
 
-sentido ms verdadero, un hombre convencido en la necesidad de la membresa de
+sentido más verdadero, un hombre convencido en la necesidad de la membresía de
 
 una iglesia. En verdad, tengo el pleno convencimiento de ello; soy un adherente
 
-sumamente resuelto a favor de la iglesia. Yo no creo en la salvacin fuera del
+sumamente resuelto a favor de la iglesia. Yo no creo en la salvación fuera del
 
-palio de la iglesia. Yo creo que la salvacin de Dios est confinada a la
+palio de la iglesia. Yo creo que la salvación de Dios está confinada a la
 
-iglesia, y nicamente a la iglesia.
+iglesia, y únicamente a la iglesia.
 
-Pero, -dir alguno- qu iglesia?
+“Pero”, -dirá alguno- “żqué iglesia?”
 
-Ay!, ese es el asunto: Dios no quiera que yo signifique con eso ya sea la
+ˇAy!, ese es el asunto: Dios no quiera que yo signifique con eso ya sea la
 
 iglesia bautista o la iglesia independiente, o la iglesia episcopal, o la
 
 presbiteriana, o cualquier otra: me refiero a la iglesia de Jesucristo, a la
 
-compaa de los elegidos de Dios, a la comunin de los comprados con sangre, a
+compańía de los elegidos de Dios, a la comunión de los comprados con sangre, a
 
-la familia de los creyentes, estn donde estn, pues para ellos es provisto el
+la familia de los creyentes, estén donde estén, pues para ellos es provisto el
 
 banquete de manjares suculentos. Independientemente de la iglesia visible y
 
-externa con la que se hubieren asociado, bebern los vinos purificados; pero el
+externa con la que se hubieren asociado, beberán los vinos purificados; pero el
 
-banquete nicamente puede ser encontrado donde se encuentran quienes ponen su
+banquete únicamente puede ser encontrado donde se encuentran quienes ponen su
 
-confianza en Cristo. Slo hay una iglesia en el cielo y en la tierra, compuesta
+confianza en Cristo. Sólo hay una iglesia en el cielo y en la tierra, compuesta
 
-de hombres llamados por el Espritu Santo, que son vivificados por Su poder
+de hombres llamados por el Espíritu Santo, que son vivificados por Su poder
 
 vivificador; y es por medio del ministerio de esta iglesia que un abundante
 
@@ -976,101 +984,101 @@ banquete es aderezado para todas las naciones, un banquete al que las naciones
 
 son convocadas por heraldos elegidos, a quienes Dios llama para que proclamen
 
-las buenas nuevas de salvacin por Jesucristo.
+las buenas nuevas de salvación por Jesucristo.
 
 Pero, hermanos, el monte significa,
 
-algunas veces, la iglesia de Dios exaltada a su gloria del ltimo da. Este
+algunas veces, la iglesia de Dios exaltada a su gloria del último día. Este
 
-monte ser ms alto que los collados y corrern a l los pueblos. Este texto
+monte será más alto que los collados y correrán a él los pueblos. Este texto
 
-tendr su mayor cumplimiento en el da de la aparicin de nuestro Seor y
+tendrá su mayor cumplimiento en el día de la aparición de nuestro Seńor y
 
-Salvador Jesucristo. Entonces la gloria del Evangelio ser revelada ms
+Salvador Jesucristo. Entonces la gloria del Evangelio será revelada más
 
-claramente que al momento presente. Los hombres tendrn una percepcin ms
+claramente que al momento presente. Los hombres tendrán una percepción más
 
-plena de la gloria del Seor, y un gozo ms profundo de Su gracia; a la vez, la
+plena de la gloria del Seńor, y un gozo más profundo de Su gracia; a la vez, la
 
-felicidad y la paz reinarn con una apacibilidad sin turbaciones. Pronto vendr
+felicidad y la paz reinarán con una apacibilidad sin turbaciones. Pronto vendrá
 
-la edad de oro que ha sido vaticinada desde tanto tiempo atrs, por la que
+la edad de oro que ha sido vaticinada desde tanto tiempo atrás, por la que
 
-clamamos con expectacin incesante. Que el Seor la enve pronto y a l sea
+clamamos con expectación incesante. Que el Seńor la envíe pronto y a Él sea
 
 toda la alabanza.
 
 III.
 
-En tercer lugar, pensemos en EL ANFITRIN
+En tercer lugar, pensemos en EL ANFITRIÓN
 
 del banquete.
 
-Jehov de los ejrcitos har en este
+“Jehová de los ejércitos hará en este
 
-monte a todos los pueblos banquete de manjares suculentos. Observen bien la
+monte a todos los pueblos banquete de manjares suculentos”. Observen bien la
 
-verdad de que en el banquete del Evangelio no hay un solo platillo trado por
+verdad de que en el banquete del Evangelio no hay un solo platillo traído por
 
 el hombre.
 
-El Seor
+El Seńor
 
 lo hace, y lo
 
-hace todo. Yo s que algunos querran traer consigo algo al banquete, algo por
+hace todo. Yo sé que algunos querrían traer consigo algo al banquete, algo por
 
-lo menos por la va de guarnicin y de aderezos, de tal forma de tener una
+lo menos por la vía de guarnición y de aderezos, de tal forma de tener una
 
-participacin del honor; pero eso no ha de ser, pues el Seor de los ejrcitos
+participación del honor; pero eso no ha de ser, pues el Seńor de los ejércitos
 
-hace el banquete, y no permitir que los invitados traigan sus propios vestidos
+hace el banquete, y no permitirá que los invitados traigan sus propios vestidos
 
-de bodas. Deben detenerse a la puerta y ponerse el manto que el Seor ha
+de bodas. Deben detenerse a la puerta y ponerse el manto que el Seńor ha
 
-provisto, pues la salvacin es solamente por gracia de principio a fin, y toda
+provisto, pues la salvación es solamente por gracia de principio a fin, y toda
 
-de l, que es portentoso en obras, y que hace todas las cosas de conformidad a
+de Él, que es portentoso en obras, y que hace todas las cosas de conformidad a
 
 los consejos de Su voluntad.
 
-De todas las preciosas verdades que habl
+De todas las preciosas verdades que hablé
 
-al principio de este sermn, no hay ni una sola que provenga de cualquier otra
+al principio de este sermón, no hay ni una sola que provenga de cualquier otra
 
-fuente, excepto de la fuente divina; y de todos los goces que procur dibujar
+fuente, excepto de la fuente divina; y de todos los goces que procuré dibujar
 
-dbilmente, no hay ni uno solo que surja de los manantiales de la tierra; todos
+débilmente, no hay ni uno solo que surja de los manantiales de la tierra; todos
 
 ellos fluyen de la eterna fuente.
 
-El Seor prepara el banquete; y, observen
+El Seńor prepara el banquete; y, observen
 
-que lo hace tambin
+que lo hace también
 
-como Seor de los
+como Seńor de los
 
-ejrcitos,
+ejércitos,
 
 como un soberano, como un gobernante, haciendo lo que quiere
 
 entre los hijos de los hombres, preparando lo que quiere para el bien de Sus
 
-criaturas, y constriendo a quien l quiera para que venga al banquete de bodas.
+criaturas, y constrińendo a quien Él quiera para que venga al banquete de bodas.
 
-El Seor provee soberanamente como Seor de los ejrcitos, y lo hace todo
+El Seńor provee soberanamente como Seńor de los ejércitos, y lo hace todo
 
-suficientemente como Jehov. Se requera de la suficiencia absoluta de Dios
+suficientemente como Jehová. Se requería de la suficiencia absoluta de Dios
 
-para proveer un banquete para los pecadores hambrientos. Nadie ms que el
+para proveer un banquete para los pecadores hambrientos. Nadie más que el
 
-infinito YO SOY podra proveer un banquete lo suficientemente sustancial para
+infinito “YO SOY” podría proveer un banquete lo suficientemente sustancial para
 
-suplir las necesidades de espritus inmortales; pero l lo ha hecho, y ustedes
+suplir las necesidades de espíritus inmortales; pero Él lo ha hecho, y ustedes
 
-pueden adivinar el valor de las viandas por la naturaleza de nuestro anfitrin.
+pueden adivinar el valor de las viandas por la naturaleza de nuestro anfitrión.
 
-Si Dios pone la mesa del festn, no ha de ser despreciado; si el Seor ha
+Si Dios pone la mesa del festín, no ha de ser despreciado; si el Seńor ha
 
 empleado toda la omnipotencia de Su eterno poder y Deidad preparando el
 
@@ -1078,7 +1086,7 @@ banquete para la multitud de los hijos de los hombres, entonces pueden estar
 
 totalmente seguros de que se trata de un banquete digno de
 
-l,
+Él,
 
 un banquete al que pueden acudir con confianza, pues ha de ser
 
@@ -1086,33 +1094,33 @@ precisamente el banquete que sus almas requieren, y de naturaleza tal que el
 
 mundo no vio nunca antes.
 
-Oh alma ma, regocjate en tu Dios y Rey.
+Oh alma mía, regocíjate en tu Dios y Rey.
 
-Si l provee el festn, ha de recibir toda la gloria por ello. No a nosotros,
+Si Él provee el festín, ha de recibir toda la gloria por ello. “No a nosotros,
 
-oh Jehov, no a nosotros, sino a tu nombre da gloria. Oh Rey inmortal, eterno,
+oh Jehová, no a nosotros, sino a tu nombre da gloria.” Oh Rey inmortal, eterno,
 
-invisible, T alimentaste a Tus hijos en el desierto con man que baj del
+invisible, Tú alimentaste a Tus hijos en el desierto con maná que bajó del
 
-cielo, y con agua que brot de una dura roca, y dieron gracias a Tu nombre;
+cielo, y con agua que brotó de una dura roca, y dieron gracias a Tu nombre;
 
-pero ahora T nos llenas con alimento ms noble. Ellos comieron el man y
+pero ahora Tú nos llenas con alimento más noble. Ellos comieron el maná y
 
-murieron, pero nosotros vivimos de pan inmortal, es decir, del propio Jess, y,
+murieron, pero nosotros vivimos de pan inmortal, es decir, del propio Jesús, y,
 
-por tanto, no podemos morir nunca. Ellos bebieron el agua que man de la roca,
+por tanto, no podemos morir nunca. Ellos bebieron el agua que manó de la roca,
 
-y, sin embargo, tuvieron sed de nuevo, pero nosotros no tendremos ms sed, sino
+y, sin embargo, tuvieron sed de nuevo, pero nosotros no tendremos más sed, sino
 
-que moraremos por siempre cerca de Ti, mientras el Cordero que est en medio
+que moraremos por siempre cerca de Ti, mientras el Cordero que está en medio
 
-del trono nos alimentar, y nos conducir a las fuentes vivas del agua. Por
+del trono nos alimentará, y nos conducirá a las fuentes vivas del agua. Por
 
-tanto, bendito sea Tu nombre, s, mil veces bendito sea Tu nombre, oh T,
+tanto, ˇbendito sea Tu nombre, sí, mil veces bendito sea Tu nombre, oh Tú,
 
-Altsimo! Que todo el cielo diga Amn a las alabanzas de nuestros corazones,
+Altísimo! Que todo el cielo diga “Amén” a las alabanzas de nuestros corazones,
 
-y que la multitud de Tus hijos aqu en la tierra, para quienes este banquete es
+y que la multitud de Tus hijos aquí en la tierra, para quienes este banquete es
 
 preparado, loen y magnifiquen y bendigan Tu nombre desde la salida del sol
 
@@ -1120,155 +1128,155 @@ hasta su ocaso.
 
 IV.
 
-Por ltimo, una palabra o dos sobre LOS
+Por último, una palabra o dos sobre LOS
 
 INVITADOS.
 
-El Seor ha preparado el banquete para
+El Seńor ha preparado el banquete “para
 
-todos los pueblos. Cun preciosa es esta palabra! Para todos los pueblos.
+todos los pueblos”. ˇCuán preciosa es esta palabra! “Para todos los pueblos”.
 
-Entonces esto incluye no meramente al pueblo elegido, los judos, de quienes
+Entonces esto incluye no meramente al pueblo elegido, los judíos, de quienes
 
-eran los orculos, sino abarca a los pobres gentiles incircuncisos, que, por
+eran los oráculos, sino abarca a los pobres gentiles incircuncisos, que, por
 
-Jess, son atrados. El brbaro es invitado a este banquete; el escita no es
+Jesús, son atraídos. El bárbaro es invitado a este banquete; el escita no es
 
-rechazado. El griego pulido encuentra una puerta abierta; el intrpido romano
+rechazado. El griego pulido encuentra una puerta abierta; el intrépido romano
 
-se encontrar con una igual bienvenida. Los de la casa de Csar, si vinieran,
+se encontrará con una igual bienvenida. Los de la casa de César, si vinieran,
 
-recibirn una porcin, y lo mismo harn los hermanos del mendigo.
+recibirán una porción, y lo mismo harán los hermanos del mendigo.
 
-Bendito sea Dios por esa palabra, a
+Bendito sea Dios por esa palabra, “a
 
-todos los pueblos, pues permite la empresa misionera en toda tierra; por
+todos los pueblos”, pues permite la empresa misionera en toda tierra; por
 
-degradada que sea una raza, aqu encontramos una provisin hecha para ella.
+degradada que sea una raza, aquí encontramos una provisión hecha para ella.
 
 Este banquete de manjares suculentos es preparado tanto para el Sudra como para
 
-el Bramn; el Evangelio ha de ser predicado tanto para el degradado colono
+el Bramín; el Evangelio ha de ser predicado tanto para el degradado colono
 
-australiano como para el chino civilizado. Reflexionen sobre esas palabras: a
+australiano como para el chino civilizado. Reflexionen sobre esas palabras: “a
 
-todos los pueblos, y vern que incluyen a los ricos, pues hay un banquete de
+todos los pueblos”, y verán que incluyen a los ricos, pues hay un banquete de
 
-manjares suculentos para ellos, del tipo que su oro no podra comprar nunca; y
+manjares suculentos para ellos, del tipo que su oro no podría comprar nunca; y
 
-tambin incluye a los pobres, pues siendo ellos ricos en fe, tendrn comunin
+también incluye a los pobres, pues siendo ellos ricos en fe, tendrán comunión
 
-con Dios. A todos los pueblos. Esto incluye al hombre de sobrada inteligencia
+con Dios. “A todos los pueblos”. Esto incluye al hombre de sobrada inteligencia
 
 y vasto conocimiento; pero igualmente comprende al hombre analfabeta que no
 
-puede leer. El Seor hace este banquete para
+puede leer. El Seńor hace este banquete “para
 
 todos
 
-los pueblos; para ustedes, ancianos, pues si vienen a Jess
+los pueblos”; para ustedes, ancianos, pues si vienen a Jesús
 
-encontrarn que l es apropiado para ustedes; para ustedes, jvenes y
+encontrarán que Él es apropiado para ustedes; para ustedes, jóvenes y
 
-seoritas, y para ustedes, pequeitos, pues si ponen su confianza en el
+seńoritas, y para ustedes, pequeńitos, pues si ponen su confianza en el
 
-Salvador designado por Dios, habr mucho gozo y felicidad para ustedes.
+Salvador designado por Dios, habrá mucho gozo y felicidad para ustedes.
 
-Para
+żPara
 
 todos
 
 los pueblos? Me parece que si yo estuviera buscando ahora y no hubiese
 
-asido a Cristo, estas palabras todos los pueblos seran un gran consuelo para
+asido a Cristo, estas palabras “todos los pueblos” serían un gran consuelo para
 
-m, porque proporcionan esperanza a todos aquellos que desean venir. Nadie ha
+mí, porque proporcionan esperanza a todos aquellos que desean venir. Nadie ha
 
-sido rechazado jams de todos los que han venido alguna vez a Cristo y han
+sido rechazado jamás de todos los que han venido alguna vez a Cristo y han
 
-pedido misericordia. Todava es cierto, Al que a m viene, no le echo fuera.
+pedido misericordia. Todavía es cierto, “Al que a mí viene, no le echo fuera.”
 
-Algunas personas muy singulares han venido a l, algunas personas muy
+Algunas personas muy singulares han venido a Él, algunas personas muy
 
 perversas, algunas personas muy endurecidas, pero la puerta nunca fue cerrada
 
-en la cara de nadie. Por qu habra de comenzar Jess algunos tratos duros
+en la cara de nadie. żPor qué habría de comenzar Jesús algunos tratos duros
 
-contigo? No podra, porque no puede cambiar. Si l dice: Al que a m viene, no
+contigo? No podría, porque no puede cambiar. Si Él dice: “Al que a mí viene, no
 
-le echo fuera; convirtete en uno de esos: al que a m viene, y no puede
+le echo fuera”; conviértete en uno de esos: “al que a mí viene”, y no puede
 
 echarte fuera.
 
 Hay otro pensamiento, es decir, que entre
 
-las tapas de la Biblia no hay mencin de alguna persona que no pueda venir. No
+las tapas de la Biblia no hay mención de alguna persona que no pueda venir. No
 
-se da ninguna descripcin de una persona a quien se le prohba confiar en
+se da ninguna descripción de una persona a quien se le prohíba confiar en
 
-Cristo. Me gustara que revisaran el libro completo, ustedes que suean que
+Cristo. Me gustaría que revisaran el libro completo, ustedes que sueńan que
 
-Jess los rechazar, y encuentren dnde se diga: a tal individuo rechazar; a
+Jesús los rechazará, y encuentren dónde se diga: “a tal individuo rechazaré; a
 
-tal individuo desechar. Cuando encuentren una clusula que rechace a alguien,
+tal individuo desecharé.” Cuando encuentren una cláusula que rechace a alguien,
 
-entonces tendrn un derecho para ser incrdulos, pero mientras no lo hagan les
+entonces tendrán un derecho para ser incrédulos, pero mientras no lo hagan les
 
-imploro que no se atormenten innecesariamente. Por qu sembrar dudas y temores
+imploro que no se atormenten innecesariamente. żPor qué sembrar dudas y temores
 
-sin necesidad? Habr abundancia de ellas sin necesidad de que se los fabriquen
+sin necesidad? Habrá abundancia de ellas sin necesidad de que se los fabriquen
 
-ustedes mismos. No limiten aquello que el Seor no limita. Yo s que l tiene un
+ustedes mismos. No limiten aquello que el Seńor no limita. Yo sé que Él tiene un
 
 pueblo elegido; me regocijo en ello; yo espero que ustedes se regocijen en ello
 
-un da; y yo s que Su pueblo tiene estos manjares suculentos provistos para
+un día; y yo sé que Su pueblo tiene estos manjares suculentos provistos para
 
-ellos y nicamente para ellos; pero aun as, esto no est en conflicto con la
+ellos y únicamente para ellos; pero aun así, esto no está en conflicto con la
 
 otra preciosa verdad de que quienquiera que crea en el Hijo de Dios tiene vida
 
-eterna. Si t crees en Jesucristo, todas estas cosas son tuyas.
+eterna. Si tú crees en Jesucristo, todas estas cosas son tuyas.
 
 Ven, pobre individuo tembloroso, la
 
-trompeta de plata suena, y esta es la nota que resuena: Vengan y sean
+trompeta de plata suena, y esta es la nota que resuena: “Vengan y sean
 
-bienvenidos, vengan y sean bienvenidos, vengan y sean bienvenidos. La trompeta
+bienvenidos, vengan y sean bienvenidos, vengan y sean bienvenidos.” La trompeta
 
-ms severa de la ley que iba aumentando su sonido en extremo y por largo rato
+más severa de la ley que iba aumentando su sonido en extremo y por largo rato
 
-en el Sina tena esto por nota: Seala lmites al monte: que nadie se acerque
+en el Sinaí tenía esto por nota: “Seńala límites al monte: que nadie se acerque
 
-para que no muera.
+para que no muera.”
 
 Pero la trompeta del Calvario resuena con
 
-una nota opuesta; es: Ven y s bienvenido, ven y s bienvenido, pecador, ven!
+una nota opuesta; es: “ˇVen y sé bienvenido, ven y sé bienvenido, pecador, ven!
 
-Ven tal como eres, pecador como eres, endurecido como eres, descuidado segn
+Ven tal como eres, pecador como eres, endurecido como eres, descuidado según
 
-crees que eres, y sin poseer nada bueno de ningn tipo, ven a tu Dios en Cristo!
+crees que eres, y sin poseer nada bueno de ningún tipo, ven a tu Dios en Cristo!”
 
-Oh, que pudieras venir a l, que entreg Su Hijo para que se desangrara en el
+Oh, que pudieras venir a Él, que entregó Su Hijo para que se desangrara en el
 
-lugar del pecador, y arrojndote sobre lo que Cristo ha hecho, que resuelvas:
+lugar del pecador, y arrojándote sobre lo que Cristo ha hecho, que resuelvas:
 
-Aunque perezca, confiar en l; aunque sea echado fuera, voy a apoyarme en
+“Aunque perezca, confiaré en Él; aunque sea echado fuera, voy a apoyarme en
 
-l. No perecers, mas para ti habr un banquete de manjares suculentos, de
+Él.” No perecerás, mas para ti habrá un banquete de manjares suculentos, de
 
-pedazos escogidos con tutano, y de vino aejo refinado. Que el Seor los
+pedazos escogidos con tuétano, y de vino ańejo refinado. Que el Seńor los
 
-bendiga muy ricamente, por causa de Su nombre. Amn.
+bendiga muy ricamente, por causa de Su nombre. Amén.
 
-Porciones de la Escritura ledas antes
+Porciones de la Escritura leídas antes
 
-del sermn:
+del sermón:
 
-Isaas 25: 6-12, y 26: 1-13.
+Isaías 25: 6-12, y 26: 1-13.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 17/Diciembre/2008
 

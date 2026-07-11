@@ -1,6 +1,6 @@
 # Sermón 2180 | Sermón 2180
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
@@ -10,145 +10,145 @@ NO. 2180
 
 UN
 
-SERMN PREDICADO LA NOCHE DEL DOMINGO 23 DE FEBRERO, 1890
+SERMÓN PREDICADO LA NOCHE DEL DOMINGO 23 DE FEBRERO, 1890
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES.
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES.
 
-Y el
+“Y el
 
-mediador no lo es de uno solo; pero Dios es uno. Glatas 3: 20.
+mediador no lo es de uno solo; pero Dios es uno”. Gálatas 3: 20.
 
 Tal vez el texto no nos impresione como
 
-algo difcil, pero es sumamente desconcertante para el exgeta. Estaba leyendo
+algo difícil, pero es sumamente desconcertante para el exégeta. Estaba leyendo
 
-a un comentarista muy antiguo, uno de mis grandes favoritos, y not que
+a un comentarista muy antiguo, uno de mis grandes favoritos, y noté que
 
-menciona que los expositores de este versculo le encuentran unos doscientos
+menciona que los expositores de este versículo le encuentran unos doscientos
 
-cincuenta significados diferentes. John Prime, en 1587, lo llam un laberinto
+cincuenta significados diferentes. John Prime, en 1587, lo llamó “un laberinto
 
-sin fin. Oh pens aqu hay un hermoso bosque ideal para perderse en l!
+sin fin”. “ˇOh” –pensé– “aquí hay un hermoso bosque ideal para perderse en él!
 
-Doscientos cincuenta significados! Acudiendo a un autor ms moderno pero muy
+ˇDoscientos cincuenta significados!” Acudiendo a un autor más moderno pero muy
 
-erudito, dice que crea que haba ms de cuatrocientas interpretaciones
+erudito, dice que creía que había más de cuatrocientas interpretaciones
 
 diferentes
 
 dadas a este pasaje. Esto implica salir del
 
-bosque para adentrarse en una selva: una selva negra donde uno podra perderse
+bosque para adentrarse en una selva: una selva negra donde uno podría perderse
 
 irremediablemente.
 
-Acaso debera predicar sobre un texto
+żAcaso debería predicar sobre un texto
 
-as? S, pero no debo agobiarlos con esas muchas interpretaciones. Algunas de
+así? Sí, pero no debo agobiarlos con esas muchas interpretaciones. Algunas de
 
-ellas no podran ser correctas; otras, sin duda, son bastante precisas. Qu
+ellas no podrían ser correctas; otras, sin duda, son bastante precisas. żQué
 
-significa el pasaje? No me atrevera a decir que lo s; pero me atrever a decir
+significa el pasaje? No me atrevería a decir que lo sé; pero me atreveré a decir
 
-que s cmo usarlo para un propsito prctico. Con la ayuda del Espritu de
+que sé cómo usarlo para un propósito práctico. Con la ayuda del Espíritu de
 
 Dios, nos abriremos paso utilizando una sencilla pista para llegar a su
 
-significado prctico y hacer uso de las palabras para provecho de nuestras
+significado práctico y hacer uso de las palabras para provecho de nuestras
 
 almas.
 
-Un mediador! Qu es un mediador? Un
+ˇUn mediador! żQué es un mediador? Un
 
 mediador es un intermediario, un interventor; es alguien que se interpone entre
 
-dos partes que de otra manera no podran tener un acercamiento entre s. Tomen
+dos partes que de otra manera no podrían tener un acercamiento entre sí. Tomen
 
-el caso de Moiss. La voz de Dios era muy terrible y el pueblo no poda soportarla;
+el caso de Moisés. La voz de Dios era muy terrible y el pueblo no podía soportarla;
 
-entonces Moiss intervino y habl en representacin de Dios. La presencia de
+entonces Moisés intervino y habló en representación de Dios. La presencia de
 
-Jehov en el monte era tan gloriosa que los hombres no podan subir la montaa
+Jehová en el monte era tan gloriosa que los hombres no podían subir la montańa
 
-ni resistir esa grandiosa visin, por lo que Moiss subi a Dios en
+ni resistir esa grandiosa visión, por lo que Moisés subió a Dios en
 
-representacin de los hombres. Moiss era un mediador que hablaba por el Seor
+representación de los hombres. Moisés era un mediador que hablaba por el Seńor
 
-e interceda por el pueblo.
+e intercedía por el pueblo.
 
 Pablo alude a esto cuando dice que la ley
 
-fue ordenada por medio de ngeles en mano de un mediador; y aqu el apstol
+fue “ordenada por medio de ángeles en mano de un mediador”; y aquí el apóstol
 
 introduce una especie de enunciado general, una verdad que no pareciera tener
 
-conexin con nada de lo que le antecede, o con nada de lo que le sigue. El
+conexión con nada de lo que le antecede, o con nada de lo que le sigue. El
 
-apstol dicta esto como una regla general: El mediador no lo es de uno solo;
+apóstol dicta esto como una regla general: “El mediador no lo es de uno solo;
 
-pero Dios es uno. Pablo tiene polvo de oro: cada uno de sus pensamientos es de
+pero Dios es uno”. Pablo tiene polvo de oro: cada uno de sus pensamientos es de
 
-gran valor. Est mirando un objeto, y hablando en relacin a l y, mientras
+gran valor. Está mirando un objeto, y hablando en relación a él y, mientras
 
 mira, golpea una piedra con su pie y pone al descubierto una veta de oro. Como
 
 si no notase el tesoro, sigue adelante y deja esa veta de oro para ustedes y
 
-para m. Es muy aficionado a la digresin. Es el estilo de Pablo, y es el
+para mí. Es muy aficionado a la digresión. Es el estilo de Pablo, y es el
 
-estilo de todo hombre que est saturado y rebosa. l se apega estrictamente a
+estilo de todo hombre que está saturado y rebosa. Él se apega estrictamente a
 
-un argumento, pero discierne muchos argumentos ms. Mientras corre hacia la
+un argumento, pero discierne muchos argumentos más. Mientras corre hacia la
 
 meta, deja caer manzanas de oro que tienen la forma de principios generales que
 
 se le ocurren en el momento.
 
-Yo entiendo aqu que Pablo no est prosiguiendo
+Yo entiendo aquí que Pablo no está prosiguiendo
 
-con un argumento especfico, sino que est dejando caer un principio general
+con un argumento específico, sino que está dejando caer un principio general
 
-que yo tomndolo fuera de su contexto espero usar para nuestro provecho esta
+que yo –tomándolo fuera de su contexto– espero usar para nuestro provecho esta
 
 noche. Un mediador, un intermediario, un interventor, no lo es de uno solo, eso
 
-es claro; pero Dios es uno. Qu debemos aprender de esto?
+es claro; pero Dios es uno. żQué debemos aprender de esto?
 
 I.
 
 Primero, UN MEDIADOR NO ES PARA DIOS
 
-NICAMENTE. Un mediador trata con dos personas: con Dios y con el hombre. Un
+ÚNICAMENTE. Un mediador trata con dos personas: con Dios y con el hombre. Un
 
-mediador no interviene porque el propio Dios necesite algn tipo de mediador.
+mediador no interviene porque el propio Dios necesite algún tipo de mediador.
 
-l es eternamente uno; y si ven a Dios como la sagrada Trinidad, es una
+Él es eternamente uno; y si ven a Dios como la sagrada Trinidad, es una
 
-Trinidad en unidad. Dios es uno. Algunas personas se llaman a s mismas
+Trinidad en unidad. Dios es uno. Algunas personas se llaman a sí mismas
 
-unitarianas, pero no tienen un derecho exclusivo a ese nombre. Todos los
+‘unitarianas’, pero no tienen un derecho exclusivo a ese nombre. Todos los
 
-trinitarianos son unitarianos: aunque creemos que el Padre es Dios, el Hijo
+‘trinitarianos’ son ‘unitarianos’: aunque creemos que el Padre es Dios, el Hijo
 
-es Dios, y el Espritu Santo es Dios, confesamos que no hay tres dioses, sino
+es Dios, y el Espíritu Santo es Dios, confesamos que no hay tres dioses, sino
 
-un solo Dios. Ahora, entre el Padre, el Hijo y el Espritu Santo, no hay
+un solo Dios. Ahora, entre el Padre, el Hijo y el Espíritu Santo, no hay
 
 ninguna diferencia, no hay motivo de controversia y, por tanto, no se necesita
 
-ningn mediador para reconciliar a las personas divinas. Dios es uno: por
+ningún mediador para reconciliar a las personas divinas. Dios es uno: por
 
-tanto, nuestro Dios no necesita al mediador para S mismo.
+tanto, nuestro Dios no necesita al mediador para Sí mismo.
 
-Entonces, para quin se necesita el
+Entonces, żpara quién se necesita el
 
-mediador? Pues, para alguien ms. Ese alguien ms est aqu esta noche,
+mediador? Pues, para alguien más. Ese ‘alguien más’ está aquí esta noche,
 
-y necesito encontrarlo. Un mediador! Bendito
+y necesito encontrarlo. ˇUn mediador! Bendito
 
-sea Dios porque hay un mediador; pero Dios no lo necesita para Sus propsitos
+sea Dios porque hay un mediador; pero Dios no lo necesita para Sus propósitos
 
 personales;
 
@@ -156,31 +156,31 @@ hay otra persona para la que
 
 se requiere el mediador.
 
-Dnde est esa otra persona? En el propio don de
+żDónde está esa otra persona? En el propio don de
 
 Cristo como un mediador, al enviarlo en Su naturaleza divina y humana, en la
 
-vida de Cristo y en la muerte de Cristo, Dios tena un ojo para otro
+vida de Cristo y en la muerte de Cristo, Dios tenía un ojo para otro
 
 participante.
 
-Dios, mirando ms all de S hacia
+Dios, mirando más allá de Sí hacia
 
-alguien ms, provey un mediador. Ese debera ser un gran pensamiento para
+alguien más, proveyó un mediador. Ese debería ser un gran pensamiento para
 
-ustedes; pues si Dios est mirando fuera de S, por qu no habra de mirarte a
+ustedes; pues si Dios está mirando fuera de Sí, żpor qué no habría de mirarte a
 
-ti? Si Dios ha mirado de tal manera fuera de S como para proveer un mediador, eso
+ti? Si Dios ha mirado de tal manera fuera de Sí como para proveer un mediador, eso
 
-quiere decir que est pensando en una criatura que necesita un mediador.
+quiere decir que está pensando en una criatura que necesita un mediador.
 
-Oh alma ma, acaso no podra estar
+Oh alma mía, żacaso no podría estar
 
-pensando en ti? Aunque te has apartado de l, y has vivido durante muchos aos sin
+pensando en ti? Aunque te has apartado de Él, y has vivido durante muchos ańos sin
 
-l, no podra ser que, puesto que hay un mediador que no puede ser slo para Dios,
+Él, żno podría ser que, puesto que hay un mediador que no puede ser sólo para Dios,
 
-pues Dios es uno, ese mediador pudiera tener el propsito de subsanar mi
+pues Dios es uno, ese mediador pudiera tener el propósito de subsanar mi
 
 necesidad y llevarme de regreso a Dios?
 
@@ -192,47 +192,47 @@ ese otro ente para quien es enviado un mediador, es el hombre.
 
 El
 
-hombre ha reido con Dios. El hombre est enemistado con Dios, y Dios est
+hombre ha reńido con Dios. El hombre está enemistado con Dios, y Dios está
 
 necesariamente airado con el hombre, pues no puede sino odiar el pecado, y debe
 
-castigar el mal. Dios, por tanto, est mirando al hombre; y aqu estoy yo esta
+castigar el mal. Dios, por tanto, está mirando al hombre; y aquí estoy yo esta
 
-noche, sentado en la casa de oracin: me est mirando a m? Dios desea tener
+noche, sentado en la casa de oración: żme está mirando a mí? Dios desea tener
 
-comunin con los hombres. Dios quiere llevar a los hombres cerca de l;
+comunión con los hombres. Dios quiere llevar a los hombres cerca de Él;
 
-entonces, por qu no habra de ser llevado yo cerca de l? Por qu habra de
+entonces, żpor qué no habría de ser llevado yo cerca de Él? żPor qué habría de
 
 vivir distanciado?
 
-He aqu un mediador: ese mediador no
+He aquí un mediador: ese mediador no
 
-puede ser slo para Dios, pues Dios es uno; tiene que ser destinado para una
+puede ser sólo para Dios, pues Dios es uno; tiene que ser destinado para una
 
-segunda persona: no podra ser yo esa persona? He de alzar mis ojos al cielo y
+segunda persona: żno podría ser yo esa persona? He de alzar mis ojos al cielo y
 
-decir: Oh Dios clemente, concdeme que yo sea esa otra persona para quien
+decir: “ˇOh Dios clemente, concédeme que yo sea esa otra persona para quien
 
-este mediador est establecido!, pues no lo es de uno solo, pero Dios es uno,
+este mediador está establecido!”, pues no lo es de uno solo, pero Dios es uno,
 
-y quiere que yo sea el segundo, para que el mediador pueda desempear Su
+y quiere que yo sea el segundo, para que el mediador pueda desempeńar Su
 
-trabajo. Eso est muy claro.
+trabajo. Eso está muy claro.
 
 II.
 
-Ahora vamos a dar otro paso ms hacia
+Ahora vamos a dar otro paso más hacia
 
-delante. En segundo lugar, NO SE REQUIERE UN MEDIADOR PARA PERSONAS QUE ESTN
+delante. En segundo lugar, NO SE REQUIERE UN MEDIADOR PARA PERSONAS QUE ESTÁN
 
-DE ACUERDO ENTRE S. No se necesita un mediador entre personas de un solo
+DE ACUERDO ENTRE SÍ. No se necesita un mediador entre personas de un solo
 
-corazn y de una sola alma. No necesito un mediador entre mi hermano y yo,
+corazón y de una sola alma. No necesito un mediador entre mi hermano y yo,
 
-entre mi hijo y yo, entre mi esposa y yo. Ya estamos perfectamente al unsono,
+entre mi hijo y yo, entre mi esposa y yo. Ya estamos perfectamente al unísono,
 
-y no se requiere de ningn mediador.
+y no se requiere de ningún mediador.
 
 Entonces, queda claro que, si se requiere
 
@@ -240,79 +240,79 @@ un mediador, es para dos personas entre quienes
 
 hay motivos que engendran diferencias.
 
-Fjense bien en esta verdad,
+Fíjense bien en esta verdad,
 
-y cptenla. No voy a decir cosas bellas, ni voy a usar palabras elegantes; sin
+y cáptenla. No voy a decir cosas bellas, ni voy a usar palabras elegantes; sin
 
-embargo, les digo a aquellos entre ustedes que anhelan ser salvados: Capten
+embargo, les digo a aquellos entre ustedes que anhelan ser salvados: ‘Capten
 
-claramente lo que estoy diciendo, pues les ayudar. Un mediador! Eso se
+claramente lo que estoy diciendo, pues les ayudará’. ˇUn mediador! Eso se
 
-requiere para personas que tienen motivos de contienda con Dios. Pecador,
+requiere para personas que tienen motivos de contienda con Dios. ˇPecador,
 
 pecador, estas son buenas noticias para ti! Un mediador no es necesario para un
 
-hombre que est en armona con Dios, sino es necesario para ti, que has provocado
+hombre que está en armonía con Dios, sino es necesario para ti, que has provocado
 
-a Dios por tus mltiples pecados y te has distanciado de l por la
+a Dios por tus múltiples pecados y te has distanciado de Él por la
 
 pecaminosidad de tu naturaleza. Hay necesidad de un mediador entre el tres
 
-veces santo Dios y t; y es para personas tales como t que se hace presente un
+veces santo Dios y tú; y es para personas tales como tú que se hace presente un
 
-mediador. Ves esta verdad?
+mediador. żVes esta verdad?
 
 Un mediador
 
-no es un mediador entre quienes estn en sintona. l es un mediador entre personas
+no es un mediador entre quienes están en sintonía. Él es un mediador entre personas
 
-que difieren; y esa es tu situacin en relacin a tu Dios.
+que difieren; y esa es tu situación en relación a tu Dios.
 
 III.
 
-Un mediador interviene tambin cuando HAY
+Un mediador interviene también cuando HAY
 
 DIFERENCIAS QUE NO PUEDEN ELIMINARSE PRONTAMENTE; pues si el motivo de la
 
-diferencia es trivial, y las dos partes estn dispuestas a ponerse de acuerdo,
+diferencia es trivial, y las dos partes están dispuestas a ponerse de acuerdo,
 
-pronto resolveran el asunto; pero un mediador, un rbitro, interviene cuando
+pronto resolverían el asunto; pero un mediador, un árbitro, interviene cuando
 
-el caso es difcil.
+el caso es difícil.
 
-Tal es tu caso y tal el mo por
+Tal es tu caso y tal el mío por
 
-naturaleza. Nosotros hemos pecado. Dios es justo. l est lleno de compasin, y
+naturaleza. Nosotros hemos pecado. Dios es justo. Él está lleno de compasión, y
 
-est dispuesto a perdonar en tanto que el menosprecio sea en contra de Su
+está dispuesto a perdonar en tanto que el menosprecio sea en contra de Su
 
-persona; pero l es tambin Rey y Juez de toda la tierra, y debe castigar el
+persona; pero Él es también Rey y Juez de toda la tierra, y debe castigar el
 
-pecado. Si no castigara el pecado, sera injusto, y la injusticia que no
+pecado. Si no castigara el pecado, sería injusto, y la injusticia que no
 
 castiga el pecado es crueldad para con todos los hombres justos. Si nuestros
 
-jueces fueran a decirle maana a cada ladrn, a cada amigo de lo ajeno, a cada
+jueces fueran a decirle mańana a cada ladrón, a cada amigo de lo ajeno, a cada
 
-asesino: Sigue tu camino; yo te perdono, eso constituira una amabilidad para
+asesino: “Sigue tu camino; yo te perdono”, eso constituiría una amabilidad para
 
-ellos, pero una crueldad para nosotros. No sera verdadera misericordia de
+ellos, pero una crueldad para nosotros. No sería verdadera misericordia de
 
-parte de Dios si pasara por alto el pecado y lo dejara sin castigo. No podra
+parte de Dios si pasara por alto el pecado y lo dejara sin castigo. No podría
 
-ocupar Su trono como el guardin de lo recto y el protector de la virtud si no
+ocupar Su trono como el guardián de lo recto y el protector de la virtud si no
 
 ejecutara juicio sobre el pecado.
 
-Entonces, percibimos aqu una barrera
+Entonces, percibimos aquí una barrera
 
 entre Dios y el hombre culpable: Dios ha de castigar a los infractores y el
 
-hombre ha delinquido. Cmo pueden ser unidas estas dos partes? Aqu interviene
+hombre ha delinquido. żCómo pueden ser unidas estas dos partes? Aquí interviene
 
 el mediador, uno de mil, que puede poner su mano sobre ambos, resolver esta disputa
 
-mortal, y establecer la paz eterna. No se necesita un mediador para quienes estn
+mortal, y establecer la paz eterna. No se necesita un mediador para quienes están
 
 de acuerdo, sino para aquellos que tienen una fuente de diferencias que no
 
@@ -322,33 +322,33 @@ IV.
 
 En este caso, si de parte del ofensor
 
-hubiere algn deseo de ser reconciliado, puede lograrse la reconciliacin, pues
+hubiere algún deseo de ser reconciliado, puede lograrse la reconciliación, pues
 
-el Dios ofendido est dispuesto a establecer la paz. NO HABRA NECESIDAD DE UN
+el Dios ofendido está dispuesto a establecer la paz. NO HABRÍA NECESIDAD DE UN
 
 MEDIADOR A MENOS QUE AMBAS PARTES ESTUVIERAN DISPUESTAS A SER RECONCILIADAS. El
 
 mediador que interviene entre dos que tienen un odio vivo, simplemente pierde
 
-su tiempo; pero, en nuestro caso, Dios est dispuesto a la reconciliacin. No
+su tiempo; pero, en nuestro caso, Dios está dispuesto a la reconciliación. “No
 
-hay enojo en m, dice l. Pero el hombre no est dispuesto a ser reconciliado
+hay enojo en mí”, dice Él. Pero el hombre no está dispuesto a ser reconciliado
 
-con Dios mientras la gracia no le cambie su corazn. Si hay el deseo de tu
+con Dios mientras la gracia no le cambie su corazón. Si hay el deseo de tu
 
-parte de terminar la contienda y ser amigo de Dios, te alegrar saber que hay
+parte de terminar la contienda y ser amigo de Dios, te alegrará saber que hay
 
-un mediador. Jess est en espera de suprimir la barrera que te separa de Dios
+un mediador. Jesús está en espera de suprimir la barrera que te separa de Dios
 
 y reconciliarte con Dios, por medio de Su propia muerte.
 
 Sin embargo, para que pueda intervenir un
 
-mediador, un rbitro, tiene que haber
+mediador, un árbitro, tiene que haber
 
 la
 
-disposicin de ambos lados de confiar el asunto en sus manos.
+disposición de ambos lados de confiar el asunto en sus manos.
 
 Tiene que
 
@@ -356,39 +356,39 @@ existir una diferencia que no pueden eliminar, una diferencia que
 
 quisieran
 
-que fuera eliminada, y una diferencia que estn
+que fuera eliminada, y una diferencia que están
 
-dispuestos a poner en manos del rbitro. Dios est anuente a confiar nuestro
+dispuestos a poner en manos del árbitro. Dios está anuente a confiar nuestro
 
-asunto a Cristo. l lo ha hecho as. l ha depositado la ayuda en Uno que es
+asunto a Cristo. Él lo ha hecho así. Él ha depositado la ayuda en Uno que es
 
-poderoso. Le ha dado la calificacin y le ha comisionado para que venga como un
+poderoso. Le ha dado la calificación y le ha comisionado para que venga como un
 
-embajador, y establezca la paz entre l y los hombres culpables.
+embajador, y establezca la paz entre Él y los hombres culpables.
 
-Por parte de ustedes, estn dispuestos a
+Por parte de ustedes, żestán dispuestos a
 
-poner enteramente el asunto en manos de Cristo, para hacer lo que l les pida,
+poner enteramente el asunto en manos de Cristo, para hacer lo que Él les pida,
 
-para reconocer aquello que l quiere que confiesen, para arrepentirse de
+para reconocer aquello que Él quiere que confiesen, para arrepentirse de
 
-aquello en lo que l les dice que estn mal, para buscar rectificar aquello en
+aquello en lo que Él les dice que están mal, para buscar rectificar aquello en
 
-lo que l les advierte que han fallado? Confiars tu caso a un mediador, y
+lo que Él les advierte que han fallado? żConfiarás tu caso a un mediador, y
 
-hars que Jesucristo, el Hijo de Dios, sea tu representante en el asunto?
+harás que Jesucristo, el Hijo de Dios, sea tu representante en el asunto?
 
-Dios confa Su honra en manos de Su Hijo
+Dios confía Su honra en manos de Su Hijo
 
-Jess. l no tiene miedo de dejar todo lo concerniente a Su gobierno moral y Su
+Jesús. Él no tiene miedo de dejar todo lo concerniente a Su gobierno moral y Su
 
-carcter real en las manos del Bienamado. Confiars los intereses eternos de
+carácter real en las manos del Bienamado. żConfiarás los intereses eternos de
 
-tu alma en esas mismas manos amadas y traspasadas? Si es as, regocjate de que
+tu alma en esas mismas manos amadas y traspasadas? Si es así, regocíjate de que
 
 haya un mediador entre dos partes que han estado distanciadas por largo tiempo:
 
-un mediador entre Dios y t. Recbelo en tu corazn esta noche.
+un mediador entre Dios y tú. Recíbelo en tu corazón esta noche.
 
 V.
 
@@ -396,39 +396,39 @@ Daremos otro paso hacia delante. Un
 
 mediador no lo es de uno solo, sino que ESTUDIA LOS INTERESES DE AMBAS PARTES.
 
-As es nuestro Seor Jesucristo. Al venir aqu a la tierra, vino para salvar a
+Así es nuestro Seńor Jesucristo. Al venir aquí a la tierra, żvino para salvar a
 
-los hombres? S. Vino para glorificar el nombre de Su Padre? S. Por cul de
+los hombres? Sí. żVino para glorificar el nombre de Su Padre? Sí. żPor cuál de
 
-estos dos propsitos vino principalmente? No lo dir. Vino por ambos, y combina
+estos dos propósitos vino principalmente? No lo diré. Vino por ambos, y combina
 
-los dos. l cuida de los intereses del hombre y argumenta las causas de su
+los dos. Él cuida de los intereses del hombre y argumenta las causas de su
 
-alma: l cuida de los intereses de Dios y vindica la honra de Dios, incluso
+alma: Él cuida de los intereses de Dios y vindica la honra de Dios, incluso
 
-hasta la muerte. Es l obediente para engrandecer la ley de Dios y hacerla
+hasta la muerte. żEs Él obediente para engrandecer la ley de Dios y hacerla
 
-honorable? S, pero es el mediador que nos libera de la maldicin de la ley.
+honorable? Sí, pero es el mediador que nos libera de la maldición de la ley.
 
 Amados, nuestro bendito mediador no lo es
 
-de uno solo. Un rbitro no debe tomar partido, y un mediador que no entendiera
+de uno solo. Un árbitro no debe tomar partido, y un mediador que no entendiera
 
-ms que un solo lado, y no estuviera preocupado por nadie sino por un solo
+más que un solo lado, y no estuviera preocupado por nadie sino por un solo
 
-lado, sera indigno del nombre. Nuestro mediador, el Seor Jesucristo, tiene
+lado, sería indigno del nombre. Nuestro mediador, el Seńor Jesucristo, tiene
 
-ambas naturalezas. Es Dios? Ciertamente l es Dios verdadero de Dios
+ambas naturalezas. żEs Dios? Ciertamente Él es Dios verdadero de Dios
 
-verdadero. Es hombre? Ciertamente, de la sustancia de Su madre, tan
+verdadero. żEs hombre? Ciertamente, de la sustancia de Su madre, tan
 
-verdaderamente hombre como cualquiera de nosotros. Es mayormente Dios o es
+verdaderamente hombre como cualquiera de nosotros. żEs mayormente Dios o es
 
 mayormente hombre? Esta es una pregunta que no debe formularse y, por tanto, no
 
-debe responderse. l es mi hermano. l es Hijo de Dios. S, l mismo es Dios.
+debe responderse. Él es mi hermano. Él es Hijo de Dios. Sí, Él mismo es Dios.
 
-Qu rbitro podramos necesitar mejor que este humano ser divino, que
+żQué árbitro podríamos necesitar mejor que este humano ser divino, que
 
 puede
 
@@ -436,21 +436,21 @@ poner Sus manos sobre ambos, el cual, siendo en forma
 
 de Dios, llama sin embargo al hombre Su hermano? El mediador no lo es de uno
 
-solo, puesto que tiene las dos naturalezas, y aboga por ambas causas. Oh, cun
+solo, puesto que tiene las dos naturalezas, y aboga por ambas causas. ˇOh, cuán
 
-importante es para el corazn de Cristo la gloria de Dios! l vive, muere y
+importante es para el corazón de Cristo la gloria de Dios! Él vive, muere y
 
-resucita de nuevo, para glorificar al Padre. Oh, cun importante es para
+resucita de nuevo, para glorificar al Padre. ˇOh, cuán importante es para
 
-Cristo la salvacin de los hombres! l vive, muere y resucita de nuevo para la
+Cristo la salvación de los hombres! Él vive, muere y resucita de nuevo para la
 
-salvacin de los pecadores. l tiene el entusiasmo de la humanidad, pero
+salvación de los pecadores. Él tiene el entusiasmo de la humanidad, pero
 
-tambin tiene el entusiasmo de la divinidad. Dios ha de ser glorificado; l
+también tiene el entusiasmo de la divinidad. Dios ha de ser glorificado; Él
 
-muere para hacerlo. El hombre ha de ser salvado; l muere para hacerlo. Qu
+muere para hacerlo. El hombre ha de ser salvado; Él muere para hacerlo. ˇQué
 
-esplndido mediador, pues no lo es de uno solo, sino un mediador que asume la
+espléndido mediador, pues no lo es de uno solo, sino un mediador que asume la
 
 causa de ambos lados!
 
@@ -468,33 +468,33 @@ regresa a la otra parte, y explica la perspectiva de la otra parte. Argumenta
 
 con una parte a favor de la otra. De igual manera, Cristo interviene entre Dios
 
-y el hombre. Oh, cun maravilloso! l argumenta con Dios a favor de los
+y el hombre. ˇOh, cuán maravilloso! Él argumenta con Dios a favor de los
 
-pecadores: Padre, perdnalos, porque no saben lo que hacen. Y luego da la
+pecadores: “Padre, perdónalos, porque no saben lo que hacen.” Y luego da la
 
-vuelta, y argumenta por Dios con los pecadores, y les pide que se vuelvan a l,
+vuelta, y argumenta por Dios con los pecadores, y les pide que se vuelvan a Él,
 
-y sean reconciliados con l, puesto que l es el Padre y el Amigo de ellos! Aquel
+y sean reconciliados con Él, ˇpuesto que Él es el Padre y el Amigo de ellos! Aquel
 
 que interviniera y pretendiera ser un mediador, y luego le echara toda la culpa
 
-a una de las partes, y slo cuidara de los intereses de la otra parte, no sera
+a una de las partes, y sólo cuidara de los intereses de la otra parte, no sería
 
 un mediador sino un partidario de una de las partes.
 
-Pero, en este caso, he aqu Uno que tiene
+Pero, en este caso, he aquí Uno que tiene
 
-algo que decir, no en vindicacin o excusa del pecado, sino solicitando con
+algo que decir, no en vindicación o excusa del pecado, sino solicitando con
 
-argumentacin
+argumentación
 
 misericordia para el
 
-pecador. l tiene algo que decir para engrandecer la justicia de Dios y, sin
+pecador. Él tiene algo que decir para engrandecer la justicia de Dios y, sin
 
-embargo, clama pidiendo misericordia. l pide: Ten misericordia, oh Dios! Ten
+embargo, clama pidiendo misericordia. Él pide: “ˇTen misericordia, oh Dios! ˇTen
 
-misericordia del culpable! Creo que he comprendido el sentido de este texto,
+misericordia del culpable!” Creo que he comprendido el sentido de este texto,
 
 de alguna manera, aunque no pueda explicar el significado exacto de las
 
@@ -510,297 +510,297 @@ DEBE TRATAR CON DOS PARTES, de lo contrario, su oficio es un simple nombre. Se
 
 designa un
 
-rbitro para
+árbitro para
 
-mantener el orden entre dos conjuntos de personas; pero si slo un conjunto de
+mantener el orden entre dos conjuntos de personas; pero si sólo un conjunto de
 
-personas se presentara, usted podra irse a casa, seor rbitro. Evidentemente
+personas se presentara, usted podría irse a casa, seńor árbitro. Evidentemente
 
-no hay nada que pudiera hacer. El mediador no lo es de uno solo; pero Dios es
+no hay nada que pudiera hacer. “El mediador no lo es de uno solo; pero Dios es
 
-uno.
+uno.”
 
-Ahora, esta noche, mi Seor est aqu
+Ahora, esta noche, mi Seńor está aquí
 
-para ser un mediador. Dios est anuente a reconciliarse con los hombres, pero
+para ser un mediador. Dios está anuente a reconciliarse con los hombres, pero
 
-si no hay nadie aqu que deba ser reconciliado, si la predicacin de esta noche
+si no hay nadie aquí que deba ser reconciliado, si la predicación de esta noche
 
-no tiene ninguna relacin con nadie de aqu, entonces es muy claro que el
+no tiene ninguna relación con nadie de aquí, entonces es muy claro que el
 
-oficio de Cristo no puede ser ejercido. l no puede ser un mediador a menos que
+oficio de Cristo no puede ser ejercido. Él no puede ser un mediador a menos que
 
-haya un pecador aqu que deba ser reconciliado. Dnde est ese pecador? Mi
+haya un pecador aquí que deba ser reconciliado. żDónde está ese pecador? Mi
 
-Seor, el mediador, celebra una audiencia de Su corte esta noche y se sienta
+Seńor, el mediador, celebra una audiencia de Su corte esta noche y se sienta
 
-aqu como embajador; pero, qu puede hacer a menos que yo le encuentre la otra
+aquí como embajador; pero, żqué puede hacer a menos que yo le encuentre la otra
 
-parte de la mediacin, a menos que pueda encontrar al ofensor, al culpable, y a
+parte de la mediación, a menos que pueda encontrar al ofensor, al culpable, y a
 
-menos que, una vez encontrado, el Espritu de Dios le conduzca a decir: yo
+menos que, una vez encontrado, el Espíritu de Dios le conduzca a decir: “yo
 
 deseo ser reconciliado con Dios, y pongo mi caso en manos del grandioso
 
-mediador? Si no hay ningn pecador en el mundo, entonces no hay un Salvador en
+mediador”? Si no hay ningún pecador en el mundo, entonces no hay un Salvador en
 
-el mundo. Cmo podra salvar, si los hombres no son culpables y no necesitan
+el mundo. żCómo podría salvar, si los hombres no son culpables y no necesitan
 
 ser salvados?
 
-Pecador, yo te digo que t eres necesario
+ˇPecador, yo te digo que tú eres necesario
 
-para que Cristo desempee Su trabajo! Un hombre es mdico cirujano y pone una
+para que Cristo desempeńe Su trabajo! Un hombre es médico cirujano y pone una
 
-placa de bronce afuera de su puerta. Ve y dile que no hay ningn enfermo en
+placa de bronce afuera de su puerta. Ve y dile que no hay ningún enfermo en
 
-todo el distrito. Demustrale que en un radio de diez kilmetros no hay nadie
+todo el distrito. Demuéstrale que en un radio de diez kilómetros no hay nadie
 
 que sufra ni siquiera de una gripe o de un dolor de muelas: el buen hombre
 
 puede descolgar su placa de bronce, e irse y pasar un mes en el campo. Si todas
 
-las personas fueran saludables permanentemente, el doctor ira a la ruina.
+las personas fueran saludables permanentemente, el doctor iría a la ruina.
 
 Ahora, si esta noche, todos los que se
 
-encuentran aqu han guardado la ley de Dios, y son inocentes, libres de culpa y
+encuentran aquí han guardado la ley de Dios, y son inocentes, libres de culpa y
 
-plenamente conformes a Dios, mi Seor no tiene ninguna misin aqu, ni yo
+plenamente conformes a Dios, mi Seńor no tiene ninguna misión aquí, ni yo
 
-tampoco. No tengo ninguna necesidad de hablarles sobre l, pues Los sanos no
+tampoco. No tengo ninguna necesidad de hablarles sobre Él, pues “Los sanos no
 
-tienen necesidad de mdico, sino los enfermos. Por tanto, me presento en el
+tienen necesidad de médico, sino los enfermos.” Por tanto, me presento en el
 
-nombre del mediador, para preguntar si no habr algn pecador que quiera
+nombre del mediador, para preguntar si no habrá algún pecador que quiera
 
-confesar su culpa; algn enemigo de Dios que quiera pedir la paz; algn joven aturdido
+confesar su culpa; algún enemigo de Dios que quiera pedir la paz; algún joven aturdido
 
-que habiendo vivido sin Dios hasta ahora, pida ser reconciliado con l. Si as
+que habiendo vivido sin Dios hasta ahora, pida ser reconciliado con Él. Si así
 
-fuera, estaran dndole trabajo a mi Seor. Le dan una tarea en ese divino
+fuera, estarían dándole trabajo a mi Seńor. Le dan una tarea en ese divino
 
 oficio de mediador, en el que se deleita en gran manera.
 
-Y fjense en esto: en el caso de un
+Y fíjense en esto: en el caso de un
 
-mediador, o rbitro, entre ms difcil sea el caso, mayor es la honra que
+mediador, o árbitro, entre más difícil sea el caso, mayor es la honra que
 
-recibe si lo resuelve. Si hay una contienda muy severa entre t y Dios, yo te
+recibe si lo resuelve. Si hay una contienda muy severa entre tú y Dios, yo te
 
-recomiendo a mi Seor como mediador, pues todava no ha fallado en resolver una
+recomiendo a mi Seńor como mediador, pues todavía no ha fallado en resolver una
 
-sola disputa, y en este momento dice: Al que a m viene, no le echo fuera.
+sola disputa, y en este momento dice: “Al que a mí viene, no le echo fuera.”
 
-Salomn fue notable manejando asuntos difciles, pero he aqu ms que Salomn
+Salomón fue notable manejando asuntos difíciles, pero he aquí más que Salomón
 
-en este lugar. Si tu vida estuviera toda en un embrollo y una maraa, l puede
+en este lugar. Si tu vida estuviera toda en un embrollo y una marańa, Él puede
 
 enderezarla. Si tus diferencias con Dios son demasiado solemnes y serias para
 
-ser declaradas en palabras; si te estn exprimiendo la vida, si te roban el
+ser declaradas en palabras; si te están exprimiendo la vida, si te roban el
 
-sueo, si te hacen descender a la puerta del infierno, mi Seor, el mediador, puede
+sueńo, si te hacen descender a la puerta del infierno, mi Seńor, el mediador, puede
 
-todava resolver cualquier diferencia y hacer la paz entre tu alma y Dios.
+todavía resolver cualquier diferencia y hacer la paz entre tu alma y Dios.
 
-Ests dispuesto a que l ejerza Su oficio para ti? Si as fuera, entre peor
+żEstás dispuesto a que Él ejerza Su oficio para ti? Si así fuera, entre peor
 
-sea tu caso mayor ser el crdito que le corresponder a mi Seor como
+sea tu caso mayor será el crédito que le corresponderá a mi Seńor como
 
 mediador, cuando haya quitado todas la dificultades para ti.
 
-No temas que haya muchos pecadores aqu,
+No temas que haya muchos pecadores aquí,
 
-y que esa gran cantidad de personas sean todava enemigas de Dios. Yo no invito
+y que esa gran cantidad de personas sean todavía enemigas de Dios. Yo no invito
 
-slo a uno de ustedes para que venga, sino que digo: Vengan todos y entre ms
+sólo a uno de ustedes para que venga, sino que digo: Vengan todos y entre más
 
-vengan, habr mayor regocijo. Mi Seor recibir mayor honra si resuelve esta
+vengan, habrá mayor regocijo. Mi Seńor recibirá mayor honra si resuelve esta
 
 contienda en cientos de casos, todos diversos pero todos aflictivos. Pueden
 
-venir, todos ustedes, y l no les cerrar la puerta en su cara.
+venir, todos ustedes, y Él no les cerrará la puerta en su cara.
 
 Si ustedes acuden a ver a ciertos
 
 doctores eminentes de esta ciudad, tienen que presentarse muy temprano en la
 
-maana, y esperar casi hasta la noche antes de que les toque su turno; pero no
+mańana, y esperar casi hasta la noche antes de que les toque su turno; pero no
 
-habr espera en cuanto a mi Maestro y Seor. Si deseas ser amigo de Dios, el
+habrá espera en cuanto a mi Maestro y Seńor. Si deseas ser amigo de Dios, el
 
-mediador est listo para resolver la diferencia, y enviarte de regreso feliz en
+mediador está listo para resolver la diferencia, y enviarte de regreso feliz en
 
-el amor del Altsimo.
+el amor del Altísimo.
 
-Pero puedo venir? preguntar alguno.
+“żPero puedo venir?” –preguntará alguno–.
 
-Que si puedes venir? Cuando Cristo se ofrece como mediador, por qu no
+żQue si puedes venir? Cuando Cristo se ofrece como mediador, żpor qué no
 
-habras de usarle como un mediador? Yo no le pido perdn al doctor cuando,
+habrías de usarle como un mediador? Yo no le pido perdón al doctor cuando,
 
-sintindome enfermo, toco a su puerta. l ha publicado su nombre como alguien
+sintiéndome enfermo, toco a su puerta. Él ha publicado su nombre como alguien
 
-que est dispuesto a tratar con los enfermos y, por tanto, yo le busco. No me
+que está dispuesto a tratar con los enfermos y, por tanto, yo le busco. No me
 
-estoy tomando ninguna libertad al venir. Si l ha asumido un oficio, que
+estoy tomando ninguna libertad al venir. Si él ha asumido un oficio, que
 
-desempee su oficio.
+desempeńe su oficio.
 
-Pobre desventurado culpable, que ests
+ˇPobre desventurado culpable, que estás
 
 temeroso de venir a Dios, mira que Cristo despliega el nombre de mediador con
 
-la intencin de ser usado como tal! l es la va de acceso al Padre. Ven y
+la intención de ser usado como tal! Él es la vía de acceso al Padre. Ven y
 
-utilzale como lo que profesa ser. Cree que l puede hacer lo que, por Su nombre
+utilízale como lo que profesa ser. Cree que Él puede hacer lo que, por Su nombre
 
-y ttulo oficial,
+y título oficial,
 
 profesa
 
-hacer. Ven y s reconciliado
+hacer. Ven y sé reconciliado
 
 con Dios por medio de Jesucristo Su Hijo, el mediador.
 
 Yo he estado procurando predicar hace ya
 
-casi treinta aos. No he podido lograrlo. Oh, que yo supiera cmo expresar
+casi treinta ańos. No he podido lograrlo. ˇOh, que yo supiera cómo expresar
 
-esto, como para conmover a cada alma a venir a Dios, y demandar la paz! Cun
+esto, como para conmover a cada alma a venir a Dios, y demandar la paz! ˇCuán
 
-anuente est Dios de estar en paz con los hombres, cuando provee un mediador
+anuente está Dios de estar en paz con los hombres, cuando provee un mediador
 
-entre l mismo y los hombres! Cun prestamente deberan venir cuando la honra
+entre Él mismo y los hombres! ˇCuán prestamente deberían venir cuando la honra
 
-y la gloria de Cristo dependen de que los hombres confen sus casos en Sus
+y la gloria de Cristo dependen de que los hombres confíen sus casos en Sus
 
-manos! Yo pregunto de nuevo: qu hara un mediador si no se le confiara ningn
+manos! Yo pregunto de nuevo: żqué haría un mediador si no se le confiara ningún
 
-caso? Un rey sin corona, un pastor sin rebao, un granjero sin tierra, un
+caso? Un rey sin corona, un pastor sin rebańo, un granjero sin tierra, un
 
-mdico sin enfermos: todos ellos estn en una triste condicin. Y Cristo, sin
+médico sin enfermos: todos ellos están en una triste condición. Y Cristo, sin
 
-pecadores, dnde est? Su nombre es algo vaco, y Su gloria se ha ido.
+pecadores, żdónde está? Su nombre es algo vacío, y Su gloria se ha ido.
 
-Vengan, entonces, ustedes que son los peores pecadores, vengan a Cristo, y
+ˇVengan, entonces, ustedes que son los peores pecadores, vengan a Cristo, y
 
-entrguenle su caso!
+entréguenle su caso!
 
 VIII.
 
 Concluyo notando que, aunque sea
 
-necesario que haya dos partes cuando el mediador comienza, pues el mediador no
+necesario que haya dos partes cuando el mediador comienza, –pues el mediador no
 
-lo es de uno solo, y Dios es uno, sin embargo, cuando el caso termina, UN
+lo es de uno solo, y Dios es uno–, sin embargo, cuando el caso termina, UN
 
-MEDIADOR HA DE HACER DE LOS DOS, UNO, O NO HABRA TENIDO XITO. Nuestro Seor
+MEDIADOR HA DE HACER DE LOS DOS, UNO, O NO HABRÍA TENIDO ÉXITO. Nuestro Seńor
 
-ha derribado la pared intermedia de separacin. l ha reconciliado realmente a
+ha derribado la pared intermedia de separación. Él ha reconciliado realmente a
 
-quienes estaban separados. Cristo ha hecho esto por tantos, que me gustara que
+quienes estaban separados. Cristo ha hecho esto por tantos, que me gustaría que
 
-ustedes, que estn sentados en los balcones dijeran: por qu no habra de
+ustedes, que están sentados en los balcones dijeran: “żpor qué no habría de
 
-hacerlo por m? Colgado en el aposento privado de Cristo hay un registro de
+hacerlo por mí?” Colgado en el aposento privado de Cristo hay un registro de
 
-diez mil disputas entre los hombres y Dios, a las que l ha puesto fin. Por
+diez mil disputas entre los hombres y Dios, a las que Él ha puesto fin. żPor
 
-qu no habra de tener l mi nombre entre esos? Por qu no habra de poner fin
+qué no habría de tener Él mi nombre entre esos? żPor qué no habría de poner fin
 
-a mi contienda con Dios? Por qu no habra de reconciliarme con el Padre, para
+a mi contienda con Dios? żPor qué no habría de reconciliarme con el Padre, para
 
-que el Padre me d el beso de la paz? l no ha fallado en ningn caso todava.
+que el Padre me dé el beso de la paz? Él no ha fallado en ningún caso todavía.
 
-Algunos de los peores casos han sido sometidos a Su arbitraje, pero l siempre
+Algunos de los peores casos han sido sometidos a Su arbitraje, pero Él siempre
 
-ha tenido xito. No se conoce en el cielo ninguna derrota de nuestro Seor; y
+ha tenido éxito. No se conoce en el cielo ninguna derrota de nuestro Seńor; y
 
 las sombras tenebrosas del infierno no pueden revelar una sola falla de parte
 
 de Cristo, en el caso de alguna pobre alma, condenada y culpable, que hubiere
 
-venido a l y le dijera: haz mi paz con Dios. Nunca se vio obligado a decir:
+venido a Él y le dijera: “haz mi paz con Dios”. Nunca se vio obligado a decir:
 
-no puedo hacerlo. No existe un caso as.
+“no puedo hacerlo”. No existe un caso así.
 
-Vamos, amigo mo, si t has vivido hasta
+ˇVamos, amigo mío, si tú has vivido hasta
 
-los ochenta aos como enemigo de Dios, todava te puedes convertir en Su amigo
+los ochenta ańos como enemigo de Dios, todavía te puedes convertir en Su amigo
 
-por medio de este mediador! Vamos, persona que me escuchas, si eres joven y
+por medio de este mediador! ˇVamos, persona que me escuchas, si eres joven y
 
-ests lleno de vigor, y si tus pasiones te han conducido lejos de la pureza, al
+estás lleno de vigor, y si tus pasiones te han conducido lejos de la pureza, al
 
-punto que tiene una contienda contigo, t puedes venir de inmediato, tal como
+punto que tiene una contienda contigo, tú puedes venir de inmediato, tal como
 
-eres, y Cristo resolver la contienda entre t y Dios! Su sangre que perdona
+eres, y Cristo resolverá la contienda entre tú y Dios! Su sangre que perdona
 
-puede quitar la culpa que Dios aborrece; y el agua que fluy con sangre de Su
+puede quitar la culpa que Dios aborrece; y el agua que fluyó con sangre de Su
 
-amado costado traspasado, puede quitar la propensin a la rebelin dentro de tu
+amado costado traspasado, puede quitar la propensión a la rebelión dentro de tu
 
-pecho. Por medio de palabras como estas, seguramente yo debera consolar a
+pecho. Por medio de palabras como estas, seguramente yo debería consolar a
 
-algunas almas, y conducirlas a Jess.
+algunas almas, y conducirlas a Jesús.
 
-La reconciliacin obrada por Cristo es
+La reconciliación obrada por Cristo es
 
-absolutamente perfecta. Significa vida eterna. Oh, querido oyente, si Jess te
+absolutamente perfecta. Significa vida eterna. Oh, querido oyente, si Jesús te
 
-reconcilia con Dios ahora, nunca contenders con Dios de nuevo, ni Dios
+reconcilia con Dios ahora, nunca contenderás con Dios de nuevo, ni Dios
 
-contender contigo. Si el mediador suprime el motivo de la disensin tu pecado
+contenderá contigo. Si el mediador suprime el motivo de la disensión –tu pecado
 
-y tu pecaminosidad lo
+y tu pecaminosidad– lo
 
-suprimir
+suprimirá
 
-para siempre. l
+para siempre. Él
 
-arrojar tus iniquidades a las profundidades del mar, borrando tus pecados como
+arrojará tus iniquidades a las profundidades del mar, borrando tus pecados como
 
-si fueran una nube, y como densa nube tus transgresiones. Establecer tal paz
+si fueran una nube, y como densa nube tus transgresiones. Establecerá tal paz
 
-entre t y Dios que te amar para siempre, y t le amars para siempre; y nada
+entre tú y Dios que te amará para siempre, y tú le amarás para siempre; y nada
 
-te separar del amor de Dios que es en Cristo Jess nuestro Seor.
+te separará del amor de Dios que es en Cristo Jesús nuestro Seńor.
 
-He odo de algunos pgalo-todo que
+He oído de algunos ‘pégalo-todo’ que
 
 pegan de tal manera las piezas rotas de los platos, que se dice que los
 
-artculos son ms fuertes de lo que eran antes de ser quebrados. No s cmo
+artículos son más fuertes de lo que eran antes de ser quebrados. No sé cómo
 
-pueda suceder eso. Esto s s: la unin entre Dios y el pecador, reconciliados
+pueda suceder eso. Esto sí sé: la unión entre Dios y el pecador, reconciliados
 
-por la sangre de Jess, es ms cercana y ms fuerte que la unin entre Dios y
+por la sangre de Jesús, es más cercana y más fuerte que la unión entre Dios y
 
-Adn antes de la cada. Esa unin fue quebrantada por un simple golpe; pero si
+Adán antes de la caída. Esa unión fue quebrantada por un simple golpe; pero si
 
-Cristo te une al Padre por Su propia sangre preciosa, te sostendr all por el
+Cristo te une al Padre por Su propia sangre preciosa, te sostendrá allí por el
 
-influjo de Su gracia en tu alma; pues, quin nos separar del amor de Cristo?
+influjo de Su gracia en tu alma; pues, żquién nos separará del amor de Cristo?
 
-He de decir algo ms. Recuerden que si
+He de decir algo más. Recuerden que si
 
-rehsan al mediador nombrado por Dios, rehsan perentoriamente estar en paz con
+rehúsan al mediador nombrado por Dios, rehúsan perentoriamente estar en paz con
 
 Dios.
 
 Ustedes
 
-no habran podido
+no habrían podido
 
 encontrar un mediador; no pueden descubrir otro mediador ahora. No puede haber
 
 otro mediador tan adecuado en todo sentido para interponerse entre nosotros y
 
-Dios, como el Dios-hombre, Cristo Jess, que se desangr en la cruz para quitar
+Dios, como el Dios-hombre, Cristo Jesús, que se desangró en la cruz para quitar
 
-nuestro pecado, y resucit de los muertos para proclamar que somos
+nuestro pecado, y resucitó de los muertos para proclamar que somos
 
 justificados.
 
@@ -810,45 +810,45 @@ Su propio Hijo y lo entrega para que muera, para que establezca la paz con
 
 nosotros, y nosotros le rechazamos, quiere decir que queremos una guerra sin
 
-cuartel con Dios. A eso se reduce todo. Si no quieren tener a Cristo, estn
+cuartel con Dios. A eso se reduce todo. Si no quieren tener a Cristo, están
 
-desnudando su brazo para un conflicto eterno con el Todopoderoso. Se estn
+desnudando su brazo para un conflicto eterno con el Todopoderoso. Se están
 
-poniendo su yelmo, y ciendo su espada, para combatir con su Hacedor. Cuando
+poniendo su yelmo, y cińendo su espada, para combatir con su Hacedor. Cuando
 
-rechazan a Cristo, estn rechazando la paz. Estoy seguro de que as es. Estn
+rechazan a Cristo, están rechazando la paz. Estoy seguro de que así es. Están
 
-eligiendo la guerra con el Seor de los ejrcitos. Bien, seores, si quieren la
+eligiendo la guerra con el Seńor de los ejércitos. Bien, seńores, si quieren la
 
-guerra, la tendrn; pero yo les imploro que se arrepientan de inmediato de su
+guerra, la tendrán; pero yo les imploro que se arrepientan de inmediato de su
 
-insensata eleccin. Cmo podran combatir contra Dios? Por qu tendran que
+insensata elección. żCómo podrían combatir contra Dios? żPor qué tendrían que
 
 pelear con Dios? Combatir con Dios es combatir en contra de sus propios
 
-intereses primordiales, y arruinar sus almas. El cielo, el nico cielo que una
+intereses primordiales, y arruinar sus almas. El cielo, el único cielo que una
 
 criatura puede tener, es estar en paz con su Creador. No hay paz para los malvados.
 
-Cmo podra haberla? Si l me ha hecho, me ha hecho para un propsito. Si yo
+żCómo podría haberla? Si Él me ha hecho, me ha hecho para un propósito. Si yo
 
-cumplo ese propsito, responder al propsito de mi existencia, y ser feliz.
+cumplo ese propósito, responderé al propósito de mi existencia, y seré feliz.
 
-Si no cumplo ese propsito, he de ser infeliz; y al elegir ser el enemigo de
+Si no cumplo ese propósito, he de ser infeliz; y al elegir ser el enemigo de
 
-Dios, he elegido mi propia condenacin eterna. Que Dios nos ayude a
+Dios, he elegido mi propia condenación eterna. Que Dios nos ayude a
 
-arrepentirnos de una eleccin as; y que nos aferremos ahora a Cristo, el
+arrepentirnos de una elección así; y que nos aferremos ahora a Cristo, el
 
-mediador, y nos confiemos a l, para hacer la paz entre nosotros y Dios; y sea
+mediador, y nos confiemos a Él, para hacer la paz entre nosotros y Dios; ˇy sea
 
-la gloria a Su nombre por los siglos de los siglos! Amn.
+la gloria a Su nombre por los siglos de los siglos! Amén.
 
-Porcin de la Escritura leda antes del
+Porción de la Escritura leída antes del
 
-sermn: Glatas 3.
+sermón: Gálatas 3.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 23/Abril/2009
 

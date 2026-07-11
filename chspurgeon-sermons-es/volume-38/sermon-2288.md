@@ -1,42 +1,42 @@
 # Sermón 2288 | Sermón 2288
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-El Lugar Vaco:
+El Lugar Vacío:
 
-Un sermn del Da de Navidad
+Un sermón del Día de Navidad
 
 NO. 2288
 
-SERMN PREDICADO POR
+SERMÓN PREDICADO POR
 
-LA NOCHE DE UN DA DE NAVIDAD
+LA NOCHE DE UN DÍA DE NAVIDAD
 
 Y SELECCIONADO PARA
 
-SER LEDO EL DOMINGO 25 DE DICIEMBRE, 1892.
+SER LEÍDO EL DOMINGO 25 DE DICIEMBRE, 1892.
 
-Y el lugar
+“Y el lugar
 
-de David qued vaco. 1 Samuel 20: 25.
+de David quedó vacío”. 1 Samuel 20: 25.
 
 Puede haber mucho que aprender de un lugar
 
-vaco. El mundo tiene en alta estimacin a los lugares que han quedado vacos
+vacío. El mundo tiene en alta estimación a los lugares que han quedado vacíos
 
 por la partida al hogar de sus hombres ilustres. El mundo recuerda a quienes le
 
-han servido; quienes han servido a la Iglesia tambin son recordados, y las
+han servido; quienes han servido a la Iglesia también son recordados, y las
 
-sillas que quedan vacas en el mundo, en la Iglesia, y en la familia,
+sillas que quedan vacías en el mundo, en la Iglesia, y en la familia,
 
-despiertan muchsimos recuerdos.
+despiertan muchísimos recuerdos.
 
-No pretendo ceirme a un solo tema esta noche;
+No pretendo ceńirme a un solo tema esta noche;
 
 pienso que tengo, en estas palabras sobre el lugar de David, una encomienda
 
-mvil y, sujetndome siempre a mi texto, podr considerar una gran cantidad de
+móvil y, sujetándome siempre a mi texto, podré considerar una gran cantidad de
 
 temas, y hablar brevemente sobre cada uno de ellos.
 
@@ -44,203 +44,203 @@ I.
 
 Entonces, primero, hemos de considerar EL LUGAR
 
-VACO EN LA CASA DEL PERSEGUIDOR: El lugar de David qued vaco.
+VACÍO EN LA CASA DEL PERSEGUIDOR: “El lugar de David quedó vacío”.
 
-David tuvo un buen motivo para dejar vaco su
+David tuvo un buen motivo para dejar vacío su
 
-lugar en torno a la mesa de Sal, pues el apasionado rey era tan malicioso y
+lugar en torno a la mesa de Saúl, pues el apasionado rey era tan malicioso y
 
-estaba tan amargado en su contra que buscaba acabar con su vida. Sal, en sus
+estaba tan amargado en su contra que buscaba acabar con su vida. Saúl, en sus
 
-arranques de clera insana, en varias ocasiones haba arrojado jabalinas contra
+arranques de cólera insana, en varias ocasiones había arrojado jabalinas contra
 
-el hombre al que tanto deba, y el envidioso rey dispuso matar a su rival en la
+el hombre al que tanto debía, y el envidioso rey dispuso matar a su rival en la
 
-primera oportunidad propicia. Por tanto, David, muy apropiadamente, abandon el
+primera oportunidad propicia. Por tanto, David, muy apropiadamente, abandonó el
 
-lugar donde su vida corra continuamente peligro.
+lugar donde su vida corría continuamente peligro.
 
-Oh, cun felices somos, en estos das, porque
+ˇOh, cuán felices somos, en estos días, porque
 
 no estamos sujetos a los fieros sufrimientos ni a las crueles persecuciones que
 
 los primeros cristianos e incluso nuestros propios antepasados, tuvieron que
 
-sufrir! Con cunta frecuencia, en una familia juda, tan pronto como un joven
+sufrir! Con cuánta frecuencia, en una familia judía, tan pronto como un joven
 
-se converta en un seguidor de Cristo, era desconocido por todos los de su casa
+se convertía en un seguidor de Cristo, era desconocido por todos los de su casa
 
-a partir de ese momento. Era un seguidor del odiado Nazareno! Caiga sobre l
+a partir de ese momento. ˇEra un seguidor del odiado Nazareno! “Caiga sobre él
 
-la maldicin, deca su padre, e incluso la ternura de una madre pareca
+la maldición”, decía su padre, e incluso la ternura de una madre parecía
 
-extinguirse, de tal manera que no poda pensar en su hijo sin amargura ni hiel.
+extinguirse, de tal manera que no podía pensar en su hijo sin amargura ni hiel.
 
-Algo semejante ocurra en las antiguas familias
+Algo semejante ocurría en las antiguas familias
 
-romanas. El hijo de un noble romano entraba en un pequeo lugar donde una gente
+romanas. El hijo de un noble romano entraba en un pequeńo lugar donde una gente
 
-humilde e iletrada se reuna para or la predicacin del Evangelio, para cantar
+humilde e iletrada se reunía para oír la predicación del Evangelio, para cantar
 
-himnos al nombre de Jess y para santificar un da de la semana; y all, aquel
+himnos al nombre de Jesús y para santificar un día de la semana; y allí, aquel
 
-joven corazn aprenda la historia de la cruz, y por la gracia de Dios era
+joven corazón aprendía la historia de la cruz, y por la gracia de Dios era
 
-llevado al amor del Salvador. Tan pronto como el hecho se conoca, los
+llevado al amor del Salvador. Tan pronto como el hecho se conocía, los
 
 oficiales de justicia le arrebataban el hijo al padre de la casa y arrastraban
 
-al joven creyente a prisin, y de esta manera otro asiento quedaba vaco.
+al joven creyente a prisión, y de esta manera otro asiento quedaba vacío.
 
-Cuando la persecucin empeor gravemente en los
+Cuando la persecución empeoró gravemente en los
 
-antiguos tiempos romanos, ustedes saben cmo los hombres buenos, y los grandes,
+antiguos tiempos romanos, ustedes saben cómo los hombres buenos, y los grandes,
 
 y los veraces, los fuertes y los viejos, el hombre joven y la doncella, todos
 
-tenan igualmente que huir para salvar sus vidas. Si se hubieran quedado,
+tenían igualmente que huir para salvar sus vidas. Si se hubieran quedado,
 
-habra sido nicamente para ser arrastrados delante del pretor romano para que
+habría sido únicamente para ser arrastrados delante del pretor romano para que
 
-acabara con ellos rpidamente en la hoguera o en la arena del circo. Al poco
+acabara con ellos rápidamente en la hoguera o en la arena del circo. Al poco
 
-tiempo nada quedaba de ellos excepto un montn de cenizas del fuego que
+tiempo nada quedaba de ellos excepto un montón de cenizas del fuego que
 
-consumi al mrtir o unos cuantos huesos que las bestias salvajes no quisieron
+consumió al mártir o unos cuantos huesos que las bestias salvajes no quisieron
 
-comer. De esta manera, otra vez el lugar de David qued vaco.
+comer. De esta manera, otra vez “el lugar de David quedó vacío”.
 
-Un horrible trabajo fue realizado, tambin, cuando
+Un horrible trabajo fue realizado, también, cuando
 
-la Iglesia de Roma tena plenos poderes y los oficiales de la Inquisicin, en
+la Iglesia de Roma tenía plenos poderes y los oficiales de la Inquisición, en
 
-altas horas de la noche, tocaban a la puerta del hogar de algn hombre cristiano,
+altas horas de la noche, tocaban a la puerta del hogar de algún hombre cristiano,
 
-y lo apresaban, ya fuera a l, o a su esposa, o a su hijo o a su hija. Tenan
+y lo apresaban, ya fuera a él, o a su esposa, o a su hijo o a su hija. Tenían
 
-que entregarse sin decir palabra, para ser emparedados en las hmedas y
+que entregarse sin decir palabra, para ser emparedados en las húmedas y
 
-tenebrosas bvedas de esa institucin infernal para no ser vistos nunca ms,
+tenebrosas bóvedas de esa institución infernal para no ser vistos nunca más,
 
-excepto, en algn terrible da cuando eran sacados en medio de burlas, para ser
+excepto, en algún terrible día cuando eran sacados en medio de burlas, para ser
 
-quemados vivos porque rehusaban inclinarse delante de imgenes de marfil y de
+quemados vivos porque rehusaban inclinarse delante de imágenes de marfil y de
 
-madera y llamar a esos dolos el Cristo a quien debera rendirse homenaje y reverencia.
+madera y llamar a esos ídolos el Cristo a quien debería rendirse homenaje y reverencia.
 
-Ustedes saben lo que sucedi en nuestra propia
+Ustedes saben lo que sucedió en nuestra propia
 
-tierra: cmo muchos asientos quedaron vacos durante las persecuciones de la
+tierra: cómo muchos asientos quedaron vacíos durante las persecuciones de la
 
-Reina Mara; y posteriormente, cuando nuestros nobles seores no aceptaron
+Reina María; y posteriormente, cuando nuestros nobles seńores no aceptaron
 
 conformarse a la Iglesia establecida de esta tierra, eran acosados hasta las
 
 guaridas y cavernas de la tierra, como si hubiesen sido bestias salvajes en vez
 
-de hombres de quienes el mundo no era digno. Muchos de los ms valerosos y
+de hombres de quienes el mundo no era digno. Muchos de los más valerosos y
 
-mejores hijos de Inglaterra huyeron a Amrica y encontraron otro hogar ms
+mejores hijos de Inglaterra huyeron a América y encontraron otro hogar más
 
-seguro all, en Nueva Inglaterra, donde las rocas silvestres eran menos
+seguro allá, en Nueva Inglaterra, donde las rocas silvestres eran menos
 
-empedernidas que los corazones de los hombres de aqu, de Inglaterra.
+empedernidas que los corazones de los hombres de aquí, de Inglaterra.
 
 Cada vez y cuando, cuando se ha levantado la
 
-persecucin en contra de la verdad, el asiento de David ha quedado vaco. Si
+persecución en contra de la verdad, el asiento de David ha quedado vacío. Si
 
-los das de los mrtires volvieran a presentarse, podramos dejar vacos
+los días de los mártires volvieran a presentarse, żpodríamos dejar vacíos
 
-nuestros lugares? Podra el esposo dejar que su esposa y sus hijos siguieran
+nuestros lugares? żPodría el esposo dejar que su esposa y sus hijos siguieran
 
-la causa de Cristo? Podra el hijo renunciar otra vez al amor del padre?
+la causa de Cristo? żPodría el hijo renunciar otra vez al amor del padre?
 
-Podran apartarse de todos sus seres queridos para demostrar que,
+żPodrían apartarse de todos sus seres queridos para demostrar que,
 
-verdaderamente, le pertenecen a Cristo, y que le aman ms que a padre o madre,
+verdaderamente, le pertenecen a Cristo, y que le aman más que a padre o madre,
 
 esposo o esposa, o a cualquier miembro de su parentela cercana?
 
-Que Dios nos conceda que el verdadero espritu
+ˇQue Dios nos conceda que el verdadero espíritu
 
-del mrtir no se desvanezca en nuestros corazones, aun si, en la agraciada
+del mártir no se desvanezca en nuestros corazones, aun si, en la agraciada
 
 providencia de Dios, no es llamado a ejercitarse terriblemente como entre los
 
-valerosos campesinos de Suiza, o los nobles
+valerosos campesinos de Suiza, o los nobles ‘
 
-covenanters
+covenanters’
 
-(firmantes del pacto escocs de la reforma religiosa) o los
+(firmantes del pacto escocés de la reforma religiosa) o los
 
-viejos disconformes de este pas!
+viejos disconformes de este país!
 
-De cualquier
+ˇDe cualquier
 
 manera, sea lo que fuere que seamos llamados a soportar, hemos de ser fieles y
 
 leales al Evangelio por cuya causa nuestros padres se desangraron y murieron; y
 
-si retornaren alguna vez los tiempos de persecucin -y pudieran regresar- hemos
+si retornaren alguna vez los tiempos de persecución -y pudieran regresar- hemos
 
 de estar dispuestos a abandonar de nuevo el lugar de comodidad, lujo y paz, por
 
-la causa de nuestro Seor Jesucristo!
+la causa de nuestro Seńor Jesucristo!
 
 II.
 
-Hay otro lugar que algunas veces queda vaco, esto es, EL
+Hay otro lugar que algunas veces queda vacío, esto es, EL
 
-LUGAR DE LOS PLACERES PECAMINOSOS. Este lugar vaco es el resultado de la obra
+LUGAR DE LOS PLACERES PECAMINOSOS. Este lugar vacío es el resultado de la obra
 
-de la gracia de Dios en el corazn.
+de la gracia de Dios en el corazón.
 
-Yo s que,
+Yo sé que,
 
-en cuanto a algunos presentes, podra decirse con gran agradecimiento, que el
+en cuanto a algunos presentes, podría decirse con gran agradecimiento, que el
 
-lugar de David est vaco. Ah, querido amigo, dnde estaba tu lugar, hace
+lugar de David está vacío. Ah, querido amigo, żdónde estaba tu lugar, hace
 
-siete aos, en una noche como sta en nuestra as llamada tierra cristiana? Ah,
+siete ańos, en una noche como ésta en nuestra así llamada tierra cristiana? Ah,
 
-bien, no queremos que digas dnde estaba; es mejor que calles con respecto a
+bien, no queremos que digas dónde estaba; es mejor que calles con respecto a
 
 eso; pero, con un santo rubor, y luego con devoto agradecimiento a Dios,
 
-regocjate porque, en lo que a ti concierne, el lugar de David en el sitio de
+regocíjate porque, en lo que a ti concierne, el lugar de David en el sitio de
 
-los escarnecedores est ahora vaco. T sabes que el asiento de la cantina no
+los escarnecedores está ahora vacío. Tú sabes que el asiento de la cantina no
 
-te convendra ahora, como tampoco el lugar donde el canto lascivo despierta el
+te convendría ahora, como tampoco el lugar donde el canto lascivo despierta el
 
-entusiasta aplauso de la libidinosa concurrencia; estaras fuera de lugar en la
+entusiasta aplauso de la libidinosa concurrencia; estarías fuera de lugar en la
 
-compaa de los insolentes, los necios, los blasfemos y de aquellos que
+compańía de los insolentes, los necios, los blasfemos y de aquellos que
 
 encuentran sus placeres olvidando a su Dios, y no consideran pecado quebrantar
 
-Sus leyes. No, gracias a Dios, ese lugar est vaco ahora!
+Sus leyes. ˇNo, gracias a Dios, ese lugar está vacío ahora!
 
 La gracia
 
 realiza un maravilloso cambio en un hombre. No es tanto que no se atreva a ir donde
 
-sola encontrar deleite; no querra ir ni que le pagaran por ello, es ms,
+solía encontrar deleite; no querría ir ni que le pagaran por ello, es más,
 
 incluso si le azotaran para obligarlo a ir. Nosotros no renunciamos a los
 
 antiguos placeres simplemente porque pensemos que sean malos; sabemos que lo son
 
-y eso bastara para abandonarlos; pero tambin renunciamos a ellos porque ya no
+y eso bastaría para abandonarlos; pero también renunciamos a ellos porque ya no
 
-son ms placeres para nosotros. Ya no tenemos ahora ningn deleite en absoluto
+son más placeres para nosotros. Ya no tenemos ahora ningún deleite en absoluto
 
-en ellos, ni lo tendramos aunque furamos libres de elegirlos para nosotros.
+en ellos, ni lo tendríamos aunque fuéramos libres de elegirlos para nosotros.
 
 Si la ley de Dios fuera suspendida y se nos permitiera tomar del placer del
 
-pecado todo lo que quisiramos, no tomaramos nada, puesto que ya no es un
+pecado todo lo que quisiéramos, no tomaríamos nada, puesto que ya no es un
 
 placer para nosotros.
 
@@ -248,177 +248,177 @@ Oh, da
 
 gracias, querido amigo, porque la gracia ha operado tal cambio en ti y has de
 
-resolver en tu corazn que, como la gracia ha hecho esto por ti, hars tu mejor
+resolver en tu corazón que, como la gracia ha hecho esto por ti, harás tu mejor
 
 esfuerzo para que la gracia realice la misma obra de gracia a favor de tus
 
-amigos, para que otros sean rescatados de las filas de Satans. Oh, qu
+amigos, para que otros sean rescatados de las filas de Satanás. ˇOh, qué
 
-boquete abre Dios algunas veces en el ejrcito del diablo cuando toma a uno de
+boquete abre Dios algunas veces en el ejército del diablo cuando toma a uno de
 
-sus ms activos soldados, y lo alista en el ejrcito de Jesucristo, y luego lo
+sus más activos soldados, y lo alista en el ejército de Jesucristo, y luego lo
 
-convierte en un sargento reclutador para alistar a otros bajo las rdenes de su
+convierte en un sargento reclutador para alistar a otros bajo las órdenes de su
 
-nuevo Capitn! No hay siervos de Dios como aquellos que han sido valerosos
+nuevo Capitán! No hay siervos de Dios como aquellos que han sido valerosos
 
-soldados de Satans. Saulo de Tarso, una vez que fue convertido en apstol, no
+soldados de Satanás. Saulo de Tarso, una vez que fue convertido en apóstol, no
 
-slo no estaba un pice detrs del propio lder, sino que podramos
+sólo no estaba un ápice detrás del propio líder, sino que podríamos
 
-aventurarnos a decir que era el ms destacado de todos los apstoles, y que
+aventurarnos a decir que era el más destacado de todos los apóstoles, y que
 
-hizo ms por Cristo que cualquiera de ellos. Oh, que muchos lugares de David
+hizo más por Cristo que cualquiera de ellos. ˇOh, que muchos lugares de David
 
-entre aquellos que buscan los placeres pecaminosos queden rpidamente vacos
+entre aquellos que buscan los placeres pecaminosos queden rápidamente vacíos
 
 por medio de la gracia todopoderosa de Dios! Y si el diablo lo llenara con otro
 
-de sus necios adoradores, pedimos a Dios que se agrade en vaciar ese lugar una
+de sus necios adoradores, ˇpedimos a Dios que se agrade en vaciar ese lugar una
 
-y otra vez! Que muchos, como Moiss, escojan antes ser maltratados con el
+y otra vez! Que muchos, como Moisés, escojan antes ser maltratados con el
 
 pueblo de Dios, que gozar de los placeres del pecado por un tiempo.
 
 III.
 
-Ahora voy a hablar de otros lugares vacos que son mejores
+Ahora voy a hablar de otros lugares vacíos que son mejores
 
-que los ya mencionados. Durante el ao pasado, nos sucedi varias veces a
+que los ya mencionados. Durante el ańo pasado, nos sucedió varias veces a
 
-nosotros que el lugar de David qued vaco. Quiero decir que, por un tiempo, EL
+nosotros que el lugar de David quedó vacío. Quiero decir que, por un tiempo, EL
 
-LUGAR DE NUESTRA OFICIO HA ESTADO VACO.
+LUGAR DE NUESTRA OFICIO HA ESTADO VACÍO.
 
 Tal vez
 
 algunos de ustedes no hayan tenido ni una sola hora de enfermedad durante el
 
-ao pasado; entonces, voy a recordarles sobre sus misericordias para que estn
+ańo pasado; entonces, voy a recordarles sobre sus misericordias para que estén
 
 muy agradecidos con Dios por ellas. Pero algunos de nosotros hemos
 
-experimentado das, algunos hemos experimentado semanas y algunos incluso hasta
+experimentado días, algunos hemos experimentado semanas y algunos incluso hasta
 
-meses, en los que el lugar de David qued vaco. Tal vez no por largo tiempo
+meses, en los que el lugar de David quedó vacío. Tal vez no por largo tiempo
 
-cada vez, pero usualmente este plpito ha tenido que quedar vaco en algn
+cada vez, pero usualmente este púlpito ha tenido que quedar vacío en algún
 
-momento u otro durante el ao con respecto al predicador regular. Las
+momento u otro durante el ańo con respecto al predicador regular. Las
 
-enfermedades dejaron imposibilitado de algn modo al predicador por algn
+enfermedades dejaron imposibilitado de algún modo al predicador por algún
 
-tiempo; y muchas personas experimentan, cada vez y cuando, una poca en la que
+tiempo; y muchas personas experimentan, cada vez y cuando, una época en la que
 
-tienen que ausentarse de la capilla, y del negocio y del crculo familiar, y se
+tienen que ausentarse de la capilla, y del negocio y del círculo familiar, y se
 
 requiere de una vigilancia extra en el hogar y de un especial cuidado, y
 
 pudiera ser que, algunas veces, haya motivo de ansiedad y miedo. Tal vez, en
 
-algunos de los casos ha habido mucha preocupacin vlida. Recuerda aquellas
+algunos de los casos ha habido mucha preocupación válida. Recuerda aquellas
 
-noches cuando la fiebre estaba a punto de empeorar, aquellas horas cuando haba
+noches cuando la fiebre estaba a punto de empeorar, aquellas horas cuando había
 
-ansiosos susurros de los seres queridos en torno a tu cama: lograr
+ansiosos susurros de los seres queridos en torno a tu cama: “żlogrará
 
-sobreponerse? Podr sobrevivir? T recuerdas esas experiencias
+sobreponerse? żPodrá sobrevivir?” Tú recuerdas esas experiencias
 
-difciles de soportar; quiero que las
+difíciles de soportar; quiero que las
 
-recuerdes para que bendigas al Seor, que te ha perdonado la vida y te ha
+recuerdes para que bendigas al Seńor, que te ha perdonado la vida y te ha
 
-devuelto la salud y la fortaleza. Si el lugar de David no ha quedado vaco con
+devuelto la salud y la fortaleza. Si el lugar de David no ha quedado vacío con
 
 frecuencia, debes estar agradecido por la salud que Dios te ha dado; si ha
 
-quedado vaco por algn tiempo, pero ests an en la tierra de los vivos, debes
+quedado vacío por algún tiempo, pero estás aún en la tierra de los vivos, debes
 
-agradecer la restauracin que el Seor te ha concedido.
+agradecer la restauración que el Seńor te ha concedido.
 
 Pero,
 
-hermanos y hermanas, quiero preguntarles y preguntarme: damos a Dios la
+hermanos y hermanas, quiero preguntarles y preguntarme: żdamos a Dios la
 
-recompensa debida por todo lo que nos ha dado? l nos ha favorecido con una
+recompensa debida por todo lo que nos ha dado? Él nos ha favorecido con una
 
-vida prolongada; est siendo invertida esa vida para l? Pudiera ser que, en
+vida prolongada; żestá siendo invertida esa vida para Él? Pudiera ser que, en
 
 aquel lecho de enfermo, volvimos el rostro hacia la pared y oramos en la
 
-amargura de nuestro espritu, y luego hicimos votos de lo que haramos si el
+amargura de nuestro espíritu, y luego hicimos votos de lo que haríamos si el
 
-Seor nos salvara la vida; o, si no lo pusimos en absoluto en la forma de un
+Seńor nos salvara la vida; o, si no lo pusimos en absoluto en la forma de un
 
-voto, resolvimos que si ramos restaurados, seramos ms fervientes y ms
+voto, resolvimos que si éramos restaurados, seríamos más fervientes y más
 
-diligentes en la causa del Seor de lo que habamos sido hasta entonces. Hemos
+diligentes en la causa del Seńor de lo que habíamos sido hasta entonces. żHemos
 
-redimido esas promesas? Despierto tal vez algunos recuerdos vergonzosos? Me
+redimido esas promesas? żDespierto tal vez algunos recuerdos vergonzosos? Me
 
-parece que debera; los despierto en mi propio corazn, y no me sorprendera si
+parece que debería; los despierto en mi propio corazón, y no me sorprendería si
 
-lo hiciera tambin en el suyo.
+lo hiciera también en el suyo.
 
-Si as fuera,
+Si así fuera,
 
-entonces esta oracin debe elevarse desde cada corazn: Seor mo, T me has
+entonces esta oración debe elevarse desde cada corazón: “Seńor mío, Tú me has
 
-redimido con Tu sangre preciosa, y me has hecho Tuyo; Tus promesas estn sobre
+redimido con Tu sangre preciosa, y me has hecho Tuyo; Tus promesas están sobre
 
-m, y yo vengo ante Ti la noche de este ltimo domingo de otro ao e instruyo
+mí, y yo vengo ante Ti la noche de este último domingo de otro ańo e instruyo
 
-que atemos vctimas con cuerdas a los cuernos del altar.
+que atemos víctimas con cuerdas a los cuernos del altar.
 
-Mi vida, que T has convertido en Tu cuidado,
+“Mi vida, que Tú has convertido en Tu cuidado,
 
-Seor, yo la entrego a Ti.
+Seńor, yo la entrego a Ti”.
 
-Indcame qu quieres
+ˇIndícame qué quieres
 
-que haga; dame fuerzas y sabidura para hacerlo; gurdame diligente en Tu
+que haga; dame fuerzas y sabiduría para hacerlo; guárdame diligente en Tu
 
-servicio y firme en Tu temor, hasta que el lugar de David quede vaco aqu
+servicio y firme en Tu temor, hasta que el lugar de David quede vacío aquí
 
-abajo por ltima vez y me lleves a lo alto, para llenar el otro lugar que has
+abajo por última vez y me lleves a lo alto, para llenar el otro lugar que has
 
-preparado para m a Tu diestra!
+preparado para mí a Tu diestra!”
 
-Pens que sera bueno
+Pensé que sería bueno
 
 despertar estos pensamientos en las mentes de aquellos que tienen un especial
 
-inters en esta parte de mi tema.
+interés en esta parte de mi tema.
 
 IV.
 
-Durante el ltimo ao, muchos de ustedes aqu presentes han tenido UN
+Durante el último ańo, muchos de ustedes aquí presentes han tenido UN
 
 LUGAR EN LA ASAMBLEA DEL PUEBLO DE DIOS.
 
 No me gusta mucho hacer
 
-la pregunta de cun a menudo el lugar de David en la congregacin de los justos
+la pregunta de cuán a menudo el lugar de David en la congregación de los justos
 
-ha quedado vaco. Tengo muy poca necesidad de decirles jams algo a ustedes,
+ha quedado vacío. Tengo muy poca necesidad de decirles jamás algo a ustedes,
 
 queridos amigos, acerca de cualquier falta continua de asistencia a los medios
 
-de gracia. Creo que no hay personas de quienes me haya enterado jams que sean
+de gracia. Creo que no hay personas de quienes me haya enterado jamás que sean
 
-encontradas ms regularmente escuchando la predicacin de la Palabra, o
+encontradas más regularmente escuchando la predicación de la Palabra, o
 
-participando en algn servicio religioso. Sin embargo, podra haber algunos
+participando en algún servicio religioso. Sin embargo, podría haber algunos
 
-entre ustedes que se han ausentado cuando deban estar presentes; o podra
+entre ustedes que se han ausentado cuando debían estar presentes; o podría
 
-haber miembros de otras congregaciones que han cado en hbitos laxos y
+haber miembros de otras congregaciones que han caído en hábitos laxos y
 
-relajados dejando de congregarse, como algunos tienen por costumbre, tal como
+relajados dejando de congregarse, “como algunos tienen por costumbre”, tal como
 
-ocurra en los das de Pablo. Aquellos que son as entre nosotros deben poner
+ocurría en los días de Pablo. Aquellos que son así entre nosotros deben poner
 
-un alto a esos hbitos tan pronto como se presenten. Son de gran detrimento
+un alto a esos hábitos tan pronto como se presenten. Son de gran detrimento
 
 para todo crecimiento espiritual.
 
@@ -426,119 +426,119 @@ No creo que
 
 encuentren a un hombre sano que tome sus comidas a todo tipo de intervalos
 
-irregulares. Como regla general, el cuerpo necesita sus perodos regulares para
+irregulares. Como regla general, el cuerpo necesita sus períodos regulares para
 
-recibir alimento y sustento; y lo mismo ocurre con el alma. Difcilmente
+recibir alimento y sustento; y lo mismo ocurre con el alma. Difícilmente
 
-encontraran que un cristiano goza de buena salud si descuida el tiempo
+encontrarían que un cristiano goza de buena salud si descuida el tiempo
 
-sealado para ser alimentado con el alimento espiritual.
+seńalado para ser alimentado con el alimento espiritual.
 
 Ustedes que son
 
-inconversos deberan prestar una especial atencin a esta parte de mi tema.
+inconversos deberían prestar una especial atención a esta parte de mi tema.
 
 Creo que no necesito decirle mucho al cristiano sobre la necesidad de asistir a
 
-la casa del Seor, pues l ama el lugar donde mora la honra de Dios. Puede
+la casa del Seńor, pues él ama el lugar donde mora la honra de Dios. Puede
 
 decir:
 
-He estado all, e ir todava,
+“He estado allí, e iré todavía,
 
-Es como un pequeo cielo aqu abajo.
+Es como un pequeńo cielo aquí abajo”.
 
 Pero en cuanto a
 
 ustedes, que no son convertidos, me deleita verlos en la casa de Dios,
 
-dispuestos y hasta ansiosos de escuchar Su Palabra, pues qu sabemos, qu
+dispuestos y hasta ansiosos de escuchar Su Palabra, pues żqué sabemos, qué
 
-sabemos, qu sabemos si Dios pudiera bendecir ahora la palabra para ustedes? La
+sabemos, qué sabemos si Dios pudiera bendecir ahora la palabra para ustedes? “La
 
-fe es por el or, y el or, por la palabra de Dios. Cuando ests lejos del
+fe es por el oír, y el oír, por la palabra de Dios”. Cuando estás lejos del
 
 sonido de la voz del predicador, hay menos probabilidad de que la gracia se
 
 encuentre contigo para despertar tu conciencia y volverte a Cristo. Mientras
 
-ests congregado con el pueblo de Dios, espero gustosamente que Dios bendiga la
+estás congregado con el pueblo de Dios, espero gustosamente que Dios bendiga la
 
-verdad predicada para la salvacin de tu alma. Acude a menudo, entonces, a ese
+verdad predicada para la salvación de tu alma. Acude a menudo, entonces, a ese
 
-lugar de adoracin donde Jesucristo es ensalzado, y busca tener un inters
+lugar de adoración donde Jesucristo es ensalzado, y busca tener un interés
 
-personal en Su grandiosa salvacin.
+personal en Su grandiosa salvación.
 
 Me encanta verlos
 
-revoloteando en torno a la Palabra, escuchando la predicacin del Evangelio;
+revoloteando en torno a la Palabra, escuchando la predicación del Evangelio;
 
-pero no permitan, se los suplico, que siempre sea vlido que son nicamente oyentes;
+pero no permitan, se los suplico, que siempre sea válido que son únicamente oyentes;
 
-pues, si slo son oyentes y no hacedores de la Palabra, estn simplemente
+pues, si sólo son oyentes y no hacedores de la Palabra, están simplemente
 
-destruyendo sus propias almas. Saben cul es su gran peligro, el peligro de
+destruyendo sus propias almas. żSaben cuál es su gran peligro, el peligro de
 
-ustedes que solamente son oyentes, y no siempre asisten para or? Ustedes
+ustedes que solamente son oyentes, y no siempre asisten para oír? Ustedes
 
 corren el terrible peligro de perder sus almas.
 
 Lo que me temo en
 
-relacin a algunos de ustedes es que pospondrn su decisin, y esperarn, y
+relación a algunos de ustedes es que pospondrán su decisión, y esperarán, y
 
-esperarn, y esperarn y esperarn hasta que no sientan ms inters del que
+esperarán, y esperarán y esperarán hasta que no sientan más interés del que
 
-sienten ahora de escuchar el Evangelio, y gradualmente vendrn a la casa de
+sienten ahora de escuchar el Evangelio, y gradualmente vendrán a la casa de
 
-oracin menos frecuentemente, y el lugar de David estar ms a menudo vaco; y muy
+oración menos frecuentemente, y el lugar de David estará más a menudo vacío; y muy
 
-pronto el Evangelio se volver rancio para ustedes, y esta mi pobre voz sonar
+pronto el Evangelio se volverá rancio para ustedes, y esta mi pobre voz sonará
 
-con un tono tan apagado, y mi mensaje sonar tan a lugares comunes, que su
+con un tono tan apagado, y mi mensaje sonará tan a lugares comunes, que su
 
-asiento ser encontrado siempre vaco. Cuando esto llegue a suceder, me temo
+asiento será encontrado siempre vacío. Cuando esto llegue a suceder, me temo
 
-que sern encontrados descarriados ms lejos y ms lejos de los senderos del
+que serán encontrados descarriados más lejos y más lejos de los senderos del
 
-bien, y de la verdad, y de la esperanza, y que estarn completa y
+bien, y de la verdad, y de la esperanza, y que estarán completa y
 
 desesperadamente perdidos.
 
-Que Dios los
+ˇQue Dios los
 
-conduzca a decidir por Cristo Jess antes de que este ao de gracia pase! Que
+conduzca a decidir por Cristo Jesús antes de que este ańo de gracia pase! ˇQue
 
-pueda ser, incluso ahora, el ao de nuestro Seor para su alma, el ao en el
+pueda ser, incluso ahora, el ańo de nuestro Seńor para su alma, el ańo en el
 
-que el propio Seor entre en su espritu y tome posesin de su naturaleza
+que el propio Seńor entre en su espíritu y tome posesión de su naturaleza
 
-entera! Entonces s que el asiento de David en la asamblea del pueblo de Dios
+entera! Entonces sé que el asiento de David en la asamblea del pueblo de Dios
 
-no estar vaco con frecuencia.
+no estará vacío con frecuencia.
 
 V.
 
-Ahora tengo que decir slo unas cuantas palabras especiales para los
+Ahora tengo que decir sólo unas cuantas palabras especiales para los
 
-miembros de la iglesia acerca de SU LUGAR EN LA REUNIN DE ORACIN.
+miembros de la iglesia acerca de SU LUGAR EN LA REUNIÓN DE ORACIÓN.
 
-El lugar de David
+“El lugar de David
 
-qued vaco. Qu era lo que se estaba llevando a cabo? Bien, era
+quedó vacío”. żQué era lo que se estaba llevando a cabo? “Bien, ˇera
 
-nicamente una reunin de oracin!
+únicamente una reunión de oración!”
 
-S,
+Sí,
 
-pero, pero, pero, pero, pero, pero, eso es decir mucho. Dio algn miembro de
+pero, pero, pero, pero, pero, pero, eso es decir mucho. żDio algún miembro de
 
 la iglesia esa respuesta? No creo que ni uno s0lo lo hiciera; pero quisiera
 
-preguntarles a todos los miembros de esta iglesia: cuntas veces han asistido
+preguntarles a todos los miembros de esta iglesia: “żcuántas veces han asistido
 
-a la reunin de oracin en este ao? Hay algunos de ustedes que nunca estn
+a la reunión de oración en este ańo?” Hay algunos de ustedes que nunca están
 
 ausentes a menos que algo les imposibilite para asistir del todo. Me alegra
 
@@ -546,111 +546,111 @@ incluso ver a algunos de ustedes que llegan tarde los lunes por la noche. Si no
 
 pueden venir a las siete, vengan a las siete y media o vengan a las ocho;
 
-vengan a cualquier hora que puedan, para poder insertar su porcin de
+vengan a cualquier hora que puedan, para poder insertar su porción de
 
-suplicacin con el resto de los hermanos y de las hermanas.
+suplicación con el resto de los hermanos y de las hermanas.
 
 Pero estoy
 
-avergonzado de algunos de nuestros miembros. Ellos dirn: a quines te refieres?
+avergonzado de algunos de nuestros miembros. Ellos dirán: “ża quiénes te refieres?”
 
-El domingo pasado un niito vino a este Tabernculo por primera vez; entonces,
+El domingo pasado un nińito vino a este Tabernáculo por primera vez; entonces,
 
-cuando me par en el plpito y comenc a predicar, el pequeo amigo le dijo a
+cuando me paré en el púlpito y comencé a predicar, el pequeńo amigo le dijo a
 
-su niera: Seorita, el seor Spurgeon me est hablando a m? Yo quisiera
+su nińera: “Seńorita, żel seńor Spurgeon me está hablando a mí?” Yo quisiera
 
 que todos ustedes dijeran lo mismo, si mis palabras fueran aplicables a
 
 ustedes; pues estoy hablando a algunos de los miembros de la iglesia cuando
 
-digo que me avergenzo de ustedes porque no asisten nunca a las reuniones de
+digo que me avergüenzo de ustedes porque no asisten nunca a las reuniones de
 
-oracin. No incluyo en esta censura a quienes viven a una gran distancia, o estn
+oración. No incluyo en esta censura a quienes viven a una gran distancia, o están
 
 plenamente ocupados con sus familias o con los cuidados de negocios, pues
 
-haran mal en venir. Dios no quiera que les pida que le presenten un deber
+harían mal en venir. ˇDios no quiera que les pida que le presenten un deber
 
-manchado con la sangre de otro deber! Pero hay algunos que podran estar aqu y
+manchado con la sangre de otro deber! Pero hay algunos que podrían estar aquí y
 
-deberan estar aqu en nuestras reuniones de oracin, y estn sufriendo
+deberían estar aquí en nuestras reuniones de oración, y están sufriendo
 
-espiritualmente un dao positivo en sus propias almas por causa de su ausencia,
+espiritualmente un dańo positivo en sus propias almas por causa de su ausencia,
 
-adems de la prdida que estn ocasionando al tesoro de la iglesia, pues la
+además de la pérdida que están ocasionando al tesoro de la iglesia, pues la
 
-riqueza de la iglesia radica en el poder de intercesin. Descubriremos que la
+riqueza de la iglesia radica en el poder de intercesión. Descubriremos que la
 
-medida de la influencia de la iglesia est en una exacta proporcin a la
+medida de la influencia de la iglesia está en una exacta proporción a la
 
-cantidad de oracin presentada por los miembros; si no hay mucha oracin, no
+cantidad de oración presentada por los miembros; si no hay mucha oración, no
 
-puede haber mucho poder. Pero podemos orar en casa, dir alguien. S, yo s
+puede haber mucho poder. “Pero podemos orar en casa”, dirá alguien. Sí, yo sé
 
 que pueden hacerlo; pero, como regla, pienso que la gente que ora en casa es la
 
-gente que ora tambin en las reuniones de oracin. El hecho de que nos
+gente que ora también en las reuniones de oración. El hecho de que nos
 
-congreguemos para la oracin es muy generalmente (tomando en consideracin las
+congreguemos para la oración es muy generalmente (tomando en consideración las
 
-circunstancias especiales) el exponente de nuestra oracin privada. Permtanme
+circunstancias especiales) el exponente de nuestra oración privada. Permítanme
 
-aguijonear a cualquiera de ustedes cuyo lugar en las reuniones de oracin ha
+aguijonear a cualquiera de ustedes cuyo lugar en las reuniones de oración ha
 
-estado vaco, para que no suceda eso de nuevo.
+estado vacío, para que no suceda eso de nuevo.
 
-Amados mos en el
+Amados míos en el
 
-Seor, compaeros soldados de Cristo, cul ha sido la fuente y el secreto de
+Seńor, compańeros soldados de Cristo, żcuál ha sido la fuente y el secreto de
 
-nuestra fuerza, como iglesia, hasta este punto? Ha sido nuestra oracin. Cun
+nuestra fuerza, como iglesia, hasta este punto? Ha sido nuestra oración. ˇCuán
 
-bien recuerdo aquellas reuniones de oracin que tuvieron lugar en la Capilla de
+bien recuerdo aquellas reuniones de oración que tuvieron lugar en la Capilla de
 
-Park Street! Cuando comenzamos, ramos slo unas cuantas criaturas dbiles que,
+Park Street! Cuando comenzamos, éramos sólo unas cuantas criaturas débiles que,
 
-en la mayora de las reuniones de oracin que tuvimos, nos reunamos en una
+en la mayoría de las reuniones de oración que tuvimos, nos reuníamos en una
 
-pequea sacrista; pero pronto tuvimos que abrir nuestras puertas de par en par,
+pequeńa sacristía; pero pronto tuvimos que abrir nuestras puertas de par en par,
 
-y pasar a la capilla, y nunca hemos regresado a la sacrista desde entonces. Y,
+y pasar a la capilla, y nunca hemos regresado a la sacristía desde entonces. Y,
 
-oh, el poder que el Seor graciosamente nos concedi por la oracin! Sent
+ˇoh, el poder que el Seńor graciosamente nos concedió por la oración! Sentí
 
-all, y muchos de ustedes tambin lo sintieron, que pareca que por nuestra
+allí, y muchos de ustedes también lo sintieron, que parecía que por nuestra
 
-splica hacamos descender la bendicin de Dios sobre nosotros; y entonces
+súplica hacíamos descender la bendición de Dios sobre nosotros; y entonces
 
-nuestros nmeros se vieron rpidamente incrementados, las almas fueron
+nuestros números se vieron rápidamente incrementados, las almas fueron
 
-convertidas y Dios fue glorificado. Si decaemos en la oracin, nos condenaremos
+convertidas y Dios fue glorificado. Si decaemos en la oración, nos condenaremos
 
 a nosotros mismos. Hemos comprobado, no por rumores sino por experiencia
 
-personal, que la oracin es poder; y si relajamos nuestra oracin y la
+personal, que la oración es poder; y si relajamos nuestra oración y la
 
 reducimos en alcance o incluso en tiempo, mereceremos que este lugar sea
 
-convertido en un refrn y un objeto de rechiflas, y que toda nuestra
+convertido en un refrán y un objeto de rechiflas, y que toda nuestra
 
-prosperidad nos sea quitada, y que se escriba Icabod sobre nuestros muros.
+prosperidad nos sea quitada, y que se escriba ‘Icabod’ sobre nuestros muros.
 
-Que Dios conceda que
+ˇQue Dios conceda que
 
 esta voz quede silenciada por la muerte antes de que este pueblo deje de ser
 
-jams un pueblo de oracin! Antes bien, que nuestra entrega a la oracin sea
+jamás un pueblo de oración! Antes bien, que nuestra entrega a la oración sea
 
-avivada y nuestras intercesiones sean multiplicadas; y que no se diga de ningn
+avivada y nuestras intercesiones sean multiplicadas; y que no se diga de ningún
 
-hombre o mujer temerosos del Seor, que su lugar est vaco cuando el pueblo de
+hombre o mujer temerosos del Seńor, que su lugar está vacío cuando el pueblo de
 
 Dios se congrega para orar.
 
 VI.
 
-Hay otro lugar de David que algunas veces queda vaco, y eso no debera
+Hay otro lugar de David que algunas veces queda vacío, y eso no debería
 
 ser, y es EL LUGAR DEL SERVICIO CRISTIANO.
 
@@ -660,219 +660,219 @@ y hermanas, nuestros dones son variados; le ha agradado a Dios colocarnos en
 
 diferentes posiciones, y darnos diferentes talentos; pero todo hombre y mujer
 
-salvados tienen alguna obra que hacer para Cristo. Estamos haciendo esa obra?
+salvados tienen alguna obra que hacer para Cristo. żEstamos haciendo esa obra?
 
-All est nuestra escuela dominical; me conturba siempre que me entero que se
+Allí está nuestra escuela dominical; me conturba siempre que me entero que se
 
-necesitan maestros all. Hay muchas otras escuelas en las que los miembros de
+necesitan maestros allí. Hay muchas otras escuelas en las que los miembros de
 
-esta iglesia estn ocupados como maestros. Nosotros estamos supliendo, podra
+esta iglesia están ocupados como maestros. Nosotros estamos supliendo, podría
 
-decirlo sin ninguna exageracin, la mitad de los maestros de las escuelas
+decirlo sin ninguna exageración, la mitad de los maestros de las escuelas
 
 dominicales de la mitad de las denominaciones en el distrito, pues siempre les
 
-he dicho: Vayan a cualquier parte que puedan para encontrar una oportunidad de
+he dicho: “Vayan a cualquier parte que puedan para encontrar una oportunidad de
 
-hacer el bien; no se preocupen dnde est. Si tienen la habilidad para ensear,
+hacer el bien; no se preocupen dónde esté. Si tienen la habilidad para enseńar,
 
-vayan y enseen en cualquier escuela en la que sus servicios sean necesarios.
+vayan y enseńen en cualquier escuela en la que sus servicios sean necesarios”.
 
-Sin embargo, hay algunos entre ustedes que esconden sus talentos en un pauelo
+Sin embargo, hay algunos entre ustedes que esconden sus talentos en un pańuelo
 
-y no los usan; y, como consecuencia, hay algn lugar de David que est vaco.
+y no los usan; y, como consecuencia, hay algún lugar de David que está vacío.
 
 Ustedes no son
 
 llamados a la misma obra para Cristo. Me agrada echar de menos a algunos en
 
-esta noche a quienes vi aqu esta maana; y no me preocupara echar de menos a
+esta noche a quienes vi aquí esta mańana; y no me preocuparía echar de menos a
 
-algunos de ustedes por la misma razn. Por qu? Porque se han ido a ensear a escuelas
+algunos de ustedes por la misma razón. żPor qué? Porque se han ido a enseńar a escuelas
 
 gratuitas para pobres, o para hablar en las estaciones de misiones o en los
 
-albergues. Cuando un cristiano me dice: se necesitan obreros en tal y tal
+albergues. Cuando un cristiano me dice: “se necesitan obreros en tal y tal
 
-escuela gratuita o en tal saln de misin: me gustara estar oyendo un sermn,
+escuela gratuita o en tal salón de misión: me gustaría estar oyendo un sermón,
 
-pero prefiero hacer el bien que volverme bueno, yo le digo: correcto, hermano
+pero prefiero hacer el bien que volverme bueno”, yo le digo: “correcto, hermano
 
-mo, mientras Londres es lo que es, has de contentarte con recibir un sermn al
+mío, mientras Londres es lo que es, has de contentarte con recibir un sermón al
 
-da, y alimentar tu alma con eso, y luego ir y hacer todo lo que puedas por tu
+día, y alimentar tu alma con eso, y luego ir y hacer todo lo que puedas por tu
 
-Seor el resto del da domingo.
+Seńor el resto del día domingo”.
 
-Sera bueno que los miembros
+Sería bueno que los miembros
 
-ms jvenes de nuestras iglesias asistan constantemente a los medios de gracia,
+más jóvenes de nuestras iglesias asistan constantemente a los medios de gracia,
 
 porque necesitan ser instruidos en las cosas divinas; pero todo cristiano
 
-instruido est obligado a ser un obrero para Cristo en medio de las masas que
+instruido está obligado a ser un obrero para Cristo en medio de las masas que
 
 perecen a nuestro alrededor.
 
 Busquen servir a su
 
-Salvador dondequiera que l abra una puerta de utilidad. No necesitan salir a
+Salvador dondequiera que Él abra una puerta de utilidad. No necesitan salir a
 
 la calle esta noche para predicar, pues el clima no es el adecuado para los
 
 servicios al aire libre justo ahora, pero cuando llegue el verano, cada esquina
 
-de la calle debe contar con su evangelista, y todo hombre, mujer y nio que amen
+de la calle debe contar con su evangelista, y todo hombre, mujer y nińo que amen
 
-al Seor, deben hacer la obra que l desea que hagan; y que no se diga de
+al Seńor, deben hacer la obra que Él desea que hagan; y que no se diga de
 
-ninguno de nosotros que el lugar de David qued vaco.
+ninguno de nosotros que “el lugar de David quedó vacío”.
 
-Oh, el gozo de hacer
+ˇOh, el gozo de hacer
 
-el bien! Hermanos, despus del cielo, el mayor gozo que puede ser encontrado es
+el bien! Hermanos, después del cielo, el mayor gozo que puede ser encontrado es
 
-el gozo de hacer el bien a los dems. Te encontraste alguna vez con algn
+el gozo de hacer el bien a los demás. żTe encontraste alguna vez con algún
 
-pobre hombre que te dijera: Bendito sea su corazn porque usted me condujo al
+pobre hombre que te dijera: “Bendito sea su corazón porque usted me condujo al
 
-Salvador? Viste alguna vez a una mujer que te mirara al rostro con un amor
+Salvador”? żViste alguna vez a una mujer que te mirara al rostro con un amor
 
-indecible, y te dijera: usted es mi padre en Cristo Jess; usted me llev a
+indecible, y te dijera: “usted es mi padre en Cristo Jesús; usted me llevó a
 
-los pies del Salvador? Si una vez conociste ese gozo, tendras siempre mucho
+los pies del Salvador”? Si una vez conociste ese gozo, tendrías siempre mucho
 
-apetito de ms de ese gozo; nunca estaras plenamente satisfecho con lo que has
+apetito de más de ese gozo; nunca estarías plenamente satisfecho con lo que has
 
-hecho, y siempre estaras necesitando hacer todava ms y ms. Yo he saboreado esta
+hecho, y siempre estarías necesitando hacer todavía más y más. Yo he saboreado esta
 
-dulzura y la he encontrado tan refrescante para mi espritu que quisiera que
+dulzura y la he encontrado tan refrescante para mi espíritu que quisiera que
 
-cada miembro de esta iglesia la probara tambin. Cuando nuestro Seor pase
+cada miembro de esta iglesia la probara también. Cuando nuestro Seńor pase
 
-lista de aquellos que estn haciendo todo el bien que pueden en la escuela
+lista de aquellos que están haciendo todo el bien que pueden en la escuela
 
-dominical, y en la escuela gratuita para nios pobres, y en la predicacin, y
+dominical, y en la escuela gratuita para nińos pobres, y en la predicación, y
 
-en la enseanza, y en las visitas, y distribuyendo opsculos y no s cuntas
+en la enseńanza, y en las visitas, y distribuyendo opúsculos y no sé cuántas
 
-cosas ms, yo espero que todos sern capaces de responder, humilde pero
+cosas más, yo espero que todos serán capaces de responder, humilde pero
 
-firmemente: Heme aqu, Seor mo, haciendo Tu obra conforme T me has dotado.
+firmemente: “Heme aquí, Seńor mío, haciendo Tu obra conforme Tú me has dotado”.
 
 Yo creo que muchos de
 
-ustedes haran mejor la obra de Cristo en el hogar. No necesitan ensear en la
+ustedes harían mejor la obra de Cristo en el hogar. No necesitan enseńar en la
 
 escuela dominical, pues pueden tener una escuela en su propio hogar. Muchas
 
-hijas estn mejor ocupadas en vigilar a los ms jvenes de su propia familia
+hijas están mejor ocupadas en vigilar a los más jóvenes de su propia familia
 
-que en cualquier otra parte. Sin embargo, con excepciones como sas, les ruego
+que en cualquier otra parte. Sin embargo, con excepciones como ésas, les ruego
 
 que tomen el sentido general de lo que he dicho; me dirijo a hombres sabios, entonces,
 
-juzguen lo que digo y cranme que hay algo por hacer para cada quien que ame al
+juzguen lo que digo y créanme que hay algo por hacer para cada quien que ame al
 
-Seor. Ustedes no tienen que rendirme cuentas a m, ni a los ancianos de la
+Seńor. Ustedes no tienen que rendirme cuentas a mí, ni a los ancianos de la
 
-iglesia, sino que deben rendir cuentas al Prncipe de la Corona, al Prncipe
+iglesia, sino que deben rendir cuentas al Príncipe de la Corona, al Príncipe
 
-Imperial del cielo, a Cristo Jess, nuestro Seor. l les compr con Su sangre
+Imperial del cielo, a Cristo Jesús, nuestro Seńor. Él les compró con Su sangre
 
-preciosa; son Suyos. Entonces, srvanle; no permitan que est vacante jams el
+preciosa; son Suyos. Entonces, sírvanle; no permitan que esté vacante jamás el
 
 lugar de servicio por causa de su negligencia o indolencia.
 
 VII.
 
-Adems, el lugar de David qued vaco. Yo espero que NUESTRO LUGAR EN
+Además, “el lugar de David quedó vacío”. Yo espero que NUESTRO LUGAR EN
 
-LA MESA DEL SEOR no quede vaco nunca mientras sea posible que lo ocupemos.
+LA MESA DEL SEŃOR no quede vacío nunca mientras sea posible que lo ocupemos.
 
 No hay nadie en esta
 
-iglesia, que yo conozca, que se ausente de la mesa del Seor muy crasamente;
+iglesia, que yo conozca, que se ausente de la mesa del Seńor muy crasamente;
 
-pero aun as hay espacio para mejoras en este asunto para el caso de algunos de
+pero aun así hay espacio para mejoras en este asunto para el caso de algunos de
 
-nosotros. A m me gusta asistir a la mesa de la comunin cada semana; y mi
+nosotros. A mí me gusta asistir a la mesa de la comunión cada semana; y mi
 
-propia conviccin solemne es que eso no es demasiado frecuente. Si hubiera
+propia convicción solemne es que eso no es demasiado frecuente. Si hubiera
 
 alguna regla al respecto en la Escritura, ciertamente no hay ninguna regla para
 
 asistir una vez al mes, y mucho menos para asistir una vez al trimestre; si
 
-hubiera alguna regla, es que, en el primer da de la semana, cuando nos
+hubiera alguna regla, es que, en el primer día de la semana, cuando nos
 
-reunimos en la asamblea, deberamos partir el pan en memoria del amor agonizante
+reunimos en la asamblea, deberíamos partir el pan en memoria del amor agonizante
 
 de nuestro Salvador. Yo les recomiendo a nuestros hermanos y hermanas que
 
-consideren si guardan la fiesta con la frecuencia que deberan, recordando la
+consideren si guardan la fiesta con la frecuencia que deberían, recordando la
 
-asombrosa pasin y muerte de nuestro Seor. Pudiera ser que pierden mucho
+asombrosa pasión y muerte de nuestro Seńor. Pudiera ser que pierden mucho
 
-beneficio espiritual porque su lugar en la mesa del Seor est vaco, cuando
+beneficio espiritual porque su lugar en la mesa del Seńor está vacío, cuando
 
-debera estar lleno.
+debería estar lleno.
 
 VIII.
 
-Pero he de apresurarme a la conclusin. Hermanos, maana, cuando
+Pero he de apresurarme a la conclusión. Hermanos, mańana, cuando
 
-guardemos la fiesta de Navidad, habr muchas reuniones familiares y en esas
+guardemos la fiesta de Navidad, habrá muchas reuniones familiares y en esas
 
-reuniones familiares habr ALGUNOS HOGARES EN LOS QUE EL LUGAR DE DAVID ESTAR
+reuniones familiares habrá ALGUNOS HOGARES EN LOS QUE EL LUGAR DE DAVID ESTARÁ
 
-VACO.
+VACÍO.
 
-Cuando vena hacia
+Cuando venía hacia
 
-ac, estaba pensando en qu incursiones ha hecho la muerte en esta congregacin
+acá, estaba pensando en qué incursiones ha hecho la muerte en esta congregación
 
-este ao. Muchos lugares han quedado vacos, y habr ms lugares vacos el
+este ańo. Muchos lugares han quedado vacíos, y habrá más lugares vacíos el
 
-siguiente ao. Yo echo de menos en un asiento a una hermana a quien visit en
+siguiente ańo. Yo echo de menos en un asiento a una hermana a quien visité en
 
 su lecho de muerte; y, en otra parte del edificio, a un hermano cuyas palabras
 
-alentadoras en sus ltimos momentos hicieron bien a mi alma. Echo de menos,
+alentadoras en sus últimos momentos hicieron bien a mi alma. Echo de menos,
 
-aqu y all, a otros; podra recorrer con mi dedo a lo largo de estas bancas en
+aquí y allá, a otros; podría recorrer con mi dedo a lo largo de estas bancas en
 
-toda el rea, y subir a esta plataforma y decir seguramente, en relacin a uno
+toda el área, y subir a esta plataforma y decir seguramente, en relación a uno
 
-que ha sido llamado al hogar este ao: el lugar de David qued vaco. Sera
+que ha sido llamado al hogar este ańo: “el lugar de David quedó vacío”. Sería
 
-difcil decir eso literalmente, porque su hijo lo llena, y esperamos que lo
+difícil decir eso literalmente, porque su hijo lo llena, y ˇesperamos que lo
 
-llene por largo tiempo, y que la bendicin de Dios descanse sobre l! Pero,
+llene por largo tiempo, y que la bendición de Dios descanse sobre él! Pero,
 
-aqu y all, y en todas partes en este Tabernculo, echo de menos a alguien que
+aquí y allá, y en todas partes en este Tabernáculo, echo de menos a alguien que
 
-se ha marchado a casa. Nuestra reunin familiar se est desmoronando
+se ha marchado a casa. Nuestra reunión familiar se está desmoronando
 
-gradualmente; gracias a Dios, est siendo reformada all en lo alto, donde no
+gradualmente; gracias a Dios, está siendo reformada allá en lo alto, donde no
 
-habr ni muertes ni separaciones.
+habrá ni muertes ni separaciones.
 
 Cuando llegues a tu
 
-reunin familiar, tal vez tendrs que recordar que tu madre ha muerto este ao,
+reunión familiar, tal vez tendrás que recordar que tu madre ha muerto este ańo,
 
-o pudiera ser que fue tu padre quien se march a casa, o tal vez fue el hijo
+o pudiera ser que fue tu padre quien se marchó a casa, o tal vez fue el hijo
 
-mayor, o esa dulce nia de cabellos rizados. Tal vez maana ests jubiloso y yo
+mayor, o esa dulce nińa de cabellos rizados. Tal vez mańana estés jubiloso y yo
 
-no te digo a ti: no lo ests, pero deja que estos recuerdos te sobrevengan,
+no te digo a ti: “no lo estés”, pero deja que estos recuerdos te sobrevengan,
 
 deja que orienten tus pensamientos hacia arriba, deja que te recuerden que las reuniones
 
-familiares son slo por un tiempo, y que la gran reunin ser arriba. All se
+familiares son sólo por un tiempo, y que la gran reunión será arriba. Allí se
 
-renen los inmortales, all no termina nunca la fiesta. Aparta tu mirada de la
+reúnen los inmortales, allí no termina nunca la fiesta. Aparta tu mirada de la
 
 tierra con todos sus goces. Los que tienen esposas que sean como si no las
 
@@ -882,53 +882,53 @@ relaciones familiares, y las amistades, y todas estas cosas sean consideradas
 
 como lo que son, como evanescentes, como cosas que perecen con el uso. Oigan el
 
-sonido de la trompeta: arriba y a lo alto, y que sus corazones estn donde
+sonido de la trompeta: “arriba y a lo alto”, y que sus corazones estén donde
 
-Jess est, y que su tesoro est all tambin. Esos seres queridos que estn en
+Jesús está, y que su tesoro esté allí también. Esos seres queridos que están en
 
-el cielo les hacen seas para que los sigan, y nosotros hacemos seales para
+el cielo les hacen seńas para que los sigan, y nosotros hacemos seńales para
 
-avisarles que estamos en camino. Seguramente nos miraran con asombro si nos vieran
+avisarles que estamos en camino. Seguramente nos mirarían con asombro si nos vieran
 
-abrazando las cosas de la tierra como si furamos a quedarnos aqu para siempre.
+abrazando las cosas de la tierra como si fuéramos a quedarnos aquí para siempre.
 
-Nuestra conversacin debe estar en el cielo, y nuestro afecto debe estar puesto
+Nuestra conversación debe estar en el cielo, y nuestro afecto debe estar puesto
 
 en la cosas de arriba y no en las cosas de la tierra.
 
 IX.
 
-Mi ltima reflexin es esta: NO HABR NINGN LUGAR VACO EN EL CIELO. En
+Mi última reflexión es esta: NO HABRÁ NINGÚN LUGAR VACÍO EN EL CIELO. En
 
-esa gran reunin de arriba, no se podr decir: el lugar de David qued vaco.
+esa gran reunión de arriba, no se podrá decir: “el lugar de David quedó vacío”.
 
-Amado, si t eres un
+Amado, si tú eres un
 
-creyente en Cristo, si eres el santo ms pobre y el menos digno de
+creyente en Cristo, si eres el santo más pobre y el menos digno de
 
-consideracin de toda la casa, tendrs tu lugar en el cielo;
+consideración de toda la casa, tendrás tu lugar en el cielo;
 
 has de
 
-tenerlo, pues Dios no tendr un
+tenerlo, pues Dios no tendrá un
 
-solo lugar vaco all, y nadie sino t, puede llenar tu lugar. Nuestro Seor
+solo lugar vacío allí, y nadie sino tú, puede llenar tu lugar. Nuestro Seńor
 
-Jesucristo dice -fjate bien en Sus palabras-:
+Jesucristo dice -fíjate bien en Sus palabras-:
 
-Voy, pues, a preparar lugar.
+“Voy, pues, a preparar lugar”.
 
 Eso es algo; pero noten las
 
-siguientes palabras: Voy, pues, a preparar un lugar
+siguientes palabras: “Voy, pues, a preparar un lugar
 
-para vosotros,
+para vosotros”,
 
-para ti, no para alguien ms, sino para
+para ti, no para alguien más, sino para
 
 ti.
 
-Si t eres un
+Si tú eres un
 
 creyente en Jesucristo,
 
@@ -938,31 +938,31 @@ tener
 
 el lugar que Jesucristo fue a preparar para ti. Hay una corona en el cielo que
 
-no se ajusta a la cabeza de nadie sino a la ma; y hay un arpa en el cielo de
+no se ajusta a la cabeza de nadie sino a la mía; y hay un arpa en el cielo de
 
-la cual ningunos otros dedos sino los mos pueden extraer msica. Hay una
+la cual ningunos otros dedos sino los míos pueden extraer música. Hay una
 
-mansin en los cielos que nadie sino t puede ocupar; y hay gozos para ti
+mansión en los cielos que nadie sino tú puede ocupar; y hay gozos para ti
 
-nicamente, y un lugar en el crculo completo de los elegidos de Dios que ha de
+únicamente, y un lugar en el círculo completo de los elegidos de Dios que ha de
 
 ser llenado, y tiene que ser llenado por ti.
 
-Oh, qu gozo es
+ˇOh, qué gozo es
 
-este! Prosigue adelante, hermano mo, prosigue valerosamente; si las tinieblas
+este! Prosigue adelante, hermano mío, prosigue valerosamente; si las tinieblas
 
-se ponen ms densas, y los peligros se multiplican, Cristo es tu vida y no
+se ponen más densas, y los peligros se multiplican, Cristo es tu vida y no
 
-puedes morir. Las alas eternas te cubrirn, y los brazos sempiternos estarn
+puedes morir. Las alas eternas te cubrirán, y los brazos sempiternos estarán
 
-debajo de ti. Te reunirs con nosotros en el lugar en el que toda la familia
+debajo de ti. Te reunirás con nosotros en el lugar en el que toda la familia
 
-estar presente, y el grandioso Padre y el Hermano mayor nos darn la
+estará presente, y el grandioso Padre y el Hermano mayor nos darán la
 
-bienvenida a todos, y ningn lugar de David estar vaco. Que pueda yo estar
+bienvenida a todos, y ningún “lugar de David” estará vacío. ˇQue pueda yo estar
 
-all, que todos podamos estar all, y Dios recibir la alabanza! Amn y amn.
+allí, que todos podamos estar allí, y Dios recibirá la alabanza! Amén y amén.
 
 Nota del traductor:
 
@@ -972,7 +972,7 @@ Icabod
 
 Traductor: Allan
 
-Romn
+Román
 
 3/Diciembre/2009
 

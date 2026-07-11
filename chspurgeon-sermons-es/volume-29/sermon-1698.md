@@ -1,16 +1,16 @@
 # Sermón 1698 | Sermón 1698
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Estrella
 
 y los Magos
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,43 +18,43 @@ DOMINGO 24 DE
 
 DICIEMBRE, 1882
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Cuando Jess
+“Cuando Jesús
 
-naci en Beln de Judea en das del rey Herodes, vinieron del oriente a
+nació en Belén de Judea en días del rey Herodes, vinieron del oriente a
 
-Jerusaln unos magos, diciendo: Dnde est el rey de los judos, que ha
+Jerusalén unos magos, diciendo: żDónde está el rey de los judíos, que ha
 
-nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle
+nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle…
 
 Ellos,
 
-habiendo odo al rey, se fueron; y he aqu la estrella que haban visto en el
+habiendo oído al rey, se fueron; y he aquí la estrella que habían visto en el
 
 oriente iba delante de ellos, hasta que llegando, se detuvo sobre donde estaba
 
-el nio. Y al ver la estrella, se regocijaron con muy grande gozo. Mateo 2: 1,
+el nińo. Y al ver la estrella, se regocijaron con muy grande gozo”. Mateo 2: 1,
 
 2, 9, 10.
 
-Vean, queridos amigos,
+ˇVean, queridos amigos,
 
-la gloria de nuestro Seor Jesucristo aun en Su estado de humillacin! Nace de
+la gloria de nuestro Seńor Jesucristo aun en Su estado de humillación! Nace de
 
-padres humildes que lo acuestan en un pesebre y lo envuelven en paales; pero,
+padres humildes que lo acuestan en un pesebre y lo envuelven en pańales; pero,
 
-he aqu!, los principados y potestades en los lugares celestiales se
+ˇhe aquí!, los principados y potestades en los lugares celestiales se
 
-encuentran en un estado de conmocin. Primero desciende un ngel para proclamar
+encuentran en un estado de conmoción. Primero desciende un ángel para proclamar
 
 el advenimiento del Rey que ha nacido, y de pronto se le une una multitud de
 
-las huestes celestiales que cantan gloria a Dios. La conmocin no se redujo a
+las huestes celestiales que cantan gloria a Dios. La conmoción no se redujo a
 
-los espritus en lo alto, pues en los cielos que estn arriba de esta tierra
+los espíritus en lo alto, pues en los cielos que están arriba de esta tierra
 
 hay un revuelo. Una estrella es comisionada en nombre de todas las estrellas -como
 
@@ -62,83 +62,83 @@ si fuese la enviada y delegada plenipotenciaria de todos los mundos- para que
 
 las representara ante su Rey. A esta estrella se le encomienda la tarea de
 
-esperar al Seor para que fuera heraldo Suyo ante gentes de comarcas lejanas, para
+esperar al Seńor para que fuera heraldo Suyo ante gentes de comarcas lejanas, para
 
 que fuera el ujier que las guiara a Su presencia y el guardaespaldas apostado
 
-como centinela junto a Su cuna. La tierra se conmociona tambin. Los pastores
+como centinela junto a Su cuna. La tierra se conmociona también. Los pastores
 
 han venido para rendirle el homenaje de la gente sencilla; llenos de amor y de
 
-gozo se postran ante el misterioso nio; y despus de ellos, desde lejanas
+gozo se postran ante el misterioso nińo; y después de ellos, desde lejanas
 
-tierras llega la flor y nata de los varones de su generacin, las mentes ms
+tierras llega la flor y nata de los varones de su generación, las mentes más
 
 ilustres de su tiempo. Completando un largo y arduo viaje, finalmente llegan
 
-tambin los representantes de los gentiles. He aqu, los reyes de Sab y de
+también los representantes de los gentiles. He aquí, los reyes de Sabá y de
 
-Seba ofrecen dones: oro, incienso y mirra. Varones sabios, lderes de sus
+Seba ofrecen dones: oro, incienso y mirra. Varones sabios, líderes de sus
 
-pueblos, se postran delante de l y rinden un homenaje al Hijo de Dios. Cristo
+pueblos, se postran delante de Él y rinden un homenaje al Hijo de Dios. Cristo
 
-es honorable doquiera que est. Para vosotros, pues, los que creis, l es
+es honorable doquiera que esté. “Para vosotros, pues, los que creéis, él es
 
-precioso. En el da de las pequeeces, cuando no se le presta atencin a la
+precioso”. En ‘el día de las pequeńeces’, cuando no se le presta atención a la
 
-causa de Dios que permanece oculta detrs de cosas despreciadas, es, a pesar de
+causa de Dios que permanece oculta detrás de cosas despreciadas, es, a pesar de
 
-ello, sumamente gloriosa. Si bien Cristo es un nio, es aun as el Rey de
+ello, sumamente gloriosa. Si bien Cristo es un nińo, es aun así el Rey de
 
-reyes; si bien est recostado entre unos bueyes, es aun as distinguido por Su
+reyes; si bien está recostado entre unos bueyes, es aun así distinguido por Su
 
 estrella.
 
 Amados amigos, si los
 
-sabios de la antigedad vinieron a Jess y le adoraron, no deberamos venir
+sabios de la antigüedad vinieron a Jesús y le adoraron, żno deberíamos venir
 
-nosotros tambin? Mi ardiente deseo esta maana es que todos nosotros rindamos homenaje
+nosotros también? Mi ardiente deseo esta mańana es que todos nosotros rindamos homenaje
 
-a Aquel de quien cantamos: Porque un nio nos es nacido, hijo nos es dado.
+a Aquel de quien cantamos: “Porque un nińo nos es nacido, hijo nos es dado”.
 
-Quienes hemos adorado por largo tiempo hemos de renovar nuestra adoracin con
+Quienes hemos adorado por largo tiempo hemos de renovar nuestra adoración con
 
-una reverencia todava ms humilde y un amor ms intenso. Y que Dios nos
+una reverencia todavía más humilde y un amor más intenso. Y que Dios nos
 
-conceda oh, que nos lo concediera- que algunos que estn muy distanciados de
+conceda –oh, que nos lo concediera- que algunos que están muy distanciados de
 
-l espiritualmente, as como los magos estaban distanciados fsicamente, vengan
+Él espiritualmente, así como los magos estaban distanciados físicamente, vengan
 
-hoy y pregunten: Dnde est el rey de los judos, que ha nacido? Porque
+hoy y pregunten: “żDónde está el rey de los judíos, que ha nacido? Porque
 
-venimos a adorarle. Que los pies que han estado acostumbrados a caminos anchos
+venimos a adorarle”. Que los pies que han estado acostumbrados a caminos anchos
 
-pero desacostumbrados a la senda angosta, tomen ese sendero en este da hasta
+pero desacostumbrados a la senda angosta, tomen ese sendero en este día hasta
 
-llegar a ver a Jess y postrarse delante de l de todo corazn, encontrando en
+llegar a ver a Jesús y postrarse delante de Él de todo corazón, encontrando en
 
-l la salvacin. Esos magos llegaron naturalmente, atravesando el desierto; vayamos
+Él la salvación. Esos magos llegaron naturalmente, atravesando el desierto; vayamos
 
 nosotros espiritualmente, abandonando nuestros pecados. Ellos fueron guiados
 
-por la visin de la estrella; seamos guiados nosotros por la fe en el divino
+por la visión de la estrella; seamos guiados nosotros por la fe en el divino
 
-Espritu, por la enseanza de Su palabra y de todas esas benditas luces que usa
+Espíritu, por la enseńanza de Su palabra y de todas esas benditas luces que usa
 
-el Seor para atraer a los hombres. Slo hemos de ir a Jess. Fue bueno venir
+el Seńor para atraer a los hombres. Sólo hemos de ir a Jesús. Fue bueno venir
 
-al tierno nio Jess guiados por los dbiles rayos de una estrella; ustedes encontrarn
+al tierno nińo Jesús guiados por los débiles rayos de una estrella; ustedes encontrarán
 
-que es todava ms bendito venir a l ahora que es exaltado en los ms altos
+que es todavía más bendito venir a Él ahora que es exaltado en los más altos
 
 cielos y que por medio de Su propia luz revela Su gloria perfecta. No se
 
-demoren, pues en este da l clama: Venid a m todos los que estis trabajados
+demoren, pues en este día Él clama: “Venid a mí todos los que estáis trabajados
 
-y cargados, y yo os har descansar.
+y cargados, y yo os haré descansar”.
 
-Esta maana procuraremos
+Esta mańana procuraremos
 
 hacer tres cosas. Primero,
 
@@ -148,7 +148,7 @@ la luz de la estrella;
 
 en segundo lugar,
 
-recabemos sabidura de estos hombres sabios;
+recabemos sabiduría de estos hombres sabios;
 
 y, en tercer lugar,
 
@@ -164,15 +164,15 @@ entonces, APROVECHEMOS
 
 LA LUZ DE
 
-ESTA ESTRELLA. Que el Espritu del Seor nos capacite para que lo hagamos.
+ESTA ESTRELLA. Que el Espíritu del Seńor nos capacite para que lo hagamos.
 
 Yo supongo que cada uno
 
-de ustedes tiene su propio concepto en cuanto a qu era aquella estrella. Da la
+de ustedes tiene su propio concepto en cuanto a qué era aquella estrella. Da la
 
-impresin que era algo completamente sobrenatural, y no una estrella o un
+impresión que era algo completamente sobrenatural, y no una estrella o un
 
-cometa del tipo comn. No era una constelacin, ni una singular conjuncin de
+cometa del tipo común. No era una constelación, ni una singular conjunción de
 
 planetas; no hay nada en
 
@@ -184,51 +184,51 @@ que sustente una conjetura semejante. Muy
 
 probablemente no se trataba de una estrella en el sentido en que ahora hablamos
 
-de las estrellas, pues vemos que se mova delante de los magos; de pronto
+de las estrellas, pues vemos que se movía delante de los magos; de pronto
 
-desapareca, y luego brillaba y volva a moverse delante de ellos. No habra
+desaparecía, y luego brillaba y volvía a moverse delante de ellos. No habría
 
 podido ser una estrella de las esferas superiores, como otras, pues tales
 
-movimientos no habran sido posibles. Algunos han supuesto que los sabios
+movimientos no habrían sido posibles. Algunos han supuesto que los sabios
 
-andaban en la direccin en que la estrella brillaba en los cielos, y seguan
+andaban en la dirección en que la estrella brillaba en los cielos, y seguían
 
-los cambios de su posicin, pero en ese caso no se habra podido decir que se
+los cambios de su posición, pero en ese caso no se habría podido decir que se
 
-detuvo sobre donde estaba el nio. Si la estrella hubiera estado en su cenit
+detuvo sobre donde estaba el nińo. Si la estrella hubiera estado en su cenit
 
-sobre Beln, habra estado en su cenit sobre Jerusaln tambin, pues la
+sobre Belén, habría estado en su cenit sobre Jerusalén también, pues la
 
-distancia es tan corta que no habra sido posible observar diferencia alguna en
+distancia es tan corta que no habría sido posible observar diferencia alguna en
 
-la posicin de la estrella en los dos lugares. Debe de haber sido una estrella
+la posición de la estrella en los dos lugares. Debe de haber sido una estrella
 
-que ocupaba un plano muy diferente del mbito en que giran los planetas.
+que ocupaba un plano muy diferente del ámbito en que giran los planetas.
 
 Creemos que pudo haber sido una presencia luminosa en medio del aire,
 
-probablemente semejante a la que condujo a los hijos de Israel a travs del
+probablemente semejante a la que condujo a los hijos de Israel a través del
 
-desierto, que era una nube de da y una columna de fuego de noche. Si era vista
+desierto, que era una nube de día y una columna de fuego de noche. Si era vista
 
-a la luz del da o no, no podramos decirlo. Crisstomo y los primeros padres
+a la luz del día o no, no podríamos decirlo. Crisóstomo y los primeros padres
 
-tenan una profunda conviccin de muchas cosas que
+tenían una profunda convicción de muchas cosas que
 
 la Escritura
 
 deja en duda,
 
-pero como esos eminentes telogos basaban sus afirmaciones en la imaginacin, no
+pero como esos eminentes teólogos basaban sus afirmaciones en la imaginación, no
 
 estamos obligados a seguirlos. Ellos afirmaban que esta estrella era tan
 
-brillante que era visible durante todo el da. Si ese fuera el caso, podemos
+brillante que era visible durante todo el día. Si ese fuera el caso, podemos
 
-imaginar que los sabios viajaban de da y de noche; pero si slo era vista de
+imaginar que los sabios viajaban de día y de noche; pero si sólo era vista de
 
-noche, el cuadro que tenemos ante nosotros se torna ms singular y espectral al
+noche, el cuadro que tenemos ante nosotros se torna más singular y espectral al
 
 ver a estos orientales avanzando tranquilamente en su senda iluminada por la
 
@@ -238,15 +238,15 @@ obligatoriamente
 
 cuando
 
-el sol estaba en lo alto, pero apresurndose silenciosamente de noche a travs de
+el sol estaba en lo alto, pero apresurándose silenciosamente de noche a través de
 
-las tierras soolientas. Estas preguntas no son de mucha importancia para nosotros,
+las tierras sońolientas. Estas preguntas no son de mucha importancia para nosotros,
 
 y por tanto, no nos detendremos largamente en ellas.
 
-Pero aqu hay una
+Pero aquí hay una
 
-primera leccin:
+primera lección:
 
 si sucediera alguna vez
 
@@ -254,105 +254,105 @@ que los hombres dejaran de predicar el Evangelio, Dios puede conducir a las
 
 almas a Su Hijo por medio de una estrella.
 
-Ah!, no digamos nicamente por
+ˇAh!, no digamos únicamente por
 
-medio de una estrella, sino tambin por medio de una piedra, de un pjaro, de
+medio de una estrella, sino también por medio de una piedra, de un pájaro, de
 
-una hoja de hierba y de una gota de roco.
+una hoja de hierba y de una gota de rocío.
 
-Recuerden que
+“Recuerden que
 
 la
 
 Omnipotencia
 
-Cuenta con siervos en todas partes.
+Cuenta con siervos en todas partes”.
 
 Por tanto, no te
 
 desanimes cuando te enteres de que un ministro ha dejado de predicar el
 
-Evangelio, o que otro est luchando contra la verdad vital de Dios. Su
+Evangelio, o que otro está luchando contra la verdad vital de Dios. Su
 
-apostasa ser para su propio perjuicio ms bien que ser un dao para Jess y
+apostasía será para su propio perjuicio más bien que será un dańo para Jesús y
 
-para Su iglesia; y, triste como pudiera ser ver que las lmparas del santuario
+para Su iglesia; y, triste como pudiera ser ver que las lámparas del santuario
 
-estn apagadas, Dios no depende de las luces humanas pues l es la luz del Shekhin
+están apagadas, Dios no depende de las luces humanas pues Él es la luz del Shekhiná
 
-de Su santa morada. Si las lenguas mortales rehsan
+de Su santa morada. Si las lenguas mortales rehúsan
 
-predicar Su palabra vern sus lugares remplazados por libros en los torrentes
+predicar Su palabra verán sus lugares remplazados por libros en los torrentes
 
-caudalosos y sermones en las piedras. El rayo de luz clamar desde la pared y
+caudalosos y sermones en las piedras. El rayo de luz clamará desde la pared y
 
-la madera le responder. Cuando los principales sacerdotes y los escribas se
+la madera le responderá. Cuando los principales sacerdotes y los escribas se
 
-apartan del camino, el Seor comisiona a las estrellas, y una vez ms los
+apartan del camino, el Seńor comisiona a las estrellas, y una vez más los
 
 cielos declaran de hecho la gloria de Dios, y el firmamento muestra la obra de
 
 Sus manos. Antes que carecer de predicadores del Dios encarnado, los montes y
 
-las colinas aprenderan elocuencia y prorrumpiran en testimonios. El mensaje
+las colinas aprenderían elocuencia y prorrumpirían en testimonios. El mensaje
 
-de Jehov ser dado a conocer hasta los ltimos confines de la tierra. Dios
+de Jehová será dado a conocer hasta los últimos confines de la tierra. Dios
 
-tendr a Sus elegidos. l har que Cristo vea el fruto de la afliccin de Su
+tendrá a Sus elegidos. Él hará que Cristo vea el fruto de la aflicción de Su
 
-alma y quede satisfecho. Su consejo permanecer y ejecutar Su voluntad. Aleluya!
+alma y quede satisfecho. Su consejo permanecerá y ejecutará Su voluntad. ˇAleluya!
 
 Ahora bien, cuando el
 
-Seor usa a una estrella como Su ministro, cul es el encargo para su
+Seńor usa a una estrella como Su ministro, żcuál es el encargo para su
 
-ministerio? Podemos aprender mediante esta pregunta qu tipo de ministerio quiere
+ministerio? Podemos aprender mediante esta pregunta qué tipo de ministerio quiere
 
 Dios que sea el nuestro si somos estrellas en Su diestra. Nosotros brillamos
 
-tambin como luces en el mundo; veamos cmo hacerlo.
+también como luces en el mundo; veamos cómo hacerlo.
 
 Notamos, primero, que la
 
-predicacin de las estrellas es
+predicación de las estrellas es
 
 integralmente
 
 acerca de Cristo.
 
-No sabemos cul era el color de la estrella, ni la forma
+No sabemos cuál era el color de la estrella, ni la forma
 
-de la estrella, ni qu magnitud haba alcanzado; esos elementos no son consignados,
+de la estrella, ni qué magnitud había alcanzado; esos elementos no son consignados,
 
-pero lo que s est registrado es de mucha mayor importancia; los sabios
+pero lo que sí está registrado es de mucha mayor importancia; los sabios
 
 dijeron:
 
-Su
+“Su
 
-estrella hemos visto. Entonces
+estrella hemos visto”. Entonces
 
-la estrella que el Seor usar para conducir a los seres humanos a Jess tiene
+la estrella que el Seńor usará para conducir a los seres humanos a Jesús tiene
 
 que ser la propia estrella de Cristo. El ministro fiel, igual que esta
 
-estrella, le pertenece a Cristo; es un varn de Cristo en el sentido ms
+estrella, le pertenece a Cristo; es un varón de Cristo en el sentido más
 
-enftico. Antes de que podamos esperar ser convertidos en una bendicin,
+enfático. Antes de que podamos esperar ser convertidos en una bendición,
 
-queridos amigos, nosotros mismos tenemos que ser bendecidos por el Seor. Si
+queridos amigos, nosotros mismos tenemos que ser bendecidos por el Seńor. Si
 
-queremos ser la causa de que otros pertenezcan a Jess, nosotros mismos tenemos
+queremos ser la causa de que otros pertenezcan a Jesús, nosotros mismos tenemos
 
-que pertenecer enteramente a Jess. Cada rayo de esa estrella brillaba para
+que pertenecer enteramente a Jesús. Cada rayo de esa estrella brillaba para
 
-Jess. Era
+Jesús. Era
 
 Su
 
 estrella,
 
-constantemente y exclusivamente y completamente. No brillaba para s misma,
+constantemente y exclusivamente y completamente. No brillaba para sí misma,
 
 sino solamente como
 
@@ -360,29 +360,29 @@ Su
 
 estrella; como
 
-tal era conocida y as se hablaba de ella: Su estrella hemos visto. Tal como
+tal era conocida y así se hablaba de ella: “Su estrella hemos visto”. Tal como
 
-ya he dicho, no se seala que tuviera ninguna peculiaridad excepto esta: que
+ya he dicho, no se seńala que tuviera ninguna peculiaridad excepto esta: que
 
 era la estrella del Rey.
 
-Yo deseara que ustedes
+Yo desearía que ustedes
 
-y yo, sin importar cules pudieran ser nuestras excentricidades o nuestras
+y yo, sin importar cuáles pudieran ser nuestras excentricidades o nuestras
 
 personalidades, no hagamos nunca algo tan grande de ellas como para atraer
 
-hacia ellas la atencin de los hombres. Que la gente no se fije nunca en
+hacia ellas la atención de los hombres. Que la gente no se fije nunca en
 
 nuestros logros o en nuestras deficiencias, sino que observen siempre esta
 
-nica cosa: que somos varones de Dios, que somos embajadores de Cristo, que
+única cosa: que somos varones de Dios, que somos embajadores de Cristo, que
 
 somos siervos de Cristo, y que no intentamos brillar por nosotros mismos, o
 
-hacernos conspicuos, sino que trabajamos arduamente para brillar para l, para que
+hacernos conspicuos, sino que trabajamos arduamente para brillar para Él, para que
 
-Su camino sea conocido en la tierra como tambin Su salud salvadora en todas
+Su camino sea conocido en la tierra como también Su salud salvadora en todas
 
 las naciones.
 
@@ -390,21 +390,21 @@ Hermano, es bueno que
 
 nos olvidemos de nosotros mismos en nuestro mensaje y que nos sumerjamos en
 
-nuestro Seor. Conocemos los nombres de varias estrellas, y con todo, cada una
+nuestro Seńor. Conocemos los nombres de varias estrellas, y con todo, cada una
 
-de ellas podra envidiar a aquella estrella que permanece annima pero que no
+de ellas podría envidiar a aquella estrella que permanece anónima pero que no
 
-puede ser olvidada jams porque los varones que buscaban al Rey de Israel la
+puede ser olvidada jamás porque los varones que buscaban al Rey de Israel la
 
-conocan como
+conocían como
 
-Su
+“Su
 
-estrella. Aunque
+estrella”. Aunque
 
-t seas slo una estrella muy pequeita que titila por Jess, por dbil que sea
+tú seas sólo una estrella muy pequeńita que titila por Jesús, por débil que sea
 
-tu luz, que quede claro que t eres
+tu luz, que quede claro que tú eres
 
 Su
 
@@ -412,151 +412,151 @@ estrella
 
 de tal manera que si los hombres se preguntaran
 
-qu
+qué
 
-eres t, no se puedan preguntar nunca de quin eres, pues en
+eres tú, no se puedan preguntar nunca de quién eres, pues en
 
-tu misma frente estar escrito: De quin soy y a quin sirvo. Dios no
+tu misma frente estará escrito: “De quién soy y a quién sirvo”. Dios no
 
-conducir a los hombres a Cristo por nuestro medio a menos que seamos de Cristo
+conducirá a los hombres a Cristo por nuestro medio a menos que seamos de Cristo
 
-de corazn, integralmente y sin reservas. Nuestro Seor no usa utensilios
+de corazón, integralmente y sin reservas. Nuestro Seńor no usa utensilios
 
-prestados en Su templo; cada tazn delante del altar ha de ser Suyo. No es
+prestados en Su templo; cada tazón delante del altar ha de ser Suyo. No es
 
 consistente con la gloria de Dios que use vasos prestados. No es tan pobre como
 
-para eso. Esta leccin es digna de toda aceptacin. Tienes prisa de predicar,
+para eso. Esta lección es digna de toda aceptación. żTienes prisa de predicar,
 
-jovencito? Ests seguro de que le perteneces a Cristo? Piensas que es algo
+jovencito? żEstás seguro de que le perteneces a Cristo? żPiensas que es algo
 
-bueno contar con un grupo de personas que oigan tus palabras? Lo has visto
+bueno contar con un grupo de personas que oigan tus palabras? żLo has visto
 
-bajo otra luz? Has sopesado la responsabilidad de tener que hablar como Cristo
+bajo otra luz? żHas sopesado la responsabilidad de tener que hablar como Cristo
 
 quisiera que hablaras, y de que te entregues con tu personalidad integral a la
 
-expresin de la mente de Dios? Tienes que estar consagrado y concentrado si
+expresión de la mente de Dios? Tienes que estar consagrado y concentrado si
 
-esperas ser usado por el Seor. Ya sea que tengas un rayo o diez mil rayos,
+esperas ser usado por el Seńor. Ya sea que tengas un rayo o diez mil rayos,
 
-todos deben brillar con el designio de guiar a los hombres a Jess. T no
+todos deben brillar con el designio de guiar a los hombres a Jesús. Tú no
 
-tienes ahora nada que ver con ningn objeto, sujeto, designio o esfuerzo que no
+tienes ahora nada que ver con ningún objeto, sujeto, designio o esfuerzo que no
 
-sea nicamente Jess; tienes que vivir a partir de ahora en l, y por l y para
+sea únicamente Jesús; tienes que vivir a partir de ahora en Él, y por Él y para
 
-l, o nunca sers escogido por el Seor para conducir a Jess ya sea a varones
+Él, o nunca serás escogido por el Seńor para conducir a Jesús ya sea a varones
 
-sabios o a bebs. Mira bien que tengas la consagracin perfecta.
+sabios o a bebés. Mira bien que tengas la consagración perfecta.
 
-Noten a continuacin que
+Noten a continuación que
 
-la verdadera predicacin de la estrella
+la verdadera predicación de la estrella
 
 conduce
 
 a Cristo.
 
-La estrella era la propia estrella de Cristo, pero tambin
+La estrella era la propia estrella de Cristo, pero también
 
-condujo a otros a Cristo. Lo hizo en gran medida porque se mova en esa
+condujo a otros a Cristo. Lo hizo en gran medida porque se movía en esa
 
-direccin. Es algo triste cuando un predicador es como un poste de seales que
+dirección. Es algo triste cuando un predicador es como un poste de seńales que
 
-indica el camino pero que nunca lo sigue personalmente. As eran esos
+indica el camino pero que nunca lo sigue personalmente. Así eran esos
 
-principales sacerdotes en Jerusaln; podan decir dnde haba nacido Cristo,
+principales sacerdotes en Jerusalén; podían decir dónde había nacido Cristo,
 
-pero no fueron nunca a adorarle; eran completamente indiferentes a l y a Su nacimiento.
+pero no fueron nunca a adorarle; eran completamente indiferentes a Él y a Su nacimiento.
 
 La estrella que conduce a Cristo tiene que estar yendo siempre a Cristo. Los
 
-hombres son mucho ms atrados por el ejemplo que cautivados por la
+hombres son mucho más atraídos por el ejemplo que cautivados por la
 
-exhortacin. Slo la piedad personal es reconocida por Dios para la produccin
+exhortación. Sólo la piedad personal es reconocida por Dios para la producción
 
-de piedad en otros. Vayan, les dices t, pero ellos no quieren ir. Diles:
+de piedad en otros. “Vayan”, les dices tú, pero ellos no quieren ir. Diles:
 
-Vengan, y dirige t el camino y entonces vendrn. Acaso las ovejas no siguen
+“Vengan”, y dirige tú el camino y entonces vendrán. żAcaso las ovejas no siguen
 
 al pastor? Quien quiera conducir a otros a Cristo tiene que ir delante de
 
-ellos, y poner su rostro en direccin a su Maestro, sus ojos hacia su Maestro,
+ellos, y poner su rostro en dirección a su Maestro, sus ojos hacia su Maestro,
 
-sus pasos hacia su Maestro y su corazn hacia su Maestro. Debemos vivir de tal
+sus pasos hacia su Maestro y su corazón hacia su Maestro. Debemos vivir de tal
 
 manera que podamos, sin jactarnos, instar a quienes nos rodean a que nos tengan
 
 como ejemplo. Oh, que todos los que consideren que son estrellas se muevan ellos
 
-mismos diligentemente en direccin al Seor Jess. La estrella en el oriente
+mismos diligentemente en dirección al Seńor Jesús. La estrella en el oriente
 
-condujo a los magos a Cristo porque ella misma iba en esa direccin; en el
+condujo a los magos a Cristo porque ella misma iba en esa dirección; en el
 
-ejemplo hay una sabidura que los hombres verdaderamente sabios perciben
+ejemplo hay una sabiduría que los hombres verdaderamente sabios perciben
 
 pronto. Esta estrella tuvo tal influencia sobre los hombres escogidos que no
 
-podan evitar seguirla; los embeles a travs del desierto. Un embeleso
+podían evitar seguirla; los embelesó a través del desierto. Un embeleso
 
-semejante puede residir en ti y en m, y nosotros podemos ejercer un poderoso
+semejante puede residir en ti y en mí, y nosotros podemos ejercer un poderoso
 
 ministerio sobre muchos corazones si somos como imanes para ellos que los
 
-atraigan al Seor Jess. Dichoso privilegio! No quisiramos mostrar
+atraigan al Seńor Jesús. ˇDichoso privilegio! No quisiéramos mostrar
 
 simplemente el camino, sino inducir a nuestros vecinos a tomarlo. Leemos acerca
 
-de alguien en la antigedad, no que le hablaran de Jess, sino que lo trajeron
+de alguien en la antigüedad, no que le hablaran de Jesús, sino que “lo trajeron
 
-a Jess. Nosotros no slo hemos de contar la historia de la cruz, sino que
+a Jesús”. Nosotros no sólo hemos de contar la historia de la cruz, sino que
 
 hemos de persuadir a los hombres a que acudan presurosamente al Crucificado
 
-para salvacin. No dijo acaso a sus siervos el rey en la parbola: Furzalos
+para salvación. żNo dijo acaso a sus siervos el rey en la parábola: “Fuérzalos
 
-a entrar? Ciertamente l cie a Sus propios mensajeros con tal poder impelente
+a entrar”? Ciertamente Él cińe a Sus propios mensajeros con tal poder impelente
 
-que los hombres no pueden resistirse por ms tiempo, sino que tienen que seguir
+que los hombres no pueden resistirse por más tiempo, sino que tienen que seguir
 
-su gua y postrarse a los pies del Rey. La estrella no atraa por decirlo as como
+su guía y postrarse a los pies del Rey. La estrella no atraía “por decirlo así como
 
-con coyundas de carreta, ni por medio de alguna fuerza material y fsica; con
+con coyundas de carreta”, ni por medio de alguna fuerza material y física; con
 
-todo, atrajo a los magos desde el remoto oriente hasta el pesebre del nio que
+todo, atrajo a los magos desde el remoto oriente hasta el pesebre del nińo que
 
-haba nacido. Y as, aunque no tenemos ningn brazo de la ley que nos ayude, ni
+había nacido. Y así, aunque no tenemos ningún brazo de la ley que nos ayude, ni
 
-ningn patrocinio, ni pompa de elocuencia, ni alarde de aprendizaje, tenemos un
+ningún patrocinio, ni pompa de elocuencia, ni alarde de aprendizaje, tenemos un
 
-poder espiritual gracias al cual atraemos a Jess a miles de personas que son
+poder espiritual gracias al cual atraemos a Jesús a miles de personas que son
 
 nuestro gozo y corona. El hombre enviado por Dios sale de la presencia divina
 
 permeado con un poder que hace que los hombres se vuelvan al Salvador y vivan.
 
-Oh!, que tal poder pudiera salir de todos los ministros de Dios, s, de todos
+ˇOh!, que tal poder pudiera salir de todos los ministros de Dios, sí, de todos
 
-los siervos de Dios involucrados en la predicacin en las calles, en las
+los siervos de Dios involucrados en la predicación en las calles, en las
 
-escuelas dominicales, en la distribucin de tratados, y en toda forma de santo
+escuelas dominicales, en la distribución de tratados, y en toda forma de santo
 
-servicio. Dios usa a aquellos que tienen el propsito y la intencin de atraer
+servicio. Dios usa a aquellos que tienen el propósito y la intención de atraer
 
-a los hombres a Cristo. l infunde Su Espritu en ellos, y son ayudados por ese
+a los hombres a Cristo. Él infunde Su Espíritu en ellos, y son ayudados por ese
 
-Espritu para proclamar al Seor Jess como Alguien tan precioso y deseable que
+Espíritu para proclamar al Seńor Jesús como Alguien tan precioso y deseable que
 
-los hombres corren a l y aceptan Su gloriosa salvacin. Brillar es poca cosa,
+los hombres corren a Él y aceptan Su gloriosa salvación. Brillar es poca cosa,
 
 pero atraer es algo grande. Cualquier proscrito puede ser brillante; pero
 
-nicamente el verdadero santo podr atraer a la gente a Jess. Yo no orara
+únicamente el verdadero santo podrá atraer a la gente a Jesús. Yo no oraría
 
-pidiendo ser un orador, pero s ruego pidiendo ser un ganador de almas. Amados
+pidiendo ser un orador, pero sí ruego pidiendo ser un ganador de almas. Amados
 
-hermanos, no apunten a nada que no sea conducir a los hombres a Jess. No se
+hermanos, no apunten a nada que no sea conducir a los hombres a Jesús. No se
 
 contenten con conducirlos a una doctrina ortodoxa, o a llevarlos meramente a
 
@@ -568,115 +568,115 @@ la Escritura
 
 pudieran ser. Es a la persona del Dios encarnado que tenemos que llevarlos; a
 
-Sus pies debemos conducirlos para que le adoren; nuestra misin no est
+Sus pies debemos conducirlos para que le adoren; nuestra misión no está
 
-cumplida y sera ms bien un fracaso total, si no conducimos a nuestros oyentes
+cumplida y sería más bien un fracaso total, si no conducimos a nuestros oyentes
 
-a la casa donde Jess mora, y si luego no estamos pendientes de ellos,
+a la casa donde Jesús mora, y si luego no estamos pendientes de ellos,
 
-vigilando sus almas por causa de Jess.
+vigilando sus almas por causa de Jesús.
 
-Adems, la estrella que
+Además, la estrella que
 
-Dios us en este caso era una estrella que
+Dios usó en este caso era una estrella que
 
 se
 
-detuvo en Jess;
+detuvo en Jesús;
 
-fue delante de los magos hasta que los llev a Jess y
+fue delante de los magos hasta que los llevó a Jesús y
 
-luego se qued quieta sobre el lugar donde el tierno infante se encontraba. Yo
+luego se quedó quieta sobre el lugar donde el tierno infante se encontraba. Yo
 
 admiro el comportamiento de esta estrella. Hay estrellas notables en el cielo
 
-teolgico en el momento presente; han conducido a los hombres a Jess, eso
+teológico en el momento presente; han conducido a los hombres a Jesús, eso
 
-dicen ellos, y ahora los conducen a regiones ms lejanas donde se encuentra un
+dicen ellos, y ahora los conducen a regiones más lejanas donde se encuentra un
 
-pensamiento inexplorado todava. El evangelio de los puritanos es anticuado y
+pensamiento inexplorado todavía. El evangelio de los puritanos es “anticuado” y
 
 esos individuos han descubierto que es inapropiado para los engrandecidos
 
-intelectos de los tiempos, y as esas estrellas quisieran guiarnos ms adelante
+intelectos de los tiempos, y así esas estrellas quisieran guiarnos más adelante
 
-todava. Yo no pertenezco a este orden de estrellas errantes, y confo no
+todavía. Yo no pertenezco a este orden de estrellas errantes, y confío no
 
-pertenecer nunca: El progreso ms all del Evangelio no es algo que yo desee. Lejos
+pertenecer nunca: El progreso más allá del Evangelio no es algo que yo desee. “Lejos
 
-est de m gloriarme, sino en la cruz de nuestro Seor Jesucristo. Cuando la
+esté de mí gloriarme, sino en la cruz de nuestro Seńor Jesucristo”. Cuando la
 
-estrella hubo llegado al lugar donde estaba el tierno infante, se qued
+estrella hubo llegado al lugar donde estaba el tierno infante, se quedó
 
 detenida, y de igual manera la mente piadosa debe quedarse establecida, fija,
 
-inconmovible. Los magos saban dnde encontrar esa estrella, y dnde encontrar
+inconmovible. Los magos sabían dónde encontrar esa estrella, y dónde encontrar
 
-al tierno nio por medio de ella; que as sea con nosotros. Oh, ustedes que
+al tierno nińo por medio de ella; que así sea con nosotros. Oh, ustedes que
 
-hasta aqu han sido diligentes conduciendo a las almas a Cristo, nunca
+hasta aquí han sido diligentes conduciendo a las almas a Cristo, nunca
 
-entretengan ni por un instante la idea de que necesitan una filosofa ms
+entretengan ni por un instante la idea de que necesitan una filosofía más
 
-especulativa o una espiritualidad ms profunda de las que han de ser encontradas
+especulativa o una espiritualidad más profunda de las que han de ser encontradas
 
-en Jess. Qudense en l. Clamen: Pronto est mi corazn, oh Dios, mi corazn
+en Jesús. Quédense en Él. Clamen: “Pronto está mi corazón, oh Dios, mi corazón
 
-est dispuesto. No hay nada ms all de Cristo que sea digno de que lo
+está dispuesto”. No hay nada más allá de Cristo que sea digno de que lo
 
-consideremos ni siquiera por un instante. No pierdan su paraso en Cristo por
+consideremos ni siquiera por un instante. No pierdan su paraíso en Cristo por
 
-querer probar otra vez del rbol del conocimiento del bien y del mal que arruin
+querer probar otra vez del árbol del conocimiento del bien y del mal que arruinó
 
-a nuestros primeros padres. Afrrense a los viejos puntos: que Cristo sea su
+a nuestros primeros padres. Aférrense a los viejos puntos: que Cristo sea su
 
-nico tema, que llevar a los hombres a Cristo sea su nico propsito, que la
+único tema, que llevar a los hombres a Cristo sea su único propósito, que la
 
-gloria de Cristo sea la nica gloria de ustedes. Quedndote junto a tu Seor, y
+gloria de Cristo sea la única gloria de ustedes. Quedándote junto a tu Seńor, y
 
-nicamente all, desde ahora y hasta el ltimo da, garantizars una vida
+únicamente allí, desde ahora y hasta el último día, garantizarás una vida
 
-dichosa, honrosa y santa. Decan de Grecia, despus de su cada, que haba
+dichosa, honrosa y santa. Decían de Grecia, después de su caída, que había
 
-quedado tan devastada que podras buscar a Grecia en Grecia sin poder
+quedado tan devastada que podrías buscar a Grecia en Grecia sin poder
 
 encontrarla; me temo que tengo que decir que algunos individuos que profesan
 
 ser predicadores del evangelio han merodeado
 
-tan lejos de l que no puedes encontrar al
+tan lejos de él que no puedes encontrar al
 
 Evangelio en su evangelio, ni al propio Cristo en el Cristo que predican. Tan
 
 lejos se han apartado de la grandiosa verdad esencial que salva a las almas,
 
-ms all de la cual nadie debera atreverse a querer ir, que no retienen nada
+más allá de la cual nadie debería atreverse a querer ir, que no retienen nada
 
-del cristianismo excepto el nombre. Todo lo que est ms all de la verdad es
+del cristianismo excepto el nombre. Todo lo que está más allá de la verdad es
 
-una mentira; cualquier cosa que est ms all de la revelacin, es en el mejor
+una mentira; cualquier cosa que esté más allá de la revelación, es en el mejor
 
-de los casos un asunto nimio, y ms probablemente se trata de una fbula de
+de los casos un asunto nimio, y más probablemente se trata de una fábula de
 
-viejas matronas, aun cuando quien la invent pudiera pertenecer al gnero
+viejas matronas, aun cuando quien la inventó pudiera pertenecer al género
 
-masculino. No abandones tus colores, t que esperas ser usado por el Seor. Has
+masculino. No abandones tus colores, tú que esperas ser usado por el Seńor. Has
 
 de permanecer siendo de tal manera que los hombres te encuentren dentro de
 
-veinte aos brillando por Jess y sealando el lugar donde el Salvador ha de
+veinte ańos brillando por Jesús y seńalando el lugar donde el Salvador ha de
 
-ser encontrado, tal como lo ests haciendo ahora. Que Jesucristo sea tu
+ser encontrado, tal como lo estás haciendo ahora. Que Jesucristo sea tu
 
-ultimtum. Tu obra est concluida cuando llevas las almas a Jess, y ayudas a
+ultimátum. Tu obra está concluida cuando llevas las almas a Jesús, y ayudas a
 
-mantenerlas all porque t mismo eres firme, inconmovible. No debes
+mantenerlas allí porque tú mismo eres “firme, inconmovible”. No debes
 
 desprenderte de la esperanza de tu llamamiento, sino que debes retener la forma
 
 de las sanas palabras, pues pudiera ser que si dejas ir la forma pudieras
 
-perder tambin la sustancia.
+perder también la sustancia.
 
 II.
 
@@ -684,21 +684,21 @@ Ahora
 
 que nos hemos alegrado de alguna manera con la luz de la estrella, veamos si
 
-podemos EXTRAER SABIDURA DE LOS MAGOS. Tal vez hayan odo de la mucha pltica
+podemos EXTRAER SABIDURÍA DE LOS MAGOS. Tal vez hayan oído de la “mucha plática”
 
-de la tradicin respecto a quines eran, de dnde venan, y cmo viajaron. En
+de la tradición respecto a quiénes eran, de dónde venían, y cómo viajaron. En
 
-la iglesia griega, yo creo, saben su nmero, sus nombres, el carcter de su
+la iglesia griega, yo creo, saben su número, sus nombres, el carácter de su
 
-squito, y qu tipo de ornamentos haba en los cuellos de sus dromedarios.
+séquito, y qué tipo de ornamentos había en los cuellos de sus dromedarios.
 
 Ustedes pueden optar por creer o descartar los detalles que no se encuentran en
 
-la palabra de Dios, segn les parezca, y seran sabios si optaran por no creer
+la palabra de Dios, según les parezca, y serían sabios si optaran por no creer
 
-demasiado. Nosotros slo sabemos que eran unos magos, unos sabios del oriente,
+demasiado. Nosotros sólo sabemos que eran unos magos, unos sabios del oriente,
 
-posiblemente seguidores de la vieja religin parsi, estudiosos si no es que
+posiblemente seguidores de la vieja religión parsi, estudiosos si no es que
 
 adoradores de las estrellas. No vamos a especular respecto a ellos, sino que
 
@@ -708,199 +708,199 @@ No se contentaron con
 
 admirar a la estrella y compararla con otras estrellas, ni con tomar notas en
 
-cuanto a la fecha exacta de su aparicin, y cuntas veces titil, y cundo se
+cuanto a la fecha exacta de su aparición, y cuántas veces titiló, y cuándo se
 
-movi, y todo eso, sino que
+movió, y todo eso, sino que
 
 pusieron en
 
-prctica la enseanza de la estrella.
+práctica la enseńanza de la estrella.
 
 Muchos son oyentes y son admiradores
 
 de los siervos de Dios, pero no son lo suficientemente sabios para hacer un uso
 
-adecuado y apropiado de la predicacin. Notan la peculiaridad del lenguaje del
+adecuado y apropiado de la predicación. Notan la peculiaridad del lenguaje del
 
-predicador, cunto se parece a algn telogo y cunto difiere de otro telogo;
+predicador, cuánto se parece a algún teólogo y cuánto difiere de otro teólogo;
 
 si tose con demasiada frecuencia o si su voz es demasiado gutural; si habla
 
-gritando o muy bajito; si no tiene un acento provincial, si no hay en l un
+gritando o muy bajito; si no tiene un acento provincial, si no hay en él un
 
-lenguaje muy comn que se aproxima a la vulgaridad; o, por otro lado, si no es
+lenguaje muy común que se aproxima a la vulgaridad; o, por otro lado, si no es
 
-demasiado florido en su diccin. Tonteras como esas son las observaciones
+demasiado florido en su dicción. Tonterías como esas son las observaciones
 
-constantes de algunos seres humanos por cuyas almas laboramos. Ellos estn
+constantes de algunos seres humanos por cuyas almas laboramos. Ellos están
 
-pereciendo, y sin embargo, estn jugando con esos asuntos tan insignificantes. Eso
+pereciendo, y sin embargo, están jugando con esos asuntos tan insignificantes. Eso
 
 es todo para lo que van a la casa de Dios muchas personas: van para criticar de
 
 esa miserable manera. Incluso los he visto venir a este lugar con binoculares
 
-de pera, como si vinieran aqu para inspeccionar a un actor que viviera y
+de ópera, como si vinieran aquí para inspeccionar a un actor que viviera y
 
 trabajara para divertir sus ratos de ocio. Tal es el deporte de los necios;
 
-pero estos varones eran hombres sabios, y por tanto, eran varones prcticos. No
+pero estos varones eran hombres sabios, y por tanto, eran varones prácticos. No
 
 se volvieron observadores de las estrellas, y no se quedaron en el punto de
 
-admirar a la notable estrella, sino que dijeron: Dnde est el rey de los
+admirar a la notable estrella, sino que dijeron: “żDónde está el rey de los
 
-judos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos
+judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos
 
-para adorarle. Se dedicaron de inmediato a encontrar al Rey recin nacido, de
+para adorarle”. Se dedicaron de inmediato a encontrar al Rey recién nacido, de
 
-cuya venida era la seal la estrella.
+cuya venida era la seńal la estrella.
 
-Oh, mis queridos
+ˇOh, mis queridos
 
-oyentes, cmo deseo que todos ustedes sean sabios de esta misma manera! Yo
+oyentes, cómo deseo que todos ustedes sean sabios de esta misma manera! Yo
 
-preferira predicar el sermn ms insulso que haya sido predicado jams, que
+preferiría predicar el sermón más insulso que haya sido predicado jamás, que
 
-predicar el discurso ms brillante que haya sido pronunciado alguna vez, si por
+predicar el discurso más brillante que haya sido pronunciado alguna vez, si por
 
-medio de ese pobre sermn pudiera conducirlos muy lejos de m para buscar al
+medio de ese pobre sermón pudiera conducirlos muy lejos de mí para buscar al
 
-Seor Jesucristo. Esa es la nica cosa que me preocupa. No me darn gusto
+Seńor Jesucristo. Esa es la única cosa que me preocupa. żNo me darán gusto
 
-jams preguntando por mi Seor y Maestro? Anhelo orles decir: De qu est hablando
+jamás preguntando por mi Seńor y Maestro? Anhelo oírles decir: “żDe qué está hablando
 
-este varn? Habla de un Salvador; queremos tener a ese Salvador. Habla respecto
+este varón? Habla de un Salvador; queremos tener a ese Salvador. Habla respecto
 
-a un perdn por medio de la sangre de Cristo; habla de que Dios descendi entre
+a un perdón por medio de la sangre de Cristo; habla de que Dios descendió entre
 
 los hombres para salvarlos; vamos a descubrir si hay alguna realidad en este
 
-perdn, alguna verdad en esta salvacin. Buscaremos a Jess, y buscaremos para
+perdón, alguna verdad en esta salvación. Buscaremos a Jesús, y buscaremos para
 
-nosotros las bendiciones que se declara que estn guardadas en l. Si los
+nosotros las bendiciones que se declara que están guardadas en Él”. Si los
 
-oyera a todos ustedes diciendo eso yo estara dispuesto a morir de gozo.
+oyera a todos ustedes diciendo eso yo estaría dispuesto a morir de gozo.
 
-Acaso no es ste un
+żAcaso no es éste un
 
-buen da para que empiecen a encontrar a su Salvador? Algunos de ustedes han
+buen día para que empiecen a encontrar a su Salvador? Algunos de ustedes han
 
-pospuesto esto por largo tiempo, no sera bueno que empezaran de inmediato
+pospuesto esto por largo tiempo, żno sería bueno que empezaran de inmediato
 
-antes que este ao agonizante hubiere visto su ltimo da? Estos sabios
+antes que este ańo agonizante hubiere visto su último día? Estos sabios
 
 parecieran haberse puesto en camino tan pronto como descubrieron a la estrella;
 
 no eran de los que tienen tiempo que desperdiciar en demoras innecesarias.
 
-All est la estrella, dijeron; partimos bajo su gua. No estamos
+“Allí está la estrella”, dijeron; “partimos bajo su guía. ˇNo estamos
 
-satisfechos con una estrella; vamos a encontrar al Rey que es el dueo de la
+satisfechos con una estrella; vamos a encontrar al Rey que es el dueńo de la
 
-estrella! Y as se dieron a la tarea de encontrar a Cristo de manera inmediata
+estrella!” Y así se dieron a la tarea de encontrar a Cristo de manera inmediata
 
 y resuelta.
 
 Siendo sabios,
 
-perseveraron en su bsqueda del Rey.
+perseveraron en su búsqueda del Rey.
 
 No
 
-podramos decir qu distancia recorrieron. Los viajes eran extremadamente
+podríamos decir qué distancia recorrieron. Los viajes eran extremadamente
 
-complicados en aquellos tiempos. Tenan que evadir tribus hostiles, tenan que
+complicados en aquellos tiempos. Tenían que evadir tribus hostiles, tenían que
 
-atravesar anchos ros como el Tigris y el ufrates, y tenan que penetrar en desiertos
+atravesar anchos ríos como el Tigris y el Éufrates, y tenían que penetrar en desiertos
 
-inexplorados; pero para ellos no haba ninguna dificultad o peligro. Salieron
+inexplorados; pero para ellos no había ninguna dificultad o peligro. Salieron
 
-con rumbo a Jerusaln, y a Jerusaln llegaron, buscando al rey de los judos.
+con rumbo a Jerusalén, y a Jerusalén llegaron, buscando al rey de los judíos.
 
-Si es cierto que Dios ha asumido nuestra naturaleza, deberamos decidir
+Si es cierto que Dios ha asumido nuestra naturaleza, deberíamos decidir
 
-encontrarlo, sin importar cul sea el costo. Si tenemos que circunnavegar el
+encontrarlo, sin importar cuál sea el costo. Si tenemos que circunnavegar el
 
-globo para encontrar a un Salvador, la distancia y el costo no deberan ser nada
+globo para encontrar a un Salvador, la distancia y el costo no deberían ser nada
 
-en tanto que podamos llegar a l. Si el Cristo estuviera en las entraas de la
+en tanto que podamos llegar a Él. Si el Cristo estuviera en las entrańas de la
 
-tierra, o en las cimas del cielo no deberamos descansar hasta llegar a l. Los
+tierra, o en las cimas del cielo no deberíamos descansar hasta llegar a Él. Los
 
-sabios juntaron pronto todo lo que era necesario para su expedicin, sin
+sabios juntaron pronto todo lo que era necesario para su expedición, sin
 
 importar los gastos, y partieron siguiendo a la estrella para descubrir al
 
-Prncipe de los reyes de la tierra.
+Príncipe de los reyes de la tierra.
 
-Despus de un tiempo
+Después de un tiempo
 
-llegaron a Jerusaln y all los esperaban nuevas pruebas. Debe de haber sido un
+llegaron a Jerusalén y allí los esperaban nuevas pruebas. Debe de haber sido un
 
-grave problema para ellos que preguntaran: Dnde est el rey de los judos que
+grave problema para ellos que preguntaran: “żDónde está el rey de los judíos que
 
-ha nacido?, y la gente meneara su cabeza como si pensaran que la pregunta era
+ha nacido?”, y la gente meneara su cabeza como si pensaran que la pregunta era
 
-necia. Ni los ricos ni los pobres en la ciudad metropolitana saban nada acerca
+necia. Ni los ricos ni los pobres en la ciudad metropolitana sabían nada acerca
 
-del Rey de Israel. La multitud procaz replic: Herodes es el rey de los judos.
+del Rey de Israel. La multitud procaz replicó: “Herodes es el rey de los judíos.
 
-Fjate cmo hablas de otro rey, o tu cabeza podra tener que responder por
+Fíjate cómo hablas de otro rey, o tu cabeza podría tener que responder por
 
-ello. El tirano no tolera ningn rival. Los magos deben de haber estado ms
+ello. El tirano no tolera ningún rival”. Los magos deben de haber estado más
 
-asombrados todava cuando vieron que Herodes estaba turbado. Les alegraba
+asombrados todavía cuando vieron que Herodes estaba turbado. Les alegraba
 
-pensar que haba nacido el que iba a introducir la edad de oro; pero la faz de
+pensar que había nacido el que iba a introducir la edad de oro; pero la faz de
 
-Herodes se ensombreci ms que nunca ante la simple mencin de un rey de los
+Herodes se ensombreció más que nunca ante la simple mención de un rey de los
 
-judos. Sus ojos echaron chispas y una nube de tormenta cubri su frente; un
+judíos. Sus ojos echaron chispas y una nube de tormenta cubrió su frente; un
 
-sombro acto de matanza iba a resultar de eso, aunque por el momento l ocultara
+sombrío acto de matanza iba a resultar de eso, aunque por el momento él ocultara
 
-su malicia. Hay un tumulto a lo largo de todas las calles de Jerusaln, pues
+su malicia. Hay un tumulto a lo largo de todas las calles de Jerusalén, pues
 
 nadie sabe lo que el siniestro Herodes pudiera hacer ahora que ha sido alertado
 
-por la pregunta: Dnde est el rey de los judos que ha nacido? As se
+por la pregunta: “żDónde está el rey de los judíos que ha nacido?” Así se
 
-produjo un fermento en Jerusaln que comenz en el palacio; pero eso no detuvo
+produjo un fermento en Jerusalén que comenzó en el palacio; pero eso no detuvo
 
-a los magos en su bsqueda del Prncipe prometido. No empacaron sus maletas ni
+a los magos en su búsqueda del Príncipe prometido. No empacaron sus maletas ni
 
-regresaron diciendo: Es intil tratar de descubrir este cuestionable personaje
+regresaron diciendo: “Es inútil tratar de descubrir este cuestionable personaje
 
-que es desconocido aun en el pas del cual es Rey, y que pareciera ser
+que es desconocido aun en el país del cual es Rey, y que pareciera ser
 
-terriblemente rechazado por quienes han de ser Sus sbditos. Debemos dejar para
+terriblemente rechazado por quienes han de ser Sus súbditos. Debemos dejar para
 
-otro da la solucin de la pregunta: Dnde est el rey de los judos que ha
+otro día la solución de la pregunta: ‘żDónde está el rey de los judíos que ha
 
-nacido?
+nacido?’”
 
 Aquellos buscadores de
 
-mentes resueltas no se desanimaron por los clrigos ni los eruditos cuando se
+mentes resueltas no se desanimaron por los clérigos ni los eruditos cuando se
 
 juntaron con ellos. A los principales sacerdotes y a los escribas se les hizo
 
-la pregunta, y ellos la respondieron en lo que respecta a dnde nacera Cristo,
+la pregunta, y ellos la respondieron en lo que respecta a dónde nacería Cristo,
 
-pero absolutamente nadie quiso acompaar a los magos para encontrar al Rey que
+pero absolutamente nadie quiso acompańar a los magos para encontrar al Rey que
 
-haba nacido. Extraa apata! Ay, cun comn es! Esos que deban haber sido lderes
+había nacido. ˇExtrańa apatía! ˇAy, cuán común es! Esos que debían haber sido líderes
 
-no cumplieron con su papel; no queran ser ni siquiera seguidores de lo que es
+no cumplieron con su papel; no querían ser ni siquiera seguidores de lo que es
 
-bueno, pues no sentan ningn entusiasmo por Cristo. Los magos superaron este
+bueno, pues no sentían ningún entusiasmo por Cristo. Los magos superaron este
 
-serio desnimo. Si los clrigos no queran ayudarlos, ellos iran a Jess por
+serio desánimo. Si los clérigos no querían ayudarlos, ellos irían a Jesús por
 
-s solos. Oh, querido amigo, si eres sabio, dirs: Voy a encontrar yo solo a
+sí solos. Oh, querido amigo, si eres sabio, dirás: “Voy a encontrar yo solo a
 
-Jess aunque nadie se una a m; aunque tuviera que cavar hasta el centro de la
+Jesús aunque nadie se una a mí; aunque tuviera que cavar hasta el centro de la
 
 tierra, lo voy a encontrar; aunque tuviera que volar hasta el sol, lo voy a
 
@@ -910,79 +910,79 @@ los ministros del Evangelio me parezcan indiferentes, yo lo voy a encontrar; el
 
 reino de los cielos desde tiempos antiguos sufre violencia, y los violentos lo
 
-arrebatan, y eso har yo. Los primeros cristianos tenan que dejar atrs a
+arrebatan, y eso haré yo”. Los primeros cristianos tenían que dejar atrás a
 
-todos los maestros autorizados del da y salir solos; no sera nada extrao que
+todos los maestros autorizados del día y salir solos; no sería nada extrańo que
 
-tuvieras que hacer lo mismo. Qu dicha ser que ests resuelto a atravesar las
+tuvieras que hacer lo mismo. Qué dicha será que estés resuelto a atravesar las
 
-corrientes y las llamas para encontrar a Cristo, pues lo encontrars. Entonces
+corrientes y las llamas para encontrar a Cristo, pues lo encontrarás. Entonces
 
-aquellos hombres eran sabios porque habiendo iniciado la bsqueda, perseveraron
+aquellos hombres eran sabios porque habiendo iniciado la búsqueda, perseveraron
 
-en ella hasta que encontraron al Seor y le adoraron. Noten que eran sabios
+en ella hasta que encontraron al Seńor y le adoraron. Noten que eran sabios
 
 porque cuando vieron a la estrella de nuevo,
 
-se regocijaron con muy grande gozo.
+“se regocijaron con muy grande gozo”.
 
 Mientras preguntaban entre
 
-los sacerdotes de Jerusaln, estaban perplejos, pero cuando la estrella brill
+los sacerdotes de Jerusalén, estaban perplejos, pero cuando la estrella brilló
 
 de nuevo, volvieron a estar tranquilos y se llenaron de dicha y expresaron ese
 
-gozo, de tal manera que el evangelista lo dej registrado. En estos das,
+gozo, de tal manera que el evangelista lo dejó registrado. En estos días,
 
-individuos muy sabios piensan que es necesario reprimir toda emocin, y dan la
+individuos muy sabios piensan que es necesario reprimir toda emoción, y dan la
 
-impresin de ser hombres de piedra o de hielo. Sin importar lo que suceda son
+impresión de ser hombres de piedra o de hielo. Sin importar lo que suceda son
 
-estoicos y estn muy por encima del entusiasmo de la gente vulgar. Es asombroso
+estoicos y están muy por encima del entusiasmo de la gente vulgar. Es asombroso
 
-cmo cambian las modas, y la locura toma el lugar de la filosofa. Pero esos
+cómo cambian las modas, y la locura toma el lugar de la filosofía. Pero esos
 
 magos eran lo suficientemente infantiles como para estar alegres cuando su perplejidad
 
-se extingui y la clara luz resplandeci. Es una buena seal cuando un hombre
+se extinguió y la clara luz resplandeció. Es una buena seńal cuando un hombre
 
-no se avergenza de ser dichoso porque oye un testimonio claro e inconfundible
+no se avergüenza de ser dichoso porque oye un testimonio claro e inconfundible
 
-sobre el Seor Jess. Es bueno ver al gran hombre descender de su pedestal, y, cual
+sobre el Seńor Jesús. Es bueno ver al gran hombre descender de su pedestal, y, cual
 
-tierno nio, que se regocije al or la simple historia de la cruz. Denme al
+tierno nińo, que se regocije al oír la simple historia de la cruz. Denme al
 
-oyente que no busca galas, sino que clama: Condceme a Jess. Necesito un gua
+oyente que no busca galas, sino que clama: “Condúceme a Jesús. Necesito un guía
 
-que me lleve a Jess, y ninguna otra cosa me satisfar. Vamos, ciertamente, si
+que me lleve a Jesús, y ninguna otra cosa me satisfará”. Vamos, ciertamente, si
 
-los hombres conocieran el valor de las cosas, se regocijaran ms al ver a un
+los hombres conocieran el valor de las cosas, se regocijarían más al ver a un
 
 predicador del Evangelio que a un rey. Si los pies de los heraldos de la
 
-salvacin son bendecidos, cunto ms sus lenguas cuando declaran las buenas
+salvación son bendecidos, cuánto más sus lenguas cuando declaran las buenas
 
-nuevas de un Salvador. Aquellos magos, con todos sus conocimientos msticos, no
+nuevas de un Salvador. Aquellos magos, con todos sus conocimientos místicos, no
 
 se avergonzaban de regocijarse porque una diminuta estrella les prestara sus
 
-rayos para conducirlos a Jess. Nos unimos a ellos en el regocijo por causa de
+rayos para conducirlos a Jesús. Nos unimos a ellos en el regocijo por causa de
 
-un claro ministerio evangelstico. Para nosotros todo lo dems es oscuridad,
+un claro ministerio evangelístico. Para nosotros todo lo demás es oscuridad,
 
-afliccin y vejacin de espritu; pero lo que nos conduce a nuestro propio
+aflicción y vejación de espíritu; pero lo que nos conduce a nuestro propio
 
-glorioso Seor es espritu, y luz y vida. Es preferible que el sol deje de
+glorioso Seńor es espíritu, y luz y vida. Es preferible que el sol deje de
 
-brillar en vez de que no se predique un claro Evangelio. Estimamos que un pas
+brillar en vez de que no se predique un claro Evangelio. Estimamos que un país
 
-prospera o se desmorona segn la luz del Evangelio sea revelada o retirada.
+prospera o se desmorona según la luz del Evangelio sea revelada o retirada.
 
 Ahora avancen con los
 
-magos. Ellos han llegado a la casa donde se encuentra el tierno nio. Qu es
+magos. Ellos han llegado a la casa donde se encuentra el tierno nińo. żQué es
 
-lo que harn? Se quedarn viendo a la estrella? No;
+lo que harán? żSe quedarán viendo a la estrella? No;
 
 ellos entran.
 
@@ -990,95 +990,95 @@ La estrella se queda quieta pero ellos no temen
 
 perder su resplandor si pueden contemplar al Sol de justicia. No exclamaron:
 
-Vemos la estrella, y eso nos basta; hemos seguido a la estrella y eso es todo
+“Vemos la estrella, y eso nos basta; hemos seguido a la estrella y eso es todo
 
-lo que necesitamos hacer. Para nada. Levantan el pestillo y entran en la
+lo que necesitamos hacer”. Para nada. Levantan el pestillo y entran en la
 
-humilde residencia del beb. Ya no ven ms a la estrella y no tienen ninguna
+humilde residencia del bebé. Ya no ven más a la estrella y no tienen ninguna
 
-necesidad de verla, pues all est Aquel que es el rey de los judos que ha
+necesidad de verla, pues allí está Aquel que es el rey de los judíos que ha
 
 nacido. Ahora la verdadera Luz ha resplandecido sobre ellos en el rostro del
 
-nio; ahora contemplan al Dios encarnado. Oh, amigos!, cun sabios sern
+nińo; ahora contemplan al Dios encarnado. ˇOh, amigos!, cuán sabios serán
 
-ustedes si, una vez que hayan sido conducidos a Cristo por cualquier varn, no
+ustedes si, una vez que hayan sido conducidos a Cristo por cualquier varón, no
 
 descansan en su liderazgo sino que tienen que ver a Cristo por ustedes mismos.
 
-Cunto anhelo que puedan entrar en la comunin del misterio, que atraviesen la
+Cuánto anhelo que puedan entrar en la comunión del misterio, que atraviesen la
 
-puerta, y entren y contemplen al tierno nio y se postren delante de l.
+puerta, y entren y contemplen al tierno nińo y se postren delante de Él.
 
-Nuestra afliccin es que tantas personas sean tan poco sabias. Nosotros slo somos
+Nuestra aflicción es que tantas personas sean tan poco sabias. Nosotros sólo somos
 
-sus guas, pero esas personas son propensas a convertirnos en su fin. Nosotros
+sus guías, pero esas personas son propensas a convertirnos en su fin. Nosotros
 
-indicamos el camino, pero ellos no siguen el camino; se quedan mirndonos. La
+indicamos el camino, pero ellos no siguen el camino; se quedan mirándonos. La
 
-estrella se ha esfumado; hizo su trabajo y desapareci; Jess permanece y los
+estrella se ha esfumado; hizo su trabajo y desapareció; Jesús permanece y los
 
-sabios viven en l. Ser tan necio alguno de ustedes como para pensar nicamente
+sabios viven en Él. żSerá tan necio alguno de ustedes como para pensar únicamente
 
 en el predicador que perece y olvidar al Salvador que vive para siempre? Vamos,
 
-sean sabios, y apresrense a ir a su Seor de inmediato.
+sean sabios, y apresúrense a ir a su Seńor de inmediato.
 
-Por ltimo, esos eran
+Por último, esos eran
 
-hombres sabios, y yo les recomiendo su ejemplo- porque cuando vieron al nio
+hombres sabios, –y yo les recomiendo su ejemplo- porque cuando vieron al nińo
 
 ellos le adoraron.
 
 La suya no era una curiosidad
 
-satisfecha, sino una devocin cumplida. Nosotros debemos adorar tambin al
+satisfecha, sino una devoción cumplida. Nosotros debemos adorar también al
 
-Salvador o no seremos nunca salvados por l. l no ha venido para quitar
+Salvador o no seremos nunca salvados por Él. Él no ha venido para quitar
 
-nuestros pecados, y a pesar de ello, dejar que sigamos siendo impos y
+nuestros pecados, y a pesar de ello, dejar que sigamos siendo impíos y
 
-obstinados. Oh, ustedes que no han adorado nunca al Cristo de Dios, que fueran
+obstinados. ˇOh, ustedes que no han adorado nunca al Cristo de Dios, que fueran
 
-conducidos a hacerlo de inmediato! l es Dios sobre todas las cosas, bendito
+conducidos a hacerlo de inmediato! ˇÉl es Dios sobre todas las cosas, bendito
 
-por los siglos, adrenle! Fue visto Dios en esa venerable forma anteriormente?
+por los siglos, adórenle! żFue visto Dios en esa venerable forma anteriormente?
 
-He aqu, l inclina los cielos; cabalga sobre las alas del viento; esparce
+He aquí, Él inclina los cielos; cabalga sobre las alas del viento; esparce
 
-flamas de fuego; l habla y Su terrible artillera conmueve los montes; t adoras
+flamas de fuego; Él habla y Su terrible artillería conmueve los montes; tú adoras
 
-en terror. Quin no adorara al grandioso y terrible Jehov? Pero no es mucho
+en terror. żQuién no adoraría al grandioso y terrible Jehová? żPero no es mucho
 
-mejor contemplarlo aqu, aliado a tu naturaleza, envuelto en paales como otros
+mejor contemplarlo aquí, aliado a tu naturaleza, envuelto en pańales como otros
 
-nios, tierno, dbil, un pariente cercano a ti mismo? No adorars a Dios
+nińos, tierno, débil, un pariente cercano a ti mismo? żNo adorarás a Dios
 
 cuando desciende a ti de esa manera y se convierte en tu hermano, nacido para
 
-tu salvacin? Aqu la naturaleza misma sugiere adoracin: oh, que la gracia la
+tu salvación? Aquí la naturaleza misma sugiere adoración: ˇoh, que la gracia la
 
-produzca! Apresurmonos a adorar en donde los pastores y los magos y los
+produzca! Apresurémonos a adorar en donde los pastores y los magos y los
 
-ngeles han guiado el camino.
+ángeles han guiado el camino.
 
-Aqu debemos hacer que
+Aquí debemos hacer que
 
-mi sermn haga una pausa tal como lo hizo la estrella. Entren en la casa y
+mi sermón haga una pausa tal como lo hizo la estrella. ˇEntren en la casa y
 
 adoren! Olviden al predicador. Que la luz de la estrella alumbre otros ojos.
 
-Jess naci para que t puedas nacer de nuevo. l vivi para que t puedas
+Jesús nació para que tú puedas nacer de nuevo. Él vivió para que tú puedas
 
-vivir. l muri para que t puedas morir al pecado. l resucit y hoy hace
+vivir. Él murió para que tú puedas morir al pecado. Él resucitó y hoy hace
 
-intercesin por los transgresores para que puedan ser reconciliados con Dios a
+intercesión por los transgresores para que puedan ser reconciliados con Dios a
 
-travs de l. Vengan, entonces; crean, confen, regocjense, adoren! Si no
+través de Él. ˇVengan, entonces; crean, confíen, regocíjense, adoren! Si no
 
 tienen ni oro, ni incienso, ni mirra, traigan su fe, su amor, su
 
-arrepentimiento, y postrados delante del Hijo de Dios, rndanle la reverencia
+arrepentimiento, y postrados delante del Hijo de Dios, ríndanle la reverencia
 
 de sus corazones.
 
@@ -1086,7 +1086,7 @@ III.
 
 Y
 
-ahora voy a mi tercero y ltimo punto, que es: ACTUEMOS COMO VARONES SABIOS
+ahora voy a mi tercero y último punto, que es: ACTUEMOS COMO VARONES SABIOS
 
 BAJO
 
@@ -1094,109 +1094,109 @@ LA LUZ
 
 DE
 
-NUESTRA ESTRELLA. Nosotros tambin hemos recibido luz para que nos conduzca al
+NUESTRA ESTRELLA. Nosotros también hemos recibido luz para que nos conduzca al
 
-Salvador; podra decir que para nosotros muchas estrellas han brillado con ese
+Salvador; podría decir que para nosotros muchas estrellas han brillado con ese
 
 bendito objetivo. Sin embargo, sobre ese punto voy a contentarme con hacer unas
 
 preguntas.
 
-No creen que haya alguna luz para ustedes en su vocacin particular,
+żNo creen que haya alguna luz para ustedes en su vocación particular,
 
-algn
+algún
 
-llamamiento de Dios en el llamamiento de ustedes? Escchenme y luego escuchen a
+llamamiento de Dios en el llamamiento de ustedes? Escúchenme y luego escuchen a
 
 Dios. Esos varones eran observadores de las estrellas; por tanto, una estrella
 
-fue utilizada para llamarlos. Poco tiempo despus, algunos otros varones eran
+fue utilizada para llamarlos. Poco tiempo después, algunos otros varones eran
 
-pescadores, y por medio de una asombrosa captura de peces el Seor Jess los
+pescadores, y por medio de una asombrosa captura de peces el Seńor Jesús los
 
-hizo conscientes de Su poder superior, y luego los llam para que se volvieran
+hizo conscientes de Su poder superior, y luego los llamó para que se volvieran
 
 pescadores de hombres. Para un observador de las estrellas, lo mejor es una
 
 estrella; para un pescador, lo mejor es un pez. El Maestro-Pescador tiene una
 
-carnada para cada uno de Sus elegidos y con mucha frecuencia l selecciona un
+carnada para cada uno de Sus elegidos y con mucha frecuencia Él selecciona un
 
-punto en el propio llamamiento de ellos para que sea la punta del anzuelo. Estabas
+punto en el propio llamamiento de ellos para que sea la punta del anzuelo. żEstabas
 
-ocupado ayer detrs de tu mostrador? No oste ninguna voz que te dijera: Compra
+ocupado ayer detrás de tu mostrador? żNo oíste ninguna voz que te dijera: “Compra
 
-la verdad, y no la vendas? Cuando cerraste la tienda anoche no pensaste que
+la verdad, y no la vendas”? Cuando cerraste la tienda anoche żno pensaste que
 
-pronto tendrs que cerrarla por ltima vez? Haces pan y no te preguntas nunca:
+pronto tendrás que cerrarla por última vez? żHaces pan y no te preguntas nunca:
 
-ha comido mi alma el pan del cielo? Eres un hacendado? Labras la tierra?
+“ha comido mi alma el pan del cielo?” żEres un hacendado? żLabras la tierra?
 
-No te ha hablado nunca Dios por medio de esos campos atravesados por surcos y
+żNo te ha hablado nunca Dios por medio de esos campos atravesados por surcos y
 
-estas cambiantes estaciones, y no te ha hecho desear que tu corazn sea labrado
+estas cambiantes estaciones, y no te ha hecho desear que tu corazón sea labrado
 
-y sembrado? Escucha! Dios est hablando! Oye, t que eres sordo, pues hay
+y sembrado? ˇEscucha! ˇDios está hablando! Oye, tú que eres sordo, pues hay
 
-voces por doquier llamndote al cielo. No necesitas recorrer muchas millas para
+voces por doquier llamándote al cielo. No necesitas recorrer muchas millas para
 
-encontrar un vnculo entre ti y la misericordia sempiterna; los cables
+encontrar un vínculo entre ti y la misericordia sempiterna; los cables
 
-telegrficos estn a ambos lados del camino, Dios y las almas de los hombres
+telegráficos están a ambos lados del camino, Dios y las almas de los hombres
 
-estn cercanos. Cmo deseo que su vocacin comn pudiera ser vista por ustedes
+están cercanos. Cómo deseo que su vocación común pudiera ser vista por ustedes
 
-como ocultando en su interior la puerta para su excelsa vocacin. Oh que el
+como ocultando en su interior la puerta para su excelsa vocación. Oh que el
 
-Espritu Santo convirtiera sus ocupaciones favoritas en oportunidades para Su
+Espíritu Santo convirtiera sus ocupaciones favoritas en oportunidades para Su
 
-obra de gracia en ustedes. Si no entre las estrellas, s entre las flores del
+obra de gracia en ustedes. Si no entre las estrellas, sí entre las flores del
 
-jardn, o el ganado de los montes, o las olas del mar, que encuentre l una red
+jardín, o el ganado de los montes, o las olas del mar, que encuentre Él una red
 
 que los encierre para Cristo. Yo deseo que aquellos de ustedes que concluyan
 
-que su llamamiento no podra llevarlos nunca a Cristo, se esmeraran en ver si
+que su llamamiento no podría llevarlos nunca a Cristo, se esmeraran en ver si
 
-no pudiera ser as. Hemos de aprender de las hormigas, y de las golondrinas, y
+no pudiera ser así. Hemos de aprender de las hormigas, y de las golondrinas, y
 
 de las grullas y de los conejos; ciertamente nunca debemos quedarnos cortos de
 
-tutores. Pareca que una estrella hubiese sido realmente algo improbable para
+tutores. Parecía que una estrella hubiese sido realmente algo improbable para
 
-que encabezara una procesin de magos orientales, y con todo, fue la mejor gua
+que encabezara una procesión de magos orientales, y con todo, fue la mejor guía
 
-que se hubiera podido encontrar; y as pudiera parecer que es algo improbable
+que se hubiera podido encontrar; y así pudiera parecer que es algo improbable
 
-que tu oficio te lleve a Jess, y sin embargo, el Seor podra usarlo para eso.
+que tu oficio te lleve a Jesús, y sin embargo, el Seńor podría usarlo para eso.
 
-Pudiera haber un mensaje del Seor para ti en muchas providencias siniestras;
+Pudiera haber un mensaje del Seńor para ti en muchas providencias siniestras;
 
-una voz para darte sabidura pudiera llegarte del hocico de un asno; un llamado
+una voz para darte sabiduría pudiera llegarte del hocico de un asno; un llamado
 
-a una vida santa podra sorprenderte desde un arbusto, una advertencia podra
+a una vida santa podría sorprenderte desde un arbusto, una advertencia podría
 
-destellar sobre ti desde una pared, o una visin podra impresionarte en el
+destellar sobre ti desde una pared, o una visión podría impresionarte en el
 
-silencio de la noche cuando el sueo profundo cae sobre los hombres. Slo
+silencio de la noche cuando el sueńo profundo cae sobre los hombres. Sólo
 
-tienes que estar listo a or y Dios encontrar la manera de hablarte. Responde
+tienes que estar listo a oír y Dios encontrará la manera de hablarte. Responde
 
-la pregunta a la manera como los sabios la habran respondido, y di: S, en
+la pregunta a la manera como los sabios la habrían respondido, y di: “Sí, en
 
-nuestro llamamiento hay un llamado a Cristo.
+nuestro llamamiento hay un llamado a Cristo”.
 
 Entonces,
 
-qu podramos hacer mejor ustedes y yo en
+żqué podríamos hacer mejor ustedes y yo en
 
 esta vida que buscar a Cristo?
 
 Los magos pensaban que cualquier otra
 
-empresa era sin importancia comparada con esta. Quin va a asistir a ese
+empresa era sin importancia comparada con esta. “żQuién va a asistir a ese
 
-observatorio y contemplar el resto de las estrellas? Ellos mueven sus cabezas,
+observatorio y contemplar el resto de las estrellas?” Ellos mueven sus cabezas,
 
 y responden que no saben; esas cosas deben esperar; han visto
 
@@ -1204,61 +1204,61 @@ Su
 
 estrella y se aprestan a adorarle.
 
-Pero, quin atender a sus esposas y familias, y todo lo dems, mientras
+Pero, żquién atenderá a sus esposas y familias, y todo lo demás, mientras
 
 realizan este largo viaje? Ellos replican que cualquier cosa menor ha de
 
-subordinarse a todo lo superior. Los asuntos deben valorarse en su debida proporcin,
+subordinarse a todo lo superior. Los asuntos deben valorarse en su debida proporción,
 
-y la bsqueda del rey de los judos, quien es el deseo de todas las naciones,
+y la búsqueda del rey de los judíos, quien es el deseo de todas las naciones,
 
-es tan grande ms all de toda proporcin que todo lo dems pasa a un segundo
+es tan grande más allá de toda proporción que todo lo demás pasa a un segundo
 
-plano. No eres t tambin lo suficientemente sabio para juzgar de esta misma
+plano. żNo eres tú también lo suficientemente sabio para juzgar de esta misma
 
-manera sensible? No piensan, queridos amigos, que sera bueno usar todo el da
+manera sensible? żNo piensan, queridos amigos, que sería bueno usar todo el día
 
-de maana para buscar a Jess? Ser un da feriado, podras pasarlo mejor que
+de mańana para buscar a Jesús? Será un día feriado, żpodrías pasarlo mejor que
 
 buscando a tu Redentor? Si fueras a tomar una semana, y entregarla enteramente
 
-a tu propia alma buscando a Cristo, no estara bien invertida? Cmo puedes
+a tu propia alma buscando a Cristo, żno estaría bien invertida? żCómo puedes
 
-vivir con tu alma en peligro? Oh, que dijeras: Tengo que entender muy bien
+vivir con tu alma en peligro? Oh, que dijeras: “Tengo que entender muy bien
 
-esto; es un asunto sobremanera importante, y tengo que verlo alcanzado. Esto
+esto; es un asunto sobremanera importante, y tengo que verlo alcanzado”. Esto
 
-no sera ms que puro sentido comn. Si ests manejando un carruaje y se
+no sería más que puro sentido común. Si estás manejando un carruaje y se
 
-rompieran los arreos, no detendras el caballo, y arreglaras el arns? Cmo,
+rompieran los arreos, żno detendrías el caballo, y arreglarías el arnés? żCómo,
 
-entonces, puedes seguir con el carro de la vida cuando todo su arns es
+entonces, puedes seguir con el carro de la vida cuando todo su arnés es
 
-inservible y una cada significa tu ruina eterna? Si dejas de conducir para
+inservible y una caída significa tu ruina eterna? Si dejas de conducir para
 
-arreglar un cinturn por miedo de un accidente, yo te pedira que detengas
+arreglar un cinturón por miedo de un accidente, yo te pediría que detengas
 
 cualquier cosa y todas las cosas para ocuparte de la seguridad de tu alma. Mira
 
-cmo revisa el ingeniero la vlvula de seguridad; ests contento de correr
+cómo revisa el ingeniero la válvula de seguridad; żestás contento de correr
 
-unos riesgos ms peligrosos? Si tu casa no estuviera asegurada y realizaras una
+unos riesgos más peligrosos? Si tu casa no estuviera asegurada y realizaras una
 
-actividad riesgosa, la probabilidad es que te sentiras extremadamente ansioso
+actividad riesgosa, la probabilidad es que te sentirías extremadamente ansioso
 
-mientras no hubieras arreglado ese asunto; pero tu alma no est asegurada y
+mientras no hubieras arreglado ese asunto; pero tu alma no está asegurada y
 
-podra arder perennemente, no le prestars atencin a eso? Yo te suplico que
+podría arder perennemente, żno le prestarás atención a eso? Yo te suplico que
 
-seas justo contigo mismo, que seas amable contigo mismo. Oh!, ocpate de tu
+seas justo contigo mismo, que seas amable contigo mismo. ˇOh!, ocúpate de tu
 
-bienestar eterno. No tienes certeza de que llegars a casa para cenar esta
+bienestar eterno. No tienes certeza de que llegarás a casa para cenar esta
 
-noche. La vida es frgil como una telaraa. Podras estar en el infierno antes
+noche. La vida es frágil como una telarańa. ˇPodrías estar en el infierno antes
 
-de que tu reloj d la una! Recuerda eso. No hay ni un paso entre t y la separacin
+de que tu reloj dé la una! Recuerda eso. No hay ni un paso entre tú y la separación
 
-eterna de la presencia de Dios si todava no has sido regenerado; y tu nica
+eterna de la presencia de Dios si todavía no has sido regenerado; y tu única
 
 esperanza es encontrar al Salvador, confiar en el Salvador, obedecer al
 
@@ -1266,29 +1266,29 @@ Salvador. Por tanto, igual que estos magos, haz todo a un lado, y comienza a
 
 hacer ahora un esfuerzo sincero, decidido y perseverante para encontrar a
 
-Jess. Estaba a punto de decir: resuelve encontrar a Jess o morir; pero voy a
+Jesús. Estaba a punto de decir: resuelve encontrar a Jesús o morir; pero voy a
 
-cambiar las palabras, y voy a decir: resuelve encontrarlo a l y vivir.
+cambiar las palabras, y voy a decir: resuelve encontrarlo a Él y vivir.
 
 Cuando lleguemos cerca
 
-de Jess hagmonos esta pregunta:
+de Jesús hagámonos esta pregunta:
 
-Vemos
+“żVemos
 
-ms en Jess de lo que ven otras personas?,
+más en Jesús de lo que ven otras personas?”,
 
 pues si lo hacemos, somos
 
-elegidos de Dios, instruidos por Dios, iluminados por Su Espritu. Leemos en
+elegidos de Dios, instruidos por Dios, iluminados por Su Espíritu. Leemos en
 
-las Escrituras que cuando estos magos vieron al tierno nio, se postraron y le
+las Escrituras que cuando estos magos vieron al tierno nińo, se postraron y le
 
-adoraron. Otras personas podran haber entrado y podran haber visto al nio y
+adoraron. Otras personas podrían haber entrado y podrían haber visto al nińo y
 
-haber dicho: Muchos nios son tan interesantes como el beb de esta pobre
+haber dicho: “Muchos nińos son tan interesantes como el bebé de esta pobre
 
-mujer. S, pero cuando esos varones miraron, ellos
+mujer”. Sí, pero cuando esos varones miraron, ellos
 
 vieron:
 
@@ -1302,91 +1302,91 @@ la
 
 Deidad
 
-resplandeciendo a travs de la humanidad; la gloria ocultndose
+resplandeciendo a través de la humanidad; la gloria ocultándose
 
-en unos paales. Sin duda haba un esplendor espiritual respecto a este nio
+en unos pańales. ˇSin duda había un esplendor espiritual respecto a este nińo
 
-sin par! Leemos que el padre y la madre de Moiss vieron que era hermoso; vieron
+sin par! Leemos que el padre y la madre de Moisés vieron que “era hermoso”; vieron
 
-que era hermoso para Dios, dice el original. Pero cuando estos varones
+que era “hermoso para Dios”, dice el original. Pero cuando estos varones
 
-elegidos vieron ese santo ser que es llamado el Hijo del Altsimo, descubrieron
+elegidos vieron ese santo ser que es llamado el Hijo del Altísimo, descubrieron
 
-en l una gloria completamente desconocida hasta ese momento. Entonces Su estrella
+en Él una gloria completamente desconocida hasta ese momento. Entonces Su estrella
 
-iba en ascenso para ellos. l se convirti en su todo en todo, y ellos le
+iba en ascenso para ellos. Él se convirtió en su todo en todo, y ellos le
 
-adoraron de todo corazn. Has descubierto tal gloria en Cristo? Oh!, dice
+adoraron de todo corazón. żHas descubierto tal gloria en Cristo? “ˇOh!”, –dice
 
-alguien- siempre ests tocando el arpa respecto a Cristo y Su gloria. T eres
+alguien- “siempre estás tocando el arpa respecto a Cristo y Su gloria. ˇTú eres
 
-un hombre de una sola idea! Precisamente es as. Mi nica idea es que l es
+un hombre de una sola idea! Precisamente es así. Mi única idea es que Él es
 
-todo codiciable, y que no hay nada fuera del cielo que sea comparable a l,
+“todo codiciable”, y que no hay nada fuera del cielo que sea comparable a Él,
 
-aun en Su estado ms humilde y dbil. Has visto alguna vez algo como eso en
+aun en Su estado más humilde y débil. żHas visto alguna vez algo como eso en
 
-Jess? Si as fuera, eres del Seor; anda, y regocjate en l. Si no fuera as,
+Jesús? Si así fuera, eres del Seńor; anda, y regocíjate en Él. Si no fuera así,
 
-pdele a Dios que abra tus ojos hasta que, como los magos, veas y adores.
+pídele a Dios que abra tus ojos hasta que, como los magos, veas y adores.
 
-Por ltimo, aprendan de
+Por último, aprendan de
 
 estos magos que cuando ellos adoraron no permitieron que fuera una mera
 
-adoracin con las manos vacas. Pregntate:
+adoración con las manos vacías. Pregúntate:
 
-Qu
+“żQué
 
-le entregar al Seor?
+le entregaré al Seńor?”
 
-Postrados delante del tierno nio, ofrecieron oro,
+Postrados delante del tierno nińo, ofrecieron “oro,
 
-incienso y mirra, lo ms selecto de los de los metales y lo ms selecto de las
+incienso y mirra”, lo más selecto de los de los metales y lo más selecto de las
 
 especias; una ofrenda de oro para el Rey; una ofrenda de incienso para el
 
-sacerdote; una ofrenda de mirra para el nio. Los sabios son hombres liberales.
+sacerdote; una ofrenda de mirra para el nińo. Los sabios son hombres liberales.
 
-La consagracin es la mejor educacin. Hoy se piensa que ser sabio es estar
+La consagración es la mejor educación. Hoy se piensa que ser sabio es estar
 
-siempre recibiendo; pero el Salvador dijo: Ms bienaventurado es dar que
+siempre recibiendo; pero el Salvador dijo: “Más bienaventurado es dar que
 
-recibir. Dios juzga nuestros corazones por aquello que proviene
+recibir”. Dios juzga nuestros corazones por aquello que proviene
 
-espontneamente de ellos; de aqu que la caa aromtica comprada por dinero es aceptable
+espontáneamente de ellos; de aquí que la cańa aromática comprada por dinero es aceptable
 
-para l cuando es ofrecida libremente. l no sobrecarga a Sus santos ni los
+para Él cuando es ofrecida libremente. Él no sobrecarga a Sus santos ni los
 
 hace fatigar con incienso, antes bien se deleita viendo en ellos ese amor que
 
 no puede expresarse con simples palabras, sino que tiene que usar oro y mirra,
 
-obras de amor y actos de abnegacin que sirven de emblemas de su gratitud.
+obras de amor y actos de abnegación que sirven de emblemas de su gratitud.
 
 Hermanos, ustedes no van
 
-a penetrar nunca en el corazn de la dicha mientras no se vuelvan abnegados y
+a penetrar nunca en el corazón de la dicha mientras no se vuelvan abnegados y
 
-generosos; ustedes solamente han mascado las cscaras de la religin que a
+generosos; ustedes solamente han mascado las cáscaras de la religión que a
 
 menudo son amargas, pero no han comido nunca de la dulce semilla mientras no
 
-hayan sentido el amor de Dios que los constrie a hacer un sacrificio. No hay
+hayan sentido el amor de Dios que los constrińe a hacer un sacrificio. No hay
 
-nada al alcance del verdadero creyente que no hara por su Seor, nada en
+nada al alcance del verdadero creyente que no haría por su Seńor, nada en
 
-nuestra riqueza que no le daramos a l, nada en nosotros mismos que no
+nuestra riqueza que no le daríamos a Él, nada en nosotros mismos que no
 
-dedicaramos a Su servicio.
+dedicaríamos a Su servicio.
 
-Que Dios les d a todos
+ˇQue Dios les dé a todos
 
-ustedes la gracia para venir a Jess, aun cuando sea por medio de la luz
+ustedes la gracia para venir a Jesús, aun cuando sea por medio de la luz
 
-estelar de este sermn, por amor de Su nombre! Amn.
+estelar de este sermón, por amor de Su nombre! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 12/Diciembre/2012
 

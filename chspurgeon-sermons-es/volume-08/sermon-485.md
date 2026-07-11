@@ -1,16 +1,16 @@
 # Sermón 485 | Sermón 485
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-No Haba Lugar
+No Había Lugar
 
-Para Cristo En El Mesn
+Para Cristo En El Mesón
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,143 +18,143 @@ DOMINGO 21 DE
 
 DICIEMBRE, 1862
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y dio a luz
+“Y dio a luz
 
-a su hijo primognito, y lo envolvi en paales, y lo acost en un pesebre,
+a su hijo primogénito, y lo envolvió en pańales, y lo acostó en un pesebre,
 
-porque no haba lugar para ellos en el mesn. Lucas 2: 7.
+porque no había lugar para ellos en el mesón”. Lucas 2: 7.
 
 Era necesario que
 
-quedara claramente comprobado, de manera indisputable, que nuestro Seor
+quedara claramente comprobado, de manera indisputable, que nuestro Seńor
 
-proceda de la tribu de Jud. Era necesario, tambin, que naciera en Beln Efrata,
+procedía de la tribu de Judá. Era necesario, también, que naciera en Belén Efrata,
 
-conforme a la palabra de Dios, la cual haba hablado por Su siervo Miqueas. Pero
+conforme a la palabra de Dios, la cual había hablado por Su siervo Miqueas. Pero
 
-cmo se obtendra un reconocimiento pblico del linaje de un oscuro carpintero
+żcómo se obtendría un reconocimiento público del linaje de un oscuro carpintero
 
-y de una doncella desconocida? Qu inters se supone que podran tener los
+y de una doncella desconocida? żQué interés se supone que podrían tener los
 
 encargados de los registros en dos personas tan humildes como ellas? En cuanto
 
-al segundo punto, Mara viva en Nazaret de Galilea, y todo pareca indicar que
+al segundo punto, María vivía en Nazaret de Galilea, y todo parecía indicar que
 
-el nacimiento tendra lugar all; en verdad, el perodo para su alumbramiento
+el nacimiento tendría lugar allí; en verdad, el período para su alumbramiento
 
 estaba tan cerca que, a menos que se viese absolutamente obligada, no era
 
-probable que emprendiera un viaje largo y tedioso a la surea provincia de Judea.
+probable que emprendiera un viaje largo y tedioso a la sureńa provincia de Judea.
 
-Cmo habran de compaginarse estos dos asuntos? Puede una vuelta de rueda
+żCómo habrían de compaginarse estos dos asuntos? żPuede una vuelta de rueda
 
-lograr dos propsitos? Se puede hacer! Se har! El sello oficial del imperio
+lograr dos propósitos? ˇSe puede hacer! ˇSe hará! El sello oficial del imperio
 
-romano quedar estampado en el rbol genealgico del Hijo de David que habr de
+romano quedará estampado en el árbol genealógico del Hijo de David que habrá de
 
-nacer, y Beln contemplar Su natividad. Por alguna muestra de un espritu
+nacer, y Belén contemplará Su natividad. Por alguna muestra de un espíritu
 
 independiente, un tirano menor, Herodes, ofende al tirano mayor, Augusto. Augusto
 
-le informa que no lo tratar ms como a un amigo, sino como a un vasallo, y
+le informa que no lo tratará más como a un amigo, sino como a un vasallo, y
 
-aunque Herodes se somete a la ms abyecta sumisin, y aunque sus amigos en la
+aunque Herodes se somete a la más abyecta sumisión, y aunque sus amigos en la
 
-corte de Roma interceden por l, Augusto, para mostrar su disgusto, ordena que
+corte de Roma interceden por él, Augusto, para mostrar su disgusto, ordena que
 
-se haga un censo de todo el pueblo judo, en preparacin para un proyectado
+se haga un censo de todo el pueblo judío, en preparación para un proyectado
 
-rgimen tributario, el cual, sin embargo, no fue llevado a cabo sino hasta unos
+régimen tributario, el cual, sin embargo, no fue llevado a cabo sino hasta unos
 
-diez aos despus. Ni siquiera los vientos y las olas son ms inconstantes que
+diez ańos después. Ni siquiera los vientos y las olas son más inconstantes que
 
-la voluntad de un tirano, pero el Gobernante de las tempestades sabe cmo
+la voluntad de un tirano, pero el Gobernante de las tempestades sabe cómo
 
-gobernar a los perversos espritus de los prncipes. El Seor nuestro Dios
+gobernar a los perversos espíritus de los príncipes. El Seńor nuestro Dios
 
-tiene un freno para el caballo de guerra ms salvaje y un anzuelo para el ms
+tiene un freno para el caballo de guerra más salvaje y un anzuelo para el más
 
-terrible leviatn. Los Csares autocrticos no son sino tteres movidos con
+terrible leviatán. Los Césares autocráticos no son sino títeres movidos con
 
 hilos invisibles, meros lacayos al servicio del Rey de reyes. Augusto debe ser
 
 conducido a sentirse ofendido con Herodes; es obligado a gravar con impuestos a
 
-la gente; es imperativo que se lleve a cabo un censo; es ms, se hace necesario
+la gente; es imperativo que se lleve a cabo un censo; es más, se hace necesario
 
-que se publiquen regulaciones inconvenientes, duras y tirnicas, y que cada
+que se publiquen regulaciones inconvenientes, duras y tiránicas, y que cada
 
-persona deba acudir a la aldea a la cual se saba que perteneca. Entonces
+persona deba acudir a la aldea a la cual se sabía que pertenecía. Entonces
 
-Mara se traslada a Beln, Jesucristo nace segn estaba establecido, y, adems,
+María se traslada a Belén, Jesucristo nace según estaba establecido, y, además,
 
 es reconocido oficialmente como descendiente de David por el hecho de que Su
 
-madre fue a Beln porque perteneca a ese linaje, habiendo permanecido all, y habiendo
+madre fue a Belén porque pertenecía a ese linaje, habiendo permanecido allí, y habiendo
 
-regresado a Galilea sin que sus legtimos derechos fuesen cuestionados, pues
+regresado a Galilea sin que sus legítimos derechos fuesen cuestionados, pues
 
-era de esperarse que los celos de todas las mujeres del clan se habran
+era de esperarse que los celos de todas las mujeres del clan se habrían
 
 despertado si una intrusa se hubiera aventurado a reclamar un lugar en medio de
 
-las pocas mujeres entre quienes el nacimiento del Mesas estaba anunciado por
+las pocas mujeres entre quienes el nacimiento del Mesías estaba anunciado por
 
-expresas profecas. Noten aqu la sabidura de un Dios de providencia, y crean
+expresas profecías. Noten aquí la sabiduría de un Dios de providencia, y crean
 
-que todas las cosas estn bien ordenadas.
+que todas las cosas están bien ordenadas.
 
 Una vez que todas las
 
-personas de la casa de David se trasladaron por esa razn a Beln, el escaso
+personas de la casa de David se trasladaron por esa razón a Belén, el escaso
 
-alojamiento del pequeo pueblo se agot pronto. Sin duda los amigos hospedaron
+alojamiento del pequeńo pueblo se agotó pronto. Sin duda los amigos hospedaron
 
-a sus amigos hasta llenar sus casas, pero Jos no contaba con parientes en el
+a sus amigos hasta llenar sus casas, pero José no contaba con parientes en el
 
-pueblo que tuvieran esa disposicin. Se contaba con un caravasar que era
+pueblo que tuvieran esa disposición. Se contaba con un caravasar que era
 
 provisto en cada aldea, donde se proporcionaba un alojamiento gratuito a los
 
-viajeros; ese espacio estaba lleno tambin, pues viniendo de lejos, y vindose
+viajeros; ese espacio estaba lleno también, pues viniendo de lejos, y viéndose
 
-forzados a viajar con lentitud, la humilde pareja haba llegado al caer la
+forzados a viajar con lentitud, la humilde pareja había llegado al caer la
 
 tarde. Las habitaciones dentro del gran bloque de ladrillos ya estaban ocupadas
 
-por muchas familias; no quedaba ningn alojamiento mejor, ni siquiera para una
+por muchas familias; no quedaba ningún alojamiento mejor, ni siquiera para una
 
-mujer que estaba a punto de dar a luz, sino uno de los espacios ms mezquinos
+mujer que estaba a punto de dar a luz, sino uno de los espacios más mezquinos
 
-que estaba asignado a las bestias de carga. El establo del asno era el nico
+que estaba asignado a las bestias de carga. El establo del asno era el único
 
-lugar en que el nio poda nacer. Colgando una cortina al frente, y tal vez inmovilizando
+lugar en que el nińo podía nacer. Colgando una cortina al frente, y tal vez inmovilizando
 
-al animal en el costado externo con el objeto de bloquear la pasada, poda
+al animal en el costado externo con el objeto de bloquear la pasada, podía
 
-obtenerse la privacidad necesaria, y all, en el establo, naci el Rey de
+obtenerse la privacidad necesaria, y allí, en el establo, nació el Rey de
 
 Gloria, y fue colocado en el pesebre.
 
-Mi tarea esta maana
+Mi tarea esta mańana
 
-consiste en dirigir sus meditaciones al establo de Beln, para que puedan
+consiste en dirigir sus meditaciones al establo de Belén, para que puedan
 
-contemplar este grandioso espectculo: el Salvador en el pesebre, y considerar
+contemplar este grandioso espectáculo: el Salvador en el pesebre, y considerar
 
-la razn para ese humilde lecho: porque no haba lugar para ellos en el
+la razón para ese humilde lecho: “porque no había lugar para ellos en el
 
-mesn.
+mesón”.
 
 I.
 
 Para
 
-comenzar quisiera comentar que HUBO OTRAS RAZONES POR LAS QUE CRISTO DEBA SER
+comenzar quisiera comentar que HUBO OTRAS RAZONES POR LAS QUE CRISTO DEBÍA SER
 
 COLOCADO EN EL PESEBRE.
 
@@ -162,41 +162,41 @@ COLOCADO EN EL PESEBRE.
 
 Yo
 
-pienso que se tena el propsito de
+pienso que se tenía el propósito de
 
-mostrar Su humillacin.
+mostrar Su humillación.
 
-Conforme a la profeca, l vino para ser
+Conforme a la profecía, Él vino para ser
 
-despreciado y desechado entre los hombres, varn de dolores, experimentado en
+“despreciado y desechado entre los hombres, varón de dolores, experimentado en
 
-quebrantos; No hay parecer en l, ni hermosura; como raz de tierra seca.
+quebrantos”; “No hay parecer en él, ni hermosura”; “como raíz de tierra seca”.
 
-Habra sido apropiado que el hombre que deba morir desnudo en la cruz,
+żHabría sido apropiado que el hombre que debía morir desnudo en la cruz,
 
-estuviera cubierto de prpura en Su nacimiento? No hubiera sido inapropiado
+estuviera cubierto de púrpura en Su nacimiento? żNo hubiera sido inapropiado
 
-que el Redentor, que habra de ser sepultado en un sepulcro prestado, naciera
+que el Redentor, que habría de ser sepultado en un sepulcro prestado, naciera
 
-en otro lugar que no fuera el cobertizo ms humilde, y que fuera albergado en
+en otro lugar que no fuera el cobertizo más humilde, y que fuera albergado en
 
-otro lugar que no fuera el sitio ms innoble? El pesebre y la cruz, ubicados en
+otro lugar que no fuera el sitio más innoble? El pesebre y la cruz, ubicados en
 
 los dos extremos de la vida terrenal del Salvador, parecen muy apropiados y congruentes
 
-entre s. l ha de usar a lo largo de Su vida la tnica de un campesino; ha de
+entre sí. Él ha de usar a lo largo de Su vida la túnica de un campesino; ha de
 
-asociarse con pescadores; los de humilde condicin han de ser Sus discpulos;
+asociarse con pescadores; los de humilde condición han de ser Sus discípulos;
 
-los fros montes han de ser a menudo su nico lecho; habr de decir: Las
+los fríos montes han de ser a menudo su único lecho; habrá de decir: “Las
 
 zorras tienen guaridas, y las aves de los cielos nidos; mas el Hijo del Hombre
 
-no tiene dnde recostar la cabeza; nada, por tanto, podra ser ms apropiado
+no tiene dónde recostar la cabeza”; nada, por tanto, podría ser más apropiado
 
-que en Su etapa de humillacin -cuando hizo a un lado toda Su gloria y tom la
+que en Su etapa de humillación -cuando hizo a un lado toda Su gloria y tomó la
 
-forma de siervo y se rebaj al estado ms humilde- fuera recostado en un
+forma de siervo y se rebajó al estado más humilde- fuera recostado en un
 
 pesebre.
 
@@ -210,77 +210,77 @@ se
 
 declaraba que era rey de los pobres.
 
-Con base en la posicin en la que se
+Con base en la posición en la que se
 
 encontraba, los pobres, sin duda, fueron capaces de reconocer de inmediato la
 
-relacin que tena con ellos. Que el ngel les dijera: Esto os servir de
+relación que tenía con ellos. Que el ángel les dijera: “Esto os servirá de
 
-seal: Hallaris al nio envuelto en paales, acostado en un pesebre, creo que
+seńal: Hallaréis al nińo envuelto en pańales, acostado en un pesebre”, creo que
 
-provoc sentimientos de la mayor cordialidad fraternal en las mentes de los
+provocó sentimientos de la mayor cordialidad fraternal en las mentes de los
 
-pastores. A los ojos de los pobres, los trajes imperiales no provocan ningn
+pastores. A los ojos de los pobres, los trajes imperiales no provocan ningún
 
-afecto, pero un hombre que lleva su mismo atuendo, atrae su confianza. Con qu
+afecto, pero un hombre que lleva su mismo atuendo, atrae su confianza. Con qué
 
-pertinacia los obreros se adhieren a un lder de su propia categora, y creen
+pertinacia los obreros se adhieren a un líder de su propia categoría, y creen
 
-en l porque conoce sus fatigas, se identifica con sus aflicciones y siente un
+en él porque conoce sus fatigas, se identifica con sus aflicciones y siente un
 
-inters por todas sus inquietudes. Los grandes comandantes se han ganado
+interés por todas sus inquietudes. Los grandes comandantes se han ganado
 
-rpidamente los corazones de sus tropas compartiendo sus dificultades y
+rápidamente los corazones de sus tropas compartiendo sus dificultades y
 
-adversidades como si fuesen soldados rasos. El Rey de los Hombres que naci en
+adversidades como si fuesen soldados rasos. El Rey de los Hombres que nació en
 
-Beln no estuvo exento en Su infancia de las comunes calamidades de los pobres,
+Belén no estuvo exento en Su infancia de las comunes calamidades de los pobres,
 
-ms an, Su porcin fue incluso peor que la de ellos. Me parece que oigo a los
+más aún, Su porción fue incluso peor que la de ellos. Me parece que oigo a los
 
-pastores que comentan junto al pesebre de la natividad: Ah!, le dice uno a
+pastores que comentan junto al pesebre de la natividad: “ˇAh!”, le dice uno a
 
-su compaero, entonces l no ser como Herodes, el tirano; recordar el
+su compańero, “entonces Él no será como Herodes, el tirano; recordará el
 
-pesebre y se compadecer de los pobres; pobre infante indefenso, ya siento amor
+pesebre y se compadecerá de los pobres; pobre infante indefenso, ya siento amor
 
-por l; qu miserable alojamiento le brinda este indiferente mundo a su
+por Él; qué miserable alojamiento le brinda este indiferente mundo a su
 
-Salvador; quien ha nacido hoy no es uno de los Csares. l nunca hollar
+Salvador; quien ha nacido hoy no es uno de los Césares. Él nunca hollará
 
-nuestros campos con Sus ejrcitos, ni sacrificar a nuestros rebaos para sus
+nuestros campos con Sus ejércitos, ni sacrificará a nuestros rebańos para sus
 
-cortesanos. l ser el amigo del hombre pobre, el monarca del pueblo; de
+cortesanos. Él será el amigo del hombre pobre, el monarca del pueblo; de
 
-acuerdo a las palabras de nuestro rey-pastor, l juzgar a los afligidos del
+acuerdo a las palabras de nuestro rey-pastor, Él juzgará a los afligidos del
 
-pueblo y salvar a los hijos del menesteroso. Seguramente los pastores y gente
+pueblo y salvará a los hijos del menesteroso”. Seguramente los pastores y gente
 
-de su clase, los pobres de la tierra, percibieron de inmediato que all estaba
+de su clase, los pobres de la tierra, percibieron de inmediato que allí estaba
 
-el rey de los plebeyos; era de noble ascendencia pero, aun as, era tal como el
+el rey de los plebeyos; era de noble ascendencia pero, aun así, era tal como el
 
-Seor lo haba llamado: un escogido de mi pueblo. Grandioso Prncipe de Paz,
+Seńor lo había llamado: “un escogido de mi pueblo”. ˇGrandioso Príncipe de Paz,
 
-el pesebre fue Tu regia cuna! All fuiste presentado ante todas las naciones
+el pesebre fue Tu regia cuna! Allí fuiste presentado ante todas las naciones
 
-como Prncipe de nuestra raza, ante cuya presencia no hay brbaro ni escita,
+como Príncipe de nuestra raza, ante cuya presencia no hay bárbaro ni escita,
 
-siervo ni libre, sino que T eres Seor de todo. Reyes: ustedes habran
+siervo ni libre, sino que Tú eres Seńor de todo. Reyes: ustedes habrían
 
-prodigado su oro y su plata en l si hubieran conocido al Seor de Gloria, pero
+prodigado su oro y su plata en Él si hubieran conocido al Seńor de Gloria, pero
 
-en tanto que no lo conocieron, l fue declarado con grandes demostraciones que
+en tanto que no lo conocieron, Él fue declarado con grandes demostraciones que
 
-haba sido
+había sido
 
 dado
 
-por jefe y testigo a las naciones. l
+por jefe y testigo a las naciones. Él
 
-har que lo que no es, deshaga lo que es, y lo menospreciado que Dios ha
+hará que lo que no es, deshaga lo que es, y lo menospreciado que Dios ha
 
-escogido, bajo Su liderazgo, quebrantar el poder, la soberbia y la majestad de
+escogido, bajo Su liderazgo, quebrantará el poder, la soberbia y la majestad de
 
 la grandeza humana.
 
@@ -288,67 +288,67 @@ la grandeza humana.
 
 Adicionalmente,
 
-al ser puesto en un pesebre, por decirlo as,
+al ser puesto en un pesebre, por decirlo así,
 
-extenda una invitacin a los ms humildes para que vinieran a l.
+extendía una invitación a los más humildes para que vinieran a Él.
 
 Nosotros
 
-podramos temblar si nos aproximamos a un trono, pero no temeramos si nos
+podríamos temblar si nos aproximamos a un trono, pero no temeríamos si nos
 
-acercamos a un pesebre. Si hubiramos visto de entrada al Maestro, cabalgando a
+acercamos a un pesebre. Si hubiéramos visto de entrada al Maestro, cabalgando a
 
-lo largo de las calles de Jerusaln con gran pompa, sobre mantos tendidos en el
+lo largo de las calles de Jerusalén con gran pompa, sobre mantos tendidos en el
 
-camino y ramas de palmeras esparcidas, y a la gente clamando: Hosanna!,
+camino y ramas de palmeras esparcidas, y a la gente clamando: “ˇHosanna!”,
 
-podramos haber pensado que era inaccesible, aunque ese simple pensamiento
+podríamos haber pensado que era inaccesible, aunque ese simple pensamiento
 
-habra sido errado. Aun all, cabalgando sobre un pollino hijo de asna, l era
+habría sido errado. Aun allí, cabalgando sobre un pollino hijo de asna, Él era
 
-tan manso y humilde que los nios se agrupaban en torno suyo con sus infantiles
+tan manso y humilde que los nińos se agrupaban en torno suyo con sus infantiles
 
-gritos de: Hosanna! No podra haber nunca un ser ms accesible que Cristo.
+gritos de: “ˇHosanna!” No podría haber nunca un ser más accesible que Cristo.
 
-No haba rudos guardias que alejaran con aspereza a los peticionarios; ninguna
+No había rudos guardias que alejaran con aspereza a los peticionarios; ninguna
 
-formacin de solcitos amigos tena permiso de mantener alejada a la viuda
+formación de solícitos amigos tenía permiso de mantener alejada a la viuda
 
 importuna o al hombre que vociferaba para que su hijo fuera sanado; el borde de
 
-Su manto iba siempre rezagado para que los pobres pudieran tocarlo, y l mismo
+Su manto iba siempre rezagado para que los pobres pudieran tocarlo, y Él mismo
 
-tena siempre lista una mano para tocar a los enfermos, un odo para captar los
+tenía siempre lista una mano para tocar a los enfermos, un oído para captar los
 
-ms lnguidos acentos de la miseria, un alma que se proyectaba por todas partes
+más lánguidos acentos de la miseria, un alma que se proyectaba por todas partes
 
 en rayos de misericordia, tal como la luz del sol se proyecta por todos lados
 
-ms all del orbe mismo. Acostado en un pesebre demostraba que era un sacerdote
+más allá del orbe mismo. Acostado en un pesebre demostraba que era un sacerdote
 
-tomado de entre los hombres, uno que sufrira como Sus hermanos, y por tanto, alguien
+tomado de entre los hombres, uno que sufriría como Sus hermanos, y por tanto, alguien
 
-capaz conmoverse con nuestras debilidades. De l se dijo: l come y bebe con
+capaz conmoverse con nuestras debilidades. De Él se dijo: “Él come y bebe con
 
-los publicanos y pecadores; Este a los pecadores recibe, y con ellos come.
+los publicanos y pecadores”; “Este a los pecadores recibe, y con ellos come”.
 
-Aun siendo un beb, por estar acostado en un pesebre, fue presentado como el
+Aun siendo un bebé, por estar acostado en un pesebre, fue presentado como el
 
-amigo de los pecadores. Vengan a l, ustedes que estn trabajados y cargados! Vengan
+amigo de los pecadores. ˇVengan a Él, ustedes que están trabajados y cargados! ˇVengan
 
-a l, ustedes que tienen el espritu quebrantado, ustedes que estn abatidos en
+a Él, ustedes que tienen el espíritu quebrantado, ustedes que están abatidos en
 
-el alma! Vengan a l, ustedes que se desprecian a ustedes mismos y que son
+el alma! ˇVengan a Él, ustedes que se desprecian a ustedes mismos y que son
 
-despreciados por los dems! Vengan a l, publicanos y rameras! Vengan a l,
+despreciados por los demás! ˇVengan a Él, publicanos y rameras! ˇVengan a Él,
 
-ladrones y borrachos! Yace all en el pesebre, y es accesible al contacto con
+ladrones y borrachos! Yace allí en el pesebre, y es accesible al contacto con
 
 ustedes y es visible a su mirada. Doblen su rodilla y besen al Hijo de Dios;
 
-acptenlo como su Salvador, pues se coloca en ese pesebre para que ustedes se
+acéptenlo como su Salvador, pues se coloca en ese pesebre para que ustedes se
 
-aproximen a l. El trono de Salomn podra atemorizarlos pero el pesebre del
+aproximen a Él. El trono de Salomón podría atemorizarlos pero el pesebre del
 
 Hijo de David tiene que invitarlos.
 
@@ -356,7 +356,7 @@ Hijo de David tiene que invitarlos.
 
 Me
 
-parece que todava haba otro misterio. Ustedes recuerdan, hermanos, que ese
+parece que todavía había otro misterio. Ustedes recuerdan, hermanos, que ese
 
 era un lugar
 
@@ -364,7 +364,7 @@ gratuito para todos;
 
 era
 
-un mesn, y recuerden, por favor, que el mesn, en este caso, no era como
+un mesón, y recuerden, por favor, que el mesón, en este caso, no era como
 
 nuestros hoteles, donde hay que pagar por el alojamiento y por los alimentos.
 
@@ -372,31 +372,31 @@ En las etapas iniciales y simples del mundo, las personas consideraban que era
 
 un honor brindar hospitalidad a un forastero; posteriormente, conforme los
 
-viajes se volvieron ms comunes, muchos deseaban transferir ese honor y placer
+viajes se volvieron más comunes, muchos deseaban transferir ese honor y placer
 
-a sus vecinos; por qu tendran que absorber ellos solos toda la dignidad de
+a sus vecinos; żpor qué tendrían que absorber ellos solos toda la dignidad de
 
-la hospitalidad? Ms adelante, una persona especfica era designada en cada
+la hospitalidad? Más adelante, una persona específica era designada en cada
 
 pueblo y aldea, y se esperaba que brindara hospitalidad a los forasteros a
 
-nombre del resto; pero, conforme las pocas dejaron de ser simples, y el prstino
+nombre del resto; pero, conforme las épocas dejaron de ser simples, y el prístino
 
-ardor del amor fraternal se enfriaba, la nica provisin que se haca era la
+ardor del amor fraternal se enfriaba, la única provisión que se hacía era la
 
-edificacin de un gigantesco edificio cuadrado, con habitaciones disponibles
+edificación de un gigantesco edificio cuadrado, con habitaciones disponibles
 
-para los viajeros y con niveles inferiores para las bestias, y all, con una
+para los viajeros y con niveles inferiores para las bestias, y allí, con una
 
-cierta provisin de agua y, en algunos casos, de paja picada para el ganado, el
+cierta provisión de agua y, en algunos casos, de paja picada para el ganado, el
 
-viajero tena que acomodarse como pudiera. No tena que comprar un boleto de
+viajero tenía que acomodarse como pudiera. No tenía que comprar un boleto de
 
-admisin en el caravasar, pues era gratuito para todos, y en especial lo era
+admisión en el ‘caravasar’, pues era gratuito para todos, y en especial lo era
 
-el establo. Ahora, amados, nuestro Seor Jesucristo naci en el establo del
+el establo. Ahora, amados, nuestro Seńor Jesucristo nació en el establo del
 
-mesn para mostrar cun gratuito era para todos los que se acercasen a l. El
+mesón para mostrar cuán gratuito era para todos los que se acercasen a Él. El
 
 Evangelio es predicado a toda criatura y no excluye a nadie. Acerca de las
 
@@ -408,45 +408,45 @@ Escritura
 
 podemos decir:
 
-Nadie est excluido de ellas
+“Nadie está excluido de ellas
 
-Salvo quienes se excluyen a s mismos;
+Salvo quienes se excluyen a sí mismos;
 
 Son bienvenidos el docto y el refinado,
 
 El ignorante y el rudo.
 
-Aunque la gracia de Jess salva al prncipe,
+Aunque la gracia de Jesús salva al príncipe,
 
-El pobre tambin puede tomar su parte;
+El pobre también puede tomar su parte;
 
-Ningn mortal tiene una justa pretensin
+Ningún mortal tiene una justa pretensión
 
-De perecer en la desesperacin.
+De perecer en la desesperación”.
 
 Las exclusiones de clase
 
-son desconocidas aqu y las prerrogativas de casta no son reconocidas. No se
+son desconocidas aquí y las prerrogativas de casta no son reconocidas. No se
 
 requiere ninguna forma de etiqueta al entrar al establo; no puede ser una ofensa
 
-entrar al establo de un caravasar pblico. Entonces, si t deseas venir a
+entrar al establo de un caravasar público. Entonces, si tú deseas venir a
 
-Cristo, puedes venir a l tal como eres; puedes venir
+Cristo, puedes venir a Él tal como eres; puedes venir
 
 ahora.
 
-Cualquiera de ustedes que tenga el deseo en su corazn de
+Cualquiera de ustedes que tenga el deseo en su corazón de
 
-confiar en Cristo, es libre de hacerlo. Jess es gratuito para ti; l te
+confiar en Cristo, es libre de hacerlo. Jesús es gratuito para ti; Él te
 
-recibir; l te dar la bienvenida con alegra, y yo creo que para demostrar
+recibirá; Él te dará la bienvenida con alegría, y yo creo que para demostrar
 
-esto, el beb fue acunado en un pesebre. Nosotros sabemos que los pecadores
+esto, el bebé fue acunado en un pesebre. Nosotros sabemos que los pecadores
 
-imaginan a menudo que estn excluidos. Con mucha frecuencia la conciencia
+imaginan a menudo que están excluidos. Con mucha frecuencia la conciencia
 
-convicta escribe cosas amargas contra s misma y niega su parte y suerte en las
+convicta escribe cosas amargas contra sí misma y niega su parte y suerte en las
 
 provisiones de la misericordia.
 
@@ -456,23 +456,23 @@ Dios
 
 no te ha excluido, no te excluyas
 
-t mismo. Mientras no encuentres que est escrito en el Libro que t no puedes
+tú mismo. Mientras no encuentres que está escrito en el Libro que tú no puedes
 
 confiar en Cristo; en tanto que no puedas citar un pasaje incontestable en el
 
-que est escrito que l no es capaz de salvarte, yo te suplico que aceptes esa
+que esté escrito que Él no es capaz de salvarte, yo te suplico que aceptes esa
 
-otra palabra en la que est escrito: Puede tambin salvar perpetuamente a los
+otra palabra en la que está escrito: “Puede también salvar perpetuamente a los
 
-que por l se acercan a Dios. Confa en esa promesa: ven a Cristo en la fuerza
+que por él se acercan a Dios”. Confía en esa promesa: ven a Cristo en la fuerza
 
-y en la fe de ella, y descubrirs que es gratuito para todos los que vienen.
+y en la fe de ella, y descubrirás que es gratuito para todos los que vienen.
 
 5.
 
 No
 
-hemos agotado todava todas las razones por las que el Hijo del Hombre fue
+hemos agotado todavía todas las razones por las que el Hijo del Hombre fue
 
 colocado en un pesebre. En el pesebre
 
@@ -480,109 +480,109 @@ las
 
 bestias eran alimentadas;
 
-y est acostado el Salvador donde las bestias
+ży está acostado el Salvador donde las bestias
 
-cansadas reciben su forraje, y no habr un misterio aqu? Ay, hay algunos
+cansadas reciben su forraje, y no habrá un misterio aquí? Ay, hay algunos
 
 hombres que se han vuelto tan brutales debido al pecado, tan completamente
 
 depravados por sus lascivias, que para sus propias conciencias todo lo que
 
-semeje ser humano ha desaparecido, pero incluso para ellos funcionarn los
+semeje ser humano ha desaparecido, pero incluso para ellos funcionarán los
 
-remedios de Jess, el Grandioso Mdico. Leemos constantemente en nuestros
+remedios de Jesús, el Grandioso Médico. Leemos constantemente en nuestros
 
-peridicos acerca de hombres que son llamados incorregibles, y est de moda
+periódicos acerca de hombres que son llamados incorregibles, y está de moda
 
-precisamente ahora exigir agresivamente que estos hombres sean tratados con autntica
+precisamente ahora exigir agresivamente que estos hombres sean tratados con auténtica
 
-severidad. Hace unos cuantos aos todo el mundo se volva loco con una
+severidad. Hace unos cuantos ańos todo el mundo se volvía loco con una
 
-humanidad espuria, clamando que la gentileza reformara al brutal ladrn a
+humanidad espuria, clamando que la gentileza reformaría al brutal ladrón a
 
-quien los severos castigos endureceran irremediablemente; ahora la corriente
+quien los severos castigos endurecerían irremediablemente; ahora la corriente
 
-ha cambiado, y todo el mundo est exigiendo el abandono del presente sistema.
+ha cambiado, y todo el mundo está exigiendo el abandono del presente sistema.
 
 Yo no abogo porque se trate a los criminales delicadamente; su pecado les debe
 
-proporcionar su justa racin de remordimiento; pero si pudieran ser reformados
+proporcionar su justa ración de remordimiento; pero si pudieran ser reformados
 
-por cualquier medio, por favor, que se intente ese medio. El da vendr cuando
+por cualquier medio, por favor, que se intente ese medio. El día vendrá cuando
 
 el paroxismo de esta fiebre de garrotear se acabe, y nos sonrojaremos al pensar
 
-que al ser atemorizados por unos insensatos temores camos en una peligrosa
+que al ser atemorizados por unos insensatos temores caímos en una peligrosa
 
 interferencia con una obra grande y buena que hasta ahora ha sido realizada
 
 exitosamente. Es un hecho que bajo el presente sistema que es admirable (reduciendo
 
-algunas fallas que sera bueno subsanar), el crimen se est volviendo menos
+algunas fallas que sería bueno subsanar), el crimen se está volviendo menos
 
 frecuente, y la clase de ofensores descarados ha sido reducida notablemente.
 
-Mientras que en el ao de 1844, 18,490 convictos fueron transportados, en 1860
+Mientras que en el ańo de 1844, 18,490 convictos fueron transportados, en 1860
 
-el nmero correspondiente fue de 11,533, y eso a pesar del incremento en la
+el número correspondiente fue de 11,533, y eso a pesar del incremento en la
 
-poblacin. El sistema de libertad condicional, cuando el pblico empleaba a los
+población. El sistema de libertad condicional, cuando el público empleaba a los
 
-convictos y as les daba una oportunidad de ganar un nuevo carcter, funcion
+convictos y así les daba una oportunidad de ganar un nuevo carácter, funcionó
 
-tan bien que poco ms de uno por ciento en un ao fueron convictos de nuevo, e
+tan bien que poco más de uno por ciento en un ańo fueron convictos de nuevo, e
 
-incluso ahora se tiene que slo un cinco por ciento por ao regresan al crimen
+incluso ahora se tiene que sólo un cinco por ciento por ańo regresan al crimen
 
-y a prisin. Bien, ahora, si el cinco por ciento no recibe ningn bien, o
+y a prisión. Bien, ahora, si el cinco por ciento no recibe ningún bien, o
 
-incluso empeora, no deberamos considerar al otro noventa y cinco por ciento,
+incluso empeora, żno deberíamos considerar al otro noventa y cinco por ciento,
 
 y hacer una pausa por un momento antes de desatar nuestra venganza y sustituir
 
-un sistema cristiano de misericordia esperanzada por la vieja regla brbara de
+un sistema cristiano de misericordia esperanzada por la vieja regla bárbara de
 
 una severidad irreducible? Tengan cuidado, conciudadanos, tengan cuidado de no
 
-restaurar la vieja idea de que los hombres pueden pecar ms all de la
+restaurar la vieja idea de que los hombres pueden pecar más allá de la
 
-esperanza de reforma, o generarn criminales peores que aquellos que ahora nos
+esperanza de reforma, o generarán criminales peores que aquellos que ahora nos
 
-turban. Las leyes de Dracn debern constituirse siempre en fracasos, pero no
+turban. Las leyes de Dracón deberán constituirse siempre en fracasos, pero no
 
-duden del triunfo definitivo de los planes que el espritu cristiano ha
+duden del triunfo definitivo de los planes que el espíritu cristiano ha
 
 sugerido.
 
 Me he desviado del tema,
 
-pues pens que podra salvar a algunos del delito de oponerse a la verdadera
+pues pensé que podría salvar a algunos del delito de oponerse a la verdadera
 
-filantropa por causa de un pnico repentino; pero voy a regresar de inmediato
+filantropía por causa de un pánico repentino; pero voy a regresar de inmediato
 
-al pesebre y al beb. Yo creo que nuestro Seor fue colocado en el pesebre
+al pesebre y al bebé. Yo creo que nuestro Seńor fue colocado en el pesebre
 
 donde se alimentaban las bestias, para mostrar
 
-que incluso hombres que semejan a las bestias pueden venir a l y
+que incluso hombres que semejan a las bestias pueden venir a Él y
 
 vivir.
 
 Ninguna criatura puede ser tan degradada que Cristo no pueda
 
-levantarla. Podra caer, y podra parecer que caer invariablemente en el
+levantarla. Podría caer, y podría parecer que caerá invariablemente en el
 
-infierno, pero el brazo largo y fuerte de Cristo puede alcanzarla aun en su ms
+infierno, pero el brazo largo y fuerte de Cristo puede alcanzarla aun en su más
 
-desesperada degradacin y puede levantarla de una aparente ruina irremediable.
+desesperada degradación y puede levantarla de una aparente ruina irremediable.
 
-Si hubiere alguien que haya entrado aqu esta maana a quien la sociedad
+Si hubiere alguien que haya entrado aquí esta mańana a quien la sociedad
 
-aborrece y que se aborreciera a s mismo, mi Seor acostado en el establo, con
+aborrece y que se aborreciera a sí mismo, mi Seńor acostado en el establo, con
 
-las bestias, se presenta con la capacidad de salvar al ms vil de los viles, y
+las bestias, se presenta con la capacidad de salvar al más vil de los viles, y
 
-de aceptar al peor de los peores aun ahora. Cree en l y l te har una nueva
+de aceptar al peor de los peores aun ahora. Cree en Él y Él te hará una nueva
 
 criatura.
 
@@ -592,31 +592,31 @@ Pero
 
 si bien Cristo fue puesto donde se alimentaban las bestias, por favor recuerden
 
-que despus que se fue
+que después que se fue
 
 las bestias se
 
-alimentaron all otra vez.
+alimentaron allí otra vez.
 
-Era slo Su presencia la que poda glorificar el
+Era sólo Su presencia la que podía glorificar el
 
-pesebre, y aqu aprendemos que si Cristo fuera retirado,
+pesebre, y aquí aprendemos que si Cristo fuera retirado,
 
-el mundo regresara a su anterior oscuridad pagana.
+el mundo regresaría a su anterior oscuridad pagana.
 
-La civilizacin
+La civilización
 
-misma desaparecera, al menos aquella parte que realmente civiliza al hombre,
+misma desaparecería, al menos aquella parte que realmente civiliza al hombre,
 
-si la religin de Jess pudiera ser extinguida. Si Cristo fuera suprimido del
+si la religión de Jesús pudiera ser extinguida. Si Cristo fuera suprimido del
 
-corazn humano, los ms santos se envileceran otra vez, y aquellos que
+corazón humano, los más santos se envilecerían otra vez, y aquellos que
 
-reclaman parentesco con los ngeles pronto demostraran que estn relacionados
+reclaman parentesco con los ángeles pronto demostrarían que están relacionados
 
-con los demonios. El pesebre, digo, sera todava un pesebre para bestias, si
+con los demonios. El pesebre, digo, sería todavía un pesebre para bestias, si
 
-el Seor de Gloria fuere retirado, y nosotros regresaramos a nuestros pecados
+el Seńor de Gloria fuere retirado, y nosotros regresaríamos a nuestros pecados
 
 y a nuestras lascivias si Cristo retirara una vez Su gracia y nos abandonara a
 
@@ -628,53 +628,53 @@ II.
 
 Pero
 
-el texto dice, adems, que fue puesto en un pesebre porque no haba lugar para
+el texto dice, además, que fue puesto en un pesebre porque no había lugar para
 
-l en el mesn, y esto nos conduce al segundo comentario, QUE HABA OTROS
+Él en el mesón, y esto nos conduce al segundo comentario, QUE HABÍA OTROS
 
-LUGARES ADEMS DEL MESN QUE NO TENAN LUGAR PARA CRISTO.
+LUGARES ADEMÁS DEL MESÓN QUE NO TENÍAN LUGAR PARA CRISTO.
 
-Acaso los palacios de los emperadores y los salones de los reyes no
+żAcaso los palacios de los emperadores y los salones de los reyes no
 
-proveyeron ningn refugio al regio forastero?
+proveyeron ningún refugio al regio forastero?
 
-Ay,
+ˇAy,
 
-hermanos mos, raramente hay lugar para Cristo en los palacios! Cmo podran
+hermanos míos, raramente hay lugar para Cristo en los palacios! żCómo podrían
 
-los reyes de la tierra recibir al Seor? l es el Prncipe de Paz, y ellos se
+los reyes de la tierra recibir al Seńor? ˇÉl es el Príncipe de Paz, y ellos se
 
-deleitan en la guerra! l quiebra sus arcos y corta en pedazos sus lanzas;
+deleitan en la guerra! Él quiebra sus arcos y corta en pedazos sus lanzas;
 
-quema sus carros de guerra en el fuego. Cmo podran aceptar los reyes al
+quema sus carros de guerra en el fuego. żCómo podrían aceptar los reyes al
 
-humilde Salvador? Ellos aman la grandeza y la pompa, y todo l es simplicidad y
+humilde Salvador? Ellos aman la grandeza y la pompa, y todo Él es simplicidad y
 
-mansedumbre. l es el hijo de un carpintero, y el compaero del pescador. Cmo
+mansedumbre. Él es el hijo de un carpintero, y el compańero del pescador. żCómo
 
-pueden los prncipes encontrar lugar para el monarca recin nacido? Vamos, l
+pueden los príncipes encontrar lugar para el monarca recién nacido? Vamos, Él
 
-nos ensea a hacer con los otros como quisiramos que hicieran con nosotros, y
+nos enseńa a hacer con los otros como quisiéramos que hicieran con nosotros, y
 
-esto es algo que los reyes encontraran muy difcil de reconciliar con los astutos
+esto es algo que los reyes encontrarían muy difícil de reconciliar con los astutos
 
-trucos de la poltica y los codiciosos designios de la ambicin. Oh, grandes de
+trucos de la política y los codiciosos designios de la ambición. Oh, grandes de
 
 la tierra, poco me sorprende que en medio de sus glorias, y placeres, y
 
-guerras, y concilios, olviden al Ungido, y echen fuera al Seor de Todo. No hay
+guerras, y concilios, olviden al Ungido, y echen fuera al Seńor de Todo. No hay
 
 lugar para Cristo con los reyes. Consideren a todos los reinos de la tierra
 
-ahora, y con una excepcin por aqu y por all, sigue siendo verdad que: Se
+ahora, y con una excepción por aquí y por allá, sigue siendo verdad que: “Se
 
-levantarn los reyes de la tierra, y prncipes consultarn unidos contra Jehov
+levantarán los reyes de la tierra, y príncipes consultarán unidos contra Jehová
 
-y contra su ungido. Veremos a algn monarca por aqu y por all en el cielo;
+y contra su ungido”. Veremos a algún monarca por aquí y por allá en el cielo;
 
-pero, ah!, cun pocos sern; en verdad un nio podra llevar su cuenta. No sois
+pero, ˇah!, cuán pocos serán; en verdad un nińo podría llevar su cuenta. “No sois
 
-muchos sabios segn la carne, ni muchos poderosos. Las cmaras de estado, los gabinetes,
+muchos sabios según la carne, ni muchos poderosos”. Las cámaras de estado, los gabinetes,
 
 los salones de los tronos y los palacios reales son tan poco frecuentados por
 
@@ -684,13 +684,13 @@ la India
 
 son muy poco
 
-frecuentados por el cauteloso viajero. l visita con mucha mayor asiduidad las
+frecuentados por el cauteloso viajero. Él visita con mucha mayor asiduidad las
 
 casuchas que las residencias reales, pues no hay lugar para Jesucristo en los
 
 regios salones.
 
-Cuando el eterno inclina los cielos
+“Cuando el eterno inclina los cielos
 
 Para visitar las cosas terrenales,
 
@@ -704,49 +704,49 @@ Y descienda de los cielos,
 
 Para visitar con ojos complacientes
 
-A toda alma humilde.
+A toda alma humilde”.
 
-Pero haba
+Pero había
 
-senadores, haba foros de discusin
+senadores, había foros de discusión
 
-poltica, haba lugares en donde los representantes del pueblo dictan las
+política, había lugares en donde los representantes del pueblo dictan las
 
 leyes,
 
-y acaso no haba lugar para Cristo all? Ay!, hermanos mos, ninguno,
+ży acaso no había lugar para Cristo allí? ˇAy!, hermanos míos, ninguno,
 
-y hasta este da hay muy poco lugar para Cristo en los parlamentos. Cun
+y hasta este día hay muy poco lugar para Cristo en los parlamentos. ˇCuán
 
-raramente es reconocida la religin por los polticos! Por supuesto que si una
+raramente es reconocida la religión por los políticos! Por supuesto que si una
 
-religin del Estado consintiera en ser algo pobre, domada e impotente, consintiera
+religión del Estado consintiera en ser algo pobre, domada e impotente, consintiera
 
-en ser un len al que le han extrado todos sus dientes y al que le han recortado
+en ser un león al que le han extraído todos sus dientes y al que le han recortado
 
-toda su melena, y al que le han suprimido todas sus garras, s, esa religin
+toda su melena, y al que le han suprimido todas sus garras, sí, esa religión
 
 pudiera ser reconocida; pero para el verdadero Cristo y para quienes le siguen
 
-y se atreven a obedecer Sus leyes en una mala generacin, qu lugar hay para
+y se atreven a obedecer Sus leyes en una mala generación, żqué lugar hay para
 
-tales personas? Cristo y Su Evangelio, oh!, esto es sectarismo, y es apenas
+tales personas? Cristo y Su Evangelio, ˇoh!, esto es sectarismo, y es apenas
 
-digno de la atencin del desprecio. Quin intercede por Cristo en el senado?
+digno de la atención del desprecio. żQuién intercede por Cristo en el senado?
 
-Acaso no es Su religin, bajo el nombre de sectarismo, el gran terror de todos
+żAcaso no es Su religión, bajo el nombre de sectarismo, el gran terror de todos
 
-los partidos? Quin cita Su regla de oro como una directriz para primeros
+los partidos? żQuién cita Su regla de oro como una directriz para primeros
 
-ministros, o quin predica el perdn a la manera de Cristo como una regla para
+ministros, o quién predica el perdón a la manera de Cristo como una regla para
 
-una poltica nacional? Uno o dos le dirn una buena palabra, pero si se
+una política nacional? Uno o dos le dirán una buena palabra, pero si se
 
-sometiera a votacin si el Seor Jess debe ser obedecido o no, pasaran muchos
+sometiera a votación si el Seńor Jesús debe ser obedecido o no, pasarían muchos
 
-das antes que las respuestas afirmativas
+días antes que las respuestas afirmativas
 
-ganasen. Partidos, polticas, cazadores de posiciones, y buscadores de
+ganasen. Partidos, políticas, cazadores de posiciones, y buscadores de
 
 placeres excluyen al Representante del Cielo de un lugar entre los
 
@@ -754,53 +754,53 @@ representantes de
 
 la Tierra.
 
-No se podra encontrar
+żNo se podría encontrar
 
-algn lugar para Cristo
+algún lugar para Cristo
 
 en lo que se ha
 
-dado en llamar la buena sociedad?
+dado en llamar “la buena sociedad”?
 
-No haba en Beln algunas personas que
+żNo había en Belén algunas personas que
 
-fueran muy respetables, que se mantuvieran apartadas de la muchedumbre comn;
+fueran muy respetables, que se mantuvieran apartadas de la muchedumbre común;
 
-personas de reputacin y de posicin? No podan ellas encontrar lugar para
+personas de reputación y de posición? żNo podían ellas encontrar lugar para
 
-Cristo? Ah!, queridos amigos, es muy comn el caso de que no haya lugar para
+Cristo? ˇAh!, queridos amigos, es muy común el caso de que no haya lugar para
 
-l en lo que se ha dado en llamar la buena sociedad. Hay lugar para todas las
+Él en lo que se ha dado en llamar la ‘buena sociedad’. Hay lugar para todas las
 
-pequeas formas tontas por las que los hombres deciden estorbarse ellos mismos;
+pequeńas formas tontas por las que los hombres deciden estorbarse ellos mismos;
 
 hay lugar para las vanas sutilezas de la etiqueta; hay lugar para la
 
-conversacin frvola; hay lugar para la adoracin del cuerpo; hay lugar para la
+conversación frívola; hay lugar para la adoración del cuerpo; hay lugar para la
 
-ereccin de esto y de aquello como el dolo de la hora, pero hay demasiado poco
+erección de esto y de aquello como el ídolo de la hora, pero hay demasiado poco
 
-lugar para Cristo, y est lejos de estar de moda seguir plenamente al Seor. El
+lugar para Cristo, y está lejos de estar de moda seguir plenamente al Seńor. El
 
-advenimiento de Cristo sera lo ltimo que la alegre sociedad deseara; la
+advenimiento de Cristo sería lo último que la alegre sociedad desearía; la
 
-simple mencin de Su nombre por los labios del amor causara una extraa
+simple mención de Su nombre por los labios del amor causaría una extrańa
 
-sensacin. Si comenzaras a hablar de las cosas de Cristo en muchos crculos,
+sensación. Si comenzaras a hablar de las cosas de Cristo en muchos círculos,
 
-seras declarado tab de inmediato. Jams voy a invitar de nuevo a ese hombre a
+serías declarado tabú de inmediato. “Jamás voy a invitar de nuevo a ese hombre a
 
-mi casa, dira fulano de tal, si es que tiene que traer a su religin consigo.
+mi casa”, diría fulano de tal, “si es que tiene que traer a su religión consigo”.
 
 La locura y las galas, el rango y el honor, las joyas y el brillo, la
 
-frivolidad y la moda, todas esas cosas reportan que no hay lugar para Jess en
+frivolidad y la moda, todas esas cosas reportan que no hay lugar para Jesús en
 
 sus moradas.
 
-Pero no hay lugar para
+żPero no hay lugar para
 
-l
+Él
 
 en
 
@@ -808,119 +808,119 @@ la Bolsa
 
 de Valores?
 
-No puede ser llevado a los
+żNo puede ser llevado a los
 
-mercados del comercio? Aqu estn los mercaderes de una nacin mercader; no
+mercados del comercio? Aquí están los mercaderes de una nación mercader; żno
 
-hay lugar para Cristo ah? Ah, queridos amigos, cun poco del espritu, y de
+hay lugar para Cristo ahí? ˇAh, queridos amigos, cuán poco del espíritu, y de
 
-la vida y de la doctrina de Cristo puede encontrarse all! Al comerciante le
+la vida y de la doctrina de Cristo puede encontrarse allí! Al comerciante le
 
 parece inconveniente ser demasiado escrupuloso; el mercader descubre con
 
 frecuencia que si ha de hacer una fortuna, tiene que violentar su conciencia.
 
-Cuntos hay bien, no dir que mientan expresamente, pero aun as aun as aun
+Cuántos hay –bien, no diré que mientan expresamente, pero aun así… aun así… aun
 
-as- mejor lo digo claramente, ellos en verdad mienten indirectamente con gran
+así…- mejor lo digo claramente, ellos en verdad mienten indirectamente con gran
 
-determinacin. Quin no sabe, mientras prosigue su camino, que tiene que haber
+determinación. żQuién no sabe, mientras prosigue su camino, que tiene que haber
 
-muchos mentirosos por todas partes? Pues casi cada casa que ves es la casa ms
+muchos mentirosos por todas partes? Pues casi cada casa que ves es “la casa más
 
-barata en Londres y eso es imposible; con toda certeza no todas las casas
+barata en Londres” y eso es imposible; ˇcon toda certeza no todas las casas
 
-pueden ser las ms baratas! Qu astucia manejan algunos! Cunto bombo y
+pueden ser las más baratas! ˇQué astucia manejan algunos! ˇCuánto bombo y
 
-falsedad! Qu sagacidad y juegos de manos! Qu ayes pronunciara mi Seor
+falsedad! ˇQué sagacidad y juegos de manos! Qué ayes pronunciaría mi Seńor
 
 sobre algunos de ustedes si mirara en las ventanas de sus tiendas, o se
 
 detuviera tras sus mostradores. Son tan abundantes las bancarrotas, las estafas
 
-y los fraudes, que en cantidad de casos no hay lugar para Jess en el mercado o
+y los fraudes, que en cantidad de casos no hay lugar para Jesús en el mercado o
 
 en la tienda.
 
-Luego estn
+Luego están
 
-las escuelas de los filsofos,
+las escuelas de los filósofos,
 
 y ellos
 
-es seguro que lo hospedarn. Los sabios encontrarn en l a la sabidura
+es seguro que lo hospedarán. Los sabios encontrarán en Él a la sabiduría
 
-encarnada; Aquel que siendo un jovencito habra de convertirse en el maestro de
+encarnada; Aquel que siendo un jovencito habría de convertirse en el maestro de
 
-los doctores, que habra de sentarse y hacerles preguntas y recibir sus
+los doctores, que habría de sentarse y hacerles preguntas y recibir sus
 
-respuestas, seguramente encontrar lugar de inmediato entre los sabios de
+respuestas, seguramente encontrará lugar de inmediato entre los sabios de
 
-Grecia, y los hombres de criterio y de ingenio lo honrarn. Hagan lugar para
+Grecia, y los hombres de criterio y de ingenio lo honrarán. “ˇHagan lugar para
 
-l, Scrates y Platn! Abran paso, estoicos y epicreos; y ustedes, ustedes,
+Él, Sócrates y Platón! Abran paso, estoicos y epicúreos; y ustedes, ustedes,
 
-maestros de Israel, desalojen sus asientos; si no hay lugar para este nio sin
+maestros de Israel, desalojen sus asientos; si no hay lugar para este nińo sin
 
-que tengan que salir, vyanse; es preciso tenerlo a l en las escuelas de
+que tengan que salir, váyanse; es preciso tenerlo a Él en las escuelas de
 
-filosofa aunque los saquemos a ustedes. No, queridos amigos, pero no es as;
+filosofía aunque los saquemos a ustedes”. No, queridos amigos, pero no es así;
 
 hay muy poco lugar para Cristo en los colegios y en las universidades, hay muy
 
-poco lugar para l en los centros del aprendizaje. Cun a menudo el
+poco lugar para Él en los centros del aprendizaje. ˇCuán a menudo el
 
 conocimiento ayuda a los hombres a poner objeciones a Cristo! Demasiado
 
 frecuentemente el conocimiento es la forja donde se hacen los clavos para la
 
-crucifixin de Cristo; con demasiada frecuencia el ingenio se ha convertido en
+crucifixión de Cristo; con demasiada frecuencia el ingenio se ha convertido en
 
-el artfice que ha aguzado la lanza y ha hecho la vara con la cual Su corazn
+el artífice que ha aguzado la lanza y ha hecho la vara con la cual Su corazón
 
-ha de ser traspasado. Tenemos que decirlo, que la filosofa, as llamada
+ha de ser traspasado. Tenemos que decirlo, que la filosofía, así llamada
 
-falsamente, (pues la verdadera filosofa, si fuese manejada rectamente, ha de
+falsamente, (pues la verdadera filosofía, si fuese manejada rectamente, ha de
 
-ser siempre amiga de Cristo) la filosofa, as llamada falsamente, repito, ha
+ser siempre amiga de Cristo) la filosofía, así llamada falsamente, repito, ha
 
-hecho dao a Cristo, pero raramente ha servido a Su causa. Unos cuantos con
+hecho dańo a Cristo, pero raramente ha servido a Su causa. Unos cuantos con
 
-esplndidos talentos, unos cuantos de los eruditos y de los profundos se han
+espléndidos talentos, unos cuantos de los eruditos y de los profundos se han
 
-inclinado como nios a los pies del Beb de Beln, y han sido honrados al
+inclinado como nińos a los pies del Bebé de Belén, y han sido honrados al
 
-inclinarse all, pero demasiados, conscientes de su conocimiento, duros y
+inclinarse allí, pero demasiados, conscientes de su conocimiento, duros y
 
-severos en su altivez por su sabidura, han dicho: Quin es Cristo, para que
+severos en su altivez por su sabiduría, han dicho: “żQuién es Cristo, para que
 
-yo lo reconozca? No se encontr ningn lugar en las escuelas.
+yo lo reconozca?” No se encontró ningún lugar en las escuelas.
 
-Pero seguramente habra un
+Pero seguramente habría un
 
-lugar donde l pudiera ir: era
+lugar donde Él pudiera ir: era
 
 el
 
-Sanedrn,
+Sanedrín,
 
-donde se sentaban los ancianos. O no podra alojarse en la
+donde se sentaban los ancianos. żO no podría alojarse en la
 
-cmara sacerdotal donde se renen los sacerdotes con los levitas? No habra
+cámara sacerdotal donde se reúnen los sacerdotes con los levitas? żNo habría
 
-lugar para l en el templo o en la sinagoga? No, l no encontr refugio all; ms
+lugar para Él en el templo o en la sinagoga? No, Él no encontró refugio allí; más
 
-bien, fue all donde encontr a sus ms feroces enemigos a lo largo de toda su
+bien, fue allí donde encontró a sus más feroces enemigos a lo largo de toda su
 
-vida. No fue la multitud comn sino que fueron los sacerdotes los instigadores de
+vida. No fue la multitud común sino que fueron los sacerdotes los instigadores de
 
-Su muerte; los sacerdotes azuzaron al pueblo para que dijera: No a ste, sino
+Su muerte; los sacerdotes azuzaron al pueblo para que dijera: “No a éste, sino
 
-a Barrabs. Los sacerdotes pagaron sus siclos para sobornar a la voz popular,
+a Barrabás”. Los sacerdotes pagaron sus siclos para sobornar a la voz popular,
 
-y entonces Cristo fue perseguido hasta Su muerte. Seguramente debi de haber
+y entonces Cristo fue perseguido hasta Su muerte. Seguramente debió de haber
 
-habido lugar para l en
+habido lugar para Él en
 
 la
 
@@ -930,33 +930,33 @@ de Su propio pueblo; pero no lo hubo. Sucede con
 
 demasiada frecuencia en la iglesia sacerdotal que una vez que se vuelve
 
-reconocida y se remonta en dignidad, no hay lugar para Cristo all. No aludo
+reconocida y se remonta en dignidad, no hay lugar para Cristo allí. No aludo
 
-ahora a una denominacin especfica, sino que tomo todo el rango del
+ahora a una denominación específica, sino que tomo todo el rango del
 
-cristianismo, y es extrao que cuando el Seor viene a los suyos, los suyos no
+cristianismo, y es extrańo que cuando el Seńor viene a los suyos, los suyos no
 
-le reciben. Los enemigos ms malditos de la verdadera religin han sido los
+le reciben. Los enemigos más malditos de la verdadera religión han sido los
 
-hombres que pretendan ser sus abogados. No hemos de maravillarnos cuando los
+hombres que pretendían ser sus abogados. No hemos de maravillarnos cuando los
 
-obispos socavan la fe popular en la revelacin; esa no es ni su primera ni su
+obispos socavan la fe popular en la revelación; esa no es ni su primera ni su
 
-ltima ofensa. Quin quem a los mrtires, y convirti a Smithfield en un
+última ofensa. żQuién quemó a los mártires, y convirtió a Smithfield en un
 
 campo de sangre, en un horno de fuego ardiente, en un gran altar para el Dios
 
-Altsimo? Pues bien, aquellos que profesaban ser ungidos del Seor, cuyas
+Altísimo? Pues bien, aquellos que profesaban ser ungidos del Seńor, cuyas
 
-tonsuras haban recibido la bendicin episcopal. Quin meti a John Bunyan en
+tonsuras habían recibido la bendición episcopal. żQuién metió a John Bunyan en
 
-prisin? Quin corri de sus plpitos a hombres tales como Owen y los
+prisión? żQuién corrió de sus púlpitos a hombres tales como Owen y los
 
-puritanos? Quin acos hasta los montes a los Covenanters (firmantes del
+puritanos? żQuién acosó hasta los montes a los ‘Covenanters’ (firmantes del
 
-pacto escocs de la reforma religiosa)? Quin, amigos, sino los que profesan
+pacto escocés de la reforma religiosa)? żQuién, amigos, sino los que profesan
 
-ser los mensajeros del cielo y los sacerdotes de Dios? Quin ha dado caza a
+ser los mensajeros del cielo y los sacerdotes de Dios? żQuién ha dado caza a
 
 los santos bautizados en cada tierra, y los ha perseguido en muchos estados
 
@@ -966,13 +966,13 @@ para Cristo con los profetas de Baal, con los siervos de Babilonia. Los falsos
 
 mercenarios que no son pastores de Cristo y que no aman a Sus ovejas, han sido
 
-siempre los ms feroces enemigos de nuestro Dios y de Su Cristo. No hay lugar
+siempre los más feroces enemigos de nuestro Dios y de Su Cristo. No hay lugar
 
-para l donde con solemnes himnos cantan a Su nombre y donde alzan Su imagen en
+para Él donde con solemnes himnos cantan a Su nombre y donde alzan Su imagen en
 
-medio del humo del incienso. Doquiera que vayan no hay lugar para el Prncipe
+medio del humo del incienso. Doquiera que vayan no hay lugar para el Príncipe
 
-de paz, excepto con los espritus humildes y contritos que l prepara por
+de paz, excepto con los espíritus humildes y contritos que Él prepara por
 
 gracia para que le brinden abrigo.
 
@@ -980,135 +980,135 @@ III.
 
 Pero
 
-ahora, como tercer comentario, tenemos que EL PROPIO MESN NO TENA UN LUGAR
+ahora, como tercer comentario, tenemos que EL PROPIO MESÓN NO TENÍA UN LUGAR
 
-PARA L; y esta fue la principal razn por la que tuvo que ser colocado en un
+PARA ÉL; y esta fue la principal razón por la que tuvo que ser colocado en un
 
 pesebre.
 
-Qu podemos encontrar
+żQué podemos encontrar
 
-en tiempos modernos que ocupe el lugar del mesn? Bien, hay un
+en tiempos modernos que ocupe el lugar del mesón? Bien, hay un
 
-sentimiento pblico que es libre para todos.
+sentimiento público que es libre para todos.
 
-En esta tierra libre, los hombres dicen lo quieran, y hay una opinin
+En esta tierra libre, los hombres dicen lo quieran, y hay una opinión
 
-pblica sobre cualquier tema; y ustedes saben que hay una libre tolerancia en
+pública sobre cualquier tema; y ustedes saben que hay una libre tolerancia en
 
-este pas para todo: permtanme decirlo, tolerancia para todo menos para
+este país para todo: permítanme decirlo, tolerancia para todo menos para
 
-Cristo. Ustedes descubrirn que el espritu de persecucin es ahora mucho ms
+Cristo. Ustedes descubrirán que el espíritu de persecución es ahora mucho más
 
-abundante que nunca. Hay todava hombres de quienes est muy en boga burlarse. Nosotros
+abundante que nunca. Hay todavía hombres de quienes está muy en boga burlarse. Nosotros
 
-nunca nos burlamos de los cristianos hoy en da; no nos remos de ese ttulo
+nunca nos burlamos de los cristianos hoy en día; no nos reímos de ese título
 
 respetable, no vaya a ser que perdamos nuestro propio honor; nosotros no
 
-hablamos hoy en da en contra de los seguidores de Jess, bajo ese nombre. No;
+hablamos hoy en día en contra de los seguidores de Jesús, bajo ese nombre. No;
 
 pero hemos descubierto una manera de hacerlo con mayor seguridad. Hay una
 
-bonita palabra que es de moderna invencin una palabra muy bonita- la palabra
+bonita palabra que es de moderna invención –una palabra muy bonita- la palabra
 
-sectario.
+“sectario”.
 
-Sabes lo que significa? Un
+żSabes lo que significa? Un
 
 sectario quiere decir un verdadero cristiano; un hombre que se puede dar el
 
 lujo de mantener una conciencia, y al que no le importa sufrir por ello; un
 
-hombre que, sea lo que sea que encuentre en ese viejo Libro, lo cree, y acta
+hombre que, sea lo que sea que encuentre en ese viejo Libro, lo cree, y actúa
 
 con base en ello, y es celoso de hacerlo. Yo creo que los hombres a quienes se
 
-intenta describir con el trmino de: sectarios, son los verdaderos seguidores
+intenta describir con el término de: “sectarios”, son los verdaderos seguidores
 
-de Cristo, y que los escarnios y las burlas, y todas las tonteras que ustedes
+de Cristo, y que los escarnios y las burlas, y todas las tonterías que ustedes
 
-estn leyendo y oyendo siempre, estn dirigidas realmente al cristiano, al
+están leyendo y oyendo siempre, están dirigidas realmente al cristiano, al
 
-verdadero cristiano, slo que est disfrazado y etiquetado con la palabra
+verdadero cristiano, sólo que está disfrazado y etiquetado con la palabra
 
-sectario. Yo no dara un centavo por su religin, es ms, no dara ni
+‘sectario’. Yo no daría un centavo por su religión, es más, no daría ni
 
-siquiera un comino a menos que ganen ese ttulo algunas veces. Si
+siquiera un comino a menos que ganen ese título algunas veces. Si
 
 la Palabra
 
 de Dios es
 
-verdadera, si cada uno de sus tomos es verdadero, entonces debemos actuar en
+verdadera, si cada uno de sus átomos es verdadero, entonces debemos actuar en
 
-consecuencia; y toda cosa que el Seor mande, debemos guardarla y obedecerla
+consecuencia; y toda cosa que el Seńor mande, debemos guardarla y obedecerla
 
 diligentemente, recordando que nuestro Maestro nos dice que si quebrantamos uno
 
-de estos mandamientos muy pequeos, y as enseamos a los hombres, muy pequeos
+de estos mandamientos muy pequeńos, y así enseńamos a los hombres, muy pequeńos
 
 seremos llamados en Su reino. Tenemos que ser muy celosos, muy precisos, muy
 
 ansiosos, para que incluso en las minucias de las leyes de nuestro Salvador le
 
-obedezcamos, teniendo alzada nuestra mirada a l as como los ojos de las
+obedezcamos, teniendo alzada nuestra mirada a Él así como los ojos de las
 
-siervas estn puestos en sus amas. Pero si hicieran esto, descubriran que no
+siervas están puestos en sus amas. Pero si hicieran esto, descubrirían que no
 
-son tolerados, y seran ignorados en la sociedad. Un cristiano celoso
+son tolerados, y serían ignorados en la sociedad. Un cristiano celoso
 
-encontrar tan ciertamente una cruz que cargar en su da como en los das de
+encontrará tan ciertamente una cruz que cargar en su día como en los días de
 
-Simn Cireneo. Si te quedaras callado, si dejaras que los pecadores perezcan,
+Simón Cireneo. Si te quedaras callado, si dejaras que los pecadores perezcan,
 
 si no te esforzaras nunca por propagar tu fe, si callaras todo testimonio por
 
 la verdad, si, de hecho, renunciaras a todos los atributos de un cristiano, si
 
-dejaras de ser lo que un cristiano debe ser, entonces el mundo dira: Ah!,
+dejaras de ser lo que un cristiano debe ser, entonces el mundo diría: “ˇAh!,
 
-eso est bien; esa es la religin que nos gusta. Pero si crees, si crees
+eso está bien; esa es la religión que nos gusta”. Pero si crees, si crees
 
-firmemente, y si dejas que tu creencia acte sobre tu vida, y si tu creencia es
+firmemente, y si dejas que tu creencia actúe sobre tu vida, y si tu creencia es
 
-tan preciosa que te sientes compelido a difundirla, entonces descubrirs de
+tan preciosa que te sientes compelido a difundirla, entonces descubrirás de
 
-inmediato que no hay lugar para Cristo ni siquiera en el mesn del sentimiento
+inmediato que no hay lugar para Cristo ni siquiera en el mesón del sentimiento
 
-pblico, donde todo lo dems es bien recibido. Si eres un infiel, nadie va a
+público, donde todo lo demás es bien recibido. Si eres un infiel, nadie va a
 
 tratarte despreciativamente por eso; pero si eres un cristiano, muchos te
 
-despreciarn. No haba lugar para l en el mesn.
+despreciarán. “No había lugar para él en el mesón”.
 
-Cun poco lugar hay para
+Cuán poco lugar hay para
 
-Cristo, tambin,
+Cristo, también,
 
-en la conversacin
+en la conversación
 
 general,
 
-que es tambin como un mesn. Nosotros hablamos sobre muchas
+que es también como un mesón. Nosotros hablamos sobre muchas
 
-cosas; un hombre puede hablar en nuestros das sobre cualquier tema que le
+cosas; un hombre puede hablar en nuestros días sobre cualquier tema que le
 
-agrade; nadie puede detenerlo y decirle: Hay un espa captando tus palabras;
+agrade; nadie puede detenerlo y decirle: “Hay un espía captando tus palabras;
 
-l te reportar a alguna autoridad central. Hablar goza de entera libertad en
+él te reportará a alguna autoridad central”. Hablar goza de entera libertad en
 
-esta tierra; pero, ah, cun poco lugar hay para Cristo en la conversacin
+esta tierra; pero, ˇah, cuán poco lugar hay para Cristo en la conversación
 
-general! Incluso la tarde del domingo cun poco lugar hay para Cristo en
+general! Incluso la tarde del domingo cuán poco lugar hay para Cristo en
 
 algunos hogares de cristianos profesantes. Se habla de los ministros, se
 
-cuentan extraas ancdotas acerca de ellos, tal vez se inventen unas cuantas o,
+cuentan extrańas anécdotas acerca de ellos, tal vez se inventen unas cuantas o,
 
-al menos, se adornen las antiguas, y se les aada algo, y se hagan un poco ms
+al menos, se adornen las antiguas, y se les ańada algo, y se hagan un poco más
 
-brillantes; se hablar acerca de la escuela dominical, o de las diversas agencias
+brillantes; se hablará acerca de la escuela dominical, o de las diversas agencias
 
 conectadas con
 
@@ -1116,9 +1116,9 @@ la Iglesia
 
 ,
 
-pero cun poco se dice acerca de Cristo! Y si alguien preguntara en la conversacin:
+ˇpero cuán poco se dice acerca de Cristo! Y si alguien preguntara en la conversación:
 
-No podramos hablar acerca de
+“żNo podríamos hablar acerca de
 
 la
 
@@ -1126,71 +1126,71 @@ Deidad
 
 y de la humanidad, de la obra terminada y de la
 
-justicia, de la ascensin, o de la segunda venida de nuestro Seor Jesucristo?
+justicia, de la ascensión, o de la segunda venida de nuestro Seńor Jesucristo”?
 
-veramos que muchos individuos que incluso profesan ser seguidores de Cristo,
+veríamos que muchos individuos que incluso profesan ser seguidores de Cristo,
 
-erguiran sus cabezas y diran: Vamos, ese hombre es un verdadero fantico, o
+erguirían sus cabezas y dirían: “Vamos, ese hombre es un verdadero fanático, o
 
-de lo contrario no pensara en introducir un tema as en la conversacin
+de lo contrario no pensaría en introducir un tema así en la conversación
 
-general. No, no hay lugar para l en el mesn; hasta este da l puede
+general”. No, no hay lugar para Él en el mesón; hasta este día Él puede
 
-encontrar solo un limitado acceso all.
+encontrar solo un limitado acceso allí.
 
 Me dirijo a muchos que
 
-son obreros. Ustedes trabajan entre muchsimos artesanos da tras da; no
+son obreros. Ustedes trabajan entre muchísimos artesanos día tras día; żno
 
-encuentran, hermanos yo s que s- que hay muy poco lugar para Cristo
+encuentran, hermanos –yo sé que sí- que hay muy poco lugar para Cristo
 
 en el taller?
 
-Hay lugar all para
+Hay lugar allí para
 
 cualquier otra cosa; hay lugar para decir malas palabras; hay lugar para la
 
-borrachera; hay lugar para una conversacin lasciva; hay lugar para la
+borrachera; hay lugar para una conversación lasciva; hay lugar para la
 
-poltica, para las calumnias o las infidelidades; pero no hay lugar para
+política, para las calumnias o las infidelidades; pero no hay lugar para
 
-Cristo. Muchos de nuestros trabajadores piensan que la religin sera un
+Cristo. Muchos de nuestros trabajadores piensan que la religión sería un
 
-estorbo, una cadena, una miserable prisin para ellos. Pueden frecuentar el
+estorbo, una cadena, una miserable prisión para ellos. Pueden frecuentar el
 
 teatro, o asistir a una conferencia, pero la casa de Dios es demasiado deprimente
 
-para ellos. Deseara no verme forzado a decirlo, pero en verdad no hay lugar
+para ellos. Desearía no verme forzado a decirlo, pero en verdad no hay lugar
 
-para Cristo en nuestras fbricas, en nuestros talleres y en nuestras fundiciones.
+para Cristo en nuestras fábricas, en nuestros talleres y en nuestras fundiciones.
 
-El mundo est dando codazos y empujando en busca de ms lugar de manera que
+El mundo está dando codazos y empujando en busca de más lugar de manera que
 
-escasamente queda un rincn donde puede ser colocado el Beb de Beln.
+escasamente queda un rincón donde puede ser colocado el Bebé de Belén.
 
 En cuanto a los mesones de los tiempos modernos,
 
-quin
+żquién
 
-pensara en encontrar a Cristo all? Excluyendo de nuestros catlogos esos
+pensaría en encontrar a Cristo allí? Excluyendo de nuestros catálogos esos
 
 hoteles y casas a la vera del camino que son necesarios para el alojamiento de
 
-los viajeros, qu mayor maldicin tenemos que nuestras tabernas y cantinas? Qu
+los viajeros, żqué mayor maldición tenemos que nuestras tabernas y cantinas? żQué
 
-puertas ms anchas hay para el infierno? Quin acudira a esos lugares como lo
+puertas más anchas hay para el infierno? żQuién acudiría a esos lugares como lo
 
-hemos hecho nosotros alumbrndonos con lmparas de gas en las esquinas de todas
+hemos hecho nosotros alumbrándonos con lámparas de gas en las esquinas de todas
 
-nuestras calles para encontrar a Cristo all? Es casi como esperar encontrarle
+nuestras calles para encontrar a Cristo allí? ˇEs casi como esperar encontrarle
 
-en el pozo del abismo! Es tan improbable que busquemos ngeles en el infierno
+en el pozo del abismo! ˇEs tan improbable que busquemos ángeles en el infierno
 
 como buscar a Cristo en el palacio de la ginebra! Aquel que es apartado de los
 
 pecadores no encuentra una sociedad apropiada en el templo maloliente de Baco.
 
-No hay lugar para Jess en el mesn. Yo pienso que preferira pudrirme o
+No hay lugar para Jesús en el mesón. Yo pienso que preferiría pudrirme o
 
 alimentar a los cuervos, que ganar mi pan diario gracias al centavo de los
 
@@ -1200,137 +1200,137 @@ publicanos se engordan comiendo la carne y los huesos y la sangre y las almas
 
 de los hombres. El que se vuelve rico gracias a los frutos del vicio es una
 
-bestia que est siendo preparada para el matadero. Verdaderamente no hay lugar
+bestia que está siendo preparada para el matadero. Verdaderamente no hay lugar
 
-para Cristo entre los ebrios de Efran. Aquellos que tienen algo que ver con
+para Cristo entre los ebrios de Efraín. Aquellos que tienen algo que ver con
 
-Cristo deberan orle decir: Salid de en medio de ellos, y apartaos, dice el
+Cristo deberían oírle decir: “Salid de en medio de ellos, y apartaos, dice el
 
-Seor, y no toquis lo inmundo; y yo os recibir, y ser para vosotros por
+Seńor, y no toquéis lo inmundo; y yo os recibiré, y seré para vosotros por
 
-Padre, y vosotros me seris hijos e hijas. No hay lugar para Cristo hoy en da
+Padre, y vosotros me seréis hijos e hijas”. No hay lugar para Cristo hoy en día
 
-incluso en los lugares a los que asiste el pblico.
+incluso en los lugares a los que asiste el público.
 
 IV.
 
 Esto
 
-me conduce a mi cuarto encabezado, que es el ms pertinente, y sobre el que es
+me conduce a mi cuarto encabezado, que es el más pertinente, y sobre el que es
 
-ms necesario reflexionar un momento. TIENES T LUGAR PARA CRISTO? TIENES T
+más necesario reflexionar un momento. żTIENES TÚ LUGAR PARA CRISTO? żTIENES TÚ
 
 LUGAR PARA CRISTO?
 
 Ya que el palacio y el
 
-foro y el mesn no tienen lugar para Cristo, y ya que los lugares pblicos no
+foro y el mesón no tienen lugar para Cristo, y ya que los lugares públicos no
 
-tienen ningn lugar disponible, tienes
+tienen ningún lugar disponible, żtienes
 
-t
+tú
 
-lugar para Cristo? Bien dice uno- yo tengo lugar para l, pero no soy
+lugar para Cristo? “Bien” –dice uno- “yo tengo lugar para Él, pero no soy
 
-digno de que venga a m. Ah!, yo no pregunt por algn merecimiento; tienes
+digno de que venga a mí”. ˇAh!, yo no pregunté por algún merecimiento; żtienes
 
-lugar para l? Oh dice uno- yo tengo un espacio desocupado que el mundo no
+lugar para Él? “ˇOh” –dice uno- “yo tengo un espacio desocupado que el mundo no
 
-puede llenar jams! Ah! Veo que tienes lugar para l. pero el espacio que
+puede llenar jamás!” ˇAh! Veo que tienes lugar para Él. “ˇpero el espacio que
 
-tengo en mi corazn es tan vil! As era el pesebre. Ah, pero mi corazn es
+tengo en mi corazón es tan vil!” Así era el pesebre. “ˇAh, pero mi corazón es
 
-inmundo! As, tal vez, pudiera haber sido el pesebre. Oh, pero yo siento que
+inmundo!” Así, tal vez, pudiera haber sido el pesebre. “ˇOh, pero yo siento que
 
-es un lugar que no es del todo apropiado para Cristo! Tampoco el pesebre era
+es un lugar que no es del todo apropiado para Cristo!” Tampoco el pesebre era
 
-un lugar apropiado para l, y sin embargo, fue colocado all. Oh, pero yo he
+un lugar apropiado para Él, y sin embargo, fue colocado allí. “ˇOh, pero yo he
 
-sido un gran pecador; siento como si mi corazn fuera una guarida de bestias y
+sido un gran pecador; siento como si mi corazón fuera una guarida de bestias y
 
-demonios! Bien, el pesebre haba sido un lugar donde las bestias se haban
+demonios!” Bien, el pesebre había sido un lugar donde las bestias se habían
 
-alimentado. Tienes lugar para l? Que no te importe lo que haya sido el
+alimentado. żTienes lugar para Él? Que no te importe lo que haya sido el
 
-pasado; l puede olvidar y perdonar. No importa cul pudiera ser incluso el
+pasado; Él puede olvidar y perdonar. No importa cuál pudiera ser incluso el
 
-presente estado, si t lo lamentas. Si t tienes lugar para Cristo, l vendr y
+presente estado, si tú lo lamentas. Si tú tienes lugar para Cristo, Él vendrá y
 
-ser tu husped. Te ruego que no digas: espero
+será tu huésped. Te ruego que no digas: “espero
 
-que tendr
+que tendré
 
-lugar para l; el tiempo ha llegado en que nacer;
+lugar para Él”; el tiempo ha llegado en que nacerá;
 
-Mara no puede esperar meses ni aos. Oh!, pecador, si t tienes lugar para l
+María no puede esperar meses ni ańos. ˇOh!, pecador, si tú tienes lugar para Él
 
-deja que nazca hoy en tu alma. Si oyereis hoy su voz, no endurezcis vuestros
+deja que nazca hoy en tu alma. “Si oyereis hoy su voz, no endurezcáis vuestros
 
-corazones, como en la provocacin. He aqu ahora el tiempo aceptable; he aqu
+corazones, como en la provocación”. “He aquí ahora el tiempo aceptable; he aquí
 
-ahora el da de salvacin. Lugar para Jess! Lugar para Jess ahora! Oh!,
+ahora el día de salvación”. ˇLugar para Jesús! ˇLugar para Jesús ahora! “ˇOh!”,
 
--dice uno- yo tengo lugar para l, pero querr venir? l, en verdad,
+-dice uno- “yo tengo lugar para Él, pero żquerrá venir?” ˇÉl, en verdad,
 
-vendr! Slo deja abierta la puerta de tu corazn, slo di: Jess, Seor, todo
+vendrá! Sólo deja abierta la puerta de tu corazón, sólo di: “Jesús, Seńor, todo
 
-indigno e inmundo miro a Ti; ven, aljate dentro de mi corazn, y l vendr a
+indigno e inmundo miro a Ti; ven, alójate dentro de mi corazón”, y Él vendrá a
 
-ti, y limpiar el pesebre de tu corazn, es ms, lo transformar en un trono de
+ti, y limpiará el pesebre de tu corazón, es más, lo transformará en un trono de
 
-oro, y all se sentar y reinar por los siglos de los siglos. Oh, tengo que
+oro, y allí se sentará y reinará por los siglos de los siglos. ˇOh, tengo que
 
-predicar esta maana sobre un Cristo tan gratuito! Quisiera poder predicarlo
+predicar esta mańana sobre un Cristo tan gratuito! Quisiera poder predicarlo
 
-mejor. Tengo que predicar sobre un Jess amoroso y precioso, ya que l est
+mejor. Tengo que predicar sobre un Jesús amoroso y precioso, ya que Él está
 
-dispuesto a encontrar un hogar en corazones humildes. Qu!, no hay ningn
+dispuesto a encontrar un hogar en corazones humildes. ˇQué!, żno hay ningún
 
-corazn aqu esta maana que est dispuesto a recibirlo? Ha de recorrer mi
+corazón aquí esta mańana que esté dispuesto a recibirlo? żHa de recorrer mi
 
-vista estas galeras a mi alrededor y mirar a muchos de ustedes que estn
+vista estas galerías a mi alrededor y mirar a muchos de ustedes que están
 
-todava sin l, y no hay nadie que diga: Entra, entra? Oh, ser un da feliz
+todavía sin Él, y no hay nadie que diga: “Entra, entra”? ˇOh, será un día feliz
 
 para ustedes sin son capacitados para tomarlo en sus brazos y recibirlo como la
 
-consolacin de Israel! Entonces pueden esperar con gozo aun a la muerte, y
+consolación de Israel! Entonces pueden esperar con gozo aun a la muerte, y
 
-decir con Simen: Ahora, Seor, despides a tu siervo en paz, conforme a tu
+decir con Simeón: “Ahora, Seńor, despides a tu siervo en paz, conforme a tu
 
-palabra; porque han visto mis ojos tu salvacin. Mi Seor necesita lugar!
+palabra; porque han visto mis ojos tu salvación”. ˇMi Seńor necesita lugar!
 
-Lugar para l! Lugar para l! Yo, Su heraldo, exclamo a gran voz: Lugar para
+ˇLugar para Él! ˇLugar para Él! Yo, Su heraldo, exclamo a gran voz: ˇLugar para
 
-el Salvador! Lugar! Aqu est mi regio Seor tienen lugar para l? Aqu est
+el Salvador! ˇLugar! Aquí está mi regio Seńor żtienen lugar para Él? Aquí está
 
-el Hijo de Dios encarnado, tienen lugar para l? Aqu est Aquel que puede
+el Hijo de Dios encarnado, żtienen lugar para Él? Aquí está Aquel que puede
 
-perdonar todo pecado, tienen lugar para l? Aqu est Aquel que te hace sacar
+perdonar todo pecado, żtienen lugar para Él? Aquí está Aquel que te hace sacar
 
-del pozo de la desesperacin, del lodo cenagoso, tienen lugar para l? Aqu
+del pozo de la desesperación, del lodo cenagoso, żtienen lugar para Él? Aquí
 
-est Aquel que cuando entra no saldr nunca ms, sino que morar con ustedes
+está Aquel que cuando entra no saldrá nunca más, sino que morará con ustedes
 
-para siempre para convertir a su corazn en un cielo de gozo y de bienaventuranza
+para siempre para convertir a su corazón en un cielo de gozo y de bienaventuranza
 
-para ustedes, tienen lugar para l? Es todo lo que pido. Su vaco, su nada, su
+para ustedes, żtienen lugar para Él? Es todo lo que pido. Su vacío, su nada, su
 
-carencia de sentimiento, su falta de bondad, su vaco de gracia, todo esto no
+carencia de sentimiento, su falta de bondad, su vacío de gracia, todo esto no
 
-ser sino lugar para l. Tienen lugar para l? Oh!, Espritu de Dios, conduce
+será sino lugar para Él. żTienen lugar para Él? ˇOh!, Espíritu de Dios, conduce
 
-a muchos a decir: S, mi corazn est listo. Ah!, entonces l vendr y
+a muchos a decir: “Sí, mi corazón está listo”. ˇAh!, entonces Él vendrá y
 
-morar con ustedes.
+morará con ustedes.
 
-Gozo para el mundo, el Salvador viene,
+“Gozo para el mundo, el Salvador viene,
 
 El Salvador prometido hace mucho tiempo;
 
-Que cada corazn prepare un trono
+Que cada corazón prepare un trono
 
-Y cada voz un cntico.
+Y cada voz un cántico”.
 
 V.
 
@@ -1338,19 +1338,19 @@ Concluyo
 
 con el comentario de que si tienen lugar para Cristo, entonces, a partir de
 
-este da, recuerden que EL MUNDO NO TIENE LUGAR PARA USTEDES, pues el texto no
+este día, recuerden que EL MUNDO NO TIENE LUGAR PARA USTEDES, pues el texto no
 
-slo dice que no haba lugar para l, sino que miren, dice: No haba lugar
+sólo dice que no había lugar para Él, sino que miren, dice: “No había lugar
 
-para ellos,
+para ellos”,
 
-no haba lugar para Jos ni
+no había lugar para José ni
 
-para Mara, como tampoco lo haba para el beb. Quines son Su padre, y madre,
+para María, como tampoco lo había para el bebé. żQuiénes son Su padre, y madre,
 
 y hermana y hermano, sino aquellos que reciben Su palabra y la guardan? Entonces,
 
-as como no hubo lugar para
+así como no hubo lugar para
 
 la
 
@@ -1358,7 +1358,7 @@ Virgen
 
 bendita, ni para Su honorable padre, recuerden que a partir
 
-de ahora no hay lugar en este mundo para ningn verdadero seguidor de Cristo.
+de ahora no hay lugar en este mundo para ningún verdadero seguidor de Cristo.
 
 No hay lugar para que
 
@@ -1366,29 +1366,29 @@ descanses;
 
 no,
 
-has de ser un soldado de la cruz, y no encontrars descanso en la guerra de
+has de ser un soldado de la cruz, y no encontrarás descanso en la guerra de
 
-toda tu vida. No hay lugar para que te sientes y ests
+toda tu vida. No hay lugar para que te sientes y estés
 
 contento con tus propios logros,
 
 pues eres un viajero, y olvidando
 
-lo que queda atrs, has de extenderte a lo que est delante; no hay lugar para
+lo que queda atrás, has de extenderte a lo que está delante; no hay lugar para
 
 ti donde
 
 ocultes tu tesoro,
 
-pues all
+pues allí
 
-en verdad el orn y la polilla corrompen; no hay lugar para ti donde pongas tus
+en verdad el orín y la polilla corrompen; no hay lugar para ti donde pongas tus
 
-confianzas, pues Maldito el varn que confa en el hombre, y pone carne por su
+confianzas, pues “Maldito el varón que confía en el hombre, y pone carne por su
 
-brazo. A partir de este da no habr lugar para ti en
+brazo”. A partir de este día no habrá lugar para ti en
 
-la buena opinin del mundo,
+la buena opinión del mundo,
 
 pues van a considerar que eres una
 
@@ -1402,67 +1402,67 @@ del mundo; debes salir fuera del campamento, llevando Su
 
 reproche. A partir de este momento, digo, si tienes lugar para Cristo, el mundo
 
-difcilmente encontrar un lugar de
+difícilmente encontrará un lugar de
 
 tolerancia
 
-para ti; tienes que esperar ahora que se ran de ti; ahora debes llevar la
+para ti; tienes que esperar ahora que se rían de ti; ahora debes llevar la
 
-gorra de bufn en la estimacin de los hombres; y tu cancin tiene que estar en
+gorra de bufón en la estimación de los hombres; y tu canción tiene que estar en
 
-la lnea de inicio de tu peregrinacin.
+la línea de inicio de tu peregrinación.
 
-Jess, yo he tomado Tu cruz,
+“Jesús, yo he tomado Tu cruz,
 
 Y lo he dejado todo para seguirte,
 
 Desnudo, pobre, despreciado, abandonado,
 
-A partir de ahora T sers mi todo.
+A partir de ahora Tú serás mi todo”.
 
 No hay lugar para ti en
 
 el amor del mundano. Si esperas que todo el mundo te alabe, y que tus buenas acciones
 
-sean aplaudidas, ests muy equivocado. El mundo, les digo, no tiene lugar para
+sean aplaudidas, estás muy equivocado. El mundo, les digo, no tiene lugar para
 
 el hombre que tiene lugar para Cristo. Si alguno ama al mundo, el amor del
 
-Padre no est en l. Ay de vosotros, cuando todos los hombres hablen bien de
+Padre no está en él. “ˇAy de vosotros, cuando todos los hombres hablen bien de
 
-vosotros! Ustedes no son del mundo, como tampoco Cristo es del mundo.
+vosotros!” “Ustedes no son del mundo, como tampoco Cristo es del mundo”.
 
-Gracias a Dios, ustedes no tienen que pedirle hospitalidad al mundo. Con slo que
+Gracias a Dios, ustedes no tienen que pedirle hospitalidad al mundo. Con sólo que
 
-les d un estrado para la accin, y les preste durante una hora una tumba para dormir,
+les dé un estrado para la acción, y les preste durante una hora una tumba para dormir,
 
-eso les basta; no requerirn ninguna habitacin permanente aqu, puesto que
+eso les basta; no requerirán ninguna habitación permanente aquí, puesto que
 
 buscan la ciudad venidera que tiene fundamentos, cuyo arquitecto y constructor
 
 es Dios. Ustedes caminan a prisa a lo largo de este mundo tal como un forastero
 
-camina a travs de una tierra extraa, y se regocijan sabiendo que aunque sean
+camina a través de una tierra extrańa, y se regocijan sabiendo que aunque sean
 
-forasteros y extranjeros aqu, son conciudadanos con los santos, y son de la
+forasteros y extranjeros aquí, son conciudadanos con los santos, y son de la
 
 casa de Dios.
 
-Qu dicen ustedes,
+żQué dicen ustedes,
 
-jvenes soldados? Se alistarn segn unos trminos como estos? Harn lugar
+jóvenes soldados? żSe alistarán según unos términos como estos? żHarán lugar
 
-para Cristo sabiendo que no habr lugar para ustedes a partir de ahora,
+para Cristo sabiendo que no habrá lugar para ustedes a partir de ahora,
 
 sabiendo que han de ser separados para siempre, aislados, tal vez, de los
 
 deudos y amigos del mundo, despojados de la confianza carnal para siempre?
 
-Estn dispuestos, a pesar de todo esto, a alojar al viajero? Que el Seor les
+żEstán dispuestos, a pesar de todo esto, a alojar al viajero? Que el Seńor les
 
-ayude a hacerlo, y a l sea la gloria por los siglos de los siglos. Amn.
+ayude a hacerlo, y a Él sea la gloria por los siglos de los siglos. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 15/Noviembre/2012
 

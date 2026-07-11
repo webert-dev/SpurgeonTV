@@ -1,14 +1,14 @@
-# Sermón 2895 | El Plpito Del Tabernculo Metropolitanouna Bendita Cadena En El Evangelio
+# Sermón 2895 | El Púlpito Del Tabernáculo Metropolitanouna Bendita Cadena En El Evangelio
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Una Bendita Cadena en el Evangelio
 
 NO. 2895
 
-Sermn predicado el
+Sermón predicado el
 
-En el Tabernculo Metropolitano, Newington
+En el Tabernáculo Metropolitano, Newington
 
 " "-- Juan 14:23
 

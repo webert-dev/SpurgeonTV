@@ -1,444 +1,444 @@
 # Sermón 1666 | Sermón 1666
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Las Primeras Palabras Registradas de
 
-Jess
+Jesús
 
 NO. 1666
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 25 DE JUNIO DE 1882
+MAŃANA DEL DOMINGO 25 DE JUNIO DE 1882
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Cuando le vieron, se sorprendieron;
+“Cuando le vieron, se sorprendieron;
 
-y le dijo su madre: Hijo, por qu nos has hecho as? He aqu, tu padre y yo te
+y le dijo su madre: Hijo, żpor qué nos has hecho así? He aquí, tu padre y yo te
 
-hemos buscado con angustia. Entonces l les dijo: Por qu me buscabais? No
+hemos buscado con angustia. Entonces él les dijo: żPor qué me buscabais? żNo
 
-sabais que en los negocios de mi Padre me es necesario estar?
+sabíais que en los negocios de mi Padre me es necesario estar?”
 
 Lucas 2: 48, 49.
 
 Estas palabras son muy interesantes porque son
 
-las primeras expresiones registradas de nuestro divino Seor. Sin duda dijo
+las primeras expresiones registradas de nuestro divino Seńor. Sin duda dijo
 
-muchas cosas muy admirables cuando todava era nio, pero el Espritu Santo no
+muchas cosas muy admirables cuando todavía era nińo, pero el Espíritu Santo no
 
-consider apropiado registrar nada de ello, excepto estas dos preguntas, como
+consideró apropiado registrar nada de ello, excepto estas dos preguntas, como
 
-para ensearnos que la niez debe ser retrada y modesta: debe ser una etapa de
+para enseńarnos que la nińez debe ser retraída y modesta: debe ser una etapa de
 
-preparacin ms que de ostentacin. Poco omos de un nio santo pues la
+preparación más que de ostentación. Poco oímos de un nińo santo pues la
 
-modestia es una parte valiosa de su carcter. Por tanto, deberamos prestar una
+modestia es una parte valiosa de su carácter. Por tanto, deberíamos prestar una
 
-mayor atencin a estas palabras debido a que se encuentran a la propia
+mayor atención a estas palabras debido a que se encuentran a la propia
 
-vanguardia de la enseanza de nuestro Seor y, en un sentido, son el anuncio de
+vanguardia de la enseńanza de nuestro Seńor y, en un sentido, son el anuncio de
 
-Su vida entera. Expresadas, como lo fueron, a los doce aos de edad, podemos
+Su vida entera. Expresadas, como lo fueron, a los doce ańos de edad, podemos
 
-considerarlas como las ltimas palabras de Su niez y las primeras palabras de Su
+considerarlas como las últimas palabras de Su nińez y las primeras palabras de Su
 
-juventud. l est alejndose del tiempo en que poda ser considerado justamente
+juventud. Él está alejándose del tiempo en que podía ser considerado justamente
 
-un nio para convertirse en un joven sobre todo en el clima oriental, donde
+un nińo para convertirse en un joven –sobre todo en el clima oriental, donde
 
-los hombres maduran ms rpidamente que aqu- en un hijo de la ley, apto para
+los hombres maduran más rápidamente que aquí- en un hijo de la ley, apto para
 
 sentarse en medio de los doctores en el templo y ser instruido por ellos.
 
-Los primeros das de la juventud son muy
+Los primeros días de la juventud son muy
 
 peligrosos, pues es entonces cuando, normalmente, el resto de la vida es conformado
 
-a plenitud. Bienaventurado es, en verdad, aqul que comienza muy temprano con
+a plenitud. Bienaventurado es, en verdad, aquél que comienza muy temprano con
 
-Dios y elige como su negocio el servicio del Seor. Si todos nuestros jvenes
+Dios y elige como su negocio el servicio del Seńor. Si todos nuestros jóvenes
 
-tuvieran el mismo sentir que hubo tambin en Cristo Jess, cun grande
+tuvieran el mismo sentir que hubo también en Cristo Jesús, cuán grande
 
-evidencia poseeramos
+evidencia poseeríamos
 
 de que
 
-el Espritu de Dios obr
+el Espíritu de Dios obró
 
-en nuestros nios, y que ahora est a punto de hablar a travs de nuestros
+en nuestros nińos, y que ahora está a punto de hablar a través de nuestros
 
-jvenes.
+jóvenes.
 
 Yo supongo que estas palabras deben de haber
 
-llegado al evangelio de Lucas a travs de la propia Mara. Cmo habra podido
+llegado al evangelio de Lucas a través de la propia María. żCómo habría podido
 
-saber de otra manera el evangelista que ellos no entendan las palabras que
+saber de otra manera el evangelista que “ellos no entendían las palabras que
 
-les habl, o que Mara guardaba todas estas cosas en su corazn? Es Mara
+les habló”, o que María “guardaba todas estas cosas en su corazón”? Es María
 
-quien narra aqu evidentemente las palabras del santo nio, palabras que ella
+quien narra aquí evidentemente las palabras del santo nińo, palabras que ella
 
-ponderaba ininterrumpidamente. Ella atesoraba para nosotros las joyas que salan
+ponderaba ininterrumpidamente. Ella atesoraba para nosotros las joyas que salían
 
-de los labios de Jess. Ella nos dice que esta expresin, aunque pareciera ser
+de los labios de Jesús. Ella nos dice que esta expresión, aunque pareciera ser
 
 muy sencilla, no fue plenamente entendida ni por ella ni por Su altamente
 
-estimado padre, Jos; y, sin embargo, observen que se nos informa expresamente
+estimado padre, José; y, sin embargo, observen que se nos informa expresamente
 
-que Mara guardaba todas estas cosas en su corazn.
+que María “guardaba todas estas cosas en su corazón”.
 
 Cuando no puedan absorber una verdad con sus
 
-entendimientos, djenla descansar en sus afectos. Si hubiere algo en la palabra
+entendimientos, déjenla descansar en sus afectos. Si hubiere algo en la palabra
 
-de Dios que les resulte sumamente difcil, no han de rechazarlo por eso, sino
+de Dios que les resulte sumamente difícil, no han de rechazarlo por eso, sino
 
-que han de preservarlo para estudio en el futuro. En la conversacin de un
+que han de preservarlo para estudio en el futuro. En la conversación de un
 
-padre con su hijo seguramente hay muchas cosas que el nio no puede comprender
+padre con su hijo seguramente hay muchas cosas que el nińo no puede comprender
 
-plenamente. Si fuera un nio sabio se asira precisamente a lo que no entiende
+plenamente. Si fuera un nińo sabio se asiría precisamente a lo que no entiende
 
-y lo atesorara para un uso futuro, esperando que en breve resplandezca la luz.
+y lo atesoraría para un uso futuro, esperando que en breve resplandezca la luz.
 
 No han de contarse entre quienes dicen que deben
 
-limitar su fe segn su entendimiento. Si as fuera, es probable que tengan una fe
+limitar su fe según su entendimiento. Si así fuera, es probable que tengan una fe
 
-estrecha o, de lo contrario tendrn una holgada presuncin, pues solamente una
+estrecha o, de lo contrario tendrán una holgada presunción, pues solamente una
 
 altanera arrogancia puede hacernos creer que somos capaces de entender siquiera
 
-una dcima parte de lo que Dios ha revelado. Es ms, voy a ir ms lejos: aunque
+una décima parte de lo que Dios ha revelado. Es más, voy a ir más lejos: aunque
 
-podamos entender lo suficiente para ser salvados por la verdad, ningn hombre
+podamos entender lo suficiente para ser salvados por la verdad, ningún hombre
 
 puede entender la plena profundidad de la verdad y, por tanto, si para nosotros
 
-fuera una regla limitar nuestra fe a lo que entendemos, tendramos un rango de
+fuera una regla limitar nuestra fe a lo que entendemos, tendríamos un rango de
 
 fe extremadamente limitado. Atesoremos todas estas cosas; valoremos altamente
 
-estos diamantes que slo pueden ser cortados con diamantes; no los desechemos
+estos diamantes que sólo pueden ser cortados con diamantes; no los desechemos
 
-porque sean duros, pues que lo sean es un ndice de su condicin genuina.
+porque sean duros, pues que lo sean es un índice de su condición genuina.
 
-Agradecemos que el Espritu de Dios nos diera
+Agradecemos que el Espíritu de Dios nos diera
 
-estas primeras palabras de nuestro Seor Jess, y no las amamos menos porque
+estas primeras palabras de nuestro Seńor Jesús, y no las amamos menos porque
 
-sean palabras profundas. No nos sorprende que incluso siendo un nio el Hijo de
+sean palabras profundas. No nos sorprende que incluso siendo un nińo el Hijo de
 
-Dios expresara dichos misteriosos. Les sorprende que haya mucho en la
+Dios expresara dichos misteriosos. żLes sorprende que haya mucho en la
 
 Escritura que no pueden comprender, cuando incluso la primera palabra de Cristo,
 
-siendo todava un nio, no es entendida?; es ms, no fue entendida ni siquiera
+siendo todavía un nińo, no es entendida?; es más, no fue entendida ni siquiera
 
-por quienes le haban criado y haban vivido con l todos esos doce aos y que,
+por quienes le habían criado y habían vivido con Él todos esos doce ańos y que,
 
-por tanto, conocan Su modo de hablar y las peculiaridades de Su lenguaje
+por tanto, conocían Su modo de hablar y las peculiaridades de Su lenguaje
 
 juvenil.
 
-Si incluso Mara y Jos no entendieron, quin
+Si incluso María y José no entendieron, żquién
 
-soy yo para que est diciendo para siempre: tengo que entender sto o no lo
+soy yo para que esté diciendo para siempre: “tengo que entender ésto o no lo
 
-aceptar? Es ms, si no lo entendemos, guardaremos todos estos dichos en
+aceptaré”? Es más, si no lo entendemos, guardaremos todos estos dichos en
 
-nuestros corazones pues tenemos esta ventaja: que el Espritu Santo ha sido
+nuestros corazones pues tenemos esta ventaja: que el Espíritu Santo ha sido
 
-dado ahora y, por Su enseanza, entendemos cosas que permanecieron ocultas para
+dado ahora y, por Su enseńanza, entendemos cosas que permanecieron ocultas para
 
-los ms sabios santos de la antigedad.
+los más sabios santos de la antigüedad.
 
-Queridos amigos, cun grande y llena de
+Queridos amigos, cuán grande y llena de
 
-significado fue esta primera palabra que parece tan simple. Entre ms la
+significado fue esta primera palabra que parece tan simple. Entre más la
 
-consideren ms se vern asombrados de su plenitud. Slo la superficialidad y la
+consideren más se verán asombrados de su plenitud. Sólo la superficialidad y la
 
-ignorancia la consideraran sencilla, pero el estudiante ms dedicado ser el
+ignorancia la considerarían sencilla, pero el estudiante más dedicado será el
 
-ms asombrado por la profundidad de su significado. Stier, a quien debo mucho
+más asombrado por la profundidad de su significado. Stier, a quien debo mucho
 
-por sus pensamientos acerca de este tema, llama a este texto: la solitaria
+por sus pensamientos acerca de este tema, llama a este texto: “la solitaria
 
-florecilla ubicada fuera del huerto cercado de los treinta aos. Qu
+florecilla ubicada fuera del huerto cercado de los treinta ańos”. ˇQué
 
-fragancia exhala! Es slo un capullo, pero cun hermoso es! No es una
+fragancia exhala! ˇEs sólo un capullo, pero cuán hermoso es! No es una
 
-expresin de Su madurez, sino la pregunta de Su adolescencia; sin embargo, este
+expresión de Su madurez, sino la pregunta de Su adolescencia; sin embargo, este
 
 capullo abierto a medias descubre deliciosas golosinas y deleitables colores
 
-dignos de nuestra meditacin admirativa.
+dignos de nuestra meditación admirativa.
 
-Podramos llamar a estas preguntas de Jess: la
+Podríamos llamar a estas preguntas de Jesús: la
 
-profeca de Su carcter y el programa de Su vida. En este texto que estamos
+profecía de Su carácter y el programa de Su vida. En este texto que estamos
 
-considerando, Jess present ante Su madre todo lo que vino a hacer al mundo y
+considerando, Jesús presentó ante Su madre todo lo que vino a hacer al mundo y
 
-revel Su elevada y excelsa naturaleza y descubri Su gloriosa misin. Este
+reveló Su elevada y excelsa naturaleza y descubrió Su gloriosa misión. Este
 
-versculo es uno de aquellos versculos que Lutero llamara sus pequeas
+versículo es uno de aquellos versículos que Lutero llamaría ‘sus pequeńas
 
-Biblias, con todo el Evangelio comprimido en l. Qu importa si lo comparo con
+Biblias’, con todo el Evangelio comprimido en él. Qué importa si lo comparo con
 
-una esencia de rosas de la que una sola gota bastara para perfumar naciones y
+una esencia de rosas de la que una sola gota bastaría para perfumar naciones y
 
-edades. No sera posible sobrevalorar estas hermosas palabras, estas
+edades. ˇNo sería posible sobrevalorar estas “hermosas palabras”, estas
 
 asombrosas y maravillosas palabras de vida!
 
-Entonces, quin soy yo para aventurarme a utilizar
+Entonces, żquién soy yo para aventurarme a utilizar
 
-un texto como ste? No lo tomo con la esperanza de ser capaz de descorrer el
+un texto como éste? No lo tomo con la esperanza de ser capaz de descorrer el
 
 velo de su significado completo, sino simplemente para hacerles ver a ustedes
 
-cun insondable es. Emanuel, Dios con nosotros, habla divinamente siendo
+cuán insondable es. Emanuel, Dios con nosotros, habla divinamente siendo
 
-todava un adolescente. Las palabras de LA PALABRA sobrepasan a todas las
+todavía un adolescente. Las palabras de LA PALABRA sobrepasan a todas las
 
-dems. Que el Espritu de Dios las abra para ustedes.
+demás. Que el Espíritu de Dios las abra para ustedes.
 
 Voy a tratar el texto de esta manera: Primero, tenemos
 
 ante nosotros
 
-la percepcin del santo
+la percepción del santo
 
-nio;
+nińo;
 
 en segundo lugar,
 
 el hogar del
 
-santo nio;
+santo nińo;
 
 en tercer lugar,
 
 la
 
-ocupacin del santo nio;
+ocupación del santo nińo;
 
 y en cuarto lugar,
 
-la leccin del santo nio para cualquiera de nosotros que lo est
+la lección del santo nińo para cualquiera de nosotros que lo esté
 
 buscando.
 
 I.
 
-Aqu vemos LA PERCEPCIN DEL SANTO NIO. Noten,
+Aquí vemos LA PERCEPCIÓN DEL SANTO NIŃO. Noten,
 
-primero, que l perciba de manera sumamente clara
+primero, que Él percibía de manera sumamente clara
 
-Su excelsa relacin.
+Su excelsa relación.
 
-Mara le dijo: He aqu, tu padre y yo te
+María le dijo: “He aquí, tu padre y yo te
 
-hemos buscado con angustia. El nio Jess haba tenido el hbito de llamar a
+hemos buscado con angustia”. El nińo Jesús había tenido el hábito de llamar a
 
-Jos, Su padre, sin duda, y Jos era Su padre en la creencia comn de quienes
+José, Su padre, sin duda, y José era Su padre en la creencia común de quienes
 
 le rodeaban.
 
-Leemos en referencia a nuestro Seor, incluso
+Leemos en referencia a nuestro Seńor, incluso
 
-cuando ya tena treinta aos de edad, estas palabras: Hijo, segn se crea, de
+cuando ya tenía treinta ańos de edad, estas palabras: “Hijo, según se creía, de
 
-Jos. El santo nio no lo niega, pero mira por sobre la cabeza de Jos y trae
+José”. El santo nińo no lo niega, pero mira por sobre la cabeza de José y trae
 
-ante la mente de Su madre a otro Padre. No sabais que en los negocios de mi
+ante la mente de Su madre a otro Padre. “żNo sabíais que en los negocios de mi
 
-Padre me es necesario estar? l no explica esa expresin, pero es lo
+Padre me es necesario estar?” Él no explica esa expresión, pero es lo
 
-suficientemente evidente que recordaba entonces la maravillosa relacin que
+suficientemente evidente que recordaba entonces la maravillosa relación que
 
-exista entre Su humanidad y el grandioso Dios, pues l no fue concebido segn
+existía entre Su humanidad y el grandioso Dios, pues Él no fue concebido según
 
-la manera ordinaria, sino que haba venido al mundo de una manera tal que se le
+la manera ordinaria, sino que había venido al mundo de una manera tal que se le
 
-dijo a Mara: el Santo Ser que nacer, ser llamado Hijo de Dios. En un
+dijo a María: “el Santo Ser que nacerá, será llamado Hijo de Dios”. En un
 
-sentido todava ms excelso y, como un ser divino, l reclamaba tener una relacin
+sentido todavía más excelso y, como un ser divino, Él reclamaba tener una relación
 
-filial con el Altsimo. Pero aqu, sin duda, habla como un hombre, y como un
+filial con el Altísimo. Pero aquí, sin duda, habla como un hombre, y como un
 
-hombre llama a Dios Mi Dios, en un sentido ms elevado de lo que podemos
+hombre llama a Dios “Mi Dios”, en un sentido más elevado de lo que podemos
 
 hacerlo nosotros, debido a Su misterioso nacimiento.
 
-Ustedes notarn que a lo largo de toda Su vida,
+Ustedes notarán que a lo largo de toda Su vida,
 
-l no llama nunca a Dios nuestro Padre, aunque nos pide a nosotros que lo
+Él no llama nunca a Dios “nuestro Padre”, aunque nos pide a nosotros que lo
 
 hagamos. Nosotros somos hijos de la misma familia, y cuando oramos hemos de
 
-decir: Padre nuestro que ests en los cielos; pero nuestro Seor Jess tiene
+decir: “Padre nuestro que estás en los cielos”; pero nuestro Seńor Jesús tiene
 
-una relacin filial todava ms especial que la nuestra, y por tanto, le dice a
+una relación filial todavía más especial que la nuestra, y por tanto, le dice a
 
-Dios por Su propia cuenta: Mi Padre. l reclama expresamente esta relacin
+Dios por Su propia cuenta: “Mi Padre”. Él reclama expresamente esta relación
 
-personal para S mismo, y yo estoy seguro que nosotros no le envidiamos esa
+personal para Sí mismo, y yo estoy seguro que nosotros no le envidiamos esa
 
-relacin, pues de ella depende nuestra propia relacin con el Padre. Porque l
+relación, pues de ella depende nuestra propia relación con el Padre. Porque Él
 
-es el Hijo del Altsimo, nosotros entramos en una relacin filial con el Ser
+es el Hijo del Altísimo, nosotros entramos en una relación filial con el Ser
 
-Eterno, de acuerdo a nuestra limitacin. El nio Jess perciba que era el Hijo
+Eterno, de acuerdo a nuestra limitación. El nińo Jesús percibía que era el Hijo
 
-del Altsimo, y con toda la simplicidad de la niez declar el secreto a Su
+del Altísimo, y con toda la simplicidad de la nińez declaró el secreto a Su
 
-madre, que ya saba cun cierto era.
+madre, que ya sabía cuán cierto era.
 
-Hermanos, la percepcin de este santo nio
+Hermanos, la percepción de este santo nińo
 
-debera ser una instruccin para nosotros. Percibimos, ustedes y yo, de manera
+debería ser una instrucción para nosotros. żPercibimos, ustedes y yo, de manera
 
-suficientemente clara y persistente, que Dios es tambin nuestro Padre? Acaso
+suficientemente clara y persistente, que Dios es también nuestro Padre? żAcaso
 
-no actuamos a menudo bajo la hiptesis de que no estamos relacionados con l, o
+no actuamos a menudo bajo la hipótesis de que no estamos relacionados con Él, o
 
-que somos hurfanos y que nuestro Padre celestial est muerto? No estn
+que somos huérfanos y que nuestro Padre celestial está muerto? żNo están
 
-conscientes ustedes mismos algunas veces de apartarse de la influencia del espritu
+conscientes ustedes mismos algunas veces de apartarse de la influencia del espíritu
 
-de adopcin y de adentrarse en el espritu de independencia y, por tanto, en el
+de adopción y de adentrarse en el espíritu de independencia y, por tanto, en el
 
-espritu de descarro y de pecado?
+espíritu de descarrío y de pecado?
 
-Esto no nos servir de nada. Aprendamos de este
+Esto no nos servirá de nada. Aprendamos de este
 
-Ser bendito que, as como l percibi tempranamente Su excelsa y eminente
+Ser bendito que, así como Él percibió tempranamente Su excelsa y eminente
 
-relacin con el Padre, nosotros debemos hacerlo as tambin, aunque no seamos
+relación con el Padre, nosotros debemos hacerlo así también, aunque no seamos
 
-nada ms que hijos de la gracia. Ms all de toda expresin, debemos conocer y
+nada más que hijos de la gracia. Más allá de toda expresión, debemos conocer y
 
-valorar nuestra condicin de hijos del grandioso Padre que est en los cielos.
+valorar nuestra condición de hijos del grandioso Padre que está en los cielos.
 
-En verdad esta verdad debera prevalecer sobre cualquier otra, y deberamos
+En verdad esta verdad debería prevalecer sobre cualquier otra, y deberíamos
 
-vivir y movernos y actuar bajo el reconocimiento de ser hijos de Dios. Oh
+vivir y movernos y actuar bajo el reconocimiento de ser hijos de Dios. ˇOh
 
-Espritu Santo, ensanos esto!
+Espíritu Santo, enséńanos esto!
 
-A continuacin, este santo nio percibi
+A continuación, este santo nińo percibió
 
-las obligaciones de esa relacin.
+las obligaciones de esa relación.
 
 Dice:
 
-No sabais que en los negocios de mi Padre
+“żNo sabíais que en los negocios de mi Padre
 
 me es necesario
 
-estar? Escriban ese: ME ES NECESARIO con letras
+estar?” Escriban ese: “ME ES NECESARIO” con letras
 
-maysculas. Es la primera aparicin de un imperioso: me es necesario que
+mayúsculas. Es la primera aparición de un imperioso: “me es necesario” que
 
-influy en el Salvador todo el tiempo. Encontramos que se escribi de l que
+influyó en el Salvador todo el tiempo. Encontramos que se escribió de Él que
 
-le era necesario pasar por Samaria, y l mismo dijo: es necesario que
+“le era necesario pasar por Samaria”, y Él mismo dijo: “es necesario que…
 
-anuncie el evangelio del reino de Dios, y tambin le dijo a Zaqueo: es
+anuncie el evangelio del reino de Dios”, y también le dijo a Zaqueo: “es
 
-necesario que pose yo en tu casa, y tambin afirm: Me es necesario hacer las
+necesario que pose yo en tu casa”, y también afirmó: “Me es necesario hacer las
 
-obras del que me envi. Es necesario que el Hijo del Hombre padezca muchas
+obras del que me envió”. “Es necesario que el Hijo del Hombre padezca muchas
 
-cosas, y sea desechado por los ancianos. Es necesario que el Hijo del Hombre
+cosas, y sea desechado por los ancianos”. “Es necesario que el Hijo del Hombre
 
-sea levantado. Fue necesario que el Cristo padeciese. Como hijo tiene que
+sea levantado”. “Fue necesario que el Cristo padeciese”. Como hijo tiene que
 
-aprender la obediencia por las cosas que padeci. El Primognito entre muchos
+aprender la obediencia por las cosas que padeció. El Primogénito entre muchos
 
-hermanos debe sentir todas las exigencias de Su condicin de hijo: los sagrados
+hermanos debe sentir todas las exigencias de Su condición de hijo: los sagrados
 
-instintos de la santa naturaleza; de aqu que en los negocios de Su Padre le
+instintos de la santa naturaleza; de aquí que en los negocios de Su Padre le
 
 fuera necesario estar.
 
-Ahora les pregunto de nuevo sto, pues en todo
+Ahora les pregunto de nuevo ésto, pues en todo
 
-momento quiero ser prctico: sentimos, ustedes y yo, este divino: es
+momento quiero ser práctico: żsentimos, ustedes y yo, este divino: “es
 
-necesario como deberamos sentirlo? Nos es impuesta la necesidad, s,
+necesario” como deberíamos sentirlo? żNos es impuesta la necesidad, sí,
 
 recibimos una perentoria advertencia de servir a nuestro Padre divino?
 
-Sentimos alguna vez hambre y sed de l de tal manera que tenemos que
+żSentimos alguna vez hambre y sed de Él de tal manera que tenemos que
 
-acercarnos a l, y asistir a Su casa, y acercarnos a Sus pies, y hablar con l,
+acercarnos a Él, y asistir a Su casa, y acercarnos a Sus pies, y hablar con Él,
 
-y or Su voz y contemplarle cara a cara? No estamos sujetos realmente al
+y oír Su voz y contemplarle cara a cara? No estamos sujetos realmente al
 
-espritu filial a menos que as sea; pero cuando nuestra condicin de hijo se
+espíritu filial a menos que así sea; pero cuando nuestra condición de hijo se
 
-hubiere convertido en nuestra idea maestra, entonces sentiremos tambin esta
+hubiere convertido en nuestra idea maestra, entonces sentiremos también esta
 
-necesidad divina que nos induce a buscar el rostro de nuestro Padre. As como
+necesidad divina que nos induce a buscar el rostro de nuestro Padre. Así como
 
-las chispas se levantan para volar por el aire hacia el centro del fuego, as
+las chispas se levantan para volar por el aire hacia el centro del fuego, así
 
 tenemos que acercarnos a Dios, nuestro Padre y nuestro todo.
 
-Este santo nio tambin perciba
+Este santo nińo también percibía
 
-el olvido de Mara y de Jos, y se
+el olvido de María y de José, y se
 
-sorprenda.
+sorprendía.
 
-l ve que Su madre y Jos no perciben Su excelso nacimiento y las
+Él ve que Su madre y José no perciben Su excelso nacimiento y las
 
-necesidades que conlleva, y se asombra. Por qu?, les pregunta de una infantil
+necesidades que conlleva, y se asombra. “żPor qué?”, les pregunta de una infantil
 
-manera, por qu me buscabais? No sabais que en los negocios de mi Padre me
+manera, “żpor qué me buscabais? żNo sabíais que en los negocios de mi Padre me
 
-es necesario estar? Est asombrado de que no reconozcan Su condicin de hijo,
+es necesario estar?” Está asombrado de que no reconozcan Su condición de hijo,
 
-que no perciban que Dios es Su Padre. No recuerda Mara la palabra del ngel
+que no perciban que Dios es Su Padre. żNo recuerda María la palabra del ángel
 
-en la Anunciacin? No saba cmo haba nacido l, y no recordaba Su misteriosa
+en la Anunciación? żNo sabía cómo había nacido Él, y no recordaba Su misteriosa
 
-relacin con Dios? Por supuesto que s lo haca; pero ella era una mujer, y
+relación con Dios? Por supuesto que sí lo hacía; pero ella era una mujer, y
 
-como una mujer haba criado a este nio, y lo haba educado y, por tanto,
+como una mujer había criado a este nińo, y lo había educado y, por tanto,
 
 comenzaba a olvidar el misterio que rodeaba su hijo sumida en las dulces
 
-familiaridades con la cuales haba sido complacida, y as haba que recordarle
+familiaridades con la cuales había sido complacida, y así había que recordarle
 
-que l era el Hijo del Altsimo.
+que Él era el Hijo del Altísimo.
 
-Tienes t esas percepciones, amado hijo de
+żTienes tú esas percepciones, amado hijo de
 
-Dios? No te preguntas con frecuencia por qu los hombres no saben que t eres
+Dios? żNo te preguntas con frecuencia por qué los hombres no saben que tú eres
 
-un hijo de Dios? Has hablado algunas veces, y ellos se han redo de ti como si
+un hijo de Dios? żHas hablado algunas veces, y ellos se han reído de ti como si
 
-fueras un idiota o un fantico, y has pensado para ti: Cmo, acaso no saben
+fueras un idiota o un fanático, y has pensado para ti: “Cómo, acaso no saben
 
-cmo debe hablar un hijo de Dios y cmo debe actuar un hijo de Dios? Por esto
+cómo debe hablar un hijo de Dios y cómo debe actuar un hijo de Dios? “Por esto
 
-el mundo no nos conoce, porque no le conoci a l.
+el mundo no nos conoce, porque no le conoció a él”.
 
-No es algo
+“No es algo
 
 sorprendente,
 
@@ -448,241 +448,241 @@ desconocidos;
 
 El mundo
 
-judo no conoci a su Rey,
+judío no conoció a su Rey,
 
 El eterno
 
-Hijo de Dios.
+Hijo de Dios”.
 
 La gente no entiende al hombre espiritual: para
 
-muchos es una rareza. No se sorprendan, hermanos mos, si los hombres carnales
+muchos es una rareza. No se sorprendan, hermanos míos, si los hombres carnales
 
-no los entienden. S, incluso sus propios hermanos en Cristo aqullos que en
+no los entienden. Sí, incluso sus propios hermanos en Cristo –aquéllos que en
 
-verdad aman a su Padre- se han quedado sorprendidos cuando ustedes slo han actuado
+verdad aman a su Padre- se han quedado sorprendidos cuando ustedes sólo han actuado
 
-impulsados simplemente por su propio corazn renovado. Muchos cristianos actan
+impulsados simplemente por su propio corazón renovado. Muchos cristianos actúan
 
-con tanta afectacin que ya no son semejantes a hijos en su propia casa: actan
+con tanta afectación que ya no son semejantes a hijos en su propia casa: actúan
 
-ms como extranjeros o jornaleros en la casa del Padre, quienes si bien tienen
+más como extranjeros o jornaleros en la casa del Padre, quienes si bien tienen
 
-pan en abundancia y an les sobra, no pueden hablar nunca como lo hacen los hijos.
+pan en abundancia y aún les sobra, no pueden hablar nunca como lo hacen los hijos.
 
 Pocos permiten que sus corazones se derramen con esa santa temeridad, esa dulce
 
-familiaridad que le va bien a un hijo de Dios. Vamos, si ustedes y yo furamos
+familiaridad que le va bien a un hijo de Dios. Vamos, si ustedes y yo fuéramos
 
-por el mundo en plena posesin de esta idea: Amados, ahora nosotros somos hijos
+por el mundo en plena posesión de esta idea: “Amados, ahora nosotros somos hijos
 
-de Dios, no tengo ninguna duda de que actuaramos de tal manera que incluso el
+de Dios”, no tengo ninguna duda de que actuaríamos de tal manera que incluso el
 
-contingente de profesantes estara sorprendido de nosotros, y nosotros
+contingente de profesantes estaría sorprendido de nosotros, y nosotros
 
-estaramos todava ms sorprendidos de su sorpresa y asombrados de su asombro.
+estaríamos todavía más sorprendidos de su sorpresa y asombrados de su asombro.
 
-Si slo acturamos de conformidad a lo que nos dicta nuestra ms ntima
+Si sólo actuáramos de conformidad a lo que nos dicta nuestra más íntima
 
-naturaleza, qu diferente tipo de personas seramos! Este santo nio perciba
+naturaleza, ˇqué diferente tipo de personas seríamos! Este santo nińo percibía
 
-entonces Su gloriosa condicin de hijo, perciba las obligaciones de la condicin
+entonces Su gloriosa condición de hijo, percibía las obligaciones de la condición
 
-de hijo que obraban en l, y perciba que Sus padres no comprendan Sus
+de hijo que obraban en Él, y percibía que Sus padres no comprendían Sus
 
 sentimientos.
 
-El nio Jess comenzaba a percibir tambin que
+El nińo Jesús comenzaba a percibir también que
 
-l mismo, personalmente, tena que realizar
+Él mismo, personalmente, tenía que realizar
 
 una obra,
 
-y as dijo: No sabais que en los negocios de mi Padre me es
+y así dijo: “żNo sabíais que en los negocios de mi Padre me es
 
-necesario estar? l haba estado callado durante doce aos, pero ahora la
+necesario estar?” Él había estado callado durante doce ańos, pero ahora ˇla
 
-sombra de la cruz comenzaba a caer sobre l!, y senta un poco de la carga de
+sombra de la cruz comenzaba a caer sobre Él!, y sentía un poco de la carga de
 
-Su obra vital. l percibe que no vino aqu solamente para trabajar en el taller
+Su obra vital. Él percibe que no vino aquí solamente para trabajar en el taller
 
-de un carpintero, o para ser un nio campesino en Nazaret.
+de un carpintero, o para ser un nińo campesino en Nazaret.
 
-l vino aqu para vindicar el honor de Dios,
+Él vino aquí para vindicar el honor de Dios,
 
-para redimir a Su pueblo, para salvarlo de sus pecados, y para guiar a un ejrcito
+para redimir a Su pueblo, para salvarlo de sus pecados, y para guiar a un ejército
 
-de los seres lavados con sangre al trono del grandioso Padre que est en lo
+de los seres lavados con sangre al trono del grandioso Padre que está en lo
 
-alto y, por tanto, declara que tiene una ocupacin ms elevada de lo que Mara
+alto y, por tanto, declara que tiene una ocupación más elevada de lo que María
 
-y Jos pudieran entender.
+y José pudieran entender.
 
 Sin embargo, tiene que regresar al hogar en
 
-Nazaret y, durante dieciocho aos tiene que tratar los negocios de Su Padre
+Nazaret y, durante dieciocho ańos tiene que tratar los negocios de Su Padre
 
 pero, hasta donde lo entendemos en nuestra lectura, permanece sin hacer nada
 
-que tuviera el carcter de un ministerio pblico. l tiene que hacer los
+que tuviera el carácter de un ministerio público. Él tiene que hacer los
 
 negocios de Su Padre oyendo en secreto al Padre, de tal manera que cuando salga
 
-pueda decirles a Sus discpulos: Todas las cosas que o de mi Padre, os las he
+pueda decirles a Sus discípulos: “Todas las cosas que oí de mi Padre, os las he
 
-dado a conocer. Tiene que ensear una leccin tan grandiosa, que debe pasar
+dado a conocer”. Tiene que enseńar una lección tan grandiosa, que debe pasar
 
-primero otros dieciocho aos aprendindola plenamente, y Dios tiene que abrirle
+primero otros dieciocho ańos aprendiéndola plenamente, y Dios tiene que abrirle
 
-Sus odos y despertarlo cada maana para que oiga como un aprendiz, para que
+Sus oídos y despertarlo cada mańana para que oiga como un aprendiz, para que
 
-posteriormente pueda salir y ser el maestro de Israel, el Seor y Maestro de
+posteriormente pueda salir y ser el maestro de Israel, el Seńor y Maestro de
 
-apstoles y evangelistas.
+apóstoles y evangelistas.
 
-Amados, regreso de nuevo al nivel prctico. Con
+Amados, regreso de nuevo al nivel práctico. Con
 
-su condicin de hijos, han recibido ustedes una percepcin vvida de su
+su condición de hijos, żhan recibido ustedes una percepción vívida de su
 
-llamamiento y de su obra? No tienen que cumplir con una redencin, sino que han
+llamamiento y de su obra? No tienen que cumplir con una redención, sino que han
 
-de dar a conocer esa redencin por doquier. As como Dios ha dado poder a
+de dar a conocer esa redención por doquier. Así como Dios ha dado poder a
 
 Cristo sobre toda carne para dar vida eterna a todos los que el Padre le ha
 
-dado, as Jess les ha dado a ustedes poder sobre tal y tal carne, y hay
+dado, así Jesús les ha dado a ustedes poder sobre tal y tal carne, y hay
 
-algunos en este mundo que no recibirn nunca la vida eterna excepto a travs de
+algunos en este mundo que no recibirán nunca la vida eterna excepto a través de
 
-ustedes. Est establecido que de los labios de ustedes oirn ellos el Evangelio;
+ustedes. Está establecido que de los labios de ustedes oirán ellos el Evangelio;
 
-est ordenado en el decreto divino que por medio de la intervencin de ustedes
+está ordenado en el decreto divino que por medio de la intervención de ustedes
 
-ellos sern llevados al reino de Dios.
+ellos serán llevados al reino de Dios.
 
 Es tiempo de que ustedes y yo, que tal vez hemos
 
-llegado a los treinta, a los cuarenta, a los cincuenta o sesenta aos de edad,
+llegado a los treinta, a los cuarenta, a los cincuenta o sesenta ańos de edad,
 
-nos levantemos y digamos: No sabais que en los negocios de mi Padre me es
+nos levantemos y digamos: “żNo sabíais que en los negocios de mi Padre me es
 
-necesario estar involucrado para realizarlos? David tuvo que esperar hasta or
+necesario estar involucrado para realizarlos?” David tuvo que esperar hasta oír
 
-el sonido como de marcha por las copas de las balsameras; acaso no oyen
+‘el sonido como de marcha por las copas de las balsameras’; żacaso no oyen
 
 ustedes el sonido como de marcha
 
 ahora?
 
-No
+żNo
 
 hay signos e indicaciones de que han de cumplir la voluntad de Aquel que les
 
-envi, y que han de completar Su obra? La noche viene, cuando nadie puede
+envió, y que han de completar Su obra? La noche viene, cuando nadie puede
 
-trabajar. Arriba, entonces, ustedes, hijos de Dios, y siguiendo al santo nio
+trabajar. Arriba, entonces, ustedes, hijos de Dios, y siguiendo al santo nińo
 
-Jess, comiencen a hacer la pregunta: No sabais que en los negocios de mi
+Jesús, comiencen a hacer la pregunta: “żNo sabíais que en los negocios de mi
 
-Padre me es necesario estar?
+Padre me es necesario estar?”
 
-Estas eran las percepciones de este santo nio.
+Estas eran las percepciones de este santo nińo.
 
-Oh, que pudieran llegarnos con potencia a nuestra propia y ms reducida manera.
+Oh, que pudieran llegarnos con potencia a nuestra propia y más reducida manera.
 
 Que podamos percibir que somos nacidos de Dios. Que podamos percibir dentro de
 
-nosotros el Espritu por el cual clamamos: Abba, Padre. Que nos sorprendamos porque
+nosotros el Espíritu por el cual clamamos: “Abba, Padre”. Que nos sorprendamos porque
 
-otros no entienden los llamamientos y las urgencias de nuestra condicin; y que
+otros no entienden los llamamientos y las urgencias de nuestra condición; y que
 
 tengamos tal sentido de nuestro excelso llamamiento como para proceder de
 
-inmediato a cumplirlo conforme Dios, el Espritu Santo, nos ayude.
+inmediato a cumplirlo conforme Dios, el Espíritu Santo, nos ayude.
 
 II.
 
 Ahora tenemos que pensar en EL HOGAR DEL SANTO
 
-NIO. Aqu me veo obligado a enmendar nuestra versin, y estoy seguro de que la
+NIŃO. Aquí me veo obligado a enmendar nuestra versión, y estoy seguro de que la
 
-correccin es, en s misma, correcta. Me veo ms fortalecido en mi opinin
+corrección es, en sí misma, correcta. Me veo más fortalecido en mi opinión
 
-porque la Versin Revisada endosa la enmienda. As es como la traducen: No
+porque la Versión Revisada endosa la enmienda. Así es como la traducen: “żNo
 
-sabais que yo deba estar en la casa de mi Padre? Eso podra no ser
+sabíais que yo debía estar en la casa de mi Padre?” Eso podría no ser
 
-verbalmente exacto, pero ese es el verdadero sentido. Debera ser expresado
+verbalmente exacto, pero ese es el verdadero sentido. Debería ser expresado
 
-as: No sabais que yo deba estar en lo (en casa) de mi Padre? No hay
+así: “żNo sabíais que yo debía estar en lo (en casa) de mi Padre?” No hay
 
-ninguna palabra para casa. Pero en casi todas las lenguas se sobreentiende la
+ninguna palabra para “casa”. Pero en casi todas las lenguas se sobreentiende la
 
-palabra casa. Ustedes saben cmo nos decimos comnmente unos a otros: Voy
+palabra “casa”. Ustedes saben cómo nos decimos comúnmente unos a otros: “Voy
 
-con (a la casa de) mi padre o, voy a pasar la tarde con (en casa de) mi
+con (a la casa de) mi padre” o, “voy a pasar la tarde con (en casa de) mi
 
-hermano. Todo mundo sabe que nos referimos a la casa, y es as como est
+hermano”. Todo mundo sabe que nos referimos a la “casa”, y es así como está
 
-expresado aqu en el griego. No sabais que yo deba estar con (en casa de)
+expresado aquí en el griego. “żNo sabíais que yo debía estar con (en casa de)
 
-mi Padre? Quiere decir: casa. Ese ha de ser el primer significado bsico de
+mi Padre?” Quiere decir: “casa”. Ese ha de ser el primer significado básico de
 
-sto. El texto no dice nada de negocios, a menos que entendamos que est
+ésto. El texto no dice nada de negocios, a menos que entendamos que está
 
-incluido de hecho, puesto que podemos estar seguros de que Jess no estara
+incluido de hecho, puesto que podemos estar seguros de que Jesús no estaría
 
-ocioso en lo (en casa) de Su Padre, pues dijo: Mi Padre hasta ahora trabaja, y
+ocioso en lo (en casa) de Su Padre, pues dijo: “Mi Padre hasta ahora trabaja, y
 
-yo trabajo. Observen que la pregunta de Mara era: Por qu nos has hecho
+yo trabajo”. Observen que la pregunta de María era: “żPor qué nos has hecho
 
-as? He aqu, tu padre y yo te hemos buscado con angustia. Su respuesta es:
+así? He aquí, tu padre y yo te hemos buscado con angustia”. Su respuesta es:
 
-No sabais que yo deba estar en la casa de mi Padre? Esa es claramente una
+“żNo sabíais que yo debía estar en la casa de mi Padre?” Esa es claramente una
 
-respuesta completa y all nos da la impresin de algo ms natural que una
+respuesta completa y allí nos da la impresión de algo más natural que una
 
-referencia a negocios. Si Jess slo hubiera dicho: No sabais que en los
+referencia a negocios. Si Jesús sólo hubiera dicho: “żNo sabíais que en los
 
-negocios de mi Padre me es necesario estar?, no habra sido ninguna gua para
+negocios de mi Padre me es necesario estar?”, no habría sido ninguna guía para
 
-ellos en cuanto a dnde estara, porque en toda Su vida estuvo en los negocios
+ellos en cuanto a dónde estaría, porque en toda Su vida estuvo en los negocios
 
 de Su Padre, pero no siempre estaba en el templo. Estaba en los negocios de Su
 
-Padre cuando se sent junto al pozo y habl con la mujer de Samaria; y estaba
+Padre cuando se sentó junto al pozo y habló con la mujer de Samaria; y estaba
 
-en los negocios de Su Padre cuando camin sobre las olas del mar de Galilea. l
+en los negocios de Su Padre cuando caminó sobre las olas del mar de Galilea. Él
 
-poda estar en cualquier parte, y sin embargo, estar en los negocios de Su
+podía estar en cualquier parte, y sin embargo, estar en los negocios de Su
 
-Padre: pero la respuesta natural a la pregunta fue: Por qu me buscabais? No
+Padre: pero la respuesta natural a la pregunta fue: “żPor qué me buscabais? żNo
 
-sabais que yo deba estar en la casa de mi Padre? Leamos el pasaje de esta
+sabíais que yo debía estar en la casa de mi Padre?” Leamos el pasaje de esta
 
-manera, y veamos el hogar del nio.
+manera, y veamos el hogar del nińo.
 
-Dnde deba estar Jess sino en
+żDónde debía estar Jesús sino en
 
 la morada de Su Padre?
 
 No dudo de que deseara
 
-vidamente comer la pascua al cumplir los doce aos y contar con la edad
+ávidamente comer la pascua al cumplir los doce ańos y contar con la edad
 
-suficiente para subir a la casa de Su Padre. l consideraba que el Templo era
+suficiente para subir a la casa de Su Padre. Él consideraba que el Templo era
 
-temporalmente la residencia de Dios y el lugar donde l se manifestaba en un
+temporalmente la residencia de Dios y el lugar donde Él se manifestaba en un
 
-grado inusual, y as el santo nio miraba esas paredes y esos atrios con
+grado inusual, y así el santo nińo miraba esas paredes y esos atrios con
 
-deleite, como la casa de Su Padre. Le pareca sumamente natural que al llegar
+deleite, como la casa de Su Padre. Le parecía sumamente natural que al llegar
 
-al lugar, debera quedarse all. l no haba estado realmente nunca antes en
+al lugar, debería quedarse allí. Él no había estado realmente nunca antes en
 
-casa. Nazaret era el lugar donde fue criado, pero el Templo de Jerusaln era Su
+casa. Nazaret era el lugar donde fue criado, pero el Templo de Jerusalén era Su
 
-verdadero hogar en la tierra. Me imagino cunto amaba ese bienaventurado nio el
+verdadero hogar en la tierra. Me imagino cuánto amaba ese bienaventurado nińo el
 
 lugar
 
@@ -690,25 +690,25 @@ donde Su Padre era adorado.
 
 A
 
-pesar de ser un nio, se quedara parado observando las ovejas y los novillos
+pesar de ser un nińo, se quedaría parado observando las ovejas y los novillos
 
-que eran sacrificados, y entendera mucho ms acerca de ellos que ustedes y yo,
+que eran sacrificados, y entendería mucho más acerca de ellos que ustedes y yo,
 
-que somos adultos. Todo debe de haber sido como un pas de las maravillas para
+que somos adultos. Todo debe de haber sido como un país de las maravillas para
 
-l, siendo un nio no hablo de l como Dios- todo debe de haber sido
+Él, siendo un nińo –no hablo de Él como Dios- todo debe de haber sido
 
-maravilloso para l y profundamente interesante. Cuando los salmos suban,
+maravilloso para Él y profundamente interesante. Cuando los salmos subían,
 
-cmo los cantaba con Su dulce voz juvenil!
+ˇcómo los cantaba con Su dulce voz juvenil!
 
-Se deca: He de cantar preces a Mi Padre. Cuando elevaban las solemnes
+Se decía: “He de cantar preces a Mi Padre”. Cuando elevaban las solemnes
 
-oraciones y l las oa, no haba nadie tan devoto como l al or al pueblo
+oraciones y Él las oía, no había nadie tan devoto como Él al oír al pueblo
 
-adorar a Su Padre celestial. Es conmovedor pensar en l en el palacio de Su
+adorar a Su Padre celestial. Es conmovedor pensar en Él en el palacio de Su
 
-Padre: l era ms grande que el templo, y sin embargo, todava era un
+Padre: Él era más grande que el templo, y sin embargo, todavía era un
 
 adolescente.
 
@@ -716,171 +716,171 @@ Era la casa de Su Padre en un sentido especial,
 
 porque en el templo todo hablaba de la gloria de Dios, y todo estaba destinado
 
-a la adoracin a Dios. Era la casa de Su Padre, tambin, en el sentido de que
+a la adoración a Dios. Era la casa de Su Padre, también, en el sentido de que
 
-all continuaba la obra de Su Padre.
+allí continuaba la obra de Su Padre.
 
 Si
 
-no hubiese sido por el pecado que haba apartado a los rabinos y a los
+no hubiese sido por el pecado que había apartado a los rabinos y a los
 
-sacerdotes de seguir fielmente a Dios, el Templo sera el lugar del cual saldra
+sacerdotes de seguir fielmente a Dios, el Templo sería el lugar del cual saldría
 
-el poder de Dios. De Sion, perfeccin de hermosura, Dios ha resplandecido.
+el poder de Dios. “De Sion, perfección de hermosura, Dios ha resplandecido”.
 
-All tambin fue proclamada la verdad de Su Padre, y all fueron celebradas Sus
+Allí también fue proclamada la verdad de Su Padre, y allí fueron celebradas Sus
 
 ordenanzas. El Templo era el centro de la labranza del grandioso Labrador: era
 
-la hacienda desde donde todos los obreros salan para labrar los campos del
+la hacienda desde donde todos los obreros salían para labrar los campos del
 
 propio Padre de Cristo.
 
-En especial para l, era all que
+En especial para Él, era allí que
 
-el nombre de Su Padre era enseado.
+el nombre de Su Padre era enseńado.
 
-Rpidamente
+Rápidamente
 
-encontr Su camino desde el lugar del sacrificio hasta el lugar de la
+encontró Su camino desde el lugar del sacrificio hasta el lugar de la
 
-enseanza: Sacrificio y ofrenda no te agrada; entonces fue a ver a los
+enseńanza: “Sacrificio y ofrenda no te agrada”; entonces fue a ver a los
 
-doctores. Este nio, prudente y espiritual, quera saberlo todo acerca de lo
+doctores. Este nińo, prudente y espiritual, quería saberlo todo acerca de lo
 
-sagrado, y as tom Su lugar en medio de los aprendices, y los maestros estaban
+sagrado, y así tomó Su lugar en medio de los aprendices, y los maestros estaban
 
-asombrados cuando este nuevo hijo de la ley les haca preguntas que mostraban
+asombrados cuando este nuevo “hijo de la ley” les hacía preguntas que mostraban
 
-que tena un pensamiento vastamente superior a cualquier persona en el templo.
+que tenía un pensamiento vastamente superior a cualquier persona en el templo.
 
 Cuando estas preguntas fueron respondidas no fueron sino las predecesoras de un
 
-ejrcito entero de otras preguntas, pues l quera saber ms. Ellos se quedaban
+ejército entero de otras preguntas, pues Él quería saber más. Ellos se quedaban
 
-atnitos ya que esas preguntas provenan de una mente juvenil. En retorno ellos
+atónitos ya que esas preguntas provenían de una mente juvenil. En retorno ellos
 
-le hacan preguntas al joven, y l les responda bien, pues posea una mente
+le hacían preguntas al joven, y Él les respondía bien, pues poseía una mente
 
-notable, y Su madre le haba enseado la palabra preciosa, de tal manera que l
+notable, y Su madre le había enseńado la palabra preciosa, de tal manera que Él
 
-tena a la ley y a los profetas en la punta de Sus dedos. Sin duda citaba en
+tenía a la ley y a los profetas en la punta de Sus dedos. Sin duda citaba en
 
-Sus respuestas los dichos de Isaas o de Jeremas, y asombraba profundamente a
+Sus respuestas los dichos de Isaías o de Jeremías, y asombraba profundamente a
 
-los doctores cuando perciban que era capaz de divisar las profundidades de las
+los doctores cuando percibían que era capaz de divisar las profundidades de las
 
 palabras santas.
 
-Ahora, queridos amigos, yendo a la prctica de
+Ahora, queridos amigos, yendo a la práctica de
 
-nuevo, dnde debera estar nuestro hogar como hijos de Dios sino en la casa de
+nuevo, żdónde debería estar nuestro hogar como hijos de Dios sino en la casa de
 
-nuestro Padre? Creen ustedes que nosotros tenemos el suficiente espritu
+nuestro Padre? żCreen ustedes que nosotros tenemos el suficiente espíritu
 
-infantil en nosotros para sentir eso? No sabais que yo deba estar en la
+infantil en nosotros para sentir eso? “żNo sabíais que yo debía estar en la
 
-casa de mi Padre? Esa casa es Su iglesia. l mora en medio de los fieles. Los
+casa de mi Padre?” Esa casa es Su iglesia. Él mora en medio de los fieles. Los
 
-santos de Dios son edificados juntos para constituir una habitacin de Dios por
+santos de Dios son edificados juntos para constituir una habitación de Dios por
 
-medio del Espritu. Que est yo a menudo en medio de Su pueblo, pues debo estar
+medio del Espíritu. Que esté yo a menudo en medio de Su pueblo, pues debo estar
 
 en la casa de mi Padre.
 
-Si en verdad soy un hijo de Dios, no debera
+Si en verdad soy un hijo de Dios, żno debería
 
-amar, no tendra que amar, no amar estar donde Dios es adorado? No deberan
+amar, no tendría que amar, no amaré estar donde Dios es adorado? żNo deberían
 
-encantarme los himnos de la casa de Dios? No deberan deleitarme las oraciones
+encantarme los himnos de la casa de Dios? żNo deberían deleitarme las oraciones
 
-del pueblo de Dios? No estar vido de participar en las reuniones de oracin
+del pueblo de Dios? żNo estaré ávido de participar en las reuniones de oración
 
-de los santos? No habra de regocijarme el hecho de unirme a su alabanza? No
+de los santos? żNo habría de regocijarme el hecho de unirme a su alabanza? żNo
 
-se vera deleitada mi alma al estar a la mesa de la comunin, y en cualquier
+se vería deleitada mi alma al estar a la mesa de la comunión, y en cualquier
 
-otra parte que Dios haya establecido para ser adorado por sus santos? No
+otra parte que Dios haya establecido para ser adorado por sus santos? żNo
 
-habra de amar cada lugar donde la obra de Dios se est llevando a cabo? Si
+habría de amar cada lugar donde la obra de Dios se está llevando a cabo? Si
 
-oigo que el Evangelio es predicado, no he de decir: djenme estar all? Si
+oigo que el Evangelio es predicado, żno he de decir: “déjenme estar allí”? Si
 
-se distribuyen folletos de casa en casa, acaso no dir: yo tambin voy a
+se distribuyen folletos de casa en casa, żacaso no diré: “yo también voy a
 
-responsabilizarme de un distrito si pudiera hacerlo? Si hay trabajo en la
+responsabilizarme de un distrito si pudiera hacerlo”? Si hay trabajo en la
 
-escuela dominical, no clamar: djenme impartir una clase de acuerdo a mi
+escuela dominical, żno clamaré: “déjenme impartir una clase de acuerdo a mi
 
-habilidad: djenme participar en esta santa empresa? No sabais que yo deba
+habilidad: déjenme participar en esta santa empresa”? “żNo sabíais que yo debía
 
 estar en la casa de mi Padre, en la obra de mi Padre y en la casa de mi Padre e
 
-involucrado en todos los intereses de mi Padre? No debera estar esta
+involucrado en todos los intereses de mi Padre?” żNo debería estar esta
 
-compulsin -bendita y dulce e irresistible- continuamente sobre nosotros? Yo
+compulsión -bendita y dulce e irresistible- continuamente sobre nosotros? Yo
 
-debo estar donde Dios est. Si no estoy con Su pueblo porque estoy retenido por
+debo estar donde Dios está. Si no estoy con Su pueblo porque estoy retenido por
 
 la enfermedad, a pesar de ello he de estar en la casa de mi Padre. Hay muchas
 
-mansiones en esa grandiosa casa en la tierra as como en el cielo, y podemos
+mansiones en esa grandiosa casa en la tierra así como en el cielo, y podemos
 
 estar con Dios en las calles, y en Su casa cuando trabajamos en el campo. Pero
 
 tenemos que estar en la casa de nuestro Padre; no podemos tolerar estar lejos
 
-de Dios. La prdida de la comunin es la prdida de la paz, la prdida del
+de Dios. La pérdida de la comunión es la pérdida de la paz, la pérdida del
 
 deleite.
 
-Oh, ansen ardientemente la comunin con Dios;
+Oh, ansíen ardientemente la comunión con Dios;
 
-ambicinenla: amen todo aquello que los mantenga en esa comunin; odien todo lo
+ambiciónenla: amen todo aquello que los mantenga en esa comunión; odien todo lo
 
-que los aleje de ella. Levntense temprano para tener comunin con Dios, antes
+que los aleje de ella. Levántense temprano para tener comunión con Dios, antes
 
-de que el humo de la tierra oscurezca la faz del cielo: qudense hasta tarde
+de que el humo de la tierra oscurezca la faz del cielo: quédense hasta tarde
 
-para tener comunin con Dios, mientras los rocos estn cayendo en derredor: si
+para tener comunión con Dios, mientras los rocíos están cayendo en derredor: si
 
-no puedes hacer ninguna otra cosa, nigate el descanso, y permanece despierto
+no puedes hacer ninguna otra cosa, niégate el descanso, y permanece despierto
 
-en la noche para tener comunin con Dios tu Padre. Acaso un hijo no querr
+en la noche para tener comunión con Dios tu Padre. żAcaso un hijo no querrá
 
-hablar con su Padre y or a su Padre hablar con l? As debe ser; as ser; no
+hablar con su Padre y oír a su Padre hablar con él? Así debe ser; así será; no
 
-dejar de ser as contigo, si sientes con potencia el espritu de hijo dentro
+dejará de ser así contigo, si sientes con potencia el espíritu de hijo dentro
 
-de ti igual que nuestro bendito Seor y Maestro lo hizo cuando slo tena doce
+de ti igual que nuestro bendito Seńor y Maestro lo hizo cuando sólo tenía doce
 
-aos de edad.
+ańos de edad.
 
 III.
 
-Consideren, en tercer lugar, LA OCUPACIN DEL
+Consideren, en tercer lugar, LA OCUPACIÓN DEL
 
-SANTO NIO. Aunque tengo dudas de que esta sea la traduccin correcta: No
+SANTO NIŃO. Aunque tengo dudas de que esta sea la traducción correcta: “żNo
 
-sabais que en los negocios de mi Padre me es necesario estar?, sin embargo,
+sabíais que en los negocios de mi Padre me es necesario estar?”, sin embargo,
 
-sabemos que este santo nio no estara en la casa de Su Padre como un holgazn.
+sabemos que este santo nińo no estaría en la casa de Su Padre como un holgazán.
 
-Se asegurara de estar en la casa del Padre en el sentido de ser uno de los
+Se aseguraría de estar en la casa del Padre en el sentido de ser uno de los
 
-obreros que estn en ella. La casa de nuestro Padre es una casa de negocios y,
+obreros que están en ella. La casa de nuestro Padre es una casa de negocios y,
 
 por tanto, tenemos que estar en los negocios de nuestro Padre cuando estamos en
 
 la casa de nuestro Padre.
 
-Esa es la palabra. Aunque la traduccin que
+Esa es la palabra. Aunque la traducción que
 
-menciona negocios podra ser cuestionable, es suficientemente legal decir que
+menciona ‘negocios’ podría ser cuestionable, es suficientemente legal decir que
 
-la ocupacin de este santo nio consista en estar ocupado en los asuntos de Su
+la ocupación de este santo nińo consistía en estar ocupado en los asuntos de Su
 
-Padre. Entonces, qu era lo que haca?
+Padre. Entonces, żqué era lo que hacía?
 
 Primero,
 
@@ -888,63 +888,63 @@ pasaba
 
 Su tiempo aprendiendo y preguntando.
 
-Cmo anhelo hacer el bien dice algn
+“Cómo anhelo hacer el bien” dice algún
 
-joven. Tienes razn, pero no tienes que ser impaciente. V en medio de los
+joven. Tienes razón, pero no tienes que ser impaciente. Vé en medio de los
 
-maestros, y aprende un poco. T todava no puedes ensear, pues no sabes: anda
+maestros, y aprende un poco. Tú todavía no puedes enseńar, pues no sabes: anda
 
-y aprende antes de que pienses en ensear. Los espritus fogosos piensan que no
+y aprende antes de que pienses en enseńar. Los espíritus fogosos piensan que no
 
-estn sirviendo a Dios cuando estn aprendiendo; pero en sto yerran. Amados,
+están sirviendo a Dios cuando están aprendiendo; pero en ésto yerran. Amados,
 
-Mara a los pies de Jess fue ensalzada ms bien que Marta, abrumada por el
+María a los pies de Jesús fue ensalzada más bien que Marta, abrumada por el
 
 mucho servicio.
 
-Pero, -dir alguien- no debemos estar oyendo
+“Pero”, -dirá alguien- “no debemos estar oyendo
 
-siempre sermones. No, hasta donde s, ninguno de ustedes lo hace.
+siempre sermones”. No, hasta donde sé, ninguno de ustedes lo hace.
 
-Deberamos ponernos a trabajar de inmediato,
+“Deberíamos ponernos a trabajar de inmediato”,
 
 clama otro.
 
-Ciertamente deberas, despus de haber aprendido
+Ciertamente deberías, después de haber aprendido
 
-en qu consiste el trabajo; pero si todo mundo que es convertido comenzara a
+en qué consiste el trabajo; pero si todo mundo que es convertido comenzara a
 
-ensear, pronto tendramos un revoltijo de herejas, y se ensearan muchos
+enseńar, pronto tendríamos un revoltijo de herejías, y se enseńarían muchos
 
-dogmas crudos e indigestos que haran ms dao que bien. Corre, mensajero,
+dogmas crudos e indigestos que harían más dańo que bien. ˇCorre, mensajero,
 
-corre! Los negocios del Rey exigen prisa. No, ms bien detente un poco. Tienes
+corre! Los negocios del Rey exigen prisa. No, más bien detente un poco. żTienes
 
 alguna noticia que anunciar? Primero aprende tu mensaje, y luego corre tan
 
-rpido como quieras. Tiene que haber un tiempo para aprender el mensaje. Si
+rápido como quieras. Tiene que haber un tiempo para aprender el mensaje. Si
 
-nuestro bendito Seor esper treinta aos, l es un ejemplo para las personas
+nuestro bendito Seńor esperó treinta ańos, Él es un ejemplo para las personas
 
-vidas que escasamente pueden esperar treinta minutos. Mira cun rpido viajan
+ávidas que escasamente pueden esperar treinta minutos. ˇMira cuán rápido viajan
 
-las cosas ligeras! Cun vidos de hablar estn quienes no saben nada! Cun
+las cosas ligeras! ˇCuán ávidos de hablar están quienes no saben nada! Cuán
 
 veloces son para hablar lo que no saben y para atestiguar lo que nunca han
 
-visto. Esto no proviene de la sabidura, sino que es el fruto prematuro de la
+visto. Esto no proviene de la sabiduría, sino que es el fruto prematuro de la
 
 necedad.
 
-He odo decir que los Disidentes no asisten a
+He oído decir que los Disidentes no asisten a
 
-sus capillas para adorar, sino para or sermones. No es cierto; pero si lo
+sus capillas para adorar, sino para oír sermones. No es cierto; pero si lo
 
-fuera, permtanme decirles que or sermones pudiera ser una de las formas ms
+fuera, permítanme decirles que oír sermones pudiera ser una de las formas más
 
-divinas de adoracin fuera del cielo; pues al or el Evangelio como debe ser
+divinas de adoración fuera del cielo; pues al oír el Evangelio como debe ser
 
-odo, cada pasin sagrada es puesta en juego, y cada poder de nuestra renovada
+oído, cada pasión sagrada es puesta en juego, y cada poder de nuestra renovada
 
 humanidad es conducida a inclinarse delante de la Majestad en lo alto. Cuando
 
@@ -952,393 +952,393 @@ la fe abraza la promesa y el amor se regocija en ella y la esperanza espera su
 
 cumplimiento, esas tres virtudes adoran si el tema es alguna palabra de gracia
 
-del Altsimo. El pensamiento, la memoria, el entendimiento, la emocin, todos
+del Altísimo. El pensamiento, la memoria, el entendimiento, la emoción, todos
 
 ellos son ejercitados.
 
-Yo no creo haber adorado mejor a Dios jams que
+Yo no creo haber adorado mejor a Dios jamás que
 
 cuando he escuchado a un hombre humilde, de mente sencilla, contar la historia
 
-de la cruz y de su propia conversin. He escuchado el Evangelio con lgrimas
+de la cruz y de su propia conversión. He escuchado el Evangelio con lágrimas
 
 rodando de mis ojos, y he adorado al Dios vivo que lo ha enviado entre los
 
-hombres. Tengo tan raras veces el privilegio de or un sermn que, cuando lo
+hombres. Tengo tan raras veces el privilegio de oír un sermón que, cuando lo
 
 hago, me ocasiona tan intenso deleite que escasamente puedo describirlo, y
 
-entonces me acerco ms a Dios que por medio de cualquier otro ejercicio.
+entonces me acerco más a Dios que por medio de cualquier otro ejercicio.
 
 Yo supongo que les sucede lo mismo a ustedes: de
 
-cualquier manera, as sera si la predicacin fuera lo que debera ser. El verdadero
+cualquier manera, así sería si la predicación fuera lo que debería ser. El verdadero
 
-or engendra adoracin. Este santo nio estaba involucrado en los negocios de
+oír engendra adoración. Este santo nińo estaba involucrado en los negocios de
 
-Su Padre cuando simplemente preguntaba y aprenda de los maestros designados.
+Su Padre cuando simplemente preguntaba y aprendía de los maestros designados.
 
-De hecho, nosotros necesitamos hacer ms de este tipo de negocios. Nosotros
+De hecho, nosotros necesitamos hacer más de este tipo de negocios. Nosotros
 
-somos insuficientes, deficientes y dbiles, porque echamos espuma por la boca
+somos insuficientes, deficientes y débiles, porque echamos espuma por la boca
 
-hablando demasiado antes de haber absorbido la verdad en lo ntimo de nuestras
+hablando demasiado antes de haber absorbido la verdad en lo íntimo de nuestras
 
 almas. Recuerden que la buena sustancia no puede salir de ustedes si nunca ha
 
-entrado en ustedes; y si no tienen tiempo para recibir instruccin, la
+entrado en ustedes; y si no tienen tiempo para recibir instrucción, la
 
-sustancia que sale de ustedes sera de escaso valor.
+sustancia que sale de ustedes sería de escaso valor.
 
-Este santo nio est involucrado en el negocio
+Este santo nińo está involucrado en el negocio
 
 de Su Padre pues
 
-est absorto en l.
+está absorto en él.
 
-Todo su corazn est sumergido en or y en hacer preguntas. Me parece que hay
+Todo su corazón está sumergido en oír y en hacer preguntas. Me parece que hay
 
-una fuerza en la versin en griego que se pierde en la traduccin, que saca a
+una fuerza en la versión en griego que se pierde en la traducción, que saca a
 
-colacin la palabra
+colación la palabra
 
-relacionado.
+“relacionado”.
 
 No
 
-hay nada que sea paralelo a ella en el griego, que es: No sabais que yo
+hay nada que sea paralelo a ella en el griego, que es: “żNo sabíais que yo
 
-deba estar en la casa de mi Padre? La manera de adorar a Dios es involucrarse
+debía estar en la casa de mi Padre?” La manera de adorar a Dios es involucrarse
 
-de corazn. Bienaventurado el hombre que tiene en ti sus fuerzas, en cuyo
+de corazón. “Bienaventurado el hombre que tiene en ti sus fuerzas, en cuyo
 
-corazn estn tus caminos. Cuando estamos predicando decimos algunas veces:
+corazón están tus caminos”. Cuando estamos predicando decimos algunas veces:
 
-Siento que profundic
-
-en
-
-el tema; y
-
-ustedes mismos saben cundo el predicador est profundizando
+“Siento que profundicé
 
 en
 
-l. A menudo est remando en la costa
+el tema”; y
 
-de su texto, y posiblemente vadee en medio de l hasta sus tobillos; pero, oh,
+ustedes mismos saben cuándo el predicador está profundizando
 
-cuando se zambulle en los ros para pasarlos a nado, entonces experimentan
+en
 
-tiempos grandiosos. Cuando la preciosa verdad lo ha alzado prcticamente sobre
+él. A menudo está remando en la costa
 
-sus pies, ustedes se zambullen tambin y nadan de igual manera.
+de su texto, y posiblemente vadee en medio de él hasta sus tobillos; pero, oh,
 
-Nuestro Seor, cuando fue al templo, se
+cuando se zambulle en “los ríos para pasarlos a nado”, entonces experimentan
 
-involucr en la adoracin y en la enseanza, y esa fue Su respuesta a Mara.
+tiempos grandiosos. Cuando la preciosa verdad lo ha alzado prácticamente sobre
 
-Fue como si dijera: No sabais que estaba absorto en lo de mi Padre? No me di
+sus pies, ustedes se zambullen también y nadan de igual manera.
 
-cuenta de que ustedes se haban ido; me olvid por completo de ustedes. No
+Nuestro Seńor, cuando fue al templo, se
 
-sabais que mi alma estaba en la casa de mi Padre? Estaba tan absorto con lo
+involucró en la adoración y en la enseńanza, y esa fue Su respuesta a María.
+
+Fue como si dijera: “żNo sabíais que estaba absorto en lo de mi Padre? No me di
+
+cuenta de que ustedes se habían ido; me olvidé por completo de ustedes. żNo
+
+sabíais que mi alma estaba en la casa de mi Padre? Estaba tan absorto con lo
 
 que estaba aprendiendo de los doctores y con lo que estaba viendo en el templo,
 
-que no poda hacer otra cosa que permanecer all. No saban eso? Acaso no se
+que no podía hacer otra cosa que permanecer allí. żNo sabían eso? żAcaso no se
 
-quedaron absortos tambin ustedes? l pareciera pensar que ellos podran haber
+quedaron absortos también ustedes?” Él pareciera pensar que ellos podrían haber
 
-estado tan interesados como l; y lo habran estado si hubieran llevado la
+estado tan interesados como Él; y lo habrían estado si hubieran llevado la
 
-misma relacin con Dios que l llevaba.
+misma relación con Dios que Él llevaba.
 
 Es muy natural que quedemos embargados en
 
-nuestra adoracin. No me sorprendera si algunas veces furamos un poco rudos
+nuestra adoración. No me sorprendería si algunas veces fuéramos un poco rudos
 
-con aquellos que se sientan junto a nosotros; o que furamos conmovidos un poco
+con aquellos que se sientan junto a nosotros; o que fuéramos conmovidos un poco
 
-ms all de lo que la etiqueta sugerira; o que expresramos nuestros
+más allá de lo que la etiqueta sugeriría; o que expresáramos nuestros
 
-sentimientos con expresiones involuntarias, y nos volviramos problemticos
+sentimientos con expresiones involuntarias, y nos volviéramos problemáticos
 
-para los que estn sentados en la misma banca que nosotros, de tal forma que
+para los que están sentados en la misma banca que nosotros, de tal forma que
 
-dijeran: Qu es lo que les pasa a estas personas?
+dijeran: “żQué es lo que les pasa a estas personas?”
 
 Amigos, hemos asumido el santo compromiso, y no
 
 podemos gobernarnos a nosotros mismos adecuadamente, y sentimos como si
 
-pudiramos decirles: No sabas que en la obra y adoracin y verdad de mi
+pudiéramos decirles: “żNo sabías que en la obra y adoración y verdad de mi
 
-Padre me es necesario estar? No podemos sentir a medias: estamos demasiado
+Padre me es necesario estar?” No podemos sentir a medias: estamos demasiado
 
-felices para eso. Sentimos un pleno entusiasmo. No saben que no podemos ser comedidos
+felices para eso. Sentimos un pleno entusiasmo. żNo saben que no podemos ser comedidos
 
-y estar calmados, pues tenemos que estar absortos con nuestro santo servicio?
+y estar calmados, pues tenemos que estar absortos con nuestro santo servicio”?
 
-Adems, el santo nio declara que
+Además, el santo nińo declara que
 
-senta una necesidad
+sentía una necesidad
 
 de estar en ello.
 
-No sabais que en los negocios de mi Padre
+“żNo sabíais que en los negocios de mi Padre
 
 me es necesario
 
-estar? No poda evitarlo. Cristo no podra ser
+estar?” No podía evitarlo. Cristo no podría ser
 
-nunca un alumno fro o un adorador tibio. No era posible que lo fuera. Tena
+nunca un alumno frío o un adorador tibio. No era posible que lo fuera. Tenía
 
-que ser absorbido por ello; tena que ser arrastrado dentro del bendito remolino:
+que ser absorbido por ello; tenía que ser arrastrado dentro del bendito remolino:
 
-tena que perderse en l, y entregar todo Su pensamiento y atencin a l; y eso
+tenía que perderse en él, y entregar todo Su pensamiento y atención a él; y eso
 
-le dice a Su madre. No sabais que en los negocios de mi Padre me
+le dice a Su madre. “żNo sabíais que en los negocios de mi Padre me
 
 es necesario
 
-estar? Al santo nio no le
+estar?” Al santo nińo no le
 
-interesaban otras cosas, pero sto le absorba por completo.
+interesaban otras cosas, pero ésto le absorbía por completo.
 
 Ustedes conocen la historia de Alejandro, que
 
 relata que cuando los embajadores persas llegaron a la corte de su padre, el
 
-pequeo Alejandro les haca muchas preguntas, pero no eran en absoluto el tipo
+pequeńo Alejandro les hacía muchas preguntas, pero no eran en absoluto el tipo
 
-de preguntas que los muchachos suelen concebir. l no les peda que le
+de preguntas que los muchachos suelen concebir. Él no les pedía que le
 
 describieran el trono de marfil, ni los jardines colgantes de Babilonia, ni
 
-nada relativo al bellsimo ropaje del rey; antes bien, preguntaba qu armas
+nada relativo al bellísimo ropaje del rey; antes bien, preguntaba qué armas
 
-usaban los persas en la batalla, en qu formacin marchaban, y qu distancia
+usaban los persas en la batalla, en qué formación marchaban, y qué distancia
 
-haba hasta su pas, pues el muchacho Alejandro senta al hombre Alejandro en
+había hasta su país, pues el muchacho Alejandro sentía al hombre Alejandro en
 
-su interior, y presenta que l era el hombre que conquistara Persia y que les
+su interior, y presentía que él era el hombre que conquistaría Persia y que les
 
-mostrara otra forma de lucha que los hara batirse en retirada.
+mostraría otra forma de lucha que los haría batirse en retirada.
 
-Ese un singular paralelo con el caso del nio
+Ese un singular paralelo con el caso del nińo
 
-Jess, que es consumido de celo nicamente por lo que es de Su Padre, porque le
+Jesús, que es consumido de celo únicamente por lo que es de Su Padre, porque le
 
-corresponda hacer la obra de Su Padre, y vivir para la gloria de Su Padre, y
+correspondía hacer la obra de Su Padre, y vivir para la gloria de Su Padre, y
 
-para ejecutar el propsito de Su Padre incluso hasta el fin.
+para ejecutar el propósito de Su Padre incluso hasta el fin.
 
 IV.
 
-Por ltimo, hemos de aprender LA LECCIN
+Por último, hemos de aprender LA LECCIÓN
 
-ESPECIAL DE ESTE SANTO NIO PARA AQUELLOS ENTRE NOSOTROS QUE SON BUSCADORES.
+ESPECIAL DE ESTE SANTO NIŃO PARA AQUELLOS ENTRE NOSOTROS QUE SON BUSCADORES.
 
-Me estoy dirigiendo a algunos hijos de Dios que han perdido de vista a Cristo?
+żMe estoy dirigiendo a algunos hijos de Dios que han perdido de vista a Cristo?
 
-Sucede a veces que perdemos al santo nio, y eso sucede ms a menudo cuando
+Sucede a veces que perdemos al santo nińo, y eso sucede más a menudo cuando
 
-disfrutamos en compaa siendo as separados de l. Mara y Jos, sin duda, se
+disfrutamos en compańía siendo así separados de Él. María y José, sin duda, se
 
-deleitaban con el festival, y as olvidaron a Jess.
+deleitaban con el festival, y así olvidaron a Jesús.
 
 Cuando ustedes y yo estamos en la casa de Dios,
 
-podramos olvidar al Seor de la casa. Nunca lo han perdido estando a Su
+podríamos olvidar al Seńor de la casa. żNunca lo han perdido estando a Su
 
-propia mesa? Nunca lo han perdido mientras han estado involucrados en Su obra?
+propia mesa? żNunca lo han perdido mientras han estado involucrados en Su obra?
 
-Nunca lo han perdido incluso estando ocupados con las cosas santas? Cuando lo
+żNunca lo han perdido incluso estando ocupados con las cosas santas? Cuando lo
 
-pierden, tal vez le digan: Seor, te he buscado todo este tiempo; he estado
+pierden, tal vez le digan: “Seńor, te he buscado todo este tiempo; he estado
 
 entre Tus parientes; he acudido a los amados santos de Dios y les he hablado, y
 
-les he dicho: Habis visto al que ama mi alma, pues lo he perdido?
+les he dicho: ‘żHabéis visto al que ama mi alma, pues lo he perdido?’”
 
-Su respuesta es: Por qu me buscabais? l no
+Su respuesta es: “żPor qué me buscabais?” Él no
 
-est perdido para quienes tienen un anhelo de l. No puedes confiar en l
+está perdido para quienes tienen un anhelo de Él. żNo puedes confiar en Él
 
-cuando est lejos? l est bien incluso cuando no le ves. Aunque no siempre
+cuando está lejos? Él está bien incluso cuando no le ves. Aunque no siempre
 
-sonre, nos ama hasta el fin. A pesar de que no ests caminando a la luz de Su
+sonríe, nos ama hasta el fin. A pesar de que no estés caminando a la luz de Su
 
-rostro, t ests viviendo en el amor de Su corazn. Jess te ve cuando t no lo
+rostro, tú estás viviendo en el amor de Su corazón. Jesús te ve cuando tú no lo
 
-ves: l tiene razones para ocultarse que estn fundadas en la sabidura.
+ves: Él tiene razones para ocultarse que están fundadas en la sabiduría.
 
-Amadsimos amigos, fjense que si ustedes y yo
+Amadísimos amigos, fíjense que si ustedes y yo
 
-queremos encontrar a nuestro Seor, sabemos dnde est, no es cierto? l est
+queremos encontrar a nuestro Seńor, sabemos dónde está, żno es cierto? Él está
 
 en casa de Su Padre. Vayamos a la casa de Su Padre: vayamos a nuestro Padre y a
 
-Su Padre, y hablemos con Dios y preguntmosle dnde est Jess, si hubiremos
+Su Padre, y hablemos con Dios y preguntémosle dónde está Jesús, si hubiéremos
 
-perdido Su compaa. Podemos estar seguros de que l est en la obra de Su
+perdido Su compańía. Podemos estar seguros de que Él está en la obra de Su
 
-Padre. Estamos seguros de ello. Vayamos a trabajar de nuevo para l. No
+Padre. Estamos seguros de ello. Vayamos a trabajar de nuevo para Él. No
 
-digamos: me siento tan embotado que no puedo orar. Ahora es el tiempo en que
+digamos: “me siento tan embotado que no puedo orar”. Ahora es el tiempo en que
 
 debemos orar.
 
-Pero no siento como si pudiese alabarlo. Ahora
+“Pero no siento como si pudiese alabarlo”. Ahora
 
-es el tiempo en que tienes que alabarlo, y la alabanza vendr mientras ests
+es el tiempo en que tienes que alabarlo, y la alabanza vendrá mientras estés
 
 alabando.
 
-Algunas veces no tenemos motivacin para los
+Algunas veces no tenemos motivación para los
 
-ejercicios santos, y el diablo nos dice: No asistas. Mi querido amigo,
+ejercicios santos, y el diablo nos dice: “No asistas”. Mi querido amigo,
 
-asegrate de asistir a la asamblea ahora: asiste para tener la motivacin de
+asegúrate de asistir a la asamblea ahora: asiste para tener la motivación de
 
-asistir. Has comenzado a despreocuparte acerca de las reuniones de oracin?
+asistir. żHas comenzado a despreocuparte acerca de las reuniones de oración?
 
-Vas a dejar de asistir hasta que tengas un renovado inters en ellas? Entonces
+żVas a dejar de asistir hasta que tengas un renovado interés en ellas? Entonces
 
-morirs en la indiferencia. Ven y desarrolla otra vez la aficin a ellas.
+morirás en la indiferencia. Ven y desarrolla otra vez la afición a ellas.
 
-Aquellos que asisten con mayor frecuencia las aman ms. Acaso dice Satans en
+Aquellos que asisten con mayor frecuencia las aman más. żAcaso dice Satanás en
 
-relacin a la oracin privada: no posees el espritu de oracin; no debes
+relación a la oración privada: “no posees el espíritu de oración; no debes
 
-orar? Dile al diablo que vas a orar pidiendo el espritu de oracin, y que vas
+orar?” Dile al diablo que vas a orar pidiendo el espíritu de oración, y que vas
 
 a suplicar hasta obtenerlo. Es un signo de enfermedad que no puedas orar, y
 
 ciertamente entonces has de acudir al doctor. Si hay un momento cuando un
 
-hombre debera orar ms de lo usual, es cuando se siente muerto y fro en el
+hombre debería orar más de lo usual, es cuando se siente muerto y frío en el
 
-santo compromiso: v y busca a Jess en la casa del Padre, y bscale en la obra
+santo compromiso: vé y busca a Jesús en la casa del Padre, y búscale en la obra
 
-del Padre, y quienes entre ustedes que hayan perdido la comunin con l, lo
+del Padre, y quienes entre ustedes que hayan perdido la comunión con Él, lo
 
-encontrarn de nuevo.
+encontrarán de nuevo.
 
 Cuando retomes la clase de la escuela dominical
 
-que abandonaste porque dijiste que ya haba sido suficiente; cuando vayas de
+que abandonaste porque dijiste que ya había sido suficiente; cuando vayas de
 
-nuevo para predicar en la esquina de la calle no has hecho eso ltimamente-,
+nuevo para predicar en la esquina de la calle –no has hecho eso últimamente-,
 
-cuando comiences a estar activo en el servicio del Seor, entonces te
+cuando comiences a estar activo en el servicio del Seńor, entonces te
 
-encontrars de nuevo con este Ser bendito que est ocupado en los negocios de
+encontrarás de nuevo con este Ser bendito que está ocupado en los negocios de
 
-Su Padre, sin importar que t lo ests o no.
+Su Padre, sin importar que tú lo estés o no.
 
-Una palabra ms que est dirigida a los
+Una palabra más que está dirigida a los
 
-pecadores que estn buscando a Cristo. No voy a decir una palabra que
+pecadores que están buscando a Cristo. No voy a decir una palabra que
 
-descorazone a nadie que est buscando a Jess, pero yo quisiera que
+descorazone a nadie que esté buscando a Jesús, pero yo quisiera que
 
-sobrepasaran la etapa de bsqueda. Tal vez el Espritu Santo les ayude a
+sobrepasaran la etapa de búsqueda. Tal vez el Espíritu Santo les ayude a
 
-hacerlo si les leo la palabra de Cristo. Por qu
+hacerlo si les leo la palabra de Cristo. “żPor qué
 
 ustedes
 
-me buscaban A M? Vamos, vamos! Ciertamente so es
+me buscaban A MÍ?” ˇVamos, vamos! Ciertamente éso es
 
 trastocar las cosas.
 
-Nuestro Seor Jess ha venido al mundo para
+Nuestro Seńor Jesús ha venido al mundo para
 
-buscar y salvar a los perdidos, y no es algo extrao cuando aqullos que estn
+buscar y salvar a los perdidos, y żno es algo extrańo cuando aquéllos que están
 
-perdidos se ponen a buscarlo? Esa es una reversin de todo orden. Por qu
+perdidos se ponen a buscarlo? Esa es una reversión de todo orden. “żPor qué”
 
-pregunta l-
+–pregunta Él-
 
 me
 
 buscabais
 
-ustedes?
+ustedes?”
 
-Ahora, si en esta maana yo
+Ahora, si en esta mańana yo
 
 soy un pobre y perdido pecador, y puedo decir honestamente que estoy buscando a
 
-Cristo, debe de haber alguna equivocacin en algn lugar! Cmo puede ser sto?
+Cristo, ˇdebe de haber alguna equivocación en algún lugar! żCómo puede ser ésto?
 
-Cmo podra descifrarlo? Aqu est una oveja buscando al pastor. Una dracma
+żCómo podría descifrarlo? Aquí está una oveja buscando al pastor. Una dracma
 
-perdida buscando a su dueo. Cmo puede ser sto? Todo se explicar con slo
+perdida buscando a su dueńo. żCómo puede ser ésto? Todo se explicará con sólo
 
-que piensen en sto: primero, que Jesucristo no est lejos. l se encuentra en
+que piensen en ésto: primero, que Jesucristo no está lejos. Él se encuentra en
 
-la casa del Padre. Dnde est la casa del Padre? Vamos, en nuestro
+la casa del Padre. “żDónde está la casa del Padre?” ˇVamos, en nuestro
 
 derredor! La casa del grandioso Padre cubre el mundo entero y todas las
 
-estrellas; l vive en todas partes. l no mora en templos hechos por manos
+estrellas; Él vive en todas partes. Él no mora en templos hechos por manos
 
-humanas, como este Tabernculo, o aquella catedral: el Seor est fuera en los
+humanas, como este Tabernáculo, o aquella catedral: el Seńor está fuera en los
 
 campos, y en las calles; en dondequiera que le
 
 busquen.
 
-No digas, Quin subir al cielo para encontrarlo, o quin
+No digas, żQuién subirá al cielo para encontrarlo, o quién
 
-descender al abismo para hacerlo subir? Cerca de ti est la palabra. Aqu
+descenderá al abismo para hacerlo subir? “Cerca de ti está la palabra”. ˇAquí
 
-est Cristo en medio de nosotros! Hombre, qu ests buscando? Ests buscando
+está Cristo en medio de nosotros! Hombre, żqué estás buscando? żEstás buscando
 
-un espritu de la noche, o un espectro de la oscuridad?
+un espíritu de la noche, o un espectro de la oscuridad?
 
-Un anciano conocido mo, sumido en gran
+Un anciano conocido mío, sumido en gran
 
-turbacin estaba buscando sus anteojos. Ah, querido buen hombre, l no habra
+turbación estaba buscando sus anteojos. Ah, querido buen hombre, él no habría
 
-podido ver si no los llevara puestos, y estaba mirando a travs de sus lentes y
+podido ver si no los llevara puestos, y estaba mirando a través de sus lentes y
 
-ayudndose de ellos para encontrarlos.
+ayudándose de ellos para encontrarlos.
 
-Muchsimas almas estn buscando a Cristo por la
+Muchísimas almas están buscando a Cristo por la
 
-gracia que han recibido de l. Jess est cerca. Crean en l. Recuerden tambin
+gracia que han recibido de Él. Jesús está cerca. Crean en Él. Recuerden también
 
-otra cosa, que Cristo ha de estar ocupado en el negocio de Su Padre. Y, cul
+otra cosa, que Cristo ha de estar ocupado en el negocio de Su Padre. Y, żcuál
 
 es el negocio de Su Padre? Pues bien, es salvar pecadores. Este es el deleite
 
-de Su grandioso Padre. l se alegra al traer a los hijos prdigos a casa.
+de Su grandioso Padre. Él se alegra al traer a los hijos pródigos a casa.
 
-Ests buscando a Jess como si no pudiera ser encontrado, como si fuera
+żEstás buscando a Jesús como si no pudiera ser encontrado, como si fuera
 
-difcil hacer que oiga, y difcil conseguir Su ayuda? Vamos, l est ocupado
+difícil hacer que oiga, y difícil conseguir Su ayuda? Vamos, Él está ocupado
 
-salvando pecadores. Jess se sienta sobre la colina de Sion: l todava recibe
+salvando pecadores. Jesús se sienta sobre la colina de Sion: Él todavía recibe
 
-a pobres pecadores. Ten nimo y no andes buscndole entre tus parientes, ni lo
+a pobres pecadores. Ten ánimo y no andes buscándole entre tus parientes, ni lo
 
-busques con lgrimas amargas y con clamores de desesperacin como si se
+busques con lágrimas amargas y con clamores de desesperación como si se
 
-estuviera ocultando de ti. l no est lejos de ninguno de nosotros. l est
+estuviera ocultando de ti. Él no está lejos de ninguno de nosotros. Él está
 
-ante ti y te pide que confes en l. Mralo a l y s salvo. Lo miras? Entonces
+ante ti y te pide que confíes en Él. Míralo a Él y sé salvo. żLo miras? Entonces
 
-eres salvo. Prosigue gozoso tu camino. Que Dios te bendiga. Amn.
+eres salvo. Prosigue gozoso tu camino. Que Dios te bendiga. Amén.
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 Lucas 2: 25-52.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 22/Abril/2010
 

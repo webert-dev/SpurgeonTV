@@ -1,90 +1,90 @@
 # Sermón 3309 | Sermón 3309
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Cristo: el
 
 Buscador y Salvador de los Perdidos
 
-UN SERMN PUBLICADO EL JUEVES 4 DE JULIO DE
+UN SERMÓN PUBLICADO EL JUEVES 4 DE JULIO DE
 
 1912
 
 Y PREDICADO POR
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Porque el
+“Porque el
 
-Hijo del Hombre vino a buscar y a salvar lo que se haba perdido. Lucas 19:
+Hijo del Hombre vino a buscar y a salvar lo que se había perdido”. Lucas 19:
 
 10.
 
 Hemos considerado hasta
 
-ahora seis de los gloriosos logros de nuestro divino Seor y Salvador, y ya es
+ahora seis de los gloriosos logros de nuestro divino Seńor y Salvador, y ya es
 
-tiempo de concluir la serie. Cmo vamos a coronar el edificio? El buen vino
+tiempo de concluir la serie. żCómo vamos a coronar el edificio? El buen vino
 
-tiene que ser reservado hasta el final pero, dnde lo encontraremos? La seleccin
+tiene que ser reservado hasta el final pero, żdónde lo encontraremos? La selección
 
-es amplia pero entre tantas maravillas cul habremos de escoger? Cul ser la
+es amplia pero entre tantas maravillas żcuál habremos de escoger? żCuál será la
 
-sptima grandiosa obra con respecto a la cual lo enalteceremos? Muchas
+séptima grandiosa obra con respecto a la cual lo enalteceremos? Muchas
 
 maravillas se vinieron a mi mente y cada una era, ciertamente, digna de ocupar
 
-el lugar; pero como no poda tomarlas a todas resolv concluir con una de las
+el lugar; pero como no podía tomarlas a todas resolví concluir con una de las
 
-ms sencillas y ms prcticas.
+más sencillas y más prácticas.
 
 Salvar a
 
 los pecadores
 
-me pareci que era prcticamente la primordial de todas Sus
+me pareció que era prácticamente la primordial de todas Sus
 
-obras, pues fue con este propsito que el resto de Sus logros fueron propuestos
+obras, pues fue con este propósito que el resto de Sus logros fueron propuestos
 
-y realizados. Si no hubiese sido por la salvacin de los hombres, no creo que
+y realizados. Si no hubiese sido por la salvación de los hombres, no creo que
 
-hubiramos conocido alguna vez a nuestro Seor como el Destructor de la muerte
+hubiéramos conocido alguna vez a nuestro Seńor como el Destructor de la muerte
 
-o como el Vencedor de Satans; y, ciertamente, si no hubiera salvado a los
+o como el Vencedor de Satanás; y, ciertamente, si no hubiera salvado a los
 
-perdidos, soy incapaz de percibir qu gloria habra habido en la victoria sobre
+perdidos, soy incapaz de percibir qué gloria habría habido en la victoria sobre
 
-el mundo o en hacer nuevas todas las cosas. La salvacin de los hombres fue el
+el mundo o en hacer nuevas todas las cosas. La salvación de los hombres fue el
 
-trofeo de la carrera de Su vida; para esto se ci Sus lomos y venci a todos
+trofeo de la carrera de Su vida; para esto se cińó Sus lomos y venció a todos
 
-los adversarios. La salvacin de los perdidos fue el gozo puesto delante de
+los adversarios. La salvación de los perdidos fue “el gozo puesto delante de
 
-l, por cuya causa sufri la cruz, menospreciando el oprobio.
+él”, por cuya causa “sufrió la cruz, menospreciando el oprobio”.
 
 Aunque pudiera parecer a
 
-primera vista que al seleccionar nuestro presente tpico hemos descendido de
+primera vista que al seleccionar nuestro presente tópico hemos descendido de
 
-las glorias trascendentes de nuestro Paladn a cosas ms comunes, no es
+las glorias trascendentes de nuestro Paladín a cosas más comunes, no es
 
-realmente as. Las victorias de nuestro Seor que estn escritas en el Libro de
+realmente así. Las victorias de nuestro Seńor que están escritas en el Libro de
 
-las guerras del Seor cuando llev cautiva la cautividad y despoj a la muerte
+las guerras del Seńor cuando llevó cautiva la cautividad y despojó a la muerte
 
-de su aguijn pudieran impactarnos como algo ms asombroso, pero en verdad esta
+de su aguijón pudieran impactarnos como algo más asombroso, pero en verdad esta
 
 victoria es el compendio de Sus grandiosas obras. Es el brote, la flor y la
 
-corona de todo. El Hijo del Hombre vino a buscar y a salvar lo que se haba
+corona de todo. “El Hijo del Hombre vino a buscar y a salvar lo que se había
 
-perdido es una frase tan majestuosa como la que hubiera escrito jams
+perdido” es una frase tan majestuosa como la que hubiera escrito jamás
 
-cualquier profeta, bajo plena inspiracin, para enaltecer al Prncipe de Paz.
+cualquier profeta, bajo plena inspiración, para enaltecer al Príncipe de Paz.
 
 I.
 
@@ -94,65 +94,65 @@ primero,
 
 LA MISERICORDIOSA
 
-MISIN
+MISIÓN
 
-DE NUESTRO SEOR:
+DE NUESTRO SEŃOR:
 
-El
+“El
 
-Hijo del Hombre vino.
+Hijo del Hombre vino”.
 
-Cuando estuvo aqu entre
+Cuando estuvo aquí entre
 
-los hombres, l poda usar el tiempo antepresente, y decir:
+los hombres, Él podía usar el tiempo antepresente, y decir:
+
+“ha
+
+venido”. Eso es una mejoría sobre lo
+
+que los profetas tenían que decir, pues ellos sólo hablaban de Él como el que
+
+vendría, como uno que sería manifestado en la plenitud del tiempo. La promesa
+
+era asombrosa żpero qué diré del cumplimiento real cuando el Verbo hecho carne
+
+pudo decir: “El Hijo del Hombre
 
 ha
 
-venido. Eso es una mejora sobre lo
-
-que los profetas tenan que decir, pues ellos slo hablaban de l como el que
-
-vendra, como uno que sera manifestado en la plenitud del tiempo. La promesa
-
-era asombrosa pero qu dir del cumplimiento real cuando el Verbo hecho carne
-
-pudo decir: El Hijo del Hombre
-
-ha
-
-venido?
+venido”?
 
 Para nosotros, hoy, la venida de Cristo para buscar y salvar a los perdidos es
 
-un hecho cumplido, un asunto sumamente seguro y cierto de la historia. Y cun
+un hecho cumplido, un asunto sumamente seguro y cierto de la historia. ˇY cuán
 
-grande hecho es! Ustedes han pensado a menudo al respecto pero, han hecho que
+grande hecho es! Ustedes han pensado a menudo al respecto pero, żhan hecho que
 
-su mente penetre en el propio corazn del asunto: que Dios ha visitado
+su mente penetre en el propio corazón del asunto: que Dios ha visitado
 
-realmente este mundo en forma humana, que Aquel ante quien los ngeles se
+realmente este mundo en forma humana, que Aquel ante quien los ángeles se
 
-inclinan ha estado aqu realmente, a semejanza nuestra, alimentando a las
+inclinan ha estado aquí realmente, a semejanza nuestra, alimentando a las
 
 hambrientas muchedumbres de Palestina, sanando a los enfermos y resucitando a
 
-sus muertos? Yo no s cul pudiera ser la peculiar jactancia de otros planetas,
+sus muertos? Yo no sé cuál pudiera ser la peculiar jactancia de otros planetas,
 
 pero esta pobre estrella no puede ser superada pues el Creador ha estado en
 
 este mundo. Esta tierra ha sido hollada por los pies de Dios, y sin embargo, no
 
-fue aplastada bajo la poderosa carga porque l se dign vincular Su Deidad con
+fue aplastada bajo la poderosa carga porque Él se dignó vincular Su Deidad con
 
-nuestra humanidad. La encarnacin es un prodigio de prodigios pero no pertenece
+nuestra humanidad. La encarnación es un prodigio de prodigios pero no pertenece
 
-al reino de la imaginacin, y ni siquiera al de la expectacin, pues ha sido
+al reino de la imaginación, y ni siquiera al de la expectación, pues ha sido
 
 contemplada realmente por ojos mortales. Reclamamos la fe de ustedes para un hecho
 
-que realmente ha ocurrido. Si les pidiramos esperar por fe una maravilla que
+que realmente ha ocurrido. Si les pidiéramos esperar por fe una maravilla que
 
-todava ha de suceder, confiaramos que el Espritu de Dios los capacite para
+todavía ha de suceder, confiaríamos que el Espíritu de Dios los capacite para
 
 hacerlo, para que, como Abraham,
 
@@ -160,113 +160,113 @@ pudieran
 
 ver
 
-anticipadamente la bendicin y alegrarse. Pero el milagro de milagros ha sido
+anticipadamente la bendición y alegrarse. Pero el milagro de milagros ha sido
 
-realizado. El Hijo del Altsimo
+realizado. El Hijo del Altísimo
 
 ha estado
 
-aqu.
+aquí.
 
-Desde Beln al Calvario ha recorrido la peregrinacin de la vida.
+Desde Belén al Calvario ha recorrido la peregrinación de la vida.
 
-Treinta aos o ms aquel dosel de cielo pendi sobre la cabeza de
+Treinta ańos o más aquel dosel de cielo pendió sobre la cabeza de
 
 la Deidad
 
-en forma humana. Oh
+en forma humana. ˇOh
 
-portentoso jbilo! Digamos ms bien, oh panal incomparable de perfectas
+portentoso júbilo! Digamos más bien, oh panal incomparable de perfectas
 
-dulzuras, pues mil goces se ocultan ntimamente compactados en la palabra:
+dulzuras, pues mil goces se ocultan íntimamente compactados en la palabra:
 
-Emanuel, Dios con nosotros!
+“Emanuel”, ˇDios con nosotros!
 
-Bienvenidos a nuestro asombroso espectculo!
+“ˇBienvenidos a nuestro asombroso espectáculo!
 
-La eternidad en un lapso!
+ˇLa eternidad en un lapso!
 
-Verano en invierno! Da en la noche!
+ˇVerano en invierno! ˇDía en la noche!
 
-El cielo en la tierra! Y Dios en el hombre!
+ˇEl cielo en la tierra! ˇY Dios en el hombre!
 
-Grandioso Pequeito, cuyo glorioso nacimiento
+Grandioso Pequeńito, cuyo glorioso nacimiento
 
-Iza la tierra al cielo e inclina el cielo a la tierra.
+Iza la tierra al cielo e inclina el cielo a la tierra”.
 
-Nuestro Seor vino en Su
+Nuestro Seńor vino en Su
 
-sagrada misin tan pronto como fue realmente el Hijo del Hombre pues en otro
+sagrada misión tan pronto como fue realmente el Hijo del Hombre pues en otro
 
-tiempo era conocido nicamente como el Hijo de Dios. Otros haban llevado el
+tiempo era conocido únicamente como el Hijo de Dios. Otros habían llevado el
 
-nombre de hijo del hombre, pero ninguno lo mereca tan bien como l.
+nombre de “hijo del hombre”, pero ninguno lo merecía tan bien como Él.
 
 Ezequiel, por razones que no necesitamos detenernos a considerar, es llamado
 
-hijo del hombre un gran nmero de veces. Tal vez, como Juan en el propio da
+“hijo del hombre” un gran número de veces. Tal vez, como Juan en el propio día
 
-de Cristo, Ezequiel tena mucho del espritu y carcter que eran manifiestos en
+de Cristo, Ezequiel tenía mucho del espíritu y carácter que eran manifiestos en
 
-nuestro Seor, y as el nombre era ms que apropiado para l. Ciertamente tena
+nuestro Seńor, y así el nombre era más que apropiado para él. Ciertamente tenía
 
-el ojo de guila de Cristo y la naturaleza espiritual de Cristo, y estaba lleno
+el ojo de águila de Cristo y la naturaleza espiritual de Cristo, y estaba lleno
 
-de luz y conocimiento, y as, como para advertirle que quien es como su Seor
+de luz y conocimiento, y así, como para advertirle que quien es como su Seńor
 
-en excelencia tiene que tener tambin comunin con l en Su humildad, se le
+en excelencia tiene que tener también comunión con Él en Su humildad, se le
 
-recuerda una y otra vez que sigue siendo el hijo del hombre.
+recuerda una y otra vez que sigue siendo “el hijo del hombre”.
 
-Cuando nuestro Seor
+Cuando nuestro Seńor
 
-vino a este mundo, pareci seleccionar ese ttulo de Hijo del hombre para S
+vino a este mundo, pareció seleccionar ese título de “Hijo del hombre” para Sí
 
-para que fuera Su propio nombre especial; y vlidamente as es, pues otros
+para que fuera Su propio nombre especial; y válidamente así es, pues otros
 
 hombres son los hijos de este hombre o de aquel, pero
 
 la Suya
 
-no es una condicin
+no es una condición
 
-humana restringida, es una humanidad de tipo universal. Jess no nace tanto en
+humana restringida, es una humanidad de tipo universal. Jesús no nace tanto en
 
-la raza de los judos como en la familia humana. l no ha de ser reclamado por
+la raza de los judíos como en la familia humana. Él no ha de ser reclamado por
 
-ninguna poca, lugar o nacionalidad. l es el Hijo del Hombre. Y digo que as
+ninguna época, lugar o nacionalidad. Él es “el Hijo del Hombre”. Y digo que así
 
 es como viene al hombre; de manera que, en tanto que Cristo es el Hijo del hombre,
 
-podemos seguir diciendo que viene a buscar y a salvar a los perdidos. Yo s
+podemos seguir diciendo que viene a buscar y a salvar a los perdidos. Yo sé
 
-que, en persona, l ha regresado al cielo; yo s que la nube le ha ocultado de
+que, en persona, Él ha regresado al cielo; yo sé que la nube le ha ocultado de
 
-nuestra vista; pero el hecho de que asumi nuestra humanidad constituy un
+nuestra vista; pero el hecho de que asumió nuestra humanidad constituyó un
 
 descenso para buscar y salvar a los perdidos, y como no ha hecho a un lado esa
 
-humanidad, l est con los hombres todava y contina buscando y salvando; aun
+humanidad, Él está con los hombres todavía y continúa buscando y salvando; aun
 
-hasta este da puede salvar perpetuamente a los que por l se acercan a Dios,
+hasta este día “puede salvar perpetuamente a los que por él se acercan a Dios,
 
-viviendo siempre para interceder por ellos. As que si trato el texto como si
+viviendo siempre para interceder por ellos”. Así que si trato el texto como si
 
-Jess estuviera todava entre nosotros, no me equivoco, pues l est aqu en el
+Jesús estuviera todavía entre nosotros, no me equivoco, pues Él está aquí en el
 
-sentido de buscar el mismo fin, aunque sea ms bien por medio de Su Espritu y
+sentido de buscar el mismo fin, aunque sea más bien por medio de Su Espíritu y
 
-de Sus siervos que por Su propia presencia corporal. l ha dicho: He aqu yo
+de Sus siervos que por Su propia presencia corporal. Él ha dicho: “He aquí yo
 
-estoy con vosotros todos los das, hasta el fin del mundo, y ese dicho est
+estoy con vosotros todos los días, hasta el fin del mundo”, y ese dicho está
 
-vinculado con la agencia que l ha establecido para buscar y salvar a las
+vinculado con la agencia que Él ha establecido para buscar y salvar a las
 
-personas perdidas, convirtiendo a los hombres en discpulos y ensendoles el
+personas perdidas, convirtiendo a los hombres en discípulos y enseńándoles el
 
-camino de la vida. Mientras dure esta dispensacin seguir siendo vlido que el
+camino de la vida. Mientras dure esta dispensación seguirá siendo válido que el
 
-grandioso Salvador y Amigo del hombre ha venido entre nosotros y est buscando
+grandioso Salvador y Amigo del hombre ha venido entre nosotros y está buscando
 
 y salvando a los perdidos.
 
@@ -274,205 +274,205 @@ II.
 
 Ahora,
 
-en segundo lugar, veamos SU PRINCIPAL PROPSITO AL VENIR AQU ABAJO: el Hijo
+en segundo lugar, veamos SU PRINCIPAL PROPÓSITO AL VENIR AQUÍ ABAJO: “el Hijo
 
 del Hombre vino
 
 a buscar y a salvar lo
 
-que se haba perdido.
+que se había perdido”.
 
-La intencin consta de dos puntos, las personas: los
+La intención consta de dos puntos, las personas: los
 
-perdidos, y el propsito: buscarlos y salvarlos.
+perdidos, y el propósito: buscarlos y salvarlos.
 
-El principal propsito
+El principal propósito
 
-de Cristo al venir aqu abajo se relacionaba con
+de Cristo al venir aquí abajo se relacionaba con
 
 los perdidos.
 
 A los varones altivos no les gusta que prediquemos
 
-esta verdad. Fue slo ayer que vi que se alegaba en contra del cristianismo
+esta verdad. Fue sólo ayer que vi que se alegaba en contra del cristianismo
 
 diciendo que desalienta la virtud y favorece a los culpables. Dicen que
 
-nosotros, los ministros, elevamos a los pecadores al lugar ms prominente y que
+nosotros, los ministros, elevamos a los pecadores al lugar más prominente y que
 
-en nuestra predicacin les damos la preferencia sobre las personas que son
+en nuestra predicación les damos la preferencia sobre las personas que son
 
-morales y excelentes. Esta es una benvola denuncia ante la cual, en un mejor
+morales y excelentes. Esta es una benévola denuncia ante la cual, en un mejor
 
 sentido que el pretendido por aquellos que la presentan, nos alegramos de
 
-reconocernos culpables. Muy bien podemos ser excusados si nuestra predicacin
+reconocernos culpables. Muy bien podemos ser excusados si nuestra predicación
 
-busca a los perdidos, pues esas son las personas a quienes nuestro Seor ha
+busca a los perdidos, pues esas son las personas a quienes nuestro Seńor ha
 
-venido a buscar y a salvar. El principal nfasis y propsito de la encarnacin
+venido a buscar y a salvar. El principal énfasis y propósito de la encarnación
 
-de Dios en la persona de Cristo est en los culpables, en los cados, en los
+de Dios en la persona de Cristo está en los culpables, en los caídos, en los
 
-indignos y en los perdidos. Su misin de misericordia no tiene nada que ver con
+indignos y en los perdidos. Su misión de misericordia no tiene nada que ver con
 
-aquellos que son buenos y justos en s mismos, si es que los tales existieran;
+aquellos que son buenos y justos en sí mismos, si es que los tales existieran;
 
 pero tiene que ver con los pecadores, con pecadores reales, culpables no de
 
 pecados nominales sino de pecados reales, y que se han adentrado tanto en el
 
-pecado como para estar perdidos. Por qu le ponen reparos capciosos a esto? Por
+pecado como para estar perdidos. żPor qué le ponen reparos capciosos a esto? żPor
 
-qu habra de venir a buscar y a salvar lo que no est perdido? Debera buscar
+qué habría de venir a buscar y a salvar lo que no está perdido? żDebería buscar
 
-el Pastor a las ovejas que no se han descarriado? Respndanme. Por qu razn
+el Pastor a las ovejas que no se han descarriado? Respóndanme. żPor qué razón
 
-habra de venir para ser Mdico de quienes no estn enfermos? Debera encender
+habría de venir para ser Médico de quienes no están enfermos? żDebería encender
 
-una lmpara y barrer la casa en busca de monedas de plata que no estn
+una lámpara y barrer la casa en busca de monedas de plata que no están
 
-perdidas, sino que se conservan relucientes y sin mcula en su mano? Con qu
+perdidas, sino que se conservan relucientes y sin mácula en su mano? żCon qué
 
-propsito sera eso? Quisieras que pintara al lirio y que dorara al oro
+propósito sería eso? żQuisieras que pintara al lirio y que dorara al oro
 
-refinado? Quisieras convertirlo en un mero entrometido que ofrece una ayuda
+refinado? żQuisieras convertirlo en un mero entrometido que ofrece una ayuda
 
-superflua? Qu tiene que ver la sangre limpiadora de Jess con quienes se
+superflua? żQué tiene que ver la sangre limpiadora de Jesús con quienes se
 
-consideran puros? Es un Salvador una persona innecesaria y fue Su obra un
+consideran puros? żEs un Salvador una persona innecesaria y fue Su obra un
 
-asunto innecesario? Tendra que ser as si estuviera destinada a quienes no la
+asunto innecesario? Tendría que ser así si estuviera destinada a quienes no la
 
 necesitan.
 
-Quines son los que ms
+żQuiénes son los que más
 
-necesitan un Salvador? Respondan eso. No se debera ejercitar la misericordia
+necesitan un Salvador? Respondan eso. żNo se debería ejercitar la misericordia
 
-all donde hay ms necesidad de ella? Este mundo es como un campo de batalla
+allí donde hay más necesidad de ella? Este mundo es como un campo de batalla
 
-que ha sido arrasado por el fiero huracn del conflicto, y los cirujanos han
+que ha sido arrasado por el fiero huracán del conflicto, y los cirujanos han
 
-venido para tratar con aquellos que yacen postrados sobre sus llanuras. A
+venido para tratar con aquellos que yacen postrados sobre sus llanuras. żA
 
-quines deberan ir primero? No deberan atender primero a aquellos que estn ms
+quiénes deberían ir primero? żNo deberían atender primero a aquellos que están más
 
-gravemente heridos y que estn desangrndose casi hasta la muerte? Altercaras
+gravemente heridos y que están desangrándose casi hasta la muerte? żAltercarías
 
-con nosotros si declarramos que los primeros que tienen que ser llevados al
+con nosotros si declaráramos que los primeros que tienen que ser llevados al
 
-hospital son quienes tienen una perentoria necesidad? Te enojaras si
+hospital son quienes tienen una perentoria necesidad? żTe enojarías si
 
-dijramos que el linimento es para los heridos, que las vendas son para los que
+dijéramos que el linimento es para los heridos, que las vendas son para los que
 
 tienen rotas sus extremidades, y que la medicina es para los enfermos? Un
 
-extrao altercado sera ese. Si diera comienzo alguna vez, un loco tendra que
+extrańo altercado sería ese. Si diera comienzo alguna vez, un loco tendría que
 
-comenzarlo pues ningn varn sabio hara esa pregunta. Bendito Cristo de Dios,
+comenzarlo pues ningún varón sabio haría esa pregunta. Bendito Cristo de Dios,
 
-no pondremos reparos porque T vengas tambin en Tu misericordia a quienes te
+no pondremos reparos porque Tú vengas también en Tu misericordia a quienes te
 
-necesitan ms, a los perdidos.
+necesitan más, a los perdidos.
 
-Y quin piensan ustedes
+żY quién piensan ustedes
 
-que le amar ms y que as le agradecer ms si viene a ellos? El altivo fariseo
+que le amará más y que así le agradecerá más si viene a ellos? El altivo fariseo
 
-en su perfeccin de imaginaria santidad, valorar al Cristo que le dice que
+en su perfección de imaginaria santidad, żvalorará al Cristo que le dice que
 
-viene para lavar y quitar su pecado? Gira sobre sus talones con escarnio. Qu
+viene para lavar y quitar su pecado? Gira sobre sus talones con escarnio. żQué
 
 pecados suyos tienen que ser lavados? El moralista autocomplacido que se atreve
 
-a decir: Todo esto lo he guardado desde mi juventud; qu ms me falta?, no es
+a decir: “Todo esto lo he guardado desde mi juventud; żqué más me falta?”, no es
 
-probable que se convierta en un discpulo del Grandioso Maestro cuyas primeras
+probable que se convierta en un discípulo del Grandioso Maestro cuyas primeras
 
-lecciones son, Os es necesario nacer de nuevo, y De cierto os digo, que si
+lecciones son, “Os es necesario nacer de nuevo”, y “De cierto os digo, que si
 
-no os volvis y os hacis como nios, no entraris en el reino de los cielos.
+no os volvéis y os hacéis como nińos, no entraréis en el reino de los cielos”.
 
-El hecho es que no hay parecer en Jess, ni hermosura, para aquellos que tienen
+El hecho es que no hay parecer en Jesús, ni hermosura, para aquellos que tienen
 
-una belleza propia. Cristo recibe el mayor amor all donde perdona ms pecados
+una belleza propia. Cristo recibe el mayor amor allí donde perdona más pecados
 
-y la obediencia ms dulce a Su mandamiento es rendida por aquellos que una vez fueron
+y la obediencia más dulce a Su mandamiento es rendida por aquellos que una vez fueron
 
-los ms desobedientes pero que son llevados gentilmente bajo Su influencia por
+los más desobedientes pero que son llevados gentilmente bajo Su influencia por
 
-la fuerza del amor agradecido. Tus estriles montes de una imaginada santidad
+la fuerza del amor agradecido. Tus estériles montes de una imaginada santidad
 
 no le producen ninguna cosecha, y por tanto, los abandona a su propia
 
-jactancia; pero, mientras tanto, l esparce abundante grano en medio de las
+jactancia; pero, mientras tanto, Él esparce abundante grano en medio de las
 
-tierras bajas donde el terreno est preparado y listo para la semilla. l
+tierras bajas donde el terreno está preparado y listo para la semilla. Él
 
-predica el perdn para aquellos que saben que han pecado y lo confiesan; pero
+predica el perdón para aquellos que saben que han pecado y lo confiesan; pero
 
-aquellos que no tienen ningn pecado no cuentan con ningn Salvador.
+aquellos que no tienen ningún pecado no cuentan con ningún Salvador.
 
-Pero despus de todo,
+Pero después de todo,
 
-queridos amigos, si bien Jess dirigi Su misin de salvacin a los perdidos,
+queridos amigos, si bien Jesús dirigió Su misión de salvación a los perdidos,
 
-a quin ms podra haber venido? Pues, a decir verdad, no hay nadie sino
+ża quién más podría haber venido? Pues, a decir verdad, no hay nadie sino
 
-perdidos sobre la faz de toda esta tierra. El ms altivo fariseo no es sino un
+perdidos sobre la faz de toda esta tierra. El más altivo fariseo no es sino un
 
-pecador y es todava ms pecador por su soberbia; y el moralista que se
+pecador y es todavía más pecador por su soberbia; y el moralista que se
 
 considera tan limpio es inmundo a los ojos de Dios. Aunque se esfuerza por
 
-ocultar las manchas, el justo con justicia propia es un leproso y seguir
+ocultar las manchas, el justo con justicia propia es un leproso y seguirá
 
-sindolo siempre a menos que Jess lo limpie. Es un hecho tres veces bendito
+siéndolo siempre a menos que Jesús lo limpie. Es un hecho tres veces bendito
 
 que Cristo vino para salvar a los perdidos, pues eso somos todos nosotros, y si
 
-no hubiese convertido a los perdidos en el objeto de Su bsqueda y de Su
+no hubiese convertido a los perdidos en el objeto de Su búsqueda y de Su
 
-salvacin, no habra habido ninguna esperanza para nosotros.
+salvación, no habría habido ninguna esperanza para nosotros.
 
-Qu es lo que se
+żQué es lo que se
 
 entiende por
 
-los perdidos?
+“los perdidos”?
 
 Bien,
 
-perdido es una palabra terrible. Necesitara mucho tiempo para explicarla;
+“perdido” es una palabra terrible. Necesitaría mucho tiempo para explicarla;
 
-pero si el Espritu de Dios, como un destello de luz, entrara en tu corazn y
+pero si el Espíritu de Dios, como un destello de luz, entrara en tu corazón y
 
-te mostrara lo que por naturaleza eres, aceptaras esa palabra perdido como
+te mostrara lo que por naturaleza eres, aceptarías esa palabra “perdido” como
 
-descriptiva de tu condicin y la entenderas mejor de lo que te permitiran
+descriptiva de tu condición y la entenderías mejor de lo que te permitirían
 
-entender mil palabras mas. Perdido por la cada; perdido por heredar una
+entender mil palabras mías. Perdido por la caída; perdido por heredar una
 
 naturaleza depravada; perdido por tus propios actos y acciones; perdido por mil
 
-omisiones del deber y perdido por incontables actos de abierta transgresin;
+omisiones del deber y perdido por incontables actos de abierta transgresión;
 
-perdido por hbitos de pecado; perdido por tendencias e inclinaciones que han
+perdido por hábitos de pecado; perdido por tendencias e inclinaciones que han
 
-acumulado fuerzas y te han sumido en una cada vez ms profunda oscuridad e
+acumulado fuerzas y te han sumido en una cada vez más profunda oscuridad e
 
-iniquidad; perdido por inclinaciones que nunca se volveran por s mismas a lo
+iniquidad; perdido por inclinaciones que nunca se volverían por sí mismas a lo
 
-que es recto sino que resueltamente rehsan la misericordia divina y el
+que es recto sino que resueltamente rehúsan la misericordia divina y el
 
 infinito amor. Estamos perdidos obstinada y voluntariamente; perdidos perversa
 
-y completamente; pero an as perdidos espontneamente que es la peor forma de
+y completamente; pero aún así perdidos espontáneamente que es la peor forma de
 
 estar perdidos que pueda haber. Estamos perdidos para Dios, quien ha perdido el
 
-amor de nuestro corazn y ha perdido nuestra confianza y ha perdido nuestra
+amor de nuestro corazón y ha perdido nuestra confianza y ha perdido nuestra
 
 obediencia; perdidos para la iglesia a la que no podemos servir; perdidos para
 
@@ -484,63 +484,63 @@ entrar nunca; perdidos, tan perdidos que a menos que la misericordia
 
 todopoderosa intervenga, seremos arrojados en el pozo del abismo para hundirnos
 
-all para siempre. PERDIDOS! PERDIDOS! PERDIDOS! La simple palabra me
+allí para siempre. “ˇPERDIDOS! ˇPERDIDOS! ˇPERDIDOS!” La simple palabra me
 
-parece que es el taido de campanas de difuntos de un alma impenitente.
+parece que es el tańido de campanas de difuntos de un alma impenitente.
 
-Perdidos! Perdidos! Perdidos!
+“ˇPerdidos! ˇPerdidos! ˇPerdidos!”
 
-Oigo
+ˇOigo
 
-el lgubre taido! Se est celebrando el funeral de un alma! La muerte sin
+el lúgubre tańido! ˇSe está celebrando el funeral de un alma! ˇLa muerte sin
 
 fin le ha acontecido a un ser inmortal! Se eleva como un espantoso lamento
 
-desde mucho ms all de los lmites de la vida y la esperanza, procedente de
+desde mucho más allá de los límites de la vida y la esperanza, procedente de
 
-esas lgubres regiones de muerte y de oscuridad donde moran los espritus que
+esas lúgubres regiones de muerte y de oscuridad donde moran los espíritus que
 
 no quieren que Cristo reine sobre ellos.
 
-Perdidos!
+“ˇPerdidos!
 
-Perdidos! Perdidos!
+ˇPerdidos! ˇPerdidos!”
 
-Cun terrible sera que estos odos oigan jams ese
+ˇCuán terrible sería que estos oídos oigan jamás ese
 
-lgubre sonido! Es preferible que arda un mundo entero a que se pierda un
+lúgubre sonido! ˇEs preferible que arda un mundo entero a que se pierda un
 
-alma! Es preferible que se apague cada estrella y que aquellos cielos se
+alma! ˇEs preferible que se apague cada estrella y que aquellos cielos se
 
 conviertan en una ruina a que una sola alma se pierda!
 
 Ahora bien, es para
 
-almas que pronto estarn en esa condicin -que es la peor de todas- y que ya se
+almas que pronto estarán en esa condición -que es la peor de todas- y que ya se
 
-estn preparando para ella, que Jess vino aqu a buscar y a salvar. Qu gozo
+están preparando para ella, que Jesús vino aquí a buscar y a salvar. ˇQué gozo
 
-es este! En la proporcin en que el dolor era agudo, el gozo es grande. Si las
+es este! En la proporción en que el dolor era agudo, el gozo es grande. Si las
 
-almas pueden ser liberadas de hundirse en un tal estado se trata de una hazaa
+almas pueden ser liberadas de hundirse en un tal estado se trata de una hazańa
 
-digna de Dios mismo. Gloria sea a Su santo nombre!
+digna de Dios mismo. ˇGloria sea a Su santo nombre!
 
 Ahora noten el
 
-propsito: l vino
+propósito: Él “vino
 
 a buscar y a salvar
 
 lo
 
-que se haba perdido. Ah, esta doctrina de que Jesucristo vino a buscar y a
+que se había perdido”. Ah, esta doctrina de que Jesucristo vino a buscar y a
 
 salvar a los pecadores es una verdad que vale la pena predicar. Algunas
 
-personas me dicen que vino para hacer que los hombres sean salvables, para
+personas me dicen que vino para “hacer que los hombres sean salvables”, para
 
-poner a todos los hombres en una condicin tal que sea posible que puedan ser
+poner a todos los hombres en una condición tal que sea posible que puedan ser
 
 salvados. Yo creo que los hombres
 
@@ -550,59 +550,59 @@ ser
 
 salvados, pero no veo un gran portento en ese hecho. No agita mi sangre ni me
 
-incita a danzar de gozo. No creo que haga ni siquiera la ms ligera impresin
+incita a danzar de gozo. No creo que haga ni siquiera la más ligera impresión
 
-en m. Puedo irme a dormir y estoy seguro de que no me despertar en la noche
+en mí. Puedo irme a dormir y estoy seguro de que no me despertaré en la noche
 
 anhelando levantarme de inmediato para predicar unas pobres nuevas como esas de
 
-que Jess vino para hacer que los hombres sean salvables. Yo no me habra
+que Jesús vino para hacer que los hombres sean salvables. Yo no me habría
 
 convertido en un ministro para predicar un evangelio tan mezquino; pero que
 
-nuestro Seor vino para salvar a los hombres, esas s son noticias sustanciales
+nuestro Seńor vino para salvar a los hombres, esas sí son noticias sustanciales
 
 y satisfactorias que superan en mucho a la otra. Hacer a los hombres salvables
 
-es slo un esqueleto, huesos y piel, pero salvarlos es una viva bendicin. Hacer
+es sólo un esqueleto, huesos y piel, pero salvarlos es una viva bendición. Hacer
 
-que los hombres sean salvables es una bendicin minscula, pero salvarlos es
+que los hombres sean salvables es una bendición minúscula, pero salvarlos es
 
 una riqueza indecible.
 
-Dicen tambin que Jess
+Dicen también que Jesús
 
-vino al mundo para lograr que los hombres sean salvados si as lo quieren. Me
+vino al mundo para lograr que los hombres sean salvados si así lo quieren. Me
 
 alegra eso. Es cierto y bueno. Yo creo que toda alma realmente dispuesta puede
 
-ser salvada, s, esa persona ya es en cierta medida salva. Si hubiese una
+ser salvada, sí, esa persona ya es en cierta medida salva. Si hubiese una
 
-sincera voluntad hacia la salvacin entiendan, hacia la verdadera salvacin-
+sincera voluntad hacia la salvación –entiendan, hacia la verdadera salvación-
 
 la voluntad misma indica que un gran cambio ha comenzado en el interior del
 
-hombre, y yo me regocijo porque est escrito, El que quiera, tome del agua de
+hombre, y yo me regocijo porque está escrito, “El que quiera, tome del agua de
 
-la vida gratuitamente. Pero ahora simplemente lean nuestro texto como si
+la vida gratuitamente”. Pero ahora simplemente lean nuestro texto como si
 
-contuviera estas palabras, El Hijo del Hombre vino para que todo aquel que
+contuviera estas palabras, “El Hijo del Hombre vino para que todo aquel que
 
-quiera ser salvado, pueda ser salvado. El sentido es bueno, pero es muy dbil!
+quiera ser salvado, pueda ser salvado”. ˇEl sentido es bueno, pero es muy débil!
 
-Cmo est mezclado el vino con agua! Pero, oh, qu sabor, qu esencia, qu mdula,
+ˇCómo está mezclado el vino con agua! Pero, oh, qué sabor, qué esencia, qué médula,
 
-qu grosura hay en esto: El Hijo del Hombre vino
+qué grosura hay en esto: “El Hijo del Hombre vino
 
-a buscar y a salvar lo que se haba perdido.
+a buscar y a salvar lo que se había perdido”.
 
 Este es el Evangelio,
 
-y el otro no es sino una parte de las buenas nuevas. Adems, lean el texto de
+y el otro no es sino una parte de las buenas nuevas. Además, lean el texto de
 
-otra manera, El Hijo del Hombre vino para ayudar a los hombres a que se salven
+otra manera, “El Hijo del Hombre vino para ayudar a los hombres a que se salven
 
-a s mismos. Esto no servira de nada. Sera algo como ayudar a marchar a los
+a sí mismos”. Esto no serviría de nada. Sería algo como ayudar a marchar a los
 
 hombres que no tienen piernas, o ayudar a los ciegos a juzgar colores o ayudar
 
@@ -612,45 +612,45 @@ hacer absolutamente nada es una miserable burla. No, no podemos permitir que nue
 
 Biblias sean alteradas de esa manera; dejaremos que el texto permanezca tal como
 
-est, en toda su plenitud de gracia.
+está, en toda su plenitud de gracia.
 
 Y ni siquiera es posible
 
-que recortemos el texto para reducirlo a esto, el Hijo del Hombre vino para
+que recortemos el texto para reducirlo a esto, “el Hijo del Hombre vino para
 
-salvar a aquellos que le buscan. Si tuviera ese sentido, yo bendecira a Dios
+salvar a aquellos que le buscan”. Si tuviera ese sentido, yo bendeciría a Dios
 
-por siempre por ello pues aun entonces sera un glorioso texto evanglico. Hay
+por siempre por ello pues aun entonces sería un glorioso texto evangélico. Hay
 
-Escrituras que ensean esa doctrina y es una bendita verdad por la cual hay que
+Escrituras que enseńan esa doctrina y es una bendita verdad por la cual hay que
 
-estar supremamente agradecidos; pero mi texto va mucho ms all, pues dice: El
+estar supremamente agradecidos; pero mi texto va mucho más allá, pues dice: “El
 
-Hijo del Hombre vino a buscar y a salvar lo que se haba perdido. El otro da encontr
+Hijo del Hombre vino a buscar y a salvar lo que se había perdido”. El otro día encontré
 
-una pregunta y una respuesta, Dnde encontr al Salvador la mujer samaritana?
+una pregunta y una respuesta, “żDónde encontró al Salvador la mujer samaritana?
 
-Lo encontr junto al pozo. Yo no objeto ese modo de expresin pero, fjense,
+Lo encontró junto al pozo”. Yo no objeto ese modo de expresión pero, fíjense,
 
-as no es como debera hacerse la pregunta. Ms bien se debera preguntar:
+así no es como debería hacerse la pregunta. Más bien se debería preguntar:
 
-Dnde encontr el Salvador a la mujer?, pues, ciertamente, ella no lo estaba
+“żDónde encontró el Salvador a la mujer?”, pues, ciertamente, ella no lo estaba
 
-buscando; no veo ninguna indicacin de que tuviera una tal idea en su mente.
+buscando; no veo ninguna indicación de que tuviera una tal idea en su mente.
 
-Ella estaba buscando agua del pozo y si hubiera encontrado eso, habra
+Ella estaba buscando agua del pozo y si hubiera encontrado eso, habría
 
 regresado satisfecha a casa. No, los que encuentran son ciertamente los
 
-buscadores; y as tiene que ser que Cristo encontr a la mujer pues l la
+buscadores; y así tiene que ser que Cristo encontró a la mujer pues Él la
 
-estaba buscando. A la vez que bendigo a mi Seor porque l los salvar si le
+estaba buscando. A la vez que bendigo a mi Seńor porque Él los salvará si le
 
-buscan, estoy todava ms agradecido porque hay hombres y mujeres a quienes l
+buscan, estoy todavía más agradecido porque hay hombres y mujeres a quienes Él
 
-buscar y salvar; es ms, nunca fue salvada un alma hasta este momento sin que
+buscará y salvará; es más, nunca fue salvada un alma hasta este momento sin que
 
-Cristo la buscara primero. l es el Autor as como el Consumador de la fe. l
+Cristo la buscara primero. Él es el Autor así como el Consumador de la fe. Él
 
 es el Alfa y
 
@@ -660,15 +660,15 @@ la Omega
 
 el principio y el fin de la obra de gracia. Que Su nombre sea alabado por ello.
 
-El texto debe permanecer como est, y nosotros adoraremos la longitud y la
+El texto debe permanecer como está, y nosotros adoraremos la longitud y la
 
 anchura, la altura y la profundidad del amor que ha hecho que esto sea cierto. La
 
-bsqueda exitosa y la salvacin completa pertenecen al Hijo del hombre: algunos
+búsqueda exitosa y la salvación completa pertenecen al Hijo del hombre: algunos
 
-de nosotros hemos experimentado ambos. Oh, que todos nosotros podamos hacerlo
+de nosotros hemos experimentado ambos. ˇOh, que todos nosotros podamos hacerlo
 
-todava!
+todavía!
 
 III.
 
@@ -676,17 +676,17 @@ Ahora
 
 proseguimos a notar, en tercer lugar, UNA DOBLE DIFICULTAD.
 
-Vemos la misin de
+Vemos la misión de
 
 Cristo, y percibimos de inmediato que ha venido para tratar con personas que
 
-estn perdidas en dos sentidos y en cada uno de esos sentidos se necesita un
+están perdidas en dos sentidos y en cada uno de esos sentidos se necesita un
 
-milagro de gracia para su liberacin. Estn tan perdidas que necesitan la
+milagro de gracia para su liberación. Están tan perdidas que necesitan la
 
-salvacin,
+salvación,
 
-pero tambin estn tan
+pero también están tan
 
 perdidas que necesitan que las
 
@@ -696,135 +696,135 @@ Las
 
 personas pudieran estar tan perdidas en tierra o en el mar como para necesitar ser
 
-salvadas pero sin necesitar que las busquen; pero nosotros estbamos tan
+salvadas pero sin necesitar que las busquen; pero nosotros estábamos tan
 
-perdidos espiritualmente, como para necesitar tanto la salvacin como ser
+perdidos espiritualmente, como para necesitar tanto la salvación como ser
 
-buscados tambin.
+buscados también.
 
-Me enter no hace mucho
+Me enteré no hace mucho
 
 tiempo acerca de un grupo de amigos que fueron a los lagos de Cumberland y se
 
 esforzaron por escalar los Langdale Pikes. Uno de los miembros del grupo
 
-encontr la labor del ascenso demasiado desgastante, as que resolvi que
+encontró la labor del ascenso demasiado desgastante, así que resolvió que
 
-regresara a la pequea posada de la cual haban partido. Siendo en su propia
+regresaría a la pequeńa posada de la cual habían partido. Siendo en su propia
 
-estima un hombre ms sabio que los dems, no tom el sendero sinuoso por el que
+estima un hombre más sabio que los demás, no tomó el sendero sinuoso por el que
 
-haban ascendido. Pens en descender directamente pues poda ver la casa justo
+habían ascendido. Pensó en descender directamente pues podía ver la casa justo
 
-abajo y se imagin que llegara all de inmediato y as poder mostrarles a los
+abajo y se imaginó que llegaría allí de inmediato y así poder mostrarles a los
 
-montaistas que una lnea recta es el camino ms corto. Bien, despus de
+montańistas que una línea recta es el camino más corto. Bien, después de
 
-descender y descender teniendo que saltar por muchos lugares peascosos, se
+descender y descender teniendo que saltar por muchos lugares peńascosos, se
 
-encontr al fin en un saliente desde el cual no poda ni subir ni bajar.
+encontró al fin en un saliente desde el cual no podía ni subir ni bajar.
 
-Despus de muchos vanos intentos se dio cuenta de que era un prisionero. En un
+Después de muchos vanos intentos se dio cuenta de que era un prisionero. En un
 
-estado de un terror desmedido se quit su ropa y la cort en pedazos para hacer
+estado de un terror desmedido se quitó su ropa y la cortó en pedazos para hacer
 
-con ella una cuerda, y amarrando todas las piezas las lanz hacia abajo, pero
+con ella una cuerda, y amarrando todas las piezas las lanzó hacia abajo, pero
 
-descubri que no llegaron a ninguna parte en el grande y aparentemente
+descubrió que no llegaron a ninguna parte en el grande y aparentemente
 
-inconmensurable abismo que abra sus fauces debajo de l. As que comenz a dar
+inconmensurable abismo que abría sus fauces debajo de él. Así que comenzó a dar
 
-voces, pero fuera del eco de su propia voz no lleg ninguna respuesta de los
+voces, pero fuera del eco de su propia voz no llegó ninguna respuesta de los
 
-montes circundantes. Grit durante una media hora pero no hubo ninguna
+montes circundantes. Gritó durante una media hora pero no hubo ninguna
 
-respuesta ni nadie se apareci a la vista. Su horror lo llev al borde de la
+respuesta ni nadie se apareció a la vista. Su horror lo llevó al borde de la
 
-locura. Por fin, para su intenso gozo vio que una figura se mova abajo en la
+locura. Por fin, para su intenso gozo vio que una figura se movía abajo en la
 
-llanura y comenz a gritar de nuevo. Felizmente se trataba de una mujer, la
+llanura y comenzó a gritar de nuevo. Felizmente se trataba de una mujer, la
 
-cual, al or sus voces se detuvo, y cuando l volvi a clamar ella se acerc y
+cual, al oír sus voces se detuvo, y cuando él volvió a clamar ella se acercó y
 
-le grit: Qudate donde ests. No te muevas ni una pulgada. Qudate donde
+le gritó: “Quédate donde estás. No te muevas ni una pulgada. Quédate donde
 
-ests. l estaba perdido, pero ya no necesitaba que se le buscara ms pues algunos
+estás”. Él estaba perdido, pero ya no necesitaba que se le buscara más pues algunos
 
-pastores amigables vieron pronto dnde se encontraba. Todo lo que necesitaba
+pastores amigables vieron pronto dónde se encontraba. Todo lo que necesitaba
 
-era que lo salvaran; y as los montaistas descendieron con una cuerda, como
+era que lo salvaran; y así los montańistas descendieron con una cuerda, como
 
-solan hacerlo cuando rescataban a las ovejas perdidas, y pronto lo pusieron
+solían hacerlo cuando rescataban a las ovejas perdidas, y pronto lo pusieron
 
-fuera de peligro. Estaba perdido, pero no necesitaba que lo buscaran; podan
+fuera de peligro. Estaba perdido, pero no necesitaba que lo buscaran; podían
 
-ver dnde estaba.
+ver dónde estaba.
 
 Hace uno o dos meses
 
-deben de haber notado en los peridicos un aviso por causa de un caballero que
+deben de haber notado en los periódicos un aviso por causa de un caballero que
 
-haba salido de Wastwater haca algunos das para atravesar unas montaas y de
+había salido de Wastwater hacía algunos días para atravesar unas montańas y de
 
-quien ya no se supo nada desde entonces. Sus amigos tenan que
+quien ya no se supo nada desde entonces. Sus amigos tenían que
 
 buscarlo
 
 para poder salvarlo, si es que
 
-viva todava; y hubo algunos que recorrieron monte y pramo para encontrarlo
+vivía todavía; y hubo algunos que recorrieron monte y páramo para encontrarlo
 
 pero fueron incapaces de salvarlo porque no pudieron encontrarlo. Si hubieran
 
-sabido dnde estaba, yo no dudo de que aunque hubiera estado en el ms
+sabido dónde estaba, yo no dudo de que aunque hubiera estado en el más
 
-inminente peligro, los osados montaeses habran arriesgado sus vidas para
+inminente peligro, los osados montańeses habrían arriesgado sus vidas para
 
-rescatarlo; pero, ay, nunca fue encontrado ni salvado: su cadver sin vida fue
+rescatarlo; pero, ay, nunca fue encontrado ni salvado: su cadáver sin vida fue
 
-el nico descubrimiento que fue realizado en definitiva. Esta ltima es la
+el único descubrimiento que fue realizado en definitiva. Esta última es la
 
-verdadera imagen de nuestra deplorable condicin: nosotros estamos perdidos por
+verdadera imagen de nuestra deplorable condición: nosotros estamos perdidos por
 
-naturaleza de manera que nada sino que nos busquen y salven conjuntamente ser
+naturaleza de manera que nada sino que nos busquen y salven conjuntamente será
 
 de alguna de ayuda para nosotros.
 
-Veamos cmo logr
+Veamos cómo logró
 
-nuestro Seor
+nuestro Seńor
 
-la salvacin.
+la salvación.
 
 Ese hecho
 
 ha sido consumado, completamente consumado. Mis queridos amigos, ustedes y yo
 
-estbamos perdidos en el sentido de haber quebrantado la ley de Dios y de haber
+estábamos perdidos en el sentido de haber quebrantado la ley de Dios y de haber
 
-incurrido en Su ira; pero Jess vino y tom el pecado de los hombres sobre S y
+incurrido en Su ira; pero Jesús vino y tomó el pecado de los hombres sobre Sí y
 
-como su Fianza y su Sustituto soport la ira de Dios de manera que Dios puede
+como su Fianza y su Sustituto soportó la ira de Dios de manera que Dios puede
 
 ser justo a partir de entonces, y sin embargo, ser el que justifica al que es
 
-de la fe de Jess. A m me gustara morir hablando de esta bendita doctrina de
+de la fe de Jesús. A mí me gustaría morir hablando de esta bendita doctrina de
 
-la sustitucin, y pretendo, por la gracia divina, vivir proclamndola pues es
+la sustitución, y pretendo, por la gracia divina, vivir proclamándola pues es
 
-la piedra angular del Evangelio. Jesucristo tom sobre S literalmente la
+la piedra angular del Evangelio. Jesucristo tomó sobre Sí literalmente la
 
-transgresin y la iniquidad de Su pueblo, y fue hecho maldicin por ellos en
+transgresión y la iniquidad de Su pueblo, y fue hecho maldición por ellos en
 
-vista de que haban cado bajo la ira de Dios; y ahora toda alma que cree en
+vista de que habían caído bajo la ira de Dios; y ahora toda alma que cree en
 
-Jess es salvada porque Jess ha quitado el castigo y la maldicin por causa
+Jesús es salvada porque Jesús ha quitado el castigo y la maldición por causa
 
-del pecado. Regocijmonos en esto.
+del pecado. Regocijémonos en esto.
 
 Cristo nos ha salvado
 
-tambin del poder de Satans.
+también del poder de Satanás.
 
 La
 
@@ -832,29 +832,29 @@ Simiente
 
 de la mujer ha herido la cabeza de la serpiente de
 
-manera que el poder de Satans ha sido quebrantado. Por medio de Su omnipotente
+manera que el poder de Satanás ha sido quebrantado. Por medio de Su omnipotente
 
-poder Jess nos ha liberado del horrible yugo del infierno venciendo al prncipe
+poder Jesús nos ha liberado del horrible yugo del infierno venciendo al príncipe
 
-de las tinieblas, y adems nos ha salvado del poder de la muerte, de manera que
+de las tinieblas, y además nos ha salvado del poder de la muerte, de manera que
 
-para los creyentes morir no ser la muerte. Cristo nos ha salvado del pecado y
+para los creyentes morir no será la muerte. Cristo nos ha salvado del pecado y
 
-de todas sus consecuencias por medio de Su muerte y resurreccin sumamente
+de todas sus consecuencias por medio de Su muerte y resurrección sumamente
 
 preciosas.
 
-Mira a Dios descendiendo en un cuerpo humano,
+“Mira a Dios descendiendo en un cuerpo humano,
 
 El Ofendido sufriendo en nombre del ofensor:
 
-Mira todos tus delitos imputados a l,
+Mira todos tus delitos imputados a Él,
 
-Y toda Su justicia transferida a ti.
+Y toda Su justicia transferida a ti”.
 
 La obra salvadora de nuestro
 
-Seor est consumada en ese sentido, pero l contina siempre en este mundo Su
+Seńor está consumada en ese sentido, pero Él continúa siempre en este mundo Su
 
 obra de
 
@@ -864,219 +864,219 @@ y quiero que piensen
 
 en ello.
 
-l puede salvarnos, bendito
+Él puede salvarnos, bendito
 
-sea Su nombre. Ya no tiene que hacer nada ms para salvar a cualquier alma que
+sea Su nombre. Ya no tiene que hacer nada más para salvar a cualquier alma que
 
-confe en l. Pero nosotros nos hemos descarriado mucho y estamos escondidos en
+confíe en Él. Pero nosotros nos hemos descarriado mucho y estamos escondidos en
 
-los parajes salvajes del pas lejano. Estamos muy hambrientos y aunque hay
+los parajes salvajes del país lejano. Estamos muy hambrientos y aunque hay
 
-abundancia de pan, de qu nos sirve mientras estamos perdidos para el hogar en
+abundancia de pan, żde qué nos sirve mientras estamos perdidos para el hogar en
 
-el que es distribuido tan liberalmente? Estamos muy andrajosos; all est la
+el que es distribuido tan liberalmente? Estamos muy andrajosos; allá está la
 
-mejor tnica y est lista para que la portemos nosotros; pero de qu nos sirve
+mejor túnica y está lista para que la portemos nosotros; pero żde qué nos sirve
 
-mientras estemos tan lejos? Hay msica y hay danzas para alegrarnos y para
+mientras estemos tan lejos? Hay música y hay danzas para alegrarnos y para
 
-animarnos, pero de qu nos sirven mientras permanezcamos entre los cerdos? Entonces,
+animarnos, pero żde qué nos sirven mientras permanezcamos entre los cerdos? Entonces,
 
-all est la gran dificultad. Nuestro Seor tiene que encontrarnos y seguir
+allí está la gran dificultad. Nuestro Seńor tiene que encontrarnos y seguir
 
-nuestros descarros y, tratndonos como ovejas perdidas, tiene que cargarnos
+nuestros descarríos y, tratándonos como ovejas perdidas, tiene que cargarnos
 
-sobre Sus hombros para llevarnos de regreso regocijndose.
+sobre Sus hombros para llevarnos de regreso regocijándose.
 
 Muchos necesitan ser
 
-buscados porque estn perdidos en malas compaas. Los compaeros malvados se
+buscados porque están perdidos en malas compańías. Los compańeros malvados se
 
 agolpan en torno a los hombres, y los mantienen alejados de la escucha del
 
 Evangelio por el cual los hombres son salvados. No hay otro lugar para estar
 
-perdidos como en una gran ciudad. Cuando un hombre quiere escapar de la polica,
+perdidos como en una gran ciudad. Cuando un hombre quiere escapar de la policía,
 
-no corre a una pequea aldea sino que se oculta en una ciudad densamente
+no corre a una pequeńa aldea sino que se oculta en una ciudad densamente
 
-poblada. As esta ciudad de Londres tiene muchos escondrijos donde los
+poblada. Así esta ciudad de Londres tiene muchos escondrijos donde los
 
 pecadores se apartan del camino del Evangelio. Se pierden en la gran
 
 muchedumbre, y son mantenidos cautivos por las costumbres esclavizantes de la
 
-mala sociedad en la que son absorbidos. Si ceden por un momento, algn mundano
+mala sociedad en la que son absorbidos. Si ceden por un momento, algún mundano
 
-los toma de la manga y les dice: Divirtmonos mientras podamos. Por qu ests
+los toma de la manga y les dice: “Divirtámonos mientras podamos. żPor qué estás
 
-tan triste? Satans pone cuidadosamente un viga sobre sus siervos ms jvenes
+tan triste?” Satanás pone cuidadosamente un vigía sobre sus siervos más jóvenes
 
 para prevenir que escapen de sus manos. Esos pelotones laboran denodadamente para
 
-impedir que el hombre oiga las buenas nuevas de salvacin y se convierta. Por
+impedir que el hombre oiga las buenas nuevas de salvación y se convierta. Por
 
 tanto, los pecadores necesitan ser buscados en medio de la sociedad en la cual
 
-estn inmersos; necesitan ser buscados tanto como las perlas del Golfo de
+están inmersos; necesitan ser buscados tanto como las perlas del Golfo de
 
 Arabia.
 
-El Seor Jesucristo, al
+El Seńor Jesucristo, al
 
 buscar a los hombres, tiene que tratar con prejuicios profundamente arraigados.
 
-Muchos rehsan or el Evangelio; estn dispuestos a viajar muchas millas para
+Muchos rehúsan oír el Evangelio; están dispuestos a viajar muchas millas para
 
 escapar de su mensaje de advertencia. Algunos son demasiado sabios o demasiado
 
-ricos para que se les predique el Evangelio. Piedad para los pobres ricos! El
+ricos para que se les predique el Evangelio. ˇPiedad para los pobres ricos! El
 
-hombre pobre tiene muchos misioneros y evangelistas que le estn buscando, pero
+hombre pobre tiene muchos misioneros y evangelistas que le están buscando, pero
 
-quin va tras los grandes? Algunos vienen del Oriente para adorar, pero quin
+żquién va tras los grandes? Algunos vienen del Oriente para adorar, pero żquién
 
-viene del Occidente? Muchos ms encontrarn la va al cielo desde los barrios
+viene del Occidente? Muchos más encontrarán la vía al cielo desde los barrios
 
-bajos, ms de los que jams saldrn de las grandes mansiones y palacios. Jess
+bajos, más de los que jamás saldrán de las grandes mansiones y palacios. Jesús
 
 debe buscar a Sus elegidos entre los ricos bajo grandes desventajas, pero
 
 bendito sea Su nombre porque en efecto los busca.
 
-Vean cmo los vicios y
+Vean cómo los vicios y
 
-los depravados hbitos aprisionan a la masa de las clases ms pobres. Qu
+los depravados hábitos aprisionan a la masa de las clases más pobres. ˇQué
 
-bsqueda es necesaria entre los obreros pues muchos de ellos estn embrutecidos
+búsqueda es necesaria entre los obreros pues muchos de ellos están embrutecidos
 
-por la borrachera! Miren a una gran parte de Londres en el da del Seor; qu
+por la borrachera! Miren a una gran parte de Londres en el día del Seńor; żqué
 
-ha estado haciendo la poblacin obrera? Han estado leyendo el peridico
+ha estado haciendo la población obrera? Han estado leyendo el periódico
 
 dominical y holgazaneando en casa en mangas de camisa, y esperando junto a los
 
-postes de las puertas, no de la sabidura, sino de la cantina. Han tenido mucha
+postes de las puertas, no de la sabiduría, sino de la cantina. Han tenido mucha
 
 sed, pero no de justicia. Baco sigue siendo el dios de esta ciudad, y
 
 multitudes se encuentran perdidas entre los barriles de cerveza y los toneles
 
-de licor. Los hombres desperdician las benditas horas del da domingo en tales
+de licor. Los hombres desperdician las benditas horas del día domingo en tales
 
-menesteres. Cmo habrn de ser buscados? Sin embargo, el Seor Jess lo est
+menesteres. żCómo habrán de ser buscados? Sin embargo, el Seńor Jesús lo está
 
-haciendo por medio de Su Santo Espritu.
+haciendo por medio de Su Santo Espíritu.
 
 Ay, por culpa de sus
 
-malos caminos los odos de los hombres se han cerrado, y sus ojos han sido
+malos caminos los oídos de los hombres se han cerrado, y sus ojos han sido
 
-cegados y sus corazones estn endurecidos de tal manera que los mensajeros de
+cegados y sus corazones están endurecidos de tal manera que los mensajeros de
 
-la misericordia tienen necesidad de gran paciencia. Salvar a los hombres sera
+la misericordia tienen necesidad de gran paciencia. Salvar a los hombres sería
 
-una obra fcil si se pudiera disponerlos a recibir el Evangelio, pero ni
+una obra fácil si se pudiera disponerlos a recibir el Evangelio, pero ni
 
-siquiera quieren orlo. Cuando los renes en un domingo bajo el sonido de un
+siquiera quieren oírlo. Cuando los reúnes en un domingo bajo el sonido de un
 
-ministerio fiel, cmo luchan contra l! Necesitan ser buscados cincuenta
+ministerio fiel, ˇcómo luchan contra él! Necesitan ser buscados cincuenta
 
 veces. Los llevas directamente a la luz y la proyectas en sus ojos, pero ellos
 
-voluntaria y deliberadamente le cierran sus prpados. Pones delante de ellos la
+voluntaria y deliberadamente le cierran sus párpados. Pones delante de ellos la
 
-vida y la muerte, y argumentas con ellos hasta las lgrimas para que se aferren
+vida y la muerte, y argumentas con ellos hasta las lágrimas para que se aferren
 
-a la vida eterna, pero ellos escogen sus propios engaos. Tienen que ser
+a la vida eterna, pero ellos escogen sus propios engańos. Tienen que ser
 
-buscados tan prolongadamente y tan pacientemente que esta obra de bsqueda
+buscados tan prolongadamente y tan pacientemente que esta obra de búsqueda
 
-revela tanto el clemente corazn de Jess como lo revel la obra salvadora que
+revela tanto el clemente corazón de Jesús como lo reveló la obra salvadora que
 
-realiz en el sangriento madero.
+realizó en el sangriento madero.
 
-Noten cmo l realiza
+Noten cómo Él realiza
 
-diariamente Su bsqueda de amor. Cada da, amados, Jesucristo est buscando
+diariamente Su búsqueda de amor. Cada día, amados, Jesucristo está buscando
 
-los odos
+los oídos
 
-de los hombres. Podran
+de los hombres. żPodrían
 
-creerlo? Tiene que movilizarse con asombrosa sabidura para por lo menos
+creerlo? Tiene que movilizarse con asombrosa sabiduría para por lo menos
 
 conseguir una audiencia. Ellos no quieren conocer el mensaje de amor de su
 
-Dios. De tal manera am Dios al mundo, ellos saben todo acerca de eso y no quieren
+Dios. “De tal manera amó Dios al mundo”, ellos saben todo acerca de eso y no quieren
 
-or ms. Hay un sacrificio infinito por el pecado; giran sobre sus talones
+oír más. Hay un sacrificio infinito por el pecado; giran sobre sus talones
 
-frente a esas noticias rancias. Preferiran leer un artculo en una revista
+frente a esas noticias rancias. Preferirían leer un artículo en una revista
 
-infiel o un prrafo en las
+infiel o un párrafo en las
 
 Noticias
 
 Policiales.
 
-No quieren saber nada ms de asuntos espirituales. El Seor
+No quieren saber nada más de asuntos espirituales. El Seńor
 
-Jess, para alcanzar sus odos, clama en alta voz por medio de muchas voces
+Jesús, para alcanzar sus oídos, clama en alta voz por medio de muchas voces
 
-denodadas. Gracias a Dios l tiene ministros que todava viven que tienen la
+denodadas. Gracias a Dios Él tiene ministros que todavía viven que tienen la
 
-intencin de ser escuchados y que no se detendrn por sus rechazos. Ni siquiera
+intención de ser escuchados y que no se detendrán por sus rechazos. Ni siquiera
 
-el estrpito de este bullicioso mundo puede ahogar su testimonio. Grita a voz
+el estrépito de este bullicioso mundo puede ahogar su testimonio. Grita a voz
 
-en cuello, hermano mo; grita a voz en cuello y no escatimes, pues, sin
+en cuello, hermano mío; grita a voz en cuello y no escatimes, pues, sin
 
-importar lo que grites, no gritars demasiado fuertemente, pues el hombre no
+importar lo que grites, no gritarás demasiado fuertemente, pues el hombre no
 
-oir si puede evitarlo. Nuestro Seor, para ganar los odos de los hombres,
+oirá si puede evitarlo. Nuestro Seńor, para ganar los oídos de los hombres,
 
-tiene que usar una variedad de voces, musicales o speras, lo que Su sabidura
+tiene que usar una variedad de voces, musicales o ásperas, lo que Su sabiduría
 
-juzgue lo ms conveniente. Algunas veces gana una audiencia gracias a una
+juzgue lo más conveniente. Algunas veces gana una audiencia gracias a una
 
-extraa voz cuya rareza atrae la atencin. l encontrar a los hombres cuando
+extrańa voz cuya rareza atrae la atención. Él encontrará a los hombres cuando
 
-tiene la intencin de salvarlos.
+tiene la intención de salvarlos.
 
-Fue una extraa voz, ciertamente
+Fue una extrańa voz, ciertamente
 
-la ms extraa de las que me haya enterado jams, la que lleg hace muy poco
+la más extrańa de las que me haya enterado jamás, la que llegó hace muy poco
 
-tiempo en un pueblo italiano a uno de los elegidos de Dios all. Era tan
+tiempo en un pueblo italiano a uno de los elegidos de Dios allá. Era tan
 
-depravado que realmente cay en la adoracin del diablo ms bien que de Dios.
+depravado que realmente cayó en la adoración del diablo más bien que de Dios.
 
-Casualmente sucedi un da que un rumor recorri la ciudad anunciando que un protestante
+Casualmente sucedió un día que un rumor recorrió la ciudad anunciando que un protestante
 
-iba a llegar all para predicar. El sacerdote, alarmado por su religin, le
+iba a llegar allí para predicar. El sacerdote, alarmado por su religión, le
 
 dijo a la gente desde el altar que los protestantes adoraban al diablo y los
 
-exhort a que no se acercaran a la sala de reunin. La noticia, como pueden
+exhortó a que no se acercaran a la sala de reunión. La noticia, como pueden
 
-juzgar, no provoc ningn horror en la mente del adorador del diablo. S
+juzgar, no provocó ningún horror en la mente del adorador del diablo. “Sí”
 
-pens- entonces voy a reunirme con hermanos, as que fue a or a nuestro
+–pensó- “entonces voy a reunirme con hermanos”, así que fue a oír a nuestro
 
-amado misionero que ahora est trabajando en Roma. Ninguna otra cosa hubiera
+amado misionero que ahora está trabajando en Roma. Ninguna otra cosa hubiera
 
-atrado al pobre desventurado a or la buena palabra, sino esa mentira del
+atraído al pobre desventurado a oír la buena palabra, sino esa mentira del
 
-sacerdote que fue orientada para ese fin. Asisti y oy, no acerca del diablo
+sacerdote que fue orientada para ese fin. Asistió y oyó, no acerca del diablo
 
 sino acerca del Vencedor del diablo, y antes de que pasara mucho tiempo fue
 
-encontrado a los pies de Jess, siendo un pecador salvado.
+encontrado a los pies de Jesús, siendo un pecador salvado.
 
 Cuando Sus ministros han
 
-fallado, yo he sabido que mi Seor saca una flecha de Su aljaba y le adhiere un
+fallado, yo he sabido que mi Seńor saca una flecha de Su aljaba y le adhiere un
 
 mensaje y la coloca en su arco y la dispara directamente al pecho de un hombre
 
@@ -1084,99 +1084,99 @@ hasta herirlo; y una vez herido y mientras yace gimiendo en su lecho, el
 
 mensaje es examinado, y sentido y aceptado. Quiero decir que muchas personas
 
-han sido llevadas en la enfermedad a escuchar el mensaje de salvacin. A menudo
+han sido llevadas en la enfermedad a escuchar el mensaje de salvación. A menudo
 
-las prdidas y las cruces han llevado a los hombres a los pies de Jess. Jess
+las pérdidas y las cruces han llevado a los hombres a los pies de Jesús. Jesús
 
-los busca de esa manera. Cuando Absaln no poda obtener una entrevista con
+los busca de esa manera. Cuando Absalón no podía obtener una entrevista con
 
-Joab, dijo: Mirad, el campo de Joab est junto al mo, y tiene all cebada; id
+Joab, dijo: “Mirad, el campo de Joab está junto al mío, y tiene allí cebada; id
 
-y prendedle fuego. Entonces se levant Joab y vino a casa de Absaln, y le
+y prendedle fuego”. Entonces se levantó Joab y vino a casa de Absalón, y le
 
-dijo: Por qu han prendido fuego tus siervos a mi campo? El Seor enva
+dijo: “żPor qué han prendido fuego tus siervos a mi campo?” El Seńor envía
 
-algunas veces a los hombres prdidas en sus propiedades porque de otra forma no
+algunas veces a los hombres pérdidas en sus propiedades porque de otra forma no
 
-quieren orle, y al final sus odos son alcanzados. A quien l busca lo
+quieren oírle, y al final sus oídos son alcanzados. A quien Él busca lo
 
 encuentra a su debido tiempo.
 
-Bien, despus de que mi
+Bien, después de que mi
 
-Seor ha buscado los odos de los hombres, a continuacin busca sus
+Seńor ha buscado los oídos de los hombres, a continuación busca sus
 
 deseos.
 
-l har que anhelen un Salvador
+Él hará que anhelen un Salvador
 
-y esto no es fcil de lograr; pero l tiene una manera de mostrarles a los
+y esto no es fácil de lograr; pero Él tiene una manera de mostrarles a los
 
 hombres sus pecados, y entonces ellos anhelan la misericordia. En otros
 
-momentos l les muestra el grande gozo de la vida cristiana, y entonces ellos
+momentos Él les muestra el grande gozo de la vida cristiana, y entonces ellos
 
-desean entrar en un deleite semejante. Yo oro pidiendo que, en esta hora, l
+desean entrar en un deleite semejante. Yo oro pidiendo que, en esta hora, Él
 
-conduzca a algunos de ustedes a considerar el peligro en el que estn mientras
+conduzca a algunos de ustedes a considerar el peligro en el que están mientras
 
-son todava inconversos, para que as puedan comenzar a desear a Cristo y de
+son todavía inconversos, para que así puedan comenzar a desear a Cristo y de
 
-esta manera puedan ser buscados y encontrados por l.
+esta manera puedan ser buscados y encontrados por Él.
 
 Luego busca su
 
 fe.
 
-l busca para que vengan y confen
+Él busca para que vengan y confíen
 
-en l y tiene formas de conducirlos a ello pues les muestra lo apropiado de Su
+en Él y tiene formas de conducirlos a ello pues les muestra lo apropiado de Su
 
-salvacin y su plenitud y su gratuidad; y cuando se ha mostrado como el
+salvación y su plenitud y su gratuidad; y cuando se ha mostrado como el
 
 Salvador de los pecadores, y como el Salvador que ellos necesitan, entonces
 
-vienen y ponen su confianza en l. Entonces los ha encontrado y los ha salvado.
+vienen y ponen su confianza en Él. Entonces los ha encontrado y los ha salvado.
 
-l busca sus
+Él busca sus
 
 corazones,
 
 pues lo que ha perdido son
 
-sus corazones. Y, oh, cun dulcemente, por medio del Espritu Santo, gana los
+sus corazones. Y, ˇoh, cuán dulcemente, por medio del Espíritu Santo, gana los
 
-afectos de los hombres y los sostiene firmemente! No olvidar nunca cmo gan
+afectos de los hombres y los sostiene firmemente! No olvidaré nunca cómo ganó
 
-el mo; cmo gan primero mi odo, y luego mis deseos, de manera que yo deseaba
+el mío; cómo ganó primero mi oído, y luego mis deseos, de manera que yo deseaba
 
-tenerlo como mi Seor; y luego me ense a confiar en l, y cuando hube
+tenerlo como mi Seńor; y luego me enseńó a confiar en Él, y cuando hube
 
-confiado en l y hube descubierto que era salvo, entonces le am y le sigo
+confiado en Él y hube descubierto que era salvo, entonces le amé y le sigo
 
-amando. Entonces, querido oyente, si Jesucristo te encuentra, te convertirs en
+amando. Entonces, querido oyente, si Jesucristo te encuentra, te convertirás en
 
-Su amante seguidor para siempre. Yo he estado orando para que l lleve este
+Su amante seguidor para siempre. Yo he estado orando para que Él lleve este
 
-mensaje ante la atencin de aquellos a quienes tiene la intencin de bendecir.
+mensaje ante la atención de aquellos a quienes tiene la intención de bendecir.
 
 Le he pedido que me permita sembrar en buena tierra. Yo espero que entre aquellos
 
-que lean estas pginas haya muchos a quienes el Seor Jess ha redimido
+que lean estas páginas haya muchos a quienes el Seńor Jesús ha redimido
 
-especialmente con Su sangre sumamente preciosa, y confo que se aparezca a
+especialmente con Su sangre sumamente preciosa, y confío que se aparezca a
 
-ellos de inmediato y que le diga a cada uno de ellos: Con amor eterno te he
+ellos de inmediato y que le diga a cada uno de ellos: “Con amor eterno te he
 
-amado: por tanto, te prolongu mi misericordia. Que el Espritu eterno abra
+amado: por tanto, te prolongué mi misericordia”. ˇQue el Espíritu eterno abra
 
-sus odos para or el silbo apacible y delicado del amor! Que sean conducidos
+sus oídos para oír el silbo apacible y delicado del amor! ˇQue sean conducidos
 
-a entregarle al Seor, por la gracia omnipotente, el alegre consentimiento de
+a entregarle al Seńor, por la gracia omnipotente, el alegre consentimiento de
 
-sus voluntades sometidas, y a aceptar esa gloriosa gracia que los llevar a
+sus voluntades sometidas, y a aceptar esa gloriosa gracia que los llevará a
 
-alabar en el cielo al Salvador que busca y salva! Amn.
+alabar en el cielo al Salvador que busca y salva! Amén.
 
 Nota
 
@@ -1186,25 +1186,25 @@ Los otros seis sermones
 
 a los que hace referencia el pastor Spurgeon son los siguientes:
 
-No. 1325  Cristo: el
+No. 1325 – Cristo: el
 
 Fin de
 
 la Ley
 
-No. 1326  Cristo: el
+No. 1326 – Cristo: el
 
-Vencedor de Satans
+Vencedor de Satanás
 
-No. 1327  Cristo: el
+No. 1327 – Cristo: el
 
 Vencedor del Mundo
 
-No. 1328  Cristo: el que
+No. 1328 – Cristo: el que
 
 Hace Nuevas Todas las Cosas
 
-No. 1329  Cristo: el
+No. 1329 – Cristo: el
 
 Destructor de
 
@@ -1212,15 +1212,15 @@ la Muerte
 
 No.
 
-273
+273 –
 
 Cristo Triunfante: el Despojador de Principados y Potestades
 
 Todos ellos se
 
-encuentran recopilados en Temas bajo el ttulo: Los Gloriosos Logros de Cristo.
+encuentran recopilados en Temas bajo el título: Los Gloriosos Logros de Cristo.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 31/Julio/2014
 

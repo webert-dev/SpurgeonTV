@@ -1,110 +1,110 @@
 # Sermón 587 | Sermón 587
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-La extraa seleccin de Dios
+La extrańa selección de Dios
 
 NO. 587
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 28 DE AGOSTO DE 1864
+MAŃANA DEL DOMINGO 28 DE AGOSTO DE 1864
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES
 
-Pues mirad, hermanos, vuestra vocacin,
+“Pues mirad, hermanos, vuestra vocación,
 
-que no sois muchos sabios segn la carne, ni muchos poderosos, ni muchos
+que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos
 
-nobles; sino que lo necio del mundo escogi Dios, para avergonzar a los sabios;
+nobles; sino que lo necio del mundo escogió Dios, para avergonzar a los sabios;
 
 y lo
 
-dbil
+débil
 
-del mundo escogi Dios, para avergonzar a
+del mundo escogió Dios, para avergonzar a
 
-lo fuerte; y lo vil del mundo y lo menospreciado escogi Dios, y lo que no es,
+lo fuerte; y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es,
 
-para deshacer lo que es, a fin de que nadie se jacte en su presencia. 1
+para deshacer lo que es, a fin de que nadie se jacte en su presencia”. 1
 
 Corintios 1: 26-29.
 
-El apstol Pablo es guiado a confesar que Cristo
+El apóstol Pablo es guiado a confesar que Cristo
 
-Jess fue menospreciado tanto por los judos como por los gentiles. Confes que
+Jesús fue menospreciado tanto por los judíos como por los gentiles. Confesó que
 
-esto no era ninguna causa de tropiezo para l, pues lo que otros consideran una
+esto no era ninguna causa de tropiezo para él, pues lo que otros consideran una
 
-necedad, era tenido por l como sabidura, y se regocijaba porque lo insensato
+necedad, era tenido por él como sabiduría, y se regocijaba porque lo insensato
 
-de Dios es ms sabio que los hombres, y lo dbil de Dios es ms fuerte que los
+de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los
 
 hombres. Sin embargo, para que nadie en la iglesia de Corinto tropezara por el
 
-hecho de que Cristo fue menospreciado, el apstol procede a mostrar que esta es
+hecho de que Cristo fue menospreciado, el apóstol procede a mostrar que esta es
 
 la manera general de proceder de Dios: selecciona los instrumentos que los
 
-hombres desprecian porque as recibe toda la gloria cuando alcanza Su propsito
+hombres desprecian porque así recibe toda la gloria cuando alcanza Su propósito
 
 por su medio; y como prueba de ello, Pablo los remite al ejemplo de su propia
 
-eleccin y llamamiento: Pues mirad, hermanos, vuestra vocacin, -les dice-
+elección y llamamiento: “Pues mirad, hermanos, vuestra vocación”, -les dice-
 
-que no sois muchos sabios segn la carne, ni muchos poderosos, ni muchos
+“que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos
 
-nobles, sino, ustedes, que son pobres, iletrados, despreciados, ustedes, han
+nobles”, sino, ustedes, que son pobres, iletrados, despreciados, ustedes, han
 
-sido llamados exactamente por la misma razn: para que Dios sea todo en todo y nadie
+sido llamados exactamente por la misma razón: para que Dios sea todo en todo y nadie
 
 se jacte en Su presencia.
 
 Es claro para todo el que observe la Escritura o
 
-los hechos, que Dios nunca tuvo la intencin de hacer que Su Evangelio se
+los hechos, que Dios nunca tuvo la intención de hacer que Su Evangelio se
 
-ajustara a la moda; que lo ltimo que hubiera pensado sera seleccionar a
+ajustara a la moda; que lo último que hubiera pensado sería seleccionar a
 
-la lite
+la élite
 
 de la humanidad y acumular
 
 dignidad para Su verdad, partiendo de las galas llamativas del rango y de la
 
-posicin. Por el contrario, Dios ha retado a todo el orgullo de la condicin
+posición. Por el contrario, Dios ha retado a todo el orgullo de la condición
 
 humana; ha arrojado cieno al rostro de toda la excelencia humana, y con el
 
 hacha de combate de Su fuerza, ha partido en dos el escudo de armas de la
 
-gloria del hombre. A ruina, a ruina, a ruina lo reducir, parecera ser el
+gloria del hombre. “A ruina, a ruina, a ruina lo reduciré”, parecería ser el
 
-propio lema del Seor de los Ejrcitos, y lo ser hasta que venga aquel cuyo
+propio lema del Seńor de los Ejércitos, y lo será “hasta que venga aquel cuyo
 
-es el derecho, y yo se lo entregar, porque Suyo es el reino, y el poder, y la
+es el derecho, y yo se lo entregaré”, porque Suyo es el reino, y el poder, y la
 
 gloria, por todos los siglos.
 
-No hay doctrina ms humillante, en verdad, que la
+No hay doctrina más humillante, en verdad, que la
 
-doctrina de la eleccin, y es por esta razn que el apstol Pablo hace
+doctrina de la elección, y es por esta razón que el apóstol Pablo hace
 
-referencia a ella: para que los discpulos de Corinto estuvieran muy contentos
+referencia a ella: para que los discípulos de Corinto estuvieran muy contentos
 
 de seguir al humilde y menospreciado Salvador que lleva Su cruz, porque la
 
-eleccin de gracia se compone de los humildes y despreciados quienes, por esa
+elección de gracia se compone de los humildes y despreciados quienes, por esa
 
-misma razn, no pueden sentirse avergonzados de seguir a Uno que, como ellos
+misma razón, no pueden sentirse avergonzados de seguir a Uno que, como ellos
 
 mismos, fue despreciado y desechado entre los hombres.
 
 Entonces, abordando de inmediato nuestro texto, primero
 
-observaremos en l, muy claramente,
+observaremos en él, muy claramente,
 
 al
 
@@ -114,7 +114,7 @@ en segundo lugar, veremos
 
 una
 
-extraa eleccin;
+extrańa elección;
 
 luego, observaremos
 
@@ -128,15 +128,15 @@ sobre
 
 las razones que Dios ha dado para
 
-Su eleccin
+Su elección
 
-: que nadie se jacte en su presencia.
+: que “nadie se jacte en su presencia”.
 
 I.
 
-Primero, entonces, remontmonos a las alturas sobre
+Primero, entonces, remontémonos a las alturas sobre
 
-las alas del pensamiento esta maana para considerar, por un momento, al
+las alas del pensamiento esta mańana para considerar, por un momento, al
 
 ELECTOR.
 
@@ -144,29 +144,29 @@ Algunos hombres son salvados y otros hombres no
 
 son salvados; sigue siendo siempre un hecho incuestionable que algunos entran
 
-en la vida eterna y otros persiguen el mal y perecen. Cmo se propicia esa
+en la vida eterna y otros persiguen el mal y perecen. żCómo se propicia esa
 
-diferencia? Cmo es que algunos se remontan al cielo? La razn por la que
+diferencia? żCómo es que algunos se remontan al cielo? La razón por la que
 
 algunos se hunden en el infierno es su pecado. No se vuelven a Dios y, por
 
-tanto, perecen voluntariamente por sus propias acciones y obras. Pero, cmo es
+tanto, perecen voluntariamente por sus propias acciones y obras. Pero, żcómo es
 
-que otros son salvados? A quin pertenece la voluntad que establece esa
+que otros son salvados? żA quién pertenece la voluntad que establece esa
 
 diferencia? El texto responde esa pregunta de manera sumamente perentoria tres veces:
 
-escogi Dios, escogi Dios, escogi
+“escogió Dios, escogió Dios, escogió
 
-Dios.
+Dios”.
 
 La gracia encontrada en cualquier hombre, y la gloria y la vida
 
-eterna alcanzadas por algunos, son enteramente dones de la eleccin de Dios, y no
+eterna alcanzadas por algunos, son enteramente dones de la elección de Dios, y no
 
-se otorgan segn la voluntad del hombre.
+se otorgan según la voluntad del hombre.
 
-Esto quedar muy claro para cualquier persona
+Esto quedará muy claro para cualquier persona
 
 atenta, si antes que nada consideramos
 
@@ -174,519 +174,521 @@ los
 
 hechos.
 
-Dondequiera que encontramos un caso de eleccin en el Antiguo
+Dondequiera que encontramos un caso de elección en el Antiguo
 
 Testamento, es Dios quien manifiestamente la realiza. Retrocedan, si quieren, a
 
-los tiempos de la mayor antigedad. Los ngeles cayeron. Una multitud de
+los tiempos de la mayor antigüedad. Los ángeles cayeron. Una multitud de
 
-espritus resplandecientes que rodeaban el trono de Dios y cantaban Sus
+espíritus resplandecientes que rodeaban el trono de Dios y cantaban Sus
 
-alabanzas, fueron engaados por Satans y cayeron en pecado. La gran serpiente
+alabanzas, fueron engańados por Satanás y cayeron en pecado. La gran serpiente
 
-arrastr consigo a la tercera parte de las estrellas del cielo: cayeron en desobediencia;
+arrastró consigo a la tercera parte de las estrellas del cielo: cayeron en desobediencia;
 
-fueron condenados a cadenas y al fuego eterno para siempre. El hombre pec
+fueron condenados a cadenas y al fuego eterno para siempre. El hombre pecó
 
-tambin. Adn y Eva quebrantaron el pacto con Dios y comieron del fruto
+también. Adán y Eva quebrantaron el pacto con Dios y comieron del fruto
 
-prohibido. Fueron ellos condenados al fuego eterno? No; sino que Dios, en la
+prohibido. żFueron ellos condenados al fuego eterno? No; sino que Dios, en la
 
-plenitud de Su gracia, susurr esta promesa al odo de la mujer: la simiente
+plenitud de Su gracia, susurró esta promesa al oído de la mujer: “la simiente
 
-de la mujer herir la cabeza de la serpiente. Algunos hombres son salvados,
+de la mujer herirá la cabeza de la serpiente”. Algunos hombres son salvados,
 
-pero ningn demonio es salvado. Por qu? Fue el hombre la causa de la
+pero ningún demonio es salvado. żPor qué? żFue el hombre la causa de la
 
-diferencia? Silencio, vano fanfarrn que sueas con tal cosa! Dios mismo es
+diferencia? ˇSilencio, vano fanfarrón que sueńas con tal cosa! Dios mismo es
 
-quien testifica: Tendr misericordia del que yo tenga misericordia, y me
+quien testifica: “Tendré misericordia del que yo tenga misericordia, y me
 
-compadecer del que yo me compadezca. Fue por una soberana como sta que el
+compadeceré del que yo me compadezca”. Fue por una soberanía como ésta que el
 
-Seor declar virtualmente: Yo me propongo y decreto que de la raza del hombre
+Seńor declaró virtualmente: “Yo me propongo y decreto que de la raza del hombre
 
-salvar a una multitud que ningn hombre puede contar, que sern los vasos de
+salvaré a una multitud que ningún hombre puede contar, que serán los vasos de
 
-mi misericordia; en cambio, aquellos ngeles que una vez fueron mis siervos,
+mi misericordia; en cambio, aquellos ángeles que una vez fueron mis siervos,
 
-vindican el terror de mi justicia y la majestad de mi equidad. Esto no lo
+vindican el terror de mi justicia y la majestad de mi equidad”. Esto no lo
 
-cuestiona nadie. Nunca he odo al mayor ultra pelagiano presentar un argumento
+cuestiona nadie. Nunca he oído al mayor ultra pelagiano presentar un argumento
 
-a favor del diablo. He odo acerca de Orgenes que pareci argumentar que
+a favor del diablo. He oído acerca de Orígenes que pareció argumentar que
 
-Satans debera ser incluido en la ley general de la misericordia, pero muy
+Satanás debería ser incluido en la ley general de la misericordia, pero muy
 
-pocas personas hablan as en nuestros das. Aqu tenemos un ejemplo de
+pocas personas hablan así en nuestros días. Aquí tenemos un ejemplo de
 
-eleccin: algunos de la raza humana son salvados y algunos de la raza anglica
+elección: algunos de la raza humana son salvados y algunos de la raza angélica
 
-fueron entregados a la perdicin para siempre. Quin podra haber efectuado esa
+fueron entregados a la perdición para siempre. żQuién podría haber efectuado esa
 
-distincin, sino el propio Jehov? Y debemos decir esto de nuestra raza
+distinción, sino el propio Jehová? Y debemos decir esto de nuestra raza
 
-favorecida: escogi Dios.
+favorecida: “escogió Dios”.
 
 No nos quedamos perplejos cuando vemos a la
 
-misma soberana discriminatoria obrando entre los individuos de nuestra propia
+misma soberanía discriminatoria obrando entre los individuos de nuestra propia
 
-raza. En la poca patriarcal todos los hombres, con muy pocas excepciones,
+raza. En la época patriarcal todos los hombres, con muy pocas excepciones,
 
-estaban sumidos en el paganismo; haba unos pocos patriarcas que, elegidos por
+estaban sumidos en el paganismo; había unos pocos patriarcas que, elegidos por
 
-Dios, permanecan siendo todava fieles a la pura adoracin del Altsimo. El
+Dios, permanecían siendo todavía fieles a la pura adoración del Altísimo. El
 
-Seor resolvi adoptar a un pueblo especial, que habra de leer los orculos de
+Seńor resolvió adoptar a un pueblo especial, que habría de leer los oráculos de
 
-Dios y preservar y mantener la verdad, y seleccion a Abram como el progenitor
+Dios y preservar y mantener la verdad, y seleccionó a Abram como el progenitor
 
-de la raza elegida. Eligi Abram a Dios, o Dios llam y eligi a Abram? Haba
+de la raza elegida. żEligió Abram a Dios, o Dios llamó y eligió a Abram? żHabía
 
-naturalmente algo en Abram que le diera derecho a ser el siervo del Altsimo? Contamos
+naturalmente algo en Abram que le diera derecho a ser el siervo del Altísimo? Contamos
 
-con una prueba muy contundente en la Escritura de que no haba nada en Abram.
+con una prueba muy contundente en la Escritura de que no había nada en Abram.
 
 Por el contrario, es descrito como un sirio digno de perecer, y su raza era
 
-como las dems, corrompida por la idolatra, por no decir algo peor; sin embargo,
+como las demás, corrompida por la idolatría, por no decir algo peor; sin embargo,
 
 fue llamado a salir del Este, y fue constituido en el padre de los fieles por
 
 la propia voluntad especial de Dios.
 
-Permtanme preguntarles: qu haba en los
+Permítanme preguntarles: żqué había en los
 
-judos, para que fueran bendecidos con profetas, con los sacrificios, y con los
+judíos, para que fueran bendecidos con profetas, con los sacrificios, y con los
 
 ritos
 
 y ordenanzas de la verdadera
 
-adoracin, en tanto que todas las dems naciones fueron dejadas para que se
+adoración, en tanto que todas las demás naciones fueron dejadas para que se
 
-inclinaran delante de dioses de madera y piedra? Slo podemos decir que Dios lo
+inclinaran delante de dioses de madera y piedra? Sólo podemos decir que Dios lo
 
 hizo; Su voluntad separa a la raza de Israel y deja al resto en el pecado.
 
 Tomen cualquier caso particular de gracia divina mencionado en el Antiguo
 
-Testamento, por ejemplo, el caso de David. Encontramos que David escogi el
+Testamento, por ejemplo, el caso de David. żEncontramos que David escogió el
 
-trono, que David se seleccion y se apart para ser el mensajero escogido por
+trono, que David se seleccionó y se apartó para ser el mensajero escogido por
 
-Dios para Israel? Acaso haba alguna aptitud manifiesta en el menor de los
+Dios para Israel? żAcaso había alguna aptitud manifiesta en el menor de los
 
-hijos de Isa? No, por el contrario, los hombres habran elegido a sus
+hijos de Isaí? No, por el contrario, los hombres habrían elegido a sus
 
-hermanos; incluso Samuel dijo: De cierto delante de Jehov est su ungido,
+hermanos; incluso Samuel dijo: “De cierto delante de Jehová está su ungido”,
 
-cuando vio que se present Abinadab (1). Pero Dios no mira lo que mira el
+cuando vio que se presentó Abinadab (1). Pero Dios no mira lo que mira el
 
-hombre, y l haba elegido al rubio David para ser rey en Jesurn.
+hombre, y Él había elegido al rubio David para ser rey en Jesurún.
 
-As podramos multiplicar los casos, pero sus propios
+Así podríamos multiplicar los casos, pero sus propios
 
-pensamientos me ahorrarn mis palabras. Todos los hechos del Antiguo Testamento
+pensamientos me ahorrarán mis palabras. Todos los hechos del Antiguo Testamento
 
-sirven para mostrar que Dios hace lo que quiere con los ejrcitos del cielo y
+sirven para mostrar que Dios hace lo que quiere con los ejércitos del cielo y
 
-entre los habitantes de este mundo inferior; l abate y ensalza; l alza del
+entre los habitantes de este mundo inferior; Él abate y ensalza; Él alza del
 
-muladar al mendigo y lo coloca entre los prncipes de Su pueblo. Escogi Dios,
+muladar al mendigo y lo coloca entre los príncipes de Su pueblo. Escogió Dios,
 
-escogi Dios, y no el hombre. As que no depende del que quiere, ni del que
+escogió Dios, y no el hombre. “Así que no depende del que quiere, ni del que
 
-corre, sino de Dios que tiene misericordia.
+corre, sino de Dios que tiene misericordia”.
 
 Contemplemos el asunto bajo otra luz. Es claro
 
-que la voluntad del Seor tiene que determinar el asunto si consideramos Su
+que la voluntad del Seńor tiene que determinar el asunto si consideramos Su
 
-oficio y posicin para con los hombres. El oficio de Dios: Dios es un rey.
+oficio y posición para con los hombres. El oficio de Dios: Dios es un rey.
 
-Acaso no har el rey lo que le plazca? Los hombres establecen una monarqua
+żAcaso no hará el rey lo que le plazca? Los hombres establecen una monarquía
 
-constitucional, y estn en lo correcto; pero si se pudiera encontrar un ser que
+constitucional, y están en lo correcto; pero si se pudiera encontrar un ser que
 
-fuera la perfeccin misma, entonces una forma absoluta de gobierno sera
+fuera la perfección misma, entonces una forma absoluta de gobierno sería
 
 innegablemente lo mejor. De cualquier manera, el gobierno de Dios es absoluto,
 
-y aunque nunca viola la justicia pues l es la santidad y la verdad misma, no
+y aunque nunca viola la justicia pues Él es la santidad y la verdad misma, no
 
-obstante considera esta joya de Su corona como la ms preciada que posee. Yo
+obstante considera esta joya de Su corona como la más preciada que posee. “Yo
 
-soy, y fuera de m no hay ms. l no rinde cuentas de Sus asuntos. A todas las
+soy, y fuera de mí no hay más”. Él no rinde cuentas de Sus asuntos. A todas las
 
-preguntas les da esta respuesta: Mas antes, oh hombre, quin eres t, para
+preguntas les da esta respuesta: “Mas antes, oh hombre, żquién eres tú, para
 
-que alterques con Dios? Dir el vaso de barro al que lo form: por qu me has
+que alterques con Dios? żDirá el vaso de barro al que lo formó: por qué me has
 
-hecho as? O no tiene potestad el alfarero sobre el barro, para hacer de la
+hecho así? żO no tiene potestad el alfarero sobre el barro, para hacer de la
 
-misma masa un vaso para honra y otro para deshonra? La posicin absoluta de
+misma masa un vaso para honra y otro para deshonra?” La posición absoluta de
 
-Dios como rey, especialmente en la obra de salvacin, exige que Su voluntad sea
+Dios como rey, especialmente en la obra de salvación, exige que Su voluntad sea
 
 la gran fuerza determinante.
 
-Expongamos un caso y ustedes lo vern. Un grupo
+Expongamos un caso y ustedes lo verán. Un grupo
 
-de criminales se encuentra encerrado en prisin, y todos sus integrantes merecen
+de criminales se encuentra encerrado en prisión, y todos sus integrantes merecen
 
-la muerte. Su culpa es la misma. Si todos ellos son llevados a la ejecucin
+la muerte. Su culpa es la misma. Si todos ellos son llevados a la ejecución
 
-maana por la maana, nadie podra decir una palabra en contra de la justicia.
+mańana por la mańana, nadie podría decir una palabra en contra de la justicia.
 
-Ahora, si algunas de estas personas fueran perdonadas, quin tendra la
+Ahora, si algunas de estas personas fueran perdonadas, żquién tendría la
 
-jurisdiccin para perdonarlas? Acaso sera el propio criterio de ellas? Es
+jurisdicción para perdonarlas? żAcaso sería el propio criterio de ellas? Es
 
-cierto que sera sumamente benevolente que se les enviara un mensajero y se les
+cierto que sería sumamente benevolente que se les enviara un mensajero y se les
 
 pidiera que se presentaran y recibieran la misericordia perdonadora si acaso
 
-quisieran venir; pero supongan que todas esas personas, al unsono, rehusaran
+quisieran venir; pero supongan que todas esas personas, al unísono, rehusaran
 
 ser salvadas; supongan que habiendo sido invitadas para ser salvadas, cada una
 
-de ellas rehusara aceptar el perdn; si en tal caso la misericordia superior
+de ellas rehusara aceptar el perdón; si en tal caso la misericordia superior
 
 determinara hacer a un lado sus perversas voluntades, y se propusiera lograr
 
-que algunas de ellas fueran eficazmente salvadas, a quin le correspondera la
+que algunas de ellas fueran eficazmente salvadas, ża quién le correspondería la
 
-seleccin? Si se les dejara a las personas involucradas, todas ellas insistiran
+selección? Si se les dejara a las personas involucradas, todas ellas insistirían
 
-en elegir la muerte en lugar de la vida. Por tanto, sera intil dejarles la
+en elegir la muerte en lugar de la vida. Por tanto, sería inútil dejarles la
 
-decisin a ellas. Adems, dejar el atributo de la misericordia en manos de un
+decisión a ellas. Además, dejar el atributo de la misericordia en manos de un
 
-criminal sera un modo de proceder sumamente extrao. No, ha de ser el rey, ha
+criminal sería un modo de proceder sumamente extrańo. No, ha de ser el rey, ha
 
-de ser el rey el que diga quin ha de ser perdonado por misericordia, y quin
+de ser el rey el que diga quién ha de ser perdonado por misericordia, y quién
 
 ha de morir de acuerdo con la norma de justicia.
 
-La posicin de Dios como rey y la posicin de
+La posición de Dios como rey y la posición de
 
-los hombres como criminales, exigen que la salvacin dependa de la voluntad de
+los hombres como criminales, exigen que la salvación dependa de la voluntad de
 
 Dios; y, en verdad, es mejor que lo dejemos a Su voluntad que a nuestro propio
 
-criterio, pues l es ms benevolente con nosotros de lo que somos con relacin
+criterio, pues Él es más benevolente con nosotros de lo que somos con relación
 
-a nosotros mismos; l est ms lleno de amor por el hombre que el hombre mismo.
+a nosotros mismos; Él está más lleno de amor por el hombre que el hombre mismo.
 
-l es justicia, l es amor: justicia en la plenitud del esplendor, amor con un
+Él es justicia, Él es amor: justicia en la plenitud del esplendor, amor con un
 
-ilimitado poder. La misericordia y la verdad se han reunido en l y se han
+ilimitado poder. La misericordia y la verdad se han reunido en Él y se han
 
 besado mutuamente, y es muy bueno, es muy bueno, es lo mejor de todo que le
 
-correspondan a l, el gobierno y la administracin de la salvacin.
+correspondan a Él, el gobierno y la administración de la salvación.
 
 Ahora les presentaremos unas cuantas figuras de
 
-las que utiliza la Escritura en conexin con la obra de salvacin, y pienso que
+las que utiliza la Escritura en conexión con la obra de salvación, y pienso que
 
-vern entonces que la voluntad debe corresponderle a Dios. La salvacin
+verán entonces que la voluntad debe corresponderle a Dios. La salvación
 
 consiste en parte en
 
-una adopcin.
+una adopción.
 
 Dios
 
 adopta en Su familia a pecadores que eran herederos de la ira, igual que los
 
-dems. Quin debera tener autoridad en el asunto de la adopcin por gracia?
+demás. żQuién debería tener autoridad en el asunto de la adopción por gracia?
 
-Acaso los hijos de ira? Ciertamente no; y sin embargo, todos los hombres son
+żAcaso los hijos de ira? Ciertamente no; y sin embargo, ˇtodos los hombres son
 
-hijos de ira! No; es acorde con la naturaleza, con la razn y con el sentido
+hijos de ira! No; es acorde con la naturaleza, con la razón y con el sentido
 
-comn que nadie sino los padres pueden tener la discrecin de adoptar. Como
+común que nadie sino los padres pueden tener la discreción de adoptar. Como
 
 padre, si alguien deseara entrar en mi familia, tengo el derecho de adoptar o
 
-rehusar adoptar a la persona en cuestin; ciertamente nadie puede tener un
+rehusar adoptar a la persona en cuestión; ciertamente nadie puede tener un
 
 derecho a imponerse a la fuerza en mi vida, ni decirme que voy a ser considerado
 
-como su padre reconocido. Yo digo que de conformidad a la razn y al sentido
+como su padre reconocido. Yo digo que de conformidad a la razón y al sentido
 
-comn, el derecho debe estar del lado del padre; y en la adopcin, debe ser
+común, el derecho debe estar del lado del padre; y en la adopción, debe ser
 
 Dios quien elija a Sus propios hijos.
 
-Adems, la Iglesia es descrita como
+Además, la Iglesia es descrita como
 
 un edificio.
 
-Sobre quin recae la
+żSobre quién recae la
 
-arquitectura del edificio? Recae en el edificio mismo? En las piedras? Acaso
+arquitectura del edificio? żRecae en el edificio mismo? żEn las piedras? żAcaso
 
-las piedras se seleccionan a s mismas? Acaso la piedra que est en aquel
+las piedras se seleccionan a sí mismas? żAcaso la piedra que está en aquel
 
-rincn eligi su lugar? O aquella piedra que est colocada en los cimientos,
+rincón eligió su lugar? O aquella piedra que está colocada en los cimientos,
 
-acaso seleccion su propia posicin? No; nicamente el arquitecto dispone de
+żacaso seleccionó su propia posición? No; únicamente el arquitecto dispone de
 
-sus materiales elegidos de acuerdo a su propia voluntad; y as, en la
+sus materiales elegidos de acuerdo a su propia voluntad; y así, en la
 
-construccin de la Iglesia, que es la gran casa de Dios, el grandioso Maestro
+construcción de la Iglesia, que es la gran casa de Dios, el grandioso Maestro
 
-de Obras reserva para S la seleccin de las piedras y los lugares que
+de Obras reserva para Sí la selección de las piedras y los lugares que
 
-ocuparn.
+ocuparán.
 
-Tomen un caso todava ms aparente. La Iglesia
+Tomen un caso todavía más aparente. La Iglesia
 
 es llamada
 
 la esposa de Cristo.
 
-Acaso
+żAcaso
 
-alguno de los aqu presentes estara de acuerdo que le fuere impuesta una
+alguno de los aquí presentes estaría de acuerdo que le fuere impuesta una
 
-esposa? No hay nadie entre nosotros que se rebajara por un solo instante a
+esposa? No hay nadie entre nosotros que se rebajaría por un solo instante a
 
-renunciar a sus derechos para elegir a su propia esposa; y acaso Cristo
+renunciar a sus derechos para elegir a su propia esposa; y żacaso Cristo
 
-dejara al azar y a la voluntad humana la decisin de quin habra de ser Su
+dejaría al azar y a la voluntad humana la decisión de quién habría de ser Su
 
-esposa? No; mi Seor Jess, el Esposo de la Iglesia, ejerce la soberana que Su
+esposa? No; mi Seńor Jesús, el Esposo de la Iglesia, ejerce la soberanía que Su
 
-posicin le confiere, y selecciona a Su propia esposa.
+posición le confiere, y selecciona a Su propia esposa.
 
-Adems, se dice que nosotros somos
+Además, se dice que nosotros somos
 
 miembros del cuerpo de Cristo.
 
 David nos
 
-informa que, en el libro de Dios: Estaban escritas todas aquellas cosas que
+informa que, en el libro de Dios: “Estaban escritas todas aquellas cosas que
 
-fueron luego formadas, sin faltar una de ellas. Segn esto, el cuerpo de todo hombre
+fueron luego formadas, sin faltar una de ellas”. Según esto, el cuerpo de todo hombre
 
-tiene sus miembros registrados en el libro de Dios. Ha de ser el cuerpo de
+tiene sus miembros registrados en el libro de Dios. żHa de ser el cuerpo de
 
-Cristo una excepcin a esta regla? Acaso aquel grandioso cuerpo de divina
+Cristo una excepción a esta regla? żAcaso aquel grandioso cuerpo de divina
 
-humanidad, Cristo Jess, el Salvador mstico, habra de ser formado de acuerdo
+humanidad, Cristo Jesús, el Salvador místico, habría de ser formado de acuerdo
 
-a los caprichos y deseos del libre albedro, mientras que otros cuerpos,
+a los caprichos y deseos del libre albedrío, mientras que otros cuerpos,
 
 sustancialmente inferiores, tienen sus miembros escritos en el libro de Dios? No
 
-debemos soar as. Sera una pltica ociosa y sera desconocer el significado
+debemos sońar así. Sería una plática ociosa y sería desconocer el significado
 
-de las metforas de la Escritura.
+de las metáforas de la Escritura.
 
 Me parece claro, de conformidad a las figuras e
 
-ilustraciones de la Escritura, que la seleccin final de los hombres que sern salvados,
+ilustraciones de la Escritura, que la selección final de los hombres que serán salvados,
 
-debe corresponderle a Dios. Acaso no es confirmado esto, queridos amigos, por
+debe corresponderle a Dios. żAcaso no es confirmado esto, queridos amigos, por
 
-su propia experiencia? Lo es en cuanto a m. Podra haber algunos que odian
+su propia experiencia? Lo es en cuanto a mí. Podría haber algunos que odian
 
-esta doctrina; hay muchos o al menos podra haber algunos cuyas bocas echan
+esta doctrina; hay muchos o al menos podría haber algunos cuyas bocas echan
 
-espuma mientras nos oyen hablar as de la soberana de Dios, pero yo confieso
+espuma mientras nos oyen hablar así de la soberanía de Dios, pero yo confieso
 
 que toca un resorte secreto de mi naturaleza que me obliga a llorar cuando nada
 
-ms puede hacerlo. Hay algo en mi conciencia que parece decirme: l tiene que
+más puede hacerlo. Hay algo en mi conciencia que parece decirme: “Él tiene que
 
-haberme elegido, pues yo nunca habra podido elegirle. Yo estaba resuelto a
+haberme elegido, pues yo nunca habría podido elegirle”. Yo estaba resuelto a
 
 vivir en pecado; yo era propenso a descarriarme; yo era aficionado a la
 
-iniquidad; yo tragaba el mal como el buey bebe su porcin de agua; y ahora,
+iniquidad; yo tragaba el mal como el buey bebe su porción de agua; y ahora,
 
-salvado por la gracia, me atrevera por un solo instante a imputar esa
+salvado por la gracia, żme atrevería por un solo instante a imputar esa
 
-salvacin a mi propia eleccin? Yo en verdad elijo a Dios muy libremente, muy
+salvación a mi propia elección? Yo en verdad elijo a Dios muy libremente, muy
 
-plenamente, pero debe ser por alguna obra previa realizada en mi corazn que cambi
+plenamente, pero debe ser por alguna obra previa realizada en mi corazón que cambió
 
-ese corazn, pues mi corazn empedernido nunca habra podido elegirle.
+ese corazón, pues mi corazón empedernido nunca habría podido elegirle.
 
-Amado, no sientes en este preciso instante que
+Amado, żno sientes en este preciso instante que
 
-la inclinacin natural de tus pensamientos es apartarse de Dios? Si la gracia
+la inclinación natural de tus pensamientos es apartarse de Dios? Si la gracia
 
-de Dios te fuera quitada, qu seras de ti? Acaso no eres como el arco que se
+de Dios te fuera quitada, żqué serías de ti? żAcaso no eres como el arco que se
 
-dobla mientras la cuerda lo mantiene as, pero si cortaran esa cuerda,
+dobla mientras la cuerda lo mantiene así, pero si cortaran esa cuerda,
 
-recobrara de inmediato su antigua posicin? No sucedera as contigo? Si la
+recobraría de inmediato su antigua posición? żNo sucedería así contigo? Si la
 
-poderosa gracia de Dios te fuera retirada, no regresaras de inmediato a tus
+poderosa gracia de Dios te fuera retirada, żno regresarías de inmediato a tus
 
 antiguos caminos? Bien, entonces ves claramente que incluso ahora que has sido
 
-regenerado, tu naturaleza corrompida no elige a Dios, y mucho menos le habra
+regenerado, tu naturaleza corrompida no elige a Dios, y mucho menos le habría
 
-podido elegir cuando no haba una nueva naturaleza que la mantuviera a raya y
+podido elegir cuando no había una nueva naturaleza que la mantuviera a raya y
 
-la controlara. Mi Seor les mira a la cara, oh ustedes, pueblo suyo, y les dice:
+la controlara. Mi Seńor les mira a la cara, oh ustedes, pueblo suyo, y les dice:
 
-No me elegisteis vosotros a m, sino que yo os eleg a vosotros; y cada uno
+“No me elegisteis vosotros a mí, sino que yo os elegí a vosotros”; y cada uno
 
-de nosotros siente que l despierta un eco en nuestros corazones, pues
+de nosotros siente que Él despierta un eco en nuestros corazones, pues
 
-respondemos: S, Seor, nosotros no te hemos elegido en nuestro estado
+respondemos: “Sí, Seńor, nosotros no te hemos elegido en nuestro estado
 
-natural, pero T nos has elegido, y a Tu libre y soberana eleccin sea la honra
+natural, pero Tú nos has elegido, y a Tu libre y soberana elección sea la honra
 
-por los siglos de los siglos.
+por los siglos de los siglos”.
 
 II.
 
 Que podamos sentir las influencias presentes del
 
-Espritu Santo mientras reflexionamos sobre LA ELECCIN MISMA.
+Espíritu Santo mientras reflexionamos sobre LA ELECCIÓN MISMA.
 
-El Seor est a punto de elegir a un pueblo que
+El Seńor está a punto de elegir a un pueblo que
 
-dar honra a la cruz de Cristo. Ellos han de ser redimidos por la sangre
+dará honra a la cruz de Cristo. Ellos han de ser redimidos por la sangre
 
-preciosa y han de ser, en algn sentido, una digna recompensa por los grandes
+preciosa y han de ser, en algún sentido, una digna recompensa por los grandes
 
-sufrimientos de Jess. Observen ahora cun
+sufrimientos de Jesús. Observen ahora cuán
 
-extraa
+extrańa
 
-es la seleccin que hace. Leo con asombro: Pues mirad, hermanos, vuestra
+es la selección que hace. Leo con asombro: “Pues mirad, hermanos, vuestra
 
-vocacin, que no sois muchos sabios segn la carne, ni muchos poderosos, ni
+vocación, que no sois muchos sabios según la carne, ni muchos poderosos, ni
 
-muchos nobles. Si el hombre hubiera recibido el poder de elegir, estas seran
+muchos nobles”. Si el hombre hubiera recibido el poder de elegir, estas serían
 
-justamente las personas que habran sido seleccionadas. Sino que lo necio del
+justamente las personas que habrían sido seleccionadas. “Sino que lo necio del
 
-mundo escogi Dios, para avergonzar a los sabios; y lo dbil del mundo escogi
+mundo escogió Dios, para avergonzar a los sabios; y lo débil del mundo escogió
 
-Dios, para avergonzar a lo fuerte; y lo vil y lo menospreciado Si el hombre
+Dios, para avergonzar a lo fuerte; y lo vil y lo menospreciado…” Si el hombre
 
-hubiera realizado la seleccin, estas son exactamente las personas que habran
+hubiera realizado la selección, estas son exactamente las personas que habrían
 
-sido dejadas fuera. La seleccin es muy extraa, muy extraa; yo creo que
+sido dejadas fuera. La selección es muy extrańa, muy extrańa; yo creo que
 
-incluso en el cielo ser objeto de eterno asombro, y excepto por las razones
+incluso en el cielo será objeto de eterno asombro, y excepto por las razones
 
-dadas en nuestro texto, nos quedaramos perplejos sin saber por qu pas por
+dadas en nuestro texto, nos quedaríamos perplejos sin saber por qué pasó por
 
-alto, con escarnio divino, los palacios de los encumbrados reyes, y busc a los
+alto, con escarnio divino, los palacios de los encumbrados reyes, y buscó a los
 
-de innoble cuna y a los humildes para hacerlos el objeto de Su seleccin.
+de innoble cuna y a los humildes para hacerlos el objeto de Su selección.
 
-Observen que, a la par de ser extrao, contiene
+Observen que, a la par de ser extrańo, contiene
 
 esta peculiaridad: es
 
 directamente
 
-contrario a la seleccin humana.
+contrario a la selección humana.
 
-El hombre selecciona a aquellos que seran
+El hombre selecciona a aquellos que serían
 
-de mayor ayuda para l: Dios selecciona a aquellos para quienes l es de mayor
+de mayor ayuda para él: Dios selecciona a aquellos para quienes Él es de mayor
 
 ayuda. Nosotros seleccionamos a quienes pueden darnos el mejor retorno: Dios
 
-selecciona frecuentemente a quienes ms
+selecciona frecuentemente a quienes más
 
 necesitan
 
-de Su ayuda. Si yo selecciono a un amigo, me inclino hacia l debido a una
+de Su ayuda. Si yo selecciono a un amigo, me inclino hacia él debido a una
 
-cierta servicialidad que pudiera encontrar en l. Este es el egosmo del
+cierta servicialidad que pudiera encontrar en él. Este es el egoísmo del
 
-hombre. Pero Dios elige a Su amigo de acuerdo a la servicialidad que l mismo
+hombre. Pero Dios elige a Su amigo de acuerdo a la servicialidad que Él mismo
 
 puede rendir al seleccionado. Es exactamente la manera opuesta de seleccionar.
 
-Nosotros seleccionamos a aquellos que son los mejores porque son los que ms
+Nosotros seleccionamos a aquellos que son los mejores porque son los que más
 
-merecen. l selecciona a aquellos que son los peores porque son los que menos
+merecen. Él selecciona a aquellos que son los peores porque son los que menos
 
-merecen, para que as Su seleccin pueda ser vista ms claramente como un acto
+merecen, para que así Su selección pueda ser vista más claramente como un acto
 
-de gracia y no de mrito. Yo digo que esto es claramente contrario a la forma
+de gracia y no de mérito. Yo digo que esto es claramente contrario a la forma
 
-de seleccionar de los hombres. El hombre selecciona a los ms hermosos y a los
+de seleccionar de los hombres. El hombre selecciona a los más hermosos y a los
 
-ms agradables. Dios, por el contrario, viendo la negrura y la inmundicia de
+más agradables. Dios, por el contrario, viendo la negrura y la inmundicia de
 
-todo lo que es llamado agradable, no selecciona lo que es llamado as, sino que
+todo lo que es llamado agradable, no selecciona lo que es llamado así, sino que
 
 toma aquello que los hombres encuentran incluso desagradable y lo torna donoso
 
-con la donosura con la que l lo cubre. Extraa seleccin! Oh Seor, Es este
+con la donosura con la que Él lo cubre. ˇExtrańa selección! Oh Seńor, żEs este
 
 el estilo de los hombres?
 
-Ustedes observarn que la seleccin es
+Ustedes observarán que la selección es
 
 muy misericordiosa;
 
-oh, cun misericordiosa,
+ˇoh, cuán misericordiosa,
 
-en el caso suyo y en el mo! Es misericordiosa incluso en su exclusin. No
+en el caso suyo y en el mío! Es misericordiosa incluso en su exclusión. No
 
-dice: No ningn sabio, sino nicamente dice: No sois muchos sabios, de tal
+dice: “No ningún sabio”, sino únicamente dice: “No sois muchos sabios”, de tal
 
-forma que los grandes no estn completamente excluidos. La gracia es proclamada
+forma que los grandes no están completamente excluidos. La gracia es proclamada
 
-tambin para el prncipe, y en el cielo hay unos que en la tierra llevaron
+también para el príncipe, y en el cielo hay unos que en la tierra llevaron
 
-coronas de ttulos nobiliarios y oraron. Cun bendita es la gracia
+coronas de títulos nobiliarios y oraron. Cuán bendita es la gracia
 
-condescendiente de la eleccin, que toma a las cosas dbiles, a las cosas
+condescendiente de la elección, que toma a las cosas débiles, a las cosas
 
 necias.
 
-Uno pensara que cuando Dios dijo: No, al
+Uno pensaría que cuando Dios dijo: “No”, al
 
-prncipe, debe haberlo dicho para que sea excusado de otorgar misericordia a
+príncipe, debe haberlo dicho para que sea excusado de otorgar misericordia a
 
-todo mundo, pues tenemos el hbito de decir: Bien, hemos rechazado al seor
+todo mundo, pues tenemos el hábito de decir: “Bien, hemos rechazado al seńor
 
-Fulano de Tal, y l es una persona mucho ms importante que t, por tanto, no
+Fulano de Tal, y él es una persona mucho más importante que tú, por tanto, no
 
-puedo darte el favor a ti. Vamos!, el rey me pidi ese favor y no quise
+puedo darte el favor a ti. ˇVamos!, el rey me pidió ese favor y no quise
 
-hacrselo; piensas que lo hara por ti?
+hacérselo; żpiensas que lo haría por ti?”
 
-Pero Dios razona de otra manera; l pasa por
+Pero Dios razona de otra manera; Él pasa por
 
-alto al rey a propsito para reunirse con el mendigo; l deja al noble para
+alto al rey a propósito para reunirse con el mendigo; Él deja al noble para
 
-tomar al vil, y pasa por alto al filsofo para recibir al necio. Oh, esto es
+tomar al vil, y pasa por alto al filósofo para recibir al necio. Oh, esto es
 
-extrao y sobrepasa a lo extrao, es maravilloso; hemos de alabarle por esta
+extrańo y sobrepasa a lo extrańo, es maravilloso; hemos de alabarle por esta
 
 gracia portentosa.
 
-Oh, cun
+ˇ
+
+Oh, cuán
 
 alentador
 
 es esto para nosotros esta
 
-maana. Algunos de nosotros no podemos jactarnos de ningn linaje distinguido;
+mańana. Algunos de nosotros no podemos jactarnos de ningún linaje distinguido;
 
 no tenemos grandes conocimientos; no tenemos riquezas; nuestros nombres son
 
-todos desconocidos para la fama; pero, oh, qu gran misericordia! A l le ha
+todos desconocidos para la fama; pero, ˇoh, qué gran misericordia! A Él le ha
 
 agradado elegir a tales entes necios como nosotros, a tales criaturas
 
@@ -694,15 +696,19 @@ despreciables como nosotros mismos, a tales cosas que no son para deshacer las
 
 cosas que son.
 
-Para no pasar todo el tiempo esta maana
+Para no pasar todo el tiempo esta mańana
 
-simplemente sealando esta extraa seleccin y sorprendindonos ante ella, nos bastar
+simplemente seńalando esta extrańa selección y sorprendiéndonos ante ella, nos bastará
 
-observar que cada cristiano que se descubre elegido considerar su propia
+observar que cada cristiano que se descubre elegido considerará su propia
 
-eleccin como la seleccin ms extraa que se haya hecho:
+elección como la selección más extrańa que se haya hecho:
 
-Qu haba en ti que pudiera ameritar la estima,
+“
+
+ż
+
+Qué había en ti que pudiera ameritar la estima,
 
 O
 
@@ -710,13 +716,13 @@ proporcionar deleite al Creador
 
 ?
 
-S, Padre, es
+‘Sí, Padre’, es
 
 lo que siempre has de cantar
 
-Fue porque
+‘Fue porque
 
-as te agrad.
+así te agradó’.
 
 III.
 
@@ -728,11 +734,11 @@ Son descritos
 
 negativamente.
 
-No sois muchos sabios segn la carne. Observen que
+“No sois muchos sabios según la carne”. Observen que
 
-no dice: No sois muchos sabios simplemente, sino No sois muchos sabios
+no dice: “No sois muchos sabios” simplemente, sino “No sois muchos sabios
 
-segn la carne,
+según la carne”,
 
 porque Dios
 
@@ -740,119 +746,119 @@ ha
 
 elegido ciertamente sabios, puesto
 
-que todo Su pueblo es hecho verdaderamente sabio; pero son sabios
+que todo Su pueblo es hecho verdaderamente sabio; pero son “sabios
 
-segn la carne
+según la carne”
 
 aquellos que Dios no ha
 
 elegido. Los
 
-sophoi,
+“sophoi”,
 
 como los
 
-griegos los llaman, los filsofos, los hombres que tienen pretensiones de
+griegos los llaman, los filósofos, los hombres que tienen pretensiones de
 
-sabidura o que aman la sabidura, los astutos, los metafsicos, los grandes
+sabiduría o que aman la sabiduría, los astutos, los metafísicos, los grandes
 
-estudiantes, los observadores agudos, los rabes, los doctores, los infalibles,
+estudiantes, los observadores agudos, los rabíes, los doctores, los infalibles,
 
 los hombres que miran con profundo desprecio a los ignorantes y los llaman
 
-idiotas y los tratan como si fuesen el polvo que est debajo de sus pies; stos
+idiotas y los tratan como si fuesen el polvo que está debajo de sus pies; éstos
 
-no son seleccionados en grandes nmeros. Es extrao, no es cierto? Y sin
+no son seleccionados en grandes números. Es extrańo, żno es cierto? Y sin
 
-embargo, se aduce una buena razn. Si fuesen elegidos, entonces diran: Ah,
+embargo, se aduce una buena razón. Si fuesen elegidos, entonces dirían: “ˇAh,
 
-cunto nos debe el Evangelio! Cunto le ayuda nuestra sabidura! Si los
+cuánto nos debe el Evangelio! ˇCuánto le ayuda nuestra sabiduría!” Si los
 
-primeros doce apstoles hubieran sido doce doctores o doce sabios, todo mundo
+primeros doce apóstoles hubieran sido doce doctores o doce sabios, todo mundo
 
-habra dicho: vamos, por supuesto que el Evangelio era poderoso; haba doce
+habría dicho: “vamos, por supuesto que el Evangelio era poderoso; había doce
 
 hombres seleccionados y sabios procedentes de Judea, o de Grecia, para
 
-apoyarlo. Pero en lugar de eso, Dios busca por las ensenadas y por las bahas
+apoyarlo”. Pero en lugar de eso, Dios busca por las ensenadas y por las bahías
 
-a doce pobres pescadores, que son tan ignorantes como podran serlo, y los toma,
+a doce pobres pescadores, que son tan ignorantes como podrían serlo, y los toma,
 
-y se convierten en apstoles y difunden el Evangelio, y el Evangelio recibe la
+y se convierten en apóstoles y difunden el Evangelio, y el Evangelio recibe la
 
-gloria y no los apstoles. En la sabidura de Dios, los sabios son pasados por
+gloria y no los apóstoles. En la sabiduría de Dios, los sabios son pasados por
 
 alto.
 
-A continuacin observen que dice: Ni muchos
+A continuación observen que dice: “Ni muchos
 
-poderosos. Uno dira que los sabios habran podido forzar su entrada al cielo
+poderosos”. Uno diría que los sabios habrían podido forzar su entrada al cielo
 
-por su talento, pero all estn, con su ciego conocimiento, buscando a tientas
+por su talento, pero allí están, con su ciego conocimiento, buscando a tientas
 
 el picaporte de la puerta del cielo, mientras que los indoctos y la gente
 
-sencilla ya han entrado en l. La ciega sabidura busca a tientas en la
+sencilla ya han entrado en él. La ciega sabiduría busca a tientas en la
 
-oscuridad, y a semejanza de los sabios, va a Jerusaln en vano, mientras que
+oscuridad, y a semejanza de los sabios, va a Jerusalén en vano, mientras que
 
-los pobres y humildes pastores van a Beln y encuentran a Cristo de inmediato.
+los pobres y humildes pastores van a Belén y encuentran a Cristo de inmediato.
 
-Aqu viene otro orden de grandes hombres! Los
+ˇAquí viene otro orden de grandes hombres! Los
 
-hombres poderosos, los valientes paladines, los prncipes, su Alteza Imperial,
+hombres poderosos, los valientes paladines, los príncipes, su Alteza Imperial,
 
-los conquistadores, los Alejandros, y los Napoleones, acaso ellos no son
+los conquistadores, los Alejandros, y los Napoleones, żacaso ellos no son
 
 elegidos? Ciertamente cuando el rey se vuelve cristiano, puede obligar a otros
 
-con su espada a recibir a Cristo. Por qu no elegirlo a l? No dice el
+con su espada a recibir a Cristo. żPor qué no elegirlo a él? “No” –dice el
 
-texto- ni muchos poderosos. Y ustedes ven el porqu: porque si los poderosos
+texto- “ni muchos poderosos”. Y ustedes ven el porqué: porque si los poderosos
 
-hubiesen sido escogidos, todos nosotros diramos: Oh, s!, vemos por qu el
+hubiesen sido escogidos, todos nosotros diríamos: “ˇOh, sí!, vemos por qué el
 
 cristianismo se expande tanto: es el buen temple de la hoja de la espada, y la
 
-fortaleza del brazo que la blande.
+fortaleza del brazo que la blande”.
 
 Todos nosotros podemos entender el progreso del
 
-islamismo durante sus primeros tres siglos. Hombres como Al y Khaled estaban
+islamismo durante sus primeros tres siglos. Hombres como Alí y Khaled estaban
 
 dispuestos a eliminar a naciones enteras; montaron sus caballos, ondearon sus
 
-cimitarras sobre sus cabezas y arremetieron contra cientos, y eran intrpidos
+cimitarras sobre sus cabezas y arremetieron contra cientos, y eran intrépidos
 
-en la batalla. Y fue slo cuando se enfrentaron a hombres tales como nuestro
+en la batalla. Y fue sólo cuando se enfrentaron a hombres tales como nuestro
 
-Ricardo Corazn de Len que el islamismo fue repelido por algn tiempo; cuando
+Ricardo Corazón de León que el islamismo fue repelido por algún tiempo; cuando
 
-la espada choc con la espada, entonces los que la tomaron perecieron a espada.
+la espada chocó con la espada, entonces los que la tomaron perecieron a espada.
 
-Cristo no escogi a ningn guerrero; uno de Sus
+Cristo no escogió a ningún guerrero; uno de Sus
 
-discpulos us una espada, pero fue para un muy pobre efecto, pues nicamente
+discípulos usó una espada, pero fue para un muy pobre efecto, pues únicamente
 
-cort la oreja de un hombre y Cristo la tom y la san y eso puso trmino a la
+cortó la oreja de un hombre y Cristo la tomó y la sanó y eso puso término a la
 
-lucha del pobre Pedro. De tal manera que la gloria de las conquistas del Seor
+lucha del pobre Pedro. De tal manera que la gloria de las conquistas del Seńor
 
 no depende de los valientes; Dios no los ha seleccionado.
 
-Luego dice el apstol: Ni muchos nobles, con
+Luego dice el apóstol: “Ni muchos nobles”, con
 
-lo que quiere decir aquellas personas con un gigantesco rbol genealgico, que
+lo que quiere decir aquellas personas con un gigantesco árbol genealógico, que
 
-desciende a lo largo de un lnea de prncipes, de los lomos de los reyes, con
+desciende a lo largo de un línea de príncipes, de los lomos de los reyes, con
 
-sangre azul en sus venas. Ni muchos nobles, pues se habra podido pensar que
+sangre azul en sus venas. “Ni muchos nobles”, pues se habría podido pensar que
 
-la nobleza sell al Evangelio con su prestigio. Oh!, s, no ha de sorprender
+la nobleza selló al Evangelio con su prestigio. “ˇOh!, sí, no ha de sorprender
 
-que el Evangelio se extienda cuando mi seor Tal y Tal y el duque de Tal se
+que el Evangelio se extienda cuando mi seńor Tal y Tal y el duque de Tal se
 
-inclinan ante l. S, pero pueden ver que hubo pocos de ellos en la iglesia
+inclinan ante él”. Sí, pero pueden ver que hubo pocos de ellos en la iglesia
 
 primitiva; los santos de las catacumbas eran hombres y mujeres pobres y
 
@@ -860,9 +866,9 @@ humildes; y es un hecho muy memorable que entre todas las inscripciones de las
 
 catacumbas de Roma, escritas por los primeros cristianos, hay muy pocas que
 
-ostentan una ortografa apropiada; casi todas ellas muestran una gramtica tan
+ostentan una ortografía apropiada; casi todas ellas muestran una gramática tan
 
-deficiente como su ortografa, una clara prueba de que fueron grabadas all por
+deficiente como su ortografía, una clara prueba de que fueron grabadas allí por
 
 hombres pobres, indoctos, ignorantes, que eran en aquel entonces los defensores
 
@@ -876,137 +882,137 @@ positivo,
 
 y necesito que presten una
 
-cuidadosa atencin a la expresin usada por el apstol. Sino que a los necios
+cuidadosa atención a la expresión usada por el apóstol. “żSino que a los necios
 
-del mundo escogi Dios? No, no dice eso: Sino que
+del mundo escogió Dios?” No, no dice eso: “Sino que
 
 lo necio
 
-del mundo escogi Dios, como si los escogidos del Seor
+del mundo escogió Dios”, como si los escogidos del Seńor
 
 no fueran por naturaleza lo suficientemente buenos para ser llamados hombres, y
 
-fueran nicamente cosas; como si el mundo los mirara con tal desprecio que no
+fueran únicamente “cosas”; como si el mundo los mirara con tal desprecio que no
 
-deca: quines son estos hombres?, sino quines son estas cosas? Una o
+decía: “żquiénes son estos hombres?”, sino “żquiénes son estas cosas?” Una o
 
-dos veces en Lucas ustedes observarn que Cristo fue llamado ste; pero la
+dos veces en Lucas ustedes observarán que Cristo fue llamado “éste”; pero la
 
-palabra ste est puesta en cursivas, y no figura en el original; pues en el
+palabra “éste” está puesta en cursivas, y no figura en el original; pues en el
 
-griego est expresado as: pero respecto a ese______, no sabemos de dnde sea.
+griego está expresado así: “pero respecto a ese______, no sabemos de dónde sea.
 
-No dijeron qu era, ni siquiera le llamaron un tipo, aunque la traduccin es
+No dijeron qué era, ni siquiera le llamaron “un tipo”, aunque la traducción es
 
 muy buena pues transmite la idea correcta al lector ordinario. Parecieran decir
 
-de Cristo: pero respecto a ese_____, bien, llmenle bestia si les parece, o una
+de Cristo: “pero respecto a ese_____, bien, llámenle bestia si les parece, o ‘una
 
-cosa si les parece; y as Pablo ha puesto aqu lo
+cosa’ si les parece”; y así Pablo ha puesto aquí “lo
 
-necio,
+necio”,
 
 no simplemente hombres necios, a quienes el mundo considera
 
-tontos, indoctos, ignorantes, estpidos, jalados por la nariz y fcilmente
+tontos, indoctos, ignorantes, estúpidos, jalados por la nariz y fácilmente
 
-engaados a creer esto o aquello, sino lo necio, que no son nada sino
+engańados a creer esto o aquello, sino “lo necio”, que no son nada sino
 
-estupidez, escogi Dios.
+estupidez, escogió Dios.
 
-A continuacin, Dios ha escogido Lo dbil.
+A continuación, Dios ha escogido “Lo débil”.
 
-Observen con cuidado la expresin referida a cosas; no son meramente hombres
+Observen con cuidado la expresión referida a “cosas”; no son meramente hombres
 
-dbiles, sino que el mundo los consideraba
+débiles, sino que el mundo los consideraba
 
 cosas
 
-dbiles. Ah!, -dijo Csar en la sala del tribunal- quin es el Rey
+débiles. “ˇAh!”, -dijo César en la sala del tribunal- “żquién es el Rey
 
-Jess? Un pobre desventurado que fue colgado de un madero! Quines son estos
+Jesús? ˇUn pobre desventurado que fue colgado de un madero! żQuiénes son estos
 
-hombres que lo estn predicando? Doce pobres pescadores que difcilmente
+hombres que lo están predicando? ˇDoce pobres pescadores que difícilmente
 
-podran reunir un solo talento de oro entre ellos! Quin es este Pablo que desvara
+podrían reunir un solo talento de oro entre ellos! żQuién es este Pablo que desvaría
 
-tan vigorosamente acerca de Cristo? Un fabricante de tiendas! Quines son sus
+tan vigorosamente acerca de Cristo? ˇUn fabricante de tiendas! żQuiénes son sus
 
-seguidores? Unas cuantas mujeres despreciadas que se renen con l junto al
+seguidores? ˇUnas cuantas mujeres despreciadas que se reúnen con él junto al
 
-ro! Es Pablo un filsofo? No, se rieron de l en la colina de Marte, pues
+río! żEs Pablo un filósofo? No, se rieron de él en la colina de Marte, pues
 
-consideraron que lo que deca era mera palabrera. Sin duda Csar pens que
+consideraron que lo que decía era mera palabrería”. Sin duda César pensó que
 
-ellos eran demasiado insignificantes para ser dignos de su atencin, pero lo
+ellos eran demasiado insignificantes para ser dignos de su atención, pero “lo
 
-dbil es lo que Dios ha escogido.
+débil” es lo que Dios ha escogido.
 
-Observen la siguiente descripcin: lo vil. La
+Observen la siguiente descripción: “lo vil”. La
 
-palabra utilizada all significa cosas sin genealoga, cosas desposedas de un
+palabra utilizada allí significa cosas sin genealogía, cosas desposeídas de un
 
 padre, cosas que no pueden rastrear su ascendencia, nadie como Sir Harry, nadie
 
-como el Muy Honorable, est emparentado con ellos; su padre fue un don nadie,
+como el Muy Honorable, está emparentado con ellos; su padre fue un ‘don nadie’,
 
-y su madre no era nada. As eran los primeros apstoles: eran lo vil de este
+y su madre no era ‘nada’. Así eran los primeros apóstoles: eran lo vil de este
 
-mundo y, sin embargo, Dios los escogi.
+mundo y, sin embargo, Dios los escogió.
 
-Y si esto no bastara, est escrito: lo
+Y si esto no bastara, está escrito: “lo
 
-menospreciado, lo escarnecido, lo perseguido, lo acorralado, o lo que es
+menospreciado”, lo escarnecido, lo perseguido, lo acorralado, o lo que es
 
-tratado con lo que es todava peor: con indiferencia, que es peor que el
+tratado con lo que es todavía peor: con indiferencia, que es peor que el
 
-escarnio. No son dignos de ser advertidos, son necios que no vale la pena
+escarnio. “No son dignos de ser advertidos, son necios que no vale la pena
 
-considerar, psalos por alto y no les hagas caso y, sin embargo, Dios los
+considerar, pásalos por alto y no les hagas caso” y, sin embargo, Dios los
 
-eligi.
+eligió.
 
-Adems, como si fuera para eclipsar todo lo
+Además, como si fuera para eclipsar todo lo
 
-dems, y resumirlo en una palabra: Lo que no es escogi Dios. La pura nada,
+demás, y resumirlo en una palabra: “Lo que no es” escogió Dios. La pura nada,
 
-entidades inexistentes. Oh!, -dice el hombre del mundo- s, acabo de
+entidades inexistentes. “ˇOh!”, -dice el hombre del mundo- “sí, acabo de
 
-enterarme que hubo una cuadrilla de fanticos de ese tipo. Oh!, -dice otro-
+enterarme que hubo una cuadrilla de fanáticos de ese tipo”. “ˇOh!”, -dice otro-
 
-yo nunca o acerca de ellos. No me junto nunca de ninguna manera con un conjunto
+“yo nunca oí acerca de ellos. No me junto nunca de ninguna manera con un conjunto
 
-tal de gente vulgar y de bajo nivel. Tuvieron alguna vez un obispo entre
+tal de gente vulgar y de bajo nivel. żTuvieron alguna vez un obispo entre
 
-ellos? Un reverendsimo padre en Dios? No, nada de ese tipo, amigo; ellos
+ellos? żUn ‘reverendísimo padre’ en Dios?” No, nada de ese tipo, amigo; ellos
 
 son necios, viles, insignificantes, despreciados; el mundo, por tanto, los
 
-rechaza. Sin embargo, -dice Dios- yo los escojo. Ellos forman el pueblo que
+rechaza. “Sin embargo”, -dice Dios- “yo los escojo”. Ellos forman el pueblo que
 
-l elige precisamente.
+Él elige precisamente.
 
-Ahora, observen que eso fue vlido en los das
+Ahora, observen que eso fue válido en los días
 
-de Pablo y es vlido ahora, pues la Biblia no cambia con el pasar de los aos; y
+de Pablo y es válido ahora, pues la Biblia no cambia con el pasar de los ańos; y
 
 en mil ochocientos sesenta y cuatro, Dios selecciona a las cosas que son
 
-menospreciadas de igual manera que lo hizo en el ao sesenta y cuatro; y
+menospreciadas de igual manera que lo hizo en el ańo sesenta y cuatro; y
 
-todava har que el mundo sepa que quienes son ridiculizados, y tildados de
+todavía hará que el mundo sepa que quienes son ridiculizados, y tildados de
 
-fanticos, considerados locos y perversos, son, despus de todo, Sus elegidos
+fanáticos, considerados locos y perversos, son, después de todo, Sus elegidos
 
-seleccionados para Dios y para Su verdad para conformar el ejrcito sacramental
+seleccionados para Dios y para Su verdad para conformar el ejército sacramental
 
-de los elegidos, y para ganar para Dios la batalla del ltimo da. No nos
+de los elegidos, y para ganar para Dios la batalla del último día. No nos
 
 avergonzamos de gloriarnos en esto: que Dios selecciona las cosas que son
 
 menospreciadas. Podemos tomar nuestro lugar con el pueblo despreciado de Dios,
 
-esperanzados de participar en la eleccin de Su gracia soberana.
+esperanzados de participar en la elección de Su gracia soberana.
 
 IV.
 
@@ -1014,23 +1020,23 @@ Para concluir, se tiene LAS RAZONES POR LAS QUE
 
 DIOS HA SELECCIONADO A ESTE PUEBLO. Se nos proporcionan dos razones: la primera
 
-es la razn inmediata; la segunda es la razn ltima.
+es la razón inmediata; la segunda es la razón última.
 
 La primera, o
 
-razn inmediata,
+razón inmediata,
 
-est contenida en estas palabras: Sino que lo
+está contenida en estas palabras: “Sino que lo
 
-necio del mundo escogi Dios, para avergonzar a los sabios; y lo dbil del
+necio del mundo escogió Dios, para avergonzar a los sabios; y lo débil del
 
-mundo escogi Dios, para avergonzar a lo fuerte; y lo vil del mundo y lo
+mundo escogió Dios, para avergonzar a lo fuerte; y lo vil del mundo y lo
 
-menospreciado escogi Dios, y lo que no es, para deshacer lo que es.
+menospreciado escogió Dios, y lo que no es, para deshacer lo que es”.
 
 Observen, entonces, que la
 
-razn inmediata
+razón inmediata
 
 es, primero,
 
@@ -1038,325 +1044,325 @@ para
 
 avergonzar a los sabios.
 
-Que un sabio avergence a otro sabio es algo
+Que un sabio avergüence a otro sabio es algo
 
-notable; que un sabio avergence a un necio es algo muy fcil; pero que un
+notable; que un sabio avergüence a un necio es algo muy fácil; pero que un
 
-necio avergence a un sabio, ah!, dedo de Dios es ste. Ustedes saben lo que
+necio avergüence a un sabio, ˇah!, dedo de Dios es éste. Ustedes saben lo que
 
-sucedi con los apstoles. Un filsofo escuch a Pablo, y cuando le hubo odo,
+sucedió con los apóstoles. Un filósofo escuchó a Pablo, y cuando le hubo oído,
 
-le dijo: No hay nada de sustancia en ello! Es una perfecta necedad! Un
+le dijo: “ˇNo hay nada de sustancia en ello! ˇEs una perfecta necedad! ˇUn
 
-montn de ideas sin valor de principio a fin! No hay necesidad de que nos
+montón de ideas sin valor de principio a fin! No hay necesidad de que nos
 
-molestemos en responder eso. Transcurrieron los aos y cuando el filsofo se
+molestemos en responder eso”. Transcurrieron los ańos y cuando el filósofo se
 
-estaba llenando de canas y esa pestilente hereja del cristianismo se estaba
+estaba llenando de canas y esa pestilente herejía del cristianismo se estaba
 
 expandiendo por todos lados, su propia hija fue convertida e incluso su esposa
 
-sola salir a hurtadillas por la noche para asistir a la asamblea secreta. El
+solía salir a hurtadillas por la noche para asistir a la asamblea secreta. El
 
-filsofo no se poda explicar esto. Me sorprende, -deca- que yo demostr
+filósofo no se podía explicar esto. “Me sorprende”, -decía- “que yo demostré
 
 hasta la saciedad que todo era una estupidez, y sin embargo, esta gente se
 
-aferra a eso. Yo respond a todos sus argumentos, no es cierto? Y no slo
+aferra a eso. Yo respondí a todos sus argumentos, żno es cierto? Y no sólo
 
-respond e impugn, sino que establec mis argumentos de tal manera que yo
+respondí e impugné, sino que establecí mis argumentos de tal manera que yo
 
-pens que haba puesto fin a esa necedad por completo. Y ahora la veo aqu, en
+pensé que había puesto fin a esa necedad por completo. Y ahora la veo aquí, en
 
-mi propia casa. Algunas veces el filsofo tena lgrimas en sus ojos, y deca:
+mi propia casa”. Algunas veces el filósofo tenía lágrimas en sus ojos, y decía:
 
-lo siento en mi propio corazn, me ha derrotado, me ha avergonzado, yo poda
+“lo siento en mi propio corazón, me ha derrotado, me ha avergonzado, yo podía
 
 hacer silogismos y racionalizar, y vencer al pobre de Pablo, pero Pablo me ha
 
-derrotado. Lo que yo consider una necedad ha avergonzado mi sabidura.
+derrotado. Lo que yo consideré una necedad ha avergonzado mi sabiduría”.
 
-En unos cuantos siglos despus de la muerte de
+En unos cuantos siglos después de la muerte de
 
-Cristo, la religin cristiana se extendi por todo el mundo civilizado,
+Cristo, la religión cristiana se extendió por todo el mundo civilizado,
 
-mientras que el paganismo que tena a toda la filosofa del oriente y del
+mientras que el paganismo que tenía a toda la filosofía del oriente y del
 
-occidente para apuntalarlo, cay en el desprestigio y fue objeto de escarnio.
+occidente para apuntalarlo, cayó en el desprestigio y fue objeto de escarnio.
 
-Adems, Dios ha escogido a lo dbil
+Además, Dios ha escogido a lo débil
 
 para avergonzar a los fuertes.
 
-Oh!,
+“ˇOh!”,
 
--deca Csar- pronto erradicaremos este cristianismo, y le cortaremos la
+-decía César- “pronto erradicaremos este cristianismo, y le cortaremos la
 
-cabeza. Los diferentes gobernadores se apresuraron a matar a los discpulos,
+cabeza”. Los diferentes gobernadores se apresuraron a matar a los discípulos,
 
-uno tras otro, pero entre ms los perseguan ms se multiplicaban. Los
+uno tras otro, pero entre más los perseguían más se multiplicaban. Los
 
-procnsules tenan rdenes de destruir a los cristianos; entre ms los cazaban,
+procónsules tenían órdenes de destruir a los cristianos; entre más los cazaban,
 
-ms cristianos haba, hasta que por fin los hombres presionaban al tribunal
+más cristianos había, hasta que por fin los hombres presionaban al tribunal
 
 solicitando que se les permitiera morir por Cristo. Inventaron tormentos,
 
 arrastraban a los santos atados a las patas de caballos salvajes, los colocaban
 
-sobre parrillas recalentadas al rojo vivo, los despellejaban quitndoles la
+sobre parrillas recalentadas al rojo vivo, los despellejaban quitándoles la
 
 piel pedazo a pedazo, fueron aserrados y partidos en dos, fueron envueltos en
 
-pieles y embadurnados con alquitrn y colocados por las noches en los jardines
+pieles y embadurnados con alquitrán y colocados por las noches en los jardines
 
-de Nern para ser quemados, los abandonaban en calabozos hasta que se
+de Nerón para ser quemados, los abandonaban en calabozos hasta que se
 
-pudrieran, eran convertidos en espectculo de los hombres en el anfiteatro, los
+pudrieran, eran convertidos en espectáculo de los hombres en el anfiteatro, los
 
 osos los trituraban hasta la muerte, los leones los destrozaban, los toros
 
 salvajes los lanzaban al aire con sus cuernos y, sin embargo, el cristianismo
 
-se expandi. Todas las espadas de los legionarios que haban puesto en huda a
+se expandió. Todas las espadas de los legionarios que habían puesto en huída a
 
-los ejrcitos de todas las naciones, y haban derrotado a los invencibles galos
+los ejércitos de todas las naciones, y habían derrotado a los invencibles galos
 
 y a los salvajes britanos, no pudieron oponerse a la debilidad del
 
-cristianismo, pues la debilidad de Dios es ms poderosa que los hombres. Si Dios
+cristianismo, pues la debilidad de Dios es más poderosa que los hombres. Si Dios
 
-hubiese escogido a los fuertes, se hubieran dado la vuelta y habran dicho:
+hubiese escogido a los fuertes, se hubieran dado la vuelta y habrían dicho:
 
-Dios es deudor de nosotros; si hubiese elegido a los sabios, habran dicho:
+“Dios es deudor de nosotros”; si hubiese elegido a los sabios, habrían dicho:
 
-nuestra sabidura lo ha logrado; pero cuando selecciona a los necios y a los
+“nuestra sabiduría lo ha logrado”; pero cuando selecciona a los necios y a los
 
-dbiles, dnde ests t ahora, filsofo? No se ha redo Dios de ti hasta el
+débiles, żdónde estás tú ahora, filósofo? żNo se ha reído Dios de ti hasta el
 
-escarnio? Dnde estn ustedes ahora, oh espada y lanza? Oh, hombre fuerte que
+escarnio? żDónde están ustedes ahora, oh espada y lanza? Oh, hombre fuerte que
 
-las blandiste, dnde ests ahora? La debilidad de Dios te ha derrotado.
+las blandiste, żdónde estás ahora? La debilidad de Dios te ha derrotado.
 
-Se dice que l escogi lo que no es,
+Se dice que Él escogió lo que no es,
 
 para deshacer lo que es.
 
 Deshacer lo que
 
-es, es ms que avergonzarlo. Lo que es. Qu eran ellos en los das de los
+es, es más que avergonzarlo. “Lo que es”. żQué eran ellos en los días de los
 
-apstoles? Jpiter sentado en su excelso trono sostiene los rayos en su mano;
+apóstoles? Júpiter sentado en su excelso trono sostiene los rayos en su mano;
 
-Saturno est reclinado como el padre de los dioses; Venus deleita a sus
+Saturno está reclinado como el padre de los dioses; Venus deleita a sus
 
-adoradores con sus placeres lascivos; la casta Diana toca su cuerno. Aqu viene
+adoradores con sus placeres lascivos; la casta Diana toca su cuerno. Aquí viene
 
-Pablo con: el nico verdadero Dios, y Jesucristo, a quien ha enviado; l
+Pablo con: “el único verdadero Dios, y Jesucristo, a quien ha enviado”; él
 
-representa lo que no es. La hereja del cristianismo es tan despreciable que
+representa “lo que no es”. La herejía del cristianismo es tan despreciable que
 
-si se hubiera hecho una lista de las religiones de los diferentes pases, el
+si se hubiera hecho una lista de las religiones de los diferentes países, el
 
-cristianismo habra quedado fuera del catlogo.
+cristianismo habría quedado fuera del catálogo.
 
-Pero vean el resultado. Dnde est Jpiter
+Pero vean el resultado. żDónde está Júpiter
 
-ahora? Dnde est Saturno? Dnde estn Venus y Diana? Excepto como nombres
+ahora? żDónde está Saturno? żDónde están Venus y Diana? Excepto como nombres
 
-clsicos en los diccionarios de los estudiosos, dnde estn todos ellos?
+clásicos en los diccionarios de los estudiosos, żdónde están todos ellos?
 
-Quin se inclina delante del santuario de Ceres en el da de la cosecha, o
+żQuién se inclina delante del santuario de Ceres en el día de la cosecha, o
 
-quin eleva sus oraciones a Neptuno en la hora de la tormenta? Ah!, se han
+quién eleva sus oraciones a Neptuno en la hora de la tormenta? ˇAh!, se han
 
 ido; las cosas que son han sido deshechas por las que no son.
 
-Hemos de reflexionar que lo que es vlido en los
+Hemos de reflexionar que lo que es válido en los
 
-das de Pablo es vlido para hoy. El ao mil ochocientos sesenta y cuatro ver
+días de Pablo es válido para hoy. El ańo mil ochocientos sesenta y cuatro verá
 
-repetidos los milagros de los tiempos antiguos: las cosas que son sern
+repetidos los milagros de los tiempos antiguos: las cosas que son serán
 
-deshechas por las cosas que no son. Vean el tiempo de Wycliffe; las cosas que
+deshechas por las cosas que no son. Vean el tiempo de Wycliffe; las ‘cosas que
 
-son eran las santas cruces en cada iglesia; san Winifred, santo Toms de
+son’ eran las santas cruces en cada iglesia; san Winifred, santo Tomás de
 
-Canterbury son adorados por todas las multitudes de ingleses. All viene mi
+Canterbury son adorados por todas las multitudes de ingleses. Allí viene mi
 
-seor el arzobispo a travs de las calles; por all el Papa es adorado por
+seńor el arzobispo a través de las calles; por allá el Papa es adorado por
 
-miles, y est la Virgen que es adorada por todos. Qu veo? Un monje solitario
+miles, y está la Virgen que es adorada por todos. żQué veo? Un monje solitario
 
 en Lutterworth comienza a predicar en contra de los frailes mendicantes, y al
 
 predicar contra ellos descubre la verdad, y comienza a predicar que Cristo es
 
-la nica base de la salvacin, y que quienes confan en l son salvos. Bien,
+la única base de la salvación, y que quienes confían en Él son salvos. Bien,
 
 era una cosa tan despreciable que, al principio, no se preocuparon por
 
-perseguirle. Es cierto que al final le presentaron delante de su Gracia en
+perseguirle. Es cierto que al final le presentaron delante de ‘su Gracia’ en
 
-San Pablo, pero all estaba un hombre fuerte, un tal John o Gant que se
+San Pablo, pero allí estaba un hombre fuerte, un tal John o’ Gant que se
 
-present con l, y dijo un par de palabras a su spera manera, y se le permiti
+presentó con él, y dijo un par de palabras a su áspera manera, y se le permitió
 
 a Wycliffe sentarse; y aunque condenado, regresa a su parroquia de Lutterworth.
 
-Lo que no era!, no era digno de ser abatido por sangre, se extinguira solo.
+“ˇLo que no era!”, no era digno de ser abatido por sangre, se extinguiría solo.
 
-Acaso se extingui? Dnde estn sus santos crucifijos hoy? Dnde est santo
+żAcaso se extinguió? żDónde están sus santos crucifijos hoy? żDónde está santo
 
-Toms de Canterbury, dnde estn santa Ins y san Winifred? Pregunten a sus
+Tomás de Canterbury, dónde están santa Inés y san Winifred? Pregunten a sus
 
-amigos puseyistas, pues slo ellos pueden decrselo. Verdaderos consortes de
+amigos puseyistas, pues sólo ellos pueden decírselo. Verdaderos consortes de
 
-los topos y de los murcilagos, ellos saben adnde han sido arrojados los
+los topos y de los murciélagos, ellos saben adónde han sido arrojados los
 
-dolos: ellos buscan restaurar las supersticiones del pasado, pero, por la
+ídolos: ellos buscan restaurar las supersticiones del pasado, pero, por la
 
-gracia de Dios, su tarea no ser nada fcil.
+gracia de Dios, su tarea no será nada fácil.
 
-El presente sistema de supersticin inglesa, con
+El presente sistema de superstición inglesa, con
 
-su regeneracin por agua, su gracia bautismal, sus confirmaciones, y su
+su regeneración por agua, su gracia bautismal, sus confirmaciones, y su
 
 otorgamiento de gracia por medio del pan y del vino, aunque sean atacados por
 
-quienes son cosas que no son, dejarn de ser; y la verdad como es en Jess, y
+quienes son cosas que no son, dejarán de ser; y la verdad como es en Jesús, y
 
 la pura fe simple que nadie es un sacerdote distintivamente sobre sus
 
 semejantes, sino que cada cristiano es un sacerdote para Dios; y la pura verdad
 
-que ninguna agua necesariamente trae el Espritu de Dios con ella, y que
+que ninguna agua necesariamente trae el Espíritu de Dios con ella, y que
 
 ninguna forma exterior ni los ritos contienen ninguna virtud aparte de la fe de
 
-aquellos que los reciben; sin embargo, stos, apoyados por el Espritu de Dios,
+aquellos que los reciben; sin embargo, éstos, apoyados por el Espíritu de Dios,
 
-desharn las cosas que son. En esto nos apoyamos en la fortaleza de Dios. Yo no
+desharán las cosas que son. En esto nos apoyamos en la fortaleza de Dios. Yo no
 
-querra que los paladines de Dios fueran ms fuertes.
+querría que los paladines de Dios fueran más fuertes.
 
-Hermanos, si hubieran sido ms fuertes, ellos se
+Hermanos, si hubieran sido más fuertes, ellos se
 
-llevaran la gloria. Han de ser dbiles, y han de ser pocos, y han de ser
+llevarían la gloria. Han de ser débiles, y han de ser pocos, y han de ser
 
-despreciados; su poca cantidad, su pobreza, su debilidad, har que el grito de
+despreciados; su poca cantidad, su pobreza, su debilidad, hará que el grito de
 
-alabanza al eterno Conquistador sea todava ms fuerte, y la msica ser al
+alabanza al eterno Conquistador sea todavía más fuerte, y la música será al
 
-unsono, y habr solamente este refrn: No a nosotros, oh Jehov, no a
+unísono, y habrá solamente este refrán: “No a nosotros, oh Jehová, no a
 
-nosotros, sino a tu nombre da gloria, por tu misericordia, por tu verdad.
+nosotros, sino a tu nombre da gloria, por tu misericordia, por tu verdad”.
 
-ste, entonces, es el propsito inmediato de
+Éste, entonces, es el propósito inmediato de
 
-Dios al seleccionar a lo necio, lo dbil, lo que no es para avergonzar a los
+Dios al seleccionar a lo necio, lo débil, lo que no es para avergonzar a los
 
 fuertes. Pero Su
 
-razn ltima es a fin
+razón última es “a fin
 
-de que nadie se jacte en su presencia.
+de que nadie se jacte en su presencia”.
 
-Quiero que noten esa ltima frase y
+Quiero que noten esa última frase y
 
-habr concluido. No dice que nadie, no, el texto no est en humor de agradar
+habré concluido. No dice que “nadie”, no, el texto no está en humor de agradar
 
-a nadie; dice: que ninguna
+a nadie; dice: “que ninguna
 
-carne.
+carne”.
 
-Qu
+ˇQué
 
-palabra! Qu palabra, digo! Aqu estn Soln y Scrates, los sabios. Dios los
+palabra! ˇQué palabra, digo! Aquí están Solón y Sócrates, los sabios. Dios los
 
-seala con Su dedo y los llama: carne. La carne es vendida en la carnicera,
+seńala con Su dedo y los llama: “carne”. La carne es vendida en la carnicería,
 
-no es cierto? Los perros la desgarran, los gusanos se la comen, nada sino
+żno es cierto? Los perros la desgarran, los gusanos se la comen, nada sino
 
-carne. All est Csar, con su prpura imperial que le cubre, y cuando el
+carne. Allí está César, con su púrpura imperial que le cubre, y cuando el
 
-poderoso Emperador est de pie muy erguido, cmo desenvainan sus espadas los
+poderoso Emperador está de pie muy erguido, cómo desenvainan sus espadas los
 
-guardias pretorianos y gritan: Grande es el Emperador! Que tenga larga
+guardias pretorianos y gritan: “ˇGrande es el Emperador! ˇQue tenga larga
 
-vida!
+vida!”
 
-Carne,
+“Carne”,
 
 -dice la palabra de
 
 Dios,
 
-carne.
+“carne”.
 
-Aqu vienen marchando,
+Aquí vienen marchando,
 
-cientos en lnea, los fuertes legionarios de Roma, quin podra enfrentarse
+cientos en línea, los fuertes legionarios de Roma, żquién podría enfrentarse
 
-contra las puntas de sus adargas? Carne, -dice la palabra- carne. Aqu hay
+contra las puntas de sus adargas? “Carne”, -dice la palabra- “carne”. Aquí hay
 
 hombres cuyos progenitores eran de un linaje real y cuyos abuelos eran de rango
 
-imperial, y ellos son descendientes de una larga lnea de honor. Carne, -dice
+imperial, y ellos son descendientes de una larga línea de honor. “Carne”, -dice
 
-Dios- carne, nada sino carne; alimento de perros, alimento de gusanos, cuando
+Dios- “carne, nada sino carne”; alimento de perros, alimento de gusanos, cuando
 
-as lo quiere. A fin de que nadie se jacte en su presencia. Vean, entonces,
+así lo quiere. “A fin de que nadie se jacte en su presencia”. Vean, entonces,
 
 que Dios pone Su sello sobre nosotros, indicando que no somos nada sino carne, y
 
-l selecciona la carne ms pobre, y la carne ms necia, y la carne ms dbil,
+Él selecciona la carne más pobre, y la carne más necia, y la carne más débil,
 
-para que toda otra carne que es nicamente carne y nicamente hierba vea que
+para que toda otra carne que es únicamente carne y únicamente hierba vea que
 
 Dios derrama desprecio sobre toda ella, y no acepta que ninguna carne se jacte
 
 en Su presencia.
 
-Ahora, cul es tu espritu esta maana en
+żAhora, cuál es tu espíritu esta mańana en
 
-cuanto a este tema? Das coces contra l? Acaso dices que no puedes
+cuanto a este tema? żDas coces contra él? żAcaso dices que no puedes
 
-soportarlo? Me temo que quieres jactarte en la presencia de Dios. Tu visin de
+soportarlo? Me temo que quieres jactarte en la presencia de Dios. Tu visión de
 
-las cosas y la visin de Dios de las cosas difieren, y por tanto, necesitas
+las cosas y la visión de Dios de las cosas difieren, y por tanto, necesitas
 
-tener un nuevo corazn y un espritu recto.
+tener un nuevo corazón y un espíritu recto.
 
-Pero, por el contrario, dices esta maana: no
+Pero, por el contrario, żdices esta mańana: “no
 
-tengo nada de qu jactarme, no quiero jactarme en Tu presencia, sino que quiero
+tengo nada de qué jactarme, no quiero jactarme en Tu presencia, sino que quiero
 
-postrarme en el propio polvo y decir: haz conmigo lo que quieras? Pecador,
+postrarme en el propio polvo y decir: “haz conmigo lo que quieras”? Pecador,
 
-sientes que no eres nada sino carne y carne pecaminosa?
+żsientes que no eres nada sino carne y carne pecaminosa?
 
-Ests tan quebrantado delante de Dios que sientes que,
+żEstás tan quebrantado delante de Dios que sientes que,
 
-independientemente de lo que hiciere contigo sera justo, y que slo puedes
+independientemente de lo que hiciere contigo sería justo, y que sólo puedes
 
-apelar a Su soberana misericordia? Entonces Dios y t son uno. Ests
+apelar a Su soberana misericordia? Entonces Dios y tú son uno. Estás
 
-reconciliado. Puedo ver que ests reconciliado. Cuando Dios y t estn de
+reconciliado. Puedo ver que estás reconciliado. Cuando Dios y tú están de
 
-acuerdo en que Dios debe reinar, entonces Dios est de acuerdo en que vivas.
+acuerdo en que Dios debe reinar, entonces Dios está de acuerdo en que vivas.
 
-Pecador, toca el cetro de Su gracia. Jess crucificado est delante de ti ahora
+Pecador, toca el cetro de Su gracia. Jesús crucificado está delante de ti ahora
 
 y te pide que le mires y que vivas. Que se te pida que mires es una instancia de
 
-la gracia poderosa, y que seas capacitado para ver esta maana ser un portento
+la gracia poderosa, y que seas capacitado para ver esta mańana será un portento
 
-del amor divino por el que tendrs que bendecirle en el tiempo y en la
+del amor divino por el que tendrás que bendecirle en el tiempo y en la
 
-eternidad. Y ahora, que Dios, cuyo nombre hemos buscado honrar esta maana,
+eternidad. Y ahora, que Dios, cuyo nombre hemos buscado honrar esta mańana,
 
-bendiga nuestras palabras tartamudeantes, por Jess nuestro Seor. Amn.
+bendiga nuestras palabras tartamudeantes, por Jesús nuestro Seńor. Amén.
 
 Notas del
 
@@ -1364,7 +1370,7 @@ traductor:
 
 (1) Las palabras citadas realmente se refieren a
 
-otro hermano de David, a Eliab, segn 1 Samuel 16: 6. Estas citas las deca el
+otro hermano de David, a Eliab, según 1 Samuel 16: 6. Estas citas las decía el
 
 pastor Spurgeon de memoria.
 
@@ -1372,11 +1378,11 @@ Donosura: gracia, donaire.
 
 Donoso: que tiene donaire y gracia.
 
-Puseyista: doctor E. B. Pusey, lder tractario,
+Puseyista: doctor E. B. Pusey, líder tractario,
 
 de fuertes inclinaciones a imitar a la iglesia de Roma en su ritualismo y otras
 
-prcticas catlicas externas, como el bautismo infantil. El seor Spurgeon usa frecuentemente:
+prácticas católicas externas, como el bautismo infantil. El seńor Spurgeon usa frecuentemente:
 
 Pusey y puseyismo para designar esas tendencias.
 

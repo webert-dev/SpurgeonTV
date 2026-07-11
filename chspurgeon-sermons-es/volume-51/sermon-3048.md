@@ -1,14 +1,14 @@
 # Sermón 3048 | Sermón 3048
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-El Espritu Santo en el Pacto
+El Espíritu Santo en el Pacto
 
 NO. 3048
 
-SERMN PREDICADO UNA
+SERMÓN PREDICADO UNA
 
-MAANA DE DOMINGO EN EL AO 1856
+MAŃANA DE DOMINGO EN EL AŃO 1856
 
 POR CHARLES HADDON
 
@@ -20,79 +20,79 @@ LONDRES,
 
 Y PUBLICADO EL JUEVES 11 DE JULIO DE 1907.
 
-Y pondr dentro de vosotros mi Espritu. Ezequiel 36: 27.
+“Y pondré dentro de vosotros mi Espíritu.” Ezequiel 36: 27.
 
-El Espritu Santo es
+El Espíritu Santo es
 
-la tercera Persona en el pacto. Ya hemos considerado a Dios en el Pacto y a
+la tercera Persona en el pacto. Ya hemos considerado a “Dios en el Pacto” y a
 
-Cristo en el Pacto y, ahora, esta maana, vamos a considerar al Espritu
+“Cristo en el Pacto” y, ahora, esta mańana, vamos a considerar al Espíritu
 
 Santo en el pacto. Recuerden que es necesario que un Dios Trino obre la
 
-salvacin de los miembros del pueblo de Dios, si es que han de ser salvados; y
+salvación de los miembros del pueblo de Dios, si es que han de ser salvados; y
 
-fue absolutamente necesario que, cuando se realiz el pacto, todo lo que se
+fue absolutamente necesario que, cuando se realizó el pacto, todo lo que se
 
-requera fuera incluido en l; y, entre todas las cosas necesarias est el
+requería fuera incluido en él; y, entre todas las cosas necesarias está el
 
-Espritu Santo, sin quien todas las cosas hechas incluso por el Padre y por
+Espíritu Santo, sin quien todas las cosas hechas incluso por el Padre y por
 
-Jesucristo, seran ineficaces, pues l es necesario tanto
+Jesucristo, serían ineficaces, pues Él es necesario tanto
 
 como
 
-el Salvador de los hombres o el Padre de los espritus.
+el Salvador de los hombres o el Padre de los espíritus.
 
-En esta poca,
+En esta época,
 
-cuando el Espritu Santo es olvidado demasiado, y slo una pequea honra es
+cuando el Espíritu Santo es olvidado demasiado, y sólo una pequeńa honra es
 
-concedida a Su sagrada persona, siento que hay en m una profunda
+concedida a Su sagrada persona, siento que hay en mí una profunda
 
 responsabilidad de esforzarme por engrandecer Su grande y santo nombre. Casi
 
-tiemblo esta maana al adentrarme en un tema tan profundo, para el que me
+tiemblo esta mańana al adentrarme en un tema tan profundo, para el que me
 
 confieso incompetente. Pero, a pesar de ello, y confiando en la ayuda, en la
 
-gua y el testimonio del propio Espritu Santo, me aventuro en una exposicin
+guía y el testimonio del propio Espíritu Santo, me aventuro en una exposición
 
-de este texto: Pondr dentro de vosotros mi Espritu.
+de este texto: “Pondré dentro de vosotros mi Espíritu.”
 
-El Espritu Santo es
+El Espíritu Santo es
 
 dado, en el pacto, a todos los hijos de Dios, siendo recibido por cada uno a su
 
-debido tiempo; sin embargo, el Espritu Santo descendi primero sobre nuestro
+debido tiempo; sin embargo, el Espíritu Santo descendió primero sobre nuestro
 
-Seor Jesucristo, y se pos en l como nuestra Cabeza del pacto, como el buen
+Seńor Jesucristo, y se posó en Él como nuestra Cabeza del pacto, “como el buen
 
-leo sobre la cabeza, el cual desciende sobre la barba, la barba de Aarn, y
+óleo sobre la cabeza, el cual desciende sobre la barba, la barba de Aarón, y
 
-baja hasta el borde de sus vestiduras. El Padre ha dado el Espritu Santo a Su
+baja hasta el borde de sus vestiduras.” El Padre ha dado el Espíritu Santo a Su
 
-Hijo sin medida; y partiendo del Hijo, los hermanos que habitan juntos en
+Hijo sin medida; y partiendo del Hijo, “los hermanos que habitan juntos en
 
-armona (o en unin con Cristo) participan del Espritu, con medida, pero aun
+armonía” (o en unión con Cristo) participan del Espíritu, con medida, pero aun
 
-as, en abundancia. Esta santa uncin se derrama a partir de Jess, el Ungido,
+así, en abundancia. Esta santa unción se derrama a partir de Jesús, el Ungido,
 
-y baa cada parte de Su cuerpo mstico, unge a cada miembro de Su Iglesia. La
+y bańa cada parte de Su cuerpo místico, unge a cada miembro de Su Iglesia. La
 
-declaracin de Dios en lo tocante a Cristo fue: he puesto sobre L mi
+declaración de Dios en lo tocante a Cristo fue: “he puesto sobre ÉL mi
 
-Espritu; y l mismo dijo: El Espritu de Jehov el Seor est sobre m,
+Espíritu”; y Él mismo dijo: “El Espíritu de Jehová el Seńor está sobre mí,
 
-porque me ungi Jehov; me ha enviado a predicar buenas nuevas a los abatidos,
+porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos,
 
-a vendar a los quebrantado de corazn. El Espritu fue derramado primero en
+a vendar a los quebrantado de corazón.” El Espíritu fue derramado primero en
 
-Cristo, y de l desciende a todos aquellos que estn unidos con Su persona
+Cristo, y de Él desciende a todos aquellos que están unidos con Su persona
 
-adorable. Bendigamos el nombre de Cristo si estamos unidos a l; y miremos a
+adorable. Bendigamos el nombre de Cristo si estamos unidos a Él; y miremos a
 
-nuestra Cabeza del pacto, esperando que de l fluya la uncin celestial que ha
+nuestra Cabeza del pacto, esperando que de Él fluya la unción celestial que ha
 
 de ungir a nuestras almas.
 
@@ -102,17 +102,17 @@ esas promesas incondicionales de la Escritura. Hay muchas promesas
 
 condicionales en la Palabra de Dios, dadas a ciertos caracteres, aunque incluso
 
-esas promesas son incondicionales en un sentido, puesto que la propia condicin
+esas promesas son incondicionales en un sentido, puesto que la propia condición
 
 de la promesa es asegurada por alguna otra promesa como un don; pero esta
 
-promesa no tiene condicin alguna. No dice: Pondr dentro de vosotros mi
+promesa no tiene condición alguna. No dice: “Pondré dentro de vosotros mi
 
-Espritu, si lo piden; dice sencillamente, sin reserva o estipulacin: Pondr
+Espíritu, si lo piden”; dice sencillamente, sin reserva o estipulación: “Pondré
 
-dentro de vosotros mi Espritu. La razn es obvia. Mientras el Espritu no sea
+dentro de vosotros mi Espíritu.” La razón es obvia. Mientras el Espíritu no sea
 
-puesto dentro de nosotros, no podemos sentir nuestra necesidad del Espritu, ni
+puesto dentro de nosotros, no podemos sentir nuestra necesidad del Espíritu, ni
 
 podemos pedirlo ni buscarlo. Por ello es necesario que haya una promesa
 
@@ -120,639 +120,639 @@ absolutamente incondicional, hecha a todos los hijos elegidos de Dios, que les
 
 proporcione la gracia de esperar, la gracia de desear, la gracia de buscar y la
 
-gracia de creer, que los inducir a suspirar por Jess y a tener hambre y sed
+gracia de creer, que los inducirá a suspirar por Jesús y a tener hambre y sed
 
-de l.
+de Él.
 
-Para todo aqul que
+Para todo aquél que
 
-sea, como Cristo, para Dios escogido y precioso, para toda alma redimida, sin
+sea, como Cristo, “para Dios escogido y precioso”, para toda alma redimida, sin
 
-importar cun hundida est en el pecado, cun perdida y arruinada sea por la
+importar cuán hundida esté en el pecado, cuán perdida y arruinada sea por la
 
-Cada, sin importar cunto odie a Dios y desprecie a su Redentor, esta promesa
+Caída, sin importar cuánto odie a Dios y desprecie a su Redentor, esta promesa
 
-sigue siendo vlida: Pondr dentro de vosotros mi Espritu; y, a su debido
+sigue siendo válida: “Pondré dentro de vosotros mi Espíritu”; y, a su debido
 
-tiempo, cada uno de ellos tendr ese Espritu, que los revivir de los muertos,
+tiempo, cada uno de ellos tendrá ese Espíritu, que los revivirá de los muertos,
 
-los inducir a buscar el perdn, los conducir a confiar en Cristo, y los
+los inducirá a buscar el perdón, los conducirá a confiar en Cristo, y los
 
-adoptar en la familia viviente de Dios.
+adoptará en la familia viviente de Dios.
 
 La promesa se
 
-relaciona tambin con una bendicin interna que ha de ser otorgada: Pondr
+relaciona también con una bendición interna que ha de ser otorgada: “Pondré
 
 dentro
 
-de vosotros mi Espritu.
+de vosotros mi Espíritu”.
 
-Recuerden que tenemos el Espritu de Dios en Su Palabra escrita, y tambin con
+Recuerden que tenemos el Espíritu de Dios en Su Palabra escrita, y también con
 
-todo fiel ministro del Evangelio, y el Espritu nos es concedido de igual
+todo fiel ministro del Evangelio, y el Espíritu nos es concedido de igual
 
-manera en las ordenanzas de la Iglesia de Cristo. Dios nos est dando
+manera en las ordenanzas de la Iglesia de Cristo. Dios nos está dando
 
-perpetuamente el Espritu a travs de estos medios. Pero sera en vano que
+perpetuamente el Espíritu a través de estos medios. Pero sería en vano que
 
-oyramos acerca del Espritu, o que hablramos de l, o que creyramos en l, a
+oyéramos acerca del Espíritu, o que habláramos de Él, o que creyéramos en Él, a
 
-menos que experimentemos Su poder dentro de nosotros; aqu, por tanto, tenemos la
+menos que experimentemos Su poder dentro de nosotros; aquí, por tanto, tenemos la
 
-promesa de esa bendicin interna: Pondr dentro de vosotros mi Espritu.
+promesa de esa bendición interna: “Pondré dentro de vosotros mi Espíritu”.
 
 Vamos a considerar
 
-ahora esta promesa en todo su alcance; rogamos que el propio Espritu Santo
+ahora esta promesa en todo su alcance; ˇrogamos que el propio Espíritu Santo
 
-nos ayude para hacerlo! Tomaremos las diversas obras del Espritu Santo, una a
+nos ayude para hacerlo! Tomaremos las diversas obras del Espíritu Santo, una a
 
-una, y recordaremos que, en todas las obras que realiza, el Espritu participa
+una, y recordaremos que, en todas las obras que realiza, el Espíritu participa
 
-en el pacto para ser posedo por cada uno de los creyentes.
+en el pacto para ser poseído por cada uno de los creyentes.
 
 I.
 
-En primer lugar, Cristo nos ensea que: El ESPRITU ES EL QUE DA VIDA.
+En primer lugar, Cristo nos enseńa que: “El ESPÍRITU ES EL QUE DA VIDA.”
 
 Hasta que se complace en soplar sobre el alma, el alma
 
-est muerta a toda vida espiritual.
+está muerta a toda vida espiritual.
 
 No es sino hasta que
 
-el Espritu, como un viento celestial, sopla sobre los huesos secos y pone la
+el Espíritu, como un viento celestial, sopla sobre los huesos secos y pone la
 
-vida en ellos, que esos huesos pueden vivir. Ustedes podran tomar un cadver y
+vida en ellos, que esos huesos pueden vivir. Ustedes podrían tomar un cadáver y
 
-vestirlo con todas las vestiduras de la decencia exterior; podran lavarlo con
+vestirlo con todas las vestiduras de la decencia exterior; podrían lavarlo con
 
-el agua de la moralidad; s, podran engalanarlo con la corona de la profesin,
+el agua de la moralidad; sí, podrían engalanarlo con la corona de la profesión,
 
 poner sobre su sien una tiara de belleza y pintar sus mejillas hasta volverlas
 
-semejantes a la vida misma. Pero han de recordar que a menos que el espritu
+semejantes a la vida misma. Pero han de recordar que a menos que el espíritu
 
-est all, la corrupcin se apoderar muy pronto de ese cadver.
+esté allí, la corrupción se apoderará muy pronto de ese cadáver.
 
 Entonces, amados, es
 
-el Espritu quien es el Vivificador; ustedes habran estado ahora muertos en
+el Espíritu quien es el Vivificador; ustedes habrían estado ahora “muertos en
 
-vuestros delitos y pecados como siempre lo estuvieron, si no hubiese sido por
+vuestros delitos y pecados” como siempre lo estuvieron, si no hubiese sido por
 
-el Espritu Santo, que los revivi. Ustedes yacan, no simplemente arrojados
+el Espíritu Santo, que los revivió. Ustedes yacían, no simplemente “arrojados
 
-sobre la faz del campo, sino, peor todava que eso, eran la propia presa de la
+sobre la faz del campo”, sino, peor todavía que eso, eran la propia presa de la
 
-mortalidad; la corrupcin era su padre, el gusano era su madre y su hermana;
+mortalidad; la corrupción era su padre, el gusano era su madre y su hermana;
 
-ustedes eran un olor desagradable para la nariz del Todopoderoso. Fue as que
+ustedes eran un olor desagradable para la nariz del Todopoderoso. Fue así que
 
-el Salvador los contempl en toda su abominacin, y les dijo: Vivid. En aquel
+el Salvador los contempló en toda su abominación, y les dijo: “Vivid”. En aquel
 
-momento, ustedes fueron hechos renacer para una esperanza viva, por la
+momento, ustedes fueron “hechos renacer para una esperanza viva, por la
 
-resurreccin de Jesucristo de los muertos. La vida entr en ustedes siguiendo
+resurrección de Jesucristo de los muertos.” La vida entró en ustedes siguiendo
 
-Su mandato; fue entonces que el Espritu los vivific. Las palabras de Jess
+Su mandato; fue entonces que el Espíritu los vivificó. Las palabras de Jesús
 
-son, segn les dijo a Sus discpulos: Las palabras que yo os he hablado son
+son, según les dijo a Sus discípulos: “Las palabras que yo os he hablado son
 
-espritu y son vida. Ustedes fueron revividos enteramente por medio del poder
+espíritu y son vida.” Ustedes fueron revividos enteramente por medio del poder
 
-del Espritu vivificador.
+del Espíritu vivificador.
 
-El Espritu, como un viento celestial
+El Espíritu, como un viento celestial
 
 Sopla sobre los hijos de la carne;
 
 Recrea una mente celestial
 
-Y forma otra vez al hombre.
+Y forma otra vez al hombre.”
 
 Entonces, si ustedes
 
-sienten en cualquier momento -como sin duda habrn de sentirlo- que la muerte
+sienten en cualquier momento -como sin duda habrán de sentirlo- que la muerte
 
-est obrando en ustedes marchitando la floracin de su piedad, enfriando el
+está obrando en ustedes marchitando la floración de su piedad, enfriando el
 
 fervor de sus devociones y apagando el ardor de su fe, recuerden que
 
-aquel que primero los revivi ha de
+aquel que primero los revivió ha de
 
 guardarlos con vida.
 
-El Espritu de Dios es la savia que fluy dentro su
+El Espíritu de Dios es la savia que fluyó dentro su
 
-pobre rama seca, debido a que fueron injertados en Cristo; y as como, por esa
+pobre rama seca, debido a que fueron injertados en Cristo; y así como, por esa
 
-savia, fueron inicialmente reverdecidos con vida, as tambin, es nicamente
+savia, fueron inicialmente reverdecidos con vida, así también, es únicamente
 
-por esa savia que pueden producir alguna vez fruto para Dios. Por el Espritu
+por esa savia que pueden producir alguna vez fruto para Dios. Por el Espíritu
 
 respiraron por primera vez cuando clamaron pidiendo misericordia, y del mismo
 
-Espritu han de tomar aliento para alabar esa misericordia con himnos y
+Espíritu han de tomar aliento para alabar esa misericordia con himnos y
 
-antfonas de gozo. Habiendo comenzado por el Espritu, han de acabar por el
+antífonas de gozo. Habiendo comenzado por el Espíritu, han de acabar por el
 
-Espritu. La carne para nada aprovecha; las obras de la ley no les ayudarn;
+Espíritu. “La carne para nada aprovecha”; las obras de la ley no les ayudarán;
 
 los pensamientos y las estratagemas de sus propios corazones son vanos. Si Dios
 
-el Espritu Santo se retirara de ustedes, seran separados de Cristo, seran
+el Espíritu Santo se retirara de ustedes, serían separados de Cristo, serían
 
-ms depravados de lo que eran antes de su conversin y seran ms corruptos de
+más depravados de lo que eran antes de su conversión y serían más corruptos de
 
-lo que eran antes de ser regenerados: dos veces muertos y desarraigados.
+lo que eran antes de ser regenerados: “dos veces muertos y desarraigados”.
 
 Ustedes han de vivir en Su vida, confiar en Su poder para sustentarlos, y
 
-buscar en l las nuevas provisiones cuando la marea de su vida espiritual est
+buscar en Él las nuevas provisiones cuando la marea de su vida espiritual esté
 
 bajando de nivel.
 
 II.
 
-NECESITAMOS AL ESPRITU SANTO, COMO UN ESPRITU AUXILIAR EN TODOS LOS
+NECESITAMOS AL ESPÍRITU SANTO, COMO UN ESPÍRITU AUXILIAR EN TODOS LOS
 
 DEBERES QUE DEBEMOS REALIZAR.
 
 El deber cristiano
 
-ms comn es el de
+más común es el de
 
-la oracin;
+la oración;
 
 pues
 
-el ms insignificante hijo de Dios ha de ser un hijo que ora. Recuerden,
+el más insignificante hijo de Dios ha de ser un hijo que ora. Recuerden,
 
-entonces, que est escrito: De igual manera el Espritu nos ayuda en nuestra
+entonces, que está escrito: “De igual manera el Espíritu nos ayuda en nuestra
 
-debilidad; pues qu hemos de pedir como conviene, no lo sabemos. El Espritu
+debilidad; pues qué hemos de pedir como conviene, no lo sabemos.” El Espíritu
 
-de Dios est en el pacto como nuestra grandiosa ayuda en todas nuestras
+de Dios está en el pacto como nuestra grandiosa ayuda en todas nuestras
 
 peticiones al trono de la gracia.
 
-Hijo de Dios, t no
+Hijo de Dios, tú no
 
-sabes qu es lo que debes pedir; apyate, entonces, en el Espritu, como el
+sabes qué es lo que debes pedir; apóyate, entonces, en el Espíritu, como el
 
-Inspirador de la oracin, quien te dir cmo debes orar. Algunas veces no sabes
+Inspirador de la oración, quien te dirá cómo debes orar. Algunas veces no sabes
 
-cmo expresar aquello que deseas; apyate en el Espritu, entonces, como en
+cómo expresar aquello que deseas; apóyate en el Espíritu, entonces, como en
 
-Aquel que puede tocar tus labios con un carbn encendido, tomado del altar,
+Aquel que puede tocar tus labios con “un carbón encendido, tomado del altar”,
 
-por medio del cual sers capaz de derramar tus fervientes deseos delante del
+por medio del cual serás capaz de derramar tus fervientes deseos delante del
 
 trono.
 
 A veces, incluso
 
-cuando t tienes vida y poder dentro de ti,
+cuando tú tienes vida y poder dentro de ti,
 
 eres incapaz
 
-de expresar tus emociones interiores; entonces descansa en ese Espritu para
+de expresar tus emociones interiores; entonces descansa en ese Espíritu para
 
-interpretar tus sentimientos, pues l intercede por nosotros con gemidos
+interpretar tus sentimientos, pues Él “intercede por nosotros con gemidos
 
-indecibles. Cuando, a semejanza de Jacob, ests luchando con el ngel y has
+indecibles.” Cuando, a semejanza de Jacob, estás luchando con el ángel y has
 
-sido casi derribado, pdele al Espritu que vigorice tus brazos. El Espritu
+sido casi derribado, pídele al Espíritu que vigorice tus brazos. El Espíritu
 
-Santo es la rueda del carro de la oracin. La oracin es el carro, el deseo
+Santo es la rueda del carro de la oración. La oración es el carro, el deseo
 
-puede proporcionar el impulso hacia delante, pero el Espritu es la propia
+puede proporcionar el impulso hacia delante, pero el Espíritu es la propia
 
-rueda que hace que se mueva. l empuja al deseo y hace que el carro ruede
+rueda que hace que se mueva. Él empuja al deseo y hace que el carro ruede
 
-velozmente y lleve al cielo las splicas de los santos, siempre que el deseo
+velozmente y lleve al cielo las súplicas de los santos, siempre que el deseo
 
-del corazn sea segn la voluntad de Dios.
+del corazón sea “según la voluntad de Dios.”
 
 Otro deber, al que
 
 son llamados algunos de los hijos de Dios, es el de
 
-la predicacin,
+la predicación,
 
-y tambin en esto necesitamos que el Espritu Santo
+y también en esto necesitamos que el Espíritu Santo
 
 nos habilite. Aquellos a quienes Dios llama a predicar el Evangelio, son
 
-ayudados con poder de lo alto. l ha dicho: He aqu yo estoy con vosotros
+ayudados con poder de lo alto. Él ha dicho: “He aquí yo estoy con vosotros
 
-todos los das, hasta el fin del mundo. Es algo solemne entrar en la obra del
+todos los días, hasta el fin del mundo”. Es algo solemne entrar en la obra del
 
-ministerio. Slo voy a hacer una observacin aqu, pues, en este lugar, hay
+ministerio. Sólo voy a hacer una observación aquí, pues, en este lugar, hay
 
-jvenes que estn procurando entrar en el ministerio aunque casi no conozcan el
+jóvenes que están procurando entrar en el ministerio aunque casi no conozcan el
 
 alfabeto del Evangelio; ellos se erigen como predicadores de la Palabra de
 
-Dios, cuando lo primero que deberan hacer es unirse a la clase de prvulos en
+Dios, cuando lo primero que deberían hacer es unirse a la clase de párvulos en
 
-una escuela para aprender a leer apropiadamente. Yo s que hay algunos a
+una escuela para aprender a leer apropiadamente. Yo sé que hay algunos a
 
 quienes Dios ha dado el deseo de buscar en el ministerio la gloria de Su nombre
 
-y el bienestar de las almas, y que humildemente esperan a que l les abra el
+y el bienestar de las almas, y que humildemente esperan a que Él les abra el
 
-camino; que Dios los bendiga, y los lleve con bien! Pero, podran creerlo?,
+camino; ˇque Dios los bendiga, y los lleve con bien! Pero, żpodrían creerlo?,
 
-un joven fue bautizado y recibido en la iglesia un domingo, y positivamente
+un joven fue bautizado y recibido en la iglesia un domingo, ˇy positivamente
 
-fue a un Instituto bblico el da lunes o martes para preguntar si le queran
+fue a un Instituto bíblico el día lunes o martes para preguntar si le querían
 
-recibir! Yo le pregunt si haba predicado alguna vez antes, o si se haba
+recibir! Yo le pregunté si había predicado alguna vez antes, o si se había
 
-dirigido a media docena de estudiantes de la escuela dominical. l respondi
+dirigido a media docena de estudiantes de la escuela dominical. Él respondió
 
-que no. Pero lo que ms me sorprendi fue que dijo que haba sido llamado a
+que “no”. ˇPero lo que más me sorprendió fue que dijo que había sido llamado a
 
 la obra antes de ser convertido! Era un llamado del diablo, lo creo
 
-verdaderamente; no se trataba de un llamado de Dios en lo ms mnimo. Tengan
+verdaderamente; no se trataba de un llamado de Dios en lo más mínimo. Tengan
 
-cuidado de no tocar el arca de Dios con dedos impos. Todos ustedes pueden
+cuidado de no tocar el arca de Dios con dedos impíos. Todos ustedes pueden
 
 predicar, si pueden, pero tengan cuidado de no colocarse en el ministerio sin
 
-tener una solemne conviccin de que el Espritu de lo alto los haya apartado;
+tener una solemne convicción de que el Espíritu de lo alto los haya apartado;
 
-pues, si lo hicieran, la sangre de las almas ser encontrada en las faldas de
+pues, si lo hicieran, la sangre de las almas será encontrada en las faldas de
 
 sus vestidos. Demasiados se han apresurado a entrar en el lugar santo, sin
 
 tener el llamado de Dios; esos mismos, si hubieran podido salir apresuradamente
 
-del lugar santo en su lecho de muerte, habran tenido un eterno motivo de
+del lugar santo en su lecho de muerte, habrían tenido un eterno motivo de
 
 gratitud. Pero ellos corrieron presuntuosamente, luego predicaron sin ser
 
 enviados, y por tanto, sin ser bendecidos; y, al morir, sintieron una mayor
 
-condenacin proveniente del hecho que haban asumido un oficio al cual Dios
+condenación proveniente del hecho que habían asumido un oficio al cual Dios
 
-nunca los haba asignado. Eviten hacer eso; pero si Dios los ha llamado, sin
+nunca los había asignado. Eviten hacer eso; pero si Dios los ha llamado, sin
 
-importar cun poco talento pudieran tener, no tengan miedo del enfado ni de la
+importar cuán poco talento pudieran tener, no tengan miedo del enfado ni de la
 
-censura de nadie. Si poseen una solemne conviccin en sus almas de que Dios los
+censura de nadie. Si poseen una solemne convicción en sus almas de que Dios los
 
 ha ordenado realmente a la obra del ministerio, y si han obtenido un sello para
 
-su comisin, en la conversin de al menos un alma, ni la muerte ni el infierno
+su comisión, en la conversión de al menos un alma, ni la muerte ni el infierno
 
 han de detenerlos; prosigan directamente y no piensen nunca que han de contar
 
-con ciertas dotes para ser predicadores exitosos. El nico don necesario para
+con ciertas dotes para ser predicadores exitosos. El único don necesario para
 
-el xito en el ministerio, es el don del Espritu Santo.
+el éxito en el ministerio, es el don del Espíritu Santo.
 
 El viernes pasado, cuando
 
-predicaba en presencia de un grupo de ministros y uno de ellos me pregunt cmo
+predicaba en presencia de un grupo de ministros y uno de ellos me preguntó cómo
 
-era que Dios se haba agradado en bendecirme tanto en este lugar, les coment a
+era que Dios se había agradado en bendecirme tanto en este lugar, les comenté a
 
-los hermanos all presentes: No hay nadie entre ustedes a quien Dios no
+los hermanos allí presentes: “No hay nadie entre ustedes a quien Dios no
 
-pudiera bendecir diez veces ms, si tuviera diez veces ms al Espritu. Pues
+pudiera bendecir diez veces más, si tuviera diez veces más al Espíritu.” Pues
 
-no se trata de ninguna habilidad del hombre, -no es ninguna calificacin
+no se trata de ninguna habilidad del hombre, -no es ninguna calificación
 
-humana- sino que lo nico necesario es simplemente la influencia del Espritu
+humana- sino que lo único necesario es simplemente la influencia del Espíritu
 
 de Dios; y me ha agradado verme insultado como ignorante, indocto y desprovisto
 
-de elocuencia, todo lo cual yo saba desde mucho antes; pero resulta ser mucho
+de elocuencia, todo lo cual yo sabía desde mucho antes; pero resulta ser mucho
 
-mejor as, pues entonces toda la gloria le pertenece a Dios. Que los hombres
+mejor así, pues entonces toda la gloria le pertenece a Dios. Que los hombres
 
-digan lo que quieran, pues yo siempre confesar que eso es verdad. Yo
+digan lo que quieran, pues yo siempre confesaré que eso es verdad. Yo
 
 soy
 
-un necio: Me he hecho un necio al
+un necio: “Me he hecho un necio al
 
-gloriarme, si ustedes quieren. He de tomar cualquier ttulo oprobioso que los
+gloriarme”, si ustedes quieren. He de tomar cualquier título oprobioso que los
 
 mundanos quieran imponerme; pero ellos no pueden negar el hecho de que Dios
 
 bendice mi ministerio, que las rameras han sido salvadas, que los borrachos han
 
-sido recuperados, que algunos de los personajes ms abandonados han sido
+sido recuperados, que algunos de los personajes más abandonados han sido
 
-cambiados, y que Dios ha realizado una obra en su medio que no haban visto
+cambiados, y que Dios ha realizado una obra en su medio que no habían visto
 
 nunca antes en su vida. Por tanto, demos toda la gloria a Su santo nombre.
 
-Arrojen todo el reproche que quieran sobre m, ustedes, mundanos; mayor honra
+Arrojen todo el reproche que quieran sobre mí, ustedes, mundanos; mayor honra
 
-habr para Dios, que obra como l quiere y con el instrumento que l elige, independientemente
+habrá para Dios, que obra como Él quiere y con el instrumento que Él elige, independientemente
 
 del hombre.
 
-Adems, amadsimos
+Además, amadísimos
 
-mos, para cualquier trabajo,
+míos, para cualquier trabajo,
 
 para cualquier
 
 cosa que Dios les haya ordenado hacer en este mundo, ustedes tienen igual
 
-certeza de tener la ayuda del Espritu Santo en ello.
+certeza de tener la ayuda del Espíritu Santo en ello.
 
 Si se trata de la
 
-enseanza de una clase de nios en la escuela dominical, no crean que no
+enseńanza de una clase de nińos en la escuela dominical, no crean que no
 
-pudieran tener al Espritu Santo. Su socorro les ser concedido tan libremente
+pudieran tener al Espíritu Santo. Su socorro les será concedido tan libremente
 
-a ustedes como al hombre que predica a una gran asamblea. Ests sentado junto
+a ustedes como al hombre que predica a una gran asamblea. żEstás sentado junto
 
-al lecho de alguna pobre mujer moribunda? Debes creer que el Espritu Santo
+al lecho de alguna pobre mujer moribunda? Debes creer que el Espíritu Santo
 
-vendr a ti all, de la misma manera que si estuvieras ministrando los sagrados
+vendrá a ti allí, de la misma manera que si estuvieras ministrando los sagrados
 
-elementos de la cena del Seor. Debes buscar tu fuerza en Dios, tanto para la
+elementos de la cena del Seńor. Debes buscar tu fuerza en Dios, tanto para la
 
-tarea ms humilde como para la ms excelsa.
+tarea más humilde como para la más excelsa.
 
-Labrador
+ˇLabrador
 
-espiritual, afila la reja de tu arado con el Espritu! Sembrador espiritual,
+espiritual, afila la reja de tu arado con el Espíritu! ˇSembrador espiritual,
 
-hunde tu semilla en el Espritu, para que germine; y pdele al Espritu que te
+hunde tu semilla en el Espíritu, para que germine; y pídele al Espíritu que te
 
-d gracia para esparcirla, para que caiga en los surcos propicios! Guerrero
+dé gracia para esparcirla, para que caiga en los surcos propicios! ˇGuerrero
 
-espiritual, afila tu espada con el Espritu, y pdele al Espritu, cuya Palabra
+espiritual, afila tu espada con el Espíritu, y pídele al Espíritu, cuya Palabra
 
 es una espada de dos filos, que fortalezca tu brazo para blandirla!
 
 III.
 
-El tercer punto al que hacemos referencia es que EL ESPRITU SANTO ES DADO
+El tercer punto al que hacemos referencia es que EL ESPÍRITU SANTO ES DADO
 
-A LOS HIJOS DE DIOS COMO UN ESPRITU DE REVELACIN Y DE INSTRUCCIN.
+A LOS HIJOS DE DIOS COMO UN ESPÍRITU DE REVELACIÓN Y DE INSTRUCCIÓN.
 
-l nos llama de las
+Él nos llama “de las
 
-tinieblas a su luz admirable. Por naturaleza, nosotros somos ignorantes, y lo
+tinieblas a su luz admirable”. Por naturaleza, nosotros somos ignorantes, y lo
 
-somos en extremo; pero el Espritu Santo ensea a la familia de Dios, y los
+somos en extremo; pero el Espíritu Santo enseńa a la familia de Dios, y los
 
-hace sabios. Vosotros tenis la uncin del Santo, -dice el apstol Juan- y
+hace sabios. “Vosotros tenéis la unción del Santo”, -dice el apóstol Juan- “y
 
-conocis todas las cosas.
+conocéis todas las cosas”.
 
 Estudiante de la
 
-escuela de Cristo, quieres ser sabio? No le pidas al telogo que te exponga su
+escuela de Cristo, żquieres ser sabio? No le pidas al teólogo que te exponga su
 
-sistema de teologa; sino, sentado mansamente a los pies de Jess, pdele que
+sistema de teología; sino, sentado mansamente a los pies de Jesús, pídele que
 
-Su Espritu te instruya, pues yo te digo, estudiante, que aunque leas la Biblia
+Su Espíritu te instruya, pues yo te digo, estudiante, que aunque leas la Biblia
 
-durante muchos aos, y pases sus pginas continuamente, no aprenderas nada de
+durante muchos ańos, y pases sus páginas continuamente, no aprenderías nada de
 
-sus misterios ocultos sin el Espritu. Pero, quiz, en un momento solitario de
+sus misterios ocultos sin el Espíritu. Pero, quizá, en un momento solitario de
 
-tu estudio, iluminado sbitamente por el Espritu, aprenders una verdad tan
+tu estudio, iluminado súbitamente por el Espíritu, aprenderás una verdad tan
 
-rpidamente como ves el centelleo de un relmpago.
+rápidamente como ves el centelleo de un relámpago.
 
-Personas jvenes, estn
+Personas jóvenes, żestán
 
-laborando para entender la doctrina de la eleccin? El Espritu Santo,
+laborando para entender la doctrina de la elección? El Espíritu Santo,
 
-nicamente, es quien puede revelarla a su corazn y hacer que la comprendan. Estn
+únicamente, es quien puede revelarla a su corazón y hacer que la comprendan. żEstán
 
-tironeando y afanndose con la doctrina de la depravacin humana? El Espritu
+tironeando y afanándose con la doctrina de la depravación humana? El Espíritu
 
-Santo ha de revelarles la profundidad de la perversidad del corazn humano.
+Santo ha de revelarles la profundidad de la perversidad del corazón humano.
 
-Quieren conocer el secreto de la vida del creyente, conforme vive por la fe
+żQuieren conocer el secreto de la vida del creyente, conforme vive por la fe
 
-del Hijo de Dios, y la misteriosa comunin con el Seor de la que goza? Habr
+del Hijo de Dios, y la misteriosa comunión con el Seńor de la que goza? Habrá
 
-de ser siempre un misterio para ustedes, a menos que el Espritu Santo la abra
+de ser siempre un misterio para ustedes, a menos que el Espíritu Santo la abra
 
 a sus corazones.
 
 Siempre que leas la
 
-Biblia, clama al Espritu: Abre mis ojos, y mirar las maravillas de tu ley.
+Biblia, clama al Espíritu: “Abre mis ojos, y miraré las maravillas de tu ley”.
 
-El Espritu proporciona colirio a los ciegos; y si tus ojos no estn abiertos
+El Espíritu proporciona colirio a los ciegos; y si tus ojos no están abiertos
 
-ahora, busca el colirio y as podrs ver, s, y ver tan claramente que aquel
+ahora, busca el colirio y así podrás ver, sí, y ver tan claramente que aquel
 
-que slo ha aprendido en la escuela del hombre, preguntar: Cmo sabe ste
+que sólo ha aprendido en la escuela del hombre, preguntará: “żCómo sabe éste
 
-letras, sin haber estudiado? Aquellos que son enseados por el Espritu
+letras, sin haber estudiado?” Aquellos que son enseńados por el Espíritu
 
-sobrepasan a menudo a quien es enseado por el hombre. Yo me he encontrado con un
+sobrepasan a menudo a quien es enseńado por el hombre. Yo me he encontrado con un
 
-labriego enteramente desprovisto de instruccin, en el campo, que nunca fue a
+labriego enteramente desprovisto de instrucción, en el campo, que nunca fue a
 
-la escuela ni siquiera por una hora en su vida, y que, sin embargo, saba ms
+la escuela ni siquiera por una hora en su vida, y que, sin embargo, sabía más
 
-acerca de las Santas Escrituras que muchos clrigos educados en la Universidad.
+acerca de las Santas Escrituras que muchos clérigos educados en la Universidad.
 
-Me han informado que es una prctica comn de los hombres de Gales, mientras
+Me han informado que es una práctica común de los hombres de Gales, mientras
 
-trabajan partiendo piedras en el camino, discutir puntos difciles de la
+trabajan partiendo piedras en el camino, discutir puntos difíciles de la
 
-teologa que muchos telogos no pueden dominar; y esto es debido a que ellos
+teología que muchos teólogos no pueden dominar; y esto es debido a que ellos
 
-leen humildemente las Escrituras, confiando nicamente en la gua del Espritu
+leen humildemente las Escrituras, confiando únicamente en la guía del Espíritu
 
-Santo, y creyendo que l los conducir a toda la verdad; y a l le agrada
+Santo, y creyendo que Él los conducirá a toda la verdad; y a Él le agrada
 
-hacerlo. Cualquier otra instruccin es muy aceptable. Salomn dice: el alma
+hacerlo. Cualquier otra instrucción es muy aceptable. Salomón dice: “el alma
 
-sin ciencia no es buena. Todos nosotros deberamos procurar saber tanto como
+sin ciencia no es buena”. Todos nosotros deberíamos procurar saber tanto como
 
-pueda saberse; pero hemos de recordar que, en la obra de la salvacin, el
+pueda saberse; pero hemos de recordar que, en la obra de la salvación, el
 
-verdadero conocimiento debe ser obtenido mediante la enseanza del Espritu
+verdadero conocimiento debe ser obtenido mediante la enseńanza del Espíritu
 
-Santo; y si queremos aprender en el corazn, y no meramente en la cabeza, hemos
+Santo; y si queremos aprender en el corazón, y no meramente en la cabeza, hemos
 
-de ser enseados enteramente por el Espritu Santo. Lo que aprenden del hombre,
+de ser enseńados enteramente por el Espíritu Santo. Lo que aprenden del hombre,
 
-pueden desaprenderlo; pero lo que aprenden del Espritu est fijado
+pueden desaprenderlo; pero lo que aprenden del Espíritu está fijado
 
-indeleblemente en su corazn y su conciencia, y ni siquiera el propio Satans
+indeleblemente en su corazón y su conciencia, y ni siquiera el propio Satanás
 
-podra robrselos a ustedes.
+podría robárselos a ustedes.
 
 Vayan, ustedes,
 
-ignorantes, que a menudo titubean ante las verdades de la revelacin; vayan, y
+ignorantes, que a menudo titubean ante las verdades de la revelación; vayan, y
 
-pregntenle al Espritu, pues l es el Gua de las almas sumidas en la
+pregúntenle al Espíritu, pues Él es el Guía de las almas sumidas en la
 
-oscuridad; s, y el Gua de Su propio pueblo iluminado tambin, pues, sin Su
+oscuridad; sí, y el Guía de Su propio pueblo iluminado también, pues, sin Su
 
-ayuda, incluso cuando han sido iluminados y han gustado del don celestial, no
+ayuda, incluso cuando han sido “iluminados y han gustado del don celestial”, no
 
-entenderan toda la verdad, a menos que l los adentrara en ella.
+entenderían toda la verdad, a menos que Él los adentrara en ella.
 
 IV.
 
-Deseo adems mencionar que DIOS NOS DAR EL ESPRITU COMO UN ESPRITU DE
+Deseo además mencionar que DIOS NOS DARÁ EL ESPÍRITU COMO UN ESPÍRITU DE
 
-APLICACIN.
+APLICACIÓN.
 
-As fue como Jess
+Así fue como Jesús
 
-dijo a Sus discpulos: l me glorificar; porque tomar de lo mo, y os lo
+dijo a Sus discípulos: “Él me glorificará; porque tomará de lo mío, y os lo
 
-har saber. Para simplificar el asunto, nuestro Seor agreg: Todo lo que
+hará saber”. Para simplificar el asunto, nuestro Seńor agregó: “Todo lo que
 
-tiene el Padre es mo; por eso dije que tomar de lo mo, y os lo har saber.
+tiene el Padre es mío; por eso dije que tomará de lo mío, y os lo hará saber”.
 
-Permtanme recordarles cun frecuentemente Jess recalc a Sus discpulos el
+Permítanme recordarles cuán frecuentemente Jesús recalcó a Sus discípulos el
 
-hecho de que l les hablaba las palabras de Su Padre: Mi doctrina no es ma,
+hecho de que Él les hablaba las palabras de Su Padre: “Mi doctrina no es mía,
 
-sino de aquel que me envi. Y tambin: Las palabras que yo os hablo, no las
+sino de aquel que me envió”. Y también: “Las palabras que yo os hablo, no las
 
-hablo por mi propia cuenta, sino que el Padre que mora en m, l hace las
+hablo por mi propia cuenta, sino que el Padre que mora en mí, él hace las
 
-obras. As como Cristo dio a conocer la voluntad de Dios el Padre a Su pueblo,
+obras”. Así como Cristo dio a conocer la voluntad de Dios el Padre a Su pueblo,
 
-as tambin el Espritu Santo nos da a conocer las palabras de Cristo. Yo casi
+así también el Espíritu Santo nos da a conocer las palabras de Cristo. Yo casi
 
-podra afirmar que las palabras de Cristo no nos serviran de nada a menos que
+podría afirmar que las palabras de Cristo no nos servirían de nada a menos que
 
-nos fueran aplicadas por el Espritu Santo.
+nos fueran aplicadas por el Espíritu Santo.
 
 Amados, nosotros
 
-necesitamos la aplicacin para asegurar a nuestros corazones que las palabras
+necesitamos la aplicación para asegurar a nuestros corazones que las palabras
 
-son nuestras, que estn dirigidas a nosotros, y que tenemos un inters en su
+son nuestras, que están dirigidas a nosotros, y que tenemos un interés en su
 
-bendicin; y necesitamos la uncin del Espritu para hacer que humedezcan
+bendición; y necesitamos la unción del Espíritu para hacer que humedezcan
 
 nuestros corazones y refresquen nuestras almas.
 
-Vieron alguna vez
+żVieron alguna vez
 
-una promesa aplicada a su corazn? Entienden lo que significa
+una promesa aplicada a su corazón? żEntienden lo que significa
 
-aplicacin
+aplicación
 
 como la obra exclusiva del
 
-Espritu? Sucede tal como Pablo dice que el Evangelio lleg a los
+Espíritu? Sucede tal como Pablo dice que el Evangelio llegó a los
 
-tesalonicenses: No lleg a vosotros en palabras solamente, sino tambin en
+tesalonicenses: “No llegó a vosotros en palabras solamente, sino también en
 
-poder, en el Espritu Santo y en plena certidumbre. Algunas veces llega sbitamente;
+poder, en el Espíritu Santo y en plena certidumbre”. Algunas veces llega súbitamente;
 
-el corazn suyo pudo haber sido la escena de mil pensamientos distrados, una
+el corazón suyo pudo haber sido la escena de mil pensamientos distraídos, una
 
-oleada rompiendo contra otra oleada, hasta que la tempestad creci fuera de su
+oleada rompiendo contra otra oleada, hasta que la tempestad creció fuera de su
 
-control. En seguida, algn texto de la Escritura, como un potente hgase salido
+control. En seguida, algún texto de la Escritura, como un potente ‘hágase’ salido
 
-de los labios de Jess, aquiet su turbado pecho y se dio inmediatamente una
+de los labios de Jesús, aquietó su turbado pecho y se dio inmediatamente una
 
-gran calma, y se han preguntado de dnde vino. La dulce frase reson como
+gran calma, y se han preguntado de dónde vino. La dulce frase resonó como
 
-msica en sus odos; como un hojaldre rociado de miel, humedeci su lengua;
+música en sus oídos; como un hojaldre rociado de miel, humedeció su lengua;
 
-como un encanto, sofoc sus ansiedades, a la vez que ha morado de manera
+como un encanto, sofocó sus ansiedades, a la vez que ha morado de manera
 
-suprema en sus pensamientos todo el da, reinando en todas sus ingobernables
+suprema en sus pensamientos todo el día, reinando en todas sus ingobernables
 
 pasiones y agitadas pugnas. Tal vez ha continuado en su mente por semanas;
 
-adondequiera que iban, independientemente de lo que hicieran, no podan
+adondequiera que iban, independientemente de lo que hicieran, no podían
 
-desalojarla, ni tampoco queran hacerlo, tan dulce y tan sabrosa era para su
+desalojarla, ni tampoco querían hacerlo, tan dulce y tan sabrosa era para su
 
-alma. Acaso no han pensado sobre algn texto que es el mejor de la Biblia, el
+alma. żAcaso no han pensado sobre algún texto que es el mejor de la Biblia, el
 
-ms precioso de todas las Escrituras? Eso se debi a que fue aplicado a ustedes
+más precioso de todas las Escrituras? Eso se debió a que fue aplicado a ustedes
 
 por gracia.
 
-Oh, cunto amo las
+ˇOh, cuánto amo las
 
-promesas aplicadas! Yo podra leer mil promesas que estn registradas en las
+promesas aplicadas! Yo podría leer mil promesas que están registradas en las
 
-pginas de este Sagrado Volumen, y sin embargo, no obtener nada de ellas; mi
+páginas de este Sagrado Volumen, y sin embargo, no obtener nada de ellas; mi
 
-corazn no ardera dentro de m a pesar de todas las riquezas del repositorio;
+corazón no ardería dentro de mí a pesar de todas las riquezas del repositorio;
 
-pero una promesa comprendida por mi alma por la aplicacin del Espritu,
+pero una promesa comprendida por mi alma por la aplicación del Espíritu,
 
-contiene tanta mdula y grosura que constituira un alimento suficiente para
+contiene tanta médula y grosura que constituiría un alimento suficiente para
 
-cuarenta das para muchos Elas del Seor. Cun dulce es, en los tiempos de
+cuarenta días para muchos Elías del Seńor. Cuán dulce es, en los tiempos de
 
-profunda afliccin, experimentar que esta promesa es aplicada al corazn: Cuando
+profunda aflicción, experimentar que esta promesa es aplicada al corazón: “Cuando
 
-pases por las aguas, yo estar contigo; y si por los ros, no te anegarn. Cuando
+pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando
 
-pases por el fuego, no te quemars, ni la llama arder en ti. Tal vez digas:
+pases por el fuego, no te quemarás, ni la llama arderá en ti”. Tal vez digas:
 
-eso es puro entusiasmo. Por supuesto que as les parece a ustedes; como
+“eso es puro entusiasmo”. Por supuesto que así les parece a ustedes; como
 
-hombres naturales, no disciernen las cosas del Espritu; pero nosotros estamos
+hombres naturales, no disciernen las cosas del Espíritu; pero nosotros estamos
 
 hablando acerca de cosas espirituales a hombres espirituales, y para ellos no
 
 es un mero entusiasmo. Con frecuencia es un asunto de vida o muerte. He
 
-conocido numerosos casos en los que casi el nico tabln sobre el que el pobre
+conocido numerosos casos en los que casi el único tablón sobre el que el pobre
 
 santo atribulado fue capaz de flotar fue simplemente un texto, del cual, de una
 
-manera u otra, l haba alcanzado un entendimiento tan ntimo que nada podra
+manera u otra, él había alcanzado un entendimiento tan íntimo que nada podría
 
-arrebatrselo.
+arrebatárselo.
 
-Y no es slo Su
+Y no es sólo Su
 
-Palabra la que necesita ser aplicada a nosotros. Tomar de lo mo, y os lo
+Palabra la que necesita ser aplicada a nosotros. “Tomará de lo mío, y os lo
 
-har saber, podra referirse, de igual manera, a la sangre preciosa de nuestro
+hará saber”, podría referirse, de igual manera, a la sangre preciosa de nuestro
 
 Salvador. Algunas veces cantamos:
 
-Hay una fuente llena con sangre,
+“Hay una fuente llena con sangre”,
 
 y
 
-hablamos de baarnos en ella. Ahora, la fe no aplica la sangre al alma;
+hablamos de bańarnos en ella. Ahora, la fe no aplica la sangre al alma;
 
-eso corresponde Espritu. Cierto, yo lo busco por fe; pero es el Espritu quien
+eso corresponde Espíritu. Cierto, yo lo busco por fe; pero es el Espíritu quien
 
-me lava en un manantial abierto para la purificacin del pecado y de la
+me lava en “un manantial abierto… para la purificación del pecado y de la
 
-inmundicia. Es el Espritu quien recibe de las cosas de Cristo, y me las
+inmundicia”. Es el Espíritu quien recibe de las cosas de Cristo, y me las
 
-muestra. T no tendras nunca ni una gota de sangre rociada sobre tu corazn a
+muestra. Tú no tendrías nunca ni una gota de sangre rociada sobre tu corazón a
 
-menos que sea rociada por la mano del Espritu. As, tambin, el manto de la
+menos que sea rociada por la mano del Espíritu. Así, también, el manto de la
 
-justicia de Cristo es enteramente ajustado a nuestra medida por l. No somos
+justicia de Cristo es enteramente ajustado a nuestra medida por Él. No somos
 
-invitados a apropiarnos la obediencia de Cristo; pero el Espritu nos trae
+invitados a apropiarnos la obediencia de Cristo; pero el Espíritu nos trae
 
 todo
 
@@ -762,375 +762,375 @@ por
 
 nosotros.
 
-Pidan al Espritu,
+Pidan al Espíritu,
 
-entonces, que reciban la aplicacin de la Palabra, la aplicacin de la sangre,
+entonces, que reciban la aplicación de la Palabra, la aplicación de la sangre,
 
-la aplicacin del perdn y la aplicacin de la gracia, y no pedirn en vano;
+la aplicación del perdón y la aplicación de la gracia, y no pedirán en vano;
 
-pues Jehov ha dicho: Pondr dentro de vosotros mi Espritu.
+pues Jehová ha dicho: “Pondré dentro de vosotros mi Espíritu”.
 
 V.
 
-Pero ahora debemos sealar otro punto muy importante. HEMOS DE RECIBIR AL
+Pero ahora debemos seńalar otro punto muy importante. HEMOS DE RECIBIR AL
 
-ESPRITU COMO UN ESPRITU SANTIFICADOR.
+ESPÍRITU COMO UN ESPÍRITU SANTIFICADOR.
 
 Tal vez esta sea una
 
-de las mayores obras del Espritu Santo: la santificacin del alma. Es una gran
+de las mayores obras del Espíritu Santo: la santificación del alma. Es una gran
 
-obra purificar el alma del pecado; es ms grande que si uno lavara a un
+obra purificar el alma del pecado; es más grande que si uno lavara a un
 
-leopardo hasta borrarle las manchas, o a un etope hasta que su piel oscura se
+leopardo hasta borrarle las manchas, o a un etíope hasta que su piel oscura se
 
-volviera blanca, pues nuestros pecados estn a gran profundidad de la piel: han
+volviera blanca, pues nuestros pecados están a gran profundidad de la piel: han
 
-entrado en nuestra misma naturaleza. Si furamos completamente blanqueados
+entrado en nuestra misma naturaleza. Si fuéramos completamente blanqueados
 
-exteriormente esta maana, estaramos negros y contaminados antes de maana; y
+exteriormente esta mańana, estaríamos negros y contaminados antes de mańana; y
 
-si todas las manchas fueran quitadas hoy, se formaran otra vez maana, pues
+si todas las manchas fueran quitadas hoy, se formarían otra vez mańana, pues
 
-nosotros somos negros por completo. Podran restregar la carne, pero permanece
+nosotros somos negros por completo. Podrían restregar la carne, pero permanece
 
 negra hasta el fin; nuestra pecaminosidad es una lepra que yace profundamente
 
-dentro de nosotros. Pero el Espritu Santo santifica el alma; entra en el
+dentro de nosotros. Pero el Espíritu Santo santifica el alma; entra en el
 
-corazn, y comienza la obra de la santificacin por la conversin; mantiene la
+corazón, y comienza la obra de la santificación por la conversión; mantiene la
 
-posesin del corazn y preserva la santificacin, derramando perpetuamente el
+posesión del corazón y preserva la santificación, derramando perpetuamente el
 
-leo fresco de la gracia, hasta que al fin, perfeccionar la santificacin
+óleo fresco de la gracia, hasta que al fin, perfeccionará la santificación
 
-hacindonos puros y sin mancha, habilitados para morar con los ms
+haciéndonos puros y sin mancha, habilitados para morar con los más
 
 bienaventurados habitantes de la gloria.
 
 La manera en que el
 
-Espritu santifica es esta: primero revela al alma el mal del pecado, y hace al
+Espíritu santifica es esta: primero revela al alma el mal del pecado, y hace al
 
 alma odiarlo; le muestra que se trata de un mal mortal, lleno de veneno; y
 
-cuando el alma comienza a odiarlo, lo siguiente que hace el Espritu es
+cuando el alma comienza a odiarlo, lo siguiente que hace el Espíritu es
 
 mostrarle que la sangre de Cristo quita toda la culpa, y, de ese propio hecho,
 
-la conduce a odiar el pecado ms de lo que lo haca cuando conoci por primera
+la conduce a odiar el pecado más de lo que lo hacía cuando conoció por primera
 
-vez su negrura. El Espritu la lleva a la sangre rociada que habla mejor que
+vez su negrura. El Espíritu la lleva a “la sangre rociada que habla mejor que
 
-la de Abel; y all toca el taido fnebre del pecado al tiempo que seala a la
+la de Abel”; y allí toca el tańido fúnebre del pecado al tiempo que seńala a la
 
-sangre de Cristo y dice: l derram esta sangre por ti, para comprarte para
+sangre de Cristo y dice: “Él derramó esta sangre por ti, para comprarte para
 
-S, para que seas uno de los miembros de un pueblo propio, celoso de buenas
+Sí, para que seas uno de los miembros de un pueblo propio, celoso de buenas
 
-obras.
+obras”.
 
 Posteriormente, el
 
-Espritu Santo podra, a veces, permitir que el pecado aparezca en el corazn
+Espíritu Santo podría, a veces, permitir que el pecado aparezca en el corazón
 
-del hijo de Dios para que pueda ser reprimido ms fuertemente mediante una
+del hijo de Dios para que pueda ser reprimido más fuertemente mediante una
 
 mayor vigilancia en el futuro; y cuando el heredero del cielo se entrega al
 
-pecado, el Espritu Santo enva una disciplina santificadora sobre el alma,
+pecado, el Espíritu Santo envía una disciplina santificadora sobre el alma,
 
-hasta que, habiendo sido quebrantado el corazn por la afliccin, por lo
+hasta que, habiendo sido quebrantado el corazón por la aflicción, por lo
 
-amoratado de la herida, el mal es limpiado; y la conciencia, sintindose
+amoratado de la herida, el mal es limpiado; y la conciencia, sintiéndose
 
-intranquila, enva el corazn a Cristo, que quita el castigo y elimina la
+intranquila, envía el corazón a Cristo, que quita el castigo y elimina la
 
 culpa.
 
-Adems, recuerda,
+Además, recuerda,
 
 creyente,
 
 que toda tu santidad es la obra
 
-del Espritu Santo.
+del Espíritu Santo.
 
-T no posees ninguna gracia que no te hubiera dado el
+Tú no posees ninguna gracia que no te hubiera dado el
 
-Espritu; no tienes ni una solitaria virtud que l no hubiera obrado en ti; no
+Espíritu; no tienes ni una solitaria virtud que Él no hubiera obrado en ti; no
 
-tienes ninguna bondad que no te hubiere sido dada por el Espritu; por tanto, no
+tienes ninguna bondad que no te hubiere sido dada por el Espíritu; por tanto, no
 
-te jactes nunca de tus virtudes o de tus gracias. Posees ahora un dulce
+te jactes nunca de tus virtudes o de tus gracias. żPosees ahora un dulce
 
-temperamento, aunque antes eras colrico? No te jactes de ello; todava estaras
+temperamento, aunque antes eras colérico? No te jactes de ello; todavía estarías
 
-airado si el Espritu te dejara. Eres puro ahora, aunque antes eras inmundo?
+airado si el Espíritu te dejara. żEres puro ahora, aunque antes eras inmundo?
 
-No te jactes de tu pureza, cuya simiente fue trada del cielo; nunca creci en
+No te jactes de tu pureza, cuya simiente fue traída del cielo; nunca creció en
 
-tu corazn debido a la naturaleza; se trata de un exclusivo don de Dios. Est
+tu corazón debido a la naturaleza; se trata de un exclusivo don de Dios. żEstá
 
-prevaleciendo la incredulidad contra ti? Acaso tus lujurias, tus malvadas
+prevaleciendo la incredulidad contra ti? żAcaso tus lujurias, tus malvadas
 
-pasiones y tus deseos corruptos parecieran estar enseorendose sobre ti?
+pasiones y tus deseos corruptos parecieran estar enseńoreándose sobre ti?
 
-Entonces no te dir: levntate y al ataque!, sino que te dir: clama
+Entonces no te diré: “ˇlevántate y al ataque!”, sino que te diré: clama
 
-fuertemente a Dios, para que puedas ser lleno del Espritu Santo, para que al
+fuertemente a Dios, para que puedas ser lleno del Espíritu Santo, para que al
 
-final venzas y te vuelvas ms que un vencedor sobre todos tus pecados, viendo
+final venzas y te vuelvas más que un vencedor sobre todos tus pecados, viendo
 
-que el Seor se ha comprometido a poner Su Espritu dentro de ti.
+que el Seńor se ha comprometido a poner Su Espíritu “dentro de ti”.
 
 VI.
 
-Despus de hablar sobre otros dos puntos, habr concluido. EL ESPRITU DE
+Después de hablar sobre otros dos puntos, habré concluido. EL ESPÍRITU DE
 
-DIOS ES PROMETIDO A LOS HEREDEROS DEL CIELO COMO UN ESPRITU DIRECTOR, para
+DIOS ES PROMETIDO A LOS HEREDEROS DEL CIELO COMO UN ESPÍRITU DIRECTOR, para
 
 guiarlos en la senda de la providencia.
 
 Si te encuentras
 
-alguna vez en una posicin en la que no sabes qu camino tomar, recuerda que tu
+alguna vez en una posición en la que no sabes qué camino tomar, recuerda que tu
 
-fortaleza sera estarte quieto, y tu sabidura es esperar la voz directriz
+“fortaleza sería estarte quieto”, y tu sabiduría es esperar la voz directriz
 
-del Espritu, dicindote: Este es el camino, andad por l. Yo mismo he
+del Espíritu, diciéndote: “Este es el camino, andad por él”. Yo mismo he
 
 probado esto, y estoy seguro de que todo hijo de Dios que ha sido colocado en
 
 dificultades, debe haber sentido, a veces, la realidad y la bienaventuranza de
 
-esta gua. Y, no le has pedido nunca que te dirija? Si se lo has pedido, descubriste
+esta guía. Y, żno le has pedido nunca que te dirija? Si se lo has pedido, żdescubriste
 
 alguna vez que te fuiste por el camino equivocado? No me refiero al tipo de
 
 oraciones que presenta la gente que pide consejo, pero que no se lo pide al
 
-Seor; que se apartan para descender a Egipto para fortalecerse con la fuerza
+Seńor; “que se apartan para descender a Egipto… para fortalecerse con la fuerza
 
-de Faran, y luego le piden a Dios que los bendiga en un camino que l nunca
+de Faraón”, y luego le piden a Dios que los bendiga en un camino que Él nunca
 
-sancion. No; has de comenzar rectamente renunciando a toda otra confianza. Es
+sancionó. No; has de comenzar rectamente renunciando a toda otra confianza. Es
 
-slo as que puedes disfrutar de Su promesa: Encomienda a Jehov tu camino, y
+sólo así que puedes disfrutar de Su promesa: “Encomienda a Jehová tu camino, y
 
-confa en l; y l har. Toma contigo, hijo de Dios, una abierta confesin;
+confía en él; y él hará”. Toma contigo, hijo de Dios, una abierta confesión;
 
-di: Seor, yo deseo, como una cortina de agua, ser movido por el aliento del
+di: “Seńor, yo deseo, como una cortina de agua, ser movido por el aliento del
 
-Espritu; aqu permanezco, pasivo en Tu mano; quisiera no conocer ninguna
+Espíritu; aquí permanezco, ‘pasivo en Tu mano’; quisiera no conocer ninguna
 
-voluntad sino la Tuya: mustrame Tu voluntad, oh Seor! Ensame qu he de hacer,
+voluntad sino la Tuya: ˇmuéstrame Tu voluntad, oh Seńor! Enséńame qué he de hacer,
 
-y qu he de dejar de hacer.
+y qué he de dejar de hacer”.
 
 Para algunos de
 
-ustedes, esto podra parecer puro fanatismo; ustedes no creen que Dios, el
+ustedes, esto podría parecer puro fanatismo; ustedes no creen que Dios, el
 
-Espritu Santo, gue a los hombres en el camino que deben tomar. Eso podran
+Espíritu Santo, guíe a los hombres en el camino que deben tomar. Eso podrían
 
-suponerlo si nunca han experimentado Su gua. Hemos odo que, cuando uno de
+suponerlo si nunca han experimentado Su guía. Hemos oído que, cuando uno de
 
-nuestros viajeros ingleses en frica, mencion a los habitantes del lugar el
+nuestros viajeros ingleses en África, mencionó a los habitantes del lugar el
 
-intenso fro que prevaleca algunas veces en su pas, gracias al cual el agua
+intenso frío que prevalecía algunas veces en su país, gracias al cual el agua
 
-se tornaba tan dura que la gente poda patinar y caminar sobre ella, el rey le
+se tornaba tan dura que la gente podía patinar y caminar sobre ella, el rey le
 
-amenaz con matarlo si deca ms mentiras, pues l no haba sentido ni visto
+amenazó con matarlo si decía más mentiras, pues él no había sentido ni visto
 
 nunca tales cosas; y lo que uno no ha sentido ni visto nunca, es ciertamente un
 
-tema apropiado para la duda o para la contradiccin.
+tema apropiado para la duda o para la contradicción.
 
-Pero, en relacin al
+Pero, en relación al
 
-pueblo del Seor, que afirman que son guiados por el Espritu, yo les aconsejo
+pueblo del Seńor, que afirman que son guiados por el Espíritu, yo les aconsejo
 
-que atiendan a sus dichos, y busquen hacer la prueba por ustedes mismos. Sera
+que atiendan a sus dichos, y busquen hacer la prueba por ustedes mismos. Sería
 
 algo muy bueno que ustedes se dirigieran solamente a Dios, como un hijo, en
 
 todas sus aflicciones. Recuerden que como un abogado al que pueden consultar
 
-con seguridad, como un gua cuyas direcciones pueden seguir seguramente, como
+con seguridad, como un guía cuyas direcciones pueden seguir seguramente, como
 
-un amigo bajo cuya proteccin pueden confiar certeramente, el Espritu Santo
+un amigo bajo cuya protección pueden confiar certeramente, el Espíritu Santo
 
-est personalmente presente en la Iglesia de Cristo, y en cada uno de los
+está personalmente presente en la Iglesia de Cristo, y en cada uno de los
 
-discpulos de Jess; y no hay ningn honorario que se deba pagar excepto el
+discípulos de Jesús; y no hay ningún honorario que se deba pagar excepto el
 
 honorario de la gratitud y de la alabanza, porque les ha dirigido muy bien.
 
 VII.
 
-Slo una consideracin adicional: EL ESPRITU SANTO SER DADO A LOS HIJOS
+Sólo una consideración adicional: EL ESPÍRITU SANTO SERÁ DADO A LOS HIJOS
 
-DE DIOS COMO UN ESPRITU CONSOLADOR.
+DE DIOS COMO UN ESPÍRITU CONSOLADOR.
 
 Este es
 
-peculiarmente Su oficio. Nunca han sentido que, inmediatamente antes de una
+peculiarmente Su oficio. żNunca han sentido que, inmediatamente antes de una
 
-afliccin grande y dolorosa, han experimentado un tiempo de gozo sumamente
+aflicción grande y dolorosa, han experimentado un tiempo de gozo sumamente
 
-inexplicable? Escasamente saban por qu estaban tan felices o tan tranquilos,
+inexplicable? Escasamente sabían por qué estaban tan felices o tan tranquilos,
 
-parecan estar flotando sobre el propio Mar del Elseo; no haba nada de viento
+parecían estar flotando sobre el propio Mar del Elíseo; no había nada de viento
 
-que rizara su pacfico espritu, y todo estaba sereno y tranquilo. No estaban
+que rizara su pacífico espíritu, y todo estaba sereno y tranquilo. No estaban
 
 agitados por los cuidados ordinarios y las ansiedades del mundo; su mente
 
-entera estaba absorta en la meditacin sagrada. En seguida, llega la afliccin,
+entera estaba absorta en la meditación sagrada. En seguida, llega la aflicción,
 
-y dicen: ahora lo entiendo todo; antes no poda comprender el significado de
+y dicen: “ahora lo entiendo todo; antes no podía comprender el significado de
 
 ese arrullo grato, de esa quieta tranquilidad; pero ahora veo que estaba
 
-diseado para prepararme para estas circunstancias de prueba. Si hubiera estado
+diseńado para prepararme para estas circunstancias de prueba. Si hubiera estado
 
-abatido y desalentado cuando esta afliccin apareci en m, habra roto mi
+abatido y desalentado cuando esta aflicción apareció en mí, habría roto mi
 
-corazn. Pero ahora, gracias a Dios, puedo percibir por medio de Jesucristo,
+corazón. Pero ahora, gracias a Dios, puedo percibir por medio de Jesucristo,
 
-cmo esta leve tribulacin momentnea, produce en m un cada vez ms
+cómo esta “leve tribulación momentánea’, produce en mí ‘un cada vez más
 
-excelente y eterno peso de gloria. Pero, observen, yo creo que vale la pena
+excelente y eterno peso de gloria’”. Pero, observen, yo creo que vale la pena
 
-tener las aflicciones para recibir el consuelo del Espritu Santo; vale la pena
+tener las aflicciones para recibir el consuelo del Espíritu Santo; vale la pena
 
 soportar la tormenta para experimentar los gozos.
 
 Algunas veces, mi
 
-corazn ha sido sacudido por la maledicencia, la vergenza y el desprecio, pues
+corazón ha sido sacudido por la maledicencia, la vergüenza y el desprecio, pues
 
 muchos hermanos ministros, de quienes pensaba mejores cosas, me han denigrado;
 
-y muchos cristianos me han dado la espalda despus que fui tergiversado ante
+y muchos cristianos me han dado la espalda después que fui tergiversado ante
 
 ellos, y me han odiado sin causa; pero ha sucedido que, en ese preciso
 
 instante, si la iglesia entera me hubiera dado la espalda, y el mundo entero me
 
-hubiere abucheado, no me habra conmovido grandemente, pues algn rayo
+hubiere abucheado, no me habría conmovido grandemente, pues algún rayo
 
-brillante de la luz del sol espiritual alumbr mi corazn, y Jess me susurr
+brillante de la luz del sol espiritual alumbró mi corazón, y Jesús me susurró
 
-aquellas dulces palabras: Yo soy de mi amado, y mi amado es mo. En momentos
+aquellas dulces palabras: “Yo soy de mi amado, y mi amado es mío”. En momentos
 
-as, las consolaciones del Espritu no han sido ni escasas ni pequeas para
+así, las consolaciones del Espíritu no han sido ni escasas ni pequeńas para
 
 conmigo.
 
 Oh, cristiano, si
 
-fuera capaz, te adentrara en las profundidades de este glorioso pasaje; pero
+fuera capaz, te adentraría en las profundidades de este glorioso pasaje; pero
 
-como no puedo hacerlo, debo dejarlo a tu consideracin. Est lleno de miel;
+como no puedo hacerlo, debo dejarlo a tu consideración. Está lleno de miel;
 
-slo llvatelo a tus labios, y extrae la miel que hay all. Pondr dentro de
+sólo llévatelo a tus labios, y extrae la miel que hay allí. “Pondré dentro de
 
-vosotros mi Espritu.
+vosotros mi Espíritu”.
 
 Para concluir,
 
-permtanme agregar uno o dos comentarios.
+permítanme agregar uno o dos comentarios.
 
-No
+żNo
 
-ven aqu la absoluta certeza de la salvacin de cada creyente?
+ven aquí la absoluta certeza de la salvación de cada creyente?
 
-O ms bien,
+O más bien,
 
-no es absolutamente cierto que todo miembro de la familia del Israel de Dios
+żno es absolutamente cierto que todo miembro de la familia del Israel de Dios
 
 ha
 
-de ser salvado? Pues est escrito: Pondr dentro de
+de ser salvado? Pues está escrito: “Pondré dentro de
 
-vosotros mi Espritu. Piensan que, cuando Dios pone Su Espritu dentro de los
+vosotros mi Espíritu”. żPiensan que, cuando Dios pone Su Espíritu dentro de los
 
-hombres, puedan posiblemente ser condenados? Podran pensar que Dios pone Su
+hombres, puedan posiblemente ser condenados? żPodrían pensar que Dios pone Su
 
-Espritu dentro de ellos, y que sin embargo, perezcan y se pierdan? Puedes
+Espíritu dentro de ellos, y que sin embargo, perezcan y se pierdan? Puedes
 
-pensarlo si quieres, amigo; pero te dir lo que piensa Dios: Pondr dentro de
+pensarlo si quieres, amigo; pero te diré lo que piensa Dios: “Pondré dentro de
 
-vosotros mi Espritu, y har que andis en mis estatutos, y guardis mis
+vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis
 
-preceptos, y los pongis por obra. Los pecadores estn lejos de Dios por las
+preceptos, y los pongáis por obra”. Los pecadores están lejos de Dios por las
 
-obras perversas, y no quieren venir a l para tener vida; pero cuando Dios
+obras perversas, y no quieren venir a Él para tener vida; pero cuando Dios
 
-dice: Pondr dentro de vosotros mi Espritu, los fuerza a venir a l.
+dice: “Pondré dentro de vosotros mi Espíritu”, los fuerza a venir a Él.
 
-Cun vana pretensin es profesar honrar a Dios por medio
+ˇCuán vana pretensión es profesar honrar a Dios por medio
 
-de una doctrina que hace que la salvacin dependa de la voluntad del hombre!
+de una doctrina que hace que la salvación dependa de la voluntad del hombre!
 
-Si fuera cierto, podran decirle a Dios: Te damos gracias, oh Dios, por lo
+Si fuera cierto, podrían decirle a Dios: “Te damos gracias, oh Dios, por lo
 
-que T has hecho; T nos has dado muchas grandes cosas, y te ofrecemos Tu
+que Tú has hecho; Tú nos has dado muchas grandes cosas, y te ofrecemos Tu
 
-porcin de alabanza que es justamente debida a Tu nombre; pero nosotros
+porción de alabanza que es justamente debida a Tu nombre; pero nosotros
 
-pensamos que nosotros merecemos ms, pues el punto decisivo estuvo en nuestro
+pensamos que nosotros merecemos más, pues el punto decisivo estuvo en nuestro
 
-libre albedro.
+libre albedrío”.
 
 Amados, ninguno de
 
-ustedes debe apartarse de la gracia inmerecida de Dios, pues las charlataneras
+ustedes debe apartarse de la gracia inmerecida de Dios, pues las charlatanerías
 
 acerca de la libre agencia del hombre no son otra cosa que mentiras, totalmente
 
-contrarias a la verdad de Cristo y a las enseanzas del Espritu.
+contrarias a la verdad de Cristo y a las enseńanzas del Espíritu.
 
-Cun cierta,
+ˇCuán cierta,
 
-entonces, es la salvacin de cada alma elegida! No depende de la voluntad del
+entonces, es la salvación de cada alma elegida! No depende de la voluntad del
 
-hombre; l es conducido a estar dispuesto en el da del poder de Dios. Ser
+hombre; él es conducido a “estar dispuesto” en el día del poder de Dios. Será
 
-llamado en el tiempo establecido, y su corazn ser eficazmente comprometido,
+llamado en el tiempo establecido, y su corazón será eficazmente comprometido,
 
 para volverse un trofeo del poder del Redentor. Que antes no estuviera
 
-dispuesto, no es un obstculo; pues Dios le da la voluntad, de tal manera que
+dispuesto, no es un obstáculo; pues Dios le da la voluntad, de tal manera que
 
-luego tiene una mente dispuesta. As, todo heredero del cielo ha de ser
+luego tiene una mente dispuesta. Así, todo heredero del cielo ha de ser
 
-salvado, porque el Espritu es puesto dentro de l, y por ese medio, su
+salvado, porque el Espíritu es puesto dentro de él, y por ese medio, su
 
-disposicin y sus afectos son moldeados de acuerdo a la voluntad de Dios.
+disposición y sus afectos son moldeados de acuerdo a la voluntad de Dios.
 
-Y adems,
+Y además,
 
-cun vano es que alguien suponga que ha
+ˇcuán vano es que alguien suponga que ha
 
-sido salvado sin el Espritu Santo!
+sido salvado sin el Espíritu Santo!
 
-Ah, queridos amigos! Los hombres
+ˇAh, queridos amigos! Los hombres
 
-llegan algunas veces muy cerca de la salvacin sin ser salvados; como el pobre
+llegan algunas veces muy cerca de la salvación sin ser salvados; como el pobre
 
-hombre que yaca junto al estanque de Betesda, que siempre estaba muy cerca del
+hombre que yacía junto al estanque de Betesda, que siempre estaba muy cerca del
 
-agua, pero sin entrar nunca en ella. Cuntos cambios hay en el carcter
+agua, pero sin entrar nunca en ella. Cuántos cambios hay en el carácter
 
-exterior que se parecen mucho a la conversin; pero, al no tener al Espritu Santo
+exterior que se parecen mucho a la conversión; pero, al no tener al Espíritu Santo
 
-en ellos, fallan despus de todo! Los arrepentimientos en el lecho de muerte
+en ellos, ˇfallan después de todo! Los arrepentimientos en el lecho de muerte
 
-son mirados a menudo como muy sinceros, aunque demasiado frecuentemente, as lo
+son mirados a menudo como muy sinceros, aunque demasiado frecuentemente, así lo
 
 tememos, no son sino
 
@@ -1138,87 +1138,87 @@ los primeros
 
 mordiscos del gusano que nunca muere.
 
-Esta semana le una
+Esta semana leí una
 
-extraordinaria ancdota, narrada por el doctor Campbell, acerca de una mujer,
+extraordinaria anécdota, narrada por el doctor Campbell, acerca de una mujer,
 
-hace muchos aos, que fue condenada a muerte por haber matado a su hijo, y fue colgada
+hace muchos ańos, que fue condenada a muerte por haber matado a su hijo, y fue colgada
 
-en el mercado Grass en Edimburgo. Ella mejor diligentemente las seis semanas que
+en el mercado Grass en Edimburgo. Ella mejoró diligentemente las seis semanas que
 
-le fueron permitidas por la ley escocesa, previo a su ejecucin, y los
+le fueron permitidas por la ley escocesa, previo a su ejecución, y los
 
-ministros que estuvieron con ella continuamente, emitieron la opinin de que
+ministros que estuvieron con ella continuamente, emitieron la opinión de que
 
-mora en la cierta y segura esperanza de la salvacin. El da sealado lleg;
+moría en la cierta y segura esperanza de la salvación. El día seńalado llegó;
 
-fue colgada; pero, siendo un da muy lluvioso, y no habiendo sido preparado
+fue colgada; pero, siendo un día muy lluvioso, y no habiendo sido preparado
 
-ningn toldo, los que estaban a cargo de su ejecucin tenan gran prisa para
+ningún toldo, los que estaban a cargo de su ejecución tenían gran prisa para
 
-terminarla y protegerse de la lluvia, as que fue descolgada antes del tiempo
+terminarla y protegerse de la lluvia, así que fue descolgada antes del tiempo
 
 legal, y, siguiendo la costumbre, el cuerpo les fue entregado a sus amigos para
 
-ser enterrado. Consiguieron un atad, y la mujer fue llevada en l a East
+ser enterrado. Consiguieron un ataúd, y la mujer fue llevada en él a East
 
 Lothian, el lugar donde su esposo iba a enterrarla. Se detuvieron en una
 
 cantina, en el camino, para refrescarse, cuando, para su gran sorpresa y
 
-alarma, entr corriendo a la cantina un nio, quien les dijo que haba odo un
+alarma, entró corriendo a la cantina un nińo, quien les dijo que había oído un
 
-ruido en el atad. Salieron de la cantina y descubrieron que la mujer estaba
+ruido en el ataúd. Salieron de la cantina y descubrieron que la mujer estaba
 
-viva; los poderes vitales haban quedado suspendidos, pero la vida no haba
+viva; los poderes vitales habían quedado suspendidos, pero la vida no había
 
-sido extinguida, y las sacudidas de la carreta haban restaurado su
+sido extinguida, y las sacudidas de la carreta habían restaurado su
 
-circulacin. Despus de unas cuantas horas, ella se repuso muy bien; la familia
+circulación. Después de unas cuantas horas, ella se repuso muy bien; la familia
 
-se cambi de residencia, y se fueron a vivir a otra parte del pas. Pero la
+se cambió de residencia, y se fueron a vivir a otra parte del país. Pero la
 
-parte triste de la historia es esta: la mujer fue de un carcter tan malo despus,
+parte triste de la historia es esta: la mujer fue de un carácter tan malo después,
 
-como siempre lo haba sido antes, y, en todo caso, peor. Viva tan abiertamente
+como siempre lo había sido antes, y, en todo caso, peor. Vivía tan abiertamente
 
-en pecado, y despreciaba y odiaba a la religin incluso ms de lo que lo haba
+en pecado, y despreciaba y odiaba a la religión incluso más de lo que lo había
 
-hecho previamente. Este es un caso muy notable. Creo que ustedes podrn ver que
+hecho previamente. Este es un caso muy notable. Creo que ustedes podrán ver que
 
-la gran mayora de aquellas personas que profesan arrepentirse en su lecho de
+la gran mayoría de aquellas personas que profesan arrepentirse en su lecho de
 
-muerte, si pudieran levantarse de nuevo de sus tumbas, viviran una vida tan
+muerte, si pudieran levantarse de nuevo de sus tumbas, vivirían una vida tan
 
-profana e impa como siempre. Tengan la seguridad de esto: no hay nada excepto
+profana e impía como siempre. Tengan la seguridad de esto: no hay nada excepto
 
-la gracia del Espritu de Dios que haga una obra segura en sus almas. A menos
+la gracia del Espíritu de Dios que haga una obra segura en sus almas. A menos
 
-que l les cambie, ustedes podran ser cambiados, pero no ser un cambio que
+que Él les cambie, ustedes podrían ser cambiados, pero no será un cambio que
 
-dure. A menos que l ponga Su mano en la obra, la obra se echar a perder, el
+dure. A menos que Él ponga Su mano en la obra, la obra se echará a perder, el
 
-cntaro se romper en la rueda.
+cántaro se romperá en la rueda.
 
-Clamen a l, por tanto,
+Clamen a Él, por tanto,
 
-para que les d el Espritu Santo, y tengan la evidencia de una conversin
+para que les dé el Espíritu Santo, y tengan la evidencia de una conversión
 
-real, y no una vil falsificacin. Presten atencin, seores, presten atencin!
+real, y no una vil falsificación. ˇPresten atención, seńores, presten atención!
 
 El miedo natural, el amor natural, los sentimientos naturales, no son la
 
-conversin. La conversin, en primer lugar, y durante toda la subsiguiente
+conversión. La conversión, en primer lugar, y durante toda la subsiguiente
 
-edificacin, ha de ser la obra del Espritu Santo, y solamente de l. Nunca
+edificación, ha de ser la obra del Espíritu Santo, y solamente de Él. ˇNunca
 
-deben quedarse tranquilos, entonces, hasta que las operaciones del Espritu
+deben quedarse tranquilos, entonces, hasta que las operaciones del Espíritu
 
 Santo sean efectuadas con toda certeza en sus corazones!
 
 Traductor: Allan
 
-Romn
+Román
 
 30/Julio/2009
 

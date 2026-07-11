@@ -1,252 +1,252 @@
 # Sermón 897 | Sermón 897
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 La Primera Palabra desde la Cruz
 
 NO. 897
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 24 DE OCTUBRE DE 1869
+MAŃANA DEL DOMINGO 24 DE OCTUBRE DE 1869
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Y Jess
+“Y Jesús
 
-deca: Padre, perdnalos, porque no saben lo que hacen. Lucas 23: 34.
+decía: Padre, perdónalos, porque no saben lo que hacen”. Lucas 23: 34.
 
-Nuestro Seor estaba soportando en aquel momento
+Nuestro Seńor estaba soportando en aquel momento
 
-los primeros dolores de la crucifixin; los verdugos acababan de meter entonces
+los primeros dolores de la crucifixión; los verdugos acababan de meter entonces
 
-los clavos en Sus manos y pies. Adems, l debe de haber estado grandemente deprimido
+los clavos en Sus manos y pies. Además, Él debe de haber estado grandemente deprimido
 
-y reducido a una condicin de extrema debilidad por la agona de la noche en
+y reducido a una condición de extrema debilidad por la agonía de la noche en
 
-Getseman, y por los azotes y las crueles burlas que haba soportado de Caifs,
+Getsemaní, y por los azotes y las crueles burlas que había soportado de Caifás,
 
 de Pilato, de Herodes y de los guardias pretorianos a lo largo de toda aquella
 
-maana. Sin embargo, ni la debilidad del pasado ni el dolor del presente
+mańana. Sin embargo, ni la debilidad del pasado ni el dolor del presente
 
-impidieron que continuara en oracin. El Cordero de Dios guardaba silencio con
+impidieron que continuara en oración. El Cordero de Dios guardaba silencio con
 
 los hombres
 
 mas
 
-no con Dios. Enmudeci como oveja
+no con Dios. Enmudeció como oveja
 
-delante de Sus trasquiladores, y no tena ni una palabra que decir en defensa
+delante de Sus trasquiladores, y no tenía ni una palabra que decir en defensa
 
-propia ante hombre alguno, pero contina clamando a Su Padre en Su corazn, y
+propia ante hombre alguno, pero continúa clamando a Su Padre en Su corazón, y
 
 ni el dolor ni la debilidad pueden acallar Sus santas suplicaciones.
 
-Amados, qu gran ejemplo nos presenta nuestro
+Amados, ˇqué gran ejemplo nos presenta nuestro
 
-Seor en este punto! Hemos de continuar en oracin en tanto que nuestro corazn
+Seńor en este punto! Hemos de continuar en oración en tanto que nuestro corazón
 
-palpite; ningn exceso de sufrimiento debe apartarnos del trono de la gracia,
+palpite; ningún exceso de sufrimiento debe apartarnos del trono de la gracia,
 
-sino que ms bien debe acercarnos a l.
+sino que más bien debe acercarnos a él.
 
-Los
+“Los
 
 cristianos han de orar en tanto vivan,
 
-Pues slo
+Pues sólo
 
-cuando oran, viven.
+cuando oran, viven”.
 
 Dejar de orar es renunciar a las consolaciones
 
 que nuestro caso requiere.
 
-En todas las perturbaciones del espritu y
+En todas las perturbaciones del espíritu y
 
-opresiones del corazn, grandioso Dios, aydanos a seguir orando, y que
+opresiones del corazón, grandioso Dios, ayúdanos a seguir orando, y que
 
 nuestras pisadas no se alejen nunca del propiciatorio, llevadas por la
 
-desesperacin.
+desesperación.
 
-Nuestro bendito Redentor persever en oracin
+Nuestro bendito Redentor perseveró en oración
 
 aun cuando el hierro cruel desgarraba Sus nervios sensibles y los repetidos
 
-golpes del martillo hacan trepidar todo Su cuerpo con angustia; y esta
+golpes del martillo hacían trepidar todo Su cuerpo con angustia; y esta
 
-perseverancia se explica por el hecho de que tena un hbito tan acendrado de
+perseverancia se explica por el hecho de que tenía un hábito tan acendrado de
 
-orar que no poda dejar de hacerlo; l haba adquirido una poderosa velocidad
+orar que no podía dejar de hacerlo; Él había adquirido una poderosa velocidad
 
-de intercesin que le impeda detenerse. Esas largas noches en la fra ladera
+de intercesión que le impedía detenerse. Esas largas noches en la fría ladera
 
-del monte, los muchos das que haba pasado en soledad, esas perpetuas
+del monte, los muchos días que había pasado en soledad, esas perpetuas
 
-jaculatorias que sola elevar al cielo, todas esas cosas haban desarrollado en
+jaculatorias que solía elevar al cielo, todas esas cosas habían desarrollado en
 
-l un hbito tan arraigado que ni siquiera los ms severos tormentos podan
+Él un hábito tan arraigado que ni siquiera los más severos tormentos podían
 
 detener su fuerza.
 
-Sin embargo, era algo ms que un hbito. Nuestro
+Sin embargo, era algo más que un hábito. Nuestro
 
-Seor fue bautizado en el espritu de oracin; viva en ese espritu y ese
+Seńor fue bautizado en el espíritu de oración; vivía en ese espíritu y ese
 
-espritu viva en l; haba llegado a ser un elemento de Su naturaleza. l era
+espíritu vivía en Él; había llegado a ser un elemento de Su naturaleza. Él era
 
 como esa preciosa especia que al ser machacada no cesa de exhalar su perfume y
 
-que ms bien lo produce con mucha mayor abundancia debido a los golpes del mazo,
+que más bien lo produce con mucha mayor abundancia debido a los golpes del mazo,
 
 ya que su fragancia no es una cualidad externa y superficial sino un virtud interior
 
-esencial a su naturaleza, que es extrada por los golpeteos sobre el mortero
+esencial a su naturaleza, que es extraída por los golpeteos sobre el mortero
 
 que hacen que revele su alma secreta de dulzura.
 
 Como produce su aroma un manojo de mirra
 
-o como cantan los pjaros porque no pueden
+o como cantan los pájaros porque no pueden
 
-hacer otra cosa, as tambin ora Jess. La oracin cubra Su propia alma como
+hacer otra cosa, así también ora Jesús. La oración cubría Su propia alma como
 
-si fuera un manto, y Su corazn sala vestido de esa manera. Yo repito que este
+si fuera un manto, y Su corazón salía vestido de esa manera. Yo repito que este
 
 debe ser nuestro ejemplo y no debemos cesar de orar nunca, bajo ninguna
 
-circunstancia, por grande que sea la severidad de la tribulacin o por
+circunstancia, por grande que sea la severidad de la tribulación o por
 
 deprimente que sea la dificultad.
 
-Adems, observen en la oracin que estamos
+Además, observen en la oración que estamos
 
-considerando que nuestro Seor permanece en el vigor de la fe en cuanto a Su condicin
+considerando que nuestro Seńor permanece en el vigor de la fe en cuanto a Su condición
 
-de Hijo. La extrema prueba a la que se someta ahora no poda impedir que se
+de Hijo. La extrema prueba a la que se sometía ahora no podía impedir que se
 
-aferrara firmemente a Su condicin de Hijo. Su oracin comienza as: Padre.
+aferrara firmemente a Su condición de Hijo. Su oración comienza así: “Padre”.
 
-No fue algo desprovisto de significado que nos enseara a decir cuando oramos:
+No fue algo desprovisto de significado que nos enseńara a decir cuando oramos:
 
-Padre nuestro, pues nuestro predominio en la oracin depender en mucho de
+“Padre nuestro”, pues nuestro predominio en la oración dependerá en mucho de
 
-nuestra confianza en nuestra relacin con Dios. Bajo el peso de grandes
+nuestra confianza en nuestra relación con Dios. Bajo el peso de grandes
 
-prdidas y cruces, uno es propenso a pensar que Dios no est tratando con
+pérdidas y cruces, uno es propenso a pensar que Dios no está tratando con
 
-nosotros como un padre con su hijo, sino ms bien como un juez severo con un
+nosotros como un padre con su hijo, sino más bien como un juez severo con un
 
 criminal condenado; pero el clamor de Cristo, cuando es conducido al extremo
 
-que nosotros nunca experimentaremos, no delata ninguna vacilacin en el
+que nosotros nunca experimentaremos, no delata ninguna vacilación en el
 
-espritu de Su condicin de hijo.
+espíritu de Su condición de hijo.
 
-Cuando el sudor sangriento caa raudamente sobre
+Cuando el sudor sangriento caía raudamente sobre
 
-el suelo en Getseman, Su clamor ms amargo comenz as:
+el suelo en Getsemaní, Su clamor más amargo comenzó así:
 
-Padre mo,
+“Padre mío”,
 
 pidiendo que si fuera posible, la copa de hiel pasara
 
-de l; argumentaba con el Padre como Su Padre, tal como le llam una y otra vez
+de Él; argumentaba con el Padre como Su Padre, tal como le llamó una y otra vez
 
-en aquella oscura y doliente noche. Aqu dice otra vez, en sta, la primera de
+en aquella oscura y doliente noche. Aquí dice otra vez, en ésta, la primera de
 
-las siete palabras pronunciadas cuando expiraba: Padre.
+las siete palabras pronunciadas cuando expiraba: “Padre”.
 
-Oh, que el Espritu que nos hace clamar: Abba,
+ˇOh, que el Espíritu que nos hace clamar: “Abba,
 
-Padre, no deje nunca Sus operaciones! Que nunca seamos conducidos a la
+Padre”, no deje nunca Sus operaciones! Que nunca seamos conducidos a la
 
-servidumbre espiritual por la sugerencia: si eres Hijo de Dios; o si el
+servidumbre espiritual por la sugerencia: “si eres Hijo de Dios”; o si el
 
-tentador nos asedia, que podamos triunfar como lo hizo Jess en el pramo
+tentador nos asedia, que podamos triunfar como lo hizo Jesús en el páramo
 
-hambriento. Que el Espritu que clama: Abba, Padre!, repela cada miedo
+hambriento. Que el Espíritu que clama: “ˇAbba, Padre!”, repela cada miedo
 
-incrdulo. Cuando somos disciplinados, como hemos de serlo (porque qu hijo es
+incrédulo. Cuando somos disciplinados, como hemos de serlo (porque żqué hijo es
 
 aquel a quien el padre no disciplina?), que podamos estar en una amorosa
 
-sujecin al Padre de nuestros espritus, y vivir, pero que nunca nos volvamos
+sujeción al Padre de nuestros espíritus, y vivir, pero que nunca nos volvamos
 
-cautivos del espritu de servidumbre como para dudar del amor de nuestro
+cautivos del espíritu de servidumbre como para dudar del amor de nuestro
 
-clemente Padre, o de nuestra porcin en Su adopcin.
+clemente Padre, o de nuestra porción en Su adopción.
 
-Ms notable, empero, es el hecho de que la
+Más notable, empero, es el hecho de que la
 
-oracin de nuestro Seor a Su Padre no peda algo para S mismo. Es cierto que
+oración de nuestro Seńor a Su Padre no pedía algo para Sí mismo. Es cierto que
 
-en la cruz continu orando por S mismo, y que Su palabra de lamento: Dios
+en la cruz continuó orando por Sí mismo, y que Su palabra de lamento: “Dios
 
-mo, Dios mo, por qu me has desamparado?, muestra la personalidad de Su
+mío, Dios mío, żpor qué me has desamparado?”, muestra la personalidad de Su
 
-oracin; pero la primera de las siete grandiosas palabras pronunciadas desde la
+oración; pero la primera de las siete grandiosas palabras pronunciadas desde la
 
-cruz no tiene ni siquiera una escasa referencia indirecta a S mismo. Dice:
+cruz no tiene ni siquiera una escasa referencia indirecta a Sí mismo. Dice:
 
-Padre, perdna
+“Padre, perdóna
 
-los.
+los”.
 
-La peticin es
+La petición es
 
-enteramente para otros, y aunque hay una alusin a las crueldades que estaban
+enteramente para otros, y aunque hay una alusión a las crueldades que estaban
 
-aplicndole es, sin embargo, remota; y ustedes observarn que no dice: Yo los
+aplicándole es, sin embargo, remota; y ustedes observarán que no dice: “Yo los
 
-perdono eso se da por sentado-; pareciera perder de vista el hecho de que le
+perdono” –eso se da por sentado-; pareciera perder de vista el hecho de que le
 
-estaban haciendo dao; en Su mente est el mal que le estaban haciendo al Padre,
+estaban haciendo dańo; en Su mente está el mal que le estaban haciendo al Padre,
 
 el insulto que estaban lanzando al Padre en la persona del Hijo; no piensa en
 
-S mismo para nada. El clamor: Padre, perdnales, es completamente desinteresado.
+Sí mismo para nada. El clamor: “Padre, perdónales”, es completamente desinteresado.
 
-l propio es, en la oracin, como si no fuera; tan completa es su
+Él propio es, en la oración, como si no fuera; tan completa es su
 
-autoaniquilacin que pierde de vista Su persona y Sus aflicciones.
+autoaniquilación que pierde de vista Su persona y Sus aflicciones.
 
-Hermanos mos, si hubiera habido un tiempo en la
+Hermanos míos, si hubiera habido un tiempo en la
 
-vida del Hijo del hombre cuando pudo haber confinado rgidamente Su oracin
+vida del Hijo del hombre cuando pudo haber confinado rígidamente Su oración
 
-para S mismo, sin merecer ninguna crtica por hacerlo, seguramente habra sido
+para Sí mismo, sin merecer ninguna crítica por hacerlo, seguramente habría sido
 
 cuando estaban comenzando Sus angustias de muerte. Si un hombre fuera sujetado
 
-en la hoguera o clavado en una cruz, no podra asombrarnos si su primera
+en la hoguera o clavado en una cruz, no podría asombrarnos si su primera
 
-oracin, e incluso su ltima, y todas sus oraciones fueran peticiones personales
+oración, e incluso su última, y todas sus oraciones fueran peticiones personales
 
-de apoyo bajo una tribulacin tan ardua.
+de apoyo bajo una tribulación tan ardua.
 
-Pero vean, el Seor Jess comenz Su oracin
+Pero vean, el Seńor Jesús comenzó Su oración
 
-pidiendo por otros. No ven qu grandioso corazn es revelado aqu? Qu alma
+pidiendo por otros. żNo ven qué grandioso corazón es revelado aquí? ˇQué alma
 
-de compasin haba en el Crucificado! Cun semejante a Dios, cun divino! Hubo
+de compasión había en el Crucificado! ˇCuán semejante a Dios, cuán divino! żHubo
 
-alguien jams antes que l, que, aun en los propios dolores de muerte,
+alguien jamás antes que Él, que, aun en los propios dolores de muerte,
 
-ofreciera como su primera oracin una intercesin por otros? Ese mismo espritu
+ofreciera como su primera oración una intercesión por otros? Ese mismo espíritu
 
-de abnegacin debe estar en ustedes tambin, hermanos mos. Que nadie mire por
+de abnegación debe estar en ustedes también, hermanos míos. Que nadie mire por
 
 sus propias cosas, antes bien, todo hombre debe mirar por las cosas de los
 
-dems. Amen a sus semejantes como a ustedes mismos, y como Cristo ha puesto
+demás. Amen a sus semejantes como a ustedes mismos, y como Cristo ha puesto
 
-ante ustedes este excelente modelo de abnegacin, procuren seguirle pisando
+ante ustedes este excelente modelo de abnegación, procuren seguirle pisando
 
 sobre Sus pasos.
 
@@ -256,93 +256,93 @@ diadema de glorioso amor. El Sol de Justicia se oculta en el Calvario en un
 
 portentoso esplendor; pero en medio de los brillantes colores que glorifican Su
 
-partida, hay uno en particular: la oracin no era slo por otros, sino que
+partida, hay uno en particular: la oración no era sólo por otros, sino que
 
-peda por Sus ms crueles enemigos. Sus enemigos, dije, pero hay que considerar
+pedía por Sus más crueles enemigos. Sus enemigos, dije, pero hay que considerar
 
-algo ms. No era una oracin por enemigos que le haban hecho un mal aos
+algo más. No era una oración por enemigos que le habían hecho un mal ańos
 
-antes, sino que era por quienes estaban all asesinndole en ese momento. No a
+antes, sino que era por quienes estaban allí asesinándole en ese momento. No a
 
-sangre fra or el Salvador, despus de haber olvidado el dao y de poder
+sangre fría oró el Salvador, después de haber olvidado el dańo y de poder
 
-perdonarlo ms fcilmente, sino que oraba mientras las primeras gotas rojas de
+perdonarlo más fácilmente, sino que oraba mientras las primeras gotas rojas de
 
-sangre manchaban las manos que metan los clavos, cuando el martillo estaba
+sangre manchaban las manos que metían los clavos, cuando el martillo estaba
 
-todava salpicado de cogulos de color carmes, Su boca bendita pronunciaba la
+todavía salpicado de coágulos de color carmesí, Su boca bendita pronunciaba la
 
-fresca oracin clida: Padre, perdnalos, porque no saben lo que hacen.
+fresca oración cálida: “Padre, perdónalos, porque no saben lo que hacen”.
 
-Digo que esa oracin no estaba limitada a Sus
+Digo que esa oración no estaba limitada a Sus
 
-verdugos inmediatos. Yo creo que era una oracin de gran alcance que inclua a
+verdugos inmediatos. Yo creo que era una oración de gran alcance que incluía a
 
-los escribas y a los fariseos, a Pilato y a Herodes, a los judos y a los
+los escribas y a los fariseos, a Pilato y a Herodes, a los judíos y a los
 
-gentiles, s, a toda la raza humana en un cierto sentido, pues todos estbamos
+gentiles, sí, a toda la raza humana en un cierto sentido, pues todos estábamos
 
 involucrados en ese asesinato; pero ciertamente las personas inmediatas, sobre
 
-quienes fue pronunciada esa oracin como precioso perfume de nardo, eran aquellas
+quienes fue pronunciada esa oración como precioso perfume de nardo, eran aquellas
 
-que estaban all en aquel momento cometiendo el acto brutal de clavarlo en el
+que estaban allí en aquel momento cometiendo el acto brutal de clavarlo en el
 
 madero maldito.
 
-Cun sublime es esta oracin cuando es
+ˇCuán sublime es esta oración cuando es
 
-considerada bajo esa luz! Es nica y est sobre un monte de gloria solitaria.
+considerada bajo esa luz! Es única y está sobre un monte de gloria solitaria.
 
-Ninguna otra oracin como esa haba sido musitada antes. Es cierto que Abraham,
+Ninguna otra oración como esa había sido musitada antes. Es cierto que Abraham,
 
-y Moiss y los profetas haban orado por los malvados; pero no por hombres
+y Moisés y los profetas habían orado por los malvados; pero no por hombres
 
-perversos que haban perforado sus manos y pies. Es cierto que los cristianos
+perversos que habían perforado sus manos y pies. Es cierto que los cristianos
 
-han ofrecido esa misma oracin desde aquel da, tal como Esteban clam: No les
+han ofrecido esa misma oración desde aquel día, tal como Esteban clamó: “No les
 
-tomes en cuenta este pecado; y las ltimas palabras de muchos mrtires en la
+tomes en cuenta este pecado”; y las últimas palabras de muchos mártires en la
 
-hoguera han sido palabras de piadosa intercesin por sus perseguidores; pero
+hoguera han sido palabras de piadosa intercesión por sus perseguidores; pero
 
-ustedes saben dnde aprendieron esto. Mas djenme preguntarles: dnde lo
+ustedes saben dónde aprendieron esto. Mas déjenme preguntarles: żdónde lo
 
-aprendi
+aprendió
 
-l?
+Él?
 
-No fue Jess el
+żNo fue Jesús el
 
-original divino? l no lo aprendi en ninguna parte; brot de Su propia
+original divino? Él no lo aprendió en ninguna parte; brotó de Su propia
 
-naturaleza semejante a Dios. Una compasin peculiar hacia S mismo dict la
+naturaleza semejante a Dios. Una compasión peculiar hacia Sí mismo dictó la
 
-originalidad de esta oracin; la ntima realeza de Su amor le sugiri una intercesin
+originalidad de esta oración; la íntima realeza de Su amor le sugirió una intercesión
 
-tan memorable que puede servirnos de modelo, pero de la cual no exista ningn
+tan memorable que puede servirnos de modelo, pero de la cual no existía ningún
 
-modelo anteriormente. Pienso que sera mejor que me arrodillara en este momento
+modelo anteriormente. Pienso que sería mejor que me arrodillara en este momento
 
-delante de la cruz de mi Seor en vez de estar parado en este plpito
+delante de la cruz de mi Seńor en vez de estar parado en este púlpito
 
-dirigindome a ustedes. Quiero adorarle, quiero venerarle en el corazn por esa
+dirigiéndome a ustedes. Quiero adorarle, quiero venerarle en el corazón por esa
 
-oracin; aunque no conociera nada ms excepto esta oracin, debo adorarle, pues
+oración; aunque no conociera nada más excepto esta oración, debo adorarle, pues
 
-esa splica sin par pidiendo misericordia me convence de la deidad de quien la
+esa súplica sin par pidiendo misericordia me convence de la deidad de quien la
 
-ofreci, de manera sumamente contundente, y llena mi corazn de reverente
+ofreció, de manera sumamente contundente, y llena mi corazón de reverente
 
 afecto.
 
 De esta manera les he presentado la primera
 
-oracin vocal de nuestro Seor en la cruz. Ahora, con la ayuda del Espritu
+oración vocal de nuestro Seńor en la cruz. Ahora, con la ayuda del Espíritu
 
-Santo de Dios, voy a darle una aplicacin. Primero, la veremos como una oracin
+Santo de Dios, voy a darle una aplicación. Primero, la veremos como una oración
 
-ilustrativa de la intercesin de nuestro
+ilustrativa de la intercesión de nuestro
 
 Salvador;
 
@@ -362,107 +362,107 @@ I.
 
 Primero, mis queridos hermanos, veamos este texto
 
-tan maravilloso como ILUSTRATIVO DE LA INTERCESIN DE NUESTRO SEOR.
+tan maravilloso como ILUSTRATIVO DE LA INTERCESIÓN DE NUESTRO SEŃOR.
 
-l or entonces por Sus enemigos, y sigue orando
+Él oró entonces por Sus enemigos, y sigue orando
 
-por Sus enemigos ahora; el pasado en la cruz fue la seal del presente en el
+por Sus enemigos ahora; el pasado en la cruz fue la seńal del presente en el
 
-trono. Est ahora en un lugar ms encumbrado y en una condicin ms noble, pero
+trono. Está ahora en un lugar más encumbrado y en una condición más noble, pero
 
-Su ocupacin es la misma; l contina todava delante del trono eterno
+Su ocupación es la misma; Él continúa todavía delante del trono eterno
 
-presentando splicas a favor de los hombres culpables, clamando: Padre,
+presentando súplicas a favor de los hombres culpables, clamando: “Padre,
 
-perdnalos. Toda Su intercesin es, en una medida, como la intercesin en el
+perdónalos”. Toda Su intercesión es, en una medida, como la intercesión en el
 
-Calvario, y las palabras del Calvario pueden ayudarnos a adivinar el carcter
+Calvario, y las palabras del Calvario pueden ayudarnos a adivinar el carácter
 
-de toda Su intercesin en lo alto.
+de toda Su intercesión en lo alto.
 
-El primer punto en que podemos ver el carcter
+El primer punto en que podemos ver el carácter
 
-de Su intercesin es ste: que es
+de Su intercesión es éste: que es
 
 sumamente
 
 misericorde.
 
-Aquellos por quienes nuestro Seor or, de acuerdo al texto,
+Aquellos por quienes nuestro Seńor oró, de acuerdo al texto,
 
-no merecan Su oracin. No haban hecho nada que pudiera motivar en l una
+no merecían Su oración. No habían hecho nada que pudiera motivar en Él una
 
-bendicin como recompensa por sus esfuerzos en Su servicio; por el contrario,
+bendición como recompensa por sus esfuerzos en Su servicio; por el contrario,
 
-eran personas sumamente indignas que haban conspirado para sentenciarlo a
+eran personas sumamente indignas que habían conspirado para sentenciarlo a
 
-muerte. Lo haban crucificado, y lo haban hecho injustificable y malignamente;
+muerte. Lo habían crucificado, y lo habían hecho injustificable y malignamente;
 
-estaban incluso quitndole en aquel momento Su vida inocente. Sus clientes eran
+estaban incluso quitándole en aquel momento Su vida inocente. Sus clientes eran
 
 personas que, muy lejos de ser meritorias, eran completamente indignas de un
 
-solo buen deseo del corazn del Salvador. Ellos ciertamente nunca le pidieron
+solo buen deseo del corazón del Salvador. Ellos ciertamente nunca le pidieron
 
-que orara por ellos; el ltimo pensamiento de su mente era decirle: Intercede
+que orara por ellos; el último pensamiento de su mente era decirle: “ˇIntercede
 
-por nosotros, moribundo Rey! Ofrece peticiones a favor nuestro, Hijo de Dios!
+por nosotros, moribundo Rey! ˇOfrece peticiones a favor nuestro, Hijo de Dios!”
 
-Me aventurara a creer que la propia oracin, cuando fue escuchada por ellos,
+Me aventuraría a creer que la propia oración, cuando fue escuchada por ellos,
 
 fue ignorada o pasada por alto con despreciativa indiferencia, o tal vez fuera
 
 tomada como un tema de burla. Admito que pareciera demasiado severo para con la
 
-humanidad suponer que sea posible que semejante oracin pudiera haber sido tema
+humanidad suponer que sea posible que semejante oración pudiera haber sido tema
 
 de risas burlonas, y, sin embargo, hubo otras cosas implementadas en torno a la
 
 cruz que fueron igualmente brutales, y entonces puedo imaginar que esto pudo
 
-haber sucedido tambin.
+haber sucedido también.
 
-Sin embargo nuestro Salvador or por personas que
+Sin embargo nuestro Salvador oró por personas que
 
-no merecan la oracin, y, por el contrario, merecan una maldicin: eran
+no merecían la oración, y, por el contrario, merecían una maldición: eran
 
-personas que no solicitaron la oracin e incluso se burlaron de ella cuando la
+personas que no solicitaron la oración e incluso se burlaron de ella cuando la
 
-oyeron. De igual manera el grandioso Sumo Sacerdote est all en el cielo
+oyeron. De igual manera el grandioso Sumo Sacerdote está allá en el cielo
 
 suplicando por hombres culpables: por hombres
 
 culpables,
 
-queridos oyentes. No suplica por nadie basndose en la
+queridos oyentes. No suplica por nadie basándose en la
 
-suposicin de que en verdad lo merece. Est all para interceder como el Justo
+suposición de que en verdad lo merece. Está allá para interceder como el Justo
 
-a favor de los injustos. No intercede como si alguien fuera justo, sino que si
+a favor de los injustos. No intercede como si alguien fuera justo, sino que “si
 
-alguno hubiere pecado, abogado tenemos para con el Padre.
+alguno hubiere pecado, abogado tenemos para con el Padre”.
 
-Recuerden tambin que nuestro grandioso
+Recuerden también que nuestro grandioso
 
 Intercesor suplica por aquellos que nunca le pidieron que intercediera por ellos.
 
-Sus elegidos son el objeto de Sus intercesiones compasivas estando todava
+Sus elegidos son el objeto de Sus intercesiones compasivas estando todavía
 
 muertos en delitos y pecados y, mientras ellos se burlan incluso de Su
 
-Evangelio, Su corazn de amor est implorando el favor del cielo para ellos. Vean,
+Evangelio, Su corazón de amor está implorando el favor del cielo para ellos. Vean,
 
-entonces, amados, si tal es la verdad, cun seguros estn de tener xito con
+entonces, amados, si tal es la verdad, cuán seguros están de tener éxito con
 
-Dios aquellos que le piden sinceramente al Seor Jesucristo que interceda por
+Dios aquellos que le piden sinceramente al Seńor Jesucristo que interceda por
 
-ellos. Algunos de ustedes, con muchas lgrimas y mucha vehemencia, han estado
+ellos. Algunos de ustedes, con muchas lágrimas y mucha vehemencia, han estado
 
-pidindole al Salvador que sea su abogado. Acaso los rechazar? Es lgico
+pidiéndole al Salvador que sea su abogado. żAcaso los rechazará? żEs lógico
 
-pensar que pueda hacerlo? l intercede por aquellos que rechazan Sus splicas;
+pensar que pueda hacerlo? Él intercede por aquellos que rechazan Sus súplicas;
 
-con mucha ms razn lo har por ti que las valoras ms que el oro.
+con mucha más razón lo hará por ti que las valoras más que el oro.
 
 Recuerda, mi querido oyente, que si no hay nada
 
@@ -470,137 +470,137 @@ bueno en ti y que hay todo lo concebible que es maligno y malo, nada de eso pued
 
 ser una barrera para impedir que Cristo ejerza el oficio de Intercesor por ti.
 
-l suplicar incluso por ti. Vamos, pon tu caso en Sus manos, pues l encontrar
+Él suplicará incluso por ti. Vamos, pon tu caso en Sus manos, pues Él encontrará
 
-splicas que t no podras descubrir por ti mismo, y presentar tu caso ante
+súplicas que tú no podrías descubrir por ti mismo, y presentará tu caso ante
 
-Dios como lo hizo por Sus asesinos: Padre, perdnalos.
+Dios como lo hizo por Sus asesinos: “Padre, perdónalos”.
 
-Una segunda cualidad de Su intercesin es:
+Una segunda cualidad de Su intercesión es:
 
-su espritu cuidadoso.
+su espíritu cuidadoso.
 
 Lo notan en la
 
-oracin: Padre, perdnalos, porque no saben lo que hacen. Por decirlo as,
+oración: “Padre, perdónalos, porque no saben lo que hacen”. Por decirlo así,
 
-nuestro Salvador esculc a Sus enemigos para encontrar en ellos algo que
+nuestro Salvador esculcó a Sus enemigos para encontrar en ellos algo que
 
 pudiera ser argumentado en su favor; pero no pudo ver nada hasta que Sus ojos
 
-sabiamente afectuosos se posaron en su ignorancia: no saben lo que hacen. Cun
+sabiamente afectuosos se posaron en su ignorancia: “no saben lo que hacen”. ˇCuán
 
-cuidadosamente inspeccion las circunstancias y los caracteres de aquellos por
+cuidadosamente inspeccionó las circunstancias y los caracteres de aquellos por
 
 quienes importunaba! Lo mismo hace ahora en el cielo. Cristo no es un abogado
 
-negligente para con Su pueblo. l conoce tu precisa condicin en este momento y
+negligente para con Su pueblo. Él conoce tu precisa condición en este momento y
 
-el estado exacto de tu corazn en relacin a la tentacin por la que
+el estado exacto de tu corazón en relación a la tentación por la que
 
-atraviesas; ms an, l ve anticipadamente la tentacin que est esperndote, y
+atraviesas; más aún, Él ve anticipadamente la tentación que está esperándote, y
 
-en Su intercesin toma nota del evento futuro que Su mirada ya contempla.
+en Su intercesión toma nota del evento futuro que Su mirada ya contempla.
 
-Satans os ha pedido para zarandearos como a trigo; pero yo he rogado por ti,
+“Satanás os ha pedido para zarandearos como a trigo; pero yo he rogado por ti,
 
-que tu fe no falte.
+que tu fe no falte”.
 
-Oh, la condescendiente ternura de nuestro
+ˇOh, la condescendiente ternura de nuestro
 
-grandioso Sumo Sacerdote! l nos conoce mejor de lo que nos conocemos a
+grandioso Sumo Sacerdote! Él nos conoce mejor de lo que nos conocemos a
 
-nosotros mismos. l entiende cada dolor y cada gemido secretos. No necesitas
+nosotros mismos. Él entiende cada dolor y cada gemido secretos. No necesitas
 
-preocuparte acerca de la fraseologa de tu oracin, pues l rectificar su
+preocuparte acerca de la fraseología de tu oración, pues Él rectificará su
 
-texto. E incluso en cuanto al entendimiento de la peticin exacta, aunque t
+texto. E incluso en cuanto al entendimiento de la petición exacta, aunque tú
 
-falles en entenderla, l no puede fallar, puesto que conoce la mente de Dios y
+falles en entenderla, Él no puede fallar, puesto que conoce la mente de Dios y
 
-conoce tambin lo que est en tu mente. l puede atisbar alguna razn para
+conoce también lo que está en tu mente. Él puede atisbar alguna razón para
 
-tener misericordia de ti que t mismo no podras detectar, y cuando todo est
+tener misericordia de ti que tú mismo no podrías detectar, y cuando todo está
 
 tan oscuro y nublado en tu alma que no puedes discernir un punto de apoyo para
 
-una peticin que pudieras solicitar ante el cielo, el Seor Jess tiene
+una petición que pudieras solicitar ante el cielo, el Seńor Jesús tiene
 
-preparadas las splicas que han de ser formuladas, y tiene las peticiones redactadas,
+preparadas las súplicas que han de ser formuladas, y tiene las peticiones redactadas,
 
-y puede presentarlas de manera aceptable delante del propiciatorio. Observarn,
+y puede presentarlas de manera aceptable delante del propiciatorio. Observarán,
 
-entonces, que Su intercesin es muy clemente y en segundo lugar, muy ponderada.
+entonces, que Su intercesión es muy clemente y en segundo lugar, muy ponderada.
 
-A continuacin debemos notar su
+A continuación debemos notar su
 
 vehemencia.
 
 Quienquiera que lea estas
 
-palabras: Padre, perdnalos, porque no saben lo que hacen, no puede dudar que
+palabras: “Padre, perdónalos, porque no saben lo que hacen”, no puede dudar que
 
 traspasaban el cielo en su fervor.
 
-Hermanos, ustedes estn seguros, incluso sin
+Hermanos, ustedes están seguros, incluso sin
 
-pensarlo, de que Cristo era terriblemente vehemente en esa oracin. Pero hay un
+pensarlo, de que Cristo era terriblemente vehemente en esa oración. Pero hay un
 
 argumento para demostrarlo. Las personas vehementes son usualmente ingeniosas y
 
-de rpido entendimiento para descubrir cualquier cosa que les ayude en su
+de rápido entendimiento para descubrir cualquier cosa que les ayude en su
 
-propsito. Si estn pidiendo por su vida, y se les solicitara un argumento para
+propósito. Si están pidiendo por su vida, y se les solicitara un argumento para
 
-ser perdonadas, les garantizo que pensaran en uno cuando nadie ms podra
+ser perdonadas, les garantizo que pensarían en uno cuando nadie más podría
 
 hacerlo.
 
-Ahora, Jess estaba tan vido de la salvacin de
+Ahora, Jesús estaba tan ávido de la salvación de
 
-Sus enemigos que recurri a un argumento para la misericordia que un espritu
+Sus enemigos que recurrió a un argumento para la misericordia que un espíritu
 
-menos ansioso no habra podido concebir: No saben lo que hacen. Vamos,
+menos ansioso no habría podido concebir: “No saben lo que hacen”. Vamos,
 
-seores, eso fue, en la ms estricta justicia, una escasa razn para la
+seńores, eso fue, en la más estricta justicia, una escasa razón para la
 
-misericordia; y en verdad, la ignorancia, si es deliberada, no atena el pecado
+misericordia; y en verdad, la ignorancia, si es deliberada, no atenúa el pecado
 
 y, sin embargo, la ignorancia de muchos que estaban al pie de la cruz era una ignorancia
 
-deliberada. Ellos deberan haber sabido que l era el Seor de gloria. Acaso
+deliberada. Ellos deberían haber sabido que Él era el Seńor de gloria. żAcaso
 
-no fue Moiss lo suficientemente claro? Acaso Isaas no haba sido muy
+no fue Moisés lo suficientemente claro? żAcaso Isaías no había sido muy
 
-valiente en su mensaje? No eran los signos y seales tan claros que dudar de
+valiente en su mensaje? żNo eran los signos y seńales tan claros que dudar de
 
-los argumentos de que Jess es el Mesas era como dudar de cul es el sol en el
+los argumentos de que Jesús es el Mesías era como dudar de cuál es el sol en el
 
 firmamento? Sin embargo, a pesar de todo eso, el Salvador, con maravillosa
 
-vehemencia y consiguiente destreza, convierte en un argumento lo que no habra
+vehemencia y consiguiente destreza, convierte en un argumento lo que no habría
 
-podido ser un argumento, y lo expresa as: Padre, perdnalos,
+podido ser un argumento, y lo expresa así: “Padre, perdónalos,
 
 porque
 
-no saben lo que hacen. Oh, entonces,
+no saben lo que hacen”. ˇOh, entonces,
 
-cun poderosos en su vehemencia son Sus argumentos en el cielo! No supongan que
+cuán poderosos en su vehemencia son Sus argumentos en el cielo! No supongan que
 
-Su entendimiento es menos rpido all, o que Sus peticiones son menos intensas
+Su entendimiento es menos rápido allá, o que Sus peticiones son menos intensas
 
-en la vehemencia. No, hermanos mos, el corazn de Cristo todava labora
+en la vehemencia. No, hermanos míos, el corazón de Cristo todavía labora
 
-arduamente con el Dios eterno. l no es un intercesor adormecido, antes bien,
+arduamente con el Dios eterno. Él no es un intercesor adormecido, antes bien,
 
-por la causa de Sion, no calla y no descansa, ni descansar, hasta que salga
+por la causa de Sion, no calla y no descansa, ni descansará, hasta que salga
 
-como resplandor Su justicia, y Su salvacin se encienda como una antorcha.
+como resplandor Su justicia, y Su salvación se encienda como una antorcha.
 
 Es interesante notar, en cuarto lugar, que la
 
-oracin all ofrecida nos ayuda a juzgar Su intercesin en el cielo en lo
+oración allí ofrecida nos ayuda a juzgar Su intercesión en el cielo en lo
 
 tocante a su
 
@@ -608,197 +608,197 @@ persistencia,
 
 perseverancia
 
-y perpetuidad. Como coment antes, si nuestro Salvador tuvo una oportunidad de
+y perpetuidad. Como comenté antes, si nuestro Salvador tuvo una oportunidad de
 
-hacer una pausa en Su oracin intercesora, ciertamente fue cuando lo clavaron
+hacer una pausa en Su oración intercesora, ciertamente fue cuando lo clavaron
 
 al madero; cuando eran culpables de actos directos de violencia mortal contra
 
-Su divina persona, habra podido cesar entonces de presentar peticiones en
+Su divina persona, habría podido cesar entonces de presentar peticiones en
 
 favor de ellos. Pero el pecado no puede atar la lengua de nuestro Amigo
 
-intercesor. Oh, cunto consuelo hay aqu!
+intercesor. ˇOh, cuánto consuelo hay aquí!
 
-T has pecado, creyente, t has contristado al
+Tú has pecado, creyente, tú has contristado al
 
-Espritu, pero no has detenido a esa poderosa lengua que intercede por ti. T
+Espíritu, pero no has detenido a esa poderosa lengua que intercede por ti. Tú
 
-has sido infructuoso, tal vez, hermano mo, y como el rbol estril, mereces
+has sido infructuoso, tal vez, hermano mío, y como el árbol estéril, mereces
 
 ser derribado; pero tu falta de fertilidad no ha retirado al Intercesor de Su
 
-lugar. l interviene en este momento, clamando: Djala todava este ao.
+lugar. Él interviene en este momento, clamando: “Déjala todavía este ańo”.
 
-Pecador, t has provocado a Dios al rechazar por largo tiempo Su misericordia y
+Pecador, tú has provocado a Dios al rechazar por largo tiempo Su misericordia y
 
 al ir de mal en peor, pero ni la blasfemia, ni la injusticia ni la infidelidad
 
-habrn de detener al Cristo de Dios de litigar el caso del primersimo de los
+habrán de detener al Cristo de Dios de litigar el caso del primerísimo de los
 
-pecadores. l vive, y en tanto que vive l intercede; y mientras haya un
+pecadores. Él vive, y en tanto que vive Él intercede; y mientras haya un
 
-pecador en la tierra que deba ser salvado, habr un intercesor en el cielo que
+pecador en la tierra que deba ser salvado, habrá un intercesor en el cielo que
 
-argumente en favor de l. Estos son slo fragmentos de pensamiento, pero les
+argumente en favor de él. Estos son sólo fragmentos de pensamiento, pero les
 
-ayudarn a entender, espero, la intercesin de su grandioso Sumo Sacerdote.
+ayudarán a entender, espero, la intercesión de su grandioso Sumo Sacerdote.
 
-Adems, piensen que esta oracin de nuestro
+Además, piensen que esta oración de nuestro
 
-Seor en la tierra es semejante a Su oracin en el cielo, en razn de su
+Seńor en la tierra es semejante a Su oración en el cielo, en razón de su
 
-sabidura.
+sabiduría.
 
-l busca lo mejor y lo que
+Él busca lo mejor y lo que
 
-Sus clientes necesitan: Padre,
+Sus clientes necesitan: “Padre,
 
-perdna
+perdóna
 
-los.
+los”.
 
-Este fue un gran punto entre manos; ellos necesitaban, all y entonces, el
+Este fue un gran punto entre manos; ellos necesitaban, allí y entonces, el
 
-perdn de Dios. l no dice: Padre, ilumnalos, pues no saben lo que hacen,
+perdón de Dios. Él no dice: “Padre, ilumínalos, pues no saben lo que hacen”,
 
-pues la simple iluminacin no habra creado sino tortura de conciencia y habra
+pues la simple iluminación no habría creado sino tortura de conciencia y habría
 
-acelerado su infierno: pero clama: Padre, perdona; y al tiempo que usaba Su
+acelerado su infierno: pero clama: “Padre, perdona”; y al tiempo que usaba Su
 
 voz, las preciosas gotas de sangre que estaban destilando entonces de las
 
-heridas de los clavos, estaban intercediendo tambin, y Dios oy, y sin duda
+heridas de los clavos, estaban intercediendo también, y Dios oyó, y sin duda
 
-perdon.
+perdonó.
 
 La primera misericordia que es necesaria para
 
-los pecadores culpables es el perdn del pecado. Cristo ora sabiamente por la
+los pecadores culpables es el perdón del pecado. Cristo ora sabiamente por la
 
-bendicin ms necesaria. Lo mismo sucede en el cielo; l intercede sabia y
+bendición más necesaria. Lo mismo sucede en el cielo; Él intercede sabia y
 
-prudentemente. Djenlo tranquilo; l sabe qu es lo que ha de pedir de la mano
+prudentemente. Déjenlo tranquilo; Él sabe qué es lo que ha de pedir de la mano
 
-divina. Vete t al propiciatorio, y derrama all tus deseos de la mejor manera
+divina. Vete tú al propiciatorio, y derrama allí tus deseos de la mejor manera
 
-que puedas, pero cuando hayas hecho eso, exprsalo siempre as: Oh, mi Seor
+que puedas, pero cuando hayas hecho eso, exprésalo siempre así: “Oh, mi Seńor
 
-Jess, no respondas a ningn deseo mo si no es acorde con Tu juicio; y si en
+Jesús, no respondas a ningún deseo mío si no es acorde con Tu juicio; y si en
 
-algo que he pedido he fallado en buscar lo que necesito, enmienda mi splica,
+algo que he pedido he fallado en buscar lo que necesito, enmienda mi súplica,
 
-pues T eres infinitamente ms sabio que yo. Oh, es dulce tener un amigo en la
+pues Tú eres infinitamente más sabio que yo”. Oh, es dulce tener un amigo en la
 
 corte que perfecciona nuestras peticiones antes de que lleguen al grandioso
 
 Rey.
 
-Yo creo que lo nico que se le presenta a Dios
+Yo creo que lo único que se le presenta a Dios
 
-ahora es una perfecta oracin; quiero decir que delante del grandioso Padre de
+ahora es una perfecta oración; quiero decir que delante del grandioso Padre de
 
-todos nosotros, ninguna oracin de Su pueblo sube de manera imperfecta; no
+todos nosotros, ninguna oración de Su pueblo sube de manera imperfecta; no
 
 queda nada afuera, y no hay nada que deba ser borrado; y esto, no porque las
 
-oraciones suyas fueran perfectas en s mismas originalmente, sino porque el
+oraciones suyas fueran perfectas en sí mismas originalmente, sino porque el
 
-Mediador las hace perfectas por medio de Su infinita sabidura, y se elevan
+Mediador las hace perfectas por medio de Su infinita sabiduría, y se elevan
 
-delante del propiciatorio moldeadas de acuerdo a la mente del propio Dios, y l
+delante del propiciatorio moldeadas de acuerdo a la mente del propio Dios, y Él
 
-responder con seguridad a esas oraciones.
+responderá con seguridad a esas oraciones.
 
-Adems, esta memorable oracin de nuestro Seor
+Además, esta memorable oración de nuestro Seńor
 
-crucificado era semejante a Su intercesin universal en el asunto de su
+crucificado era semejante a Su intercesión universal en el asunto de su
 
 predominio.
 
-Aqullos por quienes or
+Aquéllos por quienes oró
 
-fueron, muchos de ellos, perdonados. Recuerdan que l les dijo a Sus
+fueron, muchos de ellos, perdonados. żRecuerdan que Él les dijo a Sus
 
-discpulos cuando les orden predicar: comiencen en Jerusaln, y en aquel da
+discípulos cuando les ordenó predicar: “comiencen en Jerusalén”, y en aquel día
 
-cuando Pedro se puso en pie con los once, y acus al pueblo de que con manos
+cuando Pedro se puso en pie con los once, y acusó al pueblo de que con manos
 
-impas haban crucificado e inmolado al Salvador, tres mil personas que fueron
+impías habían crucificado e inmolado al Salvador, tres mil personas que fueron
 
-as justamente acusadas de Su crucifixin se convirtieron en creyentes en l, y
+así justamente acusadas de Su crucifixión se convirtieron en creyentes en Él, y
 
-fueron bautizadas en Su nombre? Esa fue una respuesta a la oracin de Jess.
+fueron bautizadas en Su nombre? Esa fue una respuesta a la oración de Jesús.
 
-Los sacerdotes estaban en el fondo del asesinato de nuestro Seor, y ellos eran
+Los sacerdotes estaban en el fondo del asesinato de nuestro Seńor, y ellos eran
 
-los ms culpables; pero se dice que: Muchos de los sacerdotes obedecan a la
+los más culpables; pero se dice que: “Muchos de los sacerdotes obedecían a la
 
-fe. Aqu est otra respuesta a la oracin. Puesto que todos los hombres
+fe”. Aquí está otra respuesta a la oración. Puesto que todos los hombres
 
-participaron representativamente, gentiles as como judos, en la muerte de
+participaron representativamente, gentiles así como judíos, en la muerte de
 
-Jess, el Evangelio fue predicado pronto a los judos y en un breve tiempo fue
+Jesús, el Evangelio fue predicado pronto a los judíos y en un breve tiempo fue
 
-predicado tambin a los gentiles. No fue esta oracin: Padre, perdnalos,
+predicado también a los gentiles. żNo fue esta oración: “Padre, perdónalos”,
 
-como una piedra arrojada en un lago, que forma primero un estrecho crculo, y
+como una piedra arrojada en un lago, que forma primero un estrecho círculo, y
 
-luego un anillo ms amplio, y pronto una esfera ms grande, hasta que todo el
+luego un anillo más amplio, y pronto una esfera más grande, hasta que todo el
 
-lago queda cubierto con olas en forma de crculos?
+lago queda cubierto con olas en forma de círculos?
 
-Una oracin como sta, arrojada en todo el
+Una oración como ésta, arrojada en todo el
 
-mundo, cre primero un pequeo anillo de judos y de sacerdotes convertidos, y
+mundo, creó primero un pequeńo anillo de judíos y de sacerdotes convertidos, y
 
-luego un crculo ms amplio de quienes estaban bajo la influencia romana; y hoy
+luego un círculo más amplio de quienes estaban bajo la influencia romana; y hoy
 
 su circunferencia es tan amplia como el globo entero, de tal forma que decenas
 
-de miles son salvados por medio del predominio de esta precisa intercesin: Padre,
+de miles son salvados por medio del predominio de esta precisa intercesión: “Padre,
 
-perdnalos. Sucede exactamente as con l en el cielo; nunca intercede en
+perdónalos”. Sucede exactamente así con Él en el cielo; nunca intercede en
 
-vano. Con manos sangrantes, tuvo xito; con pies clavados al madero, fue
+vano. Con manos sangrantes, tuvo éxito; con pies clavados al madero, fue
 
-victorioso; desamparado por Dios y despreciado por el pueblo, triunf con Sus
+victorioso; desamparado por Dios y despreciado por el pueblo, triunfó con Sus
 
-argumentos; cunto ms ahora que la tiara cie Sus sienes, que Su mano
+argumentos; ˇcuánto más ahora que la tiara cińe Sus sienes, que Su mano
 
-sostiene el cetro universal y Sus pies estn calzados con sandalias de plata, y
+sostiene el cetro universal y Sus pies están calzados con sandalias de plata, y
 
-que l es coronado Rey de reyes y Seor de seores! Si las lgrimas y los
+que Él es coronado Rey de reyes y Seńor de seńores! Si las lágrimas y los
 
-clamores producidos por la debilidad son omnipotentes, mucho ms poderosa tiene
+clamores producidos por la debilidad son omnipotentes, mucho más poderosa tiene
 
-que ser si fuera posible- esa sagrada autoridad que, como Sacerdote
+que ser –si fuera posible- esa sagrada autoridad que, como Sacerdote
 
-resucitado, intercede cuando est delante del trono del Padre y menciona el
+resucitado, intercede cuando está delante del trono del Padre y menciona el
 
-pacto que el Padre hizo con l.
+pacto que el Padre hizo con Él.
 
-Oh, ustedes, trmulos creyentes, confen a l
+ˇOh, ustedes, trémulos creyentes, confíen a Él
 
-sus preocupaciones! Acrquense, ustedes que son culpables, y pdanle que interceda
+sus preocupaciones! Acérquense, ustedes que son culpables, y pídanle que interceda
 
-por ustedes. Oh, ustedes, que no pueden orar, vamos, pdanle que interceda por
+por ustedes. Oh, ustedes, que no pueden orar, vamos, pídanle que interceda por
 
-ustedes. Corazones quebrantados, y cabezas rendidas y pechos desconsolados, acrquense
+ustedes. Corazones quebrantados, y cabezas rendidas y pechos desconsolados, acérquense
 
-a Aquel que pondr Sus mritos en el incensario de oro, y que luego colocar
+a Aquel que pondrá Sus méritos en el incensario de oro, y que luego colocará
 
-las oraciones suyas junto a Sus mritos, de tal forma que se elevarn como el
+las oraciones suyas junto a Sus méritos, de tal forma que se elevarán como el
 
-humo del perfume, como una fragante nube para la nariz del Seor Dios de los
+humo del perfume, como una fragante nube para la nariz del Seńor Dios de los
 
-ejrcitos, que oler un dulce aroma, y te aceptar a ti y a tus oraciones en el
+ejércitos, que olerá un dulce aroma, y te aceptará a ti y a tus oraciones en el
 
-Amado. Hemos abierto ahora un espacio ms que suficiente para sus meditaciones
+Amado. Hemos abierto ahora un espacio más que suficiente para sus meditaciones
 
 en casa esta tarde, y, por tanto, dejamos este primer punto. Hemos recibido una
 
-ilustracin, en la oracin de Cristo en la cruz, de lo que son siempre Sus
+ilustración, en la oración de Cristo en la cruz, de lo que son siempre Sus
 
 oraciones en el cielo.
 
@@ -808,63 +808,63 @@ En segundo lugar, el texto es ALECCIONADOR PARA
 
 LA OBRA DE LA IGLESIA.
 
-Como fue Cristo, as tiene que ser Su iglesia en
+Como fue Cristo, así tiene que ser Su iglesia en
 
 este mundo. Cristo vino a este mundo no para ser servido, sino para servir, no
 
 para ser honrado sino para salvar a otros. Su iglesia, cuando entienda su obra,
 
-percibir que no est aqu para acumular para s riqueza u honor, o para buscar
+percibirá que no está aquí para acumular para sí riqueza u honor, o para buscar
 
-cualquier engrandecimiento y posicin temporales; la iglesia est aqu para
+cualquier engrandecimiento y posición temporales; la iglesia está aquí para
 
 vivir abnegadamente, y si fuese necesario, para morir abnegadamente para la
 
-liberacin de las ovejas perdidas, para la salvacin de los hombres perdidos.
+liberación de las ovejas perdidas, para la salvación de los hombres perdidos.
 
-Hermanos, les dije que la oracin de Cristo en
+Hermanos, les dije que la oración de Cristo en
 
-la cruz fue completamente desinteresada. l no se incluye en ella. As debera
+la cruz fue completamente desinteresada. Él no se incluye en ella. Así debería
 
-ser la vida de oracin de la iglesia, la activa intervencin de la iglesia en
+ser la vida de oración de la iglesia, la activa intervención de la iglesia en
 
-favor de los pecadores. No ha de vivir nunca para sus ministros o para s
+favor de los pecadores. No ha de vivir nunca para sus ministros o para sí
 
 misma, sino que ha de hacerlo siempre para los hijos perdidos de los hombres.
 
-Se imaginan acaso que las iglesias son formadas para mantener ministros?
+żSe imaginan acaso que las iglesias son formadas para mantener ministros?
 
-Conciben ustedes que la iglesia existe en esta tierra para que simplemente se
+żConciben ustedes que la iglesia existe en esta tierra para que simplemente se
 
-pueda dar un cierto salario a los obispos y diconos, y prebendas y curatos, y
+pueda dar un cierto salario a los obispos y diáconos, y prebendas y curatos, y
 
-no s qu otras cosas ms?
+no sé qué otras cosas más?
 
-Hermanos mos, sera bueno que la institucin
+Hermanos míos, sería bueno que la institución
 
-entera fuera abolida si se fuera su nico objetivo. El objetivo de la iglesia
+entera fuera abolida si ése fuera su único objetivo. El objetivo de la iglesia
 
-no es proveer alivio externo para los ms jvenes hijos de la nobleza; cuando
+no es proveer alivio externo para los más jóvenes hijos de la nobleza; cuando
 
 no tengan el suficiente cerebro para ganar de alguna otra manera su sustento,
 
 deben permanecer en las viviendas familiares. Las iglesias no son establecidas
 
-para que los hombres de fcil palabra se pongan en pie los domingos y hablen, y
+para que los hombres de fácil palabra se pongan en pie los domingos y hablen, y
 
-as obtengan de sus admiradores el pan diario.
+así obtengan de sus admiradores el pan diario.
 
-Es ms, hay otro fin y objetivo distintos a
+Es más, hay otro fin y objetivo distintos a
 
-ste. Estos lugares de adoracin no son construidos para que ustedes puedan
+éste. Estos lugares de adoración no son construidos para que ustedes puedan
 
-sentarse aqu confortablemente, y or algo que les haga pasar sus domingos
+sentarse aquí confortablemente, y oír algo que les haga pasar sus domingos
 
 placenteramente. Una iglesia en Londres que no exista para hacer el bien en los
 
 barrios bajos, y en las guaridas y cubiles de la ciudad, es una iglesia que no
 
-tiene razn para justificar su existencia por ms tiempo. Una iglesia que no
+tiene razón para justificar su existencia por más tiempo. Una iglesia que no
 
 existe para rescatar al paganismo, para luchar contra el mal, para destruir el
 
@@ -874,179 +874,179 @@ lado de los pobres, para denunciar la injusticia y sostener en alto a la
 
 justicia, es una iglesia que no tiene derecho de existir.
 
-No para ti misma, oh iglesia, existes t, as
+No para ti misma, oh iglesia, existes tú, así
 
-como tampoco Cristo existi para S mismo. Su gloria consisti en que hizo de
+como tampoco Cristo existió para Sí mismo. Su gloria consistió en que hizo de
 
 lado Su gloria, y la gloria de la iglesia se da cuando hace de lado su
 
 respetabilidad y su dignidad, y considera que su gloria es atraer a los
 
-desechados, y que su ms excelso honor es buscar, en medio del cieno ms inmundo,
+desechados, y que su más excelso honor es buscar, en medio del cieno más inmundo,
 
-las joyas invaluables por las que Jess derram Su sangre. Su ocupacin
+las joyas invaluables por las que Jesús derramó Su sangre. Su ocupación
 
 celestial es rescatar del infierno a las almas y conducirlas a Dios, a la
 
-esperanza, al cielo. Oh, que la iglesia sintiera esto siempre! Que tenga sus
+esperanza, al cielo. ˇOh, que la iglesia sintiera esto siempre! Que tenga sus
 
 obispos y sus predicadores, y que sean sostenidos, y que todo sea hecho
 
 decentemente y en orden por Cristo, pero el fin debe ser considerado, es decir,
 
-la conversin de los descarriados, la instruccin de los ignorantes, la ayuda
+la conversión de los descarriados, la instrucción de los ignorantes, la ayuda
 
 de los pobres, el mantenimiento del bien, el abatimiento del mal y el
 
-sostenimiento a cualquier riesgo de la corona y el reinado de nuestro Seor
+sostenimiento a cualquier riesgo de la corona y el reinado de nuestro Seńor
 
 Jesucristo.
 
-Ahora, la oracin de Cristo tena una
+Ahora, la oración de Cristo tenía una
 
-gran espiritualidad de propsito.
+gran espiritualidad de propósito.
 
 Ustedes
 
-notarn que no se busca nada para estas personas excepto aquello que concierne
+notarán que no se busca nada para estas personas excepto aquello que concierne
 
-a sus almas: Padre,
+a sus almas: “Padre,
 
 perdona
 
 a
 
-ellos. Y yo creo que la iglesia hara bien en recordar que lucha no con carne
+ellos”. Y yo creo que la iglesia haría bien en recordar que lucha no con carne
 
 ni sangre, ni con principados y potestades, sino con la maldad espiritual, y
 
 que lo que debe ofrecer no es la ley y el orden por los cuales los magistrados
 
-puedan ser respaldados, o las tiranas demolidas, sino el gobierno espiritual
+puedan ser respaldados, o las tiranías demolidas, sino el gobierno espiritual
 
 por el cual los corazones son conquistados para Cristo, y los juicios son
 
-sometidos a Su verdad. Yo creo que entre ms se esfuerce la iglesia de Dios,
+sometidos a Su verdad. Yo creo que entre más se esfuerce la iglesia de Dios,
 
-ante Dios, por el perdn de los pecadores, y entre ms busque en su vida de oracin
+ante Dios, por el perdón de los pecadores, y entre más busque en su vida de oración
 
-ensear a los pecadores lo que es el pecado, y lo que es la sangre de Cristo, y
+enseńar a los pecadores lo que es el pecado, y lo que es la sangre de Cristo, y
 
 el infierno que les espera si el pecado no es limpiado, y lo que es el cielo
 
-que es garantizado a todos aquellos que son limpiados del pecado, entre ms se
+que es garantizado a todos aquellos que son limpiados del pecado, entre más se
 
-apegue a esto, ser mejor.
+apegue a esto, será mejor.
 
-Prosigan como un solo hombre, hermanos mos, para
+Prosigan como un solo hombre, hermanos míos, para
 
-asegurar la raz del asunto en el perdn de los pecados. En cuanto a todos los
+asegurar la raíz del asunto en el perdón de los pecados. En cuanto a todos los
 
 males que afligen a la humanidad, cueste lo que cueste, participen en la lucha
 
-contra ellos; la temperancia ha de ser mantenida, la educacin ha de ser
+contra ellos; la temperancia ha de ser mantenida, la educación ha de ser
 
-apoyada; las reformas polticas y eclesisticas han de ser llevadas adelante en
+apoyada; las reformas políticas y eclesiásticas han de ser llevadas adelante en
 
-la medida del tiempo y del esfuerzo disponibles, pero la primera ocupacin de
+la medida del tiempo y del esfuerzo disponibles, pero la primera ocupación de
 
-cada cristiano y de cada cristiana est con los corazones y las conciencias de
+cada cristiano y de cada cristiana está con los corazones y las conciencias de
 
-los hombres en cuanto a su posicin delante del Dios eterno. Oh, que nada los
+los hombres en cuanto a su posición delante del Dios eterno. Oh, que nada los
 
-aparte de su divina encomienda de misericordia para almas imperecederas. ste
+aparte de su divina encomienda de misericordia para almas imperecederas. Éste
 
-debe ser su nico negocio: deben decirles a los pecadores que el pecado los condenar,
+debe ser su único negocio: deben decirles a los pecadores que el pecado los condenará,
 
-que slo Cristo puede quitar el pecado, y deben hacer de esto la nica pasin
+que sólo Cristo puede quitar el pecado, y deben hacer de esto la única pasión
 
-de sus almas: Padre, perdnalos, perdnalos! Hazles saber cmo han de ser
+de sus almas: “ˇPadre, perdónalos, perdónalos! Hazles saber cómo han de ser
 
 perdonados. Haz que sean realmente perdonados, y que yo no descanse a menos que
 
 sea el instrumento de conducir a los pecadores a ser perdonados, incluso a los
 
-ms culpables de ellos.
+más culpables de ellos”.
 
-La oracin de nuestro Salvador le ensea a la
+La oración de nuestro Salvador le enseńa a la
 
-iglesia que si bien es cierto que su espritu debe ser de abnegacin y que su
+iglesia que si bien es cierto que su espíritu debe ser de abnegación y que su
 
-propsito debe ser espiritual,
+propósito debe ser espiritual,
 
 el alcance
 
-de su misin
+de su misión
 
-debe ser ilimitado. Cristo or por los malvados, y qu si
+debe ser ilimitado. ˇCristo oró por los malvados, y qué si
 
-digo que fue por los ms malvados de los malvados, esa turba procaz que rodeaba
+digo que fue por los más malvados de los malvados, esa turba procaz que rodeaba
 
-Su cruz! l or por los ignorantes. Acaso no dice: No saben lo que hacen? l
+Su cruz! Él oró por los ignorantes. żAcaso no dice: “No saben lo que hacen”? Él
 
-or por Sus perseguidores; las propias personas que estaban ms enemistadas con
+oró por Sus perseguidores; las propias personas que estaban más enemistadas con
 
-l, estaban ms cerca de Su corazn.
+Él, estaban más cerca de Su corazón.
 
-Iglesia de Dios, tu misin no est encaminada
+Iglesia de Dios, tu misión no está encaminada
 
 hacia los pocos seres respetables que se congregan en torno a tus ministros
 
-para escuchar respetuosamente sus palabras; tu misin no es para la
+para escuchar respetuosamente sus palabras; tu misión no es para la
 
-lite
+élite
 
-y para los eclcticos, los
+y para los eclécticos, los
 
-inteligentes que criticarn tus palabras y harn juicios sobre cada slaba de
+inteligentes que criticarán tus palabras y harán juicios sobre cada sílaba de
 
-tu enseanza; tu misin no es para aquellos que te tratan amablemente,
+tu enseńanza; tu misión no es para aquellos que te tratan amablemente,
 
-generosamente, afectuosamente, quiero decir, no solamente para stos, aunque
+generosamente, afectuosamente, quiero decir, no solamente para éstos, aunque
 
-ciertamente es para stos como parte del resto; pero tu gran encargo es para la
+ciertamente es para éstos como parte del resto; pero tu gran encargo es para la
 
-ramera, para la prostituta, para el ladrn, para el blasfemo y para el
+ramera, para la prostituta, para el ladrón, para el blasfemo y para el
 
-borracho, para los ms depravados y pervertidos. Aunque nadie ms se preocupe
+borracho, para los más depravados y pervertidos. Aunque nadie más se preocupe
 
 por ellos, la iglesia siempre debe hacerlo, y si alguien ha de ocupar el primer
 
-lugar en sus oraciones deberan ser stos que, ay!, son generalmente los
+lugar en sus oraciones deberían ser éstos que, ˇay!, son generalmente los
 
-ltimos en nuestros pensamientos. Debemos considerar diligentemente a los
+últimos en nuestros pensamientos. Debemos considerar diligentemente a los
 
 ignorantes. No basta que el predicador predique de tal manera que quienes son
 
-instruidos desde su juventud puedan entenderle; tiene que pensar en aqullos
+instruidos desde su juventud puedan entenderle; tiene que pensar en aquéllos
 
-para quienes las frases ms comunes de la verdad teolgica son tan carentes de
+para quienes las frases más comunes de la verdad teológica son tan carentes de
 
-significado como la jerga de un lenguaje desconocido; l tiene que predicar con
+significado como la jerga de un lenguaje desconocido; él tiene que predicar con
 
-el objeto de conseguir la ms mnima comprensin; y si los muchos ignorantes no
+el objeto de conseguir la más mínima comprensión; y si los muchos ignorantes no
 
-se acercan a orlo, l debe usar los mejores medios que pueda para inducirlos,
+se acercan a oírlo, él debe usar los mejores medios que pueda para inducirlos,
 
-es ms, para forzarlos a or las buenas nuevas.
+es más, para forzarlos a oír las buenas nuevas.
 
-El Evangelio est dirigido tambin para aqullos
+El Evangelio está dirigido también para aquéllos
 
-que persiguen a la religin; apunta sus flechas de amor contra los corazones de
+que persiguen a la religión; apunta sus flechas de amor contra los corazones de
 
 sus enemigos. Si hay algunos a quienes debemos buscar primero para llevarlos a
 
-Jess, deben ser justamente aqullos que estn ms lejos y ms opuestos al
+Jesús, deben ser justamente aquéllos que están más lejos y más opuestos al
 
-Evangelio de Cristo. Padre, perdna
+Evangelio de Cristo. “Padre, perdóna
 
 los;
 
 aunque
 
-no perdones a nadie ms, agrdate en perdonarlos
+no perdones a nadie más, agrádate en perdonarlos
 
-a ellos.
+a ellos”.
 
 De igual manera, la iglesia debe ser
 
@@ -1054,69 +1054,69 @@ vehemente
 
 como Cristo lo fue; y si lo
 
-fuera, advertira rpidamente cualquier base de esperanza en aqullos con
+fuera, advertiría rápidamente cualquier base de esperanza en aquéllos con
 
-quienes trata y observara rpidamente cualquier argumento que pudiera usar
+quienes trata y observaría rápidamente cualquier argumento que pudiera usar
 
-para su salvacin.
+para su salvación.
 
-Tiene que estar tambin llena de
+Tiene que estar también llena de
 
 esperanzas,
 
 y ciertamente ninguna
 
-iglesia tuvo jams una esfera ms esperanzadora que la iglesia de la poca
+iglesia tuvo jamás una esfera más esperanzadora que la iglesia de la época
 
 presente. Si la ignorancia es un argumento para con Dios, miren a los paganos
 
-de este tiempo: millones de ellos nunca oyeron el nombre del Mesas.
+de este tiempo: millones de ellos nunca oyeron el nombre del Mesías.
 
-Perdnalos, grandioso Dios, en verdad ellos no saben lo que hacen. Si la
+Perdónalos, grandioso Dios, en verdad ellos no saben lo que hacen. Si la
 
 ignorancia es alguna base para la esperanza, hay suficiente esperanza en esta
 
-gran ciudad de Londres, pues acaso no tenemos cientos de miles para quienes
+gran ciudad de Londres, pues żacaso no tenemos cientos de miles para quienes
 
-las verdades ms sencillas del Evangelio seran las novedades ms grandes?
+las verdades más sencillas del Evangelio serían las novedades más grandes?
 
-Hermanos, es triste pensar que este pas todava
+Hermanos, es triste pensar que este país todavía
 
-est bajo el palio de la ignorancia, pero el aguijn de un hecho tan terrible
+esté bajo el palio de la ignorancia, pero el aguijón de un hecho tan terrible
 
-es entorpecido por la esperanza, cuando leemos correctamente la oracin del
+es entorpecido por la esperanza, cuando leemos correctamente la oración del
 
-Salvador; nos ayuda a esperar mientras clamamos: Perdnalos, porque no saben
+Salvador; nos ayuda a esperar mientras clamamos: “Perdónalos, porque no saben
 
-lo que hacen. La actividad de la iglesia tiene que ser buscar a los ms cados
+lo que hacen”. La actividad de la iglesia tiene que ser buscar a los más caídos
 
-y a los ms ignorantes, y buscarlos perseverantemente. No debe nunca detener su
+y a los más ignorantes, y buscarlos perseverantemente. No debe nunca detener su
 
-mano de hacer el bien. Si el Seor viniera maana, no hay razn para que
+mano de hacer el bien. Si el Seńor viniera mańana, no hay razón para que
 
 ustedes, personas cristianas, se conviertan en meros habladores y lectores,
 
-reunindose para el consuelo mutuo, y olvidndose de miradas de almas que
+reuniéndose para el consuelo mutuo, y olvidándose de miríadas de almas que
 
 perecen. Si fuera cierto que este mundo se puede hacer pedazos en un par de
 
-semanas y que Luis Napolen es la bestia apocalptica, o si no fuera cierto, no
+semanas y que Luis Napoleón es la bestia apocalíptica, o si no fuera cierto, no
 
 me importa en absoluto, eso no modifica mi deber en nada, ni cambia mi
 
-servicio. Que mi Seor venga cuando quiera, pues mientras yo trabaje para l, estoy
+servicio. Que mi Seńor venga cuando quiera, pues mientras yo trabaje para Él, estoy
 
-listo para Su venida. El propsito de la iglesia sigue siendo todava mirar por
+listo para Su venida. El propósito de la iglesia sigue siendo todavía mirar por
 
-la salvacin de las almas. Si se quedara contemplando, como los profetas
+la salvación de las almas. Si se quedara contemplando, como los profetas
 
 modernos quisieran que lo hiciera, si estuviera anuente a entregarse a
 
-interpretaciones especulativas, hara bien en temer la venida de su Seor; pero
+interpretaciones especulativas, haría bien en temer la venida de su Seńor; pero
 
-si contina haciendo su trabajo, y con una labor agotadora busca las preciosas
+si continúa haciendo su trabajo, y con una labor agotadora busca las preciosas
 
-joyas de su Seor, no ser avergonzada cuando venga el Esposo.
+joyas de su Seńor, no será avergonzada cuando venga el Esposo.
 
 Mi tiempo ha sido demasiado breve para un tema
 
@@ -1124,27 +1124,27 @@ tan vasto como el que he abordado, pero quisiera poder pronunciar unas palabras
 
 que fueran tan fuertes como el trueno, con un sentido y una vehemencia tan poderosos
 
-como el rayo. Quisiera poder motivar a cada cristiano aqu presente, y avivar
+como el rayo. Quisiera poder motivar a cada cristiano aquí presente, y avivar
 
-en l una idea correcta de lo que es su trabajo como una parte de la iglesia de
+en él una idea correcta de lo que es su trabajo como una parte de la iglesia de
 
 Cristo.
 
-Hermanos mos, no han de vivir para ustedes; la
+Hermanos míos, no han de vivir para ustedes; la
 
-acumulacin de dinero, la educacin de sus hijos, la edificacin de casas, la
+acumulación de dinero, la educación de sus hijos, la edificación de casas, la
 
-obtencin de su pan diario, todo esto pueden hacerlo; pero tiene que haber un
+obtención de su pan diario, todo esto pueden hacerlo; pero tiene que haber un
 
-propsito ms grande que este si han de ser semejantes a Cristo, como deberan
+propósito más grande que este si han de ser semejantes a Cristo, como deberían
 
-serlo, puesto que han sido comprados con la sangre de Jess. Comiencen a vivir
+serlo, puesto que han sido comprados con la sangre de Jesús. Comiencen a vivir
 
 para otros, hagan evidente para todos los hombres que ustedes mismos no son el
 
 fin de todo ni el ser de todo de su propia existencia, sino que gastan lo suyo
 
-y aun ustedes mismos se gastarn del todo para que por el bien que hacen a los
+y aun ustedes mismos se gastarán del todo para que por el bien que hacen a los
 
 hombres Dios sea glorificado y Cristo vea en ustedes Su propia imagen y quede
 
@@ -1152,77 +1152,77 @@ satisfecho.
 
 III.
 
-El tiempo se me ha agotado, pero el ltimo punto
+El tiempo se me ha agotado, pero el último punto
 
 es una palabra de SUGERENCIA PARA LOS INCONVERSOS.
 
-Escuchen atentamente estas frases. Las har tan
+Escuchen atentamente estas frases. Las haré tan
 
 tersas y condensadas como sea posible. Algunos de los presentes no son salvos.
 
-Ahora, algunos de ustedes han sido muy ignorantes, y cuando pecaron no saban
+Ahora, algunos de ustedes han sido muy ignorantes, y cuando pecaron no sabían
 
-lo que hacan. Ustedes saban que eran pecadores, saban eso, pero no conocan
+lo que hacían. Ustedes sabían que eran pecadores, sabían eso, pero no conocían
 
-el gran alcance de la culpa del pecado. No han asistido a la casa de oracin
+el gran alcance de la culpa del pecado. No han asistido a la casa de oración
 
-por largo tiempo, no han ledo su Biblia, no tienen padres cristianos. Ahora
+por largo tiempo, no han leído su Biblia, no tienen padres cristianos. Ahora
 
-estn comenzando a estar ansiosos por sus almas. Recuerden que su ignorancia no
+están comenzando a estar ansiosos por sus almas. Recuerden que su ignorancia no
 
-los excusa; de otra manera Cristo no dira: Perdnalos; tienen que ser
+los excusa; de otra manera Cristo no diría: “Perdónalos”; tienen que ser
 
-perdonados incluso aquellos que no saben lo que hacen; de ah que sean individualmente
+perdonados incluso aquellos que no saben lo que hacen; de ahí que sean individualmente
 
-culpables; pero an as esa ignorancia suya les da justo un pequeo rayo de
+culpables; pero aún así esa ignorancia suya les da justo un pequeńo rayo de
 
-esperanza. Dios pas por alto los tiempos de su ignorancia, pero ahora manda a
+esperanza. Dios pasó por alto los tiempos de su ignorancia, pero ahora manda a
 
 todos los hombres en todo lugar, que se arrepientan. Haced, pues, frutos dignos
 
-de arrepentimiento. El Dios a quien han olvidado ignorantemente est dispuesto
+de arrepentimiento. El Dios a quien han olvidado ignorantemente está dispuesto
 
-a perdonar y listo a absolver. El Evangelio es justamente esto: confen en
+a perdonar y listo a absolver. El Evangelio es justamente esto: confíen en
 
-Jesucristo que muri por los culpables, y sern salvos. Oh, que Dios los ayude
+Jesucristo que murió por los culpables, y serán salvos. Oh, que Dios los ayude
 
-a hacer esto esta misma maana, y se convertirn en hombres nuevos y nuevas
+a hacer esto esta misma mańana, y se convertirán en hombres nuevos y nuevas
 
-mujeres; un cambio tendr lugar en ustedes igual a un nuevo nacimiento; sern
+mujeres; un cambio tendrá lugar en ustedes igual a un nuevo nacimiento; serán
 
-nuevas criaturas en Cristo Jess.
+nuevas criaturas en Cristo Jesús.
 
-Pero, ah!, amigos mos, hay algunos presentes
+Pero, ˇah!, amigos míos, hay algunos presentes
 
-para quienes Cristo mismo no podra hacer esta oracin, al menos en el sentido
+para quienes Cristo mismo no podría hacer esta oración, al menos en el sentido
 
-ms amplio: Padre, perdnalos, pues no saben lo que hacen, pues ustedes saben
+más amplio: “Padre, perdónalos, pues no saben lo que hacen”, pues ustedes saben
 
-lo que hacen y cada sermn que oyen, y especialmente cada impresin que es
+lo que hacen y cada sermón que oyen, y especialmente cada impresión que es
 
 grabada en su entendimiento y en su conciencia por el Evangelio, aumenta su
 
-responsabilidad, y les suprime la excusa de no saber lo que hacen. Ah!, seores,
+responsabilidad, y les suprime la excusa de no saber lo que hacen. ˇAh!, seńores,
 
-ustedes saben que est el mundo y est Cristo y que no pueden tener ambos.
+ustedes saben que está el mundo y está Cristo y que no pueden tener ambos.
 
-Ustedes saben que est el pecado y est Dios, y que no pueden servir a ambos.
+Ustedes saben que está el pecado y está Dios, y que no pueden servir a ambos.
 
-Ustedes saben que estn el placer del mal y los placeres del cielo, y que no
+Ustedes saben que están el placer del mal y los placeres del cielo, y que no
 
-pueden tener a los dos. Oh!, a la luz que Dios les ha dado, que se una Su
+pueden tener a los dos. ˇOh!, a la luz que Dios les ha dado, que se una Su
 
-Espritu tambin y les ayude a escoger aquello que la verdadera sabidura los
+Espíritu también y les ayude a escoger aquello que la verdadera sabiduría los
 
-inducira a escoger. Decidan hoy por Dios, por Cristo, por el cielo. Que el
+induciría a escoger. Decidan hoy por Dios, por Cristo, por el cielo. Que el
 
-Seor los conduzca a decidir eso por causa de Su nombre. Amn.
+Seńor los conduzca a decidir eso por causa de Su nombre. Amén.
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 Lucas 23: 1-34.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 18/Febrero/2010
 

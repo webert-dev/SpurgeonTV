@@ -1,26 +1,26 @@
 # Sermón 3281 | Sermón 3281
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Muro Ancho
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 21 DE DICIEMBRE DE 1911.
 
-El Muro Ancho. Nehemas 3: 8
+“El Muro Ancho”. Nehemías 3: 8
 
 Pareciera que en torno a
 
-la antigua Jerusaln, en el tiempo de su esplendor, haba un muro ancho que era
+la antigua Jerusalén, en el tiempo de su esplendor, había un muro ancho que era
 
-su defensa y su gloria. Jerusaln es un tipo de
+su defensa y su gloria. Jerusalén es un tipo de
 
 la Iglesia
 
@@ -42,7 +42,7 @@ la Iglesia
 
 sugiere tres cosas:
 
-separacin, seguridad
+separación, seguridad
 
 y
 
@@ -56,153 +56,153 @@ I.
 
 Primero,
 
-la SEPARACIN
+la SEPARACIÓN
 
 del pueblo de Dios del mundo es como aquel ancho muro que rodeaba a la ciudad
 
-santa de Jerusaln.
+santa de Jerusalén.
 
 Cuando un hombre se
 
-convierte en cristiano, est todava en el mundo, pero ya no ha de ser ms del
+convierte en cristiano, está todavía en el mundo, pero ya no ha de ser más del
 
 mundo. Era un heredero de la ira, pero se ha convertido ahora en un hijo de la
 
 gracia. Siendo de una naturaleza distinta, tiene que separarse del resto de la
 
-humanidad como lo hizo el Seor Jesucristo, quien era Santo, inocente, sin
+humanidad como lo hizo el Señor Jesucristo, quien era “Santo, inocente, sin
 
-mancha, apartado de los pecadores.
+mancha, apartado de los pecadores”.
 
 La Iglesia
 
-del Seor fue apartada en Su eterno propsito.
+del Señor fue apartada en Su eterno propósito.
 
-Fue apartada en Su pacto y en Su decreto. Fue apartada en la expiacin, pues
+Fue apartada en Su pacto y en Su decreto. Fue apartada en la expiación, pues
 
-incluso all descubrimos que nuestro Seor es llamado el Salvador de todos los
+incluso allí descubrimos que nuestro Señor es llamado “el Salvador de todos los
 
-hombres, mayormente de los que creen. Una separacin real es efectuada por la
+hombres, mayormente de los que creen”. Una separación real es efectuada por la
 
-gracia, es llevada adelante en la obra de santificacin, y ser completada en
+gracia, es llevada adelante en la obra de santificación, y será completada en
 
-aquel da cuando los cielos estn encendidos y los santos sean arrebatados
+aquel día cuando los cielos estén encendidos y los santos sean arrebatados
 
-juntamente para recibir al Seor en las nubes; y en aquel ltimo y tremendo
+juntamente para recibir al Señor en las nubes; y en aquel último y tremendo
 
-da, apartar a las naciones como aparta el pastor las ovejas de los cabritos,
+día, apartará a las naciones como aparta el pastor las ovejas de los cabritos,
 
-y luego estar puesta una gran sima a travs de la cual los impos no podrn ir
+y luego estará puesta una gran sima a través de la cual los impíos no podrán ir
 
-donde estn los justos, ni los justos podrn acercarse a los impos.
+donde están los justos, ni los justos podrán acercarse a los impíos.
 
-Mi propsito prctico es
+Mi propósito práctico es
 
-decirles a quienes profesan ser del pueblo del Seor:
+decirles a quienes profesan ser del pueblo del Señor:
 
-preocpense por mantener un ancho muro de separacin entre ustedes y el
+preocúpense por mantener un ancho muro de separación entre ustedes y el
 
 mundo.
 
 Yo no digo que han de adoptar alguna particularidad en el vestir, o
 
-asumir algn singular estilo de lenguaje. Tal afectacin engendra, tarde o
+asumir algún singular estilo de lenguaje. Tal afectación engendra, tarde o
 
-temprano, hipocresa. Un hombre puede ser tan completamente mundano con un
+temprano, hipocresía. Un hombre puede ser tan completamente mundano con un
 
 traje como puede serlo con otro; puede ser tan vano y arrogante con un estilo
 
-de lenguaje como con otro; es ms, pudiera ser ms mundano pretendiendo estar
+de lenguaje como con otro; es más, pudiera ser más mundano pretendiendo estar
 
-apartado, que si hubiera abandonado la pura pretensin de separacin. La
+apartado, que si hubiera abandonado la pura pretensión de separación. La
 
-separacin por la que abogamos es moral y espiritual. Su cimiento est colocado
+separación por la que abogamos es moral y espiritual. Su cimiento está colocado
 
-en lo profundo del corazn, y su realidad sustancial es muy palpable en la
+en lo profundo del corazón, y su realidad sustancial es muy palpable en la
 
 vida.
 
 Me parece que todo
 
-cristiano debera ser ms escrupuloso que otros hombres
+cristiano debería ser más escrupuloso que otros hombres
 
 en sus tratos.
 
-Nunca debera desviarse de la senda de la
+Nunca debería desviarse de la senda de la
 
-integridad. Nunca debera decir: Es la costumbre; eso es perfectamente
+integridad. Nunca debería decir: “Es la costumbre; eso es perfectamente
 
-entendible en este negocio. El cristiano debe recordar que la costumbre no
+entendible en este negocio”. El cristiano debe recordar que la costumbre no
 
-aprueba lo malo, y que el hecho de que se entienda no es una apologa para la
+aprueba lo malo, y que el hecho de que se “entienda” no es una apología para la
 
-falsificacin. Una mentira entendible no es por ello verdadera. En tanto que
+falsificación. Una mentira “entendible” no es por ello verdadera. En tanto que
 
-la regla de oro es ms admirada que practicada por los hombres ordinarios, el
+la regla de oro es más admirada que practicada por los hombres ordinarios, el
 
-cristiano siempre debe hacer a los dems como quisiera que le hicieran a l. Ha
+cristiano siempre debe hacer a los demás como quisiera que le hicieran a él. Ha
 
-de ser alguien cuya palabra es su garanta, y habiendo comprometido una vez su
+de ser alguien cuya palabra es su garantía, y habiendo comprometido una vez su
 
-palabra, jura para su propio dao pero no cambia. Debera haber una diferencia
+palabra, jura para su propio daño pero no cambia. Debería haber una diferencia
 
-esencial entre el cristiano y el mejor moralista en razn del ms elevado nivel
+esencial entre el cristiano y el mejor moralista en razón del más elevado nivel
 
 que el Evangelio inculca y que el Salvador ejemplifica. Ciertamente el punto
 
-culmen al que puede llegar el mejor de los inconversos podra ser considerado
+culmen al que puede llegar el mejor de los inconversos podría ser considerado
 
-muy bien como un nivel abajo del cual el hombre converso nunca se aventurara a
+muy bien como un nivel abajo del cual el hombre converso nunca se aventuraría a
 
 descender.
 
-Adems, el cristiano
+Además, el cristiano
 
-debera ser distinguido especialmente
+debería ser distinguido especialmente
 
 por
 
 sus placeres,
 
-pues es aqu, usualmente, donde el hombre revela sus
+pues es aquí, usualmente, donde el hombre revela sus
 
 verdaderos colores. En nuestro trabajo diario no somos en gran medida nosotros
 
-mismos, pues nuestras ocupaciones son dictadas por la necesidad ms bien que
+mismos, pues nuestras ocupaciones son dictadas por la necesidad más bien que
 
-por la eleccin. No estamos solos; la sociedad en la que nos vemos insertados
+por la elección. No estamos solos; la sociedad en la que nos vemos insertados
 
 nos impone restricciones; tenemos que ponernos el freno y la brida. El hombre
 
-verdadero no se muestra entonces; pero cuando acaba el trabajo del da, entonces
+verdadero no se muestra entonces; pero cuando acaba el trabajo del día, entonces
 
-Dios los cra y ellos se juntan. Sucede con la multitud de comerciantes y
+“Dios los cría y ellos se juntan”. Sucede con la multitud de comerciantes y
 
-hombres de negocios como suceda con aquellos santos de la antigedad, que
+hombres de negocios como sucedía con aquellos santos de la antigüedad, que
 
-cuando fueron liberados de la prisin, se dijo de ellos: y puestos en
+cuando fueron liberados de la prisión, se dijo de ellos: “y puestos en
 
-libertad, vinieron a los suyos. As, sus placeres y sus pasatiempos dan evidencia
+libertad, vinieron a los suyos”. Así, sus placeres y sus pasatiempos dan evidencia
 
-de lo que es su corazn y dnde est. Si pueden encontrar placer en el pecado,
+de lo que es su corazón y dónde está. Si pueden encontrar placer en el pecado,
 
 entonces eligen vivir en el pecado y, a menos que la gracia lo impida, en
 
-pecado perecern invariablemente. Pero si sus placeres son de una clase ms
+pecado perecerán invariablemente. Pero si sus placeres son de una clase más
 
-noble, y sus compaeros son de un carcter ms devoto; si buscan goces
+noble, y sus compañeros son de un carácter más devoto; si buscan goces
 
-espirituales, si encuentran sus momentos ms felices en la adoracin, en la
+espirituales, si encuentran sus momentos más felices en la adoración, en la
 
-comunin, en la oracin silenciosa o en la reunin pblica con el pueblo de
+comunión, en la oración silenciosa o en la reunión pública con el pueblo de
 
 Dios, entonces sus instintos superiores se convierten en una prueba de su
 
-carcter ms puro, y se distinguirn en sus placeres por un ancho muro que los
+carácter más puro, y se distinguirán en sus placeres por un ancho muro que los
 
 separa eficazmente del mundo.
 
-Tal separacin debe ser
+Tal separación debe ser
 
 llevada a cabo, pienso,
 
@@ -210,13 +210,13 @@ en todo lo que
 
 afecta al cristiano.
 
-Qu han visto
+“¿Qué han visto
 
-en tu casa?, fue la pregunta que hizo Isaas a Ezequas. Cuando un extrao
+en tu casa?”, fue la pregunta que hizo Isaías a Ezequías. Cuando un extraño
 
-entra en nuestra casa, debera encontrarla ordenada de tal manera que pueda
+entra en nuestra casa, debería encontrarla ordenada de tal manera que pueda
 
-percibir claramente que el Seor est all. Un hombre no debera quedarse ni
+percibir claramente que el Señor está allí. Un hombre no debería quedarse ni
 
 una noche bajo nuestro techo sin deducir que sentimos un respeto por Aquel que
 
@@ -226,55 +226,55 @@ Ya he dicho que no
 
 quisiera que cultivaran singularidades por amor a la singularidad; sin embargo,
 
-como la mayora de los hombres se quedan satisfechos haciendo lo que hacen
+como la mayoría de los hombres se quedan satisfechos haciendo lo que hacen
 
 otros hombres, ustedes no deben quedarse satisfechos nunca mientras no hagan
 
-ms y mejor que otras personas, habiendo descubierto un modo y un curso de vida
+más y mejor que otras personas, habiendo descubierto un modo y un curso de vida
 
-que trasciende tanto la vida del mundano ordinario como la senda del guila que
+que trasciende tanto la vida del mundano ordinario como la senda del águila que
 
-vuela en el aire est por encima de la del topo que hace su madriguera debajo
+vuela en el aire está por encima de la del topo que hace su madriguera debajo
 
 del suelo.
 
 Este muro ancho que
 
-separa a los piadosos de los impos
+separa a los piadosos de los impíos
 
 debe
 
-ser ms conspicuo en el espritu de nuestra mente.
+ser más conspicuo en el espíritu de nuestra mente.
 
-El hombre impo vive solamente
+El hombre impío vive solamente
 
-para este mundo; que no les sorprenda si vive entregado a l. No tiene ningn
+para este mundo; que no les sorprenda si vive entregado a él. No tiene ningún
 
-otro tesoro; por qu no habra de obtener todo lo que pueda de l? Pero t,
+otro tesoro; ¿por qué no habría de obtener todo lo que pueda de él? Pero tú,
 
 cristiano, profesas tener una vida inmortal, por tanto, tu tesoro no ha de ser
 
-amasado en este breve lapso de existencia. Tu tesoro est almacenado en el
+amasado en este breve lapso de existencia. Tu tesoro está almacenado en el
 
-cielo, y est disponible para la eternidad. Tus mejores esperanzas saltan sobre
+cielo, y está disponible para la eternidad. Tus mejores esperanzas saltan sobre
 
-los estrechos lmites del tiempo, y vuelan ms all de la tumba; por tanto, tu
+los estrechos límites del tiempo, y vuelan más allá de la tumba; por tanto, tu
 
-espritu no ha de estar orientado a la tierra ni debe arrastrarse, sino que ha
+espíritu no ha de estar orientado a la tierra ni debe arrastrarse, sino que ha
 
 de ser encumbrado y celestial. Tiene que haber en torno tuyo el aire de alguien
 
-que tiene puestos sus zapatos, ceidos sus lomos y su bculo en su mano, el
+que tiene puestos sus zapatos, ceñidos sus lomos y su báculo en su mano, el
 
-aire de un peregrino listo para partir lejos a una tierra mejor. T no debes
+aire de un peregrino listo para partir lejos a una tierra mejor. Tú no debes
 
-vivir aqu como si este fuese tu hogar. No debes hablar de este mundo como si
+vivir aquí como si este fuese tu hogar. No debes hablar de este mundo como si
 
 fuera a durar para siempre. No has de guardarlo, ni atesorarlo, como si hubieras
 
-puesto tu corazn en l, sino que tienes que volar como si no tuvieras un nido
+puesto tu corazón en él, sino que tienes que volar como si no tuvieras un nido
 
-aqu y no pudieras tenerlo nunca, antes bien, como si esperaras encontrar tu
+aquí y no pudieras tenerlo nunca, antes bien, como si esperaras encontrar tu
 
 lugar de descanso entre los cedros de Dios, en las cimas de los montes de la
 
@@ -282,29 +282,29 @@ gloria.
 
 Puedes estar seguro de
 
-que entre ms alejado del mundo est un cristiano, ser mejor para l. Me parece
+que entre más alejado del mundo esté un cristiano, será mejor para él. Me parece
 
-que puedo aducir varias razones por las que el muro debera ser muy ancho.
+que puedo aducir varias razones por las que el muro debería ser muy ancho.
 
-Si eres sincero en tu profesin, hay una
+Si eres sincero en tu profesión, hay una
 
-distincin muy amplia entre ti y la gente inconversa.
+distinción muy amplia entre ti y la gente inconversa.
 
 Nadie puede decir
 
-cun separada est la vida de la muerte. Puedes medir la diferencia? Son tan
+cuán separada está la vida de la muerte. ¿Puedes medir la diferencia? Son tan
 
-opuestas como los polos. Ahora, de acuerdo a tu profesin, t eres un hijo
+opuestas como los polos. Ahora, de acuerdo a tu profesión, tú eres un hijo
 
 viviente de Dios y has recibido una nueva vida, mientras que los hijos de este
 
-mundo estn muertos en delitos y pecados. Cun palpable es la diferencia entre
+mundo están muertos en delitos y pecados. ¡Cuán palpable es la diferencia entre
 
-la luz y las tinieblas! Sin embargo, t profesas que en otro tiempo eras
+la luz y las tinieblas! Sin embargo, tú profesas que en otro tiempo “eras
 
-tinieblas, mas ahora eres hecho luz en el Seor. Por tanto, hay una gran
+tinieblas”, mas ahora eres hecho “luz en el Señor”. Por tanto, hay una gran
 
-distincin entre ti y el mundo si en verdad fueras lo que profesas ser. Cuando te
+distinción entre ti y el mundo si en verdad fueras lo que profesas ser. Cuando te
 
 revistes con el nombre de Cristo dices que vas a
 
@@ -316,239 +316,239 @@ Celestial
 
 la Nueva
 
-Jerusaln
+Jerusalén
 
 ;
 
-pero el mundo le da la espalda al pas celestial, y va descendiendo a esa otra
+pero el mundo le da la espalda al país celestial, y va descendiendo a esa otra
 
-ciudad de la cual se sabe que la destruccin es su condena; tu senda es diferente
+ciudad de la cual se sabe que la destrucción es su condena; tu senda es diferente
 
 a la de ellos. Si fueras lo que dices ser, el camino que tomas tiene que ser
 
-diametralmente opuesto al del hombre impo. T sabes la diferencia que hay
+diametralmente opuesto al del hombre impío. Tú sabes la diferencia que hay
 
-entre sus fines. El fin de los justos ser la gloria sempiterna, mas el fin de
+entre sus fines. El fin de los justos será la gloria sempiterna, mas el fin de
 
-los malvados es la destruccin. Entonces, a menos que seas un hipcrita, hay
+los malvados es la destrucción. Entonces, a menos que seas un hipócrita, hay
 
-tal distincin entre t y otros que slo Dios mismo pudo establecer, una
+tal distinción entre tú y otros que sólo Dios mismo pudo establecer, una
 
-distincin que se origina aqu y que ha de ser perpetuada a lo largo de la
+distinción que se origina aquí y que ha de ser perpetuada a lo largo de la
 
 eternidad. Cuando las diferencias sociales provocadas por rango y dependencia,
 
-riqueza y pobreza, ignorancia y educacin se hayan disipado, las distinciones
+riqueza y pobreza, ignorancia y educación se hayan disipado, las distinciones
 
 entre los hijos de Dios y los hijos de los hombres, entre los santos y los
 
-burladores, entre los elegidos y los desechados existirn todava. Entonces,
+burladores, entre los elegidos y los desechados existirán todavía. Entonces,
 
-les ruego que mantengan un ancho muro en su conducta, as como Dios ha
+les ruego que mantengan un ancho muro en su conducta, así como Dios ha
 
 establecido un ancho muro en el estado y en el destino de ellos.
 
-Recuerden, adems,
+Recuerden, además,
 
-que nuestro Seor Jesucristo estableci un
+que nuestro Señor Jesucristo estableció un
 
-ancho muro entre l y los impos.
+ancho muro entre Él y los impíos.
 
-Obsrvenlo, y vean cun diferente es l
+Obsérvenlo, y vean cuán diferente es Él
 
 de los hombres de Su tiempo. En toda Su vida se advierte que fue un extranjero
 
-y un forastero en la tierra. Ciertamente, l se acercaba a los pecadores tanto
+y un forastero en la tierra. Ciertamente, Él se acercaba a los pecadores tanto
 
-como poda hacerlo, y los reciba cuando estaban dispuestos a acercarse a l;
+como podía hacerlo, y los recibía cuando estaban dispuestos a acercarse a Él;
 
-pero no se acercaba a sus pecados. l era santo, inocente, sin mancha,
+pero no se acercaba a sus pecados. Él era “santo, inocente, sin mancha,
 
-apartado de los pecadores. Cuando fue a Su propia aldea de Nazaret, slo
+apartado de los pecadores”. Cuando fue a Su propia aldea de Nazaret, sólo
 
-predic un solitario sermn, y ellos habran querido arrojarlo desde la cumbre
+predicó un solitario sermón, y ellos habrían querido arrojarlo desde la cumbre
 
-del monte para despearle, si hubieran podido hacerlo. Cuando pasaba por la
+del monte para despeñarle, si hubieran podido hacerlo. Cuando pasaba por la
 
-calle se converta en la cancin del borracho, en el objetivo de las burlas de
+calle se convertía en la canción del borracho, en el objetivo de las burlas de
 
 los necios y en el blanco al cual lanzaban los altivos las flechas de su
 
-escarnio. Por ltimo, vino a los Suyos, pero no lo recibieron, antes bien determinaron
+escarnio. Por último, vino a los Suyos, pero no lo recibieron, antes bien determinaron
 
-echarlo completamente fuera del campamento, as que lo llevaron al Glgota y lo
+echarlo completamente fuera del campamento, así que lo llevaron al Gólgota y lo
 
-clavaron al madero como un malhechor, como un promotor de sedicin. l fue el
+clavaron al madero como un malhechor, como un promotor de sedición. Él fue el
 
-gran Disidente, el gran Disconforme de Su poca.
+gran Disidente, el gran Disconforme de Su época.
 
 La Iglesia
 
 Nacional
 
-lo excomulg
+lo excomulgó
 
-primero, y luego lo ejecut. l no buscaba la diferencia en las cosas
+primero, y luego lo ejecutó. Él no buscaba la diferencia en las cosas
 
 triviales, antes bien, la pureza de Su vida y la veracidad de Su testimonio despertaron
 
-la indignacin de los gobernantes y de los principales de sus sinagogas. l
+la indignación de los gobernantes y de los principales de sus sinagogas. Él
 
 estaba dispuesto en todas las cosas a servirlos y a bendecirlos, pero nunca se
 
-mezclara con ellos. Hubieran querido hacerle rey. Ah!, si slo se hubiese
+mezclaría con ellos. Hubieran querido hacerle rey. ¡Ah!, si sólo se hubiese
 
-unido al mundo, el mundo le habra cedido el lugar principal, tal como el prncipe
+unido al mundo, el mundo le habría cedido el lugar principal, tal como el príncipe
 
-del mundo le dijo en el monte. Todo esto te dar, si postrado me adorares.
+del mundo le dijo en el monte. “Todo esto te daré, si postrado me adorares”.
 
-Pero l hace huir al diablo, y permanece inmaculado y separado hasta el fin de
+Pero Él hace huir al diablo, y permanece inmaculado y separado hasta el fin de
 
-Su vida. Si eres un cristiano, s un cristiano. Si sigues a Cristo, sal fuera
+Su vida. Si eres un cristiano, sé un cristiano. Si sigues a Cristo, sal fuera
 
-del campamento. Pero si no hubiera diferencia entre ti y tus semejantes, qu le
+del campamento. Pero si no hubiera diferencia entre ti y tus semejantes, ¿qué le
 
-dirs al Rey en el da cuando venga y descubra que no tienes el vestido de boda
+dirás al Rey en el día cuando venga y descubra que no tienes el vestido de boda
 
 por el cual puedes distinguirte del resto de la humanidad?
 
-Adems, queridos amigos,
+Además, queridos amigos,
 
-ustedes encontrarn que
+ustedes encontrarán que
 
 un muro ancho de
 
-separacin es sobremanera bueno para ustedes mismos.
+separación es sobremanera bueno para ustedes mismos.
 
-Yo no creo que ningn
+Yo no creo que ningún
 
-cristiano en el mundo les diga que, cuando cedi a las costumbres del mundo, se
+cristiano en el mundo les diga que, cuando cedió a las costumbres del mundo, se
 
-benefici jams por ello. Si t pudieras ir y pudieras encontrar una diversin
+benefició jamás por ello. Si tú pudieras ir y pudieras encontrar una diversión
 
-nocturna en algn lugar sospechoso, y te sintieras beneficiado por ello, yo
+nocturna en algún lugar sospechoso, y te sintieras beneficiado por ello, yo
 
-estoy seguro de que no seras cristiano, pues, si en verdad lo fueras, tu
+estoy seguro de que no serías cristiano, pues, si en verdad lo fueras, tu
 
-conciencia te remordera y ese acto te incapacitara para ejercicios ms
+conciencia te remordería y ese acto te incapacitaría para ejercicios más
 
-devotos del corazn. Pdele a un pez que pase una hora en tierra seca, y yo
+devotos del corazón. Pídele a un pez que pase una hora en tierra seca, y yo
 
-pienso que si lo cumpliera, el pez encontrara que no fue para su mayor
+pienso que si lo cumpliera, el pez encontraría que no fue para su mayor
 
-beneficio pues estara fuera de su elemento; y lo mismo sucedera contigo si
+beneficio pues estaría fuera de su elemento; y lo mismo sucedería contigo si
 
-tuvieras comunin con los pecadores. Cuando te ves forzado a asociarte con la
+tuvieras comunión con los pecadores. Cuando te ves forzado a asociarte con la
 
 gente mundana en el curso ordinario de los negocios, encuentras mucho que
 
-irrita tus odos, conturba tu corazn, y fastidia a tu alma. Te sentiras a
+irrita tus oídos, conturba tu corazón, y fastidia a tu alma. Te sentirías a
 
-menudo como el justo Lot, abrumado por la conversacin de los perversos, y
+menudo como el justo Lot, abrumado por la conversación de los perversos, y
 
-diras con David:
+dirías con David:
 
-Ay de m, que en Mesec
+“Ay de mí, que en Mesec
 
 Mucho tiempo he morado;
 
 Y habito en las tiendas
 
-Que pertenecen a Cedar.
+Que pertenecen a Cedar”.
 
-Tu alma anhelar y
+Tu alma anhelará y
 
-suspirar porque salgas y laves tus manos de todo lo que es impuro e inmundo.
+suspirará porque salgas y laves tus manos de todo lo que es impuro e inmundo.
 
-Como no encuentras consuelo all, anhelas alejarte a la casta, a la santa, a la
+Como no encuentras consuelo allí, anhelas alejarte a la casta, a la santa, a la
 
-devota y a la edificante comunin de los santos. Edifiquen un muro ancho,
+devota y a la edificante comunión de los santos. Edifiquen un muro ancho,
 
 queridos amigos, en su vida diaria. Si comenzaran a cederle un poco al mundo,
 
-pronto le cederan mucho. Concdanle al pecado una pulgada, y se tomar un
+pronto le cederían mucho. Concédanle al pecado una pulgada, y se tomará un
 
-codo. Cuida los centavos y los pesos se cuidarn solos, es un lema apropiado
+codo. “Cuida los centavos y los pesos se cuidarán solos”, es un lema apropiado
 
-de la economa. As tambin, ponte en guardia contra los pecados leves si
+de la economía. Así también, ponte en guardia contra los pecados leves si
 
-quisieras estar limpio de la gran rebelin. Cudate de los pequeos
+quisieras estar limpio de “la gran rebelión”. Cuídate de los pequeños
 
-acercamientos a la mundanalidad y de las pequeas concesiones a las cosas de la
+acercamientos a la mundanalidad y de las pequeñas concesiones a las cosas de la
 
-impiedad, y entonces no proveers para los deseos de la carne.
+impiedad, y entonces no proveerás para los deseos de la carne.
 
-Otra muy buena razn
+Otra muy buena razón
 
-para mantener el muro ancho de separacin es que
+para mantener el muro ancho de separación es que
 
-hars el mayor bien al mundo por ello.
+harás el mayor bien al mundo por ello.
 
-Yo s que Satans te dir
+Yo sé que Satanás te dirá
 
-que si cedes un poquito y te acercas a los impos, entonces ellos tambin
+que si cedes un poquito y te acercas a los impíos, entonces ellos también
 
-avanzarn un poco para encontrarse contigo. Ay, pero no es as. Cristiano, t
+avanzarán un poco para encontrarse contigo. Ay, pero no es así. Cristiano, tú
 
-pierdes tu fuerza en el momento en que te apartas de tu integridad. Qu
+pierdes tu fuerza en el momento en que te apartas de tu integridad. ¿Qué
 
-piensas que la gente impa dira a tus espaldas si vieran que eres
+piensas que la gente impía diría a tus espaldas si vieran que eres
 
-inconsistente con el objeto de agradarlos? Oh!, -diran ellos- no hay nada
+inconsistente con el objeto de agradarlos? “¡Oh!”, -dirían ellos- “no hay nada
 
-en su religin excepto una vana pretensin; ese hombre no es sincero. Aunque
+en su religión excepto una vana pretensión; ese hombre no es sincero”. Aunque
 
-el mundo puede denunciar abiertamente al rgido puritano, secretamente lo
+el mundo puede denunciar abiertamente al rígido puritano, secretamente lo
 
-admira. Cuando el gran corazn del mundo da su opinin, tiene respeto por el
+admira. Cuando el gran corazón del mundo da su opinión, tiene respeto por el
 
 hombre que es severamente honesto y que no renuncia a sus principios, no, ni
 
-siquiera un pice. En una poca como sta, cuando hay tan poca slida
+siquiera un ápice. En una época como ésta, cuando hay tan poca sólida
 
-conviccin, cuando los principios son arrojados a los vientos, y cuando un
+convicción, cuando los principios son arrojados a los vientos, y cuando un
 
-latitudinarismo general, tanto de pensamiento como de prctica pareciera regir
+latitudinarismo general, tanto de pensamiento como de práctica pareciera regir
 
-el da, es todava un hecho que un hombre que es resuelto en su creencia, que dice
+el día, es todavía un hecho que un hombre que es resuelto en su creencia, que dice
 
-lo que piensa valerosamente y que acta de acuerdo a su profesin, generar con
+lo que piensa valerosamente y que actúa de acuerdo a su profesión, generará con
 
 certeza la reverencia de la humanidad. Mujer, puedes estar segura de que tu
 
-marido y tus hijos no te respetaran ms si dijeras: Voy a renunciar a algunos
+marido y tus hijos no te respetarían más si dijeras: “Voy a renunciar a algunos
 
-de mis privilegios cristianos, o Voy a entregarme con ustedes algunas veces a
+de mis privilegios cristianos”, o “Voy a entregarme con ustedes algunas veces a
 
-lo pecaminoso. No puedes ayudarlos a salir del pantano cenagoso si vas y te
+lo pecaminoso”. No puedes ayudarlos a salir del pantano cenagoso si vas y te
 
-hundes en el lodo. No puedes ayudar a que sean limpiados si t vas y ennegreces
+hundes en el lodo. No puedes ayudar a que sean limpiados si tú vas y ennegreces
 
-tus propias manos. Cmo podras lavar entonces sus rostros? T, joven, en el
+tus propias manos. ¿Cómo podrías lavar entonces sus rostros? Tú, joven, en el
 
-taller, y t, joven mujer en la tienda, si ustedes se guardaran en el nombre de
+taller, y tú, joven mujer en la tienda, si ustedes se guardaran en el nombre de
 
-Cristo castos y puros para Jess, sin rerse de chistes que deberan hacerlos
+Cristo castos y puros para Jesús, sin reírse de chistes que deberían hacerlos
 
 sonrojar, sin mezclarse en pasatiempos que fueran sospechosos, pero, por otro
 
 lado, siendo tiernamente celosos de su conciencia como uno que se retira de
 
-algo dudoso como de algo pecaminoso, sosteniendo una slida fe, y siendo
+algo dudoso como de algo pecaminoso, sosteniendo una sólida fe, y siendo
 
-escrupulosos de la verdad; si se guardaran de esa manera, su compaa en medio
+escrupulosos de la verdad; si se guardaran de esa manera, su compañía en medio
 
-de otros sera como si un ngel batiera sus alas, y se diran el uno al otro:
+de otros sería como si un ángel batiera sus alas, y se dirían el uno al otro:
 
-Refrnate de sto justo ahora, pues Fulano-de-tal est aqu. Te tendran
+“Refrénate de ésto justo ahora, pues Fulano-de-tal está aquí”. Te tendrían
 
-miedo, en un cierto sentido; te admiraran en secreto; y quin pudiera decir
+miedo, en un cierto sentido; te admirarían en secreto; y ¿quién pudiera decir
 
 si al final, tal vez llegaran a imitarte?
 
-Tentaras a Dios?
+¿Tentarías a Dios?
 
-Retaras al desolador diluvio? Siempre que la iglesia desciende a mezclarse
+¿Retarías al desolador diluvio? Siempre que la iglesia desciende a mezclarse
 
 con el mundo, les compete a los pocos fieles huir al arca y buscar abrigo de la
 
@@ -556,75 +556,75 @@ tormenta vengadora. Cuando los hijos de Dios vieron que las hijas de los
 
 hombres eran hermosas para ser miradas, fue entonces que Dios dijo que se
 
-arrepenta de haber hecho al hombre en la faz de la tierra y envi el diluvio
+arrepentía de haber hecho al hombre en la faz de la tierra y envió el diluvio
 
 para que los arrasara. El pueblo de Dios debe ser un pueblo apartado, y lo
 
-ser. Su propia declaracin es sta: He aqu un pueblo que habitar confiado
+será. Su propia declaración es ésta: “He aquí un pueblo que habitará confiado
 
 (solo),
 
-y no ser contado entre las
+y no será contado entre las
 
-naciones. El cristiano es, en algunos sentidos, como el judo. El judo es el
+naciones”. El cristiano es, en algunos sentidos, como el judío. El judío es el
 
-tipo del cristiano. Podras darle al judo privilegios polticos, como debera
+tipo del cristiano. Podrías darle al judío privilegios políticos, como debería
 
-tenerlos; podra ser adoptado por el Estado, como debera serlo; pero es un
+tenerlos; podría ser adoptado por el Estado, como debería serlo; pero es un
 
-judo, y ha de seguir siendo todava un judo. No es un gentil, aunque l mismo
+judío, y ha de seguir siendo todavía un judío. No es un gentil, aunque él mismo
 
-se llame ingls, o portugus, o espaol o polaco. Sigue siendo un miembro del
+se llame inglés, o portugués, o español o polaco. Sigue siendo un miembro del
 
-pueblo de Israel, un hijo de Abraham, sigue siendo todava un judo; y puedes
+pueblo de Israel, un hijo de Abraham, sigue siendo todavía un judío; y puedes
 
 darte cuenta de que lo es: su lenguaje lo delata en toda tierra. Lo mismo
 
-debera suceder con el cristiano; debe mezclarse con otros hombres, tal como le
+debería suceder con el cristiano; debe mezclarse con otros hombres, tal como le
 
 corresponde hacerlo en su llamamiento cotidiano; debe salir y entrar en medio
 
 de los hombres, como un hombre entre los hombres; debe mercar en el mercado;
 
-debe vender en la tienda; debe compartir los gozos del crculo social; debe
+debe vender en la tienda; debe compartir los gozos del círculo social; debe
 
-participar en la poltica como ciudadano, como en efecto lo es; pero, al mismo
+participar en la política como ciudadano, como en efecto lo es; pero, al mismo
 
-tiempo, debe tener siempre una vida ms sublime y ms noble, un secreto en el
+tiempo, debe tener siempre una vida más sublime y más noble, un secreto en el
 
 que el mundo no puede adentrarse, y debe mostrarle al mundo, por su santidad
 
 superior, por su celo por Dios, por su genuina integridad y por su abnegada
 
-veracidad, que l no es del mundo, as como Cristo no era del mundo. No podran
+veracidad, que él no es del mundo, así como Cristo no era del mundo. No podrían
 
-imaginar cun interesado estoy en que algunos de ustedes mantengan este muro
+imaginar cuán interesado estoy en que algunos de ustedes mantengan este muro
 
 ancho, pues detecto en algunos un deseo de hacerlo muy angosto y, tal vez, de
 
-derribarlo por completo. Hermanos amados en el Seor, pueden estar seguros de
+derribarlo por completo. Hermanos amados en el Señor, pueden estar seguros de
 
-que no podra ocurrirle nada peor a una iglesia que ser conformada a este
+que no podría ocurrirle nada peor a una iglesia que ser conformada a este
 
-mundo. Entonces escriban Icabod sobre sus muros pues habra salido contra
+mundo. Entonces escriban “Icabod” sobre sus muros pues habría salido contra
 
-ella la sentencia de destruccin. Pero si pudieran guardarse como:
+ella la sentencia de destrucción. Pero si pudieran guardarse como:
 
-Un huerto por completo cercado,
+“Un huerto por completo cercado,
 
-Elegido y convertido en un especial terreno,
+Elegido y convertido en un especial terreno”,
 
-tendran
+tendrían
 
-la compaa de su Seor; sus gracias creceran; seran felices en sus almas, y
+la compañía de su Señor; sus gracias crecerían; serían felices en sus almas, y
 
-Cristo sera honrado en sus vidas.
+Cristo sería honrado en sus vidas.
 
 II.
 
 En
 
-segundo lugar, el muro ancho que rodeaba a Jerusaln INDICABA SEGURIDAD.
+segundo lugar, el muro ancho que rodeaba a Jerusalén INDICABA SEGURIDAD.
 
 De igual manera, un muro
 
@@ -632,7 +632,7 @@ ancho en torno a
 
 la Iglesia
 
-de Cristo indica tambin su seguridad. Considera quines son los que pertenecen
+de Cristo indica también su seguridad. Considera quiénes son los que pertenecen
 
 a
 
@@ -644,9 +644,9 @@ la Iglesia
 
 de Cristo por el
 
-bautismo, ni por derecho de nacimiento, ni por profesin, ni por moralidad.
+bautismo, ni por derecho de nacimiento, ni por profesión, ni por moralidad.
 
-Cristo es la puerta de entrada al redil; todo aqul que cree en Jesucristo es
+Cristo es la puerta de entrada al redil; todo aquél que cree en Jesucristo es
 
 un miembro de la verdadera Iglesia. Siendo un miembro de Cristo, es por
 
@@ -662,7 +662,7 @@ la Iglesia
 
 de Dios -la
 
-eleccin por la gracia, los redimidos por la sangre, el pueblo nico, los
+elección por la gracia, los redimidos por la sangre, el pueblo único, los
 
 adoptados, los justificados, los santificados- alrededor de
 
@@ -672,45 +672,45 @@ hay baluartes de
 
 estupenda fuerza y armamentos que los guardan seguramente. Cuando el enemigo
 
-vino para atacar a Jerusaln, cont las torres y los baluartes, y los observ
+vino para atacar a Jerusalén, contó las torres y los baluartes, y los observó
 
-bien, pero despus de ver la fortaleza de la ciudad santa, huy. Cmo poda
+bien, pero después de ver la fortaleza de la ciudad santa, huyó. ¿Cómo podía
 
-esperar escalar jams tales murallas como esas? Hermanos, Satans cuenta con
+esperar escalar jamás tales murallas como esas? Hermanos, Satanás cuenta con
 
 frecuencia las torres y los baluartes de
 
 la Nueva
 
-Jerusaln.
+Jerusalén.
 
-Desea ansiosamente la destruccin de los santos, pero eso nunca suceder. Quien
+Desea ansiosamente la destrucción de los santos, pero eso nunca sucederá. Quien
 
 reposa en Cristo es salvo. Quien ha atravesado por la puerta de la fe para reposar
 
 en Cristo puede cantar, con gozosa confianza:
 
-El alma que en Jess ha confiado para reposo,
+“El alma que en Jesús ha confiado para reposo,
 
-No desertar para unirse al enemigo;
+No desertará para unirse al enemigo;
 
 Aunque todo el infierno se esfuerce por sacudir a esa alma
 
-l nunca, nunca, nunca, la abandonar.
+Él nunca, nunca, nunca, la abandonará”.
 
-El cristiano est
+El cristiano está
 
 rodeado del
 
 ancho muro del poder de Dios.
 
-Como Dios es omnipotente, Satans no puede derrotarlo. Si el poder de Dios
+Como Dios es omnipotente, Satanás no puede derrotarlo. Si el poder de Dios
 
-est de mi lado, quin podra hacerme dao entonces? Si Dios es por nosotros,
+está de mi lado, ¿quién podría hacerme daño entonces? “Si Dios es por nosotros,
 
-quin contra nosotros?
+¿quién contra nosotros?”
 
-El cristiano est
+El cristiano está
 
 rodeado por
 
@@ -718,21 +718,21 @@ el ancho muro del amor de
 
 Dios.
 
-Quin prevalecer contra aquellos a quienes Dios ama? Yo s que es
+¿Quién prevalecerá contra aquellos a quienes Dios ama? Yo sé que es
 
 en vano maldecir a aquellos a quienes Dios no ha maldecido, o desafiar a
 
-aquellos a quienes el Seor no ha desafiado, pues todo aquel que l bendice es
+aquellos a quienes el Señor no ha desafiado, pues todo aquel que Él bendice es
 
 en verdad bendecido. Balac, el hijo de Zipor, buscaba maldecir al pueblo amado,
 
-y fue primero a la cima de un monte y luego a la cima de otro monte y mir desde
+y fue primero a la cima de un monte y luego a la cima de otro monte y miró desde
 
-lo alto al campamento elegido. Pero, aj, Balaam, t no pudiste maldecirlos
+lo alto al campamento elegido. Pero, ¡ajá, Balaam, tú no pudiste maldecirlos
 
-aunque Balac quera que lo hicieras! Slo pudiste decir: Son benditos, s, y
+aunque Balac quería que lo hicieras! ¡Sólo pudiste decir: “Son benditos, sí, y
 
-sern benditos!
+serán benditos”!
 
 La ley de Dios
 
@@ -744,85 +744,85 @@ Su justicia.
 
 Ambas
 
-amenazaron una vez con nuestra destruccin, pero ahora la justicia de Dios
+amenazaron una vez con nuestra destrucción, pero ahora la justicia de Dios
 
-exige la salvacin de cada creyente. Si Cristo ya muri en lugar mo, no sera
+exige la salvación de cada creyente. Si Cristo ya murió en lugar mío, no sería
 
-justo que yo tuviera que morir tambin por mi pecado. Si Dios recibi el pago completo
+justo que yo tuviera que morir también por mi pecado. Si Dios recibió el pago completo
 
-de la deuda de mano del Seor Jesucristo, entonces cmo podra exigir otra vez
+de la deuda de mano del Señor Jesucristo, entonces ¿cómo podría exigir otra vez
 
-el pago de la deuda? l ha sido satisfecho y nosotros estamos seguros.
+el pago de la deuda? Él ha sido satisfecho y nosotros estamos seguros.
 
 La inmutabilidad de Dios,
 
-tambin, circunda a Su
+también, circunda a Su
 
-pueblo como un muro ancho. Porque yo Jehov no cambio; por esto, hijos de
+pueblo como un muro ancho. “Porque yo Jehová no cambio; por esto, hijos de
 
-Jacob, no habis sido consumidos. En tanto que Dios sea el mismo, la roca de
+Jacob, no habéis sido consumidos”. En tanto que Dios sea el mismo, la roca de
 
-nuestra salvacin ser nuestro seguro escondite.
+nuestra salvación será nuestro seguro escondite.
 
 Sobre esta deliciosa
 
-verdad podramos reflexionar largo tiempo, pues hay mucho que nos anima en la
+verdad podríamos reflexionar largo tiempo, pues hay mucho que nos anima en la
 
-slida seguridad que Dios ha dado por medio de un pacto a Su pueblo. Ese pueblo
+sólida seguridad que Dios ha dado por medio de un pacto a Su pueblo. Ese pueblo
 
-est rodeado por el ancho muro del amor
+está rodeado por el ancho muro del amor
 
 que
 
 elige.
 
-Acaso los elige Dios para despus perderlos? Acaso los orden para
+¿Acaso los elige Dios para después perderlos? ¿Acaso los ordenó para
 
-vida eterna, y habrn de perecer? Grab sus nombres sobre Su corazn, y sern
+vida eterna, y habrán de perecer? ¿Grabó sus nombres sobre Su corazón, y serán
 
-borrados esos nombres? Se los entreg a Su Hijo para que fueran Su herencia, y
+borrados esos nombres? ¿Se los entregó a Su Hijo para que fueran Su herencia, y
 
-el Hijo perder Su porcin? Dijo: Y sern para m especial tesoro, ha dicho
+el Hijo perderá Su porción? Dijo: “Y serán para mí especial tesoro, ha dicho
 
-Jehov de los ejrcitos, en el da en que yo acte, y se apartar de ellos?
+Jehová de los ejércitos, en el día en que yo actúe”, ¿y se apartará de ellos?
 
-Acaso quien hace que todas las cosas le obedezcan no tendr poder para guardar
+¿Acaso quien hace que todas las cosas le obedezcan no tendrá poder para guardar
 
-al pueblo al que ha formado para S, para que sea Su propia y nica herencia?
+al pueblo al que ha formado para Sí, para que sea Su propia y única herencia?
 
-Dios no quiera que dudemos de ello! El amor que elige, como un ancho muro,
+¡Dios no quiera que dudemos de ello! El amor que elige, como un ancho muro,
 
 rodea a cada heredero de la gracia.
 
-Y, oh, cun ancho es el
+¡Y, oh, cuán ancho es el
 
 muro del
 
 amor redentor!
 
-Acaso Jess
+¿Acaso Jesús
 
-dejar de reclamar al pueblo que compr a un precio tan grande? Acaso derram
+dejará de reclamar al pueblo que compró a un precio tan grande? ¿Acaso derramó
 
-Su sangre en vano? Cmo puede revivir la enemistad contra aquellos a quienes
+Su sangre en vano? ¿Cómo puede revivir la enemistad contra aquellos a quienes
 
-reconcili una vez con Dios no imputndoles sus transgresiones? Habiendo
+reconcilió una vez con Dios no imputándoles sus transgresiones? Habiendo
 
-obtenido la eterna redencin para ellos, los condenar a una eterna perdicin?
+obtenido la eterna redención para ellos, ¿los condenará a una eterna perdición?
 
-Ha purificado sus pecados por el sacrificio y los dejar luego para que sean vctimas
+¿Ha purificado sus pecados por el sacrificio y los dejará luego para que sean víctimas
 
-de la astucia de Satans? Por la sangre del pacto eterno cada cristiano puede tener
+de la astucia de Satanás? Por la sangre del pacto eterno cada cristiano puede tener
 
-la seguridad de que no perecer, ni nadie puede arrebatarlo de la mano de
+la seguridad de que no perecerá, ni nadie puede arrebatarlo de la mano de
 
-Cristo. A menos que la cruz fuera una incertidumbre, a menos que la expiacin
+Cristo. A menos que la cruz fuera una incertidumbre, a menos que la expiación
 
-fuera una mera especulacin, aquellos por quienes Jess muri son salvos por
+fuera una mera especulación, aquellos por quienes Jesús murió son salvos por
 
-medio de Su muerte. Por tanto Ver el fruto de la afliccin de su alma, y
+medio de Su muerte. Por tanto “Verá el fruto de la aflicción de su alma, y
 
-quedar satisfecho.
+quedará satisfecho”.
 
 Como un muro ancho que
 
@@ -830,41 +830,41 @@ rodea a los santos de Dios es
 
 la obra del
 
-Espritu Santo.
+Espíritu Santo.
 
-Acaso el Espritu principia pero luego no acaba las operaciones
+¿Acaso el Espíritu principia pero luego no acaba las operaciones
 
-de Su gracia? Ah, no! Acaso otorga una vida que posteriormente se extingue?
+de Su gracia? ¡Ah, no! ¿Acaso otorga una vida que posteriormente se extingue?
 
-Eso es imposible; no nos ha dicho que
+Eso es imposible; ¿no nos ha dicho que
 
 la Palabra
 
 de Dios es la simiente incorruptible que
 
-vive y permanece para siempre? Y acaso los poderes del infierno o el mal de
+vive y permanece para siempre? ¿Y acaso los poderes del infierno o el mal de
 
-nuestra propia carne destruirn lo que Dios ha pronunciado inmortal, o causarn
+nuestra propia carne destruirán lo que Dios ha pronunciado inmortal, o causarán
 
-disolucin a lo que Dios dice que es incorruptible? El Espritu de Dios nos es
+disolución a lo que Dios dice que es incorruptible? El Espíritu de Dios nos es
 
-dado para que permanezca con nosotros para siempre, y ser echado de ese
+dado para que permanezca con nosotros para siempre, y ¿será echado de ese
 
-corazn en el que ha establecido habitacin eterna?
+corazón en el que ha establecido habitación eterna?
 
 Hermanos, nosotros no
 
 compartimos la mentalidad de quienes son guiados por el miedo o la falacia para
 
-aventurar tales conjeturas. Nosotros nos regocijamos diciendo con Pablo: Estando
+aventurar tales conjeturas. Nosotros nos regocijamos diciendo con Pablo: “Estando
 
-persuadido de esto, que el que comenz en vosotros la buena obra, la
+persuadido de esto, que el que comenzó en vosotros la buena obra, la
 
-perfeccionar hasta el da de Jesucristo. Nos deleita cantar:
+perfeccionará hasta el día de Jesucristo”. Nos deleita cantar:
 
-La gracia
+“La gracia
 
-habr de
+habrá de
 
 completar
 
@@ -872,9 +872,9 @@ lo que comienza,
 
 Salvar de las aflicciones o de los pecados;
 
-La obra que la sabidura asume
+La obra que la sabiduría asume
 
-Nunca la abandona la eterna misericordia.
+Nunca la abandona la eterna misericordia”.
 
 Casi
 
@@ -882,65 +882,65 @@ cada doctrina de la gracia
 
 nos
 
-proporciona un ancho muro, un fuerte bastin, un poderoso baluarte y un gran
+proporciona un ancho muro, un fuerte bastión, un poderoso baluarte y un gran
 
 armamento de defensa. Tomen, por ejemplo, los compromisos de la fianza de
 
-Cristo. l es
+Cristo. Él es
 
 la Fianza
 
-ante Su Padre por Su pueblo. Cuando traiga el rebao a casa, piensas t que
+ante Su Padre por Su pueblo. Cuando traiga el rebaño a casa, ¿piensas tú que
 
-tendr que reportar que algunas de las ovejas estn perdidas? Para nada! Heme
+tendrá que reportar que algunas de las ovejas están perdidas? ¡Para nada! “Heme
 
-aqu, -dir- y los hijos que me has dado. A los que me diste, yo los guard,
+aquí”, -dirá- “y los hijos que me has dado. A los que me diste, yo los guardé,
 
-y ninguno de ellos se perdi. l guardar a todos los santos hasta el fin.
+y ninguno de ellos se perdió”. Él guardará a todos los santos hasta el fin.
 
 El honor de Cristo
 
-est involucrado en
+está involucrado en
 
-este asunto. Si Cristo perdiera un alma que se apoya en l, desaparecera la
+este asunto. Si Cristo perdiera un alma que se apoya en Él, desaparecería la
 
 integridad de Su corona, pues si hubiera en el infierno un alma creyente, el
 
-prncipe de las tinieblas sostendra en alto a esa alma, y dira: Aj, no
+príncipe de las tinieblas sostendría en alto a esa alma, y diría: “¡Ajá, no
 
-pudiste salvar a todas ellas! Aj, T, el Capitn de
+pudiste salvar a todas ellas! ¡Ajá, Tú, el Capitán de
 
-la Salvacin
+la Salvación
 
 , fuiste
 
-derrotado aqu! Aqu est un pobre y pequeo Benjamn, uno Presto-a-detenerse,
+derrotado aquí! ¡Aquí está un pobre y pequeño Benjamín, uno ‘Presto-a-detenerse’,
 
-que T no pudiste llevar a la gloria, y yo lo tengo como mi presa eternamente!
+que Tú no pudiste llevar a la gloria, y yo lo tengo como mi presa eternamente!
 
-Pero eso no suceder. Cada joya estar en la corona de Jess. Cada oveja estar
+Pero eso no sucederá. Cada joya estará en la corona de Jesús. Cada oveja estará
 
-en el rebao de Jess. l no ser derrotado de ninguna manera, ni en ninguna
+en el rebaño de Jesús. Él no será derrotado de ninguna manera, ni en ninguna
 
-medida; antes bien, dividir el botn con los fuertes, consolidar la causa que
+medida; antes bien, dividirá el botín con los fuertes, consolidará la causa que
 
-asuma y vencer eternamente; gloria sea dada a Su grandioso y buen nombre!
+asuma y vencerá eternamente; ¡gloria sea dada a Su grandioso y buen nombre!
 
 III.
 
 La
 
-idea de un muro ancho y con sto concluyo- SUGIERE DELEITE.
+idea de un muro ancho –y con ésto concluyo- SUGIERE DELEITE.
 
-Los muros de Nnive y de
+Los muros de Nínive y de
 
-Babilonia eran amplios, tan amplios que haba espacio para que varios carros
+Babilonia eran amplios, tan amplios que había espacio para que varios carros
 
-corrieran a la par. Aqu los hombres caminaban al atardecer, y hablaban y
+corrieran a la par. Aquí los hombres caminaban al atardecer, y hablaban y
 
-promovan el buen compaerismo. Si han estado alguna vez en la ciudad de York,
+promovían el buen compañerismo. Si han estado alguna vez en la ciudad de York,
 
-sabrn cun interesante es caminar alrededor de los amplios muros de esa ciudad.
+sabrán cuán interesante es caminar alrededor de los amplios muros de esa ciudad.
 
 Pero nuestra figura es tomada de los orientales. Ellos estaban acostumbrados a
 
@@ -948,59 +948,59 @@ salir de sus casas y caminar sobre los anchos muros.
 
 Los usaban para descanso del trabajo,
 
-y para los mltiples placeres
+y para los múltiples placeres
 
-de la recreacin. Era muy deleitable caminar sobre esos anchos muros cuando el
+de la recreación. Era muy deleitable caminar sobre esos anchos muros cuando el
 
-sol se iba ocultando y todo estaba fresco. Y as, cuando un creyente llega a
+sol se iba ocultando y todo estaba fresco. Y así, cuando un creyente llega a
 
 conocer las cosas profundas de Dios, y a ver las defensas del pueblo de Dios,
 
-camina a lo largo de ellas, y reposa confiado. Ahora, -se dice- estoy
+camina a lo largo de ellas, y reposa confiado. “Ahora”, -se dice- “estoy
 
 tranquilo y en paz; el destructor no puede molestarme; estoy lejos del ruido de
 
-los arqueros, en el abrevadero, y aqu puedo ejercitarme en la oracin y en la
+los arqueros, en el abrevadero, y aquí puedo ejercitarme en la oración y en la
 
-meditacin. Ahora que la salvacin ha sido establecida para los muros y los
+meditación. Ahora que la salvación ha sido establecida para los muros y los
 
 baluartes, voy a cantar un himno a quien ha realizado estas grandes cosas para
 
-m; voy a tomar mi descanso y voy a quedarme callado, pues el que cree ha
+mí; voy a tomar mi descanso y voy a quedarme callado, pues el que cree ha
 
-entrado en el reposo. Ahora, pues, ninguna condenacin hay para los que estn
+entrado en el reposo. Ahora, pues, ninguna condenación hay para los que están
 
-en Cristo Jess. Los muros anchos, entonces, son para el reposo, y as son
+en Cristo Jesús”. Los muros anchos, entonces, son para el reposo, y así son
 
-nuestros muros anchos de salvacin.
+nuestros muros anchos de salvación.
 
 Esos muros anchos eran
 
-tambin
+también
 
-para compaerismo.
+para compañerismo.
 
 Los
 
-hombres llegaban all y hablaban unos con otros. Se apoyaban sobre el muro y
+hombres llegaban allí y hablaban unos con otros. Se apoyaban sobre el muro y
 
 susurraban sus amorosas palabras, conversaban de sus negocios, se consolaban
 
 unos a otros y relataban sus problemas y sus gozos. Entonces, cuando los
 
-creyentes vienen a Cristo Jess,
+creyentes vienen a Cristo Jesús,
 
 tienen
 
-comunin los
+comunión los
 
-unos con los otros, con los ngeles, con los espritus de los justos hechos
+unos con los otros, con los ángeles, con los espíritus de los justos hechos
 
-perfectos y con Jesucristo su Seor, quien es el mejor de todos. Oh!, sobre esos
+perfectos y con Jesucristo su Señor, quien es el mejor de todos. ¡Oh!, sobre esos
 
-anchos muros, cuando el pendn del amor ondea sobre ellos, algunas veces se
+anchos muros, cuando el pendón del amor ondea sobre ellos, algunas veces se
 
-regocijan con un gozo indecible, en comunin con Aquel que los am y se entreg
+regocijan con un gozo indecible, en comunión con Aquel que los amó y se entregó
 
 por ellos. Es algo bendito, en
 
@@ -1010,7 +1010,7 @@ Iglesia
 
 de Cristo, cuando alcanzas tal conocimiento de las doctrinas
 
-del Evangelio que puedes tener la ms dulce comunin con toda
+del Evangelio que puedes tener la más dulce comunión con toda
 
 la Iglesia
 
@@ -1018,41 +1018,41 @@ del Dios viviente.
 
 Y luego los anchos muros
 
-servan como miradores
+servían como miradores
 
 para ver panoramas
 
 y paisajes.
 
-El ciudadano suba al ancho muro y miraba a lo lejos desde el
+El ciudadano subía al ancho muro y miraba a lo lejos desde el
 
 humo y la suciedad de la ciudad, y localizaba los verdes campos y el
 
-centelleante ro y las lejanas montaas, embelesado al mirar el corte del heno,
+centelleante río y las lejanas montañas, embelesado al mirar el corte del heno,
 
-y la siega del trigo, o el sol poniente ms all de los distantes montes. Era
+y la siega del trigo, o el sol poniente más allá de los distantes montes. Era
 
 uno de los deleites comunes del ciudadano de cualquier ciudad amurallada, subir
 
-a lo ms alto del muro para ver a lo lejos. As, cuando un hombre se adentra en
+a lo más alto del muro para ver a lo lejos. Así, cuando un hombre se adentra en
 
-las alturas de las doctrinas evanglicas, y ha aprendido a entender el amor de
+las alturas de las doctrinas evangélicas, y ha aprendido a entender el amor de
 
-Dios en Cristo Jess, qu amplias visiones puede percibir! Cmo mira desde
+Dios en Cristo Jesús, ¡qué amplias visiones puede percibir! ¡Cómo mira desde
 
-arriba las aflicciones de la vida! Cmo mira ms all de ese estrecho
+arriba las aflicciones de la vida! ¡Cómo mira más allá de ese estrecho
 
-arroyuelo de la muerte! Cmo, algunas veces, cuando el clima es radiante y su
+arroyuelo de la muerte! ¡Cómo, algunas veces, cuando el clima es radiante y su
 
 ojo es lo suficientemente claro para permitirle usar el telescopio, puede ver
 
-dentro de las puertas de perla, y contemplar los gozos que ningn ojo mortal ha
+dentro de las puertas de perla, y contemplar los gozos que ningún ojo mortal ha
 
-visto, y or los cnticos que ningn odo mortal ha odo, pues esas son cosas,
+visto, y oír los cánticos que ningún oído mortal ha oído, pues esas son cosas,
 
-no para los ojos ni para los odos, sino para los corazones y los espritus!
+no para los ojos ni para los oídos, sino para los corazones y los espíritus!
 
-Bienaventurado es el hombre que mora en
+¡Bienaventurado es el hombre que mora en
 
 la Iglesia
 
@@ -1062,73 +1062,73 @@ anchos muros lugares desde los cuales puede ver al Rey en Su hermosura y la
 
 tierra muy lejana!
 
-Ah!, queridos amigos,
+¡Ah!, queridos amigos,
 
-yo deseara que todas estas cosas tuvieran que ver con todos ustedes, pero me
+yo desearía que todas estas cosas tuvieran que ver con todos ustedes, pero me
 
-temo que no; pues muchos de ustedes estn fuera de los muros; y cuando venga el
+temo que no; pues muchos de ustedes están fuera de los muros; y cuando venga el
 
-destructor, nadie estar seguro sino aquellos que estn dentro del muro del
+destructor, nadie estará seguro sino aquellos que están dentro del muro del
 
 amor y de la misericordia de Cristo. Pluguiera a Dios que ustedes escaparan a
 
-la puerta de inmediato, pues est abierta. Ser cerrada, ser cerrada un da,
+la puerta de inmediato, pues está abierta. Será cerrada, será cerrada un día,
 
-pero ahora est abierta. Cuando venga la noche, la noche de la muerte, la
+pero ahora está abierta. Cuando venga la noche, la noche de la muerte, la
 
-puerta ser cerrada; y t vendrs entonces, y dirs: Seor, Seor, breme!
+puerta será cerrada; y tú vendrás entonces, y dirás: “¡Señor, Señor, ábreme!”
 
-Pero la respuesta ser:
+Pero la respuesta será:
 
-Demasiado tarde, demasiado tarde!
+“¡Demasiado tarde, demasiado tarde!”
 
-No puedes entrar ahora.
+No puedes entrar ahora”.
 
-Pero todava no es
+Pero todavía no es
 
-demasiado tarde. Cristo dice todava: He aqu, he puesto delante de ti una
+demasiado tarde. Cristo dice todavía: “He aquí, he puesto delante de ti una
 
-puerta abierta, la cual nadie puede cerrar. Oh, que tuvieras la voluntad de
+puerta abierta, la cual nadie puede cerrar”. Oh, que tuvieras la voluntad de
 
-venir y poner tu confianza en Jess, pues si hicieras eso, seras salvo. No
+venir y poner tu confianza en Jesús, pues si hicieras eso, serías salvo. No
 
 puedo hablarles a algunos de ustedes acerca de la seguridad, pues no hay muros
 
-anchos que los defiendan. Ustedes han huido de la seguridad. Quizs han estado
+anchos que los defiendan. Ustedes han huido de la seguridad. Quizás han estado
 
-construyendo con una argamasa suave una justicia propia que ser derribada como
+construyendo con una argamasa suave una justicia propia que será derribada como
 
-un muro inclinado o como una cerca insegura. Oh, que confiaran en Jess!
+un muro inclinado o como una cerca insegura. ¡Oh, que confiaran en Jesús!
 
-Entonces tendran un ancho muro que ni todos los arietes del infierno seran
+Entonces tendrían un ancho muro que ni todos los arietes del infierno serían
 
-capaces de conmover jams. Cuando las tormentas de la eternidad golpeen contra
+capaces de conmover jamás. Cuando las tormentas de la eternidad golpeen contra
 
-ese muro, permanecer firme por siempre jams.
+ese muro, permanecerá firme por siempre jamás.
 
 Yo no puedo hablarles a
 
-algunos de ustedes acerca del reposo, y del gozo y de la comunin, pues han
+algunos de ustedes acerca del reposo, y del gozo y de la comunión, pues han
 
 buscado reposo donde no lo hay, han alcanzado una paz que no es paz y han
 
-encontrado un consuelo que ser su destruccin. Que Dios los haga estar
+encontrado un consuelo que será su destrucción. Que Dios los haga estar
 
-turbados, y los constria a huir al Seor Jess mediante una insoportable
+turbados, y los constriña a huir al Señor Jesús mediante una insoportable
 
-tensin, y as, a obtener la verdadera paz, la nica paz, pues l es nuestra
+tensión, y así, a obtener la verdadera paz, la única paz, pues “él es nuestra
 
-paz. Oh, que ustedes se encerraran con Cristo y confiaran en l! Entonces se
+paz”. ¡Oh, que ustedes se encerraran con Cristo y confiaran en Él! Entonces se
 
-regocijaran en la presente felicidad que la fe les dara; pero lo ms dulce de
+regocijarían en la presente felicidad que la fe les daría; pero lo más dulce de
 
-todo sera la perspectiva que entonces se desenvolvera ante ustedes: la eterna
+todo sería la perspectiva que entonces se desenvolvería ante ustedes: la eterna
 
 felicidad que Cristo ha preparado para todos aquellos que depositan su
 
-confianza en l.
+confianza en Él.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 18/Mayo/2011
 

@@ -1,8 +1,8 @@
 # Sermón 1465a | Sermón 1465A
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Hijo
 
@@ -14,27 +14,27 @@ El Padre
 
 Glorificado por el Hijo
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Estas cosas
+“Estas cosas
 
-habl Jess, y levantando los ojos al cielo, dijo: Padre, la hora ha llegado;
+habló Jesús, y levantando los ojos al cielo, dijo: Padre, la hora ha llegado;
 
-glorifica a tu Hijo, para que tambin tu Hijo te glorifique a ti. Juan 17: 1.
+glorifica a tu Hijo, para que también tu Hijo te glorifique a ti”. Juan 17: 1.
 
-Esta oracin fue formulada despus de un sermn.
+Esta oración fue formulada después de un sermón.
 
-Estas cosas habl Jess, y despus levant Sus ojos al cielo en suplicacin. Todo
+Estas cosas habló Jesús, y después levantó Sus ojos al cielo en suplicación. Todo
 
-discurso debe ir acompaado de oracin, pues cmo podemos esperar una
+discurso debe ir acompańado de oración, pues żcómo podemos esperar una
 
-bendicin sobre lo que hemos odo o hemos predicado a menos que se la pidamos
+bendición sobre lo que hemos oído o hemos predicado a menos que se la pidamos
 
-al Seor? El sembrador debe regar con muchas splicas la semilla que ha
+al Seńor? El sembrador debe regar con muchas súplicas la semilla que ha
 
 sembrado, y el oidor debe buscar
 
@@ -44,247 +44,247 @@ diligencia el
 
 favor de Aquel que da pan al que come y semilla al que siembra.
 
-Fue una oracin vinculada a
+Fue una oración vinculada a
 
 la
 
 Cena
 
-del Seor.
+del Seńor.
 
 No hay duda de que por
 
-sobre todas las cosas la oracin se debe mezclar con cada parte de nuestra participacin
+sobre todas las cosas la oración se debe mezclar con cada parte de nuestra participación
 
-en la mesa sagrada. Nos atrevemos a venir al sagrado banquete sin oracin?
+en la mesa sagrada. żNos atrevemos a venir al sagrado banquete sin oración?
 
-Podemos sentarnos all sin oracin? Podemos retirarnos sin oracin? Si es
+żPodemos sentarnos allí sin oración? żPodemos retirarnos sin oración? Si es
 
-as, no debe sorprendernos que la ordenanza se convierta en un mero formalismo
+así, no debe sorprendernos que la ordenanza se convierta en un mero formalismo
 
-y que no sea reconfortante para nuestras almas. Con el sermn y con el
+y que no sea reconfortante para nuestras almas. Con el sermón y con el
 
-sacramente mezclemos la sal de la suplicacin, sin prescripcin de alguna dosis.
+sacramente mezclemos la sal de la suplicación, sin prescripción de alguna dosis.
 
 Observen
 
-la actitud en la oracin.
+la actitud en la oración.
 
 Parece que el Salvador
 
-or mirando a lo alto. Esta manifestacin externa de Su devocin es muy
+oró mirando a lo alto. Esta manifestación externa de Su devoción es muy
 
 significativa. No tenemos tiempo de adentrarnos plenamente en ello, pero esto
 
-podra bastarnos: los ojos que miraban a lo alto mostraban a quin se diriga,
+podría bastarnos: los ojos que miraban a lo alto mostraban a quién se dirigía,
 
-y daban testimonio de que no entesaba el arco a la ventura, sino que diriga Su
+y daban testimonio de que no entesaba el arco a la ventura, sino que dirigía Su
 
-oracin a Dios y miraba a lo alto mientras la flecha ascenda al trono de Su
+oración a Dios y miraba a lo alto mientras la flecha ascendía al trono de Su
 
-Padre. Mostraba tambin que lo que miraba estaba lejos y por encima de Sus
+Padre. Mostraba también que lo que miraba estaba lejos y por encima de Sus
 
-discpulos y de su simpata, por encima del mundo y de su enemistad, y aun por
+discípulos y de su simpatía, por encima del mundo y de su enemistad, y aun por
 
-encima de S mismo. Su mirada se enfocaba en el Invisible: todo esto es para instruccin
+encima de Sí mismo. Su mirada se enfocaba en el Invisible: todo esto es para instrucción
 
-nuestra. l pudo haber orado con los ojos cerrados, si as le hubiese agradado,
+nuestra. Él pudo haber orado con los ojos cerrados, si así le hubiese agradado,
 
-pero los Suyos eran los ojos abiertos de la fe y del amor que podan contemplar
+pero los Suyos eran los ojos abiertos de la fe y del amor que podían contemplar
 
-el rostro de Dios, y que, no obstante, podan abarcar sin distraerse todas las
+el rostro de Dios, y que, no obstante, podían abarcar sin distraerse todas las
 
 cosas que le rodeaban, y por esto no era necesario que cerrara las cortinas de
 
-los prpados, sino que miraba al cielo abierto.
+los párpados, sino que miraba al cielo abierto.
 
 Noten
 
-el comienzo de Su oracin,
+el comienzo de Su oración,
 
 pues
 
-constituye nuestro texto. l comenz diciendo: Padre. No dijo:
+constituye nuestro texto. Él comenzó diciendo: “Padre”. No dijo:
 
-Nuestro
+“Nuestro
 
-Padre. Padre nuestro es para
+Padre”. “Padre nuestro” es para
 
-nosotros pues, en la relacin filial que tenemos, somos muchos; pero Padre es
+nosotros pues, en la relación filial que tenemos, somos muchos; pero “Padre” es
 
-para l, pues l es uno, y nosotros, en algunos sentidos, nunca podremos ser
+para Él, pues Él es uno, y nosotros, en algunos sentidos, nunca podremos ser
 
-unos hijos como l lo es. No nos corresponde entrar en la misteriosa doctrina
+unos hijos como Él lo es. No nos corresponde entrar en la misteriosa doctrina
 
-de la eterna filiacin, pero sabemos que es verdad. Padre, en su ms excelso
+de la eterna filiación, pero sabemos que es verdad. “Padre”, en su más excelso
 
-sentido concebible, es una palabra apropiada nicamente en labios de nuestro
+sentido concebible, es una palabra apropiada únicamente en labios de nuestro
 
-Seor, pero cun grandiosamente brota de l. Muestra Su amor a Dios, Su
+Seńor, pero cuán grandiosamente brota de Él. Muestra Su amor a Dios, Su
 
-confianza en Dios, Su completa resignacin a la voluntad divina, y Su dulce
+confianza en Dios, Su completa resignación a la voluntad divina, y Su dulce
 
-aquiescencia a ella. l est a punto de ser quebrantado con la vara de hierro
+aquiescencia a ella. Él está a punto de ser quebrantado con la vara de hierro
 
-de la venganza de Su Padre, pero aun as le llama: Padre. l est a punto de beber
+de la venganza de Su Padre, pero aun así le llama: “Padre”. Él está a punto de beber
 
-esa copa de ajenjo y hiel que habra sido el infierno para nosotros si no la
+esa copa de ajenjo y hiel que habría sido el infierno para nosotros si no la
 
-hubiera vaciado hasta las heces, pero l todava dice: Padre. Y en esto nos
+hubiera vaciado hasta las heces, pero Él todavía dice: “Padre”. Y en esto nos
 
-da un ejemplo: en todo tiempo de tribulacin debemos echar mano de nuestra
+da un ejemplo: en todo tiempo de tribulación debemos echar mano de nuestra
 
-condicin filial, de nuestra adopcin y de la paternidad de nuestro grandioso
+condición filial, de nuestra adopción y de la paternidad de nuestro grandioso
 
-Dios. Vayamos a nuestro Padre, pues a quin ms acudir presuroso un hijo?
+Dios. Vayamos a nuestro Padre, pues ża quién más acudirá presuroso un hijo?
 
-Adnde ms podramos ir sino a nuestro Padre que sabe de qu tenemos necesidad
+żAdónde más podríamos ir sino a nuestro Padre que sabe de qué tenemos necesidad
 
-antes de que se lo pidamos y que nunca abandonar a los Suyos, sino que as como
+antes de que se lo pidamos y que nunca abandonará a los Suyos, sino que así como
 
-un padre se apiada de sus hijos, l se apiadar de los que le temen?
+un padre se apiada de sus hijos, Él se apiadará de los que le temen?
 
-La oracin misma:
+La oración misma:
 
-el hecho mismo de la oracin nos
+el hecho mismo de la oración nos
 
-muestra Su humanidad. Jess suplica: tiene que ser hombre. Eleva Sus ojos al
+muestra Su humanidad. Jesús suplica: tiene que ser hombre. Eleva Sus ojos al
 
-cielo y clama: Padre; tiene que ser un hombre como nosotros. Pero, en algunos
+cielo y clama: “Padre”; tiene que ser un hombre como nosotros. Pero, en algunos
 
-sentidos, la oracin indica la deidad que a duras penas oculta. As como en
+sentidos, la oración indica la deidad que a duras penas oculta. Así como en
 
-algunas estatuas que a menudo deben de haber contemplado con admiracin, a
+algunas estatuas que a menudo deben de haber contemplado con admiración, a
 
-ustedes les parece ver el rostro de la figura a travs del velo de mrmol, lo mismo
+ustedes les parece ver el rostro de la figura a través del velo de mármol, lo mismo
 
-sucede aqu en la oracin de Cristo: el Dios brilla a travs del hombre. Es una
+sucede aquí en la oración de Cristo: el Dios brilla a través del hombre. Es una
 
-oracin que slo la puede ofrecer Aquel que es tanto Dios como hombre.
+oración que sólo la puede ofrecer Aquel que es tanto Dios como hombre.
 
-Ustedes
+żUstedes
 
-se atreveran a decir:
+se atreverían a decir:
 
-Padre, glorifcame, para que tambin
+“Padre, glorifícame, para que también
 
-yo te glorifique? Sera una expresin presuntuosa si fuera pronunciada por los
+yo te glorifique”? Sería una expresión presuntuosa si fuera pronunciada por los
 
-labios de una criatura. Slo
+labios de una criatura. Sólo
 
 Quien
 
 no
 
-estim el ser igual a Dios como cosa
+estimó el ser igual a Dios como cosa
 
 a
 
 que aferrarse,
 
-sino que se despoj a s mismo, puede orar as. Aunque clama a Dios: Padre, glorifica
+sino que se despojó a sí mismo, puede orar así. Aunque clama a Dios: “Padre, glorifica
 
-a tu Hijo, con todo, puede agregar, sin intercalar ninguna frase explicativa:
+a tu Hijo”, con todo, puede agregar, sin intercalar ninguna frase explicativa:
 
-para que tambin tu Hijo te glorifique a ti. l es capaz de devolver toda la
+“para que también tu Hijo te glorifique a ti”. Él es capaz de devolver toda la
 
 gloria que Dios pueda darle, y tiene tanto poder para magnificar el nombre del
 
 Padre, como el Padre puede magnificar Su nombre. En esto veo la humanidad, pero
 
-admiro y adoro a la deidad de nuestro bendito Seor.
+admiro y adoro a la deidad de nuestro bendito Seńor.
 
-La primera frase de Su oracin
+La primera frase de Su oración
 
-revela Su visin
+revela Su visión
 
-anticipada: Padre, la hora ha llegado la hora ordenada en el eterno
+anticipada: “Padre, la hora ha llegado” –la hora ordenada en el eterno
 
-propsito- la hora profetizada que Daniel buscaba saber, la hora hacia la cual
+propósito- la hora profetizada que Daniel buscaba saber, la hora hacia la cual
 
-todas las horas haban apuntado, la hora central, la hora hasta la cual los
+todas las horas habían apuntado, la hora central, la hora hasta la cual los
 
-hombres fijaban las fechas y a partir de la cual fijarn las fechas si leen el
+hombres fijaban las fechas y a partir de la cual fijarán las fechas si leen el
 
-tiempo correctamente; el gozne, el pivote, y el punto de inflexin de toda la
+tiempo correctamente; el gozne, el pivote, y el punto de inflexión de toda la
 
 historia humana: la hora oscura pero liberadora, la hora de la venganza y de la
 
-aceptacin. La hora ha llegado. l lo saba. Su previsin interior e
+aceptación. “La hora ha llegado”. Él lo sabía. Su previsión interior e
 
 infalible le hizo saber que ahora era el tiempo de Su ofrecimiento como
 
 sacrificio por el pecado.
 
-Su expresin es, sin embargo,
+Su expresión es, sin embargo,
 
 muy especial.
 
-La hora
+“La hora
 
-ha llegado.
+ha llegado”.
 
-Su fe considera que es slo una hora: la medianoche de Getseman, la maana de
+Su fe considera que es sólo una hora: la medianoche de Getsemaní, la mańana de
 
-la flagelacin, el da de la crucifixin, todos esos momentos son slo una
+la flagelación, el día de la crucifixión, todos esos momentos son sólo una
 
-hora, un breve espacio. Ahora est en dolores, pues Su tiempo de alumbramiento
+hora, un breve espacio. Ahora está en dolores, pues Su tiempo de alumbramiento
 
-ha llegado, pero l lo cuenta slo como una hora por el gozo de lo que nacer
+ha llegado, pero Él lo cuenta sólo como una hora por el gozo de lo que nacerá
 
-en el mundo por Sus agudos dolores. Su amor y paciencia le hacen despreciar as
+en el mundo por Sus agudos dolores. Su amor y paciencia le hacen despreciar así
 
-el tiempo de la vergenza y calcularlo slo como un breve intervalo.
+el tiempo de la vergüenza y calcularlo sólo como un breve intervalo.
 
-La visin anticipada de
+La visión anticipada de
 
-la que hemos hablado le induce a mirar ms all de la hora. Ustedes y yo, como
+la que hemos hablado le induce a mirar más allá de la hora. Ustedes y yo, como
 
-una regla frecuente, miramos la hora de tinieblas y no vemos ms all, pues
+una regla frecuente, miramos la hora de tinieblas y no vemos más allá, pues
 
-nuestros ojos son mortecinos debido a la incredulidad; pero l sigue adelante
+nuestros ojos son mortecinos debido a la incredulidad; pero Él sigue adelante
 
-ms all de la hora, y Su oracin es, Glorifica a tu Hijo, para que tambin tu
+más allá de la hora, y Su oración es, “Glorifica a tu Hijo, para que también tu
 
-Hijo te glorifique a ti. l fija Su mirada en la gloria que habra de ser
+Hijo te glorifique a ti”. Él fija Su mirada en la gloria que habría de ser
 
-revelada, y por ese gozo cuenta incluso Su muerte como slo una hora,
+revelada, y por ese gozo cuenta incluso Su muerte como sólo una hora,
 
-considerando que pronto habr pasado y quedar perdida en la gloria de Su
+considerando que pronto habrá pasado y quedará perdida en la gloria de Su
 
-Padre. En todo esto, hermanos, hemos de imitar a nuestro Seor, y hemos de
+Padre. En todo esto, hermanos, hemos de imitar a nuestro Seńor, y hemos de
 
 mantener nuestros ojos, no en el presente, sino en lo que sigue; no en esta
 
-ligera afliccin, que es slo momentnea, sino en un cada vez ms excelente y
+ligera aflicción, que es sólo momentánea, sino en un cada vez más excelente y
 
-eterno peso de gloria que provendr de todo eso; y siempre que llegue nuestra
+eterno peso de gloria que provendrá de todo eso; y siempre que llegue nuestra
 
 hora de tinieblas hemos de recurrir a nuestro Dios en secreto. La mejor
 
-preparacin para la peor hora es la oracin; el mejor remedio para un espritu
+preparación para la peor hora es la oración; el mejor remedio para un espíritu
 
-deprimido es la cercana con Dios. En esto, entonces, sigamos a nuestro
+deprimido es la cercanía con Dios. En esto, entonces, sigamos a nuestro
 
-Maestro, y que el Espritu Santo nos ayude a hacerlo.
+Maestro, y que el Espíritu Santo nos ayude a hacerlo.
 
 Consideremos ahora las
 
-palabras esenciales de la oracin. Son de dos clases, y en ellas encontramos,
+palabras esenciales de la oración. Son de dos clases, y en ellas encontramos,
 
 primero,
 
-una peticin personal;
+una petición personal;
 
-Padre,
+“Padre,
 
-glorifica a tu Hijo; y, en segundo lugar,
+glorifica a tu Hijo”; y, en segundo lugar,
 
 el
 
-motivo de esa peticin:
+motivo de esa petición:
 
-para que tambin tu Hijo te glorifique a ti.
+“para que también tu Hijo te glorifique a ti”.
 
 I.
 
@@ -292,21 +292,21 @@ Comencemos,
 
 entonces, con
 
-LA PETICIN
+LA PETICIÓN
 
 PERSONAL
 
 ,
 
-y yo los invito a que la observen como una peticin respondida. Mil ochocientos
+y yo los invito a que la observen como una petición respondida. Mil ochocientos
 
-aos y pico han transcurrido desde que esas divinas palabras brotaron de los
+ańos y pico han transcurrido desde que esas divinas palabras brotaron de los
 
-labios de nuestro bendito Maestro, y han sido respondidas, y estn siendo
+labios de nuestro bendito Maestro, y han sido respondidas, y están siendo
 
-todava respondidas. No las consideraremos desde el punto de vista de los
+todavía respondidas. No las consideraremos desde el punto de vista de los
 
-apstoles, sino desde el nuestro, y vamos a considerarlas como una oracin que
+apóstoles, sino desde el nuestro, y vamos a considerarlas como una oración que
 
 ha sido concedida.
 
@@ -318,23 +318,23 @@ sufrimientos.
 
 Algunos de los primeros padres limitaron el sentido de estas
 
-palabras a la pasin de nuestro Seor, y me agradan sus fuertes expresiones
+palabras a la pasión de nuestro Seńor, y me agradan sus fuertes expresiones
 
-cuando dicen que Su cruz fue Su trono, y que Getseman fue tan glorioso como el
+cuando dicen que Su cruz fue Su trono, y que Getsemaní fue tan glorioso como el
 
-monte de los Olivos, si no es que ms; pues la gloria de la cruz sera un
+monte de los Olivos, si no es que más; pues la gloria de la cruz sería un
 
 maravilloso tema si el ser humano tuviera suficiente mente y palabras para
 
-explayarse en ella. Hablamos de ignominia? Sin duda sufri la muerte de un
+explayarse en ella. żHablamos de ignominia? Sin duda sufrió la muerte de un
 
-criminal. Hablamos de vergenza? Sin duda le escupieron y se burlaron de l.
+criminal. żHablamos de vergüenza? Sin duda le escupieron y se burlaron de Él.
 
-Hablamos de debilidad? Sin duda durmi en un sepulcro. Pero en Su ignominia,
+żHablamos de debilidad? Sin duda durmió en un sepulcro. Pero en Su ignominia,
 
-vergenza y debilidad, Jess es sumamente honorable, adorable y fuerte. La fe
+vergüenza y debilidad, Jesús es sumamente honorable, adorable y fuerte. La fe
 
-ve un esplendor moral y espiritual que circunda a su Seor crucificado que
+ve un esplendor moral y espiritual que circunda a su Seńor crucificado que
 
 eclipsa a todas las glorias previas de Su trono eterno.
 
@@ -342,175 +342,175 @@ Yo no voy a reducir de
 
 esa manera el sentido de las palabras, pero con todo, ese sentido debe ser
 
-incluido. El Hijo de Dios fue glorificado mientras se mora, y
+incluido. El Hijo de Dios fue glorificado mientras se moría, y
 
 una parte de Su gloria era que fuera capaz
 
 de soportar el enorme peso de la culpa humana.
 
-Como raza nosotros estbamos
+Como raza nosotros estábamos
 
-aplastados por ese peso. Mil Sansones no hubieran podido mitigarlo. ngeles y
+aplastados por ese peso. Mil Sansones no hubieran podido mitigarlo. Ángeles y
 
-arcngeles, querubines y serafines no hubieran podido levantar esa masa
+arcángeles, querubines y serafines no hubieran podido levantar esa masa
 
 estupenda; pero este hombre solo, sin ayuda, en debilidad de cuerpo y en
 
-dolores de muerte, carg con el enorme peso de la culpa humana. El castigo de
+dolores de muerte, cargó con el enorme peso de la culpa humana. El castigo de
 
-nuestra paz fue sobre l. Dios puso sobre l la iniquidad de todos nosotros.
+nuestra paz fue sobre Él. Dios puso sobre Él la iniquidad de todos nosotros.
 
-Cun grande carga era esa! Y que pudiera sostenerla fue ciertamente una
+ˇCuán grande carga era esa! Y que pudiera sostenerla fue ciertamente una
 
-demostracin de Su gloria. Los perdidos en el infierno no pueden soportar la
+demostración de Su gloria. Los perdidos en el infierno no pueden soportar la
 
-ira de Dios; una eternidad de sufrimiento no habra exonerado el terrible
+ira de Dios; una eternidad de sufrimiento no habría exonerado el terrible
 
-castigo, y, sin embargo, l carg con ese peso en una hora. Oh, la maravillosa
+castigo, y, sin embargo, Él cargó con ese peso en una hora. ˇOh, la maravillosa
 
 fortaleza del Dios encarnado! Glorioso eres en Tu cruz, en verdad, oh Cristo;
 
-ms glorioso, incluso, que en aquel momento cuando con una palabra sacudirs no
+más glorioso, incluso, que en aquel momento cuando con una palabra sacudirás no
 
-nicamente la tierra, sino tambin el cielo, pues ahora el peso del airado
+únicamente la tierra, sino también el cielo, pues ahora el peso del airado
 
-cielo descansa sobre Ti, y T ests firme debajo de l. Glorifquenle, amados,
+cielo descansa sobre Ti, y Tú estás firme debajo de él. Glorifíquenle, amados,
 
-ustedes por quienes l aguant ese peso, glorifquenle porque fue capaz de
+ustedes por quienes Él aguantó ese peso, glorifíquenle porque fue capaz de
 
 sostenerlo.
 
-l fue glorificado tambin en la manera en que lo carg:
+Él fue glorificado también en la manera en que lo cargó:
 
 en
 
-que lo sostuvo sin rehusarlo o rehuirlo. No hubo ninguna culpa o engao en l,
+que lo sostuvo sin rehusarlo o rehuirlo. No hubo ninguna culpa o engańo en Él,
 
-aunque fue interrogado una y otra vez ante Caifs y Herodes y Pilato. No hubo
+aunque fue interrogado una y otra vez ante Caifás y Herodes y Pilato. No hubo
 
-enfurecidas frases cuando queran intimidarlo ni cuando le abofetearon y le
+enfurecidas frases cuando querían intimidarlo ni cuando le abofetearon y le
 
-vendaron y le escupieron. l no demostr otra cosa que gentileza, aun cuando
+vendaron y le escupieron. Él no demostró otra cosa que gentileza, aun cuando
 
-Sus enemigos haban perforado Sus manos y Sus pies, nada sino una compasin
+Sus enemigos habían perforado Sus manos y Sus pies, nada sino una compasión
 
-triunfante y un amor todopoderoso aun cuando se burlaban de Sus agonas. No
+triunfante y un amor todopoderoso aun cuando se burlaban de Sus agonías. No
 
-podan hacer que se enojara a pesar de todos sus ultrajes, ni cuando gritaban:
+podían hacer que se enojara a pesar de todos sus ultrajes, ni cuando gritaban:
 
-Si es el Rey de Israel, descienda ahora de la cruz, y creeremos en l; sin
+“Si es el Rey de Israel, descienda ahora de la cruz, y creeremos en él”; sin
 
-embargo, l no desprendi una mano del cruel madero para golpear a los
+embargo, Él no desprendió una mano del cruel madero para golpear a los
 
-escarnecedores, ni intent liberar Su pie del clavo para dar un puntapi a los
+escarnecedores, ni intentó liberar Su pie del clavo para dar un puntapié a los
 
 blasfemos.
 
 Cuando piensan en Sus
 
-agonas fsicas, en Su tortura mental, en Su tiniebla espiritual, cuando
+agonías físicas, en Su tortura mental, en Su tiniebla espiritual, cuando
 
 consideran que todos los poderes de la tierra y del infierno se soltaron contra
 
-l, y cuando, lo que fue peor, recuerdan que el rostro del Padre se haba
+Él, y cuando, lo que fue peor, recuerdan que el rostro del Padre se había
 
-ocultado para l al punto que lleg a clamar: Por qu me has desamparado? y
+ocultado para Él al punto que llegó a clamar: “żPor qué me has desamparado?” y
 
-no obstante, cuando consideran que una vez que nuestro Adalid comenz la obra
+no obstante, cuando consideran que una vez que nuestro Adalid comenzó la obra
 
-redentora, la complet, y nunca retir Su mano del pacto que haba hecho, ni se
+redentora, la completó, y nunca retiró Su mano del pacto que había hecho, ni se
 
-acobard bajo los golpes que soport, yo digo que fue glorioso en Su pasin y
+acobardó bajo los golpes que soportó, yo digo que fue glorioso en Su pasión y
 
-que Su peticin fue oda. El Padre glorific en efecto a Su Hijo incluso en el
+que Su petición fue oída. El Padre glorificó en efecto a Su Hijo incluso en el
 
-madero. Aquella fue una hora de gloria que podra deslumbrar los ojos de los
+madero. Aquella fue una hora de gloria que podría deslumbrar los ojos de los
 
-ngeles, la hora cuando dijo: Consumado es!, y entreg el espritu. Pues
+ángeles, la hora cuando dijo: “ˇConsumado es!”, y entregó el espíritu. żPues
 
-qu haba consumado entonces? l haba consumado lo que ha salvado a Su pueblo,
+qué había consumado entonces? Él había consumado lo que ha salvado a Su pueblo,
 
-lo que ha poblado al cielo con espritus inmortales que se deleitarn en l
+lo que ha poblado al cielo con espíritus inmortales que se deleitarán en Él
 
 para siempre, y lo que ha sacudido las puertas del infierno. Dios, en efecto,
 
-glorific a Su Hijo capacitndolo para cargar, y para cargar tan bien, todo el
+glorificó a Su Hijo capacitándolo para cargar, y para cargar tan bien, todo el
 
-peso del pecado y de la culpa que le corresponda.
+peso del pecado y de la culpa que le correspondía.
 
 Amados, y ahora vemos que
 
-Dios glorific a Su Hijo en Su muerte,
+Dios glorificó a Su Hijo en Su muerte,
 
-porque muriendo salv a Su pueblo.
+porque muriendo salvó a Su pueblo.
 
 Yo no creo ni por un instante que el
 
-resultado de la muerte de Cristo fuera incierto en algn momento o que pudiera
+resultado de la muerte de Cristo fuera incierto en algún momento o que pudiera
 
-serlo. Lo que l pretenda hacer se har, y ha sido hecho hasta la ltima jota
+serlo. Lo que Él pretendía hacer se hará, y ha sido hecho hasta la última jota
 
-y tilde hasta este momento. Su gran propsito era la redencin de Sus
+y tilde hasta este momento. Su gran propósito era la redención de Sus
 
-escogidos: Cristo am a la iglesia, y se entreg a s mismo por ella. Se dice
+escogidos: “Cristo amó a la iglesia, y se entregó a sí mismo por ella”. Se dice
 
-que los miembros de un cierto grupo cantan, l nos ha redimido de entre los
+que los miembros de un cierto grupo cantan, “Él nos ha redimido de entre los
 
-hombres. Ahora bien, cuando l muri no hizo que la redencin de Su pueblo
+hombres”. Ahora bien, cuando Él murió no hizo que la redención de Su pueblo
 
-fuera posible sino que los rescat completamente. Por Sus agonas y muerte no
+fuera posible sino que los rescató completamente. Por Sus agonías y muerte no
 
-simplemente ofreci una desnuda esperanza de un perdn del pecado, sino que
+simplemente ofreció una desnuda esperanza de un perdón del pecado, sino que
 
-arroj el pecado de Sus elegidos en las profundidades del mar en ese mismsimo
+arrojó el pecado de Sus elegidos en las profundidades del mar en ese mismísimo
 
-instante. No hizo que la salvacin de los hombres fuera una posibilidad si
+instante. No hizo que la salvación de los hombres fuera una posibilidad si
 
-ellos queran, sino que salv a Su pueblo de inmediato y complet la obra que
+ellos querían, sino que salvó a Su pueblo de inmediato y completó la obra que
 
-vino a realizar, en prueba de lo cual est escrito que Cristo, habiendo
+vino a realizar, en prueba de lo cual está escrito que “Cristo, habiendo
 
 ofrecido una vez para siempre un solo sacrificio por los pecados, se ha sentado
 
-a la diestra de Dios, y no se habra sentado all si Su obra no hubiera sido
+a la diestra de Dios”, y no se habría sentado allí si Su obra no hubiera sido
 
-consumada. De acuerdo a las palabras del profeta termin la prevaricacin, puso
+consumada. De acuerdo a las palabras del profeta terminó la prevaricación, puso
 
-fin al pecado y trajo la justicia perdurable, pues ofreci una expiacin eficaz
+fin al pecado y trajo la justicia perdurable, pues ofreció una expiación eficaz
 
-que nadie puede contradecir; entonces el Padre glorific a Su Hijo, aun cuando
+que nadie puede contradecir; entonces el Padre glorificó a Su Hijo, aun cuando
 
-muri, puesto que acept Su sangre redentora en nombre de Su pueblo.
+murió, puesto que aceptó Su sangre redentora en nombre de Su pueblo.
 
-El Padre glorific a Su Hijo, aun en la hora de Su pasin, haciendo que
+El Padre glorificó a Su Hijo, aun en la hora de Su pasión, haciendo que
 
 fuera victorioso sobre todos Sus enemigos.
 
-Ese pie clavado hiri
+Ese pie clavado hirió
 
 la cabeza de la serpiente de tal manera que nunca pudo recobrar su antiguo
 
-poder; esa mano clavada sujet a la serpiente del pecado y la estrangul; y esa
+poder; esa mano clavada sujetó a la serpiente del pecado y la estranguló; y esa
 
-cabeza moribunda, al inclinarse, mat a la muerte con su propia espada, as como
+cabeza moribunda, al inclinarse, mató a la muerte con su propia espada, así como
 
-David mat a Goliat, pues muriendo mat a la muerte.
+David mató a Goliat, pues “muriendo mató a la muerte”.
 
 Los poderes del mal eran
 
-tremendos. Piensen en el pecado, en Satans y en la muerte, pero todas sus
+tremendos. Piensen en el pecado, en Satanás y en la muerte, pero todas sus
 
 huestes coaligadas fueron derrotadas en esa batalla campal de la que la cruz
 
-era el pendn y el Redentor moribundo el Adalid. Oh, glorioso Seor, T has
+era el pendón y el Redentor moribundo el Adalid. Oh, glorioso Seńor, Tú has
 
-conducido cautiva a la cautividad, haciendo abiertamente un show de Tus
+conducido cautiva a la cautividad, haciendo abiertamente un ‘show’ de Tus
 
 adversarios aun en Tu cruz, y clavando en lo alto del maldito madero el manuscrito
 
-de las ordenanzas que haba en contra nuestra. S, el Padre te glorific
+de las ordenanzas que había en contra nuestra. Sí, el Padre te glorificó
 
-incluso all mientras T estabas en las agonas de la muerte.
+incluso allí mientras Tú estabas en las agonías de la muerte.
 
 Junto a esto,
 
@@ -520,143 +520,143 @@ hubo algunos signos externos de la gloria de Cristo
 
 que
 
-difcilmente podemos detenernos a mencionar. No rasg su velo el templo? No
+difícilmente podemos detenernos a mencionar. żNo rasgó su velo el templo? żNo
 
-ocult su rostro el sol? No se abrieron las rocas y los muertos resucitaron?
+ocultó su rostro el sol? żNo se abrieron las rocas y los muertos resucitaron?
 
-No temblaba toda Jerusaln y no clam el centurin: Verdaderamente ste era
+żNo temblaba toda Jerusalén y no clamó el centurión: “Verdaderamente éste era
 
-Hijo de Dios? S, el Padre glorific a Su Hijo, aun cuando quiso herirle y
+Hijo de Dios”? Sí, el Padre glorificó a Su Hijo, aun cuando quiso herirle y
 
-someterlo a congoja. Con una mano hera, y con la otra glorificaba. Haba un
+someterlo a congoja. Con una mano hería, y con la otra glorificaba. Había un
 
-poder para aplastar, pero haba tambin un poder para sustentar la obra al
+poder para aplastar, pero había también un poder para sustentar la obra al
 
-mismo tiempo. El Padre glorific a Su Hijo.
+mismo tiempo. El Padre glorificó a Su Hijo.
 
-Y ahora, amados, qu
+Y ahora, amados, żqué
 
 voy a decir respecto a que el
 
 Padre
 
-glorific al Hijo despus de Su muerte, y como resultado de ella?
+glorificó al Hijo después de Su muerte, y como resultado de ella?
 
 No voy a
 
 intentar extenderme sino que simplemente voy a decir que la rasgadura del velo
 
-del templo en el momento de Su muerte fue la glorificacin de Cristo, pues hay
+del templo en el momento de Su muerte fue la glorificación de Cristo, pues hay
 
-ahora un camino al trono de Dios que anteriormente haba estado cerrado pero
+ahora un camino al trono de Dios que anteriormente había estado cerrado pero
 
 que ahora nos ha sido mostrado. Entonces la abertura de Su costado perforado
 
-fue otra glorificacin Suya, pues en este da la doble fuente es para los
+fue otra glorificación Suya, pues en este día la doble fuente es para los
 
-creyentes la eficaz limpieza tanto de la culpa como del poder del pecado; y as
+creyentes la eficaz limpieza tanto de la culpa como del poder del pecado; y así
 
-el corazn traspasado del Salvador le glorific en su poder para bendecir.
+el corazón traspasado del Salvador le glorificó en su poder para bendecir.
 
-Luego ese pobre cuerpo repos en el sepulcro lo llamo pobre porque lo pareca-
+Luego ese pobre cuerpo reposó en el sepulcro –lo llamo pobre porque lo parecía-
 
-envuelto en el lino y las especias. Pero, amados, el Padre glorific incluso a
+envuelto en el lino y las especias. Pero, amados, el Padre glorificó incluso a
 
-ese cadver que los hombres pensaban que era corruptible, pues no vio corrupcin
+ese cadáver que los hombres pensaban que era corruptible, pues no vio corrupción
 
-alguna. Durante los tres das y noches ningn gusano pudo acercarse a l, ni
+alguna. Durante los tres días y noches ningún gusano pudo acercarse a él, ni
 
-tampoco ningn rastro de corrupcin. Ese envase de cristal en el que el rico
+tampoco ningún rastro de corrupción. Ese envase de cristal en el que el rico
 
-ungento del alma del Salvador haba morado, no deba ser daado. l guarda
+ungüento del alma del Salvador había morado, no debía ser dańado. “Él guarda
 
-todos sus huesos; ni uno de ellos ser quebrantado. Embellecido por esas
+todos sus huesos; ni uno de ellos será quebrantado”. Embellecido por esas
 
-cicatrices -como cuando un talentoso artista embellece ms una imagen con las
+cicatrices -como cuando un talentoso artista embellece más una imagen con las
 
-marcas del cincel del escultor- ese cuerpo tena que ser vigilado seguramente
+marcas del cincel del escultor- ese cuerpo tenía que ser vigilado seguramente
 
-por ngeles custodios hasta que llegara la maana. Apenas amaneca. An estaba
+por ángeles custodios hasta que llegara la mańana. Apenas amanecía. Aún estaba
 
-saliendo el sol, y he aqu el propio Sol de justicia se levant! As como un
+saliendo el sol, ˇy he aquí el propio Sol de justicia se levantó! Así como un
 
-hombre se pone su ropa cuando se levanta de su lecho, as nuestro Seor se puso
+hombre se pone su ropa cuando se levanta de su lecho, así nuestro Seńor se puso
 
-la vestimenta del cuerpo que haba dejado a un lado, y vino otra vez al mundo,
+la vestimenta del cuerpo que había dejado a un lado, y vino otra vez al mundo,
 
-vivo en cuanto a Su cuerpo y a Su alma, un varn perfecto. Oh, fue una
+vivo en cuanto a Su cuerpo y a Su alma, un varón perfecto. Oh, fue una
 
-grandiosa glorificacin de Cristo cuando el Padre le levant de los muertos y Sus
+grandiosa glorificación de Cristo cuando el Padre le levantó de los muertos y Sus
 
-discpulos le vieron una vez ms. La muerte no tena ataduras para retenerle.
+discípulos le vieron una vez más. La muerte no tenía ataduras para retenerle.
 
-La guardia del sepulcro no pudo retener al prisionero sin igual. Su oracin fue
+La guardia del sepulcro no pudo retener al prisionero sin igual. Su oración fue
 
-oda pues fue declarado glorioso por la resurreccin de los muertos.
+oída pues fue declarado glorioso por la resurrección de los muertos.
 
 Y en poco tiempo, cuando
 
-slo haban transcurrido unas cuantas semanas, lleg otra gloria, pues ascendi
+sólo habían transcurrido unas cuantas semanas, llegó otra gloria, pues ascendió
 
 suavemente desde la ladera del monte de los Olivos, flotando en el aire y
 
-apartndose del grupo de Sus discpulos y elevndose en medio de los ngeles
+apartándose del grupo de Sus discípulos y elevándose en medio de los ángeles
 
-hasta que una nube le recibi y le ocult de ojos humanos.
+hasta que una nube le recibió y le ocultó de ojos humanos.
 
-Trajeron Su carruaje de lo alto
+“Trajeron Su carruaje de lo alto
 
 Para llevarlo a Su trono;
 
 Batieron sus triunfantes alas y clamaron,
 
-La obra gloriosa ha sido consumada.
+‘La obra gloriosa ha sido consumada’”.
 
-Su Padre le glorific y
+Su Padre le glorificó y
 
 ahora se sienta a la diestra de Dios. Palabras, ustedes son cosas mudas,
 
-ustedes no pueden expresar Su gloria presente. La otra maana, temprano, un
+ustedes no pueden expresar Su gloria presente. La otra mańana, temprano, un
 
-hermano se acerc a mi lecho para despertarme, y su rostro pareca irradiar gozo
+hermano se acercó a mi lecho para despertarme, y su rostro parecía irradiar gozo
 
-mientras me deca: Anoche en mi sueo me pareci ver al Seor en Su trono; y, oh,
+mientras me decía: “Anoche en mi sueńo me pareció ver al Seńor en Su trono; y, ˇoh,
 
-la gloria que el Padre haba depositado en l! Deseara quedarme dormido de
+la gloria que el Padre había depositado en Él! Desearía quedarme dormido de
 
-nuevo para poder continuar soando. Tena lgrimas en sus ojos mientras me
+nuevo para poder continuar sońando”. Tenía lágrimas en sus ojos mientras me
 
-deca: Oh, la gloria de Cristo! Oh, la gloria de Cristo! Yo le record cmo
+decía: “ˇOh, la gloria de Cristo! ˇOh, la gloria de Cristo!” Yo le recordé cómo
 
-Misericordia se rea en su sueo y Cristiana le pregunt por qu lo haca; y
+Misericordia se reía en su sueńo y Cristiana le preguntó por qué lo hacía; y
 
-cuando ella le narr su sueo, la matrona dijo que haca bien en rerse si
+cuando ella le narró su sueńo, la matrona dijo que hacía bien en reírse si
 
-soaba as. Dichosos son aquellos que, soando o despiertos, viviendo o muriendo,
+sońaba así. Dichosos son aquellos que, sońando o despiertos, viviendo o muriendo,
 
-pueden conseguir aunque sea una vislumbre de Su gloria. Nada embelesa ms a mi
+pueden conseguir aunque sea una vislumbre de Su gloria. Nada embelesa más a mi
 
-corazn que el pensamiento de que mi Seor est siendo glorificado. Oh, si yo
+corazón que el pensamiento de que mi Seńor está siendo glorificado. ˇOh, si yo
 
-pudiera por algn medio ayudar a honrarle! Que pudiera ser la vasija de barro
+pudiera por algún medio ayudar a honrarle! ˇQue pudiera ser la vasija de barro
 
 en la que se guarde Su tesoro, o la trompeta con la que se proclame Su nombre!
 
 Esa dicha me basta. Y todos los que le aman sienten lo mismo. Ustedes se deleitan
 
-pensando cun excelso es Su trono, cun refulgente es Su semblante y cun
+pensando cuán excelso es Su trono, cuán refulgente es Su semblante y cuán
 
-resplandecientes son Sus atrios. Tengan paciencia. Pronto le vern, pues el
+resplandecientes son Sus atrios. Tengan paciencia. Pronto le verán, pues el
 
-Padre le glorificar en la segunda venida. l se demora, l se demora bastante,
+Padre le glorificará en la segunda venida. Él se demora, Él se demora bastante,
 
-segn creemos; sin embargo, l dijo: He aqu yo vengo pronto, y mi galardn
+según creemos; sin embargo, Él dijo: “He aquí yo vengo pronto, y mi galardón
 
-conmigo. l va a venir para ser glorificado entre los hijos de los hombres.
+conmigo”. Él va a venir para ser glorificado entre los hijos de los hombres.
 
-As se cumplir la oracin del texto en las edades de oro que
+Así se cumplirá la oración del texto en las edades de oro que
 
-habrn
+habrán
 
 de amanecer y luego a lo largo de toda la eternidad.
 
@@ -666,49 +666,49 @@ Hacemos
 
 una pausa por un momento, y luego vamos a pensar brevemente en EL MOTIVO DE SU
 
-ORACIN.
+ORACIÓN.
 
-Padre, glorifica a tu
+“Padre, glorifica a tu
 
 Hijo,
 
-para que tambin tu Hijo te
+para que también tu Hijo te
 
-glorifique a ti.
+glorifique a ti”.
 
-Cuando oras, es algo grandioso orar con un corazn
+Cuando oras, es algo grandioso orar con un corazón
 
-limpio; pero el egosmo es inmundicia. En nuestro bendito Seor no haba ningn
+limpio; pero el egoísmo es inmundicia. En nuestro bendito Seńor no había ningún
 
-egosmo. l dijo: Yo no busco mi gloria; y aun en esta oracin esa palabra
+egoísmo. Él dijo: “Yo no busco mi gloria”; y aun en esta oración esa palabra
 
-Suya es verdadera, pues l nicamente busca la gloria para glorificar al Padre.
+Suya es verdadera, pues Él únicamente busca la gloria para glorificar al Padre.
 
-Amados, el deseo de nuestro Seor ha sido concedido, pues Dios es glorificado
+Amados, el deseo de nuestro Seńor ha sido concedido, pues Dios es glorificado
 
-en Jesucristo ms que de cualquier otra manera. La gloria de Dios en la naturaleza
+en Jesucristo más que de cualquier otra manera. La gloria de Dios en la naturaleza
 
-es inconcebible. Este globo terrqueo y todo lo que habita en l; el mar
+es inconcebible. Este globo terráqueo y todo lo que habita en él; el mar
 
 abierto reflejando apaciblemente el cielo o agitado por las tempestades; el
 
-portentoso firmamento del cielo, arrebolado con nubes, o azul bajo el trrido
+portentoso firmamento del cielo, arrebolado con nubes, o azul bajo el tórrido
 
 sol o encendido con innumerables estrellas; aquellas lomas con todos sus
 
-bosques, aquellos valles sonrientes con sus hatos mugientes y sus rebaos que
+bosques, aquellos valles sonrientes con sus hatos mugientes y sus rebańos que
 
 balan:
 
-Estas son Tus obras gloriosas, Padre del bien, todopoderoso,
+“Estas son Tus obras gloriosas, Padre del bien, todopoderoso”,
 
-T recibes gloria de
+Tú recibes gloria de
 
-cada trmula brizna de hierba o fronda de helecho, y cada insecto que revolotea
+cada trémula brizna de hierba o fronda de helecho, y cada insecto que revolotea
 
 y cada gusano rastrero te rinden alabanza; no hay nada que no te glorifique,
 
-desde leviatn hasta
+desde leviatán hasta
 
 un pececillo
 
@@ -720,59 +720,59 @@ divina fidelidad y la justicia y la verdad son escasamente manifiestas en la
 
 naturaleza aunque se pueden ver algunos rastros de ellas; pero en la faz de
 
-Jess, que es la expresa imagen del Padre, Dios es glorificado a plenitud. Sobre
+Jesús, que es la expresa imagen del Padre, Dios es glorificado a plenitud. Sobre
 
-todas las cosas Dios es glorificado en la muerte de Cristo, pues all son
+todas las cosas Dios es glorificado en la muerte de Cristo, pues allí son
 
-vistos todos los atributos de Dios. All estaba el poder que sustent a Cristo
+vistos todos los atributos de Dios. Allí estaba el poder que sustentó a Cristo
 
-debajo de Su tarea ms que herclea; el amor que entreg al favorito de Su
+debajo de Su tarea más que hercúlea; el amor que entregó al favorito de Su
 
-corazn para que muriera en lugar de unos traidores; la justicia que no quera
+corazón para que muriera en lugar de unos traidores; la justicia que no quería
 
-y no poda perdonar el pecado sin la debida satisfaccin; la verdad que haba
+y no podía perdonar el pecado sin la debida satisfacción; la verdad que había
 
-amenazado con castigar, y que castig, que haba prometido proporcionar un
+amenazado con castigar, y que castigó, que había prometido proporcionar un
 
-Salvador, y que en efecto lo hizo; la fidelidad para con el pacto, que guard ese
+Salvador, y que en efecto lo hizo; la fidelidad para con el pacto, que guardó ese
 
-pacto a un costo tan terrible; la sabidura que plane la maravillosa forma de
+pacto a un costo tan terrible; la sabiduría que planeó la maravillosa forma de
 
-salvacin por medio de un sustituto; es ms, djenme juntar todo, la perfeccin,
+salvación por medio de un sustituto; es más, déjenme juntar todo, la perfección,
 
-la santidad de Dios, s, todos Sus atributos son vistos, -cada uno igualmente
+la santidad de Dios, sí, todos Sus atributos son vistos, -cada uno igualmente
 
 magnificado- en la muerte de Jesucristo.
 
-l
+Él
 
-es glorioso, y el Dios trino es glorificado en l.
+es glorioso, y el Dios trino es glorificado en Él.
 
 Y ahora, amados, Dios es
 
 glorificado en la muerte de Cristo por el amor de todos aquellos a quienes
 
-Jess salva, por el sagrado respeto reverencial y el temor filial de todos
+Jesús salva, por el sagrado respeto reverencial y el temor filial de todos
 
-aquellos a los que Jess lleva a los pies del Padre, por la ardiente y paciente
+aquellos a los que Jesús lleva a los pies del Padre, por la ardiente y paciente
 
-devocin de todos lo que se consagran de corazn, y que sienten la sagrada
+devoción de todos lo que se consagran de corazón, y que sienten la sagrada
 
-llama del amor por Cristo que incendia sus almas. All arriba en el cielo,
+llama del amor por Cristo que incendia sus almas. Allá arriba en el cielo,
 
-donde los seres vestidos de blanco nunca cesan de cantar, y aqu abajo, donde
+donde los seres vestidos de blanco nunca cesan de cantar, y aquí abajo, donde
 
-los mrtires fueron quemados por amor a Dios, donde los confesores desafiaron a
+los mártires fueron quemados por amor a Dios, donde los confesores desafiaron a
 
 todos los adversarios para propagar por todas partes la gloria de Su nombre,
 
-donde los humildes cristianos sufren con paciencia, o continan laborando con
+donde los humildes cristianos sufren con paciencia, o continúan laborando con
 
 diligencia o caminan en santidad, el nombre del Padre es glorificado por medio
 
-de la pasin del Cristo de Dios.
+de la pasión del Cristo de Dios.
 
-Tenamos que decir
+Teníamos que decir
 
 muchas cosas, pero el tiempo se nos agota, y por tanto, concluimos con estas
 
@@ -784,119 +784,119 @@ El motivo de Cristo debe ser el nuestro.
 
 Cuando
 
-le pidan una bendicin a Dios, pdansela para que puedan glorificar a Dios con
+le pidan una bendición a Dios, pídansela para que puedan glorificar a Dios con
 
-ella. Anhelan tener salud de nuevo? Asegrense de que quieren gastarla para
+ella. żAnhelan tener salud de nuevo? Asegúrense de que quieren gastarla para
 
-l. Desean algn progreso temporal? Desenlo para promover Su gloria. Anhelan
+Él. żDesean algún progreso temporal? Deséenlo para promover Su gloria. żAnhelan
 
 crecer en la gracia? Pidan eso para glorificarle. Si hay algo que se atrevan a
 
-desear y oran pidindolo, hganlo as: Padre, bendice a Tu hijo, para que Tu
+desear y oran pidiéndolo, háganlo así: “Padre, bendice a Tu hijo, para que Tu
 
-hijo pueda, a cambio, bendecirte y servirte. Las oraciones que tienen un
+hijo pueda, a cambio, bendecirte y servirte”. Las oraciones que tienen un
 
-motivo as son limpias; todas las dems contienen la mancha del ego. Que Dios
+motivo así son limpias; todas las demás contienen la mancha del ‘ego’. Que Dios
 
 les ayude a hacer todo para Su gloria, a hablar para Su gloria, a vivir para Su
 
-gloria, a morir para Su gloria, y luego resucitarn para vivir para siempre
+gloria, a morir para Su gloria, y luego resucitarán para vivir para siempre
 
-para Su gloria. Dichoso, dichoso el varn cuya porcin habr de ser esa. Que
+para Su gloria. Dichoso, dichoso el varón cuya porción habrá de ser esa. Que
 
-ste sea el impulso que los gobierne, que es el que motivaba a su Seor.
+éste sea el impulso que los gobierne, que es el que motivaba a su Seńor.
 
 En seguida,
 
-la teologa de Cristo debe ser la nuestra.
+la teología de Cristo debe ser la nuestra.
 
-Cul
+żCuál
 
-es? Pues bien, primero, que l ha de ser glorificado, y en segundo lugar, que
+es? Pues bien, primero, que Él ha de ser glorificado, y en segundo lugar, que
 
 el Padre ha de ser glorificado. El error algunas veces sopla en un sentido y
 
-otras veces en otro. Hace aos la dificultad era llevar a los hombres a
+otras veces en otro. Hace ańos la dificultad era llevar a los hombres a
 
-glorificar al Seor Jess; queran adorar a Dios, pero no al Cristo de Dios, y
+glorificar al Seńor Jesús; querían adorar a Dios, pero no al Cristo de Dios, y
 
-as lleg la gran lucha arriana, y posteriormente las controversias socinianas,
+así llegó la gran lucha arriana, y posteriormente las controversias socinianas,
 
-pues no queran glorificar a Cristo.
+pues no querían glorificar a Cristo.
 
 Oh,
 
-en este punto yo no siento miedo por ustedes que han sido salvados por l, pero
+en este punto yo no siento miedo por ustedes que han sido salvados por Él, pero
 
-pareciera haber en nuestros das, en algunas mentes, un olvido del Padre. Se
+pareciera haber en nuestros días, en algunas mentes, un olvido del Padre. Se
 
-ama a Cristo, pues l muri, pero muchos parecieran considerar que el Padre no
+ama a Cristo, pues Él murió, pero muchos parecieran considerar que el Padre no
 
-tiene ninguna participacin en la portentosa obra de la redencin, si bien,
+tiene ninguna participación en la portentosa obra de la redención, si bien,
 
-amados, Ellos son uno en nuestra salvacin. Padre, Hijo y Espritu estn al
+amados, Ellos son uno en nuestra salvación. Padre, Hijo y Espíritu están al
 
-unsono de acuerdo en nuestra redencin, y sera en verdad fatal que pusiramos
+unísono de acuerdo en nuestra redención, y sería en verdad fatal que pusiéramos
 
 a una persona de la divina Trinidad sobre las otras dos. Todos los hombres
 
-deben honrar al Hijo as como honran al Padre y deben honrar al Padre as como honran
+deben honrar al Hijo así como honran al Padre y deben honrar al Padre así como honran
 
-al Hijo. Si furamos a glorificar al Hijo y dejramos de reverenciar y amar al
+al Hijo. Si fuéramos a glorificar al Hijo y dejáramos de reverenciar y amar al
 
-Padre, eso sera traicionar el ms ntimo deseo de Cristo.
+Padre, eso sería traicionar el más íntimo deseo de Cristo.
 
-Por ltimo,
+Por último,
 
 cada creyente ha de ver su seguridad.
 
-Acaso
+żAcaso
 
-no es una garanta sumamente maravillosa de la seguridad de todos y cada uno de
+no es una garantía sumamente maravillosa de la seguridad de todos y cada uno de
 
-aquellos por los que Cristo muri, que la gloria de Cristo y la gloria del
+aquellos por los que Cristo murió, que la gloria de Cristo y la gloria del
 
-Padre puedo agregar la gloria del bendito Espritu- estn igualmente
+Padre –puedo agregar la gloria del bendito Espíritu- están igualmente
 
-involucradas en la salvacin del alma creyente? Me atrever a decirlo? Sera
+involucradas en la salvación del alma creyente? żMe atreveré a decirlo? Sería
 
-una mancha en la gloria eterna si alguna alma creyente se perdiera jams.
+una mancha en la gloria eterna si alguna alma creyente se perdiera jamás.
 
-Entonces la verdad de Dios dejara de ser segura, Su fidelidad dejara de ser
+Entonces la verdad de Dios dejaría de ser segura, Su fidelidad dejaría de ser
 
-firme y Su amor dejara de ser inmutable. Se podra dudar de Su poder. Su
+firme y Su amor dejaría de ser inmutable. Se podría dudar de Su poder. Su
 
-mutabilidad quedara demostrada. Pero, amados, eso no puede ser. Cristo no
+mutabilidad quedaría demostrada. Pero, amados, eso no puede ser. Cristo no
 
-perder una oveja de Su rebao, ni el Consolador perder un espritu en el que
+perderá una oveja de Su rebańo, ni el Consolador perderá un espíritu en el que
 
-hubiera comenzado a morar. Entonces confen en esto. Permanezcan sin dudas o
+hubiera comenzado a morar. Entonces confíen en esto. Permanezcan sin dudas o
 
-temores en Cristo, porque los montes se movern, y los collados temblarn, pero
+temores en Cristo, porque los montes se moverán, y los collados temblarán, pero
 
-el pacto de Su amor no se apartar de ustedes, dice el Seor, el que tiene
+el pacto de Su amor no se apartará de ustedes, dice el Seńor, el que tiene
 
 misericordia de ustedes.
 
-Crean en el Seor
+Crean en el Seńor
 
-Jesucristo, amados oyentes, y estos divinos privilegios sern suyos; y as como
+Jesucristo, amados oyentes, y estos divinos privilegios serán suyos; y así como
 
-acabo de orar ahora, as voy a orar de nuevo, pidiendo que estas cosas
+acabo de orar ahora, así voy a orar de nuevo, pidiendo que estas cosas
 
-pertenezcan a toda alma presente en esta casa sin ninguna excepcin, por medio
+pertenezcan a toda alma presente en esta casa sin ninguna excepción, por medio
 
-de la fe en Cristo Jess, por la obra del Espritu Santo. Amn.
+de la fe en Cristo Jesús, por la obra del Espíritu Santo. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Juan 17.
+del sermón: Juan 17.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 5/Diciembre/2013
 

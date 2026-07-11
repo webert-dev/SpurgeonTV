@@ -2,9 +2,13 @@ import urllib.request
 import json
 import re
 import os
+import sys
 import time
 from bs4 import BeautifulSoup
+from bs4 import UnicodeDammit
 from bs4 import element
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 # Approximate Spurgeon volume mapping (Sermon Number -> Volume Number)
 def get_volume(sermon_id):
@@ -108,8 +112,8 @@ def html_to_markdown(html, sermon_id):
     
     in_poetry = False
     
-    for line in lines:
-        line = line.strip()
+    for i, orig_line in enumerate(lines):
+        line = orig_line.strip()
         if not line: continue
         if "About this capture" in line or "COLLECTED BY" in line or "TIMESTAMPS" in line:
             continue
@@ -127,7 +131,7 @@ def html_to_markdown(html, sermon_id):
         # Format scripture blockquotes (usually appear at the top)
         if (line.startswith('"') and len(line) > 10 and not in_poetry and 
             (';' in line or ',' in line) and 
-            (':' in lines[lines.index(line):min(len(lines), lines.index(line)+5)][-1])):
+            (':' in lines[i:min(len(lines), i+5)][-1])):
             # It's likely the scripture quote
             pass # We will handle poetry/scripture globally later
             
@@ -193,7 +197,10 @@ def main():
         try:
             req = urllib.request.Request(info['wayback_url'], headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req) as response:
-                html = response.read().decode('utf-8', errors='ignore')
+                raw_bytes = response.read()
+                
+            dammit = UnicodeDammit(raw_bytes)
+            html = dammit.unicode_markup
                 
             md_content = html_to_markdown(html, s_id)
             if md_content:

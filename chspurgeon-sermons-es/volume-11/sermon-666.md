@@ -1,16 +1,16 @@
 # Sermón 666 | Sermón 666
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Una Santa Labor
 
 para Navidad
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,59 +18,59 @@ DOMINGO 24 DE
 
 DICIEMBRE, 1865
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y al verlo,
+“Y al verlo,
 
-dieron a conocer lo que se les haba dicho acerca del nio. Y todos los que
+dieron a conocer lo que se les había dicho acerca del nińo. Y todos los que
 
-oyeron, se maravillaron de lo que los pastores les decan. Pero Mara guardaba
+oyeron, se maravillaron de lo que los pastores les decían. Pero María guardaba
 
-todas estas cosas, meditndolas en su corazn. Y volvieron los pastores
+todas estas cosas, meditándolas en su corazón. Y volvieron los pastores
 
-glorificando y alabando a Dios por todas las cosas que haban odo y visto,
+glorificando y alabando a Dios por todas las cosas que habían oído y visto,
 
-como se les haba dicho.
+como se les había dicho”.
 
 Lucas 2:
 
 17-20.
 
-Cada estacin del ao
+Cada estación del ańo
 
-tiene sus propias frutas: manzanas en el otoo, bayas de acebo para Navidad. La
+tiene sus propias frutas: manzanas en el otońo, bayas de acebo para Navidad. La
 
-tierra produce segn el perodo del ao, y todo lo que el hombre quiere debajo
+tierra produce según el período del ańo, y todo lo que el hombre quiere debajo
 
-del cielo tiene su hora. En esta poca el mundo se dedica a congratularse y a
+del cielo tiene su hora. En esta época el mundo se dedica a congratularse y a
 
-expresar sus buenos deseos por el bienestar de sus ciudadanos. Permtanme
+expresar sus buenos deseos por el bienestar de sus ciudadanos. Permítanme
 
-sugerirles una labor complementaria y ms slida para los cristianos. Al pensar
+sugerirles una labor complementaria y más sólida para los cristianos. Al pensar
 
 hoy en el nacimiento del Salvador, debemos aspirar a un renovado nacimiento del
 
-Salvador en nuestros corazones. Como Cristo ya ha sido formado en nosotros, la
+Salvador en nuestros corazones. Como Cristo ya ha sido “formado en nosotros, la
 
-esperanza de gloria, que podamos ser renovados en el espritu de nuestra
+esperanza de gloria”, que podamos ser “renovados en el espíritu de nuestra
 
-mente. Que podamos ir de nuevo al Beln de nuestra natividad espiritual para
+mente”. Que podamos ir de nuevo al Belén de nuestra natividad espiritual para
 
 hacer nuestras primeras obras, para disfrutar de nuestros primeros amores y
 
-para festejar con Jess como lo hicimos en los das santos, felices y
+para festejar con Jesús como lo hicimos en los días santos, felices y
 
-celestiales de nuestros esponsales. Vayamos a Jess con algo de esa frescura
+celestiales de nuestros esponsales. Vayamos a Jesús con algo de esa frescura
 
 juvenil y de ese supremo deleite que era tan manifiesto en nosotros cuando lo
 
-miramos por primera vez. Hemos de coronarlo de nuevo, pues todava est
+miramos por primera vez. Hemos de coronarlo de nuevo, pues todavía está
 
-adornado con el roco de Su juventud, y sigue siendo el mismo ayer, y hoy, y
+adornado con el rocío de Su juventud, y sigue siendo “el mismo ayer, y hoy, y
 
-por los siglos.
+por los siglos”.
 
 Aunque los ciudadanos de
 
@@ -78,51 +78,51 @@ Durham no habitan lejos de la frontera escocesa -por lo que en tiempos antiguos
 
 estaban a menudo expuestos a ser atacados- eran eximidos de los trabajos de la
 
-guerra porque haba una catedral dentro de sus muros y ellos estaban destinados
+guerra porque había una catedral dentro de sus muros y ellos estaban destinados
 
 al servicio del obispo, siendo conocidos en tiempos antiguos con el nombre de
 
-los consagrados al santo servicio. Ahora bien, nosotros que somos ciudadanos
+los “consagrados al santo servicio”. Ahora bien, nosotros que somos ciudadanos
 
 de
 
 la Nueva
 
-Jerusaln
+Jerusalén
 
 ,
 
-y que tenemos al Seor en nuestro medio, bien podramos excusarnos de las
+y que tenemos al Seńor en nuestro medio, bien podríamos excusarnos de las
 
-maneras ordinarias de celebrar estas fechas, y considerndonos consagrados al
+maneras ordinarias de celebrar estas fechas, y considerándonos “consagrados al
 
-santo servicio, deberamos guardarlas de una manera diferente al resto de la
+santo servicio”, deberíamos guardarlas de una manera diferente al resto de la
 
-gente y hacerlo en una santa contemplacin y en el bendito servicio de ese
+gente y hacerlo en una santa contemplación y en el bendito servicio de ese
 
-clemente Dios que nos da el indecible don del Rey recin nacido.
+clemente Dios que nos da el indecible don del Rey recién nacido.
 
-Seleccion este texto
+Seleccioné este texto
 
-esta maana porque me pareci indicar cuatro maneras de servir a Dios, cuatro
+esta mańana porque me pareció indicar cuatro maneras de servir a Dios, cuatro
 
-mtodos de realizar una santa labor y de ejercitar el pensamiento cristiano.
+métodos de realizar una santa labor y de ejercitar el pensamiento cristiano.
 
-Cada uno de los versculos pone ante nosotros una manera diferente de prestar
+Cada uno de los versículos pone ante nosotros una manera diferente de prestar
 
 un sagrado servicio. Algunos dieron a conocer la noticia y contaron a otros lo
 
-que haban visto y odo; algunos se maravillaron con embeleso y asombro; una
+que habían visto y oído; algunos se maravillaron con embeleso y asombro; una
 
-persona, al menos, segn el tercero de los versculos, ponderaba, meditaba y
+persona, al menos, según el tercero de los versículos, ponderaba, meditaba y
 
 pensaba en estas cosas; y otros, en cuarto lugar, glorificaron a Dios y lo
 
-alabaron. No s cul de esos cuatro grupos rindi un mejor servicio a Dios,
+alabaron. No sé cuál de esos cuatro grupos rindió un mejor servicio a Dios,
 
-pero pienso que si pudiramos combinar todas esas emociones mentales y esos
+pero pienso que si pudiéramos combinar todas esas emociones mentales y esos
 
-ejercicios externos, tendramos la seguridad de alabar a Dios de una manera
+ejercicios externos, tendríamos la seguridad de alabar a Dios de una manera
 
 sumamente piadosa y aceptable.
 
@@ -132,137 +132,137 @@ Para
 
 comenzar, entonces, en primer lugar encontramos que algunos celebraron el
 
-nacimiento del Salvador DANDO A CONOCER lo que haban visto y odo, y
+nacimiento del Salvador DANDO A CONOCER lo que habían visto y oído, y
 
 verdaderamente podemos decir que
 
-tenan
+tenían
 
 algo
 
-que vala la pena que se repitiera a los odos de los hombres. Aquello
+que valía la pena que se repitiera a los oídos de los hombres. Aquello
 
-que los profetas y los reyes esperaron largamente, haba llegado al fin, y les
+que los profetas y los reyes esperaron largamente, había llegado al fin, y les
 
-haba llegado a ellos. Haban encontrado la respuesta al enigma perpetuo.
+había llegado a ellos. Habían encontrado la respuesta al enigma perpetuo.
 
-Habran podido correr a lo largo de las calles, con el antiguo filsofo,
+Habrían podido correr a lo largo de las calles, con el antiguo filósofo,
 
-gritando: Eureka, eureka!, pues su descubrimiento fue muy superior al de aqul.
+gritando: “ˇEureka, eureka!”, pues su descubrimiento fue muy superior al de aquél.
 
-No haban encontrado ninguna solucin a un problema mecnico o a un dilema
+No habían encontrado ninguna solución a un problema mecánico o a un dilema
 
-metafsico, pero su descubrimiento no fue inferior a ningn descubrimiento de
+metafísico, pero su descubrimiento no fue inferior a ningún descubrimiento de
 
-algn valor real hecho jams por los hombres, puesto que ha sido como las hojas
+algún valor real hecho jamás por los hombres, puesto que ha sido como las hojas
 
-del rbol de la vida para sanar a las naciones, y como un ro de agua de vida
+del árbol de la vida para sanar a las naciones, y como un río de agua de vida
 
-para alegrar a la ciudad de Dios. Ellos haban visto a unos ngeles y los
+para alegrar a la ciudad de Dios. Ellos habían visto a unos ángeles y los
 
-haban odo entonar un cntico completamente nuevo e inslito. Haban visto
+habían oído entonar un cántico completamente nuevo e insólito. Habían visto
 
-algo ms que ngeles: haban contemplado al Rey de los ngeles, al ngel del
+algo más que ángeles: habían contemplado al Rey de los ángeles, al Ángel del
 
-Pacto en quien nos deleitamos. Haban odo la msica del cielo, y cuando, cerca
+Pacto en quien nos deleitamos. Habían oído la música del cielo, y cuando, cerca
 
-de aquel pesebre, el odo de su fe hubo odo la msica de la esperanza de la
+de aquel pesebre, el oído de su fe hubo oído la música de la esperanza de la
 
-tierra -una armona mstica que resonara a lo largo de todas las edades- la
+tierra -una armonía mística que resonaría a lo largo de todas las edades- la
 
-dulce y solemne meloda de los corazones se sintoniz para alabar al Seor, y el
+dulce y solemne melodía de los corazones se sintonizó para alabar al Seńor, y el
 
-glorioso oleaje del santo gozo de Dios y del hombre se fundi en una alegre
+glorioso oleaje del santo gozo de Dios y del hombre se fundió en una alegre
 
-armona. Haban visto al Dios encarnado: una visin que quien la contempla,
+armonía. Habían visto al Dios encarnado: una visión que quien la contempla,
 
 tiene que sentir que su lengua se suelta a menos que un pasmo indescriptible lo
 
-dejase mudo. Imposible quedarse callados habiendo visto ese espectculo nico!
+dejase mudo. ˇImposible quedarse callados habiendo visto ese espectáculo único!
 
 Comenzaron a contar su inigualable historia a la primera persona que
 
 encontraron fuera de aquella humilde puerta del establo, y no descansaron de
 
-dar voces hasta que cay la noche, diciendo: Vayan y adrenle! Vayan a
+dar voces hasta que cayó la noche, diciendo: “ˇVayan y adórenle! ˇVayan a
 
-adorar a Cristo, el Rey recin nacido!
+adorar a Cristo, el Rey recién nacido!”
 
 En cuanto a nosotros,
 
-amados, acaso no tenemos tambin algo que relatar que demanda su expresin? Si
+amados, żacaso no tenemos también algo que relatar que demanda su expresión? Si
 
-hablamos de Jess, quin podra acusarnos? Esto, en verdad, hara que se mueva
+hablamos de Jesús, żquién podría acusarnos? Esto, en verdad, haría que se mueva
 
 la lengua del que duerme: el misterio del Dios encarnado por nuestra causa que
 
-se desangra y muere para que nosotros no nos quedemos exanges ni muramos; que
+se desangra y muere para que nosotros no nos quedemos exangües ni muramos; que
 
-desciende para que nosotros podamos ascender, y que fue envuelto en paales
+desciende para que nosotros podamos ascender, y que fue envuelto en pańales
 
-para que podamos ser despojados de las vendas de la corrupcin. Aqu tenemos
+para que podamos ser despojados de las vendas de la corrupción. Aquí tenemos
 
-esa historia que es tan benfica para todos los oyentes que quien la repita con
+esa historia que es tan benéfica para todos los oyentes que quien la repita con
 
 mayor frecuencia hace lo mejor, y que quien menos la divulgue tiene el mayor
 
 motivo para acusarse de un silencio pecaminoso.
 
-Ellos tenan algo que
+Ellos tenían algo que
 
 contar,
 
-y ese algo contena la inimitable
+y ese algo contenía la inimitable
 
-combinacin que es la seal secreta y la regia marca de la autora divina; un
+combinación que es la seńal secreta y la regia marca de la autoría divina; un
 
 inimitable maridaje de sublimidad y simplicidad.
 
-ngeles cantando,
+ˇÁngeles cantando,
 
-cantando a unos pastores! El cielo resplandeciente de gloria, refulgente a la
+cantando a unos pastores! ˇEl cielo resplandeciente de gloria, refulgente a la
 
-medianoche! Dios! Un Beb! El Infinito! Un Infante de un palmo de altura!
+medianoche! ˇDios! ˇUn Bebé! ˇEl Infinito! ˇUn Infante de un palmo de altura!
 
-El Anciano de Das! Nacido de mujer! Qu pudiera ser ms sencillo que la
+ˇEl Anciano de Días! ˇNacido de mujer! żQué pudiera ser más sencillo que la
 
-posada, el pesebre, un carpintero, la esposa de un carpintero y un nio? Qu
+posada, el pesebre, un carpintero, la esposa de un carpintero y un nińo? żQué
 
-pudiera ser ms sublime que una multitud de las huestes celestiales que
+pudiera ser más sublime que una “multitud de las huestes celestiales” que
 
 despiertan con sus villancicos gozosos a la noche, y Dios mismo hecho
 
-manifiesto en carne humana? Un nio no es ms que un espectculo ordinario;
+manifiesto en carne humana? Un nińo no es más que un espectáculo ordinario;
 
-pero qu maravilla es ver a
+pero qué maravilla es ver a
 
 la
 
 Palabra
 
-que en el principio estaba con Dios, habitando entre
+que “en el principio estaba con Dios, habitando entre
 
-nosotros para que viramos su gloria, gloria como del unignito del Padre,
+nosotros para que viéramos su gloria, gloria como del unigénito del Padre,
 
-lleno de gracia y de verdad.
+lleno de gracia y de verdad”.
 
 Hermanos, tenemos que
 
-contar una historia muy sencilla y muy sublime. Qu podra ser ms simple?
+contar una historia muy sencilla y muy sublime. żQué podría ser más simple?
 
-Crean y vivan. Qu podra ser ms sencillo? Dios estaba en Cristo
+“Crean y vivan”. żQué podría ser más sencillo? “Dios estaba en Cristo
 
-reconciliando consigo al mundo. Un sistema de salvacin tan maravilloso que a
+reconciliando consigo al mundo”. Un sistema de salvación tan maravilloso que a
 
-las mentes anglicas no les queda sino adorar al meditar en eso; y, con todo,
+las mentes angélicas no les queda sino adorar al meditar en eso; y, con todo,
 
-tan sencillo que los nios en el templo pueden cantar apropiadamente himnos a
+tan sencillo que los nińos en el templo pueden cantar apropiadamente himnos a
 
-sus virtudes, cuando entonan: Hosanna! Bendito el que viene en el nombre del
+sus virtudes, cuando entonan: “ˇHosanna! ˇBendito el que viene en el nombre del
 
-Seor! Cun esplndida combinacin de lo sublime y lo sencillo tenemos en la
+Seńor!” ˇCuán espléndida combinación de lo sublime y lo sencillo tenemos en la
 
-grandiosa expiacin ofrecida por el Salvador encarnado! Oh, den a conocer a
+grandiosa expiación ofrecida por el Salvador encarnado! ˇOh, den a conocer a
 
 todos los hombres esta verdad salvadora!
 
@@ -276,85 +276,85 @@ pues recibieron del cielo lo que
 
 contaron.
 
-Sus nuevas no fueron susurradas a sus odos por orculos
+Sus nuevas no fueron susurradas a sus oídos por oráculos
 
-sibilinos ni salieron a luz por una investigacin filosfica; no fueron
+sibilinos ni salieron a luz por una investigación filosófica; no fueron
 
-concebidas poticamente ni fueron encontradas como un tesoro descubierto entre
+concebidas poéticamente ni fueron encontradas como un tesoro descubierto entre
 
-los volmenes de la tradicin, sino que les fueron reveladas por aquel notable
+los volúmenes de la tradición, sino que les fueron reveladas por aquel notable
 
-predicador del Evangelio que dirigi a las huestes anglicas y dio testimonio
+predicador del Evangelio que dirigió a las huestes angélicas y dio testimonio
 
-diciendo: Os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo
+diciendo: “Os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo
 
-el Seor.
+el Seńor”.
 
-Cuando el cielo confa a
+Cuando el cielo confía a
 
-un hombre una misericordiosa revelacin, ese hombre queda obligado a entregar a
+un hombre una misericordiosa revelación, ese hombre queda obligado a entregar a
 
-otros las buenas nuevas. Cmo!, guardar en secreto la declaracin que hace la
+otros las buenas nuevas. ˇCómo!, żguardar en secreto la declaración que hace la
 
-eterna misericordia para embelesar al aire de medianoche? Para qu propsito
+eterna misericordia para embelesar al aire de medianoche? żPara qué propósito
 
-fueron enviados los ngeles, si el mensaje no fuera divulgado ampliamente? De
+fueron enviados los ángeles, si el mensaje no fuera divulgado ampliamente? De
 
-acuerdo a la enseanza de nuestro propio amado Seor no debemos quedarnos
+acuerdo a la enseńanza de nuestro propio amado Seńor no debemos quedarnos
 
-callados, pues l nos ordena as: lo que habis odo en secreto, eso han de
+callados, pues Él nos ordena así: “lo que habéis oído en secreto, eso han de
 
-revelar en pblico; y lo que he hablado al odo en los aposentos, se proclamar
+revelar en público; y lo que he hablado al oído en los aposentos, se proclamará
 
-en las azoteas.
+en las azoteas”.
 
-Amados, ustedes han odo
+Amados, ustedes han oído
 
 una voz del cielo; ustedes, que han nacido dos veces y que han sido engendrados
 
-a una esperanza viva, han odo al Espritu de Dios dndoles testimonio de la
+a una esperanza viva, han oído al Espíritu de Dios dándoles testimonio de la
 
-verdad de Dios y ensendoles acerca de cosas celestiales. Entonces, ustedes
+verdad de Dios y enseńándoles acerca de cosas celestiales. Entonces, ustedes
 
-han de guardar esta Navidad transmitindoles a sus semejantes lo que el propio
+han de guardar esta Navidad transmitiéndoles a sus semejantes lo que el propio
 
-Espritu santo de Dios ha considerado apropiado revelarles.
+Espíritu santo de Dios ha considerado apropiado revelarles.
 
 Pero aunque los pastores
 
-dieron a conocer lo que haban odo del cielo, recuerden que tambin
+dieron a conocer lo que habían oído del cielo, recuerden que también
 
-ellos hablaron de lo que haban visto aqu
+ellos hablaron de lo que habían visto aquí
 
 abajo.
 
-Mediante la observacin ellos se haban apropiado muy firmemente de
+Mediante la observación ellos se habían apropiado muy firmemente de
 
-aquellas verdades que les haban sido comunicadas por revelacin. Nadie puede
+aquellas verdades que les habían sido comunicadas por revelación. Nadie puede
 
 hablar de las cosas de Dios, exitosamente, a menos que la doctrina que
 
-encuentra en el libro la encuentre tambin en su corazn. Tenemos que bajar y
+encuentra en el libro la encuentre también en su corazón. Tenemos que bajar y
 
-aclarar el misterio, y conocer su poder prctico en el corazn y en la
+aclarar el misterio, y conocer su poder práctico en el corazón y en la
 
-conciencia, gracias a la enseanza del Espritu Santo.
+conciencia, gracias a la enseńanza del Espíritu Santo.
 
-Hermanos mos, el
+Hermanos míos, el
 
-Evangelio que predicamos nos es revelado muy seguramente por el Seor pero,
+Evangelio que predicamos nos es revelado muy seguramente por el Seńor pero,
 
-adems, nuestros corazones han probado y comprobado, han asido, han sentido y
+además, nuestros corazones han probado y comprobado, han asido, han sentido y
 
 han absorbido su verdad y su poder. Si bien no hemos sido capaces de entender
 
-sus alturas y sus profundidades, hemos sentido su poder mstico en nuestro
+sus alturas y sus profundidades, hemos sentido su poder místico en nuestro
 
-corazn y en nuestro espritu. Nos ha revelado ms claramente el pecado y nos
+corazón y en nuestro espíritu. Nos ha revelado más claramente el pecado y nos
 
-ha revelado nuestro perdn. Ha eliminado el poder reinante del pecado. Nos ha
+ha revelado nuestro perdón. Ha eliminado el poder reinante del pecado. Nos ha
 
-dado a Cristo para que reine en nosotros y al Espritu Santo para que more en
+dado a Cristo para que reine en nosotros y al Espíritu Santo para que more en
 
 nuestros cuerpos como en un templo. Ahora
 
@@ -362,31 +362,31 @@ tenemos
 
 que hablar. Yo no quiero exhortar a ninguno de ustedes a que hable de
 
-Jess, si meramente conoce
+Jesús, si meramente conoce
 
 la
 
 Palabra
 
-segn se encuentra en
+según se encuentra en
 
 la Biblia
 
-, pues esa enseanza
+, pues esa enseńanza
 
-carecera del suficiente poder. Pero me dirijo sinceramente a quienes ya conocen
+carecería del suficiente poder. Pero me dirijo sinceramente a quienes ya conocen
 
-su poderosa influencia en su corazn, a quienes no slo han odo acerca del
+su poderosa influencia en su corazón, a quienes no sólo han oído acerca del
 
-beb sino que lo han visto en el pesebre, lo han tomado en sus propios brazos y
+bebé sino que lo han visto en el pesebre, lo han tomado en sus propios brazos y
 
 lo han recibido como habiendo nacido para ustedes, un Salvador para ustedes,
 
-Christos, el ungido para ustedes, Jess, el Salvador del pecado para ustedes.
+‘Christos’, el ungido para ustedes, Jesús, el Salvador del pecado para ustedes.
 
-Amados, podran hacer otra cosa que no fuera hablar de las cosas que han visto
+Amados, żpodrían hacer otra cosa que no fuera hablar de las cosas que han visto
 
-y odo? Dios les ha hecho probar y tratar esta buena palabra de vida, y ustedes
+y oído? Dios les ha hecho probar y tratar esta buena palabra de vida, y ustedes
 
 no deben quedarse tranquilos ni se atrevan a hacerlo, sino que
 
@@ -398,21 +398,21 @@ a los vecinos lo que han sentido en su interior.
 
 Esos pastores eran seres
 
-desprovistos de instruccin.
+desprovistos de instrucción.
 
-Podra
+Podría
 
-garantizarles que eran incapaces de leer algn libro; no hay ninguna
+garantizarles que eran incapaces de leer algún libro; no hay ninguna
 
 probabilidad de que ni siquiera conocieran una sola letra. Eran pastores, pero
 
-predicaban muy bien, y, hermanos mos, prescindiendo de lo que algunos pudieran
+predicaban muy bien, y, hermanos míos, prescindiendo de lo que algunos pudieran
 
-pensar, la predicacin no ha de estar restringida a esos cultivados caballeros
+pensar, la predicación no ha de estar restringida a esos cultivados caballeros
 
-que han obtenido sus ttulos en Oxford o en Cambridge, o en cualquier
+que han obtenido sus títulos en Oxford o en Cambridge, o en cualquier
 
-institucin de nivel superior o universidad. Es verdad que la educacin no es
+institución de nivel superior o universidad. Es verdad que la educación no es
 
 necesariamente un impedimento para la gracia y pudiera ser un arma muy
 
@@ -420,99 +420,99 @@ apropiada en una mano diestra, pero la gracia de Dios ha sido glorificada a
 
 menudo por la manera clara y sencilla en la que hombres desprovistos de
 
-instruccin han entendido y proclamado el Evangelio. No me importara pedirle
+instrucción han entendido y proclamado el Evangelio. No me importaría pedirle
 
 al mundo entero que encuentre a un Maestro en Artes, actualmente vivo, que haya
 
-trado ms almas a Cristo Jess que Richard Weaver. Si todo el colegio
+traído más almas a Cristo Jesús que Richard Weaver. Si todo el colegio
 
-episcopal hubiera hecho una dcima parte de lo que ese hombre solitario ha
+episcopal hubiera hecho una décima parte de lo que ese hombre solitario ha
 
-hecho para ganar almas, sera ms de lo que la mayora de nosotros reconocera.
+hecho para ganar almas, sería más de lo que la mayoría de nosotros reconocería.
 
-Dmosle a nuestro Dios toda la gloria, pero aun as no neguemos el hecho de que
+Démosle a nuestro Dios toda la gloria, pero aun así no neguemos el hecho de que
 
-ese pecador salvado recin salido de la mina de carbn, que todava tiene el
+ese pecador salvado recién salido de la mina de carbón, que todavía tiene el
 
 acento del carbonero, por la gracia de Dios, cuenta la historia de la cruz de
 
-tal manera que los muy reverendos padres en Dios podran sentarse
+tal manera que los muy ‘reverendos padres’ en Dios podrían sentarse
 
-humildemente a sus pies para aprender la forma de llegar al corazn y derretir
+humildemente a sus pies para aprender la forma de llegar al corazón y derretir
 
-a un alma empecinada. Es cierto que un hermano sin educacin no est necesariamente
+a un alma empecinada. Es cierto que un hermano sin educación no está necesariamente
 
-equipado para todo tipo de trabajo tiene su propia esfera- pero es muy capaz
+equipado para todo tipo de trabajo –tiene su propia esfera- pero es muy capaz
 
-de contar lo que ha visto y odo, y me parece que as es, en cierta medida,
+de contar lo que ha visto y oído, y me parece que así es, en cierta medida,
 
-todo hombre. Si has visto a Jess y has odo Su voz salvadora, si has recibido
+todo hombre. Si has visto a Jesús y has oído Su voz salvadora, si has recibido
 
-la verdad como del Seor, si sentiste su tremendo poder como proviniendo de
+la verdad como del Seńor, si sentiste su tremendo poder como proviniendo de
 
-Dios para ti, y si has experimentado su potencia sobre tu propio espritu,
+Dios para ti, y si has experimentado su potencia sobre tu propio espíritu,
 
-vamos, t ciertamente puedes declarar lo que Dios ha escrito en tu interior. Si
+vamos, tú ciertamente puedes declarar lo que Dios ha escrito en tu interior. Si
 
-no puedes pasar ms all de eso y no puedes adentrarte en misterios ms
+no puedes pasar más allá de eso y no puedes adentrarte en misterios más
 
-profundos, en puntos ms escabrosos, bien, bien, hay algunos que s pueden
+profundos, en puntos más escabrosos, bien, bien, hay algunos que sí pueden
 
-hacerlo y, por tanto, no necesitas sentirte incmodo; pero al menos podras
+hacerlo y, por tanto, no necesitas sentirte incómodo; pero al menos podrías
 
-revelar las verdades primordiales y fundamentales que son, con mucho, las ms
+revelar las verdades primordiales y fundamentales que son, con mucho, las más
 
-importantes. Si no puedes hablar en el plpito, si tus mejillas se sonrojan todava,
+importantes. Si no puedes hablar en el púlpito, si tus mejillas se sonrojan todavía,
 
-si tu lengua rehsa cumplir con su oficio cuando ests en presencia de muchos, all
+si tu lengua rehúsa cumplir con su oficio cuando estás en presencia de muchos, allí
 
-tienes a tus hijos: ante ellos no te da vergenza hablar; hay un pequeo racimo
+tienes a tus hijos: ante ellos no te da vergüenza hablar; hay un pequeńo racimo
 
-en torno a la chimenea en la noche de Navidad; hay una pequea congregacin en
+en torno a la chimenea en la noche de Navidad; hay una pequeńa congregación en
 
-el taller; hay una pequea audiencia en algn lugar a quienes podras hablarles
+el taller; hay una pequeńa audiencia en algún lugar a quienes podrías hablarles
 
-acerca del amor de Jess por los perdidos. No vayas ms all de lo que sabes;
+acerca del amor de Jesús por los perdidos. No vayas más allá de lo que sabes;
 
-no te sumerjas en lo que no hayas experimentado, pues si lo hicieras, estaras
+no te sumerjas en lo que no hayas experimentado, pues si lo hicieras, estarías
 
-fuera de tu nivel, y entonces muy pronto estaras titubeando torpemente y
+fuera de tu nivel, y entonces muy pronto estarías titubeando torpemente y
 
-contribuyendo a que la confusin empeore. Has de ir hasta donde conozcas y
+contribuyendo a que la confusión empeore. Has de ir hasta donde conozcas y
 
-puesto que te reconoces como un pecador y reconoces a Jess como un Salvador -uno
+puesto que te reconoces como un pecador y reconoces a Jesús como un Salvador -uno
 
-muy grandioso por cierto- habla acerca de esos dos asuntos, y de all provendr
+muy grandioso por cierto- habla acerca de esos dos asuntos, y de allí provendrá
 
-buena voluntad. Amados, cada uno en su propia posicin declare lo que haya odo
+buena voluntad. Amados, cada uno en su propia posición declare lo que haya oído
 
 y visto; publiquen eso entre los hijos de los hombres.
 
 Pero,
 
-fueron autorizados?
+żfueron autorizados?
 
-Es algo grandioso
+ˇEs algo grandioso
 
-ser autorizado! Los ministros desautorizados son los ms vergonzosos intrusos!
+ser autorizado! ˇLos ministros desautorizados son los más vergonzosos intrusos!
 
-Suben al plpito hombres que no han sido ordenados y que no figuran en la
+Suben al púlpito hombres que no han sido ordenados y que no figuran en la
 
-sucesin apostlica. Es muy horrible! Es muy, muy horrible! La mente puseyista
+sucesión apostólica. ˇEs muy horrible! ˇEs muy, muy horrible! La mente puseyista
 
 es completamente incapaz de medir la profundidad del horror contenido en la idea
 
-de un hombre desautorizado para predicar y de un hombre fuera de la sucesin
+de un hombre desautorizado para predicar y de un hombre fuera de la sucesión
 
-apostlica que se atreva a ensear el camino de la salvacin. Para m este
+apostólica que se atreva a enseńar el camino de la salvación. Para mí este
 
 horror se asemeja mucho al terror de un muchacho en edad escolar ante el duende
 
 que sus propios miedos han conjurado. Pienso que si viera que un hombre se
 
-desliza sobre el hielo hacia una tumba fra, y yo pudiera rescatarlo de
+desliza sobre el hielo hacia una tumba fría, y yo pudiera rescatarlo de
 
-ahogarse, para m no sera muy horrible que yo pudiera salvarlo, aunque no
+ahogarse, para mí no sería muy horrible que yo pudiera salvarlo, aunque no
 
 fuera un empleado de
 
@@ -526,23 +526,23 @@ desde la ventana de un piso superior, y fuera muy probable que muriera quemada,
 
 si yo acercara la escalera de incendio a la ventana y preservara su vida, no
 
-sera un asunto tan terrible aunque yo no perteneciera al cuerpo de bomberos.
+sería un asunto tan terrible aunque yo no perteneciera al cuerpo de bomberos.
 
-No s si fuera algo tan chocante que un grupo de valerosos voluntarios persiga
+No sé si fuera algo tan chocante que un grupo de valerosos voluntarios persiga
 
-a un enemigo fuera de los lmites de su propio condado, aunque un ejrcito
+a un enemigo fuera de los límites de su propio condado, aunque un ejército
 
 entero de mercenarios pudiera estar descuidando ese trabajo en obediencia a
 
 alguna ordenanza militar que los incapacitara de prestar su servicio efectivo.
 
-Pero resulta que los pastores y otros como ellos estn en la sucesin
+Pero resulta que los pastores y otros como ellos están en la sucesión
 
-apostlica y estn autorizados por la ordenanza divina, pues todo hombre que
+apostólica y están autorizados por la ordenanza divina, pues todo hombre que
 
-oye el Evangelio est autorizado a darlo a conocer a los dems. Necesitas una
+oye el Evangelio está autorizado a darlo a conocer a los demás. żNecesitas una
 
-autorizacin? Aqu tienes la autorizacin, confirmada categricamente, proveniente
+autorización? Aquí tienes la autorización, confirmada categóricamente, proveniente
 
 de
 
@@ -552,21 +552,21 @@ Escritura
 
 :
 
-El que oye, diga: Ven, esto es, que cada persona que oiga verdaderamente el
+“El que oye, diga: Ven”, esto es, que cada persona que oiga verdaderamente el
 
 Evangelio tiene que invitar a otros a beber del agua de vida. Esta es toda la
 
-autorizacin que se requiere para predicar el Evangelio de acuerdo a la
+autorización que se requiere para predicar el Evangelio de acuerdo a la
 
 habilidad de cada quien. No todos tienen la habilidad de predicar
 
 la Palabra
 
-y no nos gustara
+y no nos gustaría
 
-enterarnos de que todos predican en la gran congregacin, pues si todos fueran
+enterarnos de que todos predican en la gran congregación, pues si todos fueran
 
-bocas, qu gran vaco habra en
+bocas, qué gran vacío habría en
 
 la Iglesia.
 
@@ -576,23 +576,23 @@ todo, cada cristiano, a su manera, debe predicar las
 
 buenas nuevas. Nuestro sabio Dios cuida de que esa libertad de profetizar no
 
-desemboque en un motn, pues l no otorga los eficaces dones pastorales y ministeriales
+desemboque en un motín, pues Él no otorga los eficaces dones pastorales y ministeriales
 
-a muchos; con todo, cada uno tiene que ministrar segn sus dones. Cada cual
+a muchos; con todo, cada uno tiene que ministrar según sus dones. Cada cual
 
-debe dar a conocer el nombre del Seor Jess aunque no sea desde el plpito
+debe dar a conocer el nombre del Seńor Jesús aunque no sea desde el púlpito
 
-sino desde su reclinatorio, en el taller, en algn lugar, en cualquier lugar y
+sino desde su reclinatorio, en el taller, en algún lugar, en cualquier lugar y
 
-en todo lugar. Que esto le sirva de autorizacin: El que oye, diga: Ven. Yo
+en todo lugar. Que esto le sirva de autorización: “El que oye, diga: Ven”. ˇYo
 
-nunca pensara en pedir una autorizacin para gritar: Fuego, si viera que alguna
+nunca pensaría en pedir una autorización para gritar: “Fuego”, si viera que alguna
 
-casa est ardiendo; nunca soara con pedir alguna autorizacin para realizar
+casa está ardiendo; nunca sońaría con pedir alguna autorización para realizar
 
-mi mejor esfuerzo para rescatar a un pobre prjimo que perece, ni tengo la
+mi mejor esfuerzo para rescatar a un pobre prójimo que perece, ni tengo la
 
-intencin de hacerlo ahora! Toda la autorizacin que necesita cualquiera de
+intención de hacerlo ahora! Toda la autorización que necesita cualquiera de
 
 ustedes no es la autoridad que pudiera emanar de unos prelados decorados con
 
@@ -604,19 +604,19 @@ la Iglesia
 
 ,
 
-que da autorizacin a todos los que oyen el Evangelio para que todos enseen a
+que da autorización a todos los que oyen el Evangelio para que todos enseńen a
 
-su prjimo, diciendo: Conoce al Seor.
+su prójimo, diciendo: “Conoce al Seńor”.
 
-Aqu, queridos hermanos,
+Aquí, queridos hermanos,
 
-tenemos una manera de guardar una Navidad completamente santa y, en algn
+tenemos una manera de guardar una Navidad completamente santa y, en algún
 
 sentido, una Navidad completamente jubilosa. Imiten a esos humildes hombres, de
 
-quienes se dice: Al verlo, dieron a conocer lo que se les haba dicho acerca
+quienes se dice: “Al verlo, dieron a conocer lo que se les había dicho acerca
 
-del nio.
+del nińo”.
 
 II.
 
@@ -626,19 +626,19 @@ ante ustedes, ahora, otro modo de guardar
 
 la Navidad
 
-: mediante una SANTA FASCINACIN,
+: mediante una SANTA FASCINACIÓN,
 
-ADMIRACIN Y ADORACIN. Y todos los que oyeron, se maravillaron de lo que los
+ADMIRACIÓN Y ADORACIÓN. “Y todos los que oyeron, se maravillaron de lo que los
 
-pastores les decan.
+pastores les decían”.
 
 Poco tenemos que decir de
 
-esas personas que meramente quedaron fascinados pero que no hicieron nada ms.
+esas personas que meramente quedaron fascinados pero que no hicieron nada más.
 
-Muchos son conducidos a maravillarse por el Evangelio. Se contentan con orlo.
+Muchos son conducidos a maravillarse por el Evangelio. Se contentan con oírlo.
 
-Les agrada orlo y si en s mismo el evangelio no es nada nuevo, hay nuevas
+Les agrada oírlo y si en sí mismo el evangelio no es nada nuevo, hay nuevas
 
 maneras de expresarlo, y a ellos les encanta ser refrescados gracias a la
 
@@ -646,91 +646,91 @@ variedad. La voz del predicador es para ellos como el sonido de alguien que da
 
 un tono preciso con un instrumento. A ellos les encanta escuchar. No son
 
-escpticos, no ponen objeciones, no identifican dificultades; simplemente se
+escépticos, no ponen objeciones, no identifican dificultades; simplemente se
 
-dicen a s mismos: Es un excelente evangelio, es un maravilloso plan de
+dicen a sí mismos: “Es un excelente evangelio, es un maravilloso plan de
 
-salvacin. Aqu tenemos un amor sumamente asombroso, una condescendencia
+salvación. Aquí tenemos un amor sumamente asombroso, una condescendencia
 
-sumamente extraordinaria. Algunas veces se sorprenden de que sean unos simples
+sumamente extraordinaria”. Algunas veces se sorprenden de que sean unos simples
 
-pastores quienes les digan esas cosas; a duras penas pueden entender cmo
+pastores quienes les digan esas cosas; a duras penas pueden entender cómo
 
-personas ignorantes y sin educacin hablan de estas cosas y cmo pudieron entrar
+personas ignorantes y sin educación hablan de estas cosas y cómo pudieron entrar
 
-jams en las cabezas de esos simples pastores; dnde pudieron haberlas
+jamás en las cabezas de esos simples pastores; dónde pudieron haberlas
 
-aprendido; cmo es que parecen tan motivados por ellas; qu tipo de operacin
+aprendido; cómo es que parecen tan motivados por ellas; qué tipo de operación
 
 deben de haber experimentado para ser capaces de hablar como lo hacen. Pero
 
-despus de alzar sus manos y de abrir sus bocas durante unos nueve das, la
+después de alzar sus manos y de abrir sus bocas durante unos nueve días, la
 
-sorpresa pierde intensidad y siguen su camino y ya no piensan ms al respecto.
+sorpresa pierde intensidad y siguen su camino y ya no piensan más al respecto.
 
 Hay muchos de ustedes que son conducidos a maravillarse siempre que ven una obra
 
-de Dios en su distrito. Se enteran de alguien que se convierte despus de haber
+de Dios en su distrito. Se enteran de alguien que se convierte después de haber
 
-sido un muy notable pecador y dicen: Eso es algo muy maravilloso! Hay un
+sido un muy notable pecador y dicen: “ˇEso es algo muy maravilloso!” Hay un
 
-avivamiento. Da la casualidad que ests presente en una de las reuniones cuando
+avivamiento. Da la casualidad que estás presente en una de las reuniones cuando
 
-el Espritu de Dios est obrando gloriosamente; entonces t dices: Bien, esto
+el Espíritu de Dios está obrando gloriosamente; entonces tú dices: “ˇBien, esto
 
-es algo singular! Es algo muy asombroso! Incluso los peridicos reservan un
+es algo singular! ˇEs algo muy asombroso!” Incluso los periódicos reservan un
 
 espacio en alguna esquina, algunas veces, para unas obras muy grandes y
 
-extraordinarias de Dios el Espritu Santo. Pero all termina toda la emocin. Todo
+extraordinarias de Dios el Espíritu Santo. Pero allí termina toda la emoción. Todo
 
-es un maravillarse y nada ms.
+es un maravillarse y nada más.
 
-Ahora bien, yo confo
+Ahora bien, yo confío
 
 que no ocurra lo mismo con ninguno de nosotros; que no pensemos en el Salvador
 
-y en las doctrinas del Evangelio que l vino a predicar simplemente con
+y en las doctrinas del Evangelio que Él vino a predicar simplemente con
 
-estupefaccin y asombro, pues esto nos producira muy poco bien. Por otro lado,
+estupefacción y asombro, pues esto nos produciría muy poco bien. Por otro lado,
 
-hay otro modo de maravillarse que es similar a la adoracin, si es que no fuera
+hay otro modo de maravillarse que es similar a la adoración, si es que no fuera
 
-adoracin. Pienso que sera muy difcil trazar una lnea entre el santo asombro
+adoración. Pienso que sería muy difícil trazar una línea entre el santo asombro
 
-y la adoracin real, pues cuando el alma queda sobrecogida con la majestad de
+y la adoración real, pues cuando el alma queda sobrecogida con la majestad de
 
-la gloria de Dios, aunque no se exprese en un cntico, o incluso cuando
+la gloria de Dios, aunque no se exprese en un cántico, o incluso cuando
 
-articula su voz con una cabeza inclinada en humilde oracin, con todo, adora
+articula su voz con una cabeza inclinada en humilde oración, con todo, adora
 
 silenciosamente. Yo estoy inclinado a pensar que el asombro que algunas veces
 
 se apodera del intelecto humano ante el recuerdo de la grandeza y la bondad de
 
-Dios es, tal vez, la forma ms pura de adoracin que sube jams de los hombres
+Dios es, tal vez, la forma más pura de adoración que sube jamás de los hombres
 
-mortales al trono del Altsimo. Yo recomiendo este tipo de asombro para
+mortales al trono del Altísimo. Yo recomiendo este tipo de asombro para
 
 aquellos entre ustedes que debido a la quietud y soledad de sus vidas son
 
-escasamente capaces de imitar a los pastores en la divulgacin de la historia a
+escasamente capaces de imitar a los pastores en la divulgación de la historia a
 
-los dems. Al menos pueden completar el crculo de los adoradores delante del
+los demás. Al menos pueden completar el círculo de los adoradores delante del
 
-trono maravillndose por lo que Dios ha hecho.
+trono maravillándose por lo que Dios ha hecho.
 
-Permtanme sugerirles
+Permítanme sugerirles
 
-que ese santo asombro ante lo que Dios ha hecho debera ser algo muy natural
+que ese santo asombro ante lo que Dios ha hecho debería ser algo muy natural
 
-para ustedes. Que Dios considere a Su criatura cada, el hombre, y en vez de
+para ustedes. ˇQue Dios considere a Su criatura caída, el hombre, y en vez de
 
-barrerlo con la escoba de la destruccin disee un maravilloso esquema para su
+barrerlo con la escoba de la destrucción diseńe un maravilloso esquema para su
 
-redencin, y que l mismo asuma ser el Redentor del hombre y pagar el precio de
+redención, y que Él mismo asuma ser el Redentor del hombre y pagar el precio de
 
-su rescate, es, en verdad, maravilloso! Probablemente les sea ms maravilloso, en
+su rescate, es, en verdad, maravilloso! Probablemente les sea más maravilloso, en
 
 lo que a ustedes se refiere, que
 
@@ -740,337 +740,337 @@ sean
 
 redimidos por sangre: que Dios abandone los tronos y las regias cosas en lo
 
-alto para sufrir ignominiosamente aqu abajo por ustedes. Si se conocieran a
+alto para sufrir ignominiosamente aquí abajo por ustedes. Si se conocieran a
 
-ustedes mismos no podran ver nunca en su carne ningn motivo o razn adecuados
+ustedes mismos no podrían ver nunca en su carne ningún motivo o razón adecuados
 
-para un acto semejante. Por qu tanto amor por m?, dirs. Si David, sentado
+para un acto semejante. “żPor qué tanto amor por mí?”, dirás. Si David, sentado
 
-en su casa, slo poda decir: Quin soy yo, y qu es mi casa, para que t me
+en su casa, sólo podía decir: “żQuién soy yo, y qué es mi casa, para que tú me
 
-hayas trado hasta aqu?, qu diramos t y yo? Si hubisemos sido los
+hayas traído hasta aquí?”, żqué diríamos tú y yo? Si hubiésemos sido los
 
-individuos ms meritorios y hubisemos guardado incesantemente los mandamientos
+individuos más meritorios y hubiésemos guardado incesantemente los mandamientos
 
-del Seor no habramos podido merecer una bendicin tan inapreciable como la
+del Seńor no habríamos podido merecer una bendición tan inapreciable como la
 
-encarnacin; pero como pecadores, como ofensores que se rebelaron y se
+encarnación; pero como pecadores, como ofensores que se rebelaron y se
 
-apartaron ms y ms lejos de Dios, qu diremos de este Dios encarnado que
+apartaron más y más lejos de Dios, żqué diremos de este Dios encarnado que
 
-muri por nosotros, sino: En esto consiste el amor: no en que nosotros hayamos
+murió por nosotros, sino: “En esto consiste el amor: no en que nosotros hayamos
 
-amado a Dios, sino en que l nos am a nosotros? Dejen que su alma se pierda
+amado a Dios, sino en que él nos amó a nosotros”? Dejen que su alma se pierda
 
 en el asombro, pues el asombro, queridos amigos, es en este sentido, una
 
-emocin muy prctica. El santo asombro los conducir a una adoracin
+emoción muy práctica. El santo asombro los conducirá a una adoración
 
-agradecida; quedando estupefactos por lo que Dios ha hecho, derramarn su alma
+agradecida; quedando estupefactos por lo que Dios ha hecho, derramarán su alma
 
-con asombro al pie del trono de oro con el cntico: Al que est sentado en el
+con asombro al pie del trono de oro con el cántico: “Al que está sentado en el
 
-trono, y al Cordero, que hace estas grandes por m, sea la alabanza, la honra,
+trono, y al Cordero, que hace estas grandes por mí, sea la alabanza, la honra,
 
-la gloria, el poder, la majestad y el dominio. Estando lleno de este asombro
+la gloria, el poder, la majestad y el dominio”. Estando lleno de este asombro
 
-sers conducido a una santa vigilancia; tendrs miedo de pecar contra un amor
+serás conducido a una santa vigilancia; tendrás miedo de pecar contra un amor
 
 como este. Sintiendo la presencia del poderoso Dios en el don de Su amado Hijo,
 
-quitars tu calzado de tus pies, porque el lugar en que t ests, tierra santa
+quitarás tu calzado de tus pies, porque el lugar en que tú estás, tierra santa
 
-es. Sers conducido al mismo tiempo a una gloriosa esperanza. Si Jess se ha
+es. Serás conducido al mismo tiempo a una gloriosa esperanza. Si Jesús se ha
 
-entregado a ti, si l ha hecho esta obra maravillosa por ti, sentirs que el
+entregado a ti, si Él ha hecho esta obra maravillosa por ti, sentirás que el
 
-cielo mismo no es demasiado grande para tu expectativa, y que los ros de
+cielo mismo no es demasiado grande para tu expectativa, y que los ríos de
 
 placer a la diestra de Dios no son demasiado dulces ni demasiado profundos para
 
-que bebas de ellos. Quin podra asombrarse de algo ms habiendo quedado
+que bebas de ellos. żQuién podría asombrarse de algo más habiendo quedado
 
-maravillado una vez en el pesebre y en la cruz? Qu queda de maravilloso
+maravillado una vez en el pesebre y en la cruz? żQué queda de maravilloso
 
-despus de que uno ha visto al Salvador? Las siete maravillas del mundo!
+después de que uno ha visto al Salvador? ˇLas siete maravillas del mundo!
 
-Vamos, podras ponerlas a todas en una cscara de nuez: la maquinaria y el arte
+Vamos, podrías ponerlas a todas en una cáscara de nuez: la maquinaria y el arte
 
 moderno pueden sobrepasarlas a todas ellas; pero esta maravilla especial no es
 
-slo la maravilla de la tierra, sino del cielo y de la tierra e incluso del
+sólo la maravilla de la tierra, sino del cielo y de la tierra e incluso del
 
-infierno mismo. No es la maravilla de la antigedad, sino la maravilla de todos
+infierno mismo. No es la maravilla de la antigüedad, sino la maravilla de todos
 
 los tiempos y la maravilla de la eternidad. Quienes ven las maravillas humanas
 
-unas cuantas veces, al final ya no se quedan asombrados; la ms noble mole que
+unas cuantas veces, al final ya no se quedan asombrados; la más noble mole que
 
-haya levantado jams un arquitecto, por fin deja de impresionar al espectador;
+haya levantado jamás un arquitecto, por fin deja de impresionar al espectador;
 
-pero no sucede as con este maravilloso templo del Dios encarnado; entre ms lo
+pero no sucede así con este maravilloso templo del Dios encarnado; entre más lo
 
-miramos, ms nos asombramos; entre ms nos acostumbramos a l, ms tenemos una
+miramos, más nos asombramos; entre más nos acostumbramos a él, más tenemos una
 
 idea de su esplendor incomparable de amor y de gracia. Digamos que se pueden
 
-ver ms cosas acerca de Dios en el pesebre y en la cruz, que en las relucientes
+ver más cosas acerca de Dios en el pesebre y en la cruz, que en las relucientes
 
-estrellas en lo alto, que en el ondulante abismo abajo, que en la alta montaa,
+estrellas en lo alto, que en el ondulante abismo abajo, que en la alta montańa,
 
-que en los frtiles valles, que en las moradas de la vida o en el abismo de la
+que en los fértiles valles, que en las moradas de la vida o en el abismo de la
 
-muerte. Pasemos entonces algunas horas escogidas de esta festiva estacin
+muerte. Pasemos entonces algunas horas escogidas de esta festiva estación
 
-sumidos en un santo asombro que produzca gratitud, adoracin, amor y confianza.
+sumidos en un santo asombro que produzca gratitud, adoración, amor y confianza.
 
 III.
 
 En
 
-el siguiente versculo encontrarn una tercera forma de santa labor, es decir,
+el siguiente versículo encontrarán una tercera forma de santa labor, es decir,
 
-SU SAGRADO CORAZN PONDERANDO Y PRESERVANDO.
+SU SAGRADO CORAZÓN PONDERANDO Y PRESERVANDO.
 
 Al menos una persona -y
 
 esperamos que hubiesen otras, o de todas maneras seamos nosotros mismos unos
 
-ms- una persona guardaba todas estas cosas y las ponderaba en su corazn. Se
+más- una persona guardaba todas estas cosas y las ponderaba en su corazón. Se
 
-maravillaba pero hizo todava algo ms: ponderaba. Observarn que hubo un
+maravillaba pero hizo todavía algo más: ponderaba. Observarán que hubo un
 
 ejercicio de parte de esta bienaventurada mujer en los tres grandes componentes
 
 de su ser; en su memoria: ella guardaba todas estas cosas; en sus afectos: ella
 
-las guardaba en su corazn; en su intelecto: ella las ponderaba, las
+las guardaba en su corazón; en su intelecto: ella las ponderaba, las
 
 consideraba, las sopesaba y las analizaba, de tal forma que la memoria, el
 
 afecto y el entendimiento eran ejercitados acerca de estas cosas. Nos deleita
 
-ver esto en Mara, pero no nos sorprende del todo cuando recordamos que ella
+ver esto en María, pero no nos sorprende del todo cuando recordamos que ella
 
-era la ms interesada de todos en la tierra, pues Jesucristo naci de ella. Los
+era la más interesada de todos en la tierra, pues Jesucristo nació de ella. Los
 
-que ms se acercan a Jess y entran ms ntimamente en compaerismo con l, sern
+que más se acercan a Jesús y entran más íntimamente en compańerismo con Él, serán
 
-con seguridad los que estn ms absortos en l. Ciertas personas son ms
+con seguridad los que estén más absortos en Él. Ciertas personas son más
 
 estimadas a la distancia, pero no el Salvador; cuando lo hayan conocido a
 
-plenitud, entonces lo amarn con el amor que excede a todo conocimiento;
+plenitud, entonces lo amarán con el amor que excede a todo conocimiento;
 
-comprendern las alturas y las profundidades, las longitudes y las anchuras de
+comprenderán las alturas y las profundidades, las longitudes y las anchuras de
 
-Su amor; y cuando hagan eso, entonces su propio amor se henchir ms all de
+Su amor; y cuando hagan eso, entonces su propio amor se henchirá más allá de
 
-toda longitud y anchura, de toda altura y profundidad. El nacimiento concerna
+toda longitud y anchura, de toda altura y profundidad. El nacimiento concernía
 
-principalmente a Mara, y por tanto, ella era la que estaba ms impresionada
+principalmente a María, y por tanto, ella era la que estaba más impresionada
 
-con l. Noten la manera en que era mostrado su inters; ella era una mujer, y
+con él. Noten la manera en que era mostrado su interés; ella era una mujer, y
 
-la gracia que ms brilla en la mujer no es la intrepidez, pues esa pertenece a
+la gracia que más brilla en la mujer no es la intrepidez, pues esa pertenece a
 
 la mente masculina. Pero la modestia afectuosa es una belleza femenina, y por
 
 eso no leemos de ella que diera a conocer tanto como que ponderara en su
 
-interior. Sin duda tendra su crculo y sus palabras para hablar en l; pero
+interior. Sin duda tendría su círculo y sus palabras para hablar en él; pero
 
-ella se quedaba principalmente en su casa, como la otra Mara. Ella trabajaba, pero
+ella se quedaba principalmente en su casa, como la otra María. Ella trabajaba, pero
 
 su obra era directamente para
 
-l,
+Él,
 
 el
 
-gozo y deleite de su corazn. Como los dems nios, el santo nio necesitaba de
+gozo y deleite de su corazón. Como los demás nińos, el santo nińo necesitaba de
 
-cuidados que slo la mano y el corazn de una madre pueden brindar; ella
+cuidados que sólo la mano y el corazón de una madre pueden brindar; ella
 
-estaba, por tanto, dedicada a l. Oh, bendita dedicacin! Dulce compromiso!
+estaba, por tanto, dedicada a Él. ˇOh, bendita dedicación! ˇDulce compromiso!
 
-No consideren como inaceptable el servicio que se ocupa ms bien de Jess que
+No consideren como inaceptable el servicio que se ocupa más bien de Jesús que
 
-de Sus discpulos o de Sus ovejas descarriadas. Aquella mujer que quebr el
+de Sus discípulos o de Sus ovejas descarriadas. Aquella mujer que quebró el
 
-vaso de alabastro y derram el perfume sobre el propio Jess, fue criticada por
+vaso de alabastro y derramó el perfume sobre el propio Jesús, fue criticada por
 
-Judas, e incluso los otros discpulos pensaron que los pobres haban perdido un
+Judas, e incluso los otros discípulos pensaron que los pobres habían perdido un
 
-beneficio, pero ella ha hecho conmigo una buena obra fue la respuesta del
+beneficio, pero “ella ha hecho conmigo una buena obra” fue la respuesta del
 
 Salvador.
 
 Yo deseo llevarlos a
 
-este pensamiento: que si durante esta poca, ustedes que son callados y retrados
+este pensamiento: que si durante esta época, ustedes que son callados y retraídos
 
 no pueden hablar a otros, o no cuentan con una oportunidad deseable o con un don
 
-apropiado para esa labor, podran sentarse con Jess y honrarlo en paz. Mara
+apropiado para esa labor, podrían sentarse con Jesús y honrarlo en paz. María
 
-carg al Seor en sus brazos; oh, que ustedes pudieran cargarlo en los suyos!
+cargó al Seńor en sus brazos; ˇoh, que ustedes pudieran cargarlo en los suyos!
 
-Ella realiz directamente labores para Su persona. Imtenla. Ustedes pueden
+Ella realizó directamente labores para Su persona. Imítenla. Ustedes pueden
 
-amarlo, bendecirlo, alabarlo, estudiarlo, ponderarlo, comprender Su carcter,
+amarlo, bendecirlo, alabarlo, estudiarlo, ponderarlo, comprender Su carácter,
 
 estudiar los tipos que lo anunciaban e imitar Su vida, y de esta manera, aunque
 
-su adoracin no descuelle entre los hijos de los hombres y escasamente los
+su adoración no descuelle entre los hijos de los hombres y escasamente los
 
 beneficie a ellos, a diferencia de algunas otras formas de labor, con todo, los
 
-beneficiar a ustedes mismos y ser aceptable para su Seor.
+beneficiará a ustedes mismos y será aceptable para su Seńor.
 
 Amados, recuerden lo que
 
-han odo de Cristo y lo que l ha hecho por ustedes; hagan de su corazn una
+han oído de Cristo y lo que Él ha hecho por ustedes; hagan de su corazón una
 
-copa de oro que contenga los ricos recuerdos de su anterior misericordia; convirtanlo
+copa de oro que contenga los ricos recuerdos de su anterior misericordia; conviértanlo
 
-en una urna de man que preserve el pan celestial del cual se alimentaron los
+en una urna de maná que preserve el pan celestial del cual se alimentaron los
 
 santos de tiempos antiguos. Su memoria debe atesorar todo lo que ustedes han
 
-odo o sentido o conocido acerca de Cristo, y luego sus clidos afectos deben
+oído o sentido o conocido acerca de Cristo, y luego sus cálidos afectos deben
 
-asirse perennemente a l. menlo! Derramen ese vaso de alabastro de su corazn
+asirse perennemente a Él. ˇÁmenlo! Derramen ese vaso de alabastro de su corazón
 
 y hagan que fluya sobre Sus pies todo el precioso perfume de su afecto. Si no pudieran
 
-hacerlo con gozo hganlo doloridamente, laven Sus pies con lgrimas y
+hacerlo con gozo háganlo doloridamente, laven Sus pies con lágrimas y
 
-enjguenlos con los cabellos de su cabeza; pero menlo, amen al bendito Hijo de
+enjúguenlos con los cabellos de su cabeza; pero ámenlo, amen al bendito Hijo de
 
 Dios, el siempre tierno Amigo suyo. Su intelecto debe ser ejercitado respecto
 
-al Seor Jess. Por medio de la meditacin vuelvan una y otra vez a lo que leen.
+al Seńor Jesús. Por medio de la meditación vuelvan una y otra vez a lo que leen.
 
 No sean hombres que se quedan en la letra: no se detengan en la superficie;
 
-sumrjanse en las profundidades. No sean como la golondrina que roza el
+sumérjanse en las profundidades. No sean como la golondrina que roza el
 
 torrente con su ala, sino como el pez que penetra en la profundidad de la ola. Den
 
 profundos tragos de amor; no sorban y ya, sino moren junto al pozo como Isaac
 
-moraba junto al pozo del Viviente-que-me-ve. Permanezcan con su Seor; no dejen
+moraba junto al pozo del Viviente-que-me-ve. Permanezcan con su Seńor; no dejen
 
-que sea para ustedes como un caminante que se queda slo por una noche, sino
+que sea para ustedes como un caminante que se queda sólo por una noche, sino
 
-ruguenle diciendo: Qudate con nosotros, porque el da ya ha declinado. Retnganlo
+ruéguenle diciendo: “Quédate con nosotros, porque el día ya ha declinado”. Reténganlo
 
-y no dejen que se vaya. Como saben, la palabra ponderar quiere decir pesar.
+y no dejen que se vaya. Como saben, la palabra “ponderar” quiere decir pesar.
 
-Alisten la balanza del juicio. Oh, pero, dnde est la balanza que pudiera pesar
+Alisten la balanza del juicio. Oh, pero, żdónde está la balanza que pudiera pesar
 
-al Seor Cristo? He aqu que l alza las islas como un granito de polvo;
+al Seńor Cristo? “He aquí que Él alza las islas como un granito de polvo”;
 
-quin lo alzar
+żquién lo alzará
 
-a l?
+a Él?
 
-Pesa los
+“Pesa los
 
-montes con balanza. Que as sea; si tu entendimiento no puede captarlo, tus
+montes con balanza”. Que así sea; si tu entendimiento no puede captarlo, tus
 
-afectos deben percibirlo; y si tu espritu no puede abarcar al Seor Jess con
+afectos deben percibirlo; y si tu espíritu no puede abarcar al Seńor Jesús con
 
 los brazos de tu entendimiento, que lo abrace con los brazos de tu afecto. Oh,
 
-amados, aqu tienen una bendita obra de Navidad para ustedes, si, como Mara,
+amados, aquí tienen una bendita obra de Navidad para ustedes, si, como María,
 
-guardan todas estas cosas en su corazn y las ponderan.
+guardan todas estas cosas en su corazón y las ponderan.
 
 IV.
 
 Ahora
 
-le toca el turno al ltimo tipo entre las santas labores navideas. Y
+le toca el turno al último tipo entre las santas labores navideńas. “Y
 
-volvieron los pastores leemos en el versculo veinte- GLORIFICANDO Y
+volvieron los pastores” –leemos en el versículo veinte- “GLORIFICANDO Y
 
-ALABANDO A DIOS por todas las cosas que haban odo y visto, como se les haba
+ALABANDO A DIOS por todas las cosas que habían oído y visto, como se les había
 
-dicho. A qu volvieron?
+dicho”. żA qué volvieron?
 
 Volvieron de
 
-nuevo a su ocupacin
+nuevo a su ocupación
 
 de cuidar a los corderos y las ovejas. Entonces, si
 
-deseamos glorificar a Dios, no necesitamos renunciar a nuestra ocupacin.
+deseamos glorificar a Dios, no necesitamos renunciar a nuestra ocupación.
 
 Algunas personas tienen
 
-la idea de que la nica manera en la que pueden vivir para Dios es convirtindose
+la idea de que la única manera en la que pueden vivir para Dios es convirtiéndose
 
 en ministros, en misioneros, o en trabajadoras sociales cristianas o en
 
-vendedoras de Biblias (1). Ay!, cuntos de nosotros nos quedaramos fuera de
+vendedoras de Biblias (1). ˇAy!, cuántos de nosotros nos quedaríamos fuera de
 
-cualquier oportunidad de engrandecer al Altsimo si ese fuera el caso. Los
+cualquier oportunidad de engrandecer al Altísimo si ese fuera el caso. Los
 
 pastores volvieron a los rediles de sus ovejas glorificando y alabando a Dios.
 
 Amados, lo importante no
 
-es el oficio que desempeen sino la dedicacin que empeen; no es la posicin, sino
+es el oficio que desempeńen sino la dedicación que empeńen; no es la posición, sino
 
-la gracia que nos capacita para glorificar a Dios. Dios ser glorificado con
+la gracia que nos capacita para glorificar a Dios. Dios será glorificado con
 
 toda seguridad en ese puesto de trabajo del zapatero donde el piadoso obrero
 
-canta acerca del amor del Salvador mientras sostiene su lezna, s, y es
+canta acerca del amor del Salvador mientras sostiene su lezna, sí, y es
 
-glorificado muchsimo ms que en muchos puestos de prebendas donde la
+glorificado muchísimo más que en muchos puestos de prebendas donde la
 
 religiosidad
 
 oficial cumple con sus
 
-escasos deberes. El nombre de Jess es glorificado tanto por aquel carretero
+escasos deberes. El nombre de Jesús es glorificado tanto por aquel carretero
 
 cuando arrea a su caballo y bendice a su Dios o cuando habla con su colega de
 
-trabajo junto al camino, como por aquel telogo que a travs de todo el pas,
+trabajo junto al camino, como por aquel teólogo que a través de todo el país,
 
-como Boanerges, retumba con la predicacin del Evangelio. Dios es glorificado
+como Boanerges, retumba con la predicación del Evangelio. Dios es glorificado
 
-cuando permanecemos en nuestra vocacin. Tengan cuidado de no desviarse de la
+cuando permanecemos en nuestra vocación. Tengan cuidado de no desviarse de la
 
 senda del deber, abandonando su llamamiento, y tengan cuidado de no deshonrar
 
-su profesin mientras estn en ella; no tengan una alta opinin de ustedes mismos
+su profesión mientras estén en ella; no tengan una alta opinión de ustedes mismos
 
-pero no consideren poca cosa sus llamamientos. No hay ningn oficio que el
+pero no consideren poca cosa sus llamamientos. No hay ningún oficio que el
 
 Evangelio no santifique. Si buscan en
 
 la Biblia
 
-, encontrarn que las ms insignificantes
+, encontrarán que las más insignificantes
 
-formas de labor han estado de alguna manera u otra conectadas con los ms
+formas de labor han estado de alguna manera u otra conectadas con los más
 
 atrevidos actos de fe, o bien con personas cuyas vidas han sido de otra manera
 
-ilustres. S fiel a tu llamamiento, hermano, s fiel a tu llamamiento! No
+ilustres. ˇSé fiel a tu llamamiento, hermano, sé fiel a tu llamamiento! No
 
-importa lo que Dios haya hecho de ti; si l te llama, permanece haciendo eso, a
+importa lo que Dios haya hecho de ti; si Él te llama, permanece haciendo eso, a
 
-menos que ests muy seguro, ojo, a menos que ests muy seguro de que l te
+menos que estés muy seguro, ojo, a menos que estés muy seguro de que Él te
 
 llama a otra cosa. Los pastores glorificaron a Dios aunque volvieron a su
 
-ocupacin.
+ocupación.
 
 Ellos glorificaron a
 
@@ -1086,97 +1086,97 @@ biblioteca llena de libros, es probable que no pudieran leer ni una sola
 
 palabra; con todo, glorificaron a Dios. Esto elimina toda excusa para ustedes,
 
-buenas personas, que dicen: yo no tengo ningn grado escolar; nunca recib
+buenas personas, que dicen: “yo no tengo ningún grado escolar; nunca recibí
 
-ninguna educacin, nunca asist ni siquiera a la escuela dominical. Ah, pero
+ninguna educación, nunca asistí ni siquiera a la escuela dominical”. Ah, pero
 
-si tienes un recto corazn, puedes glorificar a Dios. No te preocupes, Sara, no
+si tienes un recto corazón, puedes glorificar a Dios. No te preocupes, Sara, no
 
-ests abatida porque sabes muy poco; aprende ms si puedes, pero haz buen uso
+estés abatida porque sabes muy poco; aprende más si puedes, pero haz buen uso
 
-de lo que ya conoces. No te preocupes, Juan; es en verdad una lstima que
+de lo que ya conoces. No te preocupes, Juan; es en verdad una lástima que
 
-tuvieras que comenzar a trabajar muy pronto en la vida, lo cual te impidi adquirir
+tuvieras que comenzar a trabajar muy pronto en la vida, lo cual te impidió adquirir
 
 ni siquiera los rudimentos del conocimiento; pero no pienses que no puedes
 
-glorificar a Dios. Si quieres alabar a Dios, vive una vida santa; t puedes
+glorificar a Dios. Si quieres alabar a Dios, vive una vida santa; tú puedes
 
-hacer eso por Su gracia, de todas maneras, sin educacin acadmica. Si quieres
+hacer eso por Su gracia, de todas maneras, sin educación académica. Si quieres
 
-hacer el bien a los dems, s bueno t mismo, y ese es un camino que est abierto
+hacer el bien a los demás, sé bueno tú mismo, y ese es un camino que está abierto
 
-de igual manera al ms iletrado como al ms ilustrado. Ten buen nimo! Los pastores
+de igual manera al más iletrado como al más ilustrado. ˇTen buen ánimo! Los pastores
 
-glorificaron a Dios, y t tambin puedes hacerlo. Recuerda que hay algo en lo
+glorificaron a Dios, y tú también puedes hacerlo. Recuerda que hay algo en lo
 
 que tuvieron preferencia sobre los sabios. Los sabios necesitaron que los
 
 guiara una estrella; los pastores no. Los sabios se extraviaron a pesar de la
 
-estrella; se encontraron de pronto en Jerusaln, pero los pastores fueron
+estrella; se encontraron de pronto en Jerusalén, pero los pastores fueron
 
-directamente a Beln. Las mentes sencillas encuentran algunas veces a un Cristo
+directamente a Belén. Las mentes sencillas encuentran algunas veces a un Cristo
 
-glorificado all donde las cabezas instruidas, muy desconcertadas con su
+glorificado allí donde las cabezas instruidas, muy desconcertadas con su
 
-tradicin, no lo encuentran. Un buen doctor sola decir: He aqu, estos
+tradición, no lo encuentran. Un buen doctor solía decir: “He aquí, estos
 
 simplones han entrado en el reino, mientras que nosotros, hombres cultos, hemos
 
 estado buscando a tientas el pasador de la
 
-puerta. As sucede a menudo; por tanto, personas de mentes simples,
+puerta”. Así sucede a menudo; por tanto, personas de mentes simples,
 
-consulense y algrense.
+consuélense y alégrense.
 
 Vale la pena advertir la
 
-manera en que estos pastores honraron a Dios. Lo hicieron alabndolo. Pensemos
+manera en que estos pastores honraron a Dios. Lo hicieron alabándolo. Pensemos
 
-ms en un sagrado cntico de lo que lo hacemos algunas veces. Cuando el cntico
+más en un sagrado cántico de lo que lo hacemos algunas veces. Cuando el cántico
 
 estalla en un pleno coro proveniente de miles de personas en esta casa, no es
 
-sino slo un ruido para los odos de algunos hombres; pero en tanto que muchos
+sino sólo un ruido para los oídos de algunos hombres; pero en tanto que muchos
 
-verdaderos corazones, tocados con el amor de Jess, estn cantando al unsono
+verdaderos corazones, tocados con el amor de Jesús, están cantando al unísono
 
-con sus lenguas, no es un mero ruido en la estimacin de Dios, sino que contiene
+con sus lenguas, no es un mero ruido en la estimación de Dios, sino que contiene
 
-una dulce msica que alegra Su odo. Cul es el gran propsito ltimo de todo
+una dulce música que alegra Su oído. żCuál es el gran propósito último de todo
 
-esfuerzo cristiano? Cuando estuve predicando aqu el Evangelio la otra maana,
+esfuerzo cristiano? Cuando estuve predicando aquí el Evangelio la otra mańana,
 
 mi mente estaba plenamente enfocada en ganar almas, pero mientras predicaba
 
-pareca ir ms all. Pens: bien, ese no es el principal objetivo despus de
+parecía ir más allá. Pensé: bien, ese no es el principal objetivo después de
 
 todo: el principal objetivo es glorificar a Dios, e incluso una mente recta
 
-busca la salvacin de los pecadores como un medio para el fin de glorificar a
+busca la salvación de los pecadores como un medio para el fin de glorificar a
 
-Dios. De pronto se me vino el pensamiento: Si al cantar salmos y al cantar
+Dios. De pronto se me vino el pensamiento: “Si al cantar salmos y al cantar
 
-himnos realmente glorificamos a Dios, estamos haciendo mucho ms que en la
+himnos realmente glorificamos a Dios, estamos haciendo mucho más que en la
 
-predicacin, pues entonces no nos quedamos en los medios, sino que estamos muy
+predicación, pues entonces no nos quedamos en los medios, sino que estamos muy
 
-cerca del propio fin. Si alabamos a Dios con el corazn y con la lengua, lo
+cerca del propio fin”. Si alabamos a Dios con el corazón y con la lengua, lo
 
-glorificamos de la manera ms segura posible, pues realmente lo estamos
+glorificamos de la manera más segura posible, pues realmente lo estamos
 
-glorificando entonces. El que sacrifica alabanza me honrar, dice el Seor.
+glorificando entonces. “El que sacrifica alabanza me honrará”, dice el Seńor.
 
-Canten entonces, hermanos mos! No canten slo cuando estn reunidos, sino
+ˇCanten entonces, hermanos míos! No canten sólo cuando estén reunidos, sino
 
-canten estando solos. Alegren su labor con salmos, e himnos y cnticos
+canten estando solos. Alegren su labor con salmos, e himnos y cánticos
 
-espirituales. Hagan feliz a su familia con msica sagrada. Estoy seguro de que
+espirituales. Hagan feliz a su familia con música sagrada. Estoy seguro de que
 
-nosotros cantamos demasiado poco y, sin embargo, el avivamiento de la religin
+nosotros cantamos demasiado poco y, sin embargo, el avivamiento de la religión
 
-ha estado siempre acompaado del avivamiento de la salmodia cristiana. Las traducciones
+ha estado siempre acompańado del avivamiento de la salmodia cristiana. Las traducciones
 
 de los salmos que hizo Lutero fueron de tanto servicio como sus discusiones y
 
@@ -1184,77 +1184,77 @@ controversias; y los himnos de Charles Wesley, de Cennick, de Toplady, de
 
 Newton y de Cowper, ayudaron tanto en el avivamiento de la vida espiritual en
 
-Inglaterra como la predicacin de John Wesley y George Whitefield. Necesitamos
+Inglaterra como la predicación de John Wesley y George Whitefield. Necesitamos
 
-cantar ms. Canten ms y murmuren menos, canten ms y calumnien menos, canten
+cantar más. Canten más y murmuren menos, canten más y calumnien menos, canten
 
-ms y critiquen menos, canten ms y lamenten menos. Que Dios nos conceda hoy
+más y critiquen menos, canten más y lamenten menos. Que Dios nos conceda hoy
 
-que glorifiquemos a Dios, como lo hicieron aquellos pastores, alabndolo.
+que glorifiquemos a Dios, como lo hicieron aquellos pastores, alabándolo.
 
 No he concluido con los
 
-pastores todava. Cul era el tema de su alabanza? Pareciera que ellos
+pastores todavía. żCuál era el tema de su alabanza? Pareciera que ellos
 
-alabaron a Dios por lo que haban odo.
+alabaron a Dios por lo que habían oído.
 
 Si
 
-pensamos al respecto, hay una buena razn para bendecir a Dios cada vez que omos
+pensamos al respecto, hay una buena razón para bendecir a Dios cada vez que oímos
 
-un sermn evanglico. Qu daran las almas en el infierno si pudieran or el
+un sermón evangélico. żQué darían las almas en el infierno si pudieran oír el
 
-Evangelio una vez ms, y pudieran estar en trminos en los que la gracia de la
+Evangelio una vez más, y pudieran estar en términos en los que la gracia de la
 
-salvacin les fuera asequible? Qu daran los moribundos, cuyo tiempo
+salvación les fuera asequible? żQué darían los moribundos, cuyo tiempo
 
-prcticamente se ha acabado, si pudieran venir una vez ms a la casa de Dios
+prácticamente se ha acabado, si pudieran venir una vez más a la casa de Dios
 
-para recibir otra advertencia y otra invitacin?
+para recibir otra advertencia y otra invitación?
 
-Hermanos mos, qu
+Hermanos míos, żqué
 
-daran ustedes algunas veces cuando estn recluidos por la enfermedad y no
+darían ustedes algunas veces cuando están recluidos por la enfermedad y no
 
-pueden reunirse con la gran congregacin, cuando su carne y su corazn claman
+pueden reunirse con la gran congregación, cuando su carne y su corazón claman
 
-por el Dios viviente? Bien, alaben a Dios por lo que han odo. Han odo las
+por el Dios viviente? Bien, alaben a Dios por lo que han oído. Han oído las
 
-fallas del predicador. Que l se lamente por ellas. Han odo el mensaje de su
+fallas del predicador. Que él se lamente por ellas. Han oído el mensaje de su
 
-Seor. Bendicen a Dios por eso? Difcilmente oirn jams algn sermn que no
+Seńor. żBendicen a Dios por eso? Difícilmente oirán jamás algún sermón que no
 
-los conduzca a cantar si tienen una mente recta. George Herbert dice: La
+los conduzca a cantar si tienen una mente recta. George Herbert dice: “La
 
-oracin es el fin de la predicacin. Y eso es, pero la alabanza es tambin su
+oración es el fin de la predicación”. Y eso es, pero la alabanza es también su
 
-fin. Alaben a Dios porque oyen que hay un Salvador! Alaben a Dios porque oyen
+fin. ˇAlaben a Dios porque oyen que hay un Salvador! ˇAlaben a Dios porque oyen
 
-que el plan de salvacin es muy sencillo! Alaben a Dios porque tienen un
+que el plan de salvación es muy sencillo! ˇAlaben a Dios porque tienen un
 
-Salvador para su propia alma! Alaben a Dios porque han sido perdonados, porque
+Salvador para su propia alma! ˇAlaben a Dios porque han sido perdonados, porque
 
 han sido salvados!
 
-Albenlo por lo que han
+Alábenlo por lo que han
 
-odo, pero observen que
+oído, pero observen que
 
 ellos alabaron
 
-tambin a Dios por lo que haban visto.
+también a Dios por lo que habían visto.
 
-Miren el versculo veinte: odo y
+Miren el versículo veinte: “oído y
 
-visto. All est la msica ms dulce: en lo que hemos experimentado, en lo que
+visto”. Allí está la música más dulce: en lo que hemos experimentado, en lo que
 
 hemos sentido en nuestro interior, de lo que nos hemos apropiado y en las cosas
 
-que hemos hecho tocantes al Rey. El simple or puede generar alguna msica,
+que hemos hecho tocantes al Rey. El simple oír puede generar alguna música,
 
-pero el alma de la cancin ha de provenir de ver con el ojo de la fe. Y,
+pero el alma de la canción ha de provenir de ver con el ojo de la fe. Y,
 
-queridos amigos, ustedes que han visto con esa visin dada por Dios, les ruego
+queridos amigos, ustedes que han visto con esa visión dada por Dios, les ruego
 
 que sus lenguas no se queden sumidas en un silencio pecaminoso, sino que han de
 
@@ -1268,131 +1268,131 @@ alabaron a Dios fue
 
 la coincidencia entre
 
-lo que haban odo y lo que haban visto.
+lo que habían oído y lo que habían visto.
 
-Observen la ltima frase. Como
+Observen la última frase. “Como
 
-se les haba dicho. Acaso no han encontrado que el Evangelio ha sido en
+se les había dicho”. żAcaso no han encontrado que el Evangelio ha sido en
 
 ustedes justo lo que
 
 la Biblia
 
-dijo que sera? Jess dijo que les dara gracia; acaso no la han recibido? l
+dijo que sería? Jesús dijo que les daría gracia; żacaso no la han recibido? Él
 
-les prometi reposo, acaso no lo han recibido? l dijo que tendran gozo,
+les prometió reposo, żacaso no lo han recibido? Él dijo que tendrían gozo,
 
-consuelo y vida por creer en l, no han recibido todas esas cosas? No son Sus
+consuelo y vida por creer en Él, żno han recibido todas esas cosas? żNo son Sus
 
 caminos, caminos deleitosos, y Sus veredas, veredas de paz? Ciertamente pueden
 
-decir con la reina de Saba: Ni aun se me dijo la mitad. Yo he encontrado que
+decir con la reina de Saba: “Ni aun se me dijo la mitad”. Yo he encontrado que
 
-Cristo es ms dulce de lo que Sus siervos me dijeron que era. Yo mir a la
+Cristo es más dulce de lo que Sus siervos me dijeron que era. Yo miré a la
 
 semejanza conforme me la pintaban, pero no fue sino un simple brochazo
 
-comparado con l mismo: el Rey en su hermosura. He odo acerca de la tierra
+comparado con Él mismo: el Rey en su hermosura. He oído acerca de la tierra
 
-buena, pero, oh!, fluye con leche y miel ms ricamente y ms dulcemente de lo
+buena, pero, ˇoh!, fluye con leche y miel más ricamente y más dulcemente de lo
 
-que los hombres fueron capaces de decirme cuando estaban en su mejor condicin
+que los hombres fueron capaces de decirme cuando estaban en su mejor condición
 
 para hablar. Ciertamente, lo que hemos visto va de la mano con lo que hemos
 
-odo. Glorifiquemos y alabemos a Dios, entonces, por lo que ha hecho.
+oído. Glorifiquemos y alabemos a Dios, entonces, por lo que ha hecho.
 
 Esta palabra va dirigida
 
-para quienes no son convertidos todava, y entonces habr concluido. No pienso
+para quienes no son convertidos todavía, y entonces habré concluido. No pienso
 
-que puedan comenzar en el versculo diecisiete, sino que deseo que comiencen en
+que puedan comenzar en el versículo diecisiete, sino que deseo que comiencen en
 
-el dieciocho. Ustedes no pueden comenzar en el versculo diecisiete. No podran
+el dieciocho. Ustedes no pueden comenzar en el versículo diecisiete. No podrían
 
 comunicarles a otros lo que ustedes no han sentido. No lo intenten. Tampoco
 
-podran ensear en la escuela dominical, ni intentar predicar si no son
+podrían enseńar en la escuela dominical, ni intentar predicar si no son
 
-convertidos. Al malo dijo Dios: qu tienes t que hablar de mis leyes? Pero
+convertidos. Al malo dijo Dios: “żqué tienes tú que hablar de mis leyes?” Pero
 
-pluguiera a Dios que comenzaran con el versculo dieciocho, maravillndose! Maravillndose
+pluguiera a Dios que comenzaran con el versículo dieciocho, ˇmaravillándose! Maravillándose
 
-de que se les haya perdonado la vida, maravillndose de estar fuera del
+de que se les haya perdonado la vida, maravillándose de estar fuera del
 
-infierno, maravillndose de que Su buen Espritu contienda con el primero de
+infierno, maravillándose de que Su buen Espíritu contienda con el primero de
 
-los pecadores. Maravllense de que esta maana el Evangelio tenga una palabra
+los pecadores. Maravíllense de que esta mańana el Evangelio tenga una palabra
 
-para ustedes, despus de todas las veces que lo han rechazado y de todos sus
+para ustedes, después de todas las veces que lo han rechazado y de todos sus
 
-pecados en contra de Dios. Me gustara que comenzaran all, porque entonces yo
+pecados en contra de Dios. Me gustaría que comenzaran allí, porque entonces yo
 
-tendra una buena esperanza de que
+tendría una buena esperanza de que
 
 van
 
 a seguir
 
-adelante, al siguiente versculo, y van a cambiar el verbo, y as van a pasar
+adelante, al siguiente versículo, y van a cambiar el verbo, y así van a pasar
 
 de maravillarse a ponderar.
 
-Oh, pecador, yo deseara
+Oh, pecador, yo desearía
 
 que ponderaras las doctrinas de la cruz. Piensa en tu pecado, en la ira de
 
 Dios, en el juicio, en el infierno, en la sangre de tu Salvador, en el amor de
 
-Dios, en el perdn, en la aceptacin, en el cielo; piensa en todas esas cosas.
+Dios, en el perdón, en la aceptación, en el cielo; piensa en todas esas cosas.
 
 Pasa de maravillarte a ponderar. Y luego, pluguiera a Dios que pudieras
 
-progresar al siguiente versculo, de ponderar a glorificar. Toma a Cristo,
+progresar al siguiente versículo, de ponderar a glorificar. Toma a Cristo,
 
-mralo a l y confa en l. Entonces canta: soy perdonado, y prosigue tu
+míralo a Él y confía en Él. Entonces canta: “soy perdonado”, y prosigue tu
 
 camino siendo un pecador creyente, y, por tanto, un pecador salvado, lavado en
 
-la sangre y limpio. Luego regresa despus de eso al versculo diecisiete, y
+la sangre y limpio. Luego regresa después de eso al versículo diecisiete, y
 
-comienza a darlo a conocer a los dems.
+comienza a darlo a conocer a los demás.
 
 Pero en cuanto a ustedes,
 
 cristianos que son salvos, quiero que comiencen esta misma tarde en el
 
-versculo diecisiete.
+versículo diecisiete.
 
-Entonces voy a decirles a los pecadores en derredor
+“Entonces voy a decirles a los pecadores en derredor
 
-Cun amado Salvador he encontrado:
+Cuán amado Salvador he encontrado:
 
-Voy a sealar a Tu sangre redentora,
+Voy a seńalar a Tu sangre redentora,
 
-Y voy a decir: He aqu el camino hacia Dios!
+Y voy a decir: ‘“ˇHe aquí el camino hacia Dios!’”
 
-Luego, cuando el da
+Luego, cuando el día
 
-termine, suban a sus aposentos y maravllense y admiren y adoren; pasen tambin
+termine, suban a sus aposentos y maravíllense y admiren y adoren; pasen también
 
-media hora como Mara, ponderando y atesorando en sus corazones la obra del da
+media hora como María, ponderando y atesorando en sus corazones la obra del día
 
-y lo que oyeron en el da, y luego cierren todo con lo que no ha de concluir
+y lo que oyeron en el día, y luego cierren todo con lo que no ha de concluir
 
-nunca: prosigan esta noche, maana, y todos los das de su vida glorificando y
+nunca: prosigan esta noche, mańana, y todos los días de su vida glorificando y
 
-alabando a Dios por todas las cosas que han visto y odo. Que el Seor los
+alabando a Dios por todas las cosas que han visto y oído. Que el Seńor los
 
-bendiga por Jesucristo nuestro Seor. Amn.
+bendiga por Jesucristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 2: 1-20.
+del sermón: Lucas 2: 1-20.
 
 Notas del traductor:
 
@@ -1404,23 +1404,23 @@ la Biblia
 
 ),
 
-era una organizacin fundada por Ellen Ranyard que reclutaba mujeres
+era una organización fundada por Ellen Ranyard que reclutaba mujeres
 
-provenientes de distritos pobres de Londres, las entrenaba durante un perodo
+provenientes de distritos pobres de Londres, las entrenaba durante un período
 
-de tres meses para que vendieran Biblias y dieran consejos domsticos a las
+de tres meses para que vendieran Biblias y dieran consejos domésticos a las
 
 esposas y a las madres de la zona.
 
-(2) Acebo: rbol de
+(2) Acebo: árbol de
 
-hojas brillantes y con espinas en los bordes, y pequeos frutos en forma de
+hojas brillantes y con espinas en los bordes, y pequeńos frutos en forma de
 
 bolitas rojas. Se usa en las decoraciones de Navidad.
 
 (3) Puseyista: palabra
 
-que tiene su origen en el doctor E. B. Pusey, lder tractario, de fuertes
+que tiene su origen en el doctor E. B. Pusey, líder tractario, de fuertes
 
 inclinaciones a imitar a
 
@@ -1428,13 +1428,13 @@ la
 
 Iglesia
 
-de Roma en su ritualismo y en otras prcticas
+de Roma en su ritualismo y en otras prácticas
 
-catlicas externas, tales como el bautismo infantil. El pastor Spurgeon usa
+católicas externas, tales como el bautismo infantil. El pastor Spurgeon usa
 
-frecuentemente Pusey y puseyismo para describir esas tendencias.
+frecuentemente ‘Pusey’ y ‘puseyismo’ para describir esas tendencias.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 24/Noviembre/2011
 

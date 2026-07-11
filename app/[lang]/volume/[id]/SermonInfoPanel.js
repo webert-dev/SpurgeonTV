@@ -46,7 +46,7 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
 
             {/* Delivery info */}
             <p className="sermon-info-delivery">
-              Published in {meta.dateDisplay}
+              {meta.dateDisplay}
             </p>
             <p className="sermon-info-preacher">
               By the Rev. C. H. Spurgeon

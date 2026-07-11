@@ -1,208 +1,208 @@
 # Sermón 1000 | Sermón 1000
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Nmero Mil, o: Abundancia de Pan.
+Número Mil, o: “Abundancia de Pan”.
 
 NO. 1000
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 16 DE JULIO DE 1871
+MAŃANA DEL DOMINGO 16 DE JULIO DE 1871
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Y volviendo
+“Y volviendo
 
-en s, dijo: Cuntos jornaleros en casa de mi padre tienen abundancia de pan,
+en sí, dijo: ˇCuántos jornaleros en casa de mi padre tienen abundancia de pan,
 
-y yo aqu perezco de hambre!
+y yo aquí perezco de hambre!”
 
 Lucas 15: 17.
 
-Volviendo en s. La expresin pudiera
+“Volviendo en sí”. La expresión pudiera
 
 aplicarse a alguien que despierta de un profundo desvanecimiento. El hombre no
 
-haba tenido conciencia de su verdadera condicin, y haba perdido todo poder
+había tenido conciencia de su verdadera condición, y había perdido todo poder
 
-de liberarse de ella, pero ahora entraba en razn y recuperaba el conocimiento
+de liberarse de ella, pero ahora entraba en razón y recuperaba el conocimiento
 
-y la accin. Lo despert la voz que habr de reanimar a los muertos, y todas
+y la acción. Lo despertó la voz que habrá de reanimar a los muertos, y todas
 
 las visiones de su trance pecaminoso desaparecieron; sus sucios aunque
 
-fascinantes sueos se esfumaron;
+fascinantes sueńos se esfumaron;
 
-entr
+entró
 
-en razn.
+en razón.
 
-La expresin pudiera aplicarse tambin a alguien
+La expresión pudiera aplicarse también a alguien
 
-que recobra la cordura. El hijo prdigo haba jugado el papel de un loco pues
+que recobra la cordura. El hijo pródigo había jugado el papel de un loco pues
 
-el pecado es la locura del peor tipo. Haba estado desquiciado, haba tomado lo
+el pecado es la locura del peor tipo. Había estado desquiciado, había tomado lo
 
 amargo por dulce y lo dulce por amargo, la oscuridad por luz y la luz por
 
-oscuridad; se haba hecho dao a s mismo, y haba infligido a su alma lo mismo
+oscuridad; se había hecho dańo a sí mismo, y había infligido a su alma lo mismo
 
-que hacan a sus cuerpos aquellos posedos por los demonios en el tiempo de nuestro
+que hacían a sus cuerpos aquellos poseídos por los demonios en el tiempo de nuestro
 
-Salvador, cuando se heran con piedras y se cortaban con cuchillos. El hombre
+Salvador, cuando se herían con piedras y se cortaban con cuchillos. El hombre
 
-desquiciado no sabe que est desquiciado, pero tan pronto como entra en razn,
+desquiciado no sabe que está desquiciado, pero tan pronto como entra en razón,
 
-percibe dolorosamente el estado del cual est escapando. Recuperando entonces
+percibe dolorosamente el estado del cual está escapando. Recuperando entonces
 
-la sana razn y el recto juicio, el hijo prdigo volvi en s.
+la sana razón y el recto juicio, el hijo pródigo volvió en sí.
 
-Pudiera encontrarse otra ilustracin de esta
+Pudiera encontrarse otra ilustración de esta
 
-expresin en el viejo mundo de las fbulas de encantamiento: cuando un hombre
+expresión en el viejo mundo de las fábulas de encantamiento: cuando un hombre
 
-era librado de la influencia del hechizo del mago, volva en s. La historia
+era librado de la influencia del hechizo del mago, “volvía en sí”. La historia
 
-clsica tiene su leyenda de Circe, la hechicera, que transformaba a los hombres
+clásica tiene su leyenda de Circe, la hechicera, que transformaba a los hombres
 
-en puercos. Ciertamente el joven de nuestra parbola se haba degradado de la
+en puercos. Ciertamente el joven de nuestra parábola se había degradado de la
 
-misma manera. Haba rebajado su condicin humana al nivel de las bestias. Sentir
+misma manera. Había rebajado su condición humana al nivel de las bestias. Sentir
 
-amor por sus parientes, amor por lo bueno, tener algn cuidado por su propio
+amor por sus parientes, amor por lo bueno, tener algún cuidado por su propio
 
-inters, todas esas cosas deberan constituir la posesin del hombre; pero aquel
+interés, todas esas cosas deberían constituir la posesión del hombre; pero aquel
 
-joven haba perdido todos estos atributos propios de la humanidad, y entonces
+joven había perdido todos estos atributos propios de la humanidad, y entonces
 
-se haba convertido en algo semejante a la bestia que perece. Pero as como el
+se había convertido en algo semejante a la bestia que perece. Pero así como el
 
-poeta canta de Ulises y nos dice que forz a la hechicera a restaurar a sus
+poeta canta de Ulises y nos dice que forzó a la hechicera a restaurar a sus
 
-compaeros a su forma original, as tambin vemos al hijo prdigo recuperando
+compańeros a su forma original, así también vemos al hijo pródigo recuperando
 
-la condicin humana, apartando la mirada de sus placeres sensuales y adoptando
+la condición humana, apartando la mirada de sus placeres sensuales y adoptando
 
-un derrotero de conducta ms acorde con su nacimiento y parentesco.
+un derrotero de conducta más acorde con su nacimiento y parentesco.
 
-Tal vez haya hombres aqu presentes hoy que estn
+Tal vez haya hombres aquí presentes hoy que están
 
-sumidos todava en ese pasmo. Oh Dios del cielo, despirtalos! Hay algunos
+sumidos todavía en ese pasmo. ˇOh Dios del cielo, despiértalos! Hay algunos
 
-aqu que estn moralmente desquiciados. Que el Seor los restaure, que el
+aquí que están moralmente desquiciados. Que el Seńor los restaure, que el
 
-divino Mdico ponga Su refrescante mano sobre su frente febril y les diga: Quiero;
+divino Médico ponga Su refrescante mano sobre su frente febril y les diga: “Quiero;
 
-s limpio. Tal vez haya otros aqu que han permitido que su naturaleza animal
+sé limpio”. Tal vez haya otros aquí que han permitido que su naturaleza animal
 
 reine de manera suprema; que Aquel que destruye las obras del diablo los libere
 
-del poder de Satans y les d el poder de convertirse en hijos de Dios. l ha
+del poder de Satanás y les dé el poder de convertirse en hijos de Dios. ˇÉl ha
 
 de recibir toda la gloria!
 
-Da la impresin de que cuando el hijo prdigo
+Da la impresión de que cuando el hijo pródigo
 
-entr en razn, estaba absorto en dos pensamientos. Dos hechos le quedaban
+entró en razón, estaba absorto en dos pensamientos. Dos hechos le quedaban
 
-claros: que haba abundancia de pan en la casa de su padre, y que l mismo se
+claros: que había abundancia de pan en la casa de su padre, y que él mismo se
 
-estaba muriendo de hambre. Que esos dos hechos espirituales que estn
+estaba muriendo de hambre. Que esos dos hechos espirituales que están
 
 emparentados ejerzan un poder absoluto sobre los corazones de todos ustedes, si
 
-es que todava no son salvos, pues constituyen verdades sumamente importantes y
+es que todavía no son salvos, pues constituyen verdades sumamente importantes y
 
-apremiantes de manera eminentemente cierta. stas no son las fantasas de
+apremiantes de manera eminentemente cierta. Éstas no son las fantasías de
 
-alguien sumido en un sueo; no son los delirios de un manaco; no son las imaginaciones
+alguien sumido en un sueńo; no son los delirios de un maníaco; no son las imaginaciones
 
-de alguien que est bajo un embrujo. Es sumamente cierto que hay abundancia de
+de alguien que está bajo un embrujo. Es sumamente cierto que hay abundancia de
 
-toda cosa buena en la casa del Padre, y que el pecador est necesitado de ellas.
+toda cosa buena en la casa del Padre, y que el pecador está necesitado de ellas.
 
 En ninguna otra parte puede ser encontrada la gracia o puede ser obtenido el
 
-perdn, pero en Dios hay plenitud de misericordia. Que nadie se aventure a disputar
+perdón, pero en Dios hay plenitud de misericordia. Que nadie se aventure a disputar
 
 esta gloriosa verdad.
 
-Es igualmente cierto que el pecador est
+Es igualmente cierto que el pecador está
 
-pereciendo sin Dios. Est pereciendo ahora y perecer eternamente. Todo lo que
+pereciendo sin Dios. Está pereciendo ahora y perecerá eternamente. Todo lo que
 
-es digno de ser posedo en su existencia ser completamente destruido, y l
+es digno de ser poseído en su existencia será completamente destruido, y él
 
-mismo habr de permanecer nicamente como una desolacin; el bho y el avetoro
+mismo habrá de permanecer únicamente como una desolación; el búho y el avetoro
 
-de la miseria y de la angustia merodearn las ruinas de su naturaleza por los
+de la miseria y de la angustia merodearán las ruinas de su naturaleza por los
 
-siglos de los siglos. Si pudiramos encerrar a los inconversos en esos dos
+siglos de los siglos. Si pudiéramos encerrar a los inconversos en esos dos
 
-pensamientos, qu esperanzadoras congregaciones tendramos! Ay!, olvidan que
+pensamientos, ˇqué esperanzadoras congregaciones tendríamos! ˇAy!, olvidan que
 
-nicamente en Dios hay misericordia, y se imaginan que ha de encontrarse en una
+únicamente en Dios hay misericordia, y se imaginan que ha de encontrarse en una
 
 alguna otra parte, y tratan de escabullirse del humillante hecho de su propio
 
-estado perdido, e imaginan que, tal vez, podra haber una puerta trasera de
+estado perdido, e imaginan que, tal vez, podría haber una puerta trasera de
 
-escape, que despus de todo, no son tan malos como lo declara la Escritura, o
+escape, que después de todo, no son tan malos como lo declara la Escritura, o
 
-que por ventura les ir bien al final, por mal que estn ahora.
+que por ventura les irá bien al final, por mal que estén ahora.
 
-Ay!, hermanos mos, qu haremos con aqullos
+ˇAy!, hermanos míos, żqué haremos con aquéllos
 
 que cierran deliberadamente sus ojos a las verdades cuyas evidencias son
 
 sobrecogedoras, y cuya importancia es de gran impacto? Yo les suplico
 
-sinceramente a aqullos entre ustedes que saben cmo acercarse por fe al trono
+sinceramente a aquéllos entre ustedes que saben cómo acercarse por fe al trono
 
-de Dios, que musiten la oracin pidiendo que se digne llevar al corazn
+de Dios, que musiten la oración pidiendo que se digne llevar al corazón
 
-inconverso a la cautividad, y que ponga estos dos slidos grilletes sobre cada
+inconverso a la cautividad, y que ponga estos dos sólidos grilletes sobre cada
 
 alma no regenerada; hay abundante gracia en Dios, y hay una completa indigencia
 
 en cuanto a ellos mismos. Atado con tales grilletes, y conducido a la presencia
 
-de Jess, el cautivo recibira pronto la libertad de los hijos de Dios.
+de Jesús, el cautivo recibiría pronto la libertad de los hijos de Dios.
 
-Tengo la intencin de reflexionar en esta maana
+Tengo la intención de reflexionar en esta mańana
 
-nicamente, o principalmente, sobre el primer pensamiento, el pensamiento
+únicamente, o principalmente, sobre el primer pensamiento, el pensamiento
 
-central, segn me parece a m, que estaba en la mente del hijo prdigo, ese que
+central, según me parece a mí, que estaba en la mente del hijo pródigo, ese que
 
-realmente lo constri a decir: Me levantar e ir a mi padre. No era, pienso
+realmente lo constrińó a decir: “Me levantaré e iré a mi padre”. No era, pienso
 
-yo, el pensamiento que le conduca a regresar a casa la consideracin de que
+yo, el pensamiento que le conducía a regresar a casa la consideración de que
 
-estaba pereciendo de hambre, sino que el impulso hacia su padre encontr su principal
+estaba pereciendo de hambre, sino que el impulso hacia su padre encontró su principal
 
-motivo en la consideracin: Cuntos jornaleros en casa de mi padre tienen
+motivo en la consideración: “ˇCuántos jornaleros en casa de mi padre tienen
 
-abundancia de pan! La profusin, la abundancia, la superabundancia de la casa
+abundancia de pan!” La profusión, la abundancia, la superabundancia de la casa
 
 del padre era lo que le motivaba a regresar a casa. Y muchas, muchas almas han
 
-sido conducidas a buscar a Dios cuando han credo plenamente que hay abundante
+sido conducidas a buscar a Dios cuando han creído plenamente que hay abundante
 
-misericordia en l.
+misericordia en Él.
 
-Esta maana mi deseo es exponer con sencillez ante
+Esta mańana mi deseo es exponer con sencillez ante
 
-cada pecador aqu presente la suma abundancia de la gracia de Dios en Cristo
+cada pecador aquí presente la suma abundancia de la gracia de Dios en Cristo
 
-Jess, esperando que el Seor encontrar a aqullos que son hijos, y que ellos captarn
+Jesús, esperando que el Seńor encontrará a aquéllos que son hijos, y que ellos captarán
 
-estas palabras, y que al or de la abundancia del pan en la casa del Padre,
+estas palabras, y que al oír de la abundancia del pan en la casa del Padre,
 
-dirn: Me levantar e ir a mi Padre.
+dirán: “Me levantaré e iré a mi Padre”.
 
 I.
 
@@ -210,9 +210,9 @@ Entonces, brevemente consideremos primero LA
 
 SOBREABUNDANCIA DE TODAS LAS COSAS BUENAS EN LA CASA DEL PADRE. Pecador
 
-despierto, qu necesitas esta maana? De todo lo que necesites, hay en Dios un
+despierto, żqué necesitas esta mańana? De todo lo que necesites, hay en Dios un
 
-suministro sobreabundante e integral. Abundancia de pan. Vamos a demostrarles
+suministro sobreabundante e integral. “Abundancia de pan”. Vamos a demostrarles
 
 eso.
 
@@ -222,375 +222,375 @@ consideren
 
 al propio Padre,
 
-y todo aquel que considere rectamente al Padre, percibir
+y todo aquel que considere rectamente al Padre, percibirá
 
-de inmediato que no puede haber restriccin para la misericordia ni ningn
+de inmediato que no puede haber restricción para la misericordia ni ningún
 
-lmite para las posibilidades de la gracia. Cul es la naturaleza y el
+límite para las posibilidades de la gracia. żCuál es la naturaleza y el
 
-carcter del Supremo? Alguien pregunta: Es adusto o amoroso?. La Escritura
+carácter del Supremo? Alguien pregunta: “żEs adusto o amoroso?”. La Escritura
 
-responde a esa pregunta, no dicindonos que Dios es amoroso, sino asegurndonos
+responde a esa pregunta, no diciéndonos que Dios es amoroso, sino asegurándonos
 
 que Dios es amor. Dios mismo es amor; el amor es Su propia esencia. No se trata
 
-de que el amor est en Dios, sino que Dios mismo es amor. Podra haber una
+de que el amor esté en Dios, sino que Dios mismo es amor. żPodría haber una
 
-forma ms concisa y positiva de decir que el amor de Dios es infinito? T no
+forma más concisa y positiva de decir que el amor de Dios es infinito? Tú no
 
-podras medir a Dios mismo; tus conceptos no podran captar la grandeza de Sus
+podrías medir a Dios mismo; tus conceptos no podrían captar la grandeza de Sus
 
-atributos, ni podras describir las dimensiones de Su amor, ni concebir su
+atributos, ni podrías describir las dimensiones de Su amor, ni concebir su
 
-plenitud. nicamente has de saber que como son ms altos los cielos que la tierra,
+plenitud. Únicamente has de saber que como son más altos los cielos que la tierra,
 
-as son Sus caminos ms altos que tus caminos, y Sus pensamientos ms que tus
+así son Sus caminos más altos que tus caminos, y Sus pensamientos más que tus
 
-pensamientos. Para siempre es Su misericordia. l perdona la maldad, y olvida
+pensamientos. Para siempre es Su misericordia. Él perdona la maldad, y olvida
 
 el pecado del remanente de Su heredad. No retiene para siempre Su enojo, porque
 
-se deleita en misericordia. T, Seor, eres bueno y perdonador, y grande en
+se deleita en misericordia. “Tú, Seńor, eres bueno y perdonador, y grande en
 
-misericordia para con todos los que te invocan. Ms grande que los cielos es
+misericordia para con todos los que te invocan”. “Más grande que los cielos es
 
-tu misericordia. El Seor es muy misericordioso y compasivo.
+tu misericordia”. “El Seńor es muy misericordioso y compasivo”.
 
 Si solo el amor divino no pareciera suficiente
 
-para tu salvacin, recuerda que en el Padre, hacia quien retorna el pecador,
+para tu salvación, recuerda que en el Padre, hacia quien retorna el pecador,
 
-hay tanta gracia como sabidura. Tu caso es uno sumamente difcil? Quien te
+hay tanta gracia como sabiduría. żTu caso es uno sumamente difícil? Quien te
 
-hizo puede sanarte. Son extraas y complejas tus enfermedades? Quien form el
+hizo puede sanarte. żSon extrańas y complejas tus enfermedades? Quien formó el
 
-odo, no podra suprimir su sordera? Quien hizo el ojo, no podra alumbrarlo
+oído, żno podría suprimir su sordera? Quien hizo el ojo, żno podría alumbrarlo
 
-si quedare ciego? No podra sucederte ningn mal del cual Aqul, que es tu
+si quedare ciego? No podría sucederte ningún mal del cual Aquél, que es tu
 
-Dios, no pudiera hacer que te recuperaras. La sabidura incomparable no podra
+Dios, no pudiera hacer que te recuperaras. La sabiduría incomparable no podría
 
 fallar en resolver las complejidades de tu caso.
 
-Tampoco podra presentarse ninguna falla de
+Tampoco podría presentarse ninguna falla de
 
-poder en el Padre. No sabes t que quien hizo la tierra y despliega los cielos
+poder en el Padre. żNo sabes tú que quien hizo la tierra y despliega los cielos
 
-como una tienda para morar all, no tiene ningn lmite para Su fuerza, ni ningn
+como una tienda para morar allí, no tiene ningún límite para Su fuerza, ni ningún
 
-trmino para Su poder? Si t necesitas que la omnipotencia te alce del cenagal
+término para Su poder? Si tú necesitas que la omnipotencia te alce del cenagal
 
-en que has cado, la omnipotencia estara dispuesta a liberarte si clamaras
+en que has caído, la omnipotencia estaría dispuesta a liberarte si clamaras
 
-pidindole fortaleza al fuerte. Aunque t necesitaras de toda la fuerza con la
+pidiéndole fortaleza al fuerte. Aunque tú necesitaras de toda la fuerza con la
 
 cual el Creador hizo los mundos, y de toda la potencia con la que sostiene los
 
-pilares del universo, toda esa fuerza y esa potencia se ejercitaran para tu
+pilares del universo, toda esa fuerza y esa potencia se ejercitarían para tu
 
-bien, si con fe buscaras la misericordia de manos de Dios en Cristo Jess. Nada
+bien, si con fe buscaras la misericordia de manos de Dios en Cristo Jesús. Nada
 
-de Su poder estara en tu contra, nada de Su sabidura planeara tu derrota,
+de Su poder estaría en tu contra, nada de Su sabiduría planearía tu derrota,
 
-antes bien, el amor reinara en todo y cada atributo de Dios estara al
+antes bien, el amor reinaría en todo y cada atributo de Dios estaría al
 
-servicio de tu salvacin.
+servicio de tu salvación.
 
-Oh, cuando pienso en el pecado, no puedo
+ˇOh, cuando pienso en el pecado, no puedo
 
-entender cmo un pecador pueda ser salvado! Pero cuando pienso en Dios y
+entender cómo un pecador pueda ser salvado! Pero cuando pienso en Dios y
 
-examino Su corazn, entiendo cun prontamente puede perdonar. Examina Su
+examino Su corazón, entiendo cuán prontamente puede perdonar. “Examina Su
 
-corazn, dice uno. Cmo podramos hacer eso? Acaso no ha puesto al
+corazón”, dice uno. “żCómo podríamos hacer eso?” żAcaso no ha puesto al
 
-descubierto Su corazn delante de ti? Me preguntas dnde ha hecho eso? Yo te
+descubierto Su corazón delante de ti? żMe preguntas dónde ha hecho eso? Yo te
 
-respondo: all, sobre la cruz del Calvario. Qu haba en el propio centro del
+respondo: allá, sobre la cruz del Calvario. żQué había en el propio centro del
 
-corazn divino? Qu sino la persona del Bienamado, Su Unignito? Y tom a
+corazón divino? żQué sino la persona del Bienamado, Su Unigénito? Y tomó a
 
 Su
 
-Unignito y lo clav en la cruz
+Unigénito y lo clavó en la cruz
 
-porque -si puedo aventurarme a hablar as- am a los pecadores ms que a Su
+porque -si puedo aventurarme a hablar así- amó a los pecadores más que a Su
 
-Hijo. No perdon a Su Hijo, pero perdona al pecador; derram Su ira sobre Su
+Hijo. No perdonó a Su Hijo, pero perdona al pecador; derramó Su ira sobre Su
 
 Hijo y lo puso como el sustituto de los pecadores, para poder prodigar amor
 
-sobre los culpables que merecan Su enojo.
+sobre los culpables que merecían Su enojo.
 
-Oh alma, si ests perdida, no es por ninguna
+Oh alma, si estás perdida, no es por ninguna
 
-falta de gracia, o de sabidura, o de poder en el Padre; si pereces, no es
+falta de gracia, o de sabiduría, o de poder en el Padre; si pereces, no es
 
-porque Dios sea inconmovible o incapaz de salvar. Si t eres uno de los
+porque Dios sea inconmovible o incapaz de salvar. Si tú eres uno de los
 
-rechazados, no es debido a que el Eterno rehse or los clamores pidiendo el
+rechazados, no es debido a que el Eterno rehúse oír los clamores pidiendo el
 
-perdn o que rechace tu fe en l. Sobre tu propia cabeza sea tu sangre si tu
+perdón o que rechace tu fe en Él. Sobre tu propia cabeza sea tu sangre si tu
 
-alma se perdiere. Si te mueres de hambre, te mueres de hambre porque t quieres
+alma se perdiere. Si te mueres de hambre, te mueres de hambre porque tú quieres
 
-morirte de hambre, pues en la casa del Padre hay abundancia de pan.
+morirte de hambre, pues en la casa del Padre hay “abundancia de pan”.
 
 Pero ahora, consideren un segundo asunto que
 
-pudiera aclarar ms todo delante de nosotros. Piensen en
+pudiera aclarar más todo delante de nosotros. Piensen en
 
 el Hijo de Dios,
 
 que es, ciertamente, el verdadero pan de vida para
 
-los pecadores. Pecador, ahora vuelvo a dirigirme personalmente a ti. T
+los pecadores. Pecador, ahora vuelvo a dirigirme personalmente a ti. Tú
 
-necesitas un Salvador, y muy bien podras sentirte animado al ver que ha sido
+necesitas un Salvador, y muy bien podrías sentirte animado al ver que ha sido
 
-provisto un Salvador, y que ha sido provisto por Dios, pues es verdad que l no
+provisto un Salvador, y que ha sido provisto por Dios, pues es verdad que Él no
 
-cometera un error en la provisin. Pero considera quin es el Salvador. Es el
+cometería un error en la provisión. Pero considera quién es el Salvador. Es el
 
-mismo Dios. Jess, que descendi del cielo para nuestra redencin no era un
+mismo Dios. Jesús, que descendió del cielo para nuestra redención no era un
 
-ngel, pues entonces temblaramos al tener que confiar el peso de nuestro
+ángel, pues entonces temblaríamos al tener que confiar el peso de nuestro
 
-pecado sobre un ngel. No era un simple hombre, pues entonces slo habra
+pecado sobre un ángel. No era un simple hombre, pues entonces sólo habría
 
-podido sufrir como sustituto de uno solo, si fuera vlido sustituir a alguien.
+podido sufrir como sustituto de uno solo, si fuera válido sustituir a alguien.
 
-Sin embargo, l era en el principio con el Padre, Dios verdadero de Dios verdadero.
+Sin embargo, Él era en el principio con el Padre, Dios verdadero de Dios verdadero.
 
-Y alguien as viene a redimirnos? Si ese es el caso, hay campo para alguna
+żY alguien así viene a redimirnos? Si ese es el caso, żhay campo para alguna
 
-duda en cuanto a Su habilidad? Yo confieso en verdad en este da que si mis
+duda en cuanto a Su habilidad? Yo confieso en verdad en este día que si mis
 
-pecados fuesen diez mil veces ms pesados de lo que son, s, y si yo tuviera
+pecados fuesen diez mil veces más pesados de lo que son, sí, y si yo tuviera
 
-todos los pecados de toda esta muchedumbre apilados adicionalmente sobre m, yo
+todos los pecados de toda esta muchedumbre apilados adicionalmente sobre mí, yo
 
-podra confiarle a Jess todos ellos en este instante, ahora que s que l es
+podría confiarle a Jesús todos ellos en este instante, ahora que sé que Él es
 
-el Cristo de Dios. l es el Dios fuerte, y la carga de nuestros pecados es
+el Cristo de Dios. Él es el Dios fuerte, y la carga de nuestros pecados es
 
-fcilmente suprimida por Su mano traspasada. l borra nuestros pecados, y los
+fácilmente suprimida por Su mano traspasada. Él borra nuestros pecados, y los
 
 arroja a las profundidades del mar.
 
-Piensa en lo que ha hecho Jess, el Hijo de Dios.
+Piensa en lo que ha hecho Jesús, el Hijo de Dios.
 
-l, quien era Dios y por ello bendito por los siglos, dej el trono y las
+Él, quien era Dios y por ello bendito por los siglos, dejó el trono y las
 
-regalas del cielo, y se humill a venir a aquel pesebre. Ah est acostado; Su
+regalías del cielo, y se humilló a venir a aquel pesebre. Ahí está acostado; Su
 
-madre lo envuelve en paales y lo carga sobre su pecho; el Infinito est
+madre lo envuelve en pańales y lo carga sobre su pecho; el Infinito está
 
 vestido como un infante; el Invisible es hecho manifiesto en la carne; el
 
-Todopoderoso est ligado a la debilidad por causa nuestra.
+Todopoderoso está ligado a la debilidad por causa nuestra.
 
-Oh, incomparable humillacin de la
+ˇOh, incomparable humillación de la
 
-condescendencia! Si el Dios Redentor hace sto para salvarnos, acaso podra
+condescendencia! Si el Dios Redentor hace ésto para salvarnos, żacaso podría
 
 considerarse algo imposible que
 
 salvara
 
-al ms vil de los viles? Podra ser algo tan difcil para quien desciende del
+al más vil de los viles? żPodría ser algo tan difícil para quien desciende del
 
 cielo a la tierra para redimir?
 
 No hagas ninguna pausa llevado por el asombro,
 
-sino prosigue adelante. Lo ves a l que era Dios sobre todo, bendito por los
+sino prosigue adelante. żLo ves a Él que era Dios sobre todo, bendito por los
 
-siglos, viviendo ms de treinta aos en medio de los hijos de los hombres, experimentando
+siglos, viviendo más de treinta ańos en medio de los hijos de los hombres, experimentando
 
-las debilidades de la condicin humana, tomando sobre S nuestras enfermedades
+las debilidades de la condición humana, tomando sobre Sí nuestras enfermedades
 
 y compartiendo nuestras aflicciones: Sus pies cansados por hollar las
 
 distancias de Palestina, Su cuerpo desfallecido padeciendo a menudo hambre y
 
-sed y trabajos, Sus rodillas tejidas a la tierra por la oracin de medianoche,
+sed y trabajos, Sus rodillas tejidas a la tierra por la oración de medianoche,
 
-Sus ojos rojos de llanto (pues Jess llor con frecuencia), siendo tentado en
+Sus ojos rojos de llanto (pues Jesús lloró con frecuencia), siendo tentado en
 
-todo segn nuestra semejanza? Espectculo sin par! Un Dios encarnado mora
+todo según nuestra semejanza? ˇEspectáculo sin par! ˇUn Dios encarnado mora
 
-entre los pecadores, y sufre su contradiccin! Qu gloria emanaba de cuando en
+entre los pecadores, y sufre su contradicción! ˇQué gloria emanaba de cuando en
 
-cuando del centro de Su humillacin! Era una gloria que debera convertir en
+cuando del centro de Su humillación! Era una gloria que debería convertir en
 
-algo inevitable la fe en l.
+algo inevitable la fe en Él.
 
-No es racional dudar de Tu poder para perdonar
+ˇNo es racional dudar de Tu poder para perdonar
 
-pecados, T, que en verdad caminaste sobre el mar, T, que en verdad
+pecados, Tú, que en verdad caminaste sobre el mar, Tú, que en verdad
 
-resucitaste de los muertos! Acaso T mismo no lo expresaste as cuando le
+resucitaste de los muertos! żAcaso Tú mismo no lo expresaste así cuando le
 
-ordenaste al hombre que tomara su lecho y anduviera? Qu es ms fcil, decir:
+ordenaste al hombre que tomara su lecho y anduviera? “żQué es más fácil, decir:
 
-Los pecados te son perdonados, o decir: Levntate y anda? Con toda seguridad
+Los pecados te son perdonados, o decir: Levántate y anda?” Con toda seguridad
 
-l puede tambin salvar perpetuamente a los que por l se acercan a Dios; si
+Él puede también salvar perpetuamente a los que por Él se acercan a Dios; si
 
-aun en debilidad aqu en la tierra l pudo perdonar pecados, con mucha ms
+aun en debilidad aquí en la tierra Él pudo perdonar pecados, con mucha más
 
-razn puede ahora que se sienta en Su gloria. l es enaltecido en lo alto para
+razón puede ahora que se sienta en Su gloria. Él es enaltecido en lo alto para
 
-ser un Prncipe y un Salvador, para dar arrepentimiento y remisin de pecados.
+ser un Príncipe y un Salvador, para dar arrepentimiento y remisión de pecados.
 
-Pero, ah!, la cruz es la prueba maestra de que
+Pero, ˇah!, la cruz es la prueba maestra de que
 
-en Cristo Jess hay abundancia de pan. Quisieran seguirme un momento o, ms
+en Cristo Jesús hay “abundancia de pan”. żQuisieran seguirme un momento o, más
 
-bien, quisieran seguirlo a l a Getseman? Pueden ver el sudor sangriento
+bien, quisieran seguirlo a Él a Getsemaní? żPueden ver el sudor sangriento
 
-cuando cae en el suelo en Su agona? Pueden pensar en Su flagelacin delante
+cuando cae en el suelo en Su agonía? żPueden pensar en Su flagelación delante
 
-de Herodes y de Pilato? Pueden seguirlo a lo largo de la
+de Herodes y de Pilato? żPueden seguirlo a lo largo de la
 
-Va Dolorosa
+Vía Dolorosa
 
-de Jerusaln? Tolerarn sus tiernos corazones verle
+de Jerusalén? żTolerarán sus tiernos corazones verle
 
 clavado al madero y alzado hasta desangrarse y morir?
 
-sto es slo la capa exterior; en cuanto al
+Ésto es sólo la capa exterior; en cuanto al
 
-ncleo interior de Sus sufrimientos, ningn lenguaje podra describirlo, ni
+núcleo interior de Sus sufrimientos, ningún lenguaje podría describirlo, ni
 
-tampoco la concepcin intelectual podra atisbar en su interior. El Dios eterno
+tampoco la concepción intelectual podría atisbar en su interior. El Dios eterno
 
-puso el pecado sobre Cristo y donde fue colocado el pecado, ah cay la ira. Jehov
+puso el pecado sobre Cristo y donde fue colocado el pecado, ahí cayó la ira. “Jehová
 
-quiso quebrantarlo, sujetndole a padecimiento. Ahora, quien muri en la cruz
+quiso quebrantarlo, sujetándole a padecimiento”. Ahora, quien murió en la cruz
 
-fue el Unignito de Dios. Podras concebir un lmite para el mrito de la
+fue el Unigénito de Dios. żPodrías concebir un límite para el mérito de la
 
-muerte de un tal Salvador? Yo s que hay algunas personas que consideran
+muerte de un tal Salvador? Yo sé que hay algunas personas que consideran
 
-necesario para su sistema de teologa limitar el mrito de la sangre de Jess.
+necesario para su sistema de teología limitar el mérito de la sangre de Jesús.
 
-Si mi sistema de teologa necesitara de una tal limitacin, lo arrojara a los
+Si mi sistema de teología necesitara de una tal limitación, lo arrojaría a los
 
-vientos. No podra ni me atrevera a permitir que ese pensamiento se alojara en
+vientos. No podría ni me atrevería a permitir que ese pensamiento se alojara en
 
 mi mente, pues pareciera ser estrechamente semejante a la blasfemia.
 
-Yo veo un ocano de mrito en la obra acabada de
+Yo veo un océano de mérito en la obra acabada de
 
-Cristo; mi plomada no encuentra fondo, y mis ojos no descubren una orilla. Habra
+Cristo; mi plomada no encuentra fondo, y mis ojos no descubren una orilla. Habría
 
-suficiente eficacia en la sangre de Cristo, si Dios as lo hubiera querido,
+suficiente eficacia en la sangre de Cristo, si Dios así lo hubiera querido,
 
-para salvar no nicamente a este mundo entero, sino a diez mil mundos, si
+para salvar no únicamente a este mundo entero, sino a diez mil mundos, si
 
 hubieren transgredido la ley del Hacedor. Una vez admitida la infinitud en el
 
-asunto, cualquier lmite es inadmisible. Teniendo a una persona divina como una
+asunto, cualquier límite es inadmisible. Teniendo a una persona divina como una
 
-ofrenda, no sera consistente concebir un valor limitado. Confn y medida son
+ofrenda, no sería consistente concebir un valor limitado. Confín y medida son
 
-trminos inaplicables al sacrificio divino. La intencin del propsito divino fija
+términos inaplicables al sacrificio divino. La intención del propósito divino fija
 
-la aplicacin de la ofrenda infinita, pero no la convierte en una obra finita. En
+la aplicación de la ofrenda infinita, pero no la convierte en una obra finita. En
 
-la expiacin de Cristo Jess hay abundancia de pan, tal como Pablo escribi a
+la expiación de Cristo Jesús hay “abundancia de pan”, tal como Pablo escribió a
 
-Timoteo: Que es el Salvador de todos los hombres, mayormente de los que
+Timoteo: “Que es el Salvador de todos los hombres, mayormente de los que
 
-creen.
+creen”.
 
-Pero ahora permtanme guiarlos a otro punto de
+Pero ahora permítanme guiarlos a otro punto de
 
-consideracin solemnemente gozosa, que es
+consideración solemnemente gozosa, que es
 
 el
 
-Espritu Santo.
+Espíritu Santo.
 
-Creer y amar a la Trinidad es poseer la llave de la teologa.
+Creer y amar a la Trinidad es poseer la llave de la teología.
 
-Ya hablamos del Padre y ya hablamos del Hijo: hablemos ahora del Espritu Santo.
+Ya hablamos del Padre y ya hablamos del Hijo: hablemos ahora del Espíritu Santo.
 
-Le rendimos demasiado poco honor, pues el Espritu Santo condesciende a venir a
+Le rendimos demasiado poco honor, pues el Espíritu Santo condesciende a venir a
 
 la tierra y morar en nuestros corazones; y a pesar de todas nuestras
 
-provocaciones, l todava permanece dentro de Su pueblo.
+provocaciones, Él todavía permanece dentro de Su pueblo.
 
-Ahora, pecador, t necesitas una nueva vida y t
+Ahora, pecador, tú necesitas una nueva vida y tú
 
-necesitas santidad, pues ambas cosas son necesarias para hacerte idneo para el
+necesitas santidad, pues ambas cosas son necesarias para hacerte idóneo para el
 
-cielo. Hay alguna provisin para eso? El Espritu Santo es provisto y es dado
+cielo. żHay alguna provisión para eso? El Espíritu Santo es provisto y es dado
 
-en el pacto de gracia; y ciertamente en l hay abundancia de pan. Qu es lo
+en el pacto de gracia; y ciertamente en Él hay “abundancia de pan”. żQué es lo
 
-que no podra hacer el Espritu Santo? Siendo divino, nada podra estar ms
+que no podría hacer el Espíritu Santo? Siendo divino, nada podría estar más
 
-all de Su poder. Mira lo que ya ha hecho. Se movi sobre la faz del caos y lo
+allá de Su poder. Mira lo que ya ha hecho. Se movió sobre la faz del caos y lo
 
-puso en orden. Toda la belleza de la creacin se gest bajo Su aliento
+puso en orden. Toda la belleza de la creación se gestó bajo Su aliento
 
-moldeador. Nosotros mismos hemos de confesar con Eli: El Espritu de Dios me
+moldeador. Nosotros mismos hemos de confesar con Eliú: “El Espíritu de Dios me
 
-hizo, y el soplo del Omnipotente me dio vida. Piensa en los grandiosos hechos
+hizo, y el soplo del Omnipotente me dio vida”. Piensa en los grandiosos hechos
 
-del Espritu Santo en Pentecosts, cuando hombres incultos hablaron en lenguas
+del Espíritu Santo en Pentecostés, cuando hombres incultos hablaron en lenguas
 
-de las que no conocan ni una sola slaba hasta antes de ese da, y unas lenguas
+de las que no conocían ni una sola sílaba hasta antes de ese día, y unas lenguas
 
-de fuego asentadas sobre ellos estaban tambin dentro de ellos, de tal manera
+de fuego asentadas sobre ellos estaban también dentro de ellos, de tal manera
 
-que sus corazones ardan de celo y denuedo para los que hasta ese momento
+que sus corazones ardían de celo y denuedo para los que hasta ese momento
 
-haban sido extraos. Piensa en la obra del Espritu Santo en alguien como
+habían sido extrańos. Piensa en la obra del Espíritu Santo en alguien como
 
 Saulo de Tarso. Ese perseguidor echa espuma de sangre; es un verdadero lobo;
 
-querra devorar a los santos de Dios en Damasco y, sin embargo, en unos pocos
+querría devorar a los santos de Dios en Damasco y, sin embargo, en unos pocos
 
-instantes, le oyes preguntar: Quin eres, Seor?, y en seguida: Seor, qu
+instantes, le oyes preguntar: “żQuién eres, Seńor?”, y en seguida: “Seńor, żqué
 
-quieres que yo haga? Su corazn ha sido cambiado; el Espritu de Dios lo ha
+quieres que yo haga?” Su corazón ha sido cambiado; el Espíritu de Dios lo ha
 
 hecho nuevo; el diamante se ha disuelto en un instante y se ha convertido en
 
 cera. Muchos de nosotros estamos ante ustedes como monumentos vivientes de lo
 
-que el Espritu Santo puede hacer, y podemos asegurarles por nuestra propia
+que el Espíritu Santo puede hacer, y podemos asegurarles por nuestra propia
 
-experiencia que no hay ningn mal interior que l no pueda vencer, ningn deseo
+experiencia que no hay ningún mal interior que Él no pueda vencer, ningún deseo
 
-impuro de la carne que no pueda someter, ninguna obcecacin que no pueda
+impuro de la carne que no pueda someter, ninguna obcecación que no pueda
 
-derretir. Hay algo demasiado difcil para el Seor? Se ha acortado el
+derretir. żHay algo demasiado difícil para el Seńor? żSe ha acortado el
 
-Espritu de Jehov? Sin duda ningn pecador puede estar ms all de las
+Espíritu de Jehová? Sin duda ningún pecador puede estar más allá de las
 
-posibilidades de misericordia cuando el Espritu Santo condesciende a ser el
+posibilidades de misericordia cuando el Espíritu Santo condesciende a ser el
 
-agente de la conversin de una persona.
+agente de la conversión de una persona.
 
-Oh pecador, si t pereces, no se deber a que el
+Oh pecador, si tú pereces, no se deberá a que el
 
-Espritu Santo carezca de poder, o a que la sangre de Jess carezca de
+Espíritu Santo carezca de poder, o a que la sangre de Jesús carezca de
 
-eficacia, o a que el amor del Padre falle; se deber a que t no creste en
+eficacia, o a que el amor del Padre falle; se deberá a que tú no creíste en
 
-Cristo, y a que te resistes en una rebelin deliberada, rechazando el abundante
+Cristo, y a que te resistes en una rebelión deliberada, rechazando el abundante
 
 pan de vida colocado delante de ti.
 
-Les dir unas cuantas frases breves sobre otras
+Les diré unas cuantas frases breves sobre otras
 
-cosas, que servirn para mostrarles an ms la grandeza de la provisin de la
+cosas, que servirán para mostrarles aún más la grandeza de la provisión de la
 
 misericordia divina. Observen bien que
 
@@ -600,43 +600,43 @@ lo largo de todas las edades Dios ha enviado a un profeta tras otro,
 
 y a esos
 
-profetas siguieron los apstoles, y stos han sido sucedidos por mrtires y
+profetas siguieron los apóstoles, y éstos han sido sucedidos por mártires y
 
 confesores, y pastores y evangelistas y maestros; todos ellos han sido
 
-comisionados por el Seor en una sucesin regular; y cul ha sido el mensaje
+comisionados por el Seńor en una sucesión regular; ży cuál ha sido el mensaje
 
 que han tenido que proclamar? Todos han mostrado a Cristo, el grandioso liberador.
 
-Moiss y todos los profetas hablaron de l, y lo mismo han hecho todos los
+Moisés y todos los profetas hablaron de Él, y lo mismo han hecho todos los
 
 embajadores enviados verdaderamente por Dios.
 
-Piensas t, pecador, que Dios ha provocado toda
+żPiensas tú, pecador, que Dios ha provocado toda
 
-esta agitacin acerca de una nimiedad? Ha enviado a todos estos siervos para
+esta agitación acerca de una nimiedad? żHa enviado a todos estos siervos para
 
-invitarte a una mesa que est insuficientemente provista? Acaso ha
+invitarte a una mesa que está insuficientemente provista? żAcaso ha
 
 multiplicado Sus invitaciones a lo largo de un tiempo tan prolongado para
 
-invitarte a ti y a otros a venir a una provisin que no es, despus de todo,
+invitarte a ti y a otros a venir a una provisión que no es, después de todo,
 
-suficiente para todos? Oh, no puede ser! Dios no es burlado, ni tampoco se
+suficiente para todos? ˇOh, no puede ser! Dios no es burlado, ni tampoco se
 
 burla de las pobres almas necesitadas. Los acopios de Su misericordia son suficientes
 
-para las emergencias ms extremas.
+para las emergencias más extremas.
 
-Aqu ros de
+“Aquí ríos de
 
 amor y de misericordia
 
 Se juntan en
 
-un rico ocano;
+un rico océano;
 
-La salvacin
+La salvación
 
 fluye en abundancia,
 
@@ -658,135 +658,135 @@ como nuestras desvalidas miserias,
 
 E ilimitadas
 
-como nuestros pecados.
+como nuestros pecados”.
 
-Adems, recuerda que
+Además, recuerda que
 
 le ha agradado a Dios poner en juego Su honor sobre el Evangelio.
 
 Los
 
-hombres desean un nombre, y Dios es tambin celoso de Su gloria. Ahora, qu le
+hombres desean un nombre, y Dios es también celoso de Su gloria. Ahora, żqué le
 
-ha agradado a Dios seleccionar por Su nombre? No es acaso la conversin y
+ha agradado a Dios seleccionar por Su nombre? żNo es acaso la conversión y
 
-salvacin de los hombres? Cuando en lugar de la ortiga crezca el arrayn, y en
+salvación de los hombres? Cuando en lugar de la ortiga crezca el arrayán, y en
 
-lugar de la zarza crezca el ciprs, ser a Jehov por nombre, por seal eterna
+lugar de la zarza crezca el ciprés, será a Jehová por nombre, por seńal eterna
 
-que nunca ser rada. Y piensas t que Dios recibir un nombre por salvar a
+que nunca será raída. żY piensas tú que Dios recibirá un nombre por salvar a
 
-pecadorcitos por medio de un Salvadorcito? Ah!, Su grandioso nombre le
+‘pecadorcitos’ por medio de un ‘Salvadorcito’? ˇAh!, Su grandioso nombre le
 
 viene a consecuencia de lavar manchas tan negras como el infierno, y de
 
-perdonar a pecadores que fueron los ms inmundos de los inmundos. Hay por
+perdonar a pecadores que fueron los más inmundos de los inmundos. żHay por
 
-casualidad aqu algn rebelde monstruoso que est calificado para glorificar a
+casualidad aquí algún rebelde monstruoso que esté calificado para glorificar a
 
-Dios grandemente, porque su salvacin ser la admiracin de los ngeles y el
+Dios grandemente, porque su salvación será la admiración de los ángeles y el
 
 pasmo de los demonios? Espero que lo haya.
 
-Oh, t, pecador degradado, negro y detestable,
+Oh, tú, pecador degradado, negro y detestable,
 
-que ests cerqusima de ser un pecador condenado, si esta voz pudiera
+que estás cerquísima de ser un pecador condenado, si esta voz pudiera
 
 alcanzarte, te reto a que vengas y compruebes si la misericordia de Dios no es una
 
-digna rival de tu pecado. T, pecador tan grande como Goliat, ven aqu;
+digna rival de tu pecado. Tú, pecador tan grande como Goliat, ven aquí;
 
-descubrirs que Dios puede eliminar tu enemistad, y hacerte todava Su amigo y
+descubrirás que Dios puede eliminar tu enemistad, y hacerte todavía Su amigo y
 
-un siervo ms amoroso y adorador, porque un gran perdn engendrar un gran
+un siervo más amoroso y adorador, porque un gran perdón engendrará un gran
 
-amor. Tal es la grandeza de la divina misericordia que cuando el pecado
+amor. Tal es la grandeza de la divina misericordia que “cuando el pecado
 
-abund, sobreabund la gracia.
+abundó, sobreabundó la gracia”.
 
-Adems, piensas t, oh pecador, que Jesucristo
+Además, żpiensas tú, oh pecador, que Jesucristo
 
-sali del cielo para realizar un acto insignificante, y para suministrar una exigua
+salió del cielo para realizar un acto insignificante, y para suministrar una exigua
 
-provisin de misericordia? Piensas t que subi al Calvario y que descendi al
+provisión de misericordia? żPiensas tú que subió al Calvario y que descendió al
 
-sepulcro, todo para hacer simplemente algo comn, y proveer una salvacin restringida,
+sepulcro, todo para hacer simplemente algo común, y proveer una salvación restringida,
 
-estrecha y limitada, del tipo que tu incredulidad imaginara que es Su
+estrecha y limitada, del tipo que tu incredulidad imaginaría que es Su
 
-redencin? No. Hablamos de los trabajos de Hrcules, pero esos fueron juegos de
+redención? No. Hablamos de los trabajos de Hércules, pero esos fueron juegos de
 
-nios comparados con los trabajos de Cristo que mat al len del infierno, que
+nińos comparados con los trabajos de Cristo que mató al león del infierno, que
 
-hizo correr un torrente purificador a travs de los establos de Augas del
+hizo correr un torrente purificador a través de los establos de Augías del
 
-pecado del hombre, y los limpi, y que adems llev a cabo diez mil milagros; y
+pecado del hombre, y los limpió, y que además llevó a cabo diez mil milagros; ży
 
-depreciars t a Cristo como para imaginar que lo que ha logrado es, despus de
+depreciarás tú a Cristo como para imaginar que lo que ha logrado es, después de
 
-todo, tan poco, que no basta para salvarte? Si estuviese en m poder identificar
+todo, tan poco, que no basta para salvarte? Si estuviese en mí poder identificar
 
-al hombre que ha sido el ms deshonesto, el ms licencioso, el ms borracho, el
+al hombre que ha sido el más deshonesto, el más licencioso, el más borracho, el
 
-ms profano, en tres palabras, el ms: terrenal, sensual y diablico, yo
+más profano, en tres palabras, el más: terrenal, sensual y diabólico, yo
 
-repetira el reto que acabo de presentar, y le pedira que se acercara a Jess,
+repetiría el reto que acabo de presentar, y le pediría que se acercara a Jesús,
 
 y viera si la fuente repleta de la sangre expiadora de Cristo no puede lavarlo
 
-con la mxima blancura. Yo lo reto en este instante a venir y a arrojarse a los
+con la máxima blancura. Yo lo reto en este instante a venir y a arrojarse a los
 
-pies del amado Redentor, y a ver si le dice: Yo no puedo salvarte pues has
+pies del amado Redentor, y a ver si le dice: “Yo no puedo salvarte pues has
 
-pecado ms all del alcance de mi poder. Eso no suceder nunca, nunca, nunca,
+pecado más allá del alcance de mi poder”. Eso no sucederá nunca, nunca, nunca,
 
-pues l es capaz de salvar al mximo. l es un Salvador, y es un Salvador
+pues Él es capaz de salvar al máximo. Él es un Salvador, y es un Salvador
 
-grandioso. Cristo ser honrado por la grandeza de la gracia que concede a los
+grandioso. Cristo será honrado por la grandeza de la gracia que concede a los
 
-peores ofensores. En l hay abundancia de perdn.
+peores ofensores. En Él hay “abundancia de perdón”.
 
 Debo abandonar este punto pero no puedo hacerlo
 
-sin agregar que pienso que la expresin: ABUNDANCIA DE PAN podra ser
+sin agregar que pienso que la expresión: “ABUNDANCIA DE PAN” podría ser
 
-adoptada como lema del Evangelio. Yo creo en la redencin particular y creo que
+adoptada como lema del Evangelio. Yo creo en la redención particular y creo que
 
-Cristo entreg Su vida por Sus ovejas; pero, tal como ya lo he dicho, no creo
+Cristo entregó Su vida por Sus ovejas; pero, tal como ya lo he dicho, no creo
 
-en el valor limitado de esa redencin; de qu otra manera podra leer las
+en el valor limitado de esa redención; żde qué otra manera podría leer las
 
-palabras de Juan: l es la propiciacin por nuestros pecados, y no solamente
+palabras de Juan: “Él es la propiciación por nuestros pecados, y no solamente
 
-por los nuestros, sino tambin por los de todo el mundo? Hay una porcin
+por los nuestros, sino también por los de todo el mundo”? Hay una porción
 
-segura para Sus propios elegidos pero hay adems de sobra. Yo creo en el amor
+segura para Sus propios elegidos pero hay además “de sobra”. Yo creo en el amor
 
-elector que ha de salvar a todos los que se ha propuesto salvar: suficiente
+elector que ha de salvar a todos los que se ha propuesto salvar: “suficiente
 
-pan; pero yo creo en la benevolencia ilimitada: Pan suficiente y
+pan”; pero yo creo en la benevolencia ilimitada: “Pan suficiente y
 
-de sobra.
+de sobra”.
 
 Nosotros, cuando tenemos que cumplir
 
-algn propsito, aplicamos la cantidad requerida de fuerza y nada ms, pues
+algún propósito, aplicamos la cantidad requerida de fuerza y nada más, pues
 
 debemos economizar y no debemos desperdiciar nuestra limitada reserva; incluso
 
-la caridad da al hombre pobre nada ms lo que perentoriamente necesita; pero
+la caridad da al hombre pobre nada más lo que perentoriamente necesita; pero
 
-cuando Dios alimenta a la multitud, l adereza mesa con imperial largueza. Nuestra
+cuando Dios alimenta a la multitud, Él adereza mesa con imperial largueza. Nuestra
 
 carreta del agua recorre de un extremo al otro la ruta favorecida, pero cuando
 
 las nubes del cielo quieren favorecer los campos del hombre justo, anegan
 
-naciones enteras e incluso se derraman sobre el mar. Con Dios no hay ningn
+naciones enteras e incluso se derraman sobre el mar. Con Dios no hay ningún
 
-desperdicio real; pero al mismo tiempo no hay ninguna restriccin. ABUNDANCIA
+desperdicio real; pero al mismo tiempo no hay ninguna restricción. “ABUNDANCIA
 
-DE PAN. Escribe esa inscripcin sobre la casa de misericordia, y que todo viandante
+DE PAN”. Escribe esa inscripción sobre la casa de misericordia, y que todo viandante
 
 hambriento sea animado al verla a entrar y comer.
 
@@ -794,117 +794,117 @@ II.
 
 Ahora debemos proseguir a una segunda
 
-consideracin y reflexionar muy brevemente sobre ella. De acuerdo al texto, no
+consideración y reflexionar muy brevemente sobre ella. De acuerdo al texto, no
 
-slo haba abundante pan en la casa, sino que LOS DE MS BAJO RANGO EN LA CASA
+sólo había abundante pan en la casa, sino que LOS DE MÁS BAJO RANGO EN LA CASA
 
 DEL PADRE GOZABAN DE ALIMENTO SUFICIENTE Y DE SOBRA.
 
-Nunca podramos hacer que una parbola tenga una
+Nunca podríamos hacer que una parábola tenga una
 
 equivalencia completa en todo sentido; por tanto, no podemos encontrar la
 
-contraparte exacta de los jornaleros. Yo entiendo que el hijo prdigo quiso
+contraparte exacta de los “jornaleros”. Yo entiendo que el hijo pródigo quiso
 
-decir sto: que el ms insignificante de los siervos empleados por su padre
+decir ésto: que el más insignificante de los siervos empleados por su padre
 
-tena pan para comer, y tena pan suficiente y de sobra. Ahora, cmo
+tenía pan para comer, y tenía “pan suficiente y de sobra”. Ahora, żcómo
 
-deberamos traducir eso? Bien, pecador, la ms baja criatura que Dios ha
+deberíamos traducir eso? Bien, pecador, la más baja criatura que Dios ha
 
-creado, que no ha pecado contra l, est bien provista y goza de abundante
+creado, que no ha pecado contra Él, está bien provista y goza de abundante
 
 dicha. Hay adaptaciones para el placer en las organizaciones de los animales inferiores.
 
-Vean cmo danzan los mosquitos en el rayo de sol veraniego; oye a las
+Vean cómo danzan los mosquitos en el rayo de sol veraniego; oye a las
 
 golondrinas cuando gorjean con deleite mientras baten sus alas. Aquel que cuida
 
-de los pjaros y de los insectos seguramente habr de cuidar de los hombres.
+de los pájaros y de los insectos seguramente habrá de cuidar de los hombres.
 
-Dios que oye a los cuervos cuando claman, no habra de or al penitente que
+Dios que oye a los cuervos cuando claman, żno habría de oír al penitente que
 
-retorna? l da felicidad a estos insectos; y tendra el propsito de que yo
+retorna? Él da felicidad a estos insectos; y żtendría el propósito de que yo
 
-fuera desdichado? Seguramente Aquel que abre Su mano y da provisin para suplir
+fuera desdichado? Seguramente Aquel que abre Su mano y da provisión para suplir
 
-la carencia de todo ser vivo, no rehusara abrir Su mano y proveer para mis
+la carencia de todo ser vivo, no rehusaría abrir Su mano y proveer para mis
 
 necesidades si yo buscara Su rostro.
 
 Sin embargo no he de convertir a estas criaturas
 
-inferiores en los jornaleros. A quines he de seleccionar entre los hombres?
+inferiores en los jornaleros. żA quiénes he de seleccionar entre los hombres?
 
-Lo expresar as. Los ms grandes pecadores que han venido a Cristo han
+Lo expresaré así. Los más grandes pecadores que han venido a Cristo han
 
-encontrado gracia en abundancia, y los santos ms insignificantes que moran
+encontrado gracia “en abundancia”, y los santos más insignificantes que moran
 
-en la casa del Seor encuentran amor en abundancia. Tomen entonces
+en la casa del Seńor encuentran amor “en abundancia”. Tomen entonces
 
-a los ms culpables de los pecadores,
+a los más culpables de los pecadores,
 
 y
 
-vean cun generosamente los trata el Seor cuando se vuelven a l. Acaso
+vean cuán generosamente los trata el Seńor cuando se vuelven a Él. żAcaso
 
-algunos de ustedes, que son todava inconversos, no conocieron alguna vez a
+algunos de ustedes, que son todavía inconversos, no conocieron alguna vez a
 
-personas que eran por lo menos tan malas, y tal vez hasta ms inmorales
+personas que eran por lo menos tan malas, y tal vez hasta más inmorales
 
 exteriormente que ustedes mismos? Bien, esas personas han sido convertidas,
 
-aunque ustedes no lo fueran; y cuando fueron convertidas, cul fue su
+aunque ustedes no lo fueran; y cuando fueron convertidas, żcuál fue su
 
-testimonio? Sirvi la sangre de Cristo para limpiarlos? Oh, s, e hizo algo
+testimonio? żSirvió la sangre de Cristo para limpiarlos? Oh, sí, e hizo algo
 
-ms que limpiarlos, pues les aadi una belleza que no les perteneca. Una vez
+más que limpiarlos, pues les ańadió una belleza que no les pertenecía. Una vez
 
-estuvieron desnudos; fue capaz Jess de vestirlos? Haba una cubierta
+estuvieron desnudos; żfue capaz Jesús de vestirlos? żHabía una cubierta
 
-suficiente en Su justicia? Ah, s! Y se les aadi un adorno; no recibieron una
+suficiente en Su justicia? ˇAh, sí! Y se les ańadió un adorno; no recibieron una
 
 ropa cualquiera, sino un manto real. Si has visto que otros han sido tratados
 
-tan generosamente, no te induce sto a venir t tambin?
+tan generosamente, żno te induce ésto a venir tú también?
 
 Algunos de nosotros no necesitamos limitar nuestros
 
-comentarios a hacer referencias sobre otras personas, pues podramos hablar
+comentarios a hacer referencias sobre otras personas, pues podríamos hablar
 
-personalmente acerca de nosotros mismos. Venimos a Jess tan llenos de pecados
+personalmente acerca de nosotros mismos. Venimos a Jesús tan llenos de pecados
 
-como podran estarlo
+como podrían estarlo
 
 ustedes
 
-jams, y
+jamás, y
 
-nos sentamos perdidos y arruinados ms all de toda medida; pero, oh, Su
+nos sentíamos perdidos y arruinados más allá de toda medida; pero, ˇoh, Su
 
-tierno amor! Yo preferira pararme aqu y llorar, que hablarles de los pecados.
+tierno amor! Yo preferiría pararme aquí y llorar, que hablarles de los pecados.
 
 Mi alma se derrite de gratitud cuando pienso en la misericordia infinita de
 
 Dios para conmigo en aquella hora cuando vine para buscar en Sus manos la
 
-misericordia. Oh, por qu no habras de venir? Que Su Santo Espritu te
+misericordia. Oh, żpor qué no habrías de venir? ˇQue Su Santo Espíritu te
 
-atraiga dulcemente! Yo comprob que haba pan en abundancia, misericordia en
+atraiga dulcemente! Yo comprobé que había pan en abundancia, misericordia en
 
-abundancia, perdn en abundancia, y de sobra. Ven t tambin, ven t tambin,
+abundancia, perdón en abundancia, y de sobra. Ven tú también, ven tú también,
 
 pobre hombre culpable; ven, pues hay suficiente lugar para ti.
 
 Ahora, si el peor de los pecadores da este
 
-testimonio, as tambin lo hace
+testimonio, así también lo hace
 
-el ms
+el más
 
 oscuro de los santos.
 
-Si pudiramos llamar de su asiento a un dbil
+Si pudiéramos llamar de su asiento a un débil
 
 creyente en Dios, que sea casi desconocido en la iglesia, a alguien que se cuestione
 
@@ -912,125 +912,125 @@ algunas veces si es en verdad un hijo de Dios, y que estuviera deseoso de ser
 
 un jornalero en tanto que pudiera pertenecer a Dios, y si yo le preguntara:
 
-Ahora, despus de todo, cmo te ha tratado el Seor? Cul sera su
+“Ahora, después de todo, żcómo te ha tratado el Seńor?” żCuál sería su
 
-respuesta? T tienes muchas aflicciones, dudas y temores, pero tienes algunas
+respuesta? Tú tienes muchas aflicciones, dudas y temores, pero żtienes algunas
 
-quejas en contra de tu Seor? Cuando has confiado en el Seor para recibir tus
+quejas en contra de tu Seńor? Cuando has confiado en el Seńor para recibir tus
 
-gracias cotidianas, te las ha negado? Cuando has estado repleto de problemas,
+gracias cotidianas, żte las ha negado? Cuando has estado repleto de problemas,
 
-te ha rehusado el consuelo? Cuando has estado sumergido en la angustia, ha
+żte ha rehusado el consuelo? Cuando has estado sumergido en la angustia, żha
 
-declinado liberarte? El Seor mismo pregunta: He sido yo un desierto para
+declinado liberarte? El Seńor mismo pregunta: “żHe sido yo un desierto para
 
-Israel? Ustedes que son pueblo, testifiquen contra el Seor si tienen algo en
+Israel?” Ustedes que son pueblo, testifiquen contra el Seńor si tienen algo en
 
-contra Suya. Od, cielos, y escucha t, tierra; quienquiera que est en el
+contra Suya. Oíd, cielos, y escucha tú, tierra; quienquiera que esté en el
 
 servicio de Dios que hubiere descubierto que es un capataz severo, que hable. Entre
 
-los ngeles delante del trono de Jehov, y entre los redimidos en la tierra, si
+los ángeles delante del trono de Jehová, y entre los redimidos en la tierra, si
 
 hubiere alguno que pudiera decir que ha sido tratado injustamente o tratado con
 
-malacrianza despectiva, que alce su voz! Pero no hay nadie. Incluso el propio
+malacrianza despectiva, ˇque alce su voz! Pero no hay nadie. Incluso el propio
 
-demonio, cuando habl de Dios y de Su siervo Job, pregunt: Acaso teme Job a
+demonio, cuando habló de Dios y de Su siervo Job, preguntó: “żAcaso teme Job a
 
-Dios de balde? Por supuesto que no; Dios no permitir que Sus siervos le
+Dios de balde?” Por supuesto que no; Dios no permitirá que Sus siervos le
 
-sirvan de balde; les pagar salarios superabundantes, y todos ellos darn
+sirvan de balde; les pagará salarios superabundantes, y todos ellos darán
 
-testimonio de que en Su mesa hay abundancia de pan. Ahora, si stos gozan
+testimonio de que en Su mesa hay “abundancia de pan”. Ahora, si éstos gozan
 
-todava del pan de la casa del Padre, stos que una vez fueron grandes
+todavía del pan de la casa del Padre, éstos que una vez fueron grandes
 
-pecadores, stos que slo son ahora santos muy comunes, seguramente, pecador,
+pecadores, éstos que sólo son ahora santos muy comunes, seguramente, pecador,
 
-sto debera animarte a decir: Me levantar e ir a mi Padre, pues Sus
+ésto debería animarte a decir: “Me levantaré e iré a mi Padre”, pues Sus
 
-jornaleros tienen abundancia de pan.
+jornaleros tienen “abundancia de pan”.
 
 III.
 
 En tercer lugar, noten que el texto se concentra
 
-en LA MULTITUD DE AQUELLOS QUE TIENEN ABUNDANCIA DE PAN. El hijo prdigo pone
+en LA MULTITUD DE AQUELLOS QUE TIENEN “ABUNDANCIA DE PAN”. El hijo pródigo pone
 
-un nfasis sobre la palabra:
+un énfasis sobre la palabra:
 
-Cuntos
+“ˇCuántos
 
 jornaleros
 
-en casa de mi padre! Pensaba en sus grandes nmeros y los contaba. Pensaba en
+en casa de mi padre!” Pensaba en sus grandes números y los contaba. Pensaba en
 
-quienes cuidaban del ganado, en quienes salan con los camellos, en quienes
+quienes cuidaban del ganado, en quienes salían con los camellos, en quienes
 
-guardaban las ovejas, en quienes cultivaban los granos y en quienes atendan la
+guardaban las ovejas, en quienes cultivaban los granos y en quienes atendían la
 
-casa; pas revista de todos ellos en su mente; su padre era grande en la
+casa; pasó revista de todos ellos en su mente; su padre era grande en la
 
-tierra, y posea muchos siervos; sin embargo, l saba que todos ellos gozaban del
+tierra, y poseía muchos siervos; sin embargo, él sabía que todos ellos gozaban del
 
-mejor alimento en abundancia. Por qu habra de morir de hambre? De todas
+mejor alimento “en abundancia”. żPor qué habría de morir de hambre? De todas
 
-maneras yo soy slo uno; aunque mi hambre pareciera insaciable, no es sino un
+maneras yo soy sólo uno; aunque mi hambre pareciera insaciable, no es sino un
 
-vientre el que debe ser llenado, y, he aqu, mi padre llena cientos y miles
+vientre el que debe ser llenado, y, he aquí, mi padre llena cientos y miles
 
-cada da; por qu habra de morir de hambre?
+cada día; żpor qué habría de morir de hambre?”
 
-Ahora, oh, t, pecador despierto, t que en
+Ahora, oh, tú, pecador despierto, tú que en
 
-verdad sientes tu pecado y tu miseria esta maana, piensa en los nmeros sobre
+verdad sientes tu pecado y tu miseria esta mańana, piensa en los números sobre
 
 quienes Dios ha derramado ya Su gracia. Piensa en las huestes incontables en el
 
-cielo; si fueras introducido ah hoy, encontraras tan fcil contar las
+cielo; si fueras introducido ahí hoy, encontrarías tan fácil contar las
 
-estrellas, o las arenas del mar, como contar las multitudes que estn delante
+estrellas, o las arenas del mar, como contar las multitudes que están delante
 
 del trono incluso ahora.
 
-Han venido del este y del oeste, y estn sentados
+Han venido del este y del oeste, y están sentados
 
-con Abraham, con Isaac y con Jacob, y hay espacio suficiente para ti. Y adems
+con Abraham, con Isaac y con Jacob, y hay espacio suficiente para ti. Y además
 
-de los que estn en el cielo, piensa en quienes estn en la tierra. Bendito sea
+de los que están en el cielo, piensa en quienes están en la tierra. Bendito sea
 
 Dios, yo creo que Sus elegidos en la tierra han de ser contados por millones, y
 
-vienen los das, das ms brillantes que stos, cuando habr multitudes y ms
+vienen los días, días más brillantes que éstos, cuando habrá multitudes y más
 
-multitudes conducidas a conocer al Salvador, y a regocijarse en l. El amor del
+multitudes conducidas a conocer al Salvador, y a regocijarse en Él. El amor del
 
-Padre no es nicamente para unos cuantos, sino para un grupo sobremanera
+Padre no es únicamente para unos cuantos, sino para un grupo sobremanera
 
-grande. Un nmero que ningn hombre podra contar ser encontrado en el cielo;
+grande. Un número que ningún hombre podría contar será encontrado en el cielo;
 
 ahora, un hombre puede contar una cantidad muy grande. Si pusieran a trabajar a
 
-sus Newtons (calculistas), a sus calculadoras, podran contar grandes
+sus ‘Newtons’ (calculistas), a sus calculadoras, podrían contar grandes
 
-nmeros, pero Dios y slo Dios conoce a la multitud de Sus redimidos.
+números, pero Dios y sólo Dios conoce a la multitud de Sus redimidos.
 
-Ahora, pecador, t eres slo uno, de todas
+Ahora, pecador, tú eres sólo uno, de todas
 
 maneras, a pesar de ser un gran pecador, y la misericordia de Dios que abraza a
 
-millones debe albergar espacio suficiente para ti. En relacin al mar que
+millones debe albergar espacio suficiente para ti. En relación al mar que
 
-contiene a las ballenas y a los seres innumerables que se mueven, acaso dices
+contiene a las ballenas y a los seres innumerables que se mueven, żacaso dices
 
-t: inundara sus riberas si yo me baara all? En relacin al sol que baa
+tú: “inundaría sus riberas si yo me bańara allí”? En relación al sol que bańa
 
-el universo con luz, podras t decir: agotara sus rayos si le pidiera que
+el universo con luz, żpodrías tú decir: “agotaría sus rayos si le pidiera que
 
-iluminara mi oscuridad? No digas eso. Si entras en razn, no toleraras un pensamiento
+iluminara mi oscuridad”? No digas eso. Si entras en razón, no tolerarías un pensamiento
 
-as, sino que recordaras con esperanza la riqueza de la gracia del Padre,
+así, sino que recordarías con esperanza la riqueza de la gracia del Padre,
 
 aunque tu propia pobreza te mire a la cara.
 
@@ -1038,241 +1038,241 @@ Para terminar, vamos a agregar unas cuantas
 
 palabras, palabras concluyentes e impactantes para algunos de ustedes a quienes
 
-Dios ha enviado Su mensaje esta maana, y a quienes tiene la intencin de
+Dios ha enviado Su mensaje esta mańana, y a quienes tiene la intención de
 
 salvar.
 
-Oh, ustedes, que han odo el Evangelio durante
+ˇOh, ustedes, que han oído el Evangelio durante
 
-largo tiempo y que lo conocen bien en teora, pero que no han sentido nada de
+largo tiempo y que lo conocen bien en teoría, pero que no han sentido nada de
 
-su poder en sus corazones, permtanme recordarles ahora dnde estn y qu son! Ustedes
+su poder en sus corazones, permítanme recordarles ahora dónde están y qué son! Ustedes
 
-estn pereciendo. Vive Jehov, que slo hay un paso entre ustedes y la muerte; slo
+están pereciendo. Vive Jehová, que sólo hay un paso entre ustedes y la muerte; sólo
 
-un paso, es ms, slo un aliento entre ustedes y el infierno.
+un paso, es más, sólo un aliento entre ustedes y el infierno.
 
-Pecador, si en este instante tu corazn cesara
+Pecador, si en este instante tu corazón cesara
 
-de latir -y hay mil causas que podran producir ese resultado antes de que el
+de latir -y hay mil causas que podrían producir ese resultado antes de que el
 
-reloj d su prximo tictac- t estaras en las llamas de la ira divina. Puedes
+reloj dé su próximo tictac- tú estarías en las llamas de la ira divina. żPuedes
 
 tolerar estar en tal peligro? Si estuvieras colgado de una roca, por medio de
 
 una delgada hebra que pronto se ha de romper, y si cayeras de cabeza a un
 
-terrible precipicio, t no dormiras, sino que estaras lleno de alarma. Que
+terrible precipicio, tú no dormirías, sino que estarías lleno de alarma. Que
 
 tuvieras el suficiente sentido, el discernimiento suficiente y la gracia
 
 suficiente para estar alarmado hasta escapar de la ira venidera.
 
-Sin embargo, recuerda que mientras ests
+Sin embargo, recuerda que mientras estás
 
-pereciendo, ests pereciendo a la vista de la abundancia; te ests muriendo de
+pereciendo, estás pereciendo a la vista de la abundancia; te estás muriendo de
 
-hambre ah donde est aderezada abundantemente una mesa; y peor an, hay
+hambre ahí donde está aderezada abundantemente una mesa; y peor aún, hay
 
-algunas personas a quienes conoces que estn sentadas ahora a esa mesa y
+algunas personas a quienes conoces que están sentadas ahora a esa mesa y
 
-festejan. Qu triste perversidad es que un hombre persista en privarse de
+festejan. ˇQué triste perversidad es que un hombre persista en privarse de
 
-comida en medio de un banquete, precisamente donde otros estn siendo regalados
+comida en medio de un banquete, precisamente donde otros están siendo regalados
 
 con buenas cosas!
 
-Pero me parece que te oigo decir: Me temo que
+Pero me parece que te oigo decir: “Me temo que
 
-no tengo ningn derecho de venir a Jess. Te voy a preguntar sto: tienes
+no tengo ningún derecho de venir a Jesús”. Te voy a preguntar ésto: żtienes
 
-algn derecho de decir eso mientras no se te haya negado nada? Trataste alguna
+algún derecho de decir eso mientras no se te haya negado nada? żTrataste alguna
 
-vez de venir a Cristo? Te ha rechazado alguna vez? Entonces si no has recibido
+vez de venir a Cristo? żTe ha rechazado alguna vez? Entonces si no has recibido
 
-jams una repulsa, por qu imaginas perversamente que l habra de repelerte?
+jamás una repulsa, żpor qué imaginas perversamente que Él habría de repelerte?
 
-Perversamente, digo, pues imaginar que l podra repeler a un penitente es una
+Perversamente, digo, pues imaginar que Él podría repeler a un penitente es una
 
-ofensa contra el Cristo que abri Su corazn sobre la cruz. Tienes algn
+ofensa contra el Cristo que abrió Su corazón sobre la cruz. żTienes algún
 
-derecho a decir: Pero yo no soy uno de esos para quienes es provista la
+derecho a decir: “Pero yo no soy uno de esos para quienes es provista la
 
-misericordia? Quin te dijo eso? Has ascendido al cielo y ledo los
+misericordia”? żQuién te dijo eso? żHas ascendido al cielo y leído los
 
-registros secretos de la eleccin de Dios? Te ha revelado el Seor un extrao
+registros secretos de la elección de Dios? żTe ha revelado el Seńor un extrańo
 
-decreto, y te ha dicho: Mrchate y pierde la esperanza, pues no voy a tener
+decreto, y te ha dicho: “Márchate y pierde la esperanza, pues no voy a tener
 
-ninguna piedad de ti? Si t dijeras que Dios habl as, yo no te lo creera.
+ninguna piedad de ti”? Si tú dijeras que Dios habló así, yo no te lo creería.
 
-En este libro sagrado est registrado lo que Dios ha dicho; aqu est la
+En este libro sagrado está registrado lo que Dios ha dicho; aquí está la
 
-palabra cierta del testimonio, y en l encuentro que no ha sido dicho por
+palabra cierta del testimonio, y en él encuentro que no ha sido dicho por
 
-ningn humilde buscador que Dios lo ha dejado fuera de Su gracia. Por qu
+ningún humilde buscador que Dios lo ha dejado fuera de Su gracia. żPor qué
 
-tienes un derecho de inventar una ficcin as para alcanzar tu propia
+tienes un derecho de inventar una ficción así para alcanzar tu propia
 
-condenacin? En lugar de eso, hay mucho en la palabra de Dios y en otros
+condenación? En lugar de eso, hay mucho en la palabra de Dios y en otros
 
-lugares para animarte a que vengas a Cristo. l no ha repelido todava a ningn
+lugares para animarte a que vengas a Cristo. Él no ha repelido todavía a ningún
 
 pecador; para comenzar, eso es bueno; y no es probable que lo hiciera, pues ya
 
-que muri para salvar a los pecadores, por qu habra de rechazarlos cuando
+que murió para salvar a los pecadores, żpor qué habría de rechazarlos cuando
 
 buscan ser salvados?
 
-T dices: Tengo miedo de venir a Cristo. Es
+Tú dices: “Tengo miedo de venir a Cristo”. żEs
 
-sabio eso? Me he enterado de un pobre navegante que haba sido convertido y que
+sabio eso? Me he enterado de un pobre navegante que había sido convertido y que
 
-tena muy poca educacin, pero que conoca la gracia de nuestro Seor
+tenía muy poca educación, pero que conocía la gracia de nuestro Seńor
 
 Jesucristo, y cuando estaba agonizando, muy alegre y gozosamente anhelaba
 
-partir. Su esposa le dijo: Hombre, no tienes miedo de presentarte delante del
+partir. Su esposa le dijo: “Hombre, żno tienes miedo de presentarte delante del
 
-Juez? Mujer, -respondi l- por qu habra de tener miedo del hombre que
+Juez?” “Mujer”, -respondió él- “żpor qué habría de tener miedo del hombre que
 
-muri por m?
+murió por mí?”
 
-Oh, por qu habras de tener miedo t de Cristo,
+Oh, żpor qué habrías de tener miedo tú de Cristo,
 
-que muri por los pecadores? La idea de tenerle miedo ha de ser desterrada por
+que murió por los pecadores? La idea de tenerle miedo ha de ser desterrada por
 
-el hecho de que l derram Su sangre por los culpables. T tienes mucha razn
+el hecho de que Él derramó Su sangre por los culpables. Tú tienes mucha razón
 
-para creer, a partir del propio hecho de que muri, que te ha de recibir. Adems,
+para creer, a partir del propio hecho de que murió, que te ha de recibir. Además,
 
-tienes Su palabra para ello, pues l dice: Al que a m viene, no le echo
+tienes Su palabra para ello, pues Él dice: “Al que a mí viene, no le echo
 
-fuera, por ninguna razn, de ninguna manera, en ninguna ocasin, bajo ninguna
+fuera”, por ninguna razón, de ninguna manera, en ninguna ocasión, bajo ninguna
 
-pretensin y por ningn motivo. No le echar fuera, dice el original. Al que
+pretensión y por ningún motivo. “No le echaré fuera”, dice el original. “Al que
 
-a m viene, no le echo fuera. T afirmas que es demasiado bueno para ser
+a mí viene, no le echo fuera”. Tú afirmas que es demasiado bueno para ser
 
-cierto que haya perdn para ti; sto sera medir insensatamente el grano de
+cierto que haya perdón para ti; ésto sería medir insensatamente el grano de
 
 Dios con tu almud ya que parece ser algo demasiado bueno para ser recibido por
 
 ti; te imaginas que es demasiado bueno para que Dios lo otorgue. La grandeza de
 
-las buenas nuevas ha de ser una razn para creer que las nuevas son ciertas,
+las buenas nuevas ha de ser una razón para creer que las nuevas son ciertas,
 
-pues as es con Dios.
+pues así es con Dios.
 
-Quin es un
+“żQuién es un
 
-Dios perdonador como T?
+Dios perdonador como Tú?
 
-O quin
+O żquién
 
-tiene gracia tan rica y gratuita?
+tiene gracia tan rica y gratuita?”
 
-Debido a que el Evangelio nos asegura que l
+Debido a que el Evangelio nos asegura que Él
 
 perdona grandes pecados por medio de un gran Salvador, parece ser verdad,
 
-puesto que l es un Dios muy grande.
+puesto que Él es un Dios muy grande.
 
-Cul debera ser el resultado de todo sto para
+żCuál debería ser el resultado de todo ésto para
 
-todo pecador aqu presente en este momento? Yo pienso que estas buenas nuevas
+todo pecador aquí presente en este momento? Yo pienso que estas buenas nuevas
 
-deberan despertar a aquellos que casi se han quedado dormidos por causa de la
+deberían despertar a aquellos que casi se han quedado dormidos por causa de la
 
-desesperacin. Los marineros han estado sacando con bombas el agua del barco, las
+desesperación. Los marineros han estado sacando con bombas el agua del barco, las
 
-fugas estn prevaleciendo, el barco se est hundiendo y el capitn est
+fugas están prevaleciendo, el barco se está hundiendo y el capitán está
 
 persuadido de que va a naufragar. Deprimido por esas malas noticias, los
 
-hombres rehsan trabajar, y como los botes estn todos desfondados y no pueden
+hombres rehúsan trabajar, y como los botes están todos desfondados y no pueden
 
-construir una balsa, se entregan a la desesperacin. En breve el capitn les
+construir una balsa, se entregan a la desesperación. En breve el capitán les
 
-tiene mejores noticias. El barco flotar, les dice; el viento est amainando
+tiene mejores noticias. “El barco flotará”, les dice; “el viento está amainando
 
-tambin, las bombas contienen el agua, y la fuga puede ser tapada todava.
+también, las bombas contienen el agua, y la fuga puede ser tapada todavía”.
 
-Vean cmo trabajan; con cunto valor y buen nimo trabajan, porque hay
+Vean cómo trabajan; ˇcon cuánto valor y buen ánimo trabajan, porque hay
 
-esperanza! Alma, hay esperanza!
+esperanza! ˇAlma, hay esperanza!
 
-Hay
+ˇHay
 
 esperanza!
 
-HAY ESPERANZA!, para la ramera, para el ladrn, para el
+ˇHAY ESPERANZA!, para la ramera, para el ladrón, para el
 
 borracho.
 
-No hay esperanza, dice Satans. T eres un
+“No hay esperanza”, dice Satanás. Tú eres un
 
-mentiroso; regrsate a tu guarida; para ti no hay esperanza, pero para el
+mentiroso; regrésate a tu guarida; para ti no hay esperanza, pero para el
 
-hombre cado, aunque est hundido hasta el cuello en el cieno del pecado,
+hombre caído, aunque esté hundido hasta el cuello en el cieno del pecado,
 
-aunque est a las puertas de la muerte, hay esperanza mientras viva. Hay
+aunque esté a las puertas de la muerte, hay esperanza mientras viva. Hay
 
 esperanza en el Salvador para las almas desesperadas.
 
-En adicin a despertarnos, sto debera elevar
+En adición a despertarnos, ésto debería elevar
 
-los pensamientos del pecador. Hace algunos aos un barrendero de las calles en
+los pensamientos del pecador. Hace algunos ańos un barrendero de las calles en
 
-Dubln, estaba en una esquina con su escoba, y muy probablemente sus ms
+Dublín, estaba en una esquina con su escoba, y muy probablemente sus más
 
-elevados pensamientos consistan en mantener el cruce limpio, y esperar el
+elevados pensamientos consistían en mantener el cruce limpio, y esperar el
 
-centavo que le daran. Un da, un abogado puso su mano sobre su hombro, y le
+centavo que le darían. Un día, un abogado puso su mano sobre su hombro, y le
 
-dijo: Mi buen amigo, sabes que eres heredero de una fortuna que produce diez
+dijo: “Mi buen amigo, żsabes que eres heredero de una fortuna que produce diez
 
-mil libras al ao? Lo dice en serio?, pregunt el barrendero. En efecto,
+mil libras al ańo?” “żLo dice en serio?”, preguntó el barrendero. “En efecto”,
 
-le respondi. Acabo de recibir esa informacin; estoy seguro de que t eres el
+le respondió. “Acabo de recibir esa información; estoy seguro de que tú eres el
 
-hombre. Se alej, y
+hombre”. Se alejó, y
 
-se olvid de su
+se olvidó de su
 
 escoba.
 
-Ests sorprendido? Vamos, quin no habra olvidado un escoba al
+żEstás sorprendido? Vamos, żquién no habría olvidado un escoba al
 
-convertirse sbitamente en el poseedor de una renta de diez mil libras al ao?
+convertirse súbitamente en el poseedor de una renta de diez mil libras al ańo?
 
-As, yo ruego que algunos pobre pecadores, que
+Así, yo ruego que algunos pobre pecadores, que
 
 han estado pensando en los placeres del mundo, cuando oigan que hay esperanza,
 
-y que hay un cielo que puede obtenerse, olviden los engaosos placeres del
+y que hay un cielo que puede obtenerse, olviden los engańosos placeres del
 
-pecado, y vayan en pos de cosas mejores y ms excelsas.
+pecado, y vayan en pos de cosas mejores y más excelsas.
 
-No debera purificar tambin la mente? El hijo
+żNo debería purificar también la mente? El hijo
 
-prdigo, cuando dijo: Me levantar e ir a mi padre, fue reformado en alguna
+pródigo, cuando dijo: “Me levantaré e iré a mi padre”, fue reformado en alguna
 
-medida desde aquel preciso instante. Cmo?, preguntas t. Pues bien, abandon el
+medida desde aquel preciso instante. żCómo?, preguntas tú. Pues bien, abandonó el
 
-comedero de los cerdos; y ms todava, dej la copa de vino, y dej a las
+comedero de los cerdos; y más todavía, dejó la copa de vino, y dejó a las
 
-rameras. No acudi con la ramera tomada de su brazo ni con la copa de vino en
+rameras. No acudió con la ramera tomada de su brazo ni con la copa de vino en
 
-su mano, diciendo: Voy a llevar estas cosas conmigo, e ir a mi padre. Eso no
+su mano, diciendo: “Voy a llevar estas cosas conmigo, e iré a mi padre”. Eso no
 
-poda ser. Todas esas cosas fueron abandonadas, y aunque no posea ninguna
+podía ser. Todas esas cosas fueron abandonadas, y aunque no poseía ninguna
 
-bondad que llevar consigo, con todo, no trat de mantener sus pecados y venir a
+bondad que llevar consigo, con todo, no trató de mantener sus pecados y venir a
 
 Cristo.
 
-Voy a concluir con esta observacin, porque servir
+Voy a concluir con esta observación, porque servirá
 
 como un tipo de
 
@@ -1280,65 +1280,65 @@ caveat (advertencia),
 
 y
 
-ser una palabra apropiada para sazonar las amplias invitaciones del Evangelio
+será una palabra apropiada para sazonar las amplias invitaciones del Evangelio
 
-gratuito. Me temo que algunos de ustedes utilizarn indebidamente el Evangelio,
+gratuito. Me temo que algunos de ustedes utilizarán indebidamente el Evangelio,
 
-y se atrevern a tomar la cruz y a usarla para que sea una horca para sus
+y se atreverán a tomar la cruz y a usarla para que sea una horca para sus
 
-almas. Si Dios es tan misericordioso, ustedes irn y pecarn todava ms; y
+almas. Si Dios es tan misericordioso, ustedes irán y pecarán todavía más; y
 
-debido a que la gracia es otorgada gratuitamente, ustedes continuarn en el
+debido a que la gracia es otorgada gratuitamente, ustedes continuarán en el
 
 pecado para que la gracia sobreabunde. Si hicieran eso, yo quisiera recordarles
 
-solemnemente que no tengo gracia para predicarles a personas como ustedes. Su
+solemnemente que no tengo gracia para predicarles a personas como ustedes. “Su
 
-condenacin es justa, es la palabra de la inspiracin y la nica que conozco
+condenación es justa”, es la palabra de la inspiración y la única que conozco
 
 que es aplicable a personas como ustedes; pero a toda alma necesitada y
 
-culpable que desee un Salvador se le dice hoy que crea en Jess, esto es, que
+culpable que desee un Salvador se le dice hoy que crea en Jesús, esto es, que
 
-confe en la sustitucin y en el sacrificio de Cristo, que confe que tomar su
+confíe en la sustitución y en el sacrificio de Cristo, que confíe que tomará su
 
-pecado y lo borrar; que confe en que tomar su alma y la salvar. Confa en
+pecado y lo borrará; que confíe en que tomará su alma y la salvará. Confía en
 
-Cristo enteramente, y sers perdonado en este preciso instante; eres salvado en
+Cristo enteramente, y serás perdonado en este preciso instante; eres salvado en
 
 este mismo momento, y puedes regocijarte en el hecho de que siendo justificado
 
-por fe tienes paz con Dios por medio de Jesucristo nuestro Seor. Oh, vengan
+por fe tienes paz con Dios por medio de Jesucristo nuestro Seńor. Oh, vengan
 
 ustedes, vengan ustedes, vengan ustedes; vengan y sean bienvenidos; vengan
 
-ahora a la sangre del Redentor. Espritu Santo, furzalos a entrar, para que la
+ahora a la sangre del Redentor. Espíritu Santo, fuérzalos a entrar, para que la
 
-casa de la misericordia se llene. Amn y Amn.
+casa de la misericordia se llene. Amén y Amén.
 
 ____________
 
 Se le solicita al lector, si fuese un creyente
 
-en Cristo, que se una con el predicador para alabar al Seor por la gracia dada
+en Cristo, que se una con el predicador para alabar al Seńor por la gracia dada
 
-tan abundantemente en conexin con estos sermones. Este es el nmero mil de la
+tan abundantemente en conexión con estos sermones. Este es el número mil de la
 
 serie de sermones que hemos publicado consecutivamente semana tras semana, y cuya
 
-circulacin ha continuado aumentando. Muchos de estos discursos han sido
+circulación ha continuado aumentando. Muchos de estos discursos han sido
 
-reimpresos en los Estados Unidos, y tambin han sido traducidos al alemn, al
+reimpresos en los Estados Unidos, y también han sido traducidos al alemán, al
 
-sueco, al holands, al italiano y al gals. Algunos de ellos han sido
+sueco, al holandés, al italiano y al galés. Algunos de ellos han sido
 
-publicados tambin en hngaro, en ruso, en dans, es espaol, en telug, en
+publicados también en húngaro, en ruso, en danés, es espańol, en telugú, en
 
-malgache, en maor y en gals. De su efecto, por la bendicin del Espritu de
+malgache, en maorí y en galés. De su efecto, por la bendición del Espíritu de
 
 Dios, miles en el cielo y en todas partes de la tierra, son gozosos testigos.
 
-Si nosotros no alabramos a Dios por tal misericordia, las piedras clamaran.
+Si nosotros no alabáramos a Dios por tal misericordia, las piedras clamarían.
 
 C. H.
 
@@ -1346,7 +1346,7 @@ Spurgeon
 
 .
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 15/Noviembre/2010
 

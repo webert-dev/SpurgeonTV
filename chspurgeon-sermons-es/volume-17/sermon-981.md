@@ -1,16 +1,16 @@
 # Sermón 981 | Sermón 981
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Cargado por
 
 Cuatro
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,201 +18,201 @@ DOMINGO 19 DE MARZO
 
 DE 1871
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Mas l se
+“Mas él se
 
-apartaba a lugares desiertos, y oraba. Aconteci un da, que l estaba
+apartaba a lugares desiertos, y oraba. Aconteció un día, que él estaba
 
-enseando, y estaban sentados los fariseos y doctores de la ley, los cuales
+enseńando, y estaban sentados los fariseos y doctores de la ley, los cuales
 
-haban venido de todas las aldeas de Galilea, y de Judea y Jerusaln; y el
+habían venido de todas las aldeas de Galilea, y de Judea y Jerusalén; y el
 
-poder del Seor estaba con l para sanar. Y sucedi que unos hombres que traan
+poder del Seńor estaba con él para sanar. Y sucedió que unos hombres que traían
 
-en un lecho a un hombre que estaba paraltico, procuraban llevarle adentro y
+en un lecho a un hombre que estaba paralítico, procuraban llevarle adentro y
 
-ponerle delante de l. Pero no hallando cmo hacerlo a causa de la multitud,
+ponerle delante de él. Pero no hallando cómo hacerlo a causa de la multitud,
 
-subieron encima de la casa, y por el tejado le bajaron con el lecho, ponindole
+subieron encima de la casa, y por el tejado le bajaron con el lecho, poniéndole
 
-en medio, delante de Jess. Al ver l la fe de ellos, le dijo: Hombre,
+en medio, delante de Jesús. Al ver él la fe de ellos, le dijo: Hombre,
 
 tus
 
 pecados te son perdonados. Entonces, los escribas y los
 
-fariseos comenzaron a cavilar, diciendo: Quin es ste que habla blasfemias?
+fariseos comenzaron a cavilar, diciendo: żQuién es éste que habla blasfemias?
 
-Quin puede perdonar pecados sino slo Dios? Jess entonces, conociendo los
+żQuién puede perdonar pecados sino sólo Dios? Jesús entonces, conociendo los
 
-pensamientos de ellos, respondiendo les dijo: Qu cavilis en vuestros
+pensamientos de ellos, respondiendo les dijo: żQué caviláis en vuestros
 
-corazones? Qu es ms fcil, decir: Tus pecados te son perdonados, o decir:
+corazones? żQué es más fácil, decir: Tus pecados te son perdonados, o decir:
 
-Levntate y anda? Pues para que sepis que el Hijo del Hombre tiene potestad en
+Levántate y anda? Pues para que sepáis que el Hijo del Hombre tiene potestad en
 
-la tierra para perdonar pecados (dijo al paraltico): A ti te digo: Levntate,
+la tierra para perdonar pecados (dijo al paralítico): A ti te digo: Levántate,
 
-toma tu lecho, y vete a tu casa. Al instante, levantndose en presencia de
+toma tu lecho, y vete a tu casa. Al instante, levantándose en presencia de
 
 ellos, y tomando el lecho en que estaba acostado, se fue a su casa,
 
 glorificando a Dios. Y todos, sobrecogidos de asombro, glorificaban a Dios; y
 
-llenos de temor, decan: Hoy hemos visto maravillas.   Lucas 5: 16-26.
+llenos de temor, decían: Hoy hemos visto maravillas”.   Lucas 5: 16-26.
 
 Este mismo relato se
 
-encuentra en el captulo noveno de Mateo y en el segundo captulo de Marcos. Lo
+encuentra en el capítulo noveno de Mateo y en el segundo capítulo de Marcos. Lo
 
 que ha sido registrado tres veces por las plumas inspiradas debe ser
 
-considerado como triplemente importante y como muy digno de nuestra ms atenta
+considerado como triplemente importante y como muy digno de nuestra más atenta
 
-consideracin. Observen el hecho instructivo de que nuestro Salvador se
+consideración. Observen el hecho instructivo de que nuestro Salvador se
 
-retiraba y dedicaba un tiempo especial a la oracin cuando vea que se juntaban
+retiraba y dedicaba un tiempo especial a la oración cuando veía que se juntaban
 
-con l inusuales muchedumbres. l se apartaba a lugares solitarios para tener
+con Él inusuales muchedumbres. Él se apartaba a lugares solitarios para tener
 
-comunin con Su Padre, y, en consecuencia, regresaba revestido de un abundante poder
+comunión con Su Padre, y, en consecuencia, regresaba revestido de un abundante poder
 
-de sanar y salvar. No se trataba de que en S mismo, como Dios, no poseyera
+de sanar y salvar. No se trataba de que en Sí mismo, como Dios, no poseyera
 
-siempre ese poder sin medida, sino que lo haca por nosotros, para que aprendamos
+siempre ese poder sin medida, sino que lo hacía por nosotros, para que aprendamos
 
-que el poder de Dios slo descansar en nosotros en la medida en que nos
+que el poder de Dios sólo descansará en nosotros en la medida en que nos
 
-acerquemos a Dios. El descuido de la oracin privada es la langosta que devora
+acerquemos a Dios. El descuido de la oración privada es la langosta que devora
 
 el poder de la iglesia.
 
-Cuando nuestro Seor
+Cuando nuestro Seńor
 
-dej Su retiro encontr que estaba rodeado de un enorme gento que era a la vez
+dejó Su retiro encontró que estaba rodeado de un enorme gentío que era a la vez
 
-grande y diverso, pues aunque haba all muchos creyentes sinceros, se
+grande y diverso, pues aunque había allí muchos creyentes sinceros, se
 
-encontraba un mayor nmero de observadores escpticos; algunos estaban ansiosos
+encontraba un mayor número de observadores escépticos; algunos estaban ansiosos
 
-de recibir Su poder de curacin y otros estaban igualmente deseosos de hallar
+de recibir Su poder de curación y otros estaban igualmente deseosos de hallar
 
-ocasin en contra de l. As tambin, sin importar cun revestido del espritu
+ocasión en contra de Él. Así también, sin importar cuán revestido del espíritu
 
-y del poder de su Maestro est el predicador, en todas las asambleas habr
+y del poder de su Maestro esté el predicador, en todas las asambleas habrá
 
-gente de todo tipo; all se juntarn sus fariseos y doctores de la ley, sus
+gente de todo tipo; allí se juntarán sus fariseos y doctores de la ley, sus
 
-acrrimos censores listos a denigrar y sus impasibles crticos en busca de fallas;
+acérrimos censores listos a denigrar y sus impasibles críticos en busca de fallas;
 
-al mismo tiempo, elegidos por Dios y atrados por Su gracia, estarn presentes
+al mismo tiempo, elegidos por Dios y atraídos por Su gracia, estarán presentes
 
 algunos devotos creyentes que se regocijan en el poder que es revelado entre
 
-los hombres, y habr tambin sinceros buscadores que desean sentir en carne
+los hombres, y habrá también sinceros buscadores que desean sentir en carne
 
-propia la energa sanadora. Parece que nuestro Salvador, como regla, supla a
+propia la energía sanadora. Parece que nuestro Salvador, como regla, suplía a
 
-cada oyente con el alimento segn su especie. Los fariseos encontraban pronto los
+cada oyente con el alimento según su especie. Los fariseos encontraban pronto los
 
-asuntos que les parecan objetables; el Salvador formulaba Sus expresiones de
+asuntos que les parecían objetables; el Salvador formulaba Sus expresiones de
 
-tal manera que ellos las captaban vidamente y lo acusaban de blasfemia; la
+tal manera que ellos las captaban ávidamente y lo acusaban de blasfemia; la
 
-enemistad de sus corazones flua de esa manera a la superficie para que el
+enemistad de sus corazones fluía de esa manera a la superficie para que el
 
-Seor tuviera la oportunidad de reprocharla; pero si solo hubieran estado
+Seńor tuviera la oportunidad de reprocharla; pero si solo hubieran estado
 
-dispuestos, el poder del Seor estaba presente para sanarlos aun a ellos. Por
+dispuestos, el poder del Seńor estaba presente para sanarlos aun a ellos. Por
 
-lo pronto, esos pobres seres trmulos que rogaban pidiendo la curacin no se
+lo pronto, esos pobres seres trémulos que rogaban pidiendo la curación no se
 
-vieron decepcionados; el Buen Mdico no pas por alto ningn caso, y, al mismo
+vieron decepcionados; el Buen Médico no pasó por alto ningún caso, y, al mismo
 
-tiempo Sus discpulos, que buscaban las oportunidades para elogiarlo de nuevo, quedaron
+tiempo Sus discípulos, que buscaban las oportunidades para elogiarlo de nuevo, quedaron
 
-plenamente gratificados, pues con ojos dichosos vieron al paraltico restaurado
+plenamente gratificados, pues con ojos dichosos vieron al paralítico restaurado
 
 y oyeron que sus pecados le fueron perdonados.
 
 El caso que el relato
 
-pone ante nosotros es el de un hombre atacado de parlisis. Esta triste
+pone ante nosotros es el de un hombre atacado de parálisis. Esta triste
 
-enfermedad pudo haberse prolongado durante mucho tiempo. Hay una parlisis que
+enfermedad pudo haberse prolongado durante mucho tiempo. Hay una parálisis que
 
-mata gradualmente el cuerpo reducindolo cada vez ms a una completa
+mata gradualmente el cuerpo reduciéndolo cada vez más a una completa
 
 impotencia. El poder de los nervios queda casi destruido; el poder de movimiento
 
 es enteramente suspendido y, no obstante, las facultades mentales subsisten
 
-aunque grandemente debilitadas, y algunas de ellas casi llegan a su extincin.
+aunque grandemente debilitadas, y algunas de ellas casi llegan a su extinción.
 
 Hay quienes han pensado que este hombre pudiera haber sido afectado por lo que
 
-se conoce como parlisis universal, que muy rpidamente produce la muerte, lo que
+se conoce como parálisis universal, que muy rápidamente produce la muerte, lo que
 
-pudiera explicar la extrema prisa que tenan los cuatro porteadores para
+pudiera explicar la extrema prisa que tenían los cuatro porteadores para
 
-acercarlo al Salvador. No conocemos los detalles de su condicin, pero lo cierto
+acercarlo al Salvador. No conocemos los detalles de su condición, pero lo cierto
 
 es que estaba paralizado y, mirando el caso y estudiando los tres relatos, creo
 
 que percibo con igual claridad -de una manera o de otra al menos en el juicio
 
-del propio individuo- que su parlisis estaba conectada con su pecado. l era
+del propio individuo- que su parálisis estaba conectada con su pecado. Él era
 
-evidentemente un penitente, as como un paraltico. Su mente estaba tan
+evidentemente un penitente, así como un paralítico. Su mente estaba tan
 
-oprimida como lo estaba su estructura corporal. No s si se le pudiera llamar
+oprimida como lo estaba su estructura corporal. No sé si se le pudiera llamar
 
 del todo un creyente, pero es sumamente probable que, estando oprimido por un
 
-sentido de pecado, tuviera una dbil esperanza en la misericordia divina, a la
+sentido de pecado, tuviera una débil esperanza en la misericordia divina, a la
 
-cual, como a una chispa en una mecha humeante, le resultara difcil existir,
+cual, como a una chispa en una mecha humeante, le resultara difícil existir,
 
-pero aun as, esa dbil esperanza estaba verdaderamente presente all. La
+pero aun así, esa débil esperanza estaba verdaderamente presente allí. La
 
-afliccin por la que sus amigos se compadecan de l estaba en su cuerpo, pero
+aflicción por la que sus amigos se compadecían de él estaba en su cuerpo, pero
 
-l mismo senta una turbacin mucho ms severa en su alma, y probablemente no
+él mismo sentía una turbación mucho más severa en su alma, y probablemente no
 
 era tanto con miras a ser sanado corporalmente, como por la esperanza de
 
-recibir una bendicin espiritual, que l estaba anuente a ser sometido a
+recibir una bendición espiritual, que él estaba anuente a ser sometido a
 
 cualquier proceso mediante el cual cayera bajo la mira del Salvador. Yo deduzco
 
-esto del hecho de que nuestro Salvador le dirigi estas palabras: Ten nimo,
+esto del hecho de que nuestro Salvador le dirigió estas palabras: “Ten ánimo”,
 
-insinuando que el paraltico estaba descorazonado, que su espritu se abata en
+insinuando que el paralítico estaba descorazonado, que su espíritu se abatía en
 
-su interior, y, por tanto, en vez de decirle de entrada: Levntate, toma tu
+su interior, y, por tanto, en vez de decirle de entrada: “Levántate, toma tu
 
-lecho, nuestro Seor le dijo con un tierno corazn: Hijo, tus pecados te son
+lecho”, nuestro Seńor le dijo con un tierno corazón: “Hijo, tus pecados te son
 
-perdonados. Le dio al principio una bendicin que los amigos del paciente no
+perdonados”. Le dio al principio una bendición que los amigos del paciente no
 
-haban pedido, pero que el hombre, aun sin decir nada, buscaba en el silencio
+habían pedido, pero que el hombre, aun sin decir nada, buscaba en el silencio
 
-de su alma. l era un hijo, aunque era un hijo afligido; estaba dispuesto a
+de su alma. Él era un “hijo”, aunque era un hijo afligido; estaba dispuesto a
 
-obedecer la orden del Seor una vez que recibiera el poder, aunque todava no
+obedecer la orden del Seńor una vez que recibiera el poder, aunque todavía no
 
-poda levantar ni manos ni pies. Anhelaba con ansias el perdn del pecado pero
+podía levantar ni manos ni pies. Anhelaba con ansias el perdón del pecado pero
 
-no poda extender su mano para asirse del Salvador.
+no podía extender su mano para asirse del Salvador.
 
-Tengo la intencin de
+Tengo la intención de
 
-usar este relato con fines prcticos. Que el Espritu Santo lo haga realmente
+usar este relato con fines prácticos. Que el Espíritu Santo lo haga realmente
 
-til. Nuestro primer comentario ser este:
+útil. Nuestro primer comentario será este:
 
 I.
 
@@ -224,165 +224,165 @@ LA AYUDA
 
 DE
 
-UN PEQUEO GRUPO DE OBREROS ANTES DE QUE SEAN PLENAMENTE SALVADOS.
+UN PEQUEŃO GRUPO DE OBREROS ANTES DE QUE SEAN PLENAMENTE SALVADOS.
 
 Marcos, el evangelista,
 
-nos informa que este hombre tuvo que ser cargado por cuatro acompaantes; tena
+nos informa que este hombre tuvo que ser cargado por cuatro acompańantes; tenía
 
 que haber un porteador en cada una de las esquinas de la camilla en la que
 
 estaba postrado. Una gran cantidad de personas que entran en el reino de Cristo
 
-son convertidas a travs de las oraciones generales de la iglesia, por medio de
+son convertidas a través de las oraciones generales de la iglesia, por medio de
 
 los instrumentos de su ministerio. Probablemente tres de cada cuatro miembros
 
-de cualquier iglesia deben su conversin a la enseanza regular de la iglesia
+de cualquier iglesia deben su conversión a la enseńanza regular de la iglesia
 
-de alguna forma u otra; su escuela, su plpito y su prensa han sido las redes en
+de alguna forma u otra; su escuela, su púlpito y su prensa han sido las redes en
 
-las que han sido atrapados. Por supuesto que la oracin privada personal ha
+las que han sido atrapados. Por supuesto que la oración privada personal ha
 
-sido mezclada con todo eso en muchos casos; pero todava la mayora de los
+sido mezclada con todo eso en muchos casos; pero todavía la mayoría de los
 
-casos no podran ser rastreados como para ser atribuidos principalmente a las
+casos no podrían ser rastreados como para ser atribuidos principalmente a las
 
-oraciones o a los esfuerzos individuales. Yo creo que la regla es que el Seor
+oraciones o a los esfuerzos individuales. Yo creo que la regla es que el Seńor
 
-har que muchos sean llevados a l por el sonido de la gran trompeta del
+hará que muchos sean llevados a Él por el sonido de la gran trompeta del
 
-jubileo en la dispensacin del Evangelio por Sus ministros. Hay algunos,
+jubileo en la dispensación del Evangelio por Sus ministros. Hay algunos,
 
-adems, que son conducidos a Jess por los esfuerzos individuales de una
+además, que son conducidos a Jesús por los esfuerzos individuales de una
 
-persona. As como Andrs encontr a su propio hermano Simn, as tambin un
+persona. Así como Andrés encontró a su propio hermano Simón, así también un
 
-creyente, por su comunicacin privada de la verdad a otra persona, se vuelve
+creyente, por su comunicación privada de la verdad a otra persona, se vuelve
 
-instrumental en su conversin, por el poder del Espritu de Dios. Un convertido
+instrumental en su conversión, por el poder del Espíritu de Dios. Un convertido
 
-traer a otro, y ese otro a un tercero. Pero esta narracin pareciera mostrar
+traerá a otro, y ese otro a un tercero. Pero esta narración pareciera mostrar
 
-que hay casos que no sern trados por la predicacin general de la palabra, ni
+que hay casos que no serán traídos por la predicación general de la palabra, ni
 
 tampoco por la instrumentalidad de una persona; esos casos requieren que haya
 
-dos, o tres, o cuatro personas que trabajen en santa combinacin, quienes, de
+dos, o tres, o cuatro personas que trabajen en santa combinación, quienes, de
 
-comn acuerdo, sintiendo una comn agona de alma, resolvern unirse como un
+común acuerdo, sintiendo una común agonía de alma, resolverán unirse como un
 
-grupo para este nico objetivo y no abandonarn nunca su santa confederacin
+grupo para este único objetivo y no abandonarán nunca su santa confederación
 
 hasta que este objetivo sea alcanzado y su amigo sea salvado. Este hombre no
 
-poda ser llevado a Cristo por una sola persona; deba tener a cuatro que aplicaran
+podía ser llevado a Cristo por una sola persona; debía tener a cuatro que aplicaran
 
-su fuerza para transportarlo, o no podra llegar al lugar de su restauracin.
+su fuerza para transportarlo, o no podría llegar al lugar de su restauración.
 
 Apliquemos el principio.
 
-Por all est un padre de familia que todava no es salvo: su esposa ha orado
+Por allá está un padre de familia que todavía no es salvo: su esposa ha orado
 
-por l durante mucho tiempo pero sus oraciones no han recibido respuesta
+por él durante mucho tiempo pero sus oraciones no han recibido respuesta
 
-todava. Buena esposa, Dios te ha bendecido con un hijo que se regocija contigo
+todavía. Buena esposa, Dios te ha bendecido con un hijo que se regocija contigo
 
-en el temor de Dios. Acaso no tienes tambin dos hijas cristianas? Oh, ustedes
+en el temor de Dios. żAcaso no tienes también dos hijas cristianas? Oh, ustedes
 
 son cuatro, tome entonces cada uno de ustedes una esquina de la camilla de este
 
 enfermo, y lleven al esposo, lleven al padre, al Salvador. Un esposo y una
 
-esposa estn aqu y ambos han venido felizmente a Cristo; ustedes estn orando
+esposa están aquí y ambos han venido felizmente a Cristo; ustedes están orando
 
-por sus hijos; nunca dejen esa suplicacin: continen orando. Tal vez algn
+por sus hijos; nunca dejen esa suplicación: continúen orando. Tal vez algún
 
 amado miembro de su familia sea inusualmente terco. Se necesita una ayuda adicional.
 
-Bien, el maestro de la escuela dominical ser para ustedes un tercer integrante
+Bien, el maestro de la escuela dominical será para ustedes un tercer integrante
 
-del grupo; l tomar una esquina de la camilla; y yo sera muy feliz si pudiera
+del grupo; él tomará una esquina de la camilla; y yo sería muy feliz si pudiera
 
 unirme para ser el cuarto integrante y formar un bendito cuarteto. Tal vez,
 
-cuando la disciplina hogarea, la enseanza de la escuela y la predicacin del
+cuando la disciplina hogareńa, la enseńanza de la escuela y la predicación del
 
-ministro vayan juntas, el Seor mirar con amor desde lo alto y salvar a su
+ministro vayan juntas, el Seńor mirará con amor desde lo alto y salvará a su
 
-hijo. Amado hermano, ests pensando en alguien por quien has orado largamente;
+hijo. Amado hermano, estás pensando en alguien por quien has orado largamente;
 
-tambin le has hablado y has usado todos los medios apropiados, pero todava no
+también le has hablado y has usado todos los medios apropiados, pero todavía no
 
-han surtido efecto. Tal vez tu pltica sea demasiado consoladora: pudiera ser
+han surtido efecto. Tal vez tu plática sea demasiado consoladora: pudiera ser
 
 que no le has presentado esa precisa verdad que su conciencia requiere para que
 
-toque las fibras de su ser. Busca an ms ayuda. Pudiera ser que un segundo
+toque las fibras de su ser. Busca aún más ayuda. Pudiera ser que un segundo
 
-hermano le hable instructivamente donde t slo le has hablado
+hermano le hable instructivamente donde tú sólo le has hablado
 
-consoladoramente; tal vez la instruccin pudiera ser el instrumento de la gracia.
+consoladoramente; tal vez la instrucción pudiera ser el instrumento de la gracia.
 
-Sin embargo pudiera ser que incluso la instruccin no sea de ms ayuda de lo
+Sin embargo pudiera ser que incluso la instrucción no sea de más ayuda de lo
 
-que fue la consolacin, y pudiera ser necesario que se llame a un tercero, que
+que fue la consolación, y pudiera ser necesario que se llame a un tercero, que
 
-tal vez hable con una persuasiva exhortacin y con advertencia, lo cual pudiera
+tal vez hable con una persuasiva exhortación y con advertencia, lo cual pudiera
 
-ser lo que se necesita grandemente. Los dos que ya estn en el campo pueden
+ser lo que se necesita grandemente. Los dos que ya están en el campo pueden
 
-equilibrar su exhortacin, que por s sola podra haber sido demasiado mordaz,
+equilibrar su exhortación, que por sí sola podría haber sido demasiado mordaz,
 
-y podra haber generado un prejuicio en la mente de la persona, si slo hubiera
+y podría haber generado un prejuicio en la mente de la persona, si sólo hubiera
 
-existido la exhortacin. Los tres juntos comprueban ser los instrumentos
+existido la exhortación. Los tres juntos comprueban ser los instrumentos
 
-apropiados en la mano del Seor. Con todo, despus que ustedes tres se
+apropiados en la mano del Seńor. Con todo, después que ustedes tres se
 
-combinaran felizmente, pudiera ser que el pobre paraltico no sea todava
+combinaran felizmente, pudiera ser que el pobre paralítico no sea todavía
 
 afectado salvadoramente; pudiera necesitarse un cuarto integrante, quien, con
 
-un afecto ms profundo que el de ustedes tres juntos, y tal vez con una
+un afecto más profundo que el de ustedes tres juntos, y tal vez con una
 
-experiencia ms apropiada para el caso que la de ustedes, intervenga y obrando
+experiencia más apropiada para el caso que la de ustedes, intervenga y obrando
 
 conjuntamente con ustedes, el resultado se vea garantizado. Los cuatro
 
-colaboradores conjuntamente pueden lograr, por el poder del Espritu Santo, lo
+colaboradores conjuntamente pueden lograr, por el poder del Espíritu Santo, lo
 
 que ni uno, ni dos, ni tres eran competentes de realizar. Pudiera suceder a
 
-veces que un hombre ha odo a Pablo predicar, pero su clara doctrina, aunque ha
+veces que un hombre ha oído a Pablo predicar, pero su clara doctrina, aunque ha
 
-iluminado su intelecto, no ha convencido todava a su conciencia. Ha odo a
+iluminado su intelecto, no ha convencido todavía a su conciencia. Ha oído a
 
-Apolos, y el brillo de los elocuentes ruegos del orador ha encendido su corazn
+Apolos, y el brillo de los elocuentes ruegos del orador ha encendido su corazón
 
-pero no ha humillado su altivez. Ms tarde todava ha odo a Cefas, cuyas
+pero no ha humillado su altivez. Más tarde todavía ha oído a Cefas, cuyas
 
 burdas frases cortantes lo han talado y lo han convencido de pecado; pero antes
 
-de que pueda encontrar gozo y paz en la fe, tendr que or las dulces palabras
+de que pueda encontrar gozo y paz en la fe, tendrá que oír las dulces palabras
 
-afectuosas de Juan. Slo cuando el cuarto integrante sujete el lecho y lo
+afectuosas de Juan. Sólo cuando el cuarto integrante sujete el lecho y lo
 
-impulse con fuerza hacia arriba, el paraltico ser colocado en la senda de la
+impulse con fuerza hacia arriba, el paralítico será colocado en la senda de la
 
-misericordia. Yo deseo ansiosamente ver en esta iglesia pequeos grupos de
+misericordia. Yo deseo ansiosamente ver en esta iglesia pequeńos grupos de
 
-hombres y mujeres que estn ligados unos a otros por un celoso amor por las
+hombres y mujeres que están ligados unos a otros por un celoso amor por las
 
-almas. Yo quisiera que se dijeran entre s: Este es un caso por el que
+almas. Yo quisiera que se dijeran entre sí: “Este es un caso por el que
 
-sentimos un inters comn: nos comprometeremos a orar por esta persona;
+sentimos un interés común: nos comprometeremos a orar por esta persona;
 
-buscaremos unidos su salvacin. Pudiera que ser que alguna de las personas que
+buscaremos unidos su salvación”. Pudiera que ser que alguna de las personas que
 
-han pagado el derecho de ocupar un asiento en esta iglesia, despus de escuchar
+han pagado el derecho de ocupar un asiento en esta iglesia, después de escuchar
 
-mi voz los ltimos diez o quince aos, no haya sido persuadida; pudiera ser que
+mi voz los últimos diez o quince ańos, no haya sido persuadida; pudiera ser que
 
 otra persona haya dejado la escuela dominical sin ser salva. Que los cuartetos
 
@@ -390,19 +390,19 @@ fraternales se ocupen de cuidarlas con la ayuda de Dios. Movidos por un
 
 impulso, forman un cuadrado en torno a estas personas, los acorralan por
 
-delante y por detrs, y no les permiten decir: No hay quien cuide de mi vida.
+delante y por detrás, y no les permiten decir: “No hay quien cuide de mi vida”.
 
-Renanse en oracin con un propsito definido en mente, y luego persigan ese
+Reúnanse en oración con un propósito definido en mente, y luego persigan ese
 
-objetivo por los caminos ms probables. Yo no s, hermanos mos, cunta
+objetivo por los caminos más probables. Yo no sé, hermanos míos, cuánta
 
-bendicin podra venirnos a travs de esto, pero estoy seguro de que mientras
+bendición podría venirnos a través de esto, pero estoy seguro de que mientras
 
 no lo hayamos intentado no podemos pronunciar un veredicto al respecto; tampoco
 
 podemos estar muy seguros de estar libres de toda responsabilidad para con las
 
-almas de los hombres mientras no hayamos probado cada mtodo probable y posible
+almas de los hombres mientras no hayamos probado cada método probable y posible
 
 para hacerles bien.
 
@@ -410,121 +410,121 @@ Me temo que aun en una
 
 iglesia grande no hay muchos que quieran convertirse en camilleros. Muchos
 
-dirn que el plan es admirable pero dejarn que otros lo implementen. Recuerden
+dirán que el plan es admirable pero dejarán que otros lo implementen. Recuerden
 
-que las cuatro personas que se unen en tal labor de amor deberan, todas ellas,
+que las cuatro personas que se unen en tal labor de amor deberían, todas ellas,
 
-sentir un intenso afecto por las personas cuya salvacin buscan. Han de ser
+sentir un intenso afecto por las personas cuya salvación buscan. Han de ser
 
-individuos que no se arredrarn ante ninguna dificultad; que invertirn toda su
+individuos que no se arredrarán ante ninguna dificultad; que invertirán toda su
 
-fuerza para transportar la amada carga y perseverarn hasta haber logrado el
+fuerza para transportar la amada carga y perseverarán hasta haber logrado el
 
-xito. Necesitan ser fuertes, pues la carga es pesada; necesitan ser personas
+éxito. Necesitan ser fuertes, pues la carga es pesada; necesitan ser personas
 
-resueltas, pues la obra pondr su fe a prueba; necesitan ser seres de oracin,
+resueltas, pues la obra pondrá su fe a prueba; necesitan ser seres de oración,
 
-pues de otra manera laboran en vano; tienen que ser creyentes, o sern
+pues de otra manera laboran en vano; tienen que ser creyentes, o serán
 
-completamente intiles: Jess vio su fe, y, por tanto, acept su servicio; pero
+completamente inútiles: Jesús vio su fe, y, por tanto, aceptó su servicio; pero
 
-sin fe es imposible agradarle. Dnde encontraremos cuartetos como esos? Que el
+sin fe es imposible agradarle. żDónde encontraremos cuartetos como esos? Que el
 
-Seor los encuentre y que los enve a algunos de ustedes, pobres pecadores
+Seńor los encuentre y que los envíe a algunos de ustedes, pobres pecadores
 
-moribundos, que hoy yacen paralizados aqu.
+moribundos, que hoy yacen paralizados aquí.
 
 II.
 
 Ahora
 
-proseguimos a la segunda observacin, que ALGUNOS CASOS TRANSPORTADOS DE ESA
+proseguimos a la segunda observación, que ALGUNOS CASOS TRANSPORTADOS DE ESA
 
-MANERA REQUERIRN DE MUCHA REFLEXIN ANTES DE QUE EL DESIGNIO SEA CUMPLIDO.
+MANERA REQUERIRÁN DE MUCHA REFLEXIÓN ANTES DE QUE EL DESIGNIO SEA CUMPLIDO.
 
 El instrumento esencial
 
 por medio del cual un alma es salvada es lo suficientemente claro. Los cuatro
 
-porteadores no se preguntaban entre ellos respecto a cul era la manera de lograr
+porteadores no se preguntaban entre ellos respecto a cuál era la manera de lograr
 
-la curacin de este hombre; coincidan plenamente en esto: que tenan que
+la curación de este hombre; coincidían plenamente en esto: que tenían que
 
-llevarlo a Jess; por algn medio u otro, a todo trance, tenan que ponerlo en
+llevarlo a Jesús; por algún medio u otro, a todo trance, tenían que ponerlo en
 
-el camino de Jess. Ese era un hecho indudable. La pregunta era: cmo hacerlo?
+el camino de Jesús. Ese era un hecho indudable. La pregunta era: żcómo hacerlo?
 
-Hay un viejo proverbio mundano que reza: Querer es poder; y me parece que ese
+Hay un viejo proverbio mundano que reza: “Querer es poder”; y me parece que ese
 
 proverbio puede ser aplicado con seguridad a las cosas espirituales, casi sin ninguna
 
-advertencia o salvedad. Querer es poder; y si los hombres son conducidos por
+advertencia o salvedad. “Querer es poder”; y si los hombres son conducidos por
 
-la gracia de Dios a sentir una profunda ansiedad por alguna alma especfica,
+la gracia de Dios a sentir una profunda ansiedad por alguna alma específica,
 
-hay una manera por la que esa alma puede ser llevada a Jess, pero esa manera
+hay una manera por la que esa alma puede ser llevada a Jesús, pero esa manera
 
-pudiera revelarse slo despus de mucha consideracin. En algunos casos la
+pudiera revelarse sólo después de mucha consideración. En algunos casos la
 
-forma de impresionar al corazn pudiera ser de una manera extravagante, de una
+forma de impresionar al corazón pudiera ser de una manera extravagante, de una
 
-manera extraordinaria, de alguna manera que ordinariamente no debera usarse y
+manera extraordinaria, de alguna manera que ordinariamente no debería usarse y
 
-que no sera exitosa. Me atrevo a decir que los cuatro camilleros del relato
+que no sería exitosa. Me atrevo a decir que los cuatro camilleros del relato
 
-pensaron temprano por la maana: Vamos a llevar a este pobre paraltico con el
+pensaron temprano por la mańana: “Vamos a llevar a este pobre paralítico con el
 
-Salvador, y vamos a entrar en la casa por la puerta ordinaria; pero cuando
+Salvador, y vamos a entrar en la casa por la puerta ordinaria”; pero cuando
 
 intentaron hacer eso, las multitudes bloquearon el camino de tal manera que ni
 
-siquiera podan acercarse al umbral. Abran paso; abran paso para el enfermo! Aprtense
+siquiera podían acercarse al umbral. “ˇAbran paso; abran paso para el enfermo! ˇApártense
 
-de all y dejen pasar a un pobre paraltico! Por piedad, cedan un poco de
+de allí y dejen pasar a un pobre paralítico! ˇPor piedad, cedan un poco de
 
-espacio y permitan que llevemos al enfermo hasta donde est el profeta sanador!
+espacio y permitan que llevemos al enfermo hasta donde está el profeta sanador!”
 
-Sus splicas y sus instrucciones fueron vanas. Unas cuantas personas compasivas
+Sus súplicas y sus instrucciones fueron vanas. Unas cuantas personas compasivas
 
-por aqu y por all se separaban de la multitud, pero la mayora de las
+por aquí y por allá se separaban de la multitud, pero la mayoría de las
 
-personas ni pudieron ni quisieron quitarse; adems, muchas de ellas estn
+personas ni pudieron ni quisieron quitarse; además, muchas de ellas están
 
 involucradas en ocupaciones similares, y tienen iguales razones para tratar de
 
-entrar como se pudiera. Vean grita uno de los cuatro- voy a abrir un
+entrar como se pudiera. “Vean” –grita uno de los cuatro- “voy a abrir un
 
-espacio; y empuja y da codazos y avanza un poco hacia la entrada. Vamos,
+espacio”; y empuja y da codazos y avanza un poco hacia la entrada. “ˇVamos,
 
-ustedes tres!, -les grita- sganme, y branse paso a la fuerza, pulgada a
+ustedes tres!”, -les grita- “síganme, y ábranse paso a la fuerza, pulgada a
 
-pulgada. Pero ellos no pueden hacerlo. Es imposible. El pobre paciente est a
+pulgada”. Pero ellos no pueden hacerlo. Es imposible. El pobre paciente está a
 
 punto de morir de miedo; la camilla es sacudida de un lado a otro por la
 
-muchedumbre como un barquichuelo o como una cscara de nuez en medio de las
+muchedumbre como un barquichuelo o como una cáscara de nuez en medio de las
 
-olas del mar; la alarma del paciente aumenta, los portadores estn turbados, y
+olas del mar; la alarma del paciente aumenta, los portadores están turbados, y
 
 se alegran de regresarse otra vez para considerar el caso. Evidentemente es
 
-completamente imposible introducirlo por los medios ordinarios. Qu hacer
+completamente imposible introducirlo por los medios ordinarios. żQué hacer
 
-entonces? No podemos cavar un tnel, pero, no podramos pasar por sobre las
+entonces? “No podemos cavar un túnel, pero, żno podríamos pasar por sobre las
 
-cabezas de las personas, y descolgar al hombre desde arriba? Dnde est la
+cabezas de las personas, y descolgar al hombre desde arriba? żDónde está la
 
-escalera? Frecuentemente hay una escalera exterior que conduce a la parte
+escalera?” Frecuentemente hay una escalera exterior que conduce a la parte
 
 superior de una casa oriental; no podemos estar seguros de que hubiera una en
 
-este caso; pero si no fuera as, la casa vecina pudiera tener alguna escalinata,
+este caso; pero si no fuera así, la casa vecina pudiera tener alguna escalinata,
 
 y entonces los resueltos porteadores treparon a lo alto de la casa vecina y
 
-pasaron de un techo a otro. Donde no contamos con ninguna informacin definida
+pasaron de un techo a otro. Donde no contamos con ninguna información definida
 
-se puede dejar mucho a la conjetura; pero esto s queda claro: por algn medio
+se puede dejar mucho a la conjetura; pero esto sí queda claro: por algún medio
 
 subieron su desdichada carga al techo de la casa y se proveyeron del aparejo
 
@@ -532,43 +532,43 @@ necesario para descolgarlo. El Salvador probablemente predicaba en uno de los
 
 aposentos superiores, a menos que se tratara de una casa pobre desprovista de
 
-un piso superior. Tal vez la habitacin abra a un patio que estaba abarrotado.
+un piso superior. Tal vez la habitación abría a un patio que estaba abarrotado.
 
-De cualquier manera, el Seor Jess estaba bajo la cubierta de un techo, de un
+De cualquier manera, el Seńor Jesús estaba bajo la cubierta de un techo, de un
 
-slido techo. Nadie que lea cuidadosamente el original dejar de ver que haba
+sólido techo. Nadie que lea cuidadosamente el original dejará de ver que había
 
-un techo real en el que deba hacerse una perforacin. Se ha sugerido como una
+un techo real en el que debía hacerse una perforación. Se ha sugerido como una
 
-dificultad, que la perforacin de un techo podra involucrar un peligro para
+dificultad, que la perforación de un techo podría involucrar un peligro para
 
-quienes estaban abajo, y que probablemente generara una gran asfixia a causa del
+quienes estaban abajo, y que probablemente generaría una gran asfixia a causa del
 
 polvo; y para evitar esto, se han elaborado varias suposiciones, tales como que
 
 el Salvador estaba ubicado debajo de un toldo o cubierta de lona, y que los
 
-hombres enrollaron la lona; o que nuestro Seor estaba debajo de una veranda
+hombres enrollaron la lona; o que nuestro Seńor estaba debajo de una veranda
 
-con una cubierta muy ligera que los hombres podan descorrer fcilmente; otros
+con una cubierta muy ligera que los hombres podían descorrer fácilmente; otros
 
-han inventado inclusive un escotilln para la ocasin. Pero con toda la debida
+han inventado inclusive un escotillón para la ocasión. Pero con toda la debida
 
 deferencia para con los eminentes viajeros, las palabras de los evangelistas no
 
-pueden ser desechadas tan fcilmente. De acuerdo a nuestro texto, el hombre fue
+pueden ser desechadas tan fácilmente. De acuerdo a nuestro texto, el hombre fue
 
-descolgado a travs del tejado, no a travs de una lona o de cualquier otro
+descolgado a través del “tejado”, no a través de una lona o de cualquier otro
 
-material ligero; prescindiendo de cul hubiese sido el tipo de tejado, haba
+material ligero; prescindiendo de cuál hubiese sido el tipo de tejado, había
 
 sido confeccionado con toda seguridad con arcilla quemada, pues ese significado
 
-se encuentra en la esencia de la palabra. Adems, segn Marcos, despus de
+se encuentra en la esencia de la palabra. Además, según Marcos, después de
 
 haber perforado el techo, lo cual, yo supongo, quiere decir que quitaron el
 
-tejado,
+“tejado”,
 
 lo rompieron,
 
@@ -576,9 +576,9 @@ que se parece
 
 mucho a abrir un hoyo en el techo. La palabra griega usada por Marcos que es
 
-interpretada como rompimiento es una palabra muy enftica, y significa hacer
+interpretada como “rompimiento” es una palabra muy enfática, y significa hacer
 
-una perforacin, o una remocin del tejado, lo cual transmite la idea de una
+una perforación, o una remoción del tejado, lo cual transmite la idea de una
 
 labor considerable para poder quitar el material. Se nos informa que los techos
 
@@ -586,61 +586,61 @@ de las casas orientales son a menudo fabricados con piedras grandes; eso
 
 pudiera ser cierto como regla general, pero no en este caso, pues la casa
 
-estaba cubierta de tejas; y en cuanto al polvo y a la cada de escombros, eso
+estaba cubierta de tejas; y en cuanto al polvo y a la caída de escombros, eso
 
-pudiera ser una conclusin necesaria o no; pero es tan claro como la luz del
+pudiera ser una conclusión necesaria o no; pero es tan claro como la luz del
 
-medioda que un techo slido que requera que se quitaran las tejas y que se
+mediodía que un techo sólido que requería que se quitaran las tejas y que se
 
-quitara el material, qued con un hoyo, y a travs de la apertura fue
+quitara el material, quedó con un hoyo, y a través de la apertura fue
 
 descolgado el hombre en su camilla. Tal vez hubiera polvo, y posiblemente
 
-hubiera peligro tambin, pero los porteadores estaban preparados para cumplir
+hubiera peligro también, pero los porteadores estaban preparados para cumplir
 
-su propsito prescindiendo del riesgo. Tenan que introducir al hombre de
+su propósito prescindiendo del riesgo. Tenían que introducir al hombre de
 
 alguna manera. Sin embargo no hay necesidad de suponer alguna de las dos cosas,
 
-pues sin duda los cuatro hombres seran cuidadosos de no incomodar al Salvador
+pues sin duda los cuatro hombres serían cuidadosos de no incomodar al Salvador
 
-ni a Sus oyentes. Las tejas o el yeso podan ser trasladados a otra parte del
+ni a Sus oyentes. Las tejas o el yeso podían ser trasladados a otra parte del
 
 techo plano, y de igual manera la madera, conforme iban rompiendo el techo; y
 
-en cuanto a las vigas, podan estar lo suficientemente espaciadas para dejar
+en cuanto a las vigas, podían estar lo suficientemente espaciadas para dejar
 
 pasar la estrecha camilla del enfermo sin que se tuviera que quitar ninguna de
 
-ellas. El seor Hartley, en sus Viajes nos informa: Cuando viv en Egina
+ellas. El seńor Hartley, en sus ‘Viajes’ nos informa: “Cuando viví en Egina
 
-sola mirar con cierta frecuencia hacia los techos bajo los que me encontraba,
+solía mirar con cierta frecuencia hacia los techos bajo los que me encontraba,
 
-y contemplaba cun fcilmente pudo haberse llevado a cabo toda la transaccin
+y contemplaba cuán fácilmente pudo haberse llevado a cabo toda la transacción
 
-del paraltico. El techo estaba construido de la siguiente manera: una capa de
+del paralítico. El techo estaba construido de la siguiente manera: “una capa de
 
-caas, de especies de gran tamao, que era colocada sobre las vigas; sobre ella
+cańas, de especies de gran tamańo, que era colocada sobre las vigas; sobre ella
 
-se esparca una cantidad de brezo; sobre el brezo se depositaba tierra, la cual
+se esparcía una cantidad de brezo; sobre el brezo se depositaba tierra, la cual
 
-era apisonada hasta convertirla en una masa slida. Ahora, qu dificultad
+era apisonada hasta convertirla en una masa sólida. Ahora, żqué dificultad
 
-habra en quitar primero la tierra, despus el brezo, y luego las caas? Tampoco
+habría en quitar primero la tierra, después el brezo, y luego las cańas? Tampoco
 
-se incrementara la dificultad si la tierra tuviera una capa de tejas puestas
+se incrementaría la dificultad si la tierra tuviera una capa de tejas puestas
 
-sobre ella. Ninguna inconveniencia sobrevendra para las personas que estaban
+sobre ella. Ninguna inconveniencia sobrevendría para las personas que estaban
 
-dentro de la casa por quitar las tejas y la tierra pues el brezo y las caas
+dentro de la casa por quitar las tejas y la tierra pues el brezo y las cańas
 
-detendran cualquier cosa que pudiera caer al suelo de alguna manera, y eso
+detendrían cualquier cosa que pudiera caer al suelo de alguna manera, y eso
 
-sera quitado despus de todo lo dems.
+sería quitado después de todo lo demás”.
 
 Descolgar a un hombre a
 
-travs del techo era un mecanismo sumamente extrao e impactante, pero
+través del techo era un mecanismo sumamente extrańo e impactante, pero
 
 contribuye al comentario que tenemos que hacer ahora. Si queremos que nuestras
 
@@ -648,31 +648,31 @@ almas sean salvadas, no debemos ser demasiado escrupulosos ni delicados respecto
 
 a los convencionalismos, reglas y cosas apropiadas, pues el reino de los cielos
 
-sufre violencia. Tenemos que decidirnos a esto: Todo lo que se interponga
+sufre violencia. Tenemos que decidirnos a esto: “Todo lo que se interponga
 
 entre el alma y su Dios tiene que ser destrozado a golpes o porrazos: no
 
-importa qu tejas tengan que ser quitadas, qu yeso deba ser perforado, o qu
+importa qué tejas tengan que ser quitadas, qué yeso deba ser perforado, o qué
 
-tablas hayan de ser quebradas, o en qu labor, o en qu tribulacin, o en qu
+tablas hayan de ser quebradas, o en qué labor, o en qué tribulación, o en qué
 
 gasto tengamos que incurrir; el alma es demasiado preciosa para nosotros para
 
-que nos paremos a hacer preguntas corteses. Nuestra poltica es hacerlo si en
+que nos paremos a hacer preguntas corteses. Nuestra política es hacerlo si en
 
-alguna manera podamos hacer salvos a algunos de ellos. Piel por piel, s, todo
+alguna manera podamos hacer salvos a algunos de ellos. Piel por piel, sí, todo
 
-lo que tenemos no es nada en comparacin con el alma de un hombre. Cuando
+lo que tenemos no es nada en comparación con el alma de un hombre”. Cuando
 
 cuatro corazones verdaderos tienen puesta la mira en el bien espiritual de un pecador,
 
-su hambre santa abrir boquetes en las paredes de piedra o en los techos de las
+su hambre santa abrirá boquetes en las paredes de piedra o en los techos de las
 
 casas.
 
 No tengo ninguna duda de
 
-que era una difcil tarea subir al paraltico; perforar el techo y quitar las
+que era una difícil tarea subir al paralítico; perforar el techo y quitar las
 
 tejas con sumo cuidado tiene que haber sido una tarea laboriosa y tiene que
 
@@ -680,65 +680,65 @@ haber requerido mucha habilidad, pero, con todo, la obra fue realizada y el
 
 objetivo fue logrado. No debemos detenernos nunca ante las dificultades; sin
 
-importar cun dura sea la tarea, tiene que ser siempre ms difcil para
+importar cuán dura sea la tarea, tiene que ser siempre más difícil para
 
-nosotros dejar que un alma perezca que trabajar en pro de su liberacin de la
+nosotros dejar que un alma perezca que trabajar en pro de su liberación de la
 
-forma ms abnegada.
+forma más abnegada.
 
 Los porteadores
 
-realizaron una accin muy singular. Quin hubiera pensado en perforar un
+realizaron una acción muy singular. żQuién hubiera pensado en perforar un
 
 techo? Nadie sino aquellos que amaban mucho y que mucho deseaban beneficiar al
 
 enfermo. Oh, que Dios hiciera que intentemos cosas singulares en pro de la
 
-salvacin de las almas. Esperemos que brote una santa inventiva en la iglesia,
+salvación de las almas. Esperemos que brote una santa inventiva en la iglesia,
 
 una sagrada creatividad puesta al servicio de ganar los corazones de los
 
-hombres. Le pareci a su generacin una cosa singular cuando John Wesley se
+hombres. Le pareció a su generación una cosa singular cuando John Wesley se
 
-par junto a la tumba de su padre y predic en Epworth. Gloria sea dada a Dios
+paró junto a la tumba de su padre y predicó en Epworth. Gloria sea dada a Dios
 
-porque tuvo el valor de predicar al aire libre. Pareci algo extraordinario
+porque tuvo el valor de predicar al aire libre. Pareció algo extraordinario
 
 cuando ciertos ministros predicaban sermones en los teatros; pero es un feliz
 
 asunto que los pecadores sean alcanzados por tales irregularidades que bien
 
-pudieran haber escapado de todos los dems instrumentos utilizados. Hemos de
+pudieran haber escapado de todos los demás instrumentos utilizados. Hemos de
 
 sentir nuestros corazones llenos de celo por Dios, y de amor por las almas, y
 
 pronto seremos conducidos a adoptar algunos medios que otros pudieran criticar,
 
-pero que Jesucristo aceptar.
+pero que Jesucristo aceptará.
 
-Despus de todo, el
+Después de todo, el
 
-mtodo que los cuatro amigos siguieron result ser sumamente apropiado a sus
+método que los cuatro amigos siguieron resultó ser sumamente apropiado a sus
 
 habilidades. Yo supongo que eran cuatro individuos muy fuertes para quienes la
 
-carga no representaba un gran peso, y la labor de excavacin fue para ellos
+carga no representaba un gran peso, y la labor de excavación fue para ellos
 
-relativamente fcil. El mtodo se adaptaba exactamente a sus capacidades. Y
+relativamente fácil. El método se adaptaba exactamente a sus capacidades. żY
 
-qu hicieron cuando descolgaron al hombre? Contemplar la escena y admirarla?
+qué hicieron cuando descolgaron al hombre? żContemplar la escena y admirarla?
 
-Yo no leo que dijeran una sola palabra, y con todo, lo que hicieron bast: las habilidades
+Yo no leo que dijeran una sola palabra, y con todo, lo que hicieron bastó: las habilidades
 
 de aquellos hombres para izar y cargar realizaron la obra necesaria. Algunos de
 
-ustedes dicen: Ah, nosotros no podemos ser de ninguna utilidad; desearamos
+ustedes dicen: “Ah, nosotros no podemos ser de ninguna utilidad; desearíamos
 
-poder predicar. Aquellos hombres no podan predicar pero no necesitaron
+poder predicar”. Aquellos hombres no podían predicar pero no necesitaron
 
-predicar. Ellos descolgaron al paraltico y con eso su obra fue consumada.
+predicar. Ellos descolgaron al paralítico y con eso su obra fue consumada.
 
-Ellos no podan predicar, pero podan sostener una cuerda.
+Ellos no podían predicar, pero podían sostener una cuerda.
 
 Necesitamos en la
 
@@ -750,37 +750,37 @@ pudiera ser, no pueden hablar, pero pueden llorar; hombres que no pueden
 
 quebrantar con su lenguaje los corazones de otros hombres, pero que con su
 
-compasin rompen sus propios corazones. En el caso que estamos considerando no
+compasión rompen sus propios corazones. En el caso que estamos considerando no
 
-hubo ninguna necesidad de suplicarle a Jess: Jess, hijo de David, mira
+hubo ninguna necesidad de suplicarle a Jesús: “Jesús, hijo de David, mira
 
-arriba, pues un hombre est siendo descolgado y Te necesita. No hubo ninguna
+arriba, pues un hombre está siendo descolgado y Te necesita”. No hubo ninguna
 
-necesidad de argumentar que el paciente haba estado enfermo durante muchos
+necesidad de argumentar que el paciente había estado enfermo durante muchos
 
-aos. No sabemos si el propio hombre dijera una sola palabra. Indefenso y
+ańos. No sabemos si el propio hombre dijera una sola palabra. Indefenso y
 
-paralizado, no tena el vigor de convertirse en un suplicante. Ellos colocaron
+paralizado, no tenía el vigor de convertirse en un suplicante. Ellos colocaron
 
 su cuerpo casi inerte ante la mirada del Salvador, y ese fue un recurso que
 
-bast: su triste condicin fue ms elocuente que las palabras. Oh, corazones
+bastó: su triste condición fue más elocuente que las palabras. Oh, corazones
 
-que aman a los pecadores, pongan su condicin perdida delante de Jess; lleven
+que aman a los pecadores, pongan su condición perdida delante de Jesús; lleven
 
-sus casos tal como estn delante del Salvador; si sus lenguas tartamudean, sus
+sus casos tal como están delante del Salvador; si sus lenguas tartamudean, sus
 
-corazones prevalecern; si ustedes ni siquiera pudieran hablarle al propio
+corazones prevalecerán; si ustedes ni siquiera pudieran hablarle al propio
 
-Cristo, como desearan, porque no tienen el don de la oracin, con todo, si sus
+Cristo, como desearían, porque no tienen el don de la oración, con todo, si sus
 
-fuertes deseos brotaran del espritu de oracin, no podran fallar. Que Dios
+fuertes deseos brotaran del espíritu de oración, no podrían fallar. Que Dios
 
-nos ayude a utilizar los medios que estn a nuestro alcance, y que no nos
+nos ayude a utilizar los medios que estén a nuestro alcance, y que no nos
 
 sentemos ociosamente para lamentar la carencia de los poderes que no poseemos.
 
-Tal vez sera peligroso que poseyramos las habilidades que ambicionamos; es
+Tal vez sería peligroso que poseyéramos las habilidades que ambicionamos; es
 
 siempre seguro consagrar las que tenemos.
 
@@ -792,11 +792,11 @@ debemos llegar a una importante verdad. Podemos deducir con seguridad del
 
 relato QUE
 
-LA RAZ
+LA RAÍZ
 
 DE
 
-LA PARALSIS
+LA PARALÍSIS
 
 ESPIRITUAL
 
@@ -804,33 +804,33 @@ YACE GENERALMENTE EN EL PECADO QUE NO HA SIDO
 
 PERDONADO.
 
-Jess tena la intencin
+Jesús tenía la intención
 
-de sanar al paraltico, pero lo hizo diciendo ante todo: Tus pecados te son
+de sanar al paralítico, pero lo hizo diciendo ante todo: “Tus pecados te son
 
-perdonados. En esta casa de oracin hay algunos esta maana que estn
+perdonados”. En esta casa de oración hay algunos esta mańana que están
 
-paralizados espiritualmente; tienen ojos y ven el Evangelio; tienen odos y lo
+paralizados espiritualmente; tienen ojos y ven el Evangelio; tienen oídos y lo
 
-han odo, e incluso lo han odo atentamente; pero estn tan paralizados que les
+han oído, e incluso lo han oído atentamente; pero están tan paralizados que les
 
-dirn -y lo dirn honestamente- que no pueden aferrarse a la promesa de Dios; que
+dirán -y lo dirán honestamente- que no pueden aferrarse a la promesa de Dios; que
 
-no pueden creer en Jess para la salvacin de sus almas. Si ustedes los exhortaran
+no pueden creer en Jesús para la salvación de sus almas. Si ustedes los exhortaran
 
-a orar, responderan: Procuramos orar, pero la nuestra no es una oracin
+a orar, responderían: “Procuramos orar, pero la nuestra no es una oración
 
-aceptable. Si les pidieran que tengan confianza, les dirn, aunque tal vez no
+aceptable”. Si les pidieran que tengan confianza, les dirán, aunque tal vez no
 
-se los digan con tantas palabras, que estn entregados a la desesperacin. Su
+se los digan con tantas palabras, que están entregados a la desesperación. Su
 
 triste cantinela es:
 
-Yo quisiera cantar, pero no puedo;
+“Yo quisiera cantar, pero no puedo;
 
 Yo quisiera orar, pero no puedo;
 
-Pues Satans me encuentra cuando intento,
+Pues Satanás me encuentra cuando intento,
 
 Y espanta a mi alma.
 
@@ -838,49 +838,49 @@ Yo quisiera arrepentirme, pero no puedo,
 
 Aunque me esfuerzo a menudo;
 
-Este ptreo corazn no cede nunca
+Este pétreo corazón no cede nunca
 
-Hasta que Jess lo ablanda.
+Hasta que Jesús lo ablanda.
 
 Yo quisiera amar, pero no puedo,
 
-Aunque sea atrado por el amor divino;
+Aunque sea atraído por el amor divino;
 
-Ningn argumento tiene el poder de mover
+Ningún argumento tiene el poder de mover
 
-A un alma tan ruin como la ma.
+A un alma tan ruin como la mía.
 
-Oh, que pudiera creer!
+ˇOh, que pudiera creer!
 
-Entonces todo sera fcil;
+Entonces todo sería fácil;
 
-Yo quisiera, pero no puedo; Seor, alviame;
+Yo quisiera, pero no puedo; Seńor, alíviame;
 
-Mi ayuda ha de venir de Ti.
+Mi ayuda ha de venir de Ti”.
 
 El fondo de esta
 
-parlisis es el pecado en la conciencia que obra muerte en ellos. Ellos son
+parálisis es el pecado en la conciencia que obra muerte en ellos. Ellos son
 
 sensibles respecto a su culpa, pero son impotentes para creer que la fuente
 
-carmes puede quitarla; slo estn vivos para la afliccin, el desaliento y la
+carmesí puede quitarla; sólo están vivos para la aflicción, el desaliento y la
 
-agona. El pecado los paraliza con la desesperacin. Les garantizo que en esta
+agonía. El pecado los paraliza con la desesperación. Les garantizo que en esta
 
-desesperacin se encuentra contenido en gran manera el elemento de la
+desesperación se encuentra contenido en gran manera el elemento de la
 
-incredulidad, que es pecaminoso; pero yo espero que tambin est contenida all
+incredulidad, que es pecaminoso; pero yo espero que también esté contenida allí
 
 una sincera medida de arrepentimiento que acarrea consigo la esperanza de algo
 
-mejor. Nuestros pobres paralticos despiertos esperan algunas veces poder ser
+mejor. Nuestros pobres paralíticos despiertos esperan algunas veces poder ser
 
 perdonados, pero no pueden creerlo; no pueden regocijarse; no pueden arrojarse
 
-sobre Jess; estn completamente sin fuerzas. Ahora, el fondo de ello, lo
+sobre Jesús; están completamente sin fuerzas. Ahora, el fondo de ello, lo
 
-repito, est en el pecado no perdonado, y yo les suplico sinceramente a ustedes,
+repito, está en el pecado no perdonado, y yo les suplico sinceramente a ustedes,
 
 que
 
@@ -888,33 +888,33 @@ aman
 
 al Salvador, que sean denodados en buscar el
 
-perdn para estas personas paralizadas. Ustedes me dicen que
+perdón para estas personas paralizadas. Ustedes me dicen que
 
 yo
 
 debo ser denodado; en efecto he de
 
-serlo; y en efecto deseo serlo; pero, hermanos, sus casos parecieran estar ms
+serlo; y en efecto deseo serlo; pero, hermanos, sus casos parecieran estar más
 
-all de la esfera de accin del ministro; el Espritu Santo determina usar
+allá de la esfera de acción del ministro; el Espíritu Santo determina usar
 
-otras agencias en su salvacin. Han odo la palabra predicada pblicamente;
+otras agencias en su salvación. Han oído la palabra predicada públicamente;
 
-ahora necesitan una consolacin y una ayuda privadas que provengan de tres o
+ahora necesitan una consolación y una ayuda privadas que provengan de tres o
 
-cuatro personas. Prstennos su ayuda, ustedes, hermanos denodados; formen sus
+cuatro personas. Préstennos su ayuda, ustedes, hermanos denodados; formen sus
 
 grupos de cuatro; agarren los colchones de estas personas que desean ser
 
-salvadas, pero que sienten que no pueden creer. Que el Seor, el Espritu
+salvadas, pero que sienten que no pueden creer. Que el Seńor, el Espíritu
 
-Santo, los convierta a ustedes en los instrumentos de conducirlos al perdn y a
+Santo, los convierta a ustedes en los instrumentos de conducirlos al perdón y a
 
-la eterna salvacin. Han estado postrados en espera durante mucho tiempo; sin
+la eterna salvación. Han estado postrados en espera durante mucho tiempo; sin
 
-embargo, su pecado los mantiene todava donde estn; su culpa les impide
+embargo, su pecado los mantiene todavía donde están; su culpa les impide
 
-aferrarse a Cristo; all est el punto, y es para tales casos que yo invoco
+aferrarse a Cristo; allí está el punto, y es para tales casos que yo invoco
 
 sinceramente la ayuda de mis hermanos.
 
@@ -922,221 +922,221 @@ IV.
 
 Procedamos
 
-a notar, en cuarto lugar, que JESS PUEDE QUITAR TANTO EL PECADO COMO
+a notar, en cuarto lugar, que JESÚS PUEDE QUITAR TANTO EL PECADO COMO
 
-LA PARLISIS
+LA PARÁLISIS
 
 EN
 
-UN SOLO INSTANTE. La ocupacin de los cuatro porteadores era llevar al hombre a
+UN SOLO INSTANTE. La ocupación de los cuatro porteadores era llevar al hombre a
 
-Cristo pero ah terminaba su poder. Nuestra parte es llevar al pecador culpable
+Cristo pero ahí terminaba su poder. Nuestra parte es llevar al pecador culpable
 
-al Salvador; all termina nuestro poder. Gracias a Dios porque Cristo comienza
+al Salvador; allí termina nuestro poder. Gracias a Dios porque Cristo comienza
 
 cuando
 
 nosotros
 
-terminamos y l obra
+terminamos y Él obra
 
-muy gloriosamente. Observen que l comenz diciendo: Tus pecados te son
+muy gloriosamente. Observen que Él comenzó diciendo: “Tus pecados te son
 
-perdonados. Puso el hacha a la raz; no deseaba que los pecados del hombre
+perdonados”. Puso el hacha a la raíz; no deseaba que los pecados del hombre
 
 fueran perdonados, ni expresaba un buen deseo en ese sentido, sino que
 
-pronunci una absolucin en virtud de esa autoridad de la que estaba revestido
+pronunció una absolución en virtud de esa autoridad de la que estaba revestido
 
-como el Salvador. Los pecados de aquel hombre, all, en ese instante, cesaron
+como el Salvador. Los pecados de aquel hombre, allí, en ese instante, cesaron
 
-de existir y l fue justificado a los ojos de Dios. Querido oyente, crees t que
+de existir y él fue justificado a los ojos de Dios. Querido oyente, żcrees tú que
 
-Cristo hizo eso por el paraltico? Entonces yo te exhorto a que creas en algo
+Cristo hizo eso por el paralítico? Entonces yo te exhorto a que creas en algo
 
-ms, es decir, que si en la tierra Cristo tena poder para perdonar los pecados
+más, es decir, que si en la tierra Cristo tenía poder para perdonar los pecados
 
-antes de haber ofrecido una expiacin, mucho mayor poder tiene para hacer eso
+antes de haber ofrecido una expiación, mucho mayor poder tiene para hacer eso
 
-ahora que ha derramado Su sangre y ha dicho: Consumado es, y ha entrado en Su
+ahora que ha derramado Su sangre y ha dicho: “Consumado es”, y ha entrado en Su
 
-gloria y est a la diestra del Padre. l es exaltado en lo alto, para dar
+gloria y está a la diestra del Padre. Él es exaltado en lo alto, para dar
 
-arrepentimiento y remisin de pecado. Si l enviara Su Espritu a tu alma para
+arrepentimiento y remisión de pecado. Si Él enviara Su Espíritu a tu alma para
 
-revelarse en ti, t seras absuelto enteramente en un instante. Te ha
+revelarse en ti, tú serías absuelto enteramente en un instante. żTe ha
 
-ennegrecido la blasfemia? Acaso te mancha una larga vida de infidelidad? Has
+ennegrecido la blasfemia? żAcaso te mancha una larga vida de infidelidad? żHas
 
-sido licencioso? Has sido abominablemente perverso? Una palabra puede
+sido licencioso? żHas sido abominablemente perverso? Una palabra puede
 
-absolverte, una palabra salida de esos amados labios que dijeron: Padre,
+absolverte, una palabra salida de esos amados labios que dijeron: “Padre,
 
-perdnalos, porque no saben lo que hacen. Yo te exhorto a que pidas esa
+perdónalos, porque no saben lo que hacen”. Yo te exhorto a que pidas esa
 
-palabra absolutoria. Ningn sacerdote terrenal puede drtela pero el grandioso
+palabra absolutoria. Ningún sacerdote terrenal puede dártela pero el grandioso
 
-Sumo Sacerdote, el Seor Jess, puede decirla de inmediato. Ustedes, grupos de
+Sumo Sacerdote, el Seńor Jesús, puede decirla de inmediato. Ustedes, grupos de
 
-dos y de cuatro personas, que tienen en la mira la salvacin de los hombres,
+dos y de cuatro personas, que tienen en la mira la salvación de los hombres,
 
-aqu hay un estmulo para ustedes. Oren por ellos ahora, mientras el Evangelio
+aquí hay un estímulo para ustedes. Oren por ellos ahora, mientras el Evangelio
 
-est siendo predicado a sus odos; oren por ellos da y noche, y pongan las
+está siendo predicado a sus oídos; oren por ellos día y noche, y pongan las
 
-buenas noticias constantemente delante de ellos, pues Jess es todava capaz de
+buenas noticias constantemente delante de ellos, pues Jesús es todavía capaz de
 
-salvar perpetuamente a los que por l se acercan a Dios.
+“salvar perpetuamente a los que por él se acercan a Dios”.
 
-Despus de que nuestro
+Después de que nuestro
 
-Seor hubo suprimido la raz del mal, observen que luego quit la propia
+Seńor hubo suprimido la raíz del mal, observen que luego quitó la propia
 
-parlisis, que desapareci al instante. Cada miembro del cuerpo del hombre fue
+parálisis, que desapareció al instante. Cada miembro del cuerpo del hombre fue
 
-restablecido a una condicin saludable; pudo ponerse de pie, pudo caminar, pudo
+restablecido a una condición saludable; pudo ponerse de pie, pudo caminar, pudo
 
-alzar su lecho, y tanto los nervios como los msculos cobraron un inusitado
+alzar su lecho, y tanto los nervios como los músculos cobraron un inusitado
 
-vigor. Un momento basta, si Jess habla, para hacer feliz al que desespera y
+vigor. Un momento basta, si Jesús habla, para hacer feliz al que desespera y
 
-para llenar de confianza al incrdulo. Lo que no podemos hacer
+para llenar de confianza al incrédulo. Lo que no podemos hacer
 
 nosotros
 
 con nuestros razonamientos y
 
-splicas y ni siquiera con la letra de la promesa de Dios, Cristo puede hacerlo
+súplicas y ni siquiera con la letra de la promesa de Dios, Cristo puede hacerlo
 
-en un solo instante por medio de Su Santo Espritu, y ha sido nuestro dicha
+en un solo instante por medio de Su Santo Espíritu, y ha sido nuestro dicha
 
 verlo realizado. Este es el milagro permanente de la iglesia, realizado por
 
-Cristo hoy al igual que antes. Almas paralticas que no podan ni querer ni
+Cristo hoy al igual que antes. Almas paralíticas que no podían ni querer ni
 
 hacer, han sido capaces de hacer valientemente y de querer con una
 
-determinacin solemne. El Seor ha derramado poder en los desfallecidos y a
+determinación solemne. El Seńor ha derramado poder en los desfallecidos y a
 
-quienes carecan de poder les ha aumentado la fuerza. l puede hacerlo todava.
+quienes carecían de poder les ha aumentado la fuerza. Él puede hacerlo todavía.
 
-Lo repito para los espritus amorosos que estn buscando el bien de otros, en
+Lo repito para los espíritus amorosos que están buscando el bien de otros, en
 
 espera de que esto los anime. Tal vez no tengan que esperar largo tiempo para
 
-que ocurran las conversiones que estn buscando; pudiera ser que antes de que
+que ocurran las conversiones que están buscando; pudiera ser que antes de que
 
-termine otro domingo la persona por la que oran sea llevada a Jess; o si tuvieran
+termine otro domingo la persona por la que oran sea llevada a Jesús; o si tuvieran
 
-que esperar un poco, la espera les recompensar con creces, y mientras tanto,
+que esperar un poco, la espera les recompensará con creces, y mientras tanto,
 
-recuerden que nunca habl en secreto, en un lugar oscuro de la tierra; no dijo
+recuerden que nunca habló en secreto, en un lugar oscuro de la tierra; no dijo
 
-a la descendencia de Jacob: En vano me buscis.
+a la descendencia de Jacob: “En vano me buscáis”.
 
 V.
 
 Proseguimos,
 
-y nos acercamos a una conclusin: DOQUIERA QUE NUESTRO SEOR REALIZA EL DOBLE
+y nos acercamos a una conclusión: DOQUIERA QUE NUESTRO SEŃOR REALIZA EL DOBLE
 
-MILAGRO, SER VISIBLE. l perdon los pecados del hombre y al mismo tiempo quit
+MILAGRO, SERÁ VISIBLE. Él perdonó los pecados del hombre y al mismo tiempo quitó
 
-su enfermedad. Cmo fue evidente esto? Yo no tengo ninguna duda de que el
+su enfermedad. żCómo fue evidente esto? Yo no tengo ninguna duda de que el
 
-perdn del pecado del hombre fue mejor sabido por l mismo; pero posiblemente
+perdón del pecado del hombre fue mejor sabido por él mismo; pero posiblemente
 
-aquellos que vieron ese rostro resplandeciente que haba estado antes tan
+aquellos que vieron ese rostro resplandeciente que había estado antes tan
 
-triste pudieran haber notado que la palabra de absolucin fue absorbida en su
+triste pudieran haber notado que la palabra de absolución fue absorbida en su
 
-alma como se absorbe la lluvia en la tierra sedienta. Tus pecados te son
+alma como se absorbe la lluvia en la tierra sedienta. “Tus pecados te son
 
-perdonados, es la frase que cay sobre l como un roco del cielo; el varn
+perdonados”, es la frase que cayó sobre él como un rocío del cielo; el varón
 
-crey en la sagrada declaracin y sus ojos brillaron. Casi hubiera podido
+creyó en la sagrada declaración y sus ojos brillaron. Casi hubiera podido
 
-sentir indiferencia respecto a si permaneca paralizado o no, pues era tanto el
+sentir indiferencia respecto a si permanecía paralizado o no, pues era tanto el
 
-gozo de ser perdonado, de ser perdonado por el propio Seor. Eso era suficiente,
+gozo de ser perdonado, de ser perdonado por el propio Seńor. Eso era suficiente,
 
-era ms que suficiente para l; pero no era suficiente para el Salvador; por
+era más que suficiente para él; pero no era suficiente para el Salvador; por
 
-eso le orden que tomara su camilla y que caminara, pues le haba dado la fuerza
+eso le ordenó que tomara su camilla y que caminara, pues le había dado la fuerza
 
-para hacerlo. La curacin del hombre qued demostrada por su obediencia. Para
+para hacerlo. La curación del hombre quedó demostrada por su obediencia. Para
 
-todos los espectadores una activa obediencia se convirti abiertamente en una
+todos los espectadores una activa obediencia se convirtió abiertamente en una
 
-prueba indisputable de la restauracin del pobre varn. Noten que nuestro Seor
+prueba indisputable de la restauración del pobre varón. Noten que nuestro Seńor
 
-le orden que se levantara, y l se levant; el hombre no tena ningn poder
+le ordenó que se levantara, y él se levantó; el hombre no tenía ningún poder
 
-para hacerlo excepto ese poder que acompaa a las instrucciones divinas. Se
+para hacerlo excepto ese poder que acompańa a las instrucciones divinas. Se
 
-levant porque Cristo le dijo: Levntate. Luego l dobl esa miserable
+levantó porque Cristo le dijo: “Levántate”. Luego él dobló esa miserable
 
 colchoneta: la palabra usada nos muestra que era una cosa muy pobre,
 
-insignificante y miserable, y la enroll tal como el Salvador se lo haba ordenado,
+insignificante y miserable, y la enrolló tal como el Salvador se lo había ordenado,
 
-la puso sobre su hombro y se march a casa. Su primer impulso debe de haber
+la puso sobre su hombro y se marchó a casa. Su primer impulso debe de haber
 
-sido arrojarse a los pies del Salvador, y decirle: Bendito sea Tu nombre;
+sido arrojarse a los pies del Salvador, y decirle: “Bendito sea Tu nombre”;
 
-pero el Maestro le dijo: vete a tu casa; y yo no encuentro que se haya
+pero el Maestro le dijo: “vete a tu casa”; y yo no encuentro que se haya
 
-quedado para rendirle una agradecida pleitesa, sino que abrindose paso con
+quedado para rendirle una agradecida pleitesía, sino que abriéndose paso con
 
-los codos por entre la multitud, con su carga en la espalda, procedi a irse a
+los codos por entre la multitud, con su carga en la espalda, procedió a irse a
 
-su casa tal como le fue dicho, y lo hizo sin discusin o cuestionamiento.
+su casa tal como le fue dicho, y lo hizo sin discusión o cuestionamiento.
 
-Cumpli la orden de su Seor, y lo hizo con mucha alegra. Oh, cun
+Cumplió la orden de su Seńor, y lo hizo con mucha alegría. ˇOh, cuán
 
-alegremente lo hizo! Nadie podra saberlo, salvo quienes han sido restaurados
+alegremente lo hizo! Nadie podría saberlo, salvo quienes han sido restaurados
 
-de igual manera. As que la obediencia es la verdadera seal del pecado
+de igual manera. Así que la obediencia es la verdadera seńal del pecado
 
-perdonado y de la parlisis erradicada del corazn. Si t has sido realmente
+perdonado y de la parálisis erradicada del corazón. Si tú has sido realmente
 
-salvado hars lo que Jess te ordene; tu peticin ser: Seor, qu quieres
+salvado harás lo que Jesús te ordene; tu petición será: “Seńor, żqué quieres
 
-que yo haga? y una vez confirmado, lo hars con toda seguridad. T me dices
+que yo haga?” y una vez confirmado, lo harás con toda seguridad. Tú me dices
 
-que Cristo te ha perdonado, y no obstante vives en rebelin en contra de Sus
+que Cristo te ha perdonado, y no obstante vives en rebelión en contra de Sus
 
-mandamientos; cmo podra creerte? T dices que eres un hombre salvo, y, con
+mandamientos; żcómo podría creerte? Tú dices que eres un hombre salvo, y, con
 
 todo, eriges intencionalmente tu propia voluntad en contra de la voluntad de
 
-Cristo; entonces, qu evidencia me das de lo que dices? Acaso no tengo ms
+Cristo; entonces, żqué evidencia me das de lo que dices? żAcaso no tengo más
 
 bien una clara evidencia de que no dices la verdad? La obediencia a Cristo que
 
 es abierta, cuidadosa, pronta y alegre se convierte en la prueba de la
 
-maravillosa obra que Jess obra en el alma.
+maravillosa obra que Jesús obra en el alma.
 
 VI.
 
 Por
 
-ltimo, TODO ESTO TIENDE A GLORIFICAR A DIOS.
+último, TODO ESTO TIENDE A GLORIFICAR A DIOS.
 
 Esos cuatro varones
 
-fueron el medio indirecto de dar mucha honra a Dios y mucha gloria a Jess, y
+fueron el medio indirecto de dar mucha honra a Dios y mucha gloria a Jesús, y
 
 ellos, no lo dudo, glorificaron a Dios en sus propios corazones en el propio
 
-techo de la casa. Dichosos hombres por haber sido de tanto servicio para el
+techo de la casa. ˇDichosos hombres por haber sido de tanto servicio para el
 
-amigo que se haba visto obligado a guardar cama! Quin ms se uni en la
+amigo que se había visto obligado a guardar cama! żQuién más se unió en la
 
-glorificacin a Dios? Pues bien, primero el propio hombre que fue restaurado.
+glorificación a Dios? Pues bien, primero el propio hombre que fue restaurado.
 
-Acaso no glorific a Dios cada uno de los miembros de su cuerpo? Me parece
+żAcaso no glorificó a Dios cada uno de los miembros de su cuerpo? ˇMe parece
 
 que lo veo! Pone un pie en el suelo para la gloria de Dios, apoya luego el otro
 
@@ -1148,155 +1148,155 @@ canta y salta para la gloria de Dios. Cuando un hombre es salvado su ser humano
 
 entero glorifica a Dios; se satura con una vida nacida de nuevo que refulge en
 
-cada uno de los componentes: espritu, alma y cuerpo. Como un heredero del
+cada uno de los componentes: espíritu, alma y cuerpo. Como un heredero del
 
-cielo, l aporta gloria al Grandioso Padre que lo ha adoptado en la familia y
+cielo, él aporta gloria al Grandioso Padre que lo ha adoptado en la familia y
 
 respira y come y bebe para alabanza de Dios. Todos nos alegramos cuando un
 
-pecador es llevado a la iglesia de Dios, pero ninguno de nosotros est tan
+pecador es llevado a la iglesia de Dios, pero ninguno de nosotros está tan
 
-gozoso y agradecido como lo est l; todos quisiramos alabar a Dios, pero
+gozoso y agradecido como lo está él; todos quisiéramos alabar a Dios, pero
 
-l
+él
 
-siente que debe alabarlo ms
+siente que debe alabarlo más
 
-notoriamente, y lo har.
+notoriamente, y lo hará.
 
-A continuacin, quin
+A continuación, żquién
 
-ms glorific a Dios? El texto no lo dice, pero nos sentimos seguros de que su
+más glorificó a Dios? El texto no lo dice, pero nos sentimos seguros de que su
 
-familia lo hizo pues se fue a su propia casa. Supondremos que tena una esposa.
+familia lo hizo pues se fue a su propia casa. Supondremos que tenía una esposa.
 
-Aquella maana cuando los cuatro amigos vinieron y lo pusieron en el lecho, y
+Aquella mańana cuando los cuatro amigos vinieron y lo pusieron en el lecho, y
 
 se lo llevaron, pudiera ser que ella meneara su cabeza en muestra de amorosa
 
-ansiedad, y me atrevera a decir que dijo: Estoy medio temerosa de confiarlo a
+ansiedad, y me atrevería a decir que dijo: “Estoy medio temerosa de confiarlo a
 
 ustedes. Mi pobre, pobre criatura, me aterra su encuentro con la muchedumbre.
 
-Me temo que es una locura esperar el xito. Espero que les vaya bien, pero
+Me temo que es una locura esperar el éxito. Espero que les vaya bien, pero
 
-tiemblo. Sostengan bien la cama; asegrense que no se les caiga. Si lo
+tiemblo. Sostengan bien la cama; asegúrense que no se les caiga. Si lo
 
-descuelgan a travs del techo sostengan firmemente las cuerdas, tengan cuidado
+descuelgan a través del techo sostengan firmemente las cuerdas, tengan cuidado
 
-de que no le ocurra ningn accidente a mi pobre esposo postrado en cama; as
+de que no le ocurra ningún accidente a mi pobre esposo postrado en cama; así
 
-como est ya est lo suficientemente mal, entonces no le causen ms miseria.
+como está ya está lo suficientemente mal, entonces no le causen más miseria”.
 
 Pero cuando lo vio regresar a casa, caminando y con la cama sobre su espalda,
 
-pueden figurarse su deleite? Cmo comenzara a cantar, y alabar y bendecir al
+żpueden figurarse su deleite? Cómo comenzaría a cantar, y alabar y bendecir al
 
-Seor Jehov-Rafa, que haba sanado a su ser querido. Si hubiesen niitos por
+Seńor Jehová-Rafa, que había sanado a su ser querido. Si hubiesen nińitos por
 
-ah jugando frente a la casa, cmo daran voces de alegra: aqu est pap;
+ahí jugando frente a la casa, cómo darían voces de alegría: “aquí está papá;
 
-aqu est pap caminando de nuevo, y de regreso en casa con el lecho sobre su
+aquí está papá caminando de nuevo, y de regreso en casa con el lecho sobre su
 
-espalda; est sano otra vez, tal como sola ser cuando ramos pequeitos. Qu
+espalda; está sano otra vez, tal como solía ser cuando éramos pequeńitos”. ˇQué
 
-casa tan alegre! Se juntaran en torno a l, todos ellos, esposa e hijos, y
+casa tan alegre! Se juntarían en torno a él, todos ellos, esposa e hijos, y
 
-amigos y vecinos, y comenzaran a cantar: Bendice, alma ma, a Jehov, y
+amigos y vecinos, y comenzarían a cantar: “Bendice, alma mía, a Jehová, y
 
-bendiga todo mi ser su santo nombre. Bendice, alma ma, a Jehov, y no olvides
+bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, y no olvides
 
-ninguno de sus beneficios. l es quien perdona todas tus iniquidades, el que
+ninguno de sus beneficios. Él es quien perdona todas tus iniquidades, el que
 
-sana todas tus dolencias. Cmo cantara el hombre esos versculos,
+sana todas tus dolencias”. Cómo cantaría el hombre esos versículos,
 
-regocijndose primero en el perdn y despus en la curacin, y preguntndose
+regocijándose primero en el perdón y después en la curación, y preguntándose
 
-cmo es que David saba tanto al respecto y cmo haba expresado su caso con
+cómo es que David sabía tanto al respecto y cómo había expresado su caso con
 
 palabras tan apropiadas.
 
-Bien, pero no termin
+Bien, pero no terminó
 
-all. Una esposa y una familia forman slo una parte del jubiloso coro de
+allí. Una esposa y una familia forman sólo una parte del jubiloso coro de
 
 alabanza, aunque una parte muy melodiosa. Hay otros corazones adoradores que se
 
-unen en la glorificacin del Seor sanador. Los discpulos que rodeaban al
+unen en la glorificación del Seńor sanador. Los discípulos que rodeaban al
 
-Salvador tambin glorificaban a Dios. Se regocijaron, y se decan unos a otros:
+Salvador también glorificaban a Dios. Se regocijaron, y se decían unos a otros:
 
-Hoy hemos visto maravillas. La iglesia cristiana se llena de sagrada alabanza
+“Hoy hemos visto maravillas”. La iglesia cristiana se llena de sagrada alabanza
 
 cuando un pecador es salvado; aun el propio cielo se alegra.
 
 Pero incluso la gente
 
-comn que andaba por ah glorific a Dios. Esa gente no haba entrado todava
+común que andaba por ahí glorificó a Dios. Esa gente no había entrado todavía
 
-en esa sintona con Cristo que los discpulos sentan, pero fue impactada por
+en esa sintonía con Cristo que los discípulos sentían, pero fue impactada por
 
-la visin de ese gran portento, y ellos tambin no podan evitar decir que Dios
+la visión de ese gran portento, y ellos también no podían evitar decir que Dios
 
-haba obrado grandes maravillas. Yo oro pidiendo que los espectadores, los extranjeros
+había obrado grandes maravillas. Yo oro pidiendo que los espectadores, los extranjeros
 
 de la mancomunidad de Israel, cuando vean que los desalentados son consolados y
 
 que los perdidos son recuperados, se sientan compelidos a dar su testimonio del
 
-poder de la gracia divina, y sean conducidos ellos tambin a ser partcipes de
+poder de la gracia divina, y sean conducidos ellos también a ser partícipes de
 
-eso. Cuando un alma paralizada se llena de agraciada fortaleza canta: Gloria
+eso. Cuando un alma paralizada se llena de agraciada fortaleza canta: “ˇGloria
 
-a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres!
+a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres!”
 
-Ahora, va a ser
+Ahora, żva a ser
 
-necesario que me ponga de pie aqu, y suplique a los cuatro individuos que
+necesario que me ponga de pie aquí, y suplique a los cuatro individuos que
 
-carguen a las pobres almas para llevarlas a Cristo? Tendr que apelar a mis
+carguen a las pobres almas para llevarlas a Cristo? żTendré que apelar a mis
 
-hermanos que aman a su Seor, y decir que se junten para ganar almas? Su
+hermanos que aman a su Seńor, y decir que se junten para ganar almas? Su
 
-humanidad para con el alma paraltica lo reclama, pero su deseo de dar gloria a
+humanidad para con el alma paralítica lo reclama, pero su deseo de dar gloria a
 
 Dios lo exige. Si ustedes fueran en verdad lo que profesan ser, glorificar a
 
-Dios debera ser el ms caro deseo y la ambicin ms excelsa de sus almas. A
+Dios debería ser el más caro deseo y la ambición más excelsa de sus almas. A
 
-menos que sean traidores a mi Seor e inhumanos para con sus semejantes,
+menos que sean traidores a mi Seńor e inhumanos para con sus semejantes,
 
-ustedes captarn el pensamiento prctico que me he esforzado por presentar ante
+ustedes captarán el pensamiento práctico que me he esforzado por presentar ante
 
-ustedes, y buscarn a algunos compaeros cristianos y les dirn: Vamos, oremos
+ustedes, y buscarán a algunos compańeros cristianos y les dirán: “Vamos, oremos
 
-juntos por tal y tal persona, y si saben de algn caso desesperado formarn un
+juntos por tal y tal persona”, y si saben de algún caso desesperado formarán un
 
-sagrado cuarteto para trabajar por su salvacin. Que el poder del Altsimo
+sagrado cuarteto para trabajar por su salvación. Que el poder del Altísimo
 
-habite en ustedes, y quin sabe qu gloria podra recibir el Seor a travs de
+habite en ustedes, ży quién sabe qué gloria podría recibir el Seńor a través de
 
-ustedes? Nunca olviden esta extraa historia del lecho que transportaba al
+ustedes? Nunca olviden esta extrańa historia del lecho que transportaba al
 
 hombre y del hombre que cargaba con su lecho.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 5: 1-26.
+del sermón: Lucas 5: 1-26.
 
 Nota
 
 del traductor:
 
-Escotilln: puerta en el suelo, por ejemplo para bajar
+Escotillón: puerta en el suelo, por ejemplo para bajar
 
 a una bodega.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 5/Septiembre/2012
 

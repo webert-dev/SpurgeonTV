@@ -1,26 +1,26 @@
 # Sermón 986 | Sermón 986
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Victorioso
 
 Emanuel, Emancipador
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Para que abras los ojos de los ciegos, para que saques de la crcel a
+“Para que abras los ojos de los ciegos, para que saques de la cárcel a
 
-los presos, y de casas de prisin a los que moran en tinieblas.   Isaas 42: 7.
+los presos, y de casas de prisión a los que moran en tinieblas”.   Isaías 42: 7.
 
-En una ocasin previa
+En una ocasión previa
 
-vimos que el hombre inconverso est atado
+vimos que el hombre inconverso está atado
 
 con
 
@@ -32,15 +32,15 @@ humillado a todos nosotros y que, a quienes hemos sido liberados por el Hijo, no
 
 haya hecho sentir una renovada gratitud por la gloriosa libertad de ser hijos
 
-de Dios. Triste fue el espectculo del calabozo y de los grilletes, y el
+de Dios. Triste fue el espectáculo del calabozo y de los grilletes, y el
 
-criminal que estaba retenido all, un hombre, un hermano, era nuestra viva imagen.
+criminal que estaba retenido allí, un hombre, un hermano, era nuestra viva imagen.
 
 Es un gran alivio
 
-referirnos ahora a otro tema que, aunque est relacionado, rebosa de alegra y
+referirnos ahora a otro tema que, aunque está relacionado, rebosa de alegría y
 
-de gozo. En aquella ocasin
+de gozo. En aquella ocasión
 
 les
 
@@ -58,31 +58,31 @@ Magna
 
 de la eterna
 
-emancipacin. El caso de la condicin humana encadenada a la roca como Prometeo,
+emancipación. El caso de la condición humana encadenada a la roca como Prometeo,
 
-y vctima de la rapia del buitre del infierno, pareca totalmente irremediable,
+y víctima de la rapińa del buitre del infierno, parecía totalmente irremediable,
 
-y peor an porque el prisionero haca las veces de su propio grillete y
+y peor aún porque el prisionero hacía las veces de su propio grillete y
 
-desdeaba ser libre. Despus de todo lo que han hecho por el hombre la ternura
+desdeńaba ser libre. Después de todo lo que han hecho por el hombre la ternura
 
-de Dios, la simplicidad del Evangelio y el claro y difano mandamiento, s, y
+de Dios, la simplicidad del Evangelio y el claro y diáfano mandamiento, sí, y
 
-despus de todos los truenos de las amenazas, seguidos por las notas seductoras
+después de todos los truenos de las amenazas, seguidos por las notas seductoras
 
 de la misericordia, el cautivo sigue siendo un esclavo voluntario del pecado y
 
-su liberacin pareciera ser algo completamente imposible. Pero para Dios son
+su liberación pareciera ser algo completamente imposible. Pero para Dios son
 
-posibles las cosas que son imposibles para el hombre, y all donde falla la
+posibles las cosas que son imposibles para el hombre, y allí donde falla la
 
-operacin humana, la operacin divina se deleita en ilustrar su propia energa
+operación humana, la operación divina se deleita en ilustrar su propia energía
 
 extraordinaria.
 
 De buen grado examinamos
 
-en este momento las eficaces operaciones de Jess, el Salvador, el verdadero
+en este momento las eficaces operaciones de Jesús, el Salvador, el verdadero
 
 Emanuel Victorioso, que viene para liberar a los hombres de la servidumbre de
 
@@ -92,41 +92,41 @@ I.
 
 Mirando
 
-los primeros versculos de este captulo, vamos a considerar QUIN ES EL QUE
+los primeros versículos de este capítulo, vamos a considerar QUIÉN ES EL QUE
 
-ENVA A JESUCRISTO PARA EFECTUAR
+ENVÍA A JESUCRISTO PARA EFECTUAR
 
 LA
 
-LIBERACIN
+LIBERACIÓN
 
 DE
 
 LOS HIJOS DE LOS HOMBRES,
 
-porque mucho depender de las credenciales del libertador, de la autoridad que
+porque mucho dependerá de las credenciales del libertador, de la autoridad que
 
 lo legitimiza y del poder que lo respalda.
 
 Cantamos con gozo de
 
-corazn al ver que el propio Dios Infinito comision al Seor Jess para que
+corazón al ver que el propio Dios Infinito comisionó al Seńor Jesús para que
 
 fuera el libertador de los hombres, y lo hizo, primero,
 
 en Su capacidad de Creador.
 
-Lean el versculo quinto, y contemplen
+Lean el versículo quinto, y contemplen
 
-al grandioso autor de la comisin del Redentor: As dice Jehov Dios, Creador
+al grandioso autor de la comisión del Redentor: “Así dice Jehová Dios, Creador
 
 de los cielos, y el que los despliega; el que extiende la tierra y sus
 
-productos. Aquel, entonces, que no perdon a Su propio Hijo, sino que lo envi
+productos”. Aquel, entonces, que no perdonó a Su propio Hijo, sino que lo envió
 
-en la embajada de amor, es Jehov, que ha hecho de los cielos un pabelln de
+en la embajada de amor, es Jehová, que ha hecho de los cielos un pabellón de
 
-azur cubierto de oro por el sol y engalanado con las estrellas. Es el mismsimo
+azur cubierto de oro por el sol y engalanado con las estrellas. Es el mismísimo
 
 Ser que lo sostiene todo y que mantiene erguidas las columnas del universo e
 
@@ -134,479 +134,479 @@ impele a la tierra en su majestuoso circuito. Aquel que le dio su lustre a toda
 
 piedra preciosa proveniente de la mina, su vida a toda hoja de hierba, su fruto
 
-a todo rbol, su movimiento a toda bestia y a toda ave -pues podra decirse que
+a todo árbol, su movimiento a toda bestia y a toda ave -pues podría decirse que
 
-todo eso sali de la tierra- l es quien envi al Dios encarnado para abrir
+todo eso salió de la tierra- Él es quien envió al Dios encarnado para abrir
 
-delante de l las puertas de dos batientes y desmenuzar los cerrojos de hierro,
+delante de Él las puertas de dos batientes y desmenuzar los cerrojos de hierro,
 
-para que los esclavos de Satans pudieran escapar de la esclavitud de sus
+para que los esclavos de Satanás pudieran escapar de la esclavitud de sus
 
-pecados. Jess, el Hijo de Dios, viene armado del poder del propio Creador.
+pecados. Jesús, el Hijo de Dios, viene armado del poder del propio Creador.
 
-Regocjense, entonces,
+Regocíjense, entonces,
 
-ustedes que estn perdidos, pues seguramente el poder que pronunci la palabra
+ustedes que están perdidos, pues seguramente el poder que pronunció la palabra
 
 para crear todas la cosas de la nada, puede crearlos a ustedes de nuevo, aunque
 
-no haya nada bueno en ustedes que ayude a la obra divina. Regocjense, ustedes,
+no haya nada bueno en ustedes que ayude a la obra divina. Regocíjense, ustedes,
 
-que estn desfigurados y quebrados como vasijas estropeadas en la rueda del
+que están desfigurados y quebrados como vasijas estropeadas en la rueda del
 
 alfarero, pues su grandioso Creador aplica Sus manos a la obra una segunda vez,
 
-y resuelve formarlos para S, para que muestren Su alabanza. Aquel por quien
+y resuelve formarlos para Sí, para que muestren Su alabanza. Aquel por quien
 
-fueron formados en oculto y entretejidos en lo ms profundo de la tierra, por
+fueron formados en oculto y entretejidos en lo más profundo de la tierra, por
 
-Su obra misteriosa es capaz de crear en ustedes un nuevo corazn, y de infundirles
+Su obra misteriosa es capaz de crear en ustedes un nuevo corazón, y de infundirles
 
-un recto espritu. Acaso no hay esperanza para el oscuro caos de su naturaleza
+un recto espíritu. żAcaso no hay esperanza para el oscuro caos de su naturaleza
 
-cada y para ese corazn que est ahora desordenado y vaco? Hay para Dios
+caída y para ese corazón que está ahora desordenado y vacío? żHay para Dios
 
-alguna cosa difcil? Hay alguna limitacin para Su poder? Si bien es cierto
+alguna cosa difícil? żHay alguna limitación para Su poder? Si bien es cierto
 
 que tus semejantes no pueden regenerarte, por muy exaltados que merezcan ser en
 
-razn del oficio o del carcter, el simple pensamiento de que pudieran hacerlo es
+razón del oficio o del carácter, el simple pensamiento de que pudieran hacerlo es
 
-una blasfemia en contra de la prerrogativa de Aquel que es el nico que puede
+una blasfemia en contra de la prerrogativa de Aquel que es el único que puede
 
-crear o destruir; pero el Espritu del Seor logra la victoria all donde
+crear o destruir; pero el Espíritu del Seńor logra la victoria allí donde
 
-fallan la voluntad del hombre y la sangre y el nacimiento. As dice el Seor: Porque
+fallan la voluntad del hombre y la sangre y el nacimiento. Así dice el Seńor: “Porque
 
-he aqu que yo crear nuevos cielos y nueva tierra; y de lo primero no habr
+he aquí que yo crearé nuevos cielos y nueva tierra; y de lo primero no habrá
 
-memoria, ni ms vendr al pensamiento. Mas os gozaris y os alegraris para
+memoria, ni más vendrá al pensamiento. Mas os gozaréis y os alegraréis para
 
-siempre en las cosas que yo he creado; porque he aqu que yo traigo a Jerusaln
+siempre en las cosas que yo he creado; porque he aquí que yo traigo a Jerusalén
 
-alegra, y a su pueblo gozo.
+alegría, y a su pueblo gozo”.
 
-Qu fue lo que escribi
+żQué fue lo que escribió
 
-Juan en el libro de su visin? Acaso no tiene el mismo propsito? El que
+Juan en el libro de su visión? żAcaso no tiene el mismo propósito? El que
 
-estaba sentado en el trono dijo: He aqu, yo hago nuevas todas las cosas.
+estaba sentado en el trono dijo: “He aquí, yo hago nuevas todas las cosas”.
 
-Quien hizo la luz puede abrir los ojos de ustedes. Quien orden que los ros
+Quien hizo la luz puede abrir los ojos de ustedes. Quien ordenó que los ríos
 
 fluyeran, puede abrir torrentes de penitencia en el interior de sus almas. Quien
 
-cubri la tierra de verdor, puede hacer que sus mentes estriles sean
+cubrió la tierra de verdor, puede hacer que sus mentes estériles sean
 
-fructferas para alabanza Suya. Si l agrup las cumbres de los Alpes, y dio
+fructíferas para alabanza Suya. Si Él agrupó las cumbres de los Alpes, y dio
 
-equilibrio a las nubes que flotan a su alrededor, y form los valles que sonren
+equilibrio a las nubes que flotan a su alrededor, y formó los valles que sonríen
 
-a sus pies, puede crear todava, dentro del pequeo mundo del hombre, pensamientos
+a sus pies, puede crear todavía, dentro del pequeńo mundo del hombre, pensamientos
 
 que aspiren al cielo, deseos que asciendan a los reinos de la pureza y buenas
 
-obras que sean hermosos productos de Su Espritu. Ha enviado el Creador a un
+obras que sean hermosos productos de Su Espíritu. żHa enviado el Creador a un
 
-libertador de los seres cautivos? Entonces, en verdad, hay esperanza!
+libertador de los seres cautivos? ˇEntonces, en verdad, hay esperanza!
 
-Quien envi al Seor
+Quien envió al Seńor
 
-Jess, como Su Elegido, para que restaurara a nuestra raza cada, se describe tambin
+Jesús, como Su Elegido, para que restaurara a nuestra raza caída, se describe también
 
-a S mismo como
+a Sí mismo como
 
 el dador de vida,
 
 pues
 
-regresando al versculo quinto del captulo que estamos considerando, leemos:
+regresando al versículo quinto del capítulo que estamos considerando, leemos:
 
-El que da aliento al pueblo que mora sobre ella, y espritu a los que por ella
+“El que da aliento al pueblo que mora sobre ella, y espíritu a los que por ella
 
-andan. El Seor crea la vida animal: l infunde aliento en la nariz de los
+andan”. El Seńor crea la vida animal: Él infunde aliento en la nariz de los
 
-hombres y de las bestias; l da tambin la vida mental, la vida que piensa,
+hombres y de las bestias; Él da también la vida mental, la vida que piensa,
 
 imagina, duda, teme, entiende y desea. Toda la vida proviene de la fuente
 
 central de la autoexistencia del grandioso Yo Soy, en quien vivimos, y nos
 
-movemos y somos. Este Ser eterno, que tiene vida en S mismo, ha enviado a Su
+movemos y somos. Este Ser eterno, que tiene vida en Sí mismo, ha enviado a Su
 
-Hijo para que d vida a quienes estn muertos en delitos y pecados, y lo ha
+Hijo para que dé vida a quienes están muertos en delitos y pecados, y lo ha
 
-ceido con Su propio poder, Porque como el Padre tiene vida en s mismo, as
+ceńido con Su propio poder, “Porque como el Padre tiene vida en sí mismo, así
 
-tambin ha dado al Hijo el tener vida en s mismo. Los muertos han de
+también ha dado al Hijo el tener vida en sí mismo”. Los muertos han de
 
-resucitar por la palabra de Jess, Porque vendr hora cuando todos los que
+resucitar por la palabra de Jesús, “Porque vendrá hora cuando todos los que
 
-estn en los sepulcros oirn su voz; y saldrn. Ningn caso de corrupcin
+están en los sepulcros oirán su voz; y… saldrán”. Ningún caso de corrupción
 
-humana puede estar ms all de la habilidad del Redentor, ya que est revestido
+humana puede estar más allá de la habilidad del Redentor, ya que está revestido
 
-con un poder vivificador; incluso aqullos que se pudren, como Lzaro, saldrn
+con un poder vivificador; incluso aquéllos que se pudren, como Lázaro, saldrán
 
-cuando l los llame, y las ataduras de la muerte y del infierno se rompern.
+cuando Él los llame, y las ataduras de la muerte y del infierno se romperán.
 
-As dice el Seor de vida: De cierto, de cierto os digo: El que oye mi
+Así dice el Seńor de vida: “De cierto, de cierto os digo: El que oye mi
 
-palabra, y cree al que me envi, tiene vida eterna; y no vendr a condenacin,
+palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación,
 
-mas ha pasado de muerte a vida. La visin del valle de Ezequiel se ha
+mas ha pasado de muerte a vida”. La visión del valle de Ezequiel se ha
 
-convertido en una realidad desde que Jess vino, y no debe maravillarnos que
+convertido en una realidad desde que Jesús vino, y no debe maravillarnos que
 
-as sea, puesto que le ha enviado el Dios eterno que vive para siempre. l
+así sea, puesto que le ha enviado el Dios eterno que vive para siempre. Él
 
-puede infundir el Espritu Santo en el alma que est muerta, y puede otorgar un
+puede infundir el Espíritu Santo en el alma que está muerta, y puede otorgar un
 
-corazn que palpite con penitencia y que salte de deseos anhelantes de Dios. l
+corazón que palpite con penitencia y que salte de deseos anhelantes de Dios. Él
 
-puede darles ojos a los ciegos y pies a los cojos. l puede otorgar todo lo que
+puede darles ojos a los ciegos y pies a los cojos. Él puede otorgar todo lo que
 
-pertenece a la vida: el odo que oye, la lengua que habla y la mano que sujeta.
+pertenece a la vida: el oído que oye, la lengua que habla y la mano que sujeta.
 
-El gran obstculo en Su camino es la muerte espiritual y como puede quitarlo
+El gran obstáculo en Su camino es la muerte espiritual y como puede quitarlo
 
-con una palabra, la salvacin del hombre ya no es ms una dificultad. Algrense,
+con una palabra, la salvación del hombre ya no es más una dificultad. Alégrense,
 
-oh cielos; y gzate, oh tierra; pues el Vivificador ha descendido entre los sepulcros
+oh cielos; y gózate, oh tierra; pues el Vivificador ha descendido entre los sepulcros
 
-de nuestros pecados y ha entrado en el propio osario de nuestra corrupcin, y est
+de nuestros pecados y ha entrado en el propio osario de nuestra corrupción, y está
 
-vivificando a todo aqul a quien l quiera.
+vivificando a todo aquél a quien Él quiera.
 
 Y eso no es todo pues, Quien
 
-envi al Redentor, es descrito en el versculo sexto como:
+envió al Redentor, es descrito en el versículo sexto como:
 
 el Dios fiel.
 
-Yo Jehov te he llamado en justicia, es decir, el
+“Yo Jehová te he llamado en justicia”, es decir, el
 
-Dios que enva a Cristo, el Salvador, no es alguien que juegue con palabras ni
+Dios que envía a Cristo, el Salvador, no es alguien que juegue con palabras ni
 
-que habiendo dado una promesa hoy se retracte de ella maana. Dios no es
+que habiendo dado una promesa hoy se retracte de ella mańana. “Dios no es
 
-hombre, para que mienta, ni hijo de hombre para que se arrepienta. Sus promesas
+hombre, para que mienta, ni hijo de hombre para que se arrepienta”. Sus promesas
 
-y propsitos son inmutables, pues estn fundados en la justicia. Aquel que ha
+y propósitos son inmutables, pues están fundados en la justicia. Aquel que ha
 
-comisionado a Su mensajero elegido no es injusto para olvidar Su palabra. Dijo
+comisionado a Su mensajero elegido no es injusto para olvidar Su palabra. żDijo
 
-y no lo har? Habl y no se cumplir?
+y no lo hará? żHabló y no se cumplirá?
 
-Por esta razn, amados
+Por esta razón, amados
 
-hermanos mos, toda promesa evanglica muestra el sello de la justicia divina,
+hermanos míos, toda promesa evangélica muestra el sello de la justicia divina,
 
-para que ustedes sepan que es vlida. Jess nos asegura que si creemos en l,
+para que ustedes sepan que es válida. Jesús nos asegura que si creemos en Él,
 
 seremos liberados. Dios, que no puede mentir, estampa Su sello en la promesa.
 
-El que creyere y fuere bautizado, ser salvo, no es nicamente la declaracin
+“El que creyere y fuere bautizado, será salvo”, no es únicamente la declaración
 
-de Cristo, sino que Dios mismo la confirma. Entonces, Amn, que as sea! El
+de Cristo, sino que Dios mismo la confirma. Entonces, “ˇAmén, que así sea!” El
 
-ms vil pecador que crea, encontrar vida y perdn, aceptacin y bendicin en
+más vil pecador que crea, encontrará vida y perdón, aceptación y bendición en
 
-Cristo Jess. Oh, trmulo ser, t no tienes que tratar con alguien que
+Cristo Jesús. Oh, trémulo ser, tú no tienes que tratar con alguien que
 
-interpretar su promesa en un nivel inferior al que t la entiendes, sino que
+interpretará su promesa en un nivel inferior al que tú la entiendes, sino que
 
-tienes que tratar con Uno que quiere decir ms de lo que las palabras expresan,
+tienes que tratar con Uno que quiere decir más de lo que las palabras expresan,
 
-cuyos pensamientos son ms altos que los pensamientos tuyos as como son ms
+cuyos pensamientos son más altos que los pensamientos tuyos así como son más
 
-altos los cielos que la tierra, aun cuando tus pensamientos estn iluminados
+altos los cielos que la tierra, aun cuando tus pensamientos estén iluminados
 
-por Su Palabra. Venid luego, dice Jehov, y estemos a cuenta: si vuestros
+por Su Palabra. “Venid luego, dice Jehová, y estemos a cuenta: si vuestros
 
-pecados fueren como la grana, como la nieve sern emblanquecidos; si fueren
+pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren
 
-rojos como el carmes, vendrn a ser como blanca lana. Quien pronuncia estas
+rojos como el carmesí, vendrán a ser como blanca lana”. Quien pronuncia estas
 
-palabras es el Seor, el fiel Prometedor, que ha enviado a Cristo, no para
+palabras es el Seńor, el fiel Prometedor, que ha enviado a Cristo, no para
 
-engaarlos con pretensiones falaces, sino para traer abundancia de gracia, en
+engańarlos con pretensiones falaces, sino para traer abundancia de gracia, en
 
-realidad y en verdad, a quienes confan en l.
+realidad y en verdad, a quienes confían en Él.
 
 Prosiguiendo con la lectura
 
-del mismo versculo, percibirn que el siempre bendito Poderdante del Seor
+del mismo versículo, percibirán que el siempre bendito ‘Poderdante’ del Seńor
 
-Jess es
+Jesús es
 
 omnipotente,
 
-pues acaso no
+pues żacaso no
 
-se aade: Te sostendr por la mano; te guardar? Lo cual significa que Dios
+se ańade: “Te sostendré por la mano; te guardaré”? Lo cual significa que Dios
 
-dar todo Su poder al Mediador. Cristo es el poder de Dios. La omnipotencia
+dará todo Su poder al Mediador. Cristo es el poder de Dios. La omnipotencia
 
 habita en Aquel que una vez fue inmolado, pero que ahora vive para siempre y
 
-puede salvar perpetuamente a los que por l se acercan a Dios. En el Evangelio
+puede salvar perpetuamente a los que por Él se acercan a Dios. En el Evangelio
 
-hay una expresin tan manifiesta del poder divino, como la hay en la creacin y
+hay una expresión tan manifiesta del poder divino, como la hay en la creación y
 
-en el sostenimiento del mundo. Aqu est nuestro consuelo ante todos los asaltos
+en el sostenimiento del mundo. Aquí está nuestro consuelo ante todos los asaltos
 
 que amenazan a la fe cristiana, y ante todas las frustraciones que la iglesia
 
 cristiana ha experimentado hasta esta fecha; Emanuel, Dios con nosotros, es
 
-todava nuestra fortaleza. Estamos persuadidos de que la victoria final de la
+todavía nuestra fortaleza. Estamos persuadidos de que la victoria final de la
 
-cruz es absolutamente cierta, pues Se manifestar la gloria de Jehov, y toda
+cruz es absolutamente cierta, pues “Se manifestará la gloria de Jehová, y toda
 
-carne juntamente la ver; porque la boca de Jehov ha hablado.
+carne juntamente la verá; porque la boca de Jehová ha hablado”.
 
-La creacin fue una obra
+La creación fue una obra
 
 de la omnipotencia, y sin embargo, no toda ella fue realizada de inmediato. El
 
-Seor habra podido moldear este globo habitable en un segundo de tiempo, si
+Seńor habría podido moldear este globo habitable en un segundo de tiempo, si
 
-as lo hubiera deseado, y habra podido amueblar todos sus aposentos con una
+así lo hubiera deseado, y habría podido amueblar todos sus aposentos con una
 
 sola palabra de Su boca. En lugar de eso, tenemos motivos para creer que se
 
-demor un tiempo en su primera formacin, en el principio, cuando cre los
+demoró un tiempo en su primera formación, en el principio, cuando creó los
 
-cielos y la tierra; y lo arregl y lo desarregl muchas veces antes de llegar a
+cielos y la tierra; y lo arregló y lo desarregló muchas veces antes de llegar a
 
-su constitucin final en los primeros seis das de tiempo, en que lo molde para
+su constitución final en los primeros seis días de tiempo, en que lo moldeó para
 
-que fuera una habitacin idnea para el hombre. Incluso entonces, cuando lleg
+que fuera una habitación idónea para el hombre. Incluso entonces, cuando llegó
 
-a la obra final, no fue en un da que edific el caos para convertirlo en un
+a la obra final, no fue en un día que edificó el caos para convertirlo en un
 
-hermoso hogar para la humanidad. No fue al principio que el firmamento dividi
+hermoso hogar para la humanidad. No fue al principio que el firmamento dividió
 
-a las aguas, o que la tierra seca apareci sobre los mares. No fue sino hasta
+a las aguas, o que la tierra seca apareció sobre los mares. No fue sino hasta
 
-el tercer da que la tierra produjo hierba y la hierba produjo semilla; y el
+el tercer día que la tierra produjo hierba y la hierba produjo semilla; y el
 
-sol y la luna dividieron el imperio del da y de la noche slo hasta que hubo
+sol y la luna dividieron el imperio del día y de la noche sólo hasta que hubo
 
-amanecido el cuarto da; por otro lado, las aves que vuelan en el firmamento
+amanecido el cuarto día; por otro lado, las aves que vuelan en el firmamento
 
 abierto del cielo, y las criaturas vivientes que se mueven en las aguas,
 
-conocieron un nacimiento todava posterior. Todo fue gradual. El Hacedor avanz
+conocieron un nacimiento todavía posterior. Todo fue gradual. El Hacedor avanzó
 
 paso a paso y, sin embargo, nunca hubo algo menos que omnipotencia en cada paso
 
 de Su progreso.
 
-Entonces, hermanos mos,
+Entonces, hermanos míos,
 
-el Seor pudo haber convertido muy fcilmente al mundo entero a Cristo en el
+el Seńor pudo haber convertido muy fácilmente al mundo entero a Cristo en el
 
-da de Pentecosts, pero Sus decretos no tenan establecido eso. Se dio un
+día de Pentecostés, pero Sus decretos no tenían establecido eso. Se dio un
 
-avance en los tiempos apostlicos, y la luz brill en las tinieblas; ms
+avance en los tiempos apostólicos, y la luz brilló en las tinieblas; más
 
-adelante, la gran divisin entre lo celestial y lo terrenal se volvi marcada y
+adelante, la gran división entre lo celestial y lo terrenal se volvió marcada y
 
-clara, y la iglesia se levant como la tierra seca sobre los mares del pecado,
+clara, y la iglesia se levantó como la tierra seca sobre los mares del pecado,
 
-mientras que las plantas sembradas por la diestra del Seor produjeron su
+mientras que las plantas sembradas por la diestra del Seńor produjeron su
 
 semilla y su fruto. Incluso ahora las lumbreras designadas alegran el cielo, y
 
-el tiempo se apresura cuando el Seor bendecir ms evidentemente a Sus seres
+el tiempo se apresura cuando el Seńor bendecirá más evidentemente a Sus seres
 
-vivientes, y dir: Fructificad y multiplicaos y llenad la tierra; pero todo
+vivientes, y dirá: “Fructificad y multiplicaos y llenad la tierra”; pero todo
 
-es realizado gradualmente, segn l lo ha establecido. Nuestra impaciencia gustosamente
+es realizado gradualmente, según Él lo ha establecido. Nuestra impaciencia gustosamente
 
-quisiera estar muy cerca del Eterno y decirle: Maestro, completa Tu obra, y
+quisiera estar muy cerca del Eterno y decirle: “Maestro, completa Tu obra, y
 
-que Tus ojos contemplen al Segundo Adn en un mundo restaurado en un segundo
+que Tus ojos contemplen al Segundo Adán en un mundo restaurado en un segundo
 
-Edn. Pero l se demora un poco, y espera mientras Sus grandes tardes y
+Edén”. Pero Él se demora un poco, y espera mientras Sus grandes tardes y
 
-maanas prefijadas llenan de un glorioso trabajo Su semana. l se deleita en la
+mańanas prefijadas llenan de un glorioso trabajo Su semana. Él se deleita en la
 
-ms noble labor de Sus manos, y no es como el asalariado que desea
+más noble labor de Sus manos, y no es como el asalariado que desea
 
-ardientemente la sombra para poner fin a su onerosa tarea. l se demora
+ardientemente la sombra para poner fin a su onerosa tarea. Él se demora
 
-amorosamente, y Su mucha paciencia es salvacin. Los decretos del Seor no se
+amorosamente, y Su mucha paciencia es salvación. Los decretos del Seńor no se
 
-dilatan tanto, considerando que en el clculo divino y de acuerdo a la propia
+dilatan tanto, considerando que en el cálculo divino y de acuerdo a la propia
 
-estimacin del Seor, el fin vendr pronto, aunque para los insolentes que se
+estimación del Seńor, el fin vendrá pronto, aunque para los insolentes que se
 
-atreven a decir: Dnde est la promesa de Su advenimiento?, pareciera tardarse
+atreven a decir: “żDónde está la promesa de Su advenimiento?”, pareciera tardarse
 
 mucho.
 
-Cun bendito ser el
+Cuán bendito será el
 
-gran final de la obra redentora; entonces las estrellas matutinas cantarn al
+gran final de la obra redentora; entonces las estrellas matutinas cantarán al
 
-unsono, y todos los hijos de Dios darn voces de gozo. El sptimo da de la
+unísono, y todos los hijos de Dios darán voces de gozo. El séptimo día de la
 
-redencin eclipsar al da de reposo de la naturaleza, as como los nuevos
+redención eclipsará al día de reposo de la naturaleza, así como los nuevos
 
-cielos y la nueva tierra opacarn a los primeros; un ro ms puro que Hidekel
+cielos y la nueva tierra opacarán a los primeros; un río más puro que Hidekel
 
-regar al nuevo Edn; el rbol de vida que produce un fruto ms rico crecer en
+regará al nuevo Edén; el árbol de vida que produce un fruto más rico crecerá en
 
-el centro del huerto, y entonces ser cumplido lo que est escrito: Cantad
+el centro del huerto, y entonces será cumplido lo que está escrito: “Cantad
 
-loores, oh cielos, porque Jehov lo hizo; gritad con jbilo, profundidades de
+loores, oh cielos, porque Jehová lo hizo; gritad con júbilo, profundidades de
 
-la tierra; prorrumpid, montes, en alabanza; bosque, y todo rbol que en l
+la tierra; prorrumpid, montes, en alabanza; bosque, y todo árbol que en él
 
-est; porque Jehov redimi a Jacob, y en Israel ser glorificado. Al leer la
+está; porque Jehová redimió a Jacob, y en Israel será glorificado”. Al leer la
 
-promesa: Te sostendr por la mano; te guardar vemos la certeza de que el
+promesa: “Te sostendré por la mano; te guardaré” vemos la certeza de que el
 
-Salvador, ceido con la toda suficiencia de la fortaleza divina, consumar la
+Salvador, ceńido con la toda suficiencia de la fortaleza divina, consumará la
 
-obra de la salvacin humana.
+obra de la salvación humana.
 
-Tengan buen nimo, oh
+Tengan buen ánimo, oh
 
-hijos de Dios, y consulense con la creencia de que ver linaje, vivir por
+hijos de Dios, y consuélense con la creencia de que “verá linaje, vivirá por
 
-largos das, y la voluntad de Jehov ser en su mano prosperada. Su iglesia no
+largos días, y la voluntad de Jehová será en su mano prosperada”. Su iglesia no
 
-tiene ninguna razn para temer, antes bien, tiene toda una base de confianza en
+tiene ninguna razón para temer, antes bien, tiene toda una base de confianza en
 
-cuanto a su futuro. Regocjate y canta, oh moradora de Sion, porque grande es
+cuanto a su futuro. Regocíjate y canta, oh moradora de Sion, porque grande es
 
 en medio de ti el Santo de Israel.
 
-No temas, aunque muchos temibles enemigos
+“No temas, aunque muchos temibles enemigos
 
 Avancen contra tus muros;
 
-El brazo de Jehov los derribar
+El brazo de Jehová los derribará
 
-Para tu liberacin.
+Para tu liberación.
 
-Oh, tmale Su regia palabra
+Oh, tómale Su regia palabra
 
 Esa palabra que no puede mentir;
 
-El Seor de Israel es tu escudo y tu espada,
+El Seńor de Israel es tu escudo y tu espada,
 
-Soberana todopoderosa.
+Soberanía todopoderosa”.
 
-Yo s que me dirs: la
+Yo sé que me dirás: “la
 
-mayora de los hombres dice que el mundo llegar a su fin en unos cuantos aos;
+mayoría de los hombres dice que el mundo llegará a su fin en unos cuantos ańos;
 
-acaso no est escrito que el Esposo viene pronto? S, pero recuerda que hace
+żacaso no está escrito que el Esposo viene pronto?” Sí, pero recuerda que hace
 
-mil ochocientos aos estaba escrito que l vendra pronto, y ha habido profetas
+mil ochocientos ańos estaba escrito que Él vendría pronto, y ha habido profetas
 
-en todas las pocas que han concluido de sto que el fin estaba cercano,
+en todas las épocas que han concluido de ésto que el fin estaba cercano,
 
 mientras que muchos creyentes han sido como los tesalonicenses, a quienes Pablo
 
-escribi: Pero con respecto a la venida de nuestro Seor Jesucristo, y nuestra
+escribió: “Pero con respecto a la venida de nuestro Seńor Jesucristo, y nuestra
 
-reunin con l, os rogamos, hermanos, que no os dejis mover fcilmente de
+reunión con él, os rogamos, hermanos, que no os dejéis mover fácilmente de
 
-vuestro modo de pensar, ni os conturbis, ni por espritu, ni por palabra, ni
+vuestro modo de pensar, ni os conturbéis, ni por espíritu, ni por palabra, ni
 
-por carta como si fuera nuestra, en el sentido de que el da del Seor est
+por carta como si fuera nuestra, en el sentido de que el día del Seńor está
 
-cerca. Hemos sido instruidos por ciertos pretendidos expositores para esperar
+cerca”. Hemos sido instruidos por ciertos pretendidos expositores para esperar
 
-el tiempo del fin durante los ltimos siete aos y, sin embargo, es posible que
+el tiempo del fin durante los últimos siete ańos y, sin embargo, es posible que
 
-no llegue en los prximos setenta mil aos. Tal vez la historia humana, como
+no llegue en los próximos setenta mil ańos. Tal vez la historia humana, como
 
-est escrita, no sea sino la primera estrofa de un asombroso poema que ser
+está escrita, no sea sino la primera estrofa de un asombroso poema que será
 
-desarrollado pgina por pgina a lo largo de muchas edades por venir; y podra
+desarrollado página por página a lo largo de muchas edades por venir; y podría
 
-ser posible que ms extasiadas expresiones de la misericordia y la gracia
+ser posible que más extasiadas expresiones de la misericordia y la gracia
 
-divinas en la conversin de los hombres hayan de ser ledas todava por los
+divinas en la conversión de los hombres hayan de ser leídas todavía por los
 
-ngeles y los espritus glorificados. Si as fuera, todava sera cierto que
+ángeles y los espíritus glorificados. Si así fuera, todavía sería cierto que
 
-viene pronto, pues qu es el tiempo comparado con la eternidad? Incluso si el
+viene pronto, pues żqué es el tiempo comparado con la eternidad? Incluso si el
 
 tiempo cubierto por la historia del mundo no fuera un breve lapso de seis mil
 
-aos, sino de sesenta mil veces seis mil aos, con todo, no sera sino como una
+ańos, sino de sesenta mil veces seis mil ańos, con todo, no sería sino como una
 
-gota en una cubeta comparada con los aos de la diestra del Altsimo, con el
+gota en una cubeta comparada con los ańos de la diestra del Altísimo, con el
 
-tiempo de vida del Anciano de Das.
+tiempo de vida del Anciano de Días.
 
-Continen combatiendo,
+Continúen combatiendo,
 
-hermanos mos, y no se turben con rumores de los tiempos o las sazones, antes
+hermanos míos, y no se turben con rumores de los tiempos o las sazones, antes
 
-bien, crean esto: que Dios est en Cristo Jess reconciliando consigo al mundo,
+bien, crean esto: que Dios está en Cristo Jesús reconciliando consigo al mundo,
 
-y todos los confines de la tierra vern la salvacin del Dios nuestro. Esperen
+y todos los confines de la tierra verán la salvación del Dios nuestro. Esperen
 
-cotidianamente la venida del Seor, pero, con todo, esfurcense por hacer avanzar
+cotidianamente la venida del Seńor, pero, con todo, esfuércense por hacer avanzar
 
-Su imperio, pues Dominar de mar a mar, y desde el ro hasta los confines de
+Su imperio, pues “Dominará de mar a mar, y desde el río hasta los confines de
 
-la tierra. El Seor no ha retirado Su mano de Su escogido, en quien su alma tiene
+la tierra”. El Seńor no ha retirado Su mano de Su “escogido, en quien su alma tiene
 
-contentamiento. l sujetar naciones delante de l y desatar lomos de reyes
+contentamiento”. Él sujetará naciones delante de Él y desatará lomos de reyes
 
-para abrir puertas delante de l. Con un libertador confirmado tan
+para abrir puertas delante de Él. Con un libertador confirmado tan
 
 gloriosamente, no hay espacio para temer el fracaso. Nuestra esperanza y
 
-nuestra fe descansan gozosamente en l, a quien el Eterno da Su omnipotencia
+nuestra fe descansan gozosamente en Él, a quien el Eterno da Su omnipotencia
 
-con la cual sujetar a S mismo todas las cosas.
+con la cual sujetará a Sí mismo todas las cosas.
 
 II.
 
 Ahora,
 
-con la ayuda del Seor, vamos a adelantar un poco ms. Habiendo contemplado al
+con la ayuda del Seńor, vamos a adelantar un poco más. Habiendo contemplado al
 
-glorioso Ser que envi a Jess para la obra de la emancipacin del hombre,
+glorioso Ser que envió a Jesús para la obra de la emancipación del hombre,
 
 hemos de considerar, en segundo lugar, AL ENVIADO MISMO.
 
 Lo tenemos descrito en
 
-el primer versculo de este captulo, y las primeras palabras de la descripcin
+el primer versículo de este capítulo, y las primeras palabras de la descripción
 
-que vamos a seleccionar nos informan que Jess es
+que vamos a seleccionar nos informan que Jesús es
 
 el escogido.
 
-Mi escogido, en quien mi alma tiene contentamiento.
+“Mi escogido, en quien mi alma tiene contentamiento”.
 
 Dios se ha agradado en apartar a Su bienamado Hijo para que sea el Salvador de
 
-los pecadores, y en todos los sentidos l es el ms apto. Como hombre, l es
+los pecadores, y en todos los sentidos Él es el más apto. Como hombre, Él es
 
-supremamente apropiado para la obra; ningn otro ser nacido de mujer era idneo
+supremamente apropiado para la obra; ningún otro ser nacido de mujer era idóneo
 
-para la empresa. Nacido de una manera peculiar, sin mancha ni defecto, slo l
+para la empresa. Nacido de una manera peculiar, sin mancha ni defecto, sólo Él
 
-en la raza humana posea la naturaleza santa que era necesaria para hacerlo el
+en la raza humana poseía la naturaleza santa que era necesaria para hacerlo el
 
-mensajero del amor de Dios. Acabo de intentar mostrarles que Dios ci a
+mensajero del amor de Dios. Acabo de intentar mostrarles que Dios cińó a
 
-nuestro Seor con Su omnipotencia, y sto debera conducir a cada pecador a
+nuestro Seńor con Su omnipotencia, y ésto debería conducir a cada pecador a
 
-sentir que Cristo puede salvarle, pues hay algo que no pueda hacer
+sentir que Cristo puede salvarle, pues żhay algo que no pueda hacer
 
 la Omnipotencia
 
@@ -618,205 +618,205 @@ a
 
 la Omnipotencia
 
-ante nosotros. Ningn pecador es difcil de salvar, ni hay ataduras que sean
+ante nosotros. Ningún pecador es difícil de salvar, ni hay ataduras que sean
 
-difciles de quitar, cuando Dios, el Todopoderoso, llega para salvar.
+difíciles de quitar, cuando Dios, el Todopoderoso, llega para salvar.
 
 Ahora miren el otro lado
 
-del cuadro, y recuerden que Cristo Jess era la nica persona idnea en la que
+del cuadro, y recuerden que Cristo Jesús era la única persona idónea en la que
 
-el Padre poda poner la plenitud de Su poder salvador. En su compleja persona l
+el Padre podía poner la plenitud de Su poder salvador. En su compleja persona Él
 
-es idneo, en todos los sentidos, para fungir como Mediador entre Dios y el
+es idóneo, en todos los sentidos, para fungir como Mediador entre Dios y el
 
 hombre. Quien puso la ayuda sobre uno que es poderoso, enaltecido y escogido de
 
-entre el pueblo, fue guiado por la sabidura infalible en Su eleccin. Nadie
+entre el pueblo, fue guiado por la sabiduría infalible en Su elección. Nadie
 
-ms era tan apto como l; de hecho no haba nadie ms. Porque nadie puede
+más era tan apto como Él; de hecho no había nadie más. “Porque nadie puede
 
-poner otro fundamento que el que est puesto. Nadie puede abrir otra puerta de
+poner otro fundamento que el que está puesto”. Nadie puede abrir otra puerta de
 
 esperanza que la puerta que Dios ha abierto en la persona de Cristo.
 
 Oh, pecador, yo te
 
-suplico que aceptes lo que Dios sabiamente ha elegido. Haz que la eleccin de
+suplico que aceptes lo que Dios sabiamente ha elegido. Haz que la elección de
 
-Dios sea tu eleccin voluntaria. En esta hora, constreido por la gracia de
+Dios sea tu elección voluntaria. En esta hora, constreńido por la gracia de
 
-Dios, di: Si Dios ha elegido al Seor Jess como la propiciacin por el
+Dios, di: “Si Dios ha elegido al Seńor Jesús como la propiciación por el
 
-pecado, mi corazn lo acepta a l como la expiacin por mi pecado, sintiendo
+pecado, mi corazón lo acepta a Él como la expiación por mi pecado, sintiendo
 
-que slo l puede salvarme. Si elijes as al Elegido del Seor, encontrars
+que sólo Él puede salvarme”. Si elijes así al Elegido del Seńor, encontrarás
 
-que l es precioso.
+que Él es precioso.
 
 Pero en el primer
 
-versculo tambin se nos informa que el Seor Jess es
+versículo también se nos informa que el Seńor Jesús es
 
 ungido para esta obra,
 
-igual que fue escogido para la misma. He
+igual que fue escogido para la misma. “He
 
-puesto sobre l mi Espritu. Ahora, el Espritu Santo es el ms grande de
+puesto sobre él mi Espíritu”. Ahora, el Espíritu Santo es el más grande de
 
-todos los actores en el mundo de la mente. l es quien puede iluminar,
+todos los actores en el mundo de la mente. Él es quien puede iluminar,
 
-persuadir, y controlar a los espritus de los hombres. l hace lo que quiere
+persuadir, y controlar a los espíritus de los hombres. Él hace lo que quiere
 
-con la mente, de la misma manera que en la primera creacin, el Seor obr con
+con la mente, de la misma manera que en la primera creación, el Seńor obró con
 
 la materia como quiso.
 
 Ahora, si Jesucristo
 
-tiene la plenitud del Espritu Santo reposando en l, no es posible suponer que
+tiene la plenitud del Espíritu Santo reposando en Él, no es posible suponer que
 
-algn pecador est tan desesperadamente esclavizado como para que l no pueda
+algún pecador esté tan desesperadamente esclavizado como para que Él no pueda
 
 liberarlo. Estamos a punto de hablar acerca de ojos ciegos que han de ser
 
-abiertos, pero en la luz del Espritu Santo qu ojos necesitan permanecer
+abiertos, pero en la luz del Espíritu Santo żqué ojos necesitan permanecer
 
-siendo ciegos? Hablaremos de cautivos que sern liberados, pero con el libre
+siendo ciegos? Hablaremos de cautivos que serán liberados, pero con el libre
 
-Espritu de Dios para liberarla, qu alma necesita estar atada? Hombres
+Espíritu de Dios para liberarla, żqué alma necesita estar atada? Hombres
 
-valerosos han enseado doctrinas que han emancipado de la esclavitud de la
+valerosos han enseńado doctrinas que han emancipado de la esclavitud de la
 
-supersticin a las mentes de sus semejantes, pero las enseanzas del Espritu
+superstición a las mentes de sus semejantes, pero las enseńanzas del Espíritu
 
 Santo liberan a las mentes de la servidumbre de todo tipo, y liberan a los
 
-hombres delante del Dios viviente. Trmulo pecador, acepta a Cristo como tu
+hombres delante del Dios viviente. Trémulo pecador, acepta a Cristo como tu
 
-Salvador; Dios lo designa y Dios lo unge. No bastan estas dos razones para hacerlo
+Salvador; Dios lo designa y Dios lo unge. żNo bastan estas dos razones para hacerlo
 
 aceptable para tu alma?
 
-Adems, se describe al
+Además, se describe al
 
 Redentor diciendo que es
 
 manso y humilde
 
-de corazn,
+de corazón,
 
-lo cual debera recomendarlo mucho ante todo espritu humilde y
+lo cual debería recomendarlo mucho ante todo espíritu humilde y
 
-contrito. No quebrar la caa cascada, ni apagar el pbilo que humeare.
+contrito. “No quebrará la cańa cascada, ni apagará el pábilo que humeare”.
 
 Necesitamos un Salvador que pueda conmoverse con el sentimiento de nuestras
 
-debilidades, y Jess lo es. Las almas conscientes de pecado son muy sensibles y
+debilidades, y Jesús lo es. Las almas conscientes de pecado son muy sensibles y
 
-estn agitadas por muchos temores; curar una conciencia herida no es el trabajo
+están agitadas por muchos temores; curar una conciencia herida no es el trabajo
 
-de un necio, sino una labor apropiada para el mdico ms experimentado.
+de un necio, sino una labor apropiada para el médico más experimentado.
 
-Vean, entonces, cun
+Vean, entonces, cuán
 
-idneo es Cristo. No ha dicho nunca todava una palabra spera a un alma que deseaba
+idóneo es Cristo. No ha dicho nunca todavía una palabra áspera a un alma que deseaba
 
 encontrar misericordia de Sus manos. En los registros de Su vida siempre lo
 
-podrn ver probando a algn espritu ansioso pero nunca lo vern repelindolo.
+podrán ver probando a algún espíritu ansioso pero nunca lo verán repeliéndolo.
 
-Cuando la fe dbil slo poda tocar el borde de Su manto, con todo, fluy de l
+Cuando la fe débil sólo podía tocar el borde de Su manto, con todo, fluyó de Él
 
-el poder. Cuando el leproso le dijo: Seor, si quieres, puedes limpiarme, se
+el poder. Cuando el leproso le dijo: “Seńor, si quieres, puedes limpiarme”, se
 
-trataba de una fe pobre, pero esa fe lo salv. Aunque no puedas creer todava como
+trataba de una fe pobre, pero esa fe lo salvó. Aunque no puedas creer todavía como
 
-quisieras, di, no obstante: Creo; ayuda mi incredulidad, y l no te
+quisieras, di, no obstante: “Creo; ayuda mi incredulidad”, y Él no te
 
-rechazar. Mira al pbilo que humea que no produce ninguna luz y ms bien
+rechazará. Mira al pábilo que humea que no produce ninguna luz y más bien
 
-genera mucho humo ofensivo; sin embargo, tal vez un fuego vivo permanezca all,
+genera mucho humo ofensivo; sin embargo, tal vez un fuego vivo permanezca allí,
 
-y por tanto, el tierno Salvador no lo apagar, sino que lo avivar hasta
+y por tanto, el tierno Salvador no lo apagará, sino que lo avivará hasta
 
-convertirlo en llama. Y cmo desfigura la msica de las flautas esa caa
+convertirlo en llama. ‘Y cómo desfigura la música de las flautas esa cańa
 
-cascada; scala y quibrala. Eso haran los hombres,
+cascada; sácala y quiébrala’. Eso harían los hombres,
 
 mas
 
-no el Amigo del pecador. l la hace perfecta de nuevo y difunde con ella la
+no el Amigo del pecador. Él la hace perfecta de nuevo y difunde con ella la
 
-msica de Su amor.
+música de Su amor.
 
-Oh, t, que en tu propia
+ˇOh, tú, que en tu propia
 
-estimacin eres completamente indigno, que slo eres apropiado para ser
+estimación eres completamente indigno, que sólo eres apropiado para ser
 
 desechado, que eres incompetente para vivir e incompetente para morir!
 
-Jesucristo, el Manso, te dar la misericordia si t lo buscas, y al drtela, no
+Jesucristo, el Manso, te dará la misericordia si tú lo buscas, y al dártela, no
 
-te reprochar. Oh, hijo errante, Jess te presentar al Padre, quien te besar
+te reprochará. Oh, hijo errante, Jesús te presentará al Padre, quien te besará
 
-con besos de Su amor, y te despojar de los andrajos del pecado y te vestir
+con besos de Su amor, y te despojará de los andrajos del pecado y te vestirá
 
-con las gloriosas vestiduras de justicia. Slo acude a l, pues es alguien que
+con las gloriosas vestiduras de justicia. Sólo acude a Él, pues es alguien que
 
-no puede rechazarte. Cmo puedo acudir?, preguntar alguien. Una oracin te
+no puede rechazarte. “żCómo puedo acudir?”, preguntará alguien. Una oración te
 
-llevar; un deseo ansioso ser como un carruaje para ti. Una confianza en l te
+llevará; un deseo ansioso será como un carruaje para ti. Una confianza en Él te
 
-habr llevado y Cristo es tuyo, si lo aceptas ahora. Si tu alma est realmente
+habrá llevado y Cristo es tuyo, si lo aceptas ahora. Si tu alma está realmente
 
-dispuesta a tener a Cristo, Cristo te ha dado esa disposicin y ya ha comenzado
+dispuesta a tener a Cristo, Cristo te ha dado esa disposición y ya ha comenzado
 
 a liberarte. Que estos pensamientos concernientes al grandioso Emancipador, te
 
-animen a poner tu confianza en l.
+animen a poner tu confianza en Él.
 
-Un punto ms en este
+Un punto más en este
 
 mismo sentido. El Cristo que ha venido para salvar a los hijos de los hombres
 
 es
 
-perseverante hasta el lmite.
+perseverante hasta el límite.
 
-No
+“No
 
-se cansar ni desmayar, hasta que establezca en la tierra justicia; y las
+se cansará ni desmayará, hasta que establezca en la tierra justicia; y las
 
-costas esperarn su ley. Los hombres son renuentes a ser salvados; no desean
+costas esperarán su ley”. Los hombres son renuentes a ser salvados; no desean
 
-salir de sus calabozos; pero Jesucristo no cesar de ensear, no cesar de
+salir de sus calabozos; pero Jesucristo no cesará de enseńar, no cesará de
 
-buscar y no cesar de salvar hasta que todos Sus elegidos sean redimidos de la
+buscar y no cesará de salvar hasta que todos Sus elegidos sean redimidos de la
 
-ruina de la cada y una multitud que no se puede contar circunde el trono del
+ruina de la caída y una multitud que no se puede contar circunde el trono del
 
 Padre.
 
 Alma, yo te digo que si
 
-Cristo quiere salvarte, te salvar. Rastrear tus pisadas sin importar cunto
+Cristo quiere salvarte, te salvará. Rastreará tus pisadas sin importar cuánto
 
-te descarres. Si te escaparas una y otra vez de las flechas de la conviccin y
+te descarríes. Si te escaparas una y otra vez de las flechas de la convicción y
 
-te hundieras una y otra vez en el pecado, con todo, l te buscar y te
+te hundieras una y otra vez en el pecado, con todo, Él te buscará y te
 
-encontrar. Oh, no te demores, antes bien cede a Su poder! Yo oro pidiendo que
+encontrará. ˇOh, no te demores, antes bien cede a Su poder! Yo oro pidiendo que
 
-l extienda Su brazo soberano en este momento y te rescate de ti mismo. Si tu
+Él extienda Su brazo soberano en este momento y te rescate de ti mismo. Si tu
 
-corazn fuera tan duro como el diamante, o como la muela inferior del molino,
+corazón fuera tan duro como el diamante, o como la muela inferior del molino,
 
-l puede disolverlo con un contacto. Oh, que el martillo que pulveriza las
+Él puede disolverlo con un contacto. ˇOh, que el martillo que pulveriza las
 
-rocas cayera sobre ti ahora! l es poderoso para salvar; l puede demostrar Su
+rocas cayera sobre ti ahora! ˇÉl es poderoso para salvar; Él puede demostrar Su
 
-podero en ti!
+poderío en ti!
 
 III.
 
@@ -832,371 +832,371 @@ MISMA.
 
 De acuerdo al texto, la
 
-obra de gracia del Mesas est dividida en tres partes, de las cuales la
+obra de gracia del Mesías está dividida en tres partes, de las cuales la
 
 primera es:
 
 abrir los ojos de los ciegos.
 
-Aqu tenemos una notable obra que aporta mucha gloria a nuestro Seor. El
+Aquí tenemos una notable obra que aporta mucha gloria a nuestro Seńor. El
 
-entendimiento del hombre se extrava en relacin al conocimiento de Dios, al
+entendimiento del hombre se extravía en relación al conocimiento de Dios, al
 
 verdadero sentido del pecado, al entendimiento de la justicia divina y a una
 
-recta valoracin de la salvacin. El entendimiento, que es el ojo del alma,
+recta valoración de la salvación. El entendimiento, que es el ojo del alma,
 
-est entenebrecido. Pero cuando el Salvador ungido viene, quita las escamas de
+está entenebrecido. Pero cuando el Salvador ungido viene, quita las escamas de
 
 nuestra oftalmia mental, y en la luz de Dios vemos la luz, y entonces el
 
 pecador es humillado y abatido pues percibe su culpa y la justicia de Dios.
 
-Adems, se llena de alarma, pues ve que el sangrante Salvador es el blanco de
+Además, se llena de alarma, pues ve que el sangrante Salvador es el blanco de
 
 la ira de Dios, y juzga rectamente que el pecado tiene que recibir siempre una
 
-recompensa de ira, pues si el pecado colocado sobre Cristo fue castigado, cunto
+recompensa de ira, pues si el pecado colocado sobre Cristo fue castigado, żcuánto
 
-ms el pecado personal debe involucrar el destierro de la presencia del
+más el pecado personal debe involucrar el destierro de la presencia del
 
-Altsimo? El pecador es entonces conducido a ver que el nico camino en que el
+Altísimo? El pecador es entonces conducido a ver que el único camino en que el
 
 pecado puede ser quitado es por medio de los sufrimientos expiatorios de un
 
-sustituto. Es conducido a ver que la expiacin es vlida para l cuando cree. Es
+sustituto. Es conducido a ver que la expiación es válida para él cuando cree. Es
 
-conducido a entender en qu consiste la fe. l
+conducido a entender en qué consiste la fe. Él
 
 en verdad
 
-cree; confa, y luego, al confiar, es llevado a ver la
+cree; confía, y luego, al confiar, es llevado a ver la
 
-integridad del perdn y la gloria de la justificacin que nos viene por la fe
+integridad del perdón y la gloria de la justificación que nos viene por la fe
 
 en Jesucristo.
 
-Podra pensarse que es algo
+Podría pensarse que es algo
 
-fcil que los hombres vean, habiendo sido instruidos en la doctrina desde su
+fácil que los hombres vean, habiendo sido instruidos en la doctrina desde su
 
-niez y habindola odo incesantemente desde el plpito; pero, cranme, por
+nińez y habiéndola oído incesantemente desde el púlpito; pero, créanme, por
 
 sencillo que eso parezca, nadie la recibe a menos que le sea dado del cielo.
 
-Podramos decirles a todos los que hayan visto todo eso: Bienaventurado eres,
+Podríamos decirles a todos los que hayan visto todo eso: “Bienaventurado eres,
 
-porque no te lo revel carne ni sangre. Muchos de nosotros omos el Evangelio
+porque no te lo reveló carne ni sangre”. Muchos de nosotros oímos el Evangelio
 
-desde nuestra niez, pero mientras el Espritu Santo no nos explic en qu
+desde nuestra nińez, pero mientras el Espíritu Santo no nos explicó en qué
 
-consista ser un pecador y en qu consista creer en Jess, no conocamos ni
+consistía ser un pecador y en qué consistía creer en Jesús, no conocíamos ni
 
-siquiera los rudimentos del Evangelio. Nosotros mismos estbamos en tinieblas,
+siquiera los rudimentos del Evangelio. Nosotros mismos estábamos en tinieblas,
 
-aunque la luz brillara en torno nuestro, y no poda ser de otra manera, pues
+aunque la luz brillara en torno nuestro, y no podía ser de otra manera, pues
 
-nuestros ojos no haban sido abiertos. Cuando Jess vino, lo vimos todo, y
+nuestros ojos no habían sido abiertos. Cuando Jesús vino, lo vimos todo, y
 
 entendimos el misterio. Nuestros ojos, que una vez estaban ciegos, nos vieron
 
-claramente perdidos y vieron a Cristo sufriendo en nuestro lugar; cremos en
+claramente perdidos y vieron a Cristo sufriendo en nuestro lugar; creímos en
 
-l, nuestros pecados desaparecieron y fuimos aceptos en el Amado.
+Él, nuestros pecados desaparecieron y fuimos aceptos en el Amado.
 
 Mi querido amigo, si
 
-buscas reposo, pido al Seor que abra tus ojos para que veas las cosas
+buscas reposo, pido al Seńor que abra tus ojos para que veas las cosas
 
-sencillas del Evangelio. Un roce de Su dedo te har sabio para salvacin. No
+sencillas del Evangelio. Un roce de Su dedo te hará sabio para salvación. No
 
-hay necesidad de que estudies los veintin volmenes en folio de Alberto Magno,
+hay necesidad de que estudies los veintiún volúmenes en folio de Alberto Magno,
 
-y ni siquiera los cincuenta y dos volmenes de Juan Calvino, pues todo el
+y ni siquiera los cincuenta y dos volúmenes de Juan Calvino, pues todo el
 
-secreto del Evangelio radica en estas pocas palabras: Cree y vivirs; sin
+secreto del Evangelio radica en estas pocas palabras: “Cree y vivirás”; sin
 
-embargo, t no puedes abrir el atad a menos que el Seor te proporcione la
+embargo, tú no puedes abrir el ataúd a menos que el Seńor te proporcione la
 
-llave secreta. Se necesitan unos ojos abiertos para poder ver incluso a travs
+llave secreta. Se necesitan unos ojos abiertos para poder ver incluso a través
 
-de una ventana de cristal. As, el claro testimonio del Evangelio es oscuro
+de una ventana de cristal. Así, el claro testimonio del Evangelio es oscuro
 
 para los ojos ciegos.
 
 La siguiente obra del
 
-Mesas, de acuerdo al texto, es
+Mesías, de acuerdo al texto, es
 
 sacar de
 
-la crcel a los presos.
+la cárcel a los presos.
 
-sto, pienso, se relaciona con la servidumbre bajo
+Ésto, pienso, se relaciona con la servidumbre bajo
 
-la cual est el hombre por sus pecados. Los hbitos de pecado, cual redes de
+la cual está el hombre por sus pecados. Los hábitos de pecado, cual redes de
 
 hierro, rodean al pecador sin que pueda escapar de sus mallas. El hombre peca y
 
-se imagina que no puede evitar pecar. Cun a menudo nos dicen los impos que no
+se imagina que no puede evitar pecar. Cuán a menudo nos dicen los impíos que no
 
 pueden renunciar al mundo, que no pueden redimir sus pecados con justicia, y
 
-que no pueden creer en Jess. Den a conocer a todos los hombres que el Salvador
+que no pueden creer en Jesús. Den a conocer a todos los hombres que el Salvador
 
-ha venido con el propsito de romper todo lazo de pecado del cautivo y de liberarlo
+ha venido con el propósito de romper todo lazo de pecado del cautivo y de liberarlo
 
 de toda cadena del mal. He conocido a ciertos seres humanos que luchan contra
 
-el hbito de la blasfemia; otros luchan contra pasiones lascivas, y muchos ms
+el hábito de la blasfemia; otros luchan contra pasiones lascivas, y muchos más
 
-contra un espritu altivo o un temperamento irascible; y aunque han luchado
+contra un espíritu altivo o un temperamento irascible; y aunque han luchado
 
-virilmente utilizando su propia fuerza aunque sin xito, se han visto llenos de
+virilmente utilizando su propia fuerza aunque sin éxito, se han visto llenos de
 
-amarga desazn porque ellos mismos se traicionaron. Cuando un hombre cree en
+amarga desazón porque ellos mismos se traicionaron. Cuando un hombre cree en
 
-Jess, su resolucin de volverse un hombre libre se cumple en gran medida de
+Jesús, su resolución de volverse un hombre libre se cumple en gran medida de
 
-inmediato. Algunos pecados mueren en el instante en que creemos en Jess, y ya
+inmediato. Algunos pecados mueren en el instante en que creemos en Jesús, y ya
 
-no nos turban ms; otros se aferran a nosotros y mueren gradualmente, aunque
+no nos turban más; otros se aferran a nosotros y mueren gradualmente, aunque
 
-son vencidos al punto de que no volvern a enseorearse de nosotros nunca ms.
+son vencidos al punto de que no volverán a enseńorearse de nosotros nunca más.
 
 Oh, luchador, que
 
 batallas por alcanzar la libertad mental, moral y espiritual, si quieres ser
 
-libre, tu nica libertad posible est en Cristo. Si quieres deshacerte de los
+libre, tu única libertad posible está en Cristo. Si quieres deshacerte de los
 
-malos hbitos o de cualquier otra servidumbre mental, no te voy a prescribir
+malos hábitos o de cualquier otra servidumbre mental, no te voy a prescribir
 
-ningn remedio, excepto ste: que te entregues a Cristo, el Libertador.
+ningún remedio, excepto éste: que te entregues a Cristo, el Libertador.
 
-Las puertas de bronce ante l se rompen,
+“Las puertas de bronce ante Él se rompen,
 
-Los grillos de hierro ceden.
+Los grillos de hierro ceden”.
 
-male, y odiars el
+Ámale, y odiarás el
 
-pecado. Confa en l, y ya no confiars ms en ti mismo. Somtete a la
+pecado. Confía en Él, y ya no confiarás más en ti mismo. Sométete a la
 
-influencia del Dios encarnado y l aplastar la cabeza del dragn en tu
+influencia del Dios encarnado y Él aplastará la cabeza del dragón en tu
 
-interior y derribar a Satans bajo tus pies. Ninguna otra cosa puede hacerlo. Cristo
+interior y derribará a Satanás bajo tus pies. Ninguna otra cosa puede hacerlo. Cristo
 
-ha de recibir la gloria de tu conquista del ego. l puede liberarte del yugo
+ha de recibir la gloria de tu conquista del ego. Él puede liberarte del yugo
 
-frreo del pecado. l no ha fallado jams, y nunca fallar. Yo sinceramente le
+férreo del pecado. Él no ha fallado jamás, y nunca fallará. Yo sinceramente le
 
 ruego a todo aquel que desee romper con el pecado (y debemos deshacernos del
 
 pecado o hemos de perecer por su causa), que intente este remedio divino, y
 
-compruebe que le da una santa libertad. Pregntenles a las miles de personas
+compruebe que le da una santa libertad. Pregúntenles a las miles de personas
 
-que ya han credo en Jess, y su testimonio confirmar mi doctrina. La fe en el
+que ya han creído en Jesús, y su testimonio confirmará mi doctrina. La fe en el
 
-Seor Jess es el fin de la servidumbre y la alborada de la libertad.
+Seńor Jesús es el fin de la servidumbre y la alborada de la libertad.
 
-La ltima parte de esta
+La última parte de esta
 
 obra divina es:
 
-sacar de casas de prisin
+sacar de casas de prisión
 
 a los que moran en tinieblas.
 
-sto lo vamos a aplicar para quienes estn
+Ésto lo vamos a aplicar para quienes están
 
-verdaderamente emancipados, pero que, con todo, en razn del desnimo,
+verdaderamente emancipados, pero que, con todo, en razón del desánimo,
 
 permanecen en el oscuro calabozo. En nuestros deberes pastorales tenemos que
 
-consolar constantemente a personas que estn libres de sus pecados, habiendo
+consolar constantemente a personas que están libres de sus pecados, habiendo
 
-obtenido el poder sobre ellos por la gracia divina, pero que, con todo, estn
+obtenido el poder sobre ellos por la gracia divina, pero que, con todo, están
 
-sumidas en la tristeza. La puerta est abierta, los barrotes han sido rotos,
+sumidas en la tristeza. La puerta está abierta, los barrotes han sido rotos,
 
-pero con extraa obstinacin por el desnimo, permanecen en la celda del miedo
+pero con extrańa obstinación por el desánimo, permanecen en la celda del miedo
 
 en la que no tienen necesidad de continuar ni por un instante. No pueden creer
 
-que estas cosas buenas sean verdaderas para ellos. Perdonados ellos? Podran
+que estas cosas buenas sean verdaderas para ellos. żPerdonados ellos? Podrían
 
-creer que cualquier otro individuo sea perdonado, pero no ellos. Ser
+creer que cualquier otro individuo sea perdonado, pero no ellos. żSer
 
 ellos
 
-hechos hijos de Dios? No; podran
+hechos hijos de Dios? No; podrían
 
 tener esperanza por sus hermanas; se gozan al saber que su padre es un hijo de
 
-Dios, pero en cuanto a ellos, pueden tales bendiciones caer realmente en
+Dios, pero en cuanto a ellos, żpueden tales bendiciones caer realmente en
 
 suerte sobre seres tan indignos? Hemos hablado con cientos de esos individuos y
 
-hemos intentado consolarlos, pero slo nos hemos dado cuenta de nuestra
+hemos intentado consolarlos, pero sólo nos hemos dado cuenta de nuestra
 
-incapacidad en el arte de la consolacin. Son ricos en invenciones para la
+incapacidad en el arte de la consolación. Son ricos en invenciones para la
 
-tortura autoinfligida e ingeniosos para escapar del consuelo. Pero, ah!, el
+tortura autoinfligida e ingeniosos para escapar del consuelo. Pero, ˇah!, el
 
-bendito Seor de nuestras almas, cuyo oficio desde que cay Adn ha sido vendar
+bendito Seńor de nuestras almas, cuyo oficio desde que cayó Adán ha sido vendar
 
-los corazones quebrantados, nunca se ve frustrado. Cuando Su eterno Espritu
+los corazones quebrantados, nunca se ve frustrado. Cuando Su eterno Espíritu
 
 viene para ungir con el aceite del gozo, cambia pronto las cenizas y las
 
 convierte en algo hermoso. El apesadumbrado centinela de las vigilias de la
 
-noche ha de regocijarse cuando despunta el da y brilla el Sol de justicia.
+noche ha de regocijarse cuando despunta el día y brilla el Sol de justicia.
 
 Aunque yo les hablo con
 
-un lenguaje muy comn, el tema es en s mismo muy rico. Este nico pensamiento
+un lenguaje muy común, el tema es en sí mismo muy rico. Este único pensamiento
 
-debera hacer que sus corazones dancen de gozo: pensar que el Cristo de Dios
+debería hacer que sus corazones dancen de gozo: pensar que el Cristo de Dios
 
-asume la tarea de levantar a los espritus decados y desesperados y de llevarlos
+asume la tarea de levantar a los espíritus decaídos y desesperados y de llevarlos
 
-una vez ms a la esperanza y al gozo. Yo s quines se regocijarn al or esto:
+una vez más a la esperanza y al gozo. Yo sé quiénes se regocijarán al oír esto:
 
-aquella mujer que todos estos largos aos ha estado en servidumbre espiritual; aquel
+aquella mujer que todos estos largos ańos ha estado en servidumbre espiritual; aquel
 
 joven que ha aguantado una carga secreta un mes tras otro; aquel anciano que
 
 anhela encontrar a Cristo antes de encoger sus pies en su lecho mortuorio, y
 
-que piensa que su hora de gracia ha pasado. Hombre, no es como t piensas.
+que piensa que su hora de gracia ha pasado. Hombre, no es como tú piensas.
 
-Cristo es todava todopoderoso para salvar. El mensaje anuncia todava: El que
+Cristo es todavía todopoderoso para salvar. El mensaje anuncia todavía: “El que
 
-en l cree, no es condenado. El que quiera, tome del agua de la vida
+en él cree, no es condenado”. “El que quiera, tome del agua de la vida
 
-gratuitamente. A todos los sedientos: Venid a las aguas; y los que no tienen
+gratuitamente”. “A todos los sedientos: Venid a las aguas; y los que no tienen
 
 dinero, venid, comprad y comed. Venid, comprad sin dinero y sin precio, vino y
 
-leche. Prisioneros de la esperanza, su libertador est cerca, al alcance de la
+leche”. Prisioneros de la esperanza, su libertador está cerca, al alcance de la
 
-mano. Confen en l y sean libres. Aunque pareciera una fe arriesgada, arrisguense
+mano. Confíen en Él y sean libres. Aunque pareciera una fe arriesgada, arriésguense
 
-en l. l no puede rechazarlos y no lo har; l proclamar un jubileo y
+en Él. Él no puede rechazarlos y no lo hará; Él proclamará un jubileo y
 
-libertar a todo esclavo.
+libertará a todo esclavo.
 
-Vean, entonces, cmo nos
+Vean, entonces, cómo nos
 
-bendijo el grandioso Redentor: Jess, el Cristo, hace bien todas las cosas. l
+bendijo el grandioso Redentor: Jesús, el Cristo, hace bien todas las cosas. Él
 
-aclara el entendimiento. l rompe el poder de los hbitos pecaminosos. l quita
+aclara el entendimiento. Él rompe el poder de los hábitos pecaminosos. Él quita
 
-el peso del abatimiento. l lo hace todo. Cristo Jess, el hijo de Mara y el
+el peso del abatimiento. Él lo hace todo. Cristo Jesús, el hijo de María y el
 
-hijo de Jehov, es hombre, hueso de nuestro hueso y carne de nuestra carne, y
+hijo de Jehová, es hombre, hueso de nuestro hueso y carne de nuestra carne, y
 
-sin embargo, es Dios sobre todo bendito para siempre. Aquel que muri en el
+sin embargo, es Dios sobre todo bendito para siempre. Aquel que murió en el
 
 Calvario, cuya sangre preciosa es la panacea para todos los males humanos, es el
 
-Libertador de nuestra raza cada, y slo l.
+Libertador de nuestra raza caída, y sólo Él.
 
 IV.
 
-CUL
+żCUÁL
 
-ES EL DESIGNIO DE DIOS EN TODO STO?
+ES EL DESIGNIO DE DIOS EN TODO ÉSTO?
 
 Esta pregunta tiene su
 
-respuesta en el versculo que est a continuacin de nuestro texto: Yo Jehov;
+respuesta en el versículo que está a continuación de nuestro texto: “Yo Jehová;
 
-este es mi nombre; y a otro no dar mi gloria. El gran propsito de Dios en
+este es mi nombre; y a otro no daré mi gloria”. El gran propósito de Dios en
 
-Cristo era la manifestacin de Sus propios atributos gloriosos; es una sencilla
+Cristo era la manifestación de Sus propios atributos gloriosos; es una sencilla
 
 verdad, aunque es grande en consuelo, pues si el pecador que ha sido un atroz
 
 ofensor en contra de las leyes humanas y divinas se concibiera como un sujeto
 
-impropio para la gracia de Dios, yo lo tomara de la mano, y para que la
+impropio para la gracia de Dios, yo lo tomaría de la mano, y para que la
 
-desesperacin no lo condujera a pecar ms todava, pondra esta verdad
+desesperación no lo condujera a pecar más todavía, pondría esta verdad
 
-claramente delante de l. Dnde es ms glorificada la misericordia? Acaso no
+claramente delante de él. żDónde es más glorificada la misericordia? żAcaso no
 
-lo es al pasar por alto las ms graves ofensas? T has cometido graves ofensas;
+lo es al pasar por alto las más graves ofensas? Tú has cometido graves ofensas;
 
 entonces hay espacio en ti para que la misericordia sea manifestada
 
-grandemente. Dnde es ms glorificada la gracia? Acaso no lo es en la
+grandemente. żDónde es más glorificada la gracia? żAcaso no lo es en la
 
-conquista de las ms violentas pasiones? T las experimentas; por tanto, la
+conquista de las más violentas pasiones? Tú las experimentas; por tanto, la
 
 gracia puede ser glorificada en ti. Vamos, pecador de dura cerviz, en vez de
 
-ser un sujeto indigno de la gracia, me aventurar a decir que t eres uno de
+ser un sujeto indigno de la gracia, me aventuraré a decir que tú eres uno de
 
-los sujetos ms apropiados en todos los sentidos. Hay espacio suficiente en ti
+los sujetos más apropiados en todos los sentidos. Hay espacio suficiente en ti
 
-para que obre la gracia. Hay espacio en tu vaco para la plenitud de Dios. Hay en
+para que obre la gracia. Hay espacio en tu vacío para la plenitud de Dios. Hay en
 
 tu pecaminosidad un claro escenario para la sobreabundante gracia de Dios. Pero
 
-t has sido un jefe en el ejrcito del diablo. S, y cmo puede Dios asestar
+tú has sido un jefe en el ejército del diablo. Sí, y żcómo puede Dios asestar
 
-un golpe ms notorio en contra de las huestes de las tinieblas que capturndote
+un golpe más notorio en contra de las huestes de las tinieblas que capturándote
 
-a ti? Pero t me dices que eres un enorme pecador. Cmo el Seor de amor
+a ti? Pero tú me dices que eres un enorme pecador. żCómo el Seńor de amor
 
-podra alentar ms a otros pecadores a venir que llamndote a ti? Pues se
+podría alentar más a otros pecadores a venir que llamándote a ti? Pues se
 
-correra el rumor entre tus colegas pecadores: Ya se enteraron que Fulano de
+correría el rumor entre tus colegas pecadores: “żYa se enteraron que ‘Fulano de
 
-tal ha sido salvado? Yo s que se mofaran, pero aun as, en lo secreto de
+tal’ ha sido salvado?” Yo sé que se mofarían, pero aun así, en lo secreto de
 
-sus corazones, reflexionaran al respecto, y diran: Cmo es eso?, y seran
+sus corazones, reflexionarían al respecto, y dirían: “żCómo es eso?”, y serían
 
 conducidos a inquirir en los caminos de la gracia de Dios.
 
 Hace poco tiempo, un
 
-hermano comparti en la iglesia algo de su historia, y nos condujo a todos
+hermano compartió en la iglesia algo de su historia, y nos condujo a todos
 
-nosotros a regocijarnos en la gracia soberana. El haba practicado
+nosotros a regocijarnos en la gracia soberana. El había practicado
 
-habitualmente toda clase de pecados y de iniquidades; su profesin haba sido
+habitualmente toda clase de pecados y de iniquidades; su profesión había sido
 
-durante algunos aos la de un reconocido contrabandista, y en ese curso de vida
+durante algunos ańos la de un reconocido contrabandista, y en ese curso de vida
 
-fue llevado a coludirse con la escoria de la sociedad. Tambin tena
+fue llevado a coludirse con la escoria de la sociedad. También tenía
 
-experiencia en el arte pugilstico, y eso, todos los sabemos, es todo lo
+experiencia en el arte pugilístico, y eso, todos los sabemos, es todo lo
 
-contrario de tener una tendencia a la elevacin. Pero l vino al Tabernculo, y
+contrario de tener una tendencia a la elevación. Pero él vino al Tabernáculo, y
 
-aqu Jess se encontr con l, y el hermano se regocija ahora enseando a otros
+aquí Jesús se encontró con él, y el hermano se regocija ahora enseńando a otros
 
-el Evangelio que una vez rechaz. Pero qu piensan ustedes que ha acostumbrado
+el Evangelio que una vez rechazó. Pero żqué piensan ustedes que ha acostumbrado
 
-hacer estos tres aos? Algunos de nuestros hermanos predican en las calles y l
+hacer estos tres ańos? Algunos de nuestros hermanos predican en las calles y él
 
-los acompaa, y despus de que han comentado acerca de lo que puede hacer la
+los acompańa, y después de que han comentado acerca de lo que puede hacer la
 
 gracia de Dios, nuestro amigo se levanta y dice, humilde pero valerosamente:
 
-yo soy un testigo viviente de lo que puede hacer la gracia; puedo declararles
+“yo soy un testigo viviente de lo que puede hacer la gracia; puedo declararles
 
-lo que el amor de Dios ha hecho por m. Si el sermn que precede a su breve
+lo que el amor de Dios ha hecho por mí”. Si el sermón que precede a su breve
 
-comentario no interes a la gente, con toda seguridad se vern impactados con
+comentario no interesó a la gente, con toda seguridad se verán impactados con
 
 su testimonio personal, pues en algunas localidades mucha gente de la calle lo
 
-conoce, y al mirarlo, dicen: Vamos, ese es el viejo amigo Fulano de tal; y
+conoce, y al mirarlo, dicen: “Vamos, ese es el viejo amigo ‘Fulano de tal’; y
 
 el testimonio que da, obra poderosamente entre sus viejos amigos y conocidos.
 
@@ -1204,81 +1204,81 @@ Entonces, si hablo ahora
 
 con alguien que haya sido un gran ofensor, o un borracho, o cualquier otra
 
-cosa, te digo que si mi Seor te libera y te alista en Su ejrcito, habrn
+cosa, te digo que si mi Seńor te libera y te alista en Su ejército, habrán
 
-voces que brotarn de las huestes de Israel que harn que resuene el cielo,
+voces que brotarán de las huestes de Israel que harán que resuene el cielo,
 
-mientras que los filisteos temblarn, pues su Goliat ser eliminado y de su
+mientras que los filisteos temblarán, pues su Goliat será eliminado y de su
 
-cuerpo muerto surgir un nuevo adalid para luchar por el Seor de los
+cuerpo muerto surgirá un nuevo adalid para luchar por el Seńor de los
 
-ejrcitos. Si el Seor salvara a los hombres por sus mritos, no habra ninguna
+ejércitos. Si el Seńor salvara a los hombres por sus méritos, no habría ninguna
 
-esperanza para los grandes pecadores, ni la habra para nadie; pero si nos
+esperanza para los grandes pecadores, ni la habría para nadie; pero si nos
 
 salva para Su propia gloria, para enaltecer Su gracia y Su misericordia entre
 
-los hijos de los hombres, entonces nadie debe desesperar. Yo predicara el
+los hijos de los hombres, entonces nadie debe desesperar. Yo predicaría el
 
-Evangelio hasta en las propias puertas del infierno, y lo proclamara entre las
+Evangelio hasta en las propias puertas del infierno, y lo proclamaría entre las
 
 fauces de la muerte. Si Dios, para glorificar Su gracia, libera a los cautivos,
 
-entonces, por qu el pecador ms merecedor del infierno, cuyo corazn es como
+entonces, żpor qué el pecador más merecedor del infierno, cuyo corazón es como
 
 acero templado, no se vuelve un monumento del poder de Cristo para salvar? Yo
 
-recuerdo a uno que sola decir que si Dios tuviera misericordia de l, esa
+recuerdo a uno que solía decir que si Dios tuviera misericordia de él, esa
 
-misericordia fluira de manera ininterrumpida, y esta podra ser muy bien la
+misericordia fluiría de manera ininterrumpida, y esta podría ser muy bien la
 
-resolucin de todos nosotros: que si la gracia nos salva, la tierra y el cielo
+resolución de todos nosotros: que si la gracia nos salva, la tierra y el cielo
 
-han de or continuamente nuestras alabanzas. Tal como lo expresa uno de
+han de oír continuamente nuestras alabanzas. Tal como lo expresa uno de
 
 nuestros himnos:
 
-Entonces ser yo quien cante ms fuerte entre la multitud,
+“Entonces seré yo quien cante más fuerte entre la multitud,
 
 Mientras retumban las resonantes mansiones del cielo
 
-Con gritos acerca de la gracia soberana.
+Con gritos acerca de la gracia soberana”.
 
-S, cada uno de nosotros
+Sí, cada uno de nosotros
 
-cantar ms fuerte, cada uno con una deuda mayor, cada uno, por tanto, deseando
+cantará más fuerte, cada uno con una deuda mayor, cada uno, por tanto, deseando
 
-ser quien se incline ms bajo y quien ms alabe de todo corazn a la gracia que
+ser quien se incline más bajo y quien más alabe de todo corazón a la gracia que
 
 nos ha liberado.
 
 El tiempo vuela ante nosotros;
 
-los das pasan presurosos; los aos corren veloces. Cunto tiempo pasar antes
+los días pasan presurosos; los ańos corren veloces. żCuánto tiempo pasará antes
 
-de que Cristo gane sus corazones? Cunto tiempo oirn acerca de l, pero
+de que Cristo gane sus corazones? żCuánto tiempo oirán acerca de Él, pero
 
-continuarn rechazando Su gracia? Cunto tiempo, ustedes, inconversos,
+continuarán rechazando Su gracia? żCuánto tiempo, ustedes, inconversos,
 
-acariciarn sus cadenas y besarn sus grilletes? Volveos, volveos de vuestros
+acariciarán sus cadenas y besarán sus grilletes? “Volveos, volveos de vuestros
 
-malos caminos; por qu moriris, oh casa de Israel? Buscad a Jehov mientras
+malos caminos; żpor qué moriréis, oh casa de Israel?” Buscad a Jehová mientras
 
-puede ser hallado, llamadle en tanto que est cercano. Deje el impo su camino,
+puede ser hallado, llamadle en tanto que está cercano. Deje el impío su camino,
 
-y el hombre inicuo sus pensamientos, y vulvase a Jehov, el cual tendr de l
+y el hombre inicuo sus pensamientos, y vuélvase a Jehová, el cual tendrá de él
 
-misericordia, y al Dios nuestro, el cual ser amplio en perdonar.
+misericordia, y al Dios nuestro, el cual será amplio en perdonar”.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Isaas 42.
+del sermón: Isaías 42.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 31/Marzo/2011
 

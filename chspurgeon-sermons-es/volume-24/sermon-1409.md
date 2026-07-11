@@ -1,54 +1,54 @@
 # Sermón 1409 | Sermón 1409
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-La Ms Breve de las Siete Palabras
+La Más Breve de las Siete Palabras
 
 NO. 1409
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 14 DE ABRIL DE 1878
+MAŃANA DEL DOMINGO 14 DE ABRIL DE 1878
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Despus de esto, sabiendo Jess que
+“Después de esto, sabiendo Jesús que
 
-ya todo estaba consumado, dijo, para que la Escritura se cumpliese: Tengo sed.
+ya todo estaba consumado, dijo, para que la Escritura se cumpliese: Tengo sed.”
 
 Juan 19: 28.
 
 Era sumamente conveniente que cada palabra de
 
-nuestro Seor en la cruz fuera reunida y preservada. As como no sera quebrado
+nuestro Seńor en la cruz fuera reunida y preservada. Así como no sería quebrado
 
-ni un hueso Suyo, tampoco no se perdera ni una palabra. El Espritu Santo tuvo
+ni un hueso Suyo, tampoco no se perdería ni una palabra. El Espíritu Santo tuvo
 
 especial cuidado de que cada una de las sagradas expresiones fueran registradas
 
-convenientemente. Como ustedes saben, hubo siete de esas ltimas palabras, y
+convenientemente. Como ustedes saben, hubo siete de esas últimas palabras, y
 
-siete es el nmero de perfeccin y plenitud; ese nmero combina el tres del
+siete es el número de perfección y plenitud; ese número combina el tres del
 
-Dios infinito con el cuatro de la completa creacin. Como en todo lo dems,
+Dios infinito con el cuatro de la completa creación. Como en todo lo demás,
 
-nuestro Seor fue la perfeccin misma en Sus clamores de muerte. Hay una
+nuestro Seńor fue la perfección misma en Sus clamores de muerte. Hay una
 
-plenitud de significado en cada expresin que nadie sera capaz de captar enteramente,
+plenitud de significado en cada expresión que nadie sería capaz de captar enteramente,
 
 y cuando son combinadas, constituyen una vasta profundidad de pensamiento que
 
-ninguna medicin humana podra sondear. Aqu, como en cualquier otra parte, nos
+ninguna medición humana podría sondear. Aquí, como en cualquier otra parte, nos
 
-vemos constreidos a decir de nuestro Seor: Jams hombre alguno ha hablado
+vemos constreńidos a decir de nuestro Seńor: “ˇJamás hombre alguno ha hablado
 
-como este hombre! En medio de toda la angustia de Su espritu, Sus ltimas
+como este hombre!” En medio de toda la angustia de Su espíritu, Sus últimas
 
-palabras demuestran que tuvo pleno control de S mismo, y que fue fiel a Su
+palabras demuestran que tuvo pleno control de Sí mismo, y que fue fiel a Su
 
-naturaleza perdonadora, fiel a su oficio de Rey, fiel a Su relacin filial,
+naturaleza perdonadora, fiel a su oficio de Rey, fiel a Su relación filial,
 
 fiel a Su Dios, fiel a Su amor por la palabra escrita, fiel a Su gloriosa obra
 
@@ -58,583 +58,583 @@ Como estas siete palabras fueron registradas
 
 fielmente, no nos sorprende que hayan sido frecuentemente el tema de una devota
 
-meditacin. Padres y confesores, predicadores y telogos se han deleitado en
+meditación. Padres y confesores, predicadores y teólogos se han deleitado en
 
-reflexionar en cada slaba de estas palabras inigualables. Estas solemnes
+reflexionar en cada sílaba de estas palabras inigualables. Estas solemnes
 
 frases han resplandecido como los siete candeleros o las siete estrellas del
 
-Apocalipsis, y han guiado a multitudes de hombres hacia quien las pronunci. Hombres
+Apocalipsis, y han guiado a multitudes de hombres hacia quien las pronunció. Hombres
 
-reflexivos han extrado una riqueza de significado de ellas, y al hacerlo, las
+reflexivos han extraído una riqueza de significado de ellas, y al hacerlo, las
 
 han clasificado en diferentes grupos, y las han colocado bajo diversos
 
 encabezados.
 
-Yo slo puedo darles a apreciar una muestra de
+Yo sólo puedo darles a apreciar una muestra de
 
 este rico tema, pero me han impactado especialmente dos maneras de considerar
 
-las ltimas palabras de nuestro Seor. Primero, esas palabras ensean y
+las últimas palabras de nuestro Seńor. Primero, esas palabras enseńan y
 
 confirman muchas de las doctrinas de nuestra santa fe.
 
-Padre, perdnalos, porque no saben lo que hacen
+“Padre, perdónalos, porque no saben lo que hacen”
 
-es la primera. Aqu
+es la primera. Aquí
 
-tenemos el perdn del pecado, un perdn gratuito en respuesta a la splica del
+tenemos el perdón del pecado, un perdón gratuito en respuesta a la súplica del
 
 Salvador.
 
-Hoy estars conmigo en el
+“Hoy estarás conmigo en el
 
-paraso.
+paraíso”.
 
-Aqu tenemos la seguridad del creyente a la hora de su partida, y
+Aquí tenemos la seguridad del creyente a la hora de su partida, y
 
-su admisin instantnea en la presencia de su Seor. Es un golpe asestado
+su admisión instantánea en la presencia de su Seńor. Es un golpe asestado
 
-directamente al corazn de la fbula del purgatorio.
+directamente al corazón de la fábula del purgatorio.
 
-Mujer, he ah tu hijo.
+“Mujer, he ahí tu hijo”.
 
 Esto manifiesta claramente la propia
 
-humanidad real de Cristo, quien hasta el final reconoci Su relacin humana con
+humanidad real de Cristo, quien hasta el final reconoció Su relación humana con
 
-Mara, de quien naci. Sin embargo, Su lenguaje nos ensea a no adorarla
+María, de quien nació. Sin embargo, Su lenguaje nos enseńa a no adorarla
 
 a ella,
 
-pues la llama: mujer, y nos
+pues la llama: “mujer”, y nos
 
-lleva a honrarlo a l, que en Su ms terrible agona pens en las necesidades y
+lleva a honrarlo a Él, que en Su más terrible agonía pensó en las necesidades y
 
-aflicciones de ella, as como piensa de igual manera en todos los miembros de
+aflicciones de ella, así como piensa de igual manera en todos los miembros de
 
 Su pueblo ya que ellos son Su madre y Su hermana y Su hermano.
 
-Eloi, Eloi, lama sabactani?
+“Eloi, Eloi, żlama sabactani?”
 
 es la
 
 cuarta palabra que ilustra el castigo soportado por nuestro Sustituto, cuando
 
-carg con nuestros pecados y fue as desamparado por Su Dios. Ninguna
+cargó con nuestros pecados y fue así desamparado por Su Dios. Ninguna
 
-exposicin puede revelarnos plenamente la agudeza de esa frase: es penetrante
+exposición puede revelarnos plenamente la agudeza de esa frase: es penetrante
 
-como la propia hoja y la punta de la lanza que atraves Su corazn.
+como la propia hoja y la punta de la lanza que atravesó Su corazón.
 
-Tengo sed
+“Tengo sed”
 
 es la quinta palabra, y su
 
-expresin nos ensea la verdad de la Escritura, pues todas las cosas fueron
+expresión nos enseńa la verdad de la Escritura, pues todas las cosas fueron
 
-llevadas a cabo para que la Escritura se cumpliese, y por eso nuestro Seor
+llevadas a cabo para que la Escritura se cumpliese, y por eso nuestro Seńor
 
-dijo: Tengo sed. La Santa Escritura sigue siendo la base de nuestra fe,
+dijo: “Tengo sed”. La Santa Escritura sigue siendo la base de nuestra fe,
 
-confirmada por cada palabra y acto de nuestro Redentor. La penltima palabra
+confirmada por cada palabra y acto de nuestro Redentor. La penúltima palabra
 
 es:
 
-Consumado es.
+“Consumado es”.
 
-Ah tenemos la
+Ahí tenemos la
 
-completa justificacin del creyente, puesto que la obra por la cual es aceptado,
+completa justificación del creyente, puesto que la obra por la cual es aceptado,
 
-est realizada plenamente. La ltima de Sus palabras finales es tomada tambin
+está realizada plenamente. La última de Sus palabras finales es tomada también
 
-de las Escrituras, y nos muestra dnde se alimentaba Su mente. Clam, antes de
+de las Escrituras, y nos muestra dónde se alimentaba Su mente. Clamó, antes de
 
-inclinar la cabeza que haba sostenida erecta en medio de todo Su conflicto,
+inclinar la cabeza que había sostenida erecta en medio de todo Su conflicto,
 
-como uno que nunca cedi:
+como uno que nunca cedió:
 
-Padre, en tus
+“Padre, en tus
 
-manos encomiendo mi espritu.
+manos encomiendo mi espíritu”.
 
-En ese clamor hay reconciliacin para con
+En ese clamor hay reconciliación para con
 
-Dios. Aquel que estuvo en nuestro lugar, haba completado toda Su obra y ahora
+Dios. Aquel que estuvo en nuestro lugar, había completado toda Su obra y ahora
 
-Su espritu regresa al Padre y nos lleva con l. Por tanto, ustedes pueden ver
+Su espíritu regresa al Padre y nos lleva con Él. Por tanto, ustedes pueden ver
 
-que cada palabra nos ensea alguna doctrina fundamental de nuestra bendita fe.
+que cada palabra nos enseńa alguna doctrina fundamental de nuestra bendita fe.
 
-El que tiene odos para or, oiga.
+“El que tiene oídos para oír, oiga”.
 
 Un segundo modo de considerar estas siete
 
-palabras es comprobar que exponen la persona y los oficios de nuestro Seor,
+palabras es comprobar que exponen la persona y los oficios de nuestro Seńor,
 
-que las pronunci.
+que las pronunció.
 
-Padre, perdnalos,
+“Padre, perdónalos,
 
-porque no saben lo que hacen.
+porque no saben lo que hacen”.
 
-Aqu vemos al Mediador intercediendo: Jess
+Aquí vemos al Mediador intercediendo: Jesús
 
-est delante del Padre suplicando por el culpable.
+está delante del Padre suplicando por el culpable.
 
-De cierto te digo que hoy estars conmigo en el paraso.
+“De cierto te digo que hoy estarás conmigo en el paraíso”.
 
-Aqu
+Aquí
 
-est el Seor Jess en el poder de un Rey, abriendo con la llave de David una
+está el Seńor Jesús en el poder de un Rey, abriendo con la llave de David una
 
 puerta que nadie puede cerrar, admitiendo dentro de las puertas del cielo a la
 
-pobre alma que le haba confesado sobre el madero. Salve, eterno Rey en el
+pobre alma que le había confesado sobre el madero. ˇSalve, eterno Rey en el
 
-cielo, T admites a Tu paraso a quienquiera que te agrade! Tampoco estableces
+cielo, Tú admites a Tu paraíso a quienquiera que te agrade! Tampoco estableces
 
-un tiempo de espera, sino que abres la puerta de perla al instante. T tienes
+un tiempo de espera, sino que abres la puerta de perla al instante. Tú tienes
 
-todo poder en el cielo as como en la tierra. Luego vino:
+todo poder en el cielo así como en la tierra. Luego vino: “
 
-Mujer, he ah tu hijo.
+Mujer, he ahí tu hijo”.
 
-All vemos al Hijo del hombre preocupndose
+Allí vemos al Hijo del hombre preocupándose
 
 por Su afligida madre con la ternura de un hijo. En una palabra anterior,
 
-cuando abri el Paraso, vieron al Hijo de Dios; ahora ven a Aquel que fue
+cuando abrió el Paraíso, vieron al Hijo de Dios; ahora ven a Aquel que fue
 
 cierta y verdaderamente nacido de una mujer y sometido a la ley; y bajo la ley
 
-le ven todava, pues honra a Su madre y se preocupa por ella en el artculo de
+le ven todavía, pues honra a Su madre y se preocupa por ella en el artículo de
 
 la muerte. Luego viene:
 
-Dios mo, Dios
+“Dios mío, Dios
 
-mo, por qu me has desamparado?
+mío, żpor qué me has desamparado?”
 
-Aqu contemplamos Su
+Aquí contemplamos Su
 
 alma
 
-humana en angustia, Su ntimo
+humana en angustia, Su íntimo
 
-corazn sobrecogido por la retirada del rostro de Jehov, y siendo conducido a
+corazón sobrecogido por la retirada del rostro de Jehová, y siendo conducido a
 
 clamar como sumido en la perplejidad y en el asombro.
 
-Tengo sed,
+“Tengo sed”,
 
 es Su
 
 cuerpo
 
-humano atormentado por un penoso dolor. Aqu pueden ver cmo la carne mortal
+humano atormentado por un penoso dolor. Aquí pueden ver cómo la carne mortal
 
-tuvo que participar en la agona del espritu interior.
+tuvo que participar en la agonía del espíritu interior.
 
-Consumado es
+“Consumado es”
 
-es la penltima palabra y all ven al Salvador perfecto,
+es la penúltima palabra y allí ven al Salvador perfecto,
 
-al Capitn de nuestra salvacin que ha completado el cometido asumido, que
+al Capitán de nuestra salvación que ha completado el cometido asumido, que
 
-termin con la transgresin, que puso un fin al pecado y que trajo la justicia
+terminó con la transgresión, que puso un fin al pecado y que trajo la justicia
 
-eterna. La ltima palabra al expirar, en la que
+eterna. La última palabra al expirar, en la que
 
-encomend Su espritu a Su Padre,
+encomendó Su espíritu a Su Padre,
 
-es la nota de aceptacin para S
+es la nota de aceptación para Sí
 
-mismo y para todos nosotros. Al encomendar Su espritu a la mano del Padre, as
+mismo y para todos nosotros. Al encomendar Su espíritu a la mano del Padre, así
 
-lleva a todos los creyentes cerca de Dios, y de all en adelante estamos en la
+lleva a todos los creyentes cerca de Dios, y de allí en adelante estamos en la
 
-mano del Padre, que es ms grande que todos, por lo que nadie nos arrancar de all.
+mano del Padre, que es más grande que todos, por lo que nadie nos arrancará de allí.
 
-Acaso no es ste un frtil campo de pensamiento? Que el Espritu Santo nos
+żAcaso no es éste un fértil campo de pensamiento? Que el Espíritu Santo nos
 
-conduzca a menudo a espigar all.
+conduzca a menudo a espigar allí.
 
 Hay muchas otras maneras en las que se pudieran
 
-leer estas palabras y se encontrara que todas estn llenas de instruccin.
+leer estas palabras y se encontraría que todas están llenas de instrucción.
 
-Como los peldaos de una escalera o los eslabones de una cadena de oro, hay una
+Como los peldańos de una escalera o los eslabones de una cadena de oro, hay una
 
-dependencia mutua y una vinculacin interna entre cada una de las palabras, de
+dependencia mutua y una vinculación interna entre cada una de las palabras, de
 
-tal manera que una conduce a la otra y sa, a una tercera. Separadamente o en
+tal manera que una conduce a la otra y ésa, a una tercera. Separadamente o en
 
-conexin, las palabras de nuestro Maestro desbordan instruccin para las mentes
+conexión, las palabras de nuestro Maestro desbordan instrucción para las mentes
 
-ponderativas: pero de todas ella, con la excepcin de una, debo decir: de las
+ponderativas: pero de todas ella, con la excepción de una, debo decir: “de las
 
-cuales no se puede hablar ahora en detalle.
+cuales no se puede hablar ahora en detalle”.
 
-Nuestro texto contiene la ms breve de todas las
+Nuestro texto contiene la más breve de todas las
 
-palabras del Calvario; consta de dos palabras en nuestro idioma: Tengo sed, pero
+palabras del Calvario; consta de dos palabras en nuestro idioma: “Tengo sed”, pero
 
-en el idioma griego slo tiene una. No puedo decir que sea breve y dulce, pues,
+en el idioma griego sólo tiene una. No puedo decir que sea breve y dulce, pues,
 
-ay, fue la amargura misma para nuestro Seor Jess; y, sin embargo, yo confo
+ay, fue la amargura misma para nuestro Seńor Jesús; y, sin embargo, yo confío
 
 que de su amargura ha de brotar una gran dulzura para nosotros. Aunque fueron
 
-amargas para l, al decirlas, sern dulces para nosotros al orlas, tan dulces,
+amargas para Él, al decirlas, serán dulces para nosotros al oírlas, tan dulces,
 
-que toda la amargura de nuestras pruebas sern olvidadas al recordar el vinagre
+que toda la amargura de nuestras pruebas serán olvidadas al recordar el vinagre
 
-y la hiel que l bebi.
+y la hiel que Él bebió.
 
-Con la ayuda del Espritu Santo intentaremos
+Con la ayuda del Espíritu Santo intentaremos
 
-considerar estas palabras de nuestro Salvador bajo una luz quntupla. Primero,
+considerar estas palabras de nuestro Salvador bajo una luz quíntupla. Primero,
 
-hemos de mirarlas como LA ENSEA DE SU VERDADERA HUMANIDAD. Jess dijo: Tengo
+hemos de mirarlas como LA ENSEŃA DE SU VERDADERA HUMANIDAD. Jesús dijo: “Tengo
 
-sed, y sta es la queja de un hombre. Nuestro Seor es el Hacedor del ocano y
+sed”, y ésta es la queja de un hombre. Nuestro Seńor es el Hacedor del océano y
 
-de las aguas que estn sobre el firmamento: Su mano detiene o abre las botellas
+de las aguas que están sobre el firmamento: Su mano detiene o abre las botellas
 
-del cielo, y hace llover sobre malos y buenos. Suyo tambin el mar, pues l lo
+del cielo, y hace llover sobre malos y buenos. “Suyo también el mar, pues él lo
 
-hizo, y l abre todas las fuentes y los manantiales. l derrama los arroyos
+hizo”, y Él abre todas las fuentes y los manantiales. Él derrama los arroyos
 
-que corren entre las colinas, los torrentes que caen desde las montaas, y los
+que corren entre las colinas, los torrentes que caen desde las montańas, y los
 
-ros que fluyen y enriquecen las llanuras. Uno habra dicho: si l estuviera
+ríos que fluyen y enriquecen las llanuras. Uno habría dicho: ‘si Él estuviera
 
-sediento no nos lo dira, pues todas las nubes y las lluvias se alegraran de
+sediento no nos lo diría, pues todas las nubes y las lluvias se alegrarían de
 
-refrescar Su frente, y los riachuelos y las corrientes fluiran dichosamente a
+refrescar Su frente, y los riachuelos y las corrientes fluirían dichosamente a
 
-Sus pies.
+Sus pies’.
 
-Y, sin embargo, siendo el Seor de todo, haba
+Y, sin embargo, siendo el Seńor de todo, había
 
 tomado la forma de un siervo tan plenamente y era hecho en la semejanza de la
 
-carne de pecado tan perfectamente, que clam con desfalleciente voz: Tengo
+carne de pecado tan perfectamente, que clamó con desfalleciente voz: “Tengo
 
-sed. Cun verdaderamente es un hombre; l es, en verdad, hueso de nuestros
+sed”. Cuán verdaderamente es un hombre; Él es, en verdad, “hueso de nuestros
 
-huesos y carne de nuestra carne, pues lleva nuestras dolencias.
+huesos y carne de nuestra carne”, pues lleva nuestras dolencias.
 
 Yo los invito a meditar sobre la humanidad
 
-verdadera de nuestro Seor, muy reverentemente y muy amorosamente. Qued
+verdadera de nuestro Seńor, muy reverentemente y muy amorosamente. Quedó
 
-demostrado que Jess era realmente hombre, porque sufri los dolores propios de
+demostrado que Jesús era realmente hombre, porque sufrió los dolores propios de
 
-la condicin de hombre. Los ngeles no pueden sufrir de sed. Un fantasma, como
+la condición de hombre. Los ángeles no pueden sufrir de sed. Un fantasma, como
 
-le han llamado algunos, no podra sufrir de esa manera; pero Jess sufri
+le han llamado algunos, no podría sufrir de esa manera; pero Jesús sufrió
 
-realmente, no slo los ms refinados dolores de mentes delicadas y sensibles,
+realmente, no sólo los más refinados dolores de mentes delicadas y sensibles,
 
-sino tambin las dolencias ms torvas y ms comunes de carne y sangre. La sed
+sino también las dolencias más torvas y más comunes de carne y sangre. La sed
 
-es una miseria comn, tal como la sufren los campesinos y los mendigos; es un
+es una miseria común, tal como la sufren los campesinos y los mendigos; es un
 
-dolor real, y no un producto de la imaginacin o una pesadilla del pas de los
+dolor real, y no un producto de la imaginación o una pesadilla del país de los
 
-sueos. Aunque los reyes no suelen padecer de sed, es un mal universal de la
+sueńos. Aunque los reyes no suelen padecer de sed, es un mal universal de la
 
-condicin humana. Jess es hermano de los ms pobres y de los ms humildes de
+condición humana. Jesús es hermano de los más pobres y de los más humildes de
 
 nuestra raza.
 
-Nuestro Seor, sin embargo, padeci la sed a un
+Nuestro Seńor, sin embargo, padeció la sed a un
 
-grado extremo, pues l senta la sed de la muerte y algo peor todava, ya que
+grado extremo, pues Él sentía la sed de la muerte y algo peor todavía, ya que
 
-era la sed de alguien cuya muerte no era comn, pues l gust la muerte por
+era la sed de alguien cuya muerte no era común, pues “Él gustó la muerte por
 
-todos. Tal vez, esa sed fue provocada en parte por la prdida de sangre, y por
+todos”. Tal vez, esa sed fue provocada en parte por la pérdida de sangre, y por
 
-la fiebre creada por la irritacin causada por Sus cuatro dolorosas heridas.
+la fiebre creada por la irritación causada por Sus cuatro dolorosas heridas.
 
-Los clavos estaban sujetados en las partes ms sensibles del cuerpo, y las
+Los clavos estaban sujetados en las partes más sensibles del cuerpo, y las
 
-heridas se abran conforme el peso de Su cuerpo arrastraba los clavos a travs
+heridas se abrían conforme el peso de Su cuerpo arrastraba los clavos a través
 
-de Su carne bendita y rompa Sus delicados nervios. La tensin extrema produca
+de Su carne bendita y rompía Sus delicados nervios. La tensión extrema producía
 
-una fiebre ardiente. El severo dolor le secaba Su boca convirtindola en un
+una fiebre ardiente. El severo dolor le secaba Su boca convirtiéndola en un
 
-horno, hasta llevarlo a declarar, en el lenguaje del Salmo veintids: Mi
+horno, hasta llevarlo a declarar, en el lenguaje del Salmo veintidós: “Mi
 
-lengua se peg a mi paladar. Fue una sed tal que nadie de nosotros ha conocido
+lengua se pegó a mi paladar”. Fue una sed tal que nadie de nosotros ha conocido
 
-jams, pues el roco de la muerte no se ha condensado todava sobre nuestra
+jamás, pues el rocío de la muerte no se ha condensado todavía sobre nuestra
 
 frente. Tal vez la conoceremos a nuestra medida en la hora de nuestra muerte,
 
-pero no todava, ni la sentiremos tan terriblemente como l lo hizo. Nuestro
+pero no todavía, ni la sentiremos tan terriblemente como Él lo hizo. Nuestro
 
-Seor sinti esa penosa sequa de la disolucin que provoca que toda humedad se
+Seńor sintió esa penosa sequía de la disolución que provoca que toda humedad se
 
-evapore y que la carne retorne al polvo de la muerte: aqullos que han
+evapore y que la carne retorne al polvo de la muerte: aquéllos que han
 
-comenzado a caminar en el valle de la sombra de muerte saben de sto. Jess,
+comenzado a caminar en el valle de la sombra de muerte saben de ésto. Jesús,
 
-siendo un hombre, no escap de ninguno de los males que son repartidos al
+siendo un hombre, no escapó de ninguno de los males que son repartidos al
 
-hombre en la muerte. l es en verdad Emanuel, Dios con nosotros en todo.
+hombre en la muerte. Él es en verdad “Emanuel, Dios con nosotros” en todo.
 
-Creyendo esto, debemos sentir con ternura cun
+Creyendo esto, debemos sentir con ternura cuán
 
-ntimamente semejante a nosotros se ha vuelto nuestro Seor Jess. T has
+íntimamente semejante a nosotros se ha vuelto nuestro Seńor Jesús. Tú has
 
-estado enfermo, t has sido quemado por la fiebre como l lo fue, y tambin has
+estado enfermo, tú has sido quemado por la fiebre como Él lo fue, y también has
 
-dicho jadeando: Tengo sed. Tu senda corre muy cerca de la de tu Maestro. l
+dicho jadeando: “Tengo sed”. Tu senda corre muy cerca de la de tu Maestro. Él
 
-dijo: Tengo sed, para que alguien le trajera algo de beber, igual que t
+dijo: “Tengo sed”, para que alguien le trajera algo de beber, igual que tú
 
-desearas beber algn fresco sorbo que te fuera ofrecido cuando no puedes
+desearías beber algún fresco sorbo que te fuera ofrecido cuando no puedes
 
-servrtelo t mismo. Podras evitar sentir cun cercano est Jess a nosotros,
+servírtelo tú mismo. żPodrías evitar sentir cuán cercano está Jesús a nosotros,
 
-cuando Sus labios deban ser humedecidos con una esponja y tena que depender de
+cuando Sus labios debían ser humedecidos con una esponja y tenía que depender de
 
-otros tanto como para pedir de beber de sus manos? La prxima vez que tus
+otros tanto como para pedir de beber de sus manos? La próxima vez que tus
 
-labios enfebrecidos murmuren: Tengo mucha sed, te podras decir: Esas son
+labios enfebrecidos murmuren: “Tengo mucha sed”, te podrías decir: “Esas son
 
-palabras sagradas, pues mi Seor habl de esa manera.
+palabras sagradas, pues mi Seńor habló de esa manera”.
 
-Las palabras Tengo sed, son una voz comn en
+Las palabras “Tengo sed”, son una voz común en
 
-las cmaras mortuorias. No podemos olvidar las dolorosas escenas de las que
+las cámaras mortuorias. No podemos olvidar las dolorosas escenas de las que
 
-hemos sido testigos, cuando hemos observado la disolucin de algn cuerpo
+hemos sido testigos, cuando hemos observado la disolución de algún cuerpo
 
-humano. Hemos visto a algunos de nuestros seres ms queridos en una incapacidad
+humano. Hemos visto a algunos de nuestros seres más queridos en una incapacidad
 
-de atenderse a s mismos; el sudor de la muerte estaba sobre ellos, y sta ha
+de atenderse a sí mismos; el sudor de la muerte estaba sobre ellos, y ésta ha
 
-sido una de las seales de su prxima disolucin: que ardan de sed, y slo
+sido una de las seńales de su próxima disolución: que ardían de sed, y sólo
 
-podan musitar entre sus labios semiabiertos: dame de beber.
+podían musitar entre sus labios semiabiertos: “dame de beber”.
 
-Ah, amados, nuestro Seor era un hombre, tan
+Ah, amados, nuestro Seńor era un hombre, tan
 
 verdaderamente, que todos nuestros dolores nos traen recuerdos Suyos: la
 
-prxima vez que estemos sedientos podemos contemplarlo a l; y siempre que
+próxima vez que estemos sedientos podemos contemplarlo a Él; y siempre que
 
-veamos a algn amigo desfallecido y sediento a la hora de su muerte, podemos
+veamos a algún amigo desfallecido y sediento a la hora de su muerte, podemos
 
-contemplar a nuestro Seor reflejado en sus miembros tenuemente, si bien
+contemplar a nuestro Seńor reflejado en sus miembros tenuemente, si bien
 
-verdaderamente. Cun ntimamente relacionado con nosotros est el sediento
+verdaderamente. Cuán íntimamente relacionado con nosotros está el sediento
 
-Salvador. Debemos amarle ms y ms.
+Salvador. Debemos amarle más y más.
 
-Cun grande es el amor que le condujo a una
+ˇCuán grande es el amor que le condujo a una
 
-condescendencia como sa! No debemos olvidar la infinita distancia que hay
+condescendencia como ésa! No debemos olvidar la infinita distancia que hay
 
-entre el Seor de gloria en Su trono y el Crucificado consumido por la sed. Un
+entre el Seńor de gloria en Su trono y el Crucificado consumido por la sed. Un
 
-ro del agua de vida, pura como el cristal, proviene hoy del trono de Dios y
+río del agua de vida, pura como el cristal, proviene hoy del trono de Dios y
 
-del Cordero y, sin embargo, una vez l condescendi a decir: Tengo sed. l es
+del Cordero y, sin embargo, una vez Él condescendió a decir: “Tengo sed”. Él es
 
-Seor de las fuentes y de todos los abismos, pero ni un solo vaso de agua
+Seńor de las fuentes y de todos los abismos, pero ni un solo vaso de agua
 
-fresca fue puesto en Sus labios. Oh, si l
+fresca fue puesto en Sus labios. Oh, si Él
 
 en cualquier momento hubiera dicho delante de
 
-Sus guardas anglicos: Tengo sed, ellos seguramente habran emulado el valor
+Sus guardas angélicos: “Tengo sed”, ellos seguramente habrían emulado el valor
 
-de los hombres de David cuando se abrieron paso hasta el pozo de Beln que
+de los hombres de David cuando se abrieron paso hasta el pozo de Belén que
 
-estaba junto a la puerta, y sacaron agua a riesgo de sus vidas. Quin de
+estaba junto a la puerta, y sacaron agua a riesgo de sus vidas. żQuién de
 
-nosotros no derramara voluntariamente su alma hasta la muerte si slo pudiera
+nosotros no derramaría voluntariamente su alma hasta la muerte si sólo pudiera
 
-darle un refrigerio al Seor? Y sin embargo, por nuestra causa l se puso en
+darle un refrigerio al Seńor? Y sin embargo, por nuestra causa Él se puso en
 
-una posicin de vergenza y de sufrimiento en la que nadie querra atenderle,
+una posición de vergüenza y de sufrimiento en la que nadie querría atenderle,
 
-sino que cuando clam: Tengo sed, ms bien le dieron a beber vinagre. Cun
+sino que cuando clamó: “Tengo sed”, más bien le dieron a beber vinagre. ˇCuán
 
-gloriosa inclinacin de nuestra Cabeza exaltada! Oh Seor Jess, nosotros te
+gloriosa inclinación de nuestra Cabeza exaltada! ˇOh Seńor Jesús, nosotros te
 
-amamos y te adoramos! De buena gana enaltecemos Tu nombre en recuerdo
+amamos y te adoramos! ˇDe buena gana enaltecemos Tu nombre en recuerdo
 
 agradecido de las profundidades a las que descendiste!
 
-Mientras admiramos as Su condescendencia, nuestros
+Mientras admiramos así Su condescendencia, nuestros
 
-pensamientos han de dirigirse con deleite a Su evidente identificacin con
+pensamientos han de dirigirse con deleite a Su evidente identificación con
 
-nosotros: pues si Jess dijo: Tengo sed, entonces l conoce todas nuestras
+nosotros: pues si Jesús dijo: “Tengo sed”, entonces Él conoce todas nuestras
 
-fragilidades y aflicciones. La prxima vez que sintamos dolor o que suframos de
+fragilidades y aflicciones. La próxima vez que sintamos dolor o que suframos de
 
-depresin de espritu recordaremos que nuestro Seor lo entiende todo, pues ha
+depresión de espíritu recordaremos que nuestro Seńor lo entiende todo, pues ha
 
-tenido una experiencia prctica y personal de eso. Ni en la tortura del cuerpo
+tenido una experiencia práctica y personal de eso. Ni en la tortura del cuerpo
 
-ni en la pesadumbre del corazn somos abandonados por nuestro Seor; Su lnea
+ni en la pesadumbre del corazón somos abandonados por nuestro Seńor; Su línea
 
-es paralela a la nuestra. La flecha que te ha traspasado ltimamente, hermano
+es paralela a la nuestra. La flecha que te ha traspasado últimamente, hermano
 
-mo, primero fue manchada con Su sangre. La copa que ahora eres conducido a
+mío, primero fue manchada con Su sangre. La copa que ahora eres conducido a
 
 beber, por muy amarga que sea, muestra la huella de Sus labios sobre su borde.
 
-l ha recorrido el aciago camino antes que t, y cada huella que dejas sobre el
+Él ha recorrido el aciago camino antes que tú, y cada huella que dejas sobre el
 
 suelo mojado muestra junto a ella la huella de Sus pies. Entonces, debemos
 
-creer plenamente y apreciar profundamente la simpata de Cristo, puesto que
+creer plenamente y apreciar profundamente la simpatía de Cristo, puesto que
 
-dijo: Tengo sed.
+dijo: “Tengo sed”.
 
-A partir de ahora, tenemos que cultivar tambin
+A partir de ahora, tenemos que cultivar también
 
-el espritu de resignacin, pues haramos bien en regocijarnos al tomar una
+el espíritu de resignación, pues haríamos bien en regocijarnos al tomar una
 
 cruz que Sus hombros han llevado ya antes que nosotros. Amados, si nuestro
 
-Maestro dijo: Tengo sed, acaso esperamos beber diariamente de los torrentes
+Maestro dijo: “Tengo sed”, żacaso esperamos beber diariamente de los torrentes
 
-del Lbano? l era inocente y, sin embargo, tuvo sed; habramos de asombrarnos
+del Líbano? Él era inocente y, sin embargo, tuvo sed; żhabríamos de asombrarnos
 
 si los culpables son castigados de vez en cuando? Si era tan pobre que fue
 
 despojado de Sus vestidos y fue colgado en un madero, sin un centavo y sin
 
-amigos, hambriento y sediento, acaso gemirn o murmurarn a partir de ahora
+amigos, hambriento y sediento, żacaso gemirán o murmurarán a partir de ahora
 
-porque llevan un yugo de pobreza y carencia? Hay pan en tu mesa hoy, y habr al
+porque llevan un yugo de pobreza y carencia? Hay pan en tu mesa hoy, y habrá al
 
-menos un vaso de agua fra para refrescarte. Por tanto, no eres tan pobre como
+menos un vaso de agua fría para refrescarte. Por tanto, no eres tan pobre como
 
-era l. Entonces, no debes quejarte. Ser ms el siervo que su Seor, o el
+era Él. Entonces, no debes quejarte. żSerá más el siervo que su Seńor, o el
 
-discpulo ms que su Maestro? Tenga la paciencia su obra completa.
+discípulo más que su Maestro? “Tenga la paciencia su obra completa”.
 
-T realmente sufres. Tal vez, amada hermana,
+Tú realmente sufres. Tal vez, amada hermana,
 
-sufres de una royente enfermedad que carcome tu corazn; pero Jess tom nuestras
+sufres de una royente enfermedad que carcome tu corazón; pero Jesús tomó nuestras
 
-enfermedades, y Su copa fue ms amarga que la tuya. Que el jadeo de tu Seor al
+enfermedades, y Su copa fue más amarga que la tuya. Que el jadeo de tu Seńor al
 
-decir: Tengo sed, entre en tus odos en tu aposento, y cuando lo oigas, deja
+decir: “Tengo sed”, entre en tus oídos en tu aposento, y cuando lo oigas, deja
 
-que toque tu corazn y haga que te cias y que digas: Dice l: Tengo sed?
+que toque tu corazón y haga que te cińas y que digas: “żDice Él: “Tengo sed”?
 
-Entonces tendr sed con l y no me quejar; sufrir con l y no murmurar. El
+Entonces tendré sed con Él y no me quejaré; sufriré con Él y no murmuraré”. El
 
-clamor del Redentor: Tengo sed es una solemne leccin de paciencia para Sus
+clamor del Redentor: “Tengo sed” es una solemne lección de paciencia para Sus
 
 afligidos.
 
-Al pensar en esta expresin: Tengo sed, que
+Al pensar en esta expresión: “Tengo sed”, que
 
-demuestra la humanidad de nuestro Seor, debemos resolver adems que no hemos
+demuestra la humanidad de nuestro Seńor, debemos resolver además que no hemos
 
-de rehuir ninguna negacin, antes bien que hemos de cortejarlas para ser
+de rehuir ninguna negación, antes bien que hemos de cortejarlas para ser
 
-conformados a Su imagen. No deberamos sentirnos medio avergonzados de
+conformados a Su imagen. żNo deberíamos sentirnos medio avergonzados de
 
 nuestros placeres, cuando
 
-l
+Él
 
 dice:
 
-Tengo sed? No podramos despreciar nuestra mesa sobrecargada cuando
+“Tengo sed”? żNo podríamos despreciar nuestra mesa sobrecargada cuando
 
-l
+Él
 
-est tan abandonado? Ser una
+está tan abandonado? żSerá una
 
-penalidad jams que se nos niegue el trago que satisface cuando
+penalidad jamás que se nos niegue el trago que satisface cuando
 
-l
+Él
 
-dijo: Tengo sed? Sern satisfechos
+dijo: “Tengo sed”? żSerán satisfechos
 
-los apetitos carnales y sern consentidos los cuerpos, cuando Jess clam:
+los apetitos carnales y serán consentidos los cuerpos, cuando Jesús clamó:
 
-Tengo sed? Qu importa que el pan est seco, qu importa que la
+“Tengo sed”? żQué importa que el pan esté seco, qué importa que la
 
 medicina
 
 sea nauseabunda, cuando para Su sed no hubo alivio
 
-sino hiel y vinagre? Acaso nos atreveramos a quejarnos? Por Su causa debemos
+sino hiel y vinagre? żAcaso nos atreveríamos a quejarnos? Por Su causa debemos
 
-regocijarnos en la autonegacin y aceptar a Cristo y un mendrugo de pan como
+regocijarnos en la autonegación y aceptar a Cristo y un mendrugo de pan como
 
-todo lo que deseamos de aqu al cielo.
+todo lo que deseamos de aquí al cielo.
 
 Un cristiano que vive para satisfacer los bajos
 
-apetitos de una bestia bruta, para comer y beber casi hasta la glotonera y la
+apetitos de una bestia bruta, para comer y beber casi hasta la glotonería y la
 
 ebriedad, es completamente indigno del nombre. La conquista de los apetitos y
 
-la entera subyugacin de la carne deben alcanzarse, pues antes nuestro
+la entera subyugación de la carne deben alcanzarse, pues antes nuestro
 
-grandioso Ejemplo dijo: Consumado es, en donde me parece que alcanz la mayor
+grandioso Ejemplo dijo: “Consumado es”, en donde me parece que alcanzó la mayor
 
-altura de todas. Cuando dijo: Tengo sed slo descendi un escaln desde
+altura de todas. Cuando dijo: “Tengo sed” sólo descendió un escalón desde
 
-aquella suprema elevacin. El poder de sufrir por otro, la capacidad de ser
+aquella suprema elevación. El poder de sufrir por otro, la capacidad de ser
 
 abnegado incluso hasta el extremo para cumplir alguna gran obra para Dios, esto
 
-es algo que ha de buscarse, y debe ser ganado antes de que nuestra obra est
+es algo que ha de buscarse, y debe ser ganado antes de que nuestra obra esté
 
-terminada, y en esto Jess es para nosotros nuestro ejemplo y nuestra
+terminada, y en esto Jesús es para nosotros nuestro ejemplo y nuestra
 
 fortaleza.
 
-As he tratado de atisbar alguna medida de
+Así he tratado de atisbar alguna medida de
 
-enseanza, usando ese lente para los ojos del alma a travs del cual miramos la
+enseńanza, usando ese lente para los ojos del alma a través del cual miramos la
 
-expresin: Tengo sed como la ensea de Su verdadera humanidad.
+expresión: “Tengo sed” como la enseńa de Su verdadera humanidad.
 
 II.
 
 En segundo lugar, consideraremos estas palabras:
 
-Tengo sed, como EL SIGNO DE SU DOLIENTE SUSTITUCIN. La gran Fianza dice:
+“Tengo sed”, como EL SIGNO DE SU DOLIENTE SUSTITUCIÓN. La gran Fianza dice:
 
-Tengo sed, porque es colocado en el lugar del pecador y, por tanto, debe
+“Tengo sed”, porque es colocado en el lugar del pecador y, por tanto, debe
 
-sufrir el castigo del pecado de los impos. Dios mo, Dios mo, por qu me
+sufrir el castigo del pecado de los impíos. “Dios mío, Dios mío, żpor qué me
 
-has desamparado?, seala la angustia de Su alma; Tengo sed expresa en parte
+has desamparado?”, seńala la angustia de Su alma; “Tengo sed” expresa en parte
 
-la tortura de Su cuerpo; y ambas cosas eran necesarias porque est escrito del
+la tortura de Su cuerpo; y ambas cosas eran necesarias porque está escrito del
 
-Dios de justicia que l es quien puede destruir el alma y el cuerpo en el
+Dios de justicia que Él es quien “puede destruir el alma y el cuerpo en el
 
-infierno, y los dolores agudos que se han de pagar a la ley son de ambos
+infierno”, y los dolores agudos que se han de pagar a la ley son de ambos
 
-tipos, y tocan el corazn y la carne.
+tipos, y tocan el corazón y la carne.
 
-Vean, hermanos, dnde comienza el pecado, y
+Vean, hermanos, dónde comienza el pecado, y
 
-fjense que all termina. Comenz con la boca del apetito, cuando fue
+fíjense que allí termina. Comenzó con la boca del apetito, cuando fue
 
 gratificado pecaminosamente, y termina cuando un apetito similar es negado
 
@@ -642,151 +642,151 @@ resueltamente. Nuestros primeros padres arrancaron el fruto prohibido, y al
 
 comerlo, mataron a la raza. El apetito fue la puerta del pecado, y por tanto,
 
-nuestro Seor fue expuesto al dolor en ese punto. Con Tengo sed, el mal es
+nuestro Seńor fue expuesto al dolor en ese punto. Con “Tengo sed”, el mal es
 
-destruido y recibe su expiacin.
+destruido y recibe su expiación.
 
-Vi el otro da el emblema de una serpiente con
+Vi el otro día el emblema de una serpiente con
 
-su cola en su boca, y si lo transporto ms all de la intencin del artista, el
+su cola en su boca, y si lo transporto más allá de la intención del artista, el
 
-smbolo puede expresar al apetito tragndose a s mismo. Un apetito carnal del
+símbolo puede expresar al apetito tragándose a sí mismo. Un apetito carnal del
 
-cuerpo, la satisfaccin del deseo de alimentos, nos abati bajo el primer Adn,
+cuerpo, la satisfacción del deseo de alimentos, nos abatió bajo el primer Adán,
 
-y ahora el agudo malestar de la sed, la negacin de lo que el cuerpo apeteca,
+y ahora el agudo malestar de la sed, la negación de lo que el cuerpo apetecía,
 
 nos restaura a nuestro lugar.
 
 Y esto no es todo. Sabemos por experiencia que
 
-el efecto presente del pecado en todo hombre que se entrega a l, es la sed del
+el efecto presente del pecado en todo hombre que se entrega a él, es la sed del
 
 alma. La mente del hombre es como las hijas de la sanguijuela que dicen todo el
 
-tiempo: dame! Dame! Entendida metafricamente, la sed es insatisfaccin, el
+tiempo: “ˇdame! ˇDame!” Entendida metafóricamente, la sed es insatisfacción, el
 
 deseo ardiente de la mente, de algo que no tiene, pero que desea con
 
-vehemencia. Nuestro Seor dice: Si alguno tiene sed, venga a m y beba,
+vehemencia. Nuestro Seńor dice: “Si alguno tiene sed, venga a mí y beba”,
 
-siendo esa sed el resultado del pecado en cada hombre impo en este momento.
+siendo esa sed el resultado del pecado en cada hombre impío en este momento.
 
-Ahora, estando en el lugar del impo, Cristo
+Ahora, estando en el lugar del impío, Cristo
 
-sufre de sed como un tipo que nos ensea que est soportando el resultado del
+sufre de sed como un tipo que nos enseńa que está soportando el resultado del
 
-pecado. Ms solemne an es la reflexin de que, de acuerdo a la propia
+pecado. Más solemne aún es la reflexión de que, de acuerdo a la propia
 
-enseanza de nuestro Seor, la sed ser tambin el eterno resultado del pecado,
+enseńanza de nuestro Seńor, la sed será también el eterno resultado del pecado,
 
-pues l dice en relacin al glotn millonario: Y en el Hades alz sus ojos,
+pues Él dice en relación al glotón millonario: “Y en el Hades alzó sus ojos,
 
-estando en tormentos, y su peticin, que le fue negada, fue, Padre Abraham,
+estando en tormentos”, y su petición, que le fue negada, fue, “Padre Abraham,
 
-ten misericordia de m, y enva a Lzaro para que moje la punta de su dedo en
+ten misericordia de mí, y envía a Lázaro para que moje la punta de su dedo en
 
-agua, y refresque mi lengua; porque estoy atormentado en esta llama. Ahora,
+agua, y refresque mi lengua; porque estoy atormentado en esta llama”. Ahora,
 
-recuerden que si Jess no hubiera tenido sed, cada uno de nosotros habra
+recuerden que si Jesús no hubiera tenido sed, cada uno de nosotros habría
 
 tenido sed por siempre muy lejos de Dios, con una impasable sima entre nosotros
 
 y el cielo. Nuestras lenguas pecaminosas, ampolladas por la fiebre de la
 
-pasin, habran tenido que arder eternamente si Su lengua no hubiese sido
+pasión, habrían tenido que arder eternamente si Su lengua no hubiese sido
 
-atormentada por la sed en lugar nuestro. Yo supongo que la frase: Tengo sed
+atormentada por la sed en lugar nuestro. Yo supongo que la frase: “Tengo sed”
 
-fue expresada suavemente, de modo que quizs uno o dos que estaban cerca de la
+fue expresada suavemente, de modo que quizás uno o dos que estaban cerca de la
 
-cruz alcanzaron a orla; en contraste con el ms fuerte clamor:
+cruz alcanzaron a oírla; en contraste con el más fuerte clamor:
 
-Lama sabactani
+“Lama sabactani”
 
 y el triunfante grito
 
-de: Consumado es!, ese suspiro que fue suave y desfalleciente: Tengo sed,
+de: “ˇConsumado es!”, ese suspiro que fue suave y desfalleciente: “Tengo sed”,
 
 ha calmado la sed para nosotros que de otra manera, insaciablemente feroz,
 
-habra hecho presa de nosotros a lo largo de la eternidad.
+habría hecho presa de nosotros a lo largo de la eternidad.
 
-Oh, asombrosa sustitucin del justo por el
+Oh, asombrosa sustitución del justo por el
 
 injusto, de Dios por el hombre, del perfecto Cristo por nosotros, seres culpables
 
-y rebeldes que merecamos el infierno. Debemos engrandecer y bendecir el nombre
+y rebeldes que merecíamos el infierno. Debemos engrandecer y bendecir el nombre
 
 de nuestro Redentor.
 
-Me parece muy asombroso que estas palabras: Tengo
+Me parece muy asombroso que estas palabras: “Tengo
 
-sed, fueran, por decirlo as, la liquidacin de todo. Tan pronto dijo: Tengo
+sed”, fueran, por decirlo así, la liquidación de todo. Tan pronto dijo: “Tengo
 
-sed, y sorbi el vinagre, clam: Consumado es!; y todo termin: la batalla
+sed”, y sorbió el vinagre, clamó: “ˇConsumado es!”; y todo terminó: la batalla
 
 fue peleada y la victoria fue ganada para siempre, y la sed de nuestro
 
-grandioso Liberador fue el signo de que l haba eliminado al ltimo enemigo.
+grandioso Liberador fue el signo de que Él había eliminado al último enemigo.
 
-La inundacin de Su dolor haba sobrepasado la lnea de pleamar, y comenzaba a bajar.
+La inundación de Su dolor había sobrepasado la línea de pleamar, y comenzaba a bajar.
 
-Tengo sed fue la experimentacin del ltimo dolor agudo; qu si digo que fue
+“Tengo sed” fue la experimentación del último dolor agudo; żqué si digo que fue
 
-la expresin del hecho de que Sus dolores haban comenzado a cesar por fin, y
+la expresión del hecho de que Sus dolores habían comenzado a cesar por fin, y
 
-que su furia haba pasado, y le haba dejado en libertad de notar Sus dolores
+que su furia había pasado, y le había dejado en libertad de notar Sus dolores
 
-menores? La excitacin de una gran lucha hace que los hombres olviden la sed y la
+menores? La excitación de una gran lucha hace que los hombres olviden la sed y la
 
-debilidad; es slo cuando todo ha terminado que vuelven en s y notan el
+debilidad; es sólo cuando todo ha terminado que vuelven en sí y notan el
 
-desgaste de sus fuerzas. La gran agona de ser desamparado por Dios haba terminado,
+desgaste de sus fuerzas. La gran agonía de ser desamparado por Dios había terminado,
 
-y cuando la tensin fue retirada, se senta desfallecido.
+y cuando la tensión fue retirada, se sentía desfallecido.
 
-Me gusta pensar que la palabra de nuestro Seor:
+Me gusta pensar que la palabra de nuestro Seńor:
 
-Consumado es! fue dicha inmediatamente despus de que hubo exclamado: Tengo
+“ˇConsumado es!” fue dicha inmediatamente después de que hubo exclamado: “Tengo
 
-sed, pues estas dos voces vienen muy naturalmente juntas. Nuestro glorioso
+sed”, pues estas dos voces vienen muy naturalmente juntas. Nuestro glorioso
 
-Sansn haba luchado contra nuestros enemigos; un montn, dos montones haba
+Sansón había luchado contra nuestros enemigos; ‘un montón, dos montones había
 
-herido a sus miles, y ahora como Sansn, estaba terriblemente sediento. Sorbi
+herido a sus miles’, y ahora como Sansón, estaba terriblemente sediento. Sorbió
 
-del vinagre y se refresc, y tan pronto como hubo apagado la sed clam como un
+del vinagre y se refrescó, y tan pronto como hubo apagado la sed clamó como un
 
-vencedor: Consumado es!, y abandon el campo cubierto de renombre.
+vencedor: “ˇConsumado es!”, y abandonó el campo cubierto de renombre.
 
 Debemos exultarnos al ver a nuestro Sustituto
 
-completando Su obra hasta su ms amargo fin, y luego con un Consummatum est
+completando Su obra hasta su más amargo fin, y luego con un “Consummatum est”
 
 (Consumado es), retornando a Su Padre, Dios. Oh almas cargadas de pecado,
 
-descansen ustedes aqu, y descansando, vivan.
+descansen ustedes aquí, y descansando, vivan.
 
 III.
 
 Ahora tomaremos el texto desde una tercera
 
-perspectiva, y pedimos que el Espritu de Dios nos instruya una vez ms. La
+perspectiva, y pedimos que el Espíritu de Dios nos instruya una vez más. La
 
-expresin: Tengo sed expuso UN TIPO DEL TRATAMIENTO DEL HOMBRE PARA SU SEOR.
+expresión: “Tengo sed” expuso UN TIPO DEL TRATAMIENTO DEL HOMBRE PARA SU SEŃOR.
 
-Fue una confirmacin del testimonio de la Escritura con relacin a la enemistad
+Fue una confirmación del testimonio de la Escritura con relación a la enemistad
 
 natural del hombre para con Dios. De acuerdo al pensamiento moderno, el hombre
 
 es una criatura muy buena y noble que se esfuerza por volverse mejor. Ha de ser
 
-grandemente alabado y admirado, pues se dice que su pecado es una bsqueda de
+grandemente alabado y admirado, pues se dice que su pecado es una búsqueda de
 
-Dios, y su supersticin es una lucha por alcanzar la luz. Puesto que es un ser
+Dios, y su superstición es una lucha por alcanzar la luz. Puesto que es un ser
 
-grandioso y excelentsimo, la verdad debe ser alterada para l y el Evangelio
+grandioso y excelentísimo, la verdad debe ser alterada para él y el Evangelio
 
 ha de ser modulado para que se adecue al tono de sus variadas generaciones, y
 
@@ -796,145 +796,145 @@ justicia debe abandonar el campo, no vaya a resultar demasiado severa para un
 
 ser tan merecedor; en cuanto al castigo, no debe susurrarse a sus corteses
 
-odos. De hecho, la tendencia es exaltar al hombre por encima de Dios y darle
+oídos. De hecho, la tendencia es exaltar al hombre por encima de Dios y darle
 
-el lugar ms elevado.
+el lugar más elevado.
 
-Pero sa no es la apreciacin verdadera del
+Pero ésa no es la apreciación verdadera del
 
-hombre de acuerdo a las Escrituras: all el hombre es una criatura cada, con
+hombre de acuerdo a las Escrituras: allí el hombre es una criatura caída, con
 
 una mente carnal que no puede ser reconciliada con Dios; peor que una criatura
 
 salvaje, devuelve mal por bien y trata a su Dios con una vil ingratitud. Ay, el
 
-hombre es un esclavo embaucado por Satans, y un traidor de negro corazn a su
+hombre es un esclavo embaucado por Satanás, y un traidor de negro corazón a su
 
-Dios. No decan las profecas que el hombre dara a su Dios encarnado hiel
+Dios. żNo decían las profecías que el hombre daría a su Dios encarnado hiel
 
-para comer y vinagre para beber? Ya lo hizo. l vino para salvarlo, pero el
+para comer y vinagre para beber? Ya lo hizo. Él vino para salvarlo, pero el
 
-hombre le neg la hospitalidad: al principio no hubo espacio para l en el
+hombre le negó la hospitalidad: al principio no hubo espacio para Él en el
 
-mesn, y al final no hubo ni un solo vaso de agua fresca que pudiera beber;
+mesón, y al final no hubo ni un solo vaso de agua fresca que pudiera beber;
 
 antes bien, cuando tuvo sed, le dieron a beber vinagre. Este es el tratamiento
 
-que el hombre da a su Salvador. El hombre universal, dejado a s mismo,
+que el hombre da a su Salvador. El hombre universal, dejado a sí mismo,
 
 rechaza, crucifica y escarnece al Cristo de Dios.
 
-ste ha sido tambin el acto del hombre en su
+Éste ha sido también el acto del hombre en su
 
-mejor momento, cuando es movido a la compasin; pues parece claro que aqul que
+mejor momento, cuando es movido a la compasión; pues parece claro que aquél que
 
-alz la esponja hmeda hasta los labios del Redentor, lo hizo por compasin. Yo
+alzó la esponja húmeda hasta los labios del Redentor, lo hizo por compasión. Yo
 
-creo que ese soldado romano tena buenas intenciones, al menos buenas para un
+creo que ese soldado romano tenía buenas intenciones, al menos buenas para un
 
-rudo soldado con poca luz y conocimiento. Corri y remoj la esponja en
+rudo soldado con poca luz y conocimiento. Corrió y remojó la esponja en
 
-vinagre: era la mejor manera que conoca de poner unas cuantas gotas de humedad
+vinagre: era la mejor manera que conocía de poner unas cuantas gotas de humedad
 
-en los labios de alguien que estaba sufriendo tanto; pero aunque sinti un
+en los labios de alguien que estaba sufriendo tanto; pero aunque sintió un
 
-grado de piedad, era del tipo que uno podra mostrar a un perro; no sinti
+grado de piedad, era del tipo que uno podría mostrar a un perro; no sintió
 
-ninguna reverencia, sino que se burlaba al tiempo que aliviaba. Leemos: Los
+ninguna reverencia, sino que se burlaba al tiempo que aliviaba. Leemos: “Los
 
-soldados tambin lo escarnecan, acercndose y presentndole vinagre. Cuando
+soldados también lo escarnecían, acercándose y presentándole vinagre”. Cuando
 
-nuestro Seor clam: Eloi, Eloi, y dijo despus: Tengo sed, las personas en
+nuestro Seńor clamó: “Eloi, Eloi”, y dijo después: “Tengo sed”, las personas en
 
-torno a la cruz dijeron: Deja, veamos si viene Elas a librarle, burlndose
+torno a la cruz dijeron: “Deja, veamos si viene Elías a librarle”, burlándose
 
-de l; y, segn Marcos, el que le dio el vinagre expres las mismas palabras.
+de Él; y, según Marcos, el que le dio el vinagre expresó las mismas palabras.
 
-Tuvo piedad del sufriente pero pens tan poco en l, que se uni a las voces de
+Tuvo piedad del sufriente pero pensó tan poco en Él, que se unió a las voces de
 
 escarnio. Incluso cuando el hombre se compadece de los sufrimientos de Cristo,
 
--y el hombre dejara de ser humano si no lo hiciera- aun as se burla de l; la
+-y el hombre dejaría de ser humano si no lo hiciera- aun así se burla de Él; la
 
-propia copa que el hombre le da a Jess es a la vez escarnio y compasin, pues
+propia copa que el hombre le da a Jesús es a la vez escarnio y compasión, pues
 
-el corazn de los impos es cruel. Miren cmo el hombre, en su mejor momento,
+“el corazón de los impíos es cruel”. Miren cómo el hombre, en su mejor momento,
 
-mezcla la admiracin por la persona del Salvador con el desprecio de Sus pretensiones;
+mezcla la admiración por la persona del Salvador con el desprecio de Sus pretensiones;
 
 escribe libros para ponerlo como un ejemplo y al mismo tiempo rechaza Su
 
-deidad; admite que fue un hombre portentoso, pero niega Su ms sagrada misin; encomia
+deidad; admite que fue un hombre portentoso, pero niega Su más sagrada misión; encomia
 
-Su enseanza tica y luego pisotea Su sangre: as tambin le da de beber, pero
+Su enseńanza ética y luego pisotea Su sangre: así también le da de beber, pero
 
-la bebida es vinagre. Oh, mis oyentes, eviten elogiar a Jess y negar Su
+la bebida es vinagre. Oh, mis oyentes, eviten elogiar a Jesús y negar Su
 
 sacrificio expiatorio. Eviten rendirle homenaje y deshonrar Su nombre al mismo
 
 tiempo.
 
-Ay, hermanos mos, no puedo decir mucho sobre el
+Ay, hermanos míos, no puedo decir mucho sobre el
 
-recuento de la crueldad del hombre hacia nuestro Seor, sin hacer referencia a
+recuento de la crueldad del hombre hacia nuestro Seńor, sin hacer referencia a
 
-m mismo y a ustedes. Acaso
+mí mismo y a ustedes. żAcaso
 
 nosotros
 
 no
 
-le hemos dado a beber vinagre a menudo? No hicimos so aos antes de que lo
+le hemos dado a beber vinagre a menudo? żNo hicimos éso ańos antes de que lo
 
-conociramos? Solamos derretirnos cuando oamos acerca de Sus sufrimientos,
+conociéramos? Solíamos derretirnos cuando oíamos acerca de Sus sufrimientos,
 
-pero no nos arrepentamos de nuestros pecados. Le dbamos nuestras lgrimas y
+pero no nos arrepentíamos de nuestros pecados. Le dábamos nuestras lágrimas y
 
-luego lo contristbamos con nuestros pecados. Algunas veces pensbamos que lo
+luego lo contristábamos con nuestros pecados. Algunas veces pensábamos que lo
 
-ambamos cuando oamos la historia de Su muerte, pero no cambibamos nuestras
+amábamos cuando oíamos la historia de Su muerte, pero no cambiábamos nuestras
 
-vidas por causa de l, ni ponamos nuestra confianza en l y, as, le dbamos a
+vidas por causa de Él, ni poníamos nuestra confianza en Él y, así, le dábamos a
 
-beber vinagre. Y la afliccin no termina ah, pues las mejores obras que hemos
+beber vinagre. Y la aflicción no termina ahí, pues las mejores obras que hemos
 
-hecho jams, y los mejores sentimientos que hemos sentido jams, y las mejores
+hecho jamás, y los mejores sentimientos que hemos sentido jamás, y las mejores
 
-oraciones que hemos ofrecido jams, acaso no han sido amargados y agriados por
+oraciones que hemos ofrecido jamás, żacaso no han sido amargados y agriados por
 
-el pecado? Podran compararse con el vino generoso? No son acaso ms
+el pecado? żPodrían compararse con el vino generoso? żNo son acaso más
 
-semejantes al punzante vinagre? Me asombra que las haya recibido jams, como
+semejantes al punzante vinagre? Me asombra que las haya recibido jamás, como
 
-uno se pregunta por qu recibi este vinagre; y, sin embargo, los ha recibido,
+uno se pregunta por qué recibió este vinagre; y, sin embargo, los ha recibido,
 
-y nos ha sonredo por presentrselos.
+y nos ha sonreído por presentárselos.
 
-l supo cmo convertir el agua en vino en una
+Él supo cómo convertir el agua en vino en una
 
-ocasin, y en amor inigualable ha convertido a menudo nuestras amargas
+ocasión, y en amor inigualable ha convertido a menudo nuestras amargas
 
-libaciones en algo dulce para S, aunque en s mismas, me parece, han sido el
+libaciones en algo dulce para Sí, aunque en sí mismas, me parece, han sido el
 
 jugo de uvas amargas, lo suficientemente agrias para producirle dentera. Por lo
 
-tanto, podemos presentarnos delante de l con todo el resto de nuestra raza,
+tanto, podemos presentarnos delante de Él con todo el resto de nuestra raza,
 
-cuando Dios los rinda al arrepentimiento por Su amor y lo miren a l, a quien
+cuando Dios los rinda al arrepentimiento por Su amor y lo miren a Él, a quien
 
-hemos traspasado y lloramos por l como quien se aflige por su primognito. Haramos
+hemos traspasado y lloramos por Él como quien se aflige por su primogénito. Haríamos
 
-bien en recordar nuestras faltas en este da,
+bien en recordar nuestras faltas en este día,
 
-Nosotros,
+“Nosotros,
 
-cuya propensin a olvidar
+cuya propensión a olvidar
 
 Que Tu
 
 precioso amor, en el Olivo
 
-Ba Tu
+Bańó Tu
 
 frente con sudor sangriento;
 
@@ -948,11 +948,11 @@ descendieron sobre Ti,
 
 En aquella
 
-hora que excluy a Dios;
+hora que excluyó a Dios;
 
 Nosotros, que
 
-todava, en pensamiento y obra,
+todavía, en pensamiento y obra,
 
 A menudo
 
@@ -960,267 +960,267 @@ sostenemos la amarga vara
 
 Para Ti, en
 
-Tu tiempo de necesidad.
+Tu tiempo de necesidad”.
 
 He tocado ese punto muy ligeramente porque
 
-quiero un poco ms de tiempo para reflexionar sobre una cuarta perspectiva de
+quiero un poco más de tiempo para reflexionar sobre una cuarta perspectiva de
 
-esta escena. Pido que el Espritu Santo nos ayude a or una cuarta
+esta escena. Pido que el Espíritu Santo nos ayude a oír una cuarta
 
-sintonizacin de esta msica doliente, Tengo sed.
+sintonización de esta música doliente, “Tengo sed”.
 
 IV.
 
-Pienso, queridos amigos, que el clamor que deca:
+Pienso, queridos amigos, que el clamor que decía:
 
-Tengo sed fue LA EXPRESIN MSTICA DEL DESEO DE SU CORAZN: Tengo sed. No
+“Tengo sed” fue LA EXPRESIÓN MÍSTICA DEL DESEO DE SU CORAZÓN: “Tengo sed”. No
 
-puedo pensar que lo nico que senta era la sed natural. Sin duda tena
+puedo pensar que lo único que sentía era la sed natural. Sin duda tenía
 
-necesidad de agua, pero Su alma estaba sedienta en un sentido ms elevado; en
+necesidad de agua, pero Su alma estaba sedienta en un sentido más elevado; en
 
-verdad, pareciera que l habl para que se cumplieran las Escrituras en lo
+verdad, pareciera que Él habló para que se cumplieran las Escrituras en lo
 
-relativo al ofrecimiento del vinagre. Siempre estuvo en armona consigo mismo,
+relativo al ofrecimiento del vinagre. Siempre estuvo en armonía consigo mismo,
 
-y Su cuerpo fue siempre expresivo de los deseos ardientes de Su alma as como
+y Su cuerpo fue siempre expresivo de los deseos ardientes de Su alma así como
 
-tambin de sus propios anhelos. Tengo sed quera decir que Su corazn estaba
+también de sus propios anhelos. “Tengo sed” quería decir que Su corazón estaba
 
-sediento de salvar a los hombres. Esta sed haba estado en l desde Sus ms
+sediento de salvar a los hombres. Esta sed había estado en Él desde Sus más
 
-tempranos das terrenales. No sabais dijo l, siendo todava un muchacho-
+tempranos días terrenales. “żNo sabíais” –dijo Él, siendo todavía un muchacho-
 
-que en los negocios de mi Padre me es necesario estar? No les dijo a Sus
+“que en los negocios de mi Padre me es necesario estar?” żNo les dijo a Sus
 
-discpulos: De un bautismo tengo que ser bautizado; y cmo me angustio hasta que
+discípulos: “De un bautismo tengo que ser bautizado; y ˇcómo me angustio hasta que
 
-se cumpla!? Tena sed de arrancarnos de entre las fauces del infierno, de
+se cumpla!?” Tenía sed de arrancarnos de entre las fauces del infierno, de
 
-pagar el precio de nuestra redencin y de liberarnos de la eterna condenacin
+pagar el precio de nuestra redención y de liberarnos de la eterna condenación
 
 que pesaba sobre nosotros; y cuando Su obra estaba casi completada en la cruz,
 
-Su sed no haba sido aliviada y no poda serlo hasta decir: Consumado es!
+Su sed no había sido aliviada y no podía serlo hasta decir: “ˇConsumado es!”
 
-Est casi hecho, oh Cristo de Dios; T casi has salvado a Tu pueblo; queda una
+Está casi hecho, oh Cristo de Dios; Tú casi has salvado a Tu pueblo; queda una
 
-sola cosa ms: que debes morir realmente, y a esto se debe Tu poderoso deseo de
+sola cosa más: que debes morir realmente, y a esto se debe Tu poderoso deseo de
 
-llegar hasta el fin y de completar Tu labor. T estabas constreido hasta
+llegar hasta el fin y de completar Tu labor. Tú estabas constreńido hasta
 
-sentir el ltimo dolor agudo y hasta decir la ltima palabra para completar la
+sentir el último dolor agudo y hasta decir la última palabra para completar la
 
-plena redencin, y de ah Tu clamor: Tengo sed.
+plena redención, y de ahí Tu clamor: “Tengo sed”.
 
 Amados, hay ahora en nuestro Maestro, y siempre
 
-ha habido, una sed de amor de Su pueblo. No recuerdan cun tremenda era Su sed
+ha habido, una sed de amor de Su pueblo. żNo recuerdan cuán tremenda era Su sed
 
-en los antiguos das del profeta? Evoquen Su queja en el captulo quinto de
+en los antiguos días del profeta? Evoquen Su queja en el capítulo quinto de
 
-Isaas: Ahora cantar por mi amado el cantar de mi amado a su via. Tena mi
+Isaías: “Ahora cantaré por mi amado el cantar de mi amado a su vińa. Tenía mi
 
-amado una via en una ladera frtil. La haba cercado y despedregado y plantado
+amado una vińa en una ladera fértil. La había cercado y despedregado y plantado
 
-de vides escogidas; haba edificado en medio de ella una torre, y hecho tambin
+de vides escogidas; había edificado en medio de ella una torre, y hecho también
 
-en ella un lagar. Qu esperaba de Su via y de su lagar? Qu otra cosa
+en ella un lagar”. żQué esperaba de Su vińa y de su lagar? żQué otra cosa
 
-esperaba sino el jugo de la vid para poder refrescarse? Y esperaba que diese
+esperaba sino el jugo de la vid para poder refrescarse? “Y esperaba que diese
 
-uvas, y dio uvas silvestres; dio vinagre, mas no vino; amargura, mas no
+uvas, y dio uvas silvestres”; dio vinagre, mas no vino; amargura, mas no
 
-dulzura. l estaba sediento entonces.
+dulzura. Él estaba sediento entonces.
 
 De acuerdo al sagrado cantar de amor, en el
 
-captulo quinto del Cantar de los Cantares, aprendemos que cuando l bebi, en
+capítulo quinto del Cantar de los Cantares, aprendemos que cuando Él bebió, en
 
-aquellos tiempos de antao, fue en el huerto de Su iglesia donde fue
+aquellos tiempos de antańo, fue en el huerto de Su iglesia donde fue
 
-refrescado. Qu dice? Yo vine a mi huerto, oh hermana, esposa ma; he
+refrescado. żQué dice? “Yo vine a mi huerto, oh hermana, esposa mía; he
 
 recogido mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi
 
-leche he bebido. Comed, amigos; bebed en abundancia, oh amados. En el mismo
+leche he bebido. Comed, amigos; bebed en abundancia, oh amados”. En el mismo
 
-cantar l habla de Su iglesia, y dice: Y tu paladar como el buen vino, que se
+cantar Él habla de Su iglesia, y dice: “Y tu paladar como el buen vino, que se
 
-entra a mi amado suavemente, y hace hablar los labios de los viejos. Y, sin
+entra a mi amado suavemente, y hace hablar los labios de los viejos”. Y, sin
 
-embargo, en el captulo octavo, la esposa dice: Yo te hara beber vino adobado
+embargo, en el capítulo octavo, la esposa dice: “Yo te haría beber vino adobado
 
-del mosto de mis granadas. S, a l le encanta estar con Su pueblo; ellos son
+del mosto de mis granadas”. Sí, a Él le encanta estar con Su pueblo; ellos son
 
 el huerto donde camina para refrescarse, y el amor de ellos y sus gracias, son
 
-la leche y el vino que a l le encanta beber.
+la leche y el vino que a Él le encanta beber.
 
 Cristo siempre estuvo sediento de salvar a los
 
 hombres y de ser amado por los hombres; y vemos un tipo de Su deseo vitalicio
 
-cuando, estando cansado se sent as junto al pozo y le dijo a la mujer de
+cuando, estando cansado se sentó así junto al pozo y le dijo a la mujer de
 
-Samaria: Dame de beber. Haba un significado ms profundo en Sus palabras de
+Samaria: “Dame de beber”. Había un significado más profundo en Sus palabras de
 
-lo que ella se imaginaba, como un versculo posterior lo demuestra plenamente,
+lo que ella se imaginaba, como un versículo posterior lo demuestra plenamente,
 
-cuando le dijo a Sus discpulos: Yo tengo una comida que comer, que vosotros
+cuando le dijo a Sus discípulos: “Yo tengo una comida que comer, que vosotros
 
-no sabis. l obtena refrigerio espiritual al ganar para S el corazn de esa
+no sabéis”. Él obtenía refrigerio espiritual al ganar para Sí el corazón de esa
 
 mujer.
 
-Y, ahora, hermanos, nuestro bendito Seor tiene
+Y, ahora, hermanos, nuestro bendito Seńor tiene
 
-en este momento una sed de comunin con cada uno de ustedes, los que son
+en este momento una sed de comunión con cada uno de ustedes, los que son
 
-miembros de Su pueblo, no porque pudieran hacerle algn bien, sino porque l
+miembros de Su pueblo, no porque pudieran hacerle algún bien, sino porque Él
 
-puede hacerles un bien a ustedes. l tiene sed de bendecirlos de recibir a
+puede hacerles un bien a ustedes. Él tiene sed de bendecirlos de recibir a
 
-cambio su agradecido amor; l tiene sed de verlos mirar con ojos creyentes a Su
+cambio su agradecido amor; Él tiene sed de verlos mirar con ojos creyentes a Su
 
-plenitud, y de que le ofrezcan con mano extendida su vaco, para que l remedie
+plenitud, y de que le ofrezcan con mano extendida su vacío, para que Él remedie
 
-la carencia. l dice: He aqu, yo estoy a la puerta y llamo. Para qu llama?
+la carencia. Él dice: “He aquí, yo estoy a la puerta y llamo”. żPara qué llama?
 
-Es para comer y beber contigo, pues l promete que si le abrimos, entrar y
+Es para comer y beber contigo, pues Él promete que si le abrimos, entrará y
 
-cenar con nosotros, y nosotros con l. Vean, l todava est sediento de
+cenará con nosotros, y nosotros con Él. Vean, Él todavía está sediento de
 
-nuestro pobre amor, y seguramente no podemos negrselo. Vengan y derramemos
+nuestro pobre amor, y seguramente no podemos negárselo. Vengan y derramemos
 
 vasijas llenas hasta que Su gozo sea cumplido en nosotros.
 
-Y qu le hace amarnos as? Ah, eso no podra
+żY qué le hace amarnos así? Ah, eso no podría
 
-decirlo, excepto Su propio gran amor. l
+decirlo, excepto Su propio gran amor. Él
 
 debe
 
-amar; es Su naturaleza. l tiene que amar a Sus escogidos a quienes comenz
+amar; es Su naturaleza. Él tiene que amar a Sus escogidos a quienes comenzó
 
-a amar una vez, pues l es el mismo ayer, hoy y para siempre. Su gran amor le
+a amar una vez, pues Él es el mismo ayer, hoy y para siempre. Su gran amor le
 
-hace sentir sed de tenernos mucho ms cerca de lo que estamos; l no estar
+hace sentir sed de tenernos mucho más cerca de lo que estamos; Él no estará
 
-satisfecho hasta que todos Sus redimidos estn ms all del alcance de los
+satisfecho hasta que todos Sus redimidos estén más allá del alcance de los
 
-proyectiles del enemigo. Voy a darles una de Sus oraciones sedientas: Padre,
+proyectiles del enemigo. Voy a darles una de Sus oraciones sedientas: “Padre,
 
-aquellos que me has dado, quiero que donde yo estoy, tambin ellos estn
+aquellos que me has dado, quiero que donde yo estoy, también ellos estén
 
-conmigo, para que vean mi gloria. l te quiere, hermano, l te quiere,
+conmigo, para que vean mi gloria”. Él te quiere, hermano, Él te quiere,
 
-hermana, l anhela tenerlos enteramente para S. Vengan a l en oracin, vengan
+hermana, Él anhela tenerlos enteramente para Sí. Vengan a Él en oración, vengan
 
-a l en comunin, vengan a l con una perfecta consagracin, vengan a l entregando
+a Él en comunión, vengan a Él con una perfecta consagración, vengan a Él entregando
 
-su ser entero a las dulces influencias misteriosas de Su Espritu. Sintense a
+su ser entero a las dulces influencias misteriosas de Su Espíritu. Siéntense a
 
-Sus pies con Mara, apyense en Su pecho con Juan; s, vengan con la esposa en
+Sus pies con María, apóyense en Su pecho con Juan; sí, vengan con la esposa en
 
-el cantar y digan: Oh, si l me besara con besos de su boca! Porque mejores
+el cantar y digan: “ˇOh, si él me besara con besos de su boca! Porque mejores
 
-son tus amores que el vino. l pide eso: no se lo dars? Est tan congelado
+son tus amores que el vino”. Él pide eso: żno se lo darás? żEstá tan congelado
 
-tu corazn que ni un solo vaso de agua fresca puede ser derretido para Jess? Eres
+tu corazón que ni un solo vaso de agua fresca puede ser derretido para Jesús? żEres
 
-tibio? Oh hermano, si l dice: Tengo sed y t le traes un corazn tibio, eso
+tibio? Oh hermano, si Él dice: “Tengo sed” y tú le traes un corazón tibio, eso
 
-es peor que el vinagre, pues l ha dicho: Te vomitar de mi boca. l puede
+es peor que el vinagre, pues Él ha dicho: “Te vomitaré de mi boca”. Él puede
 
-aceptar vinagre, pero no un corazn tibio. Vamos, llvale tu clido corazn, y
+aceptar vinagre, pero no un corazón tibio. Vamos, llévale tu cálido corazón, y
 
-deja que beba de ese cliz purificado todo lo que quiera. Todo tu amor ha de
+deja que beba de ese cáliz purificado todo lo que quiera. Todo tu amor ha de
 
-ser Suyo. Yo s que a l le encanta recibir algo de ti, porque l se deleita
+ser Suyo. Yo sé que a Él le encanta recibir algo de ti, porque Él se deleita
 
-incluso con un vaso de agua fra que t le des a uno de Sus discpulos; cunto
+incluso con un vaso de agua fría que tú le des a uno de Sus discípulos; żcuánto
 
-no se deleitar en la ddiva de todo tu ser a l? Por tanto, ya que tiene sed,
+no se deleitará en la dádiva de todo tu ser a Él? Por tanto, ya que tiene sed,
 
-dale de beber en este da.
+dale de beber en este día.
 
 V.
 
-Por ltimo, el clamor de: Tengo sed es para
+Por último, el clamor de: “Tengo sed” es para
 
-nosotros EL MODELO DE NUESTRA MUERTE CON L. Acaso ignoran, amados, (pues
+nosotros EL MODELO DE NUESTRA MUERTE CON ÉL. żAcaso ignoran, amados, (pues
 
-hablo con los que conocen al Seor), que han sido crucificados juntamente con
+hablo con los que conocen al Seńor), que han sido crucificados juntamente con
 
-Cristo? Bien, entonces, qu significa este clamor: Tengo sed, sino que
+Cristo? Bien, entonces, żqué significa este clamor: “Tengo sed”, sino que
 
-nosotros hemos de estar sedientos tambin? No estamos sedientos segn la
+nosotros hemos de estar sedientos también? No estamos sedientos según la
 
-antigua manera en la que estbamos amargamente afligidos, pues l ha dicho: El
+antigua manera en la que estábamos amargamente afligidos, pues Él ha dicho: “El
 
-que bebiere del agua que yo le dar, no tendr sed jams; pero ahora
+que bebiere del agua que yo le daré, no tendrá sed jamás”; pero ahora
 
 codiciamos una nueva sed, un apetito refinado y celestial, una gran urgencia de
 
-nuestro Seor.
+nuestro Seńor.
 
 Oh bendito Maestro, si estamos en verdad
 
-clavados al madero Contigo, danos sed de Ti con una sed que nicamente la copa
+clavados al madero Contigo, danos sed de Ti con una sed que únicamente la copa
 
-del nuevo pacto en tu sangre puede satisfacer jams.
+del “nuevo pacto en tu sangre” puede satisfacer jamás.
 
-Ciertos filsofos han dicho que a ellos les
+Ciertos filósofos han dicho que a ellos les
 
-gusta perseguir la verdad incluso ms que el conocimiento de la verdad. Yo
+gusta perseguir la verdad incluso más que el conocimiento de la verdad. Yo
 
-difiero grandemente de ellos, pero esto dir, que despus del gozo real de la
+difiero grandemente de ellos, pero esto diré, que después del gozo real de la
 
-presencia de mi Seor, amo tener hambre y sed de l. Rutherford us palabras
+presencia de mi Seńor, amo tener hambre y sed de Él. Rutherford usó palabras
 
-ms o menos en este sentido: Yo tengo sed de mi Seor y esto es un gozo; un
+más o menos en este sentido: “Yo tengo sed de mi Seńor y esto es un gozo; un
 
-gozo que nadie me quita. Incluso si no puedo acercarme a l, estar lleno de
+gozo que nadie me quita. Incluso si no puedo acercarme a Él, estaré lleno de
 
-consuelo, pues tener sed de l es el cielo, y seguramente l nunca negar a una
+consuelo, pues tener sed de Él es el cielo, y seguramente Él nunca negará a una
 
-pobre alma la libertad de admirarle, y de adorarle y de tener sed de l.
+pobre alma la libertad de admirarle, y de adorarle y de tener sed de Él”.
 
-En cuanto a m, quisiera volverme ms y ms
+En cuanto a mí, quisiera volverme más y más
 
-insaciable de mi divino Seor, y cuando tenga mucho de l, todava anhelar
+insaciable de mi divino Seńor, y cuando tenga mucho de Él, todavía anhelaré
 
-ms; y luego ms y todava ms. Mi corazn no estar contento hasta que l sea
+más; y luego más y todavía más. Mi corazón no estará contento hasta que Él sea
 
-todo en todo para m, y yo est totalmente perdido en l. Oh, poder tener el
+todo en todo para mí, y yo esté totalmente perdido en Él. Oh, poder tener el
 
-alma ms ancha para poder tomar sorbos ms grandes de Su dulce amor, pues
+alma más ancha para poder tomar sorbos más grandes de Su dulce amor, pues
 
-nuestro corazn no se conforma con eso. Uno deseara ser como la esposa, que ya
+nuestro corazón no se conforma con eso. Uno desearía ser como la esposa, que ya
 
-haba festejado en la casa del banquete, y haba encontrado que Su fruto era dulce
+había festejado en la casa del banquete, y había encontrado que Su fruto era dulce
 
-a su paladar, al punto que estaba muy llena de gozo, pero aun as clamaba: Sustentadme
+a su paladar, al punto que estaba muy llena de gozo, pero aun así clamaba: “Sustentadme
 
-con pasas, confortadme con manzanas; porque estoy enferma de amor. Ella
+con pasas, confortadme con manzanas; porque estoy enferma de amor”. Ella
 
-ambicionaba vasos llenos de amor aunque ya estaba doblegada por l. Este es un
+ambicionaba vasos llenos de amor aunque ya estaba doblegada por él. Este es un
 
 tipo de dulzura de la cual, si un hombre ha recibido mucha, tiene que obtener
 
-ms, y cuando ha tenido ms, est bajo mayor necesidad de recibir ms, y as
+más, y cuando ha tenido más, está bajo mayor necesidad de recibir más, y así
 
-sucesivamente, pues su apetito est creciendo siempre, alimentado por lo que
+sucesivamente, pues su apetito está creciendo siempre, alimentado por lo que
 
-come, hasta quedar saciado con toda la plenitud de Dios. Tengo sed, esta es
+come, hasta quedar saciado con toda la plenitud de Dios. “Tengo sed”, esta es
 
-la palabra de mi alma para su Seor. Tomada prestada de Sus labios se adecua
+la palabra de mi alma para su Seńor. Tomada prestada de Sus labios se adecua
 
 muy bien a mi boca.
 
-Tengo
+“Tengo
 
 sed, pero no como una vez la tuve,
 
@@ -1230,85 +1230,85 @@ deleites de la tierra;
 
 Tus heridas, Emanuel,
 
-todas prohben
+todas prohíben
 
 Que busque mis placeres
 
-all.
+allí.
 
-Amada fuente de
+ˇAmada fuente de
 
 desconocido deleite!
 
-No bajes ms debajo del
+No bajes más debajo del
 
 borde
 
 Sino desborda y derrama
 
-sobre m
+sobre mí
 
 Una corriente viva y
 
-dadora de vida.
+dadora de vida”.
 
-Jess tuvo sed, entonces hemos de tener sed en
+Jesús tuvo sed, entonces hemos de tener sed en
 
-esta tierra seca y sedienta, donde no hay agua. As como el ciervo brama por
+esta tierra seca y sedienta, donde no hay agua. Así como el ciervo brama por
 
 las corrientes de aguas, nuestras almas tienen sed de Ti, oh Dios.
 
 Amados, hemos de sentir sed de las almas de
 
-nuestros semejantes. Ya les he dicho que se fue el deseo mstico de nuestro
+nuestros semejantes. Ya les he dicho que ése fue el deseo místico de nuestro
 
-Seor; ha de ser el nuestro tambin. Hermano, ten sed de que tus hijos sean
+Seńor; ha de ser el nuestro también. Hermano, ten sed de que tus hijos sean
 
 salvos. Hermano, te ruego que tengas sed de que tus trabajadores sean salvos.
 
-Hermana, ten sed de la salvacin de tu clase, sed de la redencin de tu
+Hermana, ten sed de la salvación de tu clase, sed de la redención de tu
 
-familia, sed de la conversin de tu esposo. Todos nosotros tenemos que anhelar conversiones.
+familia, sed de la conversión de tu esposo. Todos nosotros tenemos que anhelar conversiones.
 
-Sucede as con cada uno de ustedes? Si no es as, pnganse en movimiento de
+żSucede así con cada uno de ustedes? Si no es así, pónganse en movimiento de
 
-inmediato. Fijen su corazn en alguien que no es salvo, y sientan sed hasta que
+inmediato. Fijen su corazón en alguien que no es salvo, y sientan sed hasta que
 
-sea salvo. Es la manera por la que muchos sern llevados a Cristo, cuando esta
+sea salvo. Es la manera por la que muchos serán llevados a Cristo, cuando esta
 
-bendita sed del alma de la verdadera caridad cristiana est en aquellos que son
+bendita sed del alma de la verdadera caridad cristiana esté en aquellos que son
 
-salvos ellos mismos. Recuerden cmo dijo Pablo: Verdad digo en Cristo, no
+salvos ellos mismos. Recuerden cómo dijo Pablo: “Verdad digo en Cristo, no
 
-miento, y mi conciencia me da testimonio en el Espritu Santo, que tengo gran
+miento, y mi conciencia me da testimonio en el Espíritu Santo, que tengo gran
 
-tristeza y continuo dolor en mi corazn. Porque deseara yo mismo ser anatema,
+tristeza y continuo dolor en mi corazón. Porque deseara yo mismo ser anatema,
 
-separado de Cristo, por amor a mis hermanos, los que son mis parientes segn la
+separado de Cristo, por amor a mis hermanos, los que son mis parientes según la
 
-carne. l se habra sacrificado para salvar a sus paisanos, pues deseaba de
+carne”. Él se habría sacrificado para salvar a sus paisanos, pues deseaba de
 
-todo corazn su bienestar eterno. Esta misma mente debe haber en ustedes. Haya,
+todo corazón su bienestar eterno. Esta misma mente debe haber en ustedes. Haya,
 
 pues, en ustedes este sentir.
 
-En cuanto a ustedes, tengan sed de perfeccin.
+En cuanto a ustedes, tengan sed de perfección.
 
-Tengan hambre y sed de justicia, pues sern saciados. Odien el pecado, y
+Tengan hambre y sed de justicia, pues serán saciados. Odien el pecado, y
 
-aborrzcanlo de corazn; tengan sed de ser santos como Dios es santo, tengan
+aborrézcanlo de corazón; tengan sed de ser santos como Dios es santo, tengan
 
 sed de ser semejantes a Cristo, sed de dar gloria a Su sagrado nombre por una
 
 completa conformidad a Su voluntad.
 
-Que el Espritu Santo obre en ustedes el modelo
+Que el Espíritu Santo obre en ustedes el modelo
 
-completo de Cristo crucificado, y a l sea la alabanza por los siglos de los
+completo de Cristo crucificado, y a Él sea la alabanza por los siglos de los
 
-siglos. Amn.
+siglos. Amén.
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 Marcos 15: 15-37;
 
@@ -1318,11 +1318,11 @@ Nota del
 
 traductor:
 
-Artculo de la muerte: ltimo estado o tiempo de
+Artículo de la muerte: Último estado o tiempo de
 
-la vida, prximo a la muerte.
+la vida, próximo a la muerte.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 25/Febrero/2010
 

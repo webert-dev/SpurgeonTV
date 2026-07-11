@@ -1,12 +1,10 @@
 # Sermón 224 | Sermón 224
 
-El Plpito de la Capilla New Park Street
+Sansón Vencido
 
-Sansn Vencido
+SERMÓN PREDICADO
 
-SERMN PREDICADO
-
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -28,85 +26,85 @@ GARDENS
 
 , LONDRES.
 
-Y le dijo: Sansn, los
+“Y le dijo: ˇSansón, los
 
-filisteos sobre ti! Y luego que despert l de su sueo, se dijo: Esta vez
+filisteos sobre ti! Y luego que despertó él de su sueńo, se dijo: Esta vez
 
-saldr como las otras y me escapar. Pero l no saba que Jehov ya se haba
+saldré como las otras y me escaparé. Pero él no sabía que Jehová ya se había
 
-apartado de l. Mas los filisteos le echaron mano, y le sacaron los ojos, y le
+apartado de él. Mas los filisteos le echaron mano, y le sacaron los ojos, y le
 
-llevaron a Gaza; y le ataron con cadenas para que moliese en la crcel. Jueces
+llevaron a Gaza; y le ataron con cadenas para que moliese en la cárcel”. Jueces
 
 16: 20, 21.
 
-En muchos sentidos Sansn es uno de los
+En muchos sentidos Sansón es uno de los
 
-hombres ms notables entre aquellos cuya historia qued registrada en las
+hombres más notables entre aquellos cuya historia quedó registrada en las
 
-pginas de la inspiracin. Sansn goz de un privilegio singular que slo le
+páginas de la inspiración. Sansón gozó de un privilegio singular que sólo le
 
-fue concedido a otra persona ms en el Antiguo Testamento. Un ngel predijo a
+fue concedido a otra persona más en el Antiguo Testamento. Un ángel predijo a
 
-sus padres su nacimiento. Isaac fue prometido a Abraham y Sara por unos ngeles
+sus padres su nacimiento. Isaac fue prometido a Abraham y Sara por unos ángeles
 
-a quienes haban ofrecido hospitalidad sin percatarse del hecho, pero con la
+a quienes habían ofrecido hospitalidad sin percatarse del hecho, pero con la
 
-excepcin de Isaac, Sansn fue el nico cuyo nacimiento fue profetizado por un
+excepción de Isaac, Sansón fue el único cuyo nacimiento fue profetizado por un
 
-mensajero anglico antes de la inauguracin de la dispensacin evanglica. Fue
+mensajero angélico antes de la inauguración de la dispensación evangélica. Fue
 
 dedicado a Dios antes de su nacimiento, siendo apartado como un nazareo. Ahora
 
-bien, un nazareo era una persona consagrada enteramente a Dios, y en seal de
+bien, un nazareo era una persona consagrada enteramente a Dios, y en seńal de
 
-su consagracin, se abstena completamente del vino y dejaba crecer su cabello
+su consagración, se abstenía completamente del vino y dejaba crecer su cabello
 
-sin que le pasaran navaja. Pueden entender, por tanto, que Sansn estaba
+sin que le pasaran navaja. Pueden entender, por tanto, que Sansón estaba
 
-enteramente consagrado a Dios, y quienes le vean diran: Aquel hombre es un
+enteramente consagrado a Dios, y quienes le veían dirían: “Aquel hombre es un
 
-varn de Dios, un nazareo, un consagrado. Dios dot a Sansn con una fuerza
+varón de Dios, un nazareo, un consagrado”. Dios dotó a Sansón con una fuerza
 
-sobrenatural, una fuerza que no poda haber sido jams el resultado de un mero
+sobrenatural, una fuerza que no podía haber sido jamás el resultado de un mero
 
-poder muscular. No era la simple constitucin fsica de Sansn la que le haca fuerte;
+poder muscular. No era la simple constitución física de Sansón la que le hacía fuerte;
 
-no hera a los filisteos con el brazo o con el puo; era un milagro que moraba
+no hería a los filisteos con el brazo o con el puńo; era un milagro que moraba
 
-en su interior, una continua emanacin de la omnipotencia de Dios la que le
+en su interior, una continua emanación de la omnipotencia de Dios la que le
 
-haca ms fuerte que miles de sus enemigos. Parece que Sansn descubri muy
+hacía más fuerte que miles de sus enemigos. Parece que Sansón descubrió muy
 
-pronto la gran fuerza que posea, pues el Espritu de Jehov comenz a
+pronto la gran fuerza que poseía, pues “el Espíritu de Jehová comenzó a
 
-manifestarse en l en los campamentos de Dan. Sansn juzg a Israel treinta
+manifestarse en él en los campamentos de Dan”. Sansón juzgó a Israel treinta
 
-aos, y lo liber gloriosamente. Cun noble ser debe de haber sido! Mrenlo
+ańos, y lo liberó gloriosamente. ˇCuán noble ser debe de haber sido! Mírenlo
 
-cuando se aparta un momento de sus padres para entrar en la via. Un len que
+cuando se aparta un momento de sus padres para entrar en la vińa. Un león que
 
-se halla agazapado all salta sobre l, pero Sansn se le enfrenta
+se halla agazapado allí salta sobre él, pero Sansón se le enfrenta
 
 completamente desarmado, lo recibe en sus musculosos brazos y lo despedaza como
 
-si se tratara de un cabrito. Vanlo tiempo despus, cuando sus paisanos le
+si se tratara de un cabrito. Véanlo tiempo después, cuando sus paisanos le
 
-ataron y le hicieron descender de la pea y le entregaron a los miles de
+ataron y le hicieron descender de la peńa y le entregaron a los miles de
 
-filisteos. Apenas se est acercando a ellos cuando, sin ninguna arma, con su
+filisteos. Apenas se está acercando a ellos cuando, sin ninguna arma, con su
 
 propio pie comienza a patearlos y hallando una quijada de asno fresca toma esa
 
-innoble arma, y barre con los hombres que tenan cascos en sus cabezas y sobre
+innoble arma, y barre con los hombres que tenían cascos en sus cabezas y sobre
 
-sus piernas traan grebas de bronce. Y su vigor tampoco le fall aos despus,
+sus piernas traían grebas de bronce. Y su vigor tampoco le falló ańos después,
 
-pues muri en la flor de sus das. Realiz una de sus mayores hazaas en esta
+pues murió en la flor de sus días. Realizó una de sus mayores hazańas en esta
 
-etapa precisa de su vida. Sansn est encerrado en la ciudad de Gaza. Se queda
+etapa precisa de su vida. Sansón está encerrado en la ciudad de Gaza. Se queda
 
-all hasta la medianoche; est tan confiado en su fuerza que no tiene ninguna
+allí hasta la medianoche; está tan confiado en su fuerza que no tiene ninguna
 
 prisa por partir, y en vez de atacar a los guardias y obligarlos a quitar los cerrojos,
 
@@ -114,125 +112,125 @@ arranca los dos pilares y se lleva las puertas con todo y cerrojos, y
 
 transporta su pesada carga a lo largo de varias millas hasta la cumbre del
 
-monte que est delante de Hebrn. En todos los sentidos debe de haber sido algo
+monte que está delante de Hebrón. En todos los sentidos debe de haber sido algo
 
 grandioso ver a este hombre, especialmente si uno lo contaba como amigo. Si uno
 
-hubiera sido su enemigo, era mucho mejor verlo desde muy lejos, pues nadie poda
+hubiera sido su enemigo, era mucho mejor verlo desde muy lejos, pues nadie podía
 
-escapar de l excepto quienes huan; pero tenerlo como amigo y estar con l en
+escapar de él excepto quienes huían; pero tenerlo como amigo y estar con él en
 
-el da de la batalla era sentir que tenas un ejrcito en un solo hombre, y que
+el día de la batalla era sentir que tenías un ejército en un solo hombre, y que
 
-tenas en un solo cuerpo lo que infundira terror a miles de personas. Sin
+tenías en un solo cuerpo lo que infundiría terror a miles de personas. Sin
 
-embargo, aunque Sansn tena una gran potencia fsica, slo tena una pequea
+embargo, aunque Sansón tenía una gran potencia física, sólo tenía una pequeńa
 
-fuerza mental y tena todava menos poder espiritual. Su vida entera es una
+fuerza mental y tenía todavía menos poder espiritual. Su vida entera es una
 
-escena de milagros y de locuras. Tena muy poca gracia y era fcilmente vencido
+escena de milagros y de locuras. Tenía muy poca gracia y era fácilmente vencido
 
-por la tentacin. Es seducido y llevado al descarro. Se le corrige con
+por la tentación. Es seducido y llevado al descarrío. Se le corrige con
 
-frecuencia pero aun as peca de nuevo. Por fin cae en las manos de Dalila. A
+frecuencia pero aun así peca de nuevo. Por fin cae en las manos de Dalila. A
 
 ella la sobornan con una enorme suma y entonces se esfuerza por sacarle el
 
-secreto de su fuerza. Sansn juega insensatamente con el peligro y con su
+secreto de su fuerza. Sansón juega insensatamente con el peligro y con su
 
-propia destruccin. Por fin, acosado por la importunidad de ella, le descubre
+propia destrucción. Por fin, acosado por la importunidad de ella, le descubre
 
-el secreto que no deba haber confiado a nadie y que slo a l le perteneca. El
+el secreto que no debía haber confiado a nadie y que sólo a él le pertenecía. El
 
 secreto de su fuerza se ocultaba en sus guedejas. No era que su cabello le
 
-hiciera fuerte, pero su cabellera era el smbolo de su consagracin y era la
+hiciera fuerte, pero su cabellera era el símbolo de su consagración y era la
 
-prenda del favor de Dios para con l. Mientras no tocaron su cabellera, Sansn
+prenda del favor de Dios para con él. Mientras no tocaron su cabellera, Sansón
 
-fue un varn consagrado; tan pronto se la raparon, ya no estuvo ms
+fue un varón consagrado; tan pronto se la raparon, ya no estuvo más
 
-perfectamente consagrado y entonces su fuerza le abandon. Le cortaron su
+perfectamente consagrado y entonces su fuerza le abandonó. Le cortaron su
 
 cabellera. Le quitaron las guedejas que una vez le cubrieron y entonces se
 
-redujo a ser un dbil jovenzuelo como otros hombres. Ahora los filisteos
+redujo a ser un débil jovenzuelo como otros hombres. Ahora los filisteos
 
-comienzan a oprimirle y le sacan los ojos con un hierro candente. Cmo han
+comienzan a oprimirle y le sacan los ojos con un hierro candente. ˇCómo han
 
-cado los valientes! Cmo son atrapados los grandes en la red! Se ve a Sansn,
+caído los valientes! ˇCómo son atrapados los grandes en la red! Se ve a Sansón,
 
-el gran hroe de Israel, arrastrando sus pies cuando se encamina a Gaza. Dije
+el gran héroe de Israel, arrastrando sus pies cuando se encamina a Gaza. Dije
 
-que marcha arrastrando los pies porque acaba de quedarse ciego que era algo nuevo
+que marcha arrastrando los pies porque acaba de quedarse ciego –que era algo nuevo
 
-para l- por lo que todava no haba aprendido a caminar tan bien como aquellos
+para él- por lo que todavía no había aprendido a caminar tan bien como aquellos
 
-que habiendo sido ciegos durante aos, aprenden por fin a poner firmemente su
+que habiendo sido ciegos durante ańos, aprenden por fin a poner firmemente su
 
 pie sobre la tierra. Atados sus pies con cadenas de bronce -un modo inusual de
 
-atar a un prisionero, pero adoptado en este caso porque se supona que Sansn
+atar a un prisionero, pero adoptado en este caso porque se suponía que Sansón
 
-segua siendo muy fuerte y que cualquier otro tipo de cadenas sera
+seguía siendo muy fuerte y que cualquier otro tipo de cadenas sería
 
-insuficiente- se le ve caminando en medio de una pequea escolta hacia Gaza. Y
+insuficiente- se le ve caminando en medio de una pequeńa escolta hacia Gaza. Y
 
-ahora llega a la propia ciudad de la cual haba salido en todo su orgullo con
+ahora llega a la propia ciudad de la cual había salido en todo su orgullo con
 
-las puertas y su cerrojo a cuestas; y los niitos salen, y las clases bajas del
+las puertas y su cerrojo a cuestas; y los nińitos salen, y las clases bajas del
 
-pueblo le rodean y le sealan diciendo: Sansn, el gran hroe, ha cado!
+pueblo le rodean y le seńalan diciendo: “ˇSansón, el gran héroe, ha caído!
 
-Divirtmonos con l! Qu espectculo! El ardiente sol cae sobre su cabeza
+ˇDivirtámonos con él!” ˇQué espectáculo! El ardiente sol cae sobre su cabeza
 
 desnuda que una vez estuvo protegida con aquellas exuberantes guedejas. Miren a
 
-la escolta que lo custodia: un simple puado de hombres; cmo hubieran huido
+la escolta que lo custodia: un simple puńado de hombres; cómo hubieran huido
 
-delante de l en sus das ms brillantes; pero ahora hasta un nio podra
+delante de él en sus días más brillantes; pero ahora hasta un nińo podría
 
-vencerle. Lo llevan a un lugar donde un asno est moliendo en el molino y
+vencerle. Lo llevan a un lugar donde un asno está moliendo en el molino y
 
-Sansn tiene que desempear esa misma innoble tarea. Vamos, l tiene que ser la
+Sansón tiene que desempeńar esa misma innoble tarea. Vamos, él tiene que ser la
 
-diversin y la burla de todos los que pasan por ah y de todo necio que entre
+diversión y la burla de todos los que pasan por ahí y de todo necio que entre
 
 para ver esa gran maravilla: el destructor de los filisteos reducido a trabajar
 
-en el molino. Ah, qu cada tuvo lugar, hermanos mos! Bien podemos detenernos
+en el molino. ˇAh, qué caída tuvo lugar, hermanos míos! Bien podemos detenernos
 
-y llorar por el pobre ciego Sansn. Fue terrible que perdiera sus ojos; que
+y llorar por el pobre ciego Sansón. Fue terrible que perdiera sus ojos; que
 
 perdiera su fuerza fue peor; pero que perdiera el favor de Dios por un tiempo y
 
-que se convirtiera en la diversin de los enemigos de Dios, fue lo peor de
+que se convirtiera en la diversión de los enemigos de Dios, fue lo peor de
 
 todo. Por esto podemos llorar en verdad.
 
-Ahora, por qu he narrado esta historia?
+Ahora, żpor qué he narrado esta historia?
 
-Por qu querra dirigir su atencin a Sansn? Por esta razn.
+żPor qué querría dirigir su atención a Sansón? Por esta razón.
 
 Todo hijo de Dios es un hombre consagrado.
 
 Su
 
-consagracin no est tipificada por ningn smbolo externo; no se nos ordena
+consagración no está tipificada por ningún símbolo externo; no se nos ordena
 
 que dejemos crecer por siempre nuestro cabello, ni que nos abstengamos de
 
 carnes o bebidas. El cristiano es un hombre consagrado, pero sus semejantes no
 
-ven su consagracin excepto en las obras externas que son su resultado.
+ven su consagración excepto en las obras externas que son su resultado.
 
 Y ahora quiero hablarles a ustedes, mis
 
 queridos amigos, como a hombres consagrados, como a nazareos, y creo que voy a
 
-encontrar una leccin para ustedes en la historia de Sansn. Mi primer punto
+encontrar una lección para ustedes en la historia de Sansón. Mi primer punto
 
-ser
+será
 
 la fuerza de los consagrados,
 
@@ -244,11 +242,11 @@ el secreto de su fuerza;
 
 en tercer lugar,
 
-el peligro al que estn expuestos;
+el peligro al que están expuestos;
 
 y en cuarto lugar,
 
-la ignominia que recaer sobre ellos si caen
+la ignominia que recaerá sobre ellos si caen
 
 en este peligro.
 
@@ -260,351 +258,351 @@ LA FUERZA
 
 DEL
 
-VARN CONSAGRADO.
+VARÓN CONSAGRADO.
 
-Saben ustedes que el hombre ms fuerte en todo el mundo es un hombre
+żSaben ustedes que el hombre más fuerte en todo el mundo es un hombre
 
 consagrado? Aun si se pudiera consagrar a un objetivo equivocado, si fuera una
 
-completa consagracin, tendra fuerza, fuerza para el mal, pudiera ser, pero
+completa consagración, tendría fuerza, fuerza para el mal, pudiera ser, pero
 
-aun as, fuerza. En las antiguas guerras romanas contra Pirro, ustedes
+aun así, fuerza. En las antiguas guerras romanas contra Pirro, ustedes
 
-recordarn una antigua historia de abnegada entrega. Un orculo haba dicho que
+recordarán una antigua historia de abnegada entrega. Un oráculo había dicho que
 
-la victoria acompaara a aquel ejrcito cuyo lder se entregara a la muerte.
+la victoria acompańaría a aquel ejército cuyo líder se entregara a la muerte.
 
-Decio, el cnsul romano, sabiendo esto, se apresur a entrar en lo ms denso de
+Decio, el cónsul romano, sabiendo esto, se apresuró a entrar en lo más denso de
 
-la batalla para que su ejrcito pudiera vencer por su muerte. Los prodigios de
+la batalla para que su ejército pudiera vencer por su muerte. Los prodigios de
 
-valor que realiz son pruebas del poder de la consagracin. En aquel tiempo
+valor que realizó son pruebas del poder de la consagración. En aquel tiempo
 
-cada romano pareca ser un hroe porque cada hombre era un hombre consagrado.
+cada romano parecía ser un héroe porque cada hombre era un hombre consagrado.
 
-Iban a la batalla con este pensamiento: Voy a vencer o morir; el nombre de
+Iban a la batalla con este pensamiento: “Voy a vencer o morir; el nombre de
 
-Roma est escrito en mi corazn; estoy preparado a vivir por mi pas, o a
+Roma está escrito en mi corazón; estoy preparado a vivir por mi país, o a
 
-derramar mi sangre por l. Y ningn enemigo poda hacerles frente jams. Si un
+derramar mi sangre por él”. Y ningún enemigo podía hacerles frente jamás. Si un
 
-romano caa, no haba heridas en su espalda porque todas estaban en su pecho.
+romano caía, no había heridas en su espalda porque todas estaban en su pecho.
 
-Su rostro, aun en la fra muerte, era como el rostro de un len, y cuando se le
+Su rostro, aun en la fría muerte, era como el rostro de un león, y cuando se le
 
-miraba era de un terrible aspecto. Eran hombres consagrados a su pas; tenan
+miraba era de un terrible aspecto. Eran hombres consagrados a su país; tenían
 
-la ambicin de hacer que el nombre de Roma fuera la palabra ms noble del
+la ambición de hacer que el nombre de Roma fuera la palabra más noble del
 
-lenguaje humano y por consiguiente el romano se volva un gigante. Y hasta este
+lenguaje humano y por consiguiente el romano se volvía un gigante. Y hasta este
 
-da basta que un hombre tenga un propsito en su interior -y no me importa cul
+día basta que un hombre tenga un propósito en su interior -y no me importa cuál
 
-sea su propsito- y que su alma entera sea absorbida por l, y entonces, qu
+sea su propósito- y que su alma entera sea absorbida por él, y entonces, żqué
 
-no har? Ustedes que tienen la visin que afirma: todas las cosas por turnos y
+no hará? Ustedes que tienen la visión que afirma: “todas las cosas por turnos y
 
-nada por mucho tiempo, que no tienen nada por lo cual vivir, que son cadveres
+nada por mucho tiempo”, que no tienen nada por lo cual vivir, que son cadáveres
 
-sin alma que caminan en esta tierra y malgastan su aire, qu pueden hacer?
+sin alma que caminan en esta tierra y malgastan su aire, żqué pueden hacer?
 
-Pues nada. Pero el hombre que sabe a lo que est dedicado y que tiene su
+Pues nada. Pero el hombre que sabe a lo que está dedicado y que tiene su
 
-objetivo, se dirige velozmente a l como una flecha arrojada desde un arco por
+objetivo, se dirige velozmente a él “como una flecha arrojada desde un arco por
 
-un arquero vigoroso. Nada puede apartarlo de su designio. Cunto ms cierto es
+un arquero vigoroso”. Nada puede apartarlo de su designio. Cuánto más cierto es
 
-esto si limito la descripcin a lo que es peculiar del cristiano: la
+esto si limito la descripción a lo que es peculiar del cristiano: ˇla
 
-consagracin a Dios! Oh, qu fuerza tiene el hombre que est dedicado a Dios!
+consagración a Dios! ˇOh, qué fuerza tiene el hombre que está dedicado a Dios!
 
-Hay uno de esos varones aqu? S que lo hay. Yo s que pudiera haber muchos
+żHay uno de esos varones aquí? Sé que lo hay. Yo sé que pudiera haber muchos
 
-que se han consagrado al Seor Dios de Israel en el secreto de su alcoba, y que
+que se han consagrado al Seńor Dios de Israel en el secreto de su alcoba, y que
 
 pueden decir en sus corazones:
 
-Ha sido
+“Ha sido
 
-concluida, la gran transaccin ha sido concluida
+concluida, la gran transacción ha sido concluida
 
 Yo soy de mi
 
-Seor, y l es mo.
+Seńor, y Él es mío.
 
-l me atrajo,
+Él me atrajo,
 
-y yo le segu,
+y yo le seguí,
 
 Alegre de
 
-obedecer a la voz divina.
+obedecer a la voz divina”.
 
 Ahora, el hombre que puede decir eso y
 
-que est completamente consagrado a Dios, sea quien sea o lo que sea, es un
+que está completamente consagrado a Dios, sea quien sea o lo que sea, es un
 
-hombre fuerte que habr de hacer portentos.
+hombre fuerte que habrá de hacer portentos.
 
-Necesito hablarles de las maravillas que
+żNecesito hablarles de las maravillas que
 
-han realizado los hombres consagrados? Ustedes han ledo las historias de
+han realizado los hombres consagrados? Ustedes han leído las historias de
 
-tiempos antiguos, cuando a nuestra religin se le daba caza como a una perdiz
+tiempos antiguos, cuando a nuestra religión se le daba caza como a una perdiz
 
-en los montes. Nunca oyeron cmo hombres y mujeres consagrados aguantaron
+en los montes. żNunca oyeron cómo hombres y mujeres consagrados aguantaron
 
-dolores y agonas inauditos? No han ledo cmo los echaban a los leones, cmo
+dolores y agonías inauditos? żNo han leído cómo los echaban a los leones, cómo
 
-fueron aserrados en mitades, cmo languidecieron en prisiones o se encontraron
+fueron aserrados en mitades, cómo languidecieron en prisiones o se encontraron
 
-con una muerte ms rpida a filo de espada? No han odo cmo andaban de ac
+con una muerte más rápida a filo de espada? żNo han oído cómo andaban de acá
 
-para all cubiertos de pieles de ovejas y de cabras, pobres, angustiados,
+para allá cubiertos de pieles de ovejas y de cabras, pobres, angustiados,
 
-maltratados, de los cuales el mundo no era digno? No han odo cmo desafiaron
+maltratados, de los cuales el mundo no era digno? żNo han oído cómo desafiaron
 
-en su cara a los tiranos, cmo, cuando los amenazaban, se atrevan a rerse de
+en su cara a los tiranos, cómo, cuando los amenazaban, se atrevían a reírse de
 
-todas las amenazas del enemigo con gran valenta; cmo, estando en la hoguera,
+todas las amenazas del enemigo con gran valentía; cómo, estando en la hoguera,
 
-aplaudan con sus manos en el fuego, y cantaban salmos de triunfo cuando
+aplaudían con sus manos en el fuego, y cantaban salmos de triunfo cuando
 
-hombres peores que demonios se mofaban de sus miserias? Cmo fue eso? Qu
+hombres peores que demonios se mofaban de sus miserias? żCómo fue eso? żQué
 
-hizo que las mujeres fueran ms fuertes que hombres y los hombres ms fuertes
+hizo que las mujeres fueran más fuertes que hombres y los hombres más fuertes
 
-que ngeles? Vamos, pues fue esto: ellos estaban consagrados a Dios. Ellos
+que ángeles? Vamos, pues fue esto: ellos estaban consagrados a Dios. Ellos
 
-sentan que cada dolor que desgarraba su corazn estaba dndole la gloria a
+sentían que cada dolor que desgarraba su corazón estaba dándole la gloria a
 
 Dios, que todos los padecimientos que soportaban en sus cuerpos no eran sino
 
-las marcas del Seor Jess, por las cuales patentizaban que estaban enteramente
+las marcas del Seńor Jesús, por las cuales patentizaban que estaban enteramente
 
-dedicados a l. Y no slo en esto se ha evidenciado el poder de los
+dedicados a Él. Y no sólo en esto se ha evidenciado el poder de los
 
-consagrados. No han odo nunca cmo los santificados han realizado portentos?
+consagrados. żNo han oído nunca cómo los santificados han realizado portentos?
 
 Lean las historias de quienes no estimaron preciosa su vida para ellos mismos
 
-con tal de honrar a su Seor y Maestro predicando Su Palabra, exponiendo el
+con tal de honrar a su Seńor y Maestro predicando Su Palabra, exponiendo el
 
-Evangelio en tierras extraas. No han odo cmo los hombres han abandonado su
+Evangelio en tierras extrańas. żNo han oído cómo los hombres han abandonado su
 
 parentela y sus amigos y toda esa vida tan preciada, y han atravesado mares
 
 tormentosos y se han adentrado en las tierras de los paganos donde los hombres
 
-se devoraban unos a otros? No se han enterado de cmo pusieron sus pies en
+se devoraban unos a otros? żNo se han enterado de cómo pusieron sus pies en
 
-aquel pas y vieron que el barco que los haba transportado desapareca en la
+aquel país y vieron que el barco que los había transportado desaparecía en la
 
-distancia, y con todo, sin ningn miedo moraron en medio de salvajes
+distancia, y con todo, sin ningún miedo moraron en medio de salvajes
 
 incivilizados de los bosques, caminaron en medio de ellos, y les contaron la
 
-simple historia del Dios que am al hombre y muri por l? Ustedes han de saber
+simple historia del Dios que amó al hombre y murió por él? Ustedes han de saber
 
-cmo esos hombres vencieron, cmo aquellos que parecan ser ms fieros que
+cómo esos hombres vencieron, cómo aquellos que parecían ser más fieros que
 
 leones se encorvaron delante de ellos, escucharon sus palabras, y fueron
 
-convertidos por la majestad del Evangelio que ellos predicaban. Qu hizo que
+convertidos por la majestad del Evangelio que ellos predicaban. żQué hizo que
 
-esos hombres fueran hroes? Qu los capacit para que se separaran de sus
+esos hombres fueran héroes? żQué los capacitó para que se separaran de sus
 
-familias y de sus amigos, y se desterraran en tierras de pueblos extraos? Fue
+familias y de sus amigos, y se desterraran en tierras de pueblos extrańos? Fue
 
-porque eran consagrados, completamente consagrados al Seor Jesucristo. Qu
+porque eran consagrados, completamente consagrados al Seńor Jesucristo. żQué
 
-hay en el mundo que el varn consagrado no pueda hacer? Tintalo; ofrcele oro
+hay en el mundo que el varón consagrado no pueda hacer? Tiéntalo; ofrécele oro
 
-y plata; llvalo a la cima del monte y mustrale todos los reinos del mundo, y
+y plata; llévalo a la cima del monte y muéstrale todos los reinos del mundo, y
 
-dile que los tendr a todos si postrado adorare al dios de este mundo. Qu
+dile que los tendrá a todos si postrado adorare al dios de este mundo. żQué
 
-dice el varn consagrado? Qutate de delante de m, Satans! Tengo ms que
+dice el varón consagrado? “ˇQuítate de delante de mí, Satanás! Tengo más que
 
-todo esto que t me ofreces; este mundo es mo, y los mundos venideros; yo
+todo esto que tú me ofreces; este mundo es mío, y los mundos venideros; yo
 
-desprecio la tentacin; no me voy a postrar delante de ti. Si los hombres
+desprecio la tentación; no me voy a postrar delante de ti”. Si los hombres
 
-amenazan a un varn consagrado, qu dice l? Yo temo a Dios; por eso no puedo
+amenazan a un varón consagrado, żqué dice él? “Yo temo a Dios; por eso no puedo
 
 tenerles miedo; juzguen si es justo delante de Dios obedecerlos a ustedes antes
 
-que a Dios; pero, en cuanto a m, yo no servir a nadie ms que a Dios. Tal
+que a Dios; pero, en cuanto a mí, yo no serviré a nadie más que a Dios”. Tal
 
-vez hayas visto en tu vida a un varn consagrado. Se trata de una personalidad
+vez hayas visto en tu vida a un varón consagrado. żSe trata de una personalidad
 
-pblica? Qu es lo que no puede hacer l? Predica el Evangelio y mil enemigos
+pública? żQué es lo que no puede hacer él? Predica el Evangelio y mil enemigos
 
-lo asedian de inmediato; lo atacan por todos lados; algunos por esta razn y
+lo asedian de inmediato; lo atacan por todos lados; algunos por esta razón y
 
 otros por aquella otra; sus virtudes reales son distorsionadas y son
 
-convertidas en vicios, y sus ms ligeras faltas son magnificadas y son
+convertidas en vicios, y sus más ligeras faltas son magnificadas y son
 
-convertidas en los ms grandes crmenes. Casi no tiene amigos; los propios
+convertidas en los más grandes crímenes. Casi no tiene amigos; los propios
 
-ministros del evangelio le rehyen; es considerado tan raro que todo el mundo
+ministros del evangelio le rehúyen; es considerado tan raro que todo el mundo
 
-debe evitarlo. Qu hace l? En el interior de la cmara de su propio corazn
+debe evitarlo. żQué hace él? En el interior de la cámara de su propio corazón
 
-sostiene una conversacin con su Dios, y se hace esta pregunta: hago bien? La
+sostiene una conversación con su Dios, y se hace esta pregunta: “żhago bien? La
 
-conciencia da el veredicto: s, y el Espritu da testimonio a su espritu de que
+conciencia da el veredicto: sí, y el Espíritu da testimonio a su espíritu de que
 
-la conciencia es imparcial. Entonces dice- venga lo bueno o venga lo malo,
+la conciencia es imparcial. “Entonces” –dice- “venga lo bueno o venga lo malo,
 
-si estoy bien, no me voy a desviar ni a la derecha ni a la izquierda. Tal vez
+si estoy bien, no me voy a desviar ni a la derecha ni a la izquierda”. Tal vez
 
-sienta en secreto lo que no expresar en pblico. Siente el dolor de la
+sienta en secreto lo que no expresará en público. Siente el dolor de la
 
-desercin, de la deshonra y de la censura; clama:
+deserción, de la deshonra y de la censura; clama:
 
-Si sobre mi
+“Si sobre mi
 
 rostro, por causa de Tu amado nombre,
 
 Recayeran la
 
-vergenza y el reproche
+vergüenza y el reproche
 
-Saludar al
+Saludaré al
 
-reproche, y dar la bienvenida a la vergenza
+reproche, y daré la bienvenida a la vergüenza
 
-Si T me
+Si Tú me
 
-recuerdas.
+recuerdas”.
 
-En cuanto a su carcter pblico, nadie
+En cuanto a su carácter público, nadie
 
-podra decir que le importan estas cosas, pues puede decir con Pablo: De
+podría decir que le importan estas cosas, pues puede decir con Pablo: “De
 
-ninguna cosa hago caso, ni estimo preciosa mi vida para m mismo, con tal de
+ninguna cosa hago caso, ni estimo preciosa mi vida para mí mismo, con tal de
 
-ganar a Cristo y de que acabe mi carrera con gozo. Qu no puede hacer un
+ganar a Cristo y de que acabe mi carrera con gozo”. żQué no puede hacer un
 
-varn consagrado? Yo en verdad creo que si tuviera al mundo entero en su
+varón consagrado? Yo en verdad creo que si tuviera al mundo entero en su
 
-contra, demostrara ser ms que un antagonista para todos ellos. Dira: Un
+contra, demostraría ser más que un antagonista para todos ellos. Diría: “Un
 
-montn, dos montones, con la quijada de un asno mat a mil hombres. No me
+montón, dos montones, con la quijada de un asno maté a mil hombres”. No me
 
-importa cun violento pueda ser su enemigo, ni cun grande pudiera ser la
+importa cuán violento pueda ser su enemigo, ni cuán grande pudiera ser la
 
-ventaja que ese enemigo le sacara; aunque el len pudiera haberse agazapado
+ventaja que ese enemigo le sacara; aunque el león pudiera haberse agazapado
 
-para saltar, y pudiera estar saltando sobre l, lo desgarrar como si fuese un
+para saltar, y pudiera estar saltando sobre él, lo desgarrará como si fuese un
 
-cabrito, pues es ms que vencedor por medio de Aquel que le am. Slo es as
+cabrito, pues es más que vencedor por medio de Aquel que le amó. Sólo es así
 
-quien est enteramente consagrado al Seor Jesucristo.
+quien está enteramente consagrado al Seńor Jesucristo.
 
-Pero dice alguien- podemos
+“Pero” –dice alguien- “żpodemos
 
-consagrarnos a Cristo? Yo pens que eso era nicamente para los ministros.
+consagrarnos a Cristo? Yo pensé que eso era únicamente para los ministros”.
 
-Oh, no, hermanos mos; todos los hijos de Dios deben ser seres consagrados. A
+“Oh, no, hermanos míos; todos los hijos de Dios deben ser seres consagrados. żA
 
-qu te dedicas? Ests involucrado en negocios? Si eres lo que profesas ser, tu
+qué te dedicas? żEstás involucrado en negocios? Si eres lo que profesas ser, tu
 
 negocio tiene que estar consagrado a Dios. Tal vez no tengas ninguna familia;
 
-tal vez ests involucrado en el comercio y ests ahorrando cada ao alguna suma
+tal vez estés involucrado en el comercio y estés ahorrando cada ańo alguna suma
 
-considerable. Djame contarte el ejemplo de un hombre que est completamente
+considerable. Déjame contarte el ejemplo de un hombre que está completamente
 
-consagrado a Dios. Vive en Bristol, (de nombre desconocido), un varn cuyos
+consagrado a Dios. Vive en Bristol, (de nombre desconocido), un varón cuyos
 
-ingresos son sustanciales; y qu hace con ellos? Trabaja en negocios
+ingresos son sustanciales; ży qué hace con ellos? Trabaja en negocios
 
-continuamente para generar esos ingresos, pero de ellos, cada centavo, cada ao,
+continuamente para generar esos ingresos, pero de ellos, cada centavo, cada ańo,
 
-es gastado en la causa del Seor excepto lo que requiere para las cosas necesarias
+es gastado en la causa del Seńor excepto lo que requiere para las cosas necesarias
 
-de la vida. Reduce sus necesidades al mnimo para disponer de ms dinero para
+de la vida. Reduce sus necesidades al mínimo para disponer de más dinero para
 
-darlo. l es un varn de Dios en su negocio. Yo no los exhorto a que hagan lo
+darlo. Él es un varón de Dios en su negocio. Yo no los exhorto a que hagan lo
 
-mismo. Pudieran encontrarse en una posicin diferente; pero un hombre que tiene
+mismo. Pudieran encontrarse en una posición diferente; pero un hombre que tiene
 
-una familia y que est en los negocios debera ser capaz de decir: Bien, yo
+una familia y que está en los negocios debería ser capaz de decir: “Bien, yo
 
 gano tanto con mis negocios; tengo que proveer para mi familia pero no busco
 
 amasar riquezas. Voy a hacer dinero para Dios y voy a gastarlo en Su causa. Cuando
 
-me un a la iglesia, dije:
+me uní a la iglesia, dije:
 
-Todo lo que
+“Todo lo que
 
 soy, y todo lo que tengo,
 
-Ser Tuyo siempre;
+Será Tuyo siempre;
 
 Todo lo que
 
 mi deber me pida dar
 
-Lo entregarn
+Lo entregarán
 
-alegremente mis manos.
+alegremente mis manos”.
 
-Y lo dije con toda la intencin. No
+Y lo dije con toda la intención. No
 
 entiendo a algunas personas cristianas que cantan ese himno, pero luego reducen,
 
 aprietan y recortan cualquier cosa cuando se trata de dar para la causa de
 
-Dios. Si canto eso es porque tengo la intencin de decirlo. No lo cantara a
+Dios. Si canto eso es porque tengo la intención de decirlo. No lo cantaría a
 
-menos que as fuera. Si me uno a la iglesia, entiendo que me doy yo mismo y
+menos que así fuera. Si me uno a la iglesia, entiendo que me doy yo mismo y
 
-todo lo que tengo a esa iglesia; no quisiera hacer una profesin mentirosa; no
+todo lo que tengo a esa iglesia; no quisiera hacer una profesión mentirosa; no
 
-quisiera hacer una confesin de una consagracin que no tuviera la intencin de
+quisiera hacer una confesión de una consagración que no tuviera la intención de
 
-hacer. Si he dicho: yo soy de Cristo, por Su gracia ser de Cristo. Hermanos,
+hacer. Si he dicho: “yo soy de Cristo”, por Su gracia seré de Cristo. Hermanos,
 
-los que estn en los negocios pueden estar tan consagrados a Cristo como el
+los que están en los negocios pueden estar tan consagrados a Cristo como el
 
-ministro en su plpito; ustedes pueden convertir sus transacciones ordinarias
+ministro en su púlpito; ustedes pueden convertir sus transacciones ordinarias
 
 de la vida en un solemne servicio a Dios. Muchos hombres han deshonrado una
 
 sotana, pero muchos otros han consagrado una bata de obrero; muchos hombres han
 
-manchado los cojines de su plpito, pero muchos otros han convertido la horma
+manchado los cojines de su púlpito, pero muchos otros han convertido la horma
 
-de zapatero en santidad al Seor. Dichoso el varn que es consagrado al Seor;
+de zapatero en santidad al Seńor. Dichoso el varón que es consagrado al Seńor;
 
-dondequiera que est, es un consagrado y har maravillas.
+dondequiera que esté, es un consagrado y hará maravillas.
 
-Se ha sealado a menudo que todos somos hombrecitos
+Se ha seńalado a menudo que todos somos hombrecitos
 
-en esta poca. Hace cien aos o ms, si hubiramos recorrido las iglesias,
+en esta época. Hace cien ańos o más, si hubiéramos recorrido las iglesias,
 
-habramos encontrado fcilmente un nmero de ministros de gran nota. Pero ahora
+habríamos encontrado fácilmente un número de ministros de gran nota. Pero ahora
 
-todos somos hombrecitos, los babeantes hijos de unos don nadie; nuestros
+todos somos hombrecitos, los babeantes hijos de unos “don nadie”; nuestros
 
-nombres no sern recordados nunca pues no hacemos nada para merecerlo. Es raro
+nombres no serán recordados nunca pues no hacemos nada para merecerlo. Es raro
 
 encontrar a un hombre vivo en esta tierra; se puede encontrar a muchos que se
 
-autodesignan hombres, pero ellos son cscaras de hombres; se han quedado sin
+autodesignan hombres, pero ellos son cáscaras de hombres; se han quedado sin
 
-vida; el precioso ncleo pareciera haber partido. La pequeez de los cristianos
+vida; el precioso núcleo pareciera haber partido. La pequeńez de los cristianos
 
-de esta poca resulta de la pequeez de su consagracin a Cristo. La poca de
+de esta época resulta de la pequeńez de su consagración a Cristo. La época de
 
-John Owen fue la era de grandes predicadores, pero djenme decirles que esos
+John Owen fue la era de grandes predicadores, pero déjenme decirles que esos
 
-fueron los das de una gran consagracin. Esos grandes predicadores cuyos
+fueron los días de una gran consagración. Esos grandes predicadores cuyos
 
 nombres recordamos, no consideraban nada como propio; les fueron suprimidas sus
 
@@ -616,33 +614,33 @@ Establecida
 
 ,
 
-y renunciaron voluntariamente a todo lo que tenan por el Seor. Les daban caza
+y renunciaron voluntariamente a todo lo que tenían por el Seńor. Les daban caza
 
-de un lugar a otro; la deshonrosa acta de las cinco millas no les permita
+de un lugar a otro; la deshonrosa acta de las cinco millas no les permitía
 
 acercarse dentro un radio de cinco millas a cualquier ciudad que tuviera un
 
-mercado; deambulaban por aqu y por all para predicar el Evangelio a unas pobres
+mercado; deambulaban por aquí y por allá para predicar el Evangelio a unas pobres
 
-ovejas escasas, estando entregados plenamente a su Seor. Aquellos eran tiempos
+ovejas escasas, estando entregados plenamente a su Seńor. Aquellos eran tiempos
 
-malos pero ellos prometieron que andaran el camino en las buenas o en las
+malos pero ellos prometieron que andarían el camino en las buenas o en las
 
-malas, y en efecto lo anduvieron con las rodillas hundidas en el lodo, y lo habran
+malas, y en efecto lo anduvieron con las rodillas hundidas en el lodo, y lo habrían
 
 recorrido aun si hubieran tenido que hacerlo con las rodillas hundidas en
 
-sangre. Se convirtieron en grandes hombres; y si nosotros furamos, como ellos
+sangre. Se convirtieron en grandes hombres; y si nosotros fuéramos, como ellos
 
-lo fueron, enteramente entregados a Dios, si pudiramos decir de nosotros
+lo fueron, enteramente entregados a Dios, si pudiéramos decir de nosotros
 
-mismos: Desde la coronilla de mi cabeza hasta la planta de mi pie, no hay ni
+mismos: “Desde la coronilla de mi cabeza hasta la planta de mi pie, no hay ni
 
 una sola gota de sangre que no sea enteramente de Dios; todo mi tiempo, todos
 
-mis talentos, todo lo que tengo es de Dios, si pudiramos decir eso, seramos
+mis talentos, todo lo que tengo es de Dios”, si pudiéramos decir eso, seríamos
 
-fuertes como Sansn, pues el
+fuertes como Sansón, pues el
 
 consagrado
 
@@ -652,105 +650,105 @@ II.
 
 Ahora, en segundo lugar, veremos EL SECRETO
 
-DE SU FUERZA. Qu hace fuerte al varn consagrado? Ah, amados!, no hay fuerza
+DE SU FUERZA. żQué hace fuerte al varón consagrado? ˇAh, amados!, no hay fuerza
 
-en el hombre por s mismo. Sansn sin Dios no era sino un pobre necio. El
+en el hombre por sí mismo. Sansón sin Dios no era sino un pobre necio. El
 
-secreto de la fuerza de Sansn consista en esto: que en tanto que estuviera
+secreto de la fuerza de Sansón consistía en esto: que en tanto que estuviera
 
-consagrado sera fuerte; en tanto que estuviera entregado enteramente a su Dios
+consagrado sería fuerte; en tanto que estuviera entregado enteramente a su Dios
 
-y no tuviera ningn objetivo sino el de servir a Dios, (y eso deba ser
+y no tuviera ningún objetivo sino el de servir a Dios, (y eso debía ser
 
-indicado por el crecimiento de su cabellera), en tanto que as fuera, y nada
+indicado por el crecimiento de su cabellera), en tanto que así fuera, y nada
 
-ms, Dios estara con l para ayudarle. Y ahora ustedes ven, queridos amigos,
+más, Dios estaría con él para ayudarle. Y ahora ustedes ven, queridos amigos,
 
 que si tienen alguna fuerza para servir a Dios, el secreto de su fuerza se
 
-esconde en el mismo lugar. Qu fuerza tienes t, salvo en Dios? Ah!, he odo
+esconde en el mismo lugar. żQué fuerza tienes tú, salvo en Dios? ˇAh!, he oído
 
-que algunos hombres hablan como si la fuerza del libre albedro de la naturaleza
+que algunos hombres hablan como si la fuerza del libre albedrío de la naturaleza
 
-humana fuera suficiente para llevar a los hombres al cielo. El libre albedro
+humana fuera suficiente para llevar a los hombres al cielo. El libre albedrío
 
-ha llevado a muchas almas al infierno, pero nunca ha llevado todava a un alma
+ha llevado a muchas almas al infierno, pero nunca ha llevado todavía a un alma
 
-al cielo. Ninguna fuerza de la naturaleza puede bastar para servir al Seor
+al cielo. Ninguna fuerza de la naturaleza puede bastar para servir al Seńor
 
-debidamente. Nadie puede decir que Jess es el Cristo sino por el Espritu
+debidamente. Nadie puede decir que Jesús es el Cristo sino por el Espíritu
 
-Santo. Nadie puede venir a Cristo si el Padre, que envi a Cristo, no le trajere.
+Santo. Nadie puede venir a Cristo si el Padre, que envió a Cristo, no le trajere.
 
-Entonces, si el primer acto de la vida cristiana est ms all de toda fuerza
+Entonces, si el primer acto de la vida cristiana está más allá de toda fuerza
 
-humana, cunto ms estn ms all de cualquiera de nosotros esos pasos ms
+humana, żcuánto más están más allá de cualquiera de nosotros esos pasos más
 
-elevados? No expresamos una cierta verdad cuando decimos en las palabras de
+elevados? żNo expresamos una cierta verdad cuando decimos en las palabras de
 
 la Escritura
 
-, No que
+, “No que
 
 seamos competentes por nosotros mismos para pensar algo como de nosotros
 
-mismos, sino que nuestra competencia proviene de Dios? Yo pienso que
+mismos, sino que nuestra competencia proviene de Dios”? Yo pienso que
 
-cualquiera que realmente tenga un alma vivificada, tarde o temprano ser
+cualquiera que realmente tenga un alma vivificada, tarde o temprano será
 
-conducido a sentir esto. S!, yo cuestiono si un hombre puede ser convertido
+conducido a sentir esto. ˇSí!, yo cuestiono si un hombre puede ser convertido
 
-un da sin que descubra su propia debilidad. Es slo un pequeo espacio antes
+un día sin que descubra su propia debilidad. Es sólo un pequeńo espacio antes
 
-de que el nio descubra que puede estar solo de pie en tanto que Dios su Padre
+de que el nińo descubra que puede estar solo de pie en tanto que Dios su Padre
 
-lo tome por sus brazos y le ensee a caminar, pero que si la mano de su Padre
+lo tome por sus brazos y le enseńe a caminar, pero que si la mano de su Padre
 
-le es retirada no tiene ningn poder para estar de pie, sino que se cae de
+le es retirada no tiene ningún poder para estar de pie, sino que se cae de
 
-inmediato. Vean a Sansn sin su Dios saliendo contra mil hombres. No se
+inmediato. Vean a Sansón sin su Dios saliendo contra mil hombres. żNo se
 
-reiran de l? Y casi sin tiempo para expresar su terror, huira, o sera
+reirían de él? Y casi sin tiempo para expresar su terror, huiría, o sería
 
-despedazado. Imagnenlo sin su Dios, encerrado en Gaza, con las puertas
+despedazado. Imagínenlo sin su Dios, encerrado en Gaza, con las puertas
 
-cerradas firmemente. l sale a las calles para escapar; pero cmo puede
+cerradas firmemente. Él sale a las calles para escapar; żpero cómo puede
 
-encontrar una ruta de escape? Es apresado en una red como un toro salvaje; l
+encontrar una ruta de escape? Es apresado en una red como un toro salvaje; él
 
-puede dar vueltas una y otra vez alrededor de los muros, pero dnde estar su
+puede dar vueltas una y otra vez alrededor de los muros, żpero dónde estará su
 
-liberacin? Sin su Dios slo es como otros hombres. El secreto de su fuerza
+liberación? Sin su Dios sólo es como otros hombres. El secreto de su fuerza
 
-radica en su consagracin y en la fuerza que es su resultado. Recuerden,
+radica en su consagración y en la fuerza que es su resultado. Recuerden,
 
 entonces, el secreto de su fuerza. Nunca piensen tener un poder que sea propio;
 
-confen enteramente en el Dios de Israel y recuerden que el canal a travs del
+confíen enteramente en el Dios de Israel y recuerden que el canal a través del
 
-cual tiene que venir esa fuerza ha de ser su entera consagracin a Dios.
+cual tiene que venir esa fuerza ha de ser su entera consagración a Dios.
 
 III.
 
-En tercer lugar, cul es EL PELIGRO
+En tercer lugar, żcuál es EL PELIGRO
 
 PECULIAR DE UN HOMBRE CONSAGRADO? Su peligro es que sus guedejas sean cortadas,
 
-es decir, que su consagracin sea quebrantada. En tanto que est consagrado l
+es decir, que su consagración sea quebrantada. En tanto que está consagrado él
 
-es fuerte; rompan eso, y se vuelve dbil como el agua. Ahora, hay mil navajas
+es fuerte; rompan eso, y se vuelve débil como el agua. Ahora, hay mil navajas
 
-con las cuales el diablo puede rapar las guedejas de un varn consagrado sin
+con las cuales el diablo puede rapar las guedejas de un varón consagrado sin
 
-que se d cuenta. Sansn est profundamente dormido; el barbero es tan astuto que
+que se dé cuenta. Sansón está profundamente dormido; el barbero es tan astuto que
 
 lo arrulla para que se duerma al tiempo que sus dedos recorren la cabeza, la
 
-coronilla del necio, que est poniendo al desnudo. El demonio es aun mucho ms
+coronilla del necio, que está poniendo al desnudo. El demonio es aun mucho más
 
-astuto que el hbil barbero; l puede rapar las guedejas del creyente casi sin
+astuto que el hábil barbero; él puede rapar las guedejas del creyente casi sin
 
-que se d cuenta. Quieren que les diga con qu navajas puede consumar esa obra?
+que se dé cuenta. żQuieren que les diga con qué navajas puede consumar esa obra?
 
 Algunas veces toma la filosa navaja del
 
@@ -758,167 +756,167 @@ orgullo,
 
 y cuando el cristiano se queda dormido y se descuida, viene con ella y
 
-comienza a pasar sus dedos sobre las guedejas del cristiano, y le dice: Cun
+comienza a pasar sus dedos sobre las guedejas del cristiano, y le dice: ˇCuán
 
-excelente eres t como persona! Qu portentos has realizado! Acaso no destrozaste
+excelente eres tú como persona! ˇQué portentos has realizado! żAcaso no destrozaste
 
-hbilmente al len? Acaso no fue una gran hazaa que hirieras cadera y muslo a
+hábilmente al león? żAcaso no fue una gran hazańa que hirieras cadera y muslo a
 
-los filisteos? Ah!, se hablar de ti mientras el tiempo dure por llevarte a
+los filisteos? ˇAh!, se hablará de ti mientras el tiempo dure por llevarte a
 
-cuestas las puertas de Gaza. No tienes que temer a nadie. Y as la navaja
+cuestas las puertas de Gaza. No tienes que temer a nadie”. Y así la navaja
 
-prosigue su obra y caen una guedeja tras otra, pero Sansn no se da cuenta. l
+prosigue su obra y caen una guedeja tras otra, pero Sansón no se da cuenta. Él
 
-slo piensa en su interior, Cun valiente soy! Cun grande soy! As funciona
+sólo piensa en su interior, “ˇCuán valiente soy! ˇCuán grande soy!” Así funciona
 
-la navaja del orgullo: rapa, y rapa y rapa, y l se despierta para descubrirse
+la navaja del orgullo: rapa, y rapa y rapa, y él se despierta para descubrirse
 
-calvo y que toda su fuerza ha desaparecido. No han pasado nunca esa navaja por
+calvo y que toda su fuerza ha desaparecido. żNo han pasado nunca esa navaja por
 
-tu cabeza? Yo confieso que la pasan sobre mi cabeza. Despus que han sido
+tu cabeza? Yo confieso que la pasan sobre mi cabeza. Después que han sido
 
-capaces de soportar aflicciones, no han odo nunca una voz que les dice:
+capaces de soportar aflicciones, żno han oído nunca una voz que les dice:
 
-Cun paciente fuiste!? Despus que han rechazado alguna tentacin, y han
+“ˇCuán paciente fuiste!?” Después que han rechazado alguna tentación, y han
 
-sido capaces de mantenerse en el curso inamovible de la integridad, no les ha
+sido capaces de mantenerse en el curso inamovible de la integridad, żno les ha
 
-dicho Satans: Eso que hiciste es algo excelente; actuaste con valenta? Y en
+dicho Satanás: “Eso que hiciste es algo excelente; actuaste con valentía”? Y en
 
 todo ese tiempo no te dabas cuenta de que era la astuta mano del maligno la que
 
 estaba rapando tus guedejas con la filosa navaja del orgullo. Observen pues que
 
-el orgullo vulnera nuestra consagracin. Tan pronto comienzo a volverme
+el orgullo vulnera nuestra consagración. Tan pronto comienzo a volverme
 
-orgulloso por lo que hago o por lo que soy, he de preguntarme: de qu estoy
+orgulloso por lo que hago o por lo que soy, he de preguntarme: żde qué estoy
 
 orgulloso? Vamos, hay en ese orgullo el acto de quitarle a Dios Su gloria. Yo
 
-promet que Dios deba recibir toda la gloria, y no es esa una parte de mi
+prometí que Dios debía recibir toda la gloria, ży no es esa una parte de mi
 
-consagracin? Y yo la estoy tomando para m. He vulnerado mi consagracin; mis
+consagración? Y yo la estoy tomando para mí. He vulnerado mi consagración; mis
 
-guedejas han desaparecido y yo me vuelvo dbil. Observa esto, cristiano: Dios
+guedejas han desaparecido y yo me vuelvo débil. Observa esto, cristiano: Dios
 
-no te dar nunca fuerzas para que te glorifiques a ti mismo. Dios te dar una
+no te dará nunca fuerzas para que te glorifiques a ti mismo. Dios te dará una
 
 corona, pero no para que la pongas sobre tu cabeza. Tan pronto como un
 
-cristiano comienza a escribir sobre su propio escudo de armas sus hazaas y sus
+cristiano comienza a escribir sobre su propio escudo de armas sus hazańas y sus
 
-triunfos y toma la gloria para s, Dios le abatir hasta el polvo.
+triunfos y toma la gloria para sí, Dios le abatirá hasta el polvo.
 
-Otra navaja que usa tambin es la
+Otra navaja que usa también es la
 
 autosuficiencia.
 
-Ah, dice el diablo al
+“Ah”, dice el diablo al
 
-tiempo que rapa tus guedejas, Has hecho muchsimo. Ves que te ataron con mimbres
+tiempo que rapa tus guedejas, “Has hecho muchísimo. Ves que te ataron con mimbres
 
-verdes y t los hiciste pedazos: simplemente olieron el fuego y se rompieron.
+verdes y tú los hiciste pedazos: simplemente olieron el fuego y se rompieron.
 
-Entonces tomaron cuerdas nuevas para atarte; ah!, aun a ellas las venciste,
+Entonces tomaron cuerdas nuevas para atarte; ˇah!, aun a ellas las venciste,
 
-pues t hiciste pedazos las cuerdas como si se trataran de un hilo. Luego
+pues tú hiciste pedazos las cuerdas como si se trataran de un hilo. Luego
 
-tejieron las siete guedejas de tu cabeza, pero t arrancaste la estaca del
+tejieron las siete guedejas de tu cabeza, pero tú arrancaste la estaca del
 
-telar con la tela y te alejaste. T puedes hacer cualquier cosa, no tengas
+telar con la tela y te alejaste. Tú puedes hacer cualquier cosa, no tengas
 
-miedo; t tienes la suficiente fuerza para hacer cualquier cosa; puedes
+miedo; tú tienes la suficiente fuerza para hacer cualquier cosa; puedes
 
-realizar cualquier hazaa que te propongas. Cun delicadamente el diablo har
+realizar cualquier hazańa que te propongas”. Cuán delicadamente el diablo hará
 
-todo eso; cmo frota la cabeza mientras la navaja se desliza suavemente sobre
+todo eso; cómo frota la cabeza mientras la navaja se desliza suavemente sobre
 
-su superficie y las guedejas caen al suelo y l las pisa en el polvo. T has
+su superficie y las guedejas caen al suelo y él las pisa en el polvo. “Tú has
 
-realizado todo esto, y puedes hacer cualquier otra cosa. Cada gota de gracia
+realizado todo esto, y puedes hacer cualquier otra cosa”. Cada gota de gracia
 
-destila del cielo. Oh hermanos mos, qu tenemos que no hayamos recibido? No
+destila del cielo. Oh hermanos míos, żqué tenemos que no hayamos recibido? No
 
-debemos imaginar que nosotros podemos crear una fuerza con la cual ceirnos. Todas
+debemos imaginar que nosotros podemos crear una fuerza con la cual ceńirnos. “Todas
 
-mis fuentes estn en
+mis fuentes están en
 
-ti.
+ti”.
 
 En el
 
 momento en que comenzamos a pensar que es nuestro propio brazo el que nos ha
 
-alcanzado la victoria, todo habr concluido para nosotros: nuestras guedejas de
+alcanzado la victoria, todo habrá concluido para nosotros: nuestras guedejas de
 
-la fuerza sern rapadas y la gloria se apartar de nosotros. Vean, entonces,
+la fuerza serán rapadas y la gloria se apartará de nosotros. Vean, entonces,
 
 que tanto la autosuficiencia como el orgullo pueden ser la navaja con la que el
 
 enemigo rapa nuestra fuerza.
 
-Hay todava otro peligro aun ms
+Hay todavía otro peligro aun más
 
 palpable. Cuando un hombre consagrado comienza a
 
-cambiar su propsito en la vida y a vivir para s,
+cambiar su propósito en la vida y a vivir para sí,
 
 esa navaja rapa su
 
-cabeza completamente. He ah un ministro; cuando comenz su ministerio poda
+cabeza completamente. He ahí un ministro; cuando comenzó su ministerio podía
 
-decir: Dios es mi testigo de que slo me he puesto un objetivo: estar limpio
+decir: “Dios es mi testigo de que sólo me he puesto un objetivo: estar limpio
 
 de la sangre de cualquiera de mis oyentes y que pueda predicar el Evangelio
 
-fielmente y honrar a mi Seor. En breve, tentado por Satans, cambia su tono y
+fielmente y honrar a mi Seńor”. En breve, tentado por Satanás, cambia su tono y
 
-habla de esta manera: Debo conservar mi congregacin. Si predico una doctrina
+habla de esta manera: “Debo conservar mi congregación. Si predico una doctrina
 
-dura, no vendrn. No me critic uno de los peridicos, y no se fueron algunos de
+dura, no vendrán. żNo me criticó uno de los periódicos, y no se fueron algunos de
 
-mis congregantes debido a eso? Debo preocuparme respecto a qu persigo. Debo
+mis congregantes debido a eso? Debo preocuparme respecto a qué persigo. Debo
 
-mantener esto en marcha. Debo tener mucho ms cuidado y pulir ms mi lenguaje.
+mantener esto en marcha. Debo tener mucho más cuidado y pulir más mi lenguaje.
 
-Tengo que adoptar un estilo ms suave, o predicar una doctrina de nuevo diseo
+Tengo que adoptar un estilo más suave, o predicar una doctrina de nuevo diseńo
 
-pues tengo que mantener mi popularidad. Qu ser de m si me voy a pique? La
+pues tengo que mantener mi popularidad. żQué será de mí si me voy a pique? La
 
-gente dir: subi como un cohete y baj como una vara, y entonces todos mis
+gente dirá: ‘subió como un cohete y bajó como una vara’, y entonces todos mis
 
-enemigos se reirn. Ah, cuando un hombre se comienza a preocupar con respecto
+enemigos se reirán”. Ah, cuando un hombre se comienza a preocupar con respecto
 
-al mundo hasta por un chasquido de los dedos, todo ha terminado para l. Si puede
+al mundo hasta por un chasquido de los dedos, todo ha terminado para él. Si puede
 
-subir a su plpito y decir: He recibido un mensaje que tengo que entregar, y
+subir a su púlpito y decir: “He recibido un mensaje que tengo que entregar, y
 
 ya sea que lo oigan o que no lo oigan, voy a entregarlo tal como Dios lo pone
 
-en mi boca; no voy a cambiar el punto de una i o la tilde de una t ni
+en mi boca; no voy a cambiar el punto de una ‘i’ o la tilde de una ‘t’ ni
 
-siquiera por el hombre ms grande que viva, o para atraer a la congregacin ms
+siquiera por el hombre más grande que viva, o para atraer a la congregación más
 
-numerosa que se hubiera sentado jams a los pies de un ministro, ese hombre es
+numerosa que se hubiera sentado jamás a los pies de un ministro”, ese hombre es
 
-poderoso. No permite que los juicios humanos lo muevan y l va a mover al
+poderoso. No permite que los juicios humanos lo muevan y él va a mover al
 
-mundo. Pero dejen que se desve y que piense acerca de su congregacin y cmo
+mundo. Pero dejen que se desvíe y que piense acerca de su congregación y cómo
 
-ser conservada: ah, Sansn, cmo son rapadas tus guedejas! Qu puedes hacer
+será conservada: ˇah, Sansón, cómo son rapadas tus guedejas! żQué puedes hacer
 
 ahora? Esa falsa Dalila te ha destruido; te sacaron los ojos y suprimieron tu
 
-comodidad, y tu futuro ministerio ser como la molienda de un asno alrededor del
+comodidad, y tu futuro ministerio será como la molienda de un asno alrededor del
 
-molino que gira continuamente; no tendrs ni reposo ni paz nunca jams. O dejen
+molino que gira continuamente; no tendrás ni reposo ni paz nunca jamás. O dejen
 
-que se desve de otra manera. Supongan que dijera: Tengo que obtener una
+que se desvíe de otra manera. Supongan que dijera: “Tengo que obtener una
 
 prebenda, o riqueza, tengo que cuidarme muy bien, tengo que enriquecerme
 
-aprovechando mi posicin, ese tiene que ser el objetivo de mi vida. No estoy
+aprovechando mi posición, ese tiene que ser el objetivo de mi vida”. No estoy
 
 hablando ahora meramente del ministerio, sino de todos los consagrados; y tan
 
@@ -930,113 +928,113 @@ el
 
 objetivo primordial de nuestra existencia, nuestras guedejas son recortadas.
 
-Ahora dice el Seor- Yo le di fuerza a ese hombre, pero no para que la use
+“Ahora” –dice el Seńor- “Yo le di fuerza a ese hombre, pero no para que la use
 
-para s mismo. Luego lo puse en una alta posicin, pero no para que se cubra de
+para sí mismo. Luego lo puse en una alta posición, pero no para que se cubra de
 
-gloria; lo puse all para que mire por mi causa, por mis intereses; y si no
+gloria; lo puse allí para que mire por mi causa, por mis intereses; y si no
 
-hace primero eso, caer. Ustedes recuerdan a la reina Ester: ella es exaltada
+hace primero eso, caerá”. Ustedes recuerdan a la reina Ester: ella es exaltada
 
 y pasa de ser una humilde doncella a convertirse en la esposa del gran monarca
 
-Asuero. Bien, Amn consigue un decreto en contra de la nacin de ella que
+Asuero. Bien, Amán consigue un decreto en contra de la nación de ella que
 
-establece que ser destruida. El pobre Mordecai viene a Ester y le dice: Tienes
+establece que será destruida. El pobre Mordecai viene a Ester y le dice: “Tienes
 
-que ir a hablar con el rey. Bien responde ella- pero si voy, morir.
+que ir a hablar con el rey”. “Bien” –responde ella- “pero si voy, moriré”.
 
-Ah, -dice l- si callas absolutamente en este tiempo, respiro y liberacin
+“Ah”, -dice él- “si callas absolutamente en este tiempo, respiro y liberación
 
-vendr de alguna otra parte para los judos; mas t y la casa de tu padre
+vendrá de alguna otra parte para los judíos; mas tú y la casa de tu padre
 
-pereceris. Y quin sabe si para esta hora has llegado al reino? Ester no fue
+pereceréis. żY quién sabe si para esta hora has llegado al reino?” Ester no fue
 
 elegida como la reina Ester para que ella se hiciera gloriosa, sino para que ocupara
 
-una posicin para salvar a los judos; y si ahora se prefiriera a su pas entonces
+una posición para salvar a los judíos; y si ahora se prefiriera a su país entonces
 
-todo habra acabado para ella; la suerte de Vasti sera como nada comparada con
+todo habría acabado para ella; la suerte de Vasti sería como nada comparada con
 
-su destruccin.
+su destrucción.
 
-Y as, si t vives en este mundo y Dios
+Y así, si tú vives en este mundo y Dios
 
-te prospera, alcanzas tal vez una posicin, y dices: heme aqu; voy a cuidar
+te prospera, alcanzas tal vez una posición, y dices: “heme aquí; voy a cuidar
 
-de m mismo; antes he estado sirviendo a la iglesia pero ahora voy a cuidarme
+de mí mismo; antes he estado sirviendo a la iglesia pero ahora voy a cuidarme
 
-un poco. Vamos, vamos, dice la naturaleza humana; tienes que cuidar a tu
+un poco”. “Vamos, vamos”, dice la naturaleza humana; “tienes que cuidar a tu
 
-familia, (que quiere decir: tienes que cuidarte a ti mismo). Muy bien, hazlo,
+familia”, (que quiere decir: tienes que cuidarte a ti mismo). Muy bien, hazlo,
 
-amigo, como tu principal objetivo, y entonces eres un hombre arruinado. Buscad
+amigo, como tu principal objetivo, y entonces eres un hombre arruinado. “Buscad
 
-primeramente el reino de Dios y su justicia, y todas estas cosas os sern
+primeramente el reino de Dios y su justicia, y todas estas cosas os serán
 
-aadidas. Si tu ojo es bueno, todo tu cuerpo estar lleno de luz. Aunque
+ańadidas”. Si tu ojo es bueno, todo tu cuerpo estará lleno de luz. Aunque
 
-pareciera que habas suprimido la mitad de la luz por tener ese ojo bueno, con
+pareciera que habías suprimido la mitad de la luz por tener ese ojo bueno, con
 
-todo, tu cuerpo estar lleno de luz. Pero si comienzas a tener dos seores y a
+todo, tu cuerpo estará lleno de luz. Pero si comienzas a tener dos seńores y a
 
-servir a dos objetivos, no servirs a ninguno; no prosperars en este mundo, ni
+servir a dos objetivos, no servirás a ninguno; no prosperarás en este mundo, ni
 
-en el mundo venidero. Oh, cristiano, por sobre todas las cosas cuida tu consagracin.
+en el mundo venidero. Oh, cristiano, por sobre todas las cosas cuida tu consagración.
 
-Has de sentir siempre que ests enteramente entregado a Dios, y nicamente a
+Has de sentir siempre que estás enteramente entregado a Dios, y únicamente a
 
 Dios.
 
 IV.
 
-Y ahora, por ltimo, est
+Y ahora, por último, está
 
 LA IGNOMINIA DEL
 
-CRISTIANO. Le rapan sus guedejas. Yo le he visto, a pesar de ser joven, y t
+CRISTIANO. Le rapan sus guedejas. Yo le he visto, a pesar de ser joven, y tú
 
 con tus cabellos grises sobre tu frente le has visto con mayor frecuencia que
 
-yo. Le he visto en el ministerio. Hablaba como un ngel de Dios; haba muchos
+yo. Le he visto en el ministerio. Hablaba como un ángel de Dios; había muchos
 
-que le tenan en alta consideracin y se colgaban de sus labios; pareca ser
+que le tenían en alta consideración y se colgaban de sus labios; parecía ser
 
-ortodoxo en doctrina y sincero en su conducta. Le he visto desviarse; slo fue
+ortodoxo en doctrina y sincero en su conducta. Le he visto desviarse; sólo fue
 
-algo insignificante, alguna ligera desviacin de la antigua ortodoxia de sus
+algo insignificante, alguna ligera desviación de la antigua ortodoxia de sus
 
-padres, alguna leve violacin de la ley de su iglesia. He visto que ha ido
+padres, alguna leve violación de la ley de su iglesia. He visto que ha ido
 
 renunciando a una doctrina tras otra, hasta que al fin el propio lugar en el
 
-que predicaba se convirti en un refrn y un proverbio; y el padre de cabellos
+que predicaba se convirtió en un refrán y un proverbio; y el padre de cabellos
 
-grises seala al hombre a su hijo como a alguien al que hay que ver con
+grises seńala al hombre a su hijo como a alguien al que hay que ver con
 
-sospecha, el cual, si dicta una conferencia, ha de ser odo con cautela, y si
+sospecha, el cual, si dicta una conferencia, ha de ser oído con cautela, y si
 
-predica, no ha de ser escuchado en absoluto. No le han visto? Qu gran
+predica, no ha de ser escuchado en absoluto. żNo le han visto? ˇQué gran
 
-deshonra! Qu cada! El hombre que lleg a los campos de Dan y que pareca ser
+deshonra! ˇQué caída! El hombre que llegó a los campos de Dan y que parecía ser
 
-movido por el Espritu del Seor se ha convertido en un esclavo del error. Se
+movido por el Espíritu del Seńor se ha convertido en un esclavo del error. Se
 
-ha introducido en los propios campos del enemigo, y all est ahora, moliendo en
+ha introducido en los propios campos del enemigo, y allí está ahora, moliendo en
 
-el molino para los filisteos a quienes ms bien debera estar golpeando con su
+el molino para los filisteos a quienes más bien debería estar golpeando con su
 
-brazo. Ahora, hay dos maneras de explicar esto. Ese hombre o es un hipcrita
+brazo. Ahora, hay dos maneras de explicar esto. Ese hombre o es un hipócrita
 
-empedernido o un creyente cado. Algunas veces la gente dice de los que se
+empedernido o un creyente caído. Algunas veces la gente dice de los que se
 
-desvan al pecado: Miren ahora; vean, hay un cristiano cado, un hijo de Dios
+desvían al pecado: “Miren ahora; vean, hay un cristiano caído, un hijo de Dios
 
-cado. Es algo as como cuando el vulgo ve en la noche una luz brillante en el
+caído”. Es algo así como cuando el vulgo ve en la noche una luz brillante en el
 
-cielo y dice: Ah, hay una estrella cada. No era una estrella; las estrellas
+cielo y dice: “Ah, hay una estrella caída”. No era una estrella; las estrellas
 
-estn muy bien. Tomen un telescopio; todas ellas estn ah.
+están muy bien. Tomen un telescopio; todas ellas están ahí.
 
 La
 
@@ -1046,61 +1044,61 @@ Mayor
 
 no ha perdido ni una sola
 
-estrella de su cola; y si miran, ah est el cinturn de Orin muy seguro y la
+estrella de su cola; y si miran, ahí está el cinturón de Orión muy seguro y la
 
-daga no se ha cado de all. Qu es, entonces? No sabemos exactamente lo que
+daga no se ha caído de allí. żQué es, entonces? No sabemos exactamente lo que
 
 es. Tal vez pudieran ser unos cuantos gases que suben por un momento y que han
 
-estallado, y eso es todo, o alguna sustancia errante que ha cado y ya era
+estallado, y eso es todo, o alguna sustancia errante que ha caído y ya era
 
-tiempo de que eso sucediera. Pero todas las estrellas estn bien. Entonces,
+tiempo de que eso sucediera. Pero todas las estrellas están bien. Entonces,
 
-pueden tener la seguridad de que los hijos de Dios estn siempre seguros. Ahora,
+pueden tener la seguridad de que los hijos de Dios están siempre seguros. Ahora,
 
-esos hombres que se han desviado y que han quebrantado su voto de consagracin son
+esos hombres que se han desviado y que han quebrantado su voto de consagración son
 
-sealados como una ignominia para ellos mismos y como una deshonra para la
+seńalados como una ignominia para ellos mismos y como una deshonra para la
 
 iglesia. Y quienes son miembros de la iglesia de Cristo han visto a hombres que
 
-han estado en sus filas como firmes soldados de la cruz, y los han visto salir
+han estado en sus filas como firmes soldados de la cruz, y los han visto “salir
 
-de nosotros, porque no eran de nosotros, o como al pobre Sansn, los han visto
+de nosotros, porque no eran de nosotros”, o como al pobre Sansón, los han visto
 
 ir a sus tumbas sin los ojos del consuelo que les fueron sacados, con los pies
 
 de su utilidad atados con cadenas de bronce y sin la fuerza de sus brazos que
 
-desapareci por completo. Ahora, alguno de ustedes desea ser un renegado?
+desapareció por completo. Ahora, żalguno de ustedes desea ser un renegado?
 
-Deseas traicionar la santa profesin de tu religin? Hermanos mos, hay
+żDeseas traicionar la santa profesión de tu religión? Hermanos míos, żhay
 
-alguien entre ustedes que en este da haga una profesin de amor a Cristo pero
+alguien entre ustedes que en este día haga una profesión de amor a Cristo pero
 
-que desee ser un apstata? Hay alguien de ustedes que desee que le saquen los
+que desee ser un apóstata? żHay alguien de ustedes que desee que le saquen los
 
-ojos como a Sansn y que sea obligado a moler en el molino? Quisieras cometer
+ojos como a Sansón y que sea obligado a moler en el molino? żQuisieras cometer
 
-un gran pecado, como David, e ir con los huesos rotos a la tumba? Quisieras emborracharte,
+un gran pecado, como David, e ir con los huesos rotos a la tumba? żQuisieras emborracharte,
 
-como Lot, y caer en la lascivia? No, yo s lo que dices: Seor, haz que mi
+como Lot, y caer en la lascivia? No, yo sé lo que dices: “Seńor, haz que mi
 
-senda sea como el vuelo del guila; haz que vuele al sol a lo alto, y que nunca
+senda sea como el vuelo del águila; haz que vuele al sol a lo alto, y que nunca
 
-me detenga ni me desve. Oh, dame gracia para servirte, como Caleb, con un
+me detenga ni me desvíe. Oh, dame gracia para servirte, como Caleb, con un
 
-corazn perfecto, y que desde el principio hasta el fin de mis das, mi senda
+corazón perfecto, y que desde el principio hasta el fin de mis días, mi senda
 
-sea como la luz de la aurora, que va en aumento hasta que el da es perfecto.
+sea como la luz de la aurora, que va en aumento hasta que el día es perfecto”.
 
-S, yo s cul es tu deseo. Entonces, cmo has de lograrlo? Considera muy bien
+Sí, yo sé cuál es tu deseo. Entonces, żcómo has de lograrlo? Considera muy bien
 
-tu consagracin; ve que sea sincera; cuida de hacerla de corazn, y entonces
+tu consagración; ve que sea sincera; cuida de hacerla de corazón, y entonces
 
-mira al Espritu Santo, despus de que hayas mirado a tu consagracin, y pdele
+mira al Espíritu Santo, después de que hayas mirado a tu consagración, y pídele
 
-que te d tu gracia de cada da; pues as como el man caa da a da, as
+que te dé tu gracia de cada día; pues así como el maná caía día a día, así
 
 debes recibir tu alimento diario de lo alto. Y, recuerda que no es por ninguna
 
@@ -1110,33 +1108,33 @@ ser dada cada hora que has de ser sostenido, y habiendo hecho todo, ser coronado
 
 al fin como alguien fiel que ha perseverado hasta el fin. Yo les pido sus
 
-oraciones para que sea guardado fiel a mi Seor; y por otro lado, yo ofrecer
+oraciones para que sea guardado fiel a mi Seńor; y por otro lado, yo ofreceré
 
-mis fervientes oraciones para que ustedes le puedan servir mientras l les preste
+mis fervientes oraciones para que ustedes le puedan servir mientras Él les preste
 
-aliento, para que cuando la voz suya se pierda en la muerte, le alaben con ms
+aliento, para que cuando la voz suya se pierda en la muerte, le alaben con más
 
-dulces y ms sonoros acordes melodiosos a lo largo de una inmortalidad sin fin.
+dulces y más sonoros acordes melodiosos a lo largo de una inmortalidad sin fin.
 
 Y en cuanto a ustedes que no se han
 
-entregado a Dios y que no estn consagrados a l, slo puedo hablarles como a
+entregado a Dios y que no están consagrados a Él, sólo puedo hablarles como a
 
-filisteos y advertirles que llegar el da cuando Israel ser vengado de los
+filisteos y advertirles que llegará el día cuando Israel será vengado de los
 
-filisteos. Un da pudieran estar reunidos en el piso alto de sus placeres, gozando
+filisteos. Un día pudieran estar reunidos en el piso alto de sus placeres, gozando
 
-de salud y fuerza; pero hay un Sansn llamado: Muerte, que derribar las
+de salud y fuerza; pero hay un Sansón llamado: Muerte, que derribará las
 
-columnas de su tabernculo, y tendrn que caer y ser destruidos, y grande ser
+columnas de su tabernáculo, y tendrán que caer y ser destruidos, y grande será
 
-su ruina. Que Dios les d gracia para que puedan consagrarse a Cristo, de
+su ruina. Que Dios les dé gracia para que puedan consagrarse a Cristo, de
 
-manera que viviendo o muriendo, se regocijen en l y compartan con l la gloria
+manera que viviendo o muriendo, se regocijen en Él y compartan con Él la gloria
 
 de Su Padre.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 30/Enero/2014
 

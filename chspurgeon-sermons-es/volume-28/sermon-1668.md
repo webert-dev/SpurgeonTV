@@ -1,16 +1,16 @@
 # Sermón 1668 | Sermón 1668
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Silbo
 
 Apacible y Delicado
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,303 +18,303 @@ DOMINGO 9 DE JULIO
 
 DE 1882
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y tras el
+“Y tras el
 
-terremoto un fuego; pero Jehov no estaba en el fuego. Y tras el fuego un silbo
+terremoto un fuego; pero Jehová no estaba en el fuego. Y tras el fuego un silbo
 
-apacible y delicado. Y cuando lo oy Elas, cubri su rostro con su manto, y
+apacible y delicado. Y cuando lo oyó Elías, cubrió su rostro con su manto, y
 
-sali, y se puso a la puerta de la
+salió, y se puso a la puerta de la
 
 cueva
 
-. Y he aqu
+. Y he aquí
 
-vino a l una voz, diciendo: Qu haces aqu, Elas?  1 Reyes 19: 12, 13.
+vino a él una voz, diciendo: żQué haces aquí, Elías?”  1 Reyes 19: 12, 13.
 
-Elas esperaba, sin duda,
+Elías esperaba, sin duda,
 
-que despus de la prodigiosa demostracin del poder de Dios en el Carmelo, la
+que después de la prodigiosa demostración del poder de Dios en el Carmelo, la
 
-nacin renunciara a sus dolos y retornara al nico y verdadero Dios. Acaso
+nación renunciaría a sus ídolos y retornaría al único y verdadero Dios. żAcaso
 
-no haban confesado como con voz de trueno que Jehov es el Dios, Jehov es
+no habían confesado como con voz de trueno que “ˇJehová es el Dios, Jehová es
 
-el Dios!? El profeta confiaba que tal vez el corazn de Acab pudiera ser
+el Dios!”? El profeta confiaba que tal vez el corazón de Acab pudiera ser
 
-tocado, y posiblemente, por medio suyo, que el corazn de Jezabel lo fuera
+tocado, y posiblemente, por medio suyo, que el corazón de Jezabel lo fuera
 
-tambin. Si ella no se converta, al menos la manifiesta intervencin de Jehov
+también. Si ella no se convertía, al menos la manifiesta intervención de Jehová
 
-pudiera impedir que su mano desencadenara una futura persecucin. El profeta
+pudiera impedir que su mano desencadenara una futura persecución. El profeta
 
 esperaba que por la influencia
 
-as
+así
 
 ejercida sobre el
 
-rey y la reina, la tierra entera proclamara con prontitud su lealtad a Jehov.
+rey y la reina, la tierra entera proclamaría con prontitud su lealtad a Jehová.
 
-Entonces su adusto corazn se alegrara delante del Seor. Cuando descubri que
+Entonces su adusto corazón se alegraría delante del Seńor. Cuando descubrió que
 
-no era as, su nimo decay. Probablemente el mensaje enviado por Jezabel de
+no era así, su ánimo decayó. Probablemente el mensaje enviado por Jezabel de
 
-que Elas morira a la maana siguiente no fue tan terrible para l como el
+que Elías moriría a la mańana siguiente no fue tan terrible para él como el
 
-descubrimiento que le acompa: que su gran demostracin contra Baal estaba
+descubrimiento que le acompańó: que su gran demostración contra Baal estaba
 
-condenada al fracaso. La altiva reina sidiona seguira gobernando sobre el
+condenada al fracaso. La altiva reina sidiona seguiría gobernando sobre el
 
-vacilante Acab, y por intermediacin de Acab, ella retendra el poder sobre el
+vacilante Acab, y por intermediación de Acab, ella retendría el poder sobre el
 
-pueblo, y los dolos permaneceran confiadamente en sus tronos. Ese pensamiento
+pueblo, y los ídolos permanecerían confiadamente en sus tronos. Ese pensamiento
 
-era como hiel y ajenjo para el profeta aborrecedor de los dolos. Lleg a estar
+era como hiel y ajenjo para el profeta aborrecedor de los ídolos. Llegó a estar
 
 tan abatido que estaba a punto de renunciar al conflicto y de abandonar el
 
-campo de batalla. No puede soportar vivir en la tierra donde la gente est tan
+campo de batalla. No puede soportar vivir en la tierra donde la gente está tan
 
-ciegamente obsesionada en honrar a Baal y en deshonrar a Jehov. Resuelve irse
+ciegamente obsesionada en honrar a Baal y en deshonrar a Jehová. Resuelve irse
 
-de inmediato. Pero adnde ha de ir? Recorre la tierra a toda prisa, vuela al
+de inmediato. żPero adónde ha de ir? Recorre la tierra a toda prisa, vuela al
 
 desierto, y no descansa hasta llegar a un paraje solitario donde el pie del
 
-hombre no ha machucado el pasto. Pero adnde se ha de encaminar presuroso? l,
+hombre no ha machucado el pasto. żPero adónde se ha de encaminar presuroso? Él,
 
 el gran vindicador de la ley, piensa en el lugar donde una vez estuvo el gran
 
 legislador, y se apresura a ir a Horeb, el monte de Dios. Se aloja en una
 
-cueva, tal vez en la propia hendidura de la pea donde antao Dios haba
+cueva, tal vez en la propia hendidura de la peńa donde antańo Dios había
 
-ocultado a Su siervo Moiss mientras haca pasar toda Su gloria delante de l.
+ocultado a Su siervo Moisés mientras hacía pasar toda Su gloria delante de él.
 
-Pero qu repliegue delante de un enemigo derrotado! Dnde est ahora el
+ˇPero qué repliegue delante de un enemigo derrotado! żDónde está ahora el
 
-intrpido nimo que enfrent a todo Israel, uno contra miles? Cmo han cado
+intrépido ánimo que enfrentó a todo Israel, uno contra miles? ˇCómo han caído
 
-los valientes! Es ste mi seor Elas, agazapado en una caverna? Es acaso ste
+los valientes! żEs éste mi seńor Elías, agazapado en una caverna? żEs acaso éste
 
-el varn que pareca entrar de un salto en la historia de Israel cual len
+el varón que parecía entrar de un salto en la historia de Israel cual león
 
-rugiendo sobre su presa? Es ste Elas tisbita que hizo bajar de los cielos
+rugiendo sobre su presa? żEs éste Elías tisbita que hizo bajar de los cielos
 
-fuego y agua? S, lo es. Se ha vuelto pusilnime y est hastiado y por eso ha
+fuego y agua? Sí, lo es. Se ha vuelto pusilánime y está hastiado y por eso ha
 
-abandonado el servicio de su Seor. Es bueno que los que siempre somos dbiles veamos
+abandonado el servicio de su Seńor. Es bueno que los que siempre somos débiles veamos
 
-muy claramente que los fuertes slo son fuertes porque Dios los hace as. Su
+muy claramente que los fuertes sólo son fuertes porque Dios los hace así. Su
 
-ocasional debilidad demuestra que por naturaleza son tan dbiles como nosotros;
+ocasional debilidad demuestra que por naturaleza son tan débiles como nosotros;
 
-es slo por la fuerza divina que se vuelven valientes, y esa fuerza est lista
+es sólo por la fuerza divina que se vuelven valientes, y esa fuerza está lista
 
-a ceirnos a nosotros tambin para el conflicto. Eso nos consuela, aunque no
+a ceńirnos a nosotros también para el conflicto. Eso nos consuela, aunque no
 
-por ello excusamos nuestra propia debilidad. El Seor Dios de Elas es nuestro
+por ello excusamos nuestra propia debilidad. El Seńor Dios de Elías es nuestro
 
-Dios, y as como l sustent a un hombre sujeto a pasiones semejantes a las
+Dios, y así como Él sustentó a un hombre sujeto a pasiones semejantes a las
 
-nuestras, l puede sustentarnos, y lo har, si clamamos a l.
+nuestras, Él puede sustentarnos, y lo hará, si clamamos a Él.
 
 Observen con mucho
 
-cuidado y con mucho placer cmo trat Dios con Su siervo alicado. Saba que su
+cuidado y con mucho placer cómo trató Dios con Su siervo alicaído. Sabía que su
 
-corazn era fiel, entenda que Elas era un hombre veraz que amaba a su Dios y
+corazón era fiel, entendía que Elías era un hombre veraz que amaba a su Dios y
 
-le tema, y que tena mucho celo por Su honra; por tanto, no desech airado a
+le temía, y que tenía mucho celo por Su honra; por tanto, no desechó airado a
 
-Su siervo, sino que resolvi reanimarlo, restaurarlo y llevarlo de regreso a la
+Su siervo, sino que resolvió reanimarlo, restaurarlo y llevarlo de regreso a la
 
-guerra santa. Elas deba aprender ahora el significado del cntico de David: Confortar
+guerra santa. Elías debía aprender ahora el significado del cántico de David: “Confortará
 
-mi alma; me guiar por sendas de justicia por amor de su nombre. El Seor
+mi alma; me guiará por sendas de justicia por amor de su nombre”. El Seńor
 
-comenz con l con mucha ternura, renovando su organismo. Le permiti que
+comenzó con él con mucha ternura, renovando su organismo. Le permitió que
 
-cayera en un sueo, y cuando el ngel le toc para despertarlo, haba una torta
+cayera en un sueńo, y cuando el ángel le tocó para despertarlo, había una torta
 
-cocida para l y una vasija de agua. Entonces el Seor le permiti dormir de
+cocida para él y una vasija de agua. Entonces el Seńor le permitió dormir de
 
 nuevo, ya que lo necesitaba grandemente. Cuando estamos agotados por la fatiga,
 
-no perdemos el tiempo que invertimos en el sueo. La mejor economa de vida es
+no perdemos el tiempo que invertimos en el sueńo. La mejor economía de vida es
 
 dejar que el cuerpo tenga una dosis suficiente del dulce restaurador de la
 
-benvola naturaleza, es decir, del sueo balsmico. Despus de un segundo sueo
+benévola naturaleza, es decir, del sueńo balsámico. Después de un segundo sueńo
 
 Dios le dio a Su siervo una segunda comida, y habiendo sido restaurado de esa
 
-manera, Elas fue capaz de mirar las cosas bajo una luz ms alentadora. Hubo un
+manera, Elías fue capaz de mirar las cosas bajo una luz más alentadora. Hubo un
 
-tiempo cuando el pueblo cristiano tena en poca estima al cuerpo; decan de su
+tiempo cuando el pueblo cristiano tenía en poca estima al cuerpo; decían de su
 
 organismo que era un cuerpo vil, y ciertamente lo es en cierto sentido, pero no
 
-en todos los sentidos. Si tenan algunas dudas, temores o temblores nuestros buenos
+en todos los sentidos. Si tenían algunas dudas, temores o temblores nuestros buenos
 
-padres los ponan todos en la espalda del diablo, o de otra manera los
+padres los ponían todos en la espalda del diablo, o de otra manera los
 
-atribuan a su propia incredulidad, cuando ms bien sus depresiones surgan con
+atribuían a su propia incredulidad, cuando más bien sus depresiones surgían con
 
-frecuencia por falta de alimentos, o de aire fresco, o por culpa de un hgado
+frecuencia por falta de alimentos, o de aire fresco, o por culpa de un hígado
 
-trpido o de un estmago dbil. Miles de cosas pueden abatirnos y no debemos
+tórpido o de un estómago débil. Miles de cosas pueden abatirnos y no debemos
 
-despreciar el cuerpo por medio del cual actan en nosotros. Ms bien deberamos
+despreciar el cuerpo por medio del cual actúan en nosotros. Más bien deberíamos
 
-poner atencin a las leyes naturales, y as mirar al Dios de esas leyes para
+poner atención a las leyes naturales, y así mirar al Dios de esas leyes para
 
-que nos ayude. Dios, que cre el cuerpo y que le dio una estrecha afinidad con
+que nos ayude. Dios, que creó el cuerpo y que le dio una estrecha afinidad con
 
-la mente, observa cunto depende el alma del cuerpo y con frecuencia comienza
+la mente, observa cuánto depende el alma del cuerpo y con frecuencia comienza
 
 su obra restauradora sanando nuestras enfermedades. Los que moramos en casas de
 
-arcilla nos quedamos con frecuencia encerrados, recluidos y confinados all y
+arcilla nos quedamos con frecuencia encerrados, recluidos y confinados allí y
 
-nos vemos privados de cosas ms elevadas en razn del polvo que se adhiere a
+nos vemos privados de cosas más elevadas en razón del polvo que se adhiere a
 
-nuestra alma. El Seor que sana a Su pueblo, en el caso de Elas comenz
+nuestra alma. El Seńor que sana a Su pueblo, en el caso de Elías comenzó
 
-reconfortando su lnguido cuerpo. Lo restaur por medio del sueo y de los alimentos.
+reconfortando su lánguido cuerpo. Lo restauró por medio del sueńo y de los alimentos.
 
-Si alguno de los presentes est deprimido y en un estado de zozobra mental, yo
+Si alguno de los presentes está deprimido y en un estado de zozobra mental, yo
 
-lo invitara a que mire a su salud, y que no se culpe hasta no ver primero si
+lo invitaría a que mire a su salud, y que no se culpe hasta no ver primero si
 
-su tristeza proviene de la enfermedad o del pecado, de un cuerpo dbil o de una
+su tristeza proviene de la enfermedad o del pecado, de un cuerpo débil o de una
 
 mente rebelde. No piensen que no es espiritual recordar que tienen un cuerpo,
 
-pues ciertamente tienen uno y no deberan ignorar su existencia. Si su Padre
+pues ciertamente tienen uno y no deberían ignorar su existencia. Si su Padre
 
-celestial piensa en el cuerpo fsico de ustedes, en ello les da una sugerencia
+celestial piensa en el cuerpo físico de ustedes, en ello les da una sugerencia
 
-de que hagan lo mismo. Si el Seor, en Su sabidura, comenz con el fogoso
+de que hagan lo mismo. Si el Seńor, en Su sabiduría, comenzó con el fogoso
 
-Elas alimentndolo y reconfortando su cuerpo mortal, debemos considerar que es
+Elías alimentándolo y reconfortando su cuerpo mortal, debemos considerar que es
 
 sabio que miremos a nuestras partes exteriores; es de los herejes que leemos
 
 que inculcan el descuido del cuerpo; los sabios lo valoran como el templo del
 
-Espritu Santo. Con nosotros es frecuente el caso de que el espritu a la
+Espíritu Santo. Con nosotros es frecuente el caso de que “el espíritu a la
 
-verdad est dispuesto, pero la carne es dbil; no es poca cosa que pongamos en
+verdad está dispuesto, pero la carne es débil”; no es poca cosa que pongamos en
 
-orden a la carne; el mdico es con frecuencia tan necesario como el ministro.
+orden a la carne; el médico es con frecuencia tan necesario como el ministro.
 
 Una vez que el hombre de
 
-Dios hubo sido reconfortado por el grandioso Mdico, fue guiado por el Seor a
+Dios hubo sido reconfortado por el grandioso Médico, fue guiado por el Seńor a
 
-Horeb, donde estara completamente solo. El Seor saba que l necesitaba
+Horeb, donde estaría completamente solo. El Seńor sabía que él necesitaba
 
-sosiego as como sueo y alimentos, y all en medio de los solitarios peascos,
+sosiego así como sueńo y alimentos, y allí en medio de los solitarios peńascos,
 
-donde la completa desolacin reina sin ser turbada, Elas se encontr ms o
+donde la completa desolación reina sin ser turbada, Elías se encontró más o
 
 menos como en casa. Cuando el sosiego hubo calmado en alguna medida su mente,
 
-el Seor comenz a hablar con l. Le indic que saliera y que estuviera en el
+el Seńor comenzó a hablar con él. Le indicó que saliera y que estuviera en el
 
-monte delante del Seor. Tan pronto como el profeta lleg a la boca de la
+monte delante del Seńor. Tan pronto como el profeta llegó a la boca de la
 
-cueva, un tremendo huracn barri las hendeduras de los valles con tal fuerza
+cueva, un tremendo huracán barrió las hendeduras de los valles con tal fuerza
 
-que parti los montes y derrib grandes masas de granito de sus elevadas
+que partió los montes y derribó grandes masas de granito de sus elevadas
 
-cumbres. El grande y fuerte viento pareca sacudir las montaas hasta sus
+cumbres. El grande y fuerte viento parecía sacudir las montańas hasta sus
 
-cimientos, y las gigantescas columnas que durante mucho tiempo haban resistido
+cimientos, y las gigantescas columnas que durante mucho tiempo habían resistido
 
 tormentas ordinarias, comenzaron a mecerse y a tambalearse y a caer en torno al
 
 solitario observador con un desplome atronador. El profeta no estaba para nada
 
-alarmado. l era el hijo de la tormenta, un reprensor nacido para gobernar en medio
+alarmado. Él era el hijo de la tormenta, un reprensor nacido para gobernar en medio
 
-de escenas tempestuosas. Es muy posible que su espritu se sintiera estimulado
+de escenas tempestuosas. Es muy posible que su espíritu se sintiera estimulado
 
-por los terrores que le rodeaban. El tumulto en el que haba vivido entre la
+por los terrores que le rodeaban. El tumulto en el que había vivido entre la
 
-gente haba sido representado ahora delante de l en la furia de los elementos;
+gente había sido representado ahora delante de él en la furia de los elementos;
 
-no me sorprendera que incluso llegara a sentirse como en casa, gozosamente
+no me sorprendería que incluso llegara a sentirse como en casa, gozosamente
 
-excitado cuando la terrible explosin barra las crestas de los montes.
+excitado cuando la terrible explosión barría las crestas de los montes.
 
-Mientras estaba en la boca de la caverna, la tierra cedi bajo sus pies: se
+Mientras estaba en la boca de la caverna, la tierra cedió bajo sus pies: se
 
-apoy contra la pared del monte, y he aqu, ste se sacudi y tembl, pues ahora
+apoyó contra la pared del monte, y he aquí, éste se sacudió y tembló, pues ahora
 
-estaba pasando el terremoto y pareca como si nada fuera estable en torno suyo.
+estaba pasando el terremoto y parecía como si nada fuera estable en torno suyo.
 
-Apenas hubo cesado esta convulsin cuando el fuego exhibi su fulgor. El rayo
+Apenas hubo cesado esta convulsión cuando el fuego exhibió su fulgor. El rayo
 
-lanz llamas sobre todo el cielo e iba acompaado de unos truenos como nunca se
+lanzó llamas sobre todo el cielo e iba acompańado de unos truenos como nunca se
 
-haban odo. De risco en risco saltaban los rayos fulgurantes al punto que el
+habían oído. De risco en risco saltaban los rayos fulgurantes al punto que el
 
-firmamento entero ardi con el fuego de Dios. Sin embargo, no vemos que el profeta
+firmamento entero ardió con el fuego de Dios. Sin embargo, no vemos que el profeta
 
-se hubiera acobardado o que hubiera desfallecido en lo ms mnimo. El suyo era
+se hubiera acobardado o que hubiera desfallecido en lo más mínimo. El suyo era
 
-un espritu valeroso; estaba tranquilo en medio de la tormenta. As como el
+un espíritu valeroso; estaba tranquilo en medio de la tormenta. Así como el
 
-guila se remonta en el centro del rayo, y se eleva en las alas de la tormenta,
+águila se remonta en el centro del rayo, y se eleva en las alas de la tormenta,
 
-as pareca el espritu de Elas: la furia de los elementos lo despert, pero
+así parecía el espíritu de Elías: la furia de los elementos lo despertó, pero
 
-no tuvo miedo. Y ahora el trueno ces, y el rayo se alej, y la tierra se qued
+no tuvo miedo. Y ahora el trueno cesó, y el rayo se alejó, y la tierra se quedó
 
 quieta, y el viento fue acallado, y hubo una quietud absoluta, y del aire
 
-apacible provino lo que el hebreo designa: una voz de un suave silencio, como
+apacible provino lo que el hebreo designa: “una voz de un suave silencio”, como
 
-si el silencio se hubiese vuelto audible. No hay nada ms terrible que una
+si el silencio se hubiese vuelto audible. No hay nada más terrible que una
 
-pasmosa quietud despus de un estruendo pavoroso. Ni siquiera el ruido del
+pasmosa quietud después de un estruendo pavoroso. Ni siquiera el ruido del
 
-viento y de la tormenta que no pudo acobardar a Elas haba sido tan terrible
+viento y de la tormenta que no pudo acobardar a Elías había sido tan terrible
 
-como el silbo apacible y delicado con el que Jehov le pidi a Su siervo que se
+como el silbo apacible y delicado con el que Jehová le pidió a Su siervo que se
 
-acercara. Entonces el profeta se cubri el rostro, y fue a la entrada de la
+acercara. Entonces el profeta se cubrió el rostro, y fue a la entrada de la
 
-cueva y se detuvo para escuchar, pues el silbo apacible y delicado haba ganado
+cueva y se detuvo para escuchar, pues el silbo apacible y delicado había ganado
 
-la solemne atencin de su alma. Le provoc lo que todo el resto de cosas no
+la solemne atención de su alma. Le provocó lo que todo el resto de cosas no
 
-haba logrado; y fue por esta razn: que el Seor no estaba en el viento, ni en
+había logrado; y fue por esta razón: que el Seńor no estaba en el viento, ni en
 
-el terremoto, ni en el fuego, pero s estaba en el silbo apacible y delicado, y
+el terremoto, ni en el fuego, pero sí estaba en el silbo apacible y delicado, y
 
-Elas lo saba, y estaba pasmado, y se prepar para or lo que Dios el Seor le
+Elías lo sabía, y estaba pasmado, y se preparó para oír lo que Dios el Seńor le
 
-dira.
+diría.
 
-Cul es la leccin de
+żCuál es la lección de
 
-esto? Que Dios el Espritu Santo nos ayude esta maana a aprenderla y a
+esto? Que Dios el Espíritu Santo nos ayude esta mańana a aprenderla y a
 
-ensearla.
+enseńarla.
 
 I.
 
 Primero,
 
-les pido que pongan atencin a
+les pido que pongan atención a
 
 LA AGENCIA
 
@@ -326,11 +326,11 @@ lo que no fue.
 
 No fue lo terrible, no fue lo tremendo, no fue lo
 
-sobrecogedor, sino ms bien lo contrario de todo eso. No fue una grandiosa
+sobrecogedor, sino más bien lo contrario de todo eso. No fue una grandiosa
 
-demostracin de poder, pues Dios no estuvo en ninguno de esos grandes fenmenos
+demostración de poder, pues Dios no estuvo en ninguno de esos grandes fenómenos
 
-que Elas vio y oy. Lo que gan el valeroso corazn de Elas no fue el
+que Elías vio y oyó. Lo que ganó el valeroso corazón de Elías no fue el
 
 torbellino, no fue el terremoto, no fue el fuego, sino que fue el silbo
 
@@ -338,159 +338,159 @@ apacible y delicado. Lo que gana eficazmente los corazones de los hombres para
 
 Dios y para Su Cristo no es un extraordinario despliegue de poder. Los hombres
 
-pueden ser orillados a temblar cuando Dios enva pestilencia y hambruna y fuego
+pueden ser orillados a temblar cuando Dios envía pestilencia y hambruna y fuego
 
 y otros terribles juicios Suyos; pero estas cosas terminan endureciendo usualmente
 
-los corazones de los hombres, y no los ganan. Vean lo que Dios le hizo a Faran
+los corazones de los hombres, y no los ganan. Vean lo que Dios le hizo a Faraón
 
-y a su tierra. Ciertamente esas plagas fueron tupidas y pesadas. No se haba
+y a su tierra. Ciertamente esas plagas fueron tupidas y pesadas. No se había
 
-visto nada semejante antes, y, sin embargo, cul fue el resultado? Pero Jehov
+visto nada semejante antes, y, sin embargo, żcuál fue el resultado? “Pero Jehová
 
-endureci el corazn de Faran. As sucede usualmente. Estas cosas son lo
+endureció el corazón de Faraón”. Así sucede usualmente. Estas cosas son lo
 
 suficientemente buenas como introducciones al Evangelio divino que conquista
 
-apaciblemente el corazn, pero por s solas no afectan al alma.
+apaciblemente el corazón, pero por sí solas no afectan al alma.
 
-La ley y los terrores no hacen sino endurecer
+“La ley y los terrores no hacen sino endurecer
 
 Todo el tiempo que trabajan solos;
 
-Es un sentido del perdn comprado con sangre
+Es un sentido del perdón comprado con sangre
 
-El que disuelve un corazn de piedra.
+El que disuelve un corazón de piedra”.
 
 El silbo apacible y
 
-delicado tiene xito all donde tremendas cosas en justicia no sirven de
+delicado tiene éxito allí donde “tremendas cosas… en justicia” no sirven de
 
-nada. No me sorprende que Elas esperara que los terribles juicios
+nada. No me sorprende que Elías esperara que los terribles juicios
 
-prevaleceran con sus paisanos; estas cosas terribles parecieran ser una forma
+prevalecerían con sus paisanos; estas cosas terribles parecieran ser una forma
 
-rudimentaria pero efectiva de vencer el mal, y ciertamente prevaleceran si el
+rudimentaria pero efectiva de vencer el mal, y ciertamente prevalecerían si el
 
-corazn de los hombres no fuera tan engaoso ms que todas las cosas, y
+corazón de los hombres no fuera tan “engańoso más que todas las cosas, y
 
-perverso. No has juzgado que si Dios enviara una pestilencia a nuestra
+perverso”. żNo has juzgado que si Dios enviara una pestilencia a nuestra
 
-indiferente ciudad, tal vez podra impresionar a la indiferente multitud, y
+indiferente ciudad, tal vez podría impresionar a la indiferente multitud, y
 
-conducira a nuestras casas de oracin a aquellos que habitualmente desperdician
+conduciría a nuestras casas de oración a aquellos que habitualmente desperdician
 
-ahora el da de guardar? No podran el clera, o la guerra, o el hambre
+ahora el día de guardar? żNo podrían el cólera, o la guerra, o el hambre
 
-alarmar las conciencias de los descuidados y conducir a los impos a ponerse de
+alarmar las conciencias de los descuidados y conducir a los impíos a ponerse de
 
-rodillas? No has pensado que tal vez la proteccin que Dios nos ha dado al
+rodillas? żNo has pensado que tal vez la protección que Dios nos ha dado al
 
 salvarnos de las plagas de la guerra y de innumerables males, pudiera haber
 
-tendido a engendrar en los corazones de los hombres la presuncin, el descuido
+tendido a engendrar en los corazones de los hombres la presunción, el descuido
 
 y la indiferencia? Cuando pensamos en el pecado de nuestros semejantes casi
 
-podramos decirle a Cristo: Quieres que mandemos que descienda fuego del
+podríamos decirle a Cristo: “żQuieres que mandemos que descienda fuego del
 
-cielo, como hizo Elas? Imaginamos con frecuencia que los terrores del Seor
+cielo, como hizo Elías?” Imaginamos con frecuencia que los terrores del Seńor
 
-persuadirn a los hombres y los forzarn a buscar el reposo en el pecho de su
+persuadirán a los hombres y los forzarán a buscar el reposo en el pecho de su
 
-Dios. Gracias sean dadas a la misericordia infinita porque el Seor, en el
+Dios. Gracias sean dadas a la misericordia infinita porque el Seńor, en el
 
-presente, no elige esa forma terrible de accin. l deja al viento, deja al
+presente, no elige esa forma terrible de acción. Él deja al viento, deja al
 
 terremoto y al fuego, y les habla a los hombres en el silencio de sus almas
 
-mediante una voz que, aunque sea como silencio audible, es el poder de Dios
+mediante una voz que, aunque sea como “silencio audible”, es el poder de Dios
 
-para salvacin. Pero es difcil que nos convenzamos de que as es. An nos
+para salvación. Pero es difícil que nos convenzamos de que así es. Aún nos
 
-aferramos a la idea de que la pompa externa de un poder tremendo hara avanzar
+aferramos a la idea de que la pompa externa de un poder tremendo haría avanzar
 
 el reino de Dios. No estamos tan dispuestos a prescindir de las doce legiones
 
-de ngeles, como lo estuvo nuestro Seor. En lo que se refiere a nuestra propia
+de ángeles, como lo estuvo nuestro Seńor. En lo que se refiere a nuestra propia
 
-accin, somos pobres discpulos de Aquel de quien leemos, No contender, ni
+acción, somos pobres discípulos de Aquel de quien leemos, “No contenderá, ni
 
-vocear, ni nadie oir en las calles su voz. En nuestras prcticas religiosas
+voceará, ni nadie oirá en las calles su voz”. En nuestras prácticas religiosas
 
-somos demasiado propensos a confiar en la fuerza y energa carnales. Si podemos
+somos demasiado propensos a confiar en la fuerza y energía carnales. Si podemos
 
-hacer ruido y crear excitacin, conmocin y agitacin, entonces tenemos
+hacer ruido y crear excitación, conmoción y agitación, entonces tenemos
 
 esperanzas. Somos demasiado propensos a identificar con el poder de Dios la
 
-agitacin de las masas motivada por excitaciones recientemente inventadas. Esta
+agitación de las masas motivada por excitaciones recientemente inventadas. Esta
 
-poca de novedades parecera haber descubierto el poder espiritual en las
+época de novedades parecería haber descubierto el poder espiritual en las
 
 bandas de metales y tambores, y se espera que las almas que no pudieran ser
 
-salvadas por una iglesia sean alcanzadas por un ejrcito, y se supone que las
+salvadas por una iglesia sean alcanzadas por un ejército, y se supone que las
 
-mentes que son insensibles a los argumentos evanglicos pueden ser embelesadas
+mentes que son insensibles a los argumentos evangélicos pueden ser embelesadas
 
-por unos pendones. La sencilla enseanza apostlica est en rebaja, y se nos
+por unos pendones. La sencilla enseńanza apostólica está en rebaja, y se nos
 
-invita a experimentar mtodos ms sensacionales. La tendencia de este tiempo es
+invita a experimentar métodos más sensacionales. La tendencia de este tiempo es
 
-hacia lo grande, hacia lo espectacular, y hacia el show de poder, como si esas
+hacia lo grande, hacia lo espectacular, y hacia el ‘show’ de poder, como si esas
 
-cosas pudieran lograr lo que agencias ms regulares no han podido alcanzar.
+cosas pudieran lograr lo que agencias más regulares no han podido alcanzar.
 
-Pero no es as, o de lo contrario, tanto los hombres como Dios habran cambiado
+Pero no es así, o de lo contrario, tanto los hombres como Dios habrían cambiado
 
 grandemente.
 
 La misma tendencia
 
-aparece en este comentario demasiado comn, Al menos hemos de contar con un
+aparece en este comentario demasiado común, “Al menos hemos de contar con un
 
 predicador elocuente; tengamos uno que pueda argumentar con palabras exquisitas
 
 y selectas, un maestro del arte de la oratoria; ciertamente en esto podemos
 
-confiar, y apoyarnos en una argumentacin animosa y en un intenso y elocuente discurso.
+confiar, y apoyarnos en una argumentación animosa y en un intenso y elocuente discurso”.
 
-Sin embargo, quiz Dios no elija esta forma de poder, pues no aceptar que
+Sin embargo, quizá Dios no elija esta forma de poder, pues no aceptará que
 
-nuestra fe se base en sabidura de palabras, sino que quiere que aprendamos
+nuestra fe se base en sabiduría de palabras, sino que quiere que aprendamos
 
-esta leccin, No con ejrcito, ni con fuerza, sino con mi Espritu, ha dicho
+esta lección, “No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho
 
-Jehov de los ejrcitos. Las frases del orador se suceden retumbando uno tras
+Jehová de los ejércitos”. Las frases del orador se suceden retumbando uno tras
 
-otro. Cun tremendo pasaje! Los oyentes seguramente han de estar
+otro. ˇCuán tremendo pasaje! Los oyentes seguramente han de estar
 
-impresionados. Viento! Y el Seor no est en l. Y ahora todo parece temblar,
+impresionados. ˇViento! Y el Seńor no está en él. ˇY ahora todo parece temblar,
 
 mientras, como un segundo Juan el Bautista, el ministro proclama infortunio y
 
-terror, y pronuncia la maldicin de Dios sobre una generacin de vboras! No
+terror, y pronuncia la maldición de Dios sobre una generación de víboras! żNo
 
-quebrantar esto los duros corazones? No. No se logra nada. Es un terremoto,
+quebrantará esto los duros corazones? No. No se logra nada. Es un terremoto,
 
-pero el Seor no est en el terremoto. Hay todava otra forma de fuerza. Aqu
+pero el Seńor no está en el terremoto. Hay todavía otra forma de fuerza. Aquí
 
-viene uno que argumenta con vehemencia. Lleno de ardor, lanza destellos y
+viene uno que argumenta con vehemencia. ˇLleno de ardor, lanza destellos y
 
-despide llamas! Miren el brillo de sus sensacionales metforas y ancdotas. S,
+despide llamas! Miren el brillo de sus sensacionales metáforas y anécdotas. Sí,
 
-hay fuego; no podramos decir que son fuegos artificiales? Y, con todo, el
+hay fuego; żno podríamos decir que son fuegos artificiales? Y, con todo, el
 
-Seor no obra por medio de ese fuego. El Seor no est en el fuego. El Seor no
+Seńor no obra por medio de ese fuego. El Seńor no está en el fuego. El Seńor no
 
-usa la furiosa energa de un fanatismo desbocado. l puede emplear grandes y terribles
+usa la furiosa energía de un fanatismo desbocado. Él puede emplear grandes y terribles
 
-cosas como introduccin a su obra de salvar almas, pero slo son actividades
+cosas como introducción a su obra de salvar almas, pero sólo son actividades
 
-preliminares; la obra misma se lleva a cabo en el secreto silencio del corazn.
+preliminares; la obra misma se lleva a cabo en el secreto silencio del corazón.
 
-Como fueron en el caso de Elas, as son estas cosas en los casos de otros:
+Como fueron en el caso de Elías, así son estas cosas en los casos de otros:
 
 sobresaltan y despiertan, pero no pueden convencer y convertir. Lo que ha de
 
@@ -506,65 +506,65 @@ Hemos mostrado
 
 suficientemente el lado negativo del asunto: la obra de Dios no se apoya en el
 
-poder de la criatura. Entonces, qu usa Dios para tocar el corazn? Nuestro
+poder de la criatura. Entonces, żqué usa Dios para tocar el corazón? Nuestro
 
 Padre celestial generalmente
 
 usa lo que
 
-es suave, tierno, apacible, tranquilo, calmado y pacfico:
+es suave, tierno, apacible, tranquilo, calmado y pacífico:
 
 un silbo
 
-apacible y delicado. En la obra de una conversin real, de inducir al alma a la
+apacible y delicado. En la obra de una conversión real, de inducir al alma a la
 
-decisin y a una completa obediencia a Dios, la voz que llama es a menudo tan
+decisión y a una completa obediencia a Dios, la voz que llama es a menudo tan
 
 apacible que resulta casi imperceptible para otros, excepto en sus resultados;
 
-s, es con frecuencia tan apacible que es casi imperceptible para el hombre que
+sí, es con frecuencia tan apacible que es casi imperceptible para el hombre que
 
-es el objeto de ella. Pudiera no ser capaz ni siquiera de decir exactamente cundo
+es el objeto de ella. Pudiera no ser capaz ni siquiera de decir exactamente cuándo
 
-vino la voz y cundo se fue. El apacible cfiro refresca el enfebrecida frente,
+vino la voz y cuándo se fue. El apacible céfiro refresca el enfebrecida frente,
 
 pero el paciente a duras penas se entera de que ha atravesado el aposento de
 
 enfermo y se ha marchado, tan suave es su aliento que recibe del cielo. En la
 
-reconciliacin no hay golpes, ni redobles de tambor, ni rayos de tempestad; el
+reconciliación no hay golpes, ni redobles de tambor, ni rayos de tempestad; el
 
-amor es el capitn de esta guerra incruenta. Hay poca manifestacin de fuerza
+amor es el capitán de esta guerra incruenta. Hay poca manifestación de fuerza
 
-fsica o mental, y, sin embargo, hay un mayor poder real que si se hubiera
+física o mental, y, sin embargo, hay un mayor poder real que si se hubiera
 
-usado la fuerza fsica. Observamos que donde hubo una demostracin de poder,
+usado la fuerza física. Observamos que donde hubo una demostración de poder,
 
 como en el viento, en el terremoto, y en el fuego, leemos posteriormente que,
 
-Jehov no estaba en ellos, pero aqu, en este silbo apacible y delicado en el
+“Jehová no estaba en ellos”, pero aquí, en este silbo apacible y delicado en el
 
-que no hubo ningn despliegue de poder, Dios estaba obrando. Aqu, entonces,
+que no hubo ningún despliegue de poder, Dios estaba obrando. Aquí, entonces,
 
-vemos la debilidad del poder, pero aprendemos tambin el poder de la debilidad,
+vemos la debilidad del poder, pero aprendemos también el poder de la debilidad,
 
-y cmo Dios hace a menudo que aquello que pareciera ms resistible sea
+y cómo Dios hace a menudo que aquello que pareciera más resistible sea
 
-irresistible, y lo que supondramos que fcilmente pudiera ser descartado, teje
+irresistible, y lo que supondríamos que fácilmente pudiera ser descartado, teje
 
 en torno a un hombre grilletes de los cuales no puede escapar nunca. El
 
-Espritu Santo obra suave y apaciblemente, tal como lo hace el aliento de la
+Espíritu Santo obra suave y apaciblemente, tal como lo hace el aliento de la
 
-primavera que disuelve el tmpano de hielo y derrite el glaciar. Cuando la
+primavera que disuelve el témpano de hielo y derrite el glaciar. Cuando la
 
 helada sujeta a cada riachuelo por su garganta y lo aprieta firmemente, la
 
-primavera los pone en libertad. No se oye ningn ruido de martillo o de lima cuando
+primavera los pone en libertad. No se oye ningún ruido de martillo o de lima cuando
 
-se estn soltando los grilletes, pero sopla el clido viento del sur, y todo es
+se están soltando los grilletes, pero sopla el cálido viento del sur, y todo es
 
-vida y libertad. As sucede con la obra del Espritu de Dios en el alma cuando
+vida y libertad. Así sucede con la obra del Espíritu de Dios en el alma cuando
 
 viene a dejar en libertad al pecador; obra eficazmente, pero no se escucha
 
@@ -572,97 +572,97 @@ ninguna voz.
 
 Ahora, prescindiendo de
 
-cun suave y apacible pudiera ser la instrumentalidad, si salva al alma, en
+cuán suave y apacible pudiera ser la instrumentalidad, si salva al alma, en
 
 cada caso se
 
 realiza por la presencia del
 
-Espritu Santo;
+Espíritu Santo;
 
-y el Espritu Santo, si bien cuando quiere puede ser un
+y el Espíritu Santo, si bien cuando quiere puede ser “un
 
-viento recio que sopla, -pues l viene segn Su propia voluntad soberana- con
+viento recio que sopla”, -pues Él viene según Su propia voluntad soberana- con
 
 todo, cuando viene para traer al hombre la paz de Dios, desciende usualmente
 
-como paloma o como el roco del cielo: todo es paz, y tranquilidad y quietud.
+como paloma o como el rocío del cielo: todo es paz, y tranquilidad y quietud.
 
-Satans puede incendiar el alma con agona; dudas, temores y terrores la
+Satanás puede incendiar el alma con agonía; dudas, temores y terrores la
 
-desgarran como un terrible terremoto; el hombre entero est sumido en angustia
+desgarran como un terrible terremoto; el hombre entero está sumido en angustia
 
-y confusin cuando el torbellino de la ley barre a travs de su alma; pero el
+y confusión cuando el torbellino de la ley barre a través de su alma; pero el
 
-Espritu viene con el ms tierno amor, revelando a Cristo, el Ser amable, exponiendo
+Espíritu viene con el más tierno amor, revelando a Cristo, el Ser amable, exponiendo
 
 la cruz del Salvador delante del ojo lloroso del pecador, y hablando paz,
 
-perdn, y salvacin. Hermanos, esto es lo que necesitamos: la obra del Espritu
+perdón, y salvación. Hermanos, esto es lo que necesitamos: la obra del Espíritu
 
-de Dios segn Su manera de amor vivo.
+de Dios según Su manera de amor vivo.
 
-He dicho que l obra
+He dicho que Él obra
 
-usualmente para la salvacin del alma a travs de la revelacin del amor de
+usualmente para la salvación del alma a través de la revelación del amor de
 
-Cristo, y as es, no slo cuando somos convertidos, sino posteriormente. Sus
+Cristo, y así es, no sólo cuando somos convertidos, sino posteriormente. Sus
 
 operaciones son del mismo tipo en todo momento: apacibles y eficaces. Conforme
 
-vamos creciendo en santificacin, lo hace mediante tiernas revelaciones del
+vamos creciendo en santificación, lo hace mediante tiernas revelaciones del
 
-amor del Padre. Qu cosa tiene igual influencia sobre cualquiera de nosotros
+amor del Padre. żQué cosa tiene igual influencia sobre cualquiera de nosotros
 
-como la que tiene la infinita y desbordante gracia de Dios en nuestro Seor
+como la que tiene la infinita y desbordante gracia de Dios en nuestro Seńor
 
-Jesucristo? Ustedes saben cmo expone M. Monod, en su dulce himno, no slo
+Jesucristo? Ustedes saben cómo expone M. Monod, en su dulce himno, no sólo
 
-nuestro crecimiento en santificacin, sino su gentil instrumento.
+nuestro crecimiento en santificación, sino su gentil instrumento.
 
-Sin embargo l me encontr:
+“Sin embargo Él me encontró:
 
-Yo le contempl, sangrando en el maldito madero,
+Yo le contemplé, sangrando en el maldito madero,
 
-Le escuch orar: Perdnalos, Padre;
+Le escuché orar: ‘Perdónalos, Padre’;
 
-Y mi anhelante corazn dijo ingenuamente:
+Y mi anhelante corazón dijo ingenuamente:
 
-Algo
+‘Algo
 
 del yo y
 
 algo
 
-de Ti.
+de Ti’.
 
-Da a da Su tierna misericordia,
+Día a día Su tierna misericordia,
 
 Sanando, ayudando, plena y libre,
 
 Dulce y fuerte, y oh, tan paciente,
 
-Me abata, mientras yo susurraba:
+Me abatía, mientras yo susurraba:
 
-Menos
+‘Menos
 
 del yo y
 
-ms
+más
 
-de Ti.
+de Ti’.
 
 Ustedes pueden percibir
 
-que es la operacin del amor en el alma la que obra todo.
+que es la operación del amor en el alma la que obra todo.
 
-Ms alto que los ms altos cielos,
+“Más alto que los más altos cielos,
 
-Ms profundo que el mar ms profundo;
+Más profundo que el mar más profundo;
 
-Seor, Tu amor ha vencido al fin,
+Seńor, Tu amor ha vencido al fin,
 
-Concdeme ahora el anhelo de mi espritu,
+Concédeme ahora el anhelo de mi espíritu,
 
 Nada
 
@@ -670,17 +670,17 @@ del yo, pero
 
 todo
 
-de Ti.
+de Ti”.
 
 Tal como la silenciosa
 
-luz matutina, as obra la gracia en el ser humano. Sus procesos son realizados
+luz matutina, así obra la gracia en el ser humano. Sus procesos son realizados
 
 por el amor; no hay ni una sombra de terror o de servidumbre en el grandioso
 
 acto reconciliatorio en el interior. El Evangelio con sus buenas nuevas salta
 
-desde el corazn de Dios y entra en el corazn de los hombres, y se dan el
+desde el corazón de Dios y entra en el corazón de los hombres, y se dan el
 
 descanso y la gratitud sagrada. Dios puede devorar a Sus enemigos con leones,
 
@@ -698,33 +698,33 @@ Mis queridos amigos
 
 (para cerrar este primer encabezado), cuando cada uno de nosotros comprende
 
-apaciblemente esto de manera individual, sin excitacin animal, esto es lo que
+apaciblemente esto de manera individual, sin excitación animal, esto es lo que
 
-nos une a Jess por fe. Elas estaba
+nos une a Jesús por fe. Elías estaba
 
 tranquilo y sereno
 
-cuando oy el silbo apacible y delicado de Dios. No cay al suelo horrorizado,
+cuando oyó el silbo apacible y delicado de Dios. No cayó al suelo horrorizado,
 
-ni danz de gozo, pero su naturaleza entera fue tocada y lo ms ntimo de su
+ni danzó de gozo, pero su naturaleza entera fue tocada y lo más íntimo de su
 
-corazn se convulsion. El silencio que Dios haba causado que se oyera en su
+corazón se convulsionó. El silencio que Dios había causado que se oyera en su
 
-interior, derriti su alma. As es como son realizadas las conversiones. Cuando
+interior, derritió su alma. Así es como son realizadas las conversiones. Cuando
 
-el corazn entiende claramente la verdad, cuando el hombre percibe que el
+el corazón entiende claramente la verdad, cuando el hombre percibe que el
 
 mensaje de gracia le pertenece, cuando sujeta esa verdad y lidia con ella y esa
 
-verdad con l, entonces, sin ayuda del exterior, busca y encuentra la vida
+verdad con él, entonces, sin ayuda del exterior, busca y encuentra la vida
 
 eterna. El silbo apacible y delicado en el interior de su conciencia es la
 
 instrumentalidad escogida por Dios para convertir y consolar eficazmente a las
 
-almas de los hombres; el reino de Dios no viene por observacin, sino que el
+almas de los hombres; el reino de Dios no viene por observación, sino que el
 
-hombre es llevado cerca de Dios en la cmara secreta.
+hombre es llevado cerca de Dios en la cámara secreta.
 
 II.
 
@@ -732,105 +732,105 @@ Noten
 
 LOS SELECTOS EFECTOS de este escogido modo de obrar. El primer efecto sobre
 
-Elas fue que
+Elías fue que
 
 el hombre fue sometido.
 
 Ya
 
-he tratado esto antes. Aquel que poda confrontar al viento rugiente, aquel que
+he tratado esto antes. Aquel que podía confrontar al viento rugiente, aquel que
 
 no estuvo aterrorizado por el rayo, ni fue llevado a temblar por el terremoto, en
 
-el instante en que estuvo en esa quietud y oy la suave voz, cubri su rostro
+el instante en que estuvo en esa quietud y oyó la suave voz, cubrió su rostro
 
-con su manto de piel de oveja y sali de la cueva como un hijo obediente al
+con su manto de piel de oveja y salió de la cueva como un hijo obediente al
 
-llamado de su Padre celestial. Y cuando el Espritu de Dios viene en Su
+llamado de su Padre celestial. Y cuando el Espíritu de Dios viene en Su
 
-benvolo poder sobre alguno de ustedes, entonces esa persona no se resistir
+benévolo poder sobre alguno de ustedes, entonces esa persona no se resistirá
 
-ms; ser sometida y conquistada por su suave y tierno contacto.
+más; será sometida y conquistada por su suave y tierno contacto.
 
 Lo primero que hizo
 
-Elas, dije, fue cubrir su rostro con su manto, imitando en eso a los ngeles
+Elías, dije, fue cubrir su rostro con su manto, imitando en eso a los ángeles
 
-que no pueden estar descubiertos en esa temible presencia. Hizo lo ms que pudo
+que no pueden estar descubiertos en esa temible presencia. Hizo lo más que pudo
 
-para ocultar su rostro, como alguien que est avergonzado, avergonzado por
+para ocultar su rostro, como alguien que está avergonzado, avergonzado por
 
 haber dudado de su Dios, avergonzado de haber hecho el papel de cobarde,
 
 avergonzado por haber sido encontrado lejos del lugar de su servicio. Cuando el
 
-Espritu Santo trata con hombres y mujeres, este es uno de los efectos
+Espíritu Santo trata con hombres y mujeres, este es uno de los efectos
 
 iniciales en sus mentes: que
 
-la vergenza
+la vergüenza
 
-y la humillacin cubren sus rostros.
+y la humillación cubren sus rostros.
 
-Confundido, Seor, cubro mi rostro,
+“Confundido, Seńor, cubro mi rostro,
 
 E inclino mi cabeza culpable;
 
 Avergonzado de todos mis perversos caminos,
 
-De la odiosa vida que he llevado.
+De la odiosa vida que he llevado”.
 
 No pueden hablar en los
 
-mismos tonos osados que solan usar antes; la jactancia est excluida. De
+mismos tonos osados que solían usar antes; la jactancia está excluida. De
 
-cualquier manera, por algn tiempo tienen que aprender a cmo comportarse en la
+cualquier manera, por algún tiempo tienen que aprender a cómo comportarse en la
 
-presencia divina, pues caminar en la luz, como Dios est en la luz, no es fcil
+presencia divina, pues caminar en la luz, como Dios está en la luz, no es fácil
 
-para pecadores recin convertidos; sus ojos son dbiles y delicados, y por
+para pecadores recién convertidos; sus ojos son débiles y delicados, y por
 
 tanto, tienen que cubrirlos del destello de la luz eterna. El amor es el poder
 
 triunfante; donde el simple poder y el trueno fallan, el amor conduce al
 
-corazn a una alegre cautividad. Ahora, como ya he dicho, ni el viento ni la
+corazón a una alegre cautividad. Ahora, como ya he dicho, ni el viento ni la
 
-tempestad pudieron producir esto en Elas, pero el silbo apacible y delicado de
+tempestad pudieron producir esto en Elías, pero el silbo apacible y delicado de
 
 Dios lo hizo de inmediato.
 
-Seor, Tu has ganado, por fin me rindo;
+“Seńor, Tu has ganado, por fin me rindo;
 
-Mi corazn, forzado por la gracia poderosa,
+Mi corazón, forzado por la gracia poderosa,
 
 Se rinde entero a Ti;
 
-Contra Tus terrores me esforc por largo tiempo,
+Contra Tus terrores me esforcé por largo tiempo,
 
-Pero, quin puede oponerse a Tu amor?
+Pero, żquién puede oponerse a Tu amor?
 
-El amor s puede conquistarme.
+El amor sí puede conquistarme.
 
-Cuando T has ordenado que rueden Tus truenos,
+Cuando Tú has ordenado que rueden Tus truenos,
 
-Y que brillen los relmpagos, para hacer volar mi alma,
+Y que brillen los relámpagos, para hacer volar mi alma,
 
-Yo todava he sido terco;
+Yo todavía he sido terco;
 
-Pero la misericordia ha sometido a mi corazn,
+Pero la misericordia ha sometido a mi corazón,
 
 He visto a un Salvador sangrante,
 
-Y ahora odio mi pecado.
+Y ahora odio mi pecado”.
 
-Al leer el captulo
+Al leer el capítulo
 
-pareciera como si el profeta no sali de la cueva hasta que oy esa voz. l
+pareciera como si el profeta no salió de la cueva hasta que oyó esa voz. Él
 
-haba sido llamado por Dios a salir fuera y a ponerse en el monte delante del
+había sido llamado por Dios a salir fuera y a ponerse en el monte delante del
 
-Altsimo, pero al continuar leyendo se ve que no hizo eso hasta que le llam el
+Altísimo, pero al continuar leyendo se ve que no hizo eso hasta que le llamó el
 
 silbo apacible y delicado y lo atrajo en el camino del mandamiento: de manera
 
@@ -840,79 +840,79 @@ la obediencia
 
 es un segundo
 
-efecto bendito. Avergonzado por cuenta de sus errores, ahora est resuelto a
+efecto bendito. Avergonzado por cuenta de sus errores, ahora está resuelto a
 
-seguir la palabra de su Seor de inmediato, y se pone a la entrada de la cueva
+seguir la palabra de su Seńor de inmediato, y se pone a la entrada de la cueva
 
-para or lo que Dios el Seor dir. Si el Espritu de Dios obra eficazmente en
+para oír lo que Dios el Seńor dirá. Si el Espíritu de Dios obra eficazmente en
 
-cualquiera de nosotros, una de las primeras seales de eso ser que si bien
+cualquiera de nosotros, una de las primeras seńales de eso será que si bien
 
 seremos humillados por causa del pecado, vamos a volvernos denodados para obrar
 
 justicia. La gracia nos vuelve sensibles en materia de obediencia. Quienes oyen
 
-la voz del Seor, con toda seguridad clamarn: Seor, qu quieres que yo
+la voz del Seńor, con toda seguridad clamarán: “Seńor, żqué quieres que yo
 
-haga? Cuando esa voz gana el odo dispuesto crea un pie listo para ir donde
+haga?” Cuando esa voz gana el oído dispuesto crea un pie listo para ir donde
 
-Dios nos pida. Nuestro deseo es conocer la voluntad del Seor y cumplirla
+Dios nos pida. Nuestro deseo es conocer la voluntad del Seńor y cumplirla
 
-prontamente, pues el susurro del cielo tiene como su carga: Sgueme.
+prontamente, pues el susurro del cielo tiene como su carga: “Sígueme”.
 
-Y ahora que Elas ha
+Y ahora que Elías ha
 
-salido al aire libre, el siguiente efecto sobre l es que
+salido al aire libre, el siguiente efecto sobre él es que
 
 tiene tratos personales con Dios.
 
-La voz le dice: Qu haces aqu,
+La voz le dice: “żQué haces aquí,
 
-Elas? Es una pregunta familiar, hecha slo a l. Elas sabe que Dios est
+Elías?” Es una pregunta familiar, hecha sólo a él. Elías sabe que Dios está
 
-hablando con l, y por eso siente la fuerza de cada palabra que le escudria.
+hablando con él, y por eso siente la fuerza de cada palabra que le escudrińa.
 
-Entonces derrama la amargura de su dolor, y le dice al Seor lo que le aflige.
+Entonces derrama la amargura de su dolor, y le dice al Seńor lo que le aflige.
 
-El Espritu est obrando seguramente en ti cuando tu conversacin es nicamente
+El Espíritu está obrando seguramente en ti cuando tu conversación es únicamente
 
-con el Seor. Cuando no quieres que nadie oiga lo que tienes que decir, y te
+con el Seńor. Cuando no quieres que nadie oiga lo que tienes que decir, y te
 
 alegras de entrar en tu aposento, y cerrar la puerta, y orar a tu Padre que ve
 
-en lo secreto, esa es una obra real, la obra de Dios. Cuando al leer cada lnea
+en lo secreto, esa es una obra real, la obra de Dios. Cuando al leer cada línea
 
 de
 
 la Palabra
 
-de Dios sientes como si fuera escrita para ti, y slo para ti; cuando piensas
+de Dios sientes como si fuera escrita para ti, y sólo para ti; cuando piensas
 
-que nadie ms en el mundo puede entrar tan plenamente en ella, a tu juicio,
+que nadie más en el mundo puede entrar tan plenamente en ella, a tu juicio,
 
-como lo haces t ahora, pues las frases parecen diseadas para ti; y hay
+como lo haces tú ahora, pues las frases parecen diseńadas para ti; y hay
 
-pequeas palabras metidas en la amenaza y en la promesa exactamente adaptadas
+pequeńas palabras metidas en la amenaza y en la promesa exactamente adaptadas
 
-para ti; entonces es que el silbo apacible y delicado est ejecutando su
+para ti; entonces es que el silbo apacible y delicado está ejecutando su
 
 sagrado oficio. Este es un punto importante, este contacto del alma con Dios, este
 
 derribamiento de las barreras de cosas visibles y este encierro con Dios, el
 
-invisible. Oh, es una visin que los ngeles se deleitan en contemplar cuando
+invisible. Oh, es una visión que los ángeles se deleitan en contemplar cuando
 
-un hombre se postra delante del Altsimo y escucha la voz de su grandioso
+un hombre se postra delante del Altísimo y escucha la voz de su grandioso
 
-Padre, y luego le declara todo lo que hay en su corazn, sin intentar ocultarle
+Padre, y luego le declara todo lo que hay en su corazón, sin intentar ocultarle
 
 nada. Esto nunca es producido por el torbellino, o por el fuego o por el
 
-terremoto; es el efecto de la voz del apacible silencio, pues Dios est en l.
+terremoto; es el efecto de la voz del apacible silencio, pues Dios está en él.
 
-Vanas son la elocuencia, la argumentacin, la msica y el sensacionalismo; el
+Vanas son la elocuencia, la argumentación, la música y el sensacionalismo; el
 
-Espritu obra todas las cosas santas, y slo l, y las realiza en el solemne
+Espíritu obra todas las cosas santas, y sólo Él, y las realiza en el solemne
 
 silencio de un alma sometida por el amor.
 
@@ -922,147 +922,147 @@ En
 
 tercer lugar, vamos a decir algo respecto A
 
-LA LECCIN
+LA LECCIÓN
 
 QUE
 
-EL PROPIO ELAS APRENDI de esta parbola actuada.
+EL PROPIO ELÍAS APRENDIÓ de esta parábola actuada.
 
 El propio
 
-Elas haba enseado a la gente mediante acciones ms bien que mediante
+Elías había enseńado a la gente mediante acciones más bien que mediante
 
-palabras, y ahora l mismo es instruido de manera similar. Le fueron enseadas
+palabras, y ahora él mismo es instruido de manera similar. Le fueron enseńadas
 
 varias cosas que era esencial que supiera; y entre ellas, primero, que
 
 Dios no siempre usa los medios que nosotros
 
-suponemos que usar.
+suponemos que usará.
 
-Nos sentamos y reflexionamos cmo puede ser bendecida
+Nos sentamos y reflexionamos cómo puede ser bendecida
 
-una nacin, y nos formamos nuestra propia idea de cul es la manera ms
+una nación, y nos formamos nuestra propia idea de cuál es la manera más
 
 excelente; pero nuestros pensamientos no son los pensamientos de Dios, pues
 
-como son ms altos los cielos que la tierra, as son Sus pensamientos ms altos
+como son más altos los cielos que la tierra, así son Sus pensamientos más altos
 
-que nuestros pensamientos, y Sus caminos ms que nuestros caminos. Me atrevo a
+que nuestros pensamientos, y Sus caminos más que nuestros caminos. Me atrevo a
 
-decirte, hermano mo optimista, que tengas un esquema bien ordenado en tu
+decirte, hermano mío optimista, que tengas un esquema bien ordenado en tu
 
-propia mente que quisieras ver implementado, por el cual el Evangelio sera
+propia mente que quisieras ver implementado, por el cual el Evangelio sería
 
-dado a conocer en tierras paganas muy rpidamente. Tantos obreros de un tipo
+dado a conocer en tierras paganas muy rápidamente. Tantos obreros de un tipo
 
-han de ayudar a un cierto nmero de un grado superior, y por una sabia divisin
+han de ayudar a un cierto número de un grado superior, y por una sabia división
 
-de labores y asignacin de distritos, la obra ha de ser realizada sistemticamente.
+de labores y asignación de distritos, la obra ha de ser realizada sistemáticamente.
 
-Pero no te encaries demasiado con mtodos favoritos, pues podras llevarte una
+Pero no te encarińes demasiado con métodos favoritos, pues podrías llevarte una
 
-gran desilusin ya que Dios, como regla, no usa nuestros esquemas. Los grandes
+gran desilusión ya que Dios, como regla, no usa nuestros esquemas. Los grandes
 
 pasos del Infinito no han de ser medidos por nuestro caminar infantil. No nos
 
-corresponde proponerle qu debe hacer, ni cmo ni cundo debe hacerlo, sino que
+corresponde proponerle qué debe hacer, ni cómo ni cuándo debe hacerlo, sino que
 
-debemos dejar que Su voluntad soberana elija y ordene, y veremos cun
+debemos dejar que Su voluntad soberana elija y ordene, y veremos cuán
 
-prodigioso es en Sus obras. La vida de Elas haba sido una continua tormenta.
+prodigioso es en Sus obras. La vida de Elías había sido una continua tormenta.
 
-Desde la primera vez que aparece como el profeta del fuego hasta que huy de
+Desde la primera vez que aparece como el profeta del fuego hasta que huyó de
 
-Jezabel, siempre haba hablado desde el torbellino, y amenazaba o ejecutaba los
+Jezabel, siempre había hablado desde el torbellino, y amenazaba o ejecutaba los
 
-juicios del Seor; y pudiera ser que confiara demasiado en esta forma de
+juicios del Seńor; y pudiera ser que confiara demasiado en esta forma de
 
-ministerio. Sin duda tena razn en reprender de esa manera al pueblo pecador y
+ministerio. Sin duda tenía razón en reprender de esa manera al pueblo pecador y
 
-obstinado, pero an as Dios le hara saber que el Carmelo, con su victoria
+obstinado, pero aún así Dios le haría saber que el Carmelo, con su victoria
 
-total sobre los sacerdotes de Baal -al punto que sus riachuelos corran tintos
+total sobre los sacerdotes de Baal -al punto que sus riachuelos corrían tintos
 
-en sangre- no era el camino por el cual Dios vencera a Sus enemigos. Los
+en sangre- no era el camino por el cual Dios vencería a Sus enemigos. Los
 
-hombres no adoraran a Dios correctamente slo porque en un momento de
+hombres no adorarían a Dios correctamente sólo porque en un momento de
 
-excitacin hubieran dado muerte a una banda de impostores. No se gana al
+excitación hubieran dado muerte a una banda de impostores. No se gana al
 
-corazn a una reverencia amorosa por la matanza. No es por sangre que los
+corazón a una reverencia amorosa por la matanza. No es por sangre que los
 
-hombres son bautizados a una adoracin espiritual. Tenemos que aprender esta
+hombres son bautizados a una adoración espiritual. Tenemos que aprender esta
 
-misma leccin una y otra vez; repitmosla: No con ejrcito, ni con fuerza,
+misma lección una y otra vez; repitámosla: “No con ejército, ni con fuerza,
 
-sino con mi Espritu, ha dicho Jehov de los ejrcitos. Es de lamentar que la
+sino con mi Espíritu, ha dicho Jehová de los ejércitos”. Es de lamentar que la
 
-gran mayora de la gente que profesa se aferre obstinadamente al fatal error de
+gran mayoría de la gente que profesa se aferre obstinadamente al fatal error de
 
 buscar demostraciones de poder de un tipo o de otro. Oigo que una cierta
 
-iglesia est buscando a un hombre muy
+iglesia está buscando a un hombre muy
 
 listo;
 
-esa iglesia piensa que Dios est en el viento. Oigo que los diconos dicen:
+esa iglesia piensa que Dios está en el viento. Oigo que los diáconos dicen:
 
-Tenemos que buscar al mejor varn. No importa lo que tengamos que dar, ni a
+“Tenemos que buscar al mejor varón. No importa lo que tengamos que dar, ni a
 
-qu iglesia tengamos que despojar de su ministro; tenemos que conseguir a un
+qué iglesia tengamos que despojar de su ministro; tenemos que conseguir a un
 
-varn de primera clase, y entonces tendremos una casa llena y veremos muchas
+varón de primera clase, y entonces tendremos una casa llena y veremos muchas
 
-conversiones. Nada de eso: Dios no obra por medio de varones listos y varones
+conversiones”. Nada de eso: Dios no obra por medio de varones listos y varones
 
-que tienen por objetivo la grandeza de la oratoria. Si as le agradase, Dios
+que tienen por objetivo la grandeza de la oratoria. Si así le agradase, Dios
 
-podra permitir que la casa se llenara con atentos oyentes, pero si la gente
+podría permitir que la casa se llenara con atentos oyentes, pero si la gente
 
-est confiando en la habilidad, habr pocos convertidos. Oh, pero debemos
+está confiando en la habilidad, habrá pocos convertidos. “Oh, pero debemos
 
-tener una organizacin de primera clase, tenemos que hacer crecer a la iglesia
+tener una organización de primera clase, tenemos que hacer crecer a la iglesia
 
-con servicios de avivamiento. S, hganlo, y hganlo de nuevo, si quieren, y
+con servicios de avivamiento”. Sí, háganlo, y háganlo de nuevo, si quieren, y
 
-el resultado podra ser bueno si pudieran hacer la obra humildemente; pero si
+el resultado podría ser bueno si pudieran hacer la obra humildemente; pero si
 
-confan una pizca en los medios empleados, el Espritu se ir, y ustedes no
+confían una pizca en los medios empleados, el Espíritu se irá, y ustedes no
 
-vern nada sino su propia locura. Ese silbo apacible y delicado ser acallado y
+verán nada sino su propia locura. Ese silbo apacible y delicado será acallado y
 
-silenciado, mientras que las jactancias de su sabidura resonarn como un
+silenciado, mientras que las jactancias de su sabiduría resonarán como un
 
-viento aullador o como un trueno que no viene acompaado por la lluvia.
+viento aullador o como un trueno que no viene acompańado por la lluvia.
 
 Hemos de saber esto: que
 
-Dios obrar por los medios que quiera, y en seguida que
+Dios obrará por los medios que quiera, y en seguida que
 
-todos los medios son intiles aparte de l.
+todos los medios son inútiles aparte de Él.
 
 Todo viento, todo
 
 fuego, todo terremoto, todo poder y grandeza fallan a menos que el silbo
 
-apacible y delicado est presente y Dios est en l. Esto ha sido repetido
+apacible y delicado esté presente y Dios esté en él. Esto ha sido repetido
 
-insistentemente a odos de la iglesia, y lo cree doctrinalmente, pero, ay, ella
+insistentemente a oídos de la iglesia, y lo cree doctrinalmente, pero, ay, ella
 
-sale en la prctica y se comporta como si la teora opuesta fuera la vlida.
+sale en la práctica y se comporta como si la teoría opuesta fuera la válida.
 
-Busca resultados divinos en causas humanas, y es, por tanto, engaada con
+Busca resultados divinos en causas humanas, y es, por tanto, engańada con
 
-frecuencia. Su dependencia est demasiado fijada en un brazo de carne, y
+frecuencia. Su dependencia está demasiado fijada en un brazo de carne, y
 
-mientras esto sea as, no podemos esperar ver que el brazo desnudo del Eterno se
+mientras esto sea así, no podemos esperar ver que el brazo desnudo del Eterno se
 
 extienda en medio de nuestros campamentos.
 
-Dios quera que Elas
+Dios quería que Elías
 
-supiera otra cosa, y quiere que nosotros la sepamos tambin, que
+supiera otra cosa, y quiere que nosotros la sepamos también, que
 
 nuestra debilidad
 
@@ -1070,37 +1070,37 @@ puede
 
 ser nuestra fuerza.
 
-Elas no saba nada respecto a esos siete mil
+Elías no sabía nada respecto a esos siete mil
 
-convertidos que haban sido ganados por la voz silenciosa de su vida de
+convertidos que habían sido ganados por la voz silenciosa de su vida de
 
-entrega. Puesto que el xito del Carmelo se derriti como la bruma de la
+entrega. Puesto que el éxito del Carmelo se derritió como la bruma de la
 
-maana, l pens que su carrera haba sido un fracaso en todo momento, y que no
+mańana, él pensó que su carrera había sido un fracaso en todo momento, y que no
 
-haba llevado a nadie a reverenciar a Jehov; pero Elas estaba leyendo con los
+había llevado a nadie a reverenciar a Jehová; pero Elías estaba leyendo con los
 
-ojos de la incredulidad, y era su imaginacin la que lo estaba conduciendo en
+ojos de la incredulidad, y era su imaginación la que lo estaba conduciendo en
 
-vez de los hechos del caso. He aqu siete mil personas esparcidas a lo largo y
+vez de los hechos del caso. He aquí siete mil personas esparcidas a lo largo y
 
-ancho del pas para quienes Dios haba bendecido el testimonio de Elas. Si no
+ancho del país para quienes Dios había bendecido el testimonio de Elías. Si no
 
-haba bendecido sus grandes cosas como l haba deseado, con todo, sus pequeas
+había bendecido sus grandes cosas como él había deseado, con todo, sus pequeńas
 
-cosas haban prosperado grandemente. Fue la conducta cotidiana de Elas, ms
+cosas habían prosperado grandemente. Fue la conducta cotidiana de Elías, más
 
-bien que sus milagros, la que haba impresionado a esos siete mil y los haba
+bien que sus milagros, la que había impresionado a esos siete mil y los había
 
-conducido a sostener con firmeza su integridad. El Seor quiere que sepamos que
+conducido a sostener con firmeza su integridad. El Seńor quiere que sepamos que
 
-obra ms bien por medio de nuestra debilidad que por medio de nuestra fuerza, y
+obra más bien por medio de nuestra debilidad que por medio de nuestra fuerza, y
 
 con frecuencia hace un mayor uso de nosotros cuando a nuestro juicio no hemos
 
 exhibido nada salvo nuestra debilidad.
 
-Adems, el Seor quiere
+Además, el Seńor quiere
 
 que notemos
 
@@ -1108,45 +1108,45 @@ la fuerza que tienen otras personas
 
 en su debilidad.
 
-No captamos esa leccin tan rpidamente como captamos la
+No captamos esa lección tan rápidamente como captamos la
 
-primera. Nos es grato aprender que cuando somos dbiles somos fuertes, porque
+primera. Nos es grato aprender que cuando somos débiles somos fuertes, porque
 
-ya que somos generalmente dbiles, nos alegra aprender que usualmente somos
+ya que somos generalmente débiles, nos alegra aprender que usualmente somos
 
-fuertes; pero no hablamos as de otros que pudieran ser en algunos sentidos
+fuertes; pero no hablamos así de otros que pudieran ser en algunos sentidos
 
-nuestros inferiores. Si vemos a un varn un poquito ms vigoroso de lo usual,
+nuestros inferiores. Si vemos a un varón un poquito más vigoroso de lo usual,
 
-preguntamos con petulancia: Seor, y qu de ste? Si alguna santa mujer prorrumpe
+preguntamos con petulancia: “Seńor, ży qué de éste?” Si alguna santa mujer prorrumpe
 
-con un suplicante testimonio, decimos: Sera mejor que se callara. Nada saldr
+con un suplicante testimonio, decimos: “Sería mejor que se callara. Nada saldrá
 
-de su pltica. Alguien realiza una obra por all, pero nosotros no aprobamos
+de su plática”. Alguien realiza una obra por allá, pero nosotros no aprobamos
 
-sus mtodos, y por tanto clamamos: Insensatez! Ah, pero hermano, tienes que
+sus métodos, y por tanto clamamos: “ˇInsensatez!” Ah, pero hermano, tienes que
 
-aprender de la fortaleza de otras personas dbiles, as como de la tuya. T
+aprender de la fortaleza de otras personas débiles, así como de la tuya. Tú
 
-sabes que hay otros tan dbiles como t; te alegra mucho descubrirlo, y vas y
+sabes que hay otros tan débiles como tú; te alegra mucho descubrirlo, y vas y
 
-lo cuentas; pero hay tambin otros tan fuertes como t a quienes Dios hace
+lo cuentas; pero hay también otros tan fuertes como tú a quienes Dios hace
 
-fuertes porque son dbiles y trata con ellos, en Su tierna misericordia, tal
+fuertes porque son débiles y trata con ellos, en Su tierna misericordia, tal
 
-como lo hace contigo. Oh, que aprendieras esto, y entonces veras que no slo
+como lo hace contigo. Oh, que aprendieras esto, y entonces verías que no sólo
 
-hay uno o dos obreros fieles, sino miles que son en la tierra fieles a su Seor
+hay uno o dos obreros fieles, sino miles que son en la tierra fieles a su Seńor
 
-y valientes por la verdad. El Seor tiene todava un remanente que le sirve tan
+y valientes por la verdad. El Seńor tiene todavía un remanente que le sirve tan
 
-fielmente como t lo haces; no ha doblado su rodilla a Baal ni ha besado a los
+fielmente como tú lo haces; no ha doblado su rodilla a Baal ni ha besado a los
 
-becerros, sino que est erguido en su testimonio para Dios. Cree esto y s
+becerros, sino que está erguido en su testimonio para Dios. Cree esto y sé
 
-feliz, pues Dios quiere que lo creas. l no siempre est con nuestros poderosos
+feliz, pues Dios quiere que lo creas. Él no siempre está con nuestros poderosos
 
-predicadores, con nuestros instruidos cannigos, con nuestros reverendos
+predicadores, con nuestros instruidos canónigos, con nuestros reverendos
 
 obispos, con nuestros grandes generales, y todo eso, pero pudiera estar con ese
 
@@ -1154,57 +1154,57 @@ pobre hermano joven que se para en las esquinas de las calles y habla con
 
 frases entrecortadas, y con esa amada hermana que se encarga de una o dos docenas
 
-de nias y les ensea el amor del Salvador. Ustedes se preguntan qu es lo que
+de nińas y les enseńa el amor del Salvador. Ustedes se preguntan qué es lo que
 
-posiblemente pudieran ensear esas personas, y sin embargo, el Seor est
+posiblemente pudieran enseńar esas personas, y sin embargo, el Seńor está
 
-apacible y eficazmente hablando por sus suaves voces. Nosotros somos crticos
+apacible y eficazmente hablando por sus suaves voces. Nosotros somos críticos
 
 maravillosos; estamos disponibles y con ganas de hacer pedazos a los siervos de
 
-Dios; pero la misericordia es que el Seor se venga dulcemente de nosotros por
+Dios; pero la misericordia es que el Seńor se venga dulcemente de nosotros por
 
-causa de ellos dndoles una mayor bendicin para que hagamos a un lado nuestro
+causa de ellos dándoles una mayor bendición para que hagamos a un lado nuestro
 
-juicio, y para que podamos entender que l habla an por medio de quien quiere
+juicio, y para que podamos entender que Él habla aún por medio de quien quiere
 
-y usa al que l elige, y que esta verdad es segura por siempre: No con
+y usa al que Él elige, y que esta verdad es segura por siempre: “No con
 
-ejrcito, ni con fuerza, sino con mi Espritu, ha dicho Jehov de los
+ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los
 
-ejrcitos. El silbo apacible y delicado del cristiano humilde y solitario
+ejércitos”. El silbo apacible y delicado del cristiano humilde y solitario
 
 pudiera contener mayor poder que todos los truenos y rayos del mayor orador que
 
-haya argumentado jams por Cristo.
+haya argumentado jamás por Cristo.
 
 IV.
 
 Por
 
-ltimo, ESCUCHEMOS esta maana; que el acto de escuchar sea puesto en prctica
+último, ESCUCHEMOS esta mańana; que el acto de escuchar sea puesto en práctica
 
-de inmediato, muy reverentemente. Si somos demasiados para hacerlo aqu,
+de inmediato, muy reverentemente. Si somos demasiados para hacerlo aquí,
 
-vayamos a casa, a nuestras propias habitaciones, y escuchemos all. Me dirijo
+vayamos a casa, a nuestras propias habitaciones, y escuchemos allí. Me dirijo
 
-especialmente a los que no conocen al Seor; ustedes no pueden hacer que se oiga
+especialmente a los que no conocen al Seńor; ustedes no pueden hacer que se oiga
 
-el silbo apacible y delicado; pero a menudo, haciendo silencio y quedndose
+el silbo apacible y delicado; pero a menudo, haciendo silencio y quedándose
 
-quietos, ustedes pueden or ese llamado de tierno amor. Qu les dice a
+quietos, ustedes pueden oír ese llamado de tierno amor. żQué les dice a
 
-ustedes, personas inconversas? No les habla a sus conciencias, dicindoles:
+ustedes, personas inconversas? żNo les habla a sus conciencias, diciéndoles:
 
-Cmo es que han vivido tanto tiempo en la luz y sin embargo no la han visto
+“Cómo es que han vivido tanto tiempo en la luz y sin embargo no la han visto
 
-nunca? Cmo es que han morado tanto tiempo en la atmsfera del amor y, sin
+nunca? żCómo es que han morado tanto tiempo en la atmósfera del amor y, sin
 
-embargo, nunca lo han sentido? Cmo es que Jesucristo les ha sido predicado, y
+embargo, nunca lo han sentido? żCómo es que Jesucristo les ha sido predicado, y
 
-ustedes saben que l es el nico Salvador, y sin embargo, lo han rechazado? Los
+ustedes saben que Él es el único Salvador, y sin embargo, lo han rechazado? Los
 
-aos van pasando; sus cabellos se estn tornando grises; han esperado siempre,
+ańos van pasando; sus cabellos se están tornando grises; han esperado siempre,
 
 y han resuelto a medias, que tiene que haber un momento de cambio para ustedes,
 
@@ -1212,111 +1212,111 @@ y sin embargo, son simplemente los mismos. No voy a hablar
 
 por
 
-tu conciencia, pero s le pido a tu conciencia que te pregunte,
+tu conciencia, pero sí le pido a tu conciencia que te pregunte,
 
-por qu tratas tan mal a tu mejor Amigo? Por qu menosprecias Su sangrante
+żpor qué tratas tan mal a tu mejor Amigo? żPor qué menosprecias Su sangrante
 
-amor? Por qu lo postergas por cualquier nimiedad, y siempre ests diciendo: Ahora
+amor? żPor qué lo postergas por cualquier nimiedad, y siempre estás diciendo: “Ahora
 
-vete; pero cuando tenga oportunidad te llamar? Cuando la conciencia haya
+vete; pero cuando tenga oportunidad te llamaré”? Cuando la conciencia haya
 
-terminado de hablar, entonces deja que hable Jess. Y qu te dir? Yo te he
+terminado de hablar, entonces deja que hable Jesús. żY qué te dirá? “Yo te he
 
-amado, y me entregu por ti; porqu me desprecias? Yo he venido a ti y te he
+amado, y me entregué por ti; żporqué me desprecias? Yo he venido a ti y te he
 
-hablado con acentos de amor, y te he pedido que confes en m, y he dicho que
+hablado con acentos de amor, y te he pedido que confíes en mí, y he dicho que
 
-no te echar fuera si vinieras a m; por qu no vienes y confas? Deja que se
+no te echaré fuera si vinieras a mí; żpor qué no vienes y confías?” Deja que se
 
-escuche esa suave voz, la voz del Beb de Beln, la voz del Cordero moribundo
+escuche esa suave voz, la voz del Bebé de Belén, la voz del Cordero moribundo
 
-en el Calvario; deja que argumente contigo: Ven a mi, y yo te dar descanso.
+en el Calvario; deja que argumente contigo: “Ven a mi, y yo te daré descanso”.
 
 Escucha Su voz, por favor; deja que otros sonidos se apaguen para que puedas
 
-orla. Qudate quieto en casa e inclina tu odo, escuchando diligentemente la
+oírla. Quédate quieto en casa e inclina tu oído, escuchando diligentemente la
 
 voz de la misericordia del sangrante Hijo de Dios.
 
 Luego deja que hable el
 
-grandioso Padre, y te diga: Ven a m, hijo mo; t te has descarriado, pero yo
+grandioso Padre, y te diga: “Ven a mí, hijo mío; tú te has descarriado, pero yo
 
-sigo estando dispuesto a recibirte. Si vienes a m, confesando tu transgresin,
+sigo estando dispuesto a recibirte. Si vienes a mí, confesando tu transgresión,
 
 Yo soy fiel y justo para perdonarte tu pecado y para salvarte de toda tu
 
-injusticia. Ven a m, y vivirs en mi casa, y gozars de todos los privilegios
+injusticia. Ven a mí, y vivirás en mi casa, y gozarás de todos los privilegios
 
-de mis hijos.
+de mis hijos”.
 
 Igualmente escucha con diligencia
 
-las enseanzas del Espritu Santo. Sintate y di: Habla, bendito Espritu,
+las enseńanzas del Espíritu Santo. Siéntate y di: “Habla, bendito Espíritu,
 
-hblame. No puedes hacer nada mejor esta tarde que apartar un tiempo de
+háblame”. No puedes hacer nada mejor esta tarde que apartar un tiempo de
 
-silencio para que puedas inclinar tu odo al Espritu de gracia. Date una hora
+silencio para que puedas inclinar tu oído al Espíritu de gracia. Date una hora
 
-de completa soledad, y qudate quieto, y di: Ahora, Seor, bendito Espritu,
+de completa soledad, y quédate quieto, y di: “Ahora, Seńor, bendito Espíritu,
 
-habla y quebranta mi corazn con vergenza por mis transgresiones; habla, entonces,
+habla y quebranta mi corazón con vergüenza por mis transgresiones; habla, entonces,
 
-para sanar mi corazn creyendo en Jess; hblame mientras yo te espero. Oh,
+para sanar mi corazón creyendo en Jesús; háblame mientras yo te espero”. ˇOh,
 
-cuntos recibiran una bendicin si hicieran eso!
+cuántos recibirían una bendición si hicieran eso!
 
-Finalmente, permtanme
+Finalmente, permítanme
 
-que con los acentos ms tiernos haga a cada inconverso la pregunta que Jehov hizo
+que con los acentos más tiernos haga a cada inconverso la pregunta que Jehová hizo
 
-a Elas. Qu haces aqu, Elas? Qu te trajo aqu esta maana? Viniste a
+a Elías. “żQué haces aquí, Elías?” żQué te trajo aquí esta mańana? żViniste a
 
 adorar a Dios, o a gratificar la curiosidad, o viniste meramente porque es algo
 
-apropiado asistir a un lugar de adoracin un da domingo? Qu haces aqu,
+apropiado asistir a un lugar de adoración un día domingo? “żQué haces aquí,
 
-Elas? Qu has estado haciendo toda la maana? Cuando fue cantado el himno,
+Elías?” żQué has estado haciendo toda la mańana? Cuando fue cantado el himno,
 
-alabaste o te burlaste? Y cuando fue ofrecida la oracin, te uniste a ella, o
+żalabaste o te burlaste? Y cuando fue ofrecida la oración, żte uniste a ella, o
 
-has estado sentado aqu insultando al Altsimo, ofrecindole lo externo de la
+has estado sentado aquí insultando al Altísimo, ofreciéndole lo externo de la
 
-devocin mientras tu corazn ha estado lejos de l? Qu haces aqu, Elas?
+devoción mientras tu corazón ha estado lejos de Él? “żQué haces aquí, Elías?”
 
-Oh, que respondieras: Yo efectivamente me arrepiento de lo que he hecho, y de
+Oh, que respondieras: “Yo efectivamente me arrepiento de lo que he hecho, y de
 
 lo que no he hecho, y me postro a los pies del Padre, y le suplico por
 
-intermediacin de Jess que tenga piedad de m y perdone mis transgresiones. Si
+intermediación de Jesús que tenga piedad de mí y perdone mis transgresiones”. Si
 
-crees en Cristo Jess, quedas perdonado. Si confas tu alma a Jess, prosigue
+crees en Cristo Jesús, quedas perdonado. Si confías tu alma a Jesús, prosigue
 
-tu camino; no hay pecado en el libro de Dios contra ti ahora. l ha borrado tus
+tu camino; no hay pecado en el libro de Dios contra ti ahora. Él ha borrado tus
 
-transgresiones y no recordar ms tus pecados. Ser un da feliz, pues la voz
+transgresiones y no recordará más tus pecados. Será un día feliz, pues la voz
 
-te hablar esta maana, y no dejar de hablarte nunca hasta que el Rey venga en
+te hablará esta mańana, y no dejará de hablarte nunca hasta que el Rey venga en
 
-Su gloria, y te ponga a Su diestra. Que el Seor los bendiga, queridos amigos,
+Su gloria, y te ponga a Su diestra. Que el Seńor los bendiga, queridos amigos,
 
-por Su propio Espritu, por Jesucristo nuestro Seor. Amn.
+por Su propio Espíritu, por Jesucristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: 1 Reyes 19.
+del sermón: 1 Reyes 19.
 
 Nota del traductor:
 
-Trpido: Se dice del
+Tórpido: Se dice del
 
-miembro u rgano que se mueve o funciona con dificultad.
+miembro u órgano que se mueve o funciona con dificultad.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 27/Noviembre/2013
 

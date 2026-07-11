@@ -1,86 +1,86 @@
 # Sermón 1223 | Sermón 1223
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Jess, el
+Jesús, el
 
 Sustituto de Su Pueblo
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Quin es el
+“żQuién es el
 
-que condenar? Cristo es el que muri; ms aun, el que tambin resucit, el que
+que condenará? Cristo es el que murió; más aun, el que también resucitó, el que
 
-adems est a la diestra de Dios, el que tambin intercede por nosotros.
+además está a la diestra de Dios, el que también intercede por nosotros”.
 
 Romanos 8: 34.
 
-La ms terrible alarma
+La más terrible alarma
 
 que puede perturbar a un hombre razonable es el miedo a ser condenado por el
 
-Juez de todo. Cun espantoso es ser condenado ahora por Dios! Ser condenado
+Juez de todo. ˇCuán espantoso es ser condenado ahora por Dios! ˇSer condenado
 
-por l en el ltimo gran da, cun terrible! Con justa razn se debilitaron los
+por Él en el último gran día, cuán terrible! Con justa razón se debilitaron los
 
 lomos de Belsasar cuando la escritura trazada sobre la pared le condenaba como
 
-habiendo sido pesado en balanza y hallado falto; y con razn la conciencia del
+habiendo sido pesado en balanza y hallado falto; y con razón la conciencia del
 
-hombre convicto puede ser comparada a un pequeo infierno cuando la ley pronuncia
+hombre convicto puede ser comparada a un pequeńo infierno cuando la ley pronuncia
 
 la sentencia en contra suya en su tribunal inferior de justicia, por cuenta de
 
 su vida pasada. No conozco una mayor angustia que la que es generada por la sospecha
 
-de condenacin en la mente del creyente. No le tenemos miedo a la tribulacin
+de condenación en la mente del creyente. No le tenemos miedo a la tribulación
 
-pero le tenemos pavor a la condenacin. No nos avergonzamos cuando somos
+pero le tenemos pavor a la condenación. No nos avergonzamos cuando somos
 
 condenados injustamente por los hombres, pero la simple idea de ser condenados
 
-por Dios hace que, como Moiss, estemos espantados y temblando. La simple
+por Dios hace que, como Moisés, estemos “espantados y temblando”. La simple
 
 posibilidad de ser encontrados culpables en el gran tribunal de Dios es tan
 
 alarmante para nosotros que no podemos descansar hasta ver que ha sido
 
-eliminada. Cuando Pablo elev una amorosa y agradecida oracin por Onesforo,
+eliminada. Cuando Pablo elevó una amorosa y agradecida oración por Onesíforo,
 
-no poda pedir para l otra cosa que Concdale el Seor que halle misericordia
+no podía pedir para él otra cosa que “Concédale el Seńor que halle misericordia
 
-cerca del Seor en aquel da. Sin embargo, aunque la condenacin es el ms
+cerca del Seńor en aquel día”. Sin embargo, aunque la condenación es el más
 
-fatal de todos los males, el apstol Pablo se atreve a preguntar en el santo
+fatal de todos los males, el apóstol Pablo se atreve a preguntar en el santo
 
-ardor de su fe: Quin es el que condenar? Reta a la tierra y al infierno y
+ardor de su fe: “żQuién es el que condenará?” Reta a la tierra y al infierno y
 
 al cielo. En la justificable temeridad de su confianza en la sangre y justicia
 
 de Jesucristo alza su mirada a la excelente gloria y al trono del Dios trino y
 
-aun en presencia de Aquel ante quien ni aun los cielos son limpios y quien not
+aun en presencia de Aquel ante quien ni aun los cielos son limpios y quien notó
 
-necedad en sus ngeles, se atreve a decir: Quin es el que condenar?
+necedad en sus ángeles, se atreve a decir: “żQuién es el que condenará?”
 
-Por cul mtodo Pablo,
+żPor cuál método Pablo,
 
-que tena una conciencia tierna y despierta, fue completamente liberado de todo
+que tenía una conciencia tierna y despierta, fue completamente liberado de todo
 
-temor de condenacin? Ciertamente no fue por alguna reduccin en la enormidad
+temor de condenación? Ciertamente no fue por alguna reducción en la enormidad
 
 del pecado. Entre todos los escritores que han hablado alguna vez del mal de
 
-pecado ninguno ha arremetido contra l ms apasionadamente ni nadie lo ha
+pecado ninguno ha arremetido contra él más apasionadamente ni nadie lo ha
 
-lamentado ms sinceramente desde lo ms profundo de su alma, que el apstol. l
+lamentado más sinceramente desde lo más profundo de su alma, que el apóstol. Él
 
 declara que es sobremanera pecaminoso. Nunca lo encuentras sugiriendo disculpas
 
@@ -88,141 +88,141 @@ o atenuaciones; no mitiga el pecado ni sus consecuencias. Es muy claro cuando
 
 habla de la paga del pecado y de lo que sigue como consecuencia de la
 
-iniquidad. No busc esa falsa paz que proviene de considerar la transgresin
+iniquidad. No buscó esa falsa paz que proviene de considerar la transgresión
 
 como una nimiedad; de hecho fue un gran destructor de tales refugios de
 
-mentiras. Ten la seguridad, querido oyente, que no alcanzars nunca una bien
+mentiras. Ten la seguridad, querido oyente, que no alcanzarás nunca una bien
 
-sustentada liberacin del temor de la condenacin procurando hacer que tus
+sustentada liberación del temor de la condenación procurando hacer que tus
 
 pecados figuren poco. Esa no es la manera: es mucho mejor sentir el peso del
 
-pecado hasta que oprima tu alma que estar libre de la carga por presuncin y
+pecado hasta que oprima tu alma que estar libre de la carga por presunción y
 
-dureza de corazn. Tus pecados son condenables y tienen que condenarte a menos
+dureza de corazón. Tus pecados son condenables y tienen que condenarte a menos
 
 que sean expiados por el grandioso sacrificio por el pecado.
 
-El apstol tampoco
+El apóstol tampoco
 
-apacigu sus miedos por medio de una confianza en algo que l mismo hubiese
+apaciguó sus miedos por medio de una confianza en algo que él mismo hubiese
 
-sentido o hubiese hecho. Lean ntegramente el pasaje y no encontrarn ninguna
+sentido o hubiese hecho. Lean íntegramente el pasaje y no encontrarán ninguna
 
-alusin personal. Si Pablo est seguro de que nadie puede condenarle, no es
+alusión personal. Si Pablo está seguro de que nadie puede condenarle, no es
 
 porque haya orado, ni porque se haya arrepentido, ni porque haya sido el
 
-apstol de los gentiles, ni porque haya sufrido muchos azotes y sobrellevado
+apóstol de los gentiles, ni porque haya sufrido muchos azotes y sobrellevado
 
-mucho por causa de Cristo. No da ningn indicio de haber obtenido la paz por
+mucho por causa de Cristo. No da ningún indicio de haber obtenido la paz por
 
-cualquiera de estas cosas, sino que en el espritu humilde de un verdadero
+cualquiera de estas cosas, sino que en el espíritu humilde de un verdadero
 
-creyente en Jess edifica su esperanza de seguridad en la obra de su Salvador;
+creyente en Jesús edifica su esperanza de seguridad en la obra de su Salvador;
 
-sus razones para regocijarse porque no hay condenacin recaen todas en la
+sus razones para regocijarse porque no hay condenación recaen todas en la
 
-muerte y en la resurreccin, en el poder y la intermediacin de su bendito
+muerte y en la resurrección, en el poder y la intermediación de su bendito
 
-Sustituto. l mira completamente fuera de s mismo -pues all poda ver miles
+Sustituto. Él mira completamente fuera de sí mismo -pues allí podía ver miles
 
-de razones para la condenacin- y mira a Jess que hace que la condenacin sea
+de razones para la condenación- y mira a Jesús que hace que la condenación sea
 
-imposible y luego lanza el reto con exultante confianza: Quin acusar a los
+imposible y luego lanza el reto con exultante confianza: “żQuién acusará a los
 
-escogidos de Dios?, y se atreve a preguntar a los hombres y a los ngeles y a
+escogidos de Dios?”, y se atreve a preguntar a los hombres y a los ángeles y a
 
-los demonios, s, y al propio grandioso Juez: Quin es el que condenar?
+los demonios, sí, y al propio grandioso Juez: “żQuién es el que condenará?”
 
 Ahora bien, como no es
 
-algo raro que los cristianos sumidos en un dbil estado mental, abrumados por
+algo raro que los cristianos sumidos en un débil estado mental, abrumados por
 
-las dudas y hostigados por las preocupaciones, sientan que la fra sombra de la
+las dudas y hostigados por las preocupaciones, sientan que la fría sombra de la
 
-condenacin enfra sus espritus, quisiera hablarles a ellos esperando que el
+condenación enfría sus espíritus, quisiera hablarles a ellos esperando que el
 
-buen Espritu consuele sus corazones.
+buen Espíritu consuele sus corazones.
 
 Querido hijo de Dios, no
 
-debes vivir bajo el miedo de la condenacin, pues Ahora ninguna condenacin
+debes vivir bajo el miedo de la condenación, pues “Ahora ninguna condenación
 
-hay para los que estn en Cristo Jess, y Dios no quiere que tengas miedo de
+hay para los que están en Cristo Jesús”, y Dios no quiere que tengas miedo de
 
 aquello que no puede llegarte nunca. Si no eres un cristiano, no te demores
 
-hasta que hayas escapado de la condenacin aferrndote a Cristo Jess; pero si
+hasta que hayas escapado de la condenación aferrándote a Cristo Jesús; pero si
 
-en verdad has credo en el Seor Jess no ests bajo condenacin y no puedes
+en verdad has creído en el Seńor Jesús no estás bajo condenación y no puedes
 
-estarlo nunca ya sea en esta vida o en la vida venidera. Djame ayudarte
+estarlo nunca ya sea en esta vida o en la vida venidera. Déjame ayudarte
 
 refrescando tu memoria con esas preciosas verdades relativas a Cristo que
 
-muestran que los creyentes han sido exonerados delante del Seor. Que el
+muestran que los creyentes han sido exonerados delante del Seńor. Que el
 
-Espritu Santo las aplique a sus almas y les d reposo.
+Espíritu Santo las aplique a sus almas y les dé reposo.
 
 I.
 
 Y,
 
-primero, como creyente t no puedes ser condenado porque CRISTO HA MUERTO.
+primero, como creyente tú no puedes ser condenado porque CRISTO HA MUERTO.
 
 El creyente tiene a Cristo como su sustituto,
 
-y su pecado ha sido colocado sobre ese sustituto. El Seor Jess fue hecho
+y su pecado ha sido colocado sobre ese sustituto. El Seńor Jesús fue hecho
 
-pecado por Su pueblo. Jehov carg en l el pecado de todos nosotros.
+pecado por Su pueblo. “Jehová cargó en él el pecado de todos nosotros”.
 
-Habiendo l llevado el pecado de muchos. Ahora, por Su muerte, nuestro Seor
+“Habiendo él llevado el pecado de muchos”. Ahora, por Su muerte, nuestro Seńor
 
-Jess ha sufrido el castigo de nuestro pecado y ha satisfecho a la justicia
+Jesús ha sufrido el castigo de nuestro pecado y ha satisfecho a la justicia
 
-divina. Observen, entonces, el consuelo que eso nos proporciona. Si el Seor
+divina. Observen, entonces, el consuelo que eso nos proporciona. Si el Seńor
 
-Jess ha sido condenado por nosotros, cmo podemos ser condenados? Mientras la
+Jesús ha sido condenado por nosotros, żcómo podemos ser condenados? Mientras la
 
 justicia sobreviva en el cielo y la misericordia reine en la tierra, no es
 
-posible que un alma que ha sido condenada en Cristo sea condenada tambin en s
+posible que un alma que ha sido condenada en Cristo sea condenada también en sí
 
 misma. Si el castigo ha sido impuesto a su sustituto no es consistente ni con
 
 la misericordia ni con la justicia que el castigo sea infligido una segunda
 
-vez. La muerte de Cristo es una base de confianza que basta por s sola para
+vez. La muerte de Cristo es una base de confianza que basta por sí sola para
 
-todo aquel que cree en Jess; puede saber con toda certeza que su pecado es
+todo aquel que cree en Jesús; puede saber con toda certeza que su pecado es
 
 quitado y que su iniquidad es cubierta. Pon tu mirada en el hecho de que tienes
 
-un sustituto que ha soportado la ira divina en tu lugar y no conocers ningn
+un sustituto que ha soportado la ira divina en tu lugar y no conocerás ningún
 
-miedo de condenacin.
+miedo de condenación.
 
-Jehov alz Su vara;
+“Jehová alzó Su vara;
 
-Oh Cristo, y cay sobre Ti;
+Oh Cristo, y cayó sobre Ti;
 
-T fuiste severamente golpeado por Tu Dios;
+Tú fuiste severamente golpeado por Tu Dios;
 
-Y no hay ni un solo azote para m.
+Y no hay ni un solo azote para mí”.
 
 Queridos hermanos, observen
 
-quin fue el que muri,
+quién fue el que murió,
 
 pues esto les
 
-ayudar. Cristo Jess,
+ayudará. Cristo Jesús,
 
 el Hijo de Dios,
 
-muri,
+murió,
 
 el justo por los injustos. Quien fue su Salvador no era un mero hombre. Los que
 
@@ -230,257 +230,257 @@ niegan
 
 la Deidad
 
-de Cristo son consistentes en rechazar la expiacin. No es posible sostener una
+de Cristo son consistentes en rechazar la expiación. No es posible sostener una
 
-apropiada propiciacin vicaria por el pecado a menos que sostengas que Cristo
+apropiada propiciación vicaria por el pecado a menos que sostengas que Cristo
 
 era Dios. Aunque una persona pudiera sufrir por otra, con todo, los
 
-sufrimientos de un hombre pudieran dejar sin satisfaccin los de millones de
+sufrimientos de un hombre pudieran dejar sin satisfacción los de millones de
 
-millones de hombres. Qu eficacia pudiera haber en la muerte de una persona
+millones de hombres. żQué eficacia pudiera haber en la muerte de una persona
 
-inocente para quitar las transgresiones de una multitud? No, la razn es que el
+inocente para quitar las transgresiones de una multitud? No, la razón es que el
 
-que carg con nuestros pecados sobre el madero era Dios sobre todo, bendito por
+que cargó con nuestros pecados sobre el madero era Dios sobre todo, bendito por
 
-siempre; el que permiti que Sus pies fueran clavados al madero no era otro
+siempre; el que permitió que Sus pies fueran clavados al madero no era otro
 
-sino el mismo Verbo que era en el principio con Dios, y que tambin era Dios;
+sino el mismo Verbo que era en el principio con Dios, y que también era Dios;
 
-porque el que inclin Su cabeza a la muerte no era otro que el Cristo, quien es
+porque el que inclinó Su cabeza a la muerte no era otro que el Cristo, quien es
 
-la inmortalidad y la vida: Su muerte tena eficacia para quitar los pecados de
+la inmortalidad y la vida: Su muerte tenía eficacia para quitar los pecados de
 
-todos aquellos por quienes muri. Cuando pienso en mi Redentor y recuerdo que
+todos aquellos por quienes murió. Cuando pienso en mi Redentor y recuerdo que
 
-l mismo es Dios, yo pienso que si asumi mi naturaleza y muri, entonces en
+Él mismo es Dios, yo pienso que si asumió mi naturaleza y murió, entonces en
 
 verdad mi pecado ha sido quitado. Puedo confiar en eso. Yo estoy seguro de que
 
-si Aquel que es infinito y omnipotente ofreci una satisfaccin por mis
+si Aquel que es infinito y omnipotente ofreció una satisfacción por mis
 
-pecados, no necesito preguntar en cuanto a la suficiencia de la expiacin,
+pecados, no necesito preguntar en cuanto a la suficiencia de la expiación,
 
-pues quin se atrevera a sugerir algn lmite a su poder? Lo que Jess hizo y
+żpues quién se atrevería a sugerir algún límite a su poder? Lo que Jesús hizo y
 
-sufri tiene que ser igual a cualquier emergencia. Si mis pecados fueran
+sufrió tiene que ser igual a cualquier emergencia. Si mis pecados fueran
 
-incluso ms grandes de lo que son, Su sangre puede emblanquecerlos ms que la nieve.
+incluso más grandes de lo que son, Su sangre puede emblanquecerlos más que la nieve.
 
-Si Dios encarnado muri ocupando mi lugar, mis iniquidades han sido limpiadas.
+Si Dios encarnado murió ocupando mi lugar, mis iniquidades han sido limpiadas.
 
-Adems, recuerden quin
+Además, recuerden quién
 
-fue el que muri, y tengan otra visin de l. Fue
+fue el que murió, y tengan otra visión de Él. Fue
 
 Cristo
 
 que traducido quiere decir:
 
-el ungido.
+“el ungido”.
 
 El que vino para salvarnos no vino sin que fuera
 
-enviado o comisionado. l vino por la voluntad de Su Padre, diciendo: He aqu
+enviado o comisionado. Él vino por la voluntad de Su Padre, diciendo: “He aquí
 
-que vengo, oh Dios, para hacer tu voluntad, como en el rollo del libro est
+que vengo, oh Dios, para hacer tu voluntad, como en el rollo del libro está
 
-escrito de m. l vino por el poder del Padre, A quien Dios puso como
+escrito de mí”. Él vino por el poder del Padre, “A quien Dios puso como
 
-propiciacin por nuestros pecados. l vino con la uncin del Padre, diciendo:
+propiciación por nuestros pecados”. Él vino con la unción del Padre, diciendo:
 
-El Espritu del Seor est sobre m. l era
+“El Espíritu del Seńor está sobre mí”. Él era
 
 el
 
-Mesas enviado por Dios. El cristiano no tiene por qu tener
+Mesías enviado por Dios. El cristiano no tiene por qué tener
 
-temor de condenacin cuando ve que Cristo muere en su lugar porque Dios mismo
+temor de condenación cuando ve que Cristo muere en su lugar porque Dios mismo
 
-estableci que Cristo muriera, y si Dios mismo arregl el plan de la
+estableció que Cristo muriera, y si Dios mismo arregló el plan de la
 
-sustitucin y design al sustituto, no puede repudiar la obra vicaria. Aun si
+sustitución y designó al sustituto, no puede repudiar la obra vicaria. Aun si
 
-no pudisemos hablar como lo hemos hecho de la gloriosa persona de nuestro
+no pudiésemos hablar como lo hemos hecho de la gloriosa persona de nuestro
 
-Seor, con todo, si la soberana y la sabidura divinas eligieron a alguien
+Seńor, con todo, si la soberanía y la sabiduría divinas eligieron a alguien
 
 como Cristo para cargar con nuestro pecado, podemos estar muy satisfechos de
 
-tomar la seleccin de Dios, y contentarnos con lo que contenta al Seor.
+tomar la selección de Dios, y contentarnos con lo que contenta al Seńor.
 
-Adems, creyente, el
+Además, creyente, el
 
 pecado no puede condenarte porque Cristo
 
-muri.
+murió.
 
 Sus sufrimientos, no lo dudo, fueron vicarios mucho antes de que viniera a
 
-la cruz, pero aun as la sustancia del castigo merecido por el pecado era la
+la cruz, pero aun así la sustancia del castigo merecido por el pecado era la
 
-muerte, y fue cuando Jess muri que termin la prevaricacin, puso fin al
+muerte, y fue cuando Jesús murió que terminó la prevaricación, puso fin al
 
-pecado, expi la iniquidad y trajo la justicia perdurable. La ley no poda ir
+pecado, expió la iniquidad y trajo la justicia perdurable. La ley no podía ir
 
-ms all de su propia sentencia capital, que es la muerte: este fue el terrible
+más allá de su propia sentencia capital, que es la muerte: este fue el terrible
 
-castigo pronunciado en el huerto: El da que de l comieres, ciertamente
+castigo pronunciado en el huerto: “El día que de él comieres, ciertamente
 
-morirs. Cristo muri fsicamente, con todos los concomitantes de ignominia y
+morirás”. Cristo murió físicamente, con todos los concomitantes de ignominia y
 
-dolor, y Su muerte interior, que fue la parte ms amarga de la sentencia, fue
+dolor, y Su muerte interior, que fue la parte más amarga de la sentencia, fue
 
-acompaada por la prdida del semblante de Su Padre y por un horror inenarrable.
+acompańada por la pérdida del semblante de Su Padre y por un horror inenarrable.
 
-l descendi al sepulcro y por tres das y tres noches durmi en el interior de
+Él descendió al sepulcro y por tres días y tres noches durmió en el interior de
 
-la tumba, muerto realmente. Aqu est nuestro gozo, nuestro Seor ha sufrido el
+la tumba, muerto realmente. Aquí está nuestro gozo, nuestro Seńor ha sufrido el
 
-extremo castigo y ha dado sangre por sangre, y vida por vida. l pag todo lo
+extremo castigo y ha dado sangre por sangre, y vida por vida. Él pagó todo lo
 
-que estaba pendiente, pues ha pagado con Su vida; l se entreg por nosotros, y
+que estaba pendiente, pues ha pagado con Su vida; Él se entregó por nosotros, y
 
-carg con nuestros pecados en Su propio cuerpo sobre el madero, de manera que
+cargó con nuestros pecados en Su propio cuerpo sobre el madero, de manera que
 
-Su muerte es la muerte de nuestros pecados. Cristo es el que muri.
+Su muerte es la muerte de nuestros pecados. “Cristo es el que murió”.
 
 No hablo de estas cosas
 
 haciendo gala de adornos verbales, sino que les doy la doctrina desnuda. Que el
 
-Espritu de Dios aplique estas verdades a sus almas, y ustedes vern que no
+Espíritu de Dios aplique estas verdades a sus almas, y ustedes verán que no
 
-puede haber ninguna condenacin en contra de aquellos que estn en Cristo.
+puede haber ninguna condenación en contra de aquellos que están en Cristo.
 
 Es muy cierto, amados,
 
 que la muerte de Cristo debe de haber sido eficaz para quitar los pecados que
 
-fueron puestos sobre l. No es concebible que Cristo muriera en vano, quiero
+fueron puestos sobre Él. No es concebible que Cristo muriera en vano, quiero
 
-decir, no es concebible sin blasfemia, y yo espero que no caigamos en eso. l
+decir, no es concebible sin blasfemia, y yo espero que no caigamos en eso. Él
 
-fue designado por Dios para llevar el pecado de muchos, y aunque l mismo era
+fue designado por Dios para llevar el pecado de muchos, y aunque Él mismo era
 
-Dios, con todo, l vino al mundo y tom sobre S la forma de un siervo y carg
+Dios, con todo, Él vino al mundo y tomó sobre Sí la forma de un siervo y cargó
 
 con esos pecados, no meramente en dolor sino en la muerte misma, y no es
 
-posible que sea derrotado o que se vea decepcionado en Su propsito. El
+posible que sea derrotado o que se vea decepcionado en Su propósito. El
 
-propsito de la muerte de Cristo no se ver frustrado ni en una jota o tilde.
+propósito de la muerte de Cristo no se verá frustrado ni en una jota o tilde.
 
-Jess ver el fruto de la afliccin de su alma, y quedar satisfecho. Se har lo
+Jesús verá el fruto de la aflicción de su alma, y quedará satisfecho. Se hará lo
 
-que tena el propsito de lograr por medio de la muerte, y no derramar Su
+que tenía el propósito de lograr por medio de la muerte, y no derramará Su
 
-sangre en el suelo como un desperdicio en ningn sentido o medida. Entonces, si
+sangre en el suelo como un desperdicio en ningún sentido o medida. Entonces, si
 
-Jess muri por ti, este slido argumento permanece: que como l no muri en
+Jesús murió por ti, este sólido argumento permanece: que como Él no murió en
 
-vano, t no perecers. l ha sufrido y t no sufrirs. l ha sido condenado y
+vano, tú no perecerás. Él ha sufrido y tú no sufrirás. Él ha sido condenado y
 
-t no sers condenado. l ha muerto por ti y ahora te da la promesa: Porque yo
+tú no serás condenado. Él ha muerto por ti y ahora te da la promesa: “Porque yo
 
-vivo, vosotros tambin viviris.
+vivo, vosotros también viviréis”.
 
 II.
 
 El
 
-apstol pasa a un segundo argumento que apuntala con estas palabras: ms aun.
+apóstol pasa a un segundo argumento que apuntala con estas palabras: “más aun”.
 
-Cristo es el que muri;
+Cristo es el que murió;
 
-ms aun
+más aun
 
 , EL
 
-QUE TAMBIN RESUCITӔ. No creo que le estemos dando el peso suficiente a ms
+QUE TAMBIÉN RESUCITÓ”. No creo que le estemos dando el peso suficiente a “más
 
-aun. La muerte de Cristo es la base empedrada de todo consuelo, pero no
+aun”. La muerte de Cristo es la base empedrada de todo consuelo, pero no
 
-podemos pasar por alto el hecho de que el apstol considera que la resurreccin
+podemos pasar por alto el hecho de que el apóstol considera que la resurrección
 
-de Cristo produce un consuelo ms rico que Su muerte: ms aun, el que tambin
+de Cristo produce un consuelo más rico que Su muerte: “más aun, el que también
 
-resucit. Cmo podemos derivar un mayor consuelo de la resurreccin de Cristo
+resucitó”. żCómo podemos derivar un mayor consuelo de la resurrección de Cristo
 
 que de Su muerte, si de Su muerte obtenemos una base suficiente de consuelo? Yo
 
 respondo que
 
-la resurreccin de nuestro
+la resurrección de nuestro
 
-Seor denotaba la total absolucin de todo el pecado que fue cargado sobre l.
+Seńor denotaba la total absolución de todo el pecado que fue cargado sobre Él.
 
 Una
 
-mujer est abrumada por las deudas: cmo ser liberada de sus pasivos? Un
+mujer está abrumada por las deudas: żcómo será liberada de sus pasivos? Un
 
 amigo, movido por el gran amor que le tiene, se casa con ella. Tan pronto se
 
 realiza la ceremonia del matrimonio, por ese mismo hecho ella ha sido eximida
 
-de toda deuda, porque sus deudas son ahora de su esposo, y al tomarla a ella l
+de toda deuda, porque sus deudas son ahora de su esposo, y al tomarla a ella él
 
 toma todas sus obligaciones. Ella puede recibir consuelo de ese pensamiento,
 
-pero est mucho ms tranquila cuando su amado visita a los acreedores, paga
+pero está mucho más tranquila cuando su amado visita a los acreedores, paga
 
 todo y le lleva los recibos. Primero, ella es confortada por el matrimonio que
 
-la alivia legalmente de su responsabilidad, pero descansa mucho ms cuando su
+la alivia legalmente de su responsabilidad, pero descansa mucho más cuando su
 
-propio esposo queda libre de toda la responsabilidad que asumi. Nuestro Seor
+propio esposo queda libre de toda la responsabilidad que asumió. Nuestro Seńor
 
-tom nuestras deudas; en la muerte las pag, y en la resurreccin borr el
+tomó nuestras deudas; en la muerte las pagó, y en la resurrección borró el
 
-registro. Por Su resurreccin quit el ltimo vestigio de cargo en contra
+registro. Por Su resurrección quitó el último vestigio de cargo en contra
 
-nuestra, pues la resurreccin de Cristo fue la declaracin del Padre de que
+nuestra, pues la resurrección de Cristo fue la declaración del Padre de que
 
-estaba satisfecho con la expiacin del Hijo. Como lo expresa el autor del
+estaba satisfecho con la expiación del Hijo. Como lo expresa el autor del
 
 himno:
 
-El Seor en verdad ha resucitado,
+“El Seńor en verdad ha resucitado,
 
-Entonces la justicia ya no pide nada ms;
+Entonces la justicia ya no pide nada más;
 
 La misericordia y la verdad se han puesto ahora de acuerdo
 
-Aunque antes se oponan.
+Aunque antes se oponían.
 
-En su prisin de la
+En su prisión de la
 
-tumba el rehn y fianza de nuestras almas habra estado confinado hasta esta
+tumba el rehén y fianza de nuestras almas habría estado confinado hasta esta
 
-precisa hora a menos que la satisfaccin que l ofreci fuera satisfactoria
+precisa hora a menos que la satisfacción que Él ofreció fuera satisfactoria
 
 para Dios, pero siendo plenamente aceptado, fue liberado de las ataduras y todo
 
-Su pueblo es as justificado. Quin es el que condenar? Cristo es el que
+Su pueblo es así justificado. “żQuién es el que condenará? Cristo es el que
 
-muri; ms aun, el que tambin resucit.
+murió; más aun, el que también resucitó”.
 
 Observen adicionalmente
 
 que
 
-la resurreccin de Cristo indic
+la resurrección de Cristo indicó
 
-nuestra aceptacin ante Dios.
+nuestra aceptación ante Dios.
 
-Cuando Dios le levant de los muertos dio
+Cuando Dios le levantó de los muertos dio
 
-testimonio por medio de ello de que haba aceptado la obra de Cristo, pero la
+testimonio por medio de ello de que había aceptado la obra de Cristo, pero la
 
-aceptacin de nuestro representante es nuestra aceptacin. Cuando el embajador
+aceptación de nuestro representante es nuestra aceptación. Cuando el embajador
 
-francs fue despedido de
+francés fue despedido de
 
 la
 
@@ -490,39 +490,39 @@ de Prusia eso significaba que la guerra estaba
 
 declarada, y cuando el embajador fue recibido de nuevo, la paz fue
 
-restablecida. Cuando Jess fue tan acepto a Dios que resucit de los muertos,
+restablecida. Cuando Jesús fue tan acepto a Dios que resucitó de los muertos,
 
-cada uno de los que creemos en l fue aceptado tambin por Dios, pues lo que
+cada uno de los que creemos en Él fue aceptado también por Dios, pues lo que
 
-fue hecho a Jess fue en efecto hecho a todos los miembros de Su cuerpo
+fue hecho a Jesús fue en efecto hecho a todos los miembros de Su cuerpo
 
-mstico. Con l estamos crucificados, con l estamos sepultados, con l hemos
+místico. Con Él estamos crucificados, con Él estamos sepultados, con Él hemos
 
-resucitado y en Su aceptacin somos aceptos.
+resucitado y en Su aceptación somos aceptos.
 
-Acaso Su resurreccin
+żAcaso Su resurrección
 
-no indicaba tambin que
+no indicaba también que
 
-haba cumplido con
+había cumplido con
 
 la totalidad del castigo,
 
 y que su muerte era suficiente? Supongan por un
 
-instante que mil ochocientos y pico de aos hubiesen transcurrido y que todava
+instante que mil ochocientos y pico de ańos hubiesen transcurrido y que todavía
 
-dormitara en la tumba. En tal caso habramos podido creer que Dios haba
+dormitara en la tumba. En tal caso habríamos podido creer que Dios había
 
-aceptado el sacrificio vicario de Cristo y que le resucitara finalmente de los
+aceptado el sacrificio vicario de Cristo y que le resucitaría finalmente de los
 
-muertos, pero habramos tenido nuestros miedos. Pero ahora tenemos ante nuestras
+muertos, pero habríamos tenido nuestros miedos. Pero ahora tenemos ante nuestras
 
-miradas un signo y una seal tan consoladores como el arcoris en el da de la
+miradas un signo y una seńal tan consoladores como el arcoíris en el día de la
 
-lluvia, pues Jess ha resucitado, y es claro que la ley no puede exigirle nada
+lluvia, pues Jesús ha resucitado, y es claro que la ley no puede exigirle nada
 
-ms. Vive ahora por una nueva vida, y la ley no tiene ningn reclamo en contra
+más. Vive ahora por una nueva vida, y la ley no tiene ningún reclamo en contra
 
 Suya.
 
@@ -532,9 +532,9 @@ contra quien el reclamo
 
 fue presentado ha muerto y su vida presente no es una vida contra la cual la
 
-ley pueda presentar una demanda. Lo mismo sucede con nosotros: la ley tena
+ley pueda presentar una demanda. Lo mismo sucede con nosotros: la ley tenía
 
-reclamos contra nosotros antes, pero somos nuevas criaturas en Cristo Jess,
+reclamos contra nosotros antes, pero somos nuevas criaturas en Cristo Jesús,
 
 hemos participado en la vida resucitada de Cristo y la ley no puede exigir
 
@@ -542,17 +542,17 @@ castigos por nuestra nueva vida. La simiente incorruptible en nuestro interior
 
 no ha pecado pues es nacida de Dios. La ley no puede condenarnos ya que hemos
 
-muerto para ella en Cristo y estamos ms all de su jurisdiccin.
+muerto para ella en Cristo y estamos más allá de su jurisdicción.
 
 Dejo con ustedes este bendito
 
 consuelo. Su fianza ha saldado la deuda por ustedes, y siendo justificado en el
 
-Espritu, ha salido del sepulcro. No pongan una carga sobre ustedes por su
+Espíritu, ha salido del sepulcro. No pongan una carga sobre ustedes por su
 
-incredulidad. No aflijan a su conciencia con obras muertas, sino vulvanse a la
+incredulidad. No aflijan a su conciencia con obras muertas, sino vuélvanse a la
 
-cruz de Cristo y busquen una revivida conciencia de perdn por medio del
+cruz de Cristo y busquen una revivida conciencia de perdón por medio del
 
 lavamiento de la sangre.
 
@@ -560,201 +560,201 @@ III.
 
 Ahora
 
-debo proseguir al tercer punto sobre el que insiste el apstol. EL QUE ADEMS
+debo proseguir al tercer punto sobre el que insiste el apóstol. “EL QUE ADEMÁS
 
-EST A
+ESTÁ A
 
 LA DIESTRA
 
 DE
 
-DIOS. Tengan en cuenta todava que lo que Jess es, Su pueblo tambin lo es,
+DIOS”. Tengan en cuenta todavía que lo que Jesús es, Su pueblo también lo es,
 
-pues son uno con l. Su condicin y posicin son tpicas de las suyas. El que
+pues son uno con Él. Su condición y posición son típicas de las suyas. “El que
 
-adems est a la diestra de Dios. Eso significa
+además está a la diestra de Dios”. Eso significa
 
 amor,
 
 pues la diestra es para los amados. Eso significa
 
-aceptacin.
+aceptación.
 
-Quin se sentar a la
+żQuién se sentará a la
 
 diestra de Dios sino alguien que es amado por Dios? Eso significa
 
 honor.
 
-A quin de los ngeles le ha
+żA quién de los ángeles le ha
 
 dado el sentarse a Su diestra?
 
-El poder
+ˇEl poder
 
-est
+está
 
-implicado tambin! No puede decirse de ningn querubn ni de ningn serafn que
+implicado también! No puede decirse de ningún querubín ni de ningún serafín que
 
-est a la diestra de Dios. Cristo, entonces, que una vez sufri en la carne,
+esté a la diestra de Dios. Cristo, entonces, que una vez sufrió en la carne,
 
-est a la diestra de Dios en amor y en aceptacin y en honor y en poder. Entonces
+está a la diestra de Dios en amor y en aceptación y en honor y en poder. Entonces
 
-vean la fuerza de la interrogacin, Quin es el que condenar? Puede hacerse
+vean la fuerza de la interrogación, “żQuién es el que condenará?” Puede hacerse
 
-evidente de una doble manera. Quin podra condenarme mientras tenga un amigo
+evidente de una doble manera. “żQuién podría condenarme mientras tenga un amigo
 
-como ese en la corte? Mientras mi representante se siente cerca de Dios cmo
+como ese en la corte? Mientras mi representante se siente cerca de Dios żcómo
 
-puedo ser condenado? Pero, a continuacin, yo estoy donde l est, pues est
+puedo ser condenado?” Pero, a continuación, yo estoy donde Él está, pues está
 
-escrito, Y asimismo nos hizo sentar en los lugares celestiales con Cristo
+escrito, “Y asimismo nos hizo sentar en los lugares celestiales con Cristo
 
-Jess. Pueden suponer que sea posible condenar a uno que ya est a la diestra
+Jesús”. żPueden suponer que sea posible condenar a uno que ya está a la diestra
 
 de Dios? La diestra de Dios es un lugar tan cercano, tan eminente, que uno no
 
-puede suponer que un adversario presente all una acusacin en contra nuestra.
+puede suponer que un adversario presente allí una acusación en contra nuestra.
 
-Sin embargo, all est el creyente en su representante y quin se atrevera a
+Sin embargo, allí está el creyente en su representante ży quién se atrevería a
 
-acusarle? Le fue achacado a Amn como su peor crimen que buscara maquinar la
+acusarle? Le fue achacado a Amán como su peor crimen que buscara maquinar la
 
-muerte de la propia reina Ester, tan amada por el corazn del rey; y acaso
+muerte de la propia reina Ester, tan amada por el corazón del rey; ży acaso
 
-cualquier enemigo podra condenar o destruir a quienes son ms amados por Dios
+cualquier enemigo podría condenar o destruir a quienes son más amados por Dios
 
-de lo que Ester fuera jams por Asuero, pues se sientan a Su diestra, vital e indisolublemente
+de lo que Ester fuera jamás por Asuero, pues se sientan a Su diestra, vital e indisolublemente
 
-unidos a Jess? Supn que realmente estuvieras a la diestra de Dios, tendras
+unidos a Jesús? Supón que realmente estuvieras a la diestra de Dios, żtendrías
 
-entonces algn miedo de ser condenado? Crees que los espritus relucientes
+entonces algún miedo de ser condenado? żCrees que los espíritus relucientes
 
-delante del trono sienten algn temor de ser condenados, aunque antes fueron
+delante del trono sienten algún temor de ser condenados, aunque antes fueron
 
-pecadores como t mismo? No dices t- yo tendra una confianza perfecta si
+pecadores como tú mismo? “No” –dices tú- “yo tendría una confianza perfecta si
 
-estuviera all. Pero t ests all en tu representante. Si crees que no ests
+estuviera allí”. Pero tú estás allí en tu representante. Si crees que no estás
 
-voy a hacerte esta pregunta: Quin nos separar del amor de Cristo? Acaso
+voy a hacerte esta pregunta: “żQuién nos separará del amor de Cristo?” żAcaso
 
-est dividido Cristo? Si t eres un creyente t eres uno con l y los miembros
+está dividido Cristo? Si tú eres un creyente tú eres uno con Él y los miembros
 
-tienen que estar donde est la cabeza. Mientras no condenen a la cabeza no
+tienen que estar donde está la cabeza. Mientras no condenen a la cabeza no
 
-pueden condenar a los miembros. No queda claro eso? Si t ests a la diestra
+pueden condenar a los miembros. żNo queda claro eso? Si tú estás a la diestra
 
-de Dios en Cristo Jess, quin es el que condenar? Que condenen a esas
+de Dios en Cristo Jesús, żquién es el que condenará? Que condenen a esas
 
 huestes vestidas de blanco que por siempre rodean el trono de Dios y arrojan
 
-sus coronas a Sus pies; que intenten eso, digo yo, antes de que acusen al ms
+sus coronas a Sus pies; que intenten eso, digo yo, antes de que acusen al más
 
-insignificante creyente en Cristo Jess.
+insignificante creyente en Cristo Jesús.
 
 IV.
 
 La
 
-ltima palabra que el apstol nos da es: EL QUE TAMBIN INTERCEDE POR
+última palabra que el apóstol nos da es: “EL QUE TAMBIÉN INTERCEDE POR
 
-NOSOTROS. Esta es otra razn por la que el miedo a la condenacin no debera
+NOSOTROS”. Esta es otra razón por la que el miedo a la condenación no debería
 
 pasar nunca por nuestra mente si en verdad hemos confiado nuestras almas a
 
-Cristo, pues si Jess intercede por nosotros tiene que asegurarse de interceder
+Cristo, pues si Jesús intercede por nosotros tiene que asegurarse de interceder
 
-para que no seamos condenados nunca. l no dirigira Su intercesin a puntos
+para que no seamos condenados nunca. Él no dirigiría Su intercesión a puntos
 
-menores sin prestar atencin a los mayores. Padre, aquellos que me has dado,
+menores sin prestar atención a los mayores. “Padre, aquellos que me has dado,
 
-quiero que donde yo estoy, tambin ellos estn conmigo incluye el hecho del
+quiero que donde yo estoy, también ellos estén conmigo” incluye el hecho del
 
-perdn de todos sus pecados pues no podran ir all si sus pecados no fuesen
+perdón de todos sus pecados pues no podrían ir allí si sus pecados no fuesen
 
 perdonados. Tengan la seguridad de que un Salvador intercesor asegura la
 
-absolucin de Su pueblo.
+absolución de Su pueblo.
 
 Reflexionen en que la
 
-intercesin de nuestro Seor tiene que ser prevalente. No se puede suponer que
+intercesión de nuestro Seńor tiene que ser prevalente. No se puede suponer que
 
-Cristo pida en vano. l no es ningn humilde peticionario a la distancia que,
+Cristo pida en vano. Él no es ningún humilde peticionario a la distancia que,
 
 con gemido y suspiro pide lo que no merece, sino que llevando el pectoral que
 
 destella con las joyas que exhiben los nombres de Su pueblo y presentando Su
 
-propia sangre como una expiacin infinitamente satisfactoria para el
+propia sangre como una expiación infinitamente satisfactoria para el
 
 propiciatorio de Dios, argumenta con incuestionable autoridad. Si la sangre de
 
-Abel, clamando desde la tierra, fue oda en el cielo haciendo descender la
+Abel, clamando desde la tierra, fue oída en el cielo haciendo descender la
 
-venganza, mucho ms la sangre de Cristo que habla de detrs del velo, asegura
+venganza, mucho más la sangre de Cristo que habla de detrás del velo, asegura
 
-el perdn y la salvacin de Su pueblo. El argumento de Jess es indisputable y
+el perdón y la salvación de Su pueblo. El argumento de Jesús es indisputable y
 
-no puede hacerse a un lado. l argumenta esto: Yo sufr ocupando el lugar de
+no puede hacerse a un lado. Él argumenta esto: “Yo sufrí ocupando el lugar de
 
-ese hombre. Puede negar ese argumento la infinita justicia de Dios? Por Tu
+ese hombre”. żPuede negar ese argumento la infinita justicia de Dios? “Por Tu
 
-voluntad, oh Dios, yo me entregu como sustituto de estos que son mi pueblo.
+voluntad, oh Dios, yo me entregué como sustituto de estos que son mi pueblo.
 
-No quitars el pecado de aquellos cuyo lugar ocup? Acaso no es esta una
+żNo quitarás el pecado de aquellos cuyo lugar ocupé?” żAcaso no es esta una
 
-buena argumentacin? Est el pacto de Dios para eso, est la promesa de Dios
+buena argumentación? Está el pacto de Dios para eso, está la promesa de Dios
 
-para eso, y est el honor de Dios involucrado en eso, de tal manera que cuando
+para eso, y está el honor de Dios involucrado en eso, de tal manera que cuando
 
-Jess argumenta, no es slo la dignidad de Su persona la que tiene peso, y el
+Jesús argumenta, no es sólo la dignidad de Su persona la que tiene peso, y el
 
-amor que Dios siente por Su unignito, que es igualmente de peso, pero Su
+amor que Dios siente por Su unigénito, que es igualmente de peso, pero Su
 
-reclamo es abrumador y Su intercesin es omnipotente.
+reclamo es abrumador y Su intercesión es omnipotente.
 
-Cun a salvo est el
+ˇCuán a salvo está el
 
-cristiano puesto que Jess vive siempre para hacer intercesin por l! Me he
+cristiano puesto que Jesús vive siempre para hacer intercesión por Él! żMe he
 
 encomendado a Sus amadas manos? Entonces que nunca lo deshonre como para
 
-desconfiar de l. Realmente confo en l como el que muri, el que tambin
+desconfiar de Él. żRealmente confío en Él como el que murió, el que también
 
-resucit, como el que adems est a la diestra de Dios y el que tambin
+resucitó, como el que además está a la diestra de Dios y el que también
 
-intercede por m? Puedo permitirme dar cabida a una solitaria sospecha?
+intercede por mí? żPuedo permitirme dar cabida a una solitaria sospecha?
 
-Entonces, Padre mo, perdona esta gran ofensa y ayuda a Tu siervo mediante una
+Entonces, Padre mío, perdona esta gran ofensa y ayuda a Tu siervo mediante una
 
-mayor confianza de fe a regocijarme en Cristo Jess y a decir: Ahora, pues,
+mayor confianza de fe a regocijarme en Cristo Jesús y a decir: “Ahora, pues,
 
-ninguna condenacin hay. Ustedes que aman a Cristo y estn confiando en l, retrense
+ninguna condenación hay”. Ustedes que aman a Cristo y están confiando en Él, retírense
 
 con el olor de esta dulce doctrina en sus corazones; pero, oh, para ustedes que
 
-no han confiado en Cristo hay una condenacin presente. Ustedes ya han sido
+no han confiado en Cristo hay una condenación presente. Ustedes ya han sido
 
-condenados porque no han credo en el Hijo de Dios; y hay una condenacin
+condenados porque no han creído en el Hijo de Dios; y hay una condenación
 
-futura para ustedes, pues viene el da, el terrible da cuando los impos sern
+futura para ustedes, pues viene el día, el terrible día cuando los impíos serán
 
-como estopa en el fuego de la ira de Jehov. La hora se apresura cuando el
+como estopa en el fuego de la ira de Jehová. La hora se apresura cuando el
 
-Seor ajustar el juicio a cordel, y a nivel la justicia, y barrer con los
+Seńor ajustará el juicio a cordel, y a nivel la justicia, y barrerá con los
 
-refugios de mentiras. Ven, pobre alma, ven y confa en el Crucificado, y
+refugios de mentiras. Ven, pobre alma, ven y confía en el Crucificado, y
 
-vivirs, y te regocijars con nosotros porque nadie puede condenarte.
+vivirás, y te regocijarás con nosotros porque nadie puede condenarte.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Isaas 53.
+leída antes del sermón: Isaías 53.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 21/Agosto/2014
 

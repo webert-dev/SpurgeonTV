@@ -1,280 +1,282 @@
 # Sermón 1989 | Sermón 1989
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Viene con las
 
 Nubes
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-He aqu que
+“He aquí que
 
-viene con las nubes, y todo ojo le ver, y los que le traspasaron; y todos los
+viene con las nubes, y todo ojo le verá, y los que le traspasaron; y todos los
 
-linajes de la tierra harn lamentacin por l S, amn. Apocalipsis 1: 7.
+linajes de la tierra harán lamentación por él Sí, amén”. Apocalipsis 1: 7.
 
-Mientras leamos el
+Mientras leíamos el
 
-captulo observbamos cmo el amado Juan saludaba a las siete iglesias en Asia
+capítulo observábamos cómo el amado Juan saludaba a las siete iglesias en Asia
 
-de esta manera: Gracia y paz a vosotros. Los hombres bendecidos esparcen
+de esta manera: “Gracia y paz a vosotros”. Los hombres bendecidos esparcen
 
 bendiciones. Cuando la
 
-bendicin
+bendición
 
 de
 
 Dios descansa en nosotros derramamos bendiciones en otros.
 
-El corazn piadoso de
+El corazón piadoso de
 
-Juan se elev de la bendicin a la
+Juan se elevó de la bendición a la
 
-adoracin
+adoración
 
-del grandioso Rey de los santos. Tal como lo expresa nuestro himno: Lo
+del grandioso Rey de los santos. Tal como lo expresa nuestro himno: “Lo
 
-santo conduce a lo ms santo. Quienes son buenos bendiciendo a los hombres,
+santo conduce a lo más santo”. Quienes son buenos bendiciendo a los hombres,
 
-bendecirn a Dios con presteza.
+bendecirán a Dios con presteza.
 
 Juan nos ha dado una
 
-maravillosa doxologa: Al que nos am, y nos lav de nuestros pecados con su
+maravillosa doxología: “Al que nos amó, y nos lavó de nuestros pecados con su
 
-sangre, y nos hizo reyes y sacerdotes para Dios, su Padre; a l sea gloria e
+sangre, y nos hizo reyes y sacerdotes para Dios, su Padre; a él sea gloria e
 
-imperio por los siglos de los siglos. Amn. A m me gusta en este caso
+imperio por los siglos de los siglos. Amén”. A mí me gusta en este caso
 
-la Versin Revisada
+la Versión Revisada
 
-por su aliteracin, aunque no puedo preferirla por otras razones. Dice as: Al
+por su aliteración, aunque no puedo preferirla por otras razones. Dice así: “Al
 
 que nos
 
-am
+amó
 
 y nos
 
-liber
+liberó
 
 de nuestros pecados por su
 
-sangre. Verdaderamente nuestro Redentor nos ha liberado del pecado, pero la
+sangre”. Verdaderamente nuestro Redentor nos ha liberado del pecado, pero la
 
-mencin de Su sangre sugiere un lavamiento ms bien que una liberacin. Podemos
+mención de Su sangre sugiere un lavamiento más bien que una liberación. Podemos
 
-conservar la aliteracin y, no obstante, retener el significado del lavamiento
+conservar la aliteración y, no obstante, retener el significado del lavamiento
 
-si leemos el pasaje as: Al que nos am, y nos lav. Nos
+si leemos el pasaje así: “Al que nos amó, y nos lavó”. Nos
 
-am
+amó
 
 y nos
 
-lav:
+lavó:
 
-llvense
+llévense
 
 a casa esas dos palabras; dejen que permanezcan en su lengua y que sirvan para
 
-endulzar su aliento para la oracin y la alabanza. Al que nos am, y nos lav
+endulzar su aliento para la oración y la alabanza. “Al que nos amó, y nos lavó…
 
-sea gloria e imperio por los siglos de los siglos. Amn.
+sea gloria e imperio por los siglos de los siglos. Amén”.
 
 Luego Juan habla de la
 
-dignidad que el Seor nos ha conferido hacindonos reyes y sacerdotes, y de
+dignidad que el Seńor nos ha conferido haciéndonos reyes y sacerdotes, y de
 
-esto l atribuye realeza e imperio al Seor mismo. Juan haba estado exaltando
+esto él atribuye realeza e imperio al Seńor mismo. Juan había estado exaltando
 
-al Grandioso Rey a quien llama: El Soberano de los reyes de la tierra. Esto
+al Grandioso Rey a quien llama: “El Soberano de los reyes de la tierra”. Esto
 
-era ciertamente, y lo es, y lo ser. Cuando Juan hubo mencionado esa realeza
+era ciertamente, y lo es, y lo será. Cuando Juan hubo mencionado esa realeza
 
-que es natural a nuestro divino Seor, y ese imperio que le ha venido por
+que es natural a nuestro divino Seńor, y ese imperio que le ha venido por
 
-conquista y como un don del Padre como recompensa de toda Su afliccin,
+conquista y como un don del Padre como recompensa de toda Su aflicción,
 
-prosigui a notar que nos hizo reyes. Nuestro Seor esparce la realeza entre
+prosiguió a notar que nos “hizo reyes”. Nuestro Seńor esparce la realeza entre
 
-Sus redimidos. Nosotros le alabamos porque l es en S mismo un rey y tambin
+Sus redimidos. Nosotros le alabamos porque Él es en Sí mismo un rey y también
 
-porque l es un hacedor de reyes, fuente de honor y majestad. l no slo tiene
+porque Él es un hacedor de reyes, fuente de honor y majestad. Él no sólo tiene
 
-suficiente realeza para S mismo, sino que entrega una medida de Su dignidad a
+suficiente realeza para Sí mismo, sino que entrega una medida de Su dignidad a
 
-Su pueblo. l hace reyes de un material tan comn como el que encuentra en
+Su pueblo. Él hace reyes de un material tan común como el que encuentra en
 
-nosotros, pobres pecadores. No le adoraremos por esto? No arrojaremos
+nosotros, pobres pecadores. żNo le adoraremos por esto? żNo arrojaremos
 
-nuestras coronas a Sus pies? l nos dio nuestras coronas, y acaso no se las
+nuestras coronas a Sus pies? Él nos dio nuestras coronas, ży acaso no se las
 
-daremos a l? A l sea gloria e imperio por los siglos de los siglos. Amn.
+daremos a Él? “A Él sea gloria e imperio por los siglos de los siglos. Amén”.
 
-Rey por naturaleza divina! Rey por derecho filial! Hacedor de reyes, del
+ˇRey por naturaleza divina! ˇRey por derecho filial! ˇHacedor de reyes, del
 
-muladar exalta al menesteroso para hacerle sentarse con prncipes! Rey de
+muladar exalta al menesteroso para hacerle sentarse con príncipes! ˇRey de
 
-reyes por el unnime amor de todos los que has coronado! T eres Aquel a quien
+reyes por el unánime amor de todos los que has coronado! ˇTú eres Aquel a quien
 
-Tus hermanos alabarn! Reina por los siglos de los siglos! Para ti sean los
+Tus hermanos alabarán! ˇReina por los siglos de los siglos! Para ti sean los
 
-hosannas de bienvenida y los aleluyas de alabanza. Seor de tierra y cielo, que
+hosannas de bienvenida y los aleluyas de alabanza. Seńor de tierra y cielo, que
 
-todas las cosas que son o que sern alguna vez te rindan toda la gloria en el
+todas las cosas que son o que serán alguna vez te rindan toda la gloria en el
 
-grado ms excelso. Hermanos, no arden sus almas al pensar en las alabanzas de
+grado más excelso. Hermanos, żno arden sus almas al pensar en las alabanzas de
 
-Emanuel? Yo llenara gustosamente el universo con Su alabanza. Oh, quin
+Emanuel? Yo llenaría gustosamente el universo con Su alabanza. ˇOh, quién
 
-tuviera mil lenguas para cantar las glorias del Seor Jess! Si el Espritu que
+tuviera mil lenguas para cantar las glorias del Seńor Jesús! Si el Espíritu que
 
-dict las palabras de Juan ha tomado posesin de nuestros espritus encontraremos
+dictó las palabras de Juan ha tomado posesión de nuestros espíritus encontraremos
 
-que la adoracin es nuestro ms excelso deleite. Nunca estamos ms cerca del
+que la adoración es nuestro más excelso deleite. Nunca estamos más cerca del
 
-cielo que cuando somos absorbidos en la adoracin de Jess, nuestro Seor y
+cielo que cuando somos absorbidos en la adoración de Jesús, nuestro Seńor y
 
-Dios. Oh, que pudiera adorarle ahora como lo har cuando, librado de este
+Dios. ˇOh, que pudiera adorarle ahora como lo haré cuando, librado de este
 
 estorboso cuerpo, mi alma le contemple en la plenitud de Su gloria!
 
-El captulo nos deja la
+El capítulo nos deja la
 
-impresin de que la adoracin de Juan se vio incrementada por su
+impresión de que la adoración de Juan se vio incrementada por su
 
-expectacin
+expectación
 
 de la segunda venida del
 
-Seor, pues clama: He aqu que viene con las nubes. Su adoracin despert su
+Seńor, pues clama: “He aquí que viene con las nubes”. Su adoración despertó su
 
-expectacin que todo el tiempo permaneca en su alma como un elemento de esa
+expectación que todo el tiempo permanecía en su alma como un elemento de esa
 
-vehemente calidez de amor reverente que derram en su doxologa. He aqu que
+vehemente calidez de amor reverente que derramó en su doxología. “He aquí que
 
-viene, dijo, y as revel una fuente de su reverencia. He aqu que viene,
+viene”, dijo, y así reveló una fuente de su reverencia. “He aquí que viene”,
 
-dijo, y esta exclamacin fue el resultado de su reverencia. l ador hasta que
+dijo, y esta exclamación fue el resultado de su reverencia. Él adoró hasta que
 
-su fe concibi vvidamente a su Seor y se convirti en una segunda y ms noble
+su fe concibió vívidamente a su Seńor y se convirtió en una segunda y más noble
 
-visin.
+visión.
 
-Creo, tambin, que su
+Creo, también, que su
 
-reverencia se hizo ms profunda y su adoracin se hizo ms ferviente por su
+reverencia se hizo más profunda y su adoración se hizo más ferviente por su
 
-conviccin de la prontitud de la venida de su Seor. He aqu que viene, o
+convicción de la prontitud de la venida de su Seńor. “He aquí que viene”, o
 
-est en camino: tiene la intencin de aseverar que incluso ahora est en
+está en camino: tiene la intención de aseverar que incluso ahora está en
 
-camino. As como los obreros son motivados a ser ms diligentes en el servicio
+camino. Así como los obreros son motivados a ser más diligentes en el servicio
 
-cuando oyen las pisadas de su capataz, as, sin duda, los santos son
+cuando oyen las pisadas de su capataz, así, sin duda, los santos son
 
-vivificados en su devocin cuando estn conscientes de que Aquel a quien adoran
+vivificados en su devoción cuando están conscientes de que Aquel a quien adoran
 
-se est acercando. l se ha ido al Padre por un tiempo y entonces nos ha dejado
+se está acercando. Él se ha ido al Padre por un tiempo y entonces nos ha dejado
 
-solos en este mundo; pero l ha dicho: Vendr otra vez, y os tomar a m
+solos en este mundo; pero Él ha dicho: “Vendré otra vez, y os tomaré a mí
 
-mismo, y confiamos que guardar Su palabra. Dulce es el recuerdo de esa
+mismo”, y confiamos que guardará Su palabra. Dulce es el recuerdo de esa
 
-amorosa promesa. Esa seguridad est derramando su olor en el corazn de Juan
+amorosa promesa. Esa seguridad está derramando su olor en el corazón de Juan
 
-mientras se encuentra adorando; y se vuelve inevitable, as como tambin sumamente
+mientras se encuentra adorando; y se vuelve inevitable, así como también sumamente
 
-conveniente y adecuado, que su doxologa en su conclusin le introduzca al
+conveniente y adecuado, que su doxología en su conclusión le introduzca al
 
-propio Seor y lo conduzca a clamar: He aqu l viene. Habiendo adorado en medio
+propio Seńor y lo conduzca a clamar: “He aquí él viene”. Habiendo adorado en medio
 
-de los puros de corazn, ve al Seor; habiendo adorado al Rey, le ve presidir
+de los puros de corazón, ve al Seńor; habiendo adorado al Rey, le ve presidir
 
 en el tribunal y aparecer en las nubes del cielo. Una vez que entramos en las
 
-cosas celestiales no sabemos hasta dnde podemos llegar o qu tan alto podemos
+cosas celestiales no sabemos hasta dónde podemos llegar o qué tan alto podemos
 
-escalar. Juan, que comenz bendiciendo a las iglesias, ahora contempla a su
+escalar. Juan, que comenzó bendiciendo a las iglesias, ahora contempla a su
 
-Seor.
+Seńor.
 
-Que el Espritu Santo
+ˇQue el Espíritu Santo
 
 nos ayude a pensar reverentemente en la portentosa venida de nuestro bendito
 
-Seor, cuando aparezca para deleite de Su pueblo y espanto de los impos!
+Seńor, cuando aparezca para deleite de Su pueblo y espanto de los impíos!
 
 Hay tres cosas en el
 
-texto. Para algunos de ustedes parecern cosas comunes y corrientes, y,
+texto. Para algunos de ustedes parecerán cosas comunes y corrientes, y,
 
 ciertamente, son cosas comunes y corrientes de nuestra divina fe, y sin
 
 embargo, no puede haber nada de mayor importancia. La primera es,
 
-nuestro Seor Jess viene:
+nuestro Seńor Jesús viene:
 
-He aqu que
+“He aquí que
 
-viene con las nubes. La segunda es,
+viene con las nubes”. La segunda es,
 
 la
 
-venida de nuestro Seor Jesucristo ser vista por todos:
+venida de nuestro Seńor Jesucristo será vista por todos:
 
-Todo ojo le ver,
+“Todo ojo le verá,
 
-y los que le traspasaron. Y, en tercer lugar,
+y los que le traspasaron”. Y, en tercer lugar,
 
-esta venida producir gran afliccin:
+esta venida producirá gran aflicción:
 
-Todos los linajes de la
+“Todos los linajes de la
 
-tierra harn lamentacin por l.
+tierra harán lamentación por él”.
 
 I.
 
+ˇ
+
 Que
 
-el Espritu Santo nos ayude mientras, en primer lugar, recordamos que NUESTRO
+el Espíritu Santo nos ayude mientras, en primer lugar, recordamos que NUESTRO
 
-SEOR JESUCRISTO VIENE!
+SEŃOR JESUCRISTO VIENE!
 
 Este anuncio es
 
-considerado digno de una nota de admiracin. Como los latinos diran, hay un
+considerado digno de una nota de admiración. Como los latinos dirían, hay un
 
-Ecce
+“Ecce”
 
-que ha sido introducido aqu:
+que ha sido introducido aquí:
 
-He aqu,
+“He aquí,
 
-que viene. As como en los
+que viene”. Así como en los
 
-viejos libros los impresores ponan manos al margen que sealaban pasajes
+viejos libros los impresores ponían manos al margen que seńalaban pasajes
 
-especiales, as es este he aqu! Es un
+especiales, ˇasí es este “he aquí”! Es un
 
 Nota
 
-Bene (Ntese Bien)
+Bene (Nótese Bien)
 
 que nos
 
 exhorta
 
-a notar bien lo que estamos leyendo. Aqu hay algo que hemos de
+a notar bien lo que estamos leyendo. Aquí hay algo que hemos de
 
 sostener
 
@@ -282,519 +284,519 @@ y
 
 contemplar.
 
-Omos ahora una voz que clama: Venid y ved! El
+Oímos ahora una voz que clama: “ˇVenid y ved!” El
 
-Espritu Santo nunca usa palabras superfluas ni redundantes notas de
+Espíritu Santo nunca usa palabras superfluas ni redundantes notas de
 
-exclamacin; cuando l clama: He aqu!, es porque hay una razn para una
+exclamación; cuando Él clama: “ˇHe aquí!”, es porque hay una razón para una
 
-atencin profunda y duradera. Apartars tu mirada cuando l te pide que hagas
+atención profunda y duradera. żApartarás tu mirada cuando Él te pide que hagas
 
-una pausa y ponderes, que te quedes y mires? Oh, t que has estado contemplando
+una pausa y ponderes, que te quedes y mires? Oh, tú que has estado contemplando
 
-vanidad, ven y contempla el hecho de que Jess viene. T que has estado
+vanidad, ven y contempla el hecho de que Jesús viene. Tú que has estado
 
 contemplando esto y contemplando aquello, y que no has estado pensando en nada
 
-digno de tus pensamientos; olvida esas visiones y esos espectculos pasajeros,
+digno de tus pensamientos; olvida esas visiones y esos espectáculos pasajeros,
 
-y por una vez contempla una escena que no tiene ningn paralelo. No se trata de
+y por una vez contempla una escena que no tiene ningún paralelo. No se trata de
 
-un monarca en su jubileo, sino del Rey de reyes en Su gloria. Ese mismo Jess
+un monarca en su jubileo, sino del Rey de reyes en Su gloria. Ese mismo Jesús
 
-que ascendi al cielo desde el monte del Olivar vendr de nuevo a la tierra de
+que ascendió al cielo desde el monte del Olivar vendrá de nuevo a la tierra de
 
-la misma manera que Sus discpulos le vieron subir al cielo. Vengan y vean este
+la misma manera que Sus discípulos le vieron subir al cielo. Vengan y vean este
 
-grandioso espectculo. Si ha habido alguna vez algo en el mundo digno de
+grandioso espectáculo. Si ha habido alguna vez algo en el mundo digno de
 
-mirarse, es esto. Mirad y ved si hubo jams gloria como Su gloria! Escuchen el
+mirarse, es esto. ˇMirad y ved si hubo jamás gloria como Su gloria! Escuchen el
 
-clamor de medianoche: Aqu viene el esposo. Tiene que ver prcticamente con
+clamor de medianoche: “Aquí viene el esposo”. Tiene que ver prácticamente con
 
-ustedes. Salid a recibirle. Esta voz es para ustedes, oh hijos de los
+ustedes. “Salid a recibirle”. Esta voz es para ustedes, oh hijos de los
 
-hombres. No se aparten descuidadamente, pues el propio Seor Dios exige su
+hombres. No se aparten descuidadamente, pues el propio Seńor Dios exige su
 
-atencin; el les manda que Miren! Estars ciego cuando Dios te ordena que
+atención; ˇel les manda que “Miren”! żEstarás ciego cuando Dios te ordena que
 
-mires? Cerrars tus ojos cuando tu Salvador clama: He aqu? Cuando el dedo
+mires? żCerrarás tus ojos cuando tu Salvador clama: “He aquí”? Cuando el dedo
 
-de la inspiracin seala el camino, no se fijar tu ojo en el lugar hacia el
+de la inspiración seńala el camino, żno se fijará tu ojo en el lugar hacia el
 
-cual te dirige? He aqu que viene. Oh mis oyentes, miren aqu, se los
+cual te dirige? “He aquí que viene”. Oh mis oyentes, miren aquí, se los
 
 suplico.
 
 Si leemos cuidadosamente
 
-las palabras de nuestro texto, este He aqu nos muestra primero, que
+las palabras de nuestro texto, este “He aquí” nos muestra primero, que
 
-esta venida ha ser percibida vvidamente.
+esta venida ha ser percibida vívidamente.
 
 Me
 
-parece ver a Juan. l est en el espritu; pero de pronto parece sobresaltado y
+parece ver a Juan. Él está en el espíritu; pero de pronto parece sobresaltado y
 
-llevado a una ms intensa y ms solemne atencin. Su mente est ms despierta
+llevado a una más intensa y más solemne atención. Su mente está más despierta
 
-de lo usual, aunque l siempre fue un hombre de ojos radiantes que miraban a la
+de lo usual, aunque él siempre fue un hombre de ojos radiantes que miraban a la
 
-distancia. Lo comparamos siempre con el guila por la altura de su vuelo y la
+distancia. Lo comparamos siempre con el águila por la altura de su vuelo y la
 
-agudeza de su visin; sin embargo, de pronto, aun l parece sobresaltado con
+agudeza de su visión; sin embargo, de pronto, aun él parece sobresaltado con
 
-una visin ms asombrosa. l exclama: He aqu! He aqu! Ha divisado a su
+una visión más asombrosa. Él exclama: “ˇHe aquí! ˇHe aquí!” Ha divisado a su
 
-Seor. No dice: l vendr pronto, sino Puedo verle, l viene ahora. Evidentemente
+Seńor. No dice: “Él vendrá pronto”, sino “Puedo verle, Él viene ahora”. Evidentemente
 
-se ha dado cuenta del segundo advenimiento. l ha concebido de tal manera la
+se ha dado cuenta del segundo advenimiento. Él ha concebido de tal manera la
 
-segunda venida del Seor que se ha convertido en un asunto factual para l; en un
+segunda venida del Seńor que se ha convertido en un asunto factual para él; en un
 
-asunto del que hay que hablar e incluso del que hay que escribir. He aqu que
+asunto del que hay que hablar e incluso del que hay que escribir. “He aquí que
 
-viene. Nos hemos dado cuenta, ustedes y yo, de la venida de Cristo tan
+viene”. żNos hemos dado cuenta, ustedes y yo, de la venida de Cristo tan
 
-plenamente como esto? Tal vez creamos que l vendr. Espero que todos hagamos
+plenamente como esto? Tal vez creamos que Él vendrá. Espero que todos hagamos
 
 eso.
 
-Si creemos que el Seor Jess ha
+Si creemos que el Seńor Jesús ha
 
-venido la primera vez, creemos tambin que l vendr la segunda vez; pero, son
+venido la primera vez, creemos también que Él vendrá la segunda vez; pero, żson
 
-stas verdades confirmadas para nosotros? Quizs hemos comprendido vvidamente
+éstas verdades confirmadas para nosotros? Quizás hemos comprendido vívidamente
 
-el primer advenimiento: de Beln al Glgota y del Calvario al monte del Olivar
+el primer advenimiento: de Belén al Gólgota y del Calvario al monte del Olivar
 
-hemos seguido los pasos del Seor, entendiendo ese bendito clamor: He aqu el
+hemos seguido los pasos del Seńor, entendiendo ese bendito clamor: “ˇHe aquí el
 
-Cordero de Dios, que quita el pecado del mundo! S, el Verbo fue hecho carne
+Cordero de Dios, que quita el pecado del mundo!” Sí, ‘el Verbo fue hecho carne
 
-y habit entre nosotros, y vimos su gloria, gloria como del Unignito del
+y habitó entre nosotros, y vimos su gloria, gloria como del Unigénito del
 
-Padre, lleno de gracia y de verdad. Pero hemos captado con igual firmeza el
+Padre, lleno de gracia y de verdad’. żPero hemos captado con igual firmeza el
 
-pensamiento de que l viene por segunda vez sin relacin con el pecado? Cuando
+pensamiento de que Él viene por segunda vez sin relación con el pecado? Cuando
 
-nos reunimos en feliz comunin, nos decimos ahora unos a otros: S, nuestro
+nos reunimos en feliz comunión, żnos decimos ahora unos a otros: “Sí, nuestro
 
-Seor viene? No slo debera ser una profeca firmemente creda entre nosotros,
+Seńor viene”? No sólo debería ser una profecía firmemente creída entre nosotros,
 
 sino una escena proyectada en nuestras almas y anticipada en nuestros
 
-corazones. Mi imaginacin ha pintado esa terrible escena: pero mejor an, mi fe
+corazones. Mi imaginación ha pintado esa terrible escena: pero mejor aún, mi fe
 
-la ha captado. He odo las ruedas de los carros del Seor que se acercan y me
+la ha captado. He oído las ruedas de los carros del Seńor que se acercan y me
 
 he esforzado en poner mi casa en orden para recibirle. He sentido la sombra de esa
 
-gran nube que le acompaar enfriando el ardor de mi mundanalidad. Oigo aun
+gran nube que le acompańará enfriando el ardor de mi mundanalidad. Oigo aun
 
-ahora en espritu el sonido de la ltima trompeta, cuya tremenda resonancia
+ahora en espíritu el sonido de la última trompeta, cuya tremenda resonancia
 
-sobresalta mi alma y la conduce a una seria accin y fortalece mi vida. Quiera
+sobresalta mi alma y la conduce a una seria acción y fortalece mi vida. ˇQuiera
 
-Dios que yo viva ms completamente bajo la influencia de ese augusto evento!
+Dios que yo viva más completamente bajo la influencia de ese augusto evento!
 
 Hermanos y hermanas, yo
 
-los invito a esta comprensin. Yo deseara que furamos juntos en esto, hasta
+los invito a esta comprensión. Yo desearía que fuéramos juntos en esto, hasta
 
-que al salir de casa nos dijramos unos a otros: He aqu que viene. Alguien
+que al salir de casa nos dijéramos unos a otros: “He aquí que viene”. Alguien
 
-le dijo a su compaero despus de que el Seor hubo resucitado: Ha resucitado
+le dijo a su compańero después de que el Seńor hubo resucitado: “Ha resucitado
 
-el Seor verdaderamente. Yo quiero que se sientan tan seguros esta noche de
+el Seńor verdaderamente”. Yo quiero que se sientan tan seguros esta noche de
 
-que el Seor viene en verdad, y quisiera que se dijeran lo mismo unos a otros.
+que el Seńor viene en verdad, y quisiera que se dijeran lo mismo unos a otros.
 
-Estamos seguros de que l vendr, y que viene en camino; pero el beneficio de
+Estamos seguros de que Él vendrá, y que viene en camino; pero el beneficio de
 
-una ms vvida comprensin sera incalculable.
+una más vívida comprensión sería incalculable.
 
 Esta venida ha de ser proclamada celosamente,
 
 pues
 
-Juan no dice tranquilamente: l viene, sino que clama vigorosamente: He aqu
+Juan no dice tranquilamente: “Él viene”, sino que clama vigorosamente: “He aquí
 
-que viene. Tal como el heraldo de un rey hace un prefacio a su mensaje por medio
+que viene”. Tal como el heraldo de un rey hace un prefacio a su mensaje por medio
 
-de un sonido de trompeta que llama la atencin, as tambin Juan clama: He
+de un sonido de trompeta que llama la atención, así también Juan clama: “He
 
-aqu. As como el antiguo pregonero era propenso a decir: Oh s! Oh s! Oh
+aquí”. Así como el antiguo pregonero era propenso a decir: “ˇOh sí! ˇOh sí! ˇOh
 
-s!, o a usar algn otro estribillo impactante que llamaba a los hombres a
+sí!”, o a usar algún otro estribillo impactante que llamaba a los hombres a
 
-prestar atencin a su anuncio, as Juan est en medio de nosotros y clama: He
+prestar atención a su anuncio, así Juan está en medio de nosotros y clama: “He
 
-aqu que viene. l llama la atencin mediante esa enftica palabra: He aqu.
+aquí que viene”. Él llama la atención mediante esa enfática palabra: “He aquí”.
 
-No es ningn mensaje ordinario el que trae y no quisiera que tratramos su
+No es ningún mensaje ordinario el que trae y no quisiera que tratáramos su
 
-palabra como un dicho que es una cosa comn. l pone su corazn en el anuncio.
+palabra como un dicho que es una cosa común. Él pone su corazón en el anuncio.
 
 Lo proclama en voz alta, lo proclama solemnemente, y lo proclama con autoridad:
 
-He aqu que viene.
+“He aquí que viene”.
 
 Hermanos, ninguna verdad
 
-debera ser proclamada ms frecuentemente despus de la primera venida del
+debería ser proclamada más frecuentemente después de la primera venida del
 
-Seor, como esta segunda venida; y no se podran exponer todos los fines y
+Seńor, como esta segunda venida; y no se podrían exponer todos los fines y
 
 conexiones de la primera venida si se olvidara la segunda. En
 
 la Cena
 
-del Seor no hay ningn
+del Seńor no hay ningún
 
-discernimiento del cuerpo del Seor a menos que disciernan Su primera venida y
+discernimiento del cuerpo del Seńor a menos que disciernan Su primera venida y
 
-no hay un beber de Su copa a plenitud, a menos que le oigan decir: Hasta que
+no hay un beber de Su copa a plenitud, a menos que le oigan decir: “Hasta que
 
-yo venga. Tienen que mirar hacia delante as como hacia atrs. As tiene que
+yo venga”. Tienen que mirar hacia delante así como hacia atrás. Así tiene que
 
 ser con todos nuestros ministerios: tienen que mirarle en la cruz y en el
 
-trono. Tenemos que percibir vvidamente que Aquel que ha venido una vez, viene
+trono. Tenemos que percibir vívidamente que Aquel que ha venido una vez, viene
 
-otra vez, o de lo contrario nuestro testimonio se ver desfigurado y
+otra vez, o de lo contrario nuestro testimonio se verá desfigurado y
 
 desequilibrado. Si dejamos fuera a cualquiera de los dos advenimientos haremos
 
-un trabajo inaceptable en la predicacin y la enseanza.
+un trabajo inaceptable en la predicación y la enseńanza.
 
 Y en seguida
 
 ha de ser aseverado incuestionablemente.
 
-He
+“He
 
-aqu que viene. No es: Quizs l podra aparecer todava. He aqu l viene
+aquí que viene”. No es: “Quizás Él podría aparecer todavía”. “He aquí él viene”
 
-debera ser afirmado dogmticamente como una certeza absoluta que ha sido
+debería ser afirmado dogmáticamente como una certeza absoluta que ha sido
 
-comprendida por el corazn del hombre que la proclama. He aqu l viene.
+comprendida por el corazón del hombre que la proclama. “He aquí él viene”.
 
-Todos los profetas dicen que l vendr. Desde Enoc hasta el ltimo profeta que
+Todos los profetas dicen que Él vendrá. Desde Enoc hasta el último profeta que
 
-habl por inspiracin declaran: He aqu, vino el Seor con sus santas decenas
+habló por inspiración declaran: “He aquí, vino el Seńor con sus santas decenas
 
-de millares. No encontrarn a uno que haya hablado por la autoridad de Dios,
+de millares”. No encontrarán a uno que haya hablado por la autoridad de Dios,
 
-que, ya sea directamente o por implicacin, no afirme la venida del Hijo del
+que, ya sea directamente o por implicación, no afirme la venida del Hijo del
 
 hombre, cuando las multitudes nacidas de mujer sean convocadas a Su tribunal
 
-para recibir la recompensa de sus actos. Todas las promesas estn afanadas con
+para recibir la recompensa de sus actos. Todas las promesas están afanadas con
 
-este pronstico: He aqu l viene. Contamos con Su propia palabra para ello y
+este pronóstico: “He aquí él viene”. Contamos con Su propia palabra para ello y
 
-esto le proporciona una doble seguridad. l nos ha dicho que vendr de nuevo.
+esto le proporciona una doble seguridad. Él nos ha dicho que vendrá de nuevo.
 
-l les asegur a Sus discpulos a menudo que si se iba de ellos, vendra a
+Él les aseguró a Sus discípulos a menudo que si se iba de ellos, vendría a
 
-ellos otra vez; y nos dej
+ellos otra vez; y nos dejó
 
 la
 
 Cena
 
-del Seor como una seal de la partida a ser observada
+del Seńor como una seńal de la partida a ser observada
 
-hasta que l venga. Las veces que partimos el pan se nos recuerda el hecho de
+hasta que Él venga. Las veces que partimos el pan se nos recuerda el hecho de
 
 que, aunque es una ordenanza sumamente bendita, con todo es una ordenanza
 
-temporal, que cesar de ser celebrada cuando nuestro ausente Seor est
+temporal, que cesará de ser celebrada cuando nuestro ausente Seńor esté
 
-presente una vez ms entre nosotros.
+presente una vez más entre nosotros.
 
-Amados hermanos, qu
+Amados hermanos, żqué
 
 hay que impida que Cristo venga? Cuando he estudiado y reflexionado en esta
 
-palabra: He aqu l viene, s, me he dicho a m mismo, en verdad viene; quin
+palabra: “He aquí él viene”, sí, me he dicho a mí mismo, en verdad viene; żquién
 
-lo detendra? Su corazn est con Su iglesia en la tierra. l desea celebrar la
+lo detendría? Su corazón está con Su iglesia en la tierra. Él desea celebrar la
 
-victoria en el lugar donde pele la batalla. Sus delicias son con los hijos de
+victoria en el lugar donde peleó la batalla. Sus delicias son con los hijos de
 
-los hombres. Todos Sus santos estn en espera del da de Su advenimiento y l
+los hombres. Todos Sus santos están en espera del día de Su advenimiento y Él
 
-est esperando tambin. La propia tierra en su afliccin y su gemir est con
+está esperando también. La propia tierra en su aflicción y su gemir está con
 
-dolores de parto por Su venida que ha de ser su redencin. La creacin fue
+dolores de parto por Su venida que ha de ser su redención. La creación fue
 
-sujetada a vanidad por un corto tiempo, pero cuando el Seor venga otra vez, la
+sujetada a vanidad por un corto tiempo, pero cuando el Seńor venga otra vez, la
 
-creacin misma ser libertada de la esclavitud de la corrupcin a la libertad gloriosa
+creación misma será libertada de la esclavitud de la corrupción a la libertad gloriosa
 
-de los hijos de Dios. Podramos cuestionar que venga una segunda vez si no
+de los hijos de Dios. Podríamos cuestionar que venga una segunda vez si no
 
-hubiera venido ya una primera vez; pero si vino a Beln, tengan la seguridad de
+hubiera venido ya una primera vez; pero si vino a Belén, tengan la seguridad de
 
-que Sus pies se posarn sobre el monte del Olivar. Si vino a morir, no duden
+que Sus pies se posarán sobre el monte del Olivar. Si vino a morir, no duden
 
-que vendr a reinar. Si vino para ser despreciado y desechado entre los
+que vendrá a reinar. Si vino para ser despreciado y desechado entre los
 
-hombres, por qu habramos de dudar de que venga para ser admirado por todos
+hombres, żpor qué habríamos de dudar de que venga para ser admirado por todos
 
 aquellos que creen? Su segura venida ha de ser aseverada incuestionablemente.
 
 Queridos amigos, este
 
-hecho de que l vendr de nuevo,
+hecho de que Él vendrá de nuevo,
 
 ha de
 
-ensearse como algo que exige nuestro inters inmediato.
+enseńarse como algo que exige nuestro interés inmediato.
 
-He aqu que viene
+“He aquí que viene
 
-con las nubes. He aqu, mrenlo; mediten en ello. Vale la pena pensar en ello.
+con las nubes”. He aquí, mírenlo; mediten en ello. Vale la pena pensar en ello.
 
-Te concierne. Estdialo una y otra vez. l viene. Como l estar aqu tan
+Te concierne. Estúdialo una y otra vez. “Él viene”. Como Él estará aquí tan
 
-pronto, la afirmacin est expresada en el tiempo presente: l viene. Ese
+pronto, la afirmación está expresada en el tiempo presente: “Él viene”. Ese
 
-sacudimiento de la tierra, esa extincin del sol y de la luna, esa huida del
+sacudimiento de la tierra, esa extinción del sol y de la luna, esa huida del
 
-cielo y de la tierra delante de Su rostro, todas esas cosas estn aqu tan
+cielo y de la tierra delante de Su rostro, todas esas cosas están aquí tan
 
-cercanamente que Juan las describe como realizadas. He aqu que viene.
+cercanamente que Juan las describe como realizadas. “He aquí que viene”.
 
 Hay un sentido que yace
 
 en el trasfondo: que
 
-l ya viene en
+Él ya viene en
 
 camino.
 
-Todo lo que l est haciendo en providencia y en gracia es una
+Todo lo que Él está haciendo en providencia y en gracia es una
 
-preparacin para Su venida. Todos los eventos de la historia humana, todas las
+preparación para Su venida. Todos los eventos de la historia humana, todas las
 
 grandes decisiones de Su augusta majestad mediante las cuales gobierna todas las
 
-cosas, todo eso contribuye al da de su venida. No piensen que l demora Su
+cosas, todo eso contribuye al día de su venida. No piensen que Él demora Su
 
-venida, y que luego, de pronto, se apresurar a venir a toda prisa. l ha
+venida, y que luego, de pronto, se apresurará a venir a toda prisa. Él ha
 
-arreglado que tenga lugar tan pronto como la sabidura lo permita. Nosotros no
+arreglado que tenga lugar tan pronto como la sabiduría lo permita. Nosotros no
 
-sabemos qu pudiera motivar que la presente demora sea imperativa; pero el
+sabemos qué pudiera motivar que la presente demora sea imperativa; pero el
 
-Seor lo sabe y eso basta. Te sientes incmodo porque han pasado cerca de dos
+Seńor lo sabe y eso basta. Te sientes incómodo porque han pasado cerca de dos
 
-mil aos desde su ascensin y Jess no ha venido todava; pero t no sabes qu
+mil ańos desde su ascensión y Jesús no ha venido todavía; pero tú no sabes qué
 
-deba ser arreglado y hasta qu punto el lapso era absolutamente necesario para
+debía ser arreglado y hasta qué punto el lapso era absolutamente necesario para
 
-los designios del Seor. Los asuntos que han llenado la gran pausa no son
+los designios del Seńor. Los asuntos que han llenado la gran pausa no son
 
 asuntos insignificantes; los siglos que han transcurrido han estado llenos de
 
 portentos. Mil cosas hubieran podido ser necesarias en el cielo mismo antes de
 
-que se pudiera alcanzar la consumacin de todas las cosas. Cuando nuestro Seor
+que se pudiera alcanzar la consumación de todas las cosas. Cuando nuestro Seńor
 
-venga se ver que vino tan pronto como pudo, hablando a la manera de Su
+venga se verá que vino tan pronto como pudo, hablando a la manera de Su
 
-infinita sabidura, pues l no podra comportarse de otra manera que
+infinita sabiduría, pues Él no podría comportarse de otra manera que
 
-sabiamente, perfectamente, divinamente. l no puede ser motivado por el miedo o
+sabiamente, perfectamente, divinamente. Él no puede ser motivado por el miedo o
 
-la pasin como para actuar apresuradamente como t y yo lo hacemos con
+la pasión como para actuar apresuradamente como tú y yo lo hacemos con
 
-demasiada frecuencia. l mora en el sosiego de la eternidad y en la serenidad
+demasiada frecuencia. Él mora en el sosiego de la eternidad y en la serenidad
 
-de la omnipotencia. No tiene que medir das, ni meses, ni aos, ni lograr hacer
+de la omnipotencia. No tiene que medir días, ni meses, ni ańos, ni lograr hacer
 
 tanto en tal espacio o dejar inconclusa la obra de Su vida; pero de acuerdo al
 
-poder de una vida sin fin l prosigue firmemente adelante, y para l mil aos
+poder de una vida sin fin Él prosigue firmemente adelante, y para Él mil ańos
 
-son como un da. Por tanto tengan la seguridad de que el Seor est viniendo
+son como un día. Por tanto tengan la seguridad de que el Seńor está viniendo
 
-incluso ahora. l est haciendo que todo coincida en ese sentido. Todas las
+incluso ahora. Él está haciendo que todo coincida en ese sentido. Todas las
 
-cosas estn obrando para ese grandioso clmax. En este momento y en todo
+cosas están obrando para ese grandioso clímax. En este momento y en todo
 
-momento desde que se fue, el Seor Jess ha estado regresando. He aqu que
+momento desde que se fue, el Seńor Jesús ha estado regresando. “He aquí que
 
-viene. Viene en camino! l est ms cerca cada hora!
+viene”. ˇViene en camino! ˇÉl está más cerca cada hora!
 
 Y se nos informa que
 
-Su venida estar acompaada por una seal
+Su venida estará acompańada por una seńal
 
 peculiar.
 
-He aqu que viene
+“He aquí que viene
 
 con las
 
-nubes.
+nubes”.
 
 No tendremos ninguna necesidad de preguntar si es el Hijo del
 
 hombre el que ha venido o si ha venido realmente. Esto no va a ser un asunto
 
-secreto. Su venida ser tan manifiesta como aquellas nubes. En el desierto la
+secreto. Su venida será tan manifiesta como aquellas nubes. En el desierto la
 
-presencia de Jehov era conocida por una columna de nube visible de da y por
+presencia de Jehová era conocida por una columna de nube visible de día y por
 
 una igualmente visible columna de fuego de noche. Esa columna de nube era la
 
-seal segura de que el Seor estaba en su lugar santo, morando entre los
+seńal segura de que el Seńor estaba en su lugar santo, morando entre los
 
-querubines. As es la seal de la venida del Seor Cristo.
+querubines. Así es la seńal de la venida del Seńor Cristo.
 
-Todo ojo otear la nube,
+“Todo ojo oteará la nube,
 
-La insignia del Hijo del hombre.
+La insignia del Hijo del hombre”.
 
-As est escrito,
+Así está escrito,
 
-Entonces aparecer la seal del Hijo del Hombre en el cielo; y entonces
+“Entonces aparecerá la seńal del Hijo del Hombre en el cielo; y entonces
 
-lamentarn todas las tribus de la tierra, y vern al Hijo del Hombre viniendo
+lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo
 
-sobre las nubes del cielo, con poder y gran gloria. No puedo citar en este momento
+sobre las nubes del cielo, con poder y gran gloria”. No puedo citar en este momento
 
-todos esos mltiples pasajes de
+todos esos múltiples pasajes de
 
 la
 
 Escritura
 
-en los que se indica que nuestro Seor vendr ya
+en los que se indica que nuestro Seńor vendrá ya
 
-sea sentado en una nube, o con las nubes, o con las nubes del cielo; pero
+sea sentado en una nube, o “con las nubes”, o “con las nubes del cielo”; pero
 
-tales expresiones abundan. Acaso no es para mostrar que Su venida ser
+tales expresiones abundan. żAcaso no es para mostrar que Su venida será
 
 majestuosa?
 
-l convierte a las nubes en
+Él convierte a las nubes en
 
-Sus carruajes. Viene con ejrcitos de ayudantes que son de una clase ms noble
+Sus carruajes. Viene con ejércitos de ayudantes que son de una clase más noble
 
 que la que los monarcas terrenales pueden convocar para que les rindan
 
-homenaje. l viene con nubes de ngeles, querubines, serafines y todos los
+homenaje. Él viene con nubes de ángeles, querubines, serafines y todos los
 
-ejrcitos del cielo. Con todas las fuerzas de la naturaleza, con nube cargada
+ejércitos del cielo. Con todas las fuerzas de la naturaleza, con nube cargada
 
-de truenos y negrura de la tempestad el Seor de todo hace Su triunfante
+de truenos y negrura de la tempestad el Seńor de todo hace Su triunfante
 
-entrada para juzgar al mundo. Las nubes sern el polvo de Sus pies en aquel
+entrada para juzgar al mundo. Las nubes serán el polvo de Sus pies en aquel
 
-terrible da de la batalla cuando se librar de Sus adversarios
+terrible día de la batalla cuando se librará de Sus adversarios
 
-desprendindolos de la tierra con Su trueno, y consumindolos con la llama
+desprendiéndolos de la tierra con Su trueno, y consumiéndolos con la llama
 
-devoradora de Su rayo. Todo el cielo se reunir con su pompa suprema para el
+devoradora de Su rayo. Todo el cielo se reunirá con su pompa suprema para el
 
-grandioso advenimiento del Seor, y toda la terrible grandeza de la naturaleza
+grandioso advenimiento del Seńor, y toda la terrible grandeza de la naturaleza
 
-ser vista entonces en su plenitud. Jess vendr no como el Varn de dolores,
+será vista entonces en su plenitud. Jesús vendrá no como el Varón de dolores,
 
-despreciado y desechado entre los hombres, sino como vino Jehov al Sina en
+despreciado y desechado entre los hombres, sino como vino Jehová al Sinaí en
 
-medio de densas nubes y de una terrible oscuridad, as vendr l, cuya venida
+medio de densas nubes y de una terrible oscuridad, así vendrá Él, cuya venida
 
-ser el juicio final.
+será el juicio final.
 
 Las nubes tienen la
 
-intencin de exponer el
+intención de exponer el
 
-podero,
+poderío,
 
-as
+así
 
-como la majestad de Su venida. Atribuid poder a Dios; sobre Israel es su
+como la majestad de Su venida. “Atribuid poder a Dios; sobre Israel es su
 
-magnificencia, y su poder est en
+magnificencia, y su poder está en
 
 las
 
-nubes
+nubes”
 
-(1). Esa fue la regia seal dada por Daniel, el profeta, en su captulo
+(1). Esa fue la regia seńal dada por Daniel, el profeta, en su capítulo
 
-sptimo, en el versculo trece, Miraba yo en la visin de la noche, y he aqu
+séptimo, en el versículo trece, “Miraba yo en la visión de la noche, y he aquí
 
-con las nubes del cielo vena uno como un hijo de hombre. No menos que divina
+con las nubes del cielo venía uno como un hijo de hombre”. No menos que divina
 
-es la gloria del Hijo de Dios, que una vez no tena dnde reclinar Su cabeza.
+es la gloria del Hijo de Dios, que una vez no tenía dónde reclinar Su cabeza.
 
-Los objetos ms sublimes en la naturaleza ministrarn de manera sumamente
+Los objetos más sublimes en la naturaleza ministrarán de manera sumamente
 
-apropiada a la manifiesta gloria del Rey de los hombres que regresa. He aqu
+apropiada a la manifiesta gloria del Rey de los hombres que regresa. “He aquí
 
-que viene, no con los paales de Su infancia, no con el cansancio de Su edad
+que viene”, no con los pańales de Su infancia, no con el cansancio de Su edad
 
-adulta, no con la vergenza de Su muerte, sino con toda la gloriosa tapicera
+adulta, no con la vergüenza de Su muerte, sino con toda la gloriosa tapicería
 
-de las excelsas cmaras del cielo. Los cortinajes de la sala del trono divino
+de las excelsas cámaras del cielo. Los cortinajes de la sala del trono divino
 
-ayudarn a resaltar Su magnificencia.
+ayudarán a resaltar Su magnificencia.
 
 Las nubes denotan
 
-tambin
+también
 
 el terror de Su venida para los
 
-impos.
+impíos.
 
-Sus santos sern arrebatados juntamente con l en las nubes para
+Sus santos serán arrebatados juntamente con Él en las nubes para
 
-recibir al Seor en el aire; pero para quienes permanecern en la tierra las
+recibir al Seńor en el aire; pero para quienes permanecerán en la tierra las
 
-nubes presentarn su negrura y el horror de las tinieblas. Entonces los
+nubes presentarán su negrura y el horror de las tinieblas. Entonces los
 
-impenitentes contemplarn esta terrible visin: el Hijo del hombre que viene en
+impenitentes contemplarán esta terrible visión: el Hijo del hombre que viene en
 
-las nubes del cielo. Las nubes los llenarn de terror y el terror ser
+las nubes del cielo. Las nubes los llenarán de terror y el terror será
 
-justificado abundantemente, pues esas nubes estn henchidas de venganza y
+justificado abundantemente, pues esas nubes están henchidas de venganza y
 
-estallarn en juicio sobre sus cabezas. Su gran trono blanco, aunque sea
+estallarán en juicio sobre sus cabezas. Su gran trono blanco, aunque sea
 
 brillante y lustroso con esperanza para Su pueblo, con su misma brillantez y
 
-blancura de inmaculada justicia dejar muertas las esperanzas de todos los que
+blancura de inmaculada justicia dejará muertas las esperanzas de todos los que
 
-confiaron que podan vivir en pecado y, pese a ello, quedar sin castigo. He
+confiaron que podían vivir en pecado y, pese a ello, quedar sin castigo. “He
 
-aqu que viene. Viene con las nubes.
+aquí que viene. Viene con las nubes”.
 
 Felices circunstancias
 
-me rodean esta noche porque mi tema no requiere de ningn esfuerzo de la
+me rodean esta noche porque mi tema no requiere de ningún esfuerzo de la
 
-imaginacin de mi parte. Entregarse a la fantasa en un tema as sera una
+imaginación de mi parte. Entregarse a la fantasía en un tema así sería una
 
-desventurada profanacin de un asunto tan sublime que por su propia simplicidad
+desventurada profanación de un asunto tan sublime que por su propia simplicidad
 
-debera quedar claro para todos los corazones. Piensen claramente por un
+debería quedar claro para todos los corazones. Piensen claramente por un
 
-momento hasta que el significado se vuelva real para ustedes. Jesucristo est
+momento hasta que el significado se vuelva real para ustedes. Jesucristo está
 
-viniendo, y viniendo en un inusitado esplendor. Cuando l venga estar
+viniendo, y viniendo en un inusitado esplendor. Cuando Él venga estará
 
 entronizado muy por encima de los ataques de Sus enemigos, de las persecuciones
 
-de los impos y de los escarnios de los escpticos. l est viniendo en las
+de los impíos y de los escarnios de los escépticos. Él está viniendo en las
 
 nubes del cielo y nosotros estaremos entre los testigos de Su advenimiento.
 
@@ -804,247 +806,247 @@ II.
 
 Nuestra
 
-segunda observacin es sta: TODOS VERN
+segunda observación es ésta: TODOS VERÁN
 
 LA VENIDA DE
 
-NUESTRO SEOR.
+NUESTRO SEŃOR.
 
-He aqu que viene con las nubes,
+“He aquí que viene con las nubes,
 
 y todo
 
-ojo le ver, y los que le traspasaron.
+ojo le verá, y los que le traspasaron”.
 
 Yo deduzco de esta
 
-expresin, primero, que
+expresión, primero, que
 
-ser un
+será un
 
-advenimiento literal, y un espectculo real.
+advenimiento literal, y un espectáculo real.
 
 Si el segundo advenimiento
 
-fuera a ser una manifestacin espiritual, a ser percibida por las mentes de los
+fuera a ser una manifestación espiritual, a ser percibida por las mentes de los
 
-hombres, la fraseologa sera, Toda mente lo percibir. Pero no es as;
+hombres, la fraseología sería, “Toda mente lo percibirá”. Pero no es así;
 
-leemos, Todo ojo le ver. Ahora bien, la mente puede contemplar lo espiritual
+leemos, “Todo ojo le verá”. Ahora bien, la mente puede contemplar lo espiritual
 
-pero el ojo slo puede ver lo que es claramente material y visible. El Seor
+pero el ojo sólo puede ver lo que es claramente material y visible. El Seńor
 
-Jesucristo no vendr espiritualmente, pues en ese sentido l est siempre aqu;
+Jesucristo no vendrá espiritualmente, pues en ese sentido Él está siempre aquí;
 
-pero l vendr real y sustancialmente, pues todo ojo le ver, aun esos ojos
+pero Él vendrá real y sustancialmente, pues todo ojo le verá, aun esos ojos
 
-carnales que le contemplaron con odio y le traspasaron. No te alejes ni suees
+carnales que le contemplaron con odio y le traspasaron. No te alejes ni sueńes
 
-dicindote: Oh, hay algn significado espiritual respecto a todo esto. No
+diciéndote: “Oh, hay algún significado espiritual respecto a todo esto”. No
 
-destruyas la enseanza del Espritu Santo con la idea de que habr una
+destruyas la enseńanza del Espíritu Santo con la idea de que habrá una
 
-manifestacin espiritual del Cristo de Dios, sino que un advenimiento literal est
+manifestación espiritual del Cristo de Dios, sino que un advenimiento literal está
 
-fuera de toda duda. Eso sera alterar el registro. El Seor Jess vendr a la
+fuera de toda duda. Eso sería alterar el registro. El Seńor Jesús vendrá a la
 
 tierra una segunda vez tan literalmente como vino una primera vez. El mismo
 
-Cristo que comi parte de un pez asado y un panal de miel despus de que hubo
+Cristo que comió parte de un pez asado y un panal de miel después de que hubo
 
-resucitado de los muertos; el mismo que dijo: Palpad y ved; porque un espritu
+resucitado de los muertos; el mismo que dijo: “Palpad y ved; porque un espíritu
 
-no tiene carne ni huesos, como veis que yo tengo, este mismo Jess, con un
+no tiene carne ni huesos, como veis que yo tengo”, este mismo Jesús, con un
 
 cuerpo material ha de venir en las nubes del cielo. De la misma manera que fue
 
-al cielo, as vendr. Ser visto literalmente. Las palabras no pueden ser
+al cielo, así vendrá. Será visto literalmente. Las palabras no pueden ser
 
-ledas honestamente de ninguna otra manera.
+leídas honestamente de ninguna otra manera.
 
-Todo ojo le ver. S,
+“Todo ojo le verá”. Sí,
 
-yo en verdad espero ver literalmente a mi Seor Jess con estos mis ojos, as
+yo en verdad espero ver literalmente a mi Seńor Jesús con estos mis ojos, así
 
-como lo esperaba ver aquel santo que hace mucho tiempo se qued dormido
+como lo esperaba ver aquel santo que hace mucho tiempo se quedó dormido
 
-creyendo que aunque los gusanos devoraran su cuerpo, en su carne vera a Dios,
+creyendo que aunque los gusanos devoraran su cuerpo, en su carne vería a Dios,
 
-a quien sus ojos le veran por s mismo, y no otro. Habr una resurreccin real
+a quien sus ojos le verían por sí mismo, y no otro. Habrá una resurrección real
 
-del cuerpo, aunque los modernos lo duden: ser una resurreccin tal que veremos
+del cuerpo, aunque los modernos lo duden: será una resurrección tal que veremos
 
-a Jess con nuestros propios ojos. No nos encontraremos en una tierra de
+a Jesús con nuestros propios ojos. No nos encontraremos en una tierra de
 
-sombras y de ensoacin de ficciones flotantes donde podemos percibir pero no
+sombras y de ensońación de ficciones flotantes donde podemos percibir pero no
 
-podemos ver. No seremos nadas insustanciales, misteriosas, vagas e
+podemos ver. No seremos ‘nadas’ insustanciales, misteriosas, vagas e
 
-impalpables; sino que literalmente veremos a nuestro glorioso Seor, cuyo
+impalpables; sino que literalmente veremos a nuestro glorioso Seńor, cuyo
 
-advenimiento no ser ningn espectculo de fantasmas, ninguna danza de sombras.
+advenimiento no será ningún espectáculo de fantasmas, ninguna danza de sombras.
 
-Ningn da ser ms real que el da del juicio; ningn espectculo ser ms
+Ningún día será más real que el día del juicio; ningún espectáculo será más
 
-verdadero que el Hijo del hombre en el trono de Su gloria. Llvense esta
+verdadero que el Hijo del hombre en el trono de Su gloria. Llévense esta
 
-declaracin a casa para que sientan su fuerza. En estos das nos estamos
+declaración a casa para que sientan su fuerza. En estos días nos estamos
 
 alejando a demasiada distancia de los hechos y nos estamos adentrando en el
 
-reino de los mitos y de las opiniones. Todo ojo le ver, y en esto no habr
+reino de los mitos y de las opiniones. “Todo ojo le verá”, y en esto no habrá
 
-ningn engao.
+ningún engańo.
 
 Noten bien que
 
-l ser visto por toda clase de hombres
+Él será visto por toda clase de hombres
 
 vivientes:
 
-todo ojo le ver: el rey y el campesino, los ms ilustrados y
+todo ojo le verá: el rey y el campesino, los más ilustrados y
 
-los ms ignorantes. Los que antes estaban ciegos le vern cuando venga. Yo
+los más ignorantes. Los que antes estaban ciegos le verán cuando venga. Yo
 
-recuerdo a un hombre que naci ciego y que amaba a nuestro Seor muy
+recuerdo a un hombre que nació ciego y que amaba a nuestro Seńor muy
 
-intensamente, que estaba habituado a gloriarse en esto: que sus ojos haban
+intensamente, que estaba habituado a gloriarse en esto: que sus ojos habían
 
-sido reservados para su Seor. Deca l: al primero que ver jams ser el
+sido reservados para su Seńor. Decía él: “al primero que veré jamás será el
 
-Seor Jesucristo. La primera visin que salude a mis ojos recin abiertos ser
+Seńor Jesucristo. La primera visión que salude a mis ojos recién abiertos será
 
-el Hijo del hombre en Su gloria. Hay gran consuelo en esto para todos los que
+el Hijo del hombre en Su gloria”. Hay gran consuelo en esto para todos los que
 
-son ahora incapaces de contemplar el sol. Como todo ojo le ver, t tambin
+son ahora incapaces de contemplar el sol. Como “todo ojo le verá”, tú también
 
-vers al Rey en Su hermosura. Escaso placer es este para los ojos que estn
+verás al Rey en Su hermosura. Escaso placer es este para los ojos que están
 
-llenos de inmundicia y altivez: a ti no te importa ese espectculo y sin
+llenos de inmundicia y altivez: a ti no te importa ese espectáculo y sin
 
-embargo tendrs que verlo ya sea que quieras o no. Hasta aqu has cerrado los
+embargo tendrás que verlo ya sea que quieras o no. Hasta aquí has cerrado los
 
-ojos a las cosas buenas, pero cuando Jess venga
+ojos a las cosas buenas, pero cuando Jesús venga
 
-tendrs
+tendrás
 
 que verlo. Todos los que moran sobre la faz de la tierra,
 
-si no al mismo tiempo, s con la misma certeza, contemplarn al Seor que una
+si no al mismo tiempo, sí con la misma certeza, contemplarán al Seńor que una
 
-vez fue crucificado. No podrn ocultarse, ni esconderlo para que los ojos de
+vez fue crucificado. No podrán ocultarse, ni esconderlo para que los ojos de
 
-ustedes no le vean. Ellos temern esa visin, pero vendr sobre ellos as como
+ustedes no le vean. Ellos temerán esa visión, pero vendrá sobre ellos así como
 
-el sol brilla en el ladrn que se deleita en las tinieblas. Ellos se vern
+el sol brilla en el ladrón que se deleita en las tinieblas. Ellos se verán
 
-obligados a reconocer consternados que estn contemplando al Hijo del hombre; estarn
+obligados a reconocer consternados que están contemplando al Hijo del hombre; estarán
 
-tan sobrecogidos por la visin que no habr forma de negarlo.
+tan sobrecogidos por la visión que no habrá forma de negarlo.
 
-Ser visto por aquellos
+Será visto por aquellos
 
-que han estado muertos desde hace mucho tiempo. Qu espectculo ser para Judas,
+que han estado muertos desde hace mucho tiempo. ˇQué espectáculo será para Judas,
 
-y para Pilato, y para Caifs y para Herodes! Qu visin ser para quienes en
+y para Pilato, y para Caifás y para Herodes! ˇQué visión será para quienes en
 
-vida dijeron que no haba ningn Salvador y que no haba necesidad de uno o que
+vida dijeron que no había ningún Salvador y que no había necesidad de uno o que
 
-Jess era un simple hombre, y que Su sangre no era una propiciacin para el
+Jesús era un simple hombre, y que Su sangre no era una propiciación para el
 
 pecado! Los que se mofaban y le vilipendiaban murieron hace mucho tiempo, pero
 
-todos ellos resucitarn, y resucitarn a esta herencia entre el resto: que
+todos ellos resucitarán, y resucitarán a esta herencia entre el resto: que
 
-vern a Aquel contra quien blasfemaron sentado en las nubes del cielo. Los
+verán a Aquel contra quien blasfemaron sentado en las nubes del cielo. Los
 
 prisioneros se turban a la vista del juez. La trompeta del juicio final no trae
 
-ninguna msica para los odos de los criminales. Pero t tendrs que orla, oh
+ninguna música para los oídos de los criminales. ˇPero tú tendrás que oírla, oh
 
-pecador impenitente! Aun en tu tumba tendrs que or la voz del Hijo de Dios, y
+pecador impenitente! Aun en tu tumba tendrás que oír la voz del Hijo de Dios, y
 
 vivir, y salir de la tumba para recibir lo que hayas hecho mientras estabas en
 
-el cuerpo, sea bueno o sea malo. La muerte no puede ocultarte, ni la bveda del
+el cuerpo, sea bueno o sea malo. La muerte no puede ocultarte, ni la bóveda del
 
-sepulcro puede esconderte, ni la podredumbre y la corrupcin pueden liberarte.
+sepulcro puede esconderte, ni la podredumbre y la corrupción pueden liberarte.
 
-En tu cuerpo ests obligado a ver al Seor que te juzgar tanto a ti como a tus
+En tu cuerpo estás obligado a ver al Seńor que te juzgará tanto a ti como a tus
 
-compaeros.
+compańeros.
 
 Se menciona que
 
-le vern especialmente quienes le
+le verán especialmente quienes le
 
 traspasaron.
 
-En esto est incluido todo el conjunto de hombres que le clav
+En esto está incluido todo el conjunto de hombres que le clavó
 
 al madero, junto con aquellos que tomaron la lanza y le abrieron Su costado; en
 
-verdad, todos los que tuvieron que ver con Su cruel crucifixin. Incluye a todos
+verdad, todos los que tuvieron que ver con Su cruel crucifixión. Incluye a todos
 
-esos, pero tambin abarca a muchos ms. Y los que le traspasaron no son de
+esos, pero también abarca a muchos más. “Y los que le traspasaron” no son de
 
-ninguna manera unos cuantos. Quines le han traspasado? Pues bien, aquellos
+ninguna manera unos cuantos. żQuiénes le han traspasado? Pues bien, aquellos
 
 que una vez profesaron amarle pero que se han regresado al mundo. A esos que una
 
-vez corran bien, Qu los estorb? Y ahora usan sus lenguas para hablar en
+vez corrían bien, “żQué los estorbó?” Y ahora usan sus lenguas para hablar en
 
-contra de Cristo a quien profesaron amar una vez. Tambin le han traspasado
+contra de Cristo a quien profesaron amar una vez. También le han traspasado
 
 aquellos cuyas vidas inconsistentes han acarreado deshonra al sagrado nombre de
 
-Jess. Tambin le han traspasado aquellos que rehusaron Su amor, que ahogaron sus
+Jesús. También le han traspasado aquellos que rehusaron Su amor, que ahogaron sus
 
-conciencias y rechazaron sus reprensiones. Ay, que tantos entre ustedes estn
+conciencias y rechazaron sus reprensiones. ˇAy, que tantos entre ustedes estén
 
-traspasndole ahora por su vil descuido de Su salvacin! Aquellos que iban cada
+traspasándole ahora por su vil descuido de Su salvación! Aquellos que iban cada
 
-domingo a or acerca de l, y que siguieron siendo oidores nicamente, destruyendo
+domingo a oír acerca de Él, y que siguieron siendo oidores únicamente, destruyendo
 
 sus propias almas antes que ceder a Su infinito amor: estos traspasaron Su
 
-tierno corazn. Queridos oyentes, yo deseara poder argumentar eficazmente con
+tierno corazón. Queridos oyentes, yo desearía poder argumentar eficazmente con
 
-ustedes esta noche, de manera que no siguieran perteneciendo por ms tiempo al
+ustedes esta noche, de manera que no siguieran perteneciendo por más tiempo al
 
-nmero de aquellos que le traspasaron. Si miran a Jess ahora, y lamentan por su
+número de aquellos que le traspasaron. Si miran a Jesús ahora, y lamentan por su
 
-pecado, l quitar su pecado y entonces no se avergonzarn de verle en aquel
+pecado, Él quitará su pecado y entonces no se avergonzarán de verle en aquel
 
-da. Aunque le traspasaron, sern capaces de cantar: Al que nos am, y nos
+día. Aunque le traspasaron, serán capaces de cantar: “Al que nos amó, y nos
 
-lav de nuestros pecados con su sangre. Pero recuerden que si siguieran
+lavó de nuestros pecados con su sangre”. Pero recuerden que si siguieran
 
-traspasndole y continuaran luchando en contra de l, todava tendran que
+traspasándole y continuaran luchando en contra de Él, todavía tendrían que
 
-verle en aquel da, para su terror y desesperacin. Ustedes le vern y yo
+verle en aquel día, para su terror y desesperación. Ustedes le verán y yo
 
-tambin, por mal que nos portemos. Y qu horror nos provocar esa visin!
+también, por mal que nos portemos. ˇY qué horror nos provocará esa visión!
 
-Yo no me senta apto
+Yo no me sentía apto
 
-para predicarles esta noche, pero el ltimo domingo dije que predicara esta
+para predicarles esta noche, pero el último domingo dije que predicaría esta
 
-noche si senta que poda hacerlo de alguna manera. Casi no pareca posible,
+noche si sentía que podía hacerlo de alguna manera. Casi no parecía posible,
 
-pero no poda hacer menos que mantener mi palabra; tambin anhelaba estar con
+pero no podía hacer menos que mantener mi palabra; también anhelaba estar con
 
 ustedes por causa de ustedes mismos pues pudiera ser que quedaran pocas ocasiones
 
 en las que se me permita predicar el Evangelio entre ustedes. Con frecuencia
 
-estoy enfermo; quin sabe cun pronto voy a llegar a mi fin! Yo quisiera usar
+estoy enfermo; ˇquién sabe cuán pronto voy a llegar a mi fin! Yo quisiera usar
 
-toda la fortaleza fsica y la oportunidad providencial que me quedan. Nunca
+toda la fortaleza física y la oportunidad providencial que me quedan. Nunca
 
-sabemos cun pronto podemos ser cortados, y entonces nos alejamos para siempre
+sabemos cuán pronto podemos ser cortados, y entonces nos alejamos para siempre
 
-de la oportunidad de beneficiar a nuestros semejantes. Sera una lstima tener
+de la oportunidad de beneficiar a nuestros semejantes. Sería una lástima tener
 
 que partir sin haber aprovechado una oportunidad de hacer el bien. Entonces
 
@@ -1052,21 +1054,21 @@ quisiera argumentar apasionadamente con ustedes bajo la sombra de esta gran
 
 verdad: yo quisiera exhortarlos a que se preparen, puesto que tanto ustedes
 
-como yo contemplaremos al Seor en el da de Su venida. S, yo voy a estar en
+como yo contemplaremos al Seńor en el día de Su venida. Sí, yo voy a estar en
 
-esa gran multitud. Ustedes tambin estarn all. Cmo se sentirn? Tal vez no
+esa gran multitud. Ustedes también estarán allí. żCómo se sentirán? Tal vez no
 
-estn acostumbrados a asistir a un lugar de adoracin; pero ustedes estarn
+estén acostumbrados a asistir a un lugar de adoración; pero ustedes estarán
 
-all y el lugar ser muy solemne para ustedes. Pudieran ausentarse de las
+allí y el lugar será muy solemne para ustedes. Pudieran ausentarse de las
 
-asambleas de los santos, pero no sern capaces de ausentarse de la asamblea de
+asambleas de los santos, pero no serán capaces de ausentarse de la asamblea de
 
-aquel da. T estars all, en esa gran multitud y vers a Jess el Seor tan
+aquel día. Tú estarás allí, en esa gran multitud y verás a Jesús el Seńor tan
 
-ciertamente como si fueras la nica persona delante de l, y l te ver a ti
+ciertamente como si fueras la única persona delante de Él, y Él te verá a ti
 
-tan ciertamente como si fueras la nica persona que fue convocada a su
+tan ciertamente como si fueras la única persona que fue convocada a su
 
 tribunal.
 
@@ -1074,7 +1076,7 @@ Al concluir con mi
 
 segundo encabezado te pido amablemente que pienses en todo esto. Repite en
 
-silencio las palabras, Todo ojo le ver, y los que le traspasaron.
+silencio las palabras, “Todo ojo le verá, y los que le traspasaron”.
 
 III.
 
@@ -1082,135 +1084,135 @@ Y
 
 ahora tengo que concluir con el tercer encabezado, que es doloroso, pero que
 
-necesita ser explicado: SU VENIDA CAUSAR GRAN AFLICCIN. Qu dice el texto
+necesita ser explicado: SU VENIDA CAUSARÁ GRAN AFLICCIÓN. żQué dice el texto
 
-acerca de Su venida? Todos los linajes de la tierra harn lamentacin por l.
+acerca de Su venida? “Todos los linajes de la tierra harán lamentación por él”.
 
-Todos los linajes de la
+“Todos los linajes de la
 
-tierra. Entonces
+tierra”. Entonces
 
-esta afliccin ser muy
+esta aflicción será muy
 
 general.
 
-T pensabas, tal vez, que cuando Cristo viniera, vendra a un
+Tú pensabas, tal vez, que cuando Cristo viniera, vendría a un
 
-mundo alegre que le daba la bienvenida con cantos y msica. T pensabas que
+mundo alegre que le daba la bienvenida con cantos y música. Tú pensabas que
 
-podra haber unas cuantas personas impas que seran destruidas por el aliento
+podría haber unas cuantas personas impías que serían destruidas por el aliento
 
-de Su boca, pero que la mayora de la humanidad le recibira con deleite. Mira
+de Su boca, pero que la mayoría de la humanidad le recibiría con deleite. Mira
 
-cun diferente: Todos los linajes de la tierra, esto es, toda clase de
+cuán diferente: “Todos los linajes de la tierra”, esto es, toda clase de
 
 hombres que pertenecen a la tierra; todos los hombres terrenales, hombre
 
-provenientes de todas las naciones y linajes y lenguas llorarn y se
+provenientes de todas las naciones y linajes y lenguas llorarán y se
 
-lamentarn, y crujirn sus dientes a Su venida. Oh, seores, esta es una
+lamentarán, y crujirán sus dientes a Su venida. ˇOh, seńores, esta es una
 
-triste perspectiva! No podemos profetizar cosas halageas. Qu piensan de
+triste perspectiva! No podemos profetizar cosas halagüeńas. żQué piensan de
 
 esto?
 
 Y, en seguida,
 
-esta afliccin ser muy grande.
+esta aflicción será muy grande.
 
-Harn
+Harán
 
-lamentacin. No puedo expresar en ingls el pleno significado de esa palabra
+lamentación. No puedo expresar en inglés el pleno significado de esa palabra
 
-que es sumamente expresiva. Si la pronuncian detenidamente transmitir su
+que es sumamente expresiva. Si la pronuncian detenidamente transmitirá su
 
 propio significado. Es como cuando los hombres se retuercen las manos y estallan
 
 en un fuerte grito o como cuando las mujeres orientales, en su angustia, rasgan
 
-sus ropas y alzan sus voces con las notas ms fnebres. Todos los linajes de la
+sus ropas y alzan sus voces con las notas más fúnebres. Todos los linajes de la
 
-tierra harn lamentacin: se lamentarn como una madre se lamenta por su hijo
+tierra harán lamentación: se lamentarán como una madre se lamenta por su hijo
 
-muerto; se lamentarn como un hombre podra lamentarse al verse encarcelado sin
+muerto; se lamentarán como un hombre podría lamentarse al verse encarcelado sin
 
-esperanza y condenado a morir. As ser el dolor desesperanzado de todos los
+esperanza y condenado a morir. Así será el dolor desesperanzado de todos los
 
-linajes de la tierra ante la visin del Cristo en las nubes; aunque sigan
+linajes de la tierra ante la visión del Cristo en las nubes; aunque sigan
 
-siendo impenitentes no sern capaces de quedarse callados; no sern capaces de
+siendo impenitentes no serán capaces de quedarse callados; no serán capaces de
 
-reprimir u ocultar su angustia, sino que se lamentarn o darn abiertamente
+reprimir u ocultar su angustia, sino que se lamentarán o darán abiertamente
 
-rienda suelta a su horror. Qu sonido ser ese que subir al alto cielo cuando
+rienda suelta a su horror. ˇQué sonido será ese que subirá al alto cielo cuando
 
-Jess se siente en la nube y en la plenitud de Su poder los convoque a juicio!
+Jesús se siente en la nube y en la plenitud de Su poder los convoque a juicio!
 
-Harn lamentacin por l.
+“Harán lamentación por él”.
 
-Se oir tu voz en esa
+żSe oirá tu voz en esa
 
-lamentacin? Se quebrantar tu corazn en esa consternacin general? Cmo
+lamentación? żSe quebrantará tu corazón en esa consternación general? żCómo
 
-escapars? Si eres uno de los linajes de la tierra y sigues siendo impenitente,
+escaparás? Si eres uno de los linajes de la tierra y sigues siendo impenitente,
 
-lamentars con el resto de ellos. A menos que acudas presurosamente a Cristo
+lamentarás con el resto de ellos. A menos que acudas presurosamente a Cristo
 
-ahora y te ocultes en l, y as te conviertas en uno de los del linaje del
+ahora y te ocultes en Él, y así te conviertas en uno de los del linaje del
 
-cielo uno de Sus escogidos y uno de los lavados con sangre que alabarn Su
+cielo –uno de Sus escogidos y uno de los lavados con sangre que alabarán Su
 
-nombre por lavarlos de sus pecados- a menos que hagas eso, habr lamentos en el
+nombre por lavarlos de sus pecados- a menos que hagas eso, habrá lamentos en el
 
-tribunal de Cristo, y t estars lamentndote.
+tribunal de Cristo, y tú estarás lamentándote.
 
-Entonces queda muy claro que los hombres no sern universalmente
+Entonces queda muy claro que los hombres no serán universalmente
 
 convertidos cuando Cristo venga;
 
 porque si lo fueran, no
 
-lamentaran. Entonces elevaran el grito: Bienvenido, bienvenido, Hijo de
+lamentarían. Entonces elevarían el grito: “ˇBienvenido, bienvenido, Hijo de
 
-Dios! La venida de Cristo sera como lo expresa el himno:
+Dios!” La venida de Cristo sería como lo expresa el himno:
 
-Escuchen esas explosivas aclamaciones!
+“ˇEscuchen esas explosivas aclamaciones!
 
-Escuchen esos resonantes acordes triunfantes!
+ˇEscuchen esos resonantes acordes triunfantes!
 
-Jess asume la ms excelsa posicin.
+Jesús asume la más excelsa posición.
 
-Oh, cunto gozo proporciona el espectculo!
+ˇOh, cuánto gozo proporciona el espectáculo!”
 
 Esas aclamaciones
 
 provienen de Su pueblo. Pero de acuerdo al texto la multitud de la humanidad
 
-llorar y har lamentacin, y por tanto, ellos no estarn entre Su pueblo.
+llorará y hará lamentación, y por tanto, ellos no estarán entre Su pueblo.
 
-Entonces no busquen la salvacin posponindola para un da venidero, sino crean
+Entonces no busquen la salvación posponiéndola para un día venidero, sino crean
 
-en Jess ahora, y encuentren en l a su Salvador de inmediato. Si te gozas en
+en Jesús ahora, y encuentren en Él a su Salvador de inmediato. Si te gozas en
 
-l ahora te regocijars ms en l en aquel da; pero si tienes motivos para
+Él ahora te regocijarás más en Él en aquel día; pero si tienes motivos para
 
-hacer lamentacin a Su venida, ser bueno que te lamentes de inmediato.
+hacer lamentación a Su venida, será bueno que te lamentes de inmediato.
 
 Noten una verdad
 
-adicional. Es muy cierto que cuando Jess venga en esos ltimos das
+adicional. Es muy cierto que cuando Jesús venga en esos últimos días
 
-los hombres no estarn esperando grandes
+los hombres no estarán esperando grandes
 
-cosas de l.
+cosas de Él.
 
-T sabes la pltica que sostienen en estos das acerca de una
+Tú sabes la plática que sostienen en estos días acerca de “una
 
-esperanza ms grande. Hoy engaan a la gente con el intil sueo de un
+esperanza más grande”. Hoy engańan a la gente con el inútil sueńo de un
 
-arrepentimiento y de una restauracin despus de la muerte, una ficcin que no
+arrepentimiento y de una restauración después de la muerte, una ficción que no
 
-est sustentada en la ms pequea tilde de
+está sustentada en la más pequeńa tilde de
 
 la Escritura.
 
@@ -1220,113 +1222,113 @@ estos linajes de
 
 la tierra esperaban que cuando Cristo viniera todos
 
-moriran
+morirían
 
-y dejaran de ser, eso sera motivo de regocijo porque gracias a ello escaparan
+y dejarían de ser, eso sería motivo de regocijo porque gracias a ello escaparían
 
-de la ira de Dios. No dira cada incrdulo: sera una consumacin deseable
+de la ira de Dios. żNo diría cada incrédulo: “sería una consumación deseable
 
-ardientemente? Si pensaban que a Su venida habra una restauracin universal y
+ardientemente”? Si pensaban que a Su venida habría una restauración universal y
 
-una liberacin general de la crcel de almas encerradas en prisin por largo
+una liberación general de la cárcel de almas encerradas en prisión por largo
 
-tiempo, haran lamentacin? Si se pudiera suponer que pudiera venir para
+tiempo, żharían lamentación? Si se pudiera suponer que pudiera venir para
 
-proclamar una restauracin general no haran lamentacin, sino que gritaran de
+proclamar una restauración general no harían lamentación, sino que gritarían de
 
-jbilo. Ah, no! Es debido a que Su venida es para los impenitentes negra con
+júbilo. ˇAh, no! Es debido a que Su venida es para los impenitentes negra con
 
-una vaca desesperacin que van a lamentarse por causa de l. Si Su primera
+una vacía desesperación que van a lamentarse por causa de Él. Si Su primera
 
-venida no te da vida eterna, Su segunda venida no lo har. Si no te escondes en
+venida no te da vida eterna, Su segunda venida no lo hará. Si no te escondes en
 
-Sus heridas cuando viene como tu Salvador, no habr ningn escondite para ti
+Sus heridas cuando viene como tu Salvador, no habrá ningún escondite para ti
 
-cuando venga como tu Juez. Ellos van a llorar y a hacer lamentacin porque,
+cuando venga como tu Juez. Ellos van a llorar y a hacer lamentación porque,
 
-habiendo rechazado al Seor Jess, le han dado la espalda a la ltima
+habiendo rechazado al Seńor Jesús, le han dado la espalda a la última
 
 posibilidad de esperanza.
 
-Por qu hacen
+żPor qué hacen
 
-lamentacin
+lamentación
 
-por l?
+por él?
 
-No ser porque
+żNo será porque
 
-le vern en Su gloria, y recordarn que lo menospreciaron y le desecharon? Vern
+le verán en Su gloria, y recordarán que lo menospreciaron y le desecharon? Verán
 
-que viene para juzgarlos y recordarn que una vez estuvo a su puerta con
+que viene para juzgarlos y recordarán que una vez estuvo a su puerta con
 
-misericordia en Sus manos, y deca: breme, pero no quisieron admitirlo.
+misericordia en Sus manos, y decía: “Ábreme”, pero no quisieron admitirlo.
 
 Rechazaron Su sangre: rehusaron Su justicia: menospreciaron Su nombre sagrado;
 
 y ahora tienen que rendir cuenta de esta maldad. Lo alejaron con escarnio, y
 
-ahora, cuando venga, descubrirn que no pueden menospreciarlo ms. Los das de
+ahora, cuando venga, descubrirán que no pueden menospreciarlo más. Los días de
 
-juegos de nios y de necia demora han terminado; y ahora tienen que rendir
+juegos de nińos y de necia demora han terminado; y ahora tienen que rendir
 
-solemnemente cuentas de su vida. Miren, los libros son abiertos! Estn
+solemnemente cuentas de su vida. ˇMiren, los libros son abiertos! Están
 
-cubiertos de consternacin al recordar sus pecados, y saben que estn
+cubiertos de consternación al recordar sus pecados, y saben que están
 
 registrados con una pluma fiel. Tienen que rendir cuentas; y sin ser lavados y
 
-perdonados no pueden rendir esas cuentas sin saber que la sentencia ser:
+perdonados no pueden rendir esas cuentas sin saber que la sentencia será:
 
-Apartaos de m, malditos. Esta es la razn por la que lloran y hacen
+“Apartaos de mí, malditos”. Esta es la razón por la que lloran y hacen
 
-lamentacin por l.
+lamentación por Él.
 
 Oh, almas, mi amor natural
 
 por la comodidad me conduce a desear que pudiera predicarles cosas agradables;
 
-pero esas cosas no estn en mi comisin. Sin embargo casi no necesito desear predicar
+pero esas cosas no están en mi comisión. Sin embargo casi no necesito desear predicar
 
-un evangelio benvolo, pues tantos ya lo estn haciendo a costa de ustedes. Como
+un evangelio benévolo, pues tantos ya lo están haciendo a costa de ustedes. Como
 
-amo a sus almas inmortales no me atrevo a adularlos. Como tendr que responder
+amo a sus almas inmortales no me atrevo a adularlos. Como tendré que responder
 
-por ello en el ltimo gran da, tengo que decirles la verdad.
+por ello en el último gran día, tengo que decirles la verdad.
 
-Ustedes, pecadores, busquen el rostro de Aquel
+“Ustedes, pecadores, busquen el rostro de Aquel
 
-Cuya ira no pueden soportar.
+Cuya ira no pueden soportar”.
 
 Busquen la misericordia
 
-de Dios esta noche. Yo he venido adolorido aqu para implorarles que se
+de Dios esta noche. Yo he venido adolorido aquí para implorarles que se
 
-reconcilien con Dios. Honrad al Hijo, para que no se enoje, y perezcis en el
+reconcilien con Dios. “Honrad al Hijo, para que no se enoje, y perezcáis en el
 
-camino; pues se inflama de pronto su ira. Bienaventurados todos los que en l
+camino; pues se inflama de pronto su ira. Bienaventurados todos los que en él
 
-confan.
+confían”.
 
 Pero si no quieren
 
-recibir a mi Seor, l viene de todas maneras para eso. l est en camino
+recibir a mi Seńor, Él viene de todas maneras para eso. Él está en camino
 
-ahora, y cuando venga ustedes harn lamentacin por l. Oh, que lo hicieran su
+ahora, y cuando venga ustedes harán lamentación por Él. ˇOh, que lo hicieran su
 
-amigo y entonces lo recibiran con jbilo! Por qu habran de morir? l da
+amigo y entonces lo recibirían con júbilo! żPor qué habrían de morir? Él da
 
-vida a todos aquellos que confan en l. Crean y vivan.
+vida a todos aquellos que confían en Él. Crean y vivan.
 
 Que Dios salve sus almas
 
-esta noche, y l recibir la gloria. Amn.
+esta noche, y Él recibirá la gloria. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Apocalipsis 1.
+leída antes del sermón: Apocalipsis 1.
 
 Nota
 
@@ -1336,15 +1338,15 @@ del traductor:
 
 nubes
 
-en cursiva est tomada de la traduccin ofrecida por
+en cursiva está tomada de la traducción ofrecida por
 
 la Biblia
 
 Americana
 
-San Jernimo.
+San Jerónimo.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 10/Julio/2014
 

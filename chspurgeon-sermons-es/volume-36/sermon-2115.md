@@ -1,10 +1,10 @@
 # Sermón 2115 | Sermón 2115
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-La Sequa
+La Sequía
 
 de
 
@@ -20,11 +20,11 @@ la Gracia
 
 y
 
-Su Leccin.
+Su Lección.
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -32,81 +32,81 @@ DOMINGO 10 DE
 
 NOVIEMBRE, 1889
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
-Y SELECCIONADO PARA SER LEDO EL DOMINGO 24 DE
+Y SELECCIONADO PARA SER LEÍDO EL DOMINGO 24 DE
 
 NOVIEMBRE, 1889.
 
-Los nobles
+“Los nobles
 
 enviaron sus criados al agua; vinieron a las lagunas, y no hallaron agua;
 
-volvieron con sus vasijas vacas; se avergonzaron, se confundieron, y cubrieron
+volvieron con sus vasijas vacías; se avergonzaron, se confundieron, y cubrieron
 
-sus cabezas. Porque se resquebraj la tierra por no haber llovido en el pas,
+sus cabezas. Porque se resquebrajó la tierra por no haber llovido en el país,
 
-estn confusos los labradores, cubrieron sus cabezas. Hay entre los dolos de
+están confusos los labradores, cubrieron sus cabezas. żHay entre los ídolos de
 
-las naciones quien haga llover? Y darn los cielos lluvias? No eres t,
+las naciones quien haga llover? żY darán los cielos lluvias? żNo eres tú,
 
-Jehov, nuestro Dios? En ti, pues, esperamos, pues t hiciste todas estas
+Jehová, nuestro Dios? En ti, pues, esperamos, pues tú hiciste todas estas
 
-cosas. Jeremas 14: 3, 4, 22.
+cosas”. Jeremías 14: 3, 4, 22.
 
-El deseo de mi corazn y
+El deseo de mi corazón y
 
-mi oracin sincera es que muchas de las personas presentes en esta casa puedan
+mi oración sincera es que muchas de las personas presentes en esta casa puedan
 
-decir con el profeta: En ti, pues, esperamos. Yo no me quedara satisfecho por
+decir con el profeta: “En ti, pues, esperamos”. Yo no me quedaría satisfecho por
 
-haber predicado un discurso que ustedes hayan odo o que incluso hayan
+haber predicado un discurso que ustedes hayan oído o que incluso hayan
 
-aprobado, a menos que proviniera de l este fruto delicioso: que quienes estn
+aprobado, a menos que proviniera de él este fruto delicioso: que quienes están
 
-alejados de Dios sean conducidos a acercarse a l, y que digan, en verdad y de
+alejados de Dios sean conducidos a acercarse a Él, y que digan, en verdad y de
 
-todo corazn: En ti, pues, esperamos. nicamente en Dios pueden los hombres vivir
+todo corazón: “En ti, pues, esperamos”. Únicamente en Dios pueden los hombres vivir
 
-felizmente y, si quieren ser rescatados de su estado cado, es al Seor su Dios
+felizmente y, si quieren ser rescatados de su estado caído, es al Seńor su Dios
 
-a quien han de volverse. Oh, que esperaran en l!
+a quien han de volverse. ˇOh, que esperaran en Él!
 
-En el ltimo versculo
+En el último versículo
 
-tenemos la palabra pues, que muestra que quienes hablaban haban llegado a
+tenemos la palabra “pues”, que muestra que quienes hablaban habían llegado a
 
-esa conclusin a travs de un razonamiento. En realidad ellos se haban visto
+esa conclusión a través de un razonamiento. En realidad ellos se habían visto
 
-forzados a adoptar esa resolucin por causa de un argumento muy doloroso y
+forzados a adoptar esa resolución por causa de un argumento muy doloroso y
 
-personal que Dios haba colocado delante de ellos en el orden de Su
+personal que Dios había colocado delante de ellos en el orden de Su
 
 providencia. Tanto por su sed como por su incapacidad de encontrar agua en alguna
 
-parte, el Seor los haba conducido a decir: En ti, pues, esperamos. Confo
+parte, el Seńor los había conducido a decir: “En ti, pues, esperamos”. Confío
 
-que no ser necesario que seamos exhortados a la conversin mediante unos
+que no será necesario que seamos exhortados a la conversión mediante unos
 
-sufrimientos tan terribles. No seis como el caballo, o como el mulo, sin
+sufrimientos tan terribles. “No seáis como el caballo, o como el mulo, sin
 
-entendimiento. Vengan voluntariamente, ya que el argumento para venir es claro
+entendimiento”. Vengan voluntariamente, ya que el argumento para venir es claro
 
 y convincente.
 
-Me gustara que esta
+Me gustaría que esta
 
-maana recorran mentalmente todo el proceso a travs del cual pasaron los
+mańana recorran mentalmente todo el proceso a través del cual pasaron los
 
-israelitas para llegar a esa agraciada conclusin: En ti, pues, esperamos.
+israelitas para llegar a esa agraciada conclusión: “En ti, pues, esperamos”.
 
 Comencemos de inmediato
 
-con el argumento, pidindole a Dios que persuada mediante Su buen Espritu a
+con el argumento, pidiéndole a Dios que persuada mediante Su buen Espíritu a
 
-todos los corazones, para que podamos llegar a la conclusin deseada.
+todos los corazones, para que podamos llegar a la conclusión deseada.
 
 I.
 
@@ -114,33 +114,33 @@ Primero,
 
 consideren que el HOMBRE ES UNA CRIATURA MUY DEPENDIENTE. Es, en algunos
 
-sentidos, la criatura ms dependiente que Dios ha creado, pues el rango de sus
+sentidos, la criatura más dependiente que Dios ha creado, pues el rango de sus
 
-necesidades es muy amplio, y en mil puntos es dependiente de algo que est
+necesidades es muy amplio, y en mil puntos es dependiente de algo que está
 
-fuera de s mismo. Toda la creacin existe por la voluntad del Seor, y si Su
+fuera de sí mismo. Toda la creación existe por la voluntad del Seńor, y si Su
 
 voluntad cesara de enviar poder sustentador para mantener en la existencia a
 
-las cosas creadas, dejaran de existir. Este gran mundo el sol, la luna y las
+las cosas creadas, dejarían de existir. Este gran mundo –el sol, la luna y las
 
-estrellas- se disolvera por completo y, as como la espuma del instante se
+estrellas- se disolvería por completo y, así como la espuma del instante se
 
-disuelve en la ola que la transporta, as se perdera para siempre. Si el Seor
+disuelve en la ola que la transporta, así se perdería para siempre. Si el Seńor
 
-as lo quisiera, el universo desaparecera como esa burbuja que tu hijo soplaba
+así lo quisiera, el universo desaparecería como esa burbuja que tu hijo soplaba
 
-hace slo un instante, y que ahora se ha esfumado sin dejar rastro alguno tras
+hace sólo un instante, y que ahora se ha esfumado sin dejar rastro alguno tras
 
-de s. Slo Dios existe por Su propio poder. Todo lo dems depende de l.
+de sí. Sólo Dios existe por Su propio poder. Todo lo demás depende de Él.
 
-La vida, la muerte, el infierno y mundos desconocidos
+“La vida, la muerte, el infierno y mundos desconocidos
 
 Penden de Su firme decreto:
 
-l no se sienta en ningn trono precario,
+Él no se sienta en ningún trono precario,
 
-Ni pide permiso para existir.
+Ni pide permiso para existir”.
 
 El hombre, como una criatura viva, es peculiarmente dependiente de Dios
 
@@ -148,17 +148,17 @@ en cuanto a las cosas temporales.
 
 Vemos en el texto que
 
-cuando el roco dej de caer, y las lluvias fueron retenidas, los infelices
+cuando el rocío dejó de caer, y las lluvias fueron retenidas, los infelices
 
-habitantes de Palestina sufrieron una sequa, y esa sequa trajo consigo la
+habitantes de Palestina sufrieron una sequía, y esa sequía trajo consigo la
 
-desaparicin de la cosecha, el hambre, la enfermedad y la muerte. Como reza un
+desaparición de la cosecha, el hambre, la enfermedad y la muerte. Como reza un
 
-dicho comn nuestro: la gente mora como moscas. Caan por doquier por miles,
+dicho común nuestro: ‘la gente moría como moscas’. Caían por doquier por miles,
 
-desfallecientes, hambrientos, condenados. Cun dbil es el hilo del que pende
+desfallecientes, hambrientos, condenados. ˇCuán débil es el hilo del que pende
 
-la vida humana! El agua, aunque en s misma sea inestable, es necesaria para el
+la vida humana! El agua, aunque en sí misma sea inestable, es necesaria para el
 
 florecimiento de la vida humana, y sin ella, el hombre se muere. Muchos
 
@@ -168,245 +168,245 @@ propias vestiduras con ellas, pero nosotros tenemos que estar endeudados con una
 
 planta o con una oveja, para cubrir nuestra desnudez. Muchas otras criaturas
 
-estn dotadas de suficiente fuerza fsica para ganar su alimento teniendo que
+están dotadas de suficiente fuerza física para ganar su alimento teniendo que
 
 luchar, pero nosotros tenemos que producir nuestro propio alimento del suelo.
 
-Contemplen cmo venimos al mundo, indefensos y dbiles, absolutamente
+Contemplen cómo venimos al mundo, indefensos y débiles, absolutamente
 
-dependientes de los dems; y cuando se desarrolla nuestra fortaleza y se
+dependientes de los demás; y cuando se desarrolla nuestra fortaleza y se
 
-perfecciona nuestra condicin humana, slo entramos en otra fase de dependencia
+perfecciona nuestra condición humana, sólo entramos en otra fase de dependencia
 
-de nuestro entorno para nuestra alimentacin; as pues, para nuestra vida,
+de nuestro entorno para nuestra alimentación; así pues, para nuestra vida,
 
 dependemos de las gotas de lluvia. No podemos producir alimento de la tierra
 
-sin el roco y la lluvia. Sin importar cun ingeniosamente hayan preparado su
+sin el rocío y la lluvia. Sin importar cuán ingeniosamente hayan preparado su
 
-terreno, y cun cuidadosamente hayan seleccionado su semilla, todo saldr mal
+terreno, y cuán cuidadosamente hayan seleccionado su semilla, todo saldrá mal
 
-sin la lluvia del cielo. Aunque brotara su grano, rehusara convertirse en
+sin la lluvia del cielo. Aunque brotara su grano, rehusaría convertirse en
 
-espiga si los cielos estuvieran secos. Tampoco ustedes podran producir por s
+espiga si los cielos estuvieran secos. Tampoco ustedes podrían producir por sí
 
-mismos ni un solo aguacero y ni siquiera una sola gota de roco. Si Dios retiene
+mismos ni un solo aguacero y ni siquiera una sola gota de rocío. Si Dios retiene
 
-la lluvia, qu podra hacer el labrador? Citar a una reunin del parlamento;
+la lluvia, żqué podría hacer el labrador? żCitar a una reunión del parlamento;
 
-reunir a un snodo de cientficos; convocar a un cnclave de prncipes? Qu
+reunir a un sínodo de científicos; convocar a un cónclave de príncipes? żQué
 
-podran hacer? Sus actos, sus teoras y sus mandamientos son en vano. Cuando
+podrían hacer? Sus actos, sus teorías y sus mandamientos son en vano. Cuando
 
-los cielos son de bronce, la tierra es de hierro; cuando Dios est airado, las
+los cielos son de bronce, la tierra es de hierro; cuando Dios está airado, las
 
-nubes no esparcen ninguna bendicin sobre nuestro campo y la tierra no da su producto
+nubes no esparcen ninguna bendición sobre nuestro campo y la tierra no da su producto
 
 para el labrador.
 
-S, y la vida misma se
+Sí, y la vida misma se
 
-esfumara conforme el alimento de vida escaseara. Sera un clculo instructivo -siempre
+esfumaría conforme el alimento de vida escaseara. Sería un cálculo instructivo -siempre
 
-y cuando pudiera elaborarse con precisin- estimar cunta reserva de alimentos hay
+y cuando pudiera elaborarse con precisión- estimar cuánta reserva de alimentos hay
 
 atesorada sobre la superficie de la tierra en un momento determinado. Si todas
 
 las cosechas fueran a fallar a partir de esta fecha, si no hubiese cosechas en
 
-Australia durante nuestro invierno, ni cosechas a principios del ao en
+Australia durante nuestro invierno, ni cosechas a principios del ańo en
 
 la India
 
 ni en las regiones
 
-clidas, si no hubiese cosechas en Amrica ni Europa, yo he sido informado que,
+cálidas, si no hubiese cosechas en América ni Europa, yo he sido informado que,
 
-para el tiempo de nuestros meses de cosecha, no habra en la faz de la tierra
+para el tiempo de nuestros meses de cosecha, no habría en la faz de la tierra
 
-suficiente alimento que durara ms de seis semanas. Cun dependientes somos de
+suficiente alimento que durara más de seis semanas. ˇCuán dependientes somos de
 
-la siega de cada ao!, pues si hubiera una escasez general, la inanicin
+la siega de cada ańo!, pues si hubiera una escasez general, la inanición
 
-estara prcticamente a la vista.
+estaría prácticamente a la vista.
 
 Al igual que Dios dio el
 
-man en el desierto Dios, l nos da en verdad el pan conforme lo necesitamos,
+maná en el desierto Dios, Él nos da en verdad el pan conforme lo necesitamos,
 
 pero dependemos cada hora de Su generoso cuidado. Las botellas del cielo
 
 contienen los jugos de la vida humana; si esas botellas fueran cerradas por
 
-completo, ninguno de nosotros podra tolerar la quemante sequa y la
+completo, ninguno de nosotros podría tolerar la quemante sequía y la
 
-consecuente caresta.
+consecuente carestía.
 
 Vean, entonces, la
 
 absoluta dependencia que tienen de Dios, no solamente las naciones orientales,
 
-sino todos los pueblos de la raza humana. Prescindiendo de cul sea nuestra
+sino todos los pueblos de la raza humana. Prescindiendo de cuál sea nuestra
 
-actividad o profesin, todos somos alimentados por el fruto del campo, y
+actividad o profesión, todos somos alimentados por el fruto del campo, y
 
 prescindiendo de lo que pudiera decirse acerca de las leyes de la naturaleza,
 
-el Dios de la naturaleza no est restringido ni limitado por mtodos de
+el Dios de la naturaleza no está restringido ni limitado por métodos de
 
-procedimiento. l puede operar tal como le agrade, y puede llenar nuestros graneros
+procedimiento. Él puede operar tal como le agrade, y puede llenar nuestros graneros
 
-al mximo de su capacidad, o detener los suministros del grano por el simple
+al máximo de su capacidad, o detener los suministros del grano por el simple
 
-mtodo de dar o suprimir la lluvia. Nuestro aliento est en nuestra nariz; si
+método de dar o suprimir la lluvia. Nuestro aliento está en nuestra nariz; si
 
-l quitara ese aliento, nos morimos. Sin Su preservacin, la raza entera del hombre
+Él quitara ese aliento, nos morimos. Sin Su preservación, la raza entera del hombre
 
-sera convertida en polvo y dejara de existir en la tierra de los vivientes.
+sería convertida en polvo y dejaría de existir en la tierra de los vivientes.
 
-Esta dependencia es ms evidente en las cosas espirituales.
+Esta dependencia es más evidente en las cosas espirituales.
 
 Hermanos,
 
-si Dios nos bendice con Su salud salvadora, y con la visitacin de Su Espritu,
+si Dios nos bendice con Su salud salvadora, y con la visitación de Su Espíritu,
 
-seremos como un campo que Dios ha bendecido, y nuestras vidas se alegrarn con
+seremos como un campo que Dios ha bendecido, y nuestras vidas se alegrarán con
 
-una cosecha para Su alabanza. Pero sin Dios, qu podramos hacer nosotros? En
+una cosecha para Su alabanza. Pero sin Dios, żqué podríamos hacer nosotros? En
 
 el reino de las cosas espirituales, nosotros somos absoluta y enteramente
 
-dependientes de Dios y, sin Su ayuda, somos como una tierra salada que est
+dependientes de Dios y, sin Su ayuda, somos como una tierra salada que está
 
-desprovista de verdor. La salvacin es de Jehov. Vana es toda confianza que no
+desprovista de verdor. La salvación es de Jehová. Vana es toda confianza que no
 
-est edificada sobre l.
+esté edificada sobre Él.
 
-Cmo podramos procurar
+żCómo podríamos procurar
 
-las invaluables bendiciones de perdn y de gracia, aparte de Dios en Cristo
+las invaluables bendiciones de perdón y de gracia, aparte de Dios en Cristo
 
-Jess? Cmo puede ser quitado el pecado, excepto por el Seor, que pasa por
+Jesús? żCómo puede ser quitado el pecado, excepto por el Seńor, que pasa por
 
-alto la iniquidad? Quin es aqul que puede absolver sino la persona contra
+alto la iniquidad? żQuién es aquél que puede absolver sino la persona contra
 
-quien fue cometida la transgresin? De dnde puede venir la limpieza de toda
+quien fue cometida la transgresión? żDe dónde puede venir la limpieza de toda
 
 mancha sino de esas amadas manos que fueron horadadas por nosotros? Cuando
 
-nosotros y nuestros vestidos seamos lavados en Su sangre preciossima, slo
+nosotros y nuestros vestidos seamos lavados en Su sangre preciosísima, sólo
 
-entonces seremos limpiados y toda la gloria ser para l como el Cordero
+entonces seremos limpiados y toda la gloria será para Él como el Cordero
 
-inmolado. No son de Dios la justificacin y la aceptacin? Qu podramos
+inmolado. żNo son de Dios la justificación y la aceptación? żQué podríamos
 
 hacer, ustedes y yo, para justificarnos o para hacernos aceptables ante Dios?
 
 Estos son los dones del pacto de gracia, y Dios puede otorgarlos; pero si no
 
-los otorga, nosotros no podramos obtenerlos nunca. Otorgar esos dones segn el
+los otorga, nosotros no podríamos obtenerlos nunca. Otorgar esos dones según el
 
 designio de Su voluntad es Su regia prerrogativa.
 
 Lo mismo sucede con la
 
-vida y el poder del Espritu de Dios, por los cuales somos capaces de recibir y
+vida y el poder del Espíritu de Dios, por los cuales somos capaces de recibir y
 
-disfrutar las bendiciones del pacto; el Espritu Santo, como el viento, sopla
+disfrutar las bendiciones del pacto; el Espíritu Santo, como el viento, sopla
 
-de donde quiere, y slo el Seor ordena Su operacin. Cmo podra venir a
+de donde quiere, y sólo el Seńor ordena Su operación. żCómo podría venir a
 
-nosotros la nueva vida mediante la cual recibimos al Seor Jess, si no viniera
+nosotros la nueva vida mediante la cual recibimos al Seńor Jesús, si no viniera
 
-del propio Dios viviente? Puede un hombre que est hundido en el pecado,
+del propio Dios viviente? żPuede un hombre que está hundido en el pecado,
 
-liberarse y purificarse a s mismo? Mudar el etope su piel, y el leopardo
+liberarse y purificarse a sí mismo? “żMudará el etíope su piel, y el leopardo
 
-sus manchas? Os es necesario nacer de nuevo. Pero puede un hombre lograr
+sus manchas?” “Os es necesario nacer de nuevo”. Pero żpuede un hombre lograr
 
-nacer de nuevo por s solo? Es imaginable que el nuevo nacimiento sea causado
+nacer de nuevo por sí solo? żEs imaginable que el nuevo nacimiento sea causado
 
 por la propia persona que nace? El cambio obrado es misterioso, radical, perdurable;
 
-quin podra obrarlo por s solo? Quin podra extraer algo limpio de algo
+żquién podría obrarlo por sí solo? żQuién podría extraer algo limpio de algo
 
-inmundo? Nadie. La nueva vida tiene que venir de Dios! El que no naciere de
+inmundo? Nadie. ˇLa nueva vida tiene que venir de Dios! “El que no naciere de
 
-nuevo, no puede ver el reino de Dios. De dnde provienen el nuevo corazn y
+nuevo, no puede ver el reino de Dios”. żDe dónde provienen el nuevo corazón y
 
-el espritu recto? Puede la mente carnal, que es enemistad contra Dios,
+el espíritu recto? żPuede la mente carnal, que es enemistad contra Dios,
 
-engendrar por s sola un amor a Dios y un deseo de comunin con l? Esas cosas
+engendrar por sí sola un amor a Dios y un deseo de comunión con Él? Esas cosas
 
-no pueden crearse por s solas, pues son obra de las mismas manos que hicieron
+no pueden crearse por sí solas, pues son obra de las mismas manos que hicieron
 
-los cielos y la tierra. El amor a la santidad y su bsqueda y la perseverancia
+los cielos y la tierra. El amor a la santidad y su búsqueda y la perseverancia
 
-en esa bsqueda, acaso esas cosas no nos vienen exclusivamente de l, que ha
+en esa búsqueda, żacaso esas cosas no nos vienen exclusivamente de Él, que ha
 
-obrado todas nuestras obras en nosotros? Todo comienzo de bien, s, todo anhelo
+obrado todas nuestras obras en nosotros? Todo comienzo de bien, sí, todo anhelo
 
 de bien, es obrado en nosotros por Dios, pues de lo contrario nunca se
 
-encontrara en nosotros en absoluto. Nosotros somos absolutamente dependientes
+encontraría en nosotros en absoluto. Nosotros somos absolutamente dependientes
 
 de Dios, no solamente en cuanto a todos los dones espirituales, sino en cuanto
 
-al poder de convertirnos en partcipes de ellos.
+al poder de convertirnos en partícipes de ellos.
 
-Y, hermanos, no nos
+Y, hermanos, żno nos
 
 vienen de Dios nuestro Salvador todas las gracias que son agradables a Dios?
 
-Acaso hay algn grano de fe en el mundo que Dios no haya producido? Hay una
+żAcaso hay algún grano de fe en el mundo que Dios no haya producido? żHay una
 
-chispa de amor santo en cualquier pecho humano que Dios no haya generado? Hay
+chispa de amor santo en cualquier pecho humano que Dios no haya generado? żHay
 
-alguna verdadera esperanza, en cualquier corazn, que el Dios de la esperanza
+alguna verdadera esperanza, en cualquier corazón, que el Dios de la esperanza
 
-no haya implantado? Hay alguna cosa en alguna parte que sea santa o amable o
+no haya implantado? żHay alguna cosa en alguna parte que sea santa o amable o
 
 de buen nombre que no proviniera primero del propio Dios y que no la
 
-introdujera en el corazn del hombre?
+introdujera en el corazón del hombre?
 
-Pecador, t eres
+Pecador, tú eres
 
 absolutamente dependiente de Dios para poseer la gracia y para obtener la
 
-salvacin. T yaces como aquellos huesos secos en el valle, que eran abundantes
+salvación. Tú yaces como aquellos huesos secos en el valle, que eran abundantes
 
-y que estaban muy secos. Qu puedes hacer? Por cul poder pueden vivir los
+y que estaban muy secos. żQué puedes hacer? żPor cuál poder pueden vivir los
 
-huesos secos? El profeta del Seor, como un acto de fe en Dios, te ordena que
+huesos secos? El profeta del Seńor, como un acto de fe en Dios, te ordena que
 
-vivas; pero el profeta de Dios sabe que no vivirs por medio de tu propia
+vivas; pero el profeta de Dios sabe que no vivirás por medio de tu propia
 
-fuerza, ni por medio del poder de persuasin del propio profeta. No, l apela a
+fuerza, ni por medio del poder de persuasión del propio profeta. No, él apela a
 
-un poder que est ms all de l mismo y de ti. Da voces diciendo: Espritu,
+un poder que está más allá de él mismo y de ti. Da voces diciendo: “Espíritu,
 
-ven de los cuatro vientos, y sopla sobre estos muertos, y vivirn. l espera
+ven de los cuatro vientos, y sopla sobre estos muertos, y vivirán”. Él espera
 
-que el Espritu Santo genere vida en ustedes, y aparte de ese Espritu, no
+que el Espíritu Santo genere vida en ustedes, y aparte de ese Espíritu, no
 
 tiene esperanza en cuanto a ustedes.
 
-Ampliando este caso y
+Ampliando este caso –y
 
 no puedo ampliarlo demasiado- no tengo miedo de exagerar ni de ir demasiado
 
-lejos en eso: yo s que en cuanto a las nubes, y a la lluvia y a la siega, los
+lejos en eso: yo sé que en cuanto a las nubes, y a la lluvia y a la siega, los
 
-hombres son absolutamente dependientes del Dios de la providencia; y yo s
+hombres son absolutamente dependientes del Dios de la providencia; y yo sé
 
-tambin que, para el don del Espritu Santo y para el poder que salva a las
+también que, para el don del Espíritu Santo y para el poder que salva a las
 
 almas, dependemos enteramente del grandioso Dios que crea todas las cosas
 
 buenas.
 
-Aqu tenemos algo que es
+Aquí tenemos algo que es
 
 lamentable:
 
@@ -416,227 +416,227 @@ tan dependientes, hemos pecado y continuamos pecando.
 
 Somos dependientes de
 
-l, y sin embargo, nos rebelamos en Su contra. Acaso el hombre que acepta de
+Él, y sin embargo, nos rebelamos en Su contra. żAcaso el hombre que acepta de
 
-m su pan diario, alzar contra m el calcaar? Es posible que quien no podra
+mí su pan diario, alzará contra mí el calcańar? żEs posible que quien no podría
 
-vivir sin m, viva para hablar mal de m? Abusar de mi bondad convirtindola
+vivir sin mí, viva para hablar mal de mí? żAbusará de mi bondad convirtiéndola
 
-en un medio para hacerme dao? Eso sera una atrocidad que slo podra brotar
+en un medio para hacerme dańo? Eso sería una atrocidad que sólo podría brotar
 
-de un corazn negro e ingrato. S, cada pecador que contina en el pecado est
+de un corazón negro e ingrato. Sí, cada pecador que continúa en el pecado está
 
-actuando ingratamente. Quien contina haciendo el mal a pesar de existir slo
+actuando ingratamente. Quien continúa haciendo el mal a pesar de existir sólo
 
-por Su infinita caridad, es ingrato en un grado supremo para con el Seor de amor.
+por Su infinita caridad, es ingrato en un grado supremo para con el Seńor de amor.
 
 Siendo ese el caso, la dependencia que tiene el hombre culpable de la gracia de
 
-la soberana divina y de la soberana de la gracia divina, es resaltada ms
+la soberanía divina y de la soberanía de la gracia divina, es resaltada más
 
-todava. Debido a que el hombre ha quebrantado el mandamiento de Dios y
+todavía. Debido a que el hombre ha quebrantado el mandamiento de Dios y
 
-contina rebelndose contra l, con mucha mayor razn se encuentra
+continúa rebelándose contra Él, con mucha mayor razón se encuentra
 
-absolutamente a la disposicin de un Dios justo. El traidor no tiene ahora
+absolutamente a la disposición de un Dios justo. El traidor no tiene ahora
 
-ningn derecho; los ha perdido todos. No tiene ningn derecho a reclamar; l
+ningún derecho; los ha perdido todos. No tiene ningún derecho a reclamar; él
 
 mismo se ha proscrito.
 
-Oh hombre impo, t no
+Oh hombre impío, tú no
 
-puedes apelar en absoluto a la justicia de Dios; pues si lo hicieras, l debe adjudicarte
+puedes apelar en absoluto a la justicia de Dios; pues si lo hicieras, Él debe adjudicarte
 
-la destruccin eterna. T no puedes reclamarle ahora nada como si te lo
+la destrucción eterna. Tú no puedes reclamarle ahora nada como si te lo
 
-debiera, pues lo que se te debe es que seas condenado al castigo eterno. T
+debiera, pues lo que se te debe es que seas condenado al castigo eterno. Tú
 
-ests condenado delante de l, en cuyas manos est el decidir sobre la vida o
+estás condenado delante de Él, en cuyas manos está el decidir sobre la vida o
 
-la muerte. T ests en la mano de Dios de la misma manera que el prisionero
+la muerte. Tú estás en la mano de Dios de la misma manera que el prisionero
 
-condenado a muerte est en manos del poder del rey; en verdad, t lo ests de
+condenado a muerte está en manos del poder del rey; en verdad, tú lo estás de
 
-manera ms absoluta. Si fueras perdonado, tendra que ser por el ejercicio de
+manera más absoluta. Si fueras perdonado, tendría que ser por el ejercicio de
 
-la soberana prerrogativa que est investida en Jehov, el Seor de todo, que
+la soberana prerrogativa que está investida en Jehová, el Seńor de todo, que
 
 hace lo que parece bien a Sus ojos. Con tal de que pueda hacerse justamente, la
 
-soberana podra intervenir y rescatar al culpable de su condenacin; pero este
+soberanía podría intervenir y rescatar al culpable de su condenación; pero este
 
-es un asunto que depende nicamente de la voluntad del Seor. Si t eres
+es un asunto que depende únicamente de la voluntad del Seńor. Si tú eres
 
-ejecutado, la condenacin est tan bien merecida que no puede decirse ni una
+ejecutado, la condenación está tan bien merecida que no puede decirse ni una
 
-sola palabra contra la soberana que cumplir la sentencia. Si Dios hubiera
+sola palabra contra la soberanía que cumplirá la sentencia. Si Dios hubiera
 
-dejado que este mundo pecador pereciera en su pecado, nadie habra podido
+dejado que este mundo pecador pereciera en su pecado, nadie habría podido
 
 culparlo; no es sino justo que mueran aquellos que han provocado a su Dios y
 
-han incurrido en el castigo que l amenaz contra el pecado. Si el Seor, en la
+han incurrido en el castigo que Él amenazó contra el pecado. Si el Seńor, en la
 
-grandeza de Su amor, eligiera salvar a este hombre o a aqul, no le provoca
+grandeza de Su amor, eligiera salvar a este hombre o a aquél, no le provoca
 
-ningn dao a nadie, sino que enaltece Su misericordia en aquellos a quienes
+ningún dańo a nadie, sino que enaltece Su misericordia en aquellos a quienes
 
-redime de una merecida muerte. Si el Seor iluminara una isla, y dejara en la
+redime de una merecida muerte. Si el Seńor iluminara una isla, y dejara en la
 
-oscuridad a todo un continente, quin le acusara? Si l tomara a uno de una
+oscuridad a todo un continente, żquién le acusaría? Si Él tomara a uno de una
 
-ciudad y a dos de una familia, y los atrajera hacia S, mientras permite que
+ciudad y a dos de una familia, y los atrajera hacia Sí, mientras permite que
 
-todos los dems sigan su propio camino y que continen obstinadamente en
+todos los demás sigan su propio camino y que continúen obstinadamente en
 
-rebelin, quin acusara a Dios de parcialidad, o quin le dira: Qu haces
+rebelión, żquién acusaría a Dios de parcialidad, o quién le diría: Qué haces
 
-T? l puede responderles a todos los que objetan Su camino de misericordia: No
+Tú? Él puede responderles a todos los que objetan Su camino de misericordia: “żNo
 
-me es lcito hacer lo que quiero con lo mo? l no deposita sobre ningn
+me es lícito hacer lo que quiero con lo mío?” Él no deposita sobre ningún
 
-hombre ms de lo que es justo, y lo que l decide perdonar por Su propia longanimidad,
+hombre más de lo que es justo, y lo que Él decide perdonar por Su propia longanimidad,
 
 no puede ser impugnado. Ya sea que les guste la doctrina o no, es cierto que,
 
 como pecadores, ustedes son absolutamente dependientes de la misericordia
 
-soberana de Dios. Yo deseara que pudieran ver y sentir esta grandiosa verdad,
+soberana de Dios. Yo desearía que pudieran ver y sentir esta grandiosa verdad,
 
-pues tendera a humillarlos y a prepararlos para buscar Su favor. Pido al Espritu
+pues tendería a humillarlos y a prepararlos para buscar Su favor. Pido al Espíritu
 
 Santo que la grabe en todos los presentes que no hayan venido a Dios en Cristo
 
-Jess. Esto basta en cuanto a la primera verdad.
+Jesús. Esto basta en cuanto a la primera verdad.
 
 II.
 
 Nuestro
 
-segundo comentario es ste: LOS HOMBRES PUEDEN VERSE REDUCIDOS A UNA CALAMITOSA
+segundo comentario es éste: LOS HOMBRES PUEDEN VERSE REDUCIDOS A UNA CALAMITOSA
 
 ANGUSTIA. Los hombres, siendo dependientes de Dios, pueden verse reducidos a
 
-una calamitosa angustia si le desobedecen e incurren en Su justa desaprobacin.
+una calamitosa angustia si le desobedecen e incurren en Su justa desaprobación.
 
-Amablemente sganme
+Amablemente síganme
 
-mientras leemos los versculos anteriores a mi texto. Aqu encontramos una gran
+mientras leemos los versículos anteriores a mi texto. Aquí encontramos una gran
 
-angustia temporal: la gente no tena agua! Los ms altos rangos de la sociedad
+angustia temporal: ˇla gente no tenía agua! Los más altos rangos de la sociedad
 
-fueron conducidos a experimentar la terrible sequa. La ciudad entera era
+fueron conducidos a experimentar la terrible sequía. La ciudad entera era
 
-atormentada por la sed, y los lderes implementaron una diligente bsqueda con
+atormentada por la sed, y los líderes implementaron una diligente búsqueda con
 
-el fin de encontrar agua. Enviaron a revisar los grandes depsitos que Salomn
+el fin de encontrar agua. Enviaron a revisar los grandes depósitos que Salomón
 
-haba construido en su poca, los estanques de arriba y los de abajo, pero no
+había construido en su época, los estanques de arriba y los de abajo, pero no
 
-encontraron agua. Inspeccionaron una y otra vez, pero las aguas haban
+encontraron agua. Inspeccionaron una y otra vez, pero las aguas habían
 
-desaparecido por completo, y entonces se vieron reducidos a la desesperacin.
+desaparecido por completo, y entonces se vieron reducidos a la desesperación.
 
-Cubrieron sus cabezas como hombres que se rendan a una muerte sin esperanza.
+Cubrieron sus cabezas como hombres que se rendían a una muerte sin esperanza.
 
-Terrible fue la sequa que Jehov envi a Su tierra debido al pecado de Su
+Terrible fue la sequía que Jehová envió a Su tierra debido al pecado de Su
 
-pueblo; fue como si el da de Elas hubiera retornado, en el que no hubo ni
+pueblo; fue como si el día de Elías hubiera retornado, en el que no hubo ni
 
-roco ni lluvia durante tres aos y seis meses.
+rocío ni lluvia durante tres ańos y seis meses.
 
 Mis queridos oyentes, hay
 
-una angustia espiritual de la que esta sequa es una figura. He aqu, como en
+una angustia espiritual de la que esta sequía es una figura. He aquí, como en
 
-una parbola, hemos visto el estado al que muchos son conducidos cuando Dios
+una parábola, hemos visto el estado al que muchos son conducidos cuando Dios
 
-comienza a tratar con ellos: experimentan sequa de vida y hambruna de
+comienza a tratar con ellos: experimentan sequía de vida y hambruna de
 
-esperanza. Amado oyente, sabes lo que significa los tratos de Dios con un
+esperanza. Amado oyente, żsabes lo que significa ‘los tratos de Dios con un
 
-hombre? Recuerdas aquel pasaje en el libro de Bunyan, El Progreso del
+hombre’? żRecuerdas aquel pasaje en el libro de Bunyan, “El Progreso del
 
-Peregrino, donde un peregrino le dice al otro: Iniciemos un buen discurso?
+Peregrino”, donde un peregrino le dice al otro: “Iniciemos un buen discurso?
 
-Dnde habremos de comenzar? El otro le responde: Donde Dios comenz con
+żDónde habremos de comenzar?” El otro le responde: “Donde Dios comenzó con
 
-nosotros. Sabes lo que quiere decir eso? Ha comenzado Dios contigo? Si es
+nosotros”. żSabes lo que quiere decir eso? żHa comenzado Dios contigo? Si es
 
-as, podrs entenderme cuando digo que Dios hace consciente, al hombre
+así, podrás entenderme cuando digo que Dios hace consciente, al hombre
 
-despierto y convicto, de la mayor necesidad concebible, es decir, de una sequa
+despierto y convicto, de la mayor necesidad concebible, es decir, de una sequía
 
 en su propia alma. Estas gentes estaban conscientes de que necesitaban agua; y el
 
-caso era peor que eso todava, pues estaban atormentadas por la sed. As viene
+caso era peor que eso todavía, pues estaban atormentadas por la sed. Así viene
 
 Dios a los hombres, y los hace sentir que necesitan el agua viva de Su gracia,
 
-y los hace tener sed de ella. Ellos no conocan antes su necesidad, antes bien,
+y los hace tener sed de ella. Ellos no conocían antes su necesidad, antes bien,
 
-proseguan con bastante jbilo, contentos con los placeres del tiempo y del
+proseguían con bastante júbilo, contentos con los placeres del tiempo y del
 
 sentido; pero ahora, habiendo sido vivificados, sienten un hambre intolerable y
 
-tienen sed de cosas ms excelsas y mejores. Son atormentados por un insaciable
+tienen sed de cosas más excelsas y mejores. Son atormentados por un insaciable
 
-deseo que no puede ser apaciguado ni lo ser. Acaso no hemos visto a esos seres
+deseo que no puede ser apaciguado ni lo será. żAcaso no hemos visto a esos seres
 
-sedientos? No hemos tenido compasin de ellos? No les hemos indicado la nica
+sedientos? żNo hemos tenido compasión de ellos? żNo les hemos indicado la única
 
-y exclusiva fuente de suministro? No nos hemos regocijado en secreto por ellos
+y exclusiva fuente de suministro? żNo nos hemos regocijado en secreto por ellos
 
-cuando hemos anticipado hacia dnde tenda su angustia?
+cuando hemos anticipado hacia dónde tendía su angustia?
 
 Procedamos un poco a
 
-detalle con las palabras de mi texto: cuando el Seor hace que los pecadores
+detalle con las palabras de mi texto: cuando el Seńor hace que los pecadores
 
-sientan la sequa espiritual,
+sientan la sequía espiritual,
 
 el orgullo
 
 es humillado.
 
-Los nobles enviaron sus criados al agua. Generalmente la
+“Los nobles enviaron sus criados al agua”. Generalmente la
 
-nobleza se ocupa muy poco acerca del agua; pero durante una gran sequa, el rey
+nobleza se ocupa muy poco acerca del agua; pero durante una gran sequía, el rey
 
-Acab y su mayordomo, Abdas, salieron ellos mismos a buscar agua. En este caso,
+Acab y su mayordomo, Abdías, salieron ellos mismos a buscar agua. En este caso,
 
-los nobles enviaron a sus siervos, es ms, enviaron incluso a sus hijos y a sus
+los nobles enviaron a sus siervos, es más, enviaron incluso a sus hijos y a sus
 
 hijas, para que descubrieran alguna fuente de suministro.
 
-As Dios sabe cmo
+Así Dios sabe cómo
 
-ensear a un hombre de tal manera que sus altivos pensamientos son humillados,
+enseńar a un hombre de tal manera que sus altivos pensamientos son humillados,
 
-y su orgullo es abatido hasta el polvo. Seora ilustrsima, t te sentiras
+y su orgullo es abatido hasta el polvo. ‘Seńoría ilustrísima’, tú te sentirías
 
-como un don nadie si el Espritu tratara contigo en conviccin. No hace mucho
+como un don nadie si el Espíritu tratara contigo en convicción. No hace mucho
 
-tiempo, su excelencia miraba con desdn desde el asiento ms elevado de la
+tiempo, ‘su excelencia’ miraba con desdén desde el asiento más elevado de la
 
 sinagoga, pero ahora te sientas en el polvo, y consideras a todos como tus
 
-superiores. El filsofo se convierte en un niito y alegremente acepta el vaso
+superiores. El filósofo se convierte en un nińito y alegremente acepta el vaso
 
-que anteriormente desdeaba. Te omos el otro da cantando a tu propio honor y
+que anteriormente desdeńaba. Te oímos el otro día cantando a tu propio honor y
 
-gloria, pero ahora no tienes ninguna cancin que cantar, antes bien te cubres
+gloria, pero ahora no tienes ninguna canción que cantar, antes bien te cubres
 
-los labios y musitas: Inmundo, inmundo, inmundo! Cuando el Seor pone Su
+los labios y musitas: “ˇInmundo, inmundo, inmundo!” Cuando el Seńor pone Su
 
 mano sobre un hombre, hace que su belleza se consuma como una polilla. El
 
-hombre es conmovido de la cabeza a los pies; su alma se derrite dentro de l, y
+hombre es conmovido de la cabeza a los pies; su alma se derrite dentro de él, y
 
-toda su gloria rueda en el cieno. En el da de nuestra angustia nuestros
+toda su gloria rueda en el cieno. En el día de nuestra angustia nuestros
 
-pensamientos ms nobles se convierten en humildes rastreadores del agua de la
+pensamientos más nobles se convierten en humildes rastreadores del agua de la
 
 vida.
 
@@ -648,45 +648,45 @@ acudieron a causas secundarias:
 
 llegaron
 
-a los pozos o depsitos. Los depsitos, en el Oriente, son algunas veces
+a los pozos o depósitos. Los depósitos, en el Oriente, son algunas veces
 
 grandes cavernas encontradas en la roca natural, y en otras ocasiones son
 
-excavados por obreros, o construidos con ciertas tcnicas, y luego se canalizan
+excavados por obreros, o construidos con ciertas técnicas, y luego se canalizan
 
-algunas corrientes y se hacen correr hacia esos depsitos que son capaces de
+algunas corrientes y se hacen correr hacia esos depósitos que son capaces de
 
 contener una gran cantidad de agua. Algunos de los hijos de los nobles pensaron
 
-que ellos conocan algunas cavernas que los dems no haban visto, cisternas
+que ellos conocían algunas cavernas que los demás no habían visto, cisternas
 
-subterrneas ocultas que haban sido olvidadas, y salieron para encontrarlas. Se
+subterráneas ocultas que habían sido olvidadas, y salieron para encontrarlas. Se
 
 apresuraron al lugar donde esperaban encontrar esa agua invaluable; pero no
 
-leemos que clamaran a Dios, o que buscaran la misericordia de Jehov, que
+leemos que clamaran a Dios, o que buscaran la misericordia de Jehová, que
 
-podra haberles dado lluvia de manera inmediata. Recurrieron a las causas
+podría haberles dado lluvia de manera inmediata. Recurrieron a las causas
 
-secundarias, pero no se volvieron a la mano que los haba golpeado.
+secundarias, pero no se volvieron a la mano que los había golpeado.
 
-As las almas, cuando
+Así las almas, cuando
 
 son despertadas, acuden a cincuenta cosas diferentes antes de acudir a Dios. Es
 
-triste que, en supersticin o en escepticismo, ellas busquen arroyos vivos.
+triste que, en superstición o en escepticismo, ellas busquen arroyos vivos.
 
 Intentan la reforma de la conducta. Yo no tengo nada que decir en contra de
 
-eso. Pero aparte de Dios, la reforma siempre concluye en desilusin. Buscan la
+eso. Pero aparte de Dios, la reforma siempre concluye en desilusión. Buscan la
 
-consolacin de algn credo ortodoxo, acerca de lo cual yo podra tener mucho
+consolación de algún credo ortodoxo, acerca de lo cual yo podría tener mucho
 
 que decir; pero si se confiara en una fe en un credo, es como si un hombre
 
 buscara calmar su sed con una botella, pero sin preocuparse por verificar si
 
-contena agua o no. Un credo es una jarra en la que se almacena el agua, pero no
+contenía agua o no. Un credo es una jarra en la que se almacena el agua, pero no
 
 es el agua misma. Algunas personas intentan formas y ceremonias en abundancia,
 
@@ -694,81 +694,81 @@ y a todo eso agregan abnegaciones y penitencias; toleran cualquier cosa antes
 
 que acudir a Dios en busca de Su gracia. La gracia es un puerto hacia el cual
 
-ningn hombre timonea su barca mientras no se compruebe que es el nico lugar
+ningún hombre timonea su barca mientras no se compruebe que es el único lugar
 
 en el que puede entrar.
 
-Oh corazn mo, corazn
+Oh corazón mío, corazón
 
-mo, cmo es que puedes ser tan renuente a acudir a tu Padre y a tu Dios? Oh,
+mío, żcómo es que puedes ser tan renuente a acudir a tu Padre y a tu Dios? Oh,
 
 ustedes, que andan deambulando en este momento yendo de la confianza de una
 
-criatura a otra criatura, les ruego que pongan un trmino a su vagabundeo y
+criatura a otra criatura, les ruego que pongan un término a su vagabundeo y
 
-vengan a casa, a Dios, que es el nico que puede ayudarles. No hay esperanza
+vengan a casa, a Dios, que es el único que puede ayudarles. No hay esperanza
 
-para ustedes excepto en Dios, y el camino a Dios es a travs de Su Hijo Cristo
+para ustedes excepto en Dios, y el camino a Dios es a través de Su Hijo Cristo
 
-Jess. Por qu deambulan tanto sin rumbo? Ir directamente a Dios es el camino
+Jesús. żPor qué deambulan tanto sin rumbo? Ir directamente a Dios es el camino
 
-ms seguro y ms confiable; por qu no lo toman? Dios es nuestro refugio y
+más seguro y más confiable; żpor qué no lo toman? Dios es nuestro refugio y
 
-nuestro cielo; por qu somos tan renuentes a buscarlo? Oh, hombre, por qu
+nuestro cielo; żpor qué somos tan renuentes a buscarlo? Oh, hombre, żpor qué
 
-quieres acudir a los santos, a los ngeles e incluso a los demonios, en vez de
+quieres acudir a los santos, a los ángeles e incluso a los demonios, en vez de
 
-acudir al Seor tu Dios? Pero yo te conozco, tu corazn est puesto en la
+acudir al Seńor tu Dios? Pero yo te conozco, tu corazón está puesto en la
 
-idolatra, y esta es la esencia de la idolatra: que t buscas a la criatura en
+idolatría, y esta es la esencia de la idolatría: que tú buscas a la criatura en
 
 vez de buscar al Creador.
 
-Si continan leyendo,
+Si continúan leyendo,
 
-encontrarn que cuando acudieron a esos suministros secundarios,
+encontrarán que cuando acudieron a esos suministros secundarios,
 
 se vieron decepcionados:
 
-Vinieron a las
+“Vinieron a las
 
-lagunas, y no hallaron agua. Encontraron lodo, negro lodo asqueroso, pero no
+lagunas, y no hallaron agua”. Encontraron lodo, negro lodo asqueroso, pero no
 
-encontraron agua. Una vez anteriormente vieron el espumoso lquido en la fresca
+encontraron agua. Una vez anteriormente vieron el espumoso líquido en la fresca
 
-cueva; pero ya haba sido utilizado todo. Cuando las aguas podan ser
+cueva; pero ya había sido utilizado todo. Cuando las aguas podían ser
 
 encontradas en cualquier otra parte, las cisternas estaban llenas; pero cuando
 
-todo lo dems estaba seco, las cisternas estaban tambin secas. Se inclinaron,
+todo lo demás estaba seco, las cisternas estaban también secas. Se inclinaron,
 
 exploraron en la oscuridad; intentaron obtener al menos un vaso lleno del
 
-precioso lquido, pero est escrito: No hallaron agua. Decepcionados,
+precioso líquido, pero está escrito: “No hallaron agua”. Decepcionados,
 
-volvieron con sus vasijas vacas. Las mujeres, con sus cntaros de agua sobre
+“volvieron con sus vasijas vacías”. Las mujeres, con sus cántaros de agua sobre
 
-sus cabezas, presentaban un triste espectculo cuando entraban por la puerta de
+sus cabezas, presentaban un triste espectáculo cuando entraban por la puerta de
 
-la ciudad, y una tras otra, todas ellas, suspiraban diciendo: Vaca! Vaca!
+la ciudad, y una tras otra, todas ellas, suspiraban diciendo: “ˇVacía! ˇVacía!”
 
-Necesitaban beber para calmar la sed, pero no se encontr ni una sola gota que
+Necesitaban beber para calmar la sed, pero no se encontró ni una sola gota que
 
 refrescara sus lenguas.
 
 Es algo terrible
 
-regresar a casa con las vasijas vacas despus de or un sermn, o regresar con
+regresar a casa con las vasijas vacías después de oír un sermón, o regresar con
 
-las vasijas vacas tras levantarse de la mesa de la comunin sin haber
+las vasijas vacías tras levantarse de la mesa de la comunión sin haber
 
 encontrado nada de agua viva. Cerrar
 
 la Biblia
 
-y suspirar: No encuentro ningn consuelo
+y suspirar: “No encuentro ningún consuelo
 
-aqu; he de regresar con mi vasija vaca. Cuando ni las ordenanzas ni
+aquí; he de regresar con mi vasija vacía”. Cuando ni las ordenanzas ni
 
 la Palabra
 
@@ -778,135 +778,135 @@ producen
 
 alguna gracia, las cosas han llegado a un terrible
 
-estado de cosas para nosotros. Saben lo que significa esa decepcin?
+estado de cosas para nosotros. żSaben lo que significa esa decepción?
 
-Ahora, en adicin a esta
+Ahora, en adición a esta
 
-decepcin, se sigui
+decepción, se siguió
 
-una gran confusin
+una gran confusión
 
 mental;
 
-se volvieron distrados: Se avergonzaron, se confundieron. A
+se volvieron distraídos: “Se avergonzaron, se confundieron”. A
 
-espaldas de esa confusin vino la desesperacin: Cubrieron sus cabezas. Los
+espaldas de esa confusión vino la desesperación: “Cubrieron sus cabezas”. Los
 
-orientales cubren sus cabezas cuando estn sumidos en la afliccin ms
+orientales cubren sus cabezas cuando están sumidos en la aflicción más
 
-profunda, como lo hizo David cuando atraves el arroyo de Cedrn. Significa:
+profunda, como lo hizo David cuando atravesó el arroyo de Cedrón. Significa:
 
-No puedo darle la cara. No me miren en mi afliccin, ni esperen que yo los
+“No puedo darle la cara. No me miren en mi aflicción, ni esperen que yo los
 
-mire a ustedes. Cubro mi cabeza pues mi afliccin me rodea por todas partes.
+mire a ustedes. Cubro mi cabeza pues mi aflicción me rodea por todas partes”.
 
-As yo me he encontrado a muchas personas que, despus de recurrir a muchas
+Así yo me he encontrado a muchas personas que, después de recurrir a muchas
 
 confianzas en alguien o algo, se han desilusionado de todas, y parecieran
 
-listas a quedarse sumidas en la desesperacin, y ya no hacen ningn esfuerzo.
+listas a quedarse sumidas en la desesperación, y ya no hacen ningún esfuerzo.
 
-Temen que Dios no las bendiga nunca, y que nunca entrarn en la vida eterna; y
+Temen que Dios no las bendiga nunca, y que nunca entrarán en la vida eterna; y
 
-as firman su propia sentencia de muerte. Habr de confesar que me ha agradado
+así firman su propia sentencia de muerte. żHabré de confesar que me ha agradado
 
-ms ver a estas personas en esa condicin, que escuchar sus jubilosos cantos de
+más ver a estas personas en esa condición, que escuchar sus jubilosos cantos de
 
-otras ocasiones? Es junto a la puerta de la desesperanza en uno mismo que los
+otras ocasiones? żEs junto a la puerta de la desesperanza en uno mismo que los
 
-hombres llegan a la esperanza divina? Quiera Dios que muchas personas que son
+hombres llegan a la esperanza divina? ˇQuiera Dios que muchas personas que son
 
-como Vana Confianza, que estn sentadas aqu, sean derribadas al suelo y forzadas
+como ‘Vana Confianza’, que están sentadas aquí, sean derribadas al suelo y forzadas
 
-a terminar con sus altivas jactancias yendo de inmediato a Jess exclusivamente!
+a terminar con sus altivas jactancias yendo de inmediato a Jesús exclusivamente!
 
-Oh, que pudieran llegar a esa santa y segura conclusin en la cual estoy
+Oh, que pudieran llegar a esa santa y segura conclusión en la cual estoy
 
-pensando todo el tiempo mientras les predico a ustedes, -que es la conclusin
+pensando todo el tiempo mientras les predico a ustedes, -que es la conclusión
 
-escritural y lgica mencionada en mi texto- En ti, pues, esperamos.
+escritural y lógica mencionada en mi texto- “En ti, pues, esperamos”.
 
-Por ltimo, cuando estas
+Por último, cuando estas
 
-personas llegaron a la desesperacin, es muy notable cmo
+personas llegaron a la desesperación, es muy notable cómo
 
-todo en torno a ellas pareca concordar con su miseria.
+todo en torno a ellas parecía concordar con su miseria.
 
 Escuchen el
 
-tercer versculo: Cubrieron sus cabezas. Oyeron las ltimas palabras del
+tercer versículo: “Cubrieron sus cabezas”. żOyeron las últimas palabras del
 
-cuarto versculo? Hicieron exactamente lo mismo: Cubrieron sus cabezas.
+cuarto versículo? Hicieron exactamente lo mismo: “Cubrieron sus cabezas”.
 
-Seguramente el segundo versculo es el eco del primero. As es: la tierra
+Seguramente el segundo versículo es el eco del primero. Así es: la tierra
 
-siente simpata por el hombre. La naturaleza refleja exteriormente nuestros
+siente simpatía por el hombre. La naturaleza refleja exteriormente nuestros
 
-sentimientos interiores. Cuando Dios nos hace dichosos, con alegra salimos, y
+sentimientos interiores. Cuando Dios nos hace dichosos, “con alegría salimos, y
 
-con paz somos vueltos; los montes y los collados levantan cancin delante de nosotros,
+con paz somos vueltos; los montes y los collados levantan canción delante de nosotros,
 
-y todos los rboles del campo dan palmadas de aplauso. Pero cuando nos
+y todos los árboles del campo dan palmadas de aplauso”. Pero cuando nos
 
-encontramos sumidos en la desesperacin, la naturaleza entera hace eco de
+encontramos sumidos en la desesperación, la naturaleza entera hace eco de
 
-nuestra miseria. El sentido del texto hebreo es: La tierra est desfallecida;
+nuestra miseria. El sentido del texto hebreo es: “La tierra está desfallecida”;
 
-la propia tierra est aterrorizada por la falta de lluvia, y abre su boca jadeando
+la propia tierra está aterrorizada por la falta de lluvia, y abre su boca jadeando
 
-de miedo. La tierra est desfallecida pues no hubo lluvia en la tierra, y los labradores
+de miedo. “La tierra está desfallecida pues no hubo lluvia en la tierra, y los labradores
 
-estaban avergonzados y cubrieron sus cabezas.
+estaban avergonzados y cubrieron sus cabezas”.
 
-Se han encontrado
+żSe han encontrado
 
-alguna vez en tal estado mental que saban de su necesidad del agua de la vida,
+alguna vez en tal estado mental que sabían de su necesidad del agua de la vida,
 
-pero eran incapaces de encontrarla en alguna parte? Si as fuera, ustedes han
+pero eran incapaces de encontrarla en alguna parte? Si así fuera, ustedes han
 
-sido indeciblemente miserables, y toda la creacin est de duelo para hacerles
+sido indeciblemente miserables, y toda la creación está de duelo para hacerles
 
-compaa. La naturaleza es susceptible de responderle al hombre, a quien el
+compańía. La naturaleza es susceptible de responderle al hombre, a quien el
 
-Creador design para que fuera su seor. La naturaleza hace resonar su repique
+Creador designó para que fuera su seńor. La naturaleza hace resonar su repique
 
 de bodas para proclamar la felicidad del hombre, o dobla a muerto para lamentar
 
-los funerales de sus dichas. Si t has cerrado las persianas de tu corazn, y
+los funerales de sus dichas. Si tú has cerrado las persianas de tu corazón, y
 
-tu alma est sumida en la oscuridad, entonces los cielos estn oscuros tambin;
+tu alma está sumida en la oscuridad, entonces los cielos están oscuros también;
 
 o si no, la propia brillantez de la naturaleza pareciera ser otra forma de
 
 negrura para ti, y sus dichas se burlan de tus angustias y restriegan sal en
 
-tus heridas. Cuando los hombres estn abatidos y sus rostros estn cubiertos, la
+tus heridas. Cuando los hombres están abatidos y sus rostros están cubiertos, la
 
-naturaleza cubre tambin su rostro y todo el universo est triste. Ay del da
+naturaleza cubre también su rostro y todo el universo está triste. ˇAy del día
 
-cuando la mano del Seor es dolorosa para el alma! Entonces nuestra humedad se
+cuando la mano del Seńor es dolorosa para el alma! Entonces nuestra humedad se
 
-convierte en la sequa del verano.
+convierte en la sequía del verano.
 
 III.
 
 Hemos
 
-considerado hasta aqu el argumento; ahora debo apresurarme a la conclusin. El
+considerado hasta aquí el argumento; ahora debo apresurarme a la conclusión. El
 
 hombre es una criatura muy dependiente; el hombre puede verse reducido a una
 
-horrenda angustia; y en tercer lugar, EL NICO RECURSO SEGURO DEL HOMBRE ES SU
+horrenda angustia; y en tercer lugar, EL ÚNICO RECURSO SEGURO DEL HOMBRE ES SU
 
-DIOS. Dios es nuestro refugio. Si yo me dirigiera a cualquier persona
+DIOS. “Dios es nuestro refugio”. Si yo me dirigiera a cualquier persona
 
-presente que se encuentre en tal problema como el que he descrito, permtame
+presente que se encuentre en tal problema como el que he descrito, permítame
 
-enfatizarle este pensamiento: el nico lugar de refugio para ti est en Dios,
+enfatizarle este pensamiento: el único lugar de refugio para ti está en Dios,
 
-segn se revela a S mismo en Cristo Jess. Apresrate a ir a l! Afrrate a
+según se revela a Sí mismo en Cristo Jesús. ˇApresúrate a ir a Él! ˇAférrate a
 
-Su poder! Ocltate bajo las alas de Su cuidado!
+Su poder! ˇOcúltate bajo las alas de Su cuidado!
 
 Pues, primero,
 
@@ -914,371 +914,371 @@ no hay ayuda en ninguna otra parte.
 
 Lean
 
-el versculo 22: Hay entre los dolos de las naciones quien haga llover? No
+el versículo 22: “żHay entre los ídolos de las naciones quien haga llover?” No
 
-dice: los dioses de las naciones; quienes eran dioses en das mejores son
+dice: “los dioses de las naciones”; quienes eran ‘dioses’ en días mejores son
 
-vistos que slo son, en verdad, vanidades en el tiempo de necesidad. Hacer
+vistos que sólo son, en verdad, vanidades en el tiempo de necesidad. Hacer
 
-llover es una prerrogativa divina; de aqu que los sacerdotes de los dolos
+llover es una prerrogativa divina; de aquí que los sacerdotes de los ídolos
 
-pretendan hacerlo a nombre de sus falsas deidades. El Hacedor de lluvia es
+pretendan hacerlo a nombre de sus falsas deidades. El ‘Hacedor de lluvia’ es
 
-encontrado en todo pas idlatra, pero yo creo que prcticamente nadie cree en
+encontrado en todo país idólatra, pero yo creo que prácticamente nadie cree en
 
-eso ahora. Qu payasadas y trucos tienen que realizar los Hacedores de lluvia
+eso ahora. ˇQué payasadas y trucos tienen que realizar los ‘Hacedores de lluvia’
 
 para producir la lluvia, aunque no llega nunca, y sus dioses tampoco pueden
 
-crear una nube! Y dnde podra ir cualquiera de ustedes para obtener la gracia,
+crear una nube! żY dónde podría ir cualquiera de ustedes para obtener la gracia,
 
-si rehusara mirar a Dios nicamente?
+si rehusara mirar a Dios únicamente?
 
-Hay un hacedor de
+Hay un ‘hacedor de
 
-lluvia por all, en la iglesia ritualista, que puede producir un chaparrn en
+lluvia’ por allá, en la ‘iglesia ritualista’, que puede producir un chaparrón en
 
-el corazn de un nio, por el cual se convierte en un miembro de Cristo, un
+el corazón de un nińo, por el cual se convierte en “un miembro de Cristo, un
 
-hijo de Dios, y un heredero del reino del cielo. Pero yo confo que no sean tan
+hijo de Dios, y un heredero del reino del cielo”. Pero yo confío que no sean tan
 
-necios como para creer en l y, por tanto, no haran un viaje estril hacia la
+necios como para creer en él y, por tanto, no harían un viaje estéril hacia la
 
-superchera sacerdotal. Adnde irn? No vengan a nosotros, pobres predicadores
+superchería sacerdotal. żAdónde irán? No vengan a nosotros, pobres predicadores
 
-del Evangelio, pues en nosotros no encontrarn nada; nosotros slo somos dedos
+del Evangelio, pues en nosotros no encontrarán nada; nosotros sólo somos dedos
 
 para
 
 indicarles
 
-a ustedes al Seor Jess, en quien
+a ustedes al Seńor Jesús, en quien
 
-mora toda plenitud. Buscars al sacerdote de larga genealoga de la iglesia de
+mora toda plenitud. żBuscarás al sacerdote de larga genealogía de la iglesia de
 
-Roma, que puede concederte la absolucin por un centavo? Acudirs a l? No,
+Roma, que puede concederte la absolución por un centavo? żAcudirás a él? No,
 
-todava permanece algn discernimiento en ti, y sientes que ser absuelto por un
+todavía permanece algún discernimiento en ti, y sientes que ser absuelto por un
 
-hombre no tranquilizara tu conciencia. Los sacerdotes de Baal son de poca
+hombre no tranquilizaría tu conciencia. Los sacerdotes de Baal son de poca
 
-relevancia cuando una sequa total y una terrible caresta estn presentes en
+relevancia cuando una sequía total y una terrible carestía están presentes en
 
-la tierra. En los das de Elas clamaban a grandes voces, y se sajaban con
+la tierra. En los días de Elías clamaban a grandes voces, y se sajaban con
 
-cuchillos, y decan: Baal, respndenos! Baal, respndenos!, pero nicamente
+cuchillos, y decían: “ˇBaal, respóndenos! ˇBaal, respóndenos!”, pero únicamente
 
-el Dios que respondiera por fuego poda responder por agua; y Baal no poda
+el Dios que respondiera por fuego podía responder por agua; y Baal no podía
 
 hacer ni lo uno ni lo otro. Por tanto, vamos a dejar a Baal en paz, y a todos
 
 los profetas de Asera, con sus velas, y sus crucifijos, y su incienso, y sus
 
-vestimentas. Yo s dnde tienen la probabilidad de acudir ustedes, y es a sus
+vestimentas. Yo sé dónde tienen la probabilidad de acudir ustedes, y es a sus
 
-propias personas y sentimientos, a sus propias resoluciones y acciones. Ay de su
+propias personas y sentimientos, a sus propias resoluciones y acciones. ˇAy de su
 
-insensatez! Oh, s, ustedes quieren alcanzar la paz, y entonces dan su palabra,
+insensatez! Oh, sí, ustedes quieren alcanzar la paz, y entonces dan su palabra,
 
-y prometen que se volvern decentes, y sobrios y todo lo dems. Qu son estas
+y prometen que se volverán decentes, y sobrios y todo lo demás. żQué son estas
 
 confianzas sino vanidades de los paganos? Los mejores deberes que ustedes y yo
 
-podamos cumplir, si ponemos nuestra confianza en ellos, son slo falsas
+podamos cumplir, si ponemos nuestra confianza en ellos, son sólo falsas
 
 confianzas y refugios de mentiras que no nos pueden proporcionar ninguna ayuda.
 
-Es ms, miren: segn el
+Es más, miren: según el
 
 texto
 
-si olvidamos al Seor,
+si olvidamos al Seńor,
 
 no hay ninguna ayuda para nosotros incluso
 
 en los medios usuales de gracia.
 
-Lean la segunda pregunta: Y darn los
+Lean la segunda pregunta: “żY darán los
 
-cielos lluvias? Las lluvias vienen de los cielos, pero los cielos no pueden
+cielos lluvias?” Las lluvias vienen de los cielos, pero los cielos no pueden
 
 producir lluvias aparte de Dios. El cielo oriental, sin lluvia, es azul,
 
-brillante, hermoso; pero despus de meses de una despiadada sequa, cuando
+brillante, hermoso; pero después de meses de una despiadada sequía, cuando
 
-ninguna lgrima de compasin ha brillado en los ojos de los cielos, el color
+ninguna lágrima de compasión ha brillado en los ojos de los cielos, el color
 
-azul se convierte en la ensea de la melancola, y si sto contina mes tras
+azul se convierte en la enseńa de la melancolía, y si ésto continúa mes tras
 
-mes, se convierte en el color de la desesperacin. Mientras el Seor no abra
+mes, se convierte en el color de la desesperación. Mientras el Seńor no abra
 
-las ventanas del cielo para derramar la bendicin, ni el sol, ni la luna ni las
+las ventanas del cielo para derramar la bendición, ni el sol, ni la luna ni las
 
-estrellas pueden ayudar a la necesidad del hombre. Si el Seor no te ayudara,
+estrellas pueden ayudar a la necesidad del hombre. Si el Seńor no te ayudara,
 
 oh alma ansiosa y atribulada, los sacramentos son todos vanos, aunque fueran
 
-ordenados por el cielo; y la predicacin y la lectura, la liturgia y el canto,
+ordenados por el cielo; y la predicación y la lectura, la liturgia y el canto,
 
-todo eso sera en vano para traer el roco refrescante de la gracia. Job en
+todo eso sería en vano para traer el rocío refrescante de la gracia. Job en
 
-verdad dijo: Dios no volver atrs su ira, y debajo de l se abaten los que
+verdad dijo: “Dios no volverá atrás su ira, y debajo de él se abaten los que
 
-ayudan a los soberbios. Si el propio Dios no te salvara, oh hombre, todo lo
+ayudan a los soberbios”. Si el propio Dios no te salvara, oh hombre, todo lo
 
-que pudiera ser hecho por los hombres o por los ngeles a lo largo de las
+que pudiera ser hecho por los hombres o por los ángeles a lo largo de las
 
-edades, no podra ayudarte nunca ni siquiera una sola jota. T ests perdido,
+edades, no podría ayudarte nunca ni siquiera una sola jota. ˇTú estás perdido,
 
-perdido, perdido, si un brazo ms fuerte que el del hombre no fuere extendido
+perdido, perdido, si un brazo más fuerte que el del hombre no fuere extendido
 
 para ayudarte!
 
-Pero en Dios est todo el poder.
+Pero en Dios está todo el poder.
 
-Est la misericordia: No
+Está la misericordia: “żNo
 
-eres t, Jehov, nuestro Dios? En ti, pues, esperamos, pues t hiciste todas
+eres tú, Jehová, nuestro Dios? En ti, pues, esperamos, pues tú hiciste todas
 
-estas cosas. Vean en cun breve tiempo l cubre los cielos de nubes, y derrama
+estas cosas”. Vean en cuán breve tiempo Él cubre los cielos de nubes, y derrama
 
 una abundancia de lluvia hasta convertir el desierto en una laguna y la tierra
 
-seca en manantiales de agua. l puede; l puede! l puede alcanzar la
+seca en manantiales de agua. ˇÉl puede; Él puede! Él puede alcanzar la
 
-extremidad de la debilidad y del dolor de los hombres. Qu es lo que no podra
+extremidad de la debilidad y del dolor de los hombres. żQué es lo que no podría
 
-hacer? Nada es demasiado difcil para el Seor; y para ti, pobre pecador, que
+hacer? Nada es demasiado difícil para el Seńor; y para ti, pobre pecador, que
 
-ests seco como la arena del desierto, Dios puede hacer en una hora, s, en un
+estás seco como la arena del desierto, Dios puede hacer en una hora, sí, en un
 
-instante, que tu corazn sea inundado con Su gracia. l es el Creador que hace
+instante, que tu corazón sea inundado con Su gracia. Él es el Creador que hace
 
-todas las cosas de la nada, y l puede crear en ti de inmediato el corazn
+todas las cosas de la nada, y Él puede crear en ti de inmediato el corazón
 
-tierno, el espritu de amor, la mente de fe y la naturaleza santificada. Qu
+tierno, el espíritu de amor, la mente de fe y la naturaleza santificada. Qué
 
-importa que no tengas ninguna gracia esta maana, no, ni siquiera una sola
+importa que no tengas ninguna gracia esta mańana, no, ni siquiera una sola
 
-gota; l puede abrir manantiales en el desierto. T no puedes encontrar dentro
+gota; Él puede abrir manantiales en el desierto. Tú no puedes encontrar dentro
 
-de ti, sin importar dnde busques, ninguna traza de amor, o de un sentimiento
+de ti, sin importar dónde busques, ninguna traza de amor, o de un sentimiento
 
-santo o de algo que sea bueno; sin embargo, l puede darte todo, puede darte
+santo o de algo que sea bueno; ˇsin embargo, Él puede darte todo, puede darte
 
-todo por nada, y puede drtelo justo ahora! Si t crees que l puede, y confas
+todo por nada, y puede dártelo justo ahora! Si tú crees que Él puede, y confías
 
-en l segn revela Su amor en el Seor Jess, l te salvar. l puede darte el
+en Él según revela Su amor en el Seńor Jesús, Él te salvará. Él puede darte el
 
-poder de creerlo, y conducirte ahora a arrojarte sobre l. l puede, pero depende
+poder de creerlo, y conducirte ahora a arrojarte sobre Él. Él puede, pero depende
 
-de Su voluntad. No dice acaso: Tendr misericordia del que yo tenga
+de Su voluntad. żNo dice acaso: “Tendré misericordia del que yo tenga
 
-misericordia, y me compadecer del que yo me compadezca? Un Dios sin una
+misericordia, y me compadeceré del que yo me compadezca”? Un Dios sin una
 
-voluntad no es ningn Dios en absoluto; y si no tuviera ninguna voluntad en la
+voluntad no es ningún Dios en absoluto; y si no tuviera ninguna voluntad en la
 
-materia de la salvacin, entonces estara destronado de su ms selecto imperio,
+materia de la salvación, entonces estaría destronado de su más selecto imperio,
 
 y el hombre es erigido por sobre el propio Dios de la gracia. Eso no puede ser.
 
-Bien, entonces, qu
+Bien, entonces, żqué
 
-sigue de sto? Si Dios tiene todo este poder,
+sigue de ésto? Si Dios tiene todo este poder,
 
-nuestra sabidura consiste en esperar en l,
+nuestra sabiduría consiste en esperar en Él,
 
-pues slo l puede
+pues sólo Él puede
 
-ayudarnos. Extraemos esta conclusin: En ti, pues, esperamos. Oh, mi amado
+ayudarnos. Extraemos esta conclusión: “En ti, pues, esperamos”. Oh, mi amado
 
-oyente, si nunca has sido convertido, yo le pido al Espritu Santo que te
+oyente, si nunca has sido convertido, yo le pido al Espíritu Santo que te
 
-conduzca a tomar una decisin, para que de inmediato busques al Seor. Toda
+conduzca a tomar una decisión, para que de inmediato busques al Seńor. Toda
 
-ruta est cerrada excepto el camino de la gracia soberana. T no tienes ningn
+ruta está cerrada excepto el camino de la gracia soberana. Tú no tienes ningún
 
-mrito, ni tienes poder alguno; t no puedes tener nunca ningn mrito, ni
+mérito, ni tienes poder alguno; tú no puedes tener nunca ningún mérito, ni
 
-puedes tener ningn poder propio. Dios debe salvarte, o estars perdido para
+puedes tener ningún poder propio. Dios debe salvarte, o estarás perdido para
 
-toda la eternidad; l puede salvarte para glorificar Su propia gracia, y dar a
+toda la eternidad; Él puede salvarte para glorificar Su propia gracia, y dar a
 
 conocer Su propia misericordia, y revelar Su gran poder para convertir los
 
-corazones de piedra en corazones de carne. l puede salvarte. Somtete a l,
+corazones de piedra en corazones de carne. Él puede salvarte. Sométete a Él,
 
-entonces, y ven a l y di, con el pues de mi texto: En ti, pues, esperamos.
+entonces, y ven a Él y di, con el “pues” de mi texto: “En ti, pues, esperamos”.
 
-Oigo acaso que alguien
+żOigo acaso que alguien
 
-dice: Cmo me gustara orar? S, esa es la manera de venir a Dios.
+dice: “Cómo me gustaría orar”? Sí, esa es la manera de venir a Dios.
 
-Ven a l por la oracin en el nombre de
+Ven a Él por la oración en el nombre de
 
-Jess.
+Jesús.
 
-Necesitas una oracin? Este captulo est lleno de peticiones, y
+żNecesitas una oración? Este capítulo está lleno de peticiones, y
 
-hay una oracin que yo te indicara. Aqu tienes una breve oracin para ti
+hay una oración que yo te indicaría. Aquí tienes una breve oración para ti
 
-(versculo 7), Aunque nuestras iniquidades testifican contra nosotros, oh
+(versículo 7), “Aunque nuestras iniquidades testifican contra nosotros, oh
 
-Jehov, acta. Acta. Seor, yo no puedo producir gracia en mi propio corazn,
+Jehová, actúa…”. “Actúa”. “Seńor, yo no puedo producir gracia en mi propio corazón,
 
-como tampoco puedo hacer que la lluvia descienda desde el cielo, pero acta. Seor,
+como tampoco puedo hacer que la lluvia descienda desde el cielo, pero actúa”. “Seńor,
 
-yo no puedo venir a Ti, ven T a m; acta. Acaso no es esa una maravillosa
+yo no puedo venir a Ti, ven Tú a mí; actúa”. żAcaso no es esa una maravillosa
 
-oracin? Hay ms contenido en ella del que piensas; entre ms la consideres, ms
+oración? Hay más contenido en ella del que piensas; entre más la consideres, más
 
-grande la vers. Tres slabas: Ac-t-a! Y luego observen el argumento: cinco
+grande la verás. Tres sílabas: “ˇAc-tú-a!” Y luego observen el argumento: cinco
 
-palabras de unas cuantas slabas, Por amor de tu nombre. No por causa ma,
+palabras de unas cuantas sílabas, “Por amor de tu nombre”. No por causa mía,
 
-sino debido a Cristo, quien es la manifestacin de Tu nombre. Por causa de Tu
+sino debido a Cristo, quien es la manifestación de Tu nombre. Por causa de Tu
 
-propia gloria, pues Tu gloria es Tu nombre. Seor, hazme ver que T puedes
+propia gloria, pues Tu gloria es Tu nombre. ˇSeńor, hazme ver que Tú puedes
 
-salvar a un gran pecador, salvndome a m! Seor, glorifica Tu misericordia
+salvar a un gran pecador, salvándome a mí! Seńor, glorifica Tu misericordia
 
-perdonndome a m, pues, oh, si salvaras a un pobre desgraciado indigno como
+perdonándome a mí, pues, oh, si salvaras a un pobre desgraciado indigno como
 
-yo, incluso el cielo mismo resonar con Tus alabanzas; e incluso en el infierno
+yo, incluso el cielo mismo resonará con Tus alabanzas; e incluso en el infierno
 
-dirn: Vean lo que puede hacer Dios! l salv a uno que estaba maduro para el
+dirán: “ˇVean lo que puede hacer Dios! Él salvó a uno que estaba maduro para el
 
-fuego eterno, y coloc al rebelde entre Sus hijos. Acta por amor de tu
+fuego eterno, y colocó al rebelde entre Sus hijos”. “Actúa por amor de tu
 
-nombre. De todo corazn recomiendo esta oracin para toda alma presente que
+nombre”. De todo corazón recomiendo esta oración para toda alma presente que
 
-est buscando al Seor. Que el Espritu la escriba en sus corazones! Yo no
+esté buscando al Seńor. ˇQue el Espíritu la escriba en sus corazones! Yo no
 
-podra darles una mejor oracin. Acta por amor de tu nombre.
+podría darles una mejor oración. “Actúa por amor de tu nombre”.
 
 Bien, entonces, a
 
-continuacin, si van a esperar realmente en el Seor, deben
+continuación, si van a esperar realmente en el Seńor, deben
 
-hacerlo a travs de un Mediador.
+hacerlo a través de un Mediador.
 
 Estas
 
-personas culpables de Jerusaln tenan a Jeremas para que orara por ellas.
+personas culpables de Jerusalén tenían a Jeremías para que orara por ellas.
 
-Jeremas, con los ojos llorosos, tipifica adecuadamente a uno mayor que
+Jeremías, con los ojos llorosos, tipifica adecuadamente a uno mayor que
 
-Jeremas. Recuerden al Varn de dolores, al Experimentado en quebranto! El
+Jeremías. ˇRecuerden al Varón de dolores, al Experimentado en quebranto! El
 
-Seor de Jeremas debe ser el Intercesor suyo. Ruguenle que sea su Mediador.
+Seńor de Jeremías debe ser el Intercesor suyo. Ruéguenle que sea su Mediador.
 
 Ustedes no pueden ir directamente a un Dios absoluto; necesitan un Mediador. Un
 
-Mediador es provisto. l ha presentado un sacrificio aceptable e interceder
+Mediador es provisto. Él ha presentado un sacrificio aceptable e intercederá
 
-por las causas de tu alma. Confa en Su sangre en vez de confiar en tus
+por las causas de tu alma. Confía en Su sangre en vez de confiar en tus
 
-lgrimas. Deja que Su muerte limpie tu vida. Pon tu caso en las manos del
+lágrimas. Deja que Su muerte limpie tu vida. Pon tu caso en las manos del
 
-grandioso Mediador, pues si crees en l, l ser tu fiador y l nunca falla. Ir
+grandioso Mediador, pues si crees en Él, Él será tu fiador y Él nunca falla. Irá
 
 al tribunal de
 
 la Corte
 
-del Rey en tu nombre, y ser tu Abogado, y ganar tu proceso judicial. Ven,
+del Rey en tu nombre, y será tu Abogado, y ganará tu proceso judicial. Ven,
 
-confate a Jess, pues l te salvar.
+confíate a Jesús, pues Él te salvará.
 
-Permteme aconsejarte
+Permíteme aconsejarte
 
 que
 
-hagas una plena confesin de pecado.
+hagas una plena confesión de pecado.
 
-Lee el versculo 20: Reconocemos, oh Jehov, nuestra impiedad porque contra
+Lee el versículo 20: “Reconocemos, oh Jehová, nuestra impiedad… porque contra
 
-ti hemos pecado. Confiesa todo, descubre el pasado, revela el presente. No
+ti hemos pecado”. Confiesa todo, descubre el pasado, revela el presente. No
 
-pienses en cubrir el pecado. Ocultar el pecado es arruinarte t mismo;
+pienses en cubrir el pecado. Ocultar el pecado es arruinarte tú mismo;
 
-confesarlo, es encontrar misericordia. Colcate entre los culpables, pues all
+confesarlo, es encontrar misericordia. Colócate entre los culpables, pues allí
 
 la misericordia puede alcanzarte convenientemente.
 
 Cuando hayas hecho eso,
 
-encrvate delante de tu Dios,
+encórvate delante de tu Dios,
 
-En ti,
+“En ti,
 
-pues, esperamos. Ven a travs de Cristo, creyendo en el poder de Su sangre
+pues, esperamos”. Ven a través de Cristo, creyendo en el poder de Su sangre
 
 preciosa, y entonces puedes acercarte a Dios. Aunque estuvieras cargado con
 
 suficientes pecados que pudieran hundir a un mundo de pecadores en el infierno,
 
-si creyeras en la misericordia de Dios por medio de Cristo Jess y te arrojaras
+si creyeras en la misericordia de Dios por medio de Cristo Jesús y te arrojaras
 
-a Sus pies, y permanecieras all, l nunca te dira: Aprtate. Jess ha dicho:
+a Sus pies, y permanecieras allí, Él nunca te diría: “Apártate”. Jesús ha dicho:
 
-Al que a m viene, no le echo fuera. Si pereces, es debido a que no vienes, y
+“Al que a mí viene, no le echo fuera”. Si pereces, es debido a que no vienes, y
 
-no debido a que, viniendo, l te rechaza.
+no debido a que, viniendo, Él te rechaza.
 
 Oh, seres queridos, yo
 
-no conozco a algunos de ustedes, aunque a otros s los conozco; pero ya sea que
+no conozco a algunos de ustedes, aunque a otros sí los conozco; pero ya sea que
 
 sean mis conocidos o no, los estoy mirando ahora con ojos amorosos, y les digo:
 
-Vengan a mi Seor. No les dice su corazn: Me levantar e ir a mi padre?
+‘Vengan a mi Seńor’. żNo les dice su corazón: “Me levantaré e iré a mi padre”?
 
-Entonces, eso me alegra. Ustedes han probado a los ciudadanos de este pas que
+Entonces, eso me alegra. Ustedes han probado a los ciudadanos de este país que
 
-los han enviado a los campos para alimentar a los cerdos y lo nico que han
+los han enviado a los campos para alimentar a los cerdos y lo único que han
 
 comido es algarrobas. Han gastado su dinero y han desperdiciado su riqueza
 
-viviendo perdidamente; ahora no pueden encontrar ningn placer sin importar
+viviendo perdidamente; ahora no pueden encontrar ningún placer sin importar
 
-dnde vayan. Vanidad de vanidades; todo es vanidad! Aljense de las vanidades,
+dónde vayan. ˇVanidad de vanidades; todo es vanidad! Aléjense de las vanidades,
 
-y busquen las verdades. Vulvanse a su Dios. Vulvanse inmediatamente! Vuelvan
+y busquen las verdades. Vuélvanse a su Dios. ˇVuélvanse inmediatamente! ˇVuelvan
 
-al punto de partida! Vuelvan al punto de partida! Se han adentrado demasiado
+al punto de partida! ˇVuelvan al punto de partida! Se han adentrado demasiado
 
 lejos en el camino del mal. Un precipicio se encuentra ante ustedes. Un paso
 
-ms, s, un paso ms, y se hundirn en l, y su ruina eterna ser irremisible.
+más, sí, un paso más, y se hundirán en él, y su ruina eterna será irremisible.
 
-Vuelvan al punto de partida tan rpidamente como puedan, al grandioso Dios de
+ˇVuelvan al punto de partida tan rápidamente como puedan, al grandioso Dios de
 
-quien se han alejado! Vengan ahora, ahora mismo, pues l los est invitando: Venid
+quien se han alejado! Vengan ahora, ahora mismo, pues Él los está invitando: “Venid
 
-luego, dice Jehov, y estemos a cuenta: si vuestros pecados fueren como la
+luego, dice Jehová, y estemos a cuenta: si vuestros pecados fueren como la
 
-grana, como la nieve sern emblanquecidos; si fueren rojos como el carmes,
+grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí,
 
-vendrn a ser como blanca lana. Mientras l habla de esta manera, yo espero
+vendrán a ser como blanca lana”. Mientras Él habla de esta manera, yo espero
 
-que ustedes respondan al llamamiento y se inclinen a Sus pies de inmediato. Si
+que ustedes respondan al llamamiento y se inclinen a Sus pies de inmediato. “Si
 
-oyereis hoy su voz, no endurezcis vuestros corazones. Que sean asidos por el
+oyereis hoy su voz, no endurezcáis vuestros corazones”. Que sean asidos por el
 
-Espritu Santo, para que puedan aferrarse a Jess. Que Dios nos lo conceda,
+Espíritu Santo, para que puedan aferrarse a Jesús. ˇQue Dios nos lo conceda,
 
-por Cristo nuestro Seor! Amn.
+por Cristo nuestro Seńor! Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Jeremas 14.
+del sermón: Jeremías 14.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 3/Febrero/2011
 

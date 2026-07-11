@@ -1,86 +1,86 @@
 # Sermón 672 | Sermón 672
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 El Graznido de los Cuervos
 
 NO. 672
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 14 DE ENERO DE 1866
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-El da a la bestia su mantenimiento,
+“El da a la bestia su mantenimiento,
 
-y a los hijos de los cuervos que claman. Salmo 147: 9.
+y a los hijos de los cuervos que claman.” Salmo 147: 9.
 
-El da su alimento al ganado y a la
+“El da su alimento al ganado y a la
 
-cra de los cuervos cuando chillan. Salmo 147: 9. La Biblia de las Amricas.
+cría de los cuervos cuando chillan.” Salmo 147: 9. La Biblia de las Américas.
 
-Voy a dar comienzo a este sermn con una cita.
+Voy a dar comienzo a este sermón con una cita.
 
 Debo darles, en las propias palabras de Caryl, su comentario sobre los cuervos.
 
-Los naturalistas nos informan que cuando el cuervo ha alimentado a sus
+“Los naturalistas nos informan que cuando el cuervo ha alimentado a sus
 
-polluelos en el nido hasta que estn bien emplumados y son capaces de volar,
+polluelos en el nido hasta que están bien emplumados y son capaces de volar,
 
 entonces los arroja fuera del nido, y no les permite
 
 permanecer
 
-all, sino que los obliga a obtener su propio sustento. Ahora, cuando estas
+allí, sino que los obliga a obtener su propio sustento.” Ahora, cuando estas
 
-cras de los cuervos vuelan por primera vez lejos del nido, y estn poco
+crías de los cuervos vuelan por primera vez lejos del nido, y están poco
 
 enterados de los medios a su alcance para proveerse de alimentos, entonces el
 
-Seor les da su alimento. Algunas autoridades confiables nos informan que el cuervo
+Seńor les da su alimento. Algunas autoridades confiables nos informan que el cuervo
 
-es maravillosamente estricto y severo en esto, pues tan pronto como sus cras
+es maravillosamente estricto y severo en esto, pues tan pronto como sus crías
 
-son capaces de valerse por s mismas, no les proporciona ms su alimento. S,
+son capaces de valerse por sí mismas, no les proporciona más su alimento. Sí,
 
 algunos afirman que los cuervos adultos no permiten que los polluelos se queden
 
-en la misma regin en la que crecieron. Si es as, entonces tienen
+en la misma región en la que crecieron. Si es así, entonces tienen
 
 necesariamente que emigrar.
 
-Decimos proverbialmente: la necesidad hace
+Decimos proverbialmente: ‘la necesidad hace
 
-trotar a la vieja esposa; y podramos decir: y hace trotar a los jvenes
+trotar a la vieja esposa’; y podríamos decir: ‘y hace trotar a los jóvenes
 
-tambin. Ha sido, y, posiblemente sea tambin la prctica de algunos padres
+también’. Ha sido, y, posiblemente sea también la práctica de algunos padres
 
-para con sus hijos que, tan pronto como pueden valerse por s mismos y son
+para con sus hijos que, tan pronto como pueden valerse por sí mismos y son
 
 capaces de conseguir su pan de alguna manera, los echan fuera de la casa, igual
 
-que el cuervo echa fuera del nido a sus cras.
+que el cuervo echa fuera del nido a sus crías.
 
-Ahora, dice el Seor en el texto: cuando las
+Ahora, dice el Seńor en el texto: “cuando las
 
-cras de los cuervos se encuentran en ese aprieto, cuando son arrojadas del
+crías de los cuervos se encuentran en ese aprieto, cuando son arrojadas del
 
-nido y merodean por falta de comida, quin les provee el alimento? No soy Yo
+nido y merodean por falta de comida, żquién les provee el alimento? żNo soy Yo
 
-quien lo hace? No soy Yo, el que da el alimento a los cuervos adultos, quien tambin
+quien lo hace? żNo soy Yo, el que da el alimento a los cuervos adultos, quien también
 
-da a sus cras mientras estn en el nido y tambin cuando andan errantes por
+da a sus crías mientras están en el nido y también cuando andan errantes por
 
-falta de comida?
+falta de comida?”
 
-Salomn le indic al perezoso que estudiara a la
+Salomón le indicó al perezoso que estudiara a la
 
-hormiga, y l mismo aprendi lecciones de los conejos, de los galgos y de las
+hormiga, y él mismo aprendió lecciones de los conejos, de los galgos y de las
 
-araas: hemos de estar dispuestos a ser instruidos por cualquiera de las
+arańas: hemos de estar dispuestos a ser instruidos por cualquiera de las
 
 criaturas de Dios, y nos aproximaremos esta noche al nido de los cuervos para
 
@@ -90,339 +90,343 @@ Para los puros nada es inmundo y para los sabios
 
 nada es trivial. Dejemos que los supersticiosos teman al cuervo como a un ave
 
-de mal agero, y que los irreflexivos no vean nada sino algo alado de un negro brillante,
+de mal agüero, y que los irreflexivos no vean nada sino algo alado de un negro brillante,
 
-pero nosotros hemos de estar dispuestos a ver algo ms, y, sin duda, no nos
+pero nosotros hemos de estar dispuestos a ver algo más, y, sin duda, no nos
 
-quedaremos sin recompensa si somos susceptibles de ser enseados.
+quedaremos sin recompensa si somos susceptibles de ser enseńados.
 
-El cuervo de No no le llev de regreso una hoja
+El cuervo de Noé no le llevó de regreso una hoja
 
-de olivo, pero el nuestro podra hacerlo esta noche; y podra llegar a suceder
+de olivo, pero el nuestro podría hacerlo esta noche; y podría llegar a suceder
 
-que los cuervos nos traigan comida esta noche, igual que alimentaron a Elas junto
+que los cuervos nos traigan comida esta noche, igual que alimentaron a Elías junto
 
-al arroyo de Querit. Nuestro bendito Seor extrajo una vez un argumento muy
+al arroyo de Querit. Nuestro bendito Seńor extrajo una vez un argumento muy
 
-potente de los cuervos, un argumento que tena por propsito consolar y alentar
+potente de los cuervos, un argumento que tenía por propósito consolar y alentar
 
 a aquellos de Sus siervos que estaban oprimidos por ansiedades innecesarias en
 
-cuanto a sus circunstancias temporales. A los tales les dijo: Considerad los
+cuanto a sus circunstancias temporales. A los tales les dijo: “Considerad los
 
 cuervos, que ni siembran, ni siegan; que ni tienen despensa, ni granero, y Dios
 
-los alimenta. No valis vosotros mucho ms que las aves? Siguiendo la lgica
+los alimenta. żNo valéis vosotros mucho más que las aves?” Siguiendo la lógica
 
-del Maestro, que todos ustedes acordarn que debe de haber sido perfecta, pues
+del Maestro, –que todos ustedes acordarán que debe de haber sido perfecta, pues
 
-l no fue nunca falso en sus razonamientos como tampoco lo fue en Sus aseveraciones
+Él no fue nunca falso en sus razonamientos como tampoco lo fue en Sus aseveraciones–
 
 voy a argumentar esta noche en este sentido: Consideren a los cuervos cuando
 
-graznan; con notas speras, inarticuladas y con chillidos hacen saber sus
+graznan; con notas ásperas, inarticuladas y con chillidos hacen saber sus
 
-carencias, y su Padre celestial responde a sus oracin y les enva el alimento;
+carencias, y su Padre celestial responde a sus oración y les envía el alimento;
 
-ustedes, tambin han comenzado a orar y a buscar Su favor; no valen ustedes
+ustedes, también han comenzado a orar y a buscar Su favor; żno valen ustedes
 
-ms que ellos? Si Dios se preocupa por los cuervos, no se ocupar de ustedes? No
+más que ellos? Si Dios se preocupa por los cuervos, żno se ocupará de ustedes? żNo
 
-presta atencin a los chillidos de los cuervos sin emplumar cuando claman
+presta atención a los chillidos de los cuervos sin emplumar cuando claman
 
-hambrientos a l y esperan ser alimentados? No les provee alimento, pregunto,
+hambrientos a Él y esperan ser alimentados? żNo les provee alimento, pregunto,
 
-en respuesta a sus clamores, y acaso no les responder a ustedes, pobres hijos
+en respuesta a sus clamores, y acaso no les responderá a ustedes, pobres hijos
 
-trmulos de los hombres que buscan Su rostro y Su favor a travs de Cristo
+trémulos de los hombres que buscan Su rostro y Su favor a través de Cristo
 
-Jess? Toda la predicacin de esta noche consistir simplemente en elaborar
+Jesús? Toda la predicación de esta noche consistirá simplemente en elaborar
 
-sobre ese nico pensamiento.
+sobre ese único pensamiento.
 
-Esta noche, con la gua del Espritu Santo,
+Esta noche, con la guía del Espíritu Santo,
 
-tendr por objetivo decir algo a quienes han estado pidiendo misericordia pero
+tendré por objetivo decir algo a quienes han estado pidiendo misericordia pero
 
-que an no la han recibido; a quienes se han puesto de rodillas, tal vez
+que aún no la han recibido; a quienes se han puesto de rodillas, tal vez
 
-durante meses, elevando un clamor sumamente grande y amargo, pero todava no
+durante meses, elevando un clamor sumamente grande y amargo, pero todavía no
 
-conocen la senda de la paz. Su pecado todava cuelga como rueda de molino
+conocen la senda de la paz. Su pecado todavía cuelga como rueda de molino
 
 alrededor de su cuello; se sientan en el valle de sombra de muerte; ninguna luz
 
-les ha alumbrado y retuercen sus manos y gimen diciendo: Ha olvidado Dios ser
+les ha alumbrado y retuercen sus manos y gimen diciendo: “żHa olvidado Dios ser
 
-clemente? Ha cerrado su odo contra las oraciones de las almas que le buscan?
+clemente? żHa cerrado su oído contra las oraciones de las almas que le buscan?
 
-Ya no estar ms atento a los clamores lastimeros de los pecadores? Caern al
+żYa no estará más atento a los clamores lastimeros de los pecadores? żCaerán al
 
-suelo las lgrimas de los penitentes y ya no le movern a compasin?
+suelo las lágrimas de los penitentes y ya no le moverán a compasión?”
 
-Tambin Satans les est diciendo, queridos
+También Satanás les está diciendo, queridos
 
-amigos que se encuentran ahora en este estado mental, que Dios no les oir nunca,
+amigos que se encuentran ahora en este estado mental, que Dios no les oirá nunca,
 
-que les dejar clamar hasta que mueran, que se desvivirn en jadeos y lgrimas,
+que les dejará clamar hasta que mueran, que se desvivirán en jadeos y lágrimas,
 
-y que al final sern arrojados al lago de fuego. Yo anhelo esta noche darles
+y que al final serán arrojados al lago de fuego. Yo anhelo esta noche darles
 
-algn consuelo y nimo. Quiero exhortarlos a clamar todava con mayor
+algún consuelo y ánimo. Quiero exhortarlos a clamar todavía con mayor
 
 vehemencia; quiero que se acerquen a la cruz y que se aferren a ella, y hagan
 
-votos de que nunca abandonarn su sombra hasta encontrar la bendicin que sus
+votos de que nunca abandonarán su sombra hasta encontrar la bendición que sus
 
-almas ambicionan. Quiero moverlos, con la ayuda de Dios el Espritu Santo, al
+almas ambicionan. Quiero moverlos, con la ayuda de Dios el Espíritu Santo, al
 
-punto que digan en su interior, como la reina Ester: Entrar a ver al rey,
+punto que digan en su interior, como la reina Ester: “Entraré a ver al rey,
 
-aunque no sea conforme a la ley; y si perezco, que perezca; y que agreguen a
+aunque no sea conforme a la ley; y si perezco, que perezca”; y que agreguen a
 
-ello el voto de Jacob: No te dejar, si no me bendices!
+ello el voto de Jacob: “ˇNo te dejaré, si no me bendices!”
 
-Entonces, aqu est la pregunta que tenemos
+Entonces, aquí está la pregunta que tenemos
 
-entre manos: DIOS OYE A LOS JVENES CUERVOS; Y ACASO NO TE OIR A TI?
+entre manos: DIOS OYE A LOS JÓVENES CUERVOS; Y żACASO NO TE OIRÁ A TI?
 
 1.
 
-Yo argumento que te oir, primero, cuando
+Yo argumento que te oirá, primero, cuando
 
 recuerdo que
 
 es solamente un cuervo el
 
-que clama, y que t, en algunos sentidos, eres mucho ms que un cuervo.
+que clama, y que tú, en algunos sentidos, eres mucho más que un cuervo.
 
 El
 
-cuervo es slo un pobre pjaro inmundo, cuya muerte instantnea no abrira ninguna
+cuervo es sólo un pobre pájaro inmundo, cuya muerte instantánea no abriría ninguna
 
-penosa brecha en la creacin. Si se les retorciera maana el cuello a miles de
+penosa brecha en la creación. Si se les retorciera mańana el cuello a miles de
 
-cuervos, no creo que habra alguna afliccin o dolor vehemente en el universo
+cuervos, no creo que habría alguna aflicción o dolor vehemente en el universo
 
-por causa de ellos; representaran simplemente un cierto nmero de pobres
+por causa de ellos; representarían simplemente un cierto número de pobres
 
-pjaros muertos, y eso sera todo.
+pájaros muertos, y eso sería todo.
 
 Pero
 
-t eres un alma inmortal.
+tú eres un alma inmortal.
 
 El cuervo desaparece cuando termina su vida y, ya
 
-no hay ms cuervo; pero cuando pasa tu vida presente, t no has cesado de ser;
+no hay más cuervo; pero cuando pasa tu vida presente, tú no has cesado de ser;
 
-acabas de ser botado al agua en el mar de la vida; slo has comenzado a vivir
+acabas de ser botado al agua en el mar de la vida; sólo has comenzado a vivir
 
-para siempre. T vers a los vetustos montes de la tierra desmoronarse hasta
+para siempre. Tú verás a los vetustos montes de la tierra desmoronarse hasta
 
-convertirse en nada antes de que tu espritu inmortal expire; la luna habr
+convertirse en nada antes de que tu espíritu inmortal expire; la luna habrá
 
-palidecido su dbil luz, y los ms potentes fuegos del sol habrn sido
+palidecido su débil luz, y los más potentes fuegos del sol habrán sido
 
-extinguidos y convertidos perpetuas tinieblas, y, sin embargo, tu espritu
+extinguidos y convertidos perpetuas tinieblas, y, sin embargo, tu espíritu
 
-estar marchando todava en su curso eterno, un sempiterno curso de miseria, a
+estará marchando todavía en su curso eterno, un sempiterno curso de miseria, a
 
 menos que Dios oiga tu clamor.
+
+“
+
+ˇ
 
 Oh, esa verdad inmensa,
 
 Que este
 
-mortal, inmortalidad vestir
+mortal, inmortalidad vestirá
 
 !
 
 El pulso de
 
-la mente nunca cesar de vibrar;
+la mente nunca cesará de vibrar;
 
 Revivido por
 
 Dios, por siempre late,
 
-Eterno como
+ˇEterno como
 
 Su propia eternidad!
 
 Sobre los
 
-ngeles, o debajo de los demonios;
+ángeles, o debajo de los demonios;
 
 A remontarse
 
-en gloria, o a descender en vergenza:
+en gloria, o a descender en vergüenza:
 
 La humanidad
 
-est destinada por irresistible sino.
+está destinada por irresistible sino.”
 
-Piensas, entonces, que Dios oir al pobre
+żPiensas, entonces, que Dios oirá al pobre
 
-pjaro que es y no es, y que est aqu un momento y luego es borrado de la
+pájaro que es y no es, y que está aquí un momento y luego es borrado de la
 
-existencia, y no te oir a ti, un alma inmortal, cuya duracin ha de ser
+existencia, y no te oirá a ti, un alma inmortal, cuya duración ha de ser
 
 co-igual con la Suya propia? Pienso que seguramente ha de convencerte que si
 
-oye al cuervo que muere, tambin oir a un hombre que no muere. Los antiguos
+oye al cuervo que muere, también oirá a un hombre que no muere. Los antiguos
 
-decan que Jpiter no tena tiempo de ocuparse de cosas pequeas, pero Jehov
+decían que Júpiter no tenía tiempo de ocuparse de cosas pequeńas, pero Jehová
 
-condesciende a cuidar a las ms nfimas de Sus criaturas e incluso toma en
+condesciende a cuidar a las más ínfimas de Sus criaturas e incluso toma en
 
-cuenta los nidos de los pjaros; no cuidar misericordiosamente de los
+cuenta los nidos de los pájaros; żno cuidará misericordiosamente de los
 
-espritus que son herederos de una aterradora eternidad?
+espíritus que son herederos de una aterradora eternidad?
 
-Adems, nunca he sabido que los cuervos fueran
+Además, nunca he sabido que los cuervos fueran
 
 hechos a imagen de Dios; pero, ciertamente, encuentro que, por impura,
 
-deformada y corrompida que sea nuestra raza, Dios dijo originalmente: Hagamos
+deformada y corrompida que sea nuestra raza, Dios dijo originalmente: “Hagamos
 
-al hombre a nuestra imagen. Hay algo acerca del hombre que no puede
+al hombre a nuestra imagen.” Hay algo acerca del hombre que no puede
 
-encontrarse en las criaturas inferiores, las mejores y las ms nobles de las
+encontrarse en las criaturas inferiores, las mejores y las más nobles de las
 
-cuales estn inconmensurablemente debajo del ms insignificante hijo de Adn.
+cuales están inconmensurablemente debajo del más insignificante hijo de Adán.
 
-Un consejo fue celebrado en cuanto a la creacin
+Un consejo fue celebrado en cuanto a la creación
 
-del hombre; y en su mente, e incluso en la adaptacin de su cuerpo para
+del hombre; y en su mente, e incluso en la adaptación de su cuerpo para
 
-servicio de la mente, hay un maravilloso despliegue de sabidura del Altsimo.
+servicio de la mente, hay un maravilloso despliegue de sabiduría del Altísimo.
 
-Traigan aqu a los ms deformes, oscuros y perversos seres de la raza humana y,
+Traigan aquí a los más deformes, oscuros y perversos seres de la raza humana y,
 
-aunque no me atrevera a adular moralmente a la naturaleza humana sin
+–aunque no me atrevería a adular moralmente a la naturaleza humana– sin
 
-embargo, hay una dignidad en torno al hecho de la condicin humana que no ha de
+embargo, hay una dignidad en torno al hecho de la condición humana que no ha de
 
-encontrarse en todas las bestias del campo, sean las que sean. Behemot y leviatn
+encontrarse en todas las bestias del campo, sean las que sean. Behemot y leviatán
 
-son puestos en sujecin bajo el pie del hombre. El guila no puede remontarse
+son puestos en sujeción bajo el pie del hombre. El águila no puede remontarse
 
-tan alto como se remonta su alma, ni el len se alimenta con la carne real que
+tan alto como se remonta su alma, ni el león se alimenta con la carne real que
 
-el espritu del hombre ansa.
+el espíritu del hombre ansía.
 
-Y, piensas t que Dios oye a una criatura tan
+Y, żpiensas tú que Dios oye a una criatura tan
 
-baja y tan insignificante como el cuervo y que, sin embargo, no te oir a ti,
+baja y tan insignificante como el cuervo y que, sin embargo, no te oirá a ti,
 
 cuando
 
-t eres uno de la raza que fue
+tú eres uno de la raza que fue
 
 formada a Su propia imagen?
 
-Oh, no pienses tan dura e insensatamente de
+ˇOh, no pienses tan dura e insensatamente de
 
-Aquel cuyos caminos son siempre iguales! Les voy a plantear esto. Acaso la
+Aquel cuyos caminos son siempre iguales! Les voy a plantear esto. żAcaso la
 
-propia naturaleza no ensea que el hombre ha de ser cuidado por encima de las
+propia naturaleza no enseńa que el hombre ha de ser cuidado por encima de las
 
-aves del cielo? Si ustedes oyeran los chillidos de los jvenes cuervos, tal vez
+aves del cielo? Si ustedes oyeran los chillidos de los jóvenes cuervos, tal vez
 
-podran sentir la suficiente compasin por esos pjaros para darles alimento,
+podrían sentir la suficiente compasión por esos pájaros para darles alimento,
 
-si supieran cmo alimentarlos; pero no puedo creer que alguno de ustedes
+si supieran cómo alimentarlos; pero no puedo creer que alguno de ustedes
 
-socorrera a los pjaros pero que no vuele sobre las alas de la compasin al
+socorrería a los pájaros pero que no vuele sobre las alas de la compasión al
 
-rescate de un infante que perece, cuyos clamores pudiera or provenientes del
+rescate de un infante que perece, cuyos clamores pudiera oír provenientes del
 
 lugar donde fue arrojado por el cruel descuido. Si en la quietud de la noche
 
 oyeras el clamor lastimero de un hombre que expira en las calles por la
 
-enfermedad, desprovisto de toda misericordia, no te levantaras para ayudarle?
+enfermedad, desprovisto de toda misericordia, żno te levantarías para ayudarle?
 
-Estoy seguro de que le ayudaras, si eres alguien que ayudara a un cuervo. Si
+Estoy seguro de que le ayudarías, si eres alguien que ayudaría a un cuervo. Si
 
-sientes alguna compasin por un cuervo, con mayor razn tendras piedad por un
+sientes alguna compasión por un cuervo, con mayor razón tendrías piedad por un
 
-hombre. Yo s que se rumora que hay algunos simplones que se preocupan ms por
+hombre. Yo sé que se rumora que hay algunos simplones que se preocupan más por
 
 los perros callejeros que por los hombres y mujeres sin hogar; y, sin embargo,
 
-es mucho ms probable que, aquellos que se conduelen de los perros sean los que
+es mucho más probable que, aquellos que se conduelen de los perros sean los que
 
-se preocupen ms enternecidamente por los hombres; de cualquier manera, debera
+se preocupen más enternecidamente por los hombres; de cualquier manera, debería
 
-presumir intensamente a favor de ellos si necesitara ayuda. Y no crees que
+presumir intensamente a favor de ellos si necesitara ayuda. żY no crees que
 
-Dios, el Ser Omnisciente, si se preocupa por estos pjaros sin plumas que estn
+Dios, el Ser Omnisciente, si se preocupa por estos pájaros sin plumas que están
 
-en el nido, no cuidar con seguridad de ti? Tu corazn dice: S; entonces, a
+en el nido, no cuidará con seguridad de ti? Tu corazón dice: “Sí”; entonces, a
 
-partir de ahora, responde a la incredulidad de tu corazn volviendo su propio y
+partir de ahora, responde a la incredulidad de tu corazón volviendo su propio y
 
 justo razonamiento en contra ella.
 
-Pero te oigo decir: Ah!, el cuervo no es tan
+Pero te oigo decir: “ˇAh!, el cuervo no es tan
 
-pecaminoso como yo; podr ser un pjaro inmundo, pero no puede ser tan inmundo como
+pecaminoso como yo; podrá ser un pájaro inmundo, pero no puede ser tan inmundo como
 
-yo lo soy moralmente; podr ser negro en su tinte, pero yo soy negro por el
+yo lo soy moralmente; podrá ser negro en su tinte, pero yo soy negro por el
 
-pecado; un cuervo no puede quebrantar el da domingo, no puede jurar, no puede
+pecado; un cuervo no puede quebrantar el día domingo, no puede jurar, no puede
 
 cometer adulterio; un cuervo no puede ser un borracho; no puede contaminarse a
 
-s mismo con vicios semejantes a aquellos con los que yo estoy contaminado. Yo
+sí mismo con vicios semejantes a aquellos con los que yo estoy contaminado.” Yo
 
-s todo eso, amigo, y podra parecerte que eso hace tu caso ms irremediable;
+sé todo eso, amigo, y podría parecerte que eso hace tu caso más irremediable;
 
-pero yo no creo que lo haga realmente. Slo piensa un minuto en ello. Qu
+pero yo no creo que lo haga realmente. Sólo piensa un minuto en ello. żQué
 
 demuestra esto? Vamos,
 
-que t eres una
+que tú eres una
 
-criatura capaz de pecar, y, consecuentemente, que t eres un espritu
+criatura capaz de pecar, y, consecuentemente, que tú eres un espíritu
 
 inteligente que vive en un sentido en el que el cuervo no vive.
 
-T eres una
+Tú eres una
 
-criatura que se mueve en el mundo del espritu; t perteneces al mundo de las
+criatura que se mueve en el mundo del espíritu; tú perteneces al mundo de las
 
-almas, en el que el cuervo no tiene ninguna porcin. El cuervo no puede pecar,
+almas, en el que el cuervo no tiene ninguna porción. El cuervo no puede pecar,
 
-porque no tiene espritu, ni alma; pero t eres un agente inteligente y tu alma
+porque no tiene espíritu, ni alma; pero tú eres un agente inteligente y tu alma
 
-es la parte ms valiosa. Ahora, como el alma es infinitamente ms preciosa que
+es la parte más valiosa. Ahora, como el alma es infinitamente más preciosa que
 
-el cuerpo, y como el cuervo hablo popularmente ahora no es sino slo cuerpo,
+el cuerpo, y como el cuervo –hablo popularmente ahora– no es sino sólo cuerpo,
 
-mientras que t eres, evidentemente, as alma como cuerpo, pues de lo contrario
+mientras que tú eres, evidentemente, así alma como cuerpo, pues de lo contrario
 
-no seras capaz de pecar, yo veo inclusive algn rayo de luz en ese negro
+no serías capaz de pecar, yo veo inclusive algún rayo de luz en ese negro
 
-pensamiento descorazonador. Acaso Dios cuida la carne, y la sangre, y los
+pensamiento descorazonador. żAcaso Dios cuida la carne, y la sangre, y los
 
-huesos y las negras plumas, y no cuidar tu razn, tu voluntad, tu juicio, tu
+huesos y las negras plumas, y no cuidará tu razón, tu voluntad, tu juicio, tu
 
-conciencia y tu alma inmortal? Oh, si slo pensaras en ello, deberas ver que
+conciencia y tu alma inmortal? Oh, si sólo pensaras en ello, deberías ver que
 
-no es posible que el chillido de un cuervo logre la atencin del odo de la
+no es posible que el chillido de un cuervo logre la atención del oído de la
 
-benevolencia divina, y, sin embargo, a pesar de tu oracin, que seas
+benevolencia divina, y, sin embargo, a pesar de tu oración, que seas
 
-despreciado y desatendido por el Altsimo.
+despreciado y desatendido por el Altísimo.
 
-El insecto
+“El insecto
 
 que con un ala insignificante,
 
-Slo traspasa
+Sólo traspasa
 
 el rayo de un verano;
 
@@ -432,65 +436,65 @@ que el aliento de la primavera
 
 Despierta a
 
-la vida slo medio da;
+la vida sólo medio día;
 
-La mnima
+La mínima
 
-mota, el cabello ms tierno,
+mota, el cabello más tierno,
 
 Todos sienten
 
-el cuidado de nuestro Padre celestial.
+el cuidado de nuestro Padre celestial.”
 
-Seguramente, entonces, l tendr respeto por el
+Seguramente, entonces, Él tendrá respeto por el
 
-clamor de los humildes y no rechazar su oracin. Difcilmente puedo dejar este
+clamor de los humildes y no rechazará su oración. Difícilmente puedo dejar este
 
-punto sin sealar que la mencin de un cuervo debera animar a un pecador. Tal
+punto sin seńalar que la mención de un cuervo debería animar a un pecador. Tal
 
-como escribe un antiguo autor: Entre las aves no menciona al halcn o al azor,
+como escribe un antiguo autor: “Entre las aves no menciona al halcón o al azor,
 
-que son altamente valorados y alimentados por prncipes; ni al ruiseor de
+que son altamente valorados y alimentados por príncipes; ni al ruiseńor de
 
 dulce canto, o similares aves canoras muy preciosas, que los hombres mantienen
 
-selectamente y en quienes se deleitan abundantemente; sino elige ese pjaro
+selectamente y en quienes se deleitan abundantemente; sino elige ese pájaro
 
-odioso y malicioso, al cuervo que grazna, que ningn hombre valora excepto como
+odioso y malicioso, al cuervo que grazna, que ningún hombre valora excepto como
 
-ave que come la carroa que podra serle molesta. Contemplen, entonces, y
+ave que come la carrońa que podría serle molesta. Contemplen, entonces, y
 
-maravllense ante la providencia y amabilidad de Dios, que provee alimento para
+maravíllense ante la providencia y amabilidad de Dios, que provee alimento para
 
-el cuervo, una criatura de un tinte muy lgubre y de un timbre muy destemplado,
+el cuervo, una criatura de un tinte muy lúgubre y de un timbre muy destemplado,
 
-una criatura que es muy odiosa para la mayora de los hombres, y ominosa para
+una criatura que es muy odiosa para la mayoría de los hombres, y ominosa para
 
 algunos.
 
 Hay una grandiosa providencia de Dios que es
 
-vista en la provisin para la hormiga, que recoge su alimento en el verano;
+vista en la provisión para la hormiga, que recoge su alimento en el verano;
 
-pero hay una mayor provisin para el cuervo, que, aunque olvida proveerse o es
+pero hay una mayor provisión para el cuervo, que, aunque olvida proveerse o es
 
-negligente para hacerlo, sin embargo, Dios provee y almacena para l. Uno
+negligente para hacerlo, sin embargo, Dios provee y almacena para él. Uno
 
-pensara que el Seor podra decir de los cuervos: que se las arreglen por s
+pensaría que el Seńor podría decir de los cuervos: ‘que se las arreglen por sí
 
-mismos o perezcan; no, el Seor Dios no desprecia ninguna obra de Sus manos;
+mismos o perezcan’; no, el Seńor Dios no desprecia ninguna obra de Sus manos;
 
-el cuervo recibi su ser de Dios, y, por tanto, el cuervo ser provisto por l;
+el cuervo recibió su ser de Dios, y, por tanto, el cuervo será provisto por Él;
 
 no solamente la blanca paloma inocente, sino el repugnante cuervo reciben su
 
 alimento de Dios. Lo cual demuestra claramente que la falta de excelencia en
 
-ti, negro pecador semejante al cuervo, no impedir que tu graznido sea odo en
+ti, negro pecador semejante al cuervo, no impedirá que tu graznido sea oído en
 
-el cielo. La sangre de Jess quitar la indignidad y l eliminar por completo
+el cielo. La sangre de Jesús quitará la indignidad y Él eliminará por completo
 
-la corrupcin. nicamente cree en Jesucristo y encontrars la paz.
+la corrupción. Únicamente cree en Jesucristo y encontrarás la paz.
 
 2.
 
@@ -500,103 +504,103 @@ hay mucha diferencia entre tu clamor y el
 
 graznido de un cuervo.
 
-Cuando los jvenes cuervos chillan, yo supongo que
+Cuando los jóvenes cuervos chillan, yo supongo que
 
-difcilmente saben qu quieren. Tienen un instinto natural que los lleva a
+difícilmente saben qué quieren. Tienen un instinto natural que los lleva a
 
-chillar por la comida, pero su graznido no expresa en s mismo su necesidad.
+chillar por la comida, pero su graznido no expresa en sí mismo su necesidad.
 
-Pronto descubriras, supongo, que piden alimento; pero no tienen un lenguaje
+Pronto descubrirías, supongo, que piden alimento; pero no tienen un lenguaje
 
-articulado; no expresan ni siquiera una sola palabra; es slo un graznido
+articulado; no expresan ni siquiera una sola palabra; es sólo un graznido
 
-constante y pedigeo y eso es todo.
+constante y pedigüeńo y eso es todo.
 
-Pero t s sabes qu es lo que necesitas, y
+Pero tú sí sabes qué es lo que necesitas, y
 
-aunque tus palabras sean pocas, tu corazn conoce su propia amargura y su
+aunque tus palabras sean pocas, tu corazón conoce su propia amargura y su
 
-horrenda turbacin. Tus suspiros y tus gemidos tienen un obvio significado; tu
+horrenda turbación. Tus suspiros y tus gemidos tienen un obvio significado; tu
 
-entendimiento est a la diestra de tu menesteroso corazn. T sabes que
+entendimiento está a la diestra de tu menesteroso corazón. Tú sabes que
 
-necesitas paz y perdn; t sabes que necesitas a Jess, Su preciosa sangre y Su
+necesitas paz y perdón; tú sabes que necesitas a Jesús, Su preciosa sangre y Su
 
 perfecta justicia.
 
-Ahora, si Dios oye un clamor tan extrao, chillante
+Ahora, si Dios oye un clamor tan extrańo, chillante
 
-y confuso como el del cuervo, no crees que oir tambin la oracin racional y
+y confuso como el del cuervo, żno crees que oirá también la oración racional y
 
-expresiva de una pobre alma necesitada y culpable que est clamando a l:
+expresiva de una pobre alma necesitada y culpable que está clamando a Él:
 
-Dios, s propicio a m, pecador? Ciertamente tu razn te dice que s!
+“Dios, sé propicio a mí, pecador”? ˇCiertamente tu razón te dice que sí!
 
-Adems,
+Además,
 
 las
 
-cras de los cuervos no pueden usar argumentos, pues no tienen entendimiento.
+crías de los cuervos no pueden usar argumentos, pues no tienen entendimiento.
 
 Ellos
 
-no pueden decir como t:
+no pueden decir como tú:
 
-l sabe qu
+“Él sabe qué
 
-argumentos llevara
+argumentos llevaría
 
 Para luchar
 
 con mi Dios,
 
-Yo pedira basndome
+Yo pediría basándome
 
 en Su propia misericordia,
 
 Y en la
 
-sangre de un Salvador.
+sangre de un Salvador.”
 
 Ellos tienen un argumento, es decir, su tremenda
 
-necesidad que les obliga a emitir un graznido, pero no pueden ir ms all de
+necesidad que les obliga a emitir un graznido, pero no pueden ir más allá de
 
 eso; e incluso eso no pueden expresarlo en orden ni describirlo en un lenguaje.
 
-Pero t tienes una multitud de argumentos listos
+Pero tú tienes una multitud de argumentos listos
 
-a mano, y t tienes un entendimiento con el que ponerlos en un orden de batalla
+a mano, y tú tienes un entendimiento con el que ponerlos en un orden de batalla
 
-para sitiar el trono de la gracia. Ciertamente, si la mera argumentacin de la inexpresada
+para sitiar el trono de la gracia. Ciertamente, si la mera argumentación de la inexpresada
 
-necesidad del cuervo prevalece con Dios, con mayor razn prevalecers t con el
+necesidad del cuervo prevalece con Dios, con mayor razón prevalecerás tú con el
 
-Altsimo, si puede argumentar tu caso delante de l, y acercarte a l con
+Altísimo, si puede argumentar tu caso delante de Él, y acercarte a Él con
 
-argumentos en tu boca. Ven, t que ests desesperado, y prueba a mi Seor! Te
+argumentos en tu boca. ˇVen, tú que estás desesperado, y prueba a mi Seńor! ˇTe
 
-suplico que dejes ahora que esa lgubre cantinela ascienda a los odos de la
+suplico que dejes ahora que esa lúgubre cantinela ascienda a los oídos de la
 
-misericordia! Abre ese corazn desbordante y derrmalo en lgrimas, si acaso
+misericordia! Abre ese corazón desbordante y derrámalo en lágrimas, si acaso
 
-las palabras estn ms all de tu poder.
+las palabras están más allá de tu poder.
 
 Me temo, sin embargo, que un cuervo tiene a
 
-veces una gran ventaja sobre algunos pecadores que buscan a Dios en oracin, y
+veces una gran ventaja sobre algunos pecadores que buscan a Dios en oración, y
 
 consiste en esto:
 
-los cuervos jvenes son
+los cuervos jóvenes son
 
-ms vehementes acerca de su alimento de lo que son algunos pecadores en cuanto
+más vehementes acerca de su alimento de lo que son algunos pecadores en cuanto
 
 a sus almas.
 
-Esto, sin embargo, no es un desaliento para ti, sino ms bien
+Esto, sin embargo, no es un desaliento para ti, sino más bien
 
-una razn de por qu deberas ser ms vehemente de lo que has sido hasta aqu.
+una razón de por qué deberías ser más vehemente de lo que has sido hasta aquí.
 
 Cuando los cuervos necesitan alimento, no cesan de graznar hasta obtenerlo; no
 
@@ -604,35 +608,35 @@ hay forma de tranquilizar a un joven cuervo hambriento mientras su pico no se
 
 llene, y no hay tranquilidad para un pecador, cuando es realmente sincero,
 
-hasta que llena su corazn de la divina misericordia. Yo quisiera que algunos
+hasta que llena su corazón de la divina misericordia. ˇYo quisiera que algunos
 
-de ustedes oraran ms vehementemente! El reino de los cielos sufre violencia,
+de ustedes oraran más vehementemente! “El reino de los cielos sufre violencia,
 
-y los violentos lo arrebatan. Un viejo puritano dijo: La oracin es un can
+y los violentos lo arrebatan.” Un viejo puritano dijo: “La oración es un cańón
 
-colocado ante las puertas del cielo para forzar sus puertas: has de tomar la
+colocado ante las puertas del cielo para forzar sus puertas”: has de tomar la
 
-ciudad por asalto si quieres poseerla. No viajars al cielo sobre una cama de
+ciudad por asalto si quieres poseerla. No viajarás al cielo sobre una cama de
 
 plumas, debes ir en peregrinaje; no hay forma de ir a la tierra de gloria mientras
 
-ests profundamente dormido; los holgazanes soadores habrn de despertarse en
+estás profundamente dormido; los holgazanes sońadores habrán de despertarse en
 
 el infierno.
 
 Si Dios te ha hecho sentir en tu alma la
 
-necesidad de salvacin, clama como alguien que est despierto y vive; s
+necesidad de salvación, clama como alguien que está despierto y vive; sé
 
-sincero; clama fuerte; no te detengas; y entonces yo pienso que descubrirs que
+sincero; clama fuerte; no te detengas; y entonces yo pienso que descubrirás que
 
-mi argumento es muy convincente, que en todos sentidos una oracin razonable,
+mi argumento es muy convincente, que en todos sentidos una oración razonable,
 
-argumentativa e inteligente tiene ms probabilidad de prevalecer con Dios que
+argumentativa e inteligente tiene más probabilidad de prevalecer con Dios que
 
 el mero ruido que constituyen los graznidos y los chillidos del cuervo; y que
 
-si l oye un graznido como el del cuervo, es mucho ms cierto que oir tu
+si Él oye un graznido como el del cuervo, es mucho más cierto que oirá tu
 
 clamor.
 
@@ -642,81 +646,81 @@ Recuerda que
 
 el
 
-tema de tu oracin es ms agradable al odo de Dios que el graznido del cuervo
+tema de tu oración es más agradable al oído de Dios que el graznido del cuervo
 
-pidiendo comida. Los jvenes cuervos slo chillan por comida;
+pidiendo comida. Los jóvenes cuervos sólo chillan por comida;
 
 dales un poco
 
-de carroa y quedarn satisfechos. Tu clamor tiene que ser mucho ms agradable
+de carrońa y quedarán satisfechos. Tu clamor tiene que ser mucho más agradable
 
-para el odo de Dios, pues t imploras el perdn por medio de la sangre de Su
+para el oído de Dios, pues tú imploras el perdón por medio de la sangre de Su
 
-amado Hijo. Para el Altsimo es una ocupacin ms noble otorgar dones
+amado Hijo. Para el Altísimo es una ocupación más noble otorgar dones
 
 espirituales que naturales. Los torrentes de la gracia fluyen desde las fuentes
 
-ms altas. Yo s que l es tan condescendiente que no se deshonra incluso
+más altas. Yo sé que Él es tan condescendiente que no se deshonra incluso
 
-cuando deja caer comida en el pico de las cras de los cuervos; pero todava
+cuando deja caer comida en el pico de las crías de los cuervos; pero todavía
 
-hay ms dignidad en el trabajo de dar la paz y el perdn y la reconciliacin a
+hay más dignidad en el trabajo de dar la paz y el perdón y la reconciliación a
 
 los hijos de los hombres.
 
-El amor eterno estableci un camino de
+El amor eterno estableció un camino de
 
-misericordia desde antes de la fundacin del mundo, y la infinita sabidura
+misericordia desde antes de la fundación del mundo, y la infinita sabiduría
 
-est involucrada con ilimitado poder para llevar a cabo el designio divino;
+está involucrada con ilimitado poder para llevar a cabo el designio divino;
 
-seguramente el Seor ha de sentir mucho placer al salvar a los hijos de los
+seguramente el Seńor ha de sentir mucho placer al salvar a los hijos de los
 
-hombres. Si a Dios le agrada proveer a la bestia del campo, no piensas que l
+hombres. Si a Dios le agrada proveer a la bestia del campo, żno piensas que Él
 
-se deleita mucho ms en proveer a Su propio hijo? Pienso que te parecera un
+se deleita mucho más en proveer a Su propio hijo? Pienso que te parecería un
 
-empleo ms agradable ensear a tus propios hijos que simplemente alimentar a tu
+empleo más agradable enseńar a tus propios hijos que simplemente alimentar a tu
 
 becerro, o esparcir cebada entre las aves a la puerta del establo, porque en el
 
-primer trabajo habra algo ms noble, que convoca ms plenamente todos tus
+primer trabajo habría algo más noble, que convoca más plenamente todos tus
 
-poderes y exterioriza tu yo interno. No estoy haciendo aqu simples conjeturas.
+poderes y exterioriza tu yo interno. No estoy haciendo aquí simples conjeturas.
 
-Est escrito: Se deleita en misericordia. Cuando Dios usa Su poder, no puede
+Está escrito: “Se deleita en misericordia”. Cuando Dios usa Su poder, no puede
 
 estar triste, pues es un Dios feliz; pero si fuera posible tal cosa como que la
 
-Infinita Deidad fuera ms feliz en un momento que en otro, es cuando perdona a
+Infinita Deidad fuera más feliz en un momento que en otro, es cuando perdona a
 
-los pecadores por medio de la preciosa sangre de Jess.
+los pecadores por medio de la preciosa sangre de Jesús.
 
-Ah!, pecador, cuando clamas a Dios le das la
+ˇAh!, pecador, cuando clamas a Dios le das la
 
-oportunidad de hacer lo que ms ama, pues l se deleita en perdonar, en
+oportunidad de hacer lo que más ama, pues Él se deleita en perdonar, en
 
-apretujar a Su Efran contra Su pecho, en decir de Su hijo prdigo: Este mi
+apretujar a Su Efraín contra Su pecho, en decir de Su hijo pródigo: “Este mi
 
-hijo muerto era, y ha revivido; se haba perdido, y es hallado. Esto es ms
+hijo muerto era, y ha revivido; se había perdido, y es hallado.” Esto es más
 
-consolador para el corazn del Padre que alimentar al becerro gordo, o cuidar
+consolador para el corazón del Padre que alimentar al becerro gordo, o cuidar
 
-los millares de animales en los collados. Queridos amigos, ya que ustedes estn
+los millares de animales en los collados. Queridos amigos, ya que ustedes están
 
-pidiendo algo que honra mucho ms a Dios cuando lo da, que el mero don del
+pidiendo algo que honra mucho más a Dios cuando lo da, que el mero don del
 
 alimento a los cuervos, yo pienso que se asesta esta noche un golpe muy potente
 
-de mi martillo argumentativo para hacer pedazos su incredulidad. Que Dios el
+de mi martillo argumentativo para hacer pedazos su incredulidad. ˇQue Dios el
 
-Espritu Santo, el verdadero Consolador, obre en ustedes poderosamente! Ciertamente
+Espíritu Santo, el verdadero Consolador, obre en ustedes poderosamente! Ciertamente
 
-el Dios que da el alimento a los cuervos no les negar la paz y el perdn a los
+el Dios que da el alimento a los cuervos no les negará la paz y el perdón a los
 
-pecadores que buscan. Prubenlo! Prubenlo en este momento! No, no se
+pecadores que buscan. ˇPruébenlo! ˇPruébenlo en este momento! ˇNo, no se
 
-muevan! Prubenle
+muevan! Pruébenle
 
 ahora.
 
@@ -724,19 +728,19 @@ ahora.
 
 No debemos demorarnos en ninguno de los puntos
 
-ya que el tema completo es muy prolfico. Hay otra fuente de consuelo para
+ya que el tema completo es muy prolífico. Hay otra fuente de consuelo para
 
 ustedes, es decir, que
 
 a los cuervos no
 
-se les manda clamar en ninguna parte. Cuando claman su peticin no cuenta con
+se les manda clamar en ninguna parte. Cuando claman su petición no cuenta con
 
-ninguna garanta de alguna exhortacin especfica proveniente de la boca
+ninguna garantía de alguna exhortación específica proveniente de la boca
 
-Divina, mientras que ustedes tienen una garanta derivada de las exhortaciones
+Divina, mientras que ustedes tienen una garantía derivada de las exhortaciones
 
-Divinas de aproximarse al trono de Dios en oracin.
+Divinas de aproximarse al trono de Dios en oración.
 
 Si un hombre rico
 
@@ -744,59 +748,59 @@ abriera su casa a aquellas personas que
 
 no
 
-fueron invitadas, ciertamente recibira a aquellos que
+fueron invitadas, ciertamente recibiría a aquellos que
 
 fueron
 
 invitados. Los cuervos vienen sin ser invitados, y, sin
 
-embargo, no son enviados de regreso sin respuesta; t vienes como husped
+embargo, no son enviados de regreso sin respuesta; tú vienes como huésped
 
-invitado y convidado; cmo pudieras ser rechazado? Piensas que no eres
+invitado y convidado; żcómo pudieras ser rechazado? żPiensas que no eres
 
 convidado? Escucha esto:
 
-Todo aquel
+“Todo aquel
 
 que
 
-invocare el nombre del Seor, ser salvo. Invcame en el da de la angustia;
+invocare el nombre del Seńor, será salvo.” “Invócame en el día de la angustia;
 
-te librar, y t me honrars. Id por todo el mundo y predicad el evangelio a
+te libraré, y tú me honrarás.” “Id por todo el mundo y predicad el evangelio a
 
-toda criatura. El que creyere y fuere bautizado, ser salvo; mas el que no
+toda criatura. El que creyere y fuere bautizado, será salvo; mas el que no
 
-creyere ser condenado. Cree en el Seor Jesucristo, y sers salvo. Arrepentos,
+creyere será condenado.” “Cree en el Seńor Jesucristo, y serás salvo.” “Arrepentíos,
 
-y bautcese cada uno de vosotros en el nombre de Jesucristo. Estas son
+y bautícese cada uno de vosotros en el nombre de Jesucristo.” Estas son
 
-exhortaciones dadas sin ninguna limitacin en cuanto al carcter. Te invitan
+exhortaciones dadas sin ninguna limitación en cuanto al carácter. Te invitan
 
-libremente; es ms, te ordenan venir. Oh!, despus de todo esto, puedes
+libremente; es más, te ordenan venir. ˇOh!, después de todo esto, żpuedes
 
-pensar que Dios te va a menospreciar? La ventana est abierta, el cuervo entra
+pensar que Dios te va a menospreciar? La ventana está abierta, el cuervo entra
 
-volando, y el Dios de la misericordia no lo obliga a salir; la puerta est
+volando, y el Dios de la misericordia no lo obliga a salir; la puerta está
 
-abierta, y la palabra de la promesa te invita a venir; no pienses que l te
+abierta, y la palabra de la promesa te invita a venir; no pienses que Él te
 
-rechazar, sino que debes creer ms bien que l te aceptar y te amar de pura
+rechazará, sino que debes creer más bien que Él “te aceptará y te amará de pura
 
-gracia, y entonces, t le ofrecers la ofrenda de tus labios. De cualquier
+gracia”, y entonces, tú le ofrecerás la ofrenda de tus labios.” ˇDe cualquier
 
-manera prubale! Prubale ahora mismo!
+manera pruébale! ˇPruébale ahora mismo!
 
 5.
 
-Adems, hay otro argumento que es muchsimo ms
+Además, hay otro argumento que es muchísimo más
 
-poderoso todava.
+poderoso todavía.
 
 El chillido de un joven
 
 cuervo no es sino el clamor natural de una criatura, pero tu clamor, si es
 
-sincero, es el resultado de una obra de gracia en tu corazn.
+sincero, es el resultado de una obra de gracia en tu corazón.
 
 Cuando el
 
@@ -804,145 +808,145 @@ cuervo clama al cielo no es nada sino el propio ser del cuervo el que clama;
 
 pero cuando
 
-t
+tú
 
-clamas: Dios, s
+clamas: “Dios, sé
 
-propicio a m, pecador, quien clama en ti es Dios el Espritu Santo. Es la
+propicio a mí, pecador”, quien clama en ti es Dios el Espíritu Santo. Es la
 
 nueva vida que Dios te ha dado la que clama a la fuente de donde provino para
 
-tener mayor comunin y comunicacin con su grandioso Original. Se necesita a
+tener mayor comunión y comunicación con su grandioso Original. Se necesita a
 
 Dios mismo para poner a un hombre a orar en sinceridad y en verdad. Nosotros
 
-podemos, si lo consideramos correcto, ensear a nuestros hijos a decir sus
+podemos, si lo consideramos correcto, enseńar a nuestros hijos a “decir sus
 
-oraciones, pero no podemos ensearles a orar. T puedes hacer un libro de
+oraciones”, pero no podemos enseńarles a “orar”. Tú puedes hacer un “libro de
 
-oracin, pero no puedes poner un grano de oracin dentro de un libro, pues
+oración”, pero no puedes poner un grano de “oración” dentro de un libro, pues
 
 es un asunto demasiado espiritual para ser encerrado entre las hojas. Tal vez,
 
-algunos de ustedes puedan leer oraciones en familia; no voy a denunciar esa
+algunos de ustedes puedan “leer oraciones” en familia; no voy a denunciar esa
 
-prctica, pero voy a decir al menos esto al respecto: podran leer esas
+práctica, pero voy a decir al menos esto al respecto: podrían leer esas
 
-oraciones durante setenta aos, y, sin embargo, podran no haber orado ni una
+“oraciones” durante setenta ańos, y, sin embargo, podrían no haber orado ni una
 
-sola vez, pues la oracin es algo muy diferente de las simples palabras. La
+sola vez, pues la oración es algo muy diferente de las simples palabras. La
 
-verdadera oracin es el comercio del alma con Dios, y el corazn nunca llega al
+verdadera oración es el comercio del alma con Dios, y el corazón nunca llega al
 
-comercio espiritual con los puertos del cielo hasta que Dios el Espritu Santo
+comercio espiritual con los puertos del cielo hasta que Dios el Espíritu Santo
 
 hace soplar el viento en las velas y acelera al barco para que llegue a su
 
-abrigo. Os es necesario nacer de nuevo. Si hay una oracin real en tu corazn,
+abrigo. “Os es necesario nacer de nuevo”. Si hay una oración real en tu corazón,
 
-aunque pudieras desconocer el secreto, Dios el Espritu Santo est all. Ahora,
+aunque pudieras desconocer el secreto, Dios el Espíritu Santo está allí. Ahora,
 
-si l oye clamores que no vienen de l mismo, cunto ms oir aquellos que s provienen
+si Él oye clamores que no vienen de Él mismo, ˇcuánto más oirá aquellos que sí provienen
 
-de l! Quizs ustedes mismos han estado rompindose la cabeza procurando saber
+de Él! Quizás ustedes mismos han estado rompiéndose la cabeza procurando saber
 
 si su clamor es natural o espiritual. Esto pudiera parecer muy importante, y,
 
 sin duda, lo es; pero independientemente de que tu clamor sea de una u otra
 
-naturaleza, contina todava buscando al Seor. Posiblemente dudes de que los
+naturaleza, continúa todavía buscando al Seńor. Posiblemente dudes de que los
 
-clamores naturales sean escuchados por Dios; permteme asegurarte que lo son.
+clamores naturales sean escuchados por Dios; permíteme asegurarte que lo son.
 
-Recuerdo haber dicho en una ocasin algo sobre
+Recuerdo haber dicho en una ocasión algo sobre
 
-este tema, en un cierto lugar de adoracin ultra calvinista. En aquel momento
+este tema, en un cierto lugar de adoración ultra calvinista. En aquel momento
 
-estaba predicando a unos nios, y los exhortaba a orar, y sucedi que dije que
+estaba predicando a unos nińos, y los exhortaba a orar, y sucedió que dije que
 
-mucho antes de cualquier conversin real ma, yo haba orado pidiendo
+mucho antes de cualquier conversión real mía, yo había orado pidiendo
 
-misericordias comunes y que Dios haba escuchado mis oraciones. Esto no les
+misericordias comunes y que Dios había escuchado mis oraciones. Esto no les
 
-gust a mis buenos hermanos de esa escuela superfina; y, despus, todos me rodearon
+gustó a mis buenos hermanos de esa escuela superfina; y, después, todos me rodearon
 
-supuestamente para saber qu haba querido decir yo, pero realmente lo hicieron
+supuestamente para saber qué había querido decir yo, pero realmente lo hicieron
 
 para poner reparos y objetar lo dicho de conformidad a su naturaleza e
 
-inclinacin. Me rodearon como abejas; s, como abejas me rodearon! Despus
+inclinación. “ˇMe rodearon como abejas; sí, como abejas me rodearon!” Después
 
-de un rato, tal como me lo esperaba, cayeron en su diversin usual de poner
+de un rato, tal como me lo esperaba, cayeron en su diversión usual de poner
 
 apodos. Comenzaron a decir que yo era un arminiano muy degradado; y dijeron
 
-otra expresin con la que se dignaron honrarme, con el ttulo de fullerismo,
+otra expresión con la que se dignaron honrarme, con el título de “fullerismo”,
 
-(combinacin de calvinismo y arminianismo), un ttulo, a propsito, tan
+(combinación de calvinismo y arminianismo), un título, a propósito, tan
 
-honorable, que pude haberles agradecido de corazn por anexarlo a lo que yo
+honorable, que pude haberles agradecido de corazón por anexarlo a lo que yo
 
-haba expresado. Pero decir que Dios ha de or la oracin de los hombres
+había expresado. Pero decir que Dios ha de oír la oración de los hombres
 
 naturales fue algo peor que arminianismo, si, en verdad, pudiera haber algo
 
-peor para ellos. Ellos citaron ese pasaje falsificado La oracin de los impos
+peor para ellos. Ellos citaron ese pasaje falsificado “La oración de los impíos
 
-es abominacin a Jehov, a lo que yo prontamente respond pidindoles que me
+es abominación a Jehová”, a lo que yo prontamente respondí pidiéndoles que me
 
 encontraran ese texto en la Palabra de Dios, pues yo me aventuraba a aseverar
 
 que el diablo era el autor de ese dicho, y que no se encontraba para nada en la
 
-Biblia. El
+Biblia. “El
 
 sacrificio
 
-de los impos
+de los impíos
 
-es abominacin a Jehov
+es abominación a Jehová”
 
-est
+está
 
 en la
 
 Biblia, pero eso es algo muy diferente a
 
-la
+“la
 
-oracin
+oración
 
-de los impos; y, adems, hay una decidida diferencia entre la
+de los impíos”; y, además, hay una decidida diferencia entre la
 
-palabra impo cuyo significado se pretende all, y el hombre natural acerca del
+palabra impío cuyo significado se pretende allí, y el hombre natural acerca del
 
-cual tenamos la controversia. Yo no creo que algn hombre que comienza a orar
+cual teníamos la controversia. Yo no creo que algún hombre que comienza a orar
 
-en cualquier sentido, pueda ser considerado como que est completamente entre
+en cualquier sentido, pueda ser considerado como que está completamente entre
 
-los impos
+“los impíos”
 
-en quienes pensaba Salomn,
+en quienes pensaba Salomón,
 
-y ciertamente no est entre aquellos que apartan su odo de or la ley, de
+y ciertamente no está entre aquellos que apartan su oído de oír la ley, de
 
-quienes est escrito que su oracin es una abominacin. Pero ellos replican:
+quienes está escrito que su oración es una abominación. Pero ellos replican:
 
-bien, pero, cmo puede ser que Dios oiga una oracin natural? Y, mientras
+“bien, pero, żcómo puede ser que Dios oiga una oración natural?” Y, mientras
 
-hice una pausa momentnea, una anciana cubierta con una capa roja se abri paso
+hice una pausa momentánea, una anciana cubierta con una capa roja se abrió paso
 
-a travs del pequeo crculo que me rodeaba, y les dijo de una manera muy
+a través del pequeńo círculo que me rodeaba, y les dijo de una manera muy
 
-enrgica, como la madre en Israel que era: Por qu hacen esta pregunta,
+enérgica, como la madre en Israel que era: “żPor qué hacen esta pregunta,
 
-olvidando lo que el propio Dios ha dicho? Qu es esto que dicen, que Dios no
+olvidando lo que el propio Dios ha dicho? żQué es esto que dicen, que Dios no
 
-oye la oracin natural? Vamos, acaso no oye a los jvenes cuervos cuando
+oye la oración natural? Vamos, żacaso no oye a los jóvenes cuervos cuando
 
-claman a l, y piensas t que ofrecen oraciones espirituales? Al instante, los
+claman a Él, y piensas tú que ofrecen oraciones espirituales?” Al instante, los
 
-hombres de guerra se batieron en retirada; ninguna derrota fue ms completa; y
+hombres de guerra se batieron en retirada; ninguna derrota fue más completa; y
 
 por una vez en su vida deben de haber sentido que les era posible estar errados.
 
@@ -956,439 +960,441 @@ No voy a
 
 ponerles justo ahora la tarea de descubrir si sus oraciones son naturales o
 
-espirituales, si vienen del Espritu de Dios o no, porque eso podra, tal vez, desconcertarlos;
+espirituales, si vienen del Espíritu de Dios o no, porque eso podría, tal vez, desconcertarlos;
 
-si la oracin procede de su propio corazn, nosotros sabemos cmo lleg all,
+si la oración procede de su propio corazón, nosotros sabemos cómo llegó allí,
 
 aunque ustedes no lo sepan. Dios oye a los cuervos, y yo creo, en verdad, que
 
-l les oir, y yo creo, adems, aunque ahora no quiero plantear esta pregunta
+Él les oirá, y yo creo, además, –aunque ahora no quiero plantear esta pregunta
 
-en su corazn que l oye su oracin, porque aunque ustedes tal vez no lo
+en su corazón– que Él oye su oración, porque –aunque ustedes tal vez no lo
 
-sepan hay una obra secreta del Espritu de Dios que est teniendo lugar dentro
+sepan– hay una obra secreta del Espíritu de Dios que está teniendo lugar dentro
 
-de ustedes y que les est enseando a orar.
+de ustedes y que les está enseńando a orar.
 
 6.
 
-Pero tengo argumentos ms poderosos, y ms
+Pero tengo argumentos más poderosos, y más
 
 cercanos al blanco.
 
-Cuando los jvenes
+Cuando los jóvenes
 
-cuervos chillan, chillan solos, pero cuando t oras tienes a Uno ms poderoso
+cuervos chillan, chillan solos, pero cuando tú oras tienes a Uno más poderoso
 
-que t que ora contigo.
+que tú que ora contigo.
 
-Oye a aquel pecador que clama: Dios, s propicio a
+Oye a aquel pecador que clama: “Dios, sé propicio a
 
-m, pecador. Escucha atentamente! Oyes ese otro clamor que se eleva
+mí, pecador”. ˇEscucha atentamente! żOyes ese otro clamor que se eleva
 
 juntamente con el del pecador? No,
 
-t
+tú
 
 no
 
-lo oyes, porque tus odos son sordos y pesados, pero Dios s lo oye. Hay otra
+lo oyes, porque tus oídos son sordos y pesados, pero Dios sí lo oye. Hay otra
 
-voz, mucho ms fuerte y dulce que la primera, y mucho ms prevaleciente, que se
+voz, mucho más fuerte y dulce que la primera, y mucho más prevaleciente, que se
 
-est remontando al mismo tiempo y que est implorando: Padre, perdnalos por
+está remontando al mismo tiempo y que está implorando: “Padre, perdónalos por
 
-causa de mi preciosa sangre. El eco del susurro del pecador es tan majestuoso
+causa de mi preciosa sangre.” El eco del susurro del pecador es tan majestuoso
 
 como el estallido del trueno. Nunca un pecador ora verdaderamente sin que
 
-Cristo ore al mismo tiempo. T no puedes verle ni orle, pero Jess nunca
+Cristo ore al mismo tiempo. Tú no puedes verle ni oírle, pero Jesús nunca
 
-sacude las profundidades de tu alma por Su Espritu sin que Su alma sea
+sacude las profundidades de tu alma por Su Espíritu sin que Su alma sea
 
-sacudida tambin. Oh, pecador!, tu oracin, cuando llega delante de Dios, es
+sacudida también. ˇOh, pecador!, tu oración, cuando llega delante de Dios, es
 
 algo muy diferente de lo que es cuando sale de ti.
 
 Algunas veces, la gente pobre se acerca a
 
-nosotros con peticiones que desean enviar a alguna Compaa o a algn gran
+nosotros con peticiones que desean enviar a alguna Compańía o a algún gran
 
-Personaje. Traen la peticin y nos piden que la presentemos por ellos. Contiene
+Personaje. Traen la petición y nos piden que la presentemos por ellos. Contiene
 
-muchos errores de ortografa, y est escrita muy extraamente, y a duras penas
+muchos errores de ortografía, y está escrita muy extrańamente, y a duras penas
 
-podemos descifrar su significado; pero todava hay lo suficiente para dejarnos
+podemos descifrar su significado; pero todavía hay lo suficiente para dejarnos
 
-saber qu es lo que quieren. Ante todo hacemos una copia fiel para ellos, y
+saber qué es lo que quieren. Ante todo hacemos una copia fiel para ellos, y
 
 luego, habiendo expresado su caso, ponemos nuestro propio nombre abajo, y si
 
-despertamos algn inters, por supuesto que obtienen lo que desean a travs del
+despertamos algún interés, por supuesto que obtienen lo que desean a través del
 
-poder del nombre firmado al pie de la peticin. Esto es justo lo que el Seor
+poder del nombre firmado al pie de la petición. Esto es justo lo que el Seńor
 
 Jesucristo hace con nuestras pobres oraciones. Hace una copia fiel de ellas,
 
 las sella con el sello de Su propia sangre expiadora, pone Su propio nombre al
 
-pie, y as se remontan al trono de Dios. Es
+pie, y así se remontan al trono de Dios. Es
 
 tu
 
-oracin, pero, oh!, es
+oración, pero, ˇoh!, es
 
 Su
 
-oracin
+oración
 
-tambin, y es por eso que prevalece.
+también, y es por eso que prevalece.
 
 Ahora, este es un argumento demoledor: si los
 
 cuervos prevalecen cuando claman completamente solos, si sus pobres graznidos
 
-les traen lo que quieren por s solos, cunto ms prevalecern las peticiones
+les traen lo que quieren por sí solos, cuánto más prevalecerán las peticiones
 
-quejumbrosas del pobre pecador trmulo que dice: por Jesucristo nuestro
+quejumbrosas del pobre pecador trémulo que dice: “por Jesucristo nuestro
 
-Seor, y que puede enlazar todas sus propias peticiones con el bendito
+Seńor”, y que puede enlazar todas sus propias peticiones con el bendito
 
-argumento: El Seor Jesucristo lo merece; oh Seor, otrgamelo por Su causa.
+argumento: “El Seńor Jesucristo lo merece; oh Seńor, otórgamelo por Su causa.”
 
-Yo en verdad confo que estos buscadores a
+Yo en verdad confío que estos buscadores a
 
 quienes me he estado dirigiendo, que han estado clamando por tanto tiempo y
 
 que, sin embargo, tienen miedo de no ser escuchados nunca, no tengan que esperar
 
-ms tiempo, sino que reciban pronto una benevolente respuesta de paz; y si
+más tiempo, sino que reciban pronto una benevolente respuesta de paz; y si
 
-ellos no reciben todava el deseo de sus corazones, yo espero que sean animados
+ellos no reciben todavía el deseo de sus corazones, yo espero que sean animados
 
-a perseverar hasta que amanezca el da de gracia.
+a perseverar hasta que amanezca el día de gracia.
 
-T tienes una promesa que los cuervos no tienen,
+Tú tienes una promesa que los cuervos no tienen,
 
-y eso constituira
+y eso constituiría
 
-otro argumento si el tiempo nos permitiera reflexionar sobre eso. Hombre
+otro argumento si el tiempo nos permitiera reflexionar sobre eso. ˇHombre
 
-trmulo, puesto que tienes una promesa como argumento, no dudes nunca de que saldrs
+trémulo, puesto que tienes una promesa como argumento, no dudes nunca de que saldrás
 
 victorioso ante el trono de la gracia!
 
-Y ahora, para concluir, djenme decirle al
+Y ahora, para concluir, déjenme decirle al
 
-pecador: SI HAS CLAMADO SIN XITO, CONTINA CLAMANDO. Vuelve siete veces, ay,
+pecador: SI HAS CLAMADO SIN ÉXITO, CONTINÚA CLAMANDO. “Vuelve siete veces”, ay,
 
-y setenta veces siete. Recuerda que la misericordia de Dios en Cristo Jess es
+y setenta veces siete. Recuerda que la misericordia de Dios en Cristo Jesús es
 
-tu nica esperanza; afrrate a ella, como alguien que se est ahogando se
+tu única esperanza; aférrate a ella, como alguien que se está ahogando se
 
-aferra a la nica cuerda a su alcance. Si t pereces orando por misericordia
+aferra a la única cuerda a su alcance. Si tú pereces orando por misericordia
 
-por medio de la preciosa sangre, seras el primero que hubiere perecido as.
+por medio de la preciosa sangre, serías el primero que hubiere perecido así.
 
-Contina clamando; slo contina clamando; pero, oh!, cree tambin; pues la fe
+Continúa clamando; sólo continúa clamando; pero, ˇoh!, cree también; pues la fe
 
-trae la estrella de la maana y el amanecer.
+trae la estrella de la mańana y el amanecer.
 
 Cuando, Betty, la esposa de John Ryland estaba
 
-en su lecho de muerte, tena una gran turbacin de mente, aunque haba sido
+en su lecho de muerte, tenía una gran turbación de mente, aunque había sido
 
-cristiana por muchos aos. Su esposo le pregunt, de esta extraa aunque sabia
+cristiana por muchos ańos. Su esposo le preguntó, de esta extrańa aunque sabia
 
-manera: Bien, Betty, qu te aflige? Oh, John, me estoy muriendo y no tengo
+manera: “Bien, Betty, żqué te aflige?” “ˇOh, John, me estoy muriendo y no tengo
 
-esperanza, John!
+esperanza, John!”
 
-Pero, querida,
+“Pero, querida,
 
-adnde vas entonces? Me voy a ir al infierno! Bien, dijo l, encubriendo
+żadónde vas entonces?” “ˇMe voy a ir al infierno!” “Bien”, dijo él, encubriendo
 
-su profunda angustia con su humor usual y con la intencin de dar un golpe que
+su profunda angustia con su humor usual y con la intención de dar un golpe que
 
 diera con seguridad en la cabeza del clavo y ahuyentara de inmediato sus dudas:
 
-qu intentas hacer cuando llegues all, Betty? La buena mujer no pudo dar
+“żqué intentas hacer cuando llegues allá, Betty?” La buena mujer no pudo dar
 
-una respuesta, y el seor Ryland continu preguntndole: piensas que vas a
+una respuesta, y el seńor Ryland continuó preguntándole: “żpiensas que vas a
 
-orar cuando llegues all? Oh, John, respondi ella yo orara en
+orar cuando llegues allí?” “ˇOh, John,” –respondió ella– “yo oraría en
 
-cualquier lugar; no puedo dejar de orar! Bien, entonces, dijo l dirn
+cualquier lugar; no puedo dejar de orar!” “Bien, entonces”, –dijo él– “dirán
 
-all, Betty Ryland est orando aqu;
+allí, ‘Betty Ryland está orando aquí;
 
-squenla
+sáquenla
 
-de aqu;
+de aquí;
 
-no aceptaremos que alguien ore aqu;
+no aceptaremos que alguien ore aquí;
 
-squenla de aqu!
+ˇsáquenla de aquí!’”
 
-Esta extraa forma de expresarlo ilumin su
+Esta extrańa forma de expresarlo iluminó su
 
 alma, y ella vio de inmediato lo absurdo de la propia sospecha de un alma que
 
 busca a Cristo, y, sin embargo, es arrojado para siempre de Su presencia.
 
-Contina clamando, alma; contina clamando!
+ˇContinúa clamando, alma; continúa clamando!
 
-Mientras el nio pueda gritar, vive; mientras t puedas asediar el trono de la
+Mientras el nińo pueda gritar, vive; mientras tú puedas asediar el trono de la
 
 misericordia, hay esperanza para ti: pero oye a la vez que clamas, y cree en lo
 
 que oyes, pues la paz se obtiene por creer.
 
-Pero qudense todava por unos momentos, puesto
+Pero quédense todavía por unos momentos, puesto
 
-que tengo algo ms que decir.
+que tengo algo más que decir.
 
-Es posible
+żEs posible
 
-que pudieras haber obtenido ya la propia bendicin por la que ests clamando?
+que pudieras haber obtenido ya la propia bendición por la que estás clamando?
 
-Oh, dices t yo no pedira por algo que ya poseo; si yo supiera que lo
+“Oh”, –dices tú– “yo no pediría por algo que ya poseo; si yo supiera que lo
 
-tengo, dejara de clamar, y comenzara a alabar y a bendecir a Dios. Ahora, yo
+tengo, dejaría de clamar, y comenzaría a alabar y a bendecir a Dios.” Ahora, yo
 
-no s si todos ustedes, buscadores, se encuentran en un estado tan seguro, pero
+no sé si todos ustedes, buscadores, se encuentran en un estado tan seguro, pero
 
 estoy persuadido de que hay algunas almas buscadoras que han recibido la
 
-misericordia por la que han estado pidiendo. El Seor, en lugar de decirles
+misericordia por la que han estado pidiendo. El Seńor, en lugar de decirles
 
-esta noche: Buscad mi rostro, est diciendo: Por qu clamas a m? En tiempo
+esta noche: “Buscad mi rostro”, está diciendo: “żPor qué clamas a mí? En tiempo
 
-aceptable te o, y en el da de salvacin te ayud; Yo deshice como una nube
+aceptable te oí, y en el día de salvación te ayudé; Yo deshice como una nube
 
-tus rebeliones, y como niebla tus pecados; Yo te he salvado; T eres mo; Yo te
+tus rebeliones, y como niebla tus pecados; Yo te he salvado; Tú eres mío; Yo te
 
-he limpiado de todos tus pecados; sigue tu camino y regocjate. En tal caso,
+he limpiado de todos tus pecados; sigue tu camino y regocíjate.” En tal caso,
 
-la alabanza creyente es ms conveniente que la oracin agonizante.
+la alabanza creyente es más conveniente que la oración agonizante.
 
-Oh, dices pero no es probable que alcance
+“Oh”, –dices– “pero no es probable que alcance
 
-la misericordia mientras estoy buscndola todava. Bien, yo no lo s. La
+la misericordia mientras estoy buscándola todavía.” Bien, yo no lo sé. La
 
 misericordia cae a veces en un ataque de desvanecimiento afuera de la puerta;
 
-no es posible que sea llevada adentro mientras se encuentra desvanecida, y que
+żno es posible que sea llevada adentro mientras se encuentra desvanecida, y que
 
-ella piense todo el tiempo que todava est afuera? Ella todava puede or al
+ella piense todo el tiempo que todavía está afuera? Ella todavía puede oír al
 
-perro que est ladrando; pero, ah, pobre alma, cuando vuelva en s, descubrir
+perro que está ladrando; pero, ah, pobre alma, cuando vuelva en sí, descubrirá
 
-que est dentro de la puerta angosta y que est a salvo. De igual manera,
+que está dentro de la puerta angosta y que está a salvo. De igual manera,
 
-algunos de ustedes podran haber cado en un desvanecimiento de desaliento
+algunos de ustedes podrían haber caído en un desvanecimiento de desaliento
 
-justo cuando estn viniendo a Cristo. Si es as, que la gracia soberana los
+justo cuando están viniendo a Cristo. Si es así, que la gracia soberana los
 
 restaure, y, tal vez, yo pueda ser esta noche el instrumento de que se haga.
 
-Qu es lo que ests buscando? Algunos de
+żQué es lo que estás buscando? Algunos de
 
-ustedes estn esperando ver deslumbrantes visiones, pero espero que no sean
+ustedes están esperando ver deslumbrantes visiones, pero espero que no sean
 
 gratificados nunca, pues no valen nada. Todas las visiones del mundo desde los
 
-das de los milagros, puestas juntas, son slo meros sueos despus de todo, y
+días de los milagros, puestas juntas, son sólo meros sueńos después de todo, y
 
-los sueos slo son vanidad. La gente cena muy opparamente y entonces suea;
+los sueńos sólo son vanidad. La gente cena muy opíparamente y entonces sueńa;
 
-es la indigestin, o una mrbida actividad del cerebro, y eso es todo. Si esa
+es la indigestión, o una mórbida actividad del cerebro, y eso es todo. Si esa
 
-fuera toda la evidencia que tienes de la conversin, haras bien en dudar de
+fuera toda la evidencia que tienes de la conversión, harías bien en dudar de
 
-ella: te pido que no te quedes satisfecho nunca con eso; es slo msera basura
+ella: te pido que no te quedes satisfecho nunca con eso; es sólo mísera basura
 
-para que construyas tu esperanza eterna sobre eso. Tal vez ests esperando
+para que construyas tu esperanza eterna sobre eso. Tal vez estés esperando
 
-sentimientos muy extraos, sin llegar al punto de un choque elctrico, pero
+sentimientos muy extrańos, sin llegar al punto de un choque eléctrico, pero
 
-algo muy singular y peculiar. Creme que no necesitas sentir nunca las extraas
+algo muy singular y peculiar. Créeme que no necesitas sentir nunca las extrańas
 
-mociones que valoras tan altamente. Todos esos extraos sentimientos de los que
+mociones que valoras tan altamente. Todos esos extrańos sentimientos de los que
 
-hablan algunas personas en conexin con la conversin, pueden ser o no pueden
+hablan algunas personas en conexión con la conversión, pueden ser o no pueden
 
-ser de algn bien para ellos, pero estoy seguro que realmente no tienen nada
+ser de algún bien para ellos, pero estoy seguro que realmente no tienen nada
 
-que ver con la conversin como para ser necesaria a ella en absoluto.
+que ver con la conversión como para ser necesaria a ella en absoluto.
 
-Te har una o dos preguntas. Crees t mismo que
+Te haré una o dos preguntas. żCrees tú mismo que
 
-eres un pecador? S, dices. Pero suponiendo que suprimo esa palabra,
+eres un pecador? “Sí”, –dices–. Pero suponiendo que suprimo esa palabra,
 
-pecador: quieres decir que t crees que has quebrantado la ley de Dios, que
+“pecador”: żquieres decir que tú crees que has quebrantado la ley de Dios, que
 
-eres un ofensor bueno-para-nada en contra del gobierno de Dios? Crees que has
+eres un ofensor bueno-para-nada en contra del gobierno de Dios? żCrees que has
 
-quebrantado en tu corazn, de cualquier manera, todos los mandamientos, y que
+quebrantado en tu corazón, de cualquier manera, todos los mandamientos, y que
 
-mereces consiguientemente el castigo? S, respondes. No slo creo eso, sino
+mereces consiguientemente el castigo? “Sí”, respondes. No sólo creo eso, sino
 
-que lo siento: es una carga que llevo conmigo diariamente. Ahora preguntar
+que lo siento: es una carga que llevo conmigo diariamente.” Ahora preguntaré
 
-algo ms: crees que el Seor Jesucristo puede quitar todo tu pecado? S, t
+algo más: żcrees que el Seńor Jesucristo puede quitar todo tu pecado? Sí, tú
 
-crees en verdad eso. Entonces, puedes confiar en que l te salva? T necesitas
+crees en verdad eso. Entonces, żpuedes confiar en que Él te salva? Tú necesitas
 
-la salvacin; t no puedes salvarte a ti mismo; puedes confiar en que
+la salvación; tú no puedes salvarte a ti mismo; żpuedes confiar en que
 
-l
+Él
 
-te salve? S, dices ya confo.
+te salve? “Sí”, –dices– “ya confío”.
 
-Bien, mi querido amigo, si realmente confas en Jess, es seguro que eres
+Bien, mi querido amigo, si realmente confías en Jesús, es seguro que eres
 
-salvo, pues tienes la nica evidencia de salvacin que es consistente con
+salvo, pues tienes la única evidencia de salvación que es consistente con
 
 cualquiera de nosotros. Hay otras evidencias que se dan posteriormente, tal
 
-como la santidad y las gracias del Espritu, pero la nica evidencia que es
+como la santidad y las gracias del Espíritu, pero la única evidencia que es
 
 consistente con la de los mejores hombres es esta:
 
-Nada en mis
+“Nada en mis
 
 manos traigo,
 
 Simplemente a
 
-Tu cruz me aferro.
+Tu cruz me aferro.”
+
+ż
 
 Puedes usar el verso de
 
 Juanito el buhonero:
 
-> Soy un pobre pecador, y nada ms,
+> Soy un pobre pecador, y nada más,
 
 > Pero Jesucristo es mi Todo en todo
 
 ?
 
-Yo espero que ustedes avancen muy pronto muchsimo ms en algunos de
+Yo espero que ustedes avancen muy pronto muchísimo más en algunos de
 
-estos puntos por su cuenta, pero no quiero que avancen ni una pulgada ms all
+estos puntos por su cuenta, pero no quiero que avancen ni una pulgada más allá
 
-en relacin a la base de su evidencia y la razn de su esperanza. Slo
+en relación a la base de su evidencia y la razón de su esperanza. Sólo
 
-detnganse all, y ahora, si miran lejos de todo lo que est dentro de ustedes
+deténganse allí, y ahora, si miran lejos de todo lo que está dentro de ustedes
 
-o fuera de ustedes y miran a Cristo, y confan en Sus sufrimientos en el
+o fuera de ustedes y miran a Cristo, y confían en Sus sufrimientos en el
 
-Calvario y en toda Su obra expiatoria como la base de su aceptacin ante Dios,
+Calvario y en toda Su obra expiatoria como la base de su aceptación ante Dios,
 
 ustedes
 
 son salvos.
 
-No necesitan nada ms; ustedes
+No necesitan nada más; ustedes
 
 han
 
 pasado de muerte a
 
-vida. El que en l cree, no es condenado. El que cree en el Hijo tiene vida
+vida. “El que en él cree, no es condenado.” “El que cree en el Hijo tiene vida
 
-eterna. Si yo fuera a encontrarme en breve con un ngel en aquel pasillo al
+eterna.” Si yo fuera a encontrarme en breve con un ángel en aquel pasillo al
 
-momento de entrar en la sacrista, y me dijera: Charles Spurgeon, he venido
+momento de entrar en la sacristía, y me dijera: “Charles Spurgeon, he venido
 
-del cielo para decirte que eres perdonado, yo le respondera: yo s
+del cielo para decirte que eres perdonado”, yo le respondería: “yo sé
 
 eso
 
 sin
 
-que tengas que decirme nada al respecto; lo s sobre la base de una autoridad
+que tengas que decirme nada al respecto; lo sé sobre la base de una autoridad
 
-sustancialmente mayor que la tuya. Y si me preguntase cmo lo saba, yo le
+sustancialmente mayor que la tuya”. Y si me preguntase cómo lo sabía, yo le
 
-respondera: la palabra de Dios es mejor para m que la palabra de un ngel, y
+respondería: “la palabra de Dios es mejor para mí que la palabra de un ángel, y
 
-l
+Él
 
-lo ha dicho: El que en l cree, no es condenado. Yo creo
+lo ha dicho: ‘El que en él cree, no es condenado’. Yo creo
 
-verdaderamente en l, y, por tanto, no soy condenado, y lo s sin necesidad de
+verdaderamente en Él, y, por tanto, no soy condenado, y lo sé sin necesidad de
 
-que un ngel me lo diga.
+que un ángel me lo diga.”
 
-Ustedes que estn turbados, no estn en busca de los ngeles, y
+Ustedes que están turbados, no estén en busca de los ángeles, y
 
-de seales, y de evidencias y de signos. Si
+de seńales, y de evidencias y de signos. Si
 
-ustedes se apoyan en la obra terminada de Jess ya tienen la mejor evidencia de
+ustedes se apoyan en la obra terminada de Jesús ya tienen la mejor evidencia de
 
-su salvacin en el mundo; tienen la palabra de Dios para ello; qu ms se
+su salvación en el mundo; tienen la palabra de Dios para ello; żqué más se
 
-necesita? No pueden aceptar la palabra de Dios? Ustedes pueden aceptar la
+necesita? żNo pueden aceptar la palabra de Dios? Ustedes pueden aceptar la
 
-palabra de sus padres; pueden aceptar la palabra de su madre; por qu no
+palabra de sus padres; pueden aceptar la palabra de su madre; żpor qué no
 
-podran aceptar la palabra de Dios? Oh, qu corazones tan rastreros debemos de
+podrían aceptar la palabra de Dios? ˇOh, qué corazones tan rastreros debemos de
 
-tener para desconfiar de Dios mismo! Tal vez digas que no haras una cosa as.
+tener para desconfiar de Dios mismo! Tal vez digas que no harías una cosa así.
 
-Oh, pero en verdad dudas de Dios, si no confas en Cristo!; pues el que no
+ˇOh, pero en verdad dudas de Dios, si no confías en Cristo!; pues “el que no
 
-cree a Dios, le ha hecho mentiroso. Si no confas en Cristo, en efecto dices
+cree a Dios, le ha hecho mentiroso”. Si no confías en Cristo, en efecto dices
 
-que Dios es un mentiroso. T no querras decir eso, no es cierto?
+que Dios es un mentiroso. Tú no querrías decir eso, żno es cierto?
 
-Oh, confa en la veracidad de Dios! Que el Espritu de Dios los
+ˇOh, confía en la veracidad de Dios! ˇQue el Espíritu de Dios los
 
-constria a creer en la misericordia del Padre, en el poder de la sangre del
+constrińa a creer en la misericordia del Padre, en el poder de la sangre del
 
-Hijo, y en la disposicin del Espritu Santo, para traer al pecador a S! Vamos,
+Hijo, y en la disposición del Espíritu Santo, para traer al pecador a Sí! Vamos,
 
-mis queridos oyentes, nanse en oracin conmigo para que puedan ser conducidos
+mis queridos oyentes, únanse en oración conmigo para que puedan ser conducidos
 
-por la gracia a ver en Jess todo lo que necesitan.
+por la gracia a ver en Jesús todo lo que necesitan.
 
-La
+“La
 
-oracin
+oración
 
 es
 
 un poder de la criatura, su propio aliento y ser;
 
-La oracin
+La oración
 
 es la
 
 llave de oro que puede abrir la ventanilla de la misericordia;
 
-La oracin
+La oración
 
 es el
 
-sonido mgico que le dice al destino: as sea;
+sonido mágico que le dice al destino: así sea;
 
-La oracin
+La oración
 
 es el delgado
 
-nervio que mueve los msculos de la Omnipotencia.
+nervio que mueve los músculos de la Omnipotencia.
 
 Por esa
 
-razn, ora,
+razón, ora,
 
 oh
 
 criatura, y encomienda tu ser y tus necesidades a la
 
-oracin,
+oración,
 
 La cura de todos los cuidados, la grandiosa
 
@@ -1396,13 +1402,13 @@ panacea de todos los dolores,
 
 La destructora de la duda, el remedio de la
 
-ruina, el antdoto de todas las ansiedades.
+ruina, el antídoto de todas las ansiedades.”
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 Salmo 147.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Mayo/2009
 

@@ -1,16 +1,16 @@
 # Sermón 2107 | Sermón 2107
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Higuera
 
 Marchita
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -22,65 +22,65 @@ POR CHARLES HADDON
 
 SPURGEON
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y
+“Y
 
-dejndolos, sali fuera de la ciudad, a Betania, y pos all. Por la maana,
+dejándolos, salió fuera de la ciudad, a Betania, y posó allí. Por la mańana,
 
 volviendo a la ciudad, tuvo hambre. Y viendo una higuera cerca del camino, vino
 
-a ella, y no hall nada en ella, sino hojas solamente; y le dijo: Nunca jams
+a ella, y no halló nada en ella, sino hojas solamente; y le dijo: Nunca jamás
 
-nazca de ti fruto. Y luego se sec la higuera. Viendo esto los discpulos,
+nazca de ti fruto. Y luego se secó la higuera. Viendo esto los discípulos,
 
-decan maravillados: Cmo es que se sec en seguida la higuera? Mateo 21:
+decían maravillados: żCómo es que se secó en seguida la higuera?” Mateo 21:
 
 17-20.
 
 Esto es tanto un milagro
 
-como una parbola. Contamos con libros sobre los milagros, y tenemos un igual
+como una parábola. Contamos con libros sobre los milagros, y tenemos un igual
 
-nmero de volmenes sobre las parbolas; en cul de esos volmenes habramos
+número de volúmenes sobre las parábolas; żen cuál de esos volúmenes habríamos
 
-de colocar esta historia? Yo respondera: pnganla en ambos. Es un milagro
+de colocar esta historia? Yo respondería: pónganla en ambos. Es un milagro
 
-singular, y es una parbola impresionante. Es una parbola actuada, en la que nuestro
+singular, y es una parábola impresionante. Es una parábola actuada, en la que nuestro
 
-Seor nos da algo que sirve como un ejemplo prctico de una idea: una leccin
+Seńor nos da algo que sirve como un ejemplo práctico de una idea: una lección
 
 objetiva. Expone la verdad ante los ojos de los hombres -en este caso- para que
 
-la leccin cause una impresin ms profunda en la mente y en el corazn.
+la lección cause una impresión más profunda en la mente y en el corazón.
 
-Quisiera dar mucho nfasis al comentario de que sta es una parbola, pues, si
+Quisiera dar mucho énfasis al comentario de que ésta es una parábola, pues, si
 
-no la consideraran bajo esa luz, podran malentenderla. No somos de aquellos
+no la consideraran bajo esa luz, podrían malentenderla. No somos de aquellos
 
 que se acercan a
 
 la Palabra
 
-de Dios con la indiferente impertinencia del crtico, considerndonos ms sabios
+de Dios con la indiferente impertinencia del crítico, considerándonos más sabios
 
 que el Libro, y consecuentemente, pensando que somos capaces de juzgarlo. Creemos
 
-que el Espritu Santo es superior al espritu del hombre, y que nuestro Seor y
+que el Espíritu Santo es superior al espíritu del hombre, y que nuestro Seńor y
 
 Maestro juzgaba mejor lo que es recto y bueno que cualquiera de nosotros.
 
-Nuestro lugar est a Sus pies; no somos criticones, sino seguidores. Consideramos
+Nuestro lugar está a Sus pies; no somos criticones, sino seguidores. Consideramos
 
-con la ms profunda reverencia todo lo que Jess haga y diga y nuestro deseo
+con la más profunda reverencia todo lo que Jesús haga y diga y nuestro deseo
 
 supremo es aprender todo lo que podamos de ello. Vemos grandes misterios en Sus
 
-acciones ms sencillas y una profunda enseanza contenida en Sus palabras ms
+acciones más sencillas y una profunda enseńanza contenida en Sus palabras más
 
-simples. Cuando l habla o acta, somos como Moiss ante a la zarza, y sentimos
+simples. Cuando Él habla o actúa, somos como Moisés ante a la zarza, y sentimos
 
 que el lugar en que nosotros estamos, tierra santa es.
 
@@ -88,173 +88,173 @@ Algunas personas pedantes
 
 han hablado de esta historia que estamos considerando de una manera muy
 
-insensata. La han interpretado en el sentido de que nuestro Seor, teniendo
+insensata. La han interpretado en el sentido de que nuestro Seńor, teniendo
 
-hambre, pens nicamente en Su necesidad, y, esperando ser reanimado con unos
+hambre, pensó únicamente en Su necesidad, y, esperando ser reanimado con unos
 
-cuantos higos verdes, se acerc al rbol por equivocacin. Al no encontrar
+cuantos higos verdes, se acercó al árbol por equivocación. Al no encontrar
 
-ningn fruto en el rbol, ya que era una estacin del ao cuando no tena
+ningún fruto en el árbol, ya que era una estación del ańo cuando no tenía
 
-ningn derecho a esperar que hubiese alguno, se sinti vejado y maldijo al
+ningún derecho a esperar que hubiese alguno, se sintió vejado y maldijo al
 
-rbol, como si hubiese sido un agente responsable. Esta visin del caso es el
+árbol, como si hubiese sido un agente responsable. Esta visión del caso es el
 
-producto de la insensatez del observador. Esa no es la verdad. Nuestro Seor
+producto de la insensatez del observador. Esa no es la verdad. Nuestro Seńor
 
-deseaba ensear algo a Sus discpulos relativo a la ruina de Jerusaln. La
+deseaba enseńar algo a Sus discípulos relativo a la ruina de Jerusalén. La
 
-recepcin que le fue brindada en Jerusaln era muy prometedora pero no
+recepción que le fue brindada en Jerusalén era muy prometedora pero no
 
-resultara en nada. Sus sonoros hosannas se convertiran en: Crucifcale!
+resultaría en nada. Sus sonoros hosannas se convertirían en: “ˇCrucifícale!”
 
-Cuando Jerusaln iba a
+Cuando Jerusalén iba a
 
-ser destruida por Nabucodonosor, en una poca anterior, los profetas no slo
+ser destruida por Nabucodonosor, en una época anterior, los profetas no sólo
 
-haban hablado, sino que haban usado seales instructivas. Si buscan en el
+habían hablado, sino que habían usado seńales instructivas. Si buscan en el
 
-Libro de Ezequiel, vern all el registro de muchas seales y smbolos que
+Libro de Ezequiel, verán allí el registro de muchas seńales y símbolos que
 
-revelaban la tribulacin venidera. Esas seales provocaban curiosidad y una atencin
+revelaban la tribulación venidera. Esas seńales provocaban curiosidad y una atención
 
-garantizada, y hacan entender las advertencias profticas a los hogares y a
+garantizada, y hacían entender las advertencias proféticas a los hogares y a
 
-los corazones de la gente comn. Adems, los juicios de Dios estaban a las
+los corazones de la gente común. Además, los juicios de Dios estaban a las
 
-puertas de la ciudad culpable. Las palabras las palabras de Jess- haban
+puertas de la ciudad culpable. Las palabras –las palabras de Jesús- habían
 
-cado en el vaco, e incluso las lgrimas las lgrimas del Salvador- haban
+caído en el vacío, e incluso las lágrimas –las lágrimas del Salvador- habían
 
-sido derramadas en vano; era tiempo de que se diera una seal, la seal de la
+sido derramadas en vano; era tiempo de que se diera una seńal, la seńal de la
 
-condenacin. Ezequiel haba dicho: Y sabrn todos los rboles del campo que yo
+condenación. Ezequiel había dicho: “Y sabrán todos los árboles del campo que yo
 
-Jehov abat el rbol sublime, levant el rbol bajo, hice secar el rbol
+Jehová abatí el árbol sublime, levanté el árbol bajo, hice secar el árbol
 
-verde, y en este pasaje se sugera la imagen precisa que fue utilizada por nuestro
+verde”, y en este pasaje se sugería la imagen precisa que fue utilizada por nuestro
 
-Seor. l vio una higuera que, por un capricho de la naturaleza, estaba cubierta
+Seńor. Él vio una higuera que, por un capricho de la naturaleza, estaba cubierta
 
-de hojas en una poca en la que, en el curso ordinario de las cosas, no debera
+de hojas en una época en la que, en el curso ordinario de las cosas, no debería
 
-haber estado as. Esas cosas singulares suceden, por aqu y por all, en el
+haber estado así. Esas cosas singulares suceden, por aquí y por allá, en el
 
-mundo vegetal. Nuestro Seor vio que sta era una excelente leccin objetiva
+mundo vegetal. Nuestro Seńor vio que ésta era una excelente lección objetiva
 
-para l, y, por tanto, llev a Sus discpulos para ver si haba higos entre las
+para Él, y, por tanto, llevó a Sus discípulos para ver si había higos entre las
 
-hojas. Al no encontrar higos, le orden a la higuera que permaneciera estril perdurablemente,
+hojas. Al no encontrar higos, le ordenó a la higuera que permaneciera estéril perdurablemente,
 
-la cual de inmediato comenz a secarse. Nuestro Seor habra podido usar a la
+la cual de inmediato comenzó a secarse. Nuestro Seńor habría podido usar a la
 
-higuera con un propsito excelente si hubiera ordenado que se utilizara como combustible
+higuera con un propósito excelente si hubiera ordenado que se utilizara como combustible
 
-para calentar a las manos fras, pero hizo algo mejor que eso al utilizarla
+para calentar a las manos frías, pero hizo algo mejor que eso al utilizarla
 
-para calentar a los corazones fros. Nada indebido se le hizo a nadie; el rbol
+para calentar a los corazones fríos. Nada indebido se le hizo a nadie; el árbol
 
-era un desperdicio y no tena ningn valor. No se provoc ningn dolor y no
+era un desperdicio y no tenía ningún valor. No se provocó ningún dolor y no
 
-hubo ningn disgusto. En la leccin objetiva, el Seor simplemente le dijo a la
+hubo ningún disgusto. En la lección objetiva, el Seńor simplemente le dijo a la
 
-higuera: Nunca jams nazca de ti fruto. Y luego se sec la higuera. Con sto
+higuera: “Nunca jamás nazca de ti fruto”. Y luego se secó la higuera. Con ésto
 
-nuestro Seor ense una gran leccin, a un costo mnimo, a todas las edades.
+nuestro Seńor enseńó una gran lección, a un costo mínimo, a todas las edades.
 
-El marchitamiento de un rbol ha sido la vivificacin de muchas almas; y si no
+El marchitamiento de un árbol ha sido la vivificación de muchas almas; y si no
 
-hubiera sido as, de todos modos no fue ninguna prdida para nadie que un rbol
+hubiera sido así, de todos modos no fue ninguna pérdida para nadie que un árbol
 
-se marchitara despus de haberse comprobado que era estril. Un gran maestro
+se marchitara después de haberse comprobado que era estéril. Un gran maestro
 
-puede hacer mucho ms que destruir un rbol, si mediante eso puede aportar
+puede hacer mucho más que destruir un árbol, si mediante eso puede aportar
 
-demostraciones de la verdad, y esparcir semillas de la virtud. Es la mismsima
+demostraciones de la verdad, y esparcir semillas de la virtud. Es la mismísima
 
-ociosidad de la crtica encontrar fallas en nuestro Seor por un trozo de fina
+ociosidad de la crítica encontrar fallas en nuestro Seńor por un trozo de fina
 
-instruccin potica, a la cual, si hubiera sido declarada por cualquier otro
+instrucción poética, a la cual, si hubiera sido declarada por cualquier otro
 
-maestro, esos mismos crticos le habran prodigado la ms esplndida alabanza.
+maestro, esos mismos críticos le habrían prodigado la más espléndida alabanza.
 
 La higuera seca era un
 
-smil singularmente apropiado del estado judo. La nacin haba prometido
+símil singularmente apropiado del estado judío. La nación había prometido
 
-grandes cosas para Dios. Cuando todas las otras naciones eran como rboles
+grandes cosas para Dios. Cuando todas las otras naciones eran como árboles
 
-desprovistos de hojas que no hacan ninguna profesin de lealtad al verdadero
+desprovistos de hojas que no hacían ninguna profesión de lealtad al verdadero
 
-Dios, la nacin juda estaba cubierta con el follaje de una abundante profesin
+Dios, la nación judía estaba cubierta con el follaje de una abundante profesión
 
 religiosa. Escribas, fariseos, sacerdotes y ancianos del pueblo eran, todos
 
 ellos, rigoristas en cuanto a la letra de la ley, y se jactaban de ser
 
-adoradores del nico Dios y eran estrictos observantes de todas Sus leyes. Su
+adoradores del único Dios y eran estrictos observantes de todas Sus leyes. Su
 
-constante clamor era: Templo de Jehov, templo de Jehov, templo de Jehov es
+constante clamor era: “Templo de Jehová, templo de Jehová, templo de Jehová es
 
-este. A Abraham tenemos por padre estaba frecuentemente en sus labios. Eran
+este”. “A Abraham tenemos por padre” estaba frecuentemente en sus labios. Eran
 
-una higuera cubierta de hojas, pero no haba ningn fruto en ellos, pues el
+una higuera cubierta de hojas, pero no había ningún fruto en ellos, pues el
 
 pueblo no era ni santo, ni justo, ni veraz, ni fiel para con Dios, ni amoroso
 
-para con sus vecinos. La iglesia juda era un cmulo de profesiones deslumbrantes
+para con sus vecinos. La iglesia judía era un cúmulo de profesiones deslumbrantes
 
-sin el soporte de una vida espiritual. Nuestro Seor haba mirado en el
+sin el soporte de una vida espiritual. Nuestro Seńor había mirado en el
 
-interior del templo y haba encontrado que la casa de oracin era una cueva de
+interior del templo y había encontrado que la casa de oración era una cueva de
 
-ladrones. l conden a la iglesia juda a que permaneciera siendo inerte y
+ladrones. Él condenó a la iglesia judía a que permaneciera siendo inerte y
 
-estril, y as fue. La sinagoga permaneci abierta, pero su enseanza se volvi
+estéril, y así fue. La sinagoga permaneció abierta, pero su enseńanza se volvió
 
-una forma muerta. Israel no tena ninguna influencia en la poca. Durante
+una forma muerta. Israel no tenía ninguna influencia en la época. Durante
 
-siglos la raza juda se convirti en un rbol marchito; no tena nada sino una
+siglos la raza judía se convirtió en un árbol marchito; no tenía nada sino una
 
-profesin cuando Cristo vino, y esa profesin demostr carecer de poder para
+profesión cuando Cristo vino, y esa profesión demostró carecer de poder para
 
-salvar incluso a la ciudad santa. Cristo no destruy la organizacin religiosa
+salvar incluso a la ciudad santa. Cristo no destruyó la organización religiosa
 
-de los judos; los dej como estaban, pero se secaron desde la raz, hasta que
+de los judíos; los dejó como estaban, pero se secaron desde la raíz, hasta que
 
 llegaron los romanos y con las hachas de sus legiones, quitaron el tronco infructuoso.
 
-Qu gran leccin es
+ˇQué gran lección es
 
-sta para las naciones! Las naciones podran hacer una profesin, una sonora
+ésta para las naciones! Las naciones podrían hacer una profesión, una sonora
 
-profesin de religin y, sin embargo, pudieran fallar en mostrar esa justicia
+profesión de religión y, sin embargo, pudieran fallar en mostrar esa justicia
 
-que exalta a una nacin. Las naciones podran estar adornadas con el follaje de
+que exalta a una nación. Las naciones podrían estar adornadas con el follaje de
 
-la civilizacin, del arte, del progreso y de la religin, pero si no hay
+la civilización, del arte, del progreso y de la religión, pero si no hay
 
-ninguna vida interna de piedad, y ningn fruto de justicia, se sostendrn por
+ninguna vida interna de piedad, y ningún fruto de justicia, se sostendrán por
 
-un tiempo y luego se secarn.
+un tiempo y luego se secarán.
 
-Qu leccin es sta
+ˇQué lección es ésta
 
-para las iglesias! Ha habido iglesias que han sido prominentes en nmeros y en
+para las iglesias! Ha habido iglesias que han sido prominentes en números y en
 
-influencia, pero no han mantenido la fe, el amor y la santidad, y el Espritu
+influencia, pero no han mantenido la fe, el amor y la santidad, y el Espíritu
 
-Santo las ha dejado para que sean el vano espectculo de una profesin estril,
+Santo las ha dejado para que sean el vano espectáculo de una profesión estéril,
 
-y all estn esas iglesias, con el tronco de la organizacin y con ramas
+y allí están esas iglesias, con el tronco de la organización y con ramas
 
-ampliamente extendidas, pero estn muertas, y cada ao se descomponen ms y
+ampliamente extendidas, pero están muertas, y cada ańo se descomponen más y
 
-ms. Hermanos, vemos en esta hora la existencia de tales iglesias incluso entre
+más. Hermanos, vemos en esta hora la existencia de tales iglesias incluso entre
 
-los disconformes. Que nunca ocurra eso con esta iglesia! Podemos tener
+los disconformes. ˇQue nunca ocurra eso con esta iglesia! Podemos tener
 
-cantidades de personas que asisten para or
+cantidades de personas que asisten para oír
 
 la Palabra
 
@@ -262,89 +262,89 @@ la Palabra
 
 cuerpo de hombres y de mujeres que profesan ser convertidos, pero a menos que
 
-la piedad vital est en su medio, qu son las congregaciones y las iglesias?
+la piedad vital esté en su medio, żqué son las congregaciones y las iglesias?
 
-Pudiramos tener un valioso ministerio, pero, qu sera eso sin el Espritu de
+Pudiéramos tener un valioso ministerio, pero, żqué sería eso sin el Espíritu de
 
-Dios? Pudiramos tener grandes suscripciones y muchos esfuerzos externos, pero,
+Dios? Pudiéramos tener grandes suscripciones y muchos esfuerzos externos, pero,
 
-qu importan esas cosas sin el espritu de oracin, sin el espritu de fe, sin
+żqué importan esas cosas sin el espíritu de oración, sin el espíritu de fe, sin
 
-el espritu de gracia y de consagracin? Tengo temor de que lleguemos a ser
+el espíritu de gracia y de consagración? Tengo temor de que lleguemos a ser
 
-algn da como un rbol precoz con una profesin superlativa, pero indigna a
+algún día como un árbol precoz con una profesión superlativa, pero indigna a
 
-los ojos del Seor, porque la vida secreta de piedad y la unin vital con
+los ojos del Seńor, porque la vida secreta de piedad y la unión vital con
 
-Cristo se han esfumado. Es mejor que el hacha quite todo vestigio del rbol en
+Cristo se han esfumado. Es mejor que el hacha quite todo vestigio del árbol en
 
 vez de que se destaque contra el cielo como una mentira descarada, como una
 
-burla y un engao.
+burla y un engańo.
 
-Esta es la leccin del
+Esta es la lección del
 
-texto, pero no quiero que lo consideren slo en trminos generales, en su
+texto, pero no quiero que lo consideren sólo en términos generales, en su
 
-relacin con naciones e iglesias; antes bien, el deseo de mi corazn es que
+relación con naciones e iglesias; antes bien, el deseo de mi corazón es que
 
-podamos aprender la leccin en el detalle, y que la alberguemos en nuestro
+podamos aprender la lección en el detalle, y que la alberguemos en nuestro
 
-corazn. Que el Seor mismo le hable a cada uno de nosotros personalmente esta
+corazón. ˇQue el Seńor mismo le hable a cada uno de nosotros personalmente esta
 
-maana! Al preparar el sermn, he escrutado grandemente mi corazn, y elevo mi
+mańana! Al preparar el sermón, he escrutado grandemente mi corazón, y elevo mi
 
-plegaria para que su predicacin produzca los mismos resultados. Hemos de
+plegaria para que su predicación produzca los mismos resultados. Hemos de
 
-temblar para no caer en que, teniendo una profesin de piedad y mostrndola
+temblar para no caer en que, teniendo una profesión de piedad y mostrándola
 
 conspicuamente, con todo, carezcamos de la capacidad de dar frutos, que es lo
 
-nico que garantiza tal profesin. El nombre de santo, si no est justificado
+único que garantiza tal profesión. El nombre de ‘santo’, si no está justificado
 
-por la santidad, es una ofensa para los hombres honestos, y mucho ms para un
+por la santidad, es una ofensa para los hombres honestos, y mucho más para un
 
-Dios santo. Una sonora y atrevida confesin de cristianismo sin una vida
+Dios santo. Una sonora y atrevida confesión de cristianismo sin una vida
 
 cristiana que la respalde, es una mentira aborrecible a Dios y al hombre, una
 
-ofensa contra la verdad, una deshonra para la religin, y es precursora de una
+ofensa contra la verdad, una deshonra para la religión, y es precursora de una
 
-maldicin marchitante.
+maldición marchitante.
 
-Que el Santo Espritu
+ˇQue el Santo Espíritu
 
 me ayude a predicar muy solemne y poderosamente en este momento!
 
 Nuestra primera
 
-observacin es que:
+observación es que:
 
 Hay en el mundo casos
 
-de una profesin atrevida pero infructfera;
+de una profesión atrevida pero infructífera;
 
-nuestra segunda observacin
+nuestra segunda observación
 
-ser esta:
+será esta:
 
-esos casos sern
+esos casos serán
 
-inspeccionados por el Rey Jess;
+inspeccionados por el Rey Jesús;
 
-y nuestro tercer comentario ser:
+y nuestro tercer comentario será:
 
-El resultado de esa inspeccin ser muy
+El resultado de esa inspección será muy
 
 terrible.
 
-Aydanos, oh Santo Espritu!
+ˇAyúdanos, oh Santo Espíritu!
 
 I.
 
 Primero,
 
-entonces, HAY CASOS EN EL MUNDO DE PROFESIONES ATREVIDAS PERO INFRUCTFERAS.
+entonces, HAY CASOS EN EL MUNDO DE PROFESIONES ATREVIDAS PERO INFRUCTÍFERAS.
 
 Los casos a los que me
 
@@ -356,9 +356,9 @@ grandemente a las verdaderas profesiones.
 
 Su promesa es muy sonora, y su
 
-exterior muy impresionante. Se ven como rboles fructferos y esperaras de
+exterior muy impresionante. Se ven como árboles fructíferos y esperarías de
 
-ellos muchas canastas de los mejores higos. Nos impresionan con su conversacin
+ellos muchas canastas de los mejores higos. Nos impresionan con su conversación
 
 y nos subyugan con sus modales.
 
@@ -366,45 +366,45 @@ Los
 
 envidiamos,
 
-y nos flagelamos. Esto ltimo podra no daarnos; pero envidiar a los
+y nos flagelamos. Esto último podría no dańarnos; pero envidiar a los
 
-hipcritas resulta ser daino a largo plazo, pues, cuando es descubierta su
+hipócritas resulta ser dańino a largo plazo, pues, cuando es descubierta su
 
-hipocresa, somos propensos a despreciar a la religin as como a los que
+hipocresía, somos propensos a despreciar a la religión así como a los que
 
-pretenden practicarla. No conocen a algunas personas que aparentan ser todo
+pretenden practicarla. żNo conocen a algunas personas que aparentan ser todo
 
-pero que en realidad no son nada? Qu pensamiento tan sombro! No podramos
+pero que en realidad no son nada? ˇQué pensamiento tan sombrío! żNo podríamos
 
 ser nosotros de esas personas?
 
-Vean a ese hombre: es
+ˇVean a ese hombre: es
 
-fuerte en la fe, incluso hasta la presuncin; es dichoso en la esperanza,
+fuerte en la fe, incluso hasta la presunción; es dichoso en la esperanza,
 
-incluso hasta la ligereza; es amoroso en espritu, incluso hasta la total
+incluso hasta la ligereza; es amoroso en espíritu, incluso hasta la total
 
-indiferencia respecto a la verdad! Cun grandemente locuaz es en la
+indiferencia respecto a la verdad! ˇCuán grandemente locuaz es en la
 
-conversacin! Cun profundo es en la especulacin teolgica! Cun ferviente
+conversación! ˇCuán profundo es en la especulación teológica! ˇCuán ferviente
 
-es en impulsar movimientos de avanzada! Sin embargo nunca ha sido enseado por
+es en impulsar movimientos de avanzada! Sin embargo nunca ha sido enseńado por
 
-Dios. El Evangelio le ha llegado nicamente en palabra. Desconoce por completo
+Dios. El Evangelio le ha llegado únicamente en palabra. Desconoce por completo
 
-la obra del Espritu Santo. Acaso no existen tales personas? Acaso no hay
+la obra del Espíritu Santo. żAcaso no existen tales personas? żAcaso no hay
 
 personas que son defensoras de la ortodoxia y que, sin embargo, son heterodoxas
 
-en su propia conducta? No conocemos hombres y mujeres cuyas vidas niegan lo
+en su propia conducta? żNo conocemos hombres y mujeres cuyas vidas niegan lo
 
-que sus labios profesan? Estamos seguros de que as es. En todos los viedos
+que sus labios profesan? Estamos seguros de que así es. En todos los vińedos
 
 han crecido algunas higueras cubiertas de hojas que han sido conspicuas por el
 
-follaje de su profesin, pero que, sin embargo, no han producido ningn fruto
+follaje de su profesión, pero que, sin embargo, no han producido ningún fruto
 
-para el Seor.
+para el Seńor.
 
 Tales personas
 
@@ -414,41 +414,41 @@ No
 
 era el tiempo de higos, y, sin embargo, esa higuera estaba cubierta con esas
 
-hojas que usualmente hacan suponer la existencia de higos maduros. Yo supongo
+hojas que usualmente hacían suponer la existencia de higos maduros. Yo supongo
 
 que todos ustedes saben lo que muchas veces he visto yo mismo: que la higuera
 
-produce su fruto antes de echar hojas. A principios del ao se pueden ver
+produce su fruto antes de echar hojas. A principios del ańo se pueden ver
 
 verdes botones que brotan en la punta y en otros puntos de las ramas, y cuando
 
 crecen, se convierten en higos verdes. Las hojas salen posteriormente, y para
 
-cuando el rbol est plenamente cubierto de hojas, los higos ya son comestibles.
+cuando el árbol está plenamente cubierto de hojas, los higos ya son comestibles.
 
-Cuando una higuera est totalmente cubierta de hojas esperaras encontrar higos
+Cuando una higuera está totalmente cubierta de hojas esperarías encontrar higos
 
-en ella, y si no los encuentras es que no producir higos en esa temporada.
+en ella, y si no los encuentras es que no producirá higos en esa temporada.
 
-Aquel rbol se haba
+Aquel árbol se había
 
 cubierto abundantemente de hojas antes de que le correspondiera hacerlo, y en
 
-eso sobrepasaba a todas las otras higueras. S, pero era un capricho de la
+eso sobrepasaba a todas las otras higueras. Sí, pero era un capricho de la
 
 naturaleza y no el saludable resultado de un verdadero crecimiento. Tales
 
-caprichos de la naturaleza ocurren en forestas y en viedos, y en el mundo
+caprichos de la naturaleza ocurren en forestas y en vińedos, y en el mundo
 
 espiritual y moral pueden encontrarse sus equivalentes.
 
 Ciertos hombres y mujeres
 
-parecen mucho ms avanzados que quienes les rodean, y nos asombran por sus
+parecen mucho más avanzados que quienes les rodean, y nos asombran por sus
 
-virtudes especiales. Son mejores que los mejores; son ms excelentes que los
+virtudes especiales. Son mejores que los mejores; son más excelentes que los
 
-ms excelentes, al menos en apariencia. Son tan entusiastas que el mundo
+más excelentes, al menos en apariencia. Son tan entusiastas que el mundo
 
 circundante no puede enfriarlos; sus grandiosas almas crean un verano exclusivo
 
@@ -466,17 +466,17 @@ pasan por alto la regla ordinaria de
 
 crecimiento.
 
-Como les he dicho, la regla es: primero el higo y despus las
+Como les he dicho, la regla es: primero el higo y después las
 
-hojas de la higuera; pero hemos visto personas que hacen una profesin antes de
+hojas de la higuera; pero hemos visto personas que hacen una profesión antes de
 
 haber producido el menor fruto que la justifique. Me gusta ver a nuestros
 
-jvenes amigos, cuando creen en Cristo, que demuestran su fe por la santidad en
+jóvenes amigos, cuando creen en Cristo, que demuestran su fe por la santidad en
 
 el hogar, por la piedad fuera del mismo, y que luego pasan al frente y
 
-confiesan su fe en el Seor Jesucristo. Esa parece ser la manera prudente y
+confiesan su fe en el Seńor Jesucristo. Esa parece ser la manera prudente y
 
 normal de proceder, es decir, que un hombre sea primero y que luego profese
 
@@ -486,293 +486,293 @@ primero, y que luego confiese su arrepentimiento y su fe en el camino
 
 escritural por el bautismo en Cristo. Pero esa gente considera innecesario
 
-prestar atencin a la nimiedad de la obra del corazn, atrevindose a omitir la
+prestar atención a la nimiedad de la obra del corazón, atreviéndose a omitir la
 
-parte ms vital del asunto. Asisten a una reunin de avivamiento, y se
+parte más vital del asunto. Asisten a una reunión de avivamiento, y se
 
-autoetiquetan como: salvos, aunque no hayan sido renovados en el corazn ni
+autoetiquetan como: ‘salvos’, aunque no hayan sido renovados en el corazón ni
 
 posean arrepentimiento ni fe. Dan un paso al frente para declarar una mera
 
-emocin. No tienen nada mejor que un propsito, pero lo ostentan como si fuera
+emoción. No tienen nada mejor que un propósito, pero lo ostentan como si fuera
 
 el hecho mismo. Raudo como el pensamiento, el convertido se erige en maestro.
 
-Sin ninguna prueba o ensayo de sus novsimas virtudes, se ostenta como un
+Sin ninguna prueba o ensayo de sus novísimas virtudes, se ostenta como un
 
 ejemplo para otros.
 
 Ahora, yo no objeto la
 
-rapidez de la conversin; por el contrario, la admiro cuando es cierta; pero no
+rapidez de la conversión; por el contrario, la admiro cuando es cierta; pero no
 
 puedo juzgar hasta no ver el fruto y la evidencia en la vida. Si el cambio de
 
-conducta es claro y verdadero, no me importa cun rpido sea realizada la obra,
+conducta es claro y verdadero, no me importa cuán rápido sea realizada la obra,
 
-pero tenemos que ver el cambio. Hay un calor que conduce a la fermentacin, y
+pero tenemos que ver el cambio. Hay un calor que conduce a la fermentación, y
 
-una fermentacin que engendra amargura y corrupcin.
+una fermentación que engendra amargura y corrupción.
 
 Oh queridos amigos,
 
 nunca piensen que pueden omitir el fruto y llegar de inmediato a las hojas. No
 
-sean como el constructor que se atreve a decir: Es una tontera gastar en mano
+sean como el constructor que se atreve a decir: “Es una tontería gastar en mano
 
-de obra y materiales para los trabajos de cimentacin. Los cimientos no son
+de obra y materiales para los trabajos de cimentación. Los cimientos no son
 
-visibles nunca. Puedo edificar una casa muy pronto. La construccin de cuatro
+visibles nunca. Puedo edificar una casa muy pronto. La construcción de cuatro
 
-paredes y un techo no tomar mucho tiempo. S, pero cunto tiempo durar una
+paredes y un techo no tomará mucho tiempo”. Sí, pero żcuánto tiempo durará una
 
-casa construida de esa manera? Vale la pena construir una casa sin cimientos?
+casa construida de esa manera? żVale la pena construir una casa sin cimientos?
 
-Si omitieran la fundacin, por qu no omitir de una vez toda la casa? Especialmente
+Si omitieran la fundación, żpor qué no omitir de una vez toda la casa? Especialmente
 
-en estos das, cuando los hombres son ya sea
+en estos días, cuando los hombres son ya sea
 
-escpticos o
+escépticos o
 
-fanticos
+fanáticos
 
-, no existe una tendencia a cultivar una piedad fugaz que
+, żno existe una tendencia a cultivar una piedad fugaz que
 
-brota en una noche y desaparece en una noche? No sera ruinoso si la
+brota en una noche y desaparece en una noche? żNo sería ruinoso si la
 
-conviccin de pecado es menospreciada, el arrepentimiento es desdeado, la fe
+convicción de pecado es menospreciada, el arrepentimiento es desdeńado, la fe
 
 es imitada, el nuevo nacimiento es falsificado y la piedad es fingida? Amados,
 
 esto no sirve de nada. Debemos tener higos antes de las hojas, actos antes de
 
-las declaraciones, fe antes del bautismo, unin con Cristo antes de la unin
+las declaraciones, fe antes del bautismo, unión con Cristo antes de la unión
 
 con la iglesia. No se puede pasar por encima de los procesos de la naturaleza,
 
 ni tampoco se pueden omitir los procesos de la gracia, no vaya a ser que posiblemente
 
-su follaje desprovisto de fruto se convierta en una maldicin sin cura.
+su follaje desprovisto de fruto se convierta en una maldición sin cura.
 
-Esas personas usualmente atraen la atencin de otros.
+Esas personas usualmente atraen la atención de otros.
 
-Segn Marcos, nuestro Seor vio aquel rbol de lejos. Los otros rboles no
+Según Marcos, nuestro Seńor vio aquel árbol “de lejos”. Los otros árboles no
 
-tenan hojas, y, consecuentemente, cuando comenz a subir la colina rumbo a
+tenían hojas, y, consecuentemente, cuando comenzó a subir la colina rumbo a
 
-Jerusaln, vio a este rbol especial desde mucho antes de acercarse a l. Una
+Jerusalén, vio a este árbol especial desde mucho antes de acercarse a él. Una
 
-higuera cubierta con su vestidura de hermoso verdor sera un objeto
+higuera cubierta con su vestidura de hermoso verdor sería un objeto
 
-impresionante, y sera observable desde la distancia. Estaba, tambin, cerca de
+impresionante, y sería observable desde la distancia. Estaba, también, cerca de
 
-la senda que conduca de Betania a la puerta de la ciudad. Estaba donde todo
+la senda que conducía de Betania a la puerta de la ciudad. Estaba donde todo
 
-caminante poda observarla, y probablemente poda hablar de su follaje singular
+caminante podía observarla, y probablemente podía hablar de su follaje singular
 
-para la estacin.
+para la estación.
 
 Ciertas personas cuya
 
-religin es falsa son frecuentemente prominentes porque no tienen la gracia
+religión es falsa son frecuentemente prominentes porque no tienen la gracia
 
-suficiente para ser modestos y retrados. Buscan el espacio ms elevado, aspiran
+suficiente para ser modestos y retraídos. Buscan el espacio más elevado, aspiran
 
-a ocupar una posicin y se abren paso hacia el liderazgo. No caminan en secreto
+a ocupar una posición y se abren paso hacia el liderazgo. No caminan en secreto
 
-con Dios. Tienen poco inters en la piedad privada, y entonces estn mucho ms
+con Dios. Tienen poco interés en la piedad privada, y entonces están mucho más
 
-vidos de ser vistos por los hombres. Esto es a la vez su debilidad y su
+ávidos de ser vistos por los hombres. Esto es a la vez su debilidad y su
 
 peligro. Aunque son especialmente incapaces de soportar el desgaste de la publicidad,
 
-la codician, y por eso son tanto ms vistos. Ese es el mal de todo este asunto,
+la codician, y por eso son tanto más vistos. Ese es el mal de todo este asunto,
 
 pues hace que su fracaso espiritual sea conocido por tantos, y su pecado acarrea
 
-una mayor deshonra para el nombre del Seor a quien profesan servir. Es mucho
+una mayor deshonra para el nombre del Seńor a quien profesan servir. Es mucho
 
-mejor ser estril en un rincn del bosque que en la va pblica que conduce al
+mejor ser estéril en un rincón del bosque que en la vía pública que conduce al
 
 templo.
 
-Tales personas no slo
+Tales personas no sólo
 
 atraen la mirada, sino que
 
 a menudo
 
-atraen la compaa de hombres buenos.
+atraen la compańía de hombres buenos.
 
-Quin nos culpara por acercarnos a
+żQuién nos culparía por acercarnos a
 
-un rbol que tiene follaje mucho antes que sus compaeros? No es correcto
+un árbol que tiene follaje mucho antes que sus compańeros? żNo es correcto
 
-cultivar la relacin de personas eminentemente buenas? Nuestro Salvador y Sus
+cultivar la relación de personas eminentemente buenas? Nuestro Salvador y Sus
 
-discpulos se acercaron a la frondosa higuera. No simplemente haba atrado sus
+discípulos se acercaron a la frondosa higuera. No simplemente había atraído sus
 
-miradas, sino tambin hizo que se acercaran. No hemos sido fascinados por la
+miradas, sino también hizo que se acercaran. żNo hemos sido fascinados por la
 
-conducta encantadora de alguien que pareca ser un hermano en el Seor, ms
+conducta encantadora de alguien que parecía ser un hermano en el Seńor, más
 
-devoto que lo usual y que tema a Dios ms que muchos? Como Jeh, esa persona ha
+devoto que lo usual y que temía a Dios más que muchos? Como Jehú, esa persona ha
 
-dicho: Ven conmigo, y vers mi celo por Jehov; y nos ha alegrado bastante
+dicho: “Ven conmigo, y verás mi celo por Jehová”; y nos ha alegrado bastante
 
-subir con l en el carro; pareca tan piadoso, tan generoso, tan humilde y tan
+subir con él en el carro; parecía tan piadoso, tan generoso, tan humilde y tan
 
-til, que lo respetbamos y desebamos ser ms dignos para poder asociarnos con
+útil, que lo respetábamos y deseábamos ser más dignos para poder asociarnos con
 
-l. Los jvenes convertidos y los buscadores son naturalmente propensos a hacer
+él. Los jóvenes convertidos y los buscadores son naturalmente propensos a hacer
 
-eso, y de aqu que sea una triste calamidad cuando su confianza resulta haber
+eso, y de aquí que sea una triste calamidad cuando su confianza resulta haber
 
 sido colocada en el lugar indebido.
 
 Siempre que vemos a
 
-alguien que sobresale prominentemente, y que hace una profesin audaz, cules
+alguien que sobresale prominentemente, y que hace una profesión audaz, żcuáles
 
-deberan ser nuestros pensamientos en cuanto a l? Yo respondo: no lo juzguen;
+deberían ser nuestros pensamientos en cuanto a él? Yo respondo: no lo juzguen;
 
-no caigan en la desconfianza habitual. El Seor de ustedes no se qued a la
+no caigan en la desconfianza habitual. El Seńor de ustedes no se quedó a la
 
-distancia, y dijo: Ese rbol no vale nada. No, l se acerc al rbol con Sus
+distancia, y dijo: “Ese árbol no vale nada”. No, Él se acercó al árbol con Sus
 
-discpulos y lo inspeccion cuidadosamente. Esas prominentes personas podran
+discípulos y lo inspeccionó cuidadosamente. Esas prominentes personas podrían
 
 ser prodigios de la gracia divina; tenemos que esperar y orar pidiendo que lo
 
-sean. Que el Seor y Su amor sean engrandecidos en ellos! Dios tiene Sus
+sean. ˇQue el Seńor y Su amor sean engrandecidos en ellos! Dios tiene Sus
 
-higueras que dan higos en invierno; Dios tiene Sus santos que estn llenos de
+higueras que dan higos en invierno; Dios tiene Sus santos que están llenos de
 
-buenas obras cuando el amor de muchos se ha enfriado. El Seor levanta a
+buenas obras cuando el amor de muchos se ha enfriado. El Seńor levanta a
 
-algunos para que sean como estandartes para la verdad y puntos de reunin en la
+algunos para que sean como estandartes para la verdad y puntos de reunión en la
 
-batalla. El Seor puede hacer madurar a los jvenes, y hacer tiles a los
+batalla. El Seńor puede hacer madurar a los jóvenes, y hacer útiles a los
 
-recin convertidos. Se ha dicho, a la manera de una expresin proverbial, que
+recién convertidos. Se ha dicho, a la manera de una expresión proverbial, que
 
-algunos nacen con barba. El Seor puede otorgar grande gracia como para hacer
+“algunos nacen con barba”. El Seńor puede otorgar grande gracia como para hacer
 
-que el crecimiento espiritual sea rpido y a la vez slido. l hace eso tan a
+que el crecimiento espiritual sea rápido y a la vez sólido. Él hace eso tan a
 
-menudo que no tenemos ningn derecho a dudar de que el prominente hermano que
+menudo que no tenemos ningún derecho a dudar de que el prominente hermano que
 
-est ante nosotros sea uno de esos crecimientos de la gracia. A menos que nos
+está ante nosotros sea uno de esos crecimientos de la gracia. A menos que nos
 
-veamos forzados a comprobar con amarga lamentacin que no hay seales de
+veamos forzados a comprobar con amarga lamentación que no hay seńales de
 
 gracia, ni evidencias de fe, hemos de esperar lo mejor y alegrarnos a la vista
 
 de la gracia de Dios. Si somos propensos a sospechar, dirijamos la punta de esa
 
-espada hacia nuestros propios pechos. La sospecha de uno mismo ser saludable;
+espada hacia nuestros propios pechos. La sospecha de uno mismo será saludable;
 
 la sospecha de otros puede ser cruel. Nosotros no somos jueces e incluso si lo
 
-fusemos, sera mejor que nos limitramos a nuestra propia corte y que nos
+fuésemos, sería mejor que nos limitáramos a nuestra propia corte y que nos
 
-sentramos en nuestro propio tribunal, administrando la ley dentro del pequeo
+sentáramos en nuestro propio tribunal, administrando la ley dentro del pequeńo
 
 reino de nosotros mismos.
 
 Si quienes son
 
-prominentes resultan ser todo lo que profesan ser, son una gran bendicin.
+prominentes resultan ser todo lo que profesan ser, son una gran bendición.
 
-Habra sido bueno que esa maana hubiera habido higos en aquella higuera. Habra
+Habría sido bueno que esa mańana hubiera habido higos en aquella higuera. Habría
 
 sido un gran refrigerio para el Salvador si hubiera sido alimentado con el
 
-verde fruto. Cuando el Seor hace que el primero en la posicin sea el primero
+verde fruto. Cuando el Seńor hace que el primero en la posición sea el primero
 
-en la santidad, es una bendicin para la iglesia, para la familia y para el
+en la santidad, es una bendición para la iglesia, para la familia y para el
 
-vecindario; en verdad, puede resultar ser una bendicin para el mundo entero. Por
+vecindario; en verdad, puede resultar ser una bendición para el mundo entero. Por
 
-tanto, deberamos orar pidindole al Seor que riegue con Su propia mano esos
+tanto, deberíamos orar pidiéndole al Seńor que riegue con Su propia mano esos
 
-rboles que ha plantado, o, en otras palabras, que sostenga por Su gracia a esos
+árboles que ha plantado, o, en otras palabras, que sostenga por Su gracia a esos
 
-hombres de Su diestra a quienes ha hecho fuertes para l.
+hombres de Su diestra a quienes ha hecho fuertes para Él.
 
 Pero cuando tomamos el
 
 texto y lo aplicamos a nuestros propios corazones, no necesitamos ser tan
 
-gentiles con l, como en los casos de otros. Muchos de nosotros hemos sido
+gentiles con él, como en los casos de otros. Muchos de nosotros hemos sido
 
-durante largos aos como esta higuera, en lo tocante a prominencia y profesin.
+durante largos ańos como esta higuera, en lo tocante a prominencia y profesión.
 
 Y en este asunto, hasta ahora, no hay nada de lo cual haya que avergonzarse.
 
-Sin embargo, la parbola nos habla evidentemente a nosotros mismos, pues hemos
+Sin embargo, la parábola nos habla evidentemente a nosotros mismos, pues hemos
 
-estado junto al camino en abierta profesin y en un claro servicio, y hemos
+estado junto al camino en abierta profesión y en un claro servicio, y hemos
 
-sido vistos de lejos. Algunos de nosotros hemos hecho una profesin muy
+sido vistos “de lejos”. Algunos de nosotros hemos hecho una profesión muy
 
-audaz, y no estamos avergonzados de repetir esa profesin delante de los
+audaz, y no estamos avergonzados de repetir esa profesión delante de los
 
-hombres y de los ngeles. De aqu la pregunta: somos veraces en ella? Qu tal
+hombres y de los ángeles. De aquí la pregunta: żsomos veraces en ella? żQué tal
 
 si resultara que estamos contendiendo por una fe en la que no tenemos ninguna
 
-participacin? Qu tal si en nosotros no hubiera nada de la vida de amor, y,
+participación? żQué tal si en nosotros no hubiera nada de la vida de amor, y,
 
-consecuentemente, nuestra profesin viniera a ser como metal que resuena, o
+consecuentemente, nuestra profesión viniera a ser “como metal que resuena, o
 
-cmbalo que retie? Qu tal si slo hubiera palabras y ninguna obra; slo doctrina,
+címbalo que retińe”? żQué tal si sólo hubiera palabras y ninguna obra; sólo doctrina,
 
-y nada de prctica? Qu tal si no tuviramos ninguna santidad? Entonces nunca
+y nada de práctica? żQué tal si no tuviéramos ninguna santidad? Entonces nunca
 
-veramos al Seor. Sin importar los terribles aspectos que esta parbola pudiera
+veríamos al Seńor. Sin importar los terribles aspectos que esta parábola pudiera
 
-contener, nos atae a muchos de nosotros. Yo, el predicador, siento cunto me
+contener, nos atańe a muchos de nosotros. Yo, el predicador, siento cuánto me
 
-atae. En ese espritu he meditado en ella, confiando ansiosamente que cada
+atańe. En ese espíritu he meditado en ella, confiando ansiosamente que cada
 
-dicono y cada anciano de esta iglesia, y cada miembro y cada obrero entre
+diácono y cada anciano de esta iglesia, y cada miembro y cada obrero entre
 
-ustedes, escudrien grandemente su corazn. Que cada ministro de Cristo que
+ustedes, escudrińen grandemente su corazón. Que cada ministro de Cristo que
 
-pudiera haber asistido esta maana, se diga a s mismo: S, he sido como esa
+pudiera haber asistido esta mańana, se diga a sí mismo: “ˇSí, he sido como esa
 
-higuera en prominencia y en profesin; que Dios me conceda que no quede
+higuera en prominencia y en profesión; que Dios me conceda que no quede
 
-marchito como ella por estar desprovisto de fruto!
+marchito como ella por estar desprovisto de fruto!”
 
 II.
 
 Es
 
-tiempo de que recordemos la solemne verdad de nuestro segundo encabezado: SERN
+tiempo de que recordemos la solemne verdad de nuestro segundo encabezado: SERÁN
 
-INSPECCIONADOS POR EL REY JESS.
+INSPECCIONADOS POR EL REY JESÚS.
 
-Se acercar a ellos, y
+Se acercará a ellos, y
 
-cuando est cerca
+cuando esté cerca
 
-buscar fruto.
+buscará fruto.
 
 El
 
-primer Adn fue a la higuera en busca de hojas, pero el segundo Adn busca
+primer Adán fue a la higuera en busca de hojas, pero el segundo Adán busca
 
-higos. Escudria nuestro carcter exhaustivamente para ver si hay una fe real,
+higos. Escudrińa nuestro carácter exhaustivamente para ver si hay una fe real,
 
-un amor verdadero, alguna esperanza viva, y gozo, que es el fruto del Espritu,
+un amor verdadero, alguna esperanza viva, y gozo, que es el fruto del Espíritu,
 
-alguna paciencia, alguna abnegacin, algn fervor en la oracin, algn caminar
+alguna paciencia, alguna abnegación, algún fervor en la oración, algún caminar
 
-con Dios, alguna morada del Espritu Santo; y si no ve estas cosas, no est
+con Dios, alguna morada del Espíritu Santo; y si no ve estas cosas, no está
 
-satisfecho con la asistencia a la capilla o a la iglesia, con la oracin, con reuniones,
+satisfecho con la asistencia a la capilla o a la iglesia, con la oración, con reuniones,
 
 comuniones, sermones y lecturas de
 
@@ -780,107 +780,107 @@ la
 
 Biblia
 
-, pues todas esas cosas podran ser slo follaje. Si
+, pues todas esas cosas podrían ser sólo follaje. Si
 
-nuestro Seor no ve el fruto del Espritu en nosotros, no est satisfecho con
+nuestro Seńor no ve el fruto del Espíritu en nosotros, no está satisfecho con
 
-nosotros, y Su inspeccin conducir a severas medidas. Noten que lo que Jess
+nosotros, y Su inspección conducirá a severas medidas. Noten que lo que Jesús
 
 busca no son las palabras de ustedes, no son sus resoluciones, no son sus aseveraciones,
 
-sino su sinceridad, su fe interior, el hecho de que el Espritu Santo est
+sino su sinceridad, su fe interior, el hecho de que el Espíritu Santo esté
 
 obrando en ustedes para producir frutos dignos del reino.
 
-Nuestro Seor tiene el derecho de esperar fruto cuando lo busca.
+Nuestro Seńor tiene el derecho de esperar fruto cuando lo busca.
 
 Cuando
 
-se acerc a esa higuera tena el derecho de esperar fruto, ya que el fruto
+se acercó a esa higuera tenía el derecho de esperar fruto, ya que el fruto
 
-segn la naturaleza viene antes que las hojas. Entonces, si la hoja ya ha
+según la naturaleza viene antes que las hojas. Entonces, si la hoja ya ha
 
-brotado, debera haber fruto. Es cierto que no era la temporada de higos, pero,
+brotado, debería haber fruto. Es cierto que no era la temporada de higos, pero,
 
 entonces, si no era la temporada de higos, ciertamente no era el tiempo para
 
-hojas, pues los higos salen primero. Ese rbol, al hacer crecer sus hojas, que
+hojas, pues los higos salen primero. Ese árbol, al hacer crecer sus hojas, que
 
-son los signos y seales de higos maduros, virtualmente se haca la publicidad
+son los signos y seńales de higos maduros, virtualmente se hacía la publicidad
 
 de dar fruto. Entonces, por malos que sean los tiempos, algunos de nosotros
 
-profesamos que no seguiremos los tiempos, sino que seguiremos a la nica verdad
+profesamos que no seguiremos los tiempos, sino que seguiremos a la única verdad
 
 inmutable. Como cristianos, nosotros confesamos que somos redimidos de entre
 
-los hombres, y que hemos sido liberados de esta perversa generacin. Cristo no
+los hombres, y que hemos sido liberados de esta perversa generación. Cristo no
 
 puede esperar fruto de hombres que reconocen el mundo y sus edades cambiantes como
 
-su gua suprema, pero muy bien puede buscarlo del que cree en Su propia
+su guía suprema, pero muy bien puede buscarlo del que cree en Su propia
 
 Palabra. Busca fruto del predicador, del maestro de la escuela dominical, del
 
-lder de la iglesia, de la hermana que dirige una clase de Biblia, de aquel
+líder de la iglesia, de la hermana que dirige una clase de Biblia, de aquel
 
-hermano que tiene un grupo de jvenes en torno suyo y para quienes es un gua
+hermano que tiene un grupo de jóvenes en torno suyo y para quienes es un guía
 
-en el Evangelio. l lo espera, en verdad, de todos los que se someten al
+en el Evangelio. Él lo espera, en verdad, de todos los que se someten al
 
-gobierno del Evangelio. As como Cristo tena el derecho de esperar fruto de un
+gobierno del Evangelio. Así como Cristo tenía el derecho de esperar fruto de un
 
-rbol cubierto de hojas, as tiene el derecho de esperar grandes cosas de
+árbol cubierto de hojas, así tiene el derecho de esperar grandes cosas de
 
-aquellos que se declaran Sus fieles seguidores. Ah, cmo debera provocar a
+aquellos que se declaran Sus fieles seguidores. ˇAh, cómo debería provocar a
 
-temblar al predicador este hecho! No debera afectar de igual manera a
+temblar al predicador este hecho! żNo debería afectar de igual manera a
 
-muchsimos de ustedes?
+muchísimos de ustedes?
 
-El fruto es lo que el Seor desea ansiosamente.
+El fruto es lo que el Seńor desea ansiosamente.
 
 El
 
-Salvador no deseaba hojas cuando lleg bajo la higuera, pues leemos que tena
+Salvador no deseaba hojas cuando llegó bajo la higuera, pues leemos que tenía
 
 hambre, y el hambre del ser humano no puede calmarse con las hojas de una higuera.
 
-Deseaba comer uno o dos higos. Tambin anhela recibir fruto de nosotros. Tiene
+Deseaba comer uno o dos higos. También anhela recibir fruto de nosotros. Tiene
 
-hambre de nuestra santidad. Anhela que Su gozo est en nosotros, para que
+hambre de nuestra santidad. Anhela que Su gozo esté en nosotros, para que
 
-nuestro gozo sea cumplido. l se acerca a cada uno de ustedes que son miembros
+nuestro gozo sea cumplido. Él se acerca a cada uno de ustedes que son miembros
 
-de Su iglesia, y especialmente a cada uno de ustedes que son lderes de Su
+de Su iglesia, y especialmente a cada uno de ustedes que son líderes de Su
 
 pueblo, y mira para ver en ustedes las cosas en las que se complace Su alma. Quisiera
 
-ver en nosotros amor a l, amor a nuestros semejantes, quisiera ver una slida
+ver en nosotros amor a Él, amor a nuestros semejantes, quisiera ver una sólida
 
-fe en la revelacin, una sincera contencin por la fe que ha sido una vez dada,
+fe en la revelación, una sincera contención por la fe que ha sido una vez dada,
 
-quisiera ver impertinentes splicas en la oracin y una vida cuidadosa en cada
+quisiera ver impertinentes súplicas en la oración y una vida cuidadosa en cada
 
-tramo de nuestro curso. l espera de nosotros acciones que sean acordes con la
+tramo de nuestro curso. Él espera de nosotros acciones que sean acordes con la
 
-ley de Dios y con la mente del Espritu de Dios, y si no ve esas cosas, no recibe
+ley de Dios y con la mente del Espíritu de Dios, y si no ve esas cosas, no recibe
 
-lo que le es debido. Para qu muri si no es para santificar a Su pueblo?
+lo que le es debido. żPara qué murió si no es para santificar a Su pueblo?
 
-Para qu se entreg sino es para santificar para S un pueblo celoso de buenas
+żPara qué se entregó sino es para santificar para Sí un pueblo celoso de buenas
 
-obras? Cul es la recompensa del sudor sangriento y de las cinco heridas y de
+obras? żCuál es la recompensa del sudor sangriento y de las cinco heridas y de
 
-la agona mortal, sino que por todas esas cosas debamos ser comprados por precio?
+la agonía mortal, sino que por todas esas cosas debíamos ser comprados por precio?
 
-Nosotros le robamos Su recompensa si no lo glorificamos a l, y, por tanto, el
+Nosotros le robamos Su recompensa si no lo glorificamos a Él, y, por tanto, el
 
-Espritu de Dios se contrista por nuestra conducta si no mostramos Sus
+Espíritu de Dios se contrista por nuestra conducta si no mostramos Sus
 
-alabanzas a travs de nuestras vidas piadosas y celosas.
+alabanzas a través de nuestras vidas piadosas y celosas.
 
-Y observen aqu que
+Y observen aquí que
 
 cuando Cristo viene a un alma,
 
@@ -888,23 +888,23 @@ la
 
 inspecciona con agudo discernimiento.
 
-l no es burlado. No es posible engaarlo.
+Él no es burlado. No es posible engańarlo.
 
-A veces yo he credo que algo era un higo pero result ser slo una hoja, pero
+A veces yo he creído que algo era un higo pero resultó ser sólo una hoja, pero
 
-nuestro Seor no comete tales errores. Ni tampoco dejar de percibir a los
+nuestro Seńor no comete tales errores. Ni tampoco dejará de percibir a los
 
-higuitos cuando apenas estn brotando. l conoce el fruto del Espritu en
+higuitos cuando apenas están brotando. Él conoce el fruto del Espíritu en
 
-cualquier etapa de su desarrollo. Nunca confunde la expresin fluida con la
+cualquier etapa de su desarrollo. Nunca confunde la expresión fluida con la
 
-posesin genuina, ni la gracia real con la mera emocin.
+posesión genuina, ni la gracia real con la mera emoción.
 
-Amados, ustedes estn en
+Amados, ustedes están en
 
-buenas manos en cuanto a la prueba de su condicin cuando el Seor Jess viene
+buenas manos en cuanto a la prueba de su condición cuando el Seńor Jesús viene
 
-para tratar con ustedes. Sus prjimos no se demoran en sus juicios, y pueden
+para tratar con ustedes. Sus prójimos no se demoran en sus juicios, y pueden
 
 ser ya sea
 
@@ -912,31 +912,31 @@ severos o parciales
 
 , pero el Rey pronuncia
 
-una sentencia justa. l sabe exactamente dnde estamos y lo que somos, y no
+una sentencia justa. Él sabe exactamente dónde estamos y lo que somos, y no
 
-juzga segn la apariencia sino segn la verdad. Oh, que nuestra plegaria se
+juzga según la apariencia sino según la verdad. Oh, que nuestra plegaria se
 
-eleve al cielo esta maana: Jess, Maestro, ven y vuelve Tu mirada
+eleve al cielo esta mańana: “ˇJesús, Maestro, ven y vuelve Tu mirada
 
-escrutadora sobre m, y juzga si estoy viviendo para ti o no! Concdeme que me
+escrutadora sobre mí, y juzga si estoy viviendo para ti o no! Concédeme que me
 
-vea como T me ves, para que mis errores sean corregidos y mis gracias sean
+vea como Tú me ves, para que mis errores sean corregidos y mis gracias sean
 
-nutridas. Seor, haz que yo sea de verdad lo que profeso ser, y si no lo soy
+nutridas. Seńor, haz que yo sea de verdad lo que profeso ser, y si no lo soy
 
-todava, convnceme de mi falso estado, y comienza una verdadera obra en mi
+todavía, convénceme de mi falso estado, y comienza una verdadera obra en mi
 
-alma. Si soy tuyo y soy recto ante Tus ojos, concdeme una palabra amable y reconfortante
+alma. Si soy tuyo y soy recto ante Tus ojos, concédeme una palabra amable y reconfortante
 
 para aplacar mis temores de nuevo, y entonces voy a regocijarme alegremente en
 
-Ti como el Dios de mi salvacin.
+Ti como el Dios de mi salvación”.
 
 III.
 
 En
 
-tercer lugar, con la ayuda del Espritu de Dios, voy a considerar la verdad de
+tercer lugar, con la ayuda del Espíritu de Dios, voy a considerar la verdad de
 
 que EL RESULTADO DE
 
@@ -944,139 +944,139 @@ LA
 
 VENIDA DE
 
-CRISTO AL PROFESANTE ATREVIDO PERO INFRUCTFERO,
+CRISTO AL PROFESANTE ATREVIDO PERO INFRUCTÍFERO,
 
-SER MUY TERRIBLE.
+SERÁ MUY TERRIBLE.
 
 El inspector no encuentra nada sino hojas
 
-donde se podra haber esperado algn fruto. Nada sino hojas, quiere decir nada
+donde se podría haber esperado algún fruto. Nada sino hojas, quiere decir nada
 
-sino mentiras. Es esa una dura expresin? Si yo profesara la fe, y no tuviera
+sino mentiras. żEs esa una dura expresión? Si yo profesara la fe, y no tuviera
 
-nada de fe, acaso no sera eso una mentira? Si yo profesara el arrepentimiento
+nada de fe, żacaso no sería eso una mentira? Si yo profesara el arrepentimiento
 
-y no me hubiese arrepentido, no sera eso una mentira? Si me uniera al pueblo
+y no me hubiese arrepentido, żno sería eso una mentira? Si me uniera al pueblo
 
-del Dios viviente, y, no obstante, no tuviera ningn temor de Dios en mi
+del Dios viviente, y, no obstante, no tuviera ningún temor de Dios en mi
 
-corazn, no sera eso una mentira? Si viniera a la mesa de la comunin y
+corazón, żno sería eso una mentira? Si viniera a la mesa de la comunión y
 
 participara del pan y del vino, y, no obstante, nunca discerniera el cuerpo del
 
-Seor, no sera eso una mentira? Si profesara defender las doctrinas de la
+Seńor, żno sería eso una mentira? Si profesara defender las doctrinas de la
 
-gracia, y, con todo, no tuviera la seguridad de su verdad, no sera eso una
+gracia, y, con todo, no tuviera la seguridad de su verdad, żno sería eso una
 
-mentira? Si nunca hubiese sentido mi depravacin, si nunca hubiese sido llamado
+mentira? Si nunca hubiese sentido mi depravación, si nunca hubiese sido llamado
 
-eficazmente, si nunca hubiese conocido mi eleccin de Dios, si nunca hubiese descansado
+eficazmente, si nunca hubiese conocido mi elección de Dios, si nunca hubiese descansado
 
-en la sangre redentora y no hubiese sido renovado nunca por el Espritu, acaso
+en la sangre redentora y no hubiese sido renovado nunca por el Espíritu, żacaso
 
-mi defensa de las doctrinas de la gracia no sera una mentira? Si no hay nada
+mi defensa de las doctrinas de la gracia no sería una mentira? Si no hay nada
 
 sino hojas, entonces no hay nada sino mentiras, y el Salvador ve que eso es
 
-as. Todo el verdor de una hoja verde, sin ningn fruto, es para l slo un
+así. Todo el verdor de una hoja verde, sin ningún fruto, es para Él sólo un
 
-perfecto engao. La profesin sin la gracia es la ostentacin fnebre de un
+perfecto engańo. La profesión sin la gracia es la ostentación fúnebre de un
 
-alma muerta. La religin sin la santidad es la luz que proviene de la madera
+alma muerta. La religión sin la santidad es la luz que proviene de la madera
 
-podrida, es la fosforescencia de la descomposicin. Estoy diciendo palabras
+podrida, es la fosforescencia de la descomposición. Estoy diciendo palabras
 
-terribles, pero, cmo podra hablar menos terriblemente de lo que lo hago? Si
+terribles, pero, żcómo podría hablar menos terriblemente de lo que lo hago? ˇSi
 
-ustedes y yo tenemos slo un nombre para vivir, y estamos muertos, en qu
+ustedes y yo tenemos sólo un nombre para vivir, y estamos muertos, en qué
 
-estado estamos! Lo nuestro es algo peor que la corrupcin: es la corrupcin de
+estado estamos! Lo nuestro es algo peor que la corrupción: es la corrupción de
 
-la corrupcin. Profesar la religin y vivir en pecado es rociar agua de rosas
+la corrupción. Profesar la religión y vivir en pecado es rociar agua de rosas
 
-sobre un muladar y dejar que siga siendo un muladar. Darle a un espritu el
+sobre un muladar y dejar que siga siendo un muladar. Darle a un espíritu el
 
-nombre de un ngel cuando muestra el carcter del demonio, es casi pecar contra
+nombre de un ángel cuando muestra el carácter del demonio, es casi pecar contra
 
-el Espritu Santo. Si permaneciramos siendo inconversos, de qu servira
+el Espíritu Santo. Si permaneciéramos siendo inconversos, żde qué serviría
 
 tener nuestro nombre escrito entre los piadosos?
 
-Nuestro Seor descubri
+Nuestro Seńor descubrió
 
-que no haba fruto, y eso fue algo terrible; pero, a continuacin,
+que no había fruto, y eso fue algo terrible; pero, a continuación,
 
-conden al rbol.
+condenó al árbol.
 
-No fue correcto que
+żNo fue correcto que
 
-lo condenara? Lo maldijo? Ya era una maldicin. Estaba calculado para seducir
+lo condenara? żLo maldijo? Ya era una maldición. Estaba calculado para seducir
 
-a los hambrientos y sacarlos de su camino para engaarlos. Dios no aceptar que
+a los hambrientos y sacarlos de su camino para engańarlos. Dios no aceptará que
 
-los pobres y los necesitados sean hechos objeto de burla. Una profesin de fe vaca
+los pobres y los necesitados sean hechos objeto de burla. Una profesión de fe vacía
 
-es una maldicin prctica, y, entonces, no debera recibir la censura del
+es una maldición práctica, y, entonces, żno debería recibir la censura del
 
-Seor de la verdad? El rbol no serva de nada all donde estaba; no ministraba
+Seńor de la verdad? El árbol no servía de nada allí donde estaba; no ministraba
 
-para el refrigerio de nadie. As, el profesante estril ocupa una posicin en
+para el refrigerio de nadie. Así, el profesante estéril ocupa una posición en
 
-la que debera ser una bendicin, pero, en verdad, brota de l una maligna
+la que debería ser una bendición, pero, en verdad, brota de él una maligna
 
-influencia. Si la gracia de Dios no est en l, es totalmente intil y con toda
+influencia. Si la gracia de Dios no está en él, es totalmente inútil y con toda
 
-probabilidad es una maldicin; es un Acn en el campamento que contrista al
+probabilidad es una maldición; es un Acán en el campamento que contrista al
 
-Seor y provoca que rehse el xito para Su pueblo.
+Seńor y provoca que rehúse el éxito para Su pueblo.
 
 Sin embargo, nuestro
 
-Seor us a la higuera para un buen propsito haciendo que se secara, pues ella
+Seńor usó a la higuera para un buen propósito haciendo que se secara, pues ella
 
-se convirti a partir de entonces en una seal y en una advertencia para todos
+se convirtió a partir de entonces en una seńal y en una advertencia para todos
 
-los dems que se valen de vanas pretensiones. As, cuando al impo que ha
+los demás que se valen de vanas pretensiones. Así, cuando al impío que ha
 
-exhibido una profesin pomposa, se le permite apagarse en sus caminos, se
+exhibido una profesión pomposa, se le permite apagarse en sus caminos, se
 
-produce en los dems algn efecto moral: se ven forzados a ver el peligro de
+produce en los demás algún efecto moral: se ven forzados a ver el peligro de
 
-una profesin defectuosa, y si fueran sabios, no seran ms culpables de ella.
+una profesión defectuosa, y si fueran sabios, no serían más culpables de ella.
 
-Quiera Dios que as sea en cada caso en que un notable fantico religioso se
+ˇQuiera Dios que así sea en cada caso en que un notable fanático religioso se
 
 marchite!
 
-Despus que el Salvador
+Después que el Salvador
 
 la hubo condenado,
 
-pronunci sentencia
+pronunció sentencia
 
 sobre ella;
 
-y cul fue esa sentencia? Fue simplemente:
+ży cuál fue esa sentencia? Fue simplemente:
 
-como eras.
+“como eras”.
 
-Fue slo una confirmacin
+Fue sólo una confirmación
 
-de su estado. Este rbol no ha producido ningn fruto, y nunca producir fruto.
+de su estado. Este árbol no ha producido ningún fruto, y nunca producirá fruto.
 
 Si un hombre decide estar sin la gracia de Dios, y, no obstante, resuelve hacer
 
-una profesin de poseerla, no es sino justo que el grandioso Juez le diga:
+una profesión de poseerla, no es sino justo que el grandioso Juez le diga:
 
-Contina sin la gracia. Cuando el gran Juez hable al final con aquellos que
+“Continúa sin la gracia”. Cuando el gran Juez hable al final con aquellos que
 
-se apartaron de Dios, simplemente les dir: Aprtense! A lo largo de toda su
+se apartaron de Dios, simplemente les dirá: “ˇApártense!” A lo largo de toda su
 
-vida siempre estuvieron apartndose, y despus de la muerte su carcter quedar
+vida siempre estuvieron apartándose, y después de la muerte su carácter quedará
 
-sellado a perpetuidad. Si eliges estar sin la gracia, tu condenacin ser estar
+sellado a perpetuidad. Si eliges estar sin la gracia, tu condenación será estar
 
-sin la gracia. El que es inmundo, sea inmundo todava. Que el Seor Jess no
+sin la gracia. “El que es inmundo, sea inmundo todavía”. ˇQue el Seńor Jesús no
 
 tenga nunca que sentenciar a ninguno de ustedes de esa manera, sino que nos
 
@@ -1084,159 +1084,159 @@ cambie, para que seamos cambiados, y obre en nosotros la vida eterna para Su
 
 alabanza y gloria!
 
-Entonces al rbol le sobrevino un cambio.
+Entonces al árbol le sobrevino un cambio.
 
-Comenz
+Comenzó
 
-a secarse de inmediato. Yo no s si los discpulos vieron correr un
+a secarse de inmediato. Yo no sé si los discípulos vieron correr un
 
-estremecimiento a lo largo de la higuera de inmediato, pero a la maana
+estremecimiento a lo largo de la higuera de inmediato, pero a la mańana
 
-siguiente, cuando pasaron por all, segn Marcos, se haba secado de raz. No
+siguiente, cuando pasaron por allí, según Marcos, se había secado de raíz. No
 
-slo las hojas estaban marchitas, como gallardetes cuando no hay viento; no
+sólo las hojas estaban marchitas, como gallardetes cuando no hay viento; no
 
-slo la corteza pareca haber perdido toda seal de vitalidad, sino que todo el
+sólo la corteza parecía haber perdido toda seńal de vitalidad, sino que todo el
 
-tejido estaba consumido fatalmente. Han visto alguna vez una higuera con sus
+tejido estaba consumido fatalmente. żHan visto alguna vez una higuera con sus
 
-ramas extraas e inslitas? Es una visin muy extraordinaria cuando est
+ramas extrańas e insólitas? Es una visión muy extraordinaria cuando está
 
-desnuda de hojas. Atisbo en este caso sus brazos esquelticos! Est dos veces
+desnuda de hojas. ˇAtisbo en este caso sus brazos esqueléticos! Está dos veces
 
-muerta, muerta desde sus propias races.
+muerta, muerta desde sus propias raíces.
 
-As he visto al hermoso
+Así he visto al hermoso
 
 profesante cuando experimenta una plaga. Ha parecido como algo que ha sentido el
 
-aliento del horno que ha consumido su humedad. El hombre ya no es ms l mismo;
+aliento del horno que ha consumido su humedad. El hombre ya no es más él mismo;
 
-su gloria y su belleza han desaparecido sin remedio. No se alz ningn hacha;
+su gloria y su belleza han desaparecido sin remedio. No se alzó ningún hacha;
 
-no se encendi ningn fuego; una palabra lo hizo, y el rbol se sec de raz.
+no se encendió ningún fuego; una palabra lo hizo, y el árbol se secó de raíz.
 
-As, sin rayo y sin pestilencia, el profesante que una vez fue valeroso, es
+Así, sin rayo y sin pestilencia, el profesante que una vez fue valeroso, es
 
-golpeado como con el juicio de Can. Es un destino terrible. Es mejor que el viador
+golpeado como con el juicio de Caín. Es un destino terrible. Es mejor que el vińador
 
-venga a ti con el hacha en su mano, y te golpee con su filo, y te diga: rbol,
+venga a ti con el hacha en su mano, y te golpee con su filo, y te diga: “Árbol,
 
-tienes que dar fruto, o sers cortado de raz. Una tal advertencia sera
+tienes que dar fruto, o serás cortado de raíz”. Una tal advertencia sería
 
-terrible, pero sera infinitamente mejor que si nos dejaran intactos en el
+terrible, pero sería infinitamente mejor que si nos dejaran intactos en el
 
-lugar que ocupamos y nos marchitramos quietamente hasta la destruccin.
+lugar que ocupamos y nos marchitáramos quietamente hasta la destrucción.
 
 Ya he entregado mi carga
 
-pesada, ponindola mucho ms sobre m mismo que sobre cualquiera de ustedes,
+pesada, poniéndola mucho más sobre mí mismo que sobre cualquiera de ustedes,
 
-pues tengo un lugar ms prominente que ustedes; he hecho una profesin ms sonora
+pues tengo un lugar más prominente que ustedes; he hecho una profesión más sonora
 
-que la mayora de ustedes, y si no tengo Su gracia en m, entonces me
+que la mayoría de ustedes, y si no tengo Su gracia en mí, entonces me
 
-presentar delante de la multitud que me ha visto en mi verdor, y me secar
+presentaré delante de la multitud que me ha visto en mi verdor, y me secaré
 
-hasta las propias races, siendo un terrible ejemplo de lo que Dios hace con
+hasta las propias raíces, siendo un terrible ejemplo de lo que Dios hace con
 
 aquellos que no dan fruto para Su gloria.
 
 Pero ahora deseo
 
-concluir con algunas palabras ms tiernas. Que nadie diga: Esto es muy
+concluir con algunas palabras más tiernas. Que nadie diga: “Esto es muy
 
-difcil. Hermano, no es difcil que si profesamos algo, se espere de nosotros que
+difícil”. Hermano, no es difícil que si profesamos algo, se espere de nosotros que
 
-seamos fieles a lo que profesamos. Adems, les ruego que no piensen que
+seamos fieles a lo que profesamos. Además, les ruego que no piensen que
 
-cualquier cosa que mi Seor haga es dura. Todo l es gentileza y ternura. La
+cualquier cosa que mi Seńor haga es dura. Todo Él es gentileza y ternura. La
 
-nica cosa que l en verdad destruy jams fue aquella higuera. l no destruy
+única cosa que Él en verdad destruyó jamás fue aquella higuera. Él no destruyó
 
-a ningn hombre, como Elas, cuando hizo descender fuego del cielo sobre
+a ningún hombre, como Elías, cuando hizo descender fuego del cielo sobre
 
-algunos; ni como Eliseo, cuando los osos salieron del bosque. l slo hace que
+algunos; ni como Eliseo, cuando los osos salieron del bosque. Él sólo hace que
 
-se marchite un rbol estril. Todo l es amor y ternura. No quiere secarte, ni
+se marchite un árbol estéril. Todo Él es amor y ternura. No quiere secarte, ni
 
-lo har, si eres veraz. Lo menos que puede esperar de ti es que seas fiel a lo
+lo hará, si eres veraz. Lo menos que puede esperar de ti es que seas fiel a lo
 
-que profesas. Te rebelas porque te pide que no hagas el papel de un hipcrita?
+que profesas. żTe rebelas porque te pide que no hagas el papel de un hipócrita?
 
-Si comienzas a dar coces contra Su admonicin, parecera como si t mismo
+Si comienzas a dar coces contra Su admonición, parecería como si tú mismo
 
-fueras infiel en tu corazn. En lugar de eso, ven e inclnate humildemente a
+fueras infiel en tu corazón. En lugar de eso, ven e inclínate humildemente a
 
-Sus pies, y di: Seor, si hay algo en esta solemne verdad que tenga que ver
+Sus pies, y di: “Seńor, si hay algo en esta solemne verdad que tenga que ver
 
 conmigo, te suplico que la apliques de tal manera a mi conciencia que pueda
 
-sentir su poder, y huya a Ti en busca de la salvacin. Muchos hombres son
+sentir su poder, y huya a Ti en busca de la salvación”. Muchos hombres son
 
 convertidos de esta manera: estas cosas duras, pero honestas, los sacan de los
 
 falsos refugios y los llevan a ser fieles a Cristo y a sus propias almas.
 
-Pero, -dir alguien-
+“Pero”, -dirá alguien-
 
-yo s lo que har; no har nunca ninguna profesin; no voy a producir hojas.
+“yo sé lo que haré; no haré nunca ninguna profesión; no voy a producir hojas”.
 
-Amigo mo, eso es tener tambin un espritu rebelde y hurao. En vez de hablar
+Amigo mío, eso es tener también un espíritu rebelde y hurańo. En vez de hablar
 
-as, deberas decir: Seor, yo no te pido que quites mis hojas, sino que hagas
+así, deberías decir: “Seńor, yo no te pido que quites mis hojas, sino que hagas
 
-que d fruto. No es probable que el fruto madure bien sin las hojas; las hojas
+que dé fruto”. No es probable que el fruto madure bien sin las hojas; las hojas
 
-son esenciales para la salud del rbol, y la salud del rbol es esencial para
+son esenciales para la salud del árbol, y la salud del árbol es esencial para
 
-la maduracin del fruto. La abierta confesin de fe es buena, y no debe ser
+la maduración del fruto. La abierta confesión de fe es buena, y no debe ser
 
-rechazada. Seor, no quisiera botar ni una sola hoja.
+rechazada. Seńor, no quisiera botar ni una sola hoja.
 
-No me avergenza reconocer a mi Seor,
+“No me avergüenza reconocer a mi Seńor,
 
 O defender Su causa;
 
 Mantener el honor de Su palabra,
 
-La gloria de Su cruz.
+La gloria de Su cruz”.
 
-Seor, yo no quisiera
+Seńor, yo no quisiera
 
 quedar arrinconado; estoy satisfecho con permanecer donde los hombres puedan
 
-ver mis buenas obras y glorificar a mi Padre que est en el cielo. No pido ser
+ver mis buenas obras y glorificar a mi Padre que está en el cielo. No pido ser
 
-observado, pero no me avergenza ser observado; Seor, slo hazme apto para ser
+observado, pero no me avergüenza ser observado; Seńor, sólo hazme apto para ser
 
-observado. Si un comandante le dijera a un soldado: Permanece firme, pero ten
+observado. Si un comandante le dijera a un soldado: “Permanece firme, pero ten
 
-cuidado de tener tus cartuchos listos, para que no empues una arma vaca,
+cuidado de tener tus cartuchos listos, para que no empuńes una arma vacía”,
 
-supongan que el soldado le respondiera: No puedo ser tan minucioso. Yo
+supongan que el soldado le respondiera: “No puedo ser tan minucioso. Yo
 
-preferira correr hacia la retaguardia. Cul sera una respuesta apropiada? Cobarde!,
+preferiría correr hacia la retaguardia”. żCuál sería una respuesta apropiada? ‘ˇCobarde!,
 
-porque tu capitn te advierte que no seas un impostor, t prefieres huir por
+porque tu capitán te advierte que no seas un impostor, ˇtú prefieres huir por
 
-completo! Ciertamente eres de mala calaa. Si no puedes tolerar Su censura, no
+completo! Ciertamente eres de mala calańa. Si no puedes tolerar Su censura, no
 
-eres, en verdad, uno del Seor. Que estas solemnes verdades no nos hagan huir,
+eres, en verdad, uno del Seńor’. Que estas solemnes verdades no nos hagan huir,
 
-sino que nos conduzcan a decir: Seor, te lo suplico, aydame a hacer firme mi
+sino que nos conduzcan a decir: “Seńor, te lo suplico, ayúdame a hacer firme mi
 
-vocacin y eleccin. Te imploro que me ayudes a dar el fruto esperado. Tu
+vocación y elección. Te imploro que me ayudes a dar el fruto esperado. Tu
 
-gracia puede hacerlo.
+gracia puede hacerlo”.
 
-Yo les sugerira a todas
+Yo les sugeriría a todas
 
-las personas presentes que clamen al Seor pidindole que nos haga conscientes
+las personas presentes que clamen al Seńor pidiéndole que nos haga conscientes
 
-de nuestra esterilidad natural. Hermanos poseedores de la gracia, que el Seor
+de nuestra esterilidad natural. Hermanos poseedores de la gracia, que el Seńor
 
-haga que lamentemos nuestra esterilidad comparativa, incluso si damos algn
+haga que lamentemos nuestra esterilidad comparativa, incluso si damos algún
 
 fruto. Sentirse muy satisfecho consigo mismo es peligroso; sentir que eres
 
@@ -1244,97 +1244,97 @@ santo, y, ciertamente, que eres perfecto, es estar al borde del abismo del
 
 orgullo. Si yergues la cabeza tan alto, me temo que la vas a golpear contra el
 
-dintel de la puerta. Si caminas sobre zancos, me temo que caers. Es algo ms
+dintel de la puerta. Si caminas sobre zancos, me temo que caerás. Es algo más
 
-seguro sentir: Seor, yo en verdad te sirvo, y no soy ningn engaador. Yo en
+seguro sentir: “Seńor, yo en verdad te sirvo, y no soy ningún engańador. Yo en
 
-verdad te amo; T has obrado las obras del Espritu en m. Pero, ay!, no soy
+verdad te amo; Tú has obrado las obras del Espíritu en mí. Pero, ˇay!, no soy
 
-lo que quisiera ser; no soy lo que debera ser. Yo aspiro a la santidad,
+lo que quisiera ser; no soy lo que debería ser. Yo aspiro a la santidad,
 
-aydame a alcanzarla. Seor, quisiera yacer en el propio polvo delante de Ti al
+ayúdame a alcanzarla. Seńor, quisiera yacer en el propio polvo delante de Ti al
 
-pensar que despus de haberse cavado a mi alrededor y de haber sido abonado,
+pensar que después de haberse cavado a mi alrededor y de haber sido abonado,
 
-como lo he sido, produzco un fruto tan pequeo. Mi clamor es: Dios, s
+como lo he sido, produzco un fruto tan pequeńo. Mi clamor es: ‘Dios, sé
 
-propicio a m. Aunque hubiera hecho todo, todava sera un siervo intil, pero
+propicio a mí’. Aunque hubiera hecho todo, todavía sería un siervo inútil, pero
 
-habiendo hecho tan poco, Seor, dnde esconder mi cabeza culpable?
+habiendo hecho tan poco, Seńor, żdónde esconderé mi cabeza culpable?”
 
-Por ltimo, cuando hayas
+Por último, cuando hayas
 
-hecho esta confesin, y el buen Seor te oiga, hay un emblema en
+hecho esta confesión, y el buen Seńor te oiga, hay un emblema en
 
 la Escritura
 
 que quisiera
 
-que copiaran. Supongan que esta maana se sintieran tan secos, y muertos y
+que copiaran. Supongan que esta mańana se sintieran tan secos, y muertos y
 
-estriles, que no pudieran servir a Dios como ustedes quisieran, y ni siquiera
+estériles, que no pudieran servir a Dios como ustedes quisieran, y ni siquiera
 
-pudieran orar pidiendo ms gracia, como quisieran hacerlo. Entonces ustedes son
+pudieran orar pidiendo más gracia, como quisieran hacerlo. Entonces ustedes son
 
-parecidos a estas doce varas. Estn muy muertas y secas, pues han sido sostenidas
+parecidos a estas doce varas. Están muy muertas y secas, pues han sido sostenidas
 
-en las manos de doce jefes que las han usado como sus bculos oficiales. Estas
+en las manos de doce jefes que las han usado como sus báculos oficiales. Estas
 
-doce varas han de ser colocadas delante del Seor. Esa es la vara de Aarn, que
+doce varas han de ser colocadas delante del Seńor. Esa es la vara de Aarón, que
 
-est tan muerta y seca como cualquiera de las otras. Todas las doce estn
+está tan muerta y seca como cualquiera de las otras. Todas las doce están
 
-colocadas en el lugar donde mora el Seor. Las vemos a la maana siguiente.
+colocadas en el lugar donde mora el Seńor. Las vemos a la mańana siguiente.
 
-Once de ellas todava estn secas; pero vean esta vara de Aarn! Qu ha
+Once de ellas todavía están secas; ˇpero vean esta vara de Aarón! żQué ha
 
-sucedido? Estaba tan seca como si estuviera muerta. Vean, ha retoado! Eso es
+sucedido? Estaba tan seca como si estuviera muerta. ˇVean, ha retońado! ˇEso es
 
-maravilloso! Pero, miren, ha florecido! Han brotado flores de almendra.
+maravilloso! Pero, ˇmiren, ha florecido! Han brotado flores de almendra.
 
-Ustedes conocen el color rosa y blanco de esa flor. Eso es maravilloso! Pero
+Ustedes conocen el color rosa y blanco de esa flor. ˇEso es maravilloso! ˇPero
 
-miren de nuevo, ha producido almendras! Aqu las tienen! Vean los verdes
+miren de nuevo, ha producido almendras! ˇAquí las tienen! Vean los verdes
 
-frutos que parecen duraznos. Qutenle la envoltura y queda una almendra cuya
+frutos que parecen duraznos. Quítenle la envoltura y queda una almendra cuya
 
-cscara se puede quebrar para encontrar el fruto. El poder celestial descendi
+cáscara se puede quebrar para encontrar el fruto. El poder celestial descendió
 
-sobre la vara seca, y reto, y floreci e incluso produjo almendras. Dar
+sobre la vara seca, y retońó, y floreció e incluso produjo almendras. Dar
 
-frutos es la prueba de la vida y del favor. Seor, toma estas pobres varas esta
+frutos es la prueba de la vida y del favor. Seńor, toma estas pobres varas esta
 
-maana, y haz que retoen. Seor, aqu estamos, en un manojo; haz aquel milagro
+mańana, y haz que retońen. Seńor, aquí estamos, en un manojo; haz aquel milagro
 
-antiguo en miles de nosotros. Haznos retoar y florecer y dar fruto! Ven con
+antiguo en miles de nosotros. ˇHaznos retońar y florecer y dar fruto! Ven con
 
-poder divino, y convierte a esta congregacin de ser un haz de lea a ser una
+poder divino, y convierte a esta congregación de ser un haz de leńa a ser una
 
-arboleda. Oh, que nuestro bendito Seor pudiera obtener un higo de alguna vara
+arboleda. ˇOh, que nuestro bendito Seńor pudiera obtener un higo de alguna vara
 
-seca esta maana! Por lo menos un higo como ste: Dios, s propicio a m,
+seca esta mańana! Por lo menos un higo como éste: “Dios, sé propicio a mí,
 
-pecador. Hay dulzura en esa oracin. A nuestro Seor le gusta el sabor de un
+pecador”. Hay dulzura en esa oración. A nuestro Seńor le gusta el sabor de un
 
-higo como este: Creo; ayuda mi incredulidad. Aqu hay otro: He aqu, aunque
+higo como este: “Creo; ayuda mi incredulidad”. Aquí hay otro: “He aquí, aunque
 
-l me matare, en l esperar. Esa es toda una canasta entera de los primeros
+él me matare, en él esperaré”. Esa es toda una canasta entera de los primeros
 
-higos maduros, y el Seor se regocija en su dulzura. Ven, Espritu Santo,
+higos maduros, y el Seńor se regocija en su dulzura. ˇVen, Espíritu Santo,
 
-produce fruto en nosotros en este da, por medio de la fe en Jesucristo nuestro
+produce fruto en nosotros en este día, por medio de la fe en Jesucristo nuestro
 
-Seor! Amn, y Amn.
+Seńor! Amén, y Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Mateo 21: 12-32.
+del sermón: Mateo 21: 12-32.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 28/Julio/2011
 

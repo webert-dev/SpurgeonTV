@@ -1,14 +1,14 @@
 # Sermón 2457 | Sermón 2457
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-La Resignacin
+La Resignación
 
 de Job
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -18,53 +18,53 @@ DEL
 
 JUEVES 11 DE MARZO DE 1886
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
-Y TAMBIN LEDO EL DOMINGO 22 DE MARZO DE 1896.
+Y TAMBIÉN LEÍDO EL DOMINGO 22 DE MARZO DE 1896.
 
-Entonces Job
+“Entonces Job
 
-se levant, y rasg su manto, y rasur su cabeza, y se postr en tierra y
+se levantó, y rasgó su manto, y rasuró su cabeza, y se postró en tierra y
 
-ador, y dijo: Desnudo sal del vientre de mi
+adoró, y dijo: Desnudo salí del vientre de mi
 
 madre
 
 , y
 
-desnudo volver all. Jehov dio, y Jehov quit; sea el nombre de Jehov
+desnudo volveré allá. Jehová dio, y Jehová quitó; sea el nombre de Jehová
 
-bendito. En todo esto no pec Job, ni atribuy a Dios despropsito alguno. Job
+bendito. En todo esto no pecó Job, ni atribuyó a Dios despropósito alguno”. Job
 
 1: 20-22.
 
 Job estaba sumamente
 
-atribulado y no trataba de ocultar las seales externas de su dolor. No se
+atribulado y no trataba de ocultar las seńales externas de su dolor. No se
 
 espera que un hombre de Dios sea un estoico. La gracia de Dios quita de su
 
-carne el corazn de piedra pero no convierte su corazn en una piedra. Los
+carne el corazón de piedra pero no convierte su corazón en una piedra. Los
 
 hijos de Dios experimentan delicados sentimientos; cuando tienen que aguantar
 
-la vara sienten el dolor de sus azotes y Job senta los golpes que llovan
+la vara sienten el dolor de sus azotes y Job sentía los golpes que llovían
 
-sobre l. No te culpes si eres consciente del dolor y la afliccin y no pidas
+sobre él. No te culpes si eres consciente del dolor y la aflicción y no pidas
 
-volverte duro e insensible. Ese no es el mtodo mediante el cual obra la
+volverte duro e insensible. Ese no es el método mediante el cual obra la
 
-gracia; enfrentar la tribulacin nos fortalece, pero es preciso enfrentarla; nos
+gracia; enfrentar la tribulación nos fortalece, pero es preciso enfrentarla; nos
 
-da paciencia y sumisin, no estoicismo. Nosotros sentimos y nos beneficiamos
+da paciencia y sumisión, no estoicismo. Nosotros sentimos y nos beneficiamos
 
-por sentir, y no hay ningn pecado en el sentimiento, pues en nuestro texto se
+por sentir, y no hay ningún pecado en el sentimiento, pues en nuestro texto se
 
-nos dice expresamente respecto al luto del patriarca: En todo esto no pec
+nos dice expresamente respecto al luto del patriarca: “En todo esto no pecó
 
-Job. Aunque l era un gran ser doliente creo que puedo llamarlo
+Job”. Aunque él era un gran ser doliente –creo que puedo llamarlo
 
 verdaderamente el principal ser doliente de
 
@@ -74,163 +74,163 @@ con todo no
 
 hubo pecado en su luto. Hay algunos que dicen que cuando estamos abatidos
 
-necesariamente tenemos un espritu equivocado, pero no es as. El apstol Pedro
+necesariamente tenemos un espíritu equivocado, pero no es así. El apóstol Pedro
 
-dice: Aunque ahora por un poco de tiempo, si es necesario, tengis que ser
+dice: “Aunque ahora por un poco de tiempo, si es necesario, tengáis que ser
 
-afligidos en diversas pruebas, pero no implica que la afliccin sea mala. Hay
+afligidos en diversas pruebas”, pero no implica que la aflicción sea mala. Hay
 
 algunos que no lloran cuando Dios los disciplina y algunos que no quieren
 
 someterse cuando Dios los hiere. Nosotros no deseamos ser como ellos. Estamos
 
-muy contentos con tener el corazn sufriente que tuvo Job, y sentir la amargura
+muy contentos con tener el corazón sufriente que tuvo Job, y sentir la amargura
 
-de espritu y la angustia de alma que atormentaban al bendito patriarca.
+de espíritu y la angustia de alma que atormentaban al bendito patriarca.
 
 Adicionalmente, Job hizo
 
-uso de seales muy manifiestas de luto. No solamente sinti afliccin en el
+uso de seńales muy manifiestas de luto. No solamente sintió aflicción en el
 
-interior de su corazn sino que la indic rasgando su manto, rasurando su
+interior de su corazón sino que la indicó rasgando su manto, rasurando su
 
-cabeza y postrndose en tierra como si buscase regresar al vientre de la madre
+cabeza y postrándose en tierra como si buscase regresar al vientre de la madre
 
-tierra como l mismo deca que deba hacerlo; y no creo que debamos juzgar a
+tierra como él mismo decía que debía hacerlo; y no creo que debamos juzgar a
 
 aquellos de nuestros hermanos y hermanas que sienten que es correcto recurrir a
 
-las seales comunes de luto. Si les producen algn tipo de solaz en su
+las seńales comunes de luto. Si les producen algún tipo de solaz en su
 
-afliccin, que recurran a ellas. Yo creo que a veces algunos llegan al exceso
+aflicción, que recurran a ellas. Yo creo que a veces algunos llegan al exceso
 
 en este sentido, pero no me atrevo a emitir una sentencia contra ellos porque leo
 
-aqu: En todo esto no pec Job, ni atribuy a Dios despropsito alguno. Aunque
+aquí: “En todo esto no pecó Job, ni atribuyó a Dios despropósito alguno”. Aunque
 
-el crespn negro se use durante un tiempo demasiado largo y aunque la afliccin
+el crespón negro se use durante un tiempo demasiado largo y aunque la aflicción
 
-se nutra indebidamente, segn juzgan algunos, a pesar de todo no podemos
+se nutra indebidamente, según juzgan algunos, a pesar de todo no podemos
 
-establecer un estndar de lo que es correcto para otros. Cada quien tiene que
+establecer un estándar de lo que es correcto para otros. Cada quien tiene que
 
-responder por su conducta ante su propio Seor. Yo recuerdo la benignidad de
+responder por su conducta ante su propio Seńor. Yo recuerdo la benignidad de
 
-Jess para con los enlutados antes que su severidad en el trato con ellos. l
+Jesús para con los enlutados antes que su severidad en el trato con ellos. Él
 
-siente mucha piedad por nuestra debilidad y yo deseara que algunos de Sus
+siente mucha piedad por nuestra debilidad y yo desearía que algunos de Sus
 
-siervos compartieran ms del mismo espritu. Si los que estn afligidos
+siervos compartieran más del mismo espíritu. Si los que están afligidos
 
-pudieran ser fuertes, si la mala hierba del luto pudiera apartarse, eso podra
+pudieran ser fuertes, si la mala hierba del luto pudiera apartarse, eso podría
 
-indicar una mayor conformidad con la voluntad divina; pero si t no sientes que
+indicar una mayor conformidad con la voluntad divina; pero si tú no sientes que
 
-deba ser as contigo, Dios no quiera que nosotros te censuremos cuando tenemos
+deba ser así contigo, Dios no quiera que nosotros te censuremos cuando tenemos
 
-un texto como el que estamos considerando: Job se levant, y rasg su manto, y
+un texto como el que estamos considerando: “Job se levantó, y rasgó su manto, y
 
-rasur su cabeza, y se postr en tierra y en todo esto no pec Job.
+rasuró su cabeza, y se postró en tierra” y “en todo esto no pecó Job”.
 
 Sin embargo quiero que
 
-ustedes noten que el luto tiene que ser santificado siempre con devocin. Es
+ustedes noten que el luto tiene que ser santificado siempre con devoción. Es
 
 muy placentero observar que cuando Job hubo rasgado su manto siguiendo la
 
-costumbre oriental, y rasurado su cabeza (de una manera que, en su da, no
+costumbre oriental, y rasurado su cabeza (de una manera que, en su día, no
 
-estaba prohibido, pero que bajo la ley mosaica fue prohibido, pues no podan
+estaba prohibido, pero que bajo la ley mosaica fue prohibido, pues no podían
 
-cortar su cabello por causa del luto como lo hacan los paganos), cuando el
+cortar su cabello por causa del luto como lo hacían los paganos), cuando el
 
-patriarca se hubo postrado en tierra, ador. No refunfu; no se lament;
+patriarca se hubo postrado en tierra, “adoró”. No refunfuńó; no se lamentó;
 
-mucho menos comenz a imprecar y a usar un lenguaje injustificable e impropio
+mucho menos comenzó a imprecar y a usar un lenguaje injustificable e impropio
 
-sino que se postr en tierra, y ador. Oh, querido amigo, cuando tu dolor te
+sino que “se postró en tierra, y adoró”. ˇOh, querido amigo, cuando tu dolor te
 
-doble hasta el polvo, adora all! Si ese sitio ha llegado a ser tu Getseman,
+doble hasta el polvo, adora allí! Si ese sitio ha llegado a ser tu Getsemaní,
 
-entonces presenta all a tu Dios tu gran clamor y lgrimas. Recuerda las
+entonces presenta allí a tu Dios tu “gran clamor y lágrimas”. Recuerda las
 
-palabras de David, oh pueblos, derramad vuestro corazn pero no te detengas
+palabras de David, “oh pueblos, derramad… vuestro corazón” –pero no te detengas
 
-all, termina la cita- oh pueblos, derramad delante de l vuestro corazn.
+allí, termina la cita- “oh pueblos, derramad delante de él vuestro corazón”.
 
 Pongan la vasija boca abajo; es algo bueno vaciarla pues este dolor puede
 
-fermentarse y convertirse en algo ms agrio. Pongan la vasija boca abajo, y
+fermentarse y convertirse en algo más agrio. Pongan la vasija boca abajo, y
 
-dejen que se escurra cada una de las gotas, pero que sea delante del Seor. Oh
+dejen que se escurra cada una de las gotas, pero que sea delante del Seńor. “Oh
 
-pueblos, derramad delante de l vuestro corazn; Dios es nuestro refugio.
+pueblos, derramad delante de él vuestro corazón; Dios es nuestro refugio”.
 
-Cuando ests inclinado bajo una pesada carga de afliccin, entonces adopta la
+Cuando estés inclinado bajo una pesada carga de aflicción, entonces adopta la
 
-adoracin al Seor, especialmente ese tipo de adoracin que consiste en adorar
+adoración al Seńor, especialmente ese tipo de adoración que consiste en adorar
 
 a Dios y en hacer una completa entrega de uno mismo a la voluntad divina, de
 
-manera que puedas decir con Job: Aunque l me matare, en l esperar. Ese
+manera que puedas decir con Job: “Aunque él me matare, en él esperaré”. Ese
 
-tipo de adoracin que consiste en el sometimiento de la voluntad, el despertar
+tipo de adoración que consiste en el sometimiento de la voluntad, el despertar
 
-de los afectos, el zarandeo de toda la mente y el corazn y la presentacin de
+de los afectos, el zarandeo de toda la mente y el corazón y la presentación de
 
-uno mismo a Dios en solemne y renovada consagracin, tiene que tender a
+uno mismo a Dios en solemne y renovada consagración, tiene que tender a
 
-endulzar la afliccin y a sacarle el aguijn.
+endulzar la aflicción y a sacarle el aguijón.
 
-Tambin aliviar
+También aliviará
 
-grandemente nuestra afliccin si luego nos sumimos en serias contemplaciones, y
+grandemente nuestra aflicción si luego nos sumimos en serias contemplaciones, y
 
 comenzamos a argumentar un poco y a revivir en nuestra mente los hechos
 
-pertinentes. Evidentemente Job lo hizo, pues los versculos de mi texto estn
+pertinentes. Evidentemente Job lo hizo, pues los versículos de mi texto están
 
-llenos de pruebas de su reflexin. El patriarca trae a su propia mente al menos
+llenos de pruebas de su reflexión. El patriarca trae a su propia mente al menos
 
-cuatro temas de asidua consideracin de los cuales extrajo gran consuelo. De igual
+cuatro temas de asidua consideración de los cuales extrajo gran consuelo. De igual
 
-manera, ustedes haran bien, no meramente quedndose sentados y diciendo: ser
+manera, ustedes harían bien, no meramente quedándose sentados y diciendo: “seré
 
-consolado, sino que tienen que mirar en torno suyo buscando temas sobre los
+consolado”, sino que tienen que mirar en torno suyo buscando temas sobre los
 
 cuales pensar y meditar para provecho. Su pobre mente es propensa a ser sacudida
 
-de un lado a otro por la presin de su afliccin, pero ustedes pueden arrojar
+de un lado a otro por la presión de su aflicción, pero ustedes pueden arrojar
 
 el ancla en algunas grandes verdades claramente confirmadas acerca de las
 
 cuales no pueden tener ninguna duda posible, y pueden comenzar a derivar
 
-consolacin de ellas. En mi meditacin dijo David- se encendi fuego, y le
+consolación de ellas. “En mi meditación” –dijo David- “se encendió fuego”, y le
 
-consol y le calent. Recuerden cmo se habl a s mismo como si se tratara de
+consoló y le calentó. Recuerden cómo se habló a sí mismo como si se tratara de
 
-otro yo: Por qu te abates, oh alma ma, y por qu te turbas dentro de m?
+otro yo: “żPor qué te abates, oh alma mía, y por qué te turbas dentro de mí?
 
-Espera en Dios; porque an he de alabarle, salvacin ma y Dios mo. Ustedes
+Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío”. ˇUstedes
 
-ven que hay dos Davides hablando el uno con el otro y dndose nimo el uno al
+ven que hay dos Davides hablando el uno con el otro y dándose ánimo el uno al
 
-otro! Un hombre debera ser siempre buena compaa para l mismo y debera ser tambin
+otro! Un hombre debería ser siempre buena compańía para él mismo y debería ser también
 
-capaz de catequizarse a s mismo; quien no es apto para ser su propio maestro
+capaz de catequizarse a sí mismo; quien no es apto para ser su propio maestro
 
 no es apto para ser maestro de otras personas. Si no puedes catequizar tu
 
-propio corazn y plantar una verdad en tu propia alma no sabes cmo ensear a
+propio corazón y plantar una verdad en tu propia alma no sabes cómo enseńar a
 
-otras personas. Yo creo que la mejor predicacin del mundo es la que se realiza
+otras personas. Yo creo que la mejor predicación del mundo es la que se realiza
 
-en el hogar. Cuando un espritu sufriente se ha consolado a s mismo ha
+en el hogar. Cuando un espíritu sufriente se ha consolado a sí mismo ha
 
 aprendido el arte de consolar a otras personas. Job es un ejemplo de este tipo
 
-de instruccin personal; tiene tres o cuatro temas que lleva a su mente y estos
+de instrucción personal; tiene tres o cuatro temas que lleva a su mente y estos
 
 tienden a consolarlo.
 
@@ -238,7 +238,7 @@ I.
 
 El
 
-primero es, en mi opinin,
+primero es, en mi opinión,
 
 LA EXTREMA BREVEDAD
 
@@ -248,187 +248,187 @@ LA VIDA.
 
 Observen lo que dice Job:
 
-Desnudo sal del vientre de mi madre, y desnudo volver all. l sali de la
+“Desnudo salí del vientre de mi madre, y desnudo volveré allá”. Él salió de la
 
-madre tierra y espera volver para estar all. Esa es la idea de la vida que
+madre tierra y espera volver para estar allí. Esa es la idea de la vida que
 
 tiene Job, y es una idea muy cierta:
 
-yo
+“yo
 
-salgo, y vuelvo de nuevo.
+salgo, y vuelvo de nuevo”.
 
-Alguien le pregunt a un varn de Dios un da:
+Alguien le preguntó a un varón de Dios un día:
 
-Podras decirme qu es la vida? El varn de Dios se detuvo slo un momento y
+“żPodrías decirme qué es la vida?” El varón de Dios se detuvo sólo un momento y
 
-luego se alej deliberadamente. Cuando su amigo le encontr, al siguiente da,
+luego se alejó deliberadamente. Cuando su amigo le encontró, al siguiente día,
 
-le dijo: Ayer te hice una pregunta, y t no me la respondiste. Claro que la
+le dijo: “Ayer te hice una pregunta, y tú no me la respondiste”. “Claro que la
 
-respond, contest el varn piadoso. No, argument el otro, t estabas all
+respondí”, contestó el varón piadoso. “No”, argumentó el otro, “tú estabas allí
 
-y te fuiste. Bien, t me preguntaste qu era la vida, y esa fue mi respuesta.
+y te fuiste”. “Bien, tú me preguntaste qué era la vida, y esa fue mi respuesta.
 
-Pude haberle dado una mejor respuesta a tu pregunta? El varn de Dios
+żPude haberle dado una mejor respuesta a tu pregunta?” El varón de Dios
 
-respondi y actu sabiamente, pues ese es un resumen completo de nuestra vida
+respondió y actuó sabiamente, pues ese es un resumen completo de nuestra vida
 
-aqu abajo: Venimos y vamos. Aparecemos por un momento fugaz y luego nos
+aquí abajo: Venimos y vamos. Aparecemos por un momento fugaz y luego nos
 
-esfumamos. A menudo, en mi propia mente, yo comparo la vida con una procesin.
+esfumamos. A menudo, en mi propia mente, yo comparo la vida con una procesión.
 
 Yo los veo, queridos amigos, pasar a mi lado uno a uno, y desvanecerse, y otros
 
-vienen atrs; pero el punto que soy propenso a olvidar y ustedes hacen lo
+vienen atrás; pero el punto que soy propenso a olvidar –y ustedes hacen lo
 
-mismo- es que yo estoy en la procesin, y ustedes tambin estn en ella. Todos
+mismo- es que yo estoy en la procesión, y ustedes también están en ella. Todos
 
 nosotros consideramos mortales a todos los hombres salvo a nosotros mismos, sin
 
-embargo, todos vamos marchando hacia ese pas de cuyos confines ningn viajero
+embargo, todos vamos marchando hacia ese país de cuyos confines ningún viajero
 
 regresa.
 
 Pues bien, debido a que
 
-la vida es tan corta, no ven de dnde viene el consuelo? Job se dice a s
+la vida es tan corta, żno ven de dónde viene el consuelo? Job se dice a sí
 
-mismo: yo vine y volver, entonces, por qu habra de preocuparme por lo que
+mismo: “yo vine y volveré, entonces, żpor qué habría de preocuparme por lo que
 
-he perdido? Yo voy a estar aqu slo un poquito de tiempo, entonces, qu
+he perdido? Yo voy a estar aquí sólo un poquito de tiempo, entonces, żqué
 
-necesidad tengo de todos esos camellos y ovejas? Entonces, hermanos, lo que
+necesidad tengo de todos esos camellos y ovejas?” Entonces, hermanos, lo que
 
-Dios nos ha dado es una determinada cantidad de viticos para nuestro viaje,
+Dios nos ha dado es una determinada cantidad de viáticos para nuestro viaje,
 
-para pagar nuestros pasajes y para ayudar a nuestros compaeros de viaje; pero
+para pagar nuestros pasajes y para ayudar a nuestros compańeros de viaje; pero
 
-ninguno de nosotros necesita tanta riqueza como la que Job posea. l tena
+ninguno de nosotros necesita tanta riqueza como la que Job poseía. Él tenía
 
-siete mil ovejas. Vlgame Dios! Qu tarea debe de haber sido movilizar y
+siete mil ovejas. ˇVálgame Dios! ˇQué tarea debe de haber sido movilizar y
 
-alimentar a un rebao tan grande! Y tres mil camellos y quinientas yuntas de
+alimentar a un rebańo tan grande! “Y tres mil camellos y quinientas yuntas de
 
-bueyes. Esto es, mil bueyes. Y quinientas asnas y muchsimos criados. Nuestro
+bueyes”. Esto es, mil bueyes. “Y quinientas asnas y muchísimos criados”. Nuestro
 
-proverbio reza: Entre ms siervos, ms plagas, y yo estoy seguro de que es
+proverbio reza: “Entre más siervos, más plagas”, y yo estoy seguro de que es
 
-cierto que entre ms camellos, ms caballos, ms vacas, que entre ms tenga un
+cierto que entre más camellos, más caballos, más vacas, que entre más tenga un
 
-hombre tales cosas, tiene ms cosas que cuidar y ms cosas que le causen
+hombre tales cosas, tiene más cosas que cuidar y más cosas que le causen
 
-problemas. Entonces Job pareciera decirse: Estoy aqu por un tiempo tan breve,
+problemas. Entonces Job pareciera decirse: “Estoy aquí por un tiempo tan breve,
 
-por qu me he de dejar llevar, como por una corriente, aun cuando estas cosas me
+żpor qué me he de dejar llevar, como por una corriente, aun cuando estas cosas me
 
 sean quitadas? Yo vengo y voy; por tanto tengo que estar satisfecho si otras
 
-cosas vienen y van. Si mis reservas terrenales se esfuman, bien, yo me esfumar
+cosas vienen y van. Si mis reservas terrenales se esfuman, bien, yo me esfumaré
 
-tambin. Son como yo; les salen alas y vuelan lejos; y muy pronto yo tambin
+también. Son como yo; les salen alas y vuelan lejos; y muy pronto yo también
 
-tendr alas y me habr ido. Me he enterado de alguien que llamaba a la vida:
+tendré alas y me habré ido”. Me he enterado de alguien que llamaba a la vida:
 
-la larga enfermedad de la vida; y eso era para l, pues, aunque realiz una
+“la larga enfermedad de la vida”; y eso era para él, pues, aunque realizó una
 
-gran obra para su Seor, siempre estaba enfermo. Bien, quin quiere una larga
+gran obra para su Seńor, siempre estaba enfermo. Bien, żquién quiere una larga
 
-enfermedad? Esta es la reflexin que hace que la calamidad tenga tan larga
+enfermedad? “Esta es la reflexión que hace que la calamidad tenga tan larga
 
-vida. Queremos sentir ms bien que no es larga, que es breve, y dar poca
+vida”. Queremos sentir más bien que no es larga, que es breve, y dar poca
 
-importancia a todas las cosas de aqu abajo y considerarlas como cosas que, como
+importancia a todas las cosas de aquí abajo y considerarlas como cosas que, como
 
-nosotros mismos, aparecen slo por un tiempo y pronto partirn.
+nosotros mismos, aparecen sólo por un tiempo y pronto partirán.
 
-Adems, Job pareciera
+Además, Job pareciera
 
 reflexionar con especial consuelo en el pensamiento:
 
-Voy a regresar a la tierra
+“Voy a regresar a la tierra
 
-de la cual todas las partculas de mi
+de la cual todas las partículas de mi
 
-cuerpo vinieron originalmente; yo voy a regresar all. Ah!, dijo alguien,
+cuerpo vinieron originalmente; yo voy a regresar allá”. “ˇAh!”, dijo alguien,
 
-cuando hubo visto los amplios y bellos jardines de un varn rico: estas son
+cuando hubo visto los amplios y bellos jardines de un varón rico: “estas son
 
-las cosas que hacen difcil morir. Ustedes recuerdan cmo la tribu de Gad y la
+las cosas que hacen difícil morir”. Ustedes recuerdan cómo la tribu de Gad y la
 
-tribu de Rubn fueron a Moiss y dijeron: Si hallamos gracia en tus ojos, dse
+tribu de Rubén fueron a Moisés y dijeron: “Si hallamos gracia en tus ojos, dése
 
-esta tierra a tus siervos en heredad, y no nos hagas pasar el Jordn. Por supuesto
+esta tierra a tus siervos en heredad, y no nos hagas pasar el Jordán”. Por supuesto
 
-que ellos no queran pasar el Jordn si podan obtener todas sus posesiones del
+que ellos no querían pasar el Jordán si podían obtener todas sus posesiones del
 
-otro lado. Pero Job no tena nada de este lado del Jordn, estaba totalmente
+otro lado. Pero Job no tenía nada de este lado del Jordán, estaba totalmente
 
-limpio, as que estaba dispuesto a partir. Y, realmente, las prdidas que un
+limpio, así que estaba dispuesto a partir. Y, realmente, las pérdidas que un
 
-hombre experimenta que lo llevan a tener deseo de partir y estar con Cristo,
+hombre experimenta que lo llevan a “tener deseo de partir y estar con Cristo,
 
-lo cual es muchsimo mejor, son ganancias reales. Cul es la utilidad de todo
+lo cual es muchísimo mejor”, son ganancias reales. żCuál es la utilidad de todo
 
-lo que nos estorba aqu? Un hombre de grandes posesiones me recuerda de mi
+lo que nos estorba aquí? Un hombre de grandes posesiones me recuerda de mi
 
-experiencia cuando he ido a ver a un amigo en el campo, y l me ha llevado a
+experiencia cuando he ido a ver a un amigo en el campo, y él me ha llevado a
 
-travs de un campo arado, y cuando he caminado he tenido dos pesadas cargas de
+través de un campo arado, y cuando he caminado he tenido dos pesadas cargas de
 
-tierra, una en cada pie. La tierra se pegaba a m y haca que caminar fuera
+tierra, una en cada pie. La tierra se pegaba a mí y hacía que caminar fuera
 
-difcil. Sucede exactamente lo mismo con este mundo: sus cosas buenas nos
+difícil. Sucede exactamente lo mismo con este mundo: sus cosas buenas nos
 
 estorban, nos obstaculizan, se pegan a nosotros cual densa arcilla, pero cuando
 
-quitamos estos obstculos, nos consuela el pensamiento: Vamos a retornar
+quitamos estos obstáculos, nos consuela el pensamiento: “Vamos a retornar
 
-pronto a la tierra de donde vinimos. Nosotros sabemos que no es un simple
+pronto a la tierra de donde vinimos”. Nosotros sabemos que no es un simple
 
 retorno a la tierra pues poseemos una vida que es inmortal que esperamos vivirla
 
 en la verdadera tierra que fluye leche y miel, donde, como Daniel, estaremos en
 
-nuestra parcela al fin de los das; por tanto, nos sentimos no slo resignados
+nuestra parcela al fin de los días; por tanto, nos sentimos no sólo resignados
 
 a retornar al vientre de la madre tierra, sino que algunas veces aun anhelamos el
 
 tiempo de la venida de nuestro retorno. Un amado siervo de Dios, a quien todos
 
-ustedes reconoceran si mencionara su nombre, hablaba conmigo respecto a
+ustedes reconocerían si mencionara su nombre, hablaba conmigo respecto a
 
-nuestro amado hermano que parti, Hugh Stowell Brown, y dijo: Da la impresin
+nuestro amado hermano que partió, Hugh Stowell Brown, y dijo: “Da la impresión
 
-de que todos los hermanos de mi edad y de la tuya se estn yendo a casa; estn
+de que todos los hermanos de mi edad y de la tuya se están yendo a casa; están
 
-falleciendo, los padres y los lderes se estn yendo, y yo casi deseara
+falleciendo, los padres y los líderes se están yendo, y yo casi desearía”
 
-agreg- que nuestro Padre Celestial registrara mi nombre como el siguiente
+–agregó- “que nuestro Padre Celestial registrara mi nombre como el siguiente
 
-que debe partir. Yo dije que yo deseaba que el Seor no hiciera eso, sino que
+que debe partir”. Yo dije que yo deseaba que el Seńor no hiciera eso, sino que
 
-nuestro hermano fuera conservado para trabajar un poco ms de tiempo aqu; pero
+nuestro hermano fuera conservado para trabajar un poco más de tiempo aquí; pero
 
-que si yo pudiera poner otro nombre, yo argumentara por m mismo para ir all
+que si yo pudiera poner otro nombre, yo argumentaría por mí mismo para ir allá
 
 en lugar suyo. Felizmente, nosotros no tenemos nada que ver con la fecha de
 
-nuestra partida al hogar; est fuera de nuestras manos; con todo nos alegra
+nuestra partida al hogar; está fuera de nuestras manos; con todo nos alegra
 
-sentir que cuando el tiempo de nuestra partida llegue, no ser ninguna
+sentir que cuando el tiempo de nuestra partida llegue, no será ninguna
 
 calamidad sino un claro avance que el Maestro nos indique el regreso al polvo
 
-de donde vinimos. Regresen, hijos de los hombres, dir l, y nosotros
+de donde vinimos. “Regresen, hijos de los hombres”, dirá Él, y nosotros
 
-responderemos alegremente: S, Padre, henos aqu, alegres de extender nuestras
+responderemos alegremente: “Sí, Padre, henos aquí, alegres de extender nuestras
 
 alas y volar directamente a aquel mundo de dicha, esperando que aun nuestros
 
-pobres cuerpos, muy pronto, con trompeta del arcngel, regresarn a ti, y
+pobres cuerpos, muy pronto, con trompeta del arcángel, regresarán a ti, y
 
-seremos como Tu Hijo unignito, cuando le veremos tal como l es.
+seremos como Tu Hijo unigénito, cuando le veremos tal como Él es”.
 
 II.
 
@@ -442,95 +442,95 @@ DE
 
 SUS POSESIONES TERRENALES.
 
-Desnudo dice l, sal del vientre de mi madre, y desnudo volver all.
+“Desnudo” dice él, “salí del vientre de mi madre, y desnudo volveré allá”.
 
-l mismo se siente muy
+Él mismo se siente muy
 
-pobre, todo se ha perdido, est despojado; con todo, pareciera decir:
+pobre, todo se ha perdido, está despojado; con todo, pareciera decir:
 
-no soy ms pobre ahora de lo que era cuando
+“no soy más pobre ahora de lo que era cuando
 
-nac.
+nací”.
 
-Entonces no tena nada, ni siquiera una ropa para mi espalda sino lo
+Entonces no tenía nada, ni siquiera una ropa para mi espalda sino lo
 
-que el amor de mi madre provey para m. Yo estaba indefenso entonces; no poda
+que el amor de mi madre proveyó para mí. Yo estaba indefenso entonces; no podía
 
-hacer nada por m mismo en absoluto. Alguien me dijo el otro da: Todo se ha
+hacer nada por mí mismo en absoluto”. Alguien me dijo el otro día: “Todo se ha
 
-perdido, amigo, todo se ha perdido, salvo la salud y el vigor. S, pero no
+perdido, amigo, todo se ha perdido, salvo la salud y el vigor”. Sí, pero no
 
-tenamos ni siquiera eso cuando nacimos. No tenamos ninguna fuerza, ramos
+teníamos ni siquiera eso cuando nacimos. No teníamos ninguna fuerza, éramos
 
-demasiado dbiles para realizar la menor de las funciones de nuestro pobre
+demasiado débiles para realizar la menor de las funciones de nuestro pobre
 
-cuerpo, aunque fuera la ms necesaria. David a menudo reflexiona muy dulcemente
+cuerpo, aunque fuera la más necesaria. David a menudo reflexiona muy dulcemente
 
-en su niez, y todava ms en su infancia, y nosotros haramos bien en
+en su nińez, y todavía más en su infancia, y nosotros haríamos bien en
 
-imitarle. Los ancianos llegan algunas veces a una segunda niez. No tengas
+imitarle. Los ancianos llegan algunas veces a una segunda nińez. No tengas
 
-miedo, hermano, si ese fuera tu caso; ya has atravesado un perodo que era ms
+miedo, hermano, si ese fuera tu caso; ya has atravesado un período que era más
 
-infantil que lo que puede ser tu segundo; no sers ms dbil entonces de lo que
+infantil que lo que puede ser tu segundo; no serás más débil entonces de lo que
 
-eras al principio. Supn que t y yo seamos reducidos a extrema debilidad y
+eras al principio. Supón que tú y yo seamos reducidos a extrema debilidad y
 
-pobreza: no seremos ni ms dbiles ni ms pobres de lo que ramos entonces. Pero
+pobreza: no seremos ni más débiles ni más pobres de lo que éramos entonces. “Pero
 
-yo tena una madre, dice alguien. Bien, hay algunos nios que pierden a su
+yo tenía una madre”, dice alguien. Bien, hay algunos nińos que pierden a su
 
-madre en el propio momento de nacer; pero si entonces tenas una madre que
+madre en el propio momento de nacer; pero si entonces tenías una madre que
 
-cuidara de ti, tienes ahora a un Padre que cuida de ti y, como hijo de Dios, t
+cuidara de ti, tienes ahora a un Padre que cuida de ti y, como hijo de Dios, tú
 
 seguramente sientes que tu madre no era sino el agente secundario que vigilaba
 
-sobre ti en tu debilidad; y Dios, que le dio ese amor a ella y la movi a
+sobre ti en tu debilidad; y Dios, que le dio ese amor a ella y la movió a
 
-cuidarte, encontrar con seguridad almacenado todava en Su propio pecho ese
+cuidarte, encontrará con seguridad almacenado todavía en Su propio pecho ese
 
-mismo amor que fluy de l hacia ella, y te cuidar hasta el fin. No tengas
+mismo amor que fluyó de Él hacia ella, y te cuidará hasta el fin. No tengas
 
-miedo, hermano mo, hermana ma, el Seor te ayudar. Es sorprendente que
+miedo, hermano mío, hermana mía, el Seńor te ayudará. Es sorprendente que
 
-despus de que Dios ha sido misericordioso con nosotros durante cincuenta aos,
+después de que Dios ha sido misericordioso con nosotros durante cincuenta ańos,
 
-no podamos confiar en l por el resto de nuestras vidas; y en cuanto a ti que
+no podamos confiar en Él por el resto de nuestras vidas; y en cuanto a ti que
 
-tienes sesenta, setenta u ochenta aos de edad, qu!, te ha trado hasta aqu
+tienes sesenta, setenta u ochenta ańos de edad, ˇqué!, żte ha traído hasta aquí
 
-para avergonzarte? Te sustent a travs de esa parte sumamente dbil de tu
+para avergonzarte? Te sustentó a través de esa parte sumamente débil de tu
 
-vida, y piensas que va a abandonarte ahora? David dijo: Sobre ti fui echado
+vida, ży piensas que va a abandonarte ahora? David dijo: “Sobre ti fui echado
 
-desde antes de nacer, como si entonces no tuviera a nadie excepto a Dios que
+desde antes de nacer”, como si entonces no tuviera a nadie excepto a Dios que
 
-le ayudara. Y acaso Aquel que nos cuid entonces no cuidar de nosotros hasta
+le ayudara. żY acaso Aquel que nos cuidó entonces no cuidará de nosotros hasta
 
-el fin? S, eso har; por tanto, tengamos buen nimo, y si somos dbiles y
+el fin? Sí, eso hará; por tanto, tengamos buen ánimo, y si somos débiles y
 
 pobres ahora, que la pobreza y la debilidad de nuestra infancia nos animen
 
 cuando pensemos en ellas.
 
-Luego Job agrega: Por
+Luego Job agrega: “Por
 
-pobre que sea ahora, no soy tan pobre como lo ser, pues desnudo voy a regresar
+pobre que sea ahora, no soy tan pobre como lo seré, pues desnudo voy a regresar
 
 a la madre tierra.
 
 Si solo tengo un poco
 
-ahora, pronto tendr todava menos.
+ahora, pronto tendré todavía menos”.
 
 Nos hemos enterado de un campesino
 
 que, al morir, puso en su boca una moneda de una corona porque dijo que no
 
-quera estar sin dinero en el otro mundo; pero no era sino un payaso y todo el
+quería estar sin dinero en el otro mundo; pero no era sino un payaso y todo el
 
-mundo saba cun necio era su intento de proveer as para el futuro. Se han
+mundo sabía cuán necio era su intento de proveer así para el futuro. Se han
 
 contado historias de personas que mandaron que se cosiera su oro en sus
 
@@ -538,65 +538,65 @@ mortajas, pero no se llevaron ni un centavo con ellas a pesar de todos sus
 
 esfuerzos. Nada podemos llevar con nosotros; tenemos que regresar a la tierra,
 
-el ms rico tan pobre como el ms pobre, y el ms pobre sin ser ms pobre,
+el más rico tan pobre como el más pobre, y el más pobre sin ser más pobre,
 
-realmente, que el ms rico. El polvo del grandioso Csar puede ayudar a tapar
+realmente, que el más rico. El polvo del grandioso César puede ayudar a tapar
 
-un agujero a travs del cual sopla la rfaga de viento, y el polvo de su
+un agujero a través del cual sopla la ráfaga de viento, y el polvo de su
 
-esclavo no puede ser puesto a usos ms innobles. No, pobres y dbiles como
+esclavo no puede ser puesto a usos más innobles. No, pobres y débiles como
 
-pudiramos ser, no somos tan pobres y dbiles como lo seremos pronto; as que
+pudiéramos ser, no somos tan pobres y débiles como lo seremos pronto; así que
 
-simplemente solacmonos con esta reflexin. Los dos extremos de nuestra vida
+simplemente solacémonos con esta reflexión. Los dos extremos de nuestra vida
 
-son desnudez; si su punto medio no fuera siempre de prpura y lino fino ni de
+son desnudez; si su punto medio no fuera siempre de púrpura y lino fino ni de
 
-hacer cada da banquete con esplendidez, no nos sorprendamos, y si pareciera
+hacer cada día banquete con esplendidez, no nos sorprendamos, y si pareciera
 
 ser de una sola pieza, no seamos impacientes ni nos quejemos.
 
 Quiero que noten,
 
-tambin, lo que yo creo que estaba realmente en la mente de Job, que, no
+también, lo que yo creo que estaba realmente en la mente de Job, que, no
 
-obstante que no era sino polvo al comienzo y que sera polvo al final, con
+obstante que no era sino polvo al comienzo y que sería polvo al final, con
 
-todo, haba un Job que exista todo el tiempo. Yo estaba desnudo, pero
+todo, había un Job que existía todo el tiempo. “Yo estaba desnudo, pero
 
 yo era;
 
-desnudo voy a regresar all,
+desnudo voy a regresar allá,
 
 pero
 
-yo estar all.
+yo estaré allí”.
 
 Algunos hombres
 
-nunca se encuentran a s mismos hasta que pierden sus bienes. Ellos mismos
+nunca se encuentran a sí mismos hasta que pierden sus bienes. Ellos mismos
 
-estn ocultos, como Sal, entre el bagaje; su verdadera humanidad no puede
+están ocultos, como Saúl, entre el bagaje; su verdadera humanidad no puede
 
-verse porque estn vestidos tan elegantemente que la gente parece respetarlos
+verse porque están vestidos tan elegantemente que la gente parece respetarlos
 
 cuando son sus ropas las que son respetadas. Parecieran ser alguien, pero no
 
-son nadie, a pesar de todo lo que poseen. El Seor condujo a Su siervo Job a sentir:
+son nadie, a pesar de todo lo que poseen. El Seńor condujo a Su siervo Job a sentir:
 
-S, cuando yo tena esos camellos, cuando tena esas asnas, cuando tena esas
+“Sí, cuando yo tenía esos camellos, cuando tenía esas asnas, cuando tenía esas
 
-ovejas, cuando tena esos siervos, esas posesiones no eran yo mismo; y ahora
+ovejas, cuando tenía esos siervos, esas posesiones no eran yo mismo; y ahora
 
 que se han desvanecido, yo soy el mismo Job que siempre fui. Las ovejas no eran
 
-una parte de m mismo, los camellos no eran una parte de m mismo; yo, Job,
+una parte de mí mismo, los camellos no eran una parte de mí mismo; yo, Job,
 
-estoy aqu todava, yaciendo en mi integridad y unidad delante de Dios, siendo
+estoy aquí todavía, yaciendo en mi integridad y unidad delante de Dios, siendo
 
-tanto un siervo de Jehov en mi desnudez, como lo era cuando estaba cubierto de
+tanto un siervo de Jehová en mi desnudez, como lo era cuando estaba cubierto de
 
-armio. Oh, seores, es algo grandioso cuando Dios nos ayuda a vivir por
+armińo”. ˇOh, seńores, es algo grandioso cuando Dios nos ayuda a vivir por
 
 encima de lo que tenemos y por encima de lo que no tenemos! Es entonces que nos
 
@@ -608,31 +608,31 @@ mundo no conoce nada, que no proviene de leche de vacas. Entonces estamos
 
 vestidos con una ropa que no viene de lana de ovejas, y poseemos una vida que
 
-no depende del veloz dromedario, una verdadera existencia que no est ni en
+no depende del veloz dromedario, una verdadera existencia que no está ni en
 
-rebaos, ni en manadas, ni en pastos, ni en campos, sino que se deleita en Dios
+rebańos, ni en manadas, ni en pastos, ni en campos, sino que se deleita en Dios
 
-y se apoya en el Altsimo. Desnudo sal del vientre de mi madre, y desnudo
+y se apoya en el Altísimo. “Desnudo salí del vientre de mi madre, y desnudo
 
-volver all dice Job- pero, sigo siendo yo, el bendito de Dios, Su mismo
+volveré allá” –dice Job- pero, “sigo siendo yo, el bendito de Dios, Su mismo
 
-siervo devoto que confiar en l hasta el fin. Esa era una buena pltica para
+siervo devoto que confiará en Él hasta el fin”. Esa era una buena plática para
 
-el corazn de Job, no es cierto? Aunque no todo se haya expresado en palabras,
+el corazón de Job, żno es cierto? Aunque no todo se haya expresado en palabras,
 
 no dudo de que algo parecido a eso o algo mucho mejor
 
 atravesara
 
-la mente del patriarca y as se solazara en la hora de sus aflicciones y
+la mente del patriarca y así se solazara en la hora de sus aflicciones y
 
-prdidas.
+pérdidas.
 
 III.
 
 Pero
 
-ahora, en tercer lugar, y tal vez esto es lo ms bendito, es lo que dijo Job concerniente
+ahora, en tercer lugar, y tal vez esto es lo más bendito, es lo que dijo Job concerniente
 
 a
 
@@ -640,47 +640,47 @@ LA MANO
 
 DE
 
-DIOS EN TODAS LAS COSAS: Jehov dio, y Jehov quit; sea el nombre de Jehov
+DIOS EN TODAS LAS COSAS: “Jehová dio, y Jehová quitó; sea el nombre de Jehová
 
-bendito.
+bendito”.
 
 Me agrada mucho pensar
 
-que Job reconoci que
+que Job reconoció que
 
 la mano de Dios da
 
 en todas partes.
 
-Dijo: Jehov dio. Job no dijo: yo lo gan todo. No
+Dijo: “Jehová dio”. Job no dijo: “yo lo gané todo”. No
 
-dijo: Todos mis ahorros duramente ganados se han perdido. Ay de m!, pudo
+dijo: “Todos mis ahorros duramente ganados se han perdido”. “ˇAy de mí!”, pudo
 
-haberse dicho, todo el cuidado por esas ovejas, y el tremendo gasto de esos
+haberse dicho, “todo el cuidado por esas ovejas, y el tremendo gasto de esos
 
 camellos, y el problema en que me he metido por esos bueyes, y ahora lo he
 
-perdido todo; realmente es algo muy duro. Job no se expresa as, sino que
+perdido todo; realmente es algo muy duro”. Job no se expresa así, sino que
 
-dice: El Seor me los dio; fueron un regalo, y aunque se han perdido, fueron
+dice: “El Seńor me los dio; fueron un regalo, y aunque se han perdido, fueron
 
-un regalo de Aquel que tena un derecho de quitarlos, pues todo lo que l da es
+un regalo de Aquel que tenía un derecho de quitarlos, pues todo lo que Él da es
 
-slo un prstamo. Dice el dicho: Lo prestado debe regresar riendo a su casa, y
+sólo un préstamo. Dice el dicho: ‘Lo prestado debe regresar riendo a su casa’, y
 
-si Dios me prest estas cosas y ahora las pide de regreso, yo voy a bendecir Su
+si Dios me prestó estas cosas y ahora las pide de regreso, yo voy a bendecir Su
 
-nombre por haberme permitido tenerlas tanto tiempo.
+nombre por haberme permitido tenerlas tanto tiempo”.
 
-Cun dulce es, queridos
+ˇCuán dulce es, queridos
 
 hermanos y hermanas, que puedan sentir que todo lo que tienen en este mundo es
 
-un regalo de Dios para ustedes! Ustedes saben que no podran sentir eso si lo
+un regalo de Dios para ustedes! Ustedes saben que no podrían sentir eso si lo
 
 obtuvieron deshonestamente. No, entonces no es un don de Dios y no viene
 
-acompaado de bendicin; pero
+acompańado de bendición; pero
 
 lo que es
 
@@ -688,11 +688,11 @@ honestamente el resultado y fruto de una alegre diligencia
 
 pueden
 
-considerarlo como venido de Dios; y si, en adicin, han santificado realmente
+considerarlo como venido de Dios; y si, en adición, han santificado realmente
 
-su riqueza y han dado su justa proporcin para ayudar al pobre y al necesitado,
+su riqueza y han dado su justa proporción para ayudar al pobre y al necesitado,
 
-como lo haca Job, si pueden decir que han causado que el corazn de la viuda
+como lo hacía Job, si pueden decir que han causado que el corazón de la viuda
 
 cantara de gozo cuando aliviaron sus necesidades, entonces todo lo que tienen
 
@@ -700,47 +700,47 @@ es un don de Dios. La providencia de Dios es la herencia del hombre, y su
 
 herencia les ha venido de la providencia de Dios. Velo todo como un regalo de
 
-Dios; endulzar incluso ese pequeo bocado de pan y ese trocito de mantequilla
+Dios; endulzará incluso ese pequeńo bocado de pan y ese trocito de mantequilla
 
-que es todo lo que tendrs para comer hoy o maana- si lo consideras como un
+–que es todo lo que tendrás para comer hoy o mańana- si lo consideras como un
 
-don de Dios. Ablandar ese duro lecho sobre el cual yaces, deseando estar mejor
+don de Dios. Ablandará ese duro lecho sobre el cual yaces, deseando estar mejor
 
-cubierto del fro, si piensas en eso como un don de Dios. Un raqutico ingreso
+cubierto del frío, si piensas en eso como un don de Dios. Un raquítico ingreso
 
-nos proporcionar gran contento si podemos verlo como un don de Dios.
+nos proporcionará gran contento si podemos verlo como un don de Dios.
 
 No hemos de considerar
 
-nicamente como dones de Dios nuestro dinero y nuestros bienes, sino tambin nuestra
+únicamente como dones de Dios nuestro dinero y nuestros bienes, sino también nuestra
 
-esposa, nuestros hijos y nuestros amigos. Cun preciosos dones son a menudo!
+esposa, nuestros hijos y nuestros amigos. ˇCuán preciosos dones son a menudo!
 
-Un hombre que tiene una buena ayuda idnea es verdaderamente rico y el que
+Un hombre que tiene una buena ayuda idónea es verdaderamente rico y el que
 
 cuenta con hijos piadosos es rico realmente. Aunque pudieran costarle muchos
 
 cuidados, es reembolsado abundantemente por su afecto, y si crecen en el temor
 
-del Seor, constituyen un don muy selecto!
+del Seńor, ˇconstituyen un don muy selecto!
 
 Hemos de considerar todo eso como un don de
 
 Dios; no hemos de verlos a ellos o a cualquier otra cosa en la casa sin
 
-sentimiento: mi Padre me dio esto. Seguramente tender a aminorar toda
+sentimiento: “mi Padre me dio esto”. Seguramente tenderá a aminorar toda
 
-afliccin aguda si, mientras han disfrutado de la posesin de sus cosas buenas,
+aflicción aguda si, mientras han disfrutado de la posesión de sus cosas buenas,
 
-han visto la mano de Dios en la ddiva de ellas para ustedes.
+han visto la mano de Dios en la dádiva de ellas para ustedes.
 
-Ay!, algunos de ustedes
+ˇAy!, algunos de ustedes
 
 no saben nada acerca de Dios. Lo que tienen no es considerado por ustedes como
 
 un don de Dios. Se pierden de la propia dulzura y gozo de la vida al pasar por
 
-alto este reconocimiento de la mano divina en la ddiva de todas las cosas
+alto este reconocimiento de la mano divina en la dádiva de todas las cosas
 
 buenas para que las disfrutemos ricamente.
 
@@ -748,199 +748,199 @@ Pero entonces,
 
 Job vio igualmente la mano de Dios en
 
-quitrselas.
+quitárselas.
 
 Si no hubiese sido un
 
-creyente en Jehov, habra dicho: Oh, esos sabeos detestables! Alguien
+creyente en Jehová, habría dicho: “ˇOh, esos sabeos detestables! Alguien
 
-debera ir y destrozar a esos caldeos. Ese es a menudo nuestro estilo, no es
+debería ir y destrozar a esos caldeos”. Ese es a menudo nuestro estilo, żno es
 
 cierto? Culpar a los agentes secundarios. Job no tiene nada que decir respecto
 
-a los sabeos o a los caldeos, o al viento o al rayo. Jehov dijo l- el
+a los sabeos o a los caldeos, o al viento o al rayo. “Jehová” –dijo él- “el
 
-Seor quit. Yo creo que Satans pretenda hacer que Job sintiera que era Dios
+Seńor quitó”. Yo creo que Satanás pretendía hacer que Job sintiera que era Dios
 
-quien estaba obrando cuando su mensajero le dijo: Fuego de Dios cay del
+quien estaba obrando cuando su mensajero le dijo: “Fuego de Dios cayó del
 
-cielo, que quem las ovejas. Ah!, dijo Satans, ver que Dios est en
+cielo, que quemó las ovejas”. “ˇAh!”, dijo Satanás, “verá que Dios está en
 
-contra suya. El demonio no tuvo el xito que pens tener, pues Job poda ver
+contra suya”. El demonio no tuvo el éxito que pensó tener, pues Job podía ver
 
-que era la mano de Dios, y eso suprimi el aguijn del golpe. Jehov quit.
+que era la mano de Dios, y eso suprimió el aguijón del golpe. “Jehová quitó”.
 
-Aaron call cuando supo que el Seor lo haba hecho, y el salmista dijo: Enmudec,
+Aaron calló cuando supo que el Seńor lo había hecho, y el salmista dijo: “Enmudecí,
 
-no abr mi boca, porque t lo hiciste; y Job sinti justo eso. Jehov es;
+no abrí mi boca, porque tú lo hiciste”; y Job sintió justo eso. “Jehová es;
 
-haga lo que bien le pareciere. No te preocupes por los agentes secundarios, no
+haga lo que bien le pareciere”. No te preocupes por los agentes secundarios, no
 
-gastes tu fuerza en dar coces contra este mal hombre o aquel; l es responsable
+gastes tu fuerza en dar coces contra este mal hombre o aquel; él es responsable
 
-ante Dios por todo el mal que ha hecho, pero detrs de estos agentes libres hay
+ante Dios por todo el mal que ha hecho, pero detrás de estos agentes libres hay
 
-una predestinacin divina, hay una mano que gobierna y prevalece, y aun aquello
+una predestinación divina, hay una mano que gobierna y prevalece, y aun aquello
 
 que en los hombres es malo puede ser atribuido claramente, bajo otra luz, a la
 
-mano del Altsimo. Jehov dio, Jehov quit.
+mano del Altísimo. “Jehová dio, Jehová quitó”.
 
-Recordarn eso con
+żRecordarán eso con
 
-relacin a sus hijos? Si Job hubiera perdido nicamente a su hijo mayor, habra
+relación a sus hijos? Si Job hubiera perdido únicamente a su hijo mayor, habría
 
-podido necesitar mucha gracia para decir: el Seor lo dio, y el Seor lo ha
+podido necesitar mucha gracia para decir: “el Seńor lo dio, y el Seńor lo ha
 
-quitado. Job
+quitado”. Job
 
-haba
+había
 
 perdido a su hijo
 
-mayor, pero haba perdido seis hijos ms, y haba perdido tambin a sus tres
+mayor, pero había perdido seis hijos más, y había perdido también a sus tres
 
-hijas. He sabido de una madre que ha dicho: Mis dos amados hijos enfermaron y
+hijas. He sabido de una madre que ha dicho: “Mis dos amados hijos enfermaron y
 
-murieron en un plazo de una semana; soy la mujer ms atribulada que haya vivido
+murieron en un plazo de una semana; soy la mujer más atribulada que haya vivido
 
-jams. No tanto, no tanto, querida amiga; ha habido otros que te han
+jamás”. No tanto, no tanto, querida amiga; ha habido otros que te han
 
-sobrepasado en este sentido. Job perdi a sus diez hijos de un golpe. Oh
+sobrepasado en este sentido. Job perdió a sus diez hijos de un golpe. ˇOh
 
-Muerte, qu insaciable arquero fuiste aquel da, cuando diez tuvieron que caer
+Muerte, qué insaciable arquero fuiste aquel día, cuando diez tuvieron que caer
 
-a la vez! Sin embargo Job dice: Jehov quit. Eso es todo lo que tiene que
+a la vez! Sin embargo Job dice: “Jehová quitó”. Eso es todo lo que tiene que
 
-decir al respecto: Jehov quit. No necesito repetirles la historia del
+decir al respecto: “Jehová quitó”. No necesito repetirles la historia del
 
-jardinero que descubri que le faltaba una rosa favorita, pero que no poda
+jardinero que descubrió que le faltaba una rosa favorita, pero que no podía
 
-quejarse porque el seor de la casa la haba arrancado. Sientes que sucedera
+quejarse porque el seńor de la casa la había arrancado. żSientes que sucedería
 
-precisamente lo mismo con todo lo que tienes si l lo quitara? Oh, s!, por
+precisamente lo mismo con todo lo que tienes si Él lo quitara? ˇOh, sí!, żpor
 
-qu no habra de quitarlo? Si yo hiciera un recorrido por mi casa y descolgara
+qué no habría de quitarlo? Si yo hiciera un recorrido por mi casa y descolgara
 
-un adorno o cualquier cosa de las paredes, me dira alguien alguna palabra?
+un adorno o cualquier cosa de las paredes, żme diría alguien alguna palabra?
 
-Supongan que mi querida esposa le preguntara a la sirvienta: qu pas con ese
+Supongan que mi querida esposa le preguntara a la sirvienta: “żqué pasó con ese
 
-cuadro?, y la sirvienta le respondiera: oh, su esposo lo quit! Me
+cuadro?”, y la sirvienta le respondiera: “ˇoh, su esposo lo quitó!” żMe
 
-culpara? Oh, no! Si hubiera sido algn sirviente el que lo descolg, o algn
+culparía? ˇOh, no! Si hubiera sido algún sirviente el que lo descolgó, o algún
 
-extrao el que lo quit, habra podido decir algo; pero no si yo lo quit, pues
+extrańo el que lo quitó, habría podido decir algo; pero no si yo lo quité, pues
 
-es mo. Y ciertamente reconocemos que Dios es Seor en Su propia casa. l toma
+es mío. Y ciertamente reconocemos que Dios es Seńor en Su propia casa. Él toma
 
 lo que le agrada de todo lo que nos ha prestado por un tiempo, ya que somos
 
-nicamente los hijos. Es fcil estar aqu y decirlo; pero, hermanos y hermanas,
+únicamente los hijos. Es fácil estar aquí y decirlo; pero, hermanos y hermanas,
 
-procuremos decirlo si alguna vez nos ocurriera como un asunto real que el Seor
+procuremos decirlo si alguna vez nos ocurriera como un asunto real que el Seńor
 
-que dio tambin lo quitara. Pienso que Job hizo bien en solicitar que se
+que dio también lo quitara. Pienso que Job hizo bien en solicitar que se
 
-prestara atencin a esta bendita verdad: que la mano de Dios est obrando en
+prestara atención a esta bendita verdad: que la mano de Dios está obrando en
 
-todas partes, ya sea dando o quitando; no conozco nada que tienda ms a
+todas partes, ya sea dando o quitando; no conozco nada que tienda más a
 
-reconciliarnos con nuestras presentes aflicciones, y prdidas y cruces, que
+reconciliarnos con nuestras presentes aflicciones, y pérdidas y cruces, que
 
-sentir esto: Dios lo ha hecho todo. Hombres malvados fueron los agentes, pero
+sentir esto: “Dios lo ha hecho todo. Hombres malvados fueron los agentes, pero
 
-aun as Dios mismo lo ha hecho. Hay un gran misterio al respecto que no puedo
+aun así Dios mismo lo ha hecho. Hay un gran misterio al respecto que no puedo
 
-aclarar, y que no quiero aclarar. Dios lo ha hecho, y eso me basta. Jehov
+aclarar, y que no quiero aclarar. Dios lo ha hecho, y eso me basta. ‘Jehová
 
-dio, y Jehov quit.
+dio, y Jehová quitó’”.
 
 IV.
 
 El
 
-ltimo consuelo de Job estribaba en esta verdad: que DIOS ES DIGNO DE SER
+último consuelo de Job estribaba en esta verdad: que DIOS ES DIGNO DE SER
 
-BENDECIDO EN TODAS LAS COSAS: Sea el nombre de Jehov bendito.
+BENDECIDO EN TODAS LAS COSAS: “Sea el nombre de Jehová bendito”.
 
 Queridos amigos,
 
 no le robemos nunca a Dios Su alabanza, por
 
-negro que sea el da.
+negro que sea el día.
 
-Es un da fnebre, tal vez; pero no debera ser Dios
+Es un día fúnebre, tal vez; żpero no debería ser Dios
 
-alabado cuando hay un funeral as como cuando hay una boda? Oh, pero yo lo he
+alabado cuando hay un funeral así como cuando hay una boda? “ˇOh, pero yo lo he
 
-perdido todo! Y es este uno de los das cuando no se le debe ninguna alabanza
+perdido todo!” żY es este uno de los días cuando no se le debe ninguna alabanza
 
-a Dios? La mayora de ustedes sabe que los impuestos de la reina tienen que ser
+a Dios? La mayoría de ustedes sabe que los impuestos de la reina tienen que ser
 
 pagados, y la oficina fiscal de nuestro grandioso Rey tiene un derecho
 
 prioritario sobre nosotros. No le robemos a nuestro Rey el ingreso de Su
 
-alabanza. Desde el nacimiento del sol hasta donde se pone, sea alabado el
+alabanza. “Desde el nacimiento del sol hasta donde se pone, sea alabado el
 
-nombre de Jehov. Oh, pero yo he perdido un hijo! S, pero Dios ha de ser
+nombre de Jehová”. “ˇOh, pero yo he perdido un hijo!” Sí, pero Dios ha de ser
 
-alabado. Pero yo he perdido a mi madre. S, pero Dios ha de ser alabado.
+alabado. “Pero yo he perdido a mi madre”. Sí, pero Dios ha de ser alabado.
 
-Tengo un terrible dolor de cabeza. S, pero Dios ha de ser alabado. Alguien
+“Tengo un terrible dolor de cabeza”. Sí, pero Dios ha de ser alabado. Alguien
 
-me dijo una noche: Deberamos tener oracin familiar, mi querido seor, pero
+me dijo una noche: “Deberíamos tener oración familiar, mi querido seńor, pero
 
-ya es ms bien tarde; se siente ustedes muy cansado para dirigirla? No, le dije,
+ya es más bien tarde; żse siente ustedes muy cansado para dirigirla?” “No”, le dije,
 
-nunca estuve demasiado cansado para orar con mis hermanos, y espero no estarlo
+“nunca estuve demasiado cansado para orar con mis hermanos, y espero no estarlo
 
-nunca. Aunque sea medianoche, no nos retiremos a la cama sin hacer oracin y
+nunca”. Aunque sea medianoche, no nos retiremos a la cama sin hacer oración y
 
-alabanza, pues no le debemos robar a Dios Su gloria. Hay una turba en la
+alabanza, pues no le debemos robar a Dios Su gloria. “Hay una turba en la
 
-calle, pero no le debemos robar a Dios Su gloria. Nuestros bienes se estn
+calle”, pero no le debemos robar a Dios Su gloria. “Nuestros bienes se están
 
-volviendo ms y ms baratos, y estaremos arruinados en el mercado, pero no le
+volviendo más y más baratos, y estaremos arruinados en el mercado”, pero no le
 
-robemos a Dios Su gloria. Va a haber algo que va a suceder, no s qu, muy
+robemos a Dios Su gloria. “Va a haber algo que va a suceder, no sé qué, muy
 
-pronto. S, pero no le debemos robar a Dios Su gloria.
+pronto”. Sí, pero no le debemos robar a Dios Su gloria.
 
-Sea el nombre de Jehov
+“Sea el nombre de Jehová
 
-bendito. Job quiere decir que
+bendito”. Job quiere decir que
 
-el Seor
+el Seńor
 
 ha de ser bendecido por dar y por quitar.
 
-Jehov dio, sea bendito Su
+“Jehová dio”, sea bendito Su
 
-nombre. Jehov quit, sea bendito Su nombre. Ciertamente se ha reducido a
+nombre. “Jehová quitó”, sea bendito Su nombre. Ciertamente se ha reducido a
 
-esto entre el pueblo de Dios, que l tiene que actuar como queremos o de lo
+esto entre el pueblo de Dios, que Él tiene que actuar como queremos o de lo
 
-contrario no le alabaremos. Si l no nos complace cada da y no cede a nuestros
+contrario no le alabaremos. Si Él no nos complace cada día y no cede a nuestros
 
-caprichos y no satisface nuestros gustos, entonces no queremos alabarle. Oh,
+caprichos y no satisface nuestros gustos, entonces no queremos alabarle. “Oh,
 
-pero yo no entiendo Sus tratos, dice uno. Y eres realmente tan extrao para
+pero yo no entiendo Sus tratos”, dice uno. żY eres realmente tan extrańo para
 
-con Dios y es Dios tan extrao para contigo que a menos que entre en
+con Dios y es Dios tan extrańo para contigo que a menos que entre en
 
-explicaciones, t tienes miedo de que no est tratando justamente contigo? Oh,
+explicaciones, tú tienes miedo de que no está tratando justamente contigo? Oh,
 
-amigo, has conocido al Seor durante veinte aos y no puedes alabarle por todo?
+amigo, żhas conocido al Seńor durante veinte ańos y no puedes alabarle por todo?
 
-Hermanos, algunos de nosotros le hemos conocido durante cuarenta aos, y tal
+Hermanos, algunos de nosotros le hemos conocido durante cuarenta ańos, y tal
 
-vez algunos de ustedes han conocido al Seor durante cincuenta aos; estn
+vez algunos de ustedes han conocido al Seńor durante cincuenta ańos; żestán
 
-necesitando que se les diga siempre el captulo, y el versculo y las
+necesitando que se les diga siempre el capítulo, y el versículo y las
 
-explicaciones de parte de l antes de que le alaben? No, no, yo espero que
+explicaciones de parte de Él antes de que le alaben? No, no, yo espero que
 
 hayamos superado con creces esa etapa.
 
@@ -950,95 +950,95 @@ debemos alabar especialmente a Dios siempre
 
 que seamos provocados por el diablo a maldecir.
 
-Satans le haba dicho al
+Satanás le había dicho al
 
-Seor concerniente a Job: Extiende ahora tu mano y toca todo lo que tiene, y
+Seńor concerniente a Job: “Extiende ahora tu mano y toca todo lo que tiene, y
 
-vers si no blasfema contra ti en tu misma presencia; y pareciera como si Dios
+verás si no blasfema contra ti en tu misma presencia”; y pareciera como si Dios
 
-hubiera insinuado a Su siervo que esto era lo que el diablo pretenda.
+hubiera insinuado a Su siervo que esto era lo que el diablo pretendía.
 
-Entonces, dijo Job, yo le bendecir. Su esposa le sugiri despus que
+“Entonces”, dijo Job, “yo le bendeciré”. Su esposa le sugirió después que
 
-debera maldecir a Dios, pero l no hara tal cosa. Job le bendecira.
+debería maldecir a Dios, pero él no haría tal cosa. Job le bendeciría.
 
 Usualmente es algo sabio hacer exactamente lo opuesto de lo que el maligno te
 
 sugiera. Recuerda la historia de un hombre que iba a donar una libra esterlina
 
-a alguna institucin caritativa. El diablo le dijo: No, no te lo puedes
+a alguna institución caritativa. El diablo le dijo: “No, no te lo puedes
 
-permitir. Entonces dijo el hombre- dar dos libras esterlinas; no voy a
+permitir”. “Entonces” –dijo el hombre- “daré dos libras esterlinas; no voy a
 
-permitir que se me controle de esta manera. Satans exclam: t eres un
+permitir que se me controle de esta manera”. Satanás exclamó: “tú eres un
 
-fantico. El hombre respondi: voy a dar cuatro libras esterlinas. Ah!,
+fanático”. El hombre respondió: “voy a dar cuatro libras esterlinas”. “ˇAh!”,
 
-dijo Satans, qu dir tu esposa cuando llegues a casa y le digas que te
+dijo Satanás, “żqué dirá tu esposa cuando llegues a casa y le digas que te
 
-deshiciste de cuatro libras? Bien, dijo el hombre, voy a dar ahora ocho
+deshiciste de cuatro libras?” “Bien”, dijo el hombre, “voy a dar ahora ocho
 
-libras esterlinas; y si no te importa lo que ests haciendo, me tentars a que
+libras esterlinas; y si no te importa lo que estás haciendo, me tentarás a que
 
-d diecisis. As que el diablo se vio obligado a detenerse, porque entre ms
+dé dieciséis”. Así que el diablo se vio obligado a detenerse, porque entre más
 
-le tentaba, ms haca lo contrario. Nosotros debemos hacer lo mismo. Si el
+le tentaba, más hacía lo contrario. Nosotros debemos hacer lo mismo. Si el
 
-demonio quisiera conducirnos a maldecir a Dios, bendigmosle ms todava, y
+demonio quisiera conducirnos a maldecir a Dios, bendigámosle más todavía, y
 
-Satans ser lo suficientemente sabio para abandonar la tentacin cuando
+Satanás será lo suficientemente sabio para abandonar la tentación cuando
 
-descubra que, entre ms intenta tentarnos, ms nos vamos en la direccin
+descubra que, entre más intenta tentarnos, más nos vamos en la dirección
 
 opuesta.
 
 Todo esto tiene el
 
-propsito de ser una pltica dulce y reanimante para los sufridos santos; cmo
+propósito de ser una plática dulce y reanimante para los sufridos santos; ˇcómo
 
-deseara que todo el mundo aqu tuviera un inters en ello! Qu harn algunos
+desearía que todo el mundo aquí tuviera un interés en ello! żQué harán algunos
 
-de ustedes, qu estn haciendo algunos de ustedes, ahora que han perdido todo:
+de ustedes, qué están haciendo algunos de ustedes, ahora que han perdido todo:
 
-esposa muerta, hijos muertos, y ustedes se estn volviendo viejos, y a pesar de
+esposa muerta, hijos muertos, y ustedes se están volviendo viejos, y a pesar de
 
-todo estn sin Dios? Oh, ustedes, pobre gente rica, que no tienen ningn inters
+todo están sin Dios? ˇOh, ustedes, pobre gente rica, que no tienen ningún interés
 
 en Dios, su dinero tiene que quemar sus almas! Pero ustedes, gente pobre,
 
-pobre, pobre, que no tienen nada aqu, y no tienen ninguna esperanza en el ms
+pobre, pobre, que no tienen nada aquí, y no tienen ninguna esperanza en el más
 
-all, cun triste es su caso! Que Dios, por Su rica misericordia, les d aun
+allá, ˇcuán triste es su caso! ˇQue Dios, por Su rica misericordia, les dé aun
 
-un poco de sentido comn, pues, ciertamente, el sentido comn los conducira a
+un poco de sentido común, pues, ciertamente, el sentido común los conduciría a
 
-l! Algunas veces, al distribuir el alivio temporal, nos encontramos con personas
+Él! Algunas veces, al distribuir el alivio temporal, nos encontramos con personas
 
-que han estado sin trabajo y que estn llenas de problemas y que no han tenido
+que han estado sin trabajo y que están llenas de problemas y que no han tenido
 
-pan para comer, y les decimos: Clamaste alguna vez a Dios pidiendo ayuda?
+pan para comer, y les decimos: “żClamaste alguna vez a Dios pidiendo ayuda?”
 
-No, amigo, nosotros no oramos nunca en toda nuestra vida. Qu pretendes? He
+“No, amigo, nosotros no oramos nunca en toda nuestra vida”. żQué pretendes? He
 
-aqu un nio arrastrndose por la casa, temblando por carencia de pan y ropa.
+aquí un nińo arrastrándose por la casa, temblando por carencia de pan y ropa.
 
-Nunca le pediste a tu padre nada? No, nunca. Vamos, amigo, Dios te hizo,
+“żNunca le pediste a tu padre nada?” “No, nunca”. Vamos, amigo, żDios te hizo,
 
-o creciste sin l? Te cre Dios? Si l te hizo, l tendr respeto por la obra
+o creciste sin Él? żTe creó Dios? Si Él te hizo, Él tendrá respeto por la obra
 
-de Sus manos. Anda y prubalo, incluso en ese bajo terreno. Anda y busca Su
+de Sus manos. Anda y pruébalo, incluso en ese bajo terreno. Anda y busca Su
 
-rostro como Su criatura, y mira si no te ayuda. Oh, incredulidad, a qu locura
+rostro como Su criatura, y mira si no te ayuda. ˇOh, incredulidad, a qué locura
 
-llegas, que aun cuando los hombres son conducidos a la inanicin, no se quieren
+llegas, que aun cuando los hombres son conducidos a la inanición, no se quieren
 
-volver a Dios! Oh, Espritu de Dios, bendice a los hijos de los hombres! Aun a
+volver a Dios! ˇOh, Espíritu de Dios, bendice a los hijos de los hombres! Aun a
 
-travs de sus miedos y aflicciones y prdidas, bendcelos y llvalos en
+través de sus miedos y aflicciones y pérdidas, ˇbendícelos y llévalos en
 
-penitencia a los pies del Salvador, por causa de Su amado nombre! Amn.
+penitencia a los pies del Salvador, por causa de Su amado nombre! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 19/Junio/2014
 

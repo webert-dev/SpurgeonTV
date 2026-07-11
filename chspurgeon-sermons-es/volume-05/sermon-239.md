@@ -1,6 +1,6 @@
 # Sermón 239 | Sermón 239
 
-El Plpito de
+El Púlpito de
 
 la Capilla
 
@@ -8,9 +8,9 @@ New
 
 Park Street
 
-Jacob y Esa
+Jacob y Esaú
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -36,13 +36,13 @@ LONDRES
 
 .
 
-A Jacob am,
+“A Jacob amé,
 
-mas a Esa aborrec. Romanos 9: 13.
+mas a Esaú aborrecí”. Romanos 9: 13.
 
 Ni por un instante imaginen que yo
 
-pretendo poder esclarecer a fondo los grandes misterios de la predestinacin.
+pretendo poder esclarecer a fondo los grandes misterios de la predestinación.
 
 Hay algunos varones que alegan saberlo todo acerca de este tema. Lo enroscan en
 
@@ -50,33 +50,33 @@ sus dedos con tanta facilidad como si se tratase de algo cotidiano; pero pueden
 
 tener la certeza de que quien piensa que lo sabe todo respecto a este misterio,
 
-sabe solamente muy poco. Es slo la superficialidad de su mente la que le
+sabe solamente muy poco. Es sólo la superficialidad de su mente la que le
 
 permite ver el fondo de su conocimiento. Quien se zambulle en las profundidades
 
-descubre que en el fondo ms hondo que hubiere alcanzado le espera siempre una
+descubre que en el fondo más hondo que hubiere alcanzado le espera siempre una
 
-profundidad todava mayor. El hecho es que las grandes preguntas acerca de la
+profundidad todavía mayor. El hecho es que las grandes preguntas acerca de la
 
-responsabilidad humana, el libre albedro y la predestinacin, han sido
+responsabilidad humana, el libre albedrío y la predestinación, han sido
 
 debatidas repetidas veces y han sido respondidas de diez mil maneras
 
-diferentes, pero el resultado ha sido que sabemos prcticamente lo mismo que
+diferentes, pero el resultado ha sido que sabemos prácticamente lo mismo que
 
-sabamos al principio sobre esos asuntos. Los combatientes han echado tierra en
+sabíamos al principio sobre esos asuntos. Los combatientes han echado tierra en
 
 los ojos del contrario, y unos a otros se han cegado; y luego han concluido que
 
-debido a que les sacaron los ojos a los dems, ellos s podan ver.
+debido a que les sacaron los ojos a los demás, ellos sí podían ver.
 
 Ahora bien, una cosa es refutar la
 
-doctrina de alguien ms, pero es algo muy diferente establecer los propios
+doctrina de alguien más, pero es algo muy diferente establecer los propios
 
-puntos de vista. Es muy fcil derrumbar la hiptesis de un tercero respecto a
+puntos de vista. Es muy fácil derrumbar la hipótesis de un tercero respecto a
 
-estas verdades, pero no es tan fcil lograr que mi propia postura tenga una
+estas verdades, pero no es tan fácil lograr que mi propia postura tenga una
 
 base firme. De ser posible, esta noche voy a procurar ir con paso seguro aunque
 
@@ -86,151 +86,151 @@ la Palabra
 
 de Dios. Pienso que
 
-si nos atuviramos ms fielmente a las enseanzas de
+si nos atuviéramos más fielmente a las enseńanzas de
 
 la Biblia
 
-, seramos ms sabios
+, seríamos más sabios
 
-de lo que somos, pues al apartarnos de la luz celestial de la revelacin y al confiar
+de lo que somos, pues al apartarnos de la luz celestial de la revelación y al confiar
 
-en los fuegos fatuos de nuestra propia imaginacin, nos zambullimos en cinagas
+en los fuegos fatuos de nuestra propia imaginación, nos zambullimos en ciénagas
 
 y en pantanos en los que no hay una base segura y entonces comenzamos a hundirnos
 
 y en lugar de empezar a salir, nos quedamos atorados irremisiblemente. La
 
-verdad es que ni ustedes ni yo tenemos ningn derecho a querer saber ms de lo
+verdad es que ni ustedes ni yo tenemos ningún derecho a querer saber más de lo
 
-que Dios nos revele acerca de la predestinacin. Eso es suficiente para
+que Dios nos revele acerca de la predestinación. Eso es suficiente para
 
-nosotros. Si tuviramos la necesidad de saber ms, Dios nos habra revelado
+nosotros. Si tuviéramos la necesidad de saber más, Dios nos habría revelado
 
-ms. Tenemos que creer lo que Dios nos ha revelado, pero somos muy propensos a
+más. Tenemos que creer lo que Dios nos ha revelado, pero somos muy propensos a
 
-agregarle nuestras propias ideas imprecisas al conocimiento as adquirido, y
+agregarle nuestras propias ideas imprecisas al conocimiento así adquirido, y
 
-entonces tenemos la seguridad de que vamos a equivocarnos. Sera mejor que en
+entonces tenemos la seguridad de que vamos a equivocarnos. Sería mejor que en
 
-todas las controversias los hombres se guiaran estrictamente por: Jehov ha
+todas las controversias los hombres se guiaran estrictamente por: “Jehová ha
 
-dicho as, en vez de decir: yo pienso as y as. Hoy, con la ayuda del
+dicho así”, en vez de decir: “yo pienso así y así”. Hoy, con la ayuda del
 
-Espritu Santo, voy a intentar proyectar la luz de
+Espíritu Santo, voy a intentar proyectar la luz de
 
 la Palabra
 
 de Dios sobre la
 
-doctrina de la soberana divina, y compartirles lo que me parece que es una
+doctrina de la soberanía divina, y compartirles lo que me parece que es una
 
-declaracin de
+declaración de
 
 la Escritura
 
 en cuanto a que algunos seres humanos son elegidos, pero otros no lo son. Se
 
-trata del grandioso hecho que este texto declara: A Jacob am, mas a Esa
+trata del grandioso hecho que este texto declara: “A Jacob amé, mas a Esaú
 
-aborrec.
+aborrecí”.
 
 Es un texto terrible y voy a ser honesto
 
-con l si puedo. Alguien nos dice que la palabra aborrecimiento no significa
+con él si puedo. Alguien nos dice que la palabra “aborrecimiento” no significa
 
-aborrecimiento; que quiere decir: amar menos: A Jacob am, mas a Esa am
+aborrecimiento; que quiere decir: “amar menos”: “A Jacob amé, mas a Esaú amé
 
-menos. Pudiera ser as, aunque yo no lo creo. Sea como fuere, aqu dice:
+menos”. Pudiera ser así, aunque yo no lo creo. Sea como fuere, aquí dice:
 
-aborrecimiento, y mientras no me den otra versin de
+“aborrecimiento”, y mientras no me den otra versión de
 
 la Biblia
 
 , voy a atenerme a la
 
-que est disponible. Yo creo que el trmino ha sido traducido correcta y apropiadamente;
+que está disponible. Yo creo que el término ha sido traducido correcta y apropiadamente;
 
-que la palabra aborrecimiento no es ms fuerte que la palabra original; pero
+que la palabra “aborrecimiento” no es más fuerte que la palabra original; pero
 
-aunque fuese un poco ms fuerte, est ms cerca del verdadero significado que
+aunque fuese un poco más fuerte, está más cerca del verdadero significado que
 
-la otra traduccin que nos ofrecen en esas palabras carentes de sentido: amar
+la otra traducción que nos ofrecen en esas palabras carentes de sentido: “amar
 
-menos. Yo prefiero aceptarla y dejarla tal como est. El hecho es que Dios am
+menos”. Yo prefiero aceptarla y dejarla tal como está. El hecho es que Dios amó
 
-a Jacob y no am a Esa. Que escogi a Jacob pero no escogi a Esa. Dios bendijo
+a Jacob y no amó a Esaú. Que escogió a Jacob pero no escogió a Esaú. Dios bendijo
 
-a Jacob, pero no bendijo nunca a Esa. Su misericordia acompa a Jacob a lo
+a Jacob, pero no bendijo nunca a Esaú. Su misericordia acompańó a Jacob a lo
 
-largo de toda su vida, hasta el final, pero Su misericordia nunca sigui a
+largo de toda su vida, hasta el final, pero Su misericordia nunca siguió a
 
-Esa; le permiti que continuara en sus pecados para demostrar esa terrible verdad:
+Esaú; le permitió que continuara en sus pecados para demostrar esa terrible verdad:
 
-A Esa aborrec. Con el objeto de deshacerse de este incmodo texto, otros dicen
+“A Esaú aborrecí”. Con el objeto de deshacerse de este incómodo texto, otros dicen
 
-que no se refiere a Esa y Jacob; que se refiere ms bien a las respectivas
+que no se refiere a Esaú y Jacob; que se refiere más bien a las respectivas
 
-naciones; que se refiere a los hijos de Jacob y a los hijos de Esa; que se refiere
+naciones; que se refiere a los hijos de Jacob y a los hijos de Esaú; que se refiere
 
-a los hijos de Israel y Edom. A m me gustara saber dnde estriba la
+a los hijos de Israel y Edom. A mí me gustaría saber dónde estriba la
 
-diferencia. Acaso si se ampla se elimina la dificultad? Algunos de los
+diferencia. żAcaso si se amplía se elimina la dificultad? Algunos de los
 
-hermanos wesleyanos dicen que hay una eleccin nacional. Que Dios ha elegido a
+hermanos wesleyanos dicen que hay una elección nacional. Que Dios ha elegido a
 
-una nacin y no a otra. Se nos acercan y nos dicen que es injusto que Dios
+una nación y no a otra. Se nos acercan y nos dicen que es injusto que Dios
 
 escoja a un ser humano y no a otro. Ahora bien, nosotros les preguntamos
 
-apelando a lo que es razonable: acaso no es igualmente injusto que Dios elija
+apelando a lo que es razonable: żacaso no es igualmente injusto que Dios elija
 
-a una nacin y no escoja a otra? El argumento que ellos suponen que nos derrota,
+a una nación y no escoja a otra? El argumento que ellos suponen que nos derrota,
 
-a ellos tambin los derrota. Nunca hubo un subterfugio ms ridculo que sacar a
+a ellos también los derrota. Nunca hubo un subterfugio más ridículo que sacar a
 
-relucir una eleccin nacional. Acaso la eleccin de una nacin no es sino la
+relucir una elección nacional. żAcaso la elección de una nación no es sino la
 
-eleccin de un determinado nmero de
+elección de un determinado número de
 
 unidades,
 
-de un determinado nmero de personas? Termina siendo lo mismo que la
+de un determinado número de personas? Termina siendo lo mismo que la
 
-eleccin particular de los individuos. En su mente los hombres no pueden ver
+elección particular de los individuos. En su mente los hombres no pueden ver
 
-claramente que si hubiese alguna injusticia cosa que nosotros no creemos ni
+claramente que si hubiese alguna injusticia –cosa que nosotros no creemos ni
 
 por un instante- en el hecho de que Dios escoja a un ser humano y no a otro,
 
-cunta ms injusticia no habra en Su escogencia de una nacin y no de otra.
+cuánta más injusticia no habría en Su escogencia de una nación y no de otra.
 
-No!, no podemos eliminar de esa manera la dificultad, sino que ms bien se
+ˇNo!, no podemos eliminar de esa manera la dificultad, sino que más bien se
 
-incrementa grandemente por esa insensata deformacin de
+incrementa grandemente por esa insensata deformación de
 
 la Palabra
 
-de Dios. Adems, he
+de Dios. Además, he
 
-aqu la prueba de que ese concepto no es correcto: lean el versculo precedente.
+aquí la prueba de que ese concepto no es correcto: lean el versículo precedente.
 
-No dice nada en absoluto acerca de naciones; dice: (pues no haban an nacido,
+No dice nada en absoluto acerca de naciones; dice: “(pues no habían aún nacido,
 
-ni haban hecho an ni bien ni mal, para que el propsito de Dios conforme a la
+ni habían hecho aún ni bien ni mal, para que el propósito de Dios conforme a la
 
-eleccin permaneciese, no por las obras sino por el que llama), se le dijo: El
+elección permaneciese, no por las obras sino por el que llama), se le dijo: El
 
-mayor servir al menor, refirindose a los hijos, no a las naciones. Por
+mayor servirá al menor”, refiriéndose a los hijos, no a las naciones. Por
 
-supuesto que la amenaza fue cumplida posteriormente en la posicin de las
+supuesto que la amenaza fue cumplida posteriormente en la posición de las
 
 naciones. Edom fue obligado a servir a Israel. Pero este texto quiere decir justo
 
 lo que dice; no se refiere a naciones, sino que se refiere a las personas mencionadas.
 
-Jacob -esto es, aquel varn cuyo nombre era Jacob- a Jacob am, mas a Esa
+“Jacob” -esto es, aquel varón cuyo nombre era Jacob- “a Jacob amé, mas a Esaú
 
-aborrec. Mis queridos amigos, tengan cuidado de no inmiscuirse en los asuntos
+aborrecí”. Mis queridos amigos, tengan cuidado de no inmiscuirse en los asuntos
 
 de
 
@@ -240,13 +240,13 @@ de Dios. Me he enterado de algunas personas que alteran los pasajes que no les
 
 agradan. No sirve de nada; no es posible alterarlos; en realidad siguen siendo
 
-los mismos. El nico poder que tenemos con
+los mismos. El único poder que tenemos con
 
 la Palabra
 
 de Dios es el de dejarla
 
-simplemente tal como est, y, por la gracia de Dios, hacer el esfuerzo de
+simplemente tal como está, y, por la gracia de Dios, hacer el esfuerzo de
 
 acomodarnos a ella. No debemos intentar nunca que
 
@@ -254,35 +254,35 @@ la Biblia
 
 se someta a
 
-nosotros; de hecho no podemos hacerlo, pues las verdades de la revelacin
+nosotros; de hecho no podemos hacerlo, pues las verdades de la revelación
 
 divina son tan seguras y tan firmes como el trono de Dios. Si un hombre quiere
 
 disfrutar de un deleitable panorama, y un monte considerable se interpone en su
 
-camino, acaso se pone a socavar su base esperando en vano que finalmente se
+camino, żacaso se pone a socavar su base esperando en vano que finalmente se
 
-convierta en una allanada planicie delante de l? No, por el contrario, lo
+convierta en una allanada planicie delante de él? No, por el contrario, lo
 
-utiliza diligentemente para el cumplimiento de su propsito escalndolo, sabiendo
+utiliza diligentemente para el cumplimiento de su propósito escalándolo, sabiendo
 
-bien que es el nico medio disponible para obtener el fin que se propone. Lo
+bien que es el único medio disponible para obtener el fin que se propone. Lo
 
 mismo debemos hacer nosotros; no podemos rebajar las verdades de Dios al nivel
 
-de nuestros pobres entendimientos finitos; el monte no se rebajar nunca
+de nuestros pobres entendimientos finitos; el monte no se rebajará nunca
 
-delante de nosotros, pero nosotros podemos buscar fuerzas para ascender ms y
+delante de nosotros, pero nosotros podemos buscar fuerzas para ascender más y
 
-ms en nuestra percepcin de las cosas divinas, y nicamente de esta manera podemos
+más en nuestra percepción de las cosas divinas, y únicamente de esta manera podemos
 
-esperar obtener la bendicin.
+esperar obtener la bendición.
 
 Ahora pues, esta noche voy a destacar dos
 
-cosas. He explicado este texto apegndome a lo que dice y no quiero alterarlo:
+cosas. He explicado este texto apegándome a lo que dice y no quiero alterarlo:
 
-A Jacob am, mas a Esa aborrec. Para suprimir el filo a esta terrible
+“A Jacob amé, mas a Esaú aborrecí”. Para suprimir el filo a esta terrible
 
 doctrina que conduce a algunas personas a morderse los labios, tengo que
 
@@ -292,103 +292,103 @@ esto es un
 
 hecho;
 
-y, despus, voy a intentar responder la pregunta:
+y, después, voy a intentar responder la pregunta:
 
-Por qu am Dios a Jacob y aborreci a Esa?
+żPor qué amó Dios a Jacob y aborreció a Esaú?
 
 I.
 
 Entonces, primero, ESTO ES UN HECHO. A la
 
-gente no le gusta la doctrina de la eleccin. En verdad no pretendo que le
+gente no le gusta la doctrina de la elección. En verdad no pretendo que le
 
-guste; pero, no es un hecho que Dios ha elegido a algunos? Pregntenle a algn
+guste; pero, żno es un hecho que Dios ha elegido a algunos? Pregúntenle a algún
 
-hermano arminiano acerca de la eleccin, y de inmediato les lanzar una mirada
+hermano arminiano acerca de la elección, y de inmediato les lanzará una mirada
 
-con unos ojos fieros y comenzar a enojarse, pues no puede soportarla; para l es
+con unos ojos fieros y comenzará a enojarse, pues no puede soportarla; para él es
 
 una cosa horrible, es como un grito de guerra, y de inmediato comienza a afilar
 
-el cuchillo de la controversia. Pero pregntenle: Ah, hermano!, no fue la
+el cuchillo de la controversia. Pero pregúntenle: “ˇAh, hermano!, żno fue la
 
-gracia divina la que te distingui? Acaso no fue el Seor quien te llam a
+gracia divina la que te distinguió? żAcaso no fue el Seńor quien te llamó a
 
-salir de tu estado natural, y quien te hizo ser lo que eres? Oh, s dir-
+salir de tu estado natural, y quien te hizo ser lo que eres?” “Oh, sí” –dirá-
 
-yo estoy muy de acuerdo contigo en eso. Ahora, hganle esta pregunta: Cul
+“yo estoy muy de acuerdo contigo en eso”. Ahora, háganle esta pregunta: “żCuál
 
-piensas que sea la razn de que un hombre haya sido convertido y otro no? Oh
+piensas que sea la razón de que un hombre haya sido convertido y otro no?” “Oh”
 
-responde- el Espritu de Dios ha estado obrando en este hombre. Bien,
+–responde- “el Espíritu de Dios ha estado obrando en este hombre”. Bien,
 
-entonces, hermano mo, es un hecho que Dios trata
+entonces, hermano mío, es un hecho que Dios trata
 
-mejor a un hombre que a otro; y acaso hay algo sorprendente en ese
+mejor a un hombre que a otro; ży acaso hay algo sorprendente en ese
 
-hecho? Es una realidad que reconocemos cada da. Hay un hombre que se encuentra
+hecho? Es una realidad que reconocemos cada día. Hay un hombre que se encuentra
 
-por all, en uno de los balcones, que sin importar cunto trabaje, no puede
+por allá, en uno de los balcones, que sin importar cuánto trabaje, no puede
 
-ganar ms de quince chelines por semana; y aqu est otro hombre que gana mil
+ganar más de quince ‘chelines’ por semana; y aquí está otro hombre que gana mil
 
-al ao; cul es la razn de eso? Uno nace en un palacio real, mientras que el
+al ańo; żcuál es la razón de eso? Uno nace en un palacio real, mientras que el
 
-otro viene al mundo en una casucha desprovista de un techo. A qu se debe eso?
+otro viene al mundo en una casucha desprovista de un techo. żA qué se debe eso?
 
-A la providencia de Dios. l coloca a un hombre en una posicin y a otro hombre
+A la providencia de Dios. Él coloca a un hombre en una posición y a otro hombre
 
-en otra. He aqu un hombre cuya cabeza no puede hilar dos pensamientos
+en otra. He aquí un hombre cuya cabeza no puede hilar dos pensamientos
 
-seguidos, no importa lo que hagas con l; he aqu otro hombre que puede
+seguidos, no importa lo que hagas con él; he aquí otro hombre que puede
 
-sentarse y escribir un libro, y explorar las cuestiones ms profundas; cul es
+sentarse y escribir un libro, y explorar las cuestiones más profundas; żcuál es
 
-la razn de eso? Dios lo ha hecho. No ven el hecho de que Dios no trata a cada
+la razón de eso? Dios lo ha hecho. żNo ven el hecho de que Dios no trata a cada
 
-individuo de la misma manera? Ha creado guilas y ha creado gusanos; ha creado
+individuo de la misma manera? Ha creado águilas y ha creado gusanos; ha creado
 
 leones y lagartijas que reptan. A algunos seres los ha hecho reyes, y algunos
 
 nacen siendo mendigos. Algunos nacen con mentes imponentes, y otros rayan en la
 
-idiotez. Por qu sucede eso? Acaso murmuran contra Dios por ello? No, ustedes
+idiotez. żPor qué sucede eso? żAcaso murmuran contra Dios por ello? No, ustedes
 
-dicen que es un hecho y que no se gana nada con murmurar. De qu sirve dar
+dicen que es un hecho y que no se gana nada con murmurar. żDe qué sirve dar
 
-patadas en contra de los hechos? Es slo dar coces contra el aguijn con los pies
+patadas en contra de los hechos? Es sólo dar coces contra el aguijón con los pies
 
-desnudos, y se hacen dao a ustedes mismos y no a ellos. Bien, entonces, la
+desnudos, y se hacen dańo a ustedes mismos y no a ellos. Bien, entonces, la
 
-eleccin es un hecho positivo; es muy claro como la luz del da que, en los
+elección es un hecho positivo; es muy claro como la luz del día que, en los
 
-asuntos de la religin, Dios da ms a un hombre que a otro. l me ha dado
+asuntos de la religión, Dios da más a un hombre que a otro. Él me ha dado
 
-oportunidades para or la palabra que no le da a un hotentote. l me dio padres
+oportunidades para oír la palabra que no le da a un hotentote. Él me dio padres
 
-que desde mi infancia me instruyeron en el temor del Seor. l no les da eso a
+que desde mi infancia me instruyeron en el temor del Seńor. Él no les da eso a
 
-muchos de ustedes. Posteriormente l me pone en situaciones donde mi pecado
+muchos de ustedes. Posteriormente Él me pone en situaciones donde mi pecado
 
 tiene un freno. Otros hombres son colocados en lugares en los que sus pasiones
 
-pecaminosas se desarrollan. l le da a un ser humano un temperamento y una
+pecaminosas se desarrollan. Él le da a un ser humano un temperamento y una
 
-disposicin que le impiden entregarse a la lascivia, y a otro ser humano le da
+disposición que le impiden entregarse a la lascivia, y a otro ser humano le da
 
-una gran impetuosidad de espritu y la depravacin hace que esa impetuosidad se
+una gran impetuosidad de espíritu y la depravación hace que esa impetuosidad se
 
-desve tanto que el hombre cae de cabeza en el pecado. De igual manera, a un
+desvíe tanto que el hombre cae de cabeza en el pecado. De igual manera, a un
 
 hombre le da la oportunidad de acceder a ministerio poderoso, mientras que otro
 
-asiste para escuchar a un predicador cuya modorra es nicamente superada por la
+asiste para escuchar a un predicador cuya modorra es únicamente superada por la
 
 de sus oyentes. Y aun si oyeran el Evangelio, el hecho es que Dios obra en un
 
-corazn cuando no obra en otro. Aunque yo creo que hasta cierto punto el
+corazón cuando no obra en otro. Aunque yo creo que hasta cierto punto el
 
-Espritu obra en los corazones de todos los que oyen
+Espíritu obra en los corazones de todos los que oyen
 
 la Palabra
 
@@ -396,169 +396,169 @@ la Palabra
 
 tienen excusa, yo estoy seguro que obra en algunos tan poderosamente que ya no
 
-pueden resistirle ms y que son constreidos por Su gracia a arrojarse a Sus
+pueden resistirle más y que son constreńidos por Su gracia a arrojarse a Sus
 
-pies y a confesar que es Seor de todo. En cambio otros se resisten a la gracia
+pies y a confesar que es Seńor de todo. En cambio otros se resisten a la gracia
 
-que entra en sus corazones y que no acta con la misma fuerza irresistible con
+que entra en sus corazones y que no actúa con la misma fuerza irresistible con
 
 que lo hace en el otro caso, y perecen en sus pecados, condenados justa y
 
-merecidamente. Acaso no es una realidad todo eso? Hay alguien que lo niegue?
+merecidamente. żAcaso no es una realidad todo eso? żHay alguien que lo niegue?
 
-Podra
+żPodría
 
-negarlo alguien? De qu sirve
+negarlo alguien? żDe qué sirve
 
-dar coces contra los hechos? Cuando se entabla una discusin, a m me gusta
+dar coces contra los hechos? Cuando se entabla una discusión, a mí me gusta
 
-saber cules son los hechos. Ustedes conocen la historia del rey Carlos II y
+saber cuáles son los hechos. Ustedes conocen la historia del rey Carlos II y
 
-los filsofos. El rey Carlos le pregunt a uno de ellos: A qu se debe que si
+los filósofos. El rey Carlos le preguntó a uno de ellos: “żA qué se debe que si
 
 tienes una cubeta de agua, y la pesas, y luego metes un pez en ella, el peso
 
-sigue siendo el mismo? Los filsofos aportaron muchsimas razones para
+sigue siendo el mismo?” Los filósofos aportaron muchísimas razones para
 
-explicar ese hecho. Por fin uno de ellos pregunt: Eso es en verdad un
+explicar ese hecho. Por fin uno de ellos preguntó: “żEso es en verdad un
 
-hecho? Y entonces descubrieron que el agua pesaba ms realmente, siendo precisamente
+hecho?” Y entonces descubrieron que el agua pesaba más realmente, siendo precisamente
 
-la diferencia el peso del pez introducido en ella. As que todos sus doctos argumentos
+la diferencia el peso del pez introducido en ella. Así que todos sus doctos argumentos
 
-se desplomaron. Entonces, cuando hablamos de la eleccin, lo mejor es decir:
+se desplomaron. Entonces, cuando hablamos de la elección, lo mejor es decir:
 
-Dejemos al margen la doctrina por un momento y veamos cules son los hechos.
+“Dejemos al margen la doctrina por un momento y veamos cuáles son los hechos”.
 
-Exploremos por todos lados; abramos nuestros ojos; veamos; all est el hecho.
+Exploremos por todos lados; abramos nuestros ojos; veamos; allí está el hecho.
 
-Entonces, de qu sirve que sigamos discutiendo? Vale ms que lo creamos,
+Entonces, żde qué sirve que sigamos discutiendo? Vale más que lo creamos,
 
-puesto que es una verdad innegable. Pueden alterar una opinin, pero no pueden
+puesto que es una verdad innegable. Pueden alterar una opinión, pero no pueden
 
 alterar un hecho. Se puede cambiar una simple doctrina, pero no es posible
 
-cambiar algo que realmente existe. Ah est el hecho: Dios trata ciertamente
+cambiar algo que realmente existe. Ahí está el hecho: Dios trata ciertamente
 
 con algunos seres humanos mejor de lo que trata con otros. Yo no voy a ofrecer
 
-una disculpa a nombre de Dios. l puede explicar sus propios tratos; no
+una disculpa a nombre de Dios. Él puede explicar sus propios tratos; no
 
 necesita que nadie lo defienda:
 
-Dios es Su
+“Dios es Su
 
-propio intrprete,
+propio intérprete,
 
-Y l lo har
+Y Él lo hará
 
-manifiesto.
+manifiesto”.
 
-Pero all est el hecho. Antes que
+Pero allí está el hecho. Antes que
 
-comiencen a debatir sobre la doctrina, nada ms recuerden que, sin importar qu
+comiencen a debatir sobre la doctrina, nada más recuerden que, sin importar qué
 
-piensen al respecto, ustedes no pueden alterarlo; y sin importar cunto lo
+piensen al respecto, ustedes no pueden alterarlo; y sin importar cuánto lo
 
-objeten, es una realidad que Dios am a Jacob y que no am a Esa.
+objeten, es una realidad que Dios amó a Jacob y que no amó a Esaú.
 
 Pues miren ahora la vida de Jacob y lean
 
-su historia; se ven forzados a decir que desde el primer momento en que abandon
+su historia; se ven forzados a decir que desde el primer momento en que abandonó
 
-la casa paterna hasta el ltimo, Dios lo am. Vamos, no se ha alejado mucho de
+la casa paterna hasta el último, Dios lo amó. Vamos, no se ha alejado mucho de
 
-la casa de su padre cuando ya est cansado y se acuesta teniendo una piedra por
+la casa de su padre cuando ya está cansado y se acuesta teniendo una piedra por
 
 almohada; los setos hacen las veces de cortinas y el cielo le sirve de dosel; se
 
-duerme, y Dios viene y le habla en el sueo; ve una escalera cuyo extremo toca
+duerme, y Dios viene y le habla en el sueńo; ve una escalera cuyo extremo toca
 
-en el cielo, y un grupo de ngeles sube y desciende por ella; y prosigue su
+en el cielo, y un grupo de ángeles sube y desciende por ella; y prosigue su
 
-viaje con destino a la casa de Labn. Su to trata de engaarlo y cuantas veces
+viaje con destino a la casa de Labán. Su tío trata de engańarlo y cuantas veces
 
-Labn intenta perjudicarlo, Dios no se lo permite, antes bien multiplica los
+Labán intenta perjudicarlo, Dios no se lo permite, antes bien multiplica los
 
-diferentes rebaos que Labn le da. Ustedes recuerdan que posteriormente,
+diferentes rebańos que Labán le da. Ustedes recuerdan que posteriormente,
 
-cuando huy de Labn sin hacerle saber que se iba y fue perseguido, vino Dios a
+cuando huyó de Labán sin hacerle saber que se iba y fue perseguido, vino Dios a
 
-Labn en sueos, y lo emplaz a no hablarle a Jacob descomedidamente. Y ms
+Labán en sueńos, y lo emplazó a no hablarle a Jacob descomedidamente. Y más
 
-memorable todava fue que, cuando sus hijos Lev y Simen mataron a la gente de
+memorable todavía fue que, cuando sus hijos Leví y Simeón mataron a la gente de
 
-Siquem, y Jacob tuvo miedo de que sera alcanzado y destruido por los
+Siquem, y Jacob tuvo miedo de que sería alcanzado y destruido por los
 
 habitantes que se estaban levantando en su contra, Dios puso un miedo en la
 
-poblacin, y les dijo: No toquis, dijo, a mi ungido, ni hagis mal a mi profeta.
+población, y les dijo: “No toquéis, dijo, a mi ungido, ni hagáis mal a mi profeta”.
 
-Y cuando el hambre azotaba a la tierra, Dios haba enviado a Jos a Egipto,
+Y cuando el hambre azotaba a la tierra, Dios había enviado a José a Egipto,
 
-para que proveyera grano en Gosn para sus hermanos, para que vivieran y no
+para que proveyera grano en Gosén para sus hermanos, para que vivieran y no
 
-murieran. Y vean el final feliz de Jacob: Jos mi hijo vive todava; ir, y le
+murieran. Y vean el final feliz de Jacob: “José mi hijo vive todavía; iré, y le
 
-ver antes que yo muera. Contemplen las lgrimas que ruedan por sus mejillas
+veré antes que yo muera”. ˇContemplen las lágrimas que ruedan por sus mejillas
 
-seniles, cuando estrecha a su hijo Jos contra su pecho! Vean con qu
+seniles, cuando estrecha a su hijo José contra su pecho! Vean con qué
 
-magnificencia se presenta delante de Faran y le bendice. Se nos informa: Jacob
+magnificencia se presenta delante de Faraón y le bendice. Se nos informa: “Jacob
 
-bendijo a Faran. Posea tanto amor de Dios en su interior que era libre de
+bendijo a Faraón”. Poseía tanto amor de Dios en su interior que era libre de
 
-bendecir al monarca ms poderoso de su tiempo. Al final expir, y acto seguido
+bendecir al monarca más poderoso de su tiempo. Al final expiró, y acto seguido
 
-se dijo: Fue un varn amado por Dios. Es una realidad que Dios am a Jacob.
+se dijo: “Fue un varón amado por Dios”. Es una realidad que Dios amó a Jacob.
 
 Por otro lado, es una realidad que Dios
 
-no am a Esa. Permiti que Esa fuera padre de prncipes, pero l no ha
+no amó a Esaú. Permitió que Esaú fuera padre de príncipes, pero Él no ha
 
-bendecido a su generacin. Dnde est ahora la casa de Esa? Edom pereci.
+bendecido a su generación. żDónde está ahora la casa de Esaú? Edom pereció.
 
-Edific sus moradas en la roca y esculpi sus ciudades en el duro pedernal;
+Edificó sus moradas en la roca y esculpió sus ciudades en el duro pedernal;
 
-pero Dios ha abandonado a sus habitantes, y Edom ya no se encuentra ms. Fueron
+pero Dios ha abandonado a sus habitantes, y Edom ya no se encuentra más. Fueron
 
-esclavos de Israel y los reyes de Edom tenan que pagar a Salomn y a sus
+esclavos de Israel y los reyes de Edom tenían que pagar a Salomón y a sus
 
-sucesores un tributo anual consistente en lana; y ahora el nombre de Esa ha
+sucesores un tributo anual consistente en lana; y ahora el nombre de Esaú ha
 
 sido borrado del libro de la historia. Bien, entonces debo repetir que esto
 
-debera rebajar al menos un poco la amargura de la controversia cuando
+debería rebajar al menos un poco la amargura de la controversia cuando
 
-recordamos que, sin obstar lo que digan los hombres, es un hecho que Dios am a
+recordamos que, sin obstar lo que digan los hombres, es un hecho que Dios amó a
 
-Jacob y que no am a Esa.
+Jacob y que no amó a Esaú.
 
 II.
 
 Pero ahora el segundo punto de mi tema
 
-es: POR QU ES AS? Por qu am Dios a Jacob? Por qu odi a Esa? Bien, no
+es: żPOR QUÉ ES ASÍ? żPor qué amó Dios a Jacob? żPor qué odió a Esaú? Bien, no
 
-pretendo abarcar demasiado a la vez. Ustedes me preguntan: Por qu am Dios a
+pretendo abarcar demasiado a la vez. Ustedes me preguntan: “żPor qué amó Dios a
 
-Jacob? Por qu odi a Esa? Vamos a responder una pregunta a la vez ya que la
+Jacob? żPor qué odió a Esaú?” Vamos a responder una pregunta a la vez ya que la
 
-razn por la que la gente se mete en embrollos en teologa es porque trata de
+razón por la que la gente se mete en embrollos en teología es porque trata de
 
 dar una respuesta a dos preguntas. Ahora bien, yo no voy a hacer eso; yo voy a
 
-decirles una cosa a la vez. Les dir por qu Dios am a Jacob y luego les dir
+decirles una cosa a la vez. Les diré por qué Dios amó a Jacob y luego les diré
 
-por qu odi a Esa. Pero no puedo darles la misma razn para dos cosas
+por qué odió a Esaú. Pero no puedo darles la misma razón para dos cosas
 
 contradictorias. Ese es el punto en que muchas personas han fallado: se han
 
-sentado para considerar y ver ambos hechos, que Dios am a Jacob y que odi a
+sentado para considerar y ver ambos hechos, que Dios amó a Jacob y que odió a
 
-Esa, que Dios tiene un pueblo elegido, y que hay otros que no son elegidos. Entonces,
+Esaú, que Dios tiene un pueblo elegido, y que hay otros que no son elegidos. Entonces,
 
-si tratan de dar la misma razn para la eleccin y la no eleccin, hacen una
+si tratan de dar la misma razón para la elección y la no elección, hacen una
 
 triste labor. Si hicieran una pausa y tomaran una sola cosa a la vez, y miraran
 
@@ -566,11 +566,11 @@ a
 
 la Palabra
 
-de Dios, no se equivocaran.
+de Dios, no se equivocarían.
 
 La primera pregunta es:
 
-por qu Dios am a Jacob?
+żpor qué Dios amó a Jacob?
 
 No me
 
@@ -580,97 +580,97 @@ la Palabra
 
 de Dios, leo este
 
-texto: No lo hago por vosotros, dice Jehov el Seor, sabedlo bien;
+texto: “No lo hago por vosotros, dice Jehová el Seńor, sabedlo bien;
 
-avergonzaos y cubros de confusin por vuestras iniquidades, casa de Israel.
+avergonzaos y cubríos de confusión por vuestras iniquidades, casa de Israel”.
 
-No me quedo perplejo al decirles que no podra ser por algo bueno en Jacob que
+No me quedo perplejo al decirles que no podría ser por algo bueno en Jacob que
 
-Dios lo am, porque se me informa que: no haban an nacido, ni haban hecho
+Dios lo amó, porque se me informa que: “no habían aún nacido, ni habían hecho
 
-an ni bien ni mal, para que el propsito de Dios conforme a la eleccin
+aún ni bien ni mal, para que el propósito de Dios conforme a la elección
 
-permaneciese, no por las obras sino por el que llama. Yo
+permaneciese, no por las obras sino por el que llama”. Yo
 
 puedo
 
-decirles por qu Dios am a Jacob:
+decirles por qué Dios amó a Jacob:
 
 es por la gracia soberana.
 
-No haba nada en Jacob que hiciera que
+No había nada en Jacob que hiciera que
 
-Dios lo amara; todo respecto a Jacob podra haber hecho que Dios lo odiara tanto
+Dios lo amara; todo respecto a Jacob podría haber hecho que Dios lo odiara tanto
 
-como odi a Esa, y que lo odiara todava ms. Porque Dios fue infinitamente
+como odió a Esaú, y que lo odiara todavía más. Porque Dios fue infinitamente
 
-clemente am a Jacob, y por ser soberano en Su dispensacin de esta gracia
+clemente amó a Jacob, y por ser soberano en Su dispensación de esta gracia
 
-escogi a Jacob como el objeto de ese amor. Ahora bien, mientras no responda la
+escogió a Jacob como el objeto de ese amor. Ahora bien, mientras no responda la
 
-pregunta respecto a Jacob, no voy a tratar con Esa. Simplemente quiero
+pregunta respecto a Jacob, no voy a tratar con Esaú. Simplemente quiero
 
-destacar esto: que Dios am a Jacob nicamente sobre la base de la gracia
+destacar esto: que Dios amó a Jacob únicamente sobre la base de la gracia
 
 inmerecida.
 
-Los invito que miremos el carcter de
+Los invito que miremos el carácter de
 
-Jacob; ya les dije en la exposicin lo que pensaba de l. Tengo una muy baja
+Jacob; ya les dije en la exposición lo que pensaba de él. Tengo una muy baja
 
-opinin del carcter de Jacob. Como hombre natural siempre fue un regateador. Hace
+opinión del carácter de Jacob. Como hombre natural siempre fue un regateador. Hace
 
-unos das me llam mucho la atencin la visin que tuvo Jacob en Bet-el; me
+unos días me llamó mucho la atención la visión que tuvo Jacob en Bet-el; me
 
-pareci que se trat de un despliegue sumamente extraordinario del espritu de
+pareció que se trató de un despliegue sumamente extraordinario del espíritu de
 
-regateo de Jacob. Ustedes saben que se acost, y que le agrad a Dios abrirle
+regateo de Jacob. Ustedes saben que se acostó, y que le agradó a Dios abrirle
 
 las puertas de los cielos de manera que viera a Dios sentado en el extremo de
 
-la escalera y que los ngeles suban y descendan por ella. Qu suponen que
+la escalera y que los ángeles subían y descendían por ella. żQué suponen que
 
-dijo tan pronto como despert? Pues bien, dijo: Ciertamente Jehov est en
+dijo tan pronto como despertó? Pues bien, dijo: “Ciertamente Jehová está en
 
-este lugar, y yo no lo saba. Y tuvo miedo, y dijo: Cun terrible es este
+este lugar, y yo no lo sabía”. Y tuvo miedo, y dijo: “ˇCuán terrible es este
 
-lugar! No es otra cosa que casa de Dios, y puerta del cielo. Pues bien, si
+lugar! No es otra cosa que casa de Dios, y puerta del cielo”. Pues bien, si
 
-Jacob hubiese tenido fe, no habra tenido miedo de Dios; por el contrario, le
+Jacob hubiese tenido fe, no habría tenido miedo de Dios; por el contrario, le
 
-habra regocijado que Dios le permitiera tener comunin con l de esa manera.
+habría regocijado que Dios le permitiera tener comunión con Él de esa manera.
 
-Ahora, oigan el regateo de Jacob. Dios le haba dicho simplemente: Yo soy
+Ahora, oigan el regateo de Jacob. Dios le había dicho simplemente: “Yo soy
 
-Jehov, el Dios de Abraham tu padre, y el Dios de Isaac; la tierra en que ests
+Jehová, el Dios de Abraham tu padre, y el Dios de Isaac; la tierra en que estás
 
-acostado te la dar a ti y a tu descendencia. No dijo nada respecto a lo que
+acostado te la daré a ti y a tu descendencia”. No dijo nada respecto a lo que
 
-Jacob deba hacer. Dios slo le dijo:
+Jacob debía hacer. Dios sólo le dijo:
 
-Yo
+“Yo
 
-har. Le dijo: He aqu, yo estoy contigo, y te guardar por dondequiera
+haré”. Le dijo: “He aquí, yo estoy contigo, y te guardaré por dondequiera
 
-que fueres, y volver a traerte a esta tierra; porque no te dejar hasta que
+que fueres, y volveré a traerte a esta tierra; porque no te dejaré hasta que
 
-haya hecho lo que te he dicho. Ahora, pueden creer que despus que Dios haba
+haya hecho lo que te he dicho”. Ahora, żpueden creer que después que Dios había
 
-hablado cara a cara con Jacob, ste cometiera la impudencia de intentar hacer
+hablado cara a cara con Jacob, éste cometiera la impudencia de intentar hacer
 
 un regateo con Dios? Pero lo hizo. Comienza diciendo:
 
-Si
+“Si…”
 
-Helo all, el hombre acaba de tener una visin y acaba de
+Helo allí, el hombre acaba de tener una visión y acaba de
 
 recibir una promesa absoluta de Dios, y no obstante comienza con un
 
-Si.
+“Si…”.
 
-Eso es un ambicioso regateo!
+ˇEso es un ambicioso regateo!
 
-Si
+“Si
 
 fuere Dios conmigo, y me guardare en
 
@@ -678,409 +678,409 @@ este viaje en que voy, y me diere pan para comer y vestido para vestir, y si
 
 volviere en paz a casa de mi padre,
 
-entonces
+entonces”
 
-no prescinde de la condicin- observen que pretende que Dios se adhiera a
+–no prescinde de la condición- observen que pretende que Dios se adhiera a
 
 su regateo,
 
-entonces
+“entonces
 
-Jehov ser mi
+Jehová será mi
 
-Dios. Y esta piedra que he puesto por seal, ser casa de Dios; y de todo lo
+Dios. Y esta piedra que he puesto por seńal, será casa de Dios; y de todo lo
 
-que me diere, el diezmo apartar para ti. Me asombra eso! Si yo no conociera
+que me diere, el diezmo apartaré para ti”. ˇMe asombra eso! Si yo no conociera
 
-algo de mi propia naturaleza, sera totalmente incapaz de entenderlo. Cmo, un
+algo de mi propia naturaleza, sería totalmente incapaz de entenderlo. ˇCómo, un
 
-hombre que ha hablado con Dios comienza luego a negociar con l! Un hombre que
+hombre que ha hablado con Dios comienza luego a negociar con Él! ˇUn hombre que
 
-ha visto la nica va de acceso entre el cielo y la tierra, la escalera Cristo
+ha visto la única vía de acceso entre el cielo y la tierra, la escalera Cristo
 
-Jess, y que ha sido objeto de un pacto entre l mismo y Dios, de un pacto
+Jesús, y que ha sido objeto de un pacto entre él mismo y Dios, de un pacto
 
-cuyas obligaciones las asume Dios todos los elementos son una promesa- y, con
+cuyas obligaciones las asume Dios –todos los elementos son una promesa- y, con
 
-todo, pretende despus de eso que Dios se someta a una condicin; es como si
+todo, pretende después de eso que Dios se someta a una condición; es como si
 
-tuviera miedo de que Dios incumpliera Su promesa! Oh, eso era algo vil en
+tuviera miedo de que Dios incumpliera Su promesa! ˇOh, eso era algo vil en
 
 verdad!
 
 Luego noten la totalidad de su vida.
 
-Mientras vivi con Labn, cun miserable fue su labor. Haba cado en manos de
+Mientras vivió con Labán, cuán miserable fue su labor. Había caído en manos de
 
-un hombre del mundo; y siempre que un cristiano avaro se junta con ese tipo de
+un hombre del mundo; ˇy siempre que un cristiano avaro se junta con ese tipo de
 
-compaas se produce un escenario terrible! Helos ah juntos: el codicioso y el
+compańías se produce un escenario terrible! Helos ahí juntos: el codicioso y el
 
-posesivo. Si un ngel pudiese mirarlos desde lo alto, cmo llorara al ver al
+posesivo. Si un ángel pudiese mirarlos desde lo alto, cómo lloraría al ver al
 
-hombre de Dios cado de su excelso lugar y vuelto tan malo como el otro. Entonces,
+hombre de Dios caído de su excelso lugar y vuelto tan malo como el otro. Entonces,
 
-el mecanismo que Jacob utiliz cuando batall para obtener sus salarios fue
+el mecanismo que Jacob utilizó cuando batalló para obtener sus salarios fue
 
-sumamente extraordinario. Por qu no lo dej en manos de Dios, en vez de
+sumamente extraordinario. żPor qué no lo dejó en manos de Dios, en vez de
 
-adoptar los esquemas que utiliz? Jacob nos avergenza en cada una de las
+adoptar los esquemas que utilizó? Jacob nos avergüenza en cada una de las
 
-etapas; no podemos evitarlo. Y luego llega el gran perodo en su vida, el punto
+etapas; no podemos evitarlo. Y luego llega el gran período en su vida, el punto
 
-crtico, cuando se nos informa que: Jacob luch con Dios y venci. Vamos a
+crítico, cuando se nos informa que: “Jacob luchó con Dios y venció”. Vamos a
 
 considerar eso. Yo he analizado cuidadosamente ese tema, y ya no siento por
 
-Jacob la gran estimacin que senta antes. Yo pensaba que Jacob haba luchado
+Jacob la gran estimación que sentía antes. Yo pensaba que Jacob había luchado
 
-con Dios, pero descubro que es todo lo contrario. Jacob no luch con Dios. Dios
+con Dios, pero descubro que es todo lo contrario. Jacob no luchó con Dios. Dios
 
-luch con l. Siempre tuve en alto a Jacob en mi mente, como el verdadero
+luchó con él. Siempre tuve en alto a Jacob en mi mente, como el verdadero
 
-modelo de un hombre que lucha en oracin. Ahora no pienso igual. l dividi a
+modelo de un hombre que lucha en oración. Ahora no pienso igual. Él dividió a
 
-su familia, y puso a una persona al frente para apaciguar a Esa. El propio
+su familia, y puso a una persona al frente para apaciguar a Esaú. El propio
 
-Jacob no se puso al frente con la santa confianza que un patriarca deba haber
+Jacob no se puso al frente con la santa confianza que un patriarca debía haber
 
-sentido. Con la proteccin de toda la omnipotencia del cielo pudo haber ido
+sentido. Con la protección de toda la omnipotencia del cielo pudo haber ido
 
-valientemente al encuentro de su hermano. Pero no!, no estaba seguro de que su
+valientemente al encuentro de su hermano. ˇPero no!, no estaba seguro de que su
 
-hermano se inclinara a sus pies, aunque la promesa afirmaba: El mayor servir
+hermano se inclinara a sus pies, aunque la promesa afirmaba: “El mayor servirá
 
-al menor. Jacob no confiaba en esa promesa; no era lo suficientemente grande
+al menor”. Jacob no confiaba en esa promesa; no era lo suficientemente grande
 
-para l. Entonces fue de noche al vado de Jaboc. Yo no s para qu fue, a menos
+para él. Entonces fue de noche al vado de Jaboc. Yo no sé para qué fue, a menos
 
-que haya ido para orar; pero me temo que no fue as. El texto dice: As se
+que haya ido para orar; pero me temo que no fue así. El texto dice: “Así se
 
-qued Jacob solo; y luch con l un varn hasta que rayaba el alba. Es muy
+quedó Jacob solo; y luchó con él un varón hasta que rayaba el alba”. Es muy
 
-diferente que un hombre luche conmigo a que yo luche con l. Cuando pugno con
+diferente que un hombre luche conmigo a que yo luche con él. Cuando pugno con
 
-alguien, quiero ganar algo de l, y cuando un hombre lucha conmigo, quiere
+alguien, quiero ganar algo de él, y cuando un hombre lucha conmigo, quiere
 
-sacarme algo. Por tanto, segn lo entiendo, cuando el varn luch con Jacob,
+sacarme algo. Por tanto, según lo entiendo, cuando el varón luchó con Jacob,
 
-quera librarlo de su astucia y de su engao, y demostrarle qu pobre criatura
+quería librarlo de su astucia y de su engańo, y demostrarle qué pobre criatura
 
-pecadora era, pero no poda lograrlo. La astucia de Jacob era tan robusta que
+pecadora era, pero no podía lograrlo. La astucia de Jacob era tan robusta que
 
-era muy difcil vencerlo; por fin, el ngel toc su muslo y le mostr su propio
+era muy difícil vencerlo; por fin, el ángel tocó su muslo y le mostró su propio
 
-vaco. Y Jacob da un giro y dice: me has despojado de mi fuerza, ahora voy a
+vacío. Y Jacob da un giro y dice: “me has despojado de mi fuerza, ahora voy a
 
 luchar
 
-contigo;
+contigo”;
 
 y cuando su muslo
 
-fue dislocado y sinti plenamente su propia debilidad, entonces, y slo
+fue dislocado y sintió plenamente su propia debilidad, entonces, y sólo
 
-entonces, fue conducido a decir: No
+entonces, fue conducido a decir: “No
 
 te
 
-dejar,
+dejaré,
 
-si no me bendices. Haba confiado plenamente en su propia fuerza, pero Dios
+si no me bendices”. Había confiado plenamente en su propia fuerza, pero Dios
 
-por fin lo humill, y cuando todo su alardeado poder se hubo esfumado, fue
+por fin lo humilló, y cuando todo su alardeado poder se hubo esfumado, fue
 
-entonces que Jacob se convirti en un prncipe con predominio. Pero an despus
+entonces que Jacob se convirtió en un príncipe con predominio. Pero aún después
 
 de eso, su vida no fue clara. Luego se puede percibir que fue una criatura
 
-incrdula; y todos nosotros hemos sido igual de malos. Aunque culpamos a Jacob,
+incrédula; y todos nosotros hemos sido igual de malos. Aunque culpamos a Jacob,
 
-hermanos, nos estamos culpando a nosotros mismos. Somos duros con l, pero
+hermanos, nos estamos culpando a nosotros mismos. Somos duros con él, pero
 
-seremos ms duros con nosotros mismos. No recuerdan aquel memorable discurso
+seremos más duros con nosotros mismos. żNo recuerdan aquel memorable discurso
 
-del patriarca cuando dijo: Jos no parece, ni Simen tampoco, y a Benjamn
+del patriarca cuando dijo: “José no parece, ni Simeón tampoco, y a Benjamín
 
-llevaris; contra m son todas estas cosas? Ah, Jacob, por qu no puedes
+llevaréis; contra mí son todas estas cosas”? Ah, Jacob, żpor qué no puedes
 
-creer en la promesa? Todas las otras promesas han sido cumplidas. Pero, no!,
+creer en la promesa? Todas las otras promesas han sido cumplidas. ˇPero, no!,
 
-l no poda pensar en la promesa; siempre quiso vivir por vista.
+él no podía pensar en la promesa; siempre quiso vivir por vista.
 
-Ahora yo digo que si el carcter de Jacob
+Ahora yo digo que si el carácter de Jacob
 
-es como lo he descrito -y estoy seguro de que as es pues lo vemos en
+es como lo he descrito -y estoy seguro de que así es pues lo vemos en
 
 la Palabra
 
-de Dios- no haba
+de Dios- no había
 
-ni poda haber nada en Jacob que hiciera que Dios lo amara; y la nica razn
+ni podía haber nada en Jacob que hiciera que Dios lo amara; y la única razón
 
-por la que Dios lo am, tuvo que ser por Su propia gracia, porque del que
+por la que Dios lo amó, tuvo que ser por Su propia gracia, porque “del que
 
-quiere, tiene misericordia. Y tengan la seguridad de que la nica razn por la
+quiere, tiene misericordia”. Y tengan la seguridad de que la única razón por la
 
-que cualquiera de nosotros puede tener esperanza de la salvacin es sta: la
+que cualquiera de nosotros puede tener esperanza de la salvación es ésta: la
 
-gracia soberana de Dios. No hay ningn motivo para que yo deba ser salvado o
+gracia soberana de Dios. No hay ningún motivo para que yo deba ser salvado o
 
-para que t debas ser salvado, excepto el propio corazn misericordioso de Dios
+para que tú debas ser salvado, excepto el propio corazón misericordioso de Dios
 
 y la propia voluntad omnipotente de Dios. Ahora pues, esa es la doctrina; no
 
-slo este pasaje, sino multitudes de otros pasajes de
+sólo este pasaje, sino multitudes de otros pasajes de
 
 la Palabra
 
-de Dios la ensean.
+de Dios la enseńan.
 
-Queridos amigos, recbanla, afrrense a ella y no se aparten de ella nunca.
+Queridos amigos, recíbanla, aférrense a ella y no se aparten de ella nunca.
 
 Ahora, la siguiente pregunta es
 
 diferente:
 
-por qu Dios odi a Esa?
+żpor qué Dios odió a Esaú?
 
 No
 
 voy a mezclar esta pregunta con la anterior; son enteramente distintas, y
 
-pretendo mantenerlas as. Una sola respuesta para las dos preguntas sera
+pretendo mantenerlas así. Una sola respuesta para las dos preguntas sería
 
-invlida, pues las preguntas tienen que ser consideradas individualmente y slo
+inválida, pues las preguntas tienen que ser consideradas individualmente y sólo
 
-entonces pueden responderse satisfactoriamente. Por qu Dios odia a alguna
+entonces pueden responderse satisfactoriamente. żPor qué Dios odia a alguna
 
-persona? Yo desafo a cualquiera a dar una respuesta diferente a sta: porque
+persona? Yo desafío a cualquiera a dar una respuesta diferente a ésta: porque
 
-esa persona lo merece; ninguna respuesta fuera de sta puede ser cierta jams.
+esa persona lo merece; ninguna respuesta fuera de ésta puede ser cierta jamás.
 
-Hay quienes responden: la soberana divina; pero yo los reto a ver la doctrina
+Hay quienes responden: la soberanía divina; pero yo los reto a ver la doctrina
 
-en la cara. Piensan que Dios cre al hombre y que arbitraria y soberanamente
+en la cara. żPiensan que Dios creó al hombre y que arbitraria y soberanamente
 
-es lo mismo- cre a ese hombre con la sola intencin de condenarlo? Que lo
+–es lo mismo- creó a ese hombre con la sola intención de condenarlo? żQue lo
 
-cre, pero con el nico propsito de destruirlo para siempre? Pues bien, si pueden
+creó, pero con el único propósito de destruirlo para siempre? Pues bien, si pueden
 
 creerlo, los compadezco, eso es todo lo que puedo decirles; merecen que se les
 
-tenga lstima por pensar tan mal de Dios, cuya misericordia es eterna. Ustedes
+tenga lástima por pensar tan mal de Dios, cuya misericordia es eterna. Ustedes
 
-tienen mucha razn al decir que el motivo por el que Dios ama a un hombre es
+tienen mucha razón al decir que el motivo por el que Dios ama a un hombre es
 
-porque Dios as lo hace; no hay ninguna razn en el hombre. Pero no den la
+porque Dios así lo hace; no hay ninguna razón en el hombre. Pero no den la
 
-misma respuesta respecto a por qu Dios odia a un hombre. Si Dios trata con una
+misma respuesta respecto a por qué Dios odia a un hombre. Si Dios trata con una
 
 persona severamente, es porque esa persona merece todo lo que recibe. En el
 
-infierno no habr ni un alma solitaria que le diga a Dios: Oh Seor, T me
+infierno no habrá ni un alma solitaria que le diga a Dios: ˇ‘Oh Seńor, Tú me
 
-has tratado peor de lo que merezco! Antes bien, cada espritu perdido ser
+has tratado peor de lo que merezco’! Antes bien, cada espíritu perdido será
 
-conducido a sentir que tiene lo merecido, que su destruccin es atribuible a l
+conducido a sentir que tiene lo merecido, que su destrucción es atribuible a él
 
-mismo y no a Dios, que Dios no tuvo nada que ver con su condenacin excepto
+mismo y no a Dios, que Dios no tuvo nada que ver con su condenación excepto
 
-como Juez que condena al criminal, pero que l mismo atrajo la condenacin sobre
+como Juez que condena al criminal, pero que él mismo atrajo la condenación sobre
 
 su propia cabeza como resultado de sus propias obras malvadas. La justicia es
 
 lo que condena al hombre; pero la misericordia, la gracia inmerecida, lo salvan;
 
-la soberana sostiene la balanza del amor; la justicia sostiene la otra
+la soberanía sostiene la balanza del amor; la justicia sostiene la otra
 
-balanza. Quin podra ponerla en manos de la soberana? Eso sera calumniar a
+balanza. żQuién podría ponerla en manos de la soberanía? Eso sería calumniar a
 
 Dios y deshonrarlo.
 
-Ahora veamos el carcter de Esa. Alguien
+Ahora veamos el carácter de Esaú. Alguien
 
-pregunta: acaso mereci que Dios lo desechara? Yo respondo que s. Lo que
+pregunta: “żacaso mereció que Dios lo desechara?” Yo respondo que sí. Lo que
 
-sabemos del carcter de Esa claramente lo demuestra. Esa perdi su
+sabemos del carácter de Esaú claramente lo demuestra. Esaú perdió su
 
-primogenitura. No te pongas a llorar por eso, ni culpes a Dios. El propio Esa
+primogenitura. No te pongas a llorar por eso, ni culpes a Dios. El propio Esaú
 
-la vendi y la vendi por un guisado de lentejas. Oh, Esa, es en vano que
+la vendió y la vendió por un guisado de lentejas. Oh, Esaú, es en vano que
 
-digas: yo perd mi primogenitura por decreto. No, no. Jacob la recibi por
+digas: “yo perdí mi primogenitura por decreto”. No, no. Jacob la recibió por
 
-decreto, pero t la perdiste porque t mismo la vendiste, no es cierto? No
+decreto, pero tú la perdiste porque tú mismo la vendiste, żno es cierto? żNo
 
-fue tu propio trueque? Acaso por tu propia libre voluntad no aceptaste el
+fue tu propio trueque? żAcaso por tu propia libre voluntad no aceptaste el
 
-plato de guiso rojo a cambio de la primogenitura? T mismo te buscaste tu
+plato de guiso rojo a cambio de la primogenitura? Tú mismo te buscaste tu
 
-destruccin porque por tu propia negociacin vendiste tu propia alma, y t
+destrucción porque por tu propia negociación vendiste tu propia alma, y tú
 
-mismo lo hiciste. Ejerci Dios influencia sobre Esa para hacer eso? Ni Dios
+mismo lo hiciste. żEjerció Dios influencia sobre Esaú para hacer eso? Ni Dios
 
-lo quiera. Dios no es el autor del pecado. Esa renunci voluntariamente a su
+lo quiera. Dios no es el autor del pecado. Esaú renunció voluntariamente a su
 
 propia primogenitura. Y la doctrina es que todo hombre que pierde el cielo lo
 
-hace porque l mismo renuncia al cielo. Todo hombre que pierde la vida eterna
+hace porque él mismo renuncia al cielo. Todo hombre que pierde la vida eterna
 
-es porque l mismo la rechaza. Dios no se la niega; l es quien no quiere venir
+es porque él mismo la rechaza. Dios no se la niega; él es quien no quiere venir
 
-para tener vida. Por qu es que una persona permanece siendo impa y no teme a
+para tener vida. żPor qué es que una persona permanece siendo impía y no teme a
 
-Dios? Porque dice: Me gusta esta copa, me gusta este placer, prefiero
+Dios? Porque dice: “Me gusta esta copa, me gusta este placer, prefiero
 
-quebrantar el da de guardar que hacer las cosas de Dios. Nadie es salvo por
+quebrantar el día de guardar que hacer las cosas de Dios”. Nadie es salvo por
 
-su propio libre albedro, pero toda persona que es condenada lo es por su
+su propio libre albedrío, pero toda persona que es condenada lo es por su
 
-propio libre albedro; nadie la constrie. Pecador, t sabes que cuando sales
+propio libre albedrío; nadie la constrińe. Pecador, tú sabes que cuando sales
 
-de aqu y sofocas los clamores de la conciencia, t mismo lo haces. T sabes
+de aquí y sofocas los clamores de la conciencia, tú mismo lo haces. Tú sabes
 
-que cuando dices al finalizar el sermn: no me interesa creer en Cristo, lo
+que cuando dices al finalizar el sermón: “no me interesa creer en Cristo”, lo
 
-dices t mismo. Ests muy consciente de ello, y aunque no lo estuvieras, es no
+dices tú mismo. Estás muy consciente de ello, y aunque no lo estuvieras, es no
 
-obstante un hecho terrible que la razn por la que eres lo que eres es porque
+obstante un hecho terrible que la razón por la que eres lo que eres es porque
 
 quieres
 
 ser lo que eres. Es tu propia
 
-voluntad la que te mantiene donde ests; t eres el nico culpable; permaneces
+voluntad la que te mantiene donde estás; tú eres el único culpable; permaneces
 
 en un estado de pecado por tu propia voluntad. Eres un cautivo, pero eres un
 
-cautivo voluntario. T nunca estars dispuesto a ser libre mientras Dios no
+cautivo voluntario. Tú nunca estarás dispuesto a ser libre mientras Dios no
 
-haga que ests anuente. Pero t ests anuente a ser un esclavo. No se puede disfrazar
+haga que estés anuente. Pero tú estás anuente a ser un esclavo. No se puede disfrazar
 
-el hecho de que el hombre ama el pecado, ama el mal y no ama a Dios. T sabes
+el hecho de que el hombre ama el pecado, ama el mal y no ama a Dios. Tú sabes
 
 que aunque se te predique el cielo gracias a la sangre de Cristo, y aunque se
 
-te amenace con el infierno como el resultado de tus pecados, t te sigues
+te amenace con el infierno como el resultado de tus pecados, tú te sigues
 
 aferrando a tus iniquidades; no quieres soltarlas ni quieres acudir presuroso a
 
-Cristo. Y cuando seas desechado, al final se te dir: perdiste tu
+Cristo. Y cuando seas desechado, al final se te dirá: “perdiste tu
 
-primogenitura. Pero t mismo la vendiste. T sabes que el saln de baile se
+primogenitura”. Pero tú mismo la vendiste. Tú sabes que el salón de baile se
 
-adapta mejor a ti que la casa de Dios; t sabes que la taberna se adapta mejor
+adapta mejor a ti que la casa de Dios; tú sabes que la taberna se adapta mejor
 
-a ti que la casa de oracin; t sabes que ms que confiar en Cristo confas en
+a ti que la casa de oración; tú sabes que más que confiar en Cristo confías en
 
-ti mismo; t sabes que prefieres los goces del tiempo presente que los goces
+ti mismo; tú sabes que prefieres los goces del tiempo presente que los goces
 
-del futuro. Es tu propia eleccin. Mantenla. Tu condenacin es tu propia
+del futuro. Es tu propia elección. Mantenla. Tu condenación es tu propia
 
-eleccin, no la de Dios; t la mereces con creces.
+elección, no la de Dios; tú la mereces con creces.
 
-Pero, dice alguien: Esa se arrepinti.
+Pero, dice alguien: “Esaú se arrepintió”.
 
-S, se arrepinti, pero qu tipo de arrepentimiento fue el suyo? Notaron
+Sí, se arrepintió, pero żqué tipo de arrepentimiento fue el suyo? żNotaron
 
-alguna vez su arrepentimiento? Todo hombre que se arrepiente y cree ser salvo.
+alguna vez su arrepentimiento? Todo hombre que se arrepiente y cree será salvo.
 
-Pero, qu tipo de arrepentimiento fue el suyo? Tan pronto descubri que su
+Pero, żqué tipo de arrepentimiento fue el suyo? Tan pronto descubrió que su
 
-hermano recibi la primogenitura, la busc de nuevo con arrepentimiento; la
+hermano recibió la primogenitura, la buscó de nuevo con arrepentimiento; la
 
-busc con lgrimas, pero no la recuper. Ustedes saben que l vendi su
+buscó con lágrimas, pero no la recuperó. Ustedes saben que él vendió su
 
-primogenitura por un guisado de lentejas; y pens que la recuperara dndole a
+primogenitura por un guisado de lentejas; y pensó que la recuperaría dándole a
 
-su padre un guiso rojo. Esto har dice- voy a salir a cazar un venado para
+su padre un guiso rojo. “Esto haré” –dice- “voy a salir a cazar un venado para
 
-mi padre. He ganado ascendencia sobre l con mis suculentas comidas, y l me
+mi padre. He ganado ascendencia sobre él con mis suculentas comidas, y él me
 
-regresar con gusto mi primogenitura. Eso es lo que dicen los pecadores: He
+regresará con gusto mi primogenitura”. Eso es lo que dicen los pecadores: “He
 
 perdido el cielo por mis malas obras; cuando me reforme, voy a recuperarlo
 
-fcilmente. Acaso no lo perd por el pecado? Voy a recuperarlo renunciando a
+fácilmente. żAcaso no lo perdí por el pecado? Voy a recuperarlo renunciando a
 
-mis pecados. He sido un borracho dice alguien- voy a renunciar a la bebida
+mis pecados”. “He sido un borracho” –dice alguien- “voy a renunciar a la bebida
 
-y ahora voy a ser un abstemio. Otro dice: he sido un terrible blasfemo; estoy
+y ahora voy a ser un abstemio”. Otro dice: “he sido un terrible blasfemo; estoy
 
-muy apenado por ello, en verdad; no voy a volver a blasfemar ms. As que todo
+muy apenado por ello, en verdad; no voy a volver a blasfemar más”. Así que todo
 
 lo que le da a su padre es un guisado de potaje, el mismo tipo de comida por la
 
-que vendi su primogenitura. No, pecador, podras vender el cielo por unos
+que vendió su primogenitura. No, pecador, podrías vender el cielo por unos
 
 cuantos placeres carnales, pero no puedes comprar el cielo renunciando
 
-simplemente a esos placeres. T puedes alcanzar el cielo nicamente sobre otra
+simplemente a esos placeres. Tú puedes alcanzar el cielo únicamente sobre otra
 
-base, es decir, sobre la base de la gracia inmerecida. T pierdes tu alma
+base, es decir, sobre la base de la gracia inmerecida. Tú pierdes tu alma
 
 justamente, pero no puedes recuperarla haciendo buenas obras o renunciando a
 
 tus pecados.
 
-T piensas que Esa fue un penitente
+Tú piensas que Esaú fue un penitente
 
-sincero. Slo permteme decirte otra cosa. Este bendito penitente, cuando no
+sincero. Sólo permíteme decirte otra cosa. Este bendito penitente, cuando no
 
-pudo recibir la bendicin, qu fue lo que dijo? Llegarn los das del luto de
+pudo recibir la bendición, żqué fue lo que dijo? “Llegarán los días del luto de
 
-mi padre, y yo matar a mi hermano Jacob. He ah tu penitente. Ese no es el
+mi padre, y yo mataré a mi hermano Jacob”. He ahí tu penitente. Ese no es el
 
-arrepentimiento que viene de Dios el Espritu Santo. Pero hay hombres que son
+arrepentimiento que viene de Dios el Espíritu Santo. Pero hay hombres que son
 
-as. Dicen que sienten mucho haber sido pecadores tan empedernidos, que sienten
+así. Dicen que sienten mucho haber sido pecadores tan empedernidos, que sienten
 
 mucho haber sido conducidos a un estado tan deplorable; y luego van y hacen lo
 
-mismo que hacan antes. Su penitencia no los saca de su pecado sino que los
+mismo que hacían antes. Su penitencia no los saca de su pecado sino que los
 
-deja en l, y, tal vez los hunda todava ms profundamente en la culpa.
+deja en él, y, tal vez los hunda todavía más profundamente en la culpa.
 
-Ahora vean el carcter de Esa. El nico
+Ahora vean el carácter de Esaú. El único
 
-rasgo rescatable en l fue que comenz con el arrepentimiento, pero ese arrepentimiento
+rasgo rescatable en él fue que comenzó con el arrepentimiento, pero ese arrepentimiento
 
-fue ms bien un agravamiento de su pecado, porque fue sin los efectos del
+fue más bien un agravamiento de su pecado, porque fue sin los efectos del
 
-arrepentimiento evanglico. Y yo digo que si Esa vendi su primogenitura,
+arrepentimiento evangélico. Y yo digo que si Esaú vendió su primogenitura,
 
-verdaderamente mereca perderla; y, por tanto, no tengo razn en decir que si
+verdaderamente merecía perderla; y, por tanto, żno tengo razón en decir que si
 
-Dios odi a Esa fue porque mereca ser odiado? Observan cmo
+Dios odió a Esaú fue porque merecía ser odiado? żObservan cómo
 
 la Escritura
 
 defiende
 
-siempre esa conclusin? Vayan al captulo noveno de
+siempre esa conclusión? Vayan al capítulo noveno de
 
 Romanos
 
 ,
 
-del cual hemos seleccionado nuestro texto, y vean cun cuidadoso es aqu el
+del cual hemos seleccionado nuestro texto, y vean cuán cuidadoso es aquí el
 
-Espritu Santo, en el versculo veintids. Y qu, si Dios, queriendo mostrar
+Espíritu Santo, en el versículo veintidós. “żY qué, si Dios, queriendo mostrar
 
-su ira y hacer notorio su poder, soport con mucha paciencia los vasos de ira
+su ira y hacer notorio su poder, soportó con mucha paciencia los vasos de ira
 
-preparados para destruccin, y para hacer notorias las riquezas de su gloria,
+preparados para destrucción, y para hacer notorias las riquezas de su gloria,
 
-las mostr para con los vasos de misericordia que l prepar de antemano para
+las mostró para con los vasos de misericordia que él preparó de antemano para
 
-gloria? Pero no dice nada respecto
+gloria?” Pero no dice nada respecto
 
 a
 
 preparar
 
-a los hombres para destruccin;
+a los hombres para destrucción;
 
 ellos mismos se prepararon.
 
@@ -1090,79 +1090,79 @@ lo
 
 hicieron; Dios no tuvo nada que ver con eso. Pero cuando los hombres son
 
-salvados, Dios los hace aptos para ello. En la salvacin toda la gloria es para
+salvados, Dios los hace aptos para ello. En la salvación toda la gloria es para
 
-Dios; toda la culpa es para el hombre en la condenacin.
+Dios; toda la culpa es para el hombre en la condenación.
 
-Si alguno de ustedes quisiera saber qu
+Si alguno de ustedes quisiera saber qué
 
-es lo que predico cada da, y algn extrao le dijera: Dame un resumen de su
+es lo que predico cada día, y algún extrańo le dijera: “Dame un resumen de su
 
-doctrina, dile esto: l predica que la salvacin es solo por gracia, y que la
+doctrina”, dile esto: “él predica que la salvación es solo por gracia, y que la
 
-condenacin es solo por el pecado. l le da a Dios toda la gloria por cada alma
+condenación es solo por el pecado. Él le da a Dios toda la gloria por cada alma
 
 que es salvada, pero no acepta que Dios deba ser culpado por cada ser humano
 
-que se condene. Yo no puedo entender esa enseanza. Mi alma se rebela ante la
+que se condene”. Yo no puedo entender esa enseńanza. Mi alma se rebela ante la
 
 idea de una doctrina que pone la sangre del alma del hombre a la puerta de
 
-Dios. No puedo concebir cmo unas mentes humanas, al menos unas mentes
+Dios. No puedo concebir cómo unas mentes humanas, al menos unas mentes
 
 cristianas, puedan sostener una blasfemia de ese tipo. Me deleito en predicar
 
-esta bendita verdad: la salvacin es de Dios, de principio a fin, el Alfa y
+esta bendita verdad: la salvación es de Dios, de principio a fin, el Alfa y
 
 la Omega
 
 ; pero cuando tengo que
 
-predicar la condenacin, digo: la condenacin es del hombre, no es de Dios; y
+predicar la condenación, digo: la condenación es del hombre, no es de Dios; y
 
-si t pereces, tu sangre ser demandada de tus propias manos. Hay otro pasaje.
+si tú pereces, tu sangre será demandada de tus propias manos. Hay otro pasaje.
 
-En el ltimo gran da, cuando todo el mundo se presente delante de Jess para
+En el último gran día, cuando todo el mundo se presente delante de Jesús para
 
-ser juzgado, han notado que cuando los justos pasan al lado derecho, Jess
+ser juzgado, żhan notado que cuando los justos pasan al lado derecho, Jesús
 
-dice: Venid benditos de mi Padre (de mi Padre, observen), heredad el reino
+dice: “Venid benditos de mi Padre (“de mi Padre”, observen), “heredad el reino
 
-preparado (observen la siguiente palabra)
+preparado” (observen la siguiente palabra)
 
-para
+“para
 
 vosotros
 
-desde la fundacin del mundo? Qu les dice a los de la
+desde la fundación del mundo”? żQué les dice a los de la
 
-izquierda? Apartaos de m, malditos. No les dice: malditos de mi Padre,
+izquierda? “Apartaos de mí, malditos”. No les dice: “malditos de mi Padre”,
 
-sino malditos. Y qu ms dice? Al fuego eterno preparado
+sino “malditos”. żY qué más dice? “Al fuego eterno preparado”
 
 (no para ustedes,
 
-sino) para el diablo
+sino) “para el diablo
 
-y sus ngeles. Ven con qu precisin ha sido expresado? He aqu la respuesta
+y sus ángeles”. żVen con qué precisión ha sido expresado? He aquí la respuesta
 
-en cuanto a la salvacin. Toda es de Dios. Venid, benditos de mi Padre. Es un
+en cuanto a la salvación. Toda es de Dios. “Venid, benditos de mi Padre”. Es un
 
-reino preparado para ellos. He ah la eleccin, la gracia inmerecida en toda su
+reino preparado para ellos. He ahí la elección, la gracia inmerecida en toda su
 
 longitud y su anchura. Pero, en cuanto al otro aspecto, no se dice nada acerca
 
-del padre, nada a ese respecto. Apartaos de m, malditos. Incluso no se dice
+del padre, nada a ese respecto. “Apartaos de mí, malditos”. Incluso no se dice
 
 que las llamas fueran preparadas para los pecadores, sino para el diablo y sus
 
-ngeles. No hay ningn lenguaje que yo pudiera concebir que pudiera expresar
+ángeles. No hay ningún lenguaje que yo pudiera concebir que pudiera expresar
 
-con mayor fuerza esta idea -suponiendo que sea la mente del Espritu Santo- que
+con mayor fuerza esta idea -suponiendo que sea la mente del Espíritu Santo- que
 
 la gloria sea de Dios y que la culpa sea atribuida al hombre.
 
-Entonces, no les he respondido
+Entonces, żno les he respondido
 
 honestamente ambas preguntas? He procurado aportar un argumento de
 
@@ -1170,13 +1170,13 @@ la Escritura
 
 para explicar
 
-los tratos de Dios con el hombre. l salva al hombre por gracia, y si los hombres
+los tratos de Dios con el hombre. Él salva al hombre por gracia, y si los hombres
 
-perecen, perecen justamente por su propia culpa. Cmo -pregunta alguien-
+perecen, perecen justamente por su propia culpa. “żCómo -pregunta alguien-
 
-reconcilias ambas doctrinas? Mis queridos hermanos, yo no reconcilio a dos
+“reconcilias ambas doctrinas?” Mis queridos hermanos, yo no reconcilio a dos
 
-amigos nunca. Ambas doctrinas son amigas entre s, pues ambas se encuentran en
+amigos nunca. Ambas doctrinas son amigas entre sí, pues ambas se encuentran en
 
 la Palabra
 
@@ -1184,11 +1184,11 @@ de Dios, y no voy
 
 a intentar reconciliarlas. Si ustedes me demuestran que son enemigas, entonces
 
-las voy a reconciliar. Pero dir alguien- contienen una gran dificultad. Me
+las voy a reconciliar. “Pero” –dirá alguien- “contienen una gran dificultad”. żMe
 
-podran decir cul verdad no contiene alguna dificultad? Pero dices- yo no
+podrían decir cuál verdad no contiene alguna dificultad? “Pero” –dices- “yo no
 
-la veo. Bien, yo no te pido que
+la veo”. Bien, yo no te pido que
 
 la
 
@@ -1198,37 +1198,37 @@ te pido que la creas. Hay muchas cosas en
 
 la Palabra
 
-de Dios que son difciles, y que no puedo
+de Dios que son difíciles, y que no puedo
 
-ver, pero estn all y yo las creo. Yo no puedo ver cmo Dios puede ser
+ver, pero están allí y yo las creo. Yo no puedo ver cómo Dios puede ser
 
-omnipotente y que el hombre sea libre; pero as es, y yo lo creo. Bien dice
+omnipotente y que el hombre sea libre; pero así es, y yo lo creo. “Bien” –dice
 
-alguien- yo no puedo entenderlo. Mi respuesta es: estoy obligado a
+alguien- “yo no puedo entenderlo”. Mi respuesta es: estoy obligado a
 
-presentarlo tan claramente como me sea posible, pero si t no tienes ningn
+presentarlo tan claramente como me sea posible, pero si tú no tienes ningún
 
-entendimiento, yo no puedo drtelo de ninguna manera; debo dejar ah las cosas.
+entendimiento, yo no puedo dártelo de ninguna manera; debo dejar ahí las cosas.
 
-Pero, adems, no se trata de entenderlo; se trata de creerlo. Estas dos cosas
+Pero, además, no se trata de entenderlo; se trata de creerlo. Estas dos cosas
 
 son verdaderas; yo no veo que difieran para nada. Sin embargo, aunque lo hicieran,
 
-ms bien, aunque dieran la impresin de contradecirse, realmente no se
+más bien, aunque dieran la impresión de contradecirse, realmente no se
 
 contradicen, porque Dios no se contradice nunca. Y yo pienso que en esto exhibo
 
 la solidez de mi fe en Dios: en que puedo creerle, aun cuando Su palabra
 
-parezca ser contradictoria. Eso es fe. No crey Abraham en Dios cuando la
+parezca ser contradictoria. Eso es fe. żNo creyó Abraham en Dios cuando la
 
-promesa de Dios pareca contradecir Su providencia? Abraham era anciano, y Sara
+promesa de Dios parecía contradecir Su providencia? Abraham era anciano, y Sara
 
-era anciana, pero Dios dijo que Sara tendra un hijo. Cmo podra suceder
+era anciana, pero Dios dijo que Sara tendría un hijo. żCómo podría suceder
 
-eso?, pregunt Abraham, pues Sara es ya anciana; y sin embargo, Abraham crey
+eso?, preguntó Abraham, pues Sara es ya anciana; y sin embargo, Abraham creyó
 
-la promesa, y Sara tuvo un hijo. Hubo una reconciliacin entre la providencia y
+la promesa, y Sara tuvo un hijo. Hubo una reconciliación entre la providencia y
 
 la promesa; y si Dios puede hacer que la providencia y la promesa se
 
@@ -1236,17 +1236,17 @@ encuentren, puede hacer que la doctrina y la promesa se encuentren. Aunque yo
 
 no pueda hacerlo, Dios puede hacerlo incluso en el mundo venidero.
 
-Ahora permtanme predicar esto de manera
+Ahora permítanme predicar esto de manera
 
-prctica por un minuto. Oh, pecadores, si ustedes perecen, sobre su propia
+práctica por un minuto. Oh, pecadores, si ustedes perecen, sobre su propia
 
-cabeza ha de ser su condenacin. La conciencia les dice eso, y
+cabeza ha de ser su condenación. La conciencia les dice eso, y
 
 la Palabra
 
 de Dios lo
 
-confirma. No sern capaces de poner su condenacin a la puerta de nadie excepto
+confirma. No serán capaces de poner su condenación a la puerta de nadie excepto
 
 a la de ustedes mismos. Si perecen, es porque cometen un suicidio. Ustedes son
 
@@ -1256,51 +1256,51 @@ primogenitura y la venden por ese miserable guisado de lentejas: los placeres
 
 del mundo. Es una doctrina que me emociona por entero. Como una espada de dos
 
-filos, quisiera que penetrara hasta partir las coyunturas y los tutanos. Si
+filos, quisiera que penetrara hasta partir las coyunturas y los tuétanos. Si
 
-son condenados ser por su propia culpa. Si van a dar al infierno, su sangre
+son condenados será por su propia culpa. Si van a dar al infierno, su sangre
 
-ser sobre su propia cabeza. Ustedes acarrearn la lea para su propia hoguera;
+será sobre su propia cabeza. Ustedes acarrearán la leńa para su propia hoguera;
 
-ustedes excavarn para extraer el hierro para fundir sus propias cadenas; y
+ustedes excavarán para extraer el hierro para fundir sus propias cadenas; y
 
-sobre su propia cabeza ser su condenacin. Pero si son salvos, no podra ser
+sobre su propia cabeza será su condenación. Pero si son salvos, no podría ser
 
-por sus mritos; tiene que ser por gracia, por gracia inmerecida y soberana.
+por sus méritos; tiene que ser por gracia, por gracia inmerecida y soberana.
 
 Se les predica el Evangelio; consiste en
 
-esto: Cree en el Seor Jesucristo, y sers salvo. Que la gracia les sea dada
+esto: “Cree en el Seńor Jesucristo, y serás salvo”. Que la gracia les sea dada
 
 ahora para que se sometan a este glorioso mandato. Han de creer ahora en Aquel
 
 que vino al mundo para salvar a los pecadores, de los cuales yo soy el primero.
 
-Gracia inmerecida, quin proclamar tus glorias? Quin narrar tus logros o
+Gracia inmerecida, żquién proclamará tus glorias? żQuién narrará tus logros o
 
-quin escribir tus victorias? T has llevado al suplantador Jacob a la gloria,
+quién escribirá tus victorias? Tú has llevado al suplantador Jacob a la gloria,
 
-y lo volviste blanco como los ngeles del cielo, y t transportars tambin a
+y lo volviste blanco como los ángeles del cielo, y tú transportarás también a
 
-muchos negros pecadores all y los hars gloriosos como los glorificados. Que
+muchos negros pecadores allá y los harás gloriosos como los glorificados. ˇQue
 
 Dios demuestre que esta doctrina es verdadera en la propia experiencia de ustedes!
 
-Si todava queda alguna dificultad en sus mentes acerca de cualquiera de estos
+Si todavía queda alguna dificultad en sus mentes acerca de cualquiera de estos
 
-puntos, escudrien
+puntos, escudrińen
 
 la Palabra
 
-de Dios, y busquen la iluminacin de Su Espritu para que les ensee. Pero
+de Dios, y busquen la iluminación de Su Espíritu para que les enseńe. Pero
 
-recuerden que, despus de todo, esos no son los puntos ms importantes de
+recuerden que, después de todo, esos no son los puntos más importantes de
 
 la Escritura.
 
 Lo
 
-que ms debe
+que más debe
 
 importarles es saber si
 
@@ -1308,31 +1308,31 @@ ustedes
 
 tienen
 
-un inters en la sangre de Cristo. Creer realmente en el Seor Jess. Yo he
+un interés en la sangre de Cristo. Creer realmente en el Seńor Jesús. Yo he
 
-tocado estos puntos bsicamente porque causan muchos conflictos a muchsima gente,
+tocado estos puntos básicamente porque causan muchos conflictos a muchísima gente,
 
-y pens que pudiera ser un instrumento de ayuda que les sirva a algunos de
+y pensé que pudiera ser un instrumento de ayuda que les sirva a algunos de
 
-ustedes para hollar el cuello del dragn. Que Dios nos conceda que as sea por
+ustedes para hollar el cuello del dragón. Que Dios nos conceda que así sea por
 
-Cristo nuestro Seor.
+Cristo nuestro Seńor.
 
 Notas
 
 del traductor:
 
-Cheln (de shilling). Moneda inglesa
+Chelín (de ‘shilling’). Moneda inglesa
 
-equivalente a la vigsima parte de una libra.
+equivalente a la vigésima parte de una libra.
 
-Hotentote (del holands hotentot,
+Hotentote (del holandés ‘hotentot’,
 
 tartamudo). Se aplica a los individuos de cierto pueblo de raza negra que vive
 
 cerca del cabo de Buena Esperanza.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 2/Mayo/2012
 

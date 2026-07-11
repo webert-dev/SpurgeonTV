@@ -1,16 +1,16 @@
 # Sermón 3218 | Sermón 3218
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Predicar a Cristo Crucificado
 
 NO. 3218
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 23 DE AGOSTO, 1863
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -18,105 +18,105 @@ Y PUBLICADO EL JUEVES
 
 6 DE OCTUBRE, 1910.
 
-Pero nosotros predicamos a Cristo
+“Pero nosotros predicamos a Cristo
 
-crucificado. 2 Corintios 1: 23.
+crucificado”. 2 Corintios 1: 23.
 
-En el versculo que precede a nuestro texto,
+En el versículo que precede a nuestro texto,
 
-Pablo escribe: Los judos piden seales. Decan: Moiss obr milagros; si
+Pablo escribe: “Los judíos piden seńales”. Decían: “Moisés obró milagros; si
 
-vemos que se obran milagros, entonces, creeremos, olvidando que todos los
+vemos que se obran milagros, entonces, creeremos”, olvidando que todos los
 
-portentos que obr Moiss fueron totalmente eclipsados por los milagros obrados
+portentos que obró Moisés fueron totalmente eclipsados por los milagros obrados
 
-por Jess en la carne, cuando estuvo en la tierra. Luego hubo ciertos maestros
+por Jesús en la carne, cuando estuvo en la tierra. Luego hubo ciertos maestros
 
-judaizantes que, para ganarse a los judos, predicaban la circuncisin,
+judaizantes que, para ganarse a los judíos, predicaban la circuncisión,
 
-exaltaban la pascua y procuraban demostrar que el judasmo poda existir al
+exaltaban la pascua y procuraban demostrar que el judaísmo podía existir al
 
-lado del cristianismo, y que los antiguos ritos podan ser practicados todava
+lado del cristianismo, y que los antiguos ritos podían ser practicados todavía
 
 por los
 
 seguidores
 
-de Cristo. Entonces, Pablo, que a
+de Cristo. Entonces, Pablo, ‘que a
 
-todos los hombres fue hecho de todo, para que de todos modos salvara a algunos,
+todos los hombres fue hecho de todo, para que de todos modos salvara a algunos’,
 
-tom una determinacin, y dijo, en efecto: Prescindiendo de lo que hagan
+tomó una determinación, y dijo, en efecto: “Prescindiendo de lo que hagan
 
-otros, nosotros predicamos a Cristo crucificado; y no nos atreveramos a
+otros, nosotros predicamos a Cristo crucificado; y no nos atreveríamos a
 
-alterar, ni podramos alterar, ni alteraramos el tema grandioso de nuestra
+alterar, ni podríamos alterar, ni alteraríamos el tema grandioso de nuestra
 
-predicacin, Jesucristo, y a ste crucificado.
+predicación, ‘Jesucristo, y a éste crucificado’.”
 
-Luego agreg: y los griegos buscan sabidura.
+Luego agregó: “y los griegos buscan sabiduría”.
 
 Corinto era el ojo mismo de Grecia, y los griegos de Corinto buscaban
 
-vidamente aquello que valoraban como la sabidura, es decir, la sabidura de
+ávidamente aquello que valoraban como la sabiduría, es decir, la sabiduría de
 
-este mundo, no la sabidura de Dios que Pablo predicaba. Los griegos atesoraban
+este mundo, no la sabiduría de Dios que Pablo predicaba. Los griegos atesoraban
 
-asimismo el recuerdo de la elocuencia de Demstenes y otros oradores famosos, y
+asimismo el recuerdo de la elocuencia de Demóstenes y otros oradores famosos, y
 
-pensaban que la verdadera sabidura deba ser proclamada con los adornos de una
+pensaban que la verdadera sabiduría debía ser proclamada con los adornos de una
 
-elocucin magistral; pero Pablo escribe a esos griegos de Corinto: Me propuse
+elocución magistral; pero Pablo escribe a esos griegos de Corinto: “Me propuse
 
-no saber entre vosotros cosa alguna sino a Jesucristo, y a ste crucificado y
+no saber entre vosotros cosa alguna sino a Jesucristo, y a éste crucificado… y
 
-ni mi palabra ni mi predicacin fue con palabras persuasivas de humana
+ni mi palabra ni mi predicación fue con palabras persuasivas de humana
 
-sabidura, sino con demostracin del Espritu y de poder, para que vuestra fe
+sabiduría, sino con demostración del Espíritu y de poder, para que vuestra fe
 
-no est fundada en la sabidura de los hombres, sino en el poder de Dios.
+no esté fundada en la sabiduría de los hombres, sino en el poder de Dios.”
 
-Hay algunas personas, en estos das, que se
+Hay algunas personas, en estos días, que se
 
-alegraran si nosotros predicramos cualquier cosa excepto a Cristo
+alegrarían si nosotros predicáramos cualquier cosa excepto a Cristo
 
-crucificado. Acaso los ms peligrosos de ellos sean los que piden a gritos una
+crucificado. Acaso los más peligrosos de ellos sean los que piden a gritos una
 
-predicacin intelectual, con lo que quieren decir, una predicacin que ni los
+predicación intelectual, con lo que quieren decir, una predicación que ni los
 
-oyentes ni los predicadores mismos puedan entender, el tipo de predicacin que
+oyentes ni los predicadores mismos puedan entender, el tipo de predicación que
 
-tiene poco o nada que ver con las Escrituras, y que requiere, para su explicacin,
+tiene poco o nada que ver con las Escrituras, y que requiere, para su explicación,
 
-ms bien de un diccionario que de una Biblia. Estas son las personas que
+más bien de un diccionario que de una Biblia. Estas son las personas que
 
-continuamente van de un lado a otro preguntando: Han escuchado a nuestro
+continuamente van de un lado a otro preguntando: “żHan escuchado a nuestro
 
-ministro? Nos dio un asombroso discurso el domingo pasado por la maana;
+ministro? Nos dio un asombroso discurso el domingo pasado por la mańana;
 
-mencion citas en hebreo, y en griego, y en latn, y recit trozos encantadores
+mencionó citas en hebreo, y en griego, y en latín, y recitó trozos encantadores
 
-de poesa; de hecho, fue en todo un festn intelectual.
+de poesía; de hecho, fue en todo un festín intelectual.”
 
-S, y yo he comprobado que, usualmente, esos
+Sí, y yo he comprobado que, usualmente, esos
 
 festines intelectuales conducen a la ruina de las almas; ese no es el tipo de
 
-predicacin que Dios bendice generalmente para la salvacin de las almas, y,
+predicación que Dios bendice generalmente para la salvación de las almas, y,
 
-entonces, aunque otros prediquen la filosofa de Platn, o adopten los
+entonces, aunque otros prediquen la filosofía de Platón, o adopten los
 
-argumentos de Aristteles, nosotros predicamos a Cristo crucificado, al
+argumentos de Aristóteles, “nosotros predicamos a Cristo crucificado”, al
 
-Cristo que muri por los pecadores, al Cristo del pueblo, y nosotros
+Cristo que murió por los pecadores, al Cristo del pueblo, y “nosotros
 
-predicamos a Cristo crucificado en un lenguaje sencillo y en un mensaje claro
+predicamos a Cristo crucificado” en un lenguaje sencillo y en un mensaje claro
 
-que la gente comn pueda entender.
+que la gente común pueda entender.
 
 Voy a procurar dar a nuestro texto una
 
-aplicacin prctica, dicindoles, primero,
+aplicación práctica, diciéndoles, primero,
 
 lo
 
@@ -126,23 +126,23 @@ en segundo lugar,
 
 a
 
-quines lo predicamos;
+quiénes lo predicamos;
 
 y, en tercer lugar,
 
-cmo lo predicamos.
+cómo lo predicamos.
 
 I.
 
 En primer lugar, LO QUE PREDICAMOS. Pablo es un
 
-modelo para todos los predicadores, y l dice: nosotros predicamos a Cristo
+modelo para todos los predicadores, y él dice: “nosotros predicamos a Cristo
 
-crucificado.
+crucificado.”
 
 Para poder predicar el Evangelio plenamente, debe
 
-haber una muy clara descripcin de
+haber una muy clara descripción de
 
 la
 
@@ -152,9 +152,9 @@ y nosotros predicamos a Cristo como Dios; no un hombre
 
 convertido en Dios, no un Dios degradado al nivel del hombre, no alguien entre
 
-un hombre y un Dios, sino Dios verdadero de Dios verdadero, uno con Su Padre
+un hombre y un Dios, sino “Dios verdadero de Dios verdadero”, uno con Su Padre
 
-en todos los atributos: eterno, que ni tiene principio de das, ni fin de vida;
+en todos los atributos: eterno, que ni tiene principio de días, ni fin de vida;
 
 omnipresente, llenando todo espacio; omnipotente, teniendo todo poder en el
 
@@ -166,137 +166,137 @@ y expresa imagen del Dios invisible. Si erramos en lo relativo a la Deidad de
 
 Cristo, erramos en todo. El evangelio que no revela al Salvador Divino no es un
 
-evangelio en absoluto. Es como un barco sin timn. El primer viento contrario
+evangelio en absoluto. Es como un barco sin timón. El primer viento contrario
 
-que sopla la encamina a la destruccin, y, ay de las almas que confan en l.
+que sopla la encamina a la destrucción, y, ay de las almas que confían en él.
 
 No hay hombros, excepto los hombros poderosos que sostienen las gigantescas
 
-columnas de la tierra que pudieran sostener jams el enorme peso de la culpa y la
+columnas de la tierra que pudieran sostener jamás el enorme peso de la culpa y la
 
-necesidad humanas. Nosotros les predicamos a Cristo, el Hijo de Mara, que una
+necesidad humanas. Nosotros les predicamos a Cristo, el Hijo de María, que una
 
-vez durmi en los brazos de Su madre, y, sin embargo, el Infinito, incluso
+vez durmió en los brazos de Su madre, y, sin embargo, el Infinito, incluso
 
-cuando era un infante; Cristo, el conocido Hijo de Jos, trabajando en el
+cuando era un infante; Cristo, el conocido Hijo de José, trabajando en el
 
-taller de carpintera, pero siendo todo el tiempo el Dios que hizo los cielos y
+taller de carpintería, pero siendo todo el tiempo el Dios que hizo los cielos y
 
-la tierra; Cristo, que no tena dnde recostar Su cabeza, despreciado y
+la tierra; Cristo, que no tenía dónde recostar Su cabeza, despreciado y
 
-rechazado entre los hombres, que es, sin embargo, Dios sobre todas las cosas,
+rechazado entre los hombres, que es, sin embargo, “Dios sobre todas las cosas,
 
-bendito por los siglos; Cristo clavado al madero maldito, sangrando por cada
+bendito por los siglos”; Cristo clavado al madero maldito, sangrando por cada
 
 uno de Sus poros, y muriendo en la cruz, y, sin embargo, viviendo para siempre;
 
-Cristo sufriendo agonas que son indescriptibles, pero siendo al mismo tiempo
+Cristo sufriendo agonías que son indescriptibles, pero siendo al mismo tiempo
 
 el Dios a cuya diestra hay placeres para siempre. Si Cristo no hubiese sido
 
-hombre, no habra podido identificarse ni con ustedes ni conmigo, ni habra
+hombre, no habría podido identificarse ni con ustedes ni conmigo, ni habría
 
-podido sufrir en lugar nuestro. Cmo hubiera podido ser la Cabeza del pacto de
+podido sufrir en lugar nuestro. żCómo hubiera podido ser la Cabeza del pacto de
 
-los hijos e hijas de Adn, si no hubiese sido hecho en todo segn la semejanza
+los hijos e hijas de Adán, si no hubiese sido hecho en todo según la semejanza
 
-de ellos, excepto que no tena pecado?
+de ellos, excepto que no tenía pecado?
 
-Con esa sola excepcin, l era tal como somos,
+Con esa sola excepción, Él era tal como somos,
 
 hueso de nuestros huesos y carne de nuestra carne, y, sin embargo, era tan
 
-verdaderamente Dios como era hombre, el Ser de quien Isaas fue inspirado a
+verdaderamente Dios como era hombre, el Ser de quien Isaías fue inspirado a
 
-profetizar: Se llamar su nombre Admirable, Consejero, Dios fuerte, Padre
+profetizar: “Se llamará su nombre Admirable, Consejero, Dios fuerte, Padre
 
-eterno, Prncipe de paz. Entonces, cuando predicamos a Cristo crucificado, predicamos
+eterno, Príncipe de paz.” Entonces, cuando predicamos a Cristo crucificado, predicamos
 
-la gloria del cielo conjuntamente con la belleza de la tierra, la perfeccin de
+la gloria del cielo conjuntamente con la belleza de la tierra, la perfección de
 
 la humanidad reunida con la gloria y la dignidad de la Deidad.
 
-A continuacin, debemos predicar muy claramente
+A continuación, debemos predicar muy claramente
 
 a Cristo como
 
-el Mesas, el Enviado de
+el Mesías, el Enviado de
 
 Dios.
 
-Desde mucho tiempo atrs, haba sido profetizado que un grandioso
+Desde mucho tiempo atrás, había sido profetizado que un grandioso
 
-Libertador deba venir, que sera: Luz para revelacin a los gentiles, y
+Libertador debía venir, que sería: “Luz para revelación a los gentiles”, y
 
-gloria de Su pueblo Israel, y Jess de Nazaret fue ese Libertador prometido, de
+gloria de Su pueblo Israel, y Jesús de Nazaret fue ese Libertador prometido, de
 
-quien, tanto Moiss en la ley como los profetas, escribieron. l fue enviado
+quien, tanto Moisés en la ley como los profetas, escribieron. Él fue enviado
 
-por Dios para ser el Salvador de los pecadores. No asumi este oficio sin
+por Dios para ser el Salvador de los pecadores. No asumió este oficio sin
 
-autoridad, sino que poda decir en verdad: He aqu que vengo, oh Dios, para
+autoridad, sino que podía decir en verdad: “He aquí que vengo, oh Dios, para
 
-hacer tu voluntad. l se convirti en el Sustituto de los pecadores, pero esto
+hacer tu voluntad.” Él se convirtió en el Sustituto de los pecadores, pero esto
 
-no sucedi accidentalmente, sino por un decreto divino, pues leemos: mas
+no sucedió accidentalmente, sino por un decreto divino, pues leemos: “mas
 
-Jehov carg en l el pecado de todos nosotros. Un sacerdote que no ha sido
+Jehová cargó en él el pecado de todos nosotros.” Un sacerdote que no ha sido
 
 ordenado, un profeta que no ha sido enviado por Dios, un rey sin la autoridad
 
-divina habra sido nicamente una burla; pero nuestro grandioso Sumo Sacerdote
+divina habría sido únicamente una burla; pero nuestro grandioso Sumo Sacerdote
 
 fue ungido divinamente, nuestro Profeta sin par fue enviado por Dios, y nuestro
 
-Rey es Rey de reyes y Seor de seores, que reina justamente como el Hijo
+Rey es Rey de reyes y Seńor de seńores, que reina justamente como el Hijo
 
 eterno del eterno Padre.
 
-Pecador, esta verdad, debera proporcionarte
+Pecador, esta verdad, debería proporcionarte
 
-esperanza y consuelo: el Cristo que predicamos es el Ungido del Seor; y lo que
+esperanza y consuelo: el Cristo que predicamos es el Ungido del Seńor; y lo que
 
-l hace, lo hace por decreto. Cuando l te dice: Venid a m todos los que
+Él hace, lo hace por decreto. Cuando Él te dice: “Venid a mí todos los que
 
-estis trabajados y cargados, y yo os har descansar, habla a nombre de Su
+estáis trabajados y cargados, y yo os haré descansar”, habla a nombre de Su
 
-Padre como tambin a nombre propio, pues tiene la garanta del Eterno que avala
+Padre como también a nombre propio, pues tiene la garantía del Eterno que avala
 
-Su declaracin. Por tanto, vengan confiadamente a l, y pongan Su confianza en
+Su declaración. Por tanto, vengan confiadamente a Él, y pongan Su confianza en
 
-l.
+Él.
 
 Una vez que el predicador ha puesto un
 
-fundamento bueno y slido por medio de la predicacin de la persona de Cristo y
+fundamento bueno y sólido por medio de la predicación de la persona de Cristo y
 
-la condicin de Mesas de Cristo, ha de continuar predicando
+la condición de Mesías de Cristo, ha de continuar predicando
 
 la obra de Cristo.
 
-Slo puedo
+Sólo puedo
 
-proporcionar un breve resumen de lo que tomara toda la eternidad para
+proporcionar un breve resumen de lo que tomaría toda la eternidad para
 
-explicarlo. Hemos de predicar de tal manera que mostremos cmo, en el pacto
+explicarlo. Hemos de predicar de tal manera que mostremos cómo, en el pacto
 
-eterno, Cristo tom el lugar de Fianza y Representante de Su pueblo; y cmo, en
+eterno, Cristo tomó el lugar de Fianza y Representante de Su pueblo; y cómo, en
 
-la plenitud del tiempo, sali de los palacios de mrmol llevando las vestiduras
+la plenitud del tiempo, salió de los palacios de mármol llevando las vestiduras
 
-de la carne; y, cmo cumpli primero una justicia activa por la perfecta
+de la carne; y, cómo cumplió primero una justicia activa por la perfecta
 
-obediencia de Su vida cotidiana, y al final cumpli una justicia pasiva por Sus
+obediencia de Su vida cotidiana, y al final cumplió una justicia pasiva por Sus
 
-sufrimientos y muerte en la cruz. Comenzando en la encarnacin, prosiguiendo a
+sufrimientos y muerte en la cruz. Comenzando en la encarnación, prosiguiendo a
 
-la obra grandiosa de la redencin, hablando de la sepultura de Cristo, de la
+la obra grandiosa de la redención, hablando de la sepultura de Cristo, de la
 
-resurreccin, ascensin, intercesin ante el trono de Su Padre y la gloriosa
+resurrección, ascensión, intercesión ante el trono de Su Padre y la gloriosa
 
-segunda venida, tenemos un tema que los ngeles muy bien podran codiciar, un
+segunda venida, tenemos un tema que los ángeles muy bien podrían codiciar, un
 
-tema que muy bien podra despertar la esperanza en el corazn del pecador.
+tema que muy bien podría despertar la esperanza en el corazón del pecador.
 
 Pero es especialmente
 
@@ -304,15 +304,15 @@ a Cristo crucificado
 
 a quien hemos de predicar. Sus heridas e
 
-hinchazones nos recuerdan que debemos decirles que Mas l herido fue por
+hinchazones nos recuerdan que debemos decirles que “Mas él herido fue por
 
 nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue
 
-sobre l, y por su llaga fuimos nosotros curados. La salvacin debe ser
+sobre él, y por su llaga fuimos nosotros curados.” La salvación debe ser
 
-encontrada en el Calvario, donde Jess inclin Su cabeza, y entreg Su
+encontrada en el Calvario, donde Jesús inclinó Su cabeza, y entregó Su
 
-espritu, venci a los poderes de las tinieblas y abri el reino de los cielos
+espíritu, venció a los poderes de las tinieblas y abrió el reino de los cielos
 
 a todos los creyentes.
 
@@ -320,19 +320,19 @@ Hay una palabra que todo verdadero siervo de
 
 Cristo debe ser capaz de explicar muy claramente; y esa palabra es:
 
-sustitucin. Yo creo que sustitucin es la palabra clave para toda la
+sustitución. Yo creo que ‘sustitución’ es la palabra clave para toda la
 
-teologa: Cristo ocupa el lugar de los pecadores, y es contado entre los
+teología: Cristo ocupa el lugar de los pecadores, y es contado entre los
 
 transgresores por causa de las transgresiones de ellos, no las Suyas propias;
 
 Cristo paga nuestras deudas y salda todos nuestros pasivos. Esta verdad implica,
 
-por supuesto, que nosotros tomamos el lugar de Cristo cuando l toma el
+por supuesto, que nosotros tomamos el lugar de Cristo cuando Él toma el
 
 nuestro, de tal forma que todos los creyentes son amados, aceptados, hechos
 
-herederos de Dios, y, en el tiempo sealado, son glorificados con Cristo para
+herederos de Dios, y, en el tiempo seńalado, son glorificados con Cristo para
 
 siempre.
 
@@ -342,11 +342,11 @@ hagan que sus oyentes entiendan siempre, claramente, que hay un Sustituto
 
 divino y suficiente en todo para los pecadores, y que, todos los que ponen su
 
-confianza en l, sern salvados eternamente.
+confianza en Él, serán salvados eternamente.
 
-Cuando predicamos as a Cristo, debemos predicar
+Cuando predicamos así a Cristo, debemos predicar
 
-tambin
+también
 
 Sus oficios.
 
@@ -364,93 +364,93 @@ de alabanza sobre Su cabeza real, y reclamando de Su pueblo la inalterable
 
 fidelidad y lealtad de sus corazones, y el servicio indiviso de sus vidas.
 
-Debemos predicar tambin
+Debemos predicar también
 
 los derechos de Cristo para Sus oficios.
 
-Es un Esposo? Debemos
+żEs un Esposo? Debemos
 
-decirle cun amoroso y cun tierno es. Es un Pastor? Debemos proclamar Su
+decirle cuán amoroso y cuán tierno es. żEs un Pastor? Debemos proclamar Su
 
 paciencia, Su poder, Su perseverancia, y debemos publicar, especialmente, Su
 
-abnegado amor demostrado al entregar Su vida por Sus ovejas. Es un Salvador?
+abnegado amor demostrado al entregar Su vida por Sus ovejas. żEs un Salvador?
 
-Debemos mostrar cmo l puede salvar perpetuamente a los que por l se acercan
+Debemos mostrar cómo Él puede salvar perpetuamente a los que por él se acercan
 
-a Dios. Debemos hablar mucho sobre la mansedumbre que no quiebra la caa
+a Dios. Debemos hablar mucho sobre la mansedumbre que no quiebra la cańa
 
-cascada, ni apaga el pbilo que humeare. Nos debe deleitar hablar de Cristo,
+cascada, ni apaga el pábilo que humeare. Nos debe deleitar hablar de Cristo,
 
-que se inclina hacia el hombre de quebrantado corazn y le sana las heridas, y
+que se inclina hacia el hombre de quebrantado corazón y le sana las heridas, y
 
-tiene Su odo abierto para el or el clamor de un espritu contrito. El
+tiene Su oído abierto para el oír el clamor de un espíritu contrito. El
 
-carcter de Cristo es el imn que atrae a los pecadores a S, y sobre este bendito
+carácter de Cristo es el imán que atrae a los pecadores a Sí, y sobre este bendito
 
-tema podra seguir hablando sin cesar.
+tema podría seguir hablando sin cesar.
 
-Cuando, en una ocasin, Rutherford estaba
+Cuando, en una ocasión, Rutherford estaba
 
 hablando de las bellezas del Cristo a quien amamos tan encarecidamente, uno de
 
-sus oyentes se vio constreido a gritar: Vamos, hombre, tienes el tono
+sus oyentes se vio constreńido a gritar: “Vamos, hombre, tienes el tono
 
-correcto, sigue as; y, en verdad, este es un tema que podra inducir al
+correcto, sigue así”; y, en verdad, este es un tema que podría inducir al
 
 tartamudo a hablar con poder, y hacer que el propio mudo fuera elocuente por
 
 Cristo.
 
-Oh, cun glorioso es nuestro bendito Seor!
+ˇOh, cuán glorioso es nuestro bendito Seńor!
 
-Podemos decir muy bien con la esposa: Todo l es codiciable. No podemos
+Podemos decir muy bien con la esposa: “Todo él es codiciable.” No podemos
 
 exagerar Sus excelencias y encantos, y nuestra meta constante ha de ser pintar
 
-tal retrato de l que los pecadores se enamoren de l, y confen en l para ser
+tal retrato de Él que los pecadores se enamoren de Él, y confíen en Él para ser
 
-salvados con Su grandiosa salvacin.
+salvados con Su grandiosa salvación.
 
-Debemos hacernos el propsito de predicar
+Debemos hacernos el propósito de predicar
 
 siempre a Cristo como
 
-la nica esperanza
+la única esperanza
 
 del pecador.
 
-En tiempos antiguos, haba ciertas personas ingenuas que
+En tiempos antiguos, había ciertas personas ingenuas que
 
-pretendan encontrar un remedio universal para todas las enfermedades, una
+pretendían encontrar un remedio universal para todas las enfermedades, una
 
-panacea; pero su bsqueda fue en vano. Todos los anuncios de medicinas de
+panacea; pero su búsqueda fue en vano. Todos los anuncios de medicinas de
 
-curanderos que pudieran engaar a la gente ingenua, no convencern nunca a la
+curanderos que pudieran engańar a la gente ingenua, no convencerán nunca a la
 
-gente juiciosa de que se descubri o ser descubierta jams una panacea para
+gente juiciosa de que se descubrió o será descubierta jamás una panacea para
 
 todas las enfermedades heredadas por la carne. Sin embargo, hay un remedio
 
 universal para las enfermedades del alma, y ese remedio universal es Cristo.
 
-Cualquiera que sea tu enfermedad: la furibunda fiebre de la lujuria, la trmula
+Cualquiera que sea tu enfermedad: la furibunda fiebre de la lujuria, la trémula
 
-calentura intermitente de las dudas y temores o la feroz destruccin de la
+calentura intermitente de las dudas y temores o la feroz destrucción de la
 
-desesperacin, Jesucristo puede sanarte. Sin importar la forma que pueda tomar
+desesperación, Jesucristo puede sanarte. Sin importar la forma que pueda tomar
 
-el pecado -ya fuera un ojo ciego, o un odo sordo, o el duro corazn de piedra,
+el pecado -ya fuera un ojo ciego, o un oído sordo, o el duro corazón de piedra,
 
-o una conciencia embotada y cauterizada- hay una medicina en las venas de Jess
+o una conciencia embotada y cauterizada- hay una medicina en las venas de Jesús
 
-que muy bien podramos llamar el divino curalotodo. Ningn caso sometido
+que muy bien podríamos llamar el ‘divino curalotodo’. Ningún caso sometido
 
-alguna vez a Cristo ha desconcertado Su habilidad, y l es an grande para
+alguna vez a Cristo ha desconcertado Su habilidad, y Él es aún “grande para
 
-salvar. Debemos ser muy claros en decirle al pecador que no hay esperanza para
+salvar”. Debemos ser muy claros en decirle al pecador que no hay esperanza para
 
-l en ninguna parte excepto en Cristo. Nueve de diez de las flechas que estn
+él en ninguna parte excepto en Cristo. Nueve de diez de las flechas que están
 
 en la aljaba de un ministro deben ser
 
@@ -458,119 +458,119 @@ disparadas
 
 contra las buenas obras del pecador, pues estas son sus peores enemigos. Esas
 
-obras de muerte que necesitan ser arrojadas a los pies de Jess, -ese
+“obras de muerte” que necesitan ser arrojadas “a los pies de Jesús”, -ese
 
-procurar ser o sentir algo para poder salvarse a s mismos-, esa es la maldicin
+procurar ser o sentir algo para poder salvarse a sí mismos-, esa es la maldición
 
 de muchos.
 
 Oh, pecador, aunque desde la coronilla de tu
 
-cabeza hasta la planta de tus pies no haya una parte sana en ti, y slo ests
+cabeza hasta la planta de tus pies no haya una parte sana en ti, y sólo estés
 
-lleno de heridas y contusiones y de llagas putrefactas, si crees en Jess, l sanar
+lleno de heridas y contusiones y de llagas putrefactas, si crees en Jesús, Él sanará
 
-cada partcula de tu ser, y proseguirs tu camino como un pecador salvado por
+cada partícula de tu ser, y proseguirás tu camino como un pecador salvado por
 
 la gracia.
 
-Debemos predicar tambin a Cristo como
+Debemos predicar también a Cristo como
 
-el nico deleite del cristiano.
+el único deleite del cristiano.
 
-Necesitbamos
+Necesitábamos
 
-a Cristo como un salvavidas cuando nos estbamos hundiendo en las olas del
+a Cristo como un salvavidas cuando nos estábamos hundiendo en las olas del
 
 pecado, pero ahora que nos ha puesto a salvo en tierra, necesitamos que sea
 
-nuestro alimento y nuestra bebida. Cuando estbamos enfermos por medio del
+nuestro alimento y nuestra bebida. Cuando estábamos enfermos por medio del
 
-pecado, necesitbamos a Cristo como nuestra medicina; pero ahora que ha
+pecado, necesitábamos a Cristo como nuestra medicina; pero ahora que ha
 
 restaurado nuestra alma, le necesitamos como nuestro sustento continuo. No hay
 
 ninguna carencia que pudiera experimentar un cristiano que Cristo no pueda
 
-suplir, y no hay nada en Cristo que no sea til para un cristiano. Ustedes
+suplir, y no hay nada en Cristo que no sea útil para un cristiano. Ustedes
 
 saben que algunas cosas que poseemos son buenas, pero no todas son
 
-completamente tiles para nosotros. Por ejemplo, la fruta es buena, pero tiene
+completamente útiles para nosotros. Por ejemplo, la fruta es buena, pero tiene
 
-una cscara que ha de ser mondada, y una semilla que ha de ser desechada; pero
+una cáscara que ha de ser mondada, y una semilla que ha de ser desechada; pero
 
 cuando Cristo se da a nosotros, podemos tomarlo todo, y gozarlo para deleite de
 
-nuestro corazn. Todo lo que Cristo es, y todo lo que Cristo tiene, es nuestro.
+nuestro corazón. Todo lo que Cristo es, y todo lo que Cristo tiene, es nuestro.
 
 Por tanto, cristiano, haz un pacto con tu mano,
 
-de que te asirs de la cruz de Cristo para que sea tu nica confianza; haz un
+de que te asirás de la cruz de Cristo para que sea tu única confianza; haz un
 
-pacto con tus ojos, de que no buscars la luz en ninguna otra parte excepto en
+pacto con tus ojos, de que no buscarás la luz en ninguna otra parte excepto en
 
-el Sol de justicia; haz un pacto con tu ser entero, de que ser crucificado con
+el Sol de justicia; haz un pacto con tu ser entero, de que será crucificado con
 
-Cristo, y luego ser llevado al cielo para vivir y reinar con l eternamente.
+Cristo, y luego será llevado al cielo para vivir y reinar con él eternamente.
 
-S, esta ha de ser la expresin de tu corazn:
+Sí, esta ha de ser la expresión de tu corazón:
 
-T, oh
+“Tú, oh
 
-Cristo, T eres todo lo que necesito,
+Cristo, Tú eres todo lo que necesito,
 
 Lo que
 
-encuentro en Ti no tiene lmites.
+encuentro en Ti no tiene límites.”
 
 II.
 
-Ahora, en segundo lugar, A QUIN DEBEMOS
+Ahora, en segundo lugar, żA QUIÉN DEBEMOS
 
 PREDICAR ESTO?
 
-Posiblemente algn hermano diga: debes predicar
+Posiblemente algún hermano diga: “debes predicar
 
-a Cristo a los elegidos. Pero, cmo podramos saber quines son los elegidos?
+a Cristo a los elegidos.” Pero, żcómo podríamos saber quiénes son los elegidos?
 
-Le un sermn, hace algn tiempo, en el que el ministro deca: he estado
+Leí un sermón, hace algún tiempo, en el que el ministro decía: “he estado
 
-predicando a los vivos en Sion; el resto de ustedes est muerto, y no tengo
+predicando a los vivos en Sion; el resto de ustedes está muerto, y no tengo
 
-nada que decirles a ustedes. La eleccin lo ha logrado pero el resto est
+nada que decirles a ustedes. La elección lo ha logrado pero el resto está
 
-enceguecido. Los predicadores de ese tipo tienen vida, para predicarla a los
+enceguecido.” Los predicadores de ese tipo tienen vida, para predicarla a los
 
-vivos, y medicina, para prescribirla a quienes estn sanos, pero de qu sirve
+vivos, y medicina, para prescribirla a quienes están sanos, pero żde qué sirve
 
-eso? Imaginen a Pedro ponindose de pie con los once, el da de Pentecosts, y
+eso? Imaginen a Pedro poniéndose de pie con los once, el día de Pentecostés, y
 
-dicindole a la multitud congregada alrededor de ellos: yo no s cuntos de
+diciéndole a la multitud congregada alrededor de ellos: “yo no sé cuántos de
 
-los que estn aqu son elegidos, pero he de decirles que la eleccin lo ha
+los que están aquí son elegidos, pero he de decirles que la elección lo ha
 
-logrado, y el resto est enceguecido. Cuntos habran sido convertidos y
+logrado, y el resto está enceguecido.” żCuántos habrían sido convertidos y
 
-agregados a la iglesia por medio de un mensaje como se? Ahora, Pedro estaba en
+agregados a la iglesia por medio de un mensaje como ése? Ahora, Pedro estaba en
 
-aquel momento lleno del Espritu Santo, y fue por inspiracin divina que
+aquel momento lleno del Espíritu Santo, y fue por inspiración divina que
 
-predic a Cristo crucificado a toda aquella mezclada multitud; y, entonces
+predicó a Cristo crucificado a toda aquella mezclada multitud; y, entonces
 
-cuando se compungieron de corazn, y preguntaron: Varones hermanos, qu
+cuando se compungieron de corazón, y preguntaron: “Varones hermanos, żqué
 
-haremos?, Pedro estaba igualmente inspirado cuando respondi: Arrepentos, y
+haremos?, Pedro estaba igualmente inspirado cuando respondió: “Arrepentíos, y
 
-bautcese cada uno de vosotros en el nombre de Jesucristo para perdn de los
+bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los
 
-pecados; y recibiris el don del Espritu Santo.
+pecados; y recibiréis el don del Espíritu Santo”.
 
 Yo pretendo hacer lo que Pedro hizo, pues considero
 
-que la comisin de Cristo para Sus discpulos es obligatoria para nosotros hoy:
+que la comisión de Cristo para Sus discípulos es obligatoria para nosotros hoy:
 
-Id por todo el mundo y
+“Id por todo el mundo y
 
 predicad el
 
@@ -580,23 +580,23 @@ Yo no puedo saber si toda criatura a la que
 
 predico es elegida o no, pero mi oficio consiste en predicar el Evangelio a
 
-todos los que me encuentro, teniendo la garanta de que todos aquellos a
+todos los que me encuentro, teniendo la garantía de que todos aquellos a
 
-quienes Dios ha elegido para vida eterna, ciertamente la aceptarn.
+quienes Dios ha elegido para vida eterna, ciertamente la aceptarán.
 
-Cuando un cierto clrigo le pregunt al Duque de
+Cuando un cierto clérigo le preguntó al Duque de
 
-Wellington: Piensa, su gracia, que sirve de algo predicar el Evangelio a los
+Wellington: “żPiensa, su gracia, que sirve de algo predicar el Evangelio a los
 
-hindes?, l simplemente respondi: Cules son tus rdenes de marcha? Como
+hindúes?”, él simplemente respondió: “żCuáles son tus órdenes de marcha?” Como
 
-soldado, l crea en obedecer rdenes; y cuando el clrigo le respondi que las
+soldado, él creía en obedecer órdenes; y cuando el clérigo le respondió que las
 
-rdenes eran: Predicad el evangelio a toda criatura, el duque replic:
+órdenes eran: “Predicad el evangelio a toda criatura”, el duque replicó:
 
-Entonces tu deber es muy claro; obedece las rdenes de tu Seor, y no debes
+“Entonces tu deber es muy claro; obedece las órdenes de tu Seńor, y no debes
 
-preocuparte por la opinin de alguien ms.
+preocuparte por la opinión de alguien más”.
 
 El principal oficio de un verdadero ministro es
 
@@ -604,27 +604,27 @@ predicar el Evangelio a los pecadores,
 
 y
 
-nunca est tan contento como cuando les est predicando a quienes se reconocen
+nunca está tan contento como cuando les está predicando a quienes se reconocen
 
-pecadores. Cuando les est predicando a los que tienen justicia propia, tiene
+pecadores. Cuando les está predicando a los que tienen justicia propia, tiene
 
-grandes problemas en cuanto a los efectos del mensaje, pues teme que podra
+grandes problemas en cuanto a los efectos del mensaje, pues teme que podría
 
-resultar ser olor de muerte para muerte para ellos; pero cuando se rene con
+resultar ser olor de muerte para muerte para ellos; pero cuando se reúne con
 
-aquellos que confiesan, llenos de afliccin, que son culpables, y que estn
+aquellos que confiesan, llenos de aflicción, que son culpables, y que están
 
 perdidos y arruinados, entonces se deleita en la esperanza de resultados
 
-bendecidos provenientes de su predicacin. Siente que ahora est entre peces
+bendecidos provenientes de su predicación. Siente que ahora está entre peces
 
-que picarn la carnada, as que tira el sedal en el ro, y pronto experimenta
+que picarán la carnada, así que tira el sedal en el río, y pronto experimenta
 
-el gozo de sacar a tierra muchos peces. Sabe que el pan es siempre mucho ms
+el gozo de sacar a tierra muchos peces. Sabe que el pan es siempre mucho más
 
-delicioso para los hambrientos, y que incluso la medicina amarga ser tragada
+delicioso para los hambrientos, y que incluso la medicina amarga será tragada
 
-vidamente por el hombre que est muy enfermo y anhela ser curado. Entiende que
+ávidamente por el hombre que está muy enfermo y anhela ser curado. Entiende que
 
 son los desnudos quienes necesitan ser vestidos, y quienes no tienen dinero son
 
@@ -634,19 +634,19 @@ Oh, pecadores, si ustedes se dan cuenta de que
 
 son viles e inmundos, repletos de toda forma de mal, que no cuentan con nada
 
-propio que sea digno de ser llamado bueno, y si estn anhelando ser liberados
+propio que sea digno de ser llamado bueno, y si están anhelando ser liberados
 
 del mal de todo tipo, y ser hechos santos como Dios es santo, me alegra que mi
 
-Seor me haya dado en Su Palabra un mensaje como ste para ustedes: Si
+Seńor me haya dado en Su Palabra un mensaje como éste para ustedes: “Si
 
-confesamos nuestros pecados, l es fiel y justo para perdonar nuestros pecados,
+confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados,
 
-y limpiarnos de toda maldad.
+y limpiarnos de toda maldad.”
 
-Aun as, un verdadero ministro de Cristo no
+Aun así, un verdadero ministro de Cristo no
 
-limita su predicacin a los pecadores que estn persuadidos de su culpa, sino
+limita su predicación a los pecadores que están persuadidos de su culpa, sino
 
 que
 
@@ -654,37 +654,37 @@ predica el Evangelio a pecadores de
 
 cualquier edad.
 
-A los menores, cuyas vidas no han sido manchadas todava
+A los menores, cuyas vidas no han sido manchadas todavía
 
 por los vicios de la edad, les predica a Cristo crucificado como el Salvador de
 
-los nios, y se alegra en verdad, cuando los muchachos y muchachas confan en
+los nińos, y se alegra en verdad, cuando los muchachos y muchachas confían en
 
-Jess, y son salvados. A ustedes, que han alcanzado la mitad de la vida, les
+Jesús, y son salvados. A ustedes, que han alcanzado la mitad de la vida, les
 
-predica a Cristo crucificado como el blsamo que cura toda herida, el cordial
+predica a Cristo crucificado como el bálsamo que cura toda herida, el cordial
 
-usado para toda preocupacin, y queda agradecido cuando ustedes son salvados
+usado para toda preocupación, y queda agradecido cuando ustedes son salvados
 
-tambin por la gracia por medio de la fe en Jess. A los ancianos y a los que
+también por la gracia por medio de la fe en Jesús. A los ancianos y a los que
 
-tienen grises sus cabellos, a los decrpitos, a quienes estn al propio borde de
+tienen grises sus cabellos, a los decrépitos, a quienes están al propio borde de
 
 la tumba, les predica a Cristo crucificado; si pudiese encontrar un pecador que
 
-hubiere alcanzado la edad de Matusaln, todava le predicara el mismo
+hubiere alcanzado la edad de Matusalén, todavía le predicaría el mismo
 
-Evangelio, pues sabe que no hay ningn Salvador excepto el Cristo crucificado
+Evangelio, pues sabe que no hay ningún Salvador excepto el Cristo crucificado
 
-del Calvario, y sabe tambin que, sean viejos o jvenes, o ni viejos ni
+del Calvario, y sabe también que, sean viejos o jóvenes, o ni viejos ni
 
-jvenes, todos los que confan en l, son salvados inmediatamente y salvados
+jóvenes, todos los que confían en Él, son salvados inmediatamente y salvados
 
 para siempre.
 
 Y a la vez que predica a Cristo a los pecadores
 
-de todas las edades, l tambin
+de todas las edades, él también
 
 predica a
 
@@ -694,17 +694,17 @@ pecadores de todos los
 
 rangos.
 
-Para las reinas y los prncipes y los nobles no tiene nada mejor
+Para las reinas y los príncipes y los nobles no tiene nada mejor
 
 que predicar que Cristo, y no tiene nada menos que Cristo para predicarles a
 
 los campesinos y artesanos, o a los indigentes; Cristo crucificado para los
 
-hombres de letras y erudicin, y Cristo crucificado, igualmente, para los
+hombres de letras y erudición, y Cristo crucificado, igualmente, para los
 
 ignorantes y los analfabetas.
 
-l tambin
+Él también
 
 predica
 
@@ -714,69 +714,69 @@ incluso a los ateos, al hombre que
 
 dice que no hay Dios, y lo exhorta a que crea y viva. Predica de Cristo a los
 
-hombres abiertamente profanos; cuando hacen una pausa momentnea en sus
+hombres abiertamente profanos; cuando hacen una pausa momentánea en sus
 
-blasfemias, les habla de ese grandioso juramento que Dios ha jurado: Vivo yo,
+blasfemias, les habla de ese grandioso juramento que Dios ha jurado: “Vivo yo,
 
-dice Jehov el Seor, que no quiero la muerte del impo, sino que se vuelva el
+dice Jehová el Seńor, que no quiero la muerte del impío, sino que se vuelva el
 
-impo de su camino, y que viva. Nosotros predicamos a Cristo a las rameras en
+impío de su camino, y que viva.” Nosotros predicamos a Cristo a las rameras en
 
-las calles; y, oh, cun gozosamente muchas de ellas le recibieron, y cun
+las calles; y, ˇoh, cuán gozosamente muchas de ellas le recibieron, y cuán
 
 alegremente han encontrado limpieza de sus inmundas manchas en la preciosa
 
-sangre de Jess! Predicamos a Cristo al borracho, pues nosotros creemos que
+sangre de Jesús! Predicamos a Cristo al borracho, pues nosotros creemos que
 
-nada, salvo la gracia de Dios, puede rescatarle de su degradacin y pecado, y
+nada, salvo la gracia de Dios, puede rescatarle de su degradación y pecado, y
 
 hemos visto muchos pecadores de ese tipo que han sido recuperados por el
 
 Evangelio.
 
-La predicacin de Cristo crucificado, el izamiento
+La predicación de Cristo crucificado, el izamiento
 
-del Hijo de Dios agonizante como Moiss levant la serpiente en el desierto,
+del Hijo de Dios agonizante “como Moisés levantó la serpiente en el desierto”,
 
 tiene el poder suficiente para trastornar al mundo entero, y para convertir en
 
-santos a los pecadores, por tanto, tenemos la intencin de continuar
+santos a los pecadores, por tanto, tenemos la intención de continuar
 
 predicando a Cristo a todos los pecadores de
 
 todo tipo.
 
-No tenemos la intencin de dejar fuera a nadie, ni siquiera
+No tenemos la intención de dejar fuera a nadie, ni siquiera
 
 a ti,
 
-amigo mo, que piensas que has
+amigo mío, que piensas que has
 
-sido dejado fuera, o que deberas ser dejado fuera. Sabemos que hay un libro de
+sido dejado fuera, o que deberías ser dejado fuera. Sabemos que hay un libro de
 
-la vida delante del trono de Dios, y que no pueden ser escritos ms nombres en
+la vida delante del trono de Dios, y que no pueden ser escritos más nombres en
 
-l; todos fueron registrados antes de la fundacin del mundo, cuando el Padre
+él; todos fueron registrados antes de la fundación del mundo, cuando el Padre
 
 le dio a Cristo aquellos que han de ser eternamente suyos. Nosotros no podemos
 
-remontarnos al cielo para leer los nombres de los redimidos que estn escritos
+remontarnos al cielo para leer los nombres de los redimidos que están escritos
 
-all, pero creemos que la lista contiene millones y millones de nombres de
+allí, pero creemos que la lista contiene millones y millones de nombres de
 
-aquellos que todava no han confiado en Cristo, por lo que tenemos la intencin
+aquellos que todavía no han confiado en Cristo, por lo que tenemos la intención
 
-de seguir predicando de Cristo a los pecadores de toda edad, de toda condicin,
+de seguir predicando de Cristo a los pecadores de toda edad, de toda condición,
 
-de todo tipo, de todo grado de negrura y vileza, y creemos que an hay lugar,
+de todo tipo, de todo grado de negrura y vileza, y creemos que “aún hay lugar”,
 
-que an hay misericordia para el miserable, que an hay perdn para el culpable
+que aún hay misericordia para el miserable, que aún hay perdón para el culpable
 
-que venga y confe en Jesucristo, y en l crucificado.
+que venga y confíe en Jesucristo, y en Él crucificado.
 
 III.
 
-Ahora, por ltimo, CMO DEBEMOS PREDICAR A
+Ahora, por último, żCÓMO DEBEMOS PREDICAR A
 
 CRISTO CRUCIFICADO?
 
@@ -786,29 +786,29 @@ muy valerosamente.
 
 Recuerdo a un joven
 
-que subi a un plpito, para dirigirse a una pequea congregacin, y comenz
+que subió a un púlpito, para dirigirse a una pequeńa congregación, y comenzó
 
 diciendo que esperaba que perdonaran su juventud, y que excusaran su
 
-impertinencia al venir a hablarles. Algn viejo caballero insensato dijo:
+impertinencia al venir a hablarles. Algún viejo caballero insensato dijo:
 
-cun humilde es ese joven, ya que habla as!, pero otro, que era ms sabio
+“ˇcuán humilde es ese joven, ya que habla así!”, pero otro, que era más sabio
 
-que l, aunque era ms joven, dijo: Qu deshonra para su Seor y Maestro! Si Dios
+que él, aunque era más joven, dijo: “ˇQué deshonra para su Seńor y Maestro! Si Dios
 
-le envi con un mensaje para esas personas, qu importa que sea joven o sea
+le envió con un mensaje para esas personas, ˇqué importa que sea joven o sea
 
-viejo! Una modestia fingida como esa est fuera de lugar en el plpito. Yo
+viejo! Una modestia fingida como esa está fuera de lugar en el púlpito.” Yo
 
 pienso que el segundo hombre estaba en lo correcto, y que el primero estaba
 
 equivocado. Un verdadero ministro del Evangelio es un embajador de Cristo, y
 
-acaso nuestros embajadores van a las cortes extranjeras con disculpas por
+żacaso nuestros embajadores van a las cortes extranjeras con disculpas por
 
-llevar mensajes de su soberano? Sera un grave insulto para la corona de esos
+llevar mensajes de su soberano? Sería un grave insulto para la corona de esos
 
-reinos si ellos mostraran una humildad as en su capacidad oficial.
+reinos si ellos mostraran una humildad así en su capacidad oficial.
 
 Los ministros del Evangelio deben guardar su
 
@@ -816,105 +816,115 @@ modestia para otras ocasiones, cuando deba ser manifestada, pero no deben
 
 deshonrar a su Maestro ni desacreditar Su mensaje como lo hizo aquel joven
 
-necio. Cuando predicamos a Cristo crucificado, no tenemos ninguna razn para
+necio. Cuando predicamos a Cristo crucificado, no tenemos ninguna razón para
 
 tartamudear, o balbucear, o dudar, o disculparnos; no hay nada en el Evangelio
 
-de lo que tengamos un motivo para avergonzarnos. Si un ministro no est seguro
+de lo que tengamos un motivo para avergonzarnos. Si un ministro no está seguro
 
-acerca de su mensaje, que se quede callado hasta que est seguro acerca de l;
+acerca de su mensaje, que se quede callado hasta que esté seguro acerca de él;
 
-pero nosotros creemos, y, por tanto, hablamos con el acento de la conviccin.
+pero nosotros creemos, y, por tanto, hablamos con el acento de la convicción.
 
-Si no he probado el poder del Evangelio en mi propio corazn y en mi vida, soy
+Si no he probado el poder del Evangelio en mi propio corazón y en mi vida, soy
 
-un vil impostor al estar en este plpito para predicar ese Evangelio a otras personas;
+un vil impostor al estar en este púlpito para predicar ese Evangelio a otras personas;
 
-pero como yo s con toda seguridad que soy salvo por la gracia por medio de la
+pero como yo sé con toda seguridad que soy salvo por la gracia por medio de la
 
 fe en Jesucristo, y como tengo la certeza de que he sido llamado divinamente a
 
 predicar Su Evangelio:
 
+“
+
+ż
+
 Acaso por miedo al hombre enclenque,
 
-Restringir
+Restringiré
 
-el curso del Espritu en m
+el curso del Espíritu en mí
 
 ?
+
+”
+
+ż
 
 O, sin
 
 desfallecer en obras ni palabras,
 
-Ser un
+Seré un
 
-verdadero testigo para mi Seor
+verdadero testigo para mi Seńor
 
 ?
 
+”
+
 Pero a la vez que predicamos a Cristo
 
-valerosamente, tambin hemos de predicarle
+valerosamente, también hemos de predicarle
 
 afectuosamente.
 
-Ha de haber un grande amor en nuestra proclamacin de la verdad. No debemos
+Ha de haber un grande amor en nuestra proclamación de la verdad. No debemos
 
-dudar de sealar a los pecadores el estado de ruina a la que los ha llevado el
+dudar de seńalar a los pecadores el estado de ruina a la que los ha llevado el
 
 pecado, y debemos exponerles claramente el remedio divinamente prescrito; pero
 
 hemos de combinar la ternura de una madre con la severidad de un padre. Pablo
 
-pareca tanto una madre como un padre, en un sentido espiritual, en su
+parecía tanto una madre como un padre, en un sentido espiritual, en su
 
-ministerio. Escribi a los glatas: Hijitos mos, por quienes vuelvo a sufrir
+ministerio. Escribió a los gálatas: “Hijitos míos, por quienes vuelvo a sufrir
 
-dolores de parto, hasta que Cristo sea formado en vosotros; y a los de Corinto
+dolores de parto, hasta que Cristo sea formado en vosotros”; y a los de Corinto
 
-escribi: en Cristo Jess yo os engendr por medio del evangelio; y todo
+escribió: “en Cristo Jesús yo os engendré por medio del evangelio”; y todo
 
-verdadero ministro de Cristo, a su medida, puede identificarse con l en esas
+verdadero ministro de Cristo, a su medida, puede identificarse con él en esas
 
-dos experiencias. S, pecadores, en verdad, nosotros les amamos; con
+dos experiencias. Sí, pecadores, en verdad, nosotros les amamos; con
 
-frecuencia, nuestro corazn est a punto de ser quebrantado por el anhelo que
+frecuencia, nuestro corazón está a punto de ser quebrantado por el anhelo que
 
-tenemos de verlos salvos. Desearamos poder predicarles con los ojos baados en
+tenemos de verlos salvos. Desearíamos poder predicarles con los ojos bańados en
 
-llanto de un Baxter; no, ms bien, con el corazn que se derrite y con el celo
+llanto de un Baxter; no, más bien, con el corazón que se derrite y con el celo
 
 consumidor del Salvador.
 
-Entonces, a continuacin, debemos predicar
+Entonces, a continuación, debemos predicar
 
 solamente a Cristo.
 
 Con Pablo, todo
 
-verdadero ministro debera ser capaz de decirles a sus oyentes; Me propuse no
+verdadero ministro debería ser capaz de decirles a sus oyentes; “Me propuse no
 
-saber entre vosotros cosa alguna sino a Jesucristo, y a ste crucificado. El
+saber entre vosotros cosa alguna sino a Jesucristo, y a éste crucificado”. El
 
 predicador no debe mezclar nunca ninguna otra cosa con el Evangelio. Cada vez
 
-que predica, debe tratar siempre el mismo viejo tema, Jesucristo, y a ste
+que predica, debe tratar siempre el mismo viejo tema, “Jesucristo, y a éste
 
-crucificado. Cristo es el Alfa del Evangelio, y es la Omega tambin; la
+crucificado.” Cristo es el Alfa del Evangelio, y es la Omega también; la
 
-primera letra del alfabeto del Evangelio, y la ltima letra, y todas las letras
+primera letra del alfabeto del Evangelio, y la última letra, y todas las letras
 
-que estn en medio. Debe ser Cristo,
+que están en medio. Debe ser Cristo,
 
 Cristo,
 
-CRISTO de principio a fin. No debe haber ningn trfico de obras ni ninguna
+CRISTO de principio a fin. No debe haber ningún tráfico de obras ni ninguna
 
-otra cosa mezclados con Cristo. No debe haber ningn recubrimiento con lodo
+otra cosa mezclados con Cristo. No debe haber ningún recubrimiento con lodo
 
-suelto en nuestra edificacin sobre Cristo, el nico cimiento que est puesto
+suelto en nuestra edificación sobre Cristo, el único cimiento que está puesto
 
 de una vez para siempre.
 
@@ -924,21 +934,21 @@ muy sencillamente.
 
 Debe demoler sus
 
-grandes palabras y sus largas frases, y debe orar pidiendo proteccin contra la
+grandes palabras y sus largas frases, y debe orar pidiendo protección contra la
 
-tentacin de usarlas. Usualmente son las frases cortas, -como dagas-, las que
+tentación de usarlas. Usualmente son las frases cortas, -como dagas-, las que
 
 hacen el mejor trabajo. Un verdadero siervo de Cristo no debe intentar nunca dejar
 
-que la gente vea cun bien predica; nunca debe desviarse de su camino para
+que la gente vea cuán bien predica; nunca debe desviarse de su camino para
 
-insertar un hermoso trozo de poesa en su sermn, ni debe introducir excelentes
+insertar un hermoso trozo de poesía en su sermón, ni debe introducir excelentes
 
-citas de los clsicos. Debe emplear un estilo sencillo y casero, o cualquier
+citas de los clásicos. Debe emplear un estilo sencillo y casero, o cualquier
 
 estilo que Dios le hubiere dado; ha de predicar a Cristo tan claramente que sus
 
-oyentes no slo puedan entenderle sino que no puedan malinterpretarle incluso
+oyentes no sólo puedan entenderle sino que no puedan malinterpretarle incluso
 
 si trataran de hacerlo.
 
@@ -948,73 +958,73 @@ diciendo que debemos procurar predicar a Cristo
 
 salvadoramente.
 
-Oh, pecadores, yo quisiera que ustedes confiaran
+ˇOh, pecadores, yo quisiera que ustedes confiaran
 
-en Cristo en este preciso instante! Se dan cuenta de cun grande es su
+en Cristo en este preciso instante! żSe dan cuenta de cuán grande es su
 
-peligro? Alma inconversa, t ests parada, por decirlo as, sobre la boca del
+peligro? ˇAlma inconversa, tú estás parada, por decirlo así, sobre la boca del
 
-infierno, sobre una sola tabla, y esa tabla est podrida! Hombre, t podras
+infierno, sobre una sola tabla, y esa tabla está podrida! ˇHombre, tú podrías
 
-estar en tu tumba antes de que amanezca otro da domingo; y, entonces, si no
+estar en tu tumba antes de que amanezca otro día domingo; y, entonces, si no
 
-eres salvo, estars en el infierno! Te cuidado de no ser llevado sin que ests
+eres salvo, estarás en el infierno! Te cuidado de no ser llevado sin que estés
 
-preparado; pues, si esa fuera tu infeliz porcin, no habr recompensa que
+preparado; pues, si esa fuera tu infeliz porción, no habrá recompensa que
 
 pudiera librar a tu alma de descender al abismo. Mira tu necesidad de Cristo,
 
-pecador, y afrrate a l, por la fe. Nadie sino Cristo
+pecador, y aférrate a Él, por la fe. Nadie sino Cristo
 
 puede
 
-salvarte. Cristo es el Camino; t puedes andar por todos lados, toda tu vida,
+salvarte. Cristo es el Camino; tú puedes andar por todos lados, toda tu vida,
 
-tratando de encontrar otra entrada al cielo, pero no la encontrars, pues ste
+tratando de encontrar otra entrada al cielo, pero no la encontrarás, pues éste
 
-es el nico camino. Por qu no habras de venir a Dios por medio de Cristo?
+es el único camino. żPor qué no habrías de venir a Dios por medio de Cristo?
 
-Por qu razn eres tan ingrato como para despreciar la misericordia paciente
+żPor qué razón eres tan ingrato como para despreciar la misericordia paciente
 
-de Dios? No te conducir la bondad de Dios al arrepentimiento? Acaso morir
+de Dios? żNo te conducirá la bondad de Dios al arrepentimiento? żAcaso morirá
 
-Cristo por los pecadores, y t, pecador, te apartars de l, que es el nico
+Cristo por los pecadores, y tú, pecador, te apartarás de Él, que es el único
 
-que puede darte la vida? Basta que creas en l, y l te salvar; tus pecados,
+que puede darte la vida? Basta que creas en Él, y Él te salvará; tus pecados,
 
-que son muchos, te sern perdonados todos; t sers adoptado en la familia de
+que son muchos, te serán perdonados todos; tú serás adoptado en la familia de
 
-Dios, y a su debido tiempo, te encontrars en el cielo para no salir jams. Si
+Dios, y a su debido tiempo, te encontrarás en el cielo para no salir jamás. Si
 
 quieres ser feliz, si quieres gozar de la paz que sobrepasa todo entendimiento,
 
-si quieres tener dos cielos un cielo abajo y un cielo arriba- confa en Jess,
+si quieres tener dos cielos –un cielo abajo y un cielo arriba- confía en Jesús,
 
-pecador, confa en Jess en este preciso instante. No salgas de este edificio
+pecador, confía en Jesús en este preciso instante. No salgas de este edificio
 
-como un rprobo. Una mirada creyente te traer la salvacin, pues:
+como un réprobo. Una mirada creyente te traerá la salvación, pues:
 
 > Hay vida en una mirada al Crucificado:
 
 > Hay vida en este instante para ti;
 
-> Entonces mira, pecador: mralo y s salvo,
+> Entonces mira, pecador: míralo y sé salvo,
 
-> A l, que fue clavado al madero.
+> A Él, que fue clavado al madero.”
 
-> Mralo a l, mralo a l ahora; que el Espritu Santo los habilite
+> ˇMíralo a Él, míralo a Él ahora; que el Espíritu Santo los habilite
 
-> para mirar y vivir, por Jesucristo nuestro Seor! Amn.
+> para mirar y vivir, por Jesucristo nuestro Seńor! Amén.
 
 > Nota del traductor:
 
 > Panacea:
 
-> remedio o solucin general para cualquier mal.
+> remedio o solución general para cualquier mal.
 
-> El seor Spurgeon us la palabra: catolicn.
+> El seńor Spurgeon usó la palabra: catolicón.
 
-> Traductor: Allan Romn
+> Traductor: Allan Román
 
 > 16/Julio/2009
 

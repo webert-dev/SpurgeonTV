@@ -1,16 +1,16 @@
 # Sermón 1106 | Sermón 1106
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Ha Resucitado
+“Ha Resucitado
 
-el Seor Verdaderamente.
+el Seńor Verdaderamente”.
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,277 +18,281 @@ DOMINGO 13 DE ABRIL
 
 DE 1873
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Por qu
+“żPor qué
 
-buscis entre los muertos al que vive? No est aqu, sino que ha resucitado.
+buscáis entre los muertos al que vive? No está aquí, sino que ha resucitado.
 
-Acordaos de lo que os habl, cuando an estaba en Galilea. Lucas 24: 5, 6.
+Acordaos de lo que os habló, cuando aún estaba en Galilea”. Lucas 24: 5, 6.
 
-El primer da de la
+El primer día de la
 
-semana conmemora la resurreccin de Cristo, y, siguiendo el ejemplo apostlico,
+semana conmemora la resurrección de Cristo, y, siguiendo el ejemplo apostólico,
 
-hemos constituido el primer da de la semana como nuestro da de reposo. No
+hemos constituido el primer día de la semana como nuestro día de reposo. żNo
 
-nos sugiere sto que el reposo de nuestras almas ha de ser encontrado en la
+nos sugiere ésto que el reposo de nuestras almas ha de ser encontrado en la
 
-resurreccin de nuestro Salvador? No es cierto que una clara comprensin de la
+resurrección de nuestro Salvador? żNo es cierto que una clara comprensión de la
 
-resurreccin de nuestro Seor
+resurrección de nuestro Seńor
 
 es
 
-, a travs del
+, a través del
 
-Espritu Santo, el medio ms seguro de traer paz a nuestras mentes? Ser
+Espíritu Santo, el medio más seguro de traer paz a nuestras mentes? Ser
 
-partcipes de la resurreccin de Cristo es gozar de ese da de reposo que queda
+partícipes de la resurrección de Cristo es gozar de ese día de reposo que queda
 
-para el pueblo de Dios. Quienes hemos credo en el Seor resucitado entramos en
+para el pueblo de Dios. Quienes hemos creído en el Seńor resucitado entramos en
 
-el reposo, as como l mismo reposa a la diestra del Padre. En l descansamos
+el reposo, así como Él mismo reposa a la diestra del Padre. En Él descansamos
 
-porque Su obra ha sido consumada y Su resurreccin es la garanta de que ha
+porque Su obra ha sido consumada y Su resurrección es la garantía de que ha
 
-perfeccionado todo lo necesario para la salvacin de Su pueblo, y nosotros
+perfeccionado todo lo necesario para la salvación de Su pueblo, y nosotros
 
-estamos completos en l. Yo confo que, por el poder del Espritu Santo, sean
+estamos completos en Él. Yo confío que, por el poder del Espíritu Santo, sean
 
 sembrados en las mentes de los creyentes algunos pensamientos conducentes al
 
-reposo, mientras realizamos una peregrinacin al nuevo sepulcro de Jos de
+reposo, mientras realizamos una peregrinación al nuevo sepulcro de José de
 
-Arimatea y vemos el lugar donde estuvo sepultado el Seor.
+Arimatea y vemos el lugar donde estuvo sepultado el Seńor.
 
 I.
 
 Primero,
 
-esta maana voy a hablarles sobre ciertos RECUERDOS INSTRUCTIVOS que se
+esta mańana voy a hablarles sobre ciertos RECUERDOS INSTRUCTIVOS que se
 
-aglutinan en torno al lugar donde Jess durmi
+aglutinan en torno al lugar donde Jesús durmió
 
-con los ricos en su muerte. Aunque l no est all, con toda certeza estuvo
+“con los ricos en su muerte”. Aunque Él no está allí, con toda certeza estuvo
 
-all una vez, pues fue crucificado, muerto y sepultado. Estuvo tan muerto
+allí una vez, pues “fue crucificado, muerto y sepultado”. Estuvo tan muerto
 
-como estn los muertos ahora, y aunque no poda ver corrupcin, ni poda ser
+como están los muertos ahora, y aunque no podía ver corrupción, ni podía ser
 
-retenido por los lazos de la muerte ms all del tiempo predestinado, con todo,
+retenido por los lazos de la muerte más allá del tiempo predestinado, con todo,
 
-l estuvo indudablemente muerto. No qued ninguna luz en Sus ojos, ni vida alguna
+Él estuvo indudablemente muerto. No quedó ninguna luz en Sus ojos, ni vida alguna
 
-en Su corazn. El pensamiento huy de Su frente coronada de espinas, y Su boca
+en Su corazón. El pensamiento huyó de Su frente coronada de espinas, y Su boca
 
-de oro enmudeci. l no muri simplemente en apariencia, sino en realidad; la
+de oro enmudeció. Él no murió simplemente en apariencia, sino en realidad; la
 
-lanzada resolvi esa duda de una vez por todas; por tanto, habiendo muerto, fue
+lanzada resolvió esa duda de una vez por todas; por tanto, habiendo muerto, fue
 
-colocado en el sepulcro como un idneo ocupante de la callada tumba. Sin
+colocado en el sepulcro como un idóneo ocupante de la callada tumba. Sin
 
-embargo, como l no est ahora all sino que resucit, nos corresponde a
+embargo, como Él no está ahora allí sino que resucitó, nos corresponde a
 
-nosotros buscar los objetos que nos recuerdan que estuvo all. No contenderemos
+nosotros buscar los objetos que nos recuerdan que estuvo allí. No contenderemos
 
-con los sectarios supersticiosos por el santo sepulcro, sino que vamos a
+con los sectarios supersticiosos por el “santo sepulcro”, sino que vamos a
 
-recoger en espritu las preciosas reliquias del Redentor resucitado.
+recoger en espíritu las preciosas reliquias del Redentor resucitado.
 
-Primero, l dej en la
+Primero, Él dejó en la
 
 tumba
 
 las especias.
 
-Cuando resucit,
+Cuando resucitó,
 
-no se llev las costosas hierbas aromticas con las que haba sido envuelto Su
+no se llevó las costosas hierbas aromáticas con las que había sido envuelto Su
 
-cuerpo, sino que las dej all. Jos haba trado cerca de cien libras de peso
+cuerpo, sino que las dejó allí. José había traído cerca de cien libras de peso
 
-de mirra y loes, cuyo olor permanece todava. Nuestro Seor Jess ha llenado de
+de mirra y áloes, cuyo olor permanece todavía. Nuestro Seńor Jesús ha llenado de
 
-fragancia el sepulcro en el ms dulce sentido espiritual. Ya no huele ms a
+fragancia el sepulcro en el más dulce sentido espiritual. Ya no huele más a
 
-corrupcin ni a ftida putrefaccin, sino que podemos cantar con el poeta del
+corrupción ni a fétida putrefacción, sino que podemos cantar con el poeta del
 
 santuario:
 
-Por qu habramos de temer que depositen
+“
+
+ż
+
+Por qué habríamos de temer que depositen
 
 Nuestros cuerpos en la tumba
 
 ?
 
-All estuvo la amada carne de Jess,
+Allí estuvo la amada carne de Jesús,
 
-Y dej un perfume duradero.
+Y dejó un perfume duradero”.
 
 Aquel humilde lecho en
 
-la tierra est ahora perfumado con costosas especias y se muestra engalanado
+la tierra está ahora perfumado con costosas especias y se muestra engalanado
 
-con aromticas flores, pues sobre su almohada apoy una vez Su santa cabeza
+con aromáticas flores, pues sobre su almohada apoyó una vez Su santa cabeza
 
-nuestro Amigo ms verdadero. No retrocederemos con horror de las cmaras de los
+nuestro Amigo más verdadero. No retrocederemos con horror de las cámaras de los
 
-muertos, pues el propio Seor las ha recorrido, y donde l ha estado, el terror
+muertos, pues el propio Seńor las ha recorrido, y donde Él ha estado, el terror
 
 se disipa.
 
-El Maestro dej tambin
+El Maestro dejó también
 
 Sus
 
 vendas
 
-al partir. No sali de la
+al partir. No salió de la
 
 tumba envuelto con una mortaja; no llevaba las vendas de la tumba como un traje
 
-para la vida, sino que cuando Pedro entr al sepulcro, vio las vendas solas y
+para la vida, sino que cuando Pedro entró al sepulcro, vio las vendas solas y
 
-cuidadosamente dobladas. Me atrevo a decir que las dej all para que fueran
+cuidadosamente dobladas. Me atrevo a decir que las dejó allí para que fueran
 
-las cortinas del aposento real en el que Sus santos se entregan al sueo.
+las cortinas del aposento real en el que Sus santos se entregan al sueńo.
 
-Miren cmo ha encortinado nuestro ltimo lecho! Nuestro dormitorio ya no es
+ˇMiren cómo ha encortinado nuestro último lecho! Nuestro dormitorio ya no es
 
-ms lbrego y desnudo, como la celda de una prisin, sino que est decorado con
+más lóbrego y desnudo, como la celda de una prisión, sino que está decorado con
 
-lino fino y con hermosos tapices: es un aposento digno de los prncipes!
+lino fino y con hermosos tapices: ˇes un aposento digno de los príncipes!
 
-Iremos a nuestro ltimo aposento en paz, porque Cristo lo ha amueblado para
+Iremos a nuestro último aposento en paz, porque Cristo lo ha amueblado para
 
-nosotros. O, si cambiamos la metfora, podramos decir que nuestro Seor dej
+nosotros. O, si cambiamos la metáfora, podríamos decir que nuestro Seńor dejó
 
-esas vendas para que las consideremos como garantas de Su comunin con
+esas vendas para que las consideremos como garantías de Su comunión con
 
-nosotros en nuestro humilde estado, y como recordatorios de que as como l se
+nosotros en nuestro humilde estado, y como recordatorios de que así como Él se
 
-despoj de las vestiduras de la muerte, as tambin lo haremos nosotros. l se
+despojó de las vestiduras de la muerte, así también lo haremos nosotros. Él se
 
-levant de Su divn y dej all Sus ropas de dormir, en seal de que cuando
+levantó de Su diván y dejó allí Sus ropas de dormir, en seńal de que cuando
 
-despertemos habr tambin otras vestiduras dispuestas para nosotros.
+despertemos habrá también otras vestiduras dispuestas para nosotros.
 
-Cambiar de nuevo la
+Cambiaré de nuevo la
 
-figura, y dir que as como hemos visto viejas banderas andrajosas colgadas en
+figura, y diré que así como hemos visto viejas banderas andrajosas colgadas en
 
 las catedrales y en otros edificios nacionales, como recordatorios de los
 
-enemigos derrotados y de las victorias ganadas, as tambin en la cripta donde
+enemigos derrotados y de las victorias ganadas, así también en la cripta donde
 
-Jess venci a la muerte estn colgadas Sus vendas, como trofeos de Su victoria
+Jesús venció a la muerte están colgadas Sus vendas, como trofeos de Su victoria
 
-sobre la muerte, y como nuestra garanta de que todo Su pueblo ser ms que
+sobre la muerte, y como nuestra garantía de que todo Su pueblo será más que
 
-vencedor por medio de Aquel que lo am. Dnde est, oh muerte, tu aguijn?
+vencedor por medio de Aquel que lo amó. “żDónde está, oh muerte, tu aguijón?
 
-Dnde, oh sepulcro, tu victoria?
+żDónde, oh sepulcro, tu victoria?”
 
 Luego, cuidadosamente
 
-enrollado en un lugar aparte, nuestro Seor dej
+enrollado en un lugar aparte, nuestro Seńor dejó
 
 el sudario
 
-que haba cubierto Su cabeza. El sudario est ahora por
+que había cubierto Su cabeza. El sudario está ahora por
 
-all. El Seor ya no lo necesitaba cuando resucit. Quienes lloran pueden
+allá. El Seńor ya no lo necesitaba cuando resucitó. Quienes lloran pueden
 
-usarlo como un pauelo para enjugar sus lgrimas. Ustedes, viudas, y ustedes,
+usarlo como un pańuelo para enjugar sus lágrimas. Ustedes, viudas, y ustedes,
 
-hurfanos ustedes hermanos que se lamentan y ustedes, hermanas que lloran- y
+huérfanos –ustedes hermanos que se lamentan y ustedes, hermanas que lloran- y
 
 ustedes, ustedes Raqueles, que no quieren ser consoladas porque sus hijos
 
-perecieron, aqu tienen, tomen este sudario con el que envolvieron el rostro de
+perecieron, aquí tienen, tomen este sudario con el que envolvieron el rostro de
 
-su Salvador, y enjuguen sus lgrimas para siempre. El Seor en verdad resucit
+su Salvador, y enjuguen sus lágrimas para siempre. El Seńor en verdad resucitó
 
-y, por tanto, as ha dicho Jehov: Reprime del llanto tu voz, y de las
+y, por tanto, así ha dicho Jehová: “Reprime del llanto tu voz, y de las
 
-lgrimas tus ojos porque volvern de la tierra del enemigo; Tus muertos vivirn.
+lágrimas tus ojos… porque volverán de la tierra del enemigo”; “Tus muertos vivirán”.
 
-Oh, t que guardas luto, tus seres queridos resucitarn conjuntamente con el
+Oh, tú que guardas luto, tus seres queridos resucitarán conjuntamente con el
 
-cadver del Seor; por tanto, no te aflijas como lo hacen quienes no tienen
+cadáver del Seńor; por tanto, no te aflijas como lo hacen quienes no tienen
 
-esperanza, pues si t crees que Jess muri y resucit, el Seor llevar
+esperanza, pues si tú crees que Jesús murió y resucitó, el Seńor llevará
 
-tambin consigo a quienes duermen en Jess.
+también consigo a quienes duermen en Jesús.
 
-Qu ms dej tras de s
+żQué más dejó tras de sí
 
 el Salvador resucitado? Nuestra fe ha aprendido a recoger unos dulces recuerdos
 
-del lecho del tranquilo sueo de nuestro Seor. Bien, amados, l dej
+del lecho del tranquilo sueńo de nuestro Seńor. Bien, amados, Él dejó
 
-ngeles
+ángeles
 
-tras de s, convirtiendo as a
+tras de sí, convirtiendo así a
 
 la tumba en:
 
-Una celda donde los ngeles suelen
+“Una celda donde los ángeles suelen
 
-Ir y venir con nuevas celestiales.
+Ir y venir con nuevas celestiales”.
 
-Los ngeles no haban
+Los ángeles no habían
 
-estado antes en la tumba, pero, en Su resurreccin, descendieron; uno de ellos
+estado antes en la tumba, pero, en Su resurrección, descendieron; uno de ellos
 
-rod la piedra, y otros se sentaron donde haba sido colocado el cuerpo de
+rodó la piedra, y otros se sentaron donde había sido colocado el cuerpo de
 
-Jess. Ellos eran asistentes personales y escoltas del Grandioso Prncipe, y,
+Jesús. Ellos eran asistentes personales y escoltas del Grandioso Príncipe, y,
 
-por tanto, le asistieron en Su resurreccin, vigilando la entrada y
+por tanto, le asistieron en Su resurrección, vigilando la entrada y
 
-respondiendo a las preguntas de Sus amigos. Los ngeles estn llenos de vida y de
+respondiendo a las preguntas de Sus amigos. Los ángeles están llenos de vida y de
 
-vigor, pero no dudaron en reunirse en el sepulcro para adornar la resurreccin
+vigor, pero no dudaron en reunirse en el sepulcro para adornar la resurrección
 
 de la misma manera que las flores engalanan a la primavera. Yo no leo que
 
-nuestro Seor haya retirado jams a los ngeles de los sepulcros de Sus santos;
+nuestro Seńor haya retirado jamás a los ángeles de los sepulcros de Sus santos;
 
-y ahora, si los creyentes mueren tan pobres como Lzaro, y tan enfermos y tan
+y ahora, si los creyentes mueren tan pobres como Lázaro, y tan enfermos y tan
 
-despreciados como l, los ngeles transportarn sus almas al seno de su Seor,
+despreciados como él, los ángeles transportarán sus almas al seno de su Seńor,
 
-y sus cuerpos tambin sern vigilados por espritus guardianes, tan ciertamente,
+y sus cuerpos también serán vigilados por espíritus guardianes, tan ciertamente,
 
-como Miguel guard el cuerpo de Moiss y contendi por l con el enemigo. Los
+como Miguel guardó el cuerpo de Moisés y contendió por él con el enemigo. Los
 
-ngeles son tanto servidores de los santos vivientes como son custodios de su
+ángeles son tanto servidores de los santos vivientes como son custodios de su
 
 polvo.
 
-Qu ms dej tras de S
+żQué más dejó tras de Sí
 
-nuestro Bienamado? Dej
+nuestro Bienamado? Dejó
 
 un pasaje abierto
 
-desde la tumba, pues la piedra fue rodada; esa casa de la muerte est sin
+desde la tumba, pues la piedra fue rodada; esa casa de la muerte está sin
 
-puertas. Si el Seor no viniera pronto, nosotros descenderemos al calabozo de
+puertas. Si el Seńor no viniera pronto, nosotros descenderemos al calabozo de
 
-la tumba. Qu dije? Lo llam: calabozo, pero cmo llamarlo un calabozo si
+la tumba. żQué dije? Lo llamé: “calabozo”, pero żcómo llamarlo un calabozo si
 
-no tiene ni cerrojos ni pasadores? Es acaso un calabozo si no tiene ni
+no tiene ni cerrojos ni pasadores? żEs acaso un calabozo si no tiene ni
 
-siquiera una puerta que encierre a sus ocupantes? Nuestro Sansn arranc los
+siquiera una puerta que encierre a sus ocupantes? Nuestro Sansón arrancó los
 
-postes y se llev las puertas de la tumba con todas sus barras. La llave fue
+postes y se llevó las puertas de la tumba con todas sus barras. La llave fue
 
-retirada del cinturn de la muerte y es sostenida por la mano del Prncipe de
+retirada del cinturón de la muerte y es sostenida por la mano del Príncipe de
 
 la
 
@@ -298,41 +302,41 @@ El
 
 sello roto y los vigilantes
 
-desfallecidos son seales de que los calabozos de la muerte no pueden retener
+desfallecidos son seńales de que los calabozos de la muerte no pueden retener
 
-ms a sus cautivos. As como Pedro, cuando fue visitado por el ngel, vio que sus
+más a sus cautivos. Así como Pedro, cuando fue visitado por el ángel, vio que sus
 
-cadenas se rompan y que las puertas de hierro se abran para l por s solas,
+cadenas se rompían y que las puertas de hierro se abrían para él por sí solas,
 
-as tambin los santos encontrarn un escape disponible en la maana de la
+así también los santos encontrarán un escape disponible en la mańana de la
 
-resurreccin. Dormirn por un tiempo, cada uno en su lugar de descanso, pero se
+resurrección. Dormirán por un tiempo, cada uno en su lugar de descanso, pero se
 
-levantarn sin problemas, ya que la piedra fue rodada. Un poderoso ngel rod
+levantarán sin problemas, ya que la piedra fue rodada. Un poderoso ángel rodó
 
-la piedra, pues era muy grande, y cuando lo hubo realizado, se sent sobre la
+la piedra, pues era muy grande, y cuando lo hubo realizado, se sentó sobre la
 
 piedra. Sus vestiduras eran blancas como la nieve, y su rostro era como el
 
-relmpago, y estando sentado sobre la piedra pareca decirles a la muerte y al
+relámpago, y estando sentado sobre la piedra parecía decirles a la muerte y al
 
-infierno: Rudenla de regreso si pueden.
+infierno: “Ruédenla de regreso si pueden”.
 
-Quin reconstruir la prisin del tirano?
+“żQuién reconstruirá la prisión del tirano?
 
-El cetro que cay de sus manos qued roto;
+El cetro que cayó de sus manos quedó roto;
 
-Su dominio ha concluido; el Seor resucit;
+Su dominio ha concluido; el Seńor resucitó;
 
-Los indefensos pronto ser liberados de sus lazos.
+Los indefensos pronto será liberados de sus lazos”.
 
 Me aventuro a mencionar
 
-una cosa ms que dej mi Seor en
+una cosa más que dejó mi Seńor en
 
 Su
 
-tumba abandonada. Visit hace unos cuantos meses varios de los grandes edificios
+tumba abandonada. Visité hace unos cuantos meses varios de los grandes edificios
 
 con nichos para urnas cinerarias (columbarios) que se encuentran fuera de las
 
@@ -340,55 +344,55 @@ puertas de Roma. Entras a un gran edificio cuadrado, hundido en la tierra, y
 
 desciendes por muchos escalones, y conforme desciendes observas a los cuatro
 
-costados de la gran cmara, innumerables pequeos casilleros en los que estn depositadas
+costados de la gran cámara, innumerables pequeńos casilleros en los que están depositadas
 
 las cenizas de decenas de miles de personas que han fallecido. Usualmente
 
-enfrente de cada compartimento preparado para la recepcin de las cenizas hay
+enfrente de cada compartimento preparado para la recepción de las cenizas hay
 
-una lmpara.
+una lámpara.
 
 He visto cientos si no es
 
-que miles de esas lmparas, pero todas estn apagadas, y ciertamente dan la
+que miles de esas lámparas, pero todas están apagadas, y ciertamente dan la
 
-impresin de no haber sido iluminadas nunca. No proyectan ningn rayo sobre las
+impresión de no haber sido iluminadas nunca. No proyectan ningún rayo sobre las
 
-tinieblas de la muerte. Pero nuestro Seor entr en la tumba y la ilumin con
+tinieblas de la muerte. Pero nuestro Seńor entró en la tumba y la iluminó con
 
-Su presencia: la lmpara de su amor es nuestro gua a travs de la penumbra.
+Su presencia: “la lámpara de su amor es nuestro guía a través de la penumbra”.
 
-Jess ha trado la vida y la inmortalidad a la luz por medio del Evangelio; y
+Jesús ha traído la vida y la inmortalidad a la luz por medio del Evangelio; y
 
-ahora hay luz en los palomares donde anidan los cristianos; s, en cada
+ahora hay luz en los palomares donde anidan los cristianos; sí, en cada
 
-cementerio hay una luz que arder a travs de las vigilias de la noche de la
+cementerio hay una luz que arderá a través de las vigilias de la noche de la
 
-tierra hasta que amanezca el da y las sombras huyan y despunte la maana de la
+tierra hasta que amanezca el día y las sombras huyan y despunte la mańana de la
 
-resurreccin.
+resurrección.
 
-As, entonces, la tumba
+Así, entonces, la tumba
 
-vaca del Salvador nos deja muchas dulces reflexiones que atesoraremos para
+vacía del Salvador nos deja muchas dulces reflexiones que atesoraremos para
 
-nuestra instruccin.
+nuestra instrucción.
 
 II.
 
 Nuestro
 
-texto habla expresamente de BSQUEDAS VANAS: Por qu buscis entre los
+texto habla expresamente de BÚSQUEDAS VANAS: “żPor qué buscáis entre los
 
-muertos al que vive? No est aqu, sino que ha resucitado.
+muertos al que vive? No está aquí, sino que ha resucitado”.
 
 Hay lugares donde los
 
-buscadores de Jess no deberan esperar encontrarlo, prescindiendo de cun
+buscadores de Jesús no deberían esperar encontrarlo, prescindiendo de cuán
 
-diligente sea su bsqueda y de cun sincero sea su deseo. No se puede encontrar
+diligente sea su búsqueda y de cuán sincero sea su deseo. No se puede encontrar
 
-a un hombre donde no est, y hay ciertos sitios en los que Cristo no puede ser
+a un hombre donde no está, y hay ciertos sitios en los que Cristo no puede ser
 
 encontrado nunca. En este momento presente veo a muchos seres que buscan a
 
@@ -396,115 +400,115 @@ Cristo entre los monumentos del
 
 ceremonialismo,
 
-o lo que Pablo llam los dbiles y pobres rudimentos, pues ellos,
+o lo que Pablo llamó “los débiles y pobres rudimentos”, pues ellos,
 
-guardan los das, los meses, los tiempos y los aos. Desde que nuestro Seor
+“guardan los días, los meses, los tiempos y los ańos”. Desde que nuestro Seńor
 
-resucit, el judasmo y toda forma de ceremonia simblica no pasan de ser nada
+resucitó, el judaísmo y toda forma de ceremonia simbólica no pasan de ser nada
 
 mejor que sepulcros. Los tipos fueron ordenados por el propio Dios, pero cuando
 
-vino la sustancia, los tipos se convirtieron en sepulcros vacos y nada ms.
+vino la sustancia, los tipos se convirtieron en sepulcros vacíos y nada más.
 
-Desde entonces los hombres han inventado otros smbolos que ni siquiera tienen
+Desde entonces los hombres han inventado otros símbolos que ni siquiera tienen
 
-la sancin de la autoridad divina, y slo son tumbas de muertos. En esta poca
+la sanción de la autoridad divina, y sólo son tumbas de muertos. En esta época
 
-presente el mundo ha ido locamente en pos de sus dolos, siendo engaado y
+presente el mundo ha ido locamente en pos de sus ídolos, siendo engańado y
 
 embaucado por aquellos que tienen un celo por Dios, pero no conforme a ciencia.
 
-Ciertamente nunca hubo un perodo, incluso cuando Roma era dominadora, en el
+Ciertamente nunca hubo un período, incluso cuando Roma era dominadora, en el
 
 que los hombres se allegaran ceremonias a tanta velocidad como en el presente
 
-da. Han convertido al cristianismo en un yugo ms grande de servidumbre de lo
+día. Han convertido al cristianismo en un yugo más grande de servidumbre de lo
 
-que fue el propio judasmo; pero un alma sincera y despierta en vano esperar encontrar
+que fue el propio judaísmo; pero un alma sincera y despierta en vano esperará encontrar
 
-a Jess entre esas vanas representaciones. Puedes deslizarte de un da santo a
+a Jesús entre esas vanas representaciones. Puedes deslizarte de un día santo a
 
-otro, y de un lugar santo a otro, y de unas palabras mgicas a otras, pero no
+otro, y de un lugar santo a otro, y de unas palabras mágicas a otras, pero no
 
-encontrars al Salvador en nada de eso, pues l mismo ha declarado as: Ni en
+encontrarás al Salvador en nada de eso, pues Él mismo ha declarado así: “Ni en
 
-este monte ni en Jerusaln adoraris al Padre mas la hora viene, y ahora es,
+este monte ni en Jerusalén adoraréis al Padre… mas la hora viene, y ahora es,
 
-cuando los verdaderos adoradores adorarn al Padre en espritu y en verdad;
+cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad;
 
-porque tambin el Padre tales adoradores busca que le adoren. Jess ha rasgado
+porque también el Padre tales adoradores busca que le adoren”. Jesús ha rasgado
 
-el velo y ha abolido la adoracin ceremonial, y sin embargo, los hombres buscan
+el velo y ha abolido la adoración ceremonial, y sin embargo, los hombres buscan
 
-revivirlos, edificando los sepulcros que el Seor ha demolido. l repite a
+revivirlos, edificando los sepulcros que el Seńor ha demolido. Él repite a
 
-nuestros odos la advertencia en este da: Guardad, pues, mucho vuestras
+nuestros oídos la advertencia en este día: “Guardad, pues, mucho vuestras
 
-almas; pues ninguna figura visteis el da que Jehov habl con vosotros de en
+almas; pues ninguna figura visteis el día que Jehová habló con vosotros de en
 
-medio del fuego; para que no os corrompis y hagis para vosotros escultura,
+medio del fuego; para que no os corrompáis y hagáis para vosotros escultura,
 
-imagen de figura alguna, efigie de varn o hembra. Sin embargo, ciertos
+imagen de figura alguna, efigie de varón o hembra”. Sin embargo, ciertos
 
-hombres entre nosotros estn dedicados a erigir los altares que nuestros
+hombres entre nosotros están dedicados a erigir los altares que nuestros
 
 piadosos antepasados derribaron, y la obra de los reformadores y de los protestantes
 
-tiene que ser realizada de nuevo ahora. Que Dios nos enve a un Knox o a un
+tiene que ser realizada de nuevo ahora. ˇQue Dios nos envíe a un Knox o a un
 
-Lutero con un potente martillo para hacer pedazos a los dolos que los
+Lutero con un potente martillo para hacer pedazos a los ídolos que los
 
-sacerdotes de Baal estn erigiendo! Buscan a los vivos entre los muertos. Jess
+sacerdotes de Baal están erigiendo! Buscan a los vivos entre los muertos. Jesús
 
-no est en sus misas ni en sus procesiones. l resucit muy por encima de tal
+no está en sus misas ni en sus procesiones. Él resucitó muy por encima de tal
 
-adoracin carnal. Si fuese un Cristo muerto, una tal adoracin podra ser, tal
+adoración carnal. Si fuese un Cristo muerto, una tal adoración podría ser, tal
 
 vez, un apropiado desfile sobre su tumba, pero para uno que vive para siempre,
 
 ha de ser insultante presentar un servicio tan materialista.
 
-Ay!, hay muchas otras
+ˇAy!, hay muchas otras
 
-personas que estn buscando a Cristo como su Salvador entre las tumbas de
+personas que están buscando a Cristo como su Salvador entre las tumbas de
 
 la reforma moral.
 
-Nuestro Seor compar
+Nuestro Seńor comparó
 
 a los fariseos con sepulcros blanqueados; internamente estaban llenos de huesos
 
-de muertos, pero exteriormente estaban hermosamente adornados. Oh, de qu
+de muertos, pero exteriormente estaban hermosamente adornados. ˇOh, de qué
 
 manera tratan de blanquearse los hombres, cuando se ponen intranquilos acerca
 
-de sus almas! Renuncian a algn pecado grave, no de corazn, sino nicamente en
+de sus almas! Renuncian a algún pecado grave, no de corazón, sino únicamente en
 
-apariencia, y cultivan una cierta virtud, no en el alma, sino nicamente en el
+apariencia, y cultivan una cierta virtud, no en el alma, sino únicamente en el
 
-acto externo, y as esperan ser salvados aunque sigan siendo enemigos de Dios,
+acto externo, y así esperan ser salvados aunque sigan siendo enemigos de Dios,
 
 amantes del pecado y avaros buscadores de la paga de la injusticia. Esperan que
 
-el limpio exterior del vaso y del plato satisfaga al Altsimo, y que l no sea
+el limpio exterior del vaso y del plato satisfaga al Altísimo, y que Él no sea
 
 tan severo como para revisar el interior y probar sus corazones.
 
-Oh, seores, buscan a
+Oh, seńores, żbuscan a
 
 los vivos entre los muertos? Muchos han buscado paz para sus conciencias por
 
-medio de sus reformas morales, pero si el Espritu Santo los ha convencido
+medio de sus reformas morales, pero si el Espíritu Santo los ha convencido
 
 verdaderamente de pecado, pronto descubren que estaban buscando a un Cristo
 
-vivo entre las tumbas. l no est aqu, pues ha resucitado. Si Cristo estuviera
+vivo entre las tumbas. Él no está aquí, pues ha resucitado. Si Cristo estuviera
 
-muerto, muy bien podramos decirles: Vayan y hagan todo lo que puedan para ser
+muerto, muy bien podríamos decirles: “Vayan y hagan todo lo que puedan para ser
 
-sus propios salvadores, pero en tanto que Cristo est vivo, l no necesita de
+sus propios salvadores”, pero en tanto que Cristo está vivo, Él no necesita de
 
-su ayuda, l los salvar de principio a fin, o no lo har del todo. l ser el
+su ayuda, Él los salvará de principio a fin, o no lo hará del todo. Él será el
 
 Alfa y
 
@@ -512,17 +516,17 @@ la Omega
 
 para ustedes, pero si ustedes pusieran su mano sobre Su obra, y pensaran que
 
-pueden ayudarle de cualquier manera, habran deshonrado Su santo nombre, y l no
+pueden ayudarle de cualquier manera, habrían deshonrado Su santo nombre, y Él no
 
-tendra nada que ver con ustedes. No busquen una salvacin viva entre los
+tendría nada que ver con ustedes. No busquen una salvación viva entre los
 
 sepulcros de la formalidad externa.
 
-Muchsimas personas
+Muchísimas personas
 
-estn tambin esforzndose por encontrar al Cristo vivo entre las tumbas que se
+están también esforzándose por encontrar al Cristo vivo entre las tumbas que se
 
-aglomeran al pie del Sina; miran a
+aglomeran al pie del Sinaí; miran a
 
 la
 
@@ -532,19 +536,19 @@ buscando la vida, pero su ministerio es muerte. Los hombres piensan que
 
 han de ser salvados guardando los mandamientos de Dios, que han de hacer lo
 
-mejor que puedan, y conciben que sus esfuerzos sinceros sern aceptados, y que
+mejor que puedan, y conciben que sus esfuerzos sinceros serán aceptados, y que
 
-as se salvarn ellos mismos. Esta idea de justicia propia es diametralmente
+así se salvarán ellos mismos. Esta idea de justicia propia es diametralmente
 
-opuesta al espritu integral del Evangelio. El Evangelio no es para ti, que
+opuesta al espíritu integral del Evangelio. El Evangelio no es para ti, que
 
-crees que puedes salvarte a ti mismo, sino que es para quienes estn perdidos.
+crees que puedes salvarte a ti mismo, sino que es para quienes están perdidos.
 
 Si puedes salvarte a ti mismo, anda y hazlo, y no te mofes del Salvador con tus
 
-hipcritas oraciones. Anda y tropieza entre las tumbas del antiguo Israel, y
+hipócritas oraciones. Anda y tropieza entre las tumbas del antiguo Israel, y
 
-perece como perecieron ellos en el desierto, pues ni Moiss ni la ley pueden
+perece como perecieron ellos en el desierto, pues ni Moisés ni la ley pueden
 
 conducirte al reposo. El Evangelio es para los pecadores que no pueden guardar
 
@@ -552,139 +556,139 @@ la ley, que la han quebrantado y que han incurrido en su castigo, y que saben
 
 que lo han hecho y lo confiesan. Para tales personas ha venido un Salvador vivo
 
-que borra sus transgresiones. No busquen la salvacin por las obras de la ley,
+que borra sus transgresiones. No busquen la salvación por las obras de la ley,
 
-pues por ellas ninguna carne viviente ser justificada. Por la ley es el
+pues por ellas ninguna carne viviente será justificada. Por la ley es el
 
-conocimiento del pecado, y nada ms; pero la justicia, la paz, la vida y la
+conocimiento del pecado, y nada más; pero la justicia, la paz, la vida y la
 
-salvacin vienen por la fe en el Seor Jesucristo vivo y no por otros medios.
+salvación vienen por la fe en el Seńor Jesucristo vivo y no por otros medios.
 
-Cree en el Seor Jesucristo, y sers salvo; pero si tu propsito fuera
+“Cree en el Seńor Jesucristo, y serás salvo”; pero si tu propósito fuera
 
-establecer tu propia justicia, con toda seguridad perecers, porque habrs
+establecer tu propia justicia, con toda seguridad perecerás, porque habrás
 
 rechazado la justicia de Cristo.
 
 Otros hay que buscan al
 
-Jess vivo entre las tumbas, tratando de identificar algo bueno en
+Jesús vivo entre las tumbas, tratando de identificar algo bueno en
 
 la naturaleza humana,
 
 en sus propios
 
-corazones y en su disposicin natural. Puedo verte ahora, pues te he conocido
+corazones y en su disposición natural. Puedo verte ahora, pues te he conocido
 
-desde hace mucho tiempo, y esa ha sido siempre tu insensatez: irs al osario de
+desde hace mucho tiempo, y esa ha sido siempre tu insensatez: irás al osario de
 
-tu propia naturaleza, y preguntars: Est Jess aqu? Amado, t ests triste
+tu propia naturaleza, y preguntarás: “żEstá Jesús aquí?” Amado, tú estás triste
 
 y deprimido, y no me sorprende. Mira aquellos huesos secos y esos esqueletos
 
-blanqueados. Mira ese montn de podredumbre, esa masa de corrupcin, ese cuerpo
+blanqueados. Mira ese montón de podredumbre, esa masa de corrupción, ese cuerpo
 
-de muerte; puedes tolerar el espectculo? Ah, -respondes t- soy un hombre
+de muerte; żpuedes tolerar el espectáculo? “ˇAh”, -respondes tú- “soy un hombre
 
-desventurado en verdad, pero anhelo encontrar algo bueno en mi carne! Oh,
+desventurado en verdad, pero anhelo encontrar algo bueno en mi carne!” Oh,
 
 amado, suspiras en vano, pues mirar en tu propia naturaleza carnal para
 
-encontrar consolacin equivale a rastrillar el infierno para encontrar all el
+encontrar consolación equivale a rastrillar el infierno para encontrar allí el
 
-cielo. He aqu, en este da, Dios ha abandonado a la vieja naturaleza y la ha
+cielo. He aquí, en este día, Dios ha abandonado a la vieja naturaleza y la ha
 
-entregado a la muerte. Bajo la antigua ley, la circuncisin significaba remover
+entregado a la muerte. Bajo la antigua ley, la circuncisión significaba remover
 
-la inmundicia de la carne, como si despus de que esa inmundicia desapareciera
+la inmundicia de la carne, como si después de que esa inmundicia desapareciera
 
 la carne pudiera ser mejorada, pero ahora, bajo el nuevo pacto, tenemos un
 
-smbolo mucho ms profundo, pues No sabis que todos los que hemos sido
+símbolo mucho más profundo, pues “żNo sabéis que todos los que hemos sido
 
-bautizados en Cristo Jess, hemos sido bautizados en su muerte? Porque somos
+bautizados en Cristo Jesús, hemos sido bautizados en su muerte? Porque somos
 
-sepultados juntamente con l para muerte por el bautismo, a fin de que como
+sepultados juntamente con él para muerte por el bautismo, a fin de que como
 
-Cristo resucit de los muertos por la gloria del Padre, as tambin nosotros
+Cristo resucitó de los muertos por la gloria del Padre, así también nosotros
 
-andemos en vida nueva. El hombre viejo est enterrado como algo muerto de lo
+andemos en vida nueva”. El hombre viejo está enterrado como algo muerto de lo
 
-que no puede salir nada bueno. Sabiendo esto, que nuestro viejo hombre fue
+que no puede salir nada bueno. “Sabiendo esto, que nuestro viejo hombre fue
 
-crucificado juntamente con l, para que el cuerpo del pecado sea destruido, a
+crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a
 
-fin de que no sirvamos ms al pecado. Dios no intenta renovar la vieja mente
+fin de que no sirvamos más al pecado”. Dios no intenta renovar la vieja mente
 
-carnal, sino hacernos nuevas criaturas en Cristo Jess. Si cualquier hombre
+carnal, sino hacernos nuevas criaturas en Cristo Jesús. Si cualquier hombre
 
-practica la introspeccin con miras a la consolacin, bien podra acumular
+practica la introspección con miras a la consolación, bien podría acumular
 
-bloques de hielo de Wenham con miras a quemar una ciudad. Si ustedes estn
+bloques de hielo de Wenham con miras a quemar una ciudad. Si ustedes están
 
-dndole vueltas a sus cuerpos y a sus sentimientos, a sus pensamientos e
+dándole vueltas a sus cuerpos y a sus sentimientos, a sus pensamientos e
 
 imaginaciones con el fin de descubrir consuelo, es como si esperaran encontrar
 
-preciosos diamantes en las barreduras de las carreteras. No est aqu, dice
+preciosos diamantes en las barreduras de las carreteras. “No está aquí”, dice
 
-la totalidad de nuestra vieja naturaleza. No est aqu; resucit; y para
+la totalidad de nuestra vieja naturaleza. No está aquí; resucitó; y para
 
-consolacin, han de mirar nicamente a l, que est entronizado sobre los
+consolación, han de mirar únicamente a Él, que está entronizado sobre los
 
 cielos.
 
-Adems, demasiadas
+Además, demasiadas
 
-personas han intentado encontrar a Cristo en medio de las lgubres catacumbas
+personas han intentado encontrar a Cristo en medio de las lúgubres catacumbas
 
 de la
 
-filosofa
+filosofía
 
 del mundo. Por ejemplo,
 
-el da domingo les encanta recibir un sermn saturado de pensamiento, y el
+el día domingo les encanta recibir un sermón saturado de pensamiento, y el
 
-significado moderno de pensamiento es algo que est ms all, si no es que contrapuesto
+significado moderno de pensamiento es algo que está más allá, si no es que contrapuesto
 
-a la simple enseanza de
+a la simple enseńanza de
 
 la Biblia.
 
 Si
 
-un hombre le habla a su congregacin de lo que encuentra en las Escrituras, se
+un hombre le habla a su congregación de lo que encuentra en las Escrituras, se
 
-dice de l que habla perogrulladas; pero si un hombre divierte a su
+dice de él que “habla perogrulladas”; pero si un hombre divierte a su
 
-congregacin con sus propios sueos, sin importar cun opuestos pudieran ser a
+congregación con sus propios sueńos, sin importar cuán opuestos pudieran ser a
 
-los pensamientos de Dios, entonces es un pensador, es un predicador
+los pensamientos de Dios, entonces es un “pensador”, es un “predicador
 
-altamente intelectual. Pudiera haber algunos que amen las divagaciones de los
+altamente intelectual”. Pudiera haber algunos que amen las divagaciones de los
 
-soadores y las crudezas de los escpticos por encima de todas las cosas. Si
+sońadores y las crudezas de los escépticos por encima de todas las cosas. Si
 
-pueden or lo que ha dicho un profesante infiel en contra de la inspiracin, si
+pueden oír lo que ha dicho un profesante infiel en contra de la inspiración, si
 
-pueden ser entretenidos con la ms reciente blasfemia, algunos oyentes sienten
+pueden ser entretenidos con la más reciente blasfemia, algunos oyentes sienten
 
-que estn logrando avances en esa cultura ms sofisticada, que es tan alardeada
+que están logrando avances en esa cultura más sofisticada, que es tan alardeada
 
-en nuestros das. Pero, cranme, las cavernas frecuentadas por los murcilagos
+en nuestros días. Pero, créanme, las cavernas frecuentadas por los murciélagos
 
-de la falsa filosofa y de la pretendida ciencia han sido exploradas una y otra
+de la falsa filosofía y de la pretendida ciencia han sido exploradas una y otra
 
-vez, mas la salvacin no habita en ellas. En los das de Pablo haba gnsticos que
+vez, mas la salvación no habita en ellas. En los días de Pablo había gnósticos que
 
-rastreaban todos los serpeantes parajes de la erudicin vanagloriosa, pero slo
+rastreaban todos los serpeantes parajes de la erudición vanagloriosa, pero sólo
 
-descubrieron otro evangelio que no era otro. El mundo no conoci a Dios por
+descubrieron “otro evangelio que no era otro”. El mundo no conoció a Dios por
 
-la sabidura. Despus de deambular en medio de las sombras catacumbas de la
+la sabiduría. Después de deambular en medio de las sombrías catacumbas de la
 
-filosofa, regresamos a respirar el aire fresco de
+filosofía, regresamos a respirar el aire fresco de
 
 la Palabra
 
@@ -692,55 +696,55 @@ viva, y en lo
 
 tocante a los laberintos de la ciencia, expresamos con voz entrecortada la
 
-frase: No est aqu. La razn no lo ha encontrado en sus ms profundas minas,
+frase: “No está aquí”. La razón no lo ha encontrado en sus más profundas minas,
 
-ni la especulacin en sus ms elevados vuelos, aunque en verdad l no est
+ni la especulación en sus más elevados vuelos, aunque en verdad Él no está
 
 lejos de ninguno de nosotros. Atenas tiene su Dios desconocido, pero, en el
 
-simple Evangelio, Dios es conocido en la persona de Jess. Scrates y Platn
+simple Evangelio, Dios es conocido en la persona de Jesús. Sócrates y Platón
 
-sostienen sus velas, pero Jess es el sol. Nuestros pensadores modernos
+sostienen sus velas, pero Jesús es el sol. Nuestros pensadores modernos
 
 critican y disputan y, sin embargo, en medio de nosotros, un Cristo vivo
 
-convierte a los pecadores, anima a los santos y glorifica a Dios. Si el Seor
+convierte a los pecadores, anima a los santos y glorifica a Dios. Si el Seńor
 
-fuera un tema muerto para debate, la filosofa podra ayudarnos; pero como l
+fuera un tema muerto para debate, la filosofía podría ayudarnos; pero como Él
 
-es un poder viviente, un grano de fe en l es mejor que las montaas de la filosofa.
+es un poder viviente, un grano de fe en Él es mejor que las montańas de la filosofía.
 
 Oh, ustedes que no
 
-conocen la vida interior, ni el Espritu vivificador, que tienen que ver con
+conocen la vida interior, ni el Espíritu vivificador, żque tienen que ver con
 
-el Seor resucitado? Que ustedes se convirtieran en los rbitros de la verdad
+el Seńor resucitado? Que ustedes se convirtieran en los árbitros de la verdad
 
-concerniente a Jess nuestro Seor, equivaldra a que el gusano de la corrupcin
+concerniente a Jesús nuestro Seńor, equivaldría a que el gusano de la corrupción
 
 se convirtiera en un juez de los querubines.
 
-Cun ansiosamente deseo,
+Cuán ansiosamente deseo,
 
-en verdad, que ustedes que han estado buscando la salvacin en cualquiera de
+en verdad, que ustedes que han estado buscando la salvación en cualquiera de
 
 estas direcciones, renunciaran a esa desesperada tarea y entendieran que Cristo
 
-est cerca de ustedes, y si creen en l con el corazn, y con la boca lo
+está cerca de ustedes, y si creen en Él con el corazón, y con la boca lo
 
-confiesan, sern salvos. Mirad a m, y sed salvos, todos los trminos de la
+confiesan, serán salvos. “Mirad a mí, y sed salvos, todos los términos de la
 
-tierra, porque yo soy Dios, y no hay ms: ste es el clamor de l para
+tierra, porque yo soy Dios, y no hay más”: éste es el clamor de Él para
 
-ustedes. La fe es por el or, y el or, por la palabra de Dios. Cree en el
+ustedes. “La fe es por el oír, y el oír, por la palabra de Dios”. “Cree en el
 
-Seor Jesucristo, y sers salvo, Jess vive todava, y puede salvar
+Seńor Jesucristo, y serás salvo”, Jesús vive todavía, y puede salvar
 
-perpetuamente. Todo lo que tienes que hacer es simplemente volver a l la
+perpetuamente. Todo lo que tienes que hacer es simplemente volver a Él la
 
-mirada de tu fe: por esa fe, l se vuelve tuyo, y t eres salvo, pero, oh, no
+mirada de tu fe: por esa fe, Él se vuelve tuyo, y tú eres salvo, pero, oh, no
 
-busques entre los muertos al que vive, pues l resucit.
+busques entre los muertos al que vive, pues Él resucitó.
 
 III.
 
@@ -748,19 +752,19 @@ Vamos
 
 a cambiar otra vez nuestro tenor y vamos a considerar, en tercer lugar, LOS
 
-DOMICILIOS INADECUADOS. Los ngeles les dijeron a las mujeres: No est aqu,
+DOMICILIOS INADECUADOS. Los ángeles les dijeron a las mujeres: “No está aquí,
 
-sino que ha resucitado. Que equivale a decir: puesto que l vive, no reside
+sino que ha resucitado”. Que equivale a decir: puesto que Él vive, no reside
 
-aqu. El Cristo vivo hubiera podido quedarse en la tumba y convertir al sepulcro
+aquí. El Cristo vivo hubiera podido quedarse en la tumba y convertir al sepulcro
 
-en Su lugar de reposo, pero eso no habra sido apropiado; y as nos ensea hoy
+en Su lugar de reposo, pero eso no habría sido apropiado; y así nos enseńa hoy
 
 que los cristianos deben morar en lugares apropiados para ellos. Ustedes
 
-resucitaron en Cristo, por tanto, no deberan residir en el sepulcro. Voy a
+resucitaron en Cristo, por tanto, no deberían residir en el sepulcro. Voy a
 
-hablarles ahora a quienes, para efectos prcticos, viven el sepulcro aunque hayan
+hablarles ahora a quienes, para efectos prácticos, viven el sepulcro aunque hayan
 
 resucitado de los muertos.
 
@@ -770,85 +774,85 @@ excelentes individuos, pero su temperamento y tal vez sus erradas convicciones
 
 del deber, los conducen a estar perpetuamente
 
-sombros y desanimados.
+sombríos y desanimados.
 
-Esperan haber credo en Cristo, pero no
+Esperan haber creído en Cristo, pero no
 
-estn seguros; confan que son salvos, pero no seran lo suficientemente
+están seguros; confían que son salvos, pero no serían lo suficientemente
 
 presuntuosos para decirlo. No se atreven a ser felices disfrutando de la
 
-conviccin de que son aceptos en el Amado. Aman la cuerda luctuosa del arpa, y
+convicción de que son aceptos en el Amado. Aman la cuerda luctuosa del arpa, y
 
-lamentan a un Dios ausente. Esperan que las promesas divinas sern cumplidas;
+lamentan a un Dios ausente. Esperan que las promesas divinas serán cumplidas;
 
-confan que, tal vez, uno de estos das, ellos podrn salir a la luz y que vern
+confían que, tal vez, uno de estos días, ellos podrán salir a la luz y que verán
 
-un poco de la luminosidad del amor del Seor, pero por ahora estn dispuestos a
+un poco de la luminosidad del amor del Seńor, pero por ahora están dispuestos a
 
-detenerse y, mientras, moran en el valle de sombra de muerte y su alma est dolorosamente
+detenerse y, mientras, moran en el valle de sombra de muerte y su alma está dolorosamente
 
 cargada.
 
-Querido amigo; piensas
+Querido amigo; żpiensas
 
-t que sta es una condicin apropiada para un cristiano? Yo no voy a negar tu
+tú que ésta es una condición apropiada para un cristiano? Yo no voy a negar tu
 
 cristianismo ni por un momento, pues no tengo ni la mitad de dudas acerca de
 
-eso de las que t tienes; tengo una mejor opinin de ti de la que t mismo
+eso de las que tú tienes; tengo una mejor opinión de ti de la que tú mismo
 
-tienes de ti. El ms trmulo creyente en Jess es salvo, y tu poca fe te
+tienes de ti. El más trémulo creyente en Jesús es salvo, y tu poca fe te
 
-salvar; pero, realmente crees que Cristo tena la intencin de que te
+salvará; pero, żrealmente crees que Cristo tenía la intención de que te
 
-quedaras donde ests, sentado en la fra y silenciosa tumba, en medio del polvo
+quedaras donde estás, sentado en la fría y silenciosa tumba, en medio del polvo
 
-y de las cenizas? Por qu habras de mantenerte en la clandestinidad? Por qu
+y de las cenizas? żPor qué habrías de mantenerte en la clandestinidad? żPor qué
 
-no venir al huerto del Maestro donde las flores exhalan su perfume? Por qu no
+no venir al huerto del Maestro donde las flores exhalan su perfume? żPor qué no
 
 gozar de la fresca luz de la plena seguridad y del dulce aliento de las
 
-influencias consoladoras del Espritu? El que habitaba entre las tumbas era un
+influencias consoladoras del Espíritu? El que habitaba entre las tumbas era un
 
-loco: no lo imites. No digas: he sido tal pecador que sto es todo lo que
+loco: no lo imites. No digas: he sido tal pecador que ésto es todo lo que
 
 merezco gozar, pues si hablas de merecer, has dejado por completo el Evangelio.
 
-Yo s que crees en Jess, y que no renunciaras a tu esperanza por nada del
+Yo sé que crees en Jesús, y que no renunciarías a tu esperanza por nada del
 
-mundo; sientes, despus de todo, que l es un Cristo precioso para ti; ven,
+mundo; sientes, después de todo, que Él es un Cristo precioso para ti; ven,
 
-entonces, regocjate en l, aunque no puedas regocijarte en ti mismo. Ven,
+entonces, regocíjate en Él, aunque no puedas regocijarte en ti mismo. ˇVen,
 
-amado, sal fuera de esa horrible cripta, djala de inmediato! Bien que
+amado, sal fuera de esa horrible cripta, déjala de inmediato! ‘Bien que
 
-fuisteis echados entre los tiestos, seris como alas de paloma cubiertas de
+fuisteis echados entre los tiestos, seréis como alas de paloma cubiertas de
 
-plata, y sus plumas con amarillez de oro. Tu Seor se acerca a ti ahora y te
+plata, y sus plumas con amarillez de oro’. Tu Seńor se acerca a ti ahora y te
 
-dice: Paloma ma, que ests en los agujeros de la pea, en lo escondido de
+dice: “Paloma mía, que estás en los agujeros de la peńa, en lo escondido de
 
-escarpados parajes, mustrame tu rostro, hazme or tu voz; porque dulce es la
+escarpados parajes, muéstrame tu rostro, hazme oír tu voz; porque dulce es la
 
-voz tuya, y hermoso tu aspecto. Miembros del cuerpo de un Salvador resucitado,
+voz tuya, y hermoso tu aspecto”. Miembros del cuerpo de un Salvador resucitado,
 
-se van a quedar todava en la tumba? Levntense y salgan afuera! No lo duden
+żse van a quedar todavía en la tumba? ˇLevántense y salgan afuera! No lo duden
 
-ms. Oh, creyente, qu motivo tienes t para dudar de tu Dios? Te ha mentido alguna
+más. Oh, creyente, żqué motivo tienes tú para dudar de tu Dios? żTe ha mentido alguna
 
-vez? No cuestiones ms el poder de la sangre preciosa. Por qu habras de
+vez? No cuestiones más el poder de la sangre preciosa. żPor qué habrías de
 
-dudar de l? No es capaz de limpiarte del pecado? No preguntes ms acerca de
+dudar de él? żNo es capaz de limpiarte del pecado? No preguntes más acerca de
 
-si eres salvo o si puedes serlo; si t crees, ests tan seguro como lo est
+si eres salvo o si puedes serlo; si tú crees, estás tan seguro como lo está
 
-Cristo. Si ests apoyado en l, no puedes perecer ms de lo que Cristo pudiera
+Cristo. Si estás apoyado en Él, no puedes perecer más de lo que Cristo pudiera
 
-perecer; Su palabra lo ha garantizado, Su honor est involucrado en ello y l
+perecer; Su palabra lo ha garantizado, Su honor está involucrado en ello y Él
 
-seguramente te llevar al reposo prometido; por tanto, debes ser dichoso.
+seguramente te llevará al reposo prometido; por tanto, debes ser dichoso.
 
 Vamos, yo conozco a un
 
@@ -856,37 +860,37 @@ hermano que ha vivido enterrado en las catacumbas y en las criptas por tanto
 
 tiempo, que condena a sus hermanos porque viven a la luz del sol, y ha dicho:
 
-no puedo entender que un hombre hable tan confiadamente, no puedo entenderlo.
+“no puedo entender que un hombre hable tan confiadamente, no puedo entenderlo”.
 
-Mi querido hermano, que t no puedas entenderlo no quiere decir que est mal.
+Mi querido hermano, que tú no puedas entenderlo no quiere decir que esté mal.
 
-Hay mucho acerca de las guilas que los bhos no entienden. T, que ests inquietndote
+Hay mucho acerca de las águilas que los búhos no entienden. Tú, que estás inquietándote
 
-y preocupndote siempre de esa manera, ests pecando contra Dios, ests contristando
+y preocupándote siempre de esa manera, estás pecando contra Dios, estás contristando
 
-a Su Espritu, ests actuando inconsistentemente con tu profesin cristiana, y
+a Su Espíritu, estás actuando inconsistentemente con tu profesión cristiana, y
 
 sin embargo, te atreves a juzgar a otros que creen que Dios es veraz y le toman
 
 la palabra, y por tanto, obtienen gozo y consuelo de Su promesa. No hagas eso
 
-nunca; sera algo malvado en verdad que te erigieras en juez. En lugar de eso,
+nunca; sería algo malvado en verdad que te erigieras en juez. En lugar de eso,
 
-ora pidindole al Seor que alce la luz de Su rostro sobre ti, para que te d
+ora pidiéndole al Seńor que alce la luz de Su rostro sobre ti, para que te dé
 
-gozo y paz en la fe, pues sto dice l: Alegraos en Jehov y gozaos, justos; y
+gozo y paz en la fe, pues ésto dice Él: “Alegraos en Jehová y gozaos, justos; y
 
-cantad con jbilo todos vosotros los rectos de corazn. Sal de la tumba,
+cantad con júbilo todos vosotros los rectos de corazón”. Sal de la tumba,
 
-querido hermano, pues Jess no est all, y si l no est all, por qu
+querido hermano, pues Jesús no está allí, y si Él no está allí, żpor qué
 
-habras de estar t? l ha resucitado. Oh, levntate y s consolado, tambin,
+habrías de estar tú? Él ha resucitado. Oh, levántate y sé consolado, también,
 
-en el poder de Su Espritu.
+en el poder de Su Espíritu.
 
 Otro tipo de gente
 
-pareciera morar entre las tumbas: me refiero a cristianos y confo que sean
+pareciera morar entre las tumbas: me refiero a cristianos –y confío que sean
 
 verdaderos cristianos- pero que son muy, muy
 
@@ -896,13 +900,13 @@ Que un hombre sea diligente en los negocios no es pecado,
 
 pero es una falla lastimosa cuando la diligencia en los negocios destruye el
 
-fervor del espritu, y cuando no se sirve a Dios en la vida cotidiana. Un
+fervor del espíritu, y cuando no se sirve a Dios en la vida cotidiana. Un
 
-cristiano debera ser diligente como para proveer cosas honestas a los ojos de
+cristiano debería ser diligente como para proveer cosas honestas a los ojos de
 
-todos los hombres, pero hay algunos que no se contentan con sto. Tienen lo
+todos los hombres, pero hay algunos que no se contentan con ésto. Tienen lo
 
-suficiente pero codician ms, y cuando tienen ms, todava extienden sus brazos
+suficiente pero codician más, y cuando tienen más, todavía extienden sus brazos
 
 como mares para asir toda la costa, y su pensamiento principal no es Dios, sino
 
@@ -910,105 +914,105 @@ el oro; no es Cristo, sino la riqueza.
 
 Oh, hermanos, hermanos,
 
-permtanme reprenderlos sinceramente, para que no reciban un severo reproche,
+permítanme reprenderlos sinceramente, para que no reciban un severo reproche,
 
-en la providencia, en sus propias almas. Cristo no est aqu! l no habita en
+en la providencia, en sus propias almas. ˇCristo no está aquí! Él no habita en
 
-los montones de plata. Ustedes podran ser muy ricos, y sin embargo, podran no
+los montones de plata. Ustedes podrían ser muy ricos, y sin embargo, podrían no
 
-encontrar a Cristo en todas esas riquezas; y podran ser pobres, y sin embargo,
+encontrar a Cristo en todas esas riquezas; y podrían ser pobres, y sin embargo,
 
-si Cristo estuviera con ustedes, seran felices como los ngeles. No est
+si Cristo estuviera con ustedes, serían felices como los ángeles. ˇNo está
 
-aqu, resucit! No podra retenerlo una tumba de mrmol, ni una tumba de oro
+aquí, resucitó! No podría retenerlo una tumba de mármol, ni una tumba de oro
 
-podra contenerlo. No permitas que te contenga a ti. Desenvuelve la mortaja
+podría contenerlo. No permitas que te contenga a ti. Desenvuelve la mortaja
 
-encerada de tu corazn; echa todo tu cuidado sobre Dios que cuida de ti. Deja
+encerada de tu corazón; echa todo tu cuidado sobre Dios que cuida de ti. Deja
 
-que tu conversacin sea en el cielo. No pongas tu afecto en las cosas de la
+que tu conversación sea en el cielo. No pongas tu afecto en las cosas de la
 
-tierra, sino ponlo en las cosas de arriba, donde Cristo est sentado a la
+tierra, sino ponlo en las cosas de arriba, donde Cristo está sentado a la
 
 diestra de Dios.
 
-Dir algo ms sobre este
+Diré algo más sobre este
 
-punto y es un tema ms doloroso todava: hay algunos profesantes que viven en el
+punto y es un tema más doloroso todavía: hay algunos profesantes que viven en el
 
-depsito de cadveres del
+depósito de cadáveres del
 
 pecado.
 
 Sin
 
-embargo, dicen que son miembros del pueblo de Dios. No, no dir que viven en el
+embargo, dicen que son miembros del pueblo de Dios. No, no diré que viven en el
 
 pecado, pero hacen algo que tal vez sea peor: buscan el pecado para encontrar
 
-sus placeres. Yo supongo que podemos juzgar a un hombre ms por aquello en donde
+sus placeres. Yo supongo que podemos juzgar a un hombre más por aquello en donde
 
-encuentra su placer, que casi por cualquier otra cosa. Un hombre podra decir:
+encuentra su placer, que casi por cualquier otra cosa. Un hombre podría decir:
 
-yo no frecuento habitualmente los alborozos del mundo; no siempre me
+“yo no frecuento habitualmente los alborozos del mundo; no siempre me
 
-encuentran donde el pecado se mezcla con el jbilo ni donde los mundanos danzan
+encuentran donde el pecado se mezcla con el júbilo ni donde los mundanos danzan
 
-al borde del infierno, pero voy all de vez en cuando para darme un gusto.
+al borde del infierno, pero voy allí de vez en cuando para darme un gusto”.
 
 No puedo evitar citar la
 
-observacin de Rowland Hill, quien, cuando se reuni con un profesante que iba
+observación de Rowland Hill, quien, cuando se reunió con un profesante que iba
 
-al teatro y que era un miembro de su iglesia; le dijo: Entiendo que asistes al
+al teatro y que era un miembro de su iglesia; le dijo: “Entiendo que asistes al
 
-teatro. No, -le respondi- yo solo voy de vez en cuando para darme un gusto.
+teatro”. “No”, -le respondió- “yo solo voy de vez en cuando para darme un gusto”.
 
-Ah, -dijo el seor Hill- eso lo empeora todo. Supn que alguien dijera: el seor
+“Ah”, -dijo el seńor Hill- “eso lo empeora todo. Supón que alguien dijera: ‘el seńor
 
-Hill es un ser extrao pues come carroa. Entonces me preguntan: es verdad,
+Hill es un ser extrańo pues come carrońa’. Entonces me preguntan: żes verdad,
 
-seor Hill, que usted vive de la carroa? No, yo no como carroa
+seńor Hill, que usted vive de la carrońa?’ ‘No, yo no como carrońa
 
-habitualmente, pero como un platillo de carroa de vez en cuando para darme un
+habitualmente, pero como un platillo de carrońa de vez en cuando para darme un
 
-gusto. Pues bien, t pensaras que yo soy ms sucio de lo que habra sido si
+gusto’. Pues bien, tú pensarías que yo soy más sucio de lo que habría sido si
 
-la comiera ordinariamente.
+la comiera ordinariamente”.
 
 Hay mucha fuerza en esa
 
-observacin. Si todo aquello que bordea con lo inmundo y lascivo es un gusto
+observación. Si todo aquello que bordea con lo inmundo y lascivo es un gusto
 
-para ti, entonces tu propio corazn es inmundo, y t ests buscando tu placer y
+para ti, entonces tu propio corazón es inmundo, y tú estás buscando tu placer y
 
 consuelo entre los muertos. Hay algunas cosas de las que los hombres derivan
 
-placer en nuestros das, que slo son idneas para hacer rer a los idiotas o para
+placer en nuestros días, que sólo son idóneas para hacer reír a los idiotas o para
 
-hacer llorar a los ngeles. Sean selectivos, hombres y mujeres cristianos, en
+hacer llorar a los ángeles. Sean selectivos, hombres y mujeres cristianos, en
 
-cuanto a su compaa. Ustedes son hermanos de Cristo; acaso se han de juntar
+cuanto a su compańía. Ustedes son hermanos de Cristo; żacaso se han de juntar
 
-con los hijos de Belial? Ustedes son herederos de la perfeccin en Cristo;
+con los hijos de Belial? Ustedes son herederos de la perfección en Cristo;
 
-incluso ahora estn vestidos de lino inmaculado y son hermosos y bellos a los
+incluso ahora están vestidos de lino inmaculado y son hermosos y bellos a los
 
 ojos de Dios; ustedes son un sacerdocio real, son los elegidos de la humanidad;
 
-arrastrarn sus vestiduras en el cieno y se convertirn en el hazmerrer de
+żarrastrarán sus vestiduras en el cieno y se convertirán en el hazmerreír de
 
-los filisteos? Se juntarn con los menesterosos hijos del mundo? No; acten de
+los filisteos? żSe juntarán con los menesterosos hijos del mundo? No; actúen de
 
 acuerdo a su estirpe y a su naturaleza nacida de nuevo, y no busquen nunca a
 
-los vivos entre los muertos. Jess nunca estuvo all; no vayan all tampoco
+los vivos entre los muertos. Jesús nunca estuvo allí; no vayan allí tampoco
 
-ustedes. l no am el ruido ni el barullo de los placeres del mundo; l tena
+ustedes. Él no amó el ruido ni el barullo de los placeres del mundo; Él tenía
 
-alimentos de otro tipo. Que Dios les conceda sentir la slida vida de
+alimentos de otro tipo. Que Dios les conceda sentir la sólida vida de
 
-resurreccin dentro de sus espritus.
+resurrección dentro de sus espíritus.
 
 IV.
 
@@ -1016,97 +1020,97 @@ Pero
 
 sigo adelante. En cuarto lugar, quiero advertirles contra LOS SERVICIOS
 
-IRRAZONABLES. Esas buenas gentes a quienes los ngeles dijeron: No est aqu,
+IRRAZONABLES. Esas buenas gentes a quienes los ángeles dijeron: “No está aquí,
 
-sino que ha resucitado, llevaban una carga, y qu era lo que llevaban? Qu
+sino que ha resucitado”, llevaban una carga, ży qué era lo que llevaban? żQué
 
-carga llevaban Juana y sus siervos y Mara? Bien, lino fino, y qu ms?
+carga llevaban Juana y sus siervos y María? Bien, lino fino, y żqué más?
 
-Llevaban libras de especias, las ms preciosas que pudieron comprar. Qu
+Llevaban libras de especias, las más preciosas que pudieron comprar. żQué
 
-pretenden hacer? Ah, si un ngel pudiera rer, yo pensara que debe de haber
+pretenden hacer? Ah, si un ángel pudiera reír, yo pensaría que debe de haber
 
-redo al darse cuenta de que venan a embalsamar a Cristo. No est aqu; es
+reído al darse cuenta de que venían a embalsamar a Cristo. “No está aquí; es
 
-ms, no est muerto, no necesita ser embalsamado, l vive. Tal vez hayan visto
+más, no está muerto, no necesita ser embalsamado, Él vive”. Tal vez hayan visto
 
-por toda Inglaterra el Viernes Santo, y tambin el Domingo de Gloria, a multitudes
+por toda Inglaterra el Viernes Santo, y también el Domingo de Gloria, a multitudes
 
-de personas no tengo ninguna duda de que son personas muy sinceras- que vienen
+de personas –no tengo ninguna duda de que son personas muy sinceras- que vienen
 
-a embalsamar a Cristo. Tocan una campana porque l est muerto, y cuelgan papel
+a embalsamar a Cristo. Tocan una campana porque Él está muerto, y cuelgan papel
 
-crep sobre lo que ellos llaman sus altares porque l est muerto, y ayunan y
+crepé sobre lo que ellos llaman ‘sus altares’ porque Él está muerto, y ayunan y
 
 cantan tristes himnos acerca de su Salvador muerto.
 
-Yo bendigo al Seor
+Yo bendigo al Seńor
 
-porque mi Redentor no est muerto, ni tengo que tocar una campana fnebre por
+porque mi Redentor no está muerto, ni tengo que tocar una campana fúnebre por
 
-l. l resucit, l no est aqu! Aqu vienen, multitudes de ellos con sus
+Él. ˇÉl resucitó, Él no está aquí! Aquí vienen, multitudes de ellos con sus
 
-linos finos, y sus preciosas especias para envolver a un Cristo muerto. Estn
+linos finos, y sus preciosas especias para envolver a un Cristo muerto. żEstán
 
-locos esos hombres? Pero, responden ellos, nosotros slo estbamos llevando a
+locos esos hombres? Pero, responden ellos, nosotros sólo estábamos llevando a
 
-cabo una representacin otra vez. Oh, se trataba de eso? Se trataba de farsas
+cabo una representación otra vez. Oh, żse trataba de eso? żSe trataba de farsas
 
-prcticas? Actuar la gloriosa expiacin del Calvario como si fuese una obra
+prácticas? ˇActuar la gloriosa expiación del Calvario como si fuese una obra
 
 teatral! Entonces yo acuso a los actores de blasfemia delante del trono del
 
 Dios eterno que oye mis palabras; los acuso de irreverencia por atreverse a
 
-ensayar en mmica lo que fue hecho una vez y para siempre, y que no se ha de
+ensayar en mímica lo que fue hecho una vez y para siempre, y que no se ha de
 
-repetir nunca. No, no puedo suponer que tuvieran la intencin de remedar el
+repetir nunca. No, no puedo suponer que tuvieran la intención de remedar el
 
 grandioso sacrificio, y, por tanto, concluyo que pensaron que su Salvador
 
-estaba muerto, y entonces ellos dijeron: Toquen la campana por l!
+estaba muerto, y entonces ellos dijeron: “ˇToquen la campana por Él!
 
-Arrodllense y lloren delante de Su imagen en la cruz. Si yo creyera que
+Arrodíllense y lloren delante de Su imagen en la cruz”. Si yo creyera que
 
-Jesucristo muri el Viernes Santo, yo festejara todo el da debido a que Su
+Jesucristo murió el Viernes Santo, yo festejaría todo el día debido a que Su
 
-muerte ya pas; como l ha ordenado que el excelso festival de
+muerte ya pasó; como él ha ordenado que el excelso festival de
 
 la Cena
 
-del Seor sea Su
+del Seńor sea Su
 
-conmemoracin, y yo sigo Su mandato, y no guardo ningn ayuno. Quin se
+conmemoración, y yo sigo Su mandato, y no guardo ningún ayuno. żQuién se
 
-sentara y sollozara por un amigo que muri, si supieras que fue restaurado a
+sentaría y sollozaría por un amigo que murió, si supieras que fue restaurado a
 
-la vida y que fue exaltado en poder? Por qu doblar a muertos por un amigo
+la vida y que fue exaltado en poder? żPor qué doblar a muertos por un amigo
 
-vivo? Sin embargo, no condeno ms a la buena gente de lo que los ngeles
+vivo? Sin embargo, no condeno más a la buena gente de lo que los ángeles
 
-condenaron a aquellas santas mujeres, slo que pueden llevarse las especias a
+condenaron a aquellas santas mujeres, sólo que pueden llevarse las especias a
 
-casa y su lino fino tambin, pues Jess vive y no los necesita.
+casa y su lino fino también, pues Jesús vive y no los necesita.
 
 Muchas personas exigentes
 
-hacen lo mismo de otras maneras. Miren cmo dan un paso al frente en defensa
+hacen lo mismo de otras maneras. Miren cómo dan un paso al frente en defensa
 
-del Evangelio. Se ha descubierto por medio de la geologa y de la aritmtica
+del Evangelio. Se ha descubierto por medio de la geología y de la aritmética
 
-que Moiss est equivocado. Al instante salen muchos a defender a Jesucristo.
+que Moisés está equivocado. Al instante salen muchos a defender a Jesucristo.
 
-Argumentan a favor del Evangelio, y se disculpan por l, como si estuviera ahora
+Argumentan a favor del Evangelio, y se disculpan por él, como si estuviera ahora
 
-un poco rancio, y como si necesitramos cambiarlo para adecuarlo a los
+un poco rancio, y como si necesitáramos cambiarlo para adecuarlo a los
 
-descubrimientos modernos y a las filosofas de la poca presente. Eso me parece
+descubrimientos modernos y a las filosofías de la época presente. Eso me parece
 
 que equivale exactamente a que te aproximes con tu lino fino y con tus especias
 
-preciosas para envolverlo. Llvatelos. Yo me pregunto si Butler y Paley no han
+preciosas para envolverlo. Llévatelos. Yo me pregunto si Butler y Paley no han
 
-creado juntos ms infieles de los que han curado jams, y si la mayora de las
+creado juntos más infieles de los que han curado jamás, y si la mayoría de las
 
 defensas del Evangelio no son sino puras impertinencias. El Evangelio no necesita
 
@@ -1114,179 +1118,179 @@ que se le defienda. Si Jesucristo no estuviera vivo, y no
 
 pudiera
 
-pelear Sus propias batallas, entonces el cristianismo estara en una situacin
+pelear Sus propias batallas, entonces el cristianismo estaría en una situación
 
-riesgosa. Pero l vive, y slo tenemos que predicar Su Evangelio en toda su
+riesgosa. Pero Él vive, y sólo tenemos que predicar Su Evangelio en toda su
 
-desnuda simplicidad, y el poder que sale con l ser la evidencia de su
+desnuda simplicidad, y el poder que sale con él será la evidencia de su
 
-divinidad. Ninguna otra evidencia convencer jams a la humanidad. Las
+divinidad. Ninguna otra evidencia convencerá jamás a la humanidad. Las
 
-apologas y las defensas tienen buenas intenciones, sin duda, como tambin el
+apologías y las defensas tienen buenas intenciones, sin duda, como también el
 
-embalsamamiento tena buenas intenciones por parte de esas buenas mujeres, pero
+embalsamamiento tenía buenas intenciones por parte de esas buenas mujeres, pero
 
-son de pequeo valor. Denle espacio a Cristo, denle espacio y oportunidades a
+son de pequeńo valor. Denle espacio a Cristo, denle espacio y oportunidades a
 
 Sus predicadores para predicar el Evangelio y dejen que la verdad sea llevada
 
-en un lenguaje sencillo, y pronto oirn decir al Maestro: Llvense las
+en un lenguaje sencillo, y pronto oirán decir al Maestro: “ˇLlévense las
 
-especias, llvense el lino! Yo estoy vivo, y no necesito de esas cosas.
+especias, llévense el lino! Yo estoy vivo, y no necesito de esas cosas”.
 
 Vemos el mismo tipo de
 
 cosas en otras buenas personas que se aferran a formas pasadas de moda y
 
-estereotipadas; para ellas todo ha de ser conducido exactamente como sola ser
+estereotipadas; para ellas todo ha de ser conducido exactamente como solía ser
 
-conducido hace cien o doscientos aos. El orden puritano ha de ser mantenido, y
+conducido hace cien o doscientos ańos. El orden puritano ha de ser mantenido, y
 
 no debe haber ninguna divergencia, y la manera de exponer el Evangelio tiene
 
 que ser exactamente de la misma manera en la que fue expuesto por el buen
 
-anciano, el doctor Fulano de Tal, y en el plpito debe existir la ms terrible
+anciano, el doctor Fulano de Tal, y en el púlpito debe existir la más terrible
 
-monotona que pueda ser urdida, y el predicador debe ser devotamente insulso, y
+monotonía que pueda ser urdida, y el predicador debe ser devotamente insulso, y
 
-toda la adoracin debe ser serenamente apropiada: muchas especias y lino fino
+toda la adoración debe ser serenamente apropiada: muchas especias y lino fino
 
-con las que envolver a un Cristo muerto. A m me deleita hacer pedazos las
+con las que envolver a un Cristo muerto. A mí me deleita hacer pedazos las
 
 cosas convencionales y apropiadas. Es algo grandioso pisotear las meras
 
 regulaciones humanas, porque la vida no puede ser maniatada con regulaciones
 
-apropiadas nicamente para los muertos. La muerte yace amortajada como una
+apropiadas únicamente para los muertos. La muerte yace amortajada como una
 
-momia en el museo; siempre har lo apropiado, o ms bien no har nada en
+momia en el museo; siempre hará lo apropiado, o más bien no hará nada en
 
-absoluto; pero la vida, la verdadera vida, se manifestar de formas
+absoluto; pero la vida, la verdadera vida, se manifestará de formas
 
-inesperadas. La vida dir lo que la muerte no podra decir, surgir donde no
+inesperadas. La vida dirá lo que la muerte no podría decir, surgirá donde no
 
-era esperada, y quebrar todas sus leyes y regulaciones en mil pedazos. Pero
+era esperada, y quebrará todas sus leyes y regulaciones en mil pedazos. Pero
 
-todava veo a la buena gente alzando sus manos en horror, y clamando: Traigan
+todavía veo a la buena gente alzando sus manos en horror, y clamando: “Traigan
 
-aqu la goma arbiga, la mirra y los loes, traigan aqu el lino; debemos
+aquí la goma arábiga, la mirra y los áloes, traigan aquí el lino; debemos
 
-cuidar a nuestro amado Maestro muerto. Djalo en paz, djalo en paz, hombre,
+cuidar a nuestro amado Maestro muerto”. Déjalo en paz, déjalo en paz, hombre,
 
-l est vivo y no necesita que lo envuelvas. No dudo en decir que gran parte
+Él está vivo y no necesita que lo envuelvas. No dudo en decir que gran parte
 
 del orden de la iglesia entre los disconformes y los episcopalianos,
 
 presbiterianos, y todo tipo de denominaciones, y una buena parte de lo
 
-apropiado y del decoro, y de la regulacin, y del As como era en el
+apropiado y del decoro, y de la regulación, y del “Así como era en el
 
-principio, ahora y siempre ser, no son sino otras tantas especias y lino fino
+principio, ahora y siempre será”, no son sino otras tantas especias y lino fino
 
-para un Cristo muerto, pero Cristo est vivo, y lo que necesita es espacio! No
+para un Cristo muerto, pero Cristo está vivo, ˇy lo que necesita es espacio! No
 
-digo esto para mi propio beneficio -acaso no soy siempre correcto?- pero lo
+digo esto para mi propio beneficio -żacaso no soy siempre correcto?- pero lo
 
 digo en beneficio de algunos sinceros hermanos evangelistas que, cuando
 
-predican a los pobres, usan un lenguaje extravagante y tal vez tambin una
+predican a los pobres, usan un lenguaje extravagante y tal vez también una
 
-accin extravagante. Que los usen. Los crticos dicen que son histrinicos.
+acción extravagante. Que los usen. Los críticos dicen que son histriónicos.
 
-Hubo alguna vez alguien que fuera la mitad de histrinico que Ezequiel? No
+żHubo alguna vez alguien que fuera la mitad de histriónico que Ezequiel? żNo
 
-hicieron todos los profetas cosas extraas para ganarse la atencin del pueblo?
+hicieron todos los profetas cosas extrańas para ganarse la atención del pueblo?
 
-Vamos, la misma acusacin fue presentada contra Whitefield y Wesley: Estas
+Vamos, la misma acusación fue presentada contra Whitefield y Wesley: “Estas
 
-personas estn quebrantando completamente todas las reglas, etctera. Qu
+personas están quebrantando completamente todas las reglas”, etcétera. ˇQué
 
-bendicin es cuando los hombres pueden hacer eso!
+bendición es cuando los hombres pueden hacer eso!
 
-El seor Hill fue a
+El seńor Hill fue a
 
-Escocia para predicar el Evangelio, y decan que l cabalgaba sobre los lomos
+Escocia para predicar el Evangelio, y decían que él cabalgaba sobre los lomos
 
-de todo orden y decoro. Entonces dijo l: Voy a llamar a mi par de corceles
+de todo orden y decoro. Entonces dijo él: “Voy a llamar a mi par de corceles
 
-con esos nombres, para que sea cierto. Era cierto; sin duda l cabalg sobre
+con esos nombres, para que sea cierto”. Era cierto; sin duda él cabalgó sobre
 
-los lomos del orden y del decoro, pero l llevaba a las almas a Cristo con esos
+los lomos del orden y del decoro, pero él llevaba a las almas a Cristo con esos
 
-dos extraos corceles y con su quebrantamiento de todas las reglas para llegar
+dos extrańos corceles y con su quebrantamiento de todas las reglas para llegar
 
-a hombres y mujeres que nunca habran sido alcanzados de ninguna otra manera.
+a hombres y mujeres que nunca habrían sido alcanzados de ninguna otra manera.
 
-Estn preparados a dejar a Cristo en libertad, y denles a Sus siervos libertad
+Estén preparados a dejar a Cristo en libertad, y denles a Sus siervos libertad
 
-para servirle como el Espritu de Dios los gue.
+para servirle como el Espíritu de Dios los guíe.
 
 V.
 
 Por
 
-ltimo, quera hablarles sobre LAS ASOMBROSAS NUEVAS que recibieron esas buenas
+último, quería hablarles sobre LAS ASOMBROSAS NUEVAS que recibieron esas buenas
 
-mujeres: No est aqu, sino que ha resucitado. Esas eran pasmosas nuevas para
+mujeres: “No está aquí, sino que ha resucitado”. Esas eran pasmosas nuevas para
 
-Sus enemigos. Ellos decan: Lo matamos; lo pusimos en la tumba; todo termin
+Sus enemigos. Ellos decían: “Lo matamos; lo pusimos en la tumba; todo terminó
 
-para l. Aj!, escriba, fariseo, sacerdote, qu has hecho? Su obra ha sido revertida,
+para Él”. ˇAjá!, escriba, fariseo, sacerdote, żqué has hecho? ˇSu obra ha sido revertida,
 
-pues l resucit! Esas fueron pasmosas nuevas para Satans. l, sin duda,
+pues Él resucitó! Esas fueron pasmosas nuevas para Satanás. Él, sin duda,
 
-soaba que haba destruido al Salvador, pero l resucit! Qu estremecimiento
+sońaba que había destruido al Salvador, ˇpero Él resucitó! ˇQué estremecimiento
 
-recorri todas las regiones del infierno! Qu noticia fue para la tumba!
+recorrió todas las regiones del infierno! ˇQué noticia fue para la tumba!
 
-Ahora estaba completamente destruida, y la muerte haba perdido su aguijn!
+ˇAhora estaba completamente destruida, y la muerte había perdido su aguijón!
 
-Qu noticia fue para los trmulos santos: Ha resucitado el Seor
+Qué noticia fue para los trémulos santos: “Ha resucitado el Seńor
 
-verdaderamente. Cobraron nimo y dijeron: La buena causa es la correcta
+verdaderamente”. Cobraron ánimo y dijeron: “La buena causa es la correcta
 
-todava, y vencer, pues nuestro Cristo vive y la encabeza. Fue una buena
+todavía, y vencerá, pues nuestro Cristo vive y la encabeza. Fue una buena
 
-noticia para los pecadores. S, es una buena noticia para todo pecador aqu presente.
+noticia para los pecadores. Sí, es una buena noticia para todo pecador aquí presente.
 
-Cristo vive; si lo buscas lo encontrars. Yo no los estoy dirigiendo hoy a un
+Cristo vive; si lo buscas lo encontrarás. Yo no los estoy dirigiendo hoy a un
 
-Cristo muerto. l resucit; l puede salvar perpetuamente a los que por l se
+Cristo muerto. Él resucitó; Él puede salvar perpetuamente a los que por él se
 
-acercan a Dios. No hay mejores noticias que stas para los hombres tristes,
+acercan a Dios. No hay mejores noticias que éstas para los hombres tristes,
 
 para los hombres desasosegados, desalentados y desesperados: el Salvador vive, y
 
-es todava capaz de salvar y est dispuesto a recibirte en Su tierno corazn.
+es todavía capaz de salvar y está dispuesto a recibirte en Su tierno corazón.
 
-stas fueron noticias alegres, amados, para todos los ngeles y para todos los
+Éstas fueron noticias alegres, amados, para todos los ángeles y para todos los
 
-espritus del cielo; fueron alegres nuevas, en verdad, para ellos. Y en este
+espíritus del cielo; fueron alegres nuevas, en verdad, para ellos. Y en este
 
-da sern alegres nuevas para nosotros, y viviremos en su poder con la ayuda de
+día serán alegres nuevas para nosotros, y viviremos en su poder con la ayuda de
 
-Su Espritu, y las contaremos a nuestros hermanos para que se regocijen con
+Su Espíritu, y las contaremos a nuestros hermanos para que se regocijen con
 
-nosotros, y no nos desesperaremos ms. No daremos ms entrada a las dudas ni a
+nosotros, y no nos desesperaremos más. No daremos más entrada a las dudas ni a
 
-los temores, sino que nos diremos los unos a los otros: Ha resucitado el Seor
+los temores, sino que nos diremos los unos a los otros: “Ha resucitado el Seńor
 
-verdaderamente. Que el Seor los bendiga, y que al acercarse a Su mesa -y
+verdaderamente”. Que el Seńor los bendiga, y que al acercarse a Su mesa -y
 
-confo que muchos miembros de Su pueblo se acercarn- encontremos a nuestro
+confío que muchos miembros de Su pueblo se acercarán- encontremos a nuestro
 
-Seor resucitado. Amn.
+Seńor resucitado. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 24.
+del sermón: Lucas 24.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 26/Abril/2011
 

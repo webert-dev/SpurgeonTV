@@ -1,10 +1,10 @@
 # Sermón 744 | Sermón 744
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Jess en
+Jesús en
 
 Betesda, o
 
@@ -12,9 +12,9 @@ La Espera Conmutada
 
 en Fe.
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAÑANA
 
 DEL
 
@@ -28,137 +28,137 @@ SPURGEON
 
 EN EL
 
-SALN THE AGRICULTURAL HALL, ISLINGTON.
+SALÓN ‘THE AGRICULTURAL HALL’, ISLINGTON.
 
-Despus de estas cosas haba
+“Después de estas cosas había
 
-una fiesta de los judos, y subi Jess a Jerusaln. Y hay en Jerusaln, cerca
+una fiesta de los judíos, y subió Jesús a Jerusalén. Y hay en Jerusalén, cerca
 
 de la puerta de las ovejas, un estanque, llamado en hebreo Betesda, el cual
 
-tiene cinco prticos. En stos yaca una multitud de enfermos, ciegos, cojos y
+tiene cinco pórticos. En éstos yacía una multitud de enfermos, ciegos, cojos y
 
-paralticos, que esperaban el movimiento del agua. Porque un ngel descenda de
+paralíticos, que esperaban el movimiento del agua. Porque un ángel descendía de
 
-tiempo en tiempo al estanque, y agitaba el agua; y el que primero descenda al
+tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al
 
-estanque despus del movimiento del agua, quedaba sano de cualquier enfermedad
+estanque después del movimiento del agua, quedaba sano de cualquier enfermedad
 
-que tuviese. Y haba all un hombre que haca treinta y ocho aos que estaba
+que tuviese. Y había allí un hombre que hacía treinta y ocho años que estaba
 
-enfermo. Cuando Jess lo vio acostado, y supo que llevaba ya mucho tiempo as,
+enfermo. Cuando Jesús lo vio acostado, y supo que llevaba ya mucho tiempo así,
 
-le dijo: Quieres ser sano? Seor, le respondi el enfermo, no tengo quien me
+le dijo: ¿Quieres ser sano? Señor, le respondió el enfermo, no tengo quien me
 
 meta en el estanque cuando se agita el agua; y entre tanto que yo voy, otro
 
-desciende antes que yo. Jess le dijo: Levntate, toma tu lecho, y anda. Y al
+desciende antes que yo. Jesús le dijo: Levántate, toma tu lecho, y anda. Y al
 
-instante aquel hombre fue sanado, y tom su lecho, y anduvo. Y era da de
+instante aquel hombre fue sanado, y tomó su lecho, y anduvo. Y era día de
 
-reposo aquel da. Juan 5: 1-9.
+reposo aquel día”. Juan 5: 1-9.
 
-Segn el evangelista, la escena de este milagro
+Según el evangelista, la escena de este milagro
 
 fue Betesda, un estanque ubicado junto al mercado de las ovejas, o cerca de la
 
-puerta de las ovejas; yo supongo que era un lugar a travs del cual era
+puerta de las ovejas; yo supongo que era un lugar a través del cual era
 
-conducido el ganado consumido por los habitantes de Jerusaln; y era el
+conducido el ganado consumido por los habitantes de Jerusalén; y era el
 
 estanque donde, posiblemente, eran lavadas las ovejas compradas por quienes
 
-ofrecan sacrificios en el templo. La enfermedad era algo tan comn en los das
+ofrecían sacrificios en el templo. La enfermedad era algo tan común en los días
 
-del Salvador, que las dolencias de los hombres invadan la zona que haba sido destinada
+del Salvador, que las dolencias de los hombres invadían la zona que había sido destinada
 
-para el ganado, y el lugar donde las ovejas eran lavadas antes, se haba
+para el ganado, y el lugar donde las ovejas eran lavadas antes, se había
 
 convertido en el punto donde los enfermos se congregaban en grandes multitudes,
 
-ansiando su curacin. No se nos dice que alguien protestase por la intrusin,
+ansiando su curación. No se nos dice que alguien protestase por la intrusión,
 
-ni que la opinin pblica estuviese escandalizada. Las necesidades de la
+ni que la opinión pública estuviese escandalizada. Las necesidades de la
 
-humanidad deben prevalecer sobre todas las dems consideraciones de preferencia
+humanidad deben prevalecer sobre todas las demás consideraciones de preferencia
 
 personal. El hospital debe tener la preferencia sobre el mercado de las ovejas.
 
-Hoy contamos aqu con un ejemplo
+Hoy contamos aquí con un ejemplo
 
-especfico. Si la dolencias fsicas de Jerusaln invadieron el mercado de las
+específico. Si la dolencias físicas de Jerusalén invadieron el mercado de las
 
-ovejas, yo no pedira ninguna disculpa si, en estos das de guardar, la
+ovejas, yo no pediría ninguna disculpa si, en estos días de guardar, la
 
 enfermedad espiritual de Londres exigiera que este espacioso lugar, que hasta
 
 este momento ha sido asignado a los mugidos del ganado y a los balidos de las
 
-ovejas, fuera consagrado a la predicacin del Evangelio y a la manifestacin
+ovejas, fuera consagrado a la predicación del Evangelio y a la manifestación
 
-del poder sanador de Cristo Jess entre quienes estn espiritualmente enfermos.
+del poder sanador de Cristo Jesús entre quienes están espiritualmente enfermos.
 
-Hoy hay un estanque en las cercanas del mercado de las ovejas, y hay enfermos reunidos
+Hoy hay un estanque en las cercanías del mercado de las ovejas, y hay enfermos reunidos
 
-en enormes multitudes aqu.
+en enormes multitudes aquí.
 
-Tal vez no nos hubiramos enterado nunca
+Tal vez no nos hubiéramos enterado nunca
 
 de Betesda si un augusto visitante no hubiera condescendido a honrar aquel
 
-lugar con Su presencia: Jess, el Hijo de Dios, que camin por los cinco
+lugar con Su presencia: Jesús, el Hijo de Dios, que caminó por los cinco
 
-prticos junto al estanque. Ese era el lugar donde podramos esperar
+pórticos junto al estanque. Ese era el lugar donde podríamos esperar
 
-encontrarlo, pues, dnde habra de estar el mdico sino en el lugar donde los
+encontrarlo, pues, ¿dónde habría de estar el médico sino en el lugar donde los
 
-enfermos estn reunidos? All haba trabajo para la mano sanadora y para la
+enfermos están reunidos? Allí había trabajo para la mano sanadora y para la
 
-palabra restauradora de Jess. Era muy natural que el Hijo del Hombre, quien vino
+palabra restauradora de Jesús. Era muy natural que el Hijo del Hombre, quien “vino
 
-a buscar y a salvar lo que se haba perdido, se abriera paso hasta la
+a buscar y a salvar lo que se había perdido”, se abriera paso hasta la
 
-leprosera que estaba a un costado del estanque. Esa agraciada visita es la
+leprosería que estaba a un costado del estanque. Esa agraciada visita es la
 
 gloria de Betesda, que ha elevado el nombre de ese estanque por encima del
 
-rango comn de los manantiales y de las aguas de la tierra.
+rango común de los manantiales y de las aguas de la tierra.
 
-Oh, que el Rey Jess viniera esta maana
+¡Oh, que el Rey Jesús viniera esta mañana
 
-a este lugar! Eso sera la gloria para este Saln en el que nos encontramos,
+a este lugar! Eso sería la gloria para este Salón en el que nos encontramos,
 
-por lo cual sera famoso hasta la eternidad. Si Jess estuviera presente aqu
+por lo cual sería famoso hasta la eternidad. Si Jesús estuviera presente aquí
 
-para sanar, el notable tamao de la congregacin dejara de ser un portento,
+para sanar, el notable tamaño de la congregación dejaría de ser un portento,
 
-pues el renombre de Jess y Su amor salvador eclipsaran todo lo dems, tal
+pues el renombre de Jesús y Su amor salvador eclipsarían todo lo demás, tal
 
 como el sol apaga las estrellas.
 
-Hermanos mos, Jess estar aqu, pues
+Hermanos míos, Jesús estará aquí, pues
 
-hay quienes lo conocen y tienen poder con l, y han estado solicitando Su
+hay quienes lo conocen y tienen poder con Él, y han estado solicitando Su
 
-presencia. El pueblo favorecido del Seor, mediante clamores y lgrimas
+presencia. El pueblo favorecido del Señor, mediante clamores y lágrimas
 
-prevalecientes, ha logrado de l Su consentimiento para estar entre nosotros en
+prevalecientes, ha logrado de Él Su consentimiento para estar entre nosotros en
 
-este da, y l camina en medio de este gento, tan dispuesto para sanar y tan
+este día, y Él camina en medio de este gentío, tan dispuesto para sanar y tan
 
-poderoso para salvar, como en los das de Su encarnacin. He aqu yo estoy con
+poderoso para salvar, como en los días de Su encarnación. “He aquí yo estoy con
 
-vosotros todos los das, hasta el fin del mundo, es una certidumbre que
+vosotros todos los días, hasta el fin del mundo”, es una certidumbre que
 
-proporciona consuelo al corazn del predicador esta maana. Un Salvador que
+proporciona consuelo al corazón del predicador esta mañana. Un Salvador que
 
-est presente presente en el poder del Espritu Santo- har que este da sea
+está presente –presente en el poder del Espíritu Santo- hará que este día sea
 
-recordado por muchos que sern sanados.
+recordado por muchos que serán sanados.
 
-Pido la especial atencin de todos, y ruego
+Pido la especial atención de todos, y ruego
 
-encarecidamente a los creyentes que me acompaen con sus fervientes oraciones
+encarecidamente a los creyentes que me acompañen con sus fervientes oraciones
 
 mientras los invito a que observen, primero,
 
@@ -166,25 +166,25 @@ al enfermo;
 
 en segundo lugar, a que dirijan su atenta mirada
 
-al Grandioso Mdico;
+al Grandioso Médico;
 
 y, en tercer lugar,
 
 a que
 
-hagan una aplicacin de la
+hagan una aplicación de la
 
-narracin completa al caso presente.
+narración completa al caso presente.
 
 I.
 
 Con el objeto de observar AL PACIENTE,
 
-les pedir que me acompaen al estanque con los cinco prticos en cuyo contorno
+les pediré que me acompañen al estanque con los cinco pórticos en cuyo contorno
 
-yacen los enfermos. Caminen cautelosamente entre los grupos de seres lisiados
+yacen los enfermos. ¡Caminen cautelosamente entre los grupos de seres lisiados
 
-y ciegos! No, no cierren sus ojos. Les har bien ver el deprimente espectculo para
+y ciegos! No, no cierren sus ojos. Les hará bien ver el deprimente espectáculo para
 
 que
 
@@ -192,65 +192,65 @@ comprueben
 
 lo que ha provocado el pecado y de
 
-cules males nos ha hecho herederos nuestro padre Adn.
+cuáles males nos ha hecho herederos nuestro padre Adán.
 
-Por qu estn todos ellos aqu? Estn
+¿Por qué están todos ellos aquí? Están
 
-aqu porque algunas veces las aguas bullen con un poder sanador. No es
+aquí porque algunas veces las aguas bullen con un poder sanador. No es
 
-necesario que discutamos aqu si eran visiblemente agitadas por un ngel o no;
+necesario que discutamos aquí si eran visiblemente agitadas por un ángel o no;
 
-pero se crea generalmente que un ngel descenda y tocaba el agua, y ese rumor
+pero se creía generalmente que un ángel descendía y tocaba el agua, y ese rumor
 
-atraa a enfermos provenientes de todas partes. Tan pronto como se divisaba la
+atraía a enfermos provenientes de todas partes. Tan pronto como se divisaba la
 
-ebullicin de las aguas toda la multitud descenda probablemente al estanque, y
+ebullición de las aguas toda la multitud descendía probablemente al estanque, y
 
-quienes no podan descender por s solos eran metidos por sus acompaantes.
+quienes no podían descender por sí solos eran metidos por sus acompañantes.
 
-Ay, cun pobre era el resultado! Muchos se quedaban frustrados. nicamente uno
+¡Ay, cuán pobre era el resultado! Muchos se quedaban frustrados. Únicamente uno
 
 era recompensado por el descenso; el
 
 primero
 
-en descender era sanado, pero solamente el primero. Por la mnima probabilidad de
+en descender era sanado, pero solamente el primero. Por la mínima probabilidad de
 
-alcanzar esa curacin, la gente enferma permaneca en los arcos de Betesda ao
+alcanzar esa curación, la gente enferma permanecía en los arcos de Betesda año
 
-tras ao. El enfermo de la narracin haba pasado muy probablemente la mayor
+tras año. El enfermo de la narración había pasado muy probablemente la mayor
 
-parte de sus treinta y ocho aos esperando junto a ese famoso estanque,
+parte de sus treinta y ocho años esperando junto a ese famoso estanque,
 
 sostenido por la remota esperanza de poder ser el primero de la multitud en
 
-descender algn da. En el da de reposo mencionado en nuestro texto, el ngel
+descender algún día. En el día de reposo mencionado en nuestro texto, el ángel
 
-no le haba visitado, pero alguien mejor haba venido, pues Jesucristo, el
+no le había visitado, pero alguien mejor había venido, pues Jesucristo, el
 
-Seor del ngel, estaba all.
+Señor del ángel, estaba allí.
 
 Con respecto a este hombre, noten que
 
-l estaba plenamente consciente de su
+él estaba plenamente consciente de su
 
 enfermedad.
 
-l no cuestionaba el quebranto de su salud; era un hombre
+Él no cuestionaba el quebranto de su salud; era un hombre
 
-enfermo; lo senta y lo reconoca. No era como algunas personas presentes aqu
+enfermo; lo sentía y lo reconocía. No era como algunas personas presentes aquí
 
-esta maana, que estn perdidas por naturaleza, pero que no lo saben o no quieren
+esta mañana, que están perdidas por naturaleza, pero que no lo saben o no quieren
 
 confesarlo. Estaba consciente de que necesitaba la ayuda celestial, y su espera
 
-junto al estanque lo demostraba. No hay, en esta asamblea, muchas personas que
+junto al estanque lo demostraba. ¿No hay, en esta asamblea, muchas personas que
 
-estn igualmente convencidas sobre este punto? Durante mucho tiempo t has
+estén igualmente convencidas sobre este punto? Durante mucho tiempo tú has
 
 sentido que eres un pecador, y has sabido que a menos que la gracia te salve,
 
-no puedes ser salvo nunca. T no eres un ateo, ni niegas el Evangelio; por el
+no puedes ser salvo nunca. Tú no eres un ateo, ni niegas el Evangelio; por el
 
 contrario, crees firmemente en
 
@@ -258,15 +258,15 @@ la
 
 Biblia
 
-, y deseas de todo corazn poder tener una
+, y deseas de todo corazón poder tener una
 
-participacin salvadora en Cristo Jess; pero, por el momento, no has avanzado
+participación salvadora en Cristo Jesús; pero, por el momento, no has avanzado
 
-ms all de sentir que ests enfermo, de desear ser sanado, y de reconocer que
+más allá de sentir que estás enfermo, de desear ser sanado, y de reconocer que
 
-la curacin debe venir de lo alto. Hasta aqu vamos bien, pero no es bueno
+la curación debe venir de lo alto. Hasta aquí vamos bien, pero no es bueno
 
-detenerse aqu.
+detenerse aquí.
 
 El enfermo que deseaba ser sanado
 
@@ -274,15 +274,15 @@ esperaba junto al estanque,
 
 atento a
 
-alguna seal o a algn prodigio. l esperaba que un ngel abriera de pronto de
+alguna señal o a algún prodigio. Él esperaba que un ángel abriera de pronto de
 
 par en par las puertas de oro y tocara las aguas que ahora estaban en calma y quietas,
 
-y entonces podra ser sanado. Mis queridos oyentes, este es tambin el
+y entonces podría ser sanado. Mis queridos oyentes, este es también el
 
 pensamiento de muchas personas que se duelen de sus pecados y desean la
 
-salvacin. Aceptan algn consejo peligroso y sin ningn sustento bblico que
+salvación. Aceptan algún consejo peligroso y sin ningún sustento bíblico que
 
 les es ofrecido por una cierta clase de ministros; esperan junto al estanque de
 
@@ -290,11 +290,11 @@ Betesda; perseveran en el uso formal de medios y ordenanzas, y permanecen en la
 
 incredulidad en la espera de algo grande. Persisten en un continuo rechazo a la
 
-obediencia del Evangelio y, no obstante, ansan experimentar sbitamente extraas
+obediencia del Evangelio y, no obstante, ansían experimentar súbitamente extrañas
 
 emociones, singulares sentimientos o notables impresiones; esperan ver alguna
 
-visin, o escuchar alguna voz sobrenatural o ser alarmados por delirios de
+visión, o escuchar alguna voz sobrenatural o ser alarmados por delirios de
 
 horror.
 
@@ -302,45 +302,45 @@ Ahora, queridos amigos, no vamos a negar
 
 que haya unas cuantas personas que han sido salvadas por intervenciones muy
 
-singulares de la mano de Dios, de una manera que est completamente fuera de
+singulares de la mano de Dios, de una manera que está completamente fuera de
 
-los modos ordinarios del procedimiento divino. Seramos muy necios, por
+los modos ordinarios del procedimiento divino. Seríamos muy necios, por
 
-ejemplo, si furamos a disputar la verdad de una conversin como la del coronel
+ejemplo, si fuéramos a disputar la verdad de una conversión como la del coronel
 
-Gardiner, quien, la noche precisa en que haba acordado una cita para cometer
+Gardiner, quien, la noche precisa en que había acordado una cita para cometer
 
-pecado, fue atajado y convertido por una visin de Cristo en la cruz, que, de
+pecado, fue atajado y convertido por una visión de Cristo en la cruz, que, de
 
-cualquier manera, el coronel pens que vio; y tambin oy, o imagin que oy,
+cualquier manera, el coronel pensó que vio; y también oyó, o imaginó que oyó,
 
-la voz del Salvador que argumentaba tiernamente con l. Sera intil disputar
+la voz del Salvador que argumentaba tiernamente con él. Sería inútil disputar
 
-que casos as hayan ocurrido, que ocurran en verdad, y que pudieran ocurrir de
+que casos así hayan ocurrido, que ocurran en verdad, y que pudieran ocurrir de
 
 nuevo. Con todo, tengo que rogarles a las personas inconversas que no busquen
 
-tales intervenciones en sus propios casos. Cuando el Seor les pide que crean
+tales intervenciones en sus propios casos. Cuando el Señor les pide que crean
 
-en Jess, qu derecho tienen ustedes de exigir a cambio seales y prodigios?
+en Jesús, ¿qué derecho tienen ustedes de exigir a cambio señales y prodigios?
 
-Jess mismo es el mayor de todos los prodigios.
+Jesús mismo es el mayor de todos los prodigios.
 
-Mi querido oyente, es tan ftil que t
+Mi querido oyente, es tan fútil que tú
 
-esperes notables experiencias como lo era la espera de la multitud que permaneca
+esperes notables experiencias como lo era la espera de la multitud que permanecía
 
-en Betesda atenta al largamente anhelado ngel, puesto que Aquel que poda
+en Betesda atenta al largamente anhelado ángel, puesto que Aquel que podía
 
-curarlos ya se encontraba entre ellos, ignorado y despreciado por ellos. Qu
+curarlos ya se encontraba entre ellos, ignorado y despreciado por ellos. Qué
 
-espectculo tan lastimero es verlos contemplar las nubes cuando el mdico que
+espectáculo tan lastimero es verlos contemplar las nubes cuando el médico que
 
-poda sanarlos estaba presente sin que le presentaran ninguna peticin, ni
+podía sanarlos estaba presente sin que le presentaran ninguna petición, ni
 
 buscaran alguna misericordia de Sus manos.
 
-Con respecto al mtodo de esperar para
+Con respecto al método de esperar para
 
 ver o para sentir algo grande, nuestro comentario es que
 
@@ -348,87 +348,87 @@ no es el camino que Dios ha ordenado que Sus siervos prediquen.
 
 Yo
 
-reto al mundo entero que encuentre algn evangelio de Dios en el que se le diga
+reto al mundo entero que encuentre algún evangelio de Dios en el que se le diga
 
-a algn inconverso que permanezca en la incredulidad. Dnde se le dice al
+a algún inconverso que permanezca en la incredulidad. ¿Dónde se le dice al
 
 pecador que espere a Dios practicando las ordenanzas para poder ser salvado
 
-as? El Evangelio de nuestra salvacin es ste: Cree en el Seor Jesucristo, y
+así? El Evangelio de nuestra salvación es éste: “Cree en el Señor Jesucristo, y
 
-sers salvo. Cuando nuestro Seor transmiti Su comisin a Sus discpulos, les
+serás salvo”. Cuando nuestro Señor transmitió Su comisión a Sus discípulos, les
 
-dijo: Id por todo el mundo y predicad el evangelio a toda criatura. Y cul
+dijo: “Id por todo el mundo y predicad el evangelio a toda criatura”. ¿Y cuál
 
-era ese Evangelio? Dganles que esperen en su incredulidad en el uso de medios
+era ese Evangelio? ¿Díganles que esperen en su incredulidad en el uso de medios
 
-y ordenanzas hasta que vean algo grande? Dganles que sean diligentes en la
+y ordenanzas hasta que vean algo grande? ¿Díganles que sean diligentes en la
 
-oracin, y que lean
+oración, y que lean
 
 la Palabra
 
-de Dios hasta que se sientan mejor? Ni una sola pizca de eso. As dice el
+de Dios hasta que se sientan mejor? Ni una sola pizca de eso. Así dice el
 
-Seor: El que creyere y fuere bautizado, ser salvo; mas el que no creyere,
+Señor: “El que creyere y fuere bautizado, será salvo; mas el que no creyere,
 
-ser condenado. ste era el Evangelio y el nico Evangelio que Jesucristo siempre
+será condenado”. Éste era el Evangelio y el único Evangelio que Jesucristo siempre
 
-orden que predicaran Sus ministros, y quienes dicen: esperen a sentir algo,
+ordenó que predicaran Sus ministros, y quienes dicen: ¡esperen a sentir algo,
 
-esperen a experimentar impresiones, esperen prodigios!, anuncian otro
+esperen a experimentar impresiones, esperen prodigios!, ‘anuncian otro
 
-evangelio que no es otro, sino que hay algunos que los perturban. Exponer a
+evangelio que no es otro, sino que hay algunos que los perturban’. Exponer a
 
-Cristo en la cruz es la obra salvadora del ministerio evanglico, y la
+Cristo en la cruz es la obra salvadora del ministerio evangélico, y la
 
-esperanza de los hombres est cimentada en la cruz de Jess. El Evangelio de
+esperanza de los hombres está cimentada en la cruz de Jesús. El Evangelio de
 
-Dios es: Mirad a m, y sed salvos, todos los trminos de la tierra. El
+Dios es: “Mirad a mí, y sed salvos, todos los términos de la tierra”. El
 
-evangelio del hombre que ha destruido a miles es: Esperen junto al estanque.
+evangelio del hombre que ha destruido a miles es: “Esperen junto al estanque”.
 
 Este evangelio, que no tiene nada de
 
-evanglico, es
+evangélico, es
 
 inmensamente popular.
 
 No
 
-me sorprendera si al menos la mitad de ustedes estuvieran satisfechos con l.
+me sorprendería si al menos la mitad de ustedes estuvieran satisfechos con él.
 
-Oh, mis oyentes, ustedes no rehsan ocupar los asientos en nuestros lugares de
+Oh, mis oyentes, ustedes no rehúsan ocupar los asientos en nuestros lugares de
 
-adoracin; raramente estn ausentes cuando las puertas se abren, pero se quedan
+adoración; raramente están ausentes cuando las puertas se abren, pero se quedan
 
-sentados all en una confirmada incredulidad, esperando que se hagan ventanas
+sentados allí en una confirmada incredulidad, esperando que se hagan ventanas
 
-en el cielo, pero descuidando el Evangelio de su salvacin. El gran mandamiento
+en el cielo, pero descuidando el Evangelio de su salvación. El gran mandamiento
 
-de Dios: Cree y vive no recibe de ustedes otra respuesta que un odo sordo y
+de Dios: “Cree y vive” no recibe de ustedes otra respuesta que un oído sordo y
 
-un corazn de piedra, mientras aquietan sus conciencias con observancias
+un corazón de piedra, mientras aquietan sus conciencias con observancias
 
-religiosas externas. Si Dios hubiera dicho: Sintense en esos asientos y
+religiosas externas. Si Dios hubiera dicho: “Siéntense en esos asientos y
 
-esperen, yo sera osado en exhortarlos al respecto con lgrimas; pero Dios no
+esperen”, yo sería osado en exhortarlos al respecto con lágrimas; pero Dios no
 
-ha dicho eso; l ha dicho: Deje el impo su camino, y el hombre inicuo sus
+ha dicho eso; Él ha dicho: “Deje el impío su camino, y el hombre inicuo sus
 
-pensamientos, y vulvase a Jehov, el cual tendr de l misericordia. l no ha
+pensamientos, y vuélvase a Jehová, el cual tendrá de él misericordia”. Él no ha
 
-dicho: Esperad, sino que ha dicho: Buscad a Jehov mientras puede ser
+dicho: “Esperad”, sino que ha dicho: “Buscad a Jehová mientras puede ser
 
-hallado, llamadle en tanto que est cercano. Si oyereis hoy su voz, no
+hallado, llamadle en tanto que está cercano”. “Si oyereis hoy su voz, no
 
-endurezcis vuestros corazones. No encuentro que Jess diga algo a los
+endurezcáis vuestros corazones”. No encuentro que Jesús diga algo a los
 
-pecadores acerca de esperar, antes bien, les dice mucho acerca de venir. Venid
+pecadores acerca de esperar, antes bien, les dice mucho acerca de venir. “Venid
 
-a m todos los que estis trabajados y cargados, y yo os har descansar. Si
+a mí todos los que estáis trabajados y cargados, y yo os haré descansar”. “Si
 
-alguno tiene sed, venga a m y beba. Y el Espritu y
+alguno tiene sed, venga a mí y beba”. “Y el Espíritu y
 
 la Esposa
 
@@ -436,109 +436,109 @@ dicen: Ven. Y el que
 
 oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la
 
-vida gratuitamente.
+vida gratuitamente”.
 
-Por qu es tan popular este camino? Es
+¿Por qué es tan popular este camino? Es
 
 popular porque le
 
-administra ludano a la
+administra láudano a la
 
 conciencia.
 
-Cuando el ministro predica con poder y el corazn del oyente es
+Cuando el ministro predica con poder y el corazón del oyente es
 
-tocado, el diablo le dice: Espera una mejor oportunidad. El archienemigo
+tocado, el diablo le dice: “Espera una mejor oportunidad”. El archienemigo
 
-vierte as esta droga mortal en el alma, y el pecador, en vez de confiar en
+vierte así esta droga mortal en el alma, y el pecador, en vez de confiar en
 
-Jess en el acto, o en vez de ponerse de rodillas con los ojos llorosos pidiendo
+Jesús en el acto, o en vez de ponerse de rodillas con los ojos llorosos pidiendo
 
-a gritos misericordia, se adula a s mismo porque est usando los medios; el
+a gritos misericordia, se adula a sí mismo porque está usando los medios; el
 
-uso de medios es lo suficientemente bueno hasta su propio lmite, pero es tan
+uso de medios es lo suficientemente bueno hasta su propio límite, pero es tan
 
-malo como podra serlo cuando suplanta el lugar de Cristo crucificado. Un hijo
+malo como podría serlo cuando suplanta el lugar de Cristo crucificado. Un hijo
 
-tiene que or el mandamiento del padre, pero qu pasa si el hijo ubica el or
+tiene que oír el mandamiento del padre, pero ¿qué pasa si el hijo ubica el oír
 
-en el lugar del obedecer? Dios no quiera que yo me glore en el hecho de que
+en el lugar del obedecer? Dios no quiera que yo me gloríe en el hecho de que
 
-ustedes oyen el Evangelio, si slo son oyentes; mi gloria est en la cruz, y a
+ustedes oyen el Evangelio, si sólo son oyentes; mi gloria está en la cruz, y a
 
 menos que ustedes miren a la cruz, bueno les fuera no haber nacido.
 
-Pido la especial atencin de todo aqul
+Pido la especial atención de todo aquél
 
-que haya estado esperando as, mientras menciono uno o dos puntos. Mi querido
+que haya estado esperando así, mientras menciono uno o dos puntos. Mi querido
 
-amigo, no es esta espera, despus de todo,
+amigo, ¿no es esta espera, después de todo,
 
 un
 
 asunto muy desesperanzador?
 
-De todos aqullos que esperaban en Betesda,
+¡De todos aquéllos que esperaban en Betesda,
 
-cun pocos eran sanados jams! El que
+cuán pocos eran sanados jamás! El que
 
 primero
 
-descenda al estanque quedaba sano, pero todos los dems salan del estanque
+descendía al estanque quedaba sano, pero todos los demás salían del estanque
 
-tal como haban entrado. Ah, mis oyentes, yo tiemblo por algunos de ustedes, por
+tal como habían entrado. ¡Ah, mis oyentes, yo tiemblo por algunos de ustedes, por
 
 ustedes que asisten a la capilla y a la iglesia y que han estado esperando
 
-durante muchos aos, pues cun pocos de ustedes son salvados! Miles de ustedes
+durante muchos años, pues cuán pocos de ustedes son salvados! Miles de ustedes
 
 mueren en sus pecados esperando en una incredulidad inicua. Unos cuantos son
 
-arrebatados del fuego como tizones, pero la gran mayora de quienes aguardan
+arrebatados del fuego como tizones, pero la gran mayoría de quienes aguardan
 
 empedernidamente, esperan y esperan hasta morir en sus pecados. Yo les advierto
 
 solemnemente que, por agradable que sea para la carne esperar en la
 
-incredulidad, no es una situacin en la que cualquier persona razonable
+incredulidad, no es una situación en la que cualquier persona razonable
 
-perseverara por mucho tiempo. Pues, mi querido amigo, no eres t en tu propia
+perseveraría por mucho tiempo. Pues, mi querido amigo, ¿no eres tú en tu propia
 
-persona un ejemplo de su desesperanza? T has estado esperando durante aos; difcilmente
+persona un ejemplo de su desesperanza? Tú has estado esperando durante años; difícilmente
 
-recuerdas cundo asististe por primera vez a algn lugar de adoracin; tu madre
+recuerdas cuándo asististe por primera vez a algún lugar de adoración; tu madre
 
-te llev all en sus brazos y has sido nutrido bajo la sombra del santuario,
+te llevó allá en sus brazos y has sido nutrido bajo la sombra del santuario,
 
-como las golondrinas que construyen sus nidos bajo los altares de Dios, y qu
+como las golondrinas que construyen sus nidos bajo los altares de Dios, y ¿qué
 
 ha hecho
 
-tu incrdula
+tu incrédula
 
-espera por ti? Te ha hecho
+espera por ti? ¿Te ha hecho
 
-cristiano? No; todava ests sin Dios, sin Cristo, sin esperanza. Te voy a
+cristiano? No; todavía estás sin Dios, sin Cristo, sin esperanza. Te voy a
 
-preguntar en el nombre de Dios: qu derecho tienes de creer que si esperas
+preguntar en el nombre de Dios: ¿qué derecho tienes de creer que si esperas
 
-otros treinta aos, sers del todo diferente de lo que eres ahora? Acaso no
+otros treinta años, serás del todo diferente de lo que eres ahora? ¿Acaso no
 
-son muy altas las probabilidades de que a los sesenta aos de edad ests tan
+son muy altas las probabilidades de que a los sesenta años de edad estés tan
 
-desposedo de la gracia como lo ests a los treinta? Pues, permtanme decirles,
+desposeído de la gracia como lo estás a los treinta? Pues, permítanme decirles,
 
-y me atrevo a decirlo sin egosmo, que algunos de ustedes han escuchado el
+y me atrevo a decirlo sin egoísmo, que algunos de ustedes han escuchado el
 
 Evangelio predicado sin rodeos.
 
 Mis queridos oyentes, yo he sido tan
 
-claro con ustedes como puedo serlo; nunca he rehusado declarar el consejo ntegro
+claro con ustedes como puedo serlo; nunca he rehusado declarar el consejo íntegro
 
-de Dios, ni tampoco he rehuido elegir algn caso especfico para tratarlo
+de Dios, ni tampoco he rehuido elegir algún caso específico para tratarlo
 
-detalladamente. Con la excepcin de dejar de mencionar el nombre de las
+detalladamente. Con la excepción de dejar de mencionar el nombre de las
 
 personas, no me he detenido ante nada, antes bien, he buscado encomiar el Evangelio
 
@@ -546,111 +546,111 @@ ante la conciencia de cada persona como ante los ojos de Dios. Recuerden las
 
 advertencias que recibieron en Exeter Hall. Algunos de ustedes recuerdan los
 
-quebrantamientos que sintieron en el saln de Surrey Gardens. Recuerden las invitaciones
+quebrantamientos que sintieron en el salón de Surrey Gardens. Recuerden las invitaciones
 
-que ya han recibido en este mismo saln. Y si todas esas advertencias han
+que ya han recibido en este mismo salón. Y si todas esas advertencias han
 
-fallado, qu ms podra hacerse por la va de or y esperar? Muchos de ustedes
+fallado, ¿qué más podría hacerse por la vía de oír y esperar? Muchos de ustedes
 
 han escuchado a otros predicadores, igualmente sinceros, igualmente tiernos, y
 
-tal vez hasta ms sinceros y ms tiernos. Ahora, si ninguno de ellos ha tenido
+tal vez hasta más sinceros y más tiernos. Ahora, si ninguno de ellos ha tenido
 
-ningn efecto sobre ustedes, si esperar junto al estanque no les ha
+ningún efecto sobre ustedes, si esperar junto al estanque no les ha
 
-proporcionado nada, no es acaso se un frustrante y desesperanzador modo de
+proporcionado nada, ¿no es acaso ése un frustrante y desesperanzador modo de
 
-proceder? No es acaso tiempo de probar algo mejor en vez de esperar
+proceder? ¿No es acaso tiempo de probar algo mejor en vez de esperar
 
-simplemente que se produzca la agitacin del agua? No es tiempo de que recuerdes
+simplemente que se produzca la agitación del agua? ¿No es tiempo de que recuerdes
 
-que Jesucristo est dispuesto a salvarte ahora, y que si confiaras en l ahora,
+que Jesucristo está dispuesto a salvarte ahora, y que si confiaras en Él ahora,
 
-t tendras vida eterna hoy?
+tú tendrías vida eterna hoy?
 
-All yace nuestro pobre amigo, esperando
+Allí yace nuestro pobre amigo, esperando
 
-todava al borde del agua. Yo no lo culpo
+todavía al borde del agua. Yo no lo culpo
 
 a
 
-l
+él
 
-por esperar, pues Jess no haba estado presente antes, y era justo que
+por esperar, pues Jesús no había estado presente antes, y era justo que
 
-tratara de aprovechar incluso la ms leve oportunidad de una curacin; pero era
+tratara de aprovechar incluso la más leve oportunidad de una curación; pero era
 
-triste que Jess fuera tratado con tanta ligereza; all iba l, hilvanando Su
+triste que Jesús fuera tratado con tanta ligereza; allá iba Él, hilvanando Su
 
-camino entre los ciegos, y los cojos y los lisiados, mirndolos benignamente a
+camino entre los ciegos, y los cojos y los lisiados, mirándolos benignamente a
 
-todos ellos, pero sin que nadie lo mirara a l. En otros lugares, en cambio, tan
+todos ellos, pero sin que nadie lo mirara a Él. En otros lugares, en cambio, tan
 
-pronto como Jess haca acto de presencia, traan a los enfermos en sus lechos
+pronto como Jesús hacía acto de presencia, traían a los enfermos en sus lechos
 
 y los colocaban a Sus pies, y conforme avanzaba los sanaba a todos, esparciendo
 
-misericordias con ambas manos. Una ceguera se haba abatido sobre esas personas
+misericordias con ambas manos. Una ceguera se había abatido sobre esas personas
 
-que estaban junto al estanque; all estaban ellas, y all estaba Cristo, que
+que estaban junto al estanque; allí estaban ellas, y allí estaba Cristo, que
 
-poda sanarlos, pero ni uno solo de ellos lo busc. Sus ojos estaban fijos en
+podía sanarlos, pero ni uno solo de ellos lo buscó. Sus ojos estaban fijos en
 
 el agua, esperando que fuera agitada; estaban tan absortos en su propio camino
 
-seleccionado que el verdadero camino fue ignorado. No se distribua ninguna
+seleccionado que el verdadero camino fue ignorado. No se distribuía ninguna
 
 misericordia porque no se buscaba ninguna.
 
-Ah, mis queridos amigos!,
+¡Ah, mis queridos amigos!,
 
 mi
 
 acongojada pregunta es:
 
-ser as esta maana?
+¿será así esta mañana?
 
-El Cristo viviente est todava entre
+El Cristo viviente está todavía entre
 
-nosotros en la energa de Su Espritu eterno. Recurrirn ustedes a sus buenas
+nosotros en la energía de Su Espíritu eterno. ¿Recurrirán ustedes a sus buenas
 
-obras? Confiarn en asistir a la iglesia y en asistir a la capilla? Se fiarn
+obras? ¿Confiarán en asistir a la iglesia y en asistir a la capilla? ¿Se fiarán
 
-de emociones esperadas, de impresiones y de ataques de terror, e impedirn que
+de emociones esperadas, de impresiones y de ataques de terror, e impedirán que
 
 Cristo, que es capaz de salvar eternamente, reciba una mirada de fe de algunos
 
-ojos o alguna oracin del deseo de algn corazn? Si ha de ser as, pensar en
+ojos o alguna oración del deseo de algún corazón? Si ha de ser así, pensar en
 
-sto quebranta el corazn: que los hombres mueran, con un Mdico Todopoderoso
+ésto quebranta el corazón: que los hombres mueran, con un Médico Todopoderoso
 
-en sus hogares, mientras estn siendo entretenidos con una charlatanera
+en sus hogares, mientras están siendo entretenidos con una charlatanería
 
-desesperanzada inventada por ellos mismos. Oh, pobres almas, habr de
+desesperanzada inventada por ellos mismos. Oh, pobres almas, ¿habrá de
 
-repetirse Betesda aqu esta maana, y Jesucristo, el Salvador que est presente,
+repetirse Betesda aquí esta mañana, y Jesucristo, el Salvador que está presente,
 
-habr de ser ignorado otra vez? Si un rey le diera a uno de sus sbditos un
+habrá de ser ignorado otra vez? Si un rey le diera a uno de sus súbditos un
 
-anillo, y le dijera: Cuando ests sumido en la turbacin o en la desgracia,
+anillo, y le dijera: “Cuando estés sumido en la turbación o en la desgracia,
 
-envame simplemente ese anillo, y yo har por ti todo lo que sea necesario,
+envíame simplemente ese anillo, y yo haré por ti todo lo que sea necesario”,
 
 pero ese hombre rehusara deliberadamente enviarlo, y comprara regalos o se dedicara
 
-a realizar algunas singulares hazaas de valor con el objeto de ganar el favor
+a realizar algunas singulares hazañas de valor con el objeto de ganar el favor
 
-de su monarca, t diras: Cun necio es ese hombre; he aqu un camino muy
+de su monarca, tú dirías: “Cuán necio es ese hombre; he aquí un camino muy
 
 sencillo, pero no quiere utilizarlo, y desperdicia su ingenio inventando nuevos
 
-mecanismos, y desperdicia su vida esforzndose por seguir planes que han de
+mecanismos, y desperdicia su vida esforzándose por seguir planes que han de
 
-concluir en frustracin. Acaso no es ese el caso de todos aqullos que
+concluir en frustración”. ¿Acaso no es ese el caso de todos aquéllos que
 
-rehsan confiar en Cristo? El Seor les ha asegurado que si confan en Jess,
+rehúsan confiar en Cristo? El Señor les ha asegurado que si confían en Jesús,
 
-sern salvados, pero ellos se dedican a seguir diez mil fantasas, y dejan ir a
+serán salvados, pero ellos se dedican a seguir diez mil fantasías, y dejan ir a
 
 su Dios, su Salvador.
 
@@ -658,145 +658,145 @@ Mientras tanto el enfermo, tan frustrado
 
 a menudo,
 
-se suma en una profunda
+se sumía en una profunda
 
-desesperacin.
+desesperación.
 
-Adems, se estaba poniendo
+Además, se estaba poniendo
 
 viejo,
 
-pues treinta y ocho aos es mucho tiempo en la vida de un
+pues treinta y ocho años es mucho tiempo en la vida de un
 
-hombre. Senta que se morira pronto. El tenso cordn estaba a punto de
+hombre. Sentía que se moriría pronto. El tenso cordón estaba a punto de
 
-romperse, y as, conforme transcurran cansadamente los das y las noches,
+romperse, y así, conforme transcurrían cansadamente los días y las noches,
 
-aunque segua esperando, la espera se le haca muy pesada.
+aunque seguía esperando, la espera se le hacía muy pesada.
 
-Amigo mo, no es ste tu caso? La vida
+Amigo mío, ¿no es éste tu caso? La vida
 
-se te est escapando. No est salpicada de cabellos grises tu cabeza? Has
+se te está escapando. ¿No está salpicada de cabellos grises tu cabeza? Has
 
 esperado todo este tiempo en vano, y yo te advierto que has esperado
 
 pecaminosamente. Has visto que otros han sido salvados. Tu hijo es salvo y tu
 
-esposa es convertida, pero t no lo eres, y sigues esperando, y me temo que
+esposa es convertida, pero tú no lo eres, y sigues esperando, y me temo que
 
-esperars hasta que al son de la meloda de: La tierra a la tierra, el polvo
+esperarás hasta que al son de la melodía de: “La tierra a la tierra, el polvo
 
-al polvo, las cenizas a las cenizas, los terrones resuenen sobre la tapa de tu
+al polvo, las cenizas a las cenizas”, los terrones resuenen sobre la tapa de tu
 
-atad, y tu alma est en el infierno. Te ruego que ya no juegues ms con el
+ataúd, y tu alma esté en el infierno. Te ruego que ya no juegues más con el
 
-tiempo. No digas: Hay tiempo suficiente, pues el sabio sabe que el tiempo
+tiempo. No digas: “Hay tiempo suficiente”, pues el sabio sabe que el tiempo
 
 suficiente no es lo bastante suficiente. No seas como el borracho insensato que
 
-cuando regresaba tambalendose a casa una noche, vio que le encendan su vela.
+cuando regresaba tambaleándose a casa una noche, vio que le encendían su vela.
 
-Dos velas!, dijo, pues su borrachera lo haca ver doble; voy a apagar una
+“¡Dos velas!”, dijo, pues su borrachera lo hacía ver doble; “voy a apagar una
 
-de ellas, y al apagarla, al instante se qued a oscuras.
+de ellas”, y al apagarla, al instante se quedó a oscuras.
 
 Muchos hombres ven doble debido a la
 
 borrachera del pecado: piensan que tienen una vida para hacer de las suyas, y
 
-luego, que tienen la ltima parte de la vida para volverse a Dios; entonces, como
+luego, que tienen la última parte de la vida para volverse a Dios; entonces, como
 
-unos necios, apagan la nica vela que tienen, y tendrn que yacer eternamente
+unos necios, apagan la única vela que tienen, y tendrán que yacer eternamente
 
-en la oscuridad. Apresrate, viajero, pues slo tienes un sol, y cuando se
+en la oscuridad. Apresúrate, viajero, pues sólo tienes un sol, y cuando se
 
-oculte, no alcanzars nunca a llegar a tu casa. Que Dios te ayude a darte
+oculte, no alcanzarás nunca a llegar a tu casa. ¡Que Dios te ayude a darte
 
 prisa ahora!
 
 II.
 
-Contemplemos al propio MDICO.
+Contemplemos al propio MÉDICO.
 
-Como ya hemos visto, nuestro Seor camin
+Como ya hemos visto, nuestro Señor caminó
 
-en aquella ocasin a travs de una multitud de enfermos, olvidado e ignorado, sin
+en aquella ocasión a través de una multitud de enfermos, olvidado e ignorado, sin
 
-que nadie clamara: Jess, Hijo de David, ten misericordia de m, sin que
+que nadie clamara: “¡Jesús, Hijo de David, ten misericordia de mí”, sin que
 
 ninguna mujer procurara tocar el borde de Su manto para ser sanada! Todos ellos
 
-estaban deseosos de ser sanados, pero, nadie saba nada o nadie confiaba en l.
+estaban deseosos de ser sanados, pero, nadie sabía nada o nadie confiaba en Él.
 
-Qu espectculo tan extrao y tan aflictivo era, pues Jess era sumamente
+¡Qué espectáculo tan extraño y tan aflictivo era, pues Jesús era sumamente
 
 capaz de sanarlos y estaba dispuesto a hacerlo, y a hacerlo sin cobrar
 
-honorarios ni recompensa y, sin embargo, nadie lo buscaba! Deber repetirse
+honorarios ni recompensa y, sin embargo, nadie lo buscaba! ¿Deberá repetirse
 
-esa escena esta maana? Personas que me escuchan: Jesucristo puede salvarlos. No
+esa escena esta mañana? Personas que me escuchan: Jesucristo puede salvarlos. No
 
-hay ningn corazn que sea tan duro que l no pudiera ablandar; no hay ningn
+hay ningún corazón que sea tan duro que Él no pudiera ablandar; no hay ningún
 
-hombre en medio de ustedes que est tan perdido que Jess no pudiera salvar. Bendito
+hombre en medio de ustedes que esté tan perdido que Jesús no pudiera salvar. Bendito
 
-sea mi amado Maestro, pues ningn caso lo ha derrotado jams; Su poderosa
+sea mi amado Maestro, pues ningún caso lo ha derrotado jamás; Su poderosa
 
-fuerza sobrepasa los ms profundos abismos del pecado y de la insensatez humana.
+fuerza sobrepasa los más profundos abismos del pecado y de la insensatez humana.
 
-Si hubiera alguna ramera aqu, Cristo puede limpiarla. Si hubiera un borracho o
+Si hubiera alguna ramera aquí, Cristo puede limpiarla. Si hubiera un borracho o
 
-un ladrn aqu, la sangre de Jess puede volverlo tan blanco como la nieve. Si
+un ladrón aquí, la sangre de Jesús puede volverlo tan blanco como la nieve. Si
 
-tienen algn deseo de l, no se encuentran fuera del alcance de Su mano
+tienen algún deseo de Él, no se encuentran fuera del alcance de Su mano
 
 horadada. Si no son salvos, ciertamente no es por falta de poder en el
 
-Salvador. Adems, su pobreza no es un ningn estorbo, pues mi Seor no les pide
+Salvador. Además, su pobreza no es un ningún estorbo, pues mi Señor no les pide
 
-absolutamente nada. Mientras ms pobre sea el desventurado, ms bienvenido es a
+absolutamente nada. Mientras más pobre sea el desventurado, más bienvenido es a
 
-venir a Cristo. Mi Seor no es un sacerdote codicioso, que exija un pago por lo
+venir a Cristo. Mi Señor no es un sacerdote codicioso, que exija un pago por lo
 
-que hace. l nos perdona gratuitamente; l no necesita ninguno de los mritos
+que hace. Él nos perdona gratuitamente; Él no necesita ninguno de los méritos
 
-de ustedes, ni nada suyo; vengan a l tal como estn, pues l est dispuesto a
+de ustedes, ni nada suyo; vengan a Él tal como están, pues Él está dispuesto a
 
-recibirlos tal como estn.
+recibirlos tal como están.
 
-Pero aqu est mi tristeza y mi queja:
+Pero aquí está mi tristeza y mi queja:
 
 que este bendito
 
-Seor Jess, aunque est
+Señor Jesús, aunque está
 
-presente para sanar, es ignorado por la mayora de los hombres.
+presente para sanar, es ignorado por la mayoría de los hombres.
 
-Ellos estn
+Ellos están
 
-mirando hacia otro lado, y no tienen ojos para l.
+mirando hacia otro lado, y no tienen ojos para Él.
 
-Con todo, Jess no estaba enojado.
+Con todo, Jesús no estaba enojado.
 
 Yo no encuentro que censurara a
 
-alguno de los que yacan en los prticos, o que hubiera tenido algn
+alguno de los que yacían en los pórticos, o que hubiera tenido algún
 
-pensamiento severo para con ellos; ms bien, estoy seguro de que sinti piedad
+pensamiento severo para con ellos; más bien, estoy seguro de que sintió piedad
 
-de ellos, y que dijo en Su corazn: Ay, pobres almas que desconocen que la
+de ellos, y que dijo en Su corazón: “¡Ay, pobres almas que desconocen que la
 
-misericordia est muy cerca! Mi Seor no est airado con ustedes que lo
+misericordia está muy cerca!” Mi Señor no está airado con ustedes que lo
 
-olvidan y lo ignoran, sino que tiene piedad de ustedes en Su corazn. Yo slo
+olvidan y lo ignoran, sino que tiene piedad de ustedes en Su corazón. Yo sólo
 
-soy Su pobre siervo, pero, desde lo ntimo de mi corazn, tengo piedad de
+soy Su pobre siervo, pero, desde lo íntimo de mi corazón, tengo piedad de
 
-aqullos que viven sin Cristo. De buena gana llorara por ustedes que estn
+aquéllos que viven sin Cristo. De buena gana lloraría por ustedes que están
 
-probando otras vas de salvacin, pues todas concluirn en una desilusin, y si
+probando otras vías de salvación, pues todas concluirán en una desilusión, y si
 
-ustedes continuaran en ellas, comprobarn ser su destruccin eterna.
+ustedes continuaran en ellas, comprobarán ser su destrucción eterna.
 
 Observen muy cuidadosamente lo que hizo el
 
@@ -804,159 +804,159 @@ Salvador. Mirando en torno a todo el grupo,
 
 hizo
 
-una eleccin.
+una elección.
 
-l tena el derecho de hacer la seleccin que quisiera, y
+Él tenía el derecho de hacer la selección que quisiera, y
 
-ejerci esa soberana prerrogativa. El Seor no est obligado a otorgar Su
+ejerció esa soberana prerrogativa. El Señor no está obligado a otorgar Su
 
-misericordia a todo el mundo ni a todas las personas. l ha proclamado
+misericordia a todo el mundo ni a todas las personas. Él ha proclamado
 
-libremente la misericordia a todos, pero como ustedes la rechazan, l tiene
+libremente la misericordia a todos, pero como ustedes la rechazan, Él tiene
 
 ahora un doble derecho de bendecir a Sus elegidos haciendo que se ofrezcan
 
-voluntariamente en el da de Su poder. No sabemos por qu el Salvador
+voluntariamente en el día de Su poder. No sabemos por qué el Salvador
 
-seleccion a aquel hombre de entre la multitud, pero ciertamente fue por una
+seleccionó a aquel hombre de entre la multitud, pero ciertamente fue por una
 
-razn cimentada en la gracia. Si nos pudiramos aventurar a dar una razn para Su
+razón cimentada en la gracia. Si nos pudiéramos aventurar a dar una razón para Su
 
-eleccin, pudiera ser que lo seleccion por ser el caso ms grave, y por ser el
+elección, pudiera ser que lo seleccionó por ser el caso más grave, y por ser el
 
-que haba esperado ms tiempo. El caso de aquel hombre estaba en boca de todos.
+que había esperado más tiempo. El caso de aquel hombre estaba en boca de todos.
 
-Decan: Ese hombre ha estado all treinta y ocho aos. Nuestro Seor actu
+Decían: “Ese hombre ha estado allí treinta y ocho años”. Nuestro Señor actuó
 
-conforme a Su eterno propsito, haciendo lo que lo que le agrada con lo suyo; l
+conforme a Su eterno propósito, haciendo lo que lo que le agrada con lo suyo; Él
 
-fij el ojo de Su amor que elige sobre ese hombre en particular, y, acercndose
+fijó el ojo de Su amor que elige sobre ese hombre en particular, y, acercándose
 
-a l, lo mir. Conoca toda su historia; saba que se encontraba en esa
+a él, lo miró. Conocía toda su historia; sabía que se encontraba en esa
 
-situacin desde haca mucho tiempo, y, por tanto, tuvo mucha compasin de l.
+situación desde hacía mucho tiempo, y, por tanto, tuvo mucha compasión de él.
 
-Pens en aquellos terribles meses y aos de dolorosa frustracin que el enfermo
+Pensó en aquellos terribles meses y años de dolorosa frustración que el enfermo
 
-haba sufrido, y las lgrimas inundaron los ojos del Maestro; l mir una y
+había sufrido, y las lágrimas inundaron los ojos del Maestro; Él miró una y
 
-otra vez al hombre, y Sus entraas se conmovieron por l.
+otra vez al hombre, y Sus entrañas se conmovieron por él.
 
-Ahora, yo no s a quin Cristo tiene la
+Ahora, yo no sé a quién Cristo tiene la
 
-intencin de salvar esta maana mediante Su gracia eficaz. Yo estoy obligado a
+intención de salvar esta mañana mediante Su gracia eficaz. Yo estoy obligado a
 
-hacer el llamado general; eso es todo lo que puedo hacer, pero yo no s dnde har
+hacer el llamado general; eso es todo lo que puedo hacer, pero yo no sé dónde hará
 
-el Seor el llamado eficaz que es el nico que puede hacer que la palabra
+el Señor el llamado eficaz que es el único que puede hacer que la palabra
 
-salve. No me sorprendera que llamara a algunos de ustedes que han esperado
+salve. No me sorprendería que llamara a algunos de ustedes que han esperado
 
-mucho tiempo. Yo bendecira Su nombre si lo hiciera. No me maravillara que el
+mucho tiempo. Yo bendeciría Su nombre si lo hiciera. No me maravillaría que el
 
-amor que elige escogiera hoy al primero de los pecadores; si Jess mirara a
+amor que elige escogiera hoy al primero de los pecadores; si Jesús mirara a
 
-algunos de ustedes que nunca lo han mirado a l, hasta
+algunos de ustedes que nunca lo han mirado a Él, hasta
 
 inducirlos
 
 a mirar, y Su piedad los hiciera tener piedad de ustedes
 
-mismos, y Su gracia irresistible los indujera a venir a l, seran salvos.
+mismos, y Su gracia irresistible los indujera a venir a Él, serían salvos.
 
-Jess realiz un acto de la gracia soberana que distingue. Yo les ruego que no
+Jesús realizó un acto de la gracia soberana que distingue. ¡Yo les ruego que no
 
 den coces contra esta doctrina! Si lo hacen, no puedo evitarlo, pues es verdad.
 
 Yo les he predicado el Evangelio a todos ustedes tan libremente como pudiera
 
-hacerlo un hombre, y ciertamente, ustedes que lo rechazan, no deberan
+hacerlo un hombre, y ciertamente, ustedes que lo rechazan, no deberían
 
 contender con Dios por otorgar a otros esas cosas que a ustedes no les importa
 
-recibir. Si desean Su misericordia, l no se las negar; si lo buscan, lo
+recibir. Si desean Su misericordia, Él no se las negará; si lo buscan, lo
 
-encontrarn; pero si no quieren buscar la misericordia, no contiendan con el
+encontrarán; pero si no quieren buscar la misericordia, no contiendan con el
 
-Seor porque la otorgue a otros.
+Señor porque la otorgue a otros.
 
 Habiendo mirado a ese hombre con una
 
-consideracin especial, Jess le pregunt: Quieres ser sano? Ya les he
+consideración especial, Jesús le preguntó: “¿Quieres ser sano?” Ya les he
 
-indicado que Cristo no pregunt eso porque necesitara informacin, sino porque
+indicado que Cristo no preguntó eso porque necesitara información, sino porque
 
 deseaba
 
-excitar la atencin del hombre.
+excitar la atención del hombre.
 
 Como
 
-era un da de reposo, el hombre no pensaba ser curado, pues un judo
+era un día de reposo, el hombre no pensaba ser curado, pues un judío
 
-consideraba que era algo muy improbable que ocurrieran curaciones en un da de
+consideraba que era algo muy improbable que ocurrieran curaciones en un día de
 
-reposo. Jess, por tanto, atrajo los pensamientos del hombre al asunto que
+reposo. Jesús, por tanto, atrajo los pensamientos del hombre al asunto que
 
-traa entre manos; pues, fjense, la obra de gracia es una obra que se realiza
+traía entre manos; pues, fíjense, la obra de gracia es una obra que se realiza
 
 sobre una mente consciente, no sobre una materia insensible. Aunque los
 
-puseyistas pretenden regenerar a nios inconscientes, rociando sus rostros
+‘puseyistas’ pretenden regenerar a niños inconscientes, rociando sus rostros
 
-con agua, Jess no intent nunca tal cosa Jess salva a hombres que tienen el
+con agua, Jesús no intentó nunca tal cosa –Jesús salva a hombres que tienen el
 
-pleno uso de sus sentidos- y Su salvacin es una obra sobre un intelecto
+pleno uso de sus sentidos- y Su salvación es una obra sobre un intelecto
 
-vivificado y sobre afectos que han sido despertados. Jess atrajo de regreso a
+vivificado y sobre afectos que han sido despertados. Jesús atrajo de regreso a
 
-la mente divagante con la pregunta: Quieres ser sano? Ciertamente, -pudo
+la mente divagante con la pregunta: “¿Quieres ser sano?” “Ciertamente”, -pudo
 
-haber dicho el hombre- ciertamente, lo deseo por sobre todas las cosas; lo
+haber dicho el hombre- “ciertamente, lo deseo por sobre todas las cosas; lo
 
-anhelo; lo anso ardientemente.
+anhelo; lo ansío ardientemente”.
 
 Ahora, mi querido oyente, te voy a hacer
 
-la misma pregunta. Quieres ser sano? Deseas ser salvado? Sabes en qu
+la misma pregunta. “¿Quieres ser sano? ¿Deseas ser salvado? ¿Sabes en qué
 
-consiste ser salvo? Oh, -respondes t- consiste en escapar del infierno.
+consiste ser salvo?” “Oh”, -respondes tú- “consiste en escapar del infierno”.
 
 No, no, no; ese es el resultado de ser salvado, pero ser salvado es algo diferente.
 
-Quieres ser salvado del poder del pecado? Quieres ser salvado de ser
+¿Quieres ser salvado del poder del pecado? ¿Quieres ser salvado de ser
 
-codicioso, de tener una mente mundana, de tu mal carcter, de ser injusto,
+codicioso, de tener una mente mundana, de tu mal carácter, de ser injusto,
 
-impo, dominador, borracho o profano? Ests dispuesto a renunciar al pecado que
+impío, dominador, borracho o profano? ¿Estás dispuesto a renunciar al pecado que
 
-ms quieres? No, -dice alguien- yo no puedo decir honestamente que deseo
+más quieres? “No”, -dice alguien- “yo no puedo decir honestamente que deseo
 
-todo eso. Entonces, t no eres el hombre que estoy buscando esta maana. Pero,
+todo eso”. Entonces, tú no eres el hombre que estoy buscando esta mañana. Pero,
 
-hay alguien aqu que diga: S, yo anhelo ser librado del pecado y que sea
+¿hay alguien aquí que diga: “Sí, yo anhelo ser librado del pecado y que sea
 
 extirpado por completo; yo deseo, por la gracia de Dios, convertirme en un
 
-cristiano en este mismo da, y ser salvado del pecado?
+cristiano en este mismo día, y ser salvado del pecado?”
 
 Bien, como ya te encuentras en un estado
 
 de solicitud, demos un paso adelante, y observemos lo que hizo el Salvador.
 
-l dio la voz de mando,
+Él dio la voz de mando,
 
-diciendo: Levntate,
+diciendo: “Levántate,
 
-toma tu lecho, y anda. El poder mediante el cual el hombre se levant no
+toma tu lecho, y anda”. El poder mediante el cual el hombre se levantó no
 
-estaba en l mismo, sino en Jess; no fue el mero sonido de la palabra lo que
+estaba en él mismo, sino en Jesús; no fue el mero sonido de la palabra lo que
 
-lo hizo levantarse, sino que fue el poder divino que acompa a la palabra. Yo
+lo hizo levantarse, sino que fue el poder divino que acompañó a la palabra. Yo
 
-creo en verdad que Jess habla todava por medio de Sus ministros; yo confo
+creo en verdad que Jesús habla todavía por medio de Sus ministros; yo confío
 
-que est hablando por
+que está hablando por
 
 mi
 
@@ -964,21 +964,21 @@ medio en
 
 este momento, cuando en Su nombre les digo a ustedes, que han estado esperando
 
-junto al estanque: no esperen ms, antes bien, en este instante crean en
+junto al estanque: ¡no esperen más, antes bien, en este instante crean en
 
-Jesucristo! Confen en l ahora. Yo s que mi palabra no har que ustedes lo
+Jesucristo! Confíen en Él ahora. Yo sé que mi palabra no hará que ustedes lo
 
-hagan, pero si el Espritu Santo obra por medio de la palabra, ustedes creern.
+hagan, pero si el Espíritu Santo obra por medio de la palabra, ustedes creerán.
 
-Pobre pecador, confa en Cristo ahora.
+Pobre pecador, confía en Cristo ahora.
 
-Cree que l puede salvarte; crelo ahora! Confate a l para que te salve en
+Cree que Él puede salvarte; ¡créelo ahora! Confíate a Él para que te salve en
 
-este momento; reposa en l ahora! Si recibes la capacidad de creer, el poder
+este momento; ¡reposa en Él ahora! Si recibes la capacidad de creer, el poder
 
-te vendr de l, no de ti, y tu salvacin ser efectuada, no por el sonido de
+te vendrá de Él, no de ti, y tu salvación será efectuada, no por el sonido de
 
-la palabra, sino por el secreto poder del Espritu Santo que acompaa a esa
+la palabra, sino por el secreto poder del Espíritu Santo que acompaña a esa
 
 palabra.
 
@@ -988,51 +988,51 @@ dice nada en el texto acerca de la fe, con todo,
 
 el hombre debe de haber tenido fe.
 
-Supn que t hubieras sido
+Supón que tú hubieras sido
 
-incapaz de mover la mano o el pie durante treinta y ocho aos, y que alguien te
+incapaz de mover la mano o el pie durante treinta y ocho años, y que alguien te
 
-dijera junto a tu lecho: Levntate!; t no pensaras en intentar levantarte,
+dijera junto a tu lecho: “¡Levántate!”; tú no pensarías en intentar levantarte,
 
-pues sabras que es imposible; tienes que tener fe en la persona que profiri
+pues sabrías que es imposible; tienes que tener fe en la persona que profirió
 
-la palabra, pues, de lo contrario, no haras el intento. Me parece ver al pobre
+la palabra, pues, de lo contrario, no harías el intento. Me parece ver al pobre
 
-hombre: all est, como un montn, como un manojo retorcido de torturados
+hombre: allá está, como un montón, como un manojo retorcido de torturados
 
-nervios y msculos paralizados; sin embargo, Jess le dice: Levntate!, y l
+nervios y músculos paralizados; sin embargo, Jesús le dice: “¡Levántate!”, y él
 
-se levanta al instante. Toma tu lecho, le dice el Maestro, y l carga con el
+se levanta al instante. “Toma tu lecho”, le dice el Maestro, y él carga con el
 
-lecho. All estaba la fe del hombre. El hombre era un judo, y l saba que,
+lecho. Allí estaba la fe del hombre. El hombre era un judío, y él sabía que,
 
-segn los fariseos, sera algo muy perverso que enrollara su colchn y lo
+según los fariseos, sería algo muy perverso que enrollara su colchón y lo
 
-cargara el da de reposo; pero debido a que Jess se lo dijo, no hizo ninguna
+cargara el día de reposo; pero debido a que Jesús se lo dijo, no hizo ninguna
 
-pregunta, sino que dobl su camilla, y camin. Hizo lo que se le dijo que
+pregunta, sino que dobló su camilla, y caminó. Hizo lo que se le dijo que
 
-hiciera, porque crea en quien se lo dijo. Pobre pecador, tienes
+hiciera, porque creía en quien se lo dijo. Pobre pecador, ¿tienes
 
-t
+tú
 
-tal fe en Jess? Crees que Cristo
+tal fe en Jesús? ¿Crees que Cristo
 
-puede salvarte? Si lo crees, entonces yo te digo en Su nombre, confa en l!
+puede salvarte? Si lo crees, entonces yo te digo en Su nombre, ¡confía en Él!
 
-Confa en l ahora! Si confas en Jess, sers salvo esta maana, sers salvado
+¡Confía en Él ahora! Si confías en Jesús, serás salvo esta mañana, serás salvado
 
-en el acto, y sers salvado para siempre.
+en el acto, y serás salvado para siempre.
 
 Observen, amados amigos, que
 
-la curacin obrada por Cristo fue perfecta.
+la curación obrada por Cristo fue perfecta.
 
 El
 
-hombre pudo tomar su lecho; la restauracin fue comprobada, y la curacin fue
+hombre pudo tomar su lecho; la restauración fue comprobada, y la curación fue
 
-manifiesta; todos pudieron verla. Adems, la curacin fue
+manifiesta; todos pudieron verla. Además, la curación fue
 
 inmediata.
 
@@ -1042,33 +1042,33 @@ sobre la llaga y que esperara; no fue llevado a casa por sus amigos, ni fue obli
 
 a guardar cama un mes ni dos, ni fue gradualmente atendido hasta que recuperara
 
-su energa vital. Oh, no!, fue curado de inmediato.
+su energía vital. ¡Oh, no!, fue curado de inmediato.
 
 La mitad de nuestros cristianos
 
-profesantes imaginan que la regeneracin no puede ocurrir en un momento y, por
+profesantes imaginan que la regeneración no puede ocurrir en un momento y, por
 
-tanto, le dicen al pobre pecador: Anda y acustate junto al estanque de
+tanto, le dicen al pobre pecador: “Anda y acuéstate junto al estanque de
 
-Betesda; espera y usa las ordenanzas; humllate; busca un arrepentimiento ms
+Betesda; espera y usa las ordenanzas; humíllate; busca un arrepentimiento más
 
-profundo. Amados, desechen esa enseanza! La cruz! La cruz! La cruz! De
+profundo”. ¡Amados, desechen esa enseñanza! ¡La cruz! ¡La cruz! ¡La cruz! ¡De
 
-all pende la esperanza de un pecador! T no debes apoyarte en lo que puedas
+allí pende la esperanza de un pecador! Tú no debes apoyarte en lo que puedas
 
-hacer, ni en lo que los ngeles puedan hacer, ni en visiones, ni en sueos, ni
+hacer, ni en lo que los ángeles puedan hacer, ni en visiones, ni en sueños, ni
 
-en sentimientos, ni en extraas emociones ni en horribles delirios, sino que
+en sentimientos, ni en extrañas emociones ni en horribles delirios, sino que
 
-debes descansar en la sangre de mi Seor y mi Dios, que una vez fue inmolado
+debes descansar en la sangre de mi Señor y mi Dios, que una vez fue inmolado
 
 por los pecadores. Hay vida en una mirada al Crucificado, pero no hay vida en
 
 ninguna otra parte. Entonces, en el segundo encabezado, igual que en el primero,
 
-llego al mismo punto. As dijo el Seor: Mirad a m, y sed salvos, todos los
+llego al mismo punto. Así dijo el Señor: “Mirad a mí, y sed salvos, todos los
 
-trminos de la tierra.
+términos de la tierra”.
 
 III.
 
@@ -1076,27 +1076,27 @@ En tercer lugar, tenemos que APLICAR EL
 
 EJEMPLO DEL TEXTO A
 
-LA OCASIN
+LA OCASIÓN
 
 PRESENTE.
 
 Creyentes, yo espero que sus corazones se
 
-eleven en oracin esta maana. Qu escena tenemos ante nosotros! Si alguien
+eleven en oración esta mañana. ¡Qué escena tenemos ante nosotros! Si alguien
 
-nos hubiera dicho que esta muchedumbre de personas se habra de reunir para
+nos hubiera dicho que esta muchedumbre de personas se habría de reunir para
 
-escuchar el Evangelio, no habra habido cientos de personas que lo habran dudado?
+escuchar el Evangelio, ¿no habría habido cientos de personas que lo habrían dudado?
 
-Fjense que no hemos tenido nada novedoso que sirviera para atraer a esta
+Fíjense que no hemos tenido nada novedoso que sirviera para atraer a esta
 
 multitud; nada a manera de una primorosa ceremonia; ni siquiera tenemos la
 
-marejada del rgano; yo declin sus notas repiqueteantes, para que no pareciera
+marejada del órgano; yo decliné sus notas repiqueteantes, para que no pareciera
 
-que dependemos en el ms mnimo grado, desde un hilo hasta una correa de
+que dependemos en el más mínimo grado, desde un hilo hasta una correa de
 
-calzado, de cualquier cosa sino de la predicacin del Evangelio. La predicacin
+calzado, de cualquier cosa sino de la predicación del Evangelio. La predicación
 
 de la cruz basta para atraer a la gente, y basta para salvar al pueblo, y si
 
@@ -1104,325 +1104,325 @@ adoptamos cualquier otra cosa, perdemos nuestro poder y trasquilamos las
 
 guedejas que nos hacen fuertes.
 
-La aplicacin del texto esta maana es
+La aplicación del texto esta mañana es
 
 justamente esta:
 
-por qu nosotros no
+¿por qué nosotros no
 
-tenemos curaciones instantneas de almas enfermas?
+tenemos curaciones instantáneas de almas enfermas?
 
-Por qu no podra haber
+¿Por qué no podría haber
 
-veintenas, centenas, miles, que oigan esta maana la palabra de gracia:
+veintenas, centenas, miles, que oigan esta mañana la palabra de gracia:
 
-Levntate, toma tu lecho, y anda? Yo creo que es posible. Espero que suceda.
+“Levántate, toma tu lecho, y anda”? Yo creo que es posible. Espero que suceda.
 
-Permteme hablar contigo, que dudas de este asunto. T todava piensas que
+Permíteme hablar contigo, que dudas de este asunto. Tú todavía piensas que
 
-tienes que esperar; ya has tenido un suficiente perodo de espera, y te ests
+tienes que esperar; ya has tenido un suficiente período de espera, y te estás
 
-cansando tolerablemente pero todava te aferras al antiguo plan; a pesar de ser
+cansando tolerablemente pero todavía te aferras al antiguo plan; a pesar de ser
 
-desesperanzador, todava tratas de aferrarte a eso como quienes se estn
+desesperanzador, todavía tratas de aferrarte a eso como quienes se están
 
 ahogando se aferran a las ramitas de paja.
 
 Pero yo quiero mostrarles que todo eso es
 
-totalmente errneo. La regeneracin es una obra instantnea, y la justificacin
+totalmente erróneo. La regeneración es una obra instantánea, y la justificación
 
-es un don instantneo.
+es un don instantáneo.
 
-El hombre cay en
+El hombre cayó en
 
 un instante.
 
-Cuando Eva arranc el fruto y Adn lo comi, no se requiri de
+Cuando Eva arrancó el fruto y Adán lo comió, no se requirió de
 
-seis meses para que fueran llevados a un estado de condenacin. No se necesitaron
+seis meses para que fueran llevados a un estado de condenación. No se necesitaron
 
-varios aos de continuo pecado para echarlos fuera del paraso. El fruto
+varios años de continuo pecado para echarlos fuera del paraíso. El fruto
 
-prohibido les abri sus ojos y vieron que estaban desnudos y se escondieron de
+prohibido les abrió sus ojos y vieron que estaban desnudos y se escondieron de
 
-Dios. En verdad, en verdad, a Jess no le toma ms tiempo hacer Su obra de lo
+Dios. En verdad, en verdad, a Jesús no le toma más tiempo hacer Su obra de lo
 
-que le tom al diablo hacer la suya. Acaso nos destruir el demonio en un
+que le tomó al diablo hacer la suya. ¿Acaso nos destruirá el demonio en un
 
-instante, y Jess sera incapaz de salvarnos en un instante? Ah, gloria sea
+instante, y Jesús sería incapaz de salvarnos en un instante? ¡Ah, gloria sea
 
-dada a Dios porque l tiene mucho ms amplio poder para liberar que todo el
+dada a Dios porque Él tiene mucho más amplio poder para liberar que todo el
 
-poder que Satans ejerce para la destruccin del hombre!
+poder que Satanás ejerce para la destrucción del hombre!
 
 Consideren las
 
-ilustraciones bblicas
+ilustraciones bíblicas
 
-de lo que es la salvacin. Slo voy a mencionar
+de lo que es la salvación. Sólo voy a mencionar
 
-tres. No construy un arca, que era un tipo de la salvacin; ahora, cundo
+tres. Noé construyó un arca, que era un tipo de la salvación; ahora, ¿cuándo
 
-fue salvado No? Cristo ha construido el arca para nosotros, y no tenemos nada
+fue salvado Noé? Cristo ha construido el arca para nosotros, y no tenemos nada
 
-que hacer para construirla; pero, cundo fue salvado No? Acaso dir alguien:
+que hacer para construirla; pero, ¿cuándo fue salvado Noé? ¿Acaso dirá alguien:
 
-No estuvo a salvo despus de haber estado en el arca un mes, y despus que
+“Noé estuvo a salvo después de haber estado en el arca un mes, y después que
 
-hubo arreglado todas las cosas y estuvo preparado para el diluvio y sinti su
+hubo arreglado todas las cosas y estuvo preparado para el diluvio y sintió su
 
-peligro? No!, en el instante en que No atraves la puerta, y el Seor lo
+peligro”? ¡No!, en el instante en que Noé atravesó la puerta, y el Señor lo
 
-encerr, No estuvo a salvo. Cuando haba estado en el arca un segundo, estuvo
+encerró, Noé estuvo a salvo. Cuando había estado en el arca un segundo, estuvo
 
-tan seguro como cuando haba estado all un mes. Tomen el caso de la pascua.
+tan seguro como cuando había estado allí un mes. Tomen el caso de la pascua.
 
-Cundo estuvieron a salvo los judos del ngel destructor que recorri la
+¿Cuándo estuvieron a salvo los judíos del ángel destructor que recorrió la
 
-tierra de Egipto? Estuvieron a salvo despus de que la sangre que fue rociada
+tierra de Egipto? ¿Estuvieron a salvo después de que la sangre que fue rociada
 
-sobre la puerta hubo sido vista y considerada por una semana o dos? Oh, no,
+sobre la puerta hubo sido vista y considerada por una semana o dos? ¡Oh, no,
 
 amados!, en el instante en que la sangre fue rociada, la casa estuvo a salvo; y
 
-en el instante en que un pecador cree y confa en el Hijo de Dios crucificado,
+en el instante en que un pecador cree y confía en el Hijo de Dios crucificado,
 
-es perdonado de inmediato y recibe plenamente la salvacin por medio de la
+es perdonado de inmediato y recibe plenamente la salvación por medio de la
 
 sangre de Cristo.
 
-Un ejemplo ms es la serpiente de bronce.
+Un ejemplo más es la serpiente de bronce.
 
-Cuando la serpiente fue alzada, qu deban hacer los que haban sido mordidos?
+Cuando la serpiente fue alzada, ¿qué debían hacer los que habían sido mordidos?
 
-Se les dijo que esperaran hasta que la serpiente de bronce fuera puesta frente
+¿Se les dijo que esperaran hasta que la serpiente de bronce fuera puesta frente
 
-a sus narices o hasta que el veneno de la serpiente mostrara ciertos sntomas
+a sus narices o hasta que el veneno de la serpiente mostrara ciertos síntomas
 
-en su cuerpo? No, se les orden que miraran. Ellos efectivamente miraban.
+en su cuerpo? No, se les ordenó que miraran. Ellos efectivamente miraban.
 
-Acaso fueron sanados en un perodo de seis meses? Yo no leo eso, sino que tan
+¿Acaso fueron sanados en un período de seis meses? Yo no leo eso, sino que tan
 
-pronto como sus ojos se encontraban con la serpiente de bronce, la curacin era
+pronto como sus ojos se encontraban con la serpiente de bronce, la curación era
 
 obrada; y tan pronto como tus ojos se encuentren con Cristo, pobre ser
 
-tembloroso, t eres salvo. Aunque slo ayer tuvieras unas buenas copas adentro,
+tembloroso, tú eres salvo. Aunque sólo ayer tuvieras unas buenas copas adentro,
 
-y estuvieras hundido hasta el cuello en el pecado, si miras esta maana a mi
+y estuvieras hundido hasta el cuello en el pecado, si miras esta mañana a mi
 
-Seor que una vez fue inmolado pero que ahora es exaltado, encontrars la vida
+Señor que una vez fue inmolado pero que ahora es exaltado, encontrarás la vida
 
 eterna.
 
 Tomemos nuevamente otros
 
-ejemplos bblicos.
+ejemplos bíblicos.
 
-Esper acaso el
+¿Esperó acaso el
 
-ladrn moribundo junto al estanque de las ordenanzas? Ustedes saben cun pronto
+ladrón moribundo junto al estanque de las ordenanzas? Ustedes saben cuán pronto
 
-fue escuchada su creyente oracin, y Jess le dijo: Hoy estars conmigo en el
+fue escuchada su creyente oración, y Jesús le dijo: “Hoy estarás conmigo en el
 
-paraso. Los tres mil en Pentecosts, esperaron algo grande? No, creyeron y
+paraíso”. Los tres mil en Pentecostés, ¿esperaron algo grande? No, creyeron y
 
-fueron bautizados. Miren al carcelero de Filipos. Era la medianoche; la prisin
+fueron bautizados. Miren al carcelero de Filipos. Era la medianoche; la prisión
 
-fue sacudida y el carcelero estaba alarmado y dijo: Seores, qu debo hacer
+fue sacudida y el carcelero estaba alarmado y dijo: “Señores, ¿qué debo hacer
 
-para ser salvo? Acaso Pablo respondi: Bien, tienes que usar los medios y
+para ser salvo?” ¿Acaso Pablo respondió: “Bien, tienes que usar los medios y
 
-tienes que buscar una bendicin en las ordenanzas? No!, l dijo: Cree en el
+tienes que buscar una bendición en las ordenanzas”? ¡No!, él dijo: “Cree en el
 
-Seor Jesucristo, y sers salvo, t y tu casa, y esa misma noche lo bautiz.
+Señor Jesucristo, y serás salvo, tú y tu casa”, y esa misma noche lo bautizó.
 
-Pablo no se tom al respecto el tiempo que algunos piensan que es sumamente
+Pablo no se tomó al respecto el tiempo que algunos piensan que es sumamente
 
-necesario. l crea, como lo creo yo, que hay vida en una mirada a Jess; peda
+necesario. Él creía, como lo creo yo, que hay vida en una mirada a Jesús; pedía
 
-a los hombres que miraran, y mirando, ellos vivan.
+a los hombres que miraran, y mirando, ellos vivían.
 
-Posiblemente vern sto ms claramente, si
+Posiblemente verán ésto más claramente, si
 
 les recuerdo que
 
-la obra de la salvacin
+la obra de la salvación
 
-est toda consumada.
+está toda consumada.
 
 No hay nada que el pecador deba hacer para ser salvo,
 
-pues todo ha sido hecho para l. T requieres de un bao. El bao no necesita
+pues todo ha sido hecho para él. Tú requieres de un baño. El baño no necesita
 
-ser llenado. Hay una fuente llena de sangre. T necesitas un vestido. No
+ser llenado. “Hay una fuente llena de sangre”. Tú necesitas un vestido. No
 
-necesitas confeccionar el vestido, pues el manto est listo. El manto de la justicia
+necesitas confeccionar el vestido, pues el manto está listo. El manto de la justicia
 
-de Cristo est tejido de arriba abajo, y todo lo que se requiere es que te lo
+de Cristo está tejido de arriba abajo, y todo lo que se requiere es que te lo
 
-pongas. Si t debieras hacer alguna obra, podra tratarse de un proceso
+pongas. Si tú debieras hacer alguna obra, podría tratarse de un proceso
 
-prolongado, pero todo lo que se requera hacer ya fue consumado por Cristo. La
+prolongado, pero todo lo que se requería hacer ya fue consumado por Cristo. La
 
-salvacin no es por obras, sino por gracia, y aceptar lo que Cristo te presenta
+salvación no es por obras, sino por gracia, y aceptar lo que Cristo te presenta
 
 no es una obra de tiempo.
 
-Adems, permtanme decirles que
+Además, permítanme decirles que
 
-la propia regeneracin no puede ser una obra
+la propia regeneración no puede ser una obra
 
 de un tiempo prolongado,
 
-porque, incluso all donde pareciera ser ms
+porque, incluso allí donde pareciera ser más
 
 gradual, cuando se la mira de cerca, resulta ser en su esencia la obra de un momento.
 
-Un hombre est muerto; ahora, si ese hombre resucitara de los muertos, tiene
+Un hombre está muerto; ahora, si ese hombre resucitara de los muertos, tiene
 
-que haber un instante en el que estaba muerto, y otro instante en el que est
+que haber un instante en el que estaba muerto, y otro instante en el que está
 
-vivo. La vivificacin real tiene que ser la obra de un instante. Concedo que al
+vivo. La vivificación real tiene que ser la obra de un instante. Concedo que al
 
-principio la vida podra ser muy dbil, pero tiene que haber un momento cuando
+principio la vida podría ser muy débil, pero tiene que haber un momento cuando
 
-esa vida comienza. Tiene que haber una lnea no siempre podemos verla, pero
+esa vida comienza. Tiene que haber una línea –no siempre podemos verla, pero
 
-Dios la ve- tiene que haber una lnea entre la vida y la muerte. Un hombre no
+Dios la ve- tiene que haber una línea entre la vida y la muerte. Un hombre no
 
-puede estar a medias vivo y a medias muerto; o est vivo o est muerto; y as,
+puede estar a medias vivo y a medias muerto; o está vivo o está muerto; y así,
 
-t ests ya sea muerto en el pecado o vivo para Dios, y la vivificacin no
+tú estás ya sea muerto en el pecado o vivo para Dios, y la vivificación no
 
-puede involucrar un perodo largo de tiempo.
+puede involucrar un período largo de tiempo.
 
 Finalmente, mis oyentes,
 
-no toma ni un ao ni un siglo para que Dios
+no toma ni un año ni un siglo para que Dios
 
-diga: Yo te perdono.
+diga: “Yo te perdono”.
 
 El juez pronuncia la sentencia, y el criminal es
 
-absuelto. Si Dios te dijera esta maana: Yo te absuelvo, t quedas absuelto y
+absuelto. Si Dios te dijera esta mañana: “Yo te absuelvo”, tú quedas absuelto y
 
 puedes ir en paz. Tengo que dar un fiel testimonio en cuanto a mi propio caso.
 
-Yo nunca encontr la misericordia por esperar. Nunca obtuve un rayo de
+Yo nunca encontré la misericordia por esperar. Nunca obtuve un rayo de
 
-esperanza por depender de las ordenanzas. Encontr la salvacin por creer. O a
+esperanza por depender de las ordenanzas. Encontré la salvación por creer. Oí a
 
-un sencillo ministro del Evangelio que deca: Mira y vive! Mira a Jess! l
+un sencillo ministro del Evangelio que decía: “¡Mira y vive! ¡Mira a Jesús! ¡Él
 
-sangra en el huerto; l muere en el madero! Confa en l! Confate a lo que l
+sangra en el huerto; Él muere en el madero! ¡Confía en Él! Confíate a lo que Él
 
-ha sufrido en vez de confiar en ti y, si confas en l, sers salvo. El Seor
+ha sufrido en vez de confiar en ti y, si confías en Él, serás salvo”. El Señor
 
-sabe que yo haba
+sabe que yo había
 
-odo
+oído
 
 ese Evangelio
 
-muchas veces antes, pero no lo haba obedecido. Sin embargo, esa vez vino con
+muchas veces antes, pero no lo había obedecido. Sin embargo, esa vez vino con
 
-poder a mi alma, y yo en verdad mir, y en el instante en que mir a Cristo,
+poder a mi alma, y yo en verdad miré, y en el instante en que miré a Cristo,
 
-perd mi carga.
+perdí mi carga.
 
-Pero, -me preguntar alguien- cmo lo
+“Pero”, -me preguntará alguien- “¿cómo lo
 
-sabes? Llevaste alguna vez un fardo sobre ti? Oh, s, -respondes-. Sabes
+sabes?” ¿Llevaste alguna vez un fardo sobre ti? “Oh, sí”, -respondes-. “¿Sabes
 
-cundo quedaste libre de l? Cmo lo supiste? Oh, -respondes- me sent muy
+cuándo quedaste libre de él? ¿Cómo lo supiste?” “Oh”, -respondes- “me sentí muy
 
 diferente. Yo me daba cuenta cuando llevaba la carga a cuestas, y, consecuentemente,
 
-supe cuando estuve libre de ella.
+supe cuando estuve libre de ella”.
 
-Lo mismo sucedi en mi caso. Yo slo
+Lo mismo sucedió en mi caso. Yo sólo
 
-deseo que algunos de ustedes sientan la carga del pecado como yo la sent,
+deseo que algunos de ustedes sientan la carga del pecado como yo la sentí,
 
 cuando esperaba junto al estanque de Betesda. Me asombra que esa espera no me
 
-transportara al infierno. Pero, cuando escuch la palabra: Mira!, yo mir y
+transportara al infierno. Pero, cuando escuché la palabra: “¡Mira!”, yo miré y
 
-mi carga desapareci. Me preguntaba dnde se haba ido; no la he visto nunca
+mi carga desapareció. Me preguntaba dónde se había ido; no la he visto nunca
 
-desde entonces, y nunca la ver de nuevo. Fue introducida en el sepulcro del
+desde entonces, y nunca la veré de nuevo. Fue introducida en el sepulcro del
 
-Seor, y qued enterrada all para siempre. Dios lo ha dicho: Yo deshice como
+Señor, y quedó enterrada allí para siempre. Dios lo ha dicho: “Yo deshice como
 
-una nube tus rebeliones, y como niebla tus pecados.
+una nube tus rebeliones, y como niebla tus pecados”.
 
-Oh, vengan, ustedes que estn
+¡Oh, vengan, ustedes que están
 
-necesitados, vengan a mi Seor! Oigan, ustedes que estn desilusionados con
+necesitados, vengan a mi Señor! ¡Oigan, ustedes que están desilusionados con
 
 los ritos y las ceremonias y los sentimientos y las impresiones y todas las
 
-esperanzas de la carne, vengan obedeciendo al mandato de mi Seor, y mrenlo a
+esperanzas de la carne, vengan obedeciendo al mandato de mi Señor, y mírenlo a
 
-l! l no est presente aqu en la carne, pues ha resucitado, pero resucit
+Él! Él no está presente aquí en la carne, pues ha resucitado, pero resucitó
 
-para interceder por los pecadores, y puede salvar perpetuamente a los que por
+para interceder por los pecadores, y “puede salvar perpetuamente a los que por
 
-l se acercan a Dios, viviendo siempre para interceder por ellos. Oh, si yo
+él se acercan a Dios, viviendo siempre para interceder por ellos”. ¡Oh, si yo
 
-pudiera saber cmo predicar el Evangelio de tal manera que ustedes lo
+pudiera saber cómo predicar el Evangelio de tal manera que ustedes lo
 
-sintieran, ira a cualquier escuela para aprender a hacerlo! El Seor sabe que
+sintieran, iría a cualquier escuela para aprender a hacerlo! El Señor sabe que
 
-yo consentira voluntariamente a perder estos ojos a cambio de obtener poder en
+yo consentiría voluntariamente a perder estos ojos a cambio de obtener poder en
 
-mi ministerio; s, y a perder brazos, piernas y todos mis miembros. Yo estara
+mi ministerio; sí, y a perder brazos, piernas y todos mis miembros. Yo estaría
 
-dispuesto a morir si pudiera, pero quisiera ser honrado por el Espritu Santo
+dispuesto a morir si pudiera, pero quisiera ser honrado por el Espíritu Santo
 
 para ganar a esta muchedumbre de almas para Dios.
 
-Yo les imploro, hermanos mos, a ustedes
+Yo les imploro, hermanos míos, a ustedes
 
-que tienen poder en la oracin, que oren pidiendo al Seor que lleve a los
+que tienen poder en la oración, que oren pidiendo al Señor que lleve a los
 
-pecadores a Cristo. Permtanme decirles solemnemente a ustedes, que han odo la
+pecadores a Cristo. Permítanme decirles solemnemente a ustedes, que han oído la
 
-palabra hoy, que yo les he declarado el plan de salvacin claramente; si no lo
+palabra hoy, que yo les he declarado el plan de salvación claramente; si no lo
 
 aceptan, yo estoy limpio de su sangre, y sacudo mis vestidos de la sangre de
 
-sus almas. Si no vienen a mi Dios y Seor, debo dar un claro testimonio en contra
+sus almas. Si no vienen a mi Dios y Señor, debo dar un claro testimonio en contra
 
-de ustedes en el da del juicio. Les he declarado el camino no podra
+de ustedes en el día del juicio. ¡Les he declarado el camino –no podría
 
-decrselos ms sencillamente- y ahora le suplico que lo sigan! Les imploro que
+decírselos más sencillamente- y ahora le suplico que lo sigan! ¡Les imploro que
 
-miren a Jess! Pero si lo rechazan, de cualquier manera, cuando resuciten de
+miren a Jesús! Pero si lo rechazan, de cualquier manera, cuando resuciten de
 
-los muertos y estn delante del gran trono blanco, hganme justicia diciendo
+los muertos y estén delante del gran trono blanco, háganme justicia diciendo
 
-que yo les implor y persuad para que escaparan, y que les insist para que
+que yo les imploré y persuadí para que escaparan, y que les insistí para que
 
-huyeran de la ira venidera. Que el Seor salve a cada uno de ustedes, y Suya
+huyeran de la ira venidera. Que el Señor salve a cada uno de ustedes, y Suya
 
-ser la eterna alabanza. Amn.
+será la eterna alabanza. Amén.
 
 Porciones de
 
 la Escritura
 
-ledas antes
+leídas antes
 
-del sermn:
+del sermón:
 
 Juan 3: 14-21 y Juan 5:
 
 1-9.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 10/Febrero/2011
 

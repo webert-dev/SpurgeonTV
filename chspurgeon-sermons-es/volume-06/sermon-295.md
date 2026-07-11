@@ -1,14 +1,12 @@
 # Sermón 295 | Sermón 295
 
-El Plpito de la Capilla New Park Street
-
 El Tesoro de
 
 la Gracia
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -28,157 +26,157 @@ STRAND
 
 LONDRES.
 
-El perdn de pecados segn
+“El perdón de pecados según
 
-las riquezas de su gracia Efesios 1: 7.
+las riquezas de su gracia” Efesios 1: 7.
 
-Isaas ocupa entre los profetas el sitio
+Isaías ocupa entre los profetas el sitio
 
 que Pablo ocupa entre los
 
-apstoles
+apóstoles
 
 . Cada uno de ellos
 
 se destaca con singular prominencia habiendo sido levantado por Dios para un
 
-conspicuo propsito, y cada uno brilla como una estrella de extraordinaria brillantez.
+conspicuo propósito, y cada uno brilla como una estrella de extraordinaria brillantez.
 
-Isaas habl ms de Cristo y describi ms minuciosamente Su pasin y Su muerte
+Isaías habló más de Cristo y describió más minuciosamente Su pasión y Su muerte
 
-que todos los dems profetas tomados en su conjunto. Pablo proclam la gracia
+que todos los demás profetas tomados en su conjunto. Pablo proclamó la gracia
 
 de Dios -gracia libre, plena, soberana y eterna- sobrepasando al glorioso
 
-conjunto de los apstoles. Algunas veces se remontaba a tales asombrosas
+conjunto de los apóstoles. Algunas veces se remontaba a tales asombrosas
 
-alturas o se sumerga en tales profundidades inescrutables, que aun Pedro no poda
+alturas o se sumergía en tales profundidades inescrutables, que aun Pedro no podía
 
-seguirle. Estaba presto a confesar que nuestro amado hermano Pablo, segn la
+seguirle. Estaba presto a confesar que “nuestro amado hermano Pablo, según la
 
-sabidura que le ha sido dada, ha escrito algunas cosas difciles de
+sabiduría que le ha sido dada”, ha escrito “algunas cosas difíciles de
 
-entender. Judas pudo escribir acerca de los juicios de Dios y reprobar con
+entender”. Judas pudo escribir acerca de los juicios de Dios y reprobar con
 
-terribles palabras a hombres impos, que convierten en libertinaje la gracia
+terribles palabras a “hombres impíos, que convierten en libertinaje la gracia
 
-de nuestro Dios. Pero no poda, como Pablo, explicar el propsito de la gracia
+de nuestro Dios”. Pero no podía, como Pablo, explicar el propósito de la gracia
 
 como fue planeado en la mente eterna, o la experiencia de la gracia como es
 
-sentida y experimentada en el corazn humano. Est tambin Santiago: l, como
+sentida y experimentada en el corazón humano. Está también Santiago: él, como
 
-un fiel ministro, poda tratar de manera muy detallada con las evidencias
+un fiel ministro, podía tratar de manera muy detallada con las evidencias
 
-prcticas del carcter cristiano. Y sin embargo, pareciera que se queda en la
+prácticas del carácter cristiano. Y sin embargo, pareciera que se queda en la
 
 superficie; no penetra de manera profunda en el subsuelo sobre el que debe
 
 estar asentado el piso visible de todas las gracias espirituales. Aun Juan,
 
-sumamente favorecido entre todos esos apstoles que fueron compaeros de
+sumamente favorecido entre todos esos apóstoles que fueron compańeros de
 
-nuestro Seor en la tierra, -dulcemente como el discpulo amado escribe acerca
+nuestro Seńor en la tierra, -dulcemente como el discípulo amado escribe acerca
 
-de la comunin con el Padre y Su Hijo Jesucristo- aun Juan no habla de la
+de la comunión con el Padre y Su Hijo Jesucristo- aun Juan no habla de la
 
-gracia tan ricamente como lo hace Pablo para que Jesucristo mostrase en m el
+gracia tan ricamente como lo hace Pablo “para que Jesucristo mostrase en mí el
 
-primero toda su clemencia, para ejemplo de los que habran de creer en l para
+primero toda su clemencia, para ejemplo de los que habrían de creer en él para
 
-vida eterna. No se trata, en verdad, que tengamos libertad para preferir a un
+vida eterna”. No se trata, en verdad, que tengamos libertad para preferir a un
 
-apstol sobre otro. No podemos dividir a
+apóstol sobre otro. No podemos dividir a
 
 la Iglesia
 
-diciendo: yo soy de Pablo, yo de Pedro,
+diciendo: ‘yo soy de Pablo, yo de Pedro,
 
-yo de Apolos; pero s podemos reconocer el instrumento que a Dios le agrad
+yo de Apolos; pero sí podemos reconocer el instrumento que a Dios le agradó
 
-utilizar; podemos admirar la manera en que el Espritu Santo le equip para su
+utilizar; podemos admirar la manera en que el Espíritu Santo le equipó para su
 
-obra; podemos, con las iglesias de Judea, glorificar a Dios en Pablo. Entre
+obra; podemos, con las iglesias de Judea, “glorificar a Dios en Pablo”. Entre
 
-los primeros padres, Agustn fue identificado como el Doctor de
+los primeros padres, Agustín fue identificado como el “Doctor de
 
 la Gracia
 
-, tanto se deleitaba
+”, tanto se deleitaba
 
-l en esas doctrinas que exhiben la gratuidad del favor divino. Y podramos
+él en esas doctrinas que exhiben la gratuidad del favor divino. Y podríamos
 
 afirmar ciertamente lo mismo de Pablo. El descollaba entre sus iguales
 
-declarando la gracia que trae salvacin. El sentido de la gracia impregnaba
+declarando la gracia que trae salvación. El sentido de la gracia impregnaba
 
 todos sus pensamientos tal como la sangre vital circula por todas las venas del
 
-cuerpo de uno. Si habla de la conversin, me llam por su gracia. Es ms, l
+cuerpo de uno. Si habla de la conversión, “me llamó por su gracia”. Es más, él
 
-ve a la gracia activa antes de su conversin, y me apart desde el vientre de
+ve a la gracia activa antes de su conversión, y “me apartó desde el vientre de
 
-mi madre. Pablo atribuye todo su ministerio a la gracia. A m, que soy menos
+mi madre”. Pablo atribuye todo su ministerio a la gracia. “A mí, que soy menos
 
-que el ms pequeo de todos los santos, me fue dada esta gracia de anunciar
+que el más pequeńo de todos los santos, me fue dada esta gracia de anunciar
 
-entre los gentiles el evangelio de las inescrutables riquezas de Cristo. Vanle
+entre los gentiles el evangelio de las inescrutables riquezas de Cristo”. Véanle
 
 en cualquier momento y bajo cualesquiera circunstancias: ya sea abatido por la
 
-debilidad o transportado hasta el tercer cielo con revelacin, l se describe
+debilidad o transportado hasta el tercer cielo con revelación, él se describe
 
-de una sola manera, Por la gracia de Dios soy lo que soy.
+de una sola manera, “Por la gracia de Dios soy lo que soy”.
 
 No hay ministros que contiendan tan plena
 
 y resueltamente por la gracia libre, soberana e incondicional, como aquellos
 
-que antes de su conversin se han recreado en pecados graves y escandalosos.
+que antes de su conversión se han recreado en pecados graves y escandalosos.
 
 Sus predicadores caballerosos que han sido educados piadosamente y que han sido
 
 enviados de su cuna a la escuela, de la escuela a la universidad y de la
 
-universidad al plpito sin encontrar mucha tentacin, o sin ser rescatados de
+universidad al púlpito sin encontrar mucha tentación, o sin ser rescatados de
 
 las guaridas de la impiedad, saben comparativamente poco y hablan con escaso
 
-nfasis acerca de la
+énfasis acerca de la
 
 gracia inmerecida.
 
 Es
 
-un Bunyan, que profera maldiciones, un Newton que era un verdadero monstruo en
+un Bunyan, que profería maldiciones, un Newton que era un verdadero monstruo en
 
 el pecado, y son los seres semejantes a ellos los que no pueden olvidar ni
 
-siquiera una hora en sus vidas posteriores la gracia que los libr del pozo del
+siquiera una hora en sus vidas posteriores la gracia que los libró del pozo del
 
-abismo y que los arrebat, cual tizones, del incendio. Extrao, en verdad, que
+abismo y que los arrebató, cual tizones, del incendio. Extrańo, en verdad, que
 
 Dios quiera que
 
-as
+así
 
 sea.
 
 Es inescrutable la providencia que
 
-permite que algunos de los elegidos de Dios se extraven y anden errantes hasta
+permite que algunos de los elegidos de Dios se extravíen y anden errantes hasta
 
 donde una oveja se puede descarriar. Sin embargo, tales hombres se convierten
 
-en los ms valientes paladines de esa gracia que es la nica que puede rescatar
+en los más valientes paladines de esa gracia que es la única que puede rescatar
 
-a cualquier pecador de la eterna condenacin.
+a cualquier pecador de la eterna condenación.
 
-Esta maana nos proponemos exponer para
+Esta mańana nos proponemos exponer para
 
 ustedes
 
-las riquezas de la gracia de
+“las riquezas de la gracia de
 
 Dios;
 
@@ -190,25 +188,25 @@ luego,
 
 en segundo lugar, hablaremos del
 
-Perdn
+“Perdón
 
-de los Pecados,
+de los Pecados”,
 
 que ha de ser juzgado por esa
 
 Medida:
 
-el perdn
+el perdón
 
 va acorde
 
 con
 
-las riquezas de Su gracia; y vamos a concluir despus considerando
+las riquezas de Su gracia; y vamos a concluir después considerando
 
 algunos de los
 
-privilegios que estn
+privilegios que están
 
 vinculados con eso.
 
@@ -220,33 +218,33 @@ RIQUEZAS DE SU GRACIA. En un intento por descubrir lo que es inescrutable, yo
 
 supongo que tenemos que usar algunas de esas comparaciones con las cuales
 
-solemos estimar la riqueza de los monarcas y de los potentados de este mundo. Sucedi
+solemos estimar la riqueza de los monarcas y de los potentados de este mundo. Sucedió
 
-una vez que el embajador espaol, en los das de gloria de Espaa, fue a
+una vez que el embajador espańol, en los días de gloria de Espańa, fue a
 
-visitar al embajador francs, y fue invitado por l a ver los tesoros de su
+visitar al embajador francés, y fue invitado por él a ver los tesoros de su
 
-seor. Con sentimientos de orgullo le mostr los repositorios profusamente
+seńor. Con sentimientos de orgullo le mostró los repositorios profusamente
 
-surtidos con la ms preciosa y ms costosa riqueza de la tierra. Podras
+surtidos con la más preciosa y más costosa riqueza de la tierra. “żPodrías
 
-mostrar joyas tan ricas, dijo l o algo parecido a esto en cuanto a la
+mostrar joyas tan ricas”, dijo él “o algo parecido a esto en cuanto a la
 
-magnificencia de las posesiones en todo el reino de tu soberano? Llamas rico
+magnificencia de las posesiones en todo el reino de tu soberano?” “żLlamas rico
 
-a tu seor?, respondi el embajador de Espaa, vamos, los tesoros de mi seor
+a tu seńor?”, respondió el embajador de Espańa, “vamos, los tesoros de mi seńor
 
-no tienen fondo, aludiendo, por supuesto, a las minas de Per y Petrosa. As,
+no tienen fondo”, aludiendo, por supuesto, a las minas de Perú y Petrosa. Así,
 
 en verdad, en las riquezas de la gracia hay minas demasiado profundas para que
 
-las pueda desentraar el entendimiento finito del hombre. Por profunda que sea
+las pueda desentrańar el entendimiento finito del hombre. Por profunda que sea
 
-tu investigacin, hay todava una capa situada por debajo que desconcierta toda
+tu investigación, hay todavía una capa situada por debajo que desconcierta toda
 
-investigacin. Quin puede descubrir jams los atributos de Dios? Quin puede
+investigación. żQuién puede descubrir jamás los atributos de Dios? żQuién puede
 
-conocer al Todopoderoso a la perfeccin? No sabemos cmo estimar la propia
+conocer al Todopoderoso a la perfección? No sabemos cómo estimar la propia
 
 cualidad y las propiedades de la gracia tal como mora en la mente de
 
@@ -256,61 +254,61 @@ El
 
 amor en el pecho
 
-humano es una pasin. Con Dios no es as. El amor es un atributo de la esencia
+humano es una pasión. Con Dios no es así. El amor es un atributo de la esencia
 
 divina. Dios es amor. En los hombres, la gracia y la liberalidad pueden convertirse
 
-en un hbito, pero con Dios la gracia es un atributo intrnseco de Su
+en un hábito, pero con Dios la gracia es un atributo intrínseco de Su
 
-naturaleza. l tiene que ser clemente. As como por necesidad de Su Deidad l
+naturaleza. Él tiene que ser clemente. Así como por necesidad de Su Deidad Él
 
-es omnipotente, y omnipresente, as tambin l es clemente por absoluta necesidad
+es omnipotente, y omnipresente, así también Él es clemente por absoluta necesidad
 
 de Su divinidad.
 
-Entremos pues, hermanos mos, en esta
+Entremos pues, hermanos míos, en esta
 
 resplandeciente mina de los atributos de la gracia de Dios. Cada uno de los
 
 atributos de Dios es infinito, y por tanto, este atributo de la gracia no tiene
 
-lmites. Ustedes no pueden concebir la infinitud de Dios. Por qu, entonces,
+límites. Ustedes no pueden concebir la infinitud de Dios. żPor qué, entonces,
 
-tendra yo que intentar describirla? Sin embargo, recuerden que como los
+tendría yo que intentar describirla? Sin embargo, recuerden que como los
 
 atributos de Dios tienen el mismo alcance, la medida de un atributo tiene que
 
-ser la medida de otro. O, prosiguiendo, si un atributo no tiene lmite, tampoco
+ser la medida de otro. O, prosiguiendo, si un atributo no tiene límite, tampoco
 
-lo tiene otro atributo. Ahora, ustedes no pueden concebir ningn lmite para la
+lo tiene otro atributo. Ahora, ustedes no pueden concebir ningún límite para la
 
-omnipotencia de Dios. Qu es lo que no puede hacer? l puede crear, l puede
+omnipotencia de Dios. żQué es lo que no puede hacer? Él puede crear, Él puede
 
-destruir. l puede crear una mirada de universos con Su palabra, o l puede
+destruir. Él puede crear una miríada de universos con Su palabra, o Él puede
 
-apagar la luz de miradas de estrellas tan fcilmente como nosotros apagamos
+apagar la luz de miríadas de estrellas tan fácilmente como nosotros apagamos
 
-una chispa con el pie. Basta que as lo quiera y criaturas sin nmero cantan Su
+una chispa con el pie. Basta que así lo quiera y criaturas sin número cantan Su
 
-alabanza; otro acto de volicin, y esas criaturas se hunden en su desnuda nada,
+alabanza; otro acto de volición, y esas criaturas se hunden en su desnuda nada,
 
-as como la espuma de un momento se deshace en la ola que la transporta y se
+así como la espuma de un momento se deshace en la ola que la transporta y se
 
-pierde para siempre. El astrnomo dirige su telescopio al espacio ms remoto y
+pierde para siempre. El astrónomo dirige su telescopio al espacio más remoto y
 
-no puede encontrar ningn lmite para el poder creador de Dios; pero si
+no puede encontrar ningún límite para el poder creador de Dios; pero si
 
-pareciera encontrar algn lmite, nosotros le informaramos entonces que todos
+pareciera encontrar algún límite, nosotros le informaríamos entonces que todos
 
 los mundos de los mundos que se agrupan en el espacio, densos como las gotas
 
-del roco matutino sobre los prados, no son sino jirones del poder de Dios. l
+del rocío matutino sobre los prados, no son sino jirones del poder de Dios. Él
 
-puede hacer ms que todas esas cosas, puede deshacerlas y convertirlas en nada
+puede hacer más que todas esas cosas, puede deshacerlas y convertirlas en nada
 
-y puede comenzar de nuevo. Ahora, as de ilimitado como es Su poder, as de
+y puede comenzar de nuevo. Ahora, así de ilimitado como es Su poder, así de
 
-infinita es Su gracia. As como tiene poder para hacer cualquier cosa, as
+infinita es Su gracia. Así como tiene poder para hacer cualquier cosa, así
 
 tiene gracia suficiente para dar cualquier cosa, para darlo todo al primero de
 
@@ -318,261 +316,261 @@ los pecadores.
 
 Tomen otro atributo si les parece: la omnisciencia
 
-de Dios. No hay lmite para ella. Nosotros sabemos que su mirada est sobre
+de Dios. No hay límite para ella. Nosotros sabemos que su mirada está sobre
 
-cada individuo de nuestra raza; le ve tan minuciosamente como si fuera la nica
+cada individuo de nuestra raza; le ve tan minuciosamente como si fuera la única
 
-criatura que existiera. Se cuenta del guila que presume desafiar con su mirada
+criatura que existiera. Se cuenta del águila que presume desafiar con su mirada
 
 al sol, pero que, cuando alcanza su mayor altura puede detectar el movimiento
 
-del pez ms pequeo en las profundidades del mar. Pero, qu es esto comparado
+del pez más pequeńo en las profundidades del mar. Pero, żqué es esto comparado
 
 con la omnisciencia de Dios? Su ojo rastrea al sol en su maravilloso curso, Su
 
-ojo advierte al cometa alado cuando vuela a travs del espacio, Su ojo
+ojo advierte al cometa alado cuando vuela a través del espacio, Su ojo
 
-discierne el lmite ms distante de la creacin, habitada o inhabitada. No hay
+discierne el límite más distante de la creación, habitada o inhabitada. No hay
 
-nada oculto de esa luz, con l no hay tinieblas del todo. Si me remonto al
+nada oculto de esa luz, con Él no hay tinieblas del todo. Si me remonto al
 
-cielo, l est all; si me sumerjo en el infierno l est all; si vuelo
+cielo, Él está allí; si me sumerjo en el infierno Él está allí; si vuelo
 
-montado en el rayo matutino ms all del mar occidental:
+montado en el rayo matutino más allá del mar occidental:
 
-Su mano, ms
+“Su mano, más
 
-veloz, arribar primero,
+veloz, arribará primero,
 
-Y all
+Y allí
 
-detendr al fugitivo.
+detendrá al fugitivo”.
 
-No hay ningn lmite para Su
+No hay ningún límite para Su
 
-entendimiento, ni lo hay para Su gracia. As como Su conocimiento abarca todas
+entendimiento, ni lo hay para Su gracia. Así como Su conocimiento abarca todas
 
-las cosas, as Su gracia abarca todos los pecados, todas las pruebas, todas las
+las cosas, así Su gracia abarca todos los pecados, todas las pruebas, todas las
 
-debilidades del pueblo en el que est puesto Su corazn. Entonces, mis queridos
+debilidades del pueblo en el que está puesto Su corazón. Entonces, mis queridos
 
-hermanos, la prxima vez que tengamos miedo de que la gracia de Dios se
+hermanos, la próxima vez que tengamos miedo de que la gracia de Dios se
 
 extinga, miremos en el interior de esta mina y entonces reflexionemos en que
 
-todo lo que ha sido extrado jams de ella no la ha reducido ni en una sola
+todo lo que ha sido extraído jamás de ella no la ha reducido ni en una sola
 
-partcula. Todas las nubes que han sido tomadas del mar no han disminuido jams
+partícula. Todas las nubes que han sido tomadas del mar no han disminuido jamás
 
 su profundidad, y todo el amor y toda la misericordia que Dios ha dado a los
 
-casi infinitos nmeros de la raza humana, no ha disminuido ni en una sola pizca
+casi infinitos números de la raza humana, no ha disminuido ni en una sola pizca
 
-la montaa de Su gracia. Pero sigamos adelante; nosotros juzgamos algunas veces
+la montańa de Su gracia. Pero sigamos adelante; nosotros juzgamos algunas veces
 
-la riqueza de los hombres no nicamente por sus propiedades reales en minas y
+la riqueza de los hombres no únicamente por sus propiedades reales en minas y
 
 cosas semejantes, sino por lo que tienen disponible que ha sido almacenado en
 
-el tesoro. Tengo que llevarlos ahora, hermanos mos, al reluciente tesoro de la
+el tesoro. Tengo que llevarlos ahora, hermanos míos, al reluciente tesoro de la
 
-gracia divina. Ustedes conocen su nombre, se llama el Pacto. No han odo la
+gracia divina. Ustedes conocen su nombre, se llama el Pacto. żNo han oído la
 
-maravillosa historia de lo que se hizo en la antigedad antes de que el mundo
+maravillosa historia de lo que se hizo en la antigüedad antes de que el mundo
 
-fuera hecho? Dios saba anticipadamente que el hombre caera, pero l resolvi
+fuera hecho? Dios sabía anticipadamente que el hombre caería, pero Él resolvió
 
-de acuerdo a Su propio propsito y voluntad infinitos, que de esta cada l
+de acuerdo a Su propio propósito y voluntad infinitos, que de esta caída Él
 
-levantara una multitud la cual nadie puede contar. El Padre Eterno sostuvo un
+levantaría una multitud la cual nadie puede contar. El Padre Eterno sostuvo un
 
-solemne consejo con el Hijo y el Espritu Santo. As habl el Padre: Yo
+solemne consejo con el Hijo y el Espíritu Santo. Así habló el Padre: “ˇYo
 
-quiero que los que he elegido sean salvados! As dijo el Hijo: Padre mo,
+quiero que los que he elegido sean salvados!” Así dijo el Hijo: “Padre mío,
 
 estoy dispuesto a desangrarme y morir para que Tu justicia no sufra y que Tu
 
-propsito sea ejecutado. Yo quiero dijo el Espritu Santo- que aquellos a
+propósito sea ejecutado”. “Yo quiero” –dijo el Espíritu Santo- “que aquellos a
 
 quienes el Hijo redima con sangre sean llamados por gracia, sean vivificados,
 
 sean preservados, sean santificados y perfeccionados y llevados a salvo al
 
-hogar. Entonces se suscribi el Pacto, y fue firmado, sellado y ratificado
+hogar”. Entonces se suscribió el Pacto, y fue firmado, sellado y ratificado
 
-entre los Tres Sagrados. El Padre dio a Su Hijo, el Hijo se entreg a S mismo,
+entre los Tres Sagrados. El Padre dio a Su Hijo, el Hijo se entregó a Sí mismo,
 
-y el Espritu promete toda Su influencia y toda Su presencia a todos los
+y el Espíritu promete toda Su influencia y toda Su presencia a todos los
 
 elegidos. Entonces el Padre dio al Hijo las personas de Sus elegidos, entonces
 
-el Hijo se entreg a S mismo a los elegidos y los tom en unin con l, y
+el Hijo se entregó a Sí mismo a los elegidos y los tomó en unión con Él, y
 
-entonces el Espritu prometi en el pacto que esos elegidos iban a ser llevados
+entonces el Espíritu prometió en el pacto que esos elegidos iban a ser llevados
 
 a salvo al hogar al final. Siempre que pienso en el antiguo pacto de gracia, me
 
-quedo perfectamente asombrado y azorado con su gracia. Yo no podra ser
+quedo perfectamente asombrado y azorado con su gracia. Yo no podría ser
 
-inducido a ser arminiano de ninguna manera; la poesa misma de nuestra santa
+inducido a ser arminiano de ninguna manera; la poesía misma de nuestra santa
 
-religin radica en esas antiguas cosas de los montes eternos, en ese glorioso
+religión radica en esas antiguas cosas de los montes eternos, en ese glorioso
 
 pacto firmado y sellado y ratificado, bien ordenado en todas las cosas desde
 
 toda la eternidad.
 
-Haz una pequea pausa aqu, mi querido
+Haz una pequeńa pausa aquí, mi querido
 
 oyente, y piensa que antes de que este mundo fuera hecho, antes de que Dios
 
 hubiese puesto los profundos cimientos de los montes, o hubiera llenado los
 
-mares con la fuente de la palma de Su mano, l haba elegido a Su pueblo, y
+mares con la fuente de la palma de Su mano, Él había elegido a Su pueblo, y
 
-haba puesto Su corazn en ellos. A ellos se dio a S mismo, dio a Su Hijo, Su
+había puesto Su corazón en ellos. A ellos se dio a Sí mismo, dio a Su Hijo, Su
 
-cielo y Su todo. Por ellos Cristo determin renunciar a Su bienaventuranza, a Su
+cielo y Su todo. Por ellos Cristo determinó renunciar a Su bienaventuranza, a Su
 
-hogar, a Su vida; a ellos el Espritu les prometi todos Sus atributos, para
+hogar, a Su vida; a ellos el Espíritu les prometió todos Sus atributos, para
 
-que fueran bendecidos. Oh gracia divina, cun gloriosa eres t, sin principio
+que fueran bendecidos. Oh gracia divina, cuán gloriosa eres tú, sin principio
 
-ni fin. Cmo he de alabarte? ngeles, hagan suya la meloda; canten estos
+ni fin. żCómo he de alabarte? Ángeles, hagan suya la melodía; canten estos
 
-nobles temas: el amor del Padre, el amor del Hijo y el amor del Espritu.
+nobles temas: el amor del Padre, el amor del Hijo y el amor del Espíritu.
 
-Esto, hermanos mos, si lo piensan bien,
+Esto, hermanos míos, si lo piensan bien,
 
 pudiera hacerlos estimar debidamente las riquezas de la gracia de Dios. Si leen
 
 el rollo del pacto de principio a fin, que contiene, como en efecto lo hace, la
 
-eleccin, la redencin, el llamamiento, la justificacin, el perdn, la
+elección, la redención, el llamamiento, la justificación, el perdón, la
 
-adopcin, el cielo, la inmortalidad, si leen todo eso, dirn: Estas son las
+adopción, el cielo, la inmortalidad, si leen todo eso, dirán: “ˇEstas son las
 
-riquezas de la gracia! Dios grande e infinito! Quin es un Dios como T por
+riquezas de la gracia! ˇDios grande e infinito! ˇQuién es un Dios como Tú por
 
-las riquezas de Tu amor!
+las riquezas de Tu amor!”
 
-Adems, las riquezas de grandes reyes
+Además, las riquezas de grandes reyes
 
 pueden ser estimadas a menudo por la munificencia de los monumentos que
 
-levantaron para registrar sus hazaas. Nos hemos quedado sorprendidos en estos
+levantaron para registrar sus hazańas. Nos hemos quedado sorprendidos en estos
 
-tiempos modernos por las maravillosas riquezas de los reyes de Nnive y
+tiempos modernos por las maravillosas riquezas de los reyes de Nínive y
 
-Babilonia. Los monarcas modernos con todos sus aparatos no podran erigir tales
+Babilonia. Los monarcas modernos con todos sus aparatos no podrían erigir tales
 
 cantidades gigantescas de palacios como aquellos en los que el viejo
 
-Nabucodonosor caminaba en tiempos antiguos. Nos volvemos a las pirmides, y
+Nabucodonosor caminaba en tiempos antiguos. Nos volvemos a las pirámides, y
 
-vemos all lo que la riqueza de las naciones puede lograr; miramos al otro lado
+vemos allí lo que la riqueza de las naciones puede lograr; miramos al otro lado
 
-del ocano a Mxico y a Per, y vemos las reliquias de un pueblo semibrbaro
+del océano a México y a Perú, y vemos las reliquias de un pueblo semibárbaro
 
-pero nos quedamos pasmados y asombrados al pensar en qu riquezas y qu minas
+pero nos quedamos pasmados y asombrados al pensar en qué riquezas y qué minas
 
-de riquezas deben de haber posedo antes de que tales obras pudiesen ser
+de riquezas deben de haber poseído antes de que tales obras pudiesen ser
 
-completadas. Tal vez pudiramos juzgar mejor las riquezas de Salomn cuando
+completadas. Tal vez pudiéramos juzgar mejor las riquezas de Salomón cuando
 
-pensamos en esas grandes ciudades que l construy en el desierto: Tadmore y
+pensamos en esas grandes ciudades que él construyó en el desierto: Tadmore y
 
-Palmira. Cuando visitamos esas ruinas y vemos las slidas columnas y la
+Palmira. Cuando visitamos esas ruinas y vemos las sólidas columnas y la
 
-magnificente escultura, decimos: Salomn era rico realmente. Al caminar en
+magnificente escultura, decimos: Salomón era rico realmente. Al caminar en
 
-medio de las ruinas sentimos algo parecido a lo que sinti la reina de Saba:
+medio de las ruinas sentimos algo parecido a lo que sintió la reina de Saba:
 
 que ni aun en
 
 la Escritura
 
-se nos dice la mitad acerca de las riquezas de Salomn. Hermanos mos, Dios nos
+se nos dice la mitad acerca de las riquezas de Salomón. Hermanos míos, Dios nos
 
-ha conducido a inspeccionar trofeos ms ricos que los de Salomn, o de
+ha conducido a inspeccionar trofeos más ricos que los de Salomón, o de
 
-Nabucodonosor, o de Moctezuma o todos los de Faran. Vuelvan su mirada hacia
+Nabucodonosor, o de Moctezuma o todos los de Faraón. Vuelvan su mirada hacia
 
-all, y vean a toda esa hueste comprada con sangre, vestidos de ropas blancas,
+allá, y vean a toda esa hueste comprada con sangre, vestidos de ropas blancas,
 
-rodeando el trono; oigan cmo cantan, con voz triunfante, con melodas
+rodeando el trono; oigan cómo cantan, con voz triunfante, con melodías
 
-serficas: Al que nos am, y nos lav de nuestros pecados con su sangre a l
+seráficas: “Al que nos amó, y nos lavó de nuestros pecados con su sangre… a él
 
-sea gloria e imperio por los siglos de los siglos. Y quines son ellos?
+sea gloria e imperio por los siglos de los siglos”. żY quiénes son ellos?
 
-Quines son esos trofeos de Su gracia? Algunos de ellos provienen de los
+żQuiénes son esos trofeos de Su gracia? Algunos de ellos provienen de los
 
-lupanares de la prostitucin; muchos han venido de las tabernas de la
+lupanares de la prostitución; muchos han venido de las tabernas de la
 
-borrachera. Es ms, las manos de algunos de ellos que ahora son tan blancas y
+borrachera. Es más, las manos de algunos de ellos que ahora son tan blancas y
 
-hermosas, antes estuvieron enrojecidas con la sangre de los santos. Veo all a
+hermosas, antes estuvieron enrojecidas con la sangre de los santos. Veo allá a
 
 los hombres que clavaron al Salvador al madero; hombres que maldijeron a Dios,
 
-e invocaron muerte y condenacin sobre ellos mismos. Veo all a Manass, que
+e invocaron muerte y condenación sobre ellos mismos. Veo allí a Manasés, que
 
-derram tanta sangre inocente, y al ladrn que en el ltimo momento mir a
+derramó tanta sangre inocente, y al ladrón que en el último momento miró a
 
-Cristo, y dijo: Seor, acurdate de m. Pero no necesito hacer que miren tan
+Cristo, y dijo: “Seńor, acuérdate de mí”. Pero no necesito hacer que miren tan
 
-alto; miren, hermanos mos, a su alrededor, y pudiera ser que no conozcan al
+alto; miren, hermanos míos, a su alrededor, y pudiera ser que no conozcan al
 
-vecino junto a quien estn sentados en esta maana. Pero hay historias de gracia
+vecino junto a quien están sentados en esta mańana. Pero hay historias de gracia
 
-que algunos pudieran contar aqu esta maana, que haran cantar a los propios
+que algunos pudieran contar aquí esta mańana, que harían cantar a los propios
 
-ngeles ms sonoramente de lo que lo han hecho antes. Bien, yo s que estas
+ángeles más sonoramente de lo que lo han hecho antes. Bien, yo sé que estas
 
 mejillas se han enrojecido de llanto cuando he escuchado las historias de la
 
-gracia inmerecida obradas en esta congregacin. Entonces yo las llego a
+gracia inmerecida obradas en esta congregación. Entonces yo las llego a
 
 conocer, pero, por supuesto, no son desconocidas para ustedes, que estuvieron
 
-entre los ms viles de los hombres, entre la escoria de la sociedad. Contamos
+entre los más viles de los hombres, entre la escoria de la sociedad. Contamos
 
-aqu con aquellos para los que proferir maldiciones era algo natural y la
+aquí con aquellos para los que proferir maldiciones era algo natural y la
 
-borrachera se haba convertido en un hbito; y sin embargo, aqu estn y son
+borrachera se había convertido en un hábito; y sin embargo, aquí están y son
 
 ahora siervos de Dios y de Su iglesia, y se deleitan en dar testimonio a otros
 
 del grandioso Salvador que han encontrado. Ah, pero, mi querido oyente, tal vez
 
-t seas uno de esos trofeos, y si es as, la mejor prueba de las riquezas de Su
+tú seas uno de esos trofeos, y si es así, la mejor prueba de las riquezas de Su
 
-gracia es la que t encuentras en tu propia alma. Yo pienso que Dios es
+gracia es la que tú encuentras en tu propia alma. Yo pienso que Dios es
 
-clemente cuando veo que otros son salvados, pero s que lo es porque l me ha
+clemente cuando veo que otros son salvados, pero sé que lo es porque Él me ha
 
-salvado a m; aquel muchacho dscolo y voluntarioso que se burlaba del amor de
+salvado a mí; aquel muchacho díscolo y voluntarioso que se burlaba del amor de
 
-una madre, y que permaneca impasible a pesar de todas sus oraciones, que slo
+una madre, y que permanecía impasible a pesar de todas sus oraciones, que sólo
 
-deseaba conocer un pecado para perpetrarlo. Est de pie aqu hoy para
+deseaba conocer un pecado para perpetrarlo. żEstá de pie aquí hoy para
 
-predicarles el Evangelio de la gracia de Dios? S. Entonces no hay ningn
+predicarles el Evangelio de la gracia de Dios? Sí. Entonces no hay ningún
 
 pecador fuera del infierno que haya pecado demasiado para que la gracia le
 
-salve. Ese amor que puede alcanzarme a m, puede alcanzarte a ti. Ahora conozco
+salve. Ese amor que puede alcanzarme a mí, puede alcanzarte a ti. Ahora conozco
 
-las riquezas de Su gracia porque las he probado, y las siento en lo ms ntimo
+las riquezas de Su gracia porque las he probado, y las siento en lo más íntimo
 
-de mi corazn, mi querido oyente, y espero que t las conozcas tambin, y
+de mi corazón, mi querido oyente, y espero que tú las conozcas también, y
 
-entonces te unirs con nuestro poeta que dice:
+entonces te unirás con nuestro poeta que dice:
 
-Entonces
+“Entonces
 
-ser el que cante ms recio en la multitud,
+seré el que cante más recio en la multitud,
 
 Mientras las
 
@@ -580,93 +578,93 @@ resonantes mansiones en los cielos suenen
 
 Con gritos de
 
-gracia soberana.
+gracia soberana”.
 
-Vayamos ahora un poco ms adelante. Hemos
+Vayamos ahora un poco más adelante. Hemos
 
-mirado as el vino y los tesoros y los monumentos. Pero hay ms. Una cosa que
+mirado así el vino y los tesoros y los monumentos. Pero hay más. Una cosa que
 
-asombr a la reina de Saba, con respecto a las riquezas de Salomn, fue la
+asombró a la reina de Saba, con respecto a las riquezas de Salomón, fue la
 
 suntuosidad de su mesa. Grandes multitudes se sentaban a la mesa para comer y
 
-beber, y aunque eran muchos, con todo, todos tenan lo suficiente y aun
+beber, y aunque eran muchos, con todo, todos tenían lo suficiente y aun
 
-sobraba. Su corazn se qued pasmado cuando ella vio las provisiones que
+sobraba. Su corazón se quedó pasmado cuando ella vio las provisiones que
 
-llevaban en un solo da. Olvido en este preciso momento, aunque tena la
+llevaban en un solo día. Olvido en este preciso momento, aunque tenía la
 
-intencin de referirme al pasaje de cuntos animales engordados, cuntos bueyes
+intención de referirme al pasaje de cuántos animales engordados, cuántos bueyes
 
-de pasto y cuntos ciervos, corzos, y animales de caza de todo tipo, y cuntas
+de pasto y cuántos ciervos, corzos, y animales de caza de todo tipo, y cuántas
 
-coros de harina y cuntos galones de aceite eran llevados a la mesa de Salomn cada
+coros de harina y cuántos galones de aceite eran llevados a la mesa de Salomón cada
 
-da, pero era algo maravilloso; y las multitudes que se sentaban a festejar
+día, pero era algo maravilloso; y las multitudes que se sentaban a festejar
 
-eran maravillosas tambin, y sin embargo, haba suficiente para todos. Y ahora
+eran maravillosas también, y sin embargo, había suficiente para todos. Y ahora
 
-piensen, hermanos mos, en las hospitalidades del Dios de la gracia cada da.
+piensen, hermanos míos, en las hospitalidades del Dios de la gracia cada día.
 
-Millones de millones de Su pueblo estn sentados en este da al festn;
+Millones de millones de Su pueblo están sentados en este día al festín;
 
 hambrientos y sedientos traen con ellos al banquete gran apetito, pero ni uno
 
 solo de ellos regresa insatisfecho; hay suficiente para cada uno, suficiente para
 
-todos, suficiente perennemente. Aunque las huestes que se alimentan all son
+todos, suficiente perennemente. Aunque las huestes que se alimentan allí son
 
 incontables como las estrellas del cielo, con todo, yo veo que a ninguno le
 
-hace falta su porcin. l abre Su mano y suple la carencia de cada santo
+hace falta su porción. Él abre Su mano y suple la carencia de cada santo
 
-viviente sobre la faz de la tierra. Piensen en cunta gracia requiere un santo,
+viviente sobre la faz de la tierra. Piensen en cuánta gracia requiere un santo,
 
-tanta gracia que nada sino el Infinito puede suministrrsela por un da.
+tanta gracia que nada sino el Infinito puede suministrársela por un día.
 
-Quemamos tanto combustible cada da para mantener el fuego del amor en nuestros
+Quemamos tanto combustible cada día para mantener el fuego del amor en nuestros
 
-corazones, que podramos agotar las minas de Inglaterra de toda su riqueza de
+corazones, que podríamos agotar las minas de Inglaterra de toda su riqueza de
 
-carbn. Ciertamente, si no fuera porque tenemos infinitos tesoros de gracia, el
+carbón. Ciertamente, si no fuera porque tenemos infinitos tesoros de gracia, el
 
-consumo diario de un solo santo podra demandar ms que todo lo que pueda
+consumo diario de un solo santo podría demandar más que todo lo que pueda
 
 encontrarse sobre la faz de la tierra. Y, sin embargo, no es uno sino son
 
-muchos santos, y muchos cientos, no por un solo da, sino por muchos das; no
+muchos santos, y muchos cientos, no por un solo día, sino por muchos días; no
 
-nicamente por muchos aos, sino generacin tras generacin, siglo tras siglo,
+únicamente por muchos ańos, sino generación tras generación, siglo tras siglo,
 
 raza tras raza de hombres, que viven de la plenitud de Dios en Cristo. Sin
 
 embargo, ninguno de ellos padece hambre; todos beben hasta saciarse; comen y
 
-quedan satisfechos. Entonces, qu riquezas de gracia podemos ver en la
+quedan satisfechos. Entonces, qué riquezas de gracia podemos ver en la
 
 suntuosidad de Su hospitalidad.
 
-Algunas veces, hermanos mos, he pensado
+Algunas veces, hermanos míos, he pensado
 
 que si pudiera obtener la comida sobrante en la puerta trasera de la gracia de
 
-Dios yo estara satisfecho, como la mujer que dijo: Los perrillos comen de las
+Dios yo estaría satisfecho, como la mujer que dijo: “Los perrillos comen de las
 
-migajas que caen de la mesa de sus amos, o como el hijo prdigo que dijo: Hazme
+migajas que caen de la mesa de sus amos”, o como el hijo pródigo que dijo: “Hazme
 
-como a uno de tus jornaleros. Pero ustedes recordarn que ningn hijo de Dios
+como a uno de tus jornaleros”. Pero ustedes recordarán que ningún hijo de Dios
 
-es orillado jams a vivir de algarrobas; Dios no da los desperdicios de Su
+es orillado jamás a vivir de algarrobas; Dios no da los desperdicios de Su
 
-gracia al ms insignificante de ellos, sino que todos son alimentados como Mefiboset:
+gracia al más insignificante de ellos, sino que todos son alimentados como Mefiboset:
 
-comen de la propia mesa del rey los bocadillos ms exquisitos. Y si uno puede
+comen de la propia mesa del rey los bocadillos más exquisitos. Y si uno puede
 
-hablar por los dems, creo que en los asuntos de la gracia todos tenemos la
+hablar por los demás, creo que en los asuntos de la gracia todos tenemos la
 
-porcin de Benjamn: todos tenemos diez veces ms de lo que habramos podido
+porción de Benjamín: todos tenemos diez veces más de lo que habríamos podido
 
-esperar, y aunque no recibimos ms de lo que necesitamos, con todo, nos
+esperar, y aunque no recibimos más de lo que necesitamos, con todo, nos
 
 quedamos sorprendidos a veces ante la maravillosa abundancia de la gracia que
 
@@ -680,83 +678,83 @@ ser juzgadas a menudo por el atuendo de sus hijos, por la manera en que viste a
 
 su servidumbre y a los de su casa. No es de esperarse que el hijo del hombre
 
-pobre, aunque est cmodamente vestido, use vestidos semejantes a los que usan
+pobre, aunque esté cómodamente vestido, use vestidos semejantes a los que usan
 
-los hijos de los prncipes. Veamos, entonces, cules son las ropas con las que
+los hijos de los príncipes. Veamos, entonces, cuáles son las ropas con las que
 
-el pueblo de Dios est vestido, y cmo son atendidos. Aqu hablo otra vez sobre
+el pueblo de Dios está vestido, y cómo son atendidos. Aquí hablo otra vez sobre
 
-un tema donde se necesita una gran imaginacin y mi propia imaginacin me falla
+un tema donde se necesita una gran imaginación y mi propia imaginación me falla
 
-por completo. Los hijos de Dios estn cubiertos con un manto, un manto sin
+por completo. Los hijos de Dios están cubiertos con un manto, un manto sin
 
-costura, que si se llegara a perder, ni la tierra ni el cielo podran comprar
+costura, que si se llegara a perder, ni la tierra ni el cielo podrían comprar
 
-algo semejante a l. En su textura sobrepasa al lino fino de los comerciantes;
+algo semejante a él. En su textura sobrepasa al lino fino de los comerciantes;
 
-en cuanto a blancura es ms puro que la nieve recin cada; ningn telar en la
+en cuanto a blancura es más puro que la nieve recién caída; ningún telar en la
 
-tierra podra hacerlo, pero Jess gast Su vida para elaborar mi manto de
+tierra podría hacerlo, pero Jesús gastó Su vida para elaborar mi manto de
 
-justicia. Haba una gota de sangre en cada giro de la lanzadera, y cada hilo
+justicia. Había una gota de sangre en cada giro de la lanzadera, y cada hilo
 
-fue hecho con las agonas de Su propio corazn. Es un manto que es divino,
+fue hecho con las agonías de Su propio corazón. Es un manto que es divino,
 
-completo; es uno mejor que el que Adn us en la perfeccin del Edn. Adn slo
+completo; es uno mejor que el que Adán usó en la perfección del Edén. Adán sólo
 
-tena una justicia humana, aunque era perfecta, pero nosotros tenemos una
+tenía una justicia humana, aunque era perfecta, pero nosotros tenemos una
 
-justicia divinamente perfecta. Alma ma, ests vestida extraamente, pues el
+justicia divinamente perfecta. Alma mía, estás vestida extrańamente, pues el
 
-manto de tu Salvador est sobre ti; el manto real de David cubre a su Jonatn.
+manto de tu Salvador está sobre ti; el manto real de David cubre a su Jonatán.
 
-Mira al pueblo de Dios vestido tambin con las ropas de la santificacin. Hubo
+Mira al pueblo de Dios vestido también con las ropas de la santificación. żHubo
 
-alguna vez un manto como ese? Est literalmente rgido por el peso de las
+alguna vez un manto como ese? Está literalmente rígido por el peso de las
 
-joyas. l viste cada da al ms insignificante miembro de Su pueblo como si
+joyas. Él viste cada día al más insignificante miembro de Su pueblo como si
 
-fuese un da de bodas; los viste como una novia se adorna con joyas; l ha dado
+fuese un día de bodas; los viste como una novia se adorna con joyas; Él ha dado
 
-a Etiopa y a Seba para ellos, y har que se vistan en oro de Ofir. Qu
+a Etiopía y a Seba para ellos, y hará que se vistan en oro de Ofir. ˇQué
 
-riquezas de gracia debe de haber en Dios que viste as a Sus hijos!
+riquezas de gracia debe de haber en Dios que viste así a Sus hijos!
 
 Pero concluyamos este punto que ni
 
 siquiera he comenzado. Si quisieras conocer las plenas riquezas de la gracia
 
-divina, lee el corazn del Padre cuando envi a Su Hijo a la tierra para morir;
+divina, lee el corazón del Padre cuando envió a Su Hijo a la tierra para morir;
 
-lee las lneas en el semblante del Padre cuando derrama Su ira sobre Su
+lee las líneas en el semblante del Padre cuando derrama Su ira sobre Su
 
-primognito y bienamado Hijo. Lee tambin la misteriosa caligrafa en la carne
+primogénito y bienamado Hijo. Lee también la misteriosa caligrafía en la carne
 
-y el alma del Salvador, cuando sobre la cruz, temblando en agona, las ondas de
+y el alma del Salvador, cuando sobre la cruz, temblando en agonía, las ondas de
 
 creciente dolor ruedan sobre Su pecho. Si quieres conocer el amor tienes que
 
-mirar a Cristo, y vers a un hombre tan lleno de dolor que Su cabeza, Su
+mirar a Cristo, y verás a un hombre tan lleno de dolor que Su cabeza, Su
 
-cabello y Sus vestidos estn ensangrentados. Fue el amor el que le hizo sudar
+cabello y Sus vestidos están ensangrentados. Fue el amor el que le hizo sudar
 
-como grandes gotas de sangre. Si quieres conocer el amor, tienes que ver cmo
+como grandes gotas de sangre. Si quieres conocer el amor, tienes que ver cómo
 
-se burlan del Omnipotente Sus criaturas, tienes que or cmo calumnian al
+se burlan del Omnipotente Sus criaturas, tienes que oír cómo calumnian al
 
-Inmaculado los pecadores, tienes que or cmo entrega el Eterno Ser Su vida en
+Inmaculado los pecadores, tienes que oír cómo entrega el Eterno Ser Su vida en
 
-medio de gemidos, y clama en las agonas de la muerte. Dios mo, Dios mo,
+medio de gemidos, y clama en las agonías de la muerte. “Dios mío, Dios mío,
 
-por qu me has desamparado? En suma, resumindolo todo, las riquezas de la
+żpor qué me has desamparado?” En suma, resumiéndolo todo, las riquezas de la
 
-gracia de Dios son infinitas, ms all de todo lmite; son inextinguibles, no
+gracia de Dios son infinitas, más allá de todo límite; son inextinguibles, no
 
 pueden ser consumidas nunca; son suficientes para todo, bastan para cada alma
 
-que venga a tomar de ellas; habr suficiente por siempre mientras dure la
+que venga a tomar de ellas; habrá suficiente por siempre mientras dure la
 
-tierra, hasta que la ltima vasija de misericordia sea llevada a casa a salvo.
+tierra, hasta que la última vasija de misericordia sea llevada a casa a salvo.
 
 Suficiente, entonces, en lo que respecta
 
@@ -764,9 +762,9 @@ a las riquezas de Su gracia.
 
 II.
 
-Por un minuto o dos, djenme considerar
+Por un minuto o dos, déjenme considerar
 
-ahora EL PERDN DE LOS PECADOS.
+ahora EL PERDÓN DE LOS PECADOS.
 
 El
 
@@ -778,171 +776,171 @@ medida
 
 de
 
-nuestro perdn; este perdn de pecados es conforme a las riquezas de Su gracia.
+nuestro perdón; este perdón de pecados es conforme a las riquezas de Su gracia.
 
-Podemos inferir, entonces, que el perdn que Dios da al penitente no es un
+Podemos inferir, entonces, que el perdón que Dios da al penitente no es un
 
-perdn mezquino. No has pedido perdn a alguien algunas veces, y l te ha
+perdón mezquino. żNo has pedido perdón a alguien algunas veces, y él te ha
 
-dicho: S, te perdono, y t has pensado: Bien, ni siquiera hubiera pedido
+dicho: “Sí, te perdono”, y tú has pensado: “Bien, ni siquiera hubiera pedido
 
-perdn si hubiera pensado que lo dara en un estilo tan rudo como ese; pude
+perdón si hubiera pensado que lo daría en un estilo tan rudo como ese; pude
 
-haber continuado como estaba, en vez de ser perdonado de una manera tan forzada?
+haber continuado como estaba, en vez de ser perdonado de una manera tan forzada”?
 
 Pero cuando Dios perdona a un hombre, aunque sea el peor de los pecadores,
 
-extiende Su mano y perdona libremente; de hecho, hay tanto gozo en el corazn
+extiende Su mano y perdona libremente; de hecho, hay tanto gozo en el corazón
 
-de Dios cuando perdona, como lo hay en el corazn del pecador cuando es
+de Dios cuando perdona, como lo hay en el corazón del pecador cuando es
 
 perdonado. Dios es tan bendecido al dar como lo somos nosotros al recibir. Perdonar
 
-es Su propia naturaleza. l tiene que ser clemente, tiene que ser amoroso, y
+es Su propia naturaleza. Él tiene que ser clemente, tiene que ser amoroso, y
 
-cuando activa Su corazn de amor para liberarnos de nuestros pecados no
+cuando activa Su corazón de amor para liberarnos de nuestros pecados no
 
-escatima el flujo; lo hace voluntariamente, y sin reproche. Adems, si el
+escatima el flujo; lo hace voluntariamente, y sin reproche. Además, si el
 
-perdn va en proporcin a las riquezas de Su gracia, podemos tener la seguridad
+perdón va en proporción a las riquezas de Su gracia, podemos tener la seguridad
 
-de que no es un perdn limitado, que no es el perdn de algunos pecados
+de que no es un perdón limitado, que no es el perdón de algunos pecados
 
-mientras otros quedan sobre la espalda. No, esto no sera conforme a
+mientras otros quedan sobre la espalda. No, esto no sería conforme a
 
 la Deidad
 
-, no sera
+, no sería
 
 consistente con las riquezas de Su gracia. Cuando Dios perdona, pone la marca
 
-en todo pecado que el creyente ha cometido alguna vez, o que cometer jams. Ese
+en todo pecado que el creyente ha cometido alguna vez, o que cometerá jamás. Ese
 
-ltimo punto pudiera hacerlos titubear, pero yo creo, en verdad, con Juan Kent,
+último punto pudiera hacerlos titubear, pero yo creo, en verdad, con Juan Kent,
 
 que en la sangre de Cristo:
 
-Hay perdn
+“Hay perdón
 
 para las transgresiones pasadas,
 
 No importa
 
-cun negro sea su matiz;
+cuán negro sea su matiz;
 
-Y, oh!, alma
+Y, ˇoh!, alma
 
-ma, mira asombrada,
+mía, mira asombrada,
 
 Para pecados
 
-venideros hay perdn tambin.
+venideros hay perdón también”.
 
-No importa cuntos, no importa cun
+No importa cuántos, no importa cuán
 
-atroces, no importa cun innumerables pudieran haber sido tus pecados, el
+atroces, no importa cuán innumerables pudieran haber sido tus pecados, el
 
 instante en que crees, cada uno de ellos es borrado. En el Libro de Dios no hay
 
-ni un solo pecado contra nadie en este lugar, cuya confianza est en Cristo, ni
+ni un solo pecado contra nadie en este lugar, cuya confianza esté en Cristo, ni
 
-uno solo, ni siquiera la sombra de uno, ni una mancha, ni el remanente de algn
+uno solo, ni siquiera la sombra de uno, ni una mancha, ni el remanente de algún
 
-pecado que permanezca, todos han desaparecido. Cuando el diluvio de No cubri
+pecado que permanezca, todos han desaparecido. Cuando el diluvio de Noé cubrió
 
-los montes ms elevados, pueden tener la seguridad que cubri las madrigueras
+los montes más elevados, pueden tener la seguridad que cubrió las madrigueras
 
-de los topos; y cuando el amor de Dios cubre los pecados pequeos, cubre los grandes,
+de los topos; y cuando el amor de Dios cubre los pecados pequeńos, cubre los grandes,
 
-y todos desaparecen de inmediato! Cuando una factura es pagada totalmente, no
+ˇy todos desaparecen de inmediato! Cuando una factura es pagada totalmente, no
 
-hay ningn inciso que pueda ser cobrado de nuevo, y cuando Dios perdona los
+hay ningún inciso que pueda ser cobrado de nuevo, y cuando Dios perdona los
 
 pecados del creyente no queda ni un solo pecado; ni siquiera la mitad de uno
 
-puede ser llevado a Su recuerdo de nuevo. Es ms, cuando Dios perdona, no
+puede ser llevado a Su recuerdo de nuevo. Es más, cuando Dios perdona, no
 
-nicamente lo perdona todo, sino que lo hace de una vez por todas. Algunos nos
+únicamente lo perdona todo, sino que lo hace de una vez por todas. Algunos nos
 
-dicen que Dios perdona a los hombres pero que, sin embargo, se pierden. Un
+dicen que Dios perdona a los hombres pero que, sin embargo, se pierden. ˇUn
 
 excelente dios es ese de ustedes! Ellos creen que el pecador penitente
 
-encuentra misericordia, pero que si al poco tiempo resbala o tropieza, ser
+encuentra misericordia, pero que si al poco tiempo resbala o tropieza, será
 
-sacado del pacto de gracia y perecer. Yo no podra ni querra creer en un pacto
+sacado del pacto de gracia y perecerá. Yo no podría ni querría creer en un pacto
 
-as; yo lo piso bajo mis pies como algo completamente despreciable. Cuando el
+así; yo lo piso bajo mis pies como algo completamente despreciable. Cuando el
 
 Dios que yo amo perdona, nunca castiga posteriormente. Por un sacrificio hay
 
-una plena remisin de todo pecado que hubo alguna vez en contra de un creyente,
+una plena remisión de todo pecado que hubo alguna vez en contra de un creyente,
 
-o que alguna vez habr en contra suya. Aunque vivas hasta que tu cabello quede
+o que alguna vez habrá en contra suya. Aunque vivas hasta que tu cabello quede
 
-blanco tres veces, hasta que los mil aos de Matusaln pasen sobre tu surcada frente,
+blanco tres veces, hasta que los mil ańos de Matusalén pasen sobre tu surcada frente,
 
-ni un solo pecado habr jams en tu contra, ni sers castigado jams por ningn
+ni un solo pecado habrá jamás en tu contra, ni serás castigado jamás por ningún
 
 pecado, pues cada pecado es perdonado, es plenamente perdonado, de manera que
 
-ni siquiera parte del castigo ser ejecutado en contra tuya. Bien, pero dice
+ni siquiera parte del castigo será ejecutado en contra tuya. “Bien, pero” –dice
 
-alguien- cmo es que Dios castiga a Sus hijos? Yo respondo: no los castiga.
+alguien- “żcómo es que Dios castiga a Sus hijos?” Yo respondo: no los castiga.
 
-l los disciplina como un padre, pero eso es diferente del castigo de un juez.
+Él los disciplina como un padre, pero eso es diferente del castigo de un juez.
 
 Si el hijo de un juez fuera llevado al tribunal, y ese hijo fuere perdonado
 
-libremente de todo el mal que hubiera hecho, si la justicia lo exoner y lo
+libremente de todo el mal que hubiera hecho, si la justicia lo exoneró y lo
 
-absolvi, pudiera suceder no obstante que hubiera un mal en el corazn de ese
+absolvió, pudiera suceder no obstante que hubiera un mal en el corazón de ese
 
-hijo que el padre, por amor al hijo, tendra que sacar con azotes. Pero hay una
+hijo que el padre, por amor al hijo, tendría que sacar con azotes. Pero hay una
 
 gran diferencia entre una vara en la mano del verdugo, y una vara en la mano de
 
-un padre. Que Dios me hiera, si peco contra l; sin embargo, no es debido a la
+un padre. Que Dios me hiera, si peco contra Él; sin embargo, no es debido a la
 
-culpa del pecado; no hay ningn castigo en l de ningn tipo pues la clusula
+culpa del pecado; no hay ningún castigo en él de ningún tipo pues la cláusula
 
-penal ha sido eliminada. Es slo para curarme de mi falta que hace salir la
+penal ha sido eliminada. Es sólo para curarme de mi falta que hace salir la
 
-locura de mi corazn. Castigas a tus hijos vengativamente porque ests enojado
+locura de mi corazón. żCastigas a tus hijos vengativamente porque estás enojado
 
-con ellos? No, sino porque los amas; si t eres lo que los padres deberan ser,
+con ellos? No, sino porque los amas; si tú eres lo que los padres deberían ser,
 
-el castigo es una prueba de tu afecto, y tu corazn se duele ms que sus
+el castigo es una prueba de tu afecto, y tu corazón se duele más que sus
 
 dolores corporales, cuando tienes que castigarlos por lo que han hecho mal.
 
-Dios no est enojado en contra de Sus hijos, ni hay ningn pecado en ellos que
+Dios no está enojado en contra de Sus hijos, ni hay ningún pecado en ellos que
 
-l castigar. l les aplicar la vara pero no los castigar por el pecado. Oh
+Él castigará. Él les aplicará la vara pero no los castigará por el pecado. ˇOh
 
 gracia gloriosa! Es un Evangelio digno de ser predicado.
 
-El instante
+“El instante
 
 en que un pecador cree,
 
-Y confa en
+Y confía en
 
 Su Dios crucificado,
 
 Recibe de
 
-inmediato su perdn,
+inmediato su perdón,
 
-Redencin
+Redención
 
-plena por medio de la sangre de Cristo.
+plena por medio de la sangre de Cristo”.
 
-Todo ha sido borrado; cada tomo ha desaparecido;
+Todo ha sido borrado; cada átomo ha desaparecido;
 
-ha sido quitado por siempre y para siempre, y l lo sabe muy bien.
+ha sido quitado por siempre y para siempre, y él lo sabe muy bien.
 
-Ahora
+“Ahora
 
 liberado del pecado camino en libertad,
 
@@ -956,131 +954,131 @@ pies pongo mi alma,
 
 Como un
 
-pecador salvado, y le rindo homenaje.
+pecador salvado, y le rindo homenaje”.
 
-Habiendo hablado as del perdn del
+Habiendo hablado así del perdón del
 
 pecado diciendo que es plenamente proporcionado a la gracia de Dios, le voy a
 
-hacer esta pregunta a mi oyente: Amigo mo, eres un hombre perdonado? Todos
+hacer esta pregunta a mi oyente: Amigo mío, żeres un hombre perdonado? żTodos
 
-tus pecados han desaparecido? No dice alguien- no puedo decir que han desaparecido,
+tus pecados han desaparecido? “No” –dice alguien- “no puedo decir que han desaparecido,
 
-pero estoy haciendo lo mejor que puedo para reformarme. Ah!, puedes hacer lo
+pero estoy haciendo lo mejor que puedo para reformarme”. ˇAh!, puedes hacer lo
 
 mejor que puedas para reformarte, y yo espero que lo hagas, pero eso nunca
 
-lavar tus pecados pasados. Todas las aguas de los ros de la reforma no pueden
+lavará tus pecados pasados. Todas las aguas de los ríos de la reforma no pueden
 
-lavar nunca ni una sola mancha de roja sangre de la culpa. Pero dice uno-
+lavar nunca ni una sola mancha de roja sangre de la culpa. “Pero” –dice uno-
 
-puedo creer, tal como soy, que mis pecados son perdonados? No, pero te dir
+“żpuedo creer, tal como soy, que mis pecados son perdonados?” No, pero te diré
 
-qu puedes hacer. Con la ayuda de Dios, ahora puedes arrojarte simplemente
+qué puedes hacer. Con la ayuda de Dios, ahora puedes arrojarte simplemente
 
 sobre la sangre y la justicia de Cristo, y en el instante en que haces eso,
 
 todos tus pecados desaparecen, y desaparecen de tal manera que no pueden
 
-regresar otra vez. El que cree en el Seor Jesucristo ser salvo. Es ms, l
+regresar otra vez. “El que cree en el Seńor Jesucristo será salvo”. Es más, él
 
-es salvo en el momento de su fe. No es recibido ms como un pecador a los ojos
+es salvo en el momento de su fe. No es recibido más como un pecador a los ojos
 
-de Dios. Cristo ha sido castigado por l. La justicia de Cristo lo envuelve y
+de Dios. Cristo ha sido castigado por él. La justicia de Cristo lo envuelve y
 
-es acepto en el amado. Bien, pero dice uno- yo puedo creer que un hombre,
+es acepto en el amado. “Bien, pero” –dice uno- “yo puedo creer que un hombre,
 
-despus de que ha sido cristiano por mucho tiempo, puede saber que sus pecados
+después de que ha sido cristiano por mucho tiempo, puede saber que sus pecados
 
-han sido perdonados, pero no puedo imaginar que yo pueda saberlo de inmediato.
+han sido perdonados, pero no puedo imaginar que yo pueda saberlo de inmediato”.
 
-El conocimiento de nuestro perdn no siempre viene en el momento en que
+El conocimiento de nuestro perdón no siempre viene en el momento en que
 
-creemos, pero el hecho de nuestro perdn est antes de nuestro conocimiento de l,
+creemos, pero el hecho de nuestro perdón está antes de nuestro conocimiento de él,
 
-y podemos ser perdonados antes de que lo sepamos. Pero si t crees en el Seor
+y podemos ser perdonados antes de que lo sepamos. Pero si tú crees en el Seńor
 
-Jesucristo con todo tu corazn, te voy a decir esto: Si tu fe est libre de
+Jesucristo con todo tu corazón, te voy a decir esto: Si tu fe está libre de
 
-cualquier confianza en ti mismo, t sabrs hoy que tus pecados te son
+cualquier confianza en ti mismo, tú sabrás hoy que tus pecados te son
 
-perdonados, pues el testimonio del Espritu dar testimonio a tu corazn, y t
+perdonados, pues el testimonio del Espíritu dará testimonio a tu corazón, y tú
 
-oirs esa voz secreta, ese silbo apacible que te dice: Ten buen nimo; tus
+oirás esa voz secreta, ese silbo apacible que te dice: “Ten buen ánimo; tus
 
-pecados, que son muchos, te son todos perdonados. Oh dice uno- yo dara
+pecados, que son muchos, te son todos perdonados”. “Oh” –dice uno- “yo daría
 
-todo lo que tengo por eso. Y t podras dar todo lo que tienes, pero no lo
+todo lo que tengo por eso”. Y tú podrías dar todo lo que tienes, pero no lo
 
-tendras a ese precio. Podras dar al primognito por tu transgresin, el fruto
+tendrías a ese precio. Podrías dar al primogénito por tu transgresión, el fruto
 
-de tu cuerpo por el pecado de tu alma, podras ofrecer ros de aceite, y el
+de tu cuerpo por el pecado de tu alma, podrías ofrecer ríos de aceite, y el
 
-sebo de diez mil animales gordos; no lo tendras por dinero, pero puedes tenerlo
+sebo de diez mil animales gordos; no lo tendrías por dinero, pero puedes tenerlo
 
-por nada; es trado a ti gratuitamente; se te pide que lo tomes. Slo reconoce
+por nada; es traído a ti gratuitamente; se te pide que lo tomes. Sólo reconoce
 
 tu pecado, y pon tu confianza en Cristo, y no hay ni un solo hombre entre
 
-ustedes que oir algo acerca de su pecado en el da del juicio. Ser arrojado
+ustedes que oirá algo acerca de su pecado en el día del juicio. Será arrojado
 
-en la profundidad del ocano, ser llevado para siempre.
+en la profundidad del océano, será llevado para siempre.
 
 Voy a mostrarles un cuadro, y luego voy a
 
-dejar el tema. Vean, all est el sumo sacerdote de los judos. Le llevan un
+dejar el tema. Vean, allí está el sumo sacerdote de los judíos. Le llevan un
 
-macho cabro; es llamado el macho cabro expiatorio. l pone sus manos sobre
+macho cabrío; es llamado “el macho cabrío expiatorio”. Él pone sus manos sobre
 
-la cabeza de este macho cabro, y comienza a hacer una confesin de pecado.
+la cabeza de este macho cabrío, y comienza a hacer una confesión de pecado.
 
-Vendrs y hars lo mismo? Jesucristo es el macho cabro expiatorio; ven y pon
+żVendrás y harás lo mismo? Jesucristo es el macho cabrío expiatorio; ven y pon
 
-tu mano sobre esta cabeza coronada de espinas, y haz confesin de tu pecado,
+tu mano sobre esta cabeza coronada de espinas, y haz confesión de tu pecado,
 
-como lo haca el sumo sacerdote en la antigedad. La has hecho? Ha sido
+como lo hacía el sumo sacerdote en la antigüedad. żLa has hecho? żHa sido
 
-confesado tu pecado? Ahora cree que Jesucristo es capaz y que est dispuesto a
+confesado tu pecado? Ahora cree que Jesucristo es capaz y que está dispuesto a
 
-quitar tu pecado. Confa enteramente y completamente en l. Ahora qu sucede?
+quitar tu pecado. Confía enteramente y completamente en Él. żAhora qué sucede?
 
-El sumo sacerdote toma el macho cabro expiatorio, lo pone en manos de un
+El sumo sacerdote toma el macho cabrío expiatorio, lo pone en manos de un
 
 hombre de confianza que lo conduce sobre el monte y por el valle, hasta que
 
-est a muchas millas de distancia, y entonces, soltando de pronto sus ataduras,
+está a muchas millas de distancia, y entonces, soltando de pronto sus ataduras,
 
-lo asusta, y el macho cabro huye tan rpido como le es posible. El hombre lo
+lo asusta, y el macho cabrío huye tan rápido como le es posible. El hombre lo
 
-vigila hasta que se va, y ya no puede verlo ms. Regresa, y dice: Me llev
+vigila hasta que se va, y ya no puede verlo más. Regresa, y dice: “Me llevé
 
-lejos al macho cabro expiatorio, y desapareci de mi vista; se ha ido al
+lejos al macho cabrío expiatorio, y desapareció de mi vista; se ha ido al
 
-desierto. Ah, mi querido oyente, y si t has puesto tus pecados en Cristo
+desierto”. Ah, mi querido oyente, y si tú has puesto tus pecados en Cristo
 
-mediante una plena confesin, recuerda que l los ha quitado; cuanto est lejos
+mediante una plena confesión, recuerda que Él los ha quitado; cuanto está lejos
 
 el oriente del occidente se han marchado y se han marchado eternamente. Tu
 
 borrachera, tus juramentos se han ido, tus mentiras, tu robo se ha ido, tu
 
-quebrantamiento del da domingo, tus malos pensamientos se han ido, todos se
+quebrantamiento del día domingo, tus malos pensamientos se han ido, todos se
 
-han ido, y t no los vers nunca ms.
+han ido, y tú no los verás nunca más.
 
-Sumergidos,
+“Sumergidos,
 
 como en un mar sin orillas,
 
 Perdidos,
 
-como en la inmensidad.
+como en la inmensidad”.
 
 III.
 
 Y ahora concluyo notando LOS BENDITOS
 
-PRIVILEGIOS QUE SIGUEN SIEMPRE AL PERDN QUE NOS ES OTORGADO CONFORME A
+PRIVILEGIOS QUE SIGUEN SIEMPRE AL PERDÓN QUE NOS ES OTORGADO CONFORME A
 
 LA
 
@@ -1090,103 +1088,103 @@ DE
 
 DIOS. Yo pienso que hay una gran
 
-cantidad de personas que no creen que haya alguna realidad en la religin en
+cantidad de personas que no creen que haya alguna realidad en la religión en
 
 absoluto. Piensan que es algo muy respetable ir a la iglesia y asistir a la
 
-capilla, pero llegar al punto de gozar jams de una conciencia de que sus pecados
+capilla, pero llegar al punto de gozar jamás de una conciencia de que sus pecados
 
 son todos perdonados, nunca piensan en eso. Y yo tengo que confesar que, en la
 
-religin de estos tiempos modernos, no pareciera haber mucha realidad. Yo no
+religión de estos tiempos modernos, no pareciera haber mucha realidad. Yo no
 
-oigo en este da esa proclamacin del Evangelio que suena claramente y que es la
+oigo en este día esa proclamación del Evangelio que suena claramente y que es la
 
-inequvoca proclamacin que quisiera or. Es algo grandioso llevar el Evangelio
+inequívoca proclamación que quisiera oír. Es algo grandioso llevar el Evangelio
 
 a todo tipo de hombres, llevarlo al teatro, y cosas parecidas, pero queremos
 
 que el Evangelio no sea diluido; la leche tiene que contener un poco menos de
 
-agua. Tiene que haber una verdad ms clara y palpable que se le ensee a la
+agua. Tiene que haber una verdad más clara y palpable que se le enseńe a la
 
 gente, un algo que ellos puedan realmente sujetar, un algo que puedan entender,
 
-aun si no quieren creerlo. Confo en que nadie me malentienda en esta maana en
+aun si no quieren creerlo. Confío en que nadie me malentienda en esta mańana en
 
 lo que he dicho. Es posible obtener que todos nuestros pecados sean perdonados
 
-ahora. Es posible saberlo y disfrutarlo. Ahora voy a mostrarles cul ser la felicidad
+ahora. Es posible saberlo y disfrutarlo. Ahora voy a mostrarles cuál será la felicidad
 
-resultante para ustedes si obtuvieran esta bendicin.
+resultante para ustedes si obtuvieran esta bendición.
 
-En primer lugar, tendrs paz de
+En primer lugar, tendrás paz de
 
-conciencia, tu corazn que palpita tan rpido cuando ests solo estar muy quieto
+conciencia, tu corazón que palpita tan rápido cuando estás solo estará muy quieto
 
-y tranquilo. Estars menos solo cuando ests solo. Ese miedo tuyo que hace que
+y tranquilo. Estarás menos solo cuando estás solo. Ese miedo tuyo que hace que
 
 aceleres el paso en la oscuridad porque tienes temor de algo, pero no sabes de
 
-qu, se esfumar por completo. Me enter de un individuo que estaba tan constantemente
+qué, se esfumará por completo. Me enteré de un individuo que estaba tan constantemente
 
 endeudado, y que era arrestado tan continuamente por los alguaciles, que en una
 
-ocasin, cuando iba por unos barandales que protegan una cierta rea, habiendo
+ocasión, cuando iba por unos barandales que protegían una cierta área, habiendo
 
-enredado su manga en uno de los barandales, se dio la vuelta y dijo: Amigo, yo
+enredado su manga en uno de los barandales, se dio la vuelta y dijo: “Amigo, yo
 
-no te debo nada. Pensaba que se trataba de un alguacil. Y lo mismo sucede con
+no te debo nada”. Pensaba que se trataba de un alguacil. Y lo mismo sucede con
 
-pecadores no perdonados, en dondequiera que estn piensan que van a ser
+pecadores no perdonados, en dondequiera que estén piensan que van a ser
 
-arrestados. No pueden disfrutar nada. Aun su jbilo, qu es, sino slo el color
+arrestados. No pueden disfrutar nada. Aun su júbilo, qué es, sino sólo el color
 
-del gozo, el crepitar de las espinas bajo la olla; no hay un fuego slido y
+del gozo, el crepitar de las espinas bajo la olla; no hay un fuego sólido y
 
 firme. Pero una vez que un hombre es perdonado, puede caminar en cualquier
 
-parte. Dice: para m no es nada si vivo o muero, si las profundidades del mar
+parte. Dice: “para mí no es nada si vivo o muero, si las profundidades del mar
 
 me cubren, o si soy enterrado debajo de la avalancha; con el pecado perdonado,
 
-estoy seguro. La muerte no tiene ningn aguijn para l. Su conciencia est en
+estoy seguro”. La muerte no tiene ningún aguijón para él. Su conciencia está en
 
-paz. Luego da un paso al frente. Sabiendo que sus pecados estn perdonados
+paz. Luego da un paso al frente. Sabiendo que sus pecados están perdonados
 
 tiene un gozo indecible. Nadie tiene unos ojos tan chispeantes como el verdadero
 
-cristiano; entonces un hombre conoce su inters en Cristo, y puede leer su ttulo
+cristiano; entonces un hombre conoce su interés en Cristo, y puede leer su título
 
 libre de gravamen. Es un hombre feliz, y tiene que ser feliz. Sus tribulaciones,
 
-cules son? Menos que nada y vanidad, pues todos sus pecados han sido
+żcuáles son? Menos que nada y vanidad, pues todos sus pecados han sido
 
-perdonados. Cuando el pobre esclavo desembarca por primera vez en Canad,
+perdonados. Cuando el pobre esclavo desembarca por primera vez en Canadá,
 
 pudiera darse el caso de que no tuviera ni un centavo en su cartera y
 
 escasamente ninguna otra cosa que harapos sobre su espalda; pero pone su pie en
 
-suelo britnico, y es libre; vanle saltar y danzar, y aplaude diciendo: Gran
+suelo británico, y es libre; véanle saltar y danzar, y aplaude diciendo: “Gran
 
-Dios, yo te doy gracias porque soy un hombre libre. Lo mismo sucede con el
+Dios, yo te doy gracias porque soy un hombre libre”. Lo mismo sucede con el
 
-cristiano, l puede decir en su cabaa cuando se sienta para comer su mendrugo
+cristiano, él puede decir en su cabańa cuando se sienta para comer su mendrugo
 
-de pan: gracias a Dios no tengo ningn pecado mezclado en mi copa. Todos han
+de pan: gracias a Dios no tengo ningún pecado mezclado en mi copa. Todos han
 
-sido perdonados. El pan pudiera estar seco, pero no est ni la mitad de seco
+sido perdonados. El pan pudiera estar seco, pero no está ni la mitad de seco
 
-como lo estara si tuviera que comerlo con las hierbas amargas de una
+como lo estaría si tuviera que comerlo con las hierbas amargas de una
 
-conciencia culpable y con un terrible aprensin de la ira de Dios. Tiene un
+conciencia culpable y con un terrible aprensión de la ira de Dios. Tiene un
 
-gozo que resistir todos los climas, un gozo que no cambia con la temperatura,
+gozo que resistirá todos los climas, un gozo que no cambia con la temperatura,
 
-un gozo que brilla en la oscuridad y que resplandece en la noche as como en el
+un gozo que brilla en la oscuridad y que resplandece en la noche así como en el
 
-da.
+día.
 
 Luego, prosiguiendo, ese hombre tiene acceso
 
@@ -1196,17 +1194,17 @@ piensa en Dios del todo, es como un fuego consumidor. Pero el cristiano
 
 perdonado mira a Dios cuando ve los montes y los collados, y los arroyos
 
-rodantes y la rugiente marea, dice: Mi Padre hizo todo eso; y le da la mano
+rodantes y la rugiente marea, dice: “Mi Padre hizo todo eso”; y le da la mano
 
-al Todopoderoso a travs de toda la infinita extensin que divide al hombre de
+al Todopoderoso a través de toda la infinita extensión que divide al hombre de
 
-su Hacedor. Su corazn vuela a Dios. Mora cerca de l, y siente que puede
+su Hacedor. Su corazón vuela a Dios. Mora cerca de Él, y siente que puede
 
 hablar con Dios como un hombre habla con su amigo.
 
 Luego otro efecto de esto es que el
 
-creyente no le teme a ningn infierno. Hay cosas solemnes en
+creyente no le teme a ningún infierno. Hay cosas solemnes en
 
 la Palabra
 
@@ -1214,15 +1212,15 @@ de Dios, pero no
 
 aterran al creyente. Pudiera haber un pozo del abismo que no tiene fondo, pero
 
-dentro de l su pie jams resbalar; es cierto que hay un fuego que no se
+dentro de él su pie jamás resbalará; es cierto que hay un fuego que no se
 
-apagar nunca, pero no puede quemarle. Ese fuego es para el pecador, pero l no
+apagará nunca, pero no puede quemarle. Ese fuego es para el pecador, pero él no
 
-tiene ningn pecado que le sea imputado; todos han sido perdonados. Aun la
+tiene ningún pecado que le sea imputado; todos han sido perdonados. Aun la
 
-horda congregada de todos los demonios en el infierno no podra llevarle all,
+horda congregada de todos los demonios en el infierno no podría llevarle allí,
 
-pues no tiene ni un solo pecado del que pueda acusrsele. Aunque peca diariamente,
+pues no tiene ni un solo pecado del que pueda acusársele. Aunque peca diariamente,
 
 siente que todos esos pecados han sido expiados; sabe que Cristo ha sido
 
@@ -1232,71 +1230,71 @@ la Justicia
 
 no puede tocarle de nuevo.
 
-Adems, el cristiano perdonado est
+Además, el cristiano perdonado está
 
-esperando el cielo. l est esperando la venida del Seor Jesucristo, pues si
+esperando el cielo. Él está esperando la venida del Seńor Jesucristo, pues si
 
-la muerte interviniera antes de ese glorioso evento, sabe que para l la muerte
+la muerte interviniera antes de ese glorioso evento, sabe que para él la muerte
 
-sbita es sbita gloria; y en la posesin de una conciencia tranquila y de paz
+súbita es súbita gloria; y en la posesión de una conciencia tranquila y de paz
 
-con Dios, puede subir a su aposento cuando venga la ltima hora solemne; puede encoger
+con Dios, puede subir a su aposento cuando venga la última hora solemne; puede encoger
 
-sus pies en su cama; puede decirle adis a sus hermanos y compaeros, a su
+sus pies en su cama; puede decirle adiós a sus hermanos y compańeros, a su
 
 esposa y a sus hijos, y puede cerrar sus ojos en paz sin dudar de que los
 
-abrir en el cielo. Tal vez el gozo del pecado perdonado nunca se destaca ms brillantemente
+abrirá en el cielo. Tal vez el gozo del pecado perdonado nunca se destaca más brillantemente
 
 que en el lecho de un moribundo. Con frecuencia he tenido el privilegio de comprobar
 
-el poder de la religin cuando he estado junto al lecho de personas moribundas.
+el poder de la religión cuando he estado junto al lecho de personas moribundas.
 
-Hay una joven mujer que est ahora en el cielo y que una vez fue miembro de
+Hay una joven mujer que está ahora en el cielo y que una vez fue miembro de
 
-esta nuestra iglesia. Yo fui a verla con uno de mis amados diconos cuando su
+esta nuestra iglesia. Yo fui a verla con uno de mis amados diáconos cuando su
 
-partida estaba muy cercana. Sufra la ltima etapa de la tisis. Se miraba
+partida estaba muy cercana. Sufría la última etapa de la tisis. Se miraba
 
-hermosa y dulcemente bella, y creo que nunca o tales slabas como las que
+hermosa y dulcemente bella, y creo que nunca oí tales sílabas como las que
 
-caan de los labios de esa muchacha. Haba tenido decepciones, y pruebas, y
+caían de los labios de esa muchacha. Había tenido decepciones, y pruebas, y
 
-problemas, pero de todo ello no tena que decir ni una sola palabra, excepto
+problemas, pero de todo ello no tenía que decir ni una sola palabra, excepto
 
-que bendeca a Dios por ello; la haban llevado ms cerca del Salvador. Y
+que bendecía a Dios por ello; la habían llevado más cerca del Salvador. Y
 
-cuando le preguntamos si no tena miedo de morir, No respondi- lo nico que
+cuando le preguntamos si no tenía miedo de morir, “No” –respondió- “lo único que
 
-temo es esto: tengo miedo de vivir, no sea que mi paciencia se agote. Todava
+temo es esto: tengo miedo de vivir, no sea que mi paciencia se agote. Todavía
 
-no he dicho ni una palabra de impaciencia, seor, y espero no hacerlo. Es
+no he dicho ni una palabra de impaciencia, seńor, y espero no hacerlo. Es
 
-triste estar tan dbil, pero pienso que si me tocara decidir preferira estar
+triste estar tan débil, pero pienso que si me tocara decidir preferiría estar
 
-aqu que gozando de salud, pues es algo muy precioso para m; yo s que mi
+aquí que gozando de salud, pues es algo muy precioso para mí; yo sé que mi
 
-Redentor vive, y estoy esperando el momento cuando l enve su carro de fuego
+Redentor vive, y estoy esperando el momento cuando Él envíe su carro de fuego
 
-para llevarme con l. Yo le hice la pregunta: Tienes alguna duda? No,
+para llevarme con Él”. Yo le hice la pregunta: “żTienes alguna duda?” “No,
 
-ninguna, seor, por qu habra de tenerla? Yo sujeto mis brazos alrededor del
+ninguna, seńor, żpor qué habría de tenerla? Yo sujeto mis brazos alrededor del
 
-cuello de Cristo. Y no tienes ningn miedo por tus pecados? No, seor,
+cuello de Cristo”. “Y żno tienes ningún miedo por tus pecados?” “No, seńor,
 
-todos han sido perdonados; yo confo en la sangre preciosa del Salvador. Y
+todos han sido perdonados; yo confío en la sangre preciosa del Salvador”. “żY
 
-crees que seguirs siendo tan valiente como ahora cuando llegue efectivamente
+crees que seguirás siendo tan valiente como ahora cuando llegue efectivamente
 
-el momento de tu muerte? No seor, si l me dejara, pero l nunca me dejar,
+el momento de tu muerte?” “No seńor, si Él me dejara, pero Él nunca me dejará,
 
-pues ha dicho: No te desamparar, ni te dejar钔. Ah tienen a la fe, queridos
+pues ha dicho: ‘No te desampararé, ni te dejaré’”. Ahí tienen a la fe, queridos
 
-hermanos y hermanas; que todos la tengamos y recibamos el perdn de los pecados
+hermanos y hermanas; que todos la tengamos y recibamos el perdón de los pecados
 
-segn las riquezas de Su gracia.
+según las riquezas de Su gracia.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 15/Mayo/2014
 

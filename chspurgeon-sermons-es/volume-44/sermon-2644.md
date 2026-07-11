@@ -1,256 +1,256 @@
 # Sermón 2644 | Sermón 2644
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Las ltimas Palabras de Cristo en la
+Las Últimas Palabras de Cristo en la
 
 Cruz.
 
 NO. 2644
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 25 DE JUNIO DE 1882
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
 Y SELECCIONADO PARA
 
-SER LEDO EL DOMINGO 15 DE OCTUBRE DE 1899.
+SER LEÍDO EL DOMINGO 15 DE OCTUBRE DE 1899.
 
-Entonces Jess, clamando a gran voz,
+“Entonces Jesús, clamando a gran voz,
 
-dijo: Padre, en tus manos encomiendo mi espritu. Y habiendo dicho esto,
+dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto,
 
-expir.   Lucas 23: 46.
+expiró”.   Lucas 23: 46.
 
-En tu mano encomiendo mi espritu;
+“En tu mano encomiendo mi espíritu;
 
-t me has redimido, oh Jehov, Dios de verdad. Salmo 31: 5.
+tú me has redimido, oh Jehová, Dios de verdad”. Salmo 31: 5.
 
-Y apedreaban a Esteban, mientras l
+“Y apedreaban a Esteban, mientras él
 
-invocaba y deca: Seor Jess, recibe mi espritu. Hechos 7: 59.
+invocaba y decía: Seńor Jesús, recibe mi espíritu”. Hechos 7: 59.
 
-Esta maana, queridos amigos, habl sobre las primeras
+Esta mańana, queridos amigos, hablé sobre las primeras
 
-palabras registradas como pronunciadas por nuestro Seor Jess, cuando les pregunt
+palabras registradas como pronunciadas por nuestro Seńor Jesús, cuando les preguntó
 
-a Su madre y a Jos: Por qu me buscabais? No sabais que en los negocios de
+a Su madre y a José: “żPor qué me buscabais? żNo sabíais que en los negocios de
 
-mi Padre me es necesario estar? Vamos a considerar ahora, con la ayuda del
+mi Padre me es necesario estar?” Vamos a considerar ahora, con la ayuda del
 
-bendito Espritu, las ltimas palabras de nuestro Seor Jess antes de entregar
+bendito Espíritu, las últimas palabras de nuestro Seńor Jesús antes de entregar
 
-el espritu y, juntamente con ellas, examinaremos otros dos pasajes en los que
+el espíritu y, juntamente con ellas, examinaremos otros dos pasajes en los que
 
 se utilizan expresiones similares.
 
-Las palabras, Padre, en tus manos encomiendo mi
+Las palabras, “Padre, en tus manos encomiendo mi
 
-espritu, si las juzgramos como las ltimas pronunciadas por nuestro Salvador
+espíritu”, si las juzgáramos como las últimas pronunciadas por nuestro Salvador
 
-previo a Su muerte, deberan ser vinculadas con aquellas otras palabras:
+previo a Su muerte, deberían ser vinculadas con aquellas otras palabras:
 
-Consumado es, que algunos han pensado que fueron realmente las ltimas
+“Consumado es”, que algunos han pensado que fueron realmente las últimas
 
-palabras expresadas por l. Yo creo que no fue as; pero, de cualquier manera,
+palabras expresadas por Él. Yo creo que no fue así; pero, de cualquier manera,
 
-ambas expresiones deben de haberse sucedido muy rpidamente, y podemos armonizarlas,
+ambas expresiones deben de haberse sucedido muy rápidamente, y podemos armonizarlas,
 
-y luego hemos de ver cun similares son a Sus primeras palabras, tal como lo
+y luego hemos de ver cuán similares son a Sus primeras palabras, tal como lo
 
-explicamos esta maana. Tenemos el clamor: Consumado es, que es posible
+explicamos esta mańana. Tenemos el clamor: “Consumado es”, que es posible
 
-considerarlo en conexin con la traduccin de nuestra Versin Autorizada: No
+considerarlo en conexión con la traducción de nuestra Versión Autorizada: “żNo
 
-sabais que en los negocios de mi Padre me es necesario estar? Todos esos
+sabíais que en los negocios de mi Padre me es necesario estar?” Todos esos
 
-negocios haban sido consumados; toda Su vida haba estado dedicado a ellos y
+negocios habían sido consumados; toda Su vida había estado dedicado a ellos y
 
-ahora que se aproximaba al fin de Sus das, no quedaba nada pendiente y poda
+ahora que se aproximaba al fin de Sus días, no quedaba nada pendiente y podía
 
-decirle a Su Padre: He acabado la obra que me diste que hiciese.
+decirle a Su Padre: “He acabado la obra que me diste que hiciese”.
 
-Luego, si toman la otra expresin de nuestro
+Luego, si toman la otra expresión de nuestro
 
-Seor en la cruz: Padre, en tus manos encomiendo mi espritu, comprueben cun
+Seńor en la cruz: “Padre, en tus manos encomiendo mi espíritu”, comprueben cuán
 
-bien se acopla a la otra lectura del texto usado esta maana: No sabais que
+bien se acopla a la otra lectura del texto usado esta mańana: “żNo sabíais que
 
-yo deba estar en la casa de mi Padre? (1). Jess se pone en las manos del
+yo debía estar en la casa de mi Padre?” (1). Jesús se pone en las manos del
 
-Padre porque siempre haba deseado estar all, en la casa del Padre con el
+Padre porque siempre había deseado estar allí, en la casa del Padre con el
 
-Padre; y ahora entrega Su espritu en las manos del Padre, como un depsito sagrado,
+Padre; y ahora entrega Su espíritu en las manos del Padre, como un depósito sagrado,
 
-para partir y estar con el Padre, para morar en Su casa y no salir jams.
+para partir y estar con el Padre, para morar en Su casa y no salir jamás.
 
 La vida de Cristo es de una sola pieza, tal como
 
 el alfa y la omega son letras de un mismo alfabeto. No encontramos que fuera
 
-algo al principio, que fuera diferente despus, y que posteriormente fuera de una
+algo al principio, que fuera diferente después, y que posteriormente fuera de una
 
-tercera manera; Jesucristo es el mismo ayer, y hoy, y por los siglos. Hay una
+tercera manera; “Jesucristo es el mismo ayer, y hoy, y por los siglos”. Hay una
 
 portentosa similitud en torno a todo lo que Cristo dijo e hizo. Nunca se
 
-necesita escribir el nombre de Jess al pie de alguno de Sus dichos, como es
+necesita escribir el nombre de “Jesús” al pie de alguno de Sus dichos, como es
 
-necesario poner los nombres de los dems escritores al pie de sus dichos, pues
+necesario poner los nombres de los demás escritores al pie de sus dichos, pues
 
-no es posible confundir una sola frase expresada por l.
+no es posible confundir una sola frase expresada por Él.
 
 Si hay algo registrado como habiendo sido hecho
 
-por Cristo, un hijo creyente podra juzgar si es autntico o no. Esos detestables
+por Cristo, un hijo creyente podría juzgar si es auténtico o no. Esos detestables
 
-evangelios falsos que han sido publicados, han hecho muy poco o ningn dao,
+evangelios falsos que han sido publicados, han hecho muy poco o ningún dańo,
 
-porque nadie que poseyera jams un verdadero discernimiento espiritual, habra
+porque nadie que poseyera jamás un verdadero discernimiento espiritual, habría
 
 podido ser embaucado como para hacerle creer que fueran genuinos. Es posible
 
-fabricar una moneda falsificada que, durante algn tiempo, pase por legtima; pero
+fabricar una moneda falsificada que, durante algún tiempo, pase por legítima; pero
 
-no es posible hacer ni siquiera una imitacin pasable de lo que Jesucristo hizo
+no es posible hacer ni siquiera una imitación pasable de lo que Jesucristo hizo
 
-o dijo. Todo lo relacionado con Cristo es como l mismo; en todo hay una
+o dijo. Todo lo relacionado con Cristo es como Él mismo; en todo hay una
 
 semejanza a Cristo que es inconfundible.
 
-Por ejemplo, estoy seguro de que esta maana,
+Por ejemplo, estoy seguro de que esta mańana,
 
-cuando prediqu acerca del Santo Nio Jess, ustedes deben de haber sentido que
+cuando prediqué acerca del Santo Nińo Jesús, ustedes deben de haber sentido que
 
-no hubo nunca otro nio como l; y en Su muerte fue tan nico como lo fue en Su
+no hubo nunca otro nińo como Él; y en Su muerte fue tan único como lo fue en Su
 
-nacimiento, en Su niez y en Su vida. Nunca hubo otro que muriera como l muri,
+nacimiento, en Su nińez y en Su vida. Nunca hubo otro que muriera como Él murió,
 
-y nunca hubo otro que viviera enteramente como l vivi. Nuestro Seor
+y nunca hubo otro que viviera enteramente como Él vivió. Nuestro Seńor
 
-Jesucristo ocupa una posicin nica. Algunos tratamos de imitarlo, pero cun
+Jesucristo ocupa una posición única. Algunos tratamos de imitarlo, ˇpero cuán
 
-dbilmente podemos seguir Sus pasos! El Cristo de Dios ocupa una posicin nica
+débilmente podemos seguir Sus pasos! El Cristo de Dios ocupa una posición única
 
-y no hay ningn posible rival para l.
+y no hay ningún posible rival para Él.
 
 Les he indicado ya que voy a usar tres textos en
 
-mi sermn, pero despus de haber hablado sobre los tres, ustedes vern que son
+mi sermón, pero después de haber hablado sobre los tres, ustedes verán que son
 
-tan semejantes entre s, que podra haberme contentado con uno solo de ellos.
+tan semejantes entre sí, que podría haberme contentado con uno solo de ellos.
 
 I.
 
 Primero los invito a considerar LAS PALABRAS DE
 
-NUESTRO SALVADOR JUSTO ANTES DE SU MUERTE: Padre, en tus manos encomiendo mi
+NUESTRO SALVADOR JUSTO ANTES DE SU MUERTE: “Padre, en tus manos encomiendo mi
 
-espritu.
+espíritu”.
 
-Observen aqu, primeramente,
+Observen aquí, primeramente,
 
-cmo Cristo vive y muere en la atmsfera de
+cómo Cristo vive y muere en la atmósfera de
 
 la Palabra de Dios.
 
 Cristo fue un grandioso pensador original, y siempre hubiera
 
-podido darnos palabras propias. Nunca careci del lenguaje apropiado, pues Jams
+podido darnos palabras propias. Nunca careció del lenguaje apropiado, pues “ˇJamás
 
-hombre alguno ha hablado como este hombre! Habrn notado ustedes, sin embargo,
+hombre alguno ha hablado como este hombre!” Habrán notado ustedes, sin embargo,
 
-cun continuamente citaba de la Escritura: la gran mayora de Sus expresiones
+cuán continuamente citaba de la Escritura: la gran mayoría de Sus expresiones
 
 pueden ser rastreadas al Antiguo Testamento. Incluso en los casos en que no se
 
 trata de citas exactas, Sus palabras adoptan una figura y una forma
 
-Escriturales. Se comprueba que la Biblia fue Su nico Libro. Evidentemente
+Escriturales. Se comprueba que la Biblia fue Su único Libro. Evidentemente
 
-estaba familiarizado con l desde su primera pgina hasta la ltima, y no solamente
+estaba familiarizado con él desde su primera página hasta la última, y no solamente
 
-con su letra, sino con el alma ms ntima de su ms recndito sentido; y, por
+con su letra, sino con el alma más íntima de su más recóndito sentido; y, por
 
 tanto, al morir, era muy natural que usara un pasaje tomado de un Salmo de
 
 David para decir Sus postreras palabras antes de expirar. En Su muerte no fue
 
-conducido ms all del poder del pensamiento apacible, y no estuvo inconsciente
+conducido más allá del poder del pensamiento apacible, y no estuvo inconsciente
 
-ni muri de debilidad. Tena muchas fuerzas incluso estando a punto de morir.
+ni murió de debilidad. Tenía muchas fuerzas incluso estando a punto de morir.
 
-Es cierto que dijo: Tengo sed; pero despus de ser refrescado un poco, clam
+Es cierto que dijo: “Tengo sed”; pero después de ser refrescado un poco, clamó
 
-a gran voz, como slo un hombre fuerte podra hacerlo: Consumado es. Y ahora,
+a gran voz, como sólo un hombre fuerte podría hacerlo: “Consumado es”. Y ahora,
 
 antes de inclinar Su cabeza en el silencio de la muerte, pronuncia Sus palabras
 
-finales: Padre, en tus manos encomiendo mi espritu.
+finales: “Padre, en tus manos encomiendo mi espíritu”.
 
-Nuestro Seor habra podido pronunciar, lo digo
+Nuestro Seńor habría podido pronunciar, lo digo
 
-de nuevo, un discurso original como Su declaracin antes morir; Su mente estaba
+de nuevo, un discurso original como Su declaración antes morir; Su mente estaba
 
-lcida, tranquila y apacible; de hecho, era perfectamente feliz, pues ya haba
+lúcida, tranquila y apacible; de hecho, era perfectamente feliz, pues ya había
 
-dicho: Consumado es. Entonces Sus sufrimientos haban concluido y ya
+dicho: “Consumado es”. Entonces Sus sufrimientos habían concluido y ya
 
 comenzaba a gozar del sabor de las dulzuras de la victoria; sin embargo, a
 
 pesar de esa claridad mental y de esa frescura intelectual, y con la fluidez de
 
-palabras que le era posible, no pronunci una nueva frase sino que recurri al
+palabras que le era posible, no pronunció una nueva frase sino que recurrió al
 
-Libro de los Salmos, y tom esta expresin del Espritu Santo: En tus manos
+Libro de los Salmos, y tomó esta expresión del Espíritu Santo: “En tus manos
 
-encomiendo mi espritu.
+encomiendo mi espíritu”.
 
-Cun instructiva es para nosotros esta gran
+ˇCuán instructiva es para nosotros esta gran
 
-verdad de que la Palabra Encarnada viva en la Palabra Inspirada! La Palabra
+verdad de que la Palabra Encarnada vivía en la Palabra Inspirada! La Palabra
 
-era alimento para l as como lo es para nosotros; y, hermanos y hermanas, si
+era alimento para Él así como lo es para nosotros; y, hermanos y hermanas, si
 
-Cristo vivi de la Palabra de Dios de tal manera, ustedes y yo, no deberamos hacer
+Cristo vivió de la Palabra de Dios de tal manera, ustedes y yo, żno deberíamos hacer
 
-lo mismo? En algunos aspectos, l no necesitaba tanto de este Libro como
+lo mismo? En algunos aspectos, Él no necesitaba tanto de este Libro como
 
-nosotros lo necesitamos. El Espritu de Dios descansaba en l sin medida y, sin
+nosotros lo necesitamos. El Espíritu de Dios descansaba en Él sin medida y, sin
 
-embargo, l amaba la Escritura, acuda a ella, la estudiaba y usaba sus
+embargo, Él amaba la Escritura, acudía a ella, la estudiaba y usaba sus
 
 expresiones continuamente.
 
-Oh, que ustedes y yo pudiramos adentrarnos en
+ˇOh, que ustedes y yo pudiéramos adentrarnos en
 
-el propio corazn de la Palabra de Dios para absorber esa Palabra! As como he
+el propio corazón de la Palabra de Dios para absorber esa Palabra! Así como he
 
-visto al gusano de seda comerse la hoja y consumirla, as deberamos hacer con
+visto al gusano de seda comerse la hoja y consumirla, así deberíamos hacer con
 
-la Palabra del Seor. No deberamos deambular sobre su superficie, sino que
+la Palabra del Seńor. No deberíamos deambular sobre su superficie, sino que
 
-debemos adentrarnos en ella hasta absorberla en nuestras partes ms ntimas. Resulta
+debemos adentrarnos en ella hasta absorberla en nuestras partes más íntimas. Resulta
 
 ocioso dejar que el ojo contemple simplemente las palabras, o que recuerde las
 
-expresiones poticas, o los hechos histricos; pero es bienaventurado
+expresiones poéticas, o los hechos históricos; pero es bienaventurado
 
 adentrarse en la propia alma de la Biblia hasta que, al fin, lleguen ustedes a
 
 hablar en un lenguaje escritural, y su propio estilo sea configurado sobre los
 
-modelos de la Escritura y, lo que es mejor an, que su espritu est
+modelos de la Escritura y, lo que es mejor aún, que su espíritu esté
 
-condimentado con las palabras del Seor.
+condimentado con las palabras del Seńor.
 
 Quisiera citar a John Bunyan como un ejemplo de
 
-lo que quiero decir. Lean cualquier escrito suyo y vern que ese ejercicio casi
+lo que quiero decir. Lean cualquier escrito suyo y verán que ese ejercicio casi
 
 se parece a la lectura de
 
@@ -258,33 +258,33 @@ la
 
 Biblia
 
-misma. Bunyan estudi nuestra Versin Autorizada que,
+misma. Bunyan estudió nuestra Versión Autorizada que,
 
-a mi juicio, no ser mejorada nunca hasta la venida de Cristo; la ley hasta
+a mi juicio, no será mejorada nunca hasta la venida de Cristo; la leyó hasta
 
-que su propia alma qued saturada de
+que su propia alma quedó saturada de
 
 la Escritura
 
-; y, aunque sus escritos estn encantadoramente
+; y, aunque sus escritos están encantadoramente
 
-llenos de poesa, es incapaz de darnos su
+llenos de poesía, es incapaz de darnos su
 
 Progreso
 
 del Peregrino
 
-el ms dulce de todos los poemas en prosa- sin hacernos
+–el más dulce de todos los poemas en prosa- sin hacernos
 
-sentir y decir continuamente: Vamos, este hombre es una Biblia viviente! Pnchenlo
+sentir y decir continuamente: “ˇVamos, este hombre es una Biblia viviente!” Pínchenlo
 
-en cualquier parte y vern que su sangre es Biblina: la propia esencia de
+en cualquier parte y verán que su sangre es ‘Biblina’: la propia esencia de
 
 la Biblia
 
-fluye de l. No
+fluye de él. No
 
-puede hablar sin citar un texto bblico, pues su alma misma est llena de
+puede hablar sin citar un texto bíblico, pues su alma misma está llena de
 
 la Palabra
 
@@ -292,337 +292,337 @@ de Dios.
 
 Yo les recomiendo su ejemplo, amados, y les
 
-recomiendo todava ms el ejemplo de nuestro Seor Jess. Si el Espritu de Dios
+recomiendo todavía más el ejemplo de nuestro Seńor Jesús. Si el Espíritu de Dios
 
-est en ustedes, l los llevar a amar la Palabra de Dios; y si alguno de
+está en ustedes, Él los llevará a amar la Palabra de Dios; y si alguno de
 
-ustedes se imagina que el Espritu de Dios lo inducir a prescindir de la
+ustedes se imagina que el Espíritu de Dios lo inducirá a prescindir de la
 
-Biblia, tal persona estara bajo el influjo de otro espritu que no es el
+Biblia, tal persona estaría bajo el influjo de otro espíritu que no es el
 
-Espritu de Dios en absoluto.
+Espíritu de Dios en absoluto.
 
-Yo confo que el Espritu Santo los conducir a
+Yo confío que el Espíritu Santo los conducirá a
 
-encariarse con cada una de las pginas de este Registro Divino, de tal manera
+encarińarse con cada una de las páginas de este Registro Divino, de tal manera
 
-que se alimenten de l y despus les hablen de l a las dems personas. Pienso
+que se alimenten de él y después les hablen de él a las demás personas. Pienso
 
 que es muy digno que recuerden constantemente que, incluso en la muerte,
 
-nuestro bendito Maestro nos mostr la pasin que gobernaba Su espritu, al
+nuestro bendito Maestro nos mostró la pasión que gobernaba Su espíritu, al
 
-punto de que Sus ltimas palabras fueron citas de la Escritura.
+punto de que Sus últimas palabras fueron citas de la Escritura.
 
 En segundo lugar, noten ahora que
 
-nuestro Seor reconoci a un Dios personal
+nuestro Seńor reconoció a un Dios personal
 
 en el momento de Su muerte:
 
-Padre, en tus manos encomiendo mi espritu. Para
+“Padre, en tus manos encomiendo mi espíritu”. Para
 
-algunas personas, Dios es un Dios desconocido. Pudiera haber un Dios, eso
+algunas personas, Dios es un Dios desconocido. “Pudiera haber un Dios”, eso
 
-dicen, pero sin acercarse ms a la verdad fuera de eso. Todas las cosas son
+dicen, pero sin acercarse más a la verdad fuera de eso. “Todas las cosas son
 
-Dios, dice otro. Nosotros no podemos estar seguros de que haya un Dios, -dicen
+Dios”, dice otro. “Nosotros no podemos estar seguros de que haya un Dios”, -dicen
 
-algunos otros, y, por tanto, no sirve de nada que pretendamos creer en l y ser
+algunos otros, “y, por tanto, no sirve de nada que pretendamos creer en Él y ser
 
-entonces influenciados por una suposicin. Otras personas dicen: Oh, hay un
+entonces influenciados por una suposición”. Otras personas dicen: “ˇOh, hay un
 
-Dios, ciertamente, pero est muy lejos! l no se acerca a nosotros, y no nos es
+Dios, ciertamente, pero está muy lejos! Él no se acerca a nosotros, y no nos es
 
-posible concebir que interfiera en nuestros asuntos.
+posible concebir que interfiera en nuestros asuntos.”
 
-Ah!, pero nuestro bendito Seor Jesucristo no
+ˇAh!, pero nuestro bendito Seńor Jesucristo no
 
-crea en un Dios impersonal, pantesta, soador y lejano, sino en Uno a quien
+creía en un Dios impersonal, panteísta, sońador y lejano, sino en Uno a quien
 
-le dijo: Padre, en tus manos encomiendo mi espritu. Su lenguaje muestra que
+le dijo: “Padre, en tus manos encomiendo mi espíritu”. Su lenguaje muestra que
 
-l se daba cuenta de la personalidad de Dios, de la misma manera que yo estara
+Él se daba cuenta de la personalidad de Dios, de la misma manera que yo estaría
 
-reconociendo la personalidad de un banquero si le dijera: seor, entrego este
+reconociendo la personalidad de un banquero si le dijera: “seńor, entrego este
 
-dinero en sus manos. Yo s que no debo decirle una cosa as a un mero maniqu,
+dinero en sus manos”. Yo sé que no debo decirle una cosa así a un mero maniquí,
 
-o a un algo abstracto o a la nada; pero s se lo puedo decir a un hombre
+o a un ‘algo’ abstracto o a la ‘nada’; pero sí se lo puedo decir a un hombre
 
-que vive, y slo se lo debo decir a un hombre viviente.
+que vive, y sólo se lo debo decir a un hombre viviente.
 
 Entonces, amados, los hombres no entregan sus
 
-almas a la guarda de nadas impalpables; en la muerte, no sonren al tiempo de
+almas a la guarda de ‘nadas’ impalpables; en la muerte, no sonríen al tiempo de
 
-entregarse al infinito desconocido, al nebuloso Padre de todo quien podra ser,
+entregarse al infinito desconocido, al nebuloso Padre de todo quien podría ser,
 
-l mismo, nada o todo. No, no; nosotros slo confiamos en lo que conocemos; y
+Él mismo, nada o todo. No, no; nosotros sólo confiamos en lo que conocemos; y
 
-as, Jess conoca al Padre, y saba que es una Persona real que posee manos, y
+así, Jesús conocía al Padre, y sabía que es una Persona real que posee manos, y
 
-en esas manos encomend Su espritu al partir. Fjense bien que no estoy
+en esas manos encomendó Su espíritu al partir. Fíjense bien que no estoy
 
 hablando ahora materialmente, como si Dios tuviese manos como las nuestras;
 
-pero l es un Ser real, que tiene poderes de accin, que es capaz de tratar con
+pero Él es un Ser real, que tiene poderes de acción, que es capaz de tratar con
 
-los hombres segn le plazca, y que est anuente a tomar posesin de sus
+los hombres según le plazca, y que está anuente a tomar posesión de sus
 
-espritus y a protegerlos por los siglos de los siglos. Jess habla como
+espíritus y a protegerlos por los siglos de los siglos. Jesús habla como
 
-alguien que crea eso; y ruego que, tanto en la vida como en la muerte, ustedes
+alguien que creía eso; y ruego que, tanto en la vida como en la muerte, ustedes
 
 y yo tratemos siempre con Dios de la misma manera.
 
-Nosotros tenemos demasiada ficcin en la
+Nosotros tenemos demasiada ficción en la
 
-religin, y una religin de ficcin slo brindar un consuelo ficticio a la
+religión, y una religión de ficción sólo brindará un consuelo ficticio a la
 
-hora de la muerte. Apoymonos en hechos slidos, hombre. Es tan real Dios para
+hora de la muerte. Apoyémonos en hechos sólidos, hombre. żEs tan real Dios para
 
-ti como lo eres t para ti mismo? Vamos, hablas con l como habla cualquiera
+ti como lo eres tú para ti mismo? Vamos, żhablas con Él “como habla cualquiera
 
-a su compaero? Puedes confiar en l y descansar en l, como confas y
+a su compańero”? żPuedes confiar en Él y descansar en Él, como confías y
 
-descansas en la ntima compaera de tu pecho? Si tu Dios es irreal, entonces tu
+descansas en la íntima compańera de tu pecho? Si tu Dios es irreal, entonces tu
 
-religin es irreal. Si tu Dios es un sueo, entonces tu esperanza ser tambin
+religión es irreal. Si tu Dios es un sueńo, entonces tu esperanza será también
 
-un sueo; y, ay de ti cuando salgas de ese sueo y despiertes! Jess no
+un sueńo; y, ˇay de ti cuando salgas de ese sueńo y despiertes! Jesús no
 
-confiaba de esa manera. Padre, -dijo- en tus manos encomiendo mi espritu.
+confiaba de esa manera. “Padre”, -dijo- “en tus manos encomiendo mi espíritu”.
 
-Pero, en tercer lugar, aqu tenemos todava un
+Pero, en tercer lugar, aquí tenemos todavía un
 
-mejor punto. Adviertan cmo
+mejor punto. Adviertan cómo
 
 Jesucristo
 
-nos ensea la Paternidad de Dios.
+nos enseńa la Paternidad de Dios.
 
-El Salmo citado no dice: Padre. David
+El Salmo citado no dice: “Padre”. David
 
-no lleg tan lejos en sus palabras, aunque, en espritu, s lo hizo a menudo;
+no llegó tan lejos en sus palabras, aunque, en espíritu, sí lo hizo a menudo;
 
-pero Jess tena el derecho de alterar las palabras del Salmista. l puede mejorar
+pero Jesús tenía el derecho de alterar las palabras del Salmista. Él puede mejorar
 
-la Escritura, pero ustedes y yo no lo podemos hacer. l no dijo: Oh Dios, en
+la Escritura, pero ustedes y yo no lo podemos hacer. Él no dijo: “Oh Dios, en
 
-tu mano encomiendo mi espritu, sino que dijo: Padre. Oh, esa dulce
+tu mano encomiendo mi espíritu”, sino que dijo: “Padre”. ˇOh, esa dulce
 
-palabra! Esa fue la joya que atrajo a nuestro pensamiento esta maana, que
+palabra! Esa fue la joya que atrajo a nuestro pensamiento esta mańana, que
 
-Jess dijera: No sabais que me es necesario estar con Mi Padre, que me es
+Jesús dijera: “żNo sabíais que me es necesario estar con Mi Padre, que me es
 
-necesario estar en la casa de Mi Padre?
+necesario estar en la casa de Mi Padre?”
 
-Oh, s!, el Santo Nio saba que l era el Hijo
+ˇOh, sí!, el Santo Nińo sabía que Él era el Hijo
 
-del Altsimo en un sentido especial y peculiar y, por tanto, dijo: Padre mo;
+del Altísimo en un sentido especial y peculiar y, por tanto, dijo: “Padre mío”;
 
-y, al morir, Su agonizante corazn fue sostenido y consolado por el pensamiento
+y, al morir, Su agonizante corazón fue sostenido y consolado por el pensamiento
 
 de que Dios era Su Padre. Fue debido a que dijo que Dios era Su Padre que lo
 
 mataron y, sin embargo, lo sostuvo incluso en la hora de Su muerte, diciendo:
 
-Padre, en tus manos encomiendo mi espritu.
+“Padre, en tus manos encomiendo mi espíritu”.
 
-Qu bendicin es tambin para nosotros,
+ˇQué bendición es también para nosotros,
 
-hermanos mos, morir conscientes de que somos hijos de Dios! Oh, en la vida y
+hermanos míos, morir conscientes de que somos hijos de Dios! Oh, en la vida y
 
-en la muerte, cun dulce es sentir en nuestra alma el espritu de adopcin por
+en la muerte, cuán dulce es sentir en nuestra alma el espíritu de adopción por
 
-el cual clamamos: Abba, Padre! En un caso como se:
+el cual clamamos: “ˇAbba, Padre!” En un caso como ése:
 
-No es la
+“No es la
 
-muerte morir.
+muerte morir”.
 
-Citando las palabras del Salvador: Consumado
+Citando las palabras del Salvador: “Consumado
 
-es, y confiando en Su Padre y en nuestro Padre, podemos llegar incluso hasta
+es”, y confiando en Su Padre y en nuestro Padre, podemos llegar incluso hasta
 
-las fauces de la muerte sin tener los labios trmulos segn acabamos de
+las fauces de la muerte sin tener los “labios trémulos” según acabamos de
 
 cantar. Gozosos, con toda la fuerza que poseemos, nuestros labios cantan
 
-confiadamente, retando a la muerte y al sepulcro a que acallen nuestra msica que
+confiadamente, retando a la muerte y al sepulcro a que acallen nuestra música que
 
-siempre se eleva y se intensifica. Oh Padre mo, Padre mo, si yo estoy en Tus
+siempre se eleva y se intensifica. ˇOh Padre mío, Padre mío, si yo estoy en Tus
 
 manos, puedo morir sin miedo!
 
 Sin embargo, hay otro pensamiento que es, tal
 
-vez, el ms importante de todos. De este pasaje aprendemos que
+vez, el más importante de todos. De este pasaje aprendemos que
 
-nuestro Divino Seor entreg alegremente Su
+nuestro Divino Seńor entregó alegremente Su
 
-alma a Su Padre cuando le lleg el tiempo de morir:
+alma a Su Padre cuando le llegó el tiempo de morir:
 
-Padre, en tus manos
+“Padre, en tus manos
 
-encomiendo mi espritu. Ninguno de nosotros podra usar esas palabras con
+encomiendo mi espíritu”. Ninguno de nosotros podría usar esas palabras con
 
-estricta propiedad. Tal vez pudiramos expresarlas cuando lleguemos a la hora
+estricta propiedad. Tal vez pudiéramos expresarlas cuando lleguemos a la hora
 
 de nuestra muerte y Dios las acepte. Antes de morir, estas fueron las propias
 
-palabras de Policarpo, de Bernardo, de Lutero, de Melancton, de Jernimo de
+palabras de Policarpo, de Bernardo, de Lutero, de Melancton, de Jerónimo de
 
-Praga, de Juan Huss y de una lista casi interminable de santos: En tus manos
+Praga, de Juan Huss y de una lista casi interminable de santos: “En tus manos
 
-encomiendo mi espritu.
+encomiendo mi espíritu”.
 
-La versin del Antiguo Testamento de ese pasaje
+La versión del Antiguo Testamento de ese pasaje
 
-o, alternativamente, la propia versin del Seor, han sido convertidas en una
+o, alternativamente, la propia versión del Seńor, han sido convertidas en una
 
-oracin en latn, y son comnmente usadas entre los catlicos romanos casi como
+oración en latín, y son comúnmente usadas entre los católicos romanos casi como
 
-un ensalmo; al morir, han repetido esas palabras en latn o, si no eran capaces
+un ensalmo; al morir, han repetido esas palabras en latín o, si no eran capaces
 
-de hacerlo, el sacerdote las repeta por ellos, asignando una suerte de poder
+de hacerlo, el sacerdote las repetía por ellos, asignando una suerte de poder
 
-mgico a esa frmula particular.
+mágico a esa fórmula particular.
 
-Pero ninguno de nosotros podra usar plenamente
+Pero ninguno de nosotros podría usar plenamente
 
-estas palabras en el sentido en que nuestro Salvador las pronunci. Nosotros
+estas palabras en el sentido en que nuestro Salvador las pronunció. Nosotros
 
-podemos entregar o encomendar nuestro espritu a Dios; sin embargo, hermanos,
+podemos entregar o encomendar nuestro espíritu a Dios; sin embargo, hermanos,
 
-recuerden que, a menos que el Seor venga primero, hemos de morir; y morir no
+recuerden que, a menos que el Seńor venga primero, hemos de morir; y morir no
 
-es un acto que est bajo nuestro control. Tenemos que ser pasivos en el
+es un acto que esté bajo nuestro control. Tenemos que ser pasivos en el
 
-proceso, porque no est en nuestro poder retener nuestra vida. Yo supongo que
+proceso, porque no está en nuestro poder retener nuestra vida. Yo supongo que
 
-si un hombre pudiera tener tal control de su vida, podra ser cuestionable cundo
+si un hombre pudiera tener tal control de su vida, podría ser cuestionable cuándo
 
-debera renunciar a l, porque el suicidio es un crimen, y a ningn hombre se
+debería renunciar a él, porque el suicidio es un crimen, y a ningún hombre se
 
-le puede exigir que se mate. Dios no demanda tal accin de la mano de ningn
+le puede exigir que se mate. Dios no demanda tal acción de la mano de ningún
 
-hombre; y, en un cierto sentido, eso es lo que pasara siempre que un hombre se
+hombre; y, en un cierto sentido, eso es lo que pasaría siempre que un hombre se
 
-entregara a la muerte. Pero no haba necesidad de que nuestro bendito Seor y
+entregara a la muerte. Pero no había necesidad de que nuestro bendito Seńor y
 
-Maestro muriera, excepto la necesidad que l asumi al convertirse en el
+Maestro muriera, excepto la necesidad que Él asumió al convertirse en el
 
-Sustituto de Su pueblo. No haba ninguna necesidad para Su muerte incluso en el
+Sustituto de Su pueblo. No había ninguna necesidad para Su muerte incluso en el
 
-ltimo momento sobre la cruz, pues, tal como les he recordado, l clam a gran
+último momento sobre la cruz, pues, tal como les he recordado, Él clamó a gran
 
-voz cuando la debilidad natural le habra forzado a susurrar o suspirar. Pero
+voz cuando la debilidad natural le habría forzado a susurrar o suspirar. Pero
 
-Su vida interna era vigorosa; si hubiera querido hacerlo, habra podido
+Su vida interna era vigorosa; si hubiera querido hacerlo, habría podido
 
-desclavarse y descender en medio de la multitud que lo escarneca. l muri por
+desclavarse y descender en medio de la multitud que lo escarnecía. Él murió por
 
-Su propia y libre voluntad, el Justo por los injustos, para llevarnos a Dios.
+Su propia y libre voluntad, “el Justo por los injustos, para llevarnos a Dios”.
 
 Un hombre puede renunciar justamente a su vida
 
-por el bien de su pas, y por la seguridad de los dems. Ha habido
+por el bien de su país, y por la seguridad de los demás. Ha habido
 
-frecuentemente oportunidades para que los hombres hagan sto, y ha habido
+frecuentemente oportunidades para que los hombres hagan ésto, y ha habido
 
-sujetos valerosos que lo han hecho dignamente; pero todos esos hombres habran
+sujetos valerosos que lo han hecho dignamente; pero todos esos hombres habrían
 
-tenido que morir en algn momento u otro. Ellos slo estaban anticipando
+tenido que morir en algún momento u otro. Ellos sólo estaban anticipando
 
 ligeramente el pago de la deuda de la naturaleza; pero, en el caso de nuestro
 
-Seor, l estaba entregando al Padre el espritu que habra podido guardar si
+Seńor, Él estaba entregando al Padre el espíritu que habría podido guardar si
 
-as lo hubiera resuelto. Nadie me la quita dijo concerniente a Su vida-
+así lo hubiera resuelto. “Nadie me la quita” –dijo concerniente a Su vida-
 
-sino que yo de m mismo la pongo; y hay aqu una alegre disposicin a
+“sino que yo de mí mismo la pongo”; y hay aquí una alegre disposición a
 
-encomendar Su espritu en las manos de Su Padre.
+encomendar Su espíritu en las manos de Su Padre.
 
-Es ms bien notable que ninguno de los
+Es más bien notable que ninguno de los
 
-evangelistas describa a nuestro Seor como: muriendo. l muri, en verdad, pero
+evangelistas describa a nuestro Seńor como: ‘muriendo’. Él murió, en verdad, pero
 
-todos ellos hablan de l como: entregando el espritu, como cediendo Su
+todos ellos hablan de Él como: entregando el espíritu, como cediendo Su
 
-espritu a Dios. Ustedes y yo morimos pasivamente; pero l entreg activamente Su
+espíritu a Dios. Ustedes y yo morimos pasivamente; pero Él entregó activamente Su
 
-espritu a Su Padre. En Su caso, la muerte fue un acto, y l realiz ese acto
+espíritu a Su Padre. En Su caso, la muerte fue un acto, y Él realizó ese acto
 
 por el glorioso motivo de redimirnos de la muerte y del infierno; entonces, en
 
-este sentido, Cristo es nico en Su muerte.
+este sentido, Cristo es único en Su muerte.
 
 Pero, oh, amados hermanos y hermanas, si no
 
-podemos encomendar nuestro espritu como l lo hizo, cuando nuestra vida sea
+podemos encomendar nuestro espíritu como Él lo hizo, cuando nuestra vida sea
 
 tomada de nosotros tenemos que estar perfectamente dispuestos a entregarla. Que
 
-Dios nos lleve a tal estado de mente y corazn que no realicemos ningn
+Dios nos lleve a tal estado de mente y corazón que no realicemos ningún
 
 forcejeo para mantener nuestra vida, antes bien que tengamos una dulce
 
-disposicin para que sea como Dios quiera, una renuncia de todo en Sus manos
+disposición para que sea como Dios quiera, una renuncia de todo en Sus manos
 
-sintindonos seguros de que, en el mundo de los espritus, nuestra alma estar
+sintiéndonos seguros de que, en el mundo de los espíritus, nuestra alma estará
 
-muy segura en las manos del Padre, y que, hasta el da de la resurreccin, el
+muy segura en las manos del Padre, y que, hasta el día de la resurrección, el
 
-germen de vida del cuerpo estar a salvo bajo Su custodia, y seguros de que,
+germen de vida del cuerpo estará a salvo bajo Su custodia, y seguros de que,
 
-cuando la trompeta resuene, espritu, alma y cuerpo esa trinidad de nuestra
+cuando la trompeta resuene, espíritu, alma y cuerpo –esa trinidad de nuestra
 
-humanidad- sern reunidos en la absoluta perfeccin de nuestro ser para
+humanidad- serán reunidos en la absoluta perfección de nuestro ser para
 
-contemplar al Rey en Su hermosura, en la tierra que est muy distante.
+contemplar al Rey en Su hermosura, en la tierra que está muy distante.
 
-Cuando Dios nos llame a morir, sera una dulce
+Cuando Dios nos llame a morir, sería una dulce
 
-manera de morir si pudiramos hacerlo como nuestro Seor, con un texto de la
+manera de morir si pudiéramos hacerlo como nuestro Seńor, con un texto de la
 
 Escritura en nuestros labios, con un Dios personal dispuesto a recibirnos, con
 
-ese Dios reconocido claramente como nuestro Padre, y as, morir gozosamente,
+ese Dios reconocido claramente como nuestro Padre, y así, morir gozosamente,
 
 rindiendo enteramente nuestra voluntad a la dulce voluntad del Ser siempre
 
-bendito, y diciendo: Es el Seor, mi Padre, haga de m lo que bien le
+bendito, y diciendo: “Es el Seńor”, “mi Padre”, “haga de mí lo que bien le
 
-pareciere.
+pareciere”.
 
 II.
 
-Mi segundo texto est en el Salmo 31, y en el
+Mi segundo texto está en el Salmo 31, y en el
 
-versculo 5; y es, evidentemente, el pasaje que nuestro Seor tena en mente
+versículo 5; y es, evidentemente, el pasaje que nuestro Seńor tenía en mente
 
-justo entonces: En tu mano encomiendo mi espritu; t me has redimido, oh
+justo entonces: “En tu mano encomiendo mi espíritu; tú me has redimido, oh
 
-Jehov, Dios de verdad. Me parece que STAS SON PALABRAS QUE HAN DE SER USADAS
+Jehová, Dios de verdad”. Me parece que ÉSTAS SON PALABRAS QUE HAN DE SER USADAS
 
 EN VIDA, pues este Salmo no concierne tanto a la muerte del creyente, como a su
 
 vida.
 
-No es muy singular, queridos amigos, que las
+żNo es muy singular, queridos amigos, que las
 
-palabras que Jess dijo en la cruz, puedan seguir siendo utilizadas por
+palabras que Jesús dijo en la cruz, puedan seguir siendo utilizadas por
 
-ustedes? Pueden alcanzar a or su eco, y no slo cuando lleguen al punto de
+ustedes? Pueden alcanzar a oír su eco, y no sólo cuando lleguen al punto de
 
-morir, sino que esta noche, maana por la maana, y mientras estn aqu, pueden
+morir, sino que esta noche, mańana por la mańana, y mientras estén aquí, pueden
 
-repetir todava el texto que el Maestro cit, y decir: En tus manos encomiendo
+repetir todavía el texto que el Maestro citó, y decir: “En tus manos encomiendo
 
-mi espritu.
+mi espíritu”.
 
 Es decir, primero,
 
@@ -630,153 +630,153 @@ hemos de encomendar alegremente nuestras almas a Dios,
 
 y sentir que
 
-estn muy seguras en Sus manos. Nuestro espritu es la parte ms noble de
+están muy seguras en Sus manos. Nuestro espíritu es la parte más noble de
 
-nuestro ser. Nuestro cuerpo es nicamente la envoltura. Como nuestro espritu
+nuestro ser. Nuestro cuerpo es únicamente la envoltura. Como nuestro espíritu
 
-es el ncleo vivo, entonces, pongmoslo bajo la custodia de Dios. Algunos de
+es el núcleo vivo, entonces, pongámoslo bajo la custodia de Dios. Algunos de
 
 ustedes no han hecho eso nunca hasta ahora, por lo que yo los invito a que lo
 
 hagan ahora. Es el acto de fe lo que salva al alma, ese acto que el hombre
 
-lleva a cabo cuando dice: Yo me confo a Dios segn l mismo se revela en
+lleva a cabo cuando dice: “Yo me confío a Dios según Él mismo se revela en
 
-Cristo Jess; yo no puedo guardarme a m mismo, pero l s puede guardarme; por
+Cristo Jesús; yo no puedo guardarme a mí mismo, pero Él sí puede guardarme; por
 
-la preciosa sangre de Cristo l puede limpiarme, de tal manera que tomo mi
+la preciosa sangre de Cristo Él puede limpiarme, de tal manera que tomo mi
 
-espritu y lo pongo en las manos del grandioso Padre. No vivirs nunca
+espíritu y lo pongo en las manos del grandioso Padre”. No vivirás nunca
 
 realmente mientras no hagas eso; todo lo que viene antes de ese acto de plena
 
-entrega es muerte; pero cuando confas una vez en Cristo, entonces has
+entrega es muerte; pero cuando confías una vez en Cristo, entonces has
 
-comenzado realmente a vivir. Y cada da, en tanto que vivas, pon atencin en
+comenzado realmente a vivir. Y cada día, en tanto que vivas, pon atención en
 
-repetir este proceso y entrgate alegremente en las manos de Dios, sin ninguna
+repetir este proceso y entrégate alegremente en las manos de Dios, sin ninguna
 
-reserva; es decir, entrgate a Dios: entrega tu cuerpo, entrega estar sano o
+reserva; es decir, entrégate a Dios: entrega tu cuerpo, entrega estar sano o
 
-estar enfermo, ser longevo o ser cortado sbitamente; tu alma y tu espritu
+estar enfermo, ser longevo o ser cortado súbitamente; tu alma y tu espíritu
 
-entrgalos tambin a Dios, entrega tu felicidad o tu tristeza, tal como l
+entrégalos también a Dios, entrega tu felicidad o tu tristeza, tal como Él
 
-quiera. Entrgale tu ser entero a l y dile: Padre mo, hazme rico o hazme
+quiera. Entrégale tu ser entero a Él y dile: “Padre mío, hazme rico o hazme
 
-pobre, dame buena visin o hazme ciego, permteme tener todos mis sentidos o
+pobre, dame buena visión o hazme ciego, permíteme tener todos mis sentidos o
 
-qutamelos, hazme famoso o djame en la oscuridad; yo me entrego a Ti
+quítamelos, hazme famoso o déjame en la oscuridad; yo me entrego a Ti
 
-nicamente; en Tu mano encomiendo mi espritu. No quiero ejercer ms mi propia
+únicamente; en Tu mano encomiendo mi espíritu. No quiero ejercer más mi propia
 
-eleccin, sino que T has de elegir mi herencia por m. Mis tiempos estn en
+elección, sino que Tú has de elegir mi herencia por mí. Mis tiempos están en
 
-Tus manos.
+Tus manos”.
 
-Ahora, queridos hijos de Dios, hacen eso
+Ahora, queridos hijos de Dios, żhacen eso
 
-siempre? Lo han hecho alguna vez? Me temo que hay algunas personas incluidas
+siempre? żLo han hecho alguna vez? Me temo que hay algunas personas incluidas
 
 entre quienes profesan ser seguidores de Cristo, que dan coces contra la
 
-voluntad de Dios; y hasta cuando le dicen a Dios: Hgase tu voluntad, lo
+voluntad de Dios; y hasta cuando le dicen a Dios: “Hágase tu voluntad”, lo
 
-arruinan todo al agregar, en su propia mente: y mi voluntad, tambin. Esas personas
+arruinan todo al agregar, en su propia mente: “y mi voluntad, también”. Esas personas
 
-oran as: Seor, haz que mi voluntad sea tu voluntad, en lugar de decirle:
+oran así: “Seńor, haz que mi voluntad sea tu voluntad”, en lugar de decirle:
 
-Haz que Tu voluntad sea mi voluntad. Cada uno de nosotros debe elevar esta
+“Haz que Tu voluntad sea mi voluntad”. Cada uno de nosotros debe elevar esta
 
-oracin cada da: En tu mano encomiendo mi espritu.
+oración cada día: “En tu mano encomiendo mi espíritu”.
 
-En nuestra oracin familiar, a m me gusta en la
+En nuestra oración familiar, a mí me gusta en la
 
-maana ponerme junto con todo lo que tengo en las manos de Dios, y luego, en la
+mańana ponerme junto con todo lo que tengo en las manos de Dios, y luego, en la
 
-noche, me gusta simplemente mirar entre Sus manos, y ver cun seguro he estado,
+noche, me gusta simplemente mirar entre Sus manos, y ver cuán seguro he estado,
 
-y luego decirle: Seor, encirrame otra vez esta noche; cudame a lo largo de
+y luego decirle: “Seńor, enciérrame otra vez esta noche; cuídame a lo largo de
 
-todas las vigilias de la noche. En tus manos encomiendo mi espritu.
+todas las vigilias de la noche. ‘En tus manos encomiendo mi espíritu.’”
 
 Noten, queridos amigos, que nuestro segundo
 
 texto contiene al final estas palabras:
 
-T
+“Tú
 
 me has redimido,
 
-oh Jehov, Dios de verdad. No es sa una buena razn
+oh Jehová, Dios de verdad”. żNo es ésa una buena razón
 
 para que se entreguen enteramente a Dios? Cristo los ha redimido, y por tanto, ustedes
 
 le pertenecen. Si yo soy un hombre redimido y le pido a Dios que me cuide, no
 
-estoy sino pidindole al Rey que cuide a una de Sus propias joyas, a una joya
+estoy sino pidiéndole al Rey que cuide a una de Sus propias joyas, a una joya
 
-que le cost la sangre de Su corazn.
+que le costó la sangre de Su corazón.
 
-Y yo puedo esperar que l lo har, todava de
+Y yo puedo esperar que Él lo hará, todavía de
 
-una manera ms especial, debido al ttulo que le es otorgado aqu: T me has
+una manera más especial, debido al título que le es otorgado aquí: “Tú me has
 
 redimido,
 
-oh Jehov, Dios de verdad.
+oh Jehová, Dios de verdad”.
 
-Sera
+żSería
 
-l el Dios de la verdad, si comenzara la redencin pero la terminara en
+Él el Dios de la verdad, si comenzara la redención pero la terminara en
 
-destruccin; si comenzara por entregar a Su Hijo a la muerte por nosotros, pero
+destrucción; si comenzara por entregar a Su Hijo a la muerte por nosotros, pero
 
 luego retuviera otras misericordias que necesitamos diariamente para llevarnos
 
-al cielo? No; el don de Su Hijo es la garanta de que l salvar a Su pueblo de
+al cielo? No; el don de Su Hijo es la garantía de que Él salvará a Su pueblo de
 
-sus pecados, y los llevar al hogar en la gloria; y l lo har.
+sus pecados, y los llevará al hogar en la gloria; y Él lo hará.
 
-Entonces, acudan cada da a l con esta
+Entonces, acudan cada día a Él con esta
 
-declaracin: En tu mano encomiendo mi espritu. Es ms, hganlo no slo cada
+declaración: “En tu mano encomiendo mi espíritu”. Es más, háganlo no sólo cada
 
-da, sino a lo largo de todo el da. Acaso un caballo te arrastra consigo?
+día, sino a lo largo de todo el día. żAcaso un caballo te arrastra consigo?
 
-Entonces no puedes hacer nada mejor que decir: Padre, en tu mano encomiendo mi
+Entonces no puedes hacer nada mejor que decir: “Padre, en tu mano encomiendo mi
 
-espritu. Y si el caballo no te arrastra, no puedes hacer nada mejor que decir
+espíritu”. Y si el caballo no te arrastra, no puedes hacer nada mejor que decir
 
-esas mismas palabras. Tienes que entrar en una casa donde hay fiebre; quiero
+esas mismas palabras. żTienes que entrar en una casa donde hay fiebre; quiero
 
-decir, es tu deber entrar ah? Entonces anda y di: Padre, en tu mano
+decir, es tu deber entrar ahí? Entonces anda y di: “Padre, en tu mano
 
-encomiendo mi espritu. Yo te recomendara que hicieras eso cada vez que
+encomiendo mi espíritu”. Yo te recomendaría que hicieras eso cada vez que
 
-camines por la calle, o incluso cuando ests dentro de tu propia casa.
+camines por la calle, o incluso cuando estés dentro de tu propia casa.
 
 El doctor Gill, mi famoso predecesor, pasaba
 
-muchsimo tiempo en su estudio y, un da, alguien le dijo: Bien, de cualquier
+muchísimo tiempo en su estudio y, un día, alguien le dijo: “Bien, de cualquier
 
-manera, el hombre estudioso est a salvo de la mayora de los accidentes de la
+manera, el hombre estudioso está a salvo de la mayoría de los accidentes de la
 
-vida. Sucedi que, una maana, cuando el buen hombre se levant momentneamente
+vida”. Sucedió que, una mańana, cuando el buen hombre se levantó momentáneamente
 
-del sof familiar, vino una fuerte rfaga de viento que derrib una buena
+del sofá familiar, vino una fuerte ráfaga de viento que derribó una buena
 
 cantidad de chimeneas que fueron a estrellarse contra el techo de su casa,
 
-perforndolo y cayendo exactamente en el lugar donde habra estado sentado si
+perforándolo y cayendo exactamente en el lugar donde habría estado sentado si
 
-la providencia de Dios no le hubiera apartado de ah; y l dijo: Compruebo que
+la providencia de Dios no le hubiera apartado de ahí; y él dijo: “Compruebo que
 
 necesitamos que la divina providencia nos cuide en nuestros estudios de la
 
-misma manera que lo hace en las calles. Padre, en tus manos encomiendo mi
+misma manera que lo hace en las calles”. “Padre, en tus manos encomiendo mi
 
-espritu.
+espíritu”.
 
 He notado a menudo que, cuando alguno de
 
@@ -788,199 +788,199 @@ de salud, y regresan enfermos; nos dejan y se van con todas sus extremidades
 
 sanas, y regresan lisiados a nosotros; por tanto, debemos pedirle a Dios que
 
-cuide especialmente a los amigos que estn en el campo o junto al mar, y hemos
+cuide especialmente a los amigos que están en el campo o junto al mar, y hemos
 
-de encomendarnos en Sus manos dondequiera que estemos. Si tuviramos que ir a
+de encomendarnos en Sus manos dondequiera que estemos. Si tuviéramos que ir a
 
-un lazareto, ciertamente le pediramos a Dios que nos protegiera de la lepra
+un lazareto, ciertamente le pediríamos a Dios que nos protegiera de la lepra
 
-mortal; pero deberamos buscar igualmente la proteccin del Seor cuando estemos
+mortal; pero deberíamos buscar igualmente la protección del Seńor cuando estemos
 
-en el lugar ms sano o cuando nos encontremos en nuestros hogares.
+en el lugar más sano o cuando nos encontremos en nuestros hogares.
 
-David le dijo al Seor: En tu mano encomiendo
+David le dijo al Seńor: “En tu mano encomiendo
 
-mi espritu; pero permtanme pedirles que agreguen aquella palabra que nuestro
+mi espíritu”; pero permítanme pedirles que agreguen aquella palabra que nuestro
 
-Seor insert,
+Seńor insertó,
 
-Padre.
+“Padre”.
 
 David es
 
-frecuentemente un buen gua para nosotros, pero el Seor de David es mucho
+frecuentemente un buen guía para nosotros, pero el Seńor de David es mucho
 
-mejor gua; y si lo seguimos, lograremos mejoras en comparacin a David.
+mejor guía; y si lo seguimos, lograremos mejoras en comparación a David.
 
 Entonces, cada uno de nosotros debe decir:
 
-Padre, Padre,
+“Padre, Padre,
 
 en tu mano encomiendo mi
 
-espritu. Esa es una dulce manera de vivir cada da, encomendando todo en la
+espíritu”. Esa es una dulce manera de vivir cada día, encomendando todo en la
 
-mano de nuestro Padre Celestial, pues esa mano slo puede ser benigna con Su
+mano de nuestro Padre Celestial, pues esa mano sólo puede ser benigna con Su
 
-hijo. Padre, tal vez no sea capaz de confiar en Tus ngeles, pero puedo
+hijo. “Padre, tal vez no sea capaz de confiar en Tus ángeles, pero puedo
 
-confiar en Ti. El Salmista no dice: En la mano de la providencia encomiendo
+confiar en Ti”. El Salmista no dice: “En la mano de la providencia encomiendo
 
-mi espritu. Han advertido cmo los hombres tratan de deshacerse de Dios diciendo:
+mi espíritu”. żHan advertido cómo los hombres tratan de deshacerse de Dios diciendo:
 
-La providencia hizo esto, y la providencia hizo aquello, y la providencia
+“La providencia hizo esto”, y “la providencia hizo aquello”, y “la providencia
 
-hizo eso otro? Si les preguntaras: qu es la providencia?, probablemente te
+hizo eso otro”? Si les preguntaras: “żqué es la providencia?”, probablemente te
 
-responderan: pues bien, la providencia es la providencia. Eso es todo lo
+responderían: “pues bien, la providencia es… la providencia”. Eso es todo lo
 
-que te pueden decir. Hay muchsimas personas que hablan muy confiadamente
+que te pueden decir. Hay muchísimas personas que hablan muy confiadamente
 
 acerca de reverenciar a la naturaleza, de obedecer las leyes de la naturaleza,
 
-de notar los poderes de la naturaleza y as sucesivamente. Acrcate a ese
+de notar los poderes de la naturaleza y así sucesivamente. Acércate a ese
 
-conferencista elocuente y dile: Seras tan amable de explicarme qu es la
+conferencista elocuente y dile: “żSerías tan amable de explicarme qué es la
 
-naturaleza?. l te responde: Vamos, la naturaleza bien, es la naturaleza.
+naturaleza?”. Él te responde: “Vamos, la naturaleza… bien, es… la naturaleza”.
 
-Precisamente es eso, amigo; pero, entonces, qu
+Precisamente es eso, amigo; pero, entonces, żqué
 
 es
 
-la naturaleza? Y l dice: Bien, bien, es la naturaleza; y eso
+la naturaleza? Y él dice: “Bien, bien, es la naturaleza”; y eso
 
-es todo lo que podras sacarle.
+es todo lo que podrías sacarle.
 
 Ahora, yo creo en la naturaleza, y yo creo en la
 
-providencia; pero, detrs de todo, yo creo en Dios, y en el Dios que tiene
+providencia; pero, detrás de todo, yo creo en Dios, y en el Dios que tiene
 
-manos; no en un dolo que no tiene manos, y que no puede hacer nada, sino en el
+manos; no en un ídolo que no tiene manos, y que no puede hacer nada, sino en el
 
-Dios a quien le puedo decir: Padre, en tu mano encomiendo mi espritu. Me
+Dios a quien le puedo decir: ‘“Padre, en tu mano encomiendo mi espíritu’”. Me
 
-alegro porque soy capaz de ponerme all, pues me siento absolutamente seguro al
+alegro porque soy capaz de ponerme allí, pues me siento absolutamente seguro al
 
-confiarme a Tu guarda. Entonces, vivan, amados, y vivirn segura y felizmente,
+confiarme a Tu guarda”. Entonces, vivan, amados, y vivirán segura y felizmente,
 
-y tendrn esperanza en su vida y esperanza en su muerte.
+y tendrán esperanza en su vida y esperanza en su muerte.
 
 III.
 
-Mi tercer texto no nos retendr muchos minutos;
+Mi tercer texto no nos retendrá muchos minutos;
 
-tiene el propsito de explicarnos EL USO DE LAS PALABRAS AGONIZANTES DE NUESTRO
+tiene el propósito de explicarnos EL USO DE LAS PALABRAS AGONIZANTES DE NUESTRO
 
 SALVADOR PARA NOSOTROS MISMOS. Vayamos al relato de la muerte de Esteban, en el
 
-captulo 7 de Hechos, y en el versculo 59, y vern ustedes all, cun lejos se
+capítulo 7 de Hechos, y en el versículo 59, y verán ustedes allí, cuán lejos se
 
-puede atrever a ir un hombre de Dios en sus ltimos momentos al citar a David y
+puede atrever a ir un hombre de Dios en sus últimos momentos al citar a David y
 
-al Seor Jesucristo: Y apedreaban a Esteban, mientras l invocaba y deca:
+al Seńor Jesucristo: “Y apedreaban a Esteban, mientras él invocaba y decía:
 
-Seor Jess, recibe mi espritu.
+Seńor Jesús, recibe mi espíritu”.
 
-Entonces, aqu tenemos un texto para usarlo en
+Entonces, aquí tenemos un texto para usarlo en
 
-la hora de nuestra muerte: Seor Jess, recibe mi espritu. Les he explicado
+la hora de nuestra muerte: “Seńor Jesús, recibe mi espíritu”. Les he explicado
 
-que, estrictamente, difcilmente podemos hablar de entregar nuestro espritu,
+que, estrictamente, difícilmente podemos hablar de entregar nuestro espíritu,
 
-pero podemos afirmar que Cristo lo recibe, y decir, con Esteban: Seor Jess,
+pero podemos afirmar que Cristo lo recibe, y decir, con Esteban: “Seńor Jesús,
 
-recibe mi espritu.
+recibe mi espíritu”.
 
-Qu significa esta oracin? Debo darles
+żQué significa esta oración? Debo darles
 
-apresuradamente dos o tres pensamientos al respecto, y as concluir mi
+apresuradamente dos o tres pensamientos al respecto, y así concluir mi
 
-discurso. Yo pienso que esta oracin quiere decir que,
+discurso. Yo pienso que esta oración quiere decir que,
 
-si pudiramos morir como muri Esteban, moriremos con una certeza de
+si pudiéramos morir como murió Esteban, moriremos con una certeza de
 
 inmortalidad.
 
-Esteban or: Seor Jess, recibe mi espritu. No dijo:
+Esteban oró: Seńor Jesús, recibe mi espíritu”. No dijo:
 
-Tengo miedo de que mi pobre espritu va a morir. No; el espritu es algo que
+“Tengo miedo de que mi pobre espíritu va a morir”. No; el espíritu es algo que
 
-existe todava despus de la muerte, algo que Cristo puede recibir y, por
+existe todavía después de la muerte, algo que Cristo puede recibir y, por
 
 tanto, Esteban le pide que lo reciba. Ustedes y yo no vamos a subir las
 
-escaleras para morir como si furamos nicamente gatos y perros; vamos all
+escaleras para morir como si fuéramos únicamente gatos y perros; vamos allá
 
 para morir como seres inmortales que se quedan dormidos en la tierra, y abren
 
-sus ojos en el cielo. Entonces, al sonido de la trompeta del arcngel, nuestro
+sus ojos en el cielo. Entonces, al sonido de la trompeta del arcángel, nuestro
 
-propio cuerpo ha de resucitar para morar otra vez con nuestro espritu; no
+propio cuerpo ha de resucitar para morar otra vez con nuestro espíritu; no
 
 tenemos ninguna duda al respecto.
 
 Creo que les he mencionado lo que un infiel le
 
-dijo una vez a un cristiano: Algunos cristianos sienten un gran miedo de morir
+dijo una vez a un cristiano: “Algunos cristianos sienten un gran miedo de morir
 
-porque ustedes creen que hay otro estado que ha de seguirle a ste. Yo no tengo
+porque ustedes creen que hay otro estado que ha de seguirle a éste. Yo no tengo
 
 el menor miedo, pues creo que voy a ser aniquilado, y por eso estoy libre de
 
-todo miedo a la muerte. S, -respondi el cristiano- y en ese respecto me
+todo miedo a la muerte”. “Sí”, -respondió el cristiano- “y en ese respecto me
 
-parece a m que ests en los mismos trminos que ese buey que est pastando
+parece a mí que estás en los mismos términos que ese buey que está pastando
 
-all, que, como t, est libre de cualquier miedo a la muerte. Amigo, te ruego
+allá, que, como tú, está libre de cualquier miedo a la muerte. Amigo, te ruego
 
-que me permitas hacerte una simple pregunta. Tienes alguna esperanza?
+que me permitas hacerte una simple pregunta. żTienes alguna esperanza?
 
-Esperanza, amigo? No, no tengo ninguna esperanza; por supuesto que no tengo
+“żEsperanza, amigo? No, no tengo ninguna esperanza; por supuesto que no tengo
 
-ninguna esperanza, amigo. Ah!, entonces, -replic el otro- no obstante los
+ninguna esperanza, amigo”. “ˇAh!, entonces”, -replicó el otro- “no obstante los
 
-miedos que les sobrevienen a veces a los creyentes dbiles, ellos tienen una
+miedos que les sobrevienen a veces a los creyentes débiles, ellos tienen una
 
-esperanza a la que no quisieran renunciar ni podran hacerlo. Y esa esperanza
+esperanza a la que no quisieran renunciar ni podrían hacerlo”. Y esa esperanza
 
-es que nuestro espritu, ese espritu que encomendamos en las manos de
+es que nuestro espíritu, ese espíritu que encomendamos en las manos de
 
-Jesucristo, estar eternamente con el Seor.
+Jesucristo, estará “eternamente con el Seńor”.
 
 El siguiente pensamiento es que,
 
-para un hombre que puede morir como muri
+para un hombre que puede morir como murió
 
-Esteban, hay una certeza de que Cristo est cerca,
+Esteban, hay una certeza de que Cristo está cerca,
 
 tan cerca, que el hombre
 
-le habla y le dice: Seor Jess, recibe mi espritu. En el caso de Esteban,
+le habla y le dice: “Seńor Jesús, recibe mi espíritu”. En el caso de Esteban,
 
-el Seor Jess estaba tan cerca que el mrtir pudo verle, pues dijo: He aqu,
+el Seńor Jesús estaba tan cerca que el mártir pudo verle, pues dijo: “He aquí,
 
-veo los cielos abiertos, y al Hijo del Hombre que est a la diestra de Dios.
+veo los cielos abiertos, y al Hijo del Hombre que está a la diestra de Dios”.
 
 Muchos santos moribundos han ofrecido un
 
-testimonio similar; para nosotros no es algo extrao orles decir, antes de
+testimonio similar; para nosotros no es algo extrańo oírles decir, antes de
 
-morir, que podan ver adentro de las puertas de perla; y nos han dicho sto con
+morir, que podían ver adentro de las puertas de perla; y nos han dicho ésto con
 
 tan evidente veracidad, y con tal arrobamiento, o a veces, tan calmadamente, en
 
-un tono de voz tan comedido, que estbamos seguros de que no estaban engaados
+un tono de voz tan comedido, que estábamos seguros de que no estaban engańados
 
-ni nos decan una falsedad. Decan lo que saban que era verdad, pues Jess
+ni nos decían una falsedad. Decían lo que sabían que era verdad, pues Jesús
 
-estaba all con ellos. S, amados, antes de que puedan reunir a sus hijos en
+estaba allí con ellos. Sí, amados, antes de que puedan reunir a sus hijos en
 
-torno a su lecho de muerte, Jess ya estar all, y en Sus manos pueden
+torno a su lecho de muerte, Jesús ya estará allí, y en Sus manos pueden
 
-encomendar su espritu.
+encomendar su espíritu.
 
-Adems,
+Además,
 
 tenemos
 
@@ -988,87 +988,87 @@ la certeza de que estamos muy seguros en Sus manos.
 
 Por inseguros que
 
-estemos en cualquier otra parte, si le pedimos que reciba nuestro espritu, y
+estemos en cualquier otra parte, si le pedimos que reciba nuestro espíritu, y
 
-l lo recibe, quin podra hacernos dao? Quin podra arrancarnos de Sus
+Él lo recibe, żquién podría hacernos dańo? żQuién podría arrancarnos de Sus
 
-manos? Despierten, ustedes, infierno y muerte! Pasen al frente, todos
+manos? ˇDespierten, ustedes, infierno y muerte! ˇPasen al frente, todos
 
-ustedes, poderes de las tinieblas! Qu podran hacer ustedes cuando un
+ustedes, poderes de las tinieblas! żQué podrían hacer ustedes cuando un
 
-espritu ya se encuentra en las manos del Redentor omnipotente? Estamos a salvo
+espíritu ya se encuentra en las manos del Redentor omnipotente? Estamos a salvo
 
-all.
+allí.
 
-Luego est la otra certidumbre:
+Luego está la otra certidumbre:
 
-que l est muy dispuesto a tomarnos en Sus
+que Él está muy dispuesto a tomarnos en Sus
 
 manos.
 
-Pongmonos en Sus manos ahora; y, luego, no hemos de avergonzarnos
+Pongámonos en Sus manos ahora; y, luego, no hemos de avergonzarnos
 
-de repetir la operacin cada da, y podemos estar seguros de que no seremos
+de repetir la operación cada día, y podemos estar seguros de que no seremos
 
 rechazados al final.
 
 A menudo les he comentado acerca de la buena
 
-anciana que se estaba muriendo, y a quien alguien le pregunt: No tiene miedo
+anciana que se estaba muriendo, y a quien alguien le preguntó: “żNo tiene miedo
 
-de morir? Oh, no; -replic ella- no hay nada que temer en absoluto. He
+de morir?” “Oh, no”; -replicó ella- “no hay nada que temer en absoluto. He
 
-hundido mi pie en el ro de la muerte cada maana antes de tomar mi desayuno, y
+hundido mi pie en el río de la muerte cada mańana antes de tomar mi desayuno, y
 
-no tengo miedo de morir ahora.
+no tengo miedo de morir ahora”.
 
 Ustedes recuerdan a aquella amada santa que
 
-muri en la noche, y que haba dejado escrito sobre un trozo de papel junto a
+murió en la noche, y que había dejado escrito sobre un trozo de papel junto a
 
-su lecho estas lneas que, antes de quedarse dormida, se sinti con la
+su lecho estas líneas que, antes de quedarse dormida, se sintió con la
 
 suficiente fuerza para escribirlas:
 
-Puesto que
+“Puesto que
 
-Jess es mo, no temer desvestirme,
+Jesús es mío, no temeré desvestirme,
 
 Sino que
 
-alegre me despojar de este vestido de arcilla;
+alegre me despojaré de este vestido de arcilla;
 
 Morir en el
 
-Seor es una bendicin del pacto,
+Seńor es una bendición del pacto,
 
 Puesto que
 
-Jess lider el camino a la gloria, con Su muerte.
+Jesús lideró el camino a la gloria, con Su muerte”.
 
-Fue bueno que ella pudiera decirlo, y sera
+ˇFue bueno que ella pudiera decirlo, y sería
 
-bueno que nosotros seamos capaces de decir lo mismo en el momento que el Seor
+bueno que nosotros seamos capaces de decir lo mismo en el momento que el Seńor
 
 nos llame para que ascendamos a lo alto! Queridos amigos, yo quiero que cada
 
-uno de nosotros tenga tanta disposicin de partir como si se tratase de un
+uno de nosotros tenga tanta disposición de partir como si se tratase de un
 
 asunto que dependiera de nuestra propia voluntad. Bendito sea Dios porque la
 
-fecha de nuestra muerte no queda a nuestra eleccin, ni a nuestra voluntad.
+fecha de nuestra muerte no queda a nuestra elección, ni a nuestra voluntad.
 
-Dios ha establecido el da, y ni diez mil demonios podran consignarnos a la
+Dios ha establecido el día, y ni diez mil demonios podrían consignarnos a la
 
 tumba antes de nuestro tiempo. No moriremos mientras Dios no lo decrete.
 
-Plagas y
+“Plagas y
 
 muerte vuelan a mi alrededor,
 
-Pero si l no
+Pero si Él no
 
-lo quiere, no morir;
+lo quiere, no moriré;
 
 Ni una sola
 
@@ -1076,37 +1076,37 @@ saeta acierta en el blanco
 
 Mientras el
 
-Dios de amor no lo consienta.
+Dios de amor no lo consienta”.
 
 Pero hemos de estar tan anuentes a partir como
 
-si se tratara realmente de un asunto de eleccin; pues, sabiamente,
+si se tratara realmente de un asunto de elección; pues, sabiamente,
 
 cuidadosamente, apaciblemente, consideren que si se nos permitiera elegir,
 
-ninguno de nosotros sera sabio si no eligiera partir. Aparte de la venida de
+ninguno de nosotros sería sabio si no eligiera partir. Aparte de la venida de
 
-nuestro Seor, lo ms lamentable que conozco sera la sospecha de que no pudiramos
+nuestro Seńor, lo más lamentable que conozco sería la sospecha de que no pudiéramos
 
 morir.
 
-Saben ustedes lo que el pintoresco anciano
+żSaben ustedes lo que el pintoresco anciano
 
-Rowland Hill sola decir cuando se dio cuenta de que estaba volvindose un
+Rowland Hill solía decir cuando se dio cuenta de que estaba volviéndose un
 
-anciano? Dijo: En verdad tienen que estarme olvidando all arriba; y cada vez
+anciano? Dijo: “En verdad tienen que estarme olvidando allá arriba”; y cada vez
 
-y cuando, si algn amado santo anciano mora, l le deca: Cuando llegues al
+y cuando, si algún amado santo anciano moría, él le decía: “Cuando llegues al
 
 cielo, dale mi afectuoso saludo a Juan Berridge y Juan Bunyan, y a todos los
 
-dems Juanes buenos, y diles que espero que en breve vern al pobre anciano
+demás ‘Juanes’ buenos, y diles que espero que en breve verán al pobre anciano
 
-Rowly all en lo alto. Bien, haba un sentido comn en ese desear ir a casa
+‘Rowly’ allá en lo alto”. Bien, había un sentido común en ese desear ir a casa
 
-y anhelar estar con Dios. Estar con Cristo es mucho mejor que estar aqu.
+y anhelar estar con Dios. Estar con Cristo es mucho mejor que estar aquí.
 
-La propia sobriedad nos conducira a elegir
+La propia sobriedad nos conduciría a elegir
 
 morir; bien, entonces, no hemos de tolerar retroceder, y volvernos
 
@@ -1120,37 +1120,37 @@ familiaricemos con nuestro lugar de descanso.
 
 Cuando fui, recientemente, al cementerio de
 
-Norwood para sepultar all el cuerpo de nuestro amado hermano Perkins, por
+Norwood para sepultar allí el cuerpo de nuestro amado hermano Perkins, por
 
-breve tiempo, sent que era algo saludable para m ponerme al borde de la tumba
+breve tiempo, sentí que era algo saludable para mí ponerme al borde de la tumba
 
-y caminar luego en medio de ese bosque de memoriales de la muerte, pues es all
+y caminar luego en medio de ese bosque de memoriales de la muerte, pues es allí
 
-donde yo tambin he de ir. Ustedes, hombres que gozan de vida, venga y vean el
+donde yo también he de ir. Ustedes, hombres que gozan de vida, venga y vean el
 
-terreno donde muy pronto yacern; y, como as ha de ser, dmosle la bienvenida
+terreno donde muy pronto yacerán; y, como así ha de ser, démosle la bienvenida
 
 nosotros que somos creyentes.
 
-Pero, qu pasa si no son creyentes? Ah!, Eso
+Pero, żqué pasa si no son creyentes? ˇAh!, Eso
 
-es un asunto completamente diferente. Si ustedes no han credo en Cristo,
+es un asunto completamente diferente. Si ustedes no han creído en Cristo,
 
-haran bien en tener miedo incluso de descansar en el asiento donde estn
+harían bien en tener miedo incluso de descansar en el asiento donde están
 
-sentados ahora. Me pregunto por qu la propia tierra no dice: oh Dios, no voy
+sentados ahora. Me pregunto por qué la propia tierra no dice: “ˇoh Dios, no voy
 
-a retener ms tiempo a este desgraciado pecador! Permteme que abra mi boca y
+a retener más tiempo a este desgraciado pecador! ˇPermíteme que abra mi boca y
 
-me lo trague! Toda la naturaleza tiene que odiar al hombre que odia a Dios.
+me lo trague!” Toda la naturaleza tiene que odiar al hombre que odia a Dios.
 
 Seguramente todas las cosas han de despreciar ministrar a la vida de un hombre
 
-que no vive para Dios. Oh, que buscaran al Seor, y confiaran en Cristo, y
+que no vive para Dios. ˇOh, que buscaran al Seńor, y confiaran en Cristo, y
 
 encontraran la vida eterna! Si ya lo han hecho, no tengan miedo de enfrentarse
 
-a la vida o a la muerte, segn agrade a Dios.
+a la vida o a la muerte, según agrade a Dios.
 
 Nota del
 
@@ -1158,15 +1158,15 @@ traductor:
 
 (1) El pastor
 
-Spurgeon cita aqu el texto: Wist ye not that I must be in my Fathers house?
+Spurgeon cita aquí el texto: “Wist ye not that I must be in my Father’s house?”
 
-que es utilizado ahora en la Biblia de Jerusaln y traducido: No sabais que
+que es utilizado ahora en la Biblia de Jerusalén y traducido: “żNo sabíais que
 
-yo deba estar en la casa de mi Padre? Lucas 1: 49.
+yo debía estar en la casa de mi Padre?” Lucas 1: 49.
 
 Traductor: Allan
 
-Romn
+Román
 
 29/Mayo/2012
 

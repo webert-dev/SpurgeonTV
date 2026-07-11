@@ -1,28 +1,28 @@
 # Sermón 3368 | Sermón 3368
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Insondables
 
-UN SERMN PREDICADO POR
+UN SERMÓN PREDICADO POR
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 21 DE AGOSTO DE 1913.
 
-Tus juicios, abismo grande. Salmo 36: 6.
+“Tus juicios, abismo grande”. Salmo 36: 6.
 
 Esta frase es verdadera,
 
-sin importar bajo qu luz se considere a la
+sin importar bajo qué luz se considere a la
 
 palabra
 
-juicio.
+“juicio”.
 
 Hay mucho de misterio en las terribles calamidades que afligen a la tierra, que
 
@@ -30,21 +30,21 @@ devastan a las naciones, que destruyen ciudades y que arrasan con las reliquias
 
 del pasado. Hay mucho de misterio en los juicios de Dios a los malvados en esta
 
-vida: cmo prosperan por un tiempo y cmo son segados sbitamente; cmo
+vida: cómo prosperan por un tiempo y cómo son segados súbitamente; cómo
 
-engordan como novillos y cmo son llevados luego al matadero.
+engordan como novillos y cómo son llevados luego al matadero.
 
 Los juicios de Dios en
 
-relacin a los impos en el mundo venidero son tambin abismo grande, de los
+relación a los impíos en el mundo venidero son también “abismo grande”, de los
 
-que no se ha de hablar con ligereza. El futuro castigo de los impos es un tema
+que no se ha de hablar con ligereza. El futuro castigo de los impíos es un tema
 
-solemne, es abismo grande, un abismo donde algunos, me temo, especulan tan
+solemne, es “abismo grande”, un abismo donde algunos, me temo, especulan tan
 
 profundamente que el riesgo que corren es inminente: pueden ahogarse en la
 
-perdicin.
+perdición.
 
 Pero yo prefiero esta
 
@@ -58,39 +58,39 @@ Dios no trata con ellos en un juicio
 
 de tipo penal, pienso, vindicando la inflexible justicia de la ley por medio de
 
-la terrible venganza que inflige sobre el transgresor, como tratar con los
+la terrible venganza que inflige sobre el transgresor, como tratará con los
 
-impos en el terrible juicio final. No quiero decir eso. Ms bien lo interpreto
+impíos en el terrible juicio final. No quiero decir eso. Más bien lo interpreto
 
 como la saludable disciplina y los dolorosos castigos de la mano de Dios, que
 
-son llamados: juicios, en
+son llamados: “juicios”, en
 
 la Escritura.
 
 No
 
-vienen al azar, ni nos llegan meramente como un asunto de soberana, sino que
+vienen al azar, ni nos llegan meramente como un asunto de soberanía, sino que
 
-son enviados en sabidura porque Dios los juzga necesarios. Son sopesados con
+son enviados en sabiduría porque Dios los juzga necesarios. Son sopesados con
 
-discrecin para nosotros y nos son otorgados por la prudencia. Pienso que
+discreción para nosotros y nos son otorgados por la prudencia. Pienso que
 
-juicio es un dulce nombre para la afliccin. No se trata de que yo considere
+‘juicio’ es un dulce nombre para la aflicción. No se trata de que yo considere
 
-a la afliccin como un juicio contra m por el pecado, cosa que no puedo hacer
+a la aflicción como un juicio contra mí por el pecado, cosa que no puedo hacer
 
 ahora que he visto al pecado castigado en Cristo; pero yo considero que mis
 
 aflicciones me son enviadas de acuerdo al juicio enteramente sabio de un Padre
 
-amoroso, para nada desprovisto de consideracin, sino siempre de acuerdo a Su
+amoroso, para nada desprovisto de consideración, sino siempre de acuerdo a Su
 
-infinita sabidura y prudencia; son aflicciones repartidas con medida y en
+infinita sabiduría y prudencia; son aflicciones repartidas con medida y en
 
-tiempos oportunos, de acuerdo al juicio y a la sabidura infinita de Dios. En
+tiempos oportunos, de acuerdo al juicio y a la sabiduría infinita de Dios. En
 
-una palabra, no son llamados: juicios debido a un carcter judicial, sino
+una palabra, no son llamados: “juicios” debido a un carácter judicial, sino
 
 debido a que son juiciosos.
 
@@ -100,7 +100,7 @@ Dios para con Sus siervos, siempre sabios y prudentes, son frecuentemente como
 
 abismos grandes. Esta noche voy a desarrollar simplemente tres o cuatro
 
-pensamientos que surgen de esa metfora.
+pensamientos que surgen de esa metáfora.
 
 I.
 
@@ -112,25 +112,25 @@ Nosotros no podemos
 
 descubrir el fundamento o la causa, ni su origen. Algunos de los siervos de
 
-Dios que estn sinceramente deseosos de producir cosas honestas a los ojos de
+Dios que están sinceramente deseosos de producir cosas honestas a los ojos de
 
-todos los hombres, aunque sean diligentes y enrgicos y ejerzan la adecuada
+todos los hombres, aunque sean diligentes y enérgicos y ejerzan la adecuada
 
-prudencia, descubren que no son hbiles para prosperar en los negocios. Todos
+prudencia, descubren que no son hábiles para prosperar en los negocios. Todos
 
-sus propsitos se ven frustrados. Pareciera haber un tipo de fatalidad
+sus propósitos se ven frustrados. Pareciera haber un tipo de fatalidad
 
 vinculada con todos sus proyectos. Si
 
 ellos
 
-se involucran en un negocio o en una oportunidad que se convertira en oro
+se involucran en un negocio o en una oportunidad que se convertiría en oro
 
 en las manos de otros, en sus manos se derrite hasta convertirse en escoria.
 
-Ahora, no siempre se encuentra una explicacin para sto. Tus juicios, abismo
+Ahora, no siempre se encuentra una explicación para ésto. “Tus juicios, abismo
 
-grande, es un asunto que ha de percibirse como un hecho, pero que no puede
+grande”, es un asunto que ha de percibirse como un hecho, pero que no puede
 
 explicarse mediante razonamiento.
 
@@ -140,87 +140,87 @@ una familia un hijo amado quien es un gran consuelo para sus padres. Pareciera,
 
 en verdad, haber sido enviado en amor para sanar alguna vieja herida y para
 
-hacer feliz al hogar, pero entonces, tan sbitamente como vino, se va. Por
+hacer feliz al hogar, pero entonces, tan súbitamente como vino, se va. żPor
 
-qu? Ah!, aqu, de nuevo, hay otro abismo que el ansioso corazn de una madre
+qué? ˇAh!, aquí, de nuevo, hay otro abismo que el ansioso corazón de una madre
 
 quisiera sondear, pero que no le corresponde explorar. Es un grande abismo.
 
 Ocurre a veces que se
 
-nos permite conservar a nuestros hijos y justo cuando estn madurando para
+nos permite conservar a nuestros hijos y justo cuando están madurando para
 
 llegar a la edad adulta del hombre o de la mujer, y cuando esperamos verlos
 
-colocados y establecidos en la vida, sucede como le sucedi esta tarde a uno
+colocados y establecidos en la vida, sucede –como le sucedió esta tarde a uno
 
 de nuestros queridos amigos de esta iglesia- que tenemos que estar junto a su
 
-tumba abierta, y decir: La tierra a la tierra y el polvo al polvo. No podemos
+tumba abierta, y decir: “La tierra a la tierra y el polvo al polvo”. No podemos
 
-entender por qu Dios se lleva a los santos y a los buenos, a los amigables y a
+entender por qué Dios se lleva a los santos y a los buenos, a los amigables y a
 
-los amables, cuando parecieran ser ms tiles. Es un abismo grande.
+los amables, cuando parecieran ser más útiles. Es un abismo grande.
 
-A menudo ocurre tambin
+A menudo ocurre también
 
-que cuando un hombre est a cargo de su familia y toda ella depende de sus
+que cuando un hombre está a cargo de su familia y toda ella depende de sus
 
-esfuerzos en un negocio que est comenzando a prosperar, y el hombre promete
+esfuerzos en un negocio que está comenzando a prosperar, y el hombre promete
 
-vivir por muchos aos, es segado en un instante; su esposa queda viuda y sus
+vivir por muchos ańos, es segado en un instante; su esposa queda viuda y sus
 
-hijos quedan hurfanos. Pareciera que fue llevado en el peor momento, justo
+hijos quedan huérfanos. Pareciera que fue llevado en el peor momento, justo
 
-cuando menos podan privarse de l. La ansiosa esposa podra preguntarse: Por
+cuando menos podían privarse de él. La ansiosa esposa podría preguntarse: “żPor
 
-qu sucedi sto?, pero slo puede decir en respuesta: No puedo entenderlo;
+qué sucedió ésto?”, pero sólo puede decir en respuesta: “No puedo entenderlo;
 
-es un abismo grande.
+es un abismo grande”.
 
-Podra proseguir relatando
+Podría proseguir relatando
 
 muchos ejemplos, pero estos hechos nos acontecen a todos nosotros a lo largo de
 
-nuestras vidas, y si no nos han ocurrido todava, ciertamente nos ocurrirn.
+nuestras vidas, y si no nos han ocurrido todavía, ciertamente nos ocurrirán.
 
-Nos sobrevendrn pruebas y problemas ms all de nuestro cordel de medida.
+Nos sobrevendrán pruebas y problemas más allá de nuestro cordel de medida.
 
 Tendremos que hacer negocios en aguas profundas donde ninguna sonda tiene la
 
-posibilidad de encontrar un fondo. Tus juicios, abismo grande.
+posibilidad de encontrar un fondo. “Tus juicios, abismo grande”.
 
-Pero, por qu el Seor nos enva una afliccin que no podemos entender?
+żPero, por qué el Seńor nos envía una aflicción que no podemos entender?
 
 Yo respondo:
 
-porque
+‘porque
 
-l es el Seor.
+Él es el Seńor’.
 
 Tu hijo no debe esperar entender todo lo que hace su
 
 padre, porque su padre es un hombre de maduro intelecto y de entendimiento, y
 
-el nio es slo un nio. T, amado hermano, sin importar cun experimentado
+el nińo es sólo un nińo. Tú, amado hermano, sin importar cuán experimentado
 
-seas, no eres sino un nio, y, comparado con la mente divina, qu inteligencia
+seas, no eres sino un nińo, y, comparado con la mente divina, żqué inteligencia
 
-tienes? Cmo puedes esperar, por tanto, que Dios acte siempre segn alguna
+tienes? żCómo puedes esperar, por tanto, que Dios actúe siempre según alguna
 
 regla que
 
-t
+tú
 
 seas capaz de entender?
 
-l es Dios, y, por tanto, nos conviene a menudo quedarnos callados, sentarnos
+Él es Dios, y, por tanto, nos conviene a menudo quedarnos callados, sentarnos
 
 en silencio y sentir y saber que todo debe de estar bien, aunque sepamos
 
-igualmente que no podemos ver que as sea.
+igualmente que no podemos ver que así sea.
 
-Dios nos enva pruebas
+Dios nos envía pruebas
 
 de este tipo
 
@@ -228,31 +228,31 @@ para el ejercicio de
 
 nuestras gracias.
 
-As hay
+Así hay
 
 espacio
 
 para la fe.
 
-Cuando puedes reconocer que tus pruebas provienen de l, no
+Cuando puedes reconocer que tus pruebas provienen de Él, no
 
-puedes desconfiar. Si pudieras entender todo lo que hace, entonces habra
+puedes desconfiar. Si pudieras entender todo lo que hace, entonces habría
 
-espacio para tu juicio ms bien que para tu fe y para tu confianza en Su
+espacio para tu juicio más bien que para tu fe y para tu confianza en Su
 
-juicio. Pero cuando no puedas entenderlo, somtete a l y di: yo s que Dios
+juicio. Pero cuando no puedas entenderlo, sométete a Él y di: “yo sé que Dios
 
-es bueno; he aqu, aunque l me matare, en l esperar; aunque ande en
+es bueno; he aquí, aunque él me matare, en él esperaré; aunque ande en
 
-tinieblas y no vea ninguna luz, con todo, ninguna palabra incrdula saldr de mis
+tinieblas y no vea ninguna luz, con todo, ninguna palabra incrédula saldrá de mis
 
-labios, pues l es bueno y ser bueno, sin importar lo que me suceda. Oh!,
+labios, pues Él es bueno y será bueno, sin importar lo que me suceda”. ˇOh!,
 
 entonces la fe es fe en verdad, una fe que brinda gloria a Dios y proporciona
 
 fortaleza a tu alma.
 
-As hay espacio tambin
+Así hay espacio también
 
 para
 
@@ -260,59 +260,59 @@ la humildad.
 
 El conocimiento
 
-enorgullece, pero el sentimiento de que todo est ms all de nuestro
+enorgullece, pero el sentimiento de que todo está más allá de nuestro
 
 conocimiento, de que estamos desconcertados y que no podemos entender, el
 
 sentido de ignorancia e incapacidad para entender los tratos de Dios, nos hace
 
-humildes y nos sentamos al pie del trono de Jehov.
+humildes y nos sentamos al pie del trono de Jehová.
 
 Amados, yo pienso que
 
-difcilmente hay alguna gracia que el cristiano posea que no reciba mucha ayuda
+difícilmente hay alguna gracia que el cristiano posea que no reciba mucha ayuda
 
 de los abismos de los juicios de Dios. Ciertamente el amor ha sido desarrollado
 
 frecuentemente a un grado excelso de esta manera, pues el alma llega a decir
 
-por fin: No; no voy a preguntar la razn; no deseo conocer la razn; lo amo
+por fin: “No; no voy a preguntar la razón; no deseo conocer la razón; lo amo
 
-tanto que para m la razn es Su voluntad; eso me basta; Jehov es; haga lo que
+tanto que para mí la razón es Su voluntad; eso me basta; Jehová es; haga lo que
 
-bien le pareciere. No amamos a quienes siempre les estamos formulando cargos y
+bien le pareciere”. No amamos a quienes siempre les estamos formulando cargos y
 
 los estamos cuestionando acerca de todo lo que hacen, pero cuando el amor llega
 
-a la perfeccin, lo admira todo y cree que todo es correcto y perfecto. Y as,
+a la perfección, lo admira todo y cree que todo es correcto y perfecto. Y así,
 
-cuando el amor llega a la perfeccin con referencia al sumamente perfecto Dios,
+cuando el amor llega a la perfección con referencia al sumamente perfecto Dios,
 
-es entonces que todo lo que l realiza es endosado sin previo examen; aunque
+es entonces que todo lo que Él realiza es endosado sin previo examen; aunque
 
-todo est cubierto de tinieblas, es credo sin preguntas. Tiene que estar bien,
+todo esté cubierto de tinieblas, es creído sin preguntas. Tiene que estar bien,
 
-pues T, Seor, lo has hecho.
+pues Tú, Seńor, lo has hecho.
 
 Se me ocurren muchas
 
-otras razones por las cuales Dios llama a Su pueblo a sentir as Sus juicios, pero
+otras razones por las cuales Dios llama a Su pueblo a sentir así Sus juicios, pero
 
-solamente dar una y luego voy a dejar este punto. Amados hermanos,
+solamente daré una y luego voy a dejar este punto. Amados hermanos,
 
 tenemos pecados que no podemos sondear,
 
 y,
 
-por tanto, no ha de sorprendernos que tambin tengamos disciplinas que no podamos
+por tanto, no ha de sorprendernos que también tengamos disciplinas que no podamos
 
-sondear. Hay abismos de depravacin dentro de nuestro corazn que llaman a
+sondear. Hay abismos de depravación dentro de nuestro corazón que llaman a
 
-otros abismos, as como un abismo llama a otro, y hay consecuencias del pecado
+otros abismos, así como un abismo llama a otro, y hay consecuencias del pecado
 
 en nuestro interior que no somos capaces de detectar, consecuencias que nos
 
-siguen en secreto, y que nos estn daando en puntos muy vitales. Se necesita
+siguen en secreto, y que nos están dańando en puntos muy vitales. Se necesita
 
 que la medicina sea de un tipo escrutador para que siga a la enfermedad por
 
@@ -322,15 +322,15 @@ Algunos de esos juicios abismales son como secretas medicinas, potentes y
 
 sutiles, que buscan a ciertos diablos secretos que encontraron su camino hasta
 
-las cavernas de nuestro espritu y se han ocultado all. Tal vez una afliccin
+las cavernas de nuestro espíritu y se han ocultado allí. Tal vez una aflicción
 
-entendible tiene el propsito de atraer mi atencin a algn pecado conocido;
+entendible tiene el propósito de atraer mi atención a algún pecado conocido;
 
-pero pudiera ser que la prueba que no puedo entender est propinando golpes
+pero pudiera ser que la prueba que no puedo entender esté propinando golpes
 
-mortales a algn mal mortal, el cual, si no fuera destruido as, podra ser
+mortales a algún mal mortal, el cual, si no fuera destruido así, podría ser
 
-solemnemente perjudicial para mi propio espritu.
+solemnemente perjudicial para mi propio espíritu.
 
 Les dejo este
 
@@ -338,7 +338,7 @@ pensamiento: han de esperar que los juicios de Dios sean algunas veces
 
 insondables.
 
-A continuacin, como los
+A continuación, como los
 
 juicios de Dios son abismo grande:
 
@@ -350,95 +350,95 @@ SON SEGUROS PARA
 
 LA
 
-NAVEGACIN.
+NAVEGACIÓN.
 
 Los barcos nunca se
 
-estrellan contra las rocas cuando navegan en aguas profundas. Los nios tal vez
+estrellan contra las rocas cuando navegan en aguas profundas. Los nińos tal vez
 
-podran imaginar que un mar poco profundo es el ms seguro, pero un viejo
+podrían imaginar que un mar poco profundo es el más seguro, pero un viejo
 
-marinero sabe que no es as. Estando frente a la costa de Irlanda el capitn
+marinero sabe que no es así. Estando frente a la costa de Irlanda el capitán
 
 del barco tiene que mantenerse alerta, pero mientras navega atravesando el
 
-Atlntico, tiene mucho menor peligro. All tiene mucho espacio martimo y no
+Atlántico, tiene mucho menor peligro. Allá tiene mucho espacio marítimo y no
 
-hay por qu tener miedo de arenas movedizas ni de bancos de arena. Cuando el
+hay por qué tener miedo de arenas movedizas ni de bancos de arena. Cuando el
 
-marinero comienza a entrar en el Tmesis, es entonces que descubre que hay
+marinero comienza a entrar en el Támesis, es entonces que descubre que hay
 
 primero un banco de arena y luego otro, y que hay peligro, pero en mar abierto,
 
-donde no toca fondo, est muy poco temeroso.
+donde no toca fondo, está muy poco temeroso.
 
 Noten que lo mismo
 
 sucede con los juicios de Dios. Cuando Dios reparte aflicciones, el cristiano
 
-tiene la navegacin ms segura posible. Cmo!, -dir alguien- acaso la
+tiene la navegación más segura posible. “ˇCómo!”, -dirá alguien- “żacaso la
 
-tribulacin es segura? S, es muy segura. La etapa ms segura de la vida de un
+tribulación es segura?” Sí, es muy segura. La etapa más segura de la vida de un
 
-cristiano es el tiempo de su tribulacin. Cmo, si un hombre est abatido,
+cristiano es el tiempo de su tribulación. “Cómo, si un hombre está abatido,
 
-dices t que est seguro? S, pues entonces no teme caer; cuando est abajo,
+żdices tú que está seguro?” “Sí, pues entonces no teme caer; cuando está abajo,
 
 no necesita temer al orgullo; cuando es humillado bajo la mano de Dios, es
 
-menos propenso a ser arrastrado por cualquier viento de tentacin. Las aguas
+menos propenso a ser arrastrado por cualquier viento de tentación. Las aguas
 
-apacibles en el camino al cielo son siempre una seal de que el alma debe
+apacibles en el camino al cielo son siempre una seńal de que el alma debe
 
-mantenerse muy alerta, pues el peligro est prximo. Uno llega a sentir al
+mantenerse muy alerta, pues el peligro está próximo. Uno llega a sentir al
 
 final un solemne espanto que se adentra sigilosamente en los tiempos de
 
-prosperidad. Temern y temblarn de todo el bien y de toda la paz que yo les
+prosperidad. “Temerán y temblarán de todo el bien y de toda la paz que yo les
 
-har, temiendo no tanto que el bien se esfume como temiendo que hagamos un mal
+haré”, temiendo no tanto que el bien se esfume como temiendo que hagamos un mal
 
-uso de l, y que suframos de una llaga gangrenosa de indolencia o de confianza
+uso de él, y que suframos de una llaga gangrenosa de indolencia o de confianza
 
-en nosotros mismos, o que la mundanalidad crezca en nuestros espritus. Hemos
+en nosotros mismos, o que la mundanalidad crezca en nuestros espíritus. Hemos
 
 visto a muchos cristianos profesantes que han naufragado, y en algunos pocos
 
-casos sto ha sido atribuible a una sobrecogedora afliccin, pero en diez casos
+casos ésto ha sido atribuible a una sobrecogedora aflicción, pero en diez casos
 
 contra uno ha sido atribuible a la prosperidad. Los hombres se hacen ricos, y,
 
-por supuesto, ya no asisten a la pequea capilla a la que asistan
+por supuesto, ya no asisten a la pequeńa capilla a la que asistían
 
-anteriormente, pues ahora tienen que ir a algn lugar donde un mundo elegante
+anteriormente, pues ahora tienen que ir a algún lugar donde un mundo elegante
 
 se congrega para adorar. Los hombres se vuelven ricos, y en seguida no pueden
 
-mantenerse en ese camino de abnegacin que una vez hollaron tan alegremente. El
+mantenerse en ese camino de abnegación que una vez hollaron tan alegremente. El
 
-mundo se ha introducido en sus corazones, y quieren obtener ms. Ya tienen
+mundo se ha introducido en sus corazones, y quieren obtener más. Ya tienen
 
-mucho pero tienen que tener ms. Les ha sobrevenido una insaciable ambicin, y
+mucho pero tienen que tener más. Les ha sobrevenido una insaciable ambición, y
 
-caen, y grande es la afliccin que su cada le provoca a la iglesia; grande es
+caen, y grande es la aflicción que su caída le provoca a la iglesia; grande es
 
-el dao que le hace al pueblo de Dios.
+el dańo que le hace al pueblo de Dios.
 
 Pero hablando del hombre
 
-en problemas, notaron alguna vez a un verdadero hijo de Dios en problemas?
+en problemas, żnotaron alguna vez a un verdadero hijo de Dios en problemas?
 
-Vieron cmo ora? Ahora no puede vivir sin oracin; tiene un peso que tiene que
+żVieron cómo ora? Ahora no puede vivir sin oración; tiene un peso que tiene que
 
-llevar a su Dios, y acude al propiciatorio una y otra vez. Ntenlo bajo la
+llevar a su Dios, y acude al propiciatorio una y otra vez. Nótenlo bajo la
 
-depresin de nimo. Cmo lee ahora su Biblia. No le importa esa literatura ms
+depresión de ánimo. Cómo lee ahora su Biblia. No le importa esa literatura más
 
-ligera que antes lo seduca durante muchas horas. Necesita la slida promesa,
+ligera que antes lo seducía durante muchas horas. Necesita la sólida promesa,
 
-el fuerte alimento del reino de Dios. Notan cmo oye? A ese hombre no le
+el fuerte alimento del reino de Dios. żNotan cómo oye? A ese hombre no le
 
-importan para nada tus flores y tus excelentes piezas de retrica; necesita
+importan para nada tus flores y tus excelentes piezas de retórica; necesita
 
 la Palabra
 
@@ -446,47 +446,47 @@ la Palabra
 
 doctrina desnuda; necesita a Cristo; no puede ser alimentado ahora de caprichos
 
-ni veleidades. Le preocupan muchsimo menos la especulacin teolgica y la
+ni veleidades. Le preocupan muchísimo menos la especulación teológica y la
 
 autoridad eclesial; necesita saber algo acerca del amor eterno, acerca de la
 
-fidelidad sempiterna y de los tratos del Seor de los ejrcitos con las almas
+fidelidad sempiterna y de los tratos del Seńor de los ejércitos con las almas
 
 de Su pueblo, necesita saber del pacto, y de los compromisos de la fianza de
 
-Cristo. Ah!, ste es el hombre que, si lo notan, camina con terneza en el
+Cristo. ˇAh!, éste es el hombre que, si lo notan, camina con terneza en el
 
 mundo. Camina sosteniendo al mundo con una mano muy desprendida. Espera estar a
 
 menudo en el camino, y espera recorrerlo pronto, pues el mundo ha perdido su
 
-atractivo para l.
+atractivo para él.
 
 Yo repito que los
 
-juicios de Dios son un abismo grande, pero son seguros para la navegacin, y,
+juicios de Dios son un abismo grande, pero son seguros para la navegación, y,
 
-bajo la gua y la presencia del Espritu Santo, no slo son seguros sino que
+bajo la guía y la presencia del Espíritu Santo, no sólo son seguros sino que
 
 son provechosos.
 
 Yo cuestiono
 
-grandemente si crecemos mucho en la gracia jams, excepto cuando estamos en el
+grandemente si crecemos mucho en la gracia jamás, excepto cuando estamos en el
 
 horno. Debemos hacerlo. Los gozos de esta vida con los que Dios nos bendice
 
-deberan hacernos crecer en gracia y gratitud, deberan ser un motivo suficiente
+deberían hacernos crecer en gracia y gratitud, deberían ser un motivo suficiente
 
-para la forma ms excelsa de consagracin, pero, como regla general, slo somos
+para la forma más excelsa de consagración, pero, como regla general, sólo somos
 
-conducidos a Cristo mediante una tormenta, quiero decir, la mayora de nosotros.
+conducidos a Cristo mediante una tormenta, quiero decir, la mayoría de nosotros.
 
-Hay benditas y favorables excepciones, pero la mayora de nosotros necesita la
+Hay benditas y favorables excepciones, pero la mayoría de nosotros necesita la
 
-vara, tiene que tenerla, y no pareciramos aprender la obediencia, excepto a
+vara, tiene que tenerla, y no pareciéramos aprender la obediencia, excepto a
 
-travs de la disciplina, de la disciplina del Seor. Aqu dejo ese segundo
+través de la disciplina, de la disciplina del Seńor. Aquí dejo ese segundo
 
 pensamiento.
 
@@ -500,101 +500,101 @@ PERO
 
 OCULTAN UN GRAN TESORO.
 
-Quin sabe lo que
+żQuién sabe lo que
 
-pudiera haber abajo, en esas grandes profundidades? All yacen perlas y hay
+pudiera haber abajo, en esas grandes profundidades? Allí yacen perlas y hay
 
-abundantes objetos preciosos que haran que el ojo del avaro reluciera como una
+abundantes objetos preciosos que harían que el ojo del avaro reluciera como una
 
-estrella. Hay restos de los naufragios de los viejos galeones espaoles,
+estrella. Hay restos de los naufragios de los viejos galeones espańoles,
 
-perdidos hace siglos, y yacen tambin gigantescas minas de riquezas all en las
+perdidos hace siglos, y yacen también gigantescas minas de riquezas allá en las
 
 profundidades.
 
 Y lo mismo sucede con
 
-los abismales juicios de Dios. Qu sabidura est escondida all, y qu tesoros
+los abismales juicios de Dios. Qué sabiduría está escondida allí, y qué tesoros
 
-de amor y de fidelidad, lo que David llama: Tu fidelidad, pues conforme a tu
+de amor y de fidelidad, lo que David llama: “Tu fidelidad”, pues “conforme a tu
 
-fidelidad, -dice- me afligiste. Se ha de ver tanta sabidura en algunas de
+fidelidad”, -dice- “me afligiste”. Se ha de ver tanta sabiduría en algunas de
 
-las abismales aflicciones de Dios, -si slo pudiramos entenderlas veramos
+las abismales aflicciones de Dios, -si sólo pudiéramos entenderlas veríamos
 
-mucha sabidura en ellas- como en la creacin del mundo. Dios golpea a Su
+mucha sabiduría en ellas- como en la creación del mundo. Dios golpea a Su
 
-pueblo artsticamente. No hay nunca un golpe al azar. En la disciplina del
+pueblo artísticamente. No hay nunca un golpe al azar. En la disciplina del
 
-Seor hay un grado maravilloso de habilidad. De aqu que se nos diga que no la
+Seńor hay un grado maravilloso de habilidad. De aquí que se nos diga que no la
 
-despreciemos, lo cual, en su significado ms pleno quiere decir que debemos
+despreciemos, lo cual, en su significado más pleno quiere decir que debemos
 
 honrarla. Nosotros honramos la disciplina de nuestros padres, pero honramos
 
-infinitamente ms la disciplina de Dios. Y aqullos, ciertamente por pocos
+infinitamente más la disciplina de Dios. “Y aquéllos, ciertamente por pocos
 
-das nos disciplinaban como a ellos les pareca, pero ste para lo que nos es
+días nos disciplinaban como a ellos les parecía, pero éste para lo que nos es
 
-provechoso, y hay una manera de disciplinarnos para provecho.
+provechoso”, y hay una manera de disciplinarnos para provecho.
 
 Hermanos, les dije que
 
-haba tesoros escondidos en los grandes abismos que no podemos alcanzar
+había tesoros escondidos en los grandes abismos que no podemos alcanzar
 
-todava, y as tambin en los grandes abismos en los que Dios hace que nos
+todavía, y así también en los grandes abismos en los que Dios hace que nos
 
 desenvolvamos, hay grandes tesoros que no encontramos en el momento presente. Tal
 
-vez todava no recibamos o incluso no percibamos el presente e inmediato
+vez todavía no recibamos o incluso no percibamos el presente e inmediato
 
 beneficio de algunas de nuestras aflicciones. Pudiera no darse un beneficio
 
-inmediato; el beneficio pudiera presentarse ms adelante. La disciplina de
+inmediato; el beneficio pudiera presentarse más adelante. La disciplina de
 
-nuestra juventud pudiera tener por objetivo la madurez de nuestra edad. Bueno
+nuestra juventud pudiera tener por objetivo la madurez de nuestra edad. “Bueno
 
-le es al hombre llevar el yugo desde su juventud. La afliccin de hoy pudiera
+le es al hombre llevar el yugo desde su juventud”. La aflicción de hoy pudiera
 
 no tener ninguna referencia a las circunstancias actuales, sino a las
 
-circunstancias que se presentarn dentro de cincuenta aos. Yo no saba que esa
+circunstancias que se presentarán dentro de cincuenta ańos. Yo no sabía que esa
 
-hierba requera de la lluvia de un da as, pero Dios no estaba viendo a
+hierba requería de la lluvia de un día así, pero Dios no estaba viendo a
 
-Febrero como tal, sino a Febrero en su relacin con Julio, cuando la cosecha
+Febrero como tal, sino a Febrero en su relación con Julio, cuando la cosecha
 
-debe ser cortada. l consideraba la hierba no meramente como una hoja, y en su
+debe ser cortada. Él consideraba la hierba no meramente como una hoja, y en su
 
-presente necesidad, sino como sera en el grano lleno en la espiga.
+presente necesidad, sino como sería en el grano lleno en la espiga.
 
 Hay ciertas marcas que
 
-hace un artista sobre el bloque en que trabaja, cuyo motivo t no puedes ver
+hace un artista sobre el bloque en que trabaja, cuyo motivo tú no puedes ver
 
-todava, que arruinan la aparente semejanza del bloque y del mrmol con la
+todavía, que arruinan la aparente semejanza del bloque y del mármol con la
 
-imagen que sabes que l desea producir, pero luego esas lneas han de ser
+imagen que sabes que él desea producir, pero luego esas líneas han de ser
 
 elaboradas gradualmente. Son ahora bosquejos, pero pronto, cuando las concluya,
 
-sern bellas lneas. Entonces una tribulacin en la actualidad podra incluso
+serán bellas líneas. Entonces una tribulación en la actualidad podría incluso
 
-incapacitarnos para prestar el servicio ahora, e incluso me atrevera a decir
+incapacitarnos para prestar el servicio ahora, e incluso me atrevería a decir
 
-que podra daarnos por aos por venir. Nos hace ir gimiendo con
+que podría dańarnos por ańos por venir. Nos hace ir gimiendo con
 
-quebrantamiento de corazn, nos obliga a ser comparativamente de poco servicio
+quebrantamiento de corazón, nos obliga a ser comparativamente de poco servicio
 
-para la iglesia y sentir muy poco gozo. Pero despus, como lo expresa Pablo, despus,
+para la iglesia y sentir muy poco gozo. Pero después, como lo expresa Pablo, después,
 
-produce apacibles frutos de justicia en quienes son ejercitados por ella. Por
+produce apacibles frutos de justicia en quienes son ejercitados por ella. żPor
 
-qu no dejar que el Seor se tome su tiempo? Por qu tener prisa? Por qu vas
+qué no dejar que el Seńor se tome su tiempo? żPor qué tener prisa? żPor qué vas
 
-a estar codo con codo junto a l dicindole perpetuamente: Explcame sto hoy
+a estar codo con codo junto a Él diciéndole perpetuamente: “Explícame ésto hoy
 
-y mustrame el motivo y la razn de sto en la presente hora? Mil aos a Sus
+y muéstrame el motivo y la razón de ésto en la presente hora”? Mil ańos a Sus
 
 ojos no son sino como el ayer cuando ha pasado, y como una vigilia de la noche.
 
@@ -604,17 +604,17 @@ grandiosos resultados; por tanto, has de estar contento de dejar que los
 
 tesoros permanezcan en el fondo del abismo por un tiempo. Entonces la fe puede
 
-verlos. La fe puede hacer que el abismo sea traslcido hasta descubrir el
+verlos. La fe puede hacer que el abismo sea traslúcido hasta descubrir el
 
-tesoro que yace all, y es tuyo, y aunque no seas capaz en esta hora de ir tras
+tesoro que yace allí, y es tuyo, y aunque no seas capaz en esta hora de ir tras
 
-l, lo tendrs, porque todo es vuestro. Todo lo que est almacenado en el
+él, lo tendrás, “porque todo es vuestro”. Todo lo que está almacenado en el
 
-gran abismo del eterno propsito, o en el abismo del juicio manifiesto, todo lo
+gran abismo del eterno propósito, o en el abismo del juicio manifiesto, todo lo
 
-que est all te pertenece. Por tanto, oh, creyente, regocjate por ello, y
+que está allí te pertenece. Por tanto, oh, creyente, regocíjate por ello, y
 
-deja que permanezca all hasta el tiempo que Dios elija para sacarlo para tu enriquecimiento
+deja que permanezca allí hasta el tiempo que Dios elija para sacarlo para tu enriquecimiento
 
 espiritual.
 
@@ -632,57 +632,57 @@ El abismo grande, aunque
 
 la ignorancia lo considere como un desperdicio, como un sequedal salado y
 
-estril, es una de las mayores bendiciones para este mundo redondo. Si maana el
+estéril, es una de las mayores bendiciones para este mundo redondo. Si mańana “el
 
-mar ya no existiera ms, aunque eso pudiera ser una bendicin algn da, no lo
+mar ya no existiera más”, aunque eso pudiera ser una bendición algún día, no lo
 
-sera hoy, sino que sera la mayor de las maldiciones. Es del mar que surge la
+sería hoy, sino que sería la mayor de las maldiciones. Es del mar que surge la
 
 niebla perpetua que, flotando gradualmente a mitad del aire, al fin desciende
 
 en abundantes aguaceros sobre el collado y sobre el valle para fertilizar la
 
-tierra. El mar es el gran corazn del mundo; podra decir que es la sangre en
+tierra. El mar es el gran corazón del mundo; podría decir que es la sangre en
 
-circulacin del mundo. Hemos de tenerlo; tiene que estar en movimiento; tienen
+circulación del mundo. Hemos de tenerlo; tiene que estar en movimiento; tienen
 
 que sentirse sus mareas, como un pulso gigante, o la vitalidad del mundo
 
-cesara. No hay desperdicio en el mar; todo es necesario. Tiene que estar all;
+cesaría. No hay desperdicio en el mar; todo es necesario. Tiene que estar allí;
 
 no hay una sola gota que sea innecesaria.
 
-Lo mismo sucede con
+ˇLo mismo sucede con
 
 nuestras aflicciones que son Tus juicios, oh Dios! Son necesarias para nuestra
 
-vida, para la salud de nuestra alma, para nuestro vigor espiritual. Por todas
+vida, para la salud de nuestra alma, para nuestro vigor espiritual. “Por todas
 
-estas cosas dijo alguien antao- los hombres vivirn, y en todas ellas est
+estas cosas” –dijo alguien antańo- “los hombres vivirán, y en todas ellas está
 
-la vida de mi espritu. Surgiendo de mi afliccin est la niebla constante que
+la vida de mi espíritu”. Surgiendo de mi aflicción está la niebla constante que
 
-posteriormente se transforma en un roco sagrado que humedece mi vida. Bueno
+posteriormente se transforma en un rocío sagrado que humedece mi vida. “Bueno
 
-me es haber sido humillado, dice David. Amn!, dicen todos los que estn
+me es haber sido humillado”, dice David. “ˇAmén!”, dicen todos los que están
 
-siendo afligidos. Mil lechos de enfermo darn testimonio de la bienaventuranza
+siendo afligidos. Mil lechos de enfermo darán testimonio de la bienaventuranza
 
-de la tribulacin. Mil prdidas y mil cruces que han sido soportadas por los
+de la tribulación. Mil pérdidas y mil cruces que han sido soportadas por los
 
-fieles, ayudan ahora a conformar la dulzura de la armona de los himnos
+fieles, ayudan ahora a conformar la dulzura de la armonía de los himnos
 
-sempiternos en la tierra de los bienaventurados. Oh, bendita cruz!, -dijo
+sempiternos en la tierra de los bienaventurados. “ˇOh, bendita cruz!”, -dijo
 
-alguien; tengo miedo de llegar a amarte demasiado; es tan bueno ser
+alguien; “ˇtengo miedo de llegar a amarte demasiado; es tan bueno ser
 
-afligido! Que Dios nos conceda que en todo momento, en lugar de tratar de
+afligido!” Que Dios nos conceda que en todo momento, en lugar de tratar de
 
-sondear el abismo, podamos entender que es til para nosotros y que estemos
+sondear el abismo, podamos entender que es útil para nosotros y que estemos
 
 contentos.
 
-Por ltimo, si los
+Por último, si los
 
 juicios de Dios son abismo grande:
 
@@ -690,145 +690,145 @@ V.
 
 ENTONCES
 
-SE CONVIERTEN EN UNA AUTOPISTA DE COMUNIN CON L.
+SE CONVIERTEN EN UNA AUTOPISTA DE COMUNIÓN CON ÉL.
 
-Nosotros pensbamos en
+Nosotros pensábamos en
 
 un tiempo que el abismo de los mares separaba a los diferentes pueblos; que las
 
-naciones eran mantenidas dispersas por el mar; pero, he aqu!, el mar es hoy
+naciones eran mantenidas dispersas por el mar; pero, ˇhe aquí!, el mar es hoy
 
 la gran autopista del mundo. Los veloces barcos lo atraviesan con sus blancas
 
-velas, o con sus palpitantes mquinas se desplazan raudos surcando las olas. El
+velas, o con sus palpitantes máquinas se desplazan raudos surcando las olas. El
 
-mar es el gran canal del mundo, un poderoso canal de comunicacin.
+mar es el gran canal del mundo, un poderoso canal de comunicación.
 
-Y as, hermanos,
+Y así, hermanos,
 
-nuestras aflicciones que en nuestra ignorancia pensbamos que nos habran de
+nuestras aflicciones –que en nuestra ignorancia pensábamos que nos habrían de
 
-separar de nuestro Dios- son la autopista a travs de la cual nos podemos
+separar de nuestro Dios- son la autopista a través de la cual nos podemos
 
-acercar ms a Dios de lo hubiramos podido hacerlo de otra manera. Los que
+acercar más a Dios de lo hubiéramos podido hacerlo de otra manera. Los que
 
 descienden al mar en naves, y hacen negocio en las muchas aguas, han visto las
 
-obras de Jehov y Sus maravillas en las profundidades. Ustedes que se quedan
+obras de Jehová y Sus maravillas en las profundidades. Ustedes que se quedan
 
-cerca de la costa y que slo tienen pequeas pruebas, no son candidatos a conocer
+cerca de la costa y que sólo tienen pequeńas pruebas, no son candidatos a conocer
 
-mucho de Sus maravillas en las profundidades; pero si estn destinados a salir
+mucho de Sus maravillas en las profundidades; pero si están destinados a salir
 
 a alta mar, donde un abismo llama a otro, y el ruido de las cascadas de Dios
 
-deja estupefacto al marinero espiritual, es entonces cuando vern las
+deja estupefacto al marinero espiritual, es entonces cuando verán las
 
 maravillas de Dios: maravillas de fidelidad, maravillas de poder, maravillas de
 
-sabidura y maravillas de amor. Las vern y se regocijarn al verlas. Esas
+sabiduría y maravillas de amor. Las verán y se regocijarán al verlas. Esas
 
-tribulaciones sern como carros de fuego que los llevarn a Dios. Tus
+tribulaciones serán como carros de fuego que los llevarán a Dios. Tus
 
-aflicciones, ola sobra ola, habrn de baar a tu alma como una barca sacudida
+aflicciones, ola sobra ola, habrán de bańar a tu alma como una barca sacudida
 
-por la tempestad, y la pondrn ms cerca del cielo. Oh, es algo bendito cuando
+por la tempestad, y la pondrán más cerca del cielo. ˇOh, es algo bendito cuando
 
-los juicios de Dios nos acercan a l! El viejo Quarles tuvo la curiosa idea de
+los juicios de Dios nos acercan a Él! El viejo Quarles tuvo la curiosa idea de
 
-imaginar a Dios como blandiendo un ltigo en juicio, y deca que si quisieras
+imaginar a Dios como blandiendo un látigo en juicio, y decía que si quisieras
 
-apartarte de l, deberas acercarte a Sus manos y entonces estaras fuera del
+apartarte de él, deberías acercarte a Sus manos y entonces estarías fuera del
 
-alcance del golpe. Acrcate a Dios y l no te golpear; acrcate a Dios y la
+alcance del golpe. Acércate a Dios y Él no te golpeará; acércate a Dios y la
 
-tribulacin cesar.
+tribulación cesará.
 
 Ustedes saben que las
 
 tribulaciones son algunas veces pesos que mantienen a los hombres abajo, pero
 
-ustedes han visto muchas mquinas en las que un peso que desciende levanta a
+ustedes han visto muchas máquinas en las que un peso que desciende levanta a
 
 otro peso, y por fe hay un modo de ajustar las consagradas poleas de tal manera
 
-que los propios pesos de tu afliccin pueden alzarte ms cerca de Dios. El
+que los propios pesos de tu aflicción pueden alzarte más cerca de Dios. El
 
-pjaro que tiene un cordel y una piedra atados a sus patas no puede volar, y
+pájaro que tiene un cordel y una piedra atados a sus patas no puede volar, y
 
-sin embargo, hay una manera que Dios tiene de hacer que Sus pjaros vuelen aun
+sin embargo, hay una manera que Dios tiene de hacer que Sus pájaros vuelen aun
 
-cuando estn atados al suelo. Nunca se remontaron mientras no tuvieron algo que
+cuando estén atados al suelo. Nunca se remontaron mientras no tuvieron algo que
 
 los atrajera hacia el suelo; nunca ascendieron mientras no fueron compelidos a
 
-descender. Encontraron las puertas del cielo, no all arriba, sino aqu abajo.
+descender. Encontraron las puertas del cielo, no allá arriba, sino aquí abajo.
 
-Entre ms se hundieron en la autoestima, ms se acercaron al Dios eterno que es
+Entre más se hundieron en la autoestima, más se acercaron al Dios eterno que es
 
 el fundamento de todas las cosas.
 
-As, hermanos, les he
+Así, hermanos, les he
 
-presentado el ltimo pensamiento; que el Espritu Santo los conduzca a
+presentado el último pensamiento; que el Espíritu Santo los conduzca a
 
-apropiarse de l. Que los juicios profundos de Dios los lleven a una comunin
+apropiarse de él. Que los juicios profundos de Dios los lleven a una comunión
 
-ms profunda.
+más profunda.
 
 Amado hijo de Dios, a ti
 
-que ests sumido en la afliccin esta noche, la voz de esa afliccin te dice:
+que estás sumido en la aflicción esta noche, la voz de esa aflicción te dice:
 
-acrcate a Dios; acrcate a Dios. Dios te ha favorecido, te ha favorecido con
+acércate a Dios; acércate a Dios. Dios te ha favorecido, te ha favorecido con
 
-medios extraordinarios de crecimiento en la gracia. Para usar el smil de
+medios extraordinarios de crecimiento en la gracia. Para usar el símil de
 
-Rutherford: l te ha puesto abajo en la cava de vinos en la oscuridad. Comienza
+Rutherford: Él te ha puesto abajo en la cava de vinos en la oscuridad. Comienza
 
 ahora a degustar los vinos purificados. Alcanza ahora los preciosos tesoros de
 
-la oscuridad. l te ha llevado a un desierto de arena; comienza ahora a buscar
+la oscuridad. Él te ha llevado a un desierto de arena; comienza ahora a buscar
 
-los tesoros que estn enterrados en la arena. Has de creer que las ms
+los tesoros que están enterrados en la arena. Has de creer que las más
 
-profundas aflicciones son siempre vecinas de los ms excelsos gozos, y que los
+profundas aflicciones son siempre vecinas de los más excelsos gozos, y que los
 
-mayores privilegios posibles yacen muy cerca de las ms oscuras tribulaciones.
+mayores privilegios posibles yacen muy cerca de las más oscuras tribulaciones.
 
-Si debido a que tu afliccin es ms amarga ahora, tu cntico ser ms potente al
+Si debido a que tu aflicción es más amarga ahora, tu cántico será más potente al
 
-final, hay una razn para esa afliccin, y la fe puede descubrir esa razn y la
+final, hay una razón para esa aflicción, y la fe puede descubrir esa razón y la
 
 experiencia puede vivir de ella.
 
 Que Dios bendiga a los
 
-atribulados aqu presentes. Pero hay algunas personas aqu, tal vez, que estn
+atribulados aquí presentes. Pero hay algunas personas aquí, tal vez, que están
 
-sumidas en alguna afliccin y no tienen a ningn Dios a quien recurrir. Pobres
+sumidas en alguna aflicción y no tienen a ningún Dios a quien recurrir. ˇPobres
 
-almas! Pobre almas! Ser pobres, y no tener a Dios! Estar enfermas, y no
+almas! ˇPobre almas! ˇSer pobres, y no tener a Dios! ˇEstar enfermas, y no
 
-tener a Dios! Tener una vida de trabajo pesado, y no tener ningn cielo! Una
+tener a Dios! ˇTener una vida de trabajo pesado, y no tener ningún cielo! ˇUna
 
 esclavitud de penuria en la tierra, y luego ser conducidas para siempre lejos
 
-de la presencia de Dios! Oh, cun dignas de compasin! Tnganse conmiseracin,
+de la presencia de Dios! ˇOh, cuán dignas de compasión! Ténganse conmiseración,
 
-y recuerden que no es necesario que sea as siempre. Pueden tener un cielo;
+y recuerden que no es necesario que sea así siempre. Pueden tener un cielo;
 
-pueden tener una bienaventuranza presente. sto dice el Evangelio: El que
+pueden tener una bienaventuranza presente. Ésto dice el Evangelio: “El que
 
-creyere y fuere bautizado, ser salvo. Oh!, si slo confiaras en Aquel que se
+creyere y fuere bautizado, será salvo”. ˇOh!, si sólo confiaras en Aquel que se
 
-desangr en el madero, tendras consuelo para tu presente tribulacin; tendras
+desangró en el madero, tendrías consuelo para tu presente tribulación; tendrías
 
-perdn para tu pecado pasado, presente y futuro. Que el Seor bendiga a cada
+perdón para tu pecado pasado, presente y futuro. Que el Seńor bendiga a cada
 
-uno de ustedes, por Cristo nuestro Seor. Amn.
+uno de ustedes, por Cristo nuestro Seńor. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 23/Junio/2011
 

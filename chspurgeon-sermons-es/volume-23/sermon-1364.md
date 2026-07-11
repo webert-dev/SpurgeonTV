@@ -1,92 +1,92 @@
 # Sermón 1364 | Sermón 1364
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Pero De Aqu a
+Pero… De Aquí a
 
 Poco.
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Jess le dijo:
+“Jesús le dijo:
 
-T lo has dicho; pero an les digo que vern de aqu a poco al hijo del hombre
+Tú lo has dicho; pero aún les digo que verán de aquí a poco al hijo del hombre
 
 sentado a la derecha del Poder de la virtud de Dios, y venir en las nubes del
 
-cielo. Mateo 26: 64. Biblia Americana San Jernimo.
+cielo”. Mateo 26: 64. Biblia Americana San Jerónimo.
 
-Jess le
+“Jesús le
 
-dijo: T lo has dicho; y adems os digo, que desde ahora veris al Hijo del
+dijo: Tú lo has dicho; y además os digo, que desde ahora veréis al Hijo del
 
-Hombre sentado a la diestra del poder de Dios, y viniendo en la nubes del cielo.
+Hombre sentado a la diestra del poder de Dios, y viniendo en la nubes del cielo”.
 
 Mateo 26: 64. Reina Valera 60.
 
-Nuestro Seor guardaba
+Nuestro Seńor guardaba
 
 silencio ante Sus enemigos en defensa propia a la vez que amonestaba fielmente
 
 y declaraba osadamente la verdad. El Suyo era el silencio de la paciencia, no
 
-el de la indiferencia; era el silencio de la valenta, no el de la cobarda. Est
+el de la indiferencia; era el silencio de la valentía, no el de la cobardía. Está
 
-escrito que dio testimonio de la buena profesin delante de Poncio Pilato, y
+escrito que “dio testimonio de la buena profesión delante de Poncio Pilato”, y
 
-esa afirmacin puede aplicarse muy bien a Sus declaraciones ante Caifs, pues
+esa afirmación puede aplicarse muy bien a Sus declaraciones ante Caifás, pues
 
-all no guard silencio cuando se trataba de confesar la verdad necesaria. Si
+allí no guardó silencio cuando se trataba de confesar la verdad necesaria. Si
 
-leen el captulo que estamos analizando, notarn que el sumo sacerdote le
+leen el capítulo que estamos analizando, notarán que el sumo sacerdote le
 
-conjur diciendo: Eres t el Cristo, el Hijo de Dios? A lo cual l respondi
+conjuró diciendo: “żEres tú el Cristo, el Hijo de Dios?” A lo cual Él respondió
 
-de inmediato: T lo has dicho. No neg Su condicin de Mesas; aleg ser el
+de inmediato: “Tú lo has dicho”. No negó Su condición de Mesías; alegó ser el
 
-Prometido, el Mensajero del cielo, Cristo, el ungido del Altsimo. Tampoco neg
+Prometido, el Mensajero del cielo, Cristo, el ungido del Altísimo. Tampoco negó
 
-ni por un instante Su Deidad personal: reconoci y confes que l era el Hijo
+ni por un instante Su Deidad personal: reconoció y confesó que Él era el Hijo
 
-de Dios. Cmo poda guardar silencio si estaba siendo cuestionado un punto tan
+de Dios. żCómo podía guardar silencio si estaba siendo cuestionado un punto tan
 
-vital relacionado con Su persona? No los mantuvo en suspenso, sino que declar
+vital relacionado con Su persona? No los mantuvo en suspenso, sino que declaró
 
-abiertamente Su Deidad diciendo: Yo soy, pues esas son Sus palabras
+abiertamente Su Deidad diciendo: “Yo soy”, pues esas son Sus palabras
 
-reportadas por uno de los evangelistas. Luego procedi a revelar el solemne hecho
+reportadas por uno de los evangelistas. Luego procedió a revelar el solemne hecho
 
-de que pronto estara sentado a la diestra de Dios, el Padre. En palabras de
+de que pronto estaría sentado a la diestra de Dios, el Padre. En palabras de
 
-nuestro texto declar que quienes le estaban condenando le veran glorificado,
+nuestro texto declaró que quienes le estaban condenando le verían glorificado,
 
-y a su debido tiempo compareceran ante Su tribunal cuando viniera en las nubes
+y a su debido tiempo comparecerían ante Su tribunal cuando viniera en las nubes
 
-del cielo para juzgar a vivos y muertos, segn nuestro Evangelio. Vean,
+del cielo para juzgar a vivos y muertos, según nuestro Evangelio. Vean,
 
-entonces, queridos hermanos, cmo son tan claramente expuestas por nuestro
+entonces, queridos hermanos, cómo son tan claramente expuestas por nuestro
 
-Seor Jess, en unas cuantas palabras, las grandes verdades de nuestra santa
+Seńor Jesús, en unas cuantas palabras, las grandes verdades de nuestra santa
 
-religin: aleg ser el Cristo de Dios y el Hijo de Dios, y, por implicacin, Su
+religión: alegó ser el Cristo de Dios y el Hijo de Dios, y, por implicación, Su
 
-breve declaracin habla de la muerte, de la sepultura y de la resurreccin de
+breve declaración habla de la muerte, de la sepultura y de la resurrección de
 
-Jess, y de Su entronizacin a la diestra de Dios en el poder del Padre, y
+Jesús, y de Su entronización a la diestra de Dios en el poder del Padre, y
 
 habla de Su pronta venida en Su segundo advenimiento glorioso para juzgar al
 
-mundo en justicia. La confesin de nuestro Seor fue muy completa, y dichoso
+mundo en justicia. La confesión de nuestro Seńor fue muy completa, y dichoso
 
-aqul que la abrace de todo corazn.
+aquél que la abrace de todo corazón.
 
-Tengo el propsito de
+Tengo el propósito de
 
 considerar detenidamente tres palabras o locuciones claves en torno a las
 
@@ -94,129 +94,129 @@ cuales se concentra todo un mundo de pensamiento solemne y alentador. La
 
 primera palabra es:
 
-pero,
+“pero”,
 
 y la
 
-segunda locucin es:
+segunda locución es:
 
-de aqu a poco;
+“de aquí a poco”;
 
-sabrn
+sabrán
 
-posteriormente cul es la tercera, pero no en este momento.
+posteriormente cuál es la tercera, pero no en este momento.
 
 I.
 
-Pero,
+“Pero”,
 
-dijo Cristo, an les digo que vern de aqu a poco al hijo del hombre sentado
+dijo Cristo, “aún les digo que verán de aquí a poco al hijo del hombre sentado
 
-a la derecha del Poder de la virtud de Dios y venir en las nubes del cielo. sta,
+a la derecha del Poder de la virtud de Dios y venir en las nubes del cielo”. Ésta,
 
-entonces, es la cuerda de la que vamos a extraer la msica.
+entonces, es la cuerda de la que vamos a extraer la música.
 
-Pero
+“Pero”
 
 o
 
-slo que,
+“sólo que”,
 
 son expresiones adversativas que significan que la
 
-verdad no es nunca menos segura debido a la oposicin. Pero, es decir, que la
+verdad no es nunca menos segura debido a la oposición. “Pero”, es decir, que la
 
-verdad no ceder ni un pice a pesar de todo lo que digan o hagan en su contra.
+verdad no cederá ni un ápice a pesar de todo lo que digan o hagan en su contra.
 
-Jess se sentar con seguridad a la diestra del poder y en el tiempo
+Jesús se sentará con seguridad a la diestra del poder y en el tiempo
 
-establecido vendr en las nubes del cielo. Detengmonos unos momentos en este
+establecido vendrá en las nubes del cielo. Detengámonos unos momentos en este
 
-importante hecho: que la verdad no es menos cierta debido a la oposicin de los
+importante hecho: que la verdad no es menos cierta debido a la oposición de los
 
 hombres y de los demonios.
 
 Observen, primero, que
 
-la condicin del Salvador cuando hizo uso de
+la condición del Salvador cuando hizo uso de
 
-la palabra: pero no era ninguna prueba de que no ascendera al poder.
+la palabra: “pero” no era ninguna prueba de que no ascendería al poder.
 
-All
+Allí
 
-estaba l, un pobre varn indefenso y macilento que acababa de ser sustrado de
+estaba Él, un pobre varón indefenso y macilento que acababa de ser sustraído de
 
 la vigilia nocturna y su sudor sangriento.
 
 Era
 
-el espectculo de un sufrimiento manso y humilde,
+el espectáculo de un sufrimiento manso y humilde,
 
 siendo conducido por Sus
 
 captores cual cordero al matadero sin que hubiera uno que dijera una palabra en
 
-favor Suyo. Estaba rodeado de quienes le odiaban y haba sido abandonado por
+favor Suyo. Estaba rodeado de quienes le odiaban y había sido abandonado por
 
 Sus amigos. Escribas, fariseos, sacerdotes, todos ellos estaban sedientos de la
 
-sangre de Su corazn. Un cordero en medio de lobos no es sino un dbil smil de
+sangre de Su corazón. Un cordero en medio de lobos no es sino un débil símil de
 
-Cristo al momento de comparecer ante el Sanedrn guardando un paciente
+Cristo al momento de comparecer ante el Sanedrín guardando un paciente
 
-silencio. Y, con todo, aunque Su condicin presente pareca contradecirle,
+silencio. Y, con todo, aunque Su condición presente parecía contradecirle,
 
-Aquel que era el testigo fiel y verdadero habl verazmente cuando testific: Pero
+Aquel que era el testigo fiel y verdadero habló verazmente cuando testificó: “Pero
 
-an les digo que vern de aqu a poco al hijo del hombre sentado a la derecha
+aún les digo que verán de aquí a poco al hijo del hombre sentado a la derecha
 
 del Poder de la virtud de Dios y venir en las nubes del cielo. A pesar de mi
 
-vergenza y sufrimiento presentes, as suceder.
+vergüenza y sufrimiento presentes, así sucederá”.
 
-l se asigna ese modesto
+Él se asigna ese modesto
 
-y humilde ttulo de Hijo del hombre como si fuera el que mejor indicaba Su
+y humilde título de Hijo del hombre como si fuera el que mejor indicaba Su
 
-condicin en aquel momento. Vern de aqu a poco al hijo del hombre sentado a
+condición en aquel momento. “Verán de aquí a poco al hijo del hombre sentado a
 
-la derecha del Poder de la virtud de Dios, y venir en las nubes del cielo. La
+la derecha del Poder de la virtud de Dios, y venir en las nubes del cielo”. La
 
-humillacin de Cristo no pona en peligro en lo ms mnimo Su gloria posterior.
+humillación de Cristo no ponía en peligro en lo más mínimo Su gloria posterior.
 
-Sus sufrimientos, Su vergenza y Su muerte, no hacan menos cierto que ascendera
+Sus sufrimientos, Su vergüenza y Su muerte, no hacían menos cierto que ascendería
 
-a Su trono. Tampoco los reparos de Sus oponentes le impedan ni por un instante
+a Su trono. Tampoco los reparos de Sus oponentes le impedían ni por un instante
 
 ocupar Su lugar de honor. Yo deseo que recuerden esto, pues hay un gran
 
-principio involucrado en ello. Hay muchas personas de mente dbil que no pueden
+principio involucrado en ello. Hay muchas personas de mente débil que no pueden
 
 tomar partido por la verdad perseguida, ni pueden aceptar otra cosa que no sea
 
-la forma de religin ms popular y de moda. No se atreven a estar del lado de
+la forma de religión más popular y de moda. No se atreven a estar del lado de
 
 la verdad cuando los hombres la escupen en su rostro y la abofetean y la cubren
 
-de desprecio; pero la verdad saldr victoriosa aunque los cobardes la abandonen
+de desprecio; pero la verdad saldrá victoriosa aunque los cobardes la abandonen
 
-y los hombres de falso corazn se opongan a ella. Aunque compareciera sola ante
+y los hombres de falso corazón se opongan a ella. Aunque compareciera sola ante
 
 el tribunal del mundo como una culpable a ser condenada -aunque no recibiera
 
-nada sino un abucheo universal de execracin humana- con todo, si se trata de
+nada sino un abucheo universal de execración humana- con todo, si se trata de
 
-la verdad, puede ser condenada, pero ser justificada; puede ser sepultada,
+la verdad, puede ser condenada, pero será justificada; puede ser sepultada,
 
-pero resucitar; puede ser rechazada, pero ser glorificada tal como le sucedi
+pero resucitará; puede ser rechazada, pero será glorificada tal como le sucedió
 
-al Cristo de Dios. Quin se avergonzara de la verdad en algn momento
+al Cristo de Dios. żQuién se avergonzaría de la verdad en algún momento
 
-sabiendo cun preciosa es? Quin va a temblar por causa de la presente
+sabiendo cuán preciosa es? żQuién va a temblar por causa de la presente
 
-oposicin si anticipa qu es lo que pasar con ella? Cun sublime espectculo:
+oposición si anticipa qué es lo que pasará con ella? Cuán sublime espectáculo:
 
-el varn de dolores comparece ante
+el varón de dolores comparece ante
 
 Sus crueles jueces
 
@@ -224,293 +224,293 @@ revestido
 
 de debilidad, de pobreza y desprecio, pero al mismo tiempo es
 
-heredero de todas las cosas y est destinado a sentarse a la diestra del poder
+heredero de todas las cosas y está destinado a sentarse a la diestra del poder
 
 y a venir en las nubes del cielo.
 
-Y no podemos pensar nicamente
+Y no podemos pensar únicamente
 
-en Su condicin de hombre despreciado y rechazado, pues en el juicio que le
+en Su condición de hombre despreciado y rechazado, pues en el juicio que le
 
-seguan era acusado de un grave mal y estaba a punto de ser
+seguían era acusado de un grave mal y estaba a punto de ser
 
-condenado por las autoridades eclesisticas.
+condenado por las autoridades eclesiásticas.
 
 Los escribas expertos en la ley declararon que blasfemaba, y los
 
-sacerdotes, conocedores de las ordenanzas de Dios, clamaron: Quita de la
+sacerdotes, conocedores de las ordenanzas de Dios, clamaron: “Quita de la
 
-tierra a tal hombre, porque no conviene que viva. El propio sumo sacerdote
+tierra a tal hombre, porque no conviene que viva”. El propio sumo sacerdote
 
-haba dado el consejo diciendo que convena que l fuera condenado a muerte.
+había dado el consejo diciendo que convenía que Él fuera condenado a muerte.
 
-Acaso no es algo muy serio que todas las autoridades eclesisticas estn en tu
+żAcaso no es algo muy serio que todas las autoridades eclesiásticas estén en tu
 
-contra y que sean unnimes en tu condenacin? S, en verdad, y puede provocar
+contra y que sean unánimes en tu condenación? Sí, en verdad, y puede provocar
 
-un gran examen de corazn pues ningn hombre pacfico desea estar en oposicin
+un gran examen de corazón pues ningún hombre pacífico desea estar en oposición
 
-a la autoridad constituida, antes bien, preferira ser merecedor de una buena
+a la autoridad constituida, antes bien, preferiría ser merecedor de una buena
 
-palabra de aquellos que se sientan en la ctedra de Moiss. Pero esa no fue la
+palabra de aquellos que se sientan en la cátedra de Moisés. Pero esa no fue la
 
-ltima vez que las autoridades eclesisticas establecidas estaban equivocadas y
+última vez que las autoridades eclesiásticas establecidas estaban equivocadas y
 
 gravemente equivocadas. Estaban condenando al inocente y blasfemando en contra
 
-del Seor del cielo. Y no era sta, digo, la ltima vez que la mitra y la
+del Seńor del cielo. Y no era ésta, digo, la última vez que la mitra y la
 
-sotana han estado del lado del cruel error; con todo, eso no despoj a nuestro
+sotana han estado del lado del cruel error; con todo, eso no despojó a nuestro
 
-Salvador de Su condicin de Cristo, ni le rob Su deidad o Su trono. Sobre ese
+Salvador de Su condición de Cristo, ni le robó Su deidad o Su trono. Sobre ese
 
 mismo principio la historia humana trae ante nosotros una abundancia de
 
-ejemplos en los que si bien los escribas, sacerdotes, obispos, pontfices y
+ejemplos en los que si bien los escribas, sacerdotes, obispos, pontífices y
 
-papas condenaron a la verdad, ella no slo segua siendo muy segura sino que se
+papas condenaron a la verdad, ella no sólo seguía siendo muy segura sino que se
 
-volvi tan triunfante como tena el derecho de serlo. All est el varn solitario
+volvió tan triunfante como tenía el derecho de serlo. Allá está el varón solitario
 
-y en torno Suyo estn todos los grandes -hombres de autoridad y reputacin, de santidad
+y en torno Suyo están todos los grandes -hombres de autoridad y reputación, de santidad
 
-y de pompa- y ellos unnimemente niegan que l pueda sentarse jams a la
+y de pompa- y ellos unánimemente niegan que Él pueda sentarse jamás a la
 
-diestra de Dios: Pero, a pesar de todo, afirma l, vern de aqu a poco al
+diestra de Dios: “Pero, a pesar de todo”, afirma Él, “verán de aquí a poco al
 
-hijo del hombre sentado a la derecha del Poder. l dijo la verdad: Su
+hijo del hombre sentado a la derecha del Poder”. Él dijo la verdad: Su
 
-declaracin ha sido cumplida de manera sumamente gloriosa hasta la fecha. De
+declaración ha sido cumplida de manera sumamente gloriosa hasta la fecha. De
 
-igual manera Su triunfante carro de salvacin habr de rodar sobre el cuello de
+igual manera Su triunfante carro de salvación habrá de rodar sobre el cuello de
 
-clrigos, sacerdotes, pontfices y papas, y la verdad se impondr la sencilla
+clérigos, sacerdotes, pontífices y papas, y la verdad se impondrá –la sencilla
 
-verdad de Su glorioso Evangelio- a pesar de todos ellos, y reinar sobre los
+verdad de Su glorioso Evangelio- a pesar de todos ellos, y reinará sobre los
 
 hijos de los hombres.
 
 Y eso no es todo. En
 
-aquel momento nuestro Seor se encontraba rodeado
+aquel momento nuestro Seńor se encontraba rodeado
 
-por aquellos que posean el poder terrenal.
+por aquellos que poseían el poder terrenal.
 
 Pilato prestaba
 
-atencin a los sacerdotes y Pilato contaba con el respaldo de las legiones romanas.
+atención a los sacerdotes y Pilato contaba con el respaldo de las legiones romanas.
 
-Quin podra resistir tal combinacin de fuerzas? La astucia y la autoridad
+żQuién podría resistir tal combinación de fuerzas? La astucia y la autoridad
 
-forman una terrible alianza. Uno de los discpulos desenvain una espada, pero
+forman una terrible alianza. Uno de los discípulos desenvainó una espada, pero
 
-justo en el momento en que nuestro Seor compareca ante el Sanedrn, ese mismo
+justo en el momento en que nuestro Seńor comparecía ante el Sanedrín, ese mismo
 
-guerrero caballeroso le negaba, as que toda la fuerza fsica estaba del lado
+guerrero caballeroso le negaba, así que toda la fuerza física estaba del lado
 
-de ellos. Como hombre, l estaba indefenso mientras compareca atado ante el
+de ellos. Como hombre, Él estaba indefenso mientras comparecía atado ante el
 
 concilio. No estoy hablando ahora del poder omnipotente que la fe sabe que
 
-moraba en l; pero en cuanto al poder humano, Su debilidad haba llegado al
+moraba en Él; pero en cuanto al poder humano, Su debilidad había llegado al
 
-colmo. Su causa pareca haber llegado al punto ms bajo. No haba nadie que se
+colmo. Su causa parecía haber llegado al punto más bajo. No había nadie que se
 
-alzara en Su defensa, es ms, no haba nadie que hablara en favor Suyo, pues
+alzara en Su defensa, es más, no había nadie que hablara en favor Suyo, pues
 
-Su generacin, quin la contar? Y con todo, a pesar de todo eso, e incluso
+“Su generación, żquién la contará?” Y con todo, a pesar de todo eso, e incluso
 
-debido a eso, ascendi hasta sentarse a la diestra del poder, y vendr en las
+debido a eso, ascendió hasta sentarse a la diestra del poder, y vendrá en las
 
-nubes del cielo. Entonces si llega a suceder alguna vez, hermano mo, que t
+nubes del cielo. Entonces si llega a suceder alguna vez, hermano mío, que tú
 
 seas un solitario abogado de una verdad olvidada, si, en toda tu debilidad y
 
-endeblez, mi Seor te pusiera alguna vez en medio de los valientes y de los
+endeblez, mi Seńor te pusiera alguna vez en medio de los valientes y de los
 
-fuertes, no tengas miedo ni tiembles, pues la posesin del poder no es sino una
+fuertes, no tengas miedo ni tiembles, pues la posesión del poder no es sino una
 
-nimiedad comparada con la posesin de la verdad, y quien tiene la razn puede
+nimiedad comparada con la posesión de la verdad, y quien tiene la razón puede
 
-desafiar al poder del mundo sin ningn riesgo. Habr de vencer y conquistar sin
+desafiar al poder del mundo sin ningún riesgo. Habrá de vencer y conquistar sin
 
-importar que los prncipes y los poderes existentes acopien la fuerza y la astucia
+importar que los príncipes y los poderes existentes acopien la fuerza y la astucia
 
-que prefieran. Sin embargo, Jess vence aunque todo el poder est en contra
+que prefieran. Sin embargo, Jesús vence aunque todo el poder esté en contra
 
-Suya, y tambin lo har la verdad que l representa pues est dotada de un
+Suya, y también lo hará la verdad que Él representa pues está dotada de un
 
 poder oculto que desconcierta a todos sus oponentes.
 
 Tampoco se trataba
 
-simplemente de todo el poder; haba
+simplemente de todo el poder; había
 
 una
 
-gran cantidad de rabia furiosa contra l.
+gran cantidad de rabia furiosa contra Él.
 
-Cmo le habl ese Caifs! Te
+ˇCómo le habló ese Caifás! “Te
 
-conjuro dijo- por el Dios viviente. Y despus que l habl, rasga indignado
+conjuro” –dijo- “por el Dios viviente”. Y después que Él habló, rasga indignado
 
-sus vestiduras y su ira arde cual fuego; pero el Cristo est muy tranquilo, el
+sus vestiduras y su ira arde cual fuego; pero el Cristo está muy tranquilo, el
 
-Cordero de Dios est impasible, y mirando a Su adversario a la cara, dice:
+Cordero de Dios está impasible, y mirando a Su adversario a la cara, dice:
 
-Pero an les digo que vern de aqu a poco al hijo del hombre sentado a la
+“Pero aún les digo que verán de aquí a poco al hijo del hombre sentado a la
 
-derecha del Poder de la virtud de Dios y venir en las nubes del cielo. l era
+derecha del Poder de la virtud de Dios y venir en las nubes del cielo”. Él era
 
 fuerte y por consiguiente estaba tranquilo; estaba confiado y por lo tanto
 
 estaba lleno de paz; estaba plenamente seguro, y por lo tanto, era paciente.
 
-Poda esperar, puesto que crea; y Su profeca era verdadera a pesar de la
+Podía esperar, puesto que creía; y Su profecía era verdadera a pesar de la
 
 furia del sumo sacerdote. Entonces si en cualquier momento nos encontramos con
 
 alguien que cruja sus dientes contra nosotros, que eche humo de ira, que moje
 
-su pluma en la hiel ms amarga para denigrar a nuestra santa fe, que sea
+su pluma en la hiel más amarga para denigrar a nuestra santa fe, que sea
 
-infatigable en sus violentos esfuerzos contra el Cristo de Dios, qu importa? Vern
+infatigable en sus violentos esfuerzos contra el Cristo de Dios, żqué importa? “Verán
 
-de aqu a poco al hijo del hombre sentado a la derecha del Poder. Pero yo he
+de aquí a poco al hijo del hombre sentado a la derecha del Poder”. “Pero yo he
 
-puesto mi rey sobre Sion, mi santo monte, dice Jehov, y l promulg el
+puesto mi rey sobre Sion, mi santo monte”, dice Jehová, y Él promulgó el
 
 decreto aunque se amotinaran las gentes y los pueblos pensaran cosas vanas. Muy
 
-bien puede rerse aquel que est muy seguro de la victoria.
+bien puede reírse aquel que está muy seguro de la victoria.
 
-S, pero no fue slo una
+Sí, pero no fue sólo una
 
-persona la que se enfureci. La gente de Jerusaln y las multitudes que haban
+persona la que se enfureció. La gente de Jerusalén y las multitudes que habían
 
 venido para la pascua, sobornados y azuzados por los sacerdotes y los fariseos,
 
-buscaban ardientemente la muerte de nuestro Salvador, clamando: Crucifcale,
+buscaban ardientemente la muerte de nuestro Salvador, clamando: “ˇCrucifícale,
 
-crucifcale! Y sin embargo, all segua l, y mientras oa su tumulto y
+crucifícale!” Y sin embargo, allí seguía Él, y mientras oía su tumulto y
 
-anticipaba su creciente exigencia pidiendo Su sangre, no perdi Su confianza,
+anticipaba su creciente exigencia pidiendo Su sangre, no perdió Su confianza,
 
 sino que tranquilamente
 
-dijo: Pero an
+dijo: “Pero aún
 
-les digo que vern de aqu a poco al hijo del hombre sentado a la derecha del
+les digo que verán de aquí a poco al hijo del hombre sentado a la derecha del
 
-Poder. Contemplen Su perfecta paz interior, y vean cmo la manifiesta mediante
+Poder”. Contemplen Su perfecta paz interior, y vean cómo la manifiesta mediante
 
-una valiente confesin que desafiaba a todos Sus adversarios. Ustedes pueden
+una valiente confesión que desafiaba a todos Sus adversarios. “Ustedes pueden
 
 ser tan numerosos como las olas del mar; y pueden echar espuma y enfurecerse
 
-como el ocano en una tormenta, pero el propsito y el decreto de Dios sern
+como el océano en una tormenta, pero el propósito y el decreto de Dios serán
 
-cumplidos a pesar de todo; no pueden obstaculizarlos ni impedirlos en lo ms
+cumplidos a pesar de todo; no pueden obstaculizarlos ni impedirlos en lo más
 
-mnimo. Para su eterna confusin, vern al hijo del hombre sentado a la diestra
+mínimo. Para su eterna confusión, verán al hijo del hombre sentado a la diestra
 
-del Poder.
+del Poder”.
 
 Amados, ustedes saben
 
-que despus de haber dicho eso nuestro Seor fue conducido ante Herodes y
+que después de haber dicho eso nuestro Seńor fue conducido ante Herodes y
 
-Pilato, y al final fue llevado a la muerte; y l saba todo eso, anticipndolo
+Pilato, y al final fue llevado a la muerte; y Él sabía todo eso, anticipándolo
 
-muy claramente, y con todo, eso no hizo que vacilara. l saba que sera
+muy claramente, y con todo, eso no hizo que vacilara. Él sabía que sería
 
-crucificado y que Sus enemigos se jactaran de que tanto l como Su reino
+crucificado y que Sus enemigos se jactarían de que tanto Él como Su reino
 
-haban llegado a un fin. l saba que Sus discpulos se ocultaran en hoyos y en
+habían llegado a un fin. Él sabía que Sus discípulos se ocultarían en hoyos y en
 
-rincones, y que nadie se atrevera a decir ni una sola palabra por el hombre de
+rincones, y que nadie se atrevería a decir ni una sola palabra por el hombre de
 
-Nazaret. l saba de antemano que el nombre del Nazareno andara en boca de
+Nazaret. Él sabía de antemano que el nombre del Nazareno andaría en boca de
 
-todos en medio de un oprobio general y que Jerusaln dira: Esa causa ha sido
+todos en medio de un oprobio general y que Jerusalén diría: “Esa causa ha sido
 
-aplastada: ese huevo de maldad ha sido quebrado; pero l, anticipando todo
+aplastada: ese huevo de maldad ha sido quebrado”; pero Él, anticipando todo
 
-eso, y ms todava, declar: Pero an les digo que vern de aqu a poco al hijo
+eso, y más todavía, declaró: “Pero aún les digo que verán de aquí a poco al hijo
 
 del hombre sentado a la derecha del Poder de la virtud de Dios y venir en las
 
-nubes del cielo. No puedo dejar de insistir en el texto. Espero no cansarlos
+nubes del cielo”. No puedo dejar de insistir en el texto. Espero no cansarlos
 
-con eso pues para m es msica. No me gusta pasar por encima de la palabra
+con eso pues para mí es música. No me gusta pasar por encima de la palabra
 
-Pero
+“Pero”
 
-demasiado rpidamente, antes
+demasiado rápidamente, antes
 
-bien, me gusta tomarla y repetirla como un equivalente a slo-que, es decir, que
+bien, me gusta tomarla y repetirla como un equivalente a “sólo-que”, es decir, que
 
-no habr contradiccin. Su victoria se cumplir al pie de la letra. Su poder
+no habrá contradicción. Su victoria se cumplirá al pie de la letra. Su poder
 
-real no corra el menor riesgo y Su triunfo seguro no peligraba en lo ms
+real no corría el menor riesgo y Su triunfo seguro no peligraba en lo más
 
-mnimo. Ni siquiera por Su muerte y la consecuente dispersin de Sus discpulos
+mínimo. Ni siquiera por Su muerte y la consecuente dispersión de Sus discípulos
 
-se ocasion el menor riesgo; pero todas esas cosas obraron juntas para la
+se ocasionó el menor riesgo; pero todas esas cosas obraron juntas para la
 
-consecucin del propsito divino respecto a l, y entre ms se humill, ms
+consecución del propósito divino respecto a Él, y entre más se humilló, más
 
 seguro estaba de levantarse finalmente a Su gloria.
 
-Y ahora, amados, as es.
+Y ahora, amados, así es.
 
-El hombre Cristo Jess fue despreciado y desechado entre los hombres, pero en
+El hombre Cristo Jesús fue despreciado y desechado entre los hombres, pero en
 
-este momento est sentado a la diestra del poder; toda potestad le es dada en
+este momento está sentado a la diestra del poder; toda potestad le es dada en
 
 el cielo y en la tierra y por eso nos manda que proclamemos Su Evangelio. No
 
-hay un ngel que no cumpla Sus rdenes; la providencia es dirigida por Su
+hay un ángel que no cumpla Sus órdenes; la providencia es dirigida por Su
 
-voluntad, pues el principado sobre su hombro; y se llamar su nombre
+voluntad, pues “el principado sobre su hombro; y se llamará su nombre
 
-Admirable, Consejero, Dios fuerte, Padre eterno, Prncipe de paz. La obra
+Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz”. La obra
 
-expiatoria est concluida y, por lo tanto, l est sentado. Su obra est bien
+expiatoria está concluida y, por lo tanto, Él está sentado. Su obra está bien
 
 hecha, y por tanto, se sienta a la diestra de Dios, en el lugar de honor y
 
-dignidad. Vendr dentro de poco. No podramos saber cundo. Podra venir esta
+dignidad. Vendrá dentro de poco. No podríamos saber cuándo. Podría venir esta
 
-noche, o podra demorarse muchos largos aos; pero vendr, en verdad, en
+noche, o podría demorarse muchos largos ańos; pero vendrá, en verdad, en
 
-persona, pues acaso no dijeron los ngeles a los varones de Galilea, cuando
+persona, pues żacaso no dijeron los ángeles a los varones de Galilea, cuando
 
-estaban mirando al cielo: por qu estis mirando al cielo? Este mismo Jess,
+estaban mirando al cielo: “por qué estáis mirando al cielo? Este mismo Jesús,
 
-que ha sido tomado de vosotros al cielo, as vendr como le habis visto ir al
+que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al
 
-cielo. l vendr con sonido de trompeta y acompaado de miles de seres
+cielo”. Él vendrá con sonido de trompeta y acompańado de miles de seres
 
-anglicos, todos ellos rindindole honor. l vendr con flamas de fuego para
+angélicos, todos ellos rindiéndole honor. Él vendrá con flamas de fuego para
 
-visitar a la trmula tierra. l vendr cubierto con todas las glorias de Su
+visitar a la trémula tierra. Él vendrá cubierto con todas las glorias de Su
 
-Padre, y reyes y prncipes comparecern delante de l, y l reinar
+Padre, y reyes y príncipes comparecerán delante de Él, y Él reinará
 
 gloriosamente entre Sus ancianos. Los tumultos de la gente y las consultas
 
-unidas de sus gobernantes sern recordados en aquel da, pero ser para su propia
+unidas de sus gobernantes serán recordados en aquel día, pero será para su propia
 
-vergenza eterna. Su trono no ser menos resplandeciente.
+vergüenza eterna. Su trono no será menos resplandeciente.
 
 Yo les ruego que
 
-aprendan la leccin espiritual resultante de esto. Ya la he sealado y es la
+aprendan la lección espiritual resultante de esto. Ya la he seńalado y es la
 
 siguiente: no tengan miedo nunca de apoyar una causa perdida. Cuando la verdad
 
-deba ser confesada, nunca vacilen pensando que estn solos. No se dejen
+deba ser confesada, nunca vacilen pensando que están solos. No se dejen
 
 intimidar nunca por el fanatismo sacerdotal, no se dejen atemorizar por la
 
@@ -520,45 +520,45 @@ eterna a pesar de todo y esa doctrina que hoy es despreciada y desechada como
 
 maligna, brinda un honor inmortal al hombre que quiera tomar partido por ella y
 
-compartir su humillacin. Oh, por amor a Cristo que as arroj un
+compartir su humillación. Oh, por amor a Cristo que así arrojó un
 
-pero
+“pero”
 
 a los pies de Sus enemigos,
 
-sganle doquiera que l vaya. A travs de las fuertes corrientes o de las
+síganle doquiera que Él vaya. ˇA través de las fuertes corrientes o de las
 
-llamas, en soledad, en vergenza, en vilipendio, en reproche, sganle! Sganle
+llamas, en soledad, en vergüenza, en vilipendio, en reproche, síganle! ˇSíganle
 
 aun si tuviera que ser fuera del campamento! Aunque cada paso les cueste abuso
 
-y escarnio, an as, sganle; s, hasta la prisin y la muerte, sganle, pues
+y escarnio, aún así, síganle; sí, hasta la prisión y la muerte, síganle, pues
 
-tan ciertamente como est sentado a la diestra del poder as tambin aquellos
+tan ciertamente como está sentado a la diestra del poder así también aquellos
 
-que le aman y han sido fieles a Su verdad se sentarn con l en Su trono. Su
+que le aman y han sido fieles a Su verdad se sentarán con Él en Su trono. Su
 
-triunfo y Su entronizacin son las garantas de la victoria tanto de la verdad
+triunfo y Su entronización son las garantías de la victoria tanto de la verdad
 
 como de aquellos que la abracen valerosamente.
 
-As hemos hecho repicar
+Así hemos hecho repicar
 
-nuestra primera gran campanada: PERO. Que su msica resuene por todo el lugar
+nuestra primera gran campanada: “PERO”. Que su música resuene por todo el lugar
 
-y que cada odo abierto sea embelesado por ella.
+y que cada oído abierto sea embelesado por ella.
 
 II.
 
 La
 
-segunda campanada es DE AQU A POCO. Pero, de aqu a poco. Me agrada el
+segunda campanada es “DE AQUÍ A POCO”. “Pero, de aquí a poco”. Me agrada el
 
-sonido simultneo de estas dos campanas: hagamos que repiquen de nuevo. Pero,
+sonido simultáneo de estas dos campanas: hagamos que repiquen de nuevo. “Pero,
 
-de aqu a poco.
+de aquí a poco”.
 
-El de aqu a poco
+El ‘de aquí a poco’
 
 pareciera decirme en resumen que
 
@@ -566,295 +566,295 @@ la
 
 gloria principal de Cristo se ubica en el futuro.
 
-Tal vez el resultado no
+ˇTal vez el resultado no
 
-se vea hoy ni tampoco maana! Tengan paciencia! Esperen un poco. Su fortaleza
+se vea hoy ni tampoco mańana! ˇTengan paciencia! Esperen un poco. “Su fortaleza
 
-sera estarse quietos. Dios dispone de mucho tiempo, pues l es el Eterno.
+sería estarse quietos”. Dios dispone de mucho tiempo, pues Él es el Eterno.
 
 Participemos de Su quietud al tiempo que cantamos:
 
-Pero, de aqu a poco.
+“Pero, de aquí a poco”.
 
-Oh, anhelamos el poder del Espritu Santo
+Oh, anhelamos el poder del Espíritu Santo
 
-en este momento, pues est escrito que os har saber las cosas que habrn de
+en este momento, pues está escrito que “os hará saber las cosas que habrán de
 
-venir.
+venir”.
 
-Una gran razn por la
+Una gran razón por la
 
 que los hijos de los hombres que no son regenerados no pueden ver ninguna
 
 gloria en el reino de Cristo es que para ellos es cosa de un futuro distante.
 
-Sus esperanzas atisban en la eternidad; sus grandes galardones estn ms all
+Sus esperanzas atisban en la eternidad; sus grandes galardones están más allá
 
-del tiempo y estado presentes, y la mayora de los ojos de los mortales no
+del tiempo y estado presentes, y la mayoría de los ojos de los mortales no
 
-alcanzan a ver tan lejos. Los hombres no regenerados son como Pasin en la
+alcanzan a ver tan lejos. Los hombres no regenerados son como Pasión en la
 
-parbola de John Bunyan: quieren tener ahora todas sus cosas buenas, y entonces
+parábola de John Bunyan: quieren tener ahora todas sus cosas buenas, y entonces
 
-reciben sus juguetes y los rompen y se quedan sin ellos, y luego su postrimera
+reciben sus juguetes y los rompen y se quedan sin ellos, y luego su postrimería
 
-es un triste panorama de lamentacin y afliccin. Los hombres de fe saben que
+es un triste panorama de lamentación y aflicción. Los hombres de fe saben que
 
-no es as y al igual que Paciencia, en la misma parbola, eligen tener sus
+no es así y al igual que Paciencia, en la misma parábola, eligen tener sus
 
-cosas mejores al final, pues lo que viene al ltimo dura para siempre. Aquel a
+cosas mejores al final, pues lo que viene al último dura para siempre. Aquel a
 
-quien le corresponde el ltimo turno no tiene a nadie detrs y sus buenas cosas
+quien le corresponde el último turno no tiene a nadie detrás y sus buenas cosas
 
-no le sern quitadas nunca. El pobre mundo miope no puede ver ms all de su
+no le serán quitadas nunca. El pobre mundo miope no puede ver más allá de su
 
 propia nariz, y por eso tiene que tener sus goces y riquezas de inmediato. Para
 
-ellos una pronta victoria es lo ms importante, y la verdad no es nada. Est
+ellos una pronta victoria es lo más importante, y la verdad no es nada. żEstá
 
-triunfando alguna causa hoy? Qutense las gorras y arrjenlas en alto y clamen:
+triunfando alguna causa hoy? Quítense las gorras y arrójenlas en alto y clamen:
 
-Hurra!, sin importar que sea la causa de una mentira. Se inclinan las
+“ˇHurra!”, sin importar que sea la causa de una mentira. żSe inclinan las
 
-multitudes en esa direccin? Entonces, amigo, si eres sabio segn el mundo,
+multitudes en esa dirección? Entonces, amigo, si eres sabio según el mundo,
 
 corre con ellas. Arranquen ramas de palmeras, cubran con ellas los caminos, y
 
-griten: Hosanna al hroe de la hora!, aunque sea un dspota o un engaador.
+griten: “ˇHosanna al héroe de la hora!”, aunque sea un déspota o un engańador.
 
 Pero no sucede lo mismo, no sucede lo mismo con aquellos que han aprendido de
 
-Dios. En sus clculos toman en cuenta la eternidad, y estn contentos con ir en
+Dios. En sus cálculos toman en cuenta la eternidad, y están contentos con ir en
 
 el presente con los despreciados y rechazados de los hombres porque recuerdan
 
-el de aqu a poco. Pueden nadar contra la corriente pues saben hacia dnde se
+el ‘de aquí a poco’. Pueden nadar contra la corriente pues saben hacia dónde se
 
-dirige el curso de este mundo. Oh mundo ciego, si fueras sabio enmendaras tu
+dirige el curso de este mundo. Oh mundo ciego, si fueras sabio enmendarías tu
 
-lnea de accin y comenzaras a pensar tambin en el de aqu a poco pues,
+línea de acción y comenzarías a pensar también en el de aquí a poco pues,
 
-hermanos, el de aqu a poco pronto estar
+hermanos, el de aquí a poco pronto estará
 
-aqu.
+aquí.
 
-Cun corto ha sido el tiempo desde que Adn caminaba en el huerto de Edn.
+Cuán corto ha sido el tiempo desde que Adán caminaba en el huerto de Edén.
 
 Comparado con la edad de las rocas, comparado con la historia de las estrellas,
 
-comparado con la vida de Dios, es como el guio de un ojo o como el destello de
+comparado con la vida de Dios, es como el guińo de un ojo o como el destello de
 
-un rayo. Uno slo tiene que envejecer un poco para sentir que los aos se
+un rayo. Uno sólo tiene que envejecer un poco para sentir que los ańos se
 
-acortan y que el tiempo parezca viajar a una velocidad mucho ms rpida que
+acortan y que el tiempo parezca viajar a una velocidad mucho más rápida que
 
-antes, de tal manera que un ao pasa volando junto a ti tal cual meteorito por
+antes, de tal manera que un ańo pasa volando junto a ti tal cual meteorito por
 
-los cielos de medianoche. Cuando seamos ms viejos todava y extendamos la
+los cielos de medianoche. Cuando seamos más viejos todavía y extendamos la
 
 mirada desde las serenas moradas en lo alto, yo supongo que los siglos y las
 
-edades sern como instantes para nosotros, pues para el Seor son como nada.
+edades serán como instantes para nosotros, pues para el Seńor son como nada.
 
-Supongan que la venida del Seor se pospusiera unos diez mil aos es slo una
+Supongan que la venida del Seńor se pospusiera unos diez mil ańos –es sólo una
 
-suposicin- pero si as fuese, diez mil aos pasaran pronto, y cuando el
+suposición- pero si así fuese, diez mil ańos pasarían pronto, y cuando el
 
-augusto espectculo de la venida de Cristo en las nubes del cielo sea visto
+augusto espectáculo de la venida de Cristo en las nubes del cielo sea visto
 
-realmente, la demora ser como si slo hubiese transcurrido una hora. El lapso
+realmente, la demora será como si sólo hubiese transcurrido una hora. El lapso
 
-entre el ahora y el entonces, o ms bien el lapso entre lo que es ahora en
+entre el ahora y el entonces, o más bien el lapso entre lo que es “ahora” en
 
-este momento y lo que ser ahora al final, cun breve lapso ser! Los
+este momento y lo que será “ahora” al final, ˇcuán breve lapso será! Los
 
-hombres mirarn en retrospectiva desde el mundo eterno y dirn: Cmo pudimos
+hombres mirarán en retrospectiva desde el mundo eterno y dirán: “żCómo pudimos
 
 haber pensado tanto en la vida fugaz que vivimos en la tierra si iba a ser
 
-seguida por la eternidad? Cun necios fuimos al darle tanto peso a los placeres
+seguida por la eternidad? ˇCuán necios fuimos al darle tanto peso a los placeres
 
-momentneos y fugaces, cuando ahora las cosas que no se ven y son eternas han venido
+momentáneos y fugaces, cuando ahora las cosas que no se ven y son eternas han venido
 
-sobre nosotros y no estamos preparados para ellas! Cristo vendr pronto, y
+sobre nosotros y no estamos preparados para ellas! Cristo vendrá pronto, y
 
 cuando venga, por muy largo que sea el intervalo entre el hoy y el entonces,
 
-parecer ser simplemente nada en absoluto; de tal manera que de aqu a poco
+parecerá ser simplemente nada en absoluto; de tal manera que “de aquí a poco”
 
-no es como el sonido de un can lejano, ni como el estruendo de un trueno
+no es como el sonido de un cańón lejano, ni como el estruendo de un trueno
 
 distante, sino que es como el rodar de veloces ruedas que se apresuran para
 
 darnos alcance.
 
-De aqu a poco! De
+“ˇDe aquí a poco!” “ˇDe
 
-aqu a poco! Oh, cuando llegue ese de aqu a poco, cun abrumador ser para
+aquí a poco!” ˇOh, cuando llegue ese de aquí a poco, cuán abrumador será para
 
-los enemigos de Jess! Dnde est Caifs ahora? Conjurar al Seor para que
+los enemigos de Jesús! żDónde está Caifás ahora? żConjurará al Seńor para que
 
-le responda? Ustedes, sacerdotes, alcen ahora sus altivas cabezas! Pronuncien
+le responda? ˇUstedes, sacerdotes, alcen ahora sus altivas cabezas! ˇPronuncien
 
-ahora una sentencia en contra Suya! All est sentada su vctima en las nubes
+ahora una sentencia en contra Suya! Allá está sentada su víctima en las nubes
 
 del cielo. Digan ahora que blasfema y sostengan en alto Sus rasgadas vestiduras
 
-y condnenlo de nuevo. Pero, dnde est Caifs? Esconde su culpable cabeza; est
+y condénenlo de nuevo. Pero, żdónde está Caifás? Esconde su culpable cabeza; está
 
-completamente confundido y suplica a los montes que caigan sobre l. Y, oh,
+completamente confundido y suplica a los montes que caigan sobre él. Y, oh,
 
-ustedes, varones del Sanedrn que sesionaron a la medianoche y que con sus fros
+ustedes, varones del Sanedrín que sesionaron a la medianoche y que con sus fríos
 
-y crueles ojos lanzaron miradas feroces a su inocente vctima, y despus contemplaron
+y crueles ojos lanzaron miradas feroces a su inocente víctima, y después contemplaron
 
-con perversa satisfaccin la muerte del Prncipe martirizado, dnde estn
+con perversa satisfacción la muerte del Príncipe martirizado, żdónde están
 
-ustedes ahora, ahora que l ha venido con todo el poder de Su Padre para
+ustedes ahora, ahora que Él ha venido con todo el poder de Su Padre para
 
 juzgarlos? Ellos les ruegan a los montes que abran sus cavernas y los oculten;
 
-las rocas les niegan abrigo. Y dnde estarn ustedes en aquel da; ustedes,
+las rocas les niegan abrigo. żY dónde estarán ustedes en aquel día; ustedes,
 
-que niegan Su deidad, que profanan Su da de guardar, que calumnian a Su pueblo
+que niegan Su deidad, que profanan Su día de guardar, que calumnian a Su pueblo
 
-y denuncian Su Evangelio, oh, dnde estarn ustedes en aquel tremendo da que
+y denuncian Su Evangelio, oh, dónde estarán ustedes en aquel tremendo día que
 
-llega tan ciertamente como llega el sol naciente de maana? Oh, seores, consideren
+llega tan ciertamente como llega el sol naciente de mańana? Oh, seńores, consideren
 
-esta palabra: De aqu a poco! Gustosamente la susurrara al odo del pecador
+esta palabra: “ˇDe aquí a poco!” Gustosamente la susurraría al oído del pecador
 
-que est fascinado por sus placeres. Acrquense y permtanme que lo haga:
+que está fascinado por sus placeres. Acérquense y permítanme que lo haga:
 
-de aqu a poco!
+ˇde aquí a poco!
 
-Yo la convertira en la
+Yo la convertiría en la
 
-alarma de cabecera del durmiente transgresor que est soando en la paz y en la
+alarma de cabecera del durmiente transgresor que está sońando en la paz y en la
 
-seguridad, mientras dormita en su trnsito con rumbo al infierno. De aqu a
+seguridad, mientras dormita en su tránsito con rumbo al infierno. ˇDe aquí a
 
-poco! De aqu a poco! Oh, s, ustedes pueden chupar la dulzura y comer la
+poco! ˇDe aquí a poco! Oh, sí, ustedes pueden chupar la dulzura y comer la
 
-grosura y beber cuanto quieran; pero, de aqu a poco! De aqu a poco! Qu
+grosura y beber cuanto quieran; pero, ˇde aquí a poco! ˇDe aquí a poco! żQué
 
-harn de aqu a poco cuando lo que es dulce en la boca sea como hiel en el
+harán de aquí a poco cuando lo que es dulce en la boca sea como hiel en el
 
-estmago, y cuando los placeres de hoy sean una mezcla de miseria por toda la
+estómago, y cuando los placeres de hoy sean una mezcla de miseria por toda la
 
-eternidad? De aqu a poco! Oh, de aqu a poco! Oh Espritu divino, dgnate
+eternidad? ˇDe aquí a poco! ˇOh, de aquí a poco! Oh Espíritu divino, dígnate
 
-ahora abrir los odos indiferentes para que oigan este sonido proftico.
+ahora abrir los oídos indiferentes para que oigan este sonido profético.
 
 Para el propio pueblo
 
-del Seor no hay ningn sonido ms dulce que el de de aqu a poco. Vern de
+del Seńor no hay ningún sonido más dulce que el de “de aquí a poco”. “Verán de
 
-aqu a poco al hijo del hombre venir en las nubes del cielo. Bienvenido,
+aquí a poco al hijo del hombre… venir en las nubes del cielo”. ˇBienvenido,
 
 bienvenido, bienvenido, bienvenido, Redentor, Salvador! Bienvenido en todo
 
-carcter en que vengas. Qu vtores y congratulaciones se alzarn de las
+carácter en que vengas. ˇQué vítores y congratulaciones se alzarán de las
 
-innumerables miradas de Sus redimidos cuando las enseas del Hijo del hombre
+innumerables miríadas de Sus redimidos cuando las enseńas del Hijo del hombre
 
-sean visibles por primera vez en los cielos! En una determinada maana en la
+sean visibles por primera vez en los cielos! En una determinada mańana en la
 
-tierra, cuando los hijos de los hombres estn casndose y dndose en
+tierra, cuando los hijos de los hombres estén “casándose y dándose en
 
-casamiento, y mientras los santos esperan Su advenimiento, ellos percibirn que
+casamiento”, y mientras los santos esperan Su advenimiento, ellos percibirán que
 
-l llega efectivamente. Por largo tiempo deseado, ha llegado por fin. Entonces
+Él llega efectivamente. Por largo tiempo deseado, ha llegado por fin. Entonces
 
-se oir el sonido de la bocina que ir en aumento y que se prolongar en
+se oirá el sonido de la bocina que irá en aumento y que se prolongará en
 
-extremo, produciendo para el verdadero Israel una nota ms dulce que la que se
+extremo, produciendo para el verdadero Israel una nota más dulce que la que se
 
-haya odo jams proveniente de alguna trompeta en la maana del Jubileo. Qu
+haya oído jamás proveniente de alguna trompeta en la mańana del Jubileo. ˇQué
 
-deleite! Cmo se volvern a lo alto los jubilosos ojos! Qu torrentes de
+deleite! ˇCómo se volverán a lo alto los jubilosos ojos! ˇQué torrentes de
 
-bienaventuranza! La opresin se acab, los dolos estn rotos, el reino del
+bienaventuranza! La opresión se acabó, los ídolos están rotos, el reino del
 
-pecado ha llegado a su fin, la oscuridad no cubrir ms a las naciones. l
+pecado ha llegado a su fin, la oscuridad no cubrirá más a las naciones. ˇÉl
 
-viene, l viene; gloria sea dada a Su nombre!
+viene, Él viene; gloria sea dada a Su nombre!
 
-Traigan la diadema,
+“Traigan la diadema,
 
-Y cornenlo Seor de todo.
+Y corónenlo Seńor de todo”.
 
-Oh, dichoso da de
+ˇOh, dichoso día de
 
-aclamaciones! Cmo rasgarn los vtores la bveda celeste cuando Sus santos
+aclamaciones! Cómo rasgarán los vítores la bóveda celeste cuando Sus santos
 
-vean por s mismos lo que estaba reservado para l y para ellos en el de aqu
+vean por sí mismos lo que estaba reservado para Él y para ellos en el “de aquí
 
-a poco. Veris al Hijo del Hombre sentado a la diestra del poder de Dios, y
+a poco”. “Veréis al Hijo del Hombre sentado a la diestra del poder de Dios, y
 
-viniendo en las nubes del cielo.
+viniendo en las nubes del cielo”.
 
-Esa locucin de aqu a
+Esa locución “de aquí a
 
-poco, hermanos y hermanas mos, es nuestro mayor solaz en este momento, y
+poco”, hermanos y hermanas míos, es nuestro mayor solaz en este momento, y
 
-quiero presentarla ante ustedes bajo esa luz. Han sido ustedes malentendidos,
+quiero presentarla ante ustedes bajo esa luz. żHan sido ustedes malentendidos,
 
 tergiversados y calumniados por causa de su fidelidad a lo recto y a lo
 
-verdadero? No se turben. No vindiquen su propia causa. Refiranla al tribunal
+verdadero? No se turben. No vindiquen su propia causa. Refiéranla al tribunal
 
-del Rey en lo alto, y digan: de aqu a poco, de aqu a poco. Los han acusado
+del Rey en lo alto, y digan: “de aquí a poco, de aquí a poco”. żLos han acusado
 
-de estar locos, de ser fanticos y no s de qu otras cosas ms porque para
+de estar locos, de ser fanáticos y no sé de qué otras cosas más porque para
 
-ustedes el partido no es nada, el orgullo eclesistico no es nada y el sello de
+ustedes el partido no es nada, el orgullo eclesiástico no es nada y el sello de
 
-la opinin popular no es nada; porque estn resueltos a seguir los pasos de su
+la opinión popular no es nada; porque están resueltos a seguir los pasos de su
 
 Maestro y creer en lo verdadero y en hacer lo recto? Entonces no tengan prisa;
 
-el ineludible de aqu a poco ha de poner fin al debate. O acaso eres t muy
+el ineludible ‘de aquí a poco’ ha de poner fin al debate. żO acaso eres tú muy
 
-pobre, y ests muy enfermo, y ests muy triste? Pero le perteneces a Cristo?
+pobre, y estás muy enfermo, y estás muy triste? żPero le perteneces a Cristo?
 
-Confas en l? Vives en comunin con l? Entonces la esperanza en el ms all
+żConfías en Él? żVives en comunión con Él? Entonces la esperanza en el más allá
 
-puede muy bien extirpar el aguijn del presente. No habrs de sufrir una larga
+puede muy bien extirpar el aguijón del presente. No habrás de sufrir una larga
 
-temporada; pronto la gloria ser revelada en ti y en derredor tuyo. Hay calles
+temporada; pronto la gloria será revelada en ti y en derredor tuyo. Hay calles
 
-de oro que son smbolos de tu riqueza futura y hay arpas celestiales que son
+de oro que son símbolos de tu riqueza futura y hay arpas celestiales que son
 
-emblemas de tu gozo eterno. Pronto tendrs vestiduras blancas y las
+emblemas de tu gozo eterno. Pronto tendrás vestiduras blancas y las
 
-polvorientas ropas del trabajo sern arrumbadas para siempre. T tendrs un
+polvorientas ropas del trabajo serán arrumbadas para siempre. Tú tendrás ‘un
 
-cada vez ms excelente y eterno peso de gloria; por tanto puedes soportar con
+cada vez más excelente y eterno peso de gloria’; por tanto puedes soportar con
 
-paciencia la leve afliccin que slo es momentnea. Has laborado en vano? Has
+paciencia la leve aflicción que sólo es momentánea. żHas laborado en vano? żHas
 
 intentado llevar almas a Cristo sin tener ninguna recompensa? No te alteres,
 
-antes bien recuerda el de aqu a poco. Muchos obreros, fracasados a los ojos
+antes bien recuerda el ‘de aquí a poco’. Muchos obreros, fracasados a los ojos
 
-del hombre, recibirn en aquel da un Bien, buen siervo y fiel de su Seor.
+del hombre, recibirán en aquel día un “Bien, buen siervo y fiel” de su Seńor.
 
-No le den mucha importancia a lo que tengan y no ansen poseer lo que no
+No le den mucha importancia a lo que tengan y no ansíen poseer lo que no
 
-tengan. Que el presente sea para ustedes lo que es realmente, un sueo, un
+tengan. Que el presente sea para ustedes lo que es realmente, un sueńo, un
 
-espectculo vaco, y proyecten sus almas al ms all, que es slido y perenne
+espectáculo vacío, y proyecten sus almas al más allá, que es sólido y perenne
 
-pues, oh, qu msica contiene! Qu deleite para un verdadero hijo de Dios!
+pues, ˇoh, qué música contiene! ˇQué deleite para un verdadero hijo de Dios!
 
-Pero, de aqu a poco.
+“Pero, de aquí a poco”.
 
 Casi me siento inclinado
 
-a concluir y a enviarlos a casa cantando por todo el camino: Pero, de aqu a
+a concluir y a enviarlos a casa cantando por todo el camino: “Pero, de aquí a
 
-poco. La gente en la calle podra no entenderlos pero sera un entusiasmo de
+poco”. La gente en la calle podría no entenderlos pero sería un entusiasmo de
 
 un deleite perfectamente justificable.
 
@@ -862,57 +862,57 @@ III.
 
 Ahora,
 
-en tercer lugar, adnde he de buscar mi tercera campanada? Dnde est la
+en tercer lugar, żadónde he de buscar mi tercera campanada? żDónde está la
 
-tercera palabra de la que habl? No puedo encontrarla en la versin que comnmente
+tercera palabra de la que hablé? No puedo encontrarla en la versión que comúnmente
 
 usamos, y tampoco hay una tercera palabra en el original, y no obstante la
 
-locucin en la que estoy pensando est all. La verdad es que la segunda locucin
+locución en la que estoy pensando está allí. La verdad es que la segunda locución
 
-que ha sido traducida como de aqu a poco, incluye otro significado; les
+que ha sido traducida como “de aquí a poco”, incluye otro significado; les
 
-compartir lo que los estudiosos del griego dicen que es de la manera ms
+compartiré lo que los estudiosos del griego dicen que es –de la manera más
 
-aproximada posible- el significado de esa palabra: DESDE AHORA. Desde ahora
+aproximada posible- el significado de esa palabra: “DESDE AHORA”. “Desde ahora
 
-veris al Hijo del Hombre sentado a la diestra del poder de Dios, y viniendo en
+veréis al Hijo del Hombre sentado a la diestra del poder de Dios, y viniendo en
 
-las nubes del cielo.
+las nubes del cielo”.
 
-Desde ahora.
+“Desde ahora”.
 
 Esa
 
-es otra locucin y su enseanza resultante es:
+es otra locución y su enseńanza resultante es:
 
-aun en el presente hay seales de la victoria de Cristo.
+aun en el presente hay seńales de la victoria de Cristo.
 
-Pero
+“Pero”
 
-dir alguien- acaso Cristo les dijo a esos sacerdotes que desde ahora le
+–dirá alguien- “żacaso Cristo les dijo a esos sacerdotes que desde ahora le
 
-veran sentado a la diestra del poder? S, s, eso es lo que quiso decir.
+verían sentado a la diestra del poder?” Sí, sí, eso es lo que quiso decir.
 
-Quiso decir: Ustedes me miran y me desprecian; pero, seores, ya no podrn
+Quiso decir: “Ustedes me miran y me desprecian; pero, seńores, ya no podrán
 
-hacer eso por ms tiempo pues desde ahora vern por ustedes mismos que no soy
+hacer eso por más tiempo pues desde ahora verán por ustedes mismos que no soy
 
 lo que parezco ser, sino que estoy sentado a la diestra del poder. Desde ahora
 
-y mientras vivan conocern esa amarga verdad. Y ocurri as? S, se hizo
+y mientras vivan conocerán esa amarga verdad”. żY ocurrió así? Sí, se hizo
 
-realidad aquella misma noche pues cuando el Salvador muri, un mensajero corri
+realidad aquella misma noche pues cuando el Salvador murió, un mensajero corrió
 
-presuroso hasta donde se encontraban los miembros del Sanedrn y algunas
+presuroso hasta donde se encontraban los miembros del Sanedrín y algunas
 
-personas ms, y les dijo que el velo del templo se haba rasgado en dos. En
+personas más, y les dijo que el velo del templo se había rasgado en dos. En
 
-aquel momento, cuando el hombre de Nazaret muri, aquel esplndido tapiz se
+aquel momento, cuando el hombre de Nazaret murió, aquel espléndido tapiz se
 
-parti en dos pedazos de un extremo hasta el otro como en una muestra de horror
+partió en dos pedazos de un extremo hasta el otro como en una muestra de horror
 
-por la muerte de su Seor. Cuando los miembros de aquel concilio se encontraban
+por la muerte de su Seńor. Cuando los miembros de aquel concilio se encontraban
 
 con sus colegas en la calle y comentaban las noticias, deben de haberse quedado
 
@@ -922,119 +922,119 @@ de puro asombro; pero mientras se miraban, la
 
 tierra sobre la que estaban se tambaleaba y se tambaleaba de nuevo, y a duras
 
-penas podan mantenerse de pie. Ese no era el primer prodigio que los haba
+penas podían mantenerse de pie. Ese no era el primer prodigio que los había
 
-sobresaltado en aquel da, pues el sol se haba cubierto de tinieblas sobrenaturales.
+sobresaltado en aquel día, pues el sol se había cubierto de tinieblas sobrenaturales.
 
-Al medioda el sol haba cesado de brillar, y ahora la tierra dejaba de estar
+Al mediodía el sol había cesado de brillar, y ahora la tierra dejaba de estar
 
-firme. He aqu, en la oscuridad de la noche, ciertos miembros de ese concilio
+firme. He aquí, en la oscuridad de la noche, ciertos miembros de ese concilio
 
-vieron tambin algunos muertos envueltos en sbanas, recin salidos de los
+vieron también algunos muertos envueltos en sábanas, recién salidos de los
 
-sepulcros, caminando por las calles; las rocas se partieron, y la tierra
+sepulcros, caminando por las calles; ‘las rocas se partieron, y la tierra
 
-tembl, y se abrieron los sepulcros, y los muertos salieron y aparecieron a
+tembló, y se abrieron los sepulcros, y los muertos salieron y aparecieron a
 
-muchos. As de pronto comenzaron a saber que el hombre de Nazaret estaba a la
+muchos’. Así de pronto comenzaron a saber que el hombre de Nazaret estaba a la
 
 diestra del poder.
 
-Temprano en la maana
+Temprano en la mańana
 
-del tercer da, mientras estaban reunidos, lleg a toda prisa otro mensajero
+del tercer día, mientras estaban reunidos, llegó a toda prisa otro mensajero
 
-que les dijo: La piedra de la puerta del sepulcro ha sido rodada. Recuerden que
+que les dijo: “La piedra de la puerta del sepulcro ha sido rodada. Recuerden que
 
 ustedes pusieron vigilancia y que pusieron su sello sobre la piedra. Pero los
 
-soldados dicen que l sali muy temprano esta maana. Resucit ese Ser temido a
+soldados dicen que Él salió muy temprano esta mańana. Resucitó ese Ser temido a
 
 quien entregaron a la muerte, y al verlo los guardas temblaron y se quedaron
 
-como muertos. Ahora, aquellos varones aquellos miembros del Sanedrn-
+como muertos”. Ahora, aquellos varones –aquellos miembros del Sanedrín-
 
 creyeron ese hecho, y tenemos una clara evidencia de que en verdad lo creyeron,
 
-pues sobornaron a los soldados y les dijeron: Decid vosotros: Sus discpulos
+pues sobornaron a los soldados y les dijeron: “Decid vosotros: Sus discípulos
 
-vinieron de noche, y lo hurtaron, estando nosotros dormidos. Entonces la
+vinieron de noche, y lo hurtaron, estando nosotros dormidos”. Entonces la
 
-palabra sigui cumplindose tambin y ellos vieron claramente que Jess, a
+palabra siguió cumpliéndose también y ellos vieron claramente que Jesús, a
 
-quien haban condenado, estaba a la diestra del poder. Transcurridas unas
+quien habían condenado, estaba a la diestra del poder. Transcurridas unas
 
-cuantas semanas, he aqu, hubo un estruendo en la ciudad y una excitacin extraordinaria.
+cuantas semanas, he aquí, hubo un estruendo en la ciudad y una excitación extraordinaria.
 
-Pedro haba estado predicando y en un da tres mil personas fueron bautizadas
+Pedro había estado predicando y en un día tres mil personas fueron bautizadas
 
-en el nombre que tanto haban temido; y se les dijo, y les fue comunicado con
+en el nombre que tanto habían temido; y se les dijo, y les fue comunicado con
 
-base en la mejor evidencia, que haba habido una maravillosa manifestacin del Espritu
+base en la mejor evidencia, que había habido una maravillosa manifestación del Espíritu
 
-Santo, tal como se haba predicho en el libro del profeta Joel. Entonces deben
+Santo, tal como se había predicho en el libro del profeta Joel. Entonces deben
 
 de haberse mirado a la cara unos a otros, y deben de haberse mesado la barba, y
 
-deben de haberse mordido los labios y deben de haberse dicho unos a otros: No
+deben de haberse mordido los labios y deben de haberse dicho unos a otros: “żNo
 
-dijo acaso que le veramos a la diestra del poder? Deban de recordar con
+dijo acaso que le veríamos a la diestra del poder?” Debían de recordar con
 
-frecuencia esas palabras, y deban de ver su verdad una y otra y otra vez, pues
+frecuencia esas palabras, y debían de ver su verdad una y otra y otra vez, pues
 
-cuando Pedro y Juan comparecieron delante de ellos, qued demostrado que haban
+cuando Pedro y Juan comparecieron delante de ellos, quedó demostrado que habían
 
-restaurado a un paraltico, y esos dos hombres sin letras y del vulgo les
+restaurado a un paralítico, y esos dos hombres sin letras y del vulgo les
 
-dijeron que por medio del nombre de Jess el paraltico pudo saltar y andar.
+dijeron que por medio del nombre de Jesús el paralítico pudo saltar y andar.
 
-Da tras da y en contra de su voluntad estaban continuamente obligados a ver
+Día tras día y en contra de su voluntad estaban continuamente obligados a ver
 
-en la propagacin de la religin del varn a quien haban entregado a la muerte
+en la propagación de la religión del varón a quien habían entregado a la muerte
 
-que Su nombre estaba dotado de un poder que no podan negar o resistir. He
+que Su nombre estaba dotado de un poder que no podían negar o resistir. He
 
-aqu, uno de su grupo, Pablo, haba sido convertido y estaba predicando la fe
+aquí, uno de su grupo, Pablo, había sido convertido y estaba predicando la fe
 
-que haba procurado destruir. Deben de haber estado muy asombrados y
+que había procurado destruir. Deben de haber estado muy asombrados y
 
-disgustados ya que en eso discernan tambin que el Hijo del hombre estaba a la
+disgustados ya que en eso discernían también que el Hijo del hombre estaba a la
 
 diestra del poder.
 
-S, dices t, pero,
+Sí, dices tú, pero,
 
-acaso lo vieron viniendo en verdad en las nubes del cielo? Yo respondo que s.
+żacaso lo vieron viniendo en verdad en las nubes del cielo? Yo respondo que sí.
 
-Lo vieron tambin a partir de aquel momento pues comenzaron a tener en sus
+Lo vieron también a partir de aquel momento pues comenzaron a tener en sus
 
-mentes presentimientos y tenebrosos pensamientos. La nacin juda se encontraba
+mentes presentimientos y tenebrosos pensamientos. La nación judía se encontraba
 
 en un mal estado, la gente se iba inquietando, se levantaban algunos impostores
 
-y temblaban los guas de la nacin pensando qu haran los romanos. Por fin
+y temblaban los guías de la nación pensando qué harían los romanos. Por fin
 
-vino un estallido y el poder imperial fue desafiado, y entonces los que todava
+vino un estallido y el poder imperial fue desafiado, y entonces los que todavía
 
-sobrevivan comenzaron a entender las palabras de Cristo. Cuando vieron el cometa
+sobrevivían comenzaron a entender las palabras de Cristo. Cuando vieron el cometa
 
-en el cielo y la espada desenvainada que penda sobre Jerusaln, cuando vieron
+en el cielo y la espada desenvainada que pendía sobre Jerusalén, cuando vieron
 
-a la ciudad rodeada por los ejrcitos, cuando observaron a las legiones cavando
+a la ciudad rodeada por los ejércitos, cuando observaron a las legiones cavando
 
 sus trincheras y levantando sus terraplenes y poniendo sitio a la devota ciudad
 
 mientras todo era fuego y hambre en derredor; cuando desde cada torre sobre los
 
-muros de la ciudad podan ver a alguno de sus paisanos clavado a una cruz, pues
+muros de la ciudad podían ver a alguno de sus paisanos clavado a una cruz, pues
 
-los romanos mataban a los judos crucificndolos por centenares, y aun por
+los romanos mataban a los judíos crucificándolos por centenares, y aun por
 
 millares, entonces deben de haber comenzado a ver la venida del Hijo del
 
-hombre. Y cuando al fin la ciudad fue destruida y una tea encendida cay dentro
+hombre. Y cuando al fin la ciudad fue destruida y una tea encendida cayó dentro
 
-del lugar santo, y los judos fueron desterrados y fueron vendidos como esclavos
+del lugar santo, y los judíos fueron desterrados y fueron vendidos como esclavos
 
 y no llegaban al precio ni siquiera de un par de zapatos -tantos eran y tan
 
@@ -1044,235 +1044,235 @@ nubes del cielo para vengarse de Sus adversarios.
 
 Lean el significado del
 
-texto de esta manera: Desde ahora veris al Hijo del Hombre a la diestra del
+texto de esta manera: “Desde ahora veréis al Hijo del Hombre a la diestra del
 
-poder de Dios, y viniendo en las nubes del cielo. No es todo el significado del
+poder de Dios, y viniendo en las nubes del cielo”. No es todo el significado del
 
 pasaje, pero es una parte de ese significado, sin lugar a dudas.
 
 Amados, aun en el tiempo
 
-presente podemos ver las seales del poder de Cristo entre nosotros. Adviertan
+presente podemos ver las seńales del poder de Cristo entre nosotros. Adviertan
 
-que son nicamente seales; no quiero apartarlos del de aqu a poco, pero
+que son únicamente seńales; no quiero apartarlos del ‘de aquí a poco’, pero
 
-desde ahora hay seales del poder de nuestro Seor Jess. Miren los avivamientos.
+desde ahora hay seńales del poder de nuestro Seńor Jesús. Miren los avivamientos.
 
-Cmo hacen vacilar a todos los adversarios de Cristo cuando irrumpen en la
+Cómo hacen vacilar a todos los adversarios de Cristo cuando irrumpen en la
 
-iglesia. Decan s, se atrevan a decir- que el Evangelio haba perdido todo
+iglesia. Decían –sí, se atrevían a decir- que el Evangelio había perdido todo
 
-Su poder; que desde los das de Whitefield y Wesley no haba esperanza de que
+Su poder; que desde los días de Whitefield y Wesley no había esperanza de que
 
 las masas fueran conmovidas, sin embargo, cuando aun en esta casa ven a vastas
 
 multitudes escuchando la palabra cada domingo, y cuando hace unos cuantos meses
 
-no se poda construir ningn local que fuera lo suficientemente grande para acomodar
+no se podía construir ningún local que fuera lo suficientemente grande para acomodar
 
-a las masas congregadas que buscaban or a nuestros hermanos americanos,
+a las masas congregadas que buscaban oír a nuestros hermanos americanos,
 
-entonces fueron golpeados en la boca de manera que no pudieron hablar ms pues
+entonces fueron golpeados en la boca de manera que no pudieron hablar más pues
 
-fue puesto de manifiesto que el Seor Cristo vive todava, y que, si Su
+fue puesto de manifiesto que el Seńor Cristo vive todavía, y que, si Su
 
-Evangelio es predicado sencilla y plenamente, seguir atrayendo a l a los
+Evangelio es predicado sencilla y plenamente, seguirá atrayendo a Él a los
 
-hombres, y las almas sern salvadas y no sern slo unas cuantas.
+hombres, y las almas serán salvadas y no serán sólo unas cuantas.
 
 Y miren ustedes en el
 
-feliz mundo de afuera, apartado de la religin, cun abundantes influencias hay
+feliz mundo de afuera, apartado de la religión, cuán abundantes influencias hay
 
-que son debidas al poder del Cristo de Dios. Se habra credo hace veinte aos
+que son debidas al poder del Cristo de Dios. żSe habría creído hace veinte ańos
 
-que en Amrica no quedara ni un solo esclavo; que
+que en América no quedaría ni un solo esclavo; que
 
 la Italia
 
-unificada sera
+unificada sería
 
-libre de sus dspotas? Habran podido creer que el Papa se quejara de ser un
+libre de sus déspotas? żHabrían podido creer que el Papa se quejaría de ser un
 
-prisionero en el Vaticano y que el poder del anticristo sera recortado? No,
+prisionero en el Vaticano y que el poder del anticristo sería recortado? No,
 
-los prodigios de la historia, aun en los ltimos aos, bastan para mostrarnos
+los prodigios de la historia, aun en los últimos ańos, bastan para mostrarnos
 
-que Cristo est a la diestra del poder. Sin importar qu pudiera venir en el
+que Cristo está a la diestra del poder. Sin importar qué pudiera venir en el
 
-futuro, miren esto, hermanos mos, no ser posible nunca sostener la tirana y la
+futuro, miren esto, hermanos míos, no será posible nunca sostener la tiranía y la
 
-opresin por largo tiempo, pues el Seor Cristo va al frente en favor de los
+opresión por largo tiempo, pues el Seńor Cristo va al frente en favor de los
 
-pobres y de los necesitados de la tierra. Oh, dspotas, ustedes pueden hacer lo
+pobres y de los necesitados de la tierra. Oh, déspotas, ustedes pueden hacer lo
 
-que quieran, y usar su astucia y su poltica, si les place, pero en todo el
+que quieran, y usar su astucia y su política, si les place, pero en todo el
 
-mundo el Seor Jesucristo ha alzado una plomada y ha establecido una norma justa,
+mundo el Seńor Jesucristo ha alzado una plomada y ha establecido una norma justa,
 
-y l pintar una raya recta que pasar a travs de todo lo que ofende para que
+y Él pintará una raya recta que pasará a través de todo lo que ofende para que
 
-sea cortado; y que tambin pasar sobre todo lo que es bueno y amable, y
+sea cortado; y que también pasará sobre todo lo que es bueno y amable, y
 
 recto, y justo, y verdadero y todas esas
 
-cosas sern confirmadas en Su reino entre los hombres. Yo creo en el reino de
+cosas serán confirmadas en Su reino entre los hombres. Yo creo en el reino de
 
-Cristo. Reyes, sultanes, zares, todos ellos son tteres, y sus parlamentos y
+Cristo. Reyes, sultanes, zares, todos ellos son títeres, y sus parlamentos y
 
 sus congresos no son sino vanidad de vanidades. Dios es grandioso y no hay
 
-nadie como l. Jess es el Rey en toda la tierra. l es el hombre, el Rey de
+nadie como Él. Jesús es el Rey en toda la tierra. Él es el hombre, el Rey de
 
-los hombres, el Seor de todo. Gloria sea dada a Su nombre. Conforme los aos
+los hombres, el Seńor de todo. Gloria sea dada a Su nombre. Conforme los ańos
 
-progresen veremos eso ms y ms, pues l ha tenido una larga paciencia, pero est
+progresen veremos eso más y más, pues Él ha tenido una larga paciencia, pero está
 
-comenzando ahora a acortar la obra en justicia. l est desnudando Su diestra
+comenzando ahora a acortar la obra en justicia. Él está desnudando Su diestra
 
 para la guerra y lo que niega los justos reclamos de la humanidad, lo que
 
-pisotea el cuello de la humanidad que Cristo ha tomado, lo que est en contra
+pisotea el cuello de la humanidad que Cristo ha tomado, lo que está en contra
 
-de Su trono y dominio, se quebrar como se quiebra un vaso de alfarero, pues el
+de Su trono y dominio, se quebrará como se quiebra un vaso de alfarero, pues el
 
-cetro en Su mano es una vara de hierro y l lo usar poderosamente. El Cristo,
+cetro en Su mano es una vara de hierro y Él lo usará poderosamente. El Cristo,
 
-entonces, da todava seales de Su poder. Son slo seales, pero son seales
+entonces, da todavía seńales de Su poder. Son sólo seńales, pero son seńales
 
-seguras, as como la alborada no nos engaa aunque no sea el medioda.
+seguras, así como la alborada no nos engańa aunque no sea el mediodía.
 
-Y, oh, permtanme decir
+Y, oh, permítanme decir
 
-que algunos de los aqu presentes son enemigos de Cristo, aunque tambin
+que algunos de los aquí presentes son enemigos de Cristo, aunque también
 
-ustedes tienen que haber percibido algunas seales de Su poder. Lo he visto
+ustedes tienen que haber percibido algunas seńales de Su poder. Lo he visto
 
-sacudir al infiel por medio del Evangelio hasta que ha dicho: Por poco me
+sacudir al infiel por medio del Evangelio hasta que ha dicho: “Por poco me
 
-persuades a ser cristiano. Lo ha tomado en el silencio de la noche y ha
+persuades a ser cristiano”. Lo ha tomado en el silencio de la noche y ha
 
-redargido su conciencia; en Su gentileza, amor y piedad ha inducido al hombre
+redargüido su conciencia; en Su gentileza, amor y piedad ha inducido al hombre
 
-a pensar y aunque ste no ha cedido por completo, ha sentido que hay un solemne
+a pensar y aunque éste no ha cedido por completo, ha sentido que hay un solemne
 
 poder que rodea al Cristo de Dios. Algunos de los peores hombres han sido
 
-forzados a reconocer que Cristo los ha vencido. Recuerden cmo Juliano dijo al
+forzados a reconocer que Cristo los ha vencido. Recuerden cómo Juliano dijo al
 
-momento de morir: El Nazareno me ha vencido; el Nazareno me ha vencido. Que
+momento de morir: “El Nazareno me ha vencido; el Nazareno me ha vencido”. Que
 
-t no tengas que decir eso en el artculo de muerte, pero oh, que lo digas
+tú no tengas que decir eso en el artículo de muerte, pero oh, que lo digas
 
-ahora. Que Su amor te domine por completo, que Su compasin te gane y entonces
+ahora. Que Su amor te domine por completo, que Su compasión te gane y entonces
 
-vers seales de Su poder en tu propia salvacin.
+verás seńales de Su poder en tu propia salvación.
 
 Pero debo concluir pues
 
-mi tiempo se ha agotado, pero deseo agregar que sera algo bendito si cada uno
+mi tiempo se ha agotado, pero deseo agregar que sería algo bendito si cada uno
 
-de los aqu presentes, convirtindose en un creyente en Jess, le viera desde
+de los aquí presentes, convirtiéndose en un creyente en Jesús, le viera desde
 
-ahora a la diestra del poder y viniendo en las nubes del cielo. Ojal que
+ahora a la diestra del poder y viniendo en las nubes del cielo. Ojalá que
 
-pudieran vivir con esa visin plenamente a la vista, creyendo que Jess est a
+pudieran vivir con esa visión plenamente a la vista, creyendo que Jesús está a
 
-la diestra del poder, confiando en l y reposando en l. Porque sabemos que l
+la diestra del poder, confiando en Él y reposando en Él. Porque sabemos que Él
 
-es Jehov, el fuerte y valiente, Jehov el poderoso en batalla, no debemos tener
+es Jehová, el fuerte y valiente, Jehová el poderoso en batalla, no debemos tener
 
 nunca ninguna duda cuando hagamos lo que es recto. No debemos albergar ninguna
 
-duda cuando sigamos a Jess, pues l es ms que vencedor, y tambin lo sern Sus
+duda cuando sigamos a Jesús, pues Él es más que vencedor, y también lo serán Sus
 
-seguidores. Sigamos con valenta hacia adelante confiando en l como el nio
+seguidores. Sigamos con valentía hacia adelante confiando en Él como el nińo
 
-confa en su padre, pues Aquel en quien depositamos nuestra confianza es
+confía en su padre, pues Aquel en quien depositamos nuestra confianza es
 
 poderoso.
 
-Mantengamos tambin ante
+Mantengamos también ante
 
-al ojo de nuestra mente el hecho de que l viene. Pero no sean ustedes como las
+al ojo de nuestra mente el hecho de que Él viene. Pero no sean ustedes como las
 
-vrgenes que se quedaron dormidas. Aun ahora mi odo pareciera or el grito de
+vírgenes que se quedaron dormidas. Aun ahora mi oído pareciera oír el grito de
 
-medianoche: Aqu viene el esposo! Levntense, ustedes, vrgenes, y no
+medianoche: “ˇAquí viene el esposo!” Levántense, ustedes, vírgenes, y no
 
-duerman ms, pues el esposo est cerca. En cuanto a ustedes, vrgenes
+duerman más, pues el esposo está cerca. En cuanto a ustedes, vírgenes
 
-insensatas, que Dios les conceda que haya todava suficiente tiempo disponible
+insensatas, que Dios les conceda que haya todavía suficiente tiempo disponible
 
-para que se despierten incluso ustedes, para que an cuenten con aceite para sus
+para que se despierten incluso ustedes, para que aún cuenten con aceite para sus
 
-lmparas antes que l venga. No sabemos cundo venga, pero viene pronto. Estn
+lámparas antes que Él venga. No sabemos cuándo venga, pero viene pronto. Estén
 
 listas, pues a la hora menos pensada viene el Hijo del hombre. Sean ustedes
 
-como varones que velan esperando a su Seor y como siervos que estn listos a
+como varones que velan esperando a su Seńor y como siervos que están listos a
 
-rendir cuentas, porque el padre de familia est cerca.
+rendir cuentas, porque el padre de familia está cerca.
 
-En ese espritu acerqumonos
+En ese espíritu acerquémonos
 
-a la mesa del Seor, cuantas veces nos reunamos all, pues l nos ha dicho:
+a la mesa del Seńor, cuantas veces nos reunamos allí, pues Él nos ha dicho:
 
-Haced esto hasta que venga. Las ordenanzas externas cesarn cuando l venga,
+“Haced esto hasta que venga”. Las ordenanzas externas cesarán cuando Él venga,
 
-pues no necesitaremos de ningn memorial cuando el propio Seor est en medio
+pues no necesitaremos de ningún memorial cuando el propio Seńor esté en medio
 
-de nosotros. Prometmosle aqu nuestra fidelidad en la copa. Creemos
+de nosotros. Prometámosle aquí nuestra fidelidad en la copa. Creemos
 
-verdaderamente que l viene; proclamamos alegremente que l viene. Es un tema
+verdaderamente que Él viene; proclamamos alegremente que Él viene. żEs un tema
 
-de dicha para ustedes? Si no fuera as:
+de dicha para ustedes? Si no fuera así:
 
-Ustedes, pecadores, busquen el rostro
+“Ustedes, pecadores, busquen el rostro
 
-De Aquel cuya ira no podran soportar;
+De Aquel cuya ira no podrían soportar;
 
-Inclnense ante el cetro de Su gracia,
+Inclínense ante el cetro de Su gracia,
 
-Y encuentren all la salvacin.
+Y encuentren allí la salvación”.
 
 Que Dios los bendiga por
 
-Jesucristo nuestro Seor.
+Jesucristo nuestro Seńor.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Mateo 26: 47-75.
+del sermón: Mateo 26: 47-75.
 
 Nota del traductor:
 
 Como se sabe, el texto
 
-de este sermn sigue la versin King James en ingls. Con el objeto de
+de este sermón sigue la versión King James en inglés. Con el objeto de
 
-traducirlo de manera directa sin que tener que retorcer los textos, utilic la
+traducirlo de manera directa sin que tener que retorcer los textos, utilicé la
 
-traduccin que se encuentra en
+traducción que se encuentra en
 
 la Biblia
 
 Americana
 
-San Jernimo, que es la edicin totalmente revisada
+San Jerónimo, que es la edición totalmente revisada
 
 de
 
 la Biblia
 
-del Padre Felipe Sco de San Miguel. Aunque dicho autor tuvo en cuenta
+del Padre Felipe Scío de San Miguel. Aunque dicho autor tuvo en cuenta
 
-principalmente la traduccin de San Jernimo, tambin us los manuscritos y
+principalmente la traducción de San Jerónimo, también usó los manuscritos y
 
-cdices que se encontraban en
+códices que se encontraban en
 
 la Real
 
@@ -1280,7 +1280,7 @@ Biblioteca
 
 del Escorial.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 7/Marzo/2013
 

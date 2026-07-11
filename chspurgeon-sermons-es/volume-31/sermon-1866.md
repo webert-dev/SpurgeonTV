@@ -1,8 +1,8 @@
 # Sermón 1866 | Sermón 1866
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Escuela
 
@@ -12,9 +12,9 @@ y las
 
 Escrituras
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -22,35 +22,35 @@ DOMINGO 18 DE
 
 OCTUBRE, 1885
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y que desde
+“Y que desde
 
-la niez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio
+la nińez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio
 
-para la salvacin por la fe que es en Cristo Jess. 2 Timoteo 3: 15.
+para la salvación por la fe que es en Cristo Jesús”. 2 Timoteo 3: 15.
 
-De qu manera tan
+ˇDe qué manera tan
 
-extraordinaria se repiten los tiempos! Tal como lo dije cuando leamos el
+extraordinaria se repiten los tiempos! Tal como lo dije cuando leíamos el
 
-captulo, la advertencia que dio Pablo en relacin al momento en que l viva
+capítulo, la advertencia que dio Pablo en relación al momento en que él vivía
 
 es igualmente necesaria para nuestros tiempos. Nuevamente las tinieblas se
 
 tornan densas y las brumas flotan pesadamente en torno a nuestras pisadas. Los
 
-malvados y los seductores se vuelven cada vez peores, y muchsimas personas
+malvados y los seductores se vuelven cada vez peores, y muchísimas personas
 
-apartan sus odos de la verdad para poner atencin a las
+apartan sus oídos de la verdad para poner atención a las
 
-fbulas
+fábulas
 
 .
 
-No nos sorprende que as sea. La historia tiene que repetirse mientras tengamos
+No nos sorprende que así sea. La historia tiene que repetirse mientras tengamos
 
 que seguir tratando con la misma naturaleza humana, con los mismos pecados que
 
@@ -62,101 +62,101 @@ Pero, hermanos, cuando
 
 se presentan los mismos males, tenemos que aplicar los mismos remedios. Cuando
 
-regresa una enfermedad que ya ha provocado daos letales en tiempos pasados,
+regresa una enfermedad que ya ha provocado dańos letales en tiempos pasados,
 
-los mdicos investigan qu medicinas contuvieron al enemigo en alguna ocasin
+los médicos investigan qué medicinas contuvieron al enemigo en alguna ocasión
 
 anterior. Nosotros nos vemos obligados a hacer lo mismo en los asuntos
 
-espirituales. Tenemos que ver qu hizo Pablo en su da, cuando la malaria de la
+espirituales. Tenemos que ver qué hizo Pablo en su día, cuando la malaria de la
 
 falsa doctrina contaminaba el aire. Como regla general es muy notable comprobar
 
 que todo lo que es realmente eficaz, resulta ser muy sencillo. Si se realiza un
 
-descubrimiento dentro de la ciencia o se elabora el diseo de alguna nueva
+descubrimiento dentro de la ciencia o se elabora el diseńo de alguna nueva
 
-maquinaria, al principio todo es complicado debido a que todava es imperfecto,
+maquinaria, al principio todo es complicado debido a que todavía es imperfecto,
 
 pero todas las mejoras son tendientes a alcanzar la sencillez.
 
 Sucede exactamente lo
 
-mismo con las enseanzas espirituales. Cuando damos con la realidad, recortamos
+mismo con las enseńanzas espirituales. Cuando damos con la realidad, recortamos
 
 la superfluidad. No hablemos de inventar sabias medidas para remediar el
 
-presente conflicto del mundo espiritual, antes bien, debemos usar el magnfico
+presente conflicto del mundo espiritual, antes bien, debemos usar el magnífico
 
-remedio que fue tan eficaz en los das de Pablo. Pablo mismo ense el
+remedio que fue tan eficaz en los días de Pablo. Pablo mismo enseńó el
 
-Evangelio al joven Timoteo; no slo hizo que oyera su doctrina sino que viera
+Evangelio al joven Timoteo; no sólo hizo que oyera su doctrina sino que viera
 
-tambin su prctica. Nosotros no podemos forzar la verdad en los hombres, pero
+también su práctica. Nosotros no podemos forzar la verdad en los hombres, pero
 
-podemos hacer que nuestra enseanza sea clara y categrica y que nuestras vidas
+podemos hacer que nuestra enseńanza sea clara y categórica y que nuestras vidas
 
-sean consistentes con esa enseanza. La verdad y la santidad son los antdotos
+sean consistentes con esa enseńanza. La verdad y la santidad son los antídotos
 
-ms seguros para contrarrestar el error y la injusticia. El apstol le dijo a
+más seguros para contrarrestar el error y la injusticia. El apóstol le dijo a
 
-Timoteo: Persiste t en lo que has aprendido y te persuadiste, sabiendo de
+Timoteo: “Persiste tú en lo que has aprendido y te persuadiste, sabiendo de
 
-quin has aprendido.
+quién has aprendido”.
 
-Luego hizo hincapi en
+Luego hizo hincapié en
 
-otro potente remedio que haba sido de gran utilidad para el joven predicador,
+otro potente remedio que había sido de gran utilidad para el joven predicador,
 
-es decir, el conocimiento de las Sagradas Escrituras desde su ms tierna niez.
+es decir, el conocimiento de las Sagradas Escrituras desde su más tierna nińez.
 
-ste era uno de los mejores resguardos del joven Timoteo. Su instruccin a
+Éste era uno de los mejores resguardos del joven Timoteo. Su instrucción a
 
-temprana edad le sostena como un ancla y le protega de la terrible tendencia
+temprana edad le sostenía como un ancla y le protegía de la terrible tendencia
 
-de la poca. Dichoso el joven de quien el apstol poda decir: Desde la niez
+de la época. ˇDichoso el joven de quien el apóstol podía decir: “Desde la nińez
 
 has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la
 
-salvacin por la fe que es en Cristo Jess!
+salvación por la fe que es en Cristo Jesús”!
 
 Hermanos, para estar
 
-preparados para el conflicto venidero, nicamente tenemos que predicar el
+preparados para el conflicto venidero, únicamente tenemos que predicar el
 
-Evangelio y vivir el Evangelio, y debemos encargarnos tambin de ensear a los
+Evangelio y vivir el Evangelio, y debemos encargarnos también de enseńar a los
 
-nios
+nińos
 
 la Palabra
 
-del Seor. Debemos ocuparnos especialmente de sto ltimo, pues Dios silenciar
+del Seńor. Debemos ocuparnos especialmente de ésto último, pues Dios silenciará
 
-al enemigo por boca de los nios y de los que maman. Es intil soar con que
+al enemigo por boca de los nińos y de los que maman. Es inútil sońar con que
 
-debemos responder al conocimiento humano con conocimiento humano, o que Satans
+debemos responder al conocimiento humano con conocimiento humano, o que Satanás
 
-debe echar fuera a Satans. No. Alcen a la serpiente de bronce doquiera que las
+debe echar fuera a Satanás. No. Alcen a la serpiente de bronce doquiera que las
 
-serpientes ardientes estn mordiendo al pueblo, y los hombres la mirarn y
+serpientes ardientes estén mordiendo al pueblo, y los hombres la mirarán y
 
-vivirn. Saquen a los nios, sostnganlos en alto, y hagan volver sus ojitos
+vivirán. Saquen a los nińos, sosténganlos en alto, y hagan volver sus ojitos
 
-hacia el remedio divinamente ordenado, pues hay vida todava en una mirada:
+hacia el remedio divinamente ordenado, pues hay vida todavía en una mirada:
 
-vida para neutralizar los diversos venenos de la serpiente que ahora emponzoan
+vida para neutralizar los diversos venenos de la serpiente que ahora emponzońan
 
-la sangre de los hombres. Despus de todo, no hay ninguna cura para la
+la sangre de los hombres. Después de todo, no hay ninguna cura para la
 
 oscuridad de medianoche excepto el sol naciente y no queda ninguna esperanza para
 
 un mundo sumido en las tinieblas excepto la luz que ilumina a todo hombre. Resplandece,
 
-oh Sol de Justicia, y desaparecern la niebla y la nube y la oscuridad.
+oh Sol de Justicia, y desaparecerán la niebla y la nube y la oscuridad.
 
-Hermanos, apguense a
+Hermanos, apéguense a
 
-los planes apostlicos y tendrn la seguridad de tener un xito apostlico.
+los planes apostólicos y tendrán la seguridad de tener un éxito apostólico.
 
 Prediquen a Cristo; prediquen
 
@@ -164,25 +164,25 @@ la
 
 Palabra
 
-a tiempo y fuera de tiempo e instruyan a los nios.
+a tiempo y fuera de tiempo e instruyan a los nińos.
 
-Uno de los principales mtodos que Dios utiliza para preservar Sus campos de la
+Uno de los principales métodos que Dios utiliza para preservar Sus campos de la
 
-cizaa es sembrarlos con trigo de maana. Sobre este tema voy a hablarles hoy
+cizańa es sembrarlos con trigo de mańana. Sobre este tema voy a hablarles hoy
 
-con la ayuda del Espritu Santo.
+con la ayuda del Espíritu Santo.
 
 Al rastrear la obra de gracia
 
-en el corazn de Timoteo y de otros seres favorecidos como l lo fue, voy a
+en el corazón de Timoteo y de otros seres favorecidos como él lo fue, voy a
 
 notar que esta obra
 
-comenz con una
+comenzó con una
 
-instruccin temprana:
+instrucción temprana:
 
-Desde la niez has sabido las Sagradas Escrituras; en
+“Desde la nińez has sabido las Sagradas Escrituras”; en
 
 segundo lugar, que la obra fue
 
@@ -192,15 +192,15 @@ y vuelta
 
 eficaz por la fe salvadora:
 
-Las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvacin
+“Las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación
 
-por la fe que es en Cristo Jess. Despus hemos de notar que el efecto de esta
+por la fe que es en Cristo Jesús”. Después hemos de notar que el efecto de esta
 
-instruccin temprana en Timoteo fue el de
+instrucción temprana en Timoteo fue el de
 
 crear
 
-un slido carcter,
+un sólido carácter,
 
 y, adicionalmente, el de
 
@@ -210,35 +210,35 @@ I.
 
 La
 
-obra de la gracia de Dios en Timoteo COMENZ CON UNA INSTRUCCIN TEMPRANA:
+obra de la gracia de Dios en Timoteo COMENZÓ CON UNA INSTRUCCIÓN TEMPRANA:
 
-Desde la niez has sabido las Sagradas Escrituras.
+“Desde la nińez has sabido las Sagradas Escrituras”.
 
-Noten el tiempo para la instruccin.
+Noten el tiempo para la instrucción.
 
-Podramos
+Podríamos
 
-entender mejor la expresin: Desde la niez, si la leyramos: Desde la ms
+entender mejor la expresión: “Desde la nińez”, si la leyéramos: “Desde la más
 
-tierna niez, o, como lo expresa
+tierna nińez”, o, como lo expresa
 
-la Versin
+la Versión
 
 Revisada
 
 :
 
-Desde que eras un beb. No se refiere a un muchacho ya crecido, o a un joven,
+“Desde que eras un bebé”. No se refiere a un muchacho ya crecido, o a un joven,
 
-sino a un nio que apenas va saliendo de la infancia. Timoteo haba conocido los
+sino a un nińo que apenas va saliendo de la infancia. Timoteo había conocido los
 
-escritos sagrados desde su ms tierna niez. Sin duda esta expresin es usada
+escritos sagrados desde su más tierna nińez. Sin duda esta expresión es usada
 
 para mostrarnos que no podemos comenzar demasiado pronto a imbuir las mentes de
 
-nuestros hijos del conocimiento escritural. Los bebs reciben impresiones mucho
+nuestros hijos del conocimiento escritural. Los bebés reciben impresiones mucho
 
-tiempo antes de que nos demos cuenta de ese hecho. Un nio aprende ms de lo que
+tiempo antes de que nos demos cuenta de ese hecho. Un nińo aprende más de lo que
 
 nos imaginamos durante los primeros meses de su vida. Pronto conoce el amor de
 
@@ -246,17 +246,17 @@ su madre y la propia dependencia suya, y si la madre es sabia, aprende el
 
 significado de la obediencia y de la necesidad de someter su voluntad a una
 
-voluntad superior. sta pudiera ser la nota ms importante para toda su vida
+voluntad superior. Ésta pudiera ser la nota más importante para toda su vida
 
-futura. Si aprendiera pronto la obediencia y la sumisin, eso podra ahorrarle
+futura. Si aprendiera pronto la obediencia y la sumisión, eso podría ahorrarle
 
-miles de lgrimas a los ojos del nio, y ahorrar otras tantas lgrimas al
+miles de lágrimas a los ojos del nińo, y ahorrar otras tantas lágrimas al
 
-corazn de la madre. Cuando se deja sin cultivar la edad de la ms tierna
+corazón de la madre. Cuando se deja sin cultivar la edad de la más tierna
 
-infancia, se pierde una especial posicin ventajosa.
+infancia, se pierde una especial posición ventajosa.
 
-Los nios pueden
+Los nińos pueden
 
 aprender
 
@@ -266,25 +266,25 @@ Escritura
 
 tan pronto como son capaces de entender algo. Es un
 
-hecho muy notable -y he odo que muchos maestros lo aseveran- que los nios
+hecho muy notable -y he oído que muchos maestros lo aseveran- que los nińos
 
 aprenden a leer en
 
 la Biblia
 
-mejor que en cualquier otro libro. Yo no sabra decirles por qu. Pudiera ser,
+mejor que en cualquier otro libro. Yo no sabría decirles por qué. Pudiera ser,
 
-tal vez, debido a la simplicidad del lenguaje. Pero yo creo que as es. Con
+tal vez, debido a la simplicidad del lenguaje. Pero yo creo que así es. Con
 
-frecuencia se retiene algn hecho bblico pero se olvida un incidente de la
+frecuencia se retiene algún hecho bíblico pero se olvida un incidente de la
 
-historia comn.
+historia común.
 
 La Biblia
 
 se adapta a los seres humanos de todas las edades y, por tanto, se adecua a los
 
-nios. Cometemos un error cuando pensamos que debemos comenzar primero con
+nińos. Cometemos un error cuando pensamos que debemos comenzar primero con
 
 alguna otra cosa para guiarlos posteriormente hacia las Escrituras.
 
@@ -292,241 +292,241 @@ La Biblia
 
 es el libro que debe
 
-ser ledo al amanecer. Partes de
+ser leído al amanecer. Partes de
 
 la
 
 Biblia
 
-superan la mente de un nio, pero tambin estn por
+superan la mente de un nińo, pero también están por
 
-encima de la comprensin de los ms avanzados de nosotros. Se encuentran en
+encima de la comprensión de los más avanzados de nosotros. Se encuentran en
 
-ella profundidades en las que puede nadar Leviatn, pero hay tambin torrentes que
+ella profundidades en las que puede nadar Leviatán, pero hay también torrentes que
 
-una oveja puede vadear. Los sabios maestros saben cmo conducir a sus
+una oveja puede vadear. Los sabios maestros saben cómo conducir a sus
 
-pequeitos a los delicados pastos junto a aguas de reposo.
+pequeńitos a los delicados pastos junto a aguas de reposo.
 
-Adverta yo en la vida
+Advertía yo en la vida
 
-de aquel hombre de Dios, cuya prdida pesa sobremanera en muchos de nuestros
+de aquel hombre de Dios, cuya pérdida pesa sobremanera en muchos de nuestros
 
 corazones, es decir, el Conde de Shaftesbury, que una humilde mujer fue quien
 
-produjo en l sus primeras impresiones religiosas. En la guardera infantil
+produjo en él sus primeras impresiones religiosas. En la guardería infantil
 
-recibi las impresiones que lo convirtieron en Shaftesbury, el hombre de Dios y
+recibió las impresiones que lo convirtieron en Shaftesbury, el hombre de Dios y
 
-el amigo del hombre. Lord Ashley, cuando nio, tena una nodriza que le hablaba
+el amigo del hombre. Lord Ashley, cuando nińo, tenía una nodriza que le hablaba
 
-de las cosas de Dios. l nos comenta que ella muri antes de que l cumpliera
+de las cosas de Dios. Él nos comenta que ella murió antes de que él cumpliera
 
-los siete aos de edad, lo cual es una clara prueba de que su corazn haba
+los siete ańos de edad, lo cual es una clara prueba de que su corazón había
 
-sido capaz de recibir el sello del Espritu de Dios muy temprano en su vida, y
+sido capaz de recibir el sello del Espíritu de Dios muy temprano en su vida, y
 
 de recibirlo por medio de un humilde conducto. Bendita entre las mujeres fue
 
-aquella cuyo nombre desconocemos, pero que realiz un incalculable servicio
+aquella cuyo nombre desconocemos, pero que realizó un incalculable servicio
 
-para Dios y para el hombre por la santa instruccin proporcionada al nio escogido.
+para Dios y para el hombre por la santa instrucción proporcionada al nińo escogido.
 
-Jvenes nodrizas, tomen nota de eso.
+Jóvenes nodrizas, tomen nota de eso.
 
 Dennos los primeros
 
-siete aos de la vida de un nio y, con la gracia de Dios, podemos desafiar al
+siete ańos de la vida de un nińo y, con la gracia de Dios, podemos desafiar al
 
 mundo, a la carne y al demonio a que arruinen a esa alma inmortal. Esos
 
-primeros aos, cuando todava la arcilla est suave y plstica, cuentan mucho
+primeros ańos, cuando todavía la arcilla está suave y plástica, cuentan mucho
 
-para decidir la forma de la vasija. Maestro que enseas a los muchachos: no
+para decidir la forma de la vasija. Maestro que enseńas a los muchachos: no
 
-digas que tu oficio es en el ms mnimo grado inferior al nuestro, que consiste
+digas que tu oficio es en el más mínimo grado inferior al nuestro, que consiste
 
-principalmente en el trabajo con adultos. No, t tienes sus primicias, y tus
+principalmente en el trabajo con adultos. No, tú tienes sus primicias, y tus
 
-impresiones, puesto que llegan primero, durarn hasta el fin. Oh, que esas
+impresiones, puesto que llegan primero, durarán hasta el fin. ˇOh, que esas
 
-impresiones sean buenas y slo buenas! Entre los pensamientos que le vienen a
+impresiones sean buenas y sólo buenas! Entre los pensamientos que le vienen a
 
-un anciano antes de entrar al cielo, los ms copiosos son aqullos que le
+un anciano antes de entrar al cielo, los más copiosos son aquéllos que le
 
-visitaban antao cuando se sentaba en el regazo de su madre. Lo que condujo al
+visitaban antańo cuando se sentaba en el regazo de su madre. Lo que condujo al
 
-doctor Guthrie a solicitar un himno para nios cuando agonizaba, no es sino
+doctor Guthrie a solicitar un “himno para nińos” cuando agonizaba, no es sino
 
-un instinto de nuestra naturaleza que nos conduce a completar el crculo
+un instinto de nuestra naturaleza que nos conduce a completar el círculo
 
-amarrando los extremos de la vida. Las cosas infantiles son las ms queridas
+amarrando los extremos de la vida. Las cosas infantiles son las más queridas
 
-para la ancianidad. Nos despojamos de una porcin de la coraza que nos rodea y
+para la ancianidad. Nos despojamos de una porción de la coraza que nos rodea y
 
-nos estorba, y regresamos de nuevo a nuestro yo ms natural y, por tanto, las
+nos estorba, y regresamos de nuevo a nuestro yo más natural y, por tanto, las
 
-viejas canciones estn en nuestros labios, y los viejos pensamientos estn en
+viejas canciones están en nuestros labios, y los viejos pensamientos están en
 
-nuestras mentes. Las enseanzas de nuestra niez dejan impresiones tajantes y
+nuestras mentes. Las enseńanzas de nuestra nińez dejan impresiones tajantes y
 
 agudas en la mente, las cuales permanecen aun cuando hubieren pasado setenta
 
-aos. Procuremos que tales impresiones se graben para los fines ms excelsos.
+ańos. Procuremos que tales impresiones se graben para los fines más excelsos.
 
 Es bueno
 
-notar la admirable seleccin de
+notar la admirable selección de
 
 instructores.
 
-Sabemos con certeza quines instruyeron al joven Timoteo. En
+Sabemos con certeza quiénes instruyeron al joven Timoteo. En
 
-el primer captulo de la epstola Pablo dice: Trayendo a la memoria la fe no
+el primer capítulo de la epístola Pablo dice: “Trayendo a la memoria la fe no
 
-fingida que hay en ti, la cual habit primero en tu abuela Loida, y en tu madre
+fingida que hay en ti, la cual habitó primero en tu abuela Loida, y en tu madre
 
-Eunice, y estoy seguro que en ti tambin. Sin duda Loida, la abuela, y Eunice,
+Eunice, y estoy seguro que en ti también”. Sin duda Loida, la abuela, y Eunice,
 
-la madre, hicieron causa comn para la enseanza del pequeito. Quin debera
+la madre, hicieron causa común para la enseńanza del pequeńito. żQuién debería
 
-ensear a los hijos sino los padres? El padre de Timoteo era griego y
+enseńar a los hijos sino los padres? El padre de Timoteo era griego y
 
 probablemente era pagano, pero su hijo tuvo la dicha de contar con una
 
-venerable abuela, que a menudo es la ms amada de todos los parientes de un
+venerable abuela, que a menudo es la más amada de todos los parientes de un
 
-pequeito. Tambin contaba con una agraciada madre que una vez fue una devota
+pequeńito. También contaba con una agraciada madre que una vez fue una devota
 
-juda, y que posteriormente fue tambin una cristiana firmemente creyente, para
+judía, y que posteriormente fue también una cristiana firmemente creyente, para
 
-quien la dicha cotidiana consista en ensear
+quien la dicha cotidiana consistía en enseńar
 
 la Palabra
 
-del Seor a su
+del Seńor a su
 
 propio amado hijo.
 
-Oh madres amadas, Dios
+ˇOh madres amadas, Dios
 
-ha depositado en ustedes una sagrada responsabilidad! l les ha dicho en
+ha depositado en ustedes una sagrada responsabilidad! Él les ha dicho en
 
-efecto: Lleva a este nio y cramelo, y yo te lo pagar. Ustedes son llamadas
+efecto: “Lleva a este nińo y críamelo, y yo te lo pagaré”. Ustedes son llamadas
 
-a equipar al futuro hombre de Dios para que est enteramente preparado para
+a equipar al futuro hombre de Dios para que esté enteramente preparado para
 
-toda buena obra. Si Dios les diera vida, podran vivir para or predicar a ese
+toda buena obra. Si Dios les diera vida, podrían vivir para oír predicar a ese
 
-hermoso muchacho a miles de personas, y ustedes gozaran en su corazn de la
+hermoso muchacho a miles de personas, y ustedes gozarían en su corazón de la
 
-dulce reflexin de que las apacibles enseanzas de la etapa infantil condujeron
+dulce reflexión de que las apacibles enseńanzas de la etapa infantil condujeron
 
-al hombre a amar a su Dios y a servirle. Aqullos que piensan que una mujer retenida
+al hombre a amar a su Dios y a servirle. Aquéllos que piensan que una mujer retenida
 
-en el hogar por su pequea familia no est haciendo nada, piensan lo contrario
+en el hogar por su pequeńa familia no está haciendo nada, piensan lo contrario
 
-de lo que es cierto. La madre piadosa difcilmente puede abandonar su hogar
+de lo que es cierto. La madre piadosa difícilmente puede abandonar su hogar
 
-para asistir a algn lugar de adoracin, pero no sueen que ella est perdida
+para asistir a algún lugar de adoración, pero no sueńen que ella esté perdida
 
-para la obra de la iglesia; antes bien, est desempeando el mejor servicio posible
+para la obra de la iglesia; antes bien, está desempeńando el mejor servicio posible
 
-para su Seor. Madres, la piadosa instruccin de sus retoos es su primer deber
+para su Seńor. Madres, la piadosa instrucción de sus retońos es su primer deber
 
-y tambin es el ms apremiante. Las mujeres cristianas que ensean las Santas
+y también es el más apremiante. Las mujeres cristianas que enseńan las Santas
 
-Escrituras a los prvulos, estn cumpliendo su parte para el Seor al igual que
+Escrituras a los párvulos, están cumpliendo su parte para el Seńor al igual que
 
-Moiss, juzgando a Israel, o Salomn, construyendo el templo.
+Moisés, juzgando a Israel, o Salomón, construyendo el templo.
 
-Ay!, puesto que el
+ˇAy!, puesto que el
 
-mundo cuenta con tan pocas madres y abuelas cristianas en nuestros das, la
+mundo cuenta con tan pocas madres y abuelas cristianas en nuestros días, la
 
-iglesia ha considerado sabio complementar la instruccin del hogar por medio de
+iglesia ha considerado sabio complementar la instrucción del hogar por medio de
 
-una enseanza proporcionada bajo su ala nutricia. La iglesia pone bajo su
+una enseńanza proporcionada bajo su ala nutricia. La iglesia pone bajo su
 
-maternal cuidado a los nios que no cuentan con tales padres. Yo considero que
+maternal cuidado a los nińos que no cuentan con tales padres. Yo considero que
 
-sta es una institucin muy bendita. Estoy agradecido por tantos de nuestros
+ésta es una institución muy bendita. Estoy agradecido por tantos de nuestros
 
 hermanos y hermanas que entregan sus domingos, y muchos de ellos una parte
 
-considerable de sus noches de semana tambin, para la enseanza de los hijos de
+considerable de sus noches de semana también, para la enseńanza de los hijos de
 
 otras personas que de alguna manera se convierten en suyos. Se esfuerzan por
 
-desempear los deberes de padres y madres, por la causa de Dios, para esos
+desempeńar los deberes de padres y madres, por la causa de Dios, para esos
 
-nios que son ignorados por sus propios padres, y en eso actan muy bien.
+nińos que son ignorados por sus propios padres, y en eso actúan muy bien.
 
-Ningn padre cristiano debe caer en el engao de que la escuela dominical tiene
+Ningún padre cristiano debe caer en el engańo de que la escuela dominical tiene
 
-el propsito de aligerarlos de sus deberes personales. La primera y ms natural
+el propósito de aligerarlos de sus deberes personales. La primera y más natural
 
-condicin de las cosas es que los padres cristianos instruyan a sus propios
+condición de las cosas es que los padres cristianos instruyan a sus propios
 
-hijos en la educacin y en la admonicin del Seor. Las abuelas y las
+hijos en la educación y en la admonición del Seńor. Las abuelas y las
 
 agraciadas madres, juntamente con sus esposos, deben velar para que sus propios
 
-muchachos y muchachas sean debidamente instruidos en el Libro del Seor. Donde
+muchachos y muchachas sean debidamente instruidos en el Libro del Seńor. Donde
 
 no hay tales padres cristianos, es bueno y sabio que intervengan personas piadosas.
 
-Es una obra conforme a Cristo que otros asuman el deber de quienes deban
+Es una obra conforme a Cristo que otros asuman el deber de quienes debían
 
-naturalmente desempearlo pero no lo hicieron. El Seor Jess mira con agrado a
+naturalmente desempeńarlo pero no lo hicieron. El Seńor Jesús mira con agrado a
 
 quienes alimentan a Sus ovejas y nutren a Sus parvulitos, pues no es Su
 
-voluntad que se pierda uno de estos pequeos. Timoteo tuvo el gran privilegio
+voluntad que se pierda uno de estos pequeńos. Timoteo tuvo el gran privilegio
 
-de ser instruido por quienes tenan ese deber natural, pero cuando ese gran
+de ser instruido por quienes tenían ese deber natural, pero cuando ese gran
 
 privilegio no puede ser disfrutado, todos nosotros, conforme Dios nos ayude,
 
-debemos procurar compensar a los nios la terrible prdida que experimentan.
+debemos procurar compensar a los nińos la terrible pérdida que experimentan.
 
-Pasen al frente, hombres y mujeres denodados, y santifquense para este gozoso
+Pasen al frente, hombres y mujeres denodados, y santifíquense para este gozoso
 
 servicio.
 
-Noten el tema de la instruccin.
+Noten el tema de la instrucción.
 
-Desde la niez has sabido
+“Desde la nińez has sabido
 
-las Sagradas Escrituras. Timoteo fue conducido a
+las Sagradas Escrituras”. Timoteo fue conducido a
 
 tratar al libro de Dios con gran reverencia.
 
-Pongo el nfasis sobre
+Pongo el énfasis sobre
 
 esa palabra:
 
-Sagradas
+“Sagradas
 
-Escrituras. Uno
+Escrituras”. Uno
 
-de los primeros propsitos de la escuela dominical debe ser ensear a los nios
+de los primeros propósitos de la escuela dominical debe ser enseńar a los nińos
 
 una gran reverencia para estos sagrados escritos, para estas inspiradas
 
-Escrituras. Los judos valoraban al Antiguo Testamento ms all de todo precio,
+Escrituras. Los judíos valoraban al Antiguo Testamento más allá de todo precio,
 
 y aunque desafortunadamente muchos de ellos cayeron en una reverencia
 
-supersticiosa de la letra, perdiendo su espritu, eran muy encomiables por su
+supersticiosa de la letra, perdiendo su espíritu, eran muy encomiables por su
 
-profunda consideracin para con los sagrados orculos. Este sentimiento de
+profunda consideración para con los sagrados oráculos. Este sentimiento de
 
-reverencia es necesario especialmente en nuestros das. Yo me encuentro con
+reverencia es necesario especialmente en nuestros días. Yo me encuentro con
 
-personas que sostienen extraos puntos de vista, pero sus perspectivas y su
+personas que sostienen extrańos puntos de vista, pero sus perspectivas y su
 
-extrao contenido no me importan ni la mitad de lo que me importa un cierto
+extrańo contenido no me importan ni la mitad de lo que me importa un cierto
 
 elemento que atisbo en el fondo de ese novedoso pensamiento. Cuando descubro
 
@@ -538,23 +538,23 @@ la Escritura
 
 ello no les he demostrado nada ya que a ellos no les importan las Escrituras,
 
-entonces he descubierto un principio mucho ms peligroso que un simple error
+entonces he descubierto un principio mucho más peligroso que un simple error
 
 doctrinal. Esta indiferencia hacia
 
 la Escritura
 
-es la gran maldicin de la iglesia en
+es la gran maldición de la iglesia en
 
 esta hora. Nosotros podemos tolerar opiniones divergentes, en tanto que
 
 percibamos un honesto intento de seguir el Libro de los Estatutos. Pero si se
 
-redujera a sto: que el Libro mismo es de poca autoridad para ustedes, entonces
+redujera a ésto: que el Libro mismo es de poca autoridad para ustedes, entonces
 
 no tenemos ninguna necesidad de seguir hablando; nos encontramos en diferentes
 
-campamentos, y entre ms pronto reconozcamos eso, ser mejor para todas las partes
+campamentos, y entre más pronto reconozcamos eso, será mejor para todas las partes
 
 involucradas. Si hemos de tener absolutamente una iglesia de Dios en la tierra,
 
@@ -562,73 +562,73 @@ la Escritura
 
 debe ser considerada como sagrada y debe ser tenida en reverencia. Esta
 
-Escritura fue entregada por santa inspiracin y no es el resultado de oscuros
+Escritura fue entregada por santa inspiración y no es el resultado de oscuros
 
-mitos y dudosas tradiciones; tampoco lleg por inercia hasta nosotros como uno
+mitos y dudosas tradiciones; tampoco llegó por inercia hasta nosotros como uno
 
-de los mejores libros humanos, por la supervivencia del ms apto. Tiene que ser
+de los mejores libros humanos, por la supervivencia del más apto. Tiene que ser
 
 transmitido a nuestros hijos, y tiene que ser aceptado por nosotros mismos como
 
-la revelacin infalible del Dios Santsimo. Pongan mucho nfasis en esto:
+la revelación infalible del Dios Santísimo. Pongan mucho énfasis en esto:
 
-dganles a sus hijos que
+díganles a sus hijos que
 
 la
 
 Palabra
 
-del Seor es una Palabra pura, como plata refinada en
+del Seńor es una Palabra pura, como plata refinada en
 
-horno de tierra, purificada siete veces. Su estimacin por el Libro de Dios
+horno de tierra, purificada siete veces. Su estimación por el Libro de Dios
 
-debe ser llevada al punto ms culminante.
+debe ser llevada al punto más culminante.
 
 Observen que no
 
-nicamente le ensearon a Timoteo la reverencia por las cosas santas, en
+únicamente le enseńaron a Timoteo la reverencia por las cosas santas, en
 
-general, sino que le ensearon especialmente
+general, sino que le enseńaron especialmente
 
 a saber las Escrituras.
 
-La enseanza de su madre y de su abuela fue
+La enseńanza de su madre y de su abuela fue
 
-la enseanza de
+la enseńanza de
 
 la
 
 Sagrada Escritura.
 
-Supongan que juntramos a los nios los
+Supongan que juntáramos a los nińos los
 
-das domingos, y que luego los divirtiramos e hiciramos que las horas
+días domingos, y que luego los divirtiéramos e hiciéramos que las horas
 
-transcurrieran placenteramente; o que los instruyramos, como lo hacemos en das
+transcurrieran placenteramente; o que los instruyéramos, como lo hacemos en días
 
-hbiles, en los elementos de una educacin moral. Qu habramos logrado? No
+hábiles, en los elementos de una educación moral. żQué habríamos logrado? No
 
-habramos logrado nada que fuese digno del da del Seor o de la iglesia de
+habríamos logrado nada que fuese digno del día del Seńor o de la iglesia de
 
-Dios. Supongan que furamos particularmente cuidadosos en ensearles a los
+Dios. Supongan que fuéramos particularmente cuidadosos en enseńarles a los
 
-nios las reglas y las regulaciones de nuestra propia iglesia, pero que no los
+nińos las reglas y las regulaciones de nuestra propia iglesia, pero que no los
 
-dirigiramos hacia las Escrituras; supongan que les presentramos un libro que
+dirigiéramos hacia las Escrituras; supongan que les presentáramos un libro que
 
-est establecido como la norma de nuestra iglesia, pero que no les explicramos
+está establecido como la norma de nuestra iglesia, pero que no les explicáramos
 
 la Biblia.
 
-Qu habramos hecho? La norma antes mencionada podra estar correcta o no, y
+żQué habríamos hecho? La norma antes mencionada podría estar correcta o no, y
 
-podramos, por tanto, haberles enseado a nuestros hijos la verdad o el error;
+podríamos, por tanto, haberles enseńado a nuestros hijos la verdad o el error;
 
-pero si nos apegramos a
+pero si nos apegáramos a
 
 la Sagrada Escritura
 
-, no podramos desviarnos. Con
+, no podríamos desviarnos. Con
 
 esa norma sabemos que estamos en lo correcto. Este Libro es
 
@@ -636,71 +636,71 @@ la Palabra
 
 de Dios, y si lo
 
-enseamos, enseamos aquello que el Seor aceptar y bendecir.
+enseńamos, enseńamos aquello que el Seńor aceptará y bendecirá.
 
-Oh, queridos maestros,
+ˇOh, queridos maestros,
 
--y yo aqu me dirijo tambin a m mismo- nuestra enseanza debe ser cada vez
+-y yo aquí me dirijo también a mí mismo- nuestra enseńanza debe ser cada vez
 
-ms bblica! No se agobien si nuestros alumnos olvidan lo que
+más bíblica! No se agobien si nuestros alumnos olvidan lo que
 
 nosotros
 
 les decimos, pero oren pidiendo
 
-que recuerden lo que el Seor les dice. Que las verdades divinas acerca del
+que recuerden lo que el Seńor les dice. ˇQue las verdades divinas acerca del
 
-pecado, y la justicia y el juicio venidero, sean escritas en sus corazones! Que
+pecado, y la justicia y el juicio venidero, sean escritas en sus corazones! ˇQue
 
 las verdades reveladas concernientes al amor de Dios, y la gracia de nuestro
 
-Seor Jesucristo y la obra del Espritu Santo, no sean olvidadas por ellos
+Seńor Jesucristo y la obra del Espíritu Santo, no sean olvidadas por ellos
 
-nunca! Que conozcan el poder y la necesidad de la sangre expiatoria de nuestro
+nunca! ˇQue conozcan el poder y la necesidad de la sangre expiatoria de nuestro
 
-Seor, el poder de Su resurreccin, y la gloria de la segunda venida! Que las
+Seńor, el poder de Su resurrección, y la gloria de la segunda venida! ˇQue las
 
 doctrinas de la gracia sean grabadas como con cincel de hierro en sus mentes, y
 
 escritas como con punta de diamante sobre sus corazones, para que no se borren
 
-nunca! Hermanos, si pudiramos lograr eso, no habramos vivido en vano. La
+nunca! Hermanos, si pudiéramos lograr eso, no habríamos vivido en vano. La
 
-generacin que gobierna ahora parece inclinada a apartarse de la verdad eterna
+generación que gobierna ahora parece inclinada a apartarse de la verdad eterna
 
 de Dios; pero no vamos a desesperar si el Evangelio quedara impreso en la
 
 memoria de la raza que surge.
 
-Algo ms acerca de este
+Algo más acerca de este
 
 punto: pareciera que el joven Timoteo fue instruido de tal manera cuando era
 
-nio, que
+nińo, que
 
-la enseanza fue eficaz.
+la enseńanza fue eficaz.
 
-Has
+“Has
 
 sabido
 
-las Sagradas Escrituras, dice
+las Sagradas Escrituras”, dice
 
-Pablo. Es mucho decir que un nio haya sabido las Sagradas Escrituras. T
+Pablo. Es mucho decir que un nińo haya “sabido las Sagradas Escrituras”. Tú
 
-podras decir: He enseado a los nios las Escrituras, pero es algo muy
+podrías decir: “He enseńado a los nińos las Escrituras”, pero es algo muy
 
-diferente que las hayan sabido. Conocen las Escrituras todos ustedes que son
+diferente que las hayan sabido. żConocen las Escrituras todos ustedes que son
 
 adultos? Yo me temo que aunque el conocimiento en general aumenta, el
 
-conocimiento de las Escrituras es demasiado infrecuente. Si furamos a tener un
+conocimiento de las Escrituras es demasiado infrecuente. Si fuéramos a tener un
 
-examen ahora, me temo que algunos de ustedes difcilmente destacaran en las
+examen ahora, me temo que algunos de ustedes difícilmente destacarían en las
 
-listas al final. Pero aqu tenemos a un niito que saba las Sagradas
+listas al final. Pero aquí tenemos a un nińito que sabía las Sagradas
 
-Escrituras, es decir, que tena una notable relacin con ellas. Los nios
+Escrituras, es decir, que tenía una notable relación con ellas. Los nińos
 
 pueden lograr eso; de ninguna manera es un logro imposible. Si Dios bendice sus
 
@@ -710,11 +710,11 @@ la Escritura
 
 que es
 
-necesaria para su salvacin. Pueden tener una idea tan verdadera del pecado como
+necesaria para su salvación. Pueden tener una idea tan verdadera del pecado como
 
-la que tiene su madre; pueden tener una visin tan clara de la expiacin como
+la que tiene su madre; pueden tener una visión tan clara de la expiación como
 
-pudiera tenerla su abuela; pueden tener una fe tan distinguible en Jess, como
+pudiera tenerla su abuela; pueden tener una fe tan distinguible en Jesús, como
 
 cualquiera de nosotros pudiera tenerla. Las cosas que contribuyen a nuestra paz
 
@@ -722,19 +722,19 @@ no requieren de una larga experiencia para prepararnos para recibirlas; se
 
 encuentran dentro de las cosas sencillas del pensamiento. Quien las lea puede
 
-correr, y un nio puede leerlas tan pronto como puede correr. La opinin de que
+correr, y un nińo puede leerlas tan pronto como puede correr. La opinión de que
 
-los nios no pueden recibir toda la verdad del Evangelio es un grave error,
+los nińos no pueden recibir toda la verdad del Evangelio es un grave error,
 
-pues la condicin de nio es una ayuda ms bien que un obstculo; las personas
+pues la condición de nińo es una ayuda más bien que un obstáculo; las personas
 
-mayores tienen que volverse como niitos antes de poder entrar en el reino.
+mayores tienen que volverse como nińitos antes de poder entrar en el reino.
 
-Pongan un buen cimiento en los nios. No permitan que la obra de la escuela
+Pongan un buen cimiento en los nińos. No permitan que la obra de la escuela
 
-dominical sea empaada, ni que sea conducida de una manera descuidada. Dejen
+dominical sea empańada, ni que sea conducida de una manera descuidada. Dejen
 
-que los nios conozcan
+que los nińos conozcan
 
 la Sagrada
 
@@ -750,71 +750,71 @@ segundo encabezado es que esta obra fue VIVIFICADA POR UNA FE SALVADORA. Las
 
 Escrituras no salvan, pero son capaces de hacer que un hombre sea sabio para
 
-salvacin. Los nios pueden saber las Escrituras, y sin embargo, podran no ser
+salvación. Los nińos pueden saber las Escrituras, y sin embargo, podrían no ser
 
 hijos de Dios.
 
 La fe en Jesucristo es la
 
-gracia que trae la salvacin inmediata.
+gracia que trae la salvación inmediata.
 
-Muchos amados nios son llamados
+Muchos amados nińos son llamados
 
-por Dios tan pronto que ni siquiera son capaces de decir con precisin cundo
+por Dios tan pronto que ni siquiera son capaces de decir con precisión cuándo
 
 fueron convertidos, pero fueron convertidos: debieron pasar de muerte a vida en
 
-un momento u otro. Ustedes no hubieran podido decir esta maana, mediante una
+un momento u otro. Ustedes no hubieran podido decir esta mańana, mediante una
 
-simple observacin, el momento en que el sol sali, pero en verdad sali; y
+simple observación, el momento en que el sol salió, pero en verdad salió; y
 
 hubo un instante cuando estaba debajo del horizonte y otro momento cuando se
 
-alz por encima del horizonte. Ya sea que lo veamos o no, el momento en que un
+alzó por encima del horizonte. Ya sea que lo veamos o no, el momento en que un
 
-nio es realmente salvo es cuando cree en el Seor Jesucristo.
+nińo es realmente salvo es cuando cree en el Seńor Jesucristo.
 
-Talvez, durante aos,
+Talvez, durante ańos,
 
-Loida y Eunice haban estado enseando a Timoteo el Antiguo Testamento, en
+Loida y Eunice habían estado enseńando a Timoteo el Antiguo Testamento, en
 
-tanto que ellas mismas no conocan al Seor Jess; y, si as hubiera sido, le
+tanto que ellas mismas no conocían al Seńor Jesús; y, si así hubiera sido, le
 
-estaban enseando el tipo sin el antitipo, los enigmas sin las respuestas, pero
+estaban enseńando el tipo sin el antitipo, los enigmas sin las respuestas, pero
 
-fue una buena enseanza a pesar de todo, pues era toda la verdad que entonces
+fue una buena enseńanza a pesar de todo, pues era toda la verdad que entonces
 
-conocan. Sin embargo, cunto ms dichosa es nuestra tarea, puesto que somos
+conocían. Sin embargo, ˇcuánto más dichosa es nuestra tarea, puesto que somos
 
-capaces de ensear lo relativo al Seor Jess muy claramente, teniendo el Nuevo
+capaces de enseńar lo relativo al Seńor Jesús muy claramente, teniendo el Nuevo
 
-Testamento que nos explica al Antiguo! Acaso no podramos esperar que incluso
+Testamento que nos explica al Antiguo! żAcaso no podríamos esperar que incluso
 
-ms pronto que en la vida de Timoteo, nuestros amados nios pudieran captar el
+más pronto que en la vida de Timoteo, nuestros amados nińos pudieran captar el
 
-pensamiento de que Cristo Jess es la suma y sustancia de
+pensamiento de que Cristo Jesús es la suma y sustancia de
 
 la Santa
 
 Escritura
 
-, y que as, por
+, y que así, por
 
-la fe en l, reciban el poder para convertirse en hijos de Dios? Menciono sto,
+la fe en Él, reciban el poder para convertirse en hijos de Dios? Menciono ésto,
 
 tan sencillo como es, porque quiero que todos los maestros sientan que si sus
 
-alumnos no saben todava todas las doctrinas de
+alumnos no saben todavía todas las doctrinas de
 
 la Biblia
 
 , y si hay ciertas
 
-verdades ms excelsas o ms profundas que sus mentes no han captado todava,
+verdades más excelsas o más profundas que sus mentes no han captado todavía,
 
-aun as lo nios son salvados tan pronto como son sabios para la salvacin por la
+aun así lo nińos son salvados tan pronto como son sabios para la salvación por la
 
-fe que es en Cristo Jess. La fe en el Seor Jess salva con seguridad, segn
+fe que es en Cristo Jesús. La fe en el Seńor Jesús salva con seguridad, según
 
 es explicada en
 
@@ -822,59 +822,59 @@ la
 
 Escritura.
 
-Si crees de todo corazn, bien puedes, le dijo
+“Si crees de todo corazón, bien puedes”, le dijo
 
-Felipe al eunuco, y nosotros le decimos lo mismo a todo nio: bien puedes
+Felipe al eunuco, y nosotros le decimos lo mismo a todo nińo: bien puedes
 
-confesar tu fe, si tienes para confesar una verdadera fe en Jess. Si t crees
+confesar tu fe, si tienes para confesar una verdadera fe en Jesús. Si tú crees
 
-que Jess es el Cristo, y pones verdaderamente tu confianza en l, t eres
+que Jesús es el Cristo, y pones verdaderamente tu confianza en Él, tú eres
 
 salvo tan ciertamente como si unos grises cabellos adornaran tu frente.
 
 Noten que
 
-por esta fe en Cristo Jess continuamos y
+por esta fe en Cristo Jesús continuamos y
 
-avanzamos en la salvacin.
+avanzamos en la salvación.
 
 El momento en que creemos en Cristo somos
 
-salvos; pero no somos tan sabios de inmediato como podramos serlo o como
+salvos; pero no somos tan sabios de inmediato como podríamos serlo o como
 
-esperaramos serlo. Podramos ser salvados, por decirlo as, sin la suficiente
+esperaríamos serlo. Podríamos ser salvados, por decirlo así, sin la suficiente
 
-sabidura; quiero decir, por supuesto, serlo comparativamente; pero es deseable
+sabiduría; quiero decir, por supuesto, serlo comparativamente; pero es deseable
 
-que seamos capaces de dar una razn para la esperanza que hay en nosotros, y
+que seamos capaces de dar una razón para la esperanza que hay en nosotros, y
 
-ser as sabios para salvacin. Por la fe, los nios se convierten en pequeos
+ser así sabios para salvación. Por la fe, los nińos se convierten en pequeńos
 
-discpulos y, por la fe, avanzan y se vuelven ms conocedores. Cmo hemos de
+discípulos y, por la fe, avanzan y se vuelven más conocedores. żCómo hemos de
 
-avanzar hacia la sabidura? No apartndonos del camino de la fe, sino
+avanzar hacia la sabiduría? No apartándonos del camino de la fe, sino
 
-asindonos a esa misma fe en Cristo Jess por medio de la cual comenzamos a
+asiéndonos a esa misma fe en Cristo Jesús por medio de la cual comenzamos a
 
-aprender. La fe es la gran facultad por medio de la cual logramos avanzar en sabidura
+aprender. La fe es la gran facultad por medio de la cual logramos avanzar en sabiduría
 
 en la escuela de la gracia. Si por fe has sido capaz de decir A y B y C, debe
 
-ser por fe que avanzars hasta decir D y E y F, y hasta llegar al trmino del
+ser por fe que avanzarás hasta decir D y E y F, y hasta llegar al término del
 
 alfabeto y ser un experto en el Libro de
 
-la Sabidura.
+la Sabiduría.
 
 Si
 
 por fe puedes leer en el abecedario de la fe sencilla, por la misma fe en
 
-Cristo Jess tienes que avanzar hasta leer en los clsicos de la plena
+Cristo Jesús tienes que avanzar hasta leer en los clásicos de la plena
 
 seguridad y convertirte en un escriba bien instruido en las cosas del reino.
 
-Por tanto, conserva la prctica de la fe, de la cual muchos se estn apartando.
+Por tanto, conserva la práctica de la fe, de la cual muchos se están apartando.
 
 En estos tiempos los hombres esperan lograr progresos por medio de lo que ellos
 
@@ -884,33 +884,33 @@ el pensamiento,
 
 queriendo
 
-decir vana imaginacin y especulacin. No podemos avanzar ni un solo paso por
+decir vana imaginación y especulación. No podemos avanzar ni un solo paso por
 
-medio de la duda; nuestro nico progreso es por la fe. No hay tales cosas como
+medio de la duda; nuestro único progreso es por la fe. No hay tales cosas como
 
-peldaos para nuestros egos muertos, a menos que, en verdad, sean escalones
+“peldańos para nuestros egos muertos”, a menos que, en verdad, sean escalones
 
-que descienden a la muerte y a la destruccin; los nicos puntos de apoyo hacia
+que descienden a la muerte y a la destrucción; los únicos puntos de apoyo hacia
 
 la vida y el cielo han de encontrarse en la verdad de Dios revelada a nuestra
 
-fe. Cree en Dios y habrs progresado.
+fe. Cree en Dios y habrás progresado.
 
 Entonces, oremos por nuestros
 
-nios, para que constantemente sepan y crean ms y ms, pues
+nińos, para que constantemente sepan y crean más y más, pues
 
 la Escritura
 
 es capaz de
 
-hacerlos sabios para la salvacin, pero nicamente por la fe que es en Cristo
+hacerlos sabios para la salvación, pero únicamente por la fe que es en Cristo
 
-Jess. La fe es el blanco al que hay que apuntar: fe en el Salvador designado,
+Jesús. La fe es el blanco al que hay que apuntar: fe en el Salvador designado,
 
-ungido y exaltado. Es el ancla a la cual queremos sujetar estos pequeos
+ungido y exaltado. Es el ancla a la cual queremos sujetar estos pequeńos
 
-navos, pues all permanecern en perfecta seguridad.
+navíos, pues allí permanecerán en perfecta seguridad.
 
 Observen que el texto
 
@@ -918,75 +918,75 @@ nos proporciona un claro indicio de que
 
 por
 
-la fe, el conocimiento es conmutado en sabidura.
+la fe, el conocimiento es conmutado en sabiduría.
 
 La diferencia entre el
 
-conocimiento y la sabidura es sumamente prctica. Vanlo en el texto: Desde
+conocimiento y la sabiduría es sumamente práctica. Véanlo en el texto: “Desde
 
-la niez has sabido; pero es la fe, slo la fe, la que convierte ese
+la nińez has sabido…”; pero es la fe, sólo la fe, la que convierte ese
 
-conocimiento en sabidura; y as las Sagradas Escrituras te pueden hacer sabio
+conocimiento en sabiduría; y así las Sagradas Escrituras “te pueden hacer sabio
 
-para la salvacin. El conocimiento es poder, pero la sabidura es la
+para la salvación”. “El conocimiento es poder”, pero la sabiduría es la
 
-aplicacin de ese poder para fines prcticos. El conocimiento puede ser oro en
+aplicación de ese poder para fines prácticos. El conocimiento puede ser oro en
 
-lingotes, pero la sabidura es el oro acuado, listo para su circulacin entre
+lingotes, pero la sabiduría es el oro acuńado, listo para su circulación entre
 
-los hombres. Ustedes podran darles a sus hijos el conocimiento sin necesidad
+los hombres. Ustedes podrían darles a sus hijos el conocimiento sin necesidad
 
-de que tengan fe; pero tienen que tener una fe dada por el Espritu Santo,
+de que tengan fe; pero tienen que tener una fe dada por el Espíritu Santo,
 
-antes de que ese conocimiento pueda convertirse en sabidura. El conocimiento
+antes de que ese conocimiento pueda convertirse en sabiduría. El conocimiento
 
 de
 
 la Escrituras
 
-es sabidura cuando ejerce una influencia en el corazn, cuando gobierna la
+es sabiduría cuando ejerce una influencia en el corazón, cuando gobierna la
 
-mente, cuando afecta la vida cotidiana, cuando santifica al espritu y cuando
+mente, cuando afecta la vida cotidiana, cuando santifica al espíritu y cuando
 
 renueva la voluntad.
 
-Oh, maestros, oren por
+ˇOh, maestros, oren por
 
-sus amados nios pidiendo que Dios quiera darles fe en Cristo Jess, para que
+sus amados nińos pidiendo que Dios quiera darles fe en Cristo Jesús, para que
 
-as el conocimiento que ustedes les han transmitido se convierta en sabidura! Avancen
+así el conocimiento que ustedes les han transmitido se convierta en sabiduría! Avancen
 
-hasta donde puedan llegar con la enseanza, pero clamen siempre poderosamente
+hasta donde puedan llegar con la enseńanza, pero clamen siempre poderosamente
 
-al Seor pidiendo que su Santo Espritu obre la regeneracin, que genere la fe,
+al Seńor pidiendo que su Santo Espíritu obre la regeneración, que genere la fe,
 
-que imparta sabidura y que otorgue la salvacin.
+que imparta sabiduría y que otorgue la salvación.
 
-Aprendan tambin que
+Aprendan también que
 
-la fe encuentra su sabidura en el uso del
+la fe encuentra su sabiduría en el uso del
 
 conocimiento conferido por las Escrituras.
 
-Desde la niez has sabido las
+“Desde la nińez has sabido las
 
-Sagradas Escrituras, las cuales te pueden hacer sabio para la salvacin por la
+Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la
 
-fe. La fe nunca encuentra su sabidura en los pensamientos de los hombres, ni en
+fe”. La fe nunca encuentra su sabiduría en los pensamientos de los hombres, ni en
 
 las pretendidas revelaciones, mas ella recurre a los escritos inspirados para
 
-su gua. ste es el pozo del cual bebe, el man del que se alimenta. La fe toma
+su guía. Éste es el pozo del cual bebe, el maná del que se alimenta. La fe toma
 
-al Seor Jess para que sea su sabidura. El conocimiento de Cristo es para
+al Seńor Jesús para que sea su sabiduría. El conocimiento de Cristo es para
 
-ella la ms excelente de las ciencias. Slo pregunta: qu est escrito?, y
+ella la más excelente de las ciencias. Sólo pregunta: żqué está escrito?, y
 
-cuando esa pregunta encuentra respuesta, sus dificultades llegan a un trmino.
+cuando esa pregunta encuentra respuesta, sus dificultades llegan a un término.
 
-Yo s que no sucede as con esta poca incrdula, y sto me provoca a dar ayes
+Yo sé que no sucede así con esta época incrédula, y ésto me provoca a dar ayes
 
-y a lamentarme. Ay de una iglesia que rechaza el testimonio del Seor! En
+y a lamentarme. ˇAy de una iglesia que rechaza el testimonio del Seńor! En
 
 cuanto a nosotros, acatamos
 
@@ -994,13 +994,13 @@ la
 
 Palabra
 
-del Seor y de ella no nos moveremos ni una pulgada.
+del Seńor y de ella no nos moveremos ni una pulgada.
 
 Vean, entonces, mis
 
 oyentes, lo que requieren todos ustedes que son inconversos. Las Sagradas
 
-Escrituras han de ser convertidas en el instrumento de su salvacin, por medio
+Escrituras han de ser convertidas en el instrumento de su salvación, por medio
 
 de la fe. Conozcan
 
@@ -1014,29 +1014,29 @@ la Biblia
 
 ,
 
-escudrien
+escudrińen
 
 la Biblia
 
 ;
 
-y, con todo, eso aisladamente no los salvar. Qu dijo nuestro propio Seor? Escudriad
+y, con todo, eso aisladamente no los salvará. żQué dijo nuestro propio Seńor? “Escudrińad
 
-las Escrituras; porque a vosotros os parece que en ellas tenis la vida eterna;
+las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna;
 
-y ellas son las que dan testimonio de m; y no queris venir a m para que
+y ellas son las que dan testimonio de mí; y no queréis venir a mí para que
 
-tengis vida. Si no vienen a Jess, se perdern de la vida eterna. Escudriar
+tengáis vida”. Si no vienen a Jesús, se perderán de la vida eterna. Escudrińar
 
-las Escrituras puede hacerlos sabios para salvacin por la fe que es en Cristo
+las Escrituras puede hacerlos sabios para salvación “por la fe que es en Cristo
 
-Jess, pero no sin esa fe. Oren, ustedes, maestros de la escuela dominical,
+Jesús”, pero no sin esa fe. Oren, ustedes, maestros de la escuela dominical,
 
-pidiendo que puedan ver esta fe obrada en los nios a quienes ensean. Qu
+pidiendo que puedan ver esta fe obrada en los nińos a quienes enseńan. Qué
 
-bendito cimiento para la fe ser su enseanza de las Sagradas Escrituras, pero
+bendito cimiento para la fe será su enseńanza de las Sagradas Escrituras, pero
 
-no lo confundan nunca con el propio edificio, que es slo por la fe.
+no lo confundan nunca con el propio edificio, que es sólo por la fe.
 
 III.
 
@@ -1044,7 +1044,7 @@ El
 
 tiempo se me acaba y no puedo detenerme en otros puntos como quisiera hacerlo,
 
-pero les ruego que noten, en tercer lugar, que esa sana instruccin en
+pero les ruego que noten, en tercer lugar, que esa sana instrucción en
 
 la Sagrada
 
@@ -1052,67 +1052,67 @@ Escritura
 
 ,
 
-cuando es vivificada por una fe viva, GENERA UN SLIDO CARCTER. El hombre que
+cuando es vivificada por una fe viva, GENERA UN SÓLIDO CARÁCTER. El hombre que
 
-desde la niez ha sabido las Sagradas Escrituras, cuando obtenga la fe en
+desde la nińez ha sabido las Sagradas Escrituras, cuando obtenga la fe en
 
-Cristo, estar cimentado y establecido sobre los principios permanentes de la
+Cristo, estará cimentado y establecido sobre los principios permanentes de la
 
-inmutable palabra de Dios. Yo deseara que as sucediese con la mayora de
+inmutable palabra de Dios. Yo desearía que así sucediese con la mayoría de
 
 quienes profesan ser cristianos y que se
 
 autodenominan
 
-cristianos. En estos das estamos rodeados de mentes fluctuantes, que siempre
+cristianos. En estos días estamos rodeados de mentes fluctuantes, que “siempre
 
-estn aprendiendo, y nunca pueden llegar al conocimiento de la verdad. Esos
+están aprendiendo, y nunca pueden llegar al conocimiento de la verdad”. Esos
 
-cristianos son llevados por doquiera de todo viento de doctrina. Qu cantidad
+cristianos son llevados por doquiera de todo viento de doctrina. ˇQué cantidad
 
-de profesantes he conocido que van a un lugar de adoracin y oyen una forma de
+de profesantes he conocido que van a un lugar de adoración y oyen una forma de
 
-doctrina que aparentemente aprueban porque el predicador es un hombre
+doctrina que aparentemente aprueban porque el predicador es “un hombre
 
-brillante! Oyen una enseanza opuesta, y se sienten igualmente en casa porque
+brillante”! ˇOyen una enseńanza opuesta, y se sienten igualmente en casa porque
 
-nuevamente se trata de un hombre brillante! Se unen a una iglesia, y t les
+nuevamente se trata de “un hombre brillante”! Se unen a una iglesia, y tú les
 
-preguntas: Ests de acuerdo con los puntos de vista de esa congregacin? A
+preguntas: “żEstás de acuerdo con los puntos de vista de esa congregación?” A
 
-ellos no les interesa ni saben cules pudieran ser esos puntos de vista, pues
+ellos no les interesa ni saben cuáles pudieran ser esos puntos de vista, pues
 
 una doctrina es tan buena como cualquier otra para ellos. Su apetito espiritual
 
-puede disfrutar del jabn as como de la mantequilla; pueden digerir ladrillos
+puede disfrutar del jabón así como de la mantequilla; pueden digerir ladrillos
 
-as como pan. Estos avestruces religiosos tienen un maravilloso poder para
+así como pan. Estos avestruces religiosos tienen un maravilloso poder para
 
-tragar cualquier cosa; no tienen ningn discernimiento espiritual, ningn
+tragar cualquier cosa; no tienen ningún discernimiento espiritual, ningún
 
-aprecio por la verdad. Siguen a cualquier persona brillante, y en sto
+aprecio por la verdad. Siguen a cualquier persona “brillante”, y en ésto
 
-demuestran que no son ovejas del prado de nuestro Seor, de quien est escrito:
+demuestran que no son ovejas del prado de nuestro Seńor, de quien está escrito:
 
-Mas al extrao no seguirn, sino huirn de l, porque no conocen la voz de los
+“Mas al extrańo no seguirán, sino huirán de él, porque no conocen la voz de los
 
-extraos. Nosotros deseamos edificar una iglesia con quienes saben lo que en
+extrańos”. Nosotros deseamos edificar una iglesia con quienes saben lo que en
 
-verdad saben, y que son capaces de dar una razn para lo que creen. La gran
+verdad saben, y que son capaces de dar una razón para lo que creen. La gran
 
-razn para la fe del verdadero creyente es: Escrito est. Cristo, nuestro
+razón para la fe del verdadero creyente es: “Escrito está”. Cristo, nuestro
 
-Maestro, se enfrent al tentador en el desierto con: Escrito est. Aunque l
+Maestro, se enfrentó al tentador en el desierto con: “Escrito está”. Aunque Él
 
-mismo tena la inspiracin, con todo, Su enseanza estaba saturada del Antiguo
+mismo tenía la inspiración, con todo, Su enseńanza estaba saturada del Antiguo
 
-Testamento; l estaba citando siempre las palabras del Libro inspirado, y estaba
+Testamento; Él estaba citando siempre las palabras del Libro inspirado, y estaba
 
-dndonos un ejemplo con ello. Si t y yo quisiramos contender con Satans y
+dándonos un ejemplo con ello. Si tú y yo quisiéramos contender con Satanás y
 
 con un mundo malvado, de manera de vencer en el conflicto, debemos procurar
 
-tomar nuestra posicin, debidamente y firmemente, basndonos en las Escrituras.
+tomar nuestra posición, debidamente y firmemente, basándonos en las Escrituras.
 
 Hemos de enfrentar a nuestros oponentes con descargas provenientes de
 
@@ -1128,47 +1128,47 @@ pruebas de
 
 la Escritura
 
-son balas de acero. Nuestros oponentes descubrirn que es intil intentar
+son balas de acero. Nuestros oponentes descubrirán que es inútil intentar
 
 alejarnos de la vieja fe cuando perciban que nosotros no cambiaremos ni un
 
-pice de opinin sobre
+ápice de opinión sobre
 
 la Sagrada
 
 Escritura.
 
-Gozamos de proteccin a prueba de bombas cuando nos refugiamos al cubierto de
+Gozamos de protección a prueba de bombas cuando nos refugiamos al cubierto de
 
 la Palabra
 
 de Dios. La artera
 
-astucia de los engaadores es conducida al fracaso por medio de la clara
+astucia de los engańadores es conducida al fracaso por medio de la clara
 
-sencillez de: Jehov ha dicho as.
+sencillez de: “Jehová ha dicho así”.
 
 Quienes conocen las
 
-Escrituras y por ello creen en Jess, son sostenidos por los pilares de una
+Escrituras y por ello creen en Jesús, son sostenidos por los pilares de una
 
-relacin personal con los cimientos de su fe. Desde la niez has sabido las
+relación personal con los cimientos de su fe. “Desde la nińez has sabido las
 
-Sagradas Escrituras; no fueron tratadas con una ignorante reverencia, sino con
+Sagradas Escrituras”; no fueron tratadas con una ignorante reverencia, sino con
 
-un homenaje inteligente. Cunto deseo que cada uno de ustedes sea un
+un homenaje inteligente. ˇCuánto deseo que cada uno de ustedes sea un
 
 estudiante personal de las Sagradas Escrituras! Necesitamos conocerlas por
 
-nosotros mismos. Asindolas personalmente como una revelacin para s mismo, el
+nosotros mismos. Asiéndolas personalmente como una revelación para sí mismo, el
 
-hombre piadoso las ama, las estudia, las siente, vive de ellas y, as, las
+hombre piadoso las ama, las estudia, las siente, vive de ellas y, así, las
 
 conoce. Mediante este instrumento se independiza de otros hombres. Pablo va a morir.
 
-Pobre Timoteo! S, sera pobre Timoteo!, si llevara su fe en el pecho de
+ˇPobre Timoteo! ˇSí, sería “pobre Timoteo”!, si llevara su fe en el pecho de
 
-Pablo, y no llevara nada en su propio corazn. Pero
+Pablo, y no llevara nada en su propio corazón. Pero
 
 la Biblia
 
@@ -1180,29 +1180,29 @@ la
 
 Escritura
 
-que tiene Timoteo no le ser arrebatado; el
+que tiene Timoteo no le será arrebatado; el
 
-Espritu tampoco lo dejar solo.
+Espíritu tampoco lo dejará solo.
 
 Consideren algunas de
 
 nuestras iglesias: mientras un ministro del Evangelio bien instruido dirige el
 
-camino, los hermanos permanecen firmes. Muere el buen hombre, y dnde est la
+camino, los hermanos permanecen firmes. Muere el buen hombre, y żdónde está la
 
 iglesia? Sin duda, quienes son instruidos en las Escrituras permanecen en sus
 
-lugares, pero los ms ignorantes son dispersados como el tamo. Hay muchsimas
+lugares, pero los más ignorantes son dispersados como el tamo. Hay muchísimas
 
 personas en esta parte de Londres que andan deambulando por todos lados, y
 
 aunque una vez fueron celosas por la fe, ahora son casi indiferentes a ella. No
 
-dir nombres, pero podra hacerlo con suma facilidad, y me refiero a los
+diré nombres, pero podría hacerlo con suma facilidad, y me refiero a los
 
-nombres de estimados hermanos que reunieron un sincero squito en pos de ellos;
+nombres de estimados hermanos que reunieron un sincero séquito en pos de ellos;
 
-pero se han ido, y con su partida, muchos de sus seguidores tambin se han ido.
+pero se han ido, y con su partida, muchos de sus seguidores también se han ido.
 
 Me temo que no pudo haber habido un sano conocimiento de
 
@@ -1210,13 +1210,13 @@ la Palabra
 
 , o esas personas
 
-habran sobrevivido la gran prdida de su maestro. Oh, tener una buena
+habrían sobrevivido la gran pérdida de su maestro. ˇOh, tener una buena
 
-consolidacin personal sobre la slida Palabra de Dios! Entonces sabras lo que
+consolidación personal sobre la sólida Palabra de Dios! Entonces sabrías lo que
 
-en verdad sabes, y te aferraras a ello, y no habra forma de apartarte de las
+en verdad sabes, y te aferrarías a ello, y no habría forma de apartarte de las
 
-normas de la fe. Yo me esfuerzo por sto entre ustedes, y oro pidiendo no
+normas de la fe. Yo me esfuerzo por ésto entre ustedes, y oro pidiendo no
 
 trabajar en vano.
 
@@ -1226,23 +1226,23 @@ instruido en
 
 la Escritura
 
-desde su niez, est anclado con las influencias divinas de esa Escritura que ha
+desde su nińez, está anclado con las influencias divinas de esa Escritura que ha
 
-operado en l de tal manera que conoce por s mismo su divino poder. Conoce la
+operado en él de tal manera que conoce por sí mismo su divino poder. Conoce la
 
 diferencia entre la verdad y el error por el efecto producido en su vida y en
 
-su corazn. Es capaz de discernir sin jactancia alguna entre cosas que
+su corazón. Es capaz de discernir sin jactancia alguna entre cosas que
 
 difieren, porque en torno a la verdad de
 
 la Escritura
 
-hay una uncin
+hay una unción
 
-extraa y mstica que no acompaa a las enseanzas de la mayora de los hombres
+extrańa y mística que no acompańa a las enseńanzas de la mayoría de los hombres
 
-ilustrados. Yo no puedo explicarles en qu consiste esta uncin, pero todo hijo
+ilustrados. Yo no puedo explicarles en qué consiste esta unción, pero todo hijo
 
 de Dios la conoce. Cuando leo un texto de
 
@@ -1256,27 +1256,27 @@ la Escritura
 
 , percibo de
 
-inmediato su origen divino por una influencia mstica que ejerce sobre mi
+inmediato su origen divino por una influencia mística que ejerce sobre mi
 
-corazn. Los pasajes ms impactantes de cualquier sermn son textos de
+corazón. Los pasajes más impactantes de cualquier sermón son textos de
 
 la Escritura
 
-que estn
+que están
 
-estratgicamente ubicados. Una frase salida de la boca de Dios tiene un poder
+estratégicamente ubicados. Una frase salida de la boca de Dios tiene un poder
 
-ms permanente sobre el cristiano que los enunciados humanos mejor elaborados.
+más permanente sobre el cristiano que los enunciados humanos mejor elaborados.
 
 La palabra de Dios es viva y poderosa, y tiene un poder para penetrar en el
 
-corazn que es muy superior al de cualquier otra palabra. Las palabras de
+corazón que es muy superior al de cualquier otra palabra. Las palabras de
 
 la Biblia
 
 impactan y se
 
-adhieren, entran y se quedan. Aqul que ha sido instruido en
+adhieren, entran y se quedan. Aquél que ha sido instruido en
 
 la Escritura
 
@@ -1286,23 +1286,23 @@ de
 
 la Escritura
 
-y que est saturado de
+y que está saturado de
 
 la
 
 Escritura
 
-, est consciente de su penetrante influencia, lo
+, está consciente de su penetrante influencia, lo
 
-que le proporciona una conviccin permanente. Como el tinte carmes en la tela,
+que le proporciona una convicción permanente. Como el tinte carmesí en la tela,
 
 el tinte de
 
 la Escritura
 
-no puede desprenderse del alma una vez que ha sido fijado all; est teido en
+no puede desprenderse del alma una vez que ha sido fijado allí; está teńido en
 
-la trama y entra en la propia naturaleza del hombre. La verdad bblica ejerce
+la trama y entra en la propia naturaleza del hombre. La verdad bíblica ejerce
 
 influencia sobre sus pensamientos y sus acciones; tiene omnipresencia; comienza
 
@@ -1312,23 +1312,23 @@ la Sagrada
 
 Escritura.
 
-El corazn del hombre est fijado en Dios, fijado
+El corazón del hombre está fijado en Dios, fijado
 
-en la verdad, fijado en una vida santa. Permanecer firme, sin importar cun
+en la verdad, fijado en una vida santa. Permanecerá firme, sin importar cuán
 
-malos sean los das. Aunque todos los dems apostataran, este hombre no podra
+malos sean los días. Aunque todos los demás apostataran, este hombre no podría
 
 hacerlo, pues
 
 la Palabra
 
-divina, a travs de la fe, lo ha atado al altar del Seor, y ha de vivir y
+divina, a través de la fe, lo ha atado al altar del Seńor, y ha de vivir y
 
-morir en la verdad y lo har, prescindiendo de los climas que se pudieran
+morir en la verdad y lo hará, prescindiendo de los climas que se pudieran
 
 presentar.
 
-Adems, un hombre que ha
+Además, un hombre que ha
 
 sido instruido una vez en
 
@@ -1336,35 +1336,35 @@ la
 
 Escritura
 
-, y para cuya alma el Espritu ha bendecido esa
+, y para cuya alma el Espíritu ha bendecido esa
 
-enseanza, ha llegado a rendirse a la supremaca de
+enseńanza, ha llegado a rendirse a la supremacía de
 
 la Escritura
 
-, y sto tiene
+, y ésto tiene
 
-que operar para moldear su carcter. Yo confieso que algunas veces me encuentro
+que operar para moldear su carácter. Yo confieso que algunas veces me encuentro
 
-con un texto que a un primer vistazo no concuerda con otras enseanzas de
+con un texto que a un primer vistazo no concuerda con otras enseńanzas de
 
 la Escritura
 
 que ya he
 
-recibido, y sto me sobresalta por el momento. Pero una cosa est resuelta en
+recibido, y ésto me sobresalta por el momento. Pero una cosa está resuelta en
 
-mi corazn, es decir, que yo he de seguir a
+mi corazón, es decir, que yo he de seguir a
 
 la Escritura
 
 dondequiera
 
-que me conduzca, y que he de renunciar a la opinin ms valorada antes de
+que me conduzca, y que he de renunciar a la opinión más valorada antes de
 
-querer moldear algn texto o alterar alguna slaba del libro inspirado. No me
+querer moldear algún texto o alterar alguna sílaba del libro inspirado. No me
 
-corresponde a m hacer consistente a
+corresponde a mí hacer consistente a
 
 la Palabra
 
@@ -1372,9 +1372,9 @@ de Dios, sino que debo creer que lo es.
 
 Cuando un texto se planta en la mitad del camino, yo no sigo avanzando. Los
 
-romanos tenan un dios al que llamaban Trmino, que era el dios
+romanos tenían un dios al que llamaban “Término”, que era el dios
 
-de los lmites y de las fronteras en la mitologa
+de los límites y de las fronteras en la mitología
 
 romana
 
@@ -1384,19 +1384,19 @@ La Sagrada
 
 Escritura
 
-es mi lmite sagrado, y yo escucho una voz que me amenaza con una maldicin si
+es mi límite sagrado, y yo escucho una voz que me amenaza con una maldición si
 
-la quitara. Algunas veces me digo: No pens descubrir que esta verdad fuera
+la quitara. Algunas veces me digo: “No pensé descubrir que esta verdad fuera
 
-precisamente eso; pero como lo es, debo inclinarme. Es ms bien incmoda para
+precisamente eso; pero como lo es, debo inclinarme. Es más bien incómoda para
 
-mi teora, pero tengo que alterar mi sistema, pues
+mi teoría, pero tengo que alterar mi sistema, pues
 
 la Escritura
 
 no puede ser
 
-alterada. Sea Dios veraz, y todo hombre mentiroso. Nosotros queremos que
+alterada”. “Sea Dios veraz, y todo hombre mentiroso”. Nosotros queremos que
 
 nuestros hijos sientan esta profunda reverencia por
 
@@ -1404,21 +1404,21 @@ la Escritura
 
 , de la misma
 
-manera que nosotros mismos la sentimos. All est; la pluma eterna la ha
+manera que nosotros mismos la sentimos. Allí está; la pluma eterna la ha
 
-escrito; nosotros la aceptamos. Si Dios lo ha dicho, nosotros no tenemos ningn
+escrito; nosotros la aceptamos. Si Dios lo ha dicho, nosotros no tenemos ningún
 
 deseo de cuestionarlo, para que no nos diga
 
 la Escritura
 
-: Mas antes,
+: “Mas antes,
 
-oh hombre, quin eres t, para que alterques con Dios? Tenemos que
+oh hombre, żquién eres tú, para que alterques con Dios?” Tenemos que
 
-inclinarnos delante de la infalibilidad del Espritu Santo, y decir: Seor, ensame
+inclinarnos delante de la infalibilidad del Espíritu Santo, y decir: “Seńor, enséńame
 
-qu significa sto. Ensame T lo que yo no s. Aqul que va por el mundo con
+qué significa ésto. Enséńame Tú lo que yo no sé”. Aquél que va por el mundo con
 
 una intensa reverencia por
 
@@ -1426,9 +1426,9 @@ la
 
 Escritura
 
-ser verdaderamente un hombre. El Seor har vlida
+será verdaderamente un hombre. El Seńor hará válida
 
-en l esa palabra: Yo honrar a los que me honran. Los ngeles y los hombres
+en él esa palabra: “Yo honraré a los que me honran”. Los ángeles y los hombres
 
 reverencian pronto al hombre que reverencia a la palabra de Dios. Nutre tu mente
 
@@ -1438,43 +1438,43 @@ la
 
 Escritura
 
-, y, como Daniel y sus camaradas, tu rostro parecer
+, y, como Daniel y sus camaradas, tu rostro parecerá
 
-mejor y ms robusto que el de los otros muchachos que comen la porcin de la
+mejor y más robusto que el de los otros muchachos que comen la porción de la
 
-comida del rey proveniente de las mesas filosficas del mundo.
+comida del rey proveniente de las mesas filosóficas del mundo.
 
 Aprovechando que estamos
 
-en este punto, yo dira tambin que este tipo de instruccin mantendr firme al
+en este punto, yo diría también que este tipo de instrucción mantendrá firme al
 
-hombre contra las diversas seducciones de la poca. Por aqu voy a un lugar de
+hombre contra las diversas seducciones de la época. Por aquí voy a un lugar de
 
-adoracin, y veo una preciosa casa de muecas al fondo, y la gente se inclina
+adoración, y veo una preciosa casa de muńecas al fondo, y la gente se inclina
 
 delante de algunas flores de papel y de unas velas. Alrededor del edificio veo
 
-cuadros de vrgenes y de santos; pero quien ha ledo su Biblia no entra en esa
+cuadros de vírgenes y de santos; pero quien ha leído su Biblia no entra en esa
 
-moderna idolatra.
+moderna idolatría.
 
 Un sacerdote le dijo una
 
-vez a un pobre irlands: No provendr ningn bien de tu lectura de
+vez a un pobre irlandés: “No provendrá ningún bien de tu lectura de
 
 la Biblia
 
-. Bien, -replic
+”. “Bien”, -replicó
 
-el hombre- escrito est: Escudriad las Escrituras. Por favor, su reverencia,
+el hombre- “escrito está: ‘Escudrińad las Escrituras’. Por favor, ‘su reverencia’,
 
-acabo de leer: La debern leer a sus hijos, y los sacerdotes no tienen hijos;
+acabo de leer: ‘La deberán leer a sus hijos’, y los sacerdotes no tienen hijos;
 
-cmo puede explicar eso? Ah!, -replic el sacerdote- gente como t no
+żcómo puede explicar eso?” “ˇAh!”, -replicó el sacerdote- “gente como tú no
 
-puede entender el libro. Bien, -dijo el hombre- si no puedo entenderlo, no
+puede entender el libro”. “Bien”, -dijo el hombre- “si no puedo entenderlo, no
 
-me har ningn dao, y si puedo entenderlo, me har un gran bien.
+me hará ningún dańo, y si puedo entenderlo, me hará un gran bien”.
 
 Es precisamente eso:
 
@@ -1482,9 +1482,9 @@ la Biblia
 
 es un libro muy
 
-peligroso para la supersticin, pero nada ms. Esprzanlo, entonces, a los
+peligroso para la superstición, pero nada más. Espárzanlo, entonces, a los
 
-vientos del cielo; y lanlo, cada uno de ustedes. A la ley y al testimonio; si
+vientos del cielo; y léanlo, cada uno de ustedes. A la ley y al testimonio; si
 
 no hablamos de acuerdo a esta palabra, es porque no hay luz en nosotros. Quien
 
@@ -1492,23 +1492,23 @@ se apega a
 
 la Biblia
 
-ser igualmente libre de los peligros del racionalismo que son ahora tan
+será igualmente libre de los peligros del racionalismo que son ahora tan
 
-abundantes, y se mantendr limpio de los desvaros de la anarqua que resuena
+abundantes, y se mantendrá limpio de los desvaríos de la anarquía que resuena
 
 ahora como gritos de dragones provenientes de los lugares tenebrosos de la
 
-tierra. La gente est comenzando a olvidar el mandamiento: No hurtars, y
+tierra. La gente está comenzando a olvidar el mandamiento: “No hurtarás”, y
 
-est planeando varios mtodos de robo poltico por el cual los cimientos de la
+está planeando varios métodos de robo político por el cual los cimientos de la
 
-sociedad se vern conmovidos. El amor a
+sociedad se verán conmovidos. El amor a
 
 la Sagrada
 
 Escritura
 
-ser el ancla de la esperanza del Estado as como de
+será el ancla de la esperanza del Estado así como de
 
 la Iglesia.
 
@@ -1516,7 +1516,7 @@ Si
 
 los hombres
 
-estuvieran cimentados ntegramente en
+estuvieran cimentados íntegramente en
 
 la Sagrada
 
@@ -1524,7 +1524,7 @@ Escritura
 
 ,
 
-experimentaramos cambios polticos con gran provecho; pero si no, se est
+experimentaríamos cambios políticos con gran provecho; pero si no, se está
 
 maquinando la maldad. Ese libro es la piedra angular de nuestra esperanza
 
@@ -1534,15 +1534,15 @@ IV.
 
 Ahora,
 
-por ltimo, as como esta temprana instruccin genera un carcter bueno y
+por último, así como esta temprana instrucción genera un carácter bueno y
 
-slido, tambin PRODUCIR GRAN UTILIDAD. No dir nada ms que esto: de esa
+sólido, también PRODUCIRÁ GRAN UTILIDAD. No diré nada más que esto: de esa
 
-manera Timoteo se convirti en un compaero escogido de Pablo y uno preferido
+manera Timoteo se convirtió en un compańero escogido de Pablo y uno preferido
 
-sobre todos los dems, en alguien a quien Pablo miraba con amor y a quien
+sobre todos los demás, en alguien a quien Pablo miraba con amor y a quien
 
-recordaba con gozo. Los compaeros de los apstoles slo pueden ser formados en
+recordaba con gozo. Los compańeros de los apóstoles sólo pueden ser formados en
 
 la escuela de
 
@@ -1550,67 +1550,67 @@ la Sagrada
 
 Escritura.
 
-Quienes han tenido comunin con Moiss, y con David y con los profetas, son
+Quienes han tenido comunión con Moisés, y con David y con los profetas, son
 
-aptos para asociarse con un apstol. Es algo especial que a partir del nio se
+aptos para asociarse con un apóstol. Es algo especial que a partir del nińo se
 
-produzca un colaborador para algn veterano siervo del Dios viviente. Tan
+produzca un colaborador para algún veterano siervo del Dios viviente. Tan
 
 pronto como un hombre de Dios se encuentra al lado de un joven que sabe las
 
-Escrituras, piensa: Esta es una compaa apropiada para m. Pablo, desgastado
+Escrituras, piensa: “Esta es una compańía apropiada para mí”. Pablo, desgastado
 
-por aos de persecucin y con sus manchones de barba gris, siente que sus ojos
+por ańos de persecución y con sus manchones de barba gris, siente que sus ojos
 
-se iluminan de gozo al contemplar a ese joven Timoteo. Qu hay acerca de l
+se iluminan de gozo al contemplar a ese joven Timoteo. żQué hay acerca de él
 
-que sobrepase a cualquier otro joven? Vamos, lo nico es que sabe las
+que sobrepase a cualquier otro joven? Vamos, lo único es que sabe las
 
-Escrituras y que le han hecho sabio para salvacin. Se poda encontrar, sin
+Escrituras y que le han hecho sabio para salvación. Se podía encontrar, sin
 
-duda, excelentes jvenes que se gloriaban en preferir el pensamiento avanzado
+duda, excelentes jóvenes que se gloriaban en preferir el pensamiento avanzado
 
-de los filsofos sobre las enseanzas estereotipadas de Sagrada Escritura; pero
+de los filósofos sobre las enseńanzas estereotipadas de Sagrada Escritura; pero
 
-si hubieran comenzado a hablarle al apstol sobre sus nuevas teoras, Pablo los
+si hubieran comenzado a hablarle al apóstol sobre sus nuevas teorías, Pablo los
 
-habra despachado con palabras de advertencia. No quera saber nada de ellos ni
+habría despachado con palabras de advertencia. No quería saber nada de ellos ni
 
-de su otro evangelio, excepto que lo turbaban tanto a l como a las iglesias.
+de su “otro evangelio”, excepto que lo turbaban tanto a él como a las iglesias.
 
-Sin una instruccin de las Escrituras, un convertido no tiene ningn sostn, ni
+Sin una instrucción de las Escrituras, un convertido no tiene ningún sostén, ni
 
-una columna vertebral, ni un alma en l. Pero cuando Pablo miraba a un joven
+una columna vertebral, ni un alma en él. Pero cuando Pablo miraba a un joven
 
-agraciado que saba las Escrituras, y se aferraba a ellas, daba gracias a Dios
+agraciado que sabía las Escrituras, y se aferraba a ellas, daba gracias a Dios
 
-y cobraba nimo.
+y cobraba ánimo.
 
-Este joven se convirti
+Este joven se convirtió
 
 en un ministro y en un evangelista. Era un predicador de tal naturaleza que nos
 
-habramos sentido dichosos de orlo. Que Dios nos enve muchos de esos
+habríamos sentido dichosos de oírlo. ˇQue Dios nos envíe muchos de esos
 
-predicadores! Tal vez hubiramos podido decir: las opiniones de ese joven
+predicadores! Tal vez hubiéramos podido decir: “las opiniones de ese joven
 
-fueron ms bien crudas, y sus expresiones fueron algo speras, pero podemos
+fueron más bien crudas, y sus expresiones fueron algo ásperas, pero podemos
 
-tolerar eso ya que proviene de un hombre tan joven. Por otro lado, cunta
+tolerar eso ya que proviene de un hombre tan joven. Por otro lado, ˇcuánta
 
-riqueza de Escritura se encontraba en l! Qu profundidad de pensamiento!
+riqueza de Escritura se encontraba en él! ˇQué profundidad de pensamiento!
 
-Notaron que no haba pronunciado ni una docena de frases y ya haba citado una
+żNotaron que no había pronunciado ni una docena de frases y ya había citado una
 
-Escritura? Y cuando lleg a demostrar su punto no proporcion una media docena
+Escritura? Y cuando llegó a demostrar su punto no proporcionó una media docena
 
-de argumentos racionalistas sino que expuso una sola palabra del Seor y el
+de argumentos racionalistas sino que expuso una sola palabra del Seńor y el
 
-punto qued dirimido. Se tiene que estar de acuerdo con un hombre que se
+punto quedó dirimido”. Se tiene que estar de acuerdo con un hombre que se
 
-siente a sus anchas con su Biblia. ste es el tipo de predicador del que
+siente a sus anchas con su Biblia. Éste es el tipo de predicador del que
 
-necesitamos ms. Instruyan bien a sus nios, queridos maestros, para que a su
+necesitamos más. Instruyan bien a sus nińos, queridos maestros, para que a su
 
 vez se conviertan en maestros de
 
@@ -1618,39 +1618,39 @@ la Escritura
 
 a su debido tiempo.
 
-Timoteo se convirti
+Timoteo se convirtió
 
-tambin en un gran adalid de la fe. Pas al frente y en medio de todos aquellos
+también en un gran adalid de la fe. Pasó al frente y en medio de todos aquellos
 
-individuos que estaban predicando falsa doctrina, permaneci firme hasta el fin;
+individuos que estaban predicando falsa doctrina, permaneció firme hasta el fin;
 
-firme, inconmovible, valeroso, todo porque de nio haba sabido las Escrituras.
+firme, inconmovible, valeroso, todo porque de nińo había sabido las Escrituras.
 
-Oh, maestros, vean lo que pueden hacer ustedes! En sus escuelas aprenden
+ˇOh, maestros, vean lo que pueden hacer ustedes! En sus escuelas aprenden
 
-nuestros futuros evangelistas. En esa clase de prvulos aprende un apstol que
+nuestros futuros evangelistas. En esa clase de párvulos aprende un apóstol que
 
-ir a alguna tierra distante. Podra llegar bajo tu mano instructora, hermana
+irá a alguna tierra distante. Podría llegar bajo tu mano instructora, hermana
 
-ma, un futuro padre en Israel. Vendrn bajo tu instruccin, hermano mo,
+mía, un futuro padre en Israel. Vendrán bajo tu instrucción, hermano mío,
 
-aqullos que han de portar los pendones del Seor en lo ms tupido de la
+aquéllos que han de portar los pendones del Seńor en lo más tupido de la
 
-refriega. Las edades te miran cada vez que tu clase se rene. Oh, que Dios te
+refriega. Las edades te miran cada vez que tu clase se reúne. ˇOh, que Dios te
 
-ayude a realizar muy bien tu parte! Oramos con un solo corazn y una sola alma
+ayude a realizar muy bien tu parte! Oramos con un solo corazón y una sola alma
 
-pidiendo que el Seor Jesucristo est con nuestras escuelas dominicales a
+pidiendo que el Seńor Jesucristo esté con nuestras escuelas dominicales a
 
-partir de ahora y hasta que l venga. Amn y amn.
+partir de ahora y hasta que Él venga. Amén y amén.
 
 Porciones de
 
 la Escritura
 
-ledas antes
+leídas antes
 
-del sermn: 2 Timoteo 1: 1-8;
+del sermón: 2 Timoteo 1: 1-8;
 
 3: 1-17; 4: 1-8.
 
@@ -1658,13 +1658,13 @@ Nota del traductor:
 
 El nombre de la nodriza del conde de Shaftesbury
 
-es: Mara Millis. Ella provey un modelo cristiano para el conde que
+es: María Millis. Ella proveyó un modelo cristiano para el conde que
 
-posteriormente formara la base de su activismo social y de su obra
+posteriormente formaría la base de su activismo social y de su obra
 
-filantrpica.
+filantrópica.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 3/Marzo/2011
 

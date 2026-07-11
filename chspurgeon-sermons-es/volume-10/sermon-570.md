@@ -1,174 +1,174 @@
 # Sermón 570 | Sermón 570
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Los Primeros Cinco Discpulos
+Los Primeros Cinco Discípulos
 
 NO. 570
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 15 DE MAYO DE 1864
+MAŃANA DEL DOMINGO 15 DE MAYO DE 1864
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Le oyeron hablar los dos discpulos,
+“Le oyeron hablar los dos discípulos,
 
-y siguieron a Jess. Y volvindose Jess, y viendo que le seguan, les dijo:
+y siguieron a Jesús. Y volviéndose Jesús, y viendo que le seguían, les dijo:
 
-Qu buscis? Ellos le dijeron: Rab (que traducido es, Maestro), dnde moras?
+żQué buscáis? Ellos le dijeron: Rabí (que traducido es, Maestro), żdónde moras?
 
-Les dijo: Venid y ved. Fueron, y vieron donde moraba, y se quedaron con l
+Les dijo: Venid y ved. Fueron, y vieron donde moraba, y se quedaron con él
 
-aquel da; porque era como la hora dcima. Andrs, hermano de Simn Pedro, era
+aquel día; porque era como la hora décima. Andrés, hermano de Simón Pedro, era
 
-uno de los dos que haban odo a Juan, y haban seguido a Jess. Este hall
+uno de los dos que habían oído a Juan, y habían seguido a Jesús. Este halló
 
-primero a su hermano Simn, y le dijo: Hemos hallado al Mesas (que traducido
+primero a su hermano Simón, y le dijo: Hemos hallado al Mesías (que traducido
 
-es, el Cristo). Y le trajo a Jess. Y mirndole Jess, dijo: T eres Simn,
+es, el Cristo). Y le trajo a Jesús. Y mirándole Jesús, dijo: Tú eres Simón,
 
-hijo de Jons; t sers llamado Cefas (que quiere decir, Pedro). El siguiente
+hijo de Jonás; tú serás llamado Cefas (que quiere decir, Pedro). El siguiente
 
-da quiso Jess ir a Galilea, y hall a Felipe, y le dijo: Sgueme. Y Felipe
+día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo: Sígueme. Y Felipe
 
-era de Betsaida, la ciudad de Andrs y Pedro. Felipe hall a Natanael, y le
+era de Betsaida, la ciudad de Andrés y Pedro. Felipe halló a Natanael, y le
 
-dijo: Hemos hallado a aquel de quien escribi Moiss en la ley, as como los
+dijo: Hemos hallado a aquel de quien escribió Moisés en la ley, así como los
 
-profetas: a Jess, el hijo de Jos, de Nazaret. Natanael le dijo: De Nazaret
+profetas: a Jesús, el hijo de José, de Nazaret. Natanael le dijo: żDe Nazaret
 
-puede salir algo de bueno? Le dijo Felipe: Ven y ve. Cuando Jess vio a
+puede salir algo de bueno? Le dijo Felipe: Ven y ve. Cuando Jesús vio a
 
-Natanael que se le acercaba, dijo de l: He aqu un verdadero israelita, en
+Natanael que se le acercaba, dijo de él: He aquí un verdadero israelita, en
 
-quien no hay engao. Le dijo Natanael: De dnde me conoces? Respondi Jess y
+quien no hay engańo. Le dijo Natanael: żDe dónde me conoces? Respondió Jesús y
 
 le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te
 
-vi. Respondi Natanael y le dijo: Rab, t eres el Hijo de Dios; t eres el Rey
+vi. Respondió Natanael y le dijo: Rabí, tú eres el Hijo de Dios; tú eres el Rey
 
-de Israel. Respondi Jess y le dijo: Porque te dije: te vi debajo de la
+de Israel. Respondió Jesús y le dijo: żPorque te dije: te vi debajo de la
 
-higuera, crees? Cosas mayores que estas vers. Y le dijo: De cierto, de cierto
+higuera, crees? Cosas mayores que estas verás. Y le dijo: De cierto, de cierto
 
-os digo: De aqu adelante veris el cielo abierto, y a los ngeles de Dios que
+os digo: De aquí adelante veréis el cielo abierto, y a los ángeles de Dios que
 
-suben y descienden sobre el Hijo del Hombre. Juan 1: 37-51.
+suben y descienden sobre el Hijo del Hombre.” Juan 1: 37-51.
 
-Si fuera cierto que el orden es la primera ley
+Si fuera cierto que “el orden es la primera ley
 
-del cielo, pienso que debe ser igualmente cierto que la variedad es la segunda
+del cielo”, pienso que debe ser igualmente cierto que la variedad es la segunda
 
-ley del cielo. La lnea de la belleza no es una lnea recta, sino siempre la
+ley del cielo. La línea de la belleza no es una línea recta, sino siempre la
 
 curva. El modo de proceder de Dios no es uniforme, sino diversificado. Pueden
 
 ver esto de una hojeada, si contemplan la
 
-creacin
+creación
 
 que nos rodea. Dios no hizo a todos las criaturas de una sola especie, pues
 
-cre bestias, pjaros, peces, insectos y reptiles. Ciertamente toda carne no es
+creó bestias, pájaros, peces, insectos y reptiles. Ciertamente toda carne no es
 
 la misma carne, ni todos los cuerpos son del mismo orden. La misma tierra
 
-inerte est llena de variedad. No todas las alhajas relumbran con el mismo
+inerte está llena de variedad. No todas las alhajas relumbran con el mismo
 
-rayo. Las rocas ms toscas y menos preciosas estn marcadas y son veteadas,
+rayo. Las rocas más toscas y menos preciosas están marcadas y son veteadas,
 
-cada una de acuerdo a su propio diseo. En el mundo vegetal, cunta variedad de
+cada una de acuerdo a su propio diseńo. En el mundo vegetal, cuánta variedad de
 
-plantas, arbustos, hierbas, flores y rboles encontramos a nuestro alrededor.
+plantas, arbustos, hierbas, flores y árboles encontramos a nuestro alrededor.
 
 En cualquiera de los reinos de la naturaleza, ya sea el animal, el vegetal o el
 
-mineral, pueden encontrarse tantas subdivisiones, que se necesitara una larga
+mineral, pueden encontrarse tantas subdivisiones, que se necesitaría una larga
 
-preparacin para clasificarlas, y una vida entera no bastara para entenderlas
+preparación para clasificarlas, y una vida entera no bastaría para entenderlas
 
 a todas.
 
 Consideren a las criaturas aladas que surcan los
 
-aires: cunta diferencia hay
+aires: cuánta diferencia hay
 
 entre el
 
-diminuto colibr que pareciera ser un vivo racimo de alhajas, y el guila que
+diminuto colibrí que pareciera ser un vivo racimo de alhajas, y el águila que
 
-con ala vigorosa se remonta al cielo y reta a los rayos. El mundo entero est
+con ala vigorosa se remonta al cielo y reta a los rayos. El mundo entero está
 
-lleno de prodigios y no hay dos portentos iguales. Seramos incapaces de
+lleno de prodigios y no hay dos portentos iguales. Seríamos incapaces de
 
-descubrir alguna vez que Dios se repite a S mismo. El grandioso Maestro pinta
+descubrir alguna vez que Dios se repite a Sí mismo. El grandioso Maestro pinta
 
 a menudo dos cuadros que parecieran ser iguales, pero cuando son investigados
 
-bajo un microscopio, cuntas diferencias revelan al instante! Incluso aquellas
+bajo un microscopio, ˇcuántas diferencias revelan al instante! Incluso aquellas
 
 estrellas que parecieran brillar con rayos de igual brillantez, descubrimos con
 
-la ayuda del telescopio que son de diferentes colores, formas y rbitas. Es
+la ayuda del telescopio que son de diferentes colores, formas y órbitas. Es
 
-ms, hasta las propias nubes son agrupadas en formas variadas, y las masas de
+más, hasta las propias nubes son agrupadas en formas variadas, y las masas de
 
-nebulosas que conforman la va lctea son distinguibles unas de otras. Dios, en
+nebulosas que conforman la vía láctea son distinguibles unas de otras. Dios, en
 
-ninguna instancia que pudiramos encontrar jams, ha usado el mismo molde una
+ninguna instancia que pudiéramos encontrar jamás, ha usado el mismo molde una
 
-segunda vez. l es tan creativo en los diseos, tan abundante en la sabidura
+segunda vez. Él es tan creativo en los diseńos, tan abundante en la sabiduría
 
-inventora, tan prolfico en los planes, que incluso si quisiera conseguir el
+inventora, tan prolífico en los planes, que incluso si quisiera conseguir el
 
-mismo fin, elige tomar otro camino hacia l, y ese nuevo camino es tan directo
+mismo fin, elige tomar otro camino hacia él, y ese nuevo camino es tan directo
 
-como los otros con los que ha alcanzado Su propsito anteriormente.
+como los otros con los que ha alcanzado Su propósito anteriormente.
 
-Ciertamente esta observacin es vlida en
+Ciertamente esta observación es válida en
 
 la providencia.
 
-Qu extraa diversidad
+ˇQué extrańa diversidad
 
-ha habido en los tratos de Dios con Su Iglesia! Cuando l ha disciplinado a Su
+ha habido en los tratos de Dios con Su Iglesia! Cuando Él ha disciplinado a Su
 
-pueblo, apenas ha usado dos veces la misma vara. En una ocasin los madianitas
+pueblo, apenas ha usado dos veces la misma vara. En una ocasión los madianitas
 
-vendrn y devorarn la tierra de Israel; otro da los filisteos con sus
+vendrán y devorarán la tierra de Israel; otro día los filisteos con sus
 
-gigantes invadirn el pas; luego vendrn los babilonios y los asirios; en
+gigantes invadirán el país; luego vendrán los babilonios y los asirios; en
 
-seguida el poder romano hollar a Judea con su pie. Y as como las varas de Su
+seguida el poder romano hollará a Judea con su pie. Y así como las varas de Su
 
 disciplina han sido siempre diferentes a gran escala, se ha descubierto que sucede
 
-lo mismo a pequea escala. Raramente los ha castigado Dios dos veces de la
+lo mismo a pequeńa escala. Raramente los ha castigado Dios dos veces de la
 
-misma manera; podran rastrear diferencias ya sea en el modo del golpe o en el
+misma manera; podrían rastrear diferencias ya sea en el modo del golpe o en el
 
-instrumento con el que fueron golpeados, o en la parte de su mente que pareci
+instrumento con el que fueron golpeados, o en la parte de su mente que pareció
 
-ser la ms afectada por sus castigos.
+ser la más afectada por sus castigos.
 
-De igual manera, en cuanto a sus liberadores, cun
+De igual manera, en cuanto a sus liberadores, ˇcuán
 
-gran variedad se presenta, ya que difcilmente encontraran a dos liberadores
+gran variedad se presenta, ya que difícilmente encontrarían a dos liberadores
 
-iguales! Dios levanta a Geden, pero Jeft no es como Geden, y Sansn no es
+iguales! Dios levanta a Gedeón, pero Jefté no es como Gedeón, y Sansón no es
 
-como Jeft, y David no ha de comparase con Sansn o Geden. Todos ellos son
+como Jefté, y David no ha de comparase con Sansón o Gedeón. Todos ellos son
 
-diferentes, y sus armas son varias tambin. Un hombre tiene que usar la quijada
+diferentes, y sus armas son varias también. Un hombre tiene que usar la quijada
 
-de un burro y otro debe usar una honda y una piedra; uno se contentar con una
+de un burro y otro debe usar una honda y una piedra; uno se contentará con una
 
-aguijada mientras que otro debe desenfundar la daga. Dios ordena diferentes mtodos
+aguijada mientras que otro debe desenfundar la daga. Dios ordena diferentes métodos
 
-as como diferentes tipos de hombres; y l libera a Su pueblo conforme a Su
+así como diferentes tipos de hombres; y Él libera a Su pueblo conforme a Su
 
 propia voluntad, pero siempre lo hace de manera diferente.
 
@@ -176,35 +176,35 @@ Es cierto que la providencia es muy diversa
 
 cuando se considera que los propios hombres que Dios utiliza para ser Sus
 
-principales instrumentos, son tan dismiles unos de otros. No slo estn las
+principales instrumentos, son tan disímiles unos de otros. No sólo están las
 
 grandes diferencias de raza y de nacionalidad, y ni siquiera las diferencias de
 
-nacimiento y educacin, sino que todos nosotros somos diferentes en nuestra
+nacimiento y educación, sino que todos nosotros somos diferentes en nuestra
 
-constitucin, ya que no hay dos mentes iguales.
+constitución, ya que no hay dos mentes iguales.
 
 Hay una individualidad inherente a cada uno de
 
-nosotros que impedir que seamos confundidos con alguien ms. Podramos ser
+nosotros que impedirá que seamos confundidos con alguien más. Podríamos ser
 
 indistinguibles, vistos de manera accidental, pero una vez que somos conocidos,
 
-muy pronto se descubrirn importantes diferencias. Dios es siempre el Dios de
+muy pronto se descubrirán importantes diferencias. Dios es siempre el Dios de
 
-la variedad, y ser as hasta el fin del captulo. l har cosas nuevas antes
+la variedad, y será así hasta el fin del capítulo. Él hará cosas nuevas antes
 
-de enrollar el libro de la historia: hemos de ver nuevos actos del Seor;
+de enrollar el libro de la historia: hemos de ver nuevos actos del Seńor;
 
-pelear Sus batallas utilizando nuevos mtodos; levantar liberadores que sern
+peleará Sus batallas utilizando nuevos métodos; levantará liberadores que serán
 
-diferentes de cualquiera de los anteriores, y exaltar y glorificar Su nombre
+diferentes de cualquiera de los anteriores, y exaltará y glorificará Su nombre
 
-con nuevos instrumentos musicales. Debemos esperarlo. l es el Dios de la
+con nuevos instrumentos musicales. Debemos esperarlo. Él es el Dios de la
 
 diversidad, tanto en la naturaleza como en la providencia.
 
-Mi texto es una muy clara ilustracin de que esa
+Mi texto es una muy clara ilustración de que esa
 
 misma ley prevalece en
 
@@ -214,123 +214,123 @@ gracia.
 
 Siempre se da el mismo tipo de
 
-operacin, y sin embargo, hay una diferencia en el modo de operar. Siempre est
+operación, y sin embargo, hay una diferencia en el modo de operar. Siempre está
 
-el mismo operador en la conversin del alma y, sin embargo, diferentes mtodos
+el mismo operador en la conversión del alma y, sin embargo, diferentes métodos
 
-son empleados continuamente para quebrantar el corazn y vendarlo de nuevo.
+son empleados continuamente para quebrantar el corazón y vendarlo de nuevo.
 
 Cada pecador debe ser vivificado por la misma vida, debe ser hecho obediente al
 
 mismo Evangelio, lavado en la misma sangre, vestido en la misma justicia,
 
-llenado de la misma energa divina, y eventualmente llevado al mismo cielo y,
+llenado de la misma energía divina, y eventualmente llevado al mismo cielo y,
 
-sin embargo, en la conversin de dos pecadores, los asuntos no son precisamente
+sin embargo, en la conversión de dos pecadores, los asuntos no son precisamente
 
-los mismos; desde el primer amanecer de la vida divina hasta el da cuando es
+los mismos; desde el primer amanecer de la vida divina hasta el día cuando es
 
-consumada en el medioda de la perfecta santificacin en el cielo, encontrarn
+consumada en el mediodía de la perfecta santificación en el cielo, encontrarán
 
 que Dios completa de una manera esta obra, y de otra manera aquella otra, y por
 
-otro mtodo una tercera obra, pues Dios ser todava el Dios de la variedad. A
+otro método una tercera obra, pues Dios será todavía el Dios de la variedad. A
 
-la par de la firmeza de Su orden, siempre est manifestando la variedad, las
+la par de la firmeza de Su orden, siempre está manifestando la variedad, las
 
-mltiples facetas de Sus propios pensamientos y de Su mente.
+múltiples facetas de Sus propios pensamientos y de Su mente.
 
-Si, entonces, consideran esta narracin ms
+Si, entonces, consideran esta narración –más
 
-bien larga, pero llena de instruccin, segn pienso- podrn notar cuatro
+bien larga, pero llena de instrucción, según pienso- podrán notar cuatro
 
-mtodos diferentes de conversin; y stos ocurren en la conversin de las
+métodos diferentes de conversión; y éstos ocurren en la conversión de las
 
-primeras cinco personas que conformaron el ncleo del colegio de los apstoles,
+primeras cinco personas que conformaron el núcleo del colegio de los apóstoles,
 
 los primeros cinco que vinieron a Cristo y que fueron contados entre Sus
 
-discpulos. Es muy notable que haya, entre cinco individuos, cuatro diferentes modos
+discípulos. Es muy notable que haya, entre cinco individuos, cuatro diferentes modos
 
-de conversin. Sin embargo, si examinaran a cualquier grupo de cinco personas,
+de conversión. Sin embargo, si examinaran a cualquier grupo de cinco personas,
 
-yo supongo que encontraran una disparidad similar. Seleccionen a cinco
+yo supongo que encontrarían una disparidad similar. Seleccionen a cinco
 
-cristianos indiscriminadamente y comiencen a preguntarles cmo fueron
+cristianos indiscriminadamente y comiencen a preguntarles cómo fueron
 
-conducidos a conocer al Seor, y encontrarn mtodos diferentes a los expuestos
+conducidos a conocer al Seńor, y encontrarán métodos diferentes a los expuestos
 
-aqu; y probablemente al menos cuatro de los cinco seran distintos del resto.
+aquí; y probablemente al menos cuatro de los cinco serían distintos del resto.
 
 I.
 
 El primer caso que tenemos en el texto, ES LA
 
-CONVERSIN DE LOS DOS DISCPULOS. Uno era probablemente Juan. No podemos hablar
+CONVERSIÓN DE LOS DOS DISCÍPULOS. Uno era probablemente Juan. No podemos hablar
 
 con absoluta certeza, pero muy probablemente se trataba de Juan. Sabemos que
 
-era costumbre de este evangelista omitir su propio nombre siempre que poda
+era costumbre de este evangelista omitir su propio nombre siempre que podía
 
-hacerlo. Algunas veces habla de el otro discpulo, cuando en realidad se est
+hacerlo. Algunas veces habla de “el otro discípulo”, cuando en realidad se está
 
-refiriendo a s mismo; y de vez en cuando se expresa as: aquel discpulo a
+refiriendo a sí mismo; y de vez en cuando se expresa así: “aquel discípulo a
 
-quien Jess amaba. Su amor nutra en l una estimacin cordial de los dems y
+quien Jesús amaba”. Su amor nutría en él una estimación cordial de los demás y
 
-una humilde opinin de s mismo; por tanto, aunque nunca omite registrar el
+una humilde opinión de sí mismo; por tanto, aunque nunca omite registrar el
 
-tributo del encomio que otros obtenan de los labios de Cristo, con la
+tributo del encomio que otros obtenían de los labios de Cristo, con la
 
-frecuencia que puede omite su propio nombre. Se supone entonces y yo pienso
+frecuencia que puede omite su propio nombre. Se supone entonces –y yo pienso
 
 que correctamente- que se trataba de Juan.
 
-El otro era Andrs, el hermano de Simn Pedro.
+El otro era Andrés, el hermano de Simón Pedro.
 
-Los dos primeros discpulos son
+Los dos primeros discípulos son
 
 los
 
-frutos de la predicacin.
+frutos de la predicación.
 
-No podramos esperar encontrar que la mayor
+żNo podríamos esperar encontrar que la mayor
 
-parte de nuestras conversiones sean el resultado del ministerio pblico? Los
+parte de nuestras conversiones sean el resultado del ministerio público? “Los
 
 dos
 
-(discpulos)
+(discípulos)
 
-que haban odo a
+que habían oído a
 
-Juan, y haban seguido a Jess.
+Juan, y habían seguido a Jesús”.
 
 Vamos a exponer unas cuantas palabras
 
 concernientes a este primer tema. Esperamos, amados hermanos, ver un gran
 
-nmero de almas llevadas a Dios por la predicacin de la verdad. La predicacin
+número de almas llevadas a Dios por la predicación de la verdad. La predicación
 
-de la cruz podra ser y es, en verdad, para aquellos que perecen, necedad; pero
+de la cruz podría ser y es, en verdad, para aquellos que perecen, necedad; pero
 
-para nosotros, que somos salvados, es el poder de Dios y la sabidura de Dios. Encontrarn
+para nosotros, que somos salvados, es el poder de Dios y la sabiduría de Dios. Encontrarán
 
-el mayor nmero de conversiones all donde abunda la predicacin evanglica. Muchas
+el mayor número de conversiones allí donde abunda la predicación evangélica. Muchas
 
 de nuestras organizaciones destinadas a llevar el Evangelio a los paganos,
 
-olvidan su labor principal, y mientras fundan institutos bblicos y traducen la
+olvidan su labor principal, y mientras fundan institutos bíblicos y traducen la
 
 Biblia y publican tratados, descuidan usar este grandioso martillo de Dios,
 
-este poderoso ariete que habr de derribar las fortificaciones. La predicacin
+este poderoso ariete que habrá de derribar las fortificaciones. La predicación
 
-de la cruz, el clamor de: He aqu el Cordero de Dios!, es la agencia
+de la cruz, el clamor de: “ˇHe aquí el Cordero de Dios!”, es la agencia
 
-establecida por Dios. Uno tendr que involucrarse en otras labores, pero sta
+establecida por Dios. Uno tendrá que involucrarse en otras labores, pero ésta
 
-es la agencia principal y ms importante para la conversin de las almas.
+es la agencia principal y más importante para la conversión de las almas.
 
 Observen, en el caso que tenemos ante nosotros,
 
@@ -340,25 +340,25 @@ Era un hombre divinamente
 
 iluminado. Jesucristo vino al bautismo de Juan, pero al principio, el Bautista
 
-no le conoca. Despus de un rato, sin embargo, cuando el Espritu que haba
+no le conocía. Después de un rato, sin embargo, cuando el Espíritu que había
 
-descendido identific al Mesas, Juan supo entonces con certeza que era Aqul
+descendido identificó al Mesías, Juan supo entonces con certeza que era Aquél
 
-de quien Moiss haba escrito en la ley y los profetas. A partir de entonces, el
+de quien Moisés había escrito en la ley y los profetas. A partir de entonces, el
 
-testimonio de Juan fue siempre claro y valeroso. Aunque concluy su ministerio
+testimonio de Juan fue siempre claro y valeroso. Aunque concluyó su ministerio
 
-perdiendo su cabeza, nunca perdi la honestidad de su propsito ni la lucidez
+perdiendo su cabeza, nunca perdió la honestidad de su propósito ni la lucidez
 
-de su testimonio; continu declarando fielmente que el Mesas haba venido.
+de su testimonio; continuó declarando fielmente que el Mesías había venido.
 
 Hermanos, es de suma importancia en la obra del
 
 ministerio que el predicador sea un hombre iluminado por Dios. No se trata de
 
-que la educacin deba ser despreciada; por el contrario, no podemos esperar que
+que la educación deba ser despreciada; por el contrario, no podemos esperar que
 
-el Espritu Santo en estos das d a los hombres el conocimiento de las lenguas
+el Espíritu Santo en estos días dé a los hombres el conocimiento de las lenguas
 
 si pueden adquirirlo mediante un perseverante estudio. La regla divina es: No
 
@@ -366,7 +366,7 @@ obrar nunca un milagro superfluo. Con las facultades y poderes que poseemos,
 
 tenemos que presentar nuestros miembros a Dios como instrumentos de justicia.
 
-Entonces, en lo que concierne a la educacin del hombre, nosotros creemos que
+Entonces, en lo que concierne a la educación del hombre, nosotros creemos que
 
 Dios nos delega eso, pues si
 
@@ -374,61 +374,61 @@ nosotros
 
 podemos
 
-hacerlo, no hay necesidad de que se obre ningn milagro; pero aunque el hombre
+hacerlo, no hay necesidad de que se obre ningún milagro; pero aunque el hombre
 
-est educado de manera excelente, sigue siendo, en esa condicin, una masa de
+esté educado de manera excelente, sigue siendo, en esa condición, una masa de
 
 barro; Dios tiene que soplar en su nariz el aliento de vida espiritual como
 
-predicador, pues de lo contrario no podra prestar ningn servicio y sera ms
+predicador, pues de lo contrario no podría prestar ningún servicio y sería más
 
-bien un peso muerto para la Iglesia de Dios. Qu diremos, entonces, de esos
+bien un peso muerto para la Iglesia de Dios. żQué diremos, entonces, de esos
 
-hombres que pasan al plpito porque la subsistencia familiar es endeble, o
+hombres que pasan al púlpito porque la subsistencia familiar es endeble, o
 
-porque, tal vez, siendo grandsimos ineptos ya sea para el ejrcito o para la
+porque, tal vez, siendo grandísimos ineptos ya sea para el ejército o para la
 
-ley, necesariamente tienen que ser colocados all donde su manutencin puede
+ley, necesariamente tienen que ser colocados allí donde su manutención puede
 
-ser obtenida con mayor facilidad, es decir, en la iglesia? Cun deplorable es
+ser obtenida con mayor facilidad, es decir, en la iglesia? ˇCuán deplorable es
 
 este pecado en nuestros tiempos: que las manos episcopales se posen sobre los
 
-hombres, declarando que son guiados al ministerio por el Espritu Santo, cuando
+hombres, declarando que son guiados al ministerio por el Espíritu Santo, cuando
 
-ni siquiera saben si hay un Espritu Santo en lo tocante a cualquier
+ni siquiera saben si hay un Espíritu Santo en lo tocante a cualquier
 
-conocimiento prctico de Su poder en sus propios corazones! El da declina, eso
+conocimiento práctico de Su poder en sus propios corazones! El día declina, eso
 
-espero, en el que los hombres son ms diestros para la cacera del zorro que
+espero, en el que los hombres son más diestros para la cacería del zorro que
 
-para pescar un alma y, en general, Dios est levantando en esta tierra un
+para pescar un alma y, en general, Dios está levantando en esta tierra un
 
-espritu de decisin en cuanto a este punto: el cristiano tiene que ser un hombre
+espíritu de decisión en cuanto a este punto: el cristiano tiene que ser un hombre
 
-que posea un conocimiento prctico, en su propia alma, sobre las verdades que
+que posea un conocimiento práctico, en su propia alma, sobre las verdades que
 
-pretende predicar. Es cierto que Dios podra convertir almas por medio de un
+pretende predicar. Es cierto que Dios podría convertir almas por medio de un
 
-mal predicador. Vamos, si el diablo predicara, no me sorprendera que se
+mal predicador. Vamos, si el diablo predicara, no me sorprendería que se
 
 convirtieran algunas almas, si predicara la verdad. Es la verdad y no el
 
-predicador. Los cuervos, aun siendo pjaros inmundos, le llevaron a Elas su
+predicador. Los cuervos, aun siendo pájaros inmundos, le llevaron a Elías su
 
 pan y su carne: y los ministros inmundos pueden llevar algunas veces a los
 
 siervos de Dios su alimento espiritual; pero pese a ello, Dios dice a los
 
-impos: Qu tienes t que hablar de mis leyes? El ministro tiene que ser un
+impíos: “żQué tienes tú que hablar de mis leyes?” El ministro tiene que ser un
 
-hombre enseado por Dios, cuyos ojos han debido ser abiertos por el Espritu
+hombre enseńado por Dios, cuyos ojos han debido ser abiertos por el Espíritu
 
-Santo. Esto, al menos, es la regla en vigor, sin importar cuntas excepciones
+Santo. Esto, al menos, es la regla en vigor, sin importar cuántas excepciones
 
 pudieran ser argumentadas.
 
-Entonces, concediendo que este sea el caso, fjense
+Entonces, concediendo que este sea el caso, fíjense
 
 que
 
@@ -438,301 +438,301 @@ sea igualmente exitoso en todo momento,
 
 pues en el presente ejemplo, Juan
 
-dio, en otra ocasin, un muy claro testimonio de Cristo, pero ninguno de sus
+dio, en otra ocasión, un muy claro testimonio de Cristo, pero ninguno de sus
 
-discpulos lo dej para seguir a Cristo. La siguiente vez que predic fue
+discípulos lo dejó para seguir a Cristo. La siguiente vez que predicó fue
 
-exitoso, pues dos de sus discpulos se unieron al Maestro, aunque en la primera
+exitoso, pues dos de sus discípulos se unieron al Maestro, aunque en la primera
 
-ocasin no leemos que alguno de sus oyentes fuera conducido a declarar que
+ocasión no leemos que alguno de sus oyentes fuera conducido a declarar que
 
-estaba del lado del Seor.
+estaba del lado del Seńor.
 
-Hermanos mos, Dios permite que Sus ministros
+Hermanos míos, Dios permite que Sus ministros
 
-lancen la red algunas veces del lado menos promisorio del barco. Podran
+lancen la red algunas veces del lado menos promisorio del barco. Podrían
 
-trabajar incluso la noche entera sin sacar nada; podran sembrar en terreno
+trabajar incluso la noche entera sin sacar nada; podrían sembrar en terreno
 
-estril, junto al camino y entre los espinos; podran echar su pan sobre las
+estéril, junto al camino y entre los espinos; podrían echar su pan sobre las
 
-aguas, y, sin embargo, no hallarlo, pues la promesa habla de muchos das. Aun
+aguas, y, sin embargo, no hallarlo, pues la promesa habla de “muchos días”. Aun
 
-as, el ministro tiene que perseverar. Si las almas no son salvadas hoy,
+así, el ministro tiene que perseverar. Si las almas no son salvadas hoy,
 
-podran serlo maana. Yo me preguntaba cuando le este pasaje, si hubo algunas
+podrían serlo mańana. Yo me preguntaba cuando leí este pasaje, si hubo algunas
 
-personas que oyeron en vano el domingo pasado que tal vez oirn para bendicin
+personas que oyeron en vano el domingo pasado que tal vez oirán para bendición
 
-el da de hoy. Elevaba mi corazn en oracin a Dios para que estas palabras: el
+el día de hoy. Elevaba mi corazón en oración a Dios para que estas palabras: “el
 
-siguiente da otra vez, se hagan realidad para algunas personas aqu presentes.
+siguiente día otra vez”, se hagan realidad para algunas personas aquí presentes.
 
-Considerando que el otro da clam: He aqu el Cordero!, y ustedes no le
+Considerando que el otro día clamé: “ˇHe aquí el Cordero!”, y ustedes no le
 
-vieron ni confiaron en l, voy a repetir el clamor: He aqu el Cordero!,
+vieron ni confiaron en Él, voy a repetir el clamor: “ˇHe aquí el Cordero!”,
 
-otra vez el da de hoy. Oh, que fueran conducidos a seguir a Jess!
+otra vez el día de hoy. ˇOh, que fueran conducidos a seguir a Jesús!”
 
 Habiendo considerado debidamente al predicador y
 
-su xito, quisiera que observen
+su éxito, quisiera que observen
 
 su tema.
 
-Cun breve es el sermn! Es una censura a nuestra prolijidad. Cun sencillo
+ˇCuán breve es el sermón! Es una censura a nuestra prolijidad. Cuán sencillo
 
-fue, sin frases difciles, sin embellecimientos de elocucin de alto vuelo, sin
+fue, sin frases difíciles, sin embellecimientos de elocución de alto vuelo, sin
 
-proezas de oratoria; es simplemente, He aqu el Cordero! Pero observen el
+proezas de oratoria; es simplemente, “ˇHe aquí el Cordero!” Pero observen el
 
-tema: Juan predica de Jesucristo, nada ms que de Cristo; y de Cristo tambin,
+tema: Juan predica de Jesucristo, nada más que de Cristo; y de Cristo también,
 
-en aquella condicin y aquella forma en que era ms necesario pero menos
+en aquella condición y aquella forma en que era más necesario pero menos
 
-apetitoso. Los judos aceptaban a Cristo el Len; buscaban al poderoso Hroe de
+apetitoso. Los judíos aceptaban a Cristo el León; buscaban al poderoso Héroe de
 
-la Tribu de Jud, que rompera sus ataduras. Jess fue todo eso; pero Juan no
+la Tribu de Judá, que rompería sus ataduras. Jesús fue todo eso; pero Juan no
 
-lo predic como tal; lo predic como Cristo el Cordero, el Cordero de Dios, el
+lo predicó como tal; lo predicó como Cristo el Cordero, el Cordero de Dios, el
 
 sufrido, despreciado, manso y paciente sacrificio. Lo expuso a los hijos de los
 
-hombres en esta ocasin como Aquel que carg con el pecado. Expuso muy
+hombres en esta ocasión como Aquel que cargó con el pecado. Expuso muy
 
 prominentemente tanto para sus propios pensamientos como para las mentes del
 
-pueblo, el cuadro del cordero pascual y del chivo expiatorio; enfatiz esto:
+pueblo, el cuadro del cordero pascual y del chivo expiatorio; enfatizó esto:
 
-que Jess es el Cordero de Dios que quita el pecado del mundo. Si han de darse
+que Jesús es el Cordero de Dios que quita el pecado del mundo. Si han de darse
 
 muchas conversiones en cualquier lugar, el predicador tiene que ser un hombre
 
-enseado por Dios, y tiene que perseverar, aun cuando no hubiere ningn xito;
+enseńado por Dios, y tiene que perseverar, aun cuando no hubiere ningún éxito;
 
 pero tiene que asegurarse de que esto sea el asunto principal de todos sus
 
-sermones, la materia prima de la cual fabrica cada sermn: Jess, y Jess el
+sermones, la materia prima de la cual fabrica cada sermón: “Jesús, y Jesús el
 
-Cordero; Jess, y Jess el que carg con el pecado. Tiene que clamar siempre:
+Cordero; Jesús, y Jesús el que cargó con el pecado”. Tiene que clamar siempre:
 
-Ustedes, pecadores, vean sus pecados colocados en l; ustedes, culpables,
+“Ustedes, pecadores, vean sus pecados colocados en Él; ustedes, culpables,
 
-mrenlo a l; confen en l; hay vida en una mirada a l. l ha tomado sus
+mírenlo a Él; confíen en Él; hay vida en una mirada a Él. Él ha tomado sus
 
-pecados y ha llevado sus aflicciones; mrenlo a l. Si el predicador
+pecados y ha llevado sus aflicciones; mírenlo a Él”. Si el predicador
 
-tartamudea aqu, est arruinado. Si est errado sobre la expiacin, si habla en
+tartamudea aquí, está arruinado. Si está errado sobre la expiación, si habla en
 
-dbiles tonos, como si se disculpara por una doctrina pasada de moda, no se
+débiles tonos, como si se disculpara por una doctrina pasada de moda, no se
 
-enteraran de ninguna conversin desde Enero hasta Diciembre; pero si
+enterarían de ninguna conversión desde Enero hasta Diciembre; pero si
 
-sostuviera esto como la primera y la ms importante verdad: que Jesucristo vino
+sostuviera esto como la primera y la más importante verdad: que Jesucristo vino
 
 al mundo para cargar el pecado por los pecadores, incluso del peor de ellos,
 
-entonces habra conversiones. Dios no sera fiel a Su promesa ni la verdad sera
+entonces habría conversiones. Dios no sería fiel a Su promesa ni la verdad sería
 
-ms lo poderosa que ha comprobado ser en los tiempos antiguos, si las almas no
+más lo poderosa que ha comprobado ser en los tiempos antiguos, si las almas no
 
 fueran revividas y llevadas a Dios por un ministerio como ese.
 
-Oh, ustedes que predican el Evangelio, afrrense
+Oh, ustedes que predican el Evangelio, aférrense
 
-a esto: He aqu el Cordero de Dios! Ustedes, jvenes que se paran en las
+a esto: “ˇHe aquí el Cordero de Dios!” Ustedes, jóvenes que se paran en las
 
-calles, hagan que ese sea su tpico; y ustedes que ministran a la Iglesia de
+calles, hagan que ese sea su tópico; y ustedes que ministran a la Iglesia de
 
 Dios, denles todas las doctrinas del Evangelio, pero siempre regresen a esto
 
-como la aguja se regresa a su polo: He aqu el Cordero de Dios, que quita el
+como la aguja se regresa a su polo: “ˇHe aquí el Cordero de Dios, que quita el
 
-pecado del mundo!
+pecado del mundo!”
 
-En estas dos conversiones a travs del
+En estas dos conversiones a través del
 
-ministerio pblico, es interesante observar el proceso. Noten cuidadosamente la
+ministerio público, es interesante observar el proceso. Noten cuidadosamente la
 
-narracin.
+narración.
 
-Un espritu de indagacin fue
+Un espíritu de indagación fue
 
 promovido
 
-en Andrs y su compaero, y comenzaron a seguir a Cristo, no
+en Andrés y su compańero, y comenzaron a seguir a Cristo, no
 
-exactamente como discpulos todava, sino como indagadores. Si puedo decirlo
+exactamente como discípulos todavía, sino como indagadores. Si puedo decirlo
 
-as, siguieron la espalda de Cristo; no haban llegado a ver Su rostro todava,
+así, siguieron la espalda de Cristo; no habían llegado a ver Su rostro todavía,
 
-ni se haban sentado a Sus pies, pero siguieron Su espalda como lo hacen
+ni se habían sentado a Sus pies, pero siguieron Su espalda como lo hacen
 
 algunos que, impresionados por la Palabra, tienen un deseo por Cristo, y tienen
 
-el propsito de entregarse a una honesta investigacin de Sus exigencias para
+el propósito de entregarse a una honesta investigación de Sus exigencias para
 
-tener fe. Mientras van siguiendo detrs de Cristo,
+tener fe. Mientras van siguiendo detrás de Cristo,
 
-l se vuelve
+Él se vuelve
 
-y se coloca frente a ellos. Oh, qu venturoso giro
+y se coloca frente a ellos. ˇOh, qué venturoso giro
 
-fue para ellos! Fue un venturoso giro para Pedro cuando el Seor se volvi y le
+fue para ellos! Fue un venturoso giro para Pedro cuando el Seńor se volvió y le
 
-mir; y, en este caso, mientras le iban siguiendo a Sus espaldas, por decirlo
+miró; y, en este caso, mientras le iban siguiendo a Sus espaldas, por decirlo
 
-as, l se vuelve
+así, Él se vuelve
 
 y les ve.
 
 Yo no
 
-podra decirles cunto amor haba en Sus ojos. El amor de una madre hacia su
+podría decirles cuánto amor había en Sus ojos. El amor de una madre hacia su
 
-primer hijo podra tal vez pintar el amor de Jesucristo por estos primeros
+primer hijo podría tal vez pintar el amor de Jesucristo por estos primeros
 
-discpulos. l era Dios, l era hombre, l era el propio Hijo de Dios; pero
+discípulos. Él era Dios, Él era hombre, Él era el propio Hijo de Dios; pero
 
-nunca haba sido un Maestro de discpulos hasta aquel momento. Ahora salta a un
+nunca había sido un Maestro de discípulos hasta aquel momento. Ahora salta a un
 
-rango que no haba alcanzado antes. Ahora tiene a algunos que le llamarn Rab,
+rango que no había alcanzado antes. Ahora tiene a algunos que le llamarán “Rabí”,
 
-y estarn anuentes a ser guiados por Su enseanza. Los mira en torno Suyo. Aun
+y estarán anuentes a ser guiados por Su enseńanza. Los mira en torno Suyo. Aun
 
-as, cuando la indagacin es excitada por el ministerio, y los hombres
+así, cuando la indagación es excitada por el ministerio, y los hombres
 
-comienzan a investigar, Jess los ve. Con un ojo de sincero afecto los
+comienzan a investigar, Jesús los ve. Con un ojo de sincero afecto los
 
-considera y los apoya en su bsqueda. Jess les hizo la pregunta:
+considera y los apoya en su búsqueda. Jesús les hizo la pregunta:
 
-Qu buscis?,
+“żQué buscáis?”,
 
 una pregunta muy
 
-modesta. Advirtanla. Es la primera palabra del ministerio de Cristo. Es la
+modesta. Adviértanla. Es la primera palabra del ministerio de Cristo. Es la
 
-primera palabra que describe a Cristo hablando en pblico: Qu buscis? Y,
+primera palabra que describe a Cristo hablando en público: “żQué buscáis?” żY,
 
-no era una pregunta de muy grande alcance? Qu es lo que buscis?
+no era una pregunta de muy grande alcance? “żQué es lo que buscáis?”
 
 Si hay algunos honestos buscadores de la
 
-salvacin aqu, l les hace la misma pregunta esta maana: Qu buscis?
+salvación aquí, Él les hace la misma pregunta esta mańana: “żQué buscáis?”
 
-Estn buscando el perdn? Lo encontrarn en M. Estn buscando la paz? Yo
+“żEstán buscando el perdón? Lo encontrarán en Mí. żEstán buscando la paz? Yo
 
-les dar el descanso. Estn buscando pureza? Yo quitar su pecado, les dar un
+les daré el descanso. żEstán buscando pureza? Yo quitaré su pecado, les daré un
 
-nuevo corazn, y pondr dentro de ustedes un espritu recto. Qu estn
+nuevo corazón, y pondré dentro de ustedes un espíritu recto. żQué están
 
-buscando? Un slido lugar de descanso en la tierra y una gloriosa esperanza
+buscando? żUn sólido lugar de descanso en la tierra y una gloriosa esperanza
 
-para ustedes en el cielo? No importa lo que busquen, aqu est. Qu texto sera
+para ustedes en el cielo? No importa lo que busquen, aquí está”. Qué texto sería
 
-ste para un misionero al ser consultado por primera vez por algunos de los
+éste para un misionero al ser consultado por primera vez por algunos de los
 
-paganos despertados, cuando debera decir: Ustedes buscan la verdad; ahora,
+paganos despertados, cuando debería decir: “Ustedes buscan la verdad; ahora,
 
-qu es lo que quieren realmente? Qu buscan? Qu es? Porque sea lo que sea
+żqué es lo que quieren realmente? żQué buscan? żQué es? Porque sea lo que sea
 
-que persiga el corazn humano en su recto estado, todo ello puede ser
+que persiga el corazón humano en su recto estado, todo ello puede ser
 
-encontrado en Cristo.
+encontrado en Cristo”.
 
-Cristo halla al hombre que est en un marco mental
+Cristo halla al hombre que está en un marco mental
 
-de bsqueda, y le sugiere una mayor bsqueda, y agita su corazn; mientras el
+de búsqueda, y le sugiere una mayor búsqueda, y agita su corazón; mientras el
 
-fuego del alma arde, l pone combustible a la flama. Ellos preguntan: Maestro,
+fuego del alma arde, Él pone combustible a la flama. Ellos preguntan: “Maestro,
 
-dnde moras? Y Su respuesta para ellos es:
+żdónde moras?” Y Su respuesta para ellos es:
 
-Venid y ved.
+“Venid y ved”.
 
-As es precisamente cmo se obra el proceso de la
+Así es precisamente cómo se obra el proceso de la
 
-conversin en los corazones de los hombres; quieren saber ms de Cristo, y l
+conversión en los corazones de los hombres; quieren saber más de Cristo, y Él
 
-les dice: Venid y ved. Ustedes querran tener paz -vengan y vean si Yo puedo
+les dice: “Venid y ved. Ustedes querrían tener paz -vengan y vean si Yo puedo
 
-drselas- Yo les digo que si confan en M, la paz de ustedes ser como un ro,
+dárselas- Yo les digo que si confían en Mí, la paz de ustedes será como un río,
 
-y su justicia como las olas del mar. Venid y ved! Ustedes dicen que necesitan
+y su justicia como las olas del mar. ˇVenid y ved!” Ustedes dicen que necesitan
 
 pureza; simplemente prueben ahora el efecto de la obediencia de la fe: vean si
 
-no cambia sus corazones y no renueva su espritu. Venid y ved. Oh, ustedes
+no cambia sus corazones y no renueva su espíritu. “Venid y ved”. Oh, ustedes
 
-que estn buscando y haciendo preguntas acerca de Cristo y acerca del
+que están buscando y haciendo preguntas acerca de Cristo y acerca del
 
-Evangelio, y de Su persona, y de Su linaje: Venid y ved. La mejor manera de
+Evangelio, y de Su persona, y de Su linaje: “Venid y ved”. La mejor manera de
 
 quedar convencidos del poder de nuestro santo Evangelio es probarlo por ustedes
 
-mismos. Si son buscadores honestos, si la gracia de Dios los ha hecho as,
+mismos. Si son buscadores honestos, si la gracia de Dios los ha hecho así,
 
-entonces vengan y prueben y verifiquen. Dichoso el hombre que confa en l.
+entonces vengan y prueben y verifiquen. “Dichoso el hombre que confía en Él”.
 
 Esta es nuestra prueba y nuestro testimonio; pero si quisieran comprobarlo por
 
-ustedes mismos, Venid y ved. Ellos le tomaron la palabra a Jess; vinieron y
+ustedes mismos, “Venid y ved”. Ellos le tomaron la palabra a Jesús; vinieron y
 
-vieron. No se nos dice qu vieron, pero se nos informa cul fue el resultado:
+vieron. No se nos dice qué vieron, pero se nos informa cuál fue el resultado:
 
-se quedaron con l esa noche, y permanecieron con l todos Sus das y se
+se quedaron con Él esa noche, y permanecieron con Él todos Sus días y se
 
-convirtieron en Sus fieles discpulos.
+convirtieron en Sus fieles discípulos.
 
-Oh, mi querido amigo, si slo quisieras venir y
+Oh, mi querido amigo, si sólo quisieras venir y
 
-ver a Cristo, si por medio de una humilde oracin sincera t le entregaras tu
+ver a Cristo, si por medio de una humilde oración sincera tú le entregaras tu
 
-corazn, y luego confiaras en l sin reserva para que sea tu gua, nunca
+corazón, y luego confiaras en Él sin reserva para que sea tu guía, nunca
 
-lamentaras la decisin. Si Jess resultara ser un mentiroso para ti, entonces
+lamentarías la decisión. Si Jesús resultara ser un mentiroso para ti, entonces
 
-abandnale; si Su promesa no fuera verdadera, entonces no te cuentes entre Sus
+abandónale; si Su promesa no fuera verdadera, entonces no te cuentes entre Sus
 
-discpulos; pero prubalo.
+discípulos; pero pruébalo.
 
-Oh, solo
+“ˇOh, solo
 
 haz una prueba de Su amor!
 
 La
 
-experiencia decidir
+experiencia decidirá
 
-Cun
+Cuán
 
-bienaventurados son aquellos y slo ellos,
+bienaventurados son aquellos y sólo ellos,
 
-Que confan
+Que confían
 
-en Su verdad.
+en Su verdad”.
 
 Vean, entonces, la manera en que la gracia de Dios
 
-obra por medio de la Palabra, cmo motiva un espritu de indagacin, cmo
+obra por medio de la Palabra, cómo motiva un espíritu de indagación, cómo
 
-promueve luego una mayor investigacin, cmo proporciona luego la prueba de la
+promueve luego una mayor investigación, cómo proporciona luego la prueba de la
 
-experiencia, y conduce posteriormente a entregar el corazn a Cristo.
+experiencia, y conduce posteriormente a entregar el corazón a Cristo.
 
 II.
 
 El siguiente caso es muy diferente. El tercero
 
-de los discpulos de Cristo, Simn Pedro, fue trado por UNA INSTRUMENTALIDAD
+de los discípulos de Cristo, Simón Pedro, fue traído por UNA INSTRUMENTALIDAD
 
-PRIVADA, y no por la predicacin pblica de la Palabra.
+PRIVADA, y no por la predicación pública de la Palabra.
 
-Observen el versculo cuarenta y uno, Este
+Observen el versículo cuarenta y uno, “Este
 
-hall primero a su hermano Simn, y le dijo: Hemos hallado al Mesas (que
+halló primero a su hermano Simón, y le dijo: Hemos hallado al Mesías (que
 
-traducido es, el Cristo). Este caso no es sino un patrn de todos aquellos
+traducido es, el Cristo)”. Este caso no es sino un patrón de todos aquellos
 
 casos en los que la vida espiritual es vigorosa.
 
@@ -740,369 +740,369 @@ Tan pronto como un hombre es encontrado por Cristo, comienza a
 
 encontrar a otros.
 
-La palabra primero implica que no renunci
+La palabra “primero” implica que no renunció
 
 posteriormente:
 
 primero
 
-encontr a su
+encontró a su
 
-propio hermano Simn. A cuntos encontr despus, no podra decirlo, pero me
+propio hermano Simón. A cuántos encontró después, no podría decirlo, pero me
 
-veo obligado a decir que Andrs continu siendo un pescador de hombres hasta
+veo obligado a decir que Andrés continuó siendo un pescador de hombres hasta
 
-ser levantado al tercer cielo. Encontr a muchsimos ms despus que hubo
+ser levantado al tercer cielo. Encontró a muchísimos más después que hubo
 
 encontrado a Pedro.
 
 El primer instinto de la vida nacida de nuevo es
 
-desear el bien de los dems. Yo no podra creer que t hayas gustado de la miel
+desear el bien de los demás. Yo no podría creer que tú hayas gustado de la miel
 
-del Evangelio si puedes comrtela toda t solo. La verdadera gracia pone un fin
+del Evangelio si puedes comértela toda tú solo. La verdadera gracia pone un fin
 
-a todo monopolio espiritual. S que hay algunos que piensan que no hay gracia
+a todo monopolio espiritual. Sé que hay algunos que piensan que no hay gracia
 
-ms all de su propia capilla; ellos creen que Dios no obra nunca ms all de
+más allá de su propia capilla; ellos creen que Dios no obra nunca más allá de
 
-la paredes de su propio tabernculo; ms all del alcance de la voz de
+la paredes de su propio tabernáculo; más allá del alcance de la voz de
 
 su
 
 ministro todo es errado, heterodoxo,
 
-tal vez pretencioso, pero fatalmente engaoso. Sostienen que todos los dems
+tal vez pretencioso, pero fatalmente engańoso. Sostienen que todos los demás
 
-estn fuera de los vnculos del pacto y, a semejanza de aquellos antiguos disputadores
+están fuera de los vínculos del pacto y, a semejanza de aquellos antiguos disputadores
 
 de la tierra de Uz, dicen:
 
-Nosotros
+“Nosotros
 
 somos el pueblo, y con
 
 nosotros
 
-morir la sabidura. Ciertamente el pueblo de Dios no habla nunca de esa
+morirá la sabiduría”. Ciertamente el pueblo de Dios no habla nunca de esa
 
-manera, o si lo hicieran, estaran hablando el lenguaje de Asdod y no el idioma
+manera, o si lo hicieran, estarían hablando el lenguaje de Asdod y no el idioma
 
 del hijo de Israel, pues la lengua de los israelitas rebosa de amor, y su lenguaje
 
-est lleno de un vido deseo de que otros puedan ser trados tambin.
+está lleno de un ávido deseo de que otros puedan ser traídos también.
 
-Miren a nuestro apstol Pablo. No encontraran
+Miren a nuestro apóstol Pablo. No encontrarían
 
-nunca un mayor predestinacionismo del que se lee en el captulo noveno de
+nunca un mayor predestinacionismo del que se lee en el capítulo noveno de
 
 Romanos
 
-, y sin embargo, qu es lo que dice? El deseo de su
+, y sin embargo, żqué es lo que dice? El deseo de su
 
-corazn y su oracin a Dios por Israel es que sean salvos. Senta su corazn
+corazón y su oración a Dios por Israel es que sean salvos. Sentía su corazón
 
-acongojado, dice, por sus hermanos, por sus parientes segn la carne. No haba
+acongojado, dice, por sus hermanos, por sus parientes según la carne. No había
 
-un hombre ms ansioso de convertir almas que Pablo, aunque no haba un hombre
+un hombre más ansioso de convertir almas que Pablo, aunque no había un hombre
 
-ms ortodoxo en la doctrina de la eleccin de Dios. l saba que no depende del
+más ortodoxo en la doctrina de la elección de Dios. Él sabía que no depende del
 
-que quiere ni del que corre, pero poda decir como lo hizo Samuel: Lejos de m
+que quiere ni del que corre, pero podía decir como lo hizo Samuel: “Lejos de mí
 
-que peque yo contra Jehov cesando de rogar por vosotros. Vean, entonces, que
+que peque yo contra Jehová cesando de rogar por vosotros”. Vean, entonces, que
 
 el primer deseo de un cristiano es esforzarse por llevar a otros al Salvador.
 
 - La
 
-relacin tiene una exigencia muy severa en cuanto a nuestros primeros esfuerzos
+relación tiene una exigencia muy severa en cuanto a nuestros primeros esfuerzos
 
 individuales.
 
-Andrs,
+Andrés,
 
-hiciste bien en comenzar con Simn. Yo no s, hermanos mos, si no hubiera
+hiciste bien en comenzar con Simón. Yo no sé, hermanos míos, si no hubiera
 
-algunos cristianos distribuyendo opsculos en casas de otras personas que
+algunos cristianos distribuyendo opúsculos en casas de otras personas que
 
-haran bien en regalar un opsculo en su propio hogar; si no hubiera hombres
+harían bien en regalar un opúsculo en su propio hogar; si no hubiera hombres
 
-que salen a las aldeas a predicar, que haran mejor permaneciendo en casa para
+que salen a las aldeas a predicar, que harían mejor permaneciendo en casa para
 
-ensear a sus propios hijos, o si aun en la escuela dominical, no pudiera haber
+enseńar a sus propios hijos, o si aun en la escuela dominical, no pudiera haber
 
-personas que vienen delante del Seor para desempear un deber, cuando sus
+personas que vienen delante del Seńor para desempeńar un deber, cuando sus
 
-manos estn manchadas del rojo de la sangre que es producto del asesinato de
+manos están manchadas del rojo de la sangre que es producto del asesinato de
 
-otro deber. Mi primer oficio est en casa. T podras tener un llamado para
+otro deber. Mi primer oficio está en casa. Tú podrías tener un llamado para
 
-ensear a los hijos de otras personas, eso pudiera ser, pero ciertamente tienes
+enseńar a los hijos de otras personas, eso pudiera ser, pero ciertamente tienes
 
-un llamado imperioso a ensear a tus propios hijos. T pudieras ser llamado o
+un llamado imperioso a enseńar a tus propios hijos. Tú pudieras ser llamado o
 
 no a cuidar a personas de un pueblo o aldea vecinos, pero ciertamente eres
 
 llamado a cuidar a tus propios siervos, a tus propios parientes y conocidos. Tu
 
-religin debe comenzar en casa.
+religión debe comenzar en casa.
 
 Nos hemos enterado de algunas personas que exportan
 
-sus mejores productos muchos comerciantes lo hacen- pero no creo que el
+sus mejores productos –muchos comerciantes lo hacen- pero no creo que el
 
-cristiano deba imitarlos en eso. La conversacin del cristiano debe tener el
+cristiano deba imitarlos en eso. La conversación del cristiano debe tener el
 
-mejor sabor en todas partes, pero debe tener el cuidado de sacar la fruta ms
+mejor sabor en todas partes, pero debe tener el cuidado de sacar la fruta más
 
-dulce del testimonio y de la vida espiritual, tanto en casa como en el crculo
+dulce del testimonio y de la vida espiritual, tanto en casa como en el círculo
 
-de sus propios parientes y conocidos. Andrs, hiciste bien en encontrar primero
+de sus propios parientes y conocidos. Andrés, hiciste bien en encontrar primero
 
-a tu hermano Simn.
+a tu hermano Simón.
 
-Cuando fue a buscarlo podra no haber pensado en
+Cuando fue a buscarlo podría no haber pensado en
 
-lo que se convertira Simn. Vamos,
+lo que se convertiría Simón. Vamos,
 
-Simn
+Simón
 
-vala diez Andreses,
+valía diez Andreses,
 
 hasta donde podemos deducir de los evangelistas. Pedro
 
-era un verdadero prncipe entre los apstoles; y con esa lengua veloz suya, y
+era un verdadero príncipe entre los apóstoles; y con esa lengua veloz suya, y
 
-ese valeroso, arrojado y atrevido espritu, con esa alma confiada y resuelta,
+ese valeroso, arrojado y atrevido espíritu, con esa alma confiada y resuelta,
 
-ninguno de ellos era rival para Pedro. Juan poda destacar en amor, pero Pedro
+ninguno de ellos era rival para Pedro. Juan podía destacar en amor, pero Pedro
 
-era verdaderamente un lder en medio de los apstoles, y Andrs poco poda
+era verdaderamente un líder en medio de los apóstoles, y Andrés poco podía
 
-compararse con l.
+compararse con él.
 
-T mismo podras ser muy deficiente en cuanto al
+Tú mismo podrías ser muy deficiente en cuanto al
 
-talento, y sin embargo, pudieras ser el instrumento de llevar a algn gran
+talento, y sin embargo, pudieras ser el instrumento de llevar a algún gran
 
-hombre a Cristo. Ah, querido amigo, muy poco conoces las posibilidades que hay
+hombre a Cristo. ˇAh, querido amigo, muy poco conoces las posibilidades que hay
 
-en ti! Tal vez slo le hables una palabra a un nio, y en ese nio pudiera
+en ti! Tal vez sólo le hables una palabra a un nińo, y en ese nińo pudiera
 
-dormir ahora un gran corazn que conmover a la Iglesia cristiana en aos
+dormir ahora un gran corazón que conmoverá a la Iglesia cristiana en ańos
 
-venideros. Andrs tiene slo dos talentos, pero encuentra a Pedro.
+venideros. Andrés tiene sólo dos talentos, pero encuentra a Pedro.
 
-El testimonio que Andrs da a Pedro es digno de
+El testimonio que Andrés da a Pedro es digno de
 
-observacin. Haba en l una gran modestia, y eso, me atrevo a afirmarlo, hizo
+observación. Había en él una gran modestia, y eso, me atrevo a afirmarlo, hizo
 
 que Pedro lo valorara. No dijo:
 
-He
+“He
 
 hallado
 
-al Mesas. Le dice:
+al Mesías”. Le dice:
 
-hemos.
+“hemos”.
 
 Quienquiera
 
-que fuera el otro discpulo, le reconoce su parte del descubrimiento. Nuestra
+que fuera el otro discípulo, le reconoce su parte del descubrimiento. Nuestra
 
-expresin nunca pierde fuerza si pierde altivez, ms bien incrementa
+expresión nunca pierde fuerza si pierde altivez, más bien incrementa
 
-generalmente su poder en proporcin a su modestia, aunque esa modestia no debe
+generalmente su poder en proporción a su modestia, aunque esa modestia no debe
 
 interferir nunca con el valor. Su testimonio fue muy claro y muy positivo. No
 
-anduvo con rodeos, ni dud, sino que fue justo esto: Hemos hallado al Mesas.
+anduvo con rodeos, ni dudó, sino que fue justo esto: “Hemos hallado al Mesías”.
 
-La declaracin fue clara y sin adornos, pero muy positiva. No dijo: yo
+La declaración fue clara y sin adornos, pero muy positiva. No dijo: “yo
 
 creo
 
-que hemos, o yo
+que hemos”, o “yo
 
-confo
+confío
 
-que hemos, sino
+que hemos”, sino
 
-hemos,
+“hemos”,
 
 y eso era precisamente lo
 
-valioso para Simn Pedro. Pedro necesitaba un trato claro y positivo, y era un
+valioso para Simón Pedro. Pedro necesitaba un trato claro y positivo, y era un
 
 hombre que necesitaba recibirlo de la voz amigable de un hermano, pues de lo
 
-contrario poco habra servido hablarle de Cristo en absoluto.
+contrario poco habría servido hablarle de Cristo en absoluto.
 
-Observen el proceso de conversin cuando fue
+Observen el proceso de conversión cuando fue
 
-llevado a Jess. Jess le describe su presente estado. Le dijo: T eres Simn,
+llevado a Jesús. Jesús le describe su presente estado. Le dijo: “Tú eres Simón,
 
-hijo de Jons. Algunos interpretan esto: T eres Simn, el hijo de una tmida
+hijo de Jonás”. Algunos interpretan esto: “Tú eres Simón, el hijo de una tímida
 
-paloma.
+paloma”.
 
 Le explica lo que era;
 
 le
 
-demuestra que le conoca; que entenda tanto su arrojo como su cobarda; tanto
+demuestra que le conocía; que entendía tanto su arrojo como su cobardía; tanto
 
 su aspereza como su constancia, y luego, cuando le hubo dicho lo que era, le
 
-dio un nombre nuevo que era indicativo de la naturaleza que Su gracia le dara:
+dio un nombre nuevo que era indicativo de la naturaleza que Su gracia le daría:
 
-T sers llamado Cefas, una piedra. Ahora, ese es el plan general de
+“Tú serás llamado Cefas, una piedra”. Ahora, ese es el plan general de
 
-conversin; es el plan en cada caso, realmente, aunque no aparentemente. La
+conversión; es el plan en cada caso, realmente, aunque no aparentemente. La
 
-naturaleza es descubierta y la gracia es impartida. Somos enseados a leer el
+naturaleza es descubierta y la gracia es impartida. Somos enseńados a leer el
 
 antiguo nombre con tristeza, y un nuevo nombre nos es dado, y nos regocijamos en
 
 ello.
 
-Podra haber algunas personas aqu que no hayan
+Podría haber algunas personas aquí que no hayan
 
 sido convertidas a Dios por medio del ministerio sino por las palabras de un
 
 maestro de la escuela dominical, o de una hermana o de un amigo. Agradezcan a
 
-Dios y tengan nimo; no importa cmo sean convertidos siempre que descansen
+Dios y tengan ánimo; no importa cómo sean convertidos siempre que descansen
 
-nicamente en Cristo; si no han sido escudriadores de la Palabra, si pareciera
+únicamente en Cristo; si no han sido escudrińadores de la Palabra, si pareciera
 
-que Cristo nunca les ha dicho: Venid y ved, pero si su naturaleza ha sido
+que Cristo nunca les ha dicho: “Venid y ved”, pero si su naturaleza ha sido
 
-cambiada, y han recibido un nombre nuevo si se diera un cambio radical en
+cambiada, y han recibido un nombre nuevo –si se diera un cambio radical en
 
-ustedes, no indagar sobre lo dems- ustedes son hijos de Dios. Aunque tu caso
+ustedes, no indagaré sobre lo demás- ustedes son hijos de Dios. Aunque tu caso
 
-difiera del otro, es una regla para con Dios que no todo ser precisamente
+difiera del otro, es una regla para con Dios que no todo será precisamente
 
-igual. Que sean llevados a la comunin de los santos es una ilustracin de la
+igual. Que sean llevados a la comunión de los santos es una ilustración de la
 
-unidad del propsito de Dios; que tenga que haber seales claras en su conversin
+unidad del propósito de Dios; que tenga que haber seńales claras en su conversión
 
-est muy en armona con la diversidad de Sus operaciones.
+está muy en armonía con la diversidad de Sus operaciones.
 
 III.
 
-El siguiente da quiso Jess ir a Galilea, y
+“El siguiente día quiso Jesús ir a Galilea, y
 
-hall a Felipe, y le dijo: Sgueme. El cuarto discpulo es llamado sin una
+halló a Felipe, y le dijo: Sígueme”. El cuarto discípulo es llamado sin una
 
-Palabra pblica y sin una instruccin privada; es llamado directamente POR LA
+Palabra pública y sin una instrucción privada; es llamado directamente POR LA
 
-VOZ DE JESS.
+VOZ DE JESÚS.
 
 Ahora, en realidad, todos los hombres son
 
-llamados de esa manera, pues la voz de Juan o la voz de Andrs son realmente la
+llamados de esa manera, pues la voz de Juan o la voz de Andrés son realmente la
 
-voz de Jesucristo hablando a travs de su instrumentalidad; pero en algunos
+voz de Jesucristo hablando a través de su instrumentalidad; pero en algunos
 
 casos, aparentemente, no se usa ninguna instrumentalidad. Hemos conocido algunas
 
-personas que sbitamente han sentido impresiones, sin saber de dnde venan ni
+personas que súbitamente han sentido impresiones, sin saber de dónde venían ni
 
-adnde iban. En medio de las actividades laborales el jornalero sbitamente
+adónde iban. En medio de las actividades laborales el jornalero súbitamente
 
-detiene su cepillo pues un gran pensamiento penetr en su cerebro; de dnde provino,
+detiene su cepillo pues un gran pensamiento penetró en su cerebro; de dónde provino,
 
-l no lo sabe. Nos hemos enterado de un hombre que, a medianoche l no saba
+él no lo sabe. Nos hemos enterado de un hombre que, a medianoche –él no sabía
 
-por qu- le sobrevino una santa calma, y como la luna brillaba a travs de la
+por qué- le sobrevino una santa calma, y como la luna brillaba a través de la
 
-ventana, pareca que haba una luz sagrada adentrndose con brillo en su alma, y
+ventana, parecía que había una luz sagrada adentrándose con brillo en su alma, y
 
-entonces comenz a reflexionar. Hemos sabido que tales cosas ocurren, casos
+entonces comenzó a reflexionar. Hemos sabido que tales cosas ocurren, casos
 
 sorprendentes, precisamente cuando los hombres han estado planeando cometer
 
 actos viciosos.
 
-No sucedi as con el coronel Gardner, quien en
+żNo sucedió así con el coronel Gardner, quien en
 
 la noche en que estaba a punto de perpetrar un crimen, fue detenido por la
 
-gracia soberana, sin ninguna instrumentalidad aparente? Nosotros no podramos
+gracia soberana, sin ninguna instrumentalidad aparente? Nosotros no podríamos
 
-decir, hermanos, cundo Dios va regenerar a Su elegido, pues, aunque tenemos
+decir, hermanos, cuándo Dios va regenerar a Su elegido, pues, aunque tenemos
 
-que usar los medios, y pedir a Dios que enve obreros a la via, el soberano
+que usar los medios, y pedir a Dios que envíe obreros a la vińa, el soberano
 
-Seor de todo, prescinde con frecuencia de esos medios. La Palabra que ha sido
+Seńor de todo, prescinde con frecuencia de esos medios. La Palabra que ha sido
 
-oda en aos pasados, la Escritura conocida en la niez, pudiera ser el poder
+oída en ańos pasados, la Escritura conocida en la nińez, pudiera ser el poder
 
-directo del Espritu Santo, sin ningn medio aparente, que lleve al hombre de
+directo del Espíritu Santo, sin ningún medio aparente, que lleve al hombre de
 
 las tinieblas a la luz.
 
-Jesucristo slo habl una palabra, pero esa
+Jesucristo sólo habló una palabra, pero esa
 
-palabra bast:
+palabra bastó:
 
-Sgueme;
+“Sígueme”;
 
 y Felipe
 
-obedeci de inmediato. Yo no podra decir qu preparacin de corazn debe de
+obedeció de inmediato. Yo no podría decir qué preparación de corazón debe de
 
-haber habido antes. No sabemos qu silbo apacible y delicado haya estado
+haber habido antes. No sabemos qué silbo apacible y delicado haya estado
 
-hablando al odo de Felipe antes de eso. Ciertamente, el nico medio externo
+hablando al oído de Felipe antes de eso. Ciertamente, el único medio externo
 
-fue esta voz de Cristo: Sgueme.
+fue esta voz de Cristo: “Sígueme”.
 
-Y podra haber, en esta casa, alguien que ser
+Y podría haber, en esta casa, alguien que será
 
-convertido esta maana. T no sabes por qu ests aqu, no podras decir por
+convertido esta mańana. Tú no sabes por qué estás aquí, no podrías decir por
 
-qu te desviaste y entraste aqu; sin embargo, pudiera ser Dios lo sabe- que
+qué te desviaste y entraste aquí; sin embargo, pudiera ser –Dios lo sabe- que
 
-Cristo quera que entraras aqu porque l mismo vendr aqu. El siguiente da
+Cristo quería que entraras aquí porque Él mismo vendrá aquí. “El siguiente día
 
 quiso
 
-Jess ir a Galilea. Acaso no hay
+Jesús ir a Galilea”. żAcaso no hay
 
-algo de la necesidad divina que hemos advertido con frecuencia en otro lugar? Y
+algo de la necesidad divina que hemos advertido con frecuencia en otro lugar? “Y
 
 le era
 
 necesario
 
-pasar por Samaria.
+pasar por Samaria”.
 
-No sinti instintivamente que haba un alma all que deba encontrar y tena
+żNo sintió instintivamente que había un alma allí que debía encontrar y tenía
 
 que ir tras ella, y hablar la palabra de poder que somete al pecado? Tal vez
 
-esta maana Jess
+esta mańana Jesús
 
 quiere
 
 venir al
 
-Tabernculo; Jess
+Tabernáculo; Jesús
 
 quiere
 
-venir aqu
+venir aquí
 
-porque sabe que Felipe ha venido aqu tambin. Felipe, dnde ests? Podras
+porque sabe que Felipe ha venido aquí también. Felipe, żdónde estás? Podrías
 
-haber vivido en pecado y haber despreciado a Cristo, pero si l dijera:
+haber vivido en pecado y haber despreciado a Cristo, pero si Él dijera:
 
-Sgueme, te ruego que oigas Su palabra y le sigas.
+“Sígueme”, te ruego que oigas Su palabra y le sigas.
 
 Seguir a Cristo es el cuadro del
 
@@ -1110,79 +1110,79 @@ discipulado cristiano en todo sentido.
 
 Sigue
 
-a Cristo en tus doctrinas y cree lo que te ensea; sigue a Cristo en tu fe,
+a Cristo en tus doctrinas y cree lo que te enseńa; sigue a Cristo en tu fe,
 
-confa en l plenamente con tu alma; sguele en tus acciones, siendo l tu
+confía en Él plenamente con tu alma; síguele en tus acciones, siendo Él tu
 
 ejemplo y
 
 tu
 
-gua; sguele en las ordenanzas: sguele
+guía; síguele en las ordenanzas: síguele
 
-en el bautismo y junto a esta mesa de la cena, sguele. Sguele en todo acto de
+en el bautismo y junto a esta mesa de la cena, síguele. Síguele en todo acto de
 
-valenta, en cada lugar de comunin espiritual, al monte, en la oracin
+valentía, en cada lugar de comunión espiritual, al monte, en la oración
 
-secreta, o a la multitud, en el ministerio pblico. De acuerdo a tu medida
+secreta, o a la multitud, en el ministerio público. De acuerdo a tu medida
 
-sigue las pisadas de tu Seor y Maestro. Y esto, afirmo, puede ser dirigido a
+sigue las pisadas de tu Seńor y Maestro. Y esto, afirmo, puede ser dirigido a
 
-uno que no tenga otra instrumentalidad usada con l, sino slo la misteriosa
+uno que no tenga otra instrumentalidad usada con él, sino sólo la misteriosa
 
-voz de Cristo: Sgueme.
+voz de Cristo: “Sígueme”.
 
-As fue en el tercer caso. Tal vez, de los tres
+Así fue en el tercer caso. Tal vez, de los tres
 
-casos, esta experiencia sea la ms excelsa. A los primeros dos se les dijo:
+casos, esta experiencia sea la más excelsa. A los primeros dos se les dijo:
 
-Venid y ved, y llegaron a entender el valor de Cristo; pero a ste se le pide
+“Venid y ved”, y llegaron a entender el valor de Cristo; pero a éste se le pide
 
-que le siga: l lleva a cabo prcticamente lo que los otros slo vieron. La
+que le siga: él lleva a cabo prácticamente lo que los otros sólo vieron. La
 
-segunda conversin que tenemos ante nosotros alcanza un grado superior al
+segunda conversión que tenemos ante nosotros alcanza un grado superior al
 
-primero; pero este es el caso ms excelso de todos, cuando el cambio de
+primero; pero este es el caso más excelso de todos, cuando el cambio de
 
-naturaleza -como en el caso de Pedro- conduce a un cambio de accin -como en el
+naturaleza -como en el caso de Pedro- conduce a un cambio de acción -como en el
 
 caso de Felipe- que se levanta y sigue a Cristo.
 
 IV.
 
-Espero no haberlos cansado, pues todava tenemos
+Espero no haberlos cansado, pues todavía tenemos
 
-el cuarto caso del quinto discpulo, que difiere de todos los dems: Natanael.
+el cuarto caso del quinto discípulo, que difiere de todos los demás: Natanael.
 
-Qu diremos de Natanael? Fue convertido por el ministerio? No pareciera. Fue
+żQué diremos de Natanael? żFue convertido por el ministerio? No pareciera. żFue
 
 convertido por una INSTRUMENTALIDAD PRIVADA? Parcialmente lo fue. Felipe
 
 encuentra a Natanael, pero que Felipe encontrara a Natanael no fue tan eficaz
 
-como el encuentro de Cristo con Felipe. Cuando Cristo encontr a Felipe, Felipe
+como el encuentro de Cristo con Felipe. Cuando Cristo encontró a Felipe, Felipe
 
-crey; pero cuando Felipe encontr a Natanael, Natanael no quera creer. Dijo:
+creyó; pero cuando Felipe encontró a Natanael, Natanael no quería creer. Dijo:
 
-De Nazaret puede salir algo de bueno? Felipe es parcialmente el instrumento,
+“żDe Nazaret puede salir algo de bueno?” Felipe es parcialmente el instrumento,
 
-pero hay algo ms. Jesucristo mismo muestra Su propio poder, AL DECIRLE A
+pero hay algo más. Jesucristo mismo muestra Su propio poder, AL DECIRLE A
 
-NATANAEL LOS SECRETOS DE SU CORAZN; pero aun as la conversin de Natanael a
+NATANAEL LOS SECRETOS DE SU CORAZÓN; pero aun así la conversión de Natanael a
 
-Cristo me parece a m que SE DEBE PARCIALMENTE AL ESTADO EN QUE SE ENCONTRABA
+Cristo me parece a mí que SE DEBE PARCIALMENTE AL ESTADO EN QUE SE ENCONTRABA
 
-ENTONCES. l ya era en algn sentido un hombre salvado: era un israelita
+ENTONCES. Él ya era en algún sentido un hombre salvado: era un israelita
 
-devoto. Era un verdadero buscador del Mesas bajo la higuera.
+devoto. Era un verdadero buscador del Mesías bajo la higuera.
 
-Bien, entonces, haba tres cosas reunidas: haba
+Bien, entonces, había tres cosas reunidas: había
 
-una preparacin de corazn que fue sin duda obrada por Dios; pero esa
+una preparación de corazón que fue sin duda obrada por Dios; pero esa
 
-preparacin no le llev a Cristo, aunque lo haba preparado para Cristo; lo
+preparación no le llevó a Cristo, aunque lo había preparado para Cristo; lo
 
-llev a Dios en oracin, pero no le llev todava al Cordero de Dios que quita
+llevó a Dios en oración, pero no le llevó todavía al Cordero de Dios que quita
 
 el pecado del mundo. Luego vino
 
@@ -1192,183 +1192,183 @@ instrumentalidad de Felipe,
 
 y luego vino
 
-la divina palabra de Cristo, que convenci a Natanael y le llev a
+la divina palabra de Cristo, que convenció a Natanael y le llevó a
 
 poner su confianza en Cristo.
 
 Ese es un tipo de caso mixto, e indudablemente
 
-hay muchos en la Iglesia de Dios que, si se les preguntara: Cmo fuiste
+hay muchos en la Iglesia de Dios que, si se les preguntara: “żCómo fuiste
 
-convertido?, se veran medio azorados para dar una respuesta. Encontramos en
+convertido?”, se verían medio azorados para dar una respuesta. Encontramos en
 
-nuestras reuniones de oracin a una gran proporcin de personas que dicen:
+nuestras reuniones de oración a una gran proporción de personas que dicen:
 
-Bien, yo no puedo vincular mi conversin con algn sermn en particular;
+“Bien, yo no puedo vincular mi conversión con algún sermón en particular;
 
-muchos sermones me han impresionado; ciertamente la mayora lo hacen. No puedo
+muchos sermones me han impresionado; ciertamente la mayoría lo hacen. No puedo
 
-decir, amigo, si fui convertido cuando era nio, aunque algunas veces pienso
+decir, amigo, si fui convertido cuando era nińo, aunque algunas veces pienso
 
 que lo fui, pues incluso en aquel tiempo fui el blanco de muchas impresiones, y
 
-ciertamente ofrec oraciones. Sin embargo, hubo un tiempo, -les dirn- hubo
+ciertamente ofrecí oraciones”. “Sin embargo, hubo un tiempo”, -les dirán- “hubo
 
-un tiempo cuando experiment salir ms claramente a la luz; y cuando pude decir
+un tiempo cuando experimenté salir más claramente a la luz; y cuando pude decir
 
-de Cristo: T eres el Hijo de Dios; T eres el Rey de Israel, pero no podra
+de Cristo: ‘Tú eres el Hijo de Dios; Tú eres el Rey de Israel’, pero no podría
 
-decir exactamente cundo sali el sol.
+decir exactamente cuándo salió el sol”.
 
 Ahora, yo pienso que este fue el caso de
 
-Natanael. Tal vez, enseado y educado por padres piadosos, tena el hbito de
+Natanael. Tal vez, enseńado y educado por padres piadosos, tenía el hábito de
 
-la oracin: esa oracin era medio ignorante, pero era muy sincera. Busc la
+la oración: esa oración era medio ignorante, pero era muy sincera. Buscó la
 
-soledad de su sombreado jardn, y bajo la higuera derram su corazn ante el Seor.
+soledad de su sombreado jardín, y bajo la higuera derramó su corazón ante el Seńor.
 
-Ese hombre no es salvo. S!, pero una gran parte de la obra ya ha sido hecha.
+Ese hombre no es salvo. ˇSí!, pero una gran parte de la obra ya ha sido hecha.
 
-No me digan que ese hombre en su oracin no tiene nada en s que no sea la
+No me digan que ese hombre en su oración no tiene nada en sí que no sea la
 
-naturaleza del blasfemo. Les digo que l, igual que el blasfemo, necesita recibir
+naturaleza del blasfemo. Les digo que él, igual que el blasfemo, necesita recibir
 
-una palabra eficaz de Cristo, pero aun as hay una obra preparatoria en este
+una palabra eficaz de Cristo, pero aun así hay una obra preparatoria en este
 
-hombre que no hubo incluso en Felipe, o en Simn Pedro; hay un algo, no
+hombre que no hubo incluso en Felipe, o en Simón Pedro; hay un algo, no
 
-meritorio, aunque preparatorio para la recepcin del Evangelio de Cristo; y
+meritorio, aunque preparatorio para la recepción del Evangelio de Cristo; y
 
-cuando trabajas para la conversin de un individuo como ese y espero que haya
+cuando trabajas para la conversión de un individuo como ese –y espero que haya
 
 algunos en esta multitud- entonces no importa si se trata del ministerio o si
 
-se trata de una instrumentalidad privada. Con seguridad habr un buen
+se trata de una instrumentalidad privada. Con seguridad habrá un buen
 
 resultado, porque para comenzar, hay un buen terreno; Dios ya ha hecho los
 
-surcos y ha arado el suelo, y as, cuando la semilla es esparcida, pudiera
+surcos y ha arado el suelo, y así, cuando la semilla es esparcida, pudiera
 
-haber una pequea objecin al principio, pero al final echar races.
+haber una pequeńa objeción al principio, pero al final echará raíces.
 
-Entonces observen con atencin, ustedes que
+Entonces observen con atención, ustedes que
 
-saben cmo hablarles a los dems acerca de sus almas, y dondequiera que vean
+saben cómo hablarles a los demás acerca de sus almas, y dondequiera que vean
 
-algo parecido a la devocin, aunque sea errada e ignorante, atiendan ese caso;
+algo parecido a la devoción, aunque sea errada e ignorante, atiendan ese caso;
 
-estn especialmente esperanzados al respecto, y si pueden, traten de informar a
+estén especialmente esperanzados al respecto, y si pueden, traten de informar a
 
-esa persona: Hemos hallado a aquel de quien escribi Moiss en la ley, as
+esa persona: “Hemos hallado a aquel de quien escribió Moisés en la ley, así
 
-como los profetas. Presenten a Cristo, hablen de Jess, lleven a esos
+como los profetas”. Presenten a Cristo, hablen de Jesús, lleven a esos
 
-Natanaeles a Jess esos que son como la tierra honesta y buena, esos hombres
+Natanaeles a Jesús –esos que son como la tierra honesta y buena, esos hombres
 
-sin engao ni astucia- llvenlos a Jess.
+sin engańo ni astucia- llévenlos a Jesús.
 
 Noten, sin embargo, que ni las oraciones de
 
-ellos ni la instrumentalidad de ustedes bastar, a menos que Cristo los reciba
+ellos ni la instrumentalidad de ustedes bastará, a menos que Cristo los reciba
 
-con una palabra que sobresalte y escudrie el alma, y diga: Antes que Felipe
+con una palabra que sobresalte y escudrińe el alma, y diga: “Antes que Felipe
 
-te llamara, cuando estabas debajo de la higuera, te vi. Ah, t, alma que
+te llamara, cuando estabas debajo de la higuera, te vi. ˇAh, tú, alma que
 
-buscas, Cristo te ve! Antes que vinieras aqu esta maana Jess te vio. Antes
+buscas, Cristo te ve! Antes que vinieras aquí esta mańana Jesús te vio. Antes
 
-que oigas la exhortacin: Mira a Cristo, Cristo ya te mir. Si ests buscando
+que oigas la exhortación: “Mira a Cristo”, Cristo ya te miró. Si estás buscando
 
-verdaderamente en la soledad de ese aposento alto, o en aquel campo detrs del
+verdaderamente en la soledad de ese aposento alto, o en aquel campo detrás del
 
-vallado, Jess te ve. Cuando ests junto al camino y tu corazn se eleva
+vallado, Jesús te ve. Cuando estás junto al camino y tu corazón se eleva
 
-diciendo: Seor, slvame, que perezco, Jess te ve. Uno de ustedes me ha
+diciendo: “Seńor, sálvame, que perezco”, Jesús te ve. Uno de ustedes me ha
 
-escrito esta maana, y dice: Ore por m para que sea salvo, pues quiero ser
+escrito esta mańana, y dice: “Ore por mí para que sea salvo, pues quiero ser
 
-salvado. Ah, amigo mo, si quieres ser salvado, Jess quiere salvarte, y
+salvado”. ˇAh, amigo mío, si quieres ser salvado, Jesús quiere salvarte, y
 
-entonces ambos estn de acuerdo en ese punto! T, como Natanael, ests
+entonces ambos están de acuerdo en ese punto! Tú, como Natanael, estás
 
-buscndole; y yo vengo esta maana, como Felipe, y anhelo llevarte a Jess, mi
+buscándole; y yo vengo esta mańana, como Felipe, y anhelo llevarte a Jesús, mi
 
-Maestro. Oh, cmo oro pidindole que te hable!, y si as fuera, te dir que te
+Maestro. ˇOh, cómo oro pidiéndole que te hable!, y si así fuera, te dirá que te
 
-conoca cuando estabas muerto en el pecado, y te am, a pesar de todo; y, por
+conocía cuando estabas muerto en el pecado, y te amó, a pesar de todo; y, por
 
-tanto, l te trajo a esta casa para or Su Palabra.
+tanto, Él te trajo a esta casa para oír Su Palabra.
 
-Fjense que Natanael es el mejor caso de todo el
+Fíjense que Natanael es el mejor caso de todo el
 
-conjunto; fue favorecido por encima de muchos. Quin fue el primer hombre que
+conjunto; fue favorecido por encima de muchos. żQuién fue el primer hombre que
 
-recibi una promesa de Cristo? Fue Natanael. Cul fue esa promesa? Bien, esa
+recibió una promesa de Cristo? Fue Natanael. żCuál fue esa promesa? Bien, esa
 
-promesa, me parece a m, es la suma del Evangelio; o ms bien es la
+promesa, me parece a mí, es la suma del Evangelio; o más bien es la
 
-promesa-smbolo del Evangelio que todo cristiano debe portar en su mano. Jess
+promesa-símbolo del Evangelio que todo cristiano debe portar en su mano. Jesús
 
-dijo: Porque te dije: Te vi debajo de la higuera, crees?
+dijo: “żPorque te dije: Te vi debajo de la higuera, crees?
 
-Cosas mayores que estas vers.
+Cosas mayores que estas verás”.
 
 Natanael fue el primer hombre que
 
-jams recibi una promesa de los labios del Seor Jess, cuando estaba aqu en
+jamás recibió una promesa de los labios del Seńor Jesús, cuando estaba aquí en
 
 la tierra.
 
 Oh, Natanaeles buscadores, pienso que esta es
 
-una promesa para ustedes: Cosas mayores que estas vers, te vers perdonado;
+una promesa para ustedes: “Cosas mayores que estas verás”, te verás perdonado;
 
-vers a tus oraciones que ascienden por la escalera de Jacob y a las
+verás a tus oraciones que ascienden por la escalera de Jacob y a las
 
 bendiciones que bajan de Dios para descansar en tu alma.
 
-Habra querido presentarles muchos puntos ms,
+Habría querido presentarles muchos puntos más,
 
-pero, en verdad, el captulo rebosa de contenido para que alguien lo maneje en
+pero, en verdad, el capítulo rebosa de contenido para que alguien lo maneje en
 
-un tiempo tan breve; observarn, sin embargo, que les he dado slo una hojeada
+un tiempo tan breve; observarán, sin embargo, que les he dado sólo una hojeada
 
-superficial de l, que bastar para mostrar que el medio utilizado en la
+superficial de él, que bastará para mostrar que el medio utilizado en la
 
-conversin y el tenor general de la conversin difieren en cada caso. Tal vez,
+conversión y el tenor general de la conversión difieren en cada caso. Tal vez,
 
-el caso de Natanael sea el ms elevado de todos; recibe a Cristo de una manera
+el caso de Natanael sea el más elevado de todos; recibe a Cristo de una manera
 
-ms plena que cualquiera de los otros, y goza de mayores promesas que aquellos,
+más plena que cualquiera de los otros, y goza de mayores promesas que aquellos,
 
 mas sin embargo, todos son genuinos, aunque no sean ni uno de ellos como los
 
-dems, excepto que Juan y Andrs pudieran ser puestos juntos.
+demás, excepto que Juan y Andrés pudieran ser puestos juntos.
 
-Por tanto, no juzgues tu conversin por sus
+Por tanto, no juzgues tu conversión por sus
 
-medios o por su forma particular, sino jzgala por su fruto. Te conduce a
+medios o por su forma particular, sino júzgala por su fruto. żTe conduce a
 
-Jess? Dependes de l ahora? Si es as, prosigue tu camino; tus pecados, que
+Jesús? żDependes de Él ahora? Si es así, prosigue tu camino; tus pecados, que
 
 son muchos, te son perdonados; come grosuras y bebe vino dulce, pues Dios te
 
-acepta; por tanto, regocjate. Pero, si has tenido mil conversiones, si no
+acepta; por tanto, regocíjate. Pero, si has tenido mil conversiones, si no
 
-ests apoyado en Cristo esta maana, tiembla, pues tu refugio es un refugio de
+estás apoyado en Cristo esta mańana, tiembla, pues tu refugio es un refugio de
 
-mentiras, y tu esperanza es una telaraa. Que Dios te libre de esa condicin, y
+mentiras, y tu esperanza es una telarańa. Que Dios te libre de esa condición, y
 
 te lleve ahora a descansar en la obra terminada y en el sacrificio perfecto del
 
-Seor Jess, y entonces, con Andrs, y Juan, y Felipe y Natanael, te reunirs
+Seńor Jesús, y entonces, con Andrés, y Juan, y Felipe y Natanael, te reunirás
 
-delante del trono para alabar al Hijo de Dios y Rey de Israel. Que el Seor los
+delante del trono para alabar al Hijo de Dios y Rey de Israel. Que el Seńor los
 
-bendiga, por Cristo nuestro Seor. Amn.
+bendiga, por Cristo nuestro Seńor. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 5/Noviembre/2009
 

@@ -1,16 +1,16 @@
 # Sermón 3278 | Sermón 3278
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 El Libro en Blanco
 
 NO. 3278
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL JUEVES 11 DE ENERO DE 1866
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -18,25 +18,25 @@ Y PUBLICADO EL JUEVES
 
 30 DE NOVIEMBRE DE 1911.
 
-Lvame, y
+“Lávame, y
 
-ser ms blanco que la nieve. Salmo 51: 7.
+seré más blanco que la nieve”. Salmo 51: 7.
 
-Me aventuro a decir que la mayora de ustedes ya
+Me aventuro a decir que la mayoría de ustedes ya
 
-se ha enterado de un librito que un viejo telogo usaba constantemente para
+se ha enterado de un librito que un viejo teólogo usaba constantemente para
 
-estudiar, y cuando sus amigos se preguntaron qu contendra ese libro, l les
+estudiar, y cuando sus amigos se preguntaron qué contendría ese libro, él les
 
 dijo que esperaba que todos lo conocieran y lo entendieran, pero que no
 
-contena ni una sola palabra. Cuando lo revisaron, descubrieron que slo
+contenía ni una sola palabra. Cuando lo revisaron, descubrieron que sólo
 
 constaba de tres hojas: la primera era negra, la segunda era roja y la tercera
 
-era completamente blanca. El viejo ministro sola contemplar fijamente la hoja
+era completamente blanca. El viejo ministro solía contemplar fijamente la hoja
 
-negra para recordarse a s mismo su condicin pecadora por naturaleza; luego
+negra para recordarse a sí mismo su condición pecadora por naturaleza; luego
 
 contemplaba la hoja roja
 
@@ -44,7 +44,7 @@ para
 
 traer a su memoria la sangre
 
-preciosa de Cristo; y despus miraba la hoja blanca para representarse la
+preciosa de Cristo; y después miraba la hoja blanca para representarse la
 
 perfecta justicia que Dios ha dado a los creyentes, mediante el sacrificio
 
@@ -52,7 +52,7 @@ expiatorio de Jesucristo Su Hijo.
 
 Queridos amigos, quiero que ustedes lean ese
 
-libro esta noche, y yo mismo deseo tambin leerlo. Que Dios el Espritu Santo,
+libro esta noche, y yo mismo deseo también leerlo. ˇQue Dios el Espíritu Santo,
 
 misericordiosamente, nos ayude a hacerlo para nuestro provecho!
 
@@ -60,29 +60,29 @@ I.
 
 Primero, CONTEMPLEMOS LA HOJA NEGRA.
 
-Hay algo sobre sto en el texto, pues la persona
+Hay algo sobre ésto en el texto, pues la persona
 
-que utiliz esta oracin dijo: Lvame; entonces, estaba negro, y necesitaba
+que utilizó esta oración dijo: “Lávame”; entonces, estaba negro, y necesitaba
 
 ser lavado; y la negrura era de un tipo tan peculiar, que se necesitaba un
 
-milagro para limpiarla, de manera que alguien que haba estado negro se
+milagro para limpiarla, de manera que alguien que había estado negro se
 
-volviera blanco, y lo fuera de tal manera que quedara ms blanco que la
+volviera blanco, y lo fuera de tal manera que quedara “más blanco que la
 
-nieve.
+nieve”.
 
 Si consideramos
 
-el caso de David, cuando escribi este Salmo,
+el caso de David, cuando escribió este Salmo,
 
 veremos que estaba
 
-muy negro. Haba cometido el horrible pecado de adulterio, que es un pecado tan
+muy negro. Había cometido el horrible pecado de adulterio, que es un pecado tan
 
-vergonzoso que slo podemos aludir a l conteniendo la respiracin. Es un
+vergonzoso que sólo podemos aludir a él conteniendo la respiración. Es un
 
-pecado que involucra mucha infelicidad para otros seres, adems de las personas
+pecado que involucra mucha infelicidad para otros seres, además de las personas
 
 que lo cometen. Es un pecado que, aunque los culpables se arrepientan, no puede
 
@@ -90,89 +90,89 @@ revertirse. Es por completo un crimen sumamente repugnante y atroz contra Dios
 
 y contra el hombre, y quienes lo han cometido en verdad necesitan ser lavados.
 
-Pero el pecado de David era an mucho ms grave,
+Pero el pecado de David era aún mucho más grave,
 
-debido a las circunstancias en las que se encontraba colocado. l era como el
+debido a las circunstancias en las que se encontraba colocado. Él era como el
 
-propietario de un gran rebao, que no tena ninguna necesidad de tomar la nica
+propietario de un gran rebańo, que no tenía ninguna necesidad de tomar la única
 
-corderita de su vecino, ya que tena muchas ovejas propias. En su caso, el
+corderita de su vecino, ya que tenía muchas ovejas propias. En su caso, el
 
-pecado era enteramente inexcusable, pues David saba muy bien cun grande mal
+pecado era enteramente inexcusable, pues David sabía muy bien cuán grande mal
 
-era ese. Era un hombre que se haba deleitado en la ley de Dios, y meditaba en
+era ese. Era un hombre que se había deleitado en la ley de Dios, y meditaba en
 
-ella de da y de noche. Por tanto, conoca el mandamiento que expresamente prohiba
+ella de día y de noche. Por tanto, conocía el mandamiento que expresamente prohibía
 
-ese pecado; as que, cuando pec de esta manera, pec como quien toma un trago
+ese pecado; así que, cuando pecó de esta manera, pecó como quien toma un trago
 
-de veneno, no por error, sino sabiendo bien cules seran las consecuencias al
+de veneno, no por error, sino sabiendo bien cuáles serían las consecuencias al
 
 beberlo. Se trataba de una maldad intencionada de parte de David, para la cual
 
-no poda haber ni el ms mnimo atenuante.
+no podía haber ni el más mínimo atenuante.
 
-Hay todava algo peor; David no slo conoca la
+Hay todavía algo peor; David no sólo conocía la
 
-naturaleza del pecado, sino que tambin conoca la dulzura de la comunin con
+naturaleza del pecado, sino que también conocía la dulzura de la comunión con
 
-Dios, y debe de haber tenido un claro sentido de lo que significara para l
+Dios, y debe de haber tenido un claro sentido de lo que significaría para él
 
-perderla. Su comunin con el Altsimo haba sido tan estrecha, que era llamado
+perderla. Su comunión con el Altísimo había sido tan estrecha, que era llamado
 
-un varn conforme al propio corazn de Dios. Cun dulcemente ha cantado
+“un varón conforme al propio corazón de Dios”. Cuán dulcemente ha cantado
 
-acerca de su deleite en el Seor. Ustedes saben que, en sus momentos ms
+acerca de su deleite en el Seńor. Ustedes saben que, en sus momentos más
 
-felices, cuando quieren alabar al Seor con todo su corazn, no pueden hallar
+felices, cuando quieren alabar al Seńor con todo su corazón, no pueden hallar
 
-expresiones mejores que las que David les dej en sus Salmos. Cun horrible es
+expresiones mejores que las que David les dejó en sus Salmos. ˇCuán horrible es
 
-que el hombre que haba estado en el tercer cielo de comunin con Dios, haya
+que el hombre que había estado en el tercer cielo de comunión con Dios, haya
 
 pecado de esta repugnante manera!
 
-Adems, David haba recibido de manos del Seor
+Además, David había recibido de manos del Seńor
 
 muchas misericordias providenciales. No era sino un pastor mozalbete que
 
-alimentaba el rebao de su padre, cuando Dios lo tom y lo hizo rey sobre Israel.
+alimentaba el rebańo de su padre, cuando Dios lo tomó y lo hizo rey sobre Israel.
 
-El Seor tambin lo libr de las garras del len y de las garras del oso; lo
+El Seńor también lo libró de las garras del león y de las garras del oso; lo
 
-capacit para vencer y matar al gigante Goliat, y para escapar de la maldad de
+capacitó para vencer y matar al gigante Goliat, y para escapar de la maldad de
 
-Sal, cuando le daba caza como a una perdiz en los montes. El Seor lo preserv
+Saúl, cuando le daba caza como a una perdiz en los montes. El Seńor lo preservó
 
-de muchos peligros, y al final lo estableci firmemente sobre el trono; sin
+de muchos peligros, y al final lo estableció firmemente sobre el trono; sin
 
-embargo, despus de todas estas liberaciones y misericordias, este hombre tan
+embargo, después de todas estas liberaciones y misericordias, este hombre tan
 
-grandemente favorecido por Dios, cay en este vil pecado.
+grandemente favorecido por Dios, cayó en este vil pecado.
 
-Luego, tambin, constitua una agravacin
+Luego, también, constituía una agravación
 
-adicional que el pecado de David hubiera sido cometido en contra de Uras. Si
+adicional que el pecado de David hubiera sido cometido en contra de Urías. Si
 
-leen la lista de los valientes de David, encontrarn al final, el nombre de
+leen la lista de los valientes de David, encontrarán al final, el nombre de
 
-Uras heteo; l haba estado con David cuando fue proscrito por Sal y haba
+Urías heteo; él había estado con David cuando fue proscrito por Saúl y había
 
-acompaado a su lder en sus correras y haba participado en sus peligros y
+acompańado a su líder en sus correrías y había participado en sus peligros y
 
-privaciones. As que fue una vergonzosa retribucin de parte del rey, que le
+privaciones. Así que fue una vergonzosa retribución de parte del rey, que le
 
 robara la esposa a su fiel seguidor, que estaba, en aquel preciso momento,
 
-combatiendo contra los enemigos del rey. Escudriando a lo largo de toda la
+combatiendo contra los enemigos del rey. Escudrińando a lo largo de toda la
 
-Escritura, o por lo menos en todo el Antiguo Testamento, no s dnde tengamos
+Escritura, o por lo menos en todo el Antiguo Testamento, no sé dónde tengamos
 
-algn registro de un peor pecado cometido por alguien que fuera, no obstante,
+algún registro de un peor pecado cometido por alguien que fuera, no obstante,
 
-un verdadero hijo de Dios. As que David tena una buena razn para implorarle
+un verdadero hijo de Dios. Así que David tenía una buena razón para implorarle
 
-al Seor: Lvame, pues en verdad estaba negro con una negrura especial y
+al Seńor: “Lávame”, pues en verdad estaba negro con una negrura especial y
 
 peculiar.
 
@@ -180,95 +180,95 @@ Pero ahora, dejemos a David, y consideremos
 
 nuestra propia negrura a los ojos de Dios.
 
-Acaso no hay, querido amigo mo, alguna negrura peculiar en torno a tu caso
+żAcaso no hay, querido amigo mío, alguna negrura peculiar en torno a tu caso
 
-como pecador delante de Dios? Yo no podra esbozarla, pero te pido que hagas
+como pecador delante de Dios? Yo no podría esbozarla, pero te pido que hagas
 
-memoria ahora para que tu alma pueda ser humillada debido a ella. Tal vez t
+memoria ahora para que tu alma pueda ser humillada debido a ella. Tal vez tú
 
 seas hijo de unos padres cristianos, o hayas sido objeto de tempranas
 
 impresiones religiosas, o pudiera ser que hayas sido favorecido especialmente
 
-por Dios de otras maneras. Sin embargo, has pecado contra l, has pecado contra
+por Dios de otras maneras. Sin embargo, has pecado contra Él, has pecado contra
 
-la luz y el conocimiento, has pecado contra las lgrimas de una madre y las
+la luz y el conocimiento, has pecado contra las lágrimas de una madre y las
 
 oraciones de un padre, y contra las amonestaciones y las advertencias de un
 
 pastor. Una vez estuviste muy enfermo, y pensaste que ibas a morir, pero el
 
-Seor perdon tu vida, y te restaur la salud y el vigor; pero t volviste otra
+Seńor perdonó tu vida, y te restauró la salud y el vigor; pero tú volviste otra
 
-vez a tu pecado, como el perro vuelve a su vmito, o la puerca lavada a
+vez a tu pecado, como el perro vuelve a su vómito, o la puerca lavada a
 
-revolcarse en el cieno. Posiblemente te haya alarmado un sbito sentido de
+revolcarse en el cieno. Posiblemente te haya alarmado un súbito sentido de
 
 culpa, de tal manera que no pudiste disfrutar tu pecado, y sin embargo, no
 
-pudiste romper con l. Gastaste tu dinero en aquello que no era pan, y gastaste
+pudiste romper con él. Gastaste tu dinero en aquello que no era pan, y gastaste
 
 tu labor en lo que no te satisfizo, y sin embargo, proseguiste desperdiciando
 
 tu dinero en una vida desenfrenada hasta llegar a la mendicidad, pero incluso
 
-esa condicin no te destet del pecado. En la casa de Dios recibiste muchas
+esa condición no te destetó del pecado. En la casa de Dios recibiste muchas
 
 solemnes advertencias, y regresaste a tu hogar resuelto a arrepentirte una y
 
-otra vez, pero tus resoluciones se desvanecieron pronto, como la nube maanera
+otra vez, pero tus resoluciones se desvanecieron pronto, como la nube mańanera
 
-y el roco del alba, dejndote ms endurecido que nunca.
+y el rocío del alba, dejándote más endurecido que nunca.
 
 Yo recuerdo a John B. Gough, en Exeter Hall,
 
-describindose en sus das de embriaguez, como si montara un caballo salvaje
+describiéndose en sus días de embriaguez, como si montara un caballo salvaje
 
-que lo llevaba apresuradamente hacia su destruccin, hasta que una mano ms
+que lo llevaba apresuradamente hacia su destrucción, hasta que una mano más
 
-poderosa que la suya tom las riendas, hizo sentar al caballo sobre sus ancas,
+poderosa que la suya tomó las riendas, hizo sentar al caballo sobre sus ancas,
 
-y rescat al temerario jinete. Era un cuadro terrible, pero era una representacin
+y rescató al temerario jinete. Era un cuadro terrible, pero era una representación
 
-fiel de la conversin de algunos de nosotros. Cmo espolebamos a ese caballo
+fiel de la conversión de algunos de nosotros. ˇCómo espoleábamos a ese caballo
 
-salvaje y lo apremibamos a una mayor velocidad en su loca carrera hasta
+salvaje y lo apremiábamos a una mayor velocidad en su loca carrera hasta
 
-parecer como si fusemos a cabalgar por encima de ese Ser clemente que haba
+parecer como si fuésemos a cabalgar por encima de ese Ser clemente que había
 
 resuelto salvarnos! Eso era pecado, en verdad, no meramente contra los dictados
 
 de una conciencia iluminada, y contra las advertencias que nos eran dadas
 
-continuamente, sino que era lo que el apstol llama: pisotear al Hijo de Dios, considerar
+continuamente, sino que era lo que el apóstol llama: pisotear al Hijo de Dios, considerar
 
-la sangre del pacto como una cosa profana, y despreciar al Espritu de gracia.
+la sangre del pacto como una cosa profana, y despreciar al Espíritu de gracia.
 
-Hermanos, antes de que pase esta pgina negra,
+Hermanos, antes de que pase esta página negra,
 
-permtanme exhortarlos a que la estudien diligentemente, y que traten de
+permítanme exhortarlos a que la estudien diligentemente, y que traten de
 
-comprender la negrura de sus corazones y la depravacin de sus vidas. Esa falsa
+comprender la negrura de sus corazones y la depravación de sus vidas. Esa falsa
 
-paz que resulta de considerar con ligereza el pecado, es la obra de Satans;
+paz que resulta de considerar con ligereza el pecado, es la obra de Satanás;
 
-deshganse de ella de inmediato si la ha infundido en ustedes. No tengan miedo
+desháganse de ella de inmediato si la ha infundido en ustedes. No tengan miedo
 
 de mirar a sus pecados; no cierren sus ojos ante ellos, pues ocultar su rostro
 
-para no verlos, podra ser su ruina, pero que Dios oculte Su rostro de ellos,
+para no verlos, podría ser su ruina, pero que Dios oculte Su rostro de ellos,
 
-ser su salvacin. Miren a sus pecados y mediten en ellos hasta que los conduzcan
+será su salvación. Miren a sus pecados y mediten en ellos hasta que los conduzcan
 
 inclusive a desesperar.
 
-Cmo!, -dice alguien- hasta que me
+“ˇCómo!”, -dice alguien- “żhasta que me
 
-conduzcan a desesperar? S; yo no me refiero a esa desesperacin que brota de
+conduzcan a desesperar?” Sí; yo no me refiero a esa desesperación que brota de
 
-la incredulidad, sino a esa desesperacin que es casi semejante a la confianza
+la incredulidad, sino a esa desesperación que es casi semejante a la confianza
 
-en Cristo. Entre ms los capacite Dios para ver su vaco, ms vidos estarn de
+en Cristo. Entre más los capacite Dios para ver su vacío, más ávidos estarán de
 
 valerse de la plenitud de Cristo. Yo siempre he comprobado que, conforme ha
 
@@ -276,15 +276,15 @@ crecido mi confianza en el yo, mi confianza en Cristo ha disminuido; y conforme
 
 mi confianza en el yo ha disminuido, mi confianza en Cristo ha crecido.
 
-Entonces yo los exhorto a que tengan una visin honesta de su propia negrura de
+Entonces yo los exhorto a que tengan una visión honesta de su propia negrura de
 
-corazn y de vida, pues eso har que oren con David: Lvame, y ser ms blanco
+corazón y de vida, pues eso hará que oren con David: “Lávame, y seré más blanco
 
-que la nieve. Psense en las balanzas del santuario que nunca yerran ni en el
+que la nieve”. Pésense en las balanzas del santuario que nunca yerran ni en el
 
-ms mnimo grado. No necesitan exagerar ni un solo elemento de su culpa, pues
+más mínimo grado. No necesitan exagerar ni un solo elemento de su culpa, pues
 
-tal como son, encontrarn demasiado pecado dentro de ustedes si el Espritu
+tal como son, encontrarán demasiado pecado dentro de ustedes si el Espíritu
 
 Santo los capacitara para verse como son en la realidad.
 
@@ -296,15 +296,15 @@ HOJA DE COLOR ROJO SANGRE DEL LIBRO SIN PALABRAS, que trae a nuestra memoria la
 
 preciosa sangre de Cristo.
 
-Cuando el pecador clama: Lvame, tiene que
+Cuando el pecador clama: “Lávame”, tiene que
 
-haber alguna fuente de limpieza donde pueda ser lavado y quedar ms blanco que
+haber alguna fuente de limpieza donde pueda ser lavado y quedar “más blanco que
 
-la nieve. Y s la hay, pero es slo la sangre carmn de Jess la que puede
+la nieve”. Y sí la hay, pero es sólo la sangre carmín de Jesús la que puede
 
-lavar la mancha carmes del pecado. Qu es lo que hay acerca de Jess que le
+lavar la mancha carmesí del pecado. żQué es lo que hay acerca de Jesús que le
 
-hace capaz de salvar a todos los que vienen a Dios por l? ste es un asunto
+hace capaz de salvar a todos los que vienen a Dios por Él? Éste es un asunto
 
 sobre el cual los cristianos tienen que meditar mucho y deben hacerlo con
 
@@ -312,9 +312,9 @@ frecuencia.
 
 Traten de entender, queridos amigos, la grandeza
 
-de la expiacin. Vivan mucho bajo la sombra de la cruz. Aprendan a:
+de la expiación. Vivan mucho bajo la sombra de la cruz. Aprendan a:
 
-Contemplar
+“Contemplar
 
 el fluir
 
@@ -326,133 +326,133 @@ Sabiendo por
 
 divina seguridad
 
-Que l ha
+Que Él ha
 
-hecho su paz con Dios.
+hecho su paz con Dios”.
 
 Sientan que la sangre de Cristo fue derramada
 
-por ustedes, incluso por ustedes. No estn satisfechos nunca hasta que aprendan
+por ustedes, incluso por ustedes. No estén satisfechos nunca hasta que aprendan
 
-el misterio de las cinco llagas; no estn contentos nunca mientras no sean
+el misterio de las cinco llagas; no estén contentos nunca mientras no “sean
 
-plenamente capaces de comprender con todos los santos cul sea la anchura, la
+plenamente capaces de comprender con todos los santos cuál sea la anchura, la
 
 longitud, la profundidad y la altura, y de conocer el amor de Cristo, que
 
-excede a todo conocimiento
+excede a todo conocimiento…”
 
 El poder de Jesucristo para limpiar del pecado
 
 reside, primero, en la grandeza de Su persona. No es concebible que los
 
-sufrimientos de un simple hombre, sin importar cun santo o grande pudiera
+sufrimientos de un simple hombre, sin importar cuán santo o grande pudiera
 
 haber sido, expiara los pecados de la multitud entera del pueblo escogido del
 
-Seor. Fue debido a que Jesucristo era una de las personas de la Divina
+Seńor. Fue debido a que Jesucristo era una de las personas de la Divina
 
-Trinidad, fue debido a que el Hijo de Mara era nada menos que el Hijo de Dios,
+Trinidad, fue debido a que el Hijo de María era nada menos que el Hijo de Dios,
 
-fue debido a que Aquel que vivi, y trabaj, y sufri, y muri, era el
+fue debido a que Aquel que vivió, y trabajó, y sufrió, y murió, era el
 
 grandioso Creador, sin quien nada de lo que ha sido hecho, fue hecho, que Su
 
-sangre tiene tal eficacia que puede lavar y dejar tan limpios a los ms negros
+sangre tiene tal eficacia que puede lavar y dejar tan limpios a los más negros
 
-pecadores, que quedan ms blancos que la nieve. La muerte del mejor hombre
+pecadores, que quedan “más blancos que la nieve”. La muerte del mejor hombre
 
-que haya existido jams no podra hacer una expiacin ni siquiera por sus
+que haya existido jamás no podría hacer una expiación ni siquiera por sus
 
-propios pecados, y mucho menos podra expiar la culpa de otros; pero cuando
+propios pecados, y mucho menos podría expiar la culpa de otros; pero cuando
 
-Dios mismo se despoj a s mismo, tomando forma de siervo, hecho semejante a
+Dios mismo “se despojó a sí mismo, tomando forma de siervo, hecho semejante a
 
-los hombres, y se humill a s mismo, hacindose obediente hasta la muerte, y
+los hombres”, y “se humilló a sí mismo, haciéndose obediente hasta la muerte, y
 
-muerte de cruz, no se le puede poner ningn lmite al valor de la expiacin hecha
+muerte de cruz”, no se le puede poner ningún límite al valor de la expiación hecha
 
-por l.
+por Él.
 
 Nosotros sostenemos de manera sumamente firme la
 
-doctrina de la redencin particular: que Cristo am a la iglesia, y se entreg
+doctrina de la redención particular: que ‘Cristo amó a la iglesia, y se entregó
 
-a s mismo por ella; pero nosotros no sostenemos la doctrina del valor
+a sí mismo por ella’; pero nosotros no sostenemos la doctrina del valor
 
-limitado de Su preciosa sangre. No puede haber ningn lmite para la Deidad;
+limitado de Su preciosa sangre. No puede haber ningún límite para la Deidad;
 
-tiene que haber un valor infinito en la expiacin que fue ofrecida por Aquel
+tiene que haber un valor infinito en la expiación que fue ofrecida por Aquel
 
-que es divino. El nico lmite de la expiacin est en su designio, y ese
+que es divino. El único límite de la expiación está en su designio, y ese
 
 designio fue que Cristo diera vida a todos cuantos le fueron dados del Padre;
 
-pero, en s misma, la expiacin sera suficiente para la salvacin del mundo
+pero, en sí misma, la expiación sería suficiente para la salvación del mundo
 
-entero, y si la raza entera de la humanidad fuere conducida a creer en Jess,
+entero, y si la raza entera de la humanidad fuere conducida a creer en Jesús,
 
 hay suficiente eficacia en Su sangre preciosa para limpiar a todo aquel nacido
 
-de mujer, de todo pecado que todo el conjunto de ellos hubiere cometido jams.
+de mujer, de todo pecado que todo el conjunto de ellos hubiere cometido jamás.
 
-Pero el poder de la sangre limpiadora de Jess
+Pero el poder de la sangre limpiadora de Jesús
 
-radica tambin en los intensos sufrimientos que soport al hacer expiacin por
+radica también en los intensos sufrimientos que soportó al hacer expiación por
 
 Su pueblo. No hubo nunca un caso como el de nuestro precioso Salvador. En lo
 
-que atae a Sus sufrimientos fsicos, pueden haber existido algunos que hayan
+que atańe a Sus sufrimientos físicos, pueden haber existido algunos que hayan
 
-soportado tanto como l, pues el cuerpo humano es capaz slo de una cierta
+soportado tanto como Él, pues el cuerpo humano es capaz sólo de una cierta
 
-cantidad de dolor y agona, y otras personas junto a nuestro Seor han
+cantidad de dolor y agonía, y otras personas junto a nuestro Seńor han
 
-alcanzado ese lmite; pero hubo un elemento en Sus sufrimientos que nunca
+alcanzado ese límite; pero hubo un elemento en Sus sufrimientos que nunca
 
-estuvo presente en ningn otro caso. El hecho de que Su muerte fuera en el
+estuvo presente en ningún otro caso. El hecho de que Su muerte fuera en el
 
-lugar, en la posicin y en sustitucin de Su pueblo, el nico gran sacrificio
+lugar, en la posición y en sustitución de Su pueblo, el único gran sacrificio
 
-por la totalidad de Sus redimidos, hace que Su muerte sea enteramente nica, de
+por la totalidad de Sus redimidos, hace que Su muerte sea enteramente única, de
 
-tal manera que ni siquiera los ms nobles dentro del noble ejrcito de mrtires,
+tal manera que ni siquiera los más nobles dentro del noble ejército de mártires,
 
-pueden participar de la gloria con l. Sus sufrimientos mentales tambin
+pueden participar de la gloria con Él. Sus sufrimientos mentales también
 
-constituyeron una parte muy vital de la expiacin: los sufrimientos de Su alma fueron
+constituyeron una parte muy vital de la expiación: los sufrimientos de Su alma fueron
 
-el alma misma de Sus sufrimientos. Si t puedes comprender la amargura de la
+el alma misma de Sus sufrimientos. Si tú puedes comprender la amargura de la
 
-traicin que sufri por uno que haba sido Su seguidor y amigo, y el abandono
+traición que sufrió por uno que había sido Su seguidor y amigo, y el abandono
 
-que experiment por todos Sus discpulos, la acusacin formal por sedicin y
+que experimentó por todos Sus discípulos, la acusación formal por sedición y
 
-blasfemia ante criaturas que l mismo haba hecho; si pudieran comprender lo
+blasfemia ante criaturas que Él mismo había hecho; si pudieran comprender lo
 
-que fue para l, que no cometi pecado, ser hecho pecado por nosotros, y que
+que fue para Él, que no cometió pecado, ser hecho pecado por nosotros, y que
 
-fuera puesta sobre l la iniquidad de todos nosotros; si pudieran formarse una
+fuera puesta sobre Él la iniquidad de todos nosotros; si pudieran formarse una
 
-idea de cunto aborreca el pecado y rehua de l, podran formarse una ligera
+idea de cuánto aborrecía el pecado y rehuía de él, podrían formarse una ligera
 
 idea de lo que tiene que haber sufrido Su naturaleza pura por culpa nuestra.
 
-Nosotros no rehuimos el pecado como lo haca
+Nosotros no rehuimos el pecado como lo hacía
 
-Cristo, porque estamos acostumbrados a l; una vez fue el elemento en el que
+Cristo, porque estamos acostumbrados a él; una vez fue el elemento en el que
 
-vivamos, y nos movamos, y tenamos nuestro ser; pero Su naturaleza santa
+vivíamos, y nos movíamos, y teníamos nuestro ser; pero Su naturaleza santa
 
-rehua el mal as como una planta sensible se aparta cuando se la toca. Pero
+rehuía el mal así como una planta sensible se aparta cuando se la toca. Pero
 
 Sus peores sufrimientos deben de haber sido cuando la ira de Su Padre fue
 
-derramada sobre l, al soportar lo que Su pueblo mereca soportar, pero que
+derramada sobre Él, al soportar lo que Su pueblo merecía soportar, pero que
 
-ahora no tendr que soportar nunca.
+ahora no tendrá que soportar nunca.
 
-Las olas de
+“Las olas de
 
 creciente dolor
 
@@ -460,195 +460,195 @@ Se
 
 estrellaban contra Su pecho,
 
-Y montaas de
+Y montańas de
 
 ira omnipotente
 
 Pesaban sobre
 
-Su alma.
+Su alma”.
 
 El hecho que Su Padre haya escondido Su rostro
 
-de l de tal manera que clamara en Su agona: Dios mo, Dios mo, por qu me
+de Él de tal manera que clamara en Su agonía: “Dios mío, Dios mío, żpor qué me
 
-has desamparado?, debe de haber sido un autntico infierno para l. ste fue
+has desamparado?”, debe de haber sido un auténtico infierno para Él. Éste fue
 
-el tremendo trago de ira que nuestro Salvador bebi por nosotros hasta sus ltimos
+el tremendo trago de ira que nuestro Salvador bebió por nosotros hasta sus últimos
 
-sedimentos, para que nuestra copa no pudiera contener ni una gota de ira jams.
+sedimentos, para que nuestra copa no pudiera contener ni una gota de ira jamás.
 
-Tiene que haber sido una gran expiacin, esa que fue comprada a un precio tan
+Tiene que haber sido una gran expiación, esa que fue comprada a un precio tan
 
 grande.
 
-Podemos pensar en la grandeza de la expiacin de
+Podemos pensar en la grandeza de la expiación de
 
-Cristo de otra manera. Tiene que haber sido una gran expiacin la que ha
+Cristo de otra manera. Tiene que haber sido una gran expiación la que ha
 
 transportado en forma segura a tantas multitudes de pecadores al cielo, y que
 
 ha salvado a tantos grandes pecadores y los ha transformado en santos refulgentes.
 
-Tiene que ser una gran expiacin la que ha de llevar todava a innumerables
+Tiene que ser una gran expiación la que ha de llevar todavía a innumerables
 
-miradas a la unidad de la fe y a la gloria de la iglesia de los primognitos,
+miríadas a la unidad de la fe y a la gloria de la iglesia de los primogénitos,
 
-que estn inscritos en el cielo.
+que están inscritos en el cielo.
 
-Es una expiacin tan grande, pecador, que si
+Es una expiación tan grande, pecador, que si
 
-confas en ella, sers salvo por ella sin importar cuntos y cun graves
+confías en ella, serás salvo por ella sin importar cuántos y cuán graves
 
-pudieran haber sido tus pecados. Tienes miedo de que la sangre de Cristo no sea
+pudieran haber sido tus pecados. żTienes miedo de que la sangre de Cristo no sea
 
-lo suficientemente potente para limpiarte? Acaso temes que Su expiacin no
+lo suficientemente potente para limpiarte? żAcaso temes que Su expiación no
 
-pueda soportar el peso de un pecador como t?
+pueda soportar el peso de un pecador como tú?
 
-Me enter, el otro da, acerca de una necia
+Me enteré, el otro día, acerca de una necia
 
-mujer de Plymouth, quien, durante un buen tiempo, no quera pasar sobre el
+mujer de Plymouth, quien, durante un buen tiempo, no quería pasar sobre el
 
-Puente Saltash porque no lo consideraba seguro. Cuando, a la larga, despus de
+Puente Saltash porque no lo consideraba seguro. Cuando, a la larga, después de
 
-ver el enorme trfico que pasaba con seguridad sobre el puente, fue inducida a
+ver el enorme tráfico que pasaba con seguridad sobre el puente, fue inducida a
 
 tener confianza en el puente, temblaba grandemente todo el tiempo, y no tuvo
 
-tranquilidad mental hasta que lo dej atrs. Por supuesto que todo el mundo se
+tranquilidad mental hasta que lo dejó atrás. Por supuesto que todo el mundo se
 
-ri de ella por pensar que esa estructura tan slida no pudiera soportar su
+rió de ella por pensar que esa estructura tan sólida no pudiera soportar su
 
 liviano peso.
 
-Pudiera haber algn pecador en este edificio que
+Pudiera haber algún pecador en este edificio que
 
 tenga miedo de que el gran puente que la eterna misericordia ha construido a un
 
-costo infinito, a travs del golfo que nos separa de Dios, no sea lo
+costo infinito, a través del golfo que nos separa de Dios, no sea lo
 
-suficientemente fuerte para soportar su peso. Si es as, debe permitirme que le
+suficientemente fuerte para soportar su peso. Si es así, debe permitirme que le
 
-asegure que a travs de ese puente del sacrificio expiatorio de Cristo, han
+asegure que a través de ese puente del sacrificio expiatorio de Cristo, han
 
-cruzado millones de pecadores tan viles y corruptos como l, y el puente ni
+cruzado millones de pecadores tan viles y corruptos como él, y el puente ni
 
 siquiera ha temblado bajo su peso, y ninguna de sus partes se ha torcido o
 
-desplazado jams.
+desplazado jamás.
 
 Mi pobre amigo temeroso, tu ansiedad de que el
 
 gran puente de la misericordia no sea capaz de soportar tu peso, me recuerda la
 
-fbula del zancudo que se pos sobre la oreja de un toro, y luego estaba
+fábula del zancudo que se posó sobre la oreja de un toro, y luego estaba
 
-preocupado porque la potente bestia podra incomodarse por su enorme peso. Es
+preocupado porque la potente bestia podría incomodarse por su ‘enorme’ peso. Es
 
-bueno que tengas una vvida comprensin del peso de tus pecados, pero al mismo
+bueno que tengas una vívida comprensión del peso de tus pecados, pero al mismo
 
-tiempo debes tambin entender que Jesucristo, en virtud de Su gran expiacin,
+tiempo debes también entender que Jesucristo, en virtud de Su gran expiación,
 
-no slo es capaz de soportar el peso de tus pecados, sino que tambin puede
+no sólo es capaz de soportar el peso de tus pecados, sino que también puede
 
 llevar, y en verdad ha llevado ya sobre Sus hombros, los pecados de todos los
 
-que han de creer en l hasta el propio final del tiempo; y los ha transportado
+que han de creer en Él hasta el propio final del tiempo; y los ha transportado
 
-a la tierra del olvido, donde no sern recordados o recuperados jams. La
+a la tierra del olvido, donde no serán recordados o recuperados jamás. La
 
-sangre del pacto eterno es tan eficaz que incluso t, as de negro como ests,
+sangre del pacto eterno es tan eficaz que incluso tú, así de negro como estás,
 
-puedes orar con David: Lvame, y ser ms blanco que la nieve.
+puedes orar con David: “Lávame, y seré más blanco que la nieve”.
 
 III.
 
-sto me lleva a LA PGINA BLANCA DEL LIBRO SIN
+Ésto me lleva a LA PÁGINA BLANCA DEL LIBRO SIN
 
-PALABRAS, que est tan llena de instruccin como la hoja negra o la roja:
+PALABRAS, que está tan llena de instrucción como la hoja negra o la roja:
 
-Lvame, y ser ms blanco que la nieve.
+“Lávame, y seré más blanco que la nieve”.
 
-Cun hermoso espectculo fue, esta maana,
+ˇCuán hermoso espectáculo fue, esta mańana,
 
 cuando miramos hacia fuera, y vimos el terreno todo cubierto de nieve! Todos
 
-los rboles estaban vestidos de plata; sin embargo, es casi un insulto para la
+los árboles estaban vestidos de plata; sin embargo, es casi un insulto para la
 
-nieve compararla con la plata, pues la plata en su nivel ms brillante no es
+nieve compararla con la plata, pues la plata en su nivel más brillante no es
 
-digna de ser comparada con el maravilloso esplendor que se poda ver en
+digna de ser comparada con el maravilloso esplendor que se podía ver en
 
-cualquier lugar en que los rboles aparecan adornados con hermosos festones,
+cualquier lugar en que los árboles aparecían adornados con hermosos festones,
 
-sobre la tierra que estaba vestida con su puro manto blanco. Si hubiramos
+sobre la tierra que estaba vestida con su puro manto blanco. Si hubiéramos
 
-tomado un pedazo de lo que llamamos: papel blanco, y lo hubiramos colocado
+tomado un pedazo de lo que llamamos: papel blanco, y lo hubiéramos colocado
 
-sobre la superficie de la nieve recin cada, se habra visto cubierto de
+sobre la superficie de la nieve recién caída, se habría visto cubierto de
 
-suciedad al compararlo con la nieve inmaculada. La escena de esta maana trajo
+suciedad al compararlo con la nieve inmaculada. La escena de esta mańana trajo
 
-de inmediato a mi mente el texto: Lvame, y ser ms blanco que la nieve.
+de inmediato a mi mente el texto: “Lávame, y seré más blanco que la nieve”.
 
-Oh negro pecador, si t crees en Jess, no slo
+Oh negro pecador, si tú crees en Jesús, no sólo
 
-sers lavado en Su sangre preciosa hasta convertirte en alguien tolerablemente
+serás lavado en Su sangre preciosa hasta convertirte en alguien tolerablemente
 
-limpio, sino que quedars blanco, s, t sers: ms blanco que la nieve.
+limpio, sino que quedarás blanco, sí, tú serás: “más blanco que la nieve”.
 
 Cuando hemos contemplado la pura blancura de la
 
 nieve antes de que se ensucie, nos ha parecido como si no pudiera haber nada
 
-ms blanco. Yo s que cuando he estado en medio de los Alpes, y he contemplado
+más blanco. Yo sé que cuando he estado en medio de los Alpes, y he contemplado
 
 durante horas la deslumbrante blancura de la nieve, casi he sido enceguecido
 
 por ella. Si la nieve se quedara largo tiempo sobre el terreno, y si toda la
 
-tierra se cubriera de ella, pronto nos quedaramos ciegos todos nosotros. Los
+tierra se cubriera de ella, pronto nos quedaríamos ciegos todos nosotros. Los
 
-ojos del hombre han sufrido con su alma a travs del pecado, y tal como nuestra
+ojos del hombre han sufrido con su alma a través del pecado, y tal como nuestra
 
-alma sera incapaz de soportar una visin de la pureza de Dios al descubierto, as
+alma sería incapaz de soportar una visión de la pureza de Dios al descubierto, así
 
-nuestros ojos no podran soportar contemplar la portentosa pureza de la nieve.
+nuestros ojos no podrían soportar contemplar la portentosa pureza de la nieve.
 
 Sin embargo, el pecador, negro por causa del pecado, al ser llevado bajo el
 
-poder limpiador de la sangre de Jess, se vuelve ms blanco que la nieve.
+poder limpiador de la sangre de Jesús, se vuelve “más blanco que la nieve”.
 
-Ahora, cmo puede un pecador ser lavado para
+Ahora, żcómo puede un pecador ser lavado para
 
-quedar ms blanco que la nieve? Bien, antes que nada,
+quedar “más blanco que la nieve”? Bien, antes que nada,
 
 hay una permanencia en la blancura de un pecador lavado con sangre, que
 
 no existe en cuanto a la nieve.
 
-Mucha de la nieve que cay esta maana no
+Mucha de la nieve que cayó esta mańana no
 
-tena nada de blancura esta tarde. All donde la nieve haba comenzado a
+tenía nada de blancura esta tarde. Allí donde la nieve había comenzado a
 
-derretirse, se miraba amarilla, incluso en los lugares donde ningn pie de
+derretirse, se miraba amarilla, incluso en los lugares donde ningún pie de
 
-hombre haba pisado sobre ella; y en cuanto a la nieve de las calles de
+hombre había pisado sobre ella; y en cuanto a la nieve de las calles de
 
-Londres, ustedes saben cun pronto desaparece su blancura. Pero no hay temor de
+Londres, ustedes saben cuán pronto desaparece su blancura. Pero no hay temor de
 
-que la blancura que Dios da a un pecador desaparezca nunca de l; el vestido de
+que la blancura que Dios da a un pecador desaparezca nunca de él; el vestido de
 
-la justicia de Cristo que es colocado sobre l, es permanentemente blanco.
+la justicia de Cristo que es colocado sobre él, es permanentemente blanco.
 
-Este vestido
+“Este vestido
 
 sin mancha se ve igual,
 
 Cuando la
 
-naturaleza deteriorada se cubre de aos;
+naturaleza deteriorada se cubre de ańos;
 
 Ninguna edad
 
@@ -656,175 +656,175 @@ puede cambiar su gloriosa tonalidad;
 
 El manto de
 
-Cristo es por siempre nuevo.
+Cristo es por siempre nuevo”.
 
-Siempre es ms blanco que la nieve. Algunos de
+Siempre es “más blanco que la nieve”. Algunos de
 
 ustedes tienen que vivir en Londres, un lugar humoso y mugriento, pero el humo
 
 y la mugre no pueden descolorar el vestido inmaculado de la justicia de Cristo.
 
-Ustedes mismos estn manchados por el pecado; pero cuando estn vestidos con la
+Ustedes mismos están manchados por el pecado; pero cuando están vestidos con la
 
 justicia de Cristo delante de Dios, las manchas del pecado desaparecen. David,
 
-en s mismo, estaba negro y sucio cuando elev la oracin de nuestro texto,
+en sí mismo, estaba negro y sucio cuando elevó la oración de nuestro texto,
 
 pero vestido en la justicia de Cristo, estaba blanco y limpio. El creyente en
 
-Cristo es tan puro a los ojos de Dios en un momento, como tambin lo es en otro
+Cristo es tan puro a los ojos de Dios en un momento, como también lo es en otro
 
-momento. l no mira la pureza variante de nuestra santificacin como nuestra
+momento. Él no mira la pureza variante de nuestra santificación como nuestra
 
-base de aceptacin con l; antes bien, mira la pureza inmutable e incomparable
+base de aceptación con Él; antes bien, mira la pureza inmutable e incomparable
 
-de la persona y obra del Seor Jesucristo, y nos acepta en Cristo, y no por lo
+de la persona y obra del Seńor Jesucristo, y nos acepta en Cristo, y no por lo
 
-que somos en nosotros mismos. Por esta razn, una vez que somos aceptos en l,
+que somos en nosotros mismos. Por esta razón, una vez que somos aceptos en Él,
 
-somos ms blancos que la nieve.
+somos “más blancos que la nieve”.
 
-Adems,
+Además,
 
 la
 
-blancura de la nieve es, despus de todo, slo una blancura creada.
+blancura de la nieve es, después de todo, sólo una blancura creada.
 
 Es algo
 
 que Dios ha hecho, pero no tiene la pureza que pertenece a Dios mismo; pero la
 
-justicia que Dios da al creyente, es una justicia divina, como dice Pablo: Al
+justicia que Dios da al creyente, es una justicia divina, como dice Pablo: “Al
 
-que no conoci pecado, por nosotros lo hizo pecado, para que nosotros fusemos
+que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos
 
-hechos justicia de Dios en l. Y recuerden que sto es cierto en lo tocante al
+hechos justicia de Dios en él”. Y recuerden que ésto es cierto en lo tocante al
 
-propio pecador que antes estaba tan negro que tena que clamar a Dios: Lvame,
+propio pecador que antes estaba tan negro que tenía que clamar a Dios: “Lávame,
 
-y ser ms blanco que la nieve.
+y seré más blanco que la nieve”.
 
 Puede haber una persona que entrara a este
 
 edificio negro como la noche, debido al pecado; pero si es capacitado ahora por
 
-la gracia a confiar en Jess, Su sangre preciosa lo limpiar de inmediato, tan
+la gracia a confiar en Jesús, Su sangre preciosa lo limpiará de inmediato, tan
 
-completamente, que ser ms blanco que la nieve. La justificacin no es una
+completamente, que será “más blanco que la nieve”. La justificación no es una
 
 obra que va por grados; no progresa de una etapa a otra, sino que es la obra de
 
-un momento, y es completada instantneamente. El grandioso don de Dios de la
+un momento, y es completada instantáneamente. El grandioso don de Dios de la
 
-vida eterna, es concedido en un momento, y podras ser incapaz de discernir el
+vida eterna, es concedido en un momento, y podrías ser incapaz de discernir el
 
-momento exacto en que es concedido. Sin embargo, podras saber inclusive eso,
+momento exacto en que es concedido. Sin embargo, podrías saber inclusive eso,
 
-pues, tan pronto como crees en el Seor Jesucristo, eres nacido de Dios y has
+pues, tan pronto como crees en el Seńor Jesucristo, eres nacido de Dios y has
 
 pasado de muerte a vida; eres salvo, y salvo para toda la eternidad. El acto de
 
-fe es algo muy simple, pero es el acto que ms glorifica a Dios que pueda ser
+fe es algo muy simple, pero es el acto que más glorifica a Dios que pueda ser
 
-llevado a cabo por un hombre. Aunque no hay ningn mrito en la fe, la fe es
+llevado a cabo por un hombre. Aunque no hay ningún mérito en la fe, la fe es
 
 una gracia sumamente ennoblecedora, y Cristo le asigna un alto honor cuando
 
-dice: Tu fe te ha salvado, v en paz. Cristo pone la corona de la salvacin
+dice: “Tu fe te ha salvado, vé en paz”. Cristo pone la corona de la salvación
 
-sobre la cabeza de la fe; sin embargo, la fe misma nunca llevar esa corona,
+sobre la cabeza de la fe; sin embargo, la fe misma nunca llevará esa corona,
 
-sino que la pone a los pies de Jess, y le da a l todo el honor y la gloria.
+sino que la pone a los pies de Jesús, y le da a Él todo el honor y la gloria.
 
-Podra haber alguna persona en este lugar que
+Podría haber alguna persona en este lugar que
 
-tenga miedo de pensar que Cristo la salvar. Mi querido amigo, hazle a mi
+tenga miedo de pensar que Cristo la salvará. Mi querido amigo, hazle a mi
 
 Maestro el honor de creer que no hay profundidades de pecado en los que
 
-pudieras haber cado, que estn ms all de Su alcance. Debes creer que no hay
+pudieras haber caído, que estén más allá de Su alcance. Debes creer que no hay
 
 pecado que sea demasiado negro para que no pueda ser limpiado completamente por
 
-la sangre preciosa de Cristo, pues l ha dicho: Todo pecado y blasfemia ser
+la sangre preciosa de Cristo, pues Él ha dicho: “Todo pecado y blasfemia será
 
-perdonado a los hombres, y Todo pecado, tiene que incluir el tuyo. La propia
+perdonado a los hombres”, y “Todo pecado”, tiene que incluir el tuyo. La propia
 
 grandeza de la misericordia de Dios es la que a veces deja perplejo a un
 
 pecador.
 
-Permtanme usar un smil casero para ilustrar lo
+Permítanme usar un símil casero para ilustrar lo
 
-que quiero decir. Supongan que estn sentados a la mesa de su casa, trinchando
+que quiero decir. Supongan que están sentados a la mesa de su casa, trinchando
 
-un trozo de carne para cenar, y supongan que su perro est debajo de la mesa,
+un trozo de carne para cenar, y supongan que su perro está debajo de la mesa,
 
-esperando obtener un hueso o un trozo de cartlago como su porcin. Ahora, si
+esperando obtener un hueso o un trozo de cartílago como su porción. Ahora, si
 
 fueran a colocar el plato con todo el trozo de carne sobre el suelo,
 
-probablemente el perro tendra miedo de tocarlo porque podra recibir unos
+probablemente el perro tendría miedo de tocarlo porque podría recibir unos
 
-azotes; sabra que un perro no merece una comida como sa; y sa es justamente
+azotes; sabría que un perro no merece una comida como ésa; y ésa es justamente
 
-tu dificultad, pobre pecador. T sabes que no mereces esa gracia que Dios se
+tu dificultad, pobre pecador. Tú sabes que no mereces esa gracia que Dios se
 
 deleita en darte. Pero el hecho de que sea de gracia, deja fuera por completo
 
-el tema del mrito. Por gracia sois salvos por medio de la fe; y esto no de
+el tema del mérito. “Por gracia sois salvos por medio de la fe; y esto no de
 
-vosotros, pues es don de Dios. Los dones de Dios son como l mismo:
+vosotros, pues es don de Dios”. Los dones de Dios son como Él mismo:
 
 inmensurablemente grandes.
 
-Tal vez algunos de ustedes piensen que estaran
+Tal vez algunos de ustedes piensen que estarían
 
-contentos con migajas o huesos de la mesa de Dios. Bien, si l me fuera a dar
+contentos con migajas o huesos de la mesa de Dios. Bien, si Él me fuera a dar
 
-unas cuantas migajas o un poco de carne en trozos, yo estara agradecido
+unas cuantas migajas o un poco de carne en trozos, yo estaría agradecido
 
-inclusive por eso, pero no me satisfara; pero cuando l me dice: T eres mi
+inclusive por eso, pero no me satisfaría; pero cuando Él me dice: “Tú eres mi
 
-hijo. Yo te he adoptado y has entrado en mi familia, y ya no saldrs fuera
+hijo. Yo te he adoptado y has entrado en mi familia, y ya no saldrás fuera
 
-jams, yo no estoy de acuerdo contigo en que sea demasiado bueno para ser
+jamás”, yo no estoy de acuerdo contigo en que sea demasiado bueno para ser
 
-cierto. Podra ser demasiado bueno para ti, pero no es demasiado bueno para
+cierto. Podría ser demasiado bueno para ti, pero no es demasiado bueno para
 
-Dios; l da como slo l puede dar. Si yo tuviera una gran necesidad, y
+Dios; Él da como sólo Él puede dar. Si yo tuviera una gran necesidad, y
 
-obtuviera acceso a la Reina, y despus de exponer mi caso ante ella, me dijera:
+obtuviera acceso a la Reina, y después de exponer mi caso ante ella, me dijera:
 
-Siento un profundo inters en su caso; aqu tiene un centavo para usted, yo
+“Siento un profundo interés en su caso; aquí tiene un centavo para usted”, yo
 
-estara muy seguro de que no vi a la Reina, sino que alguna doncella o
+estaría muy seguro de que no vi a la Reina, sino que alguna doncella o
 
-sirvienta de alguna dama me estaba poniendo en ridculo. Oh, no!, la Reina da
+sirvienta de alguna dama me estaba poniendo en ridículo. ˇOh, no!, la Reina da
 
 como una reina, y Dios da como Dios; de tal manera que la grandeza de Su don,
 
-en vez de dejarnos atnitos, slo debera asegurarnos de que es genuino, y que
+en vez de dejarnos atónitos, sólo debería asegurarnos de que es genuino, y que
 
 proviene de Dios.
 
-Richard Baxter dijo sabiamente; Oh Seor, tiene
+Richard Baxter dijo sabiamente; “ˇOh Seńor, tiene
 
 que ser una gran misericordia o ninguna misericordia, pues poca misericordia no
 
-me sirve de nada!. Entonces, pecador, acude al gran Dios con tu gran pecado y
+me sirve de nada!”. Entonces, pecador, acude al gran Dios con tu gran pecado y
 
 pide una gran misericordia para que seas lavado en la gran fuente llena con la
 
-sangre del gran sacrificio, y recibirs una gran salvacin que Cristo ha
+sangre del gran sacrificio, y recibirás una gran salvación que Cristo ha
 
-obtenido, y por ello atribuirs una gran alabanza al Padre, al Hijo y al
+obtenido, y por ello atribuirás una gran alabanza al Padre, al Hijo y al
 
-Espritu Santo, por siempre y para siempre. Que Dios nos conceda que as sea,
+Espíritu Santo, por siempre y para siempre. ˇQue Dios nos conceda que así sea,
 
-por Jesucristo nuestro Seor! Amn.
+por Jesucristo nuestro Seńor! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 29/Julio/2010
 

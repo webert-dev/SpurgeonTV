@@ -1,14 +1,14 @@
 # Sermón 2357 | Sermón 2357
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Los Dos Pilares de la Salvacin
+Los Dos Pilares de la Salvación
 
 NO. 2357
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -16,149 +16,149 @@ LA NOCHE DEL DOMINGO 19
 
 DE FEBRERO DE 1888,
 
-Y LEDO LA MAANA DEL
+Y LEÍDO LA MAŃANA DEL
 
 DOMINGO 22 DE ABRIL DE 1894.
 
-Creemos en el que levant de los
+“Creemos en el que levantó de los
 
-muertos a Jess, Seor nuestro, el cual fue entregado por nuestras
+muertos a Jesús, Seńor nuestro, el cual fue entregado por nuestras
 
-transgresiones, y resucitado para nuestra justificacin. Romanos 4: 24, 25.
+transgresiones, y resucitado para nuestra justificación”. Romanos 4: 24, 25.
 
 La fe, la verdadera fe salvadora, es la misma en
 
-todas las pocas. Puede ejercerse sobre cosas diferentes, pero la fe de Abraham
+todas las épocas. Puede ejercerse sobre cosas diferentes, pero la fe de Abraham
 
-es la misma fe que haba en el corazn de Pablo; y la fe de Pablo era
+es la misma fe que había en el corazón de Pablo; y la fe de Pablo era
 
-precisamente la misma fe que hay en el corazn de todo creyente en el momento
+precisamente la misma fe que hay en el corazón de todo creyente en el momento
 
-presente. Tenemos una fe igualmente preciosa con los hombres piadosos de
+presente. Tenemos “una fe igualmente preciosa” con los hombres piadosos de
 
-todas las pocas. Es siempre la misma fe, como es siempre el mismo Dios, y el
+todas las épocas. Es siempre la misma fe, como es siempre el mismo Dios, y el
 
 mismo Salvador.
 
-En este captulo, Pablo nos muestra que hay una
+En este capítulo, Pablo nos muestra que hay una
 
 notable semejanza entre la fe del creyente de ahora y la fe de Abraham. La fe
 
-de Abraham le llev a creer que Dios era capaz de revivir incluso a los
+de Abraham le llevó a creer que Dios era capaz de revivir incluso a los
 
-muertos, y eso es precisamente lo que nosotros tambin creemos. Abraham crea
+muertos, y eso es precisamente lo que nosotros también creemos. Abraham creía
 
-a pesar de tener ms de cien aos de edad y de que su esposa contaba igualmente
+–a pesar de tener más de cien ańos de edad y de que su esposa contaba igualmente
 
-con una avanzada edad- que podran ser vivificados de tal manera por el poder
+con una avanzada edad- que podrían ser vivificados de tal manera por el poder
 
-de Dios, que seran los padres de la simiente prometida por Dios; y, aunque
+de Dios, que serían los padres de la simiente prometida por Dios; y, aunque
 
-Sara se haba redo una vez, y yo me imagino que Abraham tena a veces sus
+Sara se había reído una vez, y yo me imagino que Abraham tenía a veces sus
 
-ataques de desaliento, perseveraron en la conviccin solemne de que sucedera como
+ataques de desaliento, perseveraron en la convicción solemne de que sucedería como
 
-el Seor les haba prometido; y lleg el da en que Sara se ri en otro
+el Seńor les había prometido; y llegó el día en que Sara se rió en otro
 
-sentido, pues le naci un nio, que fue llamado: Isaac, esto es: Risa,
+sentido, pues le nació un nińo, que fue llamado: “Isaac”, esto es: “Risa”,
 
-debido al gozo con el que llen el hogar y los corazones de sus padres. As,
+debido al gozo con el que llenó el hogar y los corazones de sus padres. Así,
 
-pueden ver que Abraham crey que Dios poda revivir a los muertos -a pesar de
+pueden ver que Abraham creyó que Dios podía revivir a los muertos -a pesar de
 
-que tanto l como su esposa estaban muertos para toda posibilidad de ello- y
+que tanto él como su esposa estaban muertos para toda posibilidad de ello- y
 
-que habra de nacerles un heredero de manera natural.
+que habría de nacerles un heredero de manera natural.
 
-Ms adelante en la historia del patriarca, Dios
+Más adelante en la historia del patriarca, Dios
 
-prob su fe de nuevo. Le orden ir y tomar a su hijo, a su nico hijo a quien
+probó su fe de nuevo. Le ordenó ir y tomar a su hijo, a su único hijo a quien
 
-amaba, para ofrecerlo en sacrificio sobre el monte Moriah. Abraham nicamente
+amaba, para ofrecerlo en sacrificio sobre el monte Moriah. Abraham únicamente
 
-deseaba saber qu era lo que Dios le ordenaba, y estaba presto a obedecerle. No
+deseaba saber qué era lo que Dios le ordenaba, y estaba presto a obedecerle. No
 
-le corresponda razonar el porqu, o replicar; le corresponda obedecer; as
+le correspondía razonar el porqué, o replicar; le correspondía obedecer; así
 
-que complet sus tres das de camino, y su hijo bienamado carg sobre s la
+que completó sus tres días de camino, y su hijo bienamado cargó sobre sí la
 
-lea para el sacrificio. Fueron a la cumbre del monte, y Abraham sac su
+leńa para el sacrificio. Fueron a la cumbre del monte, y Abraham sacó su
 
 cuchillo para matar a su hijo. Su mano fue divinamente detenida en el momento
 
-preciso, y en lugar de Isaac fue ofrecido un carnero. Una razn por la cual
+preciso, y en lugar de Isaac fue ofrecido un carnero. Una razón por la cual
 
 Abraham fue capaz de dar esta prueba suprema de obediencia es porque estaba
 
-seguro de que Dios guardara Su promesa, y de que, incluso si su hijo haba de
+seguro de que Dios guardaría Su promesa, y de que, incluso si su hijo había de
 
-morir, Dios le resucitara de los muertos. ste parece haber sido el punto al
+morir, Dios le resucitaría de los muertos. Éste parece haber sido el punto al
 
-que su fe siempre lleg: que Dios poda resucitar a los muertos, que poda
+que su fe siempre llegó: que Dios podía resucitar a los muertos, que podía
 
-hacer aquello que los hombres llaman imposibilidades, que lo que no estaba
+hacer aquello que los hombres llaman ‘imposibilidades’, que lo que no estaba
 
-dentro del alcance de la naturaleza humana era sumamente fcil para ese brazo
+dentro del alcance de la naturaleza humana era sumamente fácil para ese brazo
 
-eterno para cuyo poder no hay ningn lmite.
+eterno para cuyo poder no hay ningún límite.
 
-Ahora, amados, este es uno de los artculos de
+Ahora, amados, este es uno de los artículos de
 
 nuestra fe cristiana: creer que Dios puede resucitar a los muertos. Si somos
 
-verdaderos creyentes, ustedes y yo creemos que Dios resucit de los muertos a
+verdaderos creyentes, ustedes y yo creemos que Dios resucitó de los muertos a
 
-nuestro Seor Jess, el grandioso Pastor de las ovejas. Nosotros creemos que
+nuestro Seńor Jesús, el grandioso Pastor de las ovejas. Nosotros creemos que
 
-Jess en verdad muri y fue enterrado en el sepulcro de Jos de Arimatea, pero
+Jesús en verdad murió y fue enterrado en el sepulcro de José de Arimatea, pero
 
-que en el tercer da resucit y dej la tumba para no morir ms. Nosotros
+que en el tercer día resucitó y dejó la tumba para no morir más. Nosotros
 
-creemos muy firmemente que la resurreccin es un hecho; no se trata de una
+creemos muy firmemente que la resurrección es un hecho; no se trata de una
 
-ficcin, ni de un trozo de poesa, sino de un asunto que realmente ocurri,
+ficción, ni de un trozo de poesía, sino de un asunto que realmente ocurrió,
 
-como cualquier otro hecho histrico confiable, y lo aceptamos sin dudarlo. Tambin
+como cualquier otro hecho histórico confiable, y lo aceptamos sin dudarlo. También
 
-creemos que nosotros tambin, aunque muramos, viviremos de nuevo; y que, aunque
+creemos que nosotros también, aunque muramos, viviremos de nuevo; y que, aunque
 
 los gusanos devoren este cuerpo, en nuestra carne hemos de ver a Dios. Al sonido
 
-de la trompeta del arcngel los muertos en Cristo resucitarn, y todos los
+de la trompeta del arcángel los muertos en Cristo resucitarán, y todos los
 
-muertos provenientes de la tierra y del mar se congregarn delante del gran
+muertos provenientes de la tierra y del mar se congregarán delante del gran
 
-trono blanco. Sin importar cun esparcidas pudieran haber estado las partculas
+trono blanco. Sin importar cuán esparcidas pudieran haber estado las partículas
 
 de sus cuerpos de diez mil maneras tortuosas, no importa; el cuerpo que fue
 
-sembrado en debilidad ser resucitado en poder, el cuerpo que fue sembrado
+sembrado en debilidad será resucitado en poder, el cuerpo que fue sembrado
 
-corruptible ser resucitado en la incorrupcin. Nosotros creemos sinceramente
+corruptible será resucitado en la incorrupción. Nosotros creemos sinceramente
 
-sto. Y nuestra fe cree tambin que, incluso ahora, en lo tocante a las cosas
+ésto. Y nuestra fe cree también que, incluso ahora, en lo tocante a las cosas
 
-espirituales, aunque por naturaleza estamos muertos para las cosas de Dios, l
+espirituales, aunque por naturaleza estamos muertos para las cosas de Dios, Él
 
 puede resucitar a los muertos.
 
 Cuando nos sentimos abrumados y embotados, y la
 
-msica de nuestra adoracin se arrastra fatigosamente, nosotros creemos que
+música de nuestra adoración se arrastra fatigosamente, nosotros creemos que
 
 Dios puede revivirnos; y aunque conocemos a muchas personas que no tienen vida
 
-espiritual en este da y estn lejos de Dios por sus obras perversas, nosotros
+espiritual en este día y están lejos de Dios por sus obras perversas, nosotros
 
-vamos y les hablamos del Evangelio eterno con la plena persuasin de que puede
+vamos y les hablamos del Evangelio eterno con la plena persuasión de que puede
 
-resucitar a los muertos, a quienes estn muertos en sus delitos y pecados. Aun
+resucitar a los muertos, a quienes están muertos en sus delitos y pecados. Aun
 
-estando muertos, vivirn. Nosotros creemos sto, y nos regocijamos.
+estando muertos, vivirán. Nosotros creemos ésto, y nos regocijamos.
 
 Pienso que les he mostrado que la fe de Abraham
 
-es una muestra fiel de la fe de todos los creyentes, y de esta manera l es el
+es una muestra fiel de la fe de todos los creyentes, y de esta manera él es el
 
 padre de todos los creyentes y todos los hijos guardan un parecido familiar. En
 
@@ -168,141 +168,141 @@ Ahora vayamos a nuestro texto, y lo voy a tratar
 
 brevemente con el intenso deseo de que si alguien quisiera encontrar el camino
 
-de la salvacin, lo encuentre esta noche. La verdadera fe es de este carcter:
+de la salvación, lo encuentre esta noche. La verdadera fe es de este carácter:
 
-Creemos en el que levant de los muertos a Jess, Seor nuestro, el cual fue
+“Creemos en el que levantó de los muertos a Jesús, Seńor nuestro, el cual fue
 
 entregado por nuestras transgresiones, y resucitado para nuestra
 
-justificacin.
+justificación”.
 
 I.
 
 Primero, NUESTRA FE MIRA A DIOS, EL PADRE, EN EL
 
-ASUNTO DE LA SALVACIN. Nosotros no solamente miramos a Jesucristo, como
+ASUNTO DE LA SALVACIÓN. Nosotros no solamente miramos a Jesucristo, como
 
-algunos dicen que hacemos; sino que Creemos en el que levant de los muertos a
+algunos dicen que hacemos; sino que “Creemos en el que levantó de los muertos a
 
-Jess, Seor nuestro y no creemos solamente en Jess, Seor nuestro.
+Jesús, Seńor nuestro” y no creemos solamente en “Jesús, Seńor nuestro”.
 
-Nosotros efectivamente creemos en l, pero tambin creemos igualmente en Dios,
+Nosotros efectivamente creemos en Él, pero también creemos igualmente en Dios,
 
-que resucit a Jess, Seor nuestro, de los muertos.
+que resucitó a Jesús, Seńor nuestro, de los muertos.
 
-Sobre este punto hay una fe errnea en dos
+Sobre este punto hay una fe errónea en dos
 
 sentidos; y es aflictivo ver cualquiera de las formas de este error, puesto que
 
 estropea la belleza de la verdad divina. Algunos prescinden del Padre. Hablan
 
-de Jess como si le debiramos a l, y slo a l, nuestra salvacin. Estamos
+de Jesús como si le debiéramos a Él, y sólo a Él, nuestra salvación. Estamos
 
-inmensurablemente endeudados con l, bendito sea Su nombre! Pero Jess no
+inmensurablemente endeudados con Él, ˇbendito sea Su nombre! Pero Jesús no
 
 salva sin el Padre, o aparte del Padre, o en contra de la voluntad del Padre.
 
-Me encanta la expresin que es usada en el Libro
+Me encanta la expresión que es usada en el Libro
 
-de Gnesis, concerniente a Abraham y a su hijo, cuando se dirigan al monte del
+de Génesis, concerniente a Abraham y a su hijo, cuando se dirigían al monte del
 
-sacrificio. Est escrito: Fueron ambos juntos; y en el grandioso sacrificio
+sacrificio. Está escrito: “Fueron ambos juntos”; y en el grandioso sacrificio
 
-que fue hecho por el pecado humano, podra decirse acerca del Padre Divino y de
+que fue hecho por el pecado humano, podría decirse acerca del Padre Divino y de
 
-Su igualmente Divino Hijo: Fueron ambos juntos. Hubo un acuerdo y un
+Su igualmente Divino Hijo: “Fueron ambos juntos”. Hubo un acuerdo y un
 
 avenimiento secretos entre el Padre y el Hijo concernientes a nuestra
 
-redencin, y el Padre recibe nuestro amor y gratitud de la misma manera que el
+redención, y el Padre recibe nuestro amor y gratitud de la misma manera que el
 
-Hijo los recibe. Jess se entreg por nosotros, pero el Padre entreg a Jess,
+Hijo los recibe. Jesús se entregó por nosotros, pero el Padre entregó a Jesús,
 
-Su otro yo. Jess dice: Yo y el Padre uno somos. Podra decir, en un cierto
+Su otro yo. Jesús dice: “Yo y el Padre uno somos”. Podría decir, en un cierto
 
-sentido, que fue Dios, el Padre, quien sufri por nosotros, pues l dio a Su
+sentido, que fue Dios, el Padre, quien sufrió por nosotros, pues Él dio a Su
 
-Hijo, a quien am, para que sufriera por cuenta nuestra; entreg al amado de Su
+Hijo, a quien amó, para que sufriera por cuenta nuestra; entregó al amado de Su
 
-corazn, y en la persona de Su Hijo se convirti en nuestro Salvador. Es Dios
+corazón, y en la persona de Su Hijo se convirtió en nuestro Salvador. Es “Dios
 
-nuestro Salvador as como tambin Jesucristo nuestro Salvador. Nunca separen
+nuestro Salvador” así como también “Jesucristo nuestro Salvador”. Nunca separen
 
-al Padre del Hijo en la obra de la redencin; Jess no vino a este mundo a
+al Padre del Hijo en la obra de la redención; Jesús no vino a este mundo a
 
 morir para hacer que Su Padre fuera clemente. No, el pacto de gracia fue hecho
 
-desde la eternidad, y Jess vino para cumplir una estipulacin del pacto que
+desde la eternidad, y Jesús vino para cumplir una estipulación del pacto que
 
-estableca que le incumba sufrir. El amor del Padre es desde la eternidad, y
+establecía que le incumbía sufrir. El amor del Padre es desde la eternidad, y
 
-la muerte de Jess es uno de los torrentes que fluyen de esa eterna fuente. El
+la muerte de Jesús es uno de los torrentes que fluyen de esa eterna fuente. El
 
-Padre ha de ser alabado pues entreg a Su Hijo y resucit a Su Hijo de los
+Padre ha de ser alabado pues entregó a Su Hijo y resucitó a Su Hijo de los
 
 muertos, y no hemos de olvidar nunca la gracia que ha manifestado de esta
 
-manera para nuestra salvacin. Por tanto, nunca hemos de caer en el error de
+manera para nuestra salvación. Por tanto, nunca hemos de caer en el error de
 
-aquellos que pasan por alto la parte del Padre en nuestra redencin.
+aquellos que pasan por alto la parte del Padre en nuestra redención.
 
-Sera un error igualmente pernicioso que
+Sería un error igualmente pernicioso que
 
-pasramos por alto al Hijo. Oh!, cuntas personas hablan acerca de Dios, y
+pasáramos por alto al Hijo. ˇOh!, cuántas personas hablan acerca de Dios, y
 
-oran a Dios, y hablan de la misericordia de Dios, pero, qu tienen que ver con
+oran a Dios, y hablan de la misericordia de Dios, pero, żqué tienen que ver con
 
-Dios si ignoran o desprecian a Su Hijo? Dios no te oir, no responder a tus
+Dios si ignoran o desprecian a Su Hijo? Dios no te oirá, no responderá a tus
 
-oraciones, si no vienes a l por Jesucristo. Slo hay una manera de venir al
+oraciones, si no vienes a Él por Jesucristo. Sólo hay una manera de venir al
 
-Padre y es por medio de Su Hijo Jesucristo; y no podras acercarte a Dios sin
+Padre y es por medio de Su Hijo Jesucristo; y no podrías acercarte a Dios sin
 
-el nico mediador entre Dios y los hombres. Por qu orden un Mediador, y por
+el único mediador entre Dios y los hombres. żPor qué ordenó un Mediador, y por
 
-qu ese Mediador derram Su sangre, si ustedes y yo pudiramos acercarnos a
+qué ese Mediador derramó Su sangre, si ustedes y yo pudiéramos acercarnos a
 
 Dios sin necesidad de Su sacrificio propiciatorio?
 
-No, amados, nosotros creemos en Jesucristo, as
+No, amados, nosotros creemos en Jesucristo, así
 
-como tambin en el Padre. Creemos en el Padre, pero creemos en l como el Dios
+como también en el Padre. Creemos en el Padre, pero creemos en Él como el Dios
 
-que resucit a Jesucristo, nuestro Seor, de los muertos. No es el Padre sin el
+que resucitó a Jesucristo, nuestro Seńor, de los muertos. No es el Padre sin el
 
-Hijo quien salva, ni es el Hijo sin el Padre, ni son stos dos sin el Divino
+Hijo quien salva, ni es el Hijo sin el Padre, ni son éstos dos sin el Divino
 
-Santo Espritu bendito para siempre. Se requiere de toda la Trinidad para hacer
+Santo Espíritu bendito para siempre. Se requiere de toda la Trinidad para hacer
 
 un cristiano, y toda la Trinidad, cooperando en una Divina Unidad, ha de ser
 
-alabada y adorada por nuestra salvacin.
+alabada y adorada por nuestra salvación.
 
-Pero, ahora, qu dice el texto al ordenarnos confiar
+Pero, ahora, żqué dice el texto al ordenarnos confiar
 
-en Dios, el Padre, en nuestra salvacin? Bien, dice, primero, que
+en Dios, el Padre, en nuestra salvación? Bien, dice, primero, que
 
-l entreg a Su Hijo.
+Él entregó a Su Hijo.
 
-Acerca de Jess,
+Acerca de Jesús,
 
-leemos aqu: el cual fue entregado por nuestras transgresiones. Sabemos quin
+leemos aquí: “el cual fue entregado por nuestras transgresiones”. Sabemos quién
 
-fue el que lo entreg, pues tenemos en esta misma Epstola el texto: El que no
+fue el que lo entregó, pues tenemos en esta misma Epístola el texto: “El que no
 
-escatim ni a su propio Hijo, sino que lo entreg por todos nosotros, cmo no
+escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, żcómo no
 
-nos dar tambin con l todas las cosas? Fue el Padre quien entreg a Su Hijo
+nos dará también con él todas las cosas?” Fue el Padre quien entregó a Su Hijo
 
-para ser revestido de carne humana, fue el Padre quien entreg a Su Hijo para
+para ser revestido de carne humana, fue el Padre quien entregó a Su Hijo para
 
-ser despreciado y desechado entre los hombres, fue el Padre quien entreg a Su
+ser despreciado y desechado entre los hombres, fue el Padre quien entregó a Su
 
 Hijo al beso del traidor y al cruel trato de la soldadesca romana, fue el Padre
 
-quien entreg a Su Hijo al azote, y luego a la cruz y a la amargura de la
+quien entregó a Su Hijo al azote, y luego a la cruz y a la amargura de la
 
-propia muerte. El Padre entreg a Su Hijo para que muriera por los pecadores.
+propia muerte. El Padre entregó a Su Hijo para que muriera por los pecadores.
 
 Esta fue la prueba suprema del amor del Padre por nosotros.
 
@@ -310,71 +310,71 @@ Y luego, en seguida, se nos instruye que, a su
 
 tiempo, fue el Padre quien
 
-resucit a
+resucitó a
 
-Jess de los muertos:
+Jesús de los muertos:
 
-Creemos en el que levant de los muertos a Jess.
+“Creemos en el que levantó de los muertos a Jesús”.
 
-Se habla de la resurreccin de Cristo de diferentes maneras en la Escritura; pero
+Se habla de la resurrección de Cristo de diferentes maneras en la Escritura; pero
 
 entre otras declaraciones, se dice expresamente que fue obrada por el poder del
 
 Padre. Bien, entonces, hemos de agradecerle por un Cristo vivo, un Cristo
 
-resucitado. Fue el Padre quien sopl de nuevo la vida en ese cuerpo muerto, y
+resucitado. Fue el Padre quien sopló de nuevo la vida en ese cuerpo muerto, y
 
-trajo a nuestro Redentor de nuevo a la vida; fue el Padre quien orden a los
+trajo a nuestro Redentor de nuevo a la vida; fue el Padre quien ordenó a los
 
-ngeles que rodaran la piedra de la boca del sepulcro cuando despunt la maana
+ángeles que rodaran la piedra de la boca del sepulcro cuando despuntó la mańana
 
-de la resurreccin.
+de la resurrección.
 
-Y recuerden que as como estas dos cosas: la
+Y recuerden que así como estas dos cosas: la
 
-entrega de Cristo y la resurreccin de Cristo de los muertos, son atribuidas al
+entrega de Cristo y la resurrección de Cristo de los muertos, son atribuidas al
 
-Padre, as tambin los dos frutos provenientes de ellas son tambin del Padre.
+Padre, así también los dos frutos provenientes de ellas son también del Padre.
 
 El primer fruto es
 
-el perdn del pecado:
+el perdón del pecado:
 
-El
+“El
 
-cual fue entregado por nuestras transgresiones. El segundo fruto es
+cual fue entregado por nuestras transgresiones”. El segundo fruto es
 
-la justificacin:
+la justificación:
 
-y resucitado para
+“y resucitado para
 
-nuestra justificacin. Ambos son obra del Padre; es el Padre quien perdona, y
+nuestra justificación”. Ambos son obra del Padre; es el Padre quien perdona, y
 
-es el Padre quien justifica. Dios es el que justifica, dijo Pablo, transportado
+es el Padre quien justifica. “Dios es el que justifica”, dijo Pablo, transportado
 
-en una suerte de xtasis divino: Dios es el que justifica. Quin es el que
+en una suerte de éxtasis divino: “Dios es el que justifica. żQuién es el que
 
-condenar? As que no podemos tener fe en Jess, aparte del Padre. Regresando
+condenará?” Así que no podemos tener fe en Jesús, aparte del Padre. Regresando
 
-al punto del cual ya les he hablado para tratar de dar en el clavo y
+al punto del cual ya les he hablado –para tratar de dar en el clavo y
 
-remacharlo- no miramos a Jess aparte del Padre, as como tampoco miramos al
+remacharlo- no miramos a Jesús aparte del Padre, así como tampoco miramos al
 
-Padre aparte de Jess; pero sta es la verdadera fe escritural: Creemos en el
+Padre aparte de Jesús; pero ésta es la verdadera fe escritural: “Creemos en el
 
-que levant de los muertos a Jess, Seor nuestro, el cual fue entregado por
+que levantó de los muertos a Jesús, Seńor nuestro, el cual fue entregado por
 
-nuestras transgresiones, y resucitado para nuestra justificacin.
+nuestras transgresiones, y resucitado para nuestra justificación”.
 
 Ahora, alma, si quisieras ser salvada, antes que
 
-nada es necesario que confes tu alma en las manos de Dios, el fiel Creador,
+nada es necesario que confíes tu alma en las manos de Dios, el fiel Creador,
 
-viendo siempre asociadas con ellas las manos del Seor Jesucristo, Dios y
+viendo siempre asociadas con ellas las manos del Seńor Jesucristo, Dios y
 
-hombre, que muri y resucit para quitar el pecado. Esa fe ejercida ahora te
+hombre, que murió y resucitó para quitar el pecado. Esa fe ejercida ahora te
 
-salvar de inmediato, y te salvar por los siglos de los siglos.
+salvará de inmediato, y te salvará por los siglos de los siglos.
 
 II.
 
@@ -382,7 +382,7 @@ Ahora doy un paso hacia adelante, y llego al
 
 segundo encabezado: LA FE QUE SALVA SE OCUPA DE JESUCRISTO COMO NUESTRO. Pongan
 
-atencin a sto:
+atención a ésto:
 
 la fe verdadera no mira
 
@@ -392,27 +392,27 @@ Cuando mira al interior, esta fe no ve
 
 nada que valga la pena tener, y nada que sea digno de confianza para nuestra
 
-salvacin. Por tanto, clama en contra de su propia justicia, que es por la ley,
+salvación. Por tanto, clama en contra de su propia justicia, que es por la ley,
 
-y slo desea considerarla como trapo de inmundicia. Contempla a Jesucristo, sin
+y sólo desea considerarla como trapo de inmundicia. Contempla a Jesucristo, sin
 
 embargo, como a su real tesoro.
 
-Notan, en mi texto, que la palabra nuestro es
+żNotan, en mi texto, que la palabra “nuestro” es
 
 repetida
 
-tres veces? Simplemente marquen con un lpiz
+tres veces? Simplemente marquen con un lápiz
 
-debajo de ese pequeo pronombre cada vez que es mencionado.
+debajo de ese pequeńo pronombre cada vez que es mencionado.
 
 La verdadera fe recibe a Jesucristo como
 
-nuestro Seor Jess:
+“nuestro” Seńor Jesús:
 
-Jess, Seor nuestro, nuestro Jess, nuestro
+“Jesús, Seńor nuestro”, nuestro Jesús, nuestro
 
-Salvador; no es nicamente
+Salvador; no es únicamente
 
 un
 
@@ -424,35 +424,35 @@ nuestro
 
 Salvador; y
 
-siendo Seor, as como Salvador, le reconocemos como
+siendo Seńor, así como Salvador, le reconocemos como
 
 nuestro
 
-Seor Jess, le tomamos como nuestro Seor. As es como l
+Seńor Jesús, le tomamos como nuestro Seńor. Así es como Él
 
-mismo lo expresa: Llevad mi yugo sobre vosotros, y aprended de m. Nosotros
+mismo lo expresa: “Llevad mi yugo sobre vosotros, y aprended de mí”. Nosotros
 
-deseamos hacer eso. sta, entonces, es la fe verdadera y sincera que salva al
+deseamos hacer eso. Ésta, entonces, es la fe verdadera y sincera que salva al
 
-alma, la fe que se apropia de Jess como nuestro Salvador y como nuestro Seor.
+alma, la fe que se apropia de Jesús como nuestro Salvador y como nuestro Seńor.
 
-Y la siguiente apropiacin es que
+Y la siguiente apropiación es que
 
 la verdadera fe ve a Cristo como entregado
 
-por nuestros pecados:
+por “nuestros” pecados:
 
-El cual fue entregado por nuestras transgresiones.
+“El cual fue entregado por nuestras transgresiones”.
 
-Eso quiere decir, las transgresiones de ustedes y las mas:
+Eso quiere decir, las transgresiones de ustedes y las mías:
 
-nuestras
+“nuestras
 
-ofensas. Oh, mis queridos
+ofensas”. Oh, mis queridos
 
-oyentes, de poco nos servira creer que Jesucristo fue entregado por las
+oyentes, de poco nos serviría creer que Jesucristo fue entregado por las
 
-ofensas de aquellos que vivieron en pocas pasadas; debemos creer que fue
+ofensas de aquellos que vivieron en épocas pasadas; debemos creer que fue
 
 entregado por
 
@@ -460,107 +460,107 @@ nuestras
 
 ofensas; no
 
-nos salvar que creamos que Jesucristo fue entregado por los pecados de
+nos salvará que creamos que Jesucristo fue entregado por los pecados de
 
 naciones lejanas a nosotros; no, sino que debemos creer que fue entregado por
 
 nuestras
 
-ofensas. sta es la fe que
+ofensas. Ésta es la fe que
 
-dice: Jesucristo llev l mismo nuestros pecados en su cuerpo sobre el
+dice: “Jesucristo llevó él mismo nuestros pecados en su cuerpo sobre el
 
-madero.
+madero”.
 
-Afrrate al Salvador como el que lleva
+Aférrate al Salvador como el que lleva
 
-tu pecado. Mirad a m dice- y sed salvos, todos los trminos de la tierra.
+tu pecado. “Mirad a mí” –dice- “y sed salvos, todos los términos de la tierra”.
 
-Has de verlo a l, has de verlo en este instante; t eres salvo en el momento
+Has de verlo a Él, has de verlo en este instante; tú eres salvo en el momento
 
-en que miras. Confa en l como tu Salvador; tcalo, como lo hizo la mujer de
+en que miras. Confía en Él como tu Salvador; tócalo, como lo hizo la mujer de
 
-antao; te bastara si slo pudieras tocarlo por medio de la fe, y al instante
+antańo; te bastaría si sólo pudieras tocarlo por medio de la fe, y al instante
 
-seras salvado de todas tus transgresiones, pues la verdadera fe cree que fue
+serías salvado de todas tus transgresiones, pues la verdadera fe cree que “fue
 
 entregado por
 
 nuestras
 
-transgresiones.
+transgresiones”.
 
-Y luego, a continuacin,
+Y luego, a continuación,
 
 la verdadera fe salvadora se apropia de Cristo como resucitado para
 
-nuestra justificacin.
+“nuestra” justificación.
 
 Es una doctrina escritural que somos justificados
 
 por medio de la muerte de Cristo; pero no han dejarla simplemente como una
 
-doctrina, sino que han de apropirsela por fe, y convertirla en una
+doctrina, sino que han de apropiársela por fe, y convertirla en una
 
-experiencia, segn dice el texto: el cual fue resucitado para
+experiencia, según dice el texto: “el cual fue resucitado para
 
 nuestra
 
-justificacin. Para la
+justificación”. żPara la
 
-justificacin de quin? De ustedes, queridos amigos, y la ma: Para nuestra
+justificación de quién? De ustedes, queridos amigos, y la mía: “Para nuestra
 
-justificacin. Me gusta ms, a veces, la palabra nuestra que la palabra ma.
+justificación”. Me gusta más, a veces, la palabra “nuestra” que la palabra mía.
 
-Cuando estoy completamente solo, algunas veces oro: Padre
+Cuando estoy completamente solo, algunas veces oro: “Padre
 
-mo
+mío
 
-que ests en el cielo. Con todo, estoy agradecido porque el
+que estás en el cielo”. Con todo, estoy agradecido porque el
 
-Seor no pronunci as la oracin modelo que dio a Sus discpulos, sino que
+Seńor no pronunció así la oración modelo que dio a Sus discípulos, sino que
 
-dijo de esta manera: Padre
+dijo de esta manera: “Padre
 
-nuestro,
+nuestro”,
 
 esto
 
-es, el Padre de ustedes, y el mo, y el de todos nosotros los que amamos Su
+es, el Padre de ustedes, y el mío, y el de todos nosotros los que amamos Su
 
-amado nombre, y confiamos en Su amado Hijo. S, Jess fue resucitado para
+amado nombre, y confiamos en Su amado Hijo. Sí, Jesús fue resucitado para
 
 mi
 
-justificacin; le alabo por ese
+justificación; le alabo por ese
 
 glorioso hecho.
 
-Yo veo frente a m cada maana, cuando me estoy
+Yo veo frente a mí cada mańana, cuando me estoy
 
-lavando, este pasaje: El cual me am y se entreg a s mismo por m;
+lavando, este pasaje: “El cual me amó y se entregó a sí mismo por mí”;
 
-y le doy gracias al Seor porque es verdad; pero, aun
+y le doy gracias al Seńor porque es verdad; pero, aun
 
-as, me gusta esta palabra: nuestra en nuestro texto: el cual fue resucitado
+así, me gusta esta palabra: “nuestra” en nuestro texto: “el cual fue resucitado
 
 para
 
 nuestra
 
-justificacin. La
+justificación. La
 
-expresin nuestra justificacin, quiere decir la justificacin de ustedes,
+expresión “nuestra justificación”, żquiere decir la justificación de ustedes,
 
-queridos amigos, y tambin la ma? Quin quiere sentarse conmigo en el
+queridos amigos, y también la mía? żQuién quiere sentarse conmigo en el
 
-carruaje de dos asientos de este precioso pronombre: nuestra, diciendo: el
+carruaje de dos asientos de este precioso pronombre: “nuestra”, diciendo: “el
 
-cual fue resucitado para nuestra justificacin?
+cual fue resucitado para nuestra justificación”?
 
-De esta manera les he enseado dos lecciones: la
+De esta manera les he enseńado dos lecciones: la
 
-primera es que nuestra fe mira a Dios el Padre en la salvacin; y la segunda es
+primera es que nuestra fe mira a Dios el Padre en la salvación; y la segunda es
 
 que nuestra fe se ocupa de que Cristo es nuestro.
 
@@ -568,71 +568,71 @@ III.
 
 Ahora, en tercer lugar, NUESTRA FE PARA LA
 
-SALVACIN SE APOYA EN LA MUERTE Y EN LA RESURRECCIN DE CRISTO: El cual fue
+SALVACIÓN SE APOYA EN LA MUERTE Y EN LA RESURRECCIÓN DE CRISTO: “El cual fue
 
 entregado por nuestras transgresiones, y resucitado para nuestra
 
-justificacin.
+justificación”.
 
 Observen, entonces, que
 
-una fe que slo se ocupa de la narracin histrica de la vida de Cristo
+una fe que sólo se ocupa de la narración histórica de la vida de Cristo
 
-no los salvar.
+no los salvará.
 
 Si creen que hubo una persona como Jesucristo, aun si
 
 creyeran que fue Dios y hombre, si creyeran todo lo que Mateo, y Marcos, y
 
-Lucas y Juan escribieron, as como tambin lo que dicen todas las Epstolas,
+Lucas y Juan escribieron, así como también lo que dicen todas las Epístolas,
 
-empero, si creyeran sto slo en el sentido de que son verdades histricas, no
+empero, si creyeran ésto sólo en el sentido de que son verdades históricas, no
 
-habran alcanzado todava la fe salvadora; deben ir ms all de eso si han de
+habrían alcanzado todavía la fe salvadora; deben ir más allá de eso si han de
 
 poseer la fe mencionada en nuestro texto.
 
-Noten, a continuacin, que
+Noten, a continuación, que
 
 una fe en la belleza de la vida de Cristo no ha de salvarlos.
 
-ltimamente
+Últimamente
 
-ha surgido un grupo de infieles de un carcter muy superior al de aquellos
+ha surgido un grupo de infieles de un carácter muy superior al de aquellos
 
 infieles de los tiempos antiguos, en algunos sentidos. En vez de ultrajar a la
 
-religin cristiana, han escrito vidas de Cristo, y han derramado todo tipo de
+religión cristiana, han escrito vidas de Cristo, y han derramado todo tipo de
 
-loas sobre el carcter maravilloso y encantador del hombre Cristo Jess. Ahora,
+loas sobre el carácter maravilloso y encantador del hombre Cristo Jesús. Ahora,
 
-fjense bien, yo creo que a Cristo no le gusta ms esa alabanza de ellos que
+fíjense bien, yo creo que a Cristo no le gusta más esa alabanza de ellos que
 
-las blasfemias de aquellos que les precedieron, porque si Jess de Nazaret no
+las blasfemias de aquellos que les precedieron, porque si Jesús de Nazaret no
 
 era el Hijo de Dios, si realmente no era Dios, el Hijo, no pudo haber sido un
 
-buen hombre. Su carcter moral, aunque admirable en muchos sentidos, se habra
+buen hombre. Su carácter moral, aunque admirable en muchos sentidos, se habría
 
-visto daado por el hecho de haber permitido ser adorado, y por haber hablado
+visto dańado por el hecho de haber permitido ser adorado, y por haber hablado
 
-de S mismo de tal modo que millones de personas como nosotros creemos que
+de Sí mismo de tal modo que millones de personas como nosotros creemos que
 
-verdaderamente es Dios; y sabiendo y viendo por anticipado, como un hombre as
+verdaderamente es Dios; y sabiendo y viendo por anticipado, como un hombre así
 
-debi haberlo hecho, que sto sera el resultado de Su enseanza, hubiera sido
+debió haberlo hecho, que ésto sería el resultado de Su enseńanza, hubiera sido
 
 un vil impostor si realmente no fuera Dios verdadero de Dios verdadero.
 
-Por tanto, aunque t creas que el carcter de
+Por tanto, aunque tú creas que el carácter de
 
-Cristo es hermoso, pero no crees tambin que l es el Hijo de Dios, todava no
+Cristo es hermoso, pero no crees también que Él es el Hijo de Dios, todavía no
 
-vas por el camino indicado, no posees la fe de los elegidos de Dios; t tendras
+vas por el camino indicado, no posees la fe de los elegidos de Dios; tú tendrías
 
 que ir por otro camino y no por el que vas, si quieres llegar al final al
 
-cielo, donde l est.
+cielo, donde Él está.
 
 Hay algunas personas que no creen
 
@@ -640,27 +640,27 @@ verdaderamente, aunque tengan
 
 fe en la
 
-veracidad de la enseanza de Cristo.
+veracidad de la enseńanza de Cristo.
 
-S dicen- l es un Maestro
+“Sí” –dicen- “Él es un Maestro
 
-maravilloso, y todo lo que ense es verdad; pero, luego, no creen eso en la
+maravilloso, y todo lo que enseńó es verdad”; pero, luego, no creen eso en la
 
-prctica. Ellos aceptan simplemente la doctrina, y no al Dios, al Cristo que
+práctica. Ellos aceptan simplemente la doctrina, y no al Dios, al Cristo que
 
 les dio la doctrina. Ejercitan simplemente su cerebro intelectualmente, pero no
 
-confan en l espiritualmente, con su corazn. No confan en Dios, que resucit
+confían en Él espiritualmente, con su corazón. No confían en Dios, que resucitó
 
-a Cristo de los muertos. De hecho, despus de todo, no construyen sobre las dos
+a Cristo de los muertos. De hecho, después de todo, no construyen sobre las dos
 
 principales piedras de cimiento de la fe salvadora, es decir, la muerte y la
 
-resurreccin de nuestro Seor Jesucristo.
+resurrección de nuestro Seńor Jesucristo.
 
-Me aventuro a decir tambin que ustedes podran
+Me aventuro a decir también que ustedes podrían
 
-tener la ms ortodoxa
+tener la más ortodoxa
 
 fe en la Deidad de
 
@@ -668,63 +668,63 @@ Cristo,
 
 y
 
-creer en Jess como su
+creer en Jesús como su
 
-Seor;
+Seńor;
 
-pero si eso es todo lo que creen, no han obtenido todava la
+pero si eso es todo lo que creen, no han obtenido todavía la
 
-salvacin. La fe que salva se centra en l, el cual fue entregado por nuestras
+salvación. La fe que salva se centra en Él, “el cual fue entregado por nuestras
 
-transgresiones, y resucitado para nuestra justificacin. Si t quieres ser
+transgresiones, y resucitado para nuestra justificación”. Si tú quieres ser
 
 salvado, fija tus ojos en los sufrimientos del Hijo de Dios.
 
-Mira, alma
+“Mira, alma
 
-ma, a tu Salvador mira,
+mía, a tu Salvador mira,
 
 Postrado en
 
-Getseman.
+Getsemaní”.
 
-Yo s que una mirada a Su vida te har bien,
+Yo sé que una mirada a Su vida te hará bien,
 
-pues ser un ejemplo para ti; pero no se te pide que mires a Su vida para tu
+pues será un ejemplo para ti; pero no se te pide que mires a Su vida para tu
 
-salvacin. Tus ojos han de posarse en l como entregado por tus ofensas. Has de
+salvación. Tus ojos han de posarse en Él como entregado por tus ofensas. Has de
 
-verle siendo acusado por el pecado, aunque en l no hubo pecado. Has de verle
+verle siendo acusado por el pecado, aunque en Él no hubo pecado. Has de verle
 
 siendo hecho pecado por tu causa, como tu Sustituto, estando en tu lugar, y
 
-sufriendo en tu posicin, siendo entregado por tus ofensas. Si puedes ver sto,
+sufriendo en tu posición, siendo entregado por tus ofensas. Si puedes ver ésto,
 
-entonces t tienes tus ojos fijos sobre aquello que te salvar, que es: ver al
+entonces tú tienes tus ojos fijos sobre aquello que te salvará, que es: ver al
 
-Padre poner tu pecado sobre el Hijo, hacer que sea expiado por l, ver al Padre
+Padre poner tu pecado sobre el Hijo, hacer que sea expiado por Él, ver al Padre
 
-herir al Hijo como si fuera no slo un pecador, sino todos los pecadores del
+herir al Hijo como si fuera no sólo un pecador, sino todos los pecadores del
 
-mundo congregados en uno, hasta hacer que el Hijo clame: Dios mo, Dios mo,
+mundo congregados en uno, hasta hacer que el Hijo clame: “Dios mío, Dios mío,
 
-por qu me has desamparado? El cual fue entregado por nuestras
+żpor qué me has desamparado?” “El cual fue entregado por nuestras
 
-transgresiones, all radica su nica esperanza. Si no quieren recibir a Cristo
+transgresiones”, allí radica su única esperanza. Si no quieren recibir a Cristo
 
 como su Sustituto, muriendo en el lugar de ustedes, no conozco ninguna otra
 
-puerta de salvacin para ustedes; pero si lo reciben, tal como Dios lo entrega,
+puerta de salvación para ustedes; pero si lo reciben, tal como Dios lo entrega,
 
 no para la justicia de ustedes, sino por sus pecados, para soportar por ustedes
 
-lo que ustedes deban soportar, y pagar por ustedes lo que ustedes nunca
+lo que ustedes debían soportar, y pagar por ustedes lo que ustedes nunca
 
-habran podido pagar, entonces han recibido a Cristo de la manera correcta.
+habrían podido pagar, entonces han recibido a Cristo de la manera correcta.
 
-Pero tambin deben creer en l como siendo
+Pero también deben creer en Él como siendo
 
-resucitado de los muertos. l, efectivamente, resucit de los muertos, y vive siempre
+resucitado de los muertos. Él, efectivamente, resucitó de los muertos, y vive siempre
 
 para interceder por nosotros; y es bajo ese aspecto que ustedes tienen que ser
 
@@ -732,299 +732,299 @@ justificados, limpiados por un agonizante Salvador, vestidos por un Salvador
 
 resucitado, limpiados de su iniquidad por Su sangre preciosa, resucitados en la
 
-aceptacin del Padre por Su vida sempiterna cuando resucit de los muertos y
+aceptación del Padre por Su vida sempiterna cuando resucitó de los muertos y
 
-llev cautiva la cautividad, y dio dones a los hombres, s, incluso a los
+llevó cautiva la cautividad, y dio dones a los hombres, sí, incluso a los
 
 rebeldes.
 
-He aqu, entonces, las columnas Jaqun y Boaz,
+He aquí, entonces, las columnas Jaquín y Boaz,
 
-las dos monumentales columnas que sostienen el templo de nuestra salvacin.
+las dos monumentales columnas que sostienen el templo de nuestra salvación.
 
 Entre estas dos grandes verdades: la muerte de Cristo por nosotros y la
 
-resurreccin de Cristo por nosotros, yace el camino del Rey hacia la vida
+resurrección de Cristo por nosotros, yace el camino del Rey hacia la vida
 
-eterna, y no existe ningn otro camino para la salvacin.
+eterna, y no existe ningún otro camino para la salvación.
 
 IV.
 
 Concluyo con el cuarto punto: que NUESTRA FE
 
-DEBERA APRENDER A VER LA CLARA RELACIN DE CADA OBRA DE CRISTO CON SU FIN: El
+DEBERÍA APRENDER A VER LA CLARA RELACIÓN DE CADA OBRA DE CRISTO CON SU FIN: “El
 
 cual fue entregado por nuestras transgresiones, y resucitado para nuestra
 
-justificacin. Al principio, basta que un pobre pecador confe en Cristo, y
+justificación”. Al principio, basta que un pobre pecador confíe en Cristo, y
 
-que no haga nada ms; pero, para nuestro consuelo y edificacin, nos conviene
+que no haga nada más; pero, para nuestro consuelo y edificación, nos conviene
 
 aprender a distinguir las bendiciones que fluyen de ciertas fuentes divinas, y
 
-tomar los diversos senderos del gran Rey para ver qu encontramos en este
+tomar los diversos senderos del gran Rey para ver qué encontramos en este
 
-sendero y qu encontramos en aquel otro sendero.
+sendero y qué encontramos en aquel otro sendero.
 
 Primero, entonces, queridos amigos,
 
-nuestro perdn nos viene de la muerte de
+nuestro perdón nos viene de la muerte de
 
 Cristo:
 
-El cual fue entregado por nuestras transgresiones. No hay perdn
+“El cual fue entregado por nuestras transgresiones”. No hay perdón
 
-de pecado si Cristo no es entregado por nuestras ofensas. ltimamente, he odo
+de pecado si Cristo no es entregado por nuestras ofensas. Últimamente, he oído
 
-cosas que no haba soado or antes, alegadas incluso por ministros que
+cosas que no había sońado oír antes, alegadas incluso por ministros que
 
 profesan ser cristianos, en contra de las doctrinas fundamentales de la Palabra
 
-de Dios; y algunos se han atrevido a decir que la sustitucin de Cristo, Su
+de Dios; y algunos se han atrevido a decir que la sustitución de Cristo, Su
 
 sufrimiento en lugar nuestro, no fue justa. Han agregado que Dios perdona el
 
-pecado sin ninguna propiciacin de ningn tipo; pero, si la primera afirmacin
+pecado sin ninguna propiciación de ningún tipo; pero, si la primera afirmación
 
-no es justa, qu dir de la segunda? Si Dios perdona continuamente el pecado
+no es justa, żqué diré de la segunda? Si Dios perdona continuamente el pecado
 
-sin tener ningn cuidado de Su gobierno moral, si no se hace nada para la
+sin tener ningún cuidado de Su gobierno moral, si no se hace nada para la
 
-vindicacin de Su justicia, cmo hara lo justo el Juez de toda la tierra?
+vindicación de Su justicia, żcómo haría lo justo el Juez de toda la tierra?
 
-Entonces, los propios cimientos del universo seran suprimidos, y qu haran
+Entonces, los propios cimientos del universo serían suprimidos, y żqué harían
 
 los justos?
 
-Pueden estar muy seguros de sto: que sin
+Pueden estar muy seguros de ésto: que sin
 
-importar lo que diga la moderna filosofa, Sin derramamiento de sangre no se
+importar lo que diga la moderna filosofía, “Sin derramamiento de sangre no se
 
-hace remisin de los pecados, es decir, sin una expiacin, y una expiacin
+hace remisión de los pecados”, es decir, sin una expiación, y una expiación
 
 consistente en la entrega de una vida de infinito valor, no se puede pasar por
 
-alto la transgresin humana.
+alto la transgresión humana.
 
-Pero, cmo es que la muerte del Seor
+Pero, żcómo es que la muerte del Seńor
 
-Jesucristo est disponible para el perdn del pecado? Yo respondo, primero, que
+Jesucristo está disponible para el perdón del pecado? Yo respondo, primero, que
 
-es en parte por la majestad de Su persona. Siendo Dios, cuando asumi nuestra
+es en parte por la majestad de Su persona. Siendo Dios, cuando asumió nuestra
 
-naturaleza y se hizo Dios y hombre, tena en Su adorable y compleja persona una
+naturaleza y se hizo Dios y hombre, tenía en Su adorable y compleja persona una
 
-divinidad y una majestad completamente indescriptibles; y que l muriera fue un
+divinidad y una majestad completamente indescriptibles; y que Él muriera fue un
 
 mayor honor para la severa justicia de Dios, que si toda la masa de hombres
 
-rebeldes fuera arrojada en el infierno. Hubo tal vindicacin de la justicia
+rebeldes fuera arrojada en el infierno. Hubo tal vindicación de la justicia
 
 divina en el hecho de que Cristo fuera clavado al madero, que no es concebible
 
-que ninguna otra cosa hubiera podido establecer jams los cimientos de la
+que ninguna otra cosa hubiera podido establecer jamás los cimientos de la
 
 moralidad y de la justicia.
 
-Oh, seores, Cristo es infinitamente mejor que
+ˇOh, seńores, Cristo es infinitamente mejor que
 
-todos nosotros considerados juntos! Como Hijo de Dios, y Dios el Hijo, l es
+todos nosotros considerados juntos! Como Hijo de Dios, y Dios el Hijo, Él es
 
 mayor que todo el resto de los hombres a lo largo de todas las edades, y
 
-tambin es mayor que todos los santos ngeles; y si l debe sufrir, si l debe
+también es mayor que todos los santos ángeles; y si Él debe sufrir, si Él debe
 
-morir cuando el pecado slo le es imputado, y no es realmente Suyo, entonces
+morir cuando el pecado sólo le es imputado, y no es realmente Suyo, entonces
 
-Dios es verdaderamente justo al tomar venganza sobre Su Unignito Hijo cuando
+Dios es verdaderamente justo al tomar venganza sobre Su Unigénito Hijo cuando
 
 ocupa el lugar del pecador.
 
-La siguiente razn por la que la muerte de
+La siguiente razón por la que la muerte de
 
 Cristo por nosotros fue tan eficaz, se encuentra en la libertad de Su propia
 
-condicin. Como Dios, l no estaba obligado a someterse a la ley; en verdad,
+condición. Como Dios, Él no estaba obligado a someterse a la ley; en verdad,
 
-debe de haber parecido inconcebible que lo hiciera una vez. Yo no podra hacer
+debe de haber parecido inconcebible que lo hiciera una vez. Yo no podría hacer
 
-una expiacin por ustedes, porque cualquier cosa que yo hiciera para Dios, ya
+una expiación por ustedes, porque cualquier cosa que yo hiciera para Dios, ya
 
-era una deuda ma para con Dios. Si diera todo lo que poseo, no podra pagar mi
+era una deuda mía para con Dios. Si diera todo lo que poseo, no podría pagar mi
 
-propia deuda; entonces, ciertamente, no podra pagar la deuda de ustedes. Pero
+propia deuda; entonces, ciertamente, no podría pagar la deuda de ustedes. Pero
 
-nuestro Seor Jesucristo no le deba nada a la ley de Dios; no era posible que
+nuestro Seńor Jesucristo no le debía nada a la ley de Dios; no era posible que
 
-l estuviera personalmente endeudado con ella; y, por tanto, todo lo que l hizo
+Él estuviera personalmente endeudado con ella; y, por tanto, todo lo que Él hizo
 
-fue, por decirlo as, un excedente que puso a la cuenta de los seres culpables
+fue, por decirlo así, un excedente que puso a la cuenta de los seres culpables
 
-de quienes se convirti en el Sustituto.
+de quienes se convirtió en el Sustituto.
 
-La excelencia de Su expiacin radica tambin en
+La excelencia de Su expiación radica también en
 
-la absoluta perfeccin de Su carcter. l era el Cordero de Dios, sin culpa ni
+la absoluta perfección de Su carácter. Él era el Cordero de Dios, sin culpa ni
 
-mancha. No hay nada que sobre en l, y no hay nada que falte; y un carcter
+mancha. No hay nada que sobre en Él, y no hay nada que falte; y un carácter
 
-como el Suyo le daba el derecho cuando lleg a sufrir- a decir que no sufra
+como el Suyo le daba el derecho –cuando llegó a sufrir- a decir que no sufría
 
-por Su propia causa. El Mesas entreg Su vida, y le fue quitada, Mas no por
+por Su propia causa. El Mesías entregó Su vida, y le fue quitada, “Mas no por
 
-s, puesto que no tena pecado, y no estaba bajo ninguna obligacin para con
+sí”, puesto que no tenía pecado, y no estaba bajo ninguna obligación para con
 
 la ley.
 
-Y adems, ser cabeza de Su pueblo le puso en una
+Y además, ser cabeza de Su pueblo le puso en una
 
-posicin en la que apropiadamente poda convertirse en un sufriente en lugar
+posición en la que apropiadamente podía convertirse en un sufriente en lugar
 
-nuestro. Miren ustedes, seores, que la primera causa de su cada no radic en
+nuestro. Miren ustedes, seńores, que la primera causa de su caída no radicó en
 
-ustedes. Su padre, Adn, pec hace mucho tiempo, y ustedes cayeron en Adn.
+ustedes. Su padre, Adán, pecó hace mucho tiempo, y ustedes cayeron en Adán.
 
-Culpan a Dios por ese arreglo, y comienzan a ponerle objeciones? He aqu la
+żCulpan a Dios por ese arreglo, y comienzan a ponerle objeciones? ˇHe aquí la
 
 puerta de esperanza que hay para ustedes en este hecho! Debido a que cayeron a
 
-travs de un representante, pueden ser restaurados por otro representante.
+través de un representante, pueden ser restaurados por otro representante.
 
-Cuando los ngeles cayeron, yo supongo que
+Cuando los ángeles cayeron, yo supongo que
 
-pecaron separadamente, y que no tenan una cabeza federal, como la que tuvimos
+pecaron separadamente, y que no tenían una cabeza federal, como la que tuvimos
 
-nosotros. Ellos transgredieron, cada espritu individual por s mismo; y por
+nosotros. Ellos transgredieron, cada espíritu individual por sí mismo; y por
 
 tanto, cayeron eterna e irremediablemente, y ninguno de ellos puede ser
 
 levantado de nuevo.
 
-Pero nuestra cada, felizmente para nosotros, fue
+Pero nuestra caída, felizmente para nosotros, fue
 
-en nuestra cabeza del pacto: Adn. Hay solidaridad de la raza; Adn fue su
+en nuestra cabeza del pacto: Adán. Hay solidaridad de la raza; Adán fue su
 
-cabeza, y cuando l pec, nosotros camos en l. Como nuestra cada fue de esa
+cabeza, y cuando él pecó, nosotros caímos en él. Como nuestra caída fue de esa
 
-manera, es reparable por medio del plan divino de la intervencin de otra
+manera, es reparable por medio del plan divino de la intervención de otra
 
-Cabeza, que guard la ley por nosotros y sufri el castigo de esa ley en
+Cabeza, que guardó la ley por nosotros y sufrió el castigo de esa ley en
 
-nuestro lugar y condicin, para que por ese medio pudiramos ser restaurados.
+nuestro lugar y condición, para que por ese medio pudiéramos ser restaurados.
 
-Oh, hermanos y hermanas, yo deseara que
+ˇOh, hermanos y hermanas, yo desearía que
 
 ustedes sintieran tanto gozo y deleite como los que siento por esta maravillosa
 
 doctrina de Cristo entregado por nuestras ofensas! Yo me retiro a dormir por
 
-las noches pensando en eso. S dicen- te hace dormir. En efecto, y me
+las noches pensando en eso. “Sí” –dicen- “te hace dormir”. En efecto, y me
 
-despierto en la maana con lo mismo, y me mantiene alerta durante todo el da
+despierto en la mańana con lo mismo, y me mantiene alerta durante todo el día
 
-con una tesonera resolucin de servir a mi Dios y Seor mientras pueda, venga
+con una tesonera resolución de servir a mi Dios y Seńor mientras pueda, venga
 
-lo que venga. Esta verdad es muy tranquilizadora para el corazn y a la vez es
+lo que venga. Esta verdad es muy tranquilizadora para el corazón y a la vez es
 
-estimulante en grado sumo. Crean en ella, y encontrarn descanso para su alma,
+estimulante en grado sumo. Crean en ella, y encontrarán descanso para su alma,
 
-y tambin se vern motivados a servir a su Dios mientras todava se diga: hoy.
+y también se verán motivados a servir a su Dios mientras todavía se diga: hoy.
 
-Pero encuentro, a continuacin, que se nos dice
+Pero encuentro, a continuación, que se nos dice
 
-que habiendo sido salvados as del pecado por la muerte de Cristo,
+que habiendo sido salvados así del pecado por la muerte de Cristo,
 
-somos justificados por Su resurreccin:
+somos justificados por Su resurrección:
 
-El
+“El
 
-cual fue resucitado para nuestra justificacin. Qu quiere decir esto?
+cual fue resucitado para nuestra justificación”. żQué quiere decir esto?
 
 Yo les digo algunas veces que Jesucristo fue
 
-puesto en la prisin del sepulcro como un Rehn por causa nuestra. l haba
+puesto en la prisión del sepulcro como un Rehén por causa nuestra. Él había
 
-pagado nuestra deuda pero deba esperar en el sepulcro hasta que el certificado
+pagado nuestra deuda pero debía esperar en el sepulcro hasta que el certificado
 
-que haca constar que la deuda fue pagada, fuera registrado en la corte del
+que hacía constar que la deuda fue pagada, fuera registrado en la corte del
 
-cielo. Habiendo sido cumplido eso durante tres das y noches as descritos
+cielo. Habiendo sido cumplido eso durante tres días y noches –así descritos
 
-aproximadamente, pero siendo muy breves todos ellos- descendi el refulgente
+aproximadamente, pero siendo muy breves todos ellos- descendió el refulgente
 
-mensajero del cielo, llevando el escrito y la orden judicial de que el Rehn
+mensajero del cielo, llevando el escrito y la orden judicial de que el Rehén
 
-deba salir libre, pues la deuda haba sido pagada y toda la obligacin haba
+debía salir libre, pues la deuda había sido pagada y toda la obligación había
 
-sido solventada. Entonces la piedra fue rodada, y cuando el ngel la hubo
+sido solventada. Entonces la piedra fue rodada, y cuando el ángel la hubo
 
-rodado, qu hizo? Fue y se sent sobre ella. Siempre me ha parecido que cuando
+rodado, żqué hizo? Fue y se sentó sobre ella. Siempre me ha parecido que cuando
 
-el ngel se sent all, daba la impresin de decir: Ahora, infierno y muerte,
+el ángel se sentó allí, daba la impresión de decir: “Ahora, infierno y muerte,
 
-rueden de regreso la piedra, si pueden; pero no pudieron. Los guardas huyeron
+rueden de regreso la piedra, si pueden”; pero no pudieron. Los guardas huyeron
 
-y Jesucristo mismo sali a una vida nueva; y ahora tanto el pecador como su
+y Jesucristo mismo salió a una vida nueva; y ahora tanto el pecador como su
 
-Sustituto han sido absueltos, los cautivos y el Rehn han sido puestos en
+Sustituto han sido absueltos, los cautivos y el Rehén han sido puestos en
 
-libertad, el que deba la deuda es exonerado por su Sustituto, y el Sustituto
+libertad, el que debía la deuda es exonerado por su Sustituto, y el Sustituto
 
-mismo es absuelto, pues ha pagado todo lo que la justicia infinita poda exigir,
+mismo es absuelto, pues ha pagado todo lo que la justicia infinita podía exigir,
 
-y ha recibido un completo certificado de exoneracin. As es que sale de la vil
+y ha recibido un completo certificado de exoneración. Así es que sale de la vil
 
-reclusin habiendo resucitado de los muertos por la mano de Su Padre. Esa
+reclusión habiendo resucitado de los muertos por la mano de Su Padre. Esa
 
-resurreccin es su justificacin.
+resurrección es su justificación.
 
 Ahora, simplemente, contemplen este asunto de
 
 otra manera por un minuto. Supongan que Jesucristo no hubiera resucitado nunca,
 
-y yo les dijera que l realiz una propiciacin completa, y que muri por
+y yo les dijera que Él realizó una propiciación completa, y que murió por
 
-nuestros pecados, pero que todava est muerto y permanece en ese sepulcro;
+nuestros pecados, pero que todavía está muerto y permanece en ese sepulcro;
 
-vamos, si ustedes creyeran el mensaje, siempre se sentiran turbados! No
+vamos, si ustedes creyeran el mensaje, ˇsiempre se sentirían turbados! No
 
-podran sentir ninguna confianza en un Cristo muerto; ustedes diran: l ve
+podrían sentir ninguna confianza en un Cristo muerto; ustedes dirían: “Él ve
 
-corrupcin, pero el verdadero Cristo nunca haba de ver corrupcin. Est
+corrupción, pero el verdadero Cristo nunca había de ver corrupción. Está
 
-muerto; y qu puede hacer por nosotros un Cristo muerto?
+muerto; y żqué puede hacer por nosotros un Cristo muerto?”
 
 Amados, el Cristo moribundo ha comprado para
 
-nosotros nuestra justificacin, pero el Cristo resucitado ver que la
+nosotros nuestra justificación, pero el Cristo resucitado verá que la
 
-recibamos. El Cristo resucitado ha venido para traernos la justificacin y en
+recibamos. El Cristo resucitado ha venido para traernos la justificación y en
 
-sto confiamos.
+ésto confiamos.
 
-Oh, que todos ustedes confiaran en la obra
+ˇOh, que todos ustedes confiaran en la obra
 
-consumada de Jess sobre el madero, que es expuesta ante ustedes en todo su
+consumada de Jesús sobre el madero, que es expuesta ante ustedes en todo su
 
-brillo por Su resurreccin de los muertos! Junten las dos partes de nuestro
+brillo por Su resurrección de los muertos! Junten las dos partes de nuestro
 
-texto: El cual fue entregado por nuestras transgresiones, y resucitado para
+texto: “El cual fue entregado por nuestras transgresiones”, “y resucitado para
 
-nuestra justificacin. Necesitan ambas partes, confen en ambas; confen en el
+nuestra justificación”. Necesitan ambas partes, confíen en ambas; confíen en el
 
-Salvador que muri en la cruz, y confen en el Cristo que resucit, y que es
+Salvador que murió en la cruz, y confíen en el Cristo que resucitó, y que es
 
-ahora el Cristo viviente; confen, de hecho, en Cristo segn se revel a Juan
+ahora el Cristo viviente; confíen, de hecho, en Cristo según se reveló a Juan
 
-en Patmos: Yo soy el que vivo, y estuve muerto; mas he aqu que vivo por los
+en Patmos: “Yo soy el que vivo, y estuve muerto; mas he aquí que vivo por los
 
-siglos de los siglos, amn. Y tengo las llaves de la muerte y del Hades.
+siglos de los siglos, amén. Y tengo las llaves de la muerte y del Hades”.
 
-Seor Jess, como tal confiamos en Ti, como tal confiamos en Ti ahora, y somos
+ˇSeńor Jesús, como tal confiamos en Ti, como tal confiamos en Ti ahora, y somos
 
 salvos!
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Julio/2010
 

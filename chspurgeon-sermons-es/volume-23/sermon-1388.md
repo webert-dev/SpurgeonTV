@@ -1,14 +1,14 @@
 # Sermón 1388 | Sermón 1388
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Jesucristo Mismo
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -16,43 +16,43 @@ DOMINGO 9 DE
 
 DICIEMBRE, 1877
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Jesucristo mismo. Efesios 2: 20.
+“Jesucristo mismo”. Efesios 2: 20.
 
-Jesucristo mismo va a
+“Jesucristo mismo” va a
 
 ocupar todos nuestros pensamientos esta
 
-maana
+mańana
 
-. Qu
+. ˇQué
 
-ocano se abre ante m! Aqu hay superficie de maniobra para el barco ms
+océano se abre ante mí! ˇAquí hay superficie de maniobra para el barco más
 
-grande! En qu direccin he de orientar los pensamientos de ustedes? Tengo tal
+grande! żEn qué dirección he de orientar los pensamientos de ustedes? Tengo tal
 
-sobreabundancia de riquezas que no s por dnde comenzar, y una vez que
+sobreabundancia de riquezas que no sé por dónde comenzar, y una vez que
 
-comience, dnde voy a terminar? Definitivamente no tenemos que ir a ningn
+comience, żdónde voy a terminar? Definitivamente no tenemos que ir a ningún
 
-lado esta maana para buscar goces, pues tenemos un festn en casa. Las
+lado esta mańana para buscar goces, pues tenemos un festín en casa. Las
 
-palabras son exiguas, pero el significado es vasto: Jesucristo mismo.
+palabras son exiguas, pero el significado es vasto: “Jesucristo mismo”.
 
-Amados, la religin de
+Amados, la religión de
 
-nuestro Seor Jesucristo no contiene nada tan maravilloso como l mismo. Si
+nuestro Seńor Jesucristo no contiene nada tan maravilloso como Él mismo. Si
 
-bien es un cmulo de
+bien es un cúmulo de
 
 prodigios,
 
-l es
+Él es
 
-EL milagro de ella; el portento de portentos es El Admirable mismo. Si se nos
+EL milagro de ella; el portento de portentos es “El Admirable” mismo. Si se nos
 
 pidiese alguna
 
@@ -60,235 +60,235 @@ prueba
 
 de la verdad proclamada
 
-por l, sealaramos a Jesucristo mismo. Su carcter es excepcional. Desafiamos
+por Él, seńalaríamos a Jesucristo mismo. Su carácter es excepcional. Desafiamos
 
-a los incrdulos a que imaginen a otro como l. Es Dios y, con todo, es hombre,
+a los incrédulos a que imaginen a otro como Él. Es Dios y, con todo, es hombre,
 
-y los retamos a componer una narracin en la que esos dos elementos
+y los retamos a componer una narración en la que esos dos elementos
 
-aparentemente incongruentes, sean incorporados armoniosamente; una narracin en
+aparentemente incongruentes, sean incorporados armoniosamente; una narración en
 
 la que lo humano y lo divino sean portentosamente visibles sin que lo uno
 
-opaque a lo otro. Los incrdulos cuestionan la autenticidad de los cuatro
+opaque a lo otro. Los incrédulos cuestionan la autenticidad de los cuatro
 
-Evangelios. Querran intentar escribir un quinto evangelio? Querran siquiera
+Evangelios. żQuerrían intentar escribir un quinto evangelio? żQuerrían siquiera
 
 intentar agregar unos cuantos incidentes a Su vida que fueran dignos de la
 
-sagrada biografa y que fueran congruentes con los hechos que ya han sido
+sagrada biografía y que fueran congruentes con los hechos que ya han sido
 
-descritos? Si todo fuera una falsificacin, seran tan amables de mostrarnos
+descritos? Si todo fuera una falsificación, żserían tan amables de mostrarnos
 
-cmo realizarla? Querran encontrar a un novelista que escribiera otra
+cómo realizarla? żQuerrían encontrar a un novelista que escribiera otra
 
-biografa de un hombre del siglo que escogieran, de cualquier nacionalidad, de
+biografía de un hombre del siglo que escogieran, de cualquier nacionalidad, de
 
-cualquier grado de experiencia, de cualquier rango o posicin, para ver si
+cualquier grado de experiencia, de cualquier rango o posición, para ver si
 
-puede describir en esa vida imaginaria una devocin, una abnegacin, una veracidad
+puede describir en esa vida imaginaria una devoción, una abnegación, una veracidad
 
-y una integridad de carcter que fueran comparables a los de Jesucristo mismo?
+y una integridad de carácter que fueran comparables a los de Jesucristo mismo?
 
-Podran inventar otro carcter perfecto aun si se dejara fuera al elemento
+żPodrían inventar otro carácter perfecto aun si se dejara fuera al elemento
 
-divino? Necesariamente fracasaran, pues no hay nadie semejante a Jess mismo.
+divino? Necesariamente fracasarían, pues no hay nadie semejante a Jesús mismo.
 
-El carcter de Jess se
+El carácter de Jesús se
 
-ha labrado el respeto incluso de quienes han aborrecido su enseanza. Ha sido
+ha labrado el respeto incluso de quienes han aborrecido su enseńanza. Ha sido
 
 una piedra de tropiezo para todos los impugnadores que conserven alguna sombra
 
-de franqueza. Ellos dicen que podran refutar la doctrina de Jess. Se jactan
+de franqueza. Ellos dicen que podrían refutar la doctrina de Jesús. Se jactan
 
-de que podran mejorar Sus preceptos. Aseveran que Su sistema es estrecho y
+de que podrían mejorar Sus preceptos. Aseveran que Su sistema es estrecho y
 
-anticuado. Pero, en cuanto a l mismo, qu pueden hacer con l? Tienen que
+anticuado. Pero, en cuanto a Él mismo, żqué pueden hacer con Él? Tienen que
 
 admirarlo aun si no lo adoraran, y al hacerlo, admiran a un personaje que o
 
-bien es divino o bien permiti intencionalmente que Sus discpulos creyeran en
+bien es divino o bien permitió intencionalmente que Sus discípulos creyeran en
 
-una mentira. Cmo habrn de superar esta dificultad? No pueden hacerlo
+una mentira. żCómo habrán de superar esta dificultad? No pueden hacerlo
 
-recurriendo al vituperio contra l, pues no tienen material con que lanzar una
+recurriendo al vituperio contra Él, pues no tienen material con que lanzar una
 
-acusacin. Jesucristo mismo silencia sus frvolas objeciones. Esta es una lima
+acusación. Jesucristo mismo silencia sus frívolas objeciones. Esta es una lima
 
-que llega ser mordida por esos spides, pero cuando lo hacen se rompen sus
+que llega ser mordida por esos áspides, pero cuando lo hacen se rompen sus
 
-dientes. Ms all de todo argumento o milagro, Jesucristo mismo es la prueba de
+dientes. Más allá de todo argumento o milagro, Jesucristo mismo es la prueba de
 
 Su propio Evangelio.
 
-Y como l es su prueba,
+Y como Él es su prueba,
 
-entonces, amados, l es su
+entonces, amados, Él es su
 
-mdula
+médula
 
 y
 
-su esencia. Cuando el apstol Pablo quiso decir que se predicaba el Evangelio,
+su esencia. Cuando el apóstol Pablo quiso decir que se predicaba el Evangelio,
 
-coment: Cristo es anunciado, pues el Evangelio es Cristo mismo. Si quieren
+comentó: “Cristo es anunciado”, pues el Evangelio es Cristo mismo. Si quieren
 
-saber qu ense Jess, conzcanlo a l mismo. l es la encarnacin de esa
+saber qué enseńó Jesús, conózcanlo a Él mismo. Él es la encarnación de esa
 
-verdad que por l y en l es revelada a los hijos de los hombres. Acaso no
+verdad que por Él y en Él es revelada a los hijos de los hombres. żAcaso no
 
-dijo l mismo: Yo soy el camino, y la verdad, y la vida? No tienen que
+dijo Él mismo: Yo soy el camino, y la verdad, y la vida”? No tienen que
 
 investigar incontables tomos, ni tienen que estudiar escrupulosamente algunas
 
-misteriosas frases de doble significado para saber qu cosa ha revelado nuestro
+misteriosas frases de doble significado para saber qué cosa ha revelado nuestro
 
-grandioso Maestro; slo tienen que voltearse y contemplar Su rostro, observar
+grandioso Maestro; sólo tienen que voltearse y contemplar Su rostro, observar
 
-Sus acciones y ver Su espritu, y as pueden conocer Su enseanza. l vivi lo
+Sus acciones y ver Su espíritu, y así pueden conocer Su enseńanza. Él vivió lo
 
-que ense. Si deseamos conocerlo, podemos or su suave voz que dice: Ven y
+que enseńó. Si deseamos conocerlo, podemos oír su suave voz que dice: “Ven y
 
-ve. Estudien Sus heridas y entendern Su ms recndita filosofa. Conocerle,
+ve”. Estudien Sus heridas y entenderán Su más recóndita filosofía. “Conocerle,
 
-y el poder de su resurreccin es el grado ms excelso del aprendizaje
+y el poder de su resurrección” es el grado más excelso del aprendizaje
 
-espiritual. l es el fin de la ley y es el alma del Evangelio, y cuando hemos
+espiritual. Él es el fin de la ley y es el alma del Evangelio, y cuando hemos
 
-predicado de lleno Su palabra, podemos concluir diciendo: Ahora bien, el punto
+predicado de lleno Su palabra, podemos concluir diciendo: “Ahora bien, el punto
 
 principal de lo que venimos diciendo es que tenemos tal sumo sacerdote, el cual
 
-se sent a la diestra del trono de
+se sentó a la diestra del trono de
 
 la Majestad
 
-en los cielos.
+en los cielos”.
 
-Y l no es solo la
+Y Él no es solo la
 
 prueba y la sustancia de Su Evangelio, sino que es el
 
 poder
 
-y la fuerza a travs de los cuales se propaga. Cuando un
+y la fuerza a través de los cuales se propaga. Cuando un
 
-corazn es verdaderamente quebrantado por el pecado, l es quien lo venda. Es
+corazón es verdaderamente quebrantado por el pecado, Él es quien lo venda. Es
 
 Cristo, el poder de Dios, quien convierte al hombre. Si entramos en la paz y en
 
-la salvacin, es gracias a la misericordiosa manifestacin del propio Jess. Si
+la salvación, es gracias a la misericordiosa manifestación del propio Jesús. Si
 
 los hombres han amado entusiastamente el cristianismo, es porque antes que nada
 
-amaron a Cristo. Por l los apstoles trabajaron arduamente y por l fueron
+amaron a Cristo. Por Él los apóstoles trabajaron arduamente y por Él fueron
 
-valientes los confesores; por l los santos han sufrido la prdida de todas las
+valientes los confesores; por Él los santos han sufrido la pérdida de todas las
 
-cosas y por l han muerto los mrtires. Jesucristo mismo es El poder que crea
+cosas y por Él han muerto los mártires. “Jesucristo mismo” es El poder que crea
 
-una heroica consagracin. Los recuerdos suscitados por Su nombre tienen una
+una heroica consagración. Los recuerdos suscitados por Su nombre tienen una
 
-mayor influencia en los corazones de los hombres que todas las dems cosas en
+mayor influencia en los corazones de los hombres que todas las demás cosas en
 
 la tierra o en el cielo. El entusiasmo que es la vida misma de nuestra santa causa
 
-proviene de l mismo. Los que no conocen a Jess no conocen la vida de verdad,
+proviene de Él mismo. Los que no conocen a Jesús no conocen la vida de verdad,
 
-pero los que moran en l estn llenos de un poder que desborda de tal manera
+pero los que moran en Él están llenos de un poder que desborda de tal manera
 
-que de su interior brotan ros de agua viva.
+que de su interior brotan ríos de agua viva.
 
-Y no es slo eso,
+Y no es sólo eso,
 
-amados, pues el poder que propaga el Evangelio es Jess mismo. En el cielo
+amados, pues el poder que propaga el Evangelio es Jesús mismo. En el cielo
 
-intercede y gracias a eso viene Su reino. La voluntad de Jehov ser en su
+intercede y gracias a eso viene Su reino. “La voluntad de Jehová será en su
 
-mano prosperada. Desde el cielo gobierna todas las cosas y promueve el avance
+mano prosperada”. Desde el cielo gobierna todas las cosas y promueve el avance
 
 de la verdad. Todo poder le es dado en el cielo y en la tierra, y, por tanto,
 
 tenemos que proclamar Su palabra que da vida teniendo la plena seguridad del
 
-xito. l hace que la rueda de la providencia gire de tal manera que ayude a Su
+éxito. Él hace que la rueda de la providencia gire de tal manera que ayude a Su
 
-causa. l restringe el poder de los tiranos, sujeta el flagelo de la guerra,
+causa. Él restringe el poder de los tiranos, sujeta el flagelo de la guerra,
 
 establece la libertad en las naciones, abre los misterios de continentes por
 
-largo tiempo ignotos, quebranta los sistemas del error y gua la corriente del
+largo tiempo ignotos, quebranta los sistemas del error y guía la corriente del
 
-pensamiento humano. l hace uso de miles de instrumentos para preparar el
+pensamiento humano. Él hace uso de miles de instrumentos para preparar el
 
-camino del Seor. En breve vendr del cielo y cuando venga, cuando Cristo mismo
+camino del Seńor. En breve vendrá del cielo y cuando venga, cuando Cristo mismo
 
-ejerza toda Su fuerza, entonces el yermo se gozar y la soledad se alegrar. La
+ejerza toda Su fuerza, entonces el yermo se gozará y la soledad se alegrará. La
 
-fuerza de reserva del Evangelio es Cristo Jess mismo. El poder latente que al
+fuerza de reserva del Evangelio es Cristo Jesús mismo. El poder latente que al
 
-final romper todas las coyundas, y lograr un dominio universal, es la
+final romperá todas las coyundas, y logrará un dominio universal, es la
 
-energa, la vida y la omnipotencia de Jess mismo. l duerme en la barca ahora,
+energía, la vida y la omnipotencia de Jesús mismo. Él duerme en la barca ahora,
 
-pero habr una profunda calma una vez que se levante y reprenda a la tempestad.
+pero habrá una profunda calma una vez que se levante y reprenda a la tempestad.
 
-l se oculta por ahora en los palacios de marfil de la gloria, pero cuando sea
+Él se oculta por ahora en los palacios de marfil de la gloria, pero cuando sea
 
 manifestado en
 
-aquel da,
+aquel día,
 
 las ruedas
 
-de Su carro traern la victoria para Su iglesia militante.
+de Su carro traerán la victoria para Su iglesia militante.
 
-Si estas cosas son as,
+Si estas cosas son así,
 
-tengo ante m un tema inasequible. Me abstengo de la imposible tarea de
+tengo ante mí un tema inasequible. Me abstengo de la imposible tarea de
 
-captarlo, y slo voy a notar brevemente unos cuantos asuntos evidentes que
+captarlo, y sólo voy a notar brevemente unos cuantos asuntos evidentes que
 
-estn en la superficie del tema.
+están en la superficie del tema.
 
-Hermanos, Jesucristo
+Hermanos, “Jesucristo
 
-mismo debe ser siempre el pensamiento prominente en nuestras mentes como cristianos.
+mismo” debe ser siempre el pensamiento prominente en nuestras mentes como cristianos.
 
-Nuestra teologa debe estar enmarcada por el hecho de que l es el Centro y
+Nuestra teología debe estar enmarcada por el hecho de que Él es el Centro y
 
 la Cabeza
 
 de todo. Debemos
 
-recordar que en l estn escondidos todos los tesoros de la sabidura y del
+recordar que “en él están escondidos todos los tesoros de la sabiduría y del
 
-conocimiento. Algunos de nuestros hermanos estn primordialmente ocupados con
+conocimiento”. Algunos de nuestros hermanos están primordialmente ocupados con
 
 las doctrinas del Evangelio y son un poco amargos en su estrecha ortodoxia. Nosotros
 
-hemos de amar cada palabra de nuestro Seor Jess y de Sus apstoles, y hemos
+hemos de amar cada palabra de nuestro Seńor Jesús y de Sus apóstoles, y hemos
 
 de contender ardientemente por la fe que ha sido una vez dada a los santos,
 
-pero, con todo, es bueno sostener siempre la verdad en conexin con Jess y no como
+pero, con todo, es bueno sostener siempre la verdad en conexión con Jesús y no como
 
-si fuera en s misma la suma de todas las cosas. La verdad, aislada de la
+si fuera en sí misma la suma de todas las cosas. La verdad, aislada de la
 
-persona de Jess, se vuelve dura y fra. Nosotros conocemos a algunos en quienes
+persona de Jesús, se vuelve dura y fría. Nosotros conocemos a algunos en quienes
 
-la ms ligera variacin con respecto a su sistema despierta su indignacin, aun
+la más ligera variación con respecto a su sistema despierta su indignación, aun
 
-cuando admiten que el hermano est lleno del Espritu de Cristo. Para ellos lo
+cuando admiten que el hermano está lleno del Espíritu de Cristo. Para ellos lo
 
-nico es doctrina, doctrina, doctrina; para nosotros, as lo espero, es Cristo
+único es doctrina, doctrina, doctrina; para nosotros, así lo espero, es Cristo
 
 mismo. La verdadera doctrina es inapreciable para nosotros como un trono para
 
-nuestro Seor viviente, pero nuestro deleite supremo no est en el trono
+nuestro Seńor viviente, pero nuestro deleite supremo no está en el trono
 
-vacante, sino en la presencia del Rey en l. No me den Sus vestiduras, aunque
+vacante, sino en la presencia del Rey en él. No me den Sus vestiduras, aunque
 
 valoro cada uno de sus hilos, sino a la bendita Persona que
 
@@ -296,27 +296,27 @@ las
 
 usa
 
-, cuya sagrada energa hizo que incluso el borde del manto sanara a
+, cuya sagrada energía hizo que incluso el borde del manto sanara a
 
 su contacto.
 
 Otros hermanos nuestros
 
-se deleitan sin medida en lo que ellos llaman: una predicacin prctica, que
+se deleitan sin medida en lo que ellos llaman: una predicación práctica, que
 
-expone la vida interior del creyente, incluyendo la furia de la depravacin y
+expone la vida interior del creyente, incluyendo la furia de la depravación y
 
-el triunfo de la gracia; eso es bueno en su debida proporcin, de acuerdo a la
+el triunfo de la gracia; eso es bueno en su debida proporción, de acuerdo a la
 
-analoga de la fe; pero an as, Jess mismo debera ser ms conspicuo que
+analogía de la fe; pero aún así, Jesús mismo debería ser más conspicuo que
 
 nuestros cuerpos y que nuestros sentimientos, que nuestras dudas y que nuestros
 
-temores, que nuestras luchas y que nuestras victorias. Podramos ponernos a
+temores, que nuestras luchas y que nuestras victorias. Podríamos ponernos a
 
-estudiar a tal grado la accin de nuestros propios corazones que hay peligro
+estudiar a tal grado la acción de nuestros propios corazones que hay peligro
 
-que caigamos en el desaliento y en la desesperacin. Mirar a Jess es mejor
+que caigamos en el desaliento y en la desesperación. “Mirar a Jesús” es mejor
 
 que mirar a nuestro propio progreso; el autoexamen tiene sus usos necesarios,
 
@@ -330,69 +330,69 @@ individuos que admiran debidamente los preceptos del Evangelio, y nunca se
 
 sienten tan felices como cuando se enteran de que reciben su debido cumplimiento,
 
-como, en verdad, deberan recibirlo; pero, despus de todo, los mandamientos de
+como, en verdad, deberían recibirlo; pero, después de todo, los mandamientos de
 
-nuestro Seor no son nuestro Seor mismo, y derivan su valor para nosotros y su
+nuestro Seńor no son nuestro Seńor mismo, y derivan su valor para nosotros y su
 
 poder para que los obedezcamos del hecho de que son
 
 Sus
 
-palabras, y de que l dijo: Si me amis, guardad mis
+palabras, y de que Él dijo: “Si me amáis, guardad mis
 
-mandamientos. Nosotros conocemos la verdad de Su declaracin: El que me ama,
+mandamientos”. Nosotros conocemos la verdad de Su declaración: “El que me ama,
 
-mi palabra guardar, pero tiene que haber un amor personal para comenzar.
+mi palabra guardará”, pero tiene que haber un amor personal para comenzar.
 
 Hermanos, todos los
 
-beneficios de estas tres escuelas sern nuestros si vivimos en Jess mismo.
+beneficios de estas tres escuelas serán nuestros si vivimos en Jesús mismo.
 
-Cada una recoge una flor, pero nuestra divina planta de renombre tiene toda
+Cada una recoge una flor, pero nuestra divina “planta de renombre” tiene toda
 
 la belleza y toda la fragancia de todo lo que pudieran recoger, pero sin las
 
 espinas que son tan dadas a crecer en su peculiares rosas. Jesucristo mismo es
 
-para nosotros precepto, pues l es el camino; l es para nosotros doctrina,
+para nosotros precepto, pues Él es el camino; Él es para nosotros doctrina,
 
-pues l es la verdad; l es para nosotros experiencia, pues l es la vida.
+pues Él es la verdad; Él es para nosotros experiencia, pues Él es la vida.
 
-Convirtmoslo en la estrella polar de nuestra vida religiosa en todas las
+Convirtámoslo en la estrella polar de nuestra vida religiosa en todas las
 
-cosas. l ha de ser lo primero, lo ltimo y ha de estar ubicado tambin en el
+cosas. Él ha de ser lo primero, lo último y ha de estar ubicado también en el
 
-centro; s, digamos: l es toda mi salvacin y mi deseo. Y, con todo, les
+centro; sí, digamos: “Él es toda mi salvación y mi deseo”. Y, con todo, les
 
-suplico que no desdeen la doctrina, no vaya a ser que al viciar la doctrina resulten
+suplico que no desdeńen la doctrina, no vaya a ser que al viciar la doctrina resulten
 
-culpables de insultar a Jess mismo. Tratar con ligereza a la verdad es
+culpables de insultar a Jesús mismo. Tratar con ligereza a la verdad es
 
-despreciar a Jess como nuestro Profeta. Ni por un momento subestimen la
+despreciar a Jesús como nuestro Profeta. Ni por un momento subestimen la
 
 experiencia, no vaya a ser que al descuidar al hombre interior desprecien
 
-tambin a su propio Seor como su Sacerdote limpiador; y ni por un instante
+también a su propio Seńor como su Sacerdote limpiador; y ni por un instante
 
 olviden Sus mandamientos no vaya ser que si los quebrantan transgredan contra
 
-Jess mismo como su Rey. Debemos tratar con reverencia todas las cosas que
+Jesús mismo como su Rey. Debemos tratar con reverencia todas las cosas que
 
-tienen que ver con Su reino por causa de l mismo: Su libro, Su da, Su
+tienen que ver con Su reino por causa de Él mismo: Su libro, Su día, Su
 
 iglesia, Sus ordenanzas, todo eso ha de ser precioso para nosotros, porque
 
-tiene que ver con l; pero al frente de todo tiene que estar siempre
+tiene que ver con Él; pero al frente de todo tiene que estar siempre
 
-Jesucristo mismo, el Jess personal, viviente y amoroso; Cristo en nosotros,
+“Jesucristo mismo”, el Jesús personal, viviente y amoroso; Cristo en nosotros,
 
-la esperanza de gloria, Cristo, nuestra plena redencin para nosotros, Cristo
+la esperanza de gloria, Cristo, nuestra plena redención para nosotros, Cristo
 
-con nosotros, nuestro gua y nuestro solaz, y Cristo sobre nosotros,
+con nosotros, nuestro guía y nuestro solaz, y Cristo sobre nosotros,
 
 intercediendo y preparando nuestro lugar en el cielo. Jesucristo mismo es
 
-nuestro capitn, nuestra armadura, nuestra fortaleza y nuestra victoria.
+nuestro capitán, nuestra armadura, nuestra fortaleza y nuestra victoria.
 
 Nosotros inscribimos Su nombre en nuestro estandarte, pues es el terror del
 
@@ -402,27 +402,27 @@ nuestros corazones en lo recio del conflicto pues es nuestra coraza y nuestra
 
 cota de malla.
 
-Esta maana no me voy a
+Esta mańana no me voy a
 
 esforzar por decir nada que semeje un lenguaje hermoso, pues esforzarse por
 
-adornar al Ser Todo Codiciable sera una blasfemia. Colgar flores sobre la cruz
+adornar al Ser Todo Codiciable sería una blasfemia. Colgar flores sobre la cruz
 
-es ridculo, y esforzarse por adornar a Aquel cuya cabeza es como el oro ms
+es ridículo, y esforzarse por adornar a Aquel cuya cabeza es como el oro más
 
-fino y cuya persona es como marfil reluciente recubierto de zafiros, sera
+fino y cuya persona es como marfil reluciente recubierto de zafiros, sería
 
-profano. Slo les dir cosas sencillas en un sencillo lenguaje; con todo, estas
+profano. Sólo les diré cosas sencillas en un sencillo lenguaje; con todo, estas
 
-son las verdades de la revelacin que se cuentan entre las ms preciosas y las
+son las verdades de la revelación que se cuentan entre las más preciosas y las
 
-ms satisfactorias para el alma.
+más satisfactorias para el alma.
 
 I.
 
 Al
 
-respecto de Jesucristo mismo comenzamos por decir, primero, que Jess mismo es
+respecto de Jesucristo mismo comenzamos por decir, primero, que Jesús mismo es
 
 LA ESENCIA
 
@@ -432,185 +432,185 @@ SU PROPIA OBRA, y,
 
 por tanto,
 
-de muy buen grado deberamos
+de muy buen grado deberíamos
 
-confiar en l.
+confiar en Él.
 
-Jess mismo es el alma de Su propia salvacin. Cmo lo
+Jesús mismo es el alma de Su propia salvación. żCómo lo
 
-describe el apstol? El cual me am y se entreg
+describe el apóstol? “El cual me amó y se entregó
 
-a s mismo
+a sí mismo
 
-por m. Por nosotros l dej Su corona, Su trono y Sus
+por mí”. Por nosotros Él dejó Su corona, Su trono y Sus
 
-joyas en el cielo, pero eso no fue todo pues l se dio a S mismo. Dio Su vida
+joyas en el cielo, pero eso no fue todo pues Él se dio a Sí mismo. Dio Su vida
 
-en la tierra, renunci a todas las comodidades de la existencia y soport todas
+en la tierra, renunció a todas las comodidades de la existencia y soportó todas
 
-sus aflicciones. Dio Su cuerpo, Su agona y dio la sangre de Su corazn, pero
+sus aflicciones. Dio Su cuerpo, Su agonía y dio la sangre de Su corazón, pero
 
-el resumen de todo ello es que se entreg a S mismo por m. Cristo am a la
+el resumen de todo ello es que se entregó a Sí mismo por mí. “Cristo amó a la
 
-iglesia, y se entreg a s mismo por ella. Quien llev l mismo nuestros
+iglesia, y se entregó a sí mismo por ella”. “Quien llevó él mismo nuestros
 
-pecados en su cuerpo sobre el madero. Aqu no hay la intermediacin de ningn
+pecados en su cuerpo sobre el madero”. ˇAquí no hay la intermediación de ningún
 
-representante! No hay ningn sacrificio que tenga como lmite la propia
+representante! ˇNo hay ningún sacrificio que tenga como límite la propia
 
-persona! No hubo ningn lmite para el dolor de Jess como el que fue establecido
+persona! No hubo ningún límite para el dolor de Jesús como el que fue establecido
 
-para el sufrimiento de Job: Solamente no pongas tu mano sobre l, o Mas guarda
+para el sufrimiento de Job: “Solamente no pongas tu mano sobre él”, o “Mas guarda
 
-su vida. No, fue una entrega sin reservas, pues l se entreg a S mismo. A
+su vida”. No, fue una entrega sin reservas, pues Él se entregó a Sí mismo. “A
 
-otros salv, a s mismo no se puede salvar, porque l mismo era la propia
+otros salvó, a sí mismo no se puede salvar”, porque Él mismo era la propia
 
-esencia de Su propio sacrificio en favor nuestro. Debido a que l es lo que es,
+esencia de Su propio sacrificio en favor nuestro. Debido a que Él es lo que es,
 
-fue capaz de redimirnos: la dignidad de Su persona imparti eficacia a Su
+fue capaz de redimirnos: la dignidad de Su persona impartió eficacia a Su
 
-expiacin. l es divino, Dios sobre todas las cosas, bendito por los siglos, y
+expiación. Él es divino, Dios sobre todas las cosas, bendito por los siglos, y
 
-por tanto, un infinito poder se encuentra en l. l es humano y es perfecto en
+por tanto, un infinito poder se encuentra en Él. Él es humano y es perfecto en
 
 esa humanidad, y por tanto, es capaz de obediencia y sufrimiento en nombre y
 
-representacin del hombre. Puede salvarnos porque l es Emanuel: Dios con
+representación del hombre. Puede salvarnos porque Él es Emanuel: “Dios con
 
-nosotros. Aunque fuera concebible que un ngel hubiera podido sufrir las mismas
+nosotros”. Aunque fuera concebible que un ángel hubiera podido sufrir las mismas
 
-agonas y realizar las mismas labores, como nuestro Seor, con todo, no sera
+agonías y realizar las mismas labores, como nuestro Seńor, con todo, no sería
 
 concebible que se hubiera dado el mismo resultado. La preeminencia de Su
 
-persona dio peso a Su obra. Entonces, cuando vean la expiacin, piensen siempre
+persona dio peso a Su obra. Entonces, cuando vean la expiación, piensen siempre
 
-que Jess mismo es el alma de ella. En efecto, all radica la eficacia de Su
+que Jesús mismo es el alma de ella. En efecto, allí radica la eficacia de Su
 
-sacrificio. Por esa razn el apstol, en
+sacrificio. Por esa razón el apóstol, en
 
-la Epstola
+la Epístola
 
-a los Hebreos, habla de l como habiendo
+a los Hebreos, habla de Él como “habiendo
 
-efectuado la purificacin de nuestros pecados por medio de s mismo. Esta
+efectuado la purificación de nuestros pecados por medio de sí mismo”. Esta
 
-purificacin fue obrada por Su sacrificio, pero el sacrificio fue l mismo.
+purificación fue obrada por Su sacrificio, pero el sacrificio fue Él mismo.
 
-Pablo dice: ofrecindose a s mismo. l estuvo en el altar como un sacerdote
+Pablo dice: “ofreciéndose a sí mismo”. Él estuvo en el altar como un sacerdote
 
-que ofreca un sacrificio cruento, pero la ofrenda no era ni un novillo, ni un
+que ofrecía un sacrificio cruento, pero la ofrenda no era ni un novillo, ni un
 
-carnero, ni una trtola, sino que era l mismo. Pero ahora, en la consumacin
+carnero, ni una tórtola, sino que era Él mismo. “Pero ahora, en la consumación
 
-de los siglos, se present una vez para siempre por el sacrificio de s mismo
+de los siglos, se presentó una vez para siempre por el sacrificio de sí mismo
 
-para quitar de en medio el pecado. La nica razn por la que somos agradables
+para quitar de en medio el pecado”. La única razón por la que somos agradables
 
-a Dios se remonta a l, pues l es nuestra ofrenda de olor grato; y la nica
+a Dios se remonta a Él, pues Él es nuestra ofrenda de olor grato; y la única
 
-razn por la que nuestro pecado es quitado se encuentra en l, porque l es
+razón por la que nuestro pecado es quitado se encuentra en Él, porque Él es
 
 nuestra ofrenda por el pecado. La limpieza por medio de la sangre y el
 
-lavatorio por el agua son el resultado, no de la sangre y del agua en y por s
+lavatorio por el agua son el resultado, no de la sangre y del agua en y por sí
 
-solas y aparte de l, sino debido a que eran lo esencial de l mismo. Estoy
+solas y aparte de Él, sino debido a que eran lo esencial de Él mismo. Estoy
 
 persuadido de que pueden ver esto sin que me tenga que extender al respecto.
 
 Ahora, debido a eso,
 
-el Seor Jesucristo mismo es el objeto de
+el Seńor Jesucristo mismo es el objeto de
 
 nuestra fe.
 
-Acaso no es descrito as siempre en
+żAcaso no es descrito así siempre en
 
 la Escritura
 
-? Mirad a
+? “Mirad a
 
-m,
+mí,
 
-y sed salvos, todos los trminos de
+y sed salvos, todos los términos de
 
-la tierra. No es mirad a mi cruz, ni es mirad a mi vida, ni es mirad a mi
+la tierra”. No es “mirad a mi cruz”, ni es “mirad a mi vida”, ni es “mirad a mi
 
-muerte, ni mucho menos es mirad a mis sacramentos o a mis siervos, sino
+muerte”, ni mucho menos es “mirad a mis sacramentos o a mis siervos”, sino
 
-mirad a
+“mirad a
 
-m.
+mí”.
 
 De Sus labios resuenan
 
-las palabras: Venid
+las palabras: “Venid
 
-a m
+a mí
 
 todos los
 
-que estis trabajados y cargados, y yo os har descansar. De hecho, el lema de
+que estáis trabajados y cargados, y yo os haré descansar”. De hecho, el lema de
 
-la vida del cristiano es: Puestos los ojos en Jess, el autor y consumador de
+la vida del cristiano es: “Puestos los ojos en Jesús, el autor y consumador de
 
-la fe. Acaso no puedo seguir adelante y decir:
+la fe”. żAcaso no puedo seguir adelante y decir:
 
-cun sencilla y cun fcil y natural debera ser la fe a partir de
+cuán sencilla y cuán fácil y natural debería ser la fe a partir de
 
 ahora?
 
-Yo podra estar perplejo ante varias teoras de la expiacin, pero
+Yo podría estar perplejo ante varias teorías de la expiación, pero
 
-puedo creer en Jess mismo; yo podra vacilar frente a los diversos misterios
+puedo creer en Jesús mismo; yo podría vacilar frente a los diversos misterios
 
-que conciernen a la teologa y que doblegan incluso a verdaderos cerebros, pero
+que conciernen a la teología y que doblegan incluso a verdaderos cerebros, pero
 
-puedo confiar en Jess mismo. l es alguien en quien es difcil desconfiar: Su
+puedo confiar en Jesús mismo. Él es alguien en quien es difícil desconfiar: Su
 
 bondad, Su benignidad, y Su verdad invitan a nuestra confianza. Podemos confiar
 
-y en efecto confiamos en Jess mismo. Si me es propuesto como mi Salvador, y si
+y en efecto confiamos en Jesús mismo. Si me es propuesto como mi Salvador, y si
 
-lo que me salva es la fe en l, entonces me arrojo sin reservas a Sus amados
+lo que me salva es la fe en Él, entonces me arrojo sin reservas a Sus amados
 
-pies, y me siento seguro cuando me ve desde lo alto. No se puede dudar ms de
+pies, y me siento seguro cuando me ve desde lo alto. No se puede dudar más de
 
-Aquel que se desangr para que los pecadores pudieran ser salvados: Creo;
+Aquel que se desangró para que los pecadores pudieran ser salvados: “Creo;
 
-ayuda mi incredulidad. Ahora, yo quiero que ustedes, que han estado mirando a
+ayuda mi incredulidad”. Ahora, yo quiero que ustedes, que han estado mirando a
 
-su fe, miren a Jess mismo ms bien que a su pobre y dbil fe. Ahora yo les
+su fe, miren a Jesús mismo más bien que a su pobre y débil fe. Ahora yo les
 
 suplico a quienes hayan estado estudiando los resultados de la fe en ustedes
 
-mismos y que estn insatisfechos, que aparten su mirada de ustedes mismos y que
+mismos y que estén insatisfechos, que aparten su mirada de ustedes mismos y que
 
-miren a Jess mismo. Ahora, ustedes que no pueden entender esto y no pueden
+miren a Jesús mismo. Ahora, ustedes que no pueden entender esto y no pueden
 
 entender aquello, renuncien por lo pronto a querer entender, y vengan y miren a
 
-Jesucristo mismo: Para que el Dios de nuestro Seor Jesucristo, el Padre de
+Jesucristo mismo: “Para que el Dios de nuestro Seńor Jesucristo, el Padre de
 
-gloria, os d espritu de sabidura y de revelacin en el conocimiento de l. Que
+gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él”. Que
 
-el Seor nos conceda gracia para ver a Jesucristo mismo como todo en todo en el
+el Seńor nos conceda gracia para ver a Jesucristo mismo como todo en todo en el
 
-tema de nuestra salvacin, de tal manera que podamos tener tratos personales
+tema de nuestra salvación, de tal manera que podamos tener tratos personales
 
-con l, y que ya no pensemos en l como una simple idea, o como un personaje
+con Él, y que ya no pensemos en Él como una simple idea, o como un personaje
 
-histrico, sino como un Salvador personal que est en medio de nosotros y que
+histórico, sino como un Salvador personal que está en medio de nosotros y que
 
-nos invita a entrar en la paz a travs de l.
+nos invita a entrar en la paz a través de Él.
 
 II.
 
-Jesucristo
+“Jesucristo
 
-mismo es, como hemos dicho,
+mismo” es, como hemos dicho,
 
 LA SUSTANCIA
 
@@ -620,345 +620,345 @@ EVANGELIO,
 
 y, por
 
-tanto, cun atentamente deberamos estudiarlo.
+tanto, cuán atentamente deberíamos estudiarlo.
 
-l ense a Sus discpulos
+Él enseńó a Sus discípulos
 
-mientras estuvo aqu, y
+mientras estuvo aquí, y
 
-el propsito de
+el propósito de
 
-Su enseanza era que lo conocieran a l mismo,
+Su enseńanza era que lo conocieran a Él mismo,
 
-y que a travs Suyo
+y que a través Suyo
 
-conocieran al Padre. Los discpulos no aprendieron muy rpido, pero podemos
+conocieran al Padre. Los discípulos no aprendieron muy rápido, pero podemos
 
-apreciar qu es lo que quiso que aprendieran gracias a la observacin que le
+apreciar qué es lo que quiso que aprendieran gracias a la observación que le
 
-hizo a Felipe: Tanto tiempo hace que estoy con vosotros, y no
+hizo a Felipe: “żTanto tiempo hace que estoy con vosotros, y no
 
 me
 
-has conocido, Felipe? l quera que
+has conocido, Felipe?” Él quería que
 
-lo conocieran a l mismo; y cuando resucit de los muertos el mismo objetivo
+lo conocieran a Él mismo; y cuando resucitó de los muertos el mismo objetivo
 
-estaba ante l. Cuando viaj con los dos discpulos camino a Emas, haba una
+estaba ante Él. Cuando viajó con los dos discípulos camino a Emaús, había una
 
-amplia gama de temas de conversacin, pero l eligi el viejo tema, y
+amplia gama de temas de conversación, pero Él eligió el viejo tema, y
 
-comenzando desde Moiss, y siguiendo por todos los profetas, les declaraba en
+“comenzando desde Moisés, y siguiendo por todos los profetas, les declaraba en
 
-todas las Escrituras lo que de l decan. Ningn tpico era ni la mitad de importante
+todas las Escrituras lo que de él decían”. Ningún tópico era ni la mitad de importante
 
-o de til. Ningn simple humano puede venir a ensear acerca de s mismo, pero
+o de útil. Ningún simple humano puede venir a enseńar acerca de sí mismo, pero
 
-este divino Ser no puede tener nada mejor que revelar, pues l mismo, el Dios encarnado,
+este divino Ser no puede tener nada mejor que revelar, pues Él mismo, el Dios encarnado,
 
-es lo primordial de toda la verdad. Por esto nuestro Seor se preocup por ser
+es lo primordial de toda la verdad. Por esto nuestro Seńor se preocupó por ser
 
-conocido por Su pueblo, y, por ello una y otra vez leemos que Jess se
+conocido por Su pueblo, y, por ello una y otra vez leemos que “Jesús se
 
-manifestaba a sus discpulos. Sin importar qu otra cosa ignoren, es esencial
+manifestaba a sus discípulos”. Sin importar qué otra cosa ignoren, es esencial
 
-que los discpulos conozcan a su Seor. Tenemos que conocer Su naturaleza, Su
+que los discípulos conozcan a su Seńor. Tenemos que conocer Su naturaleza, Su
 
-carcter, Su mente, Su espritu, Su objetivo, Su poder, en una palabra, debemos
+carácter, Su mente, Su espíritu, Su objetivo, Su poder, en una palabra, debemos
 
-conocer a Jess mismo.
+conocer a Jesús mismo.
 
-Esta tambin, amados, es la obra del Espritu Santo.
+Esta también, amados, es la obra del Espíritu Santo.
 
-El
+“El
 
-me glorificar; porque tomar de lo mo, y os lo har saber. El Espritu Santo
+me glorificará; porque tomará de lo mío, y os lo hará saber”. El Espíritu Santo
 
-nos revela a Cristo y lo revela en nosotros. El Espritu Santo abre a la mente
+nos revela a Cristo y lo revela en nosotros. El Espíritu Santo abre a la mente
 
-y al entendimiento todas aquellas cosas que Cristo dijo mientras estuvo aqu, y
+y al entendimiento todas aquellas cosas que Cristo dijo mientras estuvo aquí, y
 
-as, gracias a que habla de Cristo en nuestro interior, contina la obra que
+así, gracias a que habla de Cristo en nuestro interior, continúa la obra que
 
-nuestro Seor comenz cuando estuvo aqu. El Consolador es el instructor y
+nuestro Seńor comenzó cuando estuvo aquí. El Consolador es el instructor y
 
-Jess es la leccin. Yo me atrevo a decir que ustedes anhelan conocer mil
+Jesús es la lección. Yo me atrevo a decir que ustedes anhelan conocer mil
 
-cosas, pero el punto principal del conocimiento deseable es Jess mismo. Esta fue
+cosas, pero el punto principal del conocimiento deseable es Jesús mismo. Esta fue
 
-Su enseanza y esta es la enseanza del Espritu Santo
+Su enseńanza y esta es la enseńanza del Espíritu Santo
 
-y este es el fin y el propsito de
+y este es el fin y el propósito de
 
 la Biblia.
 
-Moiss
+Moisés
 
-, Isaas, y todos los profetas hablaron de l, y las
+, Isaías, y todos los profetas hablaron de Él, y las
 
-cosas que estn registradas en este Libro fueron escritas para que crean que
+cosas que están registradas en este Libro fueron escritas para que crean que
 
-Jess es el Cristo, y para que creyendo, tengan vida en Su nombre. Este libro
+Jesús es el Cristo, y para que creyendo, tengan vida en Su nombre. Este libro
 
-es precioso, pero su principal valor radica en su revelacin de Jess mismo; es
+es precioso, pero su principal valor radica en su revelación de Jesús mismo; es
 
 el campo que esconde la perla de gran precio, es el estuche que encierra a la
 
-joya ms reluciente del cielo. Habramos perdido nuestro camino en
+joya más reluciente del cielo. Habríamos perdido nuestro camino en
 
 la Biblia
 
 si su rastro de seda
 
-carmes no nos llevara a la cmara central donde vemos a Jess mismo. Nunca
+carmesí no nos llevara a la cámara central donde vemos a Jesús mismo. Nunca
 
-habramos sido enseados verdaderamente por el Espritu Santo, y nos habramos
+habríamos sido enseńados verdaderamente por el Espíritu Santo, y nos habríamos
 
-perdido de la enseanza de la vida de Cristo si no llegramos a permanecer en
+perdido de la enseńanza de la vida de Cristo si no llegáramos a permanecer en
 
-Jess mismo. Conocerlo a l es nuestro principio de la sabidura y es nuestra
+Jesús mismo. Conocerlo a Él es nuestro principio de la sabiduría y es nuestra
 
-corona de la sabidura. Conocerlo a l es nuestra primera leccin en el
+corona de la sabiduría. Conocerlo a Él es nuestra primera lección en el
 
-banquillo de la penitencia y nuestro ltimo logro al entrar al cielo. Nuestra
+banquillo de la penitencia y nuestro último logro al entrar al cielo. Nuestra
 
-ambicin es que podamos conocer el amor de Cristo que excede a todo
+ambición es que podamos conocer el amor de Cristo que excede a todo
 
-conocimiento. Aqu tenemos el estudio de toda una vida, y tenemos a buenos
+conocimiento. Aquí tenemos el estudio de toda una vida, y tenemos a buenos
 
-colegas en l, pues estas son cosas en las cuales anhelan mirar los ngeles. Que
+colegas en él, pues estas son cosas en las cuales anhelan mirar los ángeles. ‘Que
 
-el Seor alumbre los ojos de vuestro entendimiento, para que sepis cul es la
+el Seńor alumbre los ojos de vuestro entendimiento, para que sepáis cuál es la
 
-esperanza a que l os ha llamado, y cules las riquezas de la gloria de su
+esperanza a que él os ha llamado, y cuáles las riquezas de la gloria de su
 
-herencia en los santos.
+herencia en los santos’.
 
 Amados, debido a que
 
-Jess es el compendio del Evangelio,
+Jesús es el compendio del Evangelio,
 
-l debe
+Él debe
 
 ser nuestro tema constante.
 
-Lejos est de m gloriarme, sino en la cruz de
+“Lejos esté de mí gloriarme, sino en la cruz de
 
-nuestro Seor Jesucristo. Me propuse no saber entre vosotros cosa alguna sino
+nuestro Seńor Jesucristo”. “Me propuse no saber entre vosotros cosa alguna sino
 
-a Jesucristo, y a ste crucificado. As hablaban los hombres de antes, y lo
+a Jesucristo, y a éste crucificado”. Así hablaban los hombres de antes, y lo
 
-mismo decimos nosotros. Cuando dejemos de predicar a Cristo sera mejor que
+mismo decimos nosotros. Cuando dejemos de predicar a Cristo sería mejor que
 
-dejramos de predicar del todo; cuando dejen de predicar a Jesucristo mismo en
+dejáramos de predicar del todo; cuando dejen de predicar a Jesucristo mismo en
 
 sus clases, renuncien a la obra de la escuela dominical, pues ninguna otra cosa
 
-es digna de sus esfuerzos. Si apagaran al sol, la luz se extinguira, la vida
+es digna de sus esfuerzos. Si apagaran al sol, la luz se extinguiría, la vida
 
-se extinguira y todo se extinguira. Cuando se empuja a Jess hasta el fondo
+se extinguiría y todo se extinguiría. Cuando se empuja a Jesús hasta el fondo
 
-de la escena o cuando se lo deja fuera de la enseanza de un ministro, la
+de la escena o cuando se lo deja fuera de la enseńanza de un ministro, la
 
-oscuridad es una oscuridad que se puede palpar, y la gente escapa de all para
+oscuridad es una oscuridad que se puede palpar, y la gente escapa de allí para
 
-adentrarse en la luz del Evangelio tan pronto como puede. Un sermn que no
+adentrarse en la luz del Evangelio tan pronto como puede. Un sermón que no
 
-contenga el Evangelio es un sermn sin sabor y sin valor para los atribulados
+contenga el Evangelio es un sermón sin sabor y sin valor para los atribulados
 
-santos de Dios, y pronto buscan otro alimento. Entre ms contenga de Cristo
+santos de Dios, y pronto buscan otro alimento. Entre más contenga de Cristo
 
-nuestro testimonio, ms luz y vida y poder habr para salvar. Algunos
+nuestro testimonio, más luz y vida y poder habrá para salvar. Algunos
 
-predicadores son culpables de la ms fastidiosa tautologa, pero no pueden ser
+predicadores son culpables de la más fastidiosa tautología, pero no pueden ser
 
-acusados de eso cuando su tema es Jess. He odo declarar a algunos oyentes que
+acusados de eso cuando su tema es Jesús. He oído declarar a algunos oyentes que
 
-su ministro pareca haber trado un organillo del que se podan extraer cinco o
+su ministro parecía haber traído un organillo del que se podían extraer cinco o
 
-seis tonadas y ninguna ms, y que las haca sonar por los siglos de los siglos,
+seis tonadas y ninguna más, y que las hacía sonar por los siglos de los siglos,
 
-amn. Estn hartos, muy hartos, de esas vanas repeticiones; pero hasta este da
+amén. Están hartos, muy hartos, de esas vanas repeticiones; pero hasta este día
 
 no me he enterado de nadie a quien se le acusara de predicar demasiado a Cristo,
 
 o de hacerlo demasiado frecuentemente, o demasiado ardientemente, o demasiado
 
-alegremente. No recuerdo haber visto a ningn cristiano salir de una
+alegremente. No recuerdo haber visto a ningún cristiano salir de una
 
-congregacin con un rostro afligido diciendo: exalt demasiado sublimemente al
+congregación con un rostro afligido diciendo: “exaltó demasiado sublimemente al
 
-Redentor; exager burdamente las alabanzas de nuestro Salvador. No recuerdo
+Redentor; exageró burdamente las alabanzas de nuestro Salvador”. No recuerdo
 
-haberme encontrado jams con un caso en el que los enfermos que languidecan en
+haberme encontrado jamás con un caso en el que los enfermos que languidecían en
 
-sus lechos se hayan quejado de que los pensamientos de Jess fueran agobiantes
+sus lechos se hayan quejado de que los pensamientos de Jesús fueran agobiantes
 
 para ellos. No recuerdo nunca que los cristianos sinceros hayan denunciado a un
 
-solo libro porque hablaba demasiado exaltadamente del Seor o le daba demasiada
+solo libro porque hablaba demasiado exaltadamente del Seńor o le daba demasiada
 
 prominencia.
 
-No, hermanos mos, Aquel
+No, hermanos míos, Aquel
 
 a quien los santos estudian debe ser el tema cotidiano de los ministros, si es
 
-que quieren alimentar al rebao de Dios. Ningn otro tema anima tanto al
+que quieren alimentar al rebańo de Dios. Ningún otro tema anima tanto al
 
-corazn, despierta tanto a la conciencia, satisface tanto los deseos y calma
+corazón, despierta tanto a la conciencia, satisface tanto los deseos y calma
 
 tanto los miedos. Nunca tal acontezca que dejemos de predicar a Jesucristo
 
 mismo. No hay temor de agotar el tema ni de ahuyentar a nuestros oyentes, pues
 
-Sus palabras siguen siendo vlidas todava: Y yo, si fuere levantado de la
+Sus palabras siguen siendo válidas todavía: “Y yo, si fuere levantado de la
 
-tierra, a todos atraer a m mismo.
+tierra, a todos atraeré a mí mismo”.
 
 III.
 
-Jesucristo mismo es EL OBJETO DE NUESTRO AMOR, y cun
+Jesucristo mismo es EL OBJETO DE NUESTRO AMOR, y cuán
 
-valioso debera ser. Todos los que somos realmente salvos podemos declarar que
+valioso debería ser. Todos los que somos realmente salvos podemos declarar que
 
-Nosotros le amamos a l, porque l nos am primero. Sentimos un intenso
+“Nosotros le amamos a él, porque él nos amó primero”. Sentimos un intenso
 
-afecto por Su bendita persona, as como gratitud por Su salvacin. La
+afecto por Su bendita persona, así como gratitud por Su salvación. La
 
 personalidad de Cristo es algo que debe ser mantenido siempre de manera
 
-prominente en nuestros pensamientos. El amor por una verdad est muy bien, pero
+prominente en nuestros pensamientos. El amor por una verdad está muy bien, pero
 
-el amor por una persona contiene mucho ms poder. Nos hemos enterado de seres
+el amor por una persona contiene mucho más poder. Nos hemos enterado de seres
 
-humanos que mueren por una idea, pero es infinitamente ms fcil despertar el
+humanos que mueren por una idea, pero es infinitamente más fácil despertar el
 
 entusiasmo por una persona. Cuando una idea se encarna en un hombre, tiene una
 
-fuerza que nunca esgrimi en su forma abstracta. Nosotros amamos a Jesucristo
+fuerza que nunca esgrimió en su forma abstracta. Nosotros amamos a Jesucristo
 
-como la personificacin de todo lo que es amable y verdadero y puro y de buen
+como la personificación de todo lo que es amable y verdadero y puro y de buen
 
-testimonio. l mismo es la perfeccin encarnada, inspirado por el amor. Amamos
+testimonio. Él mismo es la perfección encarnada, inspirado por el amor. Amamos
 
 Sus oficios, amamos los tipos que lo describen, amamos las ordenanzas por medio
 
-de las cuales es expuesto, pero lo amamos a l mismo ms que a nada. l mismo
+de las cuales es expuesto, pero lo amamos a Él mismo más que a nada. Él mismo
 
-es nuestro amado; nuestro corazn se apoya nicamente en l.
+es nuestro amado; nuestro corazón se apoya únicamente en Él.
 
-Como lo amamos a l, amamos a Su pueblo,
+Como lo amamos a Él, amamos a Su pueblo,
 
 y
 
-a travs de l entramos en unin con sus miembros. Nuestro texto es tomado de
+a través de Él entramos en unión con sus miembros. Nuestro texto es tomado de
 
-un versculo que dice: Siendo la principal piedra del ngulo Jesucristo
+un versículo que dice: “Siendo la principal piedra del ángulo Jesucristo
 
-mismo. l es la trabazn esquinera que une a judos y gentiles en un templo.
+mismo”. Él es la trabazón esquinera que une a judíos y gentiles en un templo.
 
-En Jess esas antiguas diferencias cesan, pues l es nuestra paz, que de ambos
+En Jesús esas antiguas diferencias cesan, pues “él es nuestra paz, que de ambos
 
-pueblos hizo uno, derribando la pared intermedia de separacin, aboliendo en su
+pueblos hizo uno, derribando la pared intermedia de separación, aboliendo en su
 
-carne las enemistades. Tenemos paz con todo hombre que tenga paz con Cristo.
+carne las enemistades”. Tenemos paz con todo hombre que tenga paz con Cristo.
 
-Basta que nuestro Seor diga: Yo amo a ese hombre, y nosotros lo amamos de
+Basta que nuestro Seńor diga: “Yo amo a ese hombre”, y nosotros lo amamos de
 
-inmediato; y slo esperamos que nuestro amigo diga: amo a Jess, y nos
+inmediato; y sólo esperamos que nuestro amigo diga: “amo a Jesús”, y nos
 
-apresuramos a responderle: y yo te amo a ti por causa de Jess. Tan ardiente
+apresuramos a responderle: “y yo te amo a ti por causa de Jesús”. Tan ardiente
 
-es el fuego de nuestro amor por Jess que todos Sus amigos pueden sentarse en
+es el fuego de nuestro amor por Jesús que todos Sus amigos pueden sentarse en
 
-torno a l y son bienvenidos. Nuestro crculo de afectos incluye a todos los
+torno a él y son bienvenidos. Nuestro círculo de afectos incluye a todos los
 
-que de cualquier manera tienen que ver verdaderamente con Jess mismo.
+que de cualquier manera tienen que ver verdaderamente con Jesús mismo.
 
-Debido a que lo amamos a l mismo, nos deleitamos en servirle.
+Debido a que lo amamos a Él mismo, nos deleitamos en servirle.
 
 Cualquiera
 
 que sea el servicio que hagamos por Su iglesia y por Su verdad, lo prestamos
 
-por causa de l; incluso si slo podemos rendirlo al ms pequeo de Sus
+por causa de Él; incluso si sólo podemos rendirlo al más pequeńo de Sus
 
-hermanos, lo hacemos por l. La mujer con el vaso de alabastro de perfume de
+hermanos, lo hacemos por Él. La mujer con el vaso de alabastro de perfume de
 
-gran precio es un tipo que valoramos grandemente, pues ella slo estaba
+gran precio es un tipo que valoramos grandemente, pues ella sólo estaba
 
 dispuesta a romper el precioso frasco
 
 para
 
-l,
+Él,
 
-y cada gota de sus valiosos contenidos deba ser derramada sobre Su
+y cada gota de sus valiosos contenidos debía ser derramada sobre Su
 
-cabeza. Los presentes se quejaron de desperdicio, pero no puede haber ningn
+cabeza. Los presentes se quejaron de desperdicio, pero no puede haber ningún
 
-desperdicio en algo que se haga para Jess. Si el mundo entero y los cielos y
+desperdicio en algo que se haga para Jesús. Si el mundo entero y los cielos y
 
 el cielo de los cielos fueran un gran vaso de alabastro, y todas las dulzuras
 
-que pudieran ser concebidas estuvieran contenidas en l, desearamos ver que
+que pudieran ser concebidas estuvieran contenidas en él, desearíamos ver que
 
 todo fuera quebrado, para que cada gota de dulzura pudiera ser vertida en
 
 Jesucristo mismo.
 
-Jess es digno de recibir
+“Jesús es digno de recibir
 
 Honor y poder divino;
 
 Y mayores bendiciones de las que podamos dar,
 
-Sean Seor, Tuyas para siempre.
+Sean Seńor, Tuyas para siempre”.
 
 Oh, Amado nuestro, si
 
-hay algo que pudiramos hacer por Ti, nos encantara tener el privilegio de
+hay algo que pudiéramos hacer por Ti, nos encantaría tener el privilegio de
 
-hacerlo. Si se nos permitiera lavar los pies de Tus discpulos, o cuidar de los
+hacerlo. Si se nos permitiera lavar los pies de Tus discípulos, o cuidar de los
 
-ms pobres de Tus pobres o de la ovejita ms pequea de Tu rebao, aceptamos el
+más pobres de Tus pobres o de la ovejita más pequeńa de Tu rebańo, aceptamos el
 
-oficio como un excelso honor, pues nosotros te amamos con todo nuestro corazn.
+oficio como un excelso honor, pues nosotros te amamos con todo nuestro corazón.
 
-Nuestro amor por Jess debera ser algo tan real como nuestro afecto por
+Nuestro amor por Jesús debería ser algo tan real como nuestro afecto por
 
-nuestro esposo, esposa, o hijo, y debera influir mucho ms en nuestras vidas.
+nuestro esposo, esposa, o hijo, y debería influir mucho más en nuestras vidas.
 
-El amor por nuestro Seor, as confo, los motiva a todos ustedes a rendir un
+El amor por nuestro Seńor, así confío, los motiva a todos ustedes a rendir un
 
-servicio personal. Tal vez hayan pagado una suscripcin y hayan permitido que
+servicio personal. Tal vez hayan pagado una suscripción y hayan permitido que
 
-otros trabajaran, pero no pueden hacerlo ms en vista de que Jess se entreg a
+otros trabajaran, pero no pueden hacerlo más en vista de que Jesús se entregó a
 
-S mismo por ustedes. Jess mismo exige que yo mismo sea consagrado a Su alabanza.
+Sí mismo por ustedes. Jesús mismo exige que yo mismo sea consagrado a Su alabanza.
 
-Se debe prestar un servicio a un Cristo personal, quien personalmente nos am y
+Se debe prestar un servicio a un Cristo personal, quien personalmente nos amó y
 
-muri personalmente por nosotros. Cuando nada nos mueve a celo, cuando el
+murió personalmente por nosotros. Cuando nada nos mueve a celo, cuando el
 
-espritu agotado no puede mantener su laboriosidad, basta que Jess mismo aparezca
+espíritu agotado no puede mantener su laboriosidad, basta que Jesús mismo aparezca
 
-y de inmediato nuestras pasiones arden en llamas, y el espritu de fuego obliga
+y de inmediato nuestras pasiones arden en llamas, y el espíritu de fuego obliga
 
-a la carne a calentarse para hacer su obra de nuevo. Cuando Jess est cerca nos
+a la carne a calentarse para hacer su obra de nuevo. Cuando Jesús está cerca nos
 
 gloriamos incluso en la debilidad y nos aventuramos en obras que de otra manera
 
-nos habran parecido imposibles. Podemos hacer cualquier cosa y todas las cosas
+nos habrían parecido imposibles. Podemos hacer cualquier cosa y todas las cosas
 
-por Jesucristo mismo.
+por “Jesucristo mismo”.
 
 IV.
 
 En
 
-cuarto lugar, nuestro Seor Jesucristo mismo es
+cuarto lugar, nuestro Seńor Jesucristo mismo es
 
 LA
 
@@ -968,119 +968,119 @@ DE
 
 TODO NUESTRO GOZO.
 
-Cmo debemos regocijarnos teniendo tal
+Cómo debemos regocijarnos teniendo tal
 
 fuente viva de bendiciones.
 
-Jess mismo es nuestro solaz en los tiempos de
+Jesús mismo es nuestro solaz en los tiempos de
 
-afliccin. Que Jess mismo sea un hombre no es una pequea fuente de consuelo
+aflicción. Que Jesús mismo sea un hombre no es una pequeńa fuente de consuelo
 
-para el afligido. Cmo nos alienta leer: As que, por cuanto los hijos
+para el afligido. Cómo nos alienta leer: “Así que, por cuanto los hijos
 
-participaron de carne y sangre, l tambin particip de lo mismo. La humanidad
+participaron de carne y sangre, él también participó de lo mismo”. La humanidad
 
-de Cristo proyecta un encanto que nicamente el que est apaciblemente afligido
+de Cristo proyecta un encanto que únicamente el que está apaciblemente afligido
 
-descubre. Yo he conocido lo que es contemplar la encarnacin con un apacible
+descubre. Yo he conocido lo que es contemplar la encarnación con un apacible
 
-reposo de corazn cuando mi cerebro pareca estar quemndose de angustia. Si
+reposo de corazón cuando mi cerebro parecía estar quemándose de angustia. Si
 
-Jess es verdaderamente un hombre hermano para m, tengo esperanza en todo tiempo.
+Jesús es verdaderamente un hombre hermano para mí, tengo esperanza en todo tiempo.
 
-Un mejor blsamo que el de Galaad es este: l mismo tom nuestras
+Un mejor bálsamo que el de Galaad es este: “Él mismo tomó nuestras
 
-enfermedades, y llev nuestras dolencias. Pues en cuanto l mismo padeci
+enfermedades, y llevó nuestras dolencias”. “Pues en cuanto él mismo padeció
 
-siendo tentado, es poderoso para socorrer a los que son tentados. Jess mismo
+siendo tentado, es poderoso para socorrer a los que son tentados”. Jesús mismo
 
-ha sufrido dolor, hambre, sed, desercin, menosprecio y agona. Tentado en todo
+ha sufrido dolor, hambre, sed, deserción, menosprecio y agonía. Tentado en todo
 
-segn nuestra semejanza, pero sin pecado, se ha convertido en el principal
+según nuestra semejanza, pero sin pecado, se ha convertido en el principal
 
-Consolador de los afligidos. Muchsimos sufrientes en las solitarias vigilias
+Consolador de los afligidos. Muchísimos sufrientes en las solitarias vigilias
 
-de la noche han pensado en l y han sentido que su fuerza era renovada. Nuestra
+de la noche han pensado en Él y han sentido que su fuerza era renovada. Nuestra
 
-paciencia revive cuando vemos al Varn de Dolores callado delante de Sus
+paciencia revive cuando vemos al Varón de Dolores callado delante de Sus
 
-acusadores. Quin podra rehusar beber de Su copa y ser bautizado con Su
+acusadores. żQuién podría rehusar beber de Su copa y ser bautizado con Su
 
 bautismo?
 
-Su camino fue mucho ms escabroso y oscuro que el mo:
+“Su camino fue mucho más escabroso y oscuro que el mío:
 
-Sufri Cristo, mi Seor, y yo he de quejarme?
+Sufrió Cristo, mi Seńor, ży yo he de quejarme?
 
 La oscuridad de
 
-Getseman ha sido luz para muchas almas agonizantes, y la pasin hasta la
+Getsemaní ha sido luz para muchas almas agonizantes, y la pasión hasta la
 
-muerte ha hecho que los moribundos canten de gozo de corazn. Jess mismo es el
+muerte ha hecho que los moribundos canten de gozo de corazón. Jesús mismo es el
 
-solaz de nuestra alma afligida y cuando emergemos de la tormenta de la turbacin
+solaz de nuestra alma afligida y cuando emergemos de la tormenta de la turbación
 
-y nos adentramos en la profunda calma de la paz, como a menudo sucede, l es
+y nos adentramos en la profunda calma de la paz, como a menudo sucede, Él es
 
-nuestra paz, bendito sea Su nombre. Nos dej como legado la paz, y crea la paz
+nuestra paz, bendito sea Su nombre. Nos dejó como legado la paz, y crea la paz
 
-en persona. No conocemos nunca una paz profunda de corazn mientras no
+en persona. No conocemos nunca una paz profunda de corazón mientras no
 
-conozcamos al Seor Jess mismo. Ustedes recuerdan aquella dulce palabra cuando
+conozcamos al Seńor Jesús mismo. Ustedes recuerdan aquella dulce palabra cuando
 
-los discpulos se encontraban reunidos y las puertas estaban cerradas por miedo
+los discípulos se encontraban reunidos y las puertas estaban cerradas por miedo
 
-de los judos: Jess se puso en medio de ellos, y les dijo: Paz a vosotros.
+de los judíos: “Jesús se puso en medio de ellos, y les dijo: Paz a vosotros”.
 
-Pueden ver que Jess mismo trajo el mensaje; pues slo Su presencia poda
+Pueden ver que Jesús mismo trajo el mensaje; pues sólo Su presencia podía
 
-hacerla eficaz. Cuando lo vemos a l, nuestro espritu tiene un grato olor de
+hacerla eficaz. Cuando lo vemos a Él, nuestro espíritu tiene un grato olor de
 
-reposo. Dnde ms puede encontrar una cabeza dolida otra almohada semejante a Su
+reposo. żDónde más puede encontrar una cabeza dolida otra almohada semejante a Su
 
 pecho?
 
-En das de celebracin y
+En días de celebración y
 
-de fiesta nuestros espritus se remontan sin dar lugar al descanso; ascendemos
+de fiesta nuestros espíritus se remontan sin dar lugar al descanso; ascendemos
 
-al cielo de gozo y de exultacin, pero es el gozo de nuestro Seor que est en
+al cielo de gozo y de exultación, pero es el gozo de nuestro Seńor que está en
 
-nosotros y que hace pleno nuestro gozo. Los discpulos se regocijaron viendo
+nosotros y que hace pleno nuestro gozo. “Los discípulos se regocijaron viendo
 
-al Seor, entonces nosotros nos alegramos tambin. Por fe vemos a Jess mismo
+al Seńor”, entonces nosotros nos alegramos también. Por fe vemos a Jesús mismo
 
-entronizado, y esto nos llena de deleite, pues Su glorificacin es nuestra
+entronizado, y esto nos llena de deleite, pues Su glorificación es nuestra
 
-satisfaccin. Dios tambin le exalt hasta lo sumo, y le dio un nombre que es
+satisfacción. “Dios también le exaltó hasta lo sumo, y le dio un nombre que es
 
-sobre todo nombre. No me importa lo que me pase en tanto que l sea
+sobre todo nombre”. No me importa lo que me pase en tanto que Él sea
 
-glorificado. El soldado muere feliz cuando el grito de victoria alegra su odo
+glorificado. El soldado muere feliz cuando el grito de victoria alegra su oído
 
-y su dbil visin ve a su prncipe triunfante. Qu gozo es pensar que Jess
+y su débil visión ve a su príncipe triunfante. Qué gozo es pensar que Jesús
 
-resucit y que resucit para no morir ms. El gozo de la resurreccin es superlativo.
+resucitó y que resucitó para no morir más. El gozo de la resurrección es superlativo.
 
-Qu bienaventuranza es saber que l ascendi llevando cautiva la cautividad, saber
+Qué bienaventuranza es saber que Él ascendió llevando cautiva la cautividad, saber
 
-que se sienta ahora entronizado en un bienaventurado estado y que vendr en
+que se sienta ahora entronizado en un bienaventurado estado y que vendrá en
 
 toda la gloria del Padre para desmenuzar a Sus enemigos como con vara de
 
-hierro. Ah radica el ms grande gozo de Su iglesia expectante. Ella tiene en
+hierro. Ahí radica el más grande gozo de Su iglesia expectante. Ella tiene en
 
-reserva un potente trueno de hosannas para aquel da auspicioso.
+reserva un potente trueno de hosannas para aquel día auspicioso.
 
 Si ha de experimentarse
 
-algn gozo, oh cristiano, que sea a la vez seguro y dulce, un gozo del que
+algún gozo, oh cristiano, que sea a la vez seguro y dulce, un gozo del que
 
-nadie podra saber demasiado, ha de encontrarse en Aquel a quien no ves
+nadie podría saber demasiado, ha de encontrarse en Aquel a quien no ves
 
-todava, pero en quien te regocijas con gozo indecible y lleno de gloria por la
+todavía, pero en quien te regocijas con gozo indecible y lleno de gloria por la
 
-fe en l.
+fe en Él.
 
 Tenemos que
 
@@ -1094,229 +1094,229 @@ En
 
 quinto lugar, JESUCRISTO MISMO ES EL MODELO DE NUESTRA VIDA, y, por tanto,
 
-cun bienaventurado es ser semejante a l.
+cuán bienaventurado es ser semejante a Él.
 
 En
 
-cuanto a nuestra regla de vida, somos como los discpulos sobre el monte de la
+cuanto a nuestra regla de vida, somos como los discípulos sobre el monte de la
 
-transfiguracin cuando Moiss y Elas desaparecieron, pues a nadie vemos sino a
+transfiguración cuando Moisés y Elías desaparecieron, pues a nadie vemos “sino a
 
-Jess solo. Encontramos en l, en mayor perfeccin, cada virtud que
+Jesús solo”. Encontramos en Él, en mayor perfección, cada virtud que
 
 encontramos en otros seres humanos; admiramos la gracia de Dios en ellos, pero
 
-Jess es nuestro modelo. Hablando de Enrique VIII, un crtico dijo en una
+Jesús es nuestro modelo. Hablando de Enrique VIII, un crítico dijo en una
 
-ocasin que si las caractersticas de todos los tiranos que han vivido jams
+ocasión que si las características de todos los tiranos que han vivido jamás
 
-fueran olvidadas, podra verse a todas ellas en vivo en ese especfico rey;
+fueran olvidadas, podría verse a todas ellas en vivo en ese específico rey;
 
-nosotros podemos decir ms verazmente con respecto a Jess que si todas las
+nosotros podemos decir más verazmente con respecto a Jesús que si todas las
 
-gracias y todas las virtudes y todas las dulzuras que hayan sido vistas jams
+gracias y todas las virtudes y todas las dulzuras que hayan sido vistas jamás
 
-en hombres buenos fueran olvidadas, se podra encontrarlas a todas en l, pues
+en hombres buenos fueran olvidadas, se podría encontrarlas a todas en Él, pues
 
-en l habita todo lo que es bueno y grandioso. Por tanto, nosotros deseamos
+en Él habita todo lo que es bueno y grandioso. Por tanto, nosotros deseamos
 
-copiar Su carcter y poner nuestros pies sobre Sus huellas. Nos corresponde
+copiar Su carácter y poner nuestros pies sobre Sus huellas. Nos corresponde
 
-seguir al Cordero dondequiera que vaya. Qu dice nuestro propio Seor?
+seguir al Cordero dondequiera que vaya. żQué dice nuestro propio Seńor?
 
-Sgueme, y otra vez Llevad mi yugo sobre vosotros, y aprended de m, que soy
+“Sígueme”, y otra vez “Llevad mi yugo sobre vosotros, y aprended de mí, que soy
 
-manso y humilde de corazn; y hallaris descanso para vuestras almas. Nuestro
+manso y humilde de corazón; y hallaréis descanso para vuestras almas”. Nuestro
 
-gua no es el apstol de Cristo, sino Cristo mismo; no debemos tomar un modelo
+guía no es el apóstol de Cristo, sino Cristo mismo; no debemos tomar un modelo
 
-secundario, sino que debemos imitar a Jess mismo. Por la morada interior del
+secundario, sino que debemos imitar a Jesús mismo. Por la morada interior del
 
-Espritu Santo y por Sus misericordiosas operaciones, nos estamos convirtiendo
+Espíritu Santo y por Sus misericordiosas operaciones, nos estamos convirtiendo
 
 en la imagen de Cristo hasta que Cristo sea formado en nosotros; y nos
 
-desarrollamos porque la vida celestial que hay en nosotros es Su propia vida. Yo
+desarrollamos porque la vida celestial que hay en nosotros es Su propia vida. “Yo
 
-en ellos dijo l, y tambin Yo soy la vida. Pues hemos muerto, y nuestra
+en ellos” dijo Él, y también “Yo soy la vida”. Pues “hemos muerto, y nuestra
 
-vida est escondida con Cristo en Dios. El que tiene al Hijo, tiene la vida;
+vida está escondida con Cristo en Dios”. “El que tiene al Hijo, tiene la vida;
 
-el que no tiene al Hijo de Dios no tiene la vida. Lo que nos hace cristianos
+el que no tiene al Hijo de Dios no tiene la vida”. Lo que nos hace cristianos
 
 no es recibir el bautismo, ni es llevar el nombre de Cristo, sino que es tener
 
-a Jess mismo en nuestros corazones, y en la proporcin en que sea formado en
+a Jesús mismo en nuestros corazones, y en la proporción en que sea formado en
 
-nosotros y en que crezca la nueva vida, nos hacemos ms y ms semejantes a l.
+nosotros y en que crezca la nueva vida, nos hacemos más y más semejantes a Él.
 
-Y esta es nuestra visin para la eternidad: que vamos a estar con l y que
+Y esta es nuestra visión para la eternidad: que vamos a estar con Él y que
 
-vamos a ser semejantes a l, pues cuando l se manifieste, seremos semejantes
+vamos a ser semejantes a Él, pues “cuando él se manifieste, seremos semejantes
 
-a l, porque le veremos tal como l es. Quienes hoy lamentan sus
+a él, porque le veremos tal como él es”. Quienes hoy lamentan sus
 
-imperfecciones, piensen en l; piensen en Jess mismo, y tengan la seguridad
+imperfecciones, piensen en Él; piensen en Jesús mismo, y tengan la seguridad
 
-luego de que han de ser como l. Qu cuadro! Vamos, amigo artista, trae tu
+luego de que han de ser como Él. ˇQué cuadro! Vamos, amigo artista, trae tu
 
-mejor habilidad aqu. Qu puedes hacer? Todos los lpices fallan al dibujarlo
+mejor habilidad aquí. żQué puedes hacer? Todos los lápices fallan al dibujarlo
 
-a l.
+a Él.
 
-Se necesita el ojo de un poeta as
+Se necesita el ojo de un poeta así
 
-como la mano de un artista para dibujar al Ser Codiciable. Pero, qu puede
+como la mano de un artista para dibujar al Ser Codiciable. Pero, żqué puede
 
-hacer el poeta? Ah, t fallas tambin; t no puedes cantar respecto a l como
+hacer el poeta? Ah, tú fallas también; tú no puedes cantar respecto a Él como
 
-tampoco tu amigo puede dibujarlo. Una fructfera concepcin y una imaginacin
+tampoco tu amigo puede dibujarlo. Una fructífera concepción y una imaginación
 
-desbordada podran acudir en tu ayuda, pero no podran impedir tu fracaso. l
+desbordada podrían acudir en tu ayuda, pero no podrían impedir tu fracaso. Él
 
-es demasiado hermoso para ser descrito; tiene que ser visto. Con todo, aqu
+es demasiado hermoso para ser descrito; tiene que ser visto. Con todo, aquí
 
-viene lo maravilloso: Seremos semejantes a l, semejantes a Jesucristo mismo.
+viene lo maravilloso: “Seremos semejantes a él”, semejantes a Jesucristo mismo.
 
-Oh, santo, cuando t resucites de los muertos, cun hermoso sers! Te
+ˇOh, santo, cuando tú resucites de los muertos, cuán hermoso serás! żTe
 
-conocers a ti mismo? Hoy ests lleno de arrugas por la vejez, lleno de
+conocerás a ti mismo? Hoy estás lleno de arrugas por la vejez, lleno de
 
-cicatrices con las marcas de la enfermedad y del dolor, y tal vez ests deforme
+cicatrices con las marcas de la enfermedad y del dolor, y tal vez estés deforme
 
-por un accidente o ests
+por un accidente o estés
 
 consumido
 
 por la tisis, pero
 
-nada de esto te desdorar entonces. T no tendrs ni mancha ni arruga; sers
+nada de esto te desdorará entonces. Tú no tendrás ni mancha ni arruga; serás
 
 sin tacha delante del trono.
 
-Oh, gloriosa hora!
+“ˇOh, gloriosa hora!
 
-Oh,
+ˇOh,
 
 bendita morada!
 
-Estar cerca de Dios y ser semejante a l.
+Estaré cerca de Dios y seré semejante a Él.
 
-Y no slo en forma corporal
+Y no sólo en forma corporal
 
 seremos semejantes a Aquel cuyos ojos son como ojos de palomas, y cuyas
 
-mejillas son como las eras de las especias; tambin en espritu y en alma
+mejillas son como las eras de las especias; también en espíritu y en alma
 
-seremos perfectamente conformados al Bienamado. Seremos santos tal como l es
+seremos perfectamente conformados al Bienamado. Seremos santos tal como Él es
 
-santo, y felices como l es feliz. Entraremos en el gozo de nuestro Seor: el
+santo, y felices como Él es feliz. Entraremos en el gozo de nuestro Seńor: el
 
-gozo de Jess mismo. No digo que vayamos a ser divinos, pues eso no puede ser;
+gozo de Jesús mismo. No digo que vayamos a ser divinos, pues eso no puede ser;
 
 pero, con todo, como hermanos de Aquel que es el Hijo de Dios, estaremos muy
 
-cerca del trono. Oh, qu embeleso es saber que mi pariente ms cercano vive, y
+cerca del trono. Oh, qué embeleso es saber que mi pariente más cercano vive, y
 
-que cuando est en el ltimo da sobre la tierra no solamente he de ver a Dios
+que cuando esté en el último día sobre la tierra no solamente he de ver a Dios
 
-en mi carne, sino que ser semejante a l, porque le ver tal como l es.
+en mi carne, sino que seré semejante a Él, porque le veré tal como Él es.
 
 Cristo mismo se vuelve entonces para nosotros indeciblemente precioso, como el
 
-modelo de nuestra vida presente y la imagen de la perfeccin hacia la cual el
+modelo de nuestra vida presente y la imagen de la perfección hacia la cual el
 
-Espritu Santo nos est llevando a travs de Su obra.
+Espíritu Santo nos está llevando a través de Su obra.
 
 VI.
 
 Por
 
-ltimo, L ES EL SEOR DE NUESTRA ALMA.
+último, ÉL ES EL SEŃOR DE NUESTRA ALMA.
 
-Cun
+Cuán
 
-bueno ser estar con l.
+bueno será estar con Él.
 
-Encontramos hoy que Su amada compaa hace que
+Encontramos hoy que Su amada compańía hace que
 
 todo suceda gratamente, ya sea que corramos en el camino de Sus mandamientos o
 
 que atravesemos el valle de sombra de muerte. Los santos han permanecido
 
-encerrados en calabozos, y no obstante, han caminado libremente cuando l ha
+encerrados en calabozos, y no obstante, han caminado libremente cuando Él ha
 
-estado all; han sido torturados en el potro, y lo han considerado incluso un
+estado allí; han sido torturados en el potro, y lo han considerado incluso un
 
-lecho de rosas cuando l ha estado junto a ellos. Uno fue colocado sobre una
+lecho de rosas cuando Él ha estado junto a ellos. Uno fue colocado sobre una
 
-parrilla hirviente, con los fuegos encendidos debajo de l; pero en medio de
+parrilla hirviente, con los fuegos encendidos debajo de Él; pero en medio de
 
-las llamas ret a sus atormentadores a que incrementaran al mximo sus
+las llamas retó a sus atormentadores a que incrementaran al máximo sus
 
-torturas, y se burlaba de ellos, pues su Seor estaba all. Se ha visto a
+torturas, y se burlaba de ellos, pues su Seńor estaba allí. Se ha visto a
 
-algunos mrtires aplaudir cuando cada dedo suyo arda como una vela encendida,
+algunos mártires aplaudir cuando cada dedo suyo ardía como una vela encendida,
 
-y se les ha odo clamar: Cristo es todo, Cristo es todo. Cuando el Cuarto,
+y se les ha oído clamar: “Cristo es todo, Cristo es todo”. Cuando el Cuarto,
 
-semejante al Hijo de Dios, camina en el horno, lo nico que el fuego puede
+semejante al Hijo de Dios, camina en el horno, lo único que el fuego puede
 
 hacer es romper sus ataduras y dejar libres a los que sufren.
 
 Oh, hermanos, yo estoy
 
-seguro de que la nica felicidad que ha valido la pena que disfrutaran fue encontrada
+seguro de que la única felicidad que ha valido la pena que disfrutaran fue encontrada
 
-en saber que l los amaba y que estaba cerca de ustedes. Si se han regocijado
+en saber que Él los amaba y que estaba cerca de ustedes. Si se han regocijado
 
 alguna vez en la abundancia de su grano, de su vino y de su aceite, ha sido un
 
-triste gozo; pronto perdi sabor en su paladar, y nunca toc las grandes profundidades
+triste gozo; pronto perdió sabor en su paladar, y nunca tocó las grandes profundidades
 
-de su espritu, y pronto ha desaparecido y los ha dejado agudamente
+de su espíritu, y pronto ha desaparecido y los ha dejado agudamente
 
-desfallecidos de corazn. Si se han regocijado en sus hijos y en sus parientes
+desfallecidos de corazón. Si se han regocijado en sus hijos y en sus parientes
 
-y en su salud corporal, cun pronto Dios ha enviado un infortunio sobre todos
+y en su salud corporal, cuán pronto Dios ha enviado un infortunio sobre todos
 
-ellos. Pero cuando se han regocijado en Jess ustedes han odo una voz que les
+ellos. Pero cuando se han regocijado en Jesús ustedes han oído una voz que les
 
-pide que procedan a experimentar ms deleites. Esa voz ha exclamado: Comed,
+pide que procedan a experimentar más deleites. Esa voz ha exclamado: “Comed,
 
-amigos; bebed en abundancia, oh amados; pues quedar ebrio de un gozo como este
+amigos; bebed en abundancia, oh amados”; pues quedar ebrio de un gozo como este
 
-es alcanzar la mejor condicin mental e instalar al alma donde debe estar.
+es alcanzar la mejor condición mental e instalar al alma donde debe estar.
 
 Nunca estaremos bien mientras no salgamos de nosotros mismos y entremos en
 
-Jess; pero cuando se presenta el estado de xtasis, y estamos fuera del yo, y
+Jesús; pero cuando se presenta el estado de éxtasis, y estamos fuera del yo, y
 
-estamos en l, de tal manera que si en el cuerpo, o fuera del cuerpo, no lo
+estamos en Él, de tal manera que si en el cuerpo, o fuera del cuerpo, no lo
 
-sabemos, Dios lo sabe, entonces regresamos adonde Dios quera que el hombre
+sabemos, Dios lo sabe, entonces regresamos adonde Dios quería que el hombre
 
-estuviera cuando caminaba con l en Edn, y nos acercamos adonde Dios quiere
+estuviera cuando caminaba con él en Edén, y nos acercamos adonde Dios quiere
 
 que estemos cuando lo veamos cara a cara.
 
-Hermanos cmo ser la
+ˇHermanos cómo será la
 
-visin sin el velo! Si la visin de l aqu es tan dulce, qu ser verlo a l
+visión sin el velo! ˇSi la visión de Él aquí es tan dulce, qué será verlo a Él
 
-en el ms all! Pudiera ser que no vivamos hasta que l venga, pues el Seor
+en el más allá! Pudiera ser que no vivamos hasta que Él venga, pues el Seńor
 
-podra demorarse, pero si no viniera, y furamos llamados a atravesar las
+podría demorarse, pero si no viniera, y fuéramos llamados a atravesar las
 
-puertas de la muerte, no debemos temer. No me sorprendera que cuando pasemos a
+puertas de la muerte, no debemos temer. No me sorprendería que cuando pasemos a
 
-travs del velo y salgamos en el estado incorpreo, uno de nuestros asombros
+través del velo y salgamos en el estado incorpóreo, uno de nuestros asombros
 
-sea encontrar a Jess mismo esperando all para recibirnos. El alma esperaba
+sea encontrar a Jesús mismo esperando allí para recibirnos. El alma esperaba
 
-que una escolta de ngeles ministradores estara cerca del lecho y nos escoltara
+que una escolta de ángeles ministradores estaría cerca del lecho y nos escoltaría
 
-al atravesar el ro y al subir por los montes rumbo a
+al atravesar el río y al subir por los montes rumbo a
 
 la Ciudad
 
@@ -1324,67 +1324,67 @@ Celestial
 
 ; pero no; en
 
-vez de eso, el Seor mismo saludar al espritu. Cmo se quedar asombrado y
+vez de eso, el Seńor mismo saludará al espíritu. Cómo se quedará asombrado y
 
-exclamar: Es l, l mismo, mi bien Amado, Jess mismo; l ha venido a recibirme.
+exclamará: “Es Él, Él mismo, mi bien Amado, Jesús mismo; Él ha venido a recibirme.
 
-El cielo pudiera haber sido una sorpresa demasiado grande; incluso mi espritu
+El cielo pudiera haber sido una sorpresa demasiado grande; incluso mi espíritu
 
-incorpreo se hubiera podido desvanecer, pero es l, el hombre Cristo Jess en
+incorpóreo se hubiera podido desvanecer, pero es Él, el hombre Cristo Jesús en
 
-quien confi aqu abajo, y quien fue el amado compaero de mis horas moribundas.
+quien confié aquí abajo, y quien fue el amado compańero de mis horas moribundas.
 
-He cambiado mi lugar y mi estado, pero no he cambiado a mi Amigo ni he cambiado
+ˇHe cambiado mi lugar y mi estado, pero no he cambiado a mi Amigo ni he cambiado
 
-mi gozo, pues l est aqu! Qu mirada de amor ser aquella que l nos dar y
+mi gozo, pues Él está aquí!” Qué mirada de amor será aquella que Él nos dará y
 
-que le devolveremos. Apartaremos alguna vez nuestros ojos de l? Desearamos
+que le devolveremos. żApartaremos alguna vez nuestros ojos de Él? żDesearíamos
 
-hacerlo alguna vez? Estas palabras del poeta sern verdaderas:
+hacerlo alguna vez? Estas palabras del poeta serán verdaderas:
 
-Millones de aos mis ojos asombrados,
+“Millones de ańos mis ojos asombrados,
 
-Recorrern Tus bellezas;
+Recorrerán Tus bellezas;
 
-Y por edades sin fin adorar
+Y por edades sin fin adoraré
 
-Las glorias de Tu amor.
+Las glorias de Tu amor”.
 
 Pudiera ser que en el
 
-trmino de una semana tenga lugar nuestra reunin con Jess mismo; tal vez
+término de una semana tenga lugar nuestra reunión con Jesús mismo; tal vez
 
 ocurra dentro de una hora. A una pobre chica que estaba recluida en el hospital
 
-el doctor o la enfermera le dijeron que slo poda vivir otra hora; ella esper
+el doctor o la enfermera le dijeron que sólo podía vivir otra hora; ella esperó
 
-pacientemente, y cuando slo faltaba un cuarto de hora, exclam: Un cuarto de
+pacientemente, y cuando sólo faltaba un cuarto de hora, exclamó: “Un cuarto de
 
-hora ms, y luego________ no pudo decir qu, ni yo tampoco; solo Jess mismo
+hora más, y luego________” no pudo decir qué, ni yo tampoco; solo Jesús mismo
 
-ha dicho: Padre, aquellos que me has dado, quiero que donde yo estoy, tambin
+ha dicho: “Padre, aquellos que me has dado, quiero que donde yo estoy, también
 
-ellos estn conmigo, para que vean mi gloria. Y as como l or, as ser, y
+ellos estén conmigo, para que vean mi gloria”. Y así como Él oró, así será, y
 
-as ha de ser. Amn y Amn.
+así ha de ser. Amén y Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Cantar de los Cantares 4: 16; 5; 6: 1, 2.
+del sermón: Cantar de los Cantares 4: 16; 5; 6: 1, 2.
 
 Nota del traductor:
 
-Tautologa: repeticin
+Tautología: repetición
 
-de un mismo pensamiento expresado de distintas maneras. Repeticin intil y
+de un mismo pensamiento expresado de distintas maneras. Repetición inútil y
 
 viciosa.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 20/Enero/2012
 

@@ -1,16 +1,16 @@
 # Sermón 1200 | Sermón 1200
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Poder del
 
 Salvador Resucitado
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,141 +18,141 @@ DOMINGO 25 DE
 
 OCTUBRE DE 1874
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y Jess se
+“Y Jesús se
 
-acerc y les habl diciendo: Toda potestad me es dada en el cielo y en la
+acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la
 
-tierra. Por tanto, id, y haced discpulos a todas las naciones, bautizndolos
+tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos
 
-en el nombre del Padre, y del Hijo, y del Espritu Santo; ensendoles que
+en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseńándoles que
 
-guarden todas las cosas que os he mandado; y he aqu yo estoy con vosotros
+guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros
 
-todos los das, hasta el fin del mundo. Amn. Mateo 28: 18-20.
+todos los días, hasta el fin del mundo. Amén”. Mateo 28: 18-20.
 
-El cambio de Varn de
+El cambio de “Varón de
 
-dolores antes de Su crucifixin al de Seor sobre todo despus de Su
+dolores” antes de Su crucifixión al de “Seńor sobre todo” después de Su
 
-resurreccin, es muy asombroso. Antes de Su pasin era muy conocido por Sus
+resurrección, es muy asombroso. Antes de Su pasión era muy conocido por Sus
 
-discpulos, y se manifestaba nicamente de una manera: como el Hijo del hombre,
+discípulos, y se manifestaba únicamente de una manera: como el Hijo del hombre,
 
-vestido con la tnica comn del campesino, la cual era sin costura, de un solo
+vestido con la túnica común del campesino, la cual era sin costura, de un solo
 
-tejido de arriba abajo; pero despus que hubo resucitado de los muertos, quienes
+tejido de arriba abajo; pero después que hubo resucitado de los muertos, quienes
 
-ms lo amaban fueron incapaces de reconocerlo en diversas ocasiones, y se
+más lo amaban fueron incapaces de reconocerlo en diversas ocasiones, y se
 
-declara al menos una vez que se apareci a ciertos de ellos en otra forma. Se
+declara al menos una vez que se apareció a ciertos de ellos “en otra forma”. Se
 
-trataba de la misma persona, pues los discpulos vieron Sus manos y Sus pies, y
+trataba de la misma persona, pues los discípulos vieron Sus manos y Sus pies, y
 
-Toms incluso lo toc y meti su dedo en el lugar de los clavos; pero, con
+Tomás incluso lo tocó y metió su dedo en el lugar de los clavos; pero, con
 
-todo, parecera que eran manifiestos a veces para ellos algunos rayos de Su
+todo, parecería que eran manifiestos a veces para ellos algunos rayos de Su
 
-gloria, una gloria que haba estado oculta en Su vida previa con la sola
+gloria, una gloria que había estado oculta en Su vida previa con la sola
 
-excepcin de cuando estuvo en el Monte de
+excepción de cuando estuvo en el Monte de
 
-la Transfiguracin.
+la Transfiguración.
 
 Antes
 
-de Su muerte se desenvolva ante el pblico en general;
+de Su muerte se desenvolvía ante el público en general;
 
-se pona en medio de los escribas y fariseos, de los publicanos y pecadores, y
+se ponía en medio de los escribas y fariseos, de los publicanos y pecadores, y
 
-predicaba las buenas nuevas; pero ahora se apareca nicamente a Sus
+predicaba las buenas nuevas; pero ahora se aparecía únicamente a Sus
 
-discpulos, algunas veces a uno y en otro momento a dos de ellos; en una
+discípulos, algunas veces a uno y en otro momento a dos de ellos; en una
 
-ocasin se apareci a cerca de quinientos hermanos a la vez, pero siempre se
+ocasión se apareció a cerca de quinientos hermanos a la vez, pero siempre se
 
-apareca a Sus discpulos, y nicamente a ellos. Antes de Su muerte les
+aparecía a Sus discípulos, y únicamente a ellos. Antes de Su muerte les
 
-predicaba con muchas parbolas que eran claras para quienes tenan entendimiento,
+predicaba con muchas parábolas que eran claras para quienes tenían entendimiento,
 
 pero que eran a menudo oscuras y misteriosas aun para Sus propios seguidores,
 
-pues era un juicio del Seor sobre aquella mala generacin para que viendo no
+pues era un juicio del Seńor sobre aquella mala generación para que viendo no
 
 vieran, y oyendo no percibieran. No obstante podemos decir con igual verdad que,
 
-antes de Su muerte, nuestro Seor adaptaba Su enseanza y la pona al nivel de
+antes de Su muerte, nuestro Seńor adaptaba Su enseńanza y la ponía al nivel de
 
-compresin de las mentes incultas que la oan, de manera que muchas de las
+compresión de las mentes incultas que la oían, de manera que muchas de las
 
-verdades ms profundas eran tratadas ligeramente porque ellos eran incapaces de
+verdades más profundas eran tratadas ligeramente porque ellos eran incapaces de
 
-entenderlas todava. Jess vel la refulgencia de muchas verdades hasta Su
+entenderlas todavía. Jesús veló la refulgencia de muchas verdades hasta Su
 
-crucifixin, pero despus de Su resurreccin ya no habl ms en parbolas, sino
+crucifixión, pero después de Su resurrección ya no habló más en parábolas, sino
 
-que introdujo a Sus discpulos en el crculo ntimo de las grandiosas doctrinas
+que introdujo a Sus discípulos en el círculo íntimo de las grandiosas doctrinas
 
-del reino, y, por as decirlo, se mostr a S mismo, cara a cara, ante ellos.
+del reino, y, por así decirlo, se mostró a Sí mismo, cara a cara, ante ellos.
 
-Antes de Su muerte, el Seor Jess estaba siempre con Sus seguidores que
+Antes de Su muerte, el Seńor Jesús estaba siempre con Sus seguidores que
 
-conocan incluso los lugares secretos a los que se retiraba, pero despus que
+conocían incluso los lugares secretos a los que se retiraba, pero después que
 
-resucit se apareca a ellos y desapareca a intervalos irregulares. Quin de
+resucitó se aparecía a ellos y desaparecía a intervalos irregulares. żQuién de
 
-nosotros podra decir dnde permaneci gran parte de esos cuarenta das? Fue
+nosotros podría decir dónde permaneció gran parte de esos cuarenta días? Fue
 
-visto en el huerto sobre el Monte de los Olivos, camin con rumbo a Emas,
+visto en el huerto sobre el Monte de los Olivos, caminó con rumbo a Emaús,
 
-consol a la asamblea reunida en Jerusaln, se mostr de nuevo a los discpulos
+consoló a la asamblea reunida en Jerusalén, se mostró de nuevo a los discípulos
 
-en el Mar de Tiberias, pero adnde iba cuando, despus de las diversas entrevistas,
+en el Mar de Tiberias, pero żadónde iba cuando, después de las diversas entrevistas,
 
-se desapareca de la vista de ellos? Estando cerradas las puertas en el
+se desaparecía de la vista de ellos? Estando cerradas las puertas en el
 
-aposento donde se encontraban solos, Jess se puso de pronto en medio de ellos;
+aposento donde se encontraban solos, Jesús se puso de pronto en medio de ellos;
 
-tambin los visit junto al mar, y cuando descendieron a tierra vieron brasas
+también los visitó junto al mar, y cuando descendieron a tierra vieron brasas
 
-puestas, y un pez encima de ellas, y pan; Sus apariciones eran extraas, e
+puestas, y un pez encima de ellas, y pan; Sus apariciones eran extrańas, e
 
-igualmente extraas eran Sus desapariciones. Todo indicaba que, una vez que
+igualmente extrańas eran Sus desapariciones. Todo indicaba que, una vez que
 
-hubo resucitado de los muertos haba experimentado un cambio maravilloso que revelaba
+hubo resucitado de los muertos había experimentado un cambio maravilloso que revelaba
 
-algo en l que haba estado oculto antes, aunque Su identidad segua siendo
+algo en Él que había estado oculto antes, aunque Su identidad seguía siendo
 
 indisputable.
 
-No signific un honor
+No significó un honor
 
-menor haber visto a nuestro Seor resucitado mientras permaneci aqu abajo. Qu
+menor haber visto a nuestro Seńor resucitado mientras permaneció aquí abajo. ˇQué
 
-no significar ver a Jess tal como es ahora! Es el mismo Jess que estuvo
+no significará ver a Jesús tal como es ahora! Es el mismo Jesús que estuvo
 
-aqu; esos memoriales como de un cordero que ha sido inmolado nos aseguran que
+aquí; esos memoriales como de un cordero que ha sido inmolado nos aseguran que
 
-se trata del mismo hombre. Su condicin humana real est sentada en gloria en
+se trata del mismo hombre. Su condición humana real está sentada en gloria en
 
-el cielo y es susceptible de ser vista por el ojo y de ser oda por el odo, pero,
+el cielo y es susceptible de ser vista por el ojo y de ser oída por el oído, pero,
 
-con todo, es muy diferente. Si le hubisemos visto en Su agona, admiraramos
+con todo, es muy diferente. Si le hubiésemos visto en Su agonía, admiraríamos
 
-muchsimo ms Su gloria. Mediten de todo corazn en Cristo crucificado a
+muchísimo más Su gloria. Mediten de todo corazón en Cristo crucificado a
 
-menudo, pero gcense frecuentemente con una visin de Cristo glorificado.
+menudo, pero gócense frecuentemente con una visión de Cristo glorificado.
 
-Delitense pensando que l no est aqu, pues resucit; que no est aqu, pues
+Deléitense pensando que Él no está aquí, pues resucitó; que no está aquí, pues
 
-ascendi al cielo; que no est aqu, pues est sentado a la diestra de Dios e
+ascendió al cielo; que no está aquí, pues está sentado a la diestra de Dios e
 
 intercede por nosotros. Que sus almas viajen con frecuencia por la bendita
 
-calzada que va del sepulcro al trono. As como haba en Roma una
+calzada que va del sepulcro al trono. Así como había en Roma una
 
 Via Sacra
 
@@ -160,17 +160,17 @@ por la que marchaban desde las
 
 puertas de la ciudad hasta las alturas del Capitolio los vencedores que
 
-retornaban, as tambin hay otra
+retornaban, así también hay otra
 
 Via
 
 Sacra
 
-que ustedes deberan inspeccionar a menudo, pues por ella viaj en
+que ustedes deberían inspeccionar a menudo, pues por ella viajó en
 
-gloriosa majestad el Salvador resucitado desde el sepulcro de Jos de Arimatea
+gloriosa majestad el Salvador resucitado desde el sepulcro de José de Arimatea
 
-hasta las eternas dignidades de la diestra de Su Padre. Tu alma har bien en
+hasta las eternas dignidades de la diestra de Su Padre. Tu alma hará bien en
 
 contemplar la alborada de la esperanza de ella en Su muerte, y la plena
 
@@ -178,15 +178,15 @@ seguridad de la esperanza de ella en Su vida resucitada.
 
 Hoy mi tarea es mostrarles,
 
-con la ayuda de Dios el Espritu, primero,
+con la ayuda de Dios el Espíritu, primero,
 
 la
 
-potestad de resurreccin de nuestro Seor;
+potestad de resurrección de nuestro Seńor;
 
 y en segundo lugar,
 
-el modo de nuestro Seor de ejercer la parte
+el modo de nuestro Seńor de ejercer la parte
 
 espiritual de esa potestad con respecto a nosotros.
 
@@ -194,45 +194,45 @@ I.
 
 LA POTESTAD DE
 
-RESURRECCIN DE NUESTRO SEOR. Toda potestad me es dada en el cielo y en la
+RESURRECCIÓN DE NUESTRO SEŃOR. “Toda potestad me es dada en el cielo y en la
 
-tierra. A riesgo de repetirme, me gustara comenzar este encabezado
+tierra”. A riesgo de repetirme, me gustaría comenzar este encabezado
 
-pidindoles que recuerden el sermn que prediqu el domingo pasado por la
+pidiéndoles que recuerden el sermón que prediqué el domingo pasado por la
 
-maana, cuando fuimos a Getseman e inclinamos nuestros espritus a la sombra
+mańana, cuando fuimos a Getsemaní e inclinamos nuestros espíritus a la sombra
 
-de esos grisceos olivos ante el espectculo del sudor sangriento. Qu
+de esos grisáceos olivos ante el espectáculo del sudor sangriento. ˇQué
 
-contraste entre aquello y esto! All vieron la debilidad del hombre, la
+contraste entre aquello y esto! Allá vieron la debilidad del hombre, la
 
-inclinacin, la postracin y el aplastamiento de la condicin humana del
+inclinación, la postración y el aplastamiento de la condición humana del
 
-Mediador; pero aqu ven la fortaleza del Dios-hombre: est ceido de
+Mediador; pero aquí ven la fortaleza del Dios-hombre: está ceńido de
 
-omnipotencia, y si bien estaba todava en la tierra cuando pronunci estas
+omnipotencia, y si bien estaba todavía en la tierra cuando pronunció estas
 
-palabras, haba recibido un privilegio, un honor, una gloria, una plenitud y un
+palabras, había recibido un privilegio, un honor, una gloria, una plenitud y un
 
 poder que lo colocaban muy por encima de los hijos de los hombres. Como
 
-Mediador, ya no era ms un ser sufriente, sino un soberano; ya no era ms una
+Mediador, ya no era más un ser sufriente, sino un soberano; ya no era más una
 
-vctima, sino un vencedor; ya no era ms un siervo, sino el monarca de la
+víctima, sino un vencedor; ya no era más un siervo, sino el monarca de la
 
-tierra y del cielo. Sin embargo, l no habra recibido tal poder si no hubiese
+tierra y del cielo. Sin embargo, Él no habría recibido tal poder si no hubiese
 
-experimentado tal debilidad. No se le habra dado al Mediador toda potestad si
+experimentado tal debilidad. No se le habría dado al Mediador toda potestad si
 
-no se le hubiese suprimido todo consuelo. l se humill para conquistar. El
+no se le hubiese suprimido todo consuelo. Él se humilló para conquistar. El
 
-camino a Su trono era un descenso. Subiendo por peldaos de marfil, Salomn
+camino a Su trono era un descenso. Subiendo por peldańos de marfil, Salomón
 
-ascenda a su trono de oro; pero nuestro Dios y Seor
+ascendía a su trono de oro; pero nuestro Dios y Seńor
 
-descendi
+descendió
 
-para poder ascender, y baj a las terribles profundidades de una agona
+para poder ascender, y bajó a las terribles profundidades de una agonía
 
 indecible para recibir toda potestad en el cielo y en la tierra como nuestro
 
@@ -242,67 +242,67 @@ Piensen ahora un momento
 
 en estas palabras:
 
-Toda potestad.
+“Toda potestad”.
 
 Jesucristo
 
-recibi de Su Padre, como consecuencia de Su muerte, toda potestad. Es slo
+recibió de Su Padre, como consecuencia de Su muerte, “toda potestad”. Es sólo
 
 otra manera de decir que el Mediador posee omnipotencia, pues la omnipotencia no
 
-es sino toda potestad en latn. Qu mente habr de concebir, qu lengua habr
+es sino “toda potestad” en latín. żQué mente habrá de concebir, qué lengua habrá
 
-de explicarles el significado de: toda potestad? Nosotros no podemos
+de explicarles el significado de: ‘toda potestad’? Nosotros no podemos
 
 captarlo; es algo sublime y no podemos alcanzarlo. Tal conocimiento es
 
-demasiado prodigioso para nosotros. El poder de autoexistencia, el poder de creacin,
+demasiado prodigioso para nosotros. El poder de autoexistencia, el poder de creación,
 
-el poder de sustentacin de lo creado, el poder de formar y destruir, el poder
+el poder de sustentación de lo creado, el poder de formar y destruir, el poder
 
 de abrir y cerrar, de derrocar o de establecer, de matar y de hacer vivir, el
 
 poder de perdonar y de condenar, de dar y de retener, de decretar y de cumplir,
 
-en una palabra, el poder de ser: Cabeza sobre todas las cosas a la iglesia,
+en una palabra, el poder de ser: “Cabeza sobre todas las cosas a la iglesia”,
 
-todo eso le es conferido a Jesucristo nuestro Seor. Si quisiramos explicar
+todo eso le es conferido a Jesucristo nuestro Seńor. Si quisiéramos explicar
 
-qu es lo que significa toda potestad equivaldra a que intentramos
+qué es lo que significa “toda potestad” equivaldría a que intentáramos
 
 describir el infinito, o acotar lo ilimitado; pero sea lo que sea todo eso es
 
 dado
 
-a nuestro Seor, todo es puesto en
+a nuestro Seńor, todo es puesto en
 
-las manos que una vez fueron clavadas al madero de la vergenza, todo es
+las manos que una vez fueron clavadas al madero de la vergüenza, todo es
 
-confiado a ese corazn que fue atravesado con la lanza, todo es colocado como
+confiado a ese corazón que fue atravesado con la lanza, todo es colocado como
 
-una corona sobre esa cabeza que fue ceida con una corona de espinas.
+una corona sobre esa cabeza que fue ceńida con una corona de espinas.
 
-Toda potestad
+“Toda potestad
 
-en el cielo
+en el cielo”
 
-es Suya. Observen eso!
+es Suya. ˇObserven eso!
 
-Entonces l tiene el poder de Dios, pues Dios est en el cielo, y el poder de
+Entonces Él tiene el poder de Dios, pues Dios está en el cielo, y el poder de
 
-Dios emana de ese trono central. Entonces Jess tiene un poder divino. Jess
+Dios emana de ese trono central. Entonces Jesús tiene un poder divino. Jesús
 
-puede hacer todo lo que Jehov puede hacer. Si fuera Su voluntad crear otro
+puede hacer todo lo que Jehová puede hacer. Si fuera Su voluntad crear otro
 
-mundo con Su palabra, veramos esta noche una nueva estrella adornando la
+mundo con Su palabra, veríamos esta noche una nueva estrella adornando la
 
-frente de la noche. Si fuera Su voluntad plegar de inmediato a la creacin como
+frente de la noche. Si fuera Su voluntad plegar de inmediato a la creación como
 
-si fuera un vestido, he aqu que los elementos pasaran, y aquellos cielos se arrollaran
+si fuera un vestido, he aquí que los elementos pasarían, y aquellos cielos se arrollarían
 
-como un pergamino. El poder que ata los lazos de las Plyades, o desata las
+como un pergamino. El poder que ata los lazos de las Pléyades, o desata las
 
-ligaduras de Orin est con el Nazareno, el Crucificado gua a
+ligaduras de Orión está con el Nazareno, el Crucificado guía a
 
 la
 
@@ -310,61 +310,61 @@ Osa
 
 Mayor
 
-con sus hijos. Grupos de ngeles
+con sus hijos. Grupos de ángeles
 
-agitan sus alas en espera de cumplir las rdenes de Jess de Nazaret, y los
+agitan sus alas en espera de cumplir las órdenes de Jesús de Nazaret, y los
 
 querubines y los serafines y los cuatro seres vivientes delante del trono le
 
 obedecen incesantemente. Aquel que fue despreciado y desechado entre los
 
-hombres ahora inspira el homenaje de todo el cielo, como Dios sobre todas las
+hombres ahora inspira el homenaje de todo el cielo, como “Dios sobre todas las
 
-cosas, bendito por los siglos.
+cosas, bendito por los siglos”.
 
-Toda potestad en el
+“Toda potestad en el
 
-cielo se relaciona con la habilidad y el poder providenciales con los que Dios
+cielo” se relaciona con la habilidad y el poder providenciales con los que Dios
 
-gobierna todo en el universo. l sostiene las riendas de todas las fuerzas
+gobierna todo en el universo. Él sostiene las riendas de todas las fuerzas
 
 creadas, y las impele o las restringe a voluntad, dando fuerza a la ley y dando
 
-vida a toda existencia. Los antiguos paganos soaban diciendo que Apolo
+vida a toda existencia. Los antiguos paganos sońaban diciendo que Apolo
 
-conduca el carro del sol y guiaba a sus corceles de fuego en su curso
+conducía el carro del sol y guiaba a sus corceles de fuego en su curso
 
-cotidiano, pero no es as; Jess es Seor de todo. l engancha a los vientos a
+cotidiano, pero no es así; Jesús es Seńor de todo. Él engancha a los vientos a
 
 Su carro, y pone el freno en la boca de la tempestad, haciendo lo que le place
 
-entre los ejrcitos del cielo y los habitantes de este mundo inferior. De l emana
+entre los ejércitos del cielo y los habitantes de este mundo inferior. De Él emana
 
 el poder en el cielo que sustenta y gobierna este globo, pues el Padre ha
 
-encomendado todas las cosas en Sus manos. Todas las cosas en l subsisten.
+encomendado todas las cosas en Sus manos. “Todas las cosas en él subsisten”.
 
-Toda potestad tiene
+“Toda potestad” tiene
 
-que incluir y este es un punto prctico para nosotros- todo poder del Espritu
+que incluir –y este es un punto práctico para nosotros- todo poder del Espíritu
 
-Santo. Es l quien convence a los hombres de pecado y los conduce al Salvador, es
+Santo. Es Él quien convence a los hombres de pecado y los conduce al Salvador, es
 
-l quien les da nuevos corazones y espritus rectos y los planta en la iglesia
+Él quien les da nuevos corazones y espíritus rectos y los planta en la iglesia
 
-y luego hace que crezcan y se vuelvan fructferos. El poder del Espritu Santo
+y luego hace que crezcan y se vuelvan fructíferos. El poder del Espíritu Santo
 
-sale entre los hijos de los hombres de acuerdo a la voluntad de nuestro Seor. As
+sale entre los hijos de los hombres de acuerdo a la voluntad de nuestro Seńor. Así
 
-como el leo de la uncin derramado sobre la cabeza de Aarn descenda sobre la
+como el óleo de la unción derramado sobre la cabeza de Aarón descendía sobre la
 
-barba y rociaba el borde de sus vestiduras, as el Espritu que le ha sido dado
+barba y rociaba el borde de sus vestiduras, así el Espíritu que le ha sido dado
 
-sin medida fluye de l hacia nosotros. l tiene en reserva al Espritu, y de
+sin medida fluye de Él hacia nosotros. Él tiene en reserva al Espíritu, y de
 
-acuerdo a Su voluntad el Espritu Santo va a la iglesia, y de la iglesia va al
+acuerdo a Su voluntad el Espíritu Santo va a la iglesia, y de la iglesia va al
 
-mundo para el cumplimiento de los propsitos de la gracia salvadora. No es
+mundo para el cumplimiento de los propósitos de la gracia salvadora. No es
 
 posible que la iglesia falle por falta de dones o de influencia espirituales
 
@@ -372,297 +372,297 @@ mientras su Esposo celestial tenga tales reservas desbordantes de ambos.
 
 Todo el poder de la
 
-sagrada Trinidad, Padre, Hijo y Espritu est a las rdenes de Jess, quien es
+sagrada Trinidad, Padre, Hijo y Espíritu está a las órdenes de Jesús, quien es
 
-exaltado muy por encima de todo principado y autoridad y poder y seoro, y
+exaltado muy por encima de todo principado y autoridad y poder y seńorío, y
 
-sobre todo nombre que se nombra, no slo en este siglo, sino tambin en el
+sobre todo nombre que se nombra, no sólo en este siglo, sino también en el
 
 venidero.
 
-Nuestro Seor afirm
+Nuestro Seńor afirmó
 
-tambin que toda potestad le haba sido dada
+también que toda potestad le había sido dada
 
 en la tierra.
 
-Esto es ms de lo que podra decirse verdaderamente
+Esto es más de lo que podría decirse verdaderamente
 
-de cualquier simple ser humano; ningn ser humano puede reclamar todo poder en
+de cualquier simple ser humano; ningún ser humano puede reclamar todo poder en
 
-el cielo, y si aspirara a todo poder en la tierra sera slo un sueo. Muchos
+el cielo, y si aspirara a todo poder en la tierra sería sólo un sueńo. Muchos
 
-han ambicionado la monarqua universal pero raras veces ha sido alcanzada si es
+han ambicionado la monarquía universal pero raras veces ha sido alcanzada si es
 
-que ha sido alcanzada alguna vez; y cuando pareca estar al alcance de la
+que ha sido alcanzada alguna vez; y cuando parecía estar al alcance de la
 
-ambicin se ha derretido como un copo de nieve bajo el sol. Ciertamente, aunque
+ambición se ha derretido como un copo de nieve bajo el sol. Ciertamente, aunque
 
-los hombres pudieran gobernar sobre todos sus semejantes, no tendran todo el
+los hombres pudieran gobernar sobre todos sus semejantes, no tendrían todo el
 
 poder en la tierra, pues hay otras fuerzas que se burlan de su control. Crueles
 
-enfermedades se ren del poder de los hombres. El rey de Israel, cuando Naamn
+enfermedades se ríen del poder de los hombres. El rey de Israel, cuando Naamán
 
-vino a l para ser sanado de su lepra, clam: Soy yo Dios, que mate y d
+vino a él para ser sanado de su lepra, clamó: “żSoy yo Dios, que mate y dé
 
-vida, para que ste enve a m a que sane un hombre de su lepra? l no tena
+vida, para que éste envíe a mí a que sane un hombre de su lepra?” Él no tenía
 
-todo el poder. Adems, los vientos y las olas escarnecen el gobierno de los
+todo el poder. Además, los vientos y las olas escarnecen el gobierno de los
 
 mortales. No es cierto que ni siquiera Britania gobierne las olas. Canuto, para
 
 reprender a sus cortesanos, coloca su trono al margen de la marea y comanda a
 
-las olas que se cuiden de no mojar los pies de su regio seor; pero sus
+las olas que se cuiden de no mojar los pies de su regio seńor; pero sus
 
-cortesanos pronto se vieron cubiertos por el roco, y el monarca demostr que
+cortesanos pronto se vieron cubiertos por el rocío, y el monarca demostró que
 
-no era cierto que toda potestad le hubiere sido dada. Las ranas y las
+no era cierto que “toda potestad” le hubiere sido dada. Las ranas y las
 
-langostas y las moscas fueron ms que contendientes para Faran; los ms
+langostas y las moscas fueron más que contendientes para Faraón; los más
 
-grandes hombres son derrotados por las cosas dbiles de Dios. Nabucodonosor, herido
+grandes hombres son derrotados por las cosas débiles de Dios. Nabucodonosor, herido
 
-con locura y paciendo con el ganado, fue una ilustracin de la naturaleza tenebrosa
+con locura y paciendo con el ganado, fue una ilustración de la naturaleza tenebrosa
 
 de todo poder humano. Por cuenta de la enfermedad, del dolor y de la muerte, los
 
-prncipes ms altivos han sido conducidos a darse cuenta de que, despus de
+príncipes más altivos han sido conducidos a darse cuenta de que, después de
 
-todo, eran slo unos simples humanos; y a menudo sus debilidades han sido tales
+todo, eran sólo unos simples humanos; y a menudo sus debilidades han sido tales
 
-que han patentizado la verdad de que el poder le pertenece a Dios, y slo a
+que han patentizado la verdad de que el poder le pertenece a Dios, y sólo a
 
-Dios, de tal manera que cuando l confa un poco de poder a los hijos de los
+Dios, de tal manera que cuando Él confía un poco de poder a los hijos de los
 
-hombres, es tan poco que seran insensatos si se jactaran de l. Vean ustedes,
+hombres, es tan poco que serían insensatos si se jactaran de él. Vean ustedes,
 
 entonces, el prodigio que tenemos ante nosotros: un hombre que tiene poder
 
-sobre todas las cosas en la tierra, sin ninguna excepcin, y que es obedecido
+sobre todas las cosas en la tierra, sin ninguna excepción, y que es obedecido
 
-por todas las criaturas, grandes y pequeas, porque el Seor Jehov puso todo
+por todas las criaturas, grandes y pequeńas, porque el Seńor Jehová puso todo
 
 debajo de Sus pies.
 
-Ser de suma importancia
+Será de suma importancia
 
-para nuestros propsitos que recordemos que nuestro Seor tiene toda potestad
+para nuestros propósitos que recordemos que nuestro Seńor tiene “toda potestad”
 
 sobre las mentes de los seres humanos, tanto de buenos como de malos. Llama a
 
-quienes l quiere
+quienes Él quiere
 
-a que tengan comunin
+a que tengan comunión
 
-con l, y le obedecen. Habindolos llamado, l es capaz de santificarlos a un
+con Él, y le obedecen. Habiéndolos llamado, Él es capaz de santificarlos a un
 
-grado mximo de santidad, obrando en ellos segn el puro afecto de Su voluntad
+grado máximo de santidad, obrando en ellos según el puro afecto de Su voluntad
 
-con poder. Nuestro Seor puede influir de tal manera en los santos, por medio
+con poder. Nuestro Seńor puede influir de tal manera en los santos, por medio
 
-del Espritu Santo, que se ven impelidos a los ardores ms divinos y son
+del Espíritu Santo, que se ven impelidos a los ardores más divinos y son
 
-elevados a las ms sublimes disposiciones de nimo. Con frecuencia oro pidiendo
+elevados a las más sublimes disposiciones de ánimo. Con frecuencia oro pidiendo
 
--y sin duda de ustedes ha brotado tambin esa misma oracin- que Dios levante
+-y sin duda de ustedes ha brotado también esa misma oración- que Dios levante
 
-lderes en la iglesia, hombres llenos de fe y del Espritu Santo que sean portaestandartes
+líderes en la iglesia, hombres llenos de fe y del Espíritu Santo que sean portaestandartes
 
-en el da de la batalla. Son pocos los predicadores del Evangelio que predican
+en el día de la batalla. Son pocos los predicadores del Evangelio que predican
 
-con algn poder. Juan podra decir todava: no tendris muchos padres. Ms
+con algún poder. Juan podría decir todavía: “no tendréis muchos padres”. Más
 
 preciosos que el oro de Ofir son los hombres que se destacan como columnas de
 
-la casa del Seor, como baluartes de la verdad y como paladines en el
+la casa del Seńor, como baluartes de la verdad y como paladines en el
 
-campamento de Israel. Cun escasos son nuestros varones que cuentan con madera
+campamento de Israel. ˇCuán escasos son nuestros varones que cuentan con madera
 
-apostlica! Necesitamos nuevamente Luteros, Calvinos, Bunyans, Whitefields,
+apostólica! Necesitamos nuevamente Luteros, Calvinos, Bunyans, Whitefields,
 
-varones capaces de marcar pocas, cuyos nombres inspiren terror en los odos de
+varones capaces de marcar épocas, cuyos nombres inspiren terror en los oídos de
 
-nuestros enemigos. Tenemos una gran necesidad de tales individuos. Dnde
+nuestros enemigos. Tenemos una gran necesidad de tales individuos. żDónde
 
-estn? De dnde nos vendrn? No podramos decir en qu casa de granja o en qu
+están? żDe dónde nos vendrán? No podríamos decir en qué casa de granja o en qué
 
-herrera aldeana o en qu escuela pudieran encontrarse tales individuos, pero
+herrería aldeana o en qué escuela pudieran encontrarse tales individuos, pero
 
-nuestro Seor los tiene reservados. Ellos son dones de Jesucristo para la
+nuestro Seńor los tiene reservados. Ellos son dones de Jesucristo para la
 
-iglesia, y vendrn a su debido tiempo. l tiene potestad para devolvernos una
+iglesia, y vendrán a su debido tiempo. Él tiene potestad para devolvernos una
 
-edad de oro de predicadores, un tiempo tan fecundo de grandes telogos y de
+edad de oro de predicadores, un tiempo tan fecundo de grandes teólogos y de
 
-poderosos ministros como fue la poca de los puritanos que muchos de nosotros
+poderosos ministros como fue la época de los puritanos que muchos de nosotros
 
-consideramos como la edad de oro de la teologa. l puede enviar otra vez
+consideramos como la edad de oro de la teología. Él puede enviar otra vez
 
-hombres de solcito corazn que escudrien la palabra y extraigan sus tesoros, hombres
+hombres de solícito corazón que escudrińen la palabra y extraigan sus tesoros, hombres
 
-de sabidura y de experiencia que la usen bien y predicadores con una boca de
+de sabiduría y de experiencia que la usen bien y predicadores con una boca de
 
-oro que, ya sea como hijos del trueno o como hijos de la consolacin, entreguen
+oro que, ya sea como hijos del trueno o como hijos de la consolación, entreguen
 
-el mensaje del Seor con el acompaamiento del Espritu Santo enviado desde el cielo.
+el mensaje del Seńor con el acompańamiento del Espíritu Santo enviado desde el cielo.
 
-Cuando el Redentor subi a lo alto tom dones para los hombres, y esos dones
+Cuando el Redentor subió a lo alto tomó dones para los hombres, y esos dones
 
-eran hombres dotados para llevar a trmino la edificacin de la iglesia, tales
+eran hombres dotados para llevar a término la edificación de la iglesia, tales
 
-como evangelistas, pastores y maestros. l es todava capaz de dotar de esas
+como evangelistas, pastores y maestros. Él es todavía capaz de dotar de esas
 
-personas a Su pueblo, y es el deber del pueblo pedirlos en oracin, y cuando
+personas a Su pueblo, y es el deber del pueblo pedirlos en oración, y cuando
 
-llegan, recibirlos con gratitud. Debemos creer en la potestad de Jess de
+llegan, recibirlos con gratitud. Debemos creer en la potestad de Jesús de
 
-darnos valientes varones, varones de renombre, y no tenemos idea de cun pronto
+darnos valientes varones, varones de renombre, y no tenemos idea de cuán pronto
 
-los suplir.
+los suplirá.
 
 Dado que en las manos de
 
-Cristo se encuentra depositada toda potestad en la tierra, l puede revestir
+Cristo se encuentra depositada toda potestad en la tierra, Él puede revestir
 
-tambin a cualquiera de Sus siervos o a todos ellos de un poder sagrado,
+también a cualquiera de Sus siervos o a todos ellos de un poder sagrado,
 
-gracias al cual las manos de ellos les bastarn para cumplir su excelso llamamiento.
+gracias al cual las manos de ellos les bastarán para cumplir su excelso llamamiento.
 
-Sin ponerlos en las primeras filas, l hace que ocupen sus esferas designadas
+Sin ponerlos en las primeras filas, Él hace que ocupen sus esferas designadas
 
-hasta que l venga ceido de una potestad que los har tiles.
+hasta que Él venga ceńido de una potestad que los hará útiles.
 
-Hermano mo, el Seor
+Hermano mío, el Seńor
 
-Jess puede hacerte eminentemente prspero en la esfera en que te ha colocado;
+Jesús puede hacerte eminentemente próspero en la esfera en que te ha colocado;
 
-hermana ma, tu Seor puede bendecir por tu medio a los niitos que se agolpan
+hermana mía, tu Seńor puede bendecir por tu medio a los nińitos que se agolpan
 
-en tus rodillas. T eres muy dbil, y lo sabes, pero no hay razn por la que no
+en tus rodillas. Tú eres muy débil, y lo sabes, pero no hay razón por la que no
 
-puedas ser fuerte en l. Si buscas fuerzas en el fuerte, l puede investirte
+puedas ser fuerte en Él. Si buscas fuerzas en el fuerte, Él puede investirte
 
-con poder de lo alto, y decirte como le dijo a Geden: V con esta tu fuerza.
+con poder de lo alto, y decirte como le dijo a Gedeón: “Vé con esta tu fuerza”.
 
-Tu torpeza de lengua no tiene por qu descalificarte, pues l estar con tu
+Tu torpeza de lengua no tiene por qué descalificarte, pues Él estará con tu
 
-boca como estuvo con Moiss. Tu falta de cultura no ha de ser un obstculo para
+boca como estuvo con Moisés. Tu falta de cultura no ha de ser un obstáculo para
 
-ti, pues Samgar mat a los filisteos con su aguijada de bueyes, y Ams, el profeta,
+ti, pues Samgar mató a los filisteos con su aguijada de bueyes, y Amós, el profeta,
 
 fue un ganadero. Como Pablo, tu presencia personal puede ser despreciada por
 
-dbil, y tu forma de hablar puede ser considerada indigna, pero, a pesar de
+débil, y tu forma de hablar puede ser considerada indigna, pero, a pesar de
 
 todo, igual que Pablo, puedes aprender a gloriarte en la debilidad porque el
 
-poder de Dios descansa efectivamente en ti. T no ests estrecho en el Seor,
+poder de Dios descansa efectivamente en ti. Tú no estás estrecho en el Seńor,
 
-sino en ti mismo, si es que ests estrecho del todo. Podras estar tan seco
+sino en ti mismo, si es que estás estrecho del todo. Podrías estar tan seco
 
-como la vara de Aarn, pero l puede hacerte retoar y florecer y dar fruto. T
+como la vara de Aarón, pero Él puede hacerte retońar y florecer y dar fruto. Tú
 
-podras estar casi tan vaco como la vasija de la viuda, pero, con todo, l
+podrías estar casi tan vacío como la vasija de la viuda, pero, con todo, Él
 
-har que incluso te derrames hacia Sus santos. Podras sentir que ests cerca
+hará que incluso te derrames hacia Sus santos. Podrías sentir que estás cerca
 
-de hundirte como Pedro en medio de las olas, y, sin embargo, l impedir que tus
+de hundirte como Pedro en medio de las olas, y, sin embargo, Él impedirá que tus
 
-miedos se cumplan. Puedes haber fracasado tanto como los discpulos que haban
+miedos se cumplan. Puedes haber fracasado tanto como los discípulos que habían
 
-trabajado arduamente toda la noche y no haban sacado
+trabajado arduamente toda la noche y no habían sacado
 
 nada
 
 ,
 
-y, sin embargo, l puede llenar tu barca hasta el desborde. Nadie sabe lo que
+y, sin embargo, Él puede llenar tu barca hasta el desborde. Nadie sabe lo que
 
-el Seor puede hacer de cada quien, ni lo que puede hacer por medio de cada
+el Seńor puede hacer de cada quien, ni lo que puede hacer por medio de cada
 
-quien, y slo sabemos ciertamente que toda potestad reside en Aquel por quien
+quien, y sólo sabemos ciertamente que “toda potestad” reside en Aquel por quien
 
 fuimos redimidos y a quien pertenecemos.
 
 Oh, creyentes, recurran
 
-ustedes a su Seor para tomar de Su plenitud gracia sobre gracia. Debido a este
+ustedes a su Seńor para tomar de Su plenitud gracia sobre gracia. Debido a este
 
-poder nosotros creemos que si Jess quisiera l agitara a la iglesia entera de
+poder nosotros creemos que si Jesús quisiera Él agitaría a la iglesia entera de
 
-inmediato para que alcanzara la mxima energa. Est dormida la iglesia? Su
+inmediato para que alcanzara la máxima energía. żEstá dormida la iglesia? Su
 
-voz puede despertarla. No eleva oraciones? Su gracia puede estimularla a la
+voz puede despertarla. żNo eleva oraciones? Su gracia puede estimularla a la
 
-devocin. Se ha vuelto incrdula? l puede restaurarla a su antigua fe. Da la
+devoción. żSe ha vuelto incrédula? Él puede restaurarla a su antigua fe. żDa la
 
-espalda en el da de la batalla turbada con escepticismos y dudas? l puede
+espalda en el día de la batalla turbada con escepticismos y dudas? Él puede
 
 devolverle una confianza inquebrantable en el Evangelio, y hacerla valiente al
 
-punto que todos sus hijos sean hroes de la fe y pongan en huda a los
+punto que todos sus hijos sean héroes de la fe y pongan en huída a los
 
-ejrcitos extranjeros. Creamos y veremos la gloria de Dios. Creamos, repito, y
+ejércitos extranjeros. Creamos y veremos la gloria de Dios. Creamos, repito, y
 
-una vez ms vendrn nuestros das de conquista, cuando uno persiga a mil, y dos
+una vez más vendrán nuestros días de conquista, cuando uno persiga a mil, y dos
 
-hagan huir a diez mil. Nunca pierdan la esperanza por la iglesia; estn ansiosos
+hagan huir a diez mil. Nunca pierdan la esperanza por la iglesia; estén ansiosos
 
-por ella y conviertan su ansiedad en oracin, pero tengan esperanza
+por ella y conviertan su ansiedad en oración, pero tengan esperanza
 
-perennemente, pues su Redentor es poderoso y despertar su fuerza. Jehov de
+perennemente, pues su Redentor es poderoso y despertará su fuerza. “Jehová de
 
-los ejrcitos est con nosotros; nuestro refugio es el Dios de Jacob.
+los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob”.
 
 Degenerados como somos, hay Uno en medio de nosotros a quien el mundo no ve y
 
-de quien no somos dignos de desatar la correa del calzado. l nos bautizar de
+de quien no somos dignos de desatar la correa del calzado. Él nos bautizará de
 
-nuevo con el Espritu Santo y con fuego, pues toda potestad le es dada.
+nuevo con el Espíritu Santo y con fuego, pues “toda potestad le es dada”.
 
 Es igualmente cierto que
 
-toda potestad le ha sido dada a nuestro Seor sobre la humanidad entera,
+toda potestad le ha sido dada a nuestro Seńor sobre la humanidad entera,
 
-incluso sobre esa parte de la raza humana que lo rechaza y que contina en una
+incluso sobre esa parte de la raza humana que lo rechaza y que continúa en una
 
-deliberada rebelin. l puede usar a los impos para que cumplan Sus
+deliberada rebelión. Él puede usar a los impíos para que cumplan Sus
 
-propsitos. Sabemos gracias a la inspirada autoridad que Herodes y Pilato, con
+propósitos. Sabemos gracias a la inspirada autoridad que Herodes y Pilato, con
 
 los gentiles y el pueblo de Israel, se reunieron para hacer todo lo que la mano
 
-y el consejo de Dios predeterminaron que haran. Su suprema maldad no hizo sino
+y el consejo de Dios predeterminaron que harían. Su suprema maldad no hizo sino
 
-cumplir el consejo determinado de Dios. l hace as que la ira del hombre le
+cumplir el consejo determinado de Dios. Él hace así que la ira del hombre le
 
-alabe, y que las voluntades ms rebeldes se sometan a Sus sagrados propsitos.
+alabe, y que las voluntades más rebeldes se sometan a Sus sagrados propósitos.
 
-El reino de Jess rige sobre todo. Los poderes del infierno y todos sus
+El reino de Jesús rige sobre todo. Los poderes del infierno y todos sus
 
-ejrcitos junto con los reyes de la tierra y los gobernantes se levantan y
+ejércitos junto con los reyes de la tierra y los gobernantes se levantan y
 
-consultan unidos, pero en todo momento su furia est cumpliendo los designios
+consultan unidos, pero en todo momento su furia está cumpliendo los designios
 
-de Jess. Lo que no saben es que son slo esclavos del Rey de reyes, que son
+de Jesús. Lo que no saben es que son sólo esclavos del Rey de reyes, que son
 
-slo ayudantes de cocina en Su palacio imperial. Todas las cosas cumplen Sus
+sólo ayudantes de cocina en Su palacio imperial. Todas las cosas cumplen Sus
 
-rdenes. Su voluntad no se ve frustrada. Sus resoluciones no son derrotadas. La
+órdenes. Su voluntad no se ve frustrada. Sus resoluciones no son derrotadas. La
 
-voluntad de Jehov ser en su mano prosperada. Por fe lo veo rigiendo y
+voluntad de Jehová será en su mano prosperada. Por fe lo veo rigiendo y
 
-gobernando en tierra y mar, y en todos los lugares profundos. Gua las
+gobernando en tierra y mar, y en todos los lugares profundos. Guía las
 
 decisiones de los parlamentos, da instrucciones a los dictadores, comanda a los
 
-prncipes y gobierna a los emperadores. Basta que se levante y quienes lo odian
+príncipes y gobierna a los emperadores. Basta que se levante y quienes lo odian
 
-huirn delante de l. l los dispersar como es dispersado el humo; como la
+huirán delante de Él. Él los dispersará como es dispersado el humo; como la
 
-cera es derretida delante del fuego, as perecern todos Sus enemigos en Su
+cera es derretida delante del fuego, así perecerán todos Sus enemigos en Su
 
 presencia.
 
@@ -676,63 +676,63 @@ tiene poder sobre sus mentes de una manera maravillosa de contemplar. En el
 
 momento presente deploramos en gran manera el hecho de que la corriente de
 
-pensamiento pblico fluye con potencia hacia el Papado, que es el alias de la
+pensamiento público fluye con potencia hacia el Papado, que es el alias de la
 
-idolatra. Tal como en la historia del Antiguo Testamento el pueblo de Israel estaba
+idolatría. Tal como en la historia del Antiguo Testamento el pueblo de Israel estaba
 
-siempre tratando de ir en pos de sus dolos, as sucede con esta nacin. Los
+siempre tratando de ir en pos de sus ídolos, así sucede con esta nación. Los
 
-israelitas fueron curados de su pecado por un breve tiempo, mientras algn gran
+israelitas fueron curados de su pecado por un breve tiempo, mientras algún gran
 
 maestro o juez tuviera poder entre ellos pero, a su muerte, se desviaban para
 
-adorar a la reina del cielo o a los becerros de Bet-el u otros smbolos
+adorar a la reina del cielo o a los becerros de Bet-el u otros símbolos
 
 visibles. Lo mismo sucede ahora. Los hombres van enloquecidos en pos de los
 
-dolos de la antigua Roma. Estn convirtiendo a las viejas iglesias en recintos
+ídolos de la antigua Roma. Están convirtiendo a las viejas iglesias en recintos
 
-de adoracin llenos de incienso, y estn construyendo nuevos locales por todas
+de adoración llenos de incienso, y están construyendo nuevos locales por todas
 
-partes. Los templos de los dolos se estn volviendo tan numerosos en Londres
+partes. Los templos de los ídolos se están volviendo tan numerosos en Londres
 
-como en Calcuta. Los adoradores y los sacerdotes se llaman a s mismos
+como en Calcuta. Los adoradores y los sacerdotes se llaman a sí mismos
 
-cristianos, pero deberan llamarse mejor adoradores de la hostia o adoradores
+cristianos, pero deberían llamarse mejor adoradores de la hostia o adoradores
 
-de un fetiche elaborado con harina y agua, pues eso est ms cerca de la
+de un fetiche elaborado con harina y agua, pues eso está más cerca de la
 
 verdad.
 
-Bien, qu sigue? Estamos
+Bien, żqué sigue? żEstamos
 
-cayendo en la desesperacin? Dios no quiera que nos descorazonemos jams cuando
+cayendo en la desesperación? Dios no quiera que nos descorazonemos jamás cuando
 
-Jess ha recibido toda potestad en Su mano. l puede cambiar la corriente
+Jesús ha recibido toda potestad en Su mano. Él puede cambiar la corriente
 
-ntegra de pensamiento para que siga la direccin opuesta, y puede hacerlo de
+íntegra de pensamiento para que siga la dirección opuesta, y puede hacerlo de
 
-inmediato. No observaron, cuando el Prncipe de Gales estuvo enfermo hace
+inmediato. żNo observaron, cuando el Príncipe de Gales estuvo enfermo hace
 
-algunos meses, que todo el mundo renda honor a la doctrina de la oracin? No
+algunos meses, que todo el mundo rendía honor a la doctrina de la oración? żNo
 
-notaron cmo el
+notaron cómo el
 
 Times
 
 y otros
 
-peridicos hablaron de manera muy creyente respecto a la oracin? En este
+periódicos hablaron de manera muy creyente respecto a la oración? En este
 
-momento est de moda desdear la idea de que Dios oye nuestras peticiones; pero
+momento está de moda desdeńar la idea de que Dios oye nuestras peticiones; pero
 
-entonces no era as. Un gran filsofo nos ha dicho que es absurdo suponer que
+entonces no era así. Un gran filósofo nos ha dicho que es absurdo suponer que
 
-la oracin pueda tener algn efecto sobre los eventos de la vida; pero Dios
+la oración pueda tener algún efecto sobre los eventos de la vida; pero Dios
 
-slo tiene que visitar a la nacin con algn juicio que sea sentido severamente
+sólo tiene que visitar a la nación con algún juicio que sea sentido severamente
 
-por todos y su filsofo se quedara tan callado como un ratn. De la misma
+por todos y su filósofo se quedaría tan callado como un ratón. De la misma
 
 manera, estoy firmemente persuadido de que por una vuelta de la rueda de
 
@@ -740,25 +740,25 @@ la Providencia
 
 , el Papado
 
-que est ahora tan de moda sera convertido, como lo ha sido en el pasado, en
+que está ahora tan de moda sería convertido, como lo ha sido en el pasado, en
 
-una provocacin que sirve para amotinar a las turbas, y mis seores y mis
+una provocación que sirve para amotinar a las turbas, y mis seńores y mis
 
-damas, en vez de apresurarse hacia el Papa, estaran muy ansiosos de repudiar
+damas, en vez de apresurarse hacia el Papa, estarían muy ansiosos de repudiar
 
-toda conexin con todo ese asunto. Para m poco importa cul camino sigan estas
+toda conexión con todo ese asunto. Para mí poco importa cuál camino sigan estas
 
 finas personas en cualquier momento, excepto que son las pajas que muestran en
 
-qu direccin sopla el viento. Lo repito, la corriente de pensamiento puede ser
+qué dirección sopla el viento. Lo repito, la corriente de pensamiento puede ser
 
-modificada fcilmente por nuestro Seor; l puede manejarla tan fcilmente como
+modificada fácilmente por nuestro Seńor; Él puede manejarla tan fácilmente como
 
-el molinero controla el torrente que fluye sobre su rueda, o que pasa rpidamente
+el molinero controla el torrente que fluye sobre su rueda, o que pasa rápidamente
 
-a un lado. Los tiempos estn seguros en la administracin de nuestro Redentor.
+a un lado. Los tiempos están seguros en la administración de nuestro Redentor.
 
-l es ms poderoso que el diablo, que el Papa, que el infiel, y que los
+Él es más poderoso que el diablo, que el Papa, que el infiel, y que los
 
 ritualistas considerados en su conjunto. Toda la gloria sea dada a Aquel que
 
@@ -766,61 +766,61 @@ tiene toda potestad en la tierra y en el cielo.
 
 De igual manera, nuestro
 
-Seor puede dar y en efecto da al pueblo una inclinacin a or el Evangelio.
+Seńor puede dar y en efecto da al pueblo una inclinación a oír el Evangelio.
 
-Nunca tengan miedo de convocar a una reunin cuando el Evangelio sea su tema.
+Nunca tengan miedo de convocar a una reunión cuando el Evangelio sea su tema.
 
-Jess, que les da una lengua consagrada, encontrar odos dispuestos a
+Jesús, que les da una lengua consagrada, encontrará oídos dispuestos a
 
 escucharlos. A una orden suya los santuarios desiertos se llenan, y la gente se
 
-arremolina a or el feliz sonido. S, y puede hacer algo ms, pues puede hacer
+arremolina a oír el feliz sonido. Sí, y puede hacer algo más, pues puede hacer
 
-que la palabra sea poderosa para la conversin de miles de personas. l puede
+que la palabra sea poderosa para la conversión de miles de personas. Él puede
 
-constreir a los frvolos a pensar, a los obstinadamente herticos a aceptar la
+constreńir a los frívolos a pensar, a los obstinadamente heréticos a aceptar la
 
 verdad, a esos que ponen sus rostros como un pedernal a ceder a Su agraciada
 
-influencia. l tiene la llave de cada corazn humano. l abre y ninguno cierra,
+influencia. Él tiene la llave de cada corazón humano. Él abre y ninguno cierra,
 
-y cierra y ninguno abre. l vestir Su palabra con poder y someter con ella a
+y cierra y ninguno abre. Él vestirá Su palabra con poder y someterá con ella a
 
 las naciones. A nosotros nos corresponde proclamar el Evangelio, y creer que
 
-nadie est ms all del poder salvador de Jesucristo. Teido doblemente, s,
+nadie está más allá del poder salvador de Jesucristo. Teńido doblemente, sí,
 
 hundido siete veces en el tinte escarlata del vicio, el pecador puede ser
 
 limpiado, y el cabecilla del vicio puede convertirse en un modelo de santidad. El
 
-fariseo puede ser convertido; acaso Pablo no fue convertido? Incluso los
+fariseo puede ser convertido; żacaso Pablo no fue convertido? Incluso los
 
-sacerdotes pueden ser salvados, pues acaso no crey una gran multitud de
+sacerdotes pueden ser salvados, pues żacaso no creyó una gran multitud de
 
-sacerdotes? No hay nadie, en ninguna posicin concebible de pecado, que est
+sacerdotes? No hay nadie, en ninguna posición concebible de pecado, que esté
 
-ms all del poder de Cristo. Puede llegar al lmite mximo en el pecado, al
+más allá del poder de Cristo. Puede llegar al límite máximo en el pecado, al
 
-punto de estar al borde del infierno, pero si Jess extiende su mano perforada,
+punto de estar al borde del infierno, pero si Jesús extiende su mano perforada,
 
-ser como un tizn arrebatado del incendio.
+será como un tizón arrebatado del incendio.
 
 Mi alma se ilumina
 
-cuando pienso en lo que mi Seor puede hacer. Si toda potestad le es dada en el
+cuando pienso en lo que mi Seńor puede hacer. Si toda potestad le es dada en el
 
-cielo y en la tierra, entonces esta maana puede convertir, perdonar y salvar a
+cielo y en la tierra, entonces esta mańana puede convertir, perdonar y salvar a
 
-todo hombre y a toda mujer en este lugar; es ms, l podra influenciar a los
+todo hombre y a toda mujer en este lugar; es más, Él podría influenciar a los
 
-cuatro millones de habitantes de esta ciudad para que clamaran: Qu debemos
+cuatro millones de habitantes de esta ciudad para que clamaran: “żQué debemos
 
-hacer para ser salvos? Y no slo puede obrar en esta ciudad, sino a travs de
+hacer para ser salvos?” Y no sólo puede obrar en esta ciudad, sino a través de
 
-la tierra entera. Si le pareciere bien a Su infinita sabidura y poder, l
+la tierra entera. Si le pareciere bien a Su infinita sabiduría y poder, Él
 
-podra hacer que cada sermn fuera un instrumento de conversin de todos los
+podría hacer que cada sermón fuera un instrumento de conversión de todos los
 
 que lo oyeren, que cada Biblia y que cada copia de
 
@@ -828,63 +828,63 @@ la Palabra
 
 se convirtiera en
 
-un canal de salvacin para todos los que la leyeren, y no s en qu breve
+un canal de salvación para todos los que la leyeren, y no sé en qué breve
 
-tiempo se escuchara el clamor: Aleluya, porque el Seor nuestro Dios
+tiempo se escucharía el clamor: “ˇAleluya, porque el Seńor nuestro Dios
 
-Todopoderoso reina! Pueden estar seguros de que ese grito se oir. Estamos del
+Todopoderoso reina!” Pueden estar seguros de que ese grito se oirá. Estamos del
 
-lado del vencedor. Tenemos con nosotros a Uno que es infinitamente ms grande
+lado del vencedor. Tenemos con nosotros a Uno que es infinitamente más grande
 
-que todo lo que pudiera estar en contra nuestra, puesto que toda potestad le
+que todo lo que pudiera estar en contra nuestra, puesto que “toda potestad” le
 
-es dada a l.
+es dada a Él.
 
 Hermanos, no albergamos
 
-ninguna duda, no abrigamos ningn temor, pues cada instante est trayendo el
+ninguna duda, no abrigamos ningún temor, pues cada instante está trayendo el
 
-grandioso despliegue del poder de Jess. Nosotros predicamos hoy, y algunos de
+grandioso despliegue del poder de Jesús. Nosotros predicamos hoy, y algunos de
 
 ustedes desprecian al Evangelio; nosotros les presentamos a Cristo, y ustedes
 
-lo rechazan; pero Dios cambiar Su mano con ustedes en breve, y los desprecios
+lo rechazan; pero Dios cambiará Su mano con ustedes en breve, y los desprecios
 
-y los rechazos de ustedes llegarn entonces a un fin, pues ese mismo Jess que ascendi
+y los rechazos de ustedes llegarán entonces a un fin, pues ese mismo Jesús que ascendió
 
-al cielo desde el Monte de los Olivos, as vendr como fue visto ir al cielo.
+al cielo desde el Monte de los Olivos, así vendrá como fue visto ir al cielo.
 
-l descender con pompa y poder incomparables, y este mundo asombrado que lo
+Él descenderá con pompa y poder incomparables, y este mundo asombrado que lo
 
-vio crucificado lo ver entronizado; y en el mismsimo lugar en el que los
+vio crucificado lo verá entronizado; y en el mismísimo lugar en el que los
 
-hombres acosaban Sus talones y lo perseguan, se arremolinarn junto a l para
+hombres acosaban Sus talones y lo perseguían, se arremolinarán junto a Él para
 
-rendirle homenaje, pues l ha de reinar, y ha de poner a Sus enemigos bajo Sus
+rendirle homenaje, pues Él ha de reinar, y ha de poner a Sus enemigos bajo Sus
 
-pies. Esta misma tierra que una vez se vio turbada con Sus aflicciones ser
+pies. Esta misma tierra que una vez se vio turbada con Sus aflicciones será
 
-alegrada por Sus triunfos. Y hay algo ms. Podran estar muertos antes de que
+alegrada por Sus triunfos. Y hay algo más. Podrían estar muertos antes de que
 
-el Seor viniera, y sus cuerpos podran estarse pudriendo en la tumba, pero
+el Seńor viniera, y sus cuerpos podrían estarse pudriendo en la tumba, pero
 
-sabrn que toda potestad es Suya, pues al sonido de la trompeta sus cuerpos
+sabrán que toda potestad es Suya, pues al sonido de la trompeta sus cuerpos
 
-resucitarn y estarn delante de Su terrible tribunal. Podran haberle
+resucitarán y estarán delante de Su terrible tribunal. Podrían haberle
 
-resistido aqu, pero sern incapaces de oponrsele entonces; podran
+resistido aquí, pero serán incapaces de oponérsele entonces; podrían
 
-despreciarlo ahora, pero entonces habrn de temblar delante de l. Apartaos de
+despreciarlo ahora, pero entonces habrán de temblar delante de Él. “Apartaos de
 
-m, malditos, ser para ustedes una terrible prueba de que l tiene toda
+mí, malditos”, será para ustedes una terrible prueba de que Él tiene “toda
 
-potestad, si no quieren aceptar ahora otra prueba ms dulce de ello viniendo a
+potestad”, si no quieren aceptar ahora otra prueba más dulce de ello viniendo a
 
-Jess que les pide a los trabajados y cansados que compartan Su reposo. Honrad
+Jesús que les pide a los trabajados y cansados que compartan Su reposo. “Honrad
 
-al Hijo, para que no se enoje, y perezcis en el camino; pues se inflama de
+al Hijo, para que no se enoje, y perezcáis en el camino; pues se inflama de
 
-pronto su ira. Bienaventurados todos los que en l confan.
+pronto su ira. Bienaventurados todos los que en él confían”.
 
 II.
 
@@ -892,415 +892,415 @@ En
 
 segundo lugar, les pido que me tengan paciencia pues tengo que mostrar EL MODO
 
-USUAL DE NUESTRO SEOR DE EJERCER SU GRANDIOSO PODER ESPIRITUAL. Hermanos, el
+USUAL DE NUESTRO SEŃOR DE EJERCER SU GRANDIOSO PODER ESPIRITUAL. Hermanos, el
 
-Seor Jess podra haber dicho: Toda potestad me es dada en el cielo y en la
+Seńor Jesús podría haber dicho: “Toda potestad me es dada en el cielo y en la
 
 tierra; tomen entonces sus espadas y maten a todos estos que son mis enemigos
 
-que me crucificaron. Pero l no tuvo pensamientos de revancha. l podra haber
+que me crucificaron”. Pero Él no tuvo pensamientos de revancha. Él podría haber
 
-dicho: Estos judos me inmolaron, por tanto, vayan directamente a las Islas y
+dicho: “Estos judíos me inmolaron, por tanto, vayan directamente a las Islas y
 
-a Tarsis y prediquen, pues estos hombres nunca gustarn de mi gracia, pero no,
+a Tarsis y prediquen, pues estos hombres nunca gustarán de mi gracia”, pero no,
 
-l dijo expresamente: comenzando en Jerusaln, y orden a Sus discpulos que predicaran
+Él dijo expresamente: “comenzando en Jerusalén”, y ordenó a Sus discípulos que predicaran
 
-primero el Evangelio a Sus asesinos. Como consecuencia de que tena toda
+primero el Evangelio a Sus asesinos. Como consecuencia de que tenía “toda
 
-potestad Sus siervos recibieron la orden de discipular a todas las naciones.
+potestad” Sus siervos recibieron la orden de discipular a todas las naciones.
 
-Hermanos mos, el mtodo
+Hermanos míos, el método
 
-por el cual Jess se propone someter todas las cosas pareciera ser
+por el cual Jesús se propone someter todas las cosas pareciera ser
 
-completamente inadecuado. Ensear, hacer discpulos, bautizar a esos
+completamente inadecuado. ˇEnseńar, hacer discípulos, bautizar a esos
 
-discpulos, e instruirlos ms en la fe! Maestro bueno, son estas cosas el armamento
+discípulos, e instruirlos más en la fe! Maestro bueno, żson estas cosas el armamento
 
-de nuestra guerra? Son estas cosas Tu hacha de combate y las armas de la
+de nuestra guerra? żSon estas cosas Tu hacha de combate y las armas de la
 
-batalla? Los prncipes de este mundo no contemplan as la conquista, pues ellos
+batalla? Los príncipes de este mundo no contemplan así la conquista, pues ellos
 
-confan en caones monstruosos, en acorazados y en mquinas de un poder letal.
+confían en cańones monstruosos, en acorazados y en máquinas de un poder letal.
 
-Con todo, qu son todas esas cosas sino una prueba de su debilidad? Si
+Con todo, żqué son todas esas cosas sino una prueba de su debilidad? Si
 
-tuvieran toda potestad en ellos mismos no necesitaran de tales instrumentos.
+tuvieran toda potestad en ellos mismos no necesitarían de tales instrumentos.
 
-Slo aquel que tiene toda potestad puede hacer que Sus rdenes se cumplan por
+Sólo aquel que tiene ‘toda potestad’ puede hacer que Sus órdenes se cumplan por
 
 una palabra, y puede prescindir de toda fuerza excepto la del amor.
 
-Fjense que
+Fíjense que
 
-la enseanza y la predicacin son la manera
+la enseńanza y la predicación son la manera
 
-en que el Seor muestra Su poder.
+en que el Seńor muestra Su poder.
 
 Hoy se nos dice que la manera de salvar a
 
 las almas es erigir un altar con diferentes sedas y con satines de colores que
 
-varan segn el almanaque, y que es vestir a los sacerdotes con ornamentos de
+varían según el almanaque, y que es vestir a los sacerdotes con ornamentos de
 
-diversos colores, tela de colores de doble bordadura en el cuello del
+diversos colores, “tela de colores de doble bordadura en el cuello del
 
-victorioso, y hacer que los hombres vistan enaguas, cosa que es deshonrosa
+victorioso”, y hacer que los hombres vistan enaguas, cosa que es deshonrosa
 
-para su sexo. Con estas cintas y bordados, unidos a la quema de incienso, a posturas
+para su sexo. ˇCon estas cintas y bordados, unidos a la quema de incienso, a posturas
 
-y a encantamientos, las almas han de ser salvadas! No es de esa manera dice
+y a encantamientos, las almas han de ser salvadas! “No es de esa manera” –dice
 
-el Maestro, sino Id por todo el mundo y predicad el evangelio a toda
+el Maestro, sino “Id por todo el mundo y predicad el evangelio a toda
 
-criatura. Acaso algunos de ustedes temen que, despus de todo, la predicacin
+criatura”. żAcaso algunos de ustedes temen que, después de todo, la predicación
 
 del Evangelio sea derrotada en esta tierra nuestra por esas nuevas ediciones de
 
-la vieja idolatra? Ni Dios lo quiera. Si slo quedara uno de nosotros para
+la vieja idolatría? Ni Dios lo quiera. Si sólo quedara uno de nosotros para
 
-predicar el Evangelio, sera un digno contendiente para enfrentar a diez mil
+predicar el Evangelio, sería un digno contendiente para enfrentar a diez mil
 
-sacerdotes. Basta que nos dieran la lengua que arde por obra del Espritu Santo
+sacerdotes. Basta que nos dieran la lengua que arde por obra del Espíritu Santo
 
-y una Biblia abierta, y un solitario predicador hara huir a toda la turba de
+y una Biblia abierta, y un solitario predicador haría huir a toda la turba de
 
 sus monjes y de sus frailes y padres confesores, y de hermanas de la miseria, y
 
 monjas, y peregrinos, y obispos, y cardenales, y papas; porque predicar y
 
-ensear y bautizar a los discpulos es la manera de Cristo de hacer las cosas,
+enseńar y bautizar a los discípulos es la manera de Cristo de hacer las cosas,
 
-y la superchera sacerdotal no es la manera de Cristo. Si Cristo lo hubiera
+y la superchería sacerdotal no es la manera de Cristo. Si Cristo lo hubiera
 
-ordenado, la eficacia sacramental tendra xito, pero l no ha ordenado nada de
+ordenado, la eficacia sacramental tendría éxito, pero Él no ha ordenado nada de
 
-ese tipo; Su mandato es: Toda potestad me es dada en el cielo y en la tierra.
+ese tipo; Su mandato es: ‘Toda potestad me es dada en el cielo y en la tierra.
 
-Por tanto, id, y haced discpulos a todas las naciones, bautizndolos en el
+Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el
 
-nombre del Dios Trino.
+nombre del Dios Trino’.
 
-Hermanos mos, recuerden
+Hermanos míos, recuerden
 
-quines eran los hombres que fueron enviados en esta misin. Los once ms
+quiénes eran los hombres que fueron enviados en esta misión. Los once más
 
-destacados eran primordialmente pescadores. Acaso el omnipotente Jess elige a
+destacados eran primordialmente pescadores. żAcaso el omnipotente Jesús elige a
 
-unos pescadores para someter al mundo? As lo hace porque no necesita ninguna
+unos pescadores para someter al mundo? Así lo hace porque no necesita ninguna
 
 ayuda de nadie. Suya es toda potestad. Tenemos que tener un ministerio educado,
 
-se nos dice; y por un ministerio educado quieren decir, no el ministerio de
+se nos dice; y por “un ministerio educado” quieren decir, no el ministerio de
 
-un hombre de sentido comn, de cabeza clara y de corazn clido, de profunda
+un hombre de sentido común, de cabeza clara y de corazón cálido, de profunda
 
 experiencia y de un amplio conocimiento de la naturaleza humana, sino el
 
-ministerio de simples estudiantes de los clsicos y de las matemticas, de tericos,
+ministerio de simples estudiantes de los clásicos y de las matemáticas, de teóricos,
 
-y de novatos, ms entendidos en las infidelidades modernas que en la verdad de
+y de novatos, más entendidos en las infidelidades modernas que en la verdad de
 
-Dios. Si nuestro Seor hubiera deseado emplear a los sabios segn el mundo,
+Dios. Si nuestro Seńor hubiera deseado emplear a los sabios según el mundo,
 
-podra haber elegido ciertamente a once varones en Corinto o en Atenas, quienes
+podría haber elegido ciertamente a once varones en Corinto o en Atenas, quienes
 
-se habran ganado el respeto general por sus logros, o podra haber encontrado
+se habrían ganado el respeto general por sus logros, o podría haber encontrado
 
 a once doctos rabinos cerca de casa; pero no necesitaba a tales varones; sus
 
-alardeados logros no eran de ningn valor a Sus ojos. l eligi a hombres
+alardeados logros no eran de ningún valor a Sus ojos. Él eligió a hombres
 
-honestos y sinceros que eran lo suficientemente semejantes a los nios para
+honestos y sinceros que eran lo suficientemente semejantes a los nińos para
 
 aprender la verdad, y lo bastante osados para decirla una vez conocida. La
 
-iglesia debe deshacerse de la nocin que tiene que depender de la sabidura de
+iglesia debe deshacerse de la noción que tiene que depender de la sabiduría de
 
-este mundo. No podemos tener una palabra en contra de una sana educacin,
+este mundo. No podemos tener una palabra en contra de una sana educación,
 
-especialmente de una educacin en las Escrituras, pero poner a los ttulos
+especialmente de una educación en las Escrituras, pero poner a los títulos
 
-acadmicos en el lugar del don del Espritu Santo, o valorar el estilo presente
+académicos en el lugar del don del Espíritu Santo, o valorar el estilo presente
 
-de la as llamada cultura por encima de la edificacin espiritual de nuestra
+de la así llamada cultura por encima de la edificación espiritual de nuestra
 
-condicin humana, es erigir a un dolo en la casa del Dios viviente. El Seor
+condición humana, es erigir a un ídolo en la casa del Dios viviente. El Seńor
 
-puede usar de la misma manera al varn ms iletrado que al ms ilustrado, si
+puede usar de la misma manera al varón más iletrado que al más ilustrado, si
 
-as le agradara. Id dijo- ustedes, pescadores, id, y ensead a todas las
+así le agradara. “Id” –dijo- “ustedes, pescadores, id, y enseńad a todas las
 
-naciones. La crtica de la razn carnal sobre esto es: un dbil mtodo a ser
+naciones”. La crítica de la razón carnal sobre esto es: ˇun débil método a ser
 
-implementado por instrumentos ms dbiles!
+implementado por instrumentos más débiles!
 
 Ahora bien, debe notarse
 
-aqu que la obra de la predicacin del Evangelio, que es la manera en que
+aquí que la obra de la predicación del Evangelio, que es la manera en que
 
-Cristo usa Su poder entre los hombres, est basada nicamente en que l tiene
+Cristo usa Su poder entre los hombres, está basada únicamente en que Él tiene
 
-esa potestad. Escuchen a algunos de mis hermanos; ellos dicen: No debes
+esa potestad. Escuchen a algunos de mis hermanos; ellos dicen: “No debes
 
-predicar el Evangelio a un pecador muerto, porque el pecador no tiene ningn
+predicar el Evangelio a un pecador muerto, porque el pecador no tiene ningún
 
-poder. Es precisamente as, pero nuestra razn para predicarle a l es que
+poder”. Es precisamente así, pero nuestra razón para predicarle a él es que
 
-toda potestad le es dada a Jess, y l nos ordena predicar el Evangelio a toda
+toda potestad le es dada a Jesús, y Él nos ordena predicar el Evangelio a toda
 
-criatura. Pero cuando le dices a un pecador que crea, no tienes el poder de
+criatura. “Pero cuando le dices a un pecador que crea, no tienes el poder de
 
-hacerlo creer. As es ciertamente, ni tampoco soamos tenerlo, pues toda
+hacerlo creer”. Así es ciertamente, ni tampoco sońamos tenerlo, pues toda
 
 potestad descansa en Cristo. Tampoco hay en el pecador poder para creer, ni en
 
-el predicador hay poder para hacerlo creer, pues toda potestad est en nuestro
+el predicador hay poder para hacerlo creer, pues toda potestad está en nuestro
 
-Seor. Pero ellos preguntan: piensas que tus persuasiones harn que un hombre
+Seńor. Pero ellos preguntan: “żpiensas que tus persuasiones harán que un hombre
 
-se arrepienta y crea jams? Ciertamente no. El poder que conduce a los hombres
+se arrepienta y crea jamás?” Ciertamente no. El poder que conduce a los hombres
 
-a arrepentirse y a creer no radica en la retrica ni en la razn ni en la
+a arrepentirse y a creer no radica en la retórica ni en la razón ni en la
 
-persuasin, sino en Aquel que dice: Toda potestad me es dada en el cielo y en
+persuasión, sino en Aquel que dice: “Toda potestad me es dada en el cielo y en
 
-la tierra. Yo les digo esto: si mi Seor y Maestro me ordenara que fuera
+la tierra”. Yo les digo esto: si mi Seńor y Maestro me ordenara que fuera
 
-maana al cementerio de
+mańana al cementerio de
 
 Norwood y que
 
-mandara a los muertos que se levantaran, yo lo hara con el mismo placer con el
+mandara a los muertos que se levantaran, yo lo haría con el mismo placer con el
 
-que predico ahora el Evangelio a esta congregacin; y lo hara por la misma razn
+que predico ahora el Evangelio a esta congregación; y lo haría por la misma razón
 
 que ahora me conduce a exhortar a los no regenerados a que se arrepientan y
 
-sean convertidos; pues yo considero que los hombres estn muertos en el pecado,
+sean convertidos; pues yo considero que los hombres están muertos en el pecado,
 
 y con todo, les digo que vivan porque mi Maestro me manda que lo haga; que
 
-estoy en lo correcto actuando as queda demostrado por el hecho de que mientras
+estoy en lo correcto actuando así queda demostrado por el hecho de que mientras
 
 estoy predicando los pecadores viven; bendito sea Su nombre pues miles de ellos
 
-han sido vivificados para vida. Ezequiel tena que clamar: Huesos secos,
+han sido vivificados para vida. Ezequiel tenía que clamar: “Huesos secos,
 
-vivan. Qu necedad es decir eso! Pero Dios justific a Su siervo en ello y un
+vivan”. ˇQué necedad es decir eso! Pero Dios justificó a Su siervo en ello y un
 
-ejrcito sumamente grande se puso de pie en lo que una vez fue un gran osario.
+ejército sumamente grande se puso de pie en lo que una vez fue un gran osario.
 
-Los hombres de Josu recibieron la orden de tocar sus trompetas alrededor de
+Los hombres de Josué recibieron la orden de tocar sus trompetas alrededor de
 
-Jeric era algo sumamente absurdo tocar la trompeta para hacer que se
+Jericó –era algo sumamente absurdo tocar la trompeta para hacer que se
 
 derrumbaran los muros- pero fueron derrumbados a pesar de todo. Los hombres de
 
-Geden recibieron la orden de llevar teas dentro de sus cntaros, y de romper
+Gedeón recibieron la orden de llevar teas dentro de sus cántaros, y de romper
 
-sus cntaros, y de estarse firmes y clamar a gran voz: Por la espada de
+sus cántaros, y de estarse firmes y clamar a gran voz: “ˇPor la espada de
 
-Jehov y de Geden!, era algo muy ridculo esperar que por ese medio se pudiera
+Jehová y de Gedeón!”, –era algo muy ridículo esperar que por ese medio se pudiera
 
 hacer morir a los madianitas- pero fueron aniquilados, pues Dios no les pide a
 
 Sus siervos que intenten hacer cosas que no tienen ninguna probabilidad de
 
-xito. A Dios le agrada cumplir Sus divinos propsitos por medio de la necedad
+éxito. A Dios le agrada cumplir Sus divinos propósitos por medio de la necedad
 
-de la predicacin, no debido al poder de la predicacin, ni debido al poder del
+de la predicación, no debido al poder de la predicación, ni debido al poder del
 
-predicador, ni debido a ningn poder en los que oyen la predicacin, sino
+predicador, ni debido a ningún poder en los que oyen la predicación, sino
 
-porque toda potestad le es dada a Cristo en el cielo y en la tierra, y l
+porque “toda potestad” le es dada a Cristo “en el cielo y en la tierra”, y Él
 
-decide obrar por medio de la enseanza de
+decide obrar por medio de la enseńanza de
 
 la Palabra.
 
-Nuestra obligacin,
+Nuestra obligación,
 
-entonces, es justamente esto. Hemos de ensear, o como lo expresa la palabra
+entonces, es justamente esto. Hemos de enseńar, o como lo expresa la palabra
 
-griega, hemos de hacer discpulos. Nuestra obligacin es -cada uno de acuerdo a
+griega, hemos de hacer discípulos. Nuestra obligación es -cada uno de acuerdo a
 
 la gracia que le es concedida- predicarles a nuestros semejantes el Evangelio y
 
-tratar de discipularlos para Jess. Cuando se convierten en discpulos, nuestro
+tratar de discipularlos para Jesús. Cuando se convierten en discípulos, nuestro
 
-siguiente deber es darles la seal del discipulado bautizndolos. Ese
+siguiente deber es darles la seńal del discipulado “bautizándolos”. Ese
 
-entierro simblico declara la muerte en Jess de sus egos anteriores y su
+entierro simbólico declara la muerte en Jesús de sus egos anteriores y su
 
-resurreccin a una vida nueva por medio de l. El bautismo enrola y sella a los
+resurrección a una vida nueva por medio de Él. El bautismo enrola y sella a los
 
-discpulos, y no debemos ni omitirlo ni darle un lugar indebido. Cuando el
+discípulos, y no debemos ni omitirlo ni darle un lugar indebido. Cuando el
 
-discpulo es enrolado, el misionero debe convertirse en el pastor, ensendoles
+discípulo es enrolado, el misionero debe convertirse en el pastor, “enseńándoles
 
-que guarden todas las cosas que os he mandado. El discpulo es admitido en la
+que guarden todas las cosas que os he mandado”. El discípulo es admitido en la
 
 escuela al obedecer el mandato del Salvador respecto al bautismo, y luego
 
-contina aprendiendo, y conforme aprende tambin ensea a los dems. Se le ensea
+continúa aprendiendo, y conforme aprende también enseńa a los demás. Se le enseńa
 
 la obediencia, no a algunas cosas, sino a todas las cosas que Cristo ha
 
 mandado. Es admitido dentro de la iglesia no para que se convierta en un
 
-legislador o en un diseador de nuevas doctrinas y ceremonias, sino para creer
+legislador o en un diseńador de nuevas doctrinas y ceremonias, sino para creer
 
-lo que Cristo le dice y hacer lo que Cristo le ordena. As nuestro Seor tiene
+lo que Cristo le dice y hacer lo que Cristo le ordena. Así nuestro Seńor tiene
 
-la intencin de establecer un reino que desmenuzar a cualquier otro; aquellos
+la intención de establecer un reino que desmenuzará a cualquier otro; aquellos
 
-que lo conocen deben ensear a otros; y as de uno a otro, la asombrosa
+que lo conocen deben enseńar a otros; y así de uno a otro, la asombrosa
 
-potestad que Cristo trajo del cielo se propagar de una tierra a otra. Vean,
+potestad que Cristo trajo del cielo se propagará de una tierra a otra. Vean,
 
-entonces, hermanos mos, su excelso llamamiento, y vean tambin el apoyo que
+entonces, hermanos míos, su excelso llamamiento, y vean también el apoyo que
 
-tienen para cumplirlo. En la vanguardia vean toda potestad que sale de
+tienen para cumplirlo. ˇEn la vanguardia vean “toda potestad” que sale de
 
-Cristo! En la retaguardia vean al propio Seor: He aqu yo estoy con vosotros
+Cristo! En la retaguardia vean al propio Seńor: “He aquí yo estoy con vosotros
 
-todos los das, hasta el fin del mundo. Si son enrolados en este ejrcito, los
+todos los días, hasta el fin del mundo”. Si son enrolados en este ejército, los
 
-exhorto a que sean fieles a su grandioso capitn, a que hagan Su obra
+exhorto a que sean fieles a su grandioso capitán, a que hagan Su obra
 
-cuidadosamente de la manera que l la ha prescrito para ustedes, y a que
+cuidadosamente de la manera que Él la ha prescrito para ustedes, y a que
 
 esperen ver Su potestad manifestada para Su propia gloria.
 
 Quisiera concluir este
 
-sermn de manera muy prctica. La mayor parte de mi congregacin en este
+sermón de manera muy práctica. La mayor parte de mi congregación en este
 
-momento la constituyen personas que han credo en Jess, que han sido
+momento la constituyen personas que han creído en Jesús, que han sido
 
-bautizadas y que adicionalmente han sido instruidas. T crees que Jess tiene
+bautizadas y que adicionalmente han sido instruidas. Tú crees que Jesús tiene
 
-toda potestad y que l obra a travs de la enseanza y de la predicacin del
+toda potestad y que Él obra a través de la enseńanza y de la predicación del
 
-Evangelio, y por eso quiero presionarte con una pregunta domstica. Cunto
+Evangelio, y por eso quiero presionarte con una pregunta doméstica. żCuánto
 
-ests haciendo en lo tocante a ensear a todas las naciones? Esta
+estás haciendo en lo tocante a enseńar a todas las naciones? Esta
 
-responsabilidad te es asignada a ti as como a m; para este propsito somos
+responsabilidad te es asignada a ti así como a mí; para este propósito somos
 
 enviados al mundo; somos receptores para que seamos posteriormente
 
-distribuidores. Cunto has distribuido? Querido hermano, querida hermana, a
+distribuidores. żCuánto has distribuido? Querido hermano, querida hermana, ża
 
-cuntas personas les has contado la historia de la redencin por medio de la
+cuántas personas les has contado la historia de la redención por medio de la
 
-sangre de Jess? T ya has sido un convertido durante algn tiempo: a quin le
+sangre de Jesús? Tú ya has sido un convertido durante algún tiempo: ża quién le
 
-has hablado o a quin le has escrito acerca de Jess? Ests distribuyendo las
+has hablado o a quién le has escrito acerca de Jesús? żEstás distribuyendo las
 
-palabras de otros de la mejor manera que te sea posible, si es que t mismo eres
+palabras de otros de la mejor manera que te sea posible, si es que tú mismo eres
 
-incapaz de eslabonar algunas palabras? No repliques: pertenezco a un iglesia
+incapaz de eslabonar algunas palabras? No repliques: “pertenezco a un iglesia
 
-que est haciendo mucho. Ese no es el punto. Hablo de lo que t ests haciendo
+que está haciendo mucho”. Ese no es el punto. Hablo de lo que tú estás haciendo
 
-personalmente. Jess no muri por nosotros a travs de algn apoderado, sino
+personalmente. Jesús no murió por nosotros a través de algún apoderado, sino
 
-que carg nuestros pecados en Su propio cuerpo sobre el madero. Entonces yo
+que cargó nuestros pecados en Su propio cuerpo sobre el madero. Entonces yo
 
-pregunto: qu ests haciendo personalmente? Ests haciendo algo? Pero yo no
+pregunto: żqué estás haciendo personalmente? żEstás haciendo algo? “Pero yo no
 
-puedo irme de misionero, dir alguien. Ests seguro de que no puedes? He
+puedo irme de misionero”, dirá alguien. żEstás seguro de que no puedes? He
 
-estado en espera de una poca cuando muchos de ustedes sientan que tienen que
+estado en espera de una época cuando muchos de ustedes sientan que tienen que
 
 ir a predicar el Evangelio por todas partes, y abandonen comodidades y
 
-emolumentos por causa del Seor. Yo nunca sentir que hemos alcanzado el mximo
+emolumentos por causa del Seńor. Yo nunca sentiré que hemos alcanzado el máximo
 
-grado del celo cristiano mientras no se vuelva algo muy comn entre nosotros
+grado del celo cristiano mientras no se vuelva algo muy común entre nosotros
 
-tener jvenes hermanos, tales como los dos que partieron hace muy poco tiempo,
+tener jóvenes hermanos, tales como los dos que partieron hace muy poco tiempo,
 
-que se consagren al ms grandioso de los servicios. Tal vez algunos de ustedes
+que se consagren al más grandioso de los servicios. Tal vez algunos de ustedes
 
-tengan esa intencin formada a medias en sus corazones; espero que no la
+tengan esa intención formada a medias en sus corazones; espero que no la
 
 repriman, y que sus padres no los obstaculicen para que cumplan el bendito
 
 sacrificio. No puede haber mayor honor para una iglesia que tener muchos hijos
 
-e hijas que soporten lo ms recio de la batalla por el Seor. He aqu, yo
+e hijas que soporten lo más recio de la batalla por el Seńor. He aquí, yo
 
 levanto un estandarte entre ustedes hoy para que aquellos cuyos corazones Dios
 
-ha tocado acudan a l sin demora. Los paganos estn pereciendo; estn muriendo
+ha tocado acudan a él sin demora. Los paganos están pereciendo; están muriendo
 
-a millones sin Cristo, y el postrer mandato de Cristo para nosotros es: Vayan
+a millones sin Cristo, y el postrer mandato de Cristo para nosotros es: “Vayan
 
-y enseen a las naciones. Lo estn obedeciendo ustedes? Yo no puedo ir
+y enseńen a las naciones”. żLo están obedeciendo ustedes? “Yo no puedo ir”
 
-dice alguien- tengo una familia y muchos lazos que me atan en casa. Yo te
+–dice alguien- “tengo una familia y muchos lazos que me atan en casa”. Yo te
 
-pregunto, entonces, amado hermano mo: ests yendo tan lejos como puedes?
+pregunto, entonces, amado hermano mío: żestás yendo tan lejos como puedes?
 
-Cubres la mxima distancia que te permite la correa providencial que te ha atado
+żCubres la máxima distancia que te permite la correa providencial que te ha atado
 
-donde ests? Al preparar este sermn, reflexionaba sobre lo poco que la mayora
+donde estás? Al preparar este sermón, reflexionaba sobre lo poco que la mayoría
 
 de nosotros hace para enviar el Evangelio a todas partes. Como iglesia estamos
 
 haciendo una tarea decente por nuestros paganos en casa, y yo me regocijo al
 
-reconocerlo; pero cunto da cada uno de ustedes al ao para las misiones
+reconocerlo; pero żcuánto da cada uno de ustedes al ańo para las misiones
 
-extranjeras? Deseara que anotaran en su libreta de apuntes cunto dan por ao
+extranjeras? Desearía que anotaran en su libreta de apuntes cuánto dan por ańo
 
-para las misiones, y que luego calcularan qu porcentaje es para su propio
+para las misiones, y que luego calcularan qué porcentaje es para su propio
 
-consumo. Registren as: Inciso: di a la colecta en el pasado mes de Abril. .
+consumo. Registren así: “Inciso: di a la colecta en el pasado mes de Abril. .
 
-.tantas libras. Un centavo por ao para la salvacin del mundo. Tal vez se
+.tantas libras”. Un centavo por ańo para la salvación del mundo. Tal vez se
 
-vera as: Inciso: Ingreso
+vería así: “Inciso: Ingreso
 
 5,000 libras
 
-esterlinas al ao, suscripcin
+esterlinas al ańo, suscripción
 
-anual para la misin:
+anual para la misión:
 
 1
 
 libra
 
-esterlina. Cmo se ve eso? Yo no puedo leer sus
+esterlina”. żCómo se ve eso? Yo no puedo leer sus
 
 corazones, pero puedo leer su libreta de apuntes y calcular una suma
 
 proporcional. Sugiero que lo hagan ustedes mismos, mientras yo reviso mis
 
-propios gastos. Veamos todos cunto ms puede hacerse para propagar el reino
+propios gastos. Veamos todos cuánto más puede hacerse para propagar el reino
 
-del Redentor, pues l ha recibido toda potestad; y cuando Su pueblo sea
+del Redentor, pues Él ha recibido toda potestad; y cuando Su pueblo sea
 
 conducido a creer en esa potestad, y a usar la simple pero potente maquinaria
 
-de la predicacin del Evangelio a todas las naciones, entonces Dios, nuestro
+de la predicación del Evangelio a todas las naciones, entonces Dios, nuestro
 
-propio Dios nos bendecir, y todos los confines de la tierra le temern. Amn.
+propio Dios nos bendecirá, y todos los confines de la tierra le temerán. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Marcos 16.
+del sermón: Marcos 16.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 4/Abril/2012
 

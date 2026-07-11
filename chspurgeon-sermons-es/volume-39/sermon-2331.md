@@ -1,10 +1,10 @@
 # Sermón 2331 | Sermón 2331
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-La Oracin
+La Oración
 
 Pastoral
 
@@ -12,7 +12,7 @@ de Cristo por
 
 Su Pueblo
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -22,7 +22,7 @@ DEL
 
 DOMINGO 1 DE SETIEMBRE, 1889
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -30,47 +30,47 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 22 DE
 
 OCTUBRE, 1893.
 
-Yo ruego por
+“Yo ruego por
 
 ellos; no ruego por el mundo, sino por los que me diste; porque tuyos son, y
 
-todo lo mo es tuyo, y lo tuyo mo; y he sido glorificado en ellos. Juan 17:
+todo lo mío es tuyo, y lo tuyo mío; y he sido glorificado en ellos”. Juan 17:
 
 9, 10.
 
 Doy comienzo observando
 
-que nuestro Seor Jess intercede por Su propio pueblo. l se pone Su pectoral
+que nuestro Seńor Jesús intercede por Su propio pueblo. Él se pone Su pectoral
 
-sacerdotal por las tribus cuyos nombres estn all y presenta el sacrificio
+sacerdotal por las tribus cuyos nombres están allí y presenta el sacrificio
 
-expiatorio por el Israel elegido de Dios. Tambin nos revela esta gran verdad
+expiatorio por el Israel elegido de Dios. También nos revela esta gran verdad
 
-que algunos consideran restrictiva, pero que nosotros adoramos: Yo ruego por
+que algunos consideran restrictiva, pero que nosotros adoramos: “Yo ruego por
 
-ellos; no ruego por el mundo. Quiero que presten atencin a este punto: el
+ellos; no ruego por el mundo”. Quiero que presten atención a este punto: el
 
 motivo por el que Cristo no ruega por el mundo, sino por Su pueblo. Dice:
 
-Porque son tuyos, como si fueran aun ms dignos de estima para l por pertenecer
+“Porque son tuyos”, como si fueran aun más dignos de estima para Él por pertenecer
 
-al Padre: Yo ruego por ellos; no ruego por el mundo, sino por los que me
+al Padre: “Yo ruego por ellos; no ruego por el mundo, sino por los que me
 
-diste; porque tuyos son. Se
+diste; porque tuyos son”. Se
 
 hubiera
 
 podido pensar que
 
-Jess dira: Mos son, y por tanto, ruego por ellos. Eso habra sido cierto,
+Jesús diría: “Míos son, y por tanto, ruego por ellos”. Eso habría sido cierto,
 
-pero no hubiera contenido la belleza de la verdad que es revelada aqu. l nos
+pero no hubiera contenido la belleza de la verdad que es revelada aquí. Él nos
 
-ama mucho ms y ruega ms fervientemente por nosotros porque pertenecemos al
+ama mucho más y ruega más fervientemente por nosotros porque pertenecemos al
 
 Padre. Que pertenezcamos al Padre nos cubre con el halo de una belleza
 
-suplementaria ante l, debido al amor que le tiene al Padre. Porque
+suplementaria ante Él, debido al amor que le tiene al Padre. Porque
 
 pertenecemos al Padre, el Salvador ruega por nosotros ante el trono de la
 
@@ -78,57 +78,57 @@ gracia celestial con una mayor intensidad.
 
 Pero esto nos lleva a
 
-recordar que nuestro Seor haba asumido unos compromisos de afianzamiento a
+recordar que nuestro Seńor había asumido unos compromisos de afianzamiento a
 
-cuenta de Su pueblo; se haba obligado a preservar el don del Padre: A los que
+cuenta de Su pueblo; se había obligado a preservar el don del Padre: “A los que
 
-me diste, yo los guard, y ninguno de ellos se perdi. Consideraba a las
+me diste, yo los guardé, y ninguno de ellos se perdió”. Consideraba a las
 
-ovejas de Su prado como pertenecientes a Su Padre, y el Padre las haba puesto
+ovejas de Su prado como pertenecientes a Su Padre, y el Padre las había puesto
 
-a Su cargo, dicindole: A ti te pedir cuenta por ellas. Cuando Jacob cuidaba
+a Su cargo, diciéndole: “A ti te pediré cuenta por ellas”. Cuando Jacob cuidaba
 
-los rebaos de su to, de da lo consuma el calor, y de noche la helada, pero
+los rebańos de su tío, de día lo consumía el calor, y de noche la helada, pero
 
-era muy cuidadoso con esos rebaos porque eran de Labn. Los cuidaba ms que si
+era muy cuidadoso con esos rebańos porque eran de Labán. Los cuidaba más que si
 
-hubieran sido propios. Jacob tena que rendirle cuentas de todas las ovejas que
+hubieran sido propios. Jacob tenía que rendirle cuentas de todas las ovejas que
 
-estaban a su cuidado, y as lo haca, y no perdi ni una sola de las ovejas de
+estaban a su cuidado, y así lo hacía, y no perdió ni una sola de las ovejas de
 
-Labn; pero el cuidado que les prodigaba se deba en parte al hecho de que no
+Labán; pero el cuidado que les prodigaba se debía en parte al hecho de que no
 
-eran suyas, sino que pertenecan a su to Labn.
+eran suyas, sino que pertenecían a su tío Labán.
 
 Comprendan, entonces,
 
-este doble motivo para la oracin pastoral de Cristo por los miembros de Su
+este doble motivo para la oración pastoral de Cristo por los miembros de Su
 
 pueblo. Primero, ora por ellos porque pertenecen al Padre, y, debido a eso tienen
 
-un valor especial a Sus ojos; y luego, debido a que pertenecen al Padre, est
+un valor especial a Sus ojos; y luego, debido a que pertenecen al Padre, está
 
-obligado mediante una fianza a entregrselos al Padre en aquel ltimo gran da
+obligado mediante una fianza a entregárselos al Padre en aquel último gran día
 
 cuando las ovejas pasen bajo la vara de quien las cuenta. Ahora ya pueden ver
 
-adnde quiero conducirlos esta noche. As como en aquella ocasin Cristo no or
+adónde quiero conducirlos esta noche. Así como en aquella ocasión Cristo no oró
 
 por el mundo, yo tampoco voy a predicarle al mundo en este momento; voy a
 
-predicarle a Su propio pueblo as como l rog por ese pueblo en esa oracin
+predicarle a Su propio pueblo así como Él rogó por ese pueblo en esa oración
 
-intercesora. Confo que todos me sigan, paso a paso, a travs de este grandioso
+intercesora. Confío que todos me sigan, paso a paso, a través de este grandioso
 
-tema; y oro pidiendo al Seor que esta noche encontremos un refrigerio real
+tema; y oro pidiendo al Seńor que esta noche encontremos un refrigerio real
 
 para nuestras almas en estas profundas verdades centrales del Evangelio.
 
 I.
 
-Rogndoles
+Rogándoles
 
-que presten atencin a mi texto, quiero que noten, primero,
+que presten atención a mi texto, quiero que noten, primero,
 
 LA INTENSIDAD
 
@@ -136,23 +136,23 @@ DEL
 
 SENTIDO DE PROPIEDAD QUE CRISTO TIENE CON RESPECTO A SU PUEBLO.
 
-Hay aqu
+Hay aquí
 
 seis palabras que declaran que quienes son
 
 salvados son propiedad de Cristo:
 
-Los que
+“Los que
 
-me diste
+me diste”
 
-(esa es una); porque
+(esa es una); “porque
 
 tuyos
 
 son. Y todo
 
-lo mo
+lo mío
 
 es
 
@@ -160,43 +160,47 @@ tuyo,
 
 y lo
 
-tuyo mo;
+tuyo mío;
 
-y he sido glorificado en ellos. Hay ciertas personas que
+y he sido glorificado en ellos”. Hay ciertas personas que
 
-son tan preciosas para Cristo que estn marcadas por todas partes con unas
+son tan preciosas para Cristo que están marcadas por todas partes con unas
 
-seales especiales que indican que le pertenecen. Yo he conocido a ciertos
+seńales especiales que indican que le pertenecen. Yo he conocido a ciertos
 
-individuos que escriben su nombre en algn libro que valoran grandemente, y
+individuos que escriben su nombre en algún libro que valoran grandemente, y
 
-luego pasan unas cuantas pginas y vuelven a escribirlo; y hemos conocido a ciertas
+luego pasan unas cuantas páginas y vuelven a escribirlo; y hemos conocido a ciertas
 
 personas que valoran algo tan altamente, que ponen su marca, su sello, su
 
 firma, por un lado y por otro y finalmente en casi todo ese objeto. Entonces, en
 
-mi texto, noten cmo el Seor pareciera tener un sello en Su mano con el cual
+mi texto, noten cómo el Seńor pareciera tener un sello en Su mano con el cual
 
-sella por todas partes Su posesin especial: Tuyos son. Y todo lo mo es tuyo,
+sella por todas partes Su posesión especial: “Tuyos son. Y todo lo mío es tuyo,
 
-y lo tuyo mo. Todos esos son pronombres posesivos que muestran que Dios
+y lo tuyo mío”. Todos esos son pronombres posesivos que muestran que Dios
 
-considera que Su pueblo es Su porcin, Su posesin y Su propiedad. Sern para
+considera que Su pueblo es Su porción, Su posesión y Su propiedad. “Serán para
 
-m especial tesoro, ha dicho Jehov de los ejrcitos, en el da en que yo
+mí especial tesoro, ha dicho Jehová de los ejércitos, en el día en que yo
 
-acte. Todo hombre tiene algo que valora ms que todos los dems bienes de su
+actúe”. Todo hombre tiene algo que valora más que todos los demás bienes de su
 
-propiedad; y aqu el Seor, al reiterar tanto las palabras que denotan
+propiedad; y aquí el Seńor, al reiterar tanto las palabras que denotan
 
-posesin, demuestra que valora a Su pueblo ms que todo. Demostremos que apreciamos
+posesión, demuestra que valora a Su pueblo más que todo. Demostremos que apreciamos
 
 el privilegio de ser apartados para Dios; cada uno de nosotros debe decirle al
 
-Seor:
+Seńor:
 
-Toma mi pobre corazn, y que est
+“
+
+ˇ
+
+Toma mi pobre corazón, y que esté
 
 Cerrado para todo, excepto para Ti, para siempre
 
@@ -204,95 +208,95 @@ Cerrado para todo, excepto para Ti, para siempre
 
 Sella mi pecho, y haz que lleve
 
-Esa prenda de amor por siempre all.
+Esa prenda de amor por siempre allí”.
 
 En seguida les pido su
 
-atencin al hecho de que si bien encontramos estas seis expresiones aqu,
+atención al hecho de que si bien encontramos estas seis expresiones aquí,
 
 todas ellas son aplicadas al propio pueblo
 
-del Seor.
+del Seńor.
 
-Lo mo (es decir, los santos) es tuyo (es decir, los
+“Lo mío” (es decir, los santos) “es tuyo” (es decir, los
 
-santos); y lo tuyo (es decir, los santos) mo (es decir, los santos). Todas
+santos); “y lo tuyo” (es decir, los santos) “mío” (es decir, los santos). Todas
 
-estas profusas flechas del Rey de reyes estn estampadas en Su pueblo. Si bien
+estas profusas flechas del Rey de reyes están estampadas en Su pueblo. Si bien
 
-las marcas de posesin son numerosas, todas estn enfocadas a un objetivo.
+las marcas de posesión son numerosas, todas están enfocadas a un objetivo.
 
-Cmo! Acaso a Dios no le importa nada ms? Yo respondo: No; en comparacin
+ˇCómo! żAcaso a Dios no le importa nada más? Yo respondo: No; en comparación
 
-con Su propio pueblo, a l no le interesa nada ms. La porcin de Jehov es su
+con Su propio pueblo, a Él no le interesa nada más. “La porción de Jehová es su
 
-pueblo; Jacob la heredad que le toc. Acaso no tiene Dios otras cosas? Ah,
+pueblo; Jacob la heredad que le tocó”. żAcaso no tiene Dios otras cosas? Ah,
 
-qu hay que no sea Suyo? El oro y la plata son Suyos, y los millares de
+żqué hay que no sea Suyo? El oro y la plata son Suyos, y los millares de
 
-animales en los collados. Todas las cosas son de Dios; de l, y por l, y por
+animales en los collados. Todas las cosas son de Dios; de Él, y por Él, y por
 
-medio de l y para l son todas las cosas; sin embargo, no las estima en
+medio de Él y para Él son todas las cosas; sin embargo, no las estima en
 
-comparacin con Su pueblo.
+comparación con Su pueblo.
 
 Amados hermanos, ustedes
 
-saben cunto valoran a sus hijos en comparacin con todo lo dems. Madre, si
+saben cuánto valoran a sus hijos en comparación con todo lo demás. Madre, si
 
-hubiera un incendio en tu hogar esta noche y slo pudieras sacar una cosa de
+hubiera un incendio en tu hogar esta noche y sólo pudieras sacar una cosa de
 
-all, dudaras un instante respecto a cul debera ser esa cosa? Sacaras a tu
+allí, żdudarías un instante respecto a cuál debería ser esa cosa? Sacarías a tu
 
-beb, y dejaras que todo lo dems fuera consumido por el fuego. Lo mismo
+bebé, y dejarías que todo lo demás fuera consumido por el fuego. Lo mismo
 
-sucede con Dios. l cuida de Su pueblo por sobre todo lo dems. l es el Seor
+sucede con Dios. Él cuida de Su pueblo por sobre todo lo demás. Él es el Seńor
 
 Dios de Israel, y en Israel ha puesto Su nombre, y en Israel se deleita.
 
-Callar de amor, se regocijar sobre ti con cnticos.
+‘Callará de amor, se regocijará sobre ti con cánticos’.
 
 Quiero que noten estos
 
-diferentes puntos, no porque tenga la capacidad de explicrselos
+diferentes puntos, no porque tenga la capacidad de explicárselos
 
 individualmente; pero si pudiera darles algunas de estas grandes verdades para
 
-que las meditaran, y para que les ayudaran a tener comunin con Cristo esta
+que las meditaran, y para que les ayudaran a tener comunión con Cristo esta
 
-noche, habra hecho algo bueno. Con respecto a estas notas de posesin, quiero
+noche, habría hecho algo bueno. Con respecto a estas notas de posesión, quiero
 
 que observen adicionalmente que
 
 ocurren
 
-en una comunicacin privada entre el Padre y el Hijo.
+en una comunicación privada entre el Padre y el Hijo.
 
-Es en la oracin de
+Es en la oración de
 
-nuestro Seor, cuando l est hablando con el Padre en el santuario, en el
+nuestro Seńor, cuando Él está hablando con el Padre en el santuario, en el
 
-atrio interior, que omos estas palabras: Todo lo mo es tuyo, y lo tuyo mo.
+atrio interior, que oímos estas palabras: “Todo lo mío es tuyo, y lo tuyo mío”.
 
-No es ni a ustedes ni a m a quienes se dirige en aquel momento; el Hijo de
+No es ni a ustedes ni a mí a quienes se dirige en aquel momento; el Hijo de
 
-Dios est hablando con el Padre en un momento de ntima comunin del uno con el
+Dios está hablando con el Padre en un momento de íntima comunión del uno con el
 
 otro. Ahora bien, esto me indica que el Padre y el Hijo valoran grandemente a
 
-los creyentes. Lo que la gente dice cuando est en el seno de la confianza, (no
+los creyentes. Lo que la gente dice cuando está en el seno de la confianza, (no
 
-lo que dice en el mercado ni los temas que comenta cuando est en medio del
+lo que dice en el mercado ni los temas que comenta cuando está en medio del
 
-confuso gento), lo que dice cuando est en la intimidad, es lo que pone al
+confuso gentío), lo que dice cuando está en la intimidad, es lo que pone al
 
-descubierto su corazn. Aqu el Hijo est hablando con el Padre, no sobre el
+descubierto su corazón. Aquí el Hijo está hablando con el Padre, no sobre el
 
 trono o sobre las cosas de la realeza, no sobre querubines ni serafines, sino
 
-sobre unos pobres hombres y mujeres que en aquellos das eran en su mayora
+sobre unos pobres hombres y mujeres que en aquellos días eran en su mayoría
 
-pescadores y campesinos que crean en l. Hablan acerca de esas personas, y el
+pescadores y campesinos que creían en Él. Hablan acerca de esas personas, y el
 
 Hijo disfruta de Su propio solaz con el Padre en Su secreta privacidad,
 
@@ -302,7 +306,7 @@ el especial tesoro de ambos.
 
 Ustedes no tienen ni la
 
-menor idea de cunto
+menor idea de cuánto
 
 los ama
 
@@ -310,73 +314,73 @@ Dios. Amado hermano,
 
 amada hermana, ustedes no se han formado nunca una idea plena y ni siquiera la
 
-fraccin de una idea respecto a cun preciosos son para Cristo. T piensas que
+fracción de una idea respecto a cuán preciosos son para Cristo. Tú piensas que
 
-l no te ama mucho porque eres muy imperfecto y porque te quedas muy lejos de
+Él no te ama mucho porque eres muy imperfecto y porque te quedas muy lejos de
 
-tu propio ideal. Piensas que no puede hacerlo. Has medido alguna vez la
+tu propio ideal. Piensas que no puede hacerlo. żHas medido alguna vez la
 
-profundidad de la agona de Cristo en Getseman y la de Su muerte en el
+profundidad de la agonía de Cristo en Getsemaní y la de Su muerte en el
 
-Calvario? Si has intentado hacerlo, tendras la seguridad de que, prescindiendo
+Calvario? Si has intentado hacerlo, tendrías la seguridad de que, prescindiendo
 
-de cualquier cosa en ti o relativa a ti, l te ama con un amor que excede a
+de cualquier cosa en ti o relativa a ti, Él te ama con un amor que excede a
 
-todo conocimiento. Crelo. Me parece que te oigo decir: Pero yo no lo amo como
+todo conocimiento. Créelo. Me parece que te oigo decir: “Pero yo no lo amo como
 
-debera. No, y nunca lo hars a menos que conozcas primero Su amor por ti.
+debería”. No, y nunca lo harás a menos que conozcas primero Su amor por ti.
 
-Crelo. Cree con la mxima intensidad posible que te ama de tal manera que,
+Créelo. Cree con la máxima intensidad posible que te ama de tal manera que,
 
-cuando no hay nadie que pueda tener comunin con l, excepto el Padre, aun
+cuando no hay nadie que pueda tener comunión con Él, excepto el Padre, aun
 
-entonces Su conversacin es sobre Su mutua estimacin por ti y cunto te aman:
+entonces Su conversación es sobre Su mutua estimación por ti y cuánto te aman:
 
-Todo lo mo es tuyo, y lo tuyo mo.
+“Todo lo mío es tuyo, y lo tuyo mío”.
 
-Slo agregar un
+Sólo agregaré un
 
-pensamiento ms bajo este encabezado, y lo nico que har es ponerlo ante
+pensamiento más bajo este encabezado, y lo único que haré es ponerlo ante
 
 ustedes, y dejarlo con ustedes, pues no puedo exponerlo esta noche.
 
-Todo lo que Jess dice est relacionado con
+Todo lo que Jesús dice está relacionado con
 
 todo Su pueblo,
 
-pues afirma: Todo lo mo es tuyo, y lo tuyo mo. Estas
+pues afirma: “Todo lo mío es tuyo, y lo tuyo mío”. Estas
 
-plticas secretas y sublimes no versan sobre unos cuantos santos que han
+pláticas secretas y sublimes no versan sobre unos cuantos santos que han
 
-alcanzado una vida superior, sino sobre todos aquellos que le pertenecemos.
+alcanzado una “vida superior”, sino sobre todos aquellos que le pertenecemos.
 
-Jess nos lleva a todos nosotros en Su corazn y habla de todos nosotros con el
+Jesús nos lleva a todos nosotros en Su corazón y habla de todos nosotros con el
 
-Padre diciendo: Todo lo mo es tuyo. Esa pobre mujer que nunca pudo servir
+Padre diciendo: “Todo lo mío es tuyo”. “Esa pobre mujer que nunca pudo servir
 
-al Seor excepto ofreciendo una paciente resistencia, ella es Ma, dice Jess.
+al Seńor excepto ofreciendo una paciente resistencia, ella es Mía”, dice Jesús.
 
-Ella es Tuya, grandioso Padre. Esa pobre muchacha recin convertida, cuya nica
+“Ella es Tuya, grandioso Padre”. “Esa pobre muchacha recién convertida, cuya única
 
-vida espiritual transcurri sobre el lecho de su enfermedad, y que luego se
+vida espiritual transcurrió sobre el lecho de su enfermedad, y que luego se
 
-evapor al cielo cual gota del roco matinal, ella es Ma, y ella es Tuya. Ese
+evaporó al cielo cual gota del rocío matinal, ella es Mía, y ella es Tuya. Ese
 
-pobre hijo Mo que tropieza a menudo y que nunca aport mucho crdito al nombre
+pobre hijo Mío que tropieza a menudo y que nunca aportó mucho crédito al nombre
 
-sagrado, l es Mo, y l es Tuyo. Todo lo Mo es Tuyo. Me parece or el taido
+sagrado, él es Mío, y él es Tuyo. Todo lo Mío es Tuyo”. Me parece oír el tańido
 
-de una campana de plata y los propios tonos de las palabras son como la msica
+de una campana de plata y los propios tonos de las palabras son como la música
 
-de las arpas de los ngeles: Mo, Tuyo; Mo, Tuyo. Que los ascensos y los
+de las arpas de los ángeles: “Mío, Tuyo; Mío, Tuyo”. ˇQue los ascensos y los
 
-descensos de las melodas celestiales cautiven los odos de todos nosotros!
+descensos de las melodías celestiales cautiven los oídos de todos nosotros!
 
 Pienso que he dicho lo
 
 suficiente para mostrarles la intensidad del sentido de propiedad que tiene
 
-Cristo con respecto a Su pueblo: Todo lo mo es tuyo, y lo tuyo mo.
+Cristo con respecto a Su pueblo: “Todo lo mío es tuyo, y lo tuyo mío”.
 
 II.
 
@@ -388,41 +392,41 @@ LA INTENSIDAD
 
 DEL
 
-INTERS CONJUNTO DEL PADRE Y DEL HIJO RESPECTO A LOS CREYENTES.
+INTERÉS CONJUNTO DEL PADRE Y DEL HIJO RESPECTO A LOS CREYENTES.
 
-Primero, permtanme
+Primero, permítanme
 
 decirles que
 
-Jess nos ama porque
+Jesús nos ama porque
 
 pertenecemos al Padre.
 
-Veamos esta verdad desde otra perspectiva. Mi Padre
+Veamos esta verdad desde otra perspectiva. “Mi Padre
 
-los ha elegido. Mi Padre los ama. Por tanto dice Jess- Yo los amo y pongo Mi
+los ha elegido. Mi Padre los ama. Por tanto” –dice Jesús- “Yo los amo y pongo Mi
 
 vida por ellos y voy a tomar Mi vida de nuevo por ellos y voy a vivir a lo
 
-largo de la eternidad para ellos. Son muy queridos por M porque son muy
+largo de la eternidad para ellos. Son muy queridos por Mí porque son muy
 
-queridos por Mi Padre. No han amado con frecuencia a otra persona por causa
+queridos por Mi Padre”. żNo han amado con frecuencia a otra persona por causa
 
-de una tercera persona a quien amaban de todo corazn? Hay un antiguo refrn
+de una tercera persona a quien amaban de todo corazón? Hay un antiguo refrán
 
-que no puedo evitar citar en este preciso momento; as reza: Quien bien quiere
+que no puedo evitar citar en este preciso momento; así reza: “Quien bien quiere
 
-a Beltrn, bien quiere a su can. Es como si el Seor Jess amara de tal manera
+a Beltrán, bien quiere a su can”. Es como si el Seńor Jesús amara de tal manera
 
 al Padre que ama incluso a unos pobres perros como nosotros por causa de Su
 
-Padre. Para los ojos de Jess nosotros somos seres de una belleza radiante
+Padre. Para los ojos de Jesús nosotros somos seres de una belleza radiante
 
 debido a que Dios nos ama.
 
 Analicen ahora ese
 
-pensamiento desde el ngulo opuesto:
+pensamiento desde el ángulo opuesto:
 
 el
 
@@ -430,93 +434,93 @@ Padre nos ama porque pertenecemos a Cristo.
 
 Al principio, el amor del Padre
 
-en la eleccin era soberano y estaba contenido en s mismo; pero ahora, hoy, puesto
+en la elección era soberano y estaba contenido en sí mismo; pero ahora, hoy, puesto
 
-que nos entreg a Cristo, se deleita an ms en nosotros. Son las ovejas de Mi
+que nos entregó a Cristo, se deleita aún más en nosotros. “Son las ovejas de Mi
 
-Hijo, dice. l las compr con Su sangre. Mejor an, Esa es la esposa de Mi
+Hijo”, dice. “Él las compró con Su sangre”. Mejor aún, “Esa es la esposa de Mi
 
-Hijo, dice; esa es la novia de Mi Hijo. Yo la amo por l. Hubo ese primer
+Hijo”, dice; “esa es la novia de Mi Hijo. Yo la amo por Él”. Hubo ese primer
 
-amor que brot fresco en el corazn del Padre, pero ahora, a travs de este
+amor que brotó fresco en el corazón del Padre, pero ahora, a través de este
 
-nico canal de amor por Jess, el Padre vierte una doble correntada de amor
+único canal de amor por Jesús, el Padre vierte una doble correntada de amor
 
-sobre nosotros por causa de Su amado Hijo. l ve la sangre de Jess rociada
+sobre nosotros por causa de Su amado Hijo. Él ve la sangre de Jesús rociada
 
-sobre nosotros; recuerda la seal, y por causa del amado Hijo nos valora ms
+sobre nosotros; recuerda la seńal, y por causa del amado Hijo nos valora más
 
-all de todo precio. Jess nos ama porque pertenecemos al Padre, y el Padre nos
+allá de todo precio. Jesús nos ama porque pertenecemos al Padre, y el Padre nos
 
-ama porque pertenecemos a Jess.
+ama porque pertenecemos a Jesús.
 
-Ahora acerqumonos ms
+Ahora acerquémonos más
 
-todava al pensamiento capital del texto: Todo lo mo es tuyo.
+todavía al pensamiento capital del texto: “Todo lo mío es tuyo”.
 
 Todos los que son del Hijo son del Padre.
 
-Le
+żLe
 
-pertenecemos a Jess? Entonces le pertenecemos al Padre. He sido lavado en la
+pertenecemos a Jesús? Entonces le pertenecemos al Padre. żHe sido lavado en la
 
-preciosa sangre? Puedo cantar esta noche?:
+preciosa sangre? żPuedo cantar esta noche?:
 
-El ladrn moribundo se regocij al ver
+“El ladrón moribundo se regocijó al ver
 
-Esa fuente en su da;
+Esa fuente en su día;
 
-Y, aunque soy tan vil como l, me ha limpiado
+Y, aunque soy tan vil como él, me ha limpiado
 
-De todos mis pecados.
+De todos mis pecados”.
 
 Entonces, yo pertenezco
 
-a Cristo por la redencin, pero al mismo tiempo puedo estar seguro de que pertenezco
+a Cristo por la redención, pero al mismo tiempo puedo estar seguro de que pertenezco
 
-al Padre: Todo lo mo es tuyo. Confas en Cristo? Entonces t eres uno de los
+al Padre: “Todo lo mío es tuyo”. żConfías en Cristo? Entonces tú eres uno de los
 
-elegidos de Dios. Ese sublime y profundo misterio de la predestinacin no tiene
+elegidos de Dios. Ese sublime y profundo misterio de la predestinación no tiene
 
-que turbar el corazn de nadie que sea creyente en Cristo. Si crees en Cristo, entonces
+que turbar el corazón de nadie que sea creyente en Cristo. Si crees en Cristo, entonces
 
-Cristo te redimi, y el Padre te eligi desde antes de la fundacin del mundo.
+Cristo te redimió, y el Padre te eligió desde antes de la fundación del mundo.
 
-Descansa dichoso en esta firme creencia: Todo lo mo es tuyo.
+Descansa dichoso en esta firme creencia: “Todo lo mío es tuyo”.
 
-Con cunta frecuencia me
+ˇCon cuánta frecuencia me
 
-he encontrado con personas que se turban por la eleccin! Quieren saber si son
+he encontrado con personas que se turban por la elección! Quieren saber si son
 
 elegidas. Nadie puede venir al Padre, sino por Cristo; nadie puede llegar a la
 
-eleccin, sino por la redencin. Si t viniste a Cristo, y eres Su redimido,
+elección, sino por la redención. Si tú viniste a Cristo, y eres Su redimido,
 
 queda fuera de toda duda que fuiste escogido por Dios y que eres un elegido del
 
-Padre. Todo lo mo es tuyo.
+Padre. “Todo lo mío es tuyo”.
 
 Entonces, si he sido
 
-comprado con la sangre preciosa de Cristo, no he de sentarme y decir cun
+comprado con la sangre preciosa de Cristo, no he de sentarme y decir cuán
 
-agradecido estoy con Cristo como si l se encontrara separado del Padre, y
+agradecido estoy con Cristo como si Él se encontrara separado del Padre, y
 
-fuera ms amoroso y ms tierno que el Padre. No, no; si pertenezco a Cristo yo pertenezco
+fuera más amoroso y más tierno que el Padre. No, no; si pertenezco a Cristo yo pertenezco
 
 al Padre, y siento la misma gratitud y el mismo amor para con el Padre, y
 
-quiero rendirle el mismo servicio que a Jess, pues Jess lo expresa as: Todo
+quiero rendirle el mismo servicio que a Jesús, pues Jesús lo expresa así: “Todo
 
-lo mo es tuyo.
+lo mío es tuyo”.
 
 Si esta noche soy un
 
-siervo de Cristo, si yo procuro servirle debido a que l me compr, entonces,
+siervo de Cristo, si yo procuro servirle debido a que Él me compró, entonces,
 
-si soy un siervo del Hijo, soy un siervo del Padre. Todos los que son mos,
+si soy un siervo del Hijo, soy un siervo del Padre. “Todos los que son míos,
 
-sin importar cul posicin ocupan, te pertenecen a Ti, grandioso Padre, y
+sin importar cuál posición ocupan, te pertenecen a Ti, grandioso Padre”, y
 
 gozan de todos los privilegios que son concedidos a los que pertenecen al
 
@@ -524,23 +528,23 @@ Padre. Espero no estarlos cansando; no puedo hacer que estas cosas sean
 
 entretenidas para los negligentes, ni pretendo lograr eso; pero los que aman a
 
-mi Seor y a Su verdad, deberan de regocijarse esta noche pensando que, debido
+mi Seńor y a Su verdad, deberían de regocijarse esta noche pensando que, debido
 
-a que pertenecen Cristo, se les garantiza que pertenecen al Padre. Todo lo mo
+a que pertenecen Cristo, se les garantiza que pertenecen al Padre. “Todo lo mío
 
-es tuyo.
+es tuyo”.
 
-Con Cristo nuestro Seor compartimos nuestra parte
+“Con Cristo nuestro Seńor compartimos nuestra parte
 
-En los afectos de Su corazn;
+En los afectos de Su corazón;
 
-Y nuestras almas no sern retiradas de all
+Y nuestras almas no serán retiradas de allí
 
-Mientras l no olvide al amor de Sus amores.
+Mientras Él no olvide al amor de Sus amores”.
 
 Pero ahora tienen que
 
-considerar la otra parte de eso: Y lo tuyo mo.
+considerar la otra parte de eso: “Y lo tuyo mío”.
 
 Todos los que son del Padre son del Hijo.
 
@@ -554,55 +558,55 @@ justificados en Cristo, es decir, son del Hijo. Si son regenerados, es decir, si
 
 son engendrados por el Padre, con todo, su vida depende del Hijo. Recuerden que
 
-si bien una figura bblica nos describe como hijos que tienen, cada uno, una
+si bien una figura bíblica nos describe como hijos que tienen, cada uno, una
 
-vida en su interior, otra figura igualmente vlida nos representa como pmpanos
+vida en su interior, otra figura igualmente válida nos representa como pámpanos
 
 de
 
 la Vid
 
-, que moriran
+, que morirían
 
-a menos que permanecieren unidos al tronco. Y lo tuyo mo. Si pertenecen al
+a menos que permanecieren unidos al tronco. “Y lo tuyo mío”. Si pertenecen al
 
-Padre, tienen que ser de Cristo. Si el Padre les dio la vida, esa vida todava
+Padre, tienen que ser de Cristo. Si el Padre les dio la vida, esa vida todavía
 
-depende por completo del Hijo. Qu maravillosa combinacin es sta! El Padre y
+depende por completo del Hijo. ˇQué maravillosa combinación es ésta! El Padre y
 
-el Hijo son uno, y nosotros somos uno con el Padre y con el Hijo. Una unin
+el Hijo son uno, y nosotros somos uno con el Padre y con el Hijo. Una unión
 
-mstica es establecida entre el Padre y nosotros, en razn de nuestra unin con
+mística es establecida entre el Padre y nosotros, en razón de nuestra unión con
 
-el Hijo y de la unin del Hijo con el Padre. Vean a qu gloriosa excelsitud ha
+el Hijo y de la unión del Hijo con el Padre. Vean a qué gloriosa excelsitud ha
 
-ascendido nuestra humanidad a travs de Cristo. Por la gracia de Dios, ustedes,
+ascendido nuestra humanidad a través de Cristo. Por la gracia de Dios, ustedes,
 
 que eran como guijarros en el arroyo, han sido hechos hijos de Dios. Izados
 
-desde su exnime materialidad, son elevados a una vida espiritual y son unidos
+desde su exánime materialidad, son elevados a una vida espiritual y son unidos
 
 a Dios. Esta noche no tienen ni la menor idea de lo que Dios ha hecho por
 
 ustedes, y ciertamente aun no se ha manifestado lo que han de ser. Un cristiano
 
-es la obra ms noble de Dios. Dios alcanz la plenitud de Su poder y de Su
+es la obra más noble de Dios. Dios alcanzó la plenitud de Su poder y de Su
 
-gracia haciendo que seamos uno con Su propio Hijo amado y llevndonos as a una
+gracia haciendo que seamos uno con Su propio Hijo amado y llevándonos así a una
 
-unin y a una comunin con l mismo. Oh, si las palabras que digo pudieran
+unión y a una comunión con Él mismo. ˇOh, si las palabras que digo pudieran
 
-transmitirles la plenitud de su propio significado, podran ponerse de pie de
+transmitirles la plenitud de su propio significado, podrían ponerse de pie de
 
 un salto, electrizados por el santo goce de pensar en esto: que somos de Cristo
 
 y del Padre, y que somos considerados dignos de ser el objeto de intrincadas
 
-transacciones e interrelaciones del tipo ms amoroso entre el Padre y el Hijo! Nosotros,
+transacciones e interrelaciones del tipo más amoroso entre el Padre y el Hijo! Nosotros,
 
 nosotros mismos que somos a lo sumo polvo y cenizas, somos favorecidos como
 
-nunca lo fueron los ngeles; por tanto, que toda alabanza
+nunca lo fueron los ángeles; por tanto, ˇque toda alabanza
 
 sea atribuida a la gracia soberana!
 
@@ -610,7 +614,7 @@ III.
 
 Y
 
-ahora slo voy a detenerlos durante unos cuantos minutos ms mientras hablo
+ahora sólo voy a detenerlos durante unos cuantos minutos más mientras hablo
 
 sobre la tercera parte de nuestro tema, esto es, de
 
@@ -620,159 +624,159 @@ GLORIA
 
 DE
 
-CRISTO: Y he sido glorificado en
+CRISTO: “Y he sido glorificado en
 
-ellos. He de confesar que, si bien la primera parte de mi tema fue muy
+ellos”. He de confesar que, si bien la primera parte de mi tema fue muy
 
-profunda, esta tercera parte me parece todava ms profunda: He sido
+profunda, esta tercera parte me parece todavía más profunda: “He sido
 
-glorificado en ellos.
+glorificado en ellos”.
 
 Si Cristo hubiera dicho:
 
-Yo los glorificar, yo habra podido entenderlo. Si hubiera dicho: Estoy
+“Yo los glorificaré”, yo habría podido entenderlo. Si hubiera dicho: “Estoy
 
-complacido con ellos, podra haberlo atribuido a Su gran amabilidad para con
+complacido con ellos”, podría haberlo atribuido a Su gran amabilidad para con
 
-ellos; pero si dice: He sido glorificado en ellos, eso es algo muy prodigioso.
+ellos; pero si dice: “He sido glorificado en ellos”, eso es algo muy prodigioso.
 
 El sol puede ser reflejado, pero se necesitan objetos apropiados que hagan las
 
-veces de reflectores; y entre ms brillantes sean, mejor lo reflejarn. Ni
+veces de reflectores; y entre más brillantes sean, mejor lo reflejarán. Ni
 
-ustedes ni yo pareciramos tener el poder de reflejar la gloria de Cristo;
+ustedes ni yo pareciéramos tener el poder de reflejar la gloria de Cristo;
 
 nosotros desintegramos los gloriosos rayos que brillan sobre nosotros; estropeamos
 
 y arruinamos gran parte del bien que cae que sobre nosotros. Con todo, Cristo
 
-dice que l es glorificado en nosotros. Grbense estas palabras, queridos
+dice que Él es glorificado en nosotros. Grábense estas palabras, queridos
 
-amigos, y piensen que el Seor Jess se reuni con ustedes esta noche, y al
+amigos, y piensen que el Seńor Jesús se reunió con ustedes esta noche, y al
 
-salir del Tabernculo, les deca: T eres mo, t eres de mi Padre; y Yo soy
+salir del Tabernáculo, les decía: “Tú eres mío, tú eres de mi Padre; y Yo soy
 
-glorificado en ti. No me atrevo a decir que sera un momento de orgullo para
+glorificado en ti”. No me atrevo a decir que sería un momento de orgullo para
 
-ti; pero me atrevo a decir que habra ms motivo para que te sintieras exaltado
+ti; pero me atrevo a decir que habría más motivo para que te sintieras exaltado
 
-si te dijera: soy glorificado en ti, que si recibieras todos los honores que
+si te dijera: “soy glorificado en ti”, que si recibieras todos los honores que
 
 todos los reyes pudieran acumular sobre todos los seres en el mundo. Pienso que
 
-con slo que me dijera: Yo soy glorificado en tu ministerio, yo podra
+con sólo que me dijera: “Yo soy glorificado en tu ministerio”, yo podría
 
-declarar: Ahora, Seor, despides a tu siervo en paz, conforme a tu palabra.
+declarar: “Ahora, Seńor, despides a tu siervo en paz, conforme a tu palabra”.
 
-Espero que lo sea; creo que lo es; pero, oh, anhelo una palabra alentadora,
+Espero que lo sea; creo que lo es; pero, ˇoh, anhelo una palabra alentadora,
 
 aunque no fuera dirigida a nosotros personalmente, pero que fuera dirigida a Su
 
-Padre con respecto a nosotros, como en nuestro texto, he sido glorificado en
+Padre con respecto a nosotros, como en nuestro texto, “he sido glorificado en
 
-ellos!
+ellos”!
 
-Cmo puede pasar eso?
+żCómo puede pasar eso?
 
 Bien, es un tema muy amplio. Cristo es glorificado en Su pueblo de muchas
 
 maneras.
 
-l es glorificado salvando a
+Él es glorificado salvando a
 
 tales pecadores,
 
 tomando a estas personas, tan pecadoras, tan perdidas y tan
 
-indignas. Cuando el Seor se apodera de un borracho, o de un ladrn o de un
+indignas. Cuando el Seńor se apodera de un borracho, o de un ladrón o de un
 
-adltero; cuando cautiva a uno que ha sido culpable de blasfemia y cuyo corazn
+adúltero; cuando cautiva a uno que ha sido culpable de blasfemia y cuyo corazón
 
-mismo apesta por tantos malos pensamientos; cuando recoge al que est lejano,
+mismo apesta por tantos malos pensamientos; cuando recoge al que está lejano,
 
-al abandonado, al disoluto y al cado, como a menudo lo hace, y cuando dice:
+al abandonado, al disoluto y al caído, como a menudo lo hace, y cuando dice:
 
-Estos han de ser mos; voy a lavar a stos en mi sangre; voy a utilizarlos
+“Estos han de ser míos; voy a lavar a éstos en mi sangre; voy a utilizarlos
 
-para que divulguen Mi palabra, oh, entonces, l es glorificado en ellos!
+para que divulguen Mi palabra”, ˇoh, entonces, Él es glorificado en ellos!
 
 Lean las vidas de muchos
 
 grandes pecadores que se han convertido posteriormente en grandes santos, y
 
-vern cmo han procurado glorificar a Dios; no slo aquella mujer que lav Sus
+verán cómo han procurado glorificar a Dios; no sólo aquella mujer que lavó Sus
 
-pies con sus lgrimas, sino muchos otros como ella. Oh, cmo les ha encantado
+pies con sus lágrimas, sino muchos otros como ella. ˇOh, cómo les ha encantado
 
-alabarle! Los ojos han derramado lgrimas, los labios han musitado palabras, pero
+alabarle! Los ojos han derramado lágrimas, los labios han musitado palabras, pero
 
-los corazones han sentido una gratitud adoradora para con l que ni los ojos ni
+los corazones han sentido una gratitud adoradora para con Él que ni los ojos ni
 
-los labios podran expresar. He sido glorificado en ellos. Grandes
+los labios podrían expresar. “He sido glorificado en ellos”. ˇGrandes
 
 pecadores, Cristo es glorificado en ustedes! Algunos de ustedes, fariseos, si
 
-fueran a ser convertidos, no le daran a Cristo tal gloria como la que l recibe
+fueran a ser convertidos, no le darían a Cristo tal gloria como la que Él recibe
 
 por salvar a los publicanos y a las rameras. Aun si lucharan para entrar en el
 
-cielo, sera con muy escasa msica para l en el camino, y ciertamente sera
+cielo, sería con muy escasa música para Él en el camino, y ciertamente sería
 
-sin lgrimas ni ungento para Sus pies que tampoco seran enjugados con los
+sin lágrimas ni ungüento para Sus pies que tampoco serían enjugados con los
 
-cabellos de su cabeza. Ustedes son demasiado respetables para hacer eso jams;
+cabellos de su cabeza. Ustedes son demasiado respetables para hacer eso jamás;
 
-pero cuando salva a grandes pecadores, puede en verdad decir: He sido
+pero cuando salva a grandes pecadores, puede en verdad decir: “He sido
 
-glorificado en ellos, y cada uno de ellos puede cantar:
+glorificado en ellos”, y cada uno de ellos puede cantar:
 
-Tu amor especial Sobrepasa las alabanzas,
+“Tu amor especial Sobrepasa las alabanzas,
 
-Mi Jess, mi Salvador: con todo, este corazn mo
+Mi Jesús, mi Salvador: con todo, este corazón mío
 
 Quisiera cantarle a ese amor, tan pleno, tan rico, tan libre,
 
 Que lleva a un pecador rebelde, como soy yo,
 
-Cerca de Dios.
+Cerca de Dios”.
 
 Y
 
 Cristo es glorificado por la perseverancia que muestra en el asunto de
 
-su salvacin.
+su salvación.
 
-Vean cmo empieza a salvar, pero el hombre se resiste. l
+Vean cómo empieza a salvar, pero el hombre se resiste. Él
 
-contina con Su amable empeo, pero el hombre se rebela. l lo acosa, lo
+continúa con Su amable empeńo, pero el hombre se rebela. Él lo acosa, lo
 
-persigue y sigue la pista de sus pasos. l quiere tener al hombre pero el
+persigue y sigue la pista de sus pasos. Él quiere tener al hombre pero el
 
-hombre no quiere tenerlo a l. Pero el Seor, sin violar el libre albedro del
+hombre no quiere tenerlo a Él. Pero el Seńor, sin violar el libre albedrío del
 
-hombre, -cosa que nunca hace- al final lleva al ser ms renuente a postrarse a
+hombre, -cosa que nunca hace- al final lleva al ser más renuente a postrarse a
 
-Sus pies, y aquel que ms odiaba comienza a amar, y aquel con el corazn ms
+Sus pies, y aquel que más odiaba comienza a amar, y aquel con el corazón más
 
 empedernido dobla su rodilla sumido en la mayor humildad. Es maravilloso
 
-comprobar cun perseverante es el Seor en la salvacin de un pecador; s, y en
+comprobar cuán perseverante es el Seńor en la salvación de un pecador; sí, y en
 
-la salvacin de los que ya son Suyos, pues t ya te habras escapado hace mucho
+la salvación de los que ya son Suyos, pues tú ya te habrías escapado hace mucho
 
 tiempo si tu grandioso Pastor no te hubiera encerrado en el redil. Muchos de
 
-ustedes se habran apartado y se habran perdido, si no hubiese sido por los
+ustedes se habrían apartado y se habrían perdido, si no hubiese sido por los
 
-constreimientos de la gracia soberana que los han guardado hasta este da y
+constreńimientos de la gracia soberana que los han guardado hasta este día y
 
-que no los dejarn ir. Cristo es glorificado en ti. Oh, una vez que llegues al
+que no los dejarán ir. Cristo es glorificado en ti. Oh, una vez que llegues al
 
-cielo, cuando los ngeles sepan todo lo que eras y todo lo que procuraste ser,
+cielo, cuando los ángeles sepan todo lo que eras y todo lo que procuraste ser,
 
 cuando sea contada la historia completa de la gracia todopoderosa e infinita,
 
-como en efecto ser contada, entonces Cristo ser glorificado en ti!
+como en efecto será contada, ˇentonces Cristo será glorificado en ti!
 
 Amados,
 
@@ -782,21 +786,21 @@ cuando exhibimos las gracias cristianas.
 
 Ustedes que son amorosos,
 
-perdonadores, de tierno corazn, gentiles, mansos y abnegados, ustedes le
+perdonadores, de tierno corazón, gentiles, mansos y abnegados, ustedes le
 
-glorifican; l es glorificado en ustedes. Ustedes que son rectos, que no
+glorifican; Él es glorificado en ustedes. Ustedes que son rectos, que no
 
-abandonaran su integridad, ustedes que pueden despreciar el oro del pecador, y
+abandonarían su integridad, ustedes que pueden despreciar el oro del pecador, y
 
-que no venderan su conciencia por oro, ustedes que son valientes y valerosos
+que no venderían su conciencia por oro, ustedes que son valientes y valerosos
 
 por Cristo, ustedes que pueden soportar y sufrir por causa de Su nombre, han de
 
-saber que todas esas gracias provienen de l. As como todas las flores son engendradas
+saber que todas esas gracias provienen de Él. Así como todas las flores son engendradas
 
-y crecen por el sol, as todo lo que hay en ti que es bueno, viene de Cristo,
+y crecen por el sol, así todo lo que hay en ti que es bueno, viene de Cristo,
 
-el Sol de justicia; y, por tanto, l es glorificado en ti.
+el Sol de justicia; y, por tanto, Él es glorificado en ti.
 
 Pero, amados, el pueblo
 
@@ -806,93 +810,93 @@ Cuando lo convierten en el objeto de toda su confianza, le glorifican,
 
 cuando
 
-dicen: Aunque yo sea el primero de los pecadores, yo confo en l; aunque mi
+dicen: “Aunque yo sea el primero de los pecadores, yo confío en Él; aunque mi
 
-mente sea oscura, y aunque mis tentaciones abunden, yo creo que l puede salvar
+mente sea oscura, y aunque mis tentaciones abunden, yo creo que Él puede salvar
 
-perpetuamente. Yo en verdad confo en l. Cristo es ms glorificado por la
+perpetuamente. Yo en verdad confío en Él”. Cristo es más glorificado por la
 
-humilde fe de un pecador que por el cntico ms sonoro de un serafn. Si t
+humilde fe de un pecador que por el cántico más sonoro de un serafín. Si tú
 
-crees, t le glorificas. Hijo de Dios, te encuentras sombro, embotado y poco
+crees, tú le glorificas. Hijo de Dios, żte encuentras sombrío, embotado y poco
 
-animado? Te sientes medio muerto espiritualmente? Acrcate a los pies de tu
+animado? żTe sientes medio muerto espiritualmente? Acércate a los pies de tu
 
-Seor, y bsalos, y cree que l te puede salvar, es ms, que te ha salvado,
+Seńor, y bésalos, y cree que Él te puede salvar, es más, que te ha salvado,
 
-incluso a ti; y as glorificars Su santo nombre.
+incluso a ti; y así glorificarás Su santo nombre.
 
-Oh!, -dijo un
+“ˇOh!”, -dijo un
 
-creyente el otro da- yo s a quin he credo; Cristo es mo. Ah!, -dijo
+creyente el otro día- “yo sé a quién he creído; Cristo es mío”. “ˇAh!”, -dijo
 
-alguien ms- eso es una presuncin. Amados, no es nada parecido a eso; no es
+alguien más- “eso es una presunción”. Amados, no es nada parecido a eso; no es
 
-una presuncin que un hijo reconozca a su propio padre; sera orgullo si se
+una presunción que un hijo reconozca a su propio padre; sería orgullo si se
 
-avergonzara de su padre; sera ciertamente un gran enajenamiento de su padre si
+avergonzara de su padre; sería ciertamente un gran enajenamiento de su padre si
 
-le avergonzara reconocerlo. Yo s a quin he credo. Es una dichosa condicin
+le avergonzara reconocerlo. “Yo sé a quién he creído”. Es una dichosa condición
 
-del corazn que ests absolutamente seguro de que descansas sobre Cristo, de que
+del corazón que estés absolutamente seguro de que descansas sobre Cristo, de que
 
-l es tu Salvador y que t crees en l, pues Jess dijo: El que cree en m,
+Él es tu Salvador y que tú crees en Él, pues Jesús dijo: “El que cree en mí,
 
-tiene vida eterna. Yo creo en l, y tengo vida eterna. El que en l cree, no
+tiene vida eterna”. Yo creo en Él, y tengo vida eterna. “El que en él cree, no
 
-es condenado. Yo creo en l, y no soy condenado. Confirmen esto, no nicamente
+es condenado”. Yo creo en Él, y no soy condenado. Confirmen esto, no únicamente
 
-por medio de seales y de evidencias, sino hagan todava algo mejor; hagan que
+por medio de seńales y de evidencias, sino hagan todavía algo mejor; hagan que
 
-la seal y la evidencia sean estas: Cristo Jess vino al mundo para salvar a
+la seńal y la evidencia sean estas: “Cristo Jesús vino al mundo para salvar a
 
-los pecadores; yo, pecador, acepto Su grandioso sacrificio, y soy salvo.
+los pecadores; yo, pecador, acepto Su grandioso sacrificio, y soy salvo”.
 
 Pienso especialmente que
 
 el pueblo de Dios glorifica a Cristo
 
-mediante una alegre conversacin.
+mediante una alegre conversación.
 
-Si t anduvieras por all gimiendo y
+Si tú anduvieras por allí gimiendo y
 
-lamentndote, suspirando y quejndote, no le rendiras ningn honor a Su
+lamentándote, suspirando y quejándote, no le rendirías ningún honor a Su
 
 nombre; pero si, cuando ayunas, no das a conocer a los hombres que ayunas, si
 
-puedes mostrar un rostro alegre aun cuando tu corazn est decado, y, sobre
+puedes mostrar un rostro alegre aun cuando tu corazón esté decaído, y, sobre
 
-todo, si puedes recuperar tu espritu sacndolo de sus profundidades y
+todo, si puedes recuperar tu espíritu sacándolo de sus profundidades y
 
-comienzas a bendecir a Dios cuando la alacena est vaca y los amigos son
+comienzas a bendecir a Dios cuando la alacena está vacía y los amigos son
 
-pocos, entonces t glorificas ciertamente a Cristo.
+pocos, entonces tú glorificas ciertamente a Cristo.
 
 Muchas son las maneras
 
-en que puede realizarse esta buena obra; tratemos de hacerla. He sido glorificado
+en que puede realizarse esta buena obra; tratemos de hacerla. “He sido glorificado
 
 en ellos; esto es,
 
 por su valiente
 
-confesin de Cristo.
+confesión de Cristo.
 
-Acaso me dirijo a alguien aqu que ame a Cristo, pero
+żAcaso me dirijo a alguien aquí que ame a Cristo, pero
 
-que nunca le ha reconocido? Hazlo, y hazlo pronto. l merece recibir toda la
+que nunca le ha reconocido? Hazlo, y hazlo pronto. Él merece recibir toda la
 
-gloria que puedas rendirle. Si l te ha sanado, no seas como los nueve leprosos
+gloria que puedas rendirle. Si Él te ha sanado, no seas como los nueve leprosos
 
-que olvidaron que Cristo les haba sanado de su lepra. Ven y alaba el nombre
+que olvidaron que Cristo les había sanado de su lepra. Ven y alaba el nombre
 
 del grandioso Sanador, y haz saber a otros lo que Cristo puede hacer. Me temo
 
-que hay una gran cantidad de seres aqu esta noche que creen ser cristianos
+que hay una gran cantidad de seres aquí esta noche que creen ser cristianos
 
-pero que nunca lo han declarado. De qu se avergenzan? Se avergenzan de su
+pero que nunca lo han declarado. żDe qué se avergüenzan? żSe avergüenzan de su
 
-Seor? Me temo que, despus de todo, no lo aman. Ahora, en este momento, en
+Seńor? Me temo que, después de todo, no lo aman. Ahora, en este momento, en
 
 esta crisis particular de la historia de
 
@@ -900,73 +904,73 @@ la Iglesia
 
 y del mundo, si no tomamos partido por
 
-Cristo pblicamente, estaramos realmente en contra Suya. El tiempo ha llegado
+Cristo públicamente, estaríamos realmente en contra Suya. El tiempo ha llegado
 
 ahora en que no podemos permitirnos tener correveidiles. Tienen que estar por
 
-l o por Sus enemigos, y esta noche l les pide que si realmente
+Él o por Sus enemigos, y esta noche Él les pide que si realmente
 
 son
 
-Suyos, que lo digan. Pasen al frente, nanse con Su
+Suyos, que lo digan. Pasen al frente, únanse con Su
 
-pueblo y que se vea, tanto por su vida como por su conversacin, que
+pueblo y que se vea, tanto por su vida como por su conversación, que
 
-efectivamente pertenecen a Cristo. Si no, cmo podra ser verdad que He sido
+efectivamente pertenecen a Cristo. Si no, żcómo podría ser verdad que “He sido
 
-glorificado en ellos? Es glorificado Cristo en un pueblo que no le confiesa, en
+glorificado en ellos”? żEs glorificado Cristo en un pueblo que no le confiesa, en
 
-un pueblo que espera escabullirse al cielo por caminos aledaos o a travs de
+un pueblo que espera escabullirse al cielo por caminos aledańos o a través de
 
 los campos, pero que no se atreve a llegar a la autopista del Rey y a viajar
 
-con los sbditos del Rey y a reconocer que le pertenecen?
+con los súbditos del Rey y a reconocer que le pertenecen?
 
-Por ltimo, pienso que
+Por último, pienso que
 
 Cristo es glorificado en Su pueblo por sus
 
 esfuerzos para extender Su reino.
 
-Qu esfuerzos haces t? Hay una gran
+żQué esfuerzos haces tú? Hay una gran
 
 cantidad de fuerza en una iglesia como esta; pero me temo que hay una gran
 
-cantidad de vapor residual, de poder residual aqu. La tendencia, con tanta
+cantidad de vapor residual, de poder residual aquí. La tendencia, con tanta
 
 frecuencia, es dejar que todo lo haga solo el ministro, o, de otra manera, contar
 
-con la participacin de uno o dos lderes; pero yo les ruego, amados, que si pertenecen
+con la participación de uno o dos líderes; pero yo les ruego, amados, que si pertenecen
 
 a Cristo y si pertenecen al Padre, si, indignos como son, son reclamados por
 
 una doble propiedad por el Padre y el Hijo, que verdaderamente intenten ser
 
-tiles para Ellos. Que se vea que l es glorificado en ustedes en el hecho de
+útiles para Ellos. Que se vea que Él es glorificado en ustedes en el hecho de
 
 que ganan a otros para Cristo. Yo creo que Cristo es glorificado en ustedes por
 
-una diligente asistencia incluso a la ms pequea clase de la escuela dominical.
+una diligente asistencia incluso a la más pequeńa clase de la escuela dominical.
 
-Cristo es glorificado en ustedes por esa conversacin privada en su propio
+Cristo es glorificado en ustedes por esa conversación privada en su propio
 
 aposento, por esa carta que pusieron en el correo con muchas oraciones, por
 
 cualquier cosa que hagan con un motivo puro, confiando en Dios para glorificar
 
-a Cristo. No confundan lo que quiero decir con respecto a servir al Seor. Pienso
+a Cristo. No confundan lo que quiero decir con respecto a servir al Seńor. Pienso
 
-que son sumamente errneas algunas exhortaciones hechas a los jvenes, como
+que son sumamente erróneas algunas exhortaciones hechas a los jóvenes, como
 
-stas: abandonen el servicio domstico, y adopten un trabajo espiritual.
+éstas: “abandonen el servicio doméstico, y adopten un trabajo espiritual.
 
 Comerciantes, abandonen sus tiendas. Obreros, renuncien a sus oficios. Ustedes
 
-no pueden servir a Cristo en ese llamamiento, dejen de hacer eso enteramente.
+no pueden servir a Cristo en ese llamamiento, dejen de hacer eso enteramente”.
 
-Permtaseme decir que nada puede ser ms pestilente que un consejo como ese. Hay
+Permítaseme decir que nada puede ser más pestilente que un consejo como ese. Hay
 
-hombres que son llamados por la gracia de Dios para separarse de toda ocupacin
+hombres que son llamados por la gracia de Dios para separarse de toda ocupación
 
 terrenal y que poseen dones especiales para la obra del ministerio; pero
 
@@ -974,31 +978,31 @@ imaginar siempre que el grueso del pueblo cristiano no puede servir a Dios en
 
 su llamamiento cotidiano, es pensar por completo de manera contraria a la mente
 
-del Espritu de Dios. Si eres un sirviente, sigue siendo un sirviente. Si eres
+del Espíritu de Dios. Si eres un sirviente, sigue siendo un sirviente. Si eres
 
-un mesero, contina con tu actividad. Si eres un comerciante, prosigue con tu
+un mesero, continúa con tu actividad. Si eres un comerciante, prosigue con tu
 
 comercio. Todos han de permanecer en el llamamiento en el que han sido llamados,
 
 a menos que haya un llamamiento especial de Dios para que la persona se
 
-entregue a l en el ministerio. Sigan adelante con sus empleos, carsimos
+entregue a Él en el ministerio. Sigan adelante con sus empleos, carísimos
 
 cristianos, y no se imaginen que se deban volver eremitas, o monjes o monjas.
 
-No glorificaran a Dios si actuaran as. Los soldados de Cristo deben pelear la
+No glorificarían a Dios si actuaran así. Los soldados de Cristo deben pelear la
 
 batalla en el lugar donde se encuentran. Abandonar el campo y encerrarse en la
 
-soledad hara imposible que obtuvieran la victoria. La obra de Dios es tan
+soledad haría imposible que obtuvieran la victoria. La obra de Dios es tan
 
-santa y aceptable en el servicio domstico, o en el comercio, como lo es en
+santa y aceptable en el servicio doméstico, o en el comercio, como lo es en
 
-cualquier servicio que pudiera ser prestado en el plpito, o como misionero en
+cualquier servicio que pudiera ser prestado en el púlpito, o como misionero en
 
 tierras extranjeras. Damos gracias a Dios por los hombres que son especialmente
 
-llamados y apartados para Su propia obra; pero sabemos que no haran nada a
+llamados y apartados para Su propia obra; pero sabemos que no harían nada a
 
 menos que la sal de nuestra santa fe permeara la vida cotidiana de otros
 
@@ -1010,9 +1014,9 @@ son la gloria de
 
 la Iglesia
 
-de Cristo. Hombres y mujeres que trabajan duro, que resisten pacientemente, como
+de Cristo. Hombres y mujeres que trabajan duro, que resisten pacientemente, “como
 
-viendo al Invisible, ustedes son la corona y la gloria de
+viendo al Invisible”, ustedes son la corona y la gloria de
 
 la Iglesia
 
@@ -1020,63 +1024,63 @@ de Dios. Ustedes,
 
 que no eluden su labor diaria sino que la afrontan obedeciendo a Cristo en eso,
 
-estn demostrando lo que la religin cristiana pretende hacer. Si somos
+están demostrando lo que la religión cristiana pretende hacer. Si somos
 
 verdaderamente sacerdotes para Dios, podemos convertir nuestros vestidos
 
 diarios en ornamentos, nuestras comidas en sacramentos, y nuestras casas en
 
-templos para la adoracin de Dios. Nuestras propias camas estarn dentro del
+templos para la adoración de Dios. Nuestras propias camas estarán dentro del
 
-velo, y nuestros pensamientos ms ntimos sern como un incienso aromtico cuyo
+velo, y nuestros pensamientos más íntimos serán como un incienso aromático cuyo
 
-humo se eleva perpetuamente al Altsimo. No sueen con que haya algo acerca de
+humo se eleva perpetuamente al Altísimo. No sueńen con que haya algo acerca de
 
 cualquier llamamiento honesto que degrade a un hombre, o que le impida
 
-glorificar a Dios; antes bien, santifquenlo todo, hasta que las campanas sobre
+glorificar a Dios; antes bien, santifíquenlo todo, hasta que las campanas sobre
 
-los caballos resuenen: Santidad a Jehov, y las ollas en sus hogares sean tan
+los caballos resuenen: “Santidad a Jehová”, y las ollas en sus hogares sean tan
 
 santas como los vasos del santuario.
 
 Ahora, esta noche yo
 
-quiero que nos acerquemos de tal manera a la mesa de la comunin que Cristo sea
+quiero que nos acerquemos de tal manera a la mesa de la comunión que Cristo sea
 
-glorificado en nosotros aqu. Ah, pueden sentarse a la mesa del Seor vestidos
+glorificado en nosotros aquí. Ah, pueden sentarse a la mesa del Seńor vestidos
 
 con ropas elegantes o llevando un anillo de diamantes, y pudieran pensar que
 
-son seres importantes, pero no lo son! Ah, pueden venir a la mesa del Seor y
+son seres importantes, ˇpero no lo son! Ah, pueden venir a la mesa del Seńor y
 
-decir: he aqu un cristiano experimentado que sabe un par de cosas. T no
+decir: “he aquí un cristiano experimentado que sabe un par de cosas”. Tú no
 
-ests glorificando a Cristo de esa manera; slo eres un don nadie. Pero si
+estás glorificando a Cristo de esa manera; sólo eres un ‘don nadie’. Pero si
 
-vienes diciendo esta noche: Seor, estoy hambriento, T puedes alimentarme;
+vienes diciendo esta noche: “Seńor, estoy hambriento, Tú puedes alimentarme”;
 
-eso es glorificarle. Si vienes diciendo: Seor, no tengo ningn mrito, ningn
+eso es glorificarle. Si vienes diciendo: “Seńor, no tengo ningún mérito, ningún
 
-valor, vengo porque T moriste por m, y confo en Ti, le ests glorificando.
+valor, vengo porque Tú moriste por mí, y confío en Ti”, le estás glorificando.
 
-Aquel que recibe ms de l y le regresa ms a l, glorifica ms a Cristo. Ven,
+Aquel que recibe más de Él y le regresa más a Él, glorifica más a Cristo. Ven,
 
-jarra vaca, ven para que seas llenada, y, cuando ests llena, derrama todo tu
+jarra vacía, ven para que seas llenada, y, cuando estés llena, derrama todo tu
 
-contenido a los pies amados de Aquel que te llen. Ven, ser trmulo, ven y deja
+contenido a los pies amados de Aquel que te llenó. Ven, ser trémulo, ven y deja
 
-que l te toque con Su mano tonificante, y entonces anda y trabaja y usa la
+que Él te toque con Su mano tonificante, y entonces anda y trabaja y usa la
 
-fuerza que l te haya dado. Me temo que no los he llevado a donde pretenda
+fuerza que Él te haya dado. Me temo que no los he llevado a donde pretendía
 
-llevarlos, cerca de mi Seor y del Padre; sin embargo, hice todo lo que pude.
+llevarlos, cerca de mi Seńor y del Padre; sin embargo, hice todo lo que pude.
 
-Que el Seor perdone mi debilidad y mi divagacin, pero que los bendiga por
+ˇQue el Seńor perdone mi debilidad y mi divagación, pero que los bendiga por
 
-causa de Su amado nombre! Amn.
+causa de Su amado nombre! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 7/Marzo/2012
 

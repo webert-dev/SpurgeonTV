@@ -1,220 +1,220 @@
 # Sermón 2350 | Sermón 2350
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Tomad, comed
+“Tomad, comed”
 
 NO. 2350
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 8 DE ENERO DE 1888
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
-Y TAMBIN LEDO EL
+Y TAMBIÉN LEÍDO EL
 
 DOMINGO 4 DE MARZO DE 1894.
 
-Y mientras
+“Y mientras
 
-coman, tom Jess el pan, y bendijo, y lo parti, y dio a sus discpulos, y
+comían, tomó Jesús el pan, y bendijo, y lo partió, y dio a sus discípulos, y
 
-dijo: Tomad, comed; esto es mi cuerpo.  Mateo 26: 26
+dijo: Tomad, comed; esto es mi cuerpo”.  Mateo 26: 26
 
 Todos nosotros estamos de acuerdo sobre este
 
-punto en particular: que la cena del Seor es un emblema de la muerte de
+punto en particular: que la cena del Seńor es un emblema de la muerte de
 
 Jesucristo y de la manera por
 
 medio de la
 
-cual recibimos beneficios de l. El pan representa Su cuerpo quebrantado, y la
+cual recibimos beneficios de Él. El pan representa Su cuerpo quebrantado, y la
 
-copa, Su sangre derramada; stos, cada uno separadamente, representan Su
+copa, Su sangre derramada; éstos, cada uno separadamente, representan Su
 
-muerte. La manera mediante la cual recibimos este pan y este vino es comindolo
+muerte. La manera mediante la cual recibimos este pan y este vino es comiéndolo
 
-y bebindolo, y sto representa la manera en que recibimos el mrito y la
+y bebiéndolo, y ésto representa la manera en que recibimos el mérito y la
 
-virtud del Seor Jesucristo, por una fe: que es como comer, y por una confianza:
+virtud del Seńor Jesucristo, por una fe: que es como comer, y por una confianza:
 
-que es como beber, por la recepcin de Cristo en nuestros corazones
+que es como beber, por la recepción de Cristo en nuestros corazones
 
 espiritualmente, tal como recibimos el pan y el fruto del vino en nuestros
 
-cuerpos en el plano fsico.
+cuerpos en el plano físico.
 
-Entonces, esas dos palabras, Tomad, comed, son
+Entonces, esas dos palabras, “Tomad, comed”, son
 
-las instrucciones prcticas relativas a la cena del Seor, y entendidas
+las instrucciones prácticas relativas a la cena del Seńor, y entendidas
 
-espiritualmente, son el Evangelio de la gracia de Dios. Cada discpulo del
+espiritualmente, son el Evangelio de la gracia de Dios. Cada discípulo del
 
-Seor Jess puede or una voz espiritual que le dice, concerniente a Cristo:
+Seńor Jesús puede oír una voz espiritual que le dice, concerniente a Cristo:
 
-Toma, come; y a ustedes, que temen no ser Sus discpulos, si desean serlo, si
+“Toma, come”; y a ustedes, que temen no ser Sus discípulos, si desean serlo, si
 
-hay una gran urgencia en su corazn de poseerlo a l, si estn comenzando a
+hay una gran urgencia en su corazón de poseerlo a Él, si están comenzando a
 
-buscarlo a tientas, me aventuro a decirles tambin a ustedes: Tomen, coman.
+buscarlo a tientas, me aventuro a decirles también a ustedes: “Tomen, coman”.
 
-sta es la manera de recibir a Cristo: tomarle, participar de l. Entonces es
+Ésta es la manera de recibir a Cristo: tomarle, participar de Él. Entonces es
 
 suyo.
 
 Ustedes probablemente recuerden la
 
-extraordinaria historia de la conversin de Agustn, quien, despus de una vida
+extraordinaria historia de la conversión de Agustín, quien, después de una vida
 
-de pecado, experiment remordimientos de conciencia. Su afliccin de corazn
+de pecado, experimentó remordimientos de conciencia. Su aflicción de corazón
 
-era muy grande, y no encontraba la paz hasta que oy una voz, que pudo haber
+era muy grande, y no encontraba la paz hasta que oyó una voz, que pudo haber
 
-sido probablemente la voz de un nio al otro lado de la pared no podra
+sido probablemente la voz de un nińo al otro lado de la pared –no podría
 
-decirlo- pero oy esa voz, que le repeta una y otra vez:
+decirlo- pero oyó esa voz, que le repetía una y otra vez:
 
-Tolle, lege; tolle, lege; tolle, lege;
+“Tolle, lege; tolle, lege; tolle, lege”;
 
-esto es, Toma y lee; toma
+esto es, “Toma y lee; toma
 
-y lee; y Agustn tom el Libro, lo ley, lo estudi con fe y encontr la paz
+y lee”; y Agustín tomó el Libro, lo leyó, lo estudió con fe y encontró la paz
 
 con Dios.
 
-Yo he orado pidiendo que pueda haber algn joven
+Yo he orado pidiendo que pueda haber algún joven
 
-Agustn aqu esta noche. En este momento su nombre pudiera ser detestable,
+‘Agustín’ aquí esta noche. En este momento su nombre pudiera ser ‘detestable’,
 
 pues vive en el pecado y la iniquidad. Oro pidiendo que sea atribulado en su
 
 conciencia y que pueda ser llevado a Cristo por estas palabras del texto,
 
-Tomad, comed. Que este mandamiento cale hondamente en ustedes, que lo tomen
+“Tomad, comed”. ˇQue este mandamiento cale hondamente en ustedes, que lo tomen
 
-y lo pongan en prctica y que mi Seor haga un gran santo del algn gran
+y lo pongan en práctica y que mi Seńor haga un gran santo del algún gran
 
-pecador -incluso un Agustn- que defienda valerosamente el Evangelio de la gracia
+pecador -incluso un Agustín- que defienda valerosamente el Evangelio de la gracia
 
-de Dios, aunque ahora peque desesperadamente contra el amor todopoderoso! Oh,
+de Dios, aunque ahora peque desesperadamente contra el amor todopoderoso! ˇOh,
 
-que as sea!
+que así sea!
 
 Con ese objetivo en mente, paso a considerar mi
 
-texto. No podemos dividirlo en muchas partes, no es cierto? No hay sino dos
+texto. No podemos dividirlo en muchas partes, żno es cierto? No hay sino dos
 
-palabras sobre las cuales deseo hablar especialmente, as que sas sern las
+palabras sobre las cuales deseo hablar especialmente, así que ésas serán las
 
 divisiones de mi tema. Primero,
 
-Tomad,
+“Tomad”,
 
 y
 
 en segundo lugar,
 
-comed.
+“comed”.
 
 I.
 
 La primera palabra que quiero que noten es:
 
-TOMAD.
+“TOMAD”.
 
-As como un doctor puede escribir al comienzo de
+Así como un doctor puede escribir al comienzo de
 
-una receta, Tomar tales y tales medicinas, as tambin el Seor Jess les
+una receta, “Tomar tales y tales medicinas”, así también el Seńor Jesús les
 
-dijo a Sus discpulos: Tomad. La palabra se traduce a menudo en nuestro Nuevo
+dijo a Sus discípulos: “Tomad”. La palabra se traduce a menudo en nuestro Nuevo
 
-Testamento: Recibid. Jess extiende Su mano con el pan, y dice: Recbanlo;
+Testamento: “Recibid”. Jesús extiende Su mano con el pan, y dice: “Recíbanlo;
 
-tmenlo en sus manos. Tom Jess el pan, y bendijo, y lo parti, y luego
+tómenlo en sus manos”. “Tomó Jesús el pan, y bendijo, y lo partió”, y luego
 
-presentndolo a Sus discpulos, les dijo: Tomad, tomad, tomad, y ellos lo
+presentándolo a Sus discípulos, les dijo: “Tomad, tomad, tomad”, y ellos lo
 
 tomaron, y el pan fue suyo.
 
-sta es la manera en que los santos reciben las
+Ésta es la manera en que los santos reciben las
 
-bendiciones: las toman. sta es la manera en que los pecadores reciben tambin
+bendiciones: las toman. Ésta es la manera en que los pecadores reciben también
 
 bendiciones: por la gracia de Dios, las toman. Ellos no las hacen, ni las
 
-ganan, ni las merecen, antes bien, las reciben. Jesucristo les dice: Tomad, y
+ganan, ni las merecen, antes bien, las reciben. Jesucristo les dice: “Tomad”, y
 
 ellos obedecen Su voz, y las toman.
 
 Ninguno de los que estaban a la mesa dijo:
 
-Seor, no me atrevo a tomarlo; mas cuando Jess les dijo: Tomad, ellos lo
+“Seńor, no me atrevo a tomarlo”; mas cuando Jesús les dijo: “Tomad”, ellos lo
 
 tomaron. El mejor plan es aceptar siempre cualquier cosa buena que te fuere
 
-ofrecida. Si fueras un hombre muy pobre, y alguien te ofreciera un cheln
+ofrecida. Si fueras un hombre muy pobre, y alguien te ofreciera un chelín
 
-(moneda), yo me aventuro a darte este consejo: debes tomarlo. No te quedes ah
+(moneda), yo me aventuro a darte este consejo: debes tomarlo. No te quedes ahí
 
-dicindole a la persona: Mi querido seor, pienso que la caridad
+diciéndole a la persona: “Mi querido seńor, pienso que la caridad
 
-indiscriminada est mal; usted no ha investigado nunca mi carcter; usted no
+indiscriminada está mal; usted no ha investigado nunca mi carácter; usted no
 
-sabe si yo soy realmente uno de los desempleados. Si alguien te ofreciera un
+sabe si yo soy realmente uno de los desempleados”. Si alguien te ofreciera un
 
-cheln (moneda), amigo mo, es mejor que lo recibas.
+chelín (moneda), amigo mío, es mejor que lo recibas.
 
-Si tienes mucha hambre, y hay algn pan
+Si tienes mucha hambre, y hay algún pan
 
 disponible que te ofrecen, es mejor que te lo comas. Si te lo ofrecen
 
-libremente, recbelo libremente. Si ese fuera mi caso, yo no hara ninguna
+libremente, recíbelo libremente. Si ese fuera mi caso, yo no haría ninguna
 
 pregunta, no solamente por motivos de conciencia, sino por motivo de mi
 
-necesidad; y yo hara especialmente eso cuando, por la gracia de Dios, el don
+necesidad; y yo haría especialmente eso cuando, por la gracia de Dios, el don
 
-me fuere presentado por el Seor Jesucristo. Si l dice: Toma, yo lo tomo.
+me fuere presentado por el Seńor Jesucristo. Si Él dice: “Toma”, yo lo tomo.
 
-Nada hay ms libre que un don, en verdad, excepto que tal vez soy ms libre de
+Nada hay más libre que un don, en verdad, excepto que tal vez soy más libre de
 
-tomar que de dar; pues nuestras pobres naturalezas estn contradas y no
+tomar que de dar; pues nuestras pobres naturalezas están contraídas y no
 
-siempre somos libres de dar; pero, ciertamente, incluso el egosmo puede
+siempre somos libres de dar; pero, ciertamente, incluso el egoísmo puede
 
 hacernos libres de tomar. Un santo deseo de su propio bien y de su propia
 
-salvacin, puede impulsarlos a decir: S, Seor, si T das libremente, sin
+salvación, puede impulsarlos a decir: “Sí, Seńor, si Tú das libremente, sin
 
-duda lo tomar libremente.
+duda lo tomaré libremente”.
 
 Y yo no supongo que el Maestro haya extendido Su
 
-mano a Pedro con ese trozo de pan, durante media hora. l le dijo: Toma, y
+mano a Pedro con ese trozo de pan, durante media hora. Él le dijo: “Toma”, y
 
-Pedro lo tom. Toma, le dijo a Juan; y Juan lo tom. Toma, le dijo a Felipe;
+Pedro lo tomó. “Toma”, le dijo a Juan; y Juan lo tomó. “Toma”, le dijo a Felipe;
 
-y Felipe lo tom de inmediato. Bienaventurados son quienes aceptan a Cristo la
+y Felipe lo tomó de inmediato. Bienaventurados son quienes aceptan a Cristo la
 
-primera vez que oyen acerca de l. Bienaventurados son todos aquellos que
+primera vez que oyen acerca de Él. Bienaventurados son todos aquellos que
 
 simplemente lo aceptan; pero tres veces bienaventurados son aquellos que,
 
-cuando l dice: Tomad, por medio de Su gracia, responden prontamente: S,
+cuando Él dice: “Tomad”, por medio de Su gracia, responden prontamente: “ˇSí,
 
-Seor, eso har; y te doy las gracias, tambin, de todo corazn! Recuerden aquellas
+Seńor, eso haré; y te doy las gracias, también, de todo corazón!” Recuerden aquellas
 
 palabras que hemos cantado con mucha frecuencia:
 
-La vida se
+“La vida se
 
-encuentra slo en Jess,
+encuentra sólo en Jesús,
 
-Slo all te
+Sólo allí te
 
 es ofrecida,
 
@@ -228,61 +228,61 @@ Dios enviado gratuitamente;
 
 Toma la
 
-salvacin
+salvación
 
-Tmala
+Tómala
 
 ahora,
 
-y s feliz.
+y sé feliz”.
 
-Yo anticipo que alguien diga: He de tener a
+Yo anticipo que alguien diga: “żHe de tener a
 
-Jesucristo al tomarlo simplemente? Precisamente as es. Necesitas un
+Jesucristo al tomarlo simplemente?” Precisamente así es. żNecesitas un
 
-Salvador? All est l; tmalo. Deseas ser liberado del poder del pecado? l
+Salvador? Allí está Él; tómalo. żDeseas ser liberado del poder del pecado? Él
 
-puede liberarte; tmalo para que lo haga. Deseas llevar una vida santa y
+puede liberarte; tómalo para que lo haga. żDeseas llevar una vida santa y
 
-piadosa? Aqu hay Uno que puede lavarte y hacerte capaz de vivir as. Tmalo,
+piadosa? Aquí hay Uno que puede lavarte y hacerte capaz de vivir así. Tómalo,
 
-pues l es tan libre como el aire; no tienes que pagar por Cristo ms de lo que
+pues Él es tan libre como el aire; no tienes que pagar por Cristo más de lo que
 
 tienes que pagar por la siguiente bocanada de aire que ingrese en tus pulmones.
 
-Recbelo dentro de ti; recbelo dentro de ti; eso es todo lo que tienes que
+Recíbelo dentro de ti; recíbelo dentro de ti; eso es todo lo que tienes que
 
-hacer. Si te oyera decir: Difcilmente puedo pensar que yo, un pobre pecador
+hacer. Si te oyera decir: “Difícilmente puedo pensar que yo, un pobre pecador
 
-indigno, tal como soy, y precisamente como soy, pueda tomar a Cristo, yo te respondera:
+indigno, tal como soy, y precisamente como soy, pueda tomar a Cristo”, yo te respondería:
 
-ste es el Evangelio que tengo que darte, pues Jess dijo: Tomad, comed.
+éste es el Evangelio que tengo que darte, pues Jesús dijo: “Tomad, comed”.
 
-El Seor Jess les dijo a Sus discpulos:
+El Seńor Jesús les dijo a Sus discípulos:
 
-Tomad, comed; esto es mi cuerpo. Bien, entonces, antes que nada, vean cun
+“Tomad, comed; esto es mi cuerpo”. Bien, entonces, antes que nada, vean cuán
 
 libre ha de ser Cristo para los pecadores, porque
 
-l tena un cuerpo.
+Él tenía un cuerpo.
 
-En una poca, l no tena un cuerpo; el bendito
+En una época, Él no tenía un cuerpo; el bendito
 
-Hijo de Dios era espritu puro; pero condescendi a nacer de Mara. Me parece
+Hijo de Dios era espíritu puro; pero condescendió a nacer de María. Me parece
 
-verlo como un infante acunado en el pesebre. El Seor de todo se abati tan
+verlo como un infante acunado en el pesebre. El Seńor de todo se abatió tan
 
-bajo que repos en el pecho de una mujer, y permiti que le pusieran paales
+bajo que reposó en el pecho de una mujer, y permitió que le pusieran pańales
 
-como a cualquier otro beb. El Seor de la vida y de la gloria ha asumido la
+como a cualquier otro bebé. El Seńor de la vida y de la gloria ha asumido la
 
-naturaleza humana; vive en Nazaret como un nio, crece como un obrero, el
+naturaleza humana; vive en Nazaret como un nińo, crece como un obrero, el
 
-reputado Hijo de un carpintero. Obrero, tu Dios se hizo un Carpintero! Tmalo.
+reputado Hijo de un carpintero. ˇObrero, tu Dios se hizo un Carpintero! Tómalo.
 
 Ciertamente, el propio hecho de que haya venido en medio de los hombres y que
 
-tomara un cuerpo como el nuestro, debera animarnos a sentir que podemos
+tomara un cuerpo como el nuestro, debería animarnos a sentir que podemos
 
 tomarlo libremente. Su nombre es Emanuel, Dios con nosotros; y si es Dios con nosotros,
 
@@ -292,11 +292,11 @@ para bendecirnos, no hemos de dudar de que podemos tomar libremente lo que vino
 
 a traernos.
 
-Habiendo tomado un cuerpo, adems, recuerden a
+Habiendo tomado un cuerpo, además, recuerden a
 
-continuacin que
+continuación que
 
-en ese cuerpo sufri.
+en ese cuerpo sufrió.
 
 Si
 
@@ -306,233 +306,233 @@ estaba
 
 dispuesto
 
-a morir para redimirlos, tal vez estara probando su fe; pero
+a morir para redimirlos, tal vez estaría probando su fe; pero
 
-cuando tengo que decirles que muri, que la obra de su redencin ha sido
+cuando tengo que decirles que murió, que la obra de su redención ha sido
 
-consumada, que Jess clam: Consumado es antes de inclinar Su cabeza y
+consumada, que Jesús clamó: “Consumado es” antes de inclinar Su cabeza y
 
-entregar Su espritu, que l ha pagado la deuda suya hasta el ltimo centavo, y
+entregar Su espíritu, que Él ha pagado la deuda suya hasta el último centavo, y
 
-que carg con sus pecados en Su propio cuerpo sobre el madero, stas son, en
+que cargó con sus pecados en Su propio cuerpo sobre el madero, éstas son, en
 
-verdad, buenas nuevas; pues me conduce a decir adems que, si l ha hecho todo
+verdad, buenas nuevas; pues me conduce a decir además que, si Él ha hecho todo
 
-sto, y muri, el justo por los injustos, para llevarnos a Dios, podemos
+ésto, y murió, “el justo por los injustos, para llevarnos a Dios”, podemos
 
 tomarle libremente, pueden estar seguros de ello. Dios ha establecido a Su Hijo
 
-para ser la propiciacin por el pecado; por tanto, oigmosle decir: Tomad,
+para ser la propiciación por el pecado; por tanto, oigámosle decir: “Tomad,
 
-tomad, tomad, y tomemos lo que nos es presentado libremente.
+tomad, tomad”, y tomemos lo que nos es presentado libremente.
 
-Mis queridos amigos, recuerden que como Jess
+Mis queridos amigos, recuerden que como Jesús
 
-tena un cuerpo, y muri en ese cuerpo,
+tenía un cuerpo, y murió en ese cuerpo,
 
 el
 
-propsito de esa muerte ha de estar fuera de l mismo.
+propósito de esa muerte ha de estar fuera de Él mismo.
 
-l no se hizo hombre
+Él no se hizo hombre
 
-para ganar algo con ello. l no muri por cualquier propsito que tuviera que
+para ganar algo con ello. Él no murió por cualquier propósito que tuviera que
 
-ver con Su gloria exclusivamente. l no tena ninguna necesidad de poner un
+ver con Su gloria exclusivamente. Él no tenía ninguna necesidad de poner un
 
 velo a los esplendores de Su Deidad con un cuerpo mortal, y morir en ese
 
-cuerpo; entonces tuvo que haber muerto por otras personas; por tanto, tmenle,
+cuerpo; entonces tuvo que haber muerto por otras personas; por tanto, tómenle,
 
-tmenle. Acaso no ven que estos frutos no estn en el rbol para el rbol
+tómenle. żAcaso no ven que estos frutos no están en el árbol para el árbol
 
-mismo, sino para que el transente hambriento pueda alzar su mano, y tomar y
+mismo, sino para que el transeúnte hambriento pueda alzar su mano, y tomar y
 
-comer? Oh, que tuvieran el sentido de ver que Cristo muri para expiar unos
+comer? ˇOh, que tuvieran el sentido de ver que Cristo murió para expiar unos
 
 pecados que no son suyos, y que, por tanto, pueden tomarle, y tomarle de manera
 
 sumamente libre!
 
-Adems,
+Además,
 
-Jess
+Jesús
 
 mismo ofrece lo que se nos pide que tomemos.
 
 Noten el contenido del
 
-versculo: Tom Jess el pan, y bendijo, y lo parti, y dio a sus discpulos,
+versículo: “Tomó Jesús el pan, y bendijo, y lo partió, y dio a sus discípulos,
 
-y dijo: Tomad, comed. Lo que Jess da, t puedes en verdad tomarlo. Yo no
+y dijo: Tomad, comed”. Lo que Jesús da, tú puedes en verdad tomarlo. Yo no
 
-puedo ir y tomar los bienes de otro hombre; pero puedo tomar lo que l me da.
+puedo ir y tomar los bienes de otro hombre; pero puedo tomar lo que Él me da.
 
-Si me arrestaran por robar algo, y yo pudiera decir verdaderamente: ste
+Si me arrestaran por robar algo, y yo pudiera decir verdaderamente: “Éste
 
-hombre me lo dio, no sera un ladrn, no es cierto? Y si Jesucristo te da la
+hombre me lo dio”, no sería un ladrón, żno es cierto? Y si Jesucristo te da la
 
-gracia, y t la tomas, no eres ningn ladrn; de hecho, ningn hombre se aferra
+gracia, y tú la tomas, no eres ningún ladrón; de hecho, ningún hombre se aferra
 
 a Cristo sin un derecho legal para hacerlo. Si un perro se introduce en la
 
-carnicera, y se roba un trozo de carne, el carnicero podra tal vez
+carnicería, y se roba un trozo de carne, el carnicero podría tal vez
 
-quitrselo, e impedirle que coma lo que se ha robado; pero no hubo nunca ningn
+quitárselo, e impedirle que coma lo que se ha robado; pero no hubo nunca ningún
 
 pecador que viniera y se asiera de la misericordia de Cristo, y que Cristo se
 
-la arrebatara luego. Tmala pecador, y la tienes garantizada; si te atreves a
+la arrebatara luego. Tómala pecador, y la tienes garantizada; si te atreves a
 
-tomarla, Dios hace que la apropiacin por fe sea algo adecuado, pues l te pide
+tomarla, Dios hace que la apropiación por fe sea algo adecuado, pues Él te pide
 
-que lo hagas. T nunca puedes tener un derecho para con Cristo, excepto este
+que lo hagas. Tú nunca puedes tener un derecho para con Cristo, excepto este
 
-derecho: que l les da libremente a los necesitados, conforme a las riquezas de
+derecho: que Él les da libremente a los necesitados, conforme a las riquezas de
 
-Su gracia. Por tanto, oigan esta palabra que dice: Tomad, tomad, tomad.
+Su gracia. Por tanto, oigan esta palabra que dice: “Tomad, tomad, tomad”.
 
-Reciban, acepten, agarren, aprpiense y tomen.
+Reciban, acepten, agarren, aprópiense y tomen.
 
-Cuando Jesucristo les dijo a Sus discpulos:
+Cuando Jesucristo les dijo a Sus discípulos:
 
-Tomad, era su Maestro,
+“Tomad”, era su Maestro,
 
 y la palabra de
 
-Cristo era ley para los discpulos.
+Cristo era ley para los discípulos.
 
-No haba ni uno solo de ellos que
+No había ni uno solo de ellos que
 
-hubiera podido decir: Yo no lo tomar, sin ser culpable de desobediencia. Oh,
+hubiera podido decir: “Yo no lo tomaré”, sin ser culpable de desobediencia. Oh,
 
-que alguna pobre alma que est aqu esta noche dijera: Hay un Salvador?
+que alguna pobre alma que está aquí esta noche dijera: “żHay un Salvador?
 
-Entonces yo lo recibir; yo lo tomar. Que el Espritu de amor infinito se
+Entonces yo lo recibiré; yo lo tomaré”. Que el Espíritu de amor infinito se
 
 mueva en la mente de ustedes para hacerlos decir, impulsados por una especie de
 
-santa desesperacin: Yo voy a tomarlo ahora mismo. Ya sea que pueda o no
+santa desesperación: “Yo voy a tomarlo ahora mismo. Ya sea que pueda o no
 
-pueda, yo lo tomar. Aunque mi sentido de pecado me diga; no debes hacerlo, y
+pueda, yo lo tomaré. Aunque mi sentido de pecado me diga; ‘no debes hacerlo’, y
 
-aunque el diablo me diga: no te atrevas, yo lo tomar. Yo creo en verdad, yo
+aunque el diablo me diga: ‘no te atrevas’, yo lo tomaré. Yo creo en verdad, yo
 
-voy a creer, debo creer que Jess muri por m, y yo lo tomar para que sea mi
+voy a creer, debo creer que Jesús murió por mí, y yo lo tomaré para que sea mi
 
-Salvador y me voy a apoyar entera y nicamente en l.
+Salvador y me voy a apoyar entera y únicamente en Él”.
 
-Si t hicieras sto, no perecers nunca; pues a
+Si tú hicieras ésto, no perecerás nunca; pues a
 
-ti, y a todos los que son discpulos de Cristo, o que se conviertan en Sus
+ti, y a todos los que son discípulos de Cristo, o que se conviertan en Sus
 
-discpulos, viene esta palabra de mando: Tomad, tomad, tomad, tomad, tomad.
+discípulos, viene esta palabra de mando: “Tomad, tomad, tomad, tomad, tomad”.
 
-Oh benditas nuevas, y dulce mandamiento; que el Divino Espritu los conduzca
+ˇOh benditas nuevas, y dulce mandamiento; que el Divino Espíritu los conduzca
 
 ahora a obedecerlo, y a tomar a Cristo como su Salvador!
 
 II.
 
-El segundo encabezado del sermn es COMED:
+El segundo encabezado del sermón es COMED:
 
-Tomad, comed.
+“Tomad, comed”.
 
 Comer es una cosa tan simple que no creo que
 
-deba tratar de explicarlo. Regresen a casa y tomen su cena, y lo entendern;
+deba tratar de explicarlo. Regresen a casa y tomen su cena, y lo entenderán;
 
-cada hombre hambriento, es ms, cada hombre viviente, sabe qu es comer. Bien,
+cada hombre hambriento, es más, cada hombre viviente, sabe qué es comer. Bien,
 
-qu es comer?
+żqué es comer?
 
 Comer es
 
 la
 
-recepcin de tipo ms ntimo.
+recepción de tipo más íntimo.
 
 Es introducir, dentro de su propio ser, el
 
-alimento puesto ante ustedes. Bien, ahora, ustedes que son Sus discpulos,
+alimento puesto ante ustedes. Bien, ahora, ustedes que son Sus discípulos,
 
 tomen a Cristo; tomen a Cristo mismo, a Su obra, Su sangre, Su justicia;
 
-tmenlo en su propio interior. Digan: sto es para m; lo tomo para m. Yo no
+tómenlo en su propio interior. Digan: “Ésto es para mí; lo tomo para mí”. Yo no
 
-tengo un socio en nada de lo que como; lo que he comido, lo he comido para m.
+tengo un socio en nada de lo que como; lo que he comido, lo he comido para mí.
 
 Yo no puedo comer por tu esposa o por tu hijo; debes hacer eso por ti mismo.
 
-Ahora, querido corazn, s lo suficientemente
+Ahora, querido corazón, ˇsé lo suficientemente
 
-valeroso para tomar a Cristo todo para ti mismo! Di; Este Salvador moribundo
+valeroso para tomar a Cristo todo para ti mismo! Di; “Este Salvador moribundo
 
-es mo, este Salvador resucitado es mo. Yo espero que multitudes de otras
+es mío, este Salvador resucitado es mío. Yo espero que multitudes de otras
 
-personas lo tomen, pero en cuanto a m, yo voy a tomarlo. Cuando como, estoy
+personas lo tomen, pero en cuanto a mí, yo voy a tomarlo”. Cuando como, estoy
 
-haciendo una accin para m mismo; ha de ser as. Y ahora, por fe, tomo al
+haciendo una acción para mí mismo; ha de ser así. Y ahora, por fe, tomo al
 
-bendito Hijo de Dios, que se hizo hombre, y vivi, muri y resucit y lo tomo
+bendito Hijo de Dios, que se hizo hombre, y vivió, murió y resucitó y lo tomo
 
-para m dentro de m. Yo les suplico que hagan eso esta noche.
+para mí dentro de mí. Yo les suplico que hagan eso esta noche.
 
-Es una accin egosta, dirn ustedes. Ah,
+“Es una acción egoísta”, dirán ustedes. ˇAh,
 
-pero es una accin necesaria! Ustedes han pecado personalmente y deben tomar
+pero es una acción necesaria! Ustedes han pecado personalmente y deben tomar
 
-personalmente a Cristo. Ustedes estn personalmente hambrientos y deben comer
+personalmente a Cristo. Ustedes están personalmente hambrientos y deben comer
 
-personalmente. Quin ha de condenarlos por ello? Ustedes no podran ser
+personalmente. żQuién ha de condenarlos por ello? Ustedes no podrían ser
 
-egostas para con otros si ustedes mismos no comieran, porque no estaran vivos
+egoístas para con otros si ustedes mismos no comieran, porque no estarían vivos
 
-durante largo tiempo para ser egostas o no. Vean con cuidado esto, entonces. Tomad,
+durante largo tiempo para ser egoístas o no. Vean con cuidado esto, entonces. “Tomad,
 
-comed. Reciban a Cristo con la ms ntima recepcin.
+comed”. Reciban a Cristo con la más íntima recepción.
 
-Comer es tambin
+Comer es también
 
-un tipo de recepcin muy familiar.
+un tipo de recepción muy familiar.
 
 Es algo que puede ser llevado a
 
-cabo por un obrero as como por un noble; en verdad, pienso que es realizado
+cabo por un obrero así como por un noble; en verdad, pienso que es realizado
 
-mejor por el obrero que por el noble. Cmo
-
-pueden
-
-comer, algunos de ellos! Y cmo
+mejor por el obrero que por el noble. ˇCómo
 
 pueden
 
-comer las personas de sencillo corazn cuando vienen a Cristo! Si quieren
+comer, algunos de ellos! ˇY cómo
 
-ver comer, no traigan a mi seor y a mi seora a los exquisitos bocadillos de
+pueden
 
-un festn; antes bien inviten a muchos hombres pobres y de rudo trabajo, quiero
+comer las personas de sencillo corazón cuando vienen a Cristo! Si quieren
+
+ver comer, no traigan a “mi seńor y a mi seńora” a los exquisitos bocadillos de
+
+un festín; antes bien inviten a muchos hombres pobres y de rudo trabajo, quiero
 
 decir, hombres que no han tenido suficiente que comer durante un mes; y hay
 
-muchas de esas personas a nuestro alrededor. Sintenlos y pnganles enfrente un
+muchas de esas personas a nuestro alrededor. Siéntenlos y pónganles enfrente un
 
-buen trozo de carne y vern cmo comen.
+buen trozo de carne y verán cómo comen.
 
-Comer es un tipo de accin muy familiar; y, por
+Comer es un tipo de acción muy familiar; y, por
 
-tanto, en relacin a la gran salvacin de Jesucristo, nosotros decimos: Tomad,
+tanto, en relación a la gran salvación de Jesucristo, nosotros decimos: “Tomad,
 
-comed; introdzcanlo dentro de ustedes; pueden hacer sto igual que toman sus
+comed”; introdúzcanlo dentro de ustedes; pueden hacer ésto igual que toman sus
 
-comidas; as como los que estn hambrientos y famlicos devoran su alimento,
+comidas; así como los que están hambrientos y famélicos devoran su alimento,
 
-as tomen dentro de ustedes al Seor Jesucristo, confiando en l, recibindolo
+así tomen dentro de ustedes al Seńor Jesucristo, confiando en Él, recibiéndolo
 
-dentro de ustedes, diciendo: l es y l ser completamente mo.
+dentro de ustedes, diciendo: “Él es y Él será completamente mío”.
 
-Ahora, cuando tiene que comerse la comida, no slo
+Ahora, cuando tiene que comerse la comida, no sólo
 
 se trata de tragarla, sino que
 
@@ -540,163 +540,163 @@ tiene que
 
 ser masticada.
 
-Est en la boca, y se le da vueltas y vueltas de tal manera
+Está en la boca, y se le da vueltas y vueltas de tal manera
 
-que se discierne su sabor. Piensen mucho en el Seor Jesucristo y en Su obra
+que se discierne su sabor. Piensen mucho en el Seńor Jesucristo y en Su obra
 
 redentora de esta manera, ahora. Lean, reflexionen, aprendan y digieran
 
 internamente la verdad. Si piensan que no pueden creer, piensen mucho en lo que
 
-deben creer, y en Aquel en quien deben creer. Esta masticacin ser una
+deben creer, y en Aquel en quien deben creer. Esta masticación será una
 
-admirable forma de alimentarse del alimento celestial. Jess muri por los
+admirable forma de alimentarse del alimento celestial. Jesús murió por los
 
-pecadores; Jess muri en el lugar, en la posicin y en sustitucin de los
+pecadores; Jesús murió en el lugar, en la posición y en sustitución de los
 
 pecadores. Mastiquen esa gran verdad, y denle vueltas y vueltas; muerdan esa
 
 grandiosa doctrina con los dientes de su pensamiento, hasta que introduzcan en
 
-sus almas su propia mdula y su propia esencia.
+sus almas su propia médula y su propia esencia.
 
 Luego hay
 
 una
 
-asimilacin interna
+asimilación interna
 
-que va con los alimentos. Pasando a nuestras partes ms
+que va con los alimentos. Pasando a nuestras partes más
 
 interiores, comienza a reconstruir nuestro cuerpo, hasta que el alimento que
 
-era pan haca un rato, se convierte en carne y sangre. Retengan a Cristo en su
+era pan hacía un rato, se convierte en carne y sangre. Retengan a Cristo en su
 
-pensamiento, en su fe y en su corazn, hasta que al fin Cristo se haga uno con
+pensamiento, en su fe y en su corazón, hasta que al fin Cristo se haga uno con
 
-ustedes, y alimente su alma as como su alimento reconstituye su cuerpo.
+ustedes, y alimente su alma así como su alimento reconstituye su cuerpo.
 
-Tomad, comed. Ustedes saben que toda la actividad de comer es, despus de
+“Tomad, comed”. Ustedes saben que toda la actividad de comer es, después de
 
 todo, introducir los alimentos dentro de la persona. Ese es el punto principal,
 
 introducirlo de tal manera que se vuelva propio y sea parte de uno.
 
-Ahora, hagan eso con el bendito Seor Jesucristo
+Ahora, hagan eso con el bendito Seńor Jesucristo
 
-y con toda Su obra portentosa por los pecadores. Tmenlo hasta que se
+y con toda Su obra portentosa por los pecadores. Tómenlo hasta que se
 
-introduzca en ustedes, y se vuelva parte y porcin de ustedes mismos, y tengan
+introduzca en ustedes, y se vuelva parte y porción de ustedes mismos, y tengan
 
-vida por ello. Tomad, comed.
+vida por ello. “Tomad, comed”.
 
-Me parece que oigo decir a alguien: Oh, pero
+Me parece que oigo decir a alguien: “ˇOh, pero
 
 parece ser algo
 
 demasiado extraordinario
 
-que yo, un pobre ser, un ser indigno, haya de tomar a Cristo para que sea mo,
+que yo, un pobre ser, un ser indigno, haya de tomar a Cristo para que sea mío,
 
-igual que tomo un pedazo de pan para que sea mi alimento! Bien, escucha sto:
+igual que tomo un pedazo de pan para que sea mi alimento!” Bien, escucha ésto:
 
-l ordena que lo hagas;
+Él ordena que lo hagas;
 
-sa garanta te
+ésa garantía te
 
-basta. Aunque yo fuera el ms indigno ser que todava est fuera del infierno,
+basta. Aunque yo fuera el más indigno ser que todavía está fuera del infierno,
 
-si Jess me pide que confe en l, puedo confiar en l. Su mandato es
+si Jesús me pide que confíe en Él, puedo confiar en Él. Su mandato es
 
-suficiente garanta para que yo lo haga. Oh hijo de Dios, y oh t que deseas
+suficiente garantía para que yo lo haga. ˇOh hijo de Dios, y oh tú que deseas
 
-en verdad ser Su hijo, l les ordena que coman; yo les suplico que no vacilen,
+en verdad ser Su hijo, Él les ordena que coman; yo les suplico que no vacilen,
 
-y que Su mandato sea la garanta de ustedes!
+y que Su mandato sea la garantía de ustedes!
 
 Jesucristo condesciende a compararse con el pan;
 
 pero
 
-cul es el bien del pan si no fuera
+żcuál es el bien del pan si no fuera
 
 comido?
 
-Por qu se elabora el pan excepto para ser comido? Por qu es
+żPor qué se elabora el pan excepto para ser comido? żPor qué es
 
-colocado en hileras en las panaderas? Para ser mirado? Cmo! Habiendo
+colocado en hileras en las panaderías? żPara ser mirado? ˇCómo! żHabiendo
 
-hombres hambrientos en las calles, el pan es puesto all como un ornamento slo
+hombres hambrientos en las calles, el pan es puesto allí como un ornamento sólo
 
-para ser contemplado? No, la propia confeccin del pan significa alimento para
+para ser contemplado? No, la propia confección del pan significa alimento para
 
-los hombres, y cuando el Seor Jesucristo se compara con el pan, quiere
+los hombres, y cuando el Seńor Jesucristo se compara con el pan, quiere
 
-decirnos que l se ha puesto en esa figura y en esa forma en el pacto de
+decirnos que Él se ha puesto en esa figura y en esa forma en el pacto de
 
-gracia, porque pretende que lo recibamos. Pan que no es comido, en qu puede
+gracia, porque pretende que lo recibamos. Pan que no es comido, żen qué puede
 
-convertirse? El man del desierto que no era comido, sino almacenado,
+convertirse? El maná del desierto que no era comido, sino almacenado,
 
-engendraba gusanos y apestaba. Nuestro Seor Jesucristo no es til a menos que
+engendraba gusanos y apestaba. Nuestro Seńor Jesucristo no es útil a menos que
 
-los pecadores sean salvados por l. Un Salvador que no salve a nadie! Vamos,
+los pecadores sean salvados por Él. ˇUn Salvador que no salve a nadie! ˇVamos,
 
-es como un hombre que abre una tienda pero que no vende ningn bien nunca, o
+es como un hombre que abre una tienda pero que no vende ningún bien nunca, o
 
-como un doctor que llega a un pueblo, pero que nunca recibe a ningn paciente!
+como un doctor que llega a un pueblo, pero que nunca recibe a ningún paciente!
 
 Cristo debe salvar a los pecadores, quiere salvar a los pecadores y anhela
 
-salvar a los pecadores. Vengan y tmenlo, entonces. Vengan y coman de ese pan
+salvar a los pecadores. Vengan y tómenlo, entonces. Vengan y coman de ese pan
 
-que deja de cumplir su propsito, su designio y su objetivo, si no es comido.
+que deja de cumplir su propósito, su designio y su objetivo, si no es comido.
 
 Cristo como pan, pero que no es comido, se vuelve un Cristo deshonrado.
 
-Tomad,
+“Tomad,
 
-comed.
+comed”.
 
-Bien, qu significa
+Bien, żqué significa
 
 comer?
 
 Yo
 
-les dir. Cuando dos hombres, en el oriente, tomaban una pieza de pan, y la
+les diré. Cuando dos hombres, en el oriente, tomaban una pieza de pan, y la
 
-partan, y uno coma una pieza, y el otro coma la otra pieza, eso
+partían, y uno comía una pieza, y el otro comía la otra pieza, eso
 
 significaba amistad.
 
 Si yo entrara en la
 
-tienda de un rabe, no podra decir de qu clase de individuo se trataba.
+tienda de un árabe, no podría decir de qué clase de individuo se trataba.
 
-Podra matarme durante la noche, y robarme; pero si me ofrece un pedazo de pan,
+Podría matarme durante la noche, y robarme; pero si me ofrece un pedazo de pan,
 
-y yo como con l, no me har dao. Los derechos de hospitalidad han asegurado
+y yo como con él, no me hará dańo. Los derechos de hospitalidad han asegurado
 
-mi seguridad, y hay amistad entre l y yo.
+mi seguridad, y hay amistad entre él y yo.
 
 Ahora, vean, Dios se deleita grandemente en
 
-Jesucristo; acaso no se han de deleitar ustedes tambin en l? Entonces, vean,
+Jesucristo; żacaso no se han de deleitar ustedes también en Él? Entonces, vean,
 
 han partido juntos el pan, pues ustedes se deleitan en la misma Persona. Dios
 
-confa Su honor a Cristo; confiarn ustedes su alma a Cristo? Entonces ustedes
+confía Su honor a Cristo; żconfiarán ustedes su alma a Cristo? Entonces ustedes
 
-han partido el pan con Dios. Tomad, comed, dice Jess, y en el momento en que
+han partido el pan con Dios. “Tomad, comed”, dice Jesús, y en el momento en que
 
-lo hagan, hay una amistad, es ms, hay un pacto establecido entre ustedes y el
+lo hagan, hay una amistad, es más, hay un pacto establecido entre ustedes y el
 
-grandioso Padre. Yo s que Dios ama a Jesucristo ms que yo; pero pienso que
+grandioso Padre. Yo sé que Dios ama a Jesucristo más que yo; pero pienso que
 
-casi podra decir que l no lo ama ms verdaderamente que yo. Oh, cun grande
+casi podría decir que Él no lo ama más verdaderamente que yo. ˇOh, cuán grande
 
-Cristo es l para mi alma! Y Dios le ama tambin, as que l y yo estamos de
+Cristo es Él para mi alma! Y Dios le ama también, así que Él y yo estamos de
 
 acuerdo en una cosa; estamos de acuerdo sobre un precioso Salvador, y hay un
 
@@ -706,147 +706,147 @@ pacto es realizado sobre el sacrificio de Cristo. En el instante en que has
 
 comido de Cristo por la fe, hay una eterna amistad establecida entre tu Dios y
 
-t.
+tú.
 
-Adems, cuando Jess dice; Tomad, comed, Sus
+Además, cuando Jesús dice; “Tomad, comed”, Sus
 
 palabras nos declaran que
 
-l ha de convertirse
+Él ha de convertirse
 
 en el verdadero alimento de nuestra alma.
 
 Las almas tienen que ser nutridas
 
-por la verdad de Dios, que es su alimento espiritual; y el Seor Jesucristo se
+por la verdad de Dios, que es su alimento espiritual; y el Seńor Jesucristo se
 
-convierte en el alimento de nuestro corazn y en el sustento de nuestro
+convierte en el alimento de nuestro corazón y en el sustento de nuestro
 
-espritu, cuando pensamos en l y meditamos en l. Entonces piensen mucho en
+espíritu, cuando pensamos en Él y meditamos en Él. Entonces piensen mucho en
 
-l; confen mucho en l; mediten mucho sobre l, pues as se volvern fuertes
+Él; confíen mucho en Él; mediten mucho sobre Él, pues así se volverán fuertes
 
-en el Seor y sern reconstituidos para alcanzar la estatura de un varn
+en el Seńor y serán reconstituidos para alcanzar la estatura de un varón
 
-perfecto en Cristo Jess. Esto es lo que quiere decir el texto: Tomad, comed.
+perfecto en Cristo Jesús. Esto es lo que quiere decir el texto: “Tomad, comed”.
 
-sto tambin retrata
+Ésto también retrata
 
-la maravillosa unin que hay entre Cristo y Su pueblo.
+la maravillosa unión que hay entre Cristo y Su pueblo.
 
 Aquello de
 
 lo que el hombre se ha alimentado se convierte en algo unido indisolublemente a
 
-l mismo. No puedes quitarle a un hombre lo que comi ayer; se ha convertido en
+él mismo. No puedes quitarle a un hombre lo que comió ayer; se ha convertido en
 
-una parte de l mismo. Me he enterado de un sacerdote que le quit un Nuevo
+una parte de él mismo. Me he enterado de un sacerdote que le quitó un Nuevo
 
-Testamento a un niito irlands. El muchacho le dijo: Hay diez captulos que
+Testamento a un nińito irlandés. El muchacho le dijo: “Hay diez capítulos que
 
-no me puede quitar. Por qu?, le pregunt el sacerdote. Porque me los
+no me puede quitar”. “żPor qué?”, le preguntó el sacerdote. “Porque me los
 
-aprend de memoria. Y as, cuando ustedes reciben a Cristo dentro de su corazn,
+aprendí de memoria”. Y así, cuando ustedes reciben a Cristo dentro de su corazón,
 
-no puede ser apartado de ustedes. Quin nos separar del amor de Cristo? Hay
+no puede ser apartado de ustedes. żQuién nos separará del amor de Cristo? Hay
 
-tal unin entre Cristo y el creyente, que no puede haber una separacin entre
+tal unión entre Cristo y el creyente, que no puede haber una separación entre
 
-ellos sin la destruccin de Cristo y tambin del creyente. Estn tan entretejidos,
+ellos sin la destrucción de Cristo y también del creyente. Están tan entretejidos,
 
 enlazados y entremezclados, que no hay ninguna posibilidad de separarlos.
 
-Entonces, el Salvador les dice a ustedes, que son Sus discpulos, y a ustedes,
+Entonces, el Salvador les dice a ustedes, que son Sus discípulos, y a ustedes,
 
-que desean serlo: Tomad, comed. Cuando nos vean tomar el pan y comerlo en
+que desean serlo: “Tomad, comed”. Cuando nos vean tomar el pan y comerlo en
 
-unos momentos ms, sentados a la mesa de la comunin, as tomen ustedes a
+unos momentos más, sentados a la mesa de la comunión, así tomen ustedes a
 
-Cristo y alimntense de l, pues l les ordena hacerlo as. Tomad, comed.
+Cristo y aliméntense de Él, pues Él les ordena hacerlo así. “Tomad, comed”.
 
 Queridos corazones, no se les dice nada en
 
-relacin a ganarlo, no se les dice nada en relacin a comprarlo, no se les dice
+relación a ganarlo, no se les dice nada en relación a comprarlo, no se les dice
 
-nada acerca de estar preparado para ello; vengan entonces, tomen al Seor
+nada acerca de estar preparado para ello; vengan entonces, tomen al Seńor
 
-Jesucristo, y l es suyo.
+Jesucristo, y Él es suyo.
 
-Oh!, dice uno: yo voy a confiar en Cristo,
+“ˇOh!”, dice uno: “yo voy a confiar en Cristo,
 
-yo lo voy a tomar ahora. Ustedes, jvenes y jovencitas que estn presentes
+yo lo voy a tomar ahora”. Ustedes, jóvenes y jovencitas que están presentes
 
-aqu esta noche, en el primer domingo de mi retorno despus de mi descanso:
+aquí esta noche, en el primer domingo de mi retorno después de mi descanso:
 
-sera una noche muy feliz para m si se atrevieran a tomar a Cristo. Cuando
+sería una noche muy feliz para mí si se atrevieran a tomar a Cristo. Cuando
 
-experimentaba turbacin de alma, me pareca como si no debera tomar a Cristo.
+experimentaba turbación de alma, me parecía como si no debería tomar a Cristo.
 
-Hace aos, cuando era un muchacho de quince aos, ese sola ser mi problema. No
+Hace ańos, cuando era un muchacho de quince ańos, ese solía ser mi problema. No
 
-me atreva a pensar que Cristo muri por m, y tena miedo de confiar en l con
+me atrevía a pensar que Cristo murió por mí, y tenía miedo de confiar en Él con
 
-mi alma. Gradualmente ca en la cuenta de que, si me atreva a hacerlo, podra
+mi alma. Gradualmente caí en la cuenta de que, si me atrevía a hacerlo, podría
 
-hacerlo; y que, si en verdad lo haca, estara hecho y nunca sera deshecho;
+hacerlo; y que, si en verdad lo hacía, estaría hecho y nunca sería deshecho;
 
 que si aprovechaba la oportunidad de que cuando Jesucristo pasara yo tocara el
 
-borde de Su manto, aunque fuera una terrible muestra de presuncin como pareca
+borde de Su manto, aunque fuera una terrible muestra de presunción como parecía
 
-serlo, sera, a pesar de todo, una presuncin santa y bendita, y Cristo no se
+serlo, sería, a pesar de todo, una presunción santa y bendita, y Cristo no se
 
-enojara conmigo por ello. Y yo s que, cuando cre por primera vez, pareca ser
+enojaría conmigo por ello. Y yo sé que, cuando creí por primera vez, parecía ser
 
-un ladrn que haba robado una salvacin; pero luego el Seor Jess nunca me la
+un ladrón que había robado una salvación; pero luego el Seńor Jesús nunca me la
 
-quit. Me aventur, me arriesgu, me atrev a decir: Yo creo en verdad que l
+quitó. Me aventuré, me arriesgué, me atreví a decir: “Yo creo en verdad que Él
 
 puede salvarme, y que me
 
 ha
 
-salvado.
+salvado”.
 
-Me apoy en l, y entonces encontr la paz. Hagan eso esta noche. Jess dijo:
+Me apoyé en Él, y entonces encontré la paz. Hagan eso esta noche. Jesús dijo:
 
-El que cree en m, tiene vida eterna. La posee ahora, es eterna y nunca la
+“El que cree en mí, tiene vida eterna”. La posee ahora, es eterna y nunca la
 
-perder. El que cree en Jesucristo no es condenado, a pesar de toda su culpa y
+perderá. El que cree en Jesucristo no es condenado, a pesar de toda su culpa y
 
-de sus pecados pasados. El que creyere y fuere bautizado, ser salvo. Ahora
+de sus pecados pasados. “El que creyere y fuere bautizado, será salvo”. Ahora
 
-les he dado el Evangelio completo; as es como el Maestro lo expuso, y yo no he
+les he dado el Evangelio completo; así es como el Maestro lo expuso, y yo no he
 
-dejado fuera ninguna clusula. El que creyere y fuere bautizado, ser salvo.
+dejado fuera ninguna cláusula. “El que creyere y fuere bautizado, será salvo”.
 
-Si confesares con tu boca que Jess es el Seor, y creyeres en tu corazn que
+“Si confesares con tu boca que Jesús es el Seńor, y creyeres en tu corazón que
 
-Dios le levant de los muertos, sers salvo. Porque con el corazn se cree para
+Dios le levantó de los muertos, serás salvo. Porque con el corazón se cree para
 
-justicia, pero con la boca se confiesa para salvacin.
+justicia, pero con la boca se confiesa para salvación”.
 
-Tomad, comed; tomad, comed; tomad, comed.
+“Tomad, comed; tomad, comed; tomad, comed”.
 
-Me gustara decirles estas palabras de tal manera que
+Me gustaría decirles estas palabras de tal manera que
 
-ustedes, que estn all arriba en los balcones, las oyeran dentro de veinte
+ustedes, que están allá arriba en los balcones, las oyeran dentro de veinte
 
-aos, si vivieran; de tal manera que, cuando recuerden estas lmparas y estas
+ańos, si vivieran; de tal manera que, cuando recuerden estas lámparas y estas
 
-hileras de personas, les parezca or todava una voz que clama,
+hileras de personas, les parezca oír todavía una voz que clama,
 
 tal vez, desde mi tumba:
 
-Tomad, comed.
+“Tomad, comed”.
 
-Pero no esperen veinte aos, Tomad, comed; hganlo esta noche. Que Dios les
+Pero no esperen veinte ańos, “Tomad, comed”; háganlo esta noche. ˇQue Dios les
 
-ayude a todos a hacerlo, por Jesucristo nuestro Seor! Amn.
+ayude a todos a hacerlo, por Jesucristo nuestro Seńor! Amén.
 
 Traductor: Allan
 
-Romn
+Román
 
 22/Julio/2010
 

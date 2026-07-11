@@ -2,7 +2,7 @@
 
 El
 
-Plpito del Tabernculo Metropolitano
+Púlpito del Tabernáculo Metropolitano
 
 El
 
@@ -10,25 +10,25 @@ Sol Naciente
 
 NO. 1463B
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Mas
+“Mas
 
-a vosotros los que temis mi nombre, nacer el Sol de justicia, y en sus alas
+a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas
 
-traer salvacin; y saldris, y saltaris como becerros de la manada.
+traerá salvación; y saldréis, y saltaréis como becerros de la manada”.
 
-Malaquas 4: 2.
+Malaquías 4: 2.
 
-Mas
+“Mas
 
-para vosotros que temis mi nombre, se levantar el sol de justicia con la
+para vosotros que teméis mi nombre, se levantará el sol de justicia con la
 
-salud en sus alas; y saldris y saltaris como terneros del establo. Malaquas
+salud en sus alas; y saldréis y saltaréis como terneros del establo”. Malaquías
 
 4: 2.
 
@@ -36,155 +36,155 @@ La
 
 Biblia
 
-de las Amricas.
+de las Américas.
 
-Mas
+“Mas
 
-para vosotros que temis mi nombre, se levantar el Sol de justicia con la
+para vosotros que teméis mi nombre, se levantará el Sol de justicia con la
 
-salud en sus alas; y saldris y creceris como terneros del establo. Malaquas
+salud en sus alas; y saldréis y creceréis como terneros del establo”. Malaquías
 
-4: 2. Versin King James.
+4: 2. Versión King James.
 
-Los judos
+Los judíos
 
-esperaban que la venida del Mesas exaltara a cada uno de los israelitas. Sus
+esperaban que la venida del Mesías exaltaría a cada uno de los israelitas. Sus
 
-expectativas eran grandes, pero ellos eran tambin carnales y sensuales, puesto
+expectativas eran grandes, pero ellos eran también carnales y sensuales, puesto
 
-que buscaban un rey terrenal que hiciera que la nacin despreciada saliera
+que buscaban un rey terrenal que hiciera que la nación despreciada saliera
 
-victoriosa sobre todos sus enemigos, y enriqueciera a todo varn de la raza de
+victoriosa sobre todos sus enemigos, y enriqueciera a todo varón de la raza de
 
 Abraham. Las Escrituras no les daban ninguna base para tales expectativas
 
-universales, sino todo lo contrario, y en el captulo que ahora estamos considerando,
+universales, sino todo lo contrario, y en el capítulo que ahora estamos considerando,
 
-el profeta explica que la venida de Cristo sera en verdad como la salida del
+el profeta explica que la venida de Cristo sería en verdad como la salida del
 
-sol, llena de gloria y de esplendor, pero los resultados no seran los mismos
+sol, llena de gloria y de esplendor, pero los resultados no serían los mismos
 
 en absoluto. Para los que pensaban que eran justos y despreciaban a otros,
 
-aunque fueran perversos en su comportamiento, la salida de ese sol traera un
+aunque fueran perversos en su comportamiento, la salida de ese sol traería un
 
-da agostador y abrasador. Lean el primer versculo. Porque he aqu, viene el
+día agostador y abrasador. Lean el primer versículo. “Porque he aquí, viene el
 
-da ardiente como un horno, y todos los soberbios y todos los que hacen el mal
+día ardiente como un horno, y todos los soberbios y todos los que hacen el mal
 
-sern como paja (
+serán como paja” (
 
 La
 
 Biblia
 
-de las Amricas). No seran como
+de las Américas). No serían como
 
-plantas llenas de savia que floreceran en el calor tropical, sino como paja
+plantas llenas de savia que florecerían en el calor tropical, sino como paja
 
-que se seca ms y ms hasta que coge fuego: aquel da que vendr los abrasar,
+que se seca más y más hasta que coge fuego: “aquel día que vendrá los abrasará,
 
-ha dicho Jehov de los ejrcitos, y no les dejar ni raz ni tronco, pues as
+ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni tronco”, pues así
 
-pudiera traducirse, y en entonces la figura sera congruente en todo momento. Abrasara
+pudiera traducirse, y en entonces la figura sería congruente en todo momento. Abrasaría
 
-un campo de paja en el que no haba ninguna vida, tan intenso sera el calor.
+un campo de paja en el que no había ninguna vida, tan intenso sería el calor.
 
-Ahora, esa fue la consecuencia de la venida de Cristo. La religin de los
+Ahora, esa fue la consecuencia de la venida de Cristo. La religión de los
 
-judos, en Su venida, estaba seca y muerta, como paja. El fariseo pensaba que
+judíos, en Su venida, estaba seca y muerta, como paja. El fariseo pensaba que
 
-era justo porque se pona una ancha filacteria y diezmaba ans, y menta, y
+era justo porque se ponía una ancha filacteria y diezmaba anís, y menta, y
 
-comino y trivialidades como esas; el saduceo tena un alto concepto de s mismo
+comino y trivialidades como esas; el saduceo tenía un alto concepto de sí mismo
 
-porque era un hombre de sentido comn, un pensador, un racionalista; y otros
+porque era un hombre de sentido común, un pensador, un racionalista; y otros
 
-sectarios de ese perodo encontraban bases igualmente frvolas para gloriarse.
+sectarios de ese período encontraban bases igualmente frívolas para gloriarse.
 
-El ministerio de Cristo los sec totalmente y han dejado de existir. Hoy en da
+El ministerio de Cristo los secó totalmente y han dejado de existir. Hoy en día
 
 nosotros usamos los nombres de fariseo y saduceo, pero no hay ninguna persona
 
-en el mundo a la que le gustara ser llamada por cualquiera de esos nombres. El
+en el mundo a la que le gustaría ser llamada por cualquiera de esos nombres. El
 
-resultado de la venida de Cristo, tanto por Su Espritu como por Su
+resultado de la venida de Cristo, tanto por Su Espíritu como por Su
 
-advenimiento personal, es siempre el mismo. Si el Espritu de Dios visitara con
+advenimiento personal, es siempre el mismo. Si el Espíritu de Dios visitara con
 
-un avivamiento a esta iglesia no tendra un efecto igualmente benfico para
+un avivamiento a esta iglesia no tendría un efecto igualmente benéfico para
 
-todos. Para algunos la salida de este Sol traera salud y bendicin, pero para
+todos. Para algunos la salida de este Sol traería salud y bendición, pero para
 
-otros traera abrasamiento y agostamiento. No saben ustedes que el tiempo
+otros traería abrasamiento y agostamiento. żNo saben ustedes que el tiempo
 
-veraniego que llena de grano y hace que cuelgue su rubia cabeza sonrojndose de
+veraniego que llena de grano y hace que cuelgue su rubia cabeza sonrojándose de
 
-pura modestia por la bendicin que le ha venido, hace salir tambin de sus
+pura modestia por la bendición que le ha venido, hace salir también de sus
 
 secretas guaridas a las hierbas malas y nocivas? Siguiendo el ejemplo del trigo,
 
-la cizaa se anima con el sol, y as las malas hierbas maduran a la par de las
+la cizańa se anima con el sol, y así las malas hierbas maduran a la par de las
 
-buenas; pero la madurez de lo que es malo slo precipita su destruccin: la
+buenas; pero la madurez de lo que es malo sólo precipita su destrucción: la
 
-sequedad del rastrojo es la preparacin para que sea completamente consumido.
+sequedad del rastrojo es la preparación para que sea completamente consumido.
 
 Hacemos bien en orar pidiendo un avivamiento, pero no debemos suponer que un
 
-avivamiento traer bendiciones para quien es un mero formalista. Posiblemente
+avivamiento traerá bendiciones para quien es un mero formalista. Posiblemente
 
-pudiera hastiarle y alejarle por completo de la religin. Al ver la obra del
+pudiera hastiarle y alejarle por completo de la religión. Al ver la obra del
 
-Espritu de Dios a su alrededor, descubrir que no tiene una verdadera religin,
+Espíritu de Dios a su alrededor, descubrirá que no tiene una verdadera religión,
 
-y as el da del Seor ser para l ardiente como un horno, y siendo altivo y
+y así el día del Seńor será para él “ardiente como un horno”, y siendo altivo y
 
-al mismo tiempo actuando perversamente, su vaca profesin de religin se
+al mismo tiempo actuando perversamente, su vacía profesión de religión se
 
-consumir como la hojarasca.
+consumirá como la hojarasca.
 
 La venida
 
-del Mesas iba a traer para otra clase de personas una plenitud de bendicin, y
+del Mesías iba a traer para otra clase de personas una plenitud de bendición, y
 
-es de ellas que tenemos que hablar. Mas para vosotros que temis mi nombre, se
+es de ellas que tenemos que hablar. “Mas para vosotros que teméis mi nombre, se
 
-levantar el sol de justicia, no con abrasamiento, sino con salud en sus alas;
+levantará el sol de justicia”, no con abrasamiento, sino “con salud en sus alas;
 
-y saldris no se secarn, ni ardern ni sern destruidos- sino que saltaris
+y saldréis –no se secarán, ni arderán ni serán destruidos- sino que “saltaréis
 
-como terneros del establo. Ustedes recibirn grandes bendiciones por medio de
+como terneros del establo”. Ustedes recibirán grandes bendiciones por medio de
 
-la presencia de su Seor. Dos cosas ocuparn nuestra atencin; la primera es
+la presencia de su Seńor. Dos cosas ocuparán nuestra atención; la primera es
 
-la descripcin del pueblo de Dios:
+la descripción del pueblo de Dios:
 
-Mas
+“Mas
 
-a vosotros los que temis mi nombre, y la segunda es,
+a vosotros los que teméis mi nombre”, y la segunda es,
 
-la bendicin que se les promete:
+la bendición que se les promete:
 
-se levantar el sol de justicia
+“se levantará el sol de justicia
 
-con la salud en sus alas; y saldris y saltaris como terneros del establo.
+con la salud en sus alas; y saldréis y saltaréis como terneros del establo”.
 
 I.
 
-Aqu
+Aquí
 
-se DESCRIBE A LOS VERDADEROS SANTOS. Mirmoslos. La descripcin puede ser
+se DESCRIBE A LOS VERDADEROS SANTOS. Mirémoslos. La descripción puede ser
 
-dividida en dos partes. Primero, he aqu su carcter permanente: temen el
+dividida en dos partes. Primero, he aquí su carácter permanente: temen el
 
-nombre del Seor; y en segundo lugar, deducimos por el texto su carcter
+nombre del Seńor; y en segundo lugar, deducimos por el texto su carácter
 
-accidental, un carcter que no siempre es suyo, pero en el que caen algunas
+accidental, un carácter que no siempre es suyo, pero en el que caen algunas
 
-veces, es decir, que necesitan salud, pues si no estuvieran enfermos no habra
+veces, es decir, que necesitan salud, pues si no estuvieran enfermos no habría
 
-necesidad de la promesa de que el Sol de justicia se levantar sobre ellos con
+necesidad de la promesa de que el Sol de justicia se levantará sobre ellos con
 
 la salud en Sus alas.
 
@@ -192,97 +192,97 @@ Entonces, noten
 
 primero
 
-su carcter permanente:
+su carácter permanente:
 
 temen
 
-el nombre del Seor. Me deleita pensar que esta promesa es dada a este carcter
+el nombre del Seńor. Me deleita pensar que esta promesa es dada a este carácter
 
-particular, pues quiere decir que viene a los principiantes en la gracia. El
+particular, pues quiere decir que viene a los principiantes en la gracia. “El
 
-temor del Seor es el principio de la sabidura; no es la gracia ms excelsa
+temor del Seńor es el principio de la sabiduría”; no es la gracia más excelsa
 
-ni el logro ms sublime de la naturaleza espiritual. Por tanto, bendigan al
+ni el logro más sublime de la naturaleza espiritual. Por tanto, bendigan al
 
-Seor, ustedes que son dbiles y enclenques, porque la promesa es dada a
+Seńor, ustedes que son débiles y enclenques, porque la promesa es dada a
 
-ustedes. Ustedes en verdad temen al Seor. Hay veces que nos preguntamos si
+ustedes. Ustedes en verdad temen al Seńor. Hay veces que nos preguntamos si
 
-conocemos el xtasis del amor, y nos cuestionamos grandemente si alguna vez
+conocemos el éxtasis del amor, y nos cuestionamos grandemente si alguna vez
 
 tuvimos la seguridad de la fe, pero aun entonces sabemos que tenemos un temor
 
-reverente de Dios. En la nave, Jons se encontraba en un estado mental muy pecaminoso
+reverente de Dios. En la nave, Jonás se encontraba en un estado mental muy pecaminoso
 
-y l iba huyendo de Dios, pero, con todo, no dud en decir: Soy hebreo, y temo
+y él iba huyendo de Dios, pero, con todo, no dudó en decir: “Soy hebreo, y temo
 
-a Jehov. Este es el carcter permanente de los santos en su peor estado. Si
+a Jehová”. Este es el carácter permanente de los santos en su peor estado. Si
 
-se descarran, siguen temiendo el nombre del Seor. Le temen, a ratos, muy al
+se descarrían, siguen temiendo el nombre del Seńor. Le temen, a ratos, muy al
 
-estilo de los esclavos, con un espritu de servidumbre, pero de hecho le temen.
+estilo de los esclavos, con un espíritu de servidumbre, pero de hecho le temen.
 
-Pierden la evidencia de su condicin de hijos y dejan de andar en la luz, mas,
+Pierden la evidencia de su condición de hijos y dejan de andar en la luz, mas,
 
-sin embargo, tienen un temor del Altsimo: no lo tratan con ligereza; no podran
+sin embargo, tienen un temor del Altísimo: no lo tratan con ligereza; no podrían
 
-pecar contra l con facilidad; sigue habiendo en el interior de sus corazones
+pecar contra Él con facilidad; sigue habiendo en el interior de sus corazones
 
 un sentido de Su grandeza. Generalmente asume la forma de una reverencia hacia
 
-Su persona. Saben que hay un Dios, y estn seguros de que l hizo los cielos y
+Su persona. Saben que hay un Dios, y están seguros de que Él hizo los cielos y
 
-la tierra; tienen igualmente la certeza de que l est presente en todas
+la tierra; tienen igualmente la certeza de que Él está presente en todas
 
 partes, marcando los caminos de los hombres. Otros pueden blasfemar, pero ellos
 
 no pueden hacerlo; otros pueden pecar y divertirse al hacerlo, pero a ellos el
 
-pecado les cuesta caro; otros pueden deleitarse sin ninguna aprensin, pero
+pecado les cuesta caro; otros pueden deleitarse sin ninguna aprensión, pero
 
-ellos no pueden hacerlo, pues temen al Seor. Yo s que esto describe a toda
+ellos no pueden hacerlo, pues temen al Seńor. Yo sé que esto describe a toda
 
-verdadera religin y que tiene un sentido muy amplio, pero se adapta a mi
+verdadera religión y que tiene un sentido muy amplio, pero se adapta a mi
 
-propsito que lo veamos precisamente ahora como una descripcin de los
+propósito que lo veamos precisamente ahora como una descripción de los
 
-creyentes, vlida para todos ellos, prescindiendo del estado en que se
+creyentes, válida para todos ellos, prescindiendo del estado en que se
 
-encuentren. Siguen temiendo al Seor. Ahora, alma,
+encuentren. Siguen temiendo al Seńor. Ahora, alma,
 
-tiemblas
+żtiemblas
 
-t delante de Dios? Hay algo en eso. No te pregunto si
+tú delante de Dios? Hay algo en eso. No te pregunto si
 
-tiemblas ante el infierno. Eso no sera ningn signo de gracia, pues qu
+tiemblas ante el infierno. Eso no sería ningún signo de gracia, pues żqué
 
-ladrn no tiembla frente a la horca? No te pregunto si le tienes miedo a la muerte.
+ladrón no tiembla frente a la horca? No te pregunto si le tienes miedo a la muerte.
 
-Qu mortal no le tiene miedo, a menos que tenga una buena esperanza por medio
+żQué mortal no le tiene miedo, a menos que tenga una buena esperanza por medio
 
-de la gracia? Pero tiemblas en la presencia de Dios porque le has ofendido, y
+de la gracia? żPero tiemblas en la presencia de Dios porque le has ofendido, y
 
-tiemblas en la presencia del pecado no sea que le vayas a ofender de nuevo? No
+tiemblas en la presencia del pecado no sea que le vayas a ofender de nuevo? żNo
 
-se te ocurre alguna vez la pregunta: cmo, pues, hara yo este grande mal, y
+se te ocurre alguna vez la pregunta: “cómo, pues, haría yo este grande mal, y
 
-pecara contra Dios? De la misma manera que algunos se abstienen de cometer un
+pecaría contra Dios?” De la misma manera que algunos se abstienen de cometer un
 
-crimen por temor a la ley, te abstienes t de cometer una vileza por el temor
+crimen por temor a la ley, żte abstienes tú de cometer una vileza por el temor
 
-de Dios? As como algunos son impelidos a la actividad por el miedo a la
+de Dios? Así como algunos son impelidos a la actividad por el miedo a la
 
-pobreza, eres impelido t al servicio divino por un sentido del hecho de que
+pobreza, żeres impelido tú al servicio divino por un sentido del hecho de que
 
-no servirle es permanecer bajo Su ira? Es una cosa humilde y pequea comparada
+no servirle es permanecer bajo Su ira? Es una cosa humilde y pequeńa comparada
 
-con las gracias ms excelsas que Dios obra en Su pueblo, pero aun as es algo
+con las gracias más excelsas que Dios obra en Su pueblo, pero aun así es algo
 
 precioso temblar a Su palabra. Me alegra pensar que muchos de ustedes han
 
 comenzado a temer a Dios recientemente. Bendigo Su nombre porque no puedes vivir
 
-ahora como lo hacas antes. Ests intranquilo en tu antiguo estilo
+ahora como lo hacías antes. Estás intranquilo en tu antiguo estilo
 
 despreocupado. Me alegro mucho por ello, y aunque no puedo estar seguro de que
 
@@ -296,21 +296,21 @@ pertenecer.
 
 Ahora,
 
-amados, he dicho que la descripcin del pueblo de Dios que es dada aqu no slo
+amados, he dicho que la descripción del pueblo de Dios que es dada aquí no sólo
 
-denota su carcter permanente: que temen al Seor, sino que menciona tambin
+denota su carácter permanente: que temen al Seńor, sino que menciona también
 
-su carcter ocasional.
+su carácter ocasional.
 
 Algunas veces
 
-caen en una condicin que deploran, y el texto da a entender esto por el hecho
+caen en una condición que deploran, y el texto da a entender esto por el hecho
 
-de que el Sol de justicia se levantar sobre ellos, pues esto implica que hasta
+de que el Sol de justicia se levantará sobre ellos, pues esto implica que hasta
 
-entonces estaban en tinieblas. Sin importar cul otra luz pudiera haber, cada
+entonces estaban en tinieblas. Sin importar cuál otra luz pudiera haber, cada
 
-uno de nosotros sabe que mientras no salga el sol nuestra condicin es de una
+uno de nosotros sabe que mientras no salga el sol nuestra condición es de una
 
 comparativa oscuridad. Hay hijos de Dios que caminan en tinieblas, que por
 
@@ -322,77 +322,77 @@ una luz resplandeciente y luego experimentan un tiempo nublado a mitad del
 
 camino, mientras que otros sufren su peor oscuridad al final. Knox y Lutero
 
-experimentaron sus ms severas tentaciones cuando estaban a punto de morir.
+experimentaron sus más severas tentaciones cuando estaban a punto de morir.
 
 Bien se ha dicho que Dios algunas veces acuesta a Sus hijos en la oscuridad. No
 
-importa, pues se despiertan en la luz, en la maana eterna; pero usualmente
+importa, pues se despiertan en la luz, en la mańana eterna; pero usualmente
 
-experimentamos una lgubre temporada en algn punto entre el nuevo nacimiento y
+experimentamos una lúgubre temporada en algún punto entre el nuevo nacimiento y
 
-el cielo, tal vez para hacer que el esplendor sea mucho ms reluciente cuando
+el cielo, tal vez para hacer que el esplendor sea mucho más reluciente cuando
 
-la noche acabe para siempre. Amado hermano, ests sumido en la oscuridad en
+la noche acabe para siempre. Amado hermano, żestás sumido en la oscuridad en
 
-este momento, y te sorprende eso porque todos los dems parecen tan animados en
+este momento, y te sorprende eso porque todos los demás parecen tan animados en
 
-su religin? Amada hermana, aunque has sido una creyente durante muchos aos,
+su religión? Amada hermana, aunque has sido una creyente durante muchos ańos,
 
-te parece como si nunca te hubieras encontrado en un peor estado que ahora,
+żte parece como si nunca te hubieras encontrado en un peor estado que ahora,
 
-mientras otros se regocijan? Entonces, pregntate: an temes al Seor? Se humilla
+mientras otros se regocijan? Entonces, pregúntate: żaún temes al Seńor? żSe humilla
 
 tu alma en la presencia de Su majestad, y deseas Su gloria? Nunca desesperes;
 
-el Sol se levantar pronto para ti.
+el Sol se levantará pronto para ti.
 
-Tambin es
+También es
 
 claro por el texto que los hijos de Dios pueden estar algunas veces en mal
 
 estado de salud, pues el Sol de justicia ha de levantarse para ellos con la
 
-salud en Sus alas, y esa no sera una promesa muy necesaria si no enfermaran.
+salud en Sus alas, y esa no sería una promesa muy necesaria si no enfermaran.
 
 Un cristiano pudiera estar abatido por graves dolencias espirituales. Su pulso
 
-pudiera latir lentamente, su corazn puede volverse dbil; puede estar vivo, y
+pudiera latir lentamente, su corazón puede volverse débil; puede estar vivo, y
 
-eso pudiera ser todo; el letargo pudiera apoderarse de l, la parlisis pudiera
+eso pudiera ser todo; el letargo pudiera apoderarse de él, la parálisis pudiera
 
 conducirle a temblar desalentadamente, pudiera haberse extraviado de su Dios.
 
-Ay!, aun pudiera sufrir de un ataque de fiebre paldica, en el que tiembla con
+ˇAy!, aun pudiera sufrir de un ataque de fiebre palúdica, en el que tiembla con
 
 incredulidad de la cabeza a los pies. Pudiera ser que sus ojos se hubieran
 
-vuelto tan ciegos que no puede ver de lejos; y sus odos pudieran ser tardos
+vuelto tan ciegos que no puede ver de lejos; y sus oídos pudieran ser tardos
 
-para or, y pudiera ser como los insensatos en el salmo, cuyas almas abominaron
+para oír, y pudiera ser como los insensatos en el salmo, cuyas almas abominaron
 
 todo alimento. Pudiera haber repudiado los consuelos de la promesa, y pudiera
 
-haber quedado muy abatido; con todo, no morir, sino que vivir, y proclamar
+haber quedado muy abatido; con todo, no morirá, sino que vivirá, y proclamará
 
-las obras del Seor, pues la enfermedad del alma de un santo no es para muerte.
+las obras del Seńor, pues la enfermedad del alma de un santo no es para muerte.
 
-l se recuperar y cantar acerca del Seor cuyo nombre es Jehov Rafa Yo soy
+Él se recuperará y cantará acerca del Seńor cuyo nombre es “Jehová Rafa… Yo soy
 
-el Seor tu sanador. Oh, hijo de Dios, si te encuentras en un estado de
+el Seńor tu sanador”. Oh, hijo de Dios, si te encuentras en un estado de
 
-enfermedad y de afliccin, clama a tu Seor fuertemente, y el Sol de justicia
+enfermedad y de aflicción, clama a tu Seńor fuertemente, y el Sol de justicia
 
-se levantar para ti con la salud en Sus alas.
+se levantará para ti con la salud en Sus alas.
 
 Noten
 
 asimismo que, conforme a nuestro texto, los hijos de Dios pudieran estar en una
 
-condicin de servidumbre, pues se dice que cuando el Sol de justicia se levante
+condición de servidumbre, pues se dice que cuando el Sol de justicia se levante
 
-saldris, y saltaris como terneros del establo. Entiendan la figura. El
+“saldréis, y saltaréis como terneros del establo”. Entiendan la figura. El
 
-becerro est encerrado en el establo, y en la noche lo amarran con un cabestro,
+becerro está encerrado en el establo, y en la noche lo amarran con un cabestro,
 
 pero cuando sale el sol el ternero sale al potrero; el novillo queda en
 
@@ -400,55 +400,55 @@ libertad. De igual manera el hijo de Dios puede estar en cautiverio. El
 
 recuerdo de pecados pasados y la presente incredulidad pueden ponerle cabestro
 
-y mantenerlo en el establo, pero cuando el Seor se revela queda en libertad.
+y mantenerlo en el establo, pero cuando el Seńor se revela queda en libertad.
 
 Aun los verdaderos hijos de Dios tienen que clamar algunas veces como Pablo que
 
-estn vendidos al pecado; pueden olvidar la sangre de la redencin durante un
+están vendidos al pecado; pueden olvidar la sangre de la redención durante un
 
-tiempo y considerar que todava son esclavos, y sin embargo, son verdaderos
+tiempo y considerar que todavía son esclavos, y sin embargo, son verdaderos
 
-hijos de Dios. De ah la belleza de la promesa de que saldrn.
+hijos de Dios. De ahí la belleza de la promesa de que saldrán.
 
-S, y hay
+Sí, y hay
 
-ms en el texto. Los hijos de Dios pueden encontrarse en tal estado que dejan
+más en el texto. Los hijos de Dios pueden encontrarse en tal estado que dejan
 
-de crecer, pues de lo contrario no tendramos la promesa: Saldris y creceris
+de crecer, pues de lo contrario no tendríamos la promesa: “Saldréis y creceréis”
 
-cuando resplandezca el Sol de justicia. Mi querido hermano, sientes como si no
+cuando resplandezca el Sol de justicia. Mi querido hermano, żsientes como si no
 
 hubieses crecido en la gracia durante meses? Necesitas que el Sol de justicia
 
-resplandezca sobre ti y crecers como lo hacen las plantas. Todos los rboles
+resplandezca sobre ti y crecerás como lo hacen las plantas. Todos los árboles
 
-estn desnudos en invierno y sus ramas estn aparentemente secas y muertas, pero
+están desnudos en invierno y sus ramas están aparentemente secas y muertas, pero
 
 cuando regresa el sol primaveral, los capullos comienzan a hincharse y las
 
-hojas reaparecen y los rboles florecen y producen fruto. Lo mismo sucede con
+hojas reaparecen y los árboles florecen y producen fruto. Lo mismo sucede con
 
-ustedes. El Seor no los ha dejado. Su crecimiento podra haberse detenido
+ustedes. El Seńor no los ha dejado. Su crecimiento podría haberse detenido
 
-durante un tiempo, pero crecern de nuevo.
+durante un tiempo, pero crecerán de nuevo.
 
-Adems, el
+Además, el
 
-hijo de Dios puede entrar en una condicin tal que pierda su gozo, pues les
+hijo de Dios puede entrar en una condición tal que pierda su gozo, pues les
 
-dir un secreto acerca del texto: puesto que
+diré un secreto acerca del texto: puesto que
 
 la Septuaginta
 
-as lo tradujo, y el hebreo encierra ese sentido, podra ser traducido y
+así lo tradujo, y el hebreo encierra ese sentido, podría ser traducido y
 
-probablemente debera ser traducido: Saldris
+probablemente debería ser traducido: “Saldréis
 
-y saltaris como
+y saltaréis como
 
 terneros del
 
-establo.
+establo”.
 
 El joven ganado pudiera haberse quedado en los establos durante
 
@@ -456,169 +456,169 @@ el invierno, pero cuando el sol trae consigo la primavera los campos reverdecen,
 
 y entonces sueltan el ganado. Hay gozo en los movimientos de las criaturas. De
 
-igual manera cuando el Seor se aparece a los miembros Su pueblo, ellos se
+igual manera cuando el Seńor se aparece a los miembros Su pueblo, ellos se
 
-mueven con deleite y danzan de puro gozo de corazn. El amor del Seor en su
+mueven con deleite y danzan de puro gozo de corazón. El amor del Seńor en su
 
-interior los llevar a dar expresin a su gozo. Yo oro pidiendo que ustedes
+interior los llevará a dar expresión a su gozo. Yo oro pidiendo que ustedes
 
 puedan sentir ese intenso deleite en la libertad del Evangelio y salten de
 
-gozo. He descrito as al pueblo al que llega la promesa.
+gozo. He descrito así al pueblo al que llega la promesa.
 
 II.
 
 Mi
 
-segundo y ms placentero deber es ABRIR
+segundo y más placentero deber es ABRIR
 
 LA PROMESA
 
 MISMA.
 
-Nacer el Sol de justicia. Hijo de Dios que ests en tinieblas, en prisin,
+“Nacerá el Sol de justicia”. Hijo de Dios que estás en tinieblas, en prisión,
 
-estancado e infeliz, qu promesa hay aqu para ti! Nacer el Sol de
+estancado e infeliz, ˇqué promesa hay aquí para ti! “Nacerá el Sol de
 
-justicia. Su nacimiento ha de hacerlo todo, no hay nada que t debas hacer; no
+justicia”. Su nacimiento ha de hacerlo todo, no hay nada que tú debas hacer; no
 
-tienes que realizar ninguna obra para alcanzar la bendicin que necesitas. El
+tienes que realizar ninguna obra para alcanzar la bendición que necesitas. El
 
-Sol de justicia nacer; ahora, el nacimiento del sol es una de las cosas ms
+Sol de justicia nacerá; ahora, el nacimiento del sol es una de las cosas más
 
 maravillosas en la naturaleza, no meramente por su grandeza y belleza, sino por
 
-su sublime manifestacin de fuerza. Quin podra frenar los caballos del sol?
+su sublime manifestación de fuerza. żQuién podría frenar los caballos del sol?
 
-Qu mano podra bloquear la rueda dorada de su carruaje y ordenarle que
+żQué mano podría bloquear la rueda dorada de su carruaje y ordenarle que
 
-detuviera su curso? Ha llegado el tiempo de que nazca, y he aqu, deleita al
+detuviera su curso? Ha llegado el tiempo de que nazca, y he aquí, deleita al
 
-mundo con el alba. Santo Espritu, tal es Tu poder. Cuando es Tu tiempo de
+mundo con el alba. Santo Espíritu, tal es Tu poder. Cuando es Tu tiempo de
 
-obrar quin podra oponerse a Ti? As como el sol inunda toda la tierra con su
+obrar żquién podría oponerse a Ti? Así como el sol inunda toda la tierra con su
 
-esplendor y ningn poder puede obstaculizar sus movimientos, as obra el
+esplendor y ningún poder puede obstaculizar sus movimientos, así obra el
 
-Espritu Santo y nadie puede impedrselo. Entonces argumenten esta promesa esta
+Espíritu Santo y nadie puede impedírselo. Entonces argumenten esta promesa esta
 
-noche y clamen: Oh Sol de justicia, levntate sobre los que te temen: ven
+noche y clamen: “Oh Sol de justicia, levántate sobre los que te temen: ven
 
 ahora en toda Tu majestad y riqueza de gracia; derrama sobre nosotros Tu luz y
 
-calor y vida, y llena este lugar con Tu gloria.
+calor y vida, y llena este lugar con Tu gloria”.
 
 Observen
 
-ahora cul ser el resultado de Su nacimiento. Tan pronto como este sol se
+ahora cuál será el resultado de Su nacimiento. Tan pronto como este sol se
 
 levanta y Cristo comienza a brillar sobre Su pueblo, ellos disfrutan de una
 
-clara luz. Estaban en tinieblas antes, pero ahora estn en la luz. Yo he estado
+clara luz. Estaban en tinieblas antes, pero ahora están en la luz. Yo he estado
 
-viviendo durante un tiempo en un pas donde el sol lo es todo. La temperatura y
+viviendo durante un tiempo en un país donde el sol lo es todo. La temperatura y
 
-la atmsfera son saludables y deliciosas, casi dira celestiales, gracias a su
+la atmósfera son saludables y deliciosas, casi diría celestiales, gracias a su
 
-presencia. Cuando el sol brilla ni el pino enfermo ni el saludable estn
+presencia. Cuando el sol brilla ni el pino enfermo ni el saludable están
 
-tristes, y cuando las nubes ya no velan ms su faz estamos como en el huerto
+tristes, y cuando las nubes ya no velan más su faz estamos como en el huerto
 
-del Seor. Todo depende del sol. Desciendan a un valle donde no haya penetrado
+del Seńor. Todo depende del sol. Desciendan a un valle donde no haya penetrado
 
-el brillo del sol y encontrarn escarcha; crucen la calle hasta la sombra, y
+el brillo del sol y encontrarán escarcha; crucen la calle hasta la sombra, y
 
-temblarn de fro. La atmsfera se vuelve tan lmpida gracias a la supresin de
+temblarán de frío. La atmósfera se vuelve tan límpida gracias a la supresión de
 
 todas las nieblas y brumas que algunas veces hemos logrado ver hasta cien
 
 millas de distancia al otro extremo del mar, y los montes de la distante
 
-Crcega se han alzado como una hermosa visin. No puedo evitar usar la
+Córcega se han alzado como una hermosa visión. No puedo evitar usar la
 
-ilustracin, porque est tan claramente ante m. Cuando el Sol de justicia sale
+ilustración, porque está tan claramente ante mí. Cuando el Sol de justicia sale
 
-para un cristiano y brilla a plenitud sobre l, no ve unas islas que estn a
+para un cristiano y brilla a plenitud sobre él, no ve unas islas que están a
 
 cien millas de distancia, sino que ve las puertas de oro de la ciudad celestial
 
-y al Rey en Su hermosura, y a la tierra que est muy distante, pues la
+y al Rey en Su hermosura, y a la tierra que está muy distante, pues la
 
-presencia de Cristo limpia la atmsfera y nos permite ver lo invisible. Que el
+presencia de Cristo limpia la atmósfera y nos permite ver lo invisible. Que el
 
-Sol de justicia nazca para ustedes que temen Su nombre y les d justamente tal
+Sol de justicia nazca para ustedes que temen Su nombre y les dé justamente tal
 
 claridad y luz.
 
-Pero segn
+Pero según
 
-el texto, cuando el Sol de justicia nazca para aquellos que temen al Seor, les
+el texto, cuando el Sol de justicia nazca para aquellos que temen al Seńor, les
 
-dar salud. Hay salud en Sus alas. Por las alas del sol se quiere significar
+dará salud. Hay salud en Sus alas. Por las alas del sol se quiere significar
 
 los rayos que proyecta a lo alto en el aire, o que parecen derramarse una vez
 
-que est en lo alto en el cielo. Hay realmente salud para los cuerpos de los
+que está en lo alto en el cielo. Hay realmente salud para los cuerpos de los
 
-hombres en el sol. Acaso no los hemos visto venir a la tierra soleada, estando
+hombres en el sol. żAcaso no los hemos visto venir a la tierra soleada, estando
 
 tuberculosos y doblegados por la debilidad, y cuando han tomado el sol y se han
 
-calentado durante unas cuantas semanas, la herida en el interior del pulmn ha
+calentado durante unas cuantas semanas, la herida en el interior del pulmón ha
 
 comenzado a sanar, y el tuberculoso ha respirado de nuevo y se ha podido
 
-comprobar que vivira? Algunos han llegado aqu casi sin poder articular
+comprobar que viviría? Algunos han llegado aquí casi sin poder articular
 
 palabra, y por el influjo del sol comenzaron a hablar de nuevo, como hombres
 
-cuya juventud ha sido renovada. El sol es el gran mdico. Donde el astro
+cuya juventud ha sido renovada. El sol es el gran médico. Donde el astro
 
-penetra no se necesita mdico, y all donde resplandece los hombres reviven
+penetra no se necesita médico, y allí donde resplandece los hombres reviven
 
-rpidamente. En cuanto al Sol de justicia, oh, cmo sana a los enfermos! Cristianos
+rápidamente. En cuanto al Sol de justicia, ˇoh, cómo sana a los enfermos! Cristianos
 
 enfermos, yo quisiera que ustedes se sentaran bajo esa luz solar durante todo
 
-el ao aunque no hicieran otra cosa que asolearse all, tal como los animales
+el ańo aunque no hicieran otra cosa que asolearse allí, tal como los animales
 
-se deleitan asolendose bajo el sol. Las flores conocen al sol, y voltean a l
+se deleitan asoleándose bajo el sol. Las flores conocen al sol, y voltean a él
 
-su cliz y sorben la salud que l les brinda con sus reservas de oro. Oh, que
+su cáliz y sorben la salud que él les brinda con sus reservas de oro. Oh, que
 
-tuviramos el suficiente sentido para conocer al Sol de justicia, para que
+tuviéramos el suficiente sentido para conocer al Sol de justicia, para que
 
-pudiramos, mediante oracin y meditacin y una vida santa, baarnos y
+pudiéramos, mediante oración y meditación y una vida santa, bańarnos y
 
-asolearnos en Sus deliciosos rayos. Seremos en verdad fuertes si l se levanta
+asolearnos en Sus deliciosos rayos. Seremos en verdad fuertes si Él se levanta
 
-para nosotros con salud en Sus alas. l se ha levantado, pero nosotros nos
+para nosotros con salud en Sus alas. Él se ha levantado, pero nosotros nos
 
-escurrimos a la sombra. l se ha levantado, pero nosotros nos metemos en los
+escurrimos a la sombra. Él se ha levantado, pero nosotros nos metemos en los
 
 pozos de hielo de la mundanalidad y del pecado y no dejamos entrar su calor, y
 
 luego nos sorprende que estemos enfermos, pero siempre estaremos enfermos hasta
 
-que salgamos otra vez a la luz y Jess brille para nosotros de la maana a la
+que salgamos otra vez a la luz y Jesús brille para nosotros de la mańana a la
 
 noche.
 
 No debo
 
-detenerme en ningn punto, pues mi tiempo es limitado; pero quisiera que
+detenerme en ningún punto, pues mi tiempo es limitado; pero quisiera que
 
-notaran cmo dice el texto que cuando el Sol de justicia brilla, el cristiano
+notaran cómo dice el texto que cuando el Sol de justicia brilla, el cristiano
 
-obtiene su libertad. Saldris. Me he estado alojando all donde el invlido
+obtiene su libertad. “Saldréis”. Me he estado alojando allí donde el inválido
 
-no se aventura a salir si el viento sopla, y si hace un poco de fro y el sol
+no se aventura a salir si el viento sopla, y si hace un poco de frío y el sol
 
-no brilla tiene que quedarse bajo techo o perdera el beneficio que hubiere
+no brilla tiene que quedarse bajo techo o perdería el beneficio que hubiere
 
-recibido; pero cuando el sol ha salido y el aire est en calma, entonces sale y
+recibido; pero cuando el sol ha salido y el aire está en calma, entonces sale y
 
-deja su aposento y est pletrico de vida una vez ms. Hay cristianos que se
+deja su aposento y está pletórico de vida una vez más. Hay cristianos que se
 
 han tenido que quedar bajo techo durante mucho tiempo; no han recorrido la distancia
 
@@ -626,49 +626,49 @@ de la promesa, ni han escrutado la amplitud del pacto ni han escalado hasta
 
 llegar a la cumbre del Pisga para contemplar el paisaje. Oh, amados, si el Sol
 
-de justicia, el Seor Jess, brilla para ustedes, saldrn no slo para
+de justicia, el Seńor Jesús, brilla para ustedes, saldrán no sólo para
 
-disfrutar la vida cristiana, sino para entrar en el servicio cristiano, e irn ms
+disfrutar la vida cristiana, sino para entrar en el servicio cristiano, e irán más
 
-lejos todava para llevar a otros a Cristo.
+lejos todavía para llevar a otros a Cristo.
 
 Entonces
 
-comenzarn a crecer. Ese es otro efecto del sol, y cun maravillosamente la luz
+comenzarán a crecer. Ese es otro efecto del sol, y cuán maravillosamente la luz
 
-del sol hace que los seres crezcan. Aqu tenemos, en nuestros invernaderos,
+del sol hace que los seres crezcan. Aquí tenemos, en nuestros invernaderos,
 
 unas plantitas que consideramos tan maravillosas que las mostramos a nuestros
 
 amigos y las exponemos sobre nuestras mesas como rarezas, pero yo las he visto creciendo
 
-libremente en los campos, en el soleado sur, y son diez veces ms grandes, y la
+libremente en los campos, en el soleado sur, y son diez veces más grandes, y la
 
-razn es que el sol las ha mirado. Las rarezas de nuestro pas son cosas
+razón es que el sol las ha mirado. Las rarezas de nuestro país son cosas
 
 cotidianas en la tierra del sol. Yo he conocido a cristianos que han recibido
 
 un poco de fe y se han quedado perfectamente pasmados por ello, y Dios los ha
 
-bendecido con un poco de amor por Jess, y han sentido como si hubieran sido santos
+bendecido con un poco de amor por Jesús, y han sentido como si hubieran sido santos
 
-esplndidos; pero si vivieran a la luz del sol, podran mover montaas por su
+espléndidos; pero si vivieran a la luz del sol, podrían mover montańas por su
 
-fe, y su amor los conducira a dedicar su vida entera a Jess, y sin embargo,
+fe, y su amor los conduciría a dedicar su vida entera a Jesús, y sin embargo,
 
-no se quedaran pasmados. El Sol de justicia puede producir frutos ricos y
+no se quedarían pasmados. El Sol de justicia puede producir frutos ricos y
 
-raros. Nuestra tierra fra y nublada, cubierta por su nubosidad y su neblina,
+raros. Nuestra tierra fría y nublada, cubierta por su nubosidad y su neblina,
 
-qu podra producir en el invierno? En las partes ms favorecidas de la
+żqué podría producir en el invierno? En las partes más favorecidas de la
 
-tierra, aun en nuestro invierno, los rboles se ponen dorados con sus frutas.
+tierra, aun en nuestro invierno, los árboles se ponen dorados con sus frutas.
 
-Lo mismo sucede con el alma. Qu puede producir si vive en la mundanalidad?
+Lo mismo sucede con el alma. żQué puede producir si vive en la mundanalidad?
 
-Qu puede producir si vive para s misma? Pero cuando conoce el amor de Jess
+żQué puede producir si vive para sí misma? Pero cuando conoce el amor de Jesús
 
-y el poder de Su gracia, aun en su peor estado produce el ms rico y raro fruto
+y el poder de Su gracia, aun en su peor estado produce el más rico y raro fruto
 
 para la gloria de Su gracia.
 
@@ -676,167 +676,167 @@ Voy a
 
 concluir exhortando a mis hermanos de la iglesia a que vivan a la luz del sol.
 
-Salgan de las sombras. Hay sombras caadas en este mundo donde nunca brilla el
+Salgan de las sombras. Hay sombrías cańadas en este mundo donde nunca brilla el
 
-sol: son llamadas caadas de placer y algunas veces la plida luna las mira
+sol: son llamadas ‘cańadas de placer’ y algunas veces la pálida luna las mira
 
 desde lo alto con un rayo enfermizo; pero el santo sabe distinguir entre la luz
 
-del sol y la luz de la luna del mundo. Salgan de esos glidos lugares y vayan
+del sol y la luz de la luna del mundo. Salgan de esos gélidos lugares y vayan
 
-donde hay una clara luz. Pero dice alguien- yo no saba que hubiera gozos
+donde hay una clara luz. “Pero” –dice alguien- “yo no sabía que hubiera gozos
 
-en la religin. Mi querido amigo, entonces, conoces a la verdadera religin?
+en la religión”. Mi querido amigo, entonces, żconoces a la verdadera religión?
 
-Pues las cosas bellas son una dicha sempiterna. El que conoce a Cristo ha
+Pues “las cosas bellas son una dicha sempiterna”. El que conoce a Cristo ha
 
-visto el sol, pero mientras no le haya conocido slo ha visto el resplandor de
+visto el sol, pero mientras no le haya conocido sólo ha visto el resplandor de
 
-la lucirnaga. Quien nunca conoci el poder de la sangre no conoci nunca la
+la luciérnaga. Quien nunca conoció el poder de la sangre no conoció nunca la
 
-paz, la profunda paz; quien nunca confi en el sacrificio expiatorio del
+paz, la profunda paz; quien nunca confió en el sacrificio expiatorio del
 
-Salvador no conoci jams el gozo, el gozo real, aquel que los ngeles llaman
+Salvador no conoció jamás el gozo, el gozo real, aquel que los ángeles llaman
 
-gozo. Oh, vengan, los que estn deprimidos y angustiados y abatidos, cuya
+gozo. Oh, vengan, los que están deprimidos y angustiados y abatidos, cuya
 
-religin ha sido una esclavitud y cuya profesin ha sido una servidumbre:
+religión ha sido una esclavitud y cuya profesión ha sido una servidumbre:
 
-reciban un verdadero bautismo en Cristo por la fe en l, y cuando se hayan
+reciban un verdadero bautismo en Cristo por la fe en Él, y cuando se hayan
 
-sumergido en el ms profundo mar de
+sumergido en el más profundo mar de
 
 la
 
 Deidad
 
-, entonces conocern un gozo y una
+, entonces conocerán un gozo y una
 
 paz que sobrepasa todo entendimiento. El mundo no puede darlos; tampoco puede
 
-quitarlos. Mas a vosotros los que temis mi nombre, nacer el Sol de justicia,
+quitarlos. “Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia,
 
-y en sus alas traer salvacin.
+y en sus alas traerá salvación”.
 
 Yo
 
-quisiera animar a los que temen un poco al Seor, me refiero a los buscadores.
+quisiera animar a los que temen un poco al Seńor, me refiero a los buscadores.
 
-Vengan a la luz. Vengan y sean bienvenidos ya que nadie cuestionar el derecho
+Vengan a la luz. Vengan y sean bienvenidos ya que nadie cuestionará el derecho
 
-de ustedes. Hasta ahora nunca me he enterado de alguien que dijera: no debo
+de ustedes. Hasta ahora nunca me he enterado de alguien que dijera: “no debo
 
-exponerme al sol; el sol no es mo. Los seores de este mundo han cercado cada
+exponerme al sol; el sol no es mío”. Los seńores de este mundo han cercado cada
 
-acre, y casi no hay ni una estril ladera de monte que no est protegida con un
+acre, y casi no hay ni una estéril ladera de monte que no esté protegida con un
 
-letrero que dice: no se permiten intrusos. Pero ellos no pueden cercar la
+letrero que dice: “no se permiten intrusos”. Pero ellos no pueden cercar la
 
-bendita luz del sol; no, ni siquiera por una hora. A travs de la ventana del
+bendita luz del sol; no, ni siquiera por una hora. A través de la ventana del
 
-pobre, aunque el vidrio est roto y tapado con harapos, un rayo de luz de sol
+pobre, aunque el vidrio esté roto y tapado con harapos, un rayo de luz de sol
 
-se abrir paso tan alegremente como lo hace en los salones de los monarcas;
+se abrirá paso tan alegremente como lo hace en los salones de los monarcas;
 
-brilla sobre los harapos del mendigo as como sobre el manto escarlata del
+brilla sobre los harapos del mendigo así como sobre el manto escarlata del
 
-prncipe: es libre. Cuando Digenes le pidi a Alejandro que se apartara pues
+príncipe: es libre. Cuando Diógenes le pidió a Alejandro que se apartara pues
 
-le tapaba el sol, tena el derecho de hacerlo pues la luz del sol le perteneca
+le tapaba el sol, tenía el derecho de hacerlo pues la luz del sol le pertenecía
 
-a Digenes en su tonel tanto como a Alejandro que haba conquistado un mundo.
+a Diógenes en su tonel tanto como a Alejandro que había conquistado un mundo.
 
-Oh, t que eres el ms despreciable de los despreciables en tu propio juicio, el ms ruin de
+Oh, tú que eres el más despreciable de los despreciables en tu propio juicio, el más ruin de
 
-los ruines en tu propia estima, el ms culpable de los culpables segn te acusa
+los ruines en tu propia estima, el más culpable de los culpables según te acusa
 
 tu conciencia delante de Dios, has de saber que el Sol de justicia ha salido, y
 
-Su luz es libre. Debes exponerte al sol; debes exponerte al sol! Oh, pero yo
+Su luz es libre. ˇDebes exponerte al sol; debes exponerte al sol! “Oh, pero yo
 
-me voy a mejorar pronto: estoy enfermo, pero me voy a mejorar pronto. Tienes que
+me voy a mejorar pronto: estoy enfermo, pero me voy a mejorar pronto”. Tienes que
 
-exponerte al sol, amigo, pues hay salvacin bajo las alas del Sol de justicia; no
+exponerte al sol, amigo, pues hay salvación bajo las alas del Sol de justicia; no
 
-la hay en ninguna otra parte. Estoy encendiendo un fuego, y espero calentarme
+la hay en ninguna otra parte. “Estoy encendiendo un fuego, y espero calentarme
 
-con la chispas de mi propia lea. Amigo, tienes que exponerte al sol. Qu
+con la chispas de mi propia leńa”. Amigo, tienes que exponerte al sol. żQué
 
-pudieran ser todos tus fuegos? Aunque prendieras fuego a todo el Lbano, y
+pudieran ser todos tus fuegos? Aunque prendieras fuego a todo el Líbano, y
 
-tomaras toda la madera que pudieras juntar en el Sirin para hacer una pira con
+tomaras toda la madera que pudieras juntar en el Sirión para hacer una pira con
 
-toda ella, qu sera comparado con el potente horno del sol que ha estado
+toda ella, żqué sería comparado con el potente horno del sol que ha estado
 
-ardiendo durante muchas edades, y arder hasta que el ojo del ltimo ser mortal
+ardiendo durante muchas edades, y arderá hasta que el ojo del último ser mortal
 
 lo haya mirado? Oh, alma, no procures salvarte a ti misma con tus caprichos y
 
-tus fantasas, sino que has de exponerte al sol! Amigo, exponte al sol! Pero
+tus fantasías, sino que ˇhas de exponerte al sol! ˇAmigo, exponte al sol! “Pero
 
-tal vez no pueda hacerlo. Quin empobrecera si la luz del sol brillara sobre
+tal vez no pueda hacerlo”. żQuién empobrecería si la luz del sol brillara sobre
 
-ti? Hay suficiente luz para los dems aunque derrame sus rayos sobre ti. El sol
+ti? Hay suficiente luz para los demás aunque derrame sus rayos sobre ti. El sol
 
-no brilla ms si t no tienes sus rayos; l no ser menos brillante aunque t y
+no brilla más si tú no tienes sus rayos; él no será menos brillante aunque tú y
 
-miles como t sigan juntos durante un siglo bandose a su luz. Lo mismo sucede
+miles como tú sigan juntos durante un siglo bańándose a su luz. Lo mismo sucede
 
-con Jess. En l habita corporalmente toda la plenitud de
+con Jesús. “En él habita corporalmente toda la plenitud de
 
 la Deidad
 
-.
+”.
 
-Si t tomaras toda la misericordia que se pudiera necesitar para trasladarte desde
+Si tú tomaras toda la misericordia que se pudiera necesitar para trasladarte desde
 
-las puertas del infierno hasta el propio cielo, l tendra disponible la misma
+las puertas del infierno hasta el propio cielo, Él tendría disponible la misma
 
-cantidad de misericordia. Si todo el mrito que pudieras necesitar para salvar
+cantidad de misericordia. Si todo el mérito que pudieras necesitar para salvar
 
-a tu condenado espritu y para convertirte en un hijo de Dios fuera tuyo, como
+a tu condenado espíritu y para convertirte en un hijo de Dios fuera tuyo, como
 
-hago oracin pidiendo que as sea, habr tanto mrito disponible en Cristo como
+hago oración pidiendo que así sea, habrá tanto mérito disponible en Cristo como
 
-siempre. Por qu detenerte? Pero yo soy tan vil. Acaso el sol no brilla en
+siempre. żPor qué detenerte? “Pero yo soy tan vil”. żAcaso el sol no brilla en
 
-muladares? No podra brillar sobre ti la misericordia de Dios, pecador de muladar?
+muladares? żNo podría brillar sobre ti la misericordia de Dios, pecador de muladar?
 
-T no puedes ser tan ruin, t no puedes ser tan vil; la infinita misericordia
+Tú no puedes ser tan ruin, tú no puedes ser tan vil; la infinita misericordia
 
-de Dios, como la infinita luz del sol, puede alcanzarte. Ay, yo soy
+de Dios, como la infinita luz del sol, puede alcanzarte. “Ay, yo soy
 
-tinieblas. Y qu noche fue demasiado oscura para que el sol no pudiera
+tinieblas”. żY qué noche fue demasiado oscura para que el sol no pudiera
 
-convertirla en da? Ay, yo soy fro. Pero qu tmpano de hielo fue demasiado
+convertirla en día? “Ay, yo soy frío”. Pero żqué témpano de hielo fue demasiado
 
-fro para que el sol no lo derritiera? Qu invierno fue demasiado severo para
+frío para que el sol no lo derritiera? żQué invierno fue demasiado severo para
 
-que el sol no lo convirtiera en verano? Entrgate, t carmbano, entrgate al
+que el sol no lo convirtiera en verano? Entrégate, tú carámbano, entrégate al
 
-sol, y l te derretir. Muerta y marchita ramita, entrgate a ese amado rayo de
+sol, y él te derretirá. Muerta y marchita ramita, entrégate a ese amado rayo de
 
-sol que espera besarte ahora, y despertar la vida en tu interior, y te calentar
+sol que espera besarte ahora, y despertará la vida en tu interior, y te calentará
 
-hasta que ests cargada con ricos frutos, para alabanza y gloria del Sol de
+hasta que estés cargada con ricos frutos, para alabanza y gloria del Sol de
 
-justicia que se ha levantado sobre ti. Que el Seor nos conceda que as sea
+justicia que se ha levantado sobre ti. Que el Seńor nos conceda que así sea
 
-para todos nosotros, por Jesucristo nuestro Seor. Amn.
+para todos nosotros, por Jesucristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la
 
 Escritura
 
-leda antes del sermn: Malaquas
+leída antes del sermón: Malaquías
 
 3 y 4.
 
 Traductor:
 
-Allan Romn
+Allan Román
 
 19/Diciembre/2013
 

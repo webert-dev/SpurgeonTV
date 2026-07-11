@@ -3,12 +3,21 @@ import { notFound } from 'next/navigation';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
 
 export async function generateStaticParams() {
-  const volumes = await getVolumes();
+  const langs = ['en', 'es', 'pt'];
+  const paramSet = new Set();
   const params = [];
-  for (const volume of volumes) {
-    const sermons = await getSermonsInVolume(volume);
-    for (const sermon of sermons) {
-      params.push({ id: volume, sermonId: sermon.slug });
+
+  for (const lang of langs) {
+    const volumes = await getVolumes(lang);
+    for (const volume of volumes) {
+      const sermons = await getSermonsInVolume(volume, lang);
+      for (const sermon of sermons) {
+        const key = `${volume}::${sermon.slug}`;
+        if (!paramSet.has(key)) {
+          paramSet.add(key);
+          params.push({ id: volume, sermonId: sermon.slug });
+        }
+      }
     }
   }
   return params;

@@ -1,14 +1,14 @@
 # Sermón 2915 | Sermón 2915
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
-Una Visita a Beln
+Una Visita a Belén
 
 NO. 2915
 
-SERMN
+SERMÓN
 
 PREDICADO LA NOCHE DEL DOMINGO 24 DE DICIEMBRE, 1854
 
@@ -24,19 +24,19 @@ Y
 
 PUBLICADO EL JUEVES 22 DE DICIEMBRE DE 1904.
 
-Pasemos, pues, hasta Beln, y veamos esto que ha sucedido,
+“Pasemos, pues, hasta Belén, y veamos esto que ha sucedido,
 
-y que el Seor nos ha manifestado. Lucas 2: 15.
+y que el Seńor nos ha manifestado.” Lucas 2: 15.
 
-Yo quisiera conducir su meditacin de
+Yo quisiera conducir su meditación de
 
-esta noche, no a Beln,
+esta noche, no a Belén,
 
 tal como es
 
 ahora,
 
-sino a Beln,
+sino a Belén,
 
 tal
 
@@ -48,81 +48,81 @@ una vez
 
 Si visitaran el sitio de esa antigua
 
-ciudad de Jud
+ciudad de Judá
 
 tal
 
 como se encuentra en el presente,
 
-encontraran
+encontrarían
 
 muy pocas cosas que pudieran edificar sus corazones. Aproximadamente a unos
 
-diez kilmetros al sur de Jerusaln, en la ladera de una colina, se ubica una
+diez kilómetros al sur de Jerusalén, en la ladera de una colina, se ubica una
 
-aldea, irregular y pequea, que no ha sido notoria nunca ni por
+aldea, irregular y pequeńa, que no ha sido notoria nunca ni por
 
 sus
 
-dimensiones ni por la riqueza de sus habitantes. El nico
+dimensiones ni por la riqueza de sus habitantes. El único
 
-edificio digno de mencin es un convento. Cuando se aproximan al lugar, si su
+edificio digno de mención es un convento. Cuando se aproximan al lugar, si su
 
-imaginacin les pintara un patio, un establo o un pesebre, a su llegada se veran
+imaginación les pintara un patio, un establo o un pesebre, a su llegada se verían
 
-grandemente desilusionados. Todo lo que alcanzaran a contemplar sera
+grandemente desilusionados. Todo lo que alcanzarían a contemplar sería
 
-ornamentos estridentes, puestos con el propsito de borrar, ms bien que de
+ornamentos estridentes, puestos con el propósito de borrar, más bien que de
 
-preservar, el sagrado inters con el que un cristiano contemplara el lugar. Podran
+preservar, el sagrado interés con el que un cristiano contemplaría el lugar. Podrían
 
-caminar sobre el piso de mrmol de alguna capilla, y fijar su mirada en las
+caminar sobre el piso de mármol de alguna capilla, y fijar su mirada en las
 
-paredes engalanadas con cuadros, y adornadas con las fantsticas estatuillas y
+paredes engalanadas con cuadros, y adornadas con las fantásticas estatuillas y
 
-otras chucheras que son encontrados usualmente en los lugares de adoracin
+otras chucherías que son encontrados usualmente en los lugares de adoración
 
-pertenecientes a la iglesia de Roma. Dentro de una pequea gruta, podran
+pertenecientes a la iglesia de Roma. Dentro de una pequeńa gruta, podrían
 
-observar el lugar exacto que la supersticin ha atribuido a la natividad de
+observar el lugar exacto que la superstición ha atribuido a la natividad de
 
-nuestro Seor; all, una estrella, hecha de plata y piedras preciosas, rodeada
+nuestro Seńor; allí, una estrella, hecha de plata y piedras preciosas, rodeada
 
-de lmparas de oro, podra recordarles, -pero meramente como una parodia- la
+de lámparas de oro, podría recordarles, -pero meramente como una parodia- la
 
-sencilla historia de los evangelistas. En verdad, Beln fue siempre pequea, y,
+sencilla historia de los evangelistas. En verdad, Belén fue siempre pequeńa, y,
 
-tal vez, hasta sea la ms insignificante entre las familias de Jud, siendo
+tal vez, hasta sea la más insignificante entre las familias de Judá, siendo
 
-famosa nicamente por sus asociaciones histricas.
+famosa únicamente por sus asociaciones históricas.
 
-Entonces, amados hermanos, Pasemos, pues,
+Entonces, amados hermanos, “Pasemos, pues,
 
-hasta Beln
+hasta Belén”
 
 tal como era;
 
 de ser
 
-posible, traslademos hasta nuestros propios das, la portentosa historia de ese
+posible, traslademos hasta nuestros propios días, la portentosa historia de ese
 
-Nio nacido, ese Hijo dado. Imaginen que el evento tiene lugar precisamente
+“Nińo nacido”, ese “Hijo dado”. Imaginen que el evento tiene lugar precisamente
 
-ahora. Procurar pintar un cuadro con vvidos colores, para que perciban de
+ahora. Procuraré pintar un cuadro con vívidos colores, para que perciban de
 
 manera fresca la grandiosa verdad, y queden impresionados, -como debe ser- por
 
-los hechos relativos al nacimiento de nuestro Seor y Salvador Jesucristo.
+los hechos relativos al nacimiento de nuestro Seńor y Salvador Jesucristo.
 
 Yo les propongo ahora que hagamos UNA
 
-VISITA A BELN, y voy a necesitar cinco acompaantes que vuelvan instructiva
+VISITA A BELÉN, y voy a necesitar cinco acompańantes que vuelvan instructiva
 
 nuestra visita; entonces, primero, quisiera contar
 
-con un anciano judo;
+con un anciano judío;
 
-a continuacin,
+a continuación,
 
 con un gentil anciano;
 
@@ -132,89 +132,89 @@ con
 
 un pecador convicto;
 
-despus,
+después,
 
 con un
 
 joven creyente;
 
-y, por ltimo,
+y, por último,
 
 con un
 
 cristiano avanzado.
 
-Sus comentarios no podran dejar de agradarnos y
+Sus comentarios no podrían dejar de agradarnos y
 
-beneficiarnos. Posteriormente, me gustara llevar a
+beneficiarnos. Posteriormente, me gustaría llevar a
 
 una familia entera
 
 al pesebre, para que todos contemplen al Divino
 
-Infante y oigan lo que cada uno tiene que decir respecto a l.
+Infante y oigan lo que cada uno tiene que decir respecto a Él.
 
 I.
 
-Entonces, para comenzar, ME GUSTARA IR A
+Entonces, para comenzar, ME GUSTARÍA IR A
 
-BELN ACOMPAADO DE UN ANCIANO JUDO.
+BELÉN ACOMPAŃADO DE UN ANCIANO JUDÍO.
 
 Vamos, mi venerable hermano de luenga
 
-barba; t eres, en verdad, un israelita, pues tu nombre es Simen. Ves al Nio
+barba; tú eres, en verdad, un israelita, pues tu nombre es Simeón. żVes al Nińo
 
-envuelto en paales, acostado en un pesebre? S, lo ve; y, subyugado por el
+“envuelto en pańales, acostado en un pesebre”? Sí, lo ve; y, subyugado por el
 
-espectculo, toma al Nio en sus brazos y exclama: Ahora, Seor, despides a tu
+espectáculo, toma al Nińo en sus brazos y exclama: “Ahora, Seńor, despides a tu
 
-siervo en paz, conforme a tu palabra; porque han visto mis ojos tu salvacin.
+siervo en paz, conforme a tu palabra; porque han visto mis ojos tu salvación.”
 
-Aqu tenemos, -dice este hijo fiel de Abraham- el cumplimiento de mil
+“Aquí tenemos”, -dice este hijo fiel de Abraham- “el cumplimiento de mil
 
-profecas y promesas, la esperanza, la expectacin y la dicha de mi noble
+profecías y promesas, la esperanza, la expectación y la dicha de mi noble
 
-linaje; aqu est el Antitipo de todos aquellos smbolos msticos y ofrendas
+linaje; aquí está el Antitipo de todos aquellos símbolos místicos y ofrendas
 
-tpicas prescritos en las leyes de Moiss. T, oh Hijo del Altsimo, eres la
+típicas prescritos en las leyes de Moisés. Tú, oh Hijo del Altísimo, eres la
 
-Simiente prometida de Abraham, el Siloh cuyo advenimiento vaticin Jacob, el
+Simiente prometida de Abraham, el Siloh cuyo advenimiento vaticinó Jacob, el
 
-ms grandioso Hijo del gran David, y el Rey legtimo de Israel. Nuestros
+más grandioso Hijo del gran David, y el Rey legítimo de Israel. ˇNuestros
 
-profetas anunciaron Tu venida, en verdad, en cada pgina proftica; nuestros
+profetas anunciaron Tu venida, en verdad, en cada página profética; nuestros
 
-bardos compitieron entre ellos para definir quin cantaba Tus loas con las ms
+bardos compitieron entre ellos para definir quién cantaba Tus loas con las más
 
 dulces estrofas; y ahora, oh feliz hora, estos pobres ojos mortecinos ven Tu
 
-figura encantadora! Es suficiente, y ms que suficiente; oh Dios, no pido
+figura encantadora! Es suficiente, y más que suficiente; ˇoh Dios, no pido
 
-vivir ms tiempo en la tierra! As habla el anciano judo; y, mientras habla,
+vivir más tiempo en la tierra!” Así habla el anciano judío; y, mientras habla,
 
-observo la sonrisa embelesada que ilumina cada faccin de su rostro y escucho
+observo la sonrisa embelesada que ilumina cada facción de su rostro y escucho
 
-los profundos tonos melodiosos de su trmula voz. Mientras contempla al tierno
+los profundos tonos melodiosos de su trémula voz. Mientras contempla al tierno
 
-Nio, le oigo citar las palabras de Isaas: Subir cual renuevo delante de l;
+Nińo, le oigo citar las palabras de Isaías: “Subirá cual renuevo delante de él”;
 
 y luego, cuando mira hacia a un costado a la virgen madre, descendiente de la
 
-casa real de David, vuelve rpidamente su mirada al Nio sin mcula y dice:
+casa real de David, vuelve rápidamente su mirada al Nińo sin mácula y dice:
 
-como raz de tierra seca.
+“como raíz de tierra seca”.
 
-Adis, venerable judo, tu pltica
+ˇAdiós, venerable judío, tu plática
 
-resuena dulcemente en mis odos; que pronto amanezca el da en el que todos tus
+resuena dulcemente en mis oídos; que pronto amanezca el día en el que todos tus
 
-hermanos retornen a su patria, y confiesen all a nuestro Jess como su Mesas
+hermanos retornen a su patria, y confiesen allí a nuestro Jesús como su Mesías
 
 y su Rey!
 
 II.
 
-Mi siguiente acompaante ser UN ANCIANO
+Mi siguiente acompańante será UN ANCIANO
 
 GENTIL.
 
@@ -222,125 +222,125 @@ Se trata de un hombre inteligente. No me
 
 hagan pregunta alguna en cuanto a su credo. Profundamente versado en las obras
 
-de Dios en la naturaleza, l posee una luz trmula y tenue que le basta para
+de Dios en la naturaleza, él posee una luz trémula y tenue que le basta para
 
 detectar la tenebrosidad moral que le circunda, aunque la verdad del Evangelio
 
-no ha encontrado an una entrada a su corazn. Llmenlo un escptico, desde el
+no ha encontrado aún una entrada a su corazón. Llámenlo un escéptico, desde el
 
 punto de vista pagano, si les parece; pero la suya no es una testaruda
 
-perversin del corazn; es ms bien ese estado de transicin de la mente en
+perversión del corazón; es más bien ese estado de transición de la mente en
 
-donde las falsas esperanzas son rechazadas, pero no ha sido todava abrazada la
+donde las falsas esperanzas son rechazadas, pero no ha sido todavía abrazada la
 
-verdadera esperanza. Este hermano gentil est quedndose en Jerusaln, y
+verdadera esperanza. Este hermano gentil está quedándose en Jerusalén, y
 
-caminamos y conversamos juntos al dirigir nuestros pasos hacia Beln. l me ha
+caminamos y conversamos juntos al dirigir nuestros pasos hacia Belén. Él me ha
 
-dicho cun gran placer siente cuando lee las Escrituras judas, y cmo ha
+dicho cuán gran placer siente cuando lee las Escrituras judías, y cómo ha
 
-anhelado con frecuencia el amanecer de aquel da que los videntes de la Escritura
+anhelado con frecuencia el amanecer de aquel día que los videntes de la Escritura
 
 predicen. Ahora entramos en la casa, -una estrella brilla intensamente en el
 
-cielo y est suspendida sobre el establo-; contemplamos al Nio y mi
+cielo y está suspendida sobre el establo-; contemplamos al Nińo y mi
 
-acompaante exclama en un xtasis: Luz para revelacin a los gentiles!
+acompańante exclama en un éxtasis: “ˇLuz para revelación a los gentiles!”
 
-Hermoso Nio de la promesa, -dice- Tu nacimiento ser un jbilo para todos
+“ˇHermoso Nińo de la promesa”, -dice- “Tu nacimiento será un júbilo para todos
 
-los pueblos! Prncipe de paz, Tu reino ser pacfico! Los reyes te ofrecern
+los pueblos! ˇPríncipe de paz, Tu reino será pacífico! Los reyes te ofrecerán
 
-dones; todas las naciones te servirn. Los pobres se alegrarn en Tu
+dones; todas las naciones te servirán. Los pobres se alegrarán en Tu
 
-advenimiento, pues T les hars justicia; y los opresores se estremecern en Tu
+advenimiento, pues Tú les harás justicia; y los opresores se estremecerán en Tu
 
-venida, pues Tus labios pronunciarn juicio en su contra. Luego habl muy
+venida, pues Tus labios pronunciarán juicio en su contra.” Luego habló muy
 
-dulcemente de las esperanzas que haban florecido en esa sala de maternidad. Pareca
+dulcemente de las esperanzas que habían florecido en esa ‘sala de maternidad’. Parecía
 
-como si en esa precisa hora viera en el Nio maravilloso que estaba frente a
+como si en esa precisa hora viera en el Nińo maravilloso que estaba frente a
 
-l, el cumplimiento de muchas promesas antiguas en cuya letra ya era versado.
+él, el cumplimiento de muchas promesas antiguas en cuya letra ya era versado.
 
 Era alentador escuchar a ese gentil citar palabras como estas, tomadas del
 
-profeta evanglico: Morar el lobo con el cordero, y el leopardo con el
+profeta evangélico: “Morará el lobo con el cordero, y el leopardo con el
 
-cabrito se acostar; el becerro y el len y la bestia domstica andarn juntos,
+cabrito se acostará; el becerro y el león y la bestia doméstica andarán juntos,
 
-y un nio los pastorear.
+y un nińo los pastoreará”.
 
 En tanto que me despido de este amigo,
 
 han de permitirme que les ofrezca una o dos reflexiones propias. Cuando, en Su
 
-ira, Dios ocult Su rostro de la casa de Jacob, alz la luz de Su faz sobre los
+ira, Dios ocultó Su rostro de la casa de Jacob, alzó la luz de Su faz sobre los
 
-gentiles. Cuando la tierra fecunda se convirti en un desierto, al mismo tiempo
+gentiles. Cuando la tierra fecunda se convirtió en un desierto, al mismo tiempo
 
-el pramo comenz a florecer como el huerto del Seor. Moiss haba anticipado
+el páramo comenzó a florecer como el huerto del Seńor. Moisés había anticipado
 
-estos dos eventos y los profetas inspirados haban previsto tanto el uno como
+estos dos eventos y los profetas inspirados habían previsto tanto el uno como
 
-el otro. El corazn engrosado del pueblo judo, la pesadez de sus ojos y la dureza
+el otro. El corazón engrosado del pueblo judío, la pesadez de sus ojos y la dureza
 
-de sus odos, no son ms sorprendentes, -como un exacto cumplimiento del juicio
+de sus oídos, no son más sorprendentes, -como un exacto cumplimiento del juicio
 
 divino- que la extrema susceptibilidad de la mente gentil para recibir la
 
-evidencia de la condicin de Mesas de nuestro Seor, y abrazar Su Evangelio.
+evidencia de la condición de Mesías de nuestro Seńor, y abrazar Su Evangelio.
 
-As haba dicho Jehov mil quinientos
+Así había dicho Jehová mil quinientos
 
-aos antes: Yo tambin los mover a celos con un pueblo que no es pueblo, los
+ańos antes: “Yo también los moveré a celos con un pueblo que no es pueblo, los
 
-provocar a ira con una nacin insensata. No se asombren, entonces, sino
+provocaré a ira con una nación insensata.” No se asombren, entonces, sino
 
-admiren las crisis de la historia cuando Pablo y Bernab fueron comisionados a
+admiren las crisis de la historia cuando Pablo y Bernabé fueron comisionados a
 
-decirles a los judos que rechazaron el Evangelio:
+decirles a los judíos que rechazaron el Evangelio:
 
-He aqu, nos volvemos a los gentiles.
+“He aquí, nos volvemos a los gentiles”.
 
 Yo he consultado el mapa y he mirado, con
 
-intensa emocin, la ruta que Pablo y Bernab tomaron en su primer viaje misionero.
+intensa emoción, la ruta que Pablo y Bernabé tomaron en su primer viaje misionero.
 
-Antioqua, la ciudad de la que partieron, est situada directamente al norte de
+Antioquía, la ciudad de la que partieron, está situada directamente al norte de
 
-Jerusaln, y all, en proporciones no muy desiguales, se poda encontrar tanto
+Jerusalén, y allí, en proporciones no muy desiguales, se podía encontrar tanto
 
-judos como gentiles. Al judo, primeramente, era conforme al precepto
+judíos como gentiles. “Al judío, primeramente”, era conforme al precepto
 
-divino; y, puesto que su propia nacin rechaz la gracia de Dios, he aqu, se
+divino; y, puesto que su propia nación rechazó la gracia de Dios, he aquí, se
 
 volvieron a los gentiles, con un resultado manifestado inmediatamente que los
 
-alegr grandemente, pues los gentiles oyeron con regocijo, y glorificaban la Palabra
+alegró grandemente, pues los gentiles oyeron con regocijo, y glorificaban la Palabra
 
-del Seor.
+del Seńor.
 
 Conforme sigan los diversos viajes del
 
-apstol Pablo, vern que el curso fue siempre hacia el norte, o, ms bien, en
+apóstol Pablo, verán que el curso fue siempre hacia el norte, o, más bien, en
 
-una direccin noroeste, y as las nuevas del Evangelio prosiguieron su viaje
+una dirección noroeste, y así las nuevas del Evangelio prosiguieron su viaje
 
-hasta que la Iglesia de los redimidos encontr un punto central en nuestra isla
+hasta que la Iglesia de los redimidos encontró un punto central en nuestra isla
 
 grandemente favorecida.
 
-Me parece or que algunos de ustedes
+Me parece oír que algunos de ustedes
 
-dicen: No somos anticuarios del suficiente calibre para apreciar la compaa de
+dicen: “No somos anticuarios del suficiente calibre para apreciar la compańía de
 
-tus dos venerables acompaantes. Bien, entonces, amados, los tres compaeros
+tus dos venerables acompańantes.” Bien, entonces, amados, los tres compańeros
 
-que siguen sern tomados de entre ustedes y pudiera ser que descubran sus
+que siguen serán tomados de entre ustedes y pudiera ser que descubran sus
 
-propios pensamientos expresados en los esbozos que estoy a punto de aadir.
+propios pensamientos expresados en los esbozos que estoy a punto de ańadir.
 
 III.
 
@@ -348,335 +348,335 @@ El siguiente en el orden ES EL PECADOR
 
 DESPIERTO
 
-Ven aqu, hermana ma, me agrada verte, y
+Ven aquí, hermana mía, me agrada verte, y
 
-voy a disfrutar mucho de tu compaa en nuestro camino a Beln. Por qu
+voy a disfrutar mucho de tu compańía en nuestro camino a Belén. żPor qué
 
-retrocedes? No tengas miedo; no hay nada aqu que deba horrorizarte. Entra,
+retrocedes? No tengas miedo; no hay nada aquí que deba horrorizarte. Entra,
 
-entra. Con trmulo recelo, mi hermana avanza hasta el tosco pesebre en el que
+entra. Con trémulo recelo, mi hermana avanza hasta el tosco pesebre en el que
 
-se encuentra el Nio. Pareciera que tiene miedo de alegrarse, y est
+se encuentra el Nińo. Pareciera que tiene miedo de alegrarse, y está
 
-desmesuradamente asombrada de s misma porque no se ha desmayado. Me pregunta:
+desmesuradamente asombrada de sí misma porque no se ha desmayado. Me pregunta:
 
-Y acaso, seor, es este, real y verdaderamente, el gran misterio de la
+“żY acaso, seńor, es este, real y verdaderamente, el gran misterio de la
 
-piedad? Acaso contemplo yo, en este pesebre, a Dios manifestado en la carne?
+piedad? żAcaso contemplo yo, en este pesebre, a ‘Dios manifestado en la carne’?
 
-Yo esperaba ver algo muy diferente. Mirando su rostro, comprend claramente
+Yo esperaba ver algo muy diferente.” Mirando su rostro, comprendí claramente
 
-que ella difcilmente poda creer debido al gozo. Esta trmula penitente es una
+que ella difícilmente podía creer debido al gozo. Esta trémula penitente es una
 
-visitante humilde aunque cautivadora del lugar de nacimiento de mi Seor. Yo deseara
+visitante humilde aunque cautivadora del lugar de nacimiento de mi Seńor. Yo desearía
 
-tener esta noche muchas ms personas como ella en esta congregacin. Ustedes
+tener esta noche muchas más personas como ella en esta congregación. Ustedes
 
-veran cmo el misterio se disuelve en misericordia. Ninguna espada encendida que
+verían cómo el misterio se disuelve en misericordia. Ninguna espada encendida que
 
-se revuelve por todos lados obstruye su entrada; ningn boleto de admisin es
+se revuelve por todos lados obstruye su entrada; ningún boleto de admisión es
 
-requerido por un insolente criado a la puerta; no se muestra ningn favor por
+requerido por un insolente criado a la puerta; no se muestra ningún favor por
 
-rangos o ttulos especiales; pueden entrar libremente para ver al ms noble
+rangos o títulos especiales; pueden entrar libremente para ver al más noble
 
-Nio, nacido de mujer, en el ms humilde catre en el que un infante hubiere
+Nińo, nacido de mujer, en el más humilde catre en el que un infante hubiere
 
 estado cobijado alguna vez. Ni siquiera una visible tiara de luz circunda Su
 
-frente. Es demasiado humilde, se los aseguro, para ser descrito por la imaginacin
+frente. Es demasiado humilde, se los aseguro, para ser descrito por la imaginación
 
-del poeta, o bosquejado por el pincel del artista: como hijo de pobre, est
+del poeta, o bosquejado por el pincel del artista: como hijo de pobre, está
 
-envuelto en paales y es acunado en un pesebre. Se requiere de fe para creer lo
+envuelto en pańales y es acunado en un pesebre. Se requiere de fe para creer lo
 
-que el ojo del sentido no podra discernir jams, cuando se mira al Prncipe
+que el ojo del sentido no podría discernir jamás, cuando se mira al “Príncipe
 
-de la vida con tan humilde aspecto.
+de la vida” con tan humilde aspecto.
 
 IV.
 
-Mi cuarto acompaante es UN JOVEN
+Mi cuarto acompańante es UN JOVEN
 
 CREYENTE.
 
-Bien, hermano mo, t y yo juntos hemos
+Bien, hermano mío, tú y yo juntos hemos
 
-tenido a menudo una dulce comunin relacionada con las cosas del reino;
+tenido a menudo una dulce comunión relacionada con las cosas del reino;
 
-Pasemos,
+“Pasemos,
 
-pues, hasta Beln, y veamos
+pues, hasta Belén, y veamos
 
-esto que ha sucedido, y que el Seor nos ha manifestado. Diviso la sagrada
+esto que ha sucedido, y que el Seńor nos ha manifestado.” Diviso la sagrada
 
 jovialidad en el rostro de mi joven amigo conforme se aproxima al misterio
 
-encarnado. Con frecuencia le he odo discutir sobre curiosas sutilezas
+encarnado. Con frecuencia le he oído discutir sobre curiosas sutilezas
 
-doctrinales; pero ahora, con serenidad de espritu, mira el rostro del Divino
+doctrinales; pero ahora, con serenidad de espíritu, mira el rostro del Divino
 
-Nio, y dice: La verdad ha brotado de la tierra, pues una mujer ha dado a luz
+Nińo, y dice: “La verdad ha brotado de la tierra, pues una mujer ha dado a luz
 
 a su Hijo; y la justicia ha mirado desde el cielo, pues Dios, en verdad, se ha
 
-revelado en ese Nio. Mira al pequeo Nio tan ansiosamente como si un fresco
+revelado en ese Nińo”. Mira al pequeńo Nińo tan ansiosamente como si un fresco
 
-manantial de santa gratitud se hubiere abierto en su corazn. Aqu no hay
+manantial de santa gratitud se hubiere abierto en su corazón. “Aquí no hay
 
-visin, ni imaginacin, ni mito, -afirma- sino un partcipe real de nuestra carne
+visión, ni imaginación, ni mito”, -afirma- “sino un partícipe real de nuestra carne
 
-y de nuestra sangre; l no ha asumido la naturaleza de los ngeles, sino la
+y de nuestra sangre; Él no ha asumido la naturaleza de los ángeles, sino la
 
 naturaleza de la simiente de Abraham. El cielo y la tierra se han unido para
 
-hacernos bienaventurados. La fuerza y la debilidad se han dado la mano aqu! Hace
+hacernos bienaventurados. ˇLa fuerza y la debilidad se han dado la mano aquí!” Hace
 
-una pausa para adorar, y luego habla de nuevo: en qu tabernculo tan
+una pausa para adorar, y luego habla de nuevo: “ˇen qué tabernáculo tan
 
-pequeo, dbil y delicado te dignas morar ahora, oh glorioso Dios! En verdad,
+pequeńo, débil y delicado te dignas morar ahora, oh glorioso Dios! En verdad,
 
-la misericordia y la verdad se han encontrado aqu, y la justicia y la paz se
+la misericordia y la verdad se han encontrado aquí, y la justicia y la paz se
 
-han besado. Oh Jess, Salvador, T eres la misericordia misma, la entraable
+han besado. Oh Jesús, Salvador, Tú eres la misericordia misma, la entrańable
 
-misericordia de nuestro Dios est encarnada en Ti. T eres la Verdad, la misma
+misericordia de nuestro Dios está encarnada en Ti. Tú eres la Verdad, la misma
 
-Verdad que los profetas anhelaban ver, y en la cual los ngeles deseaban mirar,
+Verdad que los profetas anhelaban ver, y en la cual los ángeles deseaban mirar,
 
-la Verdad que mi alma busc por tanto tiempo, pero que no poda encontrar hasta
+la Verdad que mi alma buscó por tanto tiempo, pero que no podía encontrar hasta
 
-que contempl Tu faz. Una vez pens que la Verdad estaba oculta en algn
+que contemplé Tu faz. Una vez pensé que la Verdad estaba oculta en algún
 
-profundo tratado, o en algn docto libro, pero ahora s que es revelada en Ti,
+profundo tratado, o en algún docto libro, pero ahora sé que es revelada en Ti,
 
-oh Jess, mi pariente, y, sin embargo, el igual de Tu Padre! Y, dulce Nio, T
+ˇoh Jesús, mi pariente, y, sin embargo, el igual de Tu Padre! Y, dulce Nińo, Tú
 
-eres tambin la justicia, la nica justicia que Dios puede aceptar. Qu
+eres también la justicia, la única justicia que Dios puede aceptar. ˇQué
 
-condescendencia, y a la vez qu paciencia! Ah, amado Nio, cun quieto te
+condescendencia, y a la vez qué paciencia! ˇAh, amado Nińo, cuán quieto te
 
-quedas! Me sorprende que, consciente de Tu divino poder, puedas soportar de
+quedas! ˇMe sorprende que, consciente de Tu divino poder, puedas soportar de
 
 esta manera las fastidiosas y prolongadas horas de la infancia con una humildad
 
-tan extraa, tan extraordinaria! Creo que, si hubieras estado a mi lado, y me
+tan extrańa, tan extraordinaria! Creo que, si hubieras estado a mi lado, y me
 
-hubieras cuidado, ese habra sido un servicio que podra muy bien admirar; pero,
+hubieras cuidado, ese habría sido un servicio que podría muy bien admirar; pero,
 
-sobrepasa cualquier esfuerzo de la imaginacin, darse cuenta de lo que ser
+sobrepasa cualquier esfuerzo de la imaginación, darse cuenta de lo que será
 
-para Ti ser tan dbil, tan desvalido, tan necesitado de ser alimentado y
+para Ti ser tan débil, tan desvalido, tan necesitado de ser alimentado y
 
-cuidado por una madre terrenal. Que el Admirable, el Dios fuerte, se humille
+cuidado por una madre terrenal. ˇQue el Admirable, el Dios fuerte, se humille
 
 de esta manera, es profunda humildad!
 
-As habl el joven creyente y me gust
+Así habló el joven creyente y me gustó
 
-mucho su discurso, pues pude ver en l cmo la fe obraba por amor, y cmo el
+mucho su discurso, pues pude ver en él cómo la fe obraba por amor, y cómo el
 
-fin de la controversia y del argumento es alcanzado en Beln, pues
+fin de la controversia y del argumento es alcanzado en Belén, pues
 
-indiscutiblemente, grande es el misterio de la piedad: Dios fue manifestado en
+“indiscutiblemente, grande es el misterio de la piedad: Dios fue manifestado en
 
-carne.
+carne.”
 
 V.
 
-Ahora voy a ir a Beln en compaa de UN
+Ahora voy a ir a Belén en compańía de UN
 
-CRISTIANO MADURO, tal como lo era Pablo, el anciano, o Juan, el telogo; no,
+CRISTIANO MADURO, tal como lo era Pablo, el anciano, o Juan, el teólogo; no,
 
-ms bien lo har con algn cristiano que encuentre en el crculo de los
+más bien lo haré con algún cristiano que encuentre en el círculo de los
 
 miembros de mi propia iglesia.
 
-Tranquilo, pacfico y benigno, pareciera
+Tranquilo, pacífico y benigno, pareciera
 
-como si su entrenamiento en la escuela de Cristo y la sagrada uncin del
+como si su entrenamiento en la escuela de Cristo y la sagrada unción del
 
-Espritu Santo le han convertido en un nio, conforme su carcter madura y su
+Espíritu Santo le han convertido en un nińo, conforme su carácter madura y su
 
-idoneidad para el reino de los cielos se vuelve ms aparente. Las lgrimas
+idoneidad para el reino de los cielos se vuelve más aparente. Las lágrimas
 
-resplandecan en los ojos del anciano al momento de mirar con terneza expresiva
+resplandecían en los ojos del anciano al momento de mirar con terneza expresiva
 
-a ese Nio de eternos das. No habl mucho, y lo que dijo no fue exactamente
+a ese “Nińo de eternos días”. No habló mucho, y lo que dijo no fue exactamente
 
-parecido a lo que cualquier otro de mis acompaantes haba hablado. Su
+parecido a lo que cualquier otro de mis acompańantes había hablado. Su
 
-comportamiento consista en citar breves frases de la Palabra de Dios, con gran
+comportamiento consistía en citar breves frases de la Palabra de Dios, con gran
 
-exactitud. Las expresaba lentamente, las ponderaba profundamente, y haba
+exactitud. Las expresaba lentamente, las ponderaba profundamente, y había
 
-abundante uncin espiritual en el acento con el que hablaba. Slo voy a
+abundante unción espiritual en el acento con el que hablaba. Sólo voy a
 
-mencionar unas cuantas de las tiles frases que expres:
+mencionar unas cuantas de las útiles frases que expresó:
 
-Primero dijo: Nadie subi al cielo, sino
+Primero dijo: “Nadie subió al cielo, sino
 
-el que descendi del cielo;
+el que descendió del cielo;
 
 el Hijo del
 
-Hombre, que est en el cielo;
+Hombre, que está en el cielo”;
 
-y realmente daba la impresin de que poda
+y realmente daba la impresión de que podía
 
-ver ms de lo yo hubiere visto jams en aquel pasaje; Jess, el hijo del
+ver más de lo yo hubiere visto jamás en aquel pasaje; ˇJesús, el hijo del
 
-hombre, que estaba en el cielo incluso cuando estaba en la tierra! Luego mir
+hombre, que estaba en el cielo incluso cuando estaba en la tierra! Luego miró
 
-al Nio y dijo: Este era en el principio con Dios. Despus de eso, expres
+al Nińo y dijo: “Este era en el principio con Dios”. Después de eso, expresó
 
-estas tres breves frases en sucesin: En el principio era el Verbo; Todas
+estas tres breves frases en sucesión: “En el principio era el Verbo”; “Todas
 
-las cosas por l fueron hechas; Y aquel Verbo fue hecho carne. Se vea como
+las cosas por él fueron hechas”; “Y aquel Verbo fue hecho carne”. Se veía como
 
-si se diese cuenta de la grandeza del misterio de que nuestro Seor Jess hiciera
+si se diese cuenta de la grandeza del misterio de que nuestro Seńor Jesús hiciera
 
-primero todas las cosas, y posteriormente l mismo fuera hecho carne. Luego,
+primero todas las cosas, y posteriormente Él mismo “fuera hecho carne”. Luego,
 
-reverentemente, dobl su rodilla, junt sus manos y exclam: el don de mi
+reverentemente, dobló su rodilla, juntó sus manos y exclamó: “el don de mi
 
-Padre, Mirad cul amor!
+Padre, ‘ˇMirad cuál amor!”
 
 Al retirarnos de aquel pesebre y de aquel
 
-establo, ese anciano cristiano pone su mano en mi hombro y dice: joven amigo,
+establo, ese anciano cristiano pone su mano en mi hombro y dice: “joven amigo,
 
-he ido a Beln muchas veces; era uno de mis sitios ms favoritos antes de que
+he ido a Belén muchas veces; era uno de mis sitios más favoritos antes de que
 
-nacieras, y he aprendido una dulce leccin all que me gustara transmitirte:
+nacieras, y he aprendido una dulce lección allí que me gustaría transmitirte:
 
-el Infinito se volvi finito; el Todopoderoso consinti en volverse dbil;
+el Infinito se volvió finito; el Todopoderoso consintió en volverse débil;
 
-Aquel que sostuvo todas las cosas por la palabra de Su poder, se torn
+Aquel que sostuvo todas las cosas por la palabra de Su poder, se tornó
 
 indefenso voluntariamente; Aquel cuya palabra dio existencia a todos los
 
-mundos, renunci por un tiempo incluso al poder del habla. En todas estas
+mundos, renunció por un tiempo incluso al poder del habla. En todas estas
 
-cosas, l cumpli la voluntad de Su Padre; as que no tengas miedo, ni te
+cosas, Él cumplió la voluntad de Su Padre; así que no tengas miedo, ni te
 
-sorprendas con ningn asombro, si fueras tratado de igual manera, pues Su Padre
+sorprendas con ningún asombro, si fueras tratado de igual manera, pues Su Padre
 
-es tambin tu Padre. T, que te has gozado en los antiguos convenios del pacto
+es también tu Padre. Tú, que te has gozado en los antiguos convenios del pacto
 
-eterno, podras tener que depender dbilmente de las misericordias de la hora. T
+eterno, podrías tener que depender débilmente de las misericordias de la hora. Tú
 
 te has recostado sobre el pecho de tu Salvador a Su mesa; pero en el momento
 
-presente podras ser tan dbil que debes depender de la atencin de una mujer.
+presente podrías ser tan débil que debes depender de la atención de una mujer.
 
-Tu lengua fue tocada como con un carbn proveniente del altar celestial, pero
+Tu lengua fue tocada como con un carbón proveniente del altar celestial, pero
 
-tus labios pueden ser sellados todava como los de un infante. Si an te
+tus labios pueden ser sellados todavía como los de un infante. Si aún te
 
-hundieras ms profundamente en la humillacin, nunca alcanzaras la profundidad
+hundieras más profundamente en la humillación, nunca alcanzarías la profundidad
 
-a la que descendi Jess en ese acto nico de condescendencia. Cierto,
+a la que descendió Jesús en ese acto único de condescendencia.” “Cierto,
 
-cierto, -respond- el hermano que es joven apunt a la maravillosa
+cierto”, -respondí- “el hermano que es joven apuntó a la maravillosa
 
-condescendencia del Hijo de Dios; t me las has explicado ms plenamente.
+condescendencia del Hijo de Dios; tú me las has explicado más plenamente”.
 
 Entonces, de esta manera, amados, me he
 
-esforzado por cumplir mi propsito de ir a Beln con cinco acompaantes
+esforzado por cumplir mi propósito de ir a Belén con cinco acompańantes
 
-distintos, siendo todos ellos personas representativas. Ay, es lamentable que
+distintos, siendo todos ellos personas representativas. ˇAy, es lamentable que
 
-algunos de ustedes no estn representados por alguno de estos personajes! No
+algunos de ustedes no estén representados por alguno de estos personajes! “żNo
 
-os conmueve a cuantos pasis por el camino? No les importa esta bendita
+os conmueve a cuantos pasáis por el camino?” żNo les importa esta bendita
 
-natividad, que marc desde tiempos antiguos el cumplimiento del tiempo? Si
+natividad, que marcó desde tiempos antiguos “el cumplimiento del tiempo”? Si
 
-murieran sin el conocimiento de este misterio, sus vidas seran un terrible
+murieran sin el conocimiento de este misterio, sus vidas serían un terrible
 
-hueco, y su porcin eterna ser verdaderamente terrible.
+hueco, y su porción eterna será verdaderamente terrible.
 
 VI.
 
-Prstenme su ms solcita atencin, por
+Préstenme su más solícita atención, por
 
-un poco ms de tiempo, mientras intento cambiar la lnea de la meditacin.
+un poco más de tiempo, mientras intento cambiar la línea de la meditación.
 
-Podra agradarle a Dios que, mientras procuro CONDUCIR A UNA FAMILIA ENTERA A
+Podría agradarle a Dios que, mientras procuro CONDUCIR A UNA FAMILIA ENTERA A
 
-BELN, algunos corazones que hasta aqu se han resistido a todos mis llamados,
+BELÉN, algunos corazones que hasta aquí se han resistido a todos mis llamados,
 
-puedan todava rendirse al Seor Jesucristo.
+puedan todavía rendirse al Seńor Jesucristo.
 
-Un cuadro familiar servir a mi
+Un cuadro familiar servirá a mi
 
-propsito. Imaginen que hoy es la noche previa del da de Navidad, y que un
+propósito. Imaginen que hoy es la noche previa del día de Navidad, y que un
 
-padre cristiano tiene a todo su hogar reunido junto a l en torno a la lumbre
+padre cristiano tiene a todo su hogar reunido junto a él en torno a la lumbre
 
-de la chimenea. Deseoso de combinar la instruccin con el placer, propone que
+de la chimenea. Deseoso de combinar la instrucción con el placer, propone que
 
-el tema de la conversacin sea
+el tema de la conversación sea
 
-el
+“el
 
-nacimiento de Cristo, y que cada uno de los nios diga algo al respecto, y que
+nacimiento de Cristo”, y que cada uno de los nińos diga algo al respecto, y que
 
-l predicar un breve sermn sobre cada una de sus observaciones. Invita a
+él predicará un breve sermón sobre cada una de sus observaciones. Invita a
 
-Mara, -la sirvienta- a la habitacin, y cuando todos estn confortablemente
+María, -la sirvienta- a la habitación, y cuando todos están confortablemente
 
 sentados, comienzan.
 
 (1)
 
-Despus de un simple bosquejo de los
+Después de un simple bosquejo de los
 
-hechos, el padre se vuelve a su hijo menor, y le pregunta: qu tienes que
+hechos, el padre se vuelve a su hijo menor, y le pregunta: “żqué tienes que
 
-decir, Memito? El muchachito, que es apenas lo suficientemente grande para
+decir, Memito?” El muchachito, que es apenas lo suficientemente grande para
 
-asistir a la escuela dominical, repite dos lneas que ha aprendido a cantar
+asistir a la escuela dominical, repite dos líneas que ha aprendido a cantar
 
-all, y que muchos de ustedes, sin duda, conocen:
+allí, y que muchos de ustedes, sin duda, conocen:
 
-Jesucristo,
+“Jesucristo,
 
-mi Seor y Salvador,
+mi Seńor y Salvador,
 
 Una vez se
 
-hizo un nio como yo.
+hizo un nińo como yo.”
 
-Bien, mi querido hijo, -le dice el
+“Bien, mi querido hijo”, -le dice el
 
-padre- una vez se volvi un nio como yo. S, Jess naci en el mundo como
+padre- “una vez se volvió un nińo como yo.” Sí, Jesús nació en el mundo como
 
-nacen los otros bebs. l era tan pequeo, tan delicado, tan dbil, como los
+nacen los otros bebés. Él era tan pequeńo, tan delicado, tan débil, como los
 
-otros infantes y necesit ser alimentado al igual que ellos.
+otros infantes y necesitó ser alimentado al igual que ellos.
 
-El Dios
+“El Dios
 
 Todopoderoso se hizo hombre,
 
-Un beb igual
+Un bebé igual
 
 que los otros que vemos:
 
-Tan pequeo
+Tan pequeńo
 
-en tamao, y dbil de cuerpo,
+en tamańo, y débil de cuerpo,
 
 Como siempre
 
-han sido los bebs.
+han sido los bebés.
 
 A partir de
 
-all creci y fue un infante dcil,
+allí creció y fue un infante dócil,
 
 A pasos
 
@@ -684,11 +684,11 @@ tersos y normales;
 
 Y luego se
 
-convirti en un muchacho ms grande,
+convirtió en un muchacho más grande,
 
 Sentado en el
 
-regazo de Mara.
+regazo de María.
 
 Inicialmente
 
@@ -696,129 +696,129 @@ cargado por falta de fuerzas,
 
 Con el tiempo
 
-corri solo;
+corrió solo;
 
-Luego lleg a
+Luego llegó a
 
 ser un mozuelo, un adolescente; luego,
 
 Un joven; por
 
-fin, un hombre.
+fin, un hombre.”
 
-Es incorrecto pintar cuadros del nio
+Es incorrecto pintar cuadros del nińo
 
-Jess, y luego decirles que son como l. Los idlatras perversos hacen eso. Ms
+Jesús, y luego decirles que son como Él. Los idólatras perversos hacen eso. Más
 
 bien debemos pensar de Jesucristo como hecho en todo semejante a Sus hermanos.
 
-Nunca hubo algo en lo que no fuera semejante a nosotros, excepto que l no
+Nunca hubo algo en lo que no fuera semejante a nosotros, excepto que Él no
 
-tena pecado. l sola comer, y beber, y dormir, y se despertaba, y rea, y
+tenía pecado. Él solía comer, y beber, y dormir, y se despertaba, y reía, y
 
-gritaba, y era carioso con Su madre, igual que lo hacen otros nios. As que
+gritaba, y era carińoso con Su madre, igual que lo hacen otros nińos. Así que
 
-est muy bien que digas, Memito: una vez se hizo un nio como yo.
+está muy bien que digas, Memito: ‘una vez se hizo un nińo como yo’.
 
 (2)
 
-Ahora, Juan, -dijo el padre,
+“Ahora, Juan”, -dijo el padre,
 
-dirigindose a un chamaco un poco mayor- t, qu tienes
+dirigiéndose a un chamaco un poco mayor- “tú, żqué tienes
 
-que decir? Bien, pap, -dijo Juan- si
+que decir?” “Bien, papá”, -dijo Juan- “si
 
 Jesucristo fue igual a nosotros en algunas cosas, no creo que haya tenido tantas
 
-comodidades como nosotros; no tendra un cuarto de juegos tan bonito, ni una
+comodidades como nosotros; no tendría un cuarto de juegos tan bonito, ni una
 
-cama tan cmoda. Acaso no era turbado por los caballos, y las vacas y los
+cama tan cómoda. żAcaso no era turbado por los caballos, y las vacas y los
 
-camellos? Me parece chocante que haya tenido que vivir en un establo.
+camellos? Me parece chocante que haya tenido que vivir en un establo.”
 
-Esa es una observacin muy apropiada,
+“Esa es una observación muy apropiada,
 
-Juan, le respondi su padre. Todos nosotros debemos considerar cmo nuestro
+Juan”, le respondió su padre. ‘Todos nosotros debemos considerar cómo nuestro
 
-Seor comparti Su vida con los pobres. Cuando esos magos vinieron del oriente,
+Seńor compartió Su vida con los pobres. Cuando esos magos vinieron del oriente,
 
-me atrevera a decir que estuvieron sorprendidos, primero, al descubrir que
+me atrevería a decir que estuvieron sorprendidos, primero, al descubrir que
 
-Jess era el nio de un hombre pobre; sin embargo, se postraron y le adoraron,
+Jesús era el nińo de un hombre pobre; sin embargo, se postraron y le adoraron,
 
 y abriendo sus tesoros, le ofrecieron presentes muy costosos: oro, incienso y
 
-mirra. Ah!, y cuando el Hijo de Dios se humill del cielo a la tierra, dej
+mirra. ˇAh!, y cuando el Hijo de Dios se humilló del cielo a la tierra, dejó
 
-atrs los esplendentes palacios de los reyes, y los salones de mrmol de los
+atrás los esplendentes palacios de los reyes, y los salones de mármol de los
 
-opulentos y los nobles, y estableci Su morada en los alojamientos de la pobreza.
+opulentos y los nobles, y estableció Su morada en los alojamientos de la pobreza.
 
-Aun as, l era nacido Rey de los judos. Ahora, Juan, leste alguna vez sobre
+Aun así, Él era ‘nacido Rey de los judíos’. Ahora, Juan, żleíste alguna vez sobre
 
-algn hijo que fuera nacido rey? Nunca lo hiciste, por supuesto; los hijos han
+algún hijo que fuera nacido rey? Nunca lo hiciste, por supuesto; los hijos han
 
-nacido siendo prncipes, y herederos al trono, pero nadie, aparte de Jess,
+nacido siendo príncipes, y herederos al trono, pero nadie, aparte de Jesús,
 
-naci jams siendo rey.
+nació jamás siendo rey.
 
 La pobreza de las circunstancias de nuestro
 
 Salvador es como un contraste que realza la gloriosa dignidad de Su persona.
 
-Ustedes han ledo acerca de algunos reyes buenos, tales como David, y Ezequas
+Ustedes han leído acerca de algunos reyes buenos, tales como David, y Ezequías
 
-y Josas; sin embargo, si no hubieran sido reyes, nunca nos habramos enterado
+y Josías; sin embargo, si no hubieran sido reyes, nunca nos habríamos enterado
 
-de ellos; pero sucedi algo muy diferente con Jesucristo. l posea una mayor
+de ellos; pero sucedió algo muy diferente con Jesucristo. Él poseía una mayor
 
-grandeza verdadera en ese establo que la que hubiere posedo cualquier otro rey
+grandeza verdadera en ese establo que la que hubiere poseído cualquier otro rey
 
-en un palacio; pero no se imaginen que solamente en Su niez fue el Pariente
+en un palacio; pero no se imaginen que solamente en Su nińez fue el Pariente
 
-del pobre. Cuando creci y lleg a ser un hombre, dijo: Las zorras tienen
+del pobre. Cuando creció y llegó a ser un hombre, dijo: “Las zorras tienen
 
-guaridas, y las aves del cielo nidos; mas el Hijo del Hombre no tiene dnde
+guaridas, y las aves del cielo nidos; mas el Hijo del Hombre no tiene dónde
 
-recostar su cabeza.
+recostar su cabeza.”
 
-Saben, hijos mos, que nuestros
+żSaben, hijos míos, que nuestros
 
-consuelos fueron comprados con el precio de Sus sufrimientos? Se hizo pobre,
+consuelos fueron comprados con el precio de Sus sufrimientos? “Se hizo pobre,
 
-siendo rico, para que vosotros con su pobreza fueseis enriquecidos. Por tanto,
+siendo rico, para que vosotros con su pobreza fueseis enriquecidos.” Por tanto,
 
-debemos dar gracias y alabar al bendito Jess cada vez que recordemos que l
+debemos dar gracias y alabar al bendito Jesús cada vez que recordemos que Él
 
-estaba en este mundo en una peor condicin de la que nos encontramos nosotros.
+estaba en este mundo en una peor condición de la que nos encontramos nosotros.
 
 (3)
 
-Ahora te toca a ti, -dijo el padre mirando
+“Ahora te toca a ti”, -dijo el padre mirando
 
-a su hijita, una nia inteligente, que apenas comenzaba a ser de alguna ayuda para
+a su hijita, una nińa inteligente, que apenas comenzaba a ser de alguna ayuda para
 
-su madre en el desempeo de los deberes domsticos cotidianos. Pobre nia; al
+su madre en el desempeńo de los deberes domésticos cotidianos. Pobre nińa; al
 
-or esto, inclin modestamente su cabeza, pues record, justo entonces, cun
+oír esto, inclinó modestamente su cabeza, pues recordó, justo entonces, cuán
 
-frecuentemente los pequeos actos de descuido la haban expuesto a los fieles
+frecuentemente los pequeńos actos de descuido la habían expuesto a los fieles
 
-pero tiernos regaos de sus padres. Por fin dijo: oh, padre, cun bueno fue
+pero tiernos regańos de sus padres. Por fin dijo: “ˇoh, padre, cuán bueno fue
 
-Jesucristo! l no hizo nunca nada malo. Muy cierto, mi amor, le respondi el
+Jesucristo! Él no hizo nunca nada malo.” “Muy cierto, mi amor”, le respondió el
 
-padre. Eso que comentas es un dulce tema para la meditacin. Su naturaleza fue
+padre. “Eso que comentas es un dulce tema para la meditación. Su naturaleza fue
 
-sin pecado, Sus pensamientos eran puros, Su corazn era transparente, y todas
+sin pecado, Sus pensamientos eran puros, Su corazón era transparente, y todas
 
-Sus acciones fueron justas y rectas. Ustedes han ledo acerca de las ovejas que
+Sus acciones fueron justas y rectas. Ustedes han leído acerca de las ovejas que
 
-Moiss orden en la ley que fueran ofrecidas en sacrificio a Dios. Todas deban
+Moisés ordenó en la ley que fueran ofrecidas en sacrificio a Dios. Todas debían
 
 estar libres de mancha y defecto; y si hubiere habido la menor traza de
 
-impureza en el Nio que naci de Mara, no habra podido ser nunca nuestro
+impureza en el Nińo que nació de María, no habría podido ser nunca nuestro
 
 Salvador.
 
@@ -826,95 +826,95 @@ Algunas veces se nos vienen pensamientos
 
 perversos y nadie lo sabe sino Dios; y, algunas veces, hacemos lo que es malo,
 
-aunque nadie nos descubra. No sucedi igual con el manso y humilde Salvador; l
+aunque nadie nos descubra. No sucedió igual con el manso y humilde Salvador; Él
 
-no tuvo nunca ni siquiera una imperfeccin. En la ley de Jehov estaba Su
+no tuvo nunca ni siquiera una imperfección. En la ley de Jehová estaba Su
 
-delicia y en Su ley meditaba de da y de noche. Aun cuando no cometamos ningn
+delicia y en Su ley meditaba de día y de noche. Aun cuando no cometamos ningún
 
-pecado positivo, a menudo olvidamos cumplir con nuestro deber; pero Jess nunca
+pecado positivo, a menudo olvidamos cumplir con nuestro deber; pero Jesús nunca
 
-lo hizo. Era como rbol plantado junto a corrientes de aguas, que da su fruto en
+lo hizo. Era como árbol plantado junto a corrientes de aguas, que da su fruto en
 
-su tiempo. No frustr jams alguna esperanza que hubiere sido depositada en
+su tiempo. No frustró jamás alguna esperanza que hubiere sido depositada en
 
-l.
+Él.”
 
-Hasta aqu, -dijo el padre- hemos
+“Hasta aquí”, -dijo el padre- “hemos
 
-tenido ya tres hermosos pensamientos: Jesucristo tom nuestra naturaleza,
+tenido ya tres hermosos pensamientos: Jesucristo tomó nuestra naturaleza,
 
-condescendi a ser muy pobre, y era sin pecado.
+condescendió a ser muy pobre, y era sin pecado.”
 
 (4)
 
-En la habitacin se encontraba tambin un
+En la habitación se encontraba también un
 
-muchacho ms grande, que acababa de regresar del internado escolar para pasar
+muchacho más grande, que acababa de regresar del internado escolar para pasar
 
-sus vacaciones de Navidad en casa. Entonces su padre se dirigi a este hijo y
+sus vacaciones de Navidad en casa. Entonces su padre se dirigió a este hijo y
 
-le dijo: Fred, a continuacin tenemos que or tu comentario. Muy breve, pero
+le dijo: “Fred, a continuación tenemos que oír tu comentario”. Muy breve, pero
 
-muy significativa, fue la respuesta de Fred: ese Nio tena una mente
+muy significativa, fue la respuesta de Fred: “ese Nińo tenía una mente
 
-maravillosa.
+maravillosa”.
 
-En verdad la tena, -dijo el padre- y
+“En verdad la tenía”, -dijo el padre- “y
 
-sera muy bueno que hubiere en todos nosotros este sentir que hubo tambin en
+sería muy bueno que hubiere en todos nosotros este sentir que hubo también en
 
-Cristo Jess. Su mente era infinita, pues particip en los eternos consejos de
+Cristo Jesús. Su mente era infinita, pues participó en los eternos consejos de
 
-Dios. Pero yo preferira sugerirles otra lnea de pensamiento: En l estaba la
+Dios. Pero yo preferiría sugerirles otra línea de pensamiento: ‘En Él estaba la
 
-luz. La mente de Jess era como la luz por su claridad y pureza. Nosotros
+luz’. La mente de Jesús era como la luz por su claridad y pureza. Nosotros
 
-vemos con frecuencia a las cosas a travs de un medio distorsionado; nos
+vemos con frecuencia a las cosas a través de un medio distorsionado; nos
 
-formamos impresiones errneas, y nos cuesta bastante corregirlas; pero Jess
+formamos impresiones erróneas, y nos cuesta bastante corregirlas; pero Jesús
 
-era de un rpido entendimiento para discernir entre el bien y el mal. Su mente
+era de un rápido entendimiento para discernir entre el bien y el mal. Su mente
 
-no se vio nunca influida por el prejuicio; vea las cosas tal como son. Nunca
+no se vio nunca influida por el prejuicio; veía las cosas tal como son. Nunca
 
 tuvo que pedir prestados los ojos de otras personas, y nunca guiaron Su juicio
 
-las ideas incubadas en el cerebro de otras personas. Tena luz en S mismo, y
+las ideas incubadas en el cerebro de otras personas. Tenía luz en Sí mismo, y
 
 esa luz era la vida de los hombres, por lo que fue capaz siempre de instruir a
 
 los ignorantes, y guiar sus pies en los senderos de paz. De igual manera, Su
 
-corazn era puro, y eso tiene ms que ver con el desarrollo de la mente, y el
+corazón era puro, y eso tiene más que ver con el desarrollo de la mente, y el
 
 mejoramiento del entendimiento, de lo que estamos inclinados a suponer. Ninguna
 
-imaginacin corrupta empa jams Su visin. Siempre estaba en armona con
+imaginación corrupta empańó jamás Su visión. Siempre estaba en armonía con
 
-Dios, y siempre sinti buena voluntad para con el hombre. Bien dices, Fred, que
+Dios, y siempre sintió buena voluntad para con el hombre. Bien dices, Fred, que
 
-posea una mente maravillosa.
+poseía una mente maravillosa”.
 
 (5)
 
-Despus de que cada uno de los hijos hizo
+Después de que cada uno de los hijos hizo
 
-alguna observacin, el padre se dirigi, a continuacin, a Mara, la sirvienta.
+alguna observación, el padre se dirigió, a continuación, a María, la sirvienta.
 
-No seas tmida, -le dijo- y di lo que piensas, y comparte con nosotros tu
+“No seas tímida”, -le dijo- “y di lo que piensas, y comparte con nosotros tu
 
-pensamiento. Solamente pensaba, seor, -dijo Mara- cun humilde de parte
+pensamiento”. “Solamente pensaba, seńor”, -dijo María- “cuán humilde de parte
 
-del Seor fue asumir la forma de un siervo. Cierto, Mara, muy cierto; y
+del Seńor fue asumir la forma de un siervo.” “Cierto, María, muy cierto; y
 
-siempre es muy til considerar cmo Jess se rebaj a nuestro humilde estado.
+siempre es muy útil considerar cómo Jesús se rebajó a nuestro humilde estado.
 
-Deberamos reconciliarnos con cualquier porcin que Jess escogiera
+Deberíamos reconciliarnos con cualquier ‘porción’ que Jesús escogiera
 
-voluntariamente para S mismo. Pero hay algo ms en tu comentario que es
+voluntariamente para Sí mismo. Pero hay algo más en tu comentario que es
 
-aplicable a Beln, y a la natividad, de lo que t, tal vez, hubieres imaginado;
+aplicable a Belén, y a la natividad, de lo que tú, tal vez, hubieres imaginado;
 
 pues, de acuerdo al relato que hace el doctor Kitto sobre la posada, o
 
@@ -922,13 +922,13 @@ caravanserai,
 
 la sagrada familia ocupaba
 
-el lugar de los siervos. Imaginen ahora una construccin cuadrada de paredes
+el lugar de los siervos. Imaginen ahora una construcción cuadrada de paredes
 
-altas y slidas, construidas de ladrillos sobre un cimiento de piedra, con un
+altas y sólidas, construidas de ladrillos sobre un cimiento de piedra, con un
 
 gran arco en la entrada. Estas paredes encierran un gran espacio abierto con un
 
-pozo en medio de esa rea. En el centro hay un patio interior, que contiene una
+pozo en medio de esa área. En el centro hay un patio interior, que contiene una
 
 plataforma levantada, cubierta en sus cuatro costados por hileras de
 
@@ -936,87 +936,87 @@ portales,
 
 y luego, en la pared trasera
 
-hay unas puertas pequeas que conducen a diminutas celdas que constituan los
+hay unas puertas pequeńas que conducen a diminutas celdas que constituían los
 
-alojamientos. As podemos suponer que era el mesn en el que no haba lugar
+alojamientos. Así podemos suponer que era el ‘mesón’ en el que ‘no había lugar’
 
-para Mara y Jos.
+para María y José.
 
-Ahora vamos a hacer una descripcin del
+Ahora vamos a hacer una descripción del
 
-establo. Est formado por una avenida cubierta que corre entre la pared trasera
+establo. Está formado por una avenida cubierta que corre entre la pared trasera
 
-de las habitaciones de la posada y la pared exterior de todo el edificio; as,
+de las habitaciones de la posada y la pared exterior de todo el edificio; así,
 
-est al mismo nivel del patio, y un metro aproximadamente por debajo de la plataforma
+está al mismo nivel del patio, y un metro aproximadamente por debajo de la plataforma
 
-suspendida. Las paredes laterales del cuadrngulo interior, al proyectarse por
+suspendida. Las paredes laterales del cuadrángulo interior, al proyectarse por
 
-detrs hacia el patio, forman nichos o pesebres, que los siervos y los muleros
+detrás hacia el patio, forman nichos o pesebres, que los siervos y los muleros
 
-usaban como albergue del mal clima. Nos da la impresin de que Jos y Mara
+usaban como albergue del mal clima. Nos da la impresión de que José y María
 
-encontraron un refugio en uno de esos nichos. Se supone que all naci el nio
+encontraron un refugio en uno de esos nichos. Se supone que allí nació el nińo
 
-Jess; y si as fuera, cun literalmente cierto es que tom la forma de
+Jesús; y si así fuera, ˇcuán literalmente cierto es que tomó la forma de
 
-siervo, y ocup la habitacin de los siervos!
+siervo, y ocupó la habitación de los siervos!”
 
 (6)
 
-Una vez ms el padre busc un texto
+Una vez más el padre buscó un texto
 
-fresco, y, mirando a su esposa, le dijo: querida, has adoptado un tranquilo
+fresco, y, mirando a su esposa, le dijo: “querida, has adoptado un tranquilo
 
-inters en nuestras conversaciones esta noche; oigamos ahora tu reflexin.
+interés en nuestras conversaciones esta noche; oigamos ahora tu reflexión.
 
-Estoy seguro de que puedes decir algo que nos agradar escuchar a todos. La
+Estoy seguro de que puedes decir algo que nos agradará escuchar a todos.” La
 
-madre se vea absorta en el pensamiento, y daba la impresin que tena ante s
+madre se veía absorta en el pensamiento, y daba la impresión que tenía ante sí
 
-un cuadro vvido de la escena completa, y sus ojos se iluminaron como si en
+un cuadro vívido de la escena completa, y sus ojos se iluminaron como si en
 
-realidad pudiese ver al amado Nio en el pesebre. Habl con suma naturalidad y
+realidad pudiese ver al amado Nińo en el pesebre. Habló con suma naturalidad y
 
-lo hizo muy maternalmente. Qu Nio tan hermoso! Y, sin embargo, -agreg con
+lo hizo muy maternalmente. ˇQué Nińo tan hermoso! Y, sin embargo, -agregó con
 
-un profundo suspiro- l, que es as ms hermoso en Su cuna que los hijos de
+un profundo suspiro- “Él, que es así más hermoso en Su cuna que los hijos de
 
-los hombres, despus de unos breves aos, estaba tan sobrecogido de ansiedad,
+los hombres, después de unos breves ańos, estaba tan sobrecogido de ansiedad,
 
-sufrimiento y angustia, que su parecer fue desfigurado ms que el de cualquier
+sufrimiento y angustia, que su parecer fue desfigurado más que el de cualquier
 
-otro hombre, y su hermosura ms que la de los hijos de los hombres.
+otro hombre, y su hermosura más que la de los hijos de los hombres.”
 
-Una melanclica tristeza se desliz en el
+Una melancólica tristeza se deslizó en el
 
-semblante de cada uno mientras aquella piadosa madre comparta sus reflexiones.
+semblante de cada uno mientras aquella piadosa madre compartía sus reflexiones.
 
-La ternura de la mujer pareca ser santificada por la gracia divina en su
+La ternura de la mujer parecía ser santificada por la gracia divina en su
 
-corazn, para producir su ms rica fragancia. El padre de inmediato rompi la
+corazón, para producir su más rica fragancia. El padre de inmediato rompió la
 
-quietud cuando dijo: Ah, amada ma, t has dicho lo mejor! Su corazn estaba
+quietud cuando dijo: “ˇAh, amada mía, tú has dicho lo mejor!” Su corazón estaba
 
 quebrantado con reproche; ese humilde nacimiento no era sino el preludio de una
 
-vida todava ms humilde, y de una muerte todava ms humillante. Tu
+vida todavía más humilde, y de una muerte todavía más humillante. Tu
 
-sentimiento, amor mo, es una evidencia sumamente preciosa de tu ntima
+sentimiento, amor mío, es una evidencia sumamente preciosa de tu íntima
 
-relacin con l.
+relación con Él.
 
-Un amigo
+“Un amigo
 
 fiel participa del dolor;
 
 Pero no puede
 
-haber ninguna unin
+haber ninguna unión
 
 Entre un
 
-corazn que se derrite como la cera
+corazón que se derrite como la cera
 
 Y corazones
 
@@ -1028,7 +1028,7 @@ cabeza que vierte sangre
 
 Y miembros
 
-inclumes y sanos,
+incólumes y sanos,
 
 Entre un Dios
 
@@ -1036,75 +1036,75 @@ agonizante
 
 Y un alma que
 
-no siente.
+no siente.”
 
 (7)
 
-Para concluir ahora, dijo el padre,
+“Para concluir ahora”, dijo el padre,
 
-mirando a su alrededor y recorriendo con una expresin animada a los miembros
+mirando a su alrededor y recorriendo con una expresión animada a los miembros
 
-de su hogar, yo supongo que ustedes esperan unas cuantas palabras de mi parte.
+de su hogar, “yo supongo que ustedes esperan unas cuantas palabras de mi parte.
 
-Por mucho que les gusten las observaciones de su madre, pienso que no sera
+Por mucho que les gusten las observaciones de su madre, pienso que no sería
 
-correcto, en un da tan propicio como este, terminar con un tono melanclico y
+correcto, en un día tan propicio como este, terminar con un tono melancólico y
 
 triste. Ustedes saben que los padres son generalmente sumamente precavidos
 
 acerca de las perspectivas de sus hijos. Yo puedo mirarlos a ustedes,
 
-muchachos, y pensar, no te ha de importar si tienes unas cuantas dificultades,
+muchachos, y pensar, ‘no te ha de importar si tienes unas cuantas dificultades,
 
-en tanto que puedas esforzarte exitosamente frente a ellas. Bien, ahora, me he
+en tanto que puedas esforzarte exitosamente frente a ellas’. Bien, ahora, me he
 
-estado imaginando el pesebre, el Nio que estaba acostado all, y, Mara, Su
+estado imaginando el pesebre, el Nińo que estaba acostado allí, y, María, Su
 
-madre, vigilndolo amorosamente; les dir lo que pensaba. Esas manitas tomarn
+madre, vigilándolo amorosamente; les diré lo que pensaba. Esas manitas tomarán
 
-un da el cetro del imperio universal; esos bracitos lucharn a brazo partido
+un día el cetro del imperio universal; esos bracitos lucharán a brazo partido
 
-con el monstruo llamado Muerte, y lo destruirn; esos diminutos pies hollarn
+con el monstruo llamado ‘Muerte’, y lo destruirán; esos diminutos pies hollarán
 
-el cuello de la serpiente, y aplastarn la cabeza de ese antiguo engaador; s,
+el cuello de la serpiente, y aplastarán la cabeza de ese antiguo engańador; sí,
 
-y esa pequea lengua, que todava no ha aprendido a articular palabra, derramar,
+y esa pequeńa lengua, que todavía no ha aprendido a articular palabra, derramará,
 
 en breve, tales arroyos de elocuencia proveniente de Sus labios, que
 
-fertilizarn las mentes de toda la raza humana, e infundirn Su enseanza en la
+fertilizarán las mentes de toda la raza humana, e infundirán Su enseńanza en la
 
-literatura del mundo; y despus de un breve tiempo, esa lengua pronunciar los
+literatura del mundo; y después de un breve tiempo, esa lengua pronunciará los
 
 juicios del cielo sobre los destinos de toda la humanidad. Todos nosotros hemos
 
 considerado que es maravilloso que el Dios de la gloria se humillara tanto;
 
-pero un da consideraremos que es ms maravilloso que el Varn de dolores sea
+pero un día consideraremos que es más maravilloso que el Varón de dolores sea
 
-exaltado muy en alto. La tierra no pudo encontrar un lugar tan bajo para l; el
+exaltado muy en alto. La tierra no pudo encontrar un lugar tan bajo para Él; el
 
-cielo difcilmente encontrar un lugar lo suficientemente excelso para l.
+cielo difícilmente encontrará un lugar lo suficientemente excelso para Él.
 
-Entonces ya slo queda por decir esto
+Entonces ya sólo queda por decir esto
 
-acerca de Jesucristo: l es el mismo ayer, y hoy, y por los siglos. Nosotros
+acerca de Jesucristo: Él es ‘el mismo ayer, y hoy, y por los siglos’. Nosotros
 
-podemos cambiar con las circunstancias, pero Jess nunca lo hizo y nunca lo
+podemos cambiar con las circunstancias, pero Jesús nunca lo hizo y nunca lo
 
-har. Cuando le miramos en el pesebre, podemos decir: l es el Admirable, el
+hará. Cuando le miramos en el pesebre, podemos decir: “Él es el Admirable, el
 
-Consejero, el Dios fuerte. Y cuando le veamos exaltado a la diestra de Su
+Consejero, el Dios fuerte’. Y cuando le veamos exaltado a la diestra de Su
 
-Padre, podremos exclamar: He aqu el Hombre!
+Padre, podremos exclamar: ‘ˇHe aquí el Hombre!’
 
-Todava
+“Todavía
 
-retiene Su corazn humano,
+retiene Su corazón humano,
 
-Aunque est
+Aunque esté
 
-entronizado en la ms excelsa bienaventuranza,
+entronizado en la más excelsa bienaventuranza,
 
 Siente los
 
@@ -1112,19 +1112,19 @@ dolores de cada miembro tentado,
 
 Pues nuestra
 
-afliccin es la Suya.
+aflicción es la Suya”.
 
-As concluy la serie de observaciones
+Así concluyó la serie de observaciones
 
 hechas por varios miembros de una familia cristiana en torno a la chimenea en
 
 el tiempo de Navidad. El padre dijo que era tiempo de retirarse y les dio a
 
-todos las buenas noches; y tal como dijo el padre, as digo yo: buenas noches
+todos las buenas noches; y tal como dijo el padre, así digo yo: “ˇbuenas noches
 
-y que el Seor los bendiga a todos! Amn.
+y que el Seńor los bendiga a todos!” Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 11/Diciembre/2008
 

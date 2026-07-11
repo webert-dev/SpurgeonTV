@@ -1,124 +1,124 @@
 # Sermón 896 | Sermón 896
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-La Resurreccin Venidera
+La Resurrección Venidera
 
 NO. 896
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 17 DE OCTUBRE DE 1869
+MAŃANA DEL DOMINGO 17 DE OCTUBRE DE 1869
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-No os maravillis de esto; porque
+“No os maravilléis de esto; porque
 
-vendr hora cuando todos los que estn en los sepulcros oirn su voz; y los que
+vendrá hora cuando todos los que están en los sepulcros oirán su voz; y los que
 
-hicieron lo bueno, saldrn a resurreccin de vida; mas los que hicieron lo
+hicieron lo bueno, saldrán a resurrección de vida; mas los que hicieron lo
 
 malo, a
 
-resurreccin
+resurrección
 
-de condenacin. Juan 5: 28, 29.
+de condenación”. Juan 5: 28, 29.
 
-La doctrina de la resurreccin de los muertos es
+La doctrina de la resurrección de los muertos es
 
-caractersticamente una creencia cristiana. Utilizando la razn natural y con
+característicamente una creencia cristiana. Utilizando la razón natural y con
 
-la ayuda de alguna escasa luz proveniente de la tradicin o tomada en prstamo
+la ayuda de alguna escasa luz proveniente de la tradición o tomada en préstamo
 
-de los judos, unos cuantos filsofos han entrevisto la inmortalidad del alma;
+de los judíos, unos cuantos filósofos han entrevisto la inmortalidad del alma;
 
-pero que el cuerpo habr de resucitar, que habr otra vida para esta estructura
+pero que el cuerpo habrá de resucitar, que habrá otra vida para esta estructura
 
-corporal, es una esperanza iluminada nicamente por la revelacin de Cristo
+corporal, es una esperanza iluminada únicamente por la revelación de Cristo
 
-Jess. Los hombres no hubieran podido imaginar un portento tan grande, y por
+Jesús. Los hombres no hubieran podido imaginar un portento tan grande, y por
 
 ende demuestran su incapacidad de inventar esa doctrina por el hecho de que
 
-todava -igual que lo hicieron en Atenas- cuando oyen acerca de la resurreccin
+todavía -igual que lo hicieron en Atenas- cuando oyen acerca de la resurrección
 
-por primera vez, se dedican a burlarse de ella. Vivirn estos huesos secos?,
+por primera vez, se dedican a burlarse de ella. “żVivirán estos huesos secos?”,
 
-sigue siendo todava la burla del incrdulo.
+sigue siendo todavía la burla del incrédulo.
 
-La doctrina de la resurreccin es una lmpara
+La doctrina de la resurrección es una lámpara
 
 encendida por la mano que una vez fue perforada. Es en verdad, en algunos
 
-aspectos, la piedra angular del arco cristiano. En nuestra santa fe est
+aspectos, la piedra angular del arco cristiano. En nuestra santa fe está
 
-vinculada con la persona de Jesucristo, y es una de las joyas ms resplandecientes
+vinculada con la persona de Jesucristo, y es una de las joyas más resplandecientes
 
-de Su corona. Qu tal si la llamo: la sortija del sello que est en Su dedo,
+de Su corona. żQué tal si la llamo: la sortija del sello que está en Su dedo,
 
 del sello con el cual ha demostrado, de manera concluyente, que posee la
 
 autoridad de Rey y que ha salido de Dios? Puesto que la doctrina de la
 
-resurreccin es vital para el Evangelio, debera ser predicada mucho ms
+resurrección es vital para el Evangelio, debería ser predicada mucho más
 
 frecuentemente de lo que es expuesta.
 
-Escuchen al apstol Pablo cuando describe el
+Escuchen al apóstol Pablo cuando describe el
 
 Evangelio que predicaba, y por medio del cual los verdaderos creyentes eran
 
-salvados: Primeramente os he enseado, -dice el apstol- lo que asimismo
+salvados: “Primeramente os he enseńado”, -dice el apóstol- “lo que asimismo
 
-recib: Que Cristo muri por nuestros pecados, conforme a las Escrituras; y que
+recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que
 
-fue sepultado, y que resucit al tercer da, conforme a las Escrituras. A
+fue sepultado, y que resucitó al tercer día, conforme a las Escrituras”. A
 
-partir de la resurreccin de Cristo el apstol argumenta la resurreccin de todos
+partir de la resurrección de Cristo el apóstol argumenta la resurrección de todos
 
-los muertos, e insiste en que si Cristo no hubiera resucitado, seran vanas
+los muertos, e insiste en que si Cristo no hubiera resucitado, serían vanas
 
-tanto la fe de ellos como la predicacin de Pablo. En la iglesia primitiva la
+tanto la fe de ellos como la predicación de Pablo. En la iglesia primitiva la
 
-doctrina de la resurreccin fue la principal hacha de combate y el arma de
+doctrina de la resurrección fue la principal hacha de combate y el arma de
 
 guerra del predicador. Doquiera que iban los primeros misioneros presentaban
 
-este mensaje de manera prominente: que habr un juicio, y que los muertos
+este mensaje de manera prominente: que habrá un juicio, y que los muertos
 
-resucitarn para ser juzgados por el Hombre Cristo Jess, de conformidad al Evangelio.
+resucitarán para ser juzgados por el Hombre Cristo Jesús, de conformidad al Evangelio.
 
-Si queremos honrar a Cristo Jess, el resucitado, debemos darle prominencia a
+Si queremos honrar a Cristo Jesús, el resucitado, debemos darle prominencia a
 
 esta verdad.
 
-Adems, la doctrina de la resurreccin recibe la
+Además, la doctrina de la resurrección recibe la
 
-bendicin de Dios para despertar a las mentes de los hombres. Cuando nos
+bendición de Dios para despertar a las mentes de los hombres. Cuando nos
 
-imaginamos que nuestras acciones estn confinadas a esta vida presente, las
+imaginamos que nuestras acciones están confinadas a esta vida presente, las
 
 hacemos descuidadamente, pero cuando descubrimos que son de largo alcance y que,
 
 para bien o para mal, proyectan influencias a lo largo de un destino eterno,
 
-entonces las consideramos con una mayor seriedad. Qu sonido de trompeta
+entonces las consideramos con una mayor seriedad. żQué sonido de trompeta
 
-pudiera ser ms sorprendente, qu voz de alerta pudiera ser ms eficaz para
+pudiera ser más sorprendente, qué voz de alerta pudiera ser más eficaz para
 
 despertar que estas noticias dadas al pecador negligente de que hay una vida en
 
-el ms all y que los hombres tienen que presentarse delante del tribunal de
+el más allá y que los hombres tienen que presentarse delante del tribunal de
 
 Cristo para recibir el veredicto por las cosas hechas en sus cuerpos, sean
 
-buenas o sean malas? Voy a tratar de predicar esta doctrina esta maana
+buenas o sean malas? Voy a tratar de predicar esta doctrina esta mańana
 
 precisamente para estos fines: para honrar a Cristo y para despertar a los
 
-negligentes. Que Dios nos bendiga y nos d abundantemente los resultados
+negligentes. Que Dios nos bendiga y nos dé abundantemente los resultados
 
 deseados.
 
@@ -138,443 +138,443 @@ I.
 
 Primero, vamos a EXPONER EL TEXTO. Ninguna
 
-exposicin sera ms instructiva que un examen verbal. Tomaremos cada palabra y
+exposición sería más instructiva que un examen verbal. Tomaremos cada palabra y
 
 ponderaremos su significado.
 
 Entonces, observen primero que en el texto hay
 
-una prohibicin de maravillarse.
+una prohibición de maravillarse.
 
-No os
+“No os
 
-maravillis de esto.
+maravilléis de esto”.
 
-Nuestro Salvador haba estado hablando de dos formas
+Nuestro Salvador había estado hablando de dos formas
 
-de otorgar vida que le pertenecen a l, como el Hijo del hombre. La primera
+de otorgar vida que le pertenecen a Él, como el Hijo del hombre. La primera
 
 forma es el poder de hacer salir a los muertos de sus sepulcros, a una vida
 
-natural renovada. l demostr ese poder en una o dos ocasiones durante Su vida,
+natural renovada. Él demostró ese poder en una o dos ocasiones durante Su vida,
 
-a las puertas de Nan, en el aposento de la hija de Jairo, y una vez ms en la
+a las puertas de Naín, en el aposento de la hija de Jairo, y una vez más en la
 
-tumba del casi putrefacto Lzaro. Jess tena poder cuando estaba en la tierra
+tumba del casi putrefacto Lázaro. Jesús tenía poder cuando estaba en la tierra
 
-y tiene todava poder, si as lo quisiera, para hablarles a aqullos que han
+y tiene todavía poder, si así lo quisiera, para hablarles a aquéllos que han
 
-partido y pedirles que regresen de nuevo a esta condicin mortal y que reasuman
+partido y pedirles que regresen de nuevo a esta condición mortal y que reasuman
 
-los gozos, las aflicciones y los deberes de la vida. Porque como el Padre
+los gozos, las aflicciones y los deberes de la vida. “Porque como el Padre
 
-levanta a los muertos, y les da vida, as tambin el Hijo a los que quiere da
+levanta a los muertos, y les da vida, así también el Hijo a los que quiere da
 
-vida.
+vida”.
 
-Despus que nuestro Seor hubo comentado por un
+Después que nuestro Seńor hubo comentado por un
 
-momento acerca de esa faceta de Su prerrogativa de dar vida, pas a una segunda
+momento acerca de esa faceta de Su prerrogativa de dar vida, pasó a una segunda
 
-manifestacin de ella, y testific que ya haba llegado el tiempo cuando Su voz
+manifestación de ella, y testificó que ya había llegado el tiempo cuando Su voz
 
-se escuchara para la vivificacin de los seres espiritualmente muertos. Los seres
+se escucharía para la vivificación de los seres espiritualmente muertos. Los seres
 
-muertos espiritualmente, las personas que estn muertas para la santidad y
+muertos espiritualmente, las personas que están muertas para la santidad y
 
 muertas para la vida, muertas para Dios y muertas para la gracia; las personas
 
 que yacen en sus tumbas cubiertas totalmente con las vendas de los malos
 
-hbitos; que estn pudrindose en los atades de su depravacin y que permanecen
+hábitos; que están pudriéndose en los ataúdes de su depravación y que permanecen
 
 acostadas en la profundidad de sus transgresiones, esas mismas personas reciben
 
-la vida cuando Jess habla en el Evangelio; entonces les es dada una vida
+la vida cuando Jesús habla en el Evangelio; entonces les es dada una vida
 
 espiritual, sus almas muertas son despertadas de su largo y horrible letargo, y
 
 son vivificadas con la vida de Dios.
 
-Ahora, ambas formas de vivificacin son dignas
+Ahora, ambas formas de vivificación son dignas
 
-de nuestro maravillado asombro. La resurreccin del hombre natural a una vida
+de nuestro maravillado asombro. La resurrección del hombre natural a una vida
 
-natural es un gran portento; quin no recorrera mil kilmetros para ver la
+natural es un gran portento; żquién no recorrería mil kilómetros para ver la
 
-realizacin de una obra as?
+realización de una obra así?
 
-Pero la resurreccin del espritu muerto a una
+Pero la resurrección del espíritu muerto a una
 
-vida espiritual es, por mucho, un portento todava mayor. Pero a pesar de que
+vida espiritual es, por mucho, un portento todavía mayor. Pero a pesar de que
 
-estas cosas son maravillosas y que es legtimo que nos maravillemos por ellas
+estas cosas son maravillosas y que es legítimo que nos maravillemos por ellas
 
-con gran admiracin, hay sin embargo un asombro de incredulidad desconfiada que
+con gran admiración, hay sin embargo un asombro de incredulidad desconfiada que
 
-es insultante para el Seor, y que es, por tanto, prohibido.
+es insultante para el Seńor, y que es, por tanto, prohibido.
 
 Como para anonadar a los impugnadores que estaban
 
-estupefactos ante Sus reivindicaciones, nuestro afable Maestro se dirigi a
+estupefactos ante Sus reivindicaciones, nuestro afable Maestro se dirigió a
 
-ellos de la siguiente manera: No necesitan maravillarse de estas dos
+ellos de la siguiente manera: “No necesitan maravillarse de estas dos
 
-reivindicaciones mas; Yo afirmo tener otro poder de vivificacin que los
+reivindicaciones mías; Yo afirmo tener otro poder de vivificación que los
 
-maravillar mucho ms. En breve ocurrir un evento que para ustedes, de
+maravillará mucho más. En breve ocurrirá un evento que para ustedes, de
 
-cualquier manera, ser mucho ms maravilloso que cualquier cosa que me han
+cualquier manera, será mucho más maravilloso que cualquier cosa que me han
 
-visto hacer, o que afirmo que puedo realizar. El tiempo vendr cuando, a Mi
+visto hacer, o que afirmo que puedo realizar. El tiempo vendrá cuando, a Mi
 
-voz, todos los muertos que estn en sus tumbas, las multitudes de multitudes
+voz, todos los muertos que están en sus tumbas, las multitudes de multitudes
 
-que yacen en los valles de muerte, se despertarn instantneamente a la vida y
+que yacen en los valles de muerte, se despertarán instantáneamente a la vida y
 
-se presentarn ante Mi trono de juicio.
+se presentarán ante Mi trono de juicio”.
 
-Para ustedes, amados hermanos en la fe, la resurreccin
+Para ustedes, amados hermanos en la fe, la resurrección
 
-de los muertos no es un portento tan grande como lo es la salvacin de las almas
+de los muertos no es un portento tan grande como lo es la salvación de las almas
 
-muertas; y, en verdad, la resurreccin de un cadver de su tumba no es de
+muertas; y, en verdad, la resurrección de un cadáver de su tumba no es de
 
-ninguna manera un portento tan grande como lo es la vivificacin de un alma
+ninguna manera un portento tan grande como lo es la vivificación de un alma
 
-muerta que duerme el sueo del pecado pues, en la resurreccin de un cadver no
+muerta que duerme el sueńo del pecado pues, en la resurrección de un cadáver no
 
-hay ninguna oposicin al fiat (hgase) de la Omnipotencia. Dios habla, y se
+hay ninguna oposición al ‘fiat’ (hágase) de la Omnipotencia. Dios habla, y se
 
-hace; pero en la salvacin de un alma muerta, los elementos de muerte que estn
+hace; pero en la salvación de un alma muerta, los elementos de muerte que están
 
 dentro son potentes y oponen resistencia al poder vivificador de la gracia, de
 
-tal manera que la regeneracin es una victoria as como una creacin, un
+tal manera que la regeneración es una victoria así como una creación, un
 
-milagro complejo y una gloriosa exhibicin de gracia y poder.
+milagro complejo y una gloriosa exhibición de gracia y poder.
 
 Sin embargo, por diversas razones, para unos
 
-pocos y para todos los que todava son gobernados por la mente carnal, para el
+pocos y para todos los que todavía son gobernados por la mente carnal, para el
 
-mero ojo externo, la resurreccin del cuerpo pareciera ser un mayor portento.
+mero ojo externo, la resurrección del cuerpo pareciera ser un mayor portento.
 
-Comparativamente, en el da de nuestro Salvador, pocas personas fueron
+Comparativamente, en el día de nuestro Salvador, pocas personas fueron
 
-vivificadas espiritualmente, pero la resurreccin consistir en la vivificacin
+vivificadas espiritualmente, pero la resurrección consistirá en la vivificación
 
-de todos los cadveres de los seres humanos que han existido a lo largo de toda
+de todos los cadáveres de los seres humanos que han existido a lo largo de toda
 
-la historia. Grande maravilla es sta, si se considera las huestes de los hijos
+la historia. Grande maravilla es ésta, si se considera las huestes de los hijos
 
-de Adn que han engrosado el suelo y engordado a los gusanos y, sin embargo, cada
+de Adán que han engrosado el suelo y engordado a los gusanos y, sin embargo, cada
 
-uno de ellos resucitar. Muchas almas fueron revividas en el da de nuestro
+uno de ellos resucitará. Muchas almas fueron revividas en el día de nuestro
 
-Salvador y tambin lo son en nuestro da, una por una, por aqu una y otra por
+Salvador y también lo son en nuestro día, una por una, por aquí una y otra por
 
-all.
+allá.
 
-Largos aos siguen transcurriendo; la historia
+Largos ańos siguen transcurriendo; la historia
 
 entera de la humanidad se interpone antes de que se lleve a cabo la
 
-regeneracin de todos los elegidos; pero la resurreccin de los muertos tendr
+regeneración de todos los elegidos; pero la resurrección de los muertos tendrá
 
-lugar de inmediato; al sonido de la trompeta del arcngel, los justos
+lugar de inmediato; al sonido de la trompeta del arcángel, los justos
 
-resucitarn a su gloria; y despus de ellos, los impos resucitarn a su
+resucitarán a su gloria; y después de ellos, los impíos resucitarán a su
 
-vergenza; pero la resurreccin no ser un levantamiento gradual, un desarrollo
+vergüenza; pero la resurrección no será un levantamiento gradual, un desarrollo
 
-progresivo, ya que de inmediato miradas de seres invadirn la tierra y el mar.
+progresivo, ya que de inmediato miríadas de seres invadirán la tierra y el mar.
 
-Conciban, entonces, cun maravilloso habr de ser sto para una simple mente
+ˇConciban, entonces, cuán maravilloso habrá de ser ésto para una simple mente
 
-natural! Un cementerio sbitamente convertido en una animada asamblea; un campo
+natural! Un cementerio súbitamente convertido en una animada asamblea; un campo
 
 de batalla en el que cayeron decenas de miles de personas, que vomita
 
-sbitamente a todos sus muertos. El carcter repentino de sto asombrara y sobresaltara
+súbitamente a todos sus muertos. El carácter repentino de ésto asombraría y sobresaltaría
 
-a la mente ms carnal, y hara que el milagro pareciera grande ms all de toda
+a la mente más carnal, y haría que el milagro pareciera grande más allá de toda
 
-comparacin.
+comparación.
 
-Adems, hermanos mos, la resurreccin de los
+Además, hermanos míos, la resurrección de los
 
-muertos es algo que ciertas personas como los judos podan apreciar, pues
+muertos es algo que ciertas personas como los judíos podían apreciar, pues
 
-tena que ver con el materialismo, tena que ver con cuerpos humanos. Haba
+tenía que ver con el materialismo, tenía que ver con cuerpos humanos. Había
 
 algo que ver, algo que tocar, algo que pudiera ser manejado, algo que las personas
 
-no espirituales llaman una realidad. Para ustedes y para m la resurreccin
+no espirituales llaman ‘una realidad’. Para ustedes y para mí la resurrección
 
 espiritual, si somos hombres espirituales, es el mayor portento, pero para
 
-ellos la resurreccin pareca ser todava ms maravillosa, porque podan comprender
+ellos la resurrección parecía ser todavía más maravillosa, porque podían comprender
 
 y formarse un concepto de ella en sus mentes no espirituales.
 
 Entonces el Salvador les dice que si las dos
 
-cosas anteriores los hacan maravillarse, y los hacan dudar, qu hara esta
+cosas anteriores los hacían maravillarse, y los hacían dudar, żqué haría esta
 
-doctrina: que todos los muertos sern resucitados en un instante por la voz de
+doctrina: que todos los muertos serán resucitados en un instante por la voz de
 
-Cristo? Hermanos, aprendamos humildemente una leccin de sto. Nosotros somos
+Cristo? Hermanos, aprendamos humildemente una lección de ésto. Nosotros somos
 
-por naturaleza muy semejantes a los judos; nos asombramos desconfiadamente y
+por naturaleza muy semejantes a los judíos; nos asombramos desconfiadamente y
 
-nos sorprendemos incrdulamente cuando vemos u omos acerca de unas renovadas
+nos sorprendemos incrédulamente cuando vemos u oímos acerca de unas renovadas
 
-manifestaciones de la grandeza de nuestro Seor Jesucristo. Nuestros corazones
+manifestaciones de la grandeza de nuestro Seńor Jesucristo. Nuestros corazones
 
 son tan estrechos que no podemos recibir Su gloria en su plenitud. Ah, nosotros
 
-lo amamos, y confiamos en l, y creemos que l es el ms hermoso, y el ms
+lo amamos, y confiamos en Él, y creemos que Él es el más hermoso, y el más
 
-grande, y el mejor y el ms poderoso, pero si tuviramos una visin ms plena
+grande, y el mejor y el más poderoso, pero si tuviéramos una visión más plena
 
-de lo que l puede hacer, es muy probable que nuestro asombro se vera mezclado
+de lo que Él puede hacer, es muy probable que nuestro asombro se vería mezclado
 
-con una porcin de duda sustancial. Hasta este momento poseemos slo unas ideas
+con una porción de duda sustancial. Hasta este momento poseemos sólo unas ideas
 
-dbiles de la gloria y del poder de nuestro Seor. Nosotros sostenemos la
+débiles de la gloria y del poder de nuestro Seńor. Nosotros sostenemos la
 
 doctrina de Su deidad, pues somos lo suficientemente ortodoxos, pero no hemos
 
-captado enteramente el hecho de que l es Seor Dios Todopoderoso. No te
+captado enteramente el hecho de que Él es Seńor Dios Todopoderoso. żNo te
 
-parece a veces imposible que Fulano de Tal, un hombre aflictivamente impo,
+parece a veces imposible que Fulano de Tal, un hombre aflictivamente impío,
 
-pudiera ser convertido? Pero, por qu considerarlo imposible para Aquel que
+pudiera ser convertido? Pero, żpor qué considerarlo imposible para Aquel que
 
-puede resucitar a los muertos? No parecera imposible que pudieras ser
+puede resucitar a los muertos? żNo parecería imposible que pudieras ser
 
-sostenido a travs de tu presente tribulacin? Pero, cun imposible es para
+sostenido a través de tu presente tribulación? Pero, żcuán imposible es para
 
-Aquel que har que los huesos secos vivan y que el sepulcro vomite su contenido?
+Aquel que hará que los huesos secos vivan y que el sepulcro vomite su contenido?
 
-Parecera improbable a veces que tus corrupciones sean quitadas alguna vez, y
+Parecería improbable a veces que tus corrupciones sean quitadas alguna vez, y
 
-que llegues a ser perfecto y sin mancha. Pero, por qu habra de parecerlo?
+que llegues a ser perfecto y sin mancha. Pero, żpor qué habría de parecerlo?
 
 Aquel que es capaz de presentar delante de Su trono a decenas de miles de
 
-cuerpos que han dormido durante largo tiempo en el sepulcro, y que ya estn
+cuerpos que han dormido durante largo tiempo en el sepulcro, y que ya están
 
-convertidos en polvo, qu no podra realizar para con Su pueblo?
+convertidos en polvo, żqué no podría realizar para con Su pueblo?
 
-Oh, no duden ms, y no permitan que las mayores
+Oh, no duden más, y no permitan que las mayores
 
 maravillas de Su amor, de Su gracia, de Su poder o de Su gloria, los conduzcan
 
-a maravillarse incrdulamente, sino que ms bien digan conforme cada nuevo prodigio
+a maravillarse incrédulamente, sino que más bien digan conforme cada nuevo prodigio
 
-de Su poder divino se haga manifiesto delante de ustedes: Yo esperaba sto de
+de Su poder divino se haga manifiesto delante de ustedes: “Yo esperaba ésto de
 
-alguien como l. Yo conclu que l podra lograr sto, pues entiendo que fue
+alguien como Él. Yo concluí que Él podría lograr ésto, pues entiendo que fue
 
-capaz de someter a todas las cosas para S. Yo saba que l dise los mundos,
+capaz de someter a todas las cosas para Sí. Yo sabía que Él diseńó los mundos,
 
-y construy los cielos, y gui a las estrellas y que por l todas las cosas
+y construyó los cielos, y guió a las estrellas y que por Él todas las cosas
 
-existen; por tanto, no estoy anonadado aunque contemple las ms grandes
+existen; por tanto, no estoy anonadado aunque contemple las más grandes
 
-maravillas de Su poder. Las primeras palabras del texto, entonces, nos exhortan
+maravillas de Su poder”. Las primeras palabras del texto, entonces, nos exhortan
 
-a la fe y censuran toda estupefaccin incrdula.
+a la fe y censuran toda estupefacción incrédula.
 
-Ahora les pido su atencin a la segunda frase.
+Ahora les pido su atención a la segunda frase.
 
 La hora venidera.
 
-Vendr hora,
+“Vendrá hora”,
 
 dice
 
-Cristo. Yo supongo que l la llama hora para indicar cun cercana est en su
+Cristo. Yo supongo que Él la llama ‘hora’ para indicar cuán cercana está en su
 
-estimacin, puesto que nosotros no comenzamos a mirar la hora exacta de un
+estimación, puesto que nosotros no comenzamos a mirar la hora exacta de un
 
 evento cuando es extremadamente remoto. Un evento que no ha de ocurrir durante
 
-cientos de aos es esperado y notado inicialmente cada ao, y slo cuando
+cientos de ańos es esperado y notado inicialmente cada ańo, y sólo cuando
 
-estamos razonablemente cercanos a l, los hombres hablan de da y del mes, y
+estamos razonablemente cercanos a él, los hombres hablan de día y del mes, y
 
-cuando ya nos estamos aproximando mucho a l es cuando nos fijamos en la hora
+cuando ya nos estamos aproximando mucho a él es cuando nos fijamos en la hora
 
 precisa. Cristo nos da a entender que, ya sea que nosotros lo pensemos o no, el
 
-da de la resurreccin est muy cercano en el pensamiento de Dios; y aunque
+día de la resurrección está muy cercano en el pensamiento de Dios; y aunque
 
-ahora estuviera todava a mil aos de distancia, aun as, para Dios no es sino
+ahora estuviera todavía a mil ańos de distancia, aun así, para Dios no es sino
 
-un da, y l quiere que nos esforcemos a pensar segn el pensamiento de Dios al
+un día, y Él quiere que nos esforcemos a pensar según el pensamiento de Dios al
 
-respecto, sin considerar ningn tiempo como largo, puesto que tratndose del
+respecto, sin considerar ningún tiempo como largo, puesto que tratándose del
 
-tiempo, tiene que ser breve, y as ser considerado por nosotros cuando el
+tiempo, tiene que ser breve, y así será considerado por nosotros cuando el
 
-tiempo haya pasado y el da hubiere llegado. sta es sabidura prctica:
+tiempo haya pasado y el día hubiere llegado. Ésta es sabiduría práctica:
 
 acercar a nosotros lo que es inevitable, y actuar al respecto como si fuese
 
-maana mismo cuando suene la trompeta y seamos juzgados.
+mańana mismo cuando suene la trompeta y seamos juzgados.
 
-Vendr hora, dice el Salvador. l nos ensea
+“Vendrá hora”, dice el Salvador. Él nos enseńa
 
-aqu la certeza de ese juicio. Hay algunos eventos que pudieran darse o no; los
+aquí la certeza de ese juicio. Hay algunos eventos que pudieran darse o no; los
 
 emperadores pueden vivir o morir, sus hijos pueden ascender a sus tronos o el
 
 trono pudiera ser destruido hasta el polvo y esparcido a todos los vientos del
 
-cielo; las dinastas pueden durar o podran marchitarse como la hojas de otoo;
+cielo; las dinastías pueden durar o podrían marchitarse como la hojas de otońo;
 
-los eventos ms grandes que suponemos inevitables podran no ocurrir nunca;
+los eventos más grandes que suponemos inevitables podrían no ocurrir nunca;
 
 otra rueda que no ha sido vista por nosotros en la gran maquinaria de la
 
 Providencia, puede hacer que los eventos den un giro de una manera completa en
 
-relacin a lo que nuestra insignificante sabidura anticipara; pero la hora de
+relación a lo que nuestra insignificante sabiduría anticiparía; pero la hora de
 
-la resurreccin es cierta, sin importar qu otras cosas sean contingentes o
+la resurrección es cierta, sin importar qué otras cosas sean contingentes o
 
-dudosas. Vendr hora; viene con toda seguridad. En el decreto divino este es
+dudosas. ‘Vendrá hora’; viene con toda seguridad. En el decreto divino este es
 
-el da para el que todos los dems das fueron creados; y si fuera posible que
+el día para el que todos los demás días fueron creados; y si fuera posible que
 
-cualquier determinacin del Todopoderoso pudiera ser cambiada, sta no ser
+cualquier determinación del Todopoderoso pudiera ser cambiada, ésta no será
 
-cambiada nunca, por cuanto ha establecido un da en el cual juzgar al mundo
+cambiada nunca, por cuanto “ha establecido un día en el cual juzgará al mundo
 
-con justicia, por aquel varn a quien design, dando fe a todos con haberle
+con justicia, por aquel varón a quien designó, dando fe a todos con haberle
 
-levantado de los muertos. Vendr hora.
+levantado de los muertos”. “Vendrá hora”.
 
-Reflexionen, hermanos mos, que esa hora
+Reflexionen, hermanos míos, que esa hora
 
-sumamente solemne est acercndose a cada instante. Cada segundo la acerca ms.
+sumamente solemne está acercándose a cada instante. Cada segundo la acerca más.
 
-Mientras estn todava sentados en esta casa, siguen siendo conducidos hacia
+Mientras están todavía sentados en esta casa, siguen siendo conducidos hacia
 
-ese gran evento. Como el pndulo de aquel reloj que contina latiendo
+ese gran evento. Como el péndulo de aquel reloj que continúa latiendo
 
-incesantemente como el corazn del tiempo, como la alborada que da lugar a la
+incesantemente como el corazón del tiempo, como la alborada que da lugar a la
 
-sombra de la noche, y como las estaciones que se siguen en constantes ciclos, as
+sombra de la noche, y como las estaciones que se siguen en constantes ciclos, así
 
-somos arrastrados a lo largo del ro del tiempo cada vez ms cerca del ocano
+somos arrastrados a lo largo del río del tiempo cada vez más cerca del océano
 
-de la eternidad. Llevados como sobre las alas de algn poderoso ngel que nunca
+de la eternidad. Llevados como sobre las alas de algún poderoso ángel que nunca
 
 hace una pausa en su vuelo incomparable, prosigo mi viaje hacia el tribunal de
 
 Dios.
 
-Hermanos mos, ustedes son transportados
+Hermanos míos, ustedes son transportados
 
-velozmente en ese mismsimo vuelo. Entonces, miren a la resurreccin como algo
+velozmente en ese mismísimo vuelo. Entonces, miren a la resurrección como algo
 
-que siempre est aproximndose, acercndose silenciosamente ms y ms en cada
+que siempre está aproximándose, acercándose silenciosamente más y más en cada
 
-hora transcurrida. Tales contemplaciones sern de un servicio supremo para
+hora transcurrida. Tales contemplaciones serán de un servicio supremo para
 
 ustedes.
 
-Las palabras de nuestro Seor se leen como si la
+Las palabras de nuestro Seńor se leen como si la
 
-hora especial de la que habl sumiera completamente en la sombra a todos los
+hora especial de la que habló sumiera completamente en la sombra a todos los
 
-dems eventos; como si la hora, esa hora especial, la ltima hora, LA hora
+demás eventos; como si la hora, esa hora especial, la última hora, LA hora
 
 par excellence (por excelencia),
 
 la hora
 
-maestra, la hora regia, fuera, de todas las horas, la nica hora venidera digna
+maestra, la hora regia, fuera, de todas las horas, la única hora venidera digna
 
-de mencin, por ser inevitable e importante. Como la vara de Aarn, la hora del
+de mención, por ser inevitable e importante. Como la vara de Aarón, la hora del
 
-juicio se traga a todas las dems horas.
+juicio se traga a todas las demás horas.
 
-Omos acerca de horas que han sido grandes para el
+Oímos acerca de horas que han sido grandes para el
 
-destino de las naciones, de horas en que el bienestar de millones se cimbr
+destino de las naciones, de horas en que el bienestar de millones se cimbró
 
 sobre la balanza, de horas en que los dados deben ser echados para paz o para guerra,
 
-de horas que han sido llamadas crisis de la historia; y somos propensos a
+de horas que han sido llamadas ‘crisis de la historia’; y somos propensos a
 
-pensar que perodos as ocurren en la historia del mundo: pero aqu est la
+pensar que períodos así ocurren en la historia del mundo: pero aquí está la
 
-crisis culminante sobre todas las dems, aqu est la hora de hierro de la
+crisis culminante sobre todas las demás, aquí está la hora de hierro de la
 
 severidad, la hora de oro de la verdad, la hora de claro zafiro de las
 
-manifestaciones. En aquella hora augusta habr proclamaciones de las decisiones
+manifestaciones. En aquella hora augusta habrá proclamaciones de las decisiones
 
-imparciales del Seor Cristo con relacin a todas las almas y cuerpos de los
+imparciales del Seńor Cristo con relación a todas las almas y cuerpos de los
 
-hombres. Oh, qu hora es sta que est llegando aprisa!
+hombres. ˇOh, qué hora es ésta que está llegando aprisa!
 
 Mis queridos hermanos, de vez en cuando ambiciono
 
 la lengua de los seres elocuentes, y ahora lo hago porque quisiera poder
 
-encender sus imaginaciones e inflamar sus corazones sobre un tema como ste;
+encender sus imaginaciones e inflamar sus corazones sobre un tema como éste;
 
-pero permtanme suplicarles que me ayuden ahora por un instante, y puesto que
+pero permítanme suplicarles que me ayuden ahora por un instante, y puesto que
 
-esta hora viene, que procuren pensar que est muy, muy cerca.
+esta hora viene, que procuren pensar que está muy, muy cerca.
 
-Supongan que viniera
+ˇSupongan que viniera
 
 ahora,
 
-mientras nos encontramos reunidos aqu; supongan que ahora
+mientras nos encontramos reunidos aquí; supongan que ahora
 
 mismo los muertos resucitaran, que en un instante esta asamblea se transformara
 
-en una asamblea infinitamente ms grande, y que ningn ojo se posara en el
+en una asamblea infinitamente más grande, y que ningún ojo se posara en el
 
-olvidado predicador, y ms bien que todos los ojos se fijaran en el grandioso
+olvidado predicador, y más bien que todos los ojos se fijaran en el grandioso
 
 Juez que desciende, sentado en majestad sobre Su gran trono blanco; yo les
 
 ruego que consideren como si la cortina hubiere sido corrida en este instante;
 
-anticipen la sentencia que ser dictada para ustedes procedente del trono de
+anticipen la sentencia que será dictada para ustedes procedente del trono de
 
 justicia; consideren como si en este preciso instante fuera pronunciada la
 
 sentencia para ustedes! Oh, ahora les ruego que se examinen a ustedes mismos
 
-como si los das de prueba hubieren llegado, pues tal examen ser para
+como si los días de prueba hubieren llegado, pues tal examen será para
 
-beneficio de sus almas si son salvos, y podra ser para que despierten sus almas
+beneficio de sus almas si son salvos, y podría ser para que despierten sus almas
 
 si ustedes son inconversos.
 
-Pero debemos proseguir. No os maravillis de
+Pero debemos proseguir. “No os maravilléis de
 
-esto; porque vendr hora cuando todos los que estn en los sepulcros. Noten
+esto; porque vendrá hora cuando todos los que están en los sepulcros”. Noten
 
-sto muy cuidadosamente:
+ésto muy cuidadosamente:
 
-todos los que
+“todos los que
 
-estn en los sepulcros;
+están en los sepulcros”;
 
-esa expresin significa, no nicamente todos
+esa expresión significa, no únicamente todos
 
-aquellos cuyos cuerpos estn realmente en la tumba en este momento, sino todos
+aquellos cuyos cuerpos están realmente en la tumba en este momento, sino todos
 
 lo que fueron enterrados alguna vez aunque pudieran haber sido desenterrados y
 
@@ -582,237 +582,237 @@ cuyos huesos pudieran haberse mezclado con los elementos, o ser esparcidos por
 
 los vientos, o disueltos en las olas o transformados en formas vegetales. Todos
 
-los que han vivido y han muerto, ciertamente, resucitarn. Todos! Calculen,
+los que han vivido y han muerto, ciertamente, resucitarán. ˇTodos! ˇCalculen,
 
-entonces, el nmero incalculable! Cuntas personas vivieron antes del diluvio?
+entonces, el número incalculable! żCuántas personas vivieron antes del diluvio?
 
-Se ha credo, y yo creo que acertadamente, que los habitantes de este mundo
+Se ha creído, y yo creo que acertadamente, que los habitantes de este mundo
 
-fueron ms numerosos en el tiempo del diluvio de lo que probablemente son ahora,
+fueron más numerosos en el tiempo del diluvio de lo que probablemente son ahora,
 
-debido a la enorme longevidad de la vida humana; los nmeros de los hombres no
+debido a la enorme longevidad de la vida humana; los números de los hombres no
 
 eran disminuidos tan terriblemente por la muerte como lo son ahora. Piensen,
 
-por favor, en toda la progenie de Adn desde los tiempos del diluvio en
+por favor, en toda la progenie de Adán desde los tiempos del diluvio en
 
-adelante. De Tarsis a Sinim, los hombres cubran las tierras. Nnive,
+adelante. De Tarsis a Sinim, los hombres cubrían las tierras. Nínive,
 
-Babilonia, Caldea, Persia, Grecia, Roma, todos stos lugares fueron vastos
+Babilonia, Caldea, Persia, Grecia, Roma, todos éstos lugares fueron vastos
 
-imperios de hombres. Quin podra calcular las hordas de partos, escitas y
+imperios de hombres. żQuién podría calcular las hordas de partos, escitas y
 
-trtaros? En cuanto a esos enjambres de godos y hunos y vndalos, ellos fluan
+tártaros? En cuanto a esos enjambres de godos y hunos y vándalos, ellos fluían
 
 continuamente como provenientes de una poblada colmena, en la edad media, y los
 
 francos, sajones y celtas se multiplicaban a su medida. Sin embargo, estas
 
-naciones eran slo tipos de un grupo numeroso de naciones todava ms multitudinario.
+naciones eran sólo tipos de un grupo numeroso de naciones todavía más multitudinario.
 
-Piensen en Etiopa y en todo el continente de frica; recuerden a la India y Japn,
+Piensen en Etiopía y en todo el continente de África; recuerden a la India y Japón,
 
 y la tierra del sol poniente; en todas las tierras, grandes tribus de hombres
 
-han llegado y se han ido a descansar en sus sepulcros. Cuntos millones de
+han llegado y se han ido a descansar en sus sepulcros. ˇCuántos millones de
 
 millones han de yacer en China y en Birmania!
 
-Cuntas innumerables huestes dormitan en la
+ˇCuántas innumerables huestes dormitan en la
 
-tierra de las pirmides y de los sarcfagos de las momias! Quin podra
+tierra de las pirámides y de los sarcófagos de las momias! żQuién podría
 
-competir con el nmero de todos los embalsamados en Egipto en los tiempos
+competir con el número de todos los embalsamados en Egipto en los tiempos
 
-antiguos, tanto grandes como pequeos?
+antiguos, tanto grandes como pequeńos?
 
-Entonces, oigan y crean: de todos los que jams
+Entonces, oigan y crean: de todos los que jamás
 
-han vivido nacidos de mujer, ni uno solo quedar en su tumba; todos, todos
+han vivido nacidos de mujer, ni uno solo quedará en su tumba; todos, todos
 
-resucitarn. Muy bien podra yo decir igual que lo hizo el salmista sobre otro
+resucitarán. Muy bien podría yo decir igual que lo hizo el salmista sobre otro
 
-asunto: Tal conocimiento es demasiado maravilloso para m; alto es, no lo
+asunto: “Tal conocimiento es demasiado maravilloso para mí; alto es, no lo
 
-puedo comprender. Cmo ha marcado Dios todos estos cuerpos, cmo ha rastreado
+puedo comprender”. żCómo ha marcado Dios todos estos cuerpos, cómo ha rastreado
 
-la forma de cada estructura corporal? Cmo podr Jesucristo resucitarlos a
+la forma de cada estructura corporal? żCómo podrá Jesucristo resucitarlos a
 
-todos ellos? No lo s, pero lo har, pues eso es lo que declara y eso es lo que
+todos ellos? No lo sé, pero lo hará, pues eso es lo que declara y eso es lo que
 
-Dios ha resuelto. Todos los que estn en los sepulcros oirn su voz. Todos
+Dios ha resuelto. “Todos los que están en los sepulcros oirán su voz”. Todos
 
-los justos, todos los impos, todos los que han sido engullidos por el mar,
+los justos, todos los impíos, todos los que han sido engullidos por el mar,
 
 todos los que dormitan en el regazo de la tierra; todos los grandes, todas las
 
 multitudes de los hijos del arduo trabajo; todos los sabios y todos los necios,
 
-todos los bienamados y todos los despreciados; ni un solo individuo ser
+todos los bienamados y todos los despreciados; ni un solo individuo será
 
 omitido.
 
 Mi querido amigo, lo mejor para ti es considerar
 
-el asunto bajo una luz ms personal;
+el asunto bajo una luz más personal;
 
-t
+tú
 
 no
 
-sers olvidado; tu espritu separado tendr su lugar sealado, y ese cuerpo que
+serás olvidado; tu espíritu separado tendrá su lugar seńalado, y ese cuerpo que
 
-una vez lo contuvo, tendr su vigilante que lo cuide, hasta que por el poder de
+una vez lo contuvo, tendrá su vigilante que lo cuide, hasta que por el poder de
 
-Dios sea restaurado de nuevo a tu espritu, al sonido de la ltima trompeta.
+Dios sea restaurado de nuevo a tu espíritu, al sonido de la última trompeta.
 
-T, mi oyente, resucitars. Tan ciertamente como
+Tú, mi oyente, resucitarás. Tan ciertamente como
 
-ests sentado aqu esta maana, t estars delante del Hijo del Hombre que una
+estás sentado aquí esta mańana, tú estarás delante del Hijo del Hombre que una
 
-vez fue crucificado. No es posible que seas olvidado; no se permitir que te
+vez fue crucificado. No es posible que seas olvidado; no se permitirá que te
 
-pudras hasta llegar a la aniquilacin, para ser dejado en las tinieblas de la
+pudras hasta llegar a la aniquilación, para ser dejado en las tinieblas de la
 
-oscuridad; has de resucitar, resucitars; todos y cada uno lo haremos sin una
+oscuridad; has de resucitar, resucitarás; todos y cada uno lo haremos sin una
 
-solitaria excepcin. Es una maravillosa verdad y, sin embargo, no podemos
+solitaria excepción. Es una maravillosa verdad y, sin embargo, no podemos
 
-maravillarnos como para dudar de ella, aunque s podemos maravillarnos de ella
+maravillarnos como para dudar de ella, aunque sí podemos maravillarnos de ella
 
-y admirar al Seor que har que esto suceda.
+y admirar al Seńor que hará que esto suceda.
 
-Prosigamos. Todos los que estn en los
+Prosigamos. “Todos los que están en los
 
 sepulcros
 
-oirn su voz.
+oirán su voz”.
 
-Or!
+ˇOír!
 
-Vamos, el odo ha desaparecido! Hace mil aos un hombre fue enterrado, y su
+ˇVamos, el oído ha desaparecido! Hace mil ańos un hombre fue enterrado, y su
 
-odo no queda ni la ms mnima reliquia de su odo-
+oído –no queda ni la más mínima reliquia de su oído-
 
 ha
 
-desaparecido por completo; podr or jams ese odo? S, puesto que Aquel que
+desaparecido por completo; żpodrá oír jamás ese oído? Sí, puesto que Aquel que
 
-lo hizo or la primera vez, obr entonces un portento tan grande como cuando lo
+lo hizo oír la primera vez, obró entonces un portento tan grande como cuando lo
 
-haga or una segunda vez. Se necesitaba un Dios para hacer el odo que oye de
+haga oír una segunda vez. Se necesitaba un Dios para hacer el oído que oye de
 
-un beb recin nacido; no se necesitar ms para renovar el odo que oiga la
+un bebé recién nacido; no se necesitará más para renovar el oído que oiga la
 
-segunda vez. S, oir el odo perdido en el silencio por tan largo tiempo!
+segunda vez. ˇSí, oirá el oído perdido en el silencio por tan largo tiempo!
 
-Y cul ser el sonido que despertar a ese odo
+Y żcuál será el sonido que despertará a ese oído
 
-recin despertado y recin diseado? Ser la voz del Hijo de Dios; la voz del
+recién despertado y recién diseńado? Será la voz del Hijo de Dios; la voz del
 
-propio Jesucristo. No es maravilloso que esa misma voz de Jess est ahora
+propio Jesucristo. żNo es maravilloso que esa misma voz de Jesús esté ahora
 
 resonando en este preciso lugar, y ha resonado miles de veces, y que hay hombres
 
-que tienen odos que jams han odo antes esa voz?; sin embargo, cuando hable
+que tienen oídos que jamás han oído antes esa voz?; sin embargo, cuando hable
 
-esa voz a los hombres que no tienen odos, la oirn y se levantarn a vida.
+esa voz a los hombres que no tienen oídos, la oirán y se levantarán a vida.
 
-Cun sordos han de ser quienes son ms sordos que los muertos! Cul no ser
+ˇCuán sordos han de ser quienes son más sordos que los muertos! ˇCuál no será
 
-la culpa de quienes tienen odos para or, pero no oyen! Y cuando la voz de
+la culpa de quienes tienen oídos para oír, pero no oyen! Y cuando la voz de
 
-Cristo resuena a travs del edificio, una y otra vez, en la predicacin del
+Cristo resuena a través del edificio, una y otra vez, en la predicación del
 
-Evangelio, no son ms conmovidos por esa voz que las tejas que los cubren de la
+Evangelio, no son más conmovidos por esa voz que las tejas que los cubren de la
 
-lluvia. Cun muertos, digo, han de estar aqullos que no son conmovidos por la
+lluvia. ˇCuán muertos, digo, han de estar aquéllos que no son conmovidos por la
 
-palabra que despierta incluso a los muertos que estn en sus tumbas, que han
+palabra que despierta incluso a los muertos que están en sus tumbas, que han
 
-yacido ah estos mil aos!
+yacido ahí estos mil ańos!
 
-Ah, hermanos mos, a la vez que sto nos ensea
+Ah, hermanos míos, a la vez que ésto nos enseńa
 
-la impasibilidad de la naturaleza humana y cun depravado es el corazn,
+la impasibilidad de la naturaleza humana y cuán depravado es el corazón,
 
-tambin les recuerda a ustedes, que son negligentes, que no hay escapatoria
+también les recuerda a ustedes, que son negligentes, que no hay escapatoria
 
-para ustedes; si no oyen la voz de Jess ahora,
+para ustedes; si no oyen la voz de Jesús ahora,
 
-tendrn que
+tendrán que
 
-orla entonces. Podran insertar esos dedos en sus
+oírla entonces. Podrían insertar esos dedos en sus
 
-odos hoy, pero no podrn hacer eso en el da de la ltima trompeta que
+oídos hoy, pero no podrán hacer eso en el día de la última trompeta que
 
-entonces tendrn que or. Oh, que oyeran ahora! Tienen que or las citaciones
+entonces tendrán que oír. ˇOh, que oyeran ahora! Tienen que oír las citaciones
 
-a juicio; que Dios les conceda poder or las citaciones a la misericordia, y
+a juicio; que Dios les conceda poder oír las citaciones a la misericordia, y
 
-que se vuelvan obedientes a ellas y vivan. Todos los que estn en los
+que se vuelvan obedientes a ellas y vivan. “Todos los que están en los
 
 sepulcros
 
-oirn
+oirán
 
-su voz; sin importar
+su voz”; sin importar
 
-quines hubieran sido, estarn sujetos al poder de Su omnipotente mandato, y se
+quiénes hubieran sido, estarán sujetos al poder de Su omnipotente mandato, y se
 
-presentarn delante de Su soberano tribunal.
+presentarán delante de Su soberano tribunal.
 
 Noten las palabras que siguen,
 
-y saldrn.
+“y saldrán”.
 
 Es decir, por supuesto, que
 
-sus cuerpos saldrn del sepulcro, fuera de la tierra, o del agua, o del aire, o
+sus cuerpos saldrán del sepulcro, fuera de la tierra, o del agua, o del aire, o
 
-de cualquier otra parte en que estn esos cuerpos. Pero yo creo que estas
+de cualquier otra parte en que estén esos cuerpos. Pero yo creo que estas
 
-palabras: y saldrn, significan algo ms que eso. Parecieran implicar
+palabras: “y saldrán”, significan algo más que eso. Parecieran implicar
 
-manifestacin, como si todo el tiempo los hombres hubieran estado aqu, y
+‘manifestación’, como si todo el tiempo los hombres hubieran estado aquí, y
 
-mientras estaban en sus tumbas estaban escondidos y ocultos, pero as como la voz
+mientras estaban en sus tumbas estaban escondidos y ocultos, pero así como la voz
 
-de Dios en el trueno desnuda los bosques y desgaja las encinas, as tambin la
+de Dios en el trueno desnuda los bosques y desgaja las encinas, así también la
 
-voz de Dios en la resurreccin desnudar los secretos de los hombres, y los
+voz de Dios en la resurrección desnudará los secretos de los hombres, y los
 
-har sacar su ms verdadero yo a la luz, para ser revelado a todos. El
+hará sacar su más verdadero ‘yo’ a la luz, para ser revelado a todos. El
 
-hipcrita, siendo como es un villano enmascarado, no es descubierto ahora, pero
+hipócrita, siendo como es un villano enmascarado, no es descubierto ahora, pero
 
-cuando la voz de Cristo resuene, saldr en un sentido que ser horrible para
+cuando la voz de Cristo resuene, saldrá en un sentido que será horrible para
 
-l, privado de todos los ornamentos de su disfraz y con la mscara de su
+él, privado de todos los ornamentos de su disfraz y con la máscara de su
 
-profesin destrozada, estar delante de los hombres y de los ngeles con la
+profesión destrozada, estará delante de los hombres y de los ángeles con la
 
 lepra sobre su frente, siendo objeto de una mofa universal, aborrecido por Dios
 
 y despreciado por los hombres.
 
-Ah!, queridos oyentes, estn listos para salir
+ˇAh!, queridos oyentes, żestán listos para salir
 
-incluso ahora? Estaran dispuestos a que se leyeran sus corazones? Los
+incluso ahora? żEstarían dispuestos a que se leyeran sus corazones? żLos
 
-colgaran de sus mangas para que todos los vieran? Acaso no hay mucho en
+colgarían de sus mangas para que todos los vieran? żAcaso no hay mucho en
 
-ustedes que no podra soportar la luz del sol? Cunto ms sera incapaz de
+ustedes que no podría soportar la luz del sol? ˇCuánto más sería incapaz de
 
 soportar la luz de Aquel cuyos ojos son una llama de fuego, que lo ven todo y
 
-lo prueban todo por un juicio que no puede errar! Su salida en aquel da no
+lo prueban todo por un juicio que no puede errar! Su salida en aquel día no
 
-slo ser una reaparicin desde el centro de las sombras del sepulcro, sino una
+sólo será una reaparición desde el centro de las sombras del sepulcro, sino una
 
-salida a la luz de la verdad del cielo que los revelar con claridad meridiana.
+salida a la luz de la verdad del cielo que los revelará con claridad meridiana.
 
-Y luego el texto procede a decir que saldrn
+Y luego el texto procede a decir que saldrán
 
 como
 
@@ -822,57 +822,57 @@ y los
 
 que hicieron lo malo. De lo cual hemos de deducir la siguiente verdad: que la
 
-muerte no produce ningn cambio en el carcter del hombre y que despus de la
+muerte no produce ningún cambio en el carácter del hombre y que después de la
 
-muerte no hemos de esperar que ocurran mejoras. Aqul que es santo es santo
+muerte no hemos de esperar que ocurran mejoras. Aquél que es santo es santo
 
-todava, y el que es inmundo es inmundo todava. Cuando fueron colocados en la
+todavía, y el que es inmundo es inmundo todavía. Cuando fueron colocados en la
 
-tumba eran hombres que haban hecho lo bueno, y resucitan como hombres que hicieron
+tumba eran hombres que habían hecho lo bueno, y resucitan como hombres que hicieron
 
-lo bueno; o cuando fueron enterrados, eran hombres que haban hecho lo malo, y
+lo bueno; o cuando fueron enterrados, eran hombres que habían hecho lo malo, y
 
 resucitan como quienes hicieron lo malo. Por tanto, no esperen ninguna
 
-oportunidad para el arrepentimiento despus de esta vida, ninguna oportunidad
+oportunidad para el arrepentimiento después de esta vida, ninguna oportunidad
 
-de reforma, ninguna proclamacin adicional de misericordia o algunas puertas de
+de reforma, ninguna proclamación adicional de misericordia o algunas puertas de
 
 esperanza. Es ahora o nunca en cuanto a ustedes, recuerden eso.
 
-Noten, adems, que
+Noten, además, que
 
-nicamente dos tipos de personas resucitan,
+únicamente dos tipos de personas resucitan,
 
-pues, en verdad, slo
+pues, en verdad, sólo
 
-hay dos tipos de personas que vivieron jams, y, por tanto, dos tipos que son
+hay dos tipos de personas que vivieron jamás, y, por tanto, dos tipos que son
 
 enterrados y dos tipos que resucitan: quienes hicieron lo bueno y quienes
 
-hicieron lo malo. Dnde estaban aqullos de carcter combinado, cuya conducta
+hicieron lo malo. żDónde estaban aquéllos de carácter combinado, cuya conducta
 
-no era ni buena ni mala, o era de ambas formas? No existan esos seres. T
+no era ni buena ni mala, o era de ambas formas? No existían esos seres. Tú
 
-dices: no hacen los buenos el mal? No podran algunos que son malos hacer
+dices: żno hacen los buenos el mal? żNo podrían algunos que son malos hacer
 
-algn bien?
+algún bien?
 
 Yo respondo: quien hace el bien es un hombre que
 
-habiendo credo en Jesucristo, y habiendo recibido la nueva vida, hace el bien
+habiendo creído en Jesucristo, y habiendo recibido la nueva vida, hace el bien
 
-en su nueva naturaleza y con su espritu nacido de nuevo, con toda la
+en su nueva naturaleza y con su espíritu nacido de nuevo, con toda la
 
-intensidad de su corazn. En cuanto a sus pecados y a sus debilidades en los
+intensidad de su corazón. En cuanto a sus pecados y a sus debilidades en los
 
 que
 
 cae
 
-en razn de su vieja naturaleza, siendo stos
+en razón de su vieja naturaleza, siendo éstos
 
-lavados por la sangre preciosa de Jess, no son mencionados en el da de
+lavados por la sangre preciosa de Jesús, no son mencionados en el día de
 
 cuentas, y resucita como un hombre que ha hecho lo bueno; lo bueno que hizo es
 
@@ -880,41 +880,41 @@ recordado, pero lo malo es limpiado por completo.
 
 En cuanto a los malos, de quienes se afirma que
 
-pueden hacer algo bueno, nosotros respondemos: ellos podran hacer lo bueno
+pueden hacer algo bueno, nosotros respondemos: ellos podrían hacer lo bueno
 
-segn el juicio de sus semejantes, y para con sus semejantes mortales, pero de
+según el juicio de sus semejantes, y para con sus semejantes mortales, pero de
 
-un corazn malo no puede proceder lo bueno para con Dios. Si la fuente est
+un corazón malo no puede proceder lo bueno para con Dios. Si la fuente está
 
-contaminada, cada torrente tiene que estar tambin contaminado. Lo bueno es
+contaminada, cada torrente tiene que estar también contaminado. Lo ‘bueno’ es
 
 una palabra que puede ser medida de acuerdo a quienes la usan. Lo bueno del
 
-hombre malo es bueno para ti, su hijo, su esposa, su amigo, pero a l Dios no
+hombre malo es bueno para ti, su hijo, su esposa, su amigo, pero a él Dios no
 
 le importa, y no tiene ninguna reverencia y ninguna estima para el grandioso
 
 Legislador.
 
-Por tanto, aquello que podra ser bueno para ti
+Por tanto, aquello que podría ser bueno para ti
 
-podra ser malo para Dios, porque no fue realizado por algn motivo recto, e
+podría ser malo para Dios, porque no fue realizado por algún motivo recto, e
 
-incluso fue hecho tal vez por un motivo errneo; de tal manera que el hombre
+incluso fue hecho tal vez por un motivo erróneo; de tal manera que el hombre
 
-est deshonrando a Dios mientras ayuda a su amigo. Dios juzgar a los hombres
+está deshonrando a Dios mientras ayuda a su amigo. Dios juzgará a los hombres
 
-por sus obras, pero slo habr dos tipos de personas, los buenos y los malos; y
+por sus obras, pero sólo habrá dos tipos de personas, los buenos y los malos; y
 
-esto hace que sea una solemne tarea para cada hombre conocer dnde estar, y
+esto hace que sea una solemne tarea para cada hombre conocer dónde estará, y
 
-cul ha sido el tenor general de su vida, y cul es el verdadero veredicto
+cuál ha sido el tenor general de su vida, y cuál es el verdadero veredicto
 
 sobre todo ello.
 
-Oh, seores, hay algunos de ustedes que, con
+Oh, seńores, hay algunos de ustedes que, con
 
-todas sus excelencias y moralidades, no han hecho nunca lo bueno segn mide
+todas sus excelencias y moralidades, no han hecho nunca lo bueno según mide
 
 Dios lo bueno, pues nunca han pensado en Dios para honrarlo, nunca han confesado
 
@@ -922,55 +922,55 @@ que le han deshonrado; de hecho, han permanecido altivamente indiferentes al
 
 juicio de Dios sobre ustedes como pecadores, y se han erigido como seres que
 
-son todo lo que tienen que ser. Cmo podra ser posible, mientras descreen de
+son todo lo que tienen que ser. żCómo podría ser posible, mientras descreen de
 
 su Dios, que pudieran hacer algo que le agrade? Su vida entera es mala a los
 
-ojos de Dios; es nicamente mala.
+ojos de Dios; es únicamente mala.
 
 Y en cuanto a ustedes que temen Su nombre o que
 
-confan que lo hacen, pongan mucha atencin a sus acciones, se los ruego, viendo
+confían que lo hacen, pongan mucha atención a sus acciones, se los ruego, viendo
 
-que slo hay quienes hacen lo bueno, y quienes hacen lo malo. Aclrenle muy
+que sólo hay quienes hacen lo bueno, y quienes hacen lo malo. Aclárenle muy
 
-bien a su conciencia, aclrenle muy bien al juicio de aquellos que los vigilan
+bien a su conciencia, aclárenle muy bien al juicio de aquellos que los vigilan
 
-(aunque sto es de menor importancia), y aclrenlo muy bien delante de Dios,
+(aunque ésto es de menor importancia), y aclárenlo muy bien delante de Dios,
 
-que sus obras son buenas, que su corazn es recto porque su conducta exterior
+que sus obras son buenas, que su corazón es recto porque su conducta exterior
 
-est conformada a la ley de Dios.
+está conformada a la ley de Dios.
 
-No los retendr por ms tiempo en la exposicin,
+No los retendré por más tiempo en la exposición,
 
-excepto para notar que el modo de juzgar es notable. Quienes escudrian las
+excepto para notar que el modo de juzgar es notable. Quienes escudrińan las
 
-Escrituras saben que el modo de juzgar en el ltimo da ser enteramente de
+Escrituras saben que el modo de juzgar en el último día será enteramente de
 
-acuerdo a las obras. Sern entonces salvados los hombres por sus obras? No, de
+acuerdo a las obras. żSerán entonces salvados los hombres por sus obras? No, de
 
-ninguna manera. La salvacin es en cada caso la obra y el don de la gracia.
+ninguna manera. La salvación es en cada caso la obra y el don de la gracia.
 
-Pero el juicio ser guiado por nuestras obras. Es asunto de justicia que
+Pero el juicio será guiado por nuestras obras. Es asunto de justicia que
 
-aqullos que habrn de ser juzgados sean todos juzgados de acuerdo a la misma
+aquéllos que habrán de ser juzgados sean todos juzgados de acuerdo a la misma
 
-regla. Ahora, ninguna regla puede ser comn para los santos y para los
+regla. Ahora, ninguna regla puede ser común para los santos y para los
 
 pecadores, excepto la regla de su conducta moral, y por esta regla todos los
 
-hombres habrn de ser juzgados.
+hombres habrán de ser juzgados.
 
-Si Dios no encuentra en ti, amigo mo, ninguna
+Si Dios no encuentra en ti, amigo mío, ninguna
 
-santidad de vida en absoluto, no te aceptar. Qu hay, -dir alguien- del
+santidad de vida en absoluto, no te aceptará. “żQué hay”, -dirá alguien- “del
 
-ladrn moribundo entonces? Haba la justicia de la fe en l, y produjo todos
+ladrón moribundo entonces?” Había la justicia de la fe en él, y produjo todos
 
 los actos santos que las circunstancias permitieron; en el preciso momento que
 
-crey en Cristo, confes a Cristo y habl por Cristo, y ese acto solitario est
+creyó en Cristo, confesó a Cristo y habló por Cristo, y ese acto solitario está
 
 como evidencia de que era un amigo de Dios, mientras que todos sus pecados fueron
 
@@ -978,23 +978,23 @@ lavados.
 
 Que Dios les conceda la gracia de confesar sus
 
-pecados, y de creer en Jess, para que toda su transgresin les pueda ser
+pecados, y de creer en Jesús, para que toda su transgresión les pueda ser
 
 perdonada. Tiene que haber alguna evidencia de su fe. Delante de la multitud
 
-congregada de hombres no habr ninguna evidencia de su fe que fuere tomada de
+congregada de hombres no habrá ninguna evidencia de su fe que fuere tomada de
 
-sus sentimientos ntimos, sino que la evidencia ser encontrada en sus acciones
+sus sentimientos íntimos, sino que la evidencia será encontrada en sus acciones
 
-externas. Ser todava: Tuve hambre, y me disteis de comer; tuve sed, y me
+externas. Será todavía: “Tuve hambre, y me disteis de comer; tuve sed, y me
 
 disteis de beber; fui forastero, y me recogisteis; estuve desnudo, y me
 
-cubristeis; enfermo, y me visitasteis; en la crcel, y vinisteis a m. Presten
+cubristeis; enfermo, y me visitasteis; en la cárcel, y vinisteis a mí”. Presten
 
-atencin, entonces, a lo relacionado con la piedad prctica, y aborrezcan toda
+atención, entonces, a lo relacionado con la piedad práctica, y aborrezcan toda
 
-predicacin que quisiera hacer de la santidad de vida algo
+predicación que quisiera hacer de la santidad de vida algo
 
 secundario
 
@@ -1002,61 +1002,61 @@ secundario
 
 Somos justificados por la fe, pero no por una fe muerta; la fe que justifica es
 
-la que produce santidad, sin la cual nadie ver al Seor.
+la que produce santidad, “sin la cual nadie verá al Seńor”.
 
 Vean, entonces, las dos clases en las que son
 
-divididos los hombres, y la severa regla por la cual Dios los juzgar, y
+divididos los hombres, y la severa regla por la cual Dios los juzgará, y
 
-jzguense ustedes mismos para que no sean condenados con los malvados.
+júzguense ustedes mismos para que no sean condenados con los malvados.
 
 Los diferentes destinos de las dos clases son
 
-mencionados en el texto. Una clase resucitar a
+mencionados en el texto. Una clase resucitará a
 
-la resurreccin de vida.
+la resurrección de vida.
 
 Esto no quiere decir una mera existencia;
 
-ambas clases existirn, ambas existirn para siempre, pero vida quiere decir,
+ambas clases existirán, ambas existirán para siempre, pero “vida” quiere decir,
 
 cuando es entendida debidamente, felicidad, poder, actividad, privilegio,
 
-capacidad; de hecho es un trmino tan integral que yo necesitara mucho tiempo
+capacidad; de hecho es un término tan integral que yo necesitaría mucho tiempo
 
-para exponer todos sus significados. Hay una muerte en vida que los impos han
+para exponer todos sus significados. Hay una muerte en vida que los impíos han
 
-de tener, pero la nuestra ser una vida en vida: una verdadera vida; no ser
+de tener, pero la nuestra será una vida en vida: una verdadera vida; no será
 
-simplemente una existencia, sino una existencia en energa, existencia en
+simplemente una existencia, sino una existencia en energía, existencia en
 
-honor, existencia en paz, existencia en bendicin, existencia en perfeccin.
+honor, existencia en paz, existencia en bendición, existencia en perfección.
 
-Esta es la resurreccin para vida.
+Esta es la resurrección para vida.
 
-En cuanto a los impos, hay una resurreccin
+En cuanto a los impíos, hay una resurrección
 
-para condenacin, por la cual sus cuerpos y sus almas caern manifiestamente
+para condenación, por la cual sus cuerpos y sus almas caerán manifiestamente
 
-bajo la condenacin de Dios; para usar la palabra de nuestro Salvador, sern
+bajo la condenación de Dios; para usar la palabra de nuestro Salvador, serán
 
 condenados.
 
-Oh, qu resurreccin!, y,
+ˇOh, qué resurrección!, y,
 
-sin embargo, no podemos escapar de ella si descuidamos la gran salvacin. Si
+sin embargo, no podemos escapar de ella si descuidamos la gran salvación. Si
 
-pudiramos acostarnos y dormir, y nunca despertramos de nuevo, oh, qu
+pudiéramos acostarnos y dormir, y nunca despertáramos de nuevo, ˇoh, qué
 
-bendicin sera para un hombre impo!, si esa tumba pudiera ser lo ltimo de
+bendición sería para un hombre impío!, si esa tumba pudiera ser lo último de
 
-l, y fuera como un perro no se despertara nunca del sueo, qu bendicin
+él, y fuera como un perro no se despertara nunca del sueńo, ˇqué bendición
 
-sera! Pero es una bendicin que no es suya, y no puede serlo nunca. Sus almas
+sería! Pero es una bendición que no es suya, y no puede serlo nunca. Sus almas
 
-han de vivir, y sus cuerpos han de vivir. Oh, temed a aquel, -se los ruego-
+han de vivir, y sus cuerpos han de vivir. “Oh, temed a aquel, -se los ruego-
 
-que puede destruir el alma y el cuerpo en el infierno. S, les digo, temed.
+que puede destruir el alma y el cuerpo en el infierno. Sí, les digo, temed”.
 
 II.
 
@@ -1064,251 +1064,251 @@ Nuestro tiempo casi se ha acabado, pero debo
 
 ocupar los minutos restantes en EXTRAER LECCIONES DEL TEXTO.
 
-La primera, es la leccin de una
+La primera, es la lección de una
 
 reverencia adoradora.
 
 Si es cierto que
 
-todos los muertos habrn de resucitar a la voz de Cristo, entonces, adormosle.
+todos los muertos habrán de resucitar a la voz de Cristo, entonces, adorémosle.
 
-Cun grande Salvador fue el que se desangr en la cruz! Cun gloriosamente es
+ˇCuán grande Salvador fue el que se desangró en la cruz! ˇCuán gloriosamente es
 
-exaltado quien fue despreciado y desechado! Oh, hermanos, si pudiramos
+exaltado quien fue despreciado y desechado! Oh, hermanos, si pudiéramos
 
-alcanzar a ver siquiera las faldas de esta verdad, que l resucitar de sus
+alcanzar a ver siquiera las faldas de esta verdad, que Él resucitará de sus
 
-tumbas a todos los muertos, si comenzramos siquiera a percibir su grandiosidad
+tumbas a todos los muertos, si comenzáramos siquiera a percibir su grandiosidad
 
-de significado, me parece que deberamos caer a los pies del Salvador como lo
+de significado, me parece que deberíamos caer a los pies del Salvador como lo
 
-hizo Juan segn dijo: Ca como muerto a sus pies. Oh, cun asombroso es Tu
+hizo Juan según dijo: “Caí como muerto a sus pies”. ˇOh, cuán asombroso es Tu
 
-poder, mi Seor y mi Dios! Qu homenaje ha de ser rendido a Ti! Salve,
+poder, mi Seńor y mi Dios! ˇQué homenaje ha de ser rendido a Ti! ˇSalve,
 
-Emanuel! T tienes las llaves de la muerte y del infierno. Mi alma te ama y te
+Emanuel! Tú tienes las llaves de la muerte y del infierno. Mi alma te ama y te
 
-adora a Ti, que eres grandioso Prncipe entronizado, Admirable, Consejero, Rey
+adora a Ti, que eres grandioso Príncipe entronizado, Admirable, Consejero, Rey
 
-de reyes y Seor de seores.
+de reyes y Seńor de seńores.
 
-La siguiente leccin es de
+La siguiente lección es de
 
 consuelo
 
-para nuestros espritus heridos en relacin a nuestros
+para nuestros espíritus heridos en relación a nuestros
 
 amigos que han partido. Nunca nos afligimos en cuanto a las almas de los
 
-justos, pues estn para siempre con el Seor. La nica lamentacin que
+justos, pues están para siempre con el Seńor. La única lamentación que
 
 permitimos entre cristianos concierne al cuerpo que es arruinado como una flor
 
-marchita. Cuando leemos, en los funerales, aquel famoso captulo de la epstola
+marchita. Cuando leemos, en los funerales, aquel famoso capítulo de la epístola
 
-a los Corintios, no encontramos en l ningn consuelo para los espritus
+a los Corintios, no encontramos en él ningún consuelo para los espíritus
 
-inmortales, pues no se requiere, pero encontramos mucha consolacin en relacin
+inmortales, pues no se requiere, pero encontramos mucha consolación en relación
 
-a lo que se siembra en deshonra, pero resucitar en gloria. Tus muertos
+a lo que “se siembra en deshonra”, pero “resucitará en gloria”. Tus muertos
 
-vivirn; ese polvo descompuesto vivir otra vez. No llores como si hubieras
+vivirán; ese polvo descompuesto vivirá otra vez. No llores como si hubieras
 
-arrojado tu tesoro al mar, donde no lo podrs encontrar nunca; slo lo has
+arrojado tu tesoro al mar, donde no lo podrás encontrar nunca; sólo lo has
 
-puesto en un atad, desde donde lo recibirs de nuevo ms resplandeciente que
+puesto en un ataúd, desde donde lo recibirás de nuevo más resplandeciente que
 
 antes. Has de mirar de nuevo con tus propios ojos a esos ojos que te han
 
-hablado de amor con tanta frecuencia, pero que ahora estn cerrados en tinieblas
+hablado de amor con tanta frecuencia, pero que ahora están cerrados en tinieblas
 
-sepulcrales. Tu hijo te ver una vez ms; t reconocers a tu hijo; la
+sepulcrales. Tu hijo te verá una vez más; tú reconocerás a tu hijo; la
 
-mismsima forma resucitar. Tu amigo que se ha ido regresar a ti, y habiendo
+mismísima forma resucitará. Tu amigo que se ha ido regresará a ti, y habiendo
 
-amado a su Seor como lo haces t, te regocijars con l en la tierra donde ya
+amado a su Seńor como lo haces tú, te regocijarás con él en la tierra donde ya
 
-no mueren ms. Es slo una breve separacin, pero ser un eterno reencuentro.
+no mueren más. Es sólo una breve separación, pero será un eterno reencuentro.
 
-Para siempre con el Seor, por siempre estaremos tambin los unos con los
+Para siempre con el Seńor, por siempre estaremos también los unos con los
 
-otros. Consolmonos unos a otros, entonces, con estas palabras.
+otros. Consolémonos unos a otros, entonces, con estas palabras.
 
-La ltima leccin es la del
+La última lección es la del
 
 autoexamen.
 
 Si hemos de resucitar, algunos para recibir recompensas
 
-y algunos para recibir castigos, cul ser mi posicin? Cada conciencia debe
+y algunos para recibir castigos, żcuál será mi posición? Cada conciencia debe
 
-preguntarse: Cul ser mi posicin? Cmo se sienten mis oyentes ante la
+preguntarse: “żCuál será mi posición?” żCómo se sienten mis oyentes ante la
 
-perspectiva de resucitar? Les produce ese pensamiento algn rayo de gozo? No
+perspectiva de resucitar? żLes produce ese pensamiento algún rayo de gozo? żNo
 
-les crea un grado de alarma? Si su corazn tiembla ante las noticias, cmo han
+les crea un grado de alarma? Si su corazón tiembla ante las noticias, żcómo han
 
-de soportar cuando el hecho real est ante ustedes, y no simplemente el
+de soportar cuando el hecho real esté ante ustedes, y no simplemente el
 
-pensamiento? Cmo ha sido su vida? Si van a ser juzgados por esa vida, qu ha
+pensamiento? żCómo ha sido su vida? Si van a ser juzgados por esa vida, żqué ha
 
-sido? Cul ha sido el principio prevaleciente hasta ahora? Le has credo a
+sido? żCuál ha sido el principio prevaleciente hasta ahora? żLe has creído a
 
-Dios? Vives por la fe en el Hijo de Dios? S que eres imperfecto, pero, ests
+Dios? żVives por la fe en el Hijo de Dios? Sé que eres imperfecto, pero, żestás
 
-luchando para alcanzar la santidad? Deseas honrar a Dios? Esto gobernar el
+luchando para alcanzar la santidad? żDeseas honrar a Dios? Esto gobernará el
 
-juicio de tu vida; cul fue su propsito, su objetivo, su sentido y su objeto?
+juicio de tu vida; żcuál fue su propósito, su objetivo, su sentido y su objeto?
 
-Ha habido imperfeccin, pero, ha habido sinceridad? Ha demostrado estar en ti
+Ha habido imperfección, pero, żha habido sinceridad? żHa demostrado estar en ti
 
-la gracia divina, esa gracia que lava a los pecadores en la sangre de Cristo, apartndote
+la gracia divina, esa gracia que lava a los pecadores en la sangre de Cristo, apartándote
 
-de los pecados que amabas y guindote a los deberes que una vez descuidaste?
+de los pecados que amabas y guiándote a los deberes que una vez descuidaste?
 
-Tengo que insistir en hacerte estas preguntas; s que son enfadosas para
+Tengo que insistir en hacerte estas preguntas; sé que son enfadosas para
 
-quienes no pueden responderlas cmodamente. S, tengo que volver a hacerles las
+quienes no pueden responderlas cómodamente. Sí, tengo que volver a hacerles las
 
-preguntas. Les suplico, esta maana, que se coloquen en el crisol del
+preguntas. Les suplico, esta mańana, que se coloquen en el crisol del
 
-autoexamen, pues del fuego del refinador no sern capaces de escapar al final.
+autoexamen, pues del fuego del refinador no serán capaces de escapar al final.
 
-Ah, si yo puedo decir: S, mi Dios, con diez mil pecados, y sin embargo, desde
+Ah, si yo puedo decir: “Sí, mi Dios, con diez mil pecados, y sin embargo, desde
 
-el da en que Tu gracia me encontr, he buscado honrarte; oh, feliz, feliz
+el día en que Tu gracia me encontró, he buscado honrarte”; ˇoh, feliz, feliz
 
 pensamiento saber en aquella terrible hora que la sangre me ha lavado, y que la
 
 justicia de Cristo me ha envuelto, y que estoy a salvo! Pero si me veo obligado
 
-a decir: No, hasta este momento no he considerado a Dios; mis acciones no han
+a decir: “No, hasta este momento no he considerado a Dios; mis acciones no han
 
-tenido respeto para l; un sentido de Su majestad nunca me ha constreido a
+tenido respeto para Él; un sentido de Su majestad nunca me ha constreńido a
 
-realizar ni un solo acto, y nunca me impidi cometer ni un solo pecado, oh,
+realizar ni un solo acto, y nunca me impidió cometer ni un solo pecado”, ˇoh,
 
-entonces ya has sido juzgado! Te ruego que tiembles y huyas a l, que puede librarte
+entonces ya has sido juzgado! Te ruego que tiembles y huyas a Él, que puede librarte
 
-de toda iniquidad, y que adems puede presentarte sin mancha delante de la
+de toda iniquidad, y que además puede presentarte sin mancha delante de la
 
-presencia de Su Padre con un grandsimo gozo.
+presencia de Su Padre con un grandísimo gozo.
 
 Te voy a hacer otra pregunta: si no te sientes a
 
-gusto ante el pensamiento de ti mismo, ests muy tranquilo en relacin a la
+gusto ante el pensamiento de ti mismo, żestás muy tranquilo en relación a la
 
-resurreccin de todos los dems? Ests preparado para encontrar delante de
+resurrección de todos los demás? żEstás preparado para encontrar delante de
 
-Dios a aqullos con quienes has pecado entre los hombres? Es una pregunta
+Dios a aquéllos con quienes has pecado entre los hombres? ˇEs una pregunta
 
-digna del pensamiento del pecador, de cul habrn de ser los terrores de los
+digna del pensamiento del pecador, de cuál habrán de ser los terrores de los
 
-hombres y mujeres que tendrn que enfrentarse a los compaeros de sus pecados!
+hombres y mujeres que tendrán que enfrentarse a los compańeros de sus pecados!
 
-No estaba sto en el fondo del deseo de Epuln de que Lzaro fuera enviado
+żNo estaba ésto en el fondo del deseo de Epulón de que Lázaro fuera enviado
 
 otra vez al mundo para advertir a sus cinco hermanos para que no fueran al
 
-lugar de tormento? No sera que tena miedo de verlos ah porque sus
+lugar de tormento? żNo sería que tenía miedo de verlos ahí porque sus
 
-recriminaciones aumentaran su miseria? Ser algo terrible cuando un hombre
+recriminaciones aumentarían su miseria? ˇSerá algo terrible cuando un hombre
 
-que ha sido un villano depravado resucite y confronte a sus vctimas a quienes
+que ha sido un villano depravado resucite y confronte a sus víctimas a quienes
 
-sus lascivias arrastraron al infierno! Cmo se acobardar cuando los oiga
+sus lascivias arrastraron al infierno! ˇCómo se acobardará cuando los oiga
 
-poner a su puerta la condenacin de ellos, y maldecirle por su lascivia! Oh,
+poner a su puerta la condenación de ellos, y maldecirle por su lascivia! “Oh,
 
-ella fue enterrada hace mucho tiempo, dices t, y sigues adelante alegremente
+ella fue enterrada hace mucho tiempo”, dices tú, y sigues adelante alegremente
 
-en tu jbilo; pero ella te ver, y sus ojos sern como los ojos de un basilisco
+en tu júbilo; pero ella te verá, y sus ojos serán como los ojos de un basilisco
 
-cuando transmitan venganza sobre ti a la luz de la eternidad, considerndote
+cuando transmitan venganza sobre ti a la luz de la eternidad, considerándote
 
-haber sido el demonio que la destruy. Que tiemble cada individuo aqu que ha
+haber sido el demonio que la destruyó. Que tiemble cada individuo aquí que ha
 
-pecado contra su semejante; que cada persona presente aqu que ha enviado a
+pecado contra su semejante; que cada persona presente aquí que ha enviado a
 
 alguien al infierno, se arrepienta, no vaya a ser que perezca ahora.
 
-Oh, hombre, tu pecado no est muerto y
+Oh, hombre, tu pecado no está muerto y
 
 enterrado, y el pecador con quien juntaste tus manos en la iniquidad,
 
-resucitar para dar testimonio en tu contra. El crimen, la culpa, el castigo y
+resucitará para dar testimonio en tu contra. El crimen, la culpa, el castigo y
 
-el culpable, resucitarn igualmente, y t vivirs para siempre en el
+el culpable, resucitarán igualmente, y tú vivirás para siempre en el
 
-remordimiento para lamentar el da en que transgrediste de esa manera.
+remordimiento para lamentar el día en que transgrediste de esa manera.
 
-Otra pregunta es que puesto que ser terrible
+Otra pregunta es que puesto que será terrible
 
-para muchos ver resucitar a los muertos, cmo soportarn verle a l, al propio
+para muchos ver resucitar a los muertos, żcómo soportarán verle a Él, al propio
 
-Juez, al Salvador? De todos los hombres que jams han vivido, l es el nico de
+Juez, al Salvador? De todos los hombres que jamás han vivido, Él es el único de
 
-quien verdaderamente tienen que tener miedo, porque es l a quien en este da
+quien verdaderamente tienen que tener miedo, porque es Él a quien en este día
 
-deberan amar ms, pero lo tienen olvidado.
+deberían amar más, pero lo tienen olvidado.
 
-Cuntas veces desde este plpito les he pedido
+ˇCuántas veces desde este púlpito les he pedido
 
-que se entreguen a Jesucristo, y cun frecuentemente le han dado un claro
+que se entreguen a Jesucristo, y cuán frecuentemente le han dado un claro
 
 rechazo! Pudiera ser que algunos no han llegado a hacer eso, pero han pospuesto
 
-su decisin, y han dicho: Cuando tenga oportunidad te llamar. Cuando l
+su decisión, y han dicho: “Cuando tenga oportunidad te llamaré”. Cuando Él
 
-venga, cmo le respondern? Hombre, cmo le responders? Qu excusas encontrarn?
+venga, żcómo le responderán? Hombre, żcómo le responderás? żQué excusas encontrarán?
 
-No queran recibirlo como un Salvador pero habrn de tenerle como su Juez, para
+No querían recibirlo como un Salvador pero habrán de tenerle como su Juez, para
 
-pronunciar su sentencia. Despreciaron Su gracia, pero no podrn escapar de su
+pronunciar su sentencia. Despreciaron Su gracia, pero no podrán escapar de su
 
-ira. Basta que miren a Jess ahora, y encontrarn la salvacin en esa mirada,
+ira. Basta que miren a Jesús ahora, y encontrarán la salvación en esa mirada,
 
-pero al rehusar hacerlo, amontonarn ira para ustedes cuando esa terrible pero
+pero al rehusar hacerlo, amontonarán ira para ustedes cuando esa terrible pero
 
-inevitable mirada sea suya, de la cual dicen los profetas: Todos los linajes
+inevitable mirada sea suya, de la cual dicen los profetas: “Todos los linajes
 
-de la tierra harn lamentacin por l. Oh, entonces, no lo desdeen! No
+de la tierra harán lamentación por él”. ˇOh, entonces, no lo desdeńen! ˇNo
 
 desprecien al Crucificado! Les ruego que no pisoteen Su sangre, sino que vengan
 
-a l, para que cuando lo vean sobre Su trono no tengan miedo.
+a Él, para que cuando lo vean sobre Su trono no tengan miedo.
 
-Amados, podra haber continuado haciendo ms
+Amados, podría haber continuado haciendo más
 
-preguntas, pero voy a concluir con stas dos. Una de las mejores maneras para
+preguntas, pero voy a concluir con éstas dos. Una de las mejores maneras para
 
-saber cul ser nuestra porcin en el futuro, es inquirir cul es nuestra
+saber cuál será nuestra porción en el futuro, es inquirir cuál es nuestra
 
-porcin en el presente. Tienen vida ahora, me refiero a la vida espiritual, a la
+porción en el presente. żTienen vida ahora, me refiero a la vida espiritual, a la
 
-vida que se aflige por el pecado, a la vida que confa en un Salvador? Si es
+vida que se aflige por el pecado, a la vida que confía en un Salvador? Si es
 
-as, tendrn ciertamente la resurreccin para vida. Por otro lado, tienen
+así, tendrán ciertamente la resurrección para vida. Por otro lado, żtienen
 
-condenacin ahora?, pues el que no cree ya es condenado. Eres un incrdulo?
+condenación ahora?, pues el que no cree ya es condenado. żEres un incrédulo?
 
-Entonces t ests condenado ahora, y sufrirs la resurreccin para condenacin.
+Entonces tú estás condenado ahora, y sufrirás la resurrección para condenación.
 
-Cmo podra ser de otra manera? Busquen, entonces, para que puedan poseer la
+żCómo podría ser de otra manera? Busquen, entonces, para que puedan poseer la
 
-vida de Dios ahora por fe, y la tendrn para siempre con fruicin. Escapen de
+vida de Dios ahora por fe, y la tendrán para siempre con fruición. Escapen de
 
-la condenacin ahora, y escaparn de la condenacin en el ms all.
+la condenación ahora, y escaparán de la condenación en el más allá.
 
 Que Dios los bendiga a todos con la abundancia
 
-de Su salvacin, por Cristo nuestro Seor. Amn.
+de Su salvación, por Cristo nuestro Seńor. Amén.
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 Juan 5: 1-29.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 25/Marzo/2010
 

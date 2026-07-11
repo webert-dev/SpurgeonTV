@@ -1,14 +1,14 @@
 # Sermón 2376 | Sermón 2376
 
-El Plpito del
+El Pْlpito del
 
-Tabernculo Metropolitano
+Tabernلculo Metropolitano
 
-Quiero Pero, No
+Quiero… Pero, No
 
 Sea Como Yo Quiero
 
-SERMN PREDICADO
+SERMسN PREDICADO
 
 LA
 
@@ -18,7 +18,7 @@ DEL
 
 DOMINGO 1 DE JULIO DE 1888
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNءCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -26,127 +26,127 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 2 DE
 
 SEPTIEMBRE, 1894.
 
-Padre quiero. Juan 17: 24.
+“Padre… quiero”. Juan 17: 24.
 
-No sea como yo quiero. Mateo 26: 39.
+“No sea como yo quiero”. Mateo 26: 39.
 
-Tenemos aqu dos
+Tenemos aquي dos
 
-oraciones hechas por la misma Persona y, con todo, hay entre ellas el ms
+oraciones hechas por la misma Persona y, con todo, hay entre ellas el mلs
 
-grande contraste posible. Cun diferentes son los hombres en diferentes momentos!
+grande contraste posible. ،Cuلn diferentes son los hombres en diferentes momentos!
 
-Sin embargo Jess fue esencialmente siempre el mismo: el mismo ayer, y hoy, y
+Sin embargo Jesْs fue esencialmente siempre el mismo: “el mismo ayer, y hoy, y
 
-por los siglos. Sin embargo, Su disposicin de nimo y de mente variaba de
+por los siglos”. Sin embargo, Su disposiciَn de لnimo y de mente variaba de
 
-tiempo en tiempo. Pareca apaciblemente feliz cuando or con Sus discpulos
+tiempo en tiempo. Parecيa apaciblemente feliz cuando orَ con Sus discيpulos
 
-diciendo: Padre, aquellos que me has dado, quiero que donde yo estoy, tambin
+diciendo: “Padre, aquellos que me has dado, quiero que donde yo estoy, también
 
-ellos estn conmigo, para que vean mi gloria que me has dado. Pero cuando en
+ellos estén conmigo, para que vean mi gloria que me has dado”. Pero cuando en
 
-Getseman se apart de Sus discpulos y se postr sobre Su rostro y or
+Getsemanي se apartَ de Sus discيpulos y se postrَ sobre Su rostro y orَ
 
-diciendo: Padre mo, si es posible, pase de m esta copa; pero no sea como yo
+diciendo: “Padre mيo, si es posible, pase de mي esta copa; pero no sea como yo
 
-quiero, sino como t, se encontraba sumido en una agona. Quien hizo ambas
+quiero, sino como tْ”, se encontraba sumido en una agonيa. Quien hizo ambas
 
 oraciones es el mismo Hombre, un Hombre inmutable en cuanto a Su esencia, pero
 
-aun as vean cun diferente fue Su condicin mental y cun diferentes fueron
+aun asي vean cuلn diferente fue Su condiciَn mental y cuلn diferentes fueron
 
-las oraciones que ofreci. Hermano, es posible que sigas siendo el mismo
+las oraciones que ofreciَ. Hermano, es posible que sigas siendo el mismo
 
 individuo y que seas un hombre tan bueno cuando gimes delante de Dios como
 
-cuando cantas delante de l. Pudiera haber todava ms gracia en la sumisa
+cuando cantas delante de ةl. Pudiera haber todavيa mلs gracia en la sumisa
 
-oracin No sea como yo quiero que en la triunfante oracin Padre, quiero.
+oraciَn “No sea como yo quiero” que en la triunfante oraciَn “Padre, quiero”.
 
-No juzguen que hubiera cambiado la posicin de ustedes delante de Dios por
+No juzguen que hubiera cambiado la posiciَn de ustedes delante de Dios por
 
-haber sufrido una alteracin respecto a sus sentimientos. Si su Maestro or tan
+haber sufrido una alteraciَn respecto a sus sentimientos. Si su Maestro orَ tan
 
 diferentemente en diferentes momentos, ustedes, que no poseen la plenitud de
 
-gracia que l tena no han de sorprenderse si tienen una gran variedad de
+gracia que ةl tenيa no han de sorprenderse si tienen una gran variedad de
 
 experiencias interiores.
 
-Noten, tambin, que no
+Noten, también, que no
 
-slo se trataba de la misma Persona, sino que l utiliz estas dos expresiones
+sَlo se trataba de la misma Persona, sino que ةl utilizَ estas dos expresiones
 
-casi al mismo tiempo. Yo no s cuntos minutos es mejor que diga minutos en
+casi al mismo tiempo. Yo no sé cuلntos minutos –es mejor que diga minutos en
 
-vez de horas- transcurrieron entre la ltima cena con la maravillosa oracin
+vez de horas- transcurrieron entre la ْltima cena con la maravillosa oraciَn
 
-sumo-sacerdotal, y los agonizantes clamores de Getseman. Yo supongo que slo
+sumo-sacerdotal, y los agonizantes clamores de Getsemanي. Yo supongo que sَlo
 
-se trataba de un breve trayecto de Jerusaln al huerto de olivos y que no
+se trataba de un breve trayecto de Jerusalén al huerto de olivos y que no
 
-tomara mucho tiempo recorrer esa distancia. En un extremo del recorrido Jess
+tomarيa mucho tiempo recorrer esa distancia. En un extremo del recorrido Jesْs
 
-ora diciendo: Padre, quiero, y en el otro extremo del mismo dice: No sea como
+ora diciendo: “Padre, quiero”, y en el otro extremo del mismo dice: “No sea como
 
-yo quiero. De igual manera nosotros podemos experimentar grandes cambios y
+yo quiero”. De igual manera nosotros podemos experimentar grandes cambios y
 
-tener que alterar el tono de nuestras oraciones en unos cuantos minutos. T
+tener que alterar el tono de nuestras oraciones en unos cuantos minutos. Tْ
 
-acabas de orar con una santa confianza; sujetaste con firmeza al ngel del
+acabas de orar con una santa confianza; sujetaste con firmeza al لngel del
 
-pacto y junto con Jacob, el luchador, dijiste: No te dejar, si no me
+pacto y junto con Jacob, el luchador, dijiste: “No te dejaré, si no me
 
-bendices; y sin embargo, dentro de una hora puede ser igualmente apropiado de
+bendices”; y sin embargo, dentro de una hora puede ser igualmente apropiado de
 
-tu parte yacer en el propio polvo y clamar al Seor en agona diciendo:
+tu parte yacer en el propio polvo y clamar al Seٌor en agonيa diciendo:
 
-Perdona mis oraciones, excsame por ser tan osado y yeme ahora cuando clamo a
+“Perdona mis oraciones, excْsame por ser tan osado y َyeme ahora cuando clamo a
 
-Ti y digo: no sea como yo quiero, sino como t.
+Ti y digo: ‘no sea como yo quiero, sino como tْ’”.
 
-Basta con que bendigas a mi corazn desfalleciente
+“Basta con que bendigas a mi corazَn desfalleciente
 
-Con Tu dulce Espritu como su husped;
+Con Tu dulce Espيritu como su huésped;
 
-Mi Dios, dejo en Tus manos todo lo dems;
+Mi Dios, dejo en Tus manos todo lo demلs;
 
-Hgase Tu voluntad!
+‘،Hلgase Tu voluntad!’”
 
-Nunca te avergences por
+Nunca te avergüences por
 
-tener que enmendar tus oraciones. Procura no cometer ningn error si puedes
+tener que enmendar tus oraciones. Procura no cometer ningْn error si puedes
 
-evitarlos pero, si cometes uno, no te avergences de confesarlo y de corregirlo
+evitarlos pero, si cometes uno, no te avergüences de confesarlo y de corregirlo
 
 hasta donde te sea posible. Uno de nuestros frecuentes errores es que nos
 
-sorprende cometer errores. Siempre que alguien dice: Nunca me hubiera imaginado
+sorprende cometer errores. Siempre que alguien dice: “Nunca me hubiera imaginado
 
-que yo podra cometer alguna tontera como esa, muestra que no se conoca
+que yo podrيa cometer alguna tonterيa como esa”, muestra que no se conocيa
 
-realmente, pues si se hubiera conocido, ms bien se habra sorprendido de no
+realmente, pues si se hubiera conocido, mلs bien se habrيa sorprendido de no
 
-hacer algo peor, y se habra maravillado de haber actuado tan sabiamente como
+hacer algo peor, y se habrيa maravillado de haber actuado tan sabiamente como
 
-lo hizo. nicamente la gracia de Dios puede ensearnos cmo hacer para que
+lo hizo. عnicamente la gracia de Dios puede enseٌarnos cَmo hacer para que
 
-nuestras oraciones recorran toda la escala desde la aguda nota: Padre, yeme,
+nuestras oraciones recorran toda la escala desde la aguda nota: “Padre, َyeme,
 
-pues T has dicho: Pide lo que quieras, hasta descender a la profunda,
+pues Tْ has dicho: ‘Pide lo que quieras’, hasta descender a la profunda,
 
-profunda y grave nota: Padre, no sea como yo quiero, sino como T.
+profunda y grave nota: “Padre, no sea como yo quiero, sino como Tْ”.
 
-Debo sealar
+Debo seٌalar
 
-adicionalmente que estas dos oraciones eran igualmente caractersticas de
+adicionalmente que estas dos oraciones eran igualmente caracterيsticas de
 
-Cristo. Pienso que, por Su voz, puedo reconocer a mi Seor en cualquiera de las
+Cristo. Pienso que, por Su voz, puedo reconocer a mi Seٌor en cualquiera de las
 
-dos. Quin sino el eterno Hijo de Dios podra atreverse a decir: Padre, quiero?
+dos. ؟Quién sino el eterno Hijo de Dios podrيa atreverse a decir: “Padre, quiero”?
 
-All habla
+Allي habla
 
 la Deidad
 
@@ -154,15 +154,15 @@ Encarnada
 
 ;
 
-esa es la sublime expresin del bienamado Hijo. Y sin embargo, quin podra
+esa es la sublime expresiَn del bienamado Hijo. Y sin embargo, ؟quién podrيa
 
-decir como l lo dijo: Si es posible, pase de m esta copa; pero no sea como
+decir como ةl lo dijo: “Si es posible, pase de mي esta copa; pero no sea como
 
-yo quiero, sino como t? Tal vez t hayas dicho esas palabras, querido amigo,
+yo quiero, sino como tْ”? Tal vez tْ hayas dicho esas palabras, querido amigo,
 
-pero en tu caso no estaban relacionadas con una copa de afliccin como la que
+pero en tu caso no estaban relacionadas con una copa de aflicciَn como la que
 
-Cristo vaci. En tu copa slo haba unas cuantas gotas de hiel.
+Cristo vaciَ. En tu copa sَlo habيa unas cuantas gotas de hiel. ،
 
 La Suya
 
@@ -170,33 +170,33 @@ estaba llena de amargura,
 
 desde la espuma hasta las heces; toda llena de amargura, y de una amargura tal
 
-que, gracias a Dios, ni t ni yo podremos gustar jams! l vaci esa copa hasta
+que, gracias a Dios, ni tْ ni yo podremos gustar jamلs! ةl vaciَ esa copa hasta
 
 las heces y nosotros no tendremos que beber ni una sola gota de ella; pero fue
 
 acerca de esa copa -y yo detecto la voz del
 
-Hijo de Dios, del Hijo del hombre, en esa breve expresin- que l dijo: No sea
+Hijo de Dios, del Hijo del hombre, en esa breve expresiَn- que ةl dijo: “No sea
 
-como yo quiero, sino como t.
+como yo quiero, sino como tْ”.
 
 Mis dos textos conforman
 
-una extraa pieza musical. Bienaventurados los labios que saben cmo expresar
+una extraٌa pieza musical. Bienaventurados los labios que saben cَmo expresar
 
 la confianza que se eleva hasta la mayor altura a la que podemos llegar con
 
 Cristo y desciende hasta las mayores profundidades a las que podemos llegar con
 
-l, en plena sumisin a la voluntad de Dios. Dice alguien que no puede
+ةl, en plena sumisiَn a la voluntad de Dios. ؟Dice alguien que no puede
 
 entender el contraste entre estas dos oraciones? Querido amigo, debe explicarse
 
-as: hubo una diferencia de posicin en el Suplicante en esas dos ocasiones. La
+asي: hubo una diferencia de posiciَn en el Suplicante en esas dos ocasiones. La
 
-primera oracin, Padre, quiero, es la oracin de nuestro grandioso Sumo
+primera oraciَn, “Padre, quiero”, es la oraciَn de nuestro grandioso Sumo
 
-Sacerdote, vestido con todas Sus vestiduras celestiales, el azul, prpura, el
+Sacerdote, vestido con todas Sus vestiduras celestiales, el azul, pْrpura, el
 
 lino torcido, las granadas, las campanillas de oro y el pectoral con las doce
 
@@ -204,65 +204,65 @@ piedras preciosas con los nombres de Su pueblo escogido. Es nuestro grandioso
 
 Sumo Sacerdote en la gloria de Su oficio y poder majestuosos quien le dice a
 
-Dios: Padre, quiero. El segundo Suplicante no es tanto el Sacerdote como
+Dios: “Padre, quiero”. El segundo Suplicante no es tanto el Sacerdote como
 
-la Vctima.
+la Vيctima.
 
 Nuestro
 
-Seor es visto all atado al altar, a punto de sentir el cuchillo sacrificial,
+Seٌor es visto allي atado al altar, a punto de sentir el cuchillo sacrificial,
 
 a punto de ser consumido por el fuego sacrificial; y lo oyes como si se tratara
 
-de un cordero balando, y la expresin es: No sea como yo quiero, sino como
+de un cordero balando, y la expresiَn es: “No sea como yo quiero, sino como
 
-t. La primera peticin es el lenguaje de Cristo en poder, intercediendo por
+tْ”. La primera peticiَn es el lenguaje de Cristo en poder, intercediendo por
 
-nosotros; la segunda es la expresin de Cristo hecho pecado por nosotros, para
+nosotros; la segunda es la expresiَn de Cristo hecho pecado por nosotros, para
 
-que nosotros fusemos hechos justicia de Dios en l. Esa es la diferencia de
+que nosotros fuésemos hechos justicia de Dios en ةl. Esa es la diferencia de
 
-posicin que explica el contraste en las oraciones.
+posiciَn que explica el contraste en las oraciones.
 
-Djenme decirles tambin
+Déjenme decirles también
 
-que en el objeto de Su splica hay una diferencia que est llena de
+que en el objeto de Su sْplica hay una diferencia que estل llena de
 
-instruccin. En la primera oracin, donde nuestro Seor dice tan
+instrucciَn. En la primera oraciَn, donde nuestro Seٌor dice tan
 
-majestuosamente: Padre, quiero, l est intercediendo por Su pueblo, l est
+majestuosamente: “Padre, quiero”, ةl estل intercediendo por Su pueblo, ةl estل
 
-orando por lo que sabe que es la voluntad del Padre, est oficiando all ante
+orando por lo que sabe que es la voluntad del Padre, estل oficiando allي ante
 
-Dios como el propio portavoz de Dios, y est hablando de algo acerca de lo cual
+Dios como el propio portavoz de Dios, y estل hablando de algo acerca de lo cual
 
-tiene perfecta claridad y seguridad. Cuando ests orando por el pueblo de Dios
+tiene perfecta claridad y seguridad. Cuando estلs orando por el pueblo de Dios
 
-puedes orar muy intrpidamente. Cuando ests intercediendo por la causa de Dios
+puedes orar muy intrépidamente. Cuando estلs intercediendo por la causa de Dios
 
-puedes hablar muy categricamente. Cuando sabes que ests pidiendo lo que ha
+puedes hablar muy categَricamente. Cuando sabes que estلs pidiendo lo que ha
 
 sido prometido definitivamente en las Escrituras como parte del pacto ordenado
 
-en todas las cosas y que ser guardado, puedes pedir sin ninguna vacilacin,
+en todas las cosas y que serل guardado, puedes pedir sin ninguna vacilaciَn,
 
-como lo hizo nuestro Seor. Pero, en el segundo caso, Jess oraba por l mismo:
+como lo hizo nuestro Seٌor. Pero, en el segundo caso, Jesْs oraba por ةl mismo:
 
-Si es posible, pase de m esta copa. Estaba orando por un asunto sobre el
+“Si es posible, pase de mي esta copa”. Estaba orando por un asunto sobre el
 
-cual desconoca, como hombre, la voluntad del Padre, pues dice: Si es
+cual desconocيa, como hombre, la voluntad del Padre, pues dice: “Si es
 
-posible. Hay un si en eso: Si es posible, pase de m esta copa. Siempre
+posible”. Hay un “si” en eso: “Si es posible, pase de mي esta copa”. Siempre
 
-que subas a tu aposento en una agona de angustia y comiences a orar por ti
+que subas a tu aposento en una agonيa de angustia y comiences a orar por ti
 
 mismo y para escapar del sufrimiento si fuese posible, en tales circunstancias siempre
 
-di: Pero no sea como yo quiero, sino como t. Pudiera serte dado en algunas
+di: “Pero no sea como yo quiero, sino como tْ”. Pudiera serte dado en algunas
 
-ocasiones que ores muy intrpidamente aun en un caso como ese; pero, si no te
+ocasiones que ores muy intrépidamente aun en un caso como ese; pero, si no te
 
-es dado, cudate de no presumir. Yo pudiera orar por la salud de mi cuerpo,
+es dado, cuيdate de no presumir. Yo pudiera orar por la salud de mi cuerpo,
 
 pero no con la misma confianza con la que oro pidiendo por la prosperidad de
 
@@ -270,221 +270,221 @@ Sion y la gloria de Dios. Lo que tenga que ver conmigo puedo pedirlo como un
 
 hijo de Dios se lo pide a su Padre; pero tengo que pedirlo sumisamente, dejando
 
-la decisin enteramente en Sus manos, sintiendo que, debido a que es para m
+la decisiَn enteramente en Sus manos, sintiendo que, debido a que es para mي
 
-mismo ms bien que para l, debo decir: Pero no sea como yo quiero, sino como
+mismo mلs bien que para ةl, debo decir: “Pero no sea como yo quiero, sino como
 
-t. Pienso que hay aqu una clara leccin a la que los cristianos deben
+tْ”. Pienso que hay aquي una clara lecciَn a la que los cristianos deben
 
-prestar atencin, y es que si bien estn muy confiados en un tema por el cual
+prestar atenciَn, y es que si bien estلn muy confiados en un tema por el cual
 
-oran, en otro sentido estn igualmente sumisos, pues hay una mezcla celestial
+oran, en otro sentido estلn igualmente sumisos, pues hay una mezcla celestial
 
-en el carcter cristiano tal como la hubo en el carcter de Cristo, una firme
+en el carلcter cristiano tal como la hubo en el carلcter de Cristo, una firme
 
-confianza y, sin embargo, una absoluta sumisin a la voluntad de Dios,
+confianza y, sin embargo, una absoluta sumisiَn a la voluntad de Dios,
 
-independientemente de cul pudiera ser esa voluntad.
+independientemente de cuلl pudiera ser esa voluntad.
 
-Seor, en Tu mano estn mis tiempos;
+“Seٌor, en Tu mano estلn mis tiempos;
 
 Todo lo que mis confiadas esperanzas planearon
 
-Lo abandono a Tu sabidura,
+Lo abandono a Tu sabidurيa,
 
-Y quiero hacer mo Tu propsito.
+Y quiero hacer mيo Tu propَsito”.
 
-Ahora bien, podran
+Ahora bien, podrيan
 
-decir que todo este tiempo slo he estado girando en derredor del texto. Muy
+decir que todo este tiempo sَlo he estado girando en derredor del texto. Muy
 
-bien; pero algunas veces se puede recoger una gran cantidad de instruccin en
+bien; pero algunas veces se puede recoger una gran cantidad de instrucciَn en
 
-derredor del texto. El man caa en derredor del campamento de Israel; quizs
+derredor del texto. El manل caيa en derredor del campamento de Israel; quizلs
 
-haya algo de man en derredor de este texto. Que el Seor nos ayude, a cada
+haya algo de manل en derredor de este texto. ،Que el Seٌor nos ayude, a cada
 
-uno de nosotros, a recoger su porcin!
+uno de nosotros, a recoger su porciَn!
 
 Ahora yo quiero que
 
 ustedes consideren, durante unos cuantos minutos, a este grandioso Suplicante
 
-en los dos estados de nimo en los que or diciendo: Padre, quiero, y No sea
+en los dos estados de لnimo en los que orَ diciendo: “Padre, quiero”, y “No sea
 
-como yo quiero, y que luego los combinen. Primero vamos a mirar a
+como yo quiero”, y que luego los combinen. Primero vamos a mirar a
 
-Jess en el poder de Su intercesin;
+Jesْs en el poder de Su intercesiَn;
 
 en
 
 seguida, vamos a hablar de
 
-Jess en el
+Jesْs en el
 
-poder de Su sumisin;
+poder de Su sumisiَn;
 
 y en tercer lugar, vamos a tratar de
 
 combinar las dos oraciones,
 
-Quiero,
+“Quiero”,
 
-pero, No sea como yo quiero.
+pero, “No sea como yo quiero”.
 
 I.
 
 Primero,
 
-veamos a JESS EN EL PODER DE SU INTERCESIN, diciendo: Padre, quiero.
+veamos a JESعS EN EL PODER DE SU INTERCESIسN, diciendo: “Padre, quiero”.
 
-De dnde le vino ese
+؟De dَnde le vino ese
 
-poder? Quin le capacit para hablar as con Dios, para decirle: Padre,
+poder? ؟Quién le capacitَ para hablar asي con Dios, para decirle: “Padre,
 
-quiero? Primero,
+quiero”? Primero,
 
-Jess or en el poder
+Jesْs orَ en el poder
 
-de Su condicin de Hijo.
+de Su condiciَn de Hijo.
 
 Los hijos pueden decirle a un padre lo que los
 
-extraos no pueden atreverse a decirle; y un Hijo tal como lo era Jess, tan
+extraٌos no pueden atreverse a decirle; y un Hijo tal como lo era Jesْs, tan
 
-cercano al corazn de Su Padre, un Hijo que poda decir: No me ha dejado solo
+cercano al corazَn de Su Padre, un Hijo que podيa decir: “No me ha dejado solo
 
-el Padre, porque yo hago siempre lo que le agrada; un Hijo de quien el Padre
+el Padre, porque yo hago siempre lo que le agrada”; un Hijo de quien el Padre
 
-haba dicho: Este es mi Hijo amado, en quien tengo complacencia, ese Hijo tena
+habيa dicho: “Este es mi Hijo amado, en quien tengo complacencia”, ese Hijo tenيa
 
-el poder con Dios como para ser capaz de decir: Padre, quiero.
+el poder con Dios como para ser capaz de decir: “Padre, quiero”.
 
 En seguida, este poder
 
-provena del
+provenيa del
 
 eterno amor del Padre por
 
-l.
+ةl.
 
-Notaron cmo, en el propio versculo de donde es tomado nuestro texto,
+؟Notaron cَmo, en el propio versيculo de donde es tomado nuestro texto,
 
-Jess le dice a Su Padre: Me has amado desde antes de la fundacin del mundo?
+Jesْs le dice a Su Padre: “Me has amado desde antes de la fundaciَn del mundo”?
 
-Nosotros no podemos concebir cul es el amor del Padre por Cristo Jess, Su
+Nosotros no podemos concebir cuلl es el amor del Padre por Cristo Jesْs, Su
 
-Hijo. Recuerden que son uno en esencia. Dios es uno: Padre, Hijo y Espritu
+Hijo. Recuerden que son uno en esencia. Dios es uno: Padre, Hijo y Espيritu
 
-Santo; y, como el Dios Encarnado, Cristo es indeciblemente amado por el corazn
+Santo; y, como el Dios Encarnado, Cristo es indeciblemente amado por el corazَn
 
-del Padre. No hay nada acerca de l que el Padre desapruebe; no hay nada que
+del Padre. No hay nada acerca de ةl que el Padre desapruebe; no hay nada que
 
-haga falta en l que el Padre deseara ver all. l es el ideal de S mismo de
+haga falta en ةl que el Padre desearيa ver allي. ةl es el ideal de Sي mismo de
 
-Dios: En l habita corporalmente toda la plenitud de
+Dios: “En él habita corporalmente toda la plenitud de
 
 la Deidad
 
-. Alguien que es el
+”. Alguien que es el
 
-objeto del amor eterno de Su Padre es capaz de decir: Padre, quiero.
+objeto del amor eterno de Su Padre es capaz de decir: “Padre, quiero”.
 
 Pero
 
-nuestro Seor Jess bas tambin esta
+nuestro Seٌor Jesْs basَ también esta
 
-oracin en Su obra terminada.
+oraciَn en Su obra terminada.
 
-Les concedo que realmente no haba muerto
+Les concedo que realmente no habيa muerto
 
-todava, pero ante la segura perspectiva de que lo hara, le haba dicho a Su
+todavيa, pero ante la segura perspectiva de que lo harيa, le habيa dicho a Su
 
-Padre: Yo te he glorificado en la tierra; he acabado la obra que me diste que
+Padre: “Yo te he glorificado en la tierra; he acabado la obra que me diste que
 
-hiciese. Ahora l la concluy realmente; fue capaz de decir en el ms pleno
+hiciese”. Ahora ةl la concluyَ realmente; fue capaz de decir en el mلs pleno
 
-sentido: Consumado es, y ascendi para tomar Su lugar en la gloria al lado de
+sentido: “Consumado es”, y ascendiَ para tomar Su lugar en la gloria al lado de
 
-Su Padre. Ustedes recuerdan el argumento con el que Pablo comienza su Epstola
+Su Padre. Ustedes recuerdan el argumento con el que Pablo comienza su Epيstola
 
-a los Hebreos: Dios, habiendo hablado muchas veces y de muchas maneras en otro
+a los Hebreos: “Dios, habiendo hablado muchas veces y de muchas maneras en otro
 
-tiempo a los padres por los profetas, en estos postreros das nos ha hablado
+tiempo a los padres por los profetas, en estos postreros dيas nos ha hablado
 
-por el Hijo, a quien constituy heredero de todo, y por quien asimismo hizo el
+por el Hijo, a quien constituyَ heredero de todo, y por quien asimismo hizo el
 
 universo; el cual, siendo el resplandor de su gloria, y la imagen misma de su
 
 sustancia, y quien sustenta todas las cosas con la palabra de su poder,
 
-habiendo efectuado la purificacin de nuestros pecados por medio de s mismo,
+habiendo efectuado la purificaciَn de nuestros pecados por medio de sي mismo,
 
-se sent a la diestra de
+se sentَ a la diestra de
 
 la
 
 Majestad
 
-en las alturas, hecho tanto superior a los ngeles,
+en las alturas, hecho tanto superior a los لngeles,
 
-cuanto hered ms excelente nombre que ellos. Porque a cul de los ngeles
+cuanto heredَ mلs excelente nombre que ellos. Porque ؟a cuلl de los لngeles
 
-dijo Dios jams: Mi Hijo eres t, Yo te he engendrado hoy, y otra vez: Yo ser
+dijo Dios jamلs: Mi Hijo eres tْ, Yo te he engendrado hoy, y otra vez: Yo seré
 
-a l Padre, y l me ser a m hijo? Cuando el Padre mira a Cristo, ve en l la
+a él Padre, y él me serل a mي hijo?” Cuando el Padre mira a Cristo, ve en ةl la
 
-expiacin cumplida, la satisfaccin presentada, el pecado aniquilado, los
+expiaciَn cumplida, la satisfacciَn presentada, el pecado aniquilado, los
 
-elegidos redimidos, el pacto ratificado y el propsito eterno afirmado sobre
+elegidos redimidos, el pacto ratificado y el propَsito eterno afirmado sobre
 
 fundamentos eternos. Oh amados, como Cristo ha magnificado la ley de Dios y la
 
 ha hecho honorable, y como ha derramado Su alma hasta la muerte, de sobra posee
 
-el poder de decir: Padre, quiero.
+el poder de decir: “Padre, quiero”.
 
-Recuerden, tambin, que
+Recuerden, también, que
 
-Jess posee todava este poder,
+Jesْs posee todavيa este poder,
 
 y lo
 
-posee para ustedes y para m. Oh, mis queridos oyentes, muy bien pueden ir a
+posee para ustedes y para mي. ،Oh, mis queridos oyentes, muy bien pueden ir a
 
 Cristo y aceptarlo como su Mediador e Intercesor, puesto que todo este poder
 
-para decir: Padre, quiero, es depositado en l a propsito a favor de los
+para decir: “Padre, quiero”, es depositado en ةl a propَsito a favor de los
 
-pobres pecadores creyentes que vienen y lo toman para que sea su Salvador! T
+pobres pecadores creyentes que vienen y lo toman para que sea su Salvador! Tْ
 
-dices que no puedes orar. Bien, l s puede, pdele que interceda por ti; y yo
+dices que no puedes orar. Bien, ةl sي puede, pيdele que interceda por ti; y yo
 
 le doy gracias a Dios porque algunas veces, aun cuando no le pedimos que
 
 interceda por nosotros, lo hace de todas maneras, como lo hizo por Pedro,
 
-cuando Satans lo haba pedido, pero Cristo or por l. Pedro desconoca su
+cuando Satanلs lo habيa pedido, pero Cristo orَ por él. Pedro desconocيa su
 
-peligro, pero como el Salvador s lo conoca intercedi por l de inmediato.
+peligro, pero como el Salvador sي lo conocيa intercediَ por él de inmediato.
 
-Qu bendicin es pensar que Cristo est revestido de autoridad y poder divinos
+،Qué bendiciَn es pensar que Cristo estل revestido de autoridad y poder divinos
 
 y que los usa a favor nuestro! Hace bien Toplady en cantar:
 
-Con clamores y lgrimas l present
+“Con clamores y lلgrimas ةl presentَ
 
-Su humilde peticin aqu abajo;
+Su humilde peticiَn aquي abajo;
 
 Pero con autoridad pide ahora
 
 Entronizado en la gloria.
 
-Para todos los que vienen a Dios por l,
+Para todos los que vienen a Dios por ةl,
 
-l solicita la salvacin;
+ةl solicita la salvaciَn;
 
-Seala sus nombres sobre Su pecho,
+Seٌala sus nombres sobre Su pecho,
 
 Y extiende Sus manos heridas.
 
@@ -492,109 +492,109 @@ Su pacto y Su sacrificio
 
 Sancionan Su reclamo;
 
-Padre, Yo quiero que todos Mis santos
+‘Padre, Yo quiero que todos Mis santos
 
-Estn conmigo donde Yo estoy.
+Estén conmigo donde Yo estoy’”.
 
-Adems,
+Ademلs,
 
-ese poder de Cristo pondr a cada creyente
+ese poder de Cristo pondrل a cada creyente
 
 en el cielo.
 
-Noten cmo Cristo dirige toda Su intercesin en ese sentido;
+Noten cَmo Cristo dirige toda Su intercesiَn en ese sentido;
 
-dice: Padre, aquellos que me has dado, quiero que donde yo estoy, tambin
+dice: “Padre, aquellos que me has dado, quiero que donde yo estoy, también
 
-ellos estn conmigo, para que vean mi gloria. El demonio dice que nunca
+ellos estén conmigo, para que vean mi gloria”. El demonio dice que nunca
 
-llegaremos al cielo, pero nosotros recordamos aquella declaracin de Moiss: Te
+llegaremos al cielo, pero nosotros recordamos aquella declaraciَn de Moisés: “Te
 
-mentirn tus enemigos (1), y se encontrar que el archienemigo es un
+mentirلn tus enemigos” (1), y se encontrarل que el archienemigo es un
 
 archimentiroso, pues
 
 la
 
-Oracin
+Oraciَn
 
-del Seor ser oda, y como l intercede pidiendo que
+del Seٌor serل oيda, y como ةl intercede pidiendo que
 
-aquellos que el Padre le dio sean llevados a lo alto para estar con l donde l
+aquellos que el Padre le dio sean llevados a lo alto para estar con ةl donde ةl
 
-est, pueden estar completamente seguros de que todos ellos llegarn a salvo al
+estل, pueden estar completamente seguros de que todos ellos llegarلn a salvo al
 
-cielo; y t, si ests entre aquellos que le son dados a Cristo y puedes
+cielo; y tْ, si estلs entre aquellos que le son dados a Cristo –y puedes
 
-saberlo por tu fe en l- estars en medio de esa bendita compaa.
+saberlo por tu fe en ةl- estarلs en medio de esa bendita compaٌيa.
 
-Habr concluido con este
+Habré concluido con este
 
 primer punto cuando haya dicho esto:
 
 ese
 
-poder que Cristo tena puede ser ganado, en cierta medida, por todo Su pueblo.
+poder que Cristo tenيa puede ser ganado, en cierta medida, por todo Su pueblo.
 
 No
 
-me atrevo a decir, y no lo dira, que cualquiera de nosotros sera capaz jams
+me atrevo a decir, y no lo dirيa, que cualquiera de nosotros serيa capaz jamلs
 
-de expresar las palabras de nuestro Salvador: Padre, quiero; pero s digo
+de expresar las palabras de nuestro Salvador: “Padre, quiero”; pero sي digo
 
 esto: que si permaneces en Cristo, y Sus palabras permanecen en ti, puedes alcanzar
 
-tal poder en la oracin que pedirs todo lo que quieras, y te ser concedido.
+tal poder en la oraciَn que pedirلs todo lo que quieras, y te serل concedido.
 
 Esta no es una promesa para todos ustedes; no, ni siquiera para todos los que
 
-son del pueblo de Dios, sino slo para aquellos entre ustedes que viven
+son del pueblo de Dios, sino sَlo para aquellos entre ustedes que viven
 
-enteramente para Dios y que le sirven con todo su corazn. Mediante una
+enteramente para Dios y que le sirven con todo su corazَn. Mediante una
 
-habitual relacin con Dios pueden alcanzar tal poder con el Altsimo que los
+habitual relaciَn con Dios pueden alcanzar tal poder con el Altيsimo que los
 
-hombres dirn de ustedes lo que solan decir de Lutero: All va un hombre que
+hombres dirلn de ustedes lo que solيan decir de Lutero: “Allي va un hombre que
 
-puede pedirle a Dios lo que quiera, y obtenerlo. Ustedes pueden alcanzar esa
+puede pedirle a Dios lo que quiera, y obtenerlo”. Ustedes pueden alcanzar esa
 
-gloriosa altitud. Oh, yo quisiera que cada uno de nosotros buscara alcanzar
+gloriosa altitud. ،Oh, yo quisiera que cada uno de nosotros buscara alcanzar
 
-esa altura de poder y bendicin! El varn que prevalecer con Dios no es el
+esa altura de poder y bendiciَn! El varَn que prevalecerل con Dios no es el
 
-cristiano dbil, no es el cristiano mundano, ni el que tiene justo la suficiente
+cristiano débil, no es el cristiano mundano, ni el que tiene justo la suficiente
 
-gracia para hacerlo miserable, ni el hombre que slo tiene la suficiente gracia
+gracia para hacerlo miserable, ni el hombre que sَlo tiene la suficiente gracia
 
 para evitar que sea absolutamente inmoral. Ustedes, que son remeros en el
 
 cristianismo que a duras penas se mojan los dedos de sus pies; ustedes, que no
 
-se meten nunca ms all de sus tobillos o de sus rodillas; a ustedes Dios no
+se meten nunca mلs allل de sus tobillos o de sus rodillas; a ustedes Dios no
 
-les conceder nunca este privilegio a menos que se adentren para buscarlo.
+les concederل nunca este privilegio a menos que se adentren para buscarlo.
 
 Lleguen hasta donde las aguas son lo suficientemente profundas para nadar en
 
-ellas y sumergirse. Estn perfectamente consagrados a Dios; entreguen sin
+ellas y sumergirse. Estén perfectamente consagrados a Dios; entreguen sin
 
-reserva su vida entera a Su gloria y entonces podrn obtener algo del poder de
+reserva su vida entera a Su gloria y entonces podrلn obtener algo del poder de
 
-su Seor en la oracin cuando dijo: Padre, quiero.
+su Seٌor en la oraciَn cuando dijo: “Padre, quiero”.
 
 II.
 
 Ahora,
 
-en segundo lugar, les pido amablemente que me acompaen a considerar a JESS EN
+en segundo lugar, les pido amablemente que me acompaٌen a considerar a JESعS EN
 
-EL PODER DE SU SUMISIN. Nuestro segundo texto es una completa sumisin: No
+EL PODER DE SU SUMISIسN. Nuestro segundo texto es una completa sumisiَn: “No
 
-sea como yo quiero.
+sea como yo quiero”.
 
-Esta expresin, No sea
+Esta expresiَn, “No sea
 
-como yo quiero, demostr que
+como yo quiero”, demostrَ que
 
 todas
 
@@ -604,431 +604,431 @@ respecto a esa terrible copa fueron vencidas.
 
 Yo no creo que Cristo tuviera
 
-miedo de morir; lo creen ustedes? Oh, no; muchos de Sus siervos se han redo
+miedo de morir; ؟lo creen ustedes? Oh, no; muchos de Sus siervos se han reيdo
 
-de la muerte; yo estoy seguro de que l no tena miedo de morir; qu era
+de la muerte; yo estoy seguro de que ةl no tenيa miedo de morir; ؟qué era
 
-entonces lo que haca que la copa fuera tan pavorosamente terrible? Jess iba a
+entonces lo que hacيa que la copa fuera tan pavorosamente terrible? Jesْs iba a
 
-ser hecho pecado por nosotros, iba a caer bajo la maldicin por nosotros e iba
+ser hecho pecado por nosotros, iba a caer bajo la maldiciَn por nosotros e iba
 
 a sentir la ira del Padre debido a la culpa humana; Su naturaleza entera, todo
 
-Su ser y no nicamente Su carne, rehua esa terrible prueba. No era un
+Su ser y no ْnicamente Su carne, rehuيa esa terrible prueba. No era un
 
-envilecimiento real el que recaera sobre l, pero pareca que as acontecera
+envilecimiento real el que recaerيa sobre ةl, pero parecيa que asي acontecerيa
 
-y, como hombre, no saba qu deba contener esa copa de ira.
+y, como hombre, no sabيa qué debيa contener esa copa de ira.
 
-Emanuel est sumido en un terrible dolor,
+“Emanuel estل sumido en un terrible dolor,
 
-Imperceptible y desconocido para todos los de aqu abajo,
+Imperceptible y desconocido para todos los de aquي abajo,
 
 Excepto para el Hijo de Dios;
 
 En agonizantes dolores de alma,
 
-Sorbe profundamente el ms amargo ajenjo,
+Sorbe profundamente el mلs amargo ajenjo,
 
-Y suda grandes gotas de sangre.
+Y suda grandes gotas de sangre”.
 
-Despus de permanecer en
+Después de permanecer en
 
-el amor de Dios desde toda la eternidad, l iba a soportar en unas cuantas
+el amor de Dios desde toda la eternidad, ةl iba a soportar en unas cuantas
 
-horas el castigo del pecado del hombre; sin embargo, tena que soportarlo, y
+horas el castigo del pecado del hombre; sin embargo, tenيa que soportarlo, y
 
-por tanto dijo: No sea como yo quiero, sino como t. Se sorprenden de que
+por tanto dijo: “No sea como yo quiero, sino como tْ”. ؟Se sorprenden de que
 
-orara: Si es posible, pase de m esta copa? Ha de ser culpado Cristo por
+orara: “Si es posible, pase de mي esta copa”? ؟Ha de ser culpado Cristo por
 
 estas vacilaciones de la naturaleza? Mis queridos amigos, si hubiese sido un
 
-placer para l y si no hubiese sentido ninguna vacilacin, dnde habra estado
+placer para ةl y si no hubiese sentido ninguna vacilaciَn, ؟dَnde habrيa estado
 
-Su santa valenta? Si no hubiese sido algo horrible y espantoso para l, dnde
+Su santa valentيa? Si no hubiese sido algo horrible y espantoso para ةl, ؟dَnde
 
-habra estado Su sumisin, dnde habra estado el valor que realiz la expiacin?
+habrيa estado Su sumisiَn, dَnde habrيa estado el valor que realizَ la expiaciَn?
 
-Si hubiese sido algo que no poda o no deba rehuir, dnde habra estado el
+Si hubiese sido algo que no podيa o no debيa rehuir, ؟dَnde habrيa estado el
 
 dolor, el ajenjo y la hiel de eso? La copa tiene que ser, en la naturaleza de
 
 las cosas, algo de lo cual quien la soporta tiene que vacilar, o de lo
 
-contrario no habra podido ser suficiente para la redencin de Su pueblo y para
+contrario no habrيa podido ser suficiente para la redenciَn de Su pueblo y para
 
-la vindicacin de la quebrantada ley de Dios. Entonces, era necesario que
+la vindicaciَn de la quebrantada ley de Dios. Entonces, era necesario que
 
-Cristo demostrara, mediante una oracin como esta, que haba vencido todas las
+Cristo demostrara, mediante una oraciَn como esta, que habيa vencido todas las
 
 vacilaciones de Su naturaleza.
 
-No sea como yo quiero,
+“No sea como yo quiero”,
 
-es tambin una evidencia de
+es también una evidencia de
 
 la completa
 
-sumisin de Cristo a la voluntad de Su Padre.
+sumisiَn de Cristo a la voluntad de Su Padre.
 
-Como cordero fue llevado al
+“Como cordero fue llevado al
 
-matadero; y como oveja delante de sus trasquiladores, enmudeci, y no abri su
+matadero; y como oveja delante de sus trasquiladores, enmudeciَ, y no abriَ su
 
-boca. No hay ninguna resistencia, ninguna lucha, l se entrega completamente. Bien
+boca”. No hay ninguna resistencia, ninguna lucha, ةl se entrega completamente. “Bien”
 
-pareciera decirle a Dios- haz lo que quieras conmigo; me someto absolutamente
+–pareciera decirle a Dios- “haz lo que quieras conmigo; me someto absolutamente
 
-a Tu voluntad. No hubo de parte de Cristo ninguna reserva, ningn deseo ni
+a Tu voluntad”. No hubo de parte de Cristo ninguna reserva, ningْn deseo ni
 
-siquiera de hacer una reserva; voy ms adelante, y digo que
+siquiera de hacer una reserva; voy mلs adelante, y digo que
 
-Jess quera lo que Dios quisiera,
+Jesْs querيa lo que Dios quisiera,
 
 y aun
 
-or para que la voluntad de Dios, de la cual Su naturaleza humana al principio
+orَ para que la voluntad de Dios, de la cual Su naturaleza humana al principio
 
-rehua, pudiera ser cumplida. Pero no sea como yo quiero, sino como t.
+rehuيa, pudiera ser cumplida. “Pero no sea como yo quiero, sino como tْ”.
 
 Oh, hermanos y hermanas -pues
 
-tanto unos como otras necesitan esta gracia- pdanle a Dios que les ayude a
+tanto unos como otras necesitan esta gracia- ،pيdanle a Dios que les ayude a
 
-aprender cmo
+aprender cَmo
 
-imitar a su Seor en esta
+imitar a su Seٌor en esta
 
-sumisin!
+sumisiَn!
 
-Se han sometido a la voluntad del Seor? Se estn sometiendo
+؟Se han sometido a la voluntad del Seٌor? ؟Se estلn sometiendo
 
-ahora? No son algunos de ustedes como bueyes que estn desacostumbrados al
+ahora? ؟No son algunos de ustedes como bueyes que estلn desacostumbrados al
 
 yugo? Ustedes saben que hay un texto en el Salmo ciento treinta y uno que dice:
 
-Como un nio
+“Como un niٌo
 
 destetado
 
-est mi
+estل mi
 
-alma. He pensado algunas veces que, para algunos de los hijos del Seor, el
+alma”. He pensado algunas veces que, para algunos de los hijos del Seٌor, el
 
-pasaje tendra que ser ledo, Mi alma es como un nio en el
+pasaje tendrيa que ser leيdo, “Mi alma es como un niٌo en el
 
 destete
 
-, y hay muchos miembros del
+”, y hay muchos miembros del
 
 pueblo de Dios que tardan mucho en ser destetados. No puedes obtener
 
-satisfaccin, ni quietud, ni contento, no es cierto? Puedes entregarte
+satisfacciَn, ni quietud, ni contento, ؟no es cierto? ؟Puedes entregarte
 
-enteramente a Dios para que l haga lo que le agrade contigo? Tienes algn
+enteramente a Dios para que ةl haga lo que le agrade contigo? ؟Tienes algْn
 
-miedo de un tumor o de un cncer? Est ante ti la posibilidad de una operacin
+miedo de un tumor o de un cلncer? ؟Estل ante ti la posibilidad de una operaciَn
 
-dolorosa y peligrosa? Te est yendo mal en el negocio de manera que probablemente
+dolorosa y peligrosa? ؟Te estل yendo mal en el negocio de manera que probablemente
 
-lo pierdas todo? Se est enfermando un amado hijo? Es probable que muera la
+lo pierdas todo? ؟Se estل enfermando un amado hijo? ؟Es probable que muera la
 
-madre? Tendrs que perder tu posicin y reputacin si eres fiel al Seor?
+madre? ؟Tendrلs que perder tu posiciَn y reputaciَn si eres fiel al Seٌor?
 
-Estars expuesto a crueles calumnias? Es probable que seas echado de tu
+؟Estarلs expuesto a crueles calumnias? ؟Es probable que seas echado de tu
 
-empleo si haces lo recto? Vamos, prescindiendo de qu es lo que temas o esperes,
+empleo si haces lo recto? Vamos, prescindiendo de qué es lo que temas o esperes,
 
-puedes darte enteramente a Dios, y decir: Jehov es; haga lo que bien le
+؟puedes darte enteramente a Dios, y decir: “Jehovل es; haga lo que bien le
 
-pareciere? Tu Seor y Maestro lo hizo. l dijo: No sea como yo quiero. Oh,
+pareciere”? Tu Seٌor y Maestro lo hizo. ةl dijo: “No sea como yo quiero”. Oh,
 
-que te ensee este arte divino de la absoluta resignacin al propsito y
+que te enseٌe este arte divino de la absoluta resignaciَn al propَsito y
 
-ordenanza de Dios, hasta que t tambin seas capaz de decir: No sea como yo
+ordenanza de Dios, hasta que tْ también seas capaz de decir: “،No sea como yo
 
-quiero! As, cantars:
+quiero!” Asي, cantarلs:
 
-Yo me someto a Tu voluntad, oh Dios,
+“Yo me someto a Tu voluntad, oh Dios,
 
 Y adoro todos Tus caminos;
 
-Y cada da que viva buscar
+Y cada dيa que viva buscaré
 
-Agradarte ms y ms.
+Agradarte mلs y mلs”.
 
 III.
 
-Habr
+Habré
 
 concluido mi discurso una vez que haya trenzado un poco estos dos dichos;
 
-entonces, en tercer lugar, COMBINEMOS LAS DOS ORACIONES: Yo quiero; pero, No
+entonces, en tercer lugar, COMBINEMOS LAS DOS ORACIONES: “Yo quiero”; pero, “No
 
-sea como yo quiero.
+sea como yo quiero”.
 
-Primero djenme decirles
+Primero déjenme decirles
 
 que
 
-la Nmero Uno
+la Nْmero Uno
 
 les
 
-ayudar mucho para
+ayudarل mucho para
 
 la
 
-Nmero Dos.
+Nْmero Dos.
 
 Si aprendes a orar con
 
-Cristo con la santa intrepidez que casi dice: Padre, quiero, t eres el
+Cristo con la santa intrepidez que casi dice: “Padre, quiero”, tْ eres el
 
-hombre que sabr cmo decir: No sea como yo quiero. No es extrao que as
+hombre que sabrل cَmo decir: “No sea como yo quiero”. ؟No es extraٌo que asي
 
-sea? Parece una contradiccin, pero yo estoy seguro de que no lo es. El varn
+sea? Parece una contradicciَn, pero yo estoy seguro de que no lo es. El varَn
 
-que obtiene de Dios lo que desea es precisamente el varn que no quiere que
+que obtiene de Dios lo que desea es precisamente el varَn que no quiere que
 
 Dios le cumpla la propia voluntad. Aquel que puede recibir lo que quiera, es el
 
-varn que desea tener lo que Dios quiera. Ustedes recuerdan a aquella buena
+varَn que desea tener lo que Dios quiera. Ustedes recuerdan a aquella buena
 
-anciana que yaca postrada moribunda, a la que alguien le dijo: No esperas
+anciana que yacيa postrada moribunda, a la que alguien le dijo: “؟No esperas
 
-morir pronto? Ella respondi: yo no s si vivir o morir; es ms, no me preocupa
+morir pronto?” Ella respondiَ: “yo no sé si viviré o moriré; es mلs, no me preocupa
 
-qu suceda. Entonces el amigo le pregunt: Pero si pudieras elegir entre
+qué suceda”. Entonces el amigo le preguntَ: “Pero si pudieras elegir entre
 
-vivir o morir, cul elegiras? Ella respondi: Yo preferira que se haga la
+vivir o morir, ؟cuلl elegirيas?” Ella respondiَ: “Yo preferirيa que se haga la
 
-voluntad del Seor. Pero supn que la voluntad de Dios fuera dejarte
+voluntad del Seٌor”. “Pero supَn que la voluntad de Dios fuera dejarte
 
-enteramente a ti la eleccin de lo que prefieras. Entonces respondi ella-
+enteramente a ti la elecciَn de lo que prefieras”. “Entonces” –respondiَ ella-
 
-me pondra de rodillas, y le pedira al Seor que eligiera por m. Y yo en
+“me pondrيa de rodillas, y le pedirيa al Seٌor que eligiera por mي”. Y yo en
 
 verdad pienso que esta es la mejor manera de vivir; no elegir nada, sino pedirle
 
-al Seor que elija por ti. Sabes?, puedes lograr que las cosas se hagan como
+al Seٌor que elija por ti. ؟Sabes?, puedes lograr que las cosas se hagan como
 
-t quieres, cuando lo que quieres es lo que Dios quiere. La forma segura de
+tْ quieres, cuando lo que quieres es lo que Dios quiere. La forma segura de
 
 realizar lo que uno quiere es cuando lo que uno quiere no es otra cosa que la
 
-voluntad de Dios. Oh, que el Seor nos enseara este gran poder con l en
+voluntad de Dios. ،Oh, que el Seٌor nos enseٌara este gran poder con ةl en
 
-oracin! No ser otorgado si no existe una muy estrecha comunin con l.
+oraciَn! No serل otorgado si no existe una muy estrecha comuniَn con ةl.
 
-Entonces, cuando sepamos que podemos recibir de l lo que queramos, estaremos
+Entonces, cuando sepamos que podemos recibir de ةl lo que queramos, estaremos
 
-en el estado correcto para decir: No sea como yo quiero.
+en el estado correcto para decir: “No sea como yo quiero”.
 
 El siguiente comentario
 
-que quisiera hacer es que la oracin
+que quisiera hacer es que la oraciَn
 
-Nmero
+Nْmero
 
 Dos es necesaria para
 
-la Nmero
+la Nْmero
 
 Uno
 
 ;
 
-es decir, mientras no puedas decir: No sea como yo quiero, nunca sers
+es decir, mientras no puedas decir: “No sea como yo quiero”, nunca serلs
 
-capaz de decir: Padre, quiero. Yo creo que una razn por la cual las personas
+capaz de decir: “Padre, quiero”. Yo creo que una razَn por la cual las personas
 
-no pueden prevalecer en oracin es porque no se entregan a Dios y no pueden
+no pueden prevalecer en oraciَn es porque no se entregan a Dios y no pueden
 
-esperar que Dios ceda ante ellas. Dios hace esto y aquello contigo, y t
+esperar que Dios ceda ante ellas. Dios hace esto y aquello contigo, y tْ
 
-altercas con l y luego subes a tu aposento y comienzas a orar. Ponte primero
+altercas con ةl y luego subes a tu aposento y comienzas a orar. Ponte primero
 
-de rodillas y haz las paces con l pues as como no debes venir al altar
+de rodillas y haz las paces con ةl pues asي como no debes venir al altar
 
-mientras que no te hayas reconciliado con tu hermano, as tambin, cmo puedes
+mientras que no te hayas reconciliado con tu hermano, asي también, ؟cَmo puedes
 
 venir al trono de la gracia mientras no hayas renunciado a tu altercado con
 
 Dios? Pero algunas personas nunca tienen paz con Dios. Me he enterado de un
 
-buen amigo que perdi a un hijo y a partir de entonces le guard luto durante
+buen amigo que perdiَ a un hijo y a partir de entonces le guardَ luto durante
 
-varios aos, y estaba siempre enojado por la prdida del amado hijo hasta que
+varios aٌos, y estaba siempre enojado por la pérdida del amado hijo hasta que
 
-una dama cuquera le dijo: Cmo! No has perdonado a Dios todava? Y hay
+una dama cuلquera le dijo: “،Cَmo! ؟No has perdonado a Dios todavيa?” Y hay
 
-algunas personas que no han perdonado todava a Dios por llevarse a sus seres
+algunas personas que no han perdonado todavيa a Dios por llevarse a sus seres
 
 queridos. Debieron haberle bendecido siempre, pues nunca se lleva a nadie sino
 
-a los que nos ha prestado, y nosotros deberamos bendecir Su nombre tanto por
+a los que nos ha prestado, y nosotros deberيamos bendecir Su nombre tanto por
 
-llevrselos de regreso como por prestrnoslos. Queridos amigos, tienen que someterse
+llevلrselos de regreso como por prestلrnoslos. Queridos amigos, tienen que someterse
 
-a la voluntad de Dios; de otro modo no pueden tener poder con l en la oracin.
+a la voluntad de Dios; de otro modo no pueden tener poder con ةl en la oraciَn.
 
-Bien dices t- no me dejas hacer lo que yo quiera en absoluto.
+“Bien” –dices tْ- “no me dejas hacer lo que yo quiera en absoluto”.
 
-Ciertamente, no te dejar hacer lo que t quieras; pero cuando slo dices:
+Ciertamente, no te dejaré hacer lo que tْ quieras; pero cuando sَlo dices:
 
-Bien, Seor, no tengo ningn altercado contigo ahora; haz conmigo lo que
+“Bien, Seٌor, no tengo ningْn altercado contigo ahora; haz conmigo lo que
 
-quieras, entonces l dir: Levntate, hijo mo, pdeme lo que quieras, y Yo
+quieras”, entonces ةl dirل: “Levلntate, hijo mيo, pيdeme lo que quieras, y Yo
 
-te lo dar; abre tu boca, y Yo la llenar.
+te lo daré; abre tu boca, y Yo la llenaré”.
 
-Noten, tambin, queridos
+Noten, también, queridos
 
 amigos, que
 
-Jess nos ayudar a recibir
+Jesْs nos ayudarل a recibir
 
-la respuesta de la oracin Nmero Uno y de
+la respuesta de la oraciَn Nْmero Uno y de
 
-la Nmero
+la Nْmero
 
 Dos.
 
-l se esmera en ensearnos el poder de la oracin prevaleciente y l se
+ةl se esmera en enseٌarnos el poder de la oraciَn prevaleciente y ةl se
 
-esmera tambin en ensearnos el arte de la bendita sumisin en la oracin, y es
+esmera también en enseٌarnos el arte de la bendita sumisiَn en la oraciَn, y es
 
-Su voluntad que estas dos oraciones no sean separadas. Padre, quiero, es la
+Su voluntad que estas dos oraciones no sean separadas. “Padre, quiero”, es la
 
-palabra de Cristo en favor nuestro, y No sea como yo quiero, es igualmente la
+palabra de Cristo en favor nuestro, y “No sea como yo quiero”, es igualmente la
 
 palabra de Cristo en favor nuestro. Cuando no puedan elevar ninguna de estas
 
-oraciones como querran, recurran a la oracin de Cristo, y reclmenla como propia.
+oraciones como querrيan, recurran a la oraciَn de Cristo, y reclلmenla como propia.
 
-Por ltimo, pienso que
+Por ْltimo, pienso que
 
-la verdadera condicin de hijo engloba a
+la verdadera condiciَn de hijo engloba a
 
-la Nmero
+la Nْmero
 
 Uno
 
 y a
 
-la Nmero
+la Nْmero
 
 Dos.
 
 El verdadero hijo de Dios que sabe que es el hijo de
 
-su Padre, es el que dice: Padre, quiero. Es a menudo muy intrpido donde otro
+su Padre, es el que dice: “Padre, quiero”. Es a menudo muy intrépido donde otro
 
-sera presuntuoso. Oh, he odo con mucha frecuencia acerca de las oraciones de
+serيa presuntuoso. Oh, he oيdo con mucha frecuencia acerca de las oraciones de
 
-alguien no dir quin es ese alguien- que pareca estar muy familiarizado con
+alguien –no diré quién es ese alguien- que parecيa estar muy familiarizado con
 
-Dios en su oracin. Oh, s; yo s! Ustedes aman esas majestuosas oraciones en
+Dios en su oraciَn. ،Oh, sي; yo sé! Ustedes aman esas majestuosas oraciones en
 
-las que se sealan lmites al monte, y nadie se atreve a acercarse. Haces que
+las que se seٌalan lيmites al monte, y nadie se atreve a acercarse. Haces que
 
-el trono de gracia sea como el Sina en tiempos antiguos, del cual dijo el
+el trono de gracia sea como el Sinaي en tiempos antiguos, del cual dijo el
 
-Seor: Cualquiera que tocare el monte, de seguro morir. No lo tocar mano,
+Seٌor: “Cualquiera que tocare el monte, de seguro morirل. No lo tocarل mano,
 
-porque ser apedreado o asaeteado; sea animal o sea hombre, no vivir. Oh
+porque serل apedreado o asaeteado; sea animal o sea hombre, no vivirل”. “،Oh”
 
-dices t- pero fulano de tal es muy conocido en el propiciatorio!
+–dices tْ- “pero fulano de tal es muy conocido en el propiciatorio!”
 
-S, yo lo s; y t
+Sي, yo lo sé; y tْ
 
-piensas que eso es de lamentar, no es cierto? Tal vez conozcas a un juez;
+piensas que eso es de lamentar, ؟no es cierto? Tal vez conozcas a un juez;
 
-mralo en el juzgado con su peluca y la toga de su oficio; pero t no te
+mيralo en el juzgado con su peluca y la toga de su oficio; pero tْ no te
 
-atreveras a hablarle all a menos que te dirigieras a l como su seora, y
+atreverيas a hablarle allي a menos que te dirigieras a él como “su seٌorيa”, y
 
-te comportaras muy respetuosamente con l. Al cabo de un rato se retira a su
+te comportaras muy respetuosamente con él. Al cabo de un rato se retira a su
 
-casa, y all tiene un muchachito, el Amo Johnny. Vamos, el nio sujeta los
+casa, y allي tiene un muchachito, el Amo Johnny. ،Vamos, el niٌo sujeta los
 
-bigotes de su padre, y helo ah sobre la espalda de su padre! Vamos, Johnny,
+bigotes de su padre, y helo ahي sobre la espalda de su padre! “،Vamos, Johnny,
 
-eres un irrespetuoso! Oh, pero l es mi padre!, responde el muchacho; y su
+eres un irrespetuoso!” “،Oh, pero él es mi padre!”, responde el muchacho; y su
 
-padre dice: S, Johnny, eso soy; y yo no quiero que t me digas: su seora,
+padre dice: “Sي, Johnny, eso soy; y yo no quiero que tْ me digas: ‘su seٌorيa’,
 
-ni que me hables como lo hacen en la corte. As, hay ciertas libertades que
+ni que me hables como lo hacen en la corte”. Asي, hay ciertas libertades que
 
-los hijos de Dios pueden tomarse con l, que l no las considera como
+los hijos de Dios pueden tomarse con ةl, que ةl no las considera como
 
-libertades en absoluto; a l le encanta que lo traten as. Permite que cada uno
+libertades en absoluto; a ةl le encanta que lo traten asي. Permite que cada uno
 
-de ellos diga: Padre, quiero, porque son Sus hijos.
+de ellos diga: “Padre, quiero”, porque son Sus hijos.
 
 Observa, entonces, que
 
-t no eres un hijo de Dios a menos que puedas decir tambin: Padre, no sea
+tْ no eres un hijo de Dios a menos que puedas decir también: “Padre, no sea
 
-como yo quiero. El verdadero hijo se somete a la voluntad de su padre. S
+como yo quiero”. El verdadero hijo se somete a la voluntad de su padre. “Sي”
 
-dice- me gustara tal y tal cosa. Su padre se lo prohbe. Entonces no la
+–dice- “me gustarيa tal y tal cosa”. Su padre se lo prohيbe. “Entonces no la
 
-quiero, y no la tocar; o dice: no me gusta tomar esa medicina, pero mi padre
+quiero, y no la tocaré”; o dice: “no me gusta tomar esa medicina, pero mi padre
 
-dice que debo tomarla, y toma el vaso y bebe todo su contenido. El verdadero
+dice que debo tomarla”, y toma el vaso y bebe todo su contenido. El verdadero
 
-hijo dice: No sea como yo quiero, aunque, a su medida, dice tambin: Padre,
+hijo dice: “No sea como yo quiero”, aunque, a su medida, dice también: “Padre,
 
-quiero.
+quiero”.
 
-Slo me he estado
+Sَlo me he estado
 
 dirigiendo a los que son miembros del pueblo de Dios. Espero que ustedes hayan
 
-aprendido algo de este tema; s que lo han hecho si el Seor les ha enseado a
+aprendido algo de este tema; sé que lo han hecho si el Seٌor les ha enseٌado a
 
-orar segn la manera de estas dos oraciones, hacindolo humildemente y con fe,
+orar segْn la manera de estas dos oraciones, haciéndolo humildemente y con fe,
 
-imitando a su Seor.
+imitando a su Seٌor.
 
-Pero, oh, qu les dir
+Pero, oh, ؟qué les diré
 
-a aquellos que no son del pueblo del Seor? Si ustedes no saben cmo orar del
+a aquellos que no son del pueblo del Seٌor? ،Si ustedes no saben cَmo orar del
 
-todo, que el Seor les ensee! Si todava no conocen sus necesidades, que el
+todo, que el Seٌor les enseٌe! ،Si todavيa no conocen sus necesidades, que el
 
-Seor los instruya! Pero djenme decirles que si alguna vez viniera un tiempo
+Seٌor los instruya! Pero déjenme decirles que si alguna vez viniera un tiempo
 
-cuando sientan su necesidad de un Salvador, el Seor Jess estar dispuesto a
+cuando sientan su necesidad de un Salvador, el Seٌor Jesْs estarل dispuesto a
 
-recibirlos. Si alguna vez suspiran por l, tengan la seguridad de que l
+recibirlos. Si alguna vez suspiran por ةl, tengan la seguridad de que ةl
 
-tambin est suspirando por ustedes. Aun ahora,
+también estل suspirando por ustedes. Aun ahora,
 
-Encendidos
+“Encendidos
 
-estn Sus enternecimientos,
+estلn Sus enternecimientos”,
 
-y con slo que musiten
+y con sَlo que musiten
 
-la oracin del penitente, Dios, s propicio a m, pecador, y pongan sus ojos
+la oraciَn del penitente, “Dios, sé propicio a mي, pecador”, y pongan sus ojos
 
-en Cristo y los vuelvan a la cruz, hay salvacin para ustedes aun ahora. Que
+en Cristo y los vuelvan a la cruz, hay salvaciَn para ustedes aun ahora. Que
 
-Dios les conceda recibirla, por Jesucristo nuestro Seor. Amn.
+Dios les conceda recibirla, por Jesucristo nuestro Seٌor. Amén.
 
 Nota
 
 del traductor:
 
-1) La cita es de Deuteronomio 33: 29 y est tomada de
+1) La cita es de Deuteronomio 33: 29 y estل tomada de
 
-la versin en espaol: Biblia Americana San Jernimo.
+la versiَn en espaٌol: ‘Biblia Americana San Jerَnimo’.
 
-Traductor: Allan Romn
+Traductor: Allan Romلn
 
 20/Febrero/2014
 

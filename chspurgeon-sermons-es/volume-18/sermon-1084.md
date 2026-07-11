@@ -1,8 +1,8 @@
 # Sermón 1084 | Sermón 1084
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Espina
 
@@ -10,9 +10,9 @@ en
 
 la Carne
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,79 +20,79 @@ DOMINGO 8 DE
 
 DICIEMBRE, 1872
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y dada la
+“Y dada la
 
-extraordinaria grandeza de las revelaciones, por esta razn, para impedir que
+extraordinaria grandeza de las revelaciones, por esta razón, para impedir que
 
-me enalteciera, me fue dada una espina en la carne, un mensajero de Satans que
+me enalteciera, me fue dada una espina en la carne, un mensajero de Satanás que
 
 me abofetee, para que no me enaltezca. Acerca de esto, tres veces he rogado al
 
-Seor para que
+Seńor para que
 
 lo
 
-quitara de m. Y El
+quitara de mí. Y El
 
 me ha dicho: Te basta mi gracia, pues mi poder se perfecciona en la debilidad.
 
-Por tanto, muy gustosamente me gloriar ms bien en mis debilidades, para que
+Por tanto, muy gustosamente me gloriaré más bien en mis debilidades, para que
 
-el poder de Cristo more en m. 2 Corintios 12: 7, 8, 9.
+el poder de Cristo more en mí”. 2 Corintios 12: 7, 8, 9.
 
 La Biblia
 
-de las Amricas.
+de las Américas.
 
 Muchas personas tienen
 
 un morboso deseo de descorrer la cortina para fisgar en las vidas secretas de
 
-personajes eminentes. Los prrafos que detallan los hbitos privados de las
+personajes eminentes. Los párrafos que detallan los hábitos privados de las
 
-figuras pblicas son manjares exquisitos para tales mentes. Libros repletos de
+figuras públicas son manjares exquisitos para tales mentes. Libros repletos de
 
-chismes y de pura basura tienen la garanta de una amplia circulacin si
+chismes y de pura basura tienen la garantía de una amplia circulación si
 
-describen cmo comieron los prncipes, cmo bebieron los guerreros, cmo
+describen cómo comieron los príncipes, cómo bebieron los guerreros, cómo
 
-durmieron los filsofos o cmo peinaron su cabello los senadores. Por esta vez
+durmieron los filósofos o cómo peinaron su cabello los senadores. Por esta vez
 
 estamos en capacidad de satisfacer a la curiosidad, y no obstante, de ministrar
 
-para edificacin, pues ante nosotros est descorrido el velo de una porcin de
+para edificación, pues ante nosotros está descorrido el velo de una porción de
 
-la vida secreta de Pablo, el gran apstol de los gentiles. No slo podemos ver
+la vida secreta de Pablo, el gran apóstol de los gentiles. No sólo podemos ver
 
-su aposento, sino conocer las visiones del apstol; no slo podemos ver sus
+su aposento, sino conocer las visiones del apóstol; no sólo podemos ver sus
 
 debilidades privadas, sino conocer su origen. Sin embargo, al contemplar el
 
 secreto revelado, no hemos de ser impulsados por un motivo tan rastrero como la
 
-simple curiosidad; recordemos que el apstol, cuando escribi estas palabras, nunca
+simple curiosidad; recordemos que el apóstol, cuando escribió estas palabras, nunca
 
-tuvo la intencin de entretener a los curiosos, sino que las escribi con un
+tuvo la intención de entretener a los curiosos, sino que las escribió con un
 
-propsito prctico. Lemoslas con el deseo de ser instruidos por ellas, y que
+propósito práctico. Leámoslas con el deseo de ser instruidos por ellas, y que
 
-el Espritu Santo nos ensee a sacarles provecho. Esta informacin no nos fue
+el Espíritu Santo nos enseńe a sacarles provecho. Esta información no nos fue
 
-transmitida meramente para que nos enterramos de que este eminente siervo de
+transmitida meramente para que nos enteráramos de que este eminente siervo de
 
-Cristo reciba sublimes revelaciones, o que sufra por una espina en la carne,
+Cristo recibía sublimes revelaciones, o que sufría por una espina en la carne,
 
 sino que fue escrita para nuestro provecho.
 
-Un excelente propsito
+Un excelente propósito
 
-que puede ser cumplido por esta narracin se encuentra en su propia superficie.
+que puede ser cumplido por esta narración se encuentra en su propia superficie.
 
-Se nos ensea claramente cun errados estamos cuando aislamos a los santos
+Se nos enseńa claramente cuán errados estamos cuando aislamos a los santos
 
 eminentes de los tiempos antiguos sobre una plataforma, como si fueran una clase
 
@@ -104,121 +104,121 @@ son
 
 de una naturaleza superior a la nuestra, de tal manera que no se puede esperar
 
-que nosotros alcancemos su grado de gracia. Los elevamos ponindolos sobre un
+que nosotros alcancemos su grado de gracia. Los elevamos poniéndolos sobre un
 
 nicho fuera de nuestro alcance, de tal manera que no nos pueden servir de
 
-reproche, y as les rendimos un homenaje que nunca buscaron, y les negamos una
+reproche, y así les rendimos un homenaje que nunca buscaron, y les negamos una
 
-utilidad que siempre ambicionaron. As como nunca tratamos de volar porque no
+utilidad que siempre ambicionaron. Así como nunca tratamos de volar porque no
 
-tenemos alas anglicas, as tampoco aspiramos a la santidad suprema porque
+tenemos alas angélicas, así tampoco aspiramos a la santidad suprema porque
 
-imaginamos que no tenemos las ventajas apostlicas. Esa es ciertamente una idea
+imaginamos que no tenemos las ventajas apostólicas. Esa es ciertamente una idea
 
-muy daina y no debemos tolerarla. Nosotros podemos ser lo que fueron los
+muy dańina y no debemos tolerarla. Nosotros podemos ser lo que fueron los
 
-antiguos santos. Ellos eran hombres de igual condicin a la nuestra, y por
+antiguos santos. Ellos eran hombres de igual condición a la nuestra, y por
 
-tanto, son ejemplos sumamente idneos y prcticos para nosotros. El Espritu de
+tanto, son ejemplos sumamente idóneos y prácticos para nosotros. El Espíritu de
 
-Dios que estuvo en ellos, est en todos los creyentes, y no se ha acortado de
+Dios que estuvo en ellos, está en todos los creyentes, y no se ha acortado de
 
-ninguna manera. El Salvador de ellos es tambin nuestro Salvador; Su plenitud
+ninguna manera. El Salvador de ellos es también nuestro Salvador; Su plenitud
 
 es la plenitud de la cual hemos recibido todos nosotros. Alejemos de nosotros
 
-cualquier nocin de separar a los santos de los tiempos antiguos de nosotros,
+cualquier noción de separar a los santos de los tiempos antiguos de nosotros,
 
 como si fueran una casta santa que ha de ser admirada a la distancia, pero con
 
-la que no podemos asociarnos como compaeros. Ellos pelearon la comn batalla,
+la que no podemos asociarnos como compańeros. Ellos pelearon la común batalla,
 
-y ganaron por un poder que est disponible para todos los creyentes; debemos
+y ganaron por un poder que está disponible para todos los creyentes; debemos
 
 estimarlos como nuestros hermanos, y con ellos tenemos que continuar el sagrado
 
-conflicto en el nombre del lder comn. Pongamos la mira en estos compaeros de
+conflicto en el nombre del líder común. Pongamos la mira en estos compańeros de
 
-nuestra guerra, y considerndolos como nuestra solidaria nube de testigos,
+nuestra guerra, y considerándolos como nuestra solidaria nube de testigos,
 
 corramos como ellos corrieron, para que ganemos como ganaron ellos, y
 
-glorifiquemos a Dios en nuestro da y en nuestra generacin, como ellos lo
+glorifiquemos a Dios en nuestro día y en nuestra generación, como ellos lo
 
-hicieron en su tiempo. Hermanos mos, Pablo sin duda goz de ms revelaciones
+hicieron en su tiempo. Hermanos míos, Pablo sin duda gozó de más revelaciones
 
-que nosotros, pero, por otra parte, tena una correspondiente espina en la carne;
+que nosotros, pero, por otra parte, tenía una correspondiente espina en la carne;
 
-l se levanta sobre nosotros pero se hunde tambin con nosotros, y as nos
+él se levanta sobre nosotros pero se hunde también con nosotros, y así nos
 
 anima a emular su ascenso. Era un buen hombre, pero no dejaba de ser hombre; era
 
-un santo, pero tena las debilidades de los pecadores; es nuestro hermano
+un santo, pero tenía las debilidades de los pecadores; es nuestro hermano
 
-Pablo, aunque en nada haya sido inferior a aquellos grandes apstoles; y al
+Pablo, aunque “en nada haya sido inferior a aquellos grandes apóstoles”; y al
 
-leer sobre su experiencia esta maana, espero que seamos conducidos a sentir
+leer sobre su experiencia esta mańana, espero que seamos conducidos a sentir
 
-una comunin con l, y as nos veamos estimulados a imitarlo.
+una comunión con él, y así nos veamos estimulados a imitarlo.
 
 I.
 
 Nuestro
 
-texto nos ofrece para nuestra consideracin, antes que nada, UN PELIGRO al que estaba
+texto nos ofrece para nuestra consideración, antes que nada, UN PELIGRO al que estaba
 
-expuesto el apstol: para impedir que me enalteciera. Hablemos primero
+expuesto el apóstol: “para impedir que me enalteciera”. Hablemos primero
 
-respecto a eso. He aqu un peligro al que todos estamos en mayor o menor medida
+respecto a eso. He aquí un peligro al que todos estamos en mayor o menor medida
 
-expuestos, aunque el apstol Pablo estaba especialmente sujeto a ese peligro
+expuestos, aunque el apóstol Pablo estaba especialmente sujeto a ese peligro
 
-debido a sus circunstancias peculiares. Haba sido arrebatado hasta el tercer
+debido a sus circunstancias peculiares. Había sido arrebatado hasta el tercer
 
 cielo; cosas secretas nunca antes vistas quedaron al descubierto ante su
 
-mirada; y no slo fue colmada su mirada sino que sus odos fueron tambin
+mirada; y no sólo fue colmada su mirada sino que sus oídos fueron también
 
-saciados, pues oy palabras que eran irrepetibles, y que, de haber podido
+saciados, pues oyó palabras que eran irrepetibles, y que, de haber podido
 
-repetirlas, no habra sido conveniente ni siquiera que las susurrara a los
+repetirlas, no habría sido conveniente ni siquiera que las susurrara a los
 
-odos sin purificar de la humanidad. l haba sido arrebatado hasta la parte
+oídos sin purificar de la humanidad. Él había sido arrebatado hasta la parte
 
-ms recndita del tercer cielo, a ese paraso secreto donde Cristo mora con Sus
+más recóndita del tercer cielo, a ese paraíso secreto donde Cristo mora con Sus
 
-santos perfeccionados. Pablo haba entrado en la ms ntima comunin posible con
+santos perfeccionados. Pablo había entrado en la más íntima comunión posible con
 
-Dios para un hombre que permanece todava en esta vida. No debera sentirse un
+Dios para un hombre que permanece todavía en esta vida. żNo debería sentirse un
 
-poco enaltecido? Seguramente la exultacin ha de llenar el pecho del hombre
+poco enaltecido? ˇSeguramente la exultación ha de llenar el pecho del hombre
 
-que ha sido llevado dentro del velo para ver a su Dios, y para or las
+que ha sido llevado dentro del velo para ver a su Dios, y para oír las
 
-indecibles armonas! Era natural que se enalteciera, y no era anormal que
+indecibles armonías! Era natural que se enalteciera, y no era anormal que
 
 estuviera en peligro de ser exaltado desmedidamente. El enaltecimiento devoto
 
-rpidamente degenera en la autoexaltacin. Cuando Dios nos enaltece, slo queda
+rápidamente degenera en la autoexaltación. Cuando Dios nos enaltece, sólo queda
 
 un paso adicional, es decir, que nos exaltemos a nosotros mismos; y entonces
 
-caemos ciertamente en un grave mal. Yo me pregunto cuntos de nosotros
+caemos ciertamente en un grave mal. Yo me pregunto cuántos de nosotros
 
-podramos soportar recibir tales revelaciones como las que Pablo recibi. Oh
+podríamos soportar recibir tales revelaciones como las que Pablo recibió. ˇOh
 
-Dios, en Tu bondad, T puedes muy bien evitarnos favores riesgosos de ese tipo!
+Dios, en Tu bondad, Tú puedes muy bien evitarnos favores riesgosos de ese tipo!
 
-No tenemos ni cabeza ni corazn para sostener un peso tan vasto de bendicin.
+No tenemos ni cabeza ni corazón para sostener un peso tan vasto de bendición.
 
-Nuestra plantita no necesita que un ro riegue su raz; el tierno roco le
+Nuestra plantita no necesita que un río riegue su raíz; el tierno rocío le
 
-basta pues la corriente podra arrastrarla. A cuntos ha bendecido Dios en el
+basta pues la corriente podría arrastrarla. A cuántos ha bendecido Dios en el
 
 ministerio durante un breve tiempo, o, si no en el ministerio, en alguna otra
 
-forma de servicio, y, ay, cun pronto se han crecido con el engreimiento, y se
+forma de servicio, ˇy, ay, cuán pronto se han crecido con el engreimiento, y se
 
 han vuelto demasiado grandes para que el mundo los contuviera! Inflados por la
 
@@ -226,17 +226,17 @@ vanidad, la honra puesta sobre ellos ha cambiado su cerebro, y se han
 
 extraviado en una locura ruin, en pura vanidad o en el pecado corruptor. Muchas
 
-ramas y una esculida raz han derribado al rbol; un ala liviana ha convertido
+ramas y una escuálida raíz han derribado al árbol; un ala liviana ha convertido
 
-al pjaro en la diversin del huracn. Incluso la barca de Pablo, cuando gozaba
+al pájaro en la diversión del huracán. Incluso la barca de Pablo, cuando gozaba
 
-del viento tan poderoso de la revelacin divina, casi se hunda por sus rfagas,
+del viento tan poderoso de la revelación divina, casi se hundía por sus ráfagas,
 
-y habra naufragado totalmente si no hubiese sido porque el Seor ech en su
+y habría naufragado totalmente si no hubiese sido porque el Seńor echó en su
 
 interior el lastre sagrado del cual tendremos que hablar en breve, cuando
 
-consideremos la afliccin preventiva que salv a Pablo de ser exaltado sin
+consideremos la aflicción preventiva que salvó a Pablo de ser exaltado sin
 
 medida.
 
@@ -248,51 +248,51 @@ pues Pablo era eminentemente un santo, era eminentemente un hombre humilde, era
 
 eminentemente un hombre sabio y era eminentemente un hombre experimentado.
 
-Aunque especialmente favorecido, l era alguien para quien los ms sublimes
+Aunque especialmente favorecido, él era alguien para quien los más sublimes
 
 privilegios no eran unos eventos extraordinarios que lo intoxicaran con
 
-vanidad. Pablo haba disfrutado de honores terrenales, haba sido anteriormente
+vanidad. Pablo había disfrutado de honores terrenales, había sido anteriormente
 
-un Rab altamente estimado entre sus coterrneos pero esto no elev su orgullo;
+un Rabí altamente estimado entre sus coterráneos pero esto no elevó su orgullo;
 
-l estimaba todos sus honores como prdidas por causa de Cristo. Posteriormente
+él estimaba todos sus honores como pérdidas por causa de Cristo. Posteriormente
 
-se convirti en un apstol bienamado de Jess, y la narracin de sus hechos y
+se convirtió en un apóstol bienamado de Jesús, y la narración de sus hechos y
 
-de sus sufrimientos que tenemos en el captulo precedente, es demasiado larga
+de sus sufrimientos que tenemos en el capítulo precedente, es demasiado larga
 
 para poder darles ni siquiera un resumen, y con todo, no pareciera que fuera
 
-enaltecido por ello. Pablo realiz mil maravillas de herosmo, y las dej todas
+enaltecido por ello. Pablo realizó mil maravillas de heroísmo, y las dejó todas
 
-tras de s, siguiendo adelante como si hasta entonces no hubiera hecho nada; y
+tras de sí, siguiendo adelante como si hasta entonces no hubiera hecho nada; y
 
-cuando hubo hecho todo, se consideraba menos que el ms nfimo de los santos y
+cuando hubo hecho todo, se consideraba menos que el más ínfimo de los santos y
 
-deca que era el primero de los pecadores. De ninguna manera era un hombre
+decía que era el primero de los pecadores. De ninguna manera era un hombre
 
 pueril y vano, sino que era un hombre de una gran mente, de una honda
 
-comprensin y de un profundo conocimiento; no era influenciado fcilmente por
+comprensión y de un profundo conocimiento; no era influenciado fácilmente por
 
-la aprobacin ni se engrea con la autoestima. Aunque saba mucho, tambin
+la aprobación ni se engreía con la autoestima. Aunque sabía mucho, también
 
-saba que slo conoca en parte; y aunque su juicio era muy agudo, como en
+sabía que sólo conocía en parte; y aunque su juicio era muy agudo, como en
 
-efecto lo era, exclamaba a menudo: Oh, profundidad! El suyo era un intelecto
+efecto lo era, exclamaba a menudo: “ˇOh, profundidad!” El suyo era un intelecto
 
-esplndido, bien balanceado y santificado por la gracia de Dios; sin embargo, a
+espléndido, bien balanceado y santificado por la gracia de Dios; sin embargo, a
 
-pesar de todo eso, Pablo corra el riesgo de ser exaltado desmedidamente; entonces,
+pesar de todo eso, Pablo corría el riesgo de ser exaltado desmedidamente; entonces,
 
-cunto ms proclives a correr ese riesgo somos nosotros, que no tenemos su
+żcuánto más proclives a correr ese riesgo somos nosotros, que no tenemos su
 
-juicio, que no tenemos su conocimiento, que no hemos ocupado nunca una posicin
+juicio, que no tenemos su conocimiento, que no hemos ocupado nunca una posición
 
 tan excelsa y que nunca hemos realizado unas obras tan poderosas? Si una
 
-columna tan slida tiembla, qu peligros no rodean a unas pobres caas
+columna tan sólida tiembla, żqué peligros no rodean a unas pobres cańas
 
 sacudidas por el viento?
 
@@ -300,73 +300,73 @@ Observen que, en el caso
 
 de Pablo, el favor que amenazaba con intoxicarlo de orgullo era uno que no
 
-operaba de la manera comn y burda en la que las tentaciones a la vanidad
+operaba de la manera común y burda en la que las tentaciones a la vanidad
 
-asedian usualmente a la humanidad. La mayora de los hombres que son enaltecidos
+asedian usualmente a la humanidad. La mayoría de los hombres que son enaltecidos
 
-desmedidamente, se engren con la aprobacin de sus semejantes; aman la
+desmedidamente, se engríen con la aprobación de sus semejantes; aman la
 
-adulacin, cortejan la estimacin, y las palabras de admiracin son el propio
+adulación, cortejan la estimación, y las palabras de admiración son el propio
 
 alimento del que se alimentan sus almas. Pero los dones del cielo de Pablo no
 
-eran cosas que tendieran a provocar la alta estimacin de sus semejantes; es
+eran cosas que tendieran a provocar la alta estimación de sus semejantes; es
 
-probable que si Pablo les hubiera hablado a sus colegas discpulos y les
+probable que si Pablo les hubiera hablado a sus colegas discípulos y les
 
-hubiera dicho: he gozado de revelaciones, ellos habran dudado de su
+hubiera dicho: “he gozado de revelaciones”, ellos habrían dudado de su
 
-declaracin o le habran dado muy poca importancia; y si le hubiese hablado
+declaración o le habrían dado muy poca importancia; y si le hubiese hablado
 
-sobre el tema al grupo de judos y de paganos que no pertenecan a su crculo, ms
+sobre el tema al grupo de judíos y de paganos que no pertenecían a su círculo, más
 
-que nunca se habra convertido en el blanco de su ridculo. Qu hubiera
+que nunca se habría convertido en el blanco de su ridículo. żQué hubiera
 
-provocado ms la risa de los griegos, o el escarnio de los romanos, o la ira de
+provocado más la risa de los griegos, o el escarnio de los romanos, o la ira de
 
-los judos, que or que Pablo, el fabricante de tiendas, haba penetrado en el
+los judíos, que oír que Pablo, el fabricante de tiendas, había penetrado en el
 
-mundo invisible y haba odo palabras inefables que no le era dado expresar?
+mundo invisible y había oído palabras inefables que no le era dado expresar?
 
 Hermanos, pueden ver que
 
-nuestro apstol no fue tentado con la tentacin comn y vulgar de la adulacin
+nuestro apóstol no fue tentado con la tentación común y vulgar de la adulación
 
-y de la lisonja. Su alma habra dominado fcilmente un ataque tan ruin, y habra
+y de la lisonja. Su alma habría dominado fácilmente un ataque tan ruin, y habría
 
-hollado el mal como a lodo en las calles; pero la tentacin era ms sutil y ms
+hollado el mal como a lodo en las calles; pero la tentación era más sutil y más
 
 adaptada al noble calibre del hombre. Pablo era un hombre eminentemente
 
-independiente, un hombre que haba aprendido a pensar por s mismo, a hablar
+independiente, un hombre que había aprendido a pensar por sí mismo, a hablar
 
-por s mismo y a actuar por s mismo, y ahora la tentacin era que deba decirse
+por sí mismo y a actuar por sí mismo, y ahora la tentación era que debía decirse
 
-en el interior de su propia alma: Soy el nico que ha visto con estos ojos lo
+en el interior de su propia alma: “Soy el único que ha visto con estos ojos lo
 
 que otros no han visto; soy un hombre dotado de vista entre unos viejos ciegos
 
-y seniles. Qu saben esos seres rastreros? Qu son ellos comparados conmigo?
+y seniles. żQué saben esos seres rastreros? żQué son ellos comparados conmigo?
 
 Yo soy un favorito del cielo; he sido favorecido por el Eterno con un boleto de
 
-admisin en Su saln de audiencias privadas; yo soy algo ms que el resto de
+admisión en Su salón de audiencias privadas; yo soy algo más que el resto de
 
-los hijos de los hombres. A Pablo no le importaba en absoluto ni el enojo ni
+los hijos de los hombres”. A Pablo no le importaba en absoluto ni el enojo ni
 
 la sonrisa de los hombres, ya que estaba por encima de todo eso, pero su
 
-tentacin yaca en su interior y por eso era ms difcil enfrentarla.
+tentación yacía en su interior y por eso era más difícil enfrentarla.
 
 Pudiera ser, hermanos,
 
 que algunos de ustedes, careciendo de revelaciones, poseyeran un algo en su
 
-interior -una profunda experiencia, una penetracin secreta en la mdula de la
+interior -una profunda experiencia, una penetración secreta en la médula de la
 
-palabra divina, un ntimo conocimiento de alguna porcin de la verdad divina- y
+palabra divina, un íntimo conocimiento de alguna porción de la verdad divina- y
 
-aunque a ustedes no les importara la estimacin de sus semejantes, ni se
+aunque a ustedes no les importara la estimación de sus semejantes, ni se
 
 engrieran por la alabanza, con todo, este reconocimiento personal de que
 
@@ -378,17 +378,17 @@ pudiera crear en ustedes un desmesurado amor propio.
 
 Ahora bien, observemos
 
-que aunque en la versin particular de Pablo esta tentacin a la exaltacin
+que aunque en la versión particular de Pablo esta tentación a la exaltación
 
-desmedida pudiera no ser muy comn en estos das, con todo, en alguna forma u
+desmedida pudiera no ser muy común en estos días, con todo, en alguna forma u
 
-otra acecha a los mejores cristianos. El comn de los cristianos y son muy
+otra acecha a los mejores cristianos. El común de los cristianos –y son muy
 
-numerosos- pudiera no ser tentado en este sentido; pero los espritus selectos,
+numerosos- pudiera no ser tentado en este sentido; pero los espíritus selectos,
 
 los elegidos de los elegidos, la
 
-lite
+élite
 
 de
 
@@ -400,33 +400,33 @@ Algunos cristianos verdaderos tienen una tendencia constitucional hacia un amor
 
 propio desmedido; nunca yerran por timidez, pero por otro lado son conducidos
 
-fcilmente a la confianza en ellos mismos. Todo hombre ama el encomio de sus
+fácilmente a la confianza en ellos mismos. Todo hombre ama el encomio de sus
 
-semejantes; ningn ser humano viviente es indiferente a eso.
+semejantes; ningún ser humano viviente es indiferente a eso.
 
-El altivo, para conseguirlo, soporta trabajo tras trabajo;
+“El altivo, para conseguirlo, soporta trabajo tras trabajo;
 
-El modesto, lo evade, pero para asegurarlo.
+El modesto, lo evade, pero para asegurarlo”.
 
 En vano nos jactamos de
 
 no preocuparnos al respecto; nos preocupa, en verdad, y nuestro deber es
 
-mantener esa propensin bajo control. Aquel que piensa que es humilde, es
+mantener esa propensión bajo control. Aquel que piensa que es humilde, es
 
-probablemente el hombre ms soberbio del lugar. Pero hay algunos hombres en
+probablemente el hombre más soberbio del lugar. Pero hay algunos hombres en
 
-quienes la conciencia de s mismo es tan preponderante, y tan evidentemente
+quienes la conciencia de sí mismo es tan preponderante, y tan evidentemente
 
 poderosa, que puedes verla en casi todo lo que hacen. Si son cristianos, su lucha
 
-consiste en mantenerla dominada, pero se manifestar en la forma de ofenderse
+consiste en mantenerla dominada, pero se manifestará en la forma de ofenderse
 
-muy fcilmente porque no se les toma en cuenta en alguna buena obra, o de
+muy fácilmente porque no se les toma en cuenta en alguna buena obra, o de
 
-irritarse fcilmente porque se imaginan que alguien se les est oponiendo,
+irritarse fácilmente porque se imaginan que alguien se les está oponiendo,
 
-cuando probablemente ese alguien nunca pens en ellos. La prominencia exagerada
+cuando probablemente ese alguien nunca pensó en ellos. La prominencia exagerada
 
 del
 
@@ -436,59 +436,59 @@ es la falla de muchos y el
 
 peligro de todos. No son unos cuantos los que tienen que batallar con esto
 
-durante toda su vida, y no me sorprendera que tengan que ser las personas que
+durante toda su vida, y no me sorprendería que tengan que ser las personas que
 
-toda su vida soportarn una espina en la carne. Pero hay otros para quienes la
+toda su vida soportarán una espina en la carne. Pero hay otros para quienes la
 
-tentacin viene de una manera ms refinada. Ellos tienen ms conocimiento que
+tentación viene de una manera más refinada. Ellos tienen más conocimiento que
 
 aquellos entre quienes moran; me refiero a un mayor conocimiento de las
 
-Escrituras, a un conocimiento espiritual ms real, y a una experiencia interna
+Escrituras, a un conocimiento espiritual más real, y a una experiencia interna
 
-ms profunda; y cuando oyen el parloteo de jvenes principiantes, o cuando
+más profunda; y cuando oyen el parloteo de jóvenes principiantes, o cuando
 
 escuchan los alarmantes desaciertos de muchos aspirantes a ser grandes santos,
 
-no pueden evitar sonrerse en su interior; y, casi con la misma naturalidad, no
+no pueden evitar sonreírse en su interior; y, casi con la misma naturalidad, no
 
-pueden evitar decir: Gracias a Dios, yo s que no es as. La tentacin de ser
+pueden evitar decir: “Gracias a Dios, yo sé que no es así”. La tentación de ser
 
-exaltado desmedidamente, en tal caso, est a la mano. Probablemente hayan tal
+exaltado desmedidamente, en tal caso, está a la mano. Probablemente hayan tal
 
-vez gozado tambin de algn xito en la sagrada obra, a la vez que han visto a
+vez gozado también de algún éxito en la sagrada obra, a la vez que han visto a
 
 otros desocupados, indiferentes, y consecuentemente infructuosos. Ahora bien,
 
-si Dios le da xito a un hombre en ganar almas, estoy seguro de que se ver
+si Dios le da éxito a un hombre en ganar almas, estoy seguro de que se verá
 
-encumbrado para su perdicin, a menos que al mismo tiempo se abra una fuente
+encumbrado para su perdición, a menos que al mismo tiempo se abra una fuente
 
-correspondiente de humillacin para l. Tenemos que regocijarnos por el xito
+correspondiente de humillación para él. Tenemos que regocijarnos por el éxito
 
-espiritual, pues sera ser ingrato no hacerlo; pero debemos estar en guardia
+espiritual, pues sería ser ingrato no hacerlo; pero debemos estar en guardia
 
-contra la jactancia del espritu.
+contra la jactancia del espíritu.
 
 Mi querido amigo, si el
 
-Seor te hiciera el progenitor espiritual de una veintena de almas, no
+Seńor te hiciera el progenitor espiritual de una veintena de almas, żno
 
-sentirs t ninguna euforia en el interior de tu espritu al ver estas saetas
+sentirás tú ninguna euforia en el interior de tu espíritu al ver estas saetas
 
-en mano del valiente, estos hijos espirituales habidos en la juventud? No
+en mano del valiente, estos hijos espirituales habidos en la juventud? żNo
 
-sentirs ningn aumento de gozo? No dar nunca un vuelco el corazn del padre
+sentirás ningún aumento de gozo? żNo dará nunca un vuelco el corazón del padre
 
 a la vista de su progenie? Tenemos que regocijarnos y lo haremos. Nadie nos
 
-impedir esta sagrada alegra; pero, fjense bien que all estar nuestro
+impedirá esta sagrada alegría; pero, ˇfíjense bien que allí estará nuestro
 
-peligro! Entre las flores de la gratitud crecer la cicuta del orgullo. Mientras
+peligro! Entre las flores de la gratitud crecerá la cicuta del orgullo. Mientras
 
-que nuestros pensamientos de gratitud, como ngeles, adoran al Seor, el Satans
+que nuestros pensamientos de gratitud, como ángeles, adoran al Seńor, el Satanás
 
-de la autoexaltacin se introducir en medio de ellos.
+de la autoexaltación se introducirá en medio de ellos.
 
 Es sumamente digno de
 
@@ -496,33 +496,33 @@ notarse que de todas las cosas de las que hemos hablado, ninguna de ellas
 
 constituye una base justificable para la jactancia, si es que alguna vez
 
-pudiese haber una tal base. Qu importa que un creyente hubiese recibido ms
+pudiese haber una tal base. żQué importa que un creyente hubiese recibido más
 
-iluminaciones divinas que su prjimo? Acaso no se las dio el Seor? Por qu
+iluminaciones divinas que su prójimo? żAcaso no se las dio el Seńor? żPor qué
 
-habra de jactarse como si no hubiese recibido esos favores? Su propia razn, su
+habría de jactarse como si no hubiese recibido esos favores? żSu propia razón, su
 
 ingenio y su esfuerzo generaron esas cosas? Supongan que dos mendigos se
 
-encuentran en la calle; a uno le doy un cheln y al otro le doy un centavo;
+encuentran en la calle; a uno le doy un chelín y al otro le doy un centavo;
 
-acaso el hombre que recibi el cheln habra de estar orgulloso y habra de
+żacaso el hombre que recibió el chelín habría de estar orgulloso y habría de
 
-gloriarse ante su compaero? Si le doy la mayor limosna, independientemente de
+gloriarse ante su compańero? Si le doy la mayor limosna, independientemente de
 
-cualquier consideracin de mrito, sino simplemente porque decido hacer lo que
+cualquier consideración de mérito, sino simplemente porque decido hacer lo que
 
-quiero con lo mo, habra l de jactarse? Sin embargo, as somos de necios.
+quiero con lo mío, żhabría él de jactarse? Sin embargo, así somos de necios.
 
-Generalmente la jactancia ms estentrea en este mundo es provocada por
+Generalmente la jactancia más estentórea en este mundo es provocada por
 
 circunstancias accidentales. Si hay un muchacho en la escuela que es presumido,
 
 no es el muchacho que ha trabajado duro y consistentemente en sus estudios, y
 
-que por eso ha obtenido una posicin distinguida; pero el joven jactancioso es
+que por eso ha obtenido una posición distinguida; pero el joven jactancioso es
 
-generalmente un genio juvenil que tiene gran disposicin para cumplir con sus
+generalmente un genio juvenil que tiene gran disposición para cumplir con sus
 
 tareas, pero que es tan indolente como es dotado. No se encuentra a menudo que
 
@@ -530,99 +530,99 @@ el hombre que haya realizado un gran invento y que haya bendecido a sus
 
 semejantes con un valioso descubrimiento, asuma aires de grandeza; pero el
 
-comportamiento del aristcrata sin cerebro que debe su posicin al accidente de
+comportamiento del aristócrata sin cerebro que debe su posición al accidente de
 
 su nacimiento, es altivo. Si hemos de gloriarnos, esperemos hasta que podamos
 
-hacerlo legtimamente, pero las riquezas de la gracia soberana son prostitudas
+hacerlo legítimamente, pero las riquezas de la gracia soberana son prostituídas
 
-cuando se convierten en objeto del orgullo. Acaso Jess, que tena todas las
+cuando se convierten en objeto del orgullo. żAcaso Jesús, que tenía todas las
 
-cosas en S mismo, habra de ser humilde, y nosotros, que lo debemos todo a Su
+cosas en Sí mismo, habría de ser humilde, y nosotros, que lo debemos todo a Su
 
-caridad, habramos de ser encumbrados? Dios no lo quiera.
+caridad, habríamos de ser encumbrados? Dios no lo quiera.
 
 Amados, por encima de
 
 todas las cosas es peligroso que un cristiano sea enaltecido desmedidamente,
 
-pues si lo fuera, le robara Su gloria a Dios, y este es un gran crimen y un
+pues si lo fuera, le robaría Su gloria a Dios, y este es un gran crimen y un
 
-grave delito. El Seor ha dicho: A otro no dar mi gloria. Es malo dar la
+grave delito. El Seńor ha dicho: “A otro no daré mi gloria”. Es malo dar la
 
-gloria de Dios a imgenes esculpidas, pero usurparla para nosotros mismos no es
+gloria de Dios a imágenes esculpidas, pero usurparla para nosotros mismos no es
 
-de ninguna manera mejor. Yo no veo ninguna diferencia entre la adoracin de un
+de ninguna manera mejor. Yo no veo ninguna diferencia entre la adoración de un
 
-dios de piedra y la adoracin de un dios de carne. El yo es un dolo tan
+dios de piedra y la adoración de un dios de carne. El ‘yo’ es un ídolo tan
 
-degradante como Vishnu (seor del mundo) o la diosa Kale. Dios no honra al
+degradante como Vishnu (seńor del mundo) o la diosa Kale. Dios no honra al
 
-hombre que retiene el honor para s mismo. l exalta al manso, pero abate al
+hombre que retiene el honor para sí mismo. Él exalta al manso, pero abate al
 
 altanero.
 
-La autoexaltacin es
+La autoexaltación es
 
-igualmente mala para la iglesia con la que el hombre se asocia, y entre ms
+igualmente mala para la iglesia con la que el hombre se asocia, y entre más
 
-prominente sea, ms pestilente es su pecado. Si Pablo se hubiera exaltado,
+prominente sea, más pestilente es su pecado. Si Pablo se hubiera exaltado,
 
-habra sido posteriormente de poca utilidad para la iglesia gentil. Se habra
+habría sido posteriormente de poca utilidad para la iglesia gentil. Se habría
 
-buscado a s mismo y no a las cosas de Cristo, y muy pronto se habra
+buscado a sí mismo y no a las cosas de Cristo, y muy pronto se habría
 
-convertido en un fundador de partidos y en el lder de una secta; el clamor de:
+convertido en un fundador de partidos y en el líder de una secta; el clamor de:
 
-yo soy de Pablo, habra sido una dulce msica para l, y habra alentado de
+“yo soy de Pablo”, habría sido una dulce música para él, y habría alentado de
 
-todas maneras a quienes lo adoptaban, de tal manera que un cisma habra sido el
+todas maneras a quienes lo adoptaban, de tal manera que un cisma habría sido el
 
-resultado. Si hubiera sido enaltecido desmedidamente, se habra podido
+resultado. Si hubiera sido enaltecido desmedidamente, se habría podido
 
-convertir en un rival ms bien que en un siervo de Jess. Habra podido
+convertir en un rival más bien que en un siervo de Jesús. Habría podido
 
-desdear su humilde oficio y haber aspirado a enseorearse de la herencia de
+desdeńar su humilde oficio y haber aspirado a enseńorearse de la herencia de
 
-Dios. Habramos tenido noticias de l como un reverendsimo padre en Dios, ms
+Dios. Habríamos tenido noticias de él como un reverendísimo padre en Dios, más
 
 bien que como el siervo de Jesucristo y de Su iglesia.
 
-Tambin habra sido
+También habría sido
 
-perjudicial para los pecadores impos, pues un engredo Pablo no habra ido
+perjudicial para los pecadores impíos, pues un engreído Pablo no habría ido
 
 nunca de ciudad en ciudad para ser perseguido por predicar el Evangelio. Los
 
-predicadores engredos no ganan los corazones de los hombres. Aquel que se
+predicadores engreídos no ganan los corazones de los hombres. Aquel que se
 
 autoexalta
 
-no exaltar nunca al Salvador, y aquel que no
+no exaltará nunca al Salvador, y aquel que no
 
-enaltece al Salvador no ganar nunca las almas de los hombres.
+enaltece al Salvador no ganará nunca las almas de los hombres.
 
-Y habra sido psimo
+Y habría sido pésimo
 
-para el propio apstol, pues antes del quebrantamiento es la soberbia, y antes
+para el propio apóstol, pues antes del quebrantamiento es la soberbia, y antes
 
-de la cada la altivez de espritu. En la historia de Pablo habramos tenido un
+de la caída la altivez de espíritu. En la historia de Pablo habríamos tenido un
 
-terrible ejemplo de cmo los hombres pueden ser como Lucifer, el Hijo de
+terrible ejemplo de cómo los hombres pueden ser como Lucifer, el Hijo de
 
-la Maana
+la Mańana
 
 , en cuanto a
 
-fulgor, y no obstante, de cmo pueden caer como Lucifer en la negrura de las
+fulgor, y no obstante, de cómo pueden caer como Lucifer en la negrura de las
 
 tinieblas perdurablemente. Si Dios no hubiera tomado a Pablo de la mano, el
 
-peligro que le rodeaba habra sido fatal para l. Habra sido un peligro
+peligro que le rodeaba habría sido fatal para él. Habría sido un peligro
 
-tambin para la gloria de Dios, para Pablo mismo, para los pecadores, para el
+también para la gloria de Dios, para Pablo mismo, para los pecadores, para el
 
-Evangelio y para su propia salvacin. As he hablado sobre el peligro.
+Evangelio y para su propia salvación. Así he hablado sobre el peligro.
 
 II.
 
@@ -634,59 +634,59 @@ LA MEDIDA
 
 PREVENTIVA.
 
-Pablo dice: Me fue dada
+Pablo dice: “Me fue dada
 
-una espina en la carne, un mensajero de Satans que me abofetee, para que no me
+una espina en la carne, un mensajero de Satanás que me abofetee, para que no me
 
-enaltezca. Ahora noten cada una de estas palabras. Primero, dice: Me fue
+enaltezca”. Ahora noten cada una de estas palabras. Primero, dice: “Me fue
 
-dada.
+dada”.
 
-l reconoca que su gran
+Él reconocía que su gran
 
-tribulacin era un don. Bien dicho. No dice: Me fue infligida una espina en la
+tribulación era un don. Bien dicho. No dice: “Me fue infligida una espina en la
 
-carne, sino Me fue dada. Este es un santo reconocimiento. Oh hijo de Dios,
+carne”, sino “Me fue dada”. Este es un santo reconocimiento. Oh hijo de Dios,
 
-entre todos los bienes de tu casa, no tienes un solo artculo que sea una mejor
+entre todos los bienes de tu casa, no tienes un solo artículo que sea una mejor
 
-seal del amor divino hacia ti que tu cruz cotidiana. A ti te alegrara
+seńal del amor divino hacia ti que tu cruz cotidiana. A ti te alegraría
 
-liberarte de ella, pero si te fuera retirada perderas el tesoro ms preciado.
+liberarte de ella, pero si te fuera retirada perderías el tesoro más preciado.
 
-Bendito sea Dios por el crisol y por el horno. Me fue dada una espina en la
+Bendito sea Dios por el crisol y por el horno. “Me fue dada una espina en la
 
-carne. La rica gracia don la bendicin. Al principio, el apstol pudiera no
+carne”. La rica gracia donó la bendición. Al principio, el apóstol pudiera no
 
-haber visto que su espina era un don, pero despus, cuando la experiencia le
+haber visto que su espina era un don, pero después, cuando la experiencia le
 
-hubo enseado la paciencia, lleg a ver ese tormento agudo, punzante y
+hubo enseńado la paciencia, llegó a ver ese tormento agudo, punzante y
 
-supurante, como una bendicin de su Padre celestial. T, oh ser atribulado,
+supurante, como una bendición de su Padre celestial. Tú, oh ser atribulado,
 
-llegars a hacer lo mismo uno de estos das. Cuando el barco fue botado en el
+llegarás a hacer lo mismo uno de estos días. Cuando el barco fue botado en el
 
-ro la primera vez, y estaba a punto de atravesar el ocano, se senta ligero y
+río la primera vez, y estaba a punto de atravesar el océano, se sentía ligero y
 
 airoso, y listo para hendir las olas, de tal manera que ansiaba un viaje a
 
-travs del Atlntico para poder volar como un pjaro marino sobre la cresta de
+través del Atlántico para poder volar como un pájaro marino sobre la cresta de
 
-las olas; pero sbitamente, para su afliccin, el galante barco fue detenido en
+las olas; pero súbitamente, para su aflicción, el galante barco fue detenido en
 
 su carrera, y fue anclado cerca de un banco de arena y guijarros, y los
 
 marineros comenzaron a echarle piedras y tierra en su interior. Entonces la
 
-barca murmur: Qu! He de ser llenada de peso y ser hundida en el agua con
+barca murmuró: “ˇQué! żHe de ser llenada de peso y ser hundida en el agua con
 
-un cargamento de cieno y de mugre? Qu estorbo para mi velocidad! Yo pens que
+un cargamento de cieno y de mugre? ˇQué estorbo para mi velocidad! Yo pensé que
 
-poda volar ahora mismo como un pjaro marino; he de ser cargada hasta llegar
+podía volar ahora mismo como un pájaro marino; żhe de ser cargada hasta llegar
 
-a ser como un leo? As fue; pues de no haber sido lastrado el barco, pronto
+a ser como un leńo?” Así fue; pues de no haber sido lastrado el barco, pronto
 
-habra naufragado, y nunca hubiera alcanzado el puerto anhelado. Ese lastre fue
+habría naufragado, y nunca hubiera alcanzado el puerto anhelado. Ese lastre fue
 
 un don, un don como si se hubiese tratado de barras de oro o de lingotes de
 
@@ -694,21 +694,21 @@ plata. De igual manera, sus tribulaciones, sus problemas y sus debilidades son
 
 dones para ustedes, oh creyentes, y tienen que considerarlos como tales.
 
-El apstol dice: Me fue
+El apóstol dice: “Me fue
 
 dada
 
-una espina.
+una espina”.
 
-Noten eso: una
+Noten eso: “una
 
-espina. Si la palabra en ingls expresa el significado exacto, y yo pienso que
+espina”. Si la palabra en inglés expresa el significado exacto, y yo pienso que
 
-es muy cercano a l, no tienen que tener problemas para entender el smil. Una
+es muy cercano a él, no tienen que tener problemas para entender el símil. Una
 
-espina es algo muy pequeo que indica una prueba dolorosa pero no letal; no es
+espina es algo muy pequeńo que indica una prueba dolorosa pero no letal; no es
 
-una afliccin gigantesca, aplastante o sobrecogedora, sino algo trivial; no es
+una aflicción gigantesca, aplastante o sobrecogedora, sino algo trivial; no es
 
 menos dolorosa, con todo, por trivial e insignificante. Una espina es algo
 
@@ -716,9 +716,9 @@ agudo, que pincha, perfora, irrita, lacera, que se encona, y que provoca un
 
 dolor y una incomodidad interminables. Sin embargo, es casi algo secreto, no
 
-muy obvio para nadie excepto para quien la sufre. Pablo tena una secreta
+muy obvio para nadie excepto para quien la sufre. Pablo tenía una secreta
 
-afliccin en algn lugar, yo no s dnde, pero cerca de su corazn, que le
+aflicción en algún lugar, yo no sé dónde, pero cerca de su corazón, que le
 
 irritaba continuamente doquiera que estuviera; lo vejaba y lo lesionaba perpetuamente.
 
@@ -726,115 +726,115 @@ Una espina, una cosa trivial, una cosa que puede crecer en cualquier campo y
 
 caerle en suerte a cualquier ser humano. Las espinas son lo suficientemente
 
-abundantes, y lo han sido desde que el Padre Adn esparci el primer puado de
+abundantes, y lo han sido desde que el Padre Adán esparció el primer puńado de
 
-sus semillas. Una espina, nada que haga a un hombre notable, o que le d la
+sus semillas. Una espina, nada que haga a un hombre notable, o que le dé la
 
-dignidad de una afliccin inusual. Algunos hombres se jactan de sus grandes
+dignidad de una aflicción inusual. Algunos hombres se jactan de sus grandes
 
-pruebas, y hay algo en sentir que t eres un hombre grandemente afligido; pero
+pruebas, y hay algo en sentir que tú eres un hombre grandemente afligido; pero
 
-una espina no podra dar ni siquiera esa desventurada satisfaccin. No era una
+una espina no podría dar ni siquiera esa desventurada satisfacción. No era una
 
-espada que hiere los huesos, o una amarga flecha en los lomos, sino nicamente
+espada que hiere los huesos, o una amarga flecha en los lomos, sino únicamente
 
 una espina respecto a la cual poco pudiera decirse. Todo el mundo sabe, sin
 
-embargo, que una espina es uno de los ms incmodos intrusos que pueden
+embargo, que una espina es uno de los más incómodos intrusos que pueden
 
 molestar a nuestro pie o a nuestra mano. Esos dolores que son despreciados
 
-porque raramente son fatales, son con frecuencia la fuente de las ms intensa
+porque raramente son fatales, son con frecuencia la fuente de las más intensa
 
-angustia: un dolor de muelas, un dolor de cabeza, un dolor de odo, qu
+angustia: un dolor de muelas, un dolor de cabeza, un dolor de oído, żqué
 
 mayores miserias conocen los mortales? Y lo mismo sucede con una espina. Suena
 
-como si no fuera nada; puede ser retirada fcilmente con una aguja es lo que
+como si no fuera nada; “puede ser retirada fácilmente con una aguja” es lo que
 
-dicen los que no la sienten, y sin embargo, cmo se encona, y si permaneciera
+dicen los que no la sienten, y sin embargo, cómo se encona, y si permaneciera
 
-en la carne generara una tortura inconcebible. As era la tribulacin de
+en la carne generaría una tortura inconcebible. Así era la tribulación de
 
-Pablo; un secreto dolor punzante, incesantemente irritante; algo no sabemos
+Pablo; un secreto dolor punzante, incesantemente irritante; algo… no sabemos
 
-qu.
+qué.
 
 Era una espina
 
-en la carne:
+“en la carne”:
 
 En la carne. Pablo no era
 
-tentado en el espritu; lo era en la carne. Yo supongo que el mal tena una
+tentado en el espíritu; lo era en la carne. Yo supongo que el mal tenía una
 
-ntima conexin con su cuerpo. Muchas cosas, como hojas en el otoo, han sido
+íntima conexión con su cuerpo. Muchas cosas, como hojas en el otońo, han sido
 
-las especulaciones de los eruditos respecto a cul era la espina en la carne de
+las especulaciones de los eruditos respecto a cuál era la espina en la carne de
 
-Pablo; casi cada enfermedad ha tenido sus abogados. A m me complaci
+Pablo; casi cada enfermedad ha tenido sus abogados. A mí me complació
 
-particularmente descubrir que Rosenmller pensaba que se trataba de la gota;
+particularmente descubrir que Rosenmüller pensaba que se trataba de la gota;
 
-pero otros crticos piensan que se trataba de una debilidad visual, de un tartamudeo,
+pero otros críticos piensan que se trataba de una debilidad visual, de un tartamudeo,
 
-o de una tendencia hipocondraca. Richard Baxter, quien sufra de un desorden
+o de una tendencia hipocondríaca. Richard Baxter, quien sufría de un desorden
 
-muy doloroso que no necesito mencionar, pensaba que el apstol era su compaero
+muy doloroso que no necesito mencionar, pensaba que el apóstol era su compańero
 
-de sufrimiento. Un telogo es de la opinin que Pablo sufra de dolor de odo;
+de sufrimiento. Un teólogo es de la opinión que Pablo sufría de dolor de oído;
 
 y yo encuentro generalmente que cada expositor ha seleccionado la particular
 
-espina que ha perforado su propio pecho. Ahora bien, yo creo que el apstol no
+espina que ha perforado su propio pecho. Ahora bien, yo creo que el apóstol no
 
-nos dijo cul era su afeccin peculiar para que cada uno de nosotros pudiera
+nos dijo cuál era su afección peculiar para que cada uno de nosotros pudiera
 
 sentir que se identificaba con nosotros, para que cada uno de nosotros pudiera
 
-creer que la nuestra no es una afliccin nueva. Era una afliccin
+creer que la nuestra no es una aflicción nueva. Era una aflicción
 
-principalmente del cuerpo, y por el uso del trmino carne, en vez de
+principalmente del cuerpo, y por el uso del término “carne”, en vez de
 
-cuerpo, parecera que provocaba en el paciente alguna tentacin carnal.
+“cuerpo”, parecería que provocaba en el paciente alguna tentación carnal.
 
-Pudiera ser que no fuera as, pero con todo, el escritor est tan acostumbrado
+Pudiera ser que no fuera así, pero con todo, el escritor está tan acostumbrado
 
-a asociar la idea de pecado con la carne, que yo considero que no es una
+a asociar la idea de pecado con “la carne”, que yo considero que no es una
 
-conjetura ociosa que alguna tentacin que el buen hombre consideraba que haba
+conjetura ociosa que alguna tentación que el buen hombre consideraba que había
 
-vencido eficazmente, recaa sobre l en razn de su mal corporal; y se
+vencido eficazmente, recaía sobre él en razón de su mal corporal; y se
 
-convirti para Pablo, por tanto, no meramente en una espina en su carne, sino
+convirtió para Pablo, por tanto, no meramente en una espina en su carne, sino
 
-en un mensajero de Satans, que lo tentaba a un mal que l aborreca, y que
+en “un mensajero de Satanás”, que lo tentaba a un mal que él aborrecía, y que
 
-por tantos das haba sido tan hollado por su naturaleza ms noble, que casi
+por tantos días había sido tan hollado por su naturaleza más noble, que casi
 
-haba llegado a pensar que tal propensin estaba extinta en su interior.
+había llegado a pensar que tal propensión estaba extinta en su interior.
 
 Luego agrega:
 
-Un mensajero de Satans.
+“Un mensajero de Satanás”.
 
 No era el
 
-propio Satans. No era una tentacin lo suficientemente grande para eso. Se trataba
+propio Satanás. No era una tentación lo suficientemente grande para eso. Se trataba
 
-de un mensajero de Satans; uno de lo recaderos de Satans, nada mejor, una
+de “un mensajero de Satanás”; uno de lo recaderos de Satanás, nada mejor, una
 
-sugerencia de que se trataba de un espritu maligno inferior. No la atribuye al
+sugerencia de que se trataba de un espíritu maligno inferior. No la atribuye al
 
-Gran Espritu Maestro sino a un mero mensajero del prncipe de las tinieblas;
+Gran Espíritu Maestro sino a un mero mensajero del príncipe de las tinieblas;
 
-no era la intencin de Dios que Satans, en esta ocasin, saliera en contra de
+no era la intención de Dios que Satanás, en esta ocasión, saliera en contra de
 
-Pablo, pues un tal encuentro podra no haberlo humillado. Es algo grande luchar
+Pablo, pues un tal encuentro podría no haberlo humillado. Es algo grande luchar
 
-cara a cara y cuerpo a cuerpo con Satans; un gozo adusto llena el corazn de
+cara a cara y cuerpo a cuerpo con Satanás; ˇun gozo adusto llena el corazón de
 
-un hombre valiente cuando siente que ante l est un enemigo digno de su acero!
+un hombre valiente cuando siente que ante él está un enemigo digno de su acero!
 
 Un combate con el archienemigo, por tanto, pudiera no haber humillado a Pablo;
 
@@ -844,49 +844,49 @@ y grandioso, sino un mero lacayo del infierno, y ser turbado y atormentado por
 
 un adversario tan despreciable, eso era amargo y humillante en sumo grado, y
 
-por eso, tanto mejor para el propsito para el que fue enviado, es decir, para
+por eso, tanto mejor para el propósito para el que fue enviado, es decir, para
 
-prevenir que fuera encumbrado. Qu!, pareca decir Pablo- he de luchar
+prevenir que fuera encumbrado. “ˇQué!”, –parecía decir Pablo- “żhe de luchar
 
-con una tentacin tan despreciable como sta? Yo, que he edificado
+con una tentación tan despreciable como ésta? Yo, que he edificado
 
 la Iglesia
 
 y que he visto al
 
-Seor y que he sido arrebatado al tercer cielo, he de batallar con esta
+Seńor y que he sido arrebatado al tercer cielo, żhe de batallar con esta
 
-propensin miserable, ruin y despreciable que yo crea que ya haba erradicado desde
+propensión miserable, ruin y despreciable que yo creía que ya había erradicado desde
 
-haca catorce aos? S, as fue, el Seor haba enviado un mensajero de
+hacía catorce ańos?” Sí, así fue, el Seńor había enviado “un mensajero de
 
-Satans para que lo abofeteara.
+Satanás” para que lo abofeteara.
 
 Y esa palabra
 
-abofetear.
+“abofetear”.
 
 Noten eso: dar de
 
-cachetadas. Eso es. No se trata de pelear contra l con la espada; esa sera
+cachetadas. Eso es. No se trata de pelear contra él con la espada; esa sería
 
 una obra viril y militar, sino de propinarle cachetadas como los capataces
 
-solan cachetear a los esclavos, o como los pedagogos golpean los odos de los
+solían cachetear a los esclavos, o como los pedagogos golpean los oídos de los
 
-educandos. Pablo pareca sentir la degradacin de ser abofeteado. Yo, que luchara
+educandos. Pablo parecía sentir la degradación de ser abofeteado. “Yo, que lucharía
 
-con Satans, y que me pondra el yelmo de la esperanza y el pectoral de la
+con Satanás, y que me pondría el yelmo de la esperanza y el pectoral de la
 
-confianza, y que saldra en contra de todos los poderes del infierno, he de
+confianza, y que saldría en contra de todos los poderes del infierno, żhe de
 
 ser abofeteado como si fuera un esclavo y disciplinado como si fuera un
 
-muchacho? He de ser golpeado por estas vanas y desventuradas tentaciones que
+muchacho? żHe de ser golpeado por estas vanas y desventuradas tentaciones que
 
-aun en mi juventud espiritual yo era capaz de dominar? Cada parte del proceso
+aun en mi juventud espiritual yo era capaz de dominar?” Cada parte del proceso
 
-tenda a rebajarlo, y tena el propsito de hacerlo para que no fuera exaltado
+tendía a rebajarlo, y tenía el propósito de hacerlo para que no fuera exaltado
 
 desmedidamente.
 
@@ -894,29 +894,29 @@ Pueden ver, hermanos,
 
 que esta medida preventiva estaba bien adaptada para cumplir su designio, pues
 
-seguramente hara volver al apstol de los xtasis y de las emociones, y lo
+seguramente haría volver al apóstol de los éxtasis y de las emociones, y lo
 
-hara sentir que estaba en el cuerpo despus de todo. Pablo dijo una vez: Si
+haría sentir que estaba en el cuerpo después de todo. Pablo dijo una vez: “Si
 
-en el cuerpo, no lo s, si fuera del cuerpo, no lo s; pero cuando la espina
+en el cuerpo, no lo sé, si fuera del cuerpo, no lo sé”; pero cuando la espina
 
-en la carne lo estaba desgarrando pronto resolvi esa cuestin. Esto lo hizo
+en la carne lo estaba desgarrando pronto resolvió esa cuestión. Esto lo hizo
 
-sentir que era un hombre igual que los dems. Haba soado, tal vez, que se
+sentir que era un hombre igual que los demás. Había sońado, tal vez, que se
 
-estaba volviendo muy anglico, pero ahora se siente intensamente humano. Esto lo
+estaba volviendo muy angélico, pero ahora se siente intensamente humano. Esto lo
 
-hizo sentir que slo era un hombre que si bien estaba muy lleno de Dios, aun
+hizo sentir que sólo era un hombre que si bien estaba muy lleno de Dios, aun
 
-as, era slo un hombre, y que poda tambin quedar igualmente lleno del
+así, era sólo un hombre, y que podía también quedar igualmente lleno del
 
 diablo, si fuera dejado de la gracia. Esto lo hizo sentir que era un hombre
 
-dbil, pues tena que batallar con bajas tentaciones, tentaciones que no
+débil, pues tenía que batallar con bajas tentaciones, tentaciones que no
 
-parecan dignas de que se luchase con ellas; tena que recibir cachetadas y ser
+parecían dignas de que se luchase con ellas; tenía que recibir cachetadas y ser
 
-abofeteado en una pequea medida, como los bebs en la gracia. Esto lo hizo
+abofeteado en una pequeńa medida, como los bebés en la gracia. Esto lo hizo
 
 saber que era un hombre en peligro, y que necesitaba acudir presurosamente a
 
@@ -924,79 +924,79 @@ Dios en busca de refugio, pues estaba listo para ser enaltecido desmedidamente
 
 incluso por bendiciones divinas, y sujeto a ser provocado al pecado por unos
 
-meros bofetones de un espritu maligno.
+meros bofetones de un espíritu maligno.
 
 De todo esto yo deduzco
 
-que la peor tribulacin que un hombre puede experimentar pudiera ser la mejor
+que la peor tribulación que un hombre puede experimentar pudiera ser la mejor
 
-posesin que tenga en este mundo; que el mensajero de Satans pudiera ser tan
+posesión que tenga en este mundo; que el mensajero de Satanás pudiera ser tan
 
-bueno para l como su ngel de la guarda; que sera tan bueno para l ser
+bueno para él como su ángel de la guarda; que sería tan bueno para él ser
 
-abofeteado por Satans como siempre lo fue ser acariciado por el propio Seor;
+abofeteado por Satanás como siempre lo fue ser acariciado por el propio Seńor;
 
-que pudiera ser esencial para la salvacin de nuestra alma que no hagamos
+que pudiera ser esencial para la salvación de nuestra alma que no hagamos
 
 negocios solamente en aguas profundas, sino en aguas que remueven el cieno y la
 
-mugre. La peor forma de tribulacin pudiera ser nuestra mejor porcin presente.
+mugre. La peor forma de tribulación pudiera ser nuestra mejor porción presente.
 
-Percibo, tambin, que la
+Percibo, también, que la
 
-peor experiencia y la ms profunda pudiera ser slo el complemento necesario de
+peor experiencia y la más profunda pudiera ser sólo el complemento necesario de
 
-la ms excelsa y de la ms noble; quiero decir que pudiera ser necesario que
+la más excelsa y de la más noble; quiero decir que pudiera ser necesario que
 
-seamos abatidos si somos encumbrados. Pudiera ser slo una parte integrante del
+seamos abatidos si somos encumbrados. Pudiera ser sólo una parte integrante del
 
-clamor: Ms cerca de Ti, mi Dios, ms cerca de Ti, que tengamos que gemir,
+clamor: “Más cerca de Ti, mi Dios, más cerca de Ti”, que tengamos que gemir,
 
-tambin: Miserable de m! Quin me librar de este cuerpo de muerte? Las
+también: “ˇMiserable de mí! żQuién me librará de este cuerpo de muerte?” Las
 
 dos experiencias encajan, una en otra, como dos piezas de un rompecabezas;
 
-suben y bajan como las escalas de la balanza, y, sin su acompaante, cualquiera
+suben y bajan como las escalas de la balanza, y, sin su acompańante, cualquiera
 
 de ellas pudiera ser ruinosa para nosotros.
 
-Aprendamos, tambin, que
+Aprendamos, también, que
 
-no debemos envidiar nunca a otros santos. Si omos que Pablo habla de sus
+no debemos envidiar nunca a otros santos. Si oímos que Pablo habla de sus
 
 visiones, recordemos la espina en su carne; si nos encontramos con un hermano
 
 que se regocija abundantemente y a quien Dios reconoce y bendice, no
 
-concluyamos que su senda es sin obstculos. Sus rosas tienen sus espinas, sus
+concluyamos que su senda es sin obstáculos. Sus rosas tienen sus espinas, sus
 
 abejas sus aguijones. En cuanto a nosotros, no debemos desear nunca estar sin
 
-nuestras cruces cotidianas. El cometa se separ de su cuerda, y en lugar de
+nuestras cruces cotidianas. El cometa se separó de su cuerda, y en lugar de
 
-remontarse a las estrellas descendi al lodo. El ro se cans de sus riberas
+remontarse a las estrellas descendió al lodo. El río se cansó de sus riberas
 
-restrictivas, y ansi destruirlas para poder discurrir en el goce salvaje de la
+restrictivas, y ansió destruirlas para poder discurrir en el goce salvaje de la
 
-libertad; los muros de contencin se desplomaron, el ro se convirti en una
+libertad; los muros de contención se desplomaron, el río se convirtió en una
 
-fuerte corriente, y llev destruccin y desolacin doquiera que se precipit. Denles
+fuerte corriente, y llevó destrucción y desolación doquiera que se precipitó. ˇDenles
 
-rienda suelta a los corceles del sol, y, he aqu, la tierra arder; desaten el
+rienda suelta a los corceles del sol, y, he aquí, la tierra arderá; desaten el
 
-cinturn a los elementos y reinar el caos! No debemos desear quedar libres
+cinturón a los elementos y reinará el caos! No debemos desear quedar libres
 
 nunca de las restricciones que Dios ha considerado conveniente ponernos; son
 
-ms necesarias de lo que soamos. Recuerden cmo la vid, cuando estuvo atada a
+más necesarias de lo que sońamos. Recuerden cómo la vid, cuando estuvo atada a
 
-la estaca que la sostena, se consideraba una mrtir, y ansiaba su libertad;
+la estaca que la sostenía, se consideraba una mártir, y ansiaba su libertad;
 
-pero cuando vio a la vid silvestre a sus pies, pudrindose en los humedales y
+pero cuando vio a la vid silvestre a sus pies, pudriéndose en los humedales y
 
-languideciendo en medio de los calores, y sin producir ningn fruto, sinti
+languideciendo en medio de los calores, y sin producir ningún fruto, sintió
 
-cun necesarias era sus ataduras si sus racimos deban madurar alguna vez.
+cuán necesarias era sus ataduras si sus racimos debían madurar alguna vez.
 
 Debes estar contento, querido hermano, por conservar la espina en la carne si
 
@@ -1010,103 +1010,103 @@ EFECTO INMEDIATO DE ESTA ESPINA EN PABLO.
 
 Primero, lo indujo a
 
-caer de rodillas. Acerca de esto, tres veces he rogado al Seor. Cualquier
+caer de rodillas. “Acerca de esto, tres veces he rogado al Seńor”. Cualquier
 
-cosa que nos haga orar es una bendicin. Esta espina oblig a Pablo a clamar a
+cosa que nos haga orar es una bendición. Esta espina obligó a Pablo a clamar a
 
-Dios, y, habiendo comenzado a orar, recurri a la oracin una y otra vez. Tres
+Dios, y, habiendo comenzado a orar, recurrió a la oración una y otra vez. “Tres
 
-veces ha rogado al Seor. Pudiera ser que este fuera el nmero exacto de sus
+veces ha rogado al Seńor”. Pudiera ser que este fuera el número exacto de sus
 
-oraciones especiales sobre ese punto; pudiera ser, sin embargo, que slo indicara
+oraciones especiales sobre ese punto; pudiera ser, sin embargo, que sólo indicara
 
-que a menudo clam a Dios para ser liberado de este problema. S, pudiramos
+que a menudo clamó a Dios para ser liberado de este problema. Sí, pudiéramos
 
-descuidar la oracin cuando todas las cosas siguen su cauce, pero multiplicamos
+descuidar la oración cuando todas las cosas siguen su cauce, pero multiplicamos
 
 las oraciones cuando las tribulaciones se incrementan. De esta manera Pablo fue
 
-protegido de ser soberbio. Las revelaciones ahora parecan olvidadas, pues la
+protegido de ser soberbio. Las revelaciones ahora parecían olvidadas, pues la
 
-espina en la carne era la ms prominente de las dos cosas. Ahora no hablara de
+espina en la carne era la más prominente de las dos cosas. Ahora no hablaría de
 
-visiones, y no poda hacerlo, pues, cuando su lengua era tentada a tocar ese tema,
+visiones, y no podía hacerlo, pues, cuando su lengua era tentada a tocar ese tema,
 
 la espina comenzaba a aguijonear su costado de nuevo. Un individuo no quiere
 
 contar historias bonitas cuando le duele su cabeza, o cuando unos dolores
 
-agudos lo estn punzando. A Pablo no se le permita que se deslumbrara con el
+agudos lo están punzando. A Pablo no se le permitía que se deslumbrara con el
 
-brillo que Dios haba puesto delante de l; sus pensamientos estaban orientados
+brillo que Dios había puesto delante de él; sus pensamientos estaban orientados
 
-en otra direccin, s, benditamente orientados al propiciatorio, donde no poda
+en otra dirección, sí, benditamente orientados al propiciatorio, donde no podía
 
-recibir ningn mal y ms bien obtener mucho provecho. Todava sigui orando, hasta
+recibir ningún mal y más bien obtener mucho provecho. Todavía siguió orando, hasta
 
-que al fin recibi por respuesta, no que se le quitara la espina, sino esta
+que al fin recibió por respuesta, no que se le quitara la espina, sino esta
 
-seguridad: Te basta mi gracia. Dios honrar siempre nuestras oraciones; nos
+seguridad: “Te basta mi gracia”. Dios honrará siempre nuestras oraciones; nos
 
-pagar ya sea en plata o en oro; y algunas veces, es una respuesta de oro para
+pagará ya sea en plata o en oro; y algunas veces, es una respuesta de oro para
 
-nuestra oracin que nos niegue nuestra peticin y que nos d exactamente lo
+nuestra oración que nos niegue nuestra petición y que nos dé exactamente lo
 
-opuesto de lo que buscbamos. Si le fueras a decir a tu hijo que le conceders
+opuesto de lo que buscábamos. Si le fueras a decir a tu hijo que le concederás
 
-todo lo que te pida, no pretenderas decirle con eso que le daras una droga venenosa,
+todo lo que te pida, no pretenderías decirle con eso que le darías una droga venenosa,
 
-si alguien le metiere la idea de que sera til para l. Querras decir que le
+si alguien le metiere la idea de que sería útil para él. Querrías decir que le
 
-daras a tu hijo todo lo que fuera realmente bueno para l. Por tanto, sabiendo
+darías a tu hijo todo lo que fuera realmente bueno para él. Por tanto, sabiendo
 
 Dios que esta espina en la carne era una sagrada medicina para Pablo, no quiso
 
-quitrsela, aunque se lo solicitara con mucha vehemencia. Bien dice Ralph
+quitársela, aunque se lo solicitara con mucha vehemencia. Bien dice Ralph
 
-Erskine respecto a la oracin:
+Erskine respecto a la oración:
 
-Soy escuchado cuando se me responde tarde o temprano,
+“Soy escuchado cuando se me responde tarde o temprano,
 
-S, soy escuchado cuando no recibo ninguna respuesta;
+Sí, soy escuchado cuando no recibo ninguna respuesta;
 
-Soy escuchado muy atentamente cuando se me niega la peticin;
+Soy escuchado muy atentamente cuando se me niega la petición;
 
-Y soy bien tratado cuando soy duramente usado.
+Y soy bien tratado cuando soy duramente usado”.
 
 Entonces, aunque su
 
-peticin fuera negada, Pablo recibi una respuesta, pues obtuvo algo mejor que
+petición fuera negada, Pablo recibió una respuesta, pues obtuvo algo mejor que
 
-la remocin de la espina en la carne, y el resultado fue que la gracia que le
+la remoción de la espina en la carne, y el resultado fue que la gracia que le
 
-fue otorgada le permiti tolerar la espina, y lo iz por encima de ella, al
+fue otorgada le permitió tolerar la espina, y lo izó por encima de ella, al
 
-punto que aun se regocij, y se glori al pensar que se le permitiera sufrir
+punto que aun se regocijó, y se glorió al pensar que se le permitiera sufrir
 
-as. Por tanto, muy gustosamente me gloriar ms bien en mis debilidades, para
+así. “Por tanto, muy gustosamente me gloriaré más bien en mis debilidades, para
 
-que el poder de Cristo more en m. Esto es algo grandioso. Suponiendo que
+que el poder de Cristo more en mí”. Esto es algo grandioso. Suponiendo que
 
-alguno de los presentes fuera muy pobre, y que hubiera orado al Seor muchas
+alguno de los presentes fuera muy pobre, y que hubiera orado al Seńor muchas
 
 veces para que lo hiciera superar la carencia, y que al fin Dios le hubiere
 
-dicho: Te basta mi gracia, qu ms podra necesitar? Mi querido hermano,
+dicho: “Te basta mi gracia”, żqué más podría necesitar? Mi querido hermano,
 
-regocjate en la pobreza, y da gracias a Dios por ser pobre, si el Seor recibe
+regocíjate en la pobreza, y da gracias a Dios por ser pobre, si el Seńor recibe
 
-mayor gloria por ello; agradece tu humilde estado, y di: tengo el honor de que
+mayor gloria por ello; agradece tu humilde estado, y di: “tengo el honor de que
 
-se me permita glorificar a Dios en la pobreza. Tal vez pudiera ser que eres el
+se me permita glorificar a Dios en la pobreza”. Tal vez pudiera ser que eres el
 
 blanco de una enfermedad corporal dolorosa, y has orado para que la quite de ti;
 
-sin embargo, el Seor sabe que tu enfermedad es para Su gloria, y para tu bien.
+sin embargo, el Seńor sabe que tu enfermedad es para Su gloria, y para tu bien.
 
-Bien, cuando l dice: Bstate mi gracia, acepta y soporta la tribulacin no
+Bien, cuando Él dice: “Bástate mi gracia”, acepta y soporta la tribulación no
 
-slo con resignacin, sino con anuencia. No has de desear cambiar tu estado. Tu
+sólo con resignación, sino con anuencia. No has de desear cambiar tu estado. Tu
 
 Padre celestial es el mejor juez.
 
@@ -1114,91 +1114,91 @@ IV.
 
 Ahora
 
-veremos, por ltimo, EL RESULTADO PERMANENTE
+veremos, por último, EL RESULTADO PERMANENTE
 
 de esta medida preventiva en Pablo. Por lo
 
-pronto, ustedes ven que lo protegi de ser enaltecido llevndolo orar y
+pronto, ustedes ven que lo protegió de ser enaltecido llevándolo orar y
 
-conducindolo a recibir ms gracia, pero, permanentemente, el remedio fue muy
+conduciéndolo a recibir más gracia, pero, permanentemente, el remedio fue muy
 
-exitoso, pues a travs del poder
+exitoso, pues a través del poder
 
 del
 
-Espritu Santo lo mantuvo siempre humilde. Esta espina en la carne lo hizo
+Espíritu Santo lo mantuvo siempre humilde. Esta espina en la carne lo hizo
 
-humilde respecto a sus visiones, pues no habl de ellas. Transcurrieron catorce
+humilde respecto a sus visiones, pues no habló de ellas. Transcurrieron catorce
 
-largos aos, y el apstol nunca le dijo a nadie que haba sido arrebatado hasta
+largos ańos, y el apóstol nunca le dijo a nadie que había sido arrebatado hasta
 
-el tercer cielo. Por la manera en que lo expresa aqu, yo intuyo que nunca lo
+el tercer cielo. Por la manera en que lo expresa aquí, yo intuyo que nunca lo
 
-mencion a nadie. Eso fue muy singular. Vamos, si yo fuera arrebatado hasta el
+mencionó a nadie. Eso fue muy singular. Vamos, si yo fuera arrebatado hasta el
 
-tercer cielo, se los contara tan pronto tuviera la oportunidad de dirigirme a
+tercer cielo, se los contaría tan pronto tuviera la oportunidad de dirigirme a
 
-ustedes, y les garantizo que la mayora de los presentes compartira los
+ustedes, y les garantizo que la mayoría de los presentes compartiría los
 
 benditos secretos con sus amigos en un breve lapso. La espina en la carne debe
 
-de haber tenido un potente efecto en la mente del apstol, ya que lo condujo a
+de haber tenido un potente efecto en la mente del apóstol, ya que lo condujo a
 
 envolver su tesoro en su pecho, y a ir por el mundo sin que nadie se enterara
 
-de todo lo que l haba visto. Pablo era en verdad un hombre humilde.
+de todo lo que él había visto. Pablo era en verdad un hombre humilde.
 
-Cuando lo cont
+Cuando lo contó
 
-finalmente, le fue arrancado de su interior. Lo dijo con un propsito. Fue slo
+finalmente, le fue arrancado de su interior. Lo dijo con un propósito. Fue sólo
 
-porque los corintios haban negado su condicin de apstol y decan: Qu sabe
+porque los corintios habían negado su condición de apóstol y decían: “żQué sabe
 
-Pablo en relacin a las cosas divinas?, que se sinti obligado a vindicar su
+Pablo en relación a las cosas divinas?”, que se sintió obligado a vindicar su
 
-carcter pues de otro modo no lo hubiera dicho. Noten cun modestamente habla
+carácter pues de otro modo no lo hubiera dicho. Noten cuán modestamente habla
 
-de ello, de tal manera que no deja la impresin en la mente de ustedes de que fuera
+de ello, de tal manera que no deja la impresión en la mente de ustedes de que fuera
 
-un hombre eminentemente honrado por haber recibido la revelacin. La impresin
+un hombre eminentemente honrado por haber recibido la revelación. La impresión
 
-recibida es ms bien de lo dbil que fue Pablo al ser exaltado desmedidamente,
+recibida es más bien de lo débil que fue Pablo al ser exaltado desmedidamente,
 
 y lo clemente que fue Dios al darle la espina en la carne para mantenerlo donde
 
-deba estar. Observen que esta manera de contar la historia es modesta en su
+debía estar. Observen que esta manera de contar la historia es modesta en su
 
-forma misma, pero es especialmente humilde en su espritu, pues nos quita la
+forma misma, pero es especialmente humilde en su espíritu, pues nos quita la
 
-idea de cun gloriosamente Dios se revel a Pablo, y nos hace ver ms bien la
+idea de cuán gloriosamente Dios se reveló a Pablo, y nos hace ver más bien la
 
-debilidad del receptor de la revelacin que el gran honor conferido por la
+debilidad del receptor de la revelación que el gran honor conferido por la
 
-revelacin.
+revelación.
 
 No es poca cosa que Dios
 
-enve una espina en la carne y que cumpla su cometido, pues en algunos casos no
+envíe una espina en la carne y que cumpla su cometido, pues en algunos casos no
 
-lo hace. Sin el poder santificador del Espritu Santo, las espinas son
+lo hace. Sin el poder santificador del Espíritu Santo, las espinas son
 
-productoras de mal ms que de bien. En mucha gente la espina en su carne no
+productoras de mal más que de bien. En mucha gente la espina en su carne no
 
-pareciera haber cumplido ningn admirable designio en absoluto; ha creado otro
+pareciera haber cumplido ningún admirable designio en absoluto; ha creado otro
 
-vicio, en vez de quitar una tentacin. Hemos conocido a algunos cuya pobreza
+vicio, en vez de quitar una tentación. Hemos conocido a algunos cuya pobreza
 
 los ha vuelto envidiosos; a otros cuya enfermedad los ha hecho impacientes y
 
-petulantes; y a otros, tambin, cuya debilidad personal los ha vuelto
+petulantes; y a otros, también, cuya debilidad personal los ha vuelto
 
 perpetuamente inquietos y rebeldes contra Dios.
 
 Oh, amados hermanos y hermanas
 
-en Cristo Jess, luchemos con todas nuestras fuerzas en contra de esto, y si le
+en Cristo Jesús, luchemos con todas nuestras fuerzas en contra de esto, y si le
 
-ha agradado a Dios ponernos una traba de algn tipo u otro, pidmosle que no
+ha agradado a Dios ponernos una traba de algún tipo u otro, pidámosle que no
 
 permita que la convirtamos en una excusa para una nueva locura, sino, al
 
@@ -1206,49 +1206,49 @@ contrario, que aguantemos la vara y aprendamos sus lecciones. Oremos pidiendo
 
 que cuando seamos afligidos, crezcamos en gracia y seamos hechos semejantes a
 
-nuestro Seor Jess, y demos
+nuestro Seńor Jesús, y demos
 
-as
+así
 
 mayor honra a Su
 
-nombre. Acaso no nos ensea eso a todos el solemne deber de estar contentos,
+nombre. żAcaso no nos enseńa eso a todos el solemne deber de estar contentos,
 
-cualquiera que sea nuestra suerte contentos sin la revelacin sin estamos sin
+cualquiera que sea nuestra suerte –contentos sin la revelación sin estamos sin
 
-la espina, y contentos con la espina si tenemos la revelacin- contentos ya sea
+la espina, y contentos con la espina si tenemos la revelación- contentos ya sea
 
-sin revelacin o sin espina, en tanto que tengamos una humilde esperanza en
+sin revelación o sin espina, en tanto que tengamos una humilde esperanza en
 
 Jesucristo nuestro Salvador?
 
-Oh, amados, qu pueblo
+Oh, amados, qué pueblo
 
 tan feliz es el pueblo de Dios, y debe serlo, cuando todo es para su bien,
 
-cuando aun la espina que era una maldicin se vuelve una bendicin para ellos,
+cuando aun la espina que era una maldición se vuelve una bendición para ellos,
 
-y cuando del len sale miel. Si la espina es una bendicin, qu no ser la
+y cuando del león sale miel. Si la espina es una bendición, żqué no será la
 
-propia bendicin? Si los dolores punzantes de la tierra nos sanan, qu no
+propia bendición? Si los dolores punzantes de la tierra nos sanan, żqué no
 
-harn por nosotros los goces del cielo? Debemos alegrarnos! La nuestra es una
+harán por nosotros los goces del cielo? ˇDebemos alegrarnos! ˇLa nuestra es una
 
-porcin dichosa! Prosigamos nuestro camino regocijndonos porque somos
+porción dichosa! Prosigamos nuestro camino regocijándonos porque somos
 
 favorecidos para poseer la vida divina, y debemos cargar con nuestra cruz
 
-alegremente, puesto que pronto (ah, y cun pronto!) llevaremos nuestra corona.
+alegremente, puesto que pronto (ˇah, y cuán pronto!) llevaremos nuestra corona.
 
-El ltimo pensamiento es,
+El último pensamiento es,
 
-qu triste cosa ha de ser no ser un creyente en Jesucristo, porque tendremos
+ˇqué triste cosa ha de ser no ser un creyente en Jesucristo, porque tendremos
 
-espinas si no estamos en Cristo, pero esas espinas no sern bendiciones para
+espinas si no estamos en Cristo, pero esas espinas no serán bendiciones para
 
 nosotros! Yo entiendo que haya que beber una medicina amarga, si ha de curarme;
 
-pero quin beber ajenjo y hiel sin que se origine algn buen resultado? Yo
+pero żquién beberá ajenjo y hiel sin que se origine algún buen resultado? Yo
 
 entiendo que haya que trabajar si hay una paga en perspectiva, pero no puedo
 
@@ -1256,57 +1256,57 @@ ver el sentido de trabajar si no hay recompensa por el trabajo. Ahora, ustedes
 
 que no aman a Dios, no todas sus vidas son flores y brillo del sol. No todo es
 
-msica y danza para ustedes ahora. Yo s que tienen sus cuidados y sus
+música y danza para ustedes ahora. Yo sé que tienen sus cuidados y sus
 
 problemas, que tienen sus espinas en la carne, y tal vez se trate de una gran
 
-cantidad de ellas, pero no tienen ningn Salvador a quien acudir. Son como un
+cantidad de ellas, pero no tienen ningún Salvador a quien acudir. Son como un
 
-barco en una tormenta, y no hay un puerto seguro para ustedes; son como pjaros
+barco en una tormenta, y no hay un puerto seguro para ustedes; son como pájaros
 
-sacudidos por el viento que no tienen ningn nido en el que guarecerse, sino
+sacudidos por el viento que no tienen ningún nido en el que guarecerse, sino
 
 que tienen que ser llevados por siempre delante del torbellino de la ira de
 
-Jehov. Consideren eso, se los ruego, mediten en su condicin y en sus
+Jehová. Consideren eso, se los ruego, mediten en su condición y en sus
 
-perspectivas, y cuando lo hayan hecho, que su corazn exclame: Me alegrara
+perspectivas, y cuando lo hayan hecho, que su corazón exclame: “Me alegraría
 
-que Dios fuera mi amigo. Recuerden que Aquel que envi espinas a Pablo para su
+que Dios fuera mi amigo”. Recuerden que Aquel que envió espinas a Pablo para su
 
-bien, una vez llev una corona de espinas para la salvacin de los pecadores; y
+bien, una vez llevó una corona de espinas para la salvación de los pecadores; y
 
-si t vienes y te inclinas delante de l cuando lleva esa diadema, y confas en
+si tú vienes y te inclinas delante de Él cuando lleva esa diadema, y confías en
 
-l como el Hijo de Dios hecho carne por los pecadores, y que se desangr y
+Él como el Hijo de Dios hecho carne por los pecadores, y que se desangró y
 
-muri por ellos, sers salvado esta maana; tus pecados, que son muchos, te
+murió por ellos, serás salvado esta mańana; tus pecados, que son muchos, te
 
-sern perdonados; y aunque no puedo prometerte que estars sin una espina en tu
+serán perdonados; y aunque no puedo prometerte que estarás sin una espina en tu
 
-vida, puedo prometerte que tus espinas sern quitadas, que se convertirn para
+vida, puedo prometerte que tus espinas serán quitadas, que se convertirán para
 
-ti en una rica bendicin, lo cual ser aun mejor. Hay una espina que nunca
+ti en una rica bendición, lo cual será aun mejor. Hay una espina que nunca
 
-tendrs, si crees en Jess: la espina del pecado no perdonado, el miedo de la
+tendrás, si crees en Jesús: la espina del pecado no perdonado, el miedo de la
 
-ira venidera. Tendrs la paz de Dios que sobrepasa todo entendimiento, que
+ira venidera. Tendrás la paz de Dios que sobrepasa todo entendimiento, que
 
-guardar tu corazn y mente por Cristo Jess. Oh, que algunos confiaran en
+guardará tu corazón y mente por Cristo Jesús. Oh, que algunos confiaran en
 
-Jess esta maana. Vayan, hermanos, y oren para que as suceda. Que el Seor conceda
+Jesús esta mańana. Vayan, hermanos, y oren para que así suceda. Que el Seńor conceda
 
-eso, por Cristo nuestro Seor. Amn.
+eso, por Cristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Salmo 25.
+del sermón: Salmo 25.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Noviembre/2012
 

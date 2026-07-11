@@ -1,6 +1,6 @@
 # Sermón 305 | Sermón 305
 
-El Plpito de
+El Púlpito de
 
 la Capilla
 
@@ -12,9 +12,9 @@ Separando lo
 
 Precioso de lo Vil
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -34,85 +34,85 @@ STRAND
 
 LONDRES.
 
-Para que sepis que Jehov
+“Para que sepáis que Jehová
 
-hace diferencia entre los egipcios y los israelitas. xodo 11: 7.
+hace diferencia entre los egipcios y los israelitas”. Éxodo 11: 7.
 
 La diferencia entre los egipcios e Israel
 
-era sobremanera manifiesta. A primera vista pareca que Egipto llevaba la gran
+era sobremanera manifiesta. A primera vista parecía que Egipto llevaba la gran
 
-ventaja. Ellos tenan el ltigo en su mano y el pobre Israel se dola bajo el
+ventaja. Ellos tenían el látigo en su mano y el pobre Israel se dolía bajo el
 
-azote. Egipto posea la mano de obra de los israelitas: los hijos de Jacob
+azote. Egipto poseía la mano de obra de los israelitas: los hijos de Jacob
 
-hacan ladrillos y los sbditos de Faran habitaban las casas que los hijos de
+hacían ladrillos y los súbditos de Faraón habitaban las casas que los hijos de
 
-Jacob edificaban. Cun pronto, sin embargo, las cosas cambiaron! Dios envi
+Jacob edificaban. ˇCuán pronto, sin embargo, las cosas cambiaron! Dios envió
 
-plagas a Egipto pero la tierra Gosn fue librada. l envi densas tinieblas
+plagas a Egipto pero la tierra Gosén fue librada. Él envió densas tinieblas
 
-sobre toda la tierra, tanto que se podan palpar; pero en toda la tierra de
+sobre toda la tierra, tanto que se podían palpar; pero en toda la tierra de
 
-Gosn hubo luz. Envi todo tipo de moscas y piojos en todas sus fronteras, pero
+Gosén hubo luz. Envió todo tipo de moscas y piojos en todas sus fronteras, pero
 
 en todas las habitaciones de Israel no se vio ni una mosca, ni fueron molestados
 
 por las criaturas vivientes que brotaban del polvo animado de la tierra. El
 
-Seor envi granizo y una epidemia terrible sobre los ganados de los egipcios;
+Seńor envió granizo y una epidemia terrible sobre los ganados de los egipcios;
 
-pero el ganado de los hijos de Israel fue librado y en sus campos no cay
+pero el ganado de los hijos de Israel fue librado y en sus campos no cayó
 
-ninguna lluvia asoladora del cielo. Finalmente el ngel destructor desenvain
+ninguna lluvia asoladora del cielo. Finalmente el ángel destructor desenvainó
 
-su reluciente espada para asestar su ltimo golpe decisivo. En toda casa a
+su reluciente espada para asestar su último golpe decisivo. En toda casa a
 
-travs de la tierra de Egipto hubo llanto y gemidos; Dios hiri de muerte al
+través de la tierra de Egipto hubo llanto y gemidos; Dios hirió de muerte al
 
-primognito de Egipto, las primicias de toda su fuerza, pero en cuanto a Su
+primogénito de Egipto, las primicias de toda su fuerza, pero en cuanto a Su
 
-pueblo l los condujo como ovejas, los gui a travs del desierto como un
+pueblo Él los condujo como ovejas, los guió a través del desierto como un
 
-rebao de la mano de Moiss y Aarn. Llegaron al Mar Rojo y l abri una senda
+rebańo de la mano de Moisés y Aarón. Llegaron al Mar Rojo y Él abrió una senda
 
-para ellos; atravesaron el mar a pie, y all se regocijaron en l. Se juntaron
+para ellos; atravesaron el mar a pie, y allí se regocijaron en Él. Se juntaron
 
-las corrientes como en un montn; los abismos se cuajaron en medio del mar.
+las corrientes como en un montón; los abismos se cuajaron en medio del mar.
 
 Ellos atravesaron las profundidades como se atraviesa un desierto, pero cuando
 
 los egipcios ensayaron hacer lo mismo murieron ahogados. En todas estas cosas
 
-el Seor hizo una gloriosa distincin entre Egipto e Israel. La columna de
+el Seńor hizo una gloriosa distinción entre Egipto e Israel. La columna de
 
 fuego que daba luz a Israel fue tinieblas para los ojos de Egipto. Siempre que
 
-Dios bendeca a Israel, maldeca a Egipto; en el mismo instante en que enviaba
+Dios bendecía a Israel, maldecía a Egipto; en el mismo instante en que enviaba
 
-la bendicin al uno, enviaba la maldicin al otro. l miraba a Israel y las
+la bendición al uno, enviaba la maldición al otro. Él miraba a Israel y las
 
 tribus se regocijaban, pero cuando miraba a los egipcios, su campamento era
 
 trastornado.
 
-Ahora, a odos de ustedes en este da,
+Ahora, a oídos de ustedes en este día,
 
 Egipto e Israel son declarados como tipos de dos pueblos que moran sobre la faz
 
-de la tierra: los hombres que temen al Seor y los hombres que no le temen. Los
+de la tierra: los hombres que temen al Seńor y los hombres que no le temen. Los
 
-egipcios son la representacin de quienes estn muertos en delitos y pecados,
+egipcios son la representación de quienes están muertos en delitos y pecados,
 
 de quienes son enemigos de Dios por sus obras malvadas y forasteros para la
 
 mancomunidad de Israel. Los israelitas, el antiguo pueblo de Dios, son puestos
 
-ante nosotros como los representantes de aquellos que por la gracia han credo
+ante nosotros como los representantes de aquellos que por la gracia han creído
 
 en Cristo, que temen a Dios y procuran guardar Sus mandamientos. La tarea de
 
-esta maana ser mostrarles, primero,
+esta mańana será mostrarles, primero,
 
 la
 
@@ -120,17 +120,17 @@ diferencia;
 
 en segundo lugar,
 
-cundo
+cuándo
 
 se ve esa diferencia;
 
 y en tercer lugar,
 
-la razn por la que debe verse;
+la razón por la que debe verse;
 
-sobre este ltimo punto voy a
+sobre este último punto voy a
 
-acicatear sus mentes, exhortndolos a hacer esa diferencia cada vez ms
+acicatear sus mentes, exhortándolos a hacer esa diferencia cada vez más
 
 conspicua en su vida cotidiana.
 
@@ -142,15 +142,15 @@ LA DIFERENCIA.
 
 El
 
-Seor ha establecido una diferencia entre quienes son Su pueblo y quienes no lo
+Seńor ha establecido una diferencia entre quienes son Su pueblo y quienes no lo
 
 son.
 
 Hay muchas distinciones entre los hombres
 
-que un da sern borradas, pero permtanme recordarles de entrada que esta es
+que un día serán borradas, pero permítanme recordarles de entrada que esta es
 
-una distincin
+una distinción
 
 eterna.
 
@@ -158,9 +158,9 @@ Entre las
 
 diferentes clases de hombres, los ricos y los pobres, hay canales de
 
-intercomunicacin, y eso es algo muy conveniente, pues entre menos se mantengan
+intercomunicación, y eso es algo muy conveniente, pues entre menos se mantengan
 
-las distinciones de clase ser mejor para la felicidad de todos. No ha de
+las distinciones de clase será mejor para la felicidad de todos. No ha de
 
 conservarse el tejido social manteniendo una columna a expensas de otra, ni
 
@@ -170,21 +170,21 @@ una,
 
 y la prosperidad de una clase es
 
-proporcionalmente la prosperidad de todos. Pero hay una distincin tan amplia que
+proporcionalmente la prosperidad de todos. Pero hay una distinción tan amplia que
 
-verdaderamente podemos decir de ella: Una gran sima est puesta entre nosotros
+verdaderamente podemos decir de ella: “Una gran sima está puesta entre nosotros
 
-y vosotros, y entre ms ancha sea la lnea de demarcacin, ms feliz ser para
+y vosotros”, y entre más ancha sea la línea de demarcación, más feliz será para
 
-la iglesia y mejor para el mundo. Hay una distincin de una anchura infinita entre
+la iglesia y mejor para el mundo. Hay una distinción de una anchura infinita entre
 
-el pecador muerto en pecado y el hijo de Dios vivificado por el Espritu que ha
+el pecador muerto en pecado y el hijo de Dios vivificado por el Espíritu que ha
 
-sido adoptado en la familia del Altsimo. Con respecto a esta distincin
+sido adoptado en la familia del Altísimo. Con respecto a esta distinción
 
-permtanme hacer los siguientes comentarios.
+permítanme hacer los siguientes comentarios.
 
-Primero, la distincin entre los justos y
+Primero, la distinción entre los justos y
 
 los malvados es
 
@@ -192,13 +192,13 @@ sumamente antigua.
 
 Fue
 
-ordenada por Dios desde antes de la fundacin del mundo. Jehov escribi los
+ordenada por Dios desde antes de la fundación del mundo. Jehová escribió los
 
-nombres de Sus elegidos en el pacto eterno; por ellos Cristo asumi el
+nombres de Sus elegidos en el pacto eterno; por ellos Cristo asumió el
 
-compromiso de que l sera Su fianza y el sustituto para sufrir en el lugar y
+compromiso de que Él sería Su fianza y el sustituto para sufrir en el lugar y
 
-en la posicin de ellos. Los compromisos del pacto fueron hechos en favor de
+en la posición de ellos. Los compromisos del pacto fueron hechos en favor de
 
 ellos
 
@@ -210,27 +210,27 @@ Sus nombres fueron inscritos desde la
 
 eternidad en el libro de Dios y fueron grabados en las piedras preciosas del
 
-pectoral de su grandioso sumo sacerdote. Fueron luego apartados en el pacto: Jehov
+pectoral de su grandioso sumo sacerdote. Fueron luego apartados en el pacto: “Jehová
 
-ha escogido al piadoso para s. Mientras el mundo entero estaba bajo el
+ha escogido al piadoso para sí”. Mientras el mundo entero estaba bajo el
 
-maligno, estas preciosas joyas fueron seleccionadas del muladar de la cada.
+maligno, estas preciosas joyas fueron seleccionadas del muladar de la caída.
 
 Ciertamente por naturaleza no eran mejores que otros hombres; con todo, la
 
-soberana divina, del brazo de la gracia divina, seleccion a algunos para que
+soberanía divina, del brazo de la gracia divina, seleccionó a algunos para que
 
-fueran vasos de misericordia que deban ser hechos aptos para el uso del Seor,
+fueran vasos de misericordia que debían ser hechos aptos para el uso del Seńor,
 
-en quienes Jehov mostrara no nicamente Su misericordia sino la plenitud de
+en quienes Jehová mostraría no únicamente Su misericordia sino la plenitud de
 
 Su gracia y las riquezas de Su amor. Otras distinciones son meramente
 
-temporales; son cosas que crecieron ayer y morirn maana; pero esta es ms
+temporales; son cosas que crecieron ayer y morirán mańana; pero esta es más
 
 antigua que los montes eternos. Antes de que el cielo estrellado fuera
 
-extendido o que fueran cavados los cimientos de la tierra, el Seor haba
+extendido o que fueran cavados los cimientos de la tierra, el Seńor había
 
 establecido una diferencia entre Israel y Egipto. Esto, sin embargo, es un
 
@@ -240,53 +240,53 @@ la Palabra
 
 , con todo, no
 
-debemos entrometernos intrusamente con l.
+debemos entrometernos intrusamente con él.
 
-Dios ha establecido otra distincin, es
+Dios ha establecido otra distinción, es
 
-decir, una distincin
+decir, una distinción
 
 vital.
 
 Entre el
 
-justo y el malvado hay una distincin esencial de naturaleza. Hay algunos entre
+justo y el malvado hay una distinción esencial de naturaleza. Hay algunos entre
 
-ustedes que imaginan que la nica diferencia entre el verdadero cristiano y
+ustedes que imaginan que la única diferencia entre el verdadero cristiano y
 
 cualquier otra persona es simplemente esta: que el uno asiste regularmente a su
 
-lugar de adoracin, que es ms consistente en la prctica de ceremonias, que no
+lugar de adoración, que es más consistente en la práctica de ceremonias, que no
 
-podra vivir sin la oracin privada y cosas semejantes. Permteme asegurarte
+podría vivir sin la oración privada y cosas semejantes. Permíteme asegurarte
 
-que si no hay una diferencia ms grande que esta entre otro hombre y t, t no
+que si no hay una diferencia más grande que esta entre otro hombre y tú, tú no
 
-eres un hijo de Dios. La distincin entre el inconverso y el convertido es
+eres un hijo de Dios. La distinción entre el inconverso y el convertido es
 
-mucho ms amplia que esto. No es una distincin de vestido o de forma externa
+mucho más amplia que esto. No es una distinción de vestido o de forma externa
 
-sino de esencia y de naturaleza. Traigan aqu una serpiente y un ngel: hay una
+sino de esencia y de naturaleza. Traigan aquí una serpiente y un ángel: hay una
 
-distincin entre los dos de tal carcter que la serpiente no se podra
+distinción entre los dos de tal carácter que la serpiente no se podría
 
-convertir en un ngel, sin importar el esfuerzo que hiciera; el ngel no podra
+convertir en un ángel, sin importar el esfuerzo que hiciera; el ángel no podría
 
-comer el polvo que forma el alimento de la serpiente, ni la serpiente podra alzar
+comer el polvo que forma el alimento de la serpiente, ni la serpiente podría alzar
 
-su voz y cantar el himno serfico de los bienaventurados. Una distincin tan
+su voz y cantar el himno seráfico de los bienaventurados. Una distinción tan
 
 amplia como esa es la que hay entre el hombre que teme a Dios y el hombre que
 
-no le teme. Si t eres todava lo que siempre fuiste por naturaleza, no puedes
+no le teme. Si tú eres todavía lo que siempre fuiste por naturaleza, no puedes
 
 ser un verdadero cristiano y es completamente imposible que te conviertas en
 
 uno por tus propios medios. Puedes lavarte y limpiarte, puedes vestirte y
 
-abrigarte; sers el hijo de la naturaleza finamente vestido, pero no el hijo
+abrigarte; serás el hijo de la naturaleza finamente vestido, pero no el hijo
 
-viviente del cielo. T
+viviente del cielo. Tú
 
 tienes
 
@@ -294,39 +294,39 @@ que
 
 nacer de nuevo; tienes que recibir una nueva naturaleza en tu interior; una
 
-chispa de divinidad tiene que caer en tu pecho y tiene que arder all. La
+chispa de divinidad tiene que caer en tu pecho y tiene que arder allí. La
 
-naturaleza cada nicamente se puede levantar a la altura de la naturaleza, tal
+naturaleza caída únicamente se puede levantar a la altura de la naturaleza, tal
 
-como el agua solo fluir tan alto como su fuente; y como t ests cado en la
+como el agua solo fluirá tan alto como su fuente; y como tú estás caído en la
 
-naturaleza, as debes permanecer a menos que seas renovado por la gracia. Dios
+naturaleza, así debes permanecer a menos que seas renovado por la gracia. Dios
 
-por Su infinito poder ha vivificado a Su pueblo: l los ha sacado de su vieja
+por Su infinito poder ha vivificado a Su pueblo: Él los ha sacado de su vieja
 
 naturaleza; aman ahora las cosas que una vez odiaron, y odian las cosas que una
 
-vez amaron. Para ellos las cosas viejas pasaron; he aqu todas son hechas
+vez amaron. Para ellos las cosas viejas “pasaron; he aquí todas son hechas
 
-nuevas. El cambio no consiste en que hablan ms solemne y religiosamente, o
+nuevas”. El cambio no consiste en que hablan más solemne y religiosamente, o
 
 que han dejado de ir al teatro, o que no pasan su vida en las frivolidades del
 
-mundo: ese no es el cambio; es una consecuencia de l, pero el cambio es ms
+mundo: ese no es el cambio; es una consecuencia de él, pero el cambio es más
 
-profundo y ms vital que eso; es un cambio de la propia esencia del hombre. Ya
+profundo y más vital que eso; es un cambio de la propia esencia del hombre. Ya
 
-no es ms el hombre que una vez fue: ha sido renovado en el espritu de su
+no es más el hombre que una vez fue: ha sido “renovado en el espíritu de su
 
-mente, ha nacido de nuevo, ha sido regenerado, recreado: es un extrao y un
+mente”, ha nacido de nuevo, ha sido regenerado, recreado: es un extrańo y un
 
-forastero aqu abajo; no pertenece ms a este mundo sino al mundo venidero.
+forastero aquí abajo; no pertenece más a este mundo sino al mundo venidero.
 
-Entonces, en este sentido, el Seor ha establecido una diferencia entre Israel
+Entonces, en este sentido, el Seńor ha establecido una diferencia entre Israel
 
 y Egipto.
 
-Quisiramos comentar, adicionalmente, que
+Quisiéramos comentar, adicionalmente, que
 
 a esta diferencia de naturaleza le sigue una diferencia
 
@@ -334,37 +334,37 @@ en el tratamiento judicial
 
 de los dos hombres. Con ambos, los
 
-tratos de Dios son justos y rectos. Lejos est de l ser injusto con alguien!
+tratos de Dios son justos y rectos. ˇLejos está de Él ser injusto con alguien!
 
-El Seor nunca es severo ms all de lo que la justicia exige, ni es clemente
+El Seńor nunca es severo más allá de lo que la justicia exige, ni es clemente
 
-ms all de lo que la justicia permite. Aqu viene el impo, el hombre no
+más allá de lo que la justicia permite. Aquí viene el impío, el hombre no
 
-regenerado; l argumenta sus buenas obras, sus oraciones, sus lgrimas; el
+regenerado; él argumenta sus buenas obras, sus oraciones, sus lágrimas; el
 
-Seor le juzgar de acuerdo a sus obras, y ay de aquel da para l!, ser
+Seńor le juzgará de acuerdo a sus obras, y ˇay de aquel día para él!, será
 
-verdaderamente un da de afliccin pues pronto descubrir que sus mejores
+verdaderamente un día de aflicción pues pronto descubrirá que sus mejores
 
-perfecciones son como trapo de inmundicia y que todas sus buenas obras slo
+perfecciones son como trapo de inmundicia y que todas sus buenas obras sólo
 
-parecan ser buenas porque l estaba en las tinieblas y no poda ver las
+parecían ser buenas porque él estaba en las tinieblas y no podía ver las
 
-manchas que las pervertan. Se acerca otro hombre, es el hombre renovado. Dios
+manchas que las pervertían. Se acerca otro hombre, es el hombre renovado. Dios
 
-trata con l justamente, es cierto, pero no de acuerdo a la balanza de la ley.
+trata con él justamente, es cierto, pero no de acuerdo a la balanza de la ley.
 
-l mira a ese hombre como acepto en Cristo Jess, justificado por medio de la
+Él mira a ese hombre como acepto en Cristo Jesús, justificado por medio de la
 
 justicia de Cristo y lavado en Su sangre, y ahora trata con ese hombre, no como
 
-un juez con un criminal, ni como un rey con un sbdito, sino como un padre con
+un juez con un criminal, ni como un rey con un súbdito, sino como un padre con
 
-su hijo. Ese hombre es acogido en el seno de Jehov; su ofensa es suprimida; su
+su hijo. Ese hombre es acogido en el seno de Jehová; su ofensa es suprimida; su
 
 alma es constantemente renovada por la influencia de la gracia divina y los
 
-tratos de Dios con l son tan diferentes de los tratos de Dios con otro hombre,
+tratos de Dios con él son tan diferentes de los tratos de Dios con otro hombre,
 
 como el amor de un esposo difiere de la severidad de un monarca airado. Por un
 
@@ -372,107 +372,107 @@ lado, es simple justicia; por el otro lado, es amor ferviente; por un lado, la
 
 inflexible severidad de un juez, y por el otro lado, el afecto ilimitado del
 
-corazn de un padre. Entonces, en esto tambin, el Seor ha establecido una
+corazón de un padre. Entonces, en esto también, el Seńor ha establecido una
 
 diferencia entre Israel y Egipto.
 
-Esta distincin es realizada en
+Esta distinción es realizada en
 
 la providencia.
 
 Es verdad que para el
 
-ojo desnudo un evento les ocurre a ambos; sufre el justo as como el malvado y
+ojo desnudo un evento les ocurre a ambos; sufre el justo así como el malvado y
 
-van a la tumba que est sealada para todos los vivos; pero si pudiramos mirar
+van a la tumba que está seńalada para todos los vivos; pero si pudiéramos mirar
 
-ms de cerca a la providencia de Dios, veramos lneas de luz que dividen la
+más de cerca a la providencia de Dios, veríamos líneas de luz que dividen la
 
 senda del piadoso de la suerte del transgresor. Para el justo cada providencia
 
-es una bendicin. Una bendicin envuelve todas nuestras maldiciones y todas
+es una bendición. Una bendición envuelve todas nuestras maldiciones y todas
 
 nuestras cruces. Nuestras copas son algunas veces amargas pero siempre son
 
-saludables. Nuestra afliccin es nuestro bienestar. Nunca somos perdedores por
+saludables. Nuestra aflicción es nuestro bienestar. Nunca somos perdedores por
 
-nuestras prdidas, sino que ms bien nos enriquecemos para con Dios cuando
+nuestras pérdidas, sino que más bien nos enriquecemos para con Dios cuando
 
 empobrecemos con respecto a los hombres. Sin embargo, para el pecador, todas
 
-las cosas obran conjuntamente para mal. Es prspero? Es como la bestia que es
+las cosas obran conjuntamente para mal. żEs próspero? Es como la bestia que es
 
-engordada para el matadero. Est sano? Es como la flor que se abre que est
+engordada para el matadero. żEstá sano? Es como la flor que se abre que está
 
-madurando para la guadaa del segador. Sufre? Sus sufrimientos son las
+madurando para la guadańa del segador. żSufre? Sus sufrimientos son las
 
 primeras gotas de la eterna granizada de la venganza divina. Si el pecador
 
-pudiera abrir sus ojos se dara cuenta de que todo para l tiene un aspecto
+pudiera abrir sus ojos se daría cuenta de que todo para él tiene un aspecto
 
-negro. Para l las nubes estn cargadas de truenos, y el mundo entero est vivo
+negro. Para él las nubes están cargadas de truenos, y el mundo entero está vivo
 
-con terror. Si la tierra pudiera hacer lo que quisiera, hara que se
+con terror. Si la tierra pudiera hacer lo que quisiera, haría que se
 
 desprendieran de su seno los monstruos que olvidan a Dios. Pero a los justos
 
-todas las cosas les ayudan a bien. Venga lo malo o venga lo bueno, todo terminar
+todas las cosas les ayudan a bien. Venga lo malo o venga lo bueno, todo terminará
 
 bien; cada ola lo transporta apresuradamente a su deseado puerto y aun el viento
 
-tempestuoso hincha sus velas y le conduce ms rpidamente hacia el puerto de
+tempestuoso hincha sus velas y le conduce más rápidamente hacia el puerto de
 
-paz. El Seor ha establecido una diferencia entre Israel y Egipto en este
+paz. El Seńor ha establecido una diferencia entre Israel y Egipto en este
 
 mundo.
 
-Sin embargo, esa diferencia se har ms
+Sin embargo, esa diferencia se hará más
 
 claramente evidente en
 
-el da del juicio.
+el día del juicio.
 
-Entonces, cuando l se siente en el trono de Su gloria, apartar los unos
+Entonces, cuando Él se siente en el trono de Su gloria, apartará los unos
 
-de los otros, como aparta el pastor las ovejas de los cabritos. Dar voces a
+de los otros, como aparta el pastor las ovejas de los cabritos. Dará voces a
 
-Sus ngeles, diciendo: Recojan de mi reino a todos los que sirven de tropiezo,
+Sus ángeles, diciendo: “Recojan de mi reino a todos los que sirven de tropiezo,
 
-y a los que hacen iniquidad. Entonces, con la filosa hoz en su mano, el ngel
+y a los que hacen iniquidad”. Entonces, con la filosa hoz en su mano, el ángel
 
-volar por en medio del cielo y recoger la cizaa, y la atar en manojos para
+volará por en medio del cielo y recogerá la cizańa, y la atará en manojos para
 
 quemarla. Pero, descendiendo de Su trono, sin delegar la deleitable tarea en
 
-ningn ngel, el Rey mismo, el Segador coronado, tomar Su propia hoz de oro y
+ningún ángel, el Rey mismo, el Segador coronado, tomará Su propia hoz de oro y
 
-recoger el trigo en Su granero. Oh!, entonces, cuando el infierno abra
+recogerá el trigo en Su granero. ˇOh!, entonces, cuando el infierno abra
 
 ampliamente sus fauces y se trague a los impenitentes, cuando desciendan al
 
-pozo del abismo como lo hicieron en la antigedad Cor, Datn y Abirn, cuando
+pozo del abismo como lo hicieron en la antigüedad Coré, Datán y Abirán, cuando
 
 vean a los justos entrando a torrentes en el cielo, como un chorro de luz, enfundados
 
 en sus vestidos brillantes y resplandecientes, cantando triunfantes himnos y
 
-sinfonas corales, entonces se ver que el Seor ha establecido una diferencia.
+sinfonías corales, entonces se verá que el Seńor ha establecido una diferencia.
 
-Cuando a travs de la sima infranqueable el rico vea a Lzaro en el seno de
+Cuando a través de la sima infranqueable el rico vea a Lázaro en el seno de
 
-Abraham, -cuando desde el ms profundo abismo del infierno el condenado vea al
+Abraham, -cuando desde el más profundo abismo del infierno el condenado vea al
 
-que es acepto, glorificado en la bienaventuranza- entonces resaltar la verdad,
+que es acepto, glorificado en la bienaventuranza- entonces resaltará la verdad,
 
 escrita en letras de fuego:
 
-Jehov hace
+“Jehová hace
 
-diferencia entre los egipcios y los israelitas.
+diferencia entre los egipcios y los israelitas”.
 
 II.
 
-Pasamos a nuestro segundo punto: CUNDO
+Pasamos a nuestro segundo punto: żCUÁNDO
 
 SE VE ESA DIFERENCIA?
 
@@ -484,17 +484,17 @@ Dos hombres suben
 
 al templo a adorar; se sientan el uno junto al otro en la casa de Dios; a ambos
 
-se les predica la palabra; ambos la escuchan, tal vez con igual atencin; el
+se les predica la palabra; ambos la escuchan, tal vez con igual atención; el
 
 uno prosigue su camino y olvida, pero el otro recuerda. Regresan otra vez: el
 
-uno escucha y el ministro es para l como alguien que toca una agradable
+uno escucha y el ministro es para él como alguien que toca una agradable
 
-meloda en un instrumento; el otro escucha y llora; siente que la palabra es
+melodía en un instrumento; el otro escucha y llora; siente que la palabra es
 
-viva y poderosa, ms cortante que una espada de dos filos. Penetra en su
+viva y poderosa, más cortante que una espada de dos filos. Penetra en su
 
-conciencia; le atraviesa, le hiere en lo ms vivo; cada palabra parece ser como
+conciencia; le atraviesa, le hiere en lo más vivo; cada palabra parece ser como
 
 una flecha disparada por el arco de Dios que encuentra un blanco en su conciencia.
 
@@ -508,61 +508,61 @@ conducido al arrepentimiento y a la fe en Cristo, y ahora sube a cantar las
 
 alabanzas de Dios como Su hijo acepto; mientras que el otro sigue cantando como
 
-un mero formalista se une a una adoracin en la cual siente muy poco inters- y
+un mero formalista –se une a una adoración en la cual siente muy poco interés- y
 
-sigue elevando su voz en una oracin en la que su corazn est muy ausente. Si
+sigue elevando su voz en una oración en la que su corazón está muy ausente. Si
 
-yo tuviera aqu esta maana un montn de limaduras de acero y de cenizas
+yo tuviera aquí esta mańana un montón de limaduras de acero y de cenizas
 
-mezcladas entre s, y quisiera detectar la diferencia entre las dos cosas, slo
+mezcladas entre sí, y quisiera detectar la diferencia entre las dos cosas, sólo
 
-tendra que insertar un imn; las limaduras seran atradas y las cenizas
+tendría que insertar un imán; las limaduras serían atraídas y las cenizas
 
-permaneceran inertes. Lo mismo sucede con esta congregacin. Si yo quisiera
+permanecerían inertes. Lo mismo sucede con esta congregación. Si yo quisiera
 
-saber hoy quines son aquellos que son el Israel de Dios y quines son todava
+saber hoy quiénes son aquellos que son el Israel de Dios y quiénes son todavía
 
 los egipcios bastardos, todo lo que se necesita es predicar el Evangelio. El
 
 Evangelio encuentra al pueblo de Dios; tiene una afinidad con ellos. Cuando
 
-viene a ellos y el Espritu Santo de Dios abre sus corazones, ellos lo reciben;
+viene a ellos y el Espíritu Santo de Dios abre sus corazones, ellos lo reciben;
 
-se aferran a l y se regocijan en l; en cambio, quienes no son de Dios,
+se aferran a él y se regocijan en él; en cambio, quienes no son de Dios,
 
-quienes no tienen parte ni inters en la redencin de Cristo, lo oyen en vano e
+quienes no tienen parte ni interés en la redención de Cristo, lo oyen en vano e
 
-incluso son endurecidos por l, y siguen su camino para pecar con mayor mpetu
+incluso son endurecidos por él, y siguen su camino para pecar con mayor ímpetu
 
-despus de todas las advertencias que han recibido.
+después de todas las advertencias que han recibido.
 
-Dinos, ahora, mi querido oyente para que
+Dinos, ahora, mi querido oyente –para que
 
-te quede ms claro- has visto alguna vez esta diferencia entre otra persona y
+te quede más claro- żhas visto alguna vez esta diferencia entre otra persona y
 
-t? Oyes ahora el Evangelio como no lo oste nunca antes? Esta es la poca de or;
+tú? żOyes ahora el Evangelio como no lo oíste nunca antes? Esta es la época de oír;
 
-hay ms personas que asisten ahora a nuestros lugares de adoracin que antes,
+hay más personas que asisten ahora a nuestros lugares de adoración que antes,
 
-pero aun as, los que son bendecidos no son los oidores sino los hacedores de
+pero aun así, los que son bendecidos no son los oidores sino los hacedores de
 
 la Palabra. Dinos
 
 ,
 
-entonces, has sido conducido a or
+entonces, żhas sido conducido a oír
 
 la Palabra
 
-como nunca antes la oste? La escuchas
+como nunca antes la oíste? żLa escuchas
 
 esperando que sea bendecida para ti, deseando que tu conciencia sea sometida a
 
-ella tal como el oro se somete a la mano del orfebre? Si es as, he ah el
+ella tal como el oro se somete a la mano del orfebre? Si es así, he ahí el
 
-primer signo de una diferencia que Dios ha puesto entre los egipcios y t.
+primer signo de una diferencia que Dios ha puesto entre los egipcios y tú.
 
-Pero va ms all. Si el israelita es
+Pero va más allá. Si el israelita es
 
 consistente con su deber, como pienso que debe serlo, en breve siente que le
 
@@ -574,41 +574,41 @@ la Iglesia
 
 de Cristo.
 
-El Seor ha establecido una diferencia, dice; ahora voy a
+“El Seńor ha establecido una diferencia”, dice; “ahora voy a
 
-mostrar esta diferencia. Mi Seor ha dicho: El que creyere y fuere bautizado,
+mostrar esta diferencia. Mi Seńor ha dicho: ‘El que creyere y fuere bautizado,
 
-ser salvo. Yo no pongo ninguna confianza en el bautismo, pero tengo que
+será salvo’. Yo no pongo ninguna confianza en el bautismo, pero tengo que
 
-mostrar que ya no soy ms lo que era. Deseo ser obediente a mi Seor y Maestro.
+mostrar que ya no soy más lo que era. Deseo ser obediente a mi Seńor y Maestro.
 
-Deseo cruzar el Rubicn. Voy a desenvainar mi espada contra el mundo y de una
+Deseo cruzar el Rubicón. Voy a desenvainar mi espada contra el mundo y de una
 
 vez por todas voy a deshacerme de la vaina. Anhelo hacer algo que le haga ver
 
-al mundo que yo estoy crucificado para l, y que l est crucificado para m.
+al mundo que yo estoy crucificado para él, y que él está crucificado para mí.
 
-Luego, que me entierren en agua, en el nombre del Padre, y del Hijo y del
+Luego, que me entierren en agua, ‘en el nombre del Padre, y del Hijo y del
 
-Espritu Santo, como el cuadro de mi muerte para todo el mundo. Voy a salir del
+Espíritu Santo’, como el cuadro de mi muerte para todo el mundo. Voy a salir del
 
-agua como el cuadro de mi resurreccin a una vida nueva, y que Dios me ayude a
+agua como el cuadro de mi resurrección a una vida nueva, y que Dios me ayude a
 
 partir de esa bendita hora a proseguir mi camino como alguien que no es del
 
-mundo, as como Cristo no es del mundo. Siempre que la mesa est servida sobre
+mundo, así como Cristo no es del mundo”. Siempre que la mesa está servida sobre
 
 la que celebramos el memorial del cuerpo y de la sangre de Cristo, Dios sella
 
 otra vez esa diferencia. Si el ministro es fiel, advierte a los inconversos a
 
-que sigan su camino pues si comiesen all, comeran y beberan condenacin para
+que sigan su camino pues si comiesen allí, comerían y beberían condenación para
 
-ellos mismos, sin discernir el cuerpo del Seor. Los
+ellos mismos, sin discernir el cuerpo del Seńor. Los
 
-que son creyentes en Jess, que tienen una esperanza de haber sido
+que son creyentes en Jesús, que tienen una esperanza de haber sido
 
-cambiados y de haber sido renovados por la gracia divina en el espritu de sus
+cambiados y de haber sido renovados por la gracia divina en el espíritu de sus
 
 mentes,
 
@@ -618,217 +618,217 @@ son los invitados a
 
 venir
 
-y nicamente ellos
+y únicamente ellos
 
-. As le
+. Así le
 
-mostramos al mundo en los smbolos externos que el Seor hace una diferencia.
+mostramos al mundo en los símbolos externos que el Seńor hace una diferencia.
 
 Pero, prosiguiendo:
 
 toda la vida del cristiano,
 
-si fuera lo que debera ser, est
+si fuera lo que debería ser, está
 
-mostrndole al mundo que el Seor hace una diferencia. Aqu hay dos hombres que
+mostrándole al mundo que el Seńor hace una diferencia. Aquí hay dos hombres que
 
 experimentan una crisis; enfrentan el mismo problema; son socios en un negocio;
 
-han perdido todo el dinero; la casa est arruinada; se ven reducidos a la
+han perdido todo el dinero; la casa está arruinada; se ven reducidos a la
 
-mendicidad y tienen que comenzar de nuevo en el mundo. Ahora, cul de esos dos
+mendicidad y tienen que comenzar de nuevo en el mundo. Ahora, żcuál de esos dos
 
-varones es el cristiano? Hay uno que est a punto de mesarse el cabello; no
+varones es el cristiano? Hay uno que está a punto de mesarse el cabello; no
 
 puede tolerar que haya tenido que trabajar toda su vida y que ahora sea pobre
 
-como Lzaro. Piensa que
+como Lázaro. Piensa que
 
 la
 
 Providencia
 
-es injusta. Hay muchos vagabundos dice-
+es injusta. “Hay muchos vagabundos” –dice-
 
-hacindose ricos, y heme aqu, despus de trabajar muy duro y de dar a cada
+“haciéndose ricos, y heme aquí, después de trabajar muy duro y de dar a cada
 
 uno lo que le corresponde, he sido abatido hasta el suelo, y me he quedado sin
 
-nada. Pero el hombre cristiano si realmente es cristiano (observen eso, pues
+nada”. Pero el hombre cristiano –si realmente es cristiano (observen eso, pues
 
-hay muchsima gente que profesa ser cristiana y no lo es, y es el viento recio
+hay muchísima gente que profesa ser cristiana y no lo es, y es el viento recio
 
-el que los prueba) dice: El Seor dio y el Seor quit; bendito sea el nombre
+el que los prueba) dice: “El Seńor dio y el Seńor quitó; bendito sea el nombre
 
-del Seor. Yo s dice- que todas las cosas me ayudan a bien. Voy a ponerme
+del Seńor”. “Yo sé” –dice- “que todas las cosas me ayudan a bien. Voy a ponerme
 
-a trabajar y voy a abrirme paso una vez ms; y as con valor y con confianza
+a trabajar y voy a abrirme paso una vez más”; y así con valor y con confianza
 
-en Cristo acude de nuevo a su labor, y Dios le bendice una vez ms; es ms, le
+en Cristo acude de nuevo a su labor, y Dios le bendice una vez más; es más, le
 
-bendice en sus tribulaciones ms de lo que jams le bendijo en su prosperidad. Aqu
+bendice en sus tribulaciones más de lo que jamás le bendijo en su prosperidad. Aquí
 
 tenemos a dos hombres otra vez: ambos han estado haciendo lo malo, y cuando cae
 
-el justo junto con el malvado, quin ha de distinguir la diferencia? A la
+el justo junto con el malvado, żquién ha de distinguir la diferencia? A la
 
-maana siguiente uno de ellos se levanta, y est muy tranquilo al respecto; no
+mańana siguiente uno de ellos se levanta, y está muy tranquilo al respecto; no
 
-conoce ningn remordimiento de conciencia o si est intranquilo es porque tiene
+conoce ningún remordimiento de conciencia o si está intranquilo es porque tiene
 
-miedo de ser descubierto. Es como uno que habiendo cado en el cieno, se queda
+miedo de ser descubierto. Es como uno que habiendo caído en el cieno, se queda
 
-y se arrastra all. Pero aqu viene el cristiano. Siente que ha hecho mal.
+y se arrastra allí. Pero aquí viene el cristiano. Siente que ha hecho mal.
 
-Qu har?, dice, para reparar el dao al hombre y para mostrar mi
+“żQué haré?”, dice, “żpara reparar el dańo al hombre y para mostrar mi
 
-arrepentimiento para con Dios? l estara dispuesto a ponerse de rodillas ante
+arrepentimiento para con Dios?” Él estaría dispuesto a ponerse de rodillas ante
 
-cualquiera que haya daado y a confesar cun equivocado ha estado. Se odia a s
+cualquiera que haya dańado y a confesar cuán equivocado ha estado. Se odia a sí
 
-mismo y se desprecia a s mismo porque ha obrado mal. Preferira morir antes
+mismo y se desprecia a sí mismo porque ha obrado mal. Preferiría morir antes
 
-que pecar; y ahora que se da cuenta de que ha pecado, deseara haber muerto
+que pecar; y ahora que se da cuenta de que ha pecado, desearía haber muerto
 
-antes que haber deshonrado a su Seor y Maestro. Si ves a una oveja caer en el
+antes que haber deshonrado a su Seńor y Maestro. Si ves a una oveja caer en el
 
-cieno, notars que se levanta rpido y sale; pero si el puerco cae all, se
+cieno, notarás que se levanta rápido y sale; pero si el puerco cae allí, se
 
-revuelca en l una y otra vez, y nada sino el ltigo o la vara pueden hacer que
+revuelca en él una y otra vez, y nada sino el látigo o la vara pueden hacer que
 
 se levante. De manera que hay una diferencia esencial entre el justo y el malvado,
 
-aun en sus pecados. Siete veces cae el justo, y vuelve a levantarse; en cuanto
+aun en sus pecados. “Siete veces cae el justo, y vuelve a levantarse”; en cuanto
 
-al malvado, se revuelca y se deleita en su pecado, y permanece y contina en
+al malvado, se revuelca y se deleita en su pecado, y permanece y continúa en
 
-l. Dios ha establecido una diferencia; y aun cuando esa diferencia sea oscura
+él. Dios ha establecido una diferencia; y aun cuando esa diferencia sea oscura
 
 es discernible. Hay un tintineo en el hombre cristiano que es inconfundible. No
 
-importa lo que hagas con l, no es lo que el otro hombre es, y no puedes hacer
+importa lo que hagas con él, no es lo que el otro hombre es, y no puedes hacer
 
-que lo sea. Aqu est una nueva moneda que se parece sorprendentemente a un
+que lo sea. Aquí está una nueva moneda que se parece sorprendentemente a un
 
-soberano, y yo la reviso por ambos lados; es una falsificacin tan buena que no
+soberano, y yo la reviso por ambos lados; es una falsificación tan buena que no
 
-puedo descubrir si es oro o no. Aqu est otra: me doy cuenta de que es un
+puedo descubrir si es oro o no. Aquí está otra: me doy cuenta de que es un
 
 soberano liviano. Los miro a ambos, y a primera vista estoy inclinado a pensar
 
-que mi soberano recin acuado es el mejor de los dos, pues, digo yo, el otro
+que mi soberano recién acuńado es el mejor de los dos, pues, digo yo, el otro
 
-est evidentemente desgastado y es liviano. Pero hay un tintineo en el
+está evidentemente desgastado y es liviano. Pero hay un tintineo en el
 
-cristiano que demuestra que es de oro, despus de todo, aun cuando est
+cristiano que demuestra que es de oro, después de todo, aun cuando está
 
 desgastado y no llega a su peso. Puedes desfigurarlo de tal manera que la
 
-imagen del rey no sea aparente en l, pero l es de oro a pesar de todo eso;
+imagen del rey no sea aparente en él, pero él es de oro a pesar de todo eso;
 
-slo necesita ser probado, y en la hora de la tribulacin ese tintineo del oro
+sólo necesita ser probado, y en la hora de la tribulación ese tintineo del oro
 
-de la gracia lo detectar, y demostrar ser uno en quien Dios ha establecido
+de la gracia lo detectará, y demostrará ser uno en quien Dios ha establecido
 
 una diferencia.
 
-Esta distincin se hace evidente tambin
+Esta distinción se hace evidente también
 
-en un hombre piadoso cuando est bajo la presin de alguna
+en un hombre piadoso cuando está bajo la presión de alguna
 
-fuerte tentacin.
+fuerte tentación.
 
 Hay dos comerciantes: ambos parecen hacer
 
 negocios de la misma manera; pero al fin se les presenta una rara oportunidad.
 
-Si no tienen ninguna conciencia podran hacer una fortuna. Ahora vendr la
+Si no tienen ninguna conciencia podrían hacer una fortuna. Ahora vendrá la
 
 prueba. Un hombre busca la oportunidad y la aprovecha inescrupulosamente. Ese
 
-hombre no es ningn cristiano; registren eso como algo cierto. Hay otro hombre:
+hombre no es ningún cristiano; registren eso como algo cierto. Hay otro hombre:
 
-siente un anhelo por la ganancia, pues es humano, pero su corazn odia el
+siente un anhelo por la ganancia, pues es humano, pero su corazón odia el
 
-pecado, pues ha sido renovado por la gracia divina. No dice- es mejor
+pecado, pues ha sido renovado por la gracia divina. “No” –dice- “es mejor
 
 cerrar la tienda que ganarme la vida deshonestamente; es mejor que quede
 
-arruinado en esta vida que quedar arruinado en el mundo venidero. La mxima
+arruinado en esta vida que quedar arruinado en el mundo venidero”. La máxima
 
 del establecimiento al otro lado de la calle es
 
-Tenemos que vivir;
+“Tenemos que vivir”;
 
-la mxima de esta tienda ser: Tenemos que
+la máxima de esta tienda será: “Tenemos que
 
-morir. Los clientes pronto saben en qu lugar tratarn con ellos muy
+morir”. Los clientes pronto saben en qué lugar tratarán con ellos muy
 
-honestamente, y all descubres en algn grado que el Seor ha establecido una
+honestamente, y allí descubres en algún grado que el Seńor ha establecido una
 
 diferencia entre Egipto e Israel.
 
 Pero para no entretenerlos demasiado en
 
-este punto: esa diferencia brilla muy vvidamente
+este punto: esa diferencia brilla muy vívidamente
 
 en la hora de la muerte.
 
-Oh, cun clara es esa diferencia algunas
+ˇOh, cuán clara es esa diferencia algunas
 
-veces! La ltima vez que el clera visit Londres con severidad, aunque yo tena
+veces! La última vez que el cólera visitó Londres con severidad, aunque yo tenía
 
-muchos compromisos en el campo, renunci a ellos para permanecer en Londres. Es
+muchos compromisos en el campo, renuncié a ellos para permanecer en Londres. Es
 
-el deber del ministro estar siempre en el lugar de visitacin y de enfermedad.
+el deber del ministro estar siempre en el lugar de visitación y de enfermedad.
 
-Nunca vi ms conspicuamente que entonces en mi vida la diferencia entre el
+Nunca vi más conspicuamente que entonces en mi vida la diferencia entre el
 
-hombre que teme a Dios y el hombre que no le teme. Me llamaron un da lunes,
+hombre que teme a Dios y el hombre que no le teme. Me llamaron un día lunes,
 
 como a eso de las tres y media, para ir a ver a un hombre que se estaba
 
-muriendo. Fui a visitarlo, y entr en el lugar donde estaba acostado. l haba
+muriendo. Fui a visitarlo, y entré en el lugar donde estaba acostado. Él había
 
-ido a Brighton el domingo en la maana en una excursin, y regres enfermo; y
+ido a Brighton el domingo en la mańana en una excursión, y regresó enfermo; y
 
-all yaca al borde de la tumba. Yo me qued a su lado, y le habl. La nica
+allí yacía al borde de la tumba. Yo me quedé a su lado, y le hablé. La única
 
-conciencia que tena era un presentimiento de terror mezclado con el estupor de
+conciencia que tenía era un presentimiento de terror mezclado con el estupor de
 
-la alarma: pronto aun eso se haba esfumado, y yo tuve que quedarme suspirando
+la alarma: pronto aun eso se había esfumado, y yo tuve que quedarme suspirando
 
-all con una pobre anciana que lo haba cuidado, sin ninguna esperanza con
+allí con una pobre anciana que lo había cuidado, sin ninguna esperanza con
 
-respecto a su alma. Regres a casa. Entonces me llamaron para que viera a una
+respecto a su alma. Regresé a casa. Entonces me llamaron para que viera a una
 
-joven mujer; su muerte era tambin inminente, pero era un espectculo hermoso,
+joven mujer; su muerte era también inminente, pero era un espectáculo hermoso,
 
-muy hermoso: ella estaba cantando aunque saba que se estaba muriendo; hablaba
+muy hermoso: ella estaba cantando aunque sabía que se estaba muriendo; hablaba
 
-con quienes la rodeaban, les deca a sus hermanos y hermanas que la siguieran
+con quienes la rodeaban, les decía a sus hermanos y hermanas que la siguieran
 
-al cielo, y se despidi de su padre sonriendo como si se tratara de un da de
+al cielo, y se despidió de su padre sonriendo como si se tratara de un día de
 
 bodas. Ella estaba feliz y era bendecida. Vi entonces muy claramente que si no
 
 hay una diferencia en el goce de la vida, hay una diferencia cuando llegamos a
 
-la hora de nuestra muerte. Pero el primer caso que mencion no es el peor que
+la hora de nuestra muerte. Pero el primer caso que mencioné no es el peor que
 
-haya visto jams. He visto a muchos al momento de su muerte cuyas historias de
+haya visto jamás. He visto a muchos al momento de su muerte cuyas historias de
 
-nada servira contar. Los he visto cuando sus globos oculares han estado
+nada serviría contar. Los he visto cuando sus globos oculares han estado
 
 mirando penetrantemente desde sus cuencas, cuando han conocido de Cristo y han
 
-odo el Evangelio, pero, no obstante, lo han rechazado. Han estado muriendo en agonas
+oído el Evangelio, pero, no obstante, lo han rechazado. Han estado muriendo en agonías
 
-tan extremas que uno solo poda huir de la habitacin sintiendo que era algo
+tan extremas que uno solo podía huir de la habitación sintiendo que era algo
 
 terrible caer en las manos de un Dios airado y entrar en ese fuego que todo lo
 
-devora. En el lecho de muerte ser manifiesto que el Seor ha establecido una
+devora. En el lecho de muerte será manifiesto que el Seńor ha establecido una
 
 diferencia entre Israel y Egipto.
 
@@ -836,21 +836,21 @@ III.
 
 Me he dado prisa en estos dos primeros
 
-puntos porque quiero detenerme muy enrgica y muy solemnemente en mi ltimo
+puntos porque quiero detenerme muy enérgica y muy solemnemente en mi último
 
 punto. Hablamos con respecto a la diferencia que se
 
 ve
 
-entre los justos y los malvados. Mi ltimo punto es: POR QU
+entre los justos y los malvados. Mi último punto es: żPOR QUÉ
 
-DEBE VERSE ESA DIFERENCIA? Tengo aqu un objetivo y un sentido prcticos; y yo
+DEBE VERSE ESA DIFERENCIA? Tengo aquí un objetivo y un sentido prácticos; y yo
 
-espero que si el resto del sermn los deja indiferentes, esto, al menos,
+espero que si el resto del sermón los deja indiferentes, esto, al menos,
 
 vivifique sus conciencias.
 
-Esta es una poca que contiene muchos
+Esta es una época que contiene muchos
 
 signos esperanzadores; con todo, si juzgamos de acuerdo a la regla de
 
@@ -858,13 +858,13 @@ la Escritura
 
 , hay algunas
 
-seales muy negras en este siglo. Temo algunas veces que la nica poca con la
+seńales muy negras en este siglo. Temo algunas veces que la única época con la
 
 que podemos ser comparados realmente es el tiempo antes del diluvio, cuando los
 
-hijos de Dios se casaban con las hijas de los hombres, y cuando ces de haber
+hijos de Dios se casaban con las hijas de los hombres, y cuando cesó de haber
 
-una distincin entre
+una distinción entre
 
 la
 
@@ -872,15 +872,15 @@ Iglesia
 
 y el mundo. Hay que reconocer con franqueza que hay
 
-una mezcla tal en nuestros das, un compromiso tal, un tal estira y encoge de
+una mezcla tal en nuestros días, un compromiso tal, un tal estira y encoge de
 
 ambos lados de las cuestiones religiosas, que somos como una masa leudada,
 
-mezclada y unida. Todo esto est mal, pues Dios siempre ha pretendido que haya
+mezclada y unida. Todo esto está mal, pues Dios siempre ha pretendido que haya
 
-una distincin tan clara y palpable entre los justos y los malvados como la
+una distinción tan clara y palpable entre los justos y los malvados como la
 
-distincin entre el da y la noche.
+distinción entre el día y la noche.
 
 Mi primer argumento es este. Cuando
 
@@ -896,29 +896,29 @@ la Iglesia.
 
 La
 
-prisin, la hoguera, las patas del caballo salvaje, estas cosas eran
+prisión, la hoguera, las patas del caballo salvaje, estas cosas eran
 
 consideradas demasiado buenas para los seguidores de Cristo. Cuando un hombre
 
-se haca cristiano, renunciaba a padre y madre, a hogar y tierras, es ms, a su
+se hacía cristiano, renunciaba a padre y madre, a hogar y tierras, es más, a su
 
-propia vida tambin. Cuando se reunan tenan que hacerlo en las catacumbas,
+propia vida también. Cuando se reunían tenían que hacerlo en las catacumbas,
 
-usando velas al medioda porque haba oscuridad en las profundidades de la
+usando velas al mediodía porque había oscuridad en las profundidades de la
 
-tierra. Eran despreciados y desechados entre los hombres. Anduvieron de ac
+tierra. Eran despreciados y desechados entre los hombres. “Anduvieron de acá
 
-para all
+para allá
 
 cubiertos de pieles de ovejas
 
-y de cabras, pobres, angustiados, maltratados. Pero entonces era la poca de
+y de cabras, pobres, angustiados, maltratados”. Pero entonces era la época de
 
-los hroes; era el tiempo de los gigantes. Nunca prosper ms
+los héroes; era el tiempo de los gigantes. Nunca prosperó más
 
 la Iglesia
 
-ni floreci tan verdaderamente
+ni floreció tan verdaderamente
 
 como cuando fue bautizada en sangre. La barca de
 
@@ -926,7 +926,7 @@ la Iglesia
 
 nunca navega tan
 
-gloriosamente como cuando el roco sangriento de sus mrtires cae sobre su
+gloriosamente como cuando el rocío sangriento de sus mártires cae sobre su
 
 cubierta. Nosotros
 
@@ -940,25 +940,25 @@ tenemos
 
 que morir si hemos de
 
-conquistar jams este mundo para Cristo. Hubo alguna vez un milagro tan
+conquistar jamás este mundo para Cristo. żHubo alguna vez un milagro tan
 
-sorprendente como la propagacin del Evangelio durante los primeros dos o tres
+sorprendente como la propagación del Evangelio durante los primeros dos o tres
 
-siglos? En un plazo de cincuenta aos despus de que Cristo hubo ascendido al
+siglos? En un plazo de cincuenta ańos después de que Cristo hubo ascendido al
 
 cielo, el Evangelio fue predicado en todas las partes conocidas del mundo y
 
-hubo quienes se convirtieron a Cristo en las ms inhospitalarias regiones. El
+hubo quienes se convirtieron a Cristo en las más inhospitalarias regiones. El
 
-Evangelio haba ido ms lejos que los barcos de Tarsis; las columnas de Hrcules
+Evangelio había ido más lejos que los barcos de Tarsis; las columnas de Hércules
 
-no haban limitado la diligencia de los apstoles. El Evangelio fue proclamado
+no habían limitado la diligencia de los apóstoles. El Evangelio fue proclamado
 
 a tribus salvajes e incivilizadas, a pictos y escoceses y a los fieros britanos.
 
 Se fundaron iglesias, algunas de las cuales han permanecido en su pureza hasta
 
-este da. Y todo esto, yo creo, fue en parte el resultado de esa impactante y
+este día. Y todo esto, yo creo, fue en parte el resultado de esa impactante y
 
 marcada diferencia entre
 
@@ -966,31 +966,31 @@ la
 
 Iglesia
 
-y el mundo. Ciertamente, durante el perodo despus
+y el mundo. Ciertamente, durante el período después
 
-de que Constantino profes ser cristiano cambiando con los tiempos porque vio
+de que Constantino profesó ser cristiano cambiando con los tiempos porque vio
 
-que fortalecera su imperio a partir del tiempo cuando
-
-la Iglesia
-
-comenz a ser
-
-vinculada con el estado- el Seor la dej, y la entreg a la esterilidad, y se
-
-escribi Icabod sobre sus muros. Fue un da negro para la cristiandad cuando
-
-Constantino dijo: Soy cristiano. Con este signo vencer, dijo l. S, esa fue
-
-la verdadera razn de su pretendida conversin. Si poda conquistar por medio
-
-de la cruz, eso era bastante bueno; si hubiera podido conquistar por Jpiter le
-
-habra dado lo mismo. A partir de aquel momento
+que fortalecería su imperio –a partir del tiempo cuando
 
 la Iglesia
 
-comenz a
+comenzó a ser
+
+vinculada con el estado- el Seńor la dejó, y la entregó a la esterilidad, y se
+
+escribió Icabod sobre sus muros. Fue un día negro para la cristiandad cuando
+
+Constantino dijo: “Soy cristiano”. “Con este signo venceré”, dijo él. Sí, esa fue
+
+la verdadera razón de su pretendida conversión. Si podía conquistar por medio
+
+de la cruz, eso era bastante bueno; si hubiera podido conquistar por Júpiter le
+
+habría dado lo mismo. A partir de aquel momento
+
+la Iglesia
+
+comenzó a
 
 degenerarse. Y llegando a
 
@@ -998,27 +998,27 @@ la Edad
 
 Media
 
-no podas reconocer la diferencia entre un cristiano y un mundano, dnde ibas
+no podías reconocer la diferencia entre un cristiano y un mundano, żdónde ibas
 
 a encontrar piedad en absoluto, o vida o gracia en la tierra? Entonces vino
 
-Lutero, quien con un frreo agarre arranc a
+Lutero, quien con un férreo agarre arrancó a
 
 la Iglesia
 
 del mundo y la
 
-retir a riesgo de hacerla pedazos. No quera que estuviera vinculada en
+retiró a riesgo de hacerla pedazos. No quería que estuviera vinculada en
 
-afinidad con el mundo; y entonces, Se levantaron los reyes de la tierra, y
+afinidad con el mundo; y entonces, “Se levantaron los reyes de la tierra, y
 
-prncipes consultaron unidos contra Jehov y contra su ungido; pero el que
+príncipes consultaron unidos contra Jehová y contra su ungido”; pero el que
 
-mora en los cielos se ri; el Seor se burl de ellos.
+mora en los cielos se rió; el Seńor se burló de ellos.
 
 La Iglesia
 
-sali venciendo y
+salió venciendo y
 
 para vencer, y su principal arma era su
 
@@ -1026,21 +1026,21 @@ disconformidad
 
 para con el mundo, su salida de entre los hombres. Pon tu dedo sobre
 
-cualquier pgina prspera de la historia de
+cualquier página próspera de la historia de
 
 la Iglesia
 
 , y yo voy a encontrar
 
-una notita marginal que dice as: En esta poca los hombres podan ver
+una notita marginal que dice así: “En esta época los hombres podían ver
 
-fcilmente donde comenzaba
+fácilmente donde comenzaba
 
 la
 
 Iglesia
 
-y dnde terminaba el mundo. Nunca hubo buenos
+y dónde terminaba el mundo”. Nunca hubo buenos
 
 tiempos cuando
 
@@ -1054,41 +1054,41 @@ mantener a
 
 la Iglesia
 
-y al mundo aparte, hay muchos otros. Entre ms separada est
+y al mundo aparte, hay muchos otros. Entre más separada esté
 
 la Iglesia
 
 del mundo en sus
 
-actos y en sus mximas, ms verdadero es su testimonio por Cristo y ms potente
+actos y en sus máximas, más verdadero es su testimonio por Cristo y más potente
 
 es su testimonio contra el pecado. Nosotros somos enviados a este mundo a testificar
 
-contra los males; pero si nosotros mismos nos involucramos en l, dnde queda
+contra los males; pero si nosotros mismos nos involucramos en él, żdónde queda
 
 nuestro testimonio? Si nosotros mismos somos encontrados deficientes, somos
 
-falsos testigos; no somos enviados por Dios; nuestro testimonio no tiene ningn
+falsos testigos; no somos enviados por Dios; nuestro testimonio no tiene ningún
 
 efecto. No dudo en decir que hay decenas de miles de cristianos profesantes
 
-cuyo testimonio ante el mundo es ms daino que benfico. El mundo los mira y
+cuyo testimonio ante el mundo es más dańino que benéfico. El mundo los mira y
 
-dice: Bien, ya veo: t puedes ser un cristiano, y sin embargo, seguir siendo
+dice: “Bien, ya veo: tú puedes ser un cristiano, y sin embargo, seguir siendo
 
-un pillo. Ah!, -dice otro- t puedes ser un cristiano, me doy cuenta; pero
+un pillo”. “ˇAh!”, -dice otro- “tú puedes ser un cristiano, me doy cuenta; pero
 
-entonces tendrs que ser una persona triste y miserable. Ah!, clama otro,
+entonces tendrás que ser una persona triste y miserable”. “ˇAh!”, clama otro,
 
-a estos cristianos les gusta beber el pecado en secreto detrs de la puerta.
+“a estos cristianos les gusta beber el pecado en secreto detrás de la puerta.
 
 Su cristianismo consiste en que no les gusta pecar abiertamente, pero pueden
 
-devorar la casa de una viuda cuando nadie est mirando; pueden ser borrachos,
+devorar la casa de una viuda cuando nadie está mirando; pueden ser borrachos,
 
-slo que tiene que ser en un grupo muy pequeo; no les gustara que se descubra
+sólo que tiene que ser en un grupo muy pequeńo; no les gustaría que se descubra
 
-que estn mareados donde hay cien ojos que los estn mirando. Ahora, qu es todo
+que están mareados donde hay cien ojos que los están mirando”. Ahora, żqué es todo
 
 eso? Es simplemente esto: que el mundo ha descubierto que
 
@@ -1098,21 +1098,21 @@ visible no es la
 
 pura Iglesia de Cristo puesto que no es fiel a sus principios, y no opta por la
 
-rectitud y la integridad que son las seales de la genuina iglesia de Dios.
+rectitud y la integridad que son las seńales de la genuina iglesia de Dios.
 
-Muchos cristianos olvidan que estn dando un testimonio: no piensan que alguien
+Muchos cristianos olvidan que están dando un testimonio: no piensan que alguien
 
-los est viendo. Ay, pero los vigilan. No hay personas ms vigiladas que los
+los está viendo. Ay, pero los vigilan. No hay personas más vigiladas que los
 
 cristianos. El mundo nos lee desde la primera letra de nuestras vidas hasta la
 
-ltima y si pueden encontrar una falla  y que Dios nos perdone pues pueden
+última y si pueden encontrar una falla – y que Dios nos perdone pues pueden
 
 encontrar muchas- con seguridad van a magnificar la falla tanto como puedan.
 
 Por tanto, estemos muy atentos para vivir cerca de Cristo, para caminar en Sus
 
-mandamientos siempre, para que el mundo vea que el Seor hace una diferencia.
+mandamientos siempre, para que el mundo vea que el Seńor hace una diferencia.
 
 Pero ahora tengo que decir algo muy
 
@@ -1120,7 +1120,7 @@ triste: no quisiera tener que decirlo, pero tengo que hacerlo. Hermanos y
 
 hermanas, a menos que conviertan en su tarea cotidiana ver que exista una
 
-diferencia entre ustedes y el mundo, harn ms dao que el bien que
+diferencia entre ustedes y el mundo, harán más dańo que el bien que
 
 posiblemente pudieran hacer.
 
@@ -1130,11 +1130,11 @@ Iglesia
 
 de Cristo tiene que rendir cuentas de muchos
 
-horrendos pecados en este da. Permtanme mencionar uno que no es sino un tipo
+horrendos pecados en este día. Permítanme mencionar uno que no es sino un tipo
 
-de otros. Por qu medios piensan ustedes fueron asegurados los grilletes en la
+de otros. żPor qué medios piensan ustedes fueron asegurados los grilletes en la
 
-mueca de nuestro amigo que est sentado all, un hombre como nosotros, aunque
+muńeca de nuestro amigo que está sentado allí, un hombre como nosotros, aunque
 
 de piel negra? Es
 
@@ -1142,65 +1142,65 @@ la Iglesia
 
 de Cristo la que mantiene a sus hermanos bajo servidumbre; si no fuese por esa
 
-Iglesia, el sistema de esclavitud regresara al infierno de donde sali. No
+Iglesia, el sistema de esclavitud regresaría al infierno de donde salió. No
 
-habra verdugos que azotaran a los esclavos si no fuera porque hay hombres
+habría verdugos que azotaran a los esclavos si no fuera porque hay hombres
 
 aptos para ese oficio tan degradante; si no se encontrara ministros cristianos
 
-que pueden justificar la esclavitud desde el plpito, y miembros de la iglesia
+que pueden justificar la esclavitud desde el púlpito, y miembros de la iglesia
 
-que venden a los hijos de seres ms nobles que ellos mismos, si no fuera por
+que venden a los hijos de seres más nobles que ellos mismos, si no fuera por
 
-esto, frica sera libre. Albert Barnes dijo la verdad cuando afirm que la
+esto, África sería libre. Albert Barnes dijo la verdad cuando afirmó que la
 
-esclavitud no podra existir ni por una hora si no fuera por la tolerancia de
+esclavitud no podría existir ni por una hora si no fuera por la tolerancia de
 
 la Iglesia
 
 Cristiana.
 
-Pero qu dice el propietario de esclavos cuando t le dices que mantener en
+żPero qué dice el propietario de esclavos cuando tú le dices que mantener en
 
 esclavitud a nuestros semejantes es un pecado, y un pecado condenable,
 
-inconsistente con la gracia? l replica: Yo no creo tus calumnias; mira al
+inconsistente con la gracia? Él replica: “Yo no creo tus calumnias; mira al
 
-Obispo de tal y tal, o el ministro de tal y tal lugar, no es acaso un buen hombre,
+Obispo de tal y tal, o el ministro de tal y tal lugar, żno es acaso un buen hombre,
 
-y no expresa gimoteando: Maldito sea Canan? No cita acaso a Filemn y a
+y no expresa gimoteando: ‘Maldito sea Canaán’? żNo cita acaso a Filemón y a
 
-Onsimo? No va y habla de
+Onésimo? żNo va y habla de
 
 la
 
 Biblia
 
-, y les dice a sus esclavos que deberan sentirse muy
+, y les dice a sus esclavos que deberían sentirse muy
 
-agradecidos por ser sus esclavos, pues Dios Todopoderoso los hizo a propsito
+agradecidos por ser sus esclavos, pues Dios Todopoderoso los hizo a propósito
 
 para que disfrutaran del raro privilegio de ser azotados por un amo cristiano?
 
-No me digas dice- si eso fuera malo, no tendra a
+No me digas” –dice- “si eso fuera malo, no tendría a
 
 la Iglesia
 
-de su lado. Y as
+de su lado”. Y así
 
 la Iglesia
 
-libre de Cristo comprada con Su sangre tiene que llevar la vergenza de
+libre de Cristo comprada con Su sangre tiene que llevar la vergüenza de
 
-maldecir a frica y de mantener a sus hijos en la esclavitud. Que el buen Seor
+maldecir a África y de mantener a sus hijos en la esclavitud. Que el buen Seńor
 
 nos libre de este mal. Si los comerciantes de Manchester y los mercaderes de
 
-Liverpool tienen una participacin en esta culpa, que al menos
+Liverpool tienen una participación en esta culpa, que al menos
 
 la Iglesia
 
-est libre de este
+esté libre de este
 
 crimen que llena el infierno. Los hombres han intentado arduamente hacer que
 
@@ -1208,11 +1208,11 @@ la Biblia
 
 apoye este compendio
 
-de todas las villanas, pero la esclavitud, la cosa que contamina a
+de todas las villanías, pero la esclavitud, la cosa que contamina a
 
 la Gran
 
-Repblica
+República
 
 ,
 
@@ -1220,9 +1220,9 @@ tal esclavitud es muy desconocida para
 
 la Palabra
 
-de Dios, y por las leyes de los judos
+de Dios, y por las leyes de los judíos
 
-era imposible que pudiera existir jams. He conocido a hombres que citan textos
+era imposible que pudiera existir jamás. He conocido a hombres que citan textos
 
 como excusas por ser condenados, y no me sorprende que algunos hombres puedan
 
@@ -1230,7 +1230,7 @@ encontrar una Escritura para justificar la compra y venta de las almas de los
 
 hombres.
 
-Y qu piensan ustedes que es regresar a
+żY qué piensan ustedes que es regresar a
 
 casa, a nuestra propia tierra, que mantiene el sistema de comercio que se
 
@@ -1238,27 +1238,27 @@ aplica entre nosotros? Todos ustedes saben que hay negocios donde no es posible
 
 que un joven sea honesto en la tienda, donde, si declarara la verdad completa,
 
-sera despedido. Por qu es, piensan ustedes, que se mantiene el sistema de
+sería despedido. żPor qué es, piensan ustedes, que se mantiene el sistema de
 
 etiquetar los bienes en el aparador que difieren de lo que se vende adentro o
 
-de exhibir una cosa y luego dar otro artculo, o el sistema de decir mentiras
+de exhibir una cosa y luego dar otro artículo, o el sistema de decir mentiras
 
-piadosas a travs del mostrador con la intencin de obtener un mejor precio?
+piadosas a través del mostrador con la intención de obtener un mejor precio?
 
-Ese sistema no resistira ni una hora si no fuera por los cristianos
+Ese sistema no resistiría ni una hora si no fuera por los cristianos
 
 profesantes que lo practican. No tienen el valor moral para decir de una vez
 
-por todas: No tendremos nada que ver con estas cosas. Si lo hicieran, si
+por todas: “No tendremos nada que ver con estas cosas”. Si lo hicieran, si
 
 la Iglesia
 
 renunciara a estas
 
-costumbres profanas, el negocio cambiara dentro de los siguientes doce meses.
+costumbres profanas, el negocio cambiaría dentro de los siguientes doce meses.
 
-Los puntales del delito grave y los apoyos de la truhanera son estos cristianos
+Los puntales del delito grave y los apoyos de la truhanería son estos cristianos
 
 profesantes que doblan sus espaldas para hacer lo que otros hombres hacen;
 
@@ -1268,7 +1268,7 @@ corriente, siendo como los pescados muertos en nuestras iglesias que van con la
 
 corriente, a diferencia de los peces vivos que siempre van en contra de ella y
 
-que nadan ro arriba hacia la fuente del ro. No quisiera hablar demasiado
+que nadan río arriba hacia la fuente del río. No quisiera hablar demasiado
 
 severamente de
 
@@ -1280,159 +1280,159 @@ Parecernos tanto al mundo, comerciar como el mundo comercia, hablar como el
 
 mundo habla, insistir siempre que debemos hacer lo que otras personas hacen,
 
-todo esto es hacer ms dao al mundo que todo el bien que todos nuestros
+todo esto es hacer más dańo al mundo que todo el bien que todos nuestros
 
-predicadores pretenden hacer. Salid de en medio de ellos, y apartaos, dice el
+predicadores pretenden hacer. “Salid de en medio de ellos, y apartaos, dice el
 
-Seor, y no toquis lo inmundo; y yo os recibir, y ser para vosotros por
+Seńor, y no toquéis lo inmundo; y yo os recibiré, y seré para vosotros por
 
-Padre, y vosotros me seris hijos e hijas.
+Padre, y vosotros me seréis hijos e hijas”.
 
 Este argumento, ciertamente severo y
 
-duro, podra movernos a apartarnos del mundo. Pero una vez ms, cmo es
+duro, podría movernos a apartarnos del mundo. Pero una vez más, żcómo es
 
 posible que honremos a Jesucristo mientras no hay ninguna diferencia entre
 
 nosotros y el mundo? Yo puedo imaginar que un hombre no profese ser un
 
-cristiano, y sin embargo, que honre a su Seor; eso sin embargo, es un asunto
+cristiano, y sin embargo, que honre a su Seńor; eso sin embargo, es un asunto
 
-de la imaginacin. Yo no conozco ningn ejemplo real; pero no puedo imaginar
+de la imaginación. Yo no conozco ningún ejemplo real; pero no puedo imaginar
 
-que un hombre profese ser un cristiano, y que luego acte como el mundo acta,
+que un hombre profese ser un cristiano, y que luego actúe como el mundo actúa,
 
 y sin embargo, que honre a Cristo.
 
-Me parece ver que mi Seor est frente a
+Me parece ver que mi Seńor está frente a
 
-m. Tiene algo ms que esas cinco benditas heridas. Veo que Sus manos sangran.
+mí. Tiene algo más que esas cinco benditas heridas. Veo que Sus manos sangran.
 
-Mi Seor! Mi Seor!, grito, dnde recibiste esas heridas? Esas
+“ˇMi Seńor! ˇMi Seńor!”, grito, “żdónde recibiste esas heridas? Esas
 
 perforaciones no son las de los clavos, ni es la herida abierta por la punta de
 
-la lanza; de dnde provienen esas heridas? Le oigo responder tristemente: Estas
+la lanza; żde dónde provienen esas heridas?” Le oigo responder tristemente: “Estas
 
 son las heridas que he recibido en la casa de mis amigos; tal y tal cristiano
 
-cay, tal y tal discpulo me sigui de lejos, y al final, como Pedro, me neg
+cayó, tal y tal discípulo me siguió de lejos, y al final, como Pedro, me negó
 
 por completo. Tal y tal de mis hijos es codicioso, tal otro es altivo, tal otro
 
-ha tomado a su vecino por el cuello y le ha dicho: Pgame lo que me debes, y
+ha tomado a su vecino por el cuello y le ha dicho: ‘Págame lo que me debes’, y
 
-Yo he sido herido en la casa de mis amigos. Oh, bendito Jess, perdnanos,
+Yo he sido herido en la casa de mis amigos”. Oh, bendito Jesús, perdónanos,
 
-perdnanos, y danos Tu gracia para que ya no lo hagamos ms, pues nosotros
+perdónanos, y danos Tu gracia para que ya no lo hagamos más, pues nosotros
 
 queremos
 
 seguirte adondequiera que vayas;
 
-T sabes que
+Tú sabes que
 
 queremos
 
 ser Tuyos, que queremos
 
-honrarte y no afligirte. Oh, danos ahora entonces de Tu propio Espritu, para
+honrarte y no afligirte. Oh, danos ahora entonces de Tu propio Espíritu, para
 
-que podamos salir del mundo y ser como T, santo, inocente, sin mancha, y
+que podamos salir del mundo y ser como Tú, santo, inocente, sin mancha, y
 
 separado de los pecadores.
 
-Slo tengo que decir estas dos cosas y
+Sólo tengo que decir estas dos cosas y
 
-habr concluido. Para los profesantes de la religin digo esta palabra.
+habré concluido. Para los profesantes de la religión digo esta palabra.
 
-Profesantes de la religin, hay algunos de ustedes que son monedas falsas.
+Profesantes de la religión, hay algunos de ustedes que son monedas falsas.
 
-Cuando te acercas a la mesa del Seor t
+Cuando te acercas a la mesa del Seńor tú
 
 mientes,
 
-y cuando dices de ti mismo: yo soy un miembro de tal y tal iglesia, dices
+y cuando dices de ti mismo: “yo soy un miembro de tal y tal iglesia”, dices
 
-algo que es una deshonra para ti. Ahora permtanme recordarles, seores, que
+algo que es una deshonra para ti. Ahora permítanme recordarles, seńores, que
 
-ustedes pueden sostener su profesin aqu, pero cuando se presenten ante el
+ustedes pueden sostener su profesión aquí, pero cuando se presenten ante el
 
-tribunal de Dios, al final, descubrirn que es algo terrible que su profesin
+tribunal de Dios, al final, descubrirán que es algo terrible que su profesión
 
-no haya sido real. Tiemblen, seores, a la diestra de Dios. All est la balanza
+no haya sido real. Tiemblen, seńores, a la diestra de Dios. Allí está la balanza
 
-y tendrn que ser pesados en ella, y si son hallados faltos, su porcin tendr
+y tendrán que ser pesados en ella, y si son hallados faltos, su porción tendrá
 
-que ser entre los engaadores, y ustedes saben dnde es eso: es en el ms
+que ser entre los engańadores, y ustedes saben dónde es eso: es en el más
 
-profundo abismo del infierno. Tiembla, amigo dicono, tiembla, miembro de
+profundo abismo del infierno. Tiembla, amigo diácono, tiembla, miembro de
 
 la Iglesia
 
 , si no eres lo que
 
-profesas ser; te espera una condenacin de un tipo ms fiero y ms horrendo que
+profesas ser; te espera una condenación de un tipo más fiero y más horrendo que
 
-aun para el impo y el rprobo. De lo alto de tu profesin sers arrancado. Has
+aun para el impío y el réprobo. De lo alto de tu profesión serás arrancado. Has
 
-construido tu nido entre las estrellas, pero tendrs que hacer tu cama en el
+construido tu nido entre las estrellas, pero tendrás que hacer tu cama en el
 
-infierno. Has decorado tu cabeza con una corona, pero tendrs que llevar una
+infierno. Has decorado tu cabeza con una corona, pero tendrás que llevar una
 
-corona de fuego; esos finos vestidos te sern arrancados, ese oropel y esa
+corona de fuego; esos finos vestidos te serán arrancados, ese oropel y esa
 
-pintura te sern quitados, y t, desnudo para tu vergenza, siendo el blanco de
+pintura te serán quitados, y tú, desnudo para tu vergüenza, siendo el blanco de
 
-burlas de los demonios, te convertirs en objeto de siseo incluso de los
+burlas de los demonios, te convertirás en objeto de siseo incluso de los
 
-condenados del infierno, cuando te sealen y clamen: all va el hombre que se
+condenados del infierno, cuando te seńalen y clamen: “allí va el hombre que se
 
-destruy por engaar a otros. All est el desventurado que hablaba de Dios y
+destruyó por engańar a otros. Allí está el desventurado que hablaba de Dios y
 
-hablaba de Cristo, y no se consideraba como uno de nosotros, y ahora l est
+hablaba de Cristo, y no se consideraba como uno de nosotros, y ahora él está
 
-atado tambin en el manojo que ser quemado.
+atado también en el manojo que será quemado”.
 
-La ltima palabra es para quienes no son
+La última palabra es para quienes no son
 
 profesantes del todo. Dios ha establecido una diferencia entre ustedes y los
 
-justos. Oh, mis queridos amigos, yo les suplico que le den vueltas a ese
+justos. ˇOh, mis queridos amigos, yo les suplico que le den vueltas a ese
 
 pensamiento en sus mentes!
 
 No hay
 
-tres caracteres, no hay vnculos intermedios; no hay una frontera entre los
+tres caracteres, no hay vínculos intermedios; no hay una frontera entre los
 
-justos y los malvados. Hoy t eres ya sea un amigo de Dios o Su enemigo. En
+justos y los malvados. Hoy tú eres ya sea un amigo de Dios o Su enemigo. En
 
-esta hora o has sido vivificado o ests muerto; y, oh!, recuerda que cuando
+esta hora o has sido vivificado o estás muerto; y, ˇoh!, recuerda que cuando
 
-llegue la muerte ser el cielo o el infierno para ti, ngeles o diablos tendrn
+llegue la muerte será el cielo o el infierno para ti, ángeles o diablos tendrán
 
-que ser tus compaeros, y las llamas tendrn que ser tu lecho y tu cobertor de
+que ser tus compańeros, y las llamas tendrán que ser tu lecho y tu cobertor de
 
-fuego, o de lo contrario las glorias de la eternidad sern tu herencia
+fuego, o de lo contrario las glorias de la eternidad serán tu herencia
 
-perpetua. Recuerda que el camino al cielo est abierto. El que cree en el
+perpetua. Recuerda que el camino al cielo está abierto. “El que cree en el
 
-Seor Jess ser salvo. Cree en l, cree en l, y vive. Confa en l, y sers
+Seńor Jesús será salvo”. Cree en Él, cree en Él, y vive. Confía en Él, y serás
 
-salvo. Deposita la confianza de tu alma en Jess, y sers librado
+salvo. Deposita la confianza de tu alma en Jesús, y serás librado
 
 ahora.
 
 Que Dios te ayude a hacer eso
 
-ahora, y ya no habr ms ninguna diferencia entre t y los justos, sino que
+ahora, y ya no habrá más ninguna diferencia entre tú y los justos, sino que
 
-sers uno de ellos, y estars con ellos en el da cuando Jess venga para
+serás uno de ellos, y estarás con ellos en el día cuando Jesús venga para
 
 sentarse en el trono de Su padre David para reinar entre los hombres.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 29/Mayo/2014
 

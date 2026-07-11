@@ -1,66 +1,66 @@
 # Sermón 2287 | Sermón 2287
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Si no hay Resurreccin
+Si no hay Resurrección
 
 NO. 2287
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE EL JUEVES 20 DE FEBRERO DE 1890
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES
 
 Y SELECCIONADO PARA
 
-LECTURA EL DA 18 DE DICIEMBRE DE 1892.
+LECTURA EL DÍA 18 DE DICIEMBRE DE 1892.
 
-Pero si se predica de Cristo que
+“Pero si se predica de Cristo que
 
-resucit de los muertos, cmo dicen algunos entre vosotros que no hay
+resucitó de los muertos, żcómo dicen algunos entre vosotros que no hay
 
-resurreccin de muertos? Porque si no hay resurreccin de muertos, tampoco
+resurrección de muertos? Porque si no hay resurrección de muertos, tampoco
 
-Cristo resucit. Y si Cristo no resucit, vana es entonces nuestra predicacin,
+Cristo resucitó. Y si Cristo no resucitó, vana es entonces nuestra predicación,
 
-vana es tambin vuestra fe. Y somos hallados falsos testigos de Dios; porque
+vana es también vuestra fe. Y somos hallados falsos testigos de Dios; porque
 
-hemos testificado de Dios que l resucit a Cristo, al cual no resucit, si en
+hemos testificado de Dios que él resucitó a Cristo, al cual no resucitó, si en
 
 verdad los muertos no resucitan. Porque si los muertos no resucitan, tampoco Cristo
 
-resucit; y si Cristo no resucit, vuestra fe es vana; an estis en vuestros
+resucitó; y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros
 
-pecados. Entonces tambin los que durmieron en Cristo perecieron. Si en esta
+pecados. Entonces también los que durmieron en Cristo perecieron. Si en esta
 
-vida solamente esperamos en Cristo, somos los ms dignos de conmiseracin de
+vida solamente esperamos en Cristo, somos los más dignos de conmiseración de
 
-todos los hombres. 1 Corintios 15: 12-19.
+todos los hombres”. 1 Corintios 15: 12-19.
 
-Nuestra religin no est basada en opiniones,
+Nuestra religión no está basada en opiniones,
 
-sino en hechos. Omos a veces que algunas personas dicen: Esos son tus puntos
+sino en hechos. Oímos a veces que algunas personas dicen: “Esos son tus puntos
 
-de vista, y stos son los nuestros. Prescindiendo de cules sean sus puntos
+de vista, y éstos son los nuestros”. Prescindiendo de cuáles sean sus “puntos
 
-de vista, eso es un asunto menor. Cules son los hechos del caso? Despus de
+de vista”, eso es un asunto menor. żCuáles son los hechos del caso? Después de
 
 todo, si necesitamos un fundamento firme, debemos llegar a los hechos reales.
 
-Ahora, los grandiosos hechos del Evangelio son: que Dios se encarn en Cristo
+Ahora, los grandiosos hechos del Evangelio son: que Dios se encarnó en Cristo
 
-Jess, vivi aqu una vida de santidad y amor, muri en la cruz por nuestros
+Jesús, vivió aquí una vida de santidad y amor, murió en la cruz por nuestros
 
-pecados, fue sepultado en el sepulcro de Jos, al tercer da resucit de los
+pecados, fue sepultado en el sepulcro de José, al tercer día resucitó de los
 
-muertos, y despus de un breve tiempo, ascendi al trono de Su Padre donde se
+muertos, y después de un breve tiempo, ascendió al trono de Su Padre donde se
 
-sienta ahora, y pronto vendr para ser nuestro Juez, y en ese da los muertos
+sienta ahora, y pronto vendrá para ser nuestro Juez, y en ese día los muertos
 
-en Cristo resucitarn en virtud de su unin con l.
+en Cristo resucitarán en virtud de su unión con Él.
 
 Entonces, en poco tiempo, dentro de la Iglesia
 
@@ -68,53 +68,53 @@ de Dios surgieron personas que comenzaron a disputar en contra de los
 
 principios fundamentales y cardinales de la fe, y lo mismo sigue ocurriendo ahora.
 
-Cuando quienes estn fuera de la Iglesia niegan que Cristo sea el Hijo de Dios,
+Cuando quienes están fuera de la Iglesia niegan que Cristo sea el Hijo de Dios,
 
-cuando niegan Su sacrificio expiatorio y niegan Su resurreccin, no nos
+cuando niegan Su sacrificio expiatorio y niegan Su resurrección, no nos
 
-sorprende en absoluto. Son incrdulos, y slo actan de conformidad a su
+sorprende en absoluto. Son incrédulos, y sólo actúan de conformidad a su
 
-profesin de incredulidad.
+profesión de incredulidad.
 
 Pero cuando dentro de la Iglesia hay hombres que
 
-se identifican como cristianos, pero niegan la resurreccin de los muertos,
+se identifican como cristianos, pero niegan la resurrección de los muertos,
 
 nuestra alma se agita en nuestro interior, pues, es un mal sumamente grave y
 
 serio dudar de esas santas verdades. No saben lo que hacen. No pueden ver todo
 
-el resultado de su incredulidad. Si pudieran verlo, uno pensara que
+el resultado de su incredulidad. Si pudieran verlo, uno pensaría que
 
-retrocederan horrorizados, y pondran a la verdad en su lugar y dejaran que
+retrocederían horrorizados, y pondrían a la verdad en su lugar y dejarían que
 
 permaneciera donde debe estar, donde Dios la ha puesto.
 
-La resurreccin de los muertos ha sido atacada,
+La resurrección de los muertos ha sido atacada,
 
-y es todava asediada por quienes se llaman cristianos e incluso por quienes se
+y es todavía asediada por quienes se llaman cristianos e incluso por quienes se
 
 hacen llamar ministros cristianos pero que volatilizan la idea misma de la
 
-resurreccin de los muertos, de tal manera que nos encontramos hoy, en cierta
+resurrección de los muertos, de tal manera que nos encontramos hoy, en cierta
 
-medida, en una condicin semejante a la que se encontraba la iglesia de Corinto
+medida, en una condición semejante a la que se encontraba la iglesia de Corinto
 
 cuando, en su propio seno, se levantaron hombres que profesaban ser seguidores
 
-de Cristo pero decan que no haba resurreccin de los muertos.
+de Cristo pero decían que no había resurrección de los muertos.
 
-El apstol Pablo, despus de haber dado su
+El apóstol Pablo, después de haber dado su
 
-testimonio y recapitulado las pruebas acerca de la resurreccin de Cristo,
+testimonio y recapitulado las pruebas acerca de la resurrección de Cristo,
 
-procede a mostrar las terribles consecuencias que habra si no hubiera resurreccin
+procede a mostrar las terribles consecuencias que habría si no hubiera resurrección
 
-de los muertos y Cristo no hubiera resucitado. Demostr que esta es una verdad
+de los muertos y Cristo no hubiera resucitado. Demostró que esta es una verdad
 
-fundacional y, si fuera eliminada, muchas ms cosas de las que suponan seran
+fundacional y, si fuera eliminada, muchas más cosas de las que suponían serían
 
-eliminadas; en verdad, todo se desvanecera, segn procedi a demostrar.
+eliminadas; en verdad, todo se desvanecería, según procedió a demostrar.
 
 Queridos amigos, nunca debemos alterar la verdad
 
@@ -122,113 +122,113 @@ de Dios. Yo recurro a ella, en la medida de lo posible, para gozar del consuelo
 
 de la verdad, y para aprender las lecciones espirituales de la Palabra de Dios,
 
-y no me erijo en un crtico suyo; y descubro que es inmensamente de ms
+y no me erijo en un crítico suyo; y descubro que es inmensamente de más
 
-bendicin para mi propia alma adorar con fe, que inventar incrdulamente
+bendición para mi propia alma adorar con fe, que inventar incrédulamente
 
 objeciones o incluso tratar de hacerles frente diligentemente. Hacer frente a
 
-las objeciones es una labor sin trmino. Cuando has matado a un regimiento de
+las objeciones es una labor sin término. Cuando has matado a un regimiento de
 
 objeciones, otro regimiento ya viene al ataque; y cuando has pasado por espada
 
-a legiones enteras de dudas, las personas que dudan todava pulularn en torno
+a legiones enteras de dudas, las personas que dudan todavía pulularán en torno
 
-a ti como las ranas de Egipto. Es un mal negocio. No responde a ningn fin
+a ti como las ranas de Egipto. Es un mal negocio. No responde a ningún fin
 
-prctico. Es muchsimo mejor creer firmemente lo que profesas creer, y asumir
+práctico. Es muchísimo mejor creer firmemente lo que profesas creer, y asumir
 
 todas las benditas consecuencias de cada una de las verdades que, en tu propio
 
-corazn y en tu alma, has recibido del Seor.
+corazón y en tu alma, has recibido del Seńor.
 
 Una de las verdades que creemos con mayor
 
-firmeza es que habr una resurreccin de todos aquellos que mueren en Cristo. Habr
+firmeza es que habrá una resurrección de todos aquellos que mueren en Cristo. Habrá
 
-una resurreccin de los impos as como de los piadosos. Nuestro Seor Jess
+una resurrección de los impíos así como de los piadosos. Nuestro Seńor Jesús
 
-les dijo a los judos: De cierto, de cierto os digo: Viene la hora, y ahora
+les dijo a los judíos: “De cierto, de cierto os digo: Viene la hora, y ahora
 
-es, cuando los muertos oirn la voz del Hijo de Dios; y los que la oyeren
+es, cuando los muertos oirán la voz del Hijo de Dios; y los que la oyeren
 
-vivirn. Porque como el Padre tiene vida en s mismo, as tambin ha dado al
+vivirán. Porque como el Padre tiene vida en sí mismo, así también ha dado al
 
-Hijo el tener vida en s mismo; y tambin le dio autoridad de hacer juicio, por
+Hijo el tener vida en sí mismo; y también le dio autoridad de hacer juicio, por
 
-cuanto es el Hijo del Hombre. No os maravillis de esto; porque vendr hora
+cuanto es el Hijo del Hombre. No os maravilléis de esto; porque vendrá hora
 
-cuando todos los que estn en los sepulcros oirn su voz; y los que hicieron lo
+cuando todos los que están en los sepulcros oirán su voz; y los que hicieron lo
 
-bueno, saldrn a resurreccin de vida; mas los que hicieron lo malo, a
+bueno, saldrán a resurrección de vida; mas los que hicieron lo malo, a
 
-resurreccin de condenacin. Pablo declar ante Flix la doctrina de la resurreccin
+resurrección de condenación”. Pablo declaró ante Félix la doctrina de la “resurrección
 
-de los muertos, as de justos como de injustos. Pero su argumento para con los
+de los muertos, así de justos como de injustos”. Pero su argumento para con los
 
-corintios se refera especialmente a los creyentes que resucitarn de los
+corintios se refería especialmente a los creyentes que resucitarán de los
 
-muertos y estarn con Cristo en el da de Su venida, revividos con la vida que
+muertos y estarán con Cristo en el día de Su venida, revividos con la vida que
 
-le revivi a l, y resucitados para compartir la gloria que el Padre le ha
+le revivió a Él, y resucitados para compartir la gloria que el Padre le ha
 
 dado.
 
 I.
 
-El argumento de Pablo comienza aqu, y este ser
+El argumento de Pablo comienza aquí, y este será
 
-nuestro primer encabezado: SI NO HAY RESURRECCIN DE MUERTOS, CRISTO NO RESUCIT.
+nuestro primer encabezado: SI NO HAY RESURRECCIÓN DE MUERTOS, CRISTO NO RESUCITÓ.
 
-Si la resurreccin de los muertos fuera algo imposible,
+Si la resurrección de los muertos fuera algo imposible,
 
 entonces Cristo no pudo haber resucitado de los muertos. Ahora,
 
-los apstoles dieron testimonio de que
+los apóstoles dieron testimonio de que
 
-Cristo haba resucitado.
+Cristo había resucitado.
 
-Se haban encontrado con l, haban estado con l,
+Se habían encontrado con Él, habían estado con Él,
 
-le haban visto comer un trozo de un pez asado y un panal de miel en una
+le habían visto comer un trozo de un pez asado y un panal de miel en una
 
-ocasin. Le haban visto realizar actos que no podan ser realizados por un
+ocasión. Le habían visto realizar actos que no podían ser realizados por un
 
-espritu, ya que requeran que fuera de carne y hueso. En verdad, l dijo: Un
+espíritu, ya que requerían que fuera de carne y hueso. En verdad, Él dijo: “Un
 
-espritu no tiene carne ni huesos, como veis que yo tengo. Uno de ellos meti
+espíritu no tiene carne ni huesos, como veis que yo tengo”. Uno de ellos metió
 
 su dedo en el lugar de los clavos, y fue invitado a meter su mano en el costado
 
-de Cristo. Fue reconocido por dos de Su discpulos al partir el pan, una seal
+de Cristo. Fue reconocido por dos de Su discípulos al partir el pan, una seńal
 
-familiar por la cual le reconocan mejor que por cualquier otra cosa. Le oyeron
+familiar por la cual le reconocían mejor que por cualquier otra cosa. Le oyeron
 
-hablar, conocan los tonos de Su voz. No fueron engaados. En una ocasin,
+hablar, conocían los tonos de Su voz. No fueron engańados. En una ocasión,
 
-quinientos de Sus discpulos le vieron con claridad; o, si hubiese alguna
+quinientos de Sus discípulos le vieron con claridad; o, si hubiese alguna
 
-posibilidad de un error estando todos juntos, no fueron engaados cuando le vieron
+posibilidad de un error estando todos juntos, no fueron engańados cuando le vieron
 
-uno a uno y entraron en una comunin personal muy cercana con l, cada uno en
+uno a uno y entraron en una comunión personal muy cercana con Él, cada uno en
 
 diferentes circunstancias.
 
-Ahora, -dice Pablo- si no hubiese
+“Ahora”, -dice Pablo- “si no hubiese
 
-resurreccin de los muertos, si eso fuera imposible, entonces, por supuesto,
+resurrección de los muertos, si eso fuera imposible, entonces, por supuesto,
 
-Cristo no resucit; y, sin embargo, todos nosotros les aseguramos que lo vimos,
+Cristo no resucitó; y, sin embargo, todos nosotros les aseguramos que lo vimos,
 
-y que estuvimos con l, y tendran que creer que todos nosotros somos
+y que estuvimos con Él, y tendrían que creer que todos nosotros somos
 
-mentirosos, y que la religin cristiana es una mentira, o bien, tienen que
+mentirosos, y que la religión cristiana es una mentira, o bien, tienen que
 
-creer que hay una resurreccin de los muertos.
+creer que hay una resurrección de los muertos”.
 
-Pero, -dir alguien- Podra ser que Cristo
+“Pero”, -dirá alguien- “Podría ser que Cristo
 
-resucitara, mas no necesariamente Su pueblo. No es as, pues de acuerdo a
+resucitara, mas no necesariamente Su pueblo”. No es así, pues de acuerdo a
 
 nuestra fe y a nuestra firme creencia,
 
@@ -236,565 +236,565 @@ Cristo
 
 es uno con Su pueblo.
 
-Cuando Adn pec, la raza humana entera cay en Adn,
+Cuando Adán pecó, la raza humana entera cayó en Adán,
 
-pues era uno con l; en Adn todos murieron. Incluso quienes no pecaron a la
+pues era uno con él; en Adán todos murieron. Incluso quienes no pecaron a la
 
-manera de la transgresin de Adn, han muerto. La sentencia de muerte ha tenido
+manera de la transgresión de Adán, han muerto. La sentencia de muerte ha tenido
 
-efecto incluso sobre los infantes, porque eran uno con Adn. No se puede
+efecto incluso sobre los infantes, porque eran uno con Adán. No se puede
 
-separar a Adn de su posteridad.
+separar a Adán de su posteridad.
 
-Ahora, Cristo es el segundo Adn, y l tiene una
+Ahora, Cristo es el segundo Adán, y Él tiene una
 
-posteridad. Todos los creyentes son uno con l, y nadie puede separarlos de l.
+posteridad. Todos los creyentes son uno con Él, y nadie puede separarlos de Él.
 
-Si ellos no viven, entonces l no vivi; si l no resucit, entonces ellos no
+Si ellos no viven, entonces Él no vivió; si Él no resucitó, entonces ellos no
 
-resucitarn. Pero lo que le suceda a l tiene tambin que sucederles a ellos.
+resucitarán. Pero lo que le suceda a Él tiene también que sucederles a ellos.
 
-La Cabeza y los miembros estn tan unidos entre s que no hay forma de separarlos.
+La Cabeza y los miembros están tan unidos entre sí que no hay forma de separarlos.
 
-Si l hubiera dormido un sueo eterno, entonces toda alma justa habra hecho
+Si Él hubiera dormido un sueńo eterno, entonces toda alma justa habría hecho
 
-tambin lo mismo. Si l resucit, ellos tienen que resucitar, pues l los ha
+también lo mismo. Si Él resucitó, ellos tienen que resucitar, pues Él los ha
 
-tomado para S para que sean parte y porcin de Su propio ser. l muri para
+tomado para Sí para que sean parte y porción de Su propio ser. Él murió para
 
-que ellos pudieran vivir. Porque l vive, ellos tambin vivirn, y ellos han de
+que ellos pudieran vivir. Porque Él vive, ellos también vivirán, y ellos han de
 
-ser por siempre partcipes de Su vida eterna.
+ser por siempre partícipes de Su vida eterna.
 
 Entonces, este es el primer argumento de Pablo para
 
-la resurreccin de los justos: que, en tanto que Cristo resucit, ellos han de
+la resurrección de los justos: que, en tanto que Cristo resucitó, ellos han de
 
-resucitar, pues estn identificados con l.
+resucitar, pues están identificados con Él.
 
 II.
 
 Pero ahora Pablo sigue adelante con su tema, no
 
-tanto argumentando sobre la resurreccin de otros, como sobre la resurreccin
+tanto argumentando sobre la resurrección de otros, como sobre la resurrección
 
-de Cristo; y su siguiente razonamiento es que, SI NO HAY RESURRECCIN, LA PREDICACIN
+de Cristo; y su siguiente razonamiento es que, SI NO HAY RESURRECCIÓN, LA PREDICACIÓN
 
-APOSTLICA SE DESPLOMARA: Si Cristo no resucit, vana es entonces nuestra
+APOSTÓLICA SE DESPLOMARÍA: “Si Cristo no resucitó, vana es entonces nuestra
 
-predicacin (vean el versculo catorce). Y somos hallados falsos testigos de
+predicación” (vean el versículo catorce). “Y somos hallados falsos testigos de
 
-Dios; porque hemos testificado de Dios que l resucit a Cristo, al cual no
+Dios; porque hemos testificado de Dios que él resucitó a Cristo, al cual no
 
-resucit, si en verdad los muertos no resucitan.
+resucitó, si en verdad los muertos no resucitan”.
 
 Si Cristo
 
-no resucit, los apstoles fueron falsos testigos.
+no resucitó, los apóstoles fueron falsos testigos.
 
 Cuando un hombre da un
 
-falso testimonio, usualmente tiene un motivo para hacerlo. Qu motivo tenan
+falso testimonio, usualmente tiene un motivo para hacerlo. żQué motivo tenían
 
-aquellos hombres? Qu ganaban con dar un falso testimonio tocante a la
+aquellos hombres? żQué ganaban con dar un falso testimonio tocante a la
 
-resurreccin de Cristo? Si Cristo no haba resucitado, todo era prdida sin
+resurrección de Cristo? Si Cristo no había resucitado, todo era pérdida sin
 
-ninguna ganancia para ellos. Los apstoles declararon en Jerusaln que l haba
+ninguna ganancia para ellos. Los apóstoles declararon en Jerusalén que Él había
 
 resucitado de los muertos, y en seguida los hombres comenzaron a encarcelarlos
 
 y a matarlos. Los sobrevivientes daban el mismo testimonio. Estaban tan
 
-plenamente convencidos de l, que viajaron a distantes pases para contar la
+plenamente convencidos de él, que viajaron a distantes países para contar la
 
-historia de Jess y de Su resurreccin de los muertos. Algunos fueron a Roma,
+historia de Jesús y de Su resurrección de los muertos. Algunos fueron a Roma,
 
-algunos a Espaa. Probablemente algunos incluso vinieron a esta remota isla de
+algunos a Espańa. Probablemente algunos incluso vinieron a esta remota isla de
 
-Bretaa. Dondequiera que iban, testificaban que Cristo haba resucitado de los
+Bretańa. Dondequiera que iban, testificaban que Cristo había resucitado de los
 
-muertos, y que le haban visto vivo, y que l era el Salvador de todos aquellos
+muertos, y que le habían visto vivo, y que Él era el Salvador de todos aquellos
 
-que confiaban en l.
+que confiaban en Él.
 
-As predicaron siempre, y qu fue lo que les
+Así predicaron siempre, y żqué fue lo que les
 
-pas? Yo podra decir con Pablo, que: Fueron apedreados, aserrados, puestos a
+pasó? Yo podría decir con Pablo, que: “Fueron apedreados, aserrados, puestos a
 
-prueba, muertos a filo de espada; anduvieron de ac para all cubiertos de
+prueba, muertos a filo de espada; anduvieron de acá para allá cubiertos de
 
-pieles de ovejas y de cabras, pobres, angustiados, maltratados. Fueron
+pieles de ovejas y de cabras, pobres, angustiados, maltratados”. Fueron
 
 llevados delante del Emperador romano una y otra vez, y delante de los
 
-procnsules, y fueron amenazados con la ms dolorosa de las muertes; pero ni
+procónsules, y fueron amenazados con la más dolorosa de las muertes; pero ni
 
-uno solo de ellos se retract jams de su testimonio relativo a la resurreccin
+uno solo de ellos se retractó jamás de su testimonio relativo a la resurrección
 
-de Cristo. Sostuvieron su declaracin de que le haban conocido en vida, de que
+de Cristo. Sostuvieron su declaración de que le habían conocido en vida, de que
 
-muchos de ellos haban estado cerca de l en Su muerte, y que todos haban
+muchos de ellos habían estado cerca de Él en Su muerte, y que todos habían
 
-tenido comunin con l despus de Su resurreccin. Ellos declaraban que Jess
+tenido comunión con Él después de Su resurrección. Ellos declaraban que Jesús
 
-de Nazaret es el Hijo de Dios, que muri y fue sepultado, que resucit y que
+de Nazaret es el Hijo de Dios, que murió y fue sepultado, que resucitó y que
 
-hay salvacin para todos los que crean en l.
+hay salvación para todos los que crean en Él.
 
-Eran estos hombres testigos falsos? Si as
+żEran estos hombres testigos falsos? Si así
 
-fuera, seran los testigos falsos ms extraordinarios que jams existieran.
+fuera, serían los testigos falsos más extraordinarios que jamás existieran.
 
-Cul era su moral? Qu tipo de hombres eran? Eran unos borrachos? Eran unos
+żCuál era su moral? żQué tipo de hombres eran? żEran unos borrachos? żEran unos
 
-adlteros? Eran unos ladrones? No; eran los mejores hombres y los ms puros de
+adúlteros? żEran unos ladrones? No; eran los mejores hombres y los más puros de
 
-la humanidad; sus adversarios no podan presentar ninguna acusacin en contra
+la humanidad; sus adversarios no podían presentar ninguna acusación en contra
 
 de su conducta moral. Eran eminentemente honestos y hablaron con el acento de
 
-la conviccin. Como ya les he dicho, padecieron por su testimonio.
+la convicción. Como ya les he dicho, padecieron por su testimonio.
 
 Ahora, bajo la ley, el testimonio de dos hombres
 
-tena que ser aceptado; pero, qu diremos del testimonio de quinientos
+tenía que ser aceptado; pero, żqué diremos del testimonio de quinientos
 
-hombres? Si fue verdad cuando declararon inicialmente que Jesucristo resucit de
+hombres? Si fue verdad cuando declararon inicialmente que Jesucristo resucitó de
 
 los muertos, es verdad igualmente ahora. No importa que el evento sucediera
 
-hace casi mil novecientos aos; sigue siendo igualmente cierto ahora. Los
+hace casi mil novecientos ańos; sigue siendo igualmente cierto ahora. Los
 
-apstoles dieron un testimonio que no podra ser contradicho, y por tanto, es
+apóstoles dieron un testimonio que no podría ser contradicho, y por tanto, es
 
-firme todava. No podemos suponer que todos aquellos hombres apostlicos eran
+firme todavía. No podemos suponer que todos aquellos hombres apostólicos eran
 
 falsos testigos de Dios.
 
-Si siquiera supusiramos que estaban equivocados
+Si siquiera supusiéramos que estaban equivocados
 
 en este asunto,
 
-deberamos sospechar de
+deberíamos sospechar de
 
-su testimonio sobre todo lo dems,
+su testimonio sobre todo lo demás,
 
-y el nico resultado lgico sera
+y el único resultado lógico sería
 
 renunciar enteramente al Evangelio. Si hubieran estado equivocados en cuanto a
 
-que Cristo resucit de los muertos, no seran testigos crebles de ninguna otra
+que Cristo resucitó de los muertos, no serían testigos creíbles de ninguna otra
 
-cosa; y si quedaran desacreditados, toda nuestra religin se desplomara con
+cosa; y si quedaran desacreditados, toda nuestra religión se desplomaría con
 
-ellos; la fe cristiana, y especialmente todo lo que los apstoles construyeron
+ellos; la fe cristiana, y especialmente todo lo que los apóstoles construyeron
 
-con base en la resurreccin, debera ser arrojado por la puerta como un
+con base en la resurrección, debería ser arrojado por la puerta como un
 
-completo engao. Los apstoles ensearon que la resurreccin de Cristo de los
+completo engańo. Los apóstoles enseńaron que la resurrección de Cristo de los
 
-muertos fue la evidencia de que Su sacrificio fue aceptado. Ensearon que
+muertos fue la evidencia de que Su sacrificio fue aceptado. Enseńaron que
 
-resucit para nuestra justificacin, que Su resurreccin es la esperanza de los
+resucitó para nuestra justificación, que Su resurrección es la esperanza de los
 
-creyentes en esta vida y la seguridad de la resurreccin de sus cuerpos en la
+creyentes en esta vida y la seguridad de la resurrección de sus cuerpos en la
 
-vida venidera. En el instante en que duden de la resurreccin del Seor de los
+vida venidera. En el instante en que duden de la resurrección del Seńor de los
 
-muertos, tienen que renunciar a toda su esperanza de salvacin.
+muertos, tienen que renunciar a toda su esperanza de salvación.
 
-En cuanto a Pablo, quien se pone a s mismo con
+En cuanto a Pablo, quien se pone a sí mismo con
 
-el resto de los apstoles y dice: Si Cristo no resucit somos hallados falsos
+el resto de los apóstoles y dice: “Si Cristo no resucitó… somos hallados falsos
 
-testigos de Dios, me aventuro a solicitarle que pase al frente en calidad de un
+testigos de Dios”, me aventuro a solicitarle que pase al frente en calidad de un
 
-testigo solitario de la categora ms convincente. No necesito recordarles cmo
+testigo solitario de la categoría más convincente. No necesito recordarles cómo
 
-se opona a Cristo al principio. Era fariseo de fariseos y uno de los ms
+se oponía a Cristo al principio. Era fariseo de fariseos y uno de los más
 
-intolerantes miembros de la secta que odiaba el propio nombre de Cristo. Tena
+intolerantes miembros de la secta que odiaba el propio nombre de Cristo. Tenía
 
-una justicia que sobrepasaba a la de los hombres de su tiempo. Pablo era un lder
+una justicia que sobrepasaba a la de los hombres de su tiempo. Pablo era un líder
 
 religioso y un perseguidor y, sin embargo, estaba tan convencido de la
 
-aparicin de Cristo a l en el camino a Damasco que, a partir de entonces, experiment
+aparición de Cristo a él en el camino a Damasco que, a partir de entonces, experimentó
 
-un cambio radical predicando con un celo ardiente la fe que una vez blasfem.
+un cambio radical predicando con un celo ardiente la fe que una vez blasfemó.
 
 Envuelve a Pablo una honestidad que convence en seguida y si no hubiere visto
 
-al Salvador resucitado de los muertos, no habra sido el hombre que afirmara
+al Salvador resucitado de los muertos, no habría sido el hombre que afirmara
 
 que lo vio.
 
 Queridos hermanos, pueden estar seguros de que
 
-Jesucristo resucit en verdad de los muertos. No pueden desechar a esos buenos
+Jesucristo resucitó en verdad de los muertos. No pueden desechar a esos buenos
 
-hombres como impostores; no pueden catalogar al apstol Pablo entre aquellos
+hombres como impostores; no pueden catalogar al apóstol Pablo entre aquellos
 
-individuos fcilmente engaables o entre los engaadores de los dems; entonces,
+individuos fácilmente engańables o entre los engańadores de los demás; entonces,
 
-pueden estar seguros de que Jesucristo resucit verdaderamente de los muertos,
+pueden estar seguros de que Jesucristo resucitó verdaderamente de los muertos,
 
 de conformidad a las Escrituras.
 
 III.
 
-Adems, el argumento de Pablo es que SI NO HAY
+Además, el argumento de Pablo es que SI NO HAY
 
-UNA RESURRECCIN, LA FE SE CONVERTIRA EN UN ENGAO.
+UNA RESURRECCIÓN, LA FE SE CONVERTIRÍA EN UN ENGAŃO.
 
-As como tendramos que renunciar a los apstoles,
+Así como tendríamos que renunciar a los apóstoles,
 
-con toda su enseanza,
+con toda su enseńanza,
 
 si Cristo no
 
-resucit de los muertos,
+resucitó de los muertos,
 
-as tambin tendramos que concluir que
+así también tendríamos que concluir que
 
 sus oyentes creyeron en una mentira:
 
-Vana
+“Vana
 
-es tambin vuestra fe. Amados, me dirijo a quienes han credo en el Seor
+es también vuestra fe”. Amados, me dirijo a quienes han creído en el Seńor
 
-Jesucristo y confan en l con gran consuelo y paz para sus mentes, s, y que
+Jesucristo y confían en Él con gran consuelo y paz para sus mentes, sí, y que
 
-han experimentado un cambio radical de corazn y un cambio radical en sus vidas
+han experimentado un cambio radical de corazón y un cambio radical en sus vidas
 
-a travs de la fe en Cristo. Ahora, si l no resucit de los muertos, ustedes
+a través de la fe en Cristo. Ahora, si Él no resucitó de los muertos, ustedes
 
-estn creyendo en una mentira. Reflexionen en esto: si l no resucit
+están creyendo en una mentira. Reflexionen en esto: si Él no resucitó
 
-literalmente de los muertos al tercer da, esta fe suya que les da consuelo,
+literalmente de los muertos al tercer día, esta fe suya que les da consuelo,
 
-esta fe que les ha renovado en corazn y vida, esta fe que ustedes creen que
+esta fe que les ha renovado en corazón y vida, esta fe que ustedes creen que
 
-los est conduciendo al hogar del cielo, tiene que ser abandonada como un puro
+los está conduciendo al hogar del cielo, tiene que ser abandonada como un puro
 
-engao pues su fe est basada en una falsedad. Oh, qu terrible conclusin
+engańo pues su fe está basada en una falsedad. ˇOh, qué terrible conclusión
 
-sera esta! Pero la inferencia sera claramente cierta si Cristo no resucit;
+sería esta! Pero la inferencia sería claramente cierta si Cristo no resucitó;
 
-estaran arriesgando su alma por una falsedad si Cristo no resucit de los
+estarían arriesgando su alma por una falsedad si Cristo no resucitó de los
 
-muertos. Esa es una declaracin terrible. Yo lo expres el domingo pasado y lo
+muertos. Esa es una declaración terrible. Yo lo expresé el domingo pasado y lo
 
 repito ahora:
 
+“Sobre una
+
+vida que no viví,
+
 Sobre una
 
-vida que no viv,
-
-Sobre una
-
-muerte que no mor,
+muerte que no morí,
 
 Arriesgo mi eternidad
 
-entera.
+entera”.
 
-As es. Si Jess no muri por m y no resucit
+Así es. Si Jesús no murió por mí y no resucitó
 
-por m, estoy perdido; no tengo ni un rayo de consuelo que provenga de otra direccin;
+por mí, estoy perdido; no tengo ni un rayo de consuelo que provenga de otra dirección;
 
-no dependo de nada excepto de Jess crucificado y resucitado; y si esa ncora
+no dependo de nada excepto de Jesús crucificado y resucitado; y si esa áncora
 
-de salvacin fallara, todo fallara con ella, en mi caso, y lo mismo ha de
+de salvación fallara, todo fallaría con ella, en mi caso, y lo mismo ha de
 
 suceder en el caso suyo.
 
-Vana es tambin vuestra fe, escribi Pablo a
+“Vana es también vuestra fe”, escribió Pablo a
 
 los corintios, pues,
 
 si Cristo no
 
-resucit, la prueba ser demasiado grande para que la soporte la fe,
+resucitó, la prueba será demasiado grande para que la soporte la fe,
 
 pues
 
-tiene a la resurreccin de Cristo de los muertos como la propia clave del arco.
+tiene a la resurrección de Cristo de los muertos como la propia clave del arco.
 
-Si no resucit, tu fe se apoya en algo que nunca sucedi y no es cierto y,
+Si no resucitó, tu fe se apoya en algo que nunca sucedió y no es cierto y,
 
-ciertamente, tu fe no aguantara ni esa ni ninguna otra prueba.
+ciertamente, tu fe no aguantaría ni esa ni ninguna otra prueba.
 
 Al creyente le sobreviene, cada vez y cuando, un
 
-tiempo de gran prueba. Has yacido en alguna ocasin -como me ha sucedido varias
+tiempo de gran prueba. żHas yacido en alguna ocasión -como me ha sucedido varias
 
-veces a m- lleno de dolor, casi por cruzar la frontera de este mundo y enfrentar
+veces a mí- lleno de dolor, casi por cruzar la frontera de este mundo y enfrentar
 
 la eternidad, al borde de la eternidad y mirando hacia el terrible abismo?
 
-All, a menos que ests seguro acerca del cimiento de tu fe, estaras en una
+Allí, a menos que estés seguro acerca del cimiento de tu fe, estarías en una
 
-condicin verdaderamente terrible. A menos que tengas entonces una slida roca
+condición verdaderamente terrible. A menos que tengas entonces una sólida roca
 
-debajo de ti, tu esperanza se desvanecera para convertirse en nada, y tu
+debajo de ti, tu esperanza se desvanecería para convertirse en nada, y tu
 
-confesin te dejara solo.
+confesión te dejaría solo.
 
-Cuando ests seguro de que Ha resucitado el
+Cuando estás seguro de que “Ha resucitado el
 
-Seor verdaderamente, entonces sientes que hay algo debajo de tu pie que es
+Seńor verdaderamente”, entonces sientes que hay algo debajo de tu pie que es
 
-inconmovible. Si Jess muri por ti, y Jess resucit por ti, entonces, mi
+inconmovible. Si Jesús murió por ti, y Jesús resucitó por ti, entonces, mi
 
-querido hermano, no sientes miedo ni siquiera de aquel tremendo da cuando la
+querido hermano, no sientes miedo ni siquiera de aquel tremendo día cuando la
 
-tierra ser quemada y los elementos se derretirn con calor ardiente. Sientes
+tierra será quemada y los elementos se derretirán con calor ardiente. Sientes
 
-una confianza que pasar incluso esa prueba. Si Cristo no resucit de los
+una confianza que pasará incluso esa prueba. Si Cristo no resucitó de los
 
-muertos y ests apoyando tu alma en la creencia de que l resucit, qu fracaso
+muertos y estás apoyando tu alma en la creencia de que Él resucitó, qué fracaso
 
-sera para ti en el otro mundo, qu frustracin cuando no te despiertes en Su
+sería para ti en el otro mundo, qué frustración cuando no te despiertes en Su
 
-semejanza, qu espantoso sera si no hubiera perdn de pecado ni salvacin por
+semejanza, ˇqué espantoso sería si no hubiera perdón de pecado ni salvación por
 
-medio de la sangre preciosa! Si Cristo no resucit, vana es tu fe. Si es vana,
+medio de la sangre preciosa! Si Cristo no resucitó, vana es tu fe. Si es vana,
 
-renuncia a ella; no te aferres a algo que no es cierto. Yo preferira
+renuncia a ella; no te aferres a algo que no es cierto. Yo preferiría
 
-sumergirme en el agua, y nadar o vadear a travs del ro, que confiarme a un
+sumergirme en el agua, y nadar o vadear a través del río, que confiarme a un
 
-puente podrido que se rompera por el centro. Si Cristo no resucit, no confes
+puente podrido que se rompería por el centro. Si Cristo no resucitó, no confíes
 
-en l, pues vana sera tal fe; pero, si t crees que en verdad muri por ti y resucit
+en Él, pues vana sería tal fe; pero, si tú crees que en verdad murió por ti y resucitó
 
-por ti, entonces cree en l, gozosamente confiado en que un hecho como ste
+por ti, entonces cree en Él, gozosamente confiado en que un hecho como éste
 
-proporciona una slida base para tu fe.
+proporciona una sólida base para tu fe.
 
 IV.
 
-Ahora voy a avanzar un poco ms. Pablo dice a
+Ahora voy a avanzar un poco más. Pablo dice a
 
-continuacin que SI NO HAY NINGUNA RESURRECCIN, PERMANECAN EN SUS PECADOS: Y
+continuación que SI NO HAY NINGUNA RESURRECCIÓN, PERMANECÍAN EN SUS PECADOS: “Y
 
-si Cristo no resucit, vuestra fe es vana; an estis en vuestros pecados.
+si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados”.
 
-Ah!, podras soportar ese pensamiento, amado
+ˇAh!, żpodrías soportar ese pensamiento, amado
 
-mo en Cristo, que todava ests en tus pecados? Yo creo que su simple
+mío en Cristo, que todavía estás en tus pecados? Yo creo que su simple
 
 sugerencia se apodera de ti, te aterra y te congela la sangre. No hace mucho
 
-tiempo t estabas en tus pecados, muerto en ellos, cubierto con ellos como con
+tiempo tú estabas en tus pecados, muerto en ellos, cubierto con ellos como con
 
-un manto carmes, y estabas condenado y perdido. Pero ahora, t crees que
+un manto carmesí, y estabas condenado y perdido. Pero ahora, tú crees que
 
 Cristo te ha sacado de tus pecados, y te ha lavado y te ha limpiado con Su
 
-sangre preciosa; s, y te ha cambiado de tal manera que el pecado no tendr
+sangre preciosa; sí, y te ha cambiado de tal manera que el pecado no tendrá
 
 dominio sobre ti, pues ahora, por la gracia, eres un hijo de Dios. Bien, pero
 
-si Cristo no resucit, an ests en tus pecados.
+si Cristo no resucitó, aún estás en tus pecados.
 
 Observa eso, pues
 
-entonces no se hizo una expiacin;
+entonces no se hizo una expiación;
 
 al menos, no se hizo una
 
-expiacin satisfactoria. Si la expiacin de Cristo por el pecado hubiere sido
+expiación satisfactoria. Si la expiación de Cristo por el pecado hubiere sido
 
-insatisfactoria, l habra permanecido en la tumba. l fue all por nosotros,
+insatisfactoria, Él habría permanecido en la tumba. Él fue allí por nosotros,
 
-como un rehn por nosotros; y si lo que hizo sobre el madero no hubiera
+como un rehén por nosotros; y si lo que hizo sobre el madero no hubiera
 
-satisfecho la justicia de Dios, entonces no habra salido jams del sepulcro.
+satisfecho la justicia de Dios, entonces no habría salido jamás del sepulcro.
 
-Piensen por un instante cul sera nuestra
+ˇPiensen por un instante cuál sería nuestra
 
-posicin si yo me parara aqu para predicar nicamente a un Cristo muerto y
+posición si yo me parara aquí para predicar únicamente a un Cristo muerto y
 
-sepultado! l muri hace casi mil novecientos aos; pero supongan que nunca se
+sepultado! Él murió hace casi mil novecientos ańos; pero supongan que nunca se
 
-hubiera sabido nada de l desde entonces. Si no hubiera resucitado de los
+hubiera sabido nada de Él desde entonces. Si no hubiera resucitado de los
 
-muertos, podras tener confianza en l? T diras: Cmo podramos saber que
+muertos, żpodrías tener confianza en Él? Tú dirías: “żCómo podríamos saber que
 
-Su sacrificio fue aceptado? Cantamos con mucha verdad:
+Su sacrificio fue aceptado?” Cantamos con mucha verdad:
 
-Si Jess no
+“Si Jesús no
 
 hubiera pagado nunca la deuda,
 
-Nunca habra
+Nunca habría
 
-sido puesto en libertad.
+sido puesto en libertad”.
 
-La Fianza habra estado sujeta a ataduras a
+La Fianza habría estado sujeta a ataduras a
 
-menos que hubiere cumplido con toda su responsabilidad; pero l lo hizo y ha
+menos que hubiere cumplido con toda su responsabilidad; pero Él lo hizo y ha
 
 resucitado de los muertos:
 
-Y ahora
+“Y ahora
 
-ambos, la Fianza y el pecador, son libres.
+ambos, la Fianza y el pecador, son libres”.
 
 Entiendan claramente lo que les estoy diciendo.
 
-El Seor Jesucristo, el Hijo de Dios, asumi la totalidad de la culpa de todo
+El Seńor Jesucristo, el Hijo de Dios, asumió la totalidad de la culpa de todo
 
-Su pueblo. Mas Jehov carg en l el pecado de todos nosotros. l muri, y
+Su pueblo. “Mas Jehová cargó en él el pecado de todos nosotros”. Él murió, y
 
 por Su muerte obtuvo el pleno cumplimiento de todas nuestras obligaciones. Pero
 
-Su resurreccin fue, por decirlo as, el recibo del pago completo, el comprobante
+Su resurrección fue, por decirlo así, el recibo del pago completo, el comprobante
 
-de que l cumpli con el total de las tremendas deudas que haba asumido; y
+de que Él cumplió con el total de las tremendas deudas que había asumido; y
 
-ahora, puesto que Cristo resucit, ustedes que creen en l no estn en sus
+ahora, puesto que Cristo resucitó, ustedes que creen en Él no están en sus
 
-pecados. Pero, si l no resucit, entonces habra sido cierto que an estis
+pecados. Pero, si Él no resucitó, entonces habría sido cierto que “aún estáis
 
-en vuestros pecados.
+en vuestros pecados”.
 
-Habra sido cierto, tambin, en otro sentido. La
+Habría sido cierto, también, en otro sentido. La
 
-vida por la que viven los verdaderos creyentes es la vida de resurreccin de
+vida por la que viven los verdaderos creyentes es la vida de resurrección de
 
-Aquel que dijo: Porque yo vivo, vosotros tambin viviris. Pero
+Aquel que dijo: “Porque yo vivo, vosotros también viviréis”. Pero
 
-si Cristo no resucit, no hay vida para
+si Cristo no resucitó, no hay vida para
 
-quienes estn en l.
+quienes están en Él.
 
-Si todava estuviese dormitando en el sepulcro, dnde
+Si todavía estuviese dormitando en el sepulcro, żdónde
 
-estara la vida que ahora nos llena de gozo y nos conduce a aspirar las cosas
+estaría la vida que ahora nos llena de gozo y nos conduce a aspirar las cosas
 
-celestiales? No habra vida para ustedes si no hubiera habido primero vida para
+celestiales? No habría vida para ustedes si no hubiera habido primero vida para
 
-l. Mas ahora Cristo ha resucitado de los muertos, y en l, ustedes resucitan
+Él. “Mas ahora Cristo ha resucitado de los muertos”, y en Él, ustedes resucitan
 
-a una vida nueva; pero, si l no resucit, an estn muertos, an estn bajo
+a una vida nueva; pero, si Él no resucitó, aún están muertos, aún están bajo
 
-pecado, an estn sin la vida divina, an sin la vida inmortal y eterna que
+pecado, aún están sin la vida divina, aún sin la vida inmortal y eterna que
 
-habr de ser su vida en el cielo a lo largo de la eternidad.
+habrá de ser su vida en el cielo a lo largo de la eternidad.
 
-Entonces, ustedes ven, una vez ms, las
+Entonces, ustedes ven, una vez más, las
 
-consecuencias que se siguen de: Si Cristo no resucit, vuestra fe es vana; an
+consecuencias que se siguen de: “Si Cristo no resucitó, vuestra fe es vana; aún
 
-estis en vuestros pecados.
+estáis en vuestros pecados”.
 
 V.
 
-Ahora sigue, si es posible, una consecuencia an
+Ahora sigue, si es posible, una consecuencia aún
 
-ms terrible. SI NO HAY RESURRECCIN, TODOS LOS MUERTOS PIADOSOS HAN PERECIDO:
+más terrible. SI NO HAY RESURRECCIÓN, TODOS LOS MUERTOS PIADOSOS HAN PERECIDO:
 
-Entonces tambin los que durmieron en Cristo perecieron. Perecieron que no
+“Entonces también los que durmieron en Cristo perecieron”. “Perecieron” que no
 
-significa aniquilados; estn en una peor condicin que sa.
+significa “aniquilados”; están en una peor condición que ésa.
 
 Una frase ha de ser explicada por la otra que le
 
-precedi;
+precedió;
 
-si Jesucristo no resucit, an
+si Jesucristo no resucitó, aún
 
-estn en sus pecados.
+están en sus pecados.
 
-Murieron, y nos decan que haban sido lavados con la
+Murieron, y nos decían que habían sido lavados con la
 
 sangre y perdonados y que esperaban ver el rostro de Dios con gozo; pero si Cristo
 
-no resucit de los muertos, no hay ningn pecador que haya ido al cielo, no hay
+no resucitó de los muertos, no hay ningún pecador que haya ido al cielo, no hay
 
-ningn santo que haya muerto que haya tenido jams alguna esperanza real; ha
+ningún santo que haya muerto que haya tenido jamás alguna esperanza real; ha
 
-muerto bajo engao y ha perecido.
+muerto bajo engańo y ha perecido.
 
-Si Jesucristo no resucit, los muertos piadosos
+Si Jesucristo no resucitó, los muertos piadosos
 
-an estn en sus pecados, y
+aún están en sus pecados, y
 
-nunca podran
+nunca podrían
 
 resucitar;
 
-pues, si Cristo no resucit de los muertos, ellos no podran
+pues, si Cristo no resucitó de los muertos, ellos no podrían
 
-resucitar de los muertos. nicamente por medio de Su resurreccin hay
+resucitar de los muertos. Únicamente por medio de Su resurrección hay
 
-resurreccin para los santos. Los impos resucitarn para vergenza y para
+resurrección para los santos. Los impíos resucitarán para vergüenza y para
 
-eterno desprecio; pero los creyentes resucitarn a la vida eterna y a la
+eterno desprecio; pero los creyentes resucitarán a la vida eterna y a la
 
-felicidad, por su unidad con Cristo; pero, si l no resucit, ellos no podran
+felicidad, por su unidad con Cristo; pero, si Él no resucitó, ellos no podrían
 
-resucitar. Si l estuviera muerto, ellos tendran que estar muertos, pues
+resucitar. Si Él estuviera muerto, ellos tendrían que estar muertos, pues
 
-tienen que compartir con l. Ellos son y siempre tienen que ser uno con l; y
+tienen que compartir con Él. Ellos son y siempre tienen que ser uno con Él; y
 
-todos los santos que han muerto murieron bajo error si Cristo no resucit.
+todos los santos que han muerto murieron bajo error si Cristo no resucitó.
 
 Nosotros desechamos ese pensamiento con aborrecimiento.
 
 Muchos de nosotros hemos tenidos padres y amigos
 
-amados que han muerto en el Seor, y sabemos que la plena seguridad de su fe no
+amados que han muerto en el Seńor, y sabemos que la plena seguridad de su fe no
 
 fue un error. Hemos visto morir a hijos amados en la esperanza segura y cierta
 
-de una gloriosa resurreccin; y sabemos que no fue un error de su parte. He
+de una gloriosa resurrección; y sabemos que no fue un error de su parte. He
 
 estado junto al lecho de muchos moribundos creyentes, muchos de ellos
 
-triunfantes y muchos ms tranquilos y calmados como una dulce noche de verano.
+triunfantes y muchos más tranquilos y calmados como una dulce noche de verano.
 
 No estaban equivocados.
 
 No, queridos amigos, con fe en Cristo, que
 
-vivi, y muri y resucit, tenan confianza en medio del dolor, y gozo en la
+vivió, y murió y resucitó, tenían confianza en medio del dolor, y gozo en la
 
 hora de su partida. No podemos creer que estaban equivocados; por tanto,
 
-confiamos que Jesucristo resucit de los muertos.
+confiamos que Jesucristo resucitó de los muertos.
 
 VI.
 
-Adems, SI NO HAY RESURRECCIN, NUESTRA FUENTE
+Además, SI NO HAY RESURRECCIÓN, NUESTRA FUENTE
 
-DE GOZO DESAPARECERA. Si Jess no resucit de los muertos, nosotros, que
+DE GOZO DESAPARECERÍA. Si Jesús no resucitó de los muertos, nosotros, que
 
-creemos que resucit, somos los ms dignos de conmiseracin de todos los
+creemos que resucitó, somos los más dignos de conmiseración de todos los
 
-hombres: Si en esta vida solamente esperamos en Cristo, y ciertamente no
+hombres: “Si en esta vida solamente esperamos en Cristo”, y ciertamente no
 
-tenemos ninguna esperanza de cualquier otra vida aparte de Cristo, somos los
+tenemos ninguna esperanza de cualquier otra vida aparte de Cristo, “somos los
 
-ms dignos de conmiseracin de todos los hombres.
+más dignos de conmiseración de todos los hombres”.
 
-Qu quiere decir Pablo? Que los hombres
+żQué quiere decir Pablo? żQue los hombres
 
-cristianos son ms dignos de conmiseracin que los dems, si estuvieran
+cristianos son más dignos de conmiseración que los demás, si estuvieran
 
-equivocados? No, no quiere decir eso; pues an el error, si fuera un error, les
+equivocados? No, no quiere decir eso; pues aún el error, si fuera un error, les
 
 proporciona gozo; el error, si fuera un error, les produce confianza y paz en
 
-el presente. Pero suponiendo que tuvieran la seguridad de que estn bajo un
+el presente. Pero suponiendo que tuvieran la seguridad de que están bajo un
 
-error, de que cometieron un error, su consuelo se esfumara, y seran los ms
+error, de que cometieron un error, su consuelo se esfumaría, y serían los más
 
-dignos de conmiseracin de todos los hombres.
+dignos de conmiseración de todos los hombres.
 
 Los
 
@@ -802,27 +802,27 @@ creyentes han renunciado a los goces sensuales;
 
 han renunciado
 
-diligentemente a ellos; no encuentran ningn consuelo en ellos. Hay mil cosas
+diligentemente a ellos; no encuentran ningún consuelo en ellos. Hay mil cosas
 
 en las que los mundanos encuentran un tipo de gozo, todas las cuales son
 
-despreciadas por el cristiano. Bien, si has renunciado al pan color caf y no
+despreciadas por el cristiano. Bien, si has renunciado al pan color café y no
 
 puedes comer el pan blanco, entonces padeces de hambre. Si consideramos que el
 
-jbilo de los mundanos no es mejor que las algarrobas que comen los cerdos, y
+júbilo de los mundanos no es mejor que las algarrobas que comen los cerdos, y
 
-no hay ningn pan para nosotros en el hecho de que Cristo resucit de los
+no hay ningún pan para nosotros en el hecho de que Cristo resucitó de los
 
 muertos, entonces, verdaderamente estamos pasando hambre.
 
-Y, ms que eso,
+Y, más que eso,
 
 ahora hemos aprendido cosas superiores.
 
 Hemos aprendido a amar la
 
-santidad y la buscamos. Hemos aprendido a amar la comunin con Dios, y hablar
+santidad y la buscamos. Hemos aprendido a amar la comunión con Dios, y hablar
 
 con nuestro Padre y con nuestro Salvador se ha convertido en nuestro cielo. Ahora
 
@@ -830,15 +830,15 @@ buscamos las cosas que son espirituales; y tratamos de manejar las cosas que
 
 son carnales como deben ser tratadas, como cosas que han de ser usadas pero no
 
-abusadas. Ahora si despus de haber gustado estos goces superiores, resulta ser
+abusadas. Ahora si después de haber gustado estos goces superiores, resulta ser
 
-que no son nada, y resultan ser nada si Jess no resucit de los muertos,
+que no son nada, y resultan ser nada si Jesús no resucitó de los muertos,
 
-entonces, en verdad, somos los ms dignos de conmiseracin de todos los
+entonces, en verdad, somos los más dignos de conmiseración de todos los
 
 hombres.
 
-Ms que eso,
+Más que eso,
 
 hemos
 
@@ -848,263 +848,263 @@ esperanzas que han hecho saltar de gozo a nuestros
 
 corazones. Hemos estado listos algunas veces a salirnos de inmediato del
 
-cuerpo, con deleites y arrebatos excelsos, en la expectativa de estar con
+cuerpo, con deleites y arrebatos excelsos, en la expectativa de estar “con
 
-Cristo, lo cual es muchsimo mejor. Hemos dicho: Y despus de deshecha esta
+Cristo, lo cual es muchísimo mejor”. Hemos dicho: “Y después de deshecha esta
 
-mi piel, en mi carne he de ver a Dios; al cual ver por m mismo, y mis ojos lo
+mi piel, en mi carne he de ver a Dios; al cual veré por mí mismo, y mis ojos lo
 
-vern, y no otro. Hemos sido embelesados con la plena conviccin de que
+verán, y no otro”. Hemos sido embelesados con la plena convicción de que
 
-nuestros ojos vern al Rey en su hermosura; vern la tierra que est lejos; y
+nuestros ojos “verán al Rey en su hermosura; verán la tierra que está lejos”; y
 
 si eso no fuera seguro, si se pudiera probar que nuestras esperanzas son vanas,
 
-entonces somos los ms dignos de conmiseracin de todos los hombres.
+entonces somos los más dignos de conmiseración de todos los hombres.
 
-Se preguntarn por qu me he demorado tanto en
+Se preguntarán por qué me he demorado tanto en
 
-presentar estos puntos, y cul es mi propsito. Bien, mi propsito es ste:
+presentar estos puntos, y cuál es mi propósito. Bien, mi propósito es éste:
 
-despus de todo, todo gira alrededor de un hecho, un antiguo hecho, y si ese hecho
+después de todo, todo gira alrededor de un hecho, un antiguo hecho, y si ese hecho
 
-no fuera un hecho, todo dependera de nosotros. Si Jesucristo no resucit de
+no fuera un hecho, todo dependería de nosotros. Si Jesucristo no resucitó de
 
 los muertos, entonces Su Evangelio se desintegra por completo. Lo que quiero
 
 que adviertan es esto: que tiene que haber una base de hecho en nuestra
 
-religin; estas cosas tienen que ser hechos, o de lo contrario, nada podra
+religión; estas cosas tienen que ser hechos, o de lo contrario, nada podría
 
 proporcionarnos consuelo.
 
 Nuestras esperanzas eternas no dependen de
 
-nuestra condicin moral; pues, observen que estos hombres de Corinto no habran
+nuestra condición moral; pues, observen que estos hombres de Corinto no habrían
 
 sido ni mejores ni peores si Cristo no hubiera resucitado de los muertos. Su
 
-carcter era justo el mismo. Haba sido formado, es cierto, por una fe en que
+carácter era justo el mismo. Había sido formado, es cierto, por una fe en que
 
-l resucit de los muertos; pero si resucit o no resucit, ellos eran
+Él resucitó de los muertos; pero si resucitó o no resucitó, ellos eran
 
-justamente los mismos hombres, de tal forma que su esperanza no dependa de su
+justamente los mismos hombres, de tal forma que su esperanza no dependía de su
 
-buena condicin moral. El apstol no dice: Si ustedes estn o no en tal y tal
+buena condición moral. El apóstol no dice: “Si ustedes están o no en tal y tal
 
-condicin moral, sino, Si Cristo no resucit, vuestra fe es vana; an estis
+condición moral”, sino, “Si Cristo no resucitó, vuestra fe es vana; aún estáis
 
-en vuestro pecados.
+en vuestro pecados”.
 
-Entonces, amados mos, la razn por la que estn
+Entonces, amados míos, la razón por la que están
 
-seguros es porque Cristo muri por ustedes, y porque resucit; no es el
+seguros es porque Cristo murió por ustedes, y porque resucitó; no es el
 
-resultado de lo que son, sino de lo que l hizo. El eje principal de todo ello
+resultado de lo que son, sino de lo que Él hizo. El eje principal de todo ello
 
-no est en ustedes: est en l, y ustedes han de poner su confianza, no en lo
+no está en ustedes: está en Él, y ustedes han de poner su confianza, no en lo
 
 que ustedes son, o esperan ser, sino completa y enteramente en un gran hecho
 
-que ocurri hace cerca de mil novecientos aos. Si l no resucit de los
+que ocurrió hace cerca de mil novecientos ańos. Si Él no resucitó de los
 
-muertos, ustedes an estn en sus pecados, sin importar lo buenos que pudieran
+muertos, ustedes aún están en sus pecados, sin importar lo buenos que pudieran
 
-ser; pero si l resucit de los muertos, y ustedes son uno con l, ustedes no
+ser; pero si Él resucitó de los muertos, y ustedes son uno con Él, ustedes no
 
-estn en sus pecados; todos ellos han sido quitados, y ustedes son aceptos en
+están en sus pecados; todos ellos han sido quitados, y ustedes son “aceptos en
 
-el Amado.
+el Amado”.
 
 Ahora doy otro paso hacia el frente. La
 
 grandiosa esperanza que tienen ustedes no depende de su estado espiritual.
 
-Tienen que nacer de nuevo; tienen que tener un nuevo corazn y un recto
+Tienen que nacer de nuevo; tienen que tener un nuevo corazón y un recto
 
-espritu, o de lo contrario, no pueden asir a Cristo, y l no es suyo; pero an
+espíritu, o de lo contrario, no pueden asir a Cristo, y Él no es suyo; pero aún
 
-as, su ltima esperanza no radica en lo que ustedes sean espiritualmente, sino
+así, su última esperanza no radica en lo que ustedes sean espiritualmente, sino
 
-en lo que l es. Cuando la oscuridad les embarga el alma, y ustedes dicen:
+en lo que Él es. Cuando la oscuridad les embarga el alma, y ustedes dicen:
 
-tengo miedo de no ser convertido, an as, crean en l, que resucit de los
+“tengo miedo de no ser convertido”, aún así, crean en Él, que resucitó de los
 
-muertos; y cuando, despus de que hayan tenido una visin de ustedes mismos,
+muertos; y cuando, después de que hayan tenido una visión de ustedes mismos,
 
-estn resbalndose hacia una negra desesperacin, afrrense a Aquel que los
+estén resbalándose hacia una negra desesperación, aférrense a Aquel que los
 
-am, y se entreg por ustedes y resucit de los muertos por ustedes.
+amó, y se entregó por ustedes y resucitó de los muertos por ustedes.
 
-Si t crees que Cristo resucit de los muertos,
+Si tú crees que Cristo resucitó de los muertos,
 
 y si este fuera el cimiento de tu esperanza del cielo, esa esperanza permanece
 
 muy firme, ya sea que seas brillante o torpe, que puedas cantar o te veas
 
-forzado a suspirar, que puedas correr o que ests tullido y con tu pierna
+forzado a suspirar, que puedas correr o que estés tullido y con tu pierna
 
-quebrada, y seas capaz nicamente de yacer a los pies de Cristo. Si l muri
+quebrada, y seas capaz únicamente de yacer a los pies de Cristo. Si Él murió
 
-por ti, y resucit por ti, all est el cimiento de tu confianza, y te ruego
+por ti, y resucitó por ti, allí está el cimiento de tu confianza, y te ruego
 
-que te apegues a eso. Ves cmo Pablo insiste en esto? Si Cristo no resucit,
+que te apegues a eso. żVes cómo Pablo insiste en esto? “Si Cristo no resucitó,
 
-vuestra fe es vana; an estis en vuestros pecados. La conclusin es que si
+vuestra fe es vana; aún estáis en vuestros pecados”. La conclusión es que si
 
-Cristo resucit, y t tienes fe en l, tu fe no es vana, y no ests en tus
+Cristo resucitó, y tú tienes fe en Él, tu fe no es vana, y no estás en tus
 
-pecados y eres salvo. Tu esperanza no ha de estar aqu, en lo que tus manos
+pecados y eres salvo. Tu esperanza no ha de estar aquí, en lo que tus manos
 
-puedan hacer, sino all, en aquella cruz, en lo que l hizo, y all, en aquel
+puedan hacer, sino allá, en aquella cruz, en lo que Él hizo, y allá, en aquel
 
-trono, en Aquel que resucit para tu justificacin.
+trono, en Aquel que resucitó para tu justificación.
 
-La cosa ms difcil del mundo pareciera ser
+La cosa más difícil del mundo pareciera ser
 
 lograr que la gente se apegue a esta verdad, pues he notado que mucho de la
 
 doctrina del pensamiento moderno no es nada sino la justicia propia disfrazada
 
-de nuevo. Les est pidiendo a los hombres que todava crean en ellos mismos,
+de nuevo. Les está pidiendo a los hombres que todavía crean en ellos mismos,
 
-que confen en su carcter moral, que confen en sus aspiraciones morales, o en
+que confíen en su carácter moral, que confíen en sus aspiraciones morales, o en
 
 esto o en aquello.
 
-Estoy aqu esta noche para decirles que la base
+Estoy aquí esta noche para decirles que la base
 
 de su esperanza no es ni siquiera su propia fe, ni mucho menos sus propias
 
 buenas obras; sino que la base de su esperanza es lo que Cristo hizo de una vez
 
-por todas, pues vosotros estis completos en l, y nunca podran estar
+por todas, pues “vosotros estáis completos en él”, y nunca podrían estar
 
 completos de ninguna otra manera.
 
-Aqu, adems, quiero que noten que Pablo no dice
+Aquí, además, quiero que noten que Pablo no dice
 
 que ser perdonados y salvados dependa de su sinceridad o de su denuedo. Han de
 
-ser sinceros y denodados; Cristo no es suyo si no lo son; pero an as, podran
+ser sinceros y denodados; Cristo no es suyo si no lo son; pero aún así, podrían
 
 ser muy sinceros, y muy denodados y, sin embargo, haber estado equivocados todo
 
-el tiempo; y entre ms sinceros y denodados sean de la manera equivocada, ms
+el tiempo; y entre más sinceros y denodados sean de la manera equivocada, más
 
-se descarriarn. El hombre de justicia propia puede ser muy sincero cuando se
+se descarriarán. El hombre de justicia propia puede ser muy sincero cuando se
 
-esfuerza por establecer una justicia propia; pero entre ms lo haga, ms se
+esfuerza por establecer una justicia propia; pero entre más lo haga, más se
 
-arruina a s mismo. Pero aqu est el blanco al que tienen que apuntar, no a su
+arruina a sí mismo. Pero aquí está el blanco al que tienen que apuntar, no a su
 
-sinceridad, aunque debe haber sinceridad; pero si Cristo resucit, y en eso
+sinceridad, aunque debe haber sinceridad; pero si Cristo resucitó, y en eso
 
-basan sus esperanzas, entonces no estn en sus pecados, sino que son aceptos en
+basan sus esperanzas, entonces no están en sus pecados, sino que son aceptos en
 
-Cristo, y justificados en l.
+Cristo, y justificados en Él.
 
 En esto me baso yo, y ruego a cada creyente que
 
 se base en esto. Hay muchos nuevos descubrimientos hechos por la ciencia; nos
 
-agrada saber eso. Yo espero que seamos capaces de viajar ms rpidamente, y
+agrada saber eso. Yo espero que seamos capaces de viajar más rápidamente, y
 
 pagar menos por hacerlo. Espero que tengamos mejor luz, y que no sea tan cara.
 
-Entre ms haya verdadera ciencia, mejor; pero cuando la ciencia entra para
+Entre más haya verdadera ciencia, mejor; pero cuando la ciencia entra para
 
 decirme que ha descubierto algo acerca del camino al cielo, entonces yo le
 
-presto odos sordos. Si Cristo no resucit, vana es entonces nuestra
+presto oídos sordos. “Si Cristo no resucitó, vana es entonces nuestra
 
-predicacin, vana es tambin vuestra fe an estis en vuestros pecados. Pero
+predicación, vana es también vuestra fe… aún estáis en vuestros pecados”. Pero
 
-si Cristo resucit, entonces s en dnde estoy. Si realmente es as: si l es
+si Cristo resucitó, entonces sé en dónde estoy. Si realmente es así: si Él es
 
-Dios en carne humana; si tom mi pecado, y asumi las consecuencias de l, y lo
+Dios en carne humana; si tomó mi pecado, y asumió las consecuencias de él, y lo
 
-limpi por completo desde el tribunal del Altsimo; si Su resurreccin es el
+limpió por completo desde el tribunal del Altísimo; si Su resurrección es el
 
-testimonio de Dios de que la obra est hecha, y
+testimonio de Dios de que la obra está hecha, y
 
 de que Cristo, que intervino como Sustituto
 
-por m, es aceptado en mi favor, oh, aleluya, aleluya! Qu ms necesito, sino
+por mí, es aceptado en mi favor, ˇoh, aleluya, aleluya! żQué más necesito, sino
 
-alabar y bendecir el nombre de Aquel que me ha salvado con una salvacin
+alabar y bendecir el nombre de Aquel que me ha salvado con una salvación
 
-eficaz? Ahora voy a trabajar para l. Ahora gastar lo mo y yo mismo me
+eficaz? Ahora voy a trabajar para Él. Ahora gastaré lo mío y yo mismo me
 
-gastar a Su servicio. Ahora voy a odiar todo camino falso y todo pecado, y voy
+gastaré a Su servicio. Ahora voy a odiar todo camino falso y todo pecado, y voy
 
-a buscar la pureza y la santidad; pero no, en ningn sentido, como el
+a buscar la pureza y la santidad; pero no, en ningún sentido, como el
 
-fundamento de mi confianza. Mi nica esperanza en el tiempo y en la eternidad
+fundamento de mi confianza. Mi única esperanza en el tiempo y en la eternidad
 
-es Jess, nicamente Jess; Jess crucificado y resucitado de los muertos.
+es Jesús, únicamente Jesús; Jesús crucificado y resucitado de los muertos.
 
-Yo no conozco ningn pasaje de la Escritura que,
+Yo no conozco ningún pasaje de la Escritura que,
 
-de manera ms completa que ste, ponga el nfasis donde debe ir el nfasis, no
+de manera más completa que éste, ponga el énfasis donde debe ir el énfasis, no
 
-en el hombre, sino en Cristo nicamente: Si no hay resurreccin de muertos,
+en el hombre, sino en Cristo únicamente: “Si no hay resurrección de muertos,
 
-tampoco Cristo resucit. Y si Cristo no resucit, vana es entonces nuestra
+tampoco Cristo resucitó. Y si Cristo no resucitó, vana es entonces nuestra
 
-predicacin, vana es tambin vuestra fe.
+predicación, vana es también vuestra fe”.
 
 Oh, amado oyente, si quieres ser salvado, tu
 
-salvacin no radica en nada tuyo, sino en l que abandon el seno del Padre, y
+salvación no radica en nada tuyo, sino en Él que abandonó el seno del Padre, y
 
-descendi a la tierra como un beb en Beln, y se acogi a los pechos de una
+descendió a la tierra como un bebé en Belén, y se acogió a los pechos de una
 
-mujer; sobre l, que vivi aqu durante treinta y tres aos una vida de
+mujer; sobre Él, que vivió aquí durante treinta y tres ańos una vida de
 
-sufrimiento y dura labor, y que luego tom sobre S el pecado de Su pueblo, y
+sufrimiento y dura labor, y que luego tomó sobre Sí el pecado de Su pueblo, y
 
-lo llev al madero, y all asumi todas las consecuencias del pecado en Su
+lo llevó al madero, y allí asumió todas las consecuencias del pecado en Su
 
 propio cuerpo:
 
-Aguant todo
+“Aguantó todo
 
-lo que el Dios Todopoderoso poda soportar,
+lo que el Dios Todopoderoso podía soportar,
 
 Con fuerza
 
-suficiente, pero sin desperdiciar nada de ella.
+suficiente, pero sin desperdiciar nada de ella”.
 
-Jesucristo aguant aquello que ha convertido al
+Jesucristo aguantó aquello que ha convertido al
 
-perdn de Dios en un acto de justicia, y vindic Su perdn del pecado de tal
+perdón de Dios en un acto de justicia, y vindicó Su perdón del pecado de tal
 
-forma que nadie puede decir que l es injusto cuando pasa por alto la
+forma que nadie puede decir que Él es injusto cuando pasa por alto la
 
-transgresin. Cristo hizo todo eso; y luego, muriendo, fue puesto en el
+transgresión. Cristo hizo todo eso; y luego, muriendo, fue puesto en el
 
-sepulcro, pero, al tercer da, Su Padre lo resucit de los muertos en seal de
+sepulcro, pero, al tercer día, Su Padre lo resucitó de los muertos en seńal de
 
-que dijo la verdad cuando afirm en la cruz: Consumado es. Ahora la deuda
+que dijo la verdad cuando afirmó en la cruz: “Consumado es”. Ahora la deuda
 
-est pagada; entonces, oh pecador, abandona tu prisin, pues tu deuda est
+está pagada; entonces, ˇoh pecador, abandona tu prisión, pues tu deuda está
 
-pagada! Ests encerrado en la desesperacin por causa de tu deuda del pecado?
+pagada! żEstás encerrado en la desesperación por causa de tu deuda del pecado?
 
-Toda tu deuda ha sido liquidada si has credo que l resucit de los muertos.
+Toda tu deuda ha sido liquidada si has creído que Él resucitó de los muertos.
 
-l ha quitado todo tu pecado, y eres libre. Ese texto de las ordenanzas en
+Él ha quitado todo tu pecado, y eres libre. Ese texto de las ordenanzas en
 
-contra tuya est ahora clavado en Su cruz. Prosigue tu camino, y canta: Ha
+contra tuya está ahora clavado en Su cruz. Prosigue tu camino, y canta: “Ha
 
-resucitado el Seor verdaderamente, y s tan feliz como los pjaros del aire,
+resucitado el Seńor verdaderamente”, y sé tan feliz como los pájaros del aire,
 
-hasta que ests, muy pronto, tan feliz como los ngeles en el cielo, por medio
+hasta que estés, muy pronto, tan feliz como los ángeles en el cielo, por medio
 
-de Jesucristo nuestro Seor. Amn.
+de Jesucristo nuestro Seńor. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 10/Diciembre/2009
 

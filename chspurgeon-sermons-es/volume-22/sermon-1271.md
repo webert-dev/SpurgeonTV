@@ -1,52 +1,52 @@
 # Sermón 1271 | Sermón 1271
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Orgullo
 
 Catequizado y Condenado
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA DEL
+LA MAŃANA DEL
 
 DOMINGO 2 DE ENERO DE 1876
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Porque quin te distingue? O qu tienes que no hayas recibido? Y si lo
+Porque żquién te distingue? żO qué tienes que no hayas recibido? Y si lo
 
-recibiste, por qu te gloras como si no lo hubieras recibido?   1 Corintios 4: 7
+recibiste, żpor qué te glorías como si no lo hubieras recibido?   1 Corintios 4: 7
 
 El orgullo crece con
 
 presteza igual que otras malas hierbas. Puede vivir en cualquier suelo.
 
-Prolifera en el corazn natural, brota sin siembra, crece sin riego e incluso se
+Prolifera en el corazón natural, brota sin siembra, crece sin riego e incluso se
 
-arraiga muy fcilmente en el corazn renovado cuando Satans desparrama ah un
+arraiga muy fácilmente en el corazón renovado cuando Satanás desparrama ahí un
 
-puado de su semilla. De todas las criaturas en el mundo, el cristiano es el
+puńado de su semilla. De todas las criaturas en el mundo, el cristiano es el
 
-ltimo ser que debera sucumbir al orgullo y, no obstante, ay, contamos con la
+último ser que debería sucumbir al orgullo y, no obstante, ay, contamos con la
 
-triste evidencia -tanto de la historia como de nuestra propia observacin, y
+triste evidencia -tanto de la historia como de nuestra propia observación, y
 
-peor an, tambin de nuestra propia experiencia personal- que los cristianos estn
+peor aún, también de nuestra propia experiencia personal- que los cristianos están
 
-expuestos a la altivez para su propia vergenza. Pablo se propuso lidiar muy
+expuestos a la altivez para su propia vergüenza. Pablo se propuso lidiar muy
 
-enrgicamente con esta enfermedad cuando la vio cundir entre los corintios.
+enérgicamente con esta enfermedad cuando la vio cundir entre los corintios.
 
-Consider que era necesario hacerlo, pues estaba conduciendo a otros males
+Consideró que era necesario hacerlo, pues estaba conduciendo a otros males
 
-sumamente ignominiosos. El orgullo y la arrogancia haban inducido a los
+sumamente ignominiosos. El orgullo y la arrogancia habían inducido a los
 
-miembros de la iglesia en Corinto a escoger para s distintos lderes y a agruparse
+miembros de la iglesia en Corinto a escoger para sí distintos líderes y a agruparse
 
 bajo estandartes independientes: los seguidores de este individuo pensaban que
 
@@ -54,219 +54,219 @@ eran mejores que los seguidores de aquel otro. De esta forma el cuerpo de
 
 Cristo se encontraba dividido y brotaban en la iglesia de Dios todo tipo de
 
-sentimientos indebidos tales como: celos, emulacin y envidia, cuando todo
+sentimientos indebidos tales como: celos, emulación y envidia, cuando todo
 
-deba haber sido ayuda mutua y unidad amorosa. Por tanto, Pablo acometi contra
+debía haber sido ayuda mutua y unidad amorosa. Por tanto, Pablo acometió contra
 
-el espritu de orgullo enrgicamente y con gran sabidura.
+el espíritu de orgullo enérgicamente y con gran sabiduría.
 
 Pablo estaba muy consciente
 
-de que el orgullo es frvolo y superficial y que no puede tolerar un
+de que el orgullo es frívolo y superficial y que no puede tolerar un
 
-cuestionamiento honesto. Por eso lo juzg segn el mtodo socrtico, y lo puso
+cuestionamiento honesto. Por eso lo juzgó según el método socrático, y lo puso
 
-a prueba con un catecismo. En este versculo le hace tres preguntas al orgullo,
+a prueba con un catecismo. En este versículo le hace tres preguntas al orgullo,
 
-y las tres hacan un llamado a sus amigos para que, en la contemplacin de s
+y las tres hacían un llamado a sus amigos para que, en la contemplación de sí
 
-mismos, se bajaran del nivel en el que su orgullo les haba permitido estar. El
+mismos, se bajaran del nivel en el que su orgullo les había permitido estar. El
 
-orgullo afirmaba: tengo tales y tales dones; pero Pablo replicaba: Qu
+orgullo afirmaba: “tengo tales y tales dones”; pero Pablo replicaba: “żQué
 
-tienes que no hayas recibido? De esa forma hizo una zanja muy profunda y socav
+tienes que no hayas recibido?” De esa forma hizo una zanja muy profunda y socavó
 
-el cimiento del orgullo que haba olvidado por completo que esos dones los
+el cimiento del orgullo que había olvidado por completo que esos dones los
 
-haba recibido de Dios; por tanto, al recordarle eso a la mente, el apstol
+había recibido de Dios; por tanto, al recordarle eso a la mente, el apóstol
 
-agarr al orgullo justo por debajo de la raz, lo cual es siempre la mejor
+agarró al orgullo justo por debajo de la raíz, lo cual es siempre la mejor
 
 manera de hacerlo si se quiere destruir a una mala hierba. No sirve de nada cortar
 
-la parte superior de la verde planta dejando la corona de la raz que le
+la parte superior de la verde planta dejando la corona de la raíz que le
 
-permitira brotar con el siguiente aguacero o con la luz que el sol le
+permitiría brotar con el siguiente aguacero o con la luz que el sol le
 
-prodigara; pero ir a lo profundo para arrancar la raz es eficaz: eso hizo
+prodigara; pero ir a lo profundo para arrancar la raíz es eficaz: eso hizo
 
-Pablo con el orgullo recordndoles a los presumidos corintios que los dones que
+Pablo con el orgullo recordándoles a los presumidos corintios que los dones que
 
-posean no eran ningn motivo de gloria ya que los haban recibido como
+poseían no eran ningún motivo de gloria ya que los habían recibido como
 
 limosnas provenientes de la caridad de Dios.
 
 El procedimiento de
 
-Pablo tambin ilustra otra verdad, es decir, que el orgullo es siempre
+Pablo también ilustra otra verdad, es decir, que el orgullo es siempre
 
 inconsistente con la verdadera doctrina del Evangelio. Pueden usar esta regla
 
-respecto a cualquier predicacin o enseanza con la que se encuentren: si
+respecto a cualquier predicación o enseńanza con la que se encuentren: si
 
-conduce a un hombre, legtima y lgicamente, a jactarse de s mismo, no es verdadera.
+conduce a un hombre, legítima y lógicamente, a jactarse de sí mismo, no es verdadera.
 
-Nuestros expertos en qumica usan tornasol para detectar la presencia de algn
+Nuestros expertos en química usan tornasol para detectar la presencia de algún
 
-cido en cualquier lquido que se les enve, pues el papel adopta entonces un
+ácido en cualquier líquido que se les envíe, pues el papel adopta entonces un
 
-tinte rojizo; y ustedes pueden usar esta regla para hacer su anlisis: cuando
+tinte rojizo; y ustedes pueden usar esta regla para hacer su análisis: cuando
 
-una doctrina los ponga rojos de orgullo entonces contiene el cido de la
+una doctrina los ponga rojos de orgullo entonces contiene el ácido de la
 
 falsedad. Lo que causa engreimiento no es de Dios, pero lo que abate al hombre
 
-y exalta a Jesucristo, tiene al menos dos de las seales de la verdad. Lo que
+y exalta a Jesucristo, tiene al menos dos de las seńales de la verdad. Lo que
 
-glorifica al hombre no podra ser revelado por Dios pues l ha dicho que nadie
+glorifica al hombre no podría ser revelado por Dios pues Él ha dicho que nadie
 
-se jactar en Su presencia. Ese tipo de enseanza podra parecer muy lustrosa
+se jactará en Su presencia. Ese tipo de enseńanza podría parecer muy lustrosa
 
 con una afectada santidad, y muy fascinante con una pretendida espiritualidad,
 
-y pudiera haber mucho en los ms preciados deseos de ustedes que hiciera
+y pudiera haber mucho en los más preciados deseos de ustedes que hiciera
 
-inclinar su corazn hacia ella, como siempre lo hay en las novedades del
+inclinar su corazón hacia ella, como siempre lo hay en las novedades del
 
-presente da; pero examnenla para ver si es de Dios mediante el anlisis aqu
+presente día; pero examínenla para ver si es de Dios mediante el análisis aquí
 
 sugerido. Si con una blanda mano acicala sus plumas de la manera correcta y los
 
-hace pensar: cun excelente soy yo, deberan huir de ella de inmediato. El
+hace pensar: “cuán excelente soy yo”, deberían huir de ella de inmediato. El
 
-simple hecho de que los halague debera servirles de cuerno de niebla para advertirles
+simple hecho de que los halague debería servirles de cuerno de niebla para advertirles
 
-del peligro. A cada doctrina que fomente el orgullo dganle: Qutate de
+del peligro. A cada doctrina que fomente el orgullo díganle: “ˇQuítate de
 
-delante de m, Satans!; porque no pones la mira en las cosas de Dios y de la
+delante de mí, Satanás!; porque no pones la mira en las cosas de Dios y de la
 
-verdad, pues de otra manera no hablaras tan bien de m.
+verdad, pues de otra manera no hablarías tan bien de mí”.
 
-Mi objetivo esta maana
+Mi objetivo esta mańana
 
-ser proponerme hacer con nuestro propio orgullo lo que Pablo intent hacer con
+será proponerme hacer con nuestro propio orgullo lo que Pablo intentó hacer con
 
-el de los corintios, es decir, ahondar ms de lo que generalmente lo hacemos
+el de los corintios, es decir, ahondar más de lo que generalmente lo hacemos
 
 cuando medimos nuestras propias habilidades; y luego voy a intentar usar la azada
 
 de plata de las doctrinas de la gracia para que la cicuta del orgullo sea
 
-arrancada de raz. Mirando al texto advierto, primero,
+arrancada de raíz. Mirando al texto advierto, primero,
 
-una pregunta que tiene una fcil respuesta:
+una pregunta que tiene una fácil respuesta:
 
-Quin te distingue?
+“żQuién te distingue?
 
-O qu tienes que no hayas recibido? En segundo lugar,
+żO qué tienes que no hayas recibido?” En segundo lugar,
 
-una pregunta que ha de responderse con vergenza:
+una pregunta que ha de responderse con vergüenza:
 
-Y si lo
+“Y si lo
 
-recibiste, por qu te gloras como si no lo hubieras recibido? Y luego, en
+recibiste, żpor qué te glorías como si no lo hubieras recibido?” Y luego, en
 
-tercer lugar, voy a solicitar su atencin durante unos cuantos minutos hacia
+tercer lugar, voy a solicitar su atención durante unos cuantos minutos hacia
 
 nuevas preguntas sugeridas por estas
 
 preguntas.
 
-Que el Espritu Santo bendiga misericordiosamente esta palabra.
+Que el Espíritu Santo bendiga misericordiosamente esta palabra.
 
 I.
 
 En
 
-forma doble el apstol nos hace UNA PREGUNTA QUE TIENE UNA FCIL RESPUESTA.
+forma doble el apóstol nos hace UNA PREGUNTA QUE TIENE UNA FÁCIL RESPUESTA.
 
 Pudiera ser que algunos se desconcierten con estas preguntas, pero no creo que
 
-haya aqu tales personas; en todo caso, no pertenecen a nuestra iglesia. Cuando
+haya aquí tales personas; en todo caso, no pertenecen a nuestra iglesia. Cuando
 
-se nos pregunta: Quin te distingue?, nuestra respuesta inmediata es: Dios,
+se nos pregunta: “żQuién te distingue?”, nuestra respuesta inmediata es: “Dios,
 
-por su gracia, nos ha distinguido; y si se nos preguntara: Qu tienes que no
+por su gracia, nos ha distinguido”; y si se nos preguntara: “żQué tienes que no
 
-hayas recibido?, nosotros respondemos: no tenemos nada excepto nuestro
+hayas recibido?”, nosotros respondemos: “no tenemos nada excepto nuestro
 
-pecado, pues toda buena ddiva y todo don perfecto desciende de lo alto, del
+pecado, pues toda buena dádiva y todo don perfecto desciende de lo alto, del
 
-Padre de las luces.
+Padre de las luces”.
 
 Nos alegra en especial
 
-or que Pable diga eso, porque l era lo que en la actualidad se describe como
+oír que Pable diga eso, porque él era lo que en la actualidad se describe como
 
-un hombre que se ha hecho a s mismo. Sucede muy frecuentemente que un hombre
+un “hombre que se ha hecho a sí mismo”. Sucede muy frecuentemente que un hombre
 
-que se hace a s mismo siente mucho respeto por su hacedor. Acaso no es
+que ‘se hace a sí mismo’ siente mucho respeto por su hacedor. żAcaso no es
 
-natural que adore a su creador? Pablo era un hombre que en lo que concerna a
+natural que adore a su creador? Pablo era un hombre que en lo que concernía a
 
-la iglesia cristiana se haba abierto paso sin ayuda de nadie. Comenz en esa
+la iglesia cristiana se había abierto paso sin ayuda de nadie. Comenzó en esa
 
-iglesia sin gozar de ningn respeto, antes bien, sospechaban de l. Los
+iglesia sin gozar de ningún respeto, antes bien, sospechaban de él. Los
 
-hermanos se haban enterado de que persegua a los santos, por lo que al
+hermanos se habían enterado de que perseguía a los santos, por lo que al
 
 principio estaban renuentes a recibirlo. Su nombre era un terror antes que un
 
-placer. Pero Pablo, con su elevado espritu, con su consagrado ardor, con su
+placer. Pero Pablo, con su elevado espíritu, con su consagrado ardor, con su
 
 infatigable diligencia, con ese sorprendente valor que le caracterizaba y sustentado
 
-por supuesto por la gracia de Dios, comenz a destacar hasta que pudo reclamar
+por supuesto por la gracia de Dios, comenzó a destacar hasta que pudo reclamar
 
-honestamente y sin ningn egosmo que l no haba sido en nada inferior a
+honestamente y sin ningún egoísmo que él no había sido “en nada inferior a
 
-aquellos grandes apstoles, aunque dijo- nada soy. Pablo era un hombre que
+aquellos grandes apóstoles, aunque” –dijo- “nada soy”. Pablo era un hombre que
 
-no haba alcanzado una eminente posicin por haber sido llevado como por la cresta
+no había alcanzado una eminente posición por haber sido llevado como por la cresta
 
-de una ola; no se haba despertado una maana para descubrirse famoso, sino que
+de una ola; no se había despertado una mańana para descubrirse famoso, sino que
 
-haba empleado todos sus poderes en la lucha por la vida, y haba trabajado con
+había empleado todos sus poderes en la lucha por la vida, y había trabajado con
 
-persistente energa ao tras ao. Cuando persegua a los santos de Dios lo
+persistente energía ańo tras ańo. Cuando perseguía a los santos de Dios lo
 
-haca en la ignorancia, en la incredulidad, pensando que le prestaba un
+hacía en la ignorancia, en la incredulidad, pensando que le prestaba un
 
 servicio a Dios; y a lo largo de toda su vida bastaba que supiera que algo era recto
 
-para que luchara por ello. Haba sido guardado del egosmo y del engao; haba
+para que luchara por ello. Había sido guardado del egoísmo y del engańo; había
 
-sido un hombre intensamente activo, resuelto y de alma elevada, y complet una
+sido un hombre intensamente activo, resuelto y de alma elevada, y completó una
 
-gran obra en su vida que todava ejerce su influencia en la iglesia; y, con
+gran obra en su vida que todavía ejerce su influencia en la iglesia; y, con
 
-todo, Pablo mismo no tena nada de qu gloriarse. El testimonio que ofrece de
+todo, Pablo mismo no tenía nada de qué gloriarse. El testimonio que ofrece de
 
 su propia deuda para con la gracia de Dios es tan claro y fue repetido tantas veces,
 
-que no podemos interpretarlo mal. Pablo dice claramente: Por la gracia de Dios
+que no podemos interpretarlo mal. Pablo dice claramente: “Por la gracia de Dios
 
-soy lo que soy. Consideraba su propia justicia como algo sin valor, y slo
+soy lo que soy”. Consideraba su propia justicia como algo sin valor, y sólo
 
 deseaba ser encontrado en Cristo, vestido en la justicia que es de Dios por la
 
 fe.
 
-Nos estamos dirigiendo
+żNos estamos dirigiendo
 
-hoy a alguien que se haya hecho a s mismo, tal como el mundo llama a los individuos
+hoy a alguien que se haya hecho a sí mismo, tal como el mundo llama a los individuos
 
-que se han destacado? Has asumido t el crdito, querido amigo, por tu xito
+que se han destacado? żHas asumido tú el crédito, querido amigo, por tu éxito
 
-en la vida? Te ufanas de haber ascendido por tus propios esfuerzos? Entonces
+en la vida? żTe ufanas de haber ascendido por tus propios esfuerzos? Entonces
 
-abandona tal jactancia y en el espritu del apstol hazte la pregunta: Quin
+abandona tal jactancia y en el espíritu del apóstol hazte la pregunta: “żQuién
 
-te distingue? O qu tienes que no hayas recibido?
+te distingue? żO qué tienes que no hayas recibido?”
 
 Nuestra pregunta es de
 
-fcil respuesta, ya sea que se aplique a los dones naturales o a los
+fácil respuesta, ya sea que se aplique a los dones naturales o a los
 
 espirituales. Hay una tendencia a jactarse en
 
@@ -290,135 +290,135 @@ debemos estar siempre agradecidos por ese linaje; preferimos que nuestros
 
 padres se cuenten entre los santos de Dios que entre los pares del reino; pero,
 
-hermanos, ciertamente seramos necios si nos jactramos de ancestros piadosos
+hermanos, ciertamente seríamos necios si nos jactáramos de ancestros piadosos
 
 ya que nosotros no los elegimos. Hijos de padres piadosos, ustedes no pueden
 
-mirar con desdn ni siquiera a los de vil cuna, pues a semejanza de ellos,
+mirar con desdén ni siquiera a los de vil cuna, pues a semejanza de ellos,
 
 ustedes no tuvieron nada que ver con su nacimiento.
 
 Algunos tienen fortaleza
 
-fsica de nacimiento. Siempre me ha parecido algo muy desatinado que un hombre
+física de nacimiento. Siempre me ha parecido algo muy desatinado que un hombre
 
-se glore de su fuerza animal, pues no puede haber ningn mrito en ello, y, sin
+se gloríe de su fuerza animal, pues no puede haber ningún mérito en ello, y, sin
 
 embargo, hay algunos que lo hacen. Algunos se jactan abundantemente de la
 
-potencia de sus fornidos miembros y de sus poderosos msculos. Aunque el Seor
+potencia de sus fornidos miembros y de sus poderosos músculos. Aunque el Seńor
 
 no se complace en la agilidad del hombre, con todo, algunos consideran algo muy
 
-maravilloso poder saltar ms o correr ms rpido que sus semejantes. Oh,
+maravilloso poder saltar más o correr más rápido que sus semejantes. Oh,
 
-atleta, aunque seas tan fuerte como Sansn, o tan ligero de pies como Asael,
+atleta, aunque seas tan fuerte como Sansón, o tan ligero de pies como Asael,
 
-qu tienes que no hayas recibido? Si hubieras nacido con una tendencia a
+żqué tienes que no hayas recibido? Si hubieras nacido con una tendencia a
 
-sufrir de tisis o con cualquier otra debilidad hereditaria, habras podido
+sufrir de tisis o con cualquier otra debilidad hereditaria, żhabrías podido
 
-evitarlo? Y ahora que eres fuerte, has de ser elogiado ms que un caballo o una
+evitarlo? Y ahora que eres fuerte, żhas de ser elogiado más que un caballo o una
 
-mquina de vapor?
+máquina de vapor?
 
-Lo mismo es vlido con
+Lo mismo es válido con
 
 respecto a la belleza de una persona, que es con demasiada frecuencia el origen
 
-de la vanidad. Debido a eso la belleza es con frecuencia una trampa. Qu
+de la vanidad. Debido a eso la belleza es con frecuencia una trampa. żQué
 
-importa si tus rasgos han sido delicadamente cincelados, qu importa si tus
+importa si tus rasgos han sido delicadamente cincelados, qué importa si tus
 
-ojos son brillantes como la maana y tu rostro hermoso como el lirio, qu
+ojos son brillantes como la mańana y tu rostro hermoso como el lirio, qué
 
-importa si hay un encanto en cada una de tus miradas? Qu has aportado t de
+importa si hay un encanto en cada una de tus miradas? żQué has aportado tú de
 
-todas esas cosas por lo que debas alabarte? Jezabel era tambin de hermoso
+todas esas cosas por lo que debas alabarte? Jezabel era también de hermoso
 
-aspecto y, ha de ser alabada? Acaso tu belleza no es un don de Dios? Bendice
+aspecto y, żha de ser alabada? żAcaso tu belleza no es un don de Dios? Bendice
 
 a tu Creador por ello, pero no desprecies a quienes sean menos atractivos, pues
 
-hacindolo desprecias a su Hacedor. Cun a menudo omos una risa que brota a
+haciéndolo desprecias a su Hacedor. Cuán a menudo oímos una risa que brota a
 
 espaldas de personas que son de alguna manera grotescas o tal vez deformes,
 
-pero Dios las hizo, y quin se atrevera a recriminar burlonamente al Hacedor
+pero Dios las hizo, ży quién se atrevería a recriminar burlonamente al Hacedor
 
-por lo que ha hecho? Qu tienes t, oh hermosa entre las mujeres y qu tienes
+por lo que ha hecho? żQué tienes tú, oh hermosa entre las mujeres y qué tienes
 
-t, oh gallardo entre los hijos de los hombres, que no hayan recibido? Despjense,
+tú, oh gallardo entre los hijos de los hombres, que no hayan recibido? Despójense,
 
 entonces, de esos aires remilgados y dejen de andar meneando la cabeza.
 
-Lo mismo es vlido con
+Lo mismo es válido con
 
-respecto al rango que viene del nacimiento. Algunos seres nacen siendo nobles segn
+respecto al rango que viene del nacimiento. Algunos seres nacen siendo nobles según
 
-los arreglos herldicos. En qu sentido es noble un beb recin nacido? Puede
+los arreglos heráldicos. żEn qué sentido es noble un bebé recién nacido? żPuede
 
-la verdadera nobleza surgir de algo que no sea el carcter personal? Sin
+la verdadera nobleza surgir de algo que no sea el carácter personal? Sin
 
-embargo, ellos nacen con la reputacin de nobleza y son considerados con respeto
+embargo, ellos nacen con la reputación de nobleza y son considerados con respeto
 
-de inmediato. Acaso no son nuestros futuros gobernantes? Sin que se debiera a
+de inmediato. żAcaso no son nuestros futuros gobernantes? Sin que se debiera a
 
-ningn acto o merecimiento, o a ningn talento o herosmo propios, algunos son
+ningún acto o merecimiento, o a ningún talento o heroísmo propios, algunos son
 
-colocados arriba de otros como si fuera por accidente, o ms bien, por el
+colocados arriba de otros como si fuera por accidente, o más bien, por el
 
-soberano decreto de la providencia, por qu, entonces, habran de gloriarse en
+soberano decreto de la providencia, żpor qué, entonces, habrían de gloriarse en
 
-lo que es tan puramente el resultado de un don? Oh, t, que eres grande y
+lo que es tan puramente el resultado de un don? Oh, tú, que eres grande y
 
-honorable entre los hombres, qu tienes que no hayas recibido? Camina en
+honorable entre los hombres, żqué tienes que no hayas recibido? Camina en
 
-humilde delicadeza, y vive con verdadera nobleza de carcter, y convierte as tu
+humilde delicadeza, y vive con verdadera nobleza de carácter, y convierte así tu
 
-rango en una bendicin.
+rango en una bendición.
 
 Hermanos y hermanas,
 
-cunto estamos endeudados todos nosotros por el nacimiento, por el cual nos
+cuánto estamos endeudados todos nosotros por el nacimiento, por el cual nos
 
-atribuimos el crdito. Tal vez no hayamos cado nunca en las inmoralidades ms
+atribuimos el crédito. Tal vez no hayamos caído nunca en las inmoralidades más
 
-viles, pero no lo habramos hecho rpidamente si hubiramos estado apretujados
+viles, pero żno lo habríamos hecho rápidamente si hubiéramos estado apretujados
 
-en espacios en donde la decencia lucha por existir, o si hubiramos sido
+en espacios en donde la decencia lucha por existir, o si hubiéramos sido
 
 forzados a dar nuestras caminatas en senderos donde la blasfemia y el vicio
 
-contienden con la ley y el orden sin que puedan ser sometidos? Si hubiramos
+contienden con la ley y el orden sin que puedan ser sometidos? Si hubiéramos
 
-tenido ante nosotros el peor en vez del mejor de los ejemplos, qu no hubiramos
+tenido ante nosotros el peor en vez del mejor de los ejemplos, żqué no hubiéramos
 
 podido ser? Tal como son las cosas ya hemos pecado lo suficiente, pero que no
 
-hayamos pecado ms podra atribuirse en gran medida a que comenzamos la vida
+hayamos pecado más podría atribuirse en gran medida a que comenzamos la vida
 
-bajo circunstancias ms bien favorables que a cualquier conducta meritoria de
+bajo circunstancias más bien favorables que a cualquier conducta meritoria de
 
-parte nuestra. A este respecto, qu tenemos que no hayamos recibido? Dale
+parte nuestra. A este respecto, żqué tenemos que no hayamos recibido? Dale
 
-gracias a Dios porque has sido honesto, pero habras podido ser un ladrn si tu
+gracias a Dios porque has sido honesto, pero habrías podido ser un ladrón si tu
 
-padre hubiera sido uno. Algrate porque has sido casto y modesto; tal vez no lo
+padre hubiera sido uno. Alégrate porque has sido casto y modesto; tal vez no lo
 
-seras si hubieras estado rodeado de otro entorno. En este momento eres
+serías si hubieras estado rodeado de otro entorno. En este momento eres
 
 respetado y reconocido y conduces rectamente tu negocio; si hubieras sido tan
 
-pobre como otros, habras podido ser tentado a realizar unas transacciones tan
+pobre como otros, habrías podido ser tentado a realizar unas transacciones tan
 
 sucias como las que son imputables a ellos. En estos asuntos comunes de
 
-moralidad no podramos saber cunto le debemos al nacimiento, y cun poco a
+moralidad no podríamos saber cuánto le debemos al nacimiento, y cuán poco a
 
 nosotros mismos. Ciertamente el aplauso que nos recetamos a nosotros mismos
 
-cesa cuando omos la pregunta: Qu tienes que no hayas recibido?
+cesa cuando oímos la pregunta: “żQué tienes que no hayas recibido?”
 
 En el tema del
 
@@ -426,47 +426,47 @@ talento
 
 hay diferencias muy grandes. Un
 
-hombre se abre paso muy pronto en el mundo all donde otros fracasan. Sin
+hombre se abre paso muy pronto en el mundo allí donde otros fracasan. Sin
 
-importar dnde se le ponga, amasar su fortuna; y sus amigos dicen en broma que
+importar dónde se le ponga, amasará su fortuna; y sus amigos dicen en broma que
 
-si fuera transportado al desierto del Sahara vendera la arena con una ganancia.
+si fuera transportado al desierto del Sahara vendería la arena con una ganancia.
 
-Pero quin le dio ese talento? Qu tiene que no haya recibido? Otro puede
+Pero żquién le dio ese talento? żQué tiene que no haya recibido? Otro puede
 
 estudiar un arte o una ciencia y volverse competente en ellas en un breve
 
-tiempo; cuando es muchacho es un lder en la escuela, y como adulto es eminente
+tiempo; cuando es muchacho es un líder en la escuela, y como adulto es eminente
 
-en su esfera; con todo, no son su sabidura y su discernimiento dones del
+en su esfera; con todo, żno son su sabiduría y su discernimiento dones del
 
 cielo? Otro hombre tiene el don de la elocuencia y habla bien, mientras que su
 
-prjimo tiene facilidad para escribir. Por cualquiera de esos dones un hombre
+prójimo tiene facilidad para escribir. Por cualquiera de esos dones un hombre
 
 puede experimentar tal contentamiento que pronto se puede volver presumido, pero
 
-la verdad que nuestro texto ensea debera prevenir siempre esa insensatez.
+la verdad que nuestro texto enseńa debería prevenir siempre esa insensatez.
 
-Qu tienes que no hayas recibido? Lo que Dios te dio a ti pudo habrtelo
+“żQué tienes que no hayas recibido?” Lo que Dios te dio a ti pudo habértelo
 
-suprimido y el hombre a quien t desprecias pudo haber recibido tus dones; l habra
+suprimido y el hombre a quien tú desprecias pudo haber recibido tus dones; él habría
 
-sido un necio por despreciarte de no haber tenido t esos dones, y t eres
+sido un necio por despreciarte de no haber tenido tú esos dones, y tú eres
 
-ahora un insensato por despreciarlo a l.
+ahora un insensato por despreciarlo a él.
 
-Qu diferencias hay,
+Qué diferencias hay,
 
-tambin, en el grado en que los hombres pueden superarse gracias a la
+también, en el grado en que los hombres pueden superarse gracias a la
 
-educacin.
+educación.
 
 Ahora hay una mejor oportunidad
 
-para la educacin para todos los rangos y condiciones de personas, por lo cual
+para la educación para todos los rangos y condiciones de personas, por lo cual
 
-yo estoy sinceramente agradecido, y espero que la verdadera religin participe
+yo estoy sinceramente agradecido, y espero que la verdadera religión participe
 
 de esa ventaja; pero
 
@@ -474,17 +474,17 @@ no todos los
 
 alumnos educados en la misma escuela la abandonan con igual grado de
 
-instruccin. Uno es listo y el otro es torpe; uno se las ingenia para destacar
+instrucción. Uno es listo y el otro es torpe; uno se las ingenia para destacar
 
-mientras que otro est condenado a quedarse en la retaguardia.
+mientras que otro está condenado a quedarse en la retaguardia.
 
-Independientemente de que la diferencia radique en la conformacin original del
+Independientemente de que la diferencia radique en la conformación original del
 
-hombre o que sea el producto de una enseanza distinta, el resultado tiene que
+hombre o que sea el producto de una enseńanza distinta, el resultado tiene que
 
 estar sujeto de igual manera al agradecimiento para con Dios, pues si es el
 
-talento natural o es la excelente educacin, ambas cosas son un don.
+talento natural o es la excelente educación, ambas cosas son un don.
 
 Sucede exactamente lo
 
@@ -492,37 +492,37 @@ mismo con la
 
 riqueza.
 
-Podra
+Podría
 
 dirigirme a alguien a quien Dios le ha dado una gran riqueza; pero, mi querido
 
-amigo, en el curso de la acumulacin de esa riqueza t has tenido abundante
+amigo, en el curso de la acumulación de esa riqueza tú has tenido abundante
 
-evidencia de que l te da el poder para hacer las riquezas. Hubo un tiempo
+evidencia de que “él te da el poder para hacer las riquezas”. Hubo un tiempo
 
-cuando tenas muy poco, y una singular providencia te puso en el camino del
+cuando tenías muy poco, y una singular providencia te puso en el camino del
 
-progreso. Ha habido momentos, tambin, cuando un ligero giro en la balanza te
+progreso. Ha habido momentos, también, cuando un ligero giro en la balanza te
 
-habra enviado a la bancarrota, pero los mercados cambiaron su tendencia y
+habría enviado a la bancarrota, pero los mercados cambiaron su tendencia y
 
 lograste evadirla. Has visto que unos que iban adelante de ti en la carrera de
 
-la prosperidad se quedaron muy rezagados, y aunque Dios te ha prosperado, s
+la prosperidad se quedaron muy rezagados, y aunque Dios te ha prosperado, sé
 
 que ha habido momentos de ansiedad en los que has tenido que alzar tus ojos al
 
-Altsimo e implorarle pidiendo que Su ternura y Su misericordia te ayudaran y
+Altísimo e implorarle pidiendo que Su ternura y Su misericordia te ayudaran y
 
-libraran. Bien, en la medida en que esta riqueza es una bendicin si sabes
+libraran. Bien, en la medida en que esta riqueza es una bendición si sabes
 
-usarla rectamente, debes atribuir su posesin a Dios, que te ha hecho Su
+usarla rectamente, debes atribuir su posesión a Dios, que te ha hecho Su
 
-mayordomo. Me dices que has tenido un ojo ms perspicaz, que has sido ms
+mayordomo. żMe dices que has tenido un ojo más perspicaz, que has sido más
 
-diligente que otros, y que tambin has tenido un mejor juicio? Cierto, pero
+diligente que otros, y que también has tenido un mejor juicio? Cierto, pero
 
-quin te dio el juicio y quin te dio la salud con la que has podido ser
+żquién te dio el juicio y quién te dio la salud con la que has podido ser
 
 diligente? Muchos otros hombres han sido igualmente diligentes, y sin embargo,
 
@@ -532,61 +532,61 @@ se han visto incapacitados por alguna enfermedad; muchos otros hombres han
 
 tenido un ojo perspicaz, pero, ay, su juicio se ha visto desconcertado por el
 
-infortunio; alguien ms comenz la vida con un cerebro tan claro como el tuyo,
+infortunio; alguien más comenzó la vida con un cerebro tan claro como el tuyo,
 
-pero ahora est confinado en el asilo y t ests todava en posesin de todas
+pero ahora está confinado en el asilo y tú estás todavía en posesión de todas
 
 tus facultades.
 
-Oh, seores, no hagan
+Oh, seńores, no hagan
 
-nunca sacrificios a su red, ni ofrezcan sahumerios a sus mallas diciendo: Nosotros
+nunca sacrificios a su red, ni ofrezcan sahumerios a sus mallas diciendo: “Nosotros
 
-rescatamos estos tesoros de las profundidades; antes bien, bendigan a Dios porque
+rescatamos estos tesoros de las profundidades”; antes bien, bendigan a Dios porque
 
-les ha dado todas las cosas terrenales que poseen, pues qu tienen que no
+les ha dado todas las cosas terrenales que poseen, pues żqué tienen que no
 
-hayan recibido? Yo quisiera que ustedes sintieran con mayor intensidad que slo
+hayan recibido? Yo quisiera que ustedes sintieran con mayor intensidad que sólo
 
 son mayordomos, que sus posesiones les han sido prestadas para ser usadas para
 
 la gloria de Dios y para el bien de otros, y no para ser despilfarradas ni acaparadas
 
-egostamente.
+egoístamente.
 
 Pero ahora, hermanos y
 
-hermanas, esto es muy enfticamente cierto respecto a
+hermanas, esto es muy enfáticamente cierto respecto a
 
 nuestros dones espirituales,
 
 y yo los invito a considerar esta
 
-verdad: Qu tienes que no hayas recibido? Durante mucho tiempo ha habido una
+verdad: “żQué tienes que no hayas recibido?” Durante mucho tiempo ha habido una
 
-gran discusin doctrinal entre los calvinistas y los arminianos sobre muchos
+gran discusión doctrinal entre los calvinistas y los arminianos sobre muchos
 
-puntos importantes. Yo estoy personalmente persuadido de que nicamente el
+puntos importantes. Yo estoy personalmente persuadido de que únicamente el
 
-calvinista est en lo correcto en algunos puntos, y que nicamente el arminiano
+calvinista está en lo correcto en algunos puntos, y que únicamente el arminiano
 
-est en lo correcto en otros puntos. Hay mucho de verdad en el lado positivo de
+está en lo correcto en otros puntos. Hay mucho de verdad en el lado positivo de
 
 ambos sistemas, y mucho de error en el lado negativo de ambos. Si se me
 
-preguntara: por qu es condenado un hombre?, yo respondera como respondera
+preguntara: “żpor qué es condenado un hombre?”, yo respondería como respondería
 
-un arminiano: l se destruye a s mismo. Yo no me atrevera a colocar la
+un arminiano: “él se destruye a sí mismo”. Yo no me atrevería a colocar la
 
-ruina del hombre a la puerta de la soberana divina. Por otro lado, si se me
+ruina del hombre a la puerta de la soberanía divina. Por otro lado, si se me
 
-preguntara: por qu es salvado un hombre?, slo podra dar la respuesta calvinista:
+preguntara: “żpor qué es salvado un hombre?”, sólo podría dar la respuesta calvinista:
 
-l es salvado por medio de la gracia soberana de Dios, y no por s mismo en lo
+“él es salvado por medio de la gracia soberana de Dios, y no por sí mismo en lo
 
-absoluto. Yo no soara en atribuir la salvacin al hombre mismo en ninguna
+absoluto”. Yo no sońaría en atribuir la salvación al hombre mismo en ninguna
 
-medida. De hecho no he encontrado que a ningn cristiano le interese contender
+medida. De hecho no he encontrado que a ningún cristiano le interese contender
 
 con un ministerio que contenga estas dos verdades en proporciones justas. Los
 
@@ -594,195 +594,195 @@ encuentro dando coces contra las inferencias que se supone que se derivan de
 
 uno o de otro de esos sistemas, y algunas veces los veo dando voces
 
-innecesariamente para reconciliarlos; pero las dos verdades juntas, como
+innecesariamente para “reconciliarlos”; pero las dos verdades juntas, como
 
 regla, se recomiendan a la conciencia y me siento seguro de que si pudiera
 
-presentarlas a ambas esta maana con igual claridad me ganara el asentimiento
+presentarlas a ambas esta mańana con igual claridad me ganaría el asentimiento
 
-de la mayora de los cristianos. En este momento, sin embargo, tengo que
+de la mayoría de los cristianos. En este momento, sin embargo, tengo que
 
-limitarme a la declaracin de que toda la que gracia que tenemos es un don de
+limitarme a la declaración de que toda la que gracia que tenemos es un don de
 
-Dios para nosotros, y confo en que nadie suponga, por tanto, que niego el otro
+Dios para nosotros, y confío en que nadie suponga, por tanto, que niego el otro
 
 lado de la pregunta. Yo creo con toda certeza que no hay nada bueno en
 
-nosotros, excepto lo que hemos recibido. Por ejemplo, nosotros estbamos
+nosotros, excepto lo que hemos recibido. Por ejemplo, nosotros estábamos
 
 muertos en delitos y pecados, y fuimos revividos a la vida espiritual: hermanos
 
-mos, brot esa vida de las costillas de la muerte? Engendr el gusano de
+míos, żbrotó esa vida de las costillas de la muerte? żEngendró el gusano de
 
-nuestra corrupcin la simiente viva de la regeneracin? Sera absurdo pensarlo.
+nuestra corrupción la simiente viva de la regeneración? Sería absurdo pensarlo.
 
-Alabado sea Dios por Su gran amor con que nos am -aun cuando estbamos muertos
+Alabado sea Dios por Su gran amor con que nos amó -aun cuando estábamos muertos
 
-en el pecado- que lo condujo a vivificarnos por Su gracia. Nuestros mltiples
+en el pecado- que lo condujo a vivificarnos por Su gracia. Nuestros múltiples
 
 pecados han sido perdonados; totalmente perdonados; hemos sido limpiados por
 
-medio de la sangre preciosa de Cristo. Lo merecamos? Dice alguien que
+medio de la sangre preciosa de Cristo. żLo merecíamos? żDice alguien que
 
-profese ser cristiano, por un solo instante, que mereca el rescate pagado por
+profese ser cristiano, por un solo instante, que merecía el rescate pagado por
 
-Cristo y que mereca el perdn de su pecado? Siquiera imaginar eso sera una
+Cristo y que merecía el perdón de su pecado? Siquiera imaginar eso sería una
 
-blasfemia monstruosa. Oh, no; Por gracias sois salvos por medio de la fe; y
+blasfemia monstruosa. Oh, no; “Por gracias sois salvos por medio de la fe; y
 
 esto no de vosotros, pues es don de Dios; no por obras, para que nadie se
 
-glore. Dios nos perdon gratuitamente; no podra haber existido ninguna
+gloríe”. Dios nos perdonó gratuitamente; no podría haber existido ninguna
 
 cualidad en el pecado que hubiera podido originar el amor perdonador. Tuvo
 
 misericordia de nosotros porque quiso tener misericordia de nosotros, no porque
 
-pudiramos exigir nada de Su mano.
+pudiéramos exigir nada de Su mano.
 
 Querido amigo, todo lo que
 
 te
 
-distinga del pecador comn
+distinga del pecador común
 
 es un
 
-don de la gracia de Dios para ti. T sabes que lo es. Tienes fe en Cristo, s,
+don de la gracia de Dios para ti. Tú sabes que lo es. Tienes fe en Cristo, sí,
 
-pero, no obr el Espritu Santo esa fe en ti? No suscribes gozosamente la
+pero, żno obró el Espíritu Santo esa fe en ti? żNo suscribes gozosamente la
 
-doctrina de que la fe es producto de la operacin de Dios? T tienes
+doctrina de que la fe es producto de la operación de Dios? Tú tienes
 
-arrepentimiento del pecado, pero, fue el arrepentimiento algo natural en ti? No
+arrepentimiento del pecado, pero, żfue el arrepentimiento algo natural en ti? żNo
 
 lo recibiste de Aquel que es exaltado en lo alto para dar arrepentimiento?
 
-Acaso no es tu arrepentimiento un don Suyo? Ciertamente dir alguien- pero
+żAcaso no es tu arrepentimiento un don Suyo? “Ciertamente” –dirá alguien- “pero
 
-el mismo Evangelio fue predicado a otros as como a nosotros. Precisamente as
+el mismo Evangelio fue predicado a otros así como a nosotros”. Precisamente así
 
-es. Tal vez el mismsimo sermn que fue el instrumento de tu conversin dej
+es. Tal vez el mismísimo sermón que fue el instrumento de tu conversión dejó
 
-impasibles a otros. Entonces, en qu consisti la diferencia? Acaso
+impasibles a otros. Entonces, żen qué consistió la diferencia? żAcaso
 
-respondes: Nosotros quisimos creer en Jess? Eso es verdad; una fe renuente
+respondes: “Nosotros quisimos creer en Jesús”? Eso es verdad; una fe renuente
 
-no sera ninguna fe; pero quin influenci tu voluntad? Fue influenciada tu
+no sería ninguna fe; pero żquién influenció tu voluntad? żFue influenciada tu
 
-fe por una mejor condicin de tu naturaleza por la que pudieras reclamar algn
+fe por una mejor condición de tu naturaleza por la que pudieras reclamar algún
 
-crdito? Por mi parte rechazo con aborrecimiento una idea de esa naturaleza.
+crédito? Por mi parte rechazo con aborrecimiento una idea de esa naturaleza.
 
-Acaso replicas: Nuestra voluntad fue influenciada por nuestro entendimiento,
+żAcaso replicas: “Nuestra voluntad fue influenciada por nuestro entendimiento,
 
-y nosotros elegimos lo que reconocimos como lo mejor? S, pero, quin ilumin
+y nosotros elegimos lo que reconocimos como lo mejor”? Sí, pero, żquién iluminó
 
-tu entendimiento? Quin te dio la luz que ilumin tu mente para que eligieras
+tu entendimiento? żQuién te dio la luz que iluminó tu mente para que eligieras
 
-el camino de la vida? Oh dices t- pero nuestros corazones estaban
+el camino de la vida? “Oh” –dices tú- “pero nuestros corazones estaban
 
-enfocados a la salvacin, y los corazones de los dems no lo estaban. Eso
+enfocados a la salvación, y los corazones de los demás no lo estaban”. Eso
 
-tambin es cierto, pero entonces, quin hizo que tu corazn se enfocara en esa
+también es cierto, pero entonces, żquién hizo que tu corazón se enfocara en esa
 
-direccin? Quin fue el que tom la iniciativa? Fuiste t o fue Dios? All
+dirección? żQuién fue el que tomó la iniciativa? żFuiste tú o fue Dios? Allí
 
-est la pregunta, querido hermano mo, y si te atreves a afirmar que en el
+está la pregunta, querido hermano mío, y si te atreves a afirmar que en el
 
-asunto de tu salvacin t fuiste el que tom la iniciativa, me veo
+asunto de tu salvación tú fuiste el que tomó la iniciativa, me veo
 
 imposibilitado de entenderte, y yo espero que haya pocas personas que compartan
 
-tu creencia. Jess no es el Alfa para ti. T no lo amas debido a que l te am
+tu creencia. Jesús no es el Alfa para ti. Tú no lo amas debido a que Él te amó
 
-primero. Evidentemente t no has sido convertido, ni has sido cambiado en
+primero. Evidentemente tú no has sido convertido, ni has sido cambiado en
 
-absoluto, sino que t mismo te cambiaste. T no eres una nueva criatura sino
+absoluto, sino que tú mismo te cambiaste. Tú no eres una nueva criatura sino
 
-que t eres tu propio nuevo creador. Quieres ver eso mismo realizado en los
+que tú eres tu propio nuevo creador. żQuieres ver eso mismo realizado en los
 
-dems? Por qu, entonces, actas como lo haces? Por qu le pides al Seor que
+demás? żPor qué, entonces, actúas como lo haces? żPor qué le pides al Seńor que
 
-cambie a otros si crees que l no te cambi a ti? Oras al Seor pidindole que
+cambie a otros si crees que Él no te cambió a ti? żOras al Seńor pidiéndole que
 
-convierta a tus hijos? Por qu lo haces? Si a ellos les corresponde tomar la
+convierta a tus hijos? żPor qué lo haces? Si a ellos les corresponde tomar la
 
-iniciativa para dar el primer paso, por qu oras a Dios pidindole por ellos?
+iniciativa para dar el primer paso, żpor qué oras a Dios pidiéndole por ellos?
 
-Ah dice alguien- Dios no debe hacer acepcin de personas. Yo te pregunto
+“Ah” –dice alguien- “Dios no debe hacer acepción de personas”. Yo te pregunto
 
-de nuevo: por qu oras por tus hijos? T le pides a Dios que haga algo
+de nuevo: “żpor qué oras por tus hijos? Tú le pides a Dios que haga algo
 
-indebido al pedirle que bendiga a tus hijos dndoles preferencia sobre otras
+indebido al pedirle que bendiga a tus hijos dándoles preferencia sobre otras
 
-personas, si fuera cierto que l est obligado a no hacer acepcin de personas.
+personas, si fuera cierto que Él está obligado a no hacer acepción de personas.
 
-En la prctica estos sentimientos no se sostienen. El hombre que sabe que el
+En la práctica estos sentimientos no se sostienen. El hombre que sabe que el
 
-Espritu Santo fue primero en Sus operaciones sobre la mente, y que reconoce a
+Espíritu Santo fue primero en Sus operaciones sobre la mente, y que reconoce a
 
-Cristo Jess como el Alfa y
+Cristo Jesús como el Alfa y
 
 la
 
 Omega
 
-de su salvacin, es el hombre que puede ir al Seor
+de su salvación, es el hombre que puede ir al Seńor
 
-vlidamente y orar por la conversin de este individuo o de aquel otro; y con
+válidamente y orar por la conversión de este individuo o de aquel otro; y con
 
-seguridad tambin dar toda la gloria a Dios por su salvacin, y engrandecer y
+seguridad también dará toda la gloria a Dios por su salvación, y engrandecerá y
 
-bendecir la gracia del Altsimo.
+bendecirá la gracia del Altísimo.
 
 Tal vez, querido hermano
 
-mo, haya una diferencia
+mío, haya una diferencia
 
-entre t y otros
+entre tú y otros
 
 santos.
 
-Yo estoy seguro de que hay una razn de que algunos santos eclipsen
+Yo estoy seguro de que hay una razón de que algunos santos eclipsen
 
-a otros, pues algunos profesantes son seres dignos de lstima en verdad. Bien,
+a otros, pues algunos profesantes son seres dignos de lástima en verdad. Bien,
 
-hermano, t tiene muchsima ms fe que otros; dnde la obtuviste? Si la
+hermano, tú tiene muchísima más fe que otros; żdónde la obtuviste? Si la
 
-recibiste de cualquier otra fuente que no sea Dios, ser mejor que te deshagas
+recibiste de cualquier otra fuente que no sea Dios, será mejor que te deshagas
 
-de ella. Amado hermano, t tienes ms gozo que otros, y posiblemente te sientas
+de ella. Amado hermano, tú tienes más gozo que otros, y posiblemente te sientas
 
-avergonzado de tus prjimos cristianos que dudan tanto y que estn tristes; ten
+avergonzado de tus prójimos cristianos que dudan tanto y que están tristes; ten
 
 cuidado de no volverte vano por tu gozo y recuerda que si tu gozo es verdadero
 
-lo recibiste del Seor. Eres ms til que otros? No puedes evitar mirar a
+lo recibiste del Seńor. żEres más útil que otros? No puedes evitar mirar a
 
-ciertos profesantes que estn ociosos y desear poder ponerlos a trabajar. Eso
+ciertos profesantes que están ociosos y desear poder ponerlos a trabajar. Eso
 
-me pasa a m. Me gustara poder poner un agudo alfiler en sus muelles cojines;
+me pasa a mí. Me gustaría poder poner un agudo alfiler en sus muelles cojines;
 
-pero a pesar de eso, quin nos da actividad, quin nos da utilidad, quin nos
+pero a pesar de eso, żquién nos da actividad, quién nos da utilidad, quién nos
 
-da celo, quin nos da valor, quin nos da todo? Si t, querido amigo,
+da celo, quién nos da valor, quién nos da todo? Si tú, querido amigo,
 
-experimentas tal condicin que comienzas a susurrarte: he aumentado mis dones
+experimentas tal condición que comienzas a susurrarte: “he aumentado mis dones
 
 y mis gracias muy notablemente, y estoy prosperando sumamente bien en las cosas
 
-espirituales, pronto tendrs que descender de esos lugares altos. Aunque t me
+espirituales”, pronto tendrás que descender de esos lugares altos. Aunque tú me
 
-demostraras que tu buque est registrado en la categora de ms alta calidad yo
+demostraras que tu buque está registrado en la categoría de más alta calidad yo
 
-no navegara contigo, hermano, pues me temo que tu altivo buque tentar a la
+no navegaría contigo, hermano, pues me temo que tu altivo buque tentará a la
 
-tempestad; yo preferira navegar con algn pobre cristiano cuyo deteriorado barco
+tempestad; yo preferiría navegar con algún pobre cristiano cuyo deteriorado barco
 
-se ira a pique si Jess no estuviera a bordo, pues estoy persuadido de que es
+se iría a pique si Jesús no estuviera a bordo, pues estoy persuadido de que es
 
-seguro. Bienaventurado el hombre que siempre teme a Dios. Bienaventurado el
+seguro. “Bienaventurado el hombre que siempre teme a Dios”. Bienaventurado el
 
 hombre que yace postrado al pie de la cruz, y que, respecto a todo lo que
 
@@ -796,91 +796,91 @@ II.
 
 HE
 
-AQU UNA PREGUNTA QUE HA DE SER RESPONDIDA CON VERGENZA. Y si lo recibiste,
+AQUÍ UNA PREGUNTA QUE HA DE SER RESPONDIDA CON VERGÜENZA. “Y si lo recibiste,
 
-por qu te gloras como si no lo hubieras recibido? Si alguno de nosotros ha
+żpor qué te glorías como si no lo hubieras recibido?” Si alguno de nosotros ha
 
-cado en la vanagloria -y todos nosotros lo hemos hecho de alguna manera- debe
+caído en la vanagloria -y todos nosotros lo hemos hecho de alguna manera- debe
 
-responder esta pregunta con confusin de rostro.
+responder esta pregunta con confusión de rostro.
 
-Hermano, hermana, se
+Hermano, hermana, żse
 
-han gloriado en cualquier cosa que hayan recibido? Entonces consideren cun
+han gloriado en cualquier cosa que hayan recibido? Entonces consideren cuán
 
-errneamente han actuado, pues le han robado a Dios Su honra. Gloriarse en el
+erróneamente han actuado, pues le han robado a Dios Su honra. Gloriarse en el
 
-hombre es completamente inconsistente con gloriarse en Dios. Estn seguros de
+hombre es completamente inconsistente con gloriarse en Dios. Estén seguros de
 
-que cada partcula de alabanza que nos asignamos a nosotros es sustrada
+que cada partícula de alabanza que nos asignamos a nosotros es sustraída
 
-proporcionalmente de los ingresos del Rey de reyes. Robar el hombre a Dios? Robar
+proporcionalmente de los ingresos del Rey de reyes. żRobará el hombre a Dios? żRobará
 
-a Dios un hombre redimido? Robar a Dios un pobre pecador arrebatado de las
+a Dios un hombre redimido? żRobará a Dios un pobre pecador arrebatado de las
 
-fauces de la muerte y del infierno por una misericordia inmerecida? Seor ten
+fauces de la muerte y del infierno por una misericordia inmerecida? Seńor ten
 
 piedad de nosotros.
 
 Cuando nos jactamos
 
-tambin abandonamos nuestra verdadera posicin, y los cristianos deberan avergonzarse
+también abandonamos nuestra verdadera posición, y los cristianos deberían avergonzarse
 
-de estar en cualquier lugar excepto en la verdad. Cuando confieso que soy dbil
+de estar en cualquier lugar excepto en la verdad. Cuando confieso que soy débil
 
 e indefenso y atribuyo todo lo que tengo a la gracia, entonces estoy en la
 
-verdad; pero si recibo aunque sea la ms remota alabanza para m, estoy en la
+verdad; pero si recibo aunque sea la más remota alabanza para mí, estoy en la
 
-mentira. Que el Seor tenga misericordia de nosotros si nos hemos atrevido a
+mentira. Que el Seńor tenga misericordia de nosotros si nos hemos atrevido a
 
 ser falsos en Su presencia.
 
-Recordemos tambin que
+Recordemos también que
 
 siempre que nos valoramos altamente infaliblemente estimamos menos a nuestro
 
-Seor. Ves alguna belleza espiritual en ti mismo? Eso es porque no conoces la
+Seńor. żVes alguna belleza espiritual en ti mismo? Eso es porque no conoces la
 
-verdadera belleza. Dices: Yo soy rico, y me he enriquecido? Entonces no
+verdadera belleza. żDices: “Yo soy rico, y me he enriquecido”? Entonces no
 
 sabes nada, o sabes muy poco acerca de lo que es la verdadera riqueza. Has confundido
 
 el oropel con el oro y los andrajos con las vestiduras. Te aconsejo que le compres
 
-a Jess oro refinado en fuego y lino fino con el que puedas ser vestido. Puedes
+a Jesús oro refinado en fuego y lino fino con el que puedas ser vestido. Puedes
 
 estar seguro de que nuestro juicio es muy parecido a una balanza: si Cristo
 
-sube, el ego baja; y si el ego sube, Jess decae en nuestra estimacin. Nadie
+sube, el ego baja; y si el ego sube, Jesús decae en nuestra estimación. Nadie
 
 pone un alto precio al ego y a Cristo a la vez.
 
-Entre ms asombren Tus glorias mis ojos
+“Entre más asombren Tus glorias mis ojos
 
-Ms humilde ser,
+Más humilde seré”,
 
 es
 
-una regla que no tiene excepcin.
+una regla que no tiene excepción.
 
-Adems, si ustedes y yo
+Además, si ustedes y yo
 
 nos hemos gloriado en lo que poseemos hemos subestimado a nuestros hermanos
 
-cristianos, y ese es un gran pecado. Ellos son muy amados por Jess, y l
+cristianos, y ese es un gran pecado. Ellos son muy amados por Jesús, y Él
 
-considera preciosa inclusive su muerte. Mirad que no menospreciis a uno de
+considera preciosa inclusive su muerte. “Mirad que no menospreciéis a uno de
 
-estos pequeitos que creen en m. Pero si nos sobreestimamos, la consecuencia
+estos pequeńitos que creen en mí”. Pero si nos sobreestimamos, la consecuencia
 
-natural es que subestimamos a los dems. He pensado alguna vez: soy un hombre
+natural es que subestimamos a los demás. żHe pensado alguna vez: “soy un hombre
 
-rico y estos pobres seres, aunque sean buenos cristianos, son unos nadies
+rico y estos pobres seres, aunque sean buenos cristianos, son unos ‘nadies’
 
-comparados conmigo; yo tengo una mayor relevancia en la iglesia? Ya que tengo
+comparados conmigo; yo tengo una mayor relevancia en la iglesia”? Ya que tengo
 
-una medida de talento, he concebido que esos santos y esas santas que no
+una medida de talento, żhe concebido que esos santos y esas santas que no
 
 pueden hablar a favor de Cristo no
 
@@ -888,149 +888,149 @@ tienen
 
 gran
 
-relevancia? O he opacado a los jvenes, debido a mi mayor edad y debido a que
+relevancia? żO he opacado a los jóvenes, debido a mi mayor edad y debido a que
 
-soy un cristiano experimentado, y he dicho: slo son un grupo de muchachos y
+soy un cristiano experimentado, y he dicho: “sólo son un grupo de muchachos y
 
-muchachas? Es esa la forma de hablar acerca de quienes fueron comprados con
+muchachas”? żEs esa la forma de hablar acerca de quienes fueron comprados con
 
-la sangre de Cristo y son miembros del cuerpo de Cristo? No nos servir de nada
+la sangre de Cristo y son miembros del cuerpo de Cristo? No nos servirá de nada
 
-despreciar al santo ms humilde. Yo pienso que Cristo mira con especial deleite
+despreciar al santo más humilde. Yo pienso que Cristo mira con especial deleite
 
-a muchos que estn ahora en un segundo plano y que son metidos con una pala en
+a muchos que están ahora en un segundo plano y que son metidos con una pala en
 
-cualquier hoyo o rincn, y los pondr de primeros cuando l venga. En verdad os
+cualquier hoyo o rincón, y los pondrá de primeros cuando Él venga. En verdad os
 
-digo que: hay postreros que sern primeros, y primeros que sern postreros.
+digo que: “hay postreros que serán primeros, y primeros que serán postreros”.
 
-Adems, el honrarnos a
+Además, el honrarnos a
 
 nosotros mismos nos saca del rumbo correcto en cuanto a nuestros dones, y nos
 
-hace olvidar que estas cosas las recibimos solamente como un prstamo para ser
+hace olvidar que estas cosas las recibimos solamente como un préstamo para ser
 
-usadas en el servicio a nuestro Seor. Se requiere de los mayordomos que sean
+usadas en el servicio a nuestro Seńor. Se requiere de los mayordomos que sean
 
 encontrados fieles, no que se jacten y que se vistan elegantemente con los
 
-bienes de su Seor. Tenemos demasiado por hacer para permitirnos la jactancia.
+bienes de su Seńor. Tenemos demasiado por hacer para permitirnos la jactancia.
 
 Vean a aquel soldado que acaba de recibir su armadura y su casco. Acaba de
 
-iniciar su servicio. Miren con qu placer contempla su atractivo rostro
+iniciar su servicio. Miren con qué placer contempla su atractivo rostro
 
-reflejado en su coraza; cunto admira su penacho de plumas; piensa cun
+reflejado en su coraza; cuánto admira su penacho de plumas; piensa cuán
 
-grandioso se ver en ese atuendo. Mi querido amigo, todo este tiempo se te ha
+grandioso se verá en ese atuendo. Mi querido amigo, todo este tiempo se te ha
 
 olvidado que lo que te espera es usar esas cosas en lo recio del combate donde
 
-estarn expuestas al golpe de la espada, y t no consideras eso. No queremos
+estarán expuestas al golpe de la espada, y tú no consideras eso. No queremos
 
-ver tu galante apariencia, sino tu valor. Cuando un hombre se exalta a s mismo
+ver tu galante apariencia, sino tu valor. Cuando un hombre se exalta a sí mismo
 
-por lo que posee, no acta como debera hacerlo un soldado de la cruz.
+por lo que posee, no actúa como debería hacerlo un soldado de la cruz.
 
-Aqu vamos a intercalar
+Aquí vamos a intercalar
 
-una o dos ilustraciones. Hay una tendencia en algunos a exaltarse a s mismos
+una o dos ilustraciones. Hay una tendencia en algunos a exaltarse a sí mismos
 
-porque Dios les ha asignado algn
+porque Dios les ha asignado algún
 
 oficio.
 
-Son ministros, diconos, ancianos, superintendentes o cualquier otra cosa.
+Son ministros, diáconos, ancianos, superintendentes o cualquier otra cosa.
 
-Qu aires de poder se dan! Parecieran haber aprendido de memoria este texto:
+ˇQué aires de poder se dan! Parecieran haber aprendido de memoria este texto:
 
-Honor a quien honor merece, y parecieran haber visto una referencia personal
+“Honor a quien honor merece”, y parecieran haber visto una referencia personal
 
-en l. No han visto nunca a los lacayos de los prncipes cuando representan el
+en él. żNo han visto nunca a los lacayos de los príncipes cuando representan el
 
 papel de un gran hombre? Son a menudo unas maravillas de la naturaleza y del
 
 arte. Yo estaba admirando, con toda la debida reverencia, a uno de ellos el
 
-otro da. La contemplacin de su pompa me dej bastante pasmado, pues era muy
+otro día. La contemplación de su pompa me dejó bastante pasmado, pues era muy
 
-primoroso de ser contemplado. Yo estoy seguro de que su regio seor no era para
+primoroso de ser contemplado. Yo estoy seguro de que su regio seńor no era para
 
-nada tan impresionante, y ciertamente no habra podido ser tan pomposo ni tan
+nada tan impresionante, y ciertamente no habría podido ser tan pomposo ni tan
 
-aristocrtico. Mientras yo lo contemplaba con la debida reverencia y asombro,
+aristocrático. Mientras yo lo contemplaba con la debida reverencia y asombro,
 
-alguien coment cruelmente: qu lacayo!, una observacin sumamente
+alguien comentó cruelmente: “ˇqué lacayo!”, una observación sumamente
 
 irreverente y, sin embargo, muy natural.
 
-Hermanos mos, siempre
+Hermanos míos, siempre
 
-que actuemos como si furamos muy importantes slo porque tenemos puestos
+que actuemos como si fuéramos muy importantes sólo porque tenemos puestos
 
-nuestros mejores vestidos, y seamos ministros, o diconos, o ancianos, no
+nuestros mejores vestidos, y seamos ministros, o diáconos, o ancianos, no
 
-faltar quien nos llame tambin: lacayos. Tal vez no lo hagan exactamente con
+faltará quien nos llame también: “lacayos”. Tal vez no lo hagan exactamente con
 
-las mismas palabras, pero s con un lenguaje por el estilo. No nos expongamos a
+las mismas palabras, pero sí con un lenguaje por el estilo. No nos expongamos a
 
-un desprecio as, y si lo hiciramos alguna vez, debemos ser censurados de
+un desprecio así, y si lo hiciéramos alguna vez, debemos ser censurados de
 
 inmediato por el recuerdo de lo que hemos visto en otros.
 
 Algunos persisten en
 
-jactarse por su experiencia. Eso tambin es vanidad. Supongan que alguien aqu
+jactarse por su experiencia. Eso también es vanidad. Supongan que alguien aquí
 
 presente, que fuera un gran caminante, hubiera atravesado los Alpes, y hubiera
 
-recorrido Europa; y aqu tenemos su bastn que se jacta de la siguiente manera:
+recorrido Europa; y aquí tenemos su bastón que se jacta de la siguiente manera:
 
-yo soy el bastn que ms ha viajado en toda la creacin; he golpeado la
+“yo soy el bastón que más ha viajado en toda la creación; he golpeado la
 
-escarpada frente de los Alpes y me he baado en el Nilo. Bien le dir
+escarpada frente de los Alpes y me he bańado en el Nilo”. “Bien” –le dirá
 
-alguien- pero dondequiera que has ido has sido llevado por un poder que no
+alguien- “pero dondequiera que has ido has sido llevado por un poder que no
 
-est en ti. Entonces el hombre que se jacte de su experiencia debe recordar
+está en ti”. Entonces el hombre que se jacte de su experiencia debe recordar
 
-que en los senderos de la paz l no ha ido a ninguna parte excepto adonde la
+que en los senderos de la paz él no ha ido a ninguna parte excepto adonde la
 
-mano del Seor lo ha conducido; l no ha sido sino un bastn en las manos de
+mano del Seńor lo ha conducido; él no ha sido sino un bastón en las manos de
 
-Dios, y debera ser agradecido y nunca ser orgulloso.
+Dios, y debería ser agradecido y nunca ser orgulloso.
 
-El otro da me
+El otro día me
 
-encontraba en un hermoso jardn, sobre unas rocas donde crecen las ms escogidas
+encontraba en un hermoso jardín, sobre unas rocas donde crecen las más escogidas
 
 flores y plantas tropicales; en contraste, a su alrededor las otras rocas
 
-estaban desnudas y haba escasos rastros vida vegetal. Ahora, supongan que ese
+estaban desnudas y había escasos rastros vida vegetal. Ahora, supongan que ese
 
-jardn fuera orgulloso, y se jactara de su fertilidad. La respuesta sera:
+jardín fuera orgulloso, y se jactara de su fertilidad. La respuesta sería:
 
-Cada canastada de tierra tuvo que ser transportada hasta ti, y t no
+“Cada canastada de tierra tuvo que ser transportada hasta ti, y tú no
 
-produciras ahora ningn fruto si no fuera por la corriente de agua que est
+producirías ahora ningún fruto si no fuera por la corriente de agua que está
 
-conectada y que circula a travs de tantos pequeos laberintos y que riega a la
+conectada y que circula a través de tantos pequeńos laberintos y que riega a la
 
-raz de cada planta que t produces; si te dejaran solo seras otra vez una
+raíz de cada planta que tú produces; si te dejaran solo serías otra vez una
 
 roca en unos cuantos meses.
 
-Que el diseador
+Que el diseńador
 
-del jardn se regocije entonces de su trabajo, pero el propio jardn no puede
+del jardín se regocije entonces de su trabajo, pero el propio jardín no puede
 
-gloriarse. Esto es lo que sera el ms fructfero creyente si Dios lo dejara
+gloriarse”. Esto es lo que sería el más fructífero creyente si Dios lo dejara
 
-solo: una roca estril, un yermo.
+solo: una roca estéril, un yermo.
 
 Supongan que yo me
 
-dirigiera a algn cristiano que es feliz y dichoso y alegre, y que recibe unos
+dirigiera a algún cristiano que es feliz y dichoso y alegre, y que recibe unos
 
 exquisitos bocadillos que le son enviados a su casa por las promesas, unas
 
@@ -1040,261 +1040,261 @@ la
 
 Escritura
 
-aplicadas a su corazn. Querido amigo, tiendes a
+aplicadas a su corazón. Querido amigo, żtiendes a
 
 pensar que hay algo especialmente bueno en ti porque obtienes todas estas
 
-notables deleitaciones? Entonces permteme que desengae a tu mente. Es tu
+notables deleitaciones? Entonces permíteme que desengańe a tu mente. Es tu
 
-debilidad la que te consigue esos favores. Cuando ests hospedado en un hotel
+debilidad la que te consigue esos favores. Cuando estás hospedado en un hotel
 
-observas que a ciertas personas les envan los alimentos a su habitacin. Por
+observas que a ciertas personas les envían los alimentos a su habitación. żPor
 
-qu? Oh, eso se debe a que estn enfermas. Si ests sano vas al comedor del
+qué? Oh, eso se debe a que están enfermas. Si estás sano vas al comedor del
 
 hotel
 
-(table dhotel)
+(table d’hotel)
 
 con el resto de
 
-los huspedes; pero si ests enfermo, te envan tus alimentos a la habitacin y
+los huéspedes; pero si estás enfermo, te envían tus alimentos a la habitación y
 
-t pagas por esa atencin extra. Esos mismos consuelos que Dios te da deberan
+tú pagas por esa atención extra. Esos mismos consuelos que Dios te da deberían
 
 hacerte inquirir si no hay algo fuera de lugar contigo, y en vez de pensar que
 
-eres fuerte y sano, deberas analizar para ver si no hay alguna debilidad que
+eres fuerte y sano, deberías analizar para ver si no hay alguna debilidad que
 
-el Seor en Su misericordia quiere suprimir por medio de los redoblados
+el Seńor en Su misericordia quiere suprimir por medio de los redoblados
 
-consuelos que te da. Nada en el mundo debera ser motivo de autoexaltacin;
+consuelos que te da. Nada en el mundo debería ser motivo de autoexaltación;
 
-nada de lo que nuestro Dios nos da debera inducirnos a tener un alto concepto
+nada de lo que nuestro Dios nos da debería inducirnos a tener un alto concepto
 
-de nosotros mismos. Desciende, hermano, desciende, y entonces subirs. El
+de nosotros mismos. Desciende, hermano, desciende, y entonces subirás. El
 
-camino al cielo es cuesta abajo, no es cuesta arriba. As como Cristo baj a la
+camino al cielo es cuesta abajo, no es cuesta arriba. Así como Cristo bajó a la
 
-tumba para resucitar y llenar todas las cosas, as debes ir t a la cruz, bajar
+tumba para resucitar y llenar todas las cosas, así debes ir tú a la cruz, bajar
 
 a la tumba del yo, ser enterrado con Cristo, aprender el significado de tu
 
-bautismo y hacer realidad el hecho de que ests enterrado con l para todo el
+bautismo y hacer realidad el hecho de que estás enterrado con Él para todo el
 
-mundo, y para ti mismo tambin, pues slo as puedes subir a la plenitud de una
+mundo, y para ti mismo también, pues sólo así puedes subir a la plenitud de una
 
 vida nueva.
 
 III.
 
-Ocuparn
+Ocuparán
 
-nuestra atencin ahora, en tercer lugar, OTRAS PREGUNTAS QUE SON SUGERIDAS POR
+nuestra atención ahora, en tercer lugar, OTRAS PREGUNTAS QUE SON SUGERIDAS POR
 
-ESTAS PREGUNTAS. Cules son?
+ESTAS PREGUNTAS. żCuáles son?
 
 La primera es:
 
-Le he dado a Dios alguna vez el lugar que
+żLe he dado a Dios alguna vez el lugar que
 
-le corresponde en el tema de mi salvacin?
+le corresponde en el tema de mi salvación?
 
-Es vlido hacer esta pregunta
+Es válido hacer esta pregunta
 
 pues yo me acuerdo que cuando fui convertido a Dios -y convertido verdaderamente
 
-por cierto- yo no saba que era una obra del Espritu en mi corazn. No
+por cierto- yo no sabía que era una obra del Espíritu en mi corazón. No
 
-entenda que era el resultado de una gracia especial. Haba odo la predicacin
+entendía que era el resultado de una gracia especial. Había oído la predicación
 
-general del Evangelio, pero no haba aprendido an las peculiares doctrinas de
+general del Evangelio, pero no había aprendido aún las peculiares doctrinas de
 
 la gracia, y me acuerdo muy bien que estaba sentado pensando en mi interior:
 
-he sido renovado en mi mente, he sido perdonado, he sido salvado; cmo sucedi
+“he sido renovado en mi mente, he sido perdonado, he sido salvado; żcómo sucedió
 
-eso?, y lo atribu a lo siguiente: que yo haba odo el Evangelio; pero como saba
+eso?”, y lo atribuí a lo siguiente: que yo había oído el Evangelio; pero como sabía
 
-que muchos no haban tenido nunca una oportunidad de orlo, vi una gracia
+que muchos no habían tenido nunca una oportunidad de oírlo, vi una gracia
 
-especial en el hecho de que tuve la oportunidad de orlo. Pero luego me dije:
+especial en el hecho de que tuve la oportunidad de oírlo. Pero luego me dije:
 
-Hay otros que lo han odo, pero no fue bendecido para ellos: cmo lleg a ser
+“Hay otros que lo han oído, pero no fue bendecido para ellos: żcómo llegó a ser
 
-bendecido para m?, y reflexion por unos instantes que pudiera haber sido
+bendecido para mí?”, y reflexioné por unos instantes que pudiera haber sido
 
-algo bueno en m lo que hizo que el Evangelio me fuera benfico, y si as era,
+algo bueno en mí lo que hizo que el Evangelio me fuera benéfico, y si así era,
 
-yo mereca recibir el crdito por ello. De alguna manera la gracia que Dios me
+yo merecía recibir el crédito por ello. De alguna manera la gracia que Dios me
 
-dio hizo que lanzara esa teora a los vientos y llegu a la siguiente
+dio hizo que lanzara esa teoría a los vientos y llegué a la siguiente
 
-conclusin: tiene que ser Dios quien hizo la distincin, y habiendo albergado
+conclusión: “tiene que ser Dios quien hizo la distinción”, y habiendo albergado
 
 ese pensamiento en mi mente, las doctrinas de la gracia siguieron como algo
 
-natural. Basta saber en la prctica que ha habido una obra especial de la
+natural. Basta saber en la práctica que ha habido una obra especial de la
 
-gracia en tu propia alma, para colocar al Seor donde debe estar en tu credo, pues
+gracia en tu propia alma, para colocar al Seńor donde debe estar en tu credo, pues
 
-algunos asignan un lugar muy secundario al Seor en el asunto de su salvacin.
+algunos asignan un lugar muy secundario al Seńor en el asunto de su salvación.
 
-El hombre es muy grande para ellos y a Dios lo consideran pequeo, pero la
+El hombre es muy grande para ellos y a Dios lo consideran pequeńo, pero la
 
-verdadera teologa reconoce que Dios es el propio sol del sistema, el centro,
+verdadera teología reconoce que Dios es el propio sol del sistema, el centro,
 
-la cabeza, lo primero y lo ms importante. Has hecho
+la cabeza, lo primero y lo más importante. żHas hecho
 
-t
+tú
 
-eso? Si no fuera as, corrige tu punto de vista y obtn una
+eso? Si no fuera así, corrige tu punto de vista y obtén una
 
-visin ms clara del Evangelio de la gracia. Que el Espritu Santo te ayude en
+visión más clara del Evangelio de la gracia. Que el Espíritu Santo te ayude en
 
-eso. Conocer las doctrinas de la gracia ser valioso para tu consuelo, tender
+eso. Conocer las doctrinas de la gracia será valioso para tu consuelo, tenderá
 
-a tu estabilidad, y tambin te conducir a buscar la gloria de Dios.
+a tu estabilidad, y también te conducirá a buscar la gloria de Dios.
 
 La siguiente pregunta es:
 
-Tengo yo esta maana un espritu de humilde gratitud? Cmo me siento? Tomo
+żTengo yo esta mańana un espíritu de humilde gratitud? żCómo me siento? żTomo
 
 la misericordia de Dios como algo natural, y considero a mis propios dones sin
 
-sentir ninguna gratitud? Entonces acto como las bestias que perecen, pero debo
+sentir ninguna gratitud? Entonces actúo como las bestias que perecen, pero debo
 
-orar esta maana pidiendo que una gratitud humilde y modesta gobierne
+orar esta mańana pidiendo que una gratitud humilde y modesta gobierne
 
-diariamente mi espritu. Tal gratitud te har alegre, te har denodado, ser de
+diariamente mi espíritu. Tal gratitud te hará alegre, te hará denodado, será de
 
-hecho una atmsfera en la que todas las gracias cristianas crecern con la
+hecho una atmósfera en la que todas las gracias cristianas crecerán con la
 
-bendicin del Espritu de Dios.
+bendición del Espíritu de Dios.
 
-A continuacin, en vista
+A continuación, en vista
 
-de que he sido un receptor, qu he hecho yo para dar a mi vez? La intencin no
+de que he sido un receptor, żqué he hecho yo para dar a mi vez? La intención no
 
-habra podido ser que yo recibiera y que nunca diera, pues si ese fuera el caso
+habría podido ser que yo recibiera y que nunca diera, pues si ese fuera el caso
 
-me correspondera una triste porcin. Ustedes saben que en el norte de
+me correspondería una triste porción. Ustedes saben que en el norte de
 
-Inglaterra solan fabricar, y todava fabrican, alcancas de barro para los
+Inglaterra solían fabricar, y todavía fabrican, alcancías de barro para los
 
-nios. Pueden meter lo que quieran all, pero ya no lo pueden sacar sin quebrar
+nińos. Pueden meter lo que quieran allí, pero ya no lo pueden sacar sin quebrar
 
-la alcanca; y hay personas de ese tipo entre nosotros. Algunas han muerto
+la alcancía; y hay personas de ese tipo entre nosotros. Algunas han muerto
 
 recientemente, y sus propiedades han sido reportadas al Tribunal Testamentario.
 
-Se metieron muchas cosas en ellas, pero no se poda sacar nada de ellas, y por
+Se metieron muchas cosas en ellas, pero no se podía sacar nada de ellas, y por
 
-consiguiente tuvieron que ser quebradas. Yo slo espero que cuando fueron quebradas,
+consiguiente tuvieron que ser quebradas. Yo sólo espero que cuando fueron quebradas,
 
-el oro y la plata hayan tenido un fin adecuado. Qu triste es ser como las
+el oro y la plata hayan tenido un fin adecuado. Qué triste es ser como las
 
-alcancas: no ser de ninguna utilidad mientras no te rompan. Debera gustarnos
+alcancías: no ser de ninguna utilidad mientras no te rompan. Debería gustarnos
 
-recibir y dar al mismo tiempo. No deberamos ser como una laguna estancada, como
+recibir y dar al mismo tiempo. No deberíamos ser como una laguna estancada, como
 
-un Mar Muerto que recibe el agua de los ros durante todo el ao, pero no da
+un Mar Muerto que recibe el agua de los ríos durante todo el ańo, pero no da
 
 ninguna corriente en pago, y por eso se vuelve un lago de aguas estancadas y
 
-ptridas. Seamos como los grandes lagos de Amrica, que reciben a los poderosos
+pútridas. Seamos como los grandes lagos de América, que reciben a los poderosos
 
-ros pero los hacen fluir hacia fuera de nuevo, y por consiguiente, se
+ríos pero los hacen fluir hacia fuera de nuevo, y por consiguiente, se
 
 mantienen frescos y claros.
 
 La siguiente pregunta
 
-es: puesto que todo lo que he tenido lo he recibido por la gracia de Dios, no
+es: puesto que todo lo que he tenido lo he recibido por la gracia de Dios, żno
 
-podra recibir ms? Vamos, hermanos y hermanas, yo quiero que sean ambiciosos
+podría recibir más? Vamos, hermanos y hermanas, yo quiero que sean ambiciosos
 
 con respecto a las cosas de la gracia. Codicien con avidez los mejores dones.
 
-Si tienen fe, por qu no habran de tener ms? Si Dios les dio esperanza,
+Si tienen fe, żpor qué no habrían de tener más? Si Dios les dio esperanza,
 
-gozo, experiencia, por qu no habra de darles ms? No estn estrechos en l;
+gozo, experiencia, żpor qué no habría de darles más? No están estrechos en Él;
 
-slo podran estar estrechos en ustedes mismos. Traten de eliminar esos
+sólo podrían estar estrechos en ustedes mismos. Traten de eliminar esos
 
-obstculos, y pdanle al Seor que les d ms gracia.
+obstáculos, y pídanle al Seńor que les dé más gracia.
 
 Otra pregunta: si los
 
-cristianos han recibido todo lo que tienen, pecador, por qu no habras de recibir
+cristianos han recibido todo lo que tienen, pecador, żpor qué no habrías de recibir
 
-t igual que lo hacen ellos? Si fuera verdad que los cristianos obtuvieron esas
+tú igual que lo hacen ellos? Si fuera verdad que los cristianos obtuvieron esas
 
-cosas buenas de ellos mismos, entonces t, pobre pecador, podras desesperar,
+cosas buenas de ellos mismos, entonces tú, pobre pecador, podrías desesperar,
 
-pues t sabes que no hay nada bueno en ti; pero si el mejor de los santos, si
+pues tú sabes que no hay nada bueno en ti; pero si el mejor de los santos, si
 
 el mejor cristiano
 
 en el cielo no tiene
 
-nada que no haya recibido, por qu no habras de recibir t? Recibir, t lo
+nada que no haya recibido, żpor qué no habrías de recibir tú? Recibir, tú lo
 
-sabes, no es nunca algo difcil. Yo les garantizo que de todas las personas que
+sabes, no es nunca algo difícil. Yo les garantizo que de todas las personas que
 
 viven en Londres no hay nadie que no pudiera recibir. Hagan el experimento
 
-ahora. Tomen mil libras, y vean cuntos entre nosotros seramos incapaces de
+ahora. Tomen mil libras, y vean cuántos entre nosotros seríamos incapaces de
 
-recibirlas. Si hubiera una persona en las cercanas que no quisiera recibirlas,
+recibirlas. Si hubiera una persona en las cercanías que no quisiera recibirlas,
 
-le digo quin sera: es el hombre que se considera tan rico que ya no le
+le digo quién sería: es el hombre que se considera tan rico que ya no le
 
-interesa tener ms. Tampoco puede recibir el fariseo altivo que es justo con justicia
+interesa tener más. Tampoco puede recibir el fariseo altivo que es justo con justicia
 
-propia; pero ustedes, pobres pecadores vacos, buenos para nada, pueden
+propia; pero ustedes, pobres pecadores vacíos, buenos para nada, pueden
 
-recibir; y aqu est la misericordia: A todos los que le recibieron, a los que
+recibir; y aquí está la misericordia: “A todos los que le recibieron, a los que
 
-creen en su nombre, les dio potestad de ser hechos hijos de Dios. Abran esa
+creen en su nombre, les dio potestad de ser hechos hijos de Dios”. Abran esa
 
-mano vaca, abran ese corazn vaco. Que Dios nos conceda que puedan ser
+mano vacía, abran ese corazón vacío. Que Dios nos conceda que puedan ser
 
-abiertos por Su propio Espritu divino, y que ustedes puedan recibir, y luego
+abiertos por Su propio Espíritu divino, y que ustedes puedan recibir, y luego
 
-yo s que se unirn con nosotros diciendo: De su plenitud tomamos todos, y
+yo sé que se unirán con nosotros diciendo: “De su plenitud tomamos todos, y
 
-gracia sobre gracia.
+gracia sobre gracia”.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Salmo 103 y
+del sermón: Salmo 103 y
 
 1 Corintios 4.
 
 Nota del traductor:
 
-Catecismo, en espaol,
+Catecismo, en espańol,
 
 es un tratado resumido de cualquier cosa, un compendio, y, particularmente, el
 
-de la doctrina cristiana. Catequizar es ensear a alguien el catecismo. Tambin
+de la doctrina cristiana. Catequizar es enseńar a alguien el catecismo. También
 
-significa convencer a alguien hbilmente para que haga cierta cosa o acepte
+significa convencer a alguien hábilmente para que haga cierta cosa o acepte
 
-determinadas ideas. Es en este ltimo sentido aunque no es muy popular en
+determinadas ideas. Es en este último sentido –aunque no es muy popular en
 
-nuestro medio- que el pastor Spurgeon usa esas palabras en este sermn. Las usa
+nuestro medio- que el pastor Spurgeon usa esas palabras en este sermón. Las usa
 
-en el sentido de instruir sistemticamente, mediante preguntas, respuestas, y
+en el sentido de instruir sistemáticamente, mediante preguntas, respuestas, y
 
 explicaciones y correcciones.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 8/Diciembre/2011
 

@@ -1,8 +1,8 @@
 # Sermón 737 | Sermón 737
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Dios: Todo en
 
@@ -10,9 +10,9 @@ Todo
 
 No.
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,95 +20,95 @@ DOMINGO 24 DE
 
 FEBRERO DE 1867
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Si l diere
+“Si él diere
 
-reposo, quin inquietar? Si escondiere el rostro, quin lo mirar? Esto
+reposo, żquién inquietará? Si escondiere el rostro, żquién lo mirará? Esto
 
-sobre una nacin, y lo mismo sobre un hombre.     Job 34: 29.
+sobre una nación, y lo mismo sobre un hombre”.     Job 34: 29.
 
 Dimos inicio a nuestros
 
-servicios especiales con un sermn de aliento que traa a nuestra memoria la
+servicios especiales con un sermón de aliento que traía a nuestra memoria la
 
-pronta respuesta a su oracin que recibi Daniel, y fuimos conducidos a esperar
+pronta respuesta a su oración que recibió Daniel, y fuimos conducidos a esperar
 
-que Dios tuviera el propsito de dar, en el propio principio de nuestros
+que Dios tuviera el propósito de dar, en el propio principio de nuestros
 
 ruegos, una orden de misericordia. Dios ha hecho grandes cosas por nosotros
 
 desde entonces, lo cual nos alegra mucho. Probablemente unos cuantos de ustedes
 
-estn conscientes de las numerosas conversiones que Dios ha obrado en este
+estén conscientes de las numerosas conversiones que Dios ha obrado en este
 
-lugar durante la quincena pasada. No somos aficionados a publicar estadsticas,
+lugar durante la quincena pasada. No somos aficionados a publicar estadísticas,
 
-ni a realizar clculos, pero bsteles a ustedes saber y bstenos a nosotros
+ni a realizar cálculos, pero básteles a ustedes saber y bástenos a nosotros
 
-decir que el Seor ha desnudado Su brazo y ha liberado a muchas almas cautivas
+decir que el Seńor ha desnudado Su brazo y ha liberado a muchas almas cautivas
 
-de la servidumbre del pecado. Muchos padres y madres aqu presentes han llorado
+de la servidumbre del pecado. Muchos padres y madres aquí presentes han llorado
 
-de gozo porque sus hijos han confesado estar del lado del Seor. El reino de
+de gozo porque sus hijos han confesado estar del lado del Seńor. El reino de
 
-Satans se ha visto debilitado y los ejrcitos del Seor se han incrementado.
+Satanás se ha visto debilitado y los ejércitos del Seńor se han incrementado.
 
 Esta semana
 
-ha habido jbilo entre los
+ha habido júbilo entre los
 
-ngeles y ha habido jbilo en el corazn del grandioso Padre pues muchas ovejas
+ángeles y ha habido júbilo en el corazón del grandioso Padre pues muchas ovejas
 
-perdidas han sido encontradas. Demos al Seor la gloria debida a Su nombre; gocmonos
+perdidas han sido encontradas. Demos al Seńor la gloria debida a Su nombre; gocémonos
 
-y alegrmonos en el Seor. Y ahora, haciendo un alto en medio de nuestra
+y alegrémonos en el Seńor. Y ahora, haciendo un alto en medio de nuestra
 
-carrera, cual ejrcito con pendones alzados y con las alas extendidas como una
+carrera, cual ejército con pendones alzados y con las alas extendidas como una
 
 alondra cuando se remonta al cielo, expresemos nuestra gratitud y cantemos con
 
-gozo a Dios, fortaleza nuestra. Confesamos con buen nimo que ni nuestro propio
+gozo a Dios, fortaleza nuestra. Confesamos con buen ánimo que ni nuestro propio
 
-brazo ni nuestra propia fuerza podran proporcionarnos la victoria. A Jehov
+brazo ni nuestra propia fuerza podrían proporcionarnos la victoria. A Jehová
 
-sea toda la gloria. Oigamos la voz que dice: No con ejrcito, ni con fuerza,
+sea toda la gloria. Oigamos la voz que dice: “No con ejército, ni con fuerza,
 
-sino con mi Espritu, ha dicho Jehov de los ejrcitos, y que cada creyente
+sino con mi Espíritu, ha dicho Jehová de los ejércitos”, y que cada creyente
 
-aqu presente se postre reverente delante del trono del grandioso Rey, y le
+aquí presente se postre reverente delante del trono del grandioso Rey, y le
 
-agradezca con alma y corazn por toda la misericordia y la bondad que ha hecho
+agradezca con alma y corazón por toda la misericordia y la bondad que ha hecho
 
-desfilar ante nosotros. Con un corazn unido demos al Seor honra y gloria, y
+desfilar ante nosotros. Con un corazón unido demos al Seńor honra y gloria, y
 
-dominio y poder. Esta agradecida espera en el Seor renovar nuestra fuerza de
+dominio y poder. Esta agradecida espera en el Seńor renovará nuestra fuerza de
 
 tal manera que aunque corramos, no nos cansaremos, y aunque caminemos, y la
 
-caminata sea prolongada y el camino spero, no nos fatigaremos. Esperar en el
+caminata sea prolongada y el camino áspero, no nos fatigaremos. Esperar en el
 
-Seor no nos da una mera energa espasmdica con la que podemos comenzar y
+Seńor no nos da una mera energía espasmódica con la que podemos comenzar y
 
-continuar durante un breve tiempo para enfriarnos despus, sino que esperar en
+continuar durante un breve tiempo para enfriarnos después, sino que esperar en
 
-el Seor nos da un constante flujo de vigor de manera que vamos de poder en
+el Seńor nos da un constante flujo de vigor de manera que vamos de poder en
 
 poder hasta presentarnos delante de Dios en Sion.
 
-Este tpico se me impuso
+Este tópico se me impuso
 
-como algo muy apropiado para nuestra consideracin durante nuestros presentes
+como algo muy apropiado para nuestra consideración durante nuestros presentes
 
-esfuerzos especiales. Mi intencin es, con la ayuda de Dios, engrandecer el
+esfuerzos especiales. Mi intención es, con la ayuda de Dios, engrandecer el
 
-nombre del Seor nuestro Dios, dirigiendo la devota atencin de ustedes al
+nombre del Seńor nuestro Dios, dirigiendo la devota atención de ustedes al
 
-hecho de que sin el Seor no hay nada bueno, nada fuerte, nada eficaz, pero que
+hecho de que sin el Seńor no hay nada bueno, nada fuerte, nada eficaz, pero que
 
-donde l obra, nada puede oponrsele; ningn poder del mal puede impedir las
+donde Él obra, nada puede oponérsele; ningún poder del mal puede impedir las
 
 obras de Su regia mano.
 
@@ -116,65 +116,65 @@ Nuestra entera
 
 dependencia de Dios, quien es nuestro todo en todo, es el pensamiento de la
 
-maana, y el texto ilustra ese pensamiento de dos maneras. Se nos hace ver la plenitud
+mańana, y el texto ilustra ese pensamiento de dos maneras. Se nos hace ver la plenitud
 
-de la suficiencia de Dios para nosotros y nuestra dependencia de l:
+de la suficiencia de Dios para nosotros y nuestra dependencia de Él:
 
 primero, en Su obra eficaz,
 
-Si l diere
+“Si él diere
 
-reposo, quin inquietar?
+reposo, żquién inquietará?”
 
 En segundo lugar,
 
 en Sus soberanos retraimientos,
 
-Si escondiere el rostro, quin lo
+“Si escondiere el rostro, żquién lo
 
-mirar? Y,
+mirará?” Y,
 
 en tercer lugar, se nos
 
-recuerda que esto es cierto no slo en la pequea escala del individuo, sino en
+recuerda que esto es cierto no sólo en la pequeńa escala del individuo, sino en
 
 la gran escala de las naciones,
 
-Esto sobre una nacin, y lo mismo sobre un
+“Esto sobre una nación, y lo mismo sobre un
 
-hombre.
+hombre”.
 
 I.
 
 Primero,
 
-entonces, el ojo de la fe contempla la plenitud de la suficiencia de Jehov y
+entonces, el ojo de la fe contempla la plenitud de la suficiencia de Jehová y
 
-nuestra entera dependencia de l cuando advierte SU OPERACIN EFICAZ. Si l
+nuestra entera dependencia de Él cuando advierte SU OPERACIÓN EFICAZ. “Si él
 
-diere reposo, quin inquietar?
+diere reposo, żquién inquietará?”
 
 Esta pregunta que no
 
-tiene respuesta puede ser ilustrada por las obras del Seor en la naturaleza.
+tiene respuesta puede ser ilustrada por las obras del Seńor en la naturaleza.
 
 El mundo fue una vez un tumultuoso caos: fuego, viento y vapor rivalizaban
 
-entre s; la discordia y la confusin prevalecan. Quin haba que pudiera
+entre sí; la discordia y la confusión prevalecían. żQuién había que pudiera
 
 imponer orden y reposo a esa masa palpitante, espumante, hirviente y furiosa?
 
-Quin poda transformar ese mar de lava derretida en una roca slida como el
+żQuién podía transformar ese mar de lava derretida en una roca sólida como el
 
-granito, apta para convertirse en los cimientos de un globo habitable? Quin
+granito, apta para convertirse en los cimientos de un globo habitable? żQuién
 
-poda enfriar esa superficie hirviente para volverla un Edn en el que Dios
+podía enfriar esa superficie hirviente para volverla un Edén en el que Dios
 
-pudiera caminar con el hombre al aire del da? Quin poda calmar ese ocano
+pudiera caminar con el hombre al aire del día? żQuién podía calmar ese océano
 
 de fuego agitado por el torbellino y el tornado hasta convertirse en una
 
-terrfica tempestad, y volverlo una
+terrífica tempestad, y volverlo una
 
 terra
 
@@ -186,175 +186,175 @@ tierra firme),
 
 fija y
 
-estable? El Espritu Santo se cerna sobre ella y mediante Su misteriosa
+estable? El Espíritu Santo se cernía sobre ella y mediante Su misteriosa
 
-energa impuso rpidamente el orden sobre la confusin; y ahora este hermoso y
+energía impuso rápidamente el orden sobre la confusión; y ahora este hermoso y
 
 redondo mundo nuestro, con toda su inigualable belleza del paisaje y sus
 
-ondulantes torrentes, firmes en sus lmites, se ha convertido en una prueba
+ondulantes torrentes, firmes en sus límites, se ha convertido en una prueba
 
 permanente de que cuando Dios da el reposo, nadie puede turbarlo. Si el
 
-grandioso Preservador de los hombres tan slo relajara el mandamiento de
+grandioso Preservador de los hombres tan sólo relajara el mandamiento de
 
-reposo, habra fieras fuerzas en el interior de la tierra que seran
+reposo, habría fieras fuerzas en el interior de la tierra que serían
 
 suficientes para llevarla de regreso a su caos primordial en una hora; pero
 
-mientras Su fat (hgase) sea para la paz, no tememos ningn derrumbe de la
+mientras Su ‘fíat’ (hágase) sea para la paz, no tememos ningún derrumbe de la
 
-materia, ningn desplome de los mundos. Tiempo de siembra y cosecha, verano e
+materia, ningún desplome de los mundos. Tiempo de siembra y cosecha, verano e
 
-invierno, fro y calor, no cesan; la economa de la era del hombre permanece
+invierno, frío y calor, no cesan; la economía de la era del hombre permanece
 
 bajo el brillo tranquilo del sol y de la luna sin ser molestada por el miedo
 
-del regreso del caos o de la rebelin de los terrficos elementos. Pasando a la
+del regreso del caos o de la rebelión de los terríficos elementos. Pasando a la
 
-era del hombre, vemos al Seor en el da de Su ira levantando las compuertas
+era del hombre, vemos al Seńor en el día de Su ira levantando las compuertas
 
 del gran abismo, y al mismo tiempo ordenando a las nubes que se descargaran, de
 
-tal manera que el mundo entero se volvi una vez ms una ruina colosal; las
+tal manera que el mundo entero se volvió una vez más una ruina colosal; las
 
 altivas aguas pasaron sobre las habitaciones de los hombres e incluso las
 
-cumbres de las montaas fueron cubiertas por las olas imperiosas. Al Seor slo
+cumbres de las montańas fueron cubiertas por las olas imperiosas. Al Seńor sólo
 
-le bast quererlo y las aguas fueron retiradas de sobre la faz de la tierra, y
+le bastó quererlo y las aguas fueron retiradas de sobre la faz de la tierra, y
 
-una vez ms apareci la tierra seca, y entonces el mundo floreci con gozosas
+una vez más apareció la tierra seca, y entonces el mundo floreció con gozosas
 
-primaveras, se pint de colores con los ms bellos veranos y con hermosos
+primaveras, se pintó de colores con los más bellos veranos y con hermosos
 
-otoos teidos de madurez, mientras que por todos lados el arco del pacto era
+otońos teńidos de madurez, mientras que por todos lados el arco del pacto era
 
-visto en las nubes, la seal de que el Seor haba dado reposo a la tierra y de
+visto en las nubes, la seńal de que el Seńor había dado reposo a la tierra y de
 
-que nadie sera capaz de turbarla otra vez. Han prevalecido las altivas aguas
+que nadie sería capaz de turbarla otra vez. żHan prevalecido las altivas aguas
 
-desde aquel da? Se ha atrevido el mar a dejar su lecho asignado? Acaso las
+desde aquel día? żSe ha atrevido el mar a dejar su lecho asignado? żAcaso las
 
-olas en su mayor furia no hacen una pausa cuando alcanzan el lmite establecido
+olas en su mayor furia no hacen una pausa cuando alcanzan el límite establecido
 
-por el Altsimo? La tempestad y la tormenta obedecen la voz del Seor que
+por el Altísimo? La tempestad y la tormenta obedecen la voz del Seńor que
 
-preside en el diluvio, del Seor que se sienta como Rey para siempre.
+preside en el diluvio, del Seńor que se sienta como Rey para siempre.
 
-Ms adelante en la
+Más adelante en la
 
-historia, el Mar Rojo nos hace la misma pregunta: Si l diere reposo, quin
+historia, el Mar Rojo nos hace la misma pregunta: “Si él diere reposo, żquién
 
-inquietar? l sac a Su pueblo de la servidumbre de Egipto, pero Faran dijo:
+inquietará?” Él sacó a Su pueblo de la servidumbre de Egipto, pero Faraón dijo:
 
-Perseguir, apresar, repartir despojos. Sin embargo, no haba contado con
+“Perseguiré, apresaré, repartiré despojos”. Sin embargo, no había contado con
 
-el Seor de los Ejrcitos, y cuando la columna se interpuso entre los dos
+el Seńor de los Ejércitos, y cuando la columna se interpuso entre los dos
 
-ejrcitos, mostrando su lado negro a la caballera de Faran y su lado de luz y
+ejércitos, mostrando su lado negro a la caballería de Faraón y su lado de luz y
 
-de consuelo a las filas de Israel, entonces se habra podido or una voz: Si
+de consuelo a las filas de Israel, entonces se habría podido oír una voz: “Si
 
-l diere reposo, quin inquietar? Cuando el rebao redimido descendi a las
+él diere reposo, żquién inquietará?” Cuando el rebańo redimido descendió a las
 
-profundidades del mar, se juntaron las corrientes como en un montn, y los
+profundidades del mar, se juntaron las corrientes como en un montón, y los
 
-abismos se cuajaron en el corazn del mar, y se oy el alboroto de los carros y
+abismos se cuajaron en el corazón del mar, y se oyó el alboroto de los carros y
 
-los cascos del caballo resonaron sobre el lecho pedregoso del aterrado mar. Acaso
+los cascos del caballo resonaron sobre el lecho pedregoso del aterrado mar. żAcaso
 
-no romper Faran la paz del rebao escogido, y no los regresar a la
+no romperá Faraón la paz del rebańo escogido, y no los regresará a la
 
-esclavitud?
+esclavitud? ˇ
 
 Escuchen
 
 el
 
-chasquido de los ltigos
+chasquido de los látigos
 
 y los gritos de
 
-los jinetes! Cmo le va a
+los jinetes! żCómo le va a
 
-Israel ahora? Espera, oh incredulidad, y mira la salvacin de Dios! Cuando las
+Israel ahora? ˇEspera, oh incredulidad, y mira la salvación de Dios! Cuando las
 
 impetuosas aguas cubren a todas las huestes de Egipto sube una voz desde las
 
 profundidades donde duermen los altivos guerreros cubiertos por las olas como
 
-sus mortajas que dice: Si l diere reposo, quin inquietar?
+sus mortajas que dice: “Si él diere reposo, żquién inquietará?”
 
 Echando una ojeada a lo
 
-largo de la historia, y dejando atrs miles de casos que son pertinentes al
+largo de la historia, y dejando atrás miles de casos que son pertinentes al
 
-nuestro, slo mencionaremos uno ms, es decir, el caso de Senaquerib y su
+nuestro, sólo mencionaremos uno más, es decir, el caso de Senaquerib y su
 
-ejrcito. Los mrmoles que se conservan para nosotros y que han sido excavados
+ejército. Los mármoles que se conservan para nosotros y que han sido excavados
 
-de las ruinas de Nnive son pruebas ms que suficientes del poder y de la
+de las ruinas de Nínive son pruebas más que suficientes del poder y de la
 
-ferocidad del monarca asirio. Lleg hasta Laquis, destruyendo a las naciones a
+ferocidad del monarca asirio. Llegó hasta Laquis, destruyendo a las naciones a
 
-fuego y espada, y luego envi a Jerusaln a su teniente, el Rabsaces, para
+fuego y espada, y luego envió a Jerusalén a su teniente, el Rabsaces, para
 
-destruirla. El Rabsaces no crea que la pequea ciudad fuera digna de los duros
+destruirla. El Rabsaces no creía que la pequeńa ciudad fuera digna de los duros
 
-esfuerzos de una batalla; pens conquistarla con su lengua blasfema, dejando la
+esfuerzos de una batalla; pensó conquistarla con su lengua blasfema, dejando la
 
-espada en su vaina; pens engullirla as como el perro engulle su carne; pens devorarla
+espada en su vaina; pensó engullirla así como el perro engulle su carne; pensó devorarla
 
-as como el buey mastica la hierba. Cun desdeosamente pregunt: Quin es
+así como el buey mastica la hierba. Cuán desdeńosamente preguntó: “żQuién es
 
-Jehov? Cmo se jactaba de la fcil victoria sobre los dioses de las naciones.
+Jehová?” Cómo se jactaba de la fácil victoria sobre los dioses de las naciones.
 
-Dnde est el dios de Hamat y de Arfad? Dnde est el dios de Sefarvaim? Libraron
+“żDónde está el dios de Hamat y de Arfad? żDónde está el dios de Sefarvaim? żLibraron
 
-a Samaria de mi mano? Qu dios hay entre los dioses de estas tierras que haya
+a Samaria de mi mano? żQué dios hay entre los dioses de estas tierras que haya
 
-librado su tierra de mi mano, para que Jehov libre de mi mano a Jerusaln?
+librado su tierra de mi mano, para que Jehová libre de mi mano a Jerusalén?”
 
-Pero el Seor haba odo sus blasfemias y respondi las oraciones de Ezequas,
+Pero el Seńor había oído sus blasfemias y respondió las oraciones de Ezequías,
 
-y toda la fuerza de Asiria no pudo levantar ni un solo terrapln contra
+y toda la fuerza de Asiria no pudo levantar ni un solo terraplén contra
 
-Jerusaln, ni disparar una flecha all, sino que en la quietud de la noche Dios
+Jerusalén, ni disparar una flecha allí, sino que en la quietud de la noche Dios
 
 puso un gancho en el hocico del enemigo y puso freno entre sus quijadas y lo
 
-envi avergonzado de regreso al lugar de donde haba venido.
+envió avergonzado de regreso al lugar de donde había venido.
 
-Si l diere reposo, quin inquietar?
+“Si él diere reposo, żquién inquietará?”
 
-Hay un torrente cuya suave corriente
+“Hay un torrente cuya suave corriente
 
 Aprovisiona a la ciudad de nuestro Dios,
 
-Vida, amor y gozo se deslizan todava por l,
+Vida, amor y gozo se deslizan todavía por él,
 
-Y riegan nuestra segura habitacin.
+Y riegan nuestra segura habitación”.
 
-Mira a Sion, ciudad de
+“Mira a Sion, ciudad de
 
-nuestras fiestas solemnes; tus ojos vern a Jerusaln, morada de quietud,
+nuestras fiestas solemnes; tus ojos verán a Jerusalén, morada de quietud,
 
-tienda que no ser desarmada, ni sern arrancadas sus estacas, ni ninguna de
+tienda que no será desarmada, ni serán arrancadas sus estacas, ni ninguna de
 
-sus cuerdas ser rota. Porque ciertamente all ser Jehov para con nosotros
+sus cuerdas será rota. Porque ciertamente allí será Jehová para con nosotros
 
-fuerte, lugar de ros, de arroyos muy anchos, por el cual no andar galera de
+fuerte, lugar de ríos, de arroyos muy anchos, por el cual no andará galera de
 
-remos, ni por l pasar gran nave. Porque Jehov es nuestro juez, Jehov es
+remos, ni por él pasará gran nave. Porque Jehová es nuestro juez, Jehová es
 
-nuestro legislador, Jehov es nuestro Rey; l mismo nos salvar. Tus cuerdas se
+nuestro legislador, Jehová es nuestro Rey; él mismo nos salvará. Tus cuerdas se
 
-aflojaron; no afirmaron su mstil, ni entesaron la vela; se repartir entonces
+aflojaron; no afirmaron su mástil, ni entesaron la vela; se repartirá entonces
 
-botn de muchos despojos; los cojos arrebatarn el botn. Los que esperaban
+botín de muchos despojos; los cojos arrebatarán el botín”. Los que esperaban
 
-saquear a Jerusaln son despojados, y a los ladrones que pensaban destruir la
+saquear a Jerusalén son despojados, y a los ladrones que pensaban destruir la
 
 paz de
 
@@ -366,29 +366,29 @@ Toda la historia declara
 
 la verdad de que cuando Dios determina poner un vallado alrededor de cualquier
 
-pueblo, no es posible que ningn poder, ya sea humano o infernal, rompa ese
+pueblo, no es posible que ningún poder, ya sea humano o infernal, rompa ese
 
-vallado. Yo ser para ti, dice Jehov, muro de fuego en derredor, y para
+vallado. “Yo seré para ti, dice Jehová, muro de fuego en derredor, y para
 
-gloria estar en medio de ti. Esta es una bendita promesa que asegura el
+gloria estaré en medio de ti”. Esta es una bendita promesa que asegura el
 
-reposo para quienes moran en el interior de Su gloriosa proteccin.
+reposo para quienes moran en el interior de Su gloriosa protección.
 
 1.
 
 Reflexionaremos
 
-sobre esta verdad en su aplicacin, primero,
+sobre esta verdad en su aplicación, primero,
 
 al pueblo de Dios.
 
-Amados mos, si su piadoso Seor les da reposo
+Amados míos, si su piadoso Seńor les da reposo
 
-de mente, entonces, quin puede inquietarlos? Algunos de nosotros sabemos en
+de mente, entonces, żquién puede inquietarlos? Algunos de nosotros sabemos en
 
-qu consiste andar a la luz del rostro de Jehov. Demos ahora el testimonio de
+qué consiste andar a la luz del rostro de Jehová. Demos ahora el testimonio de
 
-nuestra experiencia sobre ese hecho. Mis carsimos hermanos en el Seor, ustedes
+nuestra experiencia sobre ese hecho. Mis carísimos hermanos en el Seńor, ustedes
 
 han experimentado severas
 
@@ -402,85 +402,85 @@ por los amigos que les han sido infieles; han perdido algunos parientes y ustede
 
 han llorado sobre sus tumbas; han perdido propiedades: a su oro y a su plata les
 
-salieron alas y volaron lejos; han visto su salud quebrantada y su espritu se
+salieron alas y volaron lejos; han visto su salud quebrantada y su espíritu se
 
-ha visto tambin atribulado; pero con todo, cuando el Seor ha alzado la luz de
+ha visto también atribulado; pero con todo, cuando el Seńor ha alzado la luz de
 
-Su rostro sobre su ustedes, acaso no compartieron el mismo pensamiento que
+Su rostro sobre su ustedes, żacaso no compartieron el mismo pensamiento que
 
-Habacuc, que Aunque la higuera no florezca, ni en las vides haya frutos,
+Habacuc, que “Aunque la higuera no florezca, ni en las vides haya frutos,
 
 aunque falte el producto del olivo, y los labrados no den mantenimiento, y las
 
-ovejas sean quitadas de la majada, y no haya vacas en los corrales, aun as
+ovejas sean quitadas de la majada, y no haya vacas en los corrales”, aun así
 
 ustedes se pueden regocijar en Dios? Amados, aun una vislumbre del rostro de
 
-nuestro Padre celestial endulza la afliccin:
+nuestro Padre celestial endulza la aflicción:
 
-Las lgrimas ms amargas,
+“Las lágrimas más amargas,
 
-Con slo que l les sonra,
+Con sólo que Él les sonría,
 
-Cual roco a la luz del sol,
+Cual rocío a la luz del sol,
 
-Producen diamantes y gemas.
+Producen diamantes y gemas”.
 
 Hemos descubierto que es
 
-dulce ser entregados a la afliccin cuando hemos gozado de la presencia de Dios
+dulce ser entregados a la aflicción cuando hemos gozado de la presencia de Dios
 
-en ella, de manera que hemos considerado que todo es dicha cuando hemos cado
+en ella, de manera que hemos considerado que todo es dicha cuando hemos caído
 
 en diversas pruebas, porque en nuestra hora de rigor y peligro el Salvador ha
 
-sido indeciblemente ms precioso; en ausencia de todos los otros goces, el gozo
+sido indeciblemente más precioso; en ausencia de todos los otros goces, el gozo
 
-del Seor ha llenado el alma hasta el borde. Ustedes saben muy bien, queridos amigos,
+del Seńor ha llenado el alma hasta el borde. Ustedes saben muy bien, queridos amigos,
 
-que si el Seor se apartara, ningn consuelo podra compensar Su ausencia; pero
+que si el Seńor se apartara, ningún consuelo podría compensar Su ausencia; pero
 
-si todos los consuelos terrenales fueran suprimidos, no expresaras ni la ms
+si todos los consuelos terrenales fueran suprimidos, no expresarías ni la más
 
-mnima palabra de murmuracin siempre y cuando el propio Seor llenara ese
+mínima palabra de murmuración siempre y cuando el propio Seńor llenara ese
 
-vaco; t diras: Seor, yo te doy gracias porque cuando la criatura me fall,
+vacío; tú dirías: “Seńor, yo te doy gracias porque cuando la criatura me falló,
 
-hubo mayor espacio para Ti, ms espacio para Tu plenitud.
+hubo mayor espacio para Ti, más espacio para Tu plenitud”.
 
 Sumado a esto, cuando el
 
-Seor da reposo,
+Seńor da reposo,
 
 la calumnia
 
 no puede
 
-causarnos problemas. Ha sido siempre la suerte del pueblo de Dios que entre ms
+causarnos problemas. Ha sido siempre la suerte del pueblo de Dios que entre más
 
-sirve a Dios, ms falsamente es acusado por los hombres. Y yo no dudo de que
+sirve a Dios, más falsamente es acusado por los hombres. Y yo no dudo de que
 
-cuando el perro ladra, imagina que el buen hombre que cabalga a su lado est
+cuando el perro ladra, imagina que el buen hombre que cabalga a su lado está
 
-agudamente turbado por el ladrido; y con todo, con solo que el Seor sonra,
+agudamente turbado por el ladrido; y con todo, con solo que el Seńor sonría,
 
 poco importa que toda lengua en el mundo se ponga a decir mentiras en contra de
 
 nosotros y que cada boca quede negra de maldiciones; muy bien podemos decir
 
-como dijo David: Volvern a la tarde, ladrarn como perros, y rodearn la
+como dijo David: “Volverán a la tarde, ladrarán como perros, y rodearán la
 
-ciudad, y luego agrega: Vuelvan, pues, a la tarde, y ladren como perros, y
+ciudad”, y luego agrega: “Vuelvan, pues, a la tarde, y ladren como perros, y
 
-rodeen la ciudad. As les dara el cristiano una licencia a quienes lo calumnian.
+rodeen la ciudad”. Así les daría el cristiano una licencia a quienes lo calumnian.
 
-Si no fuese por el pecado que eso conlleva de parte de sus enemigos, hasta podra
+Si no fuese por el pecado que eso conlleva de parte de sus enemigos, hasta podría
 
-regocijarse si hablaran mal de l por causa de Cristo, y tendra por sumo gozo
+regocijarse si hablaran mal de él por causa de Cristo, y tendría por sumo gozo
 
 ser tratado vergonzosamente por causa de su Maestro. El rostro de Dios derrama
 
-tal luz santa en el alma que las nubes de la calumnia no pueden ocultarla. S,
+tal luz santa en el alma que las nubes de la calumnia no pueden ocultarla. Sí,
 
 y en tales momentos pudieras agregar a los problemas externos y a las calumnias
 
@@ -490,45 +490,45 @@ las tentaciones
 
 del diablo;
 
-pero si el Seor da reposo, aunque hubiese tantos demonios para
+pero si el Seńor da reposo, aunque hubiese tantos demonios para
 
 atacarnos como hay piedras en el pavimento de las calles de Londres,
 
-caminaramos sobre todas sus cabezas con una confianza sin mengua. Que vengan
+caminaríamos sobre todas sus cabezas con una confianza sin mengua. Que vengan
 
-las tentaciones satnicas; que vuelen tan densas en derredor nuestro como el
+las tentaciones satánicas; que vuelen tan densas en derredor nuestro como el
 
-granizo, pero si Dios levanta el escudo sern como piedras de granizo que
+granizo, pero si Dios levanta el escudo serán como piedras de granizo que
 
 repiquetean sobre el techo mientras el hombre permanece protegido abajo. Tal
 
 vez ustedes piensen que las expresiones de Lutero, cuando habla acerca de las
 
-tentaciones de Satans, sean demasiado elaboradas; y as pudieran ser en la
+tentaciones de Satanás, sean demasiado elaboradas; y así pudieran ser en la
 
-experiencia de ustedes, pero no lo eran en la suya, y en su biografa l es
+experiencia de ustedes, pero no lo eran en la suya, y en su biografía él es
 
 como un monumento del poder de los consuelos de Dios para mantener a un hombre
 
-apaciguado cuando toda la tierra y todo el infierno estn en contra suya. All
+apaciguado cuando toda la tierra y todo el infierno están en contra suya. Allí
 
 estaba ese hombre. No importaba que el airado Papa emitiera mil bulas, que cada
 
-sacerdote crujiera sus dientes contra Lutero, que la mayora de los hombres
+sacerdote crujiera sus dientes contra Lutero, que la mayoría de los hombres
 
-clamaran: Fuera! No conviene que viva. Lo que ellos dijeran era para Lutero
+clamaran: “ˇFuera! No conviene que viva”. Lo que ellos dijeran era para Lutero
 
 como el chirrido de unos cuantos saltamontes en el campo, o como el croar de
 
-unas cuantas ranas en el estanque. Que digan lo que quieran, Si l diere
+unas cuantas ranas en el estanque. Que digan lo que quieran, “Si él diere
 
-reposo, quin inquietar?
+reposo, żquién inquietará?”
 
-Yo s que estoy tocando
+Yo sé que estoy tocando
 
 ahora la experiencia de muchos miembros del pueblo de Dios, pero voy a seguir
 
-un poco ms adelante. Incluso
+un poco más adelante. Incluso
 
 el pecado
 
@@ -536,227 +536,227 @@ engendrado internamente,
 
 (por la naturaleza carnal) que es el peor de los
 
-males, no le causar al cristiano ninguna inquietud cuando ve claramente la luz
+males, no le causará al cristiano ninguna inquietud cuando ve claramente la luz
 
-del rostro de Jehov. Oh dice el alma- Slo ayer clamaba: Miserable de
+del rostro de Jehová. “Oh” –dice el alma- “Sólo ayer clamaba: ‘ˇMiserable de
 
-m! Quin me librar de este cuerpo de muerte? y all me detuve. Pero ahora,
+mí! żQuién me librará de este cuerpo de muerte?’ y allí me detuve. Pero ahora,
 
-mi Dios ha susurrado a mi odo: Mo eres t, y no me voy a detener en ese
+mi Dios ha susurrado a mi oído: ‘Mío eres tú’, y no me voy a detener en ese
 
-versculo por ms tiempo, sino que voy a pasar al siguiente. Gracias doy a
+versículo por más tiempo, sino que voy a pasar al siguiente. ‘Gracias doy a
 
-Dios, por Jesucristo Seor nuestro; Mas gracias sean dadas a Dios, que nos da
+Dios, por Jesucristo Seńor nuestro’; ‘Mas gracias sean dadas a Dios, que nos da
 
-la victoria por medio de nuestro Seor Jesucristo, ya nunca ms voy a mirar a
+la victoria por medio de nuestro Seńor Jesucristo’, ya nunca más voy a mirar a
 
-mis enemigos diciendo: Son muchos y son valientes, sino que voy a mirar a mi
+mis enemigos diciendo: ‘Son muchos y son valientes’, sino que voy a mirar a mi
 
-poderoso ayudador, y en el nombre de Jehov yo los destruir钔. Como prodigio
+poderoso ayudador, y ‘en el nombre de Jehová yo los destruiré’”. “Como prodigio
 
-he sido a muchos, y t mi refugio fuerte, dijo David, y lo mismo dir el
+he sido a muchos, y tú mi refugio fuerte”, dijo David, y lo mismo dirá el
 
 cristiano. Asediado por todo tipo de tentaciones desde el interior, vence
 
 merced a la sangre del Cordero. Y Dios da tal quietud en la confianza en la
 
-obra consumada de Jess y en el poder santificador del Espritu Santo que,
+obra consumada de Jesús y en el poder santificador del Espíritu Santo que,
 
-imperfectos como somos, aun as tenemos fortaleza por el poder de Su fuerza
+imperfectos como somos, aun así tenemos fortaleza por el poder de Su fuerza
 
 para apoderarnos de la corona de justicia, y para ser resucitados para
 
-sentarnos juntos en los lugares celestiales con Cristo Jess aun antes de que
+sentarnos juntos en los lugares celestiales con Cristo Jesús aun antes de que
 
-despunte el da de gloria y las sombras de la mortalidad se disipen.
+despunte el día de gloria y las sombras de la mortalidad se disipen.
 
 2.
 
 Queridos
 
-amigos, le doy gracias a Dios porque mi texto es igualmente vlido para
+amigos, le doy gracias a Dios porque mi texto es igualmente válido para
 
 el pecador que busca.
 
-Pobre corazn
+Pobre corazón
 
-turbado, si al Seor le agradara darte reposo en Cristo en este da, nadie
+turbado, si al Seńor le agradara darte reposo en Cristo en este día, nadie
 
-podra provocar inquietud a tu alma. Cun grande misericordia es para ti que
+podría provocar inquietud a tu alma. ˇCuán grande misericordia es para ti que
 
 Dios pueda dar paz y quietud! Algunos de ustedes han estado muy turbados
 
-durante la ltima quincena. Las flechas de Dios estn penetrando con firmeza en
+durante la última quincena. Las flechas de Dios están penetrando con firmeza en
 
-ti; tu propia carne desfallece como si no pudiese soportar por ms tiempo la
+ti; tu propia carne desfallece como si no pudiese soportar por más tiempo la
 
-presin de tus aflicciones espirituales. El Seor puede vendarte ahora. l
+presión de tus aflicciones espirituales. El Seńor puede vendarte ahora. Él
 
-vendar a los quebrantados de corazn y sanar sus heridas. l puede hacerlo
+vendará a los quebrantados de corazón y sanará sus heridas. Él puede hacerlo
 
-eficazmente, tan eficazmente que ninguna herida sangre de nuevo jams despus
+eficazmente, tan eficazmente que ninguna herida sangre de nuevo jamás después
 
-de que l la haya restaado. Ah dices t- pero est Su
+de que Él la haya restańado. “Ah” –dices tú- “pero está Su
 
 ley,
 
 esa terrible ley de diez mandamientos y yo la he quebrantado
 
-mil veces. Pero si el Salvador te conduce a la cruz, te mostrar que l
+mil veces”. Pero si el Salvador te conduce a la cruz, te mostrará que Él
 
-cumpli la ley a nombre tuyo y que t mismo no ests ms bajo la ley, sino bajo
+cumplió la ley a nombre tuyo y que tú mismo no estás más bajo la ley, sino bajo
 
-la gracia. La ley es un capataz; pero el capataz slo puede controlar a sus
+la gracia. La ley es un capataz; pero el capataz sólo puede controlar a sus
 
-propios esclavos; y cuando t crees en Jess, ya no eres ms un esclavo, sino
+propios esclavos; y cuando tú crees en Jesús, ya no eres más un esclavo, sino
 
-un hijo, y el capataz no tiene ms poder sobre ti a partir de ese momento y
+un hijo, y el capataz no tiene más poder sobre ti a partir de ese momento y
 
-nunca jams. Cun maravilloso espectculo es ver que la ley ha sido cumplida
+nunca jamás. ˇCuán maravilloso espectáculo es ver que la ley ha sido cumplida
 
-por Cristo! Es una visin que proporciona tal dicha que puedes estar donde estuvo
+por Cristo! Es una visión que proporciona tal dicha que puedes estar donde estuvo
 
-el vidente de Horeb y no necesitas decir: Estoy espantado y temblando; ms
+el vidente de Horeb y no necesitas decir: “Estoy espantado y temblando”; más
 
-bien dirs con nuestro compositor de himnos:
+bien dirás con nuestro compositor de himnos:
 
-Osado estar en aquel gran da,
+“Osado estaré en aquel gran día,
 
-Pues quin me acusar de algo?
+Pues żquién me acusará de algo?
 
 Plenamente absuelto soy por medio de Cristo
 
-De la tremenda maldicin y de la culpa del pecado.
+De la tremenda maldición y de la culpa del pecado”.
 
-S, s -dices t-
+“Sí, sí” -dices tú-
 
-bien, le doy gracias a Dios por eso, pero mi conciencia, mi
+“bien, le doy gracias a Dios por eso, pero mi conciencia, mi
 
 conciencia
 
-no me dejar estar en reposo
+no me dejará estar en reposo
 
-nunca. Oh, pero mi Seor sabe cmo hablarle a tu conciencia! l puede
+nunca”. ˇOh, pero mi Seńor sabe cómo hablarle a tu conciencia! Él puede
 
-decirle: Yo deshice como una nube tus rebeliones, y como niebla tus pecados.
+decirle: “Yo deshice como una nube tus rebeliones, y como niebla tus pecados”.
 
-l puede tomar Su sangre preciosa que es mejor que el blsamo de Galaad y puede
+Él puede tomar Su sangre preciosa que es mejor que el bálsamo de Galaad y puede
 
 aplicarla a las heridas de tu conciencia; y tan pronto como la conciencia siente
 
-el poder de la sangre, todas sus heridas cierran inmediatamente y el corazn se
+el poder de la sangre, todas sus heridas cierran inmediatamente y el corazón se
 
-regocija diciendo: Si Jess pag mis deudas, entonces pagadas estn; si Jess
+regocija diciendo: “Si Jesús pagó mis deudas, entonces pagadas están; si Jesús
 
-muri por m, entonces Dios no me har morir nunca ni Jess tampoco, pues l
+murió por mí, entonces Dios no me hará morir nunca ni Jesús tampoco, pues Él
 
-nunca exigir el pago dos veces: primero, de manos de mi Fianza y luego de mis
+nunca exigirá el pago dos veces: primero, de manos de mi Fianza y luego de mis
 
-manos. Cuando la conciencia entra en las heridas de Cristo, cun feliz es! Es
+manos”. ˇCuando la conciencia entra en las heridas de Cristo, cuán feliz es! Es
 
-como la paloma que mora en las hendiduras de las peas, y construye all su nido
+como la paloma que mora en las hendiduras de las peńas, y construye allí su nido
 
-y se pasa todo el da repitiendo sus dulces arrullos de trtola de puro gozo y
+y se pasa todo el día repitiendo sus dulces arrullos de tórtola de puro gozo y
 
-alegra. Oh pobre corazn, la Seora Conciencia y t se daran un clido
+alegría. Oh pobre corazón, la ‘Seńora Conciencia’ y tú se darían un cálido
 
-apretn de manos si te pusieras al pie de la cruz y lo hicieras. Conciencia
+apretón de manos si te pusieras al pie de la cruz y lo hicieras. ‘Conciencia’
 
 es un terrible generador de truenos para un pecador que no ha sido
 
-reconciliado; pero, para un pecador que ha visto la grandiosa expiacin, y que
+reconciliado; pero, para un pecador que ha visto la grandiosa expiación, y que
 
-ha sentido el poder de la sangre, Conciencia se convierte en un generoso
+ha sentido el poder de la sangre, ‘Conciencia’ se convierte en un generoso
 
 amigo.
 
-Y permteme decirte,
+Y permíteme decirte,
 
-querido amigo: si el Seor te da reposo, a la vez que la ley y la conciencia
+querido amigo: si el Seńor te da reposo, a la vez que la ley y la conciencia
 
-estarn en paz contigo, tambin lo estar ese
+estarán en paz contigo, también lo estará ese
 
 Libro de Dios.
 
-Cada vez que pasan las pginas de
+Cada vez que pasan las páginas de
 
 la Biblia
 
 , algunos de ustedes no
 
-encuentran sino amenazas en ella. Cada pgina clama en contra de ustedes diciendo:
+encuentran sino amenazas en ella. Cada página clama en contra de ustedes diciendo:
 
-yo tengo una maldicin para ti. Oh!, pero con slo que vinieras a Jess y
+“yo tengo una maldición para ti”. ˇOh!, pero con sólo que vinieras a Jesús y
 
-descansaras en l, entonces la pgina relucira con bendiciones y brillara con
+descansaras en Él, entonces la página reluciría con bendiciones y brillaría con
 
-mercedes; encontraras que profiere paz a los hombres de paz, y nuevas de gran
+mercedes; encontrarías que profiere paz a los hombres de paz, y nuevas de gran
 
-gozo para aquellos que ponen la mira nicamente en la sangre del Redentor. Aun
+gozo para aquellos que ponen la mira únicamente en la sangre del Redentor. Aun
 
-as me parece que te veo mover la cabeza y decir con tristeza: Oh, pero yo no
+así me parece que te veo mover la cabeza y decir con tristeza: “Oh, pero yo no
 
 voy a obtener nunca mucho reposo en casa, pues tengo
 
-amigos impos
+amigos impíos
 
-que me dicen que soy un fantico religioso. Ah, mi
+que me dicen que soy un fanático religioso”. ˇAh, mi
 
-querido amigo!, si el Seor te diera reposo, tus amigos impos te daran muy
+querido amigo!, si el Seńor te diera reposo, tus amigos impíos te darían muy
 
-pocos problemas pues tendras gracia para ser indulgente con ellos. Si te insultaran,
+pocos problemas pues tendrías gracia para ser indulgente con ellos. Si te insultaran,
 
-convertiras sus injurias en gozo dando gracias a Dios porque eres considerado
+convertirías sus injurias en gozo dando gracias a Dios porque eres considerado
 
-digno de ser vilipendiado por causa de Jess; mientras estuvieras
+digno de ser vilipendiado por causa de Jesús; mientras estuvieras
 
-experimentando eso aprovecharas algunas veces la oportunidad para decir una
+experimentando eso aprovecharías algunas veces la oportunidad para decir una
 
-buena palabra a favor de tu Maestro, y entonces estaras agradecido por ser
+buena palabra a favor de tu Maestro, y entonces estarías agradecido por ser
 
 colocado donde se te necesita. Debemos estar alegres de ser echados como una
 
-libra de sal en medio de la corrupcin que la sal destruye; y debemos estar
+libra de sal en medio de la corrupción que la sal destruye; y debemos estar
 
 agradecidos porque somos puestos como una luz en un lugar oscuro, donde una
 
-lmpara es sumamente necesaria. Bajo esta luz el creyente perseguido puede
+lámpara es sumamente necesaria. Bajo esta luz el creyente perseguido puede
 
-considerar su dolorosa posicin incluso como algo deseable por la utilidad
+considerar su dolorosa posición incluso como algo deseable por la utilidad
 
-prctica que pone en su camino.
+práctica que pone en su camino.
 
-Si Jess fuera tu
+Si Jesús fuera tu
 
-compaero, podras caminar inclume a travs de
+compańero, podrías caminar incólume a través de
 
 la Feria
 
 de las Vanidades -si
 
-es que tu senda cayera en medio de ella- y no necesitaras preocuparte por
+es que tu senda cayera en medio de ella- y no necesitarías preocuparte por
 
-todos los necios que tiran de tus vestidos. Si Jess es nuestro acompaante, es
+todos los necios que tiran de tus vestidos. Si Jesús es nuestro acompańante, es
 
-seguro y bendito transitar a travs de una lluvia de lodo. Yo espero que no
+seguro y bendito transitar a través de una lluvia de lodo. ˇYo espero que no
 
-seas uno de esos que elegiran caminar con l con zapatillas de plata pero que
+seas uno de esos que elegirían caminar con Él con zapatillas de plata pero que
 
-lo dejaran si viniera en la pobreza y en la vergenza! Si as fuera, no
+lo dejarían si viniera en la pobreza y en la vergüenza! Si así fuera, no
 
-conoces en absoluto el amor de Jess. La senda del amor se extiende a travs de
+conoces en absoluto el amor de Jesús. La senda del amor se extiende a través de
 
-espinas y abrojos, y, sin embargo, ese camino espinoso es un paraso con slo
+espinas y abrojos, y, sin embargo, ese camino espinoso es un paraíso con sólo
 
-que Jess lo ande con nosotros y permita que nos apoyemos en Su brazo. Entre
+que Jesús lo ande con nosotros y permita que nos apoyemos en Su brazo. Entre
 
-ms severos se tornen los problemas de la vida, ms excelsos sern sus
+más severos se tornen los problemas de la vida, más excelsos serán sus
 
-consuelos si Jess est con ustedes. Alma atribulada, descansa en Jess! Slo
+consuelos si Jesús está con ustedes. ˇAlma atribulada, descansa en Jesús! Sólo
 
-confa en l, confa enteramente en l y encontrars que nadie puede quitarte
+confía en Él, confía enteramente en Él y encontrarás que nadie puede quitarte
 
-la paz que l te da.
+la paz que Él te da.
 
 3.
 
@@ -764,7 +764,7 @@ Ahora
 
 bien, pienso que este texto, que pertenece tanto al santo como al pecador que busca,
 
-es igualmente vlido, en una escala mayor, para
+es igualmente válido, en una escala mayor, para
 
 la
 
@@ -772,45 +772,45 @@ Iglesia
 
 cristiana.
 
-No podra omitir decir esto
+No podría omitir decir esto
 
 motivado por el agradecimiento para con Dios por el reposo que le ha agradado
 
-darnos durante aos como una comunidad cristiana. Durante ms de trece aos
+darnos durante ańos como una comunidad cristiana. Durante más de trece ańos
 
 hemos sido entrelazados como un solo hombre, en tanto que hemos vivido para ver
 
-que ciertas denominaciones que constituan la nica y exclusiva iglesia -que vituperaban
+que ciertas denominaciones que constituían la única y exclusiva iglesia -que vituperaban
 
-casi como con la boca de un Sanbalat y de un Tobas en contra de todos los
+casi como con la boca de un Sanbalat y de un Tobías en contra de todos los
 
-dems cristianos como cismticos mundanos, mientras ellos mismos eran
+demás cristianos como cismáticos mundanos, mientras ellos mismos eran
 
 escriturales, inmaculados, los hermanos, los seres perfectos- han resultado
 
 desmembradas al punto que escasamente queda un remanente de ellas pero con todos
 
-los elementos de discordia interna en su seno que terminar desmenuzndolas por
+los elementos de discordia interna en su seno que terminará desmenuzándolas por
 
 completo. Por la gracia de Dios nosotros, que como una sola Iglesia somos casi
 
 tan numerosos como algunos de esos grupos, nos hemos mantenido en santa paz y
 
-quietud, obrando incesantemente por la causa de Dios sin disensin y sin
+quietud, obrando incesantemente por la causa de Dios sin disensión y sin
 
 contienda; y aunque no estamos libres de diez mil faltas, con todo he admirado
 
-a menudo la bondad de Dios que nos ha capacitado para que sostengamos un clido
+a menudo la bondad de Dios que nos ha capacitado para que sostengamos un cálido
 
-apretn de manos con el resto, y para decir: Nos amamos los unos a los otros
+apretón de manos con el resto, y para decir: “Nos amamos los unos a los otros
 
 por causa de Cristo y por la causa de la verdad, y cada uno de nosotros espera
 
 vivir en el amor de unos por otros hasta nuestra muerte, deseando, si fuese posible,
 
-ser enterrados en predios vecinos. Doy gracias a Dios en verdad por esto,
+ser enterrados en predios vecinos”. Doy gracias a Dios en verdad por esto,
 
-porque s que abunda el mal en nuestro medio que pudiera plantar una raz de
+porque sé que abunda el mal en nuestro medio que pudiera plantar una raíz de
 
 amargura entre nosotros. Los que tenemos un oficio en
 
@@ -818,103 +818,103 @@ la Iglesia
 
 contamos con la
 
-misma naturaleza que los dems, y por tanto, naturalmente, cada uno de nosotros
+misma naturaleza que los demás, y por tanto, naturalmente, cada uno de nosotros
 
-buscara tener la supremaca, y cada individuo, si fuese dejado a su arbitrio,
+buscaría tener la supremacía, y cada individuo, si fuese dejado a su arbitrio,
 
-se entregara a un temperamento airado y encontrara muchas razones para
+se entregaría a un temperamento airado y encontraría muchas razones para
 
 diferir de su hermano. Todos nosotros hemos sido ofendidos a menudo, y hemos
 
-ofendido a menudo a los dems. Somos tan imperfectos como los que ms, pero
+ofendido a menudo a los demás. Somos tan imperfectos como los que más, pero
 
-somos uno. Cada uno de nosotros ha tenido que aguantar a alguien ms, y ha
+somos uno. Cada uno de nosotros ha tenido que aguantar a alguien más, y ha
 
 debido ser paciente y tolerar; y no me parece que sea una sorpresa que tanta
 
 gente imperfecta se lleve tan bien durante tanto tiempo. Leo este texto sobre
 
-la puerta de nuestro Tabernculo: Si el Seor diere reposo, quin
+la puerta de nuestro Tabernáculo: “Si el Seńor diere reposo, żquién
 
-inquietar? Cuando algunos de nuestros miembros fueron recibidos en la iglesia,
+inquietará?” Cuando algunos de nuestros miembros fueron recibidos en la iglesia,
 
-el carcter del pastor les pareci muy sospechoso a muchas personas. Decan:
+el carácter del pastor les pareció muy sospechoso a muchas personas. Decían:
 
-Bien, si el seor Spurgeon recibe a un individuo que ha representado un
+“Bien, si el seńor Spurgeon recibe a un individuo que ha representado un
 
-problema tan grande para nuestra Iglesia, sin duda dar inicio a guerras en el
+problema tan grande para nuestra Iglesia, sin duda dará inicio a guerras en el
 
-Tabernculo. Pero esas mismas personas que vinieron con aquel carcter dudoso,
+Tabernáculo”. Pero esas mismas personas que vinieron con aquel carácter dudoso,
 
-se han convertido en los ms celosos miembros de nuestra comunidad activa, y en
+se han convertido en los más celosos miembros de nuestra comunidad activa, y en
 
 vez de diferir y estar en desacuerdo, han sentido que hay tanto por hacer que
 
-sera una lstima gastar un gramo de fuerza en contiendas con otros hijos de
+sería una lástima gastar un gramo de fuerza en contiendas con otros hijos de
 
-Dios. Cun bueno es usar nuestras espadas en contra del diablo y sus aliados,
+Dios. ˇCuán bueno es usar nuestras espadas en contra del diablo y sus aliados,
 
-y no embotar su filo blandindolas en contra de nuestros compaeros cristianos!
+y no embotar su filo blandiéndolas en contra de nuestros compańeros cristianos!
 
-Hermanos mos, posiblemente muchos de ustedes no valoren lo suficiente la paz
+Hermanos míos, posiblemente muchos de ustedes no valoren lo suficiente la paz
 
-que reina en nuestra Iglesia. Ah, la valoraran si la perdieran! Oh, cmo la
+que reina en nuestra Iglesia. ˇAh, la valorarían si la perdieran! ˇOh, cómo la
 
-valoraran si el conflicto y el cisma llegaran! Recordaran estos das felices
+valorarían si el conflicto y el cisma llegaran! Recordarían estos días felices
 
-que hemos disfrutado juntos con intenso remordimiento y diran: Seor,
+que hemos disfrutado juntos con intenso remordimiento y dirían: “Seńor,
 
-jntanos en unidad otra vez; concdenos que nos amemos los unos a los otros
+júntanos en unidad otra vez; concédenos que nos amemos los unos a los otros”
 
 pues en una Iglesia el amor es el elemento esencial de la felicidad, y si
 
 cualquiera de ustedes lo ha violado, o ha pecado en su contra, que pida la
 
-gracia para arrepentirse de su error, y que nos amemos unos a otros
+gracia para arrepentirse de su error, y que “nos amemos unos a otros
 
-entraablemente, andando en amor, como tambin Cristo nos am, y se entreg a
+entrańablemente”, andando en amor, “como también Cristo nos amó, y se entregó a
 
-s mismo por nosotros. Hemos de tener esa ferviente caridad, que es el vnculo
+sí mismo por nosotros”. Hemos de tener esa ferviente caridad, que es el vínculo
 
-perfecto, y ha de abundar en nuestros corazones cada vez ms por Jesucristo.
+perfecto, y ha de abundar en nuestros corazones cada vez más por Jesucristo.
 
 Voy a dejar este primer
 
-punto una vez que haya extrado tres lecciones de l. Si l diere reposo,
+punto una vez que haya extraído tres lecciones de él. “Si él diere reposo,
 
-quin inquietar? La primera leccin es que quienes tienen paz deben adorar y
+żquién inquietará?” La primera lección es que quienes tienen paz deben adorar y
 
-bendecir a Dios esta maana por ello. Oh Dios, cuando recordamos cul era
+bendecir a Dios esta mańana por ello. Oh Dios, cuando recordamos cuál era
 
-nuestra inquietud antes de que conociramos a un Salvador; cuando tenemos en
+nuestra inquietud antes de que conociéramos a un Salvador; cuando tenemos en
 
-cuenta cmo era la tempestad cuando ocultaste Tu rostro de nosotros, no podemos
+cuenta cómo era la tempestad cuando ocultaste Tu rostro de nosotros, no podemos
 
 menos que estar alegres, sumamente alegres, porque ahora nos hablas amable y
 
-favorablemente. Los que no quieren agradecer a Dios por la paz, merecen or de
+favorablemente. Los que no quieren agradecer a Dios por la paz, merecen oír de
 
 nuevo el fragor de la guerra en sus calles; los que no quieren darle gracias en
 
 el abrevadero porque el ruido de los arqueros ha cesado, merecen que sus
 
-corazones sean arados de nuevo por las huestes del enemigo. Lenle, entonces,
+corazones sean arados de nuevo por las huestes del enemigo. Lóenle, entonces,
 
-hermanos mos, y albenle de todo corazn. En segundo lugar, los que estn
+hermanos míos, y alábenle de todo corazón. En segundo lugar, los que están
 
 buscando la paz, ya sea para otros o para ellos mismos, deben tener esperanza.
 
 No desesperen de ninguna alma, por cerca de la muerte o del infierno que
 
-pudiera estar; Dios puede crear el reposo incluso en el corazn que est a
+pudiera estar; Dios puede crear el reposo incluso en el corazón que está a
 
-punto de morir. Por ltimo, renuncien a toda otra paz que no sea la que el
+punto de morir. Por último, renuncien a toda otra paz que no sea la que el
 
-Seor da a cada creyente. Si tienen un reposo que Dios no ha creado, imploren
+Seńor da a cada creyente. Si tienen un reposo que Dios no ha creado, imploren
 
-al Seor que lo rompa; si tienen una paz que no vino del cielo, es Paz, paz; y
+al Seńor que lo rompa; si tienen una paz que no vino del cielo, es “Paz, paz; y
 
-no hay paz, y que el Seor los libre de eso.
+no hay paz”, y que el Seńor los libre de eso.
 
 II.
 
@@ -930,19 +930,19 @@ veces Su rostro de Su pueblo, y entonces, como bien lo saben Sus santos, nada
 
 puede capacitarlos para contemplarle o para ser felices. Conocen a Dios
 
-doctrinalmente, pero qu son para un alma las doctrinas de la gracia cuando
+doctrinalmente, żpero qué son para un alma las doctrinas de la gracia cuando
 
 Dios encubre Su rostro? Ustedes pueden aceptar y sostener firmemente el
 
-Evangelio ortodoxo, pero qu es la ms pura verdad evanglica sino una nube
+Evangelio ortodoxo, pero żqué es la más pura verdad evangélica sino una nube
 
-sin lluvia, a menos que el Seor mismo aparezca? Queridos amigos, vana es toda
+sin lluvia, a menos que el Seńor mismo aparezca? Queridos amigos, vana es toda
 
-nuestra experiencia para ayudarnos a ver a Dios si l ocultara Su rostro, pues
+nuestra experiencia para ayudarnos a ver a Dios si Él ocultara Su rostro, pues
 
-si bien hemos probado y gustado Su fidelidad, si deja de sonrer, nos tornamos
+si bien hemos probado y gustado Su fidelidad, si deja de sonreír, nos tornamos
 
-tan incrdulos y tan desconfiados como lo hayamos sido jams. En tales momentos,
+tan incrédulos y tan desconfiados como lo hayamos sido jamás. En tales momentos,
 
 vanas son todas las misericordias externas. Aunque hoy podemos ver la mano de
 
@@ -950,97 +950,97 @@ Dios en el pan y en el vaso de agua fresca, con todo, si Dios ocultara Su
 
 rostro, aunque hubiese un buey engordado ante nosotros y una fiesta apropiada
 
-para reyes, no veramos el amor de nuestro Padre en ellos. Cristiano, t sabes bien
+para reyes, no veríamos el amor de nuestro Padre en ellos. Cristiano, tú sabes bien
 
-que si Dios se aparta y se oculta en Sus lugares secretos, y no te habla ms,
+que si Dios se aparta y se oculta en Sus lugares secretos, y no te habla más,
 
-ni la tierra ni todo el cielo podran proporcionarte un solo deleite.
+ni la tierra ni todo el cielo podrían proporcionarte un solo deleite.
 
 Ahora, pecador, esto es
 
 sorprendentemente cierto en tu caso. Si a Dios le agradara apartarse de ti, no
 
-podras contemplarle. Si te quitase el Evangelio, qu pasara entonces? l
+podrías contemplarle. Si te quitase el Evangelio, żqué pasaría entonces? Él
 
-puede hacerlo. Podra enviarte a travs de los mares como un emigrante. Podra
+puede hacerlo. Podría enviarte a través de los mares como un emigrante. Podría
 
-ponerte en alguna aldea en el campo donde no haya ninguna predicacin
+ponerte en alguna aldea en el campo donde no haya ninguna predicación
 
-evanglica. Podra hacerte vivir en una situacin donde no pudieras salir para
+evangélica. Podría hacerte vivir en una situación donde no pudieras salir para
 
-or a un fiel predicador evanglico, y entonces, qu haras? Podra ser peor
+oír a un fiel predicador evangélico, y entonces, żqué harías? Podría ser peor
 
-todava para ti. El Seor podra dejarte continuar bajo el mismo ministerio, y
+todavía para ti. El Seńor podría dejarte continuar bajo el mismo ministerio, y
 
-ese ministerio podra estar lleno de bendiciones para otros, y con todo, podra
+ese ministerio podría estar lleno de bendiciones para otros, y con todo, podría
 
-ser infructfero para ti. Si Dios te abandonara a las corrupciones de tu propio
+ser infructífero para ti. Si Dios te abandonara a las corrupciones de tu propio
 
-corazn, querido amigo, eso bastara para asegurarte tu ruina. Entonces todas
+corazón, querido amigo, eso bastaría para asegurarte tu ruina. Entonces todas
 
-las lgrimas de las madres, todos los consejos de los amigos, y todos los
+las lágrimas de las madres, todos los consejos de los amigos, y todos los
 
-llamados de los pastores seran incapaces de tocar tu corazn; los llamados del
+llamados de los pastores serían incapaces de tocar tu corazón; los llamados del
 
-propio Libro de Dios no moveran nunca tu conciencia, sino que caeras de
+propio Libro de Dios no moverían nunca tu conciencia, sino que caerías de
 
-cabeza en tu propia destruccin si Dios apartara Su rostro de ti. Recuerda, mi
+cabeza en tu propia destrucción si Dios apartara Su rostro de ti. ˇRecuerda, mi
 
-querido oyente, que eso es posible! Hay un tiempo, no sabemos cundo, un lugar,
+querido oyente, que eso es posible! Hay un tiempo, no sabemos cuándo, un lugar,
 
-no sabemos dnde, donde Dios puede poner fin a tu da de sensibilidad diciendo:
+no sabemos dónde, donde Dios puede poner fin a tu día de sensibilidad diciendo:
 
-Voy a dejar solo a ese pecador. Entonces la nube no derramar ms lluvia
+“Voy a dejar solo a ese pecador”. Entonces la nube no derramará más lluvia
 
-sobre tu alma desrtica; ya no se esparcira ms simiente sobre la transitada
+sobre tu alma desértica; ya no se esparciría más simiente sobre la transitada
 
-carretera de tu corazn ingrato. Corrern los caballos por las peas? Ararn
+carretera de tu corazón ingrato. żCorrerán los caballos por las peńas? żArarán
 
-en ellas con bueyes? Si t no te arrepientes, Dios no siempre desperdiciar en
+en ellas con bueyes? Si tú no te arrepientes, Dios no siempre desperdiciará en
 
-ti el ministerio evanglico. l har que ese Evangelio se convierta en un olor
+ti el ministerio evangélico. Él hará que ese Evangelio se convierta en un “olor
 
-de muerte para muerte para ti, hasta que t mismo lo detestes, te vuelvas un
+de muerte para muerte” para ti, hasta que tú mismo lo detestes, te vuelvas un
 
-quebrantador del sbado o te entregues a la duda y al pecado. Oh pecador, yo
+quebrantador del sábado o te entregues a la duda y al pecado. Oh pecador, yo
 
-anhelo que puedas sentir cun absolutamente ests en las manos de Dios. Si el
+anhelo que puedas sentir cuán absolutamente estás en las manos de Dios. Si el
 
-sol se ocultara, ni todas las velas en el mundo podran iluminar el paisaje; y
+sol se ocultara, ni todas las velas en el mundo podrían iluminar el paisaje; y
 
-si Dios abandonara al alma, todo el poder humano sera incapaz de proporcionarle
+si Dios abandonara al alma, todo el poder humano sería incapaz de proporcionarle
 
-consuelo. Cun grande misericordia es que el Seor no te haya abandonado hasta
+consuelo. Cuán grande misericordia es que el Seńor no te haya abandonado hasta
 
-este momento y que todava Su Espritu bueno se esfuerce y more con el primero
+este momento y que todavía Su Espíritu bueno se esfuerce y more con el primero
 
-de los pecadores; todava se oye el grito: Si oyereis hoy su voz, no
+de los pecadores; todavía se oye el grito: “Si oyereis hoy su voz, no
 
-endurezcis vuestros corazones. Sin embargo, les ruego que recuerden que si en
+endurezcáis vuestros corazones”. Sin embargo, les ruego que recuerden que si en
 
-efecto endurecen sus corazones, el Seor podra hacer con ustedes como hizo con
+efecto endurecen sus corazones, el Seńor podría hacer con ustedes como hizo con
 
-Su pueblo en la antigedad y jurar en Su ira que no entrarn en Su reposo.
+Su pueblo en la antigüedad y jurar en Su ira que no entrarán en Su reposo.
 
 Queridos amigos, no
 
-tengo ninguna duda de que as como esto es vlido tanto para el santo como para
+tengo ninguna duda de que así como esto es válido tanto para el santo como para
 
-el pecador, es vlido tambin para
+el pecador, es válido también para
 
 la Iglesia.
 
 Si
 
-Dios oculta Su rostro de una iglesia, quin, entonces,
+Dios oculta Su rostro de una iglesia, żquién, entonces,
 
-podra contemplarle? Permtanme procurar exponer esa verdad ante ustedes en dos
+podría contemplarle? Permítanme procurar exponer esa verdad ante ustedes en dos
 
 o tres palabras. Si nosotros como una iglesia resultamos ser infieles; si nos
 
-desprendemos de nuestro primer amor; si no intercedemos en oracin buscando la
+desprendemos de nuestro primer amor; si no intercedemos en oración buscando la
 
-conversin de las almas, Dios puede apartar Su presencia de nosotros como lo ha
+conversión de las almas, Dios puede apartar Su presencia de nosotros como lo ha
 
 hecho con las iglesias que una vez fueron Sus iglesias, pero que ya no lo son.
 
@@ -1048,9 +1048,9 @@ El viajero les informa que cuando recorre el Asia Menor, ve las ruinas de
 
 aquellas ciudades que otrora fueron los siete candeleros de oro en los que
 
-brillaba intensamente la luz de la verdad. Qu diran ahora de Tiatira? Dnde
+brillaba intensamente la luz de la verdad. żQué dirían ahora de Tiatira? żDónde
 
-encontraran a Laodicea? Han desaparecido, y por qu no desaparecera esta iglesia?
+encontrarían a Laodicea? Han desaparecido, ży por qué no desaparecería esta iglesia?
 
 Miren a Roma, en un tiempo la gloria de
 
@@ -1058,131 +1058,131 @@ la Iglesia
 
 cristiana. Sus ministros fueron muchos y
 
-su poder para bien sobre el mundo fue enorme. Ahora Roma es el lugar donde est
+su poder para bien sobre el mundo fue enorme. Ahora Roma es el lugar donde está
 
-el trono de Satans, y su sinagoga es una sinagoga del infierno. Cmo es eso?
+el trono de Satanás, y su sinagoga es una sinagoga del infierno. żCómo es eso?
 
-Roma cay; se apart de su integridad; abandon su primer amor y el Seor la
+Roma cayó; se apartó de su integridad; abandonó su primer amor y el Seńor la
 
-desech. As nos tratar el Seor si pecamos de esa manera. Ustedes conocen
+desechó. Así nos tratará el Seńor si pecamos de esa manera. Ustedes conocen
 
-aquel terrible pasaje: Andad ahora a mi lugar en Silo, donde hice morar mi
+aquel terrible pasaje: “Andad ahora a mi lugar en Silo, donde hice morar mi
 
-nombre al principio, y ved lo que le hice por la maldad de mi pueblo Israel.
+nombre al principio, y ved lo que le hice por la maldad de mi pueblo Israel”.
 
-Dios hizo que el tabernculo fuera levantado en primer lugar en Silo, pero Silo
+Dios hizo que el tabernáculo fuera levantado en primer lugar en Silo, pero Silo
 
-fue contaminado por el pecado de los hijos de El; aquel tabernculo fue
+fue contaminado por el pecado de los hijos de Elí; aquel tabernáculo fue
 
-quitado y Silo se convirti en un yermo. En eso podra convertirse esta
+quitado y Silo se convirtió en un yermo. En eso podría convertirse esta
 
-floreciente iglesia. Si la justicia los visitara de esa manera, podran
+floreciente iglesia. Si la justicia los visitara de esa manera, podrían
 
-celebrar sus reuniones de oracin probablemente esas cesaran pronto- pero de
+celebrar sus reuniones de oración –probablemente esas cesarían pronto- pero żde
 
-qu serviran sus oraciones formales? Podran conseguir que les predicara la
+qué servirían sus oraciones formales? Podrían conseguir que les predicara la
 
-persona que ustedes quisieran, pero, y qu? Yo s lo que haran si algunos de
+persona que ustedes quisieran, pero, ży qué? Yo sé lo que harían si algunos de
 
-nosotros nos quedramos dormidos y los fieles fueran enterrados; si el Espritu
+nosotros nos quedáramos dormidos y los fieles fueran enterrados; si el Espíritu
 
-de Dios partiera, ustedes diran: Bien, todava somos una congregacin grande
+de Dios partiera, ustedes dirían: “Bien, todavía somos una congregación grande
 
 e influyente; podemos darnos el lujo de conseguir un ministro talentoso; el
 
-dinero lo puede todo; y conseguiran al hombre de talento, y entonces querran
+dinero lo puede todo”; y conseguirían al hombre de talento, y entonces querrían
 
-un rgano y un coro, y muchas otras cosas bonitas que ahora consideramos
+un órgano y un coro, y muchas otras cosas bonitas que ahora consideramos
 
 prescindibles para nuestro gozo. Entonces, si ese fuera el caso, todos estos
 
-vanos intentos de grandeza seran infructuosos, y
+vanos intentos de grandeza serían infructuosos, y
 
 la Iglesia
 
-se convertira
+se convertiría
 
-pronto en objeto de burla y de escarnio, o de otra manera, en un simple leo
+pronto en objeto de burla y de escarnio, o de otra manera, en un simple leńo
 
-sobre el agua. Entonces diran: Tenemos que cambiar la administracin, y se
+sobre el agua. Entonces dirían: “Tenemos que cambiar la administración”, y se
 
-realizara este cambio y aquel otro cambio; pero si el Seor partiera, qu
+realizaría este cambio y aquel otro cambio; pero si el Seńor partiera, żqué
 
-podran hacer? Por qu medios podran hacer que esta iglesia reviviera alguna
+podrían hacer? żPor qué medios podrían hacer que esta iglesia reviviera alguna
 
-vez, o cualquier otra iglesia? Ay por los esfuerzos carnales y espasmdicos
+vez, o cualquier otra iglesia? ˇAy por los esfuerzos carnales y espasmódicos
 
-que hemos visto realizados en algunas iglesias! Reuniones de oracin con una
+que hemos visto realizados en algunas iglesias! Reuniones de oración con una
 
-asistencia muy pobre, falta de conversiones, pero aun as han dicho: es
+asistencia muy pobre, falta de conversiones, pero aun así han dicho: “es
 
 perentorio que mantengamos una respetable apariencia; tenemos que atraer a
 
-nuestra congregacin a travs de nuestros cantos, de nuestro rgano, o de
+nuestra congregación a través de nuestros cantos, de nuestro órgano, o de
 
-alguna otra atraccin externa; y los ngeles habran podido llorar al ver la
+alguna otra atracción externa”; y los ángeles habrían podido llorar al ver la
 
-locura de los hombres que recurran a cualquier cosa menos al Seor, quien es
+locura de los hombres que recurrían a cualquier cosa menos al Seńor, quien es
 
-el nico que puede convertir una casa en Su templo, quien es el nico que puede
+el único que puede convertir una casa en Su templo, quien es el único que puede
 
-hacer que un ministerio sea una administracin de misericordia, sin cuya
+hacer que un ministerio sea una administración de misericordia, sin cuya
 
-presencia la ms solemne congregacin no es sino como el pastoreo de hombres en
+presencia la más solemne congregación no es sino como el pastoreo de hombres en
 
-el mercado y los cantos ms melodiosos son slo como los gritos de aquellos que
+el mercado y los cantos más melodiosos son sólo como los gritos de aquellos que
 
-se gozan en un matrimonio. Sin el Seor, nuestros das solemnes, nuestras lunas
+se gozan en un matrimonio. Sin el Seńor, nuestros días solemnes, nuestras lunas
 
-nuevas y nuestras fiestas establecidas son una abominacin del tipo que odia Su
+nuevas y nuestras fiestas establecidas son una abominación del tipo que odia Su
 
 alma. Que esta iglesia siempre sienta su total, entera y absoluta dependencia
 
 de la presencia de su Dios, y que nunca cese de implorarle humildemente que perdone
 
-sus muchos pecados y que ordene todava que Su bendicin permanezca sobre ella.
+sus muchos pecados y que ordene todavía que Su bendición permanezca sobre ella.
 
 III.
 
 El
 
-tiempo se ha agotado, pero slo quiero decir estas dos o tres palabras, es
+tiempo se ha agotado, pero sólo quiero decir estas dos o tres palabras, es
 
-decir, que pueden estar seguros de que ESTO ES VLIDO PARA UNA NACIN as como
+decir, que pueden estar seguros de que ESTO ES VÁLIDO PARA UNA NACIÓN así como
 
 para cualquier iglesia y para cualquier persona.
 
 En este momento
 
-especfico, si bien tal vez se est desarrollando un mayor esfuerzo en
+específico, si bien tal vez se esté desarrollando un mayor esfuerzo en
 
-Inglaterra que el que se haya hecho durante muchos aos, la bendicin divina
+Inglaterra que el que se haya hecho durante muchos ańos, la bendición divina
 
-que acompaa ese esfuerzo es de las ms escasas de las que se haya gozado jams.
+que acompańa ese esfuerzo es de las más escasas de las que se haya gozado jamás.
 
 Es un triste hecho que a pesar de todo el maravilloso incremento de espacios
 
-que se ha logrado en Londres para la adoracin a Dios, hay absolutamente una
+que se ha logrado en Londres para la adoración a Dios, hay absolutamente una
 
-mayor deficiencia en los medios de la gracia de la que haya habido jams debido
+mayor deficiencia en los medios de la gracia de la que haya habido jamás debido
 
-al incremento de la poblacin. Es tambin un hecho notorio en cuanto a las
+al incremento de la población. Es también un hecho notorio en cuanto a las
 
-nuevas iglesias que han sido erigidas, que se podra entrar en muchas de ellas
+nuevas iglesias que han sido erigidas, que se podría entrar en muchas de ellas
 
-y no encontrar el grupo suficiente ni siquiera para lograr una reunin
+y no encontrar el grupo suficiente ni siquiera para lograr una reunión
 
-respetable en una sacrista, de manera que si bien se ha contribuido con
+respetable en una sacristía, de manera que si bien se ha contribuido con
 
 decenas de miles y con cientos de miles de libras esterlinas para los ladrillos
 
-y el cemento -en conexin con el Establecimiento Episcopaliano- esas cosas han
+y el cemento -en conexión con el Establecimiento Episcopaliano- esas cosas han
 
 sido meramente un agregado espurio al suministro espiritual, pero no algo real.
 
-Es fcil recaudar dinero, pero no es fcil encontrar personas; y, si bien es
+Es fácil recaudar dinero, pero no es fácil encontrar personas; y, si bien es
 
-fcil conseguir un arquitecto para construir una iglesia, nadie sino Dios mismo
+fácil conseguir un arquitecto para construir una iglesia, nadie sino Dios mismo
 
 puede
 
@@ -1190,107 +1190,107 @@ encontrar un ministro que llegue a las densas
 
 masas del paganismo que nos rodea y las fuerce a entrar y a adorar. La carencia
 
-de personas es la clamorosa carencia de la poca, y experimentamos esa carencia
+de personas es la clamorosa carencia de la época, y experimentamos esa carencia
 
-en razn de que no oramos a Dios lo suficiente para que nos enve personas; no
+en razón de que no oramos a Dios lo suficiente para que nos envíe personas; no
 
-oramos pidiendo que las personas, cuando Dios en efecto las enva, reciban la
+oramos pidiendo que las personas, cuando Dios en efecto las envía, reciban la
 
 ayuda que deben recibir, y consecuentemente, mucho del esfuerzo de la iglesia es
 
-desperdiciado. Amados, quiero ver que se haga algo en Londres, y cmo ha de
+desperdiciado. Amados, quiero ver que se haga algo en Londres, ży cómo ha de
 
-hacerse? Hay miles de cristianos, hay decenas de miles de cristianos en
+hacerse? ˇHay miles de cristianos, hay decenas de miles de cristianos en
 
-Londres, y sin embargo, la causa no se propaga o lo hace muy lentamente! Cul
+Londres, y sin embargo, la causa no se propaga o lo hace muy lentamente! żCuál
 
-es el motivo? Jons conmovi de un extremo a otro a Nnive, y con todo, cien
+es el motivo? Jonás conmovió de un extremo a otro a Nínive, y con todo, cien
 
-mil seguidores de Jess no pueden hacerlo. Pablo, marchando a lo largo de la
+mil seguidores de Jesús no pueden hacerlo. Pablo, marchando a lo largo de la
 
-va Apia en Roma, marc una era en la historia de Roma; y, sin embargo, hay
+vía Apia en Roma, marcó una era en la historia de Roma; y, sin embargo, hay
 
-muchos ministros de Cristo que recorren nuestras calles, y, no obstante, qu
+muchos ministros de Cristo que recorren nuestras calles, y, no obstante, żqué
 
 poder real constituimos todos nosotros juntos? No parece que todos nosotros
 
-lleguemos a ser en esta gran ciudad algo ms que una mera hojuela en el plato
+lleguemos a ser en esta gran ciudad algo más que una mera hojuela en el plato
 
-de avena; casi no causamos ningn impacto en la poblacin. Oh, es extrao, es
+de avena; casi no causamos ningún impacto en la población. ˇOh, es extrańo, es
 
-sobremanera extrao, pues lo que nosotros predicamos es el Evangelio, sabemos
+sobremanera extrańo, pues lo que nosotros predicamos es el Evangelio, sabemos
 
 que es el Evangelio, y algunos de nosotros intentamos predicarlo con toda
 
-nuestra fuerza! Pero si Dios ocultara Su rostro, qu podra hacerse? Con todo,
+nuestra fuerza! Pero si Dios ocultara Su rostro, żqué podría hacerse? Con todo,
 
-hermanos, puede hacerse esto: clamaremos al Seor hasta que l revele Su rostro
+hermanos, puede hacerse esto: clamaremos al Seńor hasta que Él revele Su rostro
 
-de nuevo. No le daremos ningn descanso hasta que l establezca y convierta a
+de nuevo. No le daremos ningún descanso hasta que Él establezca y convierta a
 
-Su iglesia en una alabanza en la tierra. Oh hombres y mujeres cristianos, que
+Su iglesia en una alabanza en la tierra. ˇOh hombres y mujeres cristianos, que
 
-ustedes pudieran darse cuenta de la situacin! Una ciudad de tres millones de
+ustedes pudieran darse cuenta de la situación! ˇUna ciudad de tres millones de
 
-habitantes, si bien no entregados enteramente a la idolatra, pero s muy dados
+habitantes, si bien no entregados enteramente a la idolatría, pero sí muy dados
 
-al pecado, y nosotros mismos tan dbiles en medio de ella! Si pudiramos darnos
+al pecado, y nosotros mismos tan débiles en medio de ella! Si pudiéramos darnos
 
-cuenta de esta posicin y nos aferrramos al brazo omnipotente, y mediante una
+cuenta de esta posición y nos aferráramos al brazo omnipotente, y mediante una
 
-fe vencedora que slo Dios podra darnos a cualquiera de nosotros, creyramos
+fe vencedora que sólo Dios podría darnos a cualquiera de nosotros, creyéramos
 
-posible que el Seor Jess salve a esta ciudad, y luego siguiramos adelante
+posible que el Seńor Jesús salve a esta ciudad, y luego siguiéramos adelante
 
-esperando valerosamente que lo haga, podramos ver ms de lo que hayamos visto
+esperando valerosamente que lo haga, podríamos ver más de lo que hayamos visto
 
-jams. Y ahora, qu pasa si yo profetizo que lo veremos! Qu pasa si digo que
+jamás. Y ahora, ˇqué pasa si yo profetizo que lo veremos! ˇQué pasa si digo que
 
-si Dios motivara a Su pueblo por doquier para que ore, l realizara una obra
+si Dios motivara a Su pueblo por doquier para que ore, Él realizaría una obra
 
-en nuestro da que hara que zumbaran los dos odos de quien lo oiga, no con
+en nuestro día que haría que zumbaran los dos oídos de quien lo oiga, no con
 
-horror, sino con gozo! l hara que el mundo supiera todava que hay un Dios en
+horror, sino con gozo! Él haría que el mundo supiera todavía que hay un Dios en
 
-Israel. Verdaderamente, el obstculo es nuestra falta de fe, pues si el Hijo
+Israel. Verdaderamente, el obstáculo es nuestra falta de fe, pues si el Hijo
 
-del hombre descendiera en medio de nosotros, hallara fe en la tierra? Oh
+del hombre descendiera en medio de nosotros, żhallaría fe en la tierra? Oh
 
-iglesia incrdula, oh generacin ingrata, ustedes no estis estrechos en Dios,
+iglesia incrédula, oh generación ingrata, ustedes no estáis estrechos en Dios,
 
-pero s sois estrechos en vuestro propio corazn; y si slo pudieran creer en
+pero sí sois estrechos en vuestro propio corazón; y si sólo pudieran creer en
 
-l, y demostrarlo por su fe, l abrira todava las ventanas del cielo y les
+Él, y demostrarlo por su fe, Él abriría todavía las ventanas del cielo y les
 
-derramara tal bendicin que no tendran espacio suficiente para recibirla.
+derramaría tal bendición que no tendrían espacio suficiente para recibirla.
 
 Entonces ese es el
 
 asunto y lo dejamos con ustedes. Somos totalmente dependientes de Dios; debemos
 
-descansar absolutamente en l. Pero as es como debera ser, pues es mejor
+descansar absolutamente en Él. Pero así es como debería ser, pues es mejor
 
-esperar en el Seor que tener confianza en el hombre; es mejor esperar en el
+esperar en el Seńor que tener confianza en el hombre; es mejor esperar en el
 
-Seor que tener confianza en los prncipes. Descansemos en el amor divino por
+Seńor que tener confianza en los príncipes. Descansemos en el amor divino por
 
-medio de la sangre de Jess, y no le demos descanso al Seor hasta que desnude
+medio de la sangre de Jesús, y no le demos descanso al Seńor hasta que desnude
 
 Su brazo en medio de esta tierra.
 
-Que el Seor bendiga
+Que el Seńor bendiga
 
-nuestras palabras, por nuestro Seor Jesucristo.
+nuestras palabras, por nuestro Seńor Jesucristo.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Job 34.
+del sermón: Job 34.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 15/Mayo/2013
 

@@ -1,14 +1,14 @@
 # Sermón 103 | Sermón 103
 
-El Plpito de la Capilla New Park Street
+El Pślpito de la Capilla New Park Street
 
 Cristo en el Pacto
 
 NO. 103
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 31 DE AGOSTO, 1856
+MAŃANA DEL DOMINGO 31 DE AGOSTO, 1856
 
 POR CHARLES HADDON
 
@@ -20,11 +20,11 @@ LONDRES
 
 .
 
-Te dar por pacto al pueblo. Isaas 49: 8.
+Te daré por pacto al pueblo. Isaķas 49: 8.
 
 Todos nosotros
 
-creemos que nuestro Salvador tiene mucho que ver con el pacto de la salvacin
+creemos que nuestro Salvador tiene mucho que ver con el pacto de la salvación
 
 eterna. Nos hemos acostumbrado a considerarle como el Mediador del pacto, como
 
@@ -36,29 +36,29 @@ Mediador
 
 del
 
-pacto, pues tenamos la certeza de que Dios no poda hacer ningn pacto con el
+pacto, pues tenķamos la certeza de que Dios no podķa hacer ningśn pacto con el
 
-hombre a menos que hubiese un mediador, un rbitro, que deba estar entre
+hombre a menos que hubiese un mediador, un įrbitro, que debķa estar entre
 
 ambos. Y le hemos aclamado como el Mediador que, con la misericordia en Sus
 
-manos, descendi para comunicarle al hombre pecador las nuevas de que la
+manos, descendió para comunicarle al hombre pecador las nuevas de que la
 
 gracia
 
-fue prometida en el consejo eterno del Altsimo.
+fue prometida en el consejo eterno del Altķsimo.
 
-Hemos amado tambin a nuestro Salvador como la
+Hemos amado también a nuestro Salvador como la
 
 Fianza
 
-del pacto quien, a nombre nuestro, asumi pagar nuestras
+del pacto quien, a nombre nuestro, asumió pagar nuestras
 
-deudas; y a nombre de Su Padre, asumi tambin vigilar que todas nuestras almas
+deudas; y a nombre de Su Padre, asumió también vigilar que todas nuestras almas
 
 estuviesen seguras y salvas, y al final fuesen presentadas sin tacha y
 
-completas delante de l. Y no dudo que tambin nos hayamos alegrado con el
+completas delante de Él. Y no dudo que también nos hayamos alegrado con el
 
 pensamiento de que Cristo es la
 
@@ -66,37 +66,37 @@ suma y la
 
 sustancia
 
-del pacto; creemos que si quisiramos resumir todas las
+del pacto; creemos que si quisiéramos resumir todas las
 
-bendiciones espirituales, tenemos que decir: Cristo es todo. l es su materia
+bendiciones espirituales, tenemos que decir: Cristo es todo. Él es su materia
 
-y l es su sustancia; y aunque se podra decir mucho en lo tocante a las
+y Él es su sustancia; y aunque se podrķa decir mucho en lo tocante a las
 
-glorias del pacto, no podra decirse nada que no fuera encontrado en esa sola
+glorias del pacto, no podrķa decirse nada que no fuera encontrado en esa sola
 
-palabra: Cristo.
+palabra: Cristo.
 
-Pero esta maana voy
+Pero esta mańana voy
 
 a hablar de Cristo, no como el Mediador, no como la fianza ni como el alcance
 
-del pacto, sino como un grandioso y glorioso artculo del pacto que Dios ha
+del pacto, sino como un grandioso y glorioso artķculo del pacto que Dios ha
 
 dado a Sus hijos. Es nuestra firme creencia que Cristo es nuestro, y nos es
 
-dado por Dios; sabemos que lo entreg por todos nosotros, y por tanto, creemos
+dado por Dios; sabemos que lo entregó por todos nosotros, y por tanto, creemos
 
-que nos dar tambin con l todas las cosas. Podemos decir con la esposa: Mi
+que nos darį también con él todas las cosas. Podemos decir con la esposa: Mi
 
-amado es mo. Sentimos que tenemos una propiedad personal en nuestro Seor y
+amado es mķo. Sentimos que tenemos una propiedad personal en nuestro Seńor y
 
-Salvador Jesucristo, y por tanto, de la manera ms sencilla posible, sin los
+Salvador Jesucristo, y por tanto, de la manera mįs sencilla posible, sin los
 
-adornos de la elocuencia o los atavos de la oratoria, nos habr de deleitar
+adornos de la elocuencia o los atavķos de la oratoria, nos habrį de deleitar
 
-durante unos momentos en esta maana, meditar simplemente sobre este grandioso
+durante unos momentos en esta mańana, meditar simplemente sobre este grandioso
 
-pensamiento: Cristo Jess, en el pacto, es propiedad de cada creyente.
+pensamiento: Cristo Jesśs, en el pacto, es propiedad de cada creyente.
 
 Primero,
 
@@ -106,7 +106,7 @@ en segundo
 
 lugar, notaremos el
 
-propsito por el que
+propósito por el que
 
 nos fue transferida esta propiedad;
 
@@ -114,15 +114,15 @@ y, en tercer lugar, daremos
 
 un precepto,
 
-que muy bien podra ser unido
+que muy bien podrķa ser unido
 
-a una bendicin tan grande como esta, y que, ciertamente, es una inferencia de
+a una bendición tan grande como esta, y que, ciertamente, es una inferencia de
 
 ella.
 
 1.
 
-Entonces, en primer lugar, aqu tenemos UNA GRANDIOSA POSESIN: Jesucristo,
+Entonces, en primer lugar, aquķ tenemos UNA GRANDIOSA POSESIÓN: Jesucristo,
 
 por el pacto, es la propiedad de todo creyente. Por esto debemos entender a
 
@@ -134,121 +134,121 @@ en todos Sus
 
 atributos.
 
-l posee un doble conjunto de atributos, puesto que hay dos
+Él posee un doble conjunto de atributos, puesto que hay dos
 
-naturalezas enlazadas en gloriosa unin en una sola persona. l posee los
+naturalezas enlazadas en gloriosa unión en una sola persona. Él posee los
 
 atributos de Dios verdadero, y posee los atributos de hombre perfecto; y, sean
 
 los que fueren, cada uno de esos atributos es una propiedad perpetua de cada
 
-creyente hijo de Dios. No necesito hacer hincapi en Sus atributos como Dios;
+creyente hijo de Dios. No necesito hacer hincapié en Sus atributos como Dios;
 
-todos ustedes saben cun infinito es Su amor, cun vasta Su gracia, cun firme Su
+todos ustedes saben cuįn infinito es Su amor, cuįn vasta Su gracia, cuįn firme Su
 
-fidelidad, cun constante Su veracidad. Ustedes saben que l es omnisciente; saben
+fidelidad, cuįn constante Su veracidad. Ustedes saben que Él es omnisciente; saben
 
 que es omnipresente; saben que es omnipotente, y ha de consolarles pensar que
 
 todos estos grandiosos y gloriosos atributos que pertenecen a Dios, son todos
 
-suyos. Tiene l poder? Ese poder es suyo, suyo para apoyarlos y fortalecerlos;
+suyos. æTiene Él poder? Ese poder es suyo, suyo para apoyarlos y fortalecerlos;
 
 suyo para que venzan a sus enemigos, suyo para guardarlos inmutablemente
 
-seguros. Tiene l amor? Bien, no hay una sola partcula del amor en Su grandioso
+seguros. æTiene Él amor? Bien, no hay una sola partķcula del amor en Su grandioso
 
-corazn que no sea suya; todo Su amor les pertenece; pueden sumergirse en el
+corazón que no sea suya; todo Su amor les pertenece; pueden sumergirse en el
 
-inmenso ocano sin fondo de Su amor, y decir de todo ello: es mo. Tiene l
+inmenso océano sin fondo de Su amor, y decir de todo ello: es mķo. æTiene Él
 
 justicia? Puede parecer un atributo severo; pero incluso eso es suyo, pues por
 
-Su justicia l verificar que todo lo que ha sido pactado para ustedes por el
+Su justicia Él verificarį que todo lo que ha sido pactado para ustedes por el
 
 juramento y la promesa de Dios, les sea concedido de manera sumamente cierta.
 
-Menciona lo que quieras que sea una caracterstica de Cristo como el siempre
+Menciona lo que quieras que sea una caracterķstica de Cristo como el siempre
 
 glorioso Hijo de Dios, y, oh amigo fiel, puedes poner tu mano sobre eso y
 
-decir: es mo.
+decir: es mķo.
 
-Tu brazo, oh Jess,
+Tu brazo, oh Jesśs,
 
-que sostiene las columnas de la tierra, es mo. Esos ojos, oh Jess, que
+que sostiene las columnas de la tierra, es mķo. Esos ojos, oh Jesśs, que
 
-traspasan las densas tinieblas y contemplan lo porvenir, Tus ojos son mos,
+traspasan las densas tinieblas y contemplan lo porvenir, Tus ojos son mķos,
 
 para considerarme con amor. Esos labios, oh Cristo, que algunas veces hablan
 
-palabras ms retumbantes que diez mil truenos, o que susurran slabas ms
+palabras mįs retumbantes que diez mil truenos, o que susurran sķlabas mįs
 
-dulces que la msica de las arpas de los glorificados, esos labios son mos. Y
+dulces que la mśsica de las arpas de los glorificados, esos labios son mķos. Y
 
-ese gran corazn que palpita aceleradamente con un amor muy desinteresado, puro
+ese gran corazón que palpita aceleradamente con un amor muy desinteresado, puro
 
-e inclume, ese corazn es mo. Todo Cristo, en toda Su gloriosa naturaleza
+e incólume, ese corazón es mķo. Todo Cristo, en toda Su gloriosa naturaleza
 
 como el Hijo de Dios, como Dios sobre todo, bendito para siempre, es suyo,
 
-positivamente, realmente, sin metfora, en realidad es suyo.
+positivamente, realmente, sin metįfora, en realidad es suyo.
 
-Considrenlo tambin
+Considérenlo también
 
-como hombre. Todo lo que l tiene como un hombre perfecto, es suyo. Como un
+como hombre. Todo lo que Él tiene como un hombre perfecto, es suyo. Como un
 
-hombre perfecto estuvo delante de Su Padre, lleno de gracia y de verdad,
+hombre perfecto estuvo delante de Su Padre, lleno de gracia y de verdad,
 
 lleno de favor; y aceptado por Dios como un ser perfecto.
 
-Oh, creyente, la aceptacin
+Oh, creyente, la aceptación
 
-de Dios para con Cristo es tu aceptacin, pues no sabes que ese amor que el
+de Dios para con Cristo es tu aceptación, pues æno sabes que ese amor que el
 
 Padre puso en un Cristo perfecto, ahora lo pone en ti? Pues todo lo que Cristo
 
-hizo es tuyo. Esa perfecta justicia que Jess obr, cuando a lo largo de Su
+hizo es tuyo. Esa perfecta justicia que Jesśs obró, cuando a lo largo de Su
 
-vida inmaculada guard y honr la ley, es tuya. No hay una sola virtud que
+vida inmaculada guardó y honró la ley, es tuya. No hay una sola virtud que
 
-Cristo haya tenido jams, que no sea tuya; no hay un solo acto santo que
+Cristo haya tenido jamįs, que no sea tuya; no hay un solo acto santo que
 
-hubiere hecho jams que no sea tuyo; no hay una oracin que hubiere enviado una
+hubiere hecho jamįs que no sea tuyo; no hay una oración que hubiere enviado una
 
 vez al cielo que no sea tuya; no hay un solitario pensamiento hacia Dios que
 
 hubiere sido Su deber pensar
 
-y que pens
+y que pensó
 
 como hombre sirviendo a Su Dios, que no sea tuyo. Toda Su justicia, en Su vasto
 
-alcance y en toda la perfeccin de Su carcter, te es imputada. Oh!, podras
+alcance y en toda la perfección de Su carįcter, te es imputada. ”Oh!, æpodrķas
 
-pensar en todo lo que posees en la palabra Cristo? Vamos,
+pensar en todo lo que posees en la palabra Cristo? Vamos,
 
 creyente
 
 ,
 
-considera la palabra Dios y piensa cun poderosa es; y luego medita en esa
+considera la palabra Dios y piensa cuįn poderosa es; y luego medita en esa
 
-palabra hombre perfecto, pues todo eso que el Hombre-Dios, Cristo, y el glorioso
+palabra hombre perfecto, pues todo eso que el Hombre-Dios, Cristo, y el glorioso
 
-Dios-hombre, Cristo, hubiere tenido jams, o pueda tener jams como
+Dios-hombre, Cristo, hubiere tenido jamįs, o pueda tener jamįs como
 
-caracterstica de cualquiera de Sus naturalezas, todo eso es tuyo. Todo te
+caracterķstica de cualquiera de Sus naturalezas, todo eso es tuyo. Todo te
 
-pertenece a ti; se debe a un puro favor inmerecido, ms all de todo miedo de
+pertenece a ti; se debe a un puro favor inmerecido, mįs allį de todo miedo de
 
-revocacin, pero todo es traspasado a ti para que sea tu propiedad real, y eso
+revocación, pero todo es traspasado a ti para que sea tu propiedad real, y eso
 
 para siempre.
 
 2.
 
-Considera despus, creyente, que no solamente Cristo es tuyo en todos Sus
+Considera después, creyente, que no solamente Cristo es tuyo en todos Sus
 
 atributos, sino que es tuyo
 
@@ -258,97 +258,97 @@ oficios.
 
 Grandiosos y gloriosos son esos oficios; tenemos poco tiempo para
 
-mencionarlos todos. Es un profeta? Entonces es
+mencionarlos todos. æEs un profeta? Entonces es
 
 tu
 
-profeta. Es un sacerdote? Entonces es
+profeta. æEs un sacerdote? Entonces es
 
 tu
 
-sacerdote. Es un rey? Entonces es
+sacerdote. æEs un rey? Entonces es
 
 tu
 
-rey. Es un redentor? Entonces es
+rey. æEs un redentor? Entonces es
 
 tu
 
-redentor. Es un abogado? Entonces es
+redentor. æEs un abogado? Entonces es
 
 tu
 
-abogado. Es un precursor? Entonces es
+abogado. æEs un precursor? Entonces es
 
 tu
 
-precursor. Es una fianza del pacto? Entonces es
+precursor. æEs una fianza del pacto? Entonces es
 
 tu
 
 fianza. En cada nombre que lleva, en
 
-cada corona tiene, en cada vestidura que le cubre, l pertenece al creyente.
+cada corona tiene, en cada vestidura que le cubre, Él pertenece al creyente.
 
-Oh!, hijo de Dios,
+”Oh!, hijo de Dios,
 
-si tuvieras gracia para guardar este pensamiento en tu alma, te consolara
+si tuvieras gracia para guardar este pensamiento en tu alma, te consolarķa
 
-maravillosamente pensar que, en todo oficio que Cristo ejerce, l es
+maravillosamente pensar que, en todo oficio que Cristo ejerce, Él es
 
-ciertamente tuyo. Lo ves all, intercediendo delante de Su Padre, con Sus
+ciertamente tuyo. æLo ves allį, intercediendo delante de Su Padre, con Sus
 
-brazos extendidos? Observas Su efod, Su mitra de oro sobre Sus sienes, que
+brazos extendidos? æObservas Su efod, Su mitra de oro sobre Sus sienes, que
 
-muestra la inscripcin SANTIDAD A JEHOV? Le ves cuando alza Sus manos para
+muestra la inscripción SANTIDAD A JEHOVĮ? æLe ves cuando alza Sus manos para
 
-orar? No escuchas esa maravillosa intercesin, tal como nunca ningn hombre
+orar? æNo escuchas esa maravillosa intercesión, tal como nunca ningśn hombre
 
-or sobre la tierra; esa intercesin con autoridad tal como ni l mismo us en
+oró sobre la tierra; esa intercesión con autoridad tal como ni Él mismo usó en
 
-las agonas del huerto? Pues,
+las agonķas del huerto? Pues,
 
-Con suspiros y gemidos, elev
+Con suspiros y gemidos, elevó
 
-Su splica aqu abajo;
+Su sśplica aquķ abajo;
 
 Pero con autoridad intercede,
 
-Entronizado ahora en la gloria.
+Entronizado ahora en la gloria.
 
-Ves cmo pide y
+æVes cómo pide y
 
-cmo recibe, tan pronto como Su peticin es presentada? Y podras creer, te
+cómo recibe, tan pronto como Su petición es presentada? æY podrķas creer, te
 
-atreveras a creer que esa intercesin es toda tuya, que tu nombre est escrito
+atreverķas a creer que esa intercesión es toda tuya, que tu nombre estį escrito
 
-en Su pecho y que en Su corazn est estampado con seales de gracia indeleble,
+en Su pecho y que en Su corazón estį estampado con seńales de gracia indeleble,
 
-y que toda la majestad de esa maravillosa y excelente intercesin es tuya, y
+y que toda la majestad de esa maravillosa y excelente intercesión es tuya, y
 
-que toda ella sera utilizada en tu favor si as lo requirieras; que no tiene
+que toda ella serķa utilizada en tu favor si asķ lo requirieras; que no tiene
 
-ninguna autoridad con Su Padre que no usara a tu favor, si la necesitaras; que
+ninguna autoridad con Su Padre que no usarķa a tu favor, si la necesitaras; que
 
-no tiene poder de interceder que no empleara por ti en cualquier tiempo de
+no tiene poder de interceder que no emplearķa por ti en cualquier tiempo de
 
-necesidad? Vamos, las palabras no pueden expresar esto; son nicamente sus
+necesidad? Vamos, las palabras no pueden expresar esto; son śnicamente sus
 
-pensamientos los que pueden ensearles esto; nicamente Dios el Espritu Santo
+pensamientos los que pueden enseńarles esto; śnicamente Dios el Espķritu Santo
 
 es el que puede hacerles entender la verdad que ponga este pensamiento embelesador
 
-y arrobador en su propia posicin en su corazn; ese Cristo es suyo en todo lo
+y arrobador en su propia posición en su corazón; ese Cristo es suyo en todo lo
 
-que es y en todo lo que tiene. Lo ves en la tierra? All est, como sacerdote
+que es y en todo lo que tiene. æLo ves en la tierra? Allķ estį, como sacerdote
 
-ofreciendo Su sacrificio sangriento; mrale sobre el madero, Sus manos estn
+ofreciendo Su sacrificio sangriento; mķrale sobre el madero, ”Sus manos estįn
 
-traspasadas, Sus pies estn vertiendo sangre! Oh!, ves el plido semblante, y
+traspasadas, Sus pies estįn vertiendo sangre! ”Oh!, æves el pįlido semblante, y
 
-esos lnguidos ojos que desbordan compasin? Observas esa corona de espinas?
+esos lįnguidos ojos que desbordan compasión? æObservas esa corona de espinas?
 
-Contemplas el ms poderoso de los sacrificios, la suma y sustancia de todos
+æContemplas el mįs poderoso de los sacrificios, la suma y sustancia de todos
 
 ellos?
 
@@ -370,167 +370,167 @@ tu
 
 refugio, esas manos
 
-perforadas son tu redencin; ese gemido lo emite por ti; ese clamor de un
+perforadas son tu redención; ese gemido lo emite por ti; ese clamor de un
 
-corazn abandonado lo expresa por ti; esa muerte la muere por ti. Vamos, te lo
+corazón abandonado lo expresa por ti; esa muerte la muere por ti. Vamos, te lo
 
 suplico, considera a Cristo en cualquiera de Sus oficios; pero cuando lo
 
-consideres, ten en cuenta este pensamiento: que en todas estas cosas l es TU
+consideres, ten en cuenta este pensamiento: que en todas estas cosas Él es TU
 
-Cristo, dado a ti para ser un artculo en el pacto eterno: tu posesin para
+Cristo, dado a ti para ser un artķculo en el pacto eterno: tu posesión para
 
 siempre.
 
 3.
 
-Observa a continuacin que Cristo es del creyente en cada una de Sus
+Observa a continuación que Cristo es del creyente en cada una de Sus
 
 obras.
 
 Ya sean obras de sufrimiento o de
 
-deber, constituyen la propiedad del creyente. Cuando era un nio, fue
+deber, constituyen la propiedad del creyente. Cuando era un nińo, fue
 
-circuncidado, y ese rito sangriento es mo? S, Circuncidados en Cristo.
+circuncidado, y æese rito sangriento es mķo? Sķ, Circuncidados en Cristo.
 
-Como creyente es enterrado, y es mo ese signo lquido del bautismo? S; sepultados
+Como creyente es enterrado, y æes mķo ese signo lķquido del bautismo? Sķ; sepultados
 
-juntamente con l para muerte por el bautismo. Yo comparto el bautismo de
+juntamente con él para muerte por el bautismo. Yo comparto el bautismo de
 
-Jess cuando permanezco enterrado con mi mejor amigo en la mismsima tumba
+Jesśs cuando permanezco enterrado con mi mejor amigo en la mismķsima tumba
 
-lquida. Mira all, l muere, y morir es una obra suprema. Pero es ma Su
+lķquida. Mira allķ, Él muere, y morir es una obra suprema. Pero æes mķa Su
 
-muerte? S, yo muero en Cristo. l es enterrado, y es mo ese entierro? S, yo
+muerte? Sķ, yo muero en Cristo. Él es enterrado, y æes mķo ese entierro? Sķ, yo
 
-soy enterrado con Cristo. l resucita. Obsrvalo sorprendiendo a Sus guardas y
+soy enterrado con Cristo. Él resucita. ”Obsérvalo sorprendiendo a Sus guardas y
 
-levantndose de la tumba! Y es ma esa resurreccin? S, habemos resucitado
+levantįndose de la tumba! Y æes mķa esa resurrección? Sķ, habemos resucitado
 
-con Cristo. Fjense adems que l asciende a lo alto, y lleva cautiva a la
+con Cristo. Fķjense ademįs que Él asciende a lo alto, y lleva cautiva a la
 
-cautividad. Es ma esa ascensin? S, pues juntamente con l nos resucit.
+cautividad. æEs mķa esa ascensión? Sķ, pues juntamente con él nos resucitó.
 
-Y, miren, l se sienta sobre el trono de Su Padre; es mo ese acto? S,
+Y, miren, Él se sienta sobre el trono de Su Padre; æes mķo ese acto? Sķ,
 
-asimismo nos hizo sentar en los lugares celestiales. Todo lo que hizo es
+asimismo nos hizo sentar en los lugares celestiales. Todo lo que hizo es
 
-nuestro. Por decreto divino existi tal unin entre Cristo y Su pueblo que todo
+nuestro. Por decreto divino existió tal unión entre Cristo y Su pueblo que todo
 
-lo que Cristo hizo lo hizo Su pueblo: y todo lo que Cristo ha desempeado, Su
+lo que Cristo hizo lo hizo Su pueblo: y todo lo que Cristo ha desempeńado, Su
 
-pueblo lo desempe en l, pues estuvieron en Sus lomos cuando descendi a la
+pueblo lo desempeńó en Él, pues estuvieron en Sus lomos cuando descendió a la
 
-tumba, y en Sus lomos han ascendido a lo alto; con l entraron en la
+tumba, y en Sus lomos han ascendido a lo alto; con Él entraron en la
 
-bienaventuranza; y con l se sientan en los lugares celestiales. Representado
+bienaventuranza; y con Él se sientan en los lugares celestiales. Representado
 
-por l, su Cabeza, todo Su pueblo, incluso ahora, es glorificado en l, en l,
+por Él, su Cabeza, todo Su pueblo, incluso ahora, es glorificado en Él, en Él,
 
 que es la cabeza sobre todas las cosas para Su iglesia. En todos los hechos de
 
-Cristo, ya sea en Su humillacin o en Su exaltacin, recuerda, oh creyente, que
+Cristo, ya sea en Su humillación o en Su exaltación, recuerda, oh creyente, que
 
-tienes un inters en el pacto, y todas esas cosas son tuyas.
+tienes un interés en el pacto, y todas esas cosas son tuyas.
 
 4.
 
 Quiero sugerir por un instante un dulce pensamiento, y que es este: ustedes
 
-saben que en la persona de Cristo habita corporalmente
+saben que en la persona de Cristo habita corporalmente
 
 la plenitud de la Deidad
 
-. Ah!, creyente, de su plenitud tomamos
+. ”Ah!, creyente, de su plenitud tomamos
 
-todos, y gracia sobre gracia.
+todos, y gracia sobre gracia.
 
 Toda la
 
 plenitud de Cristo.
 
-Sabes lo que es eso? Entiendes esa frase? Te
+æSabes lo que es eso? æEntiendes esa frase? Te
 
-garantizo que t no lo sabes ni lo sabrs todava. Pero toda esa plenitud de
+garantizo que tś no lo sabes ni lo sabrįs todavķa. Pero toda esa plenitud de
 
-Cristo cuya abundancia podras adivinar por tu propio vaco, toda esa plenitud
+Cristo cuya abundancia podrķas adivinar por tu propio vacķo, toda esa plenitud
 
 es tuya para suplir tus necesidades multiplicadas. Toda la plenitud de Cristo
 
-para constreirte, para guardarte y preservarte; toda esa plenitud de poder, de
+para constreńirte, para guardarte y preservarte; toda esa plenitud de poder, de
 
-amor, de pureza, que est almacenada en la persona del Seor Jesucristo, es
+amor, de pureza, que estį almacenada en la persona del Seńor Jesucristo, es
 
-tuya. Has de atesorar este pensamiento, pues entonces tu vaco no necesita ser
+tuya. Has de atesorar este pensamiento, pues entonces tu vacķo no necesita ser
 
-nunca causa de temor; cmo puedes estar perdido cuando tienes toda la plenitud
+nunca causa de temor; æcómo puedes estar perdido cuando tienes toda la plenitud
 
 a la cual acudir?
 
 5.
 
-Pero llego a algo ms dulce que eso;
+Pero llego a algo mįs dulce que eso;
 
 la
 
 propia vida de Cristo
 
-es propiedad del creyente. Ah!, este es un
+es propiedad del creyente. ”Ah!, este es un
 
-pensamiento en el que no puedo adentrarme, y pienso que me he excedido al slo
+pensamiento en el que no puedo adentrarme, y pienso que me he excedido al sólo
 
-mencionarlo. La vida de Cristo es la propiedad de cada creyente. Puedes
+mencionarlo. La vida de Cristo es la propiedad de cada creyente. æPuedes
 
-concebir qu es la vida de Cristo? Seguro respondes- l la derram en el madero.
+concebir qué es la vida de Cristo? Seguro respondes- Él la derramó en el madero.
 
-As lo hizo, y fue Su vida la que te dio entonces. Pero l tom esa vida de
+Asķ lo hizo, y fue Su vida la que te dio entonces. Pero Él tomó esa vida de
 
 nuevo; incluso la vida de Su cuerpo fue restaurada; y la vida de Su grandiosa y
 
-gloriosa Deidad nunca sufri ningn cambio, incluso en aquel momento. Pero
+gloriosa Deidad nunca sufrió ningśn cambio, incluso en aquel momento. Pero
 
-ahora, tu sabes que tiene inmortalidad: el nico que tiene inmortalidad.
+ahora, tu sabes que tiene inmortalidad: el śnico que tiene inmortalidad.
 
-Podras concebir qu tipo de vida es la que Cristo posee? Puede morir alguna
+æPodrķas concebir qué tipo de vida es la que Cristo posee? æPuede morir alguna
 
-vez? No; primero seran acalladas las arpas del cielo y el coro de los
+vez? No; primero serķan acalladas las arpas del cielo y el coro de los
 
-redimidos cesara para siempre; primero se veran sacudidos los gloriosos muros
+redimidos cesarķa para siempre; primero se verķan sacudidos los gloriosos muros
 
-del paraso, y sus cimientos seran levantados antes que Cristo, el Hijo de
+del paraķso, y sus cimientos serķan levantados antes que Cristo, el Hijo de
 
-Dios, muriera jams. Inmortal como Su Padre, ahora est sentado en gloria, el
+Dios, muriera jamįs. Inmortal como Su Padre, ahora estį sentado en gloria, el
 
 Grandioso Ser Eterno.
 
 Cristiano, esa vida
 
-de Cristo es tuya. Escucha lo que dice: Porque yo vivo, vosotros tambin
+de Cristo es tuya. Escucha lo que dice: Porque yo vivo, vosotros también
 
-viviris. Habis muerto, y vuestra vida, dnde est?, est escondida con
+viviréis. Habéis muerto, y vuestra vida, ædónde estį?, estį escondida con
 
-Cristo en Dios. El mismo golpe que nos hiera hasta la muerte, ha de asesinar a
+Cristo en Dios. El mismo golpe que nos hiera hasta la muerte, ha de asesinar a
 
-Cristo tambin; la misma espada que pueda quitar la vida espiritual de un
+Cristo también; la misma espada que pueda quitar la vida espiritual de un
 
-hombre regenerado, debe quitar tambin la vida del Redentor; pues estn
+hombre regenerado, debe quitar también la vida del Redentor; pues estįn
 
-ntimamente vinculadas; no son dos vidas, sino una. Nosotros somos slo los
+ķntimamente vinculadas; no son dos vidas, sino una. Nosotros somos sólo los
 
 rayos del grandioso Sol de Justicia, nuestro Redentor, chispas que han de
 
 retornar de nuevo al grandioso astro. Si somos los verdaderos herederos del cielo,
 
-no podemos morir mientras Aquel de quien tomamos nuestra resurreccin, no muera
+no podemos morir mientras Aquel de quien tomamos nuestra resurrección, no muera
 
-tambin. Nosotros somos la corriente que no puede detenerse mientras la fuente
+también. Nosotros somos la corriente que no puede detenerse mientras la fuente
 
 no se seque; somos los rayos que no pueden cesar mientras el sol no cese de
 
-brillar. Nosotros somos los pmpanos, y no podemos marchitarnos mientras el
+brillar. Nosotros somos los pįmpanos, y no podemos marchitarnos mientras el
 
-tronco viva. Porque yo vivo, vosotros tambin viviris. La propia vida de
+tronco viva. Porque yo vivo, vosotros también viviréis. La propia vida de
 
 Cristo es la propiedad de cada uno de Sus hermanos.
 
@@ -544,53 +544,53 @@ de Jesucristo
 
 es la propiedad del cristiano. Amados, estoy persuadido de que
 
-pensamos muchsimo ms en los dones de Dios de lo que pensamos en Dios; y
+pensamos muchķsimo mįs en los dones de Dios de lo que pensamos en Dios; y
 
-predicamos muchsimo ms acerca de la influencia del Espritu Santo, de lo que
+predicamos muchķsimo mįs acerca de la influencia del Espķritu Santo, de lo que
 
-predicamos acerca del Espritu Santo. Y tengo tambin el convencimiento de que
+predicamos acerca del Espķritu Santo. Y tengo también el convencimiento de que
 
-hablamos muchsimo ms acerca de los oficios, y las obras y los atributos de
+hablamos muchķsimo mįs acerca de los oficios, y las obras y los atributos de
 
 Cristo de lo que lo hacemos acerca de la persona de Cristo. Por esto es que
 
-slo hay unos cuantos entre nosotros que pueden entender las figuras que son
+sólo hay unos cuantos entre nosotros que pueden entender las figuras que son
 
-utilizadas en el Cantar de Salomn, concernientes a la persona de Cristo, porque
+utilizadas en el Cantar de Salomón, concernientes a la persona de Cristo, porque
 
 muy pocas veces hemos procurado verle o hemos deseado conocerle.
 
 Pero, oh creyente,
 
-t has sido capaz algunas veces de contemplar a tu Seor. No le has visto
+tś has sido capaz algunas veces de contemplar a tu Seńor. æNo le has visto
 
-a l,
+a Él,
 
-que es blanco y rubio, sealado
+que es blanco y rubio, seńalado
 
-entre diez mil y todo l codiciable? No has estado algunas veces perdido en
+entre diez mil y todo él codiciable? æNo has estado algunas veces perdido en
 
 el placer cuando has visto Sus pies, que son muy semejantes al oro fino, como
 
-si ardieran en un horno? No le has contemplado en el doble carcter, el blanco
+si ardieran en un horno? æNo le has contemplado en el doble carįcter, el blanco
 
 y el rojo, el lirio y la rosa, el Dios y sin embargo el hombre, agonizante y
 
-sin embargo viviente; perfecto, y sin embargo ostentando en l un cuerpo de
+sin embargo viviente; perfecto, y sin embargo ostentando en Él un cuerpo de
 
-muerte? Has contemplado alguna vez a ese Seor con la sea de los clavos en
+muerte? æHas contemplado alguna vez a ese Seńor con la seńa de los clavos en
 
-Sus manos y la marca todava en Su costado? No te has quedado extasiado ante
+Sus manos y la marca todavķa en Su costado? æNo te has quedado extasiado ante
 
-Su sonrisa amorosa, y no has sido deleitado por Su voz? Nunca has recibido Sus
+Su sonrisa amorosa, y no has sido deleitado por Su voz? æNunca has recibido Sus
 
-visitas de amor? No ha puesto nunca Su estandarte sobre ti? Nunca has
+visitas de amor? æNo ha puesto nunca Su estandarte sobre ti? æNunca has
 
-caminado con l hasta las aldeas y hasta el huerto de los nogales? Nunca te
+caminado con Él hasta las aldeas y hasta el huerto de los nogales? æNunca te
 
-has sentado bajo Su sombra? Nunca has descubierto que Su fruto es dulce para
+has sentado bajo Su sombra? æNunca has descubierto que Su fruto es dulce para
 
-tu paladar? S, lo has hecho. Su
+tu paladar? Sķ, lo has hecho. Su
 
 persona,
 
@@ -606,7 +606,7 @@ Lo mismo sucede con
 
 el creyente: bendice a Cristo por todo lo que hace y por todo lo que es. Pero,
 
-oh!, Cristo es todo. A l no le importa tanto lo concerniente a Su oficio,
+”oh!, Cristo es todo. A él no le importa tanto lo concerniente a Su oficio,
 
 sino lo que le importa es lo concerniente
 
@@ -616,15 +616,15 @@ Hombre
 
 Cristo. Mira al hijo sobre las rodillas de su padre; el padre es un
 
-catedrtico de la universidad; es un gran hombre con muchos ttulos, y tal vez
+catedrįtico de la universidad; es un gran hombre con muchos tķtulos, y tal vez
 
-el hijo sepa que esos son ttulos honrosos, y estime a su padre por ellos; pero
+el hijo sepa que esos son tķtulos honrosos, y estime a su padre por ellos; pero
 
-a l no le importa el asunto de la ctedra y la dignidad del padre, como la
+a él no le importa el asunto de la cįtedra y la dignidad del padre, como la
 
 persona de su padre. No es el birrete de la universidad ni la toga lo que ama
 
-el muchacho; ay, y si es un hijo amoroso, no ser tanto el alimento que el
+el muchacho; ay, y si es un hijo amoroso, no serį tanto el alimento que el
 
 padre provea, o la casa en que viva, sino el padre al que ama; es su amada
 
@@ -634,67 +634,69 @@ Estoy seguro de que
 
 lo mismo sucede con ustedes, si conocen a su Salvador; aman Sus misericordias,
 
-aman Sus oficios, aman Sus obras, pero, oh!, aman ms a Su persona.
+aman Sus oficios, aman Sus obras, pero, ”oh!, aman mįs a Su persona.
 
 Reflexionen, entonces, en que la persona de Cristo es transferida a ustedes en
 
-el pacto: Te dar por pacto al pueblo.
+el pacto: Te daré por pacto al pueblo.
 
 II.
 
-Ahora llegamos al segundo punto: CON QU PROPSITO DIOS PONE A CRISTO EN
+Ahora llegamos al segundo punto: æCON QUÉ PROPÓSITO DIOS PONE A CRISTO EN
 
 EL PACTO?
 
 1.
 
-Bien, en primer lugar, Cristo est en el pacto
+Bien, en primer lugar, Cristo estį en el pacto
 
 para consolar a cada pecador que viene.
 
-Oh, -dice el pecador que
+Oh, -dice el pecador que
 
-est viniendo a Dios- yo no puedo asirme a un grandioso pacto como ese, no
+estį viniendo a Dios- yo no puedo asirme a un grandioso pacto como ese, no
 
-puedo creer que el cielo sea provisto para m, no puedo concebir que ese manto
+puedo creer que el cielo sea provisto para mķ, no puedo concebir que ese manto
 
 de justicia y todas esas cosas maravillosas puedan ser aplicadas a un ser tan
 
-vil como yo. Aqu interviene el pensamiento de que Cristo est en el pacto.
+vil como yo. Aquķ interviene el pensamiento de que Cristo estį en el pacto.
 
-Pecador, puedes aferrarte a Cristo?
+Pecador, æpuedes aferrarte a Cristo?
+
+æ
 
 Puedes decir:
 
-Nada en mis manos traigo,
+Nada en mis manos traigo,
 
-Simplemente a Tu cruz me aferro
+Simplemente a Tu cruz me aferro
 
 ?
 
 Bien, si tienes eso,
 
-fue puesto a propsito para que te aferres a eso. Las misericordias del pacto
+fue puesto a propósito para que te aferres a eso. Las misericordias del pacto
 
 de Dios van todas juntas, y si te has asido de Cristo, has ganado todas las
 
 bendiciones del pacto. Esa es una de las razones por las que Cristo fue puesto
 
-all. Vamos, si Cristo no estuviera all, el pobre pecador dira: no me atrevo
+allķ. Vamos, si Cristo no estuviera allķ, el pobre pecador dirķa: no me atrevo
 
 a asirme a esa misericordia. Es semejante a Dios y es divina, pero no me atrevo
 
-a aferrarme a ella; es demasiado buena para m. No puedo recibirla, mi fe se
+a aferrarme a ella; es demasiado buena para mķ. No puedo recibirla, mi fe se
 
-tambalea. Pero ve a Cristo en el pacto con toda Su grandiosa expiacin; y
+tambalea. Pero ve a Cristo en el pacto con toda Su grandiosa expiación; y
 
 Cristo le mira tan amorosamente, y extiende Sus brazos tan ampliamente,
 
-diciendo: Venid a m todos los que estis trabajados y cargados, y yo os har
+diciendo: Venid a mķ todos los que estįis trabajados y cargados, y yo os haré
 
-descansar, que el pecador viene y abraza a Cristo, y luego Cristo le susurra:
+descansar, que el pecador viene y abraza a Cristo, y luego Cristo le susurra:
 
-Pecador, al asirte a M, has conseguido todo. Vamos, Seor, no me atrevo a
+Pecador, al asirte a Mķ, has conseguido todo. Vamos, Seńor, no me atrevo a
 
 pensar que pudiera recibir las otras misericordias. Me atrevo a confiar en Ti,
 
@@ -702,229 +704,229 @@ pero no me atrevo a tomar las otras misericordias.
 
 Ah, pecador, pero al
 
-tomarme a M lo has tomado todo, pues las misericordias del pacto son como los
+tomarme a Mķ lo has tomado todo, pues las misericordias del pacto son como los
 
-eslabones de una cadena. Este eslabn en particular es seductor. El pecador se
+eslabones de una cadena. Este eslabón en particular es seductor. El pecador se
 
-aferra a l; y Dios lo ha puesto all a propsito para motivar al pecador a que
+aferra a él; y Dios lo ha puesto allķ a propósito para motivar al pecador a que
 
 venga y reciba las misericordias del pacto. Pues una vez que se ha asido de
 
-Cristo all est el consuelo- tiene todo lo que el pacto puede dar.
+Cristo allķ estį el consuelo- tiene todo lo que el pacto puede dar.
 
 2.
 
-Cristo es puesto tambin
+Cristo es puesto también
 
 para
 
 confirmar al santo que duda.
 
-En algunas ocasiones l no puede leer su
+En algunas ocasiones él no puede leer su
 
-inters en el pacto. No puede ver su porcin entre aquellos que son
+interés en el pacto. No puede ver su porción entre aquellos que son
 
 santificados. Tiene miedo de que Dios no sea
 
 su
 
-Dios, de que el Espritu no tenga ningn trato con
+Dios, de que el Espķritu no tenga ningśn trato con
 
 su
 
 alma; pero entonces,
 
-En medio de las tentaciones agudas y potentes,
+En medio de las tentaciones agudas y potentes,
 
 Su alma vuela a
 
 ese amado refugio;
 
-La esperanza es su ancla, firme y slida,
+La esperanza es su ancla, firme y sólida,
 
-Cuando la tempestad ruge y las olas golpean.
+Cuando la tempestad ruge y las olas golpean.
 
 Entonces se aferra a
 
-Cristo, y si no fuera por eso, incluso el creyente no se atrevera a venir del
+Cristo, y si no fuera por eso, incluso el creyente no se atreverķa a venir del
 
-todo. No se podra aferrar a ninguna otra misericordia sino a aquella con la
+todo. No se podrķa aferrar a ninguna otra misericordia sino a aquella con la
 
-que Cristo est conectado. Ah, -dice- yo s que soy un pecador, y Cristo
+que Cristo esté conectado. Ah, -dice- yo sé que soy un pecador, y Cristo
 
-vino para salvar a los pecadores. As que se aferra firmemente a Cristo.
+vino para salvar a los pecadores. Asķ que se aferra firmemente a Cristo.
 
-Puedo asirme aqu, -dice- mi negras manos no van manchar a Cristo, mi
+Puedo asirme aquķ, -dice- mi negras manos no van manchar a Cristo, mi
 
-inmundicia no lo har a l inmundo. Entonces el santo se sujeta firmemente a
+inmundicia no lo harį a Él inmundo. Entonces el santo se sujeta firmemente a
 
-Cristo, tan firmemente como si fuera la crispacin agnica de un hombre que se
+Cristo, tan firmemente como si fuera la crispación agónica de un hombre que se
 
-est ahogando. Y qu pasa entonces? Pues que tiene cada una de las
+estį ahogando. æY qué pasa entonces? Pues que tiene cada una de las
 
-misericordias del pacto en su mano. Ha sido sabidura de Dios haber puesto a
+misericordias del pacto en su mano. Ha sido sabidurķa de Dios haber puesto a
 
-Cristo en el pacto, para que un pobre pecador, que podra tener miedo de asirse
+Cristo en el pacto, para que un pobre pecador, que podrķa tener miedo de asirse
 
-a alguien ms, conociendo la naturaleza misericordiosa de Cristo, no tenga
+a alguien mįs, conociendo la naturaleza misericordiosa de Cristo, no tenga
 
-miedo de asirse a l, y all se aferre al todo, aunque muy a menudo de manera
+miedo de asirse a Él, y allķ se aferre al todo, aunque muy a menudo de manera
 
-inconsciente para l.
+inconsciente para él.
 
 3.
 
-Adems, era necesario que Cristo estuviera en el pacto, porque
+Ademįs, era necesario que Cristo estuviera en el pacto, porque
 
-hay muchas cosas all que no seran nada sin
+hay muchas cosas allķ que no serķan nada sin
 
-l.
+Él.
 
-Nuestra grandiosa redencin est en el pacto, pero no tenemos ninguna
+Nuestra grandiosa redención estį en el pacto, pero no tenemos ninguna
 
-redencin excepto por medio de
+redención excepto por medio de
 
 Su sangre.
 
-Es cierto que mi justicia est en el pacto, pero no puedo tener ninguna
+Es cierto que mi justicia estį en el pacto, pero no puedo tener ninguna
 
 justicia aparte de la justicia que Cristo ha obrado, y que me es imputada por
 
-Dios. Es muy cierto que mi perfeccin eterna est en el pacto, pero los
+Dios. Es muy cierto que mi perfección eterna estį en el pacto, pero los
 
-elegidos slo son perfectos en Cristo. Ellos no son perfectos en s mismos, ni
+elegidos sólo son perfectos en Cristo. Ellos no son perfectos en sķ mismos, ni
 
-lo sern jams, hasta no ser lavados y santificados y perfeccionados por el
+lo serįn jamįs, hasta no ser lavados y santificados y perfeccionados por el
 
-Espritu Santo. E incluso en el cielo su perfeccin consiste no tanto en su
+Espķritu Santo. E incluso en el cielo su perfección consiste no tanto en su
 
-santificacin, como en su justificacin en Cristo.
+santificación, como en su justificación en Cristo.
 
-Su belleza es sta: su glorioso vestido,
+Su belleza es ésta: su glorioso vestido,
 
-Jess el Seor su justicia.
+Jesśs el Seńor su justicia.
 
 De hecho, si sacaran
 
-a Cristo del pacto, habran hecho lo mismo que si hubieran roto el cordn de un
+a Cristo del pacto, habrķan hecho lo mismo que si hubieran roto el cordón de un
 
-collar: todas las joyas, o cuentas, o corales, se caeran y se separaran unos
+collar: todas las joyas, o cuentas, o corales, se caerķan y se separarķan unos
 
-de otros. Cristo es el cordn de oro donde se engarzan las misericordias del
+de otros. Cristo es el cordón de oro donde se engarzan las misericordias del
 
-pacto, y cuando te sujetas a l, has obtenido todo el conjunto de las perlas.
+pacto, y cuando te sujetas a Él, has obtenido todo el conjunto de las perlas.
 
-Pero si Cristo fuese sacado, es cierto que habra perlas, pero no podramos
+Pero si Cristo fuese sacado, es cierto que habrķa perlas, pero no podrķamos
 
-usarlas ni podramos asirlas; estn separadas, y la pobre fe no puede saber
+usarlas ni podrķamos asirlas; estįn separadas, y la pobre fe no puede saber
 
-nunca cmo asirlas. Oh, que Cristo est en el pacto es una misericordia que
+nunca cómo asirlas. Oh, que Cristo esté en el pacto es una misericordia que
 
 vale mundos.
 
 4.
 
-Pero observen, adems, tal como les dije cuando prediqu en lo tocante a
+Pero observen, ademįs, tal como les dije cuando prediqué en lo tocante a
 
-Dios en el pacto, que Cristo est en el pacto
+Dios en el pacto, que Cristo estį en el pacto
 
 para ser usado.
 
 Dios nunca da a Sus hijos una promesa que no tenga
 
-el propsito de que la usen. Hay algunas promesas en la Biblia que no he usado
+el propósito de que la usen. Hay algunas promesas en la Biblia que no he usado
 
-todava; pero estoy muy convencido de que vendrn tiempos de afliccin y
+todavķa; pero estoy muy convencido de que vendrįn tiempos de aflicción y
 
-tribulacin cuando encontrar que esa pobre promesa despreciada, que yo pensaba
+tribulación cuando encontraré que esa pobre promesa despreciada, que yo pensaba
 
-que no estaba dirigida a m, ser la nica sobre la que pueda flotar. S que
+que no estaba dirigida a mķ, serį la śnica sobre la que pueda flotar. Sé que
 
-viene el tiempo cuando cada creyente conocer el valor de cada promesa del
+viene el tiempo cuando cada creyente conocerį el valor de cada promesa del
 
 pacto. Dios no le ha dado al creyente ninguna parte de una herencia que no haya
 
-tenido la intencin de que la cultive. Cristo nos es dado para que lo utilicemos.
+tenido la intención de que la cultive. Cristo nos es dado para que lo utilicemos.
 
-Creyente, recurre a
+”Creyente, recurre a
 
-l! Te dir de nuevo como te dije antes, que t no recurres a Cristo como
+Él! Te diré de nuevo como te dije antes, que tś no recurres a Cristo como
 
-deberas hacerlo. Vamos, hombre, cuando ests en problemas, por qu no vas y
+deberķas hacerlo. Vamos, hombre, cuando estįs en problemas, æpor qué no vas y
 
-se lo cuentas? Acaso no tiene un corazn compasivo, y acaso no puede l
+se lo cuentas? æAcaso no tiene un corazón compasivo, y acaso no puede Él
 
 consolarte y aliviarte? No, andas correteando a todos tus amigos salvo a tu
 
 mejor amigo, y andas contando tu historia por todas partes excepto en el pecho
 
-de tu Seor. Oh, recurre a l, recurre a l. Ests negro con los pecados de
+de tu Seńor. Oh, recurre a Él, recurre a Él. æEstįs negro con los pecados de
 
-ayer? Aqu est una fuente llena de sangre; sala, santo, sala. Ha regresado
+ayer? Aquķ estį una fuente llena de sangre; śsala, santo, śsala. æHa regresado
 
-otra vez tu culpa? Bien, Su poder ha sido comprobado una y otra vez; v y
+otra vez tu culpa? Bien, Su poder ha sido comprobado una y otra vez; ”vé y
 
-recurre a l! Recurre a l! Te sientes desnudo? Ven aqu, alma, ponte el
+recurre a Él! ”Recurre a Él! æTe sientes desnudo? Ven aquķ, alma, ponte el
 
-vestido. No te quedes vindolo; pntelo. Desvstete, amigo, desvstete de tu
+vestido. No te quedes viéndolo; póntelo. Desvķstete, amigo, desvķstete de tu
 
-propia justicia, y tambin de tus propios miedos. Ponte este manto, y salo,
+propia justicia, y también de tus propios miedos. Ponte este manto, y śsalo,
 
-pues fue diseado para
+pues fue diseńado para
 
 vestirlo.
 
-Te
+æTe
 
-sientes enfermo? Cmo, no quieres ir y tocar la campana nocturna de la
+sientes enfermo? Cómo, æno quieres ir y tocar la campana nocturna de la
 
-oracin, y despertar al mdico? Te suplico que vayas y lo despiertes temprano y
+oración, y despertar al médico? Te suplico que vayas y lo despiertes temprano y
 
-l te dar el cordial que te revivir. Cmo, ests enfermo, con ese mdico en la
+Él te darį el cordial que te revivirį. Cómo, æestįs enfermo, con ese médico en la
 
 puerta vecina, un pronto auxilio en las tribulaciones, y no quieres acudir a
 
-l? Oh, recuerda que t eres pobre, pero tambin recuerda que t tienes un
+Él? Oh, recuerda que tś eres pobre, pero también recuerda que tś tienes un
 
-pariente hombre rico de la familia. Cmo, no quieres acudir a l para
+pariente hombre rico de la familia. Cómo, æno quieres acudir a Él para
 
-pedirle que te d de Su abundancia, aunque te ha dado esta promesa: que en
+pedirle que te dé de Su abundancia, aunque te ha dado esta promesa: que en
 
-tanto que l posea algo t participars de ello, pues todo lo que l es y todo
+tanto que Él posea algo tś participarįs de ello, pues todo lo que Él es y todo
 
-lo que l tiene, es tuyo?
+lo que Él tiene, es tuyo?
 
 Oh, creyente,
 
-recurre a Cristo, te lo suplico. No hay nada que le desagrade ms a Cristo que
+recurre a Cristo, te lo suplico. No hay nada que le desagrade mįs a Cristo que
 
-Su pueblo lo exhiba pero que no recurra a l. A l le agrada que se le pidan
+Su pueblo lo exhiba pero que no recurra a Él. A Él le agrada que se le pidan
 
-trabajos. l es un gran obrero; siempre lo fue para Su Padre y ahora le agrada
+trabajos. Él es un gran obrero; siempre lo fue para Su Padre y ahora le agrada
 
-ser un gran obrero para Sus hermanos. Entre ms cargas pongan sobre Sus hombros,
+ser un gran obrero para Sus hermanos. Entre mįs cargas pongan sobre Sus hombros,
 
-los amar ms. Pongan su carga sobre l. Nunca conocern tan bien la simpata
+los amarį mįs. Pongan su carga sobre Él. Nunca conocerįn tan bien la simpatķa
 
-del corazn de Cristo y el amor de Su alma, como cuando hubieren transferido a
+del corazón de Cristo y el amor de Su alma, como cuando hubieren transferido a
 
-Sus hombros una verdadera montaa de aflicciones que estaba sobre ustedes, y
+Sus hombros una verdadera montańa de aflicciones que estaba sobre ustedes, y
 
-descubran que l no se tambalea bajo el peso. Son sus aflicciones como
+descubran que Él no se tambalea bajo el peso. æSon sus aflicciones como
 
-gigantescas montaas de nieve sobre su espritu? Ordnenles que rueden y
+gigantescas montańas de nieve sobre su espķritu? Ordénenles que rueden y
 
-retumben como una avalancha hacia los hombros del Todopoderoso Cristo. l puede
+retumben como una avalancha hacia los hombros del Todopoderoso Cristo. Él puede
 
-llevrselas y transportarlas a lo profundo del mar. Recurre a tu Seor, pues
+llevįrselas y transportarlas a lo profundo del mar. Recurre a tu Seńor, pues
 
-para este preciso propsito fue puesto en el pacto, para que recurras a l
+para este preciso propósito fue puesto en el pacto, para que recurras a Él
 
 siempre que lo necesites.
 
 III.
 
-Ahora, por ltimo, aqu hay un PRECEPTO, y cul habra de ser el precepto?
+Ahora, por śltimo, aquķ hay un PRECEPTO, y æcuįl habrķa de ser el precepto?
 
 Cristo es nuestro; entonces
 
@@ -936,67 +938,67 @@ amados. Ustedes saben muy bien que
 
 son
 
-de Cristo. Son Suyos por la donacin del Padre cuando los
+de Cristo. Son Suyos por la donación del Padre cuando los
 
-entreg a ustedes al Hijo. Son Suyos por Su compra sangrienta cuando cont el
+entregó a ustedes al Hijo. Son Suyos por Su compra sangrienta cuando contó el
 
-precio para la redencin de ustedes. Son Suyos por dedicacin, pues ustedes se
+precio para la redención de ustedes. Son Suyos por dedicación, pues ustedes se
 
-han entregado a l. Son Suyos por adopcin, pues son llevados a l y
+han entregado a Él. Son Suyos por adopción, pues son llevados a Él y
 
-convertidos en Sus hermanos y coherederos con l. Yo les suplico, amados
+convertidos en Sus hermanos y coherederos con Él. Yo les suplico, amados
 
-hermanos, que laboren para mostrarle al mundo que le pertenecen en la prctica.
+hermanos, que laboren para mostrarle al mundo que le pertenecen en la prįctica.
 
-Cuando sean tentados a pecar, repliquen: No puedo hacer este grande mal. No
+Cuando sean tentados a pecar, repliquen: No puedo hacer este grande mal. No
 
-puedo, pues le pertenezco a Cristo. Cuando est puesta frente a ti una riqueza
+puedo, pues le pertenezco a Cristo. Cuando esté puesta frente a ti una riqueza
 
-que puede ser ganada pecando, no la toques; di que t eres de Cristo; si no
+que puede ser ganada pecando, no la toques; di que tś eres de Cristo; si no
 
-fuera as, lo haras, pero ahora no puedes tomarla. Dile a Satans que t no
+fuera asķ, lo harķas, pero ahora no puedes tomarla. Dile a Satanįs que tś no
 
-ganaras el mundo si tuvieras que amar menos a Cristo. Ests expuesto en el
+ganarķas el mundo si tuvieras que amar menos a Cristo. æEstįs expuesto en el
 
-mundo a dificultades y peligros? Resiste en el da malo, recordando que t le
+mundo a dificultades y peligros? Resiste en el dķa malo, recordando que tś le
 
-perteneces a Cristo. Ests en un campo en donde hay mucho por hacer, y otros
+perteneces a Cristo. æEstįs en un campo en donde hay mucho por hacer, y otros
 
-permanecen sentados ociosa y perezosamente, sin hacer nada? Dedcate a tu
+permanecen sentados ociosa y perezosamente, sin hacer nada? Dedķcate a tu
 
-tarea, y cuando el sudor bae tu frente y se te pida que te detengas, responde:
+tarea, y cuando el sudor bańe tu frente y se te pida que te detengas, responde:
 
-No, no puedo detenerme; yo le pertenezco a Cristo. l tuvo un bautismo con el
+No, no puedo detenerme; yo le pertenezco a Cristo. Él tuvo un bautismo con el
 
-que deba ser bautizado, y yo tambin, y me veo presionado hasta que sea
+que debķa ser bautizado, y yo también, y me veo presionado hasta que sea
 
 terminado. Yo soy de Cristo. Si yo no fuera de Cristo, y no fuera comprado por
 
-sangre, podra ser como Isacar: asno fuerte que se recuesta entre los apriscos;
+sangre, podrķa ser como Isacar: asno fuerte que se recuesta entre los apriscos;
 
-pero yo soy de Cristo. Cuando el canto de la sirena del placer quiera
+pero yo soy de Cristo. Cuando el canto de la sirena del placer quiera
 
-apartarte del sendero de la rectitud, respndele: Acalla tus provocaciones, oh
+apartarte del sendero de la rectitud, respóndele: Acalla tus provocaciones, oh
 
-tentadora; yo soy de Cristo. Tu msica no puede afectarme; yo no me pertenezco
+tentadora; yo soy de Cristo. Tu mśsica no puede afectarme; yo no me pertenezco
 
-pues he sido comprado por un precio. Cuando la causa de Dios te necesite,
+pues he sido comprado por un precio. Cuando la causa de Dios te necesite,
 
-entrgate a ella, pues t eres de Cristo. Cuando los pobres te necesiten, date
+entrégate a ella, pues tś eres de Cristo. Cuando los pobres te necesiten, date
 
-a ellos, pues t eres de Cristo. Cuando, en cualquier momento, haya algo que
+a ellos, pues tś eres de Cristo. Cuando, en cualquier momento, haya algo que
 
 deba hacerse para Su iglesia y para Su cruz, hazlo, recordando que le
 
-perteneces a Cristo. Te suplico que nunca falsees tu profesin. No vayas donde
+perteneces a Cristo. Te suplico que nunca falsees tu profesión. No vayas donde
 
-otros puedan decir de ti: ese no puede pertenecerle a Cristo; sino s siempre
+otros puedan decir de ti: ese no puede pertenecerle a Cristo; sino sé siempre
 
 uno de aquellos cuya forma de hablar sea cristiana, cuyo idioma mismo sea
 
-semejante a Cristo, cuya conducta y conversacin sean tan fragantes para el
+semejante a Cristo, cuya conducta y conversación sean tan fragantes para el
 
-cielo, que todos los que te vean puedan saber que t le perteneces al Salvador
+cielo, que todos los que te vean puedan saber que tś le perteneces al Salvador
 
 y puedan reconocer en ti Sus rasgos y Su hermoso semblante.
 
@@ -1006,9 +1008,9 @@ queridos oyentes, debo decir una palabra a aquellos de ustedes a quienes no les
 
 he predicado, pues hay algunos que nunca se han asido al pacto. A veces escucho
 
-el susurro y algunas veces leo que hay hombres que confan en las misericordias
+el susurro y algunas veces leo que hay hombres que confķan en las misericordias
 
-no pactadas de Dios. Permtanme asegurarles solemnemente que
+no pactadas de Dios. Permķtanme asegurarles solemnemente que
 
 ahora
 
@@ -1016,167 +1018,167 @@ no hay tal cosa en el cielo como
 
 las misericordias no pactadas; no hay tal cosa bajo el cielo de Dios ni por
 
-encima de l, como una gracia no pactada para con los hombres. Todo lo que
+encima de él, como una gracia no pactada para con los hombres. Todo lo que
 
-pudieran recibir y todo lo que pudieran esperar jams, debe ser a travs del
+pudieran recibir y todo lo que pudieran esperar jamįs, debe ser a través del
 
-pacto de la gracia inmerecida, y solamente a travs de ese pacto.
+pacto de la gracia inmerecida, y solamente a través de ese pacto.
 
-Tal vez t, pobre
+Tal vez tś, pobre
 
-pecador convencido, no te atrevas a asirte del pacto hoy. T no puedes decir
+pecador convencido, no te atrevas a asirte del pacto hoy. Tś no puedes decir
 
-que el pacto es tuyo. Tienes miedo de que no sea nunca tuyo; t eres tan
+que el pacto es tuyo. Tienes miedo de que no sea nunca tuyo; tś eres tan
 
-indigno y vil. Pon atencin; puedes asirte de Cristo? Te atreveras a hacer
+indigno y vil. Pon atención; æpuedes asirte de Cristo? æTe atreverķas a hacer
 
-eso? Oh  dices- yo soy demasiado indigno. Es ms, alma, te atreveras a
+eso? Oh  dices- yo soy demasiado indigno. Es mįs, alma, æte atreverķas a
 
-tocar el borde de Su vestido hoy? Te atreveras a acercarte a l lo suficiente
+tocar el borde de Su vestido hoy? æTe atreverķas a acercarte a Él lo suficiente
 
-como para tocar la parte de Su vestido que se arrastra sobre el suelo? No
+como para tocar la parte de Su vestido que se arrastra sobre el suelo? No
 
-respondes- no me atrevo. Por qu no, pobre alma, por qu no? No puedes
+respondes- no me atrevo. æPor qué no, pobre alma, por qué no? æNo puedes
 
 confiar en Cristo?
 
-No son Sus misericordias abundantes y gratuitas?
+æNo son Sus misericordias abundantes y gratuitas?
 
-Entonces di, pobre alma, por qu no son para ti.
+Entonces di, pobre alma, por qué no son para ti.
 
-No me atrevo a venir; soy tan indigno,
+No me atrevo a venir; soy tan indigno,
 
-afirmas. Escucha, entonces: mi Seor te invita a que vengas, y tendrs
+afirmas. Escucha, entonces: mi Seńor te invita a que vengas, y ætendrįs
 
-miedo despus de eso? Venid a m todos los que estis trabajados y cargados, y
+miedo después de eso? Venid a mķ todos los que estįis trabajados y cargados, y
 
-yo os har descansar. Palabra fiel y digna de ser recibida por todos: que
+yo os haré descansar. Palabra fiel y digna de ser recibida por todos: que
 
-Cristo Jess vino al mundo para salvar a los pecadores. Por qu no te atreves
+Cristo Jesśs vino al mundo para salvar a los pecadores. æPor qué no te atreves
 
-a venir a Cristo? Oh, tienes miedo de que te eche fuera! Escucha atentamente,
+a venir a Cristo? ”Oh, tienes miedo de que te eche fuera! Escucha atentamente,
 
-entonces, lo que dice: Al que a m viene, no le echo fuera. T dices:
+entonces, lo que dice: Al que a mķ viene, no le echo fuera. Tś dices:
 
-yo s que me echara fuera.
+yo sé que me echarķa fuera.
 
 Ven,
 
-entonces, y ve si puedes demostrar que es un mentiroso. Yo s que no podras,
+entonces, y ve si puedes demostrar que es un mentiroso. Yo sé que no podrķas,
 
-pero ven e intntalo. l ha dicho: Al que a m viene.
+pero ven e inténtalo. Él ha dicho: Al que a mķ viene.
 
-Pero yo soy el ms negro.
+Pero yo soy el mįs negro.
 
-Sin embargo, l ha dicho: Al que a m
+Sin embargo, Él ha dicho: Al que a mķ
 
-viene; ven t, que eres el ms negro de los negros pecadores.
+viene; ven tś, que eres el mįs negro de los negros pecadores.
 
-Oh, pero yo soy inmundo.
+Oh, pero yo soy inmundo.
 
-Ven t, que
+Ven tś, que
 
-eres inmundo, ven y prubalo, ven y haz el intento; recuerda que ha dicho que
+eres inmundo, ven y pruébalo, ven y haz el intento; recuerda que ha dicho que
 
-no echar fuera a nadie que venga a l por fe. Ven y comprubalo. Yo no te pido
+no echarį fuera a nadie que venga a Él por fe. Ven y compruébalo. Yo no te pido
 
-que te aferres al pacto entero, pues eso lo hars poco a poco; pero afrrate a
+que te aferres al pacto entero, pues eso lo harįs poco a poco; pero aférrate a
 
-Cristo, y si hicieras eso, entonces t tendras el pacto.
+Cristo, y si hicieras eso, entonces tś tendrķas el pacto.
 
-Oh, no puedo aferrarme a l,
+Oh, no puedo aferrarme a Él,
 
 dice una pobre alma. Bien, entonces,
 
-qudate postrado a Sus pies, y pdele que te sujete a
+quédate postrado a Sus pies, y pķdele que te sujete a
 
 ti.
 
-Gime un gemido y di: Dios, s propicio a m, pecador. Suspira
+Gime un gemido y di: Dios, sé propicio a mķ, pecador. Suspira
 
-un suspiro, y di: Seor, slvame! Deja que tu corazn lo diga, si tus labios
+un suspiro, y di: ”Seńor, sįlvame! Deja que tu corazón lo diga, si tus labios
 
 no pueden hacerlo. Si el dolor, largamente sofocado, arde como una llama dentro
 
-de tus huesos, deja salir por lo menos una chispa. Ahora, di una oracin, y en
+de tus huesos, deja salir por lo menos una chispa. Ahora, di una oración, y en
 
-verdad te digo que una sincera oracin demostrar con suma certeza que l te
+verdad te digo que una sincera oración demostrarį con suma certeza que Él te
 
-salvar. Un verdadero gemido, cuando Dios lo ha puesto en el corazn, es un
+salvarį. Un verdadero gemido, cuando Dios lo ha puesto en el corazón, es un
 
-sello de Su amor; un verdadero anhelo de Cristo, si es seguido por una bsqueda
+sello de Su amor; un verdadero anhelo de Cristo, si es seguido por una bśsqueda
 
-sincera y denodada de l, ser aceptada por Dios, y sers salvo. Ven, alma, una
+sincera y denodada de Él, serį aceptada por Dios, y serįs salvo. Ven, alma, una
 
-vez ms. Afrrate a Cristo.
+vez mįs. Aférrate a Cristo.
 
-Oh, pero no
+Oh, pero no
 
-me atrevo a hacerlo.
+me atrevo a hacerlo.
 
 Ahora estaba a punto de decir algo necio; iba a decir
 
 que
 
-yo deseara
+yo desearķa
 
-ser un pecador como t
+ser un pecador como tś
 
-mismo en este instante, y pienso que yo correra adelante y me aferrara a
+mismo en este instante, y pienso que yo correrķa adelante y me aferrarķa a
 
-Cristo, y luego te dira: afrrate t tambin. Pero
+Cristo, y luego te dirķa: aférrate tś también. Pero
 
 yo soy
 
-un pecador como t mismo, y no soy mejor que t; no tengo
+un pecador como tś mismo, y no soy mejor que tś; no tengo
 
-ningn mrito, ninguna justicia, no tengo obras; yo sera condenado en el
+ningśn mérito, ninguna justicia, no tengo obras; yo serķa condenado en el
 
-infierno a menos que Cristo tenga misericordia de m, y estara en el infierno
+infierno a menos que Cristo tenga misericordia de mķ, y estarķa en el infierno
 
-ahora si hubiera recibido lo que merezco. Heme aqu, un pecador que fue una
+ahora si hubiera recibido lo que merezco. Heme aquķ, un pecador que fue una
 
-vez tan negro como lo eres t; y, sin embargo, oh Cristo, estos brazos te
+vez tan negro como lo eres tś; y, sin embargo, oh Cristo, estos brazos te
 
-abrazan. Pecador, ven y toma tu turno despus de m. Acaso no lo he abrazado?
+abrazan. Pecador, ven y toma tu turno después de mķ. æAcaso no lo he abrazado?
 
-Acaso no soy tan vil como lo eres t? Ven y que mi caso te d confianza. Cmo
+æAcaso no soy tan vil como lo eres tś? Ven y que mi caso te dé confianza. æCómo
 
-me trat cuando me aferr a l por primera vez? Bien, l me dijo: Con amor
+me trató cuando me aferré a Él por primera vez? Bien, Él me dijo: Con amor
 
-eterno te he amado; por tanto, te prolongu mi misericordia. Ven, pecador, ven
+eterno te he amado; por tanto, te prolongué mi misericordia. Ven, pecador, ven
 
-y prueba. Si Cristo no me ech fuera a m, l jams te menospreciar. Vamos,
+y prueba. Si Cristo no me echó fuera a mķ, Él jamįs te menospreciarį. Vamos,
 
 pobre alma, vamos:
 
-Arrisgate con l (no es un riesgo) arrisgate por entero,
+Arriésgate con Él (no es un riesgo) arriésgate por entero,
 
 No dejes que se entrometa ninguna otra confianza;
 
-Nadie sino Jess
+Nadie sino Jesśs
 
-Puede hacer bien a los pecadores desvalidos.
+Puede hacer bien a los pecadores desvalidos.
 
-l puede hacerte
+Él puede hacerte
 
-todo el bien que t necesitas: oh!, confa en mi Seor, oh!, confa en mi
+todo el bien que tś necesitas: ”oh!, confķa en mi Seńor, ”oh!, confķa en mi
 
-Seor; l es un precioso Seor Jess, l es un dulce Seor Jess, l es un
+Seńor; Él es un precioso Seńor Jesśs, Él es un dulce Seńor Jesśs, Él es un
 
-amoroso Salvador, l es un amable y condescendiente perdonador del pecado. Ven,
+amoroso Salvador, Él es un amable y condescendiente perdonador del pecado. Ven,
 
-t que eres negro; ven, t que eres inmundo; ven, t que eres pobre; ven, t
+tś que eres negro; ven, tś que eres inmundo; ven, tś que eres pobre; ven, tś
 
-que te ests muriendo; ven, t que ests perdido, t, que has sido enseado a
+que te estįs muriendo; ven, tś que estįs perdido, tś, que has sido enseńado a
 
-sentir tu necesidad de Cristo; vengan, todos ustedes, vengan ahora pues Jess
+sentir tu necesidad de Cristo; vengan, todos ustedes, vengan ahora pues Jesśs
 
-los invita a venir; vengan rpidamente. Seor Jess, atrelos, atrelos por Tu
+los invita a venir; vengan rįpidamente. ”Seńor Jesśs, atrįelos, atrįelos por Tu
 
-Espritu! Amn.
+Espķritu! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Romįn
 
 6/Agosto/2009
 

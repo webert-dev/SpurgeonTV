@@ -1,44 +1,44 @@
 # Sermón 3418 | Sermón 3418
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Una Ley
 
 Inalterable
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 6 DE AGOSTO DE 1914.
 
-Sin
+“Sin
 
-derramamiento de sangre no se hace remisin. Hebreos 9: 22
+derramamiento de sangre no se hace remisión”. Hebreos 9: 22
 
 Bajo la antigua
 
-dispensacin figurativa, era seguro que tus ojos se toparan por doquier con la sangre.
+dispensación figurativa, era seguro que tus ojos se toparan por doquier con la sangre.
 
-La sangre era lo ms prominente bajo la economa juda. Era raro que se
+La sangre era lo más prominente bajo la economía judía. Era raro que se
 
-observara alguna ceremonia sin ella. No podas adentrarte en ninguna parte del
+observara alguna ceremonia sin ella. No podías adentrarte en ninguna parte del
 
-tabernculo sin que vieras los rastros de la sangre que haba sido rociada.
+tabernáculo sin que vieras los rastros de la sangre que había sido rociada.
 
 Algunas veces vaciaban tazones de sangre al pie del altar. El lugar era tan
 
-semejante a un matadero que visitarlo no deba de haber sido nada atractivo
+semejante a un matadero que visitarlo no debía de haber sido nada atractivo
 
-para el gusto natural, y para deleitarse en l, el hombre tena necesidad de un
+para el gusto natural, y para deleitarse en él, el hombre tenía necesidad de un
 
-entendimiento espiritual y de una fe viva. El sacrificio de animales constitua
+entendimiento espiritual y de una fe viva. El sacrificio de animales constituía
 
-la manera de adorar; la efusin de sangre era el rito establecido, y la difusin
+la manera de adorar; la efusión de sangre era el rito establecido, y la difusión
 
 de esa sangre sobre el piso, sobre las cortinas y sobre las vestiduras de los
 
@@ -48,87 +48,87 @@ Cuando Pablo dice que,
 
 bajo la ley, casi todas las cosas eran purificadas con sangre, alude a unas
 
-cuantas cosas que estaban exentas. As encontrarn en diversos pasajes que el
+cuantas cosas que estaban exentas. Así encontrarán en diversos pasajes que el
 
-pueblo era exhortado a lavar sus vestidos, y a ciertas personas que haban
+pueblo era exhortado a lavar sus vestidos, y a ciertas personas que habían
 
-quedado inmundas por causas fsicas, se les ordenaba que lavaran sus vestidos
+quedado inmundas por causas físicas, se les ordenaba que lavaran sus vestidos
 
 con agua. Las ropas que usaban los hombres eran usualmente purificadas con
 
-agua. Despus de la derrota de los madianitas, que puede ser leda en el libro
+agua. Después de la derrota de los madianitas, que puede ser leída en el libro
 
-de Nmeros, el botn que haba sido contaminado tuvo que ser purificado antes
+de Números, el botín que había sido contaminado tuvo que ser purificado antes
 
 de que fuera reclamado por los victoriosos israelitas. De acuerdo a la
 
-ordenanza de la ley que el Seor mand a Moiss, algunos de los bienes tales
+ordenanza de la ley que el Seńor mandó a Moisés, algunos de los bienes tales
 
-como indumentaria y artculos confeccionados con pieles y con pelo de cabras eran
+como indumentaria y artículos confeccionados con pieles y con pelo de cabras eran
 
 purificados con agua, mientras que otros objetos que eran de metales
 
-resistentes al fuego, eran purificados con fuego. Con todo, el apstol se
+resistentes al fuego, eran purificados con fuego. Con todo, el apóstol se
 
 refiere a un hecho literal cuando dice que casi todas las cosas -con la sola
 
-excepcin de las ropas- eran purificadas con sangre bajo la ley. Luego se
+excepción de las ropas- eran purificadas con sangre bajo la ley. Luego se
 
-refiere a ella como una verdad general bajo la antigua dispensacin legal, diciendo
+refiere a ella como una verdad general bajo la antigua dispensación legal, diciendo
 
-que no haba nunca ningn perdn de pecado, excepto por la sangre. nicamente
+que no había nunca ningún perdón de pecado, excepto por la sangre. Únicamente
 
-en un caso haba una aparente excepcin, y aun ese caso sirve para demostrar la
+en un caso había una aparente excepción, y aun ese caso sirve para demostrar la
 
-universalidad de la regla, porque la razn para la excepcin est plenamente
+universalidad de la regla, porque la razón para la excepción está plenamente
 
 explicada. El sacrificio por la culpa que es mencionado como una alternativa en
 
-el versculo 11 de Levtico 5, poda ser una ofrenda incruenta en casos de
+el versículo 11 de Levítico 5, podía ser una ofrenda incruenta en casos de
 
 extrema de pobreza. Si un hombre era demasiado pobre para traer una ofrenda del
 
-rebao, deba traer dos trtolas o dos palominos; pero si era extremadamente
+rebańo, debía traer dos tórtolas o dos palominos; pero si era extremadamente
 
-menesteroso incluso para eso, poda ofrecer la dcima parte de un efa de flor
+menesteroso incluso para eso, podía ofrecer la décima parte de un efa de flor
 
 de harina como sacrificio por la culpa, sin aceite ni incienso, la cual era
 
-arrojada sobre el fuego. Esa es la nica excepcin solitaria a travs de todos
+arrojada sobre el fuego. Esa es la única excepción solitaria a través de todos
 
-los tipos. En cada lugar, en cada momento y en cada caso en que el pecado tena
+los tipos. En cada lugar, en cada momento y en cada caso en que el pecado tenía
 
-que ser quitado, la sangre deba fluir y la vida tena que ser ofrendada. La
+que ser quitado, la sangre debía fluir y la vida tenía que ser ofrendada. La
 
-nica excepcin que hemos notado, recalca el estatuto que establece que sin
+única excepción que hemos notado, recalca el estatuto que establece que “sin
 
-derramamiento de sangre no se hace remisin.
+derramamiento de sangre no se hace remisión”.
 
 Bajo el Evangelio no hay
 
-ninguna excepcin, no hay ninguna aislada excepcin, como la haba bajo la ley;
+ninguna excepción, no hay ninguna aislada excepción, como la había bajo la ley;
 
 no, ni siquiera para los que son extremadamente indigentes. Todos nosotros
 
 somos extremadamente menesterosos espiritualmente. Como ninguno de nosotros ha
 
-de presentar ya ms una ofrenda, ni tampoco disponemos de una, todos tenemos
+de presentar ya más una ofrenda, ni tampoco disponemos de una, todos tenemos
 
 que presentar la ofrenda que ya fue ofrecida y tenemos que aceptar el sacrificio
 
-que Cristo hizo de S mismo en lugar nuestro; no hay ahora ningn motivo ni
+que Cristo hizo de Sí mismo en lugar nuestro; no hay ahora ningún motivo ni
 
-base para exentar a ningn hombre ni a ninguna mujer, ni tampoco lo habr
+base para exentar a ningún hombre ni a ninguna mujer, ni tampoco lo habrá
 
-jams, ya sea en este mundo o en el mundo venidero: Sin derramamiento de
+jamás, ya sea en este mundo o en el mundo venidero: “Sin derramamiento de
 
-sangre no se hace remisin.
+sangre no se hace remisión”.
 
 Con gran sencillez,
 
-entonces, ya que atae a nuestra salvacin, pido amablemente la atencin de
+entonces, ya que atańe a nuestra salvación, pido amablemente la atención de
 
-cada uno de los presentes a este gran asunto que concierne ntimamente a
+cada uno de los presentes a este gran asunto que concierne íntimamente a
 
 nuestros intereses eternos. Yo deduzco del texto, primero que nada, el hecho
 
@@ -138,65 +138,65 @@ I.
 
 EXISTE
 
-UNA REMISIN, es decir, una remisin de los pecados. Sin derramamiento de
+UNA REMISIÓN, es decir, una remisión de los pecados. “Sin derramamiento de
 
-sangre no se hace remisin. La sangre ha sido derramada, y hay, por tanto,
+sangre no se hace remisión”. La sangre ha sido derramada, y hay, por tanto,
 
-esperanza concerniente a la remisin. A pesar de los severos requerimientos de
+esperanza concerniente a la remisión. A pesar de los severos requerimientos de
 
-la ley, la remisin no ha de ser abandonada en absoluta desesperacin. La
+la ley, la remisión no ha de ser abandonada en absoluta desesperación. La
 
-palabra remisin quiere decir: saldar deudas. As como el pecado puede ser considerado
+palabra remisión quiere decir: saldar deudas. Así como el pecado puede ser considerado
 
-como una deuda contrada con Dios, as tambin esa deuda puede ser borrada,
+como una deuda contraída con Dios, así también esa deuda puede ser borrada,
 
 cancelada y suprimida. El pecador, el deudor de Dios, puede dejar de estar en
 
-deuda por compensacin, por un pleno finiquito, y puede quedar libre en virtud
+deuda por compensación, por un pleno finiquito, y puede quedar libre en virtud
 
-de esa remisin. Tal cosa es posible. Gloria sea dada a Dios porque es posible
+de esa remisión. Tal cosa es posible. Gloria sea dada a Dios porque es posible
 
-obtener la remisin de todos los pecados para los que haya arrepentimiento. Sin
+obtener la remisión de todos los pecados para los que haya arrepentimiento. Sin
 
-importar cul pudiera ser la transgresin de cualquier individuo, el perdn es
+importar cuál pudiera ser la transgresión de cualquier individuo, el perdón es
 
-posible para l si es posible que se arrepienta. Un pecado incontrito es un
+posible para él si es posible que se arrepienta. Un pecado incontrito es un
 
-pecado imperdonable. Si el hombre confiesa su pecado y lo abandona, entonces encontrar
+pecado imperdonable. Si el hombre confiesa su pecado y lo abandona, entonces encontrará
 
-misericordia. Dios lo ha declarado as, y l no ser nunca infiel a Su palabra.
+misericordia. Dios lo ha declarado así, y Él no será nunca infiel a Su palabra.
 
-Pero, alguien pregunta: no hay un pecado que es para muerte? S,
+“Pero”, alguien pregunta: “żno hay un pecado que es para muerte?” Sí,
 
-ciertamente, aunque yo no s cul sea; ni tampoco creemos que nadie que hubiera
+ciertamente, aunque yo no sé cuál sea; ni tampoco creemos que nadie que hubiera
 
-escudriado este tema haya sido capaz de descubrir cul sea ese pecado; lo que
+escudrińado este tema haya sido capaz de descubrir cuál sea ese pecado; lo que
 
-s parece claro es que el pecado es prcticamente imperdonable porque no ha
+sí parece claro es que el pecado es prácticamente imperdonable porque no ha
 
-habido arrepentimiento respecto a l. El hombre que lo comete queda muerto en
+habido arrepentimiento respecto a él. El hombre que lo comete queda muerto en
 
-el pecado, para todos los fines y propsitos, en un sentido ms profundo y
+el pecado, para todos los fines y propósitos, en un sentido más profundo y
 
-permanente incluso de lo que lo est la raza humana como un todo, y es
+permanente incluso de lo que lo está la raza humana como un todo, y es
 
-entregado a un corazn endurecido, su conciencia es cauterizada, por decirlo
+entregado a un corazón endurecido, su conciencia es cauterizada, por decirlo
 
-as, con un hierro candente, y a partir de all no buscar ninguna
+así, con un hierro candente, y a partir de allí no buscará ninguna
 
-misericordia. Pero todo tipo de pecado y de blasfemia sern perdonados a los
+misericordia. Pero todo tipo de pecado y de blasfemia serán perdonados a los
 
-hombres. Para la lascivia, para el robo, para el adulterio, s, para el
+hombres. Para la lascivia, para el robo, para el adulterio, sí, para el
 
-asesinato, hay perdn de Dios, para que sea reverenciado. l es el Seor Dios,
+asesinato, hay perdón de Dios, para que sea reverenciado. Él es el Seńor Dios,
 
-misericordioso y clemente, que olvida la transgresin, la iniquidad y el
+misericordioso y clemente, que olvida la transgresión, la iniquidad y el
 
 pecado.
 
 Y
 
-este perdn, que es posible, es completo,
+este perdón, que es posible, es completo,
 
 de acuerdo a las
 
@@ -204,9 +204,9 @@ Escrituras;
 
 es decir, cuando Dios
 
-perdona a un hombre su pecado, lo hace sin reservas. l borra la deuda sin ninguna
+perdona a un hombre su pecado, lo hace sin reservas. Él borra la deuda sin ninguna
 
-revisin de los clculos. l no suprime una parte del pecado del hombre pero lo
+revisión de los cálculos. Él no suprime una parte del pecado del hombre pero lo
 
 hace responsable del resto; antes bien, en el momento en que un pecado es
 
@@ -216,85 +216,85 @@ recibido en la casa del Padre y es abrazado con el amor del Padre como si nunca
 
 se hubiese descarriado; es llevado a ser acepto delante de Dios, y goza de la
 
-misma condicin como si nunca hubiese transgredido.
+misma condición como si nunca hubiese transgredido.
 
 Creyente, bendito sea el
 
-Seor porque en el Libro de Dios no hay ningn pecado en contra tuya. Si crees,
+Seńor porque en el Libro de Dios no hay ningún pecado en contra tuya. Si crees,
 
 eres perdonado, y no eres perdonado parcialmente, sino plenamente. El escrito
 
-que haba en contra tuya es borrado y es clavado a la cruz de Cristo, y nunca
+que había en contra tuya es borrado y es clavado a la cruz de Cristo, y nunca
 
-ms puede ser usado en tu contra. El perdn es completo.
+más puede ser usado en tu contra. El perdón es completo.
 
-Adems,
+Además,
 
-se trata de un perdn en el acto.
+se trata de un perdón en el acto.
 
 Algunos
 
 imaginan (y eso es algo muy menospreciativo para el Evangelio) que no puedes
 
-alcanzar el perdn sino hasta que mueras, y, tal vez, de alguna manera muy
+alcanzar el perdón sino hasta que mueras, y, tal vez, de alguna manera muy
 
-misteriosa entonces, en los ltimos instantes, puedas ser absuelto; pero
+misteriosa entonces, en los últimos instantes, puedas ser absuelto; pero
 
-nosotros les predicamos, en el nombre de Jess, un perdn inmediato e
+nosotros les predicamos, en el nombre de Jesús, un perdón inmediato e
 
-instantneo para todas las transgresiones un perdn otorgado en un instante-
+instantáneo para todas las transgresiones –un perdón otorgado en un instante-
 
-en el momento en que un pecador cree en Jess; no es como si una enfermedad
+en el momento en que un pecador cree en Jesús; no es como si una enfermedad
 
-fuera sanada gradualmente y requiriera de meses y de largos aos de progreso.
+fuera sanada gradualmente y requiriera de meses y de largos ańos de progreso.
 
-Es cierto que la corrupcin de nuestra naturaleza es una enfermedad as, y el
+Es cierto que la corrupción de nuestra naturaleza es una enfermedad así, y el
 
 pecado que mora en nosotros tiene que ser mortificado diariamente y a cada
 
 hora; pero en cuanto a la culpa de nuestras transgresiones delante de Dios y a
 
-la deuda incurrida para con Su justicia, su remisin no es una cosa progresiva
+la deuda incurrida para con Su justicia, su remisión no es una cosa progresiva
 
-y gradual. El perdn de un pecador es concedido de inmediato; ser dado a
+y gradual. El perdón de un pecador es concedido de inmediato; será dado a
 
-cualquiera de ustedes que lo acepte esta noche, s, y le ser otorgado de tal
+cualquiera de ustedes que lo acepte esta noche, sí, y le será otorgado de tal
 
-manera que no lo perder nunca. Una vez perdonado, sers perdonado para
+manera que no lo perderá nunca. Una vez perdonado, serás perdonado para
 
-siempre, y no sufrirs ninguna de las consecuencias del pecado. T sers
+siempre, y no sufrirás ninguna de las consecuencias del pecado. Tú serás
 
-absuelto eternamente y sin reservas, de tal manera que cuando los cielos estn
+absuelto eternamente y sin reservas, de tal manera que cuando los cielos estén
 
 ardiendo en llamas, y sea erigido el gran trono blanco, y tenga lugar el juicio
 
-final, puedes presentarte con determinacin delante del tribunal sin temer
+final, puedes presentarte con determinación delante del tribunal sin temer
 
-ninguna acusacin, pues Dios nunca revocar el perdn que l mismo concede.
+ninguna acusación, pues Dios nunca revocará el perdón que Él mismo concede.
 
 Voy a agregar un
 
-comentario ms.
+comentario más.
 
 El hombre que alcanza
 
-este perdn puede darse cuenta de que lo tiene.
+este perdón puede darse cuenta de que lo tiene.
 
 Si simplemente esperara
 
-tenerlo, esa esperanza luchara a menudo contra el miedo. Si simplemente
+tenerlo, esa esperanza lucharía a menudo contra el miedo. Si simplemente
 
-confiara tenerlo, podran alarmarlo muchos remordimientos de conciencia; pero
+confiara tenerlo, podrían alarmarlo muchos remordimientos de conciencia; pero
 
 saber
 
 que lo tiene es un seguro
 
-fundamento de paz para el corazn. Gloria sea dada a Dios porque los privilegios
+fundamento de paz para el corazón. Gloria sea dada a Dios porque los privilegios
 
-del pacto de gracia no son slo asuntos de esperanza y de conjetura, sino que
+del pacto de gracia no son sólo asuntos de esperanza y de conjetura, sino que
 
-son asuntos de fe, de conviccin y de seguridad. No consideren una presuncin
+son asuntos de fe, de convicción y de seguridad. No consideren una presunción
 
 que un hombre crea en
 
@@ -302,79 +302,79 @@ la
 
 Palabra
 
-de Dios. Es la propia Palabra de Dios la que dice: El
+de Dios. Es la propia Palabra de Dios la que dice: “El
 
-que en l cree, no es condenado. Si yo creo en Jesucristo, entonces no soy
+que en él cree, no es condenado”. Si yo creo en Jesucristo, entonces no soy
 
-condenado. Qu derecho tengo a pensar que lo soy? Si Dios dice que no soy
+condenado. żQué derecho tengo a pensar que lo soy? Si Dios dice que no soy
 
-condenado, sera una presuncin de mi parte pensar que soy condenado. No puede
+condenado, sería una presunción de mi parte pensar que soy condenado. No puede
 
-ser presuncin recibir
+ser presunción recibir
 
 la Palabra
 
-de Dios tal como l me la da.
+de Dios tal como Él me la da.
 
-Oh!, -dice alguien-
+“ˇOh!”, -dice alguien-
 
-cun feliz sera si ste fuera mi caso. Has hablado bien, pues bienaventurado
+“cuán feliz sería si éste fuera mi caso”. Has hablado bien, pues ‘bienaventurado
 
-aquel cuya transgresin ha sido perdonada, y cubierto su pecado. Bienaventurado
+aquel cuya transgresión ha sido perdonada, y cubierto su pecado. Bienaventurado
 
-el hombre a quien Jehov no culpa de iniquidad.
+el hombre a quien Jehová no culpa de iniquidad’.
 
-Pero, -dir alguien
+“Pero”, -dirá alguien
 
-ms- yo difcilmente pensara que algo tan grande pudiera ser posible para
+más- “yo difícilmente pensaría que algo tan grande pudiera ser posible para
 
-alguien como yo. T razonas a la manera de los hijos de los hombres. Has de
+alguien como yo”. Tú razonas a la manera de los hijos de los hombres. Has de
 
-saber entonces que como son ms altos los cielos que la tierra, as son los caminos
+saber entonces que como son más altos los cielos que la tierra, así son los caminos
 
-de Dios ms altos que tus caminos, y Sus pensamientos ms que tus pensamientos.
+de Dios más altos que tus caminos, y Sus pensamientos más que tus pensamientos.
 
-De ti es errar; de Dios es perdonar. T te extravas como un hombre, pero Dios
+De ti es errar; de Dios es perdonar. Tú te extravías como un hombre, pero Dios
 
-no perdona como un hombre; l perdona como un Dios, de tal manera que prorrumpimos
+no perdona como un hombre; Él perdona como un Dios, de tal manera que prorrumpimos
 
-en exclamaciones de asombro y cantamos: Qu Dios como t, que perdona la
+en exclamaciones de asombro y cantamos: “żQué Dios como tú, que perdona la
 
-maldad, y olvida el pecado del remanente de su heredad? Cuando t haces algo,
+maldad, y olvida el pecado del remanente de su heredad?” Cuando tú haces algo,
 
-se trata de alguna pequea obra adaptada a tus habilidades, pero nuestro Dios
+se trata de alguna pequeńa obra adaptada a tus habilidades, pero nuestro Dios
 
-hizo los cielos. Cuando t perdonas, otorgas un perdn adaptado a tu naturaleza
+hizo los cielos. Cuando tú perdonas, otorgas un perdón adaptado a tu naturaleza
 
-y a tus circunstancias; pero cuando l perdona, muestra las riquezas de Su
+y a tus circunstancias; pero cuando Él perdona, muestra las riquezas de Su
 
-gracia en una escala mayor de lo que tu mente finita pudiera captar. l borra
+gracia en una escala mayor de lo que tu mente finita pudiera captar. Él borra
 
-en un instante diez mil pecados del ms negro tinte, pecados de una tonalidad
+en un instante diez mil pecados del más negro tinte, pecados de una tonalidad
 
-infernal, porque se deleita en misericordia, y el juicio es Su extraa obra. Porque
+infernal, porque se deleita en misericordia, y el juicio es Su extrańa obra. “Porque
 
-no quiero la muerte del que muere, dice Jehov el Seor; convertos, pues, y
+no quiero la muerte del que muere, dice Jehová el Seńor; convertíos, pues, y
 
-viviris. Mi texto me proporciona esta nota gozosa. No hay remisin, excepto
+viviréis”. Mi texto me proporciona esta nota gozosa. No hay remisión, excepto
 
-con sangre; pero como la sangre ha sido derramada, s hay remisin.
+con sangre; pero como la sangre ha sido derramada, sí hay remisión.
 
-Adentrndonos ms en el
+Adentrándonos más en el
 
-texto, tenemos que insistir ahora en su gran leccin, que es:
+texto, tenemos que insistir ahora en su gran lección, que es:
 
 II.
 
 AUNQUE
 
-HAY PERDN DE PECADO, NUNCA SE CONCEDE SIN DERRAMAMIENTO DE SANGRE.
+HAY PERDÓN DE PECADO, NUNCA SE CONCEDE SIN DERRAMAMIENTO DE SANGRE.
 
 Esa es una frase
 
-arrolladora pues hay algunos seres en este mundo que confan en su
+arrolladora pues hay algunos seres en este mundo que confían en su
 
-arrepentimiento para el perdn del pecado. Ms all de toda duda, es tu deber
+arrepentimiento para el perdón del pecado. Más allá de toda duda, es tu deber
 
 arrepentirte de tu pecado. Si has desobedecido a Dios,
 
@@ -382,91 +382,91 @@ debes
 
 lamentarlo. Dejar de pecar no es sino el deber de la
 
-criatura, pues de lo contrario, el pecado no sera la violacin de la santa ley
+criatura, pues de lo contrario, el pecado no sería la violación de la santa ley
 
 de Dios. Pero has de saber que todo el arrepentimiento del mundo no puede
 
-borrar el ms pequeo pecado. Si slo un pensamiento pecaminoso atravesara por
+borrar el más pequeńo pecado. Si sólo un pensamiento pecaminoso atravesara por
 
-tu mente, y t te afligieras por l todos los das de tu vida, la mancha de ese
+tu mente, y tú te afligieras por él todos los días de tu vida, la mancha de ese
 
-pecado no podra ser quitada ni siquiera por la angustia que te provoca. El
+pecado no podría ser quitada ni siquiera por la angustia que te provoca. El
 
-arrepentimiento es la obra del Espritu de Dios, y es un don muy precioso y es
+arrepentimiento es la obra del Espíritu de Dios, y es un don muy precioso y es
 
-un signo de gracia; pero no hay ningn poder expiatorio en el arrepentimiento. En
+un signo de gracia; pero no hay ningún poder expiatorio en el arrepentimiento. En
 
-un mar lleno de lgrimas penitenciales no hay ni el poder ni la capacidad para
+un mar lleno de lágrimas penitenciales no hay ni el poder ni la capacidad para
 
 lavar una sola mancha de esta espantosa inmundicia. Sin el derramamiento de
 
-sangre no se hace remisin.
+sangre no se hace remisión.
 
 Pero otros suponen, de
 
 cualquier manera, que la reforma activa que resulta del arrepentimiento puede
 
-ejecutar la tarea. Qu importa que se renuncie a la borrachera y la abstencin
+ejecutar la tarea. żQué importa que se renuncie a la borrachera y la abstención
 
-se convierta en la regla? Qu importa que se abandone el libertinaje y la
+se convierta en la regla? żQué importa que se abandone el libertinaje y la
 
-castidad adorne el carcter? Qu importa que se renuncie a los tratos
+castidad adorne el carácter? żQué importa que se renuncie a los tratos
 
-deshonestos y la integridad sea escrupulosamente guardada en cada accin? Yo
+deshonestos y la integridad sea escrupulosamente guardada en cada acción? Yo
 
-digo: eso est muy bien; quiera Dios que tal reforma tenga lugar por doquier;
+digo: eso está muy bien; quiera Dios que tal reforma tenga lugar por doquier;
 
-con todo, a pesar de todo eso, las deudas ya contradas no son pagadas por el
+con todo, a pesar de todo eso, las deudas ya contraídas no son pagadas por el
 
-hecho de que ya no nos endeudemos ms, y las antiguas deudas en mora no son
+hecho de que ya no nos endeudemos más, y las antiguas deudas en mora no son
 
 condonadas por el buen comportamiento posterior. Entonces el pecado no es
 
-remitido por la reforma. Aunque sbitamente te volvieras inmaculado como los
+remitido por la reforma. Aunque súbitamente te volvieras inmaculado como los
 
-ngeles (no es que algo as sea posible para ti, pues el etope no puede mudar
+ángeles (no es que algo así sea posible para ti, pues el etíope no puede mudar
 
-su piel, ni el leopardo sus manchas), tus reformas no podran hacer ninguna
+su piel, ni el leopardo sus manchas), tus reformas no podrían hacer ninguna
 
-expiacin a Dios por los pecados ya cometidos en los das que transgrediste
+expiación a Dios por los pecados ya cometidos en los días que transgrediste
 
-contra l. Entonces, qu debo hacer?, pregunta el hombre. Hay quienes
+contra Él. “Entonces, żqué debo hacer?”, pregunta el hombre. Hay quienes
 
-piensan que ahora sus oraciones y sus humillaciones de alma podran, tal vez,
+piensan que ahora sus oraciones y sus humillaciones de alma podrían, tal vez,
 
-conseguirles algo. Yo no te pedira que hagas cesar tus oraciones, si son
+conseguirles algo. Yo no te pediría que hagas cesar tus oraciones, si son
 
-sinceras; antes bien yo esperara que fueran tales oraciones que presagiaran
+sinceras; antes bien yo esperaría que fueran tales oraciones que presagiaran
 
 una vida espiritual.
 
-Pero, oh!, querido
+Pero, ˇoh!, querido
 
-oyente, no hay eficacia en la oracin para borrar el pecado. Voy a expresarlo
+oyente, no hay eficacia en la oración para borrar el pecado. Voy a expresarlo
 
-enfticamente. Todas las oraciones de todos los santos de la tierra, y, si se
+enfáticamente. Todas las oraciones de todos los santos de la tierra, y, si se
 
-pudieran agregar todos los santos del cielo, todas sus oraciones no podran
+pudieran agregar todos los santos del cielo, todas sus oraciones no podrían
 
-borrar a travs de su propia eficacia natural el pecado de una sola mala
+borrar a través de su propia eficacia natural el pecado de una sola mala
 
-palabra. No, no hay ningn poder disuasorio en la oracin. Dios no le ha dado
+palabra. No, no hay ningún poder disuasorio en la oración. Dios no le ha dado
 
 el papel de un producto de limpieza. Tiene sus usos, sus valiosos usos. Uno de
 
-los privilegios del hombre que ora es que ora aceptablemente, pero la oracin
+los privilegios del hombre que ora es que ora aceptablemente, pero la oración
 
-misma, sin sangre, no puede borrar nunca el pecado. Sin derramamiento de
+misma, sin sangre, no puede borrar nunca el pecado. “Sin derramamiento de
 
-sangre no se hace remisin, por mucho que ores.
+sangre no se hace remisión”, por mucho que ores.
 
 Hay personas que han
 
 pensado que el renunciamiento y las mortificaciones de un tipo extraordinario
 
-podran librarlos de su culpa. No nos encontramos con frecuencia con gente as
+podrían librarlos de su culpa. No nos encontramos con frecuencia con gente así
 
-en nuestro crculo; sin embargo, hay quienes, para purificarse a s mismos del
+en nuestro círculo; sin embargo, hay quienes, para purificarse a sí mismos del
 
 pecado, flagelan sus cuerpos, observan ayunos prolongados, usan cilicios y
 
@@ -474,147 +474,147 @@ camisas de crin pegadas a la piel, e incluso algunos han ido tan lejos como
 
 para imaginar que refrenarse de las abluciones y permitir que sus cuerpos sean
 
-cubiertos de inmundicia, es la forma ms fcil de purificar sus almas.
+cubiertos de inmundicia, es la forma más fácil de purificar sus almas.
 
-Ciertamente es una extraa necedad! Sin embargo, en Indostn, se encuentran
+ˇCiertamente es una extrańa necedad! Sin embargo, en Indostán, se encuentran
 
 hoy fakires que sujetan sus cuerpos a sorprendentes sufrimientos y distorsiones
 
-con la esperanza de deshacerse del pecado. Cul es el propsito de todo eso?
+con la esperanza de deshacerse del pecado. żCuál es el propósito de todo eso?
 
-Me parece or decir al Seor: Qu tiene que ver conmigo que inclines la
+Me parece oír decir al Seńor: “żQué tiene que ver conmigo que inclines la
 
 cabeza como junco y que te cubras de cilicio, y comas cenizas con tu pan y
 
-mezcles ajenjo con tu bebida? T has quebrantado mi ley; esas cosas no pueden
+mezcles ajenjo con tu bebida? Tú has quebrantado mi ley; esas cosas no pueden
 
-restaurarla; t has lesionado mi honor con tu pecado; pero dnde est la
+restaurarla; tú has lesionado mi honor con tu pecado; pero żdónde está la
 
-justicia que refleja honor sobre mi nombre? El viejo clamor en los tiempos
+justicia que refleja honor sobre mi nombre?” El viejo clamor en los tiempos
 
-antiguos era: Con qu me presentar ante Jehov?, y decan: Daremos
+antiguos era: “żCon qué me presentaré ante Jehová?”, y decían: “żDaremos
 
-nuestro primognito por nuestra rebelin, el fruto de nuestras entraas por el
+nuestro primogénito por nuestra rebelión, el fruto de nuestras entrańas por el
 
-pecado de nuestra alma? Ay!, todo fue en vano. Aqu est la sentencia. Aqu
+pecado de nuestra alma?” ˇAy!, todo fue en vano. Aquí está la sentencia. Aquí
 
-ha de estar por siempre: Sin derramamiento de sangre no se hace remisin.
+ha de estar por siempre: “Sin derramamiento de sangre no se hace remisión”.
 
 Dios exige la vida como el castigo debido por el pecado, y nada excepto la vida
 
-indicada en el derramamiento de sangre le satisfar jams.
+indicada en el derramamiento de sangre le satisfará jamás.
 
-Observen, adems, cmo
+Observen, además, cómo
 
 este texto arrollador desecha toda confianza en las ceremonias, incluso en las
 
 ceremonias de la propia ordenanza de Dios. Hay algunos que suponen que el
 
-pecado puede ser lavado en el bautismo. Ah, es una ftil suposicin! La
+pecado puede ser lavado en el bautismo. ˇAh, es una fútil suposición! La
 
-expresin donde es usada una vez en
+expresión donde es usada una vez en
 
 la Escritura
 
 no implica nada de ese tipo; no tiene
 
-ese significado que algunos le atribuyen, pues ese mismo apstol de quien se
+ese significado que algunos le atribuyen, pues ese mismo apóstol de quien se
 
-afirmaba eso, se gloriaba de que no haba bautizado a muchas personas para que no
+afirmaba eso, se gloriaba de que no había bautizado a muchas personas para que no
 
-se llegara a suponer que haba alguna eficacia en su administracin del rito.
+se llegara a suponer que había alguna eficacia en su administración del rito.
 
-El bautismo es una ordenanza admirable en la que el creyente tiene comunin con
+El bautismo es una ordenanza admirable en la que el creyente tiene comunión con
 
-Cristo en Su muerte. Es un smbolo; pero no es nada ms que eso. Decenas de
+Cristo en Su muerte. Es un símbolo; pero no es nada más que eso. Decenas de
 
-miles y millones han sido bautizados y han muerto en sus pecados. O qu
+miles y millones han sido bautizados y han muerto en sus pecados. O żqué
 
 beneficio hay en el sacrificio incruento de
 
 la Misa
 
-, como dice el Anticristo? Dice alguien que
+, como dice el Anticristo? żDice alguien que
 
-es un sacrificio incruento, y sin embargo, lo ofrecen como una propiciacin
+es “un sacrificio incruento”, y sin embargo, lo ofrecen como una propiciación
 
-por el pecado? Arrojamos este texto en sus caras: Sin derramamiento de sangre
+por el pecado? Arrojamos este texto en sus caras: “Sin derramamiento de sangre
 
-no se hace remisin. Acaso responden que la sangre est all en el cuerpo de
+no se hace remisión”. żAcaso responden que la sangre está allí en el cuerpo de
 
-Cristo? Nosotros respondemos que incluso si as fuera, eso no sera apropiado,
+Cristo? Nosotros respondemos que incluso si así fuera, eso no sería apropiado,
 
 pues es sin derramamiento de sangre, sin sangre derramada, la sangre como algo
 
-distinto del cuerpo; pero sin el derramamiento de sangre no hay remisin del
+distinto del cuerpo; pero sin el derramamiento de sangre no hay remisión del
 
 pecado.
 
 He de proseguir para
 
-hacer una distincin que ir ms profundo todava. Jesucristo mismo no puede
+hacer una distinción que irá más profundo todavía. Jesucristo mismo no puede
 
-salvarnos, aparte de Su sangre. Es una suposicin que slo la necedad ha hecho
+salvarnos, aparte de Su sangre. Es una suposición que sólo la necedad ha hecho
 
-jams, pero hemos de refutar incluso la hiptesis de la necedad cuando afirma
+jamás, pero hemos de refutar incluso la hipótesis de la necedad cuando afirma
 
 que el ejemplo de Cristo puede quitar el pecado humano, que la santa vida de
 
 Jesucristo ha puesto a la raza humana en una base tan buena con Dios que ahora
 
-l puede perdonar sus faltas y su transgresin. No es as; ni la santidad de
+Él puede perdonar sus faltas y su transgresión. No es así; ni la santidad de
 
-Jess, ni la vida de Jess, ni la muerte de Jess pueden salvarnos, sino
+Jesús, ni la vida de Jesús, ni la muerte de Jesús pueden salvarnos, sino
 
-nicamente la sangre de Jess; pues sin derramamiento de sangre no se hace
+únicamente la sangre de Jesús; pues “sin derramamiento de sangre no se hace
 
-remisin.
+remisión”.
 
 Y me he encontrado con
 
 algunos que piensan tanto en la segunda venida de Cristo, que parecieran haber
 
-fijado su plena fe sobre Cristo en Su gloria. Yo creo que sto es la culpa del
+fijado su plena fe sobre Cristo en Su gloria. Yo creo que ésto es la culpa del
 
-Irvingismo que expone demasiado a Cristo en el trono ante el ojo del pecador;
+‘Irvingismo’ que expone demasiado a Cristo en el trono ante el ojo del pecador;
 
 aunque Cristo en el trono es siempre el amado y adorable, con todo, debemos ver
 
 a Cristo en la cruz, o no podremos ser salvados nunca. Tu fe no debe ser puesta
 
-meramente en Cristo glorificado, sino en Cristo crucificado. Lejos est de m
+meramente en Cristo glorificado, sino en Cristo crucificado. “Lejos esté de mí
 
-gloriarme, sino en la cruz de nuestro Seor Jesucristo. Nosotros predicamos a
+gloriarme, sino en la cruz de nuestro Seńor Jesucristo”. “Nosotros predicamos a
 
-Cristo crucificado, para los judos ciertamente tropezadero, y para los
+Cristo crucificado, para los judíos ciertamente tropezadero, y para los
 
-gentiles locura.
+gentiles locura”.
 
 Yo recuerdo a un miembro
 
-de esta iglesia (la amada hermana pudiera estar presente ahora), que haba sido
+de esta iglesia (la amada hermana pudiera estar presente ahora), que había sido
 
-durante algunos aos una profesante pero nunca haba gozado de paz con Dios, ni
+durante algunos ańos una profesante pero nunca había gozado de paz con Dios, ni
 
-haba producido ninguno de los frutos del Espritu. Ella deca: he estado en
+había producido ninguno de los frutos del Espíritu. Ella decía: “he estado en
 
-una iglesia donde se me ense a que me apoyara en Cristo glorificado, y
+una iglesia donde se me enseńó a que me apoyara en Cristo glorificado, ˇy
 
-sucedi que yo fij de tal manera mi confianza en l glorificado, que no tena
+sucedió que yo fijé de tal manera mi confianza en Él glorificado, que no tenía
 
-ni un sentido de pecado, ni un sentido del perdn de Cristo crucificado! Yo no
+ni un sentido de pecado, ni un sentido del perdón de Cristo crucificado! Yo no
 
-saba, y hasta que lo hube visto derramando Su sangre y haciendo una
+sabía, y hasta que lo hube visto derramando Su sangre y haciendo una
 
-propiciacin, nunca entr en el reposo.
+propiciación, nunca entré en el reposo”.
 
-S, lo diremos de nuevo,
+Sí, lo diremos de nuevo,
 
-pues el texto es vitalmente importante: Sin derramamiento de sangre no se hace
+pues el texto es vitalmente importante: “Sin derramamiento de sangre no se hace
 
-remisin, ni siquiera con el propio Cristo. El medio de quitar nuestro pecado
+remisión”, ni siquiera con el propio Cristo. El medio de quitar nuestro pecado
 
-es el sacrificio que l ofreci por nosotros; slo eso, y ninguna otra cosa. Sigamos
+es el sacrificio que Él ofreció por nosotros; sólo eso, y ninguna otra cosa. Sigamos
 
 adelante con la misma verdad:
 
@@ -622,101 +622,101 @@ III.
 
 ESTA
 
-REMISIN DEL PECADO HA DE SER ENCONTRADA AL PIE DE
+REMISIÓN DEL PECADO HA DE SER ENCONTRADA AL PIE DE
 
 LA CRUZ.
 
-Hay remisin y se puede
+Hay remisión y se puede
 
 obtener de Jesucristo, cuya sangre fue derramada. El himno que cantamos al
 
-principio del servicio les proporcion el meollo de la doctrina. Debemos a Dios
+principio del servicio les proporcionó el meollo de la doctrina. Debemos a Dios
 
-una deuda de castigo por el pecado. Estaba pendiente esa deuda o no? Si la ley
+una deuda de castigo por el pecado. żEstaba pendiente esa deuda o no? Si la ley
 
-estaba en lo correcto, el castigo deba ser ejecutado. Si el castigo era
+estaba en lo correcto, el castigo debía ser ejecutado. Si el castigo era
 
-demasiado severo y la ley era imprecisa, entonces Dios haba cometido un error.
+demasiado severo y la ley era imprecisa, entonces Dios había cometido un error.
 
 Pero suponer eso es una blasfemia. Entonces, siendo justa la ley y siendo justo
 
-el castigo, hara Dios algo injusto? Sera algo injusto de Su parte que no
+el castigo, żharía Dios algo injusto? Sería algo injusto de Su parte que no
 
-ejecutara el castigo. Quisieras que fuera injusto? l haba declarado que el
+ejecutara el castigo. żQuisieras que fuera injusto? Él había declarado que el
 
-alma que pecara deba morir; quisieras que Dios fuera un mentiroso? Debera
+alma que pecara debía morir; żquisieras que Dios fuera un mentiroso? żDebería
 
-tragarse Sus palabras para salvar a Sus criaturas? Sea Dios veraz, y todo
+tragarse Sus palabras para salvar a Sus criaturas? “Sea Dios veraz, y todo
 
-hombre mentiroso. La sentencia de la ley tiene que ser ejecutada. Era inevitable
+hombre mentiroso”. La sentencia de la ley tiene que ser ejecutada. Era inevitable
 
-que si Dios mantena la prerrogativa de Su santidad, deba castigar los pecados
+que si Dios mantenía la prerrogativa de Su santidad, debía castigar los pecados
 
-que los hombres haban cometido. Entonces, cmo haba de salvarnos?
+que los hombres habían cometido. Entonces, żcómo había de salvarnos?
 
-Contemplen el plan! Su amado Hijo, el Seor de gloria, asume la naturaleza
+ˇContemplen el plan! Su amado Hijo, el Seńor de gloria, asume la naturaleza
 
 humana, toma el lugar de todos aquellos que el Padre le dio, ocupa su lugar, y
 
 cuando la sentencia de la justicia es proclamada y la espada de la venganza
 
-salta fuera de su vaina, he aqu, el glorioso Sustituto desnuda Su brazo, y
+salta fuera de su vaina, he aquí, el glorioso Sustituto desnuda Su brazo, y
 
-dice: Golpea, oh espada, pero golpame a
+dice: “Golpea, oh espada, pero golpéame a
 
-m,
+mí,
 
-y deja ir a mi pueblo. La espada de la ley se introdujo en el alma misma
+y deja ir a mi pueblo”. La espada de la ley se introdujo en el alma misma
 
-de Jess, y Su sangre fue derramada, sangre no de alguien que era meramente
+de Jesús, y Su sangre fue derramada, sangre no de alguien que era meramente
 
-hombre, sino de Uno que, siendo un Espritu eterno, era capaz de ofrecerse sin
+hombre, sino de Uno que, siendo un Espíritu eterno, era capaz de ofrecerse sin
 
 mancha para Dios de una manera que daba una eficacia infinita a Sus
 
-sufrimientos. Por medio del Espritu eterno, se nos informa, que l se ofreci
+sufrimientos. Por medio del Espíritu eterno, se nos informa, que Él se ofreció
 
-sin mancha a Dios. Siendo en Su propia naturaleza infinitamente ms all de la
+sin mancha a Dios. Siendo en Su propia naturaleza infinitamente más allá de la
 
 naturaleza del hombre, abarcando todas las naturalezas humanas, por decirlo
 
-as, dentro de S, en razn de la majestad de Su persona, fue capaz de ofrecer
+así, dentro de Sí, en razón de la majestad de Su persona, fue capaz de ofrecer
 
-una expiacin a Dios de una suficiencia infinita, ilimitada e inconcebible.
+una expiación a Dios de una suficiencia infinita, ilimitada e inconcebible.
 
 Ninguno de nosotros
 
-podra decir lo que nuestro Seor sufri. Estoy seguro de sto: que yo no
+podría decir lo que nuestro Seńor sufrió. Estoy seguro de ésto: que yo no
 
-menospreciara ni subestimara Sus sufrimientos fsicos las torturas que
+menospreciaría ni subestimaría Sus sufrimientos físicos –las torturas que
 
-soport en Su cuerpo- pero estoy igualmente seguro de que ninguno de nosotros
+soportó en Su cuerpo- pero estoy igualmente seguro de que ninguno de nosotros
 
-podra exagerar o sobrevalorar los sufrimientos de un alma como la suya, pues
+podría exagerar o sobrevalorar los sufrimientos de un alma como la suya, pues
 
-estn ms all de toda concepcin. l era tan puro y tan perfecto, tan
+están más allá de toda concepción. Él era tan puro y tan perfecto, tan
 
 exquisitamente sensible y tan inmaculadamente santo, que ser contado entre los
 
-transgresores, ser golpeado por Su Padre, tener que morir (he de decirlo?) la
+transgresores, ser golpeado por Su Padre, tener que morir (żhe de decirlo?) la
 
 muerte de un incircunciso por mano de extranjeros, era la propia esencia de la
 
-amargura, la consumacin de la angustia. Con todo eso, Jehov quiso
+amargura, la consumación de la angustia. “Con todo eso, Jehová quiso
 
-quebrantarlo, sujetndole a padecimiento. Sus aflicciones, en s mismas, eran
+quebrantarlo, sujetándole a padecimiento”. Sus aflicciones, en sí mismas, eran
 
-lo que la liturgia griega bien llama: sufrimientos desconocidos, grandes
+lo que la liturgia griega bien llama: “sufrimientos desconocidos, grandes
 
-dolores. De aqu, tambin, que su eficacia sea sin fronteras, sin lmite. Por
+dolores”. De aquí, también, que su eficacia sea sin fronteras, sin límite. Por
 
-tanto, Dios es capaz ahora de perdonar el pecado. l ha castigado el pecado en
+tanto, Dios es capaz ahora de perdonar el pecado. Él ha castigado el pecado en
 
-Cristo; conviene a la justicia, as como a la misericordia, que Dios suprima
+Cristo; conviene a la justicia, así como a la misericordia, que Dios suprima
 
-esas deudas que han sido pagadas. Sera injusto hablo con reverencia, pero sin
+esas deudas que han sido pagadas. Sería injusto –hablo con reverencia, pero sin
 
-embargo, con santo arrojo- sera injusto de parte de
+embargo, con santo arrojo- sería injusto de parte de
 
 la Majestad
 
@@ -724,11 +724,11 @@ infinita
 
 culparme de un solo pecado que ya fue cobrado a mi Sustituto. Si mi Fianza
 
-asumi mi pecado, l me liber, y yo estoy libre. Quin reavivara el juicio
+asumió mi pecado, Él me liberó, y yo estoy libre. żQuién reavivaría el juicio
 
-en contra ma cuando ya he sido condenado en la persona de mi Salvador? Quin
+en contra mía cuando ya he sido condenado en la persona de mi Salvador? żQuién
 
-me enviara a las llamas de
+me enviaría a las llamas de
 
 la
 
@@ -736,171 +736,171 @@ Gehena
 
 , cuando Cristo, mi Sustituto, ha sufrido el
 
-equivalente del infierno por m? Quin me acusara de algo cuando Cristo ha
+equivalente del infierno por mí? żQuién me acusaría de algo cuando Cristo ha
 
-asumido todos mis crmenes, ha respondido por ellos, los ha expiado, y ha
+asumido todos mis crímenes, ha respondido por ellos, los ha expiado, y ha
 
-recibido la seal de la absolucin de ellos, puesto que resucit de los muertos
+recibido la seńal de la absolución de ellos, puesto que resucitó de los muertos
 
-para poder vindicar abiertamente esa justificacin a la que por gracia soy
+para poder vindicar abiertamente esa justificación a la que por gracia soy
 
 llamado y en la que tengo el privilegio de participar? Todo esto es muy simple,
 
-est contenido en pocas palabras, pero, lo hemos recibido todos; lo hemos
+está contenido en pocas palabras, pero, żlo hemos recibido todos; lo hemos
 
 aceptado todos?
 
-Oh, mis queridos
+ˇOh, mis queridos
 
-oyentes!, el texto est lleno de advertencias para algunos de ustedes. Ustedes
+oyentes!, el texto está lleno de advertencias para algunos de ustedes. Ustedes
 
-pudieran tener una disposicin amigable, un excelente carcter y una ndole
+pudieran tener una disposición amigable, un excelente carácter y una índole
 
-madura, pero tienen escrpulos de aceptar a Cristo; ustedes tropiezan con esta
+madura, pero tienen escrúpulos de aceptar a Cristo; ustedes tropiezan con esta
 
-piedra de tropiezo; se parten en esta roca. Cmo puedo responder a su
+piedra de tropiezo; se parten en esta roca. żCómo puedo responder a su
 
 desventurado caso? No voy a razonar con ustedes. Me abstengo de entrar en ninguna
 
-discusin, pero les hago una pregunta: creen que
+discusión, pero les hago una pregunta: żcreen que
 
 la Biblia
 
 es inspirada por
 
-Dios? Miren, entonces, aquel pasaje que dice: Sin derramamiento de sangre no
+Dios? Miren, entonces, aquel pasaje que dice: “Sin derramamiento de sangre no
 
-se hace remisin. Qu dicen? No es claro, absoluto, concluyente? Permtanme
+se hace remisión”. żQué dicen? żNo es claro, absoluto, concluyente? Permítanme
 
-sacar la conclusin. Si no tienen un inters en el derramamiento de sangre que
+sacar la conclusión. Si no tienen un interés en el derramamiento de sangre que
 
-me he esforzado por describir brevemente, hay alguna remisin para ustedes?
+me he esforzado por describir brevemente, żhay alguna remisión para ustedes?
 
-Podra haberla? Sus propios pecados estn sobre su propia cabeza ahora. De su
+żPodría haberla? Sus propios pecados están sobre su propia cabeza ahora. De su
 
-mano sern demandados en la venida del grandioso Juez. Pueden laborar, pueden
+mano serán demandados en la venida del grandioso Juez. Pueden laborar, pueden
 
 trabajar arduamente, pueden ser sinceros en sus convicciones y estar tranquilos
 
-en su conciencia, o pueden ser sacudidos de un lado a otro por sus escrpulos;
+en su conciencia, o pueden ser sacudidos de un lado a otro por sus escrúpulos;
 
-pero vive el Seor, que no hay perdn para ustedes, excepto a travs de este
+pero vive el Seńor, que no hay perdón para ustedes, excepto a través de este
 
-derramamiento de sangre. Acaso lo rechazan? Sobre su propia cabeza sea el
+derramamiento de sangre. żAcaso lo rechazan? ˇSobre su propia cabeza sea el
 
-peligro! Dios ha hablado. No puede decirse que la ruina de ustedes est
+peligro! Dios ha hablado. No puede decirse que la ruina de ustedes está
 
-diseada por l cuando el propio remedio para ustedes es revelado por l.
+diseńada por Él cuando el propio remedio para ustedes es revelado por Él.
 
-l te pide que sigas el
+Él te pide que sigas el
 
-camino por l establecido, y si lo rechazas, has de morir. Tu muerte es un
+camino por Él establecido, y si lo rechazas, has de morir. Tu muerte es un
 
 suicidio, ya sea deliberado, accidental o por causa de un error de juicio. Tu
 
-sangre sea sobre tu cabeza. Ests advertido.
+sangre sea sobre tu cabeza. Estás advertido.
 
-Por otro lado, qu
+Por otro lado, ˇqué
 
-consolacin tan trascendente nos proporciona el texto! Sin derramamiento de
+consolación tan trascendente nos proporciona el texto! “Sin derramamiento de
 
-sangre no se hace remisin, pero donde hay derramamiento, hay remisin. Si t
+sangre no se hace remisión”, pero donde hay derramamiento, hay remisión. Si tú
 
-has venido a Cristo, eres salvo. Si t puedes decir desde lo profundo de tu corazn:
+has venido a Cristo, eres salvo. Si tú puedes decir desde lo profundo de tu corazón:
 
-Mi fe pone en verdad su mano
+“Mi fe pone en verdad su mano
 
 Sobre esa amada cabeza Tuya,
 
 A la vez que como penitente me presento,
 
-Y aqu confieso mi pecado.
+Y aquí confieso mi pecado”.
 
 Entonces, tu pecado ha
 
-desaparecido. Dnde est ese joven? Dnde est esa joven? Dnde estn esos
+desaparecido. żDónde está ese joven? żDónde está esa joven? żDónde están esos
 
-ansiosos corazones que han estado diciendo: quisiramos ser perdonados ahora?
+ansiosos corazones que han estado diciendo: “quisiéramos ser perdonados ahora”?
 
-Oh!, miren, miren, miren, miren al Salvador crucificado, y son perdonados. Pueden
+ˇOh!, miren, miren, miren, miren al Salvador crucificado, y son perdonados. Pueden
 
-proseguir su camino, en tanto que hayan aceptado la expiacin de Dios. Hija,
+proseguir su camino, en tanto que hayan aceptado la expiación de Dios. Hija,
 
-ten nimo, pues tus pecados, que son muchos, te son perdonados. Hijo,
+ten ánimo, pues tus pecados, que son muchos, te son perdonados. Hijo,
 
-regocjate, pues tus transgresiones son borradas.
+regocíjate, pues tus transgresiones son borradas.
 
-Mi ltima palabra ser
+Mi última palabra será
 
-sta. Ustedes que son maestros de otros y tratan de hacer el bien, afrrense
+ésta. Ustedes que son maestros de otros y tratan de hacer el bien, aférrense
 
-firmemente a esta doctrina. sto ha de ser el frente, el centro, la mdula y el
+firmemente a esta doctrina. Ésto ha de ser el frente, el centro, la médula y el
 
-tutano de todo lo que tienen que testificar. Yo lo predico con frecuencia,
+tuétano de todo lo que tienen que testificar. Yo lo predico con frecuencia,
 
 pero no hay nunca un domingo en el que me retire a mi lecho con tanto
 
-contentamiento ntimo como cuando he predicado el sacrificio sustitutivo de
+contentamiento íntimo como cuando he predicado el sacrificio sustitutivo de
 
-Cristo. Entonces siento que: si los pecadores se pierden, no tengo nada de su
+Cristo. Entonces siento que: “si los pecadores se pierden, no tengo nada de su
 
-sangre sobre m. Esta es la doctrina que salva al alma; afrrense a ella y se
+sangre sobre mí”. Esta es la doctrina que salva al alma; aférrense a ella y se
 
-habrn asido de la vida eterna; si la rechazan, la habran rechazado para su
+habrán asido de la vida eterna; si la rechazan, la habrían rechazado para su
 
-confusin. Oh, apguense a esto! Martn Lutero sola decir que cada sermn
+confusión. ˇOh, apéguense a esto! Martín Lutero solía decir que cada sermón
 
-debera contener la doctrina de la justificacin por fe. Cierto; pero ha de
+debería contener la doctrina de la justificación por fe. Cierto; pero ha de
 
-contener tambin la doctrina de la expiacin. Lutero dice que no poda meter la
+contener también la doctrina de la expiación. Lutero dice que no podía meter la
 
-doctrina de la justificacin por fe en las cabezas de los habitantes de
+doctrina de la justificación por fe en las cabezas de los habitantes de
 
-Wurtemberg, y se senta medio inclinado a llevar el libro al plpito para
+Wurtemberg, y se sentía medio inclinado a llevar el libro al púlpito para
 
-arrojarlo en sus cabezas, para lograr que se introdujera all. Me temo que no
+arrojarlo en sus cabezas, para lograr que se introdujera allí. Me temo que no
 
-habra tenido xito si lo hubiera hecho. Pero, oh!, cmo tratara yo de
+habría tenido éxito si lo hubiera hecho. Pero, ˇoh!, cómo trataría yo de
 
-martillar una y otra y otra vez sobre este clavo. La vida de la carne en la
+martillar una y otra y otra vez sobre este clavo. “La vida de la carne en la
 
-sangre est. Y ver la sangre y pasar de vosotros.
+sangre está”. “Y veré la sangre y pasaré de vosotros”.
 
 Cristo entrega Su vida derramando
 
-Su sangre: es sto lo que les proporciona el perdn y la paz a cada uno de
+Su sangre: es ésto lo que les proporciona el perdón y la paz a cada uno de
 
-ustedes, si lo miran a l. Perdn ahora, perdn completo, perdn para siempre.
+ustedes, si lo miran a Él. Perdón ahora, perdón completo, perdón para siempre.
 
 Aparten la mirada de todas las otras confianzas y descansen en los sufrimientos
 
 y en la muerte del Dios Encarnado, que ha ido a los cielos y que vive hoy para
 
-interceder delante del trono de Su Padre, por el mrito de la sangre que derram
+interceder delante del trono de Su Padre, por el mérito de la sangre que derramó
 
 en el Calvario por los pecadores. Como los voy a ver a todos ustedes en aquel
 
-gran da, cuando el Crucificado venga como Rey y Seor de todo, da que se est
+gran día, cuando el Crucificado venga como Rey y Seńor de todo, día que se está
 
 apresurando con presteza, como yo los voy a ver entonces, les pido que den
 
-testimonio de que me he esforzado por decirles con toda sencillez cul es el
+testimonio de que me he esforzado por decirles con toda sencillez cuál es el
 
-camino de la salvacin; y si lo rechazan, hganme el favor de decir que al
+camino de la salvación; y si lo rechazan, háganme el favor de decir que al
 
-menos les he proclamado este Su Evangelio en el nombre de Jehov, y que los he
+menos les he proclamado este Su Evangelio en el nombre de Jehová, y que los he
 
-exhortado sinceramente a aceptarlo para que sean salvos. Pero yo preferira que
+exhortado sinceramente a aceptarlo para que sean salvos. Pero yo preferiría que
 
-le agradara a Dios que los encontrara all a todos, cubiertos con la nica
+le agradara a Dios que los encontrara allá a todos, cubiertos con la única
 
-expiacin, vestidos con la nica justicia, y aceptos en el nico Salvador, y
+expiación, vestidos con la única justicia, y aceptos en el único Salvador, y
 
-entonces cantaramos juntos: El Cordero que fue inmolado y que nos ha redimido
+entonces cantaríamos juntos: “El Cordero que fue inmolado y que nos ha redimido
 
-para Dios es digno de tomar el poder, las riquezas, la sabidura, la fortaleza,
+para Dios es digno de tomar el poder, las riquezas, la sabiduría, la fortaleza,
 
-la honra, la gloria y la alabanza por los siglos de los siglos. Amn.
+la honra, la gloria y la alabanza por los siglos de los siglos”. Amén.
 
 Nota del traductor:
 
@@ -908,23 +908,23 @@ Irvingismo:
 
 Movimiento iniciado por Edward Irving (1792-1834) quien
 
-fund
+fundó
 
 la Iglesia
 
-Catlica
+Católica
 
-Apostlica. Ense que los dones que posean los apstoles podan ser posedos
+Apostólica. Enseńó que los dones que poseían los apóstoles podían ser poseídos
 
-en la poca presente. Esto inclua hablar en lenguas, sanidades, profetizar,
+en la época presente. Esto incluía hablar en lenguas, sanidades, profetizar,
 
-etc. Vaticin el Reino Milenario en cuatro ocasiones. Al ver que nada suceda,
+etc. Vaticinó el Reino Milenario en cuatro ocasiones. Al ver que nada sucedía,
 
-decidi que la llegada del Seor se producira con el segundo envo de doce
+decidió que la llegada del Seńor se produciría con el segundo envío de doce
 
-apstoles.
+apóstoles.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 16/Junio/2011
 

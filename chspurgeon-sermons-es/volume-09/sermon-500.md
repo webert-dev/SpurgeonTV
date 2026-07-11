@@ -1,14 +1,14 @@
 # Sermón 500 | Sermón 500
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Eben-ezer!
+ˇEben-ezer!
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -16,101 +16,101 @@ DOMINGO 15 DE MARZO
 
 DE 1863
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Tom luego
+“Tomó luego
 
 Samuel una piedra y la puso entre Mizpa y Sen, y le puso por nombre Eben-ezer,
 
-diciendo: Hasta aqu nos ayud Jehov. 1 Samuel 7: 12.
+diciendo: Hasta aquí nos ayudó Jehová”. 1 Samuel 7: 12.
 
 Es, en verdad, algo muy
 
-deleitable advertir la mano de Dios en las vidas de los santos de la antigedad.
+deleitable advertir la mano de Dios en las vidas de los santos de la antigüedad.
 
-Qu ocupacin tan benfica es observar la bondad de Dios cuando libra a David
+Qué ocupación tan benéfica es observar la bondad de Dios cuando libra a David
 
-de las fauces del len y de las garras del oso; percatarnos de Su misericordia
+de las fauces del león y de las garras del oso; percatarnos de Su misericordia
 
-cuando pasa por alto la transgresin, la iniquidad y el pecado de Manass; advertir
+cuando pasa por alto la transgresión, la iniquidad y el pecado de Manasés; advertir
 
-Su fidelidad en guardar el pacto que hizo con Abraham; o reparar en Su intervencin
+Su fidelidad en guardar el pacto que hizo con Abraham; o reparar en Su intervención
 
-en favor del moribundo Ezequas. Pero, amados, acaso no es mucho ms interesante
+en favor del moribundo Ezequías. Pero, amados, żacaso no es mucho más interesante
 
-y benfico que percibamos la mano de Dios en nuestras propias vidas? No
+y benéfico que percibamos la mano de Dios en nuestras propias vidas? żNo
 
-deberamos considerar nuestra propia historia y ver que est al menos tan llena
+deberíamos considerar nuestra propia historia y ver que está al menos tan llena
 
 de Dios, tan llena de Su bondad y de Su verdad, ver que es una prueba tan
 
 completa de Su fidelidad y veracidad como las vidas de cualquiera de los santos
 
-que nos han precedido? Creo que no le hacemos justicia a nuestro Seor cuando
+que nos han precedido? Creo que no le hacemos justicia a nuestro Seńor cuando
 
-suponemos que l obr Sus poderosas obras antao, y que se mostr fuerte para
+suponemos que Él obró Sus poderosas obras antańo, y que se mostró fuerte para
 
 con la gente de los primeros tiempos, pero que no obra prodigios ni desnuda Su
 
-brazo en favor de los santos que estn ahora en la tierra. Revisemos, les digo,
+brazo en favor de los santos que están ahora en la tierra. Revisemos, les digo,
 
-nuestros propios diarios. Ciertamente en estas pginas modernas podemos descubrir
+nuestros propios diarios. Ciertamente en estas páginas modernas podemos descubrir
 
 algunos felices incidentes que son reanimantes para nosotros mismos y que
 
-glorifican a nuestro Dios. No has experimentado
+glorifican a nuestro Dios. żNo has experimentado
 
-t
+tú
 
 ninguna
 
-liberacin?
+liberación?
 
-No
+żNo
 
-has vadeado ningn ro siendo sostenido por la presencia divina? No has caminado
+has vadeado ningún río siendo sostenido por la presencia divina? żNo has caminado
 
-a travs de ningn fuego habiendo salido ileso? No has sido librado en seis
+a través de ningún fuego habiendo salido ileso? żNo has sido librado en seis
 
-tribulaciones? S, y en la sptima no te ayud Jehov? Has carecido por
+tribulaciones? Sí, y en la séptima żno te ayudó Jehová? żHas carecido por
 
 completo de
 
 manifestaciones?
 
-No te
+żNo te
 
-ha hablado nunca a ti el Dios que habl con Abraham en Mamre? No ha luchado
+ha hablado nunca a ti el Dios que habló con Abraham en Mamre? żNo ha luchado
 
-nunca contigo el ngel que forceje con Jacob en Peniel? No ha hollado nunca los
+nunca contigo el ángel que forcejeó con Jacob en Peniel? żNo ha hollado nunca los
 
 carbones encendidos a tu lado el mismo que se paseaba en el horno de fuego con
 
-los tres santos varones? Oh amado, l se ha manifestado a nosotros como no se
+los tres santos varones? Oh amado, Él se ha manifestado a nosotros como no se
 
 manifiesta al mundo. No te olvides de esas manifestaciones. Nunca dejes de
 
-regocijarte en ellas. No has recibido nunca ningn
+regocijarte en ellas. żNo has recibido nunca ningún
 
 favor selecto?
 
-Nunca te ha escuchado y no ha respondido tus
+żNunca te ha escuchado y no ha respondido tus
 
-peticiones el Dios que le concedi a Salomn el deseo de su corazn? No
+peticiones el Dios que le concedió a Salomón el deseo de su corazón? żNo
 
 te
 
 ha saciado nunca con grosuras ese
 
-Dios de prdiga munificencia de quien David cant: El que sacia de bien tu
+Dios de pródiga munificencia de quien David cantó: “El que sacia de bien tu
 
-boca de modo que te rejuvenezcas como el guila? Nunca has sido conducido a
+boca de modo que te rejuvenezcas como el águila”? żNunca has sido conducido a
 
-descansar en lugares de delicados pastos? No has estado jams junto a aguas de
+descansar en lugares de delicados pastos? żNo has estado jamás junto a aguas de
 
-reposo? Ciertamente, amados, la bondad de Dios exhibida en la antigedad se ha
+reposo? Ciertamente, amados, la bondad de Dios exhibida en la antigüedad se ha
 
 repetido en nosotros. Las manifestaciones de Su gracia para con los que ya se
 
@@ -122,149 +122,149 @@ a quienes han alcanzado los fines de los siglos.
 
 Por tanto, yo les pido,
 
-queridos amigos, que por unos instantes en esta maana fijen sus pensamientos
+queridos amigos, que por unos instantes en esta mańana fijen sus pensamientos
 
-en su Dios en conexin con ustedes mismos; y, mientras rememoramos a Samuel
+en su Dios en conexión con ustedes mismos; y, mientras rememoramos a Samuel
 
-amontonando las piedras y diciendo: Hasta aqu nos ayud Jehov, pongamos el
+amontonando las piedras y diciendo: “Hasta aquí nos ayudó Jehová”, pongamos el
 
-nfasis en la palabra nos y digamos: Hasta aqu Jehov nos ayud A
+énfasis en la palabra ‘nos’ y digamos: “Hasta aquí Jehová nos ayudó A
 
-NOSOTROS, y si pudieran ponerlo en singular, y pudieran decir: Hasta aqu me
+NOSOTROS”, y si pudieran ponerlo en singular, y pudieran decir: “Hasta aquí me
 
-ayud Jehov A M͔, sera mucho mejor.
+ayudó Jehová A MÍ”, sería mucho mejor.
 
-Adems, es un ejercicio
+Además, es un ejercicio
 
 muy deleitable recordar las diversas maneras en las que los agradecidos santos
 
-dejaron constancia de sus reconocimientos. Quin podra mirar sin placer al
+dejaron constancia de sus reconocimientos. żQuién podría mirar sin placer al
 
-altar que No edific despus de que fue preservado del diluvio universal? No
+altar que Noé edificó después de que fue preservado del diluvio universal? żNo
 
-han brillado a menudo nuestros ojos al recordar que Abraham construy un altar
+han brillado a menudo nuestros ojos al recordar que Abraham construyó un altar
 
-y lo llam: Jehov-jireh: en el monte de Jehov ser provisto? No hemos
+y lo llamó: “Jehová-jireh: en el monte de Jehová será provisto”? żNo hemos
 
-ledo con intensa satisfaccin acerca de Jacob, cuando tom la piedra que haba
+leído con intensa satisfacción acerca de Jacob, cuando tomó la piedra que había
 
-puesto de cabecera, y derram aceite encima de ella, e invocando el nombre del
+puesto de cabecera, y derramó aceite encima de ella, e invocando el nombre del
 
-Seor, llam el nombre de aquel lugar Bet-el, aunque Luz era el nombre de la
+Seńor, llamó el nombre de aquel lugar Bet-el, aunque Luz era el nombre de la
 
-ciudad primero? Quin no se ha regocijado con la msica marcial del pandero de
+ciudad primero? żQuién no se ha regocijado con la música marcial del pandero de
 
-Mara, y con las gloriosas notas del cntico de Moiss en el Mar Rojo? Y no
+María, y con las gloriosas notas del cántico de Moisés en el Mar Rojo? żY no
 
 hemos hecho una pausa y mirado a las doce piedras levantadas en medio del
 
-Jordn por el buen Josu cuando las aguas que venan de arriba se detuvieron para
+Jordán por el buen Josué cuando las aguas que venían de arriba se detuvieron para
 
 que las huestes de Israel pudieran atravesarlo a pie enjuto? Ciertamente,
 
-hermanos, nos hemos regocijado en esta piedra que Samuel tom y que llam: Eben-ezer.
+hermanos, nos hemos regocijado en esta piedra que Samuel tomó y que llamó: ‘Eben-ezer’.
 
 Y al considerar las diversas maneras en que los santos de Dios han registrado
 
-Su misericordia en los tiempos antiguos, hemos sentido gran satisfaccin al
+Su misericordia en los tiempos antiguos, hemos sentido gran satisfacción al
 
-contemplar la perpetuidad de la gloria de Dios, ya que una generacin muestra a
+contemplar la perpetuidad de la gloria de Dios, ya que una generación muestra a
 
-otra todas Sus poderosas obras. Oh, no sera igualmente placentero y ms
+otra todas Sus poderosas obras. Oh, żno sería igualmente placentero y más
 
-benfico an
+benéfico aún
 
 para nosotros
 
 que
 
-registremos las poderosas obras del Seor como las hemos visto? No deberamos
+registremos las poderosas obras del Seńor como las hemos visto? żNo deberíamos
 
-edificar un altar a Su nombre o entretejer Sus misericordias en un cntico? No
+edificar un altar a Su nombre o entretejer Sus misericordias en un cántico? żNo
 
-deberamos tomar el oro puro del agradecimiento, y las joyas de la alabanza, y
+deberíamos tomar el oro puro del agradecimiento, y las joyas de la alabanza, y
 
-hacer con ellos otra corona para la cabeza de Jess? No deberan nuestras
+hacer con ellos otra corona para la cabeza de Jesús? żNo deberían nuestras
 
-almas producir una msica tan dulce y tan alegre como la que alguna vez saliera
+almas producir una música tan dulce y tan alegre como la que alguna vez saliera
 
-del arpa de David? No deberan los pies de nuestra gratitud pisar tan levemente
+del arpa de David? żNo deberían los pies de nuestra gratitud pisar tan levemente
 
-como los de Mara cuando gui a las hijas de Israel? No tenemos formas de alabar
+como los de María cuando guió a las hijas de Israel? żNo tenemos formas de alabar
 
-a Dios? No hay mtodos a travs de los cuales podamos manifestar la gratitud
+a Dios? żNo hay métodos a través de los cuales podamos manifestar la gratitud
 
 que sentimos en nuestro interior? Estoy seguro de que podemos hacerle una
 
-ofrenda a nuestro Seor. Podemos atender a nuestro Amado con el vino adobado
+ofrenda a nuestro Seńor. Podemos atender a nuestro Amado con el vino adobado
 
 del mosto de las granadas, y las gotas escogidas del panal. Yo espero que en
 
-este da nuestras almas puedan idear alguna manera en la que dejemos constancia
+este día nuestras almas puedan idear alguna manera en la que dejemos constancia
 
-de las obras poderosas del Seor, y transmitamos a las generaciones venideras
+de las obras poderosas del Seńor, y transmitamos a las generaciones venideras
 
 nuestro testimonio de Su fidelidad y de Su verdad.
 
-Entonces, en el espritu
+Entonces, en el espíritu
 
 de estas dos observaciones, mirando la mano de Dios en nuestra propia vida, y
 
 reconociendo esa mano con alguna constancia de agradecimiento, yo, ministro de
 
-ustedes, llevado por la gracia divina a predicar esta maana el quingentsimo
+ustedes, llevado por la gracia divina a predicar esta mańana el quingentésimo
 
 de mis sermones impresos, publicados consecutivamente semana tras semana, erijo
 
-a Dios mi piedra de Eben-ezer. Yo le doy gracias a l, le doy humildemente las
+a Dios mi piedra de Eben-ezer. Yo le doy gracias a Él, le doy humildemente las
 
-gracias, pero, aun as, lo hago muy gozosamente, por toda la ayuda y el apoyo
+gracias, pero, aun así, lo hago muy gozosamente, por toda la ayuda y el apoyo
 
-brindados en el estudio y la predicacin de la palabra a estas grandsimas
+brindados en el estudio y la predicación de la palabra a estas grandísimas
 
-congregaciones a travs de la voz, y posteriormente a tantas naciones gracias a
+congregaciones a través de la voz, y posteriormente a tantas naciones gracias a
 
-la imprenta. Yo levanto mi piedra por seal en la forma de este sermn. Mi lema
+la imprenta. Yo levanto mi piedra por seńal en la forma de este sermón. Mi lema
 
-en este da ser el mismo de Samuel: Hasta aqu nos ayud Jehov. Y como la
+en este día será el mismo de Samuel: “Hasta aquí nos ayudó Jehová”. Y como la
 
-piedra de mi alabanza es demasiado pesada para m para levantarla solo, yo les
+piedra de mi alabanza es demasiado pesada para mí para levantarla solo, yo les
 
-pido a ustedes, camaradas mos en el da de la batalla y compaeros
+pido a ustedes, camaradas míos en el día de la batalla y compańeros
 
-trabajadores en la via de Cristo, que se unan conmigo en la expresin de gratitud,
+trabajadores en la vińa de Cristo, que se unan conmigo en la expresión de gratitud,
 
-mientras juntos levantamos la piedra del memorial y decimos: Hasta aqu nos
+mientras juntos levantamos la piedra del memorial y decimos: “Hasta aquí nos
 
-ayud Jehov
+ayudó Jehová
 
-a nosotros.
+a nosotros”.
 
-Esta maana hay tres
+Esta mańana hay tres
 
-cosas de las que quiero hablar; tres cosas pero que son nicamente una. Esta
+cosas de las que quiero hablar; tres cosas pero que son únicamente una. Esta
 
-piedra de ayuda llama a la reflexin respecto
+piedra de ayuda llama a la reflexión respecto
 
-al lugar de su ereccin,
+al lugar de su erección,
 
 a
 
 la
 
-ocasin de su edificacin,
+ocasión de su edificación,
 
 y a
 
 la
 
-inscripcin que llevaba.
+inscripción que llevaba.
 
 I.
 
 Primero,
 
-entonces, se puede encontrar una muy valiosa instruccin y mucha motivacin
+entonces, se puede encontrar una muy valiosa instrucción y mucha motivación
 
 para un devoto agradecimiento en EL SITIO DONDE FUE ALZADA
 
@@ -276,203 +276,203 @@ DE
 
 EBEN-EZER.
 
-Veinte aos antes Israel haba sido derrotado en aquel campo.
+Veinte ańos antes Israel había sido derrotado en aquel campo.
 
-Veinte aos atrs, Ofni y Finees, los sacerdotes del Seor, fueron asesinados
+Veinte ańos atrás, Ofni y Finees, los sacerdotes del Seńor, fueron asesinados
 
-en aquel terreno, y el arca del Seor fue secuestrada y los filisteos
+en aquel terreno, y el arca del Seńor fue secuestrada y los filisteos
 
-triunfaron. Era bueno que recordaran la derrota que haban sufrido, y aun en
+triunfaron. Era bueno que recordaran la derrota que habían sufrido, y aun en
 
-medio de la gozosa victoria deban recordar que la batalla se habra convertido
+medio de la gozosa victoria debían recordar que la batalla se habría convertido
 
-en una derrota si el Seor no hubiese estado de su lado. Hermanos, debemos
+en una derrota si el Seńor no hubiese estado de su lado. Hermanos, debemos
 
-recordar nuestras derrotas. Hemos olvidado cuando salimos en nuestra fuerza
+recordar nuestras derrotas. żHemos olvidado cuando salimos en nuestra fuerza
 
-resueltos a someter nuestras corrupciones, pero descubrimos que ramos dbiles
+resueltos a someter nuestras corrupciones, pero descubrimos que éramos débiles
 
-como el agua? Has olvidado cuando te apoyabas en el arca del Seor, cuando
+como el agua? żHas olvidado cuando te apoyabas en el arca del Seńor, cuando
 
 descansabas en las ceremonias y en las ordenanzas, y no en
 
 la Roca
 
-de tu salvacin? Has
+de tu salvación? żHas
 
-olvidado, te pregunto, cun desconcertado estabas ante tus pecados y que no
+olvidado, te pregunto, cuán desconcertado estabas ante tus pecados y que no
 
-encontrabas ningn lugar de refugio que te protegiera de tus adversarios?
+encontrabas ningún lugar de refugio que te protegiera de tus adversarios?
 
-Hemos olvidado nuestros lamentables fracasos en la predicacin y en la oracin,
+żHemos olvidado nuestros lamentables fracasos en la predicación y en la oración,
 
-cuando no dependamos de Dios para obtener nuestra fortaleza? Oh, esos tiempos
+cuando no dependíamos de Dios para obtener nuestra fortaleza? Oh, esos tiempos
 
-de gemir, cuando nadie ha credo a nuestro anuncio porque el brazo del Seor no
+de gemir, cuando nadie ha creído a nuestro anuncio porque el brazo del Seńor no
 
 fue manifestado. Yo traigo a mi memoria todos mis fracasos mientras estoy sobre
 
 este monte de gozo. No dudo que en el campo de Eben-ezer estuvieran las tumbas
 
-de miles de combatientes que haban sucumbido en la lucha. Que las tumbas de
+de miles de combatientes que habían sucumbido en la lucha. Que las tumbas de
 
 nuestros altivos conceptos pasados, las tumbas de nuestra confianza en nosotros
 
 mismos, las tumbas de nuestra fuerza y jactancia en la criatura, nos impulsen a
 
-alabar al Seor que hasta aqu nos ayud. Tal vez en aquel sitio hubiera un
+alabar al Seńor que hasta aquí nos ayudó. Tal vez en aquel sitio hubiera un
 
 trofeo levantado por los injuriosos filisteos. Oh, que el recuerdo de la
 
-jactancia del adversario, cuando deca: Aj! Aj!, penetre en nuestros
+jactancia del adversario, cuando decía: “ˇAjá! ˇAjá!”, penetre en nuestros
 
-odos para endulzar el grito de triunfo mientras glorificamos al Dios de
+oídos para endulzar el grito de triunfo mientras glorificamos al Dios de
 
-Israel. Has hecho algo por Dios? No habras hecho nada sin l. Mira tus
+Israel. żHas hecho algo por Dios? No habrías hecho nada sin Él. Mira tus
 
-derrotas anteriores. Regresas victorioso? Habras regresado arrastrando tus
+derrotas anteriores. żRegresas victorioso? Habrías regresado arrastrando tus
 
 ropas en el cieno y con tu escudo deshonrado, si Dios no hubiese estado de tu
 
-lado. Oh, t que has comprobado tu debilidad tal vez por alguna terrible cada,
+lado. Oh, tú que has comprobado tu debilidad tal vez por alguna terrible caída,
 
-o por alguna triste desilusin; que el recuerdo del sitio donde fuiste vencido
+o por alguna triste desilusión; que el recuerdo del sitio donde fuiste vencido
 
-te constria a alabar ms al Seor que te ha ayudado hasta este da a triunfar
+te constrińa a alabar más al Seńor que te ha ayudado hasta este día a triunfar
 
 sobre tus adversarios.
 
 El campo entre Mizpa y
 
-Sen refrescara tambin sus memorias respecto
+Sen refrescaría también sus memorias respecto
 
 a sus pecados,
 
-pues era el pecado el que los haba vencido. Si sus
+pues era el pecado el que los había vencido. Si sus
 
-corazones no hubiesen sido capturados por el pecado, su tierra no habra sido
+corazones no hubiesen sido capturados por el pecado, su tierra no habría sido
 
 capturada nunca por los filisteos. Si no le hubiesen dado la espalda a su Dios,
 
-no habran vuelto la espalda delante los filisteos en el da del conflicto.
+no habrían vuelto la espalda delante los filisteos en el día del conflicto.
 
-Hermanos, recordemos nuestros pecados; ellos servirn como una negra hoja de
+Hermanos, recordemos nuestros pecados; ellos servirán como una negra hoja de
 
-realce sobre la cual relucir con mayor intensidad la misericordia de Dios. La
+realce sobre la cual relucirá con mayor intensidad la misericordia de Dios. La
 
-fertilidad de Egipto es ms maravillosa debido a su cercana a las arenas de
+fertilidad de Egipto es más maravillosa debido a su cercanía a las arenas de
 
-Libia que la cubriran por completo si no fuera por el ro Nilo. Es maravilloso
+Libia que la cubrirían por completo si no fuera por el río Nilo. Es maravilloso
 
-que Dios sea tan bueno, pero que sea tan bueno para ti y para m que somos tan
+que Dios sea tan bueno, pero que sea tan bueno para ti y para mí que somos tan
 
 rebeldes, es un milagro de milagros. No conozco una palabra que pueda expresar
 
-la sorpresa y el asombro que nuestras almas deberan sentir ante la bondad de
+la sorpresa y el asombro que nuestras almas deberían sentir ante la bondad de
 
-Dios para con nosotros. Nuestros corazones actan como rameras; nuestras vidas estn
+Dios para con nosotros. Nuestros corazones actúan como rameras; nuestras vidas están
 
-lejos de ser perfectas; nuestra fe est casi apagada; nuestra incredulidad es a
+lejos de ser perfectas; nuestra fe está casi apagada; nuestra incredulidad es a
 
 menudo prevaleciente; nuestro orgullo yergue su maldita cabeza; nuestra
 
 paciencia es una pobre planta enfermiza casi quemada por la helada de una
 
-noche; nuestro valor es poco mejor que la cobarda; nuestro amor es tibio;
+noche; nuestro valor es poco mejor que la cobardía; nuestro amor es tibio;
 
-nuestro ardor es slo como el hielo; oh, mis queridos hermanos, si slo
+nuestro ardor es sólo como el hielo; oh, mis queridos hermanos, si sólo
 
-pensramos, cada uno de nosotros, qu masa de pecado somos; si reflexionramos
+pensáramos, cada uno de nosotros, qué masa de pecado somos; si reflexionáramos
 
-que despus de todo slo somos, como escribe uno de los padres: muladares
+que después de todo sólo somos, como escribe uno de los padres: “muladares
 
-ambulantes, nos sorprendera en verdad que el sol de la divina gracia contine
+ambulantes”, nos sorprendería en verdad que el sol de la divina gracia continúe
 
 brillando tan perpetuamente sobre nosotros, y que la abundancia de la
 
-misericordia del cielo sea revelada en nosotros. Oh, Seor, cuando recordamos
+misericordia del cielo sea revelada en nosotros. Oh, Seńor, cuando recordamos
 
-lo que habramos podido ser, y lo que realmente hemos sido, tenemos que decir:
+lo que habríamos podido ser, y lo que realmente hemos sido, tenemos que decir:
 
-Gloria sea al benigno y misericordioso Dios que hasta aqu nos ayud.
+“Gloria sea al benigno y misericordioso Dios que hasta aquí nos ayudó”.
 
-Adems, ese sitio les
+Además, ese sitio les
 
-recordara
+recordaría
 
 sus aflicciones.
 
-Qu
+Qué
 
-triste captulo en la historia de Israel es aquel que sigue a la derrota
+triste capítulo en la historia de Israel es aquel que sigue a la derrota
 
-inflingida por los filisteos. El buen anciano El, ustedes recordarn, cay
+inflingida por los filisteos. El buen anciano Elí, ustedes recordarán, cayó
 
-hacia atrs y se desnuc; y su nuera en sus dolores de parto clam con respecto
+hacia atrás y se desnucó; y su nuera en sus dolores de parto clamó con respecto
 
-a su hijo: Llmenlo Icabod, pues traspasada es la gloria de Israel, por haber
+a su hijo: “Llámenlo Icabod, pues traspasada es la gloria de Israel, por haber
 
-sido tomada el arca de Dios. Sus cosechas fueron arrebatadas por los ladrones;
+sido tomada el arca de Dios”. Sus cosechas fueron arrebatadas por los ladrones;
 
-sus vias fueron cortadas por manos extraas. Israel experiment veinte aos de
+sus vińas fueron cortadas por manos extrańas. Israel experimentó veinte ańos de
 
-una afliccin profunda y amarga. Habran podido decir con David: Pasamos por
+una aflicción profunda y amarga. Habrían podido decir con David: “Pasamos por
 
 el fuego y por el agua; los hombres efectivamente cabalgaron sobre nuestra
 
-cabeza. Bien, amigos, que el recuerdo de
+cabeza”. Bien, amigos, que el recuerdo de
 
 nuestras
 
-aflicciones nos inspire tambin
+aflicciones nos inspire también
 
 a
 
 nosotros
 
-a sentir un agradecimiento ms profundo mientras erigimos la
+a sentir un agradecimiento más profundo mientras erigimos la
 
-piedra de Eben-ezer. Hemos tenido nuestras aflicciones como Iglesia. Habr de
+piedra de Eben-ezer. Hemos tenido nuestras aflicciones como Iglesia. żHabré de
 
-recordarles acerca de nuestro lgubre y negro da? Nunca podra ser borrado de
+recordarles acerca de nuestro lúgubre y negro día? Nunca podría ser borrado de
 
-nuestra memoria el tiempo de nuestra afliccin y tribulacin. La muerte penetr
+nuestra memoria el tiempo de nuestra aflicción y tribulación. La muerte penetró
 
-por nuestras ventanas, y la consternacin se apoder de nuestros corazones. No
+por nuestras ventanas, y la consternación se apoderó de nuestros corazones. żNo
 
-hablaron mal de nosotros todos los hombres? Quin nos dara una palabra de
+hablaron mal de nosotros todos los hombres? żQuién nos daría una palabra de
 
-aliento? El propio Seor nos afligi, y nos quebrant en el da de Su ira. As
+aliento? El propio Seńor nos afligió, y nos quebrantó en el día de Su ira. Así
 
-nos pareci entonces. Ah, Dios, T sabes cun grandes han sido los resultados
+nos pareció entonces. Ah, Dios, Tú sabes cuán grandes han sido los resultados
 
-que fluyeron de aquella terrible calamidad, pero el recuerdo no podra borrarse
+que fluyeron de aquella terrible calamidad, pero el recuerdo no podría borrarse
 
 de nuestras almas ni siquiera en el propio cielo. Al evocar aquella noche de
 
-confusin y aquellas largas semanas de calumnias y de abusos, rodemos una gran
+confusión y aquellas largas semanas de calumnias y de abusos, rodemos una gran
 
-piedra delante del Seor, y escribamos sobre ella: Hasta aqu nos ayud
+piedra delante del Seńor, y escribamos sobre ella: “Hasta aquí nos ayudó
 
-Jehov. Poco, creo, logr el diablo mediante aquel golpe maestro. Pequeo fue el
+Jehová”. Poco, creo, logró el diablo mediante aquel golpe maestro. Pequeńo fue el
 
-triunfo que consigui por ese acto de malicia. Ms grandes multitudes que nunca
+triunfo que consiguió por ese acto de malicia. Más grandes multitudes que nunca
 
-se reunieron para escuchar la palabra, y algunos de los aqu presentes, que de
+se reunieron para escuchar la palabra, y algunos de los aquí presentes, que de
 
-otra manera no habran asistido nunca a la predicacin del Evangelio,
+otra manera no habrían asistido nunca a la predicación del Evangelio,
 
 permanecen como monumentos vivientes del poder de Dios para salvar. De todas
 
-las cosas malas de las que ha provenido un bien, podemos sealar siempre la
+las cosas malas de las que ha provenido un bien, podemos seńalar siempre la
 
-catstrofe del Surrey Hall como uno de los bienes ms grandes que haya acontecido
+catástrofe del Surrey Hall como uno de los bienes más grandes que haya acontecido
 
-jams en este vecindario a pesar de las aflicciones que trajo consigo. Este
+jamás en este vecindario a pesar de las aflicciones que trajo consigo. Este
 
-hecho en particular es slo una muestra de otros, pues la regla del Seor es extraer
+hecho en particular es sólo una muestra de otros, pues la regla del Seńor es extraer
 
-bien del mal para as demostrar Su sabidura y enaltecer Su gracia. Oh, ustedes
+bien del mal para así demostrar Su sabiduría y enaltecer Su gracia. Oh, ustedes
 
 que se han levantado de lechos de languidez, ustedes que han sido doblegados
 
@@ -480,17 +480,17 @@ por la duda y el miedo, y ustedes que han sido consumidos por la pobreza, o que
 
 han sido calumniados, o que han sido aparentemente abandonados por su Dios, si
 
-en este da la gloria de la gracia de Dios descansa en ustedes, tomen la piedra
+en este día la gloria de la gracia de Dios descansa en ustedes, tomen la piedra
 
-y derramen aceite encima de ella, y escriban all: Eben-ezer, hasta aqu nos
+y derramen aceite encima de ella, y escriban allí: “Eben-ezer, hasta aquí nos
 
-ayud Jehov.
+ayudó Jehová”.
 
 Mientras consideramos la
 
-peculiaridad de la ubicacin, debemos observar que as como haba sido el sitio
+peculiaridad de la ubicación, debemos observar que así como había sido el sitio
 
-de su derrota, de su pecado y de su afliccin, as ahora, ante la victoria, era
+de su derrota, de su pecado y de su aflicción, así ahora, ante la victoria, era
 
 el lugar de
 
@@ -502,79 +502,81 @@ ustedes, amados, que fueron convocados para arrepentirse, para confesar sus
 
 pecados, para deshacerse de sus falsos dioses y para echar fuera de sus casas y
 
-de sus corazones a Astarot. Fue all que vieron la mano de Dios y que fueron inducidos
+de sus corazones a Astarot. Fue allí que vieron la mano de Dios y que fueron inducidos
 
-a decir: Hasta aqu nos ayud Jehov. Cuando ustedes y yo somos ms
+a decir: “Hasta aquí nos ayudó Jehová”. Cuando ustedes y yo somos más
 
-diligentes en darle caza al pecado, entonces Dios hace huir con valenta a
+diligentes en darle caza al pecado, entonces Dios hace huir con valentía a
 
 nuestros enemigos. Ustedes cuidan de la obra en el interior y vencen el pecado,
 
-y Dios cuidar de la obra exterior y vencer sus problemas y sus tribulaciones
+y Dios cuidará de la obra exterior y vencerá sus problemas y sus tribulaciones
 
-por ustedes. Ah, queridos amigos, al levantar esta piedra recordando cmo Dios
+por ustedes. Ah, queridos amigos, al levantar esta piedra recordando cómo Dios
 
-nos ayud, derramemos lgrimas de afliccin rememorando cun ingratos hemos
+nos ayudó, derramemos lágrimas de aflicción rememorando cuán ingratos hemos
 
-sido. La penitencia y la alabanza deben cantar siempre a coro en la tierra. As
+sido. La penitencia y la alabanza deben cantar siempre a coro en la tierra. Así
 
 como en algunas de nuestras tonadas hay dos o tres partes, vamos a necesitar
 
-siempre que Arrepentimiento asuma las notas bajas en tanto que estamos aqu,
+siempre que ‘Arrepentimiento’ asuma las notas bajas en tanto que estamos aquí,
 
-mientras que Fe, en alabanza, se remonta hasta las notas ms altas de la
+mientras que ‘Fe’, en alabanza, se remonta hasta las notas más altas de la
 
-divina escala musical de Gratitud. S, con nuestro gozo por la culpa perdonada
+divina escala musical de ‘Gratitud’. Sí, con nuestro gozo por la culpa perdonada
 
 lamentamos haber horadado al Salvador, y con nuestro gozo por las gracias
 
 fortalecidas y por una madurante experiencia, tenemos que lamentar la
 
-ingratitud y la incredulidad. Hasta aqu te ayud el Seor y, sin embargo, t
+ingratitud y la incredulidad. Hasta aquí te ayudó el Seńor y, sin embargo, tú
 
-dijiste una vez, Mi Dios me ha olvidado. Hasta aqu te socorri el Seor, y,
+dijiste una vez, “Mi Dios me ha olvidado”. Hasta aquí te socorrió el Seńor, y,
 
-con todo, t murmuraste y te quejaste de l. Hasta aqu te socorri el Seor, y
+con todo, tú murmuraste y te quejaste de Él. Hasta aquí te socorrió el Seńor, y
 
-con todo, t lo negaste una vez como Pedro. Hasta aqu te socorri el Seor, y,
+con todo, tú lo negaste una vez como Pedro. Hasta aquí te socorrió el Seńor, y,
 
 con todo, tu ojo se ha extraviado en pos de la vanidad, y tu mano ha tocado el
 
-pecado y tu corazn ha sido lascivo. Arrepintmonos, hermanos mos, pues es a
+pecado y tu corazón ha sido lascivo. Arrepintámonos, hermanos míos, pues es a
 
-travs de nuestras lgrimas que percibiremos mejor la belleza de estas agradecidas
+través de nuestras lágrimas que percibiremos mejor la belleza de estas agradecidas
 
-palabras: Hasta aqu nos ayud Jehov.
+palabras: “Hasta aquí nos ayudó Jehová”.
 
 Han de recordar,
 
-tambin, que Eben-ezer fue el lugar de
+también, que Eben-ezer fue el lugar de
 
-lamentacin
+lamentación
 
-por el distanciamiento del Seor.
+por el distanciamiento del Seńor.
 
-Se juntaron para orar a Dios pidindole
+Se juntaron para orar a Dios pidiéndole
 
 que regresara a ellos. Ciertamente veremos a Dios si lo anhelamos con ansia.
 
-Cun deleitable es ver a una Iglesia ansiosa de avivamientos, clamando,
+Cuán deleitable es ver a una Iglesia ansiosa de avivamientos, clamando,
 
-pidindole a Dios que venga a ella. Cuando ustedes saben, hermanos, que sin
+pidiéndole a Dios que venga a ella. Cuando ustedes saben, hermanos, que sin
 
 Dios las ordenanzas no son nada, cuando no se pueden quedar satisfechos con la
 
 letra muerta y seca sino que realmente quieren tener el poder y la presencia de
 
-Dios, entonces no pasar mucho tiempo antes de que lo tengan. Entonces,
+Dios, entonces no pasará mucho tiempo antes de que lo tengan. Entonces,
 
-mientras ustedes y yo expresamos gratitud por el pasado, musitemos otra oracin
+mientras ustedes y yo expresamos gratitud por el pasado, musitemos otra oración
 
-a Dios pidiendo una gracia renovada. Si t personalmente has perdido la luz de
+a Dios pidiendo una gracia renovada. Si tú personalmente has perdido la luz de
 
-Su rostro, ora pidiendo sto esta maana:
+Su rostro, ora pidiendo ésto esta mańana:
 
-Retorna, oh santa Paloma!
+“ˇRetorna, oh santa Paloma!
+
+ˇ
 
 Retorna,
 
@@ -584,7 +586,7 @@ Dulce mensajera del reposo
 
 Odio los pecados que hacen que te contristes,
 
-Y que te apartaron de mi pecho.
+Y que te apartaron de mi pecho”.
 
 Y si se tratara de
 
@@ -592,27 +594,27 @@ la Iglesia
 
 entera, y en cualquier
 
-medida nuestro amor se hubiere enfriado y el espritu de conversin y
+medida nuestro amor se hubiere enfriado y el espíritu de conversión y
 
-santificacin hubiere partido, elevemos esta misma oracin:
+santificación hubiere partido, elevemos esta misma oración:
 
-Salvador, visita Tu plantacin;
+“Salvador, visita Tu plantación;
 
-Concdenos, Seor, una agraciada lluvia!
+ˇConcédenos, Seńor, una agraciada lluvia!
 
-Todo vendr a ser desolacin,
+Todo vendrá a ser desolación,
 
-A menos que T regreses de nuevo;
+A menos que Tú regreses de nuevo;
 
-Seor, vivifcanos,
+Seńor, vivifícanos,
 
-Toda nuestra ayuda ha de venir de Ti!
+ˇToda nuestra ayuda ha de venir de Ti!
 
 El lugar de avivamiento
 
 debe ser el lugar de un piadoso agradecimiento.
 
-En aquel da, tambin,
+En aquel día, también,
 
 Mizpa fue el lugar de un
 
@@ -622,7 +624,7 @@ y
 
 su nombre significa la
 
-torre viga.
+torre vigía.
 
 Estas
 
@@ -630,41 +632,41 @@ personas, digo, se juntaron para renovar su pacto con Dios y para esperarlo
 
 como en una atalaya. Siempre que el pueblo de Dios vuelve su mirada al pasado
 
-debera renovar su pacto con Dios. Pon de nuevo tu mano en la mano de Cristo, t,
+debería renovar su pacto con Dios. Pon de nuevo tu mano en la mano de Cristo, tú,
 
-santo del Altsimo, y entrgate a l de nuevo. Sube a tu atalaya y est atento
+santo del Altísimo, y entrégate a Él de nuevo. Sube a tu atalaya y está atento
 
-a la venida de tu Seor. Mira si hay pecado en tu interior, si hay tentacin afuera
+a la venida de tu Seńor. Mira si hay pecado en tu interior, si hay tentación afuera
 
-de ti, algn deber descuidado o algn letargo que repta cautelosamente hacia
+de ti, algún deber descuidado o algún letargo que repta cautelosamente hacia
 
-ti. Ven a Mizpa, a la atalaya; ven a Mizpa, el lugar de renovacin del pacto, y
+ti. Ven a Mizpa, a la atalaya; ven a Mizpa, el lugar de renovación del pacto, y
 
-luego toma tu piedra y di: Hasta aqu nos ayud Jehov.
+luego toma tu piedra y di: “Hasta aquí nos ayudó Jehová”.
 
 Me parece que el sitio
 
-donde Samuel dijo: Eben-ezer, era en muchos sentidos sobremanera similar a la
+donde Samuel dijo: “Eben-ezer”, era en muchos sentidos sobremanera similar a la
 
-posicin que ocupamos nosotros en este da. No creo que los hijos de Israel
+posición que ocupamos nosotros en este día. No creo que los hijos de Israel
 
-pudieran decir con un gozo ms intenso que nosotros: Eben-ezer! Hemos cometido
+pudieran decir con un gozo más intenso que nosotros: “ˇEben-ezer!” Hemos cometido
 
-muchos pecados, hemos tenido una porcin de aflicciones y algunas derrotas en
+muchos pecados, hemos tenido una porción de aflicciones y algunas derrotas en
 
-razn de nuestra propia locura. Espero que nos hayamos humillado delante de
+razón de nuestra propia locura. Espero que nos hayamos humillado delante de
 
-Dios, y que nos hayamos lamentado por l, y que deseemos contemplarlo y morar
+Dios, y que nos hayamos lamentado por Él, y que deseemos contemplarlo y morar
 
-muy cerca de l, y que nuestra alma bendiga en verdad Su nombre mientras
+muy cerca de Él, y que nuestra alma bendiga en verdad Su nombre mientras
 
-renovamos el pacto en este da, mientras venimos a la atalaya y esperamos or
+renovamos el pacto en este día, mientras venimos a la atalaya y esperamos oír
 
-lo que Dios el Seor nos dir. Vamos, entonces, en esta gran casa que el favor
+lo que Dios el Seńor nos dirá. Vamos, entonces, en esta gran casa que el favor
 
-del Seor ha edificado para nosotros, cantemos juntos: Hasta aqu nos ayud
+del Seńor ha edificado para nosotros, cantemos juntos: “Hasta aquí nos ayudó
 
-Jehov.
+Jehová”.
 
 II.
 
@@ -672,11 +674,11 @@ Cambiemos
 
 ahora el tema para considerar
 
-LA OCASIN
+LA OCASIÓN
 
 DE
 
-LA ERECCIN
+LA ERECCIÓN
 
 DE
 
@@ -684,43 +686,43 @@ ESTE MEMORIAL.
 
 Las tribus desarmadas se
 
-haban reunido para adorar. Cuando los filisteos se enteraron de la reunin,
+habían reunido para adorar. Cuando los filisteos se enteraron de la reunión,
 
 sospecharon una revuelta. Un levantamiento no estaba contemplado en aquel momento,
 
-aunque sin duda los corazones del pueblo albergaban la esperanza de que seran
+aunque sin duda los corazones del pueblo albergaban la esperanza de que serían
 
-liberados de una manera o de otra. Siendo los filisteos, como nacin, muy
+liberados de una manera o de otra. Siendo los filisteos, como nación, muy
 
-inferiores en nmero a los hijos de Israel, tenan la desconfianza natural que
+inferiores en número a los hijos de Israel, tenían la desconfianza natural que
 
-invade a los opresores dbiles. Si ha de haber tiranos, que sean fuertes, pues
+invade a los opresores débiles. Si ha de haber tiranos, que sean fuertes, pues
 
-nunca son tan recelosos o crueles como esos pequeos dspotas que siempre estn
+nunca son tan recelosos o crueles como esos pequeńos déspotas que siempre están
 
-temiendo alguna rebelin. Oyendo que el pueblo se haba reunido, los filisteos
+temiendo alguna rebelión. Oyendo que el pueblo se había reunido, los filisteos
 
-resolvieron atacarlos; fjense: atacar a un grupo desarmado que se haba
+resolvieron atacarlos; fíjense: atacar a un grupo desarmado que se había
 
 reunido para adorar. La gente estaba alarmada; era natural que lo estuviera.
 
-Samuel, sin embargo, el profeta de Dios, estuvo a la altura de la ocasin. Les
+Samuel, sin embargo, el profeta de Dios, estuvo a la altura de la ocasión. Les
 
-mand que trajeran un cordero. No s si el cordero fuera ofrecido segn los
+mandó que trajeran un cordero. No sé si el cordero fuera ofrecido según los
 
-ritos de Levtico, sin embargo, los profetas en todas las pocas tenan el
+ritos de Levítico, sin embargo, los profetas en todas las épocas tenían el
 
 derecho de prescindir de las leyes ordinarias. Esto era para mostrar que la
 
-dispensacin legal no era permanente, que haba algo que era superior al
+dispensación legal no era permanente, que había algo que era superior al
 
-sacerdocio de Aarn, de tal manera que Samuel y Elas, hombres en quienes Dios moraba
+sacerdocio de Aarón, de tal manera que Samuel y Elías, hombres en quienes Dios moraba
 
-expresamente, eran ms poderosos que los sacerdotes que oficiaban
+expresamente, eran más poderosos que los sacerdotes que oficiaban
 
 ordinariamente en el santuario. Samuel toma el cordero, lo coloca sobre el altar,
 
-lo ofrece, y cuando el humo se eleva al cielo, Samuel ofrece una oracin. La
+lo ofrece, y cuando el humo se eleva al cielo, Samuel ofrece una oración. La
 
 voz del hombre recibe una respuesta de la voz de Dios; un gran trueno deja
 
@@ -738,13 +740,13 @@ obtuvo la victoria
 
 Tan pronto como el cordero fue
 
-inmolado y el humo subi al cielo, la bendicin comenz a descender sobre los
+inmolado y el humo subió al cielo, la bendición comenzó a descender sobre los
 
-israelitas y la maldicin cay sobre los enemigos. Siguieron a los filisteos
+israelitas y la maldición cayó sobre los enemigos. “Siguieron a los filisteos”
 
-noten las palabras- hirindolos hasta debajo de Bet-car, que al traducirse
+–noten las palabras- “hiriéndolos hasta debajo de Bet-car”, que al traducirse
 
-significa la casa del Cordero. Al ofrecerse el cordero los israelitas
+significa “la casa del Cordero”. Al ofrecerse el cordero los israelitas
 
 comenzaron a pelear contra los filisteos y los mataron hasta llegar a la casa
 
@@ -752,189 +754,189 @@ del cordero. Hermanos, si hemos hecho algo por Cristo, si hemos alcanzado alguna
 
 victorias, si algunas almas en esta casa han sido convertidas, si algunos
 
-corazones han sido santificados, si algunos espritus abatidos han sido
+corazones han sido santificados, si algunos espíritus abatidos han sido
 
 consolados, den testimonio de que todo ha sido gracias al Cordero. Cuando nos
 
-hemos representado a Cristo inmolado, y hemos descrito las agonas que soport
+hemos representado a Cristo inmolado, y hemos descrito las agonías que soportó
 
-sobre la cruz, y hemos intentado predicar ntegra aunque dbilmente la gran
+sobre la cruz, y hemos intentado predicar íntegra aunque débilmente la gran
 
 doctrina de Su sacrificio sustitutivo, cuando lo hemos expuesto como la
 
-propiciacin por los pecados, es entonces que las victorias han comenzado. Y
+propiciación por los pecados, es entonces que las victorias han comenzado. Y
 
 cuando hemos predicado a Cristo ascendiendo a lo alto, llevando cautiva la
 
-cautividad, y cuando nos hemos gloriado en el hecho de que l vive siempre para
+cautividad, y cuando nos hemos gloriado en el hecho de que Él vive siempre para
 
-interceder por nosotros, y que vendr para juzgar a vivos y muertos, si algn
+interceder por nosotros, y que vendrá para juzgar a vivos y muertos, si algún
 
 bien se ha logrado ha sido por medio del Cordero, del Cordero inmolado, o
 
-tambin del Cordero exaltado. Observen, queridos amigos, que cuando levantamos
+también del Cordero exaltado. Observen, queridos amigos, que cuando levantamos
 
-nuestro Eben-ezer esta maana, lo hacemos honrndolo a l. Al Cordero una vez
+nuestro Eben-ezer esta mańana, lo hacemos honrándolo a Él. “Al Cordero una vez
 
-inmolado sea gloria por los siglos de los siglos. Ustedes han vencido a sus
+inmolado sea gloria por los siglos de los siglos”. Ustedes han vencido a sus
 
-enemigos, han hecho morir sus pecados y han dominado sus dificultades. Cmo ha
+enemigos, han hecho morir sus pecados y han dominado sus dificultades. żCómo ha
 
 sido? Desde el altar de aquel cordero sangrante prosiguiendo hasta el trono de
 
 Aquel que ha de reinar por los siglos de los siglos, el camino entero ha sido
 
-manchado con la sangre carmes de sus enemigos: ustedes han vencido gracias a
+manchado con la sangre carmesí de sus enemigos: ustedes han vencido gracias a
 
-la sangre del Cordero. El Cordero los vencer. El que cabalga en el caballo
+la sangre del Cordero. El Cordero los vencerá. El que cabalga en el caballo
 
 blanco va delante de nosotros; Su nombre es el Cordero. Y todos los santos
 
-habrn de seguirle sobre caballos blancos, y saldrn venciendo y para vencer.
+habrán de seguirle sobre caballos blancos, y saldrán venciendo y para vencer.
 
-Eben-ezer; hasta aqu nos ayud Jehov. Pero la ayuda ha sido siempre por
+“Eben-ezer; hasta aquí nos ayudó Jehová”. Pero la ayuda ha sido siempre por
 
 medio del Cordero, el sangrante, el viviente, el reinante Cordero.
 
-As como en aquella
+Así como en aquella
 
-ocurrencia el sacrificio fue exaltado, as tambin fue
+ocurrencia el sacrificio fue exaltado, así también fue
 
-reconocido el poder de la oracin.
+reconocido el poder de la oración.
 
 Los filisteos se dieron a la
 
-fuga exclusivamente en virtud de la oracin. Samuel or al Seor. Le haban
+fuga exclusivamente en virtud de la oración. Samuel oró al Seńor. Le habían
 
-dicho: No ceses de clamar por nosotros a Jehov nuestro Dios. Hermanos, demos
+dicho: “No ceses de clamar por nosotros a Jehová nuestro Dios”. Hermanos, demos
 
-nuestro testimonio esta maana de que si se ha logrado algn bien aqu, ha sido
+nuestro testimonio esta mańana de que si se ha logrado algún bien aquí, ha sido
 
-el resultado de la oracin. A menudo he solazado mi corazn con el recuerdo de
+el resultado de la oración. A menudo he solazado mi corazón con el recuerdo de
 
-las oraciones ofrecidas en nuestra antigua casa de reunin en la calle de New
+las oraciones ofrecidas en nuestra antigua casa de reunión en la calle de New
 
-Park. Qu suplicaciones escuch all; qu gemidos de espritus que forcejeaban
+Park. Qué suplicaciones escuché allá; qué gemidos de espíritus que forcejeaban
 
-en oracin; hemos conocido tiempos en los que el ministro no ha tenido el nimo
+en oración; hemos conocido tiempos en los que el ministro no ha tenido el ánimo
 
 para decir ni una palabra, porque las oraciones de ustedes a Dios lo han
 
-derretido, han impedido su expresin, y de buena gana ha pronunciado una
+derretido, han impedido su expresión, y de buena gana ha pronunciado una
 
-bendicin y los ha enviado a casa, porque el Espritu de Dios estaba tan
+bendición y los ha enviado a casa, porque el Espíritu de Dios estaba tan
 
-presente que difcilmente era el tiempo de hablarle al hombre, sino nicamente
+presente que difícilmente era el tiempo de hablarle al hombre, sino únicamente
 
-de hablarle a Dios. No creo que tengamos siempre aqu el mismo espritu de
+de hablarle a Dios. No creo que tengamos siempre aquí el mismo espíritu de
 
-oracin, y con todo, en esto he de regocijarme y lo hago: no s dnde se pueda
+oración, y con todo, en esto he de regocijarme y lo hago: no sé dónde se pueda
 
-encontrar ms ejercitado el espritu de oracin que en este lugar. Yo s que
+encontrar más ejercitado el espíritu de oración que en este lugar. Yo sé que
 
-ustedes sostienen mis manos en alto, que ustedes son como Aarn y Hur sobre la
+ustedes sostienen mis manos en alto, que ustedes son como Aarón y Hur sobre la
 
-cumbre del collado. Yo s que ustedes interceden ante Dios para la conversin de
+cumbre del collado. Yo sé que ustedes interceden ante Dios para la conversión de
 
-este vecindario y para la evangelizacin de esta gran ciudad. Jvenes y viejos,
+este vecindario y para la evangelización de esta gran ciudad. Jóvenes y viejos,
 
 ustedes en verdad se esfuerzan juntos para que venga el reino y se haga la
 
-voluntad del Seor. Pero, oh, no debemos olvidar, al mirar a esta vasta Iglesia
+voluntad del Seńor. Pero, oh, no debemos olvidar, al mirar a esta vasta Iglesia
 
--dos mil miembros y fraccin que caminan en el temor de Dios- no debemos
+-dos mil miembros y fracción que caminan en el temor de Dios- no debemos
 
-olvidar que este incremento vino como resultado de la oracin, y que es todava
+olvidar que este incremento vino como resultado de la oración, y que es todavía
 
-en la oracin donde nuestra fortaleza se debe apoyar. Yo los exhorto delante
+en la oración donde nuestra fortaleza se debe apoyar. Yo los exhorto delante
 
-del Altsimo que no
+del Altísimo que no
 
 dependan
 
 nunca de mi ministerio.
 
-Qu soy yo? Qu hay en m? Yo hablo, y cuando Dios habla por mi medio, yo
+żQué soy yo? żQué hay en mí? Yo hablo, y cuando Dios habla por mi medio, yo
 
-hablo con un poder desconocido para los hombres en quienes no mora el Espritu;
+hablo con un poder desconocido para los hombres en quienes no mora el Espíritu;
 
-pero si l me deja, no slo soy tan dbil como otros hombres, sino ms dbil
+pero si Él me deja, no sólo soy tan débil como otros hombres, sino más débil
 
-que ellos, pues no tengo la sabidura que dan los aos, no tengo el
+que ellos, pues no tengo la sabiduría que dan los ańos, no tengo el
 
-conocimiento humano, no he recibido ningn ttulo en la universidad, y no tengo
+conocimiento humano, no he recibido ningún título en la universidad, y no tengo
 
-el reconocimiento de doctos honores. Si Dios habla por mi medio, l debe
+el reconocimiento de doctos honores. Si Dios habla por mi medio, Él debe
 
-recibir toda la gloria; si l salva almas por medio de un ser tan frgil, l
+recibir toda la gloria; si Él salva almas por medio de un ser tan frágil, Él
 
-debe recibir toda la gloria. Dad a Jehov la gloria y el poder; pongan cada
+debe recibir toda la gloria. ‘Dad a Jehová la gloria y el poder’; pongan cada
 
-partcula de la honra a Sus pies. Pero continen orando; intercedan ante Dios
+partícula de la honra a Sus pies. Pero continúen orando; intercedan ante Dios
 
-por m para que Su poder sea visto todava, y que Su brazo siga interviniendo con
+por mí para que Su poder sea visto todavía, y que Su brazo siga interviniendo con
 
-poder en esta obra. Debemos recordar la oracin que ha sido escuchada cuando
+poder en esta obra. Debemos recordar la oración que ha sido escuchada cuando
 
-levantamos nuestro Eben-ezer y decimos: Hasta aqu nos ayud Jehov.
+levantamos nuestro Eben-ezer y decimos: “Hasta aquí nos ayudó Jehová”.
 
-Adems, as como hubo
+Además, así como hubo
 
-oracin y sacrificio, han de recordar que en respuesta al olor grato del cordero
+oración y sacrificio, han de recordar que en respuesta al olor grato del cordero
 
-y a la dulce fragancia de la intercesin de Samuel,
+y a la dulce fragancia de la intercesión de Samuel,
 
-Jehov sali
+Jehová salió
 
 para derrotar a Sus enemigos. Yo no leo que Israel
 
-haya prorrumpido en un grito de guerra. No, no se habra escuchado su grito en
+haya prorrumpido en un grito de guerra. No, no se habría escuchado su grito en
 
 medio de aquellos fuertes truenos. Nos enteramos de que se lanzaron a la
 
 batalla; pero no fue su arco, ni su lanza, ni su espada, los que lograron la
 
-victoria. Escuchen, hermanos mos, se oye la voz de Dios! Aplasten, aplasten!
+victoria. ˇEscuchen, hermanos míos, se oye la voz de Dios! ˇAplasten, aplasten!
 
-Dnde estn ahora ustedes, hijos de Anac!? Los cielos se estremecen, la
+żˇDónde están ahora ustedes, hijos de Anac!? Los cielos se estremecen, la
 
-tierra tiembla, los collados antiguos se humillan, los pjaros del aire vuelan
+tierra tiembla, los collados antiguos se humillan, los pájaros del aire vuelan
 
-a las guaridas del bosque para ocultarse all, las tmidas cabras sobre los
+a las guaridas del bosque para ocultarse allí, las tímidas cabras sobre los
 
-montes buscan las hendiduras de los peascos. Los truenos ruedan entre retumbos
+montes buscan las hendiduras de los peńascos. Los truenos ruedan entre retumbos
 
 hasta que un monte responde al otro con un sonoro alboroto de espanto. De risco
 
-en risco salta el candente rayo y los filisteos se quedan enceguecidos por l,
+en risco salta el candente rayo y los filisteos se quedan enceguecidos por él,
 
-y se quedan horrorizados y luego ponen pies en polvorosa y huyen. Esforzaos,
+y se quedan horrorizados y luego ponen pies en polvorosa y huyen. ‘Esforzaos,
 
-oh filisteos, y sed hombres, para que no sirvis a los hebreos. Resistan como
+oh filisteos, y sed hombres, para que no sirváis a los hebreos’. Resistan como
 
-hombres, pero a menos que sean dioses, ahora deben temblar. Dnde estn sus
+hombres, pero a menos que sean dioses, ahora deben temblar. żDónde están sus
 
-escudos y sus tachones de adorno? Dnde estn sus lanzas y su lustre? Hagan ahora
+escudos y sus tachones de adorno? żDónde están sus lanzas y su lustre? ˇHagan ahora
 
-que sus espadas relumbren fuera de sus vainas; enven ahora a sus gigantes y a
+que sus espadas relumbren fuera de sus vainas; envíen ahora a sus gigantes y a
 
-sus escuderos! Hagan ahora que sus Goliats desafen al Seor Dios de los
+sus escuderos! ˇHagan ahora que sus Goliats desafíen al Seńor Dios de los
 
-ejrcitos! Aj! Aj! Ustedes son ahora como mujeres! Tiemblan, desfallecen!
+ejércitos! ˇAjá! ˇAjá! ˇUstedes son ahora como mujeres! ˇTiemblan, desfallecen!
 
-Vean, vean! Ellos vuelven la espalda y huyen delante de los hombres de Israel,
+ˇVean, vean! Ellos vuelven la espalda y huyen delante de los hombres de Israel,
 
-a quienes slo consideraban como esclavos. Huyen. El guerrero huye y el de
+a quienes sólo consideraban como esclavos. Huyen. El guerrero huye y el de
 
-soberbio corazn se acobarda, y el hombre valiente huye como una tmida paloma
+soberbio corazón se acobarda, y el hombre valiente huye como una tímida paloma
 
-a su escondite. Gloria sea al Seor Dios de Israel: Su propia diestra y Su
+a su escondite. “Gloria sea al Seńor Dios de Israel: Su propia diestra y Su
 
-santo brazo le han obtenido la victoria.
+santo brazo le han obtenido la victoria”.
 
-Amados, si algn bien se
+Amados, si algún bien se
 
-ha logrado, o si ustedes y yo hemos derrotado al pecado, cmo ha sido? No por
+ha logrado, o si ustedes y yo hemos derrotado al pecado, żcómo ha sido? No por
 
 nuestra
 
@@ -946,69 +948,69 @@ poder, sino por la gloriosa voz
 
 de Dios. Dios truena cuando el Evangelio es predicado verdaderamente. Cuando hablamos
 
-de Jess crucificado, el sonido producido pudiera ser tan dbil como la voz de
+de Jesús crucificado, el sonido producido pudiera ser tan débil como la voz de
 
-un nio, pero Dios truena, y yo les digo, amigos, que los truenos de Dios nunca
+un nińo, pero Dios truena, y yo les digo, amigos, que los truenos de Dios nunca
 
-hirieron el corazn de los filisteos como hiere el Evangelio de Cristo el
+hirieron el corazón de los filisteos como hiere el Evangelio de Cristo el
 
-corazn de los pecadores convictos. Cuando predicamos y Dios bendice la
+corazón de los pecadores convictos. Cuando predicamos y Dios bendice la
 
-predicacin, sta se convierte en los rayos de Dios, en los destellos del fuego
+predicación, ésta se convierte en los rayos de Dios, en los destellos del fuego
 
 divino de Dios, en el brillo de Su lanza, pues nunca fueron tan heridos los
 
-filisteos con el resplandor del relmpago en sus rostros como lo son los
+filisteos con el resplandor del relámpago en sus rostros como lo son los
 
 pecadores cuando la ley de Dios y el Evangelio brillan en sus entenebrecidos
 
-ojos. Pero a Dios sea la gloria, a Dios, a Dios y solo a Dios! Ni una sola
+ojos. ˇPero a Dios sea la gloria, a Dios, a Dios y solo a Dios! Ni una sola
 
-palabra para el hombre, ni una sola slaba para el hijo del hombre. Al que nos
+palabra para el hombre, ni una sola sílaba para el hijo del hombre. “Al que nos
 
-am, y nos lav de nuestros pecados con su sangre a l sea gloria. Este es el
+amó, y nos lavó de nuestros pecados con su sangre… a él sea gloria”. Este es el
 
-cntico de los santos perfectos en lo alto; acaso no habra de ser el cntico
+cántico de los santos perfectos en lo alto; żacaso no habría de ser el cántico
 
-de los seres imperfectos aqu abajo? No a nosotros, no a nosotros, los
+de los seres imperfectos aquí abajo? “No a nosotros, no a nosotros”, los
 
 serafines claman al tiempo que cubren sus rostros con sus alas y arrojan sus
 
-coronas a los pies de Jehov. Hemos de decir: No a nosotros, no a nosotros, mientras
+coronas a los pies de Jehová. Hemos de decir: “No a nosotros, no a nosotros”, mientras
 
-nos exultamos en Su poder y enaltecemos al Dios de nuestra salvacin.
+nos exultamos en Su poder y enaltecemos al Dios de nuestra salvación.
 
 III.
 
 Entonces,
 
-esa fue la ocasin. No necesito demorarme ms tiempo aqu, antes bien debo ir
+esa fue la ocasión. No necesito demorarme más tiempo aquí, antes bien debo ir
 
 de inmediato a
 
-LA INSCRIPCIN
+LA INSCRIPCIÓN
 
 SOBRE
 
-EL MEMORIAL, Eben-ezer, hasta aqu nos ayud Jehov.
+EL MEMORIAL, “Eben-ezer, hasta aquí nos ayudó Jehová”.
 
-La inscripcin puede leerse de tres maneras.
+La inscripción puede leerse de tres maneras.
 
 Tienes que leer, antes
 
-que nada, la palabra que est en el centro, la palabra de la que depende todo
+que nada, la palabra que está en el centro, la palabra de la que depende todo
 
-el sentido y en la que se concentra su plenitud. Hasta aqu
+el sentido y en la que se concentra su plenitud. “Hasta aquí
 
 nos
 
-ayud Jehov. Noten, amados, que no
+ayudó Jehová”. Noten, amados, que no
 
 se quedaron quietos ni rehusaron usar sus armas, sino que mientras Dios estaba
 
-tronando ellos estaban peleando, y mientras los relmpagos estaban centelleando
+tronando ellos estaban peleando, y mientras los relámpagos estaban centelleando
 
-en los ojos del enemigo, ellos les hacan sentir la potencia de su acero. As
+en los ojos del enemigo, ellos les hacían sentir la potencia de su acero. Así
 
 que a la vez que glorificamos a Dios no debemos negar ni descartar la agencia
 
@@ -1020,65 +1022,65 @@ tenemos que luchar
 
 porque Dios lucha por nosotros. Debemos golpear, pero tanto el poder para golpear
 
-como el resultado de golpear tienen que venir de l. Adviertan que ellos no
+como el resultado de golpear tienen que venir de Él. Adviertan que ellos no
 
-dijeron: Hasta aqu nos ayud nuestra espada, hasta aqu nos anim Samuel.
+dijeron: “Hasta aquí nos ayudó nuestra espada, hasta aquí nos animó Samuel”.
 
-No, no, hasta aqu nos ayud Jehov. Tienen que admitir ahora que todo lo que
+No, no, “hasta aquí nos ayudó Jehová”. Tienen que admitir ahora que todo lo que
 
-es verdaderamente grande tiene que ser del Seor. No pueden suponer que algo
+es verdaderamente grande tiene que ser del Seńor. No pueden suponer que algo
 
-tan grande como la conversin de los pecadores o el avivamiento de una Iglesia puedan
+tan grande como la conversión de los pecadores o el avivamiento de una Iglesia puedan
 
-ser jams la obra de un hombre. En el ro Tmesis, cuando la marea se aleja, se
+ser jamás la obra de un hombre. En el río Támesis, cuando la marea se aleja, se
 
-puede ver que hay un largo trecho de cieno ftido y ptrido, pero ms tarde la
+puede ver que hay un largo trecho de cieno fétido y pútrido, pero más tarde la
 
-marea regresa. Pobre incrdulo, t que pensabas que el ro se iba a quedar sin
+marea regresa. Pobre incrédulo, tú que pensabas que el río se iba a quedar sin
 
 agua hasta estar completamente seco y que los barcos iban a encallar, mira, una
 
-vez ms la marea regresa llenando alegremente otra vez la corriente. Pero t
+vez más la marea regresa llenando alegremente otra vez la corriente. Pero tú
 
-ests muy seguro de que un ro tan grande como el Tmesis no ha de ser llenado
+estás muy seguro de que un río tan grande como el Támesis no ha de ser llenado
 
-excepto por las mareas del ocano. Entonces no puedes ver grandes resultados y
+excepto por las mareas del océano. Entonces no puedes ver grandes resultados y
 
-atribuirlos al hombre. Cuando se realiza una pequea obra, los hombres a menudo
+atribuirlos al hombre. Cuando se realiza una pequeńa obra, los hombres a menudo
 
-se otorgan el crdito, pero cuando se realiza una gran obra, no se atreven a
+se otorgan el crédito, pero cuando se realiza una gran obra, no se atreven a
 
 hacerlo. Si Pedro hubiera estado lanzando su anzuelo sobre un costado del barco
 
-y hubiera capturado un gran pez, habra podido decir: Bien hecho, pescador!
+y hubiera capturado un gran pez, habría podido decir: “ˇBien hecho, pescador!”
 
 Pero cuando el bote estaba lleno de peces de tal manera que comenzaba a
 
-hundirse, no poda pensar en l entonces. No, antes bien cae de rodillas y
+hundirse, no podía pensar en él entonces. No, antes bien cae de rodillas y
 
-dice: Aprtate de m, Seor, porque soy hombre pecador. La grandeza de
+dice: “Apártate de mí, Seńor, porque soy hombre pecador”. La grandeza de
 
-nuestra obra nos compele a confesar que debe ser de Dios, que debe ser slo del
+nuestra obra nos compele a confesar que debe ser de Dios, que debe ser sólo del
 
-Seor. Y, queridos amigos, ha de ser as si consideramos lo poco con lo que
+Seńor. Y, queridos amigos, ha de ser así si consideramos lo poco con lo que
 
-comenzamos. Jacob, cuando se aprestaba a cruzar el Jordn, dijo: Con mi cayado
+comenzamos. Jacob, cuando se aprestaba a cruzar el Jordán, dijo: “Con mi cayado
 
-pas este Jordn, y ahora estoy sobre dos campamentos. Ciertamente el hecho de
+pasé este Jordán, y ahora estoy sobre dos campamentos”. Ciertamente el hecho de
 
-que estuviera sobre dos campamentos deba ser obra de Dios, pues l slo tena su
+que estuviera sobre dos campamentos debía ser obra de Dios, pues él sólo tenía su
 
-cayado. Y no recuerdan, unos cuantos de ustedes aqu presentes, que una maana
+cayado. żY no recuerdan, unos cuantos de ustedes aquí presentes, que una mańana
 
-pasamos este Jordn con un cayado? ramos un centenar cuando les prediqu por
+pasamos este Jordán con un cayado? żÉramos un centenar cuando les prediqué por
 
-primera vez? Qu cantidad de reclinatorios vacos, cun escaso puado de
+primera vez? Qué cantidad de reclinatorios vacíos, cuán escaso puńado de
 
-oyentes. Con el cayado pasamos ese Jordn. Pero Dios ha multiplicado a la gente
+oyentes. Con el cayado pasamos ese Jordán. Pero Dios ha multiplicado a la gente
 
-y ha multiplicado el gozo, hasta convertirnos no slo en dos campamentos, sino
+y ha multiplicado el gozo, hasta convertirnos no sólo en dos campamentos, sino
 
-en muchos campamentos; y muchos en este da se estn reuniendo para or el
+en muchos campamentos; y muchos en este día se están reuniendo para oír el
 
 Evangelio predicado por los hijos de esta iglesia, que han sido engendrados por
 
@@ -1086,67 +1088,67 @@ nosotros y enviados por nosotros para ministrar la palabra de vida en muchas
 
 aldeas y villorrios a lo largo de estos tres reinos. Gloria sea a Dios porque
 
-esto no puede ser una obra del hombre. Cul esfuerzo hecho por la sola
+esto no puede ser una obra del hombre. żCuál esfuerzo hecho por la sola
 
-fortaleza del hombre habra de igualar lo que es alcanzado por Dios? Entonces,
+fortaleza del hombre habría de igualar lo que es alcanzado por Dios? Entonces,
 
-el nombre del Seor ha de ser inscrito sobre la piedra del memorial. Yo soy
+el nombre del Seńor ha de ser inscrito sobre la piedra del memorial. Yo soy
 
 siempre muy celoso acerca de este asunto. Si como una Iglesia y como una
 
-congregacin, si como individuos no le damos siempre la gloria a Dios, es
+congregación, si como individuos no le damos siempre la gloria a Dios, es
 
 totalmente imposible que Dios obre por medio de nosotros. He visto muchos
 
-prodigios, pero no he visto todava a un hombre que se arrogara el honor de su
+prodigios, pero no he visto todavía a un hombre que se arrogara el honor de su
 
-obra para s, a quien Dios no dejara solo tarde o temprano. Nabucodonosor dijo:
+obra para sí, a quien Dios no dejara solo tarde o temprano. Nabucodonosor dijo:
 
-No es sta la gran Babilonia que yo edifiqu? Contemplen aquel pobre luntico
+“żNo es ésta la gran Babilonia que yo edifiqué?” Contemplen aquel pobre lunático
 
-cuyo pelo creci como plumas de guila y sus uas como las de las aves: ese es
+cuyo pelo creció como plumas de águila y sus uńas como las de las aves: ese es
 
 Nabucodonosor. Y eso
 
-habrn
+habrán
 
 de ser ustedes, y eso
 
-habr de ser yo, cada uno a su manera, a menos que nos contentemos con darle
+habré de ser yo, cada uno a su manera, a menos que nos contentemos con darle
 
 toda la gloria a Dios. Ciertamente, hermanos, seremos una pestilencia en la nariz
 
-del Altsimo, algo ofensivo, algo incluso como carroa delante del Seor de los
+del Altísimo, algo ofensivo, algo incluso como carrońa delante del Seńor de los
 
-Ejrcitos, si nos arrogamos cualquier honor. Para qu enva Dios a sus santos?
+Ejércitos, si nos arrogamos cualquier honor. żPara qué envía Dios a sus santos?
 
-Para que sean semidioses? Hizo Dios fuertes a los hombres para que se
+żPara que sean semidioses? żHizo Dios fuertes a los hombres para que se
 
-autoexaltaran hasta llegar a Su trono? Cmo, acaso el Rey de reyes te corona
+autoexaltaran hasta llegar a Su trono? żCómo, acaso el Rey de reyes te corona
 
-con misericordias para que t pretendas tener seoro sobre l? Cmo, acaso te
+con misericordias para que tú pretendas tener seńorío sobre Él? żCómo, acaso te
 
 dignifica para que usurpes las prerrogativas de Su trono? No; tienes que venir
 
 con todos los favores y honores que Dios ha puesto en ti, y arrastrarte hasta
 
-el pie de Su trono y decir: Quin soy yo, y qu es la casa de mi padre para
+el pie de Su trono y decir: ‘żQuién soy yo, y qué es la casa de mi padre para
 
-que te hayas acordado de m? Hasta aqu nos ayud Jehov.
+que te hayas acordado de mí? “Hasta aquí nos ayudó Jehová”.
 
 Les dije que este texto
 
-puede leerse de tres maneras. Lo hemos ledo una vez poniendo el nfasis en la
+puede leerse de tres maneras. Lo hemos leído una vez poniendo el énfasis en la
 
-palabra que est en el centro. Ahora ha de ser ledo
+palabra que está en el centro. Ahora ha de ser leído
 
 mirando en retrospectiva.
 
-Las palabras hasta aqu parecieran ser
+Las palabras “hasta aquí” parecieran ser
 
-una mano que apunta en esa direccin. Miren el pasado, miren el pasado. Veinte
+una mano que apunta en esa dirección. Miren el pasado, miren el pasado. ˇVeinte
 
-aos, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, hasta aqu!
+ańos, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, “hasta aquí”!
 
 Diga
 
@@ -1154,31 +1156,31 @@ eso
 
 cada uno de ustedes.
 
-A travs de la pobreza, a travs de la riqueza, a
+A través de la pobreza, a través de la riqueza, a
 
-travs de la enfermedad, a travs de la salud, en casa, fuera de casa, en tierra,
+través de la enfermedad, a través de la salud, en casa, fuera de casa, en tierra,
 
-en el mar, en honor, en deshonra, en perplejidad, en gozo, en tribulacin, en
+en el mar, en honor, en deshonra, en perplejidad, en gozo, en tribulación, en
 
-triunfo, en oracin, en la tentacin, hasta aqu.
+triunfo, en oración, en la tentación, “hasta aquí”.
 
 Junten
 
-todas esas cosas. A veces me gusta contemplar una larga avenida de rboles. Es
+todas esas cosas. A veces me gusta contemplar una larga avenida de árboles. Es
 
 muy deleitable fijar la mirada desde un extremo hasta el otro del largo paisaje,
 
 una suerte de templo frondoso con sus pilares de ramas y sus arcos de hojas.
 
-No puedes
+żNo puedes
 
 mirar los
 
-largos pasillos de tus aos, mirar las verdes ramas de la misericordia en lo
+largos pasillos de tus ańos, mirar las verdes ramas de la misericordia en lo
 
-alto, y los slidos pilares de benignidad y de fidelidad que sostienen tus goces?
+alto, y los sólidos pilares de benignidad y de fidelidad que sostienen tus goces?
 
-No hay pjaros cantando en
+żNo hay pájaros cantando en
 
 aquellas ramas?
 
@@ -1188,9 +1190,9 @@ haber muchos.
 
 Y un sol radiante y un cielo azul
 
-estn all; y si volteas a lo lejos, puedes ver el brillo del cielo y un trono
+están allá; y si volteas a lo lejos, puedes ver el brillo del cielo y un trono
 
-de oro. Hasta aqu! Hasta aqu!
+de oro. “ˇHasta aquí! ˇHasta aquí!”
 
 Luego el texto puede
 
@@ -1200,71 +1202,71 @@ de cara al
 
 futuro.
 
-Pues cuando un hombre se acerca a una determinada seal y escribe:
+Pues cuando un hombre se acerca a una determinada seńal y escribe:
 
-hasta aqu, mira en retrospectiva a mucho de lo que representa el pasado,
+“hasta aquí”, mira en retrospectiva a mucho de lo que representa el pasado,
 
-pero hasta aqu no es el fin, pues todava se ha de recorrer una mayor
+pero “hasta aquí” no es el fin, pues todavía se ha de recorrer una mayor
 
-distancia. Ms pruebas, ms dichas; ms tentaciones, ms triunfos; ms
+distancia. Más pruebas, más dichas; más tentaciones, más triunfos; más
 
-oraciones, ms respuestas; ms arduos trabajos, ms fortaleza; ms luchas, ms
+oraciones, más respuestas; más arduos trabajos, más fortaleza; más luchas, más
 
-victorias; ms calumnias, ms consuelos; ms leones y osos con los que luchar,
+victorias; más calumnias, más consuelos; más leones y osos con los que luchar,
 
-ms zarpazos del len para los Davides de Dios; ms aguas profundas, ms montes
+más zarpazos del león para los Davides de Dios; más aguas profundas, más montes
 
-altos; ms tropas de demonios, ms huestes de ngeles todava. Y luego viene la
+altos; más tropas de demonios, más huestes de ángeles todavía. Y luego viene la
 
-enfermedad, la ancianidad, los achaques, la muerte. Ya se acab todo? No, no,
+enfermedad, la ancianidad, los achaques, la muerte. żYa se acabó todo? ˇNo, no,
 
-no! Vamos a levantar otra piedra cuando entremos en el ro; vamos a gritar
+no! Vamos a levantar otra piedra cuando entremos en el río; vamos a gritar
 
-Eben-ezer all: Hasta aqu nos ayud Jehov, pues an viene algo ms. Un
+Eben-ezer allí: “Hasta aquí nos ayudó Jehová”, pues aún viene algo más. Un
 
 despertar a Su semejanza, un ascenso por esferas estrelladas, arpas, cantos,
 
-palmas, vestiduras blancas, el rostro de Jess, la compaa de los santos, la
+palmas, vestiduras blancas, el rostro de Jesús, la compańía de los santos, la
 
 gloria de Dios, la plenitud de la eternidad, la infinitud de la
 
 bienaventuranza.
 
-S, tan seguramente como Dios
+Sí, tan seguramente como Dios
 
-nos ayud hasta aqu hoy, nos ayudar hasta el final. No te desamparar, ni te
+nos ayudó hasta aquí hoy, nos ayudará hasta el final. “No te desampararé, ni te
 
-dejar. Entonces, nimo, hermanos; y al tiempo que amontonamos las piedras,
+dejaré”. Entonces, ánimo, hermanos; y al tiempo que amontonamos las piedras,
 
-diciendo: Hasta aqu nos ayud Jehov, ciamos los lomos de nuestra mente, y
+diciendo: “Hasta aquí nos ayudó Jehová”, cińamos los lomos de nuestra mente, y
 
 seamos sobrios, y esperemos recibir la gracia que ha de ser revelada en
 
-nosotros hasta el fin, pues as como ha sido, as ser por todos los siglos.
+nosotros hasta el fin, pues así como ha sido, así será por todos los siglos.
 
 Necesito un poco de
 
-aceite para derramarlo sobre esta seal de piedra; necesito algo de aceite.
+aceite para derramarlo sobre esta seńal de piedra; necesito algo de aceite.
 
-Jacob derram aceite sobre ella e invoc el nombre del Seor. Dnde obtendr
+Jacob derramó aceite sobre ella e invocó el nombre del Seńor. żDónde obtendré
 
-yo mi aceite? Agradecidos corazones, tienen ustedes algo de aceite? Espritus
+yo mi aceite? Agradecidos corazones, żtienen ustedes algo de aceite? Espíritus
 
-de oracin, tienen algo de aceite? Compaeros de Jess, tienen algo de
+de oración, żtienen algo de aceite? Compańeros de Jesús, żtienen algo de
 
-aceite? Ustedes que tienen comunin con l de da y de noche, tienen algo de
+aceite? Ustedes que tienen comunión con Él de día y de noche, żtienen algo de
 
-aceite? Derrmenlo, entonces. Rompan sus frascos de alabastro, oh, ustedes,
+aceite? Derrámenlo, entonces. Rompan sus frascos de alabastro, oh, ustedes,
 
-Maras. Viertan sus oraciones junto con la ma en esta maana. Ofrezcan sus
+Marías. Viertan sus oraciones junto con la mía en esta mańana. Ofrezcan sus
 
 acciones de gracias junto con mis agradecidas expresiones de reconocimiento.
 
-Acrquese cada uno de ustedes, y derrame hoy ese aceite sobre
+Acérquese cada uno de ustedes, y derrame hoy ese aceite sobre
 
 este Eben-ezer. Necesito algo de aceite y me pregunto
 
-si puedo obtenerlo de aquel corazn que est por all. Oh, dice uno, mi corazn
+si puedo obtenerlo de aquel corazón que está por allá. Oh, dice uno, mi corazón
 
 es un duro pedernal. Yo leo en
 
@@ -1272,43 +1274,43 @@ la
 
 Escritura
 
-que el Seor extrajo aceite del duro pedernal. Oh,
+que el Seńor extrajo aceite del duro pedernal. ˇOh,
 
-que hubiese un alma que fuese conducida a creer en Cristo esta maana, que algn
+que hubiese un alma que fuese conducida a creer en Cristo esta mańana, que algún
 
-corazn se entregara a Cristo hoy! Por qu no habra de ser as? Por qu no?
+corazón se entregara a Cristo hoy! żPor qué no habría de ser así? żPor qué no?
 
-El Espritu Santo puede derretir el pedernal y mover montaas. Joven, cunto
+El Espíritu Santo puede derretir el pedernal y mover montańas. Joven, żcuánto
 
-tiempo hemos de predicarte, cunto tiempo hemos de invitarte, cunto tiempo
+tiempo hemos de predicarte, cuánto tiempo hemos de invitarte, cuánto tiempo
 
-hemos de hacer que te duelas, cunto tiempo hemos de suplicarte, de implorarte?
+hemos de hacer que te duelas, cuánto tiempo hemos de suplicarte, de implorarte?
 
-Ser este el da en que ceders? Dices t: yo no soy nada? Entonces Cristo
+żSerá este el día en que cederás? żDices tú: “yo no soy nada”? Entonces Cristo
 
-lo es todo. Tmalo, confa en l. No s de qu mejor manera celebrar este da
+lo es todo. Tómalo, confía en Él. No sé de qué mejor manera celebrar este día
 
-de Eben-ezer y de accin de gracias que algunos corazones acepten en este da
+de Eben-ezer y de acción de gracias que algunos corazones acepten en este día
 
 el anillo de matrimonio del amor de Cristo, y que sean prometidos al Hijo de
 
-Dios por los siglos de los siglos. Que Dios conceda que as sea. As ser si
+Dios por los siglos de los siglos. Que Dios conceda que así sea. Así será si
 
 oran pidiendo eso, oh corazones veraces.
 
 Y a Dios sea la gloria
 
-por siempre. Amn.
+por siempre. Amén.
 
-Gran Dios, cantamos esa poderosa mano,
+“Gran Dios, cantamos esa poderosa mano,
 
 Que continuamente nos sostiene;
 
-El principio del ao muestra Tu misericordia;
+El principio del ańo muestra Tu misericordia;
 
 Que la misericordia lo corone hasta su cierre.
 
-De da, de noche, en casa, fuera de casa,
+De día, de noche, en casa, fuera de casa,
 
 Seguimos siendo guardados por nuestro Dios;
 
@@ -1320,27 +1322,27 @@ Con agradecidos corazones reconocemos el pasado;
 
 El futuro, desconocido para todos nosotros,
 
-Entregamos a tu cuidado guardin,
+Entregamos a tu cuidado guardián,
 
 Y tranquilos lo ponemos ante Tus pies.
 
-En circunstancias de exaltacin o depresin,
+En circunstancias de exaltación o depresión,
 
-S T nuestro gozo y T nuestro reposo;
+Sé Tú nuestro gozo y Tú nuestro reposo;
 
-Tu bondad avivar todas nuestras esperanzas,
+Tu bondad avivará todas nuestras esperanzas,
 
-Adormoste en todos nuestros cambiantes das.
+Adorámoste en todos nuestros cambiantes días.
 
-Cuando la muerte interrumpa estos cnticos,
+Cuando la muerte interrumpa estos cánticos,
 
 Y selle nuestras lenguas en silencio mortal,
 
 Dios, nuestro ayudador, en quien confiamos,
 
-A mejores mundos nuestras almas elevar.
+A mejores mundos nuestras almas elevará”.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 28/Febrero/2013
 

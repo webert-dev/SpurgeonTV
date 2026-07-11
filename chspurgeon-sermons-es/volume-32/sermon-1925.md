@@ -1,16 +1,16 @@
 # Sermón 1925 | Sermón 1925
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Jess y los
+Jesús y los
 
-Nios
+Nińos
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,47 +18,47 @@ DOMINGO 17 DE
 
 OCTUBRE DE 1886
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y le
+“Y le
 
-presentaban nios para que los tocase; y los discpulos reprendan a los que
+presentaban nińos para que los tocase; y los discípulos reprendían a los que
 
-los presentaban. Vindolo Jess, se indign, y les dijo: Dejad a los nios
+los presentaban. Viéndolo Jesús, se indignó, y les dijo: Dejad a los nińos
 
-venir a m, y no se lo impidis; porque de los tales es el reino de Dios. De
+venir a mí, y no se lo impidáis; porque de los tales es el reino de Dios. De
 
-cierto os digo, que el que no reciba el reino de Dios como un nio, no entrar
+cierto os digo, que el que no reciba el reino de Dios como un nińo, no entrará
 
-en l. Y tomndolos en los brazos, poniendo las manos sobre ellos, los
+en él. Y tomándolos en los brazos, poniendo las manos sobre ellos, los
 
-bendeca.  Marcos 10: 13-16.
+bendecía”.  Marcos 10: 13-16.
 
 Debe de ser un pecado
 
-muy grande, en verdad, impedir que alguien venga a Cristo. l es el nico
+muy grande, en verdad, impedir que alguien venga a Cristo. Él es el único
 
-camino de salvacin de la ira de Dios, de salvacin del terrible juicio que
+camino de salvación de la ira de Dios, de salvación del terrible juicio que
 
-est reservado para el pecado. Quin se atrevera a impedir que los que estn
+está reservado para el pecado. żQuién se atrevería a impedir que los que están
 
-pereciendo tomen ese camino? Alterar los postes de seales que estn en el
+pereciendo tomen ese camino? Alterar los postes de seńales que están en el
 
 camino que conduce a la ciudad de refugio, o cavar una trinchera a lo ancho de
 
-la carretera sera un acto inhumano, merecedor de la ms severa condenacin. El
+la carretera sería un acto inhumano, merecedor de la más severa condenación. El
 
-que retiene a un alma y le impide venir a Jess es un siervo de Satans y est
+que retiene a un alma y le impide venir a Jesús es un siervo de Satanás y está
 
-realizando la ms diablica de todas las obras del demonio. Todos estamos de
+realizando la más diabólica de todas las obras del demonio. Todos estamos de
 
 acuerdo en esto.
 
 Me pregunto, queridos
 
-amigos, si alguno de nosotros es enteramente inocente en este respecto. No
+amigos, si alguno de nosotros es enteramente inocente en este respecto. żNo
 
 hemos estorbado a otros en su arrepentimiento y su fe? Es una triste sospecha,
 
@@ -66,7 +66,7 @@ pero me temo que muchos de nosotros hemos hecho eso.
 
 Ciertamente ustedes, que
 
-no han credo nunca en Jess, tristemente han hecho mucho para impedir que
+no han creído nunca en Jesús, tristemente han hecho mucho para impedir que
 
 otros crean.
 
@@ -80,93 +80,93 @@ los padres en sus hijos, de los superiores en sus subordinados y de los
 
 maestros en sus alumnos. Tal vez, padre, si hubieses sido un devoto cristiano,
 
-tu hijo no habra sido impo; posiblemente, querida madre, si te hubieras
+tu hijo no habría sido impío; posiblemente, querida madre, si te hubieras
 
-entregado al Salvador, las hijas tambin habran sido cristianas. Tenemos que
+entregado al Salvador, las hijas también habrían sido cristianas. Tenemos que
 
 hablar y juzgar a la manera de los hombres pero, seguramente, el ejemplo es un
 
-gran formador del carcter. Ninguno de nosotros podra saber, si descendiramos
+gran formador del carácter. Ninguno de nosotros podría saber, si descendiéramos
 
-al infierno, a cuntos arrastraramos con nosotros, pues estamos ligados a
+al infierno, a cuántos arrastraríamos con nosotros, pues estamos ligados a
 
-miles con lazos invisibles. He aqu el aspecto que convierte en una gran
+miles con lazos invisibles. He aquí el aspecto que convierte en una gran
 
 calamidad la ruina de una sola alma. Sobre la tumba de cada pecador se puede
 
-leer este epitafio: Este hombre no pereci solo en su iniquidad. Ninguno de
+leer este epitafio: “Este hombre no pereció solo en su iniquidad”. “Ninguno de
 
-nosotros vive para s mismo, y nadie muere para s mismo. Si pudiramos
+nosotros vive para sí mismo, y nadie muere para sí mismo”. Si pudiéramos
 
 desechar a nuestras almas como se arrojan las piedras solitarias con una honda,
 
-esto ya sera una grande calamidad; pero como todos nosotros somos cuentas
+esto ya sería una grande calamidad; pero como todos nosotros somos cuentas
 
-ensartadas en el cordn de la vida comn, donde va uno, muchos van con l. La
+ensartadas en el cordón de la vida común, donde va uno, muchos van con él. La
 
 plaga del pecado no se limita a la casa de un solo hombre, sino que sale con
 
-mpetu desde cada puerta y ventana y mata a sus vctimas en derredor, de manera
+ímpetu desde cada puerta y ventana y mata a sus víctimas en derredor, de manera
 
-que un pecador destruye mucho bien. Puedo hacerles esta pregunta a aquellos
+que “un pecador destruye mucho bien”. żPuedo hacerles esta pregunta a aquellos
 
 entre ustedes que no se han arrepentido nunca de sus pecados, ni han buscado el
 
-rostro del Salvador? Han calculado qu perniciosas influencias estn fluyendo
+rostro del Salvador? żHan calculado qué perniciosas influencias están fluyendo
 
 de sus vidas sobre las almas de sus hijos, de sus esposas, de sus hermanos y de
 
-sus amigos? Jess dice: El que no es conmigo, contra m es; y el que conmigo
+sus amigos? Jesús dice: “El que no es conmigo, contra mí es; y el que conmigo
 
-no recoge, desparrama. A cuntos han dispersado como ovejas descarriadas? A
+no recoge, desparrama”. żA cuántos han dispersado como ovejas descarriadas? żA
 
-cuntos han inducido a permanecer indiferentes e impos ya que los ven a
+cuántos han inducido a permanecer indiferentes e impíos ya que los ven a
 
 ustedes haciendo lo mismo? Estas son reflexiones solemnes para aquellos que no
 
-tienen la intencin de hacer ningn dao, y sin embargo, lo estn haciendo.
+tienen la intención de hacer ningún dańo, y sin embargo, lo están haciendo.
 
-Acaso algunas personas
+żAcaso algunas personas
 
-no van ms all de su ejemplo e impiden que otros vengan a Cristo
+no van más allá de su ejemplo e impiden que otros vengan a Cristo
 
 por medio de discursos desalentadores?
 
 Ellos
 
-desaniman a quienes estn esperando mejores cosas. Es posible encontrar obreros
+desaniman a quienes están esperando mejores cosas. Es posible encontrar obreros
 
-que tan pronto ven en un compaero de trabajo alguna sensibilidad por las cosas
+que tan pronto ven en un compańero de trabajo alguna sensibilidad por las cosas
 
-santas, se apresuran de inmediato a herir su corazn. Si sospechan que un
+santas, se apresuran de inmediato a herir su corazón. Si sospechan que un
 
-camarada se est esforzando por escapar de la borrachera, le ridiculizan; y si
+camarada se está esforzando por escapar de la borrachera, le ridiculizan; y si
 
-sigue adelante y muestra fe en Dios, lo convierten en el baln de futbol de su
+sigue adelante y muestra fe en Dios, lo convierten en el balón de futbol de su
 
 desprecio. Debe implicar una horrenda responsabilidad que un hombre se
 
-convierta en un antagonista en contra de todo bien de sus compaeros. Por qu
+convierta en un antagonista en contra de todo bien de sus compańeros. żPor qué
 
-hay tantos seres vidos de asumir esta responsabilidad? Es algo muy triste que
+hay tantos seres ávidos de asumir esta responsabilidad? Es algo muy triste que
 
 ciertas personas dejen a otras completamente solas y que hasta sean amigables
 
 con ellas si beben, y maldicen y se entregan a la lujuria; y sin embargo, tan
 
-pronto tienen pensamientos serios acerca de la religin, los atacan
+pronto tienen pensamientos serios acerca de la religión, los atacan
 
 amargamente. Media falta en un cristiano es convertida en el tema del
 
-comentario ms implacable, pero unos crmenes reales son excusados en una
+comentario más implacable, pero unos crímenes reales son excusados en una
 
-persona irreligiosa. Por qu los hombres desearan evitar que sus semejantes
+persona irreligiosa. żPor qué los hombres desearían evitar que sus semejantes
 
-sean salvados? Amigo, si t eliges la ruina de tu propia alma, por qu habras
+sean salvados? Amigo, si tú eliges la ruina de tu propia alma, żpor qué habrías
 
-de intentar llevar a otros a la ruina? Por qu hacer el papel del perro en el
+de intentar llevar a otros a la ruina? żPor qué hacer el papel del perro en el
 
-pesebre? Si no quieres una religin para ti, por qu no dejar que otros la
+pesebre? Si no quieres una religión para ti, żpor qué no dejar que otros la
 
 tengan? No puede representar ninguna ganancia para ti, ya sea en este mundo o
 
@@ -174,7 +174,7 @@ en el mundo venidero, pararte como con un garrote a las puertas de la vida para
 
 ahuyentar a todos lo que quisieran entrar por ellas.
 
-Adems, algunas personas
+Además, algunas personas
 
 que pretenden ser sabias impiden que las almas vengan a Cristo
 
@@ -182,109 +182,109 @@ insinuando astutamente dudas
 
 sobre la
 
-revelacin de la palabra divina. Escuchan un peligroso error de algn
+revelación de la palabra divina. Escuchan un peligroso error de algún
 
-conferencista infiel o de algn predicador que es seguidor del pensamiento moderno,
+conferencista infiel o de algún predicador que es seguidor del “pensamiento moderno”,
 
 y tan pronto como encuentran una mente joven inclinada a las cosas serias, de
 
 inmediato le repiten esa terrible mentira. Con sus preguntas capciosas hacen
 
-titubear a las mentes jvenes. Con su maligna enseanza secan los manantiales
+titubear a las mentes jóvenes. Con su maligna enseńanza secan los manantiales
 
-del arrepentimiento y paralizan la fuerza de la fe. Fieros como Faran,
+del arrepentimiento y paralizan la fuerza de la fe. Fieros como Faraón,
 
-quisieran arrojar a toda fe recin nacida en el ro de la duda. Crueles como el
+quisieran arrojar a toda fe recién nacida en el río de la duda. Crueles como el
 
-Prncipe de las Tinieblas, quisieran apagar toda vela de esperanza recin
+Príncipe de las Tinieblas, quisieran apagar toda vela de esperanza recién
 
-encendida. Son ms diligentes para destruir la fe que otros lo son para propagarla.
+encendida. Son más diligentes para destruir la fe que otros lo son para propagarla.
 
-Qu acumulacin de culpa debe de estar asentada en la mente del hombre que
+ˇQué acumulación de culpa debe de estar asentada en la mente del hombre que
 
-exhala la duda as como otros hombres exhalan el aire! Ni Dios, ni Cristo, ni
+exhala la duda así como otros hombres exhalan el aire! Ni Dios, ni Cristo, ni
 
 el cielo, ni el infierno pueden escapar del inmundo vaho de su infidelidad.
 
-Vean cmo marchita las almas sobre las que exhala! Calculen sus crmenes.
+ˇVean cómo marchita las almas sobre las que exhala! Calculen sus crímenes.
 
 Calculen los asesinatos de almas de los que es culpable. Inciso uno: un joven
 
-alejado con seuelo de la clase de Biblia, familiarizado con conceptos blasfemos,
+alejado con seńuelo de la clase de Biblia, familiarizado con conceptos blasfemos,
 
-y conducido al pecado visible y a una rpida muerte. Escribe eso con sangre.
+y conducido al pecado visible y a una rápida muerte. Escribe eso con sangre.
 
 Noten el siguiente inciso: una jovencita, antes esperanzada y prudente, queda impresionada
 
-por el supuesto conocimiento cientfico de un incrdulo, es alejada de la fe su
+por el supuesto conocimiento científico de un incrédulo, es alejada de la fe su
 
 madre y muy pronto queda atrapada por el mundo de manera que vive y muere
 
-impenitente. Escribe eso tambin con sangre para que sea demandado a la puerta
+impenitente. ˇEscribe eso también con sangre para que sea demandado a la puerta
 
-del que duda en el ltimo gran da! Ay de aquellos que desempean el papel de chacales
+del que duda en el último gran día! ˇAy de aquellos que desempeńan el papel de chacales
 
-para el len del infierno! Que Dios les d arrepentimiento a quienes han sido
+para el león del infierno! ˇQue Dios les dé arrepentimiento a quienes han sido
 
-guardaespaldas del Prncipe de las Tinieblas, realizando de buena gana su obra
+guardaespaldas del Príncipe de las Tinieblas, realizando de buena gana su obra
 
 asesina, negando la verdad y sembrando las semillas de la incredulidad! Si me
 
-estoy dirigiendo a alguien que es as, lo hago con una triste indignacin y le
+estoy dirigiendo a alguien que es así, lo hago con una triste indignación y le
 
 ruego que se convierta de su mal camino.
 
 Las personas de mente
 
-perversa pueden conducir de muchas maneras a otros a esa maligna decisin que
+perversa pueden conducir de muchas maneras a otros a esa maligna decisión que
 
-en los impos ocupa casi el mismo lugar que la conversin en el caso de los
+en los impíos ocupa casi el mismo lugar que la conversión en el caso de los
 
-regenerados. Las mentes infantiles son plsticas. Los primeros siete aos de
+regenerados. Las mentes infantiles son plásticas. Los primeros siete ańos de
 
-nuestra existencia le dan forma a menudo a todos los dems; de todos modos, den
+nuestra existencia le dan forma a menudo a todos los demás; de todos modos, den
 
-a cualquier nio una instruccin piadosa durante los primeros doce aos de su
+a cualquier nińo una instrucción piadosa durante los primeros doce ańos de su
 
-vida, y ser difcil borrar la escritura. Algunos parecieran experimentar un
+vida, y será difícil borrar la escritura. Algunos parecieran experimentar un
 
 miserable deleite al estampar en la blanda arcilla su propia impronta vil, y al
 
-confirmar en el joven las peligrosas tendencias que ya estn presentes. Estas
+confirmar en el joven las peligrosas tendencias que ya están presentes. Estas
 
 personas realizan conversiones para el mal gracias a las cuales las mentes
 
-jvenes se afirman en el vicio y se cimientan en la maldad.
+jóvenes se afirman en el vicio y se cimientan en la maldad.
 
 Dios nos libre de
 
 impedirle a una sola alma venir a Cristo y al cielo. No puedo evitar temblar
 
-algunas veces no sea que un fro y glido sermn mo marchite los jvenes
+algunas veces no sea que un frío y gélido sermón mío marchite los jóvenes
 
-capullos de la promesa; no sea que en la reunin de oracin, una distrada
+capullos de la promesa; no sea que en la reunión de oración, una distraída
 
-oracin enmaraada de algn profesante insensible desaliente el creciente denuedo
+oración enmarańada de algún profesante insensible desaliente el creciente denuedo
 
 de un lloroso buscador. Tiemblo por ustedes, mis queridos hermanos y hermanas
 
-en Cristo, no sea que la superficialidad de la conversacin, la mundanalidad de
+en Cristo, no sea que la superficialidad de la conversación, la mundanalidad de
 
 la conducta, la inconsistencia del comportamiento o la insensibilidad del
 
 proceder en cualquiera de ustedes, en cualquier momento, saque al cojo del
 
-camino o sea causa de tropiezo para alguno de los pequeitos del Seor. Seor,
+camino o sea causa de tropiezo para alguno de los pequeńitos del Seńor. ˇSeńor,
 
-slvame de ser un participante en los pecados de otros hombres, y especialmente
+sálvame de ser un participante en los pecados de otros hombres, y especialmente
 
-de ser en alguna medida la causa de la destruccin de otro hombre! Oh estar
+de ser en alguna medida la causa de la destrucción de otro hombre! ˇOh estar
 
-limpio de la sangre de todos los hombres! Dios no quiera que seamos cmplices
+limpio de la sangre de todos los hombres! Dios no quiera que seamos cómplices
 
-en el asesinato de las almas, ya sea antes del hecho, en el hecho, o despus del
+en el asesinato de las almas, ya sea antes del hecho, en el hecho, o después del
 
-hecho, pues en cada una de esas maneras pudiramos ser culpables. Que Dios nos
+hecho, pues en cada una de esas maneras pudiéramos ser culpables. Que Dios nos
 
 ayude, hermanos, a evitar este gran pecado de impedir que otros vengan a
 
@@ -292,13 +292,13 @@ Cristo.
 
 Sin embargo, este no es
 
-el tema de mi discurso esta maana: voy a tratar con una sola de sus formas.
+el tema de mi discurso esta mańana: voy a tratar con una sola de sus formas.
 
-Voy a hablar sobre el grave pecado de impedir que los jvenes vengan a Cristo.
+Voy a hablar sobre el grave pecado de impedir que los jóvenes vengan a Cristo.
 
 Primero,
 
-describmoslo;
+describámoslo;
 
 en segundo
 
@@ -310,23 +310,23 @@ en
 
 tercer lugar,
 
-veamos cmo Jesucristo lo
+veamos cómo Jesucristo lo
 
 condena;
 
-y luego, por ltimo,
+y luego, por último,
 
 tomemos
 
-una sugerencia de la doctrina que nuestro Seor expone incidentalmente.
+una sugerencia de la doctrina que nuestro Seńor expone incidentalmente.
 
 Pudiera
 
-ser que el Seor bendiga esto para nuestras almas.
+ser que el Seńor bendiga esto para nuestras almas.
 
 I.
 
-DESCRIBAMOS ESTE PECADO de impedir que los nios
+DESCRIBAMOS ESTE PECADO de impedir que los nińos
 
 vengan a Cristo.
 
@@ -334,13 +334,13 @@ Primero, puedo decir al
 
 respecto que es
 
-muy comn;
+muy común;
 
 tiene que
 
-ser comn pues de lo contrario no se habra encontrado entre los doce
+ser común pues de lo contrario no se habría encontrado entre los doce
 
-apstoles. Los discpulos inmediatos de nuestro Seor constituan un grupo de
+apóstoles. Los discípulos inmediatos de nuestro Seńor constituían un grupo de
 
 varones muy honorables; a pesar de sus errores e imperfecciones, deben de haber
 
@@ -350,141 +350,141 @@ amor.
 
 Yo deduzco, por tanto, que
 
-si estos varones que eran la crema de la crema reprendan a las madres que
+si estos varones que eran la crema de la crema reprendían a las madres que
 
-llevaban a sus nios a Cristo, tiene que ser una ofensa muy comn en la iglesia
+llevaban a sus nińos a Cristo, tiene que ser una ofensa muy común en la iglesia
 
 de Dios. Me temo que la frigidez glacial de este error se siente casi en todas
 
-partes. Yo no voy a hacer ninguna declaracin que sea poco generosa, pero yo
+partes. Yo no voy a hacer ninguna declaración que sea poco generosa, pero yo
 
-creo que si se realizara una pequea investigacin personal, muchos de nosotros
+creo que si se realizara una pequeńa investigación personal, muchos de nosotros
 
-podramos encontrarnos culpables en este punto, y podramos ser conducidos a
+podríamos encontrarnos culpables en este punto, y podríamos ser conducidos a
 
-dar voces con el jefe de los coperos de Faran: Me acuerdo hoy de mis faltas.
+dar voces con el jefe de los coperos de Faraón: “Me acuerdo hoy de mis faltas”.
 
-Nos hemos gastado por la conversin de los nios tanto como lo hemos hecho por
+żNos hemos gastado por la conversión de los nińos tanto como lo hemos hecho por
 
-la conversin de los adultos? Qu! Me consideran sarcstico? No se gastan
+la conversión de los adultos? ˇQué! żMe consideran sarcástico? żNo se gastan
 
-ustedes por la conversin de nadie? Qu debo decirles? Es terrible que el
+ustedes por la conversión de nadie? żQué debo decirles? Es terrible que el
 
-espritu cainita entre en el corazn de un creyente y le haga decir: Soy yo
+espíritu cainita entre en el corazón de un creyente y le haga decir: “żSoy yo
 
-acaso guarda de mi hermano? Es algo chocante que nosotros mismos comamos de la
+acaso guarda de mi hermano?” Es algo chocante que nosotros mismos comamos de la
 
-grosura y bebamos el vino dulce y dejemos que las famlicas multitudes
+grosura y bebamos el vino dulce y dejemos que las famélicas multitudes
 
-perezcan. Pero dganme ahora, si es que se han preocupado por la salvacin de
+perezcan. Pero díganme ahora, si es que se han preocupado por la salvación de
 
-las almas, no pensaran que es algo demasiado trivial comenzar con nios y
+las almas, żno pensarían que es algo demasiado trivial comenzar con nińos y
 
-nias? S; y su sentimiento es compartido por muchos. Esa falla es comn.
+nińas? Sí; y su sentimiento es compartido por muchos. Esa falla es común.
 
 Sin embargo, yo creo que
 
-este sentimiento, en el caso de los apstoles,
+este sentimiento, en el caso de los apóstoles,
 
-fue causado por el celo por Jess.
+fue causado por el celo por Jesús.
 
 Esos buenos hombres pensaban que
 
-si llevaban nios al Salvador, eso provocara una interrupcin. l estaba
+si llevaban nińos al Salvador, eso provocaría una interrupción. Él estaba
 
-involucrado en una obra muy superior: haba estado confundiendo a los fariseos,
+involucrado en una obra muy superior: había estado confundiendo a los fariseos,
 
-instruyendo a las masas y sanando a los enfermos. Podra estar bien que le
+instruyendo a las masas y sanando a los enfermos. żPodría estar bien que le
 
-importunaran con unos nios? Los pequeitos no entenderan Su enseanza y no
+importunaran con unos nińos? Los pequeńitos no entenderían Su enseńanza y no
 
-necesitaban de Sus milagros; por qu deban ser trados para que alteraran Sus
+necesitaban de Sus milagros; żpor qué debían ser traídos para que alteraran Sus
 
-grandes obras? Por tanto, es como si los discpulos hubiesen dicho: Llvense a
+grandes obras? Por tanto, es como si los discípulos hubiesen dicho: “Llévense a
 
-sus nios, buenas mujeres. Ensenles ustedes mismas la ley, e instryanlos en
+sus nińos, buenas mujeres. Enséńenles ustedes mismas la ley, e instrúyanlos en
 
 los Salmos y en los Profetas, y oren con ellos. No es posible que Cristo
 
-imponga Sus manos sobre cada nio. Si permitimos que venga un conjunto de
+imponga Sus manos sobre cada nińo. Si permitimos que venga un conjunto de
 
-nios, pronto tendremos a todo el vecindario pululando en torno nuestro, y la
+nińos, pronto tendremos a todo el vecindario pululando en torno nuestro, y la
 
-obra del Salvador se ver gravemente interrumpida. No ven esto? Por qu
+obra del Salvador se verá gravemente interrumpida. żNo ven esto? żPor qué
 
-actan tan irreflexivamente? Los discpulos sentan tal reverencia por su
+actúan tan irreflexivamente?” Los discípulos sentían tal reverencia por su
 
 Maestro que estaban dispuestos a enviar lejos a los parlanchines, no fuera que
 
-el grandioso Rab se convirtiera en un simple maestro de prvulos. Esto pudiera
+el grandioso Rabí se convirtiera en un simple maestro de párvulos. Esto pudiera
 
-haber sido celo por Dios, pero no conforme a ciencia. As tambin, en estos
+haber sido celo por Dios, pero no conforme a ciencia. Así también, en estos
 
-das, a ciertos hermanos no les gustara recibir a muchos nios en la iglesia,
+días, a ciertos hermanos no les gustaría recibir a muchos nińos en la iglesia,
 
-pues podra suceder que se convirtiera en una sociedad de nios y nias. Seguramente
+pues podría suceder que se convirtiera en una sociedad de nińos y nińas. ˇSeguramente
 
-si esos nios entraran en la iglesia en grandes nmeros, se podra hablar de la
+si esos nińos entraran en la iglesia en grandes números, se podría hablar de la
 
-iglesia en trminos de reproche! El mundo de afuera la llamar una simple
+iglesia en términos de reproche! El mundo de afuera la llamará una simple
 
-escuela dominical. Yo recuerdo que cuando una mujer cada fue convertida en uno
+escuela dominical. Yo recuerdo que cuando una mujer caída fue convertida en uno
 
 de los pueblos de nuestro condado, ciertos profesantes objetaron que fuera
 
-recibida en la iglesia, y ciertos sujetos lascivos de la ms vil calaa
+recibida en la iglesia, y ciertos sujetos lascivos de la más vil calańa
 
-publicaron en las paredes el hecho de que el ministro bautista haba bautizado
+publicaron en las paredes el hecho de que el ministro bautista había bautizado
 
-a una ramera. Yo le dije a mi amigo que lo considerara como un honor. Aun as,
+a una ramera. Yo le dije a mi amigo que lo considerara como un honor. Aun así,
 
-si alguien nos reprocha por recibir a unos nios en la iglesia, llevaremos el
+si alguien nos reprocha por recibir a unos nińos en la iglesia, llevaremos el
 
-oprobio como una insignia de honor. No es posible que unos nios santos nos
+oprobio como una insignia de honor. No es posible que unos nińos santos nos
 
-hagan algn dao. Dios nos enviar a suficientes personas de edad y experiencia
+hagan algún dańo. Dios nos enviará a suficientes personas de edad y experiencia
 
 para conducir a la iglesia prudentemente. No recibiremos a nadie que no pueda
 
 aportar evidencia del nuevo nacimiento, por viejo que sea, pero no dejaremos
 
-fuera a ningn creyente, por joven que pudiera ser. Nunca tal acontezca que
+fuera a ningún creyente, por joven que pudiera ser. Nunca tal acontezca que
 
 condenemos a nuestros hermanos cautelosos, pero a la vez deseamos que su
 
-cautela se muestre all donde ms se requiere. Jess no ser deshonrado por los
+cautela se muestre allí donde más se requiere. Jesús no será deshonrado por los
 
-nios; tenemos ms motivos para temer a los adultos.
+nińos; tenemos más motivos para temer a los adultos.
 
 El reproche de los
 
-apstoles a los nios surgi en alguna medida de
+apóstoles a los nińos surgió en alguna medida de
 
-la ignorancia de la necesidad de los nios.
+la ignorancia de la necesidad de los nińos.
 
 Si alguna madre en
 
-aquel gento hubiese dicho: Tengo que llevar a mi hijo al Maestro pues es
+aquel gentío hubiese dicho: “Tengo que llevar a mi hijo al Maestro pues es
 
-penosamente afligido por un demonio, ni Pedro, ni Jacobo, ni Juan habran
+penosamente afligido por un demonio”, ni Pedro, ni Jacobo, ni Juan habrían
 
-puesto reparos ni por un instante, sino que habran ayudado a llevar al nio
+puesto reparos ni por un instante, sino que habrían ayudado a llevar al nińo
 
-posedo al Salvador. O supongan que otra madre hubiese dicho: Mi hija sufre de
+poseído al Salvador. O supongan que otra madre hubiese dicho: “Mi hija sufre de
 
-una enfermedad que la consume; ya slo le quedan la piel y los huesos; permitan
+una enfermedad que la consume; ya sólo le quedan la piel y los huesos; permitan
 
-que traiga a mi amada nia para que Jess le imponga Sus manos, todos los
+que traiga a mi amada nińa para que Jesús le imponga Sus manos”, todos los
 
-discpulos habran dicho: Abran paso a esta mujer y a su dolorosa carga. Pero
+discípulos habrían dicho: “Abran paso a esta mujer y a su dolorosa carga”. Pero
 
-estos pequeitos de ojos brillantes, lenguas parlanchinas y miembros
+estos pequeńitos de ojos brillantes, lenguas parlanchinas y miembros
 
-saltarines, por qu habran de venir a Jess? Ah, amigos! Ellos olvidaban que
+saltarines, żpor qué habrían de venir a Jesús? ˇAh, amigos! Ellos olvidaban que
 
-en esos nios, con todo su gozo, su salud, y su aparente inocencia, haba una
+en esos nińos, con todo su gozo, su salud, y su aparente inocencia, había una
 
-grande y perentoria necesidad de la bendicin de la gracia de un Salvador. Si
+grande y perentoria necesidad de la bendición de la gracia de un Salvador. Si
 
 aceptas la novedosa idea de que
 
@@ -492,353 +492,353 @@ tus
 
 hijos
 
-no necesitan la conversin, que los hijos nacidos de padres cristianos son algo
+no necesitan la conversión, que los hijos nacidos de padres cristianos son algo
 
-superiores a los otros, y que tienen algo bueno en su interior que slo
+superiores a los otros, y que tienen algo bueno en su interior que sólo
 
-necesita desarrollo, un gran motivo para tu devoto celo habra desaparecido.
+necesita desarrollo, un gran motivo para tu devoto celo habría desaparecido.
 
-Cranme, hermanos, sus hijos necesitan que el Espritu de Dios les d nuevos
+Créanme, hermanos, sus hijos necesitan que el Espíritu de Dios les dé nuevos
 
-corazones y espritus rectos o de lo contrario se descarriarn como lo hacen
+corazones y espíritus rectos o de lo contrario se descarriarán como lo hacen
 
-otros nios. Recuerden que sin importar cun jvenes sean, hay una piedra en el
+otros nińos. Recuerden que sin importar cuán jóvenes sean, hay una piedra en el
 
-interior del pecho ms joven y esa piedra tiene que ser retirada o ser la
+interior del pecho más joven y esa piedra tiene que ser retirada o será la
 
-ruina del nio. Hay una tendencia al mal aunque todava no se haya convertido
+ruina del nińo. Hay una tendencia al mal aunque todavía no se haya convertido
 
-en acto, y esa tendencia necesita ser vencida por el poder divino del Espritu
+en acto, y esa tendencia necesita ser vencida por el poder divino del Espíritu
 
-Santo, haciendo que el nio nazca de nuevo. Oh, que la iglesia de Dios se
+Santo, haciendo que el nińo nazca de nuevo. ˇOh, que la iglesia de Dios se
 
-deshiciera de la antigua idea juda que todava tiene tanta fuerza a nuestro
+deshiciera de la antigua idea judía que todavía tiene tanta fuerza a nuestro
 
 alrededor, es decir, que el nacimiento natural trae consigo privilegios del
 
-pacto! Ahora bien, aun bajo la antigua dispensacin, haba indicios de que la
+pacto! Ahora bien, aun bajo la antigua dispensación, había indicios de que la
 
-verdadera simiente no naca segn la carne, sino segn el espritu, como en el
+verdadera simiente no nacía según la carne, sino según el espíritu, como en el
 
-caso de Ismael e Isaac, y Esa y Jacob. Ni siquiera la iglesia de Dios sabe
+caso de Ismael e Isaac, y Esaú y Jacob. żNi siquiera la iglesia de Dios sabe
 
-que Lo que es nacido de la carne, carne es; y lo que es nacido del Espritu,
+que “Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu,
 
-espritu es? Quin har limpio lo inmundo? El nacimiento natural comunica
+espíritu es”? “żQuién hará limpio lo inmundo?” El nacimiento natural comunica
 
 la inmundicia de la naturaleza, pero no puede transmitir la gracia. Bajo el
 
-nuevo pacto se nos dice expresamente que los hijos de Dios no son engendrados
+nuevo pacto se nos dice expresamente que los hijos de Dios no son “engendrados
 
-de sangre, ni de voluntad de carne, ni de voluntad de varn, sino de Dios. Bajo
+de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios”. Bajo
 
-el antiguo pacto, que era tpico, el nacimiento segn la carne conceda privilegios;
+el antiguo pacto, que era típico, el nacimiento según la carne concedía privilegios;
 
 pero para entrar en el pacto de la gracia tienes que nacer de nuevo. El primer
 
-nacimiento no te trae nada sino una herencia del primer Adn; tienes que nacer
+nacimiento no te trae nada sino una herencia del primer Adán; tienes que nacer
 
-de nuevo para que el segundo Adn sea tu cabeza.
+de nuevo para que el segundo Adán sea tu cabeza.
 
-Dice alguien: pero est
+Dice alguien: pero está
 
-escrito: para vosotros es la promesa, y para vuestros hijos. Queridos amigos,
+escrito: “para vosotros es la promesa, y para vuestros hijos”. Queridos amigos,
 
-nunca existi una ms vil bribonera bajo el cielo que la cita de ese texto tal
+nunca existió una más vil bribonería bajo el cielo que la cita de ese texto tal
 
-como es citado usualmente. Yo he odo que lo citan muchas veces para demostrar
+como es citado usualmente. Yo he oído que lo citan muchas veces para demostrar
 
-una doctrina que est muy alejada de aquello que claramente ensea. Si tomas la
+una doctrina que está muy alejada de aquello que claramente enseńa. Si tomas la
 
 mitad de cualquier frase que un hombre exprese y dejas fuera el resto, puedes
 
-hacerle decir lo opuesto de lo que quiere decir. Qu piensas que dice ese
+hacerle decir lo opuesto de lo que quiere decir. żQué piensas que dice ese
 
-texto realmente? Vean Hechos 2: 39: Para vosotros es la promesa, y para
+texto realmente? Vean Hechos 2: 39: “Para vosotros es la promesa, y para
 
-vuestros hijos, y para todos los que estn lejos; para cuantos el Seor nuestro
+vuestros hijos, y para todos los que están lejos; para cuantos el Seńor nuestro
 
-Dios llamare. Esta grandiosamente amplia declaracin es el argumento sobre el
+Dios llamare”. Esta grandiosamente amplia declaración es el argumento sobre el
 
-cual est basada la exhortacin: Arrepentos, y bautcese cada uno de
+cual está basada la exhortación: “Arrepentíos, y bautícese cada uno de
 
-vosotros. No es una declaracin de un privilegio especial para alguien, sino
+vosotros”. No es una declaración de un privilegio especial para alguien, sino
 
-una presentacin de gracia para todos los que estn lejos, tanto para ellos
+una presentación de gracia para todos los que están lejos, tanto para ellos
 
 como para sus hijos. No hay ni una sola palabra en el Nuevo Testamento para
 
 mostrar que los beneficios de la gracia divina son transmitidos en alguna
 
-medida por genealoga; vienen cuantos el Seor nuestro Dios llamare, ya sea
+medida por genealogía; vienen “cuantos el Seńor nuestro Dios llamare”, ya sea
 
-que sus padres sean santos o pecadores. Cmo puede la gente tener el descaro
+que sus padres sean santos o pecadores. żCómo puede la gente tener el descaro
 
-de suprimir medio texto para hacer que ensee lo que no es cierto? No,
+de suprimir medio texto para hacer que enseńe lo que no es cierto? No,
 
 hermanos; ustedes tienen que mirar tristemente a sus hijos como concebidos en
 
-pecado, formados en maldad, hijos de ira, lo mismo que los dems; y aunque t
+pecado, formados en maldad, “hijos de ira, lo mismo que los demás”; y aunque tú
 
-mismo pudieras pertenecer a una lnea de santos, y rastrear tu linaje de ministro
+mismo pudieras pertenecer a una línea de santos, y rastrear tu linaje de ministro
 
 en ministro incluyendo a todos los eminentes en la iglesia de Dios, con todo,
 
-tus hijos ocupan por su nacimiento precisamente la misma posicin que los hijos
+tus hijos ocupan por su nacimiento precisamente la misma posición que los hijos
 
-de otras personas; as que tienen que ser redimidos de la maldicin de la ley
+de otras personas; así que tienen que ser redimidos de la maldición de la ley
 
-por la sangre preciosa de Jess, y tienen que recibir una nueva naturaleza por
+por la sangre preciosa de Jesús, y tienen que recibir una nueva naturaleza por
 
-la obra del Espritu Santo. Son favorecidos al ser colocados bajo una educacin
+la obra del Espíritu Santo. Son favorecidos al ser colocados bajo una educación
 
 piadosa, y bajo la escucha del Evangelio; pero su necesidad y su pecaminosidad
 
-son las mismas que en el resto de la raza. Si piensan en esto, vern la razn
+son las mismas que en el resto de la raza. Si piensan en esto, verán la razón
 
-por la que tienen que ser llevados a Jesucristo, una razn por la que deben ser
+por la que tienen que ser llevados a Jesucristo, una razón por la que deben ser
 
-llevados tan rpidamente como sea posible en los brazos de la oracin y de la
+llevados tan rápidamente como sea posible en los brazos de la oración y de la
 
 fe de ustedes, a Aquel que es capaz de renovarlos.
 
-Tambin, sin duda, este
+También, sin duda, este
 
-sentimiento de que los nios no pueden venir a Cristo podra derivarse de
+sentimiento de que los nińos no pueden venir a Cristo podría derivarse de
 
 una duda acerca de su capacidad de recibir
 
-la bendicin que Jess puede dar.
+la bendición que Jesús puede dar.
 
 Con respecto a este tema, si fuera a
 
-tratar en este momento nicamente con hechos y no con una simple opinin, podra
+tratar en este momento únicamente con hechos y no con una simple opinión, podría
 
-pasar la maana entera dndoles detalles de nios con quienes he conversado
+pasar la mańana entera dándoles detalles de nińos con quienes he conversado
 
-personalmente, algunos de ellos nios muy pequeos en verdad. Voy a decir, en
+personalmente, algunos de ellos nińos muy pequeńos en verdad. Voy a decir, en
 
-general, que tengo ms confianza en la vida espiritual de los nios que he
+general, que tengo más confianza en la vida espiritual de los nińos que he
 
-recibido en esta iglesia que la confianza que tengo en la condicin espiritual
+recibido en esta iglesia que la confianza que tengo en la condición espiritual
 
-de los adultos recibidos. Ir todava ms lejos, y dir que he encontrado
+de los adultos recibidos. Iré todavía más lejos, y diré que he encontrado
 
-usualmente un conocimiento ms claro del Evangelio y un amor ms ardiente por
+usualmente un conocimiento más claro del Evangelio y un amor más ardiente por
 
-Cristo en los nios convertidos que en los adultos convertidos. Voy a
+Cristo en los nińos convertidos que en los adultos convertidos. Voy a
 
-sorprenderlos an ms diciendo que me encontrado algunas veces con una
+sorprenderlos aún más diciendo que me encontrado algunas veces con una
 
-experiencia espiritual ms profunda en nios de diez y doce aos de la que me
+experiencia espiritual más profunda en nińos de diez y doce ańos de la que me
 
-he encontrado en ciertas personas de cincuenta o sesenta aos. Reza un viejo
+he encontrado en ciertas personas de cincuenta o sesenta ańos. Reza un viejo
 
-proverbio que algunos nios nacen con barbas. Algunos muchachos son
+proverbio que algunos nińos nacen con barbas. Algunos muchachos son
 
 hombrecitos, y algunas muchachas son viejas mujercitas. No pueden medir la vida
 
-de ninguno de nosotros por nuestras edades. Conoc a un muchacho que cuando
+de ninguno de nosotros por nuestras edades. Conocí a un muchacho que cuando
 
-tena quince aos, a menudo oa decir a viejos cristianos: El muchacho tiene
+tenía quince ańos, a menudo oía decir a viejos cristianos: “El muchacho tiene
 
-sesenta aos de edad: habla con mucho discernimiento de la verdad divina. Yo
+sesenta ańos de edad: habla con mucho discernimiento de la verdad divina”. Yo
 
-creo que este jovencito a los quince aos de edad saba mucho ms de las cosas
+creo que este jovencito a los quince ańos de edad sabía mucho más de las cosas
 
-de Dios y de la afliccin del alma que cualquier otra persona a su alrededor,
+de Dios y de la aflicción del alma que cualquier otra persona a su alrededor,
 
-sin importar cul pudiera ser su edad. Yo no podra decirles por qu es as,
+sin importar cuál pudiera ser su edad. Yo no podría decirles por qué es así,
 
-pero yo s que as es, que algunos son viejos cuando son jvenes, y algunos
+pero yo sé que así es, que algunos son viejos cuando son jóvenes, y algunos
 
-estn muy verdes cuando son viejos; algunos son sabios cuando t esperaras que
+están muy verdes cuando son viejos; algunos son sabios cuando tú esperarías que
 
-fueran de otra manera, y otros son muy insensatos cuando habras podido esperar
+fueran de otra manera, y otros son muy insensatos cuando habrías podido esperar
 
-que hubieran abandonado ya su locura. Oh, queridos amigos, no hablen de la
+que hubieran abandonado ya su locura. ˇOh, queridos amigos, no hablen de la
 
-incapacidad de un nio para arrepentirse! Conoc a una nia que se dorma
+incapacidad de un nińo para arrepentirse! Conocí a una nińa que se dormía
 
 llorando durante meses seguidos bajo un aplastante sentido de pecado. Si
 
 quisieran conocer un temor profundo y amargo y terrible de la ira de Dios,
 
-permtanme decirles lo que yo senta cuando era un muchacho. Si quisieran
+permítanme decirles lo que yo sentía cuando era un muchacho. Si quisieran
 
-conocer el gozo en el Seor, muchos nios han estado tan llenos de l hasta
+conocer el gozo en el Seńor, muchos nińos han estado tan llenos de él hasta
 
-donde su corazoncito poda contenerlo. Si quieres saber qu es la fe en Jess no
+donde su corazoncito podía contenerlo. Si quieres saber qué es la fe en Jesús no
 
-tienes que mirar a quienes han sido confundidos por la jerga hertica de los
+tienes que mirar a quienes han sido confundidos por la jerga herética de los
 
-tiempos, sino a los queridos nios que le han tomado la palabra a Jess, y han
+tiempos, sino a los queridos nińos que le han tomado la palabra a Jesús, y han
 
-credo en l y le han amado, y por tanto, saben que son salvos y estn seguros
+creído en Él y le han amado, y por tanto, saben que son salvos y están seguros
 
-de ello. Hay ms capacidad para creer en el nio que en el hombre. Nos volvemos
+de ello. Hay más capacidad para creer en el nińo que en el hombre. Nos volvemos
 
-menos capaces de fe en vez de ms capaces; cada ao lleva a la mente no
+menos capaces de fe en vez de más capaces; cada ańo lleva a la mente no
 
-regenerada ms lejos de Dios y la hace menos capaz de recibir las cosas de
+regenerada más lejos de Dios y la hace menos capaz de recibir las cosas de
 
-Dios. Ningn terreno est ms preparado para la buena semilla que el que
+Dios. Ningún terreno está más preparado para la buena semilla que el que
 
-todava no ha sido hollado como va de paso ni ha quedado cubierto an de
+todavía no ha sido hollado como vía de paso ni ha quedado cubierto aún de
 
-espinos. El nio no ha aprendido todava los engaos del orgullo, las falsedades
+espinos. El nińo no ha aprendido todavía los engańos del orgullo, las falsedades
 
-de la ambicin, las imposturas de la mundanalidad, los trucos del comercio, los
+de la ambición, las imposturas de la mundanalidad, los trucos del comercio, los
 
-sofismas de la filosofa, y hasta ahora tiene una ventaja sobre el adulto. En
+sofismas de la filosofía, y hasta ahora tiene una ventaja sobre el adulto. En
 
-todo caso el nuevo nacimiento es una obra del Espritu Santo y l puede obrar
+todo caso el nuevo nacimiento es una obra del Espíritu Santo y Él puede obrar
 
-tan fcilmente en la juventud como en la madurez.
+tan fácilmente en la juventud como en la madurez.
 
-Tambin algunos han
+También algunos han
 
-obstaculizado a los nios porque
+obstaculizado a los nińos porque
 
 se han
 
-olvidado del valor del nio.
+olvidado del valor del nińo.
 
-El precio del alma no depende de sus aos.
+El precio del alma no depende de sus ańos.
 
-Oh, es solamente un nio! Los nios son un fastidio. Los nios siempre
+“ˇOh, es solamente un nińo!” “Los nińos son un fastidio”. “Los nińos siempre
 
-estn estorbando. Este tipo de pltica es comn. Que Dios perdone a quienes
+están estorbando”. Este tipo de plática es común. Que Dios perdone a quienes
 
-desprecian a los pequeitos. Se enojaran mucho si yo les dijera que un
+desprecian a los pequeńitos. żSe enojarían mucho si yo les dijera que un
 
-muchacho es ms digno de ser salvado que un hombre? Es una infinita
+muchacho es más digno de ser salvado que un hombre? Es una infinita
 
-misericordia de parte de Dios que salve a quienes tienen setenta aos de edad;
+misericordia de parte de Dios que salve a quienes tienen setenta ańos de edad;
 
-pues qu bien pueden hacer ahora con el residuo de sus vidas? Cuando
+żpues qué bien pueden hacer ahora con el residuo de sus vidas? Cuando
 
-alcanzamos la edad de cincuenta o sesenta aos estamos casi agotados, y si
+alcanzamos la edad de cincuenta o sesenta ańos estamos casi agotados, y si
 
-hemos gastado todos nuestros primeros das con el diablo, qu queda para Dios?
+hemos gastado todos nuestros primeros días con el diablo, żqué queda para Dios?
 
-Pero hay algo que se puede hacer con estos amados nios y nias. Si se entregan
+Pero hay algo que se puede hacer con estos amados nińos y nińas. Si se entregan
 
-ahora a Cristo pueden tener un largo, santo y feliz da delante de ellos en el
+ahora a Cristo pueden tener un largo, santo y feliz día delante de ellos en el
 
-que pueden servir a Dios con todo su corazn. Quin sabe qu gloria puede Dios
+que pueden servir a Dios con todo su corazón. ˇQuién sabe qué gloria puede Dios
 
-recibir de ellos! Tierras paganas podran llamarlos bienaventurados. Naciones
+recibir de ellos! Tierras paganas podrían llamarlos bienaventurados. Naciones
 
-enteras pueden ser iluminadas por ellos. Si un famoso maestro sola quitarse el
+enteras pueden ser iluminadas por ellos. Si un famoso maestro solía quitarse el
 
-sombrero ante sus alumnos porque no saba si alguno de ellos llegara a ser
+sombrero ante sus alumnos porque no sabía si alguno de ellos llegaría a ser
 
-Primer Ministro, nosotros podemos considerar justamente con admiracin a los
+Primer Ministro, nosotros podemos considerar justamente con admiración a los
 
-nios, pues no sabemos cun pronto pudieran estar entre los ngeles o cun
+nińos, pues no sabemos cuán pronto pudieran estar entre los ángeles o cuán
 
-grandemente podra brillar su luz entre los hombres. Oh, hermanos y hermanas,
+grandemente podría brillar su luz entre los hombres. Oh, hermanos y hermanas,
 
-estimemos a los nios en lo que verdaderamente valen, y entonces no los
+estimemos a los nińos en lo que verdaderamente valen, y entonces no los
 
-reprimiremos sino que estaremos vidos de conducirlos de inmediato a Jess.
+reprimiremos sino que estaremos ávidos de conducirlos de inmediato a Jesús.
 
-En proporcin a nuestra
+En proporción a nuestra
 
-propia espiritualidad mental, y en proporcin a nuestra propia condicin
+propia espiritualidad mental, y en proporción a nuestra propia condición
 
-infantil del corazn nos sentiremos cmodos con los nios y nos adentraremos en
+infantil del corazón nos sentiremos cómodos con los nińos y nos adentraremos en
 
 sus tempranos miedos y esperanzas, en su fe que brota y en la apertura de su
 
-amor. Morando entre jvenes convertidos nos parecer estar en un jardn florido,
+amor. Morando entre jóvenes convertidos nos parecerá estar en un jardín florido,
 
-en una via donde las tiernas uvas producen un grato olor.
+en una vińa donde las tiernas uvas producen un grato olor.
 
 II.
 
 En
 
-segundo lugar, respecto a este hecho de impedir que los nios vengan, OBSERVEMOS
+segundo lugar, respecto a este hecho de impedir que los nińos vengan, OBSERVEMOS
 
 SUS RESULTADOS. Yo creo que los resultados de este triste sentimiento respecto
 
-a que los nios vengan al Salvador han de ser vistos, primero, en el hecho de
+a que los nińos vengan al Salvador han de ser vistos, primero, en el hecho de
 
 que a menudo no hay
 
-nada para los nios
+nada para los nińos
 
 en el servicio.
 
-El sermn no est al alcance de ellos y el predicador no
+El sermón no está al alcance de ellos y el predicador no
 
-cree que eso sea ninguna falla; de hecho, ms bien se alegra de que as sea.
+cree que eso sea ninguna falla; de hecho, más bien se alegra de que así sea.
 
-Hace algn tiempo, yo supongo que una persona que quera hacerme sentir mi
+Hace algún tiempo, yo supongo que una persona que quería hacerme sentir mi
 
-propia insignificancia, escribi para decir que se haba encontrado con un
+propia insignificancia, escribió para decir que se había encontrado con un
 
-grupo de personas de color (negroes) que haban ledo mis sermones con evidente
+grupo de personas de color (negroes) que habían leído mis sermones con evidente
 
-placer; y escribi que crea que los sermones eran apropiados para aquellos a
+placer; y escribió que creía que los sermones eran apropiados para aquellos a
 
-los que a l le complaca llamar negros despreciables (niggers, muy
+los que a él le complacía llamar “negros despreciables” (niggers, muy
 
-peyorativo). S, mi predicacin era justamente el tipo de material apropiado
+peyorativo). Sí, mi predicación era justamente el tipo de material apropiado
 
-para los negros despreciables (niggers). El caballero no imaginaba cun sincero
+para los negros despreciables (niggers). El caballero no imaginaba cuán sincero
 
-placer me caus, pues si la gente pobre me entiende, si las sirvientas y los
+placer me causó, pues si la gente pobre me entiende, si las sirvientas y los
 
-nios me entienden, entonces estoy seguro de que otros me pueden entender.
+nińos me entienden, entonces estoy seguro de que otros me pueden entender.
 
-Tengo la ambicin de predicarles a los negros despreciables (niggers), si por
+Tengo la ambición de predicarles a los negros despreciables (niggers), si por
 
-negros despreciables te refieres a lo ms bajo, a la chusma. No creo que haya
+negros despreciables te refieres a lo más bajo, a la chusma. No creo que haya
 
-nada ms grande que ganar los corazones de los humildes. Igual en relacin a
+nada más grande que ganar los corazones de los humildes. Igual en relación a
 
-los nios. La gente dice ocasionalmente de alguien: Ese solamente es apto para
+los nińos. La gente dice ocasionalmente de alguien: “Ese solamente es apto para
 
-ensear a nios; l no es ningn predicador. Seores, yo les digo que a los
+enseńar a nińos; él no es ningún predicador”. Seńores, yo les digo que a los
 
-ojos de Dios aquel a quien no le importan los nios no es ningn predicador.
+ojos de Dios aquel a quien no le importan los nińos no es ningún predicador.
 
-Debera haber al menos una parte de cada sermn y de cada servicio que fuera
+Debería haber al menos una parte de cada sermón y de cada servicio que fuera
 
-apropiada para los pequeitos. Es un error olvidar eso.
+apropiada para los pequeńitos. Es un error olvidar eso.
 
 Los padres pecan de la
 
 misma manera cuando
 
-omiten la religin en
+omiten la religión en
 
-la educacin de sus hijos.
+la educación de sus hijos.
 
 Tal vez piensen que sus hijos no pueden ser
 
-convertidos mientras son nios y consideran que es algo que no tiene mayor
+convertidos mientras son nińos y consideran que es algo que no tiene mayor
 
-importancia a cul escuela asisten en sus tiernos aos. Pero no es as. Muchos
+importancia a cuál escuela asisten en sus tiernos ańos. Pero no es así. Muchos
 
-padres incluso olvidan esto cuando sus hijas y sus hijos estn concluyendo sus
+padres incluso olvidan esto cuando sus hijas y sus hijos están concluyendo sus
 
-das escolares. Los envan al Continente, a lugares viciados con todo peligro
+días escolares. Los envían al Continente, a lugares viciados con todo peligro
 
-moral y espiritual, con la idea de que all ellos pueden completar una
+moral y espiritual, con la idea de que allá ellos pueden completar una
 
-educacin elegante. En cuntos casos he visto que esa educacin ha sido
+educación elegante. En cuántos casos he visto que esa educación ha sido
 
-completada y ha producido jvenes varones que son consumados libertinos y
+completada y ha producido jóvenes varones que son consumados libertinos y
 
-jvenes mujeres que son simples coquetas. Lo que sembramos, eso segamos.
+jóvenes mujeres que son simples coquetas. Lo que sembramos, eso segamos.
 
-Esperemos que nuestros hijos conozcan al Seor. Desde el principio integremos
+Esperemos que nuestros hijos conozcan al Seńor. Desde el principio integremos
 
-el nombre de Jess a su abecedario. Sera bueno que lean sus primeras lecciones
+el nombre de Jesús a su abecedario. Sería bueno que lean sus primeras lecciones
 
 en
 
@@ -846,107 +846,107 @@ la Biblia.
 
 Es
 
-algo notable que no haya ningn libro en el que los nios aprendan a leer tan
+algo notable que no haya ningún libro en el que los nińos aprendan a leer tan
 
-rpido como en el Nuevo Testamento; hay un encanto en ese libro que atrae a la
+rápido como en el Nuevo Testamento; hay un encanto en ese libro que atrae a la
 
 mente infantil. Pero, oh, queridos amigos, como padres no seamos culpables
 
-nunca de olvidar la educacin religiosa de nuestros hijos, pues si lo hiciramos,
+nunca de olvidar la educación religiosa de nuestros hijos, pues si lo hiciéramos,
 
-podramos ser culpables de la sangre de sus almas.
+podríamos ser culpables de la sangre de sus almas.
 
 Otro resultado es que en
 
 muchas de nuestras iglesias y congregaciones
 
-no se espera la conversin de los nios
+no se espera la conversión de los nińos
 
 . Quiero decir que no
 
-esperan que los nios sean convertidos como nios. La teora es que si podemos
+esperan que los nińos sean convertidos como nińos. La teoría es que si podemos
 
-inculcar en las mentes jvenes principios que pudieran demostrar ser tiles
+inculcar en las mentes jóvenes principios que pudieran demostrar ser útiles
 
-para ellos en aos posteriores, habremos hecho mucho; pero convertir a los nios
+para ellos en ańos posteriores, habremos hecho mucho; pero convertir a los nińos
 
-en tanto que nios y considerarlos tan creyentes como sus mayores, es visto
+en tanto que nińos y considerarlos tan creyentes como sus mayores, es visto
 
-como algo absurdo. A este supuesto absurdo me adhiero con todo mi corazn. Yo
+como algo absurdo. A este supuesto absurdo me adhiero con todo mi corazón. Yo
 
-creo que el reino de Dios es de los nios, tanto en la tierra como en el cielo.
+creo que el reino de Dios es de los nińos, tanto en la tierra como en el cielo.
 
-Es un sagrado gozo para m, el jueves por la noche, observar a ciertos nios y
+Es un sagrado gozo para mí, el jueves por la noche, observar a ciertos nińos y
 
-nias que han asistido con gran regularidad durante mucho tiempo a la reunin
+nińas que han asistido con gran regularidad durante mucho tiempo a la reunión
 
-de oracin del pastor. Algunos de ustedes, personas de avanzada edad, no vienen
+de oración del pastor. Algunos de ustedes, personas de avanzada edad, no vienen
 
-ni oran por su pastor; pero estos nios s lo hacen, pues aman a su pastor, y
+ni oran por su pastor; pero estos nińos sí lo hacen, pues aman a su pastor, y
 
-l, por su parte, valora grandemente sus oraciones. Feliz es la iglesia que es
+él, por su parte, valora grandemente sus oraciones. ˇFeliz es la iglesia que es
 
-adornada y bendecida por las oraciones de los amados nios que aprenden pronto
+adornada y bendecida por las oraciones de los amados nińos que aprenden pronto
 
 a clamar al grandioso Padre pidiendo que Su nombre sea santificado y que venga
 
-Su reino! Esperamos ver que los nios sean convertidos, y en efecto, lo vemos.
+Su reino! Esperamos ver que los nińos sean convertidos, y en efecto, lo vemos.
 
 Otro resultado negativo
 
 es que
 
-no se cree en la conversin de los
+no se cree en la conversión de los
 
-nios.
+nińos.
 
 Algunas personas suspicaces siempre afilan un poco sus dientes
 
-cuando se enteran de un nio recin convertido; siempre querrn darle un
+cuando se enteran de un nińo recién convertido; siempre querrán darle un
 
-mordisco si pueden. Ellos con mucha razn insisten en que estos nios deberan
+mordisco si pueden. Ellos con mucha razón insisten en que estos nińos deberían
 
 ser examinados cuidadosamente antes de ser bautizados y admitidos en la iglesia,
 
-pero estn equivocados cuando insisten en que nicamente en casos excepcionales
+pero están equivocados cuando insisten en que únicamente en casos excepcionales
 
 han de ser recibidos. Estamos completamente de acuerdo con ellos en cuanto al
 
-cuidado que hay que ejercer; pero el cuidado debera ser el mismo en todos los
+cuidado que hay que ejercer; pero el cuidado debería ser el mismo en todos los
 
-casos, y ni ms ni menos en los casos de los nios. Yo le doy gracias a Dios
+casos, y ni más ni menos en los casos de los nińos. Yo le doy gracias a Dios
 
-porque la mayora de esos queridos nios que han sido aadidos a esta iglesia
+porque la mayoría de esos queridos nińos que han sido ańadidos a esta iglesia
 
-podran superar un rgido examen en materia doctrinal, y se compararan
+podrían superar un rígido examen en materia doctrinal, y se compararían
 
-favorablemente con la personas mayores; pero aun as me parece algo muy duro
+favorablemente con la personas mayores; pero aun así me parece algo muy duro
 
 que se espere de ellos un alto grado de conocimiento.
 
-Cun a menudo la gente
+ˇCuán a menudo la gente
 
-espera ver en los nios y en las nias el mismo comportamiento solemne que se
+espera ver en los nińos y en las nińas el mismo comportamiento solemne que se
 
-aprecia en las personas mayores! Sera algo muy bueno para todos nosotros si
+aprecia en las personas mayores! Sería algo muy bueno para todos nosotros si
 
-nunca hubiramos dejado de ser nios y nias, pero que hubiramos agregado a
+nunca hubiéramos dejado de ser nińos y nińas, pero que hubiéramos agregado a
 
-todas las excelencias de un nio las virtudes de un hombre. Ciertamente no es
+todas las excelencias de un nińo las virtudes de un hombre. Ciertamente no es
 
-necesario matar al nio para hacer al santo. Las personas ms severas piensan
+necesario matar al nińo para hacer al santo. Las personas más severas piensan
 
-que un nio convertido debe volverse veinte aos ms viejo en un minuto. Una
+que un nińo convertido debe volverse veinte ańos más viejo en un minuto. Una
 
-persona muy solemne me llam una vez desde el patio de recreo despus de que yo
+persona muy solemne me llamó una vez desde el patio de recreo después de que yo
 
-me haba unido a la iglesia y me advirti sobre la impropiedad de jugar con los
+me había unido a la iglesia y me advirtió sobre la impropiedad de jugar con los
 
-muchachos con un bate y una slida pelota de caucho que se intentaba introducir
+muchachos con un bate y una sólida pelota de caucho que se intentaba introducir
 
-en un orificio. Me dijo: cmo puedes jugar como los otros si t eres un hijo
+en un orificio. Me dijo: “żcómo puedes jugar como los otros si tú eres un hijo
 
-de Dios? Yo le respond que yo estaba empleado como un ayudante de maestro y
+de Dios?” Yo le respondí que yo estaba empleado como un ayudante de maestro y
 
 que era parte de
 
@@ -954,31 +954,31 @@ mi
 
 deber unirme en las diversiones de
 
-los muchachos. Mi venerable crtico pens que eso alteraba el asunto de manera
+los muchachos. Mi venerable crítico pensó que eso alteraba el asunto de manera
 
-sustancial, pero su visin era claramente que un muchacho convertido, como
+sustancial, ˇpero su visión era claramente que un muchacho convertido, como
 
-tal, no debera jugar nunca! Qu tontera, hermanos! No dir nada ms.
+tal, no debería jugar nunca! ˇQué tontería, hermanos! No diré nada más.
 
-Acaso otros no esperan
+żAcaso otros no esperan
 
-de los nios una conducta ms perfecta de la que ellos mismos exhiben? Si un
+de los nińos una conducta más perfecta de la que ellos mismos exhiben? Si un
 
-piadoso nio pierde su compostura o acta indebidamente en algo trivial por un
+piadoso nińo pierde su compostura o actúa indebidamente en algo trivial por un
 
-olvido, de inmediato es condenado como un pequeo hipcrita por aquellos que
+olvido, de inmediato es condenado como un pequeńo hipócrita por aquellos que
 
-distan mucho de ser perfectos. Jess dice: Mirad que no menospreciis a uno de
+distan mucho de ser perfectos. Jesús dice: “Mirad que no menospreciéis a uno de
 
-estos pequeos. Mirad que no digis una palabra que no sea amable en contra de
+estos pequeńos”. Mirad que no digáis una palabra que no sea amable en contra de
 
-sus hermanos menores en Cristo, ni de sus hermanitas en el Seor. Jess le da
+sus hermanos menores en Cristo, ni de sus hermanitas en el Seńor. Jesús le da
 
 tal importancia a Sus amadas ovejas que las lleva en Su pecho; y yo exhorto a
 
-quienes siguen a su Seor en todas las cosas, que muestren una ternura
+quienes siguen a su Seńor en todas las cosas, que muestren una ternura
 
-semejante para con los pequeitos de la familia divina. No voy a decir nada ms
+semejante para con los pequeńitos de la familia divina. No voy a decir nada más
 
 sobre ese punto.
 
@@ -986,27 +986,27 @@ III.
 
 Y
 
-ahora notemos, en tercer lugar, CMO CONDEN JESS ESTA FALTA.
+ahora notemos, en tercer lugar, CÓMO CONDENÓ JESÚS ESTA FALTA.
 
-Primero, l la conden
+Primero, Él la condenó
 
 como
 
-contraria a Su propio espritu.
+contraria a Su propio espíritu.
 
-Y
+“Y
 
-le presentaban nios para que los tocase; y los discpulos reprendan a los que
+le presentaban nińos para que los tocase; y los discípulos reprendían a los que
 
-los presentaban. Vindolo Jess, se indign. l no se indignaba con
+los presentaban. Viéndolo Jesús, se indignó”. Él no se indignaba con
 
-frecuencia; ciertamente no estaba muy indignado con frecuencia, y cuando
+frecuencia; ciertamente no estaba “muy indignado” con frecuencia, y cuando
 
 estaba muy indignado podemos estar seguros de que el motivo era grave. Estaba
 
-indignado porque aquellos nios eran separados de l, pues eso iba en contra de
+indignado porque aquellos nińos eran separados de Él, pues eso iba en contra de
 
-lo que pensaba de ellos. Los discpulos
+lo que pensaba de ellos. Los discípulos
 
 obraron
 
@@ -1014,145 +1014,145 @@ mal con las madres;
 
 ellos reprendieron a los padres por realizar un acto
 
-maternal, por hacer, de hecho, lo que a Jess le encantaba que hicieran. Llevaron
+maternal, por hacer, de hecho, lo que a Jesús le encantaba que hicieran. Llevaron
 
-sus nios a Jess por respeto a l; ellos valoraban una bendicin de Sus manos
+sus nińos a Jesús por respeto a Él; ellos valoraban una bendición de Sus manos
 
-ms que el oro; esperaban que la bendicin de Dios se recibiera cuando el
+más que el oro; esperaban que la bendición de Dios se recibiera cuando el
 
-grandioso Profeta los tocara. Tal vez esperaban que si la mano de Jess los
+grandioso Profeta los tocara. Tal vez esperaban que si la mano de Jesús los
 
-tocaba eso hara que las vidas de sus hijos fueran radiantes y felices. Aunque
+tocaba eso haría que las vidas de sus hijos fueran radiantes y felices. Aunque
 
 pudiera haber existido un grado de debilidad en el pensamiento de los padres,
 
-con todo el Salvador no poda juzgar duramente aquello que era el producto de
+con todo el Salvador no podía juzgar duramente aquello que era el producto de
 
 la reverencia hacia Su persona. Por tanto le indignaba pensar que esas buenas
 
-mujeres que tenan la intencin de honrarle, fueran rechazadas speramente.
+mujeres que tenían la intención de honrarle, fueran rechazadas ásperamente.
 
-Tambin se
+También se
 
-obr mal con los nios.
+obró mal con los nińos.
 
-Dulces
+ˇDulces
 
-pequeitos! Qu haban hecho para se les reprendiera por venir a Jess? Ellos
+pequeńitos! żQué habían hecho para se les reprendiera por venir a Jesús? Ellos
 
-no haban tenido la intencin de molestar. Queridos nios! Habran cado a Sus
+no habían tenido la intención de molestar. ˇQueridos nińos! Habrían caído a Sus
 
 pies en reverente amor por el Maestro de la dulce voz, que con Sus tiernas
 
-palabras encantaba no nicamente a los hombres, sino tambin a los nios. Los
+palabras encantaba no únicamente a los hombres, sino también a los nińos. Los
 
-pequeitos no tenan la intencin de hacer ningn dao, y por qu habra de
+pequeńitos no tenían la intención de hacer ningún dańo, ży por qué habría de
 
-culprseles?
+culpárseles?
 
-Adems, se
+Además, se
 
-obr mal con el propio Jess.
+obró mal con el propio Jesús.
 
-Eso habra
+Eso habría
 
-podido inducir a los hombres a pensar que Jess era estirado, reservado y que
+podido inducir a los hombres a pensar que Jesús era estirado, reservado y que
 
-se autoexaltaba, como los rabinos. Si haban pensado que no poda condescender
+se autoexaltaba, como los rabinos. Si habían pensado que no podía condescender
 
-con los nios habran calumniado tristemente el renombre de Su grandioso amor.
+con los nińos habrían calumniado tristemente el renombre de Su grandioso amor.
 
-Su corazn era un gran puerto en el que muchos barquitos podan echar el ancla.
+Su corazón era un gran puerto en el que muchos barquitos podían echar el ancla.
 
-Jess, el hombre-nio nunca se senta ms en casa que con los nios. El santo
+Jesús, el hombre-nińo nunca se sentía más en casa que con los nińos. El santo
 
-nio Jess senta una afinidad con los nios. Haba de ser representado por
+nińo Jesús sentía una afinidad con los nińos. żHabía de ser representado por
 
-Sus propios discpulos como cerrndoles la puerta a los nios? Eso lesionara
+Sus propios discípulos como cerrándoles la puerta a los nińos? Eso lesionaría
 
-tristemente Su carcter. Por tanto, afligido por el triple mal que hera a las
+tristemente Su carácter. Por tanto, afligido por el triple mal que hería a las
 
-madres, a los nios y a l mismo, estaba dolorosamente indignado. Cualquier
+madres, a los nińos y a Él mismo, estaba dolorosamente indignado. Cualquier
 
-cosa que hagamos para impedir que un amado nio venga a Jess indigna
+cosa que hagamos para impedir que un amado nińo venga a Jesús indigna
 
-grandemente a nuestro amado Seor. l nos dice a voces: Aprtense. Djenlos tranquilos.
+grandemente a nuestro amado Seńor. Él nos dice a voces: “Apártense. Déjenlos tranquilos.
 
-Dejen que vengan a M, y no se lo impidan. Querido amigo que peinas canas, que
+Dejen que vengan a Mí, y no se lo impidan”. Querido amigo que peinas canas, que
 
 eres tan estricto y bueno, quiero pedirte que retrocedas un poco y que permitas
 
-que ese nio venga a Jess, pues no deseo que el Seor se indigne contigo. Y
+que ese nińo venga a Jesús, pues no deseo que el Seńor se indigne contigo. Y
 
-t, buena hermana cristiana, tu temperamento se ha agriado un poco; entonces
+tú, buena hermana cristiana, tu temperamento se ha agriado un poco; entonces
 
-quiero pedirte que guardes silencio, pues pudiera ser que el Seor se indigne
+quiero pedirte que guardes silencio, pues pudiera ser que el Seńor se indigne
 
-contigo, como lo har si les prohbes a los nios que vengan a l. As, pueden
+contigo, como lo hará si les prohíbes a los nińos que vengan a Él. Así, pueden
 
-ver que era contrario a Su espritu.
+ver que era contrario a Su espíritu.
 
-A continuacin,
+A continuación,
 
-era contrario a Su enseanza,
+era contrario a Su enseńanza,
 
 pues
 
-prosigui diciendo: De cierto os digo, que el que no reciba el reino de Dios
+prosiguió diciendo: “De cierto os digo, que el que no reciba el reino de Dios
 
-como un nio, no entrar en l. La enseanza de Cristo no era que hay algo en
+como un nińo, no entrará en él”. La enseńanza de Cristo no era que hay algo en
 
-nosotros que nos haga aptos para el reino y que un cierto nmero de aos pueden
+nosotros que nos haga aptos para el reino y que un cierto número de ańos pueden
 
-hacernos capaces de recibir la gracia. Toda Su enseanza iba en el sentido
+hacernos capaces de recibir la gracia. Toda Su enseńanza iba en el sentido
 
-opuesto, es decir, que hemos de ser nada, y que entre menos seamos y seamos ms
+opuesto, es decir, que hemos de ser nada, y que entre menos seamos y seamos más
 
-dbiles, estaremos mejor, pues entre menos tengamos del yo, hay ms espacio
+débiles, estaremos mejor, pues entre menos tengamos del yo, hay más espacio
 
-para la gracia divina. Piensas venir a Jess subiendo por la escalera del
+para la gracia divina. żPiensas venir a Jesús subiendo por la escalera del
 
-conocimiento? Bjate, amigo, te encontrars con l al pie de la escalera. Piensas
+conocimiento? Bájate, amigo, te encontrarás con Él al pie de la escalera. żPiensas
 
-alcanzar a Jess arriba de la empinada colina de la experiencia? Bjate,
+alcanzar a Jesús arriba de la empinada colina de la experiencia? Bájate,
 
-querido escalador. l est en la llanura. Oh!, pero cuando sea viejo entonces
+querido escalador. Él está en la llanura. “ˇOh!, pero cuando sea viejo entonces
 
-estar preparado para Cristo. Qudate donde ests, joven amigo; Jess se encuentra
+estaré preparado para Cristo”. Quédate donde estás, joven amigo; Jesús se encuentra
 
-contigo a la puerta de la vida; nunca fuiste ms apto para encontrarte con l
+contigo a la puerta de la vida; nunca fuiste más apto para encontrarte con Él
 
-que justo ahora. l no te pide nada, excepto que seas nada y que l sea todo en
+que justo ahora. Él no te pide nada, excepto que seas nada y que Él sea todo en
 
-todo para ti. Esa es Su enseanza; y enviar de regreso al nio porque no tiene
+todo para ti. Esa es Su enseńanza; y enviar de regreso al nińo porque no tiene
 
 esto o aquello va en contra de la bendita doctrina de la gracia de Dios.
 
-Adems,
+Además,
 
-era completamente contrario a la prctica de
+era completamente contrario a la práctica de
 
 Jesucristo.
 
-l les hizo ver esto, pues tomndolos en los brazos, poniendo
+Él les hizo ver esto, pues “tomándolos en los brazos, poniendo
 
-las manos sobre ellos, los bendeca. A lo largo de toda Su vida no hay nada en
+las manos sobre ellos, los bendecía”. A lo largo de toda Su vida no hay nada en
 
-l que revele rechazo o repulsa. l dijo en verdad: Al que a m viene, no le
+Él que revele rechazo o repulsa. Él dijo en verdad: “Al que a mí viene, no le
 
-echo fuera. Si l echara fuera a cualquiera por ser demasiado joven, el texto
+echo fuera”. Si Él echara fuera a cualquiera por ser demasiado joven, el texto
 
-sera falso de inmediato, pero eso no puede suceder nunca. l recibe a todos
+sería falso de inmediato, pero eso no puede suceder nunca. Él recibe a todos
 
-los que vienen a l. Est escrito: Este a los pecadores recibe, y con ellos
+los que vienen a Él. Está escrito: “Este a los pecadores recibe, y con ellos
 
-come. Toda Su vida l puede ser representado como un pastor que lleva un
+come”. Toda Su vida Él puede ser representado como un pastor que lleva un
 
 cordero en Su pecho y nunca como un cruel pastor que azuza sus perros contra
 
-los corderos, ahuyentndolos al igual que a sus madres. No tengo ni tiempo ni
+los corderos, ahuyentándolos al igual que a sus madres. No tengo ni tiempo ni
 
-fuerzas para decir ms, y debo concluir con un simple vistazo a nuestro ltimo
+fuerzas para decir más, y debo concluir con un simple vistazo a nuestro último
 
 punto.
 
@@ -1164,131 +1164,131 @@ LA SUGERENCIA
 
 QUE
 
-JESS DA A QUIENES QUISIERAN VENIR A L. De cierto os digo, que el que no
+JESÚS DA A QUIENES QUISIERAN VENIR A ÉL. “De cierto os digo, que el que no
 
-reciba el reino de Dios como un nio, no entrar en l. Cmo deseara que
+reciba el reino de Dios como un nińo, no entrará en él”. ˇCómo desearía que
 
-toda mi congregacin viniese y recibiese a Cristo tal como un niito lo recibe!
+toda mi congregación viniese y recibiese a Cristo tal como un nińito lo recibe!
 
-El niito no tiene ningn prejuicio, ninguna teora preconcebida ni opiniones a
+El nińito no tiene ningún prejuicio, ninguna teoría preconcebida ni opiniones a
 
-los que no pueda renunciar; cree lo que Jess dice. T tienes que venir de la
+los que no pueda renunciar; cree lo que Jesús dice. Tú tienes que venir de la
 
-misma manera para aprender de Cristo. Me temo que sabes muchsimo: arrjalo por
+misma manera para aprender de Cristo. Me temo que sabes muchísimo: arrójalo por
 
-la ventana. T has decidido acerca de muchsimas cosas: desprograma tu mente y
+la ventana. Tú has decidido acerca de muchísimas cosas: desprograma tu mente y
 
-s delante de l como cera para el sello.
+sé delante de Él como cera para el sello.
 
-El niito cree con una
+El nińito cree con una
 
-fe incondicional que hace que todo sea vvido y real. Cree simplemente as! El
+fe incondicional que hace que todo sea vívido y real. ˇCree simplemente así! El
 
-nio cree en toda humildad, poniendo la mira en su maestro y recibiendo la
+nińo cree en toda humildad, poniendo la mira en su maestro y recibiendo la
 
-palabra de su maestro como decisiva. Cree en Jesucristo simplemente as! Debes
+palabra de su maestro como decisiva. ˇCree en Jesucristo simplemente así! Debes
 
-decir: Seor, yo soy alguien que no sabe nada: acudo a Ti para que me ensees.
+decir: “Seńor, yo soy alguien que no sabe nada: acudo a Ti para que me enseńes.
 
-Yo no soy nada. S T mi todo en todo.
+Yo no soy nada. Sé Tú mi todo en todo”.
 
-Cuando un nio viene a
+Cuando un nińo viene a
 
-Cristo viene muy sinceramente y de todo corazn. No sabe nada de motivos
+Cristo viene muy sinceramente y de todo corazón. No sabe nada de motivos
 
 siniestros o de formalidad. Su arrepentimiento y su fe son genuinos. Yo
 
-deseara que vinieran a Cristo esta maana, ustedes, pobres seres culpables,
+desearía que vinieran a Cristo esta mańana, ustedes, pobres seres culpables,
 
-con una sinceridad real, tal como son. No jueguen ms a la religin. No busquen
+con una sinceridad real, tal como son. No jueguen más a la religión. No busquen
 
 exquisitas palabras con las cuales adornarse y hacer que sus oraciones luzcan
 
-elegantes y hermosas, sino vengan como lo hace el nio, con toda simplicidad,
+elegantes y hermosas, sino vengan como lo hace el nińo, con toda simplicidad,
 
-sin avergonzarse de hablar como lo sienta su corazn.
+sin avergonzarse de hablar como lo sienta su corazón.
 
-Cuando un nio cree en
+Cuando un nińo cree en
 
-Jess, no le importan nada los puntos crticos. Esa es la manera en que tienen
+Jesús, no le importan nada los puntos críticos. Esa es la manera en que tienen
 
 que venir a Cristo. Ustedes, que siempre han estado inventando acertijos
 
-religiosos; ustedes, que durante muchos aos han sido lectores de las ms recientes
+religiosos; ustedes, que durante muchos ańos han sido lectores de las más recientes
 
-y ltimas novelas de la teologa moderna, pues son simplemente novelas, y nada
+y últimas novelas de la teología moderna, pues son simplemente novelas, y nada
 
 mejor que eso; ustedes, que han corrompido sus cerebros con los vanos
 
-pensamientos de vanos hombres, vengan a Jess tal como estn, y crean lo que
+pensamientos de vanos hombres, vengan a Jesús tal como están, y crean lo que
 
-dice Jess, porque Jess lo dice. Tomen la palabra de Cristo, y confen en l:
+dice Jesús, porque Jesús lo dice. Tomen la palabra de Cristo, y confíen en Él:
 
 esa es la manera de ser salvo.
 
-Pero yo no tengo ningn
+“Pero yo no tengo ningún
 
-mrito dice uno- no tengo ninguna preparacin. Tampoco los tiene un nio.
+mérito” –dice uno- “no tengo ninguna preparación”. Tampoco los tiene un nińo.
 
-Nunca veo que los nios se preocupen por estar preparados para Cristo, nunca me
+Nunca veo que los nińos se preocupen por estar preparados para Cristo, nunca me
 
-enterado de tal cosa como un nio preocupado acerca de los requisitos para la
+enterado de tal cosa como un nińo preocupado acerca de los requisitos para la
 
-gracia. Un nio es un pecador y lo sabe. Esa es la manera de venir a Cristo.
+gracia. Un nińo es un pecador y lo sabe. Esa es la manera de venir a Cristo.
 
-Ven como un pecador, sabiendo que lo eres. Di: Jess me llama y yo vengo;
+Ven como un pecador, sabiendo que lo eres. Di: “Jesús me llama y yo vengo;
 
-Jess muri por m, y yo confo en l. Esa es la verdadera manera de venir a
+Jesús murió por mí, y yo confío en Él”. Esa es la verdadera manera de venir a
 
-Jess. Oh, amigos!, en vez de que piensen que creciendo ms se estn volviendo
+Jesús. ˇOh, amigos!, en vez de que piensen que creciendo más se están volviendo
 
-ms aptos para Cristo, vulvanse ms pequeos. En vez de volverse ms grandes,
+más aptos para Cristo, vuélvanse más pequeńos. En vez de volverse más grandes,
 
-vulvanse ms pequeos. En vez de ser ms sabios, estn ms completamente
+vuélvanse más pequeńos. En vez de ser más sabios, estén más completamente
 
-desprovistos de toda sabidura, y vengan a Jess para buscar sabidura, justicia
+desprovistos de toda sabiduría, y vengan a Jesús para buscar sabiduría, justicia
 
 y todas las cosas.
 
 Algunas veces, cuando
 
-estamos muy dbiles y nuestro lenguaje es muy simple, Dios puede bendecirlo an
+estamos muy débiles y nuestro lenguaje es muy simple, Dios puede bendecirlo aún
 
-ms, y yo en verdad oro pidiendo que esta maana l ponga Su sello sobre esta
+más, y yo en verdad oro pidiendo que esta mańana Él ponga Su sello sobre esta
 
-pobre pltica de Su siervo enfermo. Cada partcula de mi carne, y cada tomo de
+pobre plática de Su siervo enfermo. Cada partícula de mi carne, y cada átomo de
 
-mis huesos estn orando pidindole a Dios que bendiga este sermn. Un horrible
+mis huesos están orando pidiéndole a Dios que bendiga este sermón. Un horrible
 
-dolor me ha estado atormentando mientras he estado hablando. Que este discurso
+dolor me ha estado atormentando mientras he estado hablando. ˇQue este discurso
 
-sea ms ilustre que sus hermanos, por cuanto lo di a luz en dolor! Yo anhelo, yo
+sea más ilustre que sus hermanos, por cuanto lo di a luz en dolor! Yo anhelo, yo
 
-deseo ardientemente, yo clamo delante de Dios que bendiga esta dbil palabra
+deseo ardientemente, yo clamo delante de Dios que bendiga esta débil palabra
 
-ma para la conversin de ustedes y para la conversin de muchos queridos
+mía para la conversión de ustedes y para la conversión de muchos queridos
 
-nios. Aquellos entre ustedes que no han mirado nunca a Cristo y vivido, hagan
+nińos. Aquellos entre ustedes que no han mirado nunca a Cristo y vivido, hagan
 
-con Cristo justo lo que esos amados nios hicieron: l los llam, y ellos
+con Cristo justo lo que esos amados nińos hicieron: Él los llamó, y ellos
 
-vinieron, y fueron acogidos en Sus brazos. Vengan ustedes tambin! Deseas a
+vinieron, y fueron acogidos en Sus brazos. ˇVengan ustedes también! żDeseas a
 
-medias poder ser un nio otra vez? Puedes serlo. l puede darte el corazn de
+medias poder ser un nińo otra vez? Puedes serlo. Él puede darte el corazón de
 
-un nio y t puedes ser un recin nacido en Su reino. Que as sea, por causa
+un nińo y tú puedes ser un recién nacido en Su reino. ˇQue así sea, por causa
 
-de Su nombre! Amn.
+de Su nombre! Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 18.
+del sermón: Lucas 18.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 8/Mayo/2014
 

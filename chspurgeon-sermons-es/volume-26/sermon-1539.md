@@ -1,16 +1,16 @@
 # Sermón 1539 | Sermón 1539
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-El Discpulo a
+El Discípulo a
 
-Quien Amaba Jess
+Quien Amaba Jesús
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,157 +18,157 @@ DOMINGO 23 DE MAYO
 
 DE 1880
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-El discpulo
+“El discípulo
 
-a quien amaba Jess, el mismo que en la cena se haba recostado al lado de l.
+a quien amaba Jesús, el mismo que en la cena se había recostado al lado de él”.
 
 Juan 21: 20.
 
-Nuestro Seor amaba a
+Nuestro Seńor amaba a
 
-todos Sus discpulos, segn este texto: Como haba amado a los suyos que
+todos Sus discípulos, según este texto: “Como había amado a los suyos que
 
-estaban en el mundo, los am hasta el fin. Dijo a todos los apstoles: Ya no
+estaban en el mundo, los amó hasta el fin”. Dijo a todos los apóstoles: “Ya no
 
-os llamar siervos, porque el siervo no sabe lo que hace su seor; pero os he
+os llamaré siervos, porque el siervo no sabe lo que hace su seńor; pero os he
 
-llamado amigos, porque todas las cosas que o de mi Padre, os las he dado a
+llamado amigos, porque todas las cosas que oí de mi Padre, os las he dado a
 
-conocer. Y, no obstante, en el interior de ese crculo de amor haba un
+conocer”. Y, no obstante, en el interior de ese círculo de amor había un
 
-recndito lugar donde el amado Juan haba recibido el permiso de morar. Sobre
+recóndito lugar donde el amado Juan había recibido el permiso de morar. Sobre
 
-la montaa del amor del Salvador haba una cima un poco ms elevada que el resto
+la montańa del amor del Salvador había una cima un poco más elevada que el resto
 
-del monte y all a Juan se le permita estar muy cerca de su Seor. No porque
+del monte y allí a Juan se le permitía estar muy cerca de su Seńor. No porque
 
 Juan hubiese sido especialmente amado hemos de tener en un menor concepto, ni
 
-siquiera en el ms mnimo grado, al amor que Jesucristo prodigaba al resto de
+siquiera en el más mínimo grado, al amor que Jesucristo prodigaba al resto de
 
 Sus escogidos. Yo entiendo, hermanos, que quienes manifiestan un amor
 
-extraordinario por alguien son tanto ms capaces de sentir un gran afecto por
+extraordinario por alguien son tanto más capaces de sentir un gran afecto por
 
-muchos, y por eso mismo, debido a que Jess amaba ms a Juan, opino que Su amor
+muchos, y por eso mismo, debido a que Jesús amaba más a Juan, opino que Su amor
 
-por los otros discpulos era tambin muy grande. No ha de suponerse ni por un
+por los otros discípulos era también muy grande. No ha de suponerse ni por un
 
 instante que alguno sufriera por causa de Su amistad suprema con Juan. Juan fue
 
-engrandecido pero ellos no se vieron empequeecidos, sino engrandecidos con l.
+engrandecido pero ellos no se vieron empequeńecidos, sino engrandecidos con él.
 
-Todos los creyentes son los objetos amados de la eleccin del Salvador; son la compra
+Todos los creyentes son los objetos amados de la elección del Salvador; son la compra
 
-hecha con Su sangre, Su porcin y Su herencia, son las joyas de Su corona. Si
+hecha con Su sangre, Su porción y Su herencia, son las joyas de Su corona. Si
 
-bien en el caso de Juan l es ms grande en amor que otros, todos son
+bien en el caso de Juan él es más grande en amor que otros, todos son
 
 eminentemente grandes, y por tanto si llegara a suceder que no te atrevieras a
 
 esperar poder alcanzar la altura de Juan, y no pudieras esperar ser distinguido
 
-por encima de otros como el discpulo a quien amaba Jess, no obstante has de
+por encima de otros como “el discípulo a quien amaba Jesús”, no obstante has de
 
 estar muy agradecido por pertenecer a la hermandad en la que cada quien puede
 
-decir: l me am y se dio a s mismo por m. Si no igualas a los tres
+decir: “Él me amó y se dio a sí mismo por mí”. Si no igualas a los tres
 
-primeros, debes sentirte feliz de pertenecer al ejrcito de los que siguen al
+primeros, debes sentirte feliz de pertenecer al ejército de los que siguen al
 
 Hijo de David (2 Samuel 23: 19). Es un privilegio incomparable y es un honor
 
-indecible gozar del amor de Jess aunque slo marches en medio de los soldados
+indecible gozar del amor de Jesús aunque sólo marches en medio de los soldados
 
-rasos de los ejrcitos del amor. El amor de nuestro Seor por cada uno de
+rasos de los ejércitos del amor. El amor de nuestro Seńor por cada uno de
 
 nosotros contiene alturas inmensurables y honduras insondables. Excede a todo
 
 conocimiento.
 
-No obstante yo no dira
+No obstante yo no diría
 
-estas palabras de aliento slo para hacer que se queden tranquilos en un bajo
+estas palabras de aliento sólo para hacer que se queden tranquilos en un bajo
 
-nivel de gracia; ms bien yo quisiera motivarlos a que asciendan al punto ms
+nivel de gracia; más bien yo quisiera motivarlos a que asciendan al punto más
 
-elevado del amor pues ya que el Seor los ha amado con un amor eterno, y los ha
+elevado del amor pues ya que el Seńor los ha amado con un amor eterno, y los ha
 
 elegido, y los ha llamado, y los ha guardado, y los ha instruido, y los ha
 
-perdonado y se ha manifestado a ustedes, por qu no habran de esperar que se
+perdonado y se ha manifestado a ustedes, żpor qué no habrían de esperar que se
 
-pudiera dar un paso ms o dos, y que as pudieran subir hasta la ms excelsa
+pudiera dar un paso más o dos, y que así pudieran subir hasta la más excelsa
 
-eminencia? Por qu no podran ser descritos muy pronto como Daniel, es decir,
+eminencia? żPor qué no podrían ser descritos muy pronto como Daniel, es decir,
 
-como un varn muy amado, o como Juan, el discpulo a quien amaba Jess?
+como un varón “muy amado”, o como Juan, “el discípulo a quien amaba Jesús”?
 
 Ser amado como Juan lo
 
-fue, con un amor especial, es la forma ms recndita de esa misma gracia con la
+fue, con un amor especial, es la forma más recóndita de esa misma gracia con la
 
 cual han sido favorecidos todos los creyentes. No han de imaginar que cuando
 
-trato de exhibir algunos de los rasgos que inspiraban amor en el carcter de
+trato de exhibir algunos de los rasgos que inspiraban amor en el carácter de
 
-Juan, quisiera que concluyeran que el amor que Cristo senta por Juan flua de
+Juan, quisiera que concluyeran que el amor que Cristo sentía por Juan fluía de
 
 cualquier otra manera que de acuerdo a la ley de la gracia, pues sin importar
 
-qu hubiera de amable en Juan, todo era obrado en l por la gracia de Dios.
+qué hubiera de amable en Juan, todo era obrado en él por la gracia de Dios.
 
-Bajo la ley de obras Juan habra sido condenado tan seguramente como cualquiera
+Bajo la ley de obras Juan habría sido condenado tan seguramente como cualquiera
 
-de nosotros, pues no haba en l ningn merecimiento legal. As como la gracia
+de nosotros, pues no había en él ningún merecimiento legal. Así como la gracia
 
-escoge al ms vil pecador de entre los impos as tambin esa gracia distingui
+escoge al más vil pecador de entre los impíos así también esa gracia distinguió
 
-a Juan. Aunque pudiera admitirse que haba ciertas caractersticas naturales
+a Juan. Aunque pudiera admitirse que había ciertas características naturales
 
-que lo hacan afable, con todo Dios es el creador de todo lo que es estimable
+que lo hacían afable, con todo Dios es el creador de todo lo que es estimable
 
 en el hombre y no fue sino hasta que lo natural hubo sido transformado y
 
 transfigurado por la gracia en lo espiritual que esas cosas se volvieron el
 
-objeto de la complacencia de Cristo Jess. Hermanos, nosotros no decimos hoy
+objeto de la complacencia de Cristo Jesús. Hermanos, nosotros no decimos hoy
 
 que Juan fuera amado por sus obras, ni que tuviera un lugar prominente en el
 
-corazn de Cristo sobre la base del mrito personal, algo de lo que pudiera
+corazón de Cristo sobre la base del mérito personal, algo de lo que pudiera
 
-gloriarse. Juan, como todo el resto de sus hermanos, era amado por Jess porque
+gloriarse. Juan, como todo el resto de sus hermanos, era amado por Jesús porque
 
-Jess es todo amor y decidi poner Su corazn en Juan. Nuestro Seor ejerci
+Jesús es todo amor y decidió poner Su corazón en Juan. Nuestro Seńor ejerció
 
-una soberana de amor y escogi a Juan por causa de Su propio nombre; y sin
+una soberanía de amor y escogió a Juan por causa de Su propio nombre; y sin
 
-embargo, al mismo tiempo mucho fue creado en Juan que lo converta en un objeto
+embargo, al mismo tiempo mucho fue creado en Juan que lo convertía en un objeto
 
-idneo para el amor de Cristo. El amor de Jess fue derramado en abundancia en
+idóneo para el amor de Cristo. El amor de Jesús fue derramado en abundancia en
 
-el corazn de Juan, y as el propio Juan se volvi fragante con aromas
+el corazón de Juan, y así el propio Juan se volvió fragante con aromas
 
-deleitosos. Todo fue por gracia; la suposicin de cualquier otra cosa est
+deleitosos. Todo fue por gracia; la suposición de cualquier otra cosa está
 
-fuera de lugar. Yo considero esta especial forma del amor de nuestro Seor como
+fuera de lugar. Yo considero esta especial forma del amor de nuestro Seńor como
 
-uno de esos dones mejores que se nos indica que hemos de procurar con avidez.
+uno de esos “dones mejores” que se nos indica que hemos de procurar con avidez.
 
-Pero es enfticamente un don y no un salario o un artculo comprable. El amor
+Pero es enfáticamente un don y no un salario o un artículo comprable. El amor
 
-no se compra. No habla nunca de precio o derecho. Su atmsfera es de un favor
+no se compra. No habla nunca de precio o derecho. Su atmósfera es de un favor
 
-gratuito. Si diese el hombre todos los bienes de su casa por este amor, de
+gratuito. “Si diese el hombre todos los bienes de su casa por este amor, de
 
-cierto lo menospreciaran. El ms supremo amor ha de buscarse, entonces, -siguiendo
+cierto lo menospreciarían”. El más supremo amor ha de buscarse, entonces, -siguiendo
 
-la analoga de la gracia-, como los hombres que tienen gracia buscan mayor
+la analogía de la gracia-, como los hombres que tienen gracia buscan mayor
 
 gracia y no como los legalistas que intercambian y regatean conforme a
 
@@ -176,9 +176,9 @@ recompensa y merecimiento. Si alguna vez llegamos a los aposentos superiores
 
 del palacio del amor, el amor mismo tiene que ayudarnos a subir las escaleras,
 
-s, y tiene que convertirse en la escalera misma para nuestros pies dispuestos.
+sí, y tiene que convertirse en la escalera misma para nuestros pies dispuestos.
 
-Oh, que contemos con la ayuda del Espritu Santo mientras hablamos sobre este
+Oh, que contemos con la ayuda del Espíritu Santo mientras hablamos sobre este
 
 tema.
 
@@ -186,121 +186,121 @@ I.
 
 Y
 
-ahora, queridos amigos, para acercarnos ms al texto, primero CONSIDEREMOS EL
+ahora, queridos amigos, para acercarnos más al texto, primero CONSIDEREMOS EL
 
-NOMBRE MISMO, El discpulo a quien amaba Jess.
+NOMBRE MISMO, “El discípulo a quien amaba Jesús”.
 
 Nuestra primera
 
-observacin al respecto es que
+observación al respecto es que
 
 es un
 
-nombre que Juan se da a s mismo.
+nombre que Juan se da a sí mismo.
 
-Creo que lo repite cinco veces. Ningn
+Creo que lo repite cinco veces. Ningún
 
-otro escritor llama a Juan el discpulo a quien amaba Jess: Juan es, entonces,
+otro escritor llama a Juan “el discípulo a quien amaba Jesús”: Juan es, entonces,
 
-quien se ha puesto ese sobrenombre, y todos los escritores de la antigedad lo
+quien se ha puesto ese sobrenombre, y todos los escritores de la antigüedad lo
 
-reconocen bajo ese ttulo. Sin embargo, no sospechen que sufriera de egosmo.
+reconocen bajo ese título. Sin embargo, no sospechen que sufriera de egoísmo.
 
-Es uno de esos casos en los que el egosmo est completamente fuera de duda. Ustedes
+Es uno de esos casos en los que el egoísmo está completamente fuera de duda. Ustedes
 
-y yo estaramos renuentes naturalmente a aceptar tal ttulo aun si sintiramos
+y yo estaríamos renuentes naturalmente a aceptar tal título aun si sintiéramos
 
-que nos perteneca, porque estaramos celosos de nuestra reputacin y temerosos
+que nos pertenecía, porque estaríamos celosos de nuestra reputación y temerosos
 
 de ser considerados presuntuosos; pero con una dulce
 
-naivet (ingenuidad)
+naiveté (ingenuidad)
 
-que lo lleva a olvidarse por completo de s
+que lo lleva a olvidarse por completo de sí
 
-mismo, Juan tom el nombre que l saba que lo describa de manera muy precisa,
+mismo, Juan tomó el nombre que él sabía que lo describía de manera muy precisa,
 
-sin importar que otros lo objetaran o no. Lejos de haber algn orgullo
+sin importar que otros lo objetaran o no. Lejos de haber algún orgullo
 
-involucrado en ello, muestra simplemente la sencillez de su espritu, la
+involucrado en ello, muestra simplemente la sencillez de su espíritu, la
 
-apertura, la transparencia de su carcter y su completo olvido de s mismo.
+apertura, la transparencia de su carácter y su completo olvido de sí mismo.
 
 Sabiendo que se trataba de la verdad, no duda en decirla: estaba seguro de que
 
-lo amaba ms que a otros, y, aunque se sorprenda por ello ms de lo que se
+lo amaba más que a otros, y, aunque se sorprendía por ello más de lo que se
 
 hubiera sorprendido cualquier otro, con todo, se regocijaba tanto en ese hecho que
 
-no poda evitar publicarlo sin importar cules pudieran ser las consecuencias
+no podía evitar publicarlo sin importar cuáles pudieran ser las consecuencias
 
-que para l mismo pudieran darse. A menudo hay bastante ms orgullo en dejar de
+que para él mismo pudieran darse. A menudo hay bastante más orgullo en dejar de
 
 dar testimonio de lo que Dios ha hecho por nosotros que en darlo. Todo depende
 
-del espritu que nos mueva. He odo a un hermano hablar con la ms profunda
+del espíritu que nos mueva. He oído a un hermano hablar con la más profunda
 
 humildad pero con plena seguridad del amor divino, y mientras algunos pensaban
 
-que era presuntuoso, yo he sentido en mi interior que su categrico testimonio era
+que era presuntuoso, yo he sentido en mi interior que su categórico testimonio era
 
-perfectamente consistente con la ms profunda humildad, y que era su sencilla
+perfectamente consistente con la más profunda humildad, y que era su sencilla
 
-modestia la que lo haca olvidarse por completo de s mismo como para correr el
+modestia la que lo hacía olvidarse por completo de sí mismo como para correr el
 
-riesgo de ser considerado exagerado y egosta. Estaba pensando en cmo
+riesgo de ser considerado exagerado y egoísta. Estaba pensando en cómo
 
-glorificara a Dios, y la apariencia de glorificarse a s mismo no lo alarmaba,
+glorificaría a Dios, y la apariencia de glorificarse a sí mismo no lo alarmaba,
 
-pues se haba olvidado de s mismo en su Seor. Yo deseara que pudiramos
+pues se había olvidado de sí mismo en su Seńor. Yo desearía que pudiéramos
 
-soportar que se ran de nosotros como si furamos orgullosos por causa de
+soportar que se rían de nosotros como si fuéramos orgullosos por causa de
 
-nuestro Seor. No tendremos nunca el nombre de Juan hasta que, como Juan, nos
+nuestro Seńor. No tendremos nunca el nombre de Juan hasta que, como Juan, nos
 
-atrevamos a llevarlo sin ningn rubor.
+atrevamos a llevarlo sin ningún rubor.
 
 Es un nombre tras el cual se oculta Juan.
 
 Es
 
-muy cauteloso de no mencionar a Juan. Habla de otro discpulo, y de el otro
+muy cauteloso de no mencionar a Juan. Habla de “otro discípulo”, y de “el otro
 
-discpulo, y luego de el discpulo a quien amaba Jess. Estos son los
+discípulo”, y luego de “el discípulo a quien amaba Jesús”. Estos son los
 
-nombres con los cuales quera viajar de incgnito a travs de su propio
+nombres con los cuales quería viajar “de incógnito” a través de su propio
 
 evangelio. Sin embargo, nosotros lo descubrimos pues el disfraz es demasiado
 
-tenue, pero aun as Juan tiene la intencin de ocultarse detrs de su Salvador;
+tenue, pero aun así Juan tiene la intención de ocultarse detrás de su Salvador;
 
 lleva el amor de su Maestro como un velo, aunque resulta ser un velo de luz.
 
-Pudo haberse llamado, si as lo hubiera decidido: el discpulo que contempl
+Pudo haberse llamado, si así lo hubiera decidido: “el discípulo que contempló
 
-visiones de Dios, pero prefiere hablar de amor antes que de profeca. En la
+visiones de Dios”, pero prefiere hablar de amor antes que de profecía. En la
 
-iglesia primitiva encontramos escritos concernientes a l en los que es
+iglesia primitiva encontramos escritos concernientes a él en los que es
 
-nombrado, el discpulo que se recostaba en el pecho de Jess, y eso lo
+nombrado, “el discípulo que se recostaba en el pecho de Jesús”, y eso lo
 
-menciona l mismo en nuestro texto. Pudo llamarse el discpulo que escribi
+menciona él mismo en nuestro texto. Pudo llamarse “el discípulo que escribió
 
-uno de los evangelios, o el discpulo que ms conoca del propio corazn de
+uno de los evangelios”, o “el discípulo que más conocía del propio corazón de
 
-Cristo que cualquier otro; pero Juan le da la preferencia al amor. No es el
+Cristo que cualquier otro”; pero Juan le da la preferencia al amor. No es el
 
-discpulo que hiciera cualquier cosa, sino el que reciba amor de Jess; y l
+discípulo que hiciera cualquier cosa, sino el que recibía amor de Jesús; y él
 
-no es ese discpulo que amaba a Jess, sino a quien amaba Jess. Juan es el
+no es ese discípulo que amaba a Jesús, sino “a quien amaba Jesús”. Juan es el
 
-varn con la mscara de plata; pero nosotros conocemos al hombre y sus
+varón con la máscara de plata; pero nosotros conocemos al hombre y sus
 
-comunicados y le omos decir: Nosotros hemos conocido y credo el amor que
+comunicados y le oímos decir: “Nosotros hemos conocido y creído el amor que
 
 Dios tiene para con nosotros. Dios es amor; y el que permanece en amor,
 
-permanece en Dios, y Dios en l.
+permanece en Dios, y Dios en él”.
 
 El nombre que estamos
 
@@ -308,101 +308,101 @@ considerando es
 
 un nombre con el que Juan
 
-se senta muy a gusto.
+se sentía muy a gusto.
 
-Ningn otro ttulo le describira tan bien. Su
+Ningún otro título le describiría tan bien. Su
 
-propio nombre: Juan, significa el don de Dios, y l era un don precioso de
+propio nombre: “Juan”, significa el “don de Dios”, y él era un don precioso de
 
 Dios el Padre para Su Hijo sufriente, y un gran consuelo para el Salvador durante
 
-los aos de Su residencia entre los hombres. Jess sin duda lo consideraba Su
+los ańos de Su residencia entre los hombres. Jesús sin duda lo consideraba Su
 
-Jonatn, Su Juan, Su don de Dios, y lo atesoraba como tal; pero Juan no piensa
+Jonatán, Su Juan, Su don de Dios, y lo atesoraba como tal; pero Juan no piensa
 
-tanto en ser de algn servicio para su Seor, como en lo que su Seor haba
+tanto en ser de algún servicio para su Seńor, como en lo que su Seńor había
 
-sido para l. l se llama a s mismo: el discpulo a quien amaba Jess porque
+sido para él. Él se llama a sí mismo: “el discípulo a quien amaba Jesús” porque
 
-reconoca la deleitable obligacin que brota del gran amor, y deseaba estar
+reconocía la deleitable obligación que brota del gran amor, y deseaba estar
 
-siempre bajo su regia influencia. l miraba al amor de Jess como la fuente y
+siempre bajo su regia influencia. Él miraba al amor de Jesús como la fuente y
 
-la raz de todo lo que haba en l que era agraciado y encomiable. Si tena alguna
+la raíz de todo lo que había en él que era agraciado y encomiable. Si tenía alguna
 
-valenta, si tena alguna fidelidad, si tena alguna profundidad de
+valentía, si tenía alguna fidelidad, si tenía alguna profundidad de
 
-conocimiento era porque Jess haba generado en l el amor por todas esas cosas.
+conocimiento era porque Jesús había generado en él el amor por todas esas cosas.
 
-Todas las fragantes flores que florecan en el huerto de su corazn fueron
+Todas las fragantes flores que florecían en el huerto de su corazón fueron
 
-plantadas all por la mano del amor de Cristo, as que cuando se llam a s
+plantadas allí por la mano del amor de Cristo, así que cuando se llamó a sí
 
-mismo el discpulo a quien amaba Jess, senta que haba ido a la raz y al
+mismo “el discípulo a quien amaba Jesús”, sentía que había ido a la raíz y al
 
-fondo del asunto, y que haba explicado la principal razn de ser lo que era.
+fondo del asunto, y que había explicado la principal razón de ser lo que era.
 
-Ese nombre de cario era
+Ese nombre de carińo era
 
-muy precioso para l porque evocaba los recuerdos ms luminosos de toda su
+muy precioso para él porque evocaba los recuerdos más luminosos de toda su
 
-vida. Esos cortos aos en los que haba estado con Jess debieron de ser
+vida. Esos cortos ańos en los que había estado con Jesús debieron de ser
 
-considerados por l en su vejez con gran embelesamiento como la corona y gloria
+considerados por él en su vejez con gran embelesamiento como la corona y gloria
 
 de su existencia terrenal. No me sorprende que viera a Cristo de nuevo en
 
-Patmos, despus de haberle visto en Palestina como le vio, pues tales visiones
+Patmos, después de haberle visto en Palestina como le vio, pues tales visiones
 
-son muy propensas a repetirse. Tales visiones, digo; pues la visin de Juan de
+son muy propensas a repetirse. Tales visiones, digo; pues la visión de Juan de
 
-su Seor no era una visin ordinaria. Hay a veces un eco de las visiones as como
+su Seńor no era una visión ordinaria. Hay a veces un eco de las visiones así como
 
-lo hay de los sonidos; y aquel que vio al Seor con el ojo de guila de Juan,
+lo hay de los sonidos; y aquel que vio al Seńor con el ojo de águila de Juan,
 
-con su ojo interior asentado en lo profundo, era el varn que tena mayor
+con su ojo interior asentado en lo profundo, era el varón que tenía mayor
 
-probabilidad en todo el mundo de verle repetidamente en visin tal como le vio
+probabilidad en todo el mundo de verle repetidamente en visión tal como le vio
 
 en medio de las rocas del Mar Egeo. Todos los recuerdos de la mejor parte de su
 
 vida fueron despertados por el nombre que ostentaba, y mediante ese poder
 
-renovaba a menudo la ntima comunin con el Cristo viviente que haba tenido
+renovaba a menudo la íntima comunión con el Cristo viviente que había tenido
 
-lugar durante los horrores de la crucifixin y que haba durado hasta el fin de
+lugar durante los horrores de la crucifixión y que había durado hasta el fin de
 
-Sus das. Ese nombre encantador puso a repicar todas las campanas de su alma;
+Sus días. Ese nombre encantador puso a repicar todas las campanas de su alma;
 
-acaso no suena muy musical? El discpulo a quien amaba Jess.
+żacaso no suena muy musical? “El discípulo a quien amaba Jesús”.
 
 Ese nombre era un potente
 
-resorte que le impulsaba a la accin mientras viviera. Cmo podra traicionar
+resorte que le impulsaba a la acción mientras viviera. żCómo podría traicionar
 
-a Aquel que le haba amado tanto? Cmo podra rehusar dar testimonio del
+a Aquel que le había amado tanto? żCómo podría rehusar dar testimonio del
 
-Evangelio del Salvador que le haba amado tanto? Cuntas leguas de viaje podran
+Evangelio del Salvador que le había amado tanto? żCuántas leguas de viaje podrían
 
-ser demasiado largas para los pies de ese discpulo a quien Jess amaba? Qu
+ser demasiado largas para los pies de ese discípulo a quien Jesús amaba? żQué
 
-turbas de hombres crueles podran intimidar el corazn del discpulo a quien
+turbas de hombres crueles podrían intimidar el corazón del discípulo a quien
 
-Jess amaba? Qu forma de destierro o de muerte podran desalentar a aquel a
+Jesús amaba? żQué forma de destierro o de muerte podrían desalentar a aquel a
 
-quien Jess amaba? No, a partir de entonces, en el poder de ese nombre, Juan se
+quien Jesús amaba? No, a partir de entonces, en el poder de ese nombre, Juan se
 
-vuelve osado y fiel, y sirve a su amoroso Amigo con todo su corazn. Digo,
+vuelve osado y fiel, y sirve a su amoroso Amigo con todo su corazón. Digo,
 
-entonces, que este ttulo debe de haber sido muy valioso para Juan porque se
+entonces, que este título debe de haber sido muy valioso para Juan porque se
 
-senta sumamente a gusto con l; los secretos resortes de su naturaleza eran
+sentía sumamente a gusto con él; los secretos resortes de su naturaleza eran
 
-tocados por l y senta que su ser entero, su corazn, su mente, su memoria, que
+tocados por él y sentía que su ser entero, su corazón, su mente, su memoria, que
 
-todo ello estaba incluido en el alcance de las palabras el discpulo a quien
+todo ello estaba incluido en el alcance de las palabras “el discípulo a quien
 
-amaba Jess.
+amaba Jesús”.
 
 Era un nombre que nunca fue disputado.
 
@@ -410,47 +410,47 @@ No
 
 se encuentra que nadie se quejara de Juan por describirse de esa manera. El consenso
 
-general le conceda ese ttulo. Sus hermanos altercaron un poco con l cuando
+general le concedía ese título. Sus hermanos altercaron un poco con él cuando
 
-su cariosa madre, Salom, quera sendos tronos para sus dos hijos a la derecha
+su carińosa madre, Salomé, quería sendos tronos para sus dos hijos a la derecha
 
-y a la izquierda del Mesas, pero el amor de Jess por Juan no caus nunca
+y a la izquierda del Mesías, pero el amor de Jesús por Juan no causó nunca
 
-ninguna mala voluntad entre los hermanos, ni tampoco Juan se aprovech
+ninguna mala voluntad entre los hermanos, ni tampoco Juan se aprovechó
 
-indebidamente de eso. Yo creo que los apstoles reconocieron tcitamente que su
+indebidamente de eso. Yo creo que los apóstoles reconocieron tácitamente que su
 
-Seor tena la razn en Su seleccin. Haba algo en Juan que haca que sus
+Seńor tenía la razón en Su selección. Había algo en Juan que hacía que sus
 
-hermanos lo amaran, y por eso no se sorprendieron de que su Seor lo convirtiera
+hermanos lo amaran, y por eso no se sorprendieron de que su Seńor lo convirtiera
 
-en Su amigo ms ntimo. Quien es amado verdaderamente por Dios generalmente
+en Su amigo más íntimo. Quien es amado verdaderamente por Dios generalmente
 
-recibe el amor de sus hermanos, s, y aun el amor de los impos en cierto modo,
+recibe el amor de sus hermanos, sí, y aun el amor de los impíos en cierto modo,
 
-pues cuando los caminos del hombre son agradables a Jehov, aun a sus enemigos
+pues ‘cuando los caminos del hombre son agradables a Jehová, aun a sus enemigos
 
-hace estar en paz con l. Cuando David caminaba con Dios, todo Israel lo
+hace estar en paz con él’. Cuando David caminaba con Dios, todo Israel lo
 
-amaba, y aun Sal se vea forzado a exclamar: Ms justo eres t que yo. Juan
+amaba, y aun Saúl se veía forzado a exclamar: “Más justo eres tú que yo”. Juan
 
-era tan amoroso que se conquistaba el amor por doquier. Haramos bien en
+era tan amoroso que se conquistaba el amor por doquier. Haríamos bien en
 
-ambicionar esta bendicin especial puesto que slo ella, de todos los tesoros
+ambicionar esta bendición especial puesto que sólo ella, de todos los tesoros
 
-conocidos, no provoca ninguna envidia entre los hermanos sino que ms bien hace
+conocidos, no provoca ninguna envidia entre los hermanos sino que más bien hace
 
 que todas las personas piadosas se regocijen. Puesto que los santos desean ser
 
 amados grandemente, se alegran cuando se encuentran con aquellos que han
 
-obtenido esa bendicin. Si nosotros queremos oler a mirra y loes y casia, nos
+obtenido esa bendición. Si nosotros queremos oler a mirra y áloes y casia, nos
 
 alegra conocer a aquellos cuyas ropas ya son fragantes. Nunca se ve a Juan
 
-dictando ctedra a sus hermanos o enseorendose de la herencia de Dios, sino
+dictando cátedra a sus hermanos o enseńoreándose de la herencia de Dios, sino
 
-que con toda gentileza y humildad justificaba el afecto que nuestro Seor le
+que con toda gentileza y humildad justificaba el afecto que nuestro Seńor le
 
 manifestaba.
 
@@ -458,15 +458,15 @@ II.
 
 Suficiente,
 
-entonces, en cuanto al nombre. En segundo lugar, CONSIDEREMOS EL CARCTER QUE
+entonces, en cuanto al nombre. En segundo lugar, CONSIDEREMOS EL CARÁCTER QUE
 
-RESPALDABA AL NOMBRE. Yo slo puedo dar un retrato en miniatura de Juan. Es
+RESPALDABA AL NOMBRE. Yo sólo puedo dar un retrato en miniatura de Juan. Es
 
-absolutamente imposible pintar un cuadro completo en el poco tiempo de un sermn;
+absolutamente imposible pintar un cuadro completo en el poco tiempo de un sermón;
 
 y, ciertamente, yo no soy tan buen artista como para lograrlo aun si intentara
 
-realizar la tarea. En el carcter de Juan vemos mucho que es admirable.
+realizar la tarea. En el carácter de Juan vemos mucho que es admirable.
 
 Primero, consideremos
 
@@ -474,379 +474,379 @@ su personalidad como un individuo.
 
 El
 
-suyo era un corazn grande y clido. Tal vez su fuerza principal radica en la
+suyo era un corazón grande y cálido. Tal vez su fuerza principal radica en la
 
 intensidad de su naturaleza. Juan no es vehemente, pero es profundo y fuerte.
 
-Todo lo que haca lo haca de todo corazn. Juan era confiado; era un hombre en
+Todo lo que hacía lo hacía de todo corazón. Juan era confiado; era un hombre en
 
-quien no haba engao; no haba ninguna divisin en su naturaleza, era uno e
+quien no había engańo; no había ninguna división en su naturaleza, era uno e
 
-indivisible en todo lo que senta o haca. No albergaba preguntas, no era
+indivisible en todo lo que sentía o hacía. No albergaba preguntas, no era
 
-criticn ni era propenso a espiar las fallas de los dems, y con respecto a las
+criticón ni era propenso a espiar las fallas de los demás, y con respecto a las
 
 dificultades, ya fueran mentales o de otro tipo, parece haber estado felizmente
 
-libre de ellas. Habiendo ponderado y llegado a una conclusin, toda su
+libre de ellas. Habiendo ponderado y llegado a una conclusión, toda su
 
-naturaleza se mova en una slida falange con una marcha enrgica; doquiera que
+naturaleza se movía en una sólida falange con una marcha enérgica; doquiera que
 
 iba, iba integralmente y muy resueltamente. Algunos hombres van en dos
 
-sentidos, o cambian de lnea de conducta, o se dirigen a su objetivo de una
+sentidos, o cambian de línea de conducta, o se dirigen a su objetivo de una
 
 manera indirecta, pero Juan orienta su locomotora directamente hacia adelante,
 
-con los fuegos llameantes y con la mquina trabajando a toda velocidad. Su alma
+con los fuegos llameantes y con la máquina trabajando a toda velocidad. Su alma
 
-entera estaba involucrada en la causa de su Seor pues era un pensador
+entera estaba involucrada en la causa de su Seńor pues era un pensador
 
-profundo, un estudiante silencioso y luego un actor enrgico. No era impetuoso
+profundo, un estudiante silencioso y luego un actor enérgico. No era impetuoso
 
-con la premura de Pedro, pero no obstante era cabal y resuelto y arda en celo.
+con la premura de Pedro, pero no obstante era cabal y resuelto y ardía en celo.
 
-Juan viva sus creencias
+Juan vivía sus creencias
 
-y crea al mximo lo que haba aprendido de su Seor. Lean su Epstola completa
+y creía al máximo lo que había aprendido de su Seńor. Lean su Epístola completa
 
-y vean cuntas veces dice: sabemos, sabemos, sabemos. En l no hay
+y vean cuántas veces dice: “sabemos”, “sabemos”, “sabemos”. En él no hay
 
-algunos de los condicionales tales como si; es un creyente slido y profundo.
+algunos de los condicionales tales como “si”; es un creyente sólido y profundo.
 
-Su corazn da un asentimiento y un consentimiento genuinos.
+Su corazón da un asentimiento y un consentimiento genuinos.
 
-Adems haba una intensa
+Además había una intensa
 
-calidez en Juan. Amaba a su Seor y amaba a sus hermanos; amaba con un gran
+calidez en Juan. Amaba a su Seńor y amaba a sus hermanos; amaba con un gran
 
-corazn pues tena una noble naturaleza. Amaba constantemente y amaba de tal
+corazón pues tenía una noble naturaleza. Amaba constantemente y amaba de tal
 
-manera como para ser valiente por su Maestro en la prctica, pues era un hombre
+manera como para ser valiente por su Maestro en la práctica, pues era un hombre
 
-osado, un verdadero hijo del trueno. Estaba dispuesto a ir al frente si tena
+osado, un verdadero hijo del trueno. Estaba dispuesto a ir al frente si tenía
 
 que hacerlo, pero de una manera muy tranquila y no con prisa ni ruido; el suyo
 
-no es el desplome de una catarata sino el discurrir tranquilo de un ro profundo.
+no es el desplome de una catarata sino el discurrir tranquilo de un río profundo.
 
 Juntando todo lo que
 
 sabemos acerca de su personalidad, lo vemos como un hombre que era lo opuesto
 
-del tpico hijo de la desconfianza, fro, calculador y precavido. Ustedes saben
+del típico hijo de la desconfianza, frío, calculador y precavido. Ustedes saben
 
-a qu tipo de personas me refiero, a personas muy buenas a su manera pero de
+a qué tipo de personas me refiero, a personas muy buenas a su manera pero de
 
 ninguna manera fascinantes o que hayan de ser muy imitadas. Juan era
 
 completamente lo contrario de esos hermanos secos, sin jugo, que no poseen una
 
-naturaleza humana, seres que son en algn punto casi perfectos porque no tienen
+naturaleza humana, seres que son en algún punto casi perfectos porque no tienen
 
-suficiente vida para pecar. No hacen ningn mal porque no hacen nada en
+suficiente vida para pecar. No hacen ningún mal porque no hacen nada en
 
-absoluto. Yo conozco a unos cuantos de esos deleitables individuos, crticos
+absoluto. Yo conozco a unos cuantos de esos deleitables individuos, críticos
 
-agudos de otros y ellos mismos sin tacha, con esta nica excepcin: que no
+agudos de otros y ellos mismos sin tacha, con esta única excepción: que no
 
-tienen corazn. Juan era un hombre cordial; era un hombre de cerebro pero de
+tienen corazón. Juan era un hombre cordial; era un hombre de cerebro pero de
 
-alma tambin, un hombre de un alma caritativa, un hombre en el que prevaleca una
+alma también, un hombre de un alma caritativa, un hombre en el que prevalecía una
 
 vida intensa pero tranquila. Un hombre a ser amado. La suya no era la vida de
 
-un arbusto congelado sino de una rosa roja. l llevaba el verano en su
+un arbusto congelado sino de una rosa roja. Él llevaba el verano en su
 
-semblante, la energa en sus modales, una fuerza firme en todos sus movimientos.
+semblante, la energía en sus modales, una fuerza firme en todos sus movimientos.
 
-Era semejante a aquel otro Juan de quien una vez fuera el discpulo, l era
+Era semejante a aquel otro Juan de quien una vez fuera el discípulo, “Él era
 
-antorcha que arda y alumbraba. Haba en Juan calidez y luz a la vez. Era
+antorcha que ardía y alumbraba”. Había en Juan calidez y luz a la vez. Era
 
 intenso, sincero y abnegado por naturaleza, y una plenitud de gracia que
 
-santificaba esas virtudes se derramaba sobre l.
+santificaba esas virtudes se derramaba sobre él.
 
-Vemoslo ahora
+Veámoslo ahora
 
-en su relacin con su Seor.
+en su relación con su Seńor.
 
 El nombre
 
-que adopta para s mismo es
+que adopta para sí mismo es
 
-el discpulo
+“el discípulo
 
-a quien amaba Jess. Jess lo amaba como a un discpulo. Qu tipo de
+a quien amaba Jesús”. Jesús lo amaba como a un discípulo. żQué tipo de
 
-discpulos aman los maestros? Los que han sido alguna vez maestros de jvenes
+discípulos aman los maestros? Los que han sido alguna vez maestros de jóvenes
 
-saben que si los maestros pudieran elegir, ciertos alumnos seran elegidos de
+saben que si los maestros pudieran elegir, ciertos alumnos serían elegidos de
 
-preferencia a otros. Cuando enseamos, amamos a la gente enseable, tal como
+preferencia a otros. Cuando enseńamos, amamos a la gente enseńable, tal como
 
-Juan. Era un hombre que aprenda rpido. No era como Toms, lento,
+Juan. Era un hombre que aprendía rápido. No era como Tomás, lento,
 
-argumentador, cauteloso, sino que habindose asegurado una vez que tena a un
+argumentador, cauteloso, sino que habiéndose asegurado una vez que tenía a un
 
 verdadero maestro, se le entregaba por completo y estaba dispuesto a recibir lo
 
 que tuviera que revelarle.
 
-Juan era un discpulo de
+Juan era un discípulo de
 
-mirada muy perspicaz que penetraba en el alma de la enseanza de su instructor.
+mirada muy perspicaz que penetraba en el alma de la enseńanza de su instructor.
 
-Su emblema en la iglesia primitiva era un guila, el guila que se remonta,
+Su emblema en la iglesia primitiva era un águila, el águila que se remonta,
 
-pero tambin el guila que ve a la distancia. Juan vea el significado
+pero también el águila que ve a la distancia. Juan veía el significado
 
-espiritual de los tipos y los emblemas; no se detena en los smbolos externos,
+espiritual de los tipos y los emblemas; no se detenía en los símbolos externos,
 
-como lo hacan algunos discpulos, sino que su alma penetrante lea en las profundidades
+como lo hacían algunos discípulos, sino que su alma penetrante leía en las profundidades
 
-de la verdad. Se puede ver esto tanto en sus evangelios como en sus epstolas.
+de la verdad. Se puede ver esto tanto en sus evangelios como en sus epístolas.
 
 Era un hombre orientado a lo espiritual; no se detiene en la letra, sino que se
 
-sumerge debajo de la superficie. Perfora la concha y llega hasta la enseanza
+sumerge debajo de la superficie. Perfora la concha y llega hasta la enseńanza
 
-interior. Su primer maestro fue Juan el Bautista, y fue tan buen discpulo que
+interior. Su primer maestro fue Juan el Bautista, y fue tan buen discípulo que
 
-fue el primero en dejar a su maestro. T sugieres que eso no demuestra que fuera
+fue el primero en dejar a su maestro. Tú sugieres que eso no demuestra que fuera
 
-un buen discpulo. Ciertamente s lo demostraba, pues el propsito del Bautista
+un buen discípulo. Ciertamente sí lo demostraba, pues el propósito del Bautista
 
-era enviar a sus seguidores a Jess. El Bautista dijo: He aqu el Cordero de
+era enviar a sus seguidores a Jesús. El Bautista dijo: “He aquí el Cordero de
 
-Dios, que quita el pecado del mundo, y Juan era un seguidor tan aventajado del
+Dios, que quita el pecado del mundo”, y Juan era un seguidor tan aventajado del
 
-precursor que inmediatamente sigui al propio Seor, a quien el precursor le
+precursor que inmediatamente siguió al propio Seńor, a quien el precursor le
 
-haba presentado. Esto lo hizo sin ninguna sacudida violenta; su progreso fue
+había presentado. Esto lo hizo sin ninguna sacudida violenta; su progreso fue
 
-natural y consistente. Pablo vino a Jess con un gran sobresalto y un
+natural y consistente. Pablo vino a Jesús con un gran sobresalto y un
 
 inesperado giro cuando se vio en peligro en el camino a Damasco; pero Juan se
 
-desliz suavemente hasta el Bautista y luego desde el Bautista hasta Jess. No
+deslizó suavemente hasta el Bautista y luego desde el Bautista hasta Jesús. No
 
-era obstinado ni tampoco dbil sino que era dcil y por eso progresaba
+era obstinado ni tampoco débil sino que era dócil y por eso progresaba
 
-constantemente en su aprendizaje; ese es el tipo de discpulos que un maestro
+constantemente en su aprendizaje; ese es el tipo de discípulos que un maestro
 
-invariablemente ama, y por tanto, Juan era el
+invariablemente ama, y por tanto, Juan era “el
 
-discpulo
+discípulo
 
-a quien amaba Jess.
+a quien amaba Jesús”.
 
 Juan estaba lleno de fe
 
-para aceptar la enseanza que reciba. La crea, y la crea real e
+para aceptar la enseńanza que recibía. La creía, y la creía real e
 
-ntegramente. No crea como lo hacen algunas personas, con la punta de los
+íntegramente. No creía como lo hacen algunas personas, con la punta de los
 
 dedos del entendimiento, sino que sujetaba la verdad con ambas manos, la
 
-albergaba en su corazn, y permita que fluyera desde ese centro y que saturara
+albergaba en su corazón, y permitía que fluyera desde ese centro y que saturara
 
-su ser entero. Era un creyente en lo ms ntimo de su alma; cuando vio la
+su ser entero. Era un creyente en lo más íntimo de su alma; cuando vio la
 
 sangre y el agua que brotaban desde la cruz y los lienzos enrollados en el
 
-sepulcro, vio y crey.
+sepulcro, vio y creyó.
 
-Su fe gener en l un
+Su fe generó en él un
 
-amor slido y duradero pues la fe obra por amor. l crea en su Maestro de una manera
+amor sólido y duradero pues la fe obra por amor. Él creía en su Maestro de una manera
 
-dulcemente familiar, en el amor no hay temor, sino que el perfecto amor echa
+dulcemente familiar, “en el amor no hay temor, sino que el perfecto amor echa
 
-fuera el temor. Un discpulo confiado y entregado de esa manera con seguridad ser
+fuera el temor”. Un discípulo confiado y entregado de esa manera con seguridad será
 
 amado por su maestro.
 
-Juan tena una gran
+Juan tenía una gran
 
-receptividad. Absorba todo lo que se le enseaba. Era como el velln de
+receptividad. Absorbía todo lo que se le enseńaba. Era como el vellón de
 
-Geden, listo para ser remojado con el roco del cielo. Su naturaleza entera
+Gedeón, listo para ser remojado con el rocío del cielo. Su naturaleza entera
 
-absorba la verdad que es en Jess. No hablaba mucho; yo pensara que ms bien
+absorbía la verdad que es en Jesús. No hablaba mucho; yo pensaría que más bien
 
-era un discpulo callado. Hablaba tan poco que slo tenemos una expresin suya
+era un discípulo callado. Hablaba tan poco que sólo tenemos una expresión suya
 
-registrada en los evangelios. Vamos dir alguien- yo recuerdo dos o tres
+registrada en los evangelios. “Vamos” –dirá alguien- “yo recuerdo dos o tres
 
-participaciones. Me ests recordando que l pregunt si poda sentarse a la
+participaciones”. żMe estás recordando que él preguntó si podía sentarse a la
 
-diestra de Cristo? No he olvidado esa peticin, pero yo te respondo que fue su
+diestra de Cristo? No he olvidado esa petición, pero yo te respondo que fue su
 
-madre, Salom, quien habl en aquella ocasin. T me dices tambin que en la
+madre, Salomé, quien habló en aquella ocasión. Tú me dices también que en la
 
-cena Juan pregunt: Seor, quin es? S, pero fue Pedro quien puso esa
+cena Juan preguntó: “Seńor, żquién es?” Sí, pero fue Pedro quien puso esa
 
-pregunta en su boca. La nica declaracin que yo recuerde en el Evangelio que era
+pregunta en su boca. La única declaración que yo recuerde en el Evangelio que era
 
-genuinamente de Juan fue junto al mar de Tiberias, cuando le dijo a Pedro: Es
+genuinamente de Juan fue junto al mar de Tiberias, cuando le dijo a Pedro: “ˇEs
 
-el Seor! Ese fue un pequeo discurso muy significativo, un reconocimiento de
+el Seńor!” Ese fue un pequeńo discurso muy significativo, un reconocimiento de
 
-su Seor que el vivaz ojo del amor hace con seguridad. Aquel que viva ms
+su Seńor que el vivaz ojo del amor hace con seguridad. Aquel que vivía más
 
-cerca de Jess poda discernirlo mejor cuando estaba en la costa. Es el
+cerca de Jesús podía discernirlo mejor cuando estaba en la costa. “ˇEs el
 
-Seor!, es la alegre exclamacin del amor que se llena de jbilo al ver a su
+Seńor!”, es la alegre exclamación del amor que se llena de júbilo al ver a su
 
-Amado. Habra podido servirle a Juan como su lema: Es el Seor! Oh que
+Amado. Habría podido servirle a Juan como su lema: “ˇEs el Seńor!” Oh que
 
-furamos capaces, en medio de la oscuridad y de la agitacin, de discernir al
+fuéramos capaces, en medio de la oscuridad y de la agitación, de discernir al
 
-Salvador y de regocijarnos en Su presencia. Bienaventurados los de limpio corazn,
+Salvador y de regocijarnos en Su presencia. “Bienaventurados los de limpio corazón,
 
-porque ellos vern a Dios, y el discpulo amado era uno de esos.
+porque ellos verán a Dios”, y el discípulo amado era uno de esos.
 
 Un rasgo grandioso del
 
-carcter de Juan, como discpulo, era su intenso amor por su maestro; no slo
+carácter de Juan, como discípulo, era su intenso amor por su maestro; no sólo
 
-reciba la verdad, sino que reciba al Maestro mismo. Yo entiendo que la
+recibía la verdad, sino que recibía al Maestro mismo. Yo entiendo que la
 
-proclividad a las fallas en un hombre a menudo revela ms su corazn que sus
+proclividad a las fallas en un hombre a menudo revela más su corazón que sus
 
-virtudes. La observacin que hago pudiera parecer extraa, pero es vlida. Un
+virtudes. La observación que hago pudiera parecer extrańa, pero es válida. Un
 
-corazn verdadero puede ser visto tanto en su debilidad como en su excelencia.
+corazón verdadero puede ser visto tanto en su debilidad como en su excelencia.
 
-Cules eran los puntos dbiles de Juan, segn diran algunos? En una ocasin
+żCuáles eran los puntos débiles de Juan, según dirían algunos? En una ocasión
 
-fue intolerante. Ciertas personas estaban echando fuera demonios y l se los
+fue intolerante. Ciertas personas estaban echando fuera demonios y él se los
 
-impidi porque no seguan a los discpulos. Ahora bien, esa intolerancia,
+impidió porque no seguían a los discípulos. Ahora bien, esa intolerancia,
 
-indebida como era, brotaba del amor por su Seor pues tema que esos intrusos
+indebida como era, brotaba del amor por su Seńor pues temía que esos intrusos
 
-se constituyeran en rivales de su Seor y quera que se sometieran al gobierno
+se constituyeran en rivales de su Seńor y quería que se sometieran al gobierno
 
-de su amado Jess. En otra ocasin los samaritanos no queran recibirlos, y l
+de su amado Jesús. En otra ocasión los samaritanos no querían recibirlos, y él
 
-le pidi a su Maestro que hiciera descender fuego del cielo sobre ellos. Uno no
+le pidió a su Maestro que hiciera descender fuego del cielo sobre ellos. Uno no
 
-lo encomia, pero aun as fue el amor a Jess lo que le hizo indignarse ante su
+lo encomia, pero aun así fue el amor a Jesús lo que le hizo indignarse ante su
 
-conducta poco generosa para con su mejor amigo. Se senta tan indignado de que
+conducta poco generosa para con su mejor amigo. Se sentía tan indignado de que
 
-los hombres no atendieran al Salvador que haba venido al mundo para
+los hombres no atendieran al Salvador que había venido al mundo para
 
-bendecirlos, que quera hacer descender fuego del cielo. Eso demostraba su amor
+bendecirlos, que quería hacer descender fuego del cielo. Eso demostraba su amor
 
-ardiente por Jess. Incluso cuando su madre pidi que l y su hermano se
+ardiente por Jesús. Incluso cuando su madre pidió que él y su hermano se
 
 sentaran sobre sendos tronos a la derecha y a la izquierda de Cristo, era una
 
-profunda y razonada fe en Jess la que haba sugerido eso. Su idea de honor y
+profunda y razonada fe en Jesús la que había sugerido eso. Su idea de honor y
 
-gloria estaba ligada a Jess. Si cede a la ambicin, es por una ambicin de
+gloria estaba ligada a Jesús. Si cede a la ambición, es por una ambición de
 
 reinar con el despreciado Galileo. No quiere un trono a menos que sea al lado
 
-de su Lder. Adems, cunta fe haba en esa peticin! Yo no voy a
+de su Líder. Además, ˇcuánta fe había en esa petición! Yo no voy a
 
-justificarla, pero voy a decir algo para moderar su condenacin. Nuestro Seor
+justificarla, pero voy a decir algo para moderar su condenación. Nuestro Seńor
 
-suba a Jerusaln para ser escupido all y para ser llevado a la muerte y, con
+subía a Jerusalén para ser escupido allí y para ser llevado a la muerte y, con
 
-todo, Juan se involucr tan integralmente en la carrera de su Seor que
+todo, Juan se involucró tan integralmente en la carrera de su Seńor que
 
-gustosamente correra la suerte de su grandioso Csar con la seguridad de que
+gustosamente correría la suerte de su grandioso César con la seguridad de que
 
-deba concluir en Su entronizacin. Est dispuesto, dice, a ser bautizado con
+debía concluir en Su entronización. Está dispuesto, dice, a ser bautizado con
 
-Su bautismo y a beber de la copa; l slo pide ser partcipe con Jess en todas
+Su bautismo y a beber de la copa; él sólo pide ser partícipe con Jesús en todas
 
-las cosas. Tal como dice un buen escritor, a uno le recuerda la valenta del
+las cosas. Tal como dice un buen escritor, a uno le recuerda la valentía del
 
-ciudadano romano el cual, cuando Roma haba cado en manos del enemigo, compr
+ciudadano romano el cual, cuando Roma había caído en manos del enemigo, compró
 
 una casa dentro de los muros. Juan solicita heroicamente un trono al lado de
 
-Uno que estaba a punto de morir en la cruz, pues estaba convencido de que l
+Uno que estaba a punto de morir en la cruz, pues estaba convencido de que Él
 
-triunfara. Cuando la causa y el reino de Cristo parecan a punto de
+triunfaría. Cuando la causa y el reino de Cristo parecían a punto de
 
 extinguirse, con todo, tan entregado estaba Juan a su fe en Dios y a su amor
 
-por su amado Seor que su ms excelsa ambicin era estar aun con Jess y
+por su amado Seńor que su más excelsa ambición era estar aun con Jesús y
 
-participar con l en todo lo que hara y sera. Entonces, ustedes ven que en
+participar con Él en todo lo que haría y sería. Entonces, ustedes ven que en
 
-todo momento am a su Seor con todo su corazn, y por consiguiente Jesucristo
+todo momento amó a su Seńor con todo su corazón, y por consiguiente Jesucristo
 
-lo am; o djenme decirlo a la inversa: el Seor am a Juan, y por tanto, Juan
+lo amó; o déjenme decirlo a la inversa: el Seńor amó a Juan, y por tanto, Juan
 
-am al Seor Jess. Es su propia explicacin del hecho: Nosotros le amamos a
+amó al Seńor Jesús. Es su propia explicación del hecho: “Nosotros le amamos a
 
-l, porque l nos am primero.
+él, porque él nos amó primero”.
 
 Debo pedirles que miren una
 
-vez ms a Juan
+vez más a Juan
 
 como una persona
 
 instruida.
 
-Fue un discpulo amado, y permaneci siendo un discpulo, pero
+Fue un discípulo amado, y permaneció siendo un discípulo, pero
 
-su conocimiento creci ms y ms, y en esa condicin yo dira de Juan que sin
+su conocimiento creció más y más, y en esa condición yo diría de Juan que sin
 
-duda nuestro Seor Jess le am debido a la ternura que fue propiciada por la
+duda nuestro Seńor Jesús le amó debido a la ternura que fue propiciada por la
 
-gracia en su natural calidez. Cun tierno fue con Pedro despus de la grave
+gracia en su natural calidez. Cuán tierno fue con Pedro después de la grave
 
-cada del apstol, pues muy de maana Juan fue con l al sepulcro. Fue el
+caída del apóstol, pues muy de mańana Juan fue con él al sepulcro. Fue el
 
-hombre que restaur al que haba cado. Era tan tierno que nuestro Seor no le
+hombre que restauró al que había caído. Era tan tierno que nuestro Seńor no le
 
-dijo a Juan: Apacienta a mis corderos, pues saba que lo hara con toda seguridad;
+dijo a Juan: “Apacienta a mis corderos”, pues sabía que lo haría con toda seguridad;
 
-y ni siquiera le dijo: Pastorea mis ovejas, como le dijo a Pedro, pues saba
+y ni siquiera le dijo: “Pastorea mis ovejas”, como le dijo a Pedro, pues sabía
 
-que lo hara partiendo de los instintos de su amorosa naturaleza. Juan era un
+que lo haría partiendo de los instintos de su amorosa naturaleza. Juan era un
 
-hombre que bajo la tutora de Cristo creci, adems, hasta llegar a ser muy
+hombre que bajo la tutoría de Cristo creció, además, hasta llegar a ser muy
 
-espiritual y muy profundo. Los vocablos que utiliza en sus epstolas son
+espiritual y muy profundo. Los vocablos que utiliza en sus epístolas son
 
-mayormente monoslabos, pero cun extraordinarios significados contienen. Si pudiramos
+mayormente monosílabos, pero cuán extraordinarios significados contienen. Si pudiéramos
 
-comparar a un escritor inspirado con otro, yo dira que ningn otro evangelista
+comparar a un escritor inspirado con otro, yo diría que ningún otro evangelista
 
 es comparable a Juan en profundidad. Los otros evangelistas nos dan los milagros
 
-de Cristo, y algunos de Sus sermones, pero Sus discursos profundos y Su oracin
+de Cristo, y algunos de Sus sermones, pero Sus discursos profundos y Su oración
 
-sin par estn reservados para ese discpulo a quien amaba Jess. Donde estn
+sin par están reservados para ese discípulo a quien amaba Jesús. Donde están
 
-involucradas las cosas profundas de Dios all est Juan, con sublime sencillez
+involucradas las cosas profundas de Dios allí está Juan, con sublime sencillez
 
-de expresin declarndonos las cosas que l ha gustado y palpado.
+de expresión declarándonos las cosas que él ha gustado y palpado.
 
-De todos los discpulos,
+De todos los discípulos,
 
-Juan es el que ms se asemeja a Cristo. Como reza el refrn popular: Tal para
+Juan es el que más se asemeja a Cristo. Como reza el refrán popular: “Tal para
 
-cual. Jess amaba al discpulo por lo que vea de l mismo en Juan, creado por
+cual”. Jesús amaba al discípulo por lo que veía de Él mismo en Juan, creado por
 
-Su gracia. Pienso que as vern que, sin suponer que Juan tuviera algn mrito,
+Su gracia. Pienso que así verán que, sin suponer que Juan tuviera algún mérito,
 
-haba rasgos en su carcter, en su carcter como un discpulo y en su carcter
+había rasgos en su carácter, en su carácter como un discípulo y en su carácter
 
-como un varn educado y espiritual, que justificaban que nuestro Salvador le
+como un varón educado y espiritual, que justificaban que nuestro Salvador le
 
-hiciera objeto de su ms ntimo afecto.
+hiciera objeto de su más íntimo afecto.
 
 III.
 
@@ -860,113 +860,113 @@ VIDA
 
 QUE
 
-BROT DE ESTE EXTRAORDINARIO AMOR
+BROTÓ DE ESTE EXTRAORDINARIO AMOR
 
 POR CRISTO.
 
-Cmo fue la vida de
+żCómo fue la vida de
 
 Juan? Primero, fue una vida de
 
-ntima
+íntima
 
-comunin.
+comunión.
 
 Juan estaba dondequiera que
 
-Cristo estaba. l prescinde de otros discpulos, pero Pedro, Jacobo y Juan
+Cristo estaba. Él prescinde de otros discípulos, pero Pedro, Jacobo y Juan
 
-estn presentes. Cuando todos los discpulos estn sentados a la mesa, ni aun
+están presentes. Cuando todos los discípulos están sentados a la mesa, ni aun
 
-Pedro est ms cerca del Seor Jess, pero Juan est recostado cerca del pecho
+Pedro está más cerca del Seńor Jesús, pero Juan está recostado cerca del pecho
 
-de Jess. Su trato era muy cercano y especial. Jess y Juan eran una nueva
+de Jesús. Su trato era muy cercano y especial. Jesús y Juan eran una nueva
 
-versin de David y Jonatn. Si t eres un varn muy amado, vivirs en Jess y
+versión de David y Jonatán. Si tú eres un varón muy amado, vivirás en Jesús y
 
-tu comunin ser con l da a da.
+tu comunión será con Él día a día.
 
 La de Juan era una vida
 
 de
 
-una especial instruccin.
+una especial instrucción.
 
 Le
 
-fueron enseadas cosas que nadie ms saba, pues no se podran soportar. En la
+fueron enseńadas cosas que nadie más sabía, pues no se podrían soportar. En la
 
 etapa final de su vida fue favorecido con visiones tales que ni siquiera Pablo,
 
-que en nada haba sido inferior a aquellos grandes apstoles, haba visto jams.
+que en nada había sido inferior a aquellos grandes apóstoles, había visto jamás.
 
-Debido a la grandeza del amor de su Seor por Juan, l le mostr cosas futuras
+Debido a la grandeza del amor de su Seńor por Juan, Él le mostró cosas futuras
 
-y alz el velo para que pudiera ver el reino y la gloria. Quienes aman mucho,
+y alzó el velo para que pudiera ver el reino y la gloria. Quienes aman mucho,
 
-vern mucho; los que ms entregan sus corazones a la doctrina, aprendern ms.
+verán mucho; los que más entregan sus corazones a la doctrina, aprenderán más.
 
 A partir de entonces
 
-Juan se convirti en un hombre en cuya vida haba
+Juan se convirtió en un hombre en cuya vida había
 
 una asombrosa profundidad.
 
-Si bien como regla no haba dicho mucho mientras
+Si bien como regla no había dicho mucho mientras
 
-su Seor estuvo con l, estaba absorbindolo todo para un uso futuro. Viva una
+su Seńor estuvo con él, estaba absorbiéndolo todo para un uso futuro. Vivía una
 
-vida interior. Era un hijo del trueno y poda tronar valientemente la verdad,
+vida interior. Era un hijo del trueno y podía tronar valientemente la verdad,
 
-porque, as como una nube de tormenta est cargada de electricidad, as Juan
+porque, así como una nube de tormenta está cargada de electricidad, así Juan
 
-haba acumulado la misteriosa fuerza de la vida, del amor y de la verdad de su
+había acumulado la misteriosa fuerza de la vida, del amor y de la verdad de su
 
-Seor. Cuando por fin se manifest, haba en l una voz como la voz de Dios;
+Seńor. Cuando por fin se manifestó, había en él una voz como la voz de Dios;
 
-haba en l un arrollador poder de Dios, profundo y misterioso. Qu relmpago
+había en él un arrollador poder de Dios, profundo y misterioso. ˇQué relámpago
 
-es el Apocalipsis! Qu terribles truenos duermen dentro las copas y de las
+es el Apocalipsis! ˇQué terribles truenos duermen dentro las copas y de las
 
-trompetas! La suya era una vida de poder divino debido al gran fuego que arda
+trompetas! La suya era una vida de poder divino debido al gran fuego que ardía
 
-en su interior; el suyo no era el resplandor que acompaa al estrpito de los
+en su interior; el suyo no era el resplandor que acompańa al estrépito de los
 
 espinos debajo de la olla, sino el fulgor de carbones en un horno cuando se
 
-funde toda la masa al rojo vivo. Juan es el rub en medio de los doce. Brilla
+funde toda la masa al rojo vivo. Juan es el rubí en medio de los doce. Brilla
 
-con una clida brillantez que refleja el amor que Jess prodigaba en l.
+con una cálida brillantez que refleja el amor que Jesús prodigaba en él.
 
-De aqu que su vida
+De aquí que su vida
 
 fuera de
 
 especial utilidad.
 
-A l le
+A él le
 
-fueron confiadas comisiones selectas que involucraban un alto honor. El Seor
+fueron confiadas comisiones selectas que involucraban un alto honor. El Seńor
 
-le encarg una obra del tipo ms tierno y delicado que me temo que no podra
+le encargó una obra del tipo más tierno y delicado que me temo que no podría
 
-confiar a algunos de nosotros. Cuando el Redentor penda moribundo del madero
+confiar a algunos de nosotros. Cuando el Redentor pendía moribundo del madero
 
-vio que Su madre estaba entre la muchedumbre y no la encomend a Pedro, sino a
+vio que Su madre estaba entre la muchedumbre y no la encomendó a Pedro, sino a
 
-Juan. Pedro se habra alegrado con el encargo, estoy seguro, y lo mismo habra hecho
+Juan. Pedro se habría alegrado con el encargo, estoy seguro, y lo mismo habría hecho
 
-Toms, y tambin Jacobo, pero el Seor le dijo a Juan: He ah tu madre, y a
+Tomás, y también Jacobo, pero el Seńor le dijo a Juan: “He ahí tu madre”, y a
 
-su madre, Mujer, he ah tu hijo. Y desde aquella hora el discpulo la recibi
+su madre, “Mujer, he ahí tu hijo”. Y desde aquella hora el discípulo la recibió
 
 en su casa. Juan era tan modesto, tan apartado, iba a decir tan caballeroso,
 
-que era el varn que habra de responsabilizarse de una madre dolida. Me
+que era el varón que habría de responsabilizarse de una madre dolida. żMe
 
-equivoqu al decir que era un verdadero caballero? Dividan la palabra y se ver
+equivoqué al decir que era un verdadero caballero? Dividan la palabra y se verá
 
-que ciertamente era el hombre ms bondadoso (1). Juan tiene
+que ciertamente era el hombre más bondadoso (1). Juan tiene
 
 un
 
@@ -974,41 +974,41 @@ aire delicado y modales considerados
 
 , rasgos necesarios para cuidar de
 
-una madre honrosa. Pedro es bueno, pero es spero; Toms es amable, pero fro;
+una madre honrosa. Pedro es bueno, pero es áspero; Tomás es amable, pero frío;
 
-Juan es tierno y afectuoso. Cuando amas mucho a Jess, te confiar a Su madre;
+Juan es tierno y afectuoso. Cuando amas mucho a Jesús, te confiará a Su madre;
 
-me refiero a Su iglesia y a la gente ms pobre en ella, tales como las viudas y
+me refiero a Su iglesia y a la gente más pobre en ella, tales como las viudas y
 
-los hurfanos y los ministros pobres. Te los confiar a ti porque te ama mucho.
+los huérfanos y los ministros pobres. Te los confiará a ti porque te ama mucho.
 
-No pondra en ese oficio a cualquiera. Algunos de entre Su pueblo son muy duros
+No pondría en ese oficio a cualquiera. Algunos de entre Su pueblo son muy duros
 
-y tienen un corazn de piedra, siendo ms aptos para ser recaudadores de
+y tienen un corazón de piedra, siendo más aptos para ser recaudadores de
 
-impuestos que repartidores de limosnas. Podran ser oficiales distinguidos en
+impuestos que repartidores de limosnas. Podrían ser oficiales distinguidos en
 
-un ejrcito, pero no enfermeros en un hospital. Si amas mucho a Jess tendrs
+un ejército, pero no enfermeros en un hospital. Si amas mucho a Jesús tendrás
 
-que realizar muchos oficios delicados que sern para ti pruebas de la confianza
+que realizar muchos oficios delicados que serán para ti pruebas de la confianza
 
-en ti de tu Seor y renovadas seales de Su amor.
+en ti de tu Seńor y renovadas seńales de Su amor.
 
-Adems, la de Juan fue
+Además, la de Juan fue
 
 una vida
 
-extraordinariamente beatfica.
+extraordinariamente beatífica.
 
 Se
 
-le conoce como Juan el Divino (es decir, el Telogo), y lo era. Sus alas de
+le conoce como Juan el Divino (es decir, el Teólogo), y lo era. Sus alas de
 
-guila lo hicieron remontarse a los lugares celestiales y all contempl la
+águila lo hicieron remontarse a los lugares celestiales y allí contempló la
 
-gloria del Seor. Ya fuera en Jerusaln o en Antioqua, en feso o en Patmos,
+gloria del Seńor. Ya fuera en Jerusalén o en Antioquía, en Éfeso o en Patmos,
 
-su conversacin era en el cielo. El Da del Seor lo encontr en el espritu esperando
+su conversación era en el cielo. El Día del Seńor lo encontró en el espíritu esperando
 
 a Aquel que viene con las nubes y esperaba de tal manera que quien es el Alfa y
 
@@ -1016,23 +1016,23 @@ la Omega
 
 se
 
-apresur a revelarse a l. Fue el amor de su Seor el que lo haba preparado de
+apresuró a revelarse a él. Fue el amor de su Seńor el que lo había preparado de
 
 esa manera para las visiones de gloria. Si ese amor no hubiese encendido su
 
 propio amor como para sostenerlo fielmente al pie de la cruz a lo largo de toda
 
-la agona, podra no haber sido nunca capaz de contemplar el trono. Haba
+la agonía, podría no haber sido nunca capaz de contemplar el trono. Había
 
-seguido amorosamente a Aquel de quien le dijeron que era el Cordero de Dios,
+seguido amorosamente a Aquel de quien le dijeron que era el “Cordero de Dios”,
 
-y por tanto, haba sido hecho apto para verle como el Cordero en medio del
+y por tanto, había sido hecho apto para verle como el Cordero en medio del
 
-trono, adorado por los ngeles y por los santos redimidos cuyas arpas y copas
+trono, adorado por los ángeles y por los santos redimidos cuyas arpas y copas
 
-son colmadas con Su alabanza. Oh que nosotros tambin pudiramos ser liberados
+son colmadas con Su alabanza. Oh que nosotros también pudiéramos ser liberados
 
-de la rudeza de la tierra y que pudiramos remontarnos a la ms pura atmsfera
+de la rudeza de la tierra y que pudiéramos remontarnos a la más pura atmósfera
 
 de las cosas espirituales y celestiales.
 
@@ -1042,39 +1042,39 @@ Concluimos
 
 diciendo, muy brevemente esto: APRENDAMOS NOSOTROS MISMOS LAS LECCIONES de ese
 
-discpulo al que amaba Jess. Que el Espritu Santo las comunique a lo ms
+discípulo al que amaba Jesús. Que el Espíritu Santo las comunique a lo más
 
-ntimo de nuestros corazones.
+íntimo de nuestros corazones.
 
 Primero, les hablo a
 
-aquellos de ustedes que son todava jvenes. Si desean ser el discpulo a
+aquellos de ustedes que son todavía jóvenes. Si desean ser “el discípulo a
 
-quien amaba Jess
+quien amaba Jesús”
 
 comiencen pronto.
 
 Yo
 
-supongo que Juan tena entre veinte y veinticinco aos cuando fue convertido;
+supongo que Juan tenía entre veinte y veinticinco ańos cuando fue convertido;
 
 de cualquier manera, era un hombre bastante joven. Todas las representaciones
 
-de l que han llegado hasta nosotros, si bien yo no les asigno ningn gran
+de él que han llegado hasta nosotros, si bien yo no les asigno ningún gran
 
 valor, coinciden en el hecho de su juventud. La piedad juvenil tiene la mayor
 
 oportunidad de convertirse en una piedad eminente. Si comienzas pronto a
 
-caminar con Cristo mejorars tu paso y el hbito crecer en ti. El que es
+caminar con Cristo mejorarás tu paso y el hábito crecerá en ti. El que es
 
-convertido en cristiano en los ltimos aos de su vida difcilmente alcanzar
+convertido en cristiano en los últimos ańos de su vida difícilmente alcanzará
 
-el primero y ms excelso grado por falta de tiempo y por la influencia limitante
+el primero y más excelso grado por falta de tiempo y por la influencia limitante
 
-de los viejos hbitos; pero quienes comienzan pronto son plantados en buen
+de los viejos hábitos; pero quienes comienzan pronto son plantados en buen
 
-suelo, con una buena exposicin al sol, y deben llegar a la madurez. Los
+suelo, con una buena exposición al sol, y deben llegar a la madurez. Los
 
 soldados que se alistan temprano bajo el estandarte de nuestro David tienen la
 
@@ -1082,41 +1082,41 @@ esperanza de convertirse en veteranos, y de alcanzar a los tres primeros (2
 
 Samuel 23: 19).
 
-A continuacin, si
+A continuación, si
 
 queremos ser como Juan en el hecho de ser amados por Cristo, hemos de entregar
 
-los mejores pensamientos de nuestro corazn
+los mejores pensamientos de nuestro corazón
 
 a las cosas espirituales.
 
 Hermanos y hermanas, no se detengan en la
 
-ordenanza externa, antes bien, sumrjanse en su sentido interior. Nunca permitan
+ordenanza externa, antes bien, sumérjanse en su sentido interior. Nunca permitan
 
-que su alma, en el Da del Seor, por ejemplo, est feliz y agradecida
+que su alma, en el Día del Seńor, por ejemplo, esté feliz y agradecida
 
-simplemente porque fueron al lugar de adoracin. Hganse la pregunta: En verdad
+simplemente porque fueron al lugar de adoración. Háganse la pregunta: “żEn verdad
 
-ador? Tuvo mi alma comunin con Dios? En la prctica de las dos ordenanzas
+adoré? żTuvo mi alma comunión con Dios?” En la práctica de las dos ordenanzas
 
 del bautismo y de la cena, no se contenten con la concha sino busquen obtener
 
-el ncleo de su significado interno. No descansen a menos que el propio
+el núcleo de su significado interno. No descansen a menos que el propio
 
-Espritu de Dios more en su interior. Recuerden que la letra mata; el espritu
+Espíritu de Dios more en su interior. Recuerden que la letra mata; el espíritu
 
-es el que da vida. El Seor Jesucristo no se deleita en aquellos que gustan de
+es el que da vida. El Seńor Jesucristo no se deleita en aquellos que gustan de
 
 anchas filacterias, ni de sacramentos multiplicados, ni de representaciones
 
 santas ni de observancias supersticiosas. El Padre busca a los que le adoren en
 
-espritu y en verdad. Si son espirituales, estarn entre aquellos que tienen la
+espíritu y en verdad. Si son espirituales, estarán entre aquellos que tienen la
 
 probabilidad de ser hombres grandemente amados.
 
-A continuacin de eso,
+A continuación de eso,
 
 alimenten una santa calidez.
 
@@ -1124,17 +1124,17 @@ No repriman
 
 sus emociones ni congelen sus almas. Ustedes conocen la clase de hermanos que son
 
-dotados con un poder frigorfico. Cuando les das la mano, pensaras que habas
+dotados con un poder frigorífico. Cuando les das la mano, pensarías que habías
 
-sujetado un pescado: te corre un fro hasta el alma. yelos cantar. No, no
+sujetado un pescado: te corre un frío hasta el alma. Óyelos cantar. ˇNo, no
 
-puedes orlos! Sintate en una banca junto a ellos, y nunca oirs el blando
+puedes oírlos! Siéntate en una banca junto a ellos, y nunca oirás el blando
 
-siseo o murmullo que ellos llaman canto. Desde sus talleres se les puede or a
+siseo o murmullo que ellos llaman canto. Desde sus talleres se les puede oír a
 
-un cuarto de milla de distancia, pero si oran en la reunin, tienes que aguzar
+un cuarto de milla de distancia, pero si oran en la reunión, tienes que aguzar
 
-tus odos. Ellos hacen cualquier servicio cristiano como si estuviesen
+tus oídos. Ellos hacen cualquier servicio cristiano como si estuviesen
 
 trabajando a jornal para un mal capataz y por un bajo salario; pero cuando
 
@@ -1144,61 +1144,61 @@ hermanos no pueden ser afectuosos. Nunca animan a un joven pues tienen miedo de
 
 que un ponderado encomio pudiera exaltarlo por encima de toda medida. Un poco
 
-de nimo ayudara poderosamente a un joven que pugna, pero ellos no tienen
+de ánimo ayudaría poderosamente a un joven que pugna, pero ellos no tienen
 
-ningn nimo que ofrecer. Calculan y evalan y se mueven prudentemente pero
+ningún ánimo que ofrecer. Calculan y evalúan y se mueven prudentemente pero
 
 minimizan cualquier cosa que sea parecida a una valiente confianza en Dios,
 
-tildndola de temeridad y locura. Que Dios nos conceda una abundante temeridad,
+tildándola de temeridad y locura. Que Dios nos conceda una abundante temeridad,
 
 digo, pues lo que los hombres consideran como imprudencia es una de las cosas
 
-ms grandes bajo el cielo. El entusiasmo es un sentimiento que estos
+más grandes bajo el cielo. El entusiasmo es un sentimiento que estos
 
-frigorficos no soportan. Su canto es Como era en el principio, es ahora, y
+frigoríficos no soportan. Su canto es “Como era en el principio, es ahora, y
 
-ser siempre, por los siglos de los siglos. Amn. Pero cualquier cosa como
+será siempre, por los siglos de los siglos. Amén”. Pero cualquier cosa como
 
 correr para alcanzar a Cristo y un apremio por las almas no la entienden.
 
-Observen esto: si siguen a esos hermanos a su hogar, descubrirn que tienen
+Observen esto: si siguen a esos hermanos a su hogar, descubrirán que tienen
 
-poco gozo en s mismos y son causa de muy poca alegra para otros. Nunca estn
+poco gozo en sí mismos y son causa de muy poca alegría para otros. Nunca están
 
-muy seguros de ser salvos, y si no estn seguros de eso, podemos adivinar con
+muy seguros de ser salvos, y si no están seguros de eso, podemos adivinar con
 
-facilidad que otras personas tampoco lo estn. La fuerza que debera haberse invertido
+facilidad que otras personas tampoco lo están. La fuerza que debería haberse invertido
 
 en un amor ardiente la gastan en un pensamiento ansioso. Nacieron en el polo
 
 norte y viven en medio de una helada perpetua; ni todas las pieles de
 
-la Baha
+la Bahía
 
-de Hudson podran
+de Hudson podrían
 
 calentarlos. En torno a ellos no ves las ricas flores tropicales que engalanan
 
-el corazn en el que brilla el Sol de Justicia con rayos perpendiculares. Estos
+el corazón en el que brilla el Sol de Justicia con rayos perpendiculares. Estos
 
-glidos mortales no han atravesado nunca las soleadas regiones del amor
+gélidos mortales no han atravesado nunca las soleadas regiones del amor
 
 celestial donde las especias del santo deleite saturan todo el aire y donde hay
 
-manzanas de oro por todas partes que estn al alcance de los corazones
+manzanas de oro por todas partes que están al alcance de los corazones
 
-resplandecientes. Que el Seor nos lleve all! Jesucristo ama a la gente
+resplandecientes. ˇQue el Seńor nos lleve allí! Jesucristo ama a la gente
 
-clida. l no brilla nunca sobre un tmpano de hielo excepto para derretirlo.
+cálida. Él no brilla nunca sobre un témpano de hielo excepto para derretirlo.
 
-Su propia vida est tan llena de amor que Su fuego santo enciende la misma
+Su propia vida está tan llena de amor que Su fuego santo enciende la misma
 
-llama en otros y as tiene comunin con aquellos cuyos corazones arden por
+llama en otros y así tiene comunión con aquellos cuyos corazones arden por
 
-dentro. La aptitud para el amor es el amor. Para gozar del amor de Jess
+dentro. La aptitud para el amor es el amor. Para gozar del amor de Jesús
 
-tenemos que desbordar amor. Oren pidiendo un afecto sincero, vido e intenso.
+tenemos que desbordar amor. Oren pidiendo un afecto sincero, ávido e intenso.
 
 Pongan sus corazones entre los carbones de enebro hasta que se derritan y
 
@@ -1206,103 +1206,103 @@ resplandezcan.
 
 Querido hermano, si
 
-quieres ser el hombre a quien Jess ama, cultiva un fuerte afecto y
+quieres ser el hombre a quien Jesús ama, cultiva un fuerte afecto y
 
 deja que tu naturaleza sea tierna y amable.
 
 El
 
-varn que habitualmente est enfadado y frecuentemente enojado, no puede
+varón que habitualmente está enfadado y frecuentemente enojado, no puede
 
-caminar con Dios. Un hombre de un temperamento irascible y enojn que nunca
+caminar con Dios. Un hombre de un temperamento irascible y enojón que nunca
 
 trata de controlarlo, o un hombre en quien hay un nocivo recuerdo de las
 
 injurias, como un fuego que arde en medio de las brasas, no puede ser el
 
-compaero y amigo de Jess, cuyo espritu es de un carcter opuesto. Un corazn
+compańero y amigo de Jesús, cuyo espíritu es de un carácter opuesto. Un corazón
 
-compasivo, caritativo, abnegado y generoso es el que nuestro Seor aprueba.
+compasivo, caritativo, abnegado y generoso es el que nuestro Seńor aprueba.
 
 Perdona a tu semejante como si nunca hubieras tenido algo que perdonar. Cuando
 
 los hermanos te injurian, espera que hayan cometido un error, o de lo contrario,
 
-si te hubieran conocido mejor, te habran tratado peor. Ten tal mentalidad para
+si te hubieran conocido mejor, te habrían tratado peor. Ten tal mentalidad para
 
 con ellos que ni ofendas ni te sientas ofendido. Has de estar dispuesto a
 
-deponer no slo tu comodidad, sino aun tu vida por los hermanos. Vive en el
+deponer no sólo tu comodidad, sino aun tu vida por los hermanos. Vive en el
 
 gozo de otros, tal como los santos lo hacen en el cielo. Ama a otros como para
 
-olvidar tus propias aflicciones. As te volvers un varn muy amado.
+olvidar tus propias aflicciones. Así te volverás un varón muy amado.
 
-Por ltimo, que el
+Por último, que el
 
-Espritu de Dios les ayude a
+Espíritu de Dios les ayude a
 
 elevarse a
 
 una
 
-condicin beatfica.
+condición beatífica.
 
 No sean miserables
 
-avaros o srdidas lombrices de tierra; no sean cazadores de placeres ni
+avaros o sórdidas lombrices de tierra; no sean cazadores de placeres ni
 
 buscadores de novedades; no pongan su afecto en esos juguetes infantiles que
 
-pronto sern inservibles. No sean ya ms nios, sino hombres de Dios. Oh, que
+pronto serán inservibles. No sean ya más nińos, sino hombres de Dios. Oh, que
 
 encuentren su gozo en Cristo, su riqueza en Cristo, su honor en Cristo, su todo
 
 en Cristo pues eso es la paz. Estar en el mundo pero no ser del mundo;
 
-permanecer aqu como si fueras un ngel enviado del cielo para morar por un
+permanecer aquí como si fueras un ángel enviado del cielo para morar por un
 
-tiempo entre los hijos de los hombres, para hablarles del cielo y sealarles el
+tiempo entre los hijos de los hombres, para hablarles del cielo y seńalarles el
 
 camino: eso es permanecer en el amor de Cristo, Estar siempre listos a volar,
 
-estar esperando en puntas de pie la llamada para ir al cielo, esperar or la
+estar esperando en puntas de pie la llamada para ir al cielo, esperar oír la
 
-trompeta que suene su nota de clarn, la trompeta de la venida de su Seor: eso
+trompeta que suene su nota de clarín, la trompeta de la venida de su Seńor: eso
 
-es tener comunin con Cristo. Suelten, se los ruego, las ataduras de este
+es tener comunión con Cristo. Suelten, se los ruego, las ataduras de este
 
-mundo; sujtense ms firmemente al mundo venidero pues as ser derramado abundantemente
+mundo; sujétense más firmemente al mundo venidero pues así será derramado abundantemente
 
-el amor de Jess en su interior. Arrojen su ancla hacia arriba, en el plcido
+el amor de Jesús en su interior. Arrojen su ancla hacia arriba, en el plácido
 
 mar del amor divino, y no la echen hacia abajo, como los marineros, en un
 
-ocano turbulento. nclense en el trono eterno y no se separen nunca, ni
+océano turbulento. Ánclense en el trono eterno y no se separen nunca, ni
 
-siquiera en el pensamiento, del amor de Dios, que es en Cristo Jess nuestro
+siquiera en el pensamiento, del amor de Dios, que es en Cristo Jesús nuestro
 
-Seor. Que sea el privilegio de ustedes y el mo, hermanos y hermanas, recostar
+Seńor. Que sea el privilegio de ustedes y el mío, hermanos y hermanas, recostar
 
-nuestras cabezas en el pecho de Jess, hasta que apunte el da, y huyan las
+nuestras cabezas en el pecho de Jesús, hasta que apunte el día, y huyan las
 
-sombras. Amn y Amn.
+sombras. Amén y Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: 1 Juan 2.
+del sermón: 1 Juan 2.
 
 Notas
 
 del traductor:
 
-(1) El pastor Spurgeon dice: Dividan la palabra. Se
+(1) El pastor Spurgeon dice: “Dividan la palabra”. Se
 
-refiere a la palabra gentleman.
+refiere a la palabra ‘gentleman’.
 
 Entonces tenemos que dividirla:
 
@@ -1310,15 +1310,15 @@ gentle-man.
 
 Luego
 
-dice: and surely he was the gentlest of man:
+dice: “and surely he was the gentlest of man”: “
 
-y ciertamente era el hombre ms
+y ciertamente era el hombre más
 
-bondadoso.
+bondadoso”.
 
 Falange: cuerpo de tropas numeroso.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 31/Julio/2013
 

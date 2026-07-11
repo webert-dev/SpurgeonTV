@@ -1,8 +1,8 @@
 # Sermón 2165 | Sermón 2165
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Sentencia
 
@@ -10,9 +10,9 @@ de
 
 la Serpiente
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,33 +20,33 @@ DOMINGO 21 DE
 
 SEPTIEMBRE, 1890
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y Jehov
+“Y Jehová
 
-Dios dijo a la serpiente: por cuanto esto hiciste, maldita sers entre todas
+Dios dijo a la serpiente: por cuanto esto hiciste, maldita serás entre todas
 
-las bestias y entre todos los animales del campo; sobre tu pecho andars, y
+las bestias y entre todos los animales del campo; sobre tu pecho andarás, y
 
-polvo comers todos los das de tu vida. Y pondr enemistad entre ti y la
+polvo comerás todos los días de tu vida. Y pondré enemistad entre ti y la
 
-mujer, y entre tu simiente y la simiente suya; sta te herir en la cabeza, y
+mujer, y entre tu simiente y la simiente suya; ésta te herirá en la cabeza, y
 
-t le herirs en el calcaar. Gnesis 3: 14, 15.
+tú le herirás en el calcańar”. Génesis 3: 14, 15.
 
-Algn maestro en Israel
+Algún maestro en Israel
 
-que quera ayudar a la memoria de sus oyentes ha dicho que las tres cosas que
+que quería ayudar a la memoria de sus oyentes ha dicho que las tres cosas que
 
 hay que predicar y hacer prevalecer sobre cualquier otra son las tres Erres:
 
-Ruina, Redencin y Regeneracin. Ese maestro habl bien y sabiamente. Cmo
+Ruina, Redención y Regeneración. Ese maestro habló bien y sabiamente. żCómo
 
-podran buscar la salvacin los hombres que no sienten su ruina? Dnde hay
+podrían buscar la salvación los hombres que no sienten su ruina? żDónde hay
 
-salvacin salvo en la sangre expiatoria? Qu es la salvacin sino ser nuevas
+salvación salvo en la sangre expiatoria? żQué es la salvación sino ser nuevas
 
 criaturas para la santidad? Es un hecho notable que en
 
@@ -56,63 +56,63 @@ Escritura
 
 hay tres
 
-captulos terceros que tratan con estas cosas de la manera ms completa. El
+capítulos terceros que tratan con estas cosas de la manera más completa. El
 
-tercer captulo de Gnesis revela
+tercer capítulo de Génesis revela
 
 la
 
 Ruina
 
-; el tercer captulo de
+; el tercer capítulo de
 
 Romanos
 
-ensea
+enseńa
 
-la Redencin
+la Redención
 
-y el tercer captulo de Juan expone
+y el tercer capítulo de Juan expone
 
-la Regeneracin.
+la Regeneración.
 
-Seran tan amables nuestros
+żSerían tan amables nuestros
 
-jvenes amigos de leer en casa con mucha atencin esos tres captulos completos?
+jóvenes amigos de leer en casa con mucha atención esos tres capítulos completos?
 
-Es tambin digno de notarse que cada uno de esos captulos no slo ensea su
+Es también digno de notarse que cada uno de esos capítulos no sólo enseńa su
 
-propia R, sino que tambin ensea las otras dos Erres. En este tercer captulo
+propia R, sino que también enseńa las otras dos Erres. En este tercer capítulo
 
-de Gnesis no slo tenemos
+de Génesis no sólo tenemos
 
 la Ruina
 
 ,
 
-sino que tenemos al Redentor en la simiente de la mujer, y tenemos
+sino que tenemos al Redentor en “la simiente de la mujer”, y tenemos
 
-la Regeneracin
+la Regeneración
 
-en la expresin, Pondr enemistad entre ti y la mujer. El poder regenerador
+en la expresión, “Pondré enemistad entre ti y la mujer”. El poder regenerador
 
-de Dios genera en la simiente escogida un odio al mal. Encontrarn lo mismo en
+de Dios genera en la simiente escogida un odio al mal. Encontrarán lo mismo en
 
-los otros captulos, pues el tercer captulo de los Romanos contiene una horrenda
+los otros capítulos, pues el tercer capítulo de los Romanos contiene una horrenda
 
-descripcin del pecado y de la ruina de los hombres; y en el tercer captulo de
+descripción del pecado y de la ruina de los hombres; y en el tercer capítulo de
 
-Juan, despus de haber ledo Os es necesario nacer de nuevo, est escrito no
+Juan, después de haber leído “Os es necesario nacer de nuevo”, está escrito no
 
-lejos de all, Y como Moiss levant la serpiente en el desierto, as es
+lejos de allí, “Y como Moisés levantó la serpiente en el desierto, así es
 
-necesario que el Hijo del Hombre sea levantado, para que todo aquel que en l
+necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él
 
-cree, no se pierda, mas tenga vida eterna. Crean en cualquiera de estas
+cree, no se pierda, mas tenga vida eterna”. Crean en cualquiera de estas
 
-grandes verdades y las otras dos se presentarn como una consecuencia
+grandes verdades y las otras dos se presentarán como una consecuencia
 
-necesaria. Que recibamos ayuda esta maana del pasaje que estamos considerando
+necesaria. ˇQue recibamos ayuda esta mańana del pasaje que estamos considerando
 
 para que aprendamos algo con respecto a
 
@@ -120,233 +120,233 @@ la Ruina
 
 , a
 
-la Redencin
+la Redención
 
 y a
 
-la Regeneracin
+la Regeneración
 
 !
 
 Yo les ruego que no
 
-consideren nunca que la historia de la serpiente sea una fbula. Hoy en da se
+consideren nunca que la historia de la serpiente sea una fábula. Hoy en día se
 
-dice que se trata de una mera alegora. Sin embargo no hay nada en el Libro que
+dice que se trata de una mera alegoría. Sin embargo no hay nada en el Libro que
 
-seale dnde finaliza la historia y dnde comienza la parbola: todo se
+seńale dónde finaliza la historia y dónde comienza la parábola: todo se
 
 desarrolla como historia real, y tal como comenta convincentemente el obispo
 
-Horsley: Si alguna parte de esta narracin fuera alegrica, ninguna parte se
+Horsley: “Si alguna parte de esta narración fuera alegórica, ninguna parte se
 
-ceira a los hechos desnudos. Me parece que si slo se tratara de una
+ceńiría a los hechos desnudos”. Me parece que si sólo se tratara de una
 
-serpiente alegrica, entonces hubo un paraso alegrico, con ros alegricos y
+serpiente alegórica, entonces hubo un paraíso alegórico, con ríos alegóricos y
 
-rboles alegricos; y los hombres y mujeres eran alegricos tanto los unos como
+árboles alegóricos; y los hombres y mujeres eran alegóricos tanto los unos como
 
-los otros, y el captulo que habla de su creacin es una alegora y lo nico
+los otros, y el capítulo que habla de su creación es una alegoría y lo único
 
-que existe es un cielo alegrico y una tierra alegrica. Si el Libro de Gnesis
+que existe es un cielo alegórico y una tierra alegórica. Si el Libro de Génesis
 
-fuera una alegora, entonces es una alegora de principio a fin y se tendra a
+fuera una alegoría, entonces es una alegoría de principio a fin y se tendría a
 
-un alegrico Abraham con una circuncisin alegrica, a un alegrico Jacob y a
+un alegórico Abraham con una circuncisión alegórica, a un alegórico Jacob y a
 
-un alegrico Jud; y no sera injusto desarrollar ms la teora e imputarle a Jud
+un alegórico Judá; y no sería injusto desarrollar más la teoría e imputarle a Judá
 
-unos descendientes alegricos llamados los judos. Pero si t le pidieras
+unos descendientes alegóricos llamados ‘los judíos’. Pero si tú le pidieras
 
-algn dinero prestado a esta raza, descubriras que no son alegricos a la hora
+algún dinero prestado a esta raza, descubrirías que no son alegóricos a la hora
 
-cuando tengas que pagar. Es ocioso llamar a la narracin de
+cuando tengas que pagar. Es ocioso llamar a la narración de
 
-la Cada
+la Caída
 
 una mera
 
-alegora; sera mejor que uno dijera de inmediato que no cree en el Libro. Hay
+alegoría; sería mejor que uno dijera de inmediato que no cree en el Libro. Hay
 
-algo sano acerca de esa declaracin, aunque fuera una locura; pero decir: Oh,
+algo sano acerca de esa declaración, aunque fuera una locura; pero decir: “Oh,
 
-s, es un volumen venerable y digno de estudiarse; pero est repleto de muchas
+sí, es un volumen venerable y digno de estudiarse; pero está repleto de muchas
 
-alegoras, equivale a decir algo que se refuta a s mismo si lo analizas con
+alegorías”, equivale a decir algo que se refuta a sí mismo si lo analizas con
 
-detenimiento. El Libro tiene el propsito de ser historia real y contiene
+detenimiento. El Libro tiene el propósito de ser historia real y contiene
 
-algunas porciones que, con la aceptacin de todos, son historia real; pero
+algunas porciones que, con la aceptación de todos, son historia real; pero
 
-Moiss no podra ser un historiador y sin embargo presentarnos meras fbulas como
+Moisés no podría ser un historiador y sin embargo presentarnos meras fábulas como
 
-una parte de su narracin. Escribir una mezcolanza de alegoras y de realidades
+una parte de su narración. Escribir una mezcolanza de alegorías y de realidades
 
-hace que un hombre pierda el carcter de un historiador confiable y lo mejor
+hace que un hombre pierda el carácter de un historiador confiable y lo mejor
 
-sera repudiarlo de inmediato. Hubo una serpiente real, as como hubo un
+sería repudiarlo de inmediato. Hubo una serpiente real, así como hubo un
 
-paraso real; hubo un Adn y una Eva reales que estuvieron a la cabeza de
+paraíso real; hubo un Adán y una Eva reales que estuvieron a la cabeza de
 
-nuestra raza y pecaron realmente y nuestra raza est realmente cada. Crean esto.
+nuestra raza y pecaron realmente y nuestra raza está realmente caída. Crean esto.
 
-Cuando el demonio, la
+Cuando el demonio, “la
 
-serpiente antigua, que se llama diablo y Satans como el Apocalipsis la
+serpiente antigua, que se llama diablo y Satanás” –como el Apocalipsis la
 
-nombra- resolvi tentar a Eva con el objeto de destruir a la raza en la que
+nombra- resolvió tentar a Eva con el objeto de destruir a la raza en la que
 
-Dios evidentemente se deleitaba mucho, no poda presentarse ante la mujer como
+Dios evidentemente se deleitaba mucho, no podía presentarse ante la mujer como
 
-un espritu. Los espritus no pueden ser captados por el ojo puesto que un
+un espíritu. Los espíritus no pueden ser captados por el ojo puesto que un
 
-espritu puro es un ente que ninguno de los sentidos externos de los seres
+espíritu puro es un ente que ninguno de los sentidos externos de los seres
 
-humanos puede percibir. Un espritu inmaterial tiene que ser invisible y, por
+humanos puede percibir. Un espíritu inmaterial tiene que ser invisible y, por
 
 tanto, tiene que materializarse de alguna manera u otra antes de que se le
 
-pueda ver. Que Satans tiene poder para introducirse en los cuerpos vivientes
+pueda ver. Que Satanás tiene poder para introducirse en los cuerpos vivientes
 
-es claro, pues lo hizo a una gran escala con ciertos hombres en los das de
+es claro, pues lo hizo a una gran escala con ciertos hombres en los días de
 
-Cristo. l y sus legiones fueron forzados a entrar incluso en los cuerpos de
+Cristo. Él y sus legiones fueron forzados a entrar incluso en los cuerpos de
 
 unos cerdos antes de ser arrojados al abismo. Siendo compelido a tener algo
 
-corpreo, el principal espritu maligno percibi que la serpiente estaba en
+corpóreo, el principal espíritu maligno percibió que la serpiente estaba en
 
-aquel tiempo entre las ms sutiles de todas las criaturas y, por tanto, entr
+aquel tiempo entre las más sutiles de todas las criaturas y, por tanto, entró
 
-en la serpiente porque senta que estara ms en su elemento en aquel animal.
+en la serpiente porque sentía que estaría más en su elemento en aquel animal.
 
-Desde la serpiente le habl a Eva, como si la serpiente misma hubiese hablado.
+Desde la serpiente le habló a Eva, como si la serpiente misma hubiese hablado.
 
-Haba una serpiente real y material, pero el espritu maligno que es conocido
+Había una serpiente real y material, pero el espíritu maligno que es conocido
 
-como la serpiente antigua estaba all, poseyendo a la serpiente natural con
+como “la serpiente antigua” estaba allí, poseyendo a la serpiente natural con
 
 toda su astucia magistral. Cruelmente resuelto a conducir a la raza humana al
 
-pecado para as arruinarla y triunfar sobre Dios, el ngel cado no dud en
+pecado para así arruinarla y triunfar sobre Dios, el ángel caído no dudó en
 
 asumir la forma de un reptil. Bien pudo Milton hacerle decir:
 
-Oh execrable cada! Que yo, que antes contenda
+“ˇOh execrable caída! Que yo, que antes contendía
 
-Con los dioses para ocupar el sitio ms alto, est ahora apretujado
+Con los dioses para ocupar el sitio más alto, esté ahora apretujado
 
-En una bestia; y, mezcl con cieno bestial,
+En una bestia; y, mezclé con cieno bestial,
 
 Esta esencia para poder encarnar y embrutecerme,
 
-Yo, que a la altura de la deidad aspiraba.
+Yo, que a la altura de la deidad aspiraba”.
 
 Noten cuidadosamente que
 
-cuando el Seor viene para tratar con la serpiente, no lo cuestiona en cuanto a
+cuando el Seńor viene para tratar con la serpiente, no lo cuestiona en cuanto a
 
-su culpa y la razn de ella, y la causa es, tal vez, que la culpa del
+su culpa y la razón de ella, y la causa es, tal vez, que la culpa del
 
-archienemigo era evidente por s sola; o, mejor an, no lo hace porque el Seor
+archienemigo era evidente por sí sola; o, mejor aún, no lo hace porque el Seńor
 
-no tena ningn designio de misericordia en cuanto a l. l no tena la
+no tenía ningún designio de misericordia en cuanto a él. Él no tenía la
 
-intencin de hacer ningn pacto de gracia a favor del diablo o sus ngeles pues
+intención de hacer ningún pacto de gracia a favor del diablo o sus ángeles pues
 
 no
 
-socorri
+socorrió
 
-a los ngeles, sino que socorri a la
+a los ángeles, sino que socorrió a la
 
-descendencia de Abraham. En la infinita soberana de Dios pas por alto a los
+descendencia de Abraham. En la infinita soberanía de Dios pasó por alto a los
 
-ngeles cados pero decidi levantar al hombre cado. Esos que objetan la
+ángeles caídos pero decidió levantar al hombre caído. Esos que objetan la
 
-doctrina de la eleccin deberan responder esta pregunta: Por qu es que Dios
+doctrina de la elección deberían responder esta pregunta: żPor qué es que Dios
 
-ha dejado sin esperanza a los demonios, y sin embargo, envi a Su Hijo para
+ha dejado sin esperanza a los demonios, y sin embargo, envió a Su Hijo para
 
-redimir a la humanidad? No queda de manifiesto en esto la soberana divina? No
+redimir a la humanidad? żNo queda de manifiesto en esto la soberanía divina? No
 
-podemos dar ninguna otra respuesta a la pregunta: qu es el hombre para que
+podemos dar ninguna otra respuesta a la pregunta: żqué es el hombre para que
 
-Dios lo visite as con la gracia que distingue?, excepto esta respuesta: Tendr
+Dios lo visite así con la gracia que distingue?, excepto esta respuesta: “Tendrá
 
-misericordia del que tenga misericordia, y ser clemente para con el que ser
+misericordia del que tenga misericordia, y será clemente para con el que será
 
-clemente. Por tanto, no teniendo la intencin de perdonar a este espritu
+clemente”. Por tanto, no teniendo la intención de perdonar a este espíritu
 
-maligno, el Seor no le hace ninguna pregunta. Su interrogatorio a nuestros
+maligno, el Seńor no le hace ninguna pregunta. Su interrogatorio a nuestros
 
-primeros padres fue una seal de misericordia. Cuando Dios reprende a la
+primeros padres fue una seńal de misericordia. Cuando Dios reprende a la
 
-conciencia de un hombre lo hace con miras a bendecirle. Me dirijo a alguien
+conciencia de un hombre lo hace con miras a bendecirle. żMe dirijo a alguien
 
-aqu presente cuyo sentido de pecado ha despertado, que es acusado por
+aquí presente cuyo sentido de pecado ha despertado, que es acusado por
 
 la Palabra
 
 de Dios, que siente
 
-que el Espritu de Dios obra en su interior una especie de espritu de
+que el Espíritu de Dios obra en su interior una especie de espíritu de
 
 esclavitud? Puedes tener esperanzas cuando eso suceda. Si Dios hubiera tenido el
 
-propsito de destruirte te habra dejado solo as como dej a la serpiente, sin
+propósito de destruirte te habría dejado solo así como dejó a la serpiente, sin
 
-una palabra de recriminacin, y habra dictado sentencia contra ti rpidamente.
+una palabra de recriminación, y habría dictado sentencia contra ti rápidamente.
 
-Las propias reprensiones de Dios son seales de Su favor para con los hombres.
+Las propias reprensiones de Dios son seńales de Su favor para con los hombres.
 
-Con la serpiente, esto es, con el espritu maligno, Dios no tuvo reproches,
+Con la serpiente, esto es, con el espíritu maligno, Dios no tuvo reproches,
 
-sino que trat de inmediato por la va de la condenacin.
+sino que trató de inmediato por la vía de la condenación.
 
-l pronunci una
+Él pronunció una
 
-sentencia contra la serpiente que, si bien fue terrible para l, es sumamente
+sentencia contra la serpiente que, si bien fue terrible para él, es sumamente
 
 alentadora para nosotros; y en la medida que nuestros primeros padres la
 
 entendieron, debe de haber sido un sol lleno de luz para sus almas
 
-entenebrecidas y deprimidas. Durante muchos aos esta fue la estrella solitaria
+entenebrecidas y deprimidas. Durante muchos ańos esta fue la estrella solitaria
 
-de los corazones creyentes: este evangelio de la condenacin de la serpiente.
+de los corazones creyentes: este evangelio de la condenación de la serpiente.
 
-Satans era su enemigo; les haba hecho un mal. Era tambin enemigo de Dios, y
+Satanás era su enemigo; les había hecho un mal. Era también enemigo de Dios, y
 
-Dios iba a luchar contra l y entonces los convoc a Su batalla. Iba a levantar
+Dios iba a luchar contra él y entonces los convocó a Su batalla. Iba a levantar
 
-a Uno que sufrira pero que obtendra la victoria, Uno a quien llama la
+a Uno que sufriría pero que obtendría la victoria, Uno a quien llama “la
 
-simiente de la mujer. Iba a herir la cabeza de Satans y en el hecho mismo la
+simiente de la mujer”. Iba a herir la cabeza de Satanás y en el hecho mismo la
 
-raza del hombre sera bendecida indeciblemente.
+raza del hombre sería bendecida indeciblemente.
 
 El pasado domingo por la
 
-maana les present a Emanuel, Dios con nosotros, nacido de una virgen. Vamos a
+mańana les presenté a Emanuel, Dios con nosotros, nacido de una virgen. Vamos a
 
-retomar el mismo tema, y quisiera hablar de nuevo de nuestro Seor Jess como
+retomar el mismo tema, y quisiera hablar de nuevo de nuestro Seńor Jesús como
 
 la simiente de la mujer, y enaltecerlo por adherirse a nuestra contienda y
 
-deshacer el dao que la serpiente antigua nos haba infligido. En l Su pueblo creyente
+deshacer el dańo que la serpiente antigua nos había infligido. En Él Su pueblo creyente
 
-herir en breve bajo sus pies a Satans.
+herirá en breve bajo sus pies a Satanás.
 
 Vamos a considerar todo
 
-el pasaje y a extraer de l siete lecciones. Como hay tantas, no me puedo
+el pasaje y a extraer de él siete lecciones. Como hay tantas, no me puedo
 
-detener en ninguna de ellas ms de lo necesario, sino que debo darles slo
+detener en ninguna de ellas más de lo necesario, sino que debo darles sólo
 
 indicios de la riqueza de significado que yace en el interior de las palabras
 
-de estos versculos sumamente instructivos. Podemos aprender mucho aqu sobre
+de estos versículos sumamente instructivos. Podemos aprender mucho aquí sobre
 
 nuestro archienemigo.
 
@@ -360,61 +360,61 @@ LA CUAL
 
 SE
 
-APARECE SATANS. El texto comienza, Y Jehov Dios dijo a la serpiente. Bajo
+APARECE SATANÁS. El texto comienza, “Y Jehová Dios dijo a la serpiente”. Bajo
 
-la forma de una serpiente enga a la mujer y bajo esa forma fue condenado. l
+la forma de una serpiente engańó a la mujer y bajo esa forma fue condenado. Él
 
-sigue siendo una serpiente. Puede andar rondando entre los dbiles e indefensos
+sigue siendo una serpiente. Puede andar rondando entre los débiles e indefensos
 
-como un len rugiente que busca a quien devorar; pero l se encuentra ms
+como un león rugiente que busca a quien devorar; pero él se encuentra más
 
-cmodo como la encarnacin de la astucia. La serpiente era sumamente
+cómodo como la encarnación de la astucia. La serpiente era sumamente
 
 sutil,
 
-y as el maligno es sumamente
+y así el maligno es sumamente
 
-astuto. T piensas que entiendes los caminos de Satans pero ests equivocado.
+astuto. Tú piensas que entiendes los caminos de Satanás pero estás equivocado.
 
-Has sido tentado por l estos ltimos treinta aos y t crees que tu
+Has sido tentado por él estos últimos treinta ańos y tú crees que tu
 
-experiencia puede desenmaraar todas sus conspiraciones. Ah, hermanos mos! l
+experiencia puede desenmarańar todas sus conspiraciones. ˇAh, hermanos míos! Él
 
 ha estado involucrado en la obra de tentar a los hombres durante casi seis mil
 
-aos, y no slo es ms viejo sino que es mucho ms agudo y ms sagaz que ustedes.
+ańos, y no sólo es más viejo sino que es mucho más agudo y más sagaz que ustedes.
 
-Sus caminos no son descubiertos fcilmente y aunque nosotros no ignoramos sus
+Sus caminos no son descubiertos fácilmente y aunque nosotros no ignoramos sus
 
-estratagemas, no sabemos cul de ellas usar a continuacin. Si hemos escapado
+estratagemas, no sabemos cuál de ellas usará a continuación. Si hemos escapado
 
-exitosamente de sus redes durante cuarenta aos, el hbil cazador puede
+exitosamente de sus redes durante cuarenta ańos, el hábil cazador puede
 
-enredarnos todava. Necesitamos clamar cada da: No nos metas en tentacin,
+enredarnos todavía. Necesitamos clamar cada día: “No nos metas en tentación,
 
-mas lbranos del mal. Juan escribe acerca de l en el Apocalipsis como la
+mas líbranos del mal”. Juan escribe acerca de él en el Apocalipsis como “la
 
-serpiente antigua, que se llama diablo y Satans, el cual engaa al mundo
+serpiente antigua, que se llama diablo y Satanás, el cual engańa al mundo
 
-entero. l es ms astuto que el ms sabio; cun pronto atrap en sus redes a
+entero”. Él es más astuto que el más sabio; ˇcuán pronto atrapó en sus redes a
 
-Salomn! l es ms fuerte que el ms fuerte; cun fatalmente venci a Sansn! S,
+Salomón! Él es más fuerte que el más fuerte; ˇcuán fatalmente venció a Sansón! Sí,
 
-y varones conformes al propio corazn de Dios, como David, han sido conducidos
+y varones conformes al propio corazón de Dios, como David, han sido conducidos
 
-a los ms horrendos pecados por causa de sus seducciones. No sabemos dnde
+a los más horrendos pecados por causa de sus seducciones. No sabemos dónde
 
-acecha ahora o desde qu lugar disparar sus flechas a continuacin, pero
+acecha ahora o desde qué lugar disparará sus flechas a continuación, pero
 
-podemos tener la seguridad de que siempre est tramando un mal contra el pueblo
+podemos tener la seguridad de que siempre está tramando un mal contra el pueblo
 
 de Dios y obrando sutilmente para contaminarlo. Podemos entrar sabiamente en la
 
-ansiedad mostrada por Pablo cuando escribi a los Corintios, Pero temo que
+ansiedad mostrada por Pablo cuando escribió a los Corintios, “Pero temo que
 
-como la serpiente con su astucia enga a Eva, vuestros sentidos sean de alguna
+como la serpiente con su astucia engańó a Eva, vuestros sentidos sean de alguna
 
-manera extraviados de la sincera fidelidad a Cristo. Que el Seor nos libre de
+manera extraviados de la sincera fidelidad a Cristo”. ˇQue el Seńor nos libre de
 
 las malignas maquinaciones del sutil enemigo!
 
@@ -422,41 +422,41 @@ Una serpiente es muy
 
 intrigante.
 
-Puede entrar all donde otra
+Puede entrar allí donde otra
 
-criatura no podra. Hasta el orificio ms pequeo le abre espacio a una
+criatura no podría. Hasta el orificio más pequeńo le abre espacio a una
 
-serpiente que se enrolla para meterse sin ruido. Satans es muy intrigante y
+serpiente que se enrolla para meterse sin ruido. Satanás es muy intrigante y
 
-as como entr en el Paraso, as puede penetrar en los lugares ms secretos y sagrados.
+así como entró en el Paraíso, así puede penetrar en los lugares más secretos y sagrados.
 
 Se arrastra hasta el interior de la iglesia por mucho que nos cuidemos. Se
 
-arrastra dentro de las casas aunque estn santificadas por la devocin. Nunca
+arrastra dentro de las casas aunque estén santificadas por la devoción. żNunca
 
-lo has encontrado inmiscuyndose en tu aposento durante tu oracin? Pudiera
+lo has encontrado inmiscuyéndose en tu aposento durante tu oración? Pudiera
 
-parecer que no hay ninguna rendija, y sin embargo, all est, donde menos se le
+parecer que no hay ninguna rendija, y sin embargo, allí está, donde menos se le
 
-esperaba. Acaso no se ha enroscado dentro de sus familias? No se ha
+esperaba. żAcaso no se ha enroscado dentro de sus familias? żNo se ha
 
-arrastrado hasta el interior de sus corazones? Cmo podemos mantenerlo fuera?
+arrastrado hasta el interior de sus corazones? żCómo podemos mantenerlo fuera?
 
-Vigilamos sus ataques que vienen desde el exterior, pero, he aqu, l ha encontrado
+Vigilamos sus ataques que vienen desde el exterior, ˇpero, he aquí, él ha encontrado
 
-un alojamiento en su interior! Sutil e intrigante es Satans; es en verdad una
+un alojamiento en su interior! ˇSutil e intrigante es Satanás; es en verdad una
 
 serpiente!
 
-Y cun
+ˇY cuán
 
 venenoso!
 
-Qu veneno inocula en nuestro
+ˇQué veneno inocula en nuestro
 
 sistema moral un colmillo de la serpiente antigua! Miren en torno suyo y vean
 
-cuntos han sido envenenados con el deseo de una fuerte bebida, con la lascivia,
+cuántos han sido envenenados con el deseo de una fuerte bebida, con la lascivia,
 
 con la avaricia, con el orgullo, con la ira, con la incredulidad. Hay
 
@@ -464,233 +464,233 @@ serpientes ardientes en medio de nosotros y muchos mueren por su veneno. Si
 
 toleramos el menor pecado, dejamos que se convierta en una gota quemante en las
 
-venas del alma. Un contacto con los colmillos de esta serpiente producir una
+venas del alma. Un contacto con los colmillos de esta serpiente producirá una
 
-afliccin inmensa, aunque el alma sea salvada de la muerte. Es nicamente el
+aflicción inmensa, aunque el alma sea salvada de la muerte. Es únicamente el
 
-poder de Dios el que nos guarda de ser destruidos por esta vbora. Si pudiera
+poder de Dios el que nos guarda de ser destruidos por esta víbora. Si pudiera
 
-cumplir su voluntad, l es un espritu tan maligno que ningn heredero del
+cumplir su voluntad, él es un espíritu tan maligno que ningún heredero del
 
-cielo sobrevivira. Oh, Dios, guarda a los Tuyos! Lbranos del maligno!
+cielo sobreviviría. ˇOh, Dios, guarda a los Tuyos! ˇLíbranos del maligno!
 
 Con toda probabilidad el
 
-reptil llamado serpiente era una criatura ms noble antes de la cada que
+reptil llamado ‘serpiente’ era una criatura más noble antes de la caída que
 
 ahora. Las palabras de nuestro texto, en lo que se refieren literalmente a la
 
-serpiente, amenazan con un cambio que sera obrado en el reptil. Ha habido una
+serpiente, amenazan con un cambio que sería obrado en el reptil. Ha habido una
 
-especie de opinin especulativa que afirma que la criatura o tena alas o era
+especie de opinión especulativa que afirma que la criatura o tenía alas o era
 
 capaz de moverse sin tener que arrastrarse sobre la tierra como lo hace ahora.
 
 De eso no se sabe nada; pero ciertamente la serpiente es algo odiado con lo
 
-cual la humanidad est en guerra, y su forma y hbito tipifican todo lo que es
+cual la humanidad está en guerra, y su forma y hábito tipifican todo lo que es
 
 vil y astuto. No hay nada noble, nada valiente, nada verdadero en la idea de
 
-una serpiente. Satans estuvo entre los primognitos de la maana, un raudo y
+una serpiente. Satanás estuvo entre los primogénitos de la mańana, un raudo y
 
-refulgente siervo de Dios; pero l transgredi contra su Soberano y cay, y
+refulgente siervo de Dios; pero él transgredió contra su Soberano y cayó, y
 
-ahora no es otra cosa que una serpiente: maligno, ruin, astuto y mentiroso. l
+ahora no es otra cosa que una serpiente: maligno, ruin, astuto y mentiroso. Él
 
-es aptamente caracterizado como la astuta serpiente. l ha sido homicida
+es aptamente caracterizado como “la astuta serpiente”. “Él ha sido homicida
 
 desde el principio, y no ha permanecido en la verdad, porque no hay verdad en
 
-l. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de
+él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de
 
-mentira (Juan 8: 44). l sale a engaar a las naciones (Apocalipsis 20: 8). Obra
+mentira” (Juan 8: 44). ‘Él sale a engańar a las naciones’ (Apocalipsis 20: 8). ‘Obra
 
-seales y prodigios mentirosos (2 Tesalonicenses 2: 9). Pone trampas, y toma
+seńales y prodigios mentirosos’ (2 Tesalonicenses 2: 9). ‘Pone trampas, y toma
 
-cautivos a los hombres (2 Timoteo 2: 26). Conserven delante de sus mentes la
+cautivos a los hombres’ (2 Timoteo 2: 26). Conserven delante de sus mentes la
 
-forma de una serpiente, y recuerden que de esa manera los atacar Satans. Slo
+forma de una serpiente, y recuerden que de esa manera los atacará Satanás. Sólo
 
-permtanme mitigar sus miedos con la visin de otra serpiente: la serpiente de
+permítanme mitigar sus miedos con la visión de otra serpiente: la serpiente de
 
-bronce levantada sobre un asta que transmita vida a quienes haban sido
+bronce levantada sobre un asta que transmitía vida a quienes habían sido
 
 mordidos por las serpientes malignas. Me parece que es un prodigio de la gracia
 
-condescendiente que nuestro Seor Jess permitiera ser simbolizado mediante una
+condescendiente que nuestro Seńor Jesús permitiera ser simbolizado mediante una
 
-forma que haba sido asumida por el gran enemigo de las almas. S, all estaba
+forma que había sido asumida por el gran enemigo de las almas. Sí, allí estaba
 
 la serpiente de bronce que fue levantada en lo alto sobre un asta, y los que
 
-miraban, aunque fueran mordidos por las serpientes ardientes, vivan. De igual
+miraban, aunque fueran mordidos por las serpientes ardientes, vivían. De igual
 
-manera, Jess en la cruz es el remedio seguro para pecados de todo tipo. Pongan
+manera, Jesús en la cruz es el remedio seguro para pecados de todo tipo. Pongan
 
-atencin a la serpiente antigua, el demonio, con todos sus ojos de la
+atención a la serpiente antigua, el demonio, con todos sus ojos de la
 
-precaucin; pero al mismo tiempo con todos sus ojos de la fe miren a Aquel que
+precaución; pero al mismo tiempo con todos sus ojos de la fe miren a Aquel que
 
-fue hecho maldicin por nosotros para que nosotros vivamos.
+fue hecho maldición por nosotros para que nosotros vivamos.
 
 II.
 
 Eso
 
-basta para la primera leccin; ahora vamos por la segunda. Observen EL
+basta para la primera lección; ahora vamos por la segunda. Observen EL
 
 MEMORABLE HECHO CONCERNIENTE A
 
 LA
 
-CONDICIN
+CONDICIÓN
 
 DE
 
-SATANS. Y Jehov Dios dijo a
+SATANÁS. “Y Jehová Dios dijo a
 
-la serpiente: por cuanto esto hiciste, maldita sers, y la maldicin fue
+la serpiente: por cuanto esto hiciste, maldita serás”, y la maldición fue
 
-enftica y superlativa. Aquel con quien tenemos que contender lleva la
+enfática y superlativa. Aquel con quien tenemos que contender lleva la
 
-maldicin de Dios sobre l aun ahora. Dios ha bendecido a Su pueblo, pero ha
+maldición de Dios sobre él aun ahora. Dios ha bendecido a Su pueblo, pero ha
 
-maldecido al gran enemigo de ellos. La maldicin de Dios marchita y destroza,
+maldecido al gran enemigo de ellos. La maldición de Dios marchita y destroza,
 
-tal como fue el caso de la higuera estril que se marchit bajo la sentencia
+tal como fue el caso de la higuera estéril que se marchitó bajo la sentencia
 
-del Seor Jess. La maldicin de Dios ha cado sobre ese espritu inmundo que
+del Seńor Jesús. La maldición de Dios ha caído sobre ese espíritu inmundo que
 
-representa el mal; no podra ser justamente de otra manera. Esta es la
+representa el mal; no podría ser justamente de otra manera. Esta es la
 
-vergenza suya y la fortaleza de ustedes. La prxima vez que estn luchando con
+vergüenza suya y la fortaleza de ustedes. La próxima vez que estén luchando con
 
-Apolin, aqu tienen una aguda lanza que le pueden arrojar. Dganle que ha sido
+Apolión, aquí tienen una aguda lanza que le pueden arrojar. Díganle que ha sido
 
-maldecido por Dios; y qu tiene l que ver con aquellos a quienes el Seor ha
+maldecido por Dios; y żqué tiene él que ver con aquellos a quienes el Seńor ha
 
 bendecido? Aquel a quien Dios bendice es bendecido, pero aquel a quien Dios
 
 maldice es maldecido en verdad. Sobre todo el poder del pecado y del error, sobre
 
-Satans mismo quien es el cabecilla en las cosas malas, permanece la maldicin
+Satanás mismo quien es el cabecilla en las cosas malas, permanece la maldición
 
-de Dios; y esto es una profeca de su derrota. La verdad prevalecer, la
+de Dios; y esto es una profecía de su derrota. La verdad prevalecerá, la
 
-santidad vencer. La falsedad y el mal llevan la marca de Can sobre su frente
+santidad vencerá. La falsedad y el mal llevan la marca de Caín sobre su frente
 
-y se marchitarn de raz.
+y se marchitarán de raíz.
 
-Satans fue maldecido
+Satanás fue maldecido
 
-con referencia a nosotros. Nuestra cada no le ha aportado ninguna ganancia,
+con referencia a nosotros. Nuestra caída no le ha aportado ninguna ganancia,
 
-sino un aumento del desagrado divino, de decepcin y de envidia. l estaba bajo
+sino un aumento del desagrado divino, de decepción y de envidia. Él estaba bajo
 
-la ira de Dios antes, pero ahora el Seor dice con relacin a l: Maldita
+la ira de Dios antes, pero ahora el Seńor dice con relación a él: “Maldita
 
-sers entre todas las bestias y entre todos los animales del campo. Aunque
+serás entre todas las bestias y entre todos los animales del campo”. Aunque
 
-sobrevengan el dolor y los gemidos sobre toda la creacin menor gracias al
+sobrevengan el dolor y los gemidos sobre toda la creación menor gracias al
 
-pecado del hombre, vendr sobre la serpiente antigua una medida muchsimo ms
+pecado del hombre, vendrá sobre la serpiente antigua una medida muchísimo más
 
-abundante de la maldicin porque se ha atrevido a conducir a la revuelta a la
+abundante de la maldición porque se ha atrevido a conducir a la revuelta a la
 
-raza del hombre. Quin sera el esclavo voluntario de un tirano a quien el
+raza del hombre. żQuién sería el esclavo voluntario de un tirano a quien el
 
-Seor ha maldecido?
+Seńor ha maldecido?
 
-No nicamente Satans, sino
+No únicamente Satanás, sino
 
 toda forma de pecado
 
-est
+está
 
-bajo la maldicin. El
+bajo la maldición. El
 
 tentador quisiera hacerte pensar que algunas formas de pecado son bendecidas
 
-pero eso es falso. Todo pecado tiene una maldicin adherida a l. Mantnganse
+pero eso es falso. Todo pecado tiene una maldición adherida a él. Manténganse
 
-alejados de eso. Se trata de falsa doctrina? Es maldecida. Es vivir en el
+alejados de eso. żSe trata de falsa doctrina? Es maldecida. żEs vivir en el
 
 desenfreno y en el placer carnal? Eso es maldecido. No lo toques. No puedes hacer
 
 el mal sin mancharte con lo que Dios ha maldecido. Pudieras imaginar que
 
-ganars muchas cosas buenas si cedes un poco al pecado, pero eso es una mentira
+ganarás muchas cosas buenas si cedes un poco al pecado, pero eso es una mentira
 
-del adversario: el mal es prdida y ruina. La maldicin que Dios pronunci
+del adversario: el mal es pérdida y ruina. La maldición que Dios pronunció
 
 contra la serpiente es pronunciada contra toda su simiente, y todo lo que es
 
-impuro, falso e impo yace bajo la maldicin de Dios.
+impuro, falso e impío yace bajo la maldición de Dios.
 
 Hermanos, si por causa
 
-de Cristo sufriramos pobreza, o vituperio, o calumnia o incluso la muerte,
+de Cristo sufriéramos pobreza, o vituperio, o calumnia o incluso la muerte,
 
-habra una bendicin en todo ello; pero si por medio de hacer el mal
+habría una bendición en todo ello; pero si por medio de hacer el mal
 
-adquiriramos riqueza, honra y tranquilidad, encontraramos en todas nuestras
+adquiriéramos riqueza, honra y tranquilidad, encontraríamos en todas nuestras
 
-ganancias una ardiente maldicin. Quin valora el oro que contiene la
+ganancias una ardiente maldición. żQuién valora el oro que contiene la
 
-maldicin? Est engangrenado y roer el alma. Dios sabe qu es maldecido y qu
+maldición? Está engangrenado y roerá el alma. Dios sabe qué es maldecido y qué
 
-es bendecido; y es mejor que creamos en Su declaracin de que el mal es algo
+es bendecido; y es mejor que creamos en Su declaración de que el mal es algo
 
-ms bajo que las bestias, y ms rastrero que los animales del campo. Todo esto
+más bajo que las bestias, y más rastrero que los animales del campo. Todo esto
 
 es un llamado a escapar de los caminos del pecado. Tiembla no vaya a ser que seas
 
-encontrado bajo la maldicin; apresrate a huir a Aquel que puede cambiar la
+encontrado bajo la maldición; apresúrate a huir a Aquel que puede cambiar la
 
-maldicin en una bendicin, a Jess, que llev nuestros pecados en Su propio
+maldición en una bendición, a Jesús, que llevó nuestros pecados en Su propio
 
-cuerpo sobre el madero y que as quit la maldicin en todos los creyentes.
+cuerpo sobre el madero y que así quitó la maldición en todos los creyentes.
 
 El hecho memorable de
 
-que Satans y el poder del mal estn bajo la maldicin debera animarnos en
+que Satanás y el poder del mal están bajo la maldición debería animarnos en
 
 nuestro conflicto con la maldad espiritual. Podemos vencerlos, pues la
 
-maldicin del Seor ha salido contra ellos.
+maldición del Seńor ha salido contra ellos.
 
 III.
 
 Como
 
-tercera leccin, noten
+tercera lección, noten
 
 LA
 
-POSTRACIN
+POSTRACIÓN
 
 NOTABLE
 
-que recay sobre la
+que recayó sobre la
 
-serpiente: Sobre tu pecho andars. As se mueve la serpiente y as opera el
+serpiente: “Sobre tu pecho andarás”. Así se mueve la serpiente y así opera el
 
-mal para progresar. Satans se mueve siempre como un cado: no con la dignidad
+mal para progresar. Satanás se mueve siempre como un caído: no con la dignidad
 
-de la santidad, sino arrastrndose por lo bajo. Dios ha puesto sobre cada uno
+de la santidad, sino arrastrándose por lo bajo. Dios ha puesto sobre cada uno
 
-de sus movimientos la indicacin de que ya no es ms grande ni sabio. Los
+de sus movimientos la indicación de que ya no es más grande ni sabio. Los
 
-movimientos del Prncipe de las tinieblas son bajos y rastreros: Sobre tu
+movimientos del Príncipe de las tinieblas son bajos y rastreros: “Sobre tu
 
-pecho andars. Su simiente adopta tambin la misma postura al moverse. Yo he
+pecho andarás”. Su simiente adopta también la misma postura al moverse. Yo he
 
 visto a los enemigos de la verdad contendiendo contra la fe de Dios, y he
 
-observado sus polticas, sus ardides y sus planes y me he dicho: En verdad
+observado sus políticas, sus ardides y sus planes y me he dicho: “En verdad
 
-est escrito, sobre tu pecho andars. Los seres involucrados en designios
+está escrito, sobre tu pecho andarás”. Los seres involucrados en designios
 
 malignos no tienen otra forma de avanzar sino con trucos, ardides,
 
@@ -698,51 +698,51 @@ encubrimientos y doble sentido. Cuando los hombres niegan las Escrituras y la
 
 verdad de Dios, van a trabajar siempre con un estilo solapado, vil y
 
-serpentino: Sobre tu pecho andars. Si el hombre culpable comienza a tramar
+serpentino: “Sobre tu pecho andarás”. Si el hombre culpable comienza a tramar
 
 cosas para su propio provecho, a urdir planes para su propia gloria y a tener
 
-por objetivo pervertir la verdad, notarn que nunca toma una posicin valiente,
+por objetivo pervertir la verdad, notarán que nunca toma una posición valiente,
 
-abierta y viril, sino que esquiva, oculta, tuerce y cambia: Sobre tu pecho
+abierta y viril, sino que esquiva, oculta, tuerce y cambia: “Sobre tu pecho
 
-andars. El pecado es algo vil y despreciable. El ms grande potentado del mal
+andarás”. El pecado es algo vil y despreciable. El más grande potentado del mal
 
-fue condenado aqu a encogerse y arrastrarse y su simiente no ha olvidado nunca
+fue condenado aquí a encogerse y arrastrarse y su simiente no ha olvidado nunca
 
 la postura de su padre.
 
 Todos los objetos de los
 
-poderes del mal se arrastran. Qu es lo que buscan? Cuando los hombres
+poderes del mal se arrastran. żQué es lo que buscan? Cuando los hombres
 
 abandonan el camino de la santidad se apresuran en pos de diversiones
 
-contaminadas y ociosas. Qu hay en el placer del mundo que sea ennoblecedor?
+contaminadas y ociosas. żQué hay en el placer del mundo que sea ennoblecedor?
 
-El jbilo carnal sigue siendo una cosa rastrera: Sobre tu pecho andars. Un
+El júbilo carnal sigue siendo una cosa rastrera: “Sobre tu pecho andarás”. Un
 
-hombre profesante renuncia al camino de separacin y entra en la sociedad
+hombre profesante renuncia al camino de separación y entra en la sociedad
 
-moderna y ya no camina ms con Dios. Cul es su curso general? Dentro de un breve
+moderna y ya no camina más con Dios. żCuál es su curso general? Dentro de un breve
 
-lapso lo encontramos desinteresado de toda religin y tolerante del
+lapso lo encontramos desinteresado de toda religión y tolerante del
 
-libertinaje. Siempre es as: Sobre tu pecho andars. Si le cedes el paso al
+libertinaje. Siempre es así: “Sobre tu pecho andarás”. Si le cedes el paso al
 
-mal, irs para abajo, para abajo, para abajo, hasta que tu estmago se
+mal, irás para abajo, para abajo, para abajo, hasta que tu estómago se
 
-convierte en tu dios y te gloras en tu vergenza. Si un hombre quisiera ser
+convierte en tu dios y te glorías en tu vergüenza. Si un hombre quisiera ser
 
-grande, que sirva a Dios. Si un hombre quisiera elevarse a los ngeles, s,
+grande, que sirva a Dios. Si un hombre quisiera elevarse a los ángeles, sí,
 
 elevarse a Dios, que obedezca el mandamiento de su Hacedor. Pero si desea
 
-degradarse ms abajo que la vbora, que se desliza inadvertida a travs de los
+degradarse más abajo que la víbora, que “se desliza inadvertida a través de los
 
-arbustos y el matorral, su mtodo fcil es seguir a Satans y rebelarse contra
+arbustos y el matorral”, su método fácil es seguir a Satanás y rebelarse contra
 
-el Altsimo.
+el Altísimo.
 
 IV.
 
@@ -752,267 +752,267 @@ en cuarto lugar,
 
 LA PERPETUA
 
-DEGRADACIN
+DEGRADACIÓN
 
-impuesta a la serpiente: Y polvo comers todos
+impuesta a la serpiente: “Y polvo comerás todos
 
-los das de tu vida. Satans ha de vivir ahora una vida derrotada, pues tal es
+los días de tu vida”. Satanás ha de vivir ahora una vida derrotada, pues tal es
 
-la fuerza de la expresin: Sus enemigos mordern el polvo. Significa que
+la fuerza de la expresión: “Sus enemigos morderán el polvo”. Significa que
 
-estn completamente derrotados. As Satans durante toda su vida existe como un
+están completamente derrotados. Así Satanás durante toda su vida existe como un
 
-enemigo vencido y encadenado: su poder ha sido menoscabado y l lo sabe bien.
+enemigo vencido y encadenado: su poder ha sido menoscabado y él lo sabe bien.
 
-l ha sido derrotado con respecto a toda su gran estratagema general, y ha de
+Él ha sido derrotado con respecto a toda su gran estratagema general, y ha de
 
-ser derrotado en sus detalles todos los das de su vida. Cuando se enfrent con
+ser derrotado en sus detalles todos los días de su vida. Cuando se enfrentó con
 
-nuestro Seor en el desierto, se arrastr sobre su pecho con tortuosas
+nuestro Seńor en el desierto, se arrastró sobre su pecho con tortuosas
 
-tentaciones; pero nuestro Seor, por Su santidad, lo hizo morder el polvo! Con
+tentaciones; ˇpero nuestro Seńor, por Su santidad, lo hizo morder el polvo! ˇCon
 
-cunta frecuencia durante la vida de nuestro Seor, Satans fue llevado a
+cuánta frecuencia durante la vida de nuestro Seńor, Satanás fue llevado a
 
-sentir que su conquistador haba llegado! Se encogi delante de l e implor no
+sentir que su conquistador había llegado! Se encogió delante de Él e imploró no
 
-ser atormentado antes de su tiempo. Cuando vio al Seor Jess sobre la cruz, habiendo
+ser atormentado antes de su tiempo. Cuando vio al Seńor Jesús sobre la cruz, habiendo
 
-planeado aplastarlo mediante la muerte, segn pensaba, comenz a temer la
+planeado aplastarlo mediante la muerte, según pensaba, comenzó a temer la
 
-derrota. Cuando le oy clamar: Consumado es, y sinti Su taln de hierro
+derrota. Cuando le oyó clamar: “Consumado es”, y sintió Su talón de hierro
 
-sobre su cabeza, supo, para su eterno horror, que slo haba abierto para el
+sobre su cabeza, supo, para su eterno horror, que sólo había abierto para el
 
-Cristo una oportunidad para redimir a la humanidad. Qu bocanada de polvo tuvo
+Cristo una oportunidad para redimir a la humanidad. ˇQué bocanada de polvo tuvo
 
-que morder en aquel da! Nadie ms miserable en el universo que Satans, cuyas
+que morder en aquel día! Nadie más miserable en el universo que Satanás, cuyas
 
-obras haba destruido el Salvador sangrante. Fue un da de amarga derrota para
+obras había destruido el Salvador sangrante. Fue un día de amarga derrota para
 
-el enemigo cuando nuestro Seor resucit de los muertos. La serpiente antigua
+el enemigo cuando nuestro Seńor resucitó de los muertos. La serpiente antigua
 
-haba vigilado el lvido cadver; pero cuando lo vio vivir y el ngel rod la
+había vigilado el lívido cadáver; pero cuando lo vio vivir y el ángel rodó la
 
-piedra, y Jess, el Cristo, sali para no morir ms, yo les garantizo que la
+piedra, y Jesús, el Cristo, salió para no morir más, yo les garantizo que la
 
-serpiente mordi el polvo aquel da. Y cuando los apstoles se mantuvieron
+serpiente mordió el polvo aquel día. Y cuando los apóstoles se mantuvieron
 
-firmes hombres que Satans despreciaba, humildes pescadores- y el Espritu
+firmes –hombres que Satanás despreciaba, humildes pescadores- y el Espíritu
 
-Santo descendi sobre ellos, se cumpli de nuevo lo dicho: Polvo comers. Cuando
+Santo descendió sobre ellos, se cumplió de nuevo lo dicho: “Polvo comerás”. Cuando
 
-las naciones fueron convertidas y los dolos fueron destruidos y la verdad
+las naciones fueron convertidas y los ídolos fueron destruidos y la verdad
 
-prevaleci poderosamente, entonces Satans record las palabras, Polvo comers
+prevaleció poderosamente, entonces Satanás recordó las palabras, “Polvo comerás
 
-todos los das de tu vida. Todava le espera una mayor humillacin.
+todos los días de tu vida”. Todavía le espera una mayor humillación.
 
-Levntense, y prediquen a Cristo y ganen almas, y el gran enemigo de las almas
+Levántense, y prediquen a Cristo y ganen almas, y el gran enemigo de las almas
 
-ver su poder disminuido, y su nombre aborrecido y morder de nuevo el polvo.
+verá su poder disminuido, y su nombre aborrecido y morderá de nuevo el polvo.
 
-El polvo ser por
+El polvo será por
 
 siempre el alimento de la serpiente, porque su ganancia siempre lo decepciona.
 
-l pensaba que haba obtenido una gran ventaja cuando convenci a la mujer que
+Él pensaba que había obtenido una gran ventaja cuando convenció a la mujer que
 
-desobedeciera, pero ms bien haba hecho una vara para su propia espalda puesto
+desobedeciera, pero más bien había hecho una vara para su propia espalda puesto
 
-que su simiente se convertira en su eterna antagonista. La cada del hombre
+que su simiente se convertiría en su eterna antagonista. La caída del hombre
 
-condujo a la encarnacin y a la expiacin; y por ellas Satans es derribado.
+condujo a la encarnación y a la expiación; y por ellas Satanás es derribado.
 
-Por el hombre ha venido la resurreccin y con ella la derrota de la muerte que
+Por el hombre ha venido la resurrección y con ella la derrota de la muerte que
 
-era el primognito del infierno. La victoria del demonio en Edn es borrada por
+era el primogénito del infierno. La victoria del demonio en Edén es borrada por
 
-la victoria de Jess en el Calvario.
+la victoria de Jesús en el Calvario.
 
-Si Satans llegara a
+Si Satanás llegara a
 
-conocer el placer jams, sera del tipo ms inmundo y ms insatisfactorio: el polvo
+conocer el placer jamás, sería del tipo más inmundo y más insatisfactorio: el polvo
 
-es su alimento. No hay nada satisfactorio en los placeres de la rebelin. l
+es su alimento. No hay nada satisfactorio en los placeres de la rebelión. Él
 
-sigue siendo un ser decepcionado e intranquilo. El error ms solapado que
+sigue siendo un ser decepcionado e intranquilo. El error más solapado que
 
-inventa y que sostiene por la filosofa, no es ms que polvo. Su causa entera,
+inventa y que sostiene por la filosofía, no es más que polvo. Su causa entera,
 
-por la que ha laborado estos miles de aos con una horrible perseverancia toda
+por la que ha laborado estos miles de ańos con una horrible perseverancia –toda
 
-su causa, repito- se disolver en el polvo, y se desvanecer como humo. Todava
+su causa, repito- se disolverá en el polvo, y se desvanecerá como humo. Todavía
 
-se alimenta del polvo. Que quienes son siervos de Satans sepan con seguridad
+se alimenta del polvo. Que quienes son siervos de Satanás sepan con seguridad
 
-que como estn viviendo en pecado, tendrn que comer a la mesa de su padre y
+que como están viviendo en pecado, tendrán que comer a la mesa de su padre y
 
-aprender el vaco de todos los placeres del pecado, y la carencia de valor de
+aprender el vacío de todos los placeres del pecado, y la carencia de valor de
 
-todos los tesoros del mal. Todo lo que el pecado pueda traerte no es ms que
+todos los tesoros del mal. Todo lo que el pecado pueda traerte no es más que
 
 polvo: comida inmunda, insuficiente, oclusiva, mortal. Aunque atesoraras
 
-riquezas, el oro no es ms que polvo para el hombre moribundo. Aunque ganaras
+riquezas, el oro no es más que polvo para el hombre moribundo. Aunque ganaras
 
-todo el honor terrenal, eso tambin se disolvera en el polvo. Esa es la
+todo el honor terrenal, eso también se disolvería en el polvo. Esa es la
 
-miseria de ese gran espritu que es llamado el Prncipe de las tinieblas: que
+miseria de ese gran espíritu que es llamado el Príncipe de las tinieblas: que
 
-tiene que comer polvo todos sus das. Pero qu miseria es ser tan solo un
+tiene que comer polvo todos sus días. ˇPero qué miseria es ser tan solo un
 
-pobre sbdito en ese reino impo, y estar condenado al mismo destino
+pobre súbdito en ese reino impío, y estar condenado al mismo destino
 
-despreciable! Polvo comers todos los das de tu vida. Noten eso muy bien: y
+despreciable! “Polvo comerás todos los días de tu vida”. ˇNoten eso muy bien: y
 
-que Dios los libre de tal alimentacin!
+que Dios los libre de tal alimentación!
 
 V.
 
 Pensemos,
 
-a continuacin, en
+a continuación, en
 
 LA GUERRA
 
 INCESANTE
 
-con la que Dios amenaza a la serpiente: Y pondr enemistad entre ti y la
+con la que Dios amenaza a la serpiente: “Y pondré enemistad entre ti y la
 
-mujer, y entre tu simiente y la simiente suya. l contaba con una fcil
+mujer, y entre tu simiente y la simiente suya”. Él contaba con una fácil
 
-conquista y aparentemente la haba conseguido, pero descubrira que su vctima
+conquista y aparentemente la había conseguido, pero descubriría que su víctima
 
-se convertira en su antagonista, y a la postre, en su conquistador. Satans no
+se convertiría en su antagonista, y a la postre, en su conquistador. Satanás no
 
 puede conocer nunca la paz; busca el reposo pero no encuentra ninguno. Cuando
 
-le habl a esa mujer con sus palabras engaosas de adulacin, pens que la
+le habló a esa mujer con sus palabras engańosas de adulación, pensó que la
 
-haba convertido en su amiga. Acaso no haba seducido a la criatura
+había convertido en su amiga. żAcaso no había seducido a la criatura
 
-encantadora en quien Dios haba personificado la perfeccin de la belleza, para
+encantadora en quien Dios había personificado la perfección de la belleza, para
 
-que desobedeciera al grandioso Rey? No la haba usado como el instrumento para
+que desobedeciera al grandioso Rey? żNo la había usado como el instrumento para
 
 convertir a su esposo en un traidor a su Dios? Esos dos eran grandes amigos. En
 
-el momento en que tom el fruto ella sinti que le deba mucho a la serpiente
+el momento en que tomó el fruto ella sintió que le debía mucho a la serpiente
 
 por darle la sutil sugerencia por la que iba a ser conducida a encontrar que sus
 
-ojos se abrieron, y que su naturaleza era levantada para ser como Dios. Cun
+ojos se abrieron, y que su naturaleza era levantada para ser como Dios. ˇCuán
 
-aflictivamente fue engaada! Tampoco la serpiente iba a encontrarse en ventaja.
+aflictivamente fue engańada! Tampoco la serpiente iba a encontrarse en ventaja.
 
-La alianza estaba rota y el engaador y su vctima estaban enemistados. Dios
+La alianza estaba rota y el engańador y su víctima estaban enemistados. Dios
 
-declara muy solemnemente: Pondr enemistad entre ti y la mujer; Dios se
+declara muy solemnemente: “Pondré enemistad entre ti y la mujer”; Dios se
 
-asegurar de que no haya paz. Hay una guerra que ha de ser librada entre Satans
+asegurará de que no haya paz. Hay una guerra que ha de ser librada entre Satanás
 
 y la simiente de la mujer en tanto que el mundo permanezca. Algunas veces
 
 pareciera como si fuera a haber paz, pues el mundo adula a la iglesia y la
 
-iglesia busca conformarse al mundo. As como antes del diluvio de No los hijos
+iglesia busca conformarse al mundo. Así como antes del diluvio de Noé los hijos
 
-de Dios y las hijas de los hombres se unieron en una alianza impa, as una y
+de Dios y las hijas de los hombres se unieron en una alianza impía, así una y
 
-otra vez ha habido intentos de una tregua. Pero no puede haber paz. Hoy Satans
+otra vez ha habido intentos de una tregua. Pero no puede haber paz. Hoy Satanás
 
 tienta a los ministros de Cristo para que suavicen el Evangelio, lo adapten a
 
-la poca y lo hagan popular; y tambin se esfuerza para derribar la divisin
+la época y lo hagan popular; y también se esfuerza para derribar la división
 
-entre la iglesia y el mundo. Rellenen la sima!, dice l; cbranla como a una
+entre la iglesia y el mundo. “ˇRellenen la sima!”, dice él; “ˇcúbranla como a una
 
-vieja alcantarilla, y olviden que alguna vez existi! Habla de esta manera
+vieja alcantarilla, y olviden que alguna vez existió!” Habla de esta manera
 
-como el pecador en los Proverbios: Echa tu suerte entre nosotros; tengamos
+como el pecador en los Proverbios: “Echa tu suerte entre nosotros; tengamos
 
-todos una bolsa. Pero observen esto todos los que me oyen: aunque todos los
+todos una bolsa”. Pero observen esto todos los que me oyen: aunque todos los
 
-plpitos fueran capturados y aunque pareciera que los propios elegidos son engaados,
+púlpitos fueran capturados y aunque pareciera que los propios elegidos son engańados,
 
-con todo, Dios no se dejar a S mismo sin testimonio sino que encontrar, en
+con todo, Dios no se dejará a Sí mismo sin testimonio sino que encontrará, en
 
-algn lugar u otro, algunos escogidos de la simiente de la mujer para continuar
+algún lugar u otro, algunos escogidos de la simiente de la mujer para continuar
 
-la guerra santa hasta el fin. Jehov ha puesto Su mano sobre Su trono, y ha
+la guerra santa hasta el fin. Jehová ha puesto Su mano sobre Su trono, y ha
 
-jurado tener guerra con el mal de generacin en generacin. Vean cmo era en
+jurado tener guerra con el mal de generación en generación. Vean cómo era en
 
-Israel cuando el sumo sacerdote de Dios, El, pasaba por alto el pecado, cuando
+Israel cuando el sumo sacerdote de Dios, Elí, pasaba por alto el pecado, cuando
 
-sus propios hijos, como sacerdotes, cometan iniquidad a la puerta del
+sus propios hijos, como sacerdotes, cometían iniquidad a la puerta del
 
-tabernculo y todo Israel era conducido de esa manera a hacer el mal. No se
+tabernáculo y todo Israel era conducido de esa manera a hacer el mal. żNo se
 
-apagara la lmpara de la verdad? No sera aborrecida por completo la
+apagaría la lámpara de la verdad? żNo sería aborrecida por completo la
 
-adoracin del Seor? Ah, no! Un pequeo nio fue llevado por su madre al
+adoración del Seńor? ˇAh, no! Un pequeńo nińo fue llevado por su madre al
 
-tabernculo para que fuera el siervo del Seor, y en l el Seor encontr a un
+tabernáculo para que fuera el siervo del Seńor, y en él el Seńor encontró a un
 
-paladn. Dios llam a Samuel en la noche y l respondi: Heme aqu. Este
+paladín. Dios llamó a Samuel en la noche y él respondió: “Heme aquí”. Este
 
-Samuel estuvo delante del Seor, y dijo profecas que hacan que zumbaran ambos
+Samuel estuvo delante del Seńor, y dijo profecías que hacían que zumbaran ambos
 
-odos de quien las oa, y el Seor fue otra vez grande en Israel. No tiembles por
+oídos de quien las oía, y el Seńor fue otra vez grande en Israel. No tiembles por
 
-el arca del Seor. Dios no permitir que la serpiente antigua esparza su cieno
+el arca del Seńor. Dios no permitirá que la serpiente antigua esparza su cieno
 
-sobre todas las cosas. Siempre habr oposicin al trono de Satans.
+sobre todas las cosas. Siempre habrá oposición al trono de Satanás.
 
 Esta enemistad ha de ser
 
-mantenida por Dios mismo. l dijo:
+mantenida por Dios mismo. Él dijo:
 
-Pondr
+“Pondré
 
-enemistad entre ti y la mujer, y entre tu simiente y la simiente suya.
+enemistad entre ti y la mujer, y entre tu simiente y la simiente suya”.
 
-Vean aqu a la iglesia de Dios anunciada en este versculo! Aqu tienen no
+ˇVean aquí a la iglesia de Dios anunciada en este versículo! Aquí tienen no
 
-nicamente el Evangelio, sino tambin a la iglesia. Cristo, la simiente de la
+únicamente el Evangelio, sino también a la iglesia. Cristo, la simiente de la
 
-mujer, es la cabeza y todos los que estn en Cristo son Su cuerpo. l y ellos
+mujer, es la cabeza y todos los que están en Cristo son Su cuerpo. Él y ellos
 
-son la sola simiente. En estas palabras el Seor estableci a la iglesia que
+son la sola simiente. En estas palabras el Seńor estableció a la iglesia que
 
-contina hasta este da; una simiente que es opuesta a Satans y al mal; una
+continúa hasta este día; una simiente que es opuesta a Satanás y al mal; una
 
-simiente que permanecer, por el poder del Espritu de Dios, librando una
+simiente que permanecerá, por el poder del Espíritu de Dios, librando una
 
-guerra constante con los poderes del mal. Pertenecemos a esa simiente? En esta
+guerra constante con los poderes del mal. żPertenecemos a esa simiente? En esta
 
 simiente hay un odio profundamente arraigado hacia todo lo que es falso y malo.
 
-Dios se encargar de que esta simiente nunca ceda ante el poder del mal, pues
+Dios se encargará de que esta simiente nunca ceda ante el poder del mal, pues
 
-seguir siendo cierto que Pondr enemistad entre ti y la mujer. En tanto que
+seguirá siendo cierto que “Pondré enemistad entre ti y la mujer”. En tanto que
 
-haya falsa doctrina habr un reformador protestante; en tanto que sobreviva
+haya falsa doctrina habrá un reformador protestante; en tanto que sobreviva
 
-cualquier forma de perversin, habr un testigo nacido de lo alto para
+cualquier forma de perversión, habrá un testigo nacido de lo alto para
 
 contender con ella. Esta simiente es nacida, no de sangre ni de la voluntad de
 
-la carne sino del Espritu de Dios que mora en la verdadera simiente de la
+la carne sino del Espíritu de Dios que mora en la verdadera simiente de la
 
-mujer; y esta simiente ser valiente por el Seor de los ejrcitos hasta que el
+mujer; y esta simiente será valiente por el Seńor de los ejércitos hasta que el
 
-ltimo enemigo sea destruido.
+último enemigo sea destruido.
 
-De qu lado ests t,
+żDe qué lado estás tú,
 
-amigo mo, esta maana? Yo le hago directamente la pregunta a cada uno de los
+amigo mío, esta mańana? Yo le hago directamente la pregunta a cada uno de los
 
-aqu presentes: Eres nacido de lo alto? Lo que es nacido de la carne, carne
+aquí presentes: żEres nacido de lo alto? Lo que es nacido de la carne, carne
 
-es, y lo que es nacido del Espritu, espritu es; y slo este ltimo es la
+es, y lo que es nacido del Espíritu, espíritu es; y sólo este último es la
 
 verdadera simiente de la mujer.
 
@@ -1022,53 +1022,53 @@ En
 
 sexto lugar, observen que vemos en el texto EL LIMITADO LOGRO de la serpiente
 
-antigua. Qu lograr con todas sus estratagemas? T le herirs en el
+antigua. żQué logrará con todas sus estratagemas? “Tú le herirás en el
 
-calcaar. Eso es todo. Esto es al estilo de la serpiente. Satans es una
+calcańar”. Eso es todo. Esto es al estilo de la serpiente. Satanás es “una
 
-vbora en el sendero, que muerde los talones del caballo, de manera que el
+víbora en el sendero, que muerde los talones del caballo, de manera que el
 
-jinete se va de espaldas. Si no se atreve a atacarte abiertamente, te atacar
+jinete se va de espaldas”. Si no se atreve a atacarte abiertamente, te atacará
 
-por detrs. Es como una serpiente en la hierba que muerde los talones del
+por detrás. Es como una serpiente en la hierba que muerde los talones del
 
-viajero. El resultado de seis mil aos de astucia y de enemistad de Satans es
+viajero. El resultado de seis mil ańos de astucia y de enemistad de Satanás es
 
-que ha herido el calcaar de su vctima.
+que ha herido el calcańar de su víctima.
 
-Ese calcaar herido es
+Ese calcańar herido es
 
-lo suficientemente doloroso. Contemplen a nuestro Seor seriamente herido en Su
+lo suficientemente doloroso. Contemplen a nuestro Seńor seriamente herido en Su
 
 naturaleza humana: fue traicionado, atado, acusado, abofeteado, azotado y
 
-escupido. Fue clavado a la cruz; pendi all sufriendo de sed y fiebre, y de
+escupido. Fue clavado a la cruz; pendió allí sufriendo de sed y fiebre, y de
 
-tinieblas y desercin. Atravesaron Sus manos y Sus pies; y por fin, perforaron
+tinieblas y deserción. Atravesaron Sus manos y Sus pies; y por fin, perforaron
 
-Su corazn y de inmediato fluy de l sangre y agua. Satans, por medio de la
+Su corazón y de inmediato fluyó de él sangre y agua. Satanás, por medio de la
 
-muerte, hiri el calcaar de la simiente de la mujer. Si bien es un asunto
+muerte, hirió el calcańar de la simiente de la mujer. Si bien es un asunto
 
-triste, cuando nuestro Seor pens en la resurreccin, en la salvacin de Sus
+triste, cuando nuestro Seńor pensó en la resurrección, en la salvación de Sus
 
-escogidos y en la conquista del mundo, le pareci que se trataba de algo leve,
+escogidos y en la conquista del mundo, le pareció que se trataba de algo leve,
 
-pues sufri la cruz, menospreciando el oprobio.
+pues “sufrió la cruz, menospreciando el oprobio”.
 
-Contemplen a la
+ˇContemplen a la
 
 simiente de la mujer que incluye adicionalmente a todo el pueblo creyente del
 
-Seor! Satans ha herido el calcaar de ellos hasta donde ha podido. A travs
+Seńor! Satanás ha herido el calcańar de ellos hasta donde ha podido. A través
 
-de las largas persecuciones ha estado acometiendo el calcaar de la iglesia. A
+de las largas persecuciones ha estado acometiendo el calcańar de la iglesia. A
 
-muchos de los santos el diablo los ha metido en prisin, y ha provocado que
+muchos de los santos el diablo los ha metido en prisión, y ha provocado que
 
 otros fueran torturados por causa de Cristo, pero sus almas no fueron vencidas.
 
-Slo pudo herir el taln de ellos pues su espritu se elev ms all de su
+Sólo pudo herir el talón de ellos pues su espíritu se elevó más allá de su
 
 alcance. Y ustedes, hoy, cuando son tentados y probados, y derribados, pueden
 
@@ -1076,53 +1076,53 @@ ser consolados porque
 
 la Cabeza
 
-de ustedes no est herida pues Jess reina en el cielo. Las aguas son negras y
+de ustedes no está herida pues Jesús reina en el cielo. Las aguas son negras y
 
-cubren el cuerpo, pero nuestra Cabeza est por encima de las olas y el cuerpo
+cubren el cuerpo, pero nuestra Cabeza está por encima de las olas y el cuerpo
 
-est a salvo. Las heridas de la serpiente se quedan en el calcaar sin
+está a salvo. Las heridas de la serpiente se quedan en el calcańar sin
 
-propagarse ms. El sufrimiento de la iglesia, por grande que sea, no es sino una
+propagarse más. El sufrimiento de la iglesia, por grande que sea, no es sino una
 
-leve afliccin que no es digna de ser comparada con el cada vez ms excelente y
+leve aflicción que no es digna de ser comparada con el cada vez más excelente y
 
-eterno peso de gloria. Gracias a Dios, el enemigo slo puede herir el calcaar
+eterno peso de gloria. Gracias a Dios, el enemigo sólo puede herir el calcańar
 
 de ustedes.
 
 Por el poder sutil de
 
-Satans la causa de Dios y de la verdad en el mundo puede ser herida
+Satanás la causa de Dios y de la verdad en el mundo puede ser herida
 
-tristemente por un tiempo en cuanto al calcaar de su progreso, pero no puede
+tristemente por un tiempo en cuanto al calcańar de su progreso, pero no puede
 
-ser herida en el corazn de su verdad. El reino avanza dolorosamente debido al
+ser herida en el corazón de su verdad. El reino avanza dolorosamente debido al
 
-calcaar herido; pero no falla sino que aun lisiado toma la presa. Alguna
+calcańar herido; pero no falla sino que aun lisiado toma la presa. Alguna
 
 doctrina que posiblemente pudo haber sido declarada de una manera cuestionable
 
-es estudiada ms plenamente y es dada a conocer ms cuidadosamente; entonces
+es estudiada más plenamente y es dada a conocer más cuidadosamente; entonces
 
-aun el calcaar herido obra para bien. Aunque la iglesia de Dios pudiera estar
+aun el calcańar herido obra para bien. Aunque la iglesia de Dios pudiera estar
 
-bajo una nube por un tiempo, con todo, prorrumpir con un mayor esplendor antes
+bajo una nube por un tiempo, con todo, prorrumpirá con un mayor esplendor antes
 
 de que pase mucho tiempo.
 
-T le herirs en el
+“Tú le herirás en el
 
-calcaar. Scale el mayor provecho, Satans, porque no es mucho! Todo lo que
+calcańar”. ˇSácale el mayor provecho, Satanás, porque no es mucho! Todo lo que
 
-t eres en tu punto de mayor grandeza es ser un roedor del calcaar, y nada
+tú eres en tu punto de mayor grandeza es ser un roedor del calcańar, y nada
 
-ms. No tienes permitido envenenar el calcaar, sino nicamente herirlo. Aunque
+más. No tienes permitido envenenar el calcańar, sino únicamente herirlo. Aunque
 
-el varn de Dios camine cojeando por un tiempo, y sufra en el punto donde se hundieron
+el varón de Dios camine cojeando por un tiempo, y sufra en el punto donde se hundieron
 
-los colmillos, con todo, apoyndose en su Amado, viene del desierto con toda
+los colmillos, con todo, apoyándose en su Amado, viene del desierto con toda
 
-seguridad y olvidando las heridas de su calcaar se regocija en los triunfos de
+seguridad y olvidando las heridas de su calcańar se regocija en los triunfos de
 
 su gloriosa Cabeza.
 
@@ -1130,173 +1130,173 @@ VII.
 
 Ahora
 
-llegamos a la sptima leccin. Hemos observado el triunfo limitado de Satans y
+llegamos a la séptima lección. Hemos observado el triunfo limitado de Satanás y
 
-observamos ahora SU CONDENACIN FINAL. Y pondr enemistad entre ti y la mujer,
+observamos ahora SU CONDENACIÓN FINAL. “Y pondré enemistad entre ti y la mujer,
 
-y entre tu simiente y la simiente suya; sta te herir en la cabeza. He aqu
+y entre tu simiente y la simiente suya; ésta te herirá en la cabeza”. He aquí
 
-el final del gran conflicto. Satans, que encabeza los poderes del mal en el
+el final del gran conflicto. Satanás, que encabeza los poderes del mal en el
 
-mundo, va a pelear hasta el fin con toda su astucia y fortaleza, y l va a
+mundo, va a pelear hasta el fin con toda su astucia y fortaleza, y él va a
 
-tener xito en cuanto a herir el calcaar del paladn contra quien lucha; pero
+tener éxito en cuanto a herir el calcańar del paladín contra quien lucha; pero
 
 al final, la simiente de la mujer ha de herir su cabeza. Esto fue realizado
 
-cuando el Seor Jess muri, y muriendo honr la ley, quit el pecado, dio
+cuando el Seńor Jesús murió, y muriendo honró la ley, quitó el pecado, dio
 
-muerte a la muerte y derrot al infierno. Cuando el grandioso Sustituto bebi
+muerte a la muerte y derrotó al infierno”. Cuando el grandioso Sustituto bebió
 
-la copa de la ira hasta las ltimas heces por cada alma creyente, cuando
+la copa de la ira hasta las últimas heces por cada alma creyente, cuando
 
-desquici la puerta del sepulcro y se la llev, as como Sansn carg con las
+desquició la puerta del sepulcro y se la llevó, así como Sansón cargó con las
 
-puertas de Gaza, con sus dos pilares y su cerrojo y todo; cuando abri las
+puertas de Gaza, con sus dos pilares y su cerrojo y todo; cuando abrió las
 
-puertas del cielo y llev cautiva a la cautividad, entonces en verdad la cabeza
+puertas del cielo y llevó cautiva a la cautividad, entonces en verdad la cabeza
 
-del dragn fue quebrantada. Qu puede hacer Satans ahora? No ha sido abatido
+del dragón fue quebrantada. żQué puede hacer Satanás ahora? żNo ha sido abatido
 
-el acusador de los hermanos? l hace todava lo mejor que puede en amargura y
+el acusador de los hermanos? Él hace todavía lo mejor que puede en amargura y
 
-malicia; pero el Cristo lo ha aplastado. S, el propio Cristo que fue
+malicia; pero el Cristo lo ha aplastado. Sí, el propio Cristo que fue
 
-despreciado y desechado entre los hombres, el varn de la corona de espinas y
+“despreciado y desechado entre los hombres”, el varón de la corona de espinas y
 
 del semblante desfigurado, el hombre de los hombros sangrantes y de las manos y
 
-los pies perforados, el varn que naci de una virgen, la simiente de la mujer,
+los pies perforados, el varón que nació de una virgen, la simiente de la mujer,
 
-ha quebrantado el poder del enemigo. Aleluya! Aleluya! l ha derribado al
+ha quebrantado el poder del enemigo. ˇAleluya! ˇAleluya! ˇÉl ha derribado al
 
-Prncipe de las tinieblas desde sus lugares elevados! Acaso no dijo l mismo:
+Príncipe de las tinieblas desde sus lugares elevados! żAcaso no dijo Él mismo:
 
-Yo vea a Satans caer del cielo como un rayo? l ha herido la cabeza de la
+“Yo veía a Satanás caer del cielo como un rayo”? Él ha herido la cabeza de la
 
 serpiente.
 
 Esto es realizado
 
-tambin en todos los creyentes y se realizar todava ms eficazmente.
+también en todos los creyentes y se realizará todavía más eficazmente.
 
-Hermanos, en aquel da cuando el Espritu Santo nos condujo a confiar en el
+Hermanos, en aquel día cuando el Espíritu Santo nos condujo a confiar en el
 
-Seor Jess, herimos la cabeza de la serpiente. l haba estado acostumbrado a
+Seńor Jesús, herimos la cabeza de la serpiente. Él había estado acostumbrado a
 
-mandar y nosotros a obedecer, y as el pecado tena dominio sobre nosotros;
+mandar y nosotros a obedecer, y así el pecado tenía dominio sobre nosotros;
 
-pero tan pronto como cremos en Cristo, ese dominio se acab y Dagn cay cortado
+pero tan pronto como creímos en Cristo, ese dominio se acabó y Dagón cayó cortado
 
-delante del arca del Seor. Veo a la serpiente levantarse por encima de m.
+delante del arca del Seńor. Veo a la serpiente levantarse por encima de mí.
 
-Esta gran pitn, con sus fauces abiertas, boquea ante m como si quisiese
+Esta gran pitón, con sus fauces abiertas, boquea ante mí como si quisiese
 
-engullirme rpido. Pero yo no tengo miedo. Oh, serpiente, en Cristo Jess mi
+engullirme rápido. Pero yo no tengo miedo. ˇOh, serpiente, en Cristo Jesús mi
 
-Seor yo te herido en tu cabeza pues yo tambin soy de la simiente de la mujer!
+Seńor yo te herido en tu cabeza pues yo también soy de la simiente de la mujer!
 
-La serpiente no puede levantarse en contra de la simiente escogida. Qu puede
+La serpiente no puede levantarse en contra de la simiente escogida. żQué puede
 
-hacer con una cabeza rota? l sabe que Dios ha decretado que todo creyente
+hacer con una cabeza rota? Él sabe que Dios ha decretado que todo creyente
 
-triunfe sobre l. Est escrito, El Dios de paz aplastar en breve a Satans
+triunfe sobre él. Está escrito, “El Dios de paz aplastará en breve a Satanás
 
-bajo vuestros pies. Una vez ms, aleluya!
+bajo vuestros pies”. Una vez más, ˇaleluya!
 
 Esta herida sobre la
 
 cabeza del maligno es un golpe mortal. Si hubiese sido herido en la cola, o en
 
-el cuello, habra podido sobrevivir; pero el Seor dar muerte por completo al
+el cuello, habría podido sobrevivir; pero el Seńor dará muerte por completo al
 
-reino del mal y aplastar su poder. El mal reinante cesar y la gracia reinar
+reino del mal y aplastará su poder. El mal reinante cesará y la gracia reinará
 
-por medio de la justicia para vida eterna. Habr un nuevo cielo y una nueva
+por medio de la justicia para vida eterna. Habrá un nuevo cielo y una nueva
 
-tierra donde mora la justicia. Cristo mismo, la simiente de la mujer, vendr
+tierra donde mora la justicia. Cristo mismo, la simiente de la mujer, vendrá
 
-una segunda vez y l reinar gloriosamente en la tierra entre Sus ancianos. En
+una segunda vez y Él reinará gloriosamente en la tierra entre Sus ancianos. ‘En
 
 Su majestad cabalga en triunfo por la causa de la verdad y de la justicia: y Su
 
-diestra exaltar a Su pueblo. Su pie hollar al enemigo de ellos. Que ustedes
+diestra exaltará a Su pueblo. Su pie hollará al enemigo de ellos’. ˇQue ustedes
 
-y yo nos encontremos en medio de la dichosa muchedumbre que vitorear a
+y yo nos encontremos en medio de la dichosa muchedumbre que vitoreará a
 
 la Simiente
 
 de la mujer en
 
-Su segundo advenimiento! Que reinemos con l en aquel da! Por la simiente de
+Su segundo advenimiento! ˇQue reinemos con Él en aquel día! Por la simiente de
 
-la mujer nos es restaurado el Paraso y es revertido todo el dao de la cada:
+la mujer nos es restaurado el Paraíso y es revertido todo el dańo de la caída:
 
-pues l restaura aquello que l no quit.
+pues Él restaura aquello que Él no quitó.
 
 Y ahora,
 
 mi
 
-querido oyente, de qu lado ests? Hay alguno de
+querido oyente, żde qué lado estás? żHay alguno de
 
-ustedes que piense que no morir ciertamente? Hablan como su padre y ustedes
+ustedes que piense que no morirá ciertamente? Hablan como su padre y ustedes
 
-son sus hijos. Dice alguno de ustedes: Dios es un gobernante severo? Ha
+son sus hijos. żDice alguno de ustedes: Dios es un gobernante severo? żHa
 
-dicho: No comis de todo rbol del huerto? En esto tambin eres como tu
+dicho: “No comáis de todo árbol del huerto?” En esto también eres como tu
 
-propio padre. Y te mueves de manera tortuosa y astuta? Eres dado a las
+propio padre. żY te mueves de manera tortuosa y astuta? żEres dado a las
 
-artimaas y a la poltica? Te atreves a decir una mentira, y luego forjas otra
+artimańas y a la política? żTe atreves a decir una mentira, y luego forjas otra
 
-para sustentar la primera? T eres de tu padre el diablo, pues haces sus obras.
+para sustentar la primera? Tú eres de tu padre el diablo, pues haces sus obras.
 
-Te opones a Dios y a la verdad y a la justicia? Y clamas por lo que llaman
+żTe opones a Dios y a la verdad y a la justicia? żY clamas por lo que llaman
 
-libertad, esto es, libertinaje y permiso para entregarte a tus propias
+“libertad”, esto es, libertinaje y permiso para entregarte a tus propias
 
-pasiones? Entonces t ests del lado del demonio. Aspiras a conocer el bien y
+pasiones? Entonces tú estás del lado del demonio. żAspiras a conocer el bien y
 
-el mal? Joven amigo, quisieras entrar en antros de perversin para ver el
+el mal? Joven amigo, żquisieras entrar en antros de perversión para ver el
 
-vicio y aprender sus caminos? Anhelas ver la vida, como dicen ellos? Ests
+vicio y aprender sus caminos? żAnhelas ver la “vida”, como dicen ellos? żEstás
 
-familiarizado con lo rastrero y lo impo? Ah!, entonces ests escuchando a ese
+familiarizado con lo rastrero y lo impío? ˇAh!, entonces estás escuchando a ese
 
-antiguo engaador que atrae a sus redes mortales. Yo te ruego que escapes de
+antiguo engańador que atrae a sus redes mortales. Yo te ruego que escapes de
 
 sus seducciones.
 
-Te va bien a ti? Miras
+żTe va bien a ti? żMiras
 
-a Jess, la simiente de la mujer? Ests confiando en l para romper el poder
+a Jesús, la simiente de la mujer? żEstás confiando en Él para romper el poder
 
-del enemigo? Deseas que el poder del pecado sea quebrantado en ti mismo? Deseas
+del enemigo? żDeseas que el poder del pecado sea quebrantado en ti mismo? żDeseas
 
-que su propia cabeza sea aplastada hasta quedar convertida en polvo? Anhelas
+que su propia cabeza sea aplastada hasta quedar convertida en polvo? żAnhelas
 
-con vehemencia liberarte del pecado y ser santo como Dios es santo? Ests
+con vehemencia liberarte del pecado y ser santo como Dios es santo? żEstás
 
-confiando en Jess para que esto mismo sea obrado en ti? Ah!, entonces ests
+confiando en Jesús para que esto mismo sea obrado en ti? ˇAh!, entonces estás
 
-del lado vencedor. La victoria ser tuya por medio de la sangre del Cordero.
+del lado vencedor. La victoria será tuya por medio de la sangre del Cordero.
 
 Hemos encontrado mucho
 
 evangelio en la maravillosa sentencia pronunciada en contra de la serpiente
 
-antigua, el demonio; pero slo hemos rozado la superficie. Al Dios eterno sea
+antigua, el demonio; pero sólo hemos rozado la superficie. Al Dios eterno sea
 
-gloria, por los siglos de los siglos. Amn.
+gloria, por los siglos de los siglos. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Gnesis 3.
+leída antes del sermón: Génesis 3.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 17/Agosto/2014
 

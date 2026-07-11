@@ -1,14 +1,14 @@
 # Sermón 2767 | Sermón 2767
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Jess en
+Jesús en
 
-Getseman
+Getsemaní
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -18,79 +18,79 @@ DEL
 
 DOMINGO 6 DE MARZO DE 1881
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
-Y LEDO TAMBIN ALL MISMO EL 23 DE FEBRERO DE
+Y LEÍDO TAMBIÉN ALLÍ MISMO EL 23 DE FEBRERO DE
 
 1902.
 
-Habiendo
+“Habiendo
 
-dicho Jess estas cosas, sali con sus discpulos al otro lado del torrente de
+dicho Jesús estas cosas, salió con sus discípulos al otro lado del torrente de
 
-Cedrn, donde haba un huerto, en el cual entr con sus discpulos. Y tambin
+Cedrón, donde había un huerto, en el cual entró con sus discípulos. Y también
 
-Judas, el que le entregaba, conoca aquel lugar, porque muchas veces Jess se
+Judas, el que le entregaba, conocía aquel lugar, porque muchas veces Jesús se
 
-haba reunido all con sus discpulos. Juan 18: 1, 2.
+había reunido allí con sus discípulos”. Juan 18: 1, 2.
 
-Yo recuerdo haber ledo
+Yo recuerdo haber leído
 
 en alguna parte, aunque en este momento no puedo recordar la fuente, que
 
-Betania uno habra pensado que el Salvador ira a ese lugar para pasar la
+Betania –uno habría pensado que el Salvador iría a ese lugar para pasar la
 
-noche, en casa de Mara y de su hermana Marta- estaba del lado ms alejado del
+noche, en casa de María y de su hermana Marta- estaba del lado más alejado del
 
-Monte de los Olivos, y estaba fuera de los lmites de la ciudad de Jerusaln.
+Monte de los Olivos, y estaba fuera de los límites de la ciudad de Jerusalén.
 
 Ahora bien, en la pascua, era obligatorio que todos los que guardaban la fiesta
 
-pasaran toda la noche dentro los lmites de la ciudad, y nuestro divino Seor y
+pasaran toda la noche dentro los límites de la ciudad, y nuestro divino Seńor y
 
 Maestro, quien era un escrupuloso observante de cada punto de la antigua ley,
 
-no pas al otro lado del monte, sino que permaneci dentro del rea que estaba tcnicamente
+no pasó al otro lado del monte, sino que permaneció dentro del área que estaba técnicamente
 
-considerada como parte o porcin de Jerusaln; as que Su decisin de ir a
+considerada como parte o porción de Jerusalén; así que Su decisión de ir a
 
-Getseman era, en parte, para dar cumplimiento a la ley ceremonial, y, por esa
+Getsemaní era, en parte, para dar cumplimiento a la ley ceremonial, y, por esa
 
-razn, no pas ms all ni busc ningn otro refugio.
+razón, no pasó más allá ni buscó ningún otro refugio.
 
-Nuestro Seor saba
+Nuestro Seńor sabía
 
-tambin que en esa precisa noche, l sera entregado en manos de Sus enemigos
+también que en esa precisa noche, Él sería entregado en manos de Sus enemigos
 
 y, por tanto, necesitaba estar preparado mediante un tiempo especial de
 
-devocin para la terrible ordala que estaba a punto de soportar. Aquella noche
+devoción para la terrible ordalía que estaba a punto de soportar. Aquella noche
 
-de la pascua iba a ser una noche memorable por ese motivo, por lo que l quera
+de la pascua iba a ser una noche memorable por ese motivo, por lo que Él quería
 
-guardarla de una manera particularmente sagrada, pero como iba a ser todava
+guardarla de una manera particularmente sagrada, pero como iba a ser todavía
 
-ms memorable como el tiempo del comienzo de los sufrimientos de Su pasin, resolvi
+más memorable como el tiempo del comienzo de los sufrimientos de Su pasión, resolvió
 
-pasar la noche entera en oracin a Su Padre. En ese acto nos recuerda a Jacob
+pasar la noche entera en oración a Su Padre. En ese acto nos recuerda a Jacob
 
-junto al vado de Jaboc, quien, cuando tena que afrontar duras pruebas al siguiente
+junto al vado de Jaboc, quien, cuando tenía que afrontar duras pruebas al siguiente
 
-da pas la noche luchando en oracin; y este Hombre mayor que Jacob pas Su
+día pasó la noche luchando en oración; y este Hombre mayor que Jacob pasó Su
 
 noche, no junto al vado de Jaboc, sino junto al negro y pestilente torrente de
 
-Cedrn, y all luch con unas fuerzas muy superiores a las que el patriarca
+Cedrón, y allí luchó con unas fuerzas muy superiores a las que el patriarca
 
-tuvo que emplear en su notable forcejeo nocturno con el ngel del pacto. Yo
+tuvo que emplear en su notable forcejeo nocturno con el Ángel del pacto. Yo
 
-quiero que intenten ir hasta Getseman en el pensamiento, y creo que deben
+quiero que intenten ir hasta Getsemaní en el pensamiento, y creo que deben
 
-sentirse estimulados a ir all ya que nuestro texto dice: Muchas veces Jess
+sentirse estimulados a ir allá ya que nuestro texto dice: “Muchas veces Jesús
 
-se haba reunido all con sus discpulos.
+se había reunido allí con sus discípulos”.
 
 I.
 
@@ -98,23 +98,23 @@ Y,
 
 primero, hasta donde podamos hacerlo en el pensamiento, VEAMOS EL LUGAR. Yo no
 
-he visto nunca el huerto de Getseman. Muchos viajeros nos informan que lo han
+he visto nunca el huerto de Getsemaní. Muchos viajeros nos informan que lo han
 
-visto, y han descrito lo que vieron all. Mi impresin es que ninguno de ellos
+visto, y han descrito lo que vieron allá. Mi impresión es que ninguno de ellos
 
-vio jams el sitio real, y que no queda ningn vestigio de l. Hay ciertos
+vio jamás el sitio real, y que no queda ningún vestigio de él. Hay ciertos
 
-vetustos olivos dentro de un terreno acotado que comnmente se piensa que
+vetustos olivos dentro de un terreno acotado que comúnmente se piensa que
 
 crecieron en el tiempo del Salvador; pero eso pareciera ser muy poco probable
 
-pues Josefo comenta que todos los rboles que haba en los alrededores de
+pues Josefo comenta que todos los árboles que había en los alrededores de
 
-Jerusaln fueron derribados, muchos de ellos para ser convertidos en cruces
+Jerusalén fueron derribados, muchos de ellos para ser convertidos en cruces
 
-para la crucifixin de los judos, y otros para ser utilizados en la
+para la crucifixión de los judíos, y otros para ser utilizados en la
 
-construccin de las fortificaciones con las que el emperador romano siti a la
+construcción de las fortificaciones con las que el emperador romano sitió a la
 
 ciudad sentenciada a la ruina. No pareciera que haya quedado nada que pudiera
 
@@ -122,27 +122,27 @@ ser una reliquia verdadera de la antigua ciudad, y no puedo imaginar que los
 
 olivos corrieran una suerte diferente. De lo que han comentado algunos hermanos
 
-que han ido al famoso huerto de Getseman yo concluyo que no es muy til ir
+que han ido al famoso huerto de Getsemaní yo concluyo que no es muy útil ir
 
-all para las devociones personales. Una persona que planeaba pasar una porcin
+allá para las devociones personales. Una persona que planeaba pasar una porción
 
-de su da domingo all y que esperaba disfrutar en ese lugar de mucha comunin
+de su día domingo allá y que esperaba disfrutar en ese lugar de mucha comunión
 
 con Cristo, dijo que fue conducido a aprender muy amargamente el significado de
 
-las palabras que nuestro Salvador le dijo a la mujer, junto al pozo de Sicar: La
+las palabras que nuestro Salvador le dijo a la mujer, junto al pozo de Sicar: “La
 
-hora viene cuando ni en este monte ni en Jerusaln adoraris al Padre La hora
+hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre… La hora
 
-viene, y ahora es, cuando los verdaderos adoradores adorarn al Padre en
+viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en
 
-espritu y en verdad; porque tambin el Padre tales adoradores busca que le
+espíritu y en verdad; porque también el Padre tales adoradores busca que le
 
-adoren.
+adoren”.
 
-Yo no quiero averiguar dnde
+Yo no quiero averiguar dónde
 
-estaba exactamente Getseman; me basta saber que estaba en un costado del Monte
+estaba exactamente Getsemaní; me basta saber que estaba en un costado del Monte
 
 de los Olivos, y que
 
@@ -150,113 +150,113 @@ era un sitio muy apartado.
 
 El concepto que me formo del lugar es el resultado de haber residido,
 
-durante muchos inviernos, en un pequeo pueblo del sur de Francia donde los
+durante muchos inviernos, en un pequeńo pueblo del sur de Francia donde los
 
-olivos crecen a la perfeccin y donde, en las laderas de las colinas, me he
+olivos crecen a la perfección y donde, en las laderas de las colinas, me he
 
-sentado a menudo en medio de los olivares, y me he dicho: Getseman debe de
+sentado a menudo en medio de los olivares, y me he dicho: “Getsemaní debe de
 
-haber sido un lugar parecido a ste. Estoy seguro de que lo era, ya que un
+haber sido un lugar parecido a éste”. Estoy seguro de que lo era, ya que un
 
 huerto de olivos en la ladera de una colina tiene que ser necesariamente muy
 
-similar a otro. Las colinas estn cubiertas de terrazas, una ms alta que la
+similar a otro. Las colinas están cubiertas de terrazas, una más alta que la
 
 otra, cada una de ellas poseyendo raras veces una anchura superior a ocho, diez
 
 o doce pies; luego subes, digamos, cinco, seis, siete u ocho pies y encuentras
 
-otra terraza, y as sucesivamente por toda la colina, y en esas terrazas crecen
+otra terraza, y así sucesivamente por toda la colina, y en esas terrazas crecen
 
 los olivos.
 
 Uno de los encantos de
 
-un huerto de olivos de ese tipo es que tan pronto como entras en l, puedes
+un huerto de olivos de ese tipo es que tan pronto como entras en él, puedes
 
-sentarte al abrigo del terrapln ubicado al fondo de cualquiera de las terrazas
+sentarte al abrigo del terraplén ubicado al fondo de cualquiera de las terrazas
 
-tal vez en un ngulo en el que ests protegido del viento- y estars
+–tal vez en un ángulo en el que estés protegido del viento- y estarás
 
 completamente oculto a la vista de todos los observadores. Ha habido personas
 
-que se han sentado a unos escasos metros de m, de cuya presencia no tuve nunca
+que se han sentado a unos escasos metros de mí, de cuya presencia no tuve nunca
 
-la menor idea. Un da domingo, despus de haber pasado con otras personas un
+la menor idea. Un día domingo, después de haber pasado con otras personas un
 
-poco de tiempo en oracin, advert lo que pareca ser un sombrero de copa de un
+poco de tiempo en oración, advertí lo que parecía ser un sombrero de copa de un
 
-ciudadano ingls que se iba alejando, a una corta distancia de nosotros, justo
+ciudadano inglés que se iba alejando, a una corta distancia de nosotros, justo
 
-encima de una de las terrazas. Pronto reconoc a la cabeza que llevaba el sombrero
+encima de una de las terrazas. Pronto reconocí a la cabeza que llevaba el sombrero
 
-como la de un hermano cristiano a quien yo conoca, y descubr que haba estado
+como la de un hermano cristiano a quien yo conocía, y descubrí que había estado
 
-caminando all de un lado a otro estudiando su sermn para la tarde. l no nos
+caminando allí de un lado a otro estudiando su sermón para la tarde. Él no nos
 
-haba notado, excepto que haba odo algunos sonidos que le haban parecido
+había notado, excepto que había oído algunos sonidos que le habían parecido
 
-como oracin y alabanza. Muchos de ustedes podran estar en un huerto de
+como oración y alabanza. Muchos de ustedes podrían estar en un huerto de
 
-olivos, pero, a menos que enviaran alguna seal de reconocimiento para sus
+olivos, pero, a menos que enviaran alguna seńal de reconocimiento para sus
 
-amigos, ellos no se daran cuenta de que alguien ms se encontraba all; y bajo
+amigos, ellos no se darían cuenta de que alguien más se encontraba allí; y bajo
 
 el espeso aunque liviano follaje, con los destellos de la luz solar que se
 
 filtra, o en la noche, bajo un tipo de color cenizo y gris, con la luz de la
 
-luna proyectando a travs del follaje sus rayos de plata, no puedo imaginar un
+luna proyectando a través del follaje sus rayos de plata, no puedo imaginar un
 
-lugar de retiro ms deleitoso, un lugar donde uno se sentira ms seguro de
+lugar de retiro más deleitoso, un lugar donde uno se sentiría más seguro de
 
 estar muy aislado -aun cuando alguien pudiera estar muy cerca de ti- un lugar
 
-donde podras sentirte libre de expresar tus pensamientos y tus oraciones,
+donde podrías sentirte libre de expresar tus pensamientos y tus oraciones,
 
-porque, de cualquier manera, para tu propia percepcin, pareceras estar
+porque, de cualquier manera, para tu propia percepción, parecerías estar
 
 completamente solo.
 
 No puedo evitar pensar
 
-tambin que a nuestro Salvador le gustaba estar entre los olivos,
+también que a nuestro Salvador le gustaba estar entre los olivos,
 
 debido a la figura muy congenial del olivo.
 
 Se
 
-retuerce y se enrolla y se contorsiona como si estuviese en una agona. Tiene
+retuerce y se enrolla y se contorsiona como si estuviese en una agonía. Tiene
 
 que extraer el aceite del duro pedernal, y pareciera hacerlo con gran trabajo y
 
 fatiga; la figura misma de muchos olivos pareciera sugerir ese pensamiento.
 
-Entonces, un huerto de olivos es un lugar de doloroso placer y de fructfero
+Entonces, un huerto de olivos es un lugar de doloroso placer y de fructífero
 
 trabajo, donde el aceite es rico y graso, pero donde ha de invertirse mucho
 
-esfuerzo en su extraccin desde el duro suelo sobre el que est plantado el
+esfuerzo en su extracción desde el duro suelo sobre el que está plantado el
 
-olivo. Yo creo que otros han sentido respecto a sto lo mismo que yo he
+olivo. Yo creo que otros han sentido respecto a ésto lo mismo que yo he
 
-sentido, es decir, que no hay ningn rbol que parezca ms sugerente de un
+sentido, es decir, que no hay ningún árbol que parezca más sugerente de un
 
-sentimiento de identificacin con un ser sufriente que un olivo, ninguna sombra
+sentimiento de identificación con un ser sufriente que un olivo, ninguna sombra
 
-que sea ms dulcemente pensativa, ms apropiada para los momentos de afliccin
+que sea más dulcemente pensativa, más apropiada para los momentos de aflicción
 
-y para la hora de devota meditacin. No me sorprende, por tanto, que Jess
+y para la hora de devota meditación. No me sorprende, por tanto, que Jesús
 
-buscara el huerto de Getseman para poder estar completamente solo, para derramar
+buscara el huerto de Getsemaní para poder estar completamente solo, para derramar
 
-Su alma delante de Dios, y no obstante, poder contar con algunos compaeros a
+Su alma delante de Dios, y no obstante, poder contar con algunos compańeros a
 
 una corta distancia sin ser molestado por su inmediata presencia.
 
-Una razn para que l
+Una razón para que Él
 
-haya ido a ese huerto en particular era porque haba ido all con tanta
+haya ido a ese huerto en particular era porque había ido allí con tanta
 
 frecuencia que
 
@@ -264,107 +264,107 @@ le encantaba estar en ese
 
 viejo lugar familiar.
 
-No sientes algo de eso en tu propio lugar especial
+żNo sientes algo de eso en tu propio lugar especial
 
-de oracin? No me gusta tanto la lectura en las Biblias de otras personas como
+de oración? No me gusta tanto la lectura en las Biblias de otras personas como
 
-en mi propia Biblia. No s a qu se deba, pero a m me gusta mi propia Biblia
+en mi propia Biblia. No sé a qué se deba, pero a mí me gusta mi propia Biblia
 
-de estudio ms que ninguna otra; y si tengo que usar alguna Biblia ms pequea,
+de estudio más que ninguna otra; y si tengo que usar alguna Biblia más pequeńa,
 
-prefiero una que tenga las palabras en el mismo lugar de la pgina que en mi
+prefiero una que tenga las palabras en el mismo lugar de la página que en mi
 
-Biblia, para poder encontrarlas con facilidad; y yo no s si ustedes sienten lo
+Biblia, para poder encontrarlas con facilidad; y yo no sé si ustedes sienten lo
 
 mismo, pero usualmente puedo orar mejor en un determinado lugar. Hay ciertos
 
 sitios en los que me deleita estar cuando me acerco a Dios; hay alguna
 
-asociacin de anteriores entrevistas con mi Padre Celestial vinculadas con
+asociación de anteriores entrevistas con mi Padre Celestial vinculadas con
 
-ellos que hace que el viejo silln sea el mejor lugar en el cual uno pueda
+ellos que hace que el viejo sillón sea el mejor lugar en el cual uno pueda
 
-ponerse de rodillas. Entonces me parece que al Salvador le encantaba Getseman
+ponerse de rodillas. Entonces me parece que al Salvador le encantaba Getsemaní
 
-porque haba ido all con mucha frecuencia con Sus discpulos; y, por tanto,
+porque había ido allí con mucha frecuencia con Sus discípulos; y, por tanto,
 
-convierte al lugar en el sitio sagrado donde ser derramada delante de Su Padre
+convierte al lugar en el sitio sagrado donde será derramada delante de Su Padre
 
-Su ltima agona de oracin.
+Su última agonía de oración.
 
 II.
 
 Sin
 
-embargo, eso fue slo la introduccin al tema principal de nuestras meditaciones;
+embargo, eso fue sólo la introducción al tema principal de nuestras meditaciones;
 
-entonces, ahora, CONTEMPLEMOS AL SALVADOR EN GETSEMAN PARA QUE PODAMOS
+entonces, ahora, CONTEMPLEMOS AL SALVADOR EN GETSEMANÍ PARA QUE PODAMOS
 
 IMITARLO.
 
 Y, primero, hemos de
 
-imitar a nuestro bendito Seor en esto: en que
+imitar a nuestro bendito Seńor en esto: en que
 
-l frecuentemente busc y goz de la soledad.
+Él frecuentemente buscó y gozó de la soledad.
 
 La Suya
 
 era una vida sumamente
 
-atareada; tena que hacer muchsimo ms que lo que tenemos que hacer ustedes y
+atareada; tenía que hacer muchísimo más que lo que tenemos que hacer ustedes y
 
-yo; sin embargo, encontraba abundante tiempo para la oracin en privado. l era
+yo; sin embargo, encontraba abundante tiempo para la oración en privado. Él era
 
-mucho ms santo de lo que somos cualquiera de nosotros; con todo, l se daba
+mucho más santo de lo que somos cualquiera de nosotros; con todo, Él se daba
 
-cuenta de Su necesidad de la oracin privada y de la meditacin. l era mucho
+cuenta de Su necesidad de la oración privada y de la meditación. Él era mucho
 
-ms sabio que lo que nosotros seremos jams; sin embargo, senta la necesidad
+más sabio que lo que nosotros seremos jamás; sin embargo, sentía la necesidad
 
-de retirarse a la soledad para la comunin con Su Padre. l tena mucho poder
+de retirarse a la soledad para la comunión con Su Padre. Él tenía mucho poder
 
-sobre S mismo, poda controlarse y sosegarse mucho ms fcilmente de lo que
+sobre Sí mismo, podía controlarse y sosegarse mucho más fácilmente de lo que
 
-nosotros podemos; con todo, senta que deba quedarse solo con frecuencia en
+nosotros podemos; con todo, sentía que debía quedarse solo con frecuencia en
 
-medio de las distracciones del mundo. Sera bueno que estuviramos solos con
+medio de las distracciones del mundo. Sería bueno que estuviéramos solos con
 
-mayor frecuencia; estamos tan ocupados, tan involucrados en esta reunin de comit
+mayor frecuencia; estamos tan ocupados, tan involucrados en esta reunión de comité
 
 o en aquella otra, en el adiestramiento de obreros, en la escuela dominical, en
 
-la predicacin, en plticas, en visitas, en chismes, en todo tipo de cosas,
+la predicación, en pláticas, en visitas, en chismes, en todo tipo de cosas,
 
-buenas, malas o indiferentes, que no tenemos ningn tiempo disponible para el
+buenas, malas o indiferentes, que no tenemos ningún tiempo disponible para el
 
 debido cultivo de nuestra vida espiritual. Corremos de un lugar a otro sin
 
 tener el tiempo apropiado para descansar; pero, hermanos y hermanas, si
 
-queremos ser fuertes, si tenemos la intencin de asemejarnos a Jess, nuestro
+queremos ser fuertes, si tenemos la intención de asemejarnos a Jesús, nuestro
 
-Seor y Salvador, tenemos que tener nuestro Getseman, nuestro lugar de secreto
+Seńor y Salvador, tenemos que tener nuestro Getsemaní, nuestro lugar de secreto
 
 retiro donde podamos estar a solas con nuestro Dios. Pienso que fue Lutero el
 
-que dijo: Hoy tengo ante m un duro da de trabajo; me consumir muchas horas
+que dijo: “Hoy tengo ante mí un duro día de trabajo; me consumirá muchas horas
 
-y habr una severa lucha, as que tengo que disponer de al menos tres horas de
+y habrá una severa lucha, así que tengo que disponer de al menos tres horas de
 
-oracin para poder acumular la energa suficiente para desempear mi tarea. Ah!,
+oración para poder acumular la energía suficiente para desempeńar mi tarea”. ˇAh!,
 
-nosotros no actuamos de esa sabia manera en nuestros das; sentimos como si no
+nosotros no actuamos de esa sabia manera en nuestros días; sentimos como si no
 
-pudiramos encontrar un tiempo para la oracin privada; pero, si tuviramos ms
+pudiéramos encontrar un tiempo para la oración privada; pero, si tuviéramos más
 
-comunin con Dios, tendramos una mayor influencia en los hombres.
+comunión con Dios, tendríamos una mayor influencia en los hombres.
 
 Pero nuestro bendito
 
 Maestro ha de ser imitado especialmente en el hecho de que
 
-l busc la soledad cuando estaba a punto de entrar en el gran
+Él buscó la soledad cuando estaba a punto de entrar en el gran
 
 conflicto de Su vida.
 
@@ -372,427 +372,427 @@ Justo entonces, cuando Judas estaba a punto de darle
 
 el beso del traidor, cuando los escribas y los fariseos estaban a punto de acosarlo
 
-hasta la cruz, fue entonces cuando sinti que tena que retirarse a Getseman y
+hasta la cruz, fue entonces cuando sintió que tenía que retirarse a Getsemaní y
 
-estar solo en oracin con Su Padre. Qu hiciste, mi querido hermano, cuando
+estar solo en oración con Su Padre. żQué hiciste, mi querido hermano, cuando
 
 percibiste la prueba? Pues bien, buscaste a un amigo que se identificara
 
 contigo. No te voy a culpar por desear las consolaciones de la verdadera
 
-amistad, pero no te voy a encomiar si las pones en el lugar de la comunin con
+amistad, pero no te voy a encomiar si las pones en el lugar de la comunión con
 
-Dios. Temes, incluso ahora, alguna calamidad inminente? Qu ests haciendo
+Dios. żTemes, incluso ahora, alguna calamidad inminente? żQué estás haciendo
 
 para enfrentarla? No voy a sugerirte que descuides ciertas precauciones, pero
 
-te aconsejara que la primera y la mejor precaucin tuya sea dirigirte a tu
+te aconsejaría que la primera y la mejor precaución tuya sea dirigirte a tu
 
-Dios en oracin. As como los dbiles conejos encuentran refugio en la roca
+Dios en oración. Así como los débiles conejos encuentran refugio en la roca
 
-slida, y as como las palomas se alejan volando a su hogar en el palomar, as
+sólida, y así como las palomas se alejan volando a su hogar en el palomar, así
 
-tambin cuando los cristianos esperan alguna tribulacin, deberan volar
+también cuando los cristianos esperan alguna tribulación, deberían volar
 
 directamente a su Dios sobre las alas del miedo y de la fe. Tu gran fortaleza
 
-no radica en tu pelo, pues de lo contrario podras sentirte tan orgulloso como
+no radica en tu pelo, pues de lo contrario podrías sentirte tan orgulloso como
 
-Sansn en los das de sus victorias; tu gran fortaleza radica en tu Dios. Por
+Sansón en los días de sus victorias; tu gran fortaleza radica en tu Dios. Por
 
-tanto, acude presuroso a l y pdele ayuda en esta tu hora de necesidad.
+tanto, acude presuroso a Él y pídele ayuda en esta tu hora de necesidad.
 
-Por decirlo as, algunos
+Por decirlo así, algunos
 
-de ustedes oran cuando estn en el Calvario, pero no en Getseman. Quiero
+de ustedes oran cuando están en el Calvario, pero no en Getsemaní. Quiero
 
-decir, oran cuando les sobreviene la tribulacin, pero no cuando sta est en
+decir, oran cuando les sobreviene la tribulación, pero no cuando ésta está en
 
-camino; sin embargo, su Maestro les ensea aqu que para vencer en su Calvario
+camino; sin embargo, su Maestro les enseńa aquí que para vencer en su Calvario
 
-tienen que comenzar luchando en su Getseman. Cuando todava no es sino la
+tienen que comenzar luchando en su Getsemaní. Cuando todavía no es sino la
 
-sombra de su tribulacin venidera la que abre sus negras alas sobre ustedes,
+sombra de su tribulación venidera la que abre sus negras alas sobre ustedes,
 
-clamen a Dios pidiendo ayuda. Cuando no estn vaciando todava la amarga copa
+clamen a Dios pidiendo ayuda. Cuando no están vaciando todavía la amarga copa
 
-sino que estn nicamente sorbiendo las primeras gotas del ajenjo y de la hiel,
+sino que están únicamente sorbiendo las primeras gotas del ajenjo y de la hiel,
 
-comiencen aun entonces a orar: No sea como yo quiero, sino como t, oh Padre
+comiencen aun entonces a orar: “ˇNo sea como yo quiero, sino como tú, oh Padre
 
-mo! As estarn mejor capacitados para beber de la copa hasta sus heces
+mío!” Así estarán mejor capacitados para beber de la copa hasta sus heces
 
 cuando Dios la coloque en su mano.
 
-Podemos imitar tambin a
+Podemos imitar también a
 
-nuestro Seor, hasta donde seamos capaces de hacerlo,
+nuestro Seńor, hasta donde seamos capaces de hacerlo,
 
-en el hecho de que tom a Sus discpulos con l.
+en el hecho de que tomó a Sus discípulos con Él.
 
 De cualquier
 
 manera, si no lo imitamos en este sentido, ciertamente podemos admirarlo, pues
 
-l llev a Sus discpulos consigo, pienso, con dos propsitos en mente.
+Él llevó a Sus discípulos consigo, pienso, con dos propósitos en mente.
 
 Primero, para el bien de ellos. Recuerden, hermanos y hermanas, que el siguiente
 
-da deba ser de tribulacin para ellos as como para l mismo. l deba ser
+día debía ser de tribulación para ellos así como para Él mismo. Él debía ser
 
-sometido al juicio y ser condenado, pero ellos deban ser probados severamente en
+sometido al juicio y ser condenado, pero ellos debían ser probados severamente en
 
-su fidelidad hacia l al ver a su Seor y Maestro entregado a una muerte
+su fidelidad hacia Él al ver a su Seńor y Maestro entregado a una muerte
 
-vergonzosa. As que los llev consigo para que ellos tambin oraran, para que
+vergonzosa. Así que los llevó consigo para que ellos también oraran, para que
 
 aprendieran a orar oyendo Sus maravillosas oraciones, para que vigilaran y oraran
 
-para que no entraran en tentacin. Ahora, algunas veces, en tu hora especial de
+para que no entraran en tentación. Ahora, algunas veces, en tu hora especial de
 
-tribulacin, yo creo que sera para el bien de otros que les comunicaras la
+tribulación, yo creo que sería para el bien de otros que les comunicaras la
 
-historia de tu angustia, y les pidieras que se unieran a ti en oracin con
+historia de tu angustia, y les pidieras que se unieran a ti en oración con
 
 respecto a ella. Como yo he hecho eso a menudo, puedo exhortarlos a hacer lo mismo.
 
-Descubr que fue una gran bendicin, en un lgubre da de mi vida, que les pidiera
+Descubrí que fue una gran bendición, en un lúgubre día de mi vida, que les pidiera
 
-a mis hijos -aunque eran todava unos adolescentes- que entraran a mi aposento,
+a mis hijos -aunque eran todavía unos adolescentes- que entraran a mi aposento,
 
-y que oraran con su padre en el tiempo de su tribulacin. S que fue bueno para
+y que oraran con su padre en el tiempo de su tribulación. Sé que fue bueno para
 
-ellos, y sus oraciones fueron de gran ayuda para m; pero actu como lo hice,
+ellos, y sus oraciones fueron de gran ayuda para mí; pero actué como lo hice,
 
 en parte para que ellos se hicieran cargo de su parte en las responsabilidades
 
-domsticas, para que llegaran a conocer al Dios de su padre, y aprendieran a
+domésticas, para que llegaran a conocer al Dios de su padre, y aprendieran a
 
-confiar en l en su tiempo de tribulacin.
+confiar en Él en su tiempo de tribulación.
 
 Pero nuestro Salvador
 
-llev tambin consigo a Sus discpulos a Getseman para que ayudaran a
+llevó también consigo a Sus discípulos a Getsemaní para que ayudaran a
 
 consolarle; y, en este sentido, debemos imitarlo debido a Su maravillosa
 
-humildad. Si todos esos discpulos hubieran hecho todo lo posible, de qu
+humildad. Si todos esos discípulos hubieran hecho todo lo posible, żde qué
 
-habra valido? Pero lo que verdaderamente hicieron fue muy desalentador para
+habría valido? Pero lo que verdaderamente hicieron fue muy desalentador para
 
-Cristo, en vez de ser de alguna utilidad para l. Se quedaron dormidos cuando
+Cristo, en vez de ser de alguna utilidad para Él. Se quedaron dormidos cuando
 
-debieron haber velado con su Seor, y no le ayudaron con sus oraciones como
+debieron haber velado con su Seńor, y no le ayudaron con sus oraciones como
 
-podran haberlo hecho. Es digno de notarse que no les pidi que oraran con l.
+podrían haberlo hecho. Es digno de notarse que no les pidió que oraran con Él.
 
-Les pidi que velaran y oraran para que no cayeran en tentacin, pero les dijo:
+Les pidió que velaran y oraran para que no cayeran en tentación, pero les dijo:
 
-As que no habis podido velar conmigo una hora? No les dijo: As que no
+“żAsí que no habéis podido velar conmigo una hora?” No les dijo: “żAsí que no
 
-habis podido
+habéis podido
 
 orar
 
-conmigo una hora?
+conmigo una hora?”
 
-Saba que no podan hacerlo. Qu hombre mortal habra podido orar en una hora
+Sabía que no podían hacerlo. żQué hombre mortal habría podido orar en una hora
 
-como aquella, cuando grandes gotas de sudor de sangre puntuaban cada prrafo de
+como aquella, cuando grandes gotas de sudor de sangre puntuaban cada párrafo de
 
-Su peticin? No; ellos no podan orar con l, pero hubieran podido velar con
+Su petición? No; ellos no podían orar con Él, pero hubieran podido velar con
 
-l; sin embargo, tampoco hicieron eso. Queridos amigos, cuando les sobrevenga alguna
+Él; sin embargo, tampoco hicieron eso. Queridos amigos, cuando les sobrevenga alguna
 
-tribulacin muy grande, sera bueno algunas veces que les pidieran a algunos
+tribulación muy grande, sería bueno algunas veces que les pidieran a algunos
 
 hermanos y hermanas que no pueden hacer mucho, pero que pueden hacer algo, que
 
-vengan y velen con ustedes y oren con ustedes. Si no les hace ningn bien a
+vengan y velen con ustedes y oren con ustedes. Si no les hace ningún bien a
 
-ustedes, ser bueno para ellos; pero les har bien a ustedes tambin, estoy
+ustedes, será bueno para ellos; pero les hará bien a ustedes también, estoy
 
-seguro de ello. A menudo debo confesarlo- cuando me he sentido deprimido a
+seguro de ello. A menudo –debo confesarlo- cuando me he sentido deprimido a
 
-causa de mi enfermedad ms reciente, he contado con dos hermanos que se han
+causa de mi enfermedad más reciente, he contado con dos hermanos que se han
 
-puesto de rodillas conmigo en oracin, y sus honestas, sinceras y fervorosas oraciones
+puesto de rodillas conmigo en oración, y sus honestas, sinceras y fervorosas oraciones
 
 en mi estudio me han propulsado con frecuencia hasta la dicha y la paz. Yo creo
 
-que les ha hecho bien a ellos tambin; s que a m me ha hecho bien, y estoy
+que les ha hecho bien a ellos también; sé que a mí me ha hecho bien, y estoy
 
-seguro de que t podras ser a menudo de bendicin para otros si no te
+seguro de que tú podrías ser a menudo de bendición para otros si no te
 
-importara confesarles que ests deprimido y triste en el corazn. Di: entra en
+importara confesarles que estás deprimido y triste en el corazón. Di: “entra en
 
-mi habitacin, y vela conmigo una hora; y a esa solicitud puedes agregar esta
+mi habitación, y vela conmigo una hora”; y a esa solicitud puedes agregar esta
 
-otra: Entra y ora conmigo, pues algunos de ellos pueden orar tan bien como t
+otra: “Entra y ora conmigo”, pues algunos de ellos pueden orar tan bien como tú
 
-lo haces e incluso mejor. Entonces imita al Salvador esforzndote no slo en
+lo haces e incluso mejor. Entonces imita al Salvador esforzándote no sólo en
 
-orar t mismo, sino en llamar en tu ayuda, cuando sea inminente una gran
+orar tú mismo, sino en llamar en tu ayuda, cuando sea inminente una gran
 
-tribulacin, a la legin de los elegidos de Dios que oran.
+tribulación, a la legión de los elegidos de Dios que oran.
 
-Podemos seguir tambin
+Podemos seguir también
 
-el ejemplo de nuestro Seor en otra direccin, es decir, que cuando oramos en presencia
+el ejemplo de nuestro Seńor en otra dirección, es decir, que cuando oramos en presencia
 
-de una gran tribulacin
+de una gran tribulación
 
 es bueno orar con
 
 mucha importunidad.
 
-Nuestro Salvador or tres veces en Getseman, usando
+Nuestro Salvador oró tres veces en Getsemaní, usando
 
-las mismas palabras. l or con tal intensidad de deseo que Su corazn pareca
+las mismas palabras. Él oró con tal intensidad de deseo que Su corazón parecía
 
 arder de angustia. Los conductos se desbordaron y los rojos torrentes
 
 irrumpieron en gotas sangrientas que cayeron en tierra en aquel lugar llamado
 
-correctamente almazara o lugar donde se exprime la aceituna. Ah!, esa es
+correctamente “almazara” o ‘lugar donde se exprime la aceituna’. ˇAh!, esa es
 
 la manera de orar, si no hasta el punto de producir un sudor sangriento -como
 
 seguramente no tengamos que hacerlo ni seamos capaces de hacerlo- con todo con
 
-tal intensidad de un fervor sincero como nos sea posible y como deberamos
+tal intensidad de un fervor sincero como nos sea posible y como deberíamos
 
-hacerlo cuando Dios el Espritu Santo est obrando con poder en nosotros. No
+hacerlo cuando Dios el Espíritu Santo esté obrando con poder en nosotros. No
 
-podemos esperar recibir ayuda en nuestro tiempo de tribulacin a menos que
+podemos esperar recibir ayuda en nuestro tiempo de tribulación a menos que
 
-enviemos al cielo una intensa oracin.
+enviemos al cielo una intensa oración.
 
-Pero imiten tambin a
+Pero imiten también a
 
 Cristo
 
-en el tema de Su oracin.
+en el tema de Su oración.
 
 Estoy
 
-seguro de que l nada ms musit suavemente la plegaria: Padre mo, si es
+seguro de que Él nada más musitó suavemente la plegaria: “Padre mío, si es
 
-posible, pase de mi esta copa. T tambin puedes presentar esa peticin, pero
+posible, pase de mi esta copa”. Tú también puedes presentar esa petición, pero
 
-asegrate de musitarla suavemente. Sin embargo, estoy seguro de que fue con
+asegúrate de musitarla suavemente. Sin embargo, estoy seguro de que fue con
 
-todo Su poder que nuestro Salvador dijo: Pero no sea como yo quiero, sino como
+todo Su poder que nuestro Salvador dijo: “Pero no sea como yo quiero, sino como
 
-t. En presencia o ante la perspectiva de una gran tribulacin, haz que sta
+tú”. En presencia o ante la perspectiva de una gran tribulación, haz que ésta
 
-sea tu oracin a Dios: Hgase tu voluntad. Alienta a tu alma hasta este
+sea tu oración a Dios: “Hágase tu voluntad”. Alienta a tu alma hasta este
 
-punto: habindole pedido al Seor que te proteja, si as le agradare, ponte
+punto: habiéndole pedido al Seńor que te proteja, si así le agradare, ponte
 
-absolutamente en Sus manos, y di: Pero no sea, oh Padre mo, como yo quiero,
+absolutamente en Sus manos, y di: “ˇPero no sea, oh Padre mío, como yo quiero,
 
-sino como t!
+sino como tú!”
 
 Cuando uno llega hasta
 
-ese punto se trata de una oracin prevaleciente; un hombre est preparado a
+ese punto se trata de una oración prevaleciente; un hombre está preparado a
 
-morir cuando sabe cmo presentar esa peticin. Esa es la mejor preparacin para
+morir cuando sabe cómo presentar esa petición. Esa es la mejor preparación para
 
-cualquier cruz que pudiera caer encima de tus hombros. T podras morir la
+cualquier cruz que pudiera caer encima de tus hombros. Tú podrías morir la
 
-muerte de un mrtir y aplaudir aun en medio del fuego, si puedes, con toda tu
+muerte de un mártir y aplaudir aun en medio del fuego, si puedes, con toda tu
 
-alma, orar realmente como Jess or: No sea como yo quiero, sino como t.
+alma, orar realmente como Jesús oró: “No sea como yo quiero, sino como tú”.
 
 Este es el objetivo que pongo ante ustedes, mis hermanos y hermanas en Cristo,
 
-que, si estn esperando una enfermedad, si estn temiendo alguna prdida, si
+que, si están esperando una enfermedad, si están temiendo alguna pérdida, si
 
-estn anticipando un duelo, si le temen a la muerte, que este sea su gran
+están anticipando un duelo, si le temen a la muerte, que este sea su gran
 
-ultimtum, ir a Dios ahora, en el tiempo de su angustia, y, por medio de una
+ultimátum, ir a Dios ahora, en el tiempo de su angustia, y, por medio de una
 
-poderosa oracin prevaleciente, con tal acompaamiento de oracin como otros
+poderosa oración prevaleciente, con tal acompańamiento de oración como otros
 
-puedan brindarte, musita esa nica plegaria: Hgase tu voluntad, oh Padre
+puedan brindarte, musita esa única plegaria: “ˇHágase tu voluntad, oh Padre
 
-mo! Hgase Tu voluntad; aydame a cumplirla; aydame a sobrellevarla; aydame
+mío!” Hágase Tu voluntad; ayúdame a cumplirla; ayúdame a sobrellevarla; ayúdame
 
 a seguir adelante con todo, para Tu honra y gloria. Que sea yo bautizado con Tu
 
-bautismo, y que beba de Tu copa hasta los sedimentos.
+bautismo, y que beba de Tu copa hasta los sedimentos”.
 
 Algunas veces, queridos
 
-amigos, pudieran desear en sus corazones que el Seor los usara grandemente, y,
+amigos, pudieran desear en sus corazones que el Seńor los usara grandemente, y,
 
-sin embargo, l tal vez no lo haga. Bien, un hombre que se calla cuando Cristo
+sin embargo, Él tal vez no lo haga. Bien, un hombre que se calla cuando Cristo
 
-le dice que lo haga, est glorificando a Cristo ms que si abriera su boca y
+le dice que lo haga, está glorificando a Cristo más que si abriera su boca y
 
 quebrantara el mandamiento del Maestro. Hay algunos miembros del pueblo de Dios
 
-que gracias a una manifestacin tranquila, santa y consistente de lo que el Seor
+que gracias a una manifestación tranquila, santa y consistente de lo que el Seńor
 
-ha hecho por ellos, le glorifican ms de lo que lo haran si fueran de lugar en
+ha hecho por ellos, le glorifican más de lo que lo harían si fueran de lugar en
 
-lugar declarando Su Evangelio de una manera que hara que el Evangelio mismo
+lugar declarando Su Evangelio de una manera que haría que el Evangelio mismo
 
 fuera desagradable para quienes lo oyeran. Eso es muy posible, pues algunas
 
-personas lo hacen. Si el Seor me pone en primera fila, bendito sea Su nombre
+personas lo hacen. Si el Seńor me pone en primera fila, bendito sea Su nombre
 
-por ello, y yo tengo que pelear por l all como mejor pueda. Pero si l me
+por ello, y yo tengo que pelear por Él allí como mejor pueda. Pero si Él me
 
-dice: Qudate acostado en tu lecho! Qudate all durante siete aos, y no te
+dice: “ˇQuédate acostado en tu lecho! ˇQuédate allí durante siete ańos, y no te
 
-levantes del todo!, no tengo nada ms que hacer que glorificarle de esa
+levantes del todo!”, no tengo nada más que hacer que glorificarle de esa
 
-manera. El mejor soldado es el que hace exactamente lo que su capitn le dice.
+manera. El mejor soldado es el que hace exactamente lo que su capitán le dice.
 
 III.
 
 Ahora,
 
-en tercer lugar, y slo brevemente, A MODO DE INSTRUCCIN PARA NOSOTROS MISMOS,
+en tercer lugar, y sólo brevemente, A MODO DE INSTRUCCIÓN PARA NOSOTROS MISMOS,
 
-VEAMOS A LOS DISCPULOS EN GETSEMAN.
+VEAMOS A LOS DISCÍPULOS EN GETSEMANÍ.
 
 Probablemente
 
-los discpulos haban ido con su Maestro a
+los discípulos habían ido con su Maestro a
 
-Getseman a menudo;
+Getsemaní a menudo;
 
-yo supongo que, algunas veces durante el da, y algunas
+yo supongo que, algunas veces durante el día, y algunas
 
-veces durante la noche, haban sido instruidos, en cnclave secreto, en el
+veces durante la noche, habían sido instruidos, en cónclave secreto, en el
 
-huerto de los olivos. Haba sido su Academia; all haban estado con el Maestro
+huerto de los olivos. Había sido su Academia; allí habían estado con el Maestro
 
-en oracin; sin duda, cada uno oraba y aprenda a orar mejor con Su ejemplo
+en oración; sin duda, cada uno oraba y aprendía a orar mejor con Su ejemplo
 
 divino. Queridos hermanos y hermanas, yo les recomiendo que vayan con
 
-frecuencia al lugar donde puedan tener una mejor comunin con su Dios.
+frecuencia al lugar donde puedan tener una mejor comunión con su Dios.
 
 Pero, ahora, los
 
-discpulos fueron a Getseman
+discípulos fueron a Getsemaní
 
 porque se
 
-cerna una gran tribulacin.
+cernía una gran tribulación.
 
-Fueron llevados all para que velaran y oraran.
+Fueron llevados allí para que velaran y oraran.
 
-As tambin, acude t al lugar de oracin en este momento de tribulacin, y en
+Así también, acude tú al lugar de oración en este momento de tribulación, y en
 
-todos los otros momentos de tribulacin que te sobrevengan a lo largo de toda
+todos los otros momentos de tribulación que te sobrevengan a lo largo de toda
 
 tu vida. Siempre que oigas el repique de las campanas anunciando todo goce
 
-terrenal, ese debe ser el aviso para que te dirijas al huerto de la oracin.
+terrenal, ese debe ser el aviso para que te dirijas al huerto de la oración.
 
-Siempre que haya la sombra de una tribulacin que se avecina y se vislumbra delante
+Siempre que haya la sombra de una tribulación que se avecina y se vislumbra delante
 
-de ti, eso tambin debe ser la sustancia de una comunin ms intensa con Dios.
+de ti, eso también debe ser la sustancia de una comunión más intensa con Dios.
 
-Sin embargo, estos discpulos eran llamados a entrar en comunin con su Maestro
+Sin embargo, estos discípulos eran llamados a entrar en comunión con su Maestro
 
-en aquel momento, en la oscuridad ms densa y ms profunda que estaba
+en aquel momento, en la oscuridad más densa y más profunda que estaba
 
-sobrevinindole, mucho ms densa que cualquiera que les estuviera sobreviniendo
+sobreviniéndole, mucho más densa que cualquiera que les estuviera sobreviniendo
 
 a ellos. Y ustedes son llamados, queridos hermanos y hermanas, cada uno en su
 
-propia medida, a ser bautizados en Jess en la nube y en el mar, para que
+propia medida, a ser bautizados en Jesús en la nube y en el mar, para que
 
-puedan tener comunin con l en Sus sufrimientos. No se avergencen de ir con
+puedan tener comunión con Él en Sus sufrimientos. No se avergüencen de ir con
 
-Cristo aun a Getseman, entrando en un conocimiento de lo que l sufri por ser
+Cristo aun a Getsemaní, entrando en un conocimiento de lo que Él sufrió por ser
 
-conducidos a sufrir de la misma manera, segn su propia capacidad. Todos Sus
+conducidos a sufrir de la misma manera, según su propia capacidad. Todos Sus
 
-verdaderos seguidores tienen que ir all; algunos slo tienen que quedarse en
+verdaderos seguidores tienen que ir allí; algunos sólo tienen que quedarse en
 
 la puerta que da al exterior, y velar; pero Sus muy favorecidos tienen que
 
-adentrarse en la oscuridad ms densa, y estar ms cerca de su Seor en Sus
+adentrarse en la oscuridad más densa, y estar más cerca de su Seńor en Sus
 
-mayores agonas; pero si somos Sus verdaderos discpulos, tenemos que tener
+mayores agonías; pero si somos Sus verdaderos discípulos, tenemos que tener
 
-comunin con l en Sus sufrimientos.
+comunión con Él en Sus sufrimientos.
 
 Nuestra dificultad es
 
-que la carne evade esta tribulacin, y que, al igual que los discpulos,
+que la carne evade esta tribulación, y que, al igual que los discípulos,
 
-nos quedamos dormidos cuando deberamos
+nos quedamos dormidos cuando deberíamos
 
 velar.
 
-Cuando llega el tiempo de la tribulacin, si nos deprimimos en espritu
+Cuando llega el tiempo de la tribulación, si nos deprimimos en espíritu
 
 por su causa, somos propensos a no orar con ese fervor y ese vigor que una
 
-mayor esperanza habra engendrado; y cuando llegamos a sentir algo de lo que el
+mayor esperanza habría engendrado; y cuando llegamos a sentir algo de lo que el
 
-Salvador soport, somos demasiado propensos a quedarnos sobrecogidos ms bien
+Salvador soportó, somos demasiado propensos a quedarnos sobrecogidos más bien
 
-que a ser estimulados por ello; y as, cuando l viene a nosotros, nos
+que a ser estimulados por ello; y así, cuando Él viene a nosotros, nos
 
-encuentra, como a los discpulos, durmiendo a causa de la tristeza. El
+encuentra, como a los discípulos, “durmiendo a causa de la tristeza”. El
 
-Maestro dijo benignamente: El espritu a la verdad est dispuesto, pero la carne
+Maestro dijo benignamente: “El espíritu a la verdad está dispuesto, pero la carne
 
-es dbil; pero no creo que alguno de los discpulos se excusara. Me parece, si
+es débil”; pero no creo que alguno de los discípulos se excusara. Me parece, si
 
-puedo juzgarlos basndome en mi propia persona, que yo hubiera dicho: no podr
+puedo juzgarlos basándome en mi propia persona, que yo hubiera dicho: “no podré
 
-perdonarme nunca por haberme quedado dormido aquella noche; cmo pude quedarme
+perdonarme nunca por haberme quedado dormido aquella noche; żcómo pude quedarme
 
-dormido habindonos dicho l: Velad conmigo? Y cuando regres, con Su rostro
+dormido habiéndonos dicho Él: ‘Velad conmigo’? Y cuando regresó, con Su rostro
 
 rojo por el sudor de sangre, y con esa desilusionada mirada en Su semblante,
 
-dijo: As que no habis podido velar conmigo una hora? Cmo pude quedarme
+dijo: ‘żAsí que no habéis podido velar conmigo una hora?’ żCómo pude quedarme
 
-dormido una segunda vez? Y, luego, cmo pude quedarme dormido una tercera
+dormido una segunda vez? Y, luego, żcómo pude quedarme dormido una tercera
 
-vez?
+vez?”
 
-Oh, me parece que Simn Pedro
+Oh, me parece que Simón Pedro
 
-debe de haber recordado perennemente que su Salvador le dijo: Simn, no has
+debe de haber recordado perennemente que su Salvador le dijo: “Simón, żno has
 
-podido velar una hora? Seguramente no dej de hacerse esa pregunta toda su
+podido velar una hora?” Seguramente no dejó de hacerse esa pregunta toda su
 
-vida; y Santiago y Juan deben de haber sentido lo mismo. Hermanos y hermanas, se
+vida; y Santiago y Juan deben de haber sentido lo mismo. Hermanos y hermanas, żse
 
 ha quedado dormido alguno de ustedes en circunstancias similares mientras
 
 la Iglesia
 
-de Cristo est
+de Cristo está
 
-sufriendo, mientras la causa de Cristo est sufriendo, mientras el pueblo de
+sufriendo, mientras la causa de Cristo está sufriendo, mientras el pueblo de
 
-Cristo est sufriendo, mientras te est sobreviniendo una tribulacin que te
+Cristo está sufriendo, mientras te está sobreviniendo una tribulación que te
 
-ayudar a tener comunin con l? En vez de ser motivado a una devocin ms
+ayudará a tener comunión con Él? En vez de ser motivado a una devoción más
 
-elevada e intensa, ests cayendo en un sueo ms profundo? Si es as, Cristo,
+elevada e intensa, żestás cayendo en un sueńo más profundo? Si es así, Cristo,
 
-en Su gran amor, puede excusarte, pero yo te ruego que t mismo no comiences a
+en Su gran amor, puede excusarte, pero yo te ruego que tú mismo no comiences a
 
-excusarte. No, levntense, hermanos, y velen y oren, para que no entren en
+excusarte. No, levántense, hermanos, y “velen y oren, para que no entren en
 
-tentacin.
+tentación”.
 
-La amabilidad del Salvador para con Sus discpulos debe de haber
+La amabilidad del Salvador para con Sus discípulos debe de haber
 
 reprendido grandemente
 
@@ -800,65 +800,65 @@ el sopor de ellos
 
 .
 
-Segn entiendo de la narracin,
+Según entiendo de la narración,
 
-nuestro Seor se acerc a Sus discpulos tres veces, y en la tercera ocasin los
+nuestro Seńor se acercó a Sus discípulos tres veces, y en la tercera ocasión los
 
-encontr todava rendidos de sueo, as que se sent junto a ellos, y les dijo:
+encontró todavía rendidos de sueńo, así que se sentó junto a ellos, y les dijo:
 
-Dormid ya, y descansad. Se sent all a aguardar pacientemente la llegada del
+“Dormid ya, y descansad”. Se sentó allí a aguardar pacientemente la llegada del
 
-traidor; sin esperar ninguna ayuda o simpata de Sus discpulos, sino
+traidor; sin esperar ninguna ayuda o simpatía de Sus discípulos, sino
 
-simplemente velando por ellos como ellos no velaran con l, orando por ellos
+simplemente velando por ellos como ellos no velarían con Él, orando por ellos
 
-como ellos no oraran por ellos mismos, y dejando que durmieran otro rato
+como ellos no orarían por ellos mismos, y dejando que durmieran otro rato
 
-mientras se dispona a encontrarse con Judas y la turba de la gentuza que
+mientras se disponía a encontrarse con Judas y la turba de la gentuza que
 
-pronto le rodeara. Nuestro Maestro, en Su gran ternura, algunas veces nos
+pronto le rodearía. Nuestro Maestro, en Su gran ternura, algunas veces nos
 
-consiente sueos como esos; sin embargo, podramos tener que lamentarlos y
+consiente sueńos como esos; sin embargo, podríamos tener que lamentarlos y
 
-desear haber tenido suficiente fuerza de mente y fervor de corazn para
+desear haber tenido suficiente fuerza de mente y fervor de corazón para
 
-permanecer despiertos, y velar con l en Sus momentos de afliccin. Me parece
+permanecer despiertos, y velar con Él en Sus momentos de aflicción. Me parece
 
-que, de todos los once discpulos buenos, no hubo ninguno que permaneciera
+que, de todos los once discípulos buenos, no hubo ninguno que permaneciera
 
-despierto. Hubo un vil traidor, y l s estaba bien despierto. Nunca se qued
+despierto. Hubo un vil traidor, y él sí estaba bien despierto. Nunca se quedó
 
 dormido; estaba lo suficientemente despierto para vender a su Maestro y para
 
-actuar como gua de aquellos que vinieron para capturarlo.
+actuar como guía de aquellos que vinieron para capturarlo.
 
-Pienso tambin que, al
+Pienso también que, al
 
 menos parcialmente, como consecuencia de ese sopor de ellos, en un breve lapso,
 
-todos los discpulos, dejndole,
+“todos los discípulos, dejándole,
 
-huyeron.
+huyeron”.
 
-Parecieran, por un tiempo, haber perdido en el sueo su apego a su
+Parecieran, por un tiempo, haber perdido en el sueńo su apego a su
 
-Seor, y al despertar como de un sueo turbado a duras penas saban lo que
+Seńor, y al despertar como de un sueńo turbado a duras penas sabían lo que
 
-hacan y huyeron atropelladamente. Todas las ovejas fueron dispersadas y el
+hacían y huyeron atropelladamente. Todas las ovejas fueron dispersadas y el
 
-Pastor se qued solo, cumpliendo as la antigua profeca: Hiere al pastor, y
+Pastor se quedó solo, cumpliendo así la antigua profecía: “Hiere al pastor, y
 
-sern dispersadas las ovejas; y aquella otra palabra: He pisado yo solo el
+serán dispersadas las ovejas”; y aquella otra palabra: “He pisado yo solo el
 
-lagar, y de los pueblos nadie haba conmigo. Despierten, hermanos y hermanas,
+lagar, y de los pueblos nadie había conmigo”. Despierten, hermanos y hermanas,
 
-pues de otra manera tambin ustedes podran abandonar a su Maestro; y en la
+pues de otra manera también ustedes podrían abandonar a su Maestro; y en la
 
-hora en que deberan demostrar ms su fidelidad, pudiera ser que su estado de
+hora en que deberían demostrar más su fidelidad, pudiera ser que su estado de
 
-sopor de corazn los lleve a la rebelda, y a abandonar a su Seor. Que Dios
+sopor de corazón los lleve a la rebeldía, y a abandonar a su Seńor. ˇQue Dios
 
-nos conceda que no suceda as!
+nos conceda que no suceda así!
 
 IV.
 
@@ -866,51 +866,51 @@ Ahora
 
 concluyo con una palabra de advertencia que ya casi he anticipado. VAYAMOS, EN
 
-EL PENSAMIENTO, A GETSEMAN PARA QUE JUDAS NOS SIRVA DE ADVERTENCIA. Permtanme
+EL PENSAMIENTO, A GETSEMANÍ PARA QUE JUDAS NOS SIRVA DE ADVERTENCIA. Permítanme
 
-leerles la ltima parte del texto: Y tambin Judas, el que le entregaba,
+leerles la última parte del texto: “Y también Judas, el que le entregaba,
 
-conoca aquel lugar, porque muchas veces Jess se haba reunido all con sus
+conocía aquel lugar, porque muchas veces Jesús se había reunido allí con sus
 
-discpulos.
+discípulos”.
 
-Judas, el que le
+“Judas, el que le
 
-entregaba, conoca el lugar. S,
+entregaba, conocía el lugar”. Sí,
 
 probablemente
 
-l haba pasado all toda la noche, muchas veces, con Cristo.
+él había pasado allí toda la noche, muchas veces, con Cristo.
 
 Judas se
 
-haba sentado en crculo con los otros discpulos en torno a su Seor en alguna
+había sentado en círculo con los otros discípulos en torno a su Seńor en alguna
 
-de las terrazas cubiertas de olivos, y haba escuchado Sus prodigiosas palabras
+de las terrazas cubiertas de olivos, y había escuchado Sus prodigiosas palabras
 
-a la tenue luz de la luna. Haba odo orar all a su Seor con frecuencia.
+a la tenue luz de la luna. Había oído orar allí a su Seńor con frecuencia.
 
-Judas, el que le entregaba, le haba odo orar en Getseman. Conoca los
+“Judas, el que le entregaba”, le había oído orar en Getsemaní. Conocía los
 
-tonos de Su voz, la pasin de Su splica, la intensa agona de ese gran corazn
+tonos de Su voz, la pasión de Su súplica, la intensa agonía de ese gran corazón
 
-de amor cuando era derramado en oracin. Sin duda, se haba unido a los otros
+de amor cuando era derramado en oración. Sin duda, se había unido a los otros
 
-discpulos cuando le dijeron: Seor, ensanos a orar.
+discípulos cuando le dijeron: “Seńor, enséńanos a orar”.
 
-Judas, el que le entregaba,
+“Judas, el que le entregaba,
 
-conoca el lugar. l podra habernos sealado el sitio preciso donde el
+conocía el lugar”. Él podría habernos seńalado el sitio preciso donde el
 
-Salvador prefera estar, ese ngulo en la terraza, ese pequeo rincn escondido
+Salvador prefería estar, ese ángulo en la terraza, ese pequeńo rincón escondido
 
-donde el Maestro sola buscar un asiento para sentarse y ensear al grupo
+donde el Maestro solía buscar un asiento para sentarse y enseńar al grupo
 
-escogido en torno Suyo. S, Judas conoca el lugar; y era debido a que conoca
+escogido en torno Suyo. Sí, Judas conocía el lugar; y era debido a que conocía
 
-el lugar que fue capaz de traicionar a Cristo; pues, si no hubiese sabido dnde
+el lugar que fue capaz de traicionar a Cristo; pues, si no hubiese sabido dónde
 
-estaba Jess, no habra podido llevar a los soldados all.
+estaba Jesús, no habría podido llevar a los soldados allí.
 
 Me parece algo muy
 
@@ -920,53 +920,53 @@ familiaridad con Cristo
 
 haya capacitado a ese hombre para convertirse en un traidor;
 
-y es todava
+y es todavía
 
-cierto, algunas veces, que la familiaridad con la religin puede capacitar a
+cierto, algunas veces, que la familiaridad con la religión puede capacitar a
 
-los hombres para convertirse en apstatas. Oh, si hubiese un Judas aqu, yo le
+los hombres para convertirse en apóstatas. ˇOh, si hubiese un Judas aquí, yo le
 
-hablara muy solemnemente! T conoces el lugar; sabes todo lo concerniente al
+hablaría muy solemnemente! Tú conoces el lugar; sabes todo lo concerniente al
 
 gobierno y al orden de la iglesia, y puedes ir a contar bonitas historias acerca
 
-de los errores cometidos por algunos de los siervos de Dios que no erraran si
+de los errores cometidos por algunos de los siervos de Dios que no errarían si
 
-pudieran evitarlo. S; t conoces a los miembros de la iglesia; t sabes dnde
+pudieran evitarlo. Sí; tú conoces a los miembros de la iglesia; tú sabes dónde
 
-hay algn defecto en el carcter y alguna debilidad de espritu; sabes cmo ir
+hay algún defecto en el carácter y alguna debilidad de espíritu; sabes cómo ir
 
-y divulgar la historia de ellos entre los mundanos, y puedes hacer mucho dao
+y divulgar la historia de ellos entre los mundanos, y puedes hacer mucho dańo
 
-que no podras hacer si no hubieras conocido el lugar. S; y t conoces las
+que no podrías hacer si no hubieras conocido el lugar. Sí; y tú conoces las
 
 doctrinas de la gracia al menos en una medida de conocimiento mental, y sabes
 
-cmo retorcerlas como para hacerlas verse ridculas, esas eternas verdades que
+cómo retorcerlas como para hacerlas verse ridículas, esas eternas verdades que
 
-embelesan los corazones de los ngeles y de los redimidos de entre los hombres.
+embelesan los corazones de los ángeles y de los redimidos de entre los hombres.
 
-Como t las conoces tan bien, sabes cmo parodiarlas, y cmo caricaturizarlas y
+Como tú las conoces tan bien, sabes cómo parodiarlas, y cómo caricaturizarlas y
 
-hacer que la propia gracia de Dios parezca una farsa. S, t conoces el lugar;
+hacer que la propia gracia de Dios parezca una farsa. Sí, tú conoces el lugar;
 
-te has sentado a la mesa del Seor, y has odo a los santos cuando hablan de
+te has sentado a la mesa del Seńor, y has oído a los santos cuando hablan de
 
-sus arrobamientos y de sus xtasis; y t pretendas que participabas en ellos.
+sus arrobamientos y de sus éxtasis; y tú pretendías que participabas en ellos.
 
-As que sabes cmo regresar al mundo y representar a la verdadera piedad como algo
+Así que sabes cómo regresar al mundo y representar a la verdadera piedad como algo
 
-que es pura mojigatera e hipocresa; y haces raras burlas de esos secretos
+que es pura mojigatería e hipocresía; y haces raras burlas de esos secretos
 
-sumamente solemnes de los cuales un hombre a duras penas hablara a sus
+sumamente solemnes de los cuales un hombre a duras penas hablaría a sus
 
 semejantes porque son las transacciones privadas entre su alma y su Dios.
 
-Difcilmente puedo
+Difícilmente puedo
 
-captar cun terrible ser la condenacin de aquellos que, despus de hacer una
+captar cuán terrible será la condenación de aquellos que, después de hacer una
 
-profesin de religin, han prostituido su conocimiento de la obra interna de
+profesión de religión, han prostituido su conocimiento de la obra interna de
 
 la Iglesia
 
@@ -976,79 +976,79 @@ convertido en material para novelas en las que el Evangelio de Cristo es exhibid
 
 para escarnio. Sin embargo, ha habido tales hombres que no se han contentado
 
-con ser como pjaros que han ensuciado sus propios nidos, ya que tambin han
+con ser como pájaros que han ensuciado sus propios nidos, ya que también han
 
-salido y han intentado ensuciar el nido de cada corazn creyente que pudieran
+salido y han intentado ensuciar el nido de cada corazón creyente que pudieran
 
-alcanzar. Qu cosa tan terrible sera que alguien de nosotros, aqu, conociera
+alcanzar. ˇQué cosa tan terrible sería que alguien de nosotros, aquí, conociera
 
-el lugar y por eso traicionara al Salvador! Conoces el lugar de oracin
+el lugar y por eso traicionara al Salvador! żConoces el lugar de oración
 
-privada, o piensas que lo conoces? Conoces el lugar donde van los hombres
+privada, o piensas que lo conoces? żConoces el lugar donde van los hombres
 
-cuando la sombra de una tribulacin venidera est proyectndose delante de
+cuando la sombra de una tribulación venidera está proyectándose delante de
 
-ellos? Piensas que sabes algo acerca de la comunin con Cristo en Sus
+ellos? żPiensas que sabes algo acerca de la comunión con Cristo en Sus
 
-sufrimientos? Pero, qu pasara si la avaricia del oro dominara, tal como lo
+sufrimientos? Pero, żqué pasaría si la avaricia del oro dominara, tal como lo
 
 hizo en Judas, ese natural apego que sientes por Cristo y por las mejores
 
-cosas? Y qu pasara si incluso Getseman, como un abismo, abriera ampliamente
+cosas? żY qué pasaría si incluso Getsemaní, como un abismo, abriera ampliamente
 
 sus fauces para engullirte? Es algo terrible para ser contemplado pero, con
 
-todo, pudiera ser verdad, pues tambin Judas, el que le entregaba, conoca
+todo, pudiera ser verdad, pues “también Judas, el que le entregaba, conocía
 
-aquel lugar. No puedo tolerar pensar que alguno de ustedes est familiarizado
+aquel lugar”. No puedo tolerar pensar que alguno de ustedes esté familiarizado
 
-con las interioridades de este Tabernculo, y sin embargo, que traicione a
+con las interioridades de este Tabernáculo, y sin embargo, que traicione a
 
 Cristo; que seas uno de esos que se congregan en torno a esta mesa de la
 
-comunin, que ests familiarizado con todo el amor y las tiernas expresiones
+comunión, que estés familiarizado con todo el amor y las tiernas expresiones
 
-que suelen ser usadas aqu, y con todo, que despus de todo abandones a nuestro
+que suelen ser usadas aquí, y con todo, que después de todo abandones a nuestro
 
-Seor y Salvador, Jesucristo. Hagan circular la pregunta de los discpulos, y
+Seńor y Salvador, Jesucristo. Hagan circular la pregunta de los discípulos, y
 
-que cada uno se la formule: Soy yo, Seor? Soy yo?
+que cada uno se la formule: “żSoy yo, Seńor? żSoy yo?”
 
-Cuando alguien se desva del camino de Sion,
+“Cuando alguien se desvía del camino de Sion,
 
-(Ay, cuntos lo hacen!)
+(ˇAy, cuántos lo hacen!)
 
 Me parece que oigo decir al Salvador,
 
-Me abandonars t tambin?
+‘żMe abandonarás tú también?’
 
-Ah, Seor!, con un corazn como el mo,
+ˇAh, Seńor!, con un corazón como el mío,
 
 A menos que me sujetes firmemente,
 
-Pienso que tengo que flaquear y que lo har,
+Pienso que tengo que flaquear y que lo haré,
 
-Y que comprobar ser como ellos al final.
+Y que comprobaré ser como ellos al final”.
 
-Por tanto, sostenme, oh
+Por tanto, ˇsostenme, oh
 
-Seor, y estar seguro; gurdame hasta el fin, por Tu amado Hijo, nuestro Seor
+Seńor, y estaré seguro; guárdame hasta el fin, por Tu amado Hijo, nuestro Seńor
 
-Jesucristo! Amn.
+Jesucristo! Amén.
 
 Nota
 
 del Traductor:
 
-Ordala: juicio de Dios, prueba.
+Ordalía: juicio de Dios, prueba.
 
 Congenial: del mismo genio que otro. De igual genio.
 
 Almazara: Molino de aceite. Palabra que viene del
 
-rabe.
+árabe.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 21/Febrero/2013
 

@@ -1,16 +1,16 @@
 # Sermón 2938 | Sermón 2938
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
-Jess el Camino
+Jesús el Camino
 
 NO. 2938
 
 UN
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 POR CHARLES HADDON
 
@@ -18,179 +18,179 @@ SPURGEON
 
 EN EL
 
-AO DE 1862
+AŃO DE 1862
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES,
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES,
 
 Y
 
 PUBLICADO EL JUEVES 1 DE JUNIO DE 1905.
 
-Jess le dijo: Yo soy el camino. Juan 14:
+“Jesús le dijo: Yo soy el camino.” Juan 14:
 
 6.
 
-Est oscureciendo y estamos extraviados
+Está oscureciendo y estamos extraviados
 
-en medio de los montes. Hay un enorme precipicio por all, con una brusca
+en medio de los montes. Hay un enorme precipicio por allá, con una brusca
 
-pendiente de varios kilmetros. Hay un pantano por all, y si alguien cayera en
+pendiente de varios kilómetros. Hay un pantano por allá, y si alguien cayera en
 
-l, no podra salir jams. Hay un bosque ms adelante, y si una persona se
+él, no podría salir jamás. Hay un bosque más adelante, y si una persona se
 
-extraviara en sus sinuosos senderos, ciertamente no encontrara la manera de
+extraviara en sus sinuosos senderos, ciertamente no encontraría la manera de
 
-salir, y sera hasta que el sol saliera. Qu es lo que necesitamos
+salir, y sería hasta que el sol saliera. żQué es lo que necesitamos
 
-precisamente ahora? Bien, necesitamos a alguien que nos indique cul es el camino.
+precisamente ahora? Bien, necesitamos a alguien que nos indique cuál es el camino.
 
-Nuestro amigo, el filsofo, con quien
+Nuestro amigo, el filósofo, con quien
 
 hablamos hace media hora, fue muy valioso para nosotros en ese momento, y nos
 
-proporcion mucha informacin; pero, como no conoce el camino, preferiramos
+proporcionó mucha información; pero, como no conoce el camino, preferiríamos
 
-tener por compaero aun al ms humilde muchacho campesino que alimenta a las
+tener por compańero aun al más humilde muchacho campesino que alimenta a las
 
-ovejas en los montes, que a aquel filsofo.
+ovejas en los montes, que a aquel filósofo.
 
-El experto en los clsicos, que nos ha
+El experto en los clásicos, que nos ha
 
-estado recitando algunas admirables lneas de Horacio, y deleitando con una
+estado recitando algunas admirables líneas de Horacio, y deleitando con una
 
-asombrosa cita de Virgilio, nos entretuvo muy bien mientras podamos ver nuestro
+asombrosa cita de Virgilio, nos entretuvo muy bien mientras podíamos ver nuestro
 
-camino y guardbamos la esperanza de llegar a nuestro hogar antes de que cayera
+camino y guardábamos la esperanza de llegar a nuestro hogar antes de que cayera
 
-la noche; pero, ahora, la ms insignificante aldeana despeinada, que slo puede
+la noche; pero, ahora, la más insignificante aldeana despeinada, que sólo puede
 
-indicarnos el camino hacia la cabaa donde podremos descansar esta noche, ser
+indicarnos el camino hacia la cabańa donde podremos descansar esta noche, será
 
 de mayor valor para nosotros. Lo que necesitamos es conocer el camino.
 
 Este es precisamente el caso, queridos
 
-amigos, con la pobre humanidad cada. La necesidad de la humanidad no es la
+amigos, con la pobre humanidad caída. La necesidad de la humanidad no es la
 
-refinada disertacin del sabio, ni la aguda discusin del polemista; necesitamos
+refinada disertación del sabio, ni la aguda discusión del polemista; necesitamos
 
 simplemente a alguien, aunque sea un muchacho o una mozuela, que nos muestre el
 
-camino, y la persona ms valiosa que ustedes y yo hayamos visto, o que veremos
+camino, y la persona más valiosa que ustedes y yo hayamos visto, o que veremos
 
-alguna vez, ser la persona que sea bendecida y honrada por Dios para que nos
+alguna vez, será la persona que sea bendecida y honrada por Dios para que nos
 
-diga: He aqu el camino a Dios, a la vida, a la salvacin, y al cielo.
+diga: “He aquí el camino a Dios, a la vida, a la salvación, y al cielo.”
 
 Entonces, no necesito ofrecer una disculpa por salir otra vez para mostrar el
 
 camino.
 
-Hay muchas personas aqu que estn
+Hay muchas personas aquí que están
 
 extraviadas, y otras sobre
 
-quienes estn
+quienes están
 
 cayendo las sombras de la noche;
 
 su cabello es gris, jadean al caminar, y
 
-se apoyan en su bastn para sostener sus tambaleantes piernas. Su caso es
+se apoyan en su bastón para sostener sus tambaleantes piernas. Su caso es
 
-peligroso; y cuando no pueden descubrir por s mismas la senda, seguramente
+peligroso; y cuando no pueden descubrir por sí mismas la senda, seguramente
 
-escucharn cualquier voz, por spera que sea, de cualquier persona, por ruda
+escucharán cualquier voz, por áspera que sea, de cualquier persona, por ruda
 
-que sea, con tal de poder descubrir cul es el camino a la vida eterna.
+que sea, con tal de poder descubrir cuál es el camino a la vida eterna.
 
-Encontrndome de viaje hace algn tiempo,
+Encontrándome de viaje hace algún tiempo,
 
-el cochero nos inform, cuando ya casi oscureca, que no haba transitado nunca
+el cochero nos informó, cuando ya casi oscurecía, que no había transitado nunca
 
-por ese camino anteriormente, y sera difcil expresar cun contentos nos pusimos
+por ese camino anteriormente, y sería difícil expresar cuán contentos nos pusimos
 
-cuando vimos un poste de seales. Ahora, un poste de seales no es algo muy
+cuando vimos un poste de seńales. Ahora, un poste de seńales no es algo muy
 
-interesante; no hay nada potico en l; sera cuestionable que sirva de
+interesante; no hay nada poético en él; sería cuestionable que sirva de
 
-ornamento para la carretera, pues slo se trata de un brazo extendido con una o
+ornamento para la carretera, pues sólo se trata de un brazo extendido con una o
 
-dos palabras escritas sobre l; pero, cuando se aproxima la noche, cuando ni el
+dos palabras escritas sobre él; pero, cuando se aproxima la noche, cuando ni el
 
-conductor ni t conocen el camino, es, tal vez, una de las cosas ms
+conductor ni tú conocen el camino, es, tal vez, una de las cosas más
 
-placenteras que te pudieras encontrar. Yo estar aqu esta noche como un simple
+placenteras que te pudieras encontrar. Yo estaré aquí esta noche como un simple
 
-poste de seales. Las palabras podran resultar prosaicas, pero eso bastara
+poste de seńales. Las palabras podrían resultar prosaicas, pero eso bastaría
 
 para ustedes, con tal que les muestran el camino.
 
-El seor Jay nos relata que, en una
+El seńor Jay nos relata que, en una
 
-ocasin, viajando en la diligencia del correo a Bath, quera hacerle muchas preguntas
+ocasión, viajando en la diligencia del correo a Bath, quería hacerle muchas preguntas
 
-al cochero. Le preguntaba: De quin es esa finca? Qu hacendado es dueo de
+al cochero. Le preguntaba: “żDe quién es esa finca? żQué hacendado es dueńo de
 
-aquel hermoso prado? Y cul caballero es el terrateniente de ese distrito?
+aquel hermoso prado? żY cuál caballero es el terrateniente de ese distrito?
 
-Pero a todas esas preguntas el conductor nicamente responda: no lo s; no lo
+Pero a todas esas preguntas el conductor únicamente respondía: “no lo sé; no lo
 
-s. Por fin, el seor Jay le pregunt: entonces, qu es lo que sabes?
+sé.” Por fin, el seńor Jay le preguntó: “entonces, żqué es lo que sabes?”
 
-Bien, -respondi- s cmo llevarlo a usted a Bath. Entonces, ahora, no
+“Bien”, -respondió- “sé cómo llevarlo a usted a Bath.” Entonces, ahora, no
 
 pretendo mayor conocimiento que este: yo conozco el camino al cielo, y espero
 
-poder sealarlo, de manera tan simple y sencilla, que algunas personas aqu presentes,
+poder seńalarlo, de manera tan simple y sencilla, que algunas personas aquí presentes,
 
-que estn extraviadas como en medio de un agreste bosque, puedan ver el camino
+que están extraviadas como en medio de un agreste bosque, puedan ver el camino
 
-y, por gracia, sean capaces de correr en l.
+y, por gracia, sean capaces de correr en él.
 
 I.
 
 En primer lugar, entonces, advirtamos LA
 
-EXCLUSIVIDAD DE NUESTRO TEXTO: Yo soy el camino.
+EXCLUSIVIDAD DE NUESTRO TEXTO: “Yo soy el camino.”
 
-Cristo declara que l, y slo l, es el
+Cristo declara que Él, y sólo Él, es el
 
-camino a la paz con Dios, al perdn, a la justicia, y al cielo. La falsedad
+camino a la paz con Dios, al perdón, a la justicia, y al cielo. La falsedad
 
-puede tolerar la falsedad, pero la verdad nunca podra hacerlo. Dos mentiras
+puede tolerar la falsedad, pero la verdad nunca podría hacerlo. Dos mentiras
 
-pueden convivir en la misma casa y no reir nunca; pero la verdad no puede
+pueden convivir en la misma casa y no reńir nunca; pero la verdad no puede
 
-soportar una mentira aunque est en la parte ms alta del tico. La verdad ha
+soportar una mentira aunque esté en la parte más alta del ático. La verdad ha
 
 jurado la guerra a muerte contra la falsedad, y, por esto, desconoce
 
-absolutamente qu es admitir que su adversaria le d la mano. El adepto al
+absolutamente qué es admitir que su adversaria le dé la mano. El adepto al
 
-hinduismo se encuentra al musulmn y le dice: Sin duda eres tan sincero como nosotros
+hinduismo se encuentra al musulmán y le dice: “Sin duda eres tan sincero como nosotros
 
-lo somos, y todos juntos nos encontraremos al final en el lugar correcto.
+lo somos, y todos juntos nos encontraremos al final en el lugar correcto.”
 
-Ellos abrazaran al cristiano tambin, y le diran lo mismo; pero es necesario,
+Ellos abrazarían al cristiano también, y le dirían lo mismo; pero es necesario,
 
-si nuestra religin es verdadera, que denuncie a todas las dems, y que deba
+si nuestra religión es verdadera, que denuncie a todas las demás, y que deba
 
-decir a quienes no conocen a Cristo: Nadie puede poner otro fundamento que el
+decir a quienes no conocen a Cristo: “Nadie puede poner otro fundamento que el
 
-que est puesto, el cual es Jesucristo; ay, y va ms all todava, y pronuncia
+que está puesto, el cual es Jesucristo”; ay, y va más allá todavía, y pronuncia
 
-su anatema contra aquellos que pretenden cualquier otro camino. Mas si aun nosotros,
+su anatema contra aquellos que pretenden cualquier otro camino. “Mas si aun nosotros,
 
-o un ngel del cielo, os anunciare otro evangelio diferente del que os hemos
+o un ángel del cielo, os anunciare otro evangelio diferente del que os hemos
 
-anunciado, sea anatema. Yo simplemente menciono otros caminos diferentes para
+anunciado, sea anatema.” Yo simplemente menciono otros caminos diferentes para
 
-asegurarles, en el nombre de Dios, que son caminos que conducen a la perdicin,
+asegurarles, en el nombre de Dios, que son caminos que conducen a la perdición,
 
-y que ninguno de ellos puede llevarlos al cielo, pues slo hay un camino por el
+y que ninguno de ellos puede llevarlos al cielo, pues sólo hay un camino por el
 
 que el alma puede llegar a Dios, y encontrar vida eterna, y ese camino es
 
@@ -200,77 +200,77 @@ Me parece que veo a la humanidad perdida
 
 como extraviada en un gran desierto. No hay huellas de pisadas, no hay sendas,
 
-y sbitamente se presenta ante la aorante mirada de los viajeros perdidos una
+y súbitamente se presenta ante la ańorante mirada de los viajeros perdidos una
 
 bruja que, con su mano ensangrentada, y con ojos que destellan fuego, apunta en
 
-una direccin, y les dice: hombres perdidos, este es el camino. Y qu es lo
+una dirección, y les dice: “hombres perdidos, este es el camino.” żY qué es lo
 
-que est ante sus ojos? Puedo ver el carro del Gigante rodando a lo largo de
+que está ante sus ojos? Puedo ver el carro del Gigante rodando a lo largo de
 
-las calles y aplastando, en cada revolucin de sus ruedas, la carne y los
+las calles y aplastando, en cada revolución de sus ruedas, la carne y los
 
-huesos de un pobre hombre, que, cuando el espritu ha partido con un gemido,
+huesos de un pobre hombre, que, cuando el espíritu ha partido con un gemido,
 
-queda all como un monumento a la supersticin. Y habiendo sealado hacia all,
+queda allí como un monumento a la superstición. Y habiendo seńalado hacia allá,
 
-esta hechicera le dir a la madre que tome a su hijo, y arroje a su ser querido
+esta hechicera le dirá a la madre que tome a su hijo, y arroje a su ser querido
 
-al ro Ganges. Este es el camino, -dice la malvada hechicera de
+al río Ganges. “Este es el camino”, -dice la malvada hechicera de
 
-Supersticin-
+Superstición-
 
-por medio del cual han de
+“por medio del cual han de
 
-ir a Dios.
+ir a Dios.”
 
 Pero nosotros la denunciamos; en el
 
-nombre de Dios, la denunciamos como a un demonio escapado del infierno. Dar
+nombre de Dios, la denunciamos como a un demonio escapado del infierno. “żDaré
 
-mi primognito por mi rebelin, el fruto de mis entraas por el pecado de mi
+mi primogénito por mi rebelión, el fruto de mis entrańas por el pecado de mi
 
-alma? Ah, no; Dios aborrece un sacrificio as. No pueden pensar cuerdamente
+alma?” Ah, no; Dios aborrece un sacrificio así. No pueden pensar cuerdamente
 
 que lo que es aborrecible para ustedes pueda ser aceptable para Dios, que lo
 
-que ustedes mismos detestaran ver, pueda ser deleitable ante l.
+que ustedes mismos detestarían ver, pueda ser deleitable ante Él.
 
 No, hermanos, Dios no les pide ninguna
 
-laceracin de la carne, ni que se maten de hambre, ni que usen cilicios;
+laceración de la carne, ni que se maten de hambre, ni que usen cilicios;
 
 tampoco pide cordones alrededor de los lomos; todas estas cosas no le importan,
 
-y son un fastidio para l.
+y son un fastidio para Él.
 
 Si quieres agradar a Dios, hablando a la
 
-manera de los hombres, es ms probable que lo hagas siendo feliz que siendo
+manera de los hombres, es más probable que lo hagas siendo feliz que siendo
 
-infeliz. Crees t que un hombre podra agradar a los dems mediante gemidos y
+infeliz. żCrees tú que un hombre podría agradar a los demás mediante gemidos y
 
-suspiros? No lo creo: y cmo, entonces, podra agradar a Dios sometindose a
+suspiros? No lo creo: ży cómo, entonces, podría agradar a Dios sometiéndose a
 
 torturas, si Dios es el Dios que encontramos revelado para nosotros en la Santa
 
-Escritura? Arrepintanse, entonces, todas ustedes, naciones del Oriente, y oh,
+Escritura? Arrepiéntanse, entonces, todas ustedes, naciones del Oriente, y oh,
 
 que todas las tierras se volvieran de esta cruel falsedad, pues este no es el
 
 camino al cielo.
 
-En nuestro propio pas, tenemos
+En nuestro propio país, tenemos
 
-engaadores mucho ms atractivos que esa vieja bruja, tenemos falsos profetas
+engańadores mucho más atractivos que esa vieja bruja, tenemos falsos profetas
 
-que los podran engaar con mayor facilidad. Permtanme referirme a algunos de
+que los podrían engańar con mayor facilidad. Permítanme referirme a algunos de
 
 los caminos populares para ir supuestamente al cielo, pero que con seguridad
 
 conducen al infierno:
 
-Est
+Está
 
 el
 
@@ -280,169 +280,173 @@ Yo hubiera pensado que, habiendo distribuido
 
 tantos millones de folletos, y habiendo predicado tanto en las calles, y
 
-habiendo hablado tan largamente acerca de la salvacin de los hombres por medio
+habiendo hablado tan largamente acerca de la salvación de los hombres por medio
 
-de la sangre de Cristo y no por obra de ellos mismos, la anticuada hereja de
+de la sangre de Cristo y no por obra de ellos mismos, la anticuada herejía de
 
-la justicia propia habra sido echada fuera del campo. Pero todava mantiene
+la justicia propia habría sido echada fuera del campo. Pero todavía mantiene
 
-una firme posicin. Cuando converso con la gente, encuentro que, en todos los
+una firme posición. Cuando converso con la gente, encuentro que, en todos los
 
 escalones de la sociedad, existe la misma creencia: que los hombres han de ir
 
 al cielo por lo que hacen.
 
-Ah, me dijo
+“
 
-alguien ayer- yo supongo que usted se siente abatido a veces. S, -le
+ˇ
 
-respond- a veces me siento abatido. Vamos, -coment l- yo pensara que
+Ah”, me dijo
 
-algunas veces los mejores hombres difcilmente pueden considerar su vida pasada
+alguien ayer- “yo supongo que usted se siente abatido a veces.” “Sí”, -le
 
-con placer, y, por ello, han de sentirse un poco temerosos del futuro. Oh!,
+respondí- “a veces me siento abatido.” “Vamos”, -comentó él- “yo pensaría que
 
--respond- si tuviera que mirar mi vida pasada como la base de mis
+algunas veces los mejores hombres difícilmente pueden considerar su vida pasada
 
-expectativas para el futuro, estara abatido, sin duda; pero, no sabes que
+con placer, y, por ello, han de sentirse un poco temerosos del futuro.” “ˇOh!”,
 
-todas mis buenas obras no me salvarn, y que todos los pecados que he cometido
+-respondí- “si tuviera que mirar mi vida pasada como la base de mis
 
-en toda mi vida pasada no me condenarn nunca? No, dijo, y se vea
+expectativas para el futuro, estaría abatido, sin duda; pero, żno sabes que
+
+todas mis buenas obras no me salvarán, y que todos los pecados que he cometido
+
+en toda mi vida pasada no me condenarán nunca?” “No”, dijo, y se veía
 
 sorprendido frente a una doctrina tan singular como esa.
 
-El Evangelio ensea, ciertamente, que cuando
+El Evangelio enseńa, ciertamente, que cuando
 
 un hombre cree en Cristo, su pecado del pasado es enteramente borrado, y le es
 
-dada la justicia de Cristo, as que el hombre no es salvado por lo que es, ni
+dada la justicia de Cristo, así que el hombre no es salvado por lo que es, ni
 
 condenado por lo que fue, sino que es salvado por medio de Jesucristo, y
 
-nicamente por medio de Jesucristo.
+únicamente por medio de Jesucristo.
 
-Me sub a un bote, no hace mucho tiempo,
+Me subí a un bote, no hace mucho tiempo,
 
-y mientras el barquero remaba, quise iniciar una conversacin con l. Entonces
+y mientras el barquero remaba, quise iniciar una conversación con él. Entonces
 
-comenz a hablarme acerca de unas nuevas luces que haban surgido en la
+comenzó a hablarme acerca de unas “nuevas luces” que habían surgido en la
 
-aldea; la gente siempre se fija ms en los fuegos fatuos que en el propio sol.
+aldea; la gente siempre se fija más en los fuegos fatuos que en el propio sol.
 
-Al cabo de un rato le hice la pregunta acerca de cmo esperaba ir al cielo.
+Al cabo de un rato le hice la pregunta acerca de cómo esperaba ir al cielo.
 
-Bien, me respondi que haba educado a ocho hijos sin haber recibido nunca
+Bien, me respondió que había educado a ocho hijos sin haber recibido nunca
 
-ninguna ayuda del distrito; era un hombre honesto, y siempre haca favores a
+ninguna ayuda del distrito; era un hombre honesto, y siempre hacía favores a
 
-sus vecinos; cuando la epidemia del clera estaba en lo fino, l era casi el
+sus vecinos; cuando la epidemia del cólera estaba en lo fino, él era casi el
 
-nico hombre en la aldea que se levantaba en la noche y corra en busca del
+único hombre en la aldea que se levantaba en la noche y corría en busca del
 
-doctor, y senta que si l no llegaba al cielo, a la mayora de la gente le
+doctor, y sentía que si él no llegaba al cielo, a la mayoría de la gente le
 
-ira muy mal. Yo, en verdad, temo lo mismo, y en relacin a l, tambin, si eso
+iría muy mal. Yo, en verdad, temo lo mismo, y en relación a él, también, si eso
 
 es todo en lo que se apoya.
 
 Cuento estas dos historias, entresacadas
 
-de dos clases de la sociedad, porque yo s que tenemos necesidad de continuar
+de dos clases de la sociedad, porque yo sé que tenemos necesidad de continuar
 
-repudiando esta vieja mentira de Satans: que los hombres han de ser salvos por
+repudiando esta vieja mentira de Satanás: que los hombres han de ser salvos por
 
-sus obras. Esas hojas de higuera que Adn teji para cubrir su desnudez son
+sus obras. Esas hojas de higuera que Adán tejió para cubrir su desnudez son
 
-todava las favoritas de sus descendientes. No quieren tomar el manto de la
+todavía las favoritas de sus descendientes. No quieren tomar el manto de la
 
-justicia de Cristo, sino que prefieren ocuparse de su propia salvacin.
+justicia de Cristo, sino que prefieren ocuparse de su propia salvación.
 
 Una palabra o dos para ti,
 
 mi
 
-querido amigo. Dices que irs al cielo guardando la ley?
+querido amigo. żDices que irás al cielo guardando la ley?
 
-Ah, has odo el viejo proverbio que se refiere a cerrar con llave el establo
+Ah, has oído el viejo proverbio que se refiere a cerrar con llave el establo
 
-cuando el caballo ya se fue; me temo que es muy aplicable a ti! As que vas a
+cuando el caballo ya se fue; ˇme temo que es muy aplicable a ti! Así que vas a
 
-mantener el establo cerrado ahora, pero, ests seguro que el caballo no se
+mantener el establo cerrado ahora, pero, żestás seguro que el caballo no se
 
-saldr nunca? S, amablemente te pido que vayas y mires, y descubrirs que ya
+saldrá nunca? Sí, amablemente te pido que vayas y mires, y ˇdescubrirás que ya
 
-se escap! Vamos, cmo puedes guardar la ley que ya has quebrantado? Si
+se escapó! Vamos, żcómo puedes guardar la ley que ya has quebrantado? Si
 
-quieres ser salvado, la ley de Dios es como un jarrn impecable de alabastro
+quieres ser salvado, la ley de Dios es como un jarrón impecable de alabastro
 
-que debe ser presentado a Dios sin grieta o mancha: pero, no ves que ya has
+que debe ser presentado a Dios sin grieta o mancha: pero, żno ves que ya has
 
-quebrado el jarrn? Vamos, all hay una rotura. Ah!, -dices- eso sucedi
+quebrado el jarrón? Vamos, allí hay una rotura. “ˇAh!”, -dices- “eso sucedió
 
-hace mucho tiempo. S, yo s que as fue, pero aun as se trata de una rotura;
+hace mucho tiempo.” Sí, yo sé que así fue, pero aun así se trata de una rotura;
 
-y all est la negra huella de tu pulgar justo abajo. Vamos, hombre, el jarrn
+y allí está la negra huella de tu pulgar justo abajo. Vamos, hombre, el jarrón
 
-ya est quebrado, y t no puedes ir al cielo por tus buenas obras, ya que no
+ya está quebrado, y tú no puedes ir al cielo por tus buenas obras, ya que no
 
-tienes ninguna. Es ms, t has quebrantado todos los mandamientos de Dios. Lee
+tienes ninguna. Es más, tú has quebrantado todos los mandamientos de Dios. Lee
 
-el captulo 20 de xodo: lelo completo, y comprueba si hay un solo mandamiento
+el capítulo 20 de Éxodo: léelo completo, y comprueba si hay un solo mandamiento
 
-que no hayas violado, y creo que pronto descubrirs que, desde el principio
+que no hayas violado, y creo que pronto descubrirás que, desde el principio
 
-hasta el propio fin, te vers obligado a exclamar: He pecado, oh Seor, y soy
+hasta el propio fin, te verás obligado a exclamar: “He pecado, oh Seńor, y soy
 
-condenado en esto. Ya has quebrantado la ley. Pero entonces me dirs que no la
+condenado en esto.” Ya has quebrantado la ley. Pero entonces me dirás que no la
 
-has quebrantado en pblico, y que t cultivas un respeto exterior hacia ella.
+has quebrantado en público, y que tú cultivas un respeto exterior hacia ella.
 
-S, pero, qu importa esto si internamente el corazn es inicuo? Aun si un
+Sí, pero, żqué importa esto si internamente el corazón es inicuo? Aun si un
 
 hombre pudiera guardar la letra externa de la ley sin mancha o error, sin
 
-embargo, en tanto que en razn de la espiritualidad de la ley, es completamente
+embargo, en tanto que en razón de la espiritualidad de la ley, es completamente
 
-imposible que alguien de la raza cada de Adn pudiera guardarla, nadie puede
+imposible que alguien de la raza caída de Adán pudiera guardarla, nadie puede
 
 ser salvado por la ley.
 
-O una historia, el otro da, que
+Oí una historia, el otro día, que
 
-precisamente ilustra la manera en la que la gente hace una distincin entre
+precisamente ilustra la manera en la que la gente hace una distinción entre
 
-pecado interno y pecado externo. Sucedi que un cierto supervisor de la escuela
+pecado interno y pecado externo. Sucedió que un cierto supervisor de la escuela
 
-dominical oy a una muchacha que lloraba amargamente al concluir la escuela,
+dominical oyó a una muchacha que lloraba amargamente al concluir la escuela,
 
-despus de que los otros estudiantes se hubieron ido. l se acerc a ella, y le
+después de que los otros estudiantes se hubieron ido. Él se acercó a ella, y le
 
-pregunt por qu lloraba, y ella le respondi: La supervisora me ha retenido,
+preguntó por qué lloraba, y ella le respondió: “La supervisora me ha retenido,
 
-y me ha estado hablando acerca de mi vestido; ella dice que yo no debera
+y me ha estado hablando acerca de mi vestido; ella dice que yo no debería
 
-vestirme tan elegantemente; yo pagu por mi vestido, y tengo el derecho de
+vestirme tan elegantemente; yo pagué por mi vestido, y tengo el derecho de
 
-usarlo. Llamaron a la dama y despus de una breve conversacin con el
+usarlo.” Llamaron a la dama y después de una breve conversación con el
 
 supervisor, que era sabio y prudente, enviaron a la muchacha a casa. Ahora, la
 
-propia seorita era conocida por la elegancia de su vestir; ella vesta muy elaboradamente
+propia seńorita era conocida por la elegancia de su vestir; ella vestía muy elaboradamente
 
-en todo momento; entonces, despus que despacharon a la muchacha, nuestro amigo
+en todo momento; entonces, después que despacharon a la muchacha, nuestro amigo
 
-slo hizo esta pregunta: Seorita Tal y Tal, usted me disculpar pero, nunca
+sólo hizo esta pregunta: “Seńorita Tal y Tal, usted me disculpará pero, żnunca
 
-se le ocurri que su propia forma de vestir es ms bien elegante? S,
+se le ocurrió que su propia forma de vestir es más bien elegante?” “Sí”,
 
--respondi ella- pero esa chica lleva flores en su sombrero. Bien, -dijo
+-respondió ella- “pero esa chica lleva flores en su sombrero.” “Bien”, -dijo
 
-l- disclpeme, -y la mir- creo que usted lleva flores en el suyo. Ah,
+él- “discúlpeme”, -y la miró- “creo que usted lleva flores en el suyo.” “ˇAh,
 
-s!, -replic ella- pero, no ve, acaso, que las mas estn dentro del
+sí!”, -replicó ella- “pero, żno ve, acaso, que las mías están dentro del
 
-sombrero y las de ella estn fuera?
+sombrero y las de ella están fuera?”
 
 Ahora, esta es precisamente la manera en
 
@@ -450,129 +454,129 @@ que algunas personas hablan acerca del pecado. Ustedes condenan a un hombre
 
 porque es un gran pecador; no quisieran asociarse con un pecador tan grande. Si
 
-simplemente se miraran a ustedes mismos, veran que son tan grandes pecadores
+simplemente se miraran a ustedes mismos, verían que son tan grandes pecadores
 
-como l, slo que la diferencia radica en esto: ustedes tienen las manchas de
+como él, sólo que la diferencia radica en esto: ustedes tienen las manchas de
 
-carcter por dentro y l las tiene por fuera. De verdad, algunas veces, el
+carácter por dentro y él las tiene por fuera. De verdad, algunas veces, el
 
-notorio pecador es el menos ignominioso de los dos. Piensan realmente que Dios
+notorio pecador es el menos ignominioso de los dos. żPiensan realmente que Dios
 
-hace una distincin tan vana y tan vaca como esta? No, en verdad que no. Si el
+hace una distinción tan vana y tan vacía como esta? No, en verdad que no. Si el
 
-pecado est en ti o sobre ti, si es un pecado interno o externo, te destruye, y
+pecado está en ti o sobre ti, si es un pecado interno o externo, te destruye, y
 
-como no puedes guardar la ley en tus partes interiores, por qu ocuparte en
+como no puedes guardar la ley en tus partes interiores, żpor qué ocuparte en
 
 forzarte y quebrantarte con imposibilidades?
 
 Este no es el camino al cielo. Desde que
 
-Adn cay, ningn hombre ha pasado jams a travs de esa puerta para entrar en
+Adán cayó, ningún hombre ha pasado jamás a través de esa puerta para entrar en
 
-la vida eterna. Adems, aun suponiendo que el pasado fuera borrado, no
+la vida eterna. Además, aun suponiendo que el pasado fuera borrado, no
 
-podran
+podrían
 
-guardar la ley en el futuro, pues, cul es su
+guardar la ley en el futuro, pues, żcuál es su
 
-naturaleza? Es algo tan ruin que tiene la garanta de violar la ley. Ustedes
+naturaleza? Es algo tan ruin que tiene la garantía de violar la ley. Ustedes
 
-han odo acerca de las mujeres a las que se les orden que llenaran de agua un
+han oído acerca de las mujeres a las que se les ordenó que llenaran de agua un
 
 recipiente, y se les dijo que trajeran el agua en cubetas que estaban llenas de
 
 hoyos. Este es justamente el duro trabajo de ustedes; tienen que llenar el
 
-tremendo ocano de la ley, y sus cubetas estn llenas de hoyos. Su naturaleza,
+tremendo océano de la ley, y sus cubetas están llenas de hoyos. Su naturaleza,
 
-aunque la remienden como puedan, y la reparen como quieran, est todava llena
+aunque la remienden como puedan, y la reparen como quieran, está todavía llena
 
-de hoyos; y su pretendida bondad se escurrir, gota a gota, y peor an, sus
+de hoyos; y su pretendida bondad se escurrirá, gota a gota, y peor aún, sus
 
-esfuerzos sern como agua derramada sobre el suelo, que no puede ser recogida.
+esfuerzos serán como agua derramada sobre el suelo, que no puede ser recogida.
 
-Oh, seores!, se los suplico, no busquen entrar en el cielo por las obras de
+ˇOh, seńores!, se los suplico, no busquen entrar en el cielo por las obras de
 
-la ley, pues esto dice el Espritu: El hombre no es justificado por las obras
+la ley, pues esto dice el Espíritu: “El hombre no es justificado por las obras
 
-de la ley.
+de la ley.”
 
-Hay otro gua, sin embargo, que es tan
+Hay otro guía, sin embargo, que es tan
 
-popular, o ms bien, es mucho ms popular. Se llama a s mismo
+popular, o más bien, es mucho más popular. Se llama a sí mismo
 
 Obediencia Sincera.
 
-As lo expresa:
+Así lo expresa:
 
-Bien, si no puedo guardar la totalidad de la ley, confiar en la misericordia
+“Bien, si no puedo guardar la totalidad de la ley, confiaré en la misericordia
 
 de Dios para que compense la diferencia; no tengo dudas de que lo que yo haga
 
-puede significar un gran avance, y entonces el Seor Jesucristo suplir el
+puede significar un gran avance, y entonces el Seńor Jesucristo suplirá el
 
 peso; tal vez me quede un poco corto, tal vez una onza o dos, pero entonces la
 
-expiacin intervendr, y de esta forma la balanza se inclinar a mi favor.
+expiación intervendrá, y de esta forma la balanza se inclinará a mi favor.”
 
-Ah!, y piensas t que Jesucristo se
+ˇAh!, ży piensas tú que Jesucristo se
 
-uncir contigo para obrar tu salvacin? He pisado yo solo el lagar, y de los
+uncirá contigo para obrar tu salvación? “He pisado yo solo el lagar, y de los
 
-pueblos nadie haba conmigo. Este es el grito triunfante del Guerrero cuando
+pueblos nadie había conmigo.” Este es el grito triunfante del Guerrero cuando
 
-regresa de Edom, de Bosra, con vestidos rojos; y piensas t que despus de ese
+regresa de Edom, de Bosra, con vestidos rojos; ży piensas tú que después de ese
 
-discurso sin par, tu insignificante voz ser oda diciendo: pero yo estaba
+discurso sin par, tu insignificante voz será oída diciendo: “pero yo estaba
 
-all; yo hice mi parte y mi porcin? No, en verdad; t pecas al dar cabida a
+allí; yo hice mi parte y mi porción”? No, en verdad; tú pecas al dar cabida a
 
 ese pensamiento, y no haces sino maldecirte doblemente al imaginar que Cristo
 
-har, alguna vez, parte de la obra, y que te permitir ser Su ayudador. Igual
+hará, alguna vez, parte de la obra, y que te permitirá ser Su ayudador. Igual
 
-que la obra de la creacin, as es la obra de la salvacin, nicamente del
+que la obra de la creación, así es la obra de la salvación, únicamente del
 
-Seor. De principio a fin, no es del hombre ni por el hombre.
+Seńor. De principio a fin, no es del hombre ni por el hombre.
 
-Hay tambin otro error, que es popular en
+Hay también otro error, que es popular en
 
-ciertos crculos, y es:
+ciertos círculos, y es:
 
-la salvacin por
+la salvación por
 
 medio de ceremonias.
 
-Lo encontramos en la Iglesia de Roma hasta este da;
+Lo encontramos en la Iglesia de Roma hasta este día;
 
-ciertos abracadabras pronunciados por el sacerdote, y la cosa est hecha.
+ciertos abracadabras pronunciados por el sacerdote, y la cosa está hecha.
 
-Nosotros contamos tambin con un ilusionismo similar, en eso que es la casa
+Nosotros contamos también con un ilusionismo similar, en eso que es la casa
 
 vecina de la Iglesia de Roma: la comunidad puseyista en nuestra propia tierra. Nosotros,
 
 en verdad, no somos nada; no somos ordenados regularmente; nosotros somos
 
-laicos; no tenemos ningn derecho de predicar, y as sucesivamente; pero ellos,
+laicos; no tenemos ningún derecho de predicar, y así sucesivamente; pero ellos,
 
-los descendientes inmediatos de los apstoles, ellos son
+los descendientes inmediatos de los apóstoles, ellos son
 
 los
 
-hombres; un contacto de su dedo, una seal de la cruz, y un
+hombres; un contacto de su dedo, una seńal de la cruz, y un
 
-heredero de la ira se convierte instantneamente en un miembro de Cristo, un
+heredero de la ira se convierte instantáneamente en “un miembro de Cristo, un
 
-hijo de Dios, y un heredero del reino del cielo.
+hijo de Dios, y un heredero del reino del cielo.”
 
-Es verdad que el nio puede llegar a ser
+Es verdad que el nińo puede llegar a ser
 
-colgado posteriormente; pero, se nos dice que hemos de creer genuina y
+colgado posteriormente; pero, ˇse nos dice que hemos de creer genuina y
 
-devotamente que en la santa rociadura, all y en ese momento, fue constituido
+devotamente que en la santa rociadura, allí y en ese momento, fue constituido
 
-en una parte del cuerpo de Cristo! Creen eso? Ingleses, creen eso? Acaso se
+en una parte del cuerpo de Cristo! żCreen eso? Ingleses, żcreen eso? żAcaso se
 
 ha extinguido de tal manera el eco de la voz de Wycliffe que estos mercenarios
 
@@ -582,45 +586,45 @@ sus conciencias? Hijos de los
 
 Covenanters
 
-(firmantes del pacto escocs de la reforma religiosa),
+(firmantes del pacto escocés de la reforma religiosa),
 
-descendientes de los gloriosos puritanos, tolerarn alguna vez esto, que es
+descendientes de los gloriosos puritanos, żtolerarán alguna vez esto, que es
 
 peor que el catolicismo romano, este papado disfrazado, que se esfuerza por
 
-entrar a hurtadillas en la Iglesia de ustedes? No, verdaderamente, sea
+entrar a hurtadillas en la Iglesia de ustedes? ˇNo, verdaderamente, sea
 
 anatema!
 
-Como dijo el apstol, igual decimos nosotros; y de Gerizim a Ebal que todo
+Como dijo el apóstol, igual decimos nosotros; y de Gerizim a Ebal que todo
 
-Israel diga: Amn!
+Israel diga: “ˇAmén!”
 
-Una vez, Oliver Cromwell entr a la Cmara
+Una vez, Oliver Cromwell entró a la Cámara
 
-de los Comunes cuando todava era el Sr. Cromwell, el representante de
+de los Comunes cuando todavía era el Sr. Cromwell, el representante de
 
-Huntingdon, y, quitndose el sombrero, dijo: Acabo de venir de la iglesia de
+Huntingdon, y, quitándose el sombrero, dijo: “Acabo de venir de la iglesia de
 
-la Cruz de San Pablo y o predicar all a un hombre que habl puro catolicismo
+la Cruz de San Pablo y oí predicar allí a un hombre que habló puro catolicismo
 
-romano. En verdad, si el seor Cromwell estuviera aqu ahora, podra entrar a
+romano.” En verdad, si el seńor Cromwell estuviera aquí ahora, podría entrar a
 
-muchas de nuestras iglesias, y decir: o a un hombre all que predic puro
+muchas de nuestras iglesias, y decir: “oí a un hombre allí que predicó puro
 
-catolicismo romano.
+catolicismo romano.”
 
-Pero yo en verdad confo, queridos
+Pero yo en verdad confío, queridos
 
 amigos, que la honesta protesta de los ministros de Dios, y el celo sincero de
 
-aquellos benditos hombres de Dios que estn en la Iglesia Establecida, -me
+aquellos benditos hombres de Dios que están en la Iglesia Establecida, -me
 
-refiero al clero evanglico- todava sern capaces de contener este engao tan
+refiero al clero evangélico- todavía serán capaces de contener este engańo tan
 
-popular. De igual manera podran esperar ser salvados por los gruidos de una
+popular. De igual manera podrían esperar ser salvados por los gruńidos de una
 
-bruja que por los actos de un sacerdote; podran espera de igual manera entrar
+bruja que por los actos de un sacerdote; podrían espera de igual manera entrar
 
 al cielo por medio de blasfemias que por los susurros de ciertas palabras de un
 
@@ -630,53 +634,53 @@ Dios, nuestro Dios, ha denunciado
 
 repetidamente a aquellos que se deleitan en estos errores y que minimizan la
 
-sangre de Cristo y el poder y el mrito de Su justicia. Les ruego que ninguno
+sangre de Cristo y el poder y el mérito de Su justicia. Les ruego que ninguno
 
-de ustedes piense que este es el camino al cielo, pues no lo es. Jess le
+de ustedes piense que este es el camino al cielo, pues no lo es. “Jesús le
 
-dijo: Yo soy el camino.
+dijo: Yo soy el camino.”
 
-Casi ni debera mencionar algunos otros
+Casi ni debería mencionar algunos otros
 
-de estos viejos caminos, pues cada quien parece tener un camino para s. Un
+de estos viejos caminos, pues cada quien parece tener un camino para sí. Un
 
-hombre est suscribiendo tantas libras esterlinas para obras de caridad, as que
+hombre está suscribiendo tantas libras esterlinas para obras de caridad, así que
 
-eso basta para l; otro pretende construir una hilera de asilos, as que eso
+eso basta para él; otro pretende construir una hilera de asilos, así que eso
 
-basta para l; otro perteneci siempre a una muy respetable familia, y espera que
+basta para él; otro perteneció siempre a una muy respetable familia, y espera que
 
-no ser enviado a la perdicin con la gente comn; y as, todos los hombres
+no será enviado a la perdición con la gente común; y así, todos los hombres
 
-tienen algn tipo de refugio en una cosa u otra; pero les repito que si tienen
+tienen algún tipo de refugio en una cosa u otra; pero les repito que si tienen
 
-algn refugio que no sea el expresado en el texto, es un refugio de mentiras, y
+algún refugio que no sea el expresado en el texto, es un refugio de mentiras, y
 
-el granizo barrer con l. Que Dios lo barra esta noche, y los deje desnudos y
+el granizo barrerá con él. ˇQue Dios lo barra esta noche, y los deje desnudos y
 
-sin ningn abrigo, para que sean conducidos a aceptar a Cristo como el camino,
+sin ningún abrigo, para que sean conducidos a aceptar a Cristo como el camino,
 
-el nico camino, al cielo!
+el único camino, al cielo!
 
-Entindannos, entonces: podramos parecerles
+Entiéndannos, entonces: podríamos parecerles
 
-intolerantes, podra parecer que hablamos muy duramente, pero lo que est en
+intolerantes, podría parecer que hablamos muy duramente, pero lo que está en
 
-juego aqu es nuestra alma en caso de equivocarnos. No hay otro camino al cielo
+juego aquí es nuestra alma en caso de equivocarnos. No hay otro camino al cielo
 
-excepto uno; ese nico camino es Cristo, y si caminan en l, entonces han de
+excepto uno; ese único camino es Cristo, y si caminan en él, entonces han de
 
-confiar simple, entera y nicamente en lo que Cristo hizo en la cruz, y en lo
+confiar simple, entera y únicamente en lo que Cristo hizo en la cruz, y en lo
 
-que hace hoy en el cielo mediante Su intercesin; y el que no entra por esta
+que hace hoy en el cielo mediante Su intercesión; y el que no entra por esta
 
-puerta, no entrar jams en absoluto. Aquel que no quiera doblar su cerviz bajo
+puerta, no entrará jamás en absoluto. Aquel que no quiera doblar su cerviz bajo
 
-este yugo no ser aceptado por Dios. El cielo slo tiene esta puerta, y si no
+este yugo no será aceptado por Dios. El cielo sólo tiene esta puerta, y si no
 
-entran por esta puerta, no queda nada para ustedes sino una horrenda
+entran por esta puerta, no queda nada para ustedes sino “una horrenda
 
-expectacin de juicio, y de hervor de fuego.
+expectación de juicio, y de hervor de fuego.”
 
 II.
 
@@ -684,363 +688,363 @@ Ahora tenemos que notar LA PERSONALIDAD
 
 DEL TEXTO:
 
-Yo
+“Yo
 
-soy el camino.
+soy el camino.”
 
 Supondremos de nuevo que hemos perdido el
 
-camino, y nos encontramos con un hombre, y le preguntamos cul es el camino. l
+camino, y nos encontramos con un hombre, y le preguntamos cuál es el camino. Él
 
-responde: yo soy el camino. Qu quiere decir? Si hubiera dicho: yo soy el
+responde: “yo soy el camino.” żQué quiere decir? Si hubiera dicho: “yo soy el
 
-gua, yo entendera eso; pero dice que l es el camino! Supongan que ese
+guía”, yo entendería eso; ˇpero dice que él es el camino! Supongan que ese
 
 hombre tuviera un caballo y un carruaje y que yo le preguntara por el camino, y
 
-l respondiera: yo soy el camino. No, t eres el medio de transporte a lo
+él respondiera: “yo soy el camino”. No, tú eres el medio de transporte a lo
 
-largo del camino, no el camino; no puedo comprender cmo t pudieras ser el
+largo del camino, no el camino; no puedo comprender cómo tú pudieras ser el
 
 camino.
 
 Pero voy a suponer que estoy en una
 
-comarca del pas, algo as como lo que queda al descubierto despus de que la
+comarca del país, algo así como lo que queda al descubierto después de que la
 
-marea se retira en la boca del Estuario de Solway. Los jvenes y los nios se
+marea se retira en la boca del Estuario de Solway. Los jóvenes y los nińos se
 
-adentran algunas veces en esas arenas, y la marea puede retornar sbitamente
+adentran algunas veces en esas arenas, y la marea puede retornar súbitamente
 
-antes de estn conscientes de ello, y as se exponen a morir ahogados. Nosotros
+antes de estén conscientes de ello, y así se exponen a morir ahogados. Nosotros
 
-somos dos nios jugando sobre la arena, y de repente percibimos que el mar nos
+somos dos nińos jugando sobre la arena, y de repente percibimos que el mar nos
 
 ha rodeado por completo, y que no hay ninguna posibilidad de que alcancemos la
 
-tierra. Pero se aproxima un hombre en un noble caballo, y cuando le gritamos: seor,
+tierra. Pero se aproxima un hombre en un noble caballo, y cuando le gritamos: “seńor,
 
-cul es el camino de escape? l se inclina en su caballo, nos levanta con firmeza,
+żcuál es el camino de escape”? Él se inclina en su caballo, nos levanta con firmeza,
 
-y nos dice: muchachos, yo soy el camino. Ahora, en este caso podemos
+y nos dice: “muchachos, yo soy el camino.” Ahora, en este caso podemos
 
-entenderlo perfectamente, porque l hace el trabajo tan plenamente, tan
+entenderlo perfectamente, porque él hace el trabajo tan plenamente, tan
 
-completamente, y tan enteramente, l solo, que es un asunto de sentido comn
+completamente, y tan enteramente, él solo, que es un asunto de sentido común
 
-que diga: yo soy la va de escape para ustedes.
+que diga: “yo soy la vía de escape para ustedes.”
 
-O pongmoslo de otra manera. Hay un
+O pongámoslo de otra manera. Hay un
 
-incendio por all, y hay un nio asomado a la ventana, que pregunta cul es el
+incendio por allá, y hay un nińo asomado a la ventana, que pregunta cuál es el
 
 camino de escape. Un hombre fuerte alza sus brazos; todo lo que quiere que el
 
-nio haga es que salte y que le permita sostenerlo con sus brazos, as que le
+nińo haga es que salte y que le permita sostenerlo con sus brazos, así que le
 
-responde: yo soy el camino, hijo mo; si quieres ser rescatado de la casa en
+responde: “yo soy el camino, hijo mío; si quieres ser rescatado de la casa en
 
-llamas, yo soy el camino de tu liberacin.
+llamas, yo soy el camino de tu liberación.”
 
-Vean que si l slo nos mostrara el
+Vean que si Él sólo nos mostrara el
 
-camino por el que debemos ir, Cristo no podra decir: Yo soy el camino; pero
+camino por el que debemos ir, Cristo no podría decir: “Yo soy el camino”; pero
 
-cuando l lo hace todo de principio a fin, cuando lo quita por completo de
+cuando Él lo hace todo de principio a fin, cuando lo quita por completo de
 
 nuestras manos, y lo convierte en un asunto propio, desde el Alfa hasta la
 
 Omega, entonces no se trata de forzar el discurso humano cuando el Maestro
 
-dice: Yo soy el camino.
+dice: “Yo soy el camino”.
 
-Expongmoslo sencillamente. Pecador, t
+Expongámoslo sencillamente. Pecador, tú
 
-ests en deuda con Dios; t dices: cmo puedo pagarle? Puedo yacer en las llamas
+estás en deuda con Dios; tú dices: “żcómo puedo pagarle? żPuedo yacer en las llamas
 
-del infierno? Si pudiera, aunque permaneciera con eternas quemaduras, no podra
+del infierno? Si pudiera, aunque permaneciera con eternas quemaduras, no podría
 
-pagar la deuda; debo quedarme all para siempre. Cristo replica: Yo soy el
+pagar la deuda; debo quedarme allí para siempre.” Cristo replica: “Yo soy el
 
-camino, y dice la verdad, porque l es el Pagador y tambin el pago. l, en
+camino”, y dice la verdad, porque Él es el Pagador y también el pago. Él, en
 
-lugar tuyo, en tu sitio y en sustitucin tuya, pecador, -si ahora crees en
+lugar tuyo, en tu sitio y en sustitución tuya, pecador, -si ahora crees en
 
-Cristo- l, en lugar tuyo, en tu sitio y en sustitucin tuya, tom toda tu
+Cristo- Él, en lugar tuyo, en tu sitio y en sustitución tuya, tomó toda tu
 
-culpa, pag todas tus deudas, hasta el ltimo centavo. Si t eres un creyente,
+culpa, pagó todas tus deudas, hasta el último centavo. Si tú eres un creyente,
 
-tu exoneracin est firmada y sellada, pues no hay nada pendiente por parte
+tu exoneración está firmada y sellada, pues no hay nada pendiente por parte
 
 tuya para con Dios, excepto fidelidad y amor.
 
-Pero t me dices que le debes a Dios perfecta
+Pero tú me dices que le debes a Dios perfecta
 
 obediencia. La debes; y Cristo ha obedecido perfectamente, y, por tanto, te
 
-dice: Yo soy el camino. l ha guardado la ley, la ha engrandecido, y la ha
+dice: “Yo soy el camino”. Él ha guardado la ley, la ha engrandecido, y la ha
 
-hecho honorable; y lo que t tienes que hacer es tomar la obra que l ha
+hecho honorable; y lo que tú tienes que hacer es tomar la obra que Él ha
 
-concluido, y descubrirs que l es el camino. Quieres ser un hijo de Dios esta
+concluido, y descubrirás que Él es el camino. żQuieres ser un hijo de Dios esta
 
-noche? Cristo te dice: Yo soy el camino. S uno con Cristo, y entonces, como
+noche? Cristo te dice: “Yo soy el camino.” Sé uno con Cristo, y entonces, como
 
-Cristo es el Hijo de Dios, t sers tambin un hijo de Dios. Quieres tener paz
+Cristo es el Hijo de Dios, tú serás también un hijo de Dios. żQuieres tener paz
 
-con Dios? Confa en Cristo esta noche; pon tu alma en las manos de Cristo; l
+con Dios? Confía en Cristo esta noche; pon tu alma en las manos de Cristo; Él
 
-es nuestra Paz, y entonces l ser el camino a la paz para ti. Quieres t, en
+es nuestra Paz, y entonces Él será el camino a la paz para ti. żQuieres tú, en
 
 suma, ser salvado esta noche?
 
-Oh, mis queridos oyentes, no hay algunos
+Oh, mis queridos oyentes, żno hay algunos
 
-entre ustedes que quieran ser salvos esta noche? Entonces Jess dice: Yo soy
+entre ustedes que quieran ser salvos esta noche? Entonces Jesús dice: “Yo soy
 
-el camino, no simplemente el Salvador, sino la salvacin. Confen en Cristo, y
+el camino”, no simplemente el Salvador, sino la salvación. Confíen en Cristo, y
 
-tendrn la salvacin, pues Cristo dice: Yo soy la salvacin. Tmalo, y al
+tendrán la salvación, pues Cristo dice: “Yo soy la salvación”. Tómalo, y al
 
 tomarlo, tienes la sangre que lava, el manto que cubre, la medicina que sana,
 
-las joyas que decoran; tienes la vida que preservar y la corona que adornar. Cristo
+las joyas que decoran; tienes la vida que preservará y la corona que adornará. Cristo
 
 es todo en todo; todo lo que tienes que hacer es confiar en Cristo, y confiando
 
-en l, encontrars que l es el camino, desde el principio hasta el propio fin.
+en Él, encontrarás que Él es el camino, desde el principio hasta el propio fin.
 
 III.
 
-Pero debo concluir exhortndolos a que
+Pero debo concluir exhortándolos a que
 
-acepten el consejo que est implicado aqu. Yo soy el camino; no meramente,
+acepten el consejo que está implicado aquí. “Yo soy el camino”; no meramente,
 
-Yo fui el camino para el ladrn en la cruz, sino, Yo soy el camino para ti
+“Yo fui el camino para el ladrón en la cruz”, sino, “Yo soy el camino para ti
 
-esta noche; no Yo ser el camino cuando sientas ms tu necesidad, y cuando
+esta noche”; no “Yo seré el camino cuando sientas más tu necesidad, y cuando
 
-por tu propia obra hayas logrado un mejor estado; sino pecador, Yo soy el
+por tu propia obra hayas logrado un mejor estado”; sino pecador, “Yo soy el
 
 camino precisamente ahora. Yo soy el camino para ti, tal como eres; Yo soy el
 
-camino para todo lo que necesitas.
+camino para todo lo que necesitas.”
 
-Algunas veces vemos vas de ferrocarril
+Algunas veces vemos vías de ferrocarril
 
-que se aproximan a la ciudad, pero no llevan a los trenes al corazn del lugar,
+que se aproximan a la ciudad, pero no llevan a los trenes al corazón del lugar,
 
-y luego tienes que tomar un coche o un mnibus para completar el viaje. Pero
+y luego tienes que tomar un coche o un ómnibus para completar el viaje. Pero
 
-este camino corre directo desde el corazn de la depravacin de la condicin
+este “camino” corre directo desde el corazón de la depravación de la condición
 
 humana hasta el propio centro de la gloria, y no hay necesidad de tomar ninguna
 
-otra conexin para completar el camino.
+otra conexión para completar el camino.
 
-Ustedes recordarn lo que el buen Richard
+Ustedes recordarán lo que el buen Richard
 
 Weaver dijo, en esta plataforma, cuando estaba ilustrando el hecho de que
 
-Cristo salva a los pecadores, y que los salva justo ahora. Nos cont una
+Cristo salva a los pecadores, y que los salva justo ahora. Nos contó una
 
-historia de un amigo suyo en Dubln, que le llev un boleto de primera clase
+historia de un amigo suyo en Dublín, que le llevó un boleto de primera clase
 
-para Liverpool, y le dijo: cubre el viaje de principio a fin, y ustedes
+para Liverpool, y le dijo: “cubre el viaje de principio a fin”, y ustedes
 
-recordarn cmo ilustr esto diciendo que, cuando vino a Cristo, puso su
+recordarán cómo ilustró esto diciendo que, cuando vino a Cristo, puso su
 
-confianza en l, y recibi un boleto de primera clase al cielo que cubra el
+confianza en Él, y recibió un boleto de primera clase al cielo que cubría el
 
-viaje de principio a fin. No interrump mi viaje para conseguir un nuevo
+viaje de principio a fin. “No interrumpí mi viaje para conseguir un nuevo
 
-boleto, dijo; no haba temor de que mi boleto slo tuviera validez para la
+boleto”, dijo; “no había temor de que mi boleto sólo tuviera validez para la
 
-mitad del camino, pues era un boleto que cubra el viaje de principio a fin. Yo
+mitad del camino, pues era un boleto que cubría el viaje de principio a fin. Yo
 
-no pagu nada, -dijo Richard- pero eso no importaba; mi boleto bastaba; los
+no pagué nada”, -dijo Richard- “pero eso no importaba; mi boleto bastaba; los
 
-revisores vinieron, y miraron, y dijeron: muestren sus boletos, caballeros;
+revisores vinieron, y miraron, y dijeron: ‘muestren sus boletos, caballeros’;
 
-no dijeron mustrense ustedes, sino, muestren sus boletos; y no se
+no dijeron ‘muéstrense ustedes’, sino, ‘muestren sus boletos’; y no se
 
-acercaron a la puerta, diciendo: ahora, seor Weaver, usted no tiene nada que
+acercaron a la puerta, diciendo: ‘ahora, seńor Weaver, usted no tiene nada que
 
-hacer en este vagn de primera clase; usted es slo un pobre hombre; debe
+hacer en este vagón de primera clase; usted es sólo un pobre hombre; debe
 
-salir; no est vestido de manera aceptablemente elegante; tan pronto como
+salir; no está vestido de manera aceptablemente elegante’; tan pronto como
 
-vieron mi boleto, el boleto que cubra el viaje de principio a fin, eso bast;
+vieron mi boleto, el boleto que cubría el viaje de principio a fin, eso bastó;
 
-y as, -bien lo dijo ese hombre de Dios- cuando el diablo se me acerca y me
+y así”, -bien lo dijo ese hombre de Dios- “cuando el diablo se me acerca y me
 
-dice: Richard Weaver, cmo esperas llegar al cielo? yo le muestro mi boleto;
+dice: ‘Richard Weaver, żcómo esperas llegar al cielo?’ yo le muestro mi boleto;
 
-l me dice: mrate cmo eres. No, respondo, eso es precisamente lo que no
+él me dice: ‘mírate cómo eres’. ‘No’, respondo, ‘eso es precisamente lo que no
 
-voy a hacer; mira mi boleto. Mis dudas y temores dicen: mira lo que eres;
+voy a hacer; mira mi boleto’. Mis dudas y temores dicen: ‘mira lo que eres’;
 
-ah!, no importa lo que soy; yo miro a lo que Cristo me dio, y que l mismo
+ˇah!, no importa lo que soy; yo miro a lo que Cristo me dio, y que Él mismo
 
-compr y pag: ese boleto de fe que ciertamente me llevar todo el camino.
+compró y pagó: ese boleto de fe que ciertamente me llevará todo el camino.”
 
 Eso tiene que ver con el fin del camino,
 
-ustedes ven; el boleto les llevar hasta el fin. Cristo es tambin el camino
+ustedes ven; el boleto les llevará hasta el fin. Cristo es también el camino
 
-hasta el fin; pero esta noche yo quiero mostrarles que l es el camino hasta el
+hasta el fin; pero esta noche yo quiero mostrarles que Él es el camino hasta el
 
-fin de ustedes as como hasta el fin de Dios. Cristo ha conducido el tren hasta
+fin de ustedes así como hasta el fin de Dios. Cristo ha conducido el tren hasta
 
-el propio cielo, pero, corre desde donde yo estoy? Porque, si no, si hay un
+el propio cielo, pero, żcorre desde donde yo estoy? Porque, si no, si hay un
 
-espacio entre m y el lugar donde el tren se detiene, cmo voy a llegar all?
+espacio entre mí y el lugar donde el tren se detiene, żcómo voy a llegar allá?
 
-No puedo contar con el carruaje de Moralidad, porque el eje est quebrado. No
+No puedo contar con el carruaje de Moralidad, porque el eje está quebrado. No
 
-me voy a subir al gran mnibus de Ceremonias, pues el conductor ha perdido su
+me voy a subir al gran ómnibus de Ceremonias, pues el conductor ha perdido su
 
-gafete, y estoy seguro de que el mal provendr de ello.
+gafete, y estoy seguro de que el mal provendrá de ello.
 
-Entonces, cmo he de llegar all? No
+Entonces, żcómo he de llegar allá? No
 
-puedo llegar all en absoluto a menos que el camino llegue justo aqu donde yo
+puedo llegar allá en absoluto a menos que el camino llegue justo aquí donde yo
 
 estoy. Bien, gloria sea dada a Dios, porque en efecto llega precisamente donde
 
-t ests, pecador. No tienes que agregarle nada no tienes que prepararte para
+tú estás, pecador. No tienes que agregarle nada –no tienes que prepararte para
 
-Cristo, no tienes que reunirte con Jess a mitad del camino, no tienes que
+Cristo, no tienes que reunirte con Jesús a mitad del camino, no tienes que
 
-limpiarte, para permitirle que slo te d los toques finales, no tienes que
+limpiarte, para permitirle que sólo te dé los toques finales, no tienes que
 
-remendar tus vestidos para que l los vuelva superfinos- no, sino que, tal como
+remendar tus vestidos para que Él los vuelva superfinos- no, sino que, tal como
 
-eres, Cristo te dice: Yo soy el camino.
+eres, Cristo te dice: “Yo soy el camino”.
 
-Pero t preguntas: Seor, qu quieres
+Pero tú preguntas: “Seńor, żqué quieres
 
-que yo haga? Hacer?, dice l- hacer? Nada, excepto creer en m; confa
+que yo haga?” “żHacer?”, –dice Él- “żhacer?” Nada, excepto creer en mí; confía
 
-en m, confa en m ahora. Me parece que o que alguien que est en uno de los
+en mí, confía en mí ahora. Me parece que oí que alguien que está en uno de los
 
-asientos del balcn superior comenta: Cuando llegue a casa esta noche, voy a
+asientos del balcón superior comenta: “Cuando llegue a casa esta noche, voy a
 
-orar. Espero que ores; pero eso no es el Evangelio. El Evangelio es: confa en
+orar”. Espero que ores; pero eso no es el Evangelio. El Evangelio es: confía en
 
-Jesucristo ahora; Cristo es el camino ahora, no nicamente desde tu aposento
+Jesucristo ahora; Cristo es el camino ahora, no únicamente desde tu aposento
 
-hasta el cielo, sino desde este lugar, desde el propio sitio donde ests ahora,
+hasta el cielo, sino desde este lugar, desde el propio sitio donde estás ahora,
 
 hasta el cielo.
 
 Les repito, queridos hermanos, que
 
-aborrezco desde lo ntimo de mi corazn ese nuevo tipo de legalidad que es
+aborrezco desde lo íntimo de mi corazón ese nuevo tipo de legalidad que es
 
 predicada por algunos ministros, que quieren que no le digamos al pecador que
 
 crea en Cristo ahora, sino que debe estar sujeto a un proceso preparatorio de
 
-conviccin y cosas semejantes. Esto es nuevamente el papado, pues contiene la
+convicción y cosas semejantes. Esto es nuevamente el papado, pues contiene la
 
-propia esencia del papado. En vez de eso, yo alzo la cruz de mi Seor delante
+propia esencia del papado. En vez de eso, yo alzo la cruz de mi Seńor delante
 
-de los que estn muriendo y de los muertos, delante de los ciegos, de los
+de los que están muriendo y de los muertos, delante de los ciegos, de los
 
-arruinados, y de los inmundos. Confa en Jesucristo, y t eres salvo.
+arruinados, y de los inmundos. Confía en Jesucristo, y tú eres salvo.
 
-Pero yo tengo muchos pecados. l tena
+“Pero yo tengo muchos pecados.” Él tenía
 
-muchas gotas de sangre. Pero yo soy un gran pecador. l es un gran Salvador.
+muchas gotas de sangre. “Pero yo soy un gran pecador.” Él es un gran Salvador.
 
-Pero yo soy tan negro. Su sangre es tan eficaz que puede volverte tan blanco
+“Pero yo soy tan negro.” Su sangre es tan eficaz que puede volverte tan blanco
 
-como la nieve. Pero yo soy tan viejo. S, pero l puede hacer que nazcas de
+como la nieve. “Pero yo soy tan viejo.” Sí, pero Él puede hacer que nazcas de
 
-nuevo. Pero yo le he rechazado tantas veces. l no te rechazar. Pero yo soy
+nuevo. “Pero yo le he rechazado tantas veces.” Él no te rechazará. “Pero yo soy
 
-la ltima persona del mundo para ser salvada. Entonces all es donde Cristo
+la última persona del mundo para ser salvada.” Entonces allí es donde Cristo
 
-comienza; l siempre comienza por el ltimo hombre. Pero yo no puedo creer eso
+comienza; Él siempre comienza por el último hombre. “Pero yo no puedo creer eso…”
 
-Qu es lo que no puedes creer? No puedo creer Te repito la pregunta, qu
+żQué es lo que no puedes creer? “No puedo creer…” Te repito la pregunta, żqué
 
-es lo que no puedes creer? Mi Maestro es el Seor del cielo que no puede
+es lo que no puedes creer? Mi Maestro es el Seńor del cielo que no puede
 
-mentir; y t me dices que no puedes creer en l! Mi Maestro nunca minti a
+mentir; y ˇtú me dices que no puedes creer en Él! Mi Maestro nunca mintió a
 
-algn ngel o a los hombres, y no puede hacerlo, pues l es la verdad misma; y
+algún ángel o a los hombres, y no puede hacerlo, pues Él es la verdad misma; y
 
-esto es lo que l dice: que cualquiera de ustedes que confe en l esta noche,
+esto es lo que Él dice: que cualquiera de ustedes que confíe en Él esta noche,
 
-l lo salvar; y si dicen que no pueden creer en l, hacen a Dios mentiroso,
+Él lo salvará; y si dicen que no pueden creer en Él, hacen a Dios mentiroso,
 
 porque no creen en Su Hijo Jesucristo.
 
-Te exhorto, por el da del juicio y por
+Te exhorto, por el día del juicio y por
 
-el mundo envuelto en llamas, que no digas que el Dios que te hizo te mentira.
+el mundo envuelto en llamas, que no digas que el Dios que te hizo te mentiría.
 
-Pecador, nunca ser hallado un espritu en el infierno que pudiera decir: yo
+Pecador, nunca será hallado un espíritu en el infierno que pudiera decir: “yo
 
-confi en Cristo, y fui engaado; yo me apoy en la cruz, y sus maderos
+confié en Cristo, y fui engańado; yo me apoyé en la cruz, y sus maderos
 
-podridos crujieron, y me fallaron; yo mir a la sangre de Jess, y no pudo
+podridos crujieron, y me fallaron; yo miré a la sangre de Jesús, y no pudo
 
-limpiarme; yo clam al cielo, pero el cielo no me oy; yo tom a Jess en mis
+limpiarme; yo clamé al cielo, pero el cielo no me oyó; yo tomé a Jesús en mis
 
 brazos para que fuera mi Mediador, y, sin embargo, fui echado de la puerta de
 
-la misericordia; no hubo piedad para m. Nunca, nunca habr un caso as. Sera
+la misericordia; no hubo piedad para mí.” Nunca, nunca habrá un caso así. Sería
 
 bueno, estaba a punto de decir, que no estuviera predicando a hombres
 
-depravados, y, sin embargo, a quines ms iramos? Porque esta es una triste
+depravados, y, sin embargo, ża quiénes más iríamos? Porque esta es una triste
 
-reflexin, que tantos de ustedes darn la vuelta sobre sus talones y dirn: no
+reflexión, que tantos de ustedes darán la vuelta sobre sus talones y dirán: “no
 
-hay nada en esto.
+hay nada en esto.”
 
-Pero, quines son aquellos que mirarn a
+Pero, żquiénes son aquellos que mirarán a
 
-Cristo? Bien, aquellos que Dios ha elegido, en quienes el Espritu, como
+Cristo? Bien, aquellos que Dios ha elegido, en quienes el Espíritu, como
 
-resultado de la eleccin divina, obrar eficazmente, y quienes sern los
+resultado de la elección divina, obrará eficazmente, y quienes serán los
 
-verdaderos trofeos de la pasin del Redentor. Pero, fjense que todos ustedes
+verdaderos trofeos de la pasión del Redentor. Pero, fíjense que todos ustedes
 
-han odo el Evangelio esta noche; y cuando ustedes y yo nos encontremos cara a
+han oído el Evangelio esta noche; y cuando ustedes y yo nos encontremos cara a
 
-cara, mientras la trompeta del juicio est sonando en cada odo humano, cuando
+cara, mientras la trompeta del juicio esté sonando en cada oído humano, cuando
 
-esta slida tierra se cimbre, cuando los cielos se inclinen, y la luz de las
+esta sólida tierra se cimbre, cuando los cielos se inclinen, y la luz de las
 
-estrellas palidezca y se debilite, yo dar este testimonio: que yo les mostr
+estrellas palidezca y se debilite, yo daré este testimonio: que yo les mostré
 
-claramente el camino de salvacin; y en aquel gran da ser capaz de decir de
+claramente el camino de salvación; y en aquel gran día seré capaz de decir de
 
-cada uno de ustedes: si perecen, su sangre no estar a mi puerta.
+cada uno de ustedes: “si perecen, su sangre no estará a mi puerta.”
 
-Hay alguien que no me haya entendido?
+żHay alguien que no me haya entendido?
 
-Hay alguien que todava piense que se ha quedado fuera, y que no puede ser
+żHay alguien que todavía piense que se ha quedado fuera, y que no puede ser
 
 salvado? Para
 
 ti,
 
-amigo, s, para ti,
+amigo, sí, para ti,
 
-agrego esta palabra: Puede tambin salvar perpetuamente a los que por l se
+agrego esta palabra: “Puede también salvar perpetuamente a los que por él se
 
-acercan a Dios; y aunque t ests negro por causa de robos, o rojo de sangre,
+acercan a Dios”; y aunque tú estés negro por causa de robos, o rojo de sangre,
 
-o manchado hasta los codos por la lujuria, l puede salvar; y confiando en l, confiando
+o manchado hasta los codos por la lujuria, Él puede salvar; y confiando en Él, confiando
 
-en l de todo tu corazn, encontrars que l, en verdad, te llevar al lugar
+en Él de todo tu corazón, encontrarás que Él, en verdad, te llevará al lugar
 
-donde te ver con deleite, habindote lavado en Su sangre.
+donde te verá con deleite, habiéndote lavado en Su sangre.
 
 Nota
 
@@ -1048,13 +1052,13 @@ del traductor:
 
 Puseyismo, puseyista: Se refiere a Edward
 
-B. Pusey, uno de los lderes del movimiento de Oxford, del siglo 19, de fuertes
+B. Pusey, uno de los líderes del movimiento de Oxford, del siglo 19, de fuertes
 
 tendencias favorables a la Iglesia de Roma, que lo llevaron a favorecer la
 
-confesin privada y a apoyar el avivamiento del ritualismo.
+confesión privada y a apoyar el avivamiento del ritualismo.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 30/Octubre/2008
 

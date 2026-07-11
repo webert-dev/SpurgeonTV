@@ -1,152 +1,152 @@
 # Sermón 504 | Sermón 504
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
-Yo s que mi Redentor vive
+Yo sé que mi Redentor vive
 
 NO. 504
 
-SERMN
+SERMÓN
 
-PREDICADO LA MAANA DEL DOMINGO 12 DE ABRIL, 1863
+PREDICADO LA MAŃANA DEL DOMINGO 12 DE ABRIL, 1863
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES.
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES.
 
-Yo s que mi Redentor vive, y al fin se levantar sobre el
+“Yo sé que mi Redentor vive, y al fin se levantará sobre el
 
-polvo; y despus de deshecha esta mi piel, en mi carne he de ver a Dios; al
+polvo; y después de deshecha esta mi piel, en mi carne he de ver a Dios; al
 
-cual ver por m mismo, y mis ojos lo vern, y no otro, aunque mi corazn
+cual veré por mí mismo, y mis ojos lo verán, y no otro, aunque mi corazón
 
-desfallece dentro de m. Job 19: 25-27.
+desfallece dentro de mí.” Job 19: 25-27.
 
 La mano de Dios se ha recargado
 
-pesadamente sobre nosotros en esta semana. Un anciano dicono, que fue miembro
+pesadamente sobre nosotros en esta semana. Un anciano diácono, que fue miembro
 
-de esta iglesia por ms de cincuenta aos, ha sido quitado de en medio de
+de esta iglesia por más de cincuenta ańos, ha sido quitado de en medio de
 
-nosotros; y una hermana, la amada esposa de otro de nuestros lderes, y miembro
+nosotros; y una hermana, la amada esposa de otro de nuestros líderes, y miembro
 
-por casi un mismo nmero de aos, se ha quedado dormida. No ocurre con
+por casi un mismo número de ańos, se ha quedado dormida. No ocurre con
 
 frecuencia que una iglesia sea llamada a lamentar la partida de dos miembros
 
-tan venerables; no hemos de prestar odos sordos a esta doble admonicin para
+tan venerables; no hemos de prestar oídos sordos a esta doble admonición para
 
 que nos preparemos para venir al encuentro de nuestro Dios. Que ambos fueran
 
 preservados durante tanto tiempo, y fueran sostenidos tan misericordiosamente
 
-por tantos aos, no slo era una razn de gratitud para ellos, sino tambin
+por tantos ańos, no sólo era una razón de gratitud para ellos, sino también
 
-para nosotros. Sin embargo, yo soy tan renuente a la predicacin de los llamados
+para nosotros. Sin embargo, yo soy tan renuente a la predicación de los llamados
 
-sermones fnebres,
+sermones fúnebres,
 
 que me abstengo
 
-para que no parezca que encomio a la criatura cuando mi nico propsito debe
+para que no parezca que encomio a la criatura cuando mi único propósito debe
 
 ser magnificar la gracia de Dios.
 
 Nuestro texto merece nuestra profunda
 
-atencin; difcilmente se habra escrito el prlogo de estas palabras de Job, si
+atención; difícilmente se habría escrito el prólogo de estas palabras de Job, si
 
-el asunto no hubiera sido de suma importancia a juicio del patriarca que las expres.
+el asunto no hubiera sido de suma importancia a juicio del patriarca que las expresó.
 
-Escuchen el inusitado deseo de Job: Quin diese que mis palabras fuesen
+Escuchen el inusitado deseo de Job: “ˇQuién diese que mis palabras fuesen
 
-escritas! Quin diese que se escribiesen en un libro; que con cincel de hierro
+escritas! ˇQuién diese que se escribiesen en un libro; que con cincel de hierro
 
-y con plomo fuesen esculpidas en piedra para siempre! Tal vez apenas estaba
+y con plomo fuesen esculpidas en piedra para siempre!” Tal vez apenas estaba
 
-consciente del pleno significado de las palabras que deca, pero su alma santa
+consciente del pleno significado de las palabras que decía, pero su alma santa
 
-estaba impresionada con un sentido de alguna densa revelacin oculta detrs de
+estaba impresionada con un sentido de alguna densa revelación oculta detrás de
 
 sus palabras; por tanto, deseaba que fueran registradas en un libro. Job ha
 
-visto cumplido su deseo: el Libro de los libros preserva las palabras de Job. Quera
+visto cumplido su deseo: el Libro de los libros preserva las palabras de Job. Quería
 
 verlas esculpidas sobre roca, cortadas profundamente con una pluma de hierro e
 
-incrustadas con plomo; o bien, quera que fueran cinceladas sobre una lmina de
+incrustadas con plomo; o bien, quería que fueran cinceladas sobre una lámina de
 
 metal, de acuerdo con la costumbre de los antiguos, para que el tiempo fuera incapaz
 
-de carcomer la inscripcin. Job no vio cumplido su deseo en ese sentido,
+de carcomer la inscripción. Job no vio cumplido su deseo en ese sentido,
 
 excepto que sus palabras han quedado registradas en muchos y muchos sepulcros:
 
-Yo s que mi Redentor vive.
+“Yo sé que mi Redentor vive”.
 
 Algunos comentaristas opinan que Job, al
 
-hablar aqu de la roca, se refera a su propio sepulcro cavado en la roca, y que
+hablar aquí de la roca, se refería a su propio sepulcro cavado en la roca, y que
 
 deseaba que este fuera su epitafio; anhelaba que fuera esculpido profundamente
 
-para que las edades no desgastaran la inscripcin; que cuando alguien
+para que las edades no desgastaran la inscripción; que cuando alguien
 
-preguntara: Dnde duerme Job?, tan pronto como vieran el sepulcro del patriarca
+preguntara: “żDónde duerme Job?”, tan pronto como vieran el sepulcro del patriarca
 
-de Uz, concibieran que muri en la esperanza de la resurreccin, confiando en
+de Uz, concibieran que murió en la esperanza de la resurrección, confiando en
 
 un Redentor vivo.
 
 No sabemos si esa frase adornaba los
 
-portales de la ltima morada de Job, pero, ciertamente, las palabras no habran
+portales de la última morada de Job, pero, ciertamente, las palabras no habrían
 
-podido ser escogidas ms adecuadamente. Acaso el hombre de paciencia, espejo de
+podido ser escogidas más adecuadamente. żAcaso el hombre de paciencia, espejo de
 
-resistencia, modelo de confianza, no debera llevar en memoria suya esta lnea
+resistencia, modelo de confianza, no debería llevar en memoria suya esta línea
 
-de oro, que est tan llena de toda la paciencia de la esperanza, y la esperanza
+de oro, que está tan llena de toda la paciencia de la esperanza, y la esperanza
 
-de la paciencia, como podra estarlo el lenguaje de los mortales? Quin de
+de la paciencia, como podría estarlo el lenguaje de los mortales? żQuién de
 
-nosotros podra seleccionar una divisa ms gloriosa para su ltimo escudo de
+nosotros podría seleccionar una divisa más gloriosa para su último escudo de
 
 armas?
 
 Lamento decir que unos cuantos de
 
-aquellos que han escrito sobre este pasaje no pueden ver en l a Cristo, o la
+aquellos que han escrito sobre este pasaje no pueden ver en él a Cristo, o la
 
-resurreccin, en absoluto. Albert Barnes, entre otros, expresa su intenso pesar
+resurrección, en absoluto. Albert Barnes, entre otros, expresa su intenso pesar
 
-porque no puede encontrar aqu la resurreccin, y, por mi parte, siento pesar
+porque no puede encontrar aquí la resurrección, y, por mi parte, siento pesar
 
-por l. Si hubiese sido el deseo de Job predecir el advenimiento de Cristo y su
+por él. Si hubiese sido el deseo de Job predecir el advenimiento de Cristo y su
 
-propia resurreccin, no puedo ver qu mejores palabras podra haber usado; y si
+propia resurrección, no puedo ver qué mejores palabras podría haber usado; y si
 
-esas verdades no son enseadas aqu, entonces el lenguaje debe haber perdido su
+esas verdades no son enseńadas aquí, entonces el lenguaje debe haber perdido su
 
 objetivo original, y debe haber sido empleado para confundir y no para
 
-explicar, para ocultar y no para revelar. Yo pregunto: qu quiere decir el
+explicar, para ocultar y no para revelar. Yo pregunto: żqué quiere decir el
 
-patriarca, si no es que l resucitar cuando el Redentor est en la tierra?
+patriarca, si no es que él resucitará cuando el Redentor esté en la tierra?
 
-Hermanos, ninguna mente simple dejara de encontrar aqu lo que casi todos los
+Hermanos, ninguna mente simple dejaría de encontrar aquí lo que casi todos los
 
 creyentes han descubierto. Me siento seguro al apegarme al sentido antiguo y,
 
-esta maana, no buscaremos ninguna nueva interpretacin, sino que nos
+esta mańana, no buscaremos ninguna nueva interpretación, sino que nos
 
-adheriremos a la interpretacin comn, con o sin el consentimiento de nuestros
+adheriremos a la interpretación común, con o sin el consentimiento de nuestros
 
-crticos.
+críticos.
 
-Al discurrir sobre esas lneas, voy a
+Al discurrir sobre esas líneas, voy a
 
 hablar sobre tres cosas. Primero,
 
@@ -158,7 +158,7 @@ Luego,
 
 con Job,
 
-miremos hacia lo alto buscando consolacin
+miremos hacia lo alto buscando consolación
 
 en el
 
@@ -166,7 +166,7 @@ presente.
 
 Y, en tercer lugar,
 
-y todava en su admirable compaa,
+y todavía en su admirable compańía,
 
 anticipemos
 
@@ -180,15 +180,15 @@ patriarca de Uz, DESCENDAMOS AL SEPULCRO.
 
 El cuerpo acaba de divorciarse del alma.
 
-Los amigos que le amaron ms tiernamente han dicho: Sepultar mi muerto de delante
+Los amigos que le amaron más tiernamente han dicho: “Sepultaré mi muerto de delante
 
-de m. El cuerpo es cargado en el fretro y consignado a la muda tierra; luego
+de mí”. El cuerpo es cargado en el féretro y consignado a la muda tierra; luego
 
 es circundado por los terraplenes de la muerte. La muerte tiene una multitud de
 
-tropas. Si las langostas y las orugas son el ejrcito de Dios, los gusanos son
+tropas. Si las langostas y las orugas son el ejército de Dios, los gusanos son
 
-el ejrcito de la muerte. Estos hambrientos guerreros comienzan a atacar la
+el ejército de la muerte. Estos hambrientos guerreros comienzan a atacar la
 
 ciudad del hombre. Comienzan con las obras exteriores; toman por asalto las
 
@@ -196,39 +196,39 @@ fortificaciones externas, y derrumban las paredes. La piel, el muro de la ciudad
 
 del hombre, es totalmente quebrantada, y las torres de su gloria son cubiertas
 
-de confusin. Cun rpidamente estropean toda belleza los crueles invasores. El
+de confusión. Cuán rápidamente estropean toda belleza los crueles invasores. El
 
-rostro acumula negrura; el semblante es profanado por la corrupcin. Esas
+rostro acumula negrura; el semblante es profanado por la corrupción. Esas
 
 mejillas que una vez fueron hermosas, rebosantes de juventud y sonrosadas de
 
 salud, se han hundido, como una pared pandeada o una cerca tambaleante; esos
 
-ojos, las ventanas de la mente, desde donde el jbilo y la afliccin atisbaban
+ojos, las ventanas de la mente, desde donde el júbilo y la aflicción atisbaban
 
-por turnos, ahora estn rellenos del polvo de la muerte; esos labios, las
+por turnos, ahora están rellenos del polvo de la muerte; esos labios, las
 
-puertas del alma, los accesos de Almahumana, son arrancados y sus cerrojos,
+puertas del alma, los accesos de ‘Almahumana’, son arrancados y sus cerrojos,
 
-quebrantados. Ay, ventanas de gata y puertas de carbunclo!, dnde estn
+quebrantados. ˇAy, ventanas de ágata y puertas de carbunclo!, żdónde están
 
-ustedes ahora? Cmo he de lamentar por ti, oh t, ciudad cautiva, pues hombres
+ustedes ahora? ˇCómo he de lamentar por ti, oh tú, ciudad cautiva, pues hombres
 
 fuertes te han saqueado por completo! Tu cuello, que antes era como una torre
 
-de marfil, se ha vuelto como una columna cada; tu nariz, tan recientemente
+de marfil, se ha vuelto como una columna caída; tu nariz, tan recientemente
 
-comparable a la torre del Lbano, que mira hacia Damasco, es como un
+comparable a “la torre del Líbano, que mira hacia Damasco”, es como un
 
 cuchitril arruinado; y tu cabeza, que descollaba como el Carmelo, se esconde
 
-ahora como los terrones del valle. Dnde est ahora la belleza? Los ms hermosos
+ahora como los terrones del valle. żDónde está ahora la belleza? Los más hermosos
 
-no pueden distinguirse de los ms deformes. La vasija tan delicadamente
+no pueden distinguirse de los más deformes. La vasija tan delicadamente
 
 elaborada en la rueda del alfarero, es arrojada sobre el muladar junto a los
 
-ms viles tiestos.
+más viles tiestos.
 
 Ustedes han sido crueles, ustedes,
 
@@ -236,549 +236,549 @@ guerreros de la muerte, pues aunque no blanden hachas y no sostienen martillos,
 
 han destruido la obra tallada; y aunque no hablan con la lengua, han dicho en
 
-sus corazones: Devormosla; ciertamente este el da que esperbamos; lo hemos
+sus corazones: “Devorémosla; ciertamente este el día que esperábamos; lo hemos
 
-hallado, lo hemos visto. La piel ha desaparecido. Las tropas han entrado a la
+hallado, lo hemos visto.” La piel ha desaparecido. Las tropas han entrado a la
 
-ciudad de Almahumana. Y ahora prosiguen su obra de devastacin; los
+ciudad de ‘Almahumana’. Y ahora prosiguen su obra de devastación; los
 
-despiadados merodeadores caen sobre el propio cuerpo. All estn esos nobles
+despiadados merodeadores caen sobre el propio cuerpo. Allí están esos nobles
 
-acueductos, las venas, a travs de las cuales solan fluir las corrientes de la
+acueductos, las venas, a través de las cuales solían fluir las corrientes de la
 
 vida; ahora, en vez de ser canales de vida, se han bloqueado con la tierra y
 
-los desperdicios de la muerte, y ahora habrn de ser hechas trizas; ni una sola
+los desperdicios de la muerte, y ahora habrán de ser hechas trizas; ni una sola
 
-de sus reliquias ser conservada. Observen los msculos y los tendones, como
+de sus reliquias será conservada. Observen los músculos y los tendones, como
 
-grandes calzadas que penetrando en la metrpoli, transportan la fuerza y la
+grandes calzadas que penetrando en la metrópoli, transportan la fuerza y la
 
 riqueza del hombre por todos lados; su curioso pavimento ha de ser levantado, y
 
-quienes transitan por ellas sern consumidos; cada hueso ser horadado, y cada
+quienes transitan por ellas serán consumidos; cada hueso será horadado, y cada
 
 curioso arco, y cada ligamento nudoso han de ser partidos y destruidos.
 
-Hermosos tejidos, gloriosas bodegas, costosos motores, maravillosas mquinas,
+Hermosos tejidos, gloriosas bodegas, costosos motores, maravillosas máquinas,
 
-todo, todo ser desmontado, y no quedar piedra sobre piedra. Esos nervios, que
+todo, todo será desmontado, y no quedará piedra sobre piedra. Esos nervios, que
 
-como alambres telegrficos conectaban todas las partes de la ciudad, para
+como alambres telegráficos conectaban todas las partes de la ciudad, para
 
 transportar el pensamiento y el sentimiento y la inteligencia, han sido
 
-cortados. No importa cun artstica pudiera ser la obra, -y, ciertamente,
+cortados. No importa cuán artística pudiera ser la obra, -y, ciertamente,
 
 estamos hechos de manera sumamente maravillosa, al punto de que el especialista
 
-en anatoma se queda pasmado y asombrado al ver la destreza que el Dios eterno
+en anatomía se queda pasmado y asombrado al ver la destreza que el Dios eterno
 
-ha manifestado en la formacin del cuerpo- esos despiadados gusanos hacen
+ha manifestado en la formación del cuerpo- esos despiadados gusanos hacen
 
 trizas todo, hasta que como una ciudad saqueada y despojada que ha sido
 
-entregada a das de pillaje y de fuego, todo queda reducido a un montn de
+entregada a días de pillaje y de fuego, todo queda reducido a un montón de
 
 ruinas: las cenizas a las cenizas, el polvo al polvo. Pero estos invasores no
 
-se detienen aqu. Job dice que a continuacin sus riones se consumen (1).
+se detienen aquí. Job dice que a continuación sus rińones se consumen (1).
 
-Solemos hablar del corazn como la grandiosa ciudadela de la vida, la custodia
+Solemos hablar del corazón como la grandiosa ciudadela de la vida, la custodia
 
-y la torre del homenaje donde el capitn de la guardia se sostiene firme hasta
+y la torre del homenaje donde el capitán de la guardia se sostiene firme hasta
 
 el final (2).
 
-Los hebreos no consideran al corazn,
+Los hebreos no consideran al corazón,
 
-sino a las vsceras inferiores, los riones, como el asiento de las pasiones y
+sino a las vísceras inferiores, los rińones, como el asiento de las pasiones y
 
 del poder mental. Los gusanos no los perdonan; ellos entran en los lugares
 
-secretos del tabernculo de la vida, y arrancan de la torre el estandarte.
+secretos del tabernáculo de la vida, y arrancan de la torre el estandarte.
 
-Habiendo muerto, el corazn no puede seguir preservndose, y cae como el resto
+Habiendo muerto, el corazón no puede seguir preservándose, y cae como el resto
 
-del cuerpo: cae presa de los gusanos. No queda nada, no queda absolutamente
+del cuerpo: cae presa de los gusanos. ˇNo queda nada, no queda absolutamente
 
 nada! La piel, el cuerpo, las partes vitales, todo, todo se ha acabado. No
 
-queda nada. En unos cuantos aos, se podra levantar el csped y decir: Aqu
+queda nada. En unos cuantos ańos, se podría levantar el césped y decir: “Aquí
 
-durmi fulano de tal, y dnde se encuentra ahora?, y podran registrar, rastrear
+durmió fulano de tal, y żdónde se encuentra ahora?”, y podrían registrar, rastrear
 
-y cavar, pero no encontraran ningn vestigio. La Madre Tierra ha devorado a
+y cavar, pero no encontrarían ningún vestigio. La Madre Tierra ha devorado a
 
-sus propios vstagos.
+sus propios vástagos.
 
-Queridos amigos, por qu querramos que
+Queridos amigos, żpor qué querríamos que
 
-fuese de otra manera? Por qu desearamos preservar el cuerpo cuando el alma
+fuese de otra manera? żPor qué desearíamos preservar el cuerpo cuando el alma
 
-ya se ha ido? Qu vanos intentos han hecho los hombres para lograrlo con
+ya se ha ido? ˇQué vanos intentos han hecho los hombres para lograrlo con
 
-atades de plomo y envolturas de mirra e incienso! El embalsamamiento de los
+ataúdes de plomo y envolturas de mirra e incienso! El embalsamamiento de los
 
-egipcios, esos expertos ladrones del gusano, qu ha logrado? Ha servido para conservar
+egipcios, esos expertos ladrones del gusano, żqué ha logrado? Ha servido para conservar
 
 algunos pobres y marchitos terrones de mortalidad sobre la tierra, para que
 
-sean vendidos como curiosidades, arrastrados a climas extraos, y mirados por
+sean vendidos como curiosidades, arrastrados a climas extrańos, y mirados por
 
-ojos desconsiderados. No, que el polvo se vaya, y entre ms pronto se disuelva,
+ojos desconsiderados. No, que el polvo se vaya, y entre más pronto se disuelva,
 
-mejor. Y qu importa cmo se vaya! Qu importa si es devorado por las
+mejor. ˇY qué importa cómo se vaya! ˇQué importa si es devorado por las
 
 bestias, si es engullido por el mar para convertirse luego en alimento de los
 
-peces! Qu importa si las plantas con sus races succionan las partculas! Qu
+peces! ˇQué importa si las plantas con sus raíces succionan las partículas! ˇQué
 
 importa si el tejido pasa al animal, y del animal a la tierra, y de la tierra a
 
-las plantas, y de la planta otra vez al animal! Qu importa si los ros lo
+las plantas, y de la planta otra vez al animal! ˇQué importa si los ríos lo
 
-transportan a las olas del ocano! Ha sido ordenado, que de alguna manera u
+transportan a las olas del océano! Ha sido ordenado, que de alguna manera u
 
-otra, todo ha de ser separado: el polvo al polvo, las cenizas a las cenizas.
+otra, todo ha de ser separado: “el polvo al polvo, las cenizas a las cenizas”.
 
 Es parte del decreto que todo ha de perecer. Los gusanos o cualquier otro
 
-agente de destruccin han de destruir este cuerpo. No trates de evitar lo que
+agente de destrucción han de destruir este cuerpo. No trates de evitar lo que
 
-Dios se ha propuesto; no lo veas como algo sombro. Considralo como una
+Dios se ha propuesto; no lo veas como algo sombrío. Considéralo como una
 
-necesidad; mejor an, mralo como la plataforma de un milagro, el excelso
+necesidad; mejor aún, míralo como la plataforma de un milagro, el excelso
 
-estado de la resurreccin, puesto que Jess, ciertamente, resucitar de los
+estado de la resurrección, puesto que Jesús, ciertamente, resucitará de los
 
-muertos las partculas de este cuerpo, por dispersas que estn. Nos hemos
+muertos las partículas de este cuerpo, por dispersas que estén. Nos hemos
 
-enterado de algunos milagros, pero qu milagro tan grande es la resurreccin!
+enterado de algunos milagros, pero ˇqué milagro tan grande es la resurrección!
 
-Todos los milagros de la Escritura, s, incluso aquellos obrados por Cristo,
+Todos los milagros de la Escritura, sí, incluso aquellos obrados por Cristo,
 
-son pequeos comparados con este milagro. El filsofo pregunta: Cmo es
+son pequeńos comparados con este milagro. El filósofo pregunta: “żCómo es
 
-posible que Dios rastree cada partcula del cuerpo humano? Dios puede hacerlo:
+posible que Dios rastree cada partícula del cuerpo humano?” Dios puede hacerlo:
 
-slo tiene que decir la palabra, y cada uno de los tomos, aunque hubiere
+sólo tiene que decir la palabra, y cada uno de los átomos, aunque hubiere
 
-viajado miles de leguas, aunque hubiere sido soplado como polvo a travs del
+viajado miles de leguas, aunque hubiere sido soplado como polvo a través del
 
-desierto y en seguida hubiere cado en el seno del mar, y luego hubiere
+desierto y en seguida hubiere caído en el seno del mar, y luego hubiere
 
 descendido a sus profundidades para ser arrojado a una playa desolada,
 
-engullido por las plantas, tragado por las bestias, o pasado al tejido de algn
+engullido por las plantas, tragado por las bestias, o pasado al tejido de algún
 
-otro hombre; este tomo individual, afirmo, encontrar a sus compaeros, y todo
+otro hombre; este átomo individual, afirmo, encontrará a sus compańeros, y todo
 
-el conjunto de partculas, al sonar la trompeta del arcngel, viajar al lugar
+el conjunto de partículas, al sonar la trompeta del arcángel, viajará al lugar
 
 designado, y el cuerpo, el mismo cuerpo que fue depositado en la tierra,
 
-resucitar de nuevo.
+resucitará de nuevo.
 
-Me temo que mi presentacin ha carecido
+Me temo que mi presentación ha carecido
 
-de inters al entretenerme en la exposicin de las palabras de Job, pero pienso
+de interés al entretenerme en la exposición de las palabras de Job, pero pienso
 
-firmemente que la mdula de la fe de Job radica en esto: que tena una visin
+firmemente que la médula de la fe de Job radica en esto: que tenía una visión
 
-clara de que los gusanos destruiran su cuerpo despus de hacerlo con la piel,
+clara de que los gusanos destruirían su cuerpo después de hacerlo con la piel,
 
-y de que, sin embargo, en su carne vera a Dios. Ustedes saben que si
+y de que, sin embargo, en su carne vería a Dios. Ustedes saben que si
 
-pudiramos preservar los cuerpos de los que han partido, lo consideraramos
+pudiéramos preservar los cuerpos de los que han partido, lo consideraríamos
 
-como un pequeo milagro. Si mediante algn proceso, utilizando especias y gomas,
+como un pequeńo milagro. Si mediante algún proceso, utilizando especias y gomas,
 
-pudiramos preservar las partculas, para que el Seor reviviera esos huesos
+pudiéramos preservar las partículas, para que el Seńor reviviera esos huesos
 
-secos, y reviviera la piel y la carne, sera ciertamente un milagro, pero no
+secos, y reviviera la piel y la carne, sería ciertamente un milagro, pero no
 
-sera un portento tan clara y palpablemente grande, como cuando los gusanos han
+sería un portento tan clara y palpablemente grande, como cuando los gusanos han
 
 destruido el cuerpo. Cuando el tejido es absolutamente disuelto, y la
 
-habitacin es desmantelada, molida en pedazos, y arrojada en puados al viento,
+habitación es desmantelada, molida en pedazos, y arrojada en puńados al viento,
 
-de tal forma que no queda ninguna traza, entonces se ver el poder de la
+de tal forma que no queda ninguna traza, entonces se verá el poder de la
 
-Omnipotencia cuando al fin Cristo est sobre la tierra, y toda esa estructura
+Omnipotencia cuando al fin Cristo esté sobre la tierra, y toda esa estructura
 
 sea ensamblada nuevamente, cada hueso con su hueso.
 
-Esta es la doctrina de la resurreccin, y
+Esta es la doctrina de la resurrección, y
 
-bienaventurado es el hombre que no se tropieza con ninguna dificultad aqu, y
+bienaventurado es el hombre que no se tropieza con ninguna dificultad aquí, y
 
 lo ve como algo que es una imposibilidad para el hombre pero una posibilidad
 
-para Dios, y se aferra a la omnipotencia del Altsimo y dice: T lo dices, y
+para Dios, y se aferra a la omnipotencia del Altísimo y dice: “ˇTú lo dices, y
 
-ser hecho! Yo no podra comprender todo de Ti; me asombro ante Tu propsito
+será hecho!” Yo no podría comprender todo de Ti; me asombro ante Tu propósito
 
-de levantar mis huesos desmoronados; pero yo s que T realizas grandes
+de levantar mis huesos desmoronados; pero yo sé que Tú realizas grandes
 
 portentos, y no me sorprende que concluyas el grandioso drama de Tus obras de
 
-creacin aqu en la tierra, recreando el cuerpo humano mediante el mismo poder
+creación aquí en la tierra, recreando el cuerpo humano mediante el mismo poder
 
 por el cual resucitaste de los muertos el cuerpo de Tu Hijo Jesucristo, y
 
-mediante esa misma energa divina que ha regenerado almas humanas a propia Tu imagen.
+mediante esa misma energía divina que ha regenerado almas humanas a propia Tu imagen.
 
 II.
 
 Ahora, habiendo descendido de esta manera
 
-al sepulcro, y no habiendo visto nada all sino slo lo repugnante, MIREMOS A
+al sepulcro, y no habiendo visto nada allí sino sólo lo repugnante, MIREMOS A
 
 LO ALTO CON EL PATRIARCA Y CONTEMPLEMOS UN SOL QUE RESPLANDECE CON UN CONSUELO
 
 PRESENTE.
 
-Yo s, -dice el patriarca- que mi
+“Yo sé”, -dice el patriarca- “que mi
 
-Redentor vive. La palabra Redentor usada aqu, en el original hebreo es
+Redentor vive”. La palabra “Redentor” usada aquí, en el original hebreo es
 
-goel: pariente (3). El deber del pariente, o goel, era este: supongan que
+“goel”: pariente (3). El deber del pariente, o ‘goel’, era este: supongan que
 
-un israelita hubiese enajenado su propiedad, como sucedi en el caso de Noem y
+un israelita hubiese enajenado su propiedad, como sucedió en el caso de Noemí y
 
-Rut; supongan que un patrimonio que haba pertenecido a una familia, hubiese
+Rut; supongan que un patrimonio que había pertenecido a una familia, hubiese
 
-sido transferido a otra familia por causa de la pobreza: el deber del goel,
+sido transferido a otra familia por causa de la pobreza: el deber del ‘goel’,
 
-el deber del redentor, era pagar el precio como el pariente ms cercano, y
+el deber del redentor, era pagar el precio como el pariente más cercano, y
 
-comprar otra vez la herencia. Boaz estaba en esa relacin con Rut.
+comprar otra vez la herencia. Boaz estaba en esa relación con Rut.
 
 Ahora, el cuerpo puede ser considerado como
 
-la herencia del alma: la pequea finca del alma, ese pedacito de tierra donde
+la herencia del alma: la pequeńa finca del alma, ese pedacito de tierra donde
 
-el alma ha solido caminar y deleitarse, como un hombre camina en su jardn o
+el alma ha solido caminar y deleitarse, como un hombre camina en su jardín o
 
 mora en su casa. Ahora, eso ha sido enajenado. La muerte, como Acab, nos
 
-arrebata el viedo a nosotros, que somos como Nabot; perdemos nuestra propiedad
+arrebata el vińedo a nosotros, que somos como Nabot; perdemos nuestra propiedad
 
-patrimonial; Muerte enva sus tropas para que tomen nuestro viedo y destruyan
+patrimonial; Muerte envía sus tropas para que tomen nuestro vińedo y destruyan
 
-sus vides y las arruinen. Pero nos volteamos a Muerte y le decimos: yo s que
+sus vides y las arruinen. Pero nos volteamos a Muerte y le decimos: “yo sé que
 
-mi Goel vive, y l redimir esta heredad; la he perdido; t te apropiaste de
+mi ‘Goel’ vive, y Él redimirá esta heredad; la he perdido; tú te apropiaste de
 
-ella legalmente, oh Muerte, porque mi pecado decomis mi derecho; he perdido mi
+ella legalmente, oh Muerte, porque mi pecado decomisó mi derecho; he perdido mi
 
-herencia por culpa de mi propia ofensa, y por causa de mi primer padre Adn;
+herencia por culpa de mi propia ofensa, y por causa de mi primer padre Adán;
 
-pero vive Alguien que comprar la propiedad de nuevo.
+pero vive Alguien que comprará la propiedad de nuevo.”
 
 Hermanos, Job pudo decir esto de Cristo
 
-mucho antes de que descendiera a la tierra: yo s que l vive; y ahora que ascendi
+mucho antes de que descendiera a la tierra: “yo sé que Él vive”; y ahora que ascendió
 
-a lo alto, y llev cautiva la cautividad, podemos decir seguramente con doble
+a lo alto, y llevó cautiva la cautividad, podemos decir seguramente con doble
 
-nfasis: yo s que mi Goel, mi Pariente, vive y que pag el precio, por lo que
+énfasis: “yo sé que mi ‘Goel’, mi Pariente, vive y que pagó el precio, por lo que
 
-recobrar mi patrimonio, de tal manera que en mi carne he de ver a Dios. S,
+recobraré mi patrimonio, de tal manera que en mi carne he de ver a Dios”. Sí,
 
-manos mas, ustedes son redimidas con sangre; compradas, no con cosas
+manos mías, ustedes son redimidas con sangre; compradas, no con cosas
 
-corruptibles, como con plata y oro, sino con la preciosa sangre de Cristo. S,
+corruptibles, como con plata y oro, sino con la preciosa sangre de Cristo. Sí,
 
-ustedes, pulmones jadeantes, y, t, corazn palpitante, ustedes han sido
+ustedes, pulmones jadeantes, y, tú, corazón palpitante, ˇustedes han sido
 
-redimidos! Aquel que redime el alma para que sea Su altar, ha redimido tambin
+redimidos! Aquel que redime el alma para que sea Su altar, ha redimido también
 
-el cuerpo, para que sea un templo del Espritu Santo. Ni siquiera los huesos de
+el cuerpo, para que sea un templo del Espíritu Santo. Ni siquiera los huesos de
 
-Jos pueden permanecer en la casa de servidumbre. Ningn olor de fuego de
+José pueden permanecer en la casa de servidumbre. Ningún olor de fuego de
 
 muerte puede pegarse a las ropas que sus hijos santos han vestido en el horno.
 
-Recuerden, tambin, que se consideraba
+Recuerden, también, que se consideraba
 
-siempre que era un deber del goel, no simplemente redimir por precio, sino
+siempre que era un deber del ‘goel’, no simplemente redimir por precio, sino
 
-que en caso de que eso fracasara, deba redimir por medio del poder. Por esto,
+que en caso de que eso fracasara, debía redimir por medio del poder. Por esto,
 
-cuando Lot fue llevado cautivo por los cuatro reyes, Abraham junt a sus
+cuando Lot fue llevado cautivo por los cuatro reyes, Abraham juntó a sus
 
-propios jornaleros, y a los siervos de todos sus amigos, y sali contra los
+propios jornaleros, y a los siervos de todos sus amigos, y salió contra los
 
-reyes del oriente, y rescat a Lot y a los cautivos de Sodoma. Ahora, nuestro
+reyes del oriente, y rescató a Lot y a los cautivos de Sodoma. Ahora, nuestro
 
-Seor Jesucristo, que una vez hizo el papel de pariente pagando el precio por
+Seńor Jesucristo, que una vez hizo el papel de pariente pagando el precio por
 
-nosotros, vive, y nos redimir en poder.
+nosotros, vive, y nos redimirá en poder.
 
-Oh Muerte, t tiemblas ante Su nombre! T
+ˇOh Muerte, tú tiemblas ante Su nombre! ˇTú
 
-conoces el poder de nuestro Pariente! T no puedes oponerte a Su brazo! T lo
+conoces el poder de nuestro Pariente! ˇTú no puedes oponerte a Su brazo! Tú lo
 
-enfrentaste una vez en un duro combate cuerpo a cuerpo, y, oh Muerte, t, en
+enfrentaste una vez en un duro combate cuerpo a cuerpo, y, oh Muerte, tú, en
 
-verdad, le heriste en el calcaar. l se someti voluntariamente a esto, pues,
+verdad, le heriste en el calcańar. Él se sometió voluntariamente a esto, pues,
 
-de lo contrario, oh Muerte, t no tienes poder en contra Suya. Pero l te mat,
+de lo contrario, oh Muerte, tú no tienes poder en contra Suya. ˇPero Él te mató,
 
-Muerte, te mat! l te arrebat todos tus cofres, te quit la llave de tu
+Muerte, te mató! Él te arrebató todos tus cofres, te quitó la llave de tu
 
-castillo, abri de par en par la puerta de tu calabozo, y, ahora, t lo sabes,
+castillo, abrió de par en par la puerta de tu calabozo, y, ahora, tú lo sabes,
 
-Muerte, t no tienes poder para retener mi cuerpo; t puedes enviar a tus esclavos
+Muerte, tú no tienes poder para retener mi cuerpo; tú puedes enviar a tus esclavos
 
-para que lo devoren, pero tendrs que renunciar a l, y todo el botn de tus
+para que lo devoren, pero tendrás que renunciar a él, y todo el botín de tus
 
-esclavos ser restaurado. Muerte insaciable, tu buche hambriento tendr que
+esclavos será restaurado. Muerte insaciable, tu buche hambriento tendrá que
 
-devolver las multitudes que has devorado. El Salvador te forzar a restaurar a
+devolver las multitudes que has devorado. El Salvador te forzará a restaurar a
 
-los cautivos a la luz del da.
+los cautivos a la luz del día.
 
-Me parece ver a Jess con los siervos de
+Me parece ver a Jesús con los siervos de
 
-Su Padre. Los carros de Dios se cuentan por veintenas de millares de millares.
+Su Padre. “Los carros de Dios se cuentan por veintenas de millares de millares.”
 
-Tocad trompeta! Tocad trompeta! Emanuel cabalga a la batalla! El
+ˇTocad trompeta! ˇTocad trompeta! ˇEmanuel cabalga a la batalla! El
 
-supremamente Poderoso se cie en majestad Su espada. l viene! l viene para
+supremamente Poderoso se cińe en majestad Su espada. ˇÉl viene! Él viene para
 
 arrebatar con poder las tierras de Su pueblo, de aquellos que han invadido su
 
-porcin. Oh, cun gloriosa es la victoria! No habr ningn combate. l viene,
+porción. ˇOh, cuán gloriosa es la victoria! No habrá ningún combate. Él viene,
 
-ve y vence. El sonido de la trompeta bastar; Muerte huir aterrorizada; y, de
+ve y vence. El sonido de la trompeta bastará; Muerte huirá aterrorizada; y, de
 
-inmediato, de los lechos del polvo y de la muda arcilla, los justos resucitarn
+inmediato, de los lechos del polvo y de la muda arcilla, los justos resucitarán
 
-a las regiones de un da sempiterno.
+a las regiones de un día sempiterno.
 
-Nos detendremos unos minutos ms aqu,
+Nos detendremos unos minutos más aquí,
 
-para mencionar que, segn se nos informa, haba todava muy conspicuamente en
+para mencionar que, según se nos informa, había todavía muy conspicuamente en
 
-el Antiguo Testamento un tercer deber del goel, que consista en vengar la
+el Antiguo Testamento un tercer deber del ‘goel’, que consistía en vengar la
 
-muerte de su amigo. Si una persona era asesinada, el Goel era el vengador de
+muerte de su amigo. Si una persona era asesinada, el ‘Goel’ era el vengador de
 
-su sangre; tomando su espada, persegua de inmediato a la persona culpable del
+su sangre; tomando su espada, perseguía de inmediato a la persona culpable del
 
 derramamiento de sangre.
 
-As que ahora, visualicmonos como siendo
+Así que ahora, visualicémonos como siendo
 
-heridos por la Muerte. Su flecha nos acaba de traspasar el corazn, pero en el
+heridos por la Muerte. Su flecha nos acaba de traspasar el corazón, pero en el
 
 acto de expirar, nuestros labios son capaces de jactarse de venganza, y ante el
 
-rostro del monstruo clamamos: yo s que mi Goel vive. T puedes huir, oh
+rostro del monstruo clamamos: “yo sé que mi ‘Goel’ vive”. Tú puedes huir, oh
 
-Muerte, tan rpidamente como quieras, pero ninguna ciudad de refugio podra
+Muerte, tan rápidamente como quieras, pero ninguna ciudad de refugio podría
 
-ocultarte de l; te dar alcance; te atrapar, oh t, monarca solitario, y
+ocultarte de Él; te dará alcance; te atrapará, oh tú, monarca solitario, y
 
-vengar en ti mi sangre.
+vengará en ti mi sangre.
 
 Yo quisiera tener poderes de elocuencia
 
-para desarrollar este magnfico pensamiento. Crisstomo, o Christmas Evans
+para desarrollar este magnífico pensamiento. Crisóstomo, o Christmas Evans
 
-podran describir la huda del Rey del Terror, la persecucin hecha por el
+podrían describir la huída del Rey del Terror, la persecución hecha por el
 
 Redentor, la captura del enemigo, y la muerte del destructor. Cristo mismo
 
-vengar en Muerte, ciertamente, todo el dao que Muerte ha perpetrado en Sus
+vengará en Muerte, ciertamente, todo el dańo que Muerte ha perpetrado en Sus
 
-amados parientes. Consulate, entonces, oh cristiano; t tienes a Alguien que
+amados parientes. Consuélate, entonces, oh cristiano; tú tienes a Alguien que
 
-siempre vive, aun cuando t mueras, que te vengar, Alguien que ha pagado el
+siempre vive, aun cuando tú mueras, que te vengará, Alguien que ha pagado el
 
 precio por ti, y Alguien cuyos fuertes brazos te han de liberar.
 
 Prosiguiendo con nuestro texto, noten la
 
-siguiente palabra, y parecera que Job encontr consolacin, no solamente en el
+siguiente palabra, y parecería que Job encontró consolación, no solamente en el
 
-hecho de que tena un Goel, un Redentor, sino que su Redentor vive. Job no
+hecho de que tenía un ‘Goel’, un Redentor, sino que su Redentor vive. Job no
 
-dice: Yo s que mi Goel
+dice: “Yo sé que mi ‘Goel’
 
-vivir,
+vivirá,
 
 sino
 
-vive,
+vive”,
 
-teniendo una clara visin de
+teniendo una clara visión de
 
-la existencia eterna del Seor Jesucristo, el mismo ayer, hoy y siempre. Y
+la existencia eterna del Seńor Jesucristo, el mismo ayer, hoy y siempre. Y
 
-ustedes y yo, mirando hacia atrs, no decimos:
+ustedes y yo, mirando hacia atrás, no decimos:
 
-vivi,
+“vivió,
 
-sino l
+sino Él
 
 vive
 
-hoy.
+hoy”.
 
-En este preciso da en que lamentan y se afligen por los venerados amigos que
+En este preciso día en que lamentan y se afligen por los venerados amigos que
 
-fueron su sostn y su apoyo en aos pasados, pueden ir a Cristo con confianza,
+fueron su sostén y su apoyo en ańos pasados, pueden ir a Cristo con confianza,
 
-porque no slo vive, sino que l es la fuente de la vida; y, por tanto, ustedes
+porque no sólo vive, sino que Él es la fuente de la vida; y, por tanto, ustedes
 
-creen que l puede sacar de S vida para aquellos seres que depositaron en la
+creen que Él puede sacar de Sí vida para aquellos seres que depositaron en la
 
-tumba. l es originalmente el Seor y dador de vida, y se declarar
+tumba. Él es originalmente el Seńor y dador de vida, y se declarará
 
-especialmente que l es la resurreccin y la vida, cuando las legiones de Sus
+especialmente que Él es la resurrección y la vida, cuando las legiones de Sus
 
-redimidos sean glorificadas con l.
+redimidos sean glorificadas con Él.
 
 Aunque no viera una fuente de la cual
 
-pudiera brotar vida para los muertos, aun as creera todava la promesa de
+pudiera brotar vida para los muertos, aun así creería todavía la promesa de
 
-Dios que dijo que los muertos vivirn; pero cuando veo la fuente provista, y s
+Dios que dijo que los muertos vivirán; pero cuando veo la fuente provista, y sé
 
-que est llena hasta el borde y que se desborda, puedo regocijarme sin temblar.
+que está llena hasta el borde y que se desborda, puedo regocijarme sin temblar.
 
-Puesto que hay Uno que puede decir: Yo soy la resurreccin y la vida, es algo
+Puesto que hay Uno que puede decir: “Yo soy la resurrección y la vida”, es algo
 
 bendito ver ya el medio dispuesto delante de nosotros en la persona de nuestro
 
-Seor Jesucristo. Miremos entonces en lo alto a nuestro Goel que vive en este
+Seńor Jesucristo. Miremos entonces en lo alto a nuestro ‘Goel’ que vive en este
 
 preciso instante.
 
 Sin embargo, me parece que el meollo del
 
-consuelo de Job radica en esa palabrita: Mi. Yo s que MI Redentor vive. Oh,
+consuelo de Job radica en esa palabrita: “Mi”. “Yo sé que MI Redentor vive”. ˇOh,
 
-hemos de aferrarnos a Cristo! Yo s que l es precioso en Sus oficios. Pero,
+hemos de aferrarnos a Cristo! Yo sé que Él es precioso en Sus oficios. Pero,
 
-queridos amigos, tenemos que adquirir una propiedad en l antes de que podamos
+queridos amigos, tenemos que adquirir una propiedad en Él antes de que podamos
 
-gozarle realmente. De qu me sirve la miel del bosque si, como los
+gozarle realmente. żDe qué me sirve la miel del bosque si, como los
 
-desfallecidos israelitas, no me atrevo a comerla? Es la miel que est en mi
+desfallecidos israelitas, no me atrevo a comerla? Es la miel que está en mi
 
-mano, la miel que est en mis labios, la que ilumina mis ojos como le sucedi a
+mano, la miel que está en mis labios, la que ilumina mis ojos como le sucedió a
 
-los ojos de Jonatn. De qu me sirve el oro en la mina? En Per, hay hombres
+los ojos de Jonatán. żDe qué me sirve el oro en la mina? En Perú, hay hombres
 
 que son pordioseros, y en California algunos mendigan su pan. El oro que se
 
-encuentra en mi bolsa es el que puede satisfacer mis necesidades, permitindome
+encuentra en mi bolsa es el que puede satisfacer mis necesidades, permitiéndome
 
-comprar el pan necesario. De igual manera, de qu me sirve un pariente si no
+comprar el pan necesario. De igual manera, żde qué me sirve un pariente si no
 
 es mi pariente? Un Redentor que no me redimiera, un vengador que nunca se
 
-levantara por mi sangre, de qu me servira? Pero la fe de Job era slida y
+levantara por mi sangre, żde qué me serviría? Pero la fe de Job era sólida y
 
-firme en la conviccin de que el Redentor era suyo.
+firme en la convicción de que el Redentor era suyo.
 
 Queridos amigos, queridos amigos,
 
-podran decir todos ustedes: yo s que
+żpodrían decir todos ustedes: “yo sé que
 
 mi
 
-Redentor vive? La pregunta es sencilla y est hecha sencillamente; pero,
+Redentor vive”? La pregunta es sencilla y está hecha sencillamente; pero,
 
-oh, qu cosas tan solemnes penden de su respuesta a la pregunta: es MI
+oh, qué cosas tan solemnes penden de su respuesta a la pregunta: “żes MI
 
-Redentor? Les exhorto a que no descansen ni se contenten hasta que por fe
+Redentor?” Les exhorto a que no descansen ni se contenten hasta que por fe
 
-puedan decir: S, yo descanso en l; yo soy Suyo y l es mo. Yo s que
+puedan decir: “Sí, yo descanso en Él; yo soy Suyo y Él es mío”. Yo sé que
 
-muchsimos de ustedes, mientras ven todo lo dems que poseen como algo que no
+muchísimos de ustedes, mientras ven todo lo demás que poseen como algo que no
 
 es suyo, pueden decir:
 
-Mi
+“Mi
 
 Redentor
 
-es mo. l es la nica propiedad que es realmente nuestra. Nosotros pedimos
+es mío”. Él es la única propiedad que es realmente nuestra. Nosotros pedimos
 
-prestado todo lo dems; es ms, debemos regresar nuestro propio cuerpo al
+prestado todo lo demás; es más, debemos regresar nuestro propio cuerpo al
 
-Grandioso Prestador. Pero a Jess no le podemos dejar nunca, pues, incluso
+Grandioso Prestador. Pero a Jesús no le podemos dejar nunca, pues, incluso
 
-cuando estamos ausentes del cuerpo, estamos presentes al Seor, y yo s que ni
+cuando estamos ausentes del cuerpo, estamos presentes al Seńor, y yo sé que ni
 
-siquiera la muerte nos puede separar de l, de tal forma que cuerpo y alma
+siquiera la muerte nos puede separar de Él, de tal forma que cuerpo y alma
 
-estn con Jess, en verdad, incluso en las horas oscuras de la muerte, en la
+están con Jesús, en verdad, incluso en las horas oscuras de la muerte, en la
 
 larga noche del sepulcro, y en el estado separado de la existencia espiritual.
 
-Amado, tienes a Cristo? Es posible que
+Amado, żtienes a Cristo? Es posible que
 
-te aferres a l con una dbil mano, y que consideres que es casi una presuncin
+te aferres a Él con una débil mano, y que consideres que es casi una presunción
 
-decir: l es mi Redentor; sin embargo, recuerda que basta que tengas fe del
+decir: “Él es mi Redentor”; sin embargo, recuerda que basta que tengas fe del
 
-tamao de un grano de mostaza y esa pequea fe te da derecho a decir, y a decir
+tamańo de un grano de mostaza y esa pequeńa fe te da derecho a decir, y a decir
 
-ahora: Yo s que mi Redentor vive.
+ahora: “Yo sé que mi Redentor vive”.
 
 Hay otra palabra en esta frase
 
-consoladora que sirvi, sin duda, para darle un gusto especial al consuelo de
+consoladora que sirvió, sin duda, para darle un gusto especial al consuelo de
 
-Job. El patriarca pudo decir: Yo Sɔ; Yo S que mi Redentor vive. Decir: yo
+Job. El patriarca pudo decir: “Yo SÉ”; “Yo SÉ que mi Redentor vive”. Decir: “yo
 
-lo espero, yo confo en eso, es consolador, y hay miles de ovejas en el redil de
+lo espero, yo confío en eso”, es consolador, y hay miles de ovejas en el redil de
 
-Jess que difcilmente pueden ir ms lejos. Pero para alcanzar la mdula de la
+Jesús que difícilmente pueden ir más lejos. Pero para alcanzar la médula de la
 
-consolacin,
+consolación,
 
 debes
 
-decir: yo Sɔ. Los
+decir: “yo SÉ”. Los
 
-condicionales: si, pero, y tal vez, son seguros asesinos de la paz y del
+condicionales: ‘si’, ‘pero’, y ‘tal vez’, son seguros asesinos de la paz y del
 
-consuelo. Las dudas son cosas funestas en tiempos de afliccin. Aguijonean el
+consuelo. Las dudas son cosas funestas en tiempos de aflicción. ˇAguijonean el
 
-alma como avispas! Si tengo alguna sospecha de que Cristo no es mo, entonces
+alma como avispas! Si tengo alguna sospecha de que Cristo no es mío, entonces
 
-hay vinagre mezclado con la hiel de la muerte. Pero si s que Jess es mo,
+hay vinagre mezclado con la hiel de la muerte. Pero si sé que Jesús es mío,
 
-entonces la oscuridad no es oscura; aun la noche resplandecer a
+entonces la oscuridad no es oscura; aun la noche resplandecerá a
 
 mi
 
-alrededor. Del devorador sali comida, y del fuerte sali
+alrededor. Del devorador salió comida, y del fuerte salió
 
-dulzura. Yo s que mi Redentor vive: es una lmpara que arde brillante
+dulzura. “Yo sé que mi Redentor vive”: es una lámpara que arde brillante
 
-alegrando las humedades de la bveda sepulcral; pero una dbil esperanza es
+alegrando las humedades de la bóveda sepulcral; pero una débil esperanza es
 
-como un vacilante pbilo que humea, haciendo simplemente que la oscuridad sea
+como un vacilante pábilo que humea, haciendo simplemente que la oscuridad sea
 
-visible, pero nada ms. No me gustara morir con una simple esperanza mezclada
+visible, pero nada más. No me gustaría morir con una simple esperanza mezclada
 
-con sospechas. Yo podra estar seguro con esto pero difcilmente estara feliz;
+con sospechas. Yo podría estar seguro con esto pero difícilmente estaría feliz;
 
-pero, oh, cun diferente es descender al ro sabiendo que todo est bien,
+pero, oh, cuán diferente es descender al río sabiendo que todo está bien,
 
-confiado en que, aunque sea un gusano culpable, dbil e indefenso, he cado en
+confiado en que, aunque sea un gusano culpable, débil e indefenso, he caído en
 
-los brazos de Jess, creyendo que l puede guardar el depsito que le he
+los brazos de Jesús, creyendo que Él puede guardar el depósito que le he
 
 encomendado.
 
@@ -786,59 +786,59 @@ Queridos amigos cristianos, yo quisiera
 
 que nunca vieran la plena seguridad de la fe como algo imposible para ustedes.
 
-No digan: es algo demasiado elevado; no podra alcanzarlo. He conocido a uno
+No digan: “es algo demasiado elevado; no podría alcanzarlo”. He conocido a uno
 
-o dos santos de Dios que raramente han dudado de su inters. Hay muchos de
+o dos santos de Dios que raramente han dudado de su interés. Hay muchos de
 
-nosotros que no siempre gozamos de algn xtasis arrebatador, pero, por otro
+nosotros que no siempre gozamos de algún éxtasis arrebatador, pero, por otro
 
 lado, generalmente mantenemos el tenor sostenido de nuestro camino, simplemente
 
-aferrndonos de Cristo, sintiendo que Su promesa es verdadera, que Sus mritos
+aferrándonos de Cristo, sintiendo que Su promesa es verdadera, que Sus méritos
 
 son suficientes, y que estamos seguros. La seguridad es una joya por su valor,
 
-mas no por su rareza. Es un privilegio comn de todos los santos obtener la
+mas no por su rareza. Es un privilegio común de todos los santos obtener la
 
-gracia para alcanzarla y dicha gracia es otorgada libremente por el Espritu
+gracia para alcanzarla y dicha gracia es otorgada libremente por el Espíritu
 
 Santo.
 
 Sin duda si Job, en Arabia, en aquellas
 
-oscuras edades nebulosas, cuando slo estaba el lucero matutino y no estaba el
+oscuras edades nebulosas, cuando sólo estaba el lucero matutino y no estaba el
 
-sol, cuando vean muy poco, cuando la vida y la inmortalidad no haban sido
+sol, cuando veían muy poco, cuando la vida y la inmortalidad no habían sido
 
-llevadas a la luz, si Job, antes de la venida y el advenimiento de Jess poda
+llevadas a la luz, si Job, antes de la venida y el advenimiento de Jesús podía
 
 decir:
 
-yo s,
+“yo sé”,
 
 ustedes y yo no
 
-deberamos hablar menos positivamente. Dios no quiera que nuestro positivismo
+deberíamos hablar menos positivamente. Dios no quiera que nuestro positivismo
 
-sea una presuncin. Tratemos y veamos que nuestras seales y evidencias sean
+sea una presunción. Tratemos y veamos que nuestras seńales y evidencias sean
 
 correctas, para que no nos formemos una esperanza infundada, pues nada puede
 
-ser ms destructivo que decir: Paz, paz; y no hay paz. Pero, oh, hemos de
+ser más destructivo que decir: “Paz, paz; y no hay paz”. Pero, oh, hemos de
 
-construir para la eternidad, y construir slidamente. No hemos de quedarnos
+construir para la eternidad, y construir sólidamente. No hemos de quedarnos
 
 satisfechos con los meros cimientos, pues es desde los aposentos altos que
 
-obtenemos la ms amplia perspectiva. Pidamos al Seor que nos ayude a poner
+obtenemos la más amplia perspectiva. Pidamos al Seńor que nos ayude a poner
 
-piedra sobre piedra, hasta que seamos capaces de decir mientras le vemos: S,
+piedra sobre piedra, hasta que seamos capaces de decir mientras le vemos: “Sí,
 
 yo
 
-s,
+sé,
 
-yo S que mi Redentor vive.
+yo SÉ que mi Redentor vive”.
 
 Esto, entonces, ha de servir hoy de consuelo presente ante el prospecto de la
 
@@ -846,73 +846,73 @@ partida.
 
 III.
 
-Y ahora, en el tercero y ltimo lugar,
+Y ahora, en el tercero y último lugar,
 
-como LA ANTICIPACIN DEL DELEITE FUTURO, permtanme recordarles la otra parte
+como LA ANTICIPACIÓN DEL DELEITE FUTURO, permítanme recordarles la otra parte
 
-del texto. Job no solamente saba que el Redentor viva, sino que anticip el
+del texto. Job no solamente sabía que el Redentor vivía, sino que anticipó el
 
 tiempo en que
 
-al fin se levantar sobre
+‘al fin se levantará sobre
 
-el polvo.
+el polvo’.
 
-Sin duda Job se refera aqu a la primera venida de nuestro
+Sin duda Job se refería aquí a la primera venida de nuestro
 
-Salvador, al tiempo cuando Jesucristo, el goel, el pariente, estara en la
+Salvador, al tiempo cuando Jesucristo, “el goel”, el pariente, estaría en la
 
-tierra para pagar con la sangre de Sus venas el precio del rescate, que haba
+tierra para pagar con la sangre de Sus venas el precio del rescate, que había
 
-sido pagado, en verdad, en fianza y estipulacin, antes de la fundacin del
+sido pagado, en verdad, en fianza y estipulación, antes de la fundación del
 
-mundo, en la promesa. Pero yo no puedo pensar que la visin de Job se detuviera
+mundo, en la promesa. Pero yo no puedo pensar que la visión de Job se detuviera
 
-all; l estaba esperando el segundo advenimiento de Cristo como el perodo de
+allí; él estaba esperando el segundo advenimiento de Cristo como el período de
 
-su propia resurreccin. No podemos apoyar la teora de que Job resucit de los
+su propia resurrección. No podemos apoyar la teoría de que Job resucitó de los
 
-muertos cuando nuestro Seor muri, aunque ciertos judos creyentes sostenan
+muertos cuando nuestro Seńor murió, aunque ciertos judíos creyentes sostenían
 
-muy firmemente esta idea en un tiempo. Estamos persuadidos de que al fin se
+muy firmemente esta idea en un tiempo. Estamos persuadidos de que “al fin” se
 
-refiere al advenimiento de la gloria ms bien que al de la vergenza. Nuestra
+refiere al advenimiento de la gloria más bien que al de la vergüenza. Nuestra
 
-esperanza es que el Seor vendr para reinar en gloria all donde una vez muri
+esperanza es que el Seńor vendrá para reinar en gloria allí donde una vez murió
 
-en agona. La resplandeciente y santa doctrina de la segunda venida ha sido
+en agonía. La resplandeciente y santa doctrina de la segunda venida ha sido
 
-grandemente revivida en nuestras iglesias en estos ltimos das, y yo espero,
+grandemente revivida en nuestras iglesias en estos últimos días, y yo espero,
 
 en consecuencia, los mejores resultados. Hay siempre un peligro de que sea
 
-pervertida y convertida en un abuso por mentes fanticas, debido a
+pervertida y convertida en un abuso por mentes fanáticas, debido a
 
-especulaciones profticas; pero la doctrina, en s misma, es una de las ms
+especulaciones proféticas; pero la doctrina, en sí misma, es una de las más
 
-consoladoras y, a la vez, una de las ms prcticas, tendiente a mantener
+consoladoras y, a la vez, una de las más prácticas, tendiente a mantener
 
 despierto al cristiano, debido a que el esposo viene a la hora menos pensada.
 
 Amados, nosotros creemos que el mismo
 
-Jess que ascendi del monte del Olivar, vendr as como ascendi al cielo.
+Jesús que ascendió del monte del Olivar, vendrá así como ascendió al cielo.
 
 Creemos en Su venida personal y en Su reino. Creemos y esperamos que cuando
 
-tanto las vrgenes sabias como las necias se duerman; en la noche cuando el
+tanto las vírgenes sabias como las necias se duerman; en la noche cuando el
 
-sueo es pesado en los santos; cuando los hombres estn comiendo y bebiendo
+sueńo es pesado en los santos; cuando los hombres estén comiendo y bebiendo
 
-como en los das de No, creemos que sbitamente como el relmpago brilla en el
+como en los días de Noé, creemos que súbitamente como el relámpago brilla en el
 
-cielo, as Cristo descender con voz de mando, y los muertos en Cristo
+cielo, así Cristo descenderá con voz de mando, y los muertos en Cristo
 
-resucitarn y reinarn con l. Esperamos la venida literal, personal y real de
+resucitarán y reinarán con Él. Esperamos la venida literal, personal y real de
 
-Cristo a la tierra, como el tiempo en el que los gemidos de la creacin sern
+Cristo a la tierra, como el tiempo en el que los gemidos de la creación serán
 
-silenciados para siempre, y la ansiosa expectacin de las criaturas ser
+silenciados para siempre, y la ansiosa expectación de las criaturas será
 
 cumplida.
 
@@ -920,229 +920,229 @@ Noten que Job describe a Cristo como
 
 levantado.
 
-Algunos intrpretes han ledo
+Algunos intérpretes han leído
 
-el pasaje: l estar levantado al fin contra la tierra; que como la tierra ha
+el pasaje: “Él estará levantado al fin contra la tierra”; que como la tierra ha
 
 encubierto a los asesinados, como la tierra se ha convertido en el osario de
 
-los muertos, Jess se levantar para contender y decir: Tierra, estoy en
+los muertos, Jesús se levantará para contender y decir: “ˇTierra, estoy en
 
-contra tuya; entrega a tus muertos! Ustedes, terrones del valle, cesen de ser
+contra tuya; entrega a tus muertos! ˇUstedes, terrones del valle, cesen de ser
 
-custodios de los cuerpos de los miembros de mi pueblo! Silenciosas
+custodios de los cuerpos de los miembros de mi pueblo! ˇSilenciosas
 
 profundidades, y ustedes, cavernas de la tierra, entreguen, de una vez por
 
-todas, a aquellos a quienes han retenido prisioneros! Macpela devolver su
+todas, a aquellos a quienes han retenido prisioneros!” Macpela devolverá su
 
-precioso tesoro, los cementerios y los camposantos liberarn a sus cautivos, y
+precioso tesoro, los cementerios y los camposantos liberarán a sus cautivos, y
 
-todos los lugares profundos de la tierra entregarn los cuerpos de los fieles.
+todos los lugares profundos de la tierra entregarán los cuerpos de los fieles.
 
 Bien, ya sea que eso suceda o no, la postura de Cristo, de pie sobre la tierra,
 
-es significativa. Muestra Su triunfo. l ha triunfado sobre el pecado, que una
+es significativa. Muestra Su triunfo. Él ha triunfado sobre el pecado, que una
 
-vez, como una serpiente enroscada, haba aprisionado a la tierra. En el propio
+vez, como una serpiente enroscada, había aprisionado a la tierra. En el propio
 
-lugar en que Satans gan su poder, Cristo ha ganado la victoria. La tierra,
+lugar en que Satanás ganó su poder, Cristo ha ganado la victoria. La tierra,
 
 que fue el escenario del bien derrotado, de donde la misericordia fue
 
-prcticamente expulsada, donde la virtud muri, donde todo lo celestial y puro,
+prácticamente expulsada, donde la virtud murió, donde todo lo celestial y puro,
 
 como flores marchitadas por vientos pestilenciales, inclinaban sus cabezas,
 
-secas y agostadas; en esta propia tierra todo lo que es glorioso florecer en
+secas y agostadas; en esta propia tierra todo lo que es glorioso florecerá en
 
-perfeccin; y el propio Cristo, que una vez fue despreciado y rechazado por los
+perfección; y el propio Cristo, que una vez fue despreciado y rechazado por los
 
-hombres, el ms hermoso de todos los hijos de los hombres, vendr en medio de
+hombres, el más hermoso de todos los hijos de los hombres, vendrá en medio de
 
-una muchedumbre de cortesanos, mientras reyes y prncipes le rendirn homenaje,
+una muchedumbre de cortesanos, mientras reyes y príncipes le rendirán homenaje,
 
-y todas las naciones le llamarn bienaventurado. Y al fin se levantar sobre
+y todas las naciones le llamarán bienaventurado. “Y al fin se levantará sobre
 
-el polvo.
+el polvo”.
 
 Entonces, en esa hora propicia, Job dice:
 
-En mi carne he de ver a Dios. Oh, bendita anticipacin: He de ver a Dios.
+“En mi carne he de ver a Dios”. Oh, bendita anticipación: “He de ver a Dios.”
 
-No dice: he de ver a los santos, -sin duda los veremos a todos en el cielo-
+No dice: “he de ver a los santos”, -sin duda los veremos a todos en el cielo-
 
-sino: He de ver
+sino: “He de ver
 
-a Dios.
+a Dios”.
 
 Noten que
 
-no dice: he de ver las puertas de perla, he de ver los muros de jaspe, he de
+no dice: “he de ver las puertas de perla, he de ver los muros de jaspe, he de
 
-ver las coronas de oro y las arpas de armona, sino, He de ver a Dios; como
+ver las coronas de oro y las arpas de armonía”, sino, “He de ver a Dios”; como
 
-si esa fuese la suma y la sustancia del cielo. En mi carne he de ver
+si esa fuese la suma y la sustancia del cielo. “En mi carne he de ver
 
-a Dios.
+a Dios.”
 
-Los de limpio corazn vern a
+Los de limpio corazón verán a
 
 Dios. Era su deleite verle, por la fe, en las ordenanzas. Se deleitaban al
 
-contemplarle en comunin y oracin. All en el cielo tendrn una visin de otro
+contemplarle en comunión y oración. Allá en el cielo tendrán una visión de otro
 
 tipo. Hemos de ver a Dios en el cielo, y hemos de ser hechos completamente a
 
-semejanza de l; el carcter divino ser sellado en nosotros; y siendo hechos a
+semejanza de Él; el carácter divino será sellado en nosotros; y siendo hechos a
 
-semejanza de l, estaremos perfectamente satisfechos y contentos. Semejanza a
+semejanza de Él, estaremos perfectamente satisfechos y contentos. Semejanza a
 
-Dios, qu ms podramos desear? Y ver a Dios, podramos desear algo mejor?
+Dios, żqué más podríamos desear? Y ver a Dios, żpodríamos desear algo mejor?
 
-Veremos a Dios, y as habr perfecto contentamiento para el alma y una
+Veremos a Dios, y así habrá perfecto contentamiento para el alma y una
 
-satisfaccin de todas las facultades.
+satisfacción de todas las facultades.
 
-Algunos leen el pasaje as: sin embargo,
+Algunos leen el pasaje así: “sin embargo,
 
-ver a Dios en mi carne, y por esto piensan que hay una alusin a Cristo,
+veré a Dios en mi carne”, y por esto piensan que hay una alusión a Cristo,
 
-nuestro Seor Jesucristo, como el verbo hecho carne. Bien, si es as, o no es
+nuestro Seńor Jesucristo, como el verbo hecho carne. Bien, si es así, o no es
 
-as, es seguro que veremos a Cristo, y l, como el divino Redentor, ser el
+así, es seguro que veremos a Cristo, y Él, como el divino Redentor, será el
 
-objeto de nuestra visin eterna.
+objeto de nuestra visión eterna.
 
-Tampoco querremos jams algn gozo que
+Tampoco querremos jamás algún gozo que
 
-est ms all de verle simplemente a l. No pienses, querido amigo, que esta
+esté más allá de verle simplemente a Él. No pienses, querido amigo, que esta
 
-ser una estrecha esfera para la consideracin de tu mente. No es sino una
+será una estrecha esfera para la consideración de tu mente. No es sino una
 
-fuente de deleite: ver a Dios, pero esa fuente es infinita. Su sabidura, Su
+fuente de deleite: “veré a Dios”, pero esa fuente es infinita. Su sabiduría, Su
 
-amor, Su poder, todos Sus atributos sern los objetos de tu eterna
+amor, Su poder, todos Sus atributos serán los objetos de tu eterna
 
-contemplacin, y como l es infinito bajo cada aspecto, no hay temor de que se
+contemplación, y como Él es infinito bajo cada aspecto, no hay temor de que se
 
-agote. Sus obras, Sus propsitos, Sus dones, Su amor por ti, y Su gloria en
+agote. Sus obras, Sus propósitos, Sus dones, Su amor por ti, y Su gloria en
 
-todos Sus propsitos, y en todas Sus obras de amor, vamos, estas cosas constituirn
+todos Sus propósitos, y en todas Sus obras de amor, vamos, estas cosas constituirán
 
-un tema que nunca podra ser agotado. Puedes anticipar con divino deleite el
+un tema que nunca podría ser agotado. Puedes anticipar con divino deleite el
 
-tiempo cuando en tu carne vers a Dios.
+tiempo cuando en tu carne verás a Dios.
 
 Pero tengo el deber de hacerles observar
 
-cmo Job ha hecho expresamente que notemos que ser en el mismo cuerpo.
+cómo Job ha hecho expresamente que notemos que será en el mismo cuerpo. “
 
 En mi
 
 carne
 
-he de ver a Dios; y luego dice otra vez: Al cual ver por
+he de ver a Dios”; y luego dice otra vez: “Al cual veré por
 
-m mismo, y mis ojos lo vern, y no otro. S, es verdad que yo, el mismo
+mí mismo, y mis ojos lo verán, y no otro.” Sí, es verdad que yo, el mismo
 
-hombre que est de pie aqu, aunque he de descender a la tumba, resucitar muy
+hombre que está de pie aquí, aunque he de descender a la tumba, resucitaré muy
 
-ciertamente como el mismo hombre y contemplar a mi Dios. No parte de m,
+ciertamente como el mismo hombre y contemplaré a mi Dios. No parte de mí,
 
-aunque slo el alma tendr alguna visin de Dios, sino mi todo, mi carne, mi
+aunque sólo el alma tendrá alguna visión de Dios, sino mi todo, mi carne, mi
 
-alma, mi cuerpo y mi espritu contemplarn
+alma, mi cuerpo y mi espíritu contemplarán
 
 a Dios.
 
 Queridos amigos, no entraremos al cielo como
 
-un navo sin mstil es remolcado al puerto; ninguno de nosotros llegar a la
+un navío sin mástil es remolcado al puerto; ninguno de nosotros llegará a la
 
 gloria sobre tablas, ni sobre las piezas rotas del barco, sino que el barco
 
-entero ser flotado a salvo al fondeadero, estando a salvo tanto el cuerpo como
+entero será flotado a salvo al fondeadero, estando a salvo tanto el cuerpo como
 
-el alma. Cristo ser capaz de decir:
+el alma. Cristo será capaz de decir:
 
-Todo
+“Todo
 
-lo que el Padre me da, vendr a m, no solamente todas las personas, sino
+lo que el Padre me da, vendrá a mí”, no solamente todas las personas, sino
 
-todo lo de las personas, cada individuo en su perfeccin. No se encontrar en
+todo lo de las personas, cada individuo en su perfección. No se encontrará en
 
-el cielo un solo santo imperfecto. No habr ningn santo sin un ojo, y mucho
+el cielo un solo santo imperfecto. No habrá ningún santo sin un ojo, y mucho
 
-menos algn santo sin un cuerpo. Ningn miembro del cuerpo habr perecido;
+menos algún santo sin un cuerpo. Ningún miembro del cuerpo habrá perecido;
 
-tampoco el cuerpo habr perdido nada de su belleza natural. Todos los santos
+tampoco el cuerpo habrá perdido nada de su belleza natural. Todos los santos
 
-estarn all, y todo lo de todos ellos; las mismas personas precisamente, slo
+estarán allí, y todo lo de todos ellos; las mismas personas precisamente, sólo
 
-que habrn resucitado de un estado de gracia a un estado de gloria. Habrn madurado;
+que habrán resucitado de un estado de gracia a un estado de gloria. Habrán madurado;
 
-ya no sern ms la verde hierba, sino el grano lleno en la espiga; no sern
+ya no serán más la verde hierba, sino el grano lleno en la espiga; no serán
 
-capullos sino flores; no sern bebs sino hombres.
+capullos sino flores; no serán bebés sino hombres.
 
-Por favor noten, antes de concluir, cmo
+Por favor noten, antes de concluir, cómo
 
-el patriarca lo expresa como un gozo real y personal. Y mis ojos lo vern, y
+el patriarca lo expresa como un gozo real y personal. “Y mis ojos lo verán, y
 
-no otro. No me traern un reporte como lo hicieron con la Reina de Sab, sino
+no otro”. No me traerán un reporte como lo hicieron con la Reina de Sabá, sino
 
-que ver a Salomn, el Rey, por m mismo. Podr decir, como le dijeron los que
+que veré a Salomón, el Rey, por mí mismo. Podré decir, como le dijeron los que
 
-hablaron a la mujer de Samaria: Ya no creo solamente por tu dicho, sino que le
+hablaron a la mujer de Samaria: “Ya no creo solamente por tu dicho, sino que le
 
-he visto por m mismo. Habr una relacin personal con Dios; no por medio del
+he visto por mí mismo.” Habrá una relación personal con Dios; no por medio del
 
-Libro, que no es sino como un espejo; no a travs de las ordenanzas, sino
+Libro, que no es sino como un espejo; no a través de las ordenanzas, sino
 
-directamente, en la persona de nuestro Seor Jesucristo, seremos capaces de
+directamente, en la persona de nuestro Seńor Jesucristo, seremos capaces de
 
-tener comunin con la Deidad como un hombre habla con su amigo.
+tener comunión con la Deidad como un hombre habla con su amigo.
 
-Y no otro. Si yo fuera inconstante y
+“Y no otro”. Si yo fuera inconstante y
 
-pudiera ser cambiado, eso estropeara mi consuelo. O si mi cielo tuviera que
+pudiera ser cambiado, eso estropearía mi consuelo. O si mi cielo tuviera que
 
 ser gozado por medio de un poder legal, si los tragos de la bienaventuranza
 
-tuvieran que ser bebidos a nombre mo, dnde estara la esperanza? Oh, no; ver
+tuvieran que ser bebidos a nombre mío, żdónde estaría la esperanza? Oh, no; veré
 
-yo a Dios por m mismo, y no por medio de otro. No les hemos dicho cientos de
+yo a Dios por mí mismo, y no por medio de otro. żNo les hemos dicho cientos de
 
-veces que nada servir, sino la religin personal, y acaso no es ste otro
+veces que nada servirá, sino la religión personal, y acaso no es éste otro
 
-argumento a favor de eso, porque la resurreccin y la gloria son cosas
+argumento a favor de eso, porque la resurrección y la gloria son cosas
 
-personales? Y no otro. Si pudieran tener padrinos que se arrepintieran por
+personales? “Y no otro”. Si pudieran tener padrinos que se arrepintieran por
 
-ustedes, entonces, pueden tener la certeza que tendran padrinos que seran
+ustedes, entonces, pueden tener la certeza que tendrían padrinos que serían
 
 glorificados por ustedes. Pero debido a que no hay otro que vea a Dios por ti,
 
-entonces t mismo has de ver y t mismo has de encontrar un inters en el Seor
+entonces tú mismo has de ver y tú mismo has de encontrar un interés en el Seńor
 
 Jesucristo.
 
-Para concluir, permtanme observar cun
+Para concluir, permítanme observar cuán
 
 necios hemos sido ustedes y yo cuando hemos mirado a la muerte con
 
-estremecimientos, con dudas, con desprecios. Despus de todo, qu es? Gusanos!
+estremecimientos, con dudas, con desprecios. Después de todo, żqué es? ˇGusanos!
 
-Tiemblan ustedes ante esas viles cosas que se arrastran? Partculas
+żTiemblan ustedes ante esas viles cosas que se arrastran? ˇPartículas
 
-esparcidas! Nos alarmaremos ante ellas? Para enfrentar a los gusanos tenemos a
+esparcidas! żNos alarmaremos ante ellas? Para enfrentar a los gusanos tenemos a
 
-los ngeles; y para recoger las partculas esparcidas tenemos la voz de Dios.
+los ángeles; y para recoger las partículas esparcidas tenemos la voz de Dios.
 
 Estoy seguro de que la tristeza de la muerte se ha esfumado por completo ahora
 
-que arde la lmpara de la resurreccin. Desvestirse no es nada puesto que nos
+que arde la lámpara de la resurrección. Desvestirse no es nada puesto que nos
 
 aguardan mejores ropas. Podemos anhelar la noche para desvestirnos para que
 
@@ -1150,59 +1150,59 @@ podamos resucitar con Dios.
 
 Yo estoy seguro de que mis venerables
 
-amigos aqu presentes, al aproximarse tanto como lo hacen ahora al tiempo de su
+amigos aquí presentes, al aproximarse tanto como lo hacen ahora al tiempo de su
 
-partida, han de tener algunas visiones de la gloria al otro lado del ro.
+partida, han de tener algunas visiones de la gloria al otro lado del río.
 
 Bunyan no estaba equivocado, mis queridos hermanos, cuando puso la tierra de Beula
 
-a la conclusin del peregrinaje. Acaso no es mi texto un telescopio que te
+a la conclusión del peregrinaje. żAcaso no es mi texto un telescopio que te
 
-permitir ver al otro lado del Jordn; no podra ser como manos de ngeles que
+permitirá ver al otro lado del Jordán; no podría ser como manos de ángeles que
 
-te traen manojos de mirra e incienso? Puedes decir: Yo s que mi Redentor
+te traen manojos de mirra e incienso? Puedes decir: “Yo sé que mi Redentor
 
-vive. No puedes necesitar nada ms; no estabas satisfecho con menos en tu
+vive”. No puedes necesitar nada más; no estabas satisfecho con menos en tu
 
-juventud, y no estars contento con menos ahora.
+juventud, y no estarás contento con menos ahora.
 
-Aquellos de nosotros que somos jvenes,
+Aquellos de nosotros que somos jóvenes,
 
-somos consolados por el pensamiento de que pronto podramos partir. Digo que
+somos consolados por el pensamiento de que pronto podríamos partir. Digo que
 
-somos consolados, y no alarmados por l; y casi envidiamos a aquellos cuya
+somos consolados, y no alarmados por él; y casi envidiamos a aquellos cuya
 
-carrera est casi completada, porque tememos, -y, sin embargo, no debemos
+carrera está casi completada, porque tememos, -y, sin embargo, no debemos
 
-hablar as, pues se ha de cumplir la voluntad del Seor- estaba a punto de
+hablar así, pues se ha de cumplir la voluntad del Seńor- estaba a punto de
 
-decir que tememos que nuestra batalla podra durar largo tiempo, y que, tal vez,
+decir que tememos que nuestra batalla podría durar largo tiempo, y que, tal vez,
 
-nuestros pies podran resbalar; solamente Aquel que guarda a Israel no se
+nuestros pies podrían resbalar; solamente Aquel que guarda a Israel no se
 
-descuida ni duerme. Entonces, como sabemos que nuestro Redentor vive, esto ser
+descuida ni duerme. Entonces, como sabemos que nuestro Redentor vive, esto será
 
 nuestro consuelo en la vida: que aunque caigamos no seremos derribados por
 
-completo; y puesto que nuestro Redentor vive, este ser nuestro consuelo en la
+completo; y puesto que nuestro Redentor vive, este será nuestro consuelo en la
 
 muerte: que aunque los gusanos destruyan este cuerpo, en nuestra carne veremos
 
 a Dios.
 
-Que el Seor aada Su bendicin a las
+Que el Seńor ańada Su bendición a las
 
-dbiles palabras de esta maana, y a l sea la gloria para siempre. Amn.
+débiles palabras de esta mańana, y a Él sea la gloria para siempre. Amén.
 
-Sepulcro, guardin
+“ˇSepulcro, guardián
 
 de nuestro polvo!
 
-Sepulcro, tesoro
+ˇSepulcro, tesoro
 
 de los cielos!
 
-Cada tomo que
+Cada átomo que
 
 te ha sido confiado
 
@@ -1210,7 +1210,7 @@ Descansa en
 
 la esperanza de resucitar.
 
-Escucha! La
+ˇEscucha! La
 
 trompeta del juicio llama;
 
@@ -1222,9 +1222,9 @@ Tus paredes
 
 son la inmortalidad,
 
-Y tu da es
+Y tu día es
 
-la eternidad.
+la eternidad.”
 
 Notas del
 
@@ -1234,23 +1234,23 @@ traductor:
 
 Job
 
-dice que a continuacin sus riones se consumen. El seor Spurgeon hace esta
+dice que a continuación sus rińones se consumen. El seńor Spurgeon hace esta
 
-explicacin porque en la Versin King James en ingls de la Biblia, el
+explicación porque en la Versión King James en inglés de la Biblia, el
 
-versculo 27 del captulo 19 de Job dice:
+versículo 27 del capítulo 19 de Job dice:
 
-though
+“though
 
-my reins be consumed within me. Aunque mis riones sean consumidos dentro
+my reins be consumed within me”. “Aunque mis rińones sean consumidos dentro
 
-de m.
+de mí.”
 
 (2)
 
 Torre
 
-del homenaje: la torre ms importante de un castillo, en la cual prestaba
+del homenaje: la torre más importante de un castillo, en la cual prestaba
 
 juramento el gobernador de la fortaleza.
 
@@ -1262,15 +1262,15 @@ palabra
 
 goel,
 
-es un trmino tcnico del
+es un término técnico del
 
 derecho israelita. Se aplica a menudo a Dios salvador de su pueblo y vengador
 
-de los oprimidos. El Judasmo rabnico la aplic al Mesas; de ah sin duda la
+de los oprimidos. El Judaísmo rabínico la aplicó al Mesías; de ahí sin duda la
 
-traduccin de San Jernimo: mi Redentor.
+traducción de San Jerónimo: “mi Redentor”.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 12/Marzo/2009
 

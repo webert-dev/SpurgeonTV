@@ -1,46 +1,46 @@
 # Sermón 3326 | Sermón 3326
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Portentoso
 
 Pacto
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 31 DE OCTUBRE DE 1912.
 
-Por lo cual,
+“Por lo cual,
 
-este es el pacto que har con la casa de Israel despus de aquellos das, dice
+este es el pacto que haré con la casa de Israel después de aquellos días, dice
 
-el Seor: Pondr mis leyes en la mente de ellos, y sobre su corazn las
+el Señor: Pondré mis leyes en la mente de ellos, y sobre su corazón las
 
-escribir; y ser a ellos por Dios, y ellos
+escribiré; y seré a ellos por Dios, y ellos
 
 me
 
-sern a
+serán a
 
-m por pueblo. Hebreos 8: 10.
+mí por pueblo”. Hebreos 8: 10.
 
-en sus
+“…en sus
 
-corazones las grabar. Biblia de Jerusaln.
+corazones las grabaré”. Biblia de Jerusalén.
 
 La doctrina del pacto
 
-divino est en el origen de toda verdadera teologa. Se ha dicho que quien
+divino está en el origen de toda verdadera teología. Se ha dicho que quien
 
-entiende bien la distincin entre el pacto de obras y el pacto de gracia,
+entiende bien la distinción entre el pacto de obras y el pacto de gracia,
 
-domina la teologa. Estoy persuadido de que la mayora de los errores que los
+domina la teología. Estoy persuadido de que la mayoría de los errores que los
 
 hombres cometen concernientes a las doctrinas de
 
@@ -50,9 +50,9 @@ la Escritura
 
 en equivocaciones fundamentales relacionadas con los pactos de la ley y la
 
-gracia. Que Dios me conceda ahora poder para ensearles y a ustedes la gracia
+gracia. Que Dios me conceda ahora poder para enseñarles y a ustedes la gracia
 
-de recibir la instruccin sobre este tema vital.
+de recibir la instrucción sobre este tema vital.
 
 En cuanto al orden de la
 
@@ -60,129 +60,129 @@ historia de este mundo, la raza humana estuvo
 
 primero
 
-sujeta a Dios bajo el pacto de obras. Adn era el hombre que la representaba. Le
+sujeta a Dios bajo el pacto de obras. Adán era el hombre que la representaba. Le
 
-fue dada una cierta ley. Si la guardaba, l y toda su posteridad seran
+fue dada una cierta ley. Si la guardaba, él y toda su posteridad serían
 
-bendecidos como resultado de la obediencia. Si la quebrantaba, l mismo
+bendecidos como resultado de la obediencia. Si la quebrantaba, él mismo
 
-incurrira en la maldicin, y tambin la transmitira a todos sus representados.
+incurriría en la maldición, y también la transmitiría a todos sus representados.
 
-Nuestro primer padre invalid aquel primer pacto. Cay. Incumpli sus
+Nuestro primer padre invalidó aquel primer pacto. Cayó. Incumplió sus
 
-obligaciones. En su cada nos arrastr a todos, pues todos nosotros estbamos
+obligaciones. En su caída nos arrastró a todos, pues todos nosotros estábamos
 
-en sus lomos, y l nos representaba delante de Dios. Entonces, nuestra ruina
+en sus lomos, y él nos representaba delante de Dios. Entonces, nuestra ruina
 
-fue completa antes de que naciramos. Fuimos arruinados por aqul que ocup el
+fue completa antes de que naciéramos. Fuimos arruinados por aquél que ocupó el
 
 puesto de nuestro primer representante. Ser salvados por las obras de la ley es
 
 imposible, pues bajo aquel pacto ya estamos perdidos. Si hemos de ser salvados
 
-del todo ha de ser segn un plan completamente diferente, no segn el plan de
+del todo ha de ser según un plan completamente diferente, no según el plan de
 
 obrar y de ser recompensados por ello, pues eso ya fue intentado, y el representante
 
-sobre quien fue probado fall por todos nosotros. Todos nosotros fallamos en su
+sobre quien fue probado falló por todos nosotros. Todos nosotros fallamos en su
 
 fracaso; no hay ninguna esperanza, por tanto, de ganar el favor divino por algo
 
-que podamos hacer, o de ameritar la bendicin divina por va de una recompensa.
+que podamos hacer, o de ameritar la bendición divina por vía de una recompensa.
 
 Pero la misericordia
 
-divina se interpuso y provey un plan de salvacin de la cada. Ese plan es
+divina se interpuso y proveyó un plan de salvación de la caída. Ese plan es
 
-otro pacto, un pacto hecho con Cristo Jess, el Hijo de Dios, quien es debidamente
+otro pacto, un pacto hecho con Cristo Jesús, el Hijo de Dios, quien es debidamente
 
-llamado por el apstol: el Segundo Adn, porque fue nuevamente un representante
+llamado por el apóstol: “el Segundo Adán”, porque fue nuevamente un representante
 
 de los hombres. Ahora bien, el segundo pacto, en lo que concierne a Cristo, era
 
 un pacto de obras de igual manera que el primero. Era en este sentido: Cristo
 
-tena que venir al mundo y obedecer perfectamente la ley divina. Tena que
+tenía que venir al mundo y obedecer perfectamente la ley divina. Tenía que
 
-sufrir tambin el castigo del pecado, puesto que el primer Adn haba infringido
+sufrir también el castigo del pecado, puesto que el primer Adán había infringido
 
-la ley. Si Cristo cumpla ambas cosas, entonces, todos aquellos a quienes l
+la ley. Si Cristo cumplía ambas cosas, entonces, todos aquellos a quienes Él
 
-representaba seran bendecidos en Su bienaventuranza, y seran salvados debido
+representaba serían bendecidos en Su bienaventuranza, y serían salvados debido
 
-a Su mrito. Entonces, nuestro Seor vino a este mundo sujeto a un pacto de
+a Su mérito. Entonces, nuestro Señor vino a este mundo sujeto a un pacto de
 
-obras. l tena que realizar ciertas obras, y si las cumpla, nos seran
+obras. Él tenía que realizar ciertas obras, y si las cumplía, nos serían
 
-otorgadas ciertas bendiciones. Nuestro Seor guard ese pacto. Su parte del
+otorgadas ciertas bendiciones. Nuestro Señor guardó ese pacto. Su parte del
 
-pacto fue cumplida hasta la ltima letra. No hay ningn mandamiento que no
+pacto fue cumplida hasta la última letra. No hay ningún mandamiento que no
 
-hubiera honrado; no hay ningn castigo por la ley quebrantada que no hubiera
+hubiera honrado; no hay ningún castigo por la ley quebrantada que no hubiera
 
-soportado. Tom forma de siervo y se hizo obediente, s, obediente hasta la
+soportado. Tomó forma de siervo y se hizo obediente, sí, obediente hasta la
 
-muerte, y muerte de cruz. l realiz as lo que el primer Adn no pudo cumplir,
+muerte, y muerte de cruz. Él realizó así lo que el primer Adán no pudo cumplir,
 
-y recuper lo que el primer Adn perdi por su transgresin. l afirm el
+y recuperó lo que el primer Adán perdió por su transgresión. Él afirmó el
 
-pacto, que ces de ser entonces un pacto de obras, ya que todas las obras
+pacto, que cesó de ser entonces un pacto de obras, ya que todas las obras
 
 fueron realizadas.
 
-Jess las realiz, las realiz todas,
+“Jesús las realizó, las realizó todas,
 
-Hace mucho, mucho tiempo.
+Hace mucho, mucho tiempo”.
 
-Y ahora qu permanece
+Y ahora ¿qué permanece
 
 del pacto? Dios, por Su parte, se ha comprometido solemnemente a otorgar un
 
-favor inmerecido a todos cuantos estaban representados en Cristo Jess. Para
+favor inmerecido a todos cuantos estaban representados en Cristo Jesús. Para
 
-todos aquellos por quienes el Salvador muri, hay atesorada una cantidad
+todos aquellos por quienes el Salvador murió, hay atesorada una cantidad
 
-ilimitada de bendiciones que les sern otorgadas, no a travs de sus obras,
+ilimitada de bendiciones que les serán otorgadas, no a través de sus obras,
 
-sino como un don soberano de la gracia de Dios, segn la promesa del pacto por
+sino como un don soberano de la gracia de Dios, según la promesa del pacto por
 
-la cual sern salvados.
+la cual serán salvados.
 
 Contemplen, hermanos
 
-mos, la esperanza de los hijos de los hombres. La esperanza de obtener la
+míos, la esperanza de los hijos de los hombres. La esperanza de obtener la
 
-salvacin por s mismos es aplastada, pues ya estn perdidos. La esperanza de
+salvación por sí mismos es aplastada, pues ya están perdidos. La esperanza de
 
 ser salvados por obras es una esperanza falaz, pues no pueden cumplir la ley. Ya
 
-la quebrantaron. Pero hay un camino de salvacin disponible de esta manera: El
+la quebrantaron. Pero hay un camino de salvación disponible de esta manera: El
 
-que creyere en el Seor Jesucristo, recibir y participar de la
+que creyere en el Señor Jesucristo, recibirá y participará de la
 
 bienaventuranza que Cristo ha comprado. Todas las bendiciones que pertenecen al
 
-pacto de gracia a travs de la obra de Cristo, habrn de pertenecer a toda alma
+pacto de gracia a través de la obra de Cristo, habrán de pertenecer a toda alma
 
-que crea en Jess. Al que no obra, sino que cree en aquel que justifica al
+que crea en Jesús. Al que no obra, sino que cree en aquel que justifica al
 
-impo, a l le sern dadas sin duda las bendiciones del nuevo pacto de gracia.
+impío, a él le serán dadas sin duda las bendiciones del nuevo pacto de gracia.
 
 Espero que esta
 
-explicacin sea lo suficientemente clara. Si Adn hubiera guardado la ley,
+explicación sea lo suficientemente clara. Si Adán hubiera guardado la ley,
 
-nosotros habramos sido bendecidos por ese hecho. Pero Adn quebrant la ley, y
+nosotros habríamos sido bendecidos por ese hecho. Pero Adán quebrantó la ley, y
 
-nosotros hemos sido maldecidos a travs de l. Ahora bien, el segundo Adn,
+nosotros hemos sido maldecidos a través de él. Ahora bien, el segundo Adán,
 
-Cristo Jess, guard la ley, y por tanto, si somos creyentes, estamos
+Cristo Jesús, guardó la ley, y por tanto, si somos creyentes, estamos
 
 representados en Cristo y somos bendecidos con los resultados de la obediencia
 
-de Jesucristo a la voluntad de Su Padre. l dijo en tiempos antiguos: He aqu
+de Jesucristo a la voluntad de Su Padre. Él dijo en tiempos antiguos: “He aquí
 
-que vengo, oh Dios, para hacer tu voluntad. Tu ley es mi delicia. l cumpli
+que vengo, oh Dios, para hacer tu voluntad. Tu ley es mi delicia”. Él cumplió
 
 esa voluntad, y las bendiciones de la gracia son otorgadas ahora gratuitamente
 
@@ -190,7 +190,7 @@ a los hijos de los hombres.
 
 Entonces voy a pedirles
 
-que presten atencin, primero,
+que presten atención, primero,
 
 a los
 
@@ -198,11 +198,11 @@ privilegios del pacto de gracia;
 
 y, en segundo lugar,
 
-a las partes involucradas en l.
+a las partes involucradas en él.
 
-Esto bastar, estoy seguro, para nuestra
+Esto bastará, estoy seguro, para nuestra
 
-consideracin en el breve tiempo asignado a nuestro sermn de esta noche.
+consideración en el breve tiempo asignado a nuestro sermón de esta noche.
 
 I.
 
@@ -214,57 +214,57 @@ El primer privilegio es
 
 que
 
-todos los que tienen un inters en l,
+todos los que tienen un interés en él,
 
-recibirn la iluminacin de sus mentes.
+recibirán la iluminación de sus mentes.
 
-Dar mi ley en su mente. Por
+“Daré mi ley en su mente”. Por
 
 naturaleza estamos a oscuras en cuanto a la voluntad de Dios. La conciencia
 
 mantiene en nosotros un tipo de recuerdo fragmentario de lo que era la voluntad
 
-de Dios. Es un monumento de la voluntad de Dios, pero frecuentemente es difcilmente
+de Dios. Es un monumento de la voluntad de Dios, pero frecuentemente es difícilmente
 
-legible. Al hombre no le interesa leerlo, pues es adverso a lo que all lee. Su
+legible. Al hombre no le interesa leerlo, pues es adverso a lo que allí lee. “Su
 
-necio corazn fue entenebrecido, es la expresin de
+necio corazón fue entenebrecido”, es la expresión de
 
 la Escritura
 
 con respecto a
 
-la mente humana. Pero se promete el Espritu Santo a quienes tienen un inters
+la mente humana. Pero se promete el Espíritu Santo a quienes tienen un interés
 
-en el pacto. l vendr a sus mentes y derramar luz en lugar de las tinieblas,
+en el pacto. Él vendrá a sus mentes y derramará luz en lugar de las tinieblas,
 
-iluminndolas en cuanto a cul es la voluntad de Dios. El impo tiene algn
+iluminándolas en cuanto a cuál es la voluntad de Dios. El impío tiene algún
 
 grado de luz, pero es meramente intelectual. Es una luz que no ama. Ama las
 
-tinieblas ms que la luz, porque sus actos son malvados. Pero cuando llega el
+tinieblas más que la luz, porque sus actos son malvados. Pero cuando llega el
 
-Espritu Santo, inunda el alma con un lustre divino en el que el alma se
+Espíritu Santo, inunda el alma con un lustre divino en el que el alma se
 
-deleita y del que desea participar al mximo.
+deleita y del que desea participar al máximo.
 
 Hermanos, el hombre
 
 renovado, el hombre bajo el pacto de gracia, no necesita recurrir constantemente
 
-a su Biblia para saber qu debe hacer, ni necesita acudir a algn hermano
+a su Biblia para saber qué debe hacer, ni necesita acudir a algún hermano
 
-cristiano para pedirle instruccin. No tiene ahora la ley de Dios escrita en
+cristiano para pedirle instrucción. No tiene ahora la ley de Dios escrita en
 
-una tabla de piedra, o sobre un pergamino o sobre papel; la ley est escrita en
+una tabla de piedra, o sobre un pergamino o sobre papel; la ley está escrita en
 
-su propia mente. Un Espritu divino e infalible mora ahora dentro de l que le
+su propia mente. Un Espíritu divino e infalible mora ahora dentro de él que le
 
-declara lo bueno y lo malo, y por eso discierne rpidamente entre una cosa y la
+declara lo bueno y lo malo, y por eso discierne rápidamente entre una cosa y la
 
 otra. Ya no hace de la luz tinieblas, y de las tinieblas luz; ya no pone lo
 
-amargo por dulce, y lo dulce por amargo. Su mente est iluminada en cuanto a la
+amargo por dulce, y lo dulce por amargo. Su mente está iluminada en cuanto a la
 
 verdadera santidad y pureza que Dios requiere.
 
@@ -272,27 +272,27 @@ Simplemente observen a
 
 aquellos a quienes viene esta luz. Algunos de ellos eran, por naturaleza,
 
-profundamente depravados. Todos ellos eran depravados, pero por sus prcticas
+profundamente depravados. Todos ellos eran depravados, pero por sus prácticas
 
-algunos de ellos se volvieron todava ms negros. No es maravilloso que un
+algunos de ellos se volvieron todavía más negros. ¿No es maravilloso que un
 
-pobre pagano que escasamente pareca reconocer la distincin entre lo bueno y
+pobre pagano que escasamente parecía reconocer la distinción entre lo bueno y
 
-lo malo antes que el Espritu de Dios entrara en su mente, despus, sin
+lo malo antes que el Espíritu de Dios entrara en su mente, después, sin
 
-necesidad de que se le ensearan todos los preceptos individualmente, recibiera
+necesidad de que se le enseñaran todos los preceptos individualmente, recibiera
 
 de inmediato la luz viva de una tierna conciencia que lo ha llevado a conocer
 
 lo bueno y a amarlo, y a ver el mal y a evitarlo? Si se quiere civilizar al
 
-mundo, debe ser por la predicacin del Evangelio. Si se quiere contar con
+mundo, debe ser por la predicación del Evangelio. Si se quiere contar con
 
 hombres bien instruidos en cuanto a lo bueno y lo malo, tiene que ser por medio
 
-de esta instruccin divina que slo Dios mismo puede impartir. Yo lo har, y,
+de esta instrucción divina que sólo Dios mismo puede impartir. “Yo lo haré”, y,
 
-oh!, cun benditamente lo hace, cuando toma al hombre que amaba el mal y lo
+¡oh!, cuán benditamente lo hace, cuando toma al hombre que amaba el mal y lo
 
 llamaba el bien, y derrama de tal manera un rayo divino dentro de su alma, que
 
@@ -300,101 +300,101 @@ en adelante ya no puede ser perverso, no puede ser obstinado, sino que se
 
 somete a la voluntad divina. Esa es una de las primeras bendiciones del pacto:
 
-la iluminacin del entendimiento.
+la iluminación del entendimiento.
 
-La siguiente bendicin
+La siguiente bendición
 
 es:
 
-y sobre su corazn las escribir.
+“y sobre su corazón las escribiré”.
 
 Esto
 
-es algo ms que conocer la ley, es infinitamente ms que eso. Voy a escribir
+es algo más que conocer la ley, es infinitamente más que eso. “Voy a escribir
 
 la ley, no meramente en sus entendimientos, desde donde esa ley pueda guiarlos,
 
-sino en sus corazones, desde donde los conducir. Hermanos, el Espritu Santo
+sino en sus corazones, desde donde los conducirá. Hermanos, el Espíritu Santo
 
 hace que los hombres amen la voluntad de Dios, hace que se deleiten en todo
 
 aquello en lo que Dios se deleita, y que aborrezcan lo que Dios aborrece. Bien
 
-se dice en el texto que Dios har sto, pues ciertamente no es algo que un
+se dice en el texto que Dios hará ésto, pues ciertamente no es algo que un
 
-hombre pueda hacer por s mismo. Es ms fcil que el etope mude su piel o el
+hombre pueda hacer por sí mismo. Es más fácil que el etíope mude su piel o el
 
 leopardo sus manchas. No es algo que el ministro pueda hacer, pues aunque
 
-predique al odo, no puede escribir la ley de Dios en los afectos. Me ha
+predique al oído, no puede escribir la ley de Dios en los afectos. Me ha
 
-maravillado la expresin usada en el texto: y
+maravillado la expresión usada en el texto: “y
 
 en
 
-su corazn las escribir. Escribir
+su corazón las escribiré”. Escribir
 
 sobre
 
-un corazn ha de ser un trabajo difcil, pero escribir
+un corazón ha de ser un trabajo difícil, pero escribir
 
 en
 
-un corazn, en el propio centro del
+un corazón, en el propio centro del
 
-corazn, quin puede hacerlo sino Dios? Un hombre graba con un cuchillo su
+corazón, ¿quién puede hacerlo sino Dios? Un hombre graba con un cuchillo su
 
-nombre en la corteza de un rbol, y all queda, y las letras crecen con el
+nombre en la corteza de un árbol, y allí queda, y las letras crecen con el
 
-rbol; pero grabar su nombre con un cuchillo en el corazn del rbol: cmo
+árbol; pero grabar su nombre con un cuchillo en el corazón del árbol: ¿cómo
 
-podra lograr eso? Y sin embargo, Dios graba divinamente Su voluntad y Su ley
+podría lograr eso? Y sin embargo, ¡Dios graba divinamente Su voluntad y Su ley
 
-en el propio corazn y en la naturaleza del hombre!
+en el propio corazón y en la naturaleza del hombre!
 
-Yo s cul es la idea
+Yo sé cuál es la idea
 
 que hay acerca del pueblo cristiano: que no se conforman a esta y a esa
 
 costumbre, porque tienen miedo; ellos quisieran recrearse con las vanidades del
 
-mundo, pero no quisieran merecer los castigos. Ah, ustedes, hijos de los
+mundo, pero no quisieran merecer los castigos. ¡Ah, ustedes, hijos de los
 
-hombres, ustedes no comprenden la obra misteriosa del Espritu! l no hace nada
+hombres, ustedes no comprenden la obra misteriosa del Espíritu! Él no hace nada
 
-parecido a eso. l no hace que el hijo de Dios sea un siervo, un esclavo
+parecido a eso. Él no hace que el hijo de Dios sea un siervo, un esclavo
 
 temeroso de la servidumbre, antes bien cambia de tal manera la naturaleza de
 
 los hombres que ya no aman lo que antes amaban; ahora se apartan con desprecio
 
-de las cosas en las que antes se deleitaban, y no pueden complacerse ms en los
+de las cosas en las que antes se deleitaban, y no pueden complacerse más en los
 
-pecados que una vez fueron dulces para ellos, de la misma manera que un ngel
+pecados que una vez fueron dulces para ellos, de la misma manera que un ángel
 
-no podra hundirse y revolcarse en el cieno con los cerdos. Oh!, esta es una
+no podría hundirse y revolcarse en el cieno con los cerdos. ¡Oh!, esta es una
 
-obra de gracia, y ste es un bendito pacto en el que se promete que seremos
+obra de gracia, y éste es un bendito pacto en el que se promete que seremos
 
-instruidos en lo recto, que se nos ensear a conocer y amar lo recto, y a
+instruidos en lo recto, que se nos enseñará a conocer y amar lo recto, y a
 
-practicarlo con la debida disposicin mental.
+practicarlo con la debida disposición mental.
 
 Me dirijo a algunos esta
 
-noche que han estado diciendo: yo deseara ser salvo. Qu quieres decir con
+noche que han estado diciendo: “yo desearía ser salvo”. ¿Qué quieres decir con
 
-eso? Quieres decir que deseas poder escapar del infierno? Ah!, bien, yo
+eso? ¿Quieres decir que deseas poder escapar del infierno? ¡Ah!, bien, yo
 
-deseara que tuvieras otro deseo, es decir, que dijeras: Oh, que pudiera
+desearía que tuvieras otro deseo, es decir, que dijeras: “¡Oh, que pudiera
 
-escapar del pecado! Oh, que pudiera ser purificado! Oh, que pudiera ponerle
+escapar del pecado! ¡Oh, que pudiera ser purificado! ¡Oh, que pudiera ponerle
 
-una brida a mis pasiones! Oh, que mis anhelos y mis gustos pudieran ser
+una brida a mis pasiones! ¡Oh, que mis anhelos y mis gustos pudieran ser
 
-cambiados! Si es ese tu deseo, mira cun grande Evangelio tengo para
+cambiados!” Si es ese tu deseo, mira cuán grande Evangelio tengo para
 
-predicarte. No tengo que venir y decirte: haz esto y no hagas eso. Moiss te
+predicarte. No tengo que venir y decirte: haz esto y no hagas eso. Moisés te
 
 dice eso, y el predicador de la ley te habla de esa manera, pero yo, el predicador
 
@@ -408,97 +408,97 @@ interior, los induce a amar la santidad y a seguir la justicia.
 
 Yo confieso que
 
-considero que sta es una de las ms grandes bendiciones de las que lengua
+considero que ésta es una de las más grandes bendiciones de las que lengua
 
-alguna pudiera hablar jams. Yo preferira ser santo que ser feliz, si las dos
+alguna pudiera hablar jamás. Yo preferiría ser santo que ser feliz, si las dos
 
 cosas fueran separables. Si fuera posible que un hombre estuviera afligido
 
-siempre y, sin embargo, que fuera puro, yo elegira la afliccin, si pudiera
+siempre y, sin embargo, que fuera puro, yo elegiría la aflicción, si pudiera
 
 alcanzar la pureza; pues, amados, ser libre del poder del pecado, ser conducido
 
 a amar la santidad, aunque les he hablado en un sentido humano, es la verdadera
 
-felicidad. Un hombre que es santo est en orden con la creacin; est en
+felicidad. Un hombre que es santo está en orden con la creación; está en
 
-armona con Dios. Es imposible que ese hombre sufra por largo tiempo. Podra
+armonía con Dios. Es imposible que ese hombre sufra por largo tiempo. Podría
 
 soportar dolor por un tiempo por su bien perenne, pero tan cierto como que Dios
 
-es feliz, el santo tiene que ser feliz. Este mundo no est constituido de tal
+es feliz, el santo tiene que ser feliz. Este mundo no está constituido de tal
 
-manera que a la larga la santidad se identifique con la afliccin, pues en la
+manera que a la larga la santidad se identifique con la aflicción, pues en la
 
-eternidad Dios mostrar que ser puro es ser bienaventurado, que ser obediente a
+eternidad Dios mostrará que ser puro es ser bienaventurado, que ser obediente a
 
 la voluntad divina es ser glorificado eternamente. Al predicarles, entonces,
 
 estas dos bendiciones del pacto, les he predicado virtualmente el reino del
 
-cielo que est abierto para todos aquellos a quienes la gracia de Dios mira con
+cielo que está abierto para todos aquellos a quienes la gracia de Dios mira con
 
 un ojo de misericordia.
 
-La siguiente bendicin
+La siguiente bendición
 
 del pacto es:
 
-Ser a ellos por Dios.
+“Seré a ellos por Dios”.
 
 Si
 
-alguien me preguntara qu significa eso, debo responderle: Dame un mes para
+alguien me preguntara qué significa eso, debo responderle: Dame un mes para
 
-considerarlo. Y despus de haber considerado el texto durante un mes, tendra
+considerarlo. Y después de haber considerado el texto durante un mes, tendría
 
-que pedirle otro mes; y despus de haber esperado un ao, tendra que pedirle
+que pedirle otro mes; y después de haber esperado un año, tendría que pedirle
 
-otro ao; y cuando hubiera esperado hasta encanecer, todava pedira la
+otro año; y cuando hubiera esperado hasta encanecer, todavía pediría la
 
-posposicin de cualquier intento de abrirlo plenamente, hasta la eternidad.
+posposición de cualquier intento de abrirlo plenamente, hasta la eternidad.
 
-Ser a ellos por Dios. Ahora, fjense, donde el Espritu de Dios llega para
+“Seré a ellos por Dios”. Ahora, fíjense, donde el Espíritu de Dios llega para
 
-ensearles la voluntad divina y hacerles amar la voluntad divina, Dios se
+enseñarles la voluntad divina y hacerles amar la voluntad divina, Dios se
 
-convierte para ustedes, cmo!, en un padre? S, en un Padre tierno y amoroso.
+convierte para ustedes, ¡cómo!, ¿en un padre? Sí, en un Padre tierno y amoroso.
 
-En un pastor? S, en un diligente Guardin de Su rebao. En un amigo? S, en un
+¿En un pastor? Sí, en un diligente Guardián de Su rebaño. ¿En un amigo? Sí, en un
 
-Amigo que es ms fiel que un hermano. En una roca? En un refugio? En una
+Amigo que es más fiel que un hermano. ¿En una roca? ¿En un refugio? ¿En una
 
-fortaleza? En una torre alta? En un castillo de defensa? En un hogar? En un
+fortaleza? ¿En una torre alta? ¿En un castillo de defensa? ¿En un hogar? ¿En un
 
-cielo? S, en todo eso. Pero cuando dijo: Ser a ellos por Dios, dijo ms que
+cielo? Sí, en todo eso. Pero cuando dijo: “Seré a ellos por Dios”, dijo más que
 
-todas esas cosas tomadas en su conjunto, pues, Ser a ellos por Dios,
+todas esas cosas tomadas en su conjunto, pues, “Seré a ellos por Dios”,
 
-comprende todos los ttulos de gracia, todas las benditas promesas, y todos los
+comprende todos los títulos de gracia, todas las benditas promesas, y todos los
 
-privilegios divinos. Abarca s, ahora hago un alto, pues esto es infinito y lo
+privilegios divinos. Abarca… sí, ahora hago un alto, pues esto es infinito y lo
 
-infinito abarca todas las bendiciones. Ser a ellos por Dios. Necesitas
+infinito abarca todas las bendiciones. “Seré a ellos por Dios”. ¿Necesitas
 
-provisin? Los millares de animales en los collados son suyos; dar no es nada
+provisión? Los millares de animales en los collados son suyos; dar no es nada
 
-para l; no lo empobrecer; l te dar como un Dios. Necesitas consuelo? l es
+para Él; no lo empobrecerá; Él te dará como un Dios. ¿Necesitas consuelo? Él es
 
-el Dios de toda consolacin; l te consolar como un Dios. Necesitas orientacin?
+el Dios de toda consolación; Él te consolará como un Dios. ¿Necesitas orientación?
 
-Hay infinita sabidura que est a tu entera disposicin. Necesitas apoyo? Hay
+Hay infinita sabiduría que está a tu entera disposición. ¿Necesitas apoyo? Hay
 
 un eterno poder, el mismo que guarda las colinas eternas, esperando para ser tu
 
-apoyo. Necesitas gracia? l se deleita en la misericordia, y toda esa
+apoyo. ¿Necesitas gracia? Él se deleita en la misericordia, y toda esa
 
 misericordia es tuya. Cada atributo de Dios pertenece a Su pueblo que ha
 
-entrado en pacto con l. Todo lo que Dios es o pudiera ser -y qu hay que no
+entrado en pacto con Él. Todo lo que Dios es o pudiera ser -¿y qué hay que no
 
-est all?- todo lo que puedas concebir y ms; todo lo que los ngeles tienen y
+esté allí?- todo lo que puedas concebir y más; todo lo que los ángeles tienen y
 
-ms; todo lo que el cielo es y ms; todo lo que est en Cristo, incluso la
+más; todo lo que el cielo es y más; todo lo que está en Cristo, incluso la
 
 ilimitada plenitud de
 
@@ -506,83 +506,83 @@ la Deidad
 
 ,
 
-todo eso te pertenece, si ests en pacto con Dios por medio de Jesucristo.
+todo eso te pertenece, si estás en pacto con Dios por medio de Jesucristo.
 
-Cun ricos, cun bienaventurados, cun augustos, cun nobles son aqullos que
+¡Cuán ricos, cuán bienaventurados, cuán augustos, cuán nobles son aquéllos que
 
 han entrado en pacto con Dios, confederados con el cielo! La infinitud te
 
-pertenece. Alza tu cabeza, oh hijo de Dios, y regocjate en una promesa que yo
+pertenece. Alza tu cabeza, oh hijo de Dios, y regocíjate en una promesa que yo
 
-no puedo exponer y que t no puedes explorar. Aqu debo dejar este asunto; es
+no puedo exponer y que tú no puedes explorar. Aquí debo dejar este asunto; es
 
 un abismo que en vano intentamos sondear.
 
 Noten la siguiente
 
-bendicin:
+bendición:
 
-Y ellos me sern a m por
+“Y ellos me serán a mí por
 
-pueblo.
+pueblo”.
 
 En un cierto sentido, toda carne le pertenece a Dios. Todos los
 
-hombres son Suyos por derechos de creacin, y l tiene una soberana infinita
+hombres son Suyos por derechos de creación, y Él tiene una soberanía infinita
 
-sobre ellos. l mira desde lo alto a los hijos de los hombres, y selecciona a
+sobre ellos. Él mira desde lo alto a los hijos de los hombres, y selecciona a
 
-algunos, y dice: stos conformarn mi pueblo, no el resto; stos sern mi
+algunos, y dice: “Éstos conformarán mi pueblo, no el resto; éstos serán mi
 
-pueblo peculiar.
+pueblo peculiar”.
 
 Cuando el rey de Navarra
 
-estaba peleando por su trono, el escritor que elabor un himno a la batalla,
+estaba peleando por su trono, el escritor que elaboró un himno a la batalla,
 
 dijo:
 
-Mir a los enemigos, y su mirada fue severa y altiva;
+“Miró a los enemigos, y su mirada fue severa y altiva;
 
-Mir a su pueblo, y una lgrima se asom a sus ojos.
+Miró a su pueblo, y una lágrima se asomó a sus ojos”.
 
 Y cuando vio a algunos
 
-de los franceses en armas contra l:
+de los franceses en armas contra él:
 
-Entonces el gentil
+“Entonces el gentil
 
-Enrique dijo: ningn francs es mi enemigo,
+Enrique dijo: ningún francés es mi enemigo,
 
 Abajo, abajo, con todo extranjero, pero
 
-dejen ir a sus hermanos.
+dejen ir a sus hermanos”.
 
 El rey consideraba a su
 
-pueblo incluso si estaban en rebelin contra l, y albergaba un pensamiento
+pueblo incluso si estaban en rebelión contra él, y albergaba un pensamiento
 
-diferente hacia ellos de los que tena hacia otros. Djenlos ir, pareca
+diferente hacia ellos de los que tenía hacia otros. “Déjenlos ir”, parecía
 
-decir, pues son parte de mi pueblo. As que, fjense, en las grandes batallas
+decir, pues “son parte de mi pueblo”. Así que, fíjense, en las grandes batallas
 
-y contiendas de este mundo, cuando Dios desencadena la terrible artillera del
+y contiendas de este mundo, cuando Dios desencadena la terrible artillería del
 
-cielo, Su mirada es severa para con Sus enemigos, pero hay lgrimas en Sus ojos
+cielo, Su mirada es severa para con Sus enemigos, pero hay lágrimas en Sus ojos
 
-para Su pueblo. l es siempre tierno para con ellos. Perdonen a mi pueblo,
+para Su pueblo. Él es siempre tierno para con ellos. “Perdonen a mi pueblo”,
 
-dice, y los ngeles se interponen para que los pies de esos elegidos no
+dice, y los ángeles se interponen para que los pies de esos elegidos no
 
 tropiecen contra una piedra.
 
 La gente tiene sus
 
-tesoros, sus perlas, sus joyas, sus rubes, sus diamantes, los cuales
+tesoros, sus perlas, sus joyas, sus rubíes, sus diamantes, los cuales
 
-constituyen su peculiar acopio. Ahora bien, todos los que estn en el pacto de
+constituyen su peculiar acopio. Ahora bien, todos los que están en el pacto de
 
-gracia constituyen el peculiar tesoro de Dios. l los valora por encima de
+gracia constituyen el peculiar tesoro de Dios. Él los valora por encima de
 
 todas las otras cosas. De hecho, hace que el mundo gire para ellos. El mundo no
 
@@ -592,219 +592,219 @@ la
 
 Iglesia.
 
-l desechar a la creacin una vez que haya reunido
+Él desechará a la creación una vez que haya reunido
 
-a Sus santos; s, el sol, y la luna y las estrellas pasarn como andrajos
+a Sus santos; sí, el sol, y la luna y las estrellas pasarán como andrajos
 
 viejos una vez que haya reunido a Sus propios elegidos, y los haya colocado
 
 dentro de la seguridad de los muros del cielo. El tiempo camina para ellos;
 
-para ellos existe el mundo. l mide a las naciones de acuerdo al nmero de
+para ellos existe el mundo. Él mide a las naciones de acuerdo al número de
 
 ellos, y hace que las propias estrellas del cielo luchen contra sus enemigos, y
 
-que los defiendan de sus adversarios. Me sern a m por pueblo. El favor contenido
+que los defiendan de sus adversarios. “Me serán a mí por pueblo”. El favor contenido
 
 en tal amor no puede ser expresado por lengua alguna. Tal vez en algunos de
 
 esos apacibles lugares de descanso preparados para los santos en el cielo, una
 
-parte de nuestro gozo eterno ser contemplar las alturas y las profundidades de
+parte de nuestro gozo eterno será contemplar las alturas y las profundidades de
 
-estas lneas de oro.
+estas líneas de oro.
 
 II.
 
 Y
 
-ahora, hermanos, deseara tener el tiempo para considerar las otras partes
+ahora, hermanos, desearía tener el tiempo para considerar las otras partes
 
-contenidas en los versculos once y doce del captulo, pero no lo tengo, pues
+contenidas en los versículos once y doce del capítulo, pero no lo tengo, pues
 
-debo hacer algo prctico, que es preguntar: PARA QUINES HIZO DIOS ESTE PACTO?
+debo hacer algo práctico, que es preguntar: ¿PARA QUIÉNES HIZO DIOS ESTE PACTO?
 
 Dije que lo hizo con
 
 Cristo, pero lo hizo con Cristo como el representante de Su pueblo. La pregunta
 
-para ustedes, y para m y para cada quien esta noche, es: Tengo un inters en
+para ustedes, y para mí y para cada quien esta noche, es: “¿Tengo un interés en
 
-Cristo? Supli Cristo mi lugar? Ahora, si yo fuera a decir que Cristo fue el
+Cristo? ¿Suplió Cristo mi lugar?” Ahora, si yo fuera a decir que Cristo fue el
 
-representante del mundo entero, ustedes no encontraran ninguna ventaja
+representante del mundo entero, ustedes no encontrarían ninguna ventaja
 
-sustancial en ello, porque al estar perdida una gran proporcin de la humanidad,
+sustancial en ello, porque al estar perdida una gran proporción de la humanidad,
 
-cualquiera que fuera el inters que pudieran haber tenido en Cristo, no fue
+cualquiera que fuera el interés que pudieran haber tenido en Cristo, no fue
 
-ciertamente de ningn valor benfico para ellos en lo tocante a su eterna
+ciertamente de ningún valor benéfico para ellos en lo tocante a su eterna
 
-salvacin. La pregunta que hago es: tengo yo un inters tan especial en Cristo
+salvación. La pregunta que hago es: ¿tengo yo un interés tan especial en Cristo
 
-que este pacto me incluye a m, de tal manera que tendr o ya tengo ahora la
+que este pacto me incluye a mí, de tal manera que tendré o ya tengo ahora la
 
-mente iluminada, los afectos santificados y la posesin de Dios para ser mi
+mente iluminada, los afectos santificados y la posesión de Dios para ser mi
 
 Dios?
 
-Hermanos mos, no se engaen;
+Hermanos míos, no se engañen;
 
 yo no puedo y ustedes tampoco pueden pasar las hojas del libro del destino. Es
 
 imposible que forcemos nuestro camino al aposento del Eterno. Yo espero que no
 
-estn engaados por ideas supersticiosas de que han tenido alguna revelacin
+estén engañados por ideas supersticiosas de que han tenido alguna revelación
 
-hecha para ustedes, o de que ha habido algn sonido especial o algn sueo que
+hecha para ustedes, o de que ha habido algún sonido especial o algún sueño que
 
 lleve a pensar a cualquiera de ustedes que es cristiano.
 
-Sin embargo, intentar
+Sin embargo, intentaré
 
-ayudarles un poco sobre la base de promesas ms slidas. Han obtenido ya
+ayudarles un poco sobre la base de promesas más sólidas. ¿Han obtenido ya
 
-alguna de estas bendiciones del pacto? Tienen una mente que ha sido iluminada?
+alguna de estas bendiciones del pacto? ¿Tienen una mente que ha sido iluminada?
 
-Encuentran ahora que su espritu les dice qu es lo bueno y qu es lo malo?
+¿Encuentran ahora que su espíritu les dice qué es lo bueno y qué es lo malo?
 
-Mejor an, tienen un amor por lo bueno? Tienen un odio por lo malo? Si es
+Mejor aún, ¿tienen un amor por lo bueno? ¿Tienen un odio por lo malo? Si es
 
-as, como ya tienen una bendicin del pacto, todas las dems bendiciones la
+así, como ya tienen una bendición del pacto, todas las demás bendiciones la
 
-acompaarn. Ahora, hombres y mujeres, han experimentado ustedes un gran
+acompañarán. Ahora, hombres y mujeres, ¿han experimentado ustedes un gran
 
-cambio? Han llegado a odiar aquello que una vez amaron, y a amar aquello que
+cambio? ¿Han llegado a odiar aquello que una vez amaron, y a amar aquello que
 
-una vez odiaron? Si as ha sido, el pacto se extiende ante ustedes como la
+una vez odiaron? Si así ha sido, el pacto se extiende ante ustedes como la
 
-tierra de Canan ante los embelesados ojos de Moiss en la cumbre del monte. Mrenlo
+tierra de Canaán ante los embelesados ojos de Moisés en la cumbre del monte. Mírenlo
 
 ahora, pues es suyo. Fluye leche y miel, y les pertenece, y ustedes lo
 
-heredarn. Pero si no ha habido tal cambio obrado en ustedes, no puedo
+heredarán. Pero si no ha habido tal cambio obrado en ustedes, no puedo
 
-ofrecerles ninguna congratulacin, pero doy gracias a Dios porque puedo hacer
+ofrecerles ninguna congratulación, pero doy gracias a Dios porque puedo hacer
 
-lo que es adecuado para ustedes. Yo les puedo ofrecer la direccin divina, y la
+lo que es adecuado para ustedes. Yo les puedo ofrecer la dirección divina, y la
 
-gua para que obtengan un inters en este pacto; y esclarecer su inters en l,
+guía para que obtengan un interés en este pacto; y esclarecer su interés en él,
 
-es sencillo. Est contenido en pocas palabras. Observen bien esas tres
+es sencillo. Está contenido en pocas palabras. Observen bien esas tres
 
-palabras: Cree y vive, pues el que cree en Cristo Jess tiene vida eterna,
+palabras: “Cree y vive”, pues el que cree en Cristo Jesús tiene vida eterna,
 
-que es la bendicin del pacto. El argumento es obvio. Teniendo la bendicin del
+que es la bendición del pacto. El argumento es obvio. Teniendo la bendición del
 
 pacto tienes que estar en el pacto, y estando en el pacto, Cristo evidentemente
 
-tuvo que haber sido representativamente tu fiador. Pero alguien preguntar:
+tuvo que haber sido representativamente tu fiador. Pero alguien preguntará:
 
-Qu es creer en Cristo? Otra palabra es sinnima. Es:
+“¿Qué es creer en Cristo?” Otra palabra es sinónima. Es:
 
-confa
+confía
 
-en Cristo. Cmo puedo saber si muri por m en
+en Cristo. “¿Cómo puedo saber si murió por mí en
 
-particular? Confa en l ya sea que sepas o no. Jesucristo es alzado en la
+particular?” Confía en Él ya sea que sepas o no. Jesucristo es alzado en la
 
-cruz del Calvario como la expiacin por el pecado; y la proclamacin es ofrecida
+cruz del Calvario como la expiación por el pecado; y la proclamación es ofrecida
 
-verbalmente: Mira, mira; mira y vive, y todo aqul que deseche su justicia
+verbalmente: “Mira, mira; mira y vive”, y todo aquél que deseche su justicia
 
 propia, que deseche todo aquello de lo que ahora depende, y quiera venir y
 
 confiar en la obra terminada de nuestro exaltado Salvador, en esa precisa fe
 
-tiene la seal de que es uno de aquellos que estaban en Cristo cuando subi a
+tiene la señal de que es uno de aquellos que estaban en Cristo cuando subió a
 
-la cruz y llev a cabo la eterna redencin de Sus elegidos. Yo no creo que
+la cruz y llevó a cabo la eterna redención de Sus elegidos. Yo no creo que
 
 Cristo muriera en el madero para hacer que los hombres sean salvables, sino
 
-para salvarlos; no muri para que algunos hombres pudieran ser salvados si
+para salvarlos; no murió para que algunos hombres pudieran ser salvados “si”…
 
-sino para redimirlos realmente, y l se entreg en ese lugar y en ese momento
+sino para redimirlos realmente, y Él se entregó en ese lugar y en ese momento
 
-como rescate; l pag all sus deudas, all arroj sus pecados en el Mar Rojo, y
+como rescate; Él pagó allí sus deudas, allí arrojó sus pecados en el Mar Rojo, y
 
-all barri por completo todo lo que poda imputarse a los elegidos de Dios. Si
+allí barrió por completo todo lo que podía imputarse a los elegidos de Dios. Si
 
-crees, t eres uno de Sus elegidos. Si t crees en l, Cristo muri por ti y
+crees, tú eres uno de Sus elegidos. Si tú crees en Él, Cristo murió por ti y
 
-tus pecados te son perdonados. Bien, pero dir alguien- qu hay en cuanto
+tus pecados te son perdonados. “Bien, pero” –dirá alguien- “¿qué hay en cuanto
 
-al cambio de naturaleza? Siempre viene con la fe. Es el pariente ms cercano
+al cambio de naturaleza?” Siempre viene con la fe. Es el pariente más cercano
 
 de la fe. Doquiera que haya un fe genuina en Cristo, la fe obra amor. Un
 
 sentido de misericordia engendra el afecto; el afecto a Cristo engendra el odio
 
-al pecado; el odio al pecado purifica el alma; y la purificacin del alma
+al pecado; el odio al pecado purifica el alma; y la purificación del alma
 
 cambia la vida. No deben comenzar por enmendarse externamente; tienen que
 
-comenzar con la nueva vida interna, y es as como ha de obtenerse: el don de
+comenzar con la nueva vida interna, y es así como ha de obtenerse: el don de
 
-Dios por medio de la simple fe en Jess.
+Dios por medio de la simple fe en Jesús.
 
-Un hombre de color que haba
+Un hombre de color que había
 
-asistido por algn tiempo a un lugar de adoracin se haba embebido de la idea,
+asistido por algún tiempo a un lugar de adoración se había embebido de la idea,
 
--muy natural por cierto- de que era salvo porque haba sido bautizado. Haba
+-muy natural por cierto- de que era salvo porque había sido bautizado. Había
 
-ido a uno de esos lugares donde ensean a los nios a decir algo parecido a
+ido a uno de esos lugares donde enseñan a los niños a decir algo parecido a
 
-sto: En mi bautismo, por el que fui constituido un miembro de Cristo, un hijo
+ésto: “En mi bautismo, por el que fui constituido un miembro de Cristo, un hijo
 
-de Dios, y un heredero del reino del cielo. Ahora, dijo l, muy simple y
+de Dios, y un heredero del reino del cielo”. “Ahora”, dijo él, muy simple y
 
-llanamente, pues eso ensea el catecismo, lo cual es un grave engao: yo soy
+llanamente, pues eso enseña el catecismo, lo cual es un grave engaño: “yo soy
 
-salvo porque he sido bautizado; eso me ha hecho un hijo de Dios. Entonces, el
+salvo porque he sido bautizado; eso me ha hecho un hijo de Dios”. Entonces, el
 
-buen maestro que buscaba instruirlo mejor, no pudo encontrar una metfora que
+buen maestro que buscaba instruirlo mejor, no pudo encontrar una metáfora que
 
 se adaptara mejor a su intelecto que llevarlo a la cocina y mostrarle un frasco
 
-de tinta negra. Ahora dijo- voy a lavarlo, y lav la parte externa del
+de tinta negra. “Ahora” –dijo- “voy a lavarlo”, y lavó la parte externa del
 
-frasco de tinta negra, e invit al hombre a beber de l porque ya estaba
+frasco de tinta negra, e invitó al hombre a beber de él porque ya estaba
 
-limpio. No replic el hombre- est lleno de tinta negra, est lleno de
+limpio. “No” –replicó el hombre- “está lleno de tinta negra, está lleno de
 
-tinta negra; no est limpio slo porque haya lavado la parte externa. Ah!,
+tinta negra; no está limpio sólo porque haya lavado la parte externa”. “¡Ah!”,
 
--dijo- y lo mismo pasa contigo; todo lo que estas gotas de agua podran hacer
+-dijo- “y lo mismo pasa contigo; todo lo que estas gotas de agua podrían hacer
 
-por ti, todo lo que el bautismo podra hacer por ti, es lavar la parte externa,
+por ti, todo lo que el bautismo podría hacer por ti, es lavar la parte externa,
 
-pero eso no te limpia, pues toda la inmundicia est por dentro.
+pero eso no te limpia, pues toda la inmundicia está por dentro”.
 
 Ahora bien, la obra del
 
 pacto de gracia no consiste en lavar el exterior, no consiste en limpiar la
 
-carne, no consiste en pasar a travs de ritos y ceremonias, y de las manos
+carne, no consiste en pasar a través de ritos y ceremonias, y de las manos
 
-episcopales, sino en lavar el interior; en purificar el corazn, en limpiar las
+episcopales, sino en lavar el interior; en purificar el corazón, en limpiar las
 
-partes vitales, en renovar el alma, y esta es la nica salvacin que har jams
+partes vitales, en renovar el alma, y esta es la única salvación que hará jamás
 
 que un hombre entre en el cielo. Puedes renunciar esta noche a todos tus vicios
 
 externos, y yo espero que lo hagas; puedes practicar todas las ceremonias
 
-eclesiales, y si son escriturales, deseo que puedas hacerlo; pero no harn nada
+eclesiales, y si son escriturales, deseo que puedas hacerlo; pero no harán nada
 
-por ti, nada de ningn tipo para que entres al cielo, si te falta una cosa ms,
+por ti, nada de ningún tipo para que entres al cielo, si te falta una cosa más,
 
-que es alcanzar la bendicin del pacto de la naturaleza renovada que slo puede
+que es alcanzar la bendición del pacto de la naturaleza renovada que sólo puede
 
 obtenerse como un don de Dios por medio de Jesucristo y como el resultado de
 
-una fe simple en Aquel que muri en el madero.
+una fe simple en Aquel que murió en el madero.
 
 Yo los insto a una labor
 
@@ -812,25 +812,25 @@ de autoexamen a todos ustedes; los insto sinceramente a ustedes, miembros de la
 
 iglesia. De nada les sirve que hayan sido bautizados; de nada les sirve que
 
-tomen el sacramento. Les da alguna ventaja? En verdad conllevar una mayor
+tomen el sacramento. ¿Les da alguna ventaja? En verdad conllevará una mayor
 
-responsabilidad y una maldicin sobre ustedes a menos que sus corazones hubieren
+responsabilidad y una maldición sobre ustedes a menos que sus corazones hubieren
 
-sido renovados por el Espritu Santo segn la promesa del pacto. Si no tienen
+sido renovados por el Espíritu Santo según la promesa del pacto. Si no tienen
 
-un corazn nuevo, oh!, retrense a sus aposentos, caigan de rodillas, y clamen
+un corazón nuevo, ¡oh!, retírense a sus aposentos, caigan de rodillas, y clamen
 
-pidindoselo a Dios. Que el Espritu Santo los constria a hacerlo, y mientras
+pidiéndoselo a Dios. Que el Espíritu Santo los constriña a hacerlo, y mientras
 
-estn suplicando, recuerden que el corazn nuevo proviene del corazn
+estén suplicando, recuerden que el corazón nuevo proviene del corazón
 
 sangrante, que la naturaleza cambiada viene de la naturaleza sufriente. Han de mirar
 
-a Jess, y mirando a Jess, han de saber que:
+a Jesús, y mirando a Jesús, han de saber que:
 
-Hay vida en una mirada al Crucificado,
+“Hay vida en una mirada al Crucificado,
 
-Hay vida en este instante para ti.
+Hay vida en este instante para ti”.
 
 Me parece que estas
 
@@ -838,85 +838,85 @@ bendiciones de las que he hablado son
 
 una
 
-gran consolacin e inspiracin.
+gran consolación e inspiración.
 
-Son una gran consolacin para los
+Son una gran consolación para los
 
-creyentes. T ests en el pacto, mi querido hermano, y sin embargo me dices que
+creyentes. Tú estás en el pacto, mi querido hermano, y sin embargo me dices que
 
-eres muy pobre. Pero Dios ha dicho: Yo ser tu Dios. Vaya, t eres muy rico. Un
+eres muy pobre. Pero Dios ha dicho: “Yo seré tu Dios”. Vaya, tú eres muy rico. Un
 
-hombre podra no tener ni un centavo en el mundo, pero si posee un diamante, es
+hombre podría no tener ni un centavo en el mundo, pero si posee un diamante, es
 
 rico. Entonces, si un hombre no tiene ni un centavo ni tampoco un diamante,
 
-pero tiene a su Dios, es rico. Ah, pero tu saco est rado y t no ves de dnde
+pero tiene a su Dios, es rico. Ah, pero tu saco está raído y tú no ves de dónde
 
-han de provenir los medios para renovar tu guardarropa. Considerad los lirios
+han de provenir los medios para renovar tu guardarropa. “Considerad los lirios
 
-del campo, cmo crecen: no trabajan ni hilan; pero os digo, que ni aun Salomn
+del campo, cómo crecen: no trabajan ni hilan; pero os digo, que ni aun Salomón
 
-con toda su gloria se visti as como uno de ellos. T Dios es el mismo Dios
+con toda su gloria se vistió así como uno de ellos”. Tú Dios es el mismo Dios
 
-de los lirios, y vestir as a la hierba del campo que hoy es y maana se echa
+de los lirios, ¿y vestirá así a la hierba del campo que hoy es y mañana se echa
 
-en el horno, y no te vestir con mayor razn a ti, oh hombre de poca fe?
+en el horno, y no te vestirá con mayor razón a ti, oh hombre de poca fe?
 
-Dije tambin que sera
+Dije también que sería
 
-una inspiracin, y pienso que lo es. Trabajar para Cristo es una inspiracin
+una inspiración, y pienso que lo es. Trabajar para Cristo es una inspiración
 
 para todos nosotros, porque estamos seguros de lograr algunos resultados. Yo
 
 quisiera, en verdad yo quisiera que las naciones fueran convertidas a Cristo.
 
-Yo quisiera que toda esta ciudad de Londres perteneciera a mi Dios y Seor, y
+Yo quisiera que toda esta ciudad de Londres perteneciera a mi Dios y Señor, y
 
 que todas sus calles fueran habitadas por quienes aman Su nombre; pero cuando
 
 veo que el pecado abunda y que el Evangelio es puesto en fuga, mi apoyo es esto:
 
-Pero el fundamento de Dios est firme, teniendo este sello: Conoce el Seor a
+“Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor a
 
-los que son suyos. l tendr a los suyos. Los poderes infernales no le robarn
+los que son suyos”. Él tendrá a los suyos. Los poderes infernales no le robarán
 
-a Cristo, l ver el fruto de la afliccin de su alma, y quedar satisfecho. El
+a Cristo, Él verá el fruto de la aflicción de su alma, y quedará satisfecho. El
 
-Calvario no significa una derrota. Acaso Getseman es una derrota? Imposible!
+Calvario no significa una derrota. ¿Acaso Getsemaní es una derrota? ¡Imposible!
 
-El Hombre Poderoso que subi a la cruz para desangrarse y morir por nosotros,
+El Hombre Poderoso que subió a la cruz para desangrarse y morir por nosotros,
 
-siendo tambin el Hijo de Dios, no sufri una derrota all, sino que obtuvo una
+siendo también el Hijo de Dios, no sufrió una derrota allí, sino que obtuvo una
 
-victoria. Ver linaje, vivir por largos das, y la voluntad de Jehov ser en
+victoria. Verá linaje, vivirá por largos días, y la voluntad de Jehová será en
 
-su mano prosperada. Si algunos no sern salvados, otros lo sern. Si,
+su mano prosperada. Si algunos no serán salvados, otros lo serán. Si,
 
-habindoseles invitado, algunos se consideran indignos de asistir a la fiesta,
+habiéndoseles invitado, algunos se consideran indignos de asistir a la fiesta,
 
-otros sern llevados, incluso los ciegos, y los cojos y los lisiados, y la cena
+otros serán llevados, incluso los ciegos, y los cojos y los lisiados, y la cena
 
-estar llena de invitados. Si no vienen de Inglaterra, vendrn del este, y del
+estará llena de invitados. Si no vienen de Inglaterra, vendrán del este, y del
 
 oeste, y del norte y del sur. Si llegara a suceder que Israel no fuese reunido,
 
-he aqu!, los paganos sern reunidos a Cristo. Etiopa extender sus brazos y Sinim
+¡he aquí!, los paganos serán reunidos a Cristo. Etiopía extenderá sus brazos y Sinim
 
-se entregar al Redentor; el explorador del desierto doblar la rodilla, y el
+se entregará al Redentor; el explorador del desierto doblará la rodilla, y el
 
-extranjero que viene de muy lejos preguntar por Cristo. Oh, no, amados, los
+extranjero que viene de muy lejos preguntará por Cristo. Oh, no, amados, los
 
-propsitos de Dios nunca se ven frustrados; la eterna voluntad de Dios no es
+propósitos de Dios nunca se ven frustrados; la eterna voluntad de Dios no es
 
-derrotada nunca. Cristo muri una muerte gloriosa, y recibir una plena
+derrotada nunca. Cristo murió una muerte gloriosa, y recibirá una plena
 
-recompensa por todo Su dolor. As que, hermanos mos amados, estad firmes y
+recompensa por todo Su dolor. “Así que, hermanos míos amados, estad firmes y
 
-constantes, creciendo en la obra del Seor siempre, sabiendo que vuestro
+constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro
 
-trabajo en el Seor no es en vano.
+trabajo en el Señor no es en vano”.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 6/Julio/2011
 

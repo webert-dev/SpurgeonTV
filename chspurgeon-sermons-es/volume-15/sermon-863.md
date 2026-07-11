@@ -1,6 +1,6 @@
 # Sermón 863 | Sermón 863
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
@@ -8,163 +8,163 @@ La Piedra Rodada
 
 NO. 863
 
-SERMN
+SERMÓN
 
-PREDICADO LA MAANA DEL DOMINGO 28 DE MARZO DE 1869
+PREDICADO LA MAŃANA DEL DOMINGO 28 DE MARZO DE 1869
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES.
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES.
 
-Un ngel del Seor, descendiendo del cielo y llegando,
+“Un ángel del Seńor, descendiendo del cielo y llegando,
 
-removi la piedra, y se sent sobre ella. Mateo 28: 2.
+removió la piedra, y se sentó sobre ella”. Mateo 28: 2.
 
-Cuando las santas mujeres se dirigan al
+Cuando las santas mujeres se dirigían al
 
-sepulcro en la penumbra de la maana, deseosas de embalsamar el cuerpo de
+sepulcro en la penumbra de la mańana, deseosas de embalsamar el cuerpo de
 
-Jess, recordaron que haba una piedra inmensa colocada a la entrada de la tumba
+Jesús, recordaron que había una piedra inmensa colocada a la entrada de la tumba
 
-que les impedira entrar, y se preguntaban entre ellas: Quin nos quitar la
+que les impediría entrar, y se preguntaban entre ellas: “żQuién nos quitará la
 
-piedra de la entrada del sepulcro? Esa pregunta recoge la fnebre
+piedra de la entrada del sepulcro?” Esa pregunta recoge la fúnebre
 
-interrogacin del universo entero. Parece que traducen en palabras el gran
+interrogación del universo entero. Parece que traducen en palabras el gran
 
-suspiro de la humanidad universal: Quin nos quitar la piedra de la entrada
+suspiro de la humanidad universal: “żQuién nos quitará la piedra de la entrada
 
-del sepulcro? Hay una inmensa roca
+del sepulcro?” Hay una inmensa roca
 
 colocada
 
 en la
 
-senda de felicidad del hombre que bloquea por completo el camino. Quin, entre
+senda de felicidad del hombre que bloquea por completo el camino. żQuién, entre
 
-los valientes, quitar esa barrera? La filosofa ha intentado la tarea, pero ha
+los valientes, quitará esa barrera? La filosofía ha intentado la tarea, pero ha
 
 fracasado miserablemente. La piedra de la duda, de la incertidumbre y la
 
 incredulidad, han detenido todo el progreso en el ascenso a la inmortalidad.
 
-Quin podra alzar esa terrible mole y sacar la vida y la inmortalidad a la
+żQuién podría alzar esa terrible mole y sacar la vida y la inmortalidad a la
 
 luz?
 
-Los seres humanos, -una generacin tras
+Los seres humanos, -una generación tras
 
 otra- han enterrado a sus semejantes; el sepulcro que todo lo devora ha tragado
 
-a sus miradas de muertos. Quin podra detener la matanza diaria, o quin
+a sus miríadas de muertos. żQuién podría detener la matanza diaria, o quién
 
-podra dar una esperanza ms all de la tumba? Hubo un susurro sobre la resurreccin,
+podría dar una esperanza más allá de la tumba? Hubo un susurro sobre la resurrección,
 
-pero los hombres no podan creer en ella. Algunos soaron en un estado futuro,
+pero los hombres no podían creer en ella. Algunos sońaron en un estado futuro,
 
-y hablaron de l en misteriosa poesa, como si slo se tratase de la
+y hablaron de él en misteriosa poesía, como si sólo se tratase de la
 
-imaginacin y nada ms. En oscuridad y penumbra, con muchos temores y escasas
+imaginación y nada más. En oscuridad y penumbra, con muchos temores y escasas
 
-conjeturas sobre la verdad, los hombres seguan preguntndose: Quin nos
+conjeturas sobre la verdad, los hombres seguían preguntándose: “żQuién nos
 
-quitar la piedra de la entrada del sepulcro?
+quitará la piedra de la entrada del sepulcro?”
 
-Los seres humanos tenan el confuso
+Los seres humanos tenían el confuso
 
 sentimiento de que este mundo no puede ser todo, que tiene que haber otra vida,
 
 que no todas las criaturas inteligentes han venido a este mundo para perecer;
 
-se esperaba, de cualquier modo, que hubiera algo al otro lado del ro fatal. No
+se esperaba, de cualquier modo, que hubiera algo al otro lado del río fatal. No
 
-poda ser que nadie regresara del Averno: tena que haber, en verdad, una va
+podía ser que nadie regresara del Averno: tenía que haber, en verdad, una vía
 
-de salida del sepulcro. Por difcil que fuera la senda, los hombres esperaban
+de salida del sepulcro. Por difícil que fuera la senda, los hombres esperaban
 
-que seguramente deba haber algn retorno de la tierra de la sombra de muerte;
+que seguramente debía haber algún retorno de la tierra de la sombra de muerte;
 
-y la pregunta estaba siempre importunando al corazn, si es que no a los
+y la pregunta estaba siempre importunando al corazón, si es que no a los
 
-labios: Dnde est el hombre que viene? Dnde est el libertador
+labios: “żDónde está el hombre que viene? żDónde está el libertador
 
-predestinado? Dnde est, y quin es el que nos quitar la piedra?
+predestinado? żDónde está, y quién es el que nos quitará la piedra?”
 
 Las mujeres se enfrentaban a tres
 
-dificultades. La piedra en s misma era gigantesca; estaba sellada con el sello
+dificultades. La piedra en sí misma era gigantesca; estaba sellada con el sello
 
 de la ley y era custodiada por los representantes de la autoridad. Ante la
 
 humanidad se presentaban las mismas tres dificultades. La muerte misma era una
 
-piedra gigantesca que no poda ser rodada por ninguna fuerza conocida para los
+piedra gigantesca que no podía ser rodada por ninguna fuerza conocida para los
 
 mortales: la muerte era evidentemente enviada por Dios como un castigo por las
 
-ofensas contra Su ley. Por tanto, cmo podra ser apartada, cmo podra ser
+ofensas contra Su ley. Por tanto, żcómo podría ser apartada, cómo podría ser
 
 removida? El sello rojo de la venganza de Dios estaba puesto a la entrada del
 
-sepulcro. Cmo podra ser anulado el sello? Quin podra hacer rodar la
+sepulcro. żCómo podría ser anulado el sello? żQuién podría hacer rodar la
 
 piedra?
 
-Adems, las fuerzas del demonio y los
+Además, las fuerzas del demonio y los
 
 poderes del infierno custodiaban el sepulcro para impedir cualquier fuga;
 
-quin podra batirse con ellos y llevarse a las almas de los muertos,
+żquién podría batirse con ellos y llevarse a las almas de los muertos,
 
-arrancadas como una presa de entre las fauces del len? Se trataba de una
+arrancadas como una presa de entre las fauces del león? Se trataba de una
 
-agobiante pregunta: Quin nos quitar la piedra de la entrada del sepulcro?
+agobiante pregunta: “żQuién nos quitará la piedra de la entrada del sepulcro?
 
-Vivirn estos huesos secos? Nos sern restaurados nuestros seres queridos que
+żVivirán estos huesos secos? żNos serán restaurados nuestros seres queridos que
 
 han partido? Las multitudes de nuestra raza que han descendido al Hades,
 
-podrn regresar alguna vez de la tierra de medianoche y confusin?
+żpodrán regresar alguna vez de la tierra de medianoche y confusión?”
 
-As que todo el paganismo preguntaba:
+Así que todo el paganismo preguntaba:
 
-Quin?, y el eco responda: Quin? Ninguna respuesta fue dada a sabios ni
+“żQuién?”, y el eco respondía: “żQuién?” Ninguna respuesta fue dada a sabios ni
 
 reyes, pero las mujeres que amaban al Salvador recibieron la respuesta.
 
-Llegaron al sepulcro de Cristo, pero ste estaba vaco, pues Jess haba
+Llegaron al sepulcro de Cristo, pero éste estaba vacío, pues Jesús había
 
-resucitado. Aqu est la respuesta a la pregunta del mundo: hay otra vida; los
+resucitado. Aquí está la respuesta a la pregunta del mundo: hay otra vida; los
 
-cuerpos vivirn otra vez, pues Jess vive. Oh, Raquel, t que te lamentas, y
+cuerpos vivirán otra vez, pues Jesús vive. Oh, Raquel, tú que te lamentas, y
 
-rehsas ser consolada, Reprime del llanto tu voz, y de las lgrimas tus ojos;
+rehúsas ser consolada, “Reprime del llanto tu voz, y de las lágrimas tus ojos;
 
-porque salario hay para tu trabajo, dice Jehov, y volvern de la tierra del
+porque salario hay para tu trabajo, dice Jehová, y volverán de la tierra del
 
-enemigo.
+enemigo”.
 
-No se aflijan ms los que estn de luto
+No se aflijan más los que están de luto
 
-en torno al sepulcro, como quienes estn sin esperanza; pues como Jesucristo ha
+en torno al sepulcro, como quienes están sin esperanza; pues como Jesucristo ha
 
-resucitado, los muertos en Cristo resucitarn tambin. Enjguense esas
+resucitado, los muertos en Cristo resucitarán también. Enjúguense esas
 
-lgrimas, pues la tumba del creyente ya no es ms un lugar para lamentaciones, sino
+lágrimas, pues la tumba del creyente ya no es más un lugar para lamentaciones, sino
 
-el pasaje a la inmortalidad; no es sino el vestidor en el que el espritu
+el pasaje a la inmortalidad; no es sino el vestidor en el que el espíritu
 
-colgar por un tiempo sus ropas, cansado despus de su viaje terrenal, para
+colgará por un tiempo sus ropas, cansado después de su viaje terrenal, para
 
-vestirlas nuevamente en una maana ms resplandeciente, cuando sern hermosas y
+vestirlas nuevamente en una mańana más resplandeciente, cuando serán hermosas y
 
-blancas como ningn lavador habra podido blanquearlas.
+blancas como ningún lavador habría podido blanquearlas.
 
-Esta maana tengo el propsito de hablar
+Esta mańana tengo el propósito de hablar
 
-un poco en relacin a la resurreccin de nuestro exaltado Seor Jess; y para
+un poco en relación a la resurrección de nuestro exaltado Seńor Jesús; y para
 
-que el tema sea de mayor inters para ustedes, antes que nada voy a
+que el tema sea de mayor interés para ustedes, antes que nada voy a
 
 pedirle a esta piedra que fue rodada, que
 
@@ -172,7 +172,7 @@ les predique;
 
 y, luego, los voy a invitar
 
-a or la homila del ngel pronunciada desde su plpito de piedra.
+a oír la homilía del ángel pronunciada desde su púlpito de piedra.
 
 I.
 
@@ -184,11 +184,11 @@ Escritura piedras que recibieron la orden de hablar. Inmensas piedras han sido
 
 removidas como testigos en contra del pueblo; las piedras y las vigas que sobresalen
 
-de una pared han sido llamadas a testificar en contra del pecado. Llamar a esta
+de una pared han sido llamadas a testificar en contra del pecado. Llamaré a esta
 
 piedra como testigo en favor de las valiosas verdades de las que era un
 
-smbolo. La corriente de nuestro pensamiento se divide en seis torrentes.
+símbolo. La corriente de nuestro pensamiento se divide en seis torrentes.
 
 1.
 
@@ -202,135 +202,135 @@ puerta del sepulcro quitada
 
 . La morada de la muerte estaba firmemente
 
-asegurada por una piedra gigantesca; el ngel la quit, y el Cristo viviente
+asegurada por una piedra gigantesca; el ángel la quitó, y el Cristo viviente
 
-sali. La inmensa puerta, ustedes observarn, fue removida del sepulcro. No fue
+salió. La inmensa puerta, ustedes observarán, fue removida del sepulcro. No fue
 
 meramente abierta, sino desquiciada, arrastrada a un lado, removida; y a partir
 
-de entonces, la antigua prisin de la muerte qued desprovista de una puerta.
+de entonces, la antigua prisión de la muerte quedó desprovista de una puerta.
 
-Los santos entran, pero no se quedan encerrados. Se quedan all como en una
+Los santos entran, pero no se quedan encerrados. Se quedan allí como en una
 
 caverna abierta, pero no hay nada que les impida salir de ella a su debido
 
 tiempo.
 
-Como Sansn, cuando durmi en Gaza y fue rodeado
+Como Sansón, cuando durmió en Gaza y fue rodeado
 
-por los enemigos, se levant de maana y carg sobre sus hombros las puertas de
+por los enemigos, se levantó de mańana y cargó sobre sus hombros las puertas de
 
-Gaza pilares, cerrojos y todo- y se llev todo, y dej abierta y expuesta la
+Gaza –pilares, cerrojos y todo- y se llevó todo, y dejó abierta y expuesta la
 
-plaza fuerte de los filisteos, as ha hecho nuestro Seor con el sepulcro, pues,
+plaza fuerte de los filisteos, así ha hecho nuestro Seńor con el sepulcro, pues,
 
-habiendo dormido en l tres das con sus noches, conforme al decreto divino,
+habiendo dormido en él tres días con sus noches, conforme al decreto divino,
 
-resucit en la grandeza de Su poder, y desquici las puertas de hierro del
+resucitó en la grandeza de Su poder, y desquició las puertas de hierro del
 
 sepulcro, arrancando cada una de las barras de su lugar.
 
-La remocin de la piedra opresora era el
+La remoción de la piedra opresora era el
 
-tipo externo que sealaba que el Seor haba arrancado las puertas del
+tipo externo que seńalaba que el Seńor había arrancado las puertas del
 
-sepulcro: pilares, cerrojos y todo; y que haba expuesto esa vieja fortaleza de
+sepulcro: pilares, cerrojos y todo; y que había expuesto esa vieja fortaleza de
 
-la muerte y del infierno, dejndola como una ciudad tomada por asalto y, a partir
+la muerte y del infierno, dejándola como una ciudad tomada por asalto y, a partir
 
 de ese momento, desprovista de poder.
 
-Recuerden que nuestro Seor fue
+Recuerden que nuestro Seńor fue
 
-depositado en el sepulcro como un rehn. Muri por nuestros pecados. Le
+depositado en el sepulcro como un rehén. “Murió por nuestros pecados”. Le
 
-fueron imputados como una deuda. l sald en el madero la deuda que tenamos
+fueron imputados como una deuda. Él saldó en el madero la deuda que teníamos
 
-pendiente para con Dios; sufri hasta el lmite y de manera sustitutiva lo que
+pendiente para con Dios; sufrió hasta el límite y de manera sustitutiva lo que
 
-corresponda a nuestro sufrimiento, y luego fue confinado en la tumba, como un
+correspondía a nuestro sufrimiento, y luego fue confinado en la tumba, como un
 
-rehn, hasta que Su obra fuera plenamente aceptada. Esa aceptacin sera
+rehén, hasta que Su obra fuera plenamente aceptada. Esa aceptación sería
 
-notificada a Su salida de la vil cautividad; y esa salida se convertira en
+notificada a Su salida de la vil cautividad; y esa salida se convertiría en
 
-nuestra justificacin: Fue resucitado para nuestra justificacin. Si l no
+nuestra justificación: “Fue resucitado para nuestra justificación”. Si Él no
 
-hubiera pagado la totalidad de la deuda, habra tenido que permanecer en el
+hubiera pagado la totalidad de la deuda, habría tenido que permanecer en el
 
-sepulcro. Si Jess no hubiera hecho una expiacin eficaz, total y final, habra
+sepulcro. Si Jesús no hubiera hecho una expiación eficaz, total y final, habría
 
-tenido que continuar siendo un cautivo. Pero haba hecho todo. El consumado
+tenido que continuar siendo un cautivo. Pero había hecho todo. El “consumado
 
-es, que brot de Sus propios labios, fue establecido por el veredicto de
+es”, que brotó de Sus propios labios, fue establecido por el veredicto de
 
-Jehov, y Jess sali libre.
+Jehová, y Jesús salió libre.
 
-Obsrvenle cuando resucita: no escapa de
+Obsérvenle cuando resucita: no escapa de
 
-la prisin como un criminal que escapa de la justicia, sino sale con
+la prisión como un criminal que escapa de la justicia, sino sale con
 
-tranquilidad como alguien que ha cumplido su sentencia en prisin; resucit, es
+tranquilidad como alguien que ha cumplido su sentencia en prisión; resucitó, es
 
-verdad, por Su propio poder, pero no dej la tumba sin un permiso sagrado: el
+verdad, por Su propio poder, pero no dejó la tumba sin un permiso sagrado: el
 
 oficial celestial de la corte del cielo es delegado para abrirle la puerta,
 
 removiendo la piedra, y Jesucristo, completamente justificado, resucita, para
 
-demostrar que todo Su pueblo es completamente justificado en l, y la obra de
+demostrar que todo Su pueblo es completamente justificado en Él, y la obra de
 
-salvacin es perfecta para siempre. La piedra es removida de la puerta del
+salvación es perfecta para siempre. La piedra es removida de la puerta del
 
-sepulcro, como para mostrar que Jess ha hecho tan eficazmente la obra, que
+sepulcro, como para mostrar que Jesús ha hecho tan eficazmente la obra, que
 
 nada puede retenernos en el sepulcro otra vez. El sepulcro ha cambiado su
 
-carcter; ha sido completamente aniquilado, y eliminado como crcel, de tal
+carácter; ha sido completamente aniquilado, y eliminado como cárcel, de tal
 
-forma que la muerte, para los santos, ya no es ms un castigo por el pecado,
+forma que la muerte, para los santos, ya no es más un castigo por el pecado,
 
 sino una entrada en el descanso.
 
-Vamos, hermanos, regocijmonos por esto.
+Vamos, hermanos, regocijémonos por esto.
 
-En la tumba vaca de Cristo vemos que el pecado ha sido quitado para siempre:
+En la tumba vacía de Cristo vemos que el pecado ha sido quitado para siempre:
 
 vemos, por tanto, que la muerte ha sido destruida eficazmente. Nuestros pecados
 
-eran la gran piedra que cerraba la boca del sepulcro, y nos retena cautivos en
+eran la gran piedra que cerraba la boca del sepulcro, y nos retenía cautivos en
 
-la muerte, la oscuridad y la desesperacin. Nuestros pecados son ahora quitados
+la muerte, la oscuridad y la desesperación. Nuestros pecados son ahora quitados
 
-para siempre, y la muerte ya no es ms un lgubre y funesto calabozo, la
+para siempre, y la muerte ya no es más un lúgubre y funesto calabozo, la
 
-antesala del infierno, sino es ms bien una perfumada alcoba, un gabinete, el
+antesala del infierno, sino es más bien una perfumada alcoba, un gabinete, el
 
-vestbulo del cielo. Pues, tan ciertamente como Jess resucit, Su pueblo tiene
+vestíbulo del cielo. Pues, tan ciertamente como Jesús resucitó, Su pueblo tiene
 
-que abandonar a los muertos: no hay nada que impida la resurreccin de los
+que abandonar a los muertos: no hay nada que impida la resurrección de los
 
-santos. La piedra que poda retenernos en prisin ha sido removida. Quin
+santos. La piedra que podía retenernos en prisión ha sido removida. żQuién
 
-podra encerrarnos cuando la propia puerta ha desaparecido? Quin podra
+podría encerrarnos cuando la propia puerta ha desaparecido? żQuién podría
 
 confinarnos cuando toda barricada ha sido suprimida?
 
-Quin
+żQuién
 
-reconstruir la prisin del tirano?
+reconstruirá la prisión del tirano?
 
 El cetro que
 
-cay de sus manos est roto;
+cayó de sus manos está roto;
 
 La piedra ha
 
-sido removida; el Seor ha resucitado;
+sido removida; el Seńor ha resucitado;
 
 Los
 
-indefensos pronto sern liberados de sus ataduras.
+indefensos pronto serán liberados de sus ataduras.”
 
 2.
 
@@ -340,29 +340,29 @@ como un trofeo erigido.
 
 Como los hombres de tiempos antiguos
 
-erigan piedras memoriales, y como erigimos columnas en estos das para
+erigían piedras memoriales, y como erigimos columnas en estos días para
 
-conmemorar grandes proezas, as esa piedra fue removida, por decirlo as,
+conmemorar grandes proezas, así esa piedra fue removida, por decirlo así,
 
-delante de los ojos de nuestra fe, y fue consagrada en aquel da como un
+delante de los ojos de nuestra fe, y fue consagrada en aquel día como un
 
 memorial de la victoria eterna de Cristo sobre los poderes de la muerte y del
 
-infierno. Pensaron que le haban vencido; consideraron que el Crucificado
+infierno. Pensaron que le habían vencido; consideraron que el Crucificado
 
 estaba derrotado. Sonrieron espantosamente, en verdad, cuando vieron Su cuerpo
 
-inerte envuelto en una sbana y depositado en el sepulcro nuevo de Jos; pero
+inerte envuelto en una sábana y depositado en el sepulcro nuevo de José; pero
 
 su gozo fue pasajero; sus jactancias no fueron sino breves, pues en el momento
 
-sealado, Aquel, que no deba ver la corrupcin, resucit y sali del dominio
+seńalado, Aquel, que no debía ver la corrupción, resucitó y salió del dominio
 
-de la muerte. Su calcaar fue herido por la antigua serpiente, pero en la
+de la muerte. Su calcańar fue herido por la antigua serpiente, pero en la
 
-maana de la resurreccin, l aplast la cabeza del dragn.
+mańana de la resurrección, Él aplastó la cabeza del dragón.
 
-Vanos la
+“Vanos la
 
 piedra, la vigilancia, el sello,
 
@@ -372,31 +372,31 @@ destrozado las puertas del infierno;
 
 La muerte en
 
-vano impide Su resurreccin,
+vano impide Su resurrección,
 
 Cristo ha
 
-abierto el Paraso.
+abierto el Paraíso.”
 
-Nuestro
+ˇNuestro
 
 glorioso Rey vive de nuevo!
 
-Dnde est,
+‘żDónde está,
 
-oh muerte, tu aguijn?
+oh muerte, tu aguijón?’
 
-l muri una
+Él murió una
 
 vez para salvar nuestras almas;
 
-Dnde, oh
+‘żDónde, oh
 
-tumba jactanciosa, tu victoria?
+tumba jactanciosa, tu victoria?’
 
 Amados hermanos en Cristo, al mirar
 
-aquella piedra, con el ngel sentado sobre ella, se alza delante de nosotros
+aquella piedra, con el ángel sentado sobre ella, se alza delante de nosotros
 
 como un monumento a la victoria de Cristo sobre la muerte y el infierno, y es
 
@@ -404,265 +404,265 @@ conveniente que recordemos que Su victoria fue obtenida a favor nuestro, y sus
 
 frutos son todos nuestros. Nosotros tenemos que combatir con el pecado, pero
 
-Cristo lo ha vencido. Nosotros somos tentados por Satans: Cristo ha propinada
+Cristo lo ha vencido. Nosotros somos tentados por Satanás: Cristo ha propinada
 
-la derrota a Satans. Pronto dejaremos este cuerpo; a menos que el Seor venga
+la derrota a Satanás. Pronto dejaremos este cuerpo; a menos que el Seńor venga
 
 muy pronto, podemos esperar que habremos de encoger nuestros pies en la cama
 
 como nuestros padres, e ir a encontrarnos con nuestro Dios; pero la muerte es
 
-vencida a nombre nuestro por Cristo, y no tenemos ninguna razn para tener
+vencida a nombre nuestro por Cristo, y no tenemos ninguna razón para tener
 
 miedo.
 
-nimo, soldados cristianos, ustedes estn
+Ánimo, soldados cristianos, ustedes están
 
-enfrentando a un enemigo vencido: recuerden que la victoria del Seor es una
+enfrentando a un enemigo vencido: recuerden que la victoria del Seńor es una
 
-garanta para ustedes. Si la Cabeza vence, los miembros no sern derrotados. No
+garantía para ustedes. Si la Cabeza vence, los miembros no serán derrotados. No
 
-permitan que la afliccin opaque sus ojos; no dejen que los temores turben su
+permitan que la aflicción opaque sus ojos; no dejen que los temores turben su
 
-espritu; tienen que vencer, pues Cristo ha vencido. Apresten todos sus poderes
+espíritu; tienen que vencer, pues Cristo ha vencido. Apresten todos sus poderes
 
-para el conflicto, y vigorcenlos con la esperanza de la victoria. Si hubiesen
+para el conflicto, y vigorícenlos con la esperanza de la victoria. Si hubiesen
 
-visto derrotado a su Seor, entonces podran esperar que ustedes mismos fueran
+visto derrotado a su Seńor, entonces podrían esperar que ustedes mismos fueran
 
-soplados como tamo delante del viento; pero l les proporciona el poder con el
+soplados como tamo delante del viento; pero Él les proporciona el poder con el
 
-que venci. El Espritu Santo est en ustedes; el propio Jess ha prometido estar
+que venció. El Espíritu Santo está en ustedes; el propio Jesús ha prometido estar
 
 siempre con ustedes, hasta el fin del mundo, y el Dios poderoso es su refugio.
 
-Ustedes vencern seguramente por medio de la sangre del Cordero. Coloquen esa
+Ustedes vencerán seguramente por medio de la sangre del Cordero. Coloquen esa
 
-piedra delante del ojo de su fe esta maana, y digan: Aqu mi Seor venci al
+piedra delante del ojo de su fe esta mańana, y digan: “Aquí mi Seńor venció al
 
-infierno y a la muerte, y en Su nombre y por Su fuerza, yo ser coronado
+infierno y a la muerte, y en Su nombre y por Su fuerza, yo seré coronado
 
-tambin, cuando el ltimo enemigo sea destruido.
+también, cuando el último enemigo sea destruido.”
 
 3.
 
 Para un tercer uso de esta piedra,
 
-observen que aqu hay
+observen que aquí hay
 
 puesto un cimiento.
 
 Esa piedra removida del sepulcro, que tipifica y certifica
 
-la resurreccin de Jesucristo, es la piedra
+la resurrección de Jesucristo, es la piedra
 
-del cimiento de la fe cristiana. El hecho de la resurreccin es la piedra del
+del cimiento de la fe cristiana. El hecho de la resurrección es la piedra del
 
-cimiento del cristianismo. Si desmentimos la resurreccin de nuestro Seor,
+cimiento del cristianismo. Si desmentimos la resurrección de nuestro Seńor,
 
-nuestra santa fe se convierte en una mera fbula; no hay nada en lo que se pueda
+nuestra santa fe se convierte en una mera fábula; no hay nada en lo que se pueda
 
-apoyar la fe, si Aquel que muri en el madero no resucit tambin de la tumba;
+apoyar la fe, si Aquel que murió en el madero no resucitó también de la tumba;
 
-entonces vuestra fe es vana; el apstol dijo: an estis en vuestros
+entonces “vuestra fe es vana”; el apóstol dijo: “aún estáis en vuestros
 
-pecados, entonces tambin los que durmieron en Cristo perecieron. Todas las
+pecados”, entonces “también los que durmieron en Cristo perecieron”. Todas las
 
-grandiosas doctrinas de nuestra divina revelacin se desmoronan como las piedras
+grandiosas doctrinas de nuestra divina revelación se desmoronan como las piedras
 
-de un arco cuando se quita la piedra clave, y son derrotadas en una comn ruina,
+de un arco cuando se quita la piedra clave, y son derrotadas en una común ruina,
 
-pues toda nuestra esperanza gira sobre ese grandioso hecho. Si Jess resucit,
+pues toda nuestra esperanza gira sobre ese grandioso hecho. Si Jesús resucitó,
 
-entonces este Evangelio es lo que profesa ser; si no resucit de los muertos,
+entonces este Evangelio es lo que profesa ser; si no resucitó de los muertos,
 
-entonces todo es engao y falacia.
+entonces todo es engańo y falacia.
 
-Pero, hermanos, la resurreccin de Jess de
+Pero, hermanos, la resurrección de Jesús de
 
 los muertos es un hecho mejor establecido que cualquier otro hecho de la
 
-historia. Abundaron los testigos: los haba de todas las clases y condiciones.
+historia. Abundaron los testigos: los había de todas las clases y condiciones.
 
-Ninguno de ellos confes jams que estaba equivocado o engaado. Estaban tan
+Ninguno de ellos confesó jamás que estaba equivocado o engańado. Estaban tan
 
-persuadidos de este hecho, que la mayora de ellos sufri la muerte por
+persuadidos de este hecho, que la mayoría de ellos sufrió la muerte por
 
-testimoniarlo. No tenan nada que ganar por dar ese testimonio; no ganaron mayor
+testimoniarlo. No tenían nada que ganar por dar ese testimonio; no ganaron mayor
 
 poder, ni ganaron honor o riquezas; eran hombres veraces y de mente sencilla
 
-que testificaban de lo que haban visto y daban testimonio de lo que haban
+que testificaban de lo que habían visto y daban testimonio de lo que habían
 
 contemplado.
 
-La resurreccin es un hecho mejor
+La resurrección es un hecho mejor
 
 atestiguado que cualquier otro evento registrado en la historia, antigua o
 
-moderna. Aqu est la confianza de los santos: nuestro Seor Jesucristo, que dio
+moderna. Aquí está la confianza de los santos: nuestro Seńor Jesucristo, que dio
 
-testimonio de la buena profesin delante de Poncio Pilato, fue crucificado,
+testimonio de la buena profesión delante de Poncio Pilato, fue crucificado,
 
-muerto y sepultado, resucit otra vez de los muertos, y despus de cuarenta
+muerto y sepultado, resucitó otra vez de los muertos, y después de cuarenta
 
-das ascendi al trono de Dios. Nosotros confiamos en l; creemos en l. Si no
+días ascendió al trono de Dios. Nosotros confiamos en Él; creemos en Él. Si no
 
-hubiese resucitado, seramos los ms dignos de conmiseracin de todos los
+hubiese resucitado, seríamos los más dignos de conmiseración de todos los
 
 hombres por haber sido Sus seguidores. Si no hubiese resucitado, Su sangre no
 
-habra resultado ser eficaz para nosotros para quitar el pecado; pero como l
+habría resultado ser eficaz para nosotros para quitar el pecado; pero como Él
 
-resucit, edificamos sobre esta verdad; toda nuestra confianza se apoya en esto,
+resucitó, edificamos sobre esta verdad; toda nuestra confianza se apoya en esto,
 
 y estamos persuadidos de que:
 
-Resucitado
+“Resucitado
 
-de los muertos, l va delante;
+de los muertos, Él va delante;
 
-l abre la
+Él abre la
 
 puerta eterna del cielo;
 
 Para dar a
 
-Sus santos una mansin bienaventurada,
+Sus santos una mansión bienaventurada,
 
 Cerca de su
 
-Redentor y su Dios.
+Redentor y su Dios.”
 
-Mis queridos oyentes, estn basando sus
+Mis queridos oyentes, żestán basando sus
 
-esperanzas eternas en la resurreccin de Jesucristo de los muertos? Confan en
+esperanzas eternas en la resurrección de Jesucristo de los muertos? żConfían en
 
-l, creyendo que muri y resucit otra vez por ustedes? Colocan toda su
+Él, creyendo que murió y resucitó otra vez por ustedes? żColocan toda su
 
-dependencia sobre el mrito de Su sangre, certificado por el hecho de Su
+dependencia sobre el mérito de Su sangre, certificado por el hecho de Su
 
-resurreccin? Si es as, tienen un cimiento de hecho y de verdad, un cimiento
+resurrección? Si es así, tienen un cimiento de hecho y de verdad, un cimiento
 
-contra el cual las puertas del infierno no prevalecern; pero si ustedes estn
+contra el cual las puertas del infierno no prevalecerán; pero si ustedes están
 
 edificando sobre cualquier cosa que hubieren hecho, o sobre cualquier cosa que
 
-las manos sacerdotales pudieran hacer por ustedes, estaran construyendo sobre arenas
+las manos sacerdotales pudieran hacer por ustedes, estarían construyendo sobre arenas
 
-que sern barridas por la corriente que todo lo devora y, tanto ustedes como
+que serán barridas por la corriente que todo lo devora y, tanto ustedes como
 
-sus esperanzas, descendern al pozo del abismo, envueltos en las tinieblas de
+sus esperanzas, descenderán al pozo del abismo, envueltos en las tinieblas de
 
-la desesperacin. Oh, edifiquen sobre la piedra viva de Cristo Jess! Oh,
+la desesperación. ˇOh, edifiquen sobre la piedra viva de Cristo Jesús! ˇOh,
 
-confen en l, que es la principal piedra del ngulo, escogida, preciosa! Esto
+confíen en Él, que es la principal piedra del ángulo, escogida, preciosa! Esto
 
 es edificar de manera segura, eterna y bienaventurada.
 
 4.
 
-Una cuarta voz de la piedra es esta: aqu
+Una cuarta voz de la piedra es esta: aquí
 
 hay
 
-provisin de descanso
+provisión de descanso
 
-. El ngel
+. El ángel
 
-pareciera ensearnos eso cuando se sent sobre la piedra. Cun sosegadamente
+pareciera enseńarnos eso cuando se sentó sobre la piedra. ˇCuán sosegadamente
 
-fue efectuada toda la resurreccin! Cun silenciosamente, tambin! Qu
+fue efectuada toda la resurrección! ˇCuán silenciosamente, también! ˇQué
 
-ausencia de pompa y de ostentacin! El ngel descendi y quit la piedra,
+ausencia de pompa y de ostentación! El ángel descendió y quitó la piedra,
 
-Cristo resucit, y entonces el ngel se sent sobre la piedra. Se sent all
+Cristo resucitó, y entonces el ángel se sentó sobre la piedra. Se sentó allí
 
-silenciosa y airosamente, con aire de desafo a los judos y al sello que
+silenciosa y airosamente, con aire de desafío a los judíos y al sello que
 
-haban puesto, a los legionarios romanos y sus lanzas, a la muerte, a la tierra
+habían puesto, a los legionarios romanos y sus lanzas, a la muerte, a la tierra
 
-y al infierno. Fue como si dijera: Vengan y vuelvan a poner esa piedra, enemigos
+y al infierno. Fue como si dijera: “Vengan y vuelvan a poner esa piedra, enemigos
 
 del Resucitado. Todos ustedes, poderes infernales, que pretendieron prevalecer
 
-contra nuestro Prncipe eterno, pongan otra vez esa piedra, si se atreven o si
+contra nuestro Príncipe eterno, ˇpongan otra vez esa piedra, si se atreven o si
 
-pueden! El ngel no dijo esto con palabras, pero su posicin, sentado
+pueden!” El ángel no dijo esto con palabras, pero su posición, sentado
 
-majestuosa y tranquilamente sobre la piedra, quera decir todo eso y ms. La
+majestuosa y tranquilamente sobre la piedra, quería decir todo eso y más. La
 
-obra del Seor est consumada, y consumada para siempre, y esta piedra, que no
+obra del Seńor está consumada, y consumada para siempre, y esta piedra, que no
 
-habra de ser usada ms, esta puerta desquiciada, que no habra de ser empleada
+habría de ser usada más, esta puerta desquiciada, que no habría de ser empleada
 
-ms para tapar el osario, es el tipo del consumado es, consumado de tal
+más para tapar el osario, es el tipo del “consumado es”, consumado de tal
 
-manera que no puede revertirse, consumado para durar eternamente. Aquel ngel
+manera que no puede revertirse, consumado para durar eternamente. Aquel ángel
 
-que descansa sobre la piedra nos susurra suavemente: Vengan aqu, y descansen
+que descansa sobre la piedra nos susurra suavemente: “Vengan aquí, y descansen
 
-tambin. No hay descanso ms pleno, cierto y seguro para el alma, que en el
+también”. No hay descanso más pleno, cierto y seguro para el alma, que en el
 
 hecho de que el Salvador, en quien confiamos, ha resucitado de los muertos.
 
-Guardas hoy luto por amigos que han
+żGuardas hoy luto por amigos que han
 
-partido? Oh, ven y sintate sobre esta piedra, que te dice que ellos han de
+partido? Oh, ven y siéntate sobre esta piedra, que te dice que ellos han de
 
-resucitar otra vez. Esperas morir pronto? Est el gusano en la raz del
+resucitar otra vez. żEsperas morir pronto? żEstá el gusano en la raíz del
 
-arbusto? Tienes el rubor de la tisis en tus mejillas? Oh, ven y sintate sobre
+arbusto? żTienes el rubor de la tisis en tus mejillas? Oh, ven y siéntate sobre
 
-esta piedra, y considera que la muerte ha perdido ahora su terror, pues Jess
+esta piedra, y considera que la muerte ha perdido ahora su terror, pues Jesús
 
 ha resucitado del sepulcro.
 
-Vengan ustedes tambin, ustedes, personas
+Vengan ustedes también, ustedes, personas
 
-dbiles y trmulas, y desafen a la muerte y al infierno. El ngel dejar libre
+débiles y trémulas, y desafíen a la muerte y al infierno. El ángel dejará libre
 
-su asiento para que se sienten ante la mirada del enemigo. Aunque seas slo una
+su asiento para que se sienten ante la mirada del enemigo. Aunque seas sólo una
 
-humilde mujer, o un hombre quebrantado, plido y lnguido, agobiado por largos
+humilde mujer, o un hombre quebrantado, pálido y lánguido, agobiado por largos
 
-aos de persistente enfermedad, t bien puedes desafiar a todas las huestes del
+ańos de persistente enfermedad, tú bien puedes desafiar a todas las huestes del
 
-infierno, mientras descanses sobre esta preciosa verdad: No est aqu, sino
+infierno, mientras descanses sobre esta preciosa verdad: “No está aquí, sino
 
-que ha resucitado: ha dejado a los muertos, para no morir ms.
+que ha resucitado: ha dejado a los muertos, para no morir más”.
 
 Mientras reflexionaba sobre este pasaje
 
-de mi discurso, me acord de aquel tiempo cuando Jacob se diriga a la casa de
+de mi discurso, me acordé de aquel tiempo cuando Jacob se dirigía a la casa de
 
-Labn. Se dice que lleg a un lugar donde haba un pozo, y una gran piedra
+Labán. Se dice que llegó a un lugar donde había un pozo, y una gran piedra
 
-estaba puesta sobre el brocal, y los rebaos y los ganados eran reunidos en
+estaba puesta sobre el brocal, y los rebańos y los ganados eran reunidos en
 
-torno a l, pero no tenan agua hasta que alguien llegara y revolviera la gran
+torno a él, pero no tenían agua hasta que alguien llegara y revolviera la gran
 
 piedra de la boca del pozo, y entonces daban agua al ganado.
 
-De igual manera, el sepulcro de Jess es
+De igual manera, el sepulcro de Jesús es
 
-como un gran pozo que mana con el refrigerio ms puro y divino, pero mientras
+como un gran pozo que mana con el refrigerio más puro y divino, pero mientras
 
-esta piedra no fuera rodada, nadie perteneciente a los rebaos redimidos con sangre
+esta piedra no fuera rodada, nadie perteneciente a los rebańos redimidos con sangre
 
-poda abrevar all; pero ahora, cada da domingo, el primer da de la semana,
+podía abrevar allí; pero ahora, cada día domingo, el primer día de la semana,
 
-nos reunimos en torno al sepulcro abierto de nuestro Seor, y extraemos aguas
+nos reunimos en torno al sepulcro abierto de nuestro Seńor, y extraemos aguas
 
-vivas de ese pozo sagrado. Oh, ustedes, lnguidas ovejas del rebao, oh,
+vivas de ese pozo sagrado. Oh, ustedes, lánguidas ovejas del rebańo, oh,
 
-ustedes, que estn desfallecidas y a punto de morir, vengan aqu; aqu hay un
+ustedes, que están desfallecidas y a punto de morir, vengan aquí; aquí hay un
 
 dulce refrigerio; Jesucristo ha resucitado: que sus consuelos se vean
 
 multiplicados.
 
-Cada nota
+“Cada nota
 
 resuena con portentos:
 
@@ -670,13 +670,13 @@ El pecado es
 
 vencido, cautivo es el infierno;
 
-Dnde est
+żDónde está
 
 el que fue el rey temido del infierno?
 
-Dnde est,
+żDónde está,
 
-oh muerte, tu aguijn mortal?
+oh muerte, tu aguijón mortal?
 
 Aleluya.
 
@@ -684,33 +684,33 @@ Aleluya.
 
 En quinto lugar, la piedra es
 
-un lmite establecido.
+un límite establecido.
 
-No lo ven? Contmplenlo
+żNo lo ven? Contémplenlo
 
-entonces, all est, y el ngel est sobre l. Qu ven de aquel lado? Los
+entonces, allí está, y el ángel está sobre él. żQué ven de aquel lado? Los
 
-guardias estn aterrorizados, rgidos de miedo, estn como muertos. De este
+guardias están aterrorizados, rígidos de miedo, están como muertos. De este
 
-lado, qu ven? A las tmidas y trmulas mujeres, a quienes el ngel habla con
+lado, żqué ven? A las tímidas y trémulas mujeres, a quienes el ángel habla con
 
-dulzura: No temis vosotras; porque yo s que buscis a Jess.
+dulzura: “No temáis vosotras; porque yo sé que buscáis a Jesús.”
 
 Pueden ver, entonces, que esa piedra se
 
-convirti en la frontera entre los vivos y los muertos, entre los buscadores y
+convirtió en la frontera entre los vivos y los muertos, entre los buscadores y
 
 los aborrecedores, entre los amigos y los enemigos de Cristo. Para Sus enemigos,
 
-Su resurreccin es Piedra de tropiezo, y roca que hace caer; como antao, en
+Su resurrección es “Piedra de tropiezo, y roca que hace caer”; como antańo, en
 
-la Colina de Marte, cuando los sabios oyeron acerca de la resurreccin, se
+la Colina de Marte, cuando los sabios oyeron acerca de la resurrección, se
 
-burlaron. Pero para Su propio pueblo, la resurreccin es la piedra angular. La
+burlaron. Pero para Su propio pueblo, la resurrección es la piedra angular. La
 
-resurreccin de nuestro Seor es nuestro triunfo y deleite. La resurreccin
+resurrección de nuestro Seńor es nuestro triunfo y deleite. La resurrección
 
-acta de manera muy similar a la columna que Jehov coloc entre Israel y
+actúa de manera muy similar a la columna que Jehová colocó entre Israel y
 
 Egipto: era tinieblas para Egipto, pero daba luz a Israel. Todo estaba oscuro
 
@@ -718,55 +718,55 @@ en medio de las huestes de Egipto, pero todo era brillo y consuelo entre las
 
 tribus de Israel.
 
-As, la resurreccin es una doctrina
+Así, la resurrección es una doctrina
 
-llena de horror para quienes no conocen a Cristo, y no confan en l. Qu
+llena de horror para quienes no conocen a Cristo, y no confían en Él. żQué
 
-tienen ellos que ganar con la resurreccin? Felices eran quienes podan dormir
+tienen ellos que ganar con la resurrección? Felices eran quienes podían dormir
 
-en la aniquilacin eterna. Qu han ganado con la resurreccin de Cristo?
+en la aniquilación eterna. żQué han ganado con la resurrección de Cristo?
 
-Vendr Aquel que han despreciado? Vive Aquel a quien han odiado y aborrecido?
+żVendrá Aquel que han despreciado? żVive Aquel a quien han odiado y aborrecido?
 
-Les ordenar que se levanten y tendrn que encontrarse con l como un Juez
+żLes ordenará que se levanten y tendrán que encontrarse con Él como un Juez
 
 sentado en el trono? El simple pensamiento de esto basta para herir los lomos de
 
-los reyes hoy; pero cul ser el caso cuando el sonido de la trompeta
+los reyes hoy; pero ˇcuál será el caso cuando el sonido de la trompeta
 
-sobresalte y levante de sus lechos de polvo a todos los hijos de Adn! Oh, los
+sobresalte y levante de sus lechos de polvo a todos los hijos de Adán! ˇOh, los
 
-horrores de esa tremenda maana, cuando cada pecador se levante, y el Salvador
+horrores de esa tremenda mańana, cuando cada pecador se levante, y el Salvador
 
-resucitado venga en las nubes del cielo, y todos los santos ngeles con l! En
+resucitado venga en las nubes del cielo, y todos los santos ángeles con Él! En
 
-verdad no hay sino consternacin para quienes estn en el lado del mal de esa
+verdad no hay sino consternación para quienes están en el lado del mal de esa
 
-piedra de la resurreccin. Pero, cun grande es el gozo que la resurreccin
+piedra de la resurrección. Pero, ˇcuán grande es el gozo que la resurrección
 
-trae a quienes estn en el lado del bien de esa piedra! Cmo esperan Su
+trae a quienes están en el lado del bien de esa piedra! ˇCómo esperan Su
 
-aparicin con un arrobamiento creciente cada da! Cmo edifican sobre la dulce
+aparición con un arrobamiento creciente cada día! ˇCómo edifican sobre la dulce
 
-verdad de que resucitarn, y vern con estos ojos a su Salvador!
+verdad de que resucitarán, y verán con estos ojos a su Salvador!
 
 Yo quisiera que se preguntaran, esta
 
-maana, de qu lado estn de esa piedra limtrofe ahora. Tienen vida en
+mańana, de qué lado están de esa piedra limítrofe ahora. żTienen vida en
 
-Cristo? Han resucitado con Cristo? Confan nicamente en Aquel que resucit
+Cristo? żHan resucitado con Cristo? żConfían únicamente en Aquel que resucitó
 
-de los muertos? Si es as, no tengan temor: el ngel les consuela, y Jess les
+de los muertos? Si es así, no tengan temor: el ángel les consuela, y Jesús les
 
-da nimos; pero, oh!, si no tienen vida en Cristo, si estn muertos mientras
+da ánimos; pero, ˇoh!, si no tienen vida en Cristo, si están muertos mientras
 
 viven, el pensamiento
 
-mismo de que Jess
+mismo de que Jesús
 
-resucit ha de sobrecogerlos de miedo, y ha de hacerlos temblar, pues bien
+resucitó ha de sobrecogerlos de miedo, y ha de hacerlos temblar, pues bien
 
-haran en temblar ante aquello que les espera.
+harían en temblar ante aquello que les espera.
 
 6.
 
@@ -774,13 +774,13 @@ En sexto lugar, yo concibo que esta
 
 piedra puede ser usada, y muy adecuadamente, como
 
-prefiguracin de ruina.
+prefiguración de ruina.
 
-Nuestro Seor vino a este mundo para
+Nuestro Seńor vino a este mundo para
 
 destruir todas las obras del demonio. Contemplen delante de ustedes las obras
 
-del demonio, dibujadas como un torvo y horrible castillo, slido y terrible,
+del demonio, dibujadas como un torvo y horrible castillo, sólido y terrible,
 
 cubierto del musgo de los siglos, colosal, estupendo, cimentado con la sangre
 
@@ -788,51 +788,51 @@ de los hombres, amurallado con la maldad y la astucia, rodeado de profundos
 
 fosos, y guarnecido con demonios. Una estructura lo suficientemente terrible
 
-para causar desesperacin a quienes la rodeen para contar sus torres y observar
+para causar desesperación a quienes la rodeen para contar sus torres y observar
 
-sus baluartes. En el cumplimiento del tiempo, nuestro Paladn vino al mundo
+sus baluartes. En el cumplimiento del tiempo, nuestro Paladín vino al mundo
 
-para destruir las obras del demonio. Durante Su vida son la alarma en el gran
+para destruir las obras del demonio. Durante Su vida sonó la alarma en el gran
 
-castillo, y quit una piedra de aqu y otra de all, pues los enfermos fueron
+castillo, y quitó una piedra de aquí y otra de allá, pues los enfermos fueron
 
 sanados, los muertos fueron resucitados, y el Evangelio fue predicado a los
 
 pobres.
 
-Pero en la maana de la resurreccin, la
+Pero en la mańana de la resurrección, la
 
-gigantesca fortaleza tembl de arriba abajo; enormes grietas surcaban sus
+gigantesca fortaleza tembló de arriba abajo; enormes grietas surcaban sus
 
-paredes; y todos sus baluartes se tambaleaban. Alguien ms fuerte que el seor
+paredes; y todos sus baluartes se tambaleaban. Alguien más fuerte que el seńor
 
-de esa ciudadela haba entrado evidentemente, y estaba comenzando a destruir, y
+de esa ciudadela había entrado evidentemente, y estaba comenzando a destruir, y
 
-destruir y destruir, desde el pinculo hasta los stanos. Una piedra gigantesca
+destruir y destruir, desde el pináculo hasta los sótanos. Una piedra gigantesca
 
-de la que dependa sustancialmente el edificio, una piedra angular que teja
+de la que dependía sustancialmente el edificio, una piedra angular que tejía
 
 toda la estructura, fue alzada corporalmente de su lecho y arrojada al suelo.
 
-Jess arranc la gigantesca piedra de granito de la muerte de su posicin, y
+Jesús arrancó la gigantesca piedra de granito de la muerte de su posición, y
 
-as dio una seal segura de que todas las dems correran la misma suerte.
+así dio una seńal segura de que todas las demás correrían la misma suerte.
 
-Cuando esa piedra fue removida del sepulcro de Jess, fue una profeca de que
+Cuando esa piedra fue removida del sepulcro de Jesús, fue una profecía de que
 
-cada piedra del edificio de Satans se vendra al suelo, y ni una sola de todas
+cada piedra del edificio de Satanás se vendría al suelo, y ni una sola de todas
 
-las piedras que los poderes de las tinieblas haban apilado descansara sobre
+las piedras que los poderes de las tinieblas habían apilado descansaría sobre
 
-otra piedra, desde los das de su primera apostasa hasta el fin.
+otra piedra, desde los días de su primera apostasía hasta el fin.
 
 Hermanos, esa piedra rodada de la puerta
 
-del sepulcro me da una gloriosa esperanza. El mal es todava poderoso, pero el
+del sepulcro me da una gloriosa esperanza. El mal es todavía poderoso, pero el
 
-mal ser demolido. La perversidad espiritual reina en los lugares altos; la
+mal será demolido. La perversidad espiritual reina en los lugares altos; la
 
-multitud clama todava tras el mal; las naciones estn sumidas todava en densa
+multitud clama todavía tras el mal; las naciones están sumidas todavía en densa
 
 oscuridad; muchos adoran a la mujer de Babilonia vestida de escarlata, otros se
 
@@ -840,321 +840,321 @@ inclinan delante de la media luna de Mahoma, y millones se postran delante de
 
 bloques de madera y piedra; los lugares oscuros y las habitaciones de la tierra
 
-estn todava llenos de crueldad; pero Cristo ha provocado tal sacudimiento a
+están todavía llenos de crueldad; pero Cristo ha provocado tal sacudimiento a
 
-la urdimbre entera del mal que, pueden estar seguros de ello, cada piedra caer
+la urdimbre entera del mal que, pueden estar seguros de ello, cada piedra caerá
 
-con certeza. Slo tenemos que continuar trabajando, usando el ariete del
+con certeza. Sólo tenemos que continuar trabajando, usando el ariete del
 
-Evangelio, guardando cada uno de nosotros su lugar, y como los ejrcitos
+Evangelio, guardando cada uno de nosotros su lugar, y como los ejércitos
 
-alrededor de Jeric, tenemos que sonar todava la trompeta, y vendr el da en
+alrededor de Jericó, tenemos que sonar todavía la trompeta, y vendrá el día en
 
-el que todo mal, toda supersticin colosal, sern abatidos, y nivelados al
+el que todo mal, toda superstición colosal, serán abatidos, y nivelados al
 
-suelo, y se cumplir la profeca: A ruina, a ruina, a ruina lo reducir, y
+suelo, y se cumplirá la profecía: “A ruina, a ruina, a ruina lo reduciré, y
 
-esto no ser ms, hasta que venga aquel cuyo es el derecho, y yo se lo
+esto no será más, hasta que venga aquel cuyo es el derecho, y yo se lo
 
-entregar. Esa piedra separada sobre la que se sienta el ngel, es el pronstico
+entregaré.” Esa piedra separada sobre la que se sienta el ángel, es el pronóstico
 
-seguro de la condenacin venidera de todo lo que es vil y ruin. Regocjense
+seguro de la condenación venidera de todo lo que es vil y ruin. Regocíjense
 
-ustedes, hijos de Dios, pues la cada de Babilonia se acerca. Canten, oh
+ustedes, hijos de Dios, pues la caída de Babilonia se acerca. Canten, oh
 
-cielos, y gzate, oh tierra, pues ningn mal ser pasado por alto. En verdad
+cielos, y gózate, oh tierra, pues ningún mal será pasado por alto. En verdad
 
-les digo que no quedar piedra sobre piedra, que no sea derribada.
+les digo que no quedará piedra sobre piedra, que no sea derribada.
 
-As nos ha predicado la piedra; haremos
+Así nos ha predicado la piedra; haremos
 
-una momentnea pausa y oiremos lo que el ngel tiene que decirnos.
+una momentánea pausa y oiremos lo que el ángel tiene que decirnos.
 
 II.
 
-EL NGEL PREDIC de dos maneras: predic
+EL ÁNGEL PREDICÓ de dos maneras: predicó
 
-en smbolos, y predic en palabras
+en símbolos, y predicó en palabras
 
-Predicar en smbolos es muy popular en
+Predicar en símbolos es muy popular en
 
-ciertos grupos en nuestros das. El evangelio ha de ser visto por el ojo, y la
+ciertos grupos en nuestros días. El evangelio ha de ser visto por el ojo, y la
 
 gente ha de aprender en diversas estaciones por medio del cambio de colores,
 
 tal como el azul, y el verde y el violeta, mostrados en la vestimenta del
 
-sacerdote y sobre el altar, y por medio de cngulos y candelas, por pendones, por
+sacerdote y sobre el altar, y por medio de cíngulos y candelas, por pendones, por
 
-vinajeras, y conchas llenas de agua; la gente ha de ser incluso enseada y
+vinajeras, y conchas llenas de agua; la gente ha de ser incluso enseńada y
 
 guiada por la nariz, por lo que es regalada con el humo del incienso; y es
 
-atrada por medio del odo, ya que han de escuchar las odiosas entonaciones o
+atraída por medio del oído, ya que han de escuchar las odiosas entonaciones o
 
-los refinados cnticos.
+los refinados cánticos.
 
-Ahora bien, observen que el ngel era un
+Ahora bien, observen que el ángel era un
 
-predicador simblico, con su semblante de centella y sus vestiduras de nieve;
+predicador simbólico, con su semblante de centella y sus vestiduras de nieve;
 
-pero, por favor, noten para quines estaban reservados los smbolos. l no dijo
+pero, por favor, noten para quiénes estaban reservados los símbolos. Él no dijo
 
-ni una sola palabra a los guardias: ni una palabra. l les dio un evangelio
+ni una sola palabra a los guardias: ni una palabra. Él les dio un evangelio
 
-simblico, es decir, los mir, y su mirada era un rayo; l se revel a ellos en
+simbólico, es decir, los miró, y su mirada era un rayo; él se reveló a ellos en
 
-sus ropas blancas como la nieve, y nada ms. Observen cmo se estremecan y
+sus ropas blancas como la nieve, y nada más. ˇObserven cómo se estremecían y
 
-temblaban! Ese es el evangelio de smbolos; y doquiera que llega, condena. No
+temblaban! Ese es el evangelio de símbolos; y doquiera que llega, condena. No
 
-puede hacer otra cosa. Vamos, la antigua ley mosaica de smbolos, dnde
+puede hacer otra cosa. Vamos, la antigua ley mosaica de símbolos, żdónde
 
-termin? Cun pocos alcanzaron jams su significacin ntima! La gran masa de
+terminó? ˇCuán pocos alcanzaron jamás su significación íntima! La gran masa de
 
-Israel cay en la idolatra, y el sistema simblico se volvi algo muerto para
+Israel cayó en la idolatría, y el sistema simbólico se volvió algo muerto para
 
 ellos.
 
-Ustedes que se deleitan en smbolos,
+Ustedes que se deleitan en símbolos,
 
-ustedes que piensan que es cristiano convertir a todo el ao en un tipo de farsa
+ustedes que piensan que es cristiano convertir a todo el ańo en un tipo de farsa
 
-prctica sobre la vida de Cristo, ustedes que piensan que todo el cristianismo
+práctica sobre la vida de Cristo, ustedes que piensan que todo el cristianismo
 
-ha de ser enseado mediante dramas, como aquellos que los hombres actan en los
+ha de ser enseńado mediante dramas, como aquellos que los hombres actúan en los
 
-teatros y en los espectculos de marionetas, sigan su camino, pues no
+teatros y en los espectáculos de marionetas, sigan su camino, pues no
 
-encontrarn ningn cielo en ese camino, ningn Cristo, ninguna vida. Se
+encontrarán ningún cielo en ese camino, ningún Cristo, ninguna vida. Se
 
-encontrarn con los sacerdotes, y los formalistas y los hipcritas, y en los
+encontrarán con los sacerdotes, y los formalistas y los hipócritas, y en los
 
-densos bosques y entre las negras montaas de la destruccin, tropezarn hacia
+densos bosques y entre las negras montańas de la destrucción, tropezarán hacia
 
 su completa ruina.
 
-El mensaje evanglico es: Oye, y
+El mensaje evangélico es: “Oye, y
 
-vivirs; Inclina tu odo, y ven a M. Este es el mensaje dador de vida: Cree
+vivirás”; “Inclina tu oído, y ven a Mí”. Este es el mensaje dador de vida: “Cree
 
-en el Seor Jesucristo, y sers salvo. Pero, oh, generacin perversa, si
+en el Seńor Jesucristo, y serás salvo”. Pero, oh, generación perversa, si
 
-buscan smbolos y signos, sern engaados con el evangelio del demonio, y
+buscan símbolos y signos, serán engańados con el evangelio del demonio, y
 
-caern presa del destructor.
+caerán presa del destructor.
 
-Ahora escucharemos el sermn del ngel
+Ahora escucharemos el sermón del ángel
 
 en palabras.
 
-nicamente as es predicado
+Únicamente así es predicado
 
 el verdadero Evangelio. Cristo es la Palabra, y el Evangelio es un evangelio de
 
-palabras y pensamientos. No se dirige al ojo; se dirige al odo, y al intelecto
+palabras y pensamientos. No se dirige al ojo; se dirige al oído, y al intelecto
 
-y al corazn. Es algo espiritual, y slo puede ser captado por aquellos cuyo
+y al corazón. Es algo espiritual, y sólo puede ser captado por aquellos cuyo
 
-espritu es despertado para comprender una verdad espiritual.
+espíritu es despertado para comprender una verdad espiritual.
 
-Lo primero que dijo el ngel fue: No
+Lo primero que dijo el ángel fue: “No
 
-temis vosotras. Oh!, este es el propio genio del Evangelio de nuestro
+temáis vosotras”. ˇOh!, este es el propio genio del Evangelio de nuestro
 
-Salvador resucitado: No temis vosotros. Ustedes, que quieren ser salvados,
+Salvador resucitado: “No temáis vosotros”. Ustedes, que quieren ser salvados,
 
-ustedes, que quieren seguir a Cristo, no deben temer. Tembl la tierra? No
+ustedes, que quieren seguir a Cristo, no deben temer. żTembló la tierra? No
 
-temis vosotros: Dios puede preservarlos aunque la tierra arda con fuego.
+temáis vosotros: Dios puede preservarlos aunque la tierra arda con fuego.
 
-Descendi el ngel en terrores? No temis vosotros: no hay terrores en el cielo
+żDescendió el ángel en terrores? No temáis vosotros: no hay terrores en el cielo
 
-para el hijo de Dios que se acerca a la cruz de Jess, y confa su alma a Aquel
+para el hijo de Dios que se acerca a la cruz de Jesús, y confía su alma a Aquel
 
-que se desangr all.
+que se desangró allí.
 
-Temerosas mujeres, es acaso la oscuridad
+Temerosas mujeres, żes acaso la oscuridad
 
-lo que les alarma? No temis vosotras: Dios ve en lo oscuro y las ama all, y
+lo que les alarma? No temáis vosotras: Dios ve en lo oscuro y las ama allí, y
 
-no hay nada en la oscuridad o en la luz que est ms all de Su control. Tienen
+no hay nada en la oscuridad o en la luz que esté más allá de Su control. żTienen
 
-miedo de ir a una tumba? Las alarma un sepulcro? No temis vosotras: ustedes
+miedo de ir a una tumba? żLas alarma un sepulcro? No temáis vosotras: ustedes
 
 no pueden morir. Puesto que Cristo ha resucitado, aunque hubieren estado muertas,
 
-vivirn. Oh, el consuelo del Evangelio! Permtanme decirles que no hay nada en
+vivirán. ˇOh, el consuelo del Evangelio! Permítanme decirles que no hay nada en
 
-la Biblia que haga temer a un hombre que pone su confianza en Jess. Dije que
+la Biblia que haga temer a un hombre que pone su confianza en Jesús. żDije que
 
 no hay nada en la Biblia? Digo que no hay nada en el cielo, nada en la tierra y
 
-nada en el infierno, que conduzca a hacer temer a quienes confan en Jess. No
+nada en el infierno, que conduzca a hacer temer a quienes confían en Jesús. “No
 
-temis. No han de temer el pasado, pues les es perdonado; no han de temer el
+temáis”. No han de temer el pasado, pues les es perdonado; no han de temer el
 
-presente, pues est debidamente provisto; el futuro tambin est asegurado por
+presente, pues está debidamente provisto; el futuro también está asegurado por
 
-el poder viviente de Jess. Porque yo vivo, dice l- vosotros tambin
+el poder viviente de Jesús. “Porque yo vivo,” –dice Él- “vosotros también
 
-viviris. Temer! Vamos, eso habra sido apropiado cuando Cristo estaba
+viviréis.” ˇTemer! Vamos, eso habría sido apropiado cuando Cristo estaba
 
-muerto, pero ahora que vive, no queda espacio para eso. Temes a tus pecados?
+muerto, pero ahora que vive, no queda espacio para eso. żTemes a tus pecados?
 
-Todos tus pecados han sido borrados, pues Cristo no habra resucitado si no los
+Todos tus pecados han sido borrados, pues Cristo no habría resucitado si no los
 
-hubiera quitado todos. Cul es tu miedo? Si el ngel te ordena: No temas,
+hubiera quitado todos. żCuál es tu miedo? Si el ángel te ordena: “No temas”,
 
-por qu habras de temer? Si cada herida del Salvador resucitado, y cada acto
+żpor qué habrías de temer? Si cada herida del Salvador resucitado, y cada acto
 
-de tu Seor reinante te consuelan, por qu desfalleces todava? Dudar, y temer
+de tu Seńor reinante te consuelan, żpor qué desfalleces todavía? Dudar, y temer
 
-y temblar ahora que Jess ha resucitado, es algo inconsistente en cualquier
+y temblar ahora que Jesús ha resucitado, es algo inconsistente en cualquier
 
-creyente. Jess puede socorrerte en todas tus tentaciones; viendo que l vive siempre
+creyente. Jesús puede socorrerte en todas tus tentaciones; viendo que Él vive siempre
 
-para interceder por ti, l puede tambin salvarte perpetuamente: por lo tanto,
+para interceder por ti, Él puede también salvarte perpetuamente: por lo tanto,
 
 no temas.
 
-Noten las palabras que siguen: No temis
+Noten las palabras que siguen: “No temáis
 
-vosotras; porque yo s酔 Qu!, conoce un ngel los corazones de las mujeres?
+vosotras; porque yo sé…” ˇQué!, żconoce un ángel los corazones de las mujeres?
 
-Saba el ngel cules eran las preocupaciones de Magdalena? Acaso los
+żSabía el ángel cuáles eran las preocupaciones de Magdalena? żAcaso los
 
-espritus leen nuestros espritus? Est bien. Pero, oh!, es mejor recordar que
+espíritus leen nuestros espíritus? Está bien. Pero, ˇoh!, es mejor recordar que
 
-nuestro Padre celestial conoce nuestro corazn. No temas, pues Dios sabe qu
+nuestro Padre celestial conoce nuestro corazón. No temas, pues Dios sabe qué
 
-hay en tu corazn. Nunca has confesado tu ansiedad acerca de tu alma, pues eres
+hay en tu corazón. Nunca has confesado tu ansiedad acerca de tu alma, pues eres
 
-demasiado tmido para eso; ni siquiera has llegado tan lejos como para
+demasiado tímido para eso; ni siquiera has llegado tan lejos como para
 
-atreverte a decir que esperas amar a Jess; pero Dios conoce tus deseos.
+atreverte a decir que esperas amar a Jesús; pero Dios conoce tus deseos.
 
-Pobre corazn, sientes como si no
+Pobre corazón, sientes como si no
 
 pudieses confiar, como si no pudieses hacer nada que sea bueno; pero al menos
 
 lo deseas, al menos lo buscas. Todo esto lo sabe Dios; con placer atisba tus
 
-deseos. Acaso no te consuela esto: este hecho grandioso del conocimiento de
+deseos. żAcaso no te consuela esto: este hecho grandioso del conocimiento de
 
-Dios? Yo no podra leer lo que hay en tu espritu y, tal vez, ni t mismo
+Dios? Yo no podría leer lo que hay en tu espíritu y, tal vez, ni tú mismo
 
-podras decirme qu hay all. Si lo intentaras, diras despus de haberlo
+podrías decirme qué hay allí. Si lo intentaras, dirías después de haberlo
 
-hecho: bien, no le dije exactamente qu senta; he perdido el consuelo que pude
+hecho: “bien, no le dije exactamente qué sentía; he perdido el consuelo que pude
 
-haber recibido, pues no pude explicar mi caso.
+haber recibido, pues no pude explicar mi caso.”
 
 Pero hay Alguien que trata contigo, y
 
-sabe exactamente dnde radica tu dificultad, y cul es la causa de tu presente
+sabe exactamente dónde radica tu dificultad, y cuál es la causa de tu presente
 
-afliccin. No temas, pues tu Padre celestial conoce tu dificultad. Qudate
+aflicción. “No temas”, pues tu Padre celestial conoce tu dificultad. Quédate
 
-tranquilo, pobre paciente, pues el cirujano sabe dnde est la herida, y qu es
+tranquilo, pobre paciente, pues el cirujano sabe dónde está la herida, y qué es
 
-lo que te est afectando. Silencio, hijo mo, qudate quieto apoyado sobre el
+lo que te está afectando. Silencio, hijo mío, quédate quieto apoyado sobre el
 
-pecho del grandioso Padre, pues l lo sabe todo; y, acaso no debera
+pecho del grandioso Padre, pues Él lo sabe todo; y, żacaso no debería
 
 contentarte eso, ya que Su cuidado es tan infinito como Su conocimiento?
 
-Luego el ngel sigui diciendo: No
+Luego el ángel siguió diciendo: “No
 
-temis vosotras; porque yo s que buscis a Jess, el que fue crucificado.
+temáis vosotras; porque yo sé que buscáis a Jesús, el que fue crucificado”.
 
-Haba aqu espacio para el consuelo. Estaban buscando a Jess, aunque el mundo
+Había aquí espacio para el consuelo. Estaban buscando a Jesús, aunque el mundo
 
-le haba crucificado. Aunque los muchos se haban hecho a un lado y le haban
+le había crucificado. Aunque los muchos se habían hecho a un lado y le habían
 
-abandonado, las mujeres se estaban aferrando a l con una lealtad amorosa.
+abandonado, las mujeres se estaban aferrando a Él con una lealtad amorosa.
 
-Ahora, quisiera saber si hay alguien aqu
+Ahora, quisiera saber si hay alguien aquí
 
-que pudiera decir: aunque soy indigno de ser un seguidor de Cristo, y con
+que pudiera decir: “aunque soy indigno de ser un seguidor de Cristo, y con
 
-frecuencia pienso que l me rechazara, hay algo de lo que estoy seguro: no
+frecuencia pienso que Él me rechazaría, hay algo de lo que estoy seguro: no
 
-tendra miedo del temor del hombre por Su causa. Mis pecados me hacen temer, pero
+tendría miedo del temor del hombre por Su causa. Mis pecados me hacen temer, pero
 
-ningn hombre podra hacerme temer. Yo estara a Su lado aunque todo el mundo
+ningún hombre podría hacerme temer. Yo estaría a Su lado aunque todo el mundo
 
-estuviere en contra suya. Considerara mi ms alto honor que el Crucificado por
+estuviere en contra suya. Consideraría mi más alto honor que el Crucificado por
 
-el mundo fuera el Adorado de mi corazn. No importa que todo el mundo lo echare
+el mundo fuera el Adorado de mi corazón. No importa que todo el mundo lo echare
 
-fuera, si l me recibiera, aunque soy un pobre gusano indigno, no estara nunca
+fuera, si Él me recibiera, aunque soy un pobre gusano indigno, no estaría nunca
 
-avergonzado de reconocer Su nombre bendito y lleno de gracia. Ah!, entonces,
+avergonzado de reconocer Su nombre bendito y lleno de gracia”. ˇAh!, entonces,
 
-no tengas miedo, pues si es as como sientes con respecto a Cristo, l te
+no tengas miedo, pues si es así como sientes con respecto a Cristo, Él te
 
-reconocer en el ltimo gran da. Si ests dispuesto a reconocerle ahora, no
+reconocerá en el último gran día. Si estás dispuesto a reconocerle ahora, “no
 
-temas.
+temas”.
 
 Yo estoy seguro de que a veces siento,
 
-cuando miro a mi propio corazn, como si no tuviera parte ni porcin en el
+cuando miro a mi propio corazón, como si no tuviera parte ni porción en el
 
-asunto, y como si no pudiera reclamar inters alguno en el Amado en absoluto;
+asunto, y como si no pudiera reclamar interés alguno en el Amado en absoluto;
 
-pero, entonces, s efectivamente esto: que no me avergenzo de ser expuesto a
+pero, entonces, sé efectivamente esto: que no me avergüenzo de ser expuesto a
 
-la vergenza por l; y si fuera acusado de ser un fantico y un entusiasta de
+la vergüenza por Él; y si fuera acusado de ser un fanático y un entusiasta de
 
-Su causa, considerara el ms elevado honor reconocerme culpable de una
+Su causa, consideraría el más elevado honor reconocerme culpable de una
 
-imputacin tan bienaventurada por Su amada causa. Si este fuera, en verdad, el
+imputación tan bienaventurada por Su amada causa. Si este fuera, en verdad, el
 
-lenguaje de nuestros corazones, podemos cobrar nimo. No temis vosotras;
+lenguaje de nuestros corazones, podemos cobrar ánimo. “No temáis vosotras;
 
-porque yo s que buscis a Jess, el que fue crucificado.
+porque yo sé que buscáis a Jesús, el que fue crucificado.”
 
-Luego aade: No est aqu, pues ha
+Luego ańade: “No está aquí, pues ha
 
-resucitado. Esta es la instruccin que da el ngel. Despus de dar consuelo,
+resucitado”. Esta es la instrucción que da el ángel. Después de dar consuelo,
 
-da la instruccin. La firme base y la razn de consolacin que te proporciona,
+da la instrucción. La firme base y la razón de consolación que te proporciona,
 
 buscador, es que no buscas a un Cristo muerto, y no le pides a un Salvador
 
-enterrado; l est vivo realmente. l es tan capaz de aliviarte hoy, si vas a
+enterrado; Él está vivo realmente. Él es tan capaz de aliviarte hoy, si vas a
 
-tu aposento y se lo pides en oracin, como lo era para ayudar al pobre ciego
+tu aposento y se lo pides en oración, como lo era para ayudar al pobre ciego
 
-cuando l estaba en la tierra. l est tan dispuesto hoy a aceptarte y bendecirte,
+cuando Él estaba en la tierra. Él está tan dispuesto hoy a aceptarte y bendecirte,
 
-como lo estaba para bendecir al leproso, o para sanar al paraltico. Acude a l
+como lo estaba para bendecir al leproso, o para sanar al paralítico. Acude a Él
 
-de inmediato, pobre buscador; acude a l con santa confianza, pues l no est
+de inmediato, pobre buscador; acude a Él con santa confianza, pues Él no está
 
-aqu; estara muerto si estuviera: l ha resucitado, y vive y reina para
+aquí; estaría muerto si estuviera: Él ha resucitado, y vive y reina para
 
-responder tu peticin.
+responder tu petición.
 
-El ngel les pidi a las santas mujeres
+El ángel les pidió a las santas mujeres
 
-que revisaran la tumba vaca, pero, casi inmediatamente despus, les dio una
+que revisaran la tumba vacía, pero, casi inmediatamente después, les dio una
 
-comisin para que la cumplieran en nombre del Seor. Ahora, si algn buscador
+comisión para que la cumplieran en nombre del Seńor. Ahora, si algún buscador
 
 ha sido consolado por el pensamiento de que Cristo vive para salvar, que haga
 
-como dijo el ngel, que vaya y les cuente a otros las buenas nuevas que ha
+como dijo el ángel, que vaya y les cuente a otros las buenas nuevas que ha
 
 escuchado. Ese es el grandioso medio de propagar nuestra santa fe: que todos
 
-aquellos que se han enterado acerca de ella, la enseen. Nosotros no tenemos
+aquellos que se han enterado acerca de ella, la enseńen. Nosotros no tenemos
 
-algunos ministros que han sido apartados, para quienes est reservado el nico
+algunos ministros que han sido apartados, para quienes está reservado el único
 
-derecho de ensear en la iglesia cristiana; nosotros no creemos en un clero y
+derecho de enseńar en la iglesia cristiana; nosotros no creemos en un clero y
 
 en un laicado.
 
@@ -1164,67 +1164,67 @@ clero
 
 de Dios: todos ustedes. Todos los
 
-que creen en Cristo son el clero de Dios, y estn obligados a servirle de
+que creen en Cristo son el clero de Dios, y están obligados a servirle de
 
 acuerdo a sus habilidades. En el cuerpo hay muchos miembros, pero cada miembro
 
-tiene su oficio; y no hay ningn miembro en el cuerpo de Cristo que ha de estar
+tiene su oficio; y no hay ningún miembro en el cuerpo de Cristo que ha de estar
 
 ocioso, porque, en verdad, no puede hacer lo que puede hacer la Cabeza. El pie
 
-tiene su lugar, y la mano tiene su deber, as como tambin lo tienen la lengua
+tiene su lugar, y la mano tiene su deber, así como también lo tienen la lengua
 
-y el ojo. Oh, ustedes, que se han enterado acerca de Jess, no guarden el
+y el ojo. Oh, ustedes, que se han enterado acerca de Jesús, no guarden el
 
 bendito secreto para ustedes mismos. Hoy, de una manera u otra, les ruego que
 
 den a conocer que Jesucristo ha resucitado. Pasen la consigna a su alrededor,
 
-como lo hacan los antiguos cristianos. En el primer da de la semana se decan
+como lo hacían los antiguos cristianos. En el primer día de la semana se decían
 
-los unos a los otros: Ha resucitado el Seor verdaderamente. Si alguien les
+los unos a los otros: “Ha resucitado el Seńor verdaderamente”. Si alguien les
 
-preguntara qu quieren decir con eso, sern entonces capaces de decirles todo
+preguntara qué quieren decir con eso, serán entonces capaces de decirles todo
 
-el Evangelio, pues esta es la esencia del Evangelio, que Jesucristo muri por
+el Evangelio, pues esta es la esencia del Evangelio, que Jesucristo murió por
 
-nuestros pecados, y resucit otra vez en el tercer da, de acuerdo a las
+nuestros pecados, y resucitó otra vez en el tercer día, de acuerdo a las
 
-Escrituras; muri como sustituto de nosotros, criminales, y resucit como
+Escrituras; murió como sustituto de nosotros, criminales, y resucitó como
 
-representante de nosotros, pecadores perdonados; muri para que nuestros
+representante de nosotros, pecadores perdonados; murió para que nuestros
 
 pecados pudieran morir, y vive de nuevo para que nuestras almas puedan vivir. Inviten
 
-diligentemente a otros a venir a Jess y a confiar en l. Dganles que hay vida
+diligentemente a otros a venir a Jesús y a confiar en Él. Díganles que hay vida
 
-para los muertos en una mirada a Jess crucificado; dganles que esa mirada es
+para los muertos en una mirada a Jesús crucificado; díganles que esa mirada es
 
-un asunto del alma, es una confianza simple; dganles que nadie confi jams en
+un asunto del alma, es una confianza simple; díganles que nadie confió jamás en
 
-Cristo pero fue rechazado; dganles lo que han sentido como resultado de su
+Cristo pero fue rechazado; díganles lo que han sentido como resultado de su
 
-confianza en Jess, y qu sabemos, muchos discpulos podran ser agregados a
+confianza en Jesús, y qué sabemos, ˇmuchos discípulos podrían ser agregados a
 
-Su iglesia, un Salvador resucitado ser glorificado, y ustedes sern consolados
+Su iglesia, un Salvador resucitado será glorificado, y ustedes serán consolados
 
-por lo que habrn visto! Que el Seor imparta Su propia bendicin a estas
+por lo que habrán visto! Que el Seńor imparta Su propia bendición a estas
 
-dbiles palabras, por Su Hijo Jesucristo. Amn
+débiles palabras, por Su Hijo Jesucristo. Amén
 
-Porcin de la Escritura leda antes del
+Porción de la Escritura leída antes del
 
-sermn: Mateo 28.
+sermón: Mateo 28.
 
-Mirada
+Miríada
 
-: nmero muy grande de cosas.
+: número muy grande de cosas.
 
 Averno
 
-: en lenguaje potico, lugar de
+: en lenguaje poético, lugar de
 
-los condenados por la justicia divina. En la antigedad se le consideraba la
+los condenados por la justicia divina. En la antigüedad se le consideraba la
 
 entrada a los infiernos.
 
@@ -1232,11 +1232,11 @@ Colina de Marte
 
 : Hacia el noroeste de la
 
-Acrpolis se extenda sobre un nivel un poco ms bajo, una colina pedregosa
+Acrópolis se extendía sobre un nivel un poco más bajo, una colina pedregosa
 
 llamada el
 
-Arepago
+Areópago
 
 ,
 
@@ -1246,13 +1246,13 @@ colina de Marte
 
 ,
 
-donde se reunan los concilios y el tribunal supremo. Pablo predic all uno de
+donde se reunían los concilios y el tribunal supremo. Pablo predicó allí uno de
 
-los mensajes ms dinmicos de todos los tiempos, que qued registrado en Hechos
+los mensajes más dinámicos de todos los tiempos, que quedó registrado en Hechos
 
 17.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 19/Marzo/2009
 

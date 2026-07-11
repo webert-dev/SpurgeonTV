@@ -1,12 +1,10 @@
 # Sermón 98 | Sermón 98
 
-El Plpito de la Capilla New Park Street
-
 Menospreciar a Cristo
 
 NO. 98
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 17 DE AGOSTO DE 1856
 
@@ -22,203 +20,203 @@ STRAND
 
 LONDRES.
 
-Mas
+“Mas
 
-ellos, sin hacer caso, se fueron, uno a su labranza, y otro a sus negocios. Mateo
+ellos, sin hacer caso, se fueron, uno a su labranza, y otro a sus negocios.” Mateo
 
 22: 5.
 
 El hombre no ha
 
-cambiado mucho desde los das de Adn. En su estructura corporal parece ser
+cambiado mucho desde los días de Adán. En su estructura corporal parece ser
 
-exactamente el mismo, pues los esqueletos que tienen una antigedad de muchos
+exactamente el mismo, pues los esqueletos que tienen una antigüedad de muchos
 
-cientos de aos, son la exacta contraparte de los nuestros; y, verdaderamente,
+cientos de ańos, son la exacta contraparte de los nuestros; y, verdaderamente,
 
 los hechos del hombre realizados hace siglos y que quedaron registrados en la
 
-historia, podran ser escritos de nuevo, pues nada hay nuevo debajo del sol.
+historia, podrían ser escritos de nuevo, pues “nada hay nuevo debajo del sol”.
 
-Se descubre todava la misma clase de hombres (aunque, tal vez, vestidos de
+Se descubre todavía la misma clase de hombres (aunque, tal vez, vestidos de
 
-manera diferente) que existi en edades muy remotas. Hay todava hombres que
+manera diferente) que existió en edades muy remotas. Hay todavía hombres que
 
-responden al carcter que el Salvador atribuy a otras personas en Su da: Se
+responden al carácter que el Salvador atribuyó a otras personas en Su día: “Se
 
-van, uno a su labranza, y otro a sus negocios, sin valorar las cosas gloriosas
+van, uno a su labranza, y otro a sus negocios”, sin valorar las cosas gloriosas
 
 del Evangelio.
 
 Estoy seguro de que
 
-tenemos muchos caracteres semejantes aqu esta noche, y pido al Seor que me d
+tenemos muchos caracteres semejantes aquí esta noche, y pido al Seńor que me dé
 
-gracia para predicarles muy solemnemente y muy explcitamente. Y debo pedirles
+gracia para predicarles muy solemnemente y muy explícitamente. Y debo pedirles
 
-a quienes entienden el arte celestial de la oracin, que oren para que Dios se
+a quienes entienden el arte celestial de la oración, que oren para que Dios se
 
 agrade en hacer llegar directamente al pecho en el que quiere se alojen, cada
 
 uno de estos pensamientos, para que produzcan el fruto consolador de justicia
 
-en la salvacin de muchas almas.
+en la salvación de muchas almas.
 
-No hicieron caso; demasiadas
+“No hicieron caso”; demasiadas
 
-personas hacen eso mismo hoy en da; y, eso mismo har, esta noche, una buena porcin
+personas hacen eso mismo hoy en día; y, eso mismo hará, esta noche, una buena porción
 
 de mis oyentes. Yo creo que es pecado menospreciar a Cristo; y a riesgo de ser
 
-falsamente llamado legalista, o partidario del libre albedro, por quienes son
+falsamente llamado legalista, o partidario del libre albedrío, por quienes son
 
-sabios por encima de lo que est escrito, yo los acusar de lo mismo, pues espero
+sabios por encima de lo que está escrito, yo los acusaré de lo mismo, pues espero
 
-que no he de pertenecer jams a esa clase de calvinistas que hacen la labor del
+que no he de pertenecer jamás a esa clase de calvinistas que hacen la labor del
 
 diablo excusando a los pecadores en sus pecados.
 
 En primer lugar, les
 
-dir unas cuantas palabras concernientes a
+diré unas cuantas palabras concernientes a
 
-qu
+qué
 
 es aquello que el pecador menosprecia;
 
 en segundo lugar,
 
-cmo es que lo menosprecia;
+cómo es que lo menosprecia;
 
 y, en tercer
 
 lugar,
 
-por qu es que lo menosprecia.
+por qué es que lo menosprecia.
 
-Despus
+Después
 
-har una observacin adicional o dos, y ser todo, para no cansarlos.
+haré una observación adicional o dos, y será todo, para no cansarlos.
 
 I.
 
-En primer lugar, QU ES AQUELLO QUE EL PECADOR MENOSPRECIA? Segn la
+En primer lugar, żQUÉ ES AQUELLO QUE EL PECADOR MENOSPRECIA? Según la
 
-parbola, las personas aludidas menospreciaron la fiesta de bodas que un rey
+parábola, las personas aludidas menospreciaron la fiesta de bodas que un rey
 
-haba preparado, con todo tipo de manjares exquisitos, a la que haban sido
+había preparado, con todo tipo de manjares exquisitos, a la que habían sido
 
-convidados generosamente, y a la que no asistieron intencionadamente. Es fcil
+convidados generosamente, y a la que no asistieron intencionadamente. Es fácil
 
 descubrir el significado espiritual de esto. Los pecadores que menosprecian a Cristo,
 
 expresan su desprecio por un glorioso banquete que Dios ha provisto con motivo
 
-de la boda de Su Hijo. El lugar en que nos encontramos tierra solemne es. Oh,
+de la boda de Su Hijo. El lugar en que nos encontramos tierra solemne es. ˇOh,
 
-imploramos las enseanzas del Espritu Santo!
+imploramos las enseńanzas del Espíritu Santo!
 
 Tomando esta
 
-parbola como la base de nuestros comentarios, podemos sealar, primero, que el
+parábola como la base de nuestros comentarios, podemos seńalar, primero, que el
 
 pecador menosprecia
 
 al mensajero que le
 
-lleva las noticias que la cena de bodas est preparada.
+lleva las noticias que la cena de bodas está preparada.
 
 Estos hombres
 
-rehusaron asistir; decidieron ir, uno a su labranza, y otro a sus negocios, y
+rehusaron asistir; decidieron ir, “uno a su labranza, y otro a sus negocios”, y
 
-as, no tomaron en serio al mensajero; y cada pecador que menosprecia la
+así, no tomaron en serio al mensajero; y cada pecador que menosprecia la
 
-grandiosa salvacin de Jesucristo, no toma en serio al ministro del Evangelio,
+grandiosa salvación de Jesucristo, no toma en serio al ministro del Evangelio,
 
 y esto no es un insulto insignificante a los ojos de Dios.
 
 Si el embajador de
 
-Inglaterra fuera tratado con indiferencia, eso no sera considerado nunca por
+Inglaterra fuera tratado con indiferencia, eso no sería considerado nunca por
 
-nuestra gran nacin como una ofensa insignificante; y tengan por cierto que no
+nuestra gran nación como una ofensa insignificante; y tengan por cierto que no
 
-es algo sin importancia para Dios que los embajadores que enva sean despreciados.
+es algo sin importancia para Dios que los embajadores que envía sean despreciados.
 
 Pero eso no es tan grave, comparativamente; los embajadores somos hombres como
 
 ustedes, que podemos soportar el menosprecio, si eso fuera todo. De hecho, nos
 
-dara mucho gusto perdonarlos si estuviese en nuestro poder hacerlo, y si esta
+daría mucho gusto perdonarlos si estuviese en nuestro poder hacerlo, y si esta
 
 fuese toda la culpa de ustedes.
 
 Pero estas personas
 
-desdearon la fiesta.
+desdeńaron la fiesta.
 
 Algunas de ellas
 
-se figuraban que los animales engordados y las dems provisiones que estaran
+se figuraban que los animales engordados y las demás provisiones que estarían
 
-sobre la mesa, no seran mejores que los que ellas tenan en casa. Esas
+sobre la mesa, no serían mejores que los que ellas tenían en casa. Esas
 
-personas pensaban que el banquete real no sera algo tan grandioso como para
+personas pensaban que el banquete real no sería algo tan grandioso como para
 
-renunciar a sus negocios por un da, o como para renunciar a su labranza tan
+renunciar a sus negocios por un día, o como para renunciar a su labranza tan
 
-solo por una hora. Despreciaron el banquete, o, al menos, parecera que as
+solo por una hora. Despreciaron el banquete, o, al menos, parecería que así
 
 fue, ya que no asistieron.
 
-Oh, pecador, cuando
+ˇOh, pecador, cuando
 
-t desdeas la gran salvacin, sera bueno que recordaras qu es lo que
+tú desdeńas la gran salvación, sería bueno que recordaras qué es lo que
 
 desprecias; cuando menosprecias el Evangelio de Dios, menosprecias la
 
-justificacin por fe, menosprecias ser lavado en la sangre de Jess,
+justificación por fe, menosprecias ser lavado en la sangre de Jesús,
 
-menosprecias al Espritu Santo, menosprecias el camino al cielo, y luego
+menosprecias al Espíritu Santo, menosprecias el camino al cielo, y luego
 
 menosprecias a la fe, a la esperanza y al amor; menosprecias todas las promesas
 
 del pacto eterno, todas las cosas gloriosas que Dios ha reservado para quienes
 
-le aman, y menosprecias todo aquello que l ha revelado en Su Palabra como el
+le aman, y menosprecias todo aquello que Él ha revelado en Su Palabra como el
 
-don que promete a quienes vienen a l. Desdear el Evangelio es algo grave,
+don que promete a quienes vienen a Él. Desdeńar el Evangelio es algo grave,
 
-pues en esa Palabra, ―las buenas nuevas inspiradas por Dios― est
+pues en esa Palabra, ―las buenas nuevas inspiradas por Dios― está
 
 resumido todo lo que la naturaleza humana pudiera requerir, y todo lo que
 
-incluso los santos que estn en la bienaventuranza reciben. Oh, es una locura
+incluso los santos que están en la bienaventuranza reciben. ˇOh, es una locura
 
-despreciar el Evangelio del Dios bendito! Es peor que una insensatez! Si
+despreciar el Evangelio del Dios bendito! ˇEs peor que una insensatez! Si
 
 desprecias las estrellas, eres un necio; si desprecias la tierra de Dios, con
 
-sus gloriosas montaas, con sus ros que fluyen en sus hermosos prados, eres un
+sus gloriosas montańas, con sus ríos que fluyen en sus hermosos prados, eres un
 
-loco manitico; pero si menosprecias el Evangelio de Dios, eres el equivalente
+loco maniático; pero si menosprecias el Evangelio de Dios, eres el equivalente
 
-de diez mil maniticos en uno. Si desdeas eso, eres mucho ms necio que quien
+de diez mil maniáticos en uno. Si desdeńas eso, eres mucho más necio que quien
 
 no ve ninguna luz en el sol, no contempla ninguna hermosura en la luna ni
 
 ninguna brillantez en el firmamento estrellado. Pisotea, si quieres, Sus obras
 
-inferiores; pero, oh!, recuerda que cuando desdeas el Evangelio, ests
+inferiores; pero, ˇoh!, recuerda que cuando desdeńas el Evangelio, estás
 
-menospreciando la obra maestra de tu grandioso Creador ―eso que le cost
+menospreciando la obra maestra de tu grandioso Creador ―eso que le costó
 
-ms que crear una mirada de mundos― la compra sangrienta realizada por
+más que crear una miríada de mundos― la compra sangrienta realizada por
 
-las agonas de nuestro Salvador.
+las agonías de nuestro Salvador.
 
-Y, adems, estas
+Y, además, estas
 
 personas
 
@@ -234,95 +232,95 @@ matrimonio, y en tanto
 
 que no asistieron, deshonraron a ese Ser glorioso en cuyo honor fue preparada
 
-la cena. Desdearon a Aquel a quien Su Padre amaba. Ah, pecador!, cuando
+la cena. Desdeńaron a Aquel a quien Su Padre amaba. ˇAh, pecador!, cuando
 
-desdeas el Evangelio, desdeas a Cristo, a ese Cristo delante de quien los
+desdeńas el Evangelio, desdeńas a Cristo, a ese Cristo delante de quien los
 
-gloriosos querubines se inclinan, a ese Cristo a cuyos pies el excelso arcngel
+gloriosos querubines se inclinan, a ese Cristo a cuyos pies el excelso arcángel
 
-considera una felicidad arrojar su corona; desdeas a Aquel con cuya alabanza
+considera una felicidad arrojar su corona; desdeńas a Aquel con cuya alabanza
 
-resuena la bveda del cielo; desdeas a Aquel a quien Dios tiene en muy alta
+resuena la bóveda del cielo; desdeńas a Aquel a quien Dios tiene en muy alta
 
-consideracin, pues le ha llamado: Dios sobre todas las cosas, bendito por los
+consideración, pues le ha llamado: “Dios sobre todas las cosas, bendito por los
 
-siglos.
+siglos.”
 
-Ah!, es algo
+ˇAh!, es algo
 
-solemne menospreciar a Cristo. Si desprecias a un prncipe, recibirs por ello
+solemne menospreciar a Cristo. Si desprecias a un príncipe, recibirás por ello
 
 poca honra de manos del rey; pero si desprecias al Hijo de Dios, el Padre se
 
-vengar de ti por el menosprecio de Su Hijo. Oh, mis queridos amigos!, me
+vengará de ti por el menosprecio de Su Hijo. ˇOh, mis queridos amigos!, me
 
-parece que es un pecado, no imperdonable, lo s, pero, aun as, un pecado
+parece que es un pecado, no imperdonable, lo sé, pero, aun así, un pecado
 
-sumamente atroz, que los hombres menosprecien a mi bendito Seor Jesucristo y
+sumamente atroz, que los hombres menosprecien a mi bendito Seńor Jesucristo y
 
-le traten con cruel desdn. Menospreciarte a Ti, dulce Jess! Oh!, cuando te
+le traten con cruel desdén. ˇMenospreciarte a Ti, dulce Jesús! ˇOh!, cuando te
 
-veo cubierto con un manto de sangre, luchando en Getseman, me encorvo ante Ti,
+veo cubierto con un manto de sangre, luchando en Getsemaní, me encorvo ante Ti,
 
-y digo: Oh, Redentor, que sangras por el pecado, podra desdearte algn
+y digo: “Oh, Redentor, que sangras por el pecado, żpodría desdeńarte algún
 
-pecador? Cuando le contemplo y veo un ro de sangre que cae baando Su hombro,
+pecador? Cuando le contemplo y veo un río de sangre que cae bańando Su hombro,
 
-por la maldita flagelacin del ltigo de Pilato, pregunto: Puede desdear
+por la maldita flagelación del látigo de Pilato, pregunto: “żPuede desdeńar
 
-algn pecador a un Salvador como ste? Y cuando le veo por all, cubierto con
+algún pecador a un Salvador como éste?” Y cuando le veo por allá, cubierto con
 
-Su sangre, clavado a un madero, expirando en medio de la tortura, y gritando: El,
+Su sangre, clavado a un madero, expirando en medio de la tortura, y gritando: “Elí,
 
-El, lama sabactani?, me pregunto: puede alguien menospreciar esto?
+Elí, żlama sabactani?”, me pregunto: “żpuede alguien menospreciar esto?”
 
 Ay, si lo hicieran,
 
-entonces, en verdad, sera un pecado que bastara para condenarlos, aunque no
+entonces, en verdad, sería un pecado que bastaría para condenarlos, aunque no
 
-hubieran cometido ningn otro pecado: que hubieren desdeado al Prncipe de
+hubieran cometido ningún otro pecado: que hubieren desdeńado al Príncipe de
 
-Paz, que es glorioso y todo l codiciable.
+Paz, que es glorioso y todo Él codiciable.
 
-Oh, amigo mo!, si
+ˇOh, amigo mío!, si
 
-desdeas a Cristo, habrs insultado al nico ser que puede salvarte, al nico
+desdeńas a Cristo, habrás insultado al único ser que puede salvarte, al único
 
-que puede transportarte al otro lado del Jordn, al nico que puede correr los
+que puede transportarte al otro lado del Jordán, al único que puede correr los
 
-cerrojos de las puertas del cielo y darte la bienvenida. No permitas que ningn
+cerrojos de las puertas del cielo y darte la bienvenida. No permitas que ningún
 
 predicador de cosas melifluas te persuada de que eso no es un crimen. Oh,
 
-pecador, piensa en tu pecado si es que le ests desdeando, pues entonces
+pecador, piensa en tu pecado si es que le estás desdeńando, pues entonces
 
-desdeas al nico Hijo del Rey.
+desdeńas al único Hijo del Rey.
 
-Y, adems, estas
+Y, además, estas
 
 personas
 
-menospreciaron tambin al Rey
+menospreciaron también al Rey
 
 que
 
-haba preparado el banquete. Ah!, poco sabes, oh pecador, que cuando tomas a
+había preparado el banquete. ˇAh!, poco sabes, oh pecador, que cuando tomas a
 
-la ligera el Evangelio, insultas a Dios. He odo que algunas personas dicen:
+la ligera el Evangelio, insultas a Dios. He oído que algunas personas dicen:
 
-seor, yo no creo en Cristo, pero aun as estoy seguro de que procuro
+“seńor, yo no creo en Cristo, pero aun así estoy seguro de que procuro
 
-reverenciar a Dios; a m no me importa el Evangelio, yo no deseo ser lavado en
+reverenciar a Dios; a mí no me importa el Evangelio, yo no deseo ser lavado en
 
-la sangre de Jess, ni ser salvado por la gracia inmerecida; pero yo no
+la sangre de Jesús, ni ser salvado por la gracia inmerecida; pero yo no
 
-desprecio a Dios; yo soy un religioso natural! No, seor, t, en verdad, insultas
+desprecio a Dios; ˇyo soy un religioso natural!” No, seńor, tú, en verdad, insultas
 
-al Todopoderoso, en la medida que niegas a Su Hijo. Si desprecias al vstago de
+al Todopoderoso, en la medida que niegas a Su Hijo. Si desprecias al vástago de
 
-un hombre, insultas al propio hombre; si rechazas al unignito Hijo de Dios,
+un hombre, insultas al propio hombre; si rechazas al unigénito Hijo de Dios,
 
-rechazas al propio Ser eterno. No hay tal cosa como la verdadera religin
+rechazas al propio Ser eterno. No hay tal cosa como la verdadera religión
 
 natural aparte de Cristo; es una mentira y una falsedad; es el refugio de un
 
@@ -330,73 +328,73 @@ hombre que no es lo suficientemente valiente para decir que odia a Dios, pero
 
 es un refugio de mentiras, pues quien niega a Cristo, en ese acto ofende a
 
-Dios, y se cierra las puertas del cielo contra s mismo.
+Dios, y se cierra las puertas del cielo contra sí mismo.
 
 No se puede amar al
 
-Padre excepto a travs del Hijo; y no hay una adoracin aceptable del Padre,
+Padre excepto a través del Hijo; y no hay una adoración aceptable del Padre,
 
-excepto a travs del Grandioso Sumo Sacerdote, el Mediador, Jesucristo. Oh,
+excepto a través del Grandioso Sumo Sacerdote, el Mediador, Jesucristo. ˇOh,
 
-amigo mo!, recuerda que t no has despreciado simplemente el Evangelio, sino has
+amigo mío!, recuerda que tú no has despreciado simplemente el Evangelio, sino has
 
-menospreciado el Evangelio de Dios. Al rerte de las doctrinas de la
+menospreciado el Evangelio de Dios. Al reírte de las doctrinas de la
 
-revelacin, t te has redo de Dios; al ultrajar la verdad del Evangelio, has
+revelación, tú te has reído de Dios; al ultrajar la verdad del Evangelio, has
 
-ultrajado al propio Dios; has cerrado tu puo ante el rostro del Eterno; tus
+ultrajado al propio Dios; has cerrado tu puńo ante el rostro del Eterno; tus
 
-blasfemias no han sido contra la iglesia, sino contra Dios mismo. Oh,
+blasfemias no han sido contra la iglesia, sino contra Dios mismo. ˇOh,
 
-recuerden, ustedes, que se burlan del mensaje de Cristo! Oh, recuerden,
+recuerden, ustedes, que se burlan del mensaje de Cristo! ˇOh, recuerden,
 
 ustedes, que se alejan del ministerio de la verdad! Dios es un Dios fuerte;
 
-cun severamente
+ˇcuán severamente
 
 puede
 
 castigar!
 
-Dios es un Dios celoso: oh, cun severamente
+Dios es un Dios celoso: ˇoh, cuán severamente
 
-castigar!
+castigará!
 
-Menospreciar a Dios, pecador? Vamos, esto, por encima
+żMenospreciar a Dios, pecador? Vamos, esto, por encima
 
-de todo lo dems, es un pecado que condena, y al cometerlo, pudiera ser que un
+de todo lo demás, es un pecado que condena, y al cometerlo, pudiera ser que un
 
-da firmes tu propia sentencia de muerte, pues desdear a Dios, a Cristo, y a
+día firmes tu propia sentencia de muerte, pues desdeńar a Dios, a Cristo, y a
 
 Su santo Evangelio, es destruir la propia alma, y es precipitarse de cabeza a
 
-la perdicin. Ah, almas infelices, sumamente infelices han de ser ustedes, si
+la perdición. ˇAh, almas infelices, sumamente infelices han de ser ustedes, si
 
-viven y mueren desdeando a Jess, y prefiriendo sus labranzas y sus negocios a
+viven y mueren desdeńando a Jesús, y prefiriendo sus labranzas y sus negocios a
 
 los tesoros del Evangelios!
 
-Adems, pobre amigo
+Además, pobre amigo
 
-mo digno de compasin, considera que cuando desdeas todas las cosas que he
+mío digno de compasión, considera que cuando desdeńas todas las cosas que he
 
 mencionado,
 
-ests menospreciando las
+estás menospreciando las
 
 grandes solemnidades de la eternidad.
 
-El hombre que desdea el Evangelio,
+El hombre que desdeńa el Evangelio,
 
 menosprecia el infierno; piensa que sus fuegos no son ardientes, y sus llamas
 
-no son como Cristo las ha descrito; desdea las lgrimas ardientes que escaldan
+no son como Cristo las ha descrito; desdeńa las lágrimas ardientes que escaldan
 
 sempiternamente las mejillas desesperadas; menosprecia los alaridos y los
 
-gritos que han de ser los cantos lastimeros y la msica terrible de las almas
+gritos que han de ser los cantos lastimeros y la música terrible de las almas
 
-que perecen. Ah, no es sabio menospreciar el infierno!
+que perecen. ˇAh, no es sabio menospreciar el infierno!
 
 Considera de nuevo:
 
@@ -404,89 +402,89 @@ menosprecias al cielo, ese lugar al que los bienaventurados anhelan llegar,
 
 donde la gloria reina sin una nube, y la bienaventuranza reina sin un suspiro.
 
-T pones la corona de la vida eterna debajo de tus pies; pisoteas la rama de
+Tú pones la corona de la vida eterna debajo de tus pies; pisoteas la rama de
 
 palma debajo de tu pie malvado y consideras poca cosa ser salvado, y poca cosa
 
-ser glorificado. Ah, pobre alma!, una vez que ests en el infierno, y una vez
+ser glorificado. “ˇAh, pobre alma!, una vez que estés en el infierno, y una vez
 
 que la llave de hierro sea girada para siempre en la cerradura del destino
 
-inevitable, descubrirs que el infierno es un algo que no es tan fcil de
+inevitable, descubrirás que el infierno es un algo que no es tan fácil de
 
-despreciar; y cuando hayas perdido el cielo y toda su bienaventuranza, y slo
+despreciar; y cuando hayas perdido el cielo y toda su bienaventuranza, y sólo
 
-puedas or el cntico de los bienaventurados resonando tenuemente en la
+puedas oír el cántico de los bienaventurados resonando tenuemente en la
 
 distancia, aumentando tu miseria por el contraste con su dicha, entonces
 
-descubrirs que no es algo sin importancia haber menospreciado el cielo. Todo
+descubrirás que no es algo sin importancia haber menospreciado el cielo. Todo
 
-hombre que desdea la religin, menosprecia estas cosas. Juzga errneamente el
+hombre que desdeńa la religión, menosprecia estas cosas. Juzga erróneamente el
 
 valor de su propia alma, y la importancia de su estado eterno.
 
 Esto es lo que los
 
-hombres menosprecian. Oh, seor!, ―dice alguien― yo nunca doy
+hombres menosprecian. “ˇOh, seńor!”, ―dice alguien― “yo nunca doy
 
-lugar a palabras hostiles contra la verdad de Dios; nunca me ro del ministro,
+lugar a palabras hostiles contra la verdad de Dios; nunca me río del ministro,
 
-ni desprecio el da domingo. Alto, amigo mo, yo te absuelvo de todo eso; y,
+ni desprecio el día domingo.” Alto, amigo mío, yo te absuelvo de todo eso; y,
 
-sin embargo, solemnemente te acusar de este gran pecado de menospreciar el
+sin embargo, solemnemente te acusaré de este gran pecado de menospreciar el
 
-Evangelio. yeme, entonces!
+Evangelio. ˇÓyeme, entonces!
 
 II.
 
-CMO ES QUE LOS HOMBRES LO MENOSPRECIAN?
+żCÓMO ES QUE LOS HOMBRES LO MENOSPRECIAN?
 
 En primer lugar,
 
-cuando los hombres van a or la predicacin pero
+cuando los hombres van a oír la predicación pero
 
-no prestan atencin,
+no prestan atención,
 
-estn menospreciando el Evangelio y todas las cosas
+están menospreciando el Evangelio y todas las cosas
 
-gloriosas de Dios. Cuntas personas frecuentan las iglesias y capillas para
+gloriosas de Dios. ˇCuántas personas frecuentan las iglesias y capillas para
 
-entregarse a una siesta confortable! Consideren qu insulto tan horrendo es eso
+entregarse a una siesta confortable! Consideren qué insulto tan horrendo es eso
 
-para el Rey del cielo. Acaso entraran en el palacio de su majestad, la reina,
+para el Rey del cielo. żAcaso entrarían en el palacio de su majestad, la reina,
 
-y pediran una audiencia, para luego echarse a dormir en su cara? Y, sin
+y pedirían una audiencia, para luego echarse a dormir en su cara? Y, sin
 
-embargo, el pecado de dormir en la presencia de su majestad no sera tan
+embargo, el pecado de dormir en la presencia de ‘su majestad’ no sería tan
 
 grande, incluso contra sus leyes, como el pecado de dormir intencionadamente en
 
-el santuario de Dios. Cuntas personas van a nuestras casas de adoracin, y no
+el santuario de Dios. Cuántas personas van a nuestras casas de adoración, y no
 
-se duermen, pero se sientan con una mirada vaca, escuchando como escucharan a
+se duermen, pero se sientan con una mirada vacía, escuchando como escucharían a
 
 un hombre que no puede tocar una tonada cautivante con un buen instrumento. Lo
 
-que entra por un odo sale por el otro. Todo lo que entra en el cerebro sale
+que entra por un oído sale por el otro. Todo lo que entra en el cerebro sale
 
-sin afectar jams al corazn.
+sin afectar jamás al corazón.
 
-Ah, mis oyentes,
+ˇAh, mis oyentes,
 
 ustedes son culpables de menospreciar el Evangelio de Cristo cuando escuchan un
 
-sermn sin prestarle atencin! Oh, cunto daran las almas perdidas por or
+sermón sin prestarle atención! ˇOh, cuánto darían las almas perdidas por oír
 
-otro sermn! Qu dara aquel pobre desgraciado que se est aproximando ahora a
+otro sermón! ˇQué daría aquel pobre desgraciado que se está aproximando ahora a
 
-la tumba, por otro da domingo! Y cunto daras t, uno de estos das, cuando
+la tumba, por otro día domingo! ˇY cuánto darías tú, uno de estos días, cuando
 
-ests a la orilla del Jordn, por poder recibir una advertencia ms, y escuchar
+estés a la orilla del Jordán, por poder recibir una advertencia más, y escuchar
 
-una vez ms la voz cortejadora del ministro de Dios! Nosotros desdeamos el
+una vez más la voz cortejadora del ministro de Dios! Nosotros desdeńamos el
 
-Evangelio cuando lo omos sin prestarle una solemne y seria atencin.
+Evangelio cuando lo oímos sin prestarle una solemne y seria atención.
 
 Pero algunas
 
@@ -496,55 +494,55 @@ en verdad,
 
 ponen
 
-atencin. Bien, es posible poner atencin al Evangelio, y, sin embargo,
+atención. Bien, es posible poner atención al Evangelio, y, sin embargo,
 
-desdearlo. He visto llorar a algunos hombres bajo la influencia de algn
+desdeńarlo. He visto llorar a algunos hombres bajo la influencia de algún
 
-poderoso sermn; he visto que las lgrimas ruedan unas tras otras: lgrimas,
+poderoso sermón; he visto que las lágrimas ruedan unas tras otras: lágrimas,
 
-benditas evidencias de las emociones internas. Algunas veces me he dicho a m
+benditas evidencias de las emociones internas. Algunas veces me he dicho a mí
 
 mismo: es maravilloso ver llorar a estas personas bajo la influencia de alguna
 
-palabra eficaz de Dios, que les est provocando una alarma, como si el propio
+palabra eficaz de Dios, que les está provocando una alarma, como si el propio
 
-Sina estuviese tronando en sus odos.
+Sinaí estuviese tronando en sus oídos.
 
-Pero hay algo ms
+Pero hay algo más
 
 maravilloso que el llanto de los hombres bajo la influencia de la palabra. Es
 
-el hecho de que pronto, demasiado pronto, se enjugan todas sus lgrimas. Pero,
+el hecho de que pronto, demasiado pronto, se enjugan todas sus lágrimas. Pero,
 
-ah!, mi querido oyente, recuerda que si t oyes acerca de estas cosas y te
+ˇah!, mi querido oyente, recuerda que si tú oyes acerca de estas cosas y te
 
-deshaces de alguna solemne impresin, al hacer eso, menosprecias a Dios y
+deshaces de alguna solemne impresión, al hacer eso, menosprecias a Dios y
 
-desdeas Su verdad; y ten mucho cuidado cuando hagas eso, para que tus propios
+desdeńas Su verdad; y ten mucho cuidado cuando hagas eso, para que tus propios
 
-vestidos no se manchen de rojo con la sangre de tu alma, y se diga: Te
+vestidos no se manchen de rojo con la sangre de tu alma, y se diga: “Te
 
-perdiste, oh Israel.
+perdiste, oh Israel.”
 
 Pero hay otras
 
 personas que la menosprecian de una manera diferente. Oyen la palabra y le
 
-ponen atencin; pero, ay!,
+ponen atención; pero, ˇay!,
 
 le ponen
 
-atencin conjuntamente a algo ms.
+atención conjuntamente a algo más.
 
-Oh, hombre que me
+ˇOh, hombre que me
 
-escuchas, t menosprecias a Cristo, si lo colocas en cualquier lugar, salvo en
+escuchas, tú menosprecias a Cristo, si lo colocas en cualquier lugar, salvo en
 
-el centro de tu corazn! Aquel que da a Cristo un poco de sus afectos,
+el centro de tu corazón! Aquel que da a Cristo un poco de sus afectos,
 
-menosprecia a Cristo, pues Cristo quiere recibir el corazn entero o no quiere
+menosprecia a Cristo, pues Cristo quiere recibir el corazón entero o no quiere
 
-recibir nada. Aquel que da a Cristo una porcin, y al mundo otra porcin,
+recibir nada. Aquel que da a Cristo una porción, y al mundo otra porción,
 
 desprecia a Cristo, pues cree que Cristo no merece recibir la totalidad. Y, en
 
@@ -552,83 +550,83 @@ tanto que dice eso, o piensa eso, tiene pensamientos rastreros y malvados
 
 acerca de Cristo.
 
-Oh, hombre carnal,
+ˇOh, hombre carnal,
 
-t eres medio religioso y medio profano; t eres algunas veces serio, pero con
+tú eres medio religioso y medio profano; tú eres algunas veces serio, pero con
 
-frecuencia eres frvolo; algunas veces eres aparentemente piadoso, pero con
+frecuencia eres frívolo; algunas veces eres aparentemente piadoso, pero con
 
-frecuencia eres perverso, pues t menosprecias a Cristo! Y, ustedes, que lloran
+frecuencia eres perverso, pues tú menosprecias a Cristo! Y, ustedes, que lloran
 
-el da domingo y luego regresan a sus pecados el da lunes; ustedes, que ponen
+el día domingo y luego regresan a sus pecados el día lunes; ustedes, que ponen
 
-al mundo y sus placeres por encima de Cristo, tienen menor estima por l de la
+al mundo y sus placeres por encima de Cristo, tienen menor estima por Él de la
 
-que merece; y, qu es eso sino desdearlo? Oh!, te exhorto, amigo que me
+que merece; y, żqué es eso sino desdeńarlo? ˇOh!, te exhorto, amigo que me
 
-escuchas esta noche, a que te preguntes si no eres ese hombre. No menosprecias
+escuchas esta noche, a que te preguntes si no eres ese hombre. żNo menosprecias
 
-t mismo a Cristo? El hombre con justicia propia, que se coloca a s mismo como
+tú mismo a Cristo? El hombre con justicia propia, que se coloca a sí mismo como
 
-socio de Cristo en el asunto de la salvacin, no obstante sus buenas obras de
+socio de Cristo en el asunto de la salvación, no obstante sus buenas obras de
 
 hojarasca, es tal cabecilla entre los despreciadores, que yo quisiera ponerlo
 
 en la picota en el propio centro de ellos, y pedirles a todos los que son como
 
-l que tiemblen, para que no sean encontrados ellos tambin menospreciadores de
+él que tiemblen, para que no sean encontrados ellos también menospreciadores de
 
-Jess.
+Jesús.
 
-Adems, menosprecia
+Además, menosprecia
 
 a Cristo
 
-quien hace una profesin de
+quien hace una profesión de
 
-religin, y, sin embargo, no vive de acuerdo con ella.
+religión, y, sin embargo, no vive de acuerdo con ella.
 
-Ah, miembros de la
+ˇAh, miembros de la
 
 iglesia, ustedes necesitan una buena zarandeada!; tenemos ahora una inmensa
 
-cantidad de cizaa mezclada con el trigo; y algunas veces pienso que tenemos
+cantidad de cizańa mezclada con el trigo; y algunas veces pienso que tenemos
 
 algo peor que eso. Tenemos algunas personas en nuestra iglesia que no son tan
 
-buenas como la cizaa, pues no parecieran haber estado cerca del trigo del
+buenas como la cizańa, pues no parecieran haber estado cerca del trigo del
 
 todo; no son nada mejor que el tamo. Han entrado a nuestras iglesias, justo
 
-igual que si hubieran entrado a una asociacin comercial, porque piensan que su
+igual que si hubieran entrado a una asociación comercial, porque piensan que su
 
-negocio mejorar. Tomar el sacramento proporciona respetabilidad a su nombre;
+negocio mejorará. Tomar el sacramento proporciona respetabilidad a su nombre;
 
 haber sido bautizados o ser miembros de una iglesia cristiana los vuelve
 
-estimables; y as, entran en grandes cantidades en pos de los panes y de los
+estimables; y así, entran en grandes cantidades en pos de los panes y de los
 
 peces, pero no en pos de Jesucristo.
 
-Ah, hipcrita, t
+ˇAh, hipócrita, tú
 
-menosprecias a Cristo si piensas que l es un pretexto para allegarte riquezas!
+menosprecias a Cristo si piensas que Él es un pretexto para allegarte riquezas!
 
-Si t sueas que has de poner montura y freno a Cristo, y cabalgar hacia las
+Si tú sueńas que has de poner montura y freno a Cristo, y cabalgar hacia las
 
-riquezas en l, cometes un grave error, pues nunca tuvo la intencin de llevar
+riquezas en Él, cometes un grave error, pues nunca tuvo la intención de llevar
 
-a los hombres a ninguna parte excepto al cielo. Si t supones que la religin
+a los hombres a ninguna parte excepto al cielo. Si tú supones que la religión
 
-tena el propsito de dar lustre a tu hogar, de alfombrar tus pisos y forrar tus
+tenía el propósito de dar lustre a tu hogar, de alfombrar tus pisos y forrar tus
 
-bolsas, te has equivocado grandemente. Tiene el propsito de ser provechosa
+bolsas, te has equivocado grandemente. Tiene el propósito de ser provechosa
 
-para el alma; y aquel que piensa usar la religin para su propia ventaja
+para el alma; y aquel que piensa usar la religión para su propia ventaja
 
-personal, menosprecia a Cristo; y en el ltimo da, este crimen le ser imputado
+personal, menosprecia a Cristo; y en el último día, este crimen le será imputado
 
-en su contra: que le ha menospreciado; y el Rey enviar a sus ejrcitos para
+en su contra: que le ha “menospreciado”; y el Rey enviará a sus ejércitos para
 
 cortarlo en pedazos, entre aquellos que despreciaron a Su Majestad, y no
 
@@ -636,7 +634,7 @@ quisieron obedecer Sus leyes.
 
 III.
 
-Y ahora, en tercer lugar, les dir POR QU LO HAN MENOSPRECIADO. Lo han
+Y ahora, en tercer lugar, les diré POR QUÉ LO HAN MENOSPRECIADO. Lo han
 
 hecho por diferentes razones.
 
@@ -648,87 +646,87 @@ porque eran ignorantes;
 
 no
 
-saban cun excelente era la fiesta, no saban cun generoso era el rey, no
+sabían cuán excelente era la fiesta, no sabían cuán generoso era el rey, no
 
-saban cun hermoso era el Prncipe, pues, de otra manera, habran pensado de
+sabían cuán hermoso era el Príncipe, pues, de otra manera, habrían pensado de
 
-manera diferente. Ahora, hay muchas personas presentes esta noche que desdean
+manera diferente. Ahora, hay muchas personas presentes esta noche que desdeńan
 
-el Evangelio porque no lo entienden. He odo a menudo a la gente rerse de la
+el Evangelio porque no lo entienden. He oído a menudo a la gente reírse de la
 
-religin; pero pregntales en qu consiste, y no saben ms de la religin de lo
+religión; pero pregúntales en qué consiste, y no saben más de la religión de lo
 
-que sabe un caballo, y todava es peor, pues creen cosas errneas acerca de
+que sabe un caballo, y todavía es peor, pues creen cosas erróneas acerca de
 
-ella, y un caballo no hace eso. Se ren de la religin, simplemente, porque no
+ella, y un caballo no hace eso. Se ríen de la religión, simplemente, porque no
 
-la entienden; es algo que est ms all de su alcance.
+la entienden; es algo que está más allá de su alcance.
 
 Nos hemos enterado
 
-de un necio que, siempre que se mencionaba un pasaje en latn, se rea, porque
+de un necio que, siempre que se mencionaba un pasaje en latín, se reía, porque
 
-pensaba que era un chiste, o, de cualquier manera, era una manera muy ridcula
+pensaba que era un chiste, o, de cualquier manera, era una manera muy ridícula
 
-de hablar, y, por eso se rea. Lo mismo sucede con muchas personas cuando oyen
+de hablar, y, por eso se reía. Lo mismo sucede con muchas personas cuando oyen
 
-el Evangelio; no saben lo que es, y, por tanto, se ren. Oh!,
+el Evangelio; no saben lo que es, y, por tanto, se ríen. “ˇOh!”,
 
-―dicen― ese hombre est loco. Pero, por qu est loco? Porque no
+―dicen― “ese hombre está loco”. Pero, żpor qué está loco? Porque no
 
-le entiendes. Eres tan soberbio como para suponer que toda la sabidura y todo
+le entiendes. żEres tan soberbio como para suponer que toda la sabiduría y todo
 
-el conocimiento han de descansar en ti? Yo te sugerira que la locura est de
+el conocimiento han de descansar en ti? Yo te sugeriría que la locura está de
 
-tu lado. Y aunque pudieras decir de l: Muchas letras te han vuelto loco;
+tu lado. Y aunque pudieras decir de él: “Muchas letras te han vuelto loco”;
 
-nosotros replicaramos: es muy fcil volverse loco cuando no se tiene ningn
+nosotros replicaríamos: “es muy fácil volverse loco cuando no se tiene ningún
 
-conocimiento en absoluto. Y aquellos que no poseen ninguno, y especialmente
+conocimiento en absoluto.” Y aquellos que no poseen ninguno, y especialmente
 
-aquellos que no tienen ningn conocimiento de Cristo, son los ms propensos a
+aquellos que no tienen ningún conocimiento de Cristo, son los más propensos a
 
 despreciarle. Bien dijo Watts:
 
-Si todas las naciones conocieran Su valor,
+“Si todas las naciones conocieran Su valor,
 
-Seguramente, la tierra entera le amara.
+Seguramente, la tierra entera le amaría.”
 
-Oh, queridos amigos!,
+ˇOh, queridos amigos!,
 
-si ustedes supieran cun bendito maestro es Cristo, si ustedes supieran qu
+si ustedes supieran cuán bendito maestro es Cristo, si ustedes supieran qué
 
 cosa tan bendita es el Evangelio, si pudieran ser conducidos a creer que Dios es
 
 un Dios muy bendito, si pudieran tener una hora del goce que experimenta el
 
-cristiano, si pudieran experimentar una promesa aplicada a su corazn, nunca
+cristiano, si pudieran experimentar una promesa aplicada a su corazón, nunca
 
-menospreciaran otra vez el Evangelio.
+menospreciarían otra vez el Evangelio.
 
-Oh, t dices que no
+ˇOh, tú dices que no
 
-te gusta! Vamos, no lo has probado nunca? Despreciara un hombre el vino del
+te gusta! Vamos, żno lo has probado nunca? żDespreciaría un hombre el vino del
 
-cual no ha dado ningn sorbo? Podra ser ms dulce de lo que se imagina. Oh,
+cual no ha dado ningún sorbo? Podría ser más dulce de lo que se imagina. ˇOh,
 
-gustad y ved que es bueno Jehov!; y es muy seguro que si lo pruebas una vez,
+gustad y ved que es bueno Jehová!; y es muy seguro que si lo pruebas una vez,
 
-vers Su bondad. Me aventurar a decir, otra vez, que hay muchas personas que
+verás Su bondad. Me aventuraré a decir, otra vez, que hay muchas personas que
 
 menosprecian el Evangelio, simplemente, debido a su ignorancia; y si eso es
 
-as, tengo de alguna manera la esperanza de que cuando sean iluminadas un poco
+así, tengo de alguna manera la esperanza de que cuando sean iluminadas un poco
 
-por asistir a escuchar la Palabra, el Seor se agrade en llevarlos a S por
+por asistir a escuchar la Palabra, el Seńor se agrade en llevarlos a Sí por
 
-gracia; y entonces yo s que nunca ms menospreciarn a Cristo. Oh, no sean
+gracia; y entonces yo sé que nunca más menospreciarán a Cristo. ˇOh, no sean
 
-ignorantes, pues el alma sin ciencia no es buena! Busquen conocerle, ya que
+ignorantes, pues “el alma sin ciencia no es buena”! Busquen conocerle, ya que
 
 conocerle rectamente es la vida eterna; y cuando le conozcan, nunca le
 
-menospreciarn.
+menospreciarán.
 
 Otras personas le
 
@@ -736,283 +734,283 @@ menosprecian
 
 debido al orgullo.
 
-de
+“żde
 
-qu me sirve, ―dice alguien― que me traigas esa invitacin? Entra
+qué me sirve”, ―dice alguien― “que me traigas esa invitación? Entra
 
-en mi casa, amigo, y yo te mostrar una fiesta tan buena como cualquiera de la
+en mi casa, amigo, y yo te mostraré una fiesta tan buena como cualquiera de la
 
-que pudieras hablarme. Mira esto! Aqu puedes comer opparamente; mi mesa est
+que pudieras hablarme. ˇMira esto! Aquí puedes comer opíparamente; mi mesa está
 
 tan bien surtida como la mejor; que me perdone su Majestad, pero el Rey no
 
-puede dar una mejor fiesta que yo; y no veo por qu he de andar arrastrando mis
+puede dar una mejor fiesta que yo; y no veo por qué he de andar arrastrando mis
 
-huesos por all, si no voy a conseguir nada mejor de lo que puedo conseguir en
+huesos por allí, si no voy a conseguir nada mejor de lo que puedo conseguir en
 
-casa. As que no quiso ir debido a su orgullo.
+casa.” Así que no quiso ir debido a su orgullo.
 
 Y lo mismo sucede
 
 con algunos de ustedes.
 
-T
+ˇTú
 
 necesitas
 
-ser lavado! No, nunca fuiste inmundo, no es cierto?
+ser lavado! No, nunca fuiste inmundo, żno es cierto?
 
-T
+ˇTú
 
-necesitas ser perdonado! Oh, no, t eres demasiado bueno para
+necesitas ser perdonado! ˇOh, no, tú eres demasiado bueno para
 
-eso! Vamos, t eres tan tremendamente piadoso en tu propia opinin, que si todo
+eso! Vamos, tú eres tan tremendamente piadoso en tu propia opinión, que si todo
 
-fuera verdad, haras que incluso el ngel Gabriel se sonrojara al pensar en ti.
+fuera verdad, harías que incluso el ángel Gabriel se sonrojara al pensar en ti.
 
-T no consideras que un ngel sea capaz ni siquiera de sostener una vela para
+Tú no consideras que un ángel sea capaz ni siquiera de sostener una vela para
 
-ti. Cmo! Qu t busques misericordia? Eso es un insulto para ti. Anda, y
+ti. ˇCómo! żQué tú busques misericordia? Eso es un insulto para ti. “Anda, y
 
-dselo al borracho ―comentas― anda y trae a la ramera; yo soy un
+díselo al borracho” ―comentas― “anda y trae a la ramera; yo soy un
 
 hombre respetable; yo voy siempre a la iglesia o a la capilla; yo soy un buen
 
-individuo; puedo jaranear de vez en cuando, pero lo compenso algn otro da;
+individuo; puedo jaranear de vez en cuando, pero lo compenso algún otro día;
 
 algunas veces soy un poco negligente, pero, entonces, le pongo las riendas a
 
-los caballos, y cubro la distancia despus; y me atrevera a decir que voy a ir
+los caballos, y cubro la distancia después; y me atrevería a decir que voy a ir
 
-al cielo tan fcilmente como los dems. Yo soy un tipo muy bueno.
+al cielo tan fácilmente como los demás. Yo soy un tipo muy bueno.”
 
-Bien, amigo mo, no
+Bien, amigo mío, no
 
-me sorprende que desprecies el Evangelio, pues el Evangelio slo te dice que
+me sorprende que desprecies el Evangelio, pues el Evangelio sólo te dice que
 
-ests enteramente perdido. Te dice que tu justicia propia est llena de pecado.
+estás enteramente perdido. Te dice que tu justicia propia está llena de pecado.
 
 Te dice que, en cuanto a cualquier esperanza de ser salvado por tu justicia
 
-propia, podras, de igual manera, intentar navegar a travs del Atlntico sobre
+propia, podrías, de igual manera, intentar navegar a través del Atlántico sobre
 
 una hoja marchita, que llegar al cielo por medio de tu justicia propia. Y en
 
-cuanto a que es un vestido adecuado para cubrirte, podras, de igual manera,
+cuanto a que es un vestido adecuado para cubrirte, podrías, de igual manera,
 
-tomar una telaraa para ir a la corte y considerarla un vestido apropiado para
+tomar una telarańa para ir a la corte y considerarla un vestido apropiado para
 
 presentarte delante de su Majestad.
 
-Ah, mi oyente!, yo
+ˇAh, mi oyente!, yo
 
-s por qu desprecias a Cristo; es por causa de tu orgullo satnico. Que el
+sé por qué desprecias a Cristo; es por causa de tu orgullo satánico. Que el
 
-Seor te despoje de tu orgullo; pues si no lo hace, ser el tizn que rostizar
+Seńor te despoje de tu orgullo; pues si no lo hace, será el tizón que rostizará
 
-tu alma para siempre. Cudate del orgullo; los ngeles cayeron por el orgullo.
+tu alma para siempre. Cuídate del orgullo; los ángeles cayeron por el orgullo.
 
-Cmo pueden los hombres, entonces, aunque sean la imagen de su Creador,
+żCómo pueden los hombres, entonces, aunque sean la imagen de su Creador,
 
-esperar ganar por medio de l? Evtenlo, huyan de l; pues tan ciertamente como
+esperar ganar por medio de él? Evítenlo, huyan de él; pues tan ciertamente como
 
-eres altivo, incurrirs en la culpa de menospreciar a Cristo.
+eres altivo, incurrirás en la culpa de menospreciar a Cristo.
 
-Tal vez, un nmero
+Tal vez, un número
 
-equivalente menospreci la buenas nuevas, porque
+equivalente menospreció la buenas nuevas, porque
 
 no le creyeron al mensajero.
 
-Oh!, ―dijeron― detente
+“ˇOh!”, ―dijeron― “detente
 
-un momento. Cmo!, ser ofrecida una cena? No lo creo. Qu!, el joven
+un momento. ˇCómo!, żserá ofrecida una cena? No lo creo. ˇQué!, żel joven
 
-Prncipe se va a casar? Cuntaselo a los necios, ya que nosotros no creemos una
+Príncipe se va a casar? Cuéntaselo a los necios, ya que nosotros no creemos una
 
-cosa as. No lo creemos; la historia es increble. El pobre mensajero regres
+cosa así. No lo creemos; la historia es increíble.” El pobre mensajero regresó
 
-a casa y le dijo a su Seor que no le quisieron creer. Esa es precisamente otra
+a casa y le dijo a su Seńor que no le quisieron creer. Esa es precisamente otra
 
-razn del por qu muchas personas desdean el Evangelio, porque no lo creen.
+razón del por qué muchas personas desdeńan el Evangelio, porque no lo creen.
 
-Qu, ―dicen― Jesucristo muri para limpiar a los hombres de sus
+“żQué”, ―dicen― “Jesucristo murió para limpiar a los hombres de sus
 
-pecados? No lo creemos. Cmo! Un cielo! Quin lo vio alguna vez? Un
+pecados? No lo creemos. ˇCómo! ˇUn cielo! żQuién lo vio alguna vez? ˇUn
 
-infierno! Quin oy jams sus gemidos? Cmo! La eternidad! Quin regres
+infierno! żQuién oyó jamás sus gemidos? ˇCómo! ˇLa eternidad! żQuién regresó
 
-jams de esa ltima esperanza de todo espritu? Cmo! Bendicin en la
+jamás de esa última esperanza de todo espíritu? ˇCómo! żBendición en la
 
-religin? No lo creemos: es una cosa entorpecedora y miserable. Cmo! Dulzura
+religión? No lo creemos: es una cosa entorpecedora y miserable. ˇCómo! żDulzura
 
 en las promesas? No, no la hay; nosotros creemos que hay dulzura en el mundo,
 
-pero no creemos que haya ninguna dulzura en los pozos que el Seor ha cavado.
+pero no creemos que haya ninguna dulzura en los pozos que el Seńor ha cavado.”
 
-Y as, ellos desprecian el Evangelio, porque no lo creen. Pero, yo estoy seguro
+Y así, ellos desprecian el Evangelio, porque no lo creen. Pero, yo estoy seguro
 
-de que, una vez que un hombre cree en l, nunca lo menosprecia. Si yo tengo una
+de que, una vez que un hombre cree en él, nunca lo menosprecia. Si yo tengo una
 
-solemne conviccin en mi corazn, por el Espritu Santo, de que si no soy
+solemne convicción en mi corazón, por el Espíritu Santo, de que si no soy
 
-salvo, hay un golfo abierto que me devorar; piensas que puedo ir a descansar
+salvo, hay un golfo abierto que me devorará; żpiensas que puedo ir a descansar
 
-despus de haber temblado de la cabeza a los pies? Si creo de corazn que hay
+después de haber temblado de la cabeza a los pies? Si creo de corazón que hay
 
-un cielo provisto para aquellos que creen en Cristo, piensas que puedo dar
+un cielo provisto para aquellos que creen en Cristo, żpiensas que puedo dar
 
-sueo a mis ojos, o descanso a mis prpados despus de haber llorado porque no
+sueńo a mis ojos, o descanso a mis párpados después de haber llorado porque no
 
-es mo? Yo creo que no.
+es mío? Yo creo que no.
 
 Pero la incredulidad
 
-infame introduce su mano en la boca de un hombre, y le arranca su corazn, y,
+infame introduce su mano en la boca de un hombre, y le arranca su corazón, y,
 
-as, le destruye, pues no le permitir creer, y, por tanto, no puede sentir,
+así, le destruye, pues no le permitirá creer, y, por tanto, no puede sentir,
 
-porque no cree. Oh, amigos mos, la incredulidad conduce a los hombres a
+porque no cree. ˇOh, amigos míos, la incredulidad conduce a los hombres a
 
 menospreciar a Cristo, pero la incredulidad no permanece para siempre! No hay
 
-infieles en el infierno: todos son creyentes all. Hay muchos que fueron
+infieles en el infierno: todos son creyentes allí. Hay muchos que fueron
 
-infieles aqu, pero no lo son ahora; las llamas son demasiado hirvientes para
+infieles aquí, pero no lo son ahora; las llamas son demasiado hirvientes para
 
-hacerlos dudar de su existencia. Es difcil que un hombre, en medio del
+hacerlos dudar de su existencia. Es difícil que un hombre, en medio del
 
-tormento de las llamas, dude de la existencia del fuego. Sera difcil que un
+tormento de las llamas, dude de la existencia del fuego. Sería difícil que un
 
-hombre, estando delante del ojo ardiente de un Dios, dude despus de eso de la
+hombre, estando delante del ojo ardiente de un Dios, dude después de eso de la
 
-existencia de un Dios. Ah, incrdulos! Arrepintanse, o ms bien, que el Seor
+existencia de un Dios. ˇAh, incrédulos! Arrepiéntanse, o más bien, que el Seńor
 
-los vuelva de su incredulidad, pues esto les hace desdear a Cristo; y esto es
+los vuelva de su incredulidad, pues esto les hace desdeńar a Cristo; y esto es
 
-lo que les est quitando la vida, y destruyendo sus almas.
+lo que les está quitando la vida, y destruyendo sus almas.
 
 Otro conjunto de
 
-personas menospreci esta fiesta
+personas menospreció esta fiesta
 
 porque
 
 eran muy mundanos;
 
-tenan que hacer demasiadas cosas. Me he enterado de un
+tenían que hacer demasiadas cosas. Me he enterado de un
 
-rico comerciante que fue visitado un da por un hombre piadoso, y cuando le
+rico comerciante que fue visitado un día por un hombre piadoso, y cuando le
 
-tuvo enfrente, le dijo: bien, seor, cul es el estado de su alma? Alma!,
+tuvo enfrente, le dijo: “bien, seńor, żcuál es el estado de su alma?” “ˇAlma!”,
 
-―le respondi― maldita sea! No tengo tiempo de cuidar mi alma;
+―le respondió― “ˇmaldita sea! No tengo tiempo de cuidar mi alma;
 
-tengo suficientes cosas que hacer cuidando mis barcos. Aproximadamente una
+tengo suficientes cosas que hacer cuidando mis barcos.” Aproximadamente una
 
-semana despus sucedi que tuvo que encontrar tiempo para morir, pues Dios se
+semana después sucedió que tuvo que encontrar tiempo para morir, pues Dios se
 
-lo llev. Tememos que Dios le dijo: Necio, esta noche vienen a pedirte tu
+lo llevó. Tememos que Dios le dijo: “Necio, esta noche vienen a pedirte tu
 
-alma; y lo que has provisto, de quin ser? Ustedes, comerciantes de Londres,
+alma; y lo que has provisto, żde quién será?” Ustedes, comerciantes de Londres,
 
-hay muchos de ustedes que leen ms sus libros de contabilidad que sus Biblias.
+hay muchos de ustedes que leen más sus libros de contabilidad que sus Biblias.
 
 Tal vez deban hacerlo, pero ustedes no leen sus Biblias del todo, y, en cambio,
 
-revisan sus libros de contabilidad todos los das.
+revisan sus libros de contabilidad todos los días.
 
 Se dice que en
 
-Amrica adoran al dlar todopoderoso; yo creo que en Londres, muchas personas
+América adoran al dólar todopoderoso; yo creo que en Londres, muchas personas
 
 adoran a nuestras monedas de oro todopoderosas; tienen el mayor respeto posible
 
-por un pagar bancario; ese es el dios que muchos hombres estn adorando
+por un pagaré bancario; ese es el dios que muchos hombres están adorando
 
-siempre. El libro de oracin que llevan muy religiosamente en sus manos es su
+siempre. El libro de oración que llevan muy religiosamente en sus manos es su
 
 libro del registro de efectivo. Incluso los domingos, hay un caballero por
 
-all, ―no piensa que su capataz lo sepa― pero estuvo sentado toda
+allá, ―no piensa que su capataz lo sepa― pero estuvo sentado toda
 
-la maana dentro de la oficina, porque estaba lloviendo, haciendo sus cuentas;
+la mańana dentro de la oficina, porque estaba lloviendo, haciendo sus cuentas;
 
-y ahora asiste aqu en la noche, porque es un hombre muy piadoso,
+y ahora asiste aquí en la noche, porque es un hombre muy piadoso,
 
-extraordinariamente piadoso. l sera capaz de cerrar los parques los domingos,
+extraordinariamente piadoso. Él sería capaz de cerrar los parques los domingos,
 
-l querra que ninguna persona recibiera aire puro, porque es muy piadoso, pero
+él querría que ninguna persona recibiera aire puro, porque es muy piadoso, pero
 
-l mismo puede sentarse medio da en la oficina, el da domingo, para contar su
+él mismo puede sentarse medio día en la oficina, el día domingo, para contar su
 
-dinero, y no lo considera pecado. Pero algunos estn demasiado ocupados para
+dinero, y no lo considera pecado. Pero algunos están demasiado ocupados para
 
-pensar en estas cosas. Orar!, ―dicen― no tengo tiempo para eso;
+pensar en estas cosas. “ˇOrar!”, ―dicen― “no tengo tiempo para eso;
 
-tengo que pagar. Qu? Leer la Biblia? No, no puedo; tengo que supervisar esto
+tengo que pagar. żQué? żLeer la Biblia? No, no puedo; tengo que supervisar esto
 
-y aquello, y revisar el desempeo de los mercados. Yo encuentro el tiempo para
+y aquello, y revisar el desempeńo de los mercados. Yo encuentro el tiempo para
 
-leer el peridico
+leer el periódico
 
 Tiempos,
 
 pero no
 
-podra pensar en leer la Biblia. Ser maravillosamente desafortunado para
+podría pensar en leer la Biblia”. Será maravillosamente desafortunado para
 
 algunos de ustedes cuando descubran que el contrato de renta de sus vidas es
 
-ms bien ms corto lo que esperaban. Si hubieran firmado un contrato por sus
+más bien más corto lo que esperaban. Si hubieran firmado un contrato por sus
 
-vidas por ochenta y ocho aos a partir de este momento, seran muy necios, tal
+vidas por ochenta y ocho ańos a partir de este momento, serían muy necios, tal
 
 vez, al gastar cuarenta y cuatro de ellos en el pecado. Pero considerando que
 
-son arrendatarios a discrecin, y sujetos a ser sacados cualquier da, es el
+son arrendatarios a discreción, y sujetos a ser sacados cualquier día, es el
 
-colmo de la necedad, el propio clmax del absurdo, ―que excede todo lo
+colmo de la necedad, el propio clímax del absurdo, ―que excede todo lo
 
-que el bufn, con su gorra y sus campanillas hizo jams― vivir
+que el bufón, con su gorra y sus campanillas hizo jamás― vivir
 
 simplemente para recoger las riquezas mal habidas de este mundo, y no vivir
 
 para las cosas venideras. La mundanalidad es un demonio que ha estrujado el
 
-cuello de muchas almas; que Dios nos conceda que no perezcamos debido a
+cuello de muchas almas; ˇque Dios nos conceda que no perezcamos debido a
 
 nuestra mundanalidad!
 
 Hay otra clase de
 
-personas que slo puedo caracterizar de esta manera:
+personas que sólo puedo caracterizar de esta manera:
 
 son enteramente atolondradas.
 
 Si les preguntas algo concerniente a
 
-la religin, no tienen ninguna opinin en absoluto al respecto. No la detestan
+la religión, no tienen ninguna opinión en absoluto al respecto. No la detestan
 
 positivamente, ni se burlan de ella; pero no tienen ni idea al respecto. El
 
-hecho es que tienen la intencin de pensar al respecto en un futuro. La suya es
+hecho es que tienen la intención de pensar al respecto en un futuro. La suya es
 
 un tipo de existencia de mariposas; siempre revolotean por todos lados, sin
 
-hacer nunca nada, ni para otros ni para s mismas. Y estas son personas muy
+hacer nunca nada, ni para otros ni para sí mismas. Y estas son personas muy
 
-amigables; siempre estn listas a dar algn dinero para una caridad; nunca
+amigables; siempre están listas a dar algún dinero para una caridad; nunca
 
-rechazan a nadie, aunque daran su dinero de la misma manera si fuera para un
+rechazan a nadie, aunque darían su dinero de la misma manera si fuera para un
 
-juego de crquet o para una iglesia. Ahora, si yo fuere forzado a regresar al
+juego de críquet o para una iglesia. Ahora, si yo fuere forzado a regresar al
 
-mundo, y tuviera que elegir el carcter que querra ser, la ltima posicin que
+mundo, y tuviera que elegir el carácter que querría ser, la última posición que
 
-deseara ocupar sera la del hombre atolondrado. Yo creo que las personas
+desearía ocupar sería la del hombre atolondrado. Yo creo que las personas
 
-irreflexivas son las que estn en mayor peligro de caer en la perdicin, de
+irreflexivas son las que están en mayor peligro de caer en la perdición, de
 
 todas las clases que conozco.
 
@@ -1020,265 +1018,265 @@ Algunas veces me
 
 gusta dirigir la palabra a un hombre completamente resuelto, inflexible, y que
 
-odia el Evangelio, pues su corazn es como un pedernal, y cuando es golpeado
+odia el Evangelio, pues su corazón es como un pedernal, y cuando es golpeado
 
 con el martillo del Evangelio, el pedernal queda destrozado en un instante.
 
-Pero estas personas atolondradas poseen corazones de goma elstica: las
+Pero estas personas atolondradas poseen corazones de goma elástica: las
 
-golpeas, y ceden; las golpeas de nuevo, y vuelven a ceder. Si estn enfermas, y
+golpeas, y ceden; las golpeas de nuevo, y vuelven a ceder. Si están enfermas, y
 
-las visitas, te dicen: s. Cuando les hablas acerca de la importancia de la
+las visitas, te dicen: “sí”. Cuando les hablas acerca de la importancia de la
 
-religin; te dicen: s. Cuando les hablas acerca de escapar del infierno y
+religión; te dicen: “sí”. Cuando les hablas acerca de escapar del infierno y
 
-entrar al cielo, te dicen: s. Les predicas un sermn cuando ya estn mejor,
+entrar al cielo, te dicen: “sí”. Les predicas un sermón cuando ya están mejor,
 
-y les recuerdas los votos que hicieron durante su enfermedad; eso es correcto,
+y les recuerdas los votos que hicieron durante su enfermedad; “eso es correcto,
 
-seor, te dicen. Y responden lo mismo sin importar lo que les digas. Son
+seńor”, te dicen. Y responden lo mismo sin importar lo que les digas. Son
 
 siempre muy corteses contigo, pero hacen a un lado cualquier cosa que les
 
-digas. Si comienzas a hablarles acerca de los borrachos, oh!, ellos no son
+digas. Si comienzas a hablarles acerca de los borrachos, ˇoh!, ellos no son
 
-borrachos; tal vez se emborracharon accidentalmente en alguna ocasin, pero esa
+borrachos; tal vez se emborracharon accidentalmente en alguna ocasión, pero esa
 
-fue una pequea cosa fuera de lo usual. Y presntales cualquier pecado que
+fue una pequeńa cosa fuera de lo usual. Y preséntales cualquier pecado que
 
 quieras a ellos, y pueden golpearlos, y golpearlos, pero no sirve de nada, pues
 
-no son quebrantados ni la mitad de fcilmente (hablando a la manera de los
+no son quebrantados ni la mitad de fácilmente (hablando a la manera de los
 
-hombres), que el hombre de verdadero corazn firme que odia el Evangelio.
+hombres), que el hombre de verdadero corazón firme que odia el Evangelio.
 
 Vamos, hay un
 
-marinero que regresa a casa de su travesa en el mar, jurando, blasfemando, y
+marinero que regresa a casa de su travesía en el mar, jurando, blasfemando, y
 
-maldiciendo; entra en la casa de Dios, y el Espritu aplica casi la primera
+maldiciendo; entra en la casa de Dios, y el Espíritu aplica casi la primera
 
-palabra para quebrantar el corazn de Juan. Otro joven dice: yo s lo que
+palabra para quebrantar el corazón de Juan. Otro joven dice: “yo sé lo que
 
-cualquier ministro pudiera decirme; pues mi propia madre me ense, y mi
+cualquier ministro pudiera decirme; pues mi propia madre me enseńó, y mi
 
-anciano padre sola leerme la Biblia hasta el punto de tener, ―yo
+anciano padre solía leerme la Biblia hasta el punto de tener, ―yo
 
-creo― cada partcula de ella en mi cabeza. Voy a la capilla por causa del
+creo― cada partícula de ella en mi cabeza. Voy a la capilla por causa del
 
-respeto a su memoria, pero realmente no me importa nada de todo eso; eso est
+respeto a su memoria, pero realmente no me importa nada de todo eso; eso está
 
-muy bien para los ancianos, est muy bien para las ancianas, y para quienes se
+muy bien para los ancianos, está muy bien para las ancianas, y para quienes se
 
-estn muriendo en los tiempos del clera. Es algo muy bueno, pero yo no tengo
+están muriendo en los tiempos del cólera. Es algo muy bueno, pero yo no tengo
 
-ningn inters en eso por el momento.
+ningún interés en eso por el momento.”
 
 Ahora, yo les digo
 
 muy solemnemente, personas descuidadas, que ustedes son los propios socorristas
 
-del diablo; ustedes constituyen su reserva; l los mantiene alejados de la
+del diablo; ustedes constituyen su reserva; él los mantiene alejados de la
 
-batalla; no los enva al frente como enva al blasfemo, pues teme que algn
+batalla; no los envía al frente como envía al blasfemo, pues teme que algún
 
-disparo podra caer casualmente sobre ustedes, y podran ser salvados. Pero l
+disparo podría caer casualmente sobre ustedes, y podrían ser salvados. Pero él
 
-dice: espera aqu, y si has de salir yo te proporcionar una cota de malla
+dice: “espera aquí, y si has de salir yo te proporcionaré una cota de malla
 
-impenetrable. Las flechas vuelan zumbando contra ti: todas te alcanzan, pero,
+impenetrable.” Las flechas vuelan zumbando contra ti: todas te alcanzan, pero,
 
-ay!, ni una sola de ellas penetra en tu corazn, pues se se qued en alguna
+ˇay!, ni una sola de ellas penetra en tu corazón, pues ése se quedó en alguna
 
-otra parte. T eres solamente una crislida vaca.
+otra parte. Tú eres solamente una crisálida vacía.
 
 Cuando vienes a la casa de Dios, y se predica
 
-Su palabra, la desdeas, pues tu hbito consiste en ser atolondrado acerca de
+Su palabra, la desdeńas, pues tu hábito consiste en ser atolondrado acerca de
 
 todo.
 
 Tengo que tocar otro
 
-caso muy brevemente, y luego los dejar ir. Pueden desdear el Evangelio
+caso muy brevemente, y luego los dejaré ir. Pueden desdeńar el Evangelio
 
-debido a una consumada presuncin
+debido a una consumada presunción
 
 . Son
 
 como el necio, que sigue adelante y es castigado; no son como el hombre
 
-prudente, que ve el mal y se esconde. Ellos siguen adelante; ese paso es
+prudente, que “ve el mal y se esconde.” Ellos siguen adelante; ese paso es
 
-seguro, y lo dan; el siguiente paso es seguro, y tambin lo dan; su pie se
+seguro, y lo dan; el siguiente paso es seguro, y también lo dan; su pie se
 
-balancea sobre el abismo de tinieblas; pero intentarn dar un paso, y como ese
+balancea sobre el abismo de tinieblas; pero intentarán dar un paso, y como ese
 
-paso es seguro, piensan que intentarn dar el siguiente; y como el ltimo ha
+paso es seguro, piensan que intentarán dar el siguiente; y como el último ha
 
-sido seguro, y como durante muchos aos han dado pasos seguros, suponen que
+sido seguro, y como durante muchos ańos han dado pasos seguros, suponen que
 
-siempre los darn; y como todava no han muerto, piensan que nunca morirn. Y
+siempre los darán; y como todavía no han muerto, piensan que nunca morirán. Y
 
-as, por pura presuncin, pensando que todos los hombres son mortales, excepto
+así, por pura presunción, pensando que “todos los hombres son mortales, excepto
 
-ellos, prosiguen su camino menospreciando a Cristo. Tiemblen, ustedes, hombres
+ellos”, prosiguen su camino menospreciando a Cristo. Tiemblen, ustedes, hombres
 
-presuntuosos, ya que no siempre sern capaces de hacer eso.
+presuntuosos, ya que no siempre serán capaces de hacer eso.
 
-Y, por ltimo, me
+Y, por último, me
 
-temo que hay una gran cantidad de personas que desdean a Cristo
+temo que hay una gran cantidad de personas que desdeńan a Cristo
 
-debido al carcter comn del Evangelio.
+debido al carácter común del Evangelio.
 
 Es
 
-predicado en todas partes, y esa es la razn por la que lo desdean. Pueden
+predicado en todas partes, y esa es la razón por la que lo desdeńan. Pueden
 
-orlo en la esquina de cada calle; pueden leerlo en esta Biblia que tiene
+oírlo en la esquina de cada calle; pueden leerlo en esta Biblia que tiene
 
-amplia circulacin; y debido a que el Evangelio es tan comn, les tiene sin
+amplia circulación; y debido a que el Evangelio es tan común, les tiene sin
 
-cuidado. Ah, mis queridos amigos!, si slo hubiera un ministro del Evangelio
+cuidado. ˇAh, mis queridos amigos!, si sólo hubiera un ministro del Evangelio
 
-en Londres que les pudiera decir la verdad; si slo hubiera una Biblia en
+en Londres que les pudiera decir la verdad; si sólo hubiera una Biblia en
 
-Londres, yo creo que ustedes acudiran apresuradamente a or la lectura de esa
+Londres, yo creo que ustedes acudirían apresuradamente a oír la lectura de esa
 
-Biblia; y el hombre que tuviera el mensaje no tendra ninguna sinecura, pues
+Biblia; y el hombre que tuviera el mensaje no tendría ninguna sinecura, pues
 
-estara obligado a trabajar de la maana a la noche para explicrselos a
+estaría obligado a trabajar de la mańana a la noche para explicárselos a
 
 ustedes. Pero ahora, porque tienen tantas Biblias, se les olvida leerlas;
 
-porque tienen tantos opsculos, empacan cualquier artculo en vez de ellos;
+porque tienen tantos opúsculos, empacan cualquier artículo en vez de ellos;
 
 porque tienen tantos sermones, no los tienen en gran valor para nada. Pero,
 
-por qu sucede eso? Tienes en menos estima al sol porque derrama sus rayos
+żpor qué sucede eso? żTienes en menos estima al sol porque derrama sus rayos
 
-ampliamente? Tienes en menos estima al pan porque es el alimento que Dios da a
+ampliamente? żTienes en menos estima al pan porque es el alimento que Dios da a
 
-todos sus hijos? Tienes en menos estima al agua, cuando ests sediento, porque
+todos sus hijos? żTienes en menos estima al agua, cuando estás sediento, porque
 
-todos los riachuelos te la suministran? No. Si t estuvieras sediento de
+todos los riachuelos te la suministran? No. Si tú estuvieras sediento de
 
-Cristo, le amaras mucho ms, porque l es predicado en todas partes; y no le
+Cristo, le amarías mucho más, porque Él es predicado en todas partes; y no le
 
-menospreciaras debido a eso.
+menospreciarías debido a eso.
 
-Ellos, sin hacer
+“Ellos, sin hacer
 
-caso. Cuantos de mis oyentes esta noche, pregunto de nuevo, estn
+caso.” żCuantos de mis oyentes esta noche, pregunto de nuevo, están
 
-menospreciando a Cristo? Muchos de ustedes lo estn haciendo, sin duda. Les
+menospreciando a Cristo? Muchos de ustedes lo están haciendo, sin duda. Les
 
-dar, entonces, slo una advertencia, y luego nos despediremos. Menosprecia a
+daré, entonces, sólo una advertencia, y luego nos despediremos. ˇMenosprecia a
 
-Cristo, pecador! Permteme decirte que t lamentars el da cuando ests en tu
+Cristo, pecador! Permíteme decirte que tú lamentarás el día cuando estés en tu
 
-lecho mortuorio. Ser duro para ti cuando el monstruo huesudo te aferre, y
+lecho mortuorio. Será duro para ti cuando el monstruo huesudo te aferre, y
 
-cuando te est llevando al ro, para hundirte en el lago de muerte. Ser duro
+cuando te esté llevando al río, para hundirte en el lago de muerte. Será duro
 
 para ti, cuando los tendones de tus ojos se rompan, y cuando el sudor mortal
 
-bae tu frente. Recuerda la ltima vez que tuviste fiebre; ah!, cmo
+bańe tu frente. Recuerda la última vez que tuviste fiebre; ˇah!, cómo
 
-temblabas. Recuerda, anoche, cmo te estremecas en la cama durante la
+temblabas. Recuerda, anoche, cómo te estremecías en la cama durante la
 
-tormenta, cuando los rayos atravesaban tu ventana; y cmo temblabas cuando el
+tormenta, cuando los rayos atravesaban tu ventana; y cómo temblabas cuando el
 
-trueno profundo hablaba la voz de Dios. Ah!, pecador, t temblars ms
+trueno profundo hablaba la voz de Dios. ˇAh!, pecador, tú temblarás más
 
 entonces, cuando veas que la muerte viene por ti, cuando el jinete huesudo
 
-sobre su caballo blanco, tome su dardo y lo hunda en tus entraas. Ser duro
+sobre su caballo blanco, tome su dardo y lo hunda en tus entrańas. Será duro
 
 para ti entonces, si no tienes a Cristo como refugio, ni cuentas con la sangre
 
 para lavar tu alma.
 
-Recuerda, adems,
+Recuerda, además,
 
-que despus de la muerte viene el juicio. Ser duro para ti si has despreciado
+que después de la muerte viene el juicio. Será duro para ti si has despreciado
 
-a Cristo, y mueres como un despreciador. Ves a aquel ngel volador? Sus alas
+a Cristo, y mueres como un despreciador. żVes a aquel ángel volador? Sus alas
 
-estn hechas de llamas, y en su mano blande una puntiaguda espada de dos filos.
+están hechas de llamas, y en su mano blande una puntiaguda espada de dos filos.
 
-Oh, ngel, a qu se debe tu vuelo presuroso? Escucha!, ―dice
+Oh, ángel, ża qué se debe tu vuelo presuroso? “ˇEscucha!”, ―dice
 
-l― esta trompeta te lo dir. Y lleva la trompeta a sus labios, y:
+él― “esta trompeta te lo dirá”. Y lleva la trompeta a sus labios, y:
 
-Toca un llamado tan fuerte y terrible,
+“Toca un llamado tan fuerte y terrible,
 
-Que nunca los sonidos profticos fueron tan llenos de infortunios.
+Que nunca los sonidos proféticos fueron tan llenos de infortunios.”
 
-Miren, los muertos
+ˇMiren, los muertos
 
-en sus sudarios se han levantado de sus tumbas! He aqu, el carruaje sombro es
+en sus sudarios se han levantado de sus tumbas! He aquí, el carruaje sombrío es
 
-jalado por manos de querubes. Observen! All sobre el trono se sienta el Rey,
+jalado por manos de querubes. ˇObserven! Allá sobre el trono se sienta el Rey,
 
-el Prncipe. Oh, ngel, qu habr de ser, en este terrible da, del hombre que
+el Príncipe. Oh, ángel, żqué habrá de ser, en este terrible día, del hombre que
 
-ha menospreciado a Cristo? Miren all, l desenvaina Su espada. Esta hoja, ―dice―
+ha menospreciado a Cristo? Miren allí, Él desenvaina Su espada. “Esta hoja”, ―dice―
 
-le encontrar y le atravesar. Esta hoja, como una guadaa, arrancar toda
+“le encontrará y le atravesará. Esta hoja, como una guadańa, arrancará toda
 
-cizaa del trigo, y este brazo fuerte le atar en un manojo para ser quemado; y
+cizańa del trigo, y este brazo fuerte le atará en un manojo para ser quemado; y
 
-este gran brazo mo le sujetar, y le arrojar abajo, abajo, abajo, donde las
+este gran brazo mío le sujetará, y le arrojará abajo, abajo, abajo, donde las
 
-llamas arden para siempre, y el infierno alla por siempre. Ser muy duro para
+llamas arden para siempre, y el infierno aúlla por siempre”. Será muy duro para
 
-ustedes entonces. Fjense en la palabra de este hombre esta noche; salgan y
+ustedes entonces. Fíjense en la palabra de este hombre esta noche; salgan y
 
-brlense de ella; pero recuerden, se los repito, que sera algo terrible para
+búrlense de ella; pero recuerden, se los repito, que sería algo terrible para
 
 ustedes, ―cuando Cristo venga para juicio― si fueran encerrados en
 
-las cavernas de la desesperacin, si alguna vez oyeran decir: Apartaos de m,
+las cavernas de la desesperación, si alguna vez oyeran decir: “Apartaos de mí,
 
-malditos, si mezclaran sus terribles gritos con los dolorosos aullidos de
+malditos”, si mezclaran sus terribles gritos con los dolorosos aullidos de
 
-miradas de perdidos, si vieran el abismo que no tiene fondo, y el golfo que
+miríadas de perdidos, si vieran el abismo que no tiene fondo, y el golfo que
 
-tiene paredes de fuego, por haberle menospreciado. Sera algo terrible que se
+tiene paredes de fuego, por haberle menospreciado. ˇSería algo terrible que se
 
-encontraran all, sabiendo que nunca podrn salir de all!
+encontraran allí, sabiendo que nunca podrán salir de allí!
 
 Pecador, esta noche
 
-yo te predico el Evangelio. Antes de que te vayas, yelo y cree en l; que Dios
+yo te predico el Evangelio. Antes de que te vayas, óyelo y cree en él; que Dios
 
-te d gracia para recibirlo, para que seas salvo. El que creyere y fuere
+te dé gracia para recibirlo, para que seas salvo. “El que creyere y fuere
 
-bautizado, ser salvo; mas el que no creyere, ―eso dice la
+bautizado, será salvo; mas el que no creyere”, ―eso dice la
 
-Escritura― ser condenado. Creer, es poner tu confianza en Cristo; ser
+Escritura― “será condenado”. Creer, es poner tu confianza en Cristo; ser
 
-bautizado, es ser sumergido en agua en el nombre del Seor Jess, como una
+bautizado, es ser sumergido en agua en el nombre del Seńor Jesús, como una
 
-profesin de que ya eres salvo, y de que amas a Cristo. El que creyere y fuere
+profesión de que ya eres salvo, y de que amas a Cristo. “El que creyere y fuere
 
-bautizado, ser salvo; mas el que no creyere, ser condenado. Oh, que ustedes
+bautizado, será salvo; mas el que no creyere, será condenado.” Oh, que ustedes
 
-no lleguen a saber nunca el significado de esa ltima palabra: CONDENADO.
+no lleguen a saber nunca el significado de esa última palabra: CONDENADO.
 
-Adis!
+ˇAdiós!
 
 Nota del traductor:
 
 Sinecura: empleo o
 
-cargo retribuido que ocasiona poco o ningn trabajo.
+cargo retribuido que ocasiona poco o ningún trabajo.
 
 Traductor: Allan
 
-Romn
+Román
 
 6/Marzo/2013
 

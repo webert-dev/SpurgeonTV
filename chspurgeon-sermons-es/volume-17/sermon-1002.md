@@ -1,48 +1,48 @@
 # Sermón 1002 | Sermón 1002
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 AHORA y ENTONCES
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Ahora vemos
+“Ahora vemos
 
-por espejo, oscuramente; mas entonces veremos cara a cara. 1 Corintios 13: 12.
+por espejo, oscuramente; mas entonces veremos cara a cara”. 1 Corintios 13: 12.
 
-En este captulo, el
+En este capítulo, el
 
-apstol Pablo habla de la caridad, o del amor, en los trminos ms sublimes.
+apóstol Pablo habla de la caridad, o del amor, en los términos más sublimes.
 
-Considera que es una gracia mucho ms excelente que cualquiera de los dones
+Considera que es una gracia mucho más excelente que cualquiera de los dones
 
-espirituales que acababa de mencionar. Es fcil ver que tena buenas razones
+espirituales que acababa de mencionar. Es fácil ver que tenía buenas razones
 
-para la preferencia que le conceda. Esos dones, ustedes observarn, eran
+para la preferencia que le concedía. Esos dones, ustedes observarán, eran
 
-distribuidos entre hombres piadosos y cada individuo reciba su porcin nica,
+distribuidos entre hombres piadosos y cada individuo recibía su porción única,
 
-de tal manera que uno tena algo de lo que otro careca; pero esta gracia de la
+de tal manera que uno tenía algo de lo que otro carecía; pero esta gracia de la
 
-caridad pertenece a todos aqullos que han pasado de muerte a vida. La prueba
+caridad pertenece a todos aquéllos que han pasado de muerte a vida. La prueba
 
-de que son discpulos de Cristo se encuentra en el amor que le tienen tanto a
+de que son discípulos de Cristo se encuentra en el amor que le tienen tanto a
 
-l como a los hermanos. Adems, aquellos dones tenan el propsito de equiparlos
+Él como a los hermanos. Además, aquellos dones tenían el propósito de equiparlos
 
-para el servicio con el fin de que cada miembro del cuerpo fuera til para los
+para el servicio con el fin de que cada miembro del cuerpo fuera útil para los
 
-dems miembros del cuerpo; pero esta gracia es para provecho personal: es una
+demás miembros del cuerpo; pero esta gracia es para provecho personal: es una
 
-luz en el corazn y una estrella en el pecho de cada persona que la posee. Esos
+luz en el corazón y una estrella en el pecho de cada persona que la posee. Esos
 
-dones, adems, eran de uso temporal; su valor estaba limitado a la esfera en
+dones, además, eran de uso temporal; su valor estaba limitado a la esfera en
 
 que eran ejercidos, pero esta gracia de la caridad medra en todo tiempo y
 
@@ -52,123 +52,123 @@ bienestar presente.
 
 A toda costa procura los
 
-mejores dones, caro hermano mo, as como un artista deseara tener destreza en
+mejores dones, caro hermano mío, así como un artista desearía tener destreza en
 
 todos sus miembros y estar alerta con todos sus sentidos, pero sobre todo, aprecia
 
-el amor, as como ese mismo artista quisiera cultivar el gusto refinado que
+el amor, así como ese mismo artista quisiera cultivar el gusto refinado que
 
 vive y respira en su interior, que es el manantial secreto de todos sus
 
 movimientos, la facultad que impulsa su destreza. Aprendan a estimar este
 
-sagrado instinto del amor ms que todas las ms selectas dotes. Sin importar
+sagrado instinto del amor más que todas las más selectas dotes. Sin importar
 
-cun pobre pudieras ser en materia de talentos, el amor de Cristo debe habitar
+cuán pobre pudieras ser en materia de talentos, el amor de Cristo debe habitar
 
 ricamente en ti.
 
-Una exhortacin como
+Una exhortación como
 
-sta se hace ms necesaria porque el amor tiene un rival poderoso. Pablo pudo
+ésta se hace más necesaria porque el amor tiene un rival poderoso. Pablo pudo
 
 haber notado que en las academias de Grecia, como ciertamente en todas nuestras
 
-escuelas modernas, el conocimiento sola llevarse todos los premios. Quin
+escuelas modernas, el conocimiento solía llevarse todos los premios. żQuién
 
-podra decir qu porcentaje del xito del doctor Arnold, como pedagogo, se
+podría decir qué porcentaje del éxito del doctor Arnold, como pedagogo, se
 
-debi al honor en que tena a un buen muchacho de preferencia a un muchacho inteligente?
+debió al honor en que tenía a un buen muchacho de preferencia a un muchacho inteligente?
 
 Con toda certeza Pablo detectaba en la iglesia muchos celos a los que daban pie
 
-las habilidades superiores de quienes podan hablar idiomas extranjeros y profetizar
+las habilidades superiores de quienes podían hablar idiomas extranjeros y profetizar
 
 o predicar bien. Entonces, mientras Pablo elogia la gracia del amor, pareciera menospreciar
 
-ms bien el conocimiento; al menos usa una ilustracin que tiende a demostrar
+más bien el conocimiento; al menos usa una ilustración que tiende a demostrar
 
-que el tipo de conocimiento del que nos preciamos no es la cosa ms confiable
+que el tipo de conocimiento del que nos preciamos no es la cosa más confiable
 
 del mundo.
 
-Pablo record su niez.
+Pablo recordó su nińez.
 
-Eso es algo muy bueno que todos nosotros debiramos mantener presente. Si la
+Eso es algo muy bueno que todos nosotros debiéramos mantener presente. Si la
 
-olvidamos, nuestras simpatas pronto se secan, nuestro temperamento propende a
+olvidamos, nuestras simpatías pronto se secan, nuestro temperamento propende a
 
-volverse intratable, nuestras opiniones pudieran ser ms bien altivas y nuestro
+volverse intratable, nuestras opiniones pudieran ser más bien altivas y nuestro
 
-egosmo se torna muy repulsivo. Siendo el hombre ms destacado de su da en la
+egoísmo se torna muy repulsivo. Siendo el hombre más destacado de su día en la
 
-iglesia cristiana, y que ejerca las ms amplia influencia entre los convertidos
+iglesia cristiana, y que ejercía las más amplia influencia entre los convertidos
 
-a Cristo, Pablo se acord del pasado lejano cuando era muchacho y su recuerdo
+a Cristo, Pablo se acordó del pasado lejano cuando era muchacho y su recuerdo
 
-fue muy oportuno. Aunque Pablo pudo haber sugerido los logros que haba
+fue muy oportuno. Aunque Pablo pudo haber sugerido los logros que había
 
-obtenido o el alto cargo que haba ocupado, y pudo haber reclamado algn grado
+obtenido o el alto cargo que había ocupado, y pudo haber reclamado algún grado
 
 de respeto, prefiere mirar al pasado, a sus humildes principios. Si bien hay
 
-sabidura en su reflexin, para m que hay una vena de amenidad en su manera de
+sabiduría en su reflexión, para mí que hay una vena de amenidad en su manera de
 
-expresarlo. Cuando yo era nio, hablaba como nio, pensaba como nio, juzgaba
+expresarlo. “Cuando yo era nińo, hablaba como nińo, pensaba como nińo, juzgaba
 
-como nio; mas cuando ya fui hombre, dej lo que era de nio. Compara as dos
+como nińo; mas cuando ya fui hombre, dejé lo que era de nińo”. Compara así dos
 
-etapas de su vida natural, lo cual le sirve como una parbola. En el conocimiento
+etapas de su vida natural, lo cual le sirve como una parábola. En el conocimiento
 
-espiritual senta que estaba en su infancia entonces. Su madurez, su edad
+espiritual sentía que estaba en su infancia entonces. Su madurez, su edad
 
-adulta plena, permaneca ante l como una perspectiva del futuro. Poda imaginar
+adulta plena, permanecía ante él como una perspectiva del futuro. Podía imaginar
 
-fcilmente un futuro desde el cual mirara a su yo actual como un mero aprendiz
+fácilmente un futuro desde el cual miraría a su yo actual como un mero aprendiz
 
-que andaba a tientas en su camino entre las sombras de su propia fantasa.
+que andaba a tientas en su camino entre las sombras de su propia fantasía.
 
-Pues ahora dice- vemos por espejo, oscuramente; mas entonces veremos cara a
+“Pues ahora” –dice- “vemos por espejo, oscuramente; mas entonces veremos cara a
 
-cara. Ahora conozco en parte; pero entonces conocer como fui conocido. Aqu
+cara. Ahora conozco en parte; pero entonces conoceré como fui conocido”. Aquí
 
 Pablo emplea una o dos figuras nuevas.
 
-Por
+“ˇPor
 
-espejo!
+espejo!”
 
-Tal vez no seamos capaces de determinar con exactitud a qu tipo
+Tal vez no seamos capaces de determinar con exactitud a qué tipo
 
-de espejo alude. Bien, dejaremos esa pregunta para que los crticos debatan sus
+de espejo alude. Bien, dejaremos esa pregunta para que los críticos debatan sus
 
 desacuerdos al respecto. A nosotros nos basta que el significado sea obvio. Hay
 
-una gran diferencia entre ver un objeto a travs de un oscuro instrumento e
+una gran diferencia entre ver un objeto a través de un oscuro instrumento e
 
 inspeccionarlo de cerca, a simple vista. En ambos casos hemos de tener el poder
 
-de la visin, pero en el ltimo caso podemos usarlo con mayor ventaja. Ahora
+de la visión, pero en el último caso podemos usarlo con mayor ventaja. “Ahora
 
 vemos por espejo,
 
-oscuramente.
+oscuramente”.
 
-Oscuramente,
+ˇOscuramente,
 
-como si fuera un enigma! Nuestras percepciones mentales son tan dbiles que las
+como si fuera un enigma! Nuestras percepciones mentales son tan débiles que las
 
 claras verdades a menudo nos desconciertan. Las palabras que nos instruyen son
 
-cuadros que necesitan una explicacin. Los pensamientos que nos conmueven son
+cuadros que necesitan una explicación. Los pensamientos que nos conmueven son
 
-visiones que flotan en nuestros cerebros que necesitan una rectificacin. Oh,
+visiones que flotan en nuestros cerebros que necesitan una rectificación. ˇOh,
 
-necesitamos una visin ms clara! Necesitamos un conocimiento ms perfecto!
+necesitamos una visión más clara! ˇNecesitamos un conocimiento más perfecto!
 
-Fjense, hermanos, que aunque tengamos muchos motivos para la desconfianza, ya que
+Fíjense, hermanos, que aunque tengamos muchos motivos para la desconfianza, ya que
 
-slo vemos por espejo, oscuramente, es un motivo de congratulacin que
+sólo “vemos por espejo, oscuramente”, es un motivo de congratulación que
 
 al menos veamos
 
@@ -180,45 +180,45 @@ pero para
 
 que sirva de freno para nuestra altivez, conocemos en parte. Amados, los objetos
 
-que miramos estn a la distancia y nosotros somos miopes. La revelacin de Dios
+que miramos están a la distancia y nosotros somos miopes. La revelación de Dios
 
-es amplia y profunda, pero nuestro entendimiento es dbil y superficial.
+es amplia y profunda, pero nuestro entendimiento es débil y superficial.
 
 Hay cosas que
 
-consideramos muy valiosas ahora, pero que pronto no tendrn ningn valor para
+consideramos muy valiosas ahora, pero que pronto no tendrán ningún valor para
 
 nosotros. Hay algunas cosas que conocemos, o creemos conocer, y nos preciamos
 
 mucho de nuestro conocimiento; pero cuando nos convirtamos en hombres, no le
 
-daremos a ese conocimiento un mayor valor del que un nio le da a sus juguetes
+daremos a ese conocimiento un mayor valor del que un nińo le da a sus juguetes
 
-cuando se convierte en hombre. Nuestra mayora de edad espiritual en el cielo desechar
+cuando se convierte en hombre. Nuestra mayoría de edad espiritual en el cielo desechará
 
-muchas cosas que ahora consideramos valiosas, as como un hombre adulto abandona
+muchas cosas que ahora consideramos valiosas, así como un hombre adulto abandona
 
-los tesoros de su niez. Y hay muchas cosas que hemos estado acostumbrados a
+los tesoros de su nińez. Y hay muchas cosas que hemos estado acostumbrados a
 
-ver que, una vez que haya concluido esta vida pasajera, no veremos ms. Aunque
+ver que, una vez que haya concluido esta vida pasajera, no veremos más. Aunque
 
-nos deleitbamos en ellas y agradaban a nuestros ojos mientras transitbamos en
+nos deleitábamos en ellas y agradaban a nuestros ojos mientras transitábamos en
 
-esta tierra, se disiparn como un sueo cuando uno se despierta; no las veremos
+esta tierra, se disiparán como un sueńo cuando uno se despierta; no las veremos
 
-nunca ms, ni las querremos ver ms, pues nuestros ojos -bajo una luz ms clara
+nunca más, ni las querremos ver más, pues nuestros ojos -bajo una luz más clara
 
-y ungidos con colirio- vern visiones ms resplandecientes, y nunca lamentaremos
+y ungidos con colirio- verán visiones más resplandecientes, y nunca lamentaremos
 
-lo que hemos perdido, ante la presencia de escenas ms hermosas que habremos
+lo que hemos perdido, ante la presencia de escenas más hermosas que habremos
 
 encontrado. Hay otras cosas que conocemos ahora y que nunca olvidaremos; las
 
-conoceremos perdurablemente, slo que en un grado ms pleno, porque no
+conoceremos perdurablemente, sólo que en un grado más pleno, porque no
 
-tendremos ms un conocimiento parcial de ellas; y hay algunas cosas que vemos
+tendremos más un conocimiento parcial de ellas; y hay algunas cosas que vemos
 
-ahora y que veremos en la eternidad, slo que all las veremos bajo una luz ms
+ahora y que veremos en la eternidad, sólo que allá las veremos bajo una luz más
 
 clara.
 
@@ -234,157 +234,157 @@ que
 
 hemos de ver
 
-ms plenamente y ms
+más plenamente y más
 
 claramente
 
-en el ms all;
+en el más allá;
 
 luego
 
 vamos a investigar
 
-cmo es que las
+cómo es que las
 
-veremos ms claramente;
+veremos más claramente;
 
 y vamos a concluir considerando
 
-cul es la enseanza de este hecho.
+cuál es la enseńanza de este hecho.
 
 I.
 
 Entre
 
-las cosas que vemos ahora -todos aqullos entre nosotros cuyos ojos han sido
+las cosas que vemos ahora -todos aquéllos entre nosotros cuyos ojos han sido
 
-iluminados por el Espritu Santo- est que nos vemos a NOSOTROS MISMOS.
+iluminados por el Espíritu Santo- está que nos vemos a NOSOTROS MISMOS.
 
 Vernos a nosotros mismos
 
-es uno de los primeros pasos en la verdadera religin. La mayor parte de los
+es uno de los primeros pasos en la verdadera religión. La mayor parte de los
 
-hombres no se han visto nunca a s mismos. Han visto la imagen halagadora de s
+hombres no se han visto nunca a sí mismos. Han visto la imagen halagadora de sí
 
-mismos y se imaginan que se trata de la propia copia facsmil suya, pero no lo
+mismos y se imaginan que se trata de la propia copia facsímil suya, pero no lo
 
-es. Ustedes y yo hemos sido instruidos por el Espritu Santo de Dios para ver
+es. Ustedes y yo hemos sido instruidos por el Espíritu Santo de Dios para ver
 
-nuestra ruina por la cada; nos hemos lamentado debido a esa cada; hemos
+nuestra ruina por la caída; nos hemos lamentado debido a esa caída; hemos
 
-tomado conciencia de nuestra propia depravacin natural; hemos sido abatidos
+tomado conciencia de nuestra propia depravación natural; hemos sido abatidos
 
 hasta el propio polvo por ese descubrimiento y se nos ha mostrado nuestra
 
-pecaminosidad real y cmo hemos transgredido en contra del Altsimo. Nos hemos
+pecaminosidad real y cómo hemos transgredido en contra del Altísimo. Nos hemos
 
-arrepentido de sto, y hemos huido en busca de refugio hacia la esperanza
+arrepentido de ésto, y hemos huido en busca de refugio hacia la esperanza
 
-puesta delante de nosotros en el Evangelio. Da a da vemos algo ms de
+puesta delante de nosotros en el Evangelio. Día a día vemos algo más de
 
-nosotros mismos les garantizo que no vemos nada placentero- pero eso es muy
+nosotros mismos –les garantizo que no vemos nada placentero- pero eso es muy
 
-til, pues es algo grande conocer nuestro vaco. Es un progreso encaminado a
+útil, pues es algo grande conocer nuestro vacío. Es un progreso encaminado a
 
 recibir Su plenitud. Es algo importante descubrir nuestra debilidad; es un paso
 
-esencial para nuestra participacin de la fortaleza divina. Yo supongo que
+esencial para nuestra participación de la fortaleza divina. Yo supongo que
 
-entre ms vivamos, ms nos veremos a nosotros mismos y probablemente lleguemos
+entre más vivamos, más nos veremos a nosotros mismos y probablemente lleguemos
 
-a esta conclusin: Vanidad de vanidades, todo es vanidad, y clamaremos con
+a esta conclusión: “Vanidad de vanidades, todo es vanidad”, y clamaremos con
 
-Job: Yo soy vil. Entre ms descubramos cosas de nosotros mismos, ms nos
+Job: “Yo soy vil”. Entre más descubramos cosas de nosotros mismos, más nos
 
 sentiremos enfermos de nosotros mismos.
 
 Pero no dudo que en el cielo
 
-vamos a descubrir que ni siquiera a nosotros mismos nos pudimos ver jams bajo
+vamos a descubrir que ni siquiera a nosotros mismos nos pudimos ver jamás bajo
 
-la ms clara luz, sino slo como por espejo, oscuramente, slo como un
+la más clara luz, sino sólo como “por espejo, oscuramente”, sólo como un
 
-acertijo, como un profundo enigma, ya que entenderemos ms acerca de nosotros mismos
+acertijo, como un profundo enigma, ya que entenderemos más acerca de nosotros mismos
 
-en el cielo de lo que nos entendemos ahora. All veremos, como no lo hemos
+en el cielo de lo que nos entendemos ahora. Allá veremos, como no lo hemos
 
-visto aqu todava, qu mal tan terrible fue
+visto aquí todavía, qué mal tan terrible fue
 
-la Cada
+la Caída
 
-, en qu hoyo
+, en qué hoyo
 
-tan horrible camos, y cun rpido quedamos atrapados en el lodo cenagoso. All
+tan horrible caímos, y cuán rápido quedamos atrapados en el lodo cenagoso. Allá
 
-veremos la negrura del pecado como no la hemos visto nunca aqu, y entenderemos
+veremos la negrura del pecado como no la hemos visto nunca aquí, y entenderemos
 
-su infierno merecido como no hubiramos podido hacerlo sino hasta que miremos
+su infierno merecido como no hubiéramos podido hacerlo sino hasta que miremos
 
-desde aquella altura tachonada de estrellas adonde nos llevar la misericordia
+desde aquella altura tachonada de estrellas adonde nos llevará la misericordia
 
-infinita. Cuando cantemos El Cordero que fue inmolado es digno, miraremos las
+infinita. Cuando cantemos “El Cordero que fue inmolado es digno”, miraremos las
 
-ropas que lavamos en Su sangre y veremos cun emblanquecidas quedaron. Entenderemos
+ropas que lavamos en Su sangre y veremos cuán emblanquecidas quedaron. Entenderemos
 
-entonces mejor que ahora cunto necesitbamos la limpieza, cun carmeses eran
+entonces mejor que ahora cuánto necesitábamos la limpieza, cuán carmesíes eran
 
-las manchas y cun preciosa es esa sangre que hizo desaparecer esas mculas
+las manchas y cuán preciosa es esa sangre que hizo desaparecer esas máculas
 
-escarlatas. All, tambin, conoceremos nuestro lado brillante mejor de lo que
+escarlatas. Allá, también, conoceremos nuestro lado brillante mejor de lo que
 
 lo conocemos ahora. Hoy sabemos que somos salvos y, por tanto, ninguna
 
-condenacin hay ahora para los que estn en Cristo Jess; pero veremos mejor
+condenación hay ahora para los que están en Cristo Jesús; pero veremos mejor
 
-ese manto de justicia que nos cubre ahora, y que nos cubrir entonces, y discerniremos
+ese manto de justicia que nos cubre ahora, y que nos cubrirá entonces, y discerniremos
 
-cun lustroso es, con su bordado y su oro forjado. Cunto mejor que las perlas
+cuán lustroso es, con su bordado y su oro forjado. Cuánto mejor que las perlas
 
 y las joyas que han decorado los mantos de los monarcas son la sangre y la
 
-justicia de Jehov Jess, que se entreg por nosotros. Aqu sabemos que somos
+justicia de Jehová Jesús, que se entregó por nosotros. Aquí sabemos que somos
 
-adoptados. Sentimos el espritu de la condicin de hijos; Clamamos: Abba,
+adoptados. Sentimos el espíritu de la condición de hijos; “Clamamos: ˇAbba,
 
-Padre! Pero all conoceremos mejor en qu consiste ser los hijos de Dios, pues
+Padre!” Pero allá conoceremos mejor en qué consiste ser los hijos de Dios, pues
 
-aqu an no se ha manifestado lo que hemos de ser; pero cuando estemos all, y
+aquí aún no se ha manifestado lo que hemos de ser; pero cuando estemos allá, y
 
-cuando Cristo se manifieste, seremos semejantes a l, porque le veremos tal
+cuando Cristo se manifieste, seremos semejantes a Él, porque le veremos tal
 
-como l es, y entonces entenderemos plenamente lo que significa gozar de la
+como Él es, y entonces entenderemos plenamente lo que significa gozar de la
 
-condicin de hijos.
+condición de hijos.
 
-As, tambin, yo s hoy
+Así, también, yo sé hoy
 
-que soy coheredero con Cristo, pero tengo una muy pobre idea de qu es aquello
+que soy coheredero con Cristo, pero tengo una muy pobre idea de qué es aquello
 
-de lo que soy heredero; pero all ver las propiedades que me pertenecen y no
+de lo que soy heredero; pero allá veré las propiedades que me pertenecen y no
 
-slo las ver, sino que las disfrutar de hecho. Todo cristiano tendr una
+sólo las veré, sino que las disfrutaré de hecho. Todo cristiano tendrá una
 
 parte de la herencia inmarcesible y sin mancilla, reservada en los cielos para
 
-l, porque est en Cristo Jess; es uno con Cristo; es uno por eterna unin.
+él, porque está en Cristo Jesús; es uno con Cristo; es uno por eterna unión.
 
-Pero me temo que eso es ms un enigma para nosotros que un asunto entendible.
+Pero me temo que eso es más un enigma para nosotros que un asunto entendible.
 
-Lo vemos como un enigma ahora, pero all, nuestra unin con Cristo ser tan
+Lo vemos como un enigma ahora, pero allá, nuestra unión con Cristo será tan
 
-conspicua y tan clara como las letras del alfabeto. All sabremos lo que
+conspicua y tan clara como las letras del alfabeto. Allá sabremos lo que
 
-significa ser un miembro de Su cuerpo, de Su carne y de Sus huesos; all
+significa ser un miembro de Su cuerpo, de Su carne y de Sus huesos; allá
 
-entender el lazo de la unin mstica que une el alma del creyente a Cristo;
+entenderé el lazo de la unión mística que une el alma del creyente a Cristo;
 
-all ver cmo, igual que la rama brota del tallo, mi alma est en unin, en una
+allá veré cómo, igual que la rama brota del tallo, mi alma está en unión, en una
 
-vital unin con su bendito Seor Jesucristo. As, algo que vemos ahora pero que
+vital unión con su bendito Seńor Jesucristo. Así, algo que vemos ahora pero que
 
-veremos bajo una luz mucho ms clara en el ms all es: a nosotros mismos.
+veremos bajo una luz mucho más clara en el más allá es: “a nosotros mismos”.
 
-Aqu, tambin, vemos a
+Aquí, también, vemos a
 
 la IGLESIA
 
@@ -392,85 +392,85 @@ la IGLESIA
 
 LA VEREMOS MUCHO
 
-MS
+MÁS
 
 CLARAMENTE LUEGO.
 
 Sabemos que hay una
 
-iglesia de Dios. Sabemos que el Seor tiene un pueblo que eligi desde antes de
+iglesia de Dios. Sabemos que el Seńor tiene un pueblo que eligió desde antes de
 
-la fundacin del mundo; creemos que los miembros de ese pueblo estn esparcidos
+la fundación del mundo; creemos que los miembros de ese pueblo están esparcidos
 
 por todas partes de nuestra tierra, y en muchas otras tierras. Hay muchos de
 
-ellos que no conocemos; hay muchos que si los conociramos, me atrevera a
+ellos que no conocemos; hay muchos que si los conociéramos, me atrevería a
 
-decir que no nos agradaran particularmente, debido a sus caractersticas
+decir que no nos agradarían particularmente, debido a sus características
 
-externas: personas de extraas apariencias y tal vez de hbitos muy raros; y sin
+externas: personas de extrańas apariencias y tal vez de hábitos muy raros; y sin
 
 embargo, a pesar de todo eso, constituyen el pueblo del Dios viviente. Ahora,
 
 nosotros conocemos esta iglesia, conocemos su gloria, y sus miembros son impulsados
 
-con una sola vida, son vivificados con un Espritu, redimidos con una sangre;
+con una sola vida, son vivificados con un Espíritu, redimidos con una sangre;
 
 creemos en esta iglesia, y sentimos apego a ella por causa de Jesucristo, que
 
-se ha desposado con la iglesia como el Esposo. Pero, oh!, cuando lleguemos al cielo,
+se ha desposado con la iglesia como el Esposo. Pero, ˇoh!, cuando lleguemos al cielo,
 
-cunto ms conoceremos a la iglesia, y cmo la veremos cara a cara y no por
+cuánto más conoceremos a la iglesia, y cómo la veremos cara a cara y no “por
 
-espejo, oscuramente. All conoceremos algo ms del nmero de los elegidos de
+espejo, oscuramente”. Allá conoceremos algo más del número de los elegidos de
 
-los que conocemos ahora, y podra ser que para nuestra notable sorpresa. All
+los que conocemos ahora, y podría ser que para nuestra notable sorpresa. Allá
 
-encontraremos entre la compaa de los elegidos de Dios, a algunos a quienes en
+encontraremos entre la compańía de los elegidos de Dios, a algunos a quienes en
 
-nuestra amargura de espritu hemos condenado, y all echaremos de menos a
+nuestra amargura de espíritu hemos condenado, y allá echaremos de menos a
 
 algunos que, en nuestra caridad, concebimos que estaban perfectamente seguros.
 
-Entonces sabremos mejor quines le pertenecen al Seor y quines no le
+Entonces sabremos mejor quiénes le pertenecen al Seńor y quiénes no le
 
-pertenecen, de lo que pudiramos saber jams aqu. En la tierra todos nuestros
+pertenecen, de lo que pudiéramos saber jamás aquí. En la tierra todos nuestros
 
-procesos de discernimiento nos fallan. Judas entra con los apstoles, y Demas
+procesos de discernimiento nos fallan. Judas entra con los apóstoles, y Demas
 
-toma su parte entre los santos, pero all conoceremos a los justos, pues los
+toma su parte entre los santos, pero allá conoceremos a los justos, pues los
 
-veremos; habr un rebao con un Pastor, y Aquel que reina sobre el trono eternamente
+veremos; habrá un rebańo con un Pastor, y Aquel que reina sobre el trono eternamente
 
-ser glorificado. Entenderemos entonces lo que ha sido la historia de la
+será glorificado. Entenderemos entonces lo que ha sido la historia de la
 
-iglesia en todo el pasado, y por qu ha sido una historia tan extraa de
+iglesia en todo el pasado, y por qué ha sido una historia tan extrańa de
 
-conflicto y conquista. Probablemente en el futuro sabremos ms acerca de la historia
+conflicto y conquista. Probablemente en el futuro sabremos más acerca de la historia
 
-de la iglesia. Desde aquella elevacin sublime y en aquella atmsfera ms
+de la iglesia. Desde aquella elevación sublime y en aquella atmósfera más
 
-resplandeciente vamos a entender mejor cules son los designios del Seor
+resplandeciente vamos a entender mejor cuáles son los designios del Seńor
 
-concernientes a Su pueblo en el ltimo da. Cunta gloria a Su propio nombre le
+concernientes a Su pueblo en el último día. Cuánta gloria a Su propio nombre le
 
-darn
+darán
 
 Sus redimidos, cuando haya reunido a todos los
 
-que son llamados y elegidos y fieles de entre los hijos de los hombres. ste es
+que son llamados y elegidos y fieles de entre los hijos de los hombres. Éste es
 
-uno de los gozos que estamos esperando: que vendremos a la congregacin de los
+uno de los gozos que estamos esperando: que vendremos a la congregación de los
 
-primognitos que estn inscritos en los cielos, y tendremos comunin con aqullos
+primogénitos que están inscritos en los cielos, y tendremos comunión con aquéllos
 
-que tienen comunin con Dios por medio de Jesucristo nuestro Seor.
+que tienen comunión con Dios por medio de Jesucristo nuestro Seńor.
 
-En tercer lugar, no es
+En tercer lugar, żno es
 
-posible, es ms, no es cierto que en el siguiente estado VEREMOS Y CONOCEREMOS
+posible, es más, no es cierto que en el siguiente estado VEREMOS Y CONOCEREMOS
 
-MS SOBRE
+MÁS SOBRE
 
 LA PROVIDENCIA
 
@@ -478,99 +478,99 @@ DE
 
 DIOS DE LO QUE CONOCEMOS AHORA?
 
-Aqu vemos la providencia
+Aquí vemos la providencia
 
-de Dios, pero est como en un espejo, oscuramente. El apstol dice por
+de Dios, pero está como en un espejo, oscuramente. El apóstol dice “por”
 
-espejo. Haba vidrio en los das de los apstoles, no el tipo de sustancia de
+espejo. Había vidrio en los días de los apóstoles, no el tipo de sustancia de
 
-la que estn hechas nuestras ventanas, sino un vidrio grueso y de color opaco,
+la que están hechas nuestras ventanas, sino un vidrio grueso y de color opaco,
 
-no mucho ms transparente que el vidrio que se usa en la fabricacin de las
+no mucho más transparente que el vidrio que se usa en la fabricación de las
 
-botellas comunes, de tal forma que si miraras a travs de un trozo de ese
+botellas comunes, de tal forma que si miraras a través de un trozo de ese
 
-vidrio no podras ver mucho. Eso se asemeja a lo que vemos ahora de la divina
+vidrio no podrías ver mucho. Eso se asemeja a lo que vemos ahora de la divina
 
 providencia. Nosotros creemos que a los que aman a Dios, todas las cosas les
 
-ayudan a bien; hemos visto cmo obran conjuntamente para bien en algunos casos,
+ayudan a bien; hemos visto cómo obran conjuntamente para bien en algunos casos,
 
-y comprobamos en la prctica que as es. Pero aun as, en cuanto a nosotros, se
+y comprobamos en la práctica que así es. Pero aun así, en cuanto a nosotros, se
 
-trata ms bien de un asunto de fe que de un asunto de vista. No podemos decir
+trata más bien de un asunto de fe que de un asunto de vista. No podemos decir
 
-cmo cada lnea oscura y sinuosa se junta en el centro de su amor. No
+cómo “cada línea oscura y sinuosa se junta en el centro de su amor”. No
 
-percibimos todava cmo har l para que esas oscuras dispensaciones de
+percibimos todavía cómo hará Él para que esas oscuras dispensaciones de
 
 tribulaciones y aflicciones que le sobrevienen a Su pueblo realmente sirvan
 
-para Su gloria y para la felicidad perenne de ellos; pero all arriba veremos a
+para Su gloria y para la felicidad perenne de ellos; pero allá arriba veremos a
 
-la providencia, por decirlo as, cara a cara, y yo supongo que el
+la providencia, por decirlo así, cara a cara, y yo supongo que el
 
-descubrimiento de cmo el Seor trat con nosotros ser una de nuestras mayores
+descubrimiento de cómo el Seńor trató con nosotros será una de nuestras mayores
 
-sorpresas. Vamos -diremos algunos de nosotros- orbamos en contra de esas
+sorpresas. “Vamos” -diremos algunos de nosotros- “orábamos en contra de esas
 
-precisas circunstancias que eran las mejores que nos pudieran haber sido asignadas.
+precisas circunstancias que eran las mejores que nos pudieran haber sido asignadas”.
 
-Ah!, -dir otro- yo me he inquietado y turbado por lo que era, despus de
+“ˇAh!”, -dirá otro- “yo me he inquietado y turbado por lo que era, después de
 
-todo, la ms rica misericordia que el Seor me enviara jams. Algunas veces he
+todo, la más rica misericordia que el Seńor me enviara jamás”. Algunas veces he
 
 conocido a personas que han rechazado una carta que tocaba a su puerta, y ha
 
-sucedido que, en algunos casos, contena algo muy valioso, y el cartero hubo de
+sucedido que, en algunos casos, contenía algo muy valioso, y el cartero hubo de
 
-comentar posteriormente: T desconocas su contenido, pues de lo contrario no
+comentar posteriormente: “Tú desconocías su contenido, pues de lo contrario no
 
-la habras rechazado. Y Dios nos ha enviado a menudo tal preciosa cantidad de
+la habrías rechazado”. Y Dios nos ha enviado a menudo tal preciosa cantidad de
 
-misericordias en el sobre negro de la tribulacin, que si hubiramos conocido
+misericordias en el sobre negro de la tribulación, que si hubiéramos conocido
 
-su contenido, lo habramos aceptado, y nos hubiramos alegrado de tener que
+su contenido, lo habríamos aceptado, y nos hubiéramos alegrado de tener que
 
-pagar por l, contentos de darle alojamiento y abrigo; pero debido a que se
+pagar por él, contentos de darle alojamiento y abrigo; pero debido a que se
 
-vea negro, fuimos proclives a cerrarle la puerta. Ahora, all arriba no
+veía negro, fuimos proclives a cerrarle la puerta. Ahora, allá arriba no
 
-solamente nos conoceremos ms a nosotros mismos, sino que percibiremos en mayor
+solamente nos conoceremos más a nosotros mismos, sino que percibiremos en mayor
 
 escala las razones de muchos de los tratos de Dios para con nosotros; y tal vez
 
-descubramos all que las guerras que devastaron a las naciones, y las plagas
+descubramos allá que las guerras que devastaron a las naciones, y las plagas
 
-que llenan muchsimas sepulturas, y los terremotos que hacen temblar a la
+que llenan muchísimas sepulturas, y los terremotos que hacen temblar a la
 
-ciudades, despus de todo, son dientes imprescindibles de la gran rueda de la
+ciudades, después de todo, son dientes imprescindibles de la gran rueda de la
 
-maquinaria divina; y el que est sentado en el trono en este momento y gobierna
+maquinaria divina; y el que está sentado en el trono en este momento y gobierna
 
-supremamente a toda criatura que est en el cielo, o en la tierra, o en el
+supremamente a toda criatura que está en el cielo, o en la tierra, o en el
 
-infierno, har manifiesto all para nosotros que su gobierno era equitativo. Es
+infierno, hará manifiesto allá para nosotros que su gobierno era equitativo. Es
 
-bueno pensar en estos tiempos cuando todo parece descontrolarse, que el
+bueno pensar en estos tiempos cuando todo parece descontrolarse, que “el
 
-principado sobre su hombro; y se llamar su nombre Admirable, Consejero, Dios
+principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios
 
-fuerte, Padre eterno, Prncipe de paz. A la larga todo saldr bien; tiene que
+fuerte, Padre eterno, Príncipe de paz”. A la larga todo saldrá bien; tiene que
 
-salir bien; cada parte y cada porcin han de trabajar conjuntamente en una
+salir bien; cada parte y cada porción han de trabajar conjuntamente en una
 
 unidad de designio para promover la gloria de Dios y el bien de los santos. Lo
 
-veremos all, y elevaremos nuestro cntico con celo y gozo renovados, conforme
+veremos allá, y elevaremos nuestro cántico con celo y gozo renovados, conforme
 
-nuevos despliegues de la sabidura y de la bondad de Dios -cuyos caminos no
+nuevos despliegues de la sabiduría y de la bondad de Dios -cuyos caminos no
 
-pueden ser descubiertos- sean expuestos ante nuestra asombrada visin.
+pueden ser descubiertos- sean expuestos ante nuestra asombrada visión.
 
 En cuarto lugar, no
 
-estaramos retorciendo el texto si decimos que, aunque conocemos algo de LAS
+estaríamos retorciendo el texto si decimos que, aunque conocemos algo de LAS
 
 DOCTRINAS DEL EVANGELIO, Y DE LOS MISTERIOS DE
 
@@ -578,9 +578,9 @@ LA FE
 
 ,
 
-gradualmente, en unos cuantos meses o aos a lo sumo,
+gradualmente, en unos cuantos meses o ańos a lo sumo,
 
-conoceremos muchsimo ms de lo que
+conoceremos muchísimo más de lo que
 
 conocemos ahora.
 
@@ -588,7 +588,7 @@ Hay algunas grandiosas doctrinas, hermanos y hermanas, que
 
 amamos encarecidamente, pero aunque las amamos, nuestro entendimiento es
 
-demasiado dbil para captarlas plenamente.
+demasiado débil para captarlas plenamente.
 
 Nosotros las clasificamos como misterios; las
 
@@ -596,351 +596,351 @@ reconocemos reverentemente, pero, con todo, no nos atrevemos a intentar
 
 explicarlas. Son asuntos de fe para nosotros. Pudiera ser que en el cielo haya
 
-consejos de eterna sabidura en los cuales ni los santos ni los ngeles pueden
+consejos de eterna sabiduría en los cuales ni los santos ni los ángeles pueden
 
 atisbar. Gloria de Dios es encubrir un asunto. Ciertamente, aun cuando fuere
 
-exaltada al cielo, ninguna criatura ser capaz jams de comprender todos los
+exaltada al cielo, ninguna criatura será capaz jamás de comprender todos los
 
-pensamientos del Creador. Nunca seremos omniscientes; no podemos serlo. Slo
+pensamientos del Creador. Nunca seremos omniscientes; no podemos serlo. Sólo
 
-Dios sabe todas las cosas, y entiende todas las cosas. Pero cunto ms de la
+Dios sabe todas las cosas, y entiende todas las cosas. Pero cuánto más de la
 
-autntica verdad habremos de discernir cuando las nieblas y las sombras se
+auténtica verdad habremos de discernir cuando las nieblas y las sombras se
 
-hayan disipado, y cunto ms entenderemos cuando seamos levantados a aquella
+hayan disipado, y cuánto más entenderemos cuando seamos levantados a aquella
 
-esfera ms elevada y dotada de facultades ms brillantes, nadie podra decirlo.
+esfera más elevada y dotada de facultades más brillantes, nadie podría decirlo.
 
-Probablemente cosas que nos desconciertan aqu sern all tan claras como
+Probablemente cosas que nos desconciertan aquí serán allá tan claras como
 
 pudieran serlo. Tal vez nos riamos de nuestra propia ignorancia. Me he
 
-imaginado a veces que las elucidaciones de los instruidos doctores de teologa,
+imaginado a veces que las elucidaciones de los instruidos doctores de teología,
 
-si pudieran ser remitidas al ms insignificante ser en el reino del cielo, slo
+si pudieran ser remitidas al más insignificante ser en el reino del cielo, sólo
 
-le provocara sonrisas ante la docta ignorancia de los hijos de la tierra. Oh,
+le provocaría sonrisas ante la docta ignorancia de los hijos de la tierra. ˇOh,
 
-cun poco conocemos, pero cunto ms conoceremos! Estoy seguro de que conoceremos,
+cuán poco conocemos, pero cuánto más conoceremos! Estoy seguro de que conoceremos,
 
-pues est escrito: Entonces conocer como fui conocido. Ahora vemos las cosas
+pues está escrito: “Entonces conoceré como fui conocido”. Ahora vemos las cosas
 
-como en una niebla hombres como rboles que andan- una doctrina aqu, y una
+como en una niebla –“hombres como árboles… que andan”- una doctrina aquí, y una
 
-doctrina all. Y con frecuencia estamos confundidos y no podemos conjeturar
+doctrina allá. Y con frecuencia estamos confundidos y no podemos conjeturar
 
-cmo armoniza una parte con otra parte perteneciente al mismo sistema, ni
+cómo armoniza una parte con otra parte perteneciente al mismo sistema, ni
 
-discernimos cmo pueden ser consistentes todas esas doctrinas. Este nudo no
+discernimos cómo pueden ser consistentes todas esas doctrinas. Este nudo no
 
-puede ser soltado, esa maraa no puede ser desenmaraada, pero:
+puede ser soltado, esa marańa no puede ser desenmarańada, pero:
 
-Entonces he de ver, y or y conocer
+“Entonces he de ver, y oír y conocer
 
-Todo lo que dese y anhel aqu abajo;
+Todo lo que deseé y anhelé aquí abajo;
 
-Y cada poder encontrar un dulce empleo
+Y cada poder encontrará un dulce empleo
 
-En aquel eterno mundo de gozo.
+En aquel eterno mundo de gozo”.
 
 Pero, amados hermanos y
 
-hermanas mos, habindolos retenido hasta este momento en los atrios exteriores,
+hermanas míos, habiéndolos retenido hasta este momento en los atrios exteriores,
 
 gustosamente quisiera conducirlos al interior del templo; o, para cambiar la
 
 figura, si en el principio he servido el buen vino, ciertamente no voy a sacar
 
-el vino inferior; ms bien preferira que ustedes dijeran, as como el
+el vino inferior; más bien preferiría que ustedes dijeran, así como el
 
-maestresala le dijo al esposo: t has reservado el buen vino hasta ahora.
+maestresala le dijo al esposo: “tú has reservado el buen vino hasta ahora”.
 
-AQU VEMOS A JESUCRISTO,
+AQUÍ VEMOS A JESUCRISTO,
 
 PERO NO LO VEMOS COMO PRONTO LO VEREMOS. Lo hemos visto por fe de tal modo que hemos
 
-contemplado que nuestras cargas han sido transferidas a l, y nuestras
+contemplado que nuestras cargas han sido transferidas a Él, y nuestras
 
-iniquidades han sido llevadas por l al desierto, donde, si fueran buscadas, no
+iniquidades han sido llevadas por Él al desierto, donde, si fueran buscadas, no
 
-seran encontradas. Hemos visto a Jess lo suficiente para saber que todo l
+serían encontradas. Hemos visto a Jesús lo suficiente para saber que “todo él
 
 es
 
-codiciable; podemos decir de l que
+codiciable”; podemos decir de Él que
 
-es Toda mi salvacin y mi deseo. Algunas veces, cuando descorre las celosas
+es “Toda mi salvación y mi deseo”. Algunas veces, cuando descorre las celosías
 
-y se muestra a travs de esas ventanas de gata y puertas de carbunclo, en las
+y se muestra a través de esas ventanas de ágata y puertas de carbunclo, en las
 
 ordenanzas de Su casa, en
 
 la Cena
 
-del Seor especialmente, la hermosura del Rey nos ha arrobado y ha dejado
+del Seńor especialmente, la hermosura del Rey nos ha arrobado y ha dejado
 
-embelesado nuestro corazn; sin embargo, todo lo que hemos visto es un poco
+embelesado nuestro corazón; sin embargo, todo lo que hemos visto es un poco
 
 como el reporte que
 
 la Reina
 
-de Saba tena acerca de la sabidura de Salomn. Una vez que lleguemos a la
+de Saba tenía acerca de la sabiduría de Salomón. Una vez que lleguemos a la
 
-corte del Grandioso Rey, vamos a declarar que no se nos haba dicho ni la
+corte del Grandioso Rey, vamos a declarar que no se nos había dicho ni la
 
-mitad. Diremos: Mis ojos lo vern, y no otro.
+mitad. Diremos: “Mis ojos lo verán, y no otro”.
 
-Hermanos, no es sta la
+Hermanos, żno es ésta la
 
-parte ms exclusiva del cielo? Se han aportado muchas sugerencias acerca de qu
+parte más exclusiva del cielo? Se han aportado muchas sugerencias acerca de qué
 
-haremos en el cielo y qu habremos de disfrutar, pero todo ello me parece que
+haremos en el cielo y qué habremos de disfrutar, pero todo ello me parece que
 
-est lejos del objetivo comparado con sto: que estaremos con Jess, y seremos
+está lejos del objetivo comparado con ésto: que estaremos con Jesús, y seremos
 
-como l y contemplaremos Su gloria. Oh, ver los pies que fueron clavados, y
+como Él y contemplaremos Su gloria. ˇOh, ver los pies que fueron clavados, y
 
-tocar la mano que fue atravesada, y mirar la cabeza que llev las espinas, e
+tocar la mano que fue atravesada, y mirar la cabeza que llevó las espinas, e
 
-inclinarnos ante l que es inefable amor, indecible condescendencia e infinita
+inclinarnos ante Él que es inefable amor, indecible condescendencia e infinita
 
-ternura! Oh, inclinarse ante l, y besar ese rostro bendito! Jess, qu ms
+ternura! ˇOh, inclinarse ante Él, y besar ese rostro bendito! Jesús, żqué más
 
-necesitamos que verte a travs de Tu propia luz, verte a Ti y hablar contigo,
+necesitamos que verte a través de Tu propia luz, verte a Ti y hablar contigo,
 
-como cuando un hombre habla con su amigo? Es placentero hablar acerca de sto,
+como cuando un hombre habla con su amigo? Es placentero hablar acerca de ésto,
 
-pero, cmo ser all cuando se abran las puertas de perla? Las calles de oro
+pero, żcómo será allá cuando se abran las puertas de perla? Las calles de oro
 
-sern poco atractivas para nosotros, y las arpas de los ngeles slo nos
+serán poco atractivas para nosotros, y las arpas de los ángeles sólo nos
 
-embelesarn un poco, si las comparamos con el Rey en medio del trono. l ser
+embelesarán un poco, si las comparamos con el Rey en medio del trono. Él será
 
 quien cautive nuestra mirada, quien absorba nuestros pensamientos, quien encadene
 
 nuestro afecto y eleve todas nuestras sagradas pasiones al culmen del ardor
 
-celestial. Veremos a Jess.
+celestial. Veremos a Jesús.
 
-Adems, (y aqu nos
+Además, (y aquí nos
 
-adentramos en las cosas profundas), ms all de toda duda, VEREMOS TAMBIN A
+adentramos en las cosas profundas), más allá de toda duda, VEREMOS TAMBIÉN A
 
-DIOS. Est escrito que los de limpio corazn vern a Dios. Dios es visto ahora
+DIOS. Está escrito que los de limpio corazón verán a Dios. Dios es visto ahora
 
-en Sus obras y en Su palabra. En verdad estos ojos poco podran soportar ver la
+en Sus obras y en Su palabra. En verdad estos ojos poco podrían soportar ver la
 
-visin beatfica, sin embargo, tenemos razones para esperar que, en la medida
+visión beatífica, sin embargo, tenemos razones para esperar que, en la medida
 
-que las criaturas puedan tolerar la visin del infinito Creador, se nos
+que las criaturas puedan tolerar la visión del infinito Creador, se nos
 
-permitir ver a Dios. Leemos que Aarn y ciertos elegidos vieron el trono de
+permitirá ver a Dios. Leemos que Aarón y ciertos elegidos vieron el trono de
 
-Dios, y el brillo, por decirlo as, de una piedra de zafiro, ligera y pura como
+Dios, y el brillo, por decirlo así, de una piedra de zafiro, ligera y pura como
 
-el jaspe. La luz del cielo es la presencia de Dios. La permanencia ms
+el jaspe. La luz del cielo es la presencia de Dios. La permanencia más
 
-inmediata de Dios en medio de la nueva Jerusaln es su gloria sin par y su
+inmediata de Dios en medio de la nueva Jerusalén es su gloria sin par y su
 
-bienaventuranza peculiar. Entonces entenderemos ms acerca de Dios de lo que
+bienaventuranza peculiar. Entonces entenderemos más acerca de Dios de lo que
 
-entendemos ahora; estaremos ms cerca de l, estaremos ms familiarizados con
+entendemos ahora; estaremos más cerca de Él, estaremos más familiarizados con
 
-l y estaremos ms llenos de l. El amor de Dios ser derramado abundantemente
+Él y estaremos más llenos de Él. El amor de Dios será derramado abundantemente
 
-en nuestros corazones; conoceremos a nuestro Padre como no lo conocemos todava
+en nuestros corazones; conoceremos a nuestro Padre como no lo conocemos todavía
 
-ahora; conoceremos al Hijo en un grado ms pleno de lo que se nos ha revelado
+ahora; conoceremos al Hijo en un grado más pleno de lo que se nos ha revelado
 
-hasta ahora, y conoceremos al Espritu Santo en Su amor personal y en Su
+hasta ahora, y conoceremos al Espíritu Santo en Su amor personal y en Su
 
-ternura para con nosotros, ms all de todas esas influencias y operaciones que
+ternura para con nosotros, más allá de todas esas influencias y operaciones que
 
 nos han reconfortado en nuestras aflicciones y nos han guiado en nuestras perplejidades
 
-aqu abajo.
+aquí abajo.
 
 Dejo que sus
 
-pensamientos y sus deseos sigan la enseanza del Espritu. En cuanto a m, me
+pensamientos y sus deseos sigan la enseńanza del Espíritu. En cuanto a mí, me
 
-acobardo ante ese pensamiento a la vez que me deleito en l. Yo, que he forzado
+acobardo ante ese pensamiento a la vez que me deleito en él. Yo, que he forzado
 
 mis ojos mirando a la naturaleza, donde las cosas creadas muestran la obra de
 
-las manos de Dios; yo, cuya conciencia se ha visto aterrada al or a la voz de
+las manos de Dios; yo, cuya conciencia se ha visto aterrada al oír a la voz de
 
-Dios proclamando Su santa ley; yo, cuyo corazn ha sido derretido cuando
+Dios proclamando Su santa ley; yo, cuyo corazón ha sido derretido cuando
 
-irrumpan en mis odos los tiernos acentos de Su bendito Evangelio en esos
+irrumpían en mis oídos los tiernos acentos de Su bendito Evangelio en esos
 
-fragmentos de sagrada meloda que alivian el peso de la profeca; yo, que he
+fragmentos de sagrada melodía que alivian el peso de la profecía; yo, que he
 
-reconocido en el beb de Beln a la esperanza de Israel; en el hombre de
+reconocido en el bebé de Belén a la esperanza de Israel; en el hombre de
 
-Nazaret, al Mesas que vendra; en la vctima del Calvario, al nico Mediador;
+Nazaret, al Mesías que vendría; en la víctima del Calvario, al único Mediador;
 
-en Jess resucitado, al bienamado Hijo. Para m, verdaderamente, Dios encarnado
+en Jesús resucitado, al bienamado Hijo. Para mí, verdaderamente, Dios encarnado
 
 ha sido tan palpablemente revelado que casi he visto a Dios, pues le he visto a
 
-l, por decirlo as, en quien toda la plenitud de
+Él, por decirlo así, en quien toda la plenitud de
 
 la Deidad
 
 habita
 
-corporalmente. Aun as, veo por espejo, oscuramente.
+corporalmente. Aun así, “veo por espejo, oscuramente”.
 
-Ilumina estos oscuros
+“Ilumina estos oscuros
 
-sentidos, despierta esta conciencia amodorrada, purifica mi corazn, dame
+sentidos, despierta esta conciencia amodorrada, purifica mi corazón, dame
 
-comunin con Cristo, y luego llvame a lo alto, transprtame al tercer cielo; para
+comunión con Cristo, y luego llévame a lo alto, transpórtame al tercer cielo; para
 
-que me sea posible ver a Dios, para que sea una realidad verlo. Pero qu
+que me sea posible ver a Dios, para que sea una realidad verlo. Pero qué
 
-significa eso, o qu es, ah, Dios mo!, no podra decirlo.
+significa eso, o qué es, ˇah, Dios mío!, no podría decirlo”.
 
 II.
 
 Nos
 
-propusimos preguntarnos, en segundo lugar, CMO SER EFECTUADO ESTE CAMBIO TAN
+propusimos preguntarnos, en segundo lugar, żCÓMO SERÁ EFECTUADO ESTE CAMBIO TAN
 
-NOTABLE? POR QU VEREMOS MS CLARAMENTE ENTONCES QUE AHORA? No podemos
+NOTABLE? żPOR QUÉ VEREMOS MÁS CLARAMENTE ENTONCES QUE AHORA? No podemos
 
-responder enteramente esa pregunta, pero una o dos sugerencias podran
+responder enteramente esa pregunta, pero una o dos sugerencias podrían
 
-ayudarnos. Sin duda muchas de estas cosas sern reveladas ms claramente en el
+ayudarnos. Sin duda muchas de estas cosas serán reveladas más claramente en el
 
-siguiente estado. Aqu la luz es como la aurora. Es un tenue crepsculo. En el
+siguiente estado. Aquí la luz es como la aurora. Es un tenue crepúsculo. En el
 
-cielo ser el incendio del medioda. Dios ha declarado algo de S mismo por
+cielo será el incendio del mediodía. Dios ha declarado algo de Sí mismo por
 
-boca de Sus santos profetas y apstoles. Le ha agradado hablarnos ms
+boca de Sus santos profetas y apóstoles. Le ha agradado hablarnos más
 
-claramente a travs de los labios de Su Hijo, a quien ha nombrado heredero de
+claramente a través de los labios de Su Hijo, a quien ha nombrado heredero de
 
-todas las cosas, para mostrarnos ms abiertamente los pensamientos de Su
+todas las cosas, para mostrarnos más abiertamente los pensamientos de Su
 
-corazn y el consejo de Su voluntad. Estos son los primeros pasos hacia el
+corazón y el consejo de Su voluntad. Estos son los primeros pasos hacia el
 
-conocimiento. Pero all la luz ser como la luz de siete das, y all la
+conocimiento. Pero allá la luz será como la luz de siete días, y allá la
 
-manifestacin de todos los tesoros de la sabidura ser ms resplandeciente y
+manifestación de todos los tesoros de la sabiduría será más resplandeciente y
 
-ms clara de lo que es ahora; pues Dios, el nico sabio Dios, nos descubrir
+más clara de lo que es ahora; pues Dios, el único sabio Dios, nos descubrirá
 
-los misterios y nos exhibir las glorias de Su reino sempiterno. La revelacin
+los misterios y nos exhibirá las glorias de Su reino sempiterno. La revelación
 
 que ahora tenemos es apropiada para nosotros como hombres revestidos con
 
-nuestros pobres cuerpos mortales; la revelacin entonces ser apropiada para
+nuestros pobres cuerpos mortales; la revelación entonces será apropiada para
 
-nosotros como espritus inmortales. Cuando seamos resucitados de los muertos, la
+nosotros como espíritus inmortales. Cuando seamos resucitados de los muertos, la
 
-revelacin ser apropiada para nuestros cuerpos espirituales e inmortales. Aqu
+revelación será apropiada para nuestros cuerpos espirituales e inmortales. Aquí
 
-tambin estamos distanciados de muchas de las cosas de las que anhelamos
+también estamos distanciados de muchas de las cosas de las que anhelamos
 
-conocer algo, pero all estaremos ms cerca de ellas. All estaremos en un
+conocer algo, pero allá estaremos más cerca de ellas. Allá estaremos en un
 
-terreno estratgico, con el horizonte entero desplegado ante nosotros. Nuestro
+terreno estratégico, con el horizonte entero desplegado ante nosotros. Nuestro
 
-Seor Jess est muy lejos de nosotros en cuanto a Su presencia personal. Lo
+Seńor Jesús está muy lejos de nosotros en cuanto a Su presencia personal. Lo
 
-vemos a travs del telescopio de la fe, pero entonces lo veremos cara a cara.
+vemos a través del telescopio de la fe, pero entonces lo veremos cara a cara.
 
-Su presencia literal y corporal est en el cielo, desde que fue llevado arriba,
+Su presencia literal y corporal está en el cielo, desde que fue llevado arriba,
 
-y nosotros necesitamos ser llevados arriba de igual manera para estar con l,
+y nosotros necesitamos ser llevados arriba de igual manera para estar con Él,
 
-all donde est, para que lo podamos contemplar literalmente. Acrcate al
+allí donde está, para que lo podamos contemplar literalmente. Acércate al
 
-manantial y entenders mucho ms; ubcate en el centro, y las cosas parecern
+manantial y entenderás mucho más; ubícate en el centro, y las cosas parecerán
 
-regulares y ordenadas. Si pudieras pararte en el sol y ver las rbitas en las
+regulares y ordenadas. Si pudieras pararte en el sol y ver las órbitas en las
 
-que los planetas giran alrededor de esa luminaria central, se volvera lo
+que los planetas giran alrededor de esa luminaria central, se volvería lo
 
-suficientemente claro; pero durante muchas edades los astrnomos eran incapaces
+suficientemente claro; pero durante muchas edades los astrónomos eran incapaces
 
-de descubrir algo del orden y hablaban de los planetas como progresivos, retrgrados
+de descubrir algo del orden y hablaban de los planetas como progresivos, retrógrados
 
-o inmviles. Lleguemos a Dios, el centro, y veremos cmo la providencia gira en
+o inmóviles. Lleguemos a Dios, el centro, y veremos cómo la providencia gira en
 
 torno a Su trono de zafiro.
 
 Nosotros mismos,
 
-tambin, cuando lleguemos al cielo, estaremos ms calificados para ver de lo
+también, cuando lleguemos al cielo, estaremos más calificados para ver de lo
 
-que estamos ahora. Sera una inconveniencia para nosotros conocer aqu tanto
+que estamos ahora. Sería una inconveniencia para nosotros conocer aquí tanto
 
 como conoceremos en el cielo. Sin duda hemos pensado algunas veces que si
 
-tuviramos mejores odos sera una gran bendicin. Hemos deseado poder or a
+tuviéramos mejores oídos sería una gran bendición. Hemos deseado poder oír a
 
-una distancia de diez millas, pero probablemente no estaramos mejor: podramos
+una distancia de diez millas, pero probablemente no estaríamos mejor: podríamos
 
-or demasiado y los sonidos se apagaran entre s. Probablemente nuestra visin
+oír demasiado y los sonidos se apagarían entre sí. Probablemente nuestra visión
 
-no sea tan buena como desearamos que lo fuera, pero un sustancial incremento
+no sea tan buena como desearíamos que lo fuera, pero un sustancial incremento
 
-de poder ocular podra no ser de ninguna ayuda para nosotros. Nuestros rganos
+de poder ocular podría no ser de ninguna ayuda para nosotros. Nuestros órganos
 
-naturales estn adaptados para nuestra presente esfera de ser; y nuestras
+naturales están adaptados para nuestra presente esfera de ser; y nuestras
 
-facultades mentales estn, en el caso de la mayora de nosotros, adecuadamente
+facultades mentales están, en el caso de la mayoría de nosotros, adecuadamente
 
-adaptadas a nuestros requerimientos morales. Si supiramos ms de nuestra
+adaptadas a nuestros requerimientos morales. Si supiéramos más de nuestra
 
-propia pecaminosidad, podramos ser conducidos a la desesperacin; si conociramos
+propia pecaminosidad, podríamos ser conducidos a la desesperación; si conociéramos
 
-ms de la gloria de Dios, podramos morir de terror; si tuviramos ms
+más de la gloria de Dios, podríamos morir de terror; si tuviéramos más
 
-entendimiento, a menos que tuviramos una capacidad equivalente para emplearlo,
+entendimiento, a menos que tuviéramos una capacidad equivalente para emplearlo,
 
-podramos estar llenos de arrogancia y ser atormentados por la ambicin. Pero
+podríamos estar llenos de arrogancia y ser atormentados por la ambición. Pero
 
-all arriba tendremos nuestras mentes y nuestros sistemas fortalecidos para
+allá arriba tendremos nuestras mentes y nuestros sistemas fortalecidos para
 
-recibir ms, sin el dao que nos vendra aqu por saltarnos sobre los lmites
+recibir más, sin el dańo que nos vendría aquí por saltarnos sobre los límites
 
-del orden supremamente designados y regulados divinamente. Aqu no podemos
+del orden supremamente designados y regulados divinamente. Aquí no podemos
 
-beber del vino del reino, pues es demasiado fuerte para nosotros; pero all
+beber del vino del reino, pues es demasiado fuerte para nosotros; pero allá
 
 arriba lo beberemos nuevo en el reino de nuestro Padre celestial, sin el miedo
 
-de la intoxicacin del orgullo, o los mareos de las pasiones. Conoceremos como
+de la intoxicación del orgullo, o los mareos de las pasiones. Conoceremos como
 
-somos conocidos. Adems, queridos amigos, la atmsfera del cielo es tanto ms
+somos conocidos. Además, queridos amigos, la atmósfera del cielo es tanto más
 
-clara que sta, que no me sorprende que podamos ver mejor all. Aqu tenemos el
+clara que ésta, que no me sorprende que podamos ver mejor allá. Aquí tenemos el
 
 humo del cuidado cotidiano, el polvo constante del trabajo arduo, la niebla del
 
-problema que se alza perpetuamente. No se podra esperar que viramos mucho
+problema que se alza perpetuamente. No se podría esperar que viéramos mucho
 
-dentro de esa atmsfera llena de humo; pero cuando atravesemos el ms all, no
+dentro de esa atmósfera llena de humo; pero cuando atravesemos el más allá, no
 
-vamos a encontrar jams nubes congregadas alrededor del sol que oculten su
+vamos a encontrar jamás nubes congregadas alrededor del sol que oculten su
 
-sempiterno resplandor. All todo es claro. La luz del da es serena como el
+sempiterno resplandor. Allá todo es claro. La luz del día es serena como el
 
-medioda. Estaremos en una atmsfera ms clara y en una luz ms brillante.
+mediodía. Estaremos en una atmósfera más clara y en una luz más brillante.
 
 III.
 
 Las
 
-lecciones prcticas que podemos aprender de este tema exigen la atencin de
+lecciones prácticas que podemos aprender de este tema exigen la atención de
 
-ustedes antes de que lleguemos a una conclusin. Me parece que hay un llamado a
+ustedes antes de que lleguemos a una conclusión. Me parece que hay un llamado a
 
 nuestra
 
@@ -948,47 +948,47 @@ gratitud.
 
 Hemos de estar muy
 
-agradecidos por todo lo que vemos realmente. Quienes no ven ahora ah, ni
+agradecidos por todo lo que vemos realmente. Quienes no ven ahora –ah, ni
 
-siquiera por espejo, oscuramente- no vern nunca cara a cara. Los ojos que
+siquiera “por espejo, oscuramente”- no verán nunca cara a cara. Los ojos que
 
-nunca ven a Cristo por fe nunca lo vern con gozo en el cielo. Si nunca te has
+nunca ven a Cristo por fe nunca lo verán con gozo en el cielo. Si nunca te has
 
 visto como un leproso, manchado por el pecado y abochornado y penitente, nunca
 
-te vers redimido del pecado, renovado por la gracia y con un espritu revestido
+te verás redimido del pecado, renovado por la gracia y con un espíritu revestido
 
-de blanco. Si no tienes ningn sentido de la presencia de Dios aqu que te
+de blanco. Si no tienes ningún sentido de la presencia de Dios aquí que te
 
-constria a adorarle y amarle, no tendrs ninguna visin de Su gloria en el ms
+constrińa a adorarle y amarle, no tendrás ninguna visión de Su gloria en el más
 
-all, que te introduzca perennemente a la plenitud del gozo y del placer. Oh!,
+allá, que te introduzca perennemente a la plenitud del gozo y del placer. ˇOh!,
 
-algrate por la visin que tienes, querido hermano, querida hermana. Es Dios
+alégrate por la visión que tienes, querido hermano, querida hermana. Es Dios
 
-quien te la ha dado. T eres un ciego de nacimiento, y Desde el principio no se
+quien te la ha dado. Tú eres un ciego de nacimiento, y “Desde el principio no se
 
-ha odo decir que alguno abriese los ojos a uno que naci ciego. Este milagro
+ha oído decir que alguno abriese los ojos a uno que nació ciego”. Este milagro
 
-ha sido obrado en ti; t puedes ver, y puedes decir: Una cosa s, que habiendo
+ha sido obrado en ti; tú puedes ver, y puedes decir: “Una cosa sé, que habiendo
 
-yo sido ciego, ahora veo.
+yo sido ciego, ahora veo”.
 
-Nuestro texto nos ensea
+Nuestro texto nos enseńa
 
-que esta dbil visin es muy
+que esta débil visión es muy
 
 esperanzadora.
 
-T vers mejor poco a poco.
+Tú verás mejor poco a poco.
 
-Oh, t no sabes cun pronto podra ser un da
+ˇOh, tú no sabes cuán pronto –podría ser un día
 
 o dos a partir de ahora- que estemos en la gloria! Dios pudiera haberlo
 
-ordenado as, que entre nosotros y el cielo no hubiere sino un paso.
+ordenado así, que entre nosotros y el cielo no hubiere sino un paso.
 
-Otra leccin es la de la
+Otra lección es la de la
 
 paciencia
 
@@ -998,31 +998,31 @@ asuntos de los que hemos hablado han de suavizar la aspereza de nuestros
 
 debates; cuando estamos disputando acerca de puntos de dificultad hemos de
 
-sentir que no debemos enojarnos por su causa, porque, despus de todo, hay lmites
+sentir que no debemos enojarnos por su causa, porque, después de todo, hay límites
 
-para nuestra capacidad presente as como tambin para nuestro conocimiento
+para nuestra capacidad presente así como también para nuestro conocimiento
 
-actual. Nuestras disputas son a menudo pueriles. Bien podramos dejar algunas
+actual. Nuestras disputas son a menudo pueriles. Bien podríamos dejar algunas
 
-preguntas en suspenso durante algn tiempo. Dos personas en la oscuridad
+preguntas en suspenso durante algún tiempo. Dos personas en la oscuridad
 
-difieren en cuanto a un color, y estn peleando ruidosamente al respecto. Si
+difieren en cuanto a un color, y están peleando ruidosamente al respecto. Si
 
-introdujramos velas y alumbrramos al color, las velas no mostraran lo que
+introdujéramos velas y alumbráramos al color, las velas no mostrarían lo que
 
-era; pero si lo mirramos maana por la maana, cuando el sol brilla, podramos
+era; pero si lo miráramos mańana por la mańana, cuando el sol brilla, podríamos
 
-saber de qu color se trataba. Cuntas dificultades en la palabra de Dios son
+saber de qué color se trataba. ˇCuántas dificultades en la palabra de Dios son
 
-de esa naturaleza! Todava no pueden ser discriminadas justamente; hasta que el
+de esa naturaleza! Todavía no pueden ser discriminadas justamente; hasta que el
 
-da amanezca, no todos los smbolos apocalpticos sern transparentes para
+día amanezca, no todos los símbolos apocalípticos serán transparentes para
 
-nuestro propio entendimiento. Adems, no tenemos tiempo que desperdiciar en
+nuestro propio entendimiento. Además, no tenemos tiempo que desperdiciar en
 
 tanto que haya tanto trabajo por hacer. Ya se ha desperdiciado mucho tiempo. La
 
-navegacin a vela es peligrosa, los vientos son fuertes, el mar est
+navegación a vela es peligrosa, los vientos son fuertes, el mar está
 
 encrespado. Hay que estibar el barco, mantener las velas en regla, maniobrarlo
 
@@ -1030,87 +1030,87 @@ y evitar las arenas movedizas. En cuanto a otros asuntos, tenemos que esperar
 
 hasta llegar al refugio confiable, y ser capaces de hablar con alguno de los
 
-espritus relucientes que estn delante del trono. Cuando algunas de las cosas
+espíritus relucientes que están delante del trono. Cuando algunas de las cosas
 
 que conocemos sean abiertas para nosotros, confesaremos los errores que cometimos,
 
 y nos gozaremos en la luz que recibiremos.
 
-Acaso esta feliz
+żAcaso esta feliz
 
-perspectiva no debera excitar nuestra
+perspectiva no debería excitar nuestra
 
-aspiracin
+aspiración
 
-y hacernos sentir muy deseosos de estar all? Es natural que nosotros
+y hacernos sentir muy deseosos de estar allá? Es natural que nosotros
 
 queramos conocer, pero no conoceremos como somos conocidos hasta que estemos
 
-presentes con el Seor. Ahora estamos en una escuela; somos prvulos en una
+presentes con el Seńor. Ahora estamos en una escuela; somos párvulos en una
 
-escuela. Pronto iremos a una universidad a la gran Universidad del Cielo- y
+escuela. Pronto iremos a una universidad –a la gran Universidad del Cielo- y
 
-recibiremos nuestro diploma all. Sin embargo, algunos de nosotros, en lugar de
+recibiremos nuestro diploma allá. Sin embargo, algunos de nosotros, en lugar de
 
-estar ansiosos de ir, nos estremecemos ante el pensamiento de la muerte, nos
+estar ansiosos de ir, nos estremecemos ante el pensamiento de la muerte, ˇnos
 
-aterra atravesar la puerta de gozo! Hay muchos seres que mueren sbitamente;
+aterra atravesar la puerta de gozo! Hay muchos seres que mueren súbitamente;
 
 otros mueren mientras duermen, y otros han transitado del tiempo a la eternidad
 
-pasando casi desapercibidos frente a quienes los acompaaban junto a sus
+pasando casi desapercibidos frente a quienes los acompańaban junto a sus
 
-lechos. Pueden estar seguros de sto: no hay dolor por morir; el dolor es por
+lechos. Pueden estar seguros de ésto: no hay dolor por morir; el dolor es por
 
-vivir. Cuando han dejado de vivir aqu, han acabado con el dolor. No culpen a la
+vivir. Cuando han dejado de vivir aquí, han acabado con el dolor. No culpen a la
 
 muerte por aquello por lo cual no merece ser culpada; la vida subsiste en el
 
 dolor; la muerte es el final del dolor. El hombre que tiene miedo de morir
 
-debera tener miedo de vivir. Has de estar contento en cualquier momento que la
+debería tener miedo de vivir. Has de estar contento en cualquier momento que la
 
-voluntad del Seor as lo ordene. Encomienda tu espritu a Su guarda. Quin,
+voluntad del Seńor así lo ordene. Encomienda tu espíritu a Su guarda. żQuién,
 
-con solo que haya visto las vislumbres de Su rostro resplandeciente, no anhelara
+con solo que haya visto las vislumbres de Su rostro resplandeciente, no anhelaría
 
-ver Su rostro, que es como el sol que brilla en su potencia? Oh, Seor!,
+ver Su rostro, que es como el sol que brilla en su potencia? ˇOh, Seńor!,
 
-hgase Tu voluntad. Slo quiero decir esta nica palabra, si se me permite
+hágase Tu voluntad. Sólo quiero decir esta única palabra, si se me permite
 
-hacerlo: que te contemplemos pronto, si as pudiera ser. Vemos ahora y
+hacerlo: que te contemplemos pronto, si así pudiera ser. żVemos ahora y
 
-esperamos ver todava mejor? Entonces bendigamos el nombre del Seor, que nos
+esperamos ver todavía mejor? Entonces bendigamos el nombre del Seńor, que nos
 
 ha elegido por Su benignidad y por Su infinita misericordia. Por otro lado,
 
-debe ser causa de grande ansiedad si no hemos credo en Jess, pues quien no ha
+debe ser causa de grande ansiedad si no hemos creído en Jesús, pues quien no ha
 
-credo en l, moribundo como est, no ver nunca el rostro de Dios con gozo.
+creído en Él, moribundo como está, no verá nunca el rostro de Dios con gozo.
 
-Oh, incrdulo!,
+ˇOh, incrédulo!,
 
-preocpate por tu alma, y bscalo a l, acude a l. Oh!, que Dios abriera tus
+preocúpate por tu alma, y búscalo a Él, acude a Él. ˇOh!, que Dios abriera tus
 
-ojos en esta misma casa de oracin. Es una bendicin que conozcas en parte.
+ojos en esta misma casa de oración. Es una bendición que conozcas en parte.
 
 Tres veces bienaventurado, digo; pues tan ciertamente como conoces en parte
 
-ahora, t conocers plenamente en el ms all. Que conocerlo a l sea tu feliz
+ahora, tú conocerás plenamente en el más allá. Que conocerlo a Él sea tu feliz
 
-porcin, ya que ese conocimiento es vida eterna. Que Dios nos conceda eso, por
+porción, ya que ese conocimiento es vida eterna. Que Dios nos conceda eso, por
 
-Jesucristo nuestro Seor. Amn.
+Jesucristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: 2 Corintios 5.
+del sermón: 2 Corintios 5.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 5/Mayo/2011
 

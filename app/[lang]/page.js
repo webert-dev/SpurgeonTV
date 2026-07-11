@@ -4,7 +4,7 @@ import SearchClient from './search-client';
 
 export default async function Home({ params }) {
   const { lang } = await params;
-  const volumes = await getVolumes();
+  const volumes = await getVolumes(lang);
 
   const stats = [
     { number: '3,563', label: 'Published Sermons' },

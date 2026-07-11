@@ -1,20 +1,20 @@
 # Sermón 2715 | Sermón 2715
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Resignacin
+Resignación
 
 Cristiana
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA NOCHE DE
 
 UN JUEVES A
 
-PRINCIPIOS DEL AO 1859
+PRINCIPIOS DEL AŃO 1859
 
 POR CHARLES HADDON
 
@@ -30,143 +30,147 @@ Y
 
 SELECCIONADO PARA LECTURA EL DOMINGO 24 DE FEBRERO, 1901.
 
-No sea como
+“No sea como
 
-yo quiero, sino como t. Mateo 26: 39.
+yo quiero, sino como tú”. Mateo 26: 39.
 
-Escribiendo con respecto a nuestro Seor
+Escribiendo con respecto a nuestro Seńor
 
-Jesucristo, el apstol Pablo dice: Aunque era Hijo, por lo que padeci
+Jesucristo, el apóstol Pablo dice: “Aunque era Hijo, por lo que padeció
 
-aprendi la obediencia. Aquel que, siendo Dios, saba todas las cosas, tuvo
+aprendió la obediencia”. Aquel que, siendo Dios, sabía todas las cosas, tuvo
 
-que aprender obediencia en el tiempo de Su humillacin. Aquel que en S mismo
+que aprender obediencia en el tiempo de Su humillación. Aquel que en Sí mismo
 
 es
 
-la Sabidura
+la Sabiduría
 
 Encarnada
 
-, condescendi a inscribirse en la escuela del
+, condescendió a inscribirse en la escuela del
 
-sufrimiento para aprender all esa importante leccin de la vida cristiana: la obediencia
+sufrimiento para aprender allí esa importante lección de la vida cristiana: la obediencia
 
-a la voluntad de Dios. Y aqu, en el huerto de Getseman, ustedes pueden
+a la voluntad de Dios. Y aquí, en el huerto de Getsemaní, ustedes pueden
 
-contemplar al divino Escolar que sale para practicar Su leccin. La haba
+contemplar al divino Escolar que sale para practicar Su lección. La había
 
 estado aprendiendo a lo largo de toda Su vida, y ahora tiene que aprenderla una
 
-ltima vez en Su agona y sudor sangriento y en Su terrible muerte de cruz. Ahora
+última vez en Su agonía y sudor sangriento y en Su terrible muerte de cruz. Ahora
 
 debe descubrir las mayores profundidades del sufrimiento, y debe llegar a la
 
-cima del conocimiento de la obediencia. Vean qu bien ha aprendido Su leccin.
+cima del conocimiento de la obediencia. Vean qué bien ha aprendido Su lección.
 
 Noten que se trata de un escolar sumamente completo y maduro. Ha cursado la clase
 
-ms avanzada en esa escuela y ante la inmediata perspectiva de la muerte, puede
+más avanzada en esa escuela y ante la inmediata perspectiva de la muerte, puede
 
-decirle a Su Padre: No sea como yo quiero, sino como t.
+decirle a Su Padre: “No sea como yo quiero, sino como tú”.
 
-El propsito de este discurso es recomendarles
+El propósito de este discurso es recomendarles
 
-el bendito ejemplo de nuestro Seor Jesucristo y, con la ayuda de Dios el
+el bendito ejemplo de nuestro Seńor Jesucristo y, con la ayuda de Dios el
 
-Espritu Santo, exhortarlos a que sean en todo semejantes a su gloriosa Cabeza
+Espíritu Santo, exhortarlos a que sean en todo semejantes a su gloriosa Cabeza
 
 y a que aprendan, por todas las providencias cotidianas que Dios se complace en
 
-prodigarles, esta leccin de un sometimiento a la voluntad de Dios y de una
+prodigarles, esta lección de un sometimiento a la voluntad de Dios y de una
 
-entrega total a l.
+entrega total a Él.
 
 Leyendo recientemente ciertas obras de
 
 algunos autores que pertenecen a la iglesia de Roma, me ha impresionado el
 
-maravilloso amor que revelan por el Seor Jesucristo. En un tiempo, yo tena la
+maravilloso amor que revelan por el Seńor Jesucristo. En un tiempo, yo tenía la
 
-conviccin de que era imposible que alguien fuera salvado en esa iglesia; pero,
+convicción de que era imposible que alguien fuera salvado en esa iglesia; pero,
 
 frecuentemente, cuando termino de leer los libros de esos santos varones, me he
 
-sentido como un enano a la par suya, y me he dicho: S, a pesar de sus
+sentido como un enano a la par suya, y me he dicho: “Sí, a pesar de sus
 
-errores, estos varones deben de haber sido instruidos por el Espritu Santo. A
+errores, estos varones deben de haber sido instruidos por el Espíritu Santo. A
 
 despecho de todos los males que han abrevado tan profundamente, estoy
 
-completamente seguro de que deben de haber tenido comunin con Jess, pues de
+completamente seguro de que deben de haber tenido comunión con Jesús, pues de
 
-otra manera no habran podido escribir como lo hicieron. Tales escritores son
+otra manera no habrían podido escribir como lo hicieron”. Tales escritores son
 
-escasos y surgen a grandes intervalos pero, aun as, aun dentro de esa iglesia
+escasos y surgen a grandes intervalos pero, aun así, aun dentro de esa iglesia
 
-apstata hay un remanente de acuerdo a la eleccin de la gracia. Me encontraba
+apóstata hay un remanente de acuerdo a la elección de la gracia. Me encontraba
 
-leyendo el otro da un libro escrito por uno de esos autores, y me encontr con
+leyendo el otro día un libro escrito por uno de esos autores, y me encontré con
 
-esta destacable expresin: Acaso el cuerpo que tiene una Cabeza coronada de
+esta destacable expresión: “żAcaso el cuerpo que tiene una Cabeza coronada de
 
-espinas habra de tener miembros delicados y temerosos del dolor? Ni Dios lo
+espinas habría de tener miembros delicados y temerosos del dolor? ˇNi Dios lo
 
-quiera! Este comentario me lleg directo al corazn. Consider cun a menudo los
+quiera!” Este comentario me llegó directo al corazón. Consideré cuán a menudo los
 
-hijos de Dios rehyen el dolor y el reproche y la censura, y piensan que es
+hijos de Dios rehúyen el dolor y el reproche y la censura, y piensan que es
 
-algo extrao que les sobrevenga alguna tribulacin violenta. Bastara que
+algo extrańo que les sobrevenga alguna tribulación violenta. Bastaría que
 
-recordaran que su Cabeza tuvo que sudar como grandes gotas de sangre que caan hasta
+recordaran que su Cabeza tuvo que sudar como grandes gotas de sangre que caían hasta
 
 la tierra, y que su Cabeza estuvo coronada de espinas, para que no les
 
-pareciera nada extrao que los miembros de Su cuerpo mstico tengan que sufrir
+pareciera nada extrańo que los miembros de Su cuerpo místico tengan que sufrir
 
-tambin. Si Cristo hubiese sido una persona delicada, si nuestra gloriosa
+también. Si Cristo hubiese sido una persona delicada, si nuestra gloriosa
 
 Cabeza hubiera estado reposando sobre una blanda almohada de tranquilidad, entonces
 
-los que somos miembros de Su Iglesia habramos podido esperar que pasramos por
+los que somos miembros de Su Iglesia habríamos podido esperar que pasáramos por
 
-este mundo disfrutando de dicha y de comodidades. Pero si l tiene que ser
+este mundo disfrutando de dicha y de comodidades. Pero si Él tiene que ser
 
-baado en Su propia sangre, si las espinas deben horadar Sus sienes, si Sus
+bańado en Su propia sangre, si las espinas deben horadar Sus sienes, si Sus
 
 labios tienen que quedarse resecos, y si Su boca tiene que ser calcinada como
 
-en un horno, habramos de escapar nosotros del sufrimiento y de la agona? Ha
+en un horno, żhabríamos de escapar nosotros del sufrimiento y de la agonía? żHa
 
-de tener Cristo una cabeza de latn pero unas manos de oro? Ha de parecer como
+de tener Cristo una cabeza de latón pero unas manos de oro? żHa de parecer como
 
-si Su cabeza reluciera en el horno y no hemos de relucir nosotros tambin en el
+si Su cabeza reluciera en el horno y no hemos de relucir nosotros también en el
 
-horno? Aunque l deba atravesar los mares del sufrimiento,
+horno? Aunque Él deba atravesar los mares del sufrimiento,
+
+“
+
+ż
 
 Hemos de ser llevados a los cielos,
 
 Sobre camas
 
-floridas de tranquilidad
+floridas de tranquilidad”
 
 ?
 
-Ah, no! Debemos ser conformados a
+ˇAh, no! Debemos ser conformados a
 
-nuestro Seor en Su humillacin, si es que hemos de ser semejantes a l en Su
+nuestro Seńor en Su humillación, si es que hemos de ser semejantes a Él en Su
 
 gloria.
 
 Entonces, hermanos y hermanas, tengo que
 
-predicarles sobre esta leccin que algunos de nosotros hemos comenzado a
+predicarles sobre esta lección que algunos de nosotros hemos comenzado a
 
-aprender, pero de la que hasta ahora sabemos muy poco, y es la leccin de
+aprender, pero de la que hasta ahora sabemos muy poco, y es la lección de
 
-decir: No sea como yo quiero, sino como t. Primero, permtanme
+decir: “No sea como yo quiero, sino como tú”. Primero, permítanme
 
-explicar el significado de esta oracin;
+explicar el significado de esta oración;
 
 luego,
 
@@ -176,45 +180,45 @@ exhortarlos, mediante razones,
 
 para que la conviertan en su constante clamor;
 
-a continuacin, quisiera
+a continuación, quisiera
 
-mostrarles cul ser el feliz efecto si se
+mostrarles cuál será el feliz efecto si se
 
-convierte en el deseo supremo de sus espritus;
+convierte en el deseo supremo de sus espíritus;
 
 y vamos a concluir con una
 
-pregunta prctica:
+pregunta práctica:
 
-qu puede conducirnos
+żqué puede conducirnos
 
-a esta bendita condicin?
+a esta bendita condición?
 
 I.
 
-Primero, entonces, CUL ES EL
+Primero, entonces, żCUÁL ES EL
 
-SIGNIFICADO DE ESTA ORACIN? No sea como yo quiero, sino como t.
+SIGNIFICADO DE ESTA ORACIÓN? “No sea como yo quiero, sino como tú”.
 
 No me voy a dirigir a aquellos cristianos
 
-que slo son como enanos, que poco saben acerca de las cosas del reino. Ms
+que sólo son como enanos, que poco saben acerca de las cosas del reino. Más
 
 bien voy a dirigirme a quienes hacen negocio en las profundas aguas de la
 
-comunin, a quienes saben lo que es apoyar su cabeza en el pecho de Jess y caminar
+comunión, a quienes saben lo que es apoyar su cabeza en el pecho de Jesús y caminar
 
-con Dios como lo haca Enoc y hablar con l como lo haca Abraham. Queridos
+con Dios como lo hacía Enoc y hablar con Él como lo hacía Abraham. Queridos
 
-hermanos mos, nicamente quienes son como ustedes pueden entender esta oracin
+hermanos míos, únicamente quienes son como ustedes pueden entender esta oración
 
 en toda su longitud y en toda su anchura. El hermano de ustedes que escasamente
 
-conoce todava el significado de la palabra comunin, puede orar de esta manera
+conoce todavía el significado de la palabra comunión, puede orar de esta manera
 
-en alguna dbil medida; con todo, no se puede esperar que discierna toda la
+en alguna débil medida; con todo, no se puede esperar que discierna toda la
 
-enseanza espiritual que hay en estas palabras de nuestro Seor. Pero a ustedes
+enseńanza espiritual que hay en estas palabras de nuestro Seńor. Pero a ustedes
 
 que han sido instruidos por Cristo, a ustedes que se han vuelto escolares
 
@@ -222,69 +226,69 @@ maduros en la escuela de Cristo puedo hablarles como a sabios. Juzguen lo que
 
 digo.
 
-Si ustedes y yo decimos esta oracin de
+Si ustedes y yo decimos esta oración de
 
-todo corazn, y no la utilizamos como una mera frmula sino que la decimos con
+todo corazón, y no la utilizamos como una mera fórmula sino que la decimos con
 
-una plena intencin, debemos estar preparados para este tipo de experiencias: algunas
+una plena intención, debemos estar preparados para este tipo de experiencias: algunas
 
-veces, cuando estamos en medio del servicio ms activo, cuando estamos
+veces, cuando estamos en medio del servicio más activo, cuando estamos
 
 sirviendo diligentemente a Dios tanto con nuestras manos como con nuestro
 
-corazn, cuando el xito est coronando todas nuestras labores,
+corazón, cuando el éxito está coronando todas nuestras labores,
 
-el Seor nos arrumba
+el Seńor nos arrumba
 
 , nos aparta de
 
-repente de la via y nos arroja en el horno. Justo en el momento preciso cuando
+repente de la vińa y nos arroja en el horno. Justo en el momento preciso cuando
 
-la iglesia pareciera necesitarnos ms, cuando las necesidades del mundo estn implorndonos
+la iglesia pareciera necesitarnos más, cuando las necesidades del mundo están implorándonos
 
-ms, cuando nuestros corazones estn llenos de amor por Cristo y por nuestros
+más, cuando nuestros corazones están llenos de amor por Cristo y por nuestros
 
-prjimos, sucede a menudo que, justo entonces, Dios nos derriba con una
+prójimos, sucede a menudo que, justo entonces, Dios nos derriba con una
 
 enfermedad o nos cambia de nuestra esfera de actividad. Pero si elevamos de
 
-todo corazn esta oracin, tenemos que estar preparados a decir: No sea como
+todo corazón esta oración, tenemos que estar preparados a decir: “No sea como
 
-yo quiero, sino como t. Eso no es fcil, pues no nos ensea el propio
+yo quiero, sino como tú”. Eso no es fácil, pues żno nos enseńa el propio
 
-Espritu Santo que hemos de anhelar el servicio activo para nuestro Salvador?
+Espíritu Santo que hemos de anhelar el servicio activo para nuestro Salvador?
 
-Cuando l pone en nosotros el amor por nuestro prjimo, no nos constrie, por
+Cuando Él pone en nosotros el amor por nuestro prójimo, żno nos constrińe, por
 
-decirlo as, a hacer de la salvacin de ellos nuestra comida y nuestra bebida?
+decirlo así, a hacer de la salvación de ellos nuestra comida y nuestra bebida?
 
-Cuando est obrando activamente dentro de nuestros corazones, no sentimos como
+Cuando está obrando activamente dentro de nuestros corazones, żno sentimos como
 
-si no pudiramos vivir sin servir a Dios? No sentimos, entonces, que trabajar
+si no pudiéramos vivir sin servir a Dios? żNo sentimos, entonces, que trabajar
 
-para el Seor es nuestro ms excelso reposo, y que bregar agotadoramente por
+para el Seńor es nuestro más excelso reposo, y que bregar agotadoramente por
 
-Jess es nuestro ms dulce placer? No pareciera entonces sumamente
+Jesús es nuestro más dulce placer? żNo pareciera entonces sumamente
 
-desquiciante para nuestro ardiente espritu que nos veamos forzados a beber de
+desquiciante para nuestro ardiente espíritu que nos veamos forzados a beber de
 
 la copa de la enfermedad y a ser incapaces de realizar activamente cualquier
 
 cosa para Dios? El predicador ve que los hombres son convertidos y que su
 
-ministerio est siendo exitoso pero, sbitamente, es obligado a dejar de predicar;
+ministerio está siendo exitoso pero, súbitamente, es obligado a dejar de predicar;
 
 o el maestro de la escuela dominical ha sido, por la gracia de Dios, el
 
-instrumento para llevar a su clase a una interesante y esperanzadora condicin;
+instrumento para llevar a su clase a una interesante y esperanzadora condición;
 
-sin embargo, justo cuando la clase necesita ms de su presencia, l se ve
+sin embargo, justo cuando la clase necesita más de su presencia, él se ve
 
-derribado en tierra de tal manera que no puede proseguir con su trabajo. Ah!,
+derribado en tierra de tal manera que no puede proseguir con su trabajo. ˇAh!,
 
-es entonces que el espritu encuentra difcil decir: No sea como yo quiero,
+es entonces que el espíritu encuentra difícil decir: “No sea como yo quiero,
 
-sino como t. Pero si adoptamos esta oracin, esto es lo que significa: que
+sino como tú”. Pero si adoptamos esta oración, esto es lo que significa: que
 
 tenemos que estar preparados a sufrir en vez de servir, que tenemos que estar
 
@@ -292,35 +296,35 @@ tan dispuestos a permanecer en las trincheras como a escalar los muros, que
 
 tenemos que estar tan dispuestos a ser arrumbados en el hospital del Rey como a
 
-luchar en medio de las filas del ejrcito del Rey. Esto es duro para carne y
+luchar en medio de las filas del ejército del Rey. Esto es duro para carne y
 
-sangre, pero tenemos que hacerlo si presentamos esta peticin.
+sangre, pero tenemos que hacerlo si presentamos esta petición.
 
-Si decimos esta oracin de todo corazn,
+Si decimos esta oración de todo corazón,
 
-habr una segunda tribulacin para nosotros. Algunas veces,
+habrá una segunda tribulación para nosotros. Algunas veces,
 
-Dios exigir de nosotros que laboremos en
+Dios exigirá de nosotros que laboremos en
 
 campos adversos.
 
-l hace que Sus hijos aren en la roca y que echen su pan
+Él hace que Sus hijos aren en la roca y que echen su pan
 
-sobre las aguas. l enva a su Ezequiel a profetizar en un valle lleno de
+sobre las aguas. Él envía a su Ezequiel a profetizar en un valle lleno de
 
-huesos secos, y a Su Jons a llevar Su mensaje a Nnive. l pide a Sus siervos
+huesos secos, y a Su Jonás a llevar Su mensaje a Nínive. Él pide a Sus siervos
 
-que hagan un trabajo extrao, un trabajo que pareciera que nunca ser exitoso y
+que hagan un trabajo extrańo, un trabajo que pareciera que nunca será exitoso y
 
-que no redundar en honor ni de Dios ni de ellos mismos. No dudo de que haya algunos
+que no redundará en honor ni de Dios ni de ellos mismos. No dudo de que haya algunos
 
 ministros que trabajan arduamente y que laboran con todo su vigor, pero que
 
-slo ven escaso fruto. Muy lejos, en las oscuras tierras del paganismo, hay
+sólo ven escaso fruto. Muy lejos, en las oscuras tierras del paganismo, hay
 
-varones que han estado trabajando arduamente durante aos pero que a duras
+varones que han estado trabajando arduamente durante ańos pero que a duras
 
-penas han tenido un convertido que los anime. Aqu tambin, en Inglaterra, hay
+penas han tenido un convertido que los anime. Aquí también, en Inglaterra, hay
 
 varones que predican
 
@@ -328,125 +332,125 @@ la
 
 Palabra
 
-del Seor con toda sinceridad y fidelidad y que, sin
+del Seńor con toda sinceridad y fidelidad y que, sin
 
 embargo, no ven conversiones de almas. Ellos saben que son para Dios un olor agradable
 
 de Cristo, tanto en los que perecen como en los que son salvos. Nuestros
 
-corazones, as confo, estn tan llenos del Espritu que nos incita a clamar
+corazones, así confío, están tan llenos del Espíritu que nos incita a clamar
 
-como Raquel: Dame hijos, o si no, me muero, que no podemos contentarnos si no
+como Raquel: “Dame hijos, o si no, me muero”, que no podemos contentarnos si no
 
-vemos el xito de nuestras labores. No obstante El Maestro efectivamente nos
+vemos el éxito de nuestras labores. No obstante El Maestro efectivamente nos
 
-dice: No, les digo que continen trabajando arduamente para M aunque no les
+dice: “No, les digo que continúen trabajando arduamente para Mí aunque no les
 
-d ningn fruto por su labor; deben continuar arando sobre esta roca
+dé ningún fruto por su labor; deben continuar arando sobre esta roca
 
-simplemente porque Yo les digo que lo hagan. Ah!, hermanos, es entonces que resulta
+simplemente porque Yo les digo que lo hagan”. ˇAh!, hermanos, es entonces que resulta
 
-difcil decir: No sea como yo quiero, sino como t. Pero tenemos que decirlo;
+difícil decir: “No sea como yo quiero, sino como tú”. Pero tenemos que decirlo;
 
-hemos de sentir que estamos dispuestos a renunciar incluso a la alegra de la
+hemos de sentir que estamos dispuestos a renunciar incluso a la alegría de la
 
-cosecha y a la gloria del xito, si Dios as lo quiere.
+cosecha y a la gloria del éxito, si Dios así lo quiere.
 
 En otras ocasiones,
 
 Dios retira a Su pueblo de posiciones de un honorable servicio, y le da
 
-otras funciones que son sustancialmente inferiores en la opinin de los
+otras funciones que son sustancialmente inferiores en la opinión de los
 
 hombres.
 
-Yo pienso que para m sera muy difcil ser desterrado de mi gran
+Yo pienso que para mí sería muy difícil ser desterrado de mi gran
 
-congregacin y de los miles de mis oyentes, para ser trasladado a alguna
+congregación y de los miles de mis oyentes, para ser trasladado a alguna
 
-pequea aldea donde slo pudiera predicar el Evangelio a un puado de personas;
+pequeńa aldea donde sólo pudiera predicar el Evangelio a un puńado de personas;
 
-con todo, estoy seguro de que si yo me adentrara plenamente en el espritu de
+con todo, estoy seguro de que si yo me adentrara plenamente en el espíritu de
 
-las palabras de nuestro Seor: No sea como yo quiero, sino como t debera
+las palabras de nuestro Seńor: “No sea como yo quiero, sino como tú” debería
 
-estar tan dispuesto a estar all como aqu.
+estar tan dispuesto a estar allí como aquí.
 
 Me he enterado de que la obediencia que
 
-estn obligados a prestar los jesuitas a sus superiores es de un carcter tan
+están obligados a prestar los jesuitas a sus superiores es de un carácter tan
 
-extraordinario, que, en cierta ocasin, al superior de la orden se le meti en
+extraordinario, que, en cierta ocasión, al superior de la orden se le metió en
 
 la cabeza la loca idea de enviar de inmediato al presidente de una de sus
 
-universidades (que haba escrito los libros ms sabios en varios idiomas y que
+universidades (que había escrito los libros más sabios en varios idiomas y que
 
-era un varn que posea los ms claros talentos) desde el pas adonde se
+era un varón que poseía los más claros talentos) desde el país adonde se
 
-encontraba a Bath, para que permaneciera en la calle durante un ao como un
+encontraba a Bath, para que permaneciera en la calle durante un ańo como un
 
-barrendero; y el hombre as lo hizo. Se vio forzado a hacerlo; su voto le
+barrendero; y el hombre así lo hizo. Se vio forzado a hacerlo; su voto le
 
 obligaba a hacer cualquier cosa que se le ordenara.
 
-Ahora bien, es difcil hacer eso en un
+Ahora bien, es difícil hacer eso en un
 
 sentido espiritual, pero, con todo, es un deber cristiano. Recordamos el dicho
 
-de un buen hombre que afirmaba que los ngeles en el cielo estn tan
+de un buen hombre que afirmaba que los ángeles en el cielo están tan
 
 completamente sometidos a la obediencia a Dios que, si fuera preciso hacer dos
 
-trabajos, gobernar un imperio o barrer una calle, ninguno de los dos ngeles
+trabajos, gobernar un imperio o barrer una calle, ninguno de los dos ángeles
 
-que fueran seleccionados para desempear ambas diligencias, tendra jams alguna
+que fueran seleccionados para desempeńar ambas diligencias, tendría jamás alguna
 
-preferencia en el asunto, sino que dejara que el Seor eligiera qu parte
+preferencia en el asunto, sino que dejaría que el Seńor eligiera qué parte
 
-deba cumplir. Tal vez t pudieras ser llamado a abandonar el cargo de ser el
+debía cumplir. Tal vez tú pudieras ser llamado a abandonar el cargo de ser el
 
-responsable de los servicios en algn lugar de adoracin, para convertirte en
+responsable de los servicios en algún lugar de adoración, para convertirte en
 
-uno los ms humildes miembros en otra iglesia; pudieras ser tomado de un lugar
+uno los más humildes miembros en otra iglesia; pudieras ser tomado de un lugar
 
-de mucho honor, para ser colocado en el rango ms bajo del ejrcito. Estaras
+de mucho honor, para ser colocado en el rango más bajo del ejército. żEstarías
 
 dispuesto a someterte a ese tipo de tratamiento? Tu carne y sangre dicen:
 
-Seor, si puedo servir todava en Tu ejrcito, hazme capitn, o, por lo menos,
+“Seńor, si puedo servir todavía en Tu ejército, hazme capitán, o, por lo menos,
 
-permite que sea un sargento, o un cabo del ejrcito. Si pudiera ayudar a tirar
+permite que sea un sargento, o un cabo del ejército. Si pudiera ayudar a tirar
 
-de tu carro, djame ser el caballo que gue, permteme correr de primero en el
+de tu carro, déjame ser el caballo que guíe, permíteme correr de primero en el
 
-equipo, deja que ostente los listones vistosos. Pero Dios podra decirte: Yo
+equipo, deja que ostente los listones vistosos”. Pero Dios podría decirte: “Yo
 
 te puse en el fragor de la batalla y ahora te voy a poner en la retaguardia; te
 
-di vigor y fuerza para que lucharas con gran xito y ahora voy a hacer que te
+di vigor y fuerza para que lucharas con gran éxito y ahora voy a hacer que te
 
-quedes con el bagaje; voy a quitarte de la posicin prominente y te usar en
+quedes con el bagaje; voy a quitarte de la posición prominente y te usaré en
 
-otra parte ahora. Pero con tal de que pudiramos decir de corazn esta
+otra parte ahora”. Pero con tal de que pudiéramos decir de corazón esta
 
-oracin: No sea como yo quiero, sino como t, estaramos listos para servir a
+oración: “No sea como yo quiero, sino como tú”, estaríamos listos para servir a
 
-Dios en cualquier parte y de cualquier manera, siempre y cuando supiramos que
+Dios en cualquier parte y de cualquier manera, siempre y cuando supiéramos que
 
 estamos cumpliendo Su voluntad.
 
 Pero hay otra prueba que tendremos que
 
-soportar a nuestra medida, que demostrar si entendemos lo que Cristo quiso
+soportar a nuestra medida, que demostrará si entendemos lo que Cristo quiso
 
-decir con esta oracin. Algunas veces,
+decir con esta oración. Algunas veces,
 
 en
 
-el servicio de Cristo hemos de estar preparados a soportar la prdida de la
+el servicio de Cristo hemos de estar preparados a soportar la pérdida de la
 
-reputacin, del honor e incluso del propio nombre.
+reputación, del honor e incluso del propio nombre.
 
 Cuando vine a Londres
 
@@ -456,131 +460,131 @@ la
 
 Palabra
 
-, pens que poda soportar cualquier cosa por Cristo;
+, pensé que podía soportar cualquier cosa por Cristo;
 
 pero luego me vi vergonzosamente calumniado y me vi convertido en el blanco de
 
-todo tipo de falsedades, y en agona me postr rostro en tierra delante de Dios
+todo tipo de falsedades, y en agonía me postré rostro en tierra delante de Dios
 
-y clam a l. Sent como si eso fuera algo que yo no poda tolerar; mi
+y clamé a Él. Sentí como si eso fuera algo que yo no podía tolerar; mi
 
-reputacin era algo muy apreciable para m, y no poda tolerar que se dijeran
+reputación era algo muy apreciable para mí, y no podía tolerar que se dijeran
 
-esas falsedades sobre m. Entonces me vino este pensamiento: Tienes que
+esas falsedades sobre mí. Entonces me vino este pensamiento: “Tienes que
 
-entregarle todo a Cristo, tienes que someter todo a l: carcter, reputacin y
+entregarle todo a Cristo, tienes que someter todo a Él: carácter, reputación y
 
-todo lo que tienes; y si es la voluntad del Seor, sers considerado el ms vil
+todo lo que tienes; y si es la voluntad del Seńor, serás considerado el más vil
 
-de los viles, pero en tanto que permanezcas sirvindole a l, y tu carcter sea
+de los viles, pero en tanto que permanezcas sirviéndole a Él, y tu carácter sea
 
 realmente puro, no tienes que temer. Si es la voluntad del Maestro que seas
 
 hollado y que escupan sobre ti todos los malvados de este mundo, simplemente tienes
 
-que soportarlo y decir: No sea como yo quiero, sino como t. Y recuerdo
+que soportarlo y decir: ‘No sea como yo quiero, sino como tú’”. Y recuerdo
 
-entonces cmo me puse de pie despus de haber estado de rodillas, y cmo cant
+entonces cómo me puse de pie después de haber estado de rodillas, y cómo canté
 
-para m esta estrofa:
+para mí esta estrofa:
 
-Si sobre mi
+“Si sobre mi
 
 rostro, por Tu amado nombre,
 
 Llueven la
 
-vergenza y el reproche,
+vergüenza y el reproche,
 
 Saludo al reproche,
 
-y doy la bienvenida a la vergenza,
+y doy la bienvenida a la vergüenza,
 
 Siempre y
 
-cuando T me recuerdes.
+cuando Tú me recuerdes”.
 
-Pero cun duro debe de haber sido
+“ˇPero cuán duro debe de haber sido”
 
-dices- sufrir la prdida de tu reputacin, y que se dijeran falsamente cosas
+–dices- “sufrir la pérdida de tu reputación, y que se dijeran falsamente cosas
 
-perversas en tu contra por causa del nombre de Cristo! Y por qu fue tan
+perversas en tu contra por causa del nombre de Cristo!” żY por qué fue tan
 
-duro? Pues bien, fue duro porque precisamente yo no haba aprendido plenamente
+duro? Pues bien, fue duro porque precisamente yo no había aprendido plenamente
 
-cmo presentar esta oracin de nuestro Seor Jesucristo, y me temo que todava no
+cómo presentar esta oración de nuestro Seńor Jesucristo, y me temo que todavía no
 
 lo he aprendido por completo. Era algo muy deleitable que incluso nuestros
 
-enemigos hablaran bien de nosotros, y que furamos a travs del mundo
+enemigos hablaran bien de nosotros, y que fuéramos a través del mundo
 
-revestidos con tal santidad de carcter que los hombres que cubren de escarnio
+revestidos con tal santidad de carácter que los hombres que cubren de escarnio
 
-a toda la religin no pudieran encontrar fallas en nosotros; pero es algo
+a toda la religión no pudieran encontrar fallas en nosotros; pero es algo
 
-igualmente glorioso que seamos puestos en la picota de la vergenza, y que
+igualmente glorioso que seamos puestos en la picota de la vergüenza, y que
 
-seamos apedreados por cada transente y que seamos la cancin del borracho y el
+seamos apedreados por cada transeúnte y que seamos la canción del borracho y el
 
 objeto de escarnio del blasfemo, cuando no lo merecemos, y que soportemos todo
 
-eso por causa de Cristo. Ese es un verdadero herosmo; ese es el significado de
+eso por causa de Cristo. Ese es un verdadero heroísmo; ese es el significado de
 
-la oracin de nuestro texto.
+la oración de nuestro texto.
 
-Adems, algunos de ustedes han pensado
+Además, algunos de ustedes han pensado
 
-algunas veces: Oh, que el Maestro se complaciera en abrir una puerta para m
+algunas veces: “ˇOh, que el Maestro se complaciera en abrir una puerta para mí
 
 donde yo pudiera ser un instrumento para hacer el bien!
 
-Cun dichoso sera si pudiera tener ya sea ms riquezas, o mayor
+ˇCuán dichoso sería si pudiera tener ya sea más riquezas, o mayor
 
-influencia, o ms conocimiento, o ms talentos para poder servirle mejor!
+influencia, o más conocimiento, o más talentos para poder servirle mejor!”
 
 Has
 
-orado y has meditado al respecto y te has dicho: Con slo que pudiera llegar
+orado y has meditado al respecto y te has dicho: “ˇCon sólo que pudiera llegar
 
-a tal y tal posicin, de qu manera tan excelente sera capaz de servir a
+a tal y tal posición, de qué manera tan excelente sería capaz de servir a
 
-Dios! Has visto que tu Seor da a algunos de Sus siervos diez talentos, pero a
+Dios!” Has visto que tu Seńor da a algunos de Sus siervos diez talentos, pero a
 
-ti te ha dado slo uno; entonces te has puesto de rodillas y le has pedido que
+ti te ha dado sólo uno; entonces te has puesto de rodillas y le has pedido que
 
-fuera tan bondadoso de darte dos, pero l te lo ha negado. O has recibido dos
+fuera tan bondadoso de darte dos, pero Él te lo ha negado. O has recibido dos
 
-talentos, y le has pedido que te permitiera tener diez, y l te ha dicho: No,
+talentos, y le has pedido que te permitiera tener diez, y Él te ha dicho: “No,
 
-te dar dos talentos y nada ms. Pero t dices: No es acaso un deseo
+te daré dos talentos y nada más”. Pero tú dices: “żNo es acaso un deseo
 
-laudable que yo busque hacer ms bien? Ciertamente. Comercia con tus talentos
+laudable que yo busque hacer más bien?” Ciertamente. Comercia con tus talentos
 
-y multiplcalos si puedes. Pero supn que no tuvieras poder de expresin, supn
+y multiplícalos si puedes. Pero supón que no tuvieras poder de expresión, supón
 
-que no tuvieras ninguna oportunidad de servir a Dios, o incluso supn que la
+que no tuvieras ninguna oportunidad de servir a Dios, o incluso supón que la
 
-esfera de tu influencia fuera limitada, qu pasara entonces? Pues bien, debes
+esfera de tu influencia fuera limitada, żqué pasaría entonces? Pues bien, debes
 
-decir: Seor, yo esperaba que fuera Tu voluntad que tuviera una esfera ms
+decir: “Seńor, yo esperaba que fuera Tu voluntad que tuviera una esfera más
 
-amplia; pero si no lo es, si bien quisiera servirte en una escala mayor, estar
+amplia; pero si no lo es, si bien quisiera servirte en una escala mayor, estaré
 
-muy contento de glorificarte en mi actual esfera ms restringida pues me parece
+muy contento de glorificarte en mi actual esfera más restringida pues me parece
 
-que hay una oportunidad para probar mi fe y mi resignacin y repito: No sea
+que hay una oportunidad para probar mi fe y mi resignación y repito: ‘No sea
 
-como yo quiero, sino como t.
+como yo quiero, sino como tú’”.
 
-Varones cristianos, estn preparados
+Varones cristianos, żestán preparados
 
-para decir de corazn esta oracin? Me temo que no hay ni un solo individuo
+para decir de corazón esta oración? Me temo que no hay ni un solo individuo
 
-entre nosotros que pudiera decir esta oracin con toda la plenitud de su
+entre nosotros que pudiera decir esta oración con toda la plenitud de su
 
 significado. Tal vez pudieran llegar tan lejos como yo he llegado; pero si Dios
 
-les tomara la palabra, y les dijera: Mi voluntad es que tu esposa sea atacada
+les tomara la palabra, y les dijera: “Mi voluntad es que tu esposa sea atacada
 
 por una fatal enfermedad, y que se doble y muera ante tus ojos cual lirio
 
@@ -594,55 +598,55 @@ atravieses el mar; que vayas a tierras distantes y que soportes durezas
 
 desconocidas; es mi voluntad que, finalmente, tus huesos permanezcan siendo
 
-blanqueados sobre la arena del desierto en algn clima extrao. Ests
+blanqueados sobre la arena del desierto en algún clima extrańo”. żEstás
 
-dispuesto a soportar todo eso por Cristo? Recuerda que no habras captado el
+dispuesto a soportar todo eso por Cristo? Recuerda que no habrías captado el
 
-pleno significado de esta oracin si no hubieres dicho: S a todo lo que
+pleno significado de esta oración si no hubieres dicho: “Sí” a todo lo que
 
-significa; y mientras no recorras las mximas distancias a las que la
+significa; y mientras no recorras las máximas distancias a las que la
 
-providencia de Dios quiere que llegues, no habrs captado el pleno alcance de
+providencia de Dios quiere que llegues, no habrás captado el pleno alcance de
 
-la resignacin contenida en este clamor de nuestro Seor. Creo que muchos de
+la resignación contenida en este clamor de nuestro Seńor. Creo que muchos de
 
-los primeros cristianos se saban esta oracin de memoria; es maravilloso
+los primeros cristianos se sabían esta oración de memoria; es maravilloso
 
-comprobar cun dispuestos estaban a hacer cualquier cosa y a ser cualquier cosa
+comprobar cuán dispuestos estaban a hacer cualquier cosa y a ser cualquier cosa
 
-por Cristo. Tenan metida en su cabeza la idea de que no deban vivir para s,
+por Cristo. Tenían metida en su cabeza la idea de que no debían vivir para sí,
 
-y tambin la tenan metida en su corazn, y ellos crean que sufrir el martirio
+y también la tenían metida en su corazón, y ellos creían que sufrir el martirio
 
-era el ms excelso honor que podran desear. Por consiguiente, si eran llevados
+era el más excelso honor que podrían desear. Por consiguiente, si eran llevados
 
-a los tribunales de los jueces, nunca huan de sus perseguidores; casi
+a los tribunales de los jueces, nunca huían de sus perseguidores; casi
 
-cortejaban a la muerte pues pensaban que el ms sublime privilegio que podran tener
+cortejaban a la muerte pues pensaban que el más sublime privilegio que podrían tener
 
 era que fueran despedazados por los leones en la arena o que fueran decapitados
 
-por la espada. Ahora bien, con slo que pudiramos introducir esa idea en
+por la espada. Ahora bien, con sólo que pudiéramos introducir esa idea en
 
-nuestros corazones, con qu valor nos ceiramos, cun plenamente podramos
+nuestros corazones, con qué valor nos ceńiríamos, cuán plenamente podríamos
 
-servir entonces a Dios, y cun pacientemente podramos soportar la persecucin.
+servir entonces a Dios, y cuán pacientemente podríamos soportar la persecución.
 
-Bastara con que aprendiramos el significado de esta oracin: No sea como yo
+Bastaría con que aprendiéramos el significado de esta oración: “No sea como yo
 
-quiero, sino como t.
+quiero, sino como tú”.
 
 II.
 
 En segundo lugar, HE DE INTENTAR DARLES
 
-ALGUNAS RAZONES POR LAS QUE SER LO MEJOR PARA NOSOTROS QUE BUSQUEMOS TENER AL
+ALGUNAS RAZONES POR LAS QUE SERÁ LO MEJOR PARA NOSOTROS QUE BUSQUEMOS TENER AL
 
-ESPRITU SANTO EN NUESTRO INTERIOR, PARA QUE PODAMOS POSEER ESA DISPOSICIN DE
+ESPÍRITU SANTO EN NUESTRO INTERIOR, PARA QUE PODAMOS POSEER ESA DISPOSICIÓN DE
 
-NIMO Y DE CORAZN.
+ÁNIMO Y DE CORAZÓN.
 
-Y la primera razn es que es simplemente
+Y la primera razón es que es simplemente
 
 un asunto de derecho.
 
@@ -650,7 +654,7 @@ Dios hace lo que
 
 place en todo momento, y yo no debo hacer lo que yo quiera si es contrario a Su
 
-voluntad. Si alguna vez mi voluntad tiene propsitos contrapuestos a los de la
+voluntad. Si alguna vez mi voluntad tiene propósitos contrapuestos a los de la
 
 voluntad del Ser Supremo, lo correcto es que mi voluntad se sujete a
 
@@ -662,151 +666,151 @@ Si
 
 yo pudiera hacer lo que yo quisiera,
 
-si esta dbil y pobre criatura que soy pudiera frustrar al Creador Omnipotente,
+si esta débil y pobre criatura que soy pudiera frustrar al Creador Omnipotente,
 
-estara mal que lo hiciera. Cmo! Me cre l y no har lo que quiera conmigo?
+estaría mal que lo hiciera. ˇCómo! żMe creó Él y no hará lo que quiera conmigo?
 
-Es l como el alfarero y yo soy slo como la arcilla, y la cosa formada habr
+żEs Él como el alfarero y yo soy sólo como la arcilla, y la cosa formada habrá
 
-de decirle al que la form: Por qu me has hecho as? No, Seor mo, es
+de decirle al que la formó: “Por qué me has hecho así?” No, Seńor mío, es
 
-simplemente justo que hagas lo que te agrade conmigo, pues yo te pertenezco yo
+simplemente justo que hagas lo que te agrade conmigo, pues yo te pertenezco –yo
 
-soy Tuyo, T me formaste- Tuyo, pues T me compraste con Tu sangre. Si yo soy
+soy Tuyo, Tú me formaste- Tuyo, pues Tú me compraste con Tu sangre. Si yo soy
 
-una joya comprada con la sangre preciosa de Jess, entonces l puede darme la
+una joya comprada con la sangre preciosa de Jesús, entonces Él puede darme la
 
 forma que le agrade, puede pulirme como lo prefiera, puede dejar que permanezca
 
-en las tinieblas de un atad, o dejarme resplandecer en Su mano o en Su
+en las tinieblas de un ataúd, o dejarme resplandecer en Su mano o en Su
 
 diadema; de hecho, puede hacer conmigo lo que quiera, pues soy Suyo; y en tanto
 
-que s que lo hace, debo decir: Todo lo que l haga es correcto; mi voluntad
+que sé que lo hace, debo decir: “Todo lo que Él haga es correcto; mi voluntad
 
-no se contrapondr a Su voluntad.
+no se contrapondrá a Su voluntad”.
 
-Pero, adems, esto no es slo un asunto
+Pero, además, esto no es sólo un asunto
 
 de derecho,
 
-es un asunto de sabidura
+es un asunto de sabiduría
 
 para nosotros.
 
-Amado hermano, puedes estar seguro de que si pudiramos
+Amado hermano, puedes estar seguro de que si pudiéramos
 
-cumplir nuestra propia voluntad, sera a menudo lo peor para nosotros en el
+cumplir nuestra propia voluntad, sería a menudo lo peor para nosotros en el
 
 mundo; pero dejar que Dios haga lo que quiera con nosotros, aun si estuviese en
 
-nuestro poder frustrarlo, es un acto de sabidura de nuestra parte. Qu es lo
+nuestro poder frustrarlo, es un acto de sabiduría de nuestra parte. żQué es lo
 
 que deseo cuando anhelo que se haga mi voluntad? Deseo mi propia felicidad;
 
-bien, pero la alcanzar con mucha mayor facilidad si dejo que Dios haga Su
+bien, pero la alcanzaré con mucha mayor facilidad si dejo que Dios haga Su
 
 voluntad, pues la voluntad de Dios es para Su gloria a la vez que para mi
 
-felicidad; entonces, por mucho que piense que mi propia voluntad tender a
+felicidad; entonces, por mucho que piense que mi propia voluntad tenderá a
 
 contribuir a mi comodidad y a mi felicidad, puedo tener la seguridad de que la
 
-voluntad de Dios es infinitamente ms benfica para m que mi propia voluntad;
+voluntad de Dios es infinitamente más benéfica para mí que mi propia voluntad;
 
-y que, aunque la voluntad de Dios pudiera parecer oscura y sombra para m en
+y que, aunque la voluntad de Dios pudiera parecer oscura y sombría para mí en
 
-ese momento, con todo, de un aparente mal l sacar un bien que nunca podra
+ese momento, con todo, de un aparente mal Él sacará un bien que nunca podría
 
-haber provenido de aquel supuesto bien tras el que mi dbil y pusilnime juicio
+haber provenido de aquel supuesto bien tras el que mi débil y pusilánime juicio
 
 es propenso a correr.
 
-Pero, adems, supongan que fuera posible
+Pero, además, supongan que fuera posible
 
 que se hiciera nuestra voluntad.
 
-Acaso
+żAcaso
 
-no sera una violacin de esa confianza amorosa que Cristo muy bien puede
+no sería una violación de esa confianza amorosa que Cristo muy bien puede
 
-exigir de nuestras manos: que confiemos en l?
+exigir de nuestras manos: que confiemos en Él?
 
-Acaso no somos salvados por
+żAcaso no somos salvados por
 
-confiar en nuestro Seor Jesucristo? Acaso la fe en Cristo no ha sido el
+confiar en nuestro Seńor Jesucristo? żAcaso la fe en Cristo no ha sido el
 
-instrumento de mi salvacin del pecado y del infierno? Entonces,
+instrumento de mi salvación del pecado y del infierno? Entonces,
 
 definitivamente no debo huir de este gobierno cuando me encuentre en
 
-situaciones de tribulacin y dificultad. Si la fe ha sido superior al pecado,
+situaciones de tribulación y dificultad. Si la fe ha sido superior al pecado,
 
-por medio de la sangre de Cristo, ciertamente ser superior a la tribulacin,
+por medio de la sangre de Cristo, ciertamente será superior a la tribulación,
 
-gracias al brazo todopoderoso de Cristo. No le dije, cuando vine a l por
+gracias al brazo todopoderoso de Cristo. żNo le dije, cuando vine a Él por
 
-primera vez, que no iba a confiar en nadie sino slo en l? No declar que
+primera vez, que no iba a confiar en nadie sino sólo en Él? żNo declaré que
 
-todas mis dems confianzas se haban roto y se haban quebrado y que haban
+todas mis demás confianzas se habían roto y se habían quebrado y que habían
 
-sido esparcidas al viento? Y no le ped que me permitiera poner mi confianza
+sido esparcidas al viento? żY no le pedí que me permitiera poner mi confianza
 
-nicamente en l? Y ser un traidor despus de eso? Erigir ahora algn otro
+únicamente en Él? żY seré un traidor después de eso? żErigiré ahora algún otro
 
-objeto sobre el que haya de poner mi confianza? Oh, no!, mi amor por Jess y
+objeto sobre el que haya de poner mi confianza? ˇOh, no!, mi amor por Jesús y
 
-mi gratitud a l por Su condescendencia en aceptar mi fe, me obliga a confiar
+mi gratitud a Él por Su condescendencia en aceptar mi fe, me obliga a confiar
 
-en l y slo en l a partir de ahora.
+en Él y sólo en Él a partir de ahora.
 
 Con frecuencia nos perdemos de la fuerza
 
 de una verdad por no hacerla palpable a nuestra propia mente; tratemos de hacer
 
-palpable esta verdad. Imaginen que el Seor Jess est visiblemente presente en
+palpable esta verdad. Imaginen que el Seńor Jesús está visiblemente presente en
 
-este plpito. Supongan que dirige Su mirada hacia alguno de ustedes y le dice:
+este púlpito. Supongan que dirige Su mirada hacia alguno de ustedes y le dice:
 
-Hijo mo, Mi voluntad y la tuya no coinciden en este momento; t deseas tal y
+“Hijo mío, Mi voluntad y la tuya no coinciden en este momento; tú deseas tal y
 
-tal cosa, pero Yo te digo: No; no has de tenerla; ahora, hijo mo, cul
+tal cosa, pero Yo te digo: ‘No; no has de tenerla’; ahora, hijo mío, żcuál
 
 voluntad ha de prevalecer:
 
 la
 
-Ma
+Mía
 
-o la tuya? Supongan que esa persona respondiera: Seor,
+o la tuya?” Supongan que esa persona respondiera: “Seńor,
 
-yo quiero que se cumpla mi voluntad. No crees que te mirara con ojos de una
+yo quiero que se cumpla mi voluntad”. żNo crees que te miraría con ojos de una
 
-infinita tristeza y compasin, y te dira?: Qu!, acaso renunci a Mi
+infinita tristeza y compasión, y te diría?: “ˇQué!, żacaso renuncié a Mi
 
-voluntad por ti, y no renunciars t a tu voluntad, por M? Acaso entregu
+voluntad por ti, y no renunciarás tú a tu voluntad, por Mí? żAcaso entregué
 
-todo lo que tena, incluso mi vida, por ti, pero t, hijo caprichoso, dices:
+todo lo que tenía, incluso mi vida, por ti, pero tú, hijo caprichoso, dices:
 
-He de tener estas cosas conforme a mi voluntad y en contra de Tu deseo y
+‘He de tener estas cosas conforme a mi voluntad y en contra de Tu deseo y
 
-propsito, oh Salvador mo? Seguramente no podras hablar as; ms bien, creo
+propósito, oh Salvador mío’?” Seguramente no podrías hablar así; más bien, creo
 
-que te veo caer de rodillas instantneamente y decir: Seor Jess, perdname
+que te veo caer de rodillas instantáneamente y decir: “Seńor Jesús, perdóname
 
-por albergar esos pensamientos perversos; no, Seor mo, aunque fuese duro, yo lo
+por albergar esos pensamientos perversos; no, Seńor mío, aunque fuese duro, yo lo
 
-considerar placentero; aunque fuese amargo, voy a creer que el trago ms
+consideraré placentero; aunque fuese amargo, voy a creer que el trago más
 
-amargo es dulce. Haz que te vea muriendo en la cruz por m. Slo hazme saber que
+amargo es dulce. Haz que te vea muriendo en la cruz por mí. Sólo hazme saber que
 
-T me amas, y sin importar dnde me pongas, estar en el cielo en tanto que
+Tú me amas, y sin importar dónde me pongas, estaré en el cielo en tanto que
 
-pueda percibir que Tu voluntad se cumple en m. Estar perfectamente contento
+pueda percibir que Tu voluntad se cumple en mí. Estaré perfectamente contento
 
-de estar dondequiera que T elijas que est, y de sufrir lo que T escojas que
+de estar dondequiera que Tú elijas que esté, y de sufrir lo que Tú escojas que
 
-soporte. S, queridos amigos, si erigiramos nuestras voluntades en oposicin
+soporte”. Sí, queridos amigos, si erigiéramos nuestras voluntades en oposición
 
 a
 
@@ -814,23 +818,23 @@ la Suya
 
 , eso
 
-demostrara una triste carencia del amor que debemos sentir por Cristo, y de la
+demostraría una triste carencia del amor que debemos sentir por Cristo, y de la
 
-gratitud que l merece.
+gratitud que Él merece.
 
 Por tanto, amados amigos, por causa del
 
-amor, por causa de la sabidura, por causa de lo recto, yo les imploro de nuevo
+amor, por causa de la sabiduría, por causa de lo recto, yo les imploro de nuevo
 
-que supliquen al Espritu Santo que les ensee esta oracin de nuestro Seor
+que supliquen al Espíritu Santo que les enseńe esta oración de nuestro Seńor
 
 Jesucristo y que les explique su bendito significado.
 
 III.
 
-Noten, a continuacin, EL EFECTO DE DECIR
+Noten, a continuación, EL EFECTO DE DECIR
 
-Y DE SENTIR VERDADERAMENTE: NO SEA COMO YO QUIERO, SINO COMO Tڔ.
+Y DE SENTIR VERDADERAMENTE: “NO SEA COMO YO QUIERO, SINO COMO TÚ”.
 
 El primer efecto es una
 
@@ -838,135 +842,135 @@ constante felicidad.
 
 Si quisieran
 
-descubrir la causa de la mayora de sus aflicciones, caven junto a la raz de
+descubrir la causa de la mayoría de sus aflicciones, caven junto a la raíz de
 
-la voluntad propia, pues all es donde se ubica. Cuando su corazn ha sido
+la voluntad propia, pues allí es donde se ubica. Cuando su corazón ha sido
 
-enteramente santificado para Dios y su voluntad est enteramente sometida a l,
+enteramente santificado para Dios y su voluntad está enteramente sometida a Él,
 
 lo amargo se vuelve dulce, el dolor se convierte en placer y el sufrimiento se
 
-torna en gozo. Cuando la voluntad de un hombre est enteramente sometida a la
+torna en gozo. Cuando la voluntad de un hombre está enteramente sometida a la
 
-voluntad de Dios, no es posible que la mente de ese hombre se vea turbada. Bien
+voluntad de Dios, no es posible que la mente de ese hombre se vea turbada. “Bien”
 
-dir alguien- esa es una afirmacin muy asombrosa; y alguien ms dir: yo
+–dirá alguien- “esa es una afirmación muy asombrosa”; y alguien más dirá: “yo
 
 he intentado realmente que mi voluntad se someta a la voluntad de Dios, y con
 
-todo, estoy turbado. S, y eso sucede simplemente porque, aunque lo has
+todo, estoy turbado”. Sí, y eso sucede simplemente porque, aunque lo has
 
-intentado, igual que todos nosotros, no has alcanzado todava el pleno
+intentado, igual que todos nosotros, no has alcanzado todavía el pleno
 
-sometimiento a la voluntad del Seor. Pero una vez que lo hayas alcanzado me
+sometimiento a la voluntad del Seńor. Pero una vez que lo hayas alcanzado –me
 
-temo que nunca lo alcanzars en esta vida- entonces estars libre de todo lo
+temo que nunca lo alcanzarás en esta vida- entonces estarás libre de todo lo
 
-que provoca tu afliccin o el desasosiego de tu mente.
+que provoca tu aflicción o el desasosiego de tu mente.
 
-Otro bendito efecto de esta oracin,
+Otro bendito efecto de esta oración,
 
 cuando es dicha verazmente, es que
 
 da al
 
-hombre valenta y santo valor.
+hombre valentía y santo valor.
 
-Si mi mente est plenamente sometida a la
+Si mi mente está plenamente sometida a la
 
-voluntad de Dios, qu habra de temer en todo el mundo? A m me sucede lo que
+voluntad de Dios, żqué habría de temer en todo el mundo? A mí me sucede lo que
 
-sucedi con Policarpo; cuando el emperador romano lo amenaz con el destierro,
+sucedió con Policarpo; cuando el emperador romano lo amenazó con el destierro,
 
-Policarpo le respondi: no puedes desterrarme, pues el mundo entero es la casa
+Policarpo le respondió: “no puedes desterrarme, pues el mundo entero es la casa
 
-de mi Padre, y t no puedes desterrarme de l. Pero te voy a matar, le dijo
+de mi Padre, y tú no puedes desterrarme de él”. “Pero te voy a matar”, le dijo
 
-el emperador. No, no puedes matarme, pues mi vida est escondida con Cristo en
+el emperador. “No, no puedes matarme, pues mi vida está escondida con Cristo en
 
-Dios. Te voy a despojar de todos tus tesoros. No, no puedes hacerlo, pues
+Dios”. “Te voy a despojar de todos tus tesoros”. “No, no puedes hacerlo, pues
 
-no tengo nada que t conozcas; mi tesoro est en el cielo, y mi corazn est
+no tengo nada que tú conozcas; mi tesoro está en el cielo, y mi corazón está
 
-tambin all. Pero te voy a alejar de los hombres y te quedars sin amigos.
+también allá”. “Pero te voy a alejar de los hombres y te quedarás sin amigos”.
 
-No, no puedes hacerlo, pues tengo un Amigo en el cielo de Quien t no puedes
+“No, no puedes hacerlo, pues tengo un Amigo en el cielo de Quien tú no puedes
 
-separarme. Yo te desafo porque no hay nada que puedas hacerme.
+separarme. Yo te desafío porque no hay nada que puedas hacerme”.
 
 Y eso mismo puede decir siempre el
 
-cristiano una vez que su voluntad est de acuerdo con la voluntad de Dios. Puede
+cristiano una vez que su voluntad está de acuerdo con la voluntad de Dios. Puede
 
 desafiar a todos los hombres y puede desafiar al infierno mismo, pues es capaz
 
-de decir: No puede pasarme nada que sea contrario a la voluntad de Dios y si
+de decir: “No puede pasarme nada que sea contrario a la voluntad de Dios y si
 
-es Su voluntad, tambin es mi voluntad. Si le agrada a Dios, me agrada a m.
+es Su voluntad, también es mi voluntad. Si le agrada a Dios, me agrada a mí.
 
-Dios se ha complacido en darme parte de Su voluntad, as que estoy satisfecho
+Dios se ha complacido en darme parte de Su voluntad, así que estoy satisfecho
 
-con lo que me enve.
+con lo que me envíe”.
 
-El hombre, despus de todo, es slo la
+El hombre, después de todo, es sólo la
 
 segunda causa de nuestras aflicciones. Tal vez un perseguidor le diga a un hijo
 
-de Dios: Puedo afligirte. No, no puedes, pues t dependes de la grandiosa
+de Dios: “Puedo afligirte”. “No, no puedes, pues tú dependes de la grandiosa
 
-Primera Causa, y l y yo coincidimos. Ah!, queridos amigos, no hay nada que
+Primera Causa, y Él y yo coincidimos”. ˇAh!, queridos amigos, no hay nada que
 
 haga que los hombres sean tan cobardes como el hecho de que tengan voluntades
 
 contrarias a la voluntad de Dios; pero cuando nos ponemos enteramente en las
 
-manos de Dios, qu hemos de temer? Lo que hizo que Jacob se acobardara cuando
+manos de Dios, żqué hemos de temer? Lo que hizo que Jacob se acobardara cuando
 
-Esa vino para reunirse con l fue que no estaba sometido a la voluntad de Dios.
+Esaú vino para reunirse con él fue que no estaba sometido a la voluntad de Dios.
 
-Dios haba dicho de antemano que el mayor de los dos hijos de Isaac servira al
+Dios había dicho de antemano que el mayor de los dos hijos de Isaac serviría al
 
-menor; Jacob tena el deber de creer eso y de seguir valientemente adelante con
+menor; Jacob tenía el deber de creer eso y de seguir valientemente adelante con
 
-sus esposas y con sus hijos, y el deber de no inclinarse ante Esa, sino de
+sus esposas y con sus hijos, y el deber de no inclinarse ante Esaú, sino de
 
-decirle: La promesa es que el mayor servir al menor; por tanto, yo no voy a
+decirle: “La promesa es que el mayor servirá al menor; por tanto, yo no voy a
 
-inclinarme delante de ti; a ti te corresponde postrarte delante de m. Pero el
+inclinarme delante de ti; a ti te corresponde postrarte delante de mí”. Pero el
 
-pobre Jacob dijo: Tal vez sea la voluntad de Dios que Esa me venza y me hiera
+pobre Jacob dijo: “Tal vez sea la voluntad de Dios que Esaú me venza y me hiera
 
-la madre con los hijos; pero mi voluntad es que no sea as. La confrontacin
+la madre con los hijos; pero mi voluntad es que no sea así”. La confrontación
 
 en el vado de Jaboc ha sido descrita muy bien; pero si Jacob no hubiera dudado
 
-de la promesa de Dios, nunca se habra postrado siete veces, rostro en tierra, delante
+de la promesa de Dios, nunca se habría postrado siete veces, rostro en tierra, delante
 
-de su hermano Esa. Habra dicho en la santa majestad de su fe: Esa, hermano
+de su hermano Esaú. Habría dicho en la santa majestad de su fe: “Esaú, hermano
 
-mo, t no puedes hacerme ningn dao, pues t no puedes hacer nada que sea
+mío, tú no puedes hacerme ningún dańo, pues tú no puedes hacer nada que sea
 
-contrario a la voluntad de Dios. T no puedes hacer nada que sea contrario a Su
+contrario a la voluntad de Dios. Tú no puedes hacer nada que sea contrario a Su
 
-decreto, y yo estar complacido con lo que sea.
+decreto, y yo estaré complacido con lo que sea.
 
 Entonces, este sometimiento a la voluntad
 
-de Dios proporciona, primero, gozo en el corazn, y luego otorga un intrpido
+de Dios proporciona, primero, gozo en el corazón, y luego otorga un intrépido
 
 valor; y con todo, hay otra consecuencia. Tan pronto como alguien dice verazmente:
 
-No sea como yo quiero, sino como t, esta resolucin
+“No sea como yo quiero, sino como tú”, esta resolución
 
 tiende a aligerar cada deber, a facilitar cada prueba y a endulzar cada
 
-tribulacin.
+tribulación.
 
-No deberamos sentir nunca que es algo difcil servir a Dios;
+No deberíamos sentir nunca que es algo difícil servir a Dios;
 
-sin embargo, hay muchas personas que, si hacen alguna pequea cosa para el
+sin embargo, hay muchas personas que, si hacen alguna pequeńa cosa para el
 
-Seor, piensan que han hecho mucho; y si hay algo grande que deba realizarse,
+Seńor, piensan que han hecho mucho; y si hay algo grande que deba realizarse,
 
 primero es preciso suplicarles muy insistentemente para lograr que lo hagan; y
 
@@ -974,39 +978,39 @@ cuando lo hacen, muy a menudo lo hacen tan mal que uno se siente medio arrepenti
 
 de haberles pedido que lo hicieran. Una gran cantidad de personas hace que
 
-parezca algo grande lo que realmente es muy pequeo. Toman una buena accin que
+parezca algo grande lo que realmente es muy pequeńo. Toman una buena acción que
 
 han realizado, y la martillan hasta que se convierte en algo tan delgado como
 
-una lmina de oro, y luego piensan que pueden cubrir con esa nica buena accin
+una lámina de oro, y luego piensan que pueden cubrir con esa única buena acción
 
-una semana entera. Todos los siete das sern glorificados por una accin cuya
+una semana entera. Todos los siete días serán glorificados por una acción cuya
 
-realizacin slo tom cinco minutos; bastar con creces, piensan, incluso para
+realización sólo tomó cinco minutos; bastará con creces, piensan, incluso para
 
 cubrir todo el tiempo venidero.
 
 Pero el cristiano cuya voluntad es
 
-conforme a la voluntad de Dios, dice: Seor mo, hay algo ms que pudiera
+conforme a la voluntad de Dios, dice: “Seńor mío, żhay algo más que pudiera
 
-hacer? Entonces, lo har con mucho gusto. Implica eso falta de descanso? Yo lo
+hacer? Entonces, lo haré con mucho gusto. żImplica eso falta de descanso? Yo lo
 
-har. Involucra prdida de tiempo en mi negocio? Implica para m, algunas
+haré. żInvolucra pérdida de tiempo en mi negocio? żImplica para mí, algunas
 
-veces, trabajo pesado y fatigoso? Seor, se har, si es Tu voluntad, pues Tu
+veces, trabajo pesado y fatigoso? Seńor, se hará, si es Tu voluntad, pues Tu
 
-voluntad y la ma estn en completo acuerdo. Si es posible, yo lo har; y
+voluntad y la mía están en completo acuerdo. Si es posible, yo lo haré; y
 
-estimar todas las cosas como prdida para ganar a Cristo, y ser hallado en l,
+estimaré todas las cosas como pérdida para ganar a Cristo, y ser hallado en Él,
 
-regocijndome en Su justicia y no en la ma propia.
+regocijándome en Su justicia y no en la mía propia”.
 
 IV.
 
 Esta renuncia produce otros muchos
 
-benditos y benficos efectos. Pero he de concluir observando que LA NICA
+benditos y benéficos efectos. Pero he de concluir observando que LA ÚNICA
 
 MANERA EN
 
@@ -1014,53 +1018,53 @@ LA QUE
 
 PUEDE
 
-SER ALCANZADO ESTE ESPRITU ES POR
+SER ALCANZADO ESTE ESPÍRITU ES POR
 
-LA UNCIN
+LA UNCIÓN
 
 DEL
 
 SANTO, es por el derramamiento y por la morada del
 
-Espritu Santo en nuestros corazones.
+Espíritu Santo en nuestros corazones.
 
 Puedes tratar de sojuzgar a tu propio yo,
 
-pero nunca logrars hacerlo solo. Puedes trabajar arduamente a travs de la abnegacin
+pero nunca lograrás hacerlo solo. Puedes trabajar arduamente a través de la abnegación
 
-para reprimir tu ambicin, pero encontrars que adopta otra forma y que crece
+para reprimir tu ambición, pero encontrarás que adopta otra forma y que crece
 
-apoyada en lo que t pensabas que la envenenara. Podras buscar concentrar en
+apoyada en lo que tú pensabas que la envenenaría. Podrías buscar concentrar en
 
-Cristo todo el amor de tu alma, y en el propio acto descubrirs que el yo se
+Cristo todo el amor de tu alma, y en el propio acto descubrirás que el yo se
 
-introduce furtivamente. Algunas veces me asombro y sin embargo no me quedo asombrado
+introduce furtivamente. Algunas veces me asombro –y sin embargo no me quedo asombrado
 
-cuando conozco el mal de mi propio corazn- cuando atisbo en mi interior y
+cuando conozco el mal de mi propio corazón- cuando atisbo en mi interior y
 
-encuentro que, en el preciso instante en que pensaba que mi motivo era el ms
+encuentro que, en el preciso instante en que pensaba que mi motivo era el más
 
 puro, era muy impuro; y me parece que a ustedes les sucede lo mismo, queridos
 
-amigos. Ustedes realizan una buena accin, dan alguna caridad a los pobres, tal
+amigos. Ustedes realizan una buena acción, dan alguna caridad a los pobres, tal
 
-vez, y dicen: lo har sin que se sepa. Alguien habla de eso, y t le comentas
+vez, y dicen: “lo haré sin que se sepa”. Alguien habla de eso, y tú le comentas
 
-al instante: hubiera preferido que no hablaras de eso; no me gusta que se
+al instante: “hubiera preferido que no hablaras de eso; no me gusta que se
 
-hable de lo que yo he hecho; me hace dao. Tal vez slo sea tu orgullo el que
+hable de lo que yo he hecho; me hace dańo”. Tal vez sólo sea tu orgullo el que
 
-te induce decir que te hace dao, pues para algunas personas su modestia es su
+te induce decir que te hace dańo, pues para algunas personas su modestia es su
 
 motivo de orgullo; de hecho, su orgullo secreto es hacer el bien sin que la
 
-gente lo sepa. Se gloran en ese supuesto sigilo, y cuando su accin llega a
+gente lo sepa. Se glorían en ese supuesto sigilo, y cuando su acción llega a
 
 ser conocida, sienten que su modestia se deteriora, y les da miedo que la gente
 
-diga: Ah, ya ven que se sabe lo que hacen; realmente no realizan en secreto
+diga: “Ah, ya ven que se sabe lo que hacen; realmente no realizan en secreto
 
-sus buenas acciones. As que incluso nuestra modestia puede constituir nuestro
+sus buenas acciones”. Así que incluso nuestra modestia puede constituir nuestro
 
 orgullo; y lo que algunas personas consideran que es su orgullo pudiera ser la
 
@@ -1068,107 +1072,107 @@ voluntad de Dios y pudiera constituir una modestia real. Renunciar a nuestra
 
 propia voluntad es un trabajo muy duro, pero es posible hacerlo y esa es una de
 
-las lecciones que deberamos aprender de este texto: No sea como yo quiero,
+las lecciones que deberíamos aprender de este texto: “No sea como yo quiero,
 
-sino como t.
+sino como tú”.
 
-Adems, si hubiera alguien de quien ests
+Además, si hubiera alguien de quien estás
 
-un poco envidioso tal vez un ministro que te arrebata un poco de brillo porque
+un poco envidioso –tal vez un ministro que te arrebata un poco de brillo porque
 
-predica mejor que t, o un maestro de la escuela dominical que es ms exitoso
+predica mejor que tú, o un maestro de la escuela dominical que es más exitoso
 
-en su obra- convierte a esa persona en particular en el objeto de tu ms
+en su obra- convierte a esa persona en particular en el objeto de tu más
 
-persistente oracin, y esfurzate hasta donde te sea posible por incrementar la
+persistente oración, y esfuérzate hasta donde te sea posible por incrementar la
 
-popularidad y el xito de esa persona. Alguien pregunta: Pero, puedes llevar
+popularidad y el éxito de esa persona. Alguien pregunta: “Pero, żpuedes llevar
 
-a la naturaleza humana hasta ese punto? Se puede intentar exaltar al propio
+a la naturaleza humana hasta ese punto? żSe puede intentar exaltar al propio
 
-rival? Queridos amigos mos, nunca conocern el pleno significado de esta oracin
+rival? Queridos amigos míos, nunca conocerán el pleno significado de esta oración
 
 mientras no hubieren intentado hacer eso y buscar de hecho honrar a su rival
 
-ms que a ustedes mismos; ese es el verdadero espritu del Evangelio: En
+más que a ustedes mismos; ese es el verdadero espíritu del Evangelio: “En
 
-cuanto a honra, prefirindoos los unos a los otros. Algunas veces me ha
+cuanto a honra, prefiriéndoos los unos a los otros”. Algunas veces me ha
 
-parecido que es un trabajo muy difcil, he de confesarlo, pero me he ejercitado
+parecido que es un trabajo muy difícil, he de confesarlo, pero me he ejercitado
 
-para lograrlo. Puede hacerse eso? S, Juan el Bautista lo hizo; dijo acerca de
+para lograrlo. żPuede hacerse eso? Sí, Juan el Bautista lo hizo; dijo acerca de
 
-Jess: Es necesario que l crezca, pero que yo menge. Si le hubiesen
+Jesús: “Es necesario que él crezca, pero que yo mengüe”. Si le hubiesen
 
-preguntado a Juan si deseaba crecer, habra respondido: Bien, me gustara
+preguntado a Juan si deseaba crecer, habría respondido: “Bien, me gustaría
 
-tener ms discpulos; aun as, si es la voluntad del Seor, estoy muy contento
+tener más discípulos; aun así, si es la voluntad del Seńor, estoy muy contento
 
-de menguar, y que Cristo crezca.
+de menguar, y que Cristo crezca”.
 
-Por tanto, cun importante es que
+Por tanto, ˇcuán importante es que
 
-aprendamos cmo podemos alcanzar este estado de aquiescencia con la voluntad de
+aprendamos cómo podemos alcanzar este estado de aquiescencia con la voluntad de
 
-nuestro Padre celestial! Les he dado las razones para ello, pero, cmo puede
+nuestro Padre celestial! Les he dado las razones para ello, pero, żcómo puede
 
-hacerse? nicamente por la operacin del Espritu de Dios. En cuanto a la carne
+hacerse? Únicamente por la operación del Espíritu de Dios. En cuanto a la carne
 
-y sangre, no te ayudarn en lo ms mnimo, ms bien irn en contra; y cuando
+y sangre, no te ayudarán en lo más mínimo, más bien irán en contra; y cuando
 
-piensas que, seguramente, tienes a carne y sangre bajo control, descubrirs que
+piensas que, seguramente, tienes a carne y sangre bajo control, descubrirás que
 
-llevan una ventaja sobre ti cuando creas que los estabas venciendo. Pdele al
+llevan una ventaja sobre ti cuando creías que los estabas venciendo. Pídele al
 
-Espritu Santo que more en ti, que habite en ti, que te bautice, que te sumerja
+Espíritu Santo que more en ti, que habite en ti, que te bautice, que te sumerja
 
-en Su sagrada influencia, que te cubra, que te entierre en Su sublime poder; as,
+en Su sagrada influencia, que te cubra, que te entierre en Su sublime poder; así,
 
-y slo as, cuando ests completamente sumergido en el Espritu, y hundido, por
+y sólo así, cuando estés completamente sumergido en el Espíritu, y hundido, por
 
-decirlo as, en el mar rojo de la sangre del Salvador, sers conducido a darte
+decirlo así, en el mar rojo de la sangre del Salvador, serás conducido a darte
 
-cuenta del significado de esta gran oracin: No sea como yo quiero, sino como
+cuenta del significado de esta gran oración: “No sea como yo quiero, sino como
 
-t. Seor, no el ego, sino Cristo; no mi propia gloria, sino Tu gloria; no mi
+tú”. “Seńor, no el ego, sino Cristo; no mi propia gloria, sino Tu gloria; no mi
 
-engrandecimiento, sino el Tuyo; es ms, ni siquiera mi xito, sino Tu xito; no
+engrandecimiento, sino el Tuyo; es más, ni siquiera mi éxito, sino Tu éxito; no
 
 la prosperidad de mi propia iglesia, o de mi propio yo, sino la prosperidad de
 
-Tu iglesia y el incremento de Tu gloria; que todo sea hecho como T quieres, y
+Tu iglesia y el incremento de Tu gloria; que todo sea hecho como Tú quieres, y
 
-no como yo quiero.
+no como yo quiero”.
 
-Cun diferente es esto de todo lo que
+ˇCuán diferente es esto de todo lo que
 
-est vinculado con el mundo! He tratado de llevarlos a una alta elevacin; y si
+está vinculado con el mundo! He tratado de llevarlos a una alta elevación; y si
 
-han sido capaces de subir hasta all, o incluso si han quedado jadeantes
+han sido capaces de subir hasta allá, o incluso si han quedado jadeantes
 
-despus de intentar llegar all, cun sorprendente ha sido el contraste entre
+después de intentar llegar allá, ˇcuán sorprendente ha sido el contraste entre
 
-este espritu y el espritu del mundano! No les dir nada a los que son
+este espíritu y el espíritu del mundano! No les diré nada a los que son
 
-inconversos, excepto esto: dense cuenta de cun en contra estn de lo que Dios
+inconversos, excepto esto: dense cuenta de cuán en contra están de lo que Dios
 
 quiere que sean, y de lo que han de ser, antes de que puedan entrar en el reino
 
-de los cielos. Ustedes saben que no podran decir: Que Dios haga Su voluntad,
+de los cielos. Ustedes saben que no podrían decir: “Que Dios haga Su voluntad”,
 
-y ustedes saben tambin que no podran humillarse para convertirse en un
+y ustedes saben también que no podrían humillarse para convertirse en un
 
-pequeo nio. Esto demuestra su profunda depravacin; entonces, que el
+pequeńo nińo. Esto demuestra su profunda depravación; entonces, ˇque el
 
-Espritu Santo los renueve, pues tienen necesidad de ser renovados para que
+Espíritu Santo los renueve, pues tienen necesidad de ser renovados para que
 
-puedan ser convertidos en nuevas criaturas en Cristo Jess! Que l los
+puedan ser convertidos en nuevas criaturas en Cristo Jesús! ˇQue Él los
 
-santifique enteramente, espritu, alma y cuerpo y que al final los presente sin
+santifique enteramente, espíritu, alma y cuerpo y que al final los presente sin
 
-mancha delante del trono de Dios, por causa de Su amado nombre! Amn.
+mancha delante del trono de Dios, por causa de Su amado nombre! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 21/Marzo/2012
 

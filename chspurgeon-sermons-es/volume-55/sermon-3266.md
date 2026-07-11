@@ -1,16 +1,16 @@
 # Sermón 3266 | Sermón 3266
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 El Sacerdocio de los Creyentes
 
 NO. 3266
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 28 DE AGOSTO DE 1864
 
-EN EL TABERCULO
+EN EL TABERÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -18,133 +18,133 @@ Y PUBLICADO EL JUEVES
 
 7 DE SEPTIEMBE DE 1911.
 
-Sacerdocio
+“Sacerdocio
 
-santo. 1 Pedro 2: 5.
+santo”. 1 Pedro 2: 5.
 
-En esta epstola, Pedro est hablando de los
+En esta epístola, Pedro está hablando de los
 
-santos esparcidos en todo el mundo y, enseado por el Espritu Santo, dice de
+santos esparcidos en todo el mundo y, enseńado por el Espíritu Santo, dice de
 
-ellos que constituan un sacerdocio santo. No est hablando acerca de
+ellos que constituían “un sacerdocio santo”. No está hablando acerca de
 
-ministros; no se est refiriendo a un cierto nmero de hombres que han pasado a
+ministros; no se está refiriendo a un cierto número de hombres que han pasado a
 
-travs de diversos grados de funciones y estn por ello calificados para usar
+través de diversos grados de funciones y están por ello calificados para usar
 
-sotanas de un cierto color; antes bien, est hablando de todo creyente, y llama
+sotanas de un cierto color; antes bien, está hablando de todo creyente, y llama
 
-a cada santo: un miembro de un sacerdocio santo. Cada Mara y cada Juan, cada
+a cada santo: un miembro de un “sacerdocio santo”. Cada María y cada Juan, cada
 
 doncella campesina y cada trabajador que pone su mano en el arado, cada siervo
 
-de Dios en cada capacidad, es un miembro de este sacerdocio santo; al menos
+de Dios en cada capacidad, es un miembro de este “sacerdocio santo”; al menos
 
-eso dice Pedro, y Pedro no estaba equivocado, pues hablaba conforme era inspirado
+eso dice Pedro, y Pedro no estaba equivocado, pues hablaba conforme era “inspirado
 
-por el Espritu Santo.
+por el Espíritu Santo”.
 
-Por diezmilsima vez hemos de declarar nuestra
+Por diezmilésima vez hemos de declarar nuestra
 
-propia conviccin solemne de que es tiempo de que Inglaterra despierte, y
+propia convicción solemne de que es tiempo de que Inglaterra despierte, y
 
-censure solemnemente la superchera sacerdotal que pareciera estar aumentando
+censure solemnemente la superchería sacerdotal que pareciera estar aumentando
 
-en nuestro medio. Ningn hombre tiene ningn derecho de llamarse en cualquier
+en nuestro medio. Ningún hombre tiene ningún derecho de llamarse en cualquier
 
-sentido exclusivo: un sacerdote. Cuando tomo el Libro de la Oracin Comn y
+sentido exclusivo: ‘un sacerdote’. Cuando tomo el Libro de la Oración Común y
 
-leo Entonces el sacerdote dir, lo cierro de nuevo con detestacin. Y si
+leo “Entonces el sacerdote dirá”, lo cierro de nuevo con detestación. Y si
 
-fuese el mejor libro humano impreso jams y no contuviera ningn otro disparate
+fuese el mejor libro humano impreso jamás y no contuviera ningún otro disparate
 
 o error, pero si se aventurara a llamar a cualquier clase de hombres:
 
-sacerdotes, yo lo denunciara por estar manchado de doctrina catlica romana.
+‘sacerdotes’, yo lo denunciaría por estar manchado de doctrina católica romana.
 
-Cristo es el nico sacerdote que puede ofrecer sacrificio
+Cristo es el único sacerdote que puede ofrecer sacrificio
 
-para la expiacin del pecado. l es el apstol y sumo sacerdote de nuestra
+para la expiación del pecado. Él es “el apóstol y sumo sacerdote de nuestra
 
-profesin. Pero hay otro sacerdocio, uno de ofrecimiento de oraciones y
+profesión”. Pero hay otro sacerdocio, uno de ofrecimiento de oraciones y
 
-alabanzas, y ste no me pertenece porque yo sea un ministro, ni le pertenece a
+alabanzas, y éste no me pertenece porque yo sea un ministro, ni le pertenece a
 
-cualquier nmero de hombres que sean llamados Reverendo, o Muy Reverendo, o
+cualquier número de hombres que sean llamados “Reverendo”, o “Muy Reverendo”, o
 
-Reverendsimo, sino que les pertenece de igual manera a ustedes, y a todos
+“Reverendísimo”, sino que les pertenece de igual manera a ustedes, y a todos
 
-los que por fe han credo en Jesucristo como Salvador y Seor. Si un hombre es
+los que por fe han creído en Jesucristo como Salvador y Seńor. Si un hombre es
 
 verdaderamente convertido a Dios, aunque sea escasamente capaz de leer su
 
-Biblia, es un sacerdote para l, porque tiene un nuevo corazn y un espritu
+Biblia, es un sacerdote para Él, porque tiene un nuevo corazón y un espíritu
 
-recto. Pudiera ser que nunca suba a un plpito, ni que presida en alguna
+recto. Pudiera ser que nunca suba a un púlpito, ni que presida en alguna
 
-reunin de la iglesia, pero puede ser un sacerdote para Dios. Su nico plpito
+reunión de la iglesia, pero puede ser un sacerdote para Dios. Su único púlpito
 
-pudiera ser el taller de zapatero; su nica plataforma para dar testimonio de
+pudiera ser el taller de zapatero; su única plataforma para dar testimonio de
 
-Cristo pudiera ser tras el mostrador, o en la fbrica, pero, a pesar de ello,
+Cristo pudiera ser tras el mostrador, o en la fábrica, pero, a pesar de ello,
 
 es un sacerdote.
 
-O si el Seor llamara a una hermana para S,
+O si el Seńor llamara a una hermana para Sí,
 
-debe estar callada en la reunin de la iglesia, pero ella pertenece al
+debe estar callada en la reunión de la iglesia, pero ella pertenece al
 
-sacerdocio divino, y sus oraciones y alabanzas ascendern delante de Dios con
+sacerdocio divino, y sus oraciones y alabanzas ascenderán delante de Dios con
 
-la misma aceptacin, por medio de Jesucristo, como si fuese una eminente
+la misma aceptación, por medio de Jesucristo, como si fuese una eminente
 
-teloga o la ms dotada de los santos. Todos los hijos de Dios son sacerdotes,
+teóloga o la más dotada de los santos. Todos los hijos de Dios son sacerdotes,
 
-y ste es el cntico de todos los que estn en el cielo, y de todos los que
+y éste es el cántico de todos los que están en el cielo, y de todos los que
 
-estn en la tierra que son verdaderamente salvos: Nos hizo reyes y sacerdotes
+están en la tierra que son verdaderamente salvos: “Nos hizo reyes y sacerdotes
 
-para Dios, y reinaremos por los siglos de los siglos.
+para Dios, y reinaremos por los siglos de los siglos”.
 
 Ahora, es sobre este tema del sacerdocio que
 
 deseo hablar en esta noche, y la forma en la que los sacerdotes eran consagrados
 
-bajo la ley es descrita para nosotros en el captulo 8 de Levtico. Entonces, yo
+bajo la ley es descrita para nosotros en el capítulo 8 de Levítico. Entonces, yo
 
-los invito a que busquemos y consideremos el tema segn es expuesto all, pues,
+los invito a que busquemos y consideremos el tema según es expuesto allí, pues,
 
-ciertamente, la forma en que los hijos de Aarn eran ordenados para su
+ciertamente, la forma en que los hijos de Aarón eran ordenados para su
 
 sacerdocio terrenal y temporal, es ricamente sugerente e intencionalmente
 
-tpico, de la manera en que Dios llama a todo Su pueblo a su santo sacerdocio.
+típico, de la manera en que Dios llama a todo Su pueblo a su santo sacerdocio.
 
-Al considerar este captulo, encontramos que uno
+Al considerar este capítulo, encontramos que uno
 
-de los primeros pasos con relacin a la ordenacin de Aarn y de sus hijos para
+de los primeros pasos con relación a la ordenación de Aarón y de sus hijos para
 
-su sacerdocio, era que ERAN LAVADOS. Leemos en Levtico 8: 6:
+su sacerdocio, era que ERAN LAVADOS. Leemos en Levítico 8: 6:
 
-Entonces Moiss hizo acercarse a Aarn y a
+Entonces Moisés hizo acercarse a Aarón y a
 
-sus hijos, y los lav con agua.
+sus hijos, y los lavó con agua.
 
-se era un lavatorio. Pero varias veces en
+Ése era un lavatorio. ˇPero varias veces en
 
-este captulo encontramos que un segundo lavatorio era necesario para ellos, y
+este capítulo encontramos que un segundo lavatorio era necesario para ellos, y
 
-se era con sangre! En el versculo 2 encontramos que llevaron un becerro de la
+ése era con sangre! En el versículo 2 encontramos que llevaron un becerro de la
 
-expiacin, y dos carneros, y eran rociados con la sangre de uno de los carneros
+expiación, y dos carneros, y eran rociados con la sangre de uno de los carneros
 
-y con la sangre de la expiacin para estar limpios delante de Dios. sto ensea
+y con la sangre de la expiación para estar limpios delante de Dios. Ésto enseńa
 
 poderosamente que cada uno de nosotros que aspire a ser un sacerdote para Dios,
 
-tiene que ser limpiado primero con una doble purificacin.
+tiene que ser limpiado primero con una doble purificación.
 
-Que el agua
+“Que el agua
 
 y la sangre
 
@@ -156,165 +156,167 @@ Sean la doble
 
 cura del pecado,
 
-Limpindonos
+Limpiándonos
 
-de su culpa y su poder.
+de su culpa y su poder”.
 
-Si consideramos ms detenidamente esta limpieza
+Si consideramos más detenidamente esta limpieza
 
-con sangre, vemos que Aarn y sus hijos ponan sus manos sobre el cordero y
+con sangre, vemos que Aarón y sus hijos ponían sus manos sobre el cordero y
 
 confesaban sus pecados. Entonces era inmolado el cordero, la sangre era rociada
 
 sobre el altar y sobre la fuente y sobre todos los utensilios del santuario y,
 
-despus, sobre Aarn y sus hijos. Cun profunda instruccin tenemos aqu! Si
+después, sobre Aarón y sus hijos. ˇCuán profunda instrucción tenemos aquí! Si
 
 somos sacerdotes de Dios, ponemos nuestra mano sobre Cristo, le aceptamos como
 
-nuestro sustituto, y confiamos en esa sangre derramada para la remisin de los
+nuestro sustituto, y confiamos en esa sangre derramada para la remisión de los
 
-pecados. l no aceptar a ningn sacerdote en Su santuario que no haya sido
+pecados. Él no aceptará a ningún sacerdote en Su santuario que no haya sido
 
-lavado con la sangre de Cristo. Mientras sto no se haya experimentado, todo
+lavado con la sangre de Cristo. Mientras ésto no se haya experimentado, todo
 
-servicio es una vana oblacin que l no puede aceptar. Acude al altar, confiesa
+servicio es una vana oblación que Él no puede aceptar. Acude al altar, confiesa
 
 tu pecado, ponlo sobre el Cordero de Dios, y entonces, pero no hasta entonces,
 
-t puedes ser un sacerdote santo.
+tú puedes ser un sacerdote santo.
 
-Adems, los sacerdotes eran lavados tambin en
+Además, los sacerdotes eran lavados también en
 
-agua posteriormente. En la primera ocasin eran lavados de la cabeza a los
+agua posteriormente. En la primera ocasión eran lavados de la cabeza a los
 
-pies; pero en ocasiones posteriores, cuando iban al tabernculo, slo
+pies; pero en ocasiones posteriores, cuando iban al tabernáculo, sólo
 
 necesitaban lavar sus manos y sus pies. Lo mismo sucede con nuestra vida
 
-cristiana. Por la aplicacin de los mritos de nuestro Seor, hecha por el
+cristiana. Por la aplicación de los méritos de nuestro Seńor, hecha por el
 
-Espritu Santo, los creyentes son lavados completamente, y no queda ni mancha
+Espíritu Santo, los creyentes son lavados completamente, y no queda ni mancha
 
-ni arruga en su aceptacin para con l. Pero aunque un hombre pueda estar
+ni arruga en su aceptación para con Él. Pero aunque un hombre pueda estar
 
-perfectamente limpio despus de su bao, sus pies podran ensuciarse cuando
+perfectamente limpio después de su bańo, sus pies podrían ensuciarse cuando
 
-camina hacia su habitacin y necesita lavarlos otra vez. Por eso, ustedes y yo,
+camina hacia su habitación y necesita lavarlos otra vez. Por eso, ustedes y yo,
 
-necesitamos orar: Perdnanos nuestras deudas, aunque todas ellas hayan sido
+necesitamos orar: “Perdónanos nuestras deudas”, aunque todas ellas hayan sido
 
-perdonadas. Estamos lavados, pero la contaminacin diaria exige una limpieza
+perdonadas. Estamos lavados, pero la contaminación diaria exige una limpieza
 
 constante. Aunque todo verdadero cristiano ha sido limpiado, igual que Pedro lo
 
-fue, no debe decir: No me lavars los pies jams. Cuando Jess viene por la
+fue, no debe decir: “No me lavarás los pies jamás”. Cuando Jesús viene por la
 
-palabra y el espritu que limpian, y se cie con la toalla y trae el lebrillo,
+palabra y el espíritu que limpian, y se cińe con la toalla y trae el lebrillo,
 
-tenemos que estar dispuestos a dejar que nos limpie, es ms, tenemos que
+tenemos que estar dispuestos a dejar que nos limpie, es más, tenemos que
 
 rogarle que lave nuestros pies, para que estemos enteramente limpios. En verdad
 
-necesitamos orar: Perdnanos nuestras deudas. No est en conflicto, en lo ms
+necesitamos orar: “Perdónanos nuestras deudas”. No está en conflicto, en lo más
 
-mnimo, con la doctrina de una completa santificacin o de una completa
+mínimo, con la doctrina de una completa santificación o de una completa
 
-justificacin.
+justificación.
 
-Cada uno de los sacerdotes era lavado y tena un
+Cada uno de los sacerdotes era lavado y tenía un
 
-claro derecho de entrar en el santuario; no obstante, tena que lavarse las
+claro derecho de entrar en el santuario; no obstante, tenía que lavarse las
 
 manos y los pies cada vez que entraba.
 
-As tambin nosotros estamos limpios; Dios nos
+Así también nosotros estamos limpios; Dios nos
 
-acepta; somos Sus hijos y, no obstante, da a da, hemos de acudir a l con la
+acepta; somos Sus hijos y, no obstante, día a día, hemos de acudir a Él con la
 
-oracin: Seor, lmpiame de nuevo con la Sangre del Redentor; purifcame por
+oración: “ˇSeńor, límpiame de nuevo con la Sangre del Redentor; purifícame por
 
-el lavatorio de agua de la Palabra! Entonces, si viene la contaminacin, puede
+el lavatorio de agua de la Palabra!” Entonces, si viene la contaminación, puede
 
 ser comprobado Su poder limpiador una y otra vez.
 
-Bien, amados, hemos intentado alguna vez servir
+Bien, amados, żhemos intentado alguna vez servir
 
-a Dios sin esta limpieza? Si as fuera, debemos arrepentirnos de nuestra
+a Dios sin esta limpieza? Si así fuera, debemos arrepentirnos de nuestra
 
 justicia imaginaria, de la misma manera que debemos hacerlo de nuestros
 
 pecados, pues incluso nuestras justicias no son nada sino pecados, mientras no
 
-hayamos sido limpiados. Anhelamos esta limpieza perfecta? La fuente est
+hayamos sido limpiados. żAnhelamos esta limpieza perfecta? La fuente está
 
-llena; la sangre y el agua tienen la misma eficacia que siempre han tenido. Si
+llena; la sangre y el agua tienen la misma eficacia que siempre han tenido. “Si
 
 vuestros
 
 pecados fueren como la
 
-grana, como la nieve sern emblanquecidos; si fueren rojos como el carmes,
+grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí,
 
-vendrn a ser como blanca lana. Desciende y entra en este bao celestial.
+vendrán a ser como blanca lana”. Desciende y entra en este bańo celestial.
 
-Confa que Cristo te salva, y siendo limpiado por l, t sers por siempre un
+Confía que Cristo te salva, y siendo limpiado por Él, tú serás por siempre un
 
-miembro de este sacerdocio santo.
+miembro de este “sacerdocio santo”.
 
-Refirindonos otra vez a Levtico 8, vemos que
+Refiriéndonos otra vez a Levítico 8, vemos que
 
 el segundo paso en el ordenamiento del sacerdocio era que ESTABAN VESTIDOS
 
-DIVINAMENTE. Por limpios que estuvieran, tenan que estar vestidos
+DIVINAMENTE. Por limpios que estuvieran, tenían que estar vestidos
 
-apropiadamente, o no podan presentarse delante del Seor. Se nos ha dado una
+apropiadamente, o no podían presentarse delante del Seńor. Se nos ha dado una
 
-lista de las vestiduras, y encontramos que Aarn, como Sumo Sacerdote, estaba
+lista de las vestiduras, y encontramos que Aarón, como Sumo Sacerdote, estaba
 
-vestido suntuosamente, mas no as sus hijos. En el versculo 13 se nos informa
+vestido suntuosamente, mas no así sus hijos. En el versículo 13 se nos informa
 
-que tenan tnicas, y cintos y tiaras. Demos una mirada a cada uno de stos,
+que tenían túnicas, y cintos y tiaras. Demos una mirada a cada uno de éstos,
 
-pues estn cargados de significacin espiritual.
+pues están cargados de significación espiritual.
 
-La Tnica
+La “Túnica”
 
 es una vestidura sacerdotal. Todos los que ministraban
 
-ante el altar se ponan un efod, una tnica que colgaba de los hombros, generalmente
+ante el altar se ponían un efod, una túnica que colgaba de los hombros, generalmente
 
 de una sola pieza, de un solo tejido de arriba abajo, semejante a la que usaba
 
-el Seor Jess. As, todo creyente debe vestirse con la justicia imputada de
+el Seńor Jesús. Así, todo creyente debe vestirse con la justicia imputada de
 
-Jess, que nos es dada en nuestra conversin.
+Jesús, que nos es dada en nuestra conversión.
 
-l oficia como Sumo Sacerdote delante del trono
+Él oficia como Sumo Sacerdote delante del trono
 
-vestido de lino blanco, y lo mismo hacen todos los santos; porque el lino fino
+vestido de lino blanco, y lo mismo hacen todos los santos; “porque el lino fino
 
-es las acciones justas de los santos, dice Juan en el Apocalipsis. Ahora,
+es las acciones justas de los santos”, dice Juan en el Apocalipsis. Ahora,
 
-nosotros no tenemos ninguna justicia propia, pero la voz del cielo dice: Yo te
+nosotros no tenemos ninguna justicia propia, pero la voz del cielo dice: “Yo te
 
-aconsejo que de m compres vestiduras blancas para vestirte. Nosotros venimos
+aconsejo que de mí compres… vestiduras blancas para vestirte”. Nosotros venimos
 
-a Cristo tal como somos, y l nos viste con Su justicia, activa y pasiva, y
+a Cristo tal como somos, y Él nos viste con Su justicia, activa y pasiva, y
 
-ste es el efod con el que ministramos para Dios. Con la justicia de nuestro
+éste es el efod con el que ministramos para Dios. Con la justicia de nuestro
 
-Seor que nos viste, podemos presentarnos sin miedo delante del tremendo
+Seńor que nos viste, podemos presentarnos sin miedo delante del tremendo
 
-escrutinio de los ojos de Dios, ahora y en el ms all, sin temer.
+escrutinio de los ojos de Dios, ahora y en el más allá, sin temer.
 
-Osado estar
+“Osado estaré
 
-en aquel gran da,
+en aquel gran día,
 
 Pues,
 
-quin me acusar de algo,
+ż
+
+quién me acusará de algo,
 
 Habiendo sido
 
@@ -322,433 +324,435 @@ absuelto por Tu sangre,
 
 De la
 
-maldicin y vergenza tremendas del pecado
+maldición y vergüenza tremendas del pecado
 
 ?
 
-Amado, ests vestido de la justicia de tu
+”
 
-Salvador? Entonces, pasa al frente, y oficia como Su sacerdote!
+Amado, żestás vestido de la justicia de tu
 
-Despus del efod, vena
+Salvador? Entonces, ˇpasa al frente, y oficia como Su sacerdote!
+
+Después del efod, venía
 
 el cinto.
 
-En el caso de Aarn, se nos informa que era un cinto de
+En el caso de Aarón, se nos informa que era un cinto “de
 
-obra primorosa. Ah, un cinto de obra muy primorosa! Cun incomparable, cun
+obra primorosa”. ˇAh, un cinto de obra muy primorosa! ˇCuán incomparable, cuán
 
-maravilloso es el cinto que cie los lomos de Cristo! l cie Su cintura con un
+maravilloso es el cinto que cińe los lomos de Cristo! Él cińe Su cintura con un
 
 cinto de oro. Su fidelidad, Su verdad, Su amor, cada uno de Sus atributos de
 
-excelencia, combinados, constituyen este cinto de obra primorosa que cie al
+excelencia, combinados, constituyen este cinto ‘de obra primorosa’ que cińe al
 
 efod.
 
-Pero todos los dems sacerdotes verdaderos tienen
+Pero todos los demás sacerdotes verdaderos tienen
 
-su cinto. Ustedes y yo, si somos llamados a este santo oficio, hemos de ceir
+su cinto. Ustedes y yo, si somos llamados a este santo oficio, hemos de ceńir
 
 nuestros lomos, estando siempre listos para obedecer al instante el mandato de
 
 Dios y deleitarnos en Su servicio. Los orientales usaban vestidos sueltos y
 
-cuando estos vestidos se desplegaban, no podan darse prisa en sus actividades.
+cuando estos vestidos se desplegaban, no podían darse prisa en sus actividades.
 
-Por eso usaban el cinto para recoger sus tnicas y para estar preparados para alguna
+Por eso usaban el cinto para recoger sus túnicas y para estar preparados para alguna
 
 labor especial, o conflicto o lucha.
 
-As, todo sacerdote de Cristo debe usar su cinto
+Así, todo sacerdote de Cristo debe usar su cinto
 
-de fidelidad. Hay un mundo impo que siempre est en actitud vigilante. Tengan
+de fidelidad. Hay un mundo impío que siempre está en actitud vigilante. Tengan
 
-cuidado; estn alerta. El pecado que tan fcilmente nos asedia podra echarles
+cuidado; estén alerta. El pecado que tan fácilmente nos asedia podría echarles
 
-una zancadilla. Asegrense de estar bien preparados, de tal manera que si el
+una zancadilla. Asegúrense de estar bien preparados, de tal manera que si el
 
-enemigo viene sbitamente, puedan enfrentarlo con valor, o si un mensaje les
+enemigo viene súbitamente, puedan enfrentarlo con valor, o si un mensaje les
 
-llegara de su Seor, puedan cumplirlo con diligencia.
+llegara de su Seńor, puedan cumplirlo con diligencia.
 
 Otra parte de las vestiduras del sacerdote se
 
-llama la tiara, literalmente,
+llama “la tiara”, literalmente,
 
 el
 
 turbante.
 
-sto era, as se nos dice, para honra y hermosura. Ciertamente
+Ésto era, así se nos dice, “para honra y hermosura”. Ciertamente
 
-nuestro Seor ha puesto en Su pueblo Su propia gloria y hermosura. No somos
+nuestro Seńor ha puesto en Su pueblo Su propia gloria y hermosura. No somos
 
 simplemente aceptables, sino amados; no pasables, sino admirables; no
 
 simplemente no hemos de ser condenados, sino que estamos llenos de belleza
 
-impartida. Jess le dice a toda alma salvada: Prendiste mi corazn, hermana,
+impartida. Jesús le dice a toda alma salvada: “Prendiste mi corazón, hermana,
 
-esposa ma; has apresado mi corazn con uno de tus ojos, con una gargantilla de
+esposa mía; has apresado mi corazón con uno de tus ojos, con una gargantilla de
 
-tu cuello.
+tu cuello”.
 
-Jess se enamora de tal manera de Su propia
+Jesús se enamora de tal manera de Su propia
 
-imagen en cada alma salvada, que Su corazn es cautivado. Aqu estn la honra
+imagen en cada alma salvada, que Su corazón es cautivado. Aquí están “la honra
 
-y la hermosura con las que nos ha investido. Todo creyente es considerado por
+y la hermosura” con las que nos ha investido. Todo creyente es considerado por
 
-Dios como si fuese Cristo. Cristo tom tu lugar, y fue maldecido por ti; t
+Dios como si fuese Cristo. Cristo tomó tu lugar, y fue maldecido por ti; tú
 
 tomas el lugar de Cristo, y a pesar de todas las blasfemias, de todas las
 
-rebeldas, de todas las durezas que puedas sentir por dentro, si t ests
+rebeldías, de todas las durezas que puedas sentir por dentro, si tú estás
 
-verdaderamente en Cristo, ests vestido de tal manera que la honra y la
+verdaderamente en Cristo, ˇestás vestido de tal manera que la honra y la
 
-hermosura, que son Divinas, son tuyas! Los sacerdotes no slo eran lavados sino
+hermosura, que son Divinas, son tuyas! Los sacerdotes no sólo eran lavados sino
 
-tambin vestidos. Alma ma, qu gozo es ste! Pondralo hasta el punto que te
+también vestidos. ˇAlma mía, qué gozo es éste! ˇPondéralo hasta el punto que te
 
 domine y te cautive!
 
-Despus de ser lavados y vestidos, los
+Después de ser lavados y vestidos, los
 
-sacerdotes procedan a SER UNGIDOS. sto es mencionado ms de una vez. La
+sacerdotes procedían a SER UNGIDOS. Ésto es mencionado más de una vez. La
 
-cabeza de Aarn era ungida con el santo leo, hasta deslizarse en la falda de
+cabeza de Aarón era ungida con el santo óleo, hasta deslizarse en la falda de
 
-su ropa. As Jess fue ungido sin medida por el Espritu Santo. Los otros
+su ropa. Así Jesús fue ungido sin medida por el Espíritu Santo. Los otros
 
-sacerdotes eran tocados tambin con el leo: eran rociados con l.
+sacerdotes eran tocados también con el óleo: eran rociados con él.
 
-Y t y yo, si hemos sido lavados y vestidos,
+Y tú y yo, si hemos sido lavados y vestidos,
 
-todava debemos ser ungidos. Hijo de Dios, reconoces t, clara e intensamente,
+todavía debemos ser ungidos. Hijo de Dios, żreconoces tú, clara e intensamente,
 
-tu necesidad de esta uncin? Si he predicado sin el Espritu Santo, he
+tu necesidad de esta unción? Si he predicado sin el Espíritu Santo, he
 
-predicado en vano. Si he acudido a mi cmara de oracin, sin importar cun
+predicado en vano. Si he acudido a mi cámara de oración, sin importar cuán
 
-sincero deseara ser, he orado en vano, a menos que el Espritu de Dios hubiere
+sincero deseara ser, he orado en vano, a menos que el Espíritu de Dios hubiere
 
-estado sobre m. Esta unin es la suprema necesidad del cristiano.
+estado sobre mí. Esta unión es la suprema necesidad del cristiano.
 
-El apreciado Joseph Irons sola decir muy a
+El apreciado Joseph Irons solía decir muy a
 
-menudo cuando suba al plpito: Oh, anhelamos una uncin de lo alto! Maestro
+menudo cuando subía al púlpito: “ˇOh, anhelamos una unción de lo alto!” Maestro
 
-de la escuela dominical, t eres un sacerdote y sta es tu gran necesidad: la
+de la escuela dominical, tú eres un sacerdote y ésta es tu gran necesidad: la
 
-uncin. Ustedes, que predican en las calles, ustedes, que son intercesores en
+unción. Ustedes, que predican en las calles, ustedes, que son intercesores en
 
 privado por Cristo, ustedes, que buscan mostrar a Dios en su vida diaria, todos
 
-ustedes necesitan la uncin. Qu cosa nos es imposible hacer cuando el
+ustedes necesitan la unción. żQué cosa nos es imposible hacer cuando el
 
-Espritu est en nosotros, y qu podramos hacer si l ocultara Su presencia y
+Espíritu está en nosotros, y qué podríamos hacer si Él ocultara Su presencia y
 
-poder? Como sacerdotes de Dios, podemos y debemos tener una uncin cotidiana
+poder? ˇComo sacerdotes de Dios, podemos y debemos tener una unción cotidiana
 
-un ungimiento- del Santo!
+–un ungimiento- del Santo!
 
-Despus de esto, ERAN CONSAGRADOS. Aqu he de extenderme
+Después de esto, ERAN CONSAGRADOS. Aquí he de extenderme
 
-ms que sobre el punto anterior. Esta escogencia para la funcin y la obra
+más que sobre el punto anterior. Esta escogencia para la función y la obra
 
 sacerdotales, era sumamente notable. Encontramos que se tomaba sangre, y que
 
-Moiss tocaba con ella a los sacerdotes (segn el versculo 24) primero sobre
+Moisés tocaba con ella a los sacerdotes (según el versículo 24) primero “sobre
 
-el lbulo de sus orejas derechas, sobre los pulgares de sus manos derechas y
+el lóbulo de sus orejas derechas, sobre los pulgares de sus manos derechas y
 
-sobre los pulgares de sus pies derechos; y roci Moiss la sangre sobre el
+sobre los pulgares de sus pies derechos; y roció Moisés la sangre sobre el
 
-altar alrededor. Esta descripcin es muy detallada y sugerente. Todo cristiano
+altar alrededor”. Esta descripción es muy detallada y sugerente. Todo cristiano
 
 ha de ser consagrado a Dios, con sangre, en lo tocante a
 
-su odo.
+su oído.
 
-Esto es, tenemos que estar vidos de or la voz de Dios,
+Esto es, tenemos que estar ávidos de oír la voz de Dios,
 
-ya sea en Su Palabra impresa o predicada. Bienaventurado el pueblo que sabe
+ya sea en Su Palabra impresa o predicada. “Bienaventurado el pueblo que sabe
 
-aclamarte. Ellos reconocen esa voz porque la sangre est sobre su odo. Hemos
+aclamarte”. Ellos reconocen esa voz porque la sangre está sobre su oído. Hemos
 
-de or la voz de Dios en la providencia. Cuando hay un ruido como de marcha por
+de oír la voz de Dios en la providencia. Cuando hay un ruido como de marcha por
 
 las copas de las balsameras, como David, hemos de movernos. Debemos estar
 
-dispuestos a or incluso a la vara y a Aquel que la ha determinado. Hay muchas
+dispuestos a oír incluso a la vara y a Aquel que la ha determinado. Hay muchas
 
-voces que el odo santificado detecta, pero que el odo carnal no ha escuchado
+voces que el oído santificado detecta, pero que el oído carnal no ha escuchado
 
-nunca. El hombre piadoso tiene admoniciones del Altsimo cuando el hombre
+nunca. El hombre piadoso tiene admoniciones del Altísimo cuando el hombre
 
-natural no capta ningn susurro. Or siempre el silbo apacible y delicado es
+natural no capta ningún susurro. Oír siempre “el silbo apacible y delicado” es
 
-la audicin que deberamos desear. As tambin, con relacin al hombre,
+la audición que deberíamos desear. Así también, con relación al hombre,
 
-deberamos or su miseria y sentir por ella; or su pecado, y pedirle a Dios su
+deberíamos oír su miseria y sentir por ella; oír su pecado, y pedirle a Dios su
 
-pleno perdn, como lo hizo Jess.
+pleno perdón, como lo hizo Jesús.
 
 Sin embargo, por otro lado, hay algunos sonidos
 
-que el odo, as consagrado, no debe or. Hemos de ser sordos a las
+que el oído, así consagrado, no debe oír. Hemos de ser sordos a las
 
-insinuaciones de la suspicacia, la difamacin de la calumnia, ay!, un insulto
+insinuaciones de la suspicacia, la difamación de la calumnia, ˇay!, un insulto
 
 intencionado, para muchos, que de otra manera nos hubiera provocado y enfadado.
 
-Que podamos sentir siempre que as como haba
+Que podamos sentir siempre que así como había
 
-sangre sobre la oreja del sacerdote, as todos nuestros poderes receptivos
+sangre sobre la oreja del sacerdote, así todos nuestros poderes receptivos
 
-deben ser consagrados a Dios. Si es as, he de sentir que hay algunos libros
+deben ser consagrados a Dios. Si es así, he de sentir que hay algunos libros
 
-que no puedo leer, pues tengo sangre sobre mi odo; hay algunas canciones que
+que no puedo leer, pues tengo sangre sobre mi oído; hay algunas canciones que
 
-no me atrevo a escuchar, alguna pltica en la que no me atrevo a participar,
+no me atrevo a escuchar, alguna plática en la que no me atrevo a participar,
 
-pues tengo un odo consagrado. He de usar
+pues tengo un oído consagrado. He de usar
 
 eso
 
-para l, pues yo soy Su sacerdote.
+para Él, pues yo soy Su sacerdote.
 
 Lo siguiente en el orden, era
 
 el pulgar.
 
-sto consagraba la mano. Y
+Ésto consagraba la mano. Y
 
-as como el odo simboliza nuestras facultades receptivas, as la mano
+así como el oído simboliza nuestras facultades receptivas, así la mano
 
 representa nuestros poderes activos. Hay algunas cosas que no debemos tocar ni palpar;
 
 hay algunas cosas que no podemos hacer, en las que no podemos tener parte, es
 
-ms, que no podemos ni siquiera palpar. Puesto que nuestra mano ha sido
+más, que no podemos ni siquiera palpar. Puesto que nuestra mano ha sido
 
-santificada con la sangre, todo lo que haga debe ser agradable a Dios. Yo s
+santificada con la sangre, todo lo que haga debe ser agradable a Dios. Yo sé
 
-que es un error comn pensar que no puedes servir a Dios a menos que te subas a
+que es un error común pensar que no puedes servir a Dios a menos que te subas a
 
-un plpito, o asistas a una reunin de oracin. Tonteras! T puedes servir a
+un púlpito, o asistas a una reunión de oración. ˇTonterías! Tú puedes servir a
 
-Dios, verdaderamente, detrs del mostrador y en el cuarto de trabajo; puedes
+Dios, verdaderamente, detrás del mostrador y en el cuarto de trabajo; puedes
 
 servir a Dios cuando cavas una zanja, o recortas un vallado. Yo creo que Dios
 
-es servido con frecuencia por el sastre o el zapatero que estn conscientes de
+es servido con frecuencia por el sastre o el zapatero que están conscientes de
 
 su llamado, de la misma manera que es servido por obispos y arzobispos, o por
 
-hombres de cualquier iglesia en el mundo. De cualquier manera, si t no puedes
+hombres de cualquier iglesia en el mundo. De cualquier manera, si tú no puedes
 
 servir a Dios en todo lo que haces, tienes la necesidad de pedir que se te
 
-ensee el secreto de la vida cristiana, pues ese secreto es la consagracin de
+enseńe el secreto de la vida cristiana, pues ese secreto es la consagración de
 
 todo a Jesucristo.
 
 Has de convertir tus vestidos en ornamentos, tus
 
-comidas en sacramentos, cada uno de tus das en un da santo, cada una de tus
+comidas en sacramentos, cada uno de tus días en un día santo, cada una de tus
 
-horas en un tiempo consagrado a Dios. Nuestra mano, con todas sus mltiples actividades,
+horas en un tiempo consagrado a Dios. Nuestra mano, con todas sus múltiples actividades,
 
-debe ser consagrada marcada con sangre- a l.
+debe ser consagrada –marcada con sangre- a Él.
 
-Despus de sto, segua
+Después de ésto, seguía
 
 el pie.
 
 La sangre era puesta sobre el pulgar del pie derecho, de
 
-forma que los pies eran apartados para Dios. Ah, estas piernas nuestras solan
+forma que los pies eran apartados para Dios. ˇAh, estas piernas nuestras solían
 
-llevarnos a los teatros! Podamos correr lo suficientemente rpido calle abajo
+llevarnos a los teatros! Podíamos correr lo suficientemente rápido calle abajo
 
 con ellos. Yo recuerdo a un hombre que se quedaba en el pasillo durante largo
 
-tiempo; deca que quera poner a servir a sus piernas; l haba servido con
+tiempo; decía que quería “poner a servir a sus piernas”; él había servido con
 
-ellas al demonio durante tanto tiempo que esas piernas deban soportar ahora un
+ellas al demonio durante tanto tiempo que esas piernas debían soportar ahora un
 
-poquito de incomodidad por su nuevo seor y maestro, Jesucristo. Yo conozco a
+poquito de incomodidad por su nuevo seńor y maestro, Jesucristo. Yo conozco a
 
-unos cuantos que solan caminar muchos kilmetros para venir a la casa de Dios:
+unos cuantos que solían caminar muchos kilómetros para venir a la casa de Dios:
 
-diez kilmetros. Yo sola decirles que era demasiado lejos. No era entonces
+diez kilómetros. Yo solía decirles que era demasiado lejos. No era entonces
 
-demasiado lejos para ustedes, pero ltimamente se ha vuelto demasiado lejos. El
+demasiado lejos para ustedes, pero últimamente se ha vuelto demasiado lejos. El
 
-camino no se ha vuelto ms largo, pero ustedes han retrocedido en lo tocante a
+camino no se ha vuelto más largo, pero ustedes han retrocedido en lo tocante a
 
-su celo, y cuando el celo declina, los kilmetros se vuelven tristemente largos.
+su celo, y cuando el celo declina, los kilómetros se vuelven tristemente largos.
 
 Pero yo he observado que cuando hombres y mujeres se encuentran en el debido
 
-estado mental, no importa cunto deban caminar, ni qu tengan que hacer por
+estado mental, no importa cuánto deban caminar, ni qué tengan que hacer por
 
 Cristo; el pie consagrado puede hacerlo gozosamente. Si yo tengo un pie
 
-consagrado, no he de permitirle que me lleve con malas compaas. Si alguien
+consagrado, no he de permitirle que me lleve con malas compańías. Si alguien
 
-les dijera: puedes venir conmigo a tal y tal lugar?, ustedes deben
+les dijera: “żpuedes venir conmigo a tal y tal lugar?”, ustedes deben
 
-responder: No! No puedo! Tengo un pie que no ir, y no puedo ir sin l! Y
+responder: “ˇNo! ˇNo puedo! ˇTengo un pie que no irá, y no puedo ir sin él! Y
 
-si alguien dijera: Cul es el problema con tu pie? Responde: Tengo un pie
+si alguien dijera: “żCuál es el problema con tu pie?” Responde: “ˇTengo un pie
 
-que tiene sangre sobre l! Dirn: Qu extrao! No te entendern. Pero si
+que tiene sangre sobre él!” Dirán: “ˇQué extrańo!” No te entenderán. Pero si
 
-intentas explicarles que la sangre de tu Seor Jesucristo te compr a ti y
+intentas explicarles que la sangre de tu Seńor Jesucristo te compró a ti y
 
-tambin a tu pie, entonces entendern que no puede ir a ninguna parte excepto
+también a tu pie, entonces entenderán que no puede ir a ninguna parte excepto
 
-donde Cristo quiere que vaya. Eso podra significar que tendrs que cambiar tu posicin
+donde Cristo quiere que vaya. Eso podría significar que tendrás que cambiar tu posición
 
-en la vida; has de reubicarte y decidir adnde irs. Toma esa decisin con base
+en la vida; has de reubicarte y decidir adónde irás. Toma esa decisión con base
 
-en el principio de que tienes un pie consagrado. No vayas donde no puedas or
+en el principio de que tienes un pie consagrado. No vayas donde no puedas oír
 
 la pura Palabra de Dios.
 
-Un judo se enter de un buen negocio que
+Un judío se enteró de un buen negocio que
 
-involucraba mucho dinero, pero que estaba en un lugar donde no haba una
+involucraba mucho dinero, pero que estaba en un lugar donde no había una
 
-sinagoga; y se enter de otro negocio, cerca de una sinagoga, pero que tena
+sinagoga; y se enteró de otro negocio, cerca de una sinagoga, pero que tenía
 
-poca actividad comercial y, siendo un judo piadoso, eligi el lugar con la
+poca actividad comercial y, siendo un judío piadoso, eligió el lugar con la
 
-sinagoga. Me temo que slo hay unos cuantos judos que querran hacer eso y un
+sinagoga. Me temo que sólo hay unos cuantos judíos que querrían hacer eso y un
 
-igualmente escaso nmero de cristianos que piensen primero en la casa de Dios y
+igualmente escaso número de cristianos que piensen primero en la casa de Dios y
 
-en or el Evangelio. Es mejor tener una comida de hierbas y el Evangelio con
+en oír el Evangelio. Es mejor tener una comida de hierbas y el Evangelio con
 
-ella, que un novillo cebado y no escuchar a la verdad de nuestro Seor
+ella, que un novillo cebado y no escuchar a la verdad de nuestro Seńor
 
-Jesucristo. Al elegir su hogar, de hecho, en todo lo que concierne a su
+Jesucristo. ˇAl elegir su hogar, de hecho, en todo lo que concierne a su
 
-progreso en la vida, acten como si tuviesen, y como si supiesen que tienen, un
+progreso en la vida, actúen como si tuviesen, y como si supiesen que tienen, un
 
 pie consagrado!
 
-Juntndolo todo, eso ciertamente nos ensea que
+Juntándolo todo, eso ciertamente nos enseńa que
 
-un cristiano, siempre, y en todas partes, y enteramente, no se pertenece a s
+un cristiano, siempre, y en todas partes, y enteramente, no se pertenece a sí
 
-mismo, sino que est consagrado a Cristo. No meramente para ser bautizado, para
+mismo, sino que está consagrado a Cristo. No meramente para ser bautizado, para
 
-acercarse una vez al mes a la mesa del Seor, para tomar un asiento y sentarse
+acercarse una vez al mes a la mesa del Seńor, para tomar un asiento y sentarse
 
-y de esta manera dar la impresin de tener una mente celestial. Cualquier
+y de esta manera dar la impresión de tener una mente celestial. Cualquier
 
-hipcrita puede hacer eso. Pero la seal de un cristiano es ser tan honesto,
+hipócrita puede hacer eso. Pero la seńal de un cristiano es ser tan honesto,
 
 recto, caritativo, amable, semejante a Cristo y santo, de tal manera, que todos
 
-los que lo vean sean forzados a decir: Ese hombre es distinto a los dems
+los que lo vean sean forzados a decir: “Ese hombre es distinto a los demás
 
-hombres. El secreto, aunque ellos pudieran no descubrirlo, es que mientras que
+hombres”. El secreto, aunque ellos pudieran no descubrirlo, es que mientras que
 
-otros hombres son slo hombres comunes y estn ubicados donde el padre Adn los
+otros hombres son sólo hombres comunes y están ubicados donde el padre Adán los
 
-dej en la cada, este hombre ha sido hallado, y ha sido hecho nuevo en
+dejó en la caída, este hombre ha sido hallado, y ha sido hecho nuevo en
 
-Jesucristo. Oreja, pulgar y pie, todos consagrados al servicio de Cristo!
+Jesucristo. ˇOreja, pulgar y pie, todos consagrados al servicio de Cristo!
 
-Recorriendo rpidamente el resto de este
+Recorriendo rápidamente el resto de este
 
-captulo (Levtico 8), observamos que
+capítulo (Levítico 8), observamos que
 
-la consagracin
+la consagración
 
 era muy meticulosa.
 
-Se hace mencin de pan sin levadura. sto ensea que un
+Se hace mención de pan sin levadura. Ésto enseńa que un
 
-cristiano no ha de seguir la religin por motivos de honor, ganancia o fama.
+cristiano no ha de seguir la religión por motivos de honor, ganancia o fama.
 
-Nada de la levadura de la hipocresa, o del mero formalismo, deben ser
+Nada de la levadura de la hipocresía, o del mero formalismo, deben ser
 
 tolerados. Debemos servir a Cristo por Cristo mismo, y seguir a Dios porque
 
-nuestro corazn es recto para con l.
+nuestro corazón es recto para con Él.
 
-Adems, la consagracin es expuesta aunque
+Además, la consagración es expuesta –aunque
 
-tengo poco tiempo para considerarlo- por las diferentes partes de la vctima
+tengo poco tiempo para considerarlo- por las diferentes partes de la víctima
 
-que eran ofrecidas a Dios. Observarn que los sentimientos ms profundos del
+que eran ofrecidas a Dios. Observarán que los sentimientos más profundos del
 
-cristiano deben estar con Dios, que las entraas y la grosura de los riones
+cristiano deben estar con Dios, que las entrańas y la grosura de los rińones
 
-deban ser quemadas sobre el altar. As las emociones ms ricas y ms plenas de
+debían ser quemadas sobre el altar. Así las emociones más ricas y más plenas de
 
-la mente y del corazn del cristiano, deben pertenecerle a Dios, pues la
+la mente y del corazón del cristiano, deben pertenecerle a Dios, pues la
 
-grosura y el tutano deban ser quemados tambin; y la mayor fuerza del
+grosura y el tuétano debían ser quemados también; y la mayor fuerza del
 
-cristiano debe ser la del Seor, pues la espaldilla derecha deba ser ofrecida
+cristiano debe ser la del Seńor, pues la espaldilla derecha debía ser ofrecida
 
-como una ofrenda mecida, y luego tena que ser consumida con fuego. Tenemos que
+como una ofrenda mecida, y luego tenía que ser consumida con fuego. Tenemos que
 
-dar a Dios nuestros ms ntimos pensamientos, nuestras pasiones ms profundas,
+dar a Dios nuestros más íntimos pensamientos, nuestras pasiones más profundas,
 
-nuestra mayor fuerza. Bienaventurado el hombre que tiene en ti sus fuerzas. Algunas
+nuestra mayor fuerza. “Bienaventurado el hombre que tiene en ti sus fuerzas”. Algunas
 
 personas pueden hablar lo suficientemente fuerte como para despertar a un
 
-pueblo cuando estn en su negocio, pero cuando vienen a orar, difcilmente
+pueblo cuando están en su negocio, pero cuando vienen a orar, difícilmente
 
-puedes orlos. Pero yo quisiera que un cristiano nunca fuera un hombre tan
+puedes oírlos. Pero yo quisiera que un cristiano nunca fuera un hombre tan
 
-completo o tan excelente como cuando est sirviendo a Dios. Den al mundo, si
+completo o tan excelente como cuando está sirviendo a Dios. Den al mundo, si
 
-quieren, las sobras de su mente, de su alma y de su fortaleza; pero den a Dios
+quieren, las sobras de su mente, de su alma y de su fortaleza; pero ˇden a Dios
 
 su hombre entero, su vida interna y su vida externa, cada parte y poder y
 
-pasin, llevados a su lmite mximo, y todo ello entregado a l!
+pasión, llevados a su límite máximo, y todo ello entregado a Él!
 
-Pero, adems, para concluir,
+Pero, además, para concluir,
 
-la consagracin del cristiano ha de ser
+la consagración del cristiano ha de ser
 
 constante.
 
-Este notable captulo me ha interesado grandemente al observar
+Este notable capítulo me ha interesado grandemente al observar
 
-que estos sacerdotes deban estar oficiando durante una semana entera en el
+que estos sacerdotes debían estar oficiando durante una semana entera en el
 
-tabernculo. No deban abandonar su santo trabajo ni de da ni de noche. Cmo
+tabernáculo. No debían abandonar su santo trabajo ni de día ni de noche. Cómo
 
-encontraban la suficiente fortaleza, o si sto realmente inclua tiempos
+encontraban la suficiente fortaleza, o si ésto realmente incluía tiempos
 
-absolutamente necesarios de reposo, no podra decirlo. Pero dice que por siete
+absolutamente necesarios de reposo, no podría decirlo. Pero dice que por siete
 
-das deban servir sin interrupcin tanto de da como de noche. Entonces, el
+días debían servir sin interrupción tanto de día como de noche. Entonces, el
 
 sacerdocio cristiano debe ser perpetuo. No debemos cesar de servir a Dios. Ustedes
 
-han odo acerca de uno que estaba tan enamorado, que en verdad coma, y beba y
+han oído acerca de uno que estaba tan enamorado, que en verdad comía, y bebía y
 
-dorma por el ser amado; as el cristiano debe hacerlo todo para la gloria de
+dormía por el ser amado; así el cristiano debe “hacerlo todo para la gloria de
 
-Dios.
+Dios”.
 
-Dir alguien: puede hacerse so? Acaso hemos
+Dirá alguien: “żpuede hacerse éso? żAcaso hemos
 
-de seguir a los monjes catlicos y entrar a un monasterio? No!, no tengo
+de seguir a los monjes católicos y entrar a un monasterio?” ˇNo!, no tengo
 
 ninguna duda de que hacen bien en rasurarse sus cabezas; hay probablemente una
 
@@ -756,7 +760,7 @@ gran necesidad para ello. Pero a menos que nos volvamos dementes, no hay
 
 necesidad de que imitemos su ejemplo. El cristiano no ha de encerrarse, y
 
-convertirse en un eremita, y pensar que por eso l puede cultivar la santidad.
+convertirse en un eremita, y pensar que por eso él puede cultivar la santidad.
 
 Eso es impiedad; la santidad cristiana es social; es la luz de la palabra, la
 
@@ -764,17 +768,17 @@ sal de la tierra. Hemos de estar en el mundo, aunque no hemos de ser del mundo;
 
 nuestro sacerdocio es ejercido en la calle, en el taller, en la familia y junto
 
-a la chimenea. De da y de noche, hemos de ofrecer oraciones y alabanzas y
+a la chimenea. De día y de noche, hemos de ofrecer oraciones y alabanzas y
 
-acciones de gracias a Dios, y as ser un sacerdote perpetuamente.
+acciones de gracias a Dios, y así ser un sacerdote perpetuamente.
 
-Pero, de qu estoy hablando? Hay algunas personas
+Pero, żde qué estoy hablando? Hay algunas personas
 
-aqu que nunca han sido sacerdotes para Dios todava. Qu han estado haciendo
+aquí que nunca han sido sacerdotes para Dios todavía. żQué han estado haciendo
 
-hoy? Pues bien, incluso en el da de guardar de Dios no le sirven, sino que se
+hoy? Pues bien, incluso en el día de guardar de Dios no le sirven, sino que se
 
-sirven a ellas mismas. Vamos, amigo! Dios no ha cosechado nunca ni una
+sirven a ellas mismas. ˇVamos, amigo! Dios no ha cosechado nunca ni una
 
 solitaria espiga de tu campo. Ten cuidado, no sea que habiendo vivido para ti,
 
@@ -784,23 +788,23 @@ algo tremendo presentarte para ser juzgado sin un Salvador que sea tu ayudador
 
 o tu sacerdote intercesor. Yo no te digo nada a ti acerca de ser un sacerdote
 
-para Dios. T necesitas primero un sacerdote para ti mismo. No acudas a ningn
+para Dios. Tú necesitas primero un sacerdote para ti mismo. No acudas a ningún
 
-hombre. Ningn hombre tiene poder para ayudarle a tu alma, excepto orar e
+hombre. Ningún hombre tiene poder para ayudarle a tu alma, excepto orar e
 
-interceder por ti. El poder salvador y perdonador radica nicamente en
+interceder por ti. El poder salvador y perdonador radica únicamente en
 
-Jesucristo. Mralo a l; confa en Su sacrificio; l resucit, l ascendi, l
+Jesucristo. Míralo a Él; confía en Su sacrificio; Él resucitó, Él ascendió, Él
 
-est a la diestra de Dios. Hay vida en una mirada a l. Mira! Confa! Y
+está a la diestra de Dios. Hay vida en una mirada a Él. ˇMira! ˇConfía! Y
 
-entonces sers lavado, vestido, ungido, consagrado, y as servirs a Dios. Pero
+entonces serás lavado, vestido, ungido, consagrado, y así servirás a Dios. Pero
 
-tu primera ocupacin es ir a Cristo. Oh, que Cristo venga a ti, y te salve
+tu primera ocupación es ir a Cristo. ˇOh, que Cristo venga a ti, y te salve
 
-ahora, y l recibir de nosotros la gloria, mundo sin fin! Amn.
+ahora, y Él recibirá de nosotros la gloria, mundo sin fin! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 4/Agosto/2010
 

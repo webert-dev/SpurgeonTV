@@ -1,8 +1,8 @@
 # Sermón 2271 | Sermón 2271
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Solo, Pero
 
@@ -10,7 +10,7 @@ No
 
 Solo
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -20,7 +20,7 @@ DEL
 
 DOMINGO 2 DE MARZO DE 1890
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -28,223 +28,223 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 28 DE
 
 AGOSTO, 1892.
 
-Jess les
+“Jesús les
 
-respondi: Ahora creis? He aqu la hora viene, y ha venido ya, en que seris
+respondió: żAhora creéis? He aquí la hora viene, y ha venido ya, en que seréis
 
-esparcidos cada uno por su lado, y me dejaris solo; mas no estoy solo, porque
+esparcidos cada uno por su lado, y me dejaréis solo; mas no estoy solo, porque
 
-el Padre est conmigo.    Juan 16: 31, 32.
+el Padre está conmigo”.    Juan 16: 31, 32.
 
-Nuestro Seor espera ver
+Nuestro Seńor espera ver
 
-la fe como el resultado de Su enseanza, y me parece orle decir al trmino de
+la fe como el resultado de Su enseńanza, y me parece oírle decir al término de
 
-cada servicio: Ahora crees? T has escuchado; t has aludido al predicador.
+cada servicio: “żAhora crees? Tú has escuchado; tú has aludido al predicador.
 
-Ahora crees? Has sido inducido a sentir pues has enjugado tus lgrimas, pero,
+żAhora crees? Has sido inducido a sentir pues has enjugado tus lágrimas, pero,
 
-ahora crees? Pues nada excepto la fe te puede proporcionar la salvacin.
+żahora crees? Pues nada excepto la fe te puede proporcionar la salvación”.
 
-Esta noche, me gustara
+Esta noche, me gustaría
 
-hacerle a cada oyente presente en esta gran casa, la pregunta de mi texto. T
+hacerle a cada oyente presente en esta gran casa, la pregunta de mi texto. Tú
 
-ya has escuchado sermones durante muchos aos: Ahora crees? Tus cabellos se
+ya has escuchado sermones durante muchos ańos: “żAhora crees?” Tus cabellos se
 
-estn poniendo grises y tu odo ya est muy familiarizado con el Evangelio,
+están poniendo grises y tu oído ya está muy familiarizado con el Evangelio,
 
-pues has escuchado su predicacin durante muchos, muchos aos; pero Ahora
+pues has escuchado su predicación durante muchos, muchos ańos; pero “żAhora
 
-crees? Segn la respuesta que des verazmente a esta pregunta, puedes evaluar
+crees?” Según la respuesta que des verazmente a esta pregunta, puedes evaluar
 
-tu condicin ante Dios: Ahora crees?
+tu condición ante Dios: “żAhora crees?”
 
 Cristo ama la fe dondequiera
 
-que la ve; para l es algo precioso.
+que la ve; para Él es algo precioso.
 
 Para ustedes que creen,
 
-l es precioso, l es honra; y quienes tienen fe confieren a l todo el honor
+Él es precioso, Él es honra; y quienes tienen fe confieren a Él todo el honor
 
 que les es posible conferirle. La confianza de ustedes lo adorna con joyas; la
 
-confianza de ustedes coloca la corona sobre Su cabeza. Pero nuestro Seor es
+confianza de ustedes coloca la corona sobre Su cabeza. Pero nuestro Seńor es
 
-muy discriminador; l distingue entre la fe y la presuncin, entre la fe y
+muy discriminador; Él distingue entre la fe y la presunción, entre la fe y
 
-nuestra idea de la fe. Los discpulos le dijeron que ya estaban seguros: Ahora
+nuestra idea de la fe. Los discípulos le dijeron que ya estaban seguros: “Ahora
 
-entendemos que sabes todas las cosas, y no necesitas que nadie te pregunte. S!
+entendemos que sabes todas las cosas, y no necesitas que nadie te pregunte”. “ˇSí!
 
-S!, -pareca decir el Salvador- esa es la medida de la propia fe de
+ˇSí!”, -parecía decir el Salvador- “esa es la medida de la propia fe de
 
-ustedes, pero Yo no la mido de la misma manera que ustedes la miden.
+ustedes, pero Yo no la mido de la misma manera que ustedes la miden”.
 
-Si hubiese alguien aqu que
+Si hubiese alguien aquí que
 
-dijera: En materia de fe no necesito ser precavido; casi no necesito una
+dijera: “En materia de fe no necesito ser precavido; casi no necesito una
 
-admonicin, pues yo creo, oh!, no podras saber cun firmemente. No, mi
+admonición, pues yo creo, ˇoh!, no podrías saber cuán firmemente”. No, mi
 
-querido amigo, y tal vez ni t sepas cun dbilmente crees. De cualquier
+querido amigo, y tal vez ni tú sepas cuán débilmente crees. De cualquier
 
 manera, no confundas tu creencia en tu propia fe con la fe en Cristo, pues la
 
-creencia en tu propia fe pudiera ser slo vanidad, pero la fe en Cristo da
+creencia en tu propia fe pudiera ser sólo vanidad, pero la fe en Cristo da
 
-gloria a Dios, y trae la salvacin al creyente.
+gloria a Dios, y trae la salvación al creyente.
 
 Para rebajarles el
 
 orgullo, el Salvador les recuerda que, prescindiendo de la fe que tuvieran, les
 
-haba tomado mucho tiempo llegar a ella. Ahora creis? Tres aos he estado ensendoles;
+había tomado mucho tiempo llegar a ella. “żAhora creéis? Tres ańos he estado enseńándoles;
 
-tres aos he obrado milagros en medio de ustedes; tres aos me han visto y han
+tres ańos he obrado milagros en medio de ustedes; tres ańos me han visto y han
 
-podido ver al Padre en M, pero, despus de todo este tiempo han llegado
+podido ver al Padre en Mí, pero, żdespués de todo este tiempo han llegado
 
-finalmente a tener una pequea fe? Oh, amigos!, no tenemos jams ninguna razn
+finalmente a tener una pequeńa fe?” ˇOh, amigos!, no tenemos jamás ninguna razón
 
 para jactarnos de nuestra fe, pues nos ha tomado mucho tiempo llegar a ella.
 
 Ahora confiamos efectivamente en Cristo; yo espero que muchos de nosotros
 
-podamos decir sinceramente que nos apoyamos enteramente en l. Nosotros creemos
+podamos decir sinceramente que nos apoyamos enteramente en Él. Nosotros creemos
 
-en Dios y creemos tambin en Su Hijo Jesucristo; pero le tom meses sacarnos de
+en Dios y creemos también en Su Hijo Jesucristo; pero le tomó meses sacarnos de
 
-nuestra confianza en nosotros mismos; se necesitaron aos para alzarnos de la
+nuestra confianza en nosotros mismos; se necesitaron ańos para alzarnos de la
 
-desesperacin; le ha tomado todo este tiempo al Seor, en el poder de Su propio
+desesperación; le ha tomado todo este tiempo al Seńor, en el poder de Su propio
 
-Espritu, obrar en nosotros la poca fe que tenemos.
+Espíritu, obrar en nosotros la poca fe que tenemos.
 
-Luego nuestro Seor les
+Luego nuestro Seńor les
 
-record otra cosa ms humillante todava: que as como su fe haba tardado en
+recordó otra cosa más humillante todavía: que así como su fe había tardado en
 
-llegar, as tambin podra irse muy rpidamente. Ahora creis?, -dice- he
+llegar, así también podría irse muy rápidamente. “żAhora creéis?”, -dice- “he
 
-aqu la hora viene, y ha venido ya, en que seris esparcidos cada uno por su
+aquí la hora viene, y ha venido ya, en que seréis esparcidos cada uno por su
 
-lado, y me dejaris solo. Oh, amados, si surge un pequeo problema, si ocurre
+lado, y me dejaréis solo”. Oh, amados, si surge un pequeńo problema, si ocurre
 
-una dificultad imprevista, dnde est la fe de ustedes? Una pequea
+una dificultad imprevista, żdónde está la fe de ustedes? Una pequeńa
 
-persecucin, una burla trivial de un incrdulo, el sarcasmo de un agnstico, y
+persecución, una burla trivial de un incrédulo, el sarcasmo de un agnóstico, ży
 
-dnde est su fe? No les sucede as a muchos, que mientras gozan de buena
+dónde está su fe? żNo les sucede así a muchos, que mientras gozan de buena
 
-compaa casi podran alardear de su fe; pero si la compaa cambia,
+compańía casi podrían alardear de su fe; pero si la compańía cambia,
 
 ciertamente no tienen ninguna fe de la cual alardear? Los hombres que eran de una
 
-lengua muy locuaz estn callados ahora, y aunque antes usaban sus cascos adornados
+lengua muy locuaz están callados ahora, y aunque antes usaban sus cascos adornados
 
-con plumas, ahora los esconderan y ocultaran tambin sus cabezas si pudieran.
+con plumas, ahora los esconderían y ocultarían también sus cabezas si pudieran.
 
-Se avergenzan ahora de aquel en quien antes se gloriaban. Oh, amigos, el que
+Se avergüenzan ahora de aquel en quien antes se gloriaban. Oh, amigos, el que
 
-se glora, glorese nicamente en el Seor. El creyente no debe jactarse nunca
+se gloría, gloríese únicamente en el Seńor. El creyente no debe jactarse nunca
 
-de su fe, no vaya a ser que se le recuerde cunto tiempo le tom llegar a ella,
+de su fe, no vaya a ser que se le recuerde cuánto tiempo le tomó llegar a ella,
 
-y cun pronto podra verse privado de ella.
+y cuán pronto podría verse privado de ella.
 
-Los discpulos del Seor
+Los discípulos del Seńor
 
 no recibieron esta advertencia con mucha diligencia. No creo que ninguno de
 
-ellos lo hiciera; ciertamente Pedro no lo hizo, y los dems se le asemejaban
+ellos lo hiciera; ciertamente Pedro no lo hizo, y los demás se le asemejaban
 
-mucho. Cuando Pedro le dijo a Jess: Aunque todos se escandalicen de ti, yo
+mucho. Cuando Pedro le dijo a Jesús: “Aunque todos se escandalicen de ti, yo
 
-nunca me escandalizar, y, Aunque me sea necesario morir contigo, no te negar,
+nunca me escandalizaré”, y, “Aunque me sea necesario morir contigo, no te negaré”,
 
-leemos que: Todos los discpulos dijeron lo mismo. Nosotros podramos decir
+leemos que: “Todos los discípulos dijeron lo mismo”. Nosotros podríamos decir
 
-esta noche: No hay nadie entre nosotros que vaya a ser jams un traidor a
+esta noche: “No hay nadie entre nosotros que vaya a ser jamás un traidor a
 
-Cristo; no hay ninguna mujer aqu cuyo corazn se vaya a enfriar jams. Esa
+Cristo; no hay ninguna mujer aquí cuyo corazón se vaya a enfriar jamás”. Esa
 
-sera una adulacin para nuestras propias personas. Lo que otros hayan hecho,
+sería una adulación para nuestras propias personas. Lo que otros hayan hecho,
 
-sin importar cun vil y bajo sea, nosotros tambin somos capaces de hacerlo. Si
+sin importar cuán vil y bajo sea, nosotros también somos capaces de hacerlo. Si
 
-pensramos que no lo somos, es nuestro orgullo y slo nuestro orgullo el que
+pensáramos que no lo somos, es nuestro orgullo y sólo nuestro orgullo el que
 
-nos induce a pensar as.
+nos induce a pensar así.
 
-Por tanto, nuestro Seor,
+Por tanto, nuestro Seńor,
 
-para llamar la especial atencin de Sus discpulos acerca de su peligro, no
+para llamar la especial atención de Sus discípulos acerca de su peligro, no
 
-dijo meramente: La hora viene, sino, He aqu la hora viene. Inserta un He
+dijo meramente: “La hora viene”, sino, “He aquí la hora viene”. Inserta un “ˇHe
 
-aqu!, un
+aquí!”, un
 
-Ecce!
+“ˇEcce!”
 
-As como los
+Así como los
 
-antiguos escritores solan poner una mano en el margen, o las iniciales N. B.,
+antiguos escritores solían poner una mano en el margen, o las iniciales N. B.,
 
 nota bene,
 
-para llamar la atencin hacia
+para llamar la atención hacia
 
-algo en especial, as el Salvador inserta aqu un: He aqu!, Miren aqu!,
+algo en especial, así el Salvador inserta aquí un: “ˇHe aquí!”, “ˇMiren aquí!”,
 
-Vean esto. Ustedes que acaban de ponerse su armadura piensan que ya han
+“Vean esto”. Ustedes que acaban de ponerse su armadura piensan que ya han
 
-ganado la victoria. He aqu la hora viene, y ha venido ya, en que seris
+ganado la victoria. “He aquí la hora viene, y ha venido ya, en que seréis
 
-esparcidos cada uno por su lado, y me dejaris solo.
+esparcidos cada uno por su lado, y me dejaréis solo”.
 
 Por tanto, yo les ruego,
 
-hermanos, -y me hablo a m mismo a la par que a ustedes- que aprendamos la
+hermanos, -y me hablo a mí mismo a la par que a ustedes- que aprendamos la
 
-leccin de nuestra fragilidad; y aunque esta noche confiamos honestamente en
+lección de nuestra fragilidad; y aunque esta noche confiamos honestamente en
 
-Cristo, cada uno de nosotros debe clamar: Sostnme, y ser salvo. De todos
+Cristo, cada uno de nosotros debe clamar: “Sosténme, y seré salvo”. De todos
 
-los que ocupan estos balcones y de todos los que estn sentados abajo en esas
+los que ocupan estos balcones y de todos los que están sentados abajo en esas
 
-bancas, de todos los ms experimentados y de los ms consolidados de ustedes,
+bancas, de todos los más experimentados y de los más consolidados de ustedes,
 
-as como tambin de aqullos que slo recientemente han sido conducidos a
+así como también de aquéllos que sólo recientemente han sido conducidos a
 
-conocer al Seor, debe elevarse una oracin, y cada uno debe clamar: Seor,
+conocer al Seńor, debe elevarse una oración, y cada uno debe clamar: “ˇSeńor,
 
-gurdame, pues yo no puedo guardarme a m mismo! Ay! Ay!, hemos visto caer
+guárdame, pues yo no puedo guardarme a mí mismo!” ˇAy! ˇAy!, hemos visto caer
 
-incluso a los portaestandartes, y cuando se es el caso, cun tristemente se
+incluso a los portaestandartes, y cuando ése es el caso, ˇcuán tristemente se
 
 lamentan los soldados rasos! Los que estaban firmes como rocas han sido
 
-conducidos a titubear. Dios, gurdanos! Cristo de Dios, gurdanos por Tu
+conducidos a titubear. ˇDios, guárdanos! ˇCristo de Dios, guárdanos por Tu
 
-Espritu eterno! Amn.
+Espíritu eterno! Amén.
 
 Ahora, vamos a dejar esa
 
-consideracin introductoria, pero seguiremos considerablemente en la misma
+consideración introductoria, pero seguiremos considerablemente en la misma
 
-vena. Primero, aprendamos esta noche de nuestro Seor la leccin de
+vena. Primero, aprendamos esta noche de nuestro Seńor la lección de
 
 Su abandono:
 
-Seris esparcidos cada uno
+“Seréis esparcidos cada uno
 
-por su lado, y me dejaris solo; en segundo lugar,
+por su lado, y me dejaréis solo”; en segundo lugar,
 
 Su confianza:
 
-mas no estoy solo, porque el Padre est conmigo; y
+“mas no estoy solo, porque el Padre está conmigo”; y
 
 luego, en tercer lugar,
 
@@ -252,9 +252,9 @@ Su ejemplo,
 
 pues
 
-en todo sto hemos de seguir Sus pasos. Si experimentramos el padecimiento
+en todo ésto hemos de seguir Sus pasos. ˇSi experimentáramos el padecimiento
 
-del Seor, que tuviramos tambin Su confianza, debido a que imitamos Su
+del Seńor, que tuviéramos también Su confianza, debido a que imitamos Su
 
 ejemplo!
 
@@ -262,39 +262,39 @@ I.
 
 Entonces,
 
-noten primero EL ABANDONO DE NUESTRO SEOR, pues algo parecido pudiera
+noten primero EL ABANDONO DE NUESTRO SEŃOR, pues algo parecido pudiera
 
 ocurrirles a ustedes.
 
-Dejaron solo a nuestro Seor.
+Dejaron solo a nuestro Seńor.
 
-Vamos, esos once apstoles
+ˇVamos, esos once apóstoles
 
-que le rodean y a quienes se dirige, seguramente no abandonaran a su Seor!
+que le rodean y a quienes se dirige, seguramente no abandonarían a su Seńor!
 
-Estn muy seguros de resistir cualquier andanada de fuego que pudiera ser
+Están muy seguros de resistir cualquier andanada de fuego que pudiera ser
 
-dirigida contra ellos y, con todo, ni uno solo de ellos permanecer firme.
+dirigida contra ellos y, con todo, ni uno solo de ellos permanecerá firme.
 
-Todos le abandonarn y huirn. En el huerto, los tres que son Sus escoltas se
+Todos le abandonarán y huirán. En el huerto, los tres que son Sus escoltas se
 
-quedarn dormidos, y el resto de los discpulos har lo mismo; y cuando l
+quedarán dormidos, y el resto de los discípulos hará lo mismo; y cuando Él
 
-comparece ante Pilato y ante Herodes, ninguno de ellos estar all para defenderlo;
+comparece ante Pilato y ante Herodes, ninguno de ellos estará allí para defenderlo;
 
-ni una solitaria voz se alzar por l.
+ni una solitaria voz se alzará por Él.
 
 A pesar de que estaban convencidos
 
-de que seran solidarios, abandonaron a Aquel a quien crean en verdad, y
+de que serían solidarios, abandonaron a Aquel a quien creían en verdad, y
 
 advirtamos que eran hombres honestos cuando hablaban tan confiadamente. No
 
-haba ninguna hipocresa en lo que decan, pues hablaban con toda sinceridad;
+había ninguna hipocresía en lo que decían, pues hablaban con toda sinceridad;
 
-cada uno de ellos crea verdaderamente que poda ir a prisin y a la muerte, y
+cada uno de ellos creía verdaderamente que podía ir a prisión y a la muerte, y
 
-cada uno prefera sufrir eso a negar a su Seor. En su propia opinin, ellos no
+cada uno prefería sufrir eso a negar a su Seńor. En su propia opinión, ellos no
 
 alardeaban; hablaban con sinceridad.
 
@@ -304,65 +304,65 @@ la prueba para ti: que tus buenos y honestos amigos se marchen en tu hora de nec
 
 que tus amigos verdaderos desfallezcan y se cansen. No pueden seguirte el paso;
 
-no pueden confrontar la tormenta que t eres llamado a confrontar, y se marchan.
+no pueden confrontar la tormenta que tú eres llamado a confrontar, y se marchan.
 
-Ay, cun doloroso fue para nuestro amado Seor! Quienes estaban muy confiados y
+ˇAy, cuán doloroso fue para nuestro amado Seńor! Quienes estaban muy confiados y
 
-eran verdaderamente sinceros, fueron esparcidos, y l se qued solo.
+eran verdaderamente sinceros, fueron esparcidos, y Él se quedó solo.
 
-Ellos tambin amaban
+Ellos también amaban
 
 realmente a Cristo. Yo estoy seguro de que el amor de Pedro no era un incipiente
 
-amor cuando le dijo: T lo sabes todo; t sabes que te amo. Pedro amaba en
+amor cuando le dijo: “Tú lo sabes todo; tú sabes que te amo”. Pedro amaba en
 
-verdad a su Maestro. Aun cuando neg a su Seor, en su corazn haba amor hacia
+verdad a su Maestro. Aun cuando negó a su Seńor, en su corazón había amor hacia
 
-l. Lo mismo suceda con los otros discpulos; todos ellos amaban a su Seor y,
+Él. Lo mismo sucedía con los otros discípulos; todos ellos amaban a su Seńor y,
 
-sin embargo, todos lo abandonaron y, -pobres seres dbiles como eran- le dieron
+sin embargo, todos lo abandonaron y, -pobres seres débiles como eran- le dieron
 
-la espalda en el da de la batalla.
+la espalda en el día de la batalla.
 
 Para nuestros corazones
 
-es muy doloroso ser abandonados por amigos buenos y amorosos. Yo no lo s, pero
+es muy doloroso ser abandonados por amigos buenos y amorosos. Yo no lo sé, pero
 
-si ustedes hubieran estado seguros de que haban sido hipcritas, casi podran
+si ustedes hubieran estado seguros de que habían sido hipócritas, casi podrían
 
-alegrarse de que se hubieran ido; pero sabiendo que eran veraces de corazn,
+alegrarse de que se hubieran ido; pero sabiendo que eran veraces de corazón,
 
 tan veraces como pudieran serlo esos pobres seres, se incrementa la amargura de
 
 que los abandonen. Cuando experimenten eso, no necesitan pensar que algo
 
-extrao les hubiera sucedido, pues Cristo fue abandonado as.
+extrańo les hubiera sucedido, pues Cristo fue abandonado así.
 
 Noten, que
 
 fue abandonado por todos.
 
-Seris esparcidos
+“Seréis esparcidos
 
-cada uno por su lado; cada uno. Cuando llega la prueba, no permanece Juan?
+cada uno por su lado”; “cada uno”. Cuando llega la prueba, żno permanece Juan?
 
-No recuerda ese amado pecho sobre el que apoy su cabeza? Se fue Juan? S,
+żNo recuerda ese amado pecho sobre el que apoyó su cabeza? żSe fue Juan? Sí,
 
-cada uno. Cristo mir y no haba nadie que estuviese junto a l. Tena que
+“cada uno”. Cristo miró y no había nadie que estuviese junto a Él. Tenía que
 
 confrontar a Sus acusadores sin un solo testigo a Su favor, pues todos se
 
-haban ido. Ah, eso fue una dura prueba, en verdad! Pero un verdadero amigo,
+habían ido. ˇAh, eso fue una dura prueba, en verdad! Pero un verdadero amigo,
 
-un Damn o un Pitias, es fiel para con el amigo incluso hasta la muerte, y
+un Damón o un Pitias, es fiel para con el amigo incluso hasta la muerte, y
 
 entonces la prueba no es tan demoledora. Pero no; cada uno se va por su lado, y
 
-Cristo se queda solo; de los pueblos nadie haba con l, ni uno solo de los que
+Cristo se queda solo; de los pueblos nadie había con Él, ni uno solo de los que
 
-haban sido Sus ms ntimos amigos.
+habían sido Sus más íntimos amigos.
 
-Qu se proponan todos
+żQué se proponían todos
 
 ellos? Bien,
 
@@ -370,81 +370,81 @@ cada individuo buscaba su
 
 propia seguridad:
 
-Seris esparcidos cada uno por su lado. Acaso no es
+“Seréis esparcidos cada uno por su lado”. żAcaso no es
 
-esa la propia esencia del egosmo y de la ruindad, Cada uno por su lado? Eso
+esa la propia esencia del egoísmo y de la ruindad, “Cada uno por su lado”? Eso
 
 es todo lo que Cristo obtuvo de Sus mejores seguidores; ellos lo abandonaron y
 
 cada uno se fue por su lado, a su propia casa, para cuidar de su propia
 
-seguridad, para proteger a su propia reputacin, para preservar su propia vida.
+seguridad, para proteger a su propia reputación, para preservar su propia vida.
 
-Cada uno por su lado.
+“Cada uno por su lado”.
 
-Oh, Jess, son ellos
+Oh, Jesús, żson ellos
 
-Tus amigos? Amante de los hombres, acaso son ellos Tus amantes? Te asombra
+Tus amigos? Amante de los hombres, żacaso son ellos Tus amantes? żTe asombra
 
-si, algunas veces, encuentras que tus amigos querran cuidarte, slo que tienen
+si, algunas veces, encuentras que tus amigos querrían cuidarte, sólo que tienen
 
-que cuidarse ellos mismos? Ellos querran mantenerte, pero entonces t cuestas
+que cuidarse ellos mismos? Ellos querrían mantenerte, pero entonces tú cuestas
 
-demasiado; eres un amigo demasiado caro! El costo de tu amistad tiene que
+demasiado; ˇeres un amigo demasiado “caro”! El costo de tu amistad tiene que
 
-ser considerado, y su ingreso no puede aguantarlo. Cada uno por su lado. Eso debi
+ser considerado, y su ingreso no puede aguantarlo. “Cada uno por su lado”. Eso debió
 
-sentir tambin el Salvador.
+sentir también el Salvador.
 
-Y recuerden que sto
+Y recuerden que ésto
 
-sucedi
+sucedió
 
 cuando la hora especial de Cristo
 
-haba llegado.
+había llegado.
 
-La hora viene, la hora de Cristo, la hora del poder de las
+“La hora viene”, la hora de Cristo, la hora del poder de las
 
 tinieblas. Fue entonces cuando ellos lo abandonaron. Cuando no necesitaba de su
 
 amistad, ellos eran Sus muy buenos amigos. Fueron Sus fieles seguidores cuando
 
-no podan hacer nada por l, aunque lo intentaran. Pero la hora del tormento ha
+no podían hacer nada por Él, aunque lo intentaran. Pero la hora del tormento ha
 
-llegado; ahora podran vigilar con l una hora, ahora podran acompaarlo en
+llegado; ahora podrían vigilar con Él una hora, ahora podrían acompańarlo en
 
-medio de la numerosa gentuza, y al menos podran interponer el voto de la
+medio de la numerosa gentuza, y al menos podrían interponer el voto de la
 
-minora en contra de las masas; pero se esfuman. Como las golondrinas, desaparecen
+minoría en contra de las masas; pero se esfuman. Como las golondrinas, desaparecen
 
 tan pronto la primera helada cubre el torrente. Como las verdes hojas del
 
-verano, dnde estn ellos ahora en este glido tiempo invernal? Ay, ay, por
+verano, żdónde están ellos ahora en este gélido tiempo invernal? ˇAy, ay, por
 
-la amistad si falla cuando es ms necesaria! Y en verdad le fall entonces al
+la amistad si falla cuando es más necesaria! Y en verdad le falló entonces al
 
 Salvador.
 
-l fue abandonado
+Él fue abandonado
 
-tambin,
+también,
 
-en violacin de todo vnculo.
+en violación de todo vínculo.
 
 Estos
 
-hombres que lo abandonaron se haban comprometido a serle fieles. Le haban
+hombres que lo abandonaron se habían comprometido a serle fieles. Le habían
 
-dado una promesa de morir con l. Eran Sus compaeros escogidos; l los haba
+dado una promesa de morir con Él. Eran Sus compańeros escogidos; Él los había
 
-llamado de sus barcas de pesca en Galilea, y los haba hecho Sus discpulos. Eran
+llamado de sus barcas de pesca en Galilea, y los había hecho Sus discípulos. Eran
 
-Sus apstoles, los hombres principales en Su nuevo reino. Ellos deban sentarse
+Sus apóstoles, los hombres principales en Su nuevo reino. Ellos debían sentarse
 
-sobre tronos para juzgar a las doce tribus de Israel. A stos los haba
+sobre tronos para juzgar a las doce tribus de Israel. A éstos los había
 
-redimido para S; ellos haban de ser partcipes de Su gloria en el da de Su
+redimido para Sí; ellos habían de ser partícipes de Su gloria en el día de Su
 
 venida. No hubo nunca hombres ligados a hombre, como ellos estaban ligados a
 
@@ -454,39 +454,39 @@ Querido amigo, no
 
 esperes gratitud de tus semejantes; la gratitud es un bien muy escaso en este
 
-mundo. Entre ms hagas por los hombres, menor ser su agradecimiento. No hablo
+mundo. Entre más hagas por los hombres, menor será su agradecimiento. No hablo
 
-ahora como alguien que piensa mal de sus semejantes, pero, ay!, yo s que as
+ahora como alguien que piensa mal de sus semejantes, pero, ˇay!, yo sé que así
 
-es en muchos casos; y si no fuera esa tu porcin, puedes agradecer a Dios que
+es en muchos casos; y si no fuera esa tu porción, puedes agradecer a Dios que
 
-no lo sea, y debes sorprenderte de ser una excepcin a la regla. Si poco a poco
+no lo sea, y debes sorprenderte de ser una excepción a la regla. Si poco a poco
 
-perdieras tu posicin en el mundo, y necesitaras la ayuda de los mismos a
+perdieras tu posición en el mundo, y necesitaras la ayuda de los mismos a
 
-quienes t ayudaste en das pasados, como regla, ellos sern los ltimos en
+quienes tú ayudaste en días pasados, como regla, ellos serán los últimos en
 
 ayudarte y los primeros en pisotearte.
 
 Ciertamente, en el caso
 
-de nuestro Seor Jesucristo, aqullos que estaban ms cerca y que ms le
+de nuestro Seńor Jesucristo, aquéllos que estaban más cerca y que más le
 
-deban, huyeron, y no obtuvo ningn socorro de ellos. Se fueron: Cada uno por
+debían, huyeron, y no obtuvo ningún socorro de ellos. Se fueron: “Cada uno por
 
-su lado, y lo dejaron solo, para ser atado y golpeado por Sus adversarios
+su lado”, y lo dejaron solo, para ser atado y golpeado por Sus adversarios
 
-insensibles y para ser arrastrado a la prisin y a la muerte.
+insensibles y para ser arrastrado a la prisión y a la muerte.
 
-All est la primera
+Allí está la primera
 
-divisin de nuestro tema: la prueba de nuestro Seor. Repito que un abandono
+división de nuestro tema: la prueba de nuestro Seńor. Repito que un abandono
 
-semejante podra ocurrirle a algunos de los presentes. Les ha correspondido a
+semejante podría ocurrirle a algunos de los presentes. Les ha correspondido a
 
-menudo a algunos valerosos defensores de la fe comprobar que son los ltimos
+menudo a algunos valerosos defensores de la fe comprobar que son los últimos
 
-pilares que quedan para sostener el puente; es una tribulacin aguda y severa
+pilares que quedan para sostener el puente; es una tribulación aguda y severa
 
 para el hombre que es llamado a soportarla.
 
@@ -494,65 +494,65 @@ II.
 
 Tendremos
 
-una exposicin ms alegre en nuestro segundo encabezado, que es:
+una exposición más alegre en nuestro segundo encabezado, que es:
 
 LA CONFIANZA
 
 DE
 
-NUESTRO SEOR. l
+NUESTRO SEŃOR. Él
 
-dice: Me dejaris solo; mas no estoy solo, porque el Padre est conmigo.
+dice: “Me dejaréis solo; mas no estoy solo, porque el Padre está conmigo”.
 
 Observen, entonces, que
 
-la confianza de Cristo era la confianza de que el Padre estaba con l, y esta
+la confianza de Cristo era la confianza de que el Padre estaba con Él, y esta
 
 confianza
 
-lo retuvo en Su propsito.
+lo retuvo en Su propósito.
 
 Vean,
 
-los discpulos huyeron; fueron esparcidos cada uno por su lado. Pero, se fue
+los discípulos huyeron; fueron esparcidos cada uno por su lado. Pero, żse fue
 
-Cristo? No. Juan, Pedro, Santiago, Toms, y todos los dems se fueron; pero, se
+Cristo? No. Juan, Pedro, Santiago, Tomás, y todos los demás se fueron; pero, żse
 
-fue Cristo? l no. l sigue all. Lo dejaron solo pero all est, permaneciendo
+fue Cristo? Él no. Él sigue allí. Lo dejaron solo pero allí está, permaneciendo
 
-fiel a Su propsito. l vino para salvar, y salvar. l vino para redimir, y
+fiel a Su propósito. Él vino para salvar, y salvará. Él vino para redimir, y
 
-redimir. l vino para vencer al mundo, y lo vencer. Lo dejaron solo; no lo
+redimirá. Él vino para vencer al mundo, y lo vencerá. Lo dejaron solo; no lo
 
-llevaron con ellos. l no es ningn cobarde. No se arrepiente nunca de Su
+llevaron con ellos. Él no es ningún cobarde. ˇNo se arrepiente nunca de Su
 
-propsito, bendito sea Su nombre! l se mantuvo firme en aquella terrible hora
+propósito, bendito sea Su nombre! Él se mantuvo firme en aquella terrible hora
 
 cuando todos lo abandonaron y huyeron. Esto fue gracias a Su confianza en Dios.
 
 En seguida, observen que
 
-esta confianza en Dios no slo lo mantuvo firme en Su propsito, sino que lo
+esta confianza en Dios no sólo lo mantuvo firme en Su propósito, sino que lo
 
 sostuvo ante la perspectiva de la
 
-tribulacin.
+tribulación.
 
-Noten cmo dice: Me dejaris solo; mas no estoy solo. Cristo
+Noten cómo dice: “Me dejaréis solo; mas no estoy solo”. Cristo
 
-no dice: No estar solo. Eso sera cierto; pero dijo:
+no dice: “No estaré solo”. Eso sería cierto; pero dijo:
 
-No estoy
+“No estoy
 
-solo. Me encanta leer la experiencia del hijo de Dios en
+solo”. Me encanta leer la experiencia del hijo de Dios en
 
 el tiempo presente; leer los dones, las gracias y las promesas de Dios en el
 
-tiempo presente: No estoy solo. Jehov es mi pastor, y tambin:
+tiempo presente: “No estoy solo”. “Jehová es mi pastor”, y también:
 
-Nada me
+“Nada me
 
-falta. En lugares de
+falta”. “En lugares de
 
 delicados pastos
 
@@ -562,61 +562,61 @@ descansar;
 
 junto a aguas de reposo me
 
-pastorea.
+pastorea”.
 
-l
+Él
 
-hace todo eso por m ahora. El bendito Cristo dice que la perspectiva de que
+hace todo eso por mí ahora. El bendito Cristo dice que la perspectiva de que
 
-Dios est con l a lo largo de toda Su prueba, y de que la presencia de Dios
+Dios esté con Él a lo largo de toda Su prueba, y de que la presencia de Dios
 
-est con l ahora, es Su consuelo ante la inminencia del abandono. Quienes
+esté con Él ahora, es Su consuelo ante la inminencia del abandono. Quienes
 
-estuvieron presentes aqu esta maana saben que predicamos un sermn muy triste,
+estuvieron presentes aquí esta mańana saben que predicamos un sermón muy triste,
 
-basndonos en el texto: Dios mo, Dios mo, por qu me has desamparado? Yo
+basándonos en el texto: “Dios mío, Dios mío, żpor qué me has desamparado?” Yo
 
-eleg este texto para mi sermn de esta noche porque es la contraparte del que
+elegí este texto para mi sermón de esta noche porque es la contraparte del que
 
-predicamos esta maana, pues nuestro Seor poda decirles realmente a Sus
+predicamos esta mańana, pues nuestro Seńor podía decirles realmente a Sus
 
-discpulos: Mas no estoy solo, porque el Padre est conmigo.
+discípulos: “Mas no estoy solo, porque el Padre está conmigo”.
 
-La declaracin de
+La declaración de
 
-nuestro Seor
+nuestro Seńor
 
 fue contradicha por las
 
 apariencias.
 
-Acaso no tuvo que decirle a Dios: Por qu me has
+żAcaso no tuvo que decirle a Dios: “Por qué me has
 
-desamparado? Entonces, cmo pudo decir: El Padre est conmigo? Era cierto,
+desamparado?” Entonces, żcómo pudo decir: “El Padre está conmigo”? Era cierto,
 
-y en una parte de mi sermn matutino procur mostrarles que si bien Dios lo
+y en una parte de mi sermón matutino procuré mostrarles que si bien Dios lo
 
-desampar en Su capacidad oficial como Legislador y como Ejecutor de la ley, con
+desamparó en Su capacidad oficial como Legislador y como Ejecutor de la ley, con
 
-todo, en Su relacin personal para con l, no lo desampar, ni poda hacerlo.
+todo, en Su relación personal para con Él, no lo desamparó, ni podía hacerlo.
 
-El Padre estaba con l. Oh, no es bendito de parte de Cristo que se apegara a
+El Padre estaba con Él. Oh, żno es bendito de parte de Cristo que se apegara a
 
-eso? l sabe que Su Padre est con l, inclusive cuando siente que el Padre lo
+eso? Él sabe que Su Padre está con Él, inclusive cuando siente que el Padre lo
 
 ha desamparado en otro sentido.
 
 Amado, si todo el mundo
 
-te abandonara, y Dios pareciera dejarte solo, aun as afrrate a tu confianza
+te abandonara, y Dios pareciera dejarte solo, aun así aférrate a tu confianza
 
-en Dios. No creas que Dios pueda desamparar a los Suyos; ni siquiera lo suees;
+en Dios. No creas que Dios pueda desamparar a los Suyos; ni siquiera lo sueńes;
 
-no puede ser. l nunca abandon a los Suyos; no puede hacerlo nunca ni nunca lo
+no puede ser. Él nunca abandonó a los Suyos; no puede hacerlo nunca ni nunca lo
 
-har. El Padre est con Jesucristo, incluso cuando sabe que tendr que decir: Por
+hará. El Padre está con Jesucristo, incluso cuando sabe que tendrá que decir: “żPor
 
-qu me has desamparado?
+qué me has desamparado?”
 
 Sin embargo, fue
 
@@ -624,83 +624,83 @@ fidedignamente cierto
 
 que el Padre
 
-estaba con Cristo cuando fue dejado solo. Entonces, cmo estaba el Padre con
+estaba con Cristo cuando fue dejado solo. Entonces, żcómo estaba el Padre con
 
-l? Amados, incluso cuando el Padre no se quedaba mirando a Cristo, o le
+Él? Amados, incluso cuando el Padre no se quedaba mirando a Cristo, o le
 
-otorgaba una sonrisa, o una palabra de consuelo, todava estaba con l. Cmo
+otorgaba una sonrisa, o una palabra de consuelo, todavía estaba con Él. żCómo
 
-es eso? Bien, estaba con Cristo en lo tocante a Sus propsitos y al pacto
+es eso? Bien, estaba con Cristo en lo tocante a Sus propósitos y al pacto
 
-eterno. Ellos haban hecho juntos un pacto para la redencin de los hombres,
+eterno. Ellos habían hecho juntos un pacto para la redención de los hombres,
 
-para la salvacin de los elegidos, y haban estrechado manos, y se haban
+para la salvación de los elegidos, y habían estrechado manos, y se habían
 
-comprometido mutuamente a llevar a cabo el divino propsito y el pacto eterno. Recuerdo
+comprometido mutuamente a llevar a cabo el divino propósito y el pacto eterno. Recuerdo
 
-aquel pasaje acerca de Abraham, cuando se diriga con Isaac al monte Moriah, donde
+aquel pasaje acerca de Abraham, cuando se dirigía con Isaac al monte Moriah, donde
 
-Isaac deba ser ofrecido. Est escrito: Y fueron ambos juntos. Lo mismo
+Isaac debía ser ofrecido. Está escrito: “Y fueron ambos juntos”. Lo mismo
 
 hicieron el Padre Eterno y Su Bienamado Hijo cuando Dios estaba a punto de
 
-entregar a Su propio Hijo a la muerte. No haba ningn propsito dividido;
+entregar a Su propio Hijo a la muerte. No había ningún propósito dividido;
 
 fueron ambos juntos. Toda la obra de Cristo era la obra del Padre, y el Padre
 
 lo apoyaba con plenitud.
 
-En el diseo y en el
+En el diseńo y en el
 
-mtodo de la expiacin, el Padre y el Hijo estaban juntos. De tal manera am
+método de la expiación, el Padre y el Hijo estaban juntos. “De tal manera amó
 
-Dios al mundo, que ha dado a su Hijo unignito; pero de tal manera am Jess
+Dios al mundo, que ha dado a su Hijo unigénito”; pero de tal manera amó Jesús
 
-al mundo que se entreg a S mismo. La expiacin fue el don del Padre, pero fue
+al mundo que se entregó a Sí mismo. La expiación fue el don del Padre, pero fue
 
-la obra del Hijo. En todo lo que sufri pudo decir: El Padre est conmigo en
+la obra del Hijo. En todo lo que sufrió pudo decir: “El Padre está conmigo en
 
-esto. Estoy haciendo lo que le glorificar, y le contentar. l no fue solo a
+esto. Estoy haciendo lo que le glorificará, y le contentará”. Él no fue solo a
 
-la prisin y a la muerte. En todas las cosas, hizo lo que agrad al Padre, y el
+la prisión y a la muerte. En todas las cosas, hizo lo que agradó al Padre, y el
 
-Padre estaba con l en todo.
+Padre estaba con Él en todo.
 
 Todos los decretos de
 
-Dios respaldaban a Cristo. Est escrito en el libro sellado, pero quin habr
+Dios respaldaban a Cristo. Está escrito en el libro sellado, pero żquién habrá
 
-de leerlo excepto el Cristo? Todo lo que est escrito all, est escrito en
+de leerlo excepto el Cristo? Todo lo que está escrito allí, está escrito en
 
-apoyo de Cristo. No hay ningn decreto en el libro del destino que no obre para
+apoyo de Cristo. No hay ningún decreto en el libro del destino que no obre para
 
 la gloria de Cristo, y de acuerdo a la mente de Cristo. No solamente hay doce
 
-legiones de ngeles detrs de la cruz, sino que el Dios de los ngeles est
+legiones de ángeles detrás de la cruz, sino que el Dios de los ángeles está
 
-all, tambin. No slo las fuerzas de
+allí, también. No sólo las fuerzas de
 
 la Providencia
 
-obrarn juntas para lograr el
+obrarán juntas para lograr el
 
-propsito del Creador, sino que el Dios de
+propósito del Creador, sino que el Dios de
 
 la Providencia
 
 , el
 
-infinito Jehov, est en alianza con Jess, y puede decir cuando va a la
+infinito Jehová, está en alianza con Jesús, y puede decir cuando va a la
 
-muerte: No estoy solo, porque el Padre est conmigo. No es sta una gloriosa
+muerte: “No estoy solo, porque el Padre está conmigo”. żNo es ésta una gloriosa
 
-verdad, que nuestro Seor Cristo no estaba solo? En lo relativo a compaeros
+verdad, que nuestro Seńor Cristo no estaba solo? En lo relativo a compańeros
 
-terrenales, las palabras escritas por Isaas podan ser expresadas literalmente
+terrenales, las palabras escritas por Isaías podían ser expresadas literalmente
 
-por Cristo: He pisado yo solo el lagar. Cada uno se march, pero Dios siempre
+por Cristo: “He pisado yo solo el lagar”. Cada uno se marchó, pero Dios siempre
 
-estuvo con l.
+estuvo con Él.
 
 Desde entonces,
 
@@ -708,15 +708,15 @@ ha sido manifestado
 
 que Dios estaba con
 
-Cristo. Lo demostr resucitndolo de los muertos. Acaso el Padre no demostr
+Cristo. Lo demostró resucitándolo de los muertos. żAcaso el Padre no demostró
 
-tambin que estaba con el Hijo enviando al Espritu Santo en Pentecosts, con
+también que estaba con el Hijo enviando al Espíritu Santo en Pentecostés, con
 
-diversos signos y portentos? Jess no est solo. Toda la obra del Espritu
+diversos signos y portentos? Jesús no está solo. Toda la obra del Espíritu
 
-Santo desde entonces, convenciendo a los hombres de pecado y conducindolos a
+Santo desde entonces, convenciendo a los hombres de pecado y conduciéndolos a
 
-Jess, es una prueba de que no est solo.
+Jesús, es una prueba de que no está solo.
 
 Amados, toda la historia
 
@@ -726,67 +726,67 @@ la Providencia
 
 ,
 
-desde el da en que Cristo ascendi al cielo, demuestra que no est solo.
+desde el día en que Cristo ascendió al cielo, demuestra que no está solo.
 
-Solo? Acaso el Cristo est solo? Vamos, las bestias del campo estn en
+żSolo? żAcaso el Cristo está solo? Vamos, las bestias del campo están en
 
-alianza con l. Las estrellas en sus rbitas luchan por l. Cada evento de la
+alianza con Él. Las estrellas en sus órbitas luchan por Él. Cada evento de la
 
-historia, dndole el tiempo y el espacio suficientes, har que Su reino venga.
+historia, dándole el tiempo y el espacio suficientes, hará que Su reino venga.
 
 Cada vuelta de esas enormes ruedas de
 
 la Providencia
 
-har que Su carro de triunfo se
+hará que Su carro de triunfo se
 
-aproxime ms y ms y pase sobre el cuello de Sus enemigos. Incluso ahora, por
+aproxime más y más y pase sobre el cuello de Sus enemigos. Incluso ahora, por
 
-fe, Vemos a aquel que fue hecho un poco menor que los ngeles, a Jess,
+fe, “Vemos a aquel que fue hecho un poco menor que los ángeles, a Jesús,
 
-coronado de gloria y de honra, a causa del padecimiento de la muerte.
+coronado de gloria y de honra, a causa del padecimiento de la muerte”.
 
-Miren ustedes, santos, pues la visin es gloriosa,
+“Miren ustedes, santos, pues la visión es gloriosa,
 
-Vean al Varn de dolores ahora,
+Vean al ‘Varón de dolores’ ahora,
 
 Que ha regresado victorioso de la lid;
 
-Toda rodilla a l se inclinar:
+Toda rodilla a Él se inclinará:
 
-Cornenle, Cornenle;
+Corónenle, Corónenle;
 
-Las coronas son idneas para la frente del Vencedor.
+Las coronas son idóneas para la frente del Vencedor”.
 
-Jess es el centro de
+Jesús es el centro de
 
-todo poder y sabidura. Dios est con l, y viene el da cuando aparecer en Su
+todo poder y sabiduría. Dios está con Él, y viene el día cuando aparecerá en Su
 
-gloria. En Su reino milenial, entre los hijos de Dios, se ver que l no est
+gloria. En Su reino milenial, entre los hijos de Dios, se verá que Él no está
 
-solo; y cuando venga en la gloria del Padre y todos Sus santos ngeles con l,
+solo; y cuando venga en la gloria del Padre y todos Sus santos ángeles con Él,
 
-entonces podr decir inclusive con un mayor nfasis: No estoy solo, porque el
+entonces podrá decir inclusive con un mayor énfasis: “No estoy solo, porque el
 
-Padre est conmigo. Y cuando se siente sobre el gran trono blanco y divida a
+Padre está conmigo”. Y cuando se siente sobre el gran trono blanco y divida a
 
 la humanidad, Sus amigos a la derecha, Sus enemigos a la izquierda, y pronuncie
 
 ira eterna sobre los rebeldes y abra el cielo a los creyentes, entonces todos
 
-los mundos sabrn que el Hombre de Nazaret no est solo. Solo? Pareciera que
+los mundos sabrán que el Hombre de Nazaret no está solo. żSolo? Pareciera que
 
-debo rer ante ese mero pensamiento. Todo el cielo y la tierra, las cosas
+debo reír ante ese mero pensamiento. Todo el cielo y la tierra, las cosas
 
 presentes y las cosas venideras, el tiempo y la eternidad, la vida y la muerte,
 
-todo est con l. Los hombres pueden abandonarlo, pero l no est solo.
+todo está con Él. Los hombres pueden abandonarlo, pero Él no está solo.
 
 III.
 
 Ahora,
 
-en tercer lugar, quiero ensearles las lecciones del EJEMPLO DE NUESTRO SEOR.
+en tercer lugar, quiero enseńarles las lecciones del EJEMPLO DE NUESTRO SEŃOR.
 
 Como mi tiempo casi se ha agotado, debo hablar muy brevemente sobre estas
 
@@ -796,247 +796,247 @@ Primero,
 
 aprendan la fidelidad cuando otros fallan.
 
-Eres
+żEres
 
-t un cristiano? Confas en Cristo? Lo amas? Entonces, no lo abandones nunca.
+tú un cristiano? żConfías en Cristo? żLo amas? Entonces, no lo abandones nunca.
 
-Oh!, pero, -dir alguien- la corriente va en sentido contrario ahora.
+“ˇOh!, pero”, -dirá alguien- “la corriente va en sentido contrario ahora”.
 
-Hermano, djala que corra; desaparecer cuando haya terminado de correr. Yo
+Hermano, déjala que corra; desaparecerá cuando haya terminado de correr. Yo
 
-creo en Aquel que resucit de los muertos, cuya justicia en verdad me
+creo en Aquel que resucitó de los muertos, cuya justicia en verdad me
 
-justifica, cuya sangre en verdad me lava y me deja ms blanco que la nieve.
+justifica, cuya sangre en verdad me lava y me deja más blanco que la nieve.
 
-Pero los filsofos nos dicen que eso no es cientfico. Entonces yo no soy un
+“Pero los filósofos nos dicen que eso no es científico”. Entonces yo no soy un
 
-cientfico y me alegra no serlo. Oh, pero los pensadores profundos dicen que
+científico y me alegra no serlo. “ˇOh, pero los pensadores profundos dicen que
 
-eso es inconsistente con el progreso! Bien, que sea inconsistente con el
+eso es inconsistente con el progreso!” Bien, que sea inconsistente con el
 
-progreso. Oh, pero todo el mundo lo niega! Tanto peor para el mundo. Que
+progreso. “ˇOh, pero todo el mundo lo niega!” Tanto peor para el mundo. Que
 
-niegue la verdad si quiere. Fue grande el espritu de Atanasio cuando dijo:
+niegue la verdad si quiere. Fue grande el espíritu de Atanasio cuando dijo:
 
-Athanasius contra mundum,
+“Athanasius contra mundum”,
 
 esto es,
 
-Atanasio contra el mundo entero. Y todo cristiano puede ser de este espritu,
+“Atanasio contra el mundo entero”. Y todo cristiano puede ser de este espíritu,
 
-y debera ser de este espritu. Es veraz este Libro? Qu importa que algn
+y debería ser de este espíritu. żEs veraz este Libro? ˇQué importa que algún
 
 necio diga que es una mentira! Que los necios digan eso si quieren; pero es
 
-verdad, y apguense a l. Si Dios el Espritu Santo les ha enseado a confiar
+verdad, y apéguense a él. Si Dios el Espíritu Santo les ha enseńado a confiar
 
-en Cristo, confen en Cristo, sin importar lo que otras personas hagan. Cmo!
+en Cristo, confíen en Cristo, sin importar lo que otras personas hagan. ˇCómo!
 
-Vives acaso del hlito de las narices de otras personas? Cuentas las cabezas
+żVives acaso del hálito de las narices de otras personas? żCuentas las cabezas
 
-y luego te unes al mayor nmero? Es esa tu forma de proceder? Vamos, un hombre
+y luego te unes al mayor número? żEs esa tu forma de proceder? Vamos, un hombre
 
-as difcilmente es digno de ser salvado. Es un hombre o no es ms bien un
+así difícilmente es digno de ser salvado. żEs un hombre o no es más bien un
 
 gato que debe mirar antes de saltar? No, si eres un hombre, y crees en Cristo, defiende
 
 a Cristo.
 
-Defiendan! Defiendan a Jess!
+“ˇDefiendan! ˇDefiendan a Jesús!
 
-Ustedes, soldados de la cruz!
+ˇUstedes, soldados de la cruz!
 
-Alcen muy en alto Su regio pendn;
+Alcen muy en alto Su regio pendón;
 
-No debe sufrir ninguna prdida:
+No debe sufrir ninguna pérdida:
 
 De victoria en victoria
 
-l guiar a Su ejrcito,
+Él guiará a Su ejército,
 
 Hasta que todo enemigo sea vencido,
 
-Y Cristo sea en verdad Seor.
+Y Cristo sea en verdad Seńor.
 
-Defiendan! Defiendan a Jess!
+ˇDefiendan! ˇDefiendan a Jesús!
 
 Obedezcan el llamado de la trompeta;
 
 Avancen al nutrido conflicto,
 
-En este Su glorioso da;
+En este Su glorioso día;
 
-Ustedes que son valientes, srvanle ahora,
+Ustedes que son valientes, sírvanle ahora,
 
 Luchando contra los innumerables enemigos;
 
 Su valor ha de aumentar con el peligro,
 
-Opongan potencia a la potencia.
+Opongan potencia a la potencia”.
 
 Y cuando los muchos se
 
-desbanden, prense con mayor firmeza y con mayor confianza, pues su confianza y
+desbanden, párense con mayor firmeza y con mayor confianza, pues su confianza y
 
-su arrojo son ms necesarios en tales circunstancias. El Seor no abandon Su
+su arrojo son más necesarios en tales circunstancias. El Seńor no abandonó Su
 
-gran misin cuando todos los hombres lo abandonaron a l. No renuncien a la
+gran misión cuando todos los hombres lo abandonaron a Él. No renuncien a la
 
-obra de su vida y de su fe, aunque todos los dems presenten su renuncia.
+obra de su vida y de su fe, aunque todos los demás presenten su renuncia.
 
 En seguida, con su
 
 Maestro,
 
-crean que Dios se basta a S
+crean que Dios se basta a Sí
 
 mismo.
 
-Lean esto: Seris esparcidos cada uno por su lado, y me dejaris
+Lean esto: “Seréis esparcidos cada uno por su lado, y me dejaréis
 
-solo; mas no estoy solo, porque -por qu?- Porque habr una media docena de
+solo; mas no estoy solo, porque” -żpor qué?- “żPorque habrá una media docena de
 
-fieles? No. Porque tres de ustedes me sern solidarios? No. Porque el Padre
+fieles”? No. “żPorque tres de ustedes me serán solidarios? No. “Porque el Padre
 
-est conmigo. Oh, no contamos como deberamos hacerlo. Hay un milln en contra
+está conmigo”. Oh, no contamos como deberíamos hacerlo. Hay un millón en contra
 
-de ustedes. Est Dios por ustedes? Bien, entonces ustedes son la mayora. Qu
+de ustedes. żEstá Dios por ustedes? Bien, entonces ustedes son la mayoría. żQué
 
-es un milln, despus de todo, sino un uno y muchos ceros? Confen en Dios, y
+es un millón, después de todo, sino un uno y muchos ceros? Confíen en Dios, y
 
-dejen que los millones sigan su camino. Dios basta. Cuando aqul que
+dejen que los millones sigan su camino. Dios basta. Cuando aquél que
 
 discurseaba en la academia se dio cuenta de que todos se iban y que lo dejaban
 
-hablando solo, excepto Platn, aun as continu su pltica; y alguien le dijo:
+hablando solo, excepto Platón, aun así continuó su plática; y alguien le dijo:
 
-Conferencista, ya no te queda ninguna audiencia, excepto Platn. Ninguna
+“Conferencista, ya no te queda ninguna audiencia, excepto Platón”. “żNinguna
 
-audiencia, excepto Platn?, dice; Platn basta para cincuenta oradores.
+audiencia, excepto Platón?, dice; Platón basta para cincuenta oradores”.
 
-Entonces, en verdad, si t no tienes ningn otro ayudador excepto Dios,
+Entonces, en verdad, si tú no tienes ningún otro ayudador excepto Dios,
 
-permanece all donde ests, pues Dios no slo basta para ti, sino para todos
+permanece allí donde estás, pues Dios no sólo basta para ti, sino para todos
 
-los fieles, por dbiles que sean.
+los fieles, por débiles que sean.
 
 En seguida, aprendan
 
-otra leccin.
+otra lección.
 
-Confen en Dios a pesar de
+Confíen en Dios a pesar de
 
 las apariencias.
 
-Eres muy pobre? Eres dbil? Eres calumniado? Ests
+żEres muy pobre? żEres débil? żEres calumniado? żEstás
 
-siendo azotado con la vara ms pesada de Dios? Con todo, no des coces contra
+siendo azotado con la vara más pesada de Dios? Con todo, no des coces contra
 
-l, sino haz como nuestro Seor hizo. l dijo: El Padre est conmigo,
+Él, sino haz como nuestro Seńor hizo. Él dijo: “El Padre está conmigo”,
 
-inclusive cuando tuvo que clamar: Por qu me has desamparado? Cree en l
+inclusive cuando tuvo que clamar: “żPor qué me has desamparado?” Cree en Él
 
-cuando no puedas verle; cree en l cuando no te sonra; cree en l cuando te
+cuando no puedas verle; cree en Él cuando no te sonría; cree en Él cuando te
 
-frunza el ceo; cree en l cuando te golpee; cree en l cuando mate, pues el
+frunza el ceńo; cree en Él cuando te golpee; cree en Él cuando mate, pues el
 
-clmax de todo es decir como Job: He aqu, aunque l me matare, en l
+clímax de todo es decir como Job: “He aquí, aunque él me matare, en él
 
-esperar. A l le corresponde hacer lo que le agrade; a m me corresponde
+esperaré”. A Él le corresponde hacer lo que le agrade; a mí me corresponde
 
-confiar en l, prescindiendo
+confiar en Él, prescindiendo
 
 de que
 
 haga lo que
 
-quiera. Yo rodeo con mis brazos a mi Dios, y le digo: Dios mo, Dios mo,
+quiera. Yo rodeo con mis brazos a mi Dios, y le digo: “Dios mío, Dios mío”,
 
 incluso cuando no se sienten gozos sensibles, y estoy obligado a caminar por
 
 fe.
 
-Por ltimo, combatiente
+Por último, combatiente
 
 hijo de Dios, estando firme por la verdad y por lo recto,
 
-has de esperar que tu tribulacin no dure mucho.
+has de esperar que tu tribulación no dure mucho.
 
-Advertiste cmo
+żAdvertiste cómo
 
-lo expresa Cristo: He aqu la hora viene? Slo una hora. He aqu la hora
+lo expresa Cristo: “He aquí la hora viene”? Sólo una hora. “He aquí la hora
 
-viene. No se trata de un ao, hermano, no se trata de un ao; no se trata de
+viene”. No se trata de un ańo, hermano, no se trata de un ańo; no se trata de
 
-un mes; no se trata de un da; no es sino una hora. La hora viene. Para
+un mes; no se trata de un día; no es sino una hora. “La hora viene”. Para
 
-Cristo fue ciertamente una larga hora, cuando colg de la cruz; pero l llama a
+Cristo fue ciertamente una larga hora, cuando colgó de la cruz; pero Él llama a
 
-todo el perodo desde el sudor sangriento hasta la muerte de cruz: la hora. A
+todo el período desde el sudor sangriento hasta la muerte de cruz: “la hora”. A
 
-la fe le corresponde acortar los das en horas. A ustedes les corresponde, esta
+la fe le corresponde acortar los días en horas. A ustedes les corresponde, esta
 
 noche, recordar que si tienen que sufrir y quedarse solos por Cristo, que es
 
-slo una hora. Cmo hemos esperado de buen grado cuando ha sido slo por una
+sólo una hora. ˇCómo hemos esperado de buen grado cuando ha sido sólo por una
 
-hora! Cun alegremente nos hemos quedado a oscuras cuando sabamos que era
+hora! ˇCuán alegremente nos hemos quedado a oscuras cuando sabíamos que era
 
-nicamente por una hora! Nuestra tribulacin es solamente por una hora!
+únicamente por una hora! ˇNuestra tribulación es solamente por una hora!
 
-Literalmente, antes de que d una nueva hora, algunos de nosotros podramos
+Literalmente, antes de que dé una nueva hora, algunos de nosotros podríamos
 
-estar con Dios; pero si as fuera para nosotros, o no, todava podemos cantar:
+estar con Dios; pero si así fuera para nosotros, o no, todavía podemos cantar:
 
-No importa que la duda y el peligro se opongan a mi progreso,
+“No importa que la duda y el peligro se opongan a mi progreso,
 
-Slo hacen que el cielo sea ms dulce al final:
+Sólo hacen que el cielo sea más dulce al final:
 
-Venga gozo o venga afliccin, lo que me toque,
+Venga gozo o venga aflicción, lo que me toque,
 
-Una hora con Dios lo compensar todo.
+Una hora con Dios lo compensará todo”.
 
 Pero si no fuera
 
-literalmente solo una hora, el ms prolongado reino de la persecucin es
+literalmente solo una hora, el más prolongado reino de la persecución es
 
 ciertamente muy breve. Una vez que llegamos a casa todo concluye. Yo pienso que
 
-contribuir a la celebracin de un dichoso da de fiesta en la tierra que fluye
+contribuirá a la celebración de un dichoso día de fiesta en la tierra que fluye
 
 leche y miel, cuando nos sentemos junto a alguno de esos arroyuelos ondeantes y
 
-digamos: Yo recuerdo cuando Fulano de Tal me abandon, pero yo permanec firme
+digamos: “Yo recuerdo cuando Fulano de Tal me abandonó, pero yo permanecí firme
 
-en la verdad que conoca y que crea. Todos ellos me abandonaron, y eso me pareci
+en la verdad que conocía y que creía. Todos ellos me abandonaron, y eso me pareció
 
-duro de sobrellevar en aquel momento; pero mi soledad no dur mucho y pronto
+duro de sobrellevar en aquel momento; pero mi soledad no duró mucho y pronto
 
-pas; y cuando el Seor dijo: Bien, buen siervo y fiel, no pareci entonces
+pasó; y cuando el Seńor dijo: ‘Bien, buen siervo y fiel’, no pareció entonces
 
-que hubiera sido una hora, sino slo el guio de un ojo, o como cuando, en la
+que hubiera sido una hora, sino sólo el guińo de un ojo, o como cuando, en la
 
 noche, la vela se apaga y se enciende de nuevo con su propio humo, pues el
 
-tiempo de la oscuridad fue muy breve. As en el cielo parecer como si nunca
+tiempo de la oscuridad fue muy breve”. Así en el cielo parecerá como si nunca
 
-hubiramos sufrido algo por Cristo. El mrtir ir en un carro ardiente al rojo
+hubiéramos sufrido algo por Cristo. El mártir irá en un carro ardiente al rojo
 
-vivo desde la hoguera, y cuando llegue al cielo habr olvidado que fue incinerado
+vivo desde la hoguera, y cuando llegue al cielo habrá olvidado que fue incinerado
 
-hasta la muerte, en medio del sumo gozo de contemplar a su Seor. Slo tomar
+hasta la muerte, en medio del sumo gozo de contemplar a su Seńor. Sólo tomará
 
 una hora y nos reuniremos delante del trono de oro, y estaremos sobre el mar de
 
-vidrio, y cantaremos perdurablemente: Al que nos am, y nos lav de nuestros
+vidrio, y cantaremos perdurablemente: “Al que nos amó, y nos lavó de nuestros
 
-pecados con su sangre, y nos hizo reyes y sacerdotes para Dios, su Padre; a l
+pecados con su sangre, y nos hizo reyes y sacerdotes para Dios, su Padre; a él
 
-sea gloria e imperio por los siglos de los siglos. Amn.
+sea gloria e imperio por los siglos de los siglos. Amén”.
 
 Nota del traductor:
 
-DAMN (s. IV a. C.). Filsofo pitagrico, de los tiempos de
+DAMÓN (s. IV a. C.). Filósofo pitagórico, de los tiempos de
 
 Dionisio el
 
@@ -1044,17 +1044,17 @@ Joven
 
 ,
 
-clebre
+célebre
 
-por su amistad con Pitias. Condenado ste a muerte, Damn consinti en que
+por su amistad con Pitias. Condenado éste a muerte, Damón consintió en que
 
 pudiera irse a arreglar sus asuntos y, en caso de no volver, ser condenado en
 
-su lugar. Llegada la hora del suplicio, se present Pitias a tomar su puesto.
+su lugar. Llegada la hora del suplicio, se presentó Pitias a tomar su puesto.
 
-Conmovido, Dionisio perdon al condenado.
+Conmovido, Dionisio perdonó al condenado.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 13/Abril/2011
 

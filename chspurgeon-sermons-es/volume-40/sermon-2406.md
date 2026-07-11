@@ -1,14 +1,14 @@
 # Sermón 2406 | Sermón 2406
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Un Llamamiento a
 
 Hijos de Padres Piadosos
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -18,7 +18,7 @@ DEL
 
 DOMINGO 27 DE MARZO DE 1887
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -26,51 +26,51 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 31 DE
 
 MARZO, 1895.
 
-Guarda, hijo
+“Guarda, hijo
 
-mo, el mandamiento de tu padre, y no dejes la enseanza de tu madre; talos
+mío, el mandamiento de tu padre, y no dejes la enseńanza de tu madre; átalos
 
-siempre en tu corazn, enlzalos a tu cuello. Te guiarn cuando andes; cuando
+siempre en tu corazón, enlázalos a tu cuello. Te guiarán cuando andes; cuando
 
-duermas te guardarn; hablarn contigo cuando despiertes. Porque el mandamiento
+duermas te guardarán; hablarán contigo cuando despiertes. Porque el mandamiento
 
-es lmpara, y la enseanza es luz, y camino de vida las reprensiones que te
+es lámpara, y la enseńanza es luz, y camino de vida las reprensiones que te
 
-instruyen. Proverbios 6: 20-23.
+instruyen”. Proverbios 6: 20-23.
 
-Aqu tienen ante ustedes
+Aquí tienen ante ustedes
 
-el consejo del rey Salomn, considerado apropiadamente como uno de los varones
+el consejo del rey Salomón, considerado apropiadamente como uno de los varones
 
-ms sabios, y si alguien pudiera superar en sabidura al hijo de David, el rey
+más sabios, y si alguien pudiera superar en sabiduría al hijo de David, el rey
 
-de Israel, tendra que ser uno verdaderamente sabio. Vale la pena escuchar lo
+de Israel, tendría que ser uno verdaderamente sabio. Vale la pena escuchar lo
 
-que Salomn tiene que decir. Tiene que ser bueno que el joven ms inteligente
+que Salomón tiene que decir. Tiene que ser bueno que el joven más inteligente
 
 escuche, y que escuche atentamente, lo que un hombre tan experimentado como
 
-Salomn tiene que decirles a los jvenes. Pero tengo que recordarles que alguien
+Salomón tiene que decirles a los jóvenes. Pero tengo que recordarles que alguien
 
-ms grande que Salomn est aqu, pues el Espritu de Dios inspir los
+más grande que Salomón está aquí, pues el Espíritu de Dios inspiró los
 
-Proverbios. No son simplemente joyas extradas de minas terrenales, sino que
+Proverbios. No son simplemente joyas extraídas de minas terrenales, sino que
 
 son preciosos tesoros provenientes de los montes celestiales; de manera que el
 
-consejo que tenemos aqu no es nicamente la exhortacin de un varn sabio,
+consejo que tenemos aquí no es únicamente la exhortación de un varón sabio,
 
-sino que es el consejo de esa Sabidura Encarnada que nos habla por
+sino que es el consejo de esa Sabiduría Encarnada que nos habla por
 
 la Palabra
 
-de Dios. Quieren
+de Dios. żQuieren
 
-llegar a ser hijos de la sabidura? Vengan y sintense a los pies de Salomn.
+llegar a ser hijos de la sabiduría? Vengan y siéntense a los pies de Salomón.
 
-Quieren llegar a ser sabios espiritualmente? Vengan y oigan lo que el Espritu
+żQuieren llegar a ser sabios espiritualmente? Vengan y oigan lo que el Espíritu
 
-de Dios tiene que decir por boca del sabio varn.
+de Dios tiene que decir por boca del sabio varón.
 
 Al considerar este tema,
 
@@ -80,29 +80,29 @@ verdadera
 
 piedad,
 
-de la cual habla aqu el sabio varn,
+de la cual habla aquí el sabio varón,
 
 nos llega a muchos de nosotros recomendada por el ejemplo de los
 
 padres:
 
-Guarda, hijo mo, el mandamiento de tu padre, y no dejes la
+“Guarda, hijo mío, el mandamiento de tu padre, y no dejes la
 
-enseanza de tu madre; talos siempre en tu corazn, enlzalos a tu cuello.
+enseńanza de tu madre; átalos siempre en tu corazón, enlázalos a tu cuello”.
 
-Pero en adicin a eso,
+Pero en adición a eso,
 
 la verdadera
 
-religin nos llega encomendada por usos prcticos,
+religión nos llega encomendada por usos prácticos,
 
-por su benfico efecto
+por su benéfico efecto
 
-en nuestras vidas: Te guiarn cuando andes; cuando duermas te guardarn;
+en nuestras vidas: “Te guiarán cuando andes; cuando duermas te guardarán;
 
-hablarn contigo cuando despiertes. Porque el mandamiento es lmpara, y la
+hablarán contigo cuando despiertes. Porque el mandamiento es lámpara, y la
 
-enseanza es luz, y camino de vida las reprensiones que te instruyen.
+enseńanza es luz, y camino de vida las reprensiones que te instruyen”.
 
 I.
 
@@ -112,49 +112,49 @@ quiero mostrarles, en primer lugar, que
 
 LA VERDADERA
 
-RELIGIN
+RELIGIÓN
 
 NOS LLEGA A MUCHOS DE NOSOTROS RECOMENDADA POR EL EJEMPLO DE LOS PADRES.
 
 Desgraciadamente no
 
-sucede as con todos ustedes. Hay algunos que tuvieron un mal ejemplo en su
+sucede así con todos ustedes. Hay algunos que tuvieron un mal ejemplo en su
 
-niez y nunca aprendieron nada bueno de sus padres. Yo adoro la soberana de la
+nińez y nunca aprendieron nada bueno de sus padres. Yo adoro la soberanía de la
 
 gracia divina porque esta noche hay entre nosotros muchos que son los primeros en
 
-sus familias que han hecho una profesin de fe en Cristo. Nacieron y fueron
+sus familias que han hecho una profesión de fe en Cristo. Nacieron y fueron
 
-educados en medio de todo lo que se opona a la piedad; con todo aqu estn y ni
+educados en medio de todo lo que se oponía a la piedad; con todo aquí están y ni
 
-ellos mismos podran decirles cmo fueron sacados del mundo igual que Abraham
+ellos mismos podrían decirles cómo fueron sacados del mundo igual que Abraham
 
-fue sacado de Ur de los caldeos. El Seor en Su gracia ha tomado a uno de una
+fue sacado de Ur de los caldeos. El Seńor en Su gracia ha tomado a uno de una
 
 ciudad, y a dos de una familia para llevarlos a Sion. Queridos amigos, ustedes
 
-tienen un motivo especial de agradecimiento, pero deberan preparar una nota
+tienen un motivo especial de agradecimiento, pero deberían preparar una nota
 
 que debe quedar registrada en sus diarios en el sentido de que sus hijos no
 
-sern sometidos a las mismas desventajas que ustedes mismos sufrieron. Puesto
+serán sometidos a las mismas desventajas que ustedes mismos sufrieron. Puesto
 
-que el Seor los ha mirado en amor, hagan que sus hogares sean santidad a
+que el Seńor los ha mirado en amor, hagan que sus hogares sean santidad a
 
-Jehov, y as deben educar a sus hijos para que ellos disfruten de todas las
+Jehová, y así deben educar a sus hijos para que ellos disfruten de todas las
 
-ventajas que proporciona la educacin religiosa y de toda oportunidad para
+ventajas que proporciona la educación religiosa y de toda oportunidad para
 
 servir al Dios viviente.
 
 Pero hay muchos entre
 
-nosotros -yo creo que la mayor proporcin de quienes estn reunidos aqu- que
+nosotros -yo creo que la mayor proporción de quienes están reunidos aquí- que
 
-han tenido el inmenso privilegio de una piadosa educacin. Ahora, en mi
+han tenido el inmenso privilegio de una piadosa educación. Ahora, en mi
 
-opinin, pareciera que la
+opinión, pareciera que la
 
 experiencia de
 
@@ -162,91 +162,91 @@ un padre es la mejor evidencia
 
 que un joven puede tener de la verdad de
 
-cualquier cosa. Mi padre no dira nada que fuera falso a nadie en ningn lugar,
+cualquier cosa. Mi padre no diría nada que fuera falso a nadie en ningún lugar,
 
-pero yo estoy absolutamente seguro de que no se lo dira a su hijo; y si,
+pero yo estoy absolutamente seguro de que no se lo diría a su hijo; y si,
 
-despus de servir a Dios durante cincuenta aos descubriera que la religin es
+después de servir a Dios durante cincuenta ańos descubriera que la religión es
 
-un fracaso, aun si no tuviese el valor de comunicrselo a todo el mundo, estoy
+un fracaso, aun si no tuviese el valor de comunicárselo a todo el mundo, estoy
 
-persuadido de que habra susurrado a mi odo: Hijo mo, te he engaado. He
+persuadido de que habría susurrado a mi oído: “Hijo mío, te he engańado. He
 
-estado equivocado y me he dado cuenta de ello. Pero cuando vi al anciano el
+estado equivocado y me he dado cuenta de ello”. Pero cuando vi al anciano el
 
-otro da, no tuvo que transmitirme ninguna informacin de ese tipo. Nuestra
+otro día, no tuvo que transmitirme ninguna información de ese tipo. Nuestra
 
-conversacin tuvo que ver con la fidelidad de Dios, y l se deleita en contar
+conversación tuvo que ver con la fidelidad de Dios, y él se deleita en contar
 
-acerca de la fidelidad de Dios para con l y para con su padre, mi querido
+acerca de la fidelidad de Dios para con él y para con su padre, mi querido
 
-abuelo, que ya ha partido a lo alto. Cun a menudo me han dicho que en una
+abuelo, que ya ha partido a lo alto. Cuán a menudo me han dicho que en una
 
 larga vida en que han probado y comprobado las promesas, han encontrado que
 
-todas son verdaderas, y que podan decir en el lenguaje del himno:
+todas son verdaderas, y que podían decir en el lenguaje del himno:
 
-La religin es la que puede dar
+“La religión es la que puede dar
 
-Los ms dulces placeres mientras vivimos;
+Los más dulces placeres mientras vivimos;
 
-La religin es la que puede proporcionar
+La religión es la que puede proporcionar
 
-Un slido consuelo cuando morimos.
+Un sólido consuelo cuando morimos”.
 
-En cuanto a m, si yo
+En cuanto a mí, si yo
 
-hubiera descubierto que estaba equivocado, no habra sido tan necio como para
+hubiera descubierto que estaba equivocado, no habría sido tan necio como para
 
 alegrarme de que mis hijos siguieran el mismo tipo de vida, y que se hicieran
 
-adictos, hasta donde les fuera posible, a la predicacin de la misma verdad que
+adictos, hasta donde les fuera posible, a la predicación de la misma verdad que
 
-me deleito en proclamar. Querido hijo, si t tienes un padre piadoso, cree que
+me deleito en proclamar. Querido hijo, si tú tienes un padre piadoso, cree que
 
-la religin sobre la que l ha fijado su fe es verdadera. l te dice que es
+la religión sobre la que él ha fijado su fe es verdadera. Él te dice que es
 
-as; l es, de cualquier manera, un testigo honesto y sincero para ti; por
+así; él es, de cualquier manera, un testigo honesto y sincero para ti; por
 
 tanto, te suplico que no abandones al Dios de tu padre.
 
 Luego pienso que uno de
 
-los lazos ms tiernos que puedan atar a un hombre o a una mujer, es el afecto
+los lazos más tiernos que puedan atar a un hombre o a una mujer, es el afecto
 
-de una madre. Tal vez muchos querran romper con la ley del padre; pero, quin
+de una madre. Tal vez muchos querrían romper con la ley del padre; pero, żquién
 
-de nosotros podra desprenderse del amor de una madre? Entonces, a
+de nosotros podría desprenderse del amor de una madre? Entonces, a
 
-continuacin,
+continuación,
 
 el afecto de una madre es
 
 el mejor argumento.
 
-T recuerdas cmo oraba por ti. Uno de tus primeros
+Tú recuerdas cómo oraba por ti. Uno de tus primeros
 
-recuerdos es que te pona sobre sus rodillas y te enseaba a decir:
+recuerdos es que te ponía sobre sus rodillas y te enseńaba a decir:
 
-Dulce Jess, manso y benigno,
+“Dulce Jesús, manso y benigno,
 
-Vuelve Tu mirada a un tierno nio.
+Vuelve Tu mirada a un tierno nińo”.
 
 Tal vez hayas intentado
 
 descreer, pero la firme fe de tu madre te lo impide. Me he enterado de alguien
 
-que dijo que hubiera podido ser fcilmente un infiel si no hubiese sido por la
+que dijo que hubiera podido ser fácilmente un infiel si no hubiese sido por la
 
-vida de su madre y por la muerte de su madre. S, estos son argumentos difciles
+vida de su madre y por la muerte de su madre. Sí, estos son argumentos difíciles
 
-de superar, y yo confo que no logrars superarlos. Recuerdas bien su
+de superar, y yo confío que no lograrás superarlos. Recuerdas bien su
 
-inquebrantable paciencia en el hogar cuando muchas cosas habran podido
+inquebrantable paciencia en el hogar cuando muchas cosas habrían podido
 
-agitarla. Recuerdas su benevolencia contigo cuando t te enardecas. Tal vez no
+agitarla. Recuerdas su benevolencia contigo cuando tú te enardecías. Tal vez no
 
-supieras cmo la heras en lo ms vivo ni cmo pasaba sus noches en vela porque
+supieras cómo la herías en lo más vivo ni cómo pasaba sus noches en vela porque
 
 su muchacho no amaba al Dios de su madre. Yo te exhorto, por el amor que le
 
@@ -254,15 +254,15 @@ tienes, que si recibiste algunas impresiones que son buenas, las valores y no
 
 las deseches. O si no recibiste tales impresiones, al menos deja que la
 
-sinceridad de tu madre, para quien habra sido imposible no ser veraz, que el
+sinceridad de tu madre, para quien habría sido imposible no ser veraz, que el
 
-profundo afecto de tu madre, que no podra traicionarte con una mentira ni lo
+profundo afecto de tu madre, que no podría traicionarte con una mentira ni lo
 
-hara, te persuada que hay verdad en esta religin que ahora, tal vez, algunos
+haría, te persuada que hay verdad en esta religión que ahora, tal vez, algunos
 
-de tus compaeros estn tratando de ensearte a ridiculizar. Guarda, hijo mo,
+de tus compańeros están tratando de enseńarte a ridiculizar. “Guarda, hijo mío,
 
-el mandamiento de tu padre, y no dejes la enseanza de tu madre.
+el mandamiento de tu padre, y no dejes la enseńanza de tu madre”.
 
 Yo creo que para
 
@@ -278,39 +278,39 @@ de su padre y de su madre los conducen.
 
 Por supuesto que nosotros hemos
 
-logrado grandes avances con respecto a los viejos, no es cierto? Los jvenes
+logrado grandes avances con respecto a los viejos, żno es cierto? Los jóvenes
 
 son maravillosamente brillantes e inteligentes, y los viejos se han quedado
 
-bastante ms rezagados. S, s; as es como hablamos antes de que nos haya
+bastante más rezagados. Sí, sí; así es como hablamos antes de que nos haya
 
-crecido la barba. Posiblemente cuando tengamos ms sentido no seremos tan
+crecido la barba. Posiblemente cuando tengamos más sentido no seremos tan
 
 presumidos por eso. De cualquier manera, yo, que no soy tan viejo y que no me
 
-atrevera a seguirme llamando un joven, me aventuro a decir que, en cuanto a
+atrevería a seguirme llamando un joven, me aventuro a decir que, en cuanto a
 
-m, nada deseo ms que continuar las tradiciones de mi familia. No deseo
+mí, nada deseo más que continuar las tradiciones de mi familia. No deseo
 
 encontrar ninguna ruta excepto aquella que corre en paralelo con la de quienes
 
 me precedieron. Y yo creo, queridos amigos, que ustedes que han visto las santas
 
-y felices vidas de sus ancestros cristianos sern sabios para hacer una larga
+y felices vidas de sus ancestros cristianos serán sabios para hacer una larga
 
 pausa antes de que comiencen a desviarse ya sea a la derecha o a la izquierda
 
-de la ruta de esos seres piadosos. Yo no creo que quien comienza con la nocin
+de la ruta de esos seres piadosos. Yo no creo que quien comienza con la noción
 
-de trastornarlo todo, de que todo lo que perteneca a su piadosa familia ser
+de trastornarlo todo, de que todo lo que pertenecía a su piadosa familia será
 
 arrojado a lo vientos, comienza la vida de una manera que es probable que Dios
 
-bendiga, ni que l mismo juzgue a la larga que es sabia. Yo no busco recibir
+bendiga, ni que él mismo juzgue a la larga que es sabia. Yo no busco recibir
 
 joyas heredadas de oro o plata pero, aunque muera yo mil muertes, no puedo
 
-renunciar jams al Dios de mi padre, ni al Dios de mi abuelo, ni al Dios de
+renunciar jamás al Dios de mi padre, ni al Dios de mi abuelo, ni al Dios de
 
 su
 
@@ -320,135 +320,135 @@ su
 
 padre. He de considerar esto la
 
-principal posesin que tengo, y yo les ruego a los jvenes y a las jvenes que
+principal posesión que tengo, y yo les ruego a los jóvenes y a las jóvenes que
 
 piensen lo mismo. No manches las gloriosas tradiciones de nobles vidas que te
 
 han sido transmitidas; no deshonres el escudo de tu padre ni desacredites los
 
-blasones de tus honrados predecesores con ningn pecado o transgresin de tu
+blasones de tus honrados predecesores con ningún pecado o transgresión de tu
 
-parte. Que Dios te ayude a sentir que la mejor manera de llevar una noble vida
+parte. ˇQue Dios te ayude a sentir que la mejor manera de llevar una noble vida
 
 es hacer lo mismo que hicieron quienes te educaron en el temor de Dios!
 
-Salomn nos dice que
+Salomón nos dice que
 
-hagamos dos cosas con las enseanzas que aprendimos de nuestros padres. Primero
+hagamos dos cosas con las enseńanzas que aprendimos de nuestros padres. Primero
 
-dice: talas siempre en tu corazn, pues
+dice: “Átalas siempre en tu corazón”, pues
 
 son
 
-dignas de una adhesin amorosa.
+dignas de una adhesión amorosa.
 
-Muestra que amas estas cosas atndolas en
+Muestra que amas estas cosas atándolas en
 
-tu corazn. El corazn es el punto vital; deja que la piedad se aloje all; ama
+tu corazón. El corazón es el punto vital; deja que la piedad se aloje allí; ama
 
-las cosas de Dios. Si pudiramos tomar a jvenes varones y mujeres e hiciramos
+las cosas de Dios. Si pudiéramos tomar a jóvenes varones y mujeres e hiciéramos
 
-que profesaran la religin sin que amaran realmente la piedad, eso simplemente
+que profesaran la religión sin que amaran realmente la piedad, eso simplemente
 
-sera convertirlos en hipcritas, que no es lo que deseamos. No queremos que digan
+sería convertirlos en hipócritas, que no es lo que deseamos. No queremos que digan
 
 que creen lo que no creen, o que se regocijan en lo que no se regocijan. Pero
 
-nuestra oracin, y oh, que fuera tambin la oracin de ustedes!, es que
+nuestra oración, y ˇoh, que fuera también la oración de ustedes!, es que
 
-reciban ayuda para atar estas cosas alrededor de su corazn. Vale la pena vivir
+reciban ayuda para atar estas cosas alrededor de su corazón. Vale la pena vivir
 
 por ellas, y vale la pena morir por ellas; esos inmortales principios de la vida
 
-divina que proviene de la muerte de Cristo valen ms que cualquier otra cosa en
+divina que proviene de la muerte de Cristo valen más que cualquier otra cosa en
 
-el mundo. talos siempre en tu corazn.
+el mundo. “Átalos siempre en tu corazón”.
 
-Y luego Salomn, porque
+Y luego Salomón, porque
 
-no quera que mantuviramos estas cosas en secreto como si nos avergonzramos
+no quería que mantuviéramos estas cosas en secreto como si nos avergonzáramos
 
-de ellas, aade: Enlzalas a tu cuello, pues
+de ellas, ańade: “Enlázalas a tu cuello”, pues
 
-son dignas del ms osado lucimiento.
+son dignas del más osado lucimiento.
 
-Vieron alguna vez al seor
+żVieron alguna vez al seńor
 
-alcalde de Londres ostentando el collar que simboliza su cargo? l no se avergenza
+alcalde de Londres ostentando el collar que simboliza su cargo? Él no se avergüenza
 
-en absoluto de lucirlo. Tampoco se avergenzan los alguaciles de sus placas; yo
+en absoluto de lucirlo. Tampoco se avergüenzan los alguaciles de sus placas; yo
 
-tengo un vivo recuerdo del enorme tamao que alcanzan esos ornamentos, pero a
+tengo un vivo recuerdo del enorme tamańo que alcanzan esos ornamentos, pero a
 
 pesar de eso, ellos tienen el cuidado de usarlos. Pues bien, ustedes que
 
-sienten algn amor por Dios, aten su religin alrededor de su cuello. No se
+sienten algún amor por Dios, aten su religión alrededor de su cuello. No se
 
-avergencen de ella, pngansela como un adorno, colquensela como el alcalde se
+avergüencen de ella, póngansela como un adorno, colóquensela como el alcalde se
 
-pone su collar. Cuando te juntes con otras personas no te avergences nunca de
+pone su collar. Cuando te juntes con otras personas no te avergüences nunca de
 
-decir que eres un cristiano; y si hay alguna reunin a la que no pudieses
+decir que eres un cristiano; y si hay alguna reunión a la que no pudieses
 
-asistir como un cristiano, entonces no vayas all en absoluto. Debes decirte:
+asistir como un cristiano, entonces no vayas allí en absoluto. Debes decirte:
 
-No voy a hacer acto de presencia donde no pueda presentar a mi Maestro; no ir
+“No voy a hacer acto de presencia donde no pueda presentar a mi Maestro; no iré
 
-donde l no pueda ir conmigo. Encontrars que esa resolucin es de gran ayuda
+donde Él no pueda ir conmigo”. Encontrarás que esa resolución es de gran ayuda
 
-para ti en la eleccin del lugar adonde irs, y adonde no irs; por tanto, tala
+para ti en la elección del lugar adonde irás, y adonde no irás; por tanto, átala
 
-en tu corazn, enlzala a tu cuello. Que Dios te ayude a hacerlo, y que sigas
+en tu corazón, enlázala a tu cuello. ˇQue Dios te ayude a hacerlo, y que sigas
 
-as a los piadosos que te antecedieron!
+así a los piadosos que te antecedieron!
 
-Espero no ser dbil al
+Espero no ser débil al
 
-desear que algunas personas que estn aqu sean tocadas por el afecto hacia sus
+desear que algunas personas que están aquí sean tocadas por el afecto hacia sus
 
 padres. En el curso de mi ministerio he presenciado algunas veces escenas muy
 
-tristes. Tal vez se encuentre entre los presentes un amante padre, un varn
+tristes. Tal vez se encuentre entre los presentes un amante padre, un varón
 
-honesto, recto y piadoso, pero no le importar que diga qu surcos de dolor vi
+honesto, recto y piadoso, pero no le importará que diga qué surcos de dolor vi
 
-en su rostro cuando en una ocasin vino a decirme: Oh, seor, mi muchacho
+en su rostro cuando en una ocasión vino a decirme: “ˇOh, seńor, mi muchacho
 
-est en prisin! Yo estoy seguro de que si su muchacho hubiera podido ver el
+está en prisión!” Yo estoy seguro de que si su muchacho hubiera podido ver el
 
-rostro de su padre como yo lo vi, eso habra sido peor que la prisin para l.
+rostro de su padre como yo lo vi, eso habría sido peor que la prisión para él.
 
-He conocido a algunos jvenes que han venido a este Tabernculo con sus padres
+He conocido a algunos jóvenes que han venido a este Tabernáculo con sus padres
 
-por cierto eran buenos muchachos- pero han tomado empleos en la ciudad donde
+–por cierto eran buenos muchachos- pero han tomado empleos en la ciudad donde
 
 han sido tentados a robar, y han cedido al tentador, y han perdido su
 
-reputacin. Algunas veces la deficiencia ha sido subsanada y han sido
+reputación. Algunas veces la deficiencia ha sido subsanada y han sido
 
-rescatados de una carrera criminal; pero, ay, algunas veces han cado en las
+rescatados de una carrera criminal; pero, ˇay, algunas veces han caído en las
 
-manos de una mujer impa, y entonces, pobres de ellos! Ocasionalmente parecera
+manos de una mujer impía, y entonces, pobres de ellos! Ocasionalmente parecería
 
 ser puro desenfreno y maldad lo que los ha hecho actuar inicuamente. Yo
 
-deseara poder ir por esos jvenes no creo que estn aqu esta noche- para
+desearía poder ir por esos jóvenes –no creo que estén aquí esta noche- para
 
-hacerles ver, no simplemente la miseria que atraen sobre s mismos, sino para mostrarles
+hacerles ver, no simplemente la miseria que atraen sobre sí mismos, sino para mostrarles
 
-a su madre en el hogar cuando le lleg la noticia de que Juan haba perdido su
+a su madre en el hogar cuando le llegó la noticia de que Juan había perdido su
 
-empleo porque haba estado actuando deshonestamente, o para darles una vislumbre
+empleo porque había estado actuando deshonestamente, o para darles una vislumbre
 
 del rostro del padre cuando le llegaron las malas noticias. El pobre hombre se
 
-qued horrorizado; dijo: Nunca antes hubo una mancha en el carcter de algn
+quedó horrorizado; dijo: “Nunca antes hubo una mancha en el carácter de algún
 
-miembro de mi familia. Si la tierra se hubiese abierto debajo de los pies del piadoso
+miembro de mi familia”. Si la tierra se hubiese abierto debajo de los pies del piadoso
 
-varn, o si la buena madre hubiera podido descender directamente a la tumba, habran
+varón, o si la buena madre hubiera podido descender directamente a la tumba, habrían
 
-preferido eso a la tribulacin vitalicia que les ha sobrevenido. Por tanto, te
+preferido eso a la tribulación vitalicia que les ha sobrevenido. Por tanto, te
 
 exhorto a ti, joven amigo, o a ti, jovencita, que no mates a los progenitores
 
@@ -456,7 +456,7 @@ que te dieron vida, que no deshonres a quienes te educaron; yo te ruego que, en
 
 vez de eso, busques al Dios de tu padre, y al Dios de tu madre, y que te
 
-entregues al Seor Jesucristo, y que vivas enteramente para l.
+entregues al Seńor Jesucristo, y que vivas enteramente para Él.
 
 II.
 
@@ -466,193 +466,193 @@ debo abordar mi segundo punto, que consiste en que
 
 LA VERDADERA
 
-RELIGIN
+RELIGIÓN
 
-NOS LLEGA ENCOMENDADA POR USOS PRCTICOS. Este es un razonamiento menos
+NOS LLEGA ENCOMENDADA POR USOS PRÁCTICOS. Este es un razonamiento menos
 
 sentimental que el que he estado utilizando; pero, para muchos, la piedad vital
 
-llama la atencin por su inmensa utilidad en la vida cotidiana y prctica de
+llama la atención por su inmensa utilidad en la vida cotidiana y práctica de
 
 los hombres.
 
-Salomn nos dice primero
+Salomón nos dice primero
 
 que
 
 la verdadera piedad nos sirve de
 
-instruccin:
+instrucción:
 
-Porque el mandamiento es lmpara. Si quieres saber todo lo
+“Porque el mandamiento es lámpara”. Si quieres saber todo lo
 
-que deberas saber, lee este Libro. Si t quieres saber en tu corazn lo que
+que deberías saber, lee este Libro. Si tú quieres saber en tu corazón lo que
 
-ser para tu bien presente y eterno, ama a este Libro, cree la verdad que
+será para tu bien presente y eterno, ama a este Libro, cree la verdad que
 
-ensea y obedcelo, porque el mandamiento es lmpara.
+enseńa y obedécelo, “porque el mandamiento es lámpara”.
 
-A continuacin,
+A continuación,
 
-la verdadera religin nos sirve de
+la verdadera religión nos sirve de
 
-direccin:
+dirección:
 
-y la enseanza es luz. Si queremos saber qu es lo que debemos
+“y la enseńanza es luz”. Si queremos saber qué es lo que debemos
 
-hacer, no hay nada mejor que entregarnos a la gua del Espritu divino y tomar esta
+hacer, no hay nada mejor que entregarnos a la guía del Espíritu divino y tomar esta
 
 Palabra como nuestro mapa, pues:
 
-Es como el sol, una luz celestial,
+“Es como el sol, una luz celestial,
 
-Que nos gua a lo largo del da;
+Que nos guía a lo largo del día;
 
-Y a travs de los peligros de la noche,
+Y a través de los peligros de la noche,
 
-Es una lmpara que gua nuestro camino.
+Es una lámpara que guía nuestro camino”.
 
-Salomn nos dice tambin
+Salomón nos dice también
 
 que
 
-la verdadera religin nos gua en
+la verdadera religión nos guía en
 
 cualquier circunstancia.
 
-l dice en el versculo 22 que cuando estamos
+Él dice en el versículo 22 que cuando estamos
 
-activos, no hay nada que nos ayude ms que la verdadera piedad: Te guiarn
+activos, no hay nada que nos ayude más que la verdadera piedad: “Te guiarán
 
-cuando andes. Nos dice tambin que cuando estamos descansando, no hay nada
+cuando andes”. Nos dice también que cuando estamos descansando, no hay nada
 
-mejor que ella para nuestra preservacin: Cuando duermas te guardarn. Y
+mejor que ella para nuestra preservación: “Cuando duermas te guardarán”. Y
 
-cuando despertamos no hay nada mejor que ella para deleitar la mente: Hablarn
+cuando despertamos no hay nada mejor que ella para deleitar la mente: “Hablarán
 
-contigo cuando despiertes. No tengo la intencin de desarrollar esos tres pensamientos;
+contigo cuando despiertes”. No tengo la intención de desarrollar esos tres pensamientos;
 
-slo dir esto: Cuando ests ms activo, tu religin ser tu mejor ayuda. Cuando
+sólo diré esto: Cuando estés más activo, tu religión será tu mejor ayuda. Cuando
 
-tus manos estn muy ocupadas y tu cabeza est llena de pensamientos, nada te
+tus manos estén muy ocupadas y tu cabeza esté llena de pensamientos, nada te
 
 puede servir mejor que tener a Dios a quien acudir, un Salvador en quien confiar
 
 y un cielo al que mirar anhelante. Y cuando vayas a tu cama para dormir, o
 
-cuando ests enfermo, no puedes tener nada mejor para suavizar tu almohada y
+cuando estés enfermo, no puedes tener nada mejor para suavizar tu almohada y
 
 para darte descanso, que saber que eres perdonado por medio de la sangre
 
-preciosa de Cristo y que eres salvado en el Seor con una salvacin eterna. Antes
+preciosa de Cristo y que eres salvado en el Seńor con una salvación eterna. Antes
 
 de ir a dormir, con frecuencia yo repito estas palabras de Watts:
 
-Rociado de nuevo con la sangre perdonadora,
+“Rociado de nuevo con la sangre perdonadora,
 
 Me acuesto para descansar,
 
 Como en los brazos de mi Dios,
 
-O en el pecho de mi Salvador.
+O en el pecho de mi Salvador”.
 
-Y no hay un sueo ms
+Y no hay un sueńo más
 
-delicioso en el mundo que ese sueo que, aun mientras soamos, nos mantiene cerca
+delicioso en el mundo que ese sueńo que, aun mientras sońamos, nos mantiene cerca
 
-de Cristo. Incluso con esas distracciones de nuestra mente en el sueo, algunos
+de Cristo. Incluso con esas distracciones de nuestra mente en el sueńo, algunos
 
-de nosotros sabemos lo que es no abandonar la tierra santa de la comunin con
+de nosotros sabemos lo que es no abandonar la tierra santa de la comunión con
 
-nuestro Seor. No siempre es as, pero algunas veces s lo es; y aun entonces,
+nuestro Seńor. No siempre es así, pero algunas veces sí lo es; y aun entonces,
 
 cuando la mente ha perdido poder para controlar sus pensamientos, los
 
-pensamientos parecen danzar, como Miriam, para alabanza de Dios. Oh, dichosos
+pensamientos parecen danzar, como Miriam, para alabanza de Dios. ˇOh, dichosos
 
-los hombres cuya religin es su proteccin aun en su sueo! Y luego Salomn
+los hombres cuya religión es su protección aun en su sueńo! Y luego Salomón
 
-dice: Hablarn contigo cuando despiertes. Esta Biblia es un maravilloso libro
+dice: “Hablarán contigo cuando despiertes”. Esta Biblia es un maravilloso libro
 
-que habla; hay una gran cantidad de pltica bendita en este precioso volumen.
+que habla; hay una gran cantidad de plática bendita en este precioso volumen.
 
-Me ha mencionado muchsimas de mis faltas y te dira las tuyas si se lo
+Me ha mencionado muchísimas de mis faltas y te diría las tuyas si se lo
 
-permitieras. Me ha dicho mucho para consolarme; y te dira mucho con slo que
+permitieras. Me ha dicho mucho para consolarme; y te diría mucho con sólo que
 
-inclinaras a l tu odo. Es un libro que es maravillosamente comunicativo; sabe
+inclinaras a él tu oído. Es un libro que es maravillosamente comunicativo; sabe
 
-todo acerca de ti, y te puede decir todos los entresijos en referencia a dnde
+todo acerca de ti, y te puede decir todos los entresijos en referencia a dónde
 
-ests y a dnde deberas estar. La mejor comunin que puede tener un hombre es
+estás y a dónde deberías estar. La mejor comunión que puede tener un hombre es
 
-cuando comienza con Dios con la oracin y la lectura de
+cuando comienza con Dios con la oración y la lectura de
 
 la Palabra
 
-: Hablarn contigo
+: “Hablarán contigo
 
-cuando despiertes.
+cuando despiertes”.
 
 Me he dado prisa sobre
 
-ese punto porque quiero decirles algo ms. Queridos amigos, nuestro gran anhelo
+ese punto porque quiero decirles algo más. Queridos amigos, nuestro gran anhelo
 
-es que aquellos entre ustedes que no son convertidos conozcan al Seor de inmediato;
+es que aquellos entre ustedes que no son convertidos conozcan al Seńor de inmediato;
 
-y nuestra razn es esta: que
+y nuestra razón es esta: que
 
 los
 
-preparar para el mundo venidero.
+preparará para el mundo venidero.
 
 Prescindiendo de lo que ese mundo pudiera
 
-ser, lleno de vastos misterios, nadie est tan preparado para lanzarse en el
+ser, lleno de vastos misterios, nadie está tan preparado para lanzarse en el
 
-mar desconocido como el que est reconciliado con Dios, el que cree en el Seor
+mar desconocido como el que está reconciliado con Dios, el que cree en el Seńor
 
-Jesucristo, el que confa en l, el que se goza en el perdn de su pecado por
+Jesucristo, el que confía en Él, el que se goza en el perdón de su pecado por
 
 medio del grandioso sacrificio expiatorio y que experimenta en su propio
 
-corazn el maravilloso cambio que le ha convertido en una nueva criatura en
+corazón el maravilloso cambio que le ha convertido en una nueva criatura en
 
-Cristo Jess. Repito que la gran razn por la que yo deseo que nuestros amigos
+Cristo Jesús. Repito que la gran razón por la que yo deseo que nuestros amigos
 
-sean convertidos, es que estn preparados para el mundo venidero. Ustedes morirn
+sean convertidos, es que estén preparados para el mundo venidero. Ustedes morirán
 
-pronto, todos ustedes: creo que fue el domingo pasado que estaba sentado all,
+pronto, todos ustedes: creo que fue el domingo pasado que estaba sentado allí,
 
-en aquel reclinatorio que est justo por all, un amigo que asista al
+en aquel reclinatorio que está justo por allá, un amigo que asistía al
 
-Tabernculo, generalmente en la maana y en la noche; pero el mircoles se
+Tabernáculo, generalmente en la mańana y en la noche; pero el miércoles se
 
-muri de pronto. Pareca gozar de buena salud, pero se muri en la estacin de
+murió de pronto. Parecía gozar de buena salud, pero se murió en la estación de
 
-trenes, lejos de casa. Ese asiento donde sola sentarse debera ser una voz de
+trenes, lejos de casa. Ese asiento donde solía sentarse debería ser una voz de
 
-advertencia para todos nosotros, y clamar a voz en cuello: Preprate para
+advertencia para todos nosotros, y clamar a voz en cuello: “Prepárate para
 
-venir al encuentro de tu Dios. Pude haber sido yo; pudo haber sido cualquiera
+venir al encuentro de tu Dios”. Pude haber sido yo; pudo haber sido cualquiera
 
-de estos amigos que estn a mi alrededor en la plataforma; pudo haber sido
+de estos amigos que están a mi alrededor en la plataforma; pudo haber sido
 
-cualquiera de ustedes en la congregacin. Quin podra decir quin partir
+cualquiera de ustedes en la congregación. żQuién podría decir quién partirá
 
-esta semana? Posiblemente alguno de nosotros (nuestro nmero es muy grande) ser
+esta semana? Posiblemente alguno de nosotros (nuestro número es muy grande) será
 
 llevado antes que resuene la campanada de otro domingo.
 
 Yo pienso que esa es una
 
-muy buena razn para buscar al Seor: que estn preparados para la eternidad.
+muy buena razón para buscar al Seńor: que estén preparados para la eternidad.
 
-Un da de esta semana vi a una amiga anciana a quien le queda un corto tiempo
+Un día de esta semana vi a una amiga anciana a quien le queda un corto tiempo
 
-de vida; ella tiene ochenta y seis aos y sus facultades estn decayendo, pero
+de vida; ella tiene ochenta y seis ańos y sus facultades están decayendo, pero
 
-ella me dijo: no siento ningn miedo; no le tengo ningn miedo a la muerte; yo
+ella me dijo: “no siento ningún miedo; no le tengo ningún miedo a la muerte; yo
 
 estoy sobre
 
@@ -664,31 +664,31 @@ estoy sobre
 
 la Roca
 
-que es Cristo Jess. Yo s a quin he credo, y s adnde voy. Fue deleitable
+que es Cristo Jesús. Yo sé a quién he creído, y sé adónde voy”. Fue deleitable
 
-or a esa santa anciana hablar as; y siempre estamos oyendo plticas de ese
+oír a esa santa anciana hablar así; y siempre estamos oyendo pláticas de ese
 
 tipo de nuestros queridos amigos cuando se van a casa. No parecen tener ninguna
 
-duda nunca. He conocido a algunos que mientras estaban bien tenan muchas
+duda nunca. He conocido a algunos que mientras estaban bien tenían muchas
 
-dudas, pero cuando lleg su hora de morir no parecan tener ninguna duda en
+dudas, pero cuando llegó su hora de morir no parecían tener ninguna duda en
 
 absoluto, sino que estaban alegremente confiados en Cristo.
 
-Pero hay otra razn por
+Pero hay otra razón por
 
 la que queremos que nuestros amigos sean convertidos, y es
 
-para que estn preparados para esta vida.
+para que estén preparados para esta vida.
 
-Yo no s qu tipo de vida
+Yo no sé qué tipo de vida
 
-se hayan planteado. Tal vez me est dirigiendo a algunos jvenes que van a ir a
+se hayan planteado. Tal vez me esté dirigiendo a algunos jóvenes que van a ir a
 
 la universidad, y que esperan tener vidas consagradas al aprendizaje y
 
-coronadas con honor. Posiblemente algunos aqu no tengan ningn prospecto sino
+coronadas con honor. Posiblemente algunos aquí no tengan ningún prospecto sino
 
 el de trabajar duro para ganar su pan con el sudor de su frente; algunos han
 
@@ -696,77 +696,77 @@ comenzado ya a poner ladrillos, o a manejar el cepillo de carpintero, o a tomar
 
 la pluma. La vida mortal adopta todo tipo de formas, pero no hay mejor
 
-provisin y preparacin para cualquier tipo de vida en la tierra que conocer al
+provisión y preparación para cualquier tipo de vida en la tierra que conocer al
 
-Seor y tener un nuevo corazn y un espritu recto. El que gobierna a millones
+Seńor y tener un nuevo corazón y un espíritu recto. El que gobierna a millones
 
-de hombres lo har mejor con la gracia de Dios en su corazn; y el que ha
+de hombres lo hará mejor con la gracia de Dios en su corazón; y el que ha
 
-tenido que ser un esclavo ser mucho ms feliz en su porcin por tener a la
+tenido que ser un esclavo será mucho más feliz en su porción por tener a la
 
-gracia de Dios en su corazn. A los que son viejos y a los que son jvenes, a
+gracia de Dios en su corazón. A los que son viejos y a los que son jóvenes, a
 
-los que son patronos y a los que son siervos, la verdadera religin no puede
+los que son patronos y a los que son siervos, la verdadera religión no puede
 
-descalificarlos por desempear su papel aqu en el gran drama de la vida; pero
+descalificarlos por desempeńar su papel aquí en el gran drama de la vida; pero
 
-la mejor preparacin para ese papel, si es un papel que debe ser desempeado,
+la mejor preparación para ese papel, si es un papel que debe ser desempeńado,
 
-es conocer al Seor y sentir el poder de la gracia divina en su alma.
+es conocer al Seńor y sentir el poder de la gracia divina en su alma.
 
-Slo djenme mostrarles
+Sólo déjenme mostrarles
 
-que ste es el caso. El hombre que vive delante de Dios, que llama a Dios
+que éste es el caso. El hombre que vive delante de Dios, que llama a Dios
 
 su
 
-Padre, y que siente que el Espritu
+Padre, y que siente que el Espíritu
 
 de Dios produce en su interior un odio al pecado y un amor a la justicia, ese
 
 es el hombre que
 
-cumplir sus deberes a
+cumplirá sus deberes a
 
 conciencia;
 
-y ustedes saben que ese es el tipo de hombre y tambin el tipo
+y ustedes saben que ese es el tipo de hombre y también el tipo
 
-de mujer que necesitamos hoy en da. Tenemos tantas personas que necesitan que
+de mujer que necesitamos hoy en día. Tenemos tantas personas que necesitan que
 
-se ocupen de ellas; si les pides que hagan algo, lo harn lo suficientemente
+se ocupen de ellas; si les pides que hagan algo, lo harán lo suficientemente
 
-rpido si las ests mirando; pero en el momento que les das la espalda, lo
+rápido si las estás mirando; pero en el momento que les das la espalda, lo
 
-harn tan descuidadamente, o tan lentamente o tan malamente como les sea
+harán tan descuidadamente, o tan lentamente o tan malamente como les sea
 
-posible. Son siervos que slo trabajan bajo supervisin. Si publicaras un
+posible. Son siervos que sólo trabajan bajo supervisión. Si publicaras un
 
 anuncio solicitando siervos que necesitan ser supervisados, supongo que nadie
 
-acudira en respuesta; con todo, podran venir en multitud, pues abundan por
+acudiría en respuesta; con todo, podrían venir en multitud, pues abundan por
 
-todas partes. Pues bien, un varn verdaderamente cristiano, un hombre que es
+todas partes. Pues bien, un varón verdaderamente cristiano, un hombre que es
 
 realmente convertido, ve que sirve a Dios cumpliendo con su deber para con sus
 
-semejantes. T eres Dios que ve, es el poder que ejerce influencia sobre l;
+semejantes. “Tú eres Dios que ve”, es el poder que ejerce influencia sobre él;
 
-y desea cumplir con sus deberes a conciencia, independientemente de cules
+y desea cumplir con sus deberes a conciencia, independientemente de cuáles
 
-pudieran ser esos deberes. Yo les cont una vez la historia de una sirvienta
+pudieran ser esos deberes. Yo les conté una vez la historia de una sirvienta
 
-que deca que tena la esperanza de haber sido convertida. Su ministro le hizo
+que decía que tenía la esperanza de haber sido convertida. Su ministro le hizo
 
-esta pregunta: qu evidencia puedes dar de tu conversin? Ella dio esta
+esta pregunta: “żqué evidencia puedes dar de tu conversión?” Ella dio esta
 
-entre otras muchas pruebas, que por cierto no era mala; dijo: Ahora, seor, yo
+entre otras muchas pruebas, que por cierto no era mala; dijo: “Ahora, seńor, yo
 
 siempre barro
 
 debajo
 
-de la alfombra.
+de la alfombra”.
 
 Era un asunto insignificante, pero si aplicas en la vida cotidiana ese
 
@@ -774,119 +774,119 @@ principio de barrer debajo de la alfombra, eso es lo que necesitamos. Muchas
 
 personas tienen un rinconcito donde guardan todas las pelusas y el polvo, y el
 
-cuarto luce como si estuviese bien barrido, pero no lo est. Hay una forma de
+cuarto luce como si estuviese bien barrido, pero no lo está. Hay una forma de
 
 hacer cada cosa de manera que no se haga nada realmente, pero ese no es el caso
 
-cuando hay gracia en el corazn. La gracia en el corazn induce a un hombre a
+cuando hay gracia en el corazón. La gracia en el corazón induce a un hombre a
 
 sentir que desea vivir enteramente para Dios, y servir a Dios sirviendo al
 
-hombre. Si t obtienes esa gracia, tendrs una grandiosa preparacin para la
+hombre. Si tú obtienes esa gracia, tendrás una grandiosa preparación para la
 
-vida as como tambin para la muerte.
+vida así como también para la muerte.
 
 Lo siguiente es que al
 
-hombre que tiene un corazn nuevo le ha sido impartida
+hombre que tiene un corazón nuevo le ha sido impartida
 
-una pureza que le preserva en medio de la tentacin.
+una pureza que le preserva en medio de la tentación.
 
-Oh, esta
+ˇOh, esta
 
 terrible ciudad de Londres! Me asombra que Dios soporte su inmundicia. Yo
 
-converso frecuentemente con jvenes buenos que llegan del campo para desempear
+converso frecuentemente con jóvenes buenos que llegan del campo para desempeńar
 
 su primer empleo en Londres, y la primera semana que viven en Londres es una
 
-revelacin para ellos que les pone los pelos de punta. Ven lo que nunca
+revelación para ellos que les pone los pelos de punta. Ven lo que nunca
 
-soaron. Bien, ahora, ustedes, jvenes que acaban de llegar a Londres, tal vez
+sońaron. Bien, ahora, ustedes, jóvenes que acaban de llegar a Londres, tal vez
 
-este sea su primer domingo; entrguense al Seor de inmediato, se los ruego.
+este sea su primer domingo; entréguense al Seńor de inmediato, se los ruego.
 
-Ofrzcanse a Jesucristo esta noche, pues otra semana en Londres pudiera ser su
+Ofrézcanse a Jesucristo esta noche, pues otra semana en Londres pudiera ser su
 
-condenacin. Una sola semana en Londres pudiera haberlos conducido a actos de
+condenación. Una sola semana en Londres pudiera haberlos conducido a actos de
 
-impureza que los arruinarn para siempre. Antes de que se adentren en esas
+impureza que los arruinarán para siempre. Antes de que se adentren en esas
 
-cosas, dedquense a Dios, y a Su Cristo, para que con corazones puros y con
+cosas, dedíquense a Dios, y a Su Cristo, para que con corazones puros y con
 
-espritus rectos sean preservados de la pestilencia que anda en oscuridad, y
+espíritus rectos sean preservados de “la pestilencia que anda en oscuridad, y
 
-de la mortandad que en medio del da destruye en esta ciudad terriblemente
+de la mortandad que en medio del día destruye” en esta ciudad terriblemente
 
 perversa. No hay ninguna esperanza para ustedes, jovencitos y jovencitas, en
 
-este gran mundo de perversin, a menos que sus corazones sean rectos para con
+este gran mundo de perversión, a menos que sus corazones sean rectos para con
 
-Dios. Si se dedican a fondo a seguir al Cordero por dondequiera que va, l los
+Dios. Si se dedican a fondo a seguir al Cordero por dondequiera que va, Él los
 
-guardar y los preservar hasta el fin; pero si no se entregan al Seor,
+guardará y los preservará hasta el fin; pero si no se entregan al Seńor,
 
-prescindiendo de cules sean las buenas resoluciones que formaran, estn
+prescindiendo de cuáles sean las buenas resoluciones que formaran, están
 
-condenados estoy seguro de que lo estn- a ser arrastrados por los torrentes
+condenados –estoy seguro de que lo están- a ser arrastrados por los torrentes
 
-de iniquidad que corren por nuestras calles hoy en da. Entonces, la pureza de
+de iniquidad que corren por nuestras calles hoy en día. Entonces, la pureza de
 
-corazn que proviene de la fe en Cristo es una esplndida preparacin para la
+corazón que proviene de la fe en Cristo es una espléndida preparación para la
 
 vida.
 
-Tambin lo es
+También lo es
 
 la veracidad de la palabra.
 
-Oh, qu
+ˇOh, qué
 
-cosa tan desventurada es que la gente diga mentiras! Ahora, el corazn que es
+cosa tan desventurada es que la gente diga mentiras! Ahora, el corazón que es
 
 purificado por la gracia de Dios odia la idea de una mentira. El hombre dice la
 
-verdad, toda la verdad, y nada ms que la verdad; y l es el hombre que pasar
+verdad, toda la verdad, y nada más que la verdad; y él es el hombre que pasará
 
-ileso por la vida, y que ser honrado, y que ser exitoso a la larga. Podra
+ileso por la vida, y que será honrado, y que será exitoso a la larga. Podría
 
 tener que sufrir durante un tiempo a causa de su sinceridad; pero al final,
 
-nada allanar el camino para l tan bien como ser sincero en pensamiento y en
+nada allanará el camino para él tan bien como ser sincero en pensamiento y en
 
 palabra y en obra.
 
-Si t amas al Seor con
+Si tú amas al Seńor con
 
-todo tu corazn, tambin aprenders la
+todo tu corazón, también aprenderás la
 
 honestidad
 
 en el trato;
 
-y esa es una gran ayuda en la vida. Yo s que el embaucador en
+y esa es una gran ayuda en la vida. Yo sé que el embaucador en
 
-efecto parece tener xito durante un tiempo; pero cul es su xito? Es un
+efecto parece tener éxito durante un tiempo; żpero cuál es su éxito? Es un
 
-xito que es slo otro nombre para la ruina. Oh, queridos amigos, si todos los
+éxito que es sólo otro nombre para la ruina. ˇOh, queridos amigos, si todos los
 
-hombres pudieran volverse honestos, cunta ms felicidad habra en el mundo! Y
+hombres pudieran volverse honestos, cuánta más felicidad habría en el mundo! Y
 
-la va para ser recto entre los hombres es ser sincero para con Dios, y tener
+la vía para ser recto entre los hombres es ser sincero para con Dios, y tener
 
-el Espritu de Dios habitando en tu interior.
+el Espíritu de Dios habitando en tu interior.
 
-Adems, la verdadera
+Además, la verdadera
 
-religin tiene este valor: que
+religión tiene este valor: que
 
 consuela a
 
 un hombre bajo grandes tribulaciones.
 
-T no esperas muchos problemas, mi
+Tú no esperas muchos problemas, mi
 
-joven amigo, pero los tendrs. Esperas casarte, y entonces tus problemas habrn
+joven amigo, pero los tendrás. Esperas casarte, y entonces tus problemas habrán
 
 terminado; algunos dicen que es
 
@@ -898,91 +898,91 @@ comienzan.
 
 Yo no endoso esa
 
-afirmacin, pero estoy seguro de que los problemas no han terminado, pues hay
+afirmación, pero estoy seguro de que los problemas no han terminado, pues hay
 
-otro conjunto de pruebas que entonces comienzan. Pero t dejars de ser un
+otro conjunto de pruebas que entonces comienzan. Pero tú dejarás de ser un
 
-aprendiz y entonces todo estar bien. Ser as? Los que dejaron de ser
+aprendiz y entonces todo estará bien. żSerá así? Los que dejaron de ser
 
-aprendices y ahora son competentes trabajadores no siempre encuentran que as
+aprendices y ahora son competentes trabajadores no siempre encuentran que así
 
-es. Pero t no tiene la intencin de ser un simple trabajador; t vas a ser un
+es. Pero tú no tiene la intención de ser un simple trabajador; tú vas a ser un
 
-pequeo patrn. Pregntales a los patronos si todo es agradable para ellos en
+pequeńo patrón. Pregúntales a los patronos si todo es agradable para ellos en
 
-estos tiempos. Si quieres escapar por completo de los problemas, sera mejor
+estos tiempos. Si quieres escapar por completo de los problemas, sería mejor
 
-que te elevaras en un globo y entonces estoy seguro de que tendras problemas
+que te elevaras en un globo y entonces estoy seguro de que tendrías problemas
 
-por miedo de elevarte demasiado o de descender demasiado rpido. Pero los problemas
+por miedo de elevarte demasiado o de descender demasiado rápido. Pero los problemas
 
-vendrn; y no hay nada mejor que pueda preservar a un hombre en medio del
+vendrán; y no hay nada mejor que pueda preservar a un hombre en medio del
 
-problema que sentir que las cosas estn seguras en las manos de su Padre. Si t
+problema que sentir que las cosas están seguras en las manos de su Padre. Si tú
 
-puedes decir: Yo soy Su hijo, y todas las cosas me ayudan a bien. Yo me he
+puedes decir: “Yo soy Su hijo, y todas las cosas me ayudan a bien. Yo me he
 
 confiado enteramente en la manos de Aquel que no puede errar, y que nunca me
 
-har algo indebido, entonces, amigo, tienes puesta una armadura que los dardos
+hará algo indebido”, entonces, amigo, tienes puesta una armadura que los dardos
 
-del afn no pueden atravesar, ests calzado con el apresto del Evangelio de la
+del afán no pueden atravesar, estás calzado con el apresto del Evangelio de la
 
 paz y puedes pisar sobre los cardos del yermo sin que tu pie sea herido.
 
-La verdadera religin
+La verdadera religión
 
-edificar en ti
+edificará en ti
 
-firmeza de carcter,
+firmeza de carácter,
 
 y
 
-esa es otra cualidad que quiero ver en nuestros jvenes hoy en da. Contamos
+esa es otra cualidad que quiero ver en nuestros jóvenes hoy en día. Contamos
 
-con algunos esplndidos jvenes en este lugar, y tambin con algunas
+con algunos espléndidos jóvenes en este lugar, y también con algunas
 
-esplndidas mujeres. Si el diablo mismo fuera a predicar aqu, yo no tendra
+espléndidas mujeres. Si el diablo mismo fuera a predicar aquí, yo no tendría
 
-miedo de que los apartara de la fe; y si todas las nuevas herejas que pudieran
+miedo de que los apartara de la fe; y si todas las nuevas herejías que pudieran
 
-surgir fueran a ser proclamadas en presencia de ellos, saben demasiado bien cul
+surgir fueran a ser proclamadas en presencia de ellos, saben demasiado bien cuál
 
 es la verdad como para ser descarriados. Pero, por otro lado, contamos con un
 
-nmero de personas que son guiadas por sus odos. Si jalo sus orejas en un
+número de personas que son guiadas por sus oídos. Si jalo sus orejas en un
 
-sentido, vienen en pos de m; y si llegan a ir a otro lugar y alguien les jala
+sentido, vienen en pos de mí; y si llegan a ir a otro lugar y alguien les jala
 
-las orejas en otro sentido, van en pos de l. Hay muchsimas personas que nunca
+las orejas en otro sentido, van en pos de él. Hay muchísimas personas que nunca
 
-piensan por su propia cuenta sino que cuelgan su pensamiento afuera, as como sacan
+piensan por su propia cuenta sino que cuelgan su pensamiento afuera, así como sacan
 
 la ropa para el lavado, sin pensar hacerlo en casa. Bien, esas personas son
 
 como el tamo en la era y cuando el viento comienza a soplar, salen volando. No
 
-sean as. Queridos jvenes que son hijos e hijas de los miembros de esta
+sean así. Queridos jóvenes que son hijos e hijas de los miembros de esta
 
-iglesia, conozcan al Seor. Que l se revele a ustedes de inmediato, y cuando
+iglesia, conozcan al Seńor. Que Él se revele a ustedes de inmediato, y cuando
 
-en verdad lo conozcan y comprendan el Evangelio, tenlo a su corazn, y
+en verdad lo conozcan y comprendan el Evangelio, átenlo a su corazón, y
 
-enlcenlo a su cuello, y digan: S, voy a seguir las pisadas de aquellos que
+enlácenlo a su cuello, y digan: “Sí, voy a seguir las pisadas de aquellos que
 
-amo, y especialmente las pisadas del Seor Jesucristo.
+amo, y especialmente las pisadas del Seńor Jesucristo”.
 
-A travs de las corrientes y de las llamas, si Jess me gua,
+“A través de las corrientes y de las llamas, si Jesús me guía,
 
-Le seguir donde vaya.
+Le seguiré donde vaya”.
 
-Que Dios les ayude a
+ˇQue Dios les ayude a
 
-hacerlo! Pero primero crean en el Seor Jesucristo; confense plenamente a l,
+hacerlo! Pero primero crean en el Seńor Jesucristo; confíense plenamente a Él,
 
-y l les dar la gracia para permanecer firmes hasta el fin.
+y Él les dará la gracia para permanecer firmes hasta el fin.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 9/Enero/2013
 

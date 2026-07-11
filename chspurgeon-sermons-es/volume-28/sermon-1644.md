@@ -1,88 +1,88 @@
 # Sermón 1644 | Sermón 1644
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
 La Primera Comparecencia de
 
-Nuestro Seor ante Pilato
+Nuestro Seńor ante Pilato
 
 NO. 1644
 
-SERMN
+SERMÓN
 
-PREDICADO LA MAANA DEL DOMINGO 12 DE FEBRERO DE 1882
+PREDICADO LA MAŃANA DEL DOMINGO 12 DE FEBRERO DE 1882
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES.
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES.
 
-Y les dijo: Yo no hallo en l ningn
+“Y les dijo: Yo no hallo en él ningún
 
-delito. Juan 18: 38.
+delito.” Juan 18: 38.
 
-Si Dios lo permite, me gustara
+Si Dios lo permite, me gustaría
 
-presentarles los domingos por la maana, la historia completa de los
+presentarles los domingos por la mańana, la historia completa de los
 
-sufrimientos de nuestro Salvador. Comenzamos el domingo pasado y fuimos con l
+sufrimientos de nuestro Salvador. Comenzamos el domingo pasado y fuimos con Él
 
-a la casa de Caifs, y fue un momento tristemente solemne cuando contemplamos
+a la casa de Caifás, y fue un momento tristemente solemne cuando contemplamos
 
-al Prncipe de Paz en calidad de prisionero, y omos que era acusado falsamente
+al Príncipe de Paz en calidad de prisionero, y oímos que era acusado falsamente
 
 e injustamente condenado, y luego le vimos ultrajado a tal punto que sirvientes
 
-y hombres viles en extremo le escupan en el rostro y le escarnecan. Yo espero
+y hombres viles en extremo le escupían en el rostro y le escarnecían. Yo espero
 
-que no se cansen de este tema. Si eso sucediera, sera culpa del predicador,
+que no se cansen de este tema. Si eso sucediera, sería culpa del predicador,
 
 pues es un tema inagotable y siempre rebosante; o si no se pudiera culpar al
 
-predicador, la censura ira dirigida a sus oyentes. Si nos cansamos de la historia
+predicador, la censura iría dirigida a sus oyentes. Si nos cansamos de la historia
 
 de la cruz, se trata de un triste indicativo de una secreta enfermedad del
 
-alma, y sera bueno observar el sntoma y acudir presurosamente al grandioso
+alma, y sería bueno observar el síntoma y acudir presurosamente al grandioso
 
-Mdico para el restablecimiento. Para los verdaderos santos que gozan de una
+Médico para el restablecimiento. Para los verdaderos santos que gozan de una
 
-sana condicin, no hay lugar ms atractivo que el lugar de la pasin de nuestro
+sana condición, no hay lugar más atractivo que el lugar de la pasión de nuestro
 
-Seor, en el que cumpli la gloriosa obra de nuestra redencin. A los
+Seńor, en el que cumplió la gloriosa obra de nuestra redención. A los
 
 verdaderos santos les encanta caminar muy despacio a lo largo de esa
 
-Va Dolorosa
+Vía Dolorosa
 
-que conduce desde Getseman
+que conduce desde Getsemaní
 
-al Glgota; vayamos al paso de ellos.
+al Gólgota; vayamos al paso de ellos.
 
-Cuando me detengo y contemplo a mi Seor,
+Cuando me detengo y contemplo a mi Seńor,
 
-ardiendo sin consumirse como la zarza en Horeb, oigo una voz que me dice: el
+ardiendo sin consumirse como la zarza en Horeb, oigo una voz que me dice: “el
 
-lugar en que t ests, tierra santa es. Nada es ms santo que la persona de
+lugar en que tú estás, tierra santa es”. Nada es más santo que la persona de
 
-nuestro divino Maestro; es muy bueno, por tanto, estar con l. Tambin es santa
+nuestro divino Maestro; es muy bueno, por tanto, estar con Él. También es santa
 
-la angustia que experiment cuando entreg Su persona como un sacrificio por
+la angustia que experimentó cuando entregó Su persona como un sacrificio por
 
-nosotros, y, por eso, es bueno estar con l en Sus sufrimientos. Sus
+nosotros, y, por eso, es bueno estar con Él en Sus sufrimientos. Sus
 
 aflicciones tienen una influencia sumamente santificante sobre todos los que
 
-las consideran con amor creyente. Estoy persuadido de que si viviramos ms en
+las consideran con amor creyente. Estoy persuadido de que si viviéramos más en
 
-la atmsfera de la cruz, el pecado perdera su poder, y toda gracia florecera.
+la atmósfera de la cruz, el pecado perdería su poder, y toda gracia florecería.
 
-Cuando nos acercamos mucho a l y tenemos comunin con l en Sus sufrimientos,
+Cuando nos acercamos mucho a Él y tenemos comunión con Él en Sus sufrimientos,
 
-sonamos la alarma contra el pecado que lo mat, y resolvemos vengarnos del
+sonamos la alarma contra el pecado que lo mató, y resolvemos vengarnos del
 
-pecado apartndonos de l, y decidimos luchar contra l siempre que lo veamos
+pecado apartándonos de él, y decidimos luchar contra él siempre que lo veamos
 
 en otras personas. La cruz es ese santo implemento con el cual hacemos la guerra
 
@@ -90,13 +90,13 @@ contra el pecado hasta destruirlo completamente. Bienaventurados y santos son
 
 entonces los pensamientos que son generados por nuestro grandioso sacrificio.
 
-Y no slo es eso, sino que la medicina
+Y no sólo es eso, sino que la medicina
 
-que nos proporciona la salud es un gozo en s misma.
+que nos proporciona la salud es un gozo en sí misma.
 
-Son dulces
+“Son dulces
 
-momentos, plenos de bendicin,
+momentos, plenos de bendición,
 
 Los que paso
 
@@ -108,503 +108,503 @@ vida, salud y paz,
 
 Del moribundo
 
-Amigo del pecador.
+Amigo del pecador.”
 
-Aqu no hay la algaraba como la de
+Aquí no hay la algarabía como la de
 
 quienes se divierten con su vino, no hay los gritos de quienes triunfan, no hay
 
-los cantos de los que festejan; hay ms bien una dulce y grave meloda, como de
+los cantos de los que festejan; hay más bien una dulce y grave melodía, como de
 
 corazones que han encontrado reposo. En la cruz encontramos un gozo sustancial,
 
-una satisfaccin de largo alcance, la paz de Dios, que sobrepasa todo
+una satisfacción de largo alcance, “la paz de Dios, que sobrepasa todo
 
-entendimiento. Aqu est para ustedes, oh personas inquietas, la cura del
+entendimiento”. Aquí está para ustedes, oh personas inquietas, la cura del
 
-desasosiego; aqu dirn ustedes: Pronto est mi corazn, oh Dios, mi corazn
+desasosiego; aquí dirán ustedes: “Pronto está mi corazón, oh Dios, mi corazón
 
-est dispuesto; cantar, y trovar salmos. Por tanto, no dar ninguna excusa,
+está dispuesto; cantaré, y trovaré salmos.” Por tanto, no daré ninguna excusa,
 
-aun si en semanas venideras los conduzco al lugar de chacales donde su Seor fue
+aun si en semanas venideras los conduzco al lugar de chacales donde su Seńor fue
 
 muy penosamente quebrantado, y les ayudo a beber de Su copa y ser bautizados
 
-con Su bautismo. Que el Espritu de Dios venga y abra sus ojos para que puedan
+con Su bautismo. Que el Espíritu de Dios venga y abra sus ojos para que puedan
 
-leer el sagrado corazn de Aquel cuyas aflicciones son incomparables,
+leer el sagrado corazón de Aquel cuyas aflicciones son incomparables,
 
 aflicciones que fueron soportadas por amor a nosotros.
 
 Vayamos de inmediato y con diligencia
 
-amorosa y humilde, a la narracin. Nuestro Seor fue condenado por los principales
+amorosa y humilde, a la narración. Nuestro Seńor fue condenado por los principales
 
-sacerdotes por blasfemia, porque l mismo declar ser el Hijo de Dios, y les
+sacerdotes por blasfemia, porque Él mismo declaró ser el Hijo de Dios, y les
 
-dijo que desde ahora le veran venir en las nubes del cielo para ser su juez.
+dijo que desde ahora le verían venir en las nubes del cielo para ser su juez.
 
-Rasgando sus vestiduras, el sumo sacerdote dijo: Ha blasfemado! Qu ms
+Rasgando sus vestiduras, el sumo sacerdote dijo: “ˇHa blasfemado! żQué más
 
-necesidad tenemos de testigos? He aqu, ahora mismo habis odo su blasfemia.
+necesidad tenemos de testigos? He aquí, ahora mismo habéis oído su blasfemia.”
 
-Cuando despunt la luz matinal, hicieron como si hubiesen completado la
+Cuando despuntó la luz matinal, hicieron como si hubiesen completado la
 
-formalidad de un juicio celebrado a plena luz del da, aunque realmente le
+formalidad de un juicio celebrado a plena luz del día, aunque realmente le
 
-haban condenado durante la noche, y entonces condujeron a Jess a Pilato. De
+habían condenado durante la noche, y entonces condujeron a Jesús a Pilato. De
 
-acuerdo a la tradicin, fue conducido con una soga alrededor del cuello, y con
+acuerdo a la tradición, fue conducido con una soga alrededor del cuello, y con
 
-Sus manos atadas; y yo creo plenamente en la tradicin si recuerdo las palabras
+Sus manos atadas; y yo creo plenamente en la tradición si recuerdo las palabras
 
-de Isaas: Como cordero fue llevado al matadero. Era una procesin
+de Isaías: “Como cordero fue llevado al matadero”. Era una procesión
 
-extraamente triste esa que se desplazaba a lo largo de Jerusaln un poco
+extrańamente triste esa que se desplazaba a lo largo de Jerusalén un poco
 
-despus de las seis de la maana. Los hombres del Sanedrn, en toda su pompa y
+después de las seis de la mańana. ˇLos hombres del Sanedrín, en toda su pompa y
 
-poder, rodeaban a esa pobre vctima, a quien estaban a punto de entregar a los
+poder, rodeaban a esa pobre víctima, a quien estaban a punto de entregar a los
 
-gentiles con el nico designio de que fuera inmolado! Estos malvados hombres
+gentiles con el único designio de que fuera inmolado! Estos malvados hombres
 
-presumidos eran como los perros de los que cant el Salmista cuando su tierno
+presumidos eran como los perros de los que cantó el Salmista cuando su tierno
 
-tema era la cierva de la maana.
+tema era la cierva de la mańana.
 
 Cuando llegaron a la casa del gobernador
 
 romano, ellos mismos no quisieron traspasar sus puertas. Se dice que era uno de
 
-los muchos esplndidos palacios que Herodes el Grande se haba construido; la
+los muchos espléndidos palacios que Herodes el Grande se había construido; la
 
-arquitectura era suntuosa, los pisos tenan incrustaciones de mrmoles escogidos,
+arquitectura era suntuosa, los pisos tenían incrustaciones de mármoles escogidos,
 
-y todas las recmaras estaban ricamente recubiertas de oro y amuebladas con
+y todas las recámaras estaban ricamente recubiertas de oro y amuebladas con
 
-esplendor oriental. Estos hipcritas escrupulosos no quisieron entrar al grandioso
+esplendor oriental. Estos hipócritas escrupulosos no quisieron entrar al grandioso
 
-saln porque no queran contaminarse de ninguna manera por tocar a un gentil,
+salón porque no querían contaminarse de ninguna manera por tocar a un gentil,
 
-pues ya haban comenzado a guardar la Pascua.
+pues ya habían comenzado a guardar la Pascua.
 
-As que esperaron en el patio, y Pilato
+Así que esperaron en el patio, y Pilato
 
-condescendi a salir a ellos y enterarse del negocio urgente que los haba
+condescendió a salir a ellos y enterarse del negocio urgente que los había
 
-llevado all, tan temprano en la maana. El gobernador romano era altivo y
+llevado allí, tan temprano en la mańana. El gobernador romano era altivo y
 
-cruel, y aborreca a los judos; pero aun as, conociendo su fanatismo y la
+cruel, y aborrecía a los judíos; pero aun así, conociendo su fanatismo y la
 
 facilidad con la que armaban un alboroto popular en los tiempos de la Pascua,
 
-se qued en la puerta del palacio y escuch sus demandas. Pronto averigu que
+se quedó en la puerta del palacio y escuchó sus demandas. Pronto averiguó que
 
-le haban trado un prisionero que era, evidentemente, un hombre pobre y
+le habían traído un prisionero que era, evidentemente, un hombre pobre y
 
-enflaquecido en Su apariencia personal, que se vea cansado y que sufra. En
+enflaquecido en Su apariencia personal, que se veía cansado y que sufría. En
 
-torno a l haba una dignidad misteriosa combinada con una singular mansedumbre,
+torno a Él había una dignidad misteriosa combinada con una singular mansedumbre,
 
-y Pilato, por esta y otras razones, sinti un singular inters en l. Fijando
+y Pilato, por esta y otras razones, sintió un singular interés en Él. Fijando
 
-primero su mirada en el extraordinario prisionero, se volvi a los airados
+primero su mirada en el extraordinario prisionero, se volvió a los airados
 
-sacerdotes y les pregunt: Qu acusacin trais contra este hombre?
+sacerdotes y les preguntó: “żQué acusación traéis contra este hombre?”
 
-El nico objetivo de los sacerdotes al
+El único objetivo de los sacerdotes al
 
-traer a Jess a Pilato, era conseguir que l lo ejecutara, pues, cuando Pilato
+traer a Jesús a Pilato, era conseguir que él lo ejecutara, pues, cuando Pilato
 
 les dijo que fueran y le juzgaran de conformidad a su ley, ellos replicaron que
 
-lo haran con mucho gusto, pero que el poder de vida y muerte les haba sido
+lo harían con mucho gusto, pero que el poder de vida y muerte les había sido
 
-arrebatado, implicando que nada los contentara sino Su muerte. Sin embargo,
+arrebatado, implicando que nada los contentaría sino Su muerte. Sin embargo,
 
 ellos estaban muy ansiosos de poder achacar la responsabilidad de su muerte a
 
-los romanos, pues el temor del pueblo estaba todava en ellos, y si podan
+los romanos, pues el temor del pueblo estaba todavía en ellos, y si podían
 
-obtener Su muerte de Pilato, entonces podran protestar en das posteriores que
+obtener Su muerte de Pilato, entonces podrían protestar en días posteriores que
 
-simplemente le haban entregado al gobernador romano y no habran podido prever
+simplemente le habían entregado al gobernador romano y no habrían podido prever
 
-que sera tratado de manera tan brutal. Todava no haban sobornado al
+que sería tratado de manera tan brutal. Todavía no habían sobornado al
 
-populacho para que gritasen: Crucifcale!, y queran estar del lado seguro
+populacho para que gritasen: “ˇCrucifícale!”, y querían estar del lado seguro
 
 si la gente hiciera un alboroto por Su causa. Humanamente hablando, ellos
 
-mismos podran haberle hecho morir, pues estaba enteramente en su poder, y
+mismos podrían haberle hecho morir, pues estaba enteramente en su poder, y
 
 frecuentemente olvidaban la ley romana y mataban a hombres con furia
 
-desenfrenada, como cuando lapidaron a Esteban. Frecuentemente haban intentado
+desenfrenada, como cuando lapidaron a Esteban. Frecuentemente habían intentado
 
-apedrear a nuestro Seor mismo, as que, no siempre se preocupaban por la ley
+apedrear a nuestro Seńor mismo, así que, no siempre se preocupaban por la ley
 
-romana. Ellos habran podido quitarle la vida en esta ocasin, pero, por un
+romana. Ellos habrían podido quitarle la vida en esta ocasión, pero, por un
 
 misterioso impulso, fueron conducidos a desear que la responsabilidad real del
 
-hecho recayera en Pilato. Ms adelante, estaban dispuestos a unirse a la
+hecho recayera en Pilato. Más adelante, estaban dispuestos a unirse a la
 
-voluble turba compartiendo la culpa de Su sangre, pero todava en este punto
+voluble turba compartiendo la culpa de Su sangre, pero todavía en este punto
 
 deseaban vehementemente echarles la culpa a otros. Durante sus grandes
 
-festividades, si tomaban sangre inocente, su hipocresa los conduca a desear
+festividades, si tomaban sangre inocente, su hipocresía los conducía a desear
 
 hacerlo siguiendo las prescripciones de la ley y por manos de terceros. Para
 
-hacer esto tenan que presentar una acusacin, pues ningn gobernante romano condenara
+hacer esto tenían que presentar una acusación, pues ningún gobernante romano condenaría
 
-a un hombre si no se hubiese presentado una acusacin.
+a un hombre si no se hubiese presentado una acusación.
 
-Esta maana, vamos a considerar
+Esta mańana, vamos a considerar
 
 las dos acusaciones
 
 que presentaron, y
 
-despus de eso, oiremos
+después de eso, oiremos
 
 el veredicto de
 
-absolucin
+absolución
 
-que pronunci Pilato en el
+que pronunció Pilato en el
 
-lenguaje de este texto: Yo no hallo en l ningn delito.
+lenguaje de este texto: “Yo no hallo en él ningún delito”.
 
 I.
 
-La primera acusacin, si van al captulo
+La primera acusación, si van al capítulo
 
-dieciocho y leen el versculo trece, era de que l era UN MALHECHOR. Respondieron
+dieciocho y leen el versículo trece, era de que Él era UN MALHECHOR. “Respondieron
 
-y le dijeron: Si ste no fuera malhechor, no te lo habramos entregado. Decan
+y le dijeron: Si éste no fuera malhechor, no te lo habríamos entregado.” Decían
 
-que l era un hechor, o hacedor de aquello que era malo; una persona que llevaba
+que Él era un hechor, o hacedor de aquello que era malo; una persona que llevaba
 
-una vida tan malvada que no deba vivir.
+una vida tan malvada que no debía vivir.
 
 Sobre esto comentamos, primero, que
 
-era una nueva acusacin.
+era una nueva acusación.
 
-Estaba recin
+Estaba recién
 
-salida de la fragua, pues cuando compareci delante de Caifs, nada se dijo de
+salida de la fragua, pues cuando compareció delante de Caifás, nada se dijo de
 
-ningn mal que hubiere
+ningún mal que hubiere
 
 hecho,
 
 sino
 
-slo del mal que haba hablado. Le acusaban de decir esto y lo otro, pero no le
+sólo del mal que había hablado. Le acusaban de decir esto y lo otro, pero no le
 
-acusaron de hacer ningn mal. La acusacin de hablar mal no haba prosperado, y
+acusaron de hacer ningún mal. La acusación de hablar mal no había prosperado, y
 
-no se aventuraban a presentarla una segunda vez, porque saban muy bien que a
+no se aventuraban a presentarla una segunda vez, porque sabían muy bien que a
 
 Pilato no le importaba lo que el hombre hubiere dicho; todo lo que le
 
-preocupara sera un quebrantamiento real de la ley por medio de algn acto o
+preocuparía sería un quebrantamiento real de la ley por medio de algún acto o
 
-de algn hecho. Los romanos eran gente prctica, y as, cuando Pilato condujo a
+de algún hecho. Los romanos eran gente práctica, y así, cuando Pilato condujo a
 
-nuestro Seor al saln de la audiencia, le pregunt: Qu has
+nuestro Seńor al salón de la audiencia, le preguntó: “żQué has
 
-hecho?
+hecho?”
 
-No le pregunt: Qu has enseado o qu has
+No le preguntó: “żQué has enseńado o qué has
 
-predicado?, sino, Qu has hecho? Por esta razn, los sacerdotes presentaron
+predicado?”, sino, “żQué has hecho?” Por esta razón, los sacerdotes presentaron
 
-esta acusacin recin inventada y el cargo totalmente infundado de que era
+esta acusación recién inventada y el cargo totalmente infundado de que era
 
-hacedor de mal, que podra significar poco o mucho, segn como el oyente
+hacedor de mal, que podría significar poco o mucho, según como el oyente
 
-decidiera interpretarlo: la malicia es raramente especfica en sus cargos. La
+decidiera interpretarlo: la malicia es raramente específica en sus cargos. La
 
-acusacin de que era un malhechor brot de su malevolencia, y no de ninguna
+acusación de que era un malhechor brotó de su malevolencia, y no de ninguna
 
-accin de la perfecta vida de nuestro Seor. Uno se sorprende de que incluso el
+acción de la perfecta vida de nuestro Seńor. Uno se sorprende de que incluso el
 
 odio sea tan ciego como para arremeter contra Sus perfecciones.
 
-Independientemente de lo que los hombres piensen de nuestro Seor como maestro,
+Independientemente de lo que los hombres piensen de nuestro Seńor como maestro,
 
-la franqueza exige que admiren Su ejemplo y le otorguen el ms excelso tributo
+la franqueza exige que admiren Su ejemplo y le otorguen el más excelso tributo
 
 de honor.
 
-Observen aqu que los sacerdotes
+Observen aquí que los sacerdotes
 
-presentaron contra nuestro Seor
+presentaron contra nuestro Seńor
 
 una
 
-acusacin que no intentaron sustentar.
+acusación que no intentaron sustentar.
 
-Cun astutamente evadieron la tarea
+ˇCuán astutamente evadieron la tarea
 
-de suministrar alguna prueba! No presentaron ningn testigo, y sus perjuros
+de suministrar alguna prueba! No presentaron ningún testigo, y sus perjuros
 
-testigos sobornados fueron dejados atrs; incluso se abstuvieron de presentar
+testigos sobornados fueron dejados atrás; incluso se abstuvieron de presentar
 
-cargos especficos, pero la declaracin general de que l era un malhechor fue
+cargos específicos, pero la declaración general de que Él era un malhechor fue
 
-apoyada nicamente por su reputacin. Si ste no fuera malhechor, no te lo
+apoyada únicamente por su reputación. “Si éste no fuera malhechor, no te lo
 
-habramos entregado, que era tanto como decir: Tienes que dar por sentado que
+habríamos entregado”, que era tanto como decir: “Tienes que dar por sentado que
 
-l es culpable, pues, de lo contrario, no lo diramos. Aqu est nuestro sumo
+Él es culpable, pues, de lo contrario, no lo diríamos. Aquí está nuestro sumo
 
-sacerdote: podra suponerse que este individuo, que es una verdadera joya, se
+sacerdote: żpodría suponerse que este individuo, que es una verdadera joya, se
 
-atrevera a presentar una acusacin falsa? Nosotros somos tambin los
+atrevería a presentar una acusación falsa? Nosotros somos también los
 
-principales sacerdotes, y los escribas, y los maestros de Israel: es de
+principales sacerdotes, y los escribas, y los maestros de Israel: żes de
 
-imaginarse, por alguna posibilidad, que personas de nuestra posicin y santidad
+imaginarse, por alguna posibilidad, que personas de nuestra posición y santidad
 
-pudieran haber trado a una persona inocente delante de ti para ser condenada?
+pudieran haber traído a una persona inocente delante de ti para ser condenada?”
 
-Yo he escuchado este estilo de argumentacin incluso en estos das: se espera
+Yo he escuchado este estilo de argumentación incluso en estos días: se espera
 
-que renunciemos a la fe, simplemente porque los cientficos la condenan y como
+que renunciemos a la fe, simplemente porque los científicos la condenan y como
 
 ellos son personas tan eminentes, hemos de aceptar sus comentarios sin demora
 
 alguna. Yo confieso que no estoy preparado para aceptar la infalibilidad de los
 
-cientficos ms fcilmente que la infalibilidad que nos llueve de Roma. El
+científicos más fácilmente que la infalibilidad que nos llueve de Roma. El
 
-gobernador romano no deba ser anulado por los sacerdotes, ni nosotros debemos
+gobernador romano no debía ser anulado por los sacerdotes, ni nosotros debemos
 
-ser llevados de la nariz por pretendidos hombres de ciencia. Si ste no fuera
+ser llevados de la nariz por pretendidos hombres de ciencia. “Si éste no fuera
 
-malhechor, no te lo habramos entregado. Oh, la hipocresa de este discurso!
+malhechor, no te lo habríamos entregado”. ˇOh, la hipocresía de este discurso!
 
-Haban intentado presentar testigos, pero no haban encontrado ninguno. Haban
+Habían intentado presentar testigos, pero no habían encontrado ninguno. Habían
 
-sobornado a falsos testigos, pero haban diferido tanto en su testimonio, que
+sobornado a falsos testigos, pero habían diferido tanto en su testimonio, que
 
 todo se vino abajo. Por tanto, hacen un viraje, y ponen sus propios nombres en
 
-apoyo de la denuncia, como si eso bastara y la investigacin no necesitara
+apoyo de la denuncia, como si eso bastara y la investigación no necesitara
 
 proseguir. Me parece ver la escarnecedora mirada de Pilato al momento de
 
 pedirles que le juzgaran ellos mismos, si ese era su estilo de justicia; en
 
-cuanto a l, deba or una acusacin o pedirles que se fueran e hicieran lo que
+cuanto a él, debía oír una acusación o pedirles que se fueran e hicieran lo que
 
-quisieran si se atrevan a hacerlo. l saba que le haban trado a Jess por
+quisieran si se atrevían a hacerlo. Él sabía que le habían traído a Jesús por
 
-envidia, y detestaba a esos hipcritas al momento de or las despreciables
+envidia, y detestaba a esos hipócritas al momento de oír las despreciables
 
-slabas masculladas por sus labios mojigatos.
+sílabas masculladas por sus labios mojigatos.
 
 Los
 
-judos no habran podido sustentar la acusacin,
+judíos no habrían podido sustentar la acusación,
 
-y hasta all fueron
+y hasta allí fueron
 
-sabios al no intentar lo imposible. Podran ser lo suficientemente temerarios
+sabios al no intentar lo imposible. Podrían ser lo suficientemente temerarios
 
 para torcer Sus palabras, pero dudaban ante la tarea de atacar Sus actos. Ante
 
-Su terrible santidad se quedaron sin valor por un momento y no saban qu
+Su terrible santidad se quedaron sin valor por un momento y no sabían qué
 
-calumnia inventar. Oh, Seor, nos asombramos de que haya algunos hombres que
+calumnia inventar. Oh, Seńor, nos asombramos de que haya algunos hombres que
 
-encuentran delitos en Ti, pues T eres todo codiciable, y no se puede encontrar
+encuentran delitos en Ti, pues Tú eres todo codiciable, y no se puede encontrar
 
 ni mancha ni falsedad en Ti.
 
-Pero yo quiero llamar su atencin a este
+Pero yo quiero llamar su atención a este
 
-hecho notable, que aunque esta acusacin de que l era un malhechor era atroz,
+hecho notable, que aunque esta acusación de que Él era un malhechor era atroz,
 
 inventada y sin el apoyo de ninguna evidencia,
 
-nunca fue negada por el Seor Jesucristo.
+nunca fue negada por el Seńor Jesucristo.
 
-Era intil negarla ante
+Era inútil negarla ante
 
-los sacerdotes. Ya los haba conminado a que encontraran alguna falla en Su
+los sacerdotes. Ya los había conminado a que encontraran alguna falla en Su
 
-vida, diciendo: Yo pblicamente he hablado al mundo; siempre he enseado en la
+vida, diciendo: “Yo públicamente he hablado al mundo; siempre he enseńado en la
 
-sinagoga y en el templo, donde se renen todos los judos, y nada he hablado en
+sinagoga y en el templo, donde se reúnen todos los judíos, y nada he hablado en
 
-oculto. Por qu me preguntas a m? Pregunta a los que han odo, qu les haya
+oculto. żPor qué me preguntas a mí? Pregunta a los que han oído, qué les haya
 
-hablado; he aqu, ellos saben lo que yo he dicho. Su apelacin haba sido
+hablado; he aquí, ellos saben lo que yo he dicho.” Su apelación había sido
 
-infructuosa, pues era tan intil argumentar con ellos, como es intil que un
+infructuosa, pues era tan inútil argumentar con ellos, como es inútil que un
 
-cordero entre en una controversia con una manada de lobos vidos de devorarlo.
+cordero entre en una controversia con una manada de lobos ávidos de devorarlo.
 
-Pero uno hubiera pensado que podra haber algn resultado en Su respuesta a
+Pero uno hubiera pensado que podría haber algún resultado en Su respuesta a
 
 Pilato, pues Pilato estaba muy favorablemente impresionado con su prisionero; y
 
 si el Salvador se hubiese dignado dar un relato completo de Su vida, y
 
-demostrar que en vez de ser un malhechor haba andado haciendo el bien, no
+demostrar que en vez de ser un malhechor había andado haciendo el bien, żno
 
-habra podido escapar?
+habría podido escapar?
 
-La respuesta es esta: nuestro Seor haba
+La respuesta es esta: nuestro Seńor había
 
-venido a la tierra con el propsito de ser el sustituto de los hombres
+venido a la tierra con el propósito de ser el sustituto de los hombres
 
-culpables, y as, cuando fue llamado: malhechor, aunque no era una acusacin
+culpables, y así, cuando fue llamado: malhechor, aunque no era una acusación
 
-vlida, l soport pacientemente su vergenza, como est escrito, Fue contado
+válida, Él soportó pacientemente su vergüenza, como está escrito, “Fue contado
 
-con los inicuos. l estaba dispuesto a estar en el lugar del transgresor, y
+con los inicuos”. Él estaba dispuesto a estar en el lugar del transgresor, y
 
-cuando le pusieron all, no se movi de ese lugar. Enmudeci, y no abri su
+cuando le pusieron allí, no se movió de ese lugar. “Enmudeció, y no abrió su
 
-boca. No dice nada porque, aunque no haba pecado, l carg sobre S nuestro
+boca”. No dice nada porque, aunque no había pecado, Él cargó sobre Sí nuestro
 
-pecado. La pregunta que le hizo Pilato: Qu has hecho?, era una pregunta que
+pecado. La pregunta que le hizo Pilato: “żQué has hecho?”, era una pregunta que
 
-Jess habra podido responder grandiosamente: Qu he hecho? He alimentado a
+Jesús habría podido responder grandiosamente: “żQué he hecho? He alimentado a
 
-los pobres, he sanado a los enfermos, he levantado a los cados, y he
+los pobres, he sanado a los enfermos, he levantado a los caídos, y he
 
-resucitado a los muertos. Qu he hecho? He vivido una vida de abnegacin, sin
+resucitado a los muertos. żQué he hecho? He vivido una vida de abnegación, sin
 
-que me importara nada en cuanto a M o en cuanto a mi propio honor. He sido el
+que me importara nada en cuanto a Mí o en cuanto a mi propio honor. He sido el
 
-vindicador de Dios y el amigo del hombre. Qu he hecho? Ciertamente no he
+vindicador de Dios y el amigo del hombre. żQué he hecho? Ciertamente no he
 
 hecho nada por lo pudieran condenarme a muerte, sino que he hecho todo aquello
 
-por lo que deberan aceptarme como su Lder y Salvador. No omos ni una sola
+por lo que deberían aceptarme como su Líder y Salvador”. No oímos ni una sola
 
-palabra de esto. La exculpacin habra sido completa, pero l no expres nada.
+palabra de esto. La exculpación habría sido completa, pero Él no expresó nada.
 
-Habra podido desconcertar a Sus enemigos, como anteriormente haba vencido a
+Habría podido desconcertar a Sus enemigos, como anteriormente había vencido a
 
-los que haban llegado a prenderle, de tal forma que regresaron a sus seores,
+los que habían llegado a prenderle, de tal forma que regresaron a sus seńores,
 
-diciendo: Jams hombre alguno ha hablado como este hombre! l habra podido
+diciendo: “ˇJamás hombre alguno ha hablado como este hombre!” Él habría podido
 
-justificarse delante del procurador romano y, saliendo triunfante, habra
+justificarse delante del procurador romano y, saliendo triunfante, habría
 
-podido escapar de sus dientes; pero, debido a que quera estar en nuestro lugar,
+podido escapar de sus dientes; pero, debido a que quería estar en nuestro lugar,
 
-cuando los hombres imaginaron cosas perversas contra l, l fue sordo y como mudo
+cuando los hombres imaginaron cosas perversas contra Él, Él fue sordo y como mudo
 
-no abri Su boca. Hemos de adorarle y bendecirle por Su clemente
+no abrió Su boca. Hemos de adorarle y bendecirle por Su clemente
 
 condescendencia, y por Su gracia incomparable al estar en lugar nuestro.
 
-Pero adems, nuestro Seor, al ser
+Pero además, nuestro Seńor, al ser
 
-contado como un transgresor por Pilato, quera morir la muerte establecida por
+contado como un transgresor por Pilato, quería morir la muerte establecida por
 
-la ley romana para los malhechores. Si los judos hubieran sentenciado a muerte
+la ley romana para los malhechores. Si los judíos hubieran sentenciado a muerte
 
-a nuestro Seor por blasfemia, la condena habra sido lapidacin; pero ninguna
+a nuestro Seńor por blasfemia, la condena habría sido lapidación; pero ninguna
 
-de las profecas que fueron dichas anteriormente en relacin al Mesas, habl
+de las profecías que fueron dichas anteriormente en relación al Mesías, habló
 
-de que sera arrojado al suelo por piedras. La muerte ordenada para l era la
+de que sería arrojado al suelo por piedras. La muerte ordenada para Él era la
 
-crucifixin. Juan dice en el captulo dieciocho, en el versculo treinta y dos:
+crucifixión. Juan dice en el capítulo dieciocho, en el versículo treinta y dos:
 
-Para que se cumpliese la palabra que Jess haba dicho, dando a entender de
+“Para que se cumpliese la palabra que Jesús había dicho, dando a entender de
 
-qu muerte iba a morir. Cul fue esa palabra? Acaso no es la palabra
+qué muerte iba a morir.” żCuál fue esa palabra? żAcaso no es la palabra
 
-expresada en el captulo doce del evangelio de Juan, en el versculo treinta y
+expresada en el capítulo doce del evangelio de Juan, en el versículo treinta y
 
-dos?: Y yo, si fuere levantado de la tierra, a todos atraer a m mismo. Y
+dos?: “Y yo, si fuere levantado de la tierra, a todos atraeré a mí mismo. Y
 
-deca esto dando a entender de qu muerte iba a morir. Ser levantado de la
+decía esto dando a entender de qué muerte iba a morir”. Ser levantado de la
 
-tierra en una cruz era una muerte que slo poda venir de los romanos; los
+tierra en una cruz era una muerte que sólo podía venir de los romanos; los
 
-judos, tal como lo he dicho antes, ejecutaban a los hombres apedrendolos: por
+judíos, tal como lo he dicho antes, ejecutaban a los hombres apedreándolos: por
 
-tanto, l deba ser condenado por los romanos para que se cumplieran Sus
+tanto, Él debía ser condenado por los romanos para que se cumplieran Sus
 
-propias palabras. l haba hablado incluso ms expresamente en un pasaje
+propias palabras. Él había hablado incluso más expresamente en un pasaje
 
-registrado por Mateo, en el captulo veinte, en el versculo diecisiete, donde
+registrado por Mateo, en el capítulo veinte, en el versículo diecisiete, donde
 
-haba declarado cmo deba morir. Subiendo Jess a Jerusaln, tom a sus doce
+había declarado cómo debía morir. “Subiendo Jesús a Jerusalén, tomó a sus doce
 
-discpulos aparte en el camino, y les dijo: He aqu subimos a Jerusaln, y el
+discípulos aparte en el camino, y les dijo: He aquí subimos a Jerusalén, y el
 
-Hijo del Hombre ser entregado a los principales sacerdotes y a los escribas, y
+Hijo del Hombre será entregado a los principales sacerdotes y a los escribas, y
 
-le condenarn a muerte; y le entregarn a los gentiles para que le escarnezcan,
+le condenarán a muerte; y le entregarán a los gentiles para que le escarnezcan,
 
-le azoten, y le crucifiquen; mas al tercer da resucitar. Para que la palabra
+le azoten, y le crucifiquen; mas al tercer día resucitará”. Para que la palabra
 
-que haba hablado se cumpliera, nuestro bendito Seor rehus argumentar ante
+que había hablado se cumpliera, nuestro bendito Seńor rehusó argumentar ante
 
-Pilato cosa alguna, en respuesta a la pregunta: Qu has hecho? l se
+Pilato cosa alguna, en respuesta a la pregunta: “żQué has hecho?” Él se
 
 presenta como un transgresor, para morir la muerte de un transgresor; por
 
 tanto, bendito sea Su nombre adorable para siempre, por Su voluntaria
 
-aceptacin del castigo por causa nuestra.
+aceptación del castigo por causa nuestra.
 
-Cuando pienso en esa palabra malhechor,
+Cuando pienso en esa palabra “malhechor”,
 
 otra palabra salta directamente a mis labios. No le llamen malhechor, sino
 
-BENEFACTOR. Cun grande benefactor ha de ser quien, para beneficiarnos,
+BENEFACTOR. ˇCuán grande benefactor ha de ser quien, para beneficiarnos,
 
-permite ser llamado: malhechor! Slo piensen que quien se sienta en este
+permite ser llamado: “malhechor”! Sólo piensen que quien se sienta en este
 
-momento en el centro de ngeles que adoran, haya sido llamado malhechor; que
+momento en el centro de ángeles que adoran, haya sido llamado “malhechor”; que
 
-aquel de cuya inextinguible provisin de bondad todos los santos en el cielo y
+aquel de cuya inextinguible provisión de bondad todos los santos en el cielo y
 
-en la tierra son alimentados, sea llamado malhechor; que Aquel que no pens
+en la tierra son alimentados, sea llamado “malhechor”; que Aquel que no pensó
 
-nunca en daar a los hombres, y que ms bien Su propia alma es amor, cuyas
+nunca en dańar a los hombres, y que más bien Su propia alma es amor, cuyas
 
-palabras y pensamientos han sido todos de bondad para con esta raza cada, sea llamado,
+palabras y pensamientos han sido todos de bondad para con esta raza caída, sea llamado,
 
-a pesar de todo ello, malhechor. Oh tierra, cmo pudiste tolerar una mentira
+a pesar de todo ello, “malhechor”. ˇOh tierra, cómo pudiste tolerar una mentira
 
 tan grave contra la infinita bondad del Hijo de Dios! Y, sin embargo, bendito
 
-sea por siempre Su nombre, pues l no lanza de regreso la acusacin, ya que eso
+sea por siempre Su nombre, pues Él no lanza de regreso la acusación, ya que eso
 
-hubiera sido para arruinarnos. l soporta mansamente el escndalo por nuestra
+hubiera sido para arruinarnos. Él soporta mansamente el escándalo por nuestra
 
 causa.
 
-Acaso esto no debera endulzar cada
+żAcaso esto no debería endulzar cada
 
-ttulo de reproche que nos pudiera atacar jams? Qu importa que nos encajen
+título de reproche que nos pudiera atacar jamás? ˇQué importa que nos encajen
 
-nombres impertinentes! Ellos llamaron al Seor de la casa malhechor; podran
+nombres impertinentes! Ellos llamaron al Seńor de la casa “malhechor”; żpodrían
 
-llamarnos de alguna peor manera? Buscaremos la honra all donde nuestro
+llamarnos de alguna peor manera? żBuscaremos la honra allí donde nuestro
 
-Capitn no encontr nada sino vergenza? Por esa razn, debe ser nuestra gloria
+Capitán no encontró nada sino vergüenza? Por esa razón, debe ser nuestra gloria
 
-sobrellevar vergenza y afrenta por causa de Jess. Esto es suficiente en
+sobrellevar vergüenza y afrenta por causa de Jesús. Esto es suficiente en
 
-cuanto a la primera acusacin.
+cuanto a la primera acusación.
 
 II.
 
@@ -612,27 +612,27 @@ En segundo lugar, cuando los sacerdotes y
 
 los escribas descubrieron que no bastaba con llamarle simplemente malhechor,
 
-estos viles hombres cambiaron su tctica, y, de acuerdo a Lucas, le acusaron de
+estos viles hombres cambiaron su táctica, y, de acuerdo a Lucas, le acusaron de
 
-proponerse ser REY. Dijeron que fraguaba la sedicin, que prohiba pagarle
+proponerse ser REY. Dijeron que fraguaba la sedición, que prohibía pagarle
 
-tributo a Csar, y que se constitua en rey. Estas eran tres grandes mentiras,
+tributo a César, y que se constituía en rey. Estas eran tres grandes mentiras,
 
-pues Jess haba predicado la paz, y no la sedicin; Su ejemplo era de
+pues Jesús había predicado la paz, y no la sedición; Su ejemplo era de
 
-sumisin, no de rebelin; Su espritu era el de un siervo, no el de un
+sumisión, no de rebelión; Su espíritu era el de un siervo, no el de un
 
-turbulento lder de un partido. l nunca haba dicho que los hombres no deban
+turbulento líder de un partido. Él nunca había dicho que los hombres no debían
 
-pagarle tributo a Csar; por el contrario, haba dicho: Dad a Csar lo que es
+pagarle tributo a César; por el contrario, había dicho: “Dad a César lo que es
 
-de Csar, y se someta a toda ordenanza de la autoridad. l nunca se haba
+de César”, y se sometía a toda ordenanza de la autoridad. Él nunca se había
 
-propuesto ser rey en el sentido que ellos lo decan; si hubiese hecho eso,
+propuesto ser rey en el sentido que ellos lo decían; si hubiese hecho eso,
 
-muchos que eran ahora Sus acusadores, podran haber sido Sus partidarios. La
+muchos que eran ahora Sus acusadores, podrían haber sido Sus partidarios. La
 
-acusacin contra Jess de querer erigirse como rey, en el sentido que ellos
+acusación contra Jesús de querer erigirse como rey, en el sentido que ellos
 
 deseaban que Pilato lo entendiera,
 
@@ -640,157 +640,157 @@ era
 
 completamente falsa,
 
-pues cuando la multitud hubo sido alimentada, queran
+pues cuando la multitud hubo sido alimentada, querían
 
-llevarle y hacerle rey, pero l se escondi. Es ms, lejos de desear ser rey,
+llevarle y hacerle rey, pero Él se escondió. Es más, lejos de desear ser rey,
 
-cuando uno le dijo: Maestro, d a mi hermano que parta conmigo la herencia,
+cuando uno le dijo: “Maestro, dí a mi hermano que parta conmigo la herencia”,
 
-l respondi: Hombre, quin me ha puesto sobre vosotros como juez o
+Él respondió: “Hombre, żquién me ha puesto sobre vosotros como juez o
 
-partidor? l depuso todo intento de interferencia con los poderes reinantes. Sus
+partidor?” Él depuso todo intento de interferencia con los poderes reinantes. Sus
 
-acusadores deben haber sabido que si l hubiese querido, tena el poder que le
+acusadores deben haber sabido que si Él hubiese querido, tenía el poder que le
 
 respaldaba para sustentar sus reclamos, tal como le dijo a Pilato que, si
 
-hubiese sido rey de un dominio mundano, Sus servidores habran luchado por l.
+hubiese sido rey de un dominio mundano, Sus servidores habrían luchado por Él.
 
-Sus seguidores habran sido valerosos, y valientes y entusiastas, y, sin duda,
+Sus seguidores habrían sido valerosos, y valientes y entusiastas, y, sin duda,
 
-les habran causado problemas sin fin, tanto a los judos como a los romanos,
+les habrían causado problemas sin fin, tanto a los judíos como a los romanos,
 
-si su lder hubiera reclamado un soberana temporal. Pero nuestro Seor haba
+si su líder hubiera reclamado un soberanía temporal. Pero nuestro Seńor había
 
-ordenado que Pedro guardara su espada en su vaina, y san la herida que Pedro
+ordenado que Pedro guardara su espada en su vaina, y sanó la herida que Pedro
 
-haba provocado. A lo largo de Su vida haba predicado paz y amor, y un reino
+había provocado. A lo largo de Su vida había predicado paz y amor, y un reino
 
-que es justicia y paz. l no era un rival de Csar, y ellos lo saban.
+que es justicia y paz. Él no era un rival de César, y ellos lo sabían.
 
-Y, por favor, noten que esta acusacin de
+Y, por favor, noten que esta acusación de
 
 que Cristo era rey,
 
-no provena del poder
+no provenía del poder
 
 gobernante.
 
-Cuando Pilato le pregunt a nuestro Seor: Eres t el Rey de
+Cuando Pilato le preguntó a nuestro Seńor: “żEres tú el Rey de
 
-los judos?, nuestro Salvador respondi sabiamente: Dices t esto por ti
+los judíos?”, nuestro Salvador respondió sabiamente: “żDices tú esto por ti
 
-mismo, o te lo han dicho otros de m? Tienes alguna razn para pensar que soy
+mismo, o te lo han dicho otros de mí? żTienes alguna razón para pensar que soy
 
-un lder de la sedicin? Como gobernador de esta nacin tienes que vigilar
+un líder de la sedición? Como gobernador de esta nación tienes que vigilar
 
-cuidadosamente, pues los del pueblo son sediciosos; has visto jams o has odo
+cuidadosamente, pues los del pueblo son sediciosos; żhas visto jamás o has oído
 
-algo acerca de M que parezca un ataque contra tu autoridad? Tienes algo que
+algo acerca de Mí que parezca un ataque contra tu autoridad? żTienes algo que
 
-sea de tu propio conocimiento que te conduzca a levantar una acusacin en mi
+sea de tu propio conocimiento que te conduzca a levantar una acusación en mi
 
-contra?
+contra?”
 
 Pilato, no sabiendo absolutamente nada en
 
 contra suya, y, en verdad, escarneciendo la idea de que supiera algo acerca del
 
-pueblo judo, a quienes detestaba, replic arrogantemente: Soy yo acaso
+pueblo judío, a quienes detestaba, replicó arrogantemente: “żSoy yo acaso
 
-judo? Tu nacin, y los principales sacerdotes, te han entregado a m. Un gran
+judío? Tu nación, y los principales sacerdotes, te han entregado a mí.” Un gran
 
-punto fue ganado cuando Pilato dijo esto; qued demostrado que la acusacin era
+punto fue ganado cuando Pilato dijo esto; quedó demostrado que la acusación era
 
-una mera invencin, puesto que el ojo de guila del procurador romano no haba
+una mera invención, puesto que el ojo de águila del procurador romano no había
 
-visto nunca la menor justificacin para ella.
+visto nunca la menor justificación para ella.
 
 De manera muy visible
 
-se trataba de una acusacin frvola.
+se trataba de una acusación frívola.
 
-Cmo
+żCómo
 
-podra ser un peligro para Csar ese hombre inofensivo y desamparado? Qu
+podría ser un peligro para César ese hombre inofensivo y desamparado? żQué
 
-tenan que temer las legiones romanas de ese solitario ser sufriente? l era
+tenían que temer las legiones romanas de ese solitario ser sufriente? Él era
 
 demasiado manso y puro para amenazar con guerra y contienda al imperio de
 
-Tiberio. Mrenle y dense cuenta de lo absurdo de la situacin. Adems,
+Tiberio. Mírenle y dense cuenta de lo absurdo de la situación. Además,
 
-parecera algo extrao que el pueblo judo llevara delante del gobernador
+parecería algo extrańo que el pueblo judío llevara delante del gobernador
 
-romano a su propio rey. Es esta la manera en que los sbditos tratan a sus
+romano a su propio rey. żEs esta la manera en que los súbditos tratan a sus
 
-monarcas? Si l fuera el lder de una sedicin, no parecera haber tenido xito
+monarcas? Si Él fuera el líder de una sedición, no parecería haber tenido éxito
 
-con Sus paisanos, pues las cabezas del pueblo estn buscando Su muerte. A la
+con Sus paisanos, pues las cabezas del pueblo están buscando Su muerte. A la
 
-luz de ello, no podra haber ninguna oportunidad de peligro de rebelin de
+luz de ello, no podría haber ninguna oportunidad de peligro de rebelión de
 
-ningn tipo ya que fue sumariamente abatida por los propios judos. Si no
+ningún tipo ya que fue sumariamente abatida por los propios judíos. Si no
 
-hubieran estado embrutecidos por su ira, ellos mismos se habran retractado de
+hubieran estado embrutecidos por su ira, ellos mismos se habrían retractado de
 
-una posicin tan absurda.
+una posición tan absurda.
 
 Pero, sin embargo, quiero que noten muy
 
 cuidadosamente, que
 
-el Seor no neg
+el Seńor no negó
 
-nunca esta acusacin
+nunca esta acusación
 
-en el sentido en que eligi entenderla. l explic
+en el sentido en que eligió entenderla. Él explicó
 
-primero qu quera decir con que era un rey, y cuando lo hubo explicado,
+primero qué quería decir con que era un rey, y cuando lo hubo explicado,
 
-confes abiertamente que era precisamente eso.
+confesó abiertamente que era precisamente eso.
 
 Primero, digo,
 
-l explic lo que pretenda al decir que era un rey,
+Él explicó lo que pretendía al decir que era un rey,
 
 y adviertan
 
-cuidadosamente que no lo hizo de manera detallada. l dijo: Mi reino, y
+cuidadosamente que no lo hizo de manera detallada. Él dijo: “Mi reino”, y
 
-tambin cuando Pilato pregunt: Luego, eres t rey?, l respondi: T dices
+también cuando Pilato preguntó: “żLuego, eres tú rey?”, Él respondió: “Tú dices
 
-que yo soy rey. l era all y entonces un rey real, y lo manifest sin
+que yo soy rey”. Él era allí y entonces un rey real, y lo manifestó sin
 
 reservas. Se nos dice constantemente que el reino de Cristo es un reino
 
-espiritual, y esta afirmacin es verdadera; pero yo quisiera que se cuidaran de
+espiritual, y esta afirmación es verdadera; pero yo quisiera que se cuidaran de
 
-no hacer desaparecer Su reino como si fuese nicamente un sueo piadoso.
+no hacer desaparecer Su reino como si fuese únicamente un sueńo piadoso.
 
 Espiritual o no, el reino de Cristo en la tierra es real y poderoso. No es
 
-menos real, sino ms real debido a que puede ser llamado adecuadamente
+menos real, sino más real debido a que puede ser llamado adecuadamente
 
-espiritual. Jess es rey incluso ahora. l dijo: Yo soy rey. Algunos dicen
+espiritual. Jesús es rey incluso ahora. Él dijo: “Yo soy rey”. Algunos dicen
 
-que Su reino no est vigente todava, sino que est reservado para los das
+que Su reino no está vigente todavía, sino que está reservado para los días
 
-postreros; pero yo les aseguro que l es rey hoy, y que incluso ahora Jehov le
+postreros; pero yo les aseguro que Él es rey hoy, y que incluso ahora Jehová le
 
 ha erigido como rey sobre el monte santo de Sion.
 
 Yo bendigo a Dios porque nos ha
 
-trasladado al reino de su amado Hijo. T eres el rey de gloria, oh Cristo. Cuando
+trasladado “al reino de su amado Hijo”. “Tú eres el rey de gloria, oh Cristo”. Cuando
 
-digo: Venga tu reino, no quiero decir que comience a establecerse en la
+digo: “Venga tu reino”, no quiero decir que comience a establecerse en la
 
-tierra, sino que contine establecindose en nuevos lugares, que se extienda y
+tierra, sino que continúe estableciéndose en nuevos lugares, que se extienda y
 
-que crezca, pues Jess, en este preciso momento, tiene un reino sobre la faz de
+que crezca, pues Jesús, en este preciso momento, tiene un reino sobre la faz de
 
-la tierra y quienes conocen la verdad, pertenecen a l, y le reconocen a l
+la tierra y quienes conocen la verdad, pertenecen a él, y le reconocen a Él
 
 como el testigo real por quien el reino de la verdad ha sido fundado y
 
@@ -798,81 +798,81 @@ sostenido.
 
 Ustedes recuerdan el notable comentario
 
-que es atribuido a Napolen Bonaparte en sus ltimos aos en Santa Elena: Yo
+que es atribuido a Napoleón Bonaparte en sus últimos ańos en Santa Elena: “Yo
 
-he fundado un reino por la fuerza, y ha pasado; pero Jess fund Su imperio
+he fundado un reino por la fuerza, y ha pasado; pero Jesús fundó Su imperio
 
-sobre el amor, y por eso, permanecer para siempre. Ciertamente, Napolen dijo
+sobre el amor, y por eso, permanecerá para siempre”. Ciertamente, Napoleón dijo
 
-la verdad: Jess, el Jess de elevadsimo rango real, es hoy Seor de
+la verdad: Jesús, el Jesús de elevadísimo rango real, es hoy Seńor de
 
-innumerables corazones. El mundo no le conoce, pero, sin embargo, l tiene un
+innumerables corazones. El mundo no le conoce, pero, sin embargo, Él tiene un
 
-reino en el mundo que, antes de que pase mucho tiempo, har pedazos a todos los
+reino en el mundo que, antes de que pase mucho tiempo, hará pedazos a todos los
 
 otros reinos. Corazones verdaderos y veraces se encuentran entre los hijos de
 
-los hombres, y en ellos, Su nombre despierta todava entusiasmo, de tal manera
+los hombres, y en ellos, Su nombre despierta todavía entusiasmo, de tal manera
 
-que estn preparados a vivir y morir por l. Nuestro Seor es un rey
+que están preparados a vivir y morir por Él. Nuestro Seńor es un rey
 
-ntegramente, l tiene Su trono de gracia, tiene Su cetro de verdad, Sus
+íntegramente, Él tiene Su trono de gracia, tiene Su cetro de verdad, Sus
 
-oficiales que, como l mismo, dan testimonio de la verdad, y Sus ejrcitos de
+oficiales que, como Él mismo, dan testimonio de la verdad, y Sus ejércitos de
 
 guerreros que luchan, no con carne ni con sangre, y no usan armas carnales,
 
-sino que todava salen venciendo, y para vencer. Nuestro Seor tiene Su palacio
+sino que todavía salen venciendo, y para vencer. Nuestro Seńor tiene Su palacio
 
 en el que mora, Su carroza en la que viaja, Sus ingresos, aunque no sean
 
 tesoros de oro y plata, y Sus proclamas, que son ley en Su iglesia. Su poder de
 
-reinar afecta el destino del mundo en este momento presente, mucho ms que los
+reinar afecta el destino del mundo en este momento presente, mucho más que los
 
-consejos de las cinco grandes potencias: por la predicacin de la verdad Sus
+consejos de las cinco grandes potencias: por la predicación de la verdad Sus
 
 siervos modelan las edades, y erigen y derrocan los tronos de la tierra. No hay
 
-ningn prncipe tan poderoso como Jess, y no hay imperio tan fuerte como el
+ningún príncipe tan poderoso como Jesús, y no hay imperio tan fuerte como el
 
 reino del cielo.
 
-Nuestro Seor tambin dijo que Su reino
+Nuestro Seńor también dijo que Su reino
 
-no provino de este mundo; pues eso, entiendo yo, es la traduccin ms correcta
+no provino de este mundo; pues eso, entiendo yo, es la traducción más correcta
 
-del pasaje: Mi reino no es de este mundo. No provino de este mundo; es un
+del pasaje: “Mi reino no es de este mundo”. No provino de este mundo; es un
 
-reino sustancial, pero no brot de las mismas fuentes que los reinos del mundo,
+reino sustancial, pero no brotó de las mismas fuentes que los reinos del mundo,
 
 ni tampoco es apoyado, mantenido o incrementado por el mismo poder del que
 
 dependen los reinos del mundo. El reino de Cristo no depende de la fuerza de
 
-las armas: l quiere que Sus seguidores depongan estas armas. El reino de
+las armas: Él quiere que Sus seguidores depongan estas armas. El reino de
 
 Cristo no depende, como lo hacen los reinos terrenales demasiado
 
-frecuentemente, de la astucia, la poltica, y la duplicidad. Sola decirse que
+frecuentemente, de la astucia, la política, y la duplicidad. Solía decirse que
 
 un embajador era un caballero que era enviado al extranjero para mentir por el
 
-bien de su pas, y me temo que eso podra describir todava a una gran cantidad
+bien de su país, y me temo que eso podría describir todavía a una gran cantidad
 
-de embajadores. Qu es la ciencia de la diplomacia sino el arte del engao?
+de embajadores. żQué es la ciencia de la diplomacia sino el arte del engańo?
 
 Cuando los estadistas son enteramente honestos, y son guiados por principios,
 
 son generalmente sujetos de sospechas, y es alzado el grito de que los
 
-intereses del pas sern sacrificados.
+intereses del país serán sacrificados.
 
 Pero no hay diplomacia en el gobierno de
 
-Cristo; todo lo que es semejante a una poltica torcida es del demonio, y no de
+Cristo; todo lo que es semejante a una política torcida es del demonio, y no de
 
-Cristo. l viene a dar testimonio de la verdad, y no es por la fuerza ni por la
+Cristo. Él viene a dar testimonio de la verdad, y no es por la fuerza ni por la
 
 astucia que Su trono es establecido entre los hijos de los hombres, y, por
 
@@ -880,39 +880,39 @@ tanto, no es de este mundo.
 
 Ser un rey, en verdad, es muy poco errado
 
-a los ojos de Jess ya que es el propsito ltimo de Su venida a la tierra. l
+a los ojos de Jesús ya que es el propósito último de Su venida a la tierra. Él
 
-vino a salvar a los hombres, no es cierto? S, pero aun as dice: Yo para
+vino a salvar a los hombres, żno es cierto? Sí, pero aun así dice: “Yo para
 
 esto he nacido, y para esto he venido al mundo, para dar testimonio a la
 
-verdad; que es otra manera de decir: Para ser rey. ste es Su ultimtum.
+verdad”; que es otra manera de decir: “Para ser rey”. Éste es Su ultimátum.
 
 Cristo es maestro, para ser rey; Cristo es modelo, para ser rey; Cristo es Salvador,
 
-para ser rey; este es el gran propsito y objetivo que tiene en Su vida, en Su
+para ser rey; este es el gran propósito y objetivo que tiene en Su vida, en Su
 
-muerte, en Su resurreccin, y en Su segunda venida: establecer un reino entre
+muerte, en Su resurrección, y en Su segunda venida: establecer un reino entre
 
 los hijos de los hombres para la gloria de Dios. Oh, que este grandioso
 
-propsito de Su misin sea promovido en nuestro tiempo, y consumado pronto en
+propósito de Su misión sea promovido en nuestro tiempo, y consumado pronto en
 
 la edad de oro prometida desde hace mucho tiempo.
 
 El Maestro nos dice que la principal
 
-fuerza y el poder de Su reino radican en la verdad. l vino para ser Rey, pero
+fuerza y el poder de Su reino radican en la verdad. Él vino para ser Rey, pero
 
-dnde est Su cetro? Es la verdad. Dnde est Su espada? Sale de Su boca: l
+żdónde está Su cetro? Es la verdad. żDónde está Su espada? Sale de Su boca: Él
 
-da testimonio de la verdad. Dnde estn Sus soldados? Son hombres de la
+da testimonio de la verdad. żDónde están Sus soldados? Son hombres de la
 
-verdad. Jesucristo conduce a una cuadrilla de hombres de quienes dijo: Vosotros
+verdad. Jesucristo conduce a una cuadrilla de hombres de quienes dijo: “Vosotros
 
-sois mis testigos. Su reino consiste en dar testimonio de la verdad, y
+sois mis testigos”. Su reino consiste en dar testimonio de la verdad, y
 
-quines son los que se convierten en Sus sbditos? Pues, son aquellos que son
+żquiénes son los que se convierten en Sus súbditos? Pues, son aquellos que son
 
 de la verdad, hombres que, oyendo la verdad, conocen el alegre sonido y lo
 
@@ -920,99 +920,99 @@ aceptan, y sienten su poder.
 
 Queridos oyentes, cada uno de nosotros ha
 
-de hacerse la pregunta: pertenezco a este reino? Quiero que este hombre
+de hacerse la pregunta: “żpertenezco a este reino? żQuiero que este hombre
 
-reine sobre m? Deseo desprenderme de todo lo que no sea verdadero? Estoy
+reine sobre mí? żDeseo desprenderme de todo lo que no sea verdadero? żEstoy
 
-ansioso de reprimir a mi alrededor todo lo que sea falso y perverso? Quiero
+ansioso de reprimir a mi alrededor todo lo que sea falso y perverso? żQuiero
 
-cumplir las leyes de Dios, pues son la verdad? Deseo divulgar los principios del
+cumplir las leyes de Dios, pues son la verdad? żDeseo divulgar los principios del
 
-amor y la bondad, pues son la verdad? Estoy dispuesto a aprender y as
+amor y la bondad, pues son la verdad? żEstoy dispuesto a aprender y así
 
-volverme discpulo del ms grandioso de todos los maestros, y entonces, estoy
+volverme discípulo del más grandioso de todos los maestros, y entonces, estoy
 
-dispuesto a dar testimonio de lo que he aprendido, y as difundir el imperio de
+dispuesto a dar testimonio de lo que he aprendido, y así difundir el imperio de
 
-la verdad? Si es as, entonces yo soy de Su reino. S que me dirijo a muchos
+la verdad? Si es así, entonces yo soy de Su reino. Sé que me dirijo a muchos
 
 que desean hoy en sus corazones que Cristo y Su verdad triunfen, y que se
 
-preocupan poco de qu pueda ser de ellos. El Evangelio de Cristo ha de
+preocupan poco de qué pueda ser de ellos. El Evangelio de Cristo ha de
 
 divulgarse y los principios de justicia han de prevalecer; y, en cuanto a
 
-nosotros, ya sea que vivamos o muramos, ser un asunto de poca importancia. Oh
+nosotros, ya sea que vivamos o muramos, será un asunto de poca importancia. Oh
 
 Rey, vive para siempre, y nosotros encontraremos nuestra vida en Tu vida, y
 
-gloria promoviendo Tu gloria, mundo sin fin. Tal espritu es de la verdad, y
+gloria promoviendo Tu gloria, mundo sin fin. Tal espíritu es de la verdad, y
 
-podemos asegurarnos a nosotros mismos que Jess es nuestro Rey.
+podemos asegurarnos a nosotros mismos que Jesús es nuestro Rey.
 
 Nuestro
 
-Seor, habiendo explicado su significado, confes que era Rey.
+Seńor, habiendo explicado su significado, confesó que era Rey.
 
 Esto es a lo que
 
-Pablo se refiere cuando dice: Jesucristo, que dio testimonio de la buena
+Pablo se refiere cuando dice: “Jesucristo, que dio testimonio de la buena
 
-profesin delante de Poncio Pilato. No se retract diciendo: No soy Rey.
+profesión delante de Poncio Pilato.” No se retractó diciendo: “No soy Rey”.
 
-Pilato habra podido liberarle entonces; pero habl valerosamente en lo
+Pilato habría podido liberarle entonces; pero habló valerosamente en lo
 
 concerniente a Su bendito, a Su misterioso y portentoso reino, y, por tanto, no
 
-era posible que fuera liberado. Esto, en verdad, fue Su acusacin escrita sobre
+era posible que fuera liberado. Esto, en verdad, fue Su acusación escrita sobre
 
-Su cruz, ESTE ES EL REY DE LOS JUDOS.
+Su cruz, “ESTE ES EL REY DE LOS JUDÍOS”.
 
-Pobre Pilato, l no entendi a nuestro
+Pobre Pilato, él no entendió a nuestro
 
-Seor, como tampoco los hombres de este mundo entienden el reino de Cristo.
+Seńor, como tampoco los hombres de este mundo entienden el reino de Cristo.
 
-Pilato le pregunt: Qu es la verdad?, y, sin esperar una respuesta, sali
+Pilato le preguntó: “żQué es la verdad?”, y, sin esperar una respuesta, salió
 
-otra vez a los judos.
+otra vez a los judíos.
 
 Ah, hermanos, no neguemos nosotros mismos
 
-nunca que Jess es un rey; pero lo haramos si no viviramos de acuerdo a Su
+nunca que Jesús es un rey; pero lo haríamos si no viviéramos de acuerdo a Su
 
 mandato. Oh, ustedes que aseveran que son de Cristo, pero que no viven de
 
-acuerdo a las leyes de Cristo, ustedes prcticamente niegan que l sea un rey.
+acuerdo a las leyes de Cristo, ustedes prácticamente niegan que Él sea un rey.
 
-Yo temo a los hombres que dicen: Nosotros creemos, y, por tanto, somos
+Yo temo a los hombres que dicen: “Nosotros creemos, y, por tanto, somos
 
-salvos, y luego no viven en santidad, pues dividen los oficios de nuestro
+salvos”, y luego no viven en santidad, pues dividen los oficios de nuestro
 
-Seor, defendiendo Su sacerdocio y negando Su reino. Medio Cristo no es Cristo,
+Seńor, defendiendo Su sacerdocio y negando Su reino. Medio Cristo no es Cristo,
 
 un Cristo que es un sacerdote pero que nunca es rey, no es el Cristo de Dios.
 
 Oh, hermanos, vivan como aquellos que
 
-sienten que cada palabra de Jess es ley, y que deben hacer lo que les ordena, tal
+sienten que cada palabra de Jesús es ley, y que deben hacer lo que les ordena, tal
 
-como se los ordena, y debido a que se los ordena; y as, todos los hombres han
+como se los ordena, y debido a que se los ordena; y así, todos los hombres han
 
-de saber que para ustedes, Jess es Seor y Dios.
+de saber que para ustedes, Jesús es Seńor y Dios.
 
 III.
 
-Concluyo notando LA ABSOLUCIN que Pilato
+Concluyo notando LA ABSOLUCIÓN que Pilato
 
-dio a nuestro Seor Jess. l haba odo la acusacin de que era un malhechor,
+dio a nuestro Seńor Jesús. Él había oído la acusación de que era un malhechor,
 
-a la que el prisionero no argument nada; l haba odo la acusacin de que se
+a la que el prisionero no argumentó nada; él había oído la acusación de que se
 
-deca ser un rey, cargo que el prisionero haba explicado de manera sumamente
+decía ser un rey, cargo que el prisionero había explicado de manera sumamente
 
-satisfactoria; y ahora Pilato, saliendo al pueblo, dijo: Yo no hallo en l
+satisfactoria; y ahora Pilato, saliendo al pueblo, dijo: “Yo no hallo en él
 
-ningn delito. Pilato, bien has dicho. Tu veredicto es el veredicto tpico de
+ningún delito”. Pilato, bien has dicho. Tu veredicto es el veredicto típico de
 
 todos lo que han
 
@@ -1020,57 +1020,57 @@ examinado
 
 a Cristo.
 
-Algunos le han examinado con un ojo hostil, pero en la proporcin en que han
+Algunos le han examinado con un ojo hostil, pero en la proporción en que han
 
-sido ntegros en la observacin de los hechos, se han visto sorprendidos por Su
+sido íntegros en la observación de los hechos, se han visto sorprendidos por Su
 
-vida y espritu. Es algo muy raro or que incluso el infiel hable mal del
+vida y espíritu. Es algo muy raro oír que incluso el infiel hable mal del
 
-carcter de Jess; de hecho, algunos de los escpticos ms conspicuos se han
+carácter de Jesús; de hecho, algunos de los escépticos más conspicuos se han
 
-visto notablemente impresionados en cuanto a la enseanza del Seor y han
+visto notablemente impresionados en cuanto a la enseńanza del Seńor y han
 
-sentido admiracin hacia Su vida. No se puede ver en la historia ningn
+sentido admiración hacia Su vida. No se puede ver en la historia ningún
 
-carcter como el de Jess, ni siquiera en alguna novela de ficcin. Si alguien
+carácter como el de Jesús, ni siquiera en alguna novela de ficción. Si alguien
 
 dijera que los cuatro Evangelios son falsificaciones, que trate de escribir un
 
-quinto evangelio que sea como los cuatro. Vamos, no podras agregar un
+quinto evangelio que sea como los cuatro. Vamos, no podrías agregar un
 
-incidente a la vida de Cristo; sus detalles son nicos; la fantasa no puede
+incidente a la vida de Cristo; sus detalles son únicos; la fantasía no puede
 
 imaginar un incidente fresco que pueda ser agregado con seguridad a lo que ha
 
-sido registrado. Todos los crticos clamaran: Esto no es genuino. La vida de
+sido registrado. Todos los críticos clamarían: “Esto no es genuino”. La vida de
 
-Jess es un rollo de tela de oro, de cuya manufactura el arte no tiene la menor
+Jesús es un rollo de tela de oro, de cuya manufactura el arte no tiene la menor
 
-idea. Su carcter inmaculado est solo y es nico, y todos los verdaderos
+idea. Su carácter inmaculado está solo y es único, y todos los verdaderos
 
-crticos se ven forzados a decir que no encuentran ningn delito en l.
+críticos se ven forzados a decir que no encuentran ningún delito en Él.
 
-Permtanme agregar que este veredicto de
+Permítanme agregar que este veredicto de
 
 Pilato es el veredicto de todos los que se han
 
 asociado
 
-alguna vez con Cristo. Un discpulo que estaba con Cristo
+alguna vez con Cristo. Un discípulo que estaba con Cristo
 
-le traicion, pero no habl nada en Su contra. Es ms, el ltimo testimonio de
+le traicionó, pero no habló nada en Su contra. Es más, el último testimonio de
 
-Judas antes de que se ahorcara fue este: Yo he pecado entregando sangre
+Judas antes de que se ahorcara fue este: “Yo he pecado entregando sangre
 
-inocente. Si hubiese habido un delito en Jess, el espa lo habra detectado;
+inocente”. Si hubiese habido un delito en Jesús, el espía lo habría detectado;
 
-su remordedora conciencia se habra alegrado mucho si se hubiera encontrado all
+su remordedora conciencia se habría alegrado mucho si se hubiera encontrado allí
 
-un sedante, pero incluso Judas se vio forzado a decir: Yo he pecado entregando
+un sedante, pero incluso Judas se vio forzado a decir: “Yo he pecado entregando
 
-sangre inocente. Quin de vosotros me redarguye de pecado?, es el reto de
+sangre inocente”. “żQuién de vosotros me redarguye de pecado?”, es el reto de
 
-Jess, para el cual no hay respuesta.
+Jesús, para el cual no hay respuesta.
 
 Algunos de nosotros hemos
 
@@ -1078,87 +1078,87 @@ vivido con Cristo espiritualmente.
 
 En el
 
-curso de Su providencia, l nos ha abatido mucho a algunos de nosotros por
+curso de Su providencia, Él nos ha abatido mucho a algunos de nosotros por
 
-medio de la enfermedad, o por duelo o prdidas. Todos los salvados por nuestro
+medio de la enfermedad, o por duelo o pérdidas. Todos los salvados por nuestro
 
-Seor han cado bajo la disciplina de Su casa, porque el Seor al que ama,
+Seńor han caído bajo la disciplina de Su casa, porque “el Seńor al que ama,
 
-disciplina, y azota a todo el que recibe por hijo.
+disciplina, y azota a todo el que recibe por hijo”.
 
-Ahora, cul es el veredicto de todos los
+Ahora, żcuál es el veredicto de todos los
 
-aqu presentes que conocen a Jess, nuestro rey? Por mi parte, no encuentro
+aquí presentes que conocen a Jesús, nuestro rey? Por mi parte, no encuentro
 
-ningn delito en l. l es todo codiciable. l es toda mi salvacin y todo mi
+ningún delito en Él. Él es todo codiciable. Él es toda mi salvación y todo mi
 
-deseo. No creen que de todos los millones de cristianos que han vivido
+deseo. żNo creen que de todos los millones de cristianos que han vivido
 
-esperando en Cristo, alguien ya nos habra dicho que l est habituado a
+esperando en Cristo, alguien ya nos habría dicho que Él está habituado a
 
-desilusionar a Su pueblo? De entre tantos creyentes que habitan con l,
+desilusionar a Su pueblo? De entre tantos creyentes que habitan con Él,
 
-seguramente uno que otro, al llegar su muerte, ya nos habra dicho que l no
+seguramente uno que otro, al llegar su muerte, ya nos habría dicho que Él no
 
-era todo lo que profesa ser. No habra confesado uno que otro: yo confi en
+era todo lo que profesa ser. żNo habría confesado uno que otro: “yo confié en
 
-Cristo y l no me ha liberado; todo es un engao? Seguramente, de los muchos
+Cristo y Él no me ha liberado; todo es un engańo”? Seguramente, de los muchos
 
-que hemos visto partir, habramos encontrado a uno o dos que habran publicado
+que hemos visto partir, habríamos encontrado a uno o dos que habrían publicado
 
-el secreto, y habran dicho: Es un engaador. l no puede ayudar, l no puede
+el secreto, y habrían dicho: “Es un engańador. Él no puede ayudar, Él no puede
 
-liberar. Pero nunca ningn creyente moribundo a travs de las edades ha
+liberar”. Pero nunca ningún creyente moribundo a través de las edades ha
 
-hablado mal de l, sino todos han dicho: Yo no hallo en l ningn delito.
+hablado mal de Él, sino todos han dicho: “Yo no hallo en él ningún delito”.
 
-Fjense que ese ser el veredicto de cada
+Fíjense que ese será el veredicto de cada
 
-uno de ustedes. Si alguien rechaza a Cristo, cuando est en Su tribunal para
+uno de ustedes. Si alguien rechaza a Cristo, cuando esté en Su tribunal para
 
-ser condenado porque no cree en l, y cuando esa palabra que marchita: Apartaos
+ser condenado porque no cree en Él, y cuando esa palabra que marchita: “Apartaos
 
-de m, malditos, lo consigne a su porcin sempiterna, entonces se ver
+de mí, malditos”, lo consigne a su porción sempiterna, entonces se verá
 
-obligado a decir: yo no hallo
+obligado a decir: “yo no hallo
 
-en l
+en él
 
-ningn
+ningún
 
-delito. No hubo ninguna falla en Su sangre, la falla estuvo en mi falta de fe;
+delito.” No hubo ninguna falla en Su sangre, la falla estuvo en mi falta de fe;
 
-no hubo ninguna falla en Su Espritu, la falla estuvo en mi obstinada voluntad;
+no hubo ninguna falla en Su Espíritu, la falla estuvo en mi obstinada voluntad;
 
 no hubo ninguna falla en Su promesa, la falla fue que yo no quise recibirle; no
 
-hubo en l ningn delito. l nunca me desde. Nunca rehus or mis plegarias.
+hubo en Él ningún delito. Él nunca me desdeńó. Nunca rehusó oír mis plegarias.
 
-Si mis domingos fueron desperdiciados, no fue culpa Suya; si yo desafi el
+Si mis domingos fueron desperdiciados, no fue culpa Suya; si yo desafié el
 
-Evangelio, no fue culpa Suya; si he perecido, mi sangre est a mi propia
+Evangelio, no fue culpa Suya; si he perecido, mi sangre está a mi propia
 
-puerta. yo no hallo en l ningn delito. Desde todas partes de la creacin,
+puerta. “yo no hallo en él ningún delito”. Desde todas partes de la creación,
 
-se alzar una testificacin a Su perfeccin. El cielo y la tierra y el infierno
+se alzará una testificación a Su perfección. El cielo y la tierra y el infierno
 
-se unirn, todos ellos, al veredicto comn, nosotros no hallamos en l ningn
+se unirán, todos ellos, al veredicto común, “nosotros no hallamos en Él ningún
 
-delito.
+delito.”
 
-Los voy a despedir despus de darles tres
+Los voy a despedir después de darles tres
 
-palabras prcticas para que piensen en ellas. La primera es esta: cudense de
+palabras prácticas para que piensen en ellas. La primera es esta: cuídense de
 
-una religin externa, pues los hombres que llamaron a Jess malhechor y le acusaron
+una religión externa, pues los hombres que llamaron a Jesús malhechor y le acusaron
 
 falsamente, eran personas muy religiosas, y no quisieron entrar al pretorio de
 
-Pilato por miedo a contaminarse. Eran fuertes en rituales, pero dbiles en moral.
+Pilato por miedo a contaminarse. Eran fuertes en rituales, pero débiles en moral.
 
-No hay personas ms inveteradas en contra de los principios del Evangelio que
+No hay personas más inveteradas en contra de los principios del Evangelio que
 
-aquellas cuya religin consiste en formas y ceremonias que no afectan sus
+aquellas cuya religión consiste en formas y ceremonias que no afectan sus
 
 corazones.
 
@@ -1166,17 +1166,17 @@ Les exhorto a que rasguen sus corazones y
 
 no sus vestidos. Sigan a Cristo espiritualmente; sigan a Cristo en sus propias
 
-almas, pues de lo contrario los sacramentos sern su ruina, e incluso al tratar
+almas, pues de lo contrario los sacramentos serán su ruina, e incluso al tratar
 
-de mantenerse alejados de la contaminacin ceremonial, se estarn contaminando
+de mantenerse alejados de la contaminación ceremonial, se estarán contaminando
 
-con la hipocresa.
+con la hipocresía.
 
 Lo siguiente es exhortarlos, queridos
 
 amigos, y exhortarme yo mismo, para evitar toda altiva mundanalidad como la de
 
-Pilato. Pilato trata todo el asunto caballerosamente; l es un romano soberbio
+Pilato. Pilato trata todo el asunto caballerosamente; él es un romano soberbio
 
 y altivo; odia al pueblo que gobierna, y aunque tiene una conciencia, y al
 
@@ -1184,51 +1184,51 @@ principio muestra cierta delicadeza hacia el prisionero, su fin principal y su
 
 objetivo eran conservar su puesto y amasar una fortuna, y, por eso, la sangre
 
-inocente deba ser derramada. l tena que agradar a los judos, incluso si
+inocente debía ser derramada. Él tenía que agradar a los judíos, incluso si
 
-tena que asesinar al Justo. Esta egosta mundanalidad en la que un hombre convierte
+tenía que asesinar al “Justo”. Esta egoísta mundanalidad en la que un hombre convierte
 
-a su oro y a l mismo en su dios, siempre trata a la religin con desprecio. El
+a su oro y a él mismo en su dios, siempre trata a la religión con desprecio. El
 
-hombre se preocupa por su tajada y pregunta burlonamente: Qu es la verdad?
+hombre se preocupa por su tajada y pregunta burlonamente: “żQué es la verdad?”
 
-l sabe lo que es el dinero y qu es el poder, pero, qu es la verdad? Es un
+Él sabe lo que es el dinero y qué es el poder, pero, żqué es la verdad? Es un
 
-sueo, es un disparate para l, y la desprecia. Hay personas ahora a nuestro
+sueńo, es un disparate para él, y la desprecia. Hay personas ahora a nuestro
 
 alrededor, habilidosos hombres que son servidores del tiempo, con grandiosas
 
-nociones de sus propias habilidades, y para ellos, Jess y Su Evangelio son
+nociones de sus propias habilidades, y para ellos, Jesús y Su Evangelio son
 
-asuntos para ancianas, sirvientas, y lo que llaman la cuadrilla puritana.
+asuntos para ancianas, sirvientas, y lo que llaman la ‘cuadrilla puritana’.
 
-Tales tpicos no son para caballeros pensadores, de cultura y entendimiento,
+Tales tópicos no son para caballeros pensadores, de cultura y entendimiento,
 
-con sus elevados y poderosos egos. Qu es la verdad?, preguntan. Estn
+con sus elevados y poderosos egos. “żQué es la verdad?”, preguntan. Están
 
-inclinados ms bien favorablemente a la religin, es decir, no la persiguen,
+inclinados más bien favorablemente a la religión, es decir, no la persiguen,
 
-pero la desprecian, que en algunos aspectos es peor. Dicen: somos agnsticos;
+pero la desprecian, que en algunos aspectos es peor. Dicen: “somos agnósticos;
 
-no tenemos un punto de vista particular; tenemos un corazn grande, y
+no tenemos un punto de vista particular; tenemos un corazón grande, y
 
-permitimos que cada individuo piense como quiera, pero aun as, no hay nada en
+permitimos que cada individuo piense como quiera, pero aun así, no hay nada en
 
-todo eso; todo es asunto de opinin. Un hombre dice: esto es la verdad, y
+todo eso; todo es asunto de opinión. Un hombre dice: “esto es la verdad”, y
 
-otro dice: aquello es la verdad, y, cmo hemos de saberlo? El hecho es que
+otro dice: “aquello es la verdad”, y, żcómo hemos de saberlo? El hecho es que
 
 no hay tal cosa como una verdad fija del todo.
 
-Ya que diferentes
+“Ya que diferentes
 
 credos dejan que sus infortunados adeptos luchen
 
-No podra
+No podría
 
-estar mal quien lleva una vida recta.
+estar mal quien lleva una vida recta.”
 
-Esta es la conclusin de este gran hombre
+Esta es la conclusión de este gran hombre
 
 en este asunto, y, sin embargo, sucede que la vida de este caballero no es
 
@@ -1236,49 +1236,49 @@ recta del todo, y, por tanto, por su propia evidencia no tiene mucho gozo de su
 
 preciosa estrofa. Me parece verle conforme gira sobre sus talones haciendo la
 
-pregunta: Qu es la verdad? Que l sea una advertencia para ti. No has de
+pregunta: “żQué es la verdad?” Que él sea una advertencia para ti. No has de
 
 acercarte a tal arrogante frivolidad. Siempre has de ser lo suficientemente
 
-necio para juzgar francamente. S tan poco listo como para estar dispuesto a
+necio para juzgar francamente. Sé tan poco listo como para estar dispuesto a
 
-aprender todava. S tan poco seguro de tu propia infalibilidad que al menos
+aprender todavía. Sé tan poco seguro de tu propia infalibilidad que al menos
 
-oigas las razones, e inquiere si estas cosas son as. Ay, me temo que por medio
+oigas las razones, e inquiere si estas cosas son así. Ay, me temo que por medio
 
-de la altivez mundana muchos oirn que se dice de ellos, como se dice del
+de la altivez mundana muchos oirán que se dice de ellos, como se dice del
 
-gobernador romano cada da en el credo: Padeci bajo el poder de Poncio
+gobernador romano cada día en el credo: “Padeció bajo el poder de Poncio
 
-Pilato. Oh, cuntas veces Cristo ha padecido bajo gente precisamente como
+Pilato”. ˇOh, cuántas veces Cristo ha padecido bajo gente precisamente como
 
 Poncio Pilato!
 
-Por ltimo, todos nosotros hemos de
+Por último, todos nosotros hemos de
 
-someternos a Jess nuestro Rey. Agotado y desfallecido, emaciado y quebrantado,
+someternos a Jesús nuestro Rey. Agotado y desfallecido, emaciado y quebrantado,
 
-con Su rostro ms desfigurado que el de cualquier otro hombre, inclinmonos
+con Su rostro más desfigurado que el de cualquier otro hombre, inclinémonos
 
-delante de l y digamos: Salve, Rey de los judos. T eres Rey por los siglos
+delante de Él y digamos: “Salve, Rey de los judíos. Tú eres Rey por los siglos
 
-de los siglos. Si estamos dispuestos a reconocerle de esta manera como Rey en
+de los siglos.” Si estamos dispuestos a reconocerle de esta manera como Rey en
 
-Su vergenza e irrisin, l pronto nos honrar cuando venga en la gloria del
+Su vergüenza e irrisión, Él pronto nos honrará cuando venga en la gloria del
 
-Padre, y acompaado de todos Sus santos ngeles. Entonces l har que se vea
+Padre, y acompańado de todos Sus santos ángeles. Entonces Él hará que se vea
 
 que, a los que le seguimos, nos ha hecho reyes y sacerdotes para Dios, y
 
-reinaremos con l por los siglos de los siglos. Amn
+reinaremos con Él por los siglos de los siglos. Amén
 
 Porciones de la
 
-Escritura ledas antes del sermn: Juan 18: 28-40;
+Escritura leídas antes del sermón: Juan 18: 28-40;
 
 Salmo 2.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 8/Marzo/2009
 

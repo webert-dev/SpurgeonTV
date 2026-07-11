@@ -1,16 +1,16 @@
 # Sermón 412 | Sermón 412
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Las Primeras
 
 Palabras de Dios al Primer Pecador
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,31 +18,31 @@ DOMINGO 6 DE OCTUBRE
 
 DE 1861
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Mas Jehov Dios llam al hombre, y le dijo: Dnde ests t? Gnesis 3:
+“Mas Jehová Dios llamó al hombre, y le dijo: żDónde estás tú? Génesis 3:
 
 9
 
-Ser interesante que los
+Será interesante que los
 
-miembros de esta Iglesia sepan que fue por medio de un sermn predicado por el
+miembros de esta Iglesia sepan que fue por medio de un sermón predicado por el
 
-seor William Wallis que tena como base este mismo texto, que mi honorable y
+seńor William Wallis que tenía como base este mismo texto, que mi honorable y
 
 venerable predecesor, el doctor Gill, fue convertido a un conocimiento de la
 
-verdad que est en Jess. Yo revis el comentario de Gill sobre este pasaje con
+verdad que está en Jesús. Yo revisé el comentario de Gill sobre este pasaje con
 
-algn grado de curiosidad. Tena la esperanza de encontrar all alguna alusin
+algún grado de curiosidad. Tenía la esperanza de encontrar allí alguna alusión
 
-a su propia conversin, pero no la encontr, aunque fui edificado por su
+a su propia conversión, pero no la encontré, aunque fui edificado por su
 
-exposicin clara y metdica sobre el pasaje. Estoy en deuda con ese comentario
+exposición clara y metódica sobre el pasaje. Estoy en deuda con ese comentario
 
-por darme la idea del presente discurso. Espero que haya hoy al menos uno aqu
+por darme la idea del presente discurso. Espero que haya hoy al menos uno aquí
 
 presente -ya que este texto fue el instrumento en la mano de Dios para equipar
 
@@ -50,65 +50,65 @@ a
 
 la Iglesia
 
-de Cristo con un varn que defendi valientemente la verdad de Dios y que fue
+de Cristo con un varón que defendió valientemente la verdad de Dios y que fue
 
 un instrumento para exponer las doctrinas de la gracia con gran claridad- que
 
 como John Gill, oiga la palabra con poder y la reciba en su influencia
 
-vivificadora en el interior de su alma. Es ms, oremos pidiendo que no slo uno
+vivificadora en el interior de su alma. Es más, oremos pidiendo que no sólo uno
 
-sino muchos oigan la pregunta de Dios al tiempo que resuena a travs de la
+sino muchos oigan la pregunta de Dios al tiempo que resuena a través de la
 
-multitud, y que al llegar al odo llegue tambin al corazn y algunos sean
+multitud, y que al llegar al oído llegue también al corazón y algunos sean
 
-llevados ante Dios en respuesta a la pregunta Dnde ests t?, y que reciban
+llevados ante Dios en respuesta a la pregunta “żDónde estás tú?”, y que reciban
 
-la seguridad del perdn y prosigan su camino en paz. Al exponer este texto no
+la seguridad del perdón y prosigan su camino en paz. Al exponer este texto no
 
 es necesario en absoluto detenernos en las circunstancias que condujeron a la
 
-pregunta. El hombre haba pecado contra Dios. Observen la
+pregunta. El hombre había pecado contra Dios. Observen la
 
-enajenacin de corazn
+enajenación de corazón
 
-que el pecado provoca en el pecador. Adn
+que el pecado provoca en el pecador. Adán
 
-debi haber buscado a su Hacedor. Debi haber atravesado el huerto clamando a
+debió haber buscado a su Hacedor. Debió haber atravesado el huerto clamando a
 
-su Dios: Dios mo, Dios mo, he pecado contra ti. Dnde ests
+su Dios: “Dios mío, Dios mío, he pecado contra ti. żDónde estás
 
-T?
+Tú?
 
 Tu criatura humillada cae a Tus pies
 
-e implora misericordia de Tus manos. Padre mo, T me has colocado en este
+e implora misericordia de Tus manos. Padre mío, Tú me has colocado en este
 
-hermoso Paraso; perversa e intencionalmente yo he comido del fruto del cual T
+hermoso Paraíso; perversa e intencionalmente yo he comido del fruto del cual Tú
 
-dijiste que no debera comer, puesto que el da que de l comiere ciertamente
+dijiste que no debería comer, puesto que el día que de él comiere ciertamente
 
-morira. He aqu, Padre mo, yo me someto al castigo. Yo confieso Tu justicia e
+moriría. He aquí, Padre mío, yo me someto al castigo. Yo confieso Tu justicia e
 
 imploro Tu misericordia, si es que se le puede mostrar misericordia a alguien
 
-como yo. Pero en vez de eso, Adn huye de Dios. El pecador no viene a Dios.
+como yo”. Pero en vez de eso, Adán huye de Dios. El pecador no viene a Dios.
 
-Dios viene a l. Nunca es, Dios mo, dnde ests T?, sino que el primer
+Dios viene a él. Nunca es, “Dios mío, żdónde estás Tú?”, sino que el primer
 
-clamor es la voz de la gracia: Pecador, dnde ests
+clamor es la voz de la gracia: “Pecador, żdónde estás
 
-t?
+tú?
 
 Dios viene al hombre; el hombre no busca a su Dios. A pesar de
 
-todas las doctrinas que el altivo libre albedro ha fabricado no se ha
+todas las doctrinas que el altivo libre albedrío ha fabricado no se ha
 
-encontrado jams, desde el da de Adn hasta ahora, un solo ejemplo en el que
+encontrado jamás, desde el día de Adán hasta ahora, un solo ejemplo en el que
 
 el pecador buscara primero a su Dios. Dios tiene que buscarlo primero. La oveja
 
-se descarra por s sola pero nunca regresa sola a su redil a menos que el
+se descarría por sí sola pero nunca regresa sola a su redil a menos que el
 
 grandioso Pastor la busque. Errar es humano; arrepentirse es divino. El hombre
 
@@ -122,185 +122,185 @@ gracia de Dios. Nosotros no tenemos nada y no somos nada que no sea vil. Todo
 
 lo que se asemeja a lo Divino, todo lo que aspira a la justicia y a la
 
-verdadera santidad, procede del Altsimo.
+verdadera santidad, procede del Altísimo.
 
 Y si bien el texto
 
-ensea manifiestamente la enajenacin del corazn humano con respecto a Dios de
+enseńa manifiestamente la enajenación del corazón humano con respecto a Dios de
 
-tal manera que el hombre esquiva a su Hacedor y no desea comunin con l,
+tal manera que el hombre esquiva a su Hacedor y no desea comunión con Él,
 
-revela tambin
+revela también
 
 la locura
 
 que el
 
-pecado ha causado. El pecado convirti al hombre en un necio. l fue sabio una
+pecado ha causado. El pecado convirtió al hombre en un necio. Él fue sabio una
 
 vez, a imagen de Dios; ahora, desde que el rastro de la serpiente ha pasado
 
-sobre su naturaleza, se ha vuelto un necio consumado, pues no es un necio
+sobre su naturaleza, se ha vuelto un necio consumado, pues żno es un necio
 
-aquel que quiere cubrir la desnudez del pecado con hojas de higuera? No est
+aquel que quiere cubrir la desnudez del pecado con hojas de higuera? żNo está
 
-loco aquel que quiere esconderse del omnisciente Jehov debajo de las frondosas
+loco aquel que quiere esconderse del omnisciente Jehová debajo de las frondosas
 
-ramas de los rboles? No saba Adn que Dios llena todo el espacio y mora en
+ramas de los árboles? żNo sabía Adán que Dios llena todo el espacio y mora en
 
-todas partes, y que desde el ms alto cielo al ms profundo infierno no hay
+todas partes, y que desde el más alto cielo al más profundo infierno no hay
 
-nada que se oculte a Su entendimiento? Y, con todo, es tan ignorante y estpido
+nada que se oculte a Su entendimiento? Y, con todo, es tan ignorante y estúpido
 
-que espera escapar de Dios y convertir a los rboles del huerto en un refugio
+que espera escapar de Dios y convertir a los árboles del huerto en un refugio
 
-que le proteja de los ojos de fuego de la ira divina. Ah, cun necios somos! Cmo
+que le proteja de los ojos de fuego de la ira divina. ˇAh, cuán necios somos! ˇCómo
 
-repetimos cada da la locura de nuestro primer padre cuando buscamos ocultar de
+repetimos cada día la locura de nuestro primer padre cuando buscamos ocultar de
 
-la conciencia al pecado, y luego pensamos que est escondido de Dios cuando
+la conciencia al pecado, y luego pensamos que está escondido de Dios cuando
 
-tenemos ms miedo de la mirada del hombre que de los escrutinios del Eterno,
+tenemos más miedo de la mirada del hombre que de los escrutinios del Eterno,
 
 cuando debido a que el pecado es secreto y no se ha atrincherado en las leyes y
 
-costumbres de la sociedad no tenemos conciencia de l, sino que nos retiramos a
+costumbres de la sociedad no tenemos conciencia de él, sino que nos retiramos a
 
-nuestros lechos con la marca negra todava sobre nosotros, estando satisfechos
+nuestros lechos con la marca negra todavía sobre nosotros, estando satisfechos
 
-porque como el hombre no lo ve, entonces Dios no lo percibe. Oh pecado, t has
+porque como el hombre no lo ve, entonces Dios no lo percibe. Oh pecado, tú has
 
-hecho que el hombre haga la pregunta: Y a dnde huir de tu presencia?, y le
+hecho que el hombre haga la pregunta: “żY a dónde huiré de tu presencia?”, y le
 
-has hecho olvidar que si asciende al cielo, Dios est all; que si hace su cama
+has hecho olvidar que si asciende al cielo, Dios está allá; que si hace su cama
 
-en el infierno, Dios est all, y si dijere: Ciertamente las tinieblas me
+en el infierno, Dios está allí, y si dijere: “Ciertamente las tinieblas me
 
-encubrirn, aun la noche ser luz en derredor suyo.
+encubrirán”, aun la noche será luz en derredor suyo.
 
-Pero ahora el Seor
+Pero ahora el Seńor
 
-mismo viene a Adn y noten cmo llega. Llega
+mismo viene a Adán y noten cómo llega. Llega
 
 caminando.
 
-No tena ninguna prisa por herir al ofensor; no vol en alas
+No tenía ninguna prisa por herir al ofensor; no voló en alas
 
-del viento ni se apresur con Su espada de fuego desenvainada, sino que
+del viento ni se apresuró con Su espada de fuego desenvainada, sino que
 
 se paseaba
 
 en el huerto.
 
-Al aire del da,
+“Al aire del día”,
 
 no al filo de la
 
 medianoche, cuando las penumbras naturales de las tinieblas pudieran haber
 
-incrementado los terrores del criminal; no al calor del da, para que no
+incrementado los terrores del criminal; no al calor del día, para que no
 
-imaginara que Dios lleg en el calor de la pasin; no temprano en la maana,
+imaginara que Dios llegó en el calor de la pasión; no temprano en la mańana,
 
-como si tuviera prisa de matar, sino al cierre del da pues Dios es magnnimo,
+como si tuviera prisa de matar, sino al cierre del día pues Dios es magnánimo,
 
-tardo para la ira y grande en misericordia; lleg al aire de la tarde, cuando
+tardo para la ira y grande en misericordia; llegó al aire de la tarde, cuando
 
-el sol se estaba poniendo en el ltimo da de gloria del Edn, cuando los
+el sol se estaba poniendo en el último día de gloria del Edén, cuando los
 
-rocos comenzaban a llorar por la miseria del hombre, cuando los suaves vientos
+rocíos comenzaban a llorar por la miseria del hombre, cuando los suaves vientos
 
-con aliento de misericordia soplaban sobre la febril mejilla del miedo; lleg cuando
+con aliento de misericordia soplaban sobre la febril mejilla del miedo; llegó cuando
 
 la tierra estaba callada para que el hombre pudiera meditar y cuando el cielo
 
-estaba encendiendo sus lmparas nocturnas para que el hombre pudiera tener
+estaba encendiendo sus lámparas nocturnas para que el hombre pudiera tener
 
-esperanza en la oscuridad; entonces, y slo hasta entonces, sali el ofendido
+esperanza en la oscuridad; entonces, y sólo hasta entonces, salió el ofendido
 
-Padre. Adn huye y busca evitar a ese mismo Dios con quien se haba reunido
+Padre. Adán huye y busca evitar a ese mismo Dios con quien se había reunido
 
-confiadamente antes y con quien tena la ms dulce comunin, hablando con l
+confiadamente antes y con quien tenía la más dulce comunión, hablando con Él
 
 como un hombre habla con su amigo. Y ahora oigan la voz de Dios cuando llama:
 
-Adn, dnde ests t? Oh!, haba dos verdades en esa corta frase. Mostraba
+“Adán, żdónde estás tú?” ˇOh!, había dos verdades en esa corta frase. Mostraba
 
 que
 
-Adn estaba perdido,
+Adán estaba perdido,
 
 pues de otra
 
-manera Dios no hubiera tenido que preguntarle dnde estaba. Mientras no hayamos
+manera Dios no hubiera tenido que preguntarle dónde estaba. Mientras no hayamos
 
 perdido algo no necesitamos preguntar nada con respecto a eso; pero cuando Dios
 
-dijo: Adn, dnde ests t?, era la voz de un pastor preguntando por su
+dijo: “Adán, żdónde estás tú?”, era la voz de un pastor preguntando por su
 
-oveja perdida; o mejor an, era el grito de un amoroso padre preguntndole a su
+oveja perdida; o mejor aún, era el grito de un amoroso padre preguntándole a su
 
-hijo que ha huido de l: dnde ests t? Slo son tres palabras pero
+hijo que ha huido de él: “żdónde estás tú?” Sólo son tres palabras pero
 
 contienen la terrible doctrina de nuestro estado perdido. Cuando
 
 Dios
 
-pregunta: Dnde ests t?, el
+pregunta: “żDónde estás tú?”, el
 
-hombre tiene que estar perdido. Cuando Dios mismo pregunta dnde est l, el
+hombre tiene que estar perdido. Cuando Dios mismo pregunta dónde está él, el
 
-hombre tiene que estar perdido en un sentido ms espantoso del que ustedes y yo
+hombre tiene que estar perdido en un sentido más espantoso del que ustedes y yo
 
-hayamos conocido plenamente hasta ahora. Pero por otra parte all tambin
+hayamos conocido plenamente hasta ahora. Pero por otra parte allí también
 
-haba misericordia
+había misericordia
 
 pues mostraba que
 
-Dios tena la intencin de tener misericordia del hombre, pues de lo contrario
+Dios tenía la intención de tener misericordia del hombre, pues de lo contrario
 
-habra dejado que permaneciera perdido y no habra preguntado: Dnde ests
+habría dejado que permaneciera perdido y no habría preguntado: “żDónde estás
 
-t? Los hombres no preguntan por aquello que no valoran. Pienso que haba un
+tú?” Los hombres no preguntan por aquello que no valoran. Pienso que había un
 
-sermn evanglico en esas tres divinas palabras cuando penetraron en los densos
+sermón evangélico en esas tres divinas palabras cuando penetraron en los densos
 
-parajes de la espesura y llegaron a los zumbantes odos de los fugitivos:
+parajes de la espesura y llegaron a los zumbantes oídos de los fugitivos:
 
-Dnde ests t? Tu Dios no est dispuesto a perderte. l ha venido para buscarte,
+“żDónde estás tú?” Tu Dios no está dispuesto a perderte. Él ha venido para buscarte,
 
-as como tiene la intencin de venir pronto en la persona de Su Hijo, no slo
+así como tiene la intención de venir pronto en la persona de Su Hijo, no sólo
 
-para buscar sino para salvar lo que ahora est perdido. Dnde ests t,
+para buscar sino para salvar lo que ahora está perdido. “żDónde estás tú,
 
-Adn? Oh, si Dios hubiera tenido la intencin de destruir a la raza habra
+Adán?” Oh, si Dios hubiera tenido la intención de destruir a la raza habría
 
-lanzado su rayo de inmediato y habra quemado los rboles y dejado que las
+lanzado su rayo de inmediato y habría quemado los árboles y dejado que las
 
-cenizas del pecador permanecieran bajo Su airada mirada. Se habra apresurado
+cenizas del pecador permanecieran bajo Su airada mirada. Se habría apresurado
 
-en el torbellino y en la tormenta, y cortando los cedros y los granados de raz
+en el torbellino y en la tormenta, y cortando los cedros y los granados de raíz
 
-habra dicho: Aqu ests t, rebelde; traidor, toma lo que mereces! Que el
+habría dicho: “ˇAquí estás tú, rebelde; traidor, toma lo que mereces! Que el
 
-infierno se abra delante de ti y te engulla para siempre. Pero no, l ama al
+infierno se abra delante de ti y te engulla para siempre”. Pero no, Él ama al
 
 hombre; la criatura le preocupa y por lo tanto pregunta ahora en tonos
 
-tranquilos dnde est: Adn, dnde ests t, dnde ests t?
+tranquilos dónde está: “Adán, żdónde estás tú, dónde estás tú?”
 
-La pregunta que el Seor
+La pregunta que el Seńor
 
-le hizo a Adn puede ser usada de cinco maneras diferentes. No estamos seguros
+le hizo a Adán puede ser usada de cinco maneras diferentes. No estamos seguros
 
-de cul sea el sentido que el Seor quera darle tal vez todos ellos- pues
+de cuál sea el sentido que el Seńor quería darle –tal vez todos ellos- pues
 
-siempre hay en la expresin del Ser Divino una gran profundidad que se oculta
+siempre hay en la expresión del Ser Divino una gran profundidad que se oculta
 
 abajo. Nuestras palabras, si dan un solo sentido, logran su objetivo; pero el
 
-Seor sabe cmo hablar de manera que ensea muchas verdades en pocas palabras.
+Seńor sabe cómo hablar de manera que enseńa muchas verdades en pocas palabras.
 
 Nosotros damos poco en mucho. Dios da mucho en poco. Muchas palabras y poco
 
@@ -308,359 +308,359 @@ sentido: esta es con demasiada frecuencia la regla del lenguaje del hombre.
 
 Pocas palabras y mucho significado: esta es la regla con Dios. Nosotros damos
 
-una lmina de oro batido; Dios da lingotes de oro cuando habla. Nosotros slo
+una lámina de oro batido; Dios da lingotes de oro cuando habla. Nosotros sólo
 
 usamos las limaduras de las joyas; Dios deja caer perlas de Sus labios cada vez
 
-que nos habla; y tal vez tampoco sepamos ni siquiera en la eternidad cun
+que nos habla; y tal vez tampoco sepamos ni siquiera en la eternidad cuán
 
-divinas son las palabras de Dios, cunto se asemejan a l, cun sobremanera
+divinas son las palabras de Dios, cuánto se asemejan a Él, cuán sobremanera
 
-amplias, cun infinitas.
+amplias, cuán infinitas.
 
 I.
 
 Creemos
 
-que la pregunta de Dios estaba dirigida en el SENTIDO DE DESPERTAR: Adn,
+que la pregunta de Dios estaba dirigida en el SENTIDO DE DESPERTAR: “Adán,
 
-dnde ests t? El pecado embrutece a la conciencia y droga a la mente al
+żdónde estás tú?” El pecado embrutece a la conciencia y droga a la mente al
 
-punto de que despus del pecado el hombre no es capaz de entender su peligro
+punto de que después del pecado el hombre no es capaz de entender su peligro
 
-como lo habra entendido antes. El pecado es un veneno que mata a la conciencia
+como lo habría entendido antes. El pecado es un veneno que mata a la conciencia
 
-indoloramente, por mortificacin. Los hombres mueren por el pecado como mueren
+indoloramente, por mortificación. Los hombres mueren por el pecado como mueren
 
-las personas cuando se congelan sobre los Alpes: mueren en un sueo; duermen y
+las personas cuando se congelan sobre los Alpes: mueren en un sueńo; duermen y
 
 duermen y duermen y siguen durmiendo hasta que la muerte cierra la escena y
 
 entonces se despiertan en los tormentos del infierno. Una de las primeras obras
 
-de la gracia en un hombre es hacer a un lado este sueo, es despertarlo de su
+de la gracia en un hombre es hacer a un lado este sueńo, es despertarlo de su
 
 letargo y hacer que abra sus ojos y descubra su peligro. Una de las primeras
 
-acciones del buen mdico es infundir sensibilidad en nuestra carne. Se ha
+acciones del buen médico es infundir sensibilidad en nuestra carne. Se ha
 
-quedado fra y muerta y mortificada; l le infunde vida y entonces hay dolor,
+quedado fría y muerta y mortificada; él le infunde vida y entonces hay dolor,
 
 pero ese mismo dolor tiene un efecto saludable en nosotros. Ahora bien, yo
 
-pienso que esta pregunta del Seor tena la intencin de poner a pensar a Adn.
+pienso que esta pregunta del Seńor tenía la intención de poner a pensar a Adán.
 
-Dnde ests t? l haba percibido en algn grado a qu estado lo haba
+“żDónde estás tú?” Él había percibido en algún grado a qué estado lo había
 
-conducido su pecado, pero esta pregunta tena la intencin de agitar las
+conducido su pecado, pero esta pregunta tenía la intención de agitar las
 
-profundidades de su espritu y despertarlo a un gran sentido de peligro para
+profundidades de su espíritu y despertarlo a un gran sentido de peligro para
 
-hacer que se esforzara por escapar de la ira venidera. Adn, dnde ests
+hacer que se esforzara por escapar de la ira venidera. “Adán, żdónde estás
 
-t?. Mrate ahora, desnudo, siendo un extrao para con tu Dios, temiendo la
+tú?”. Mírate ahora, desnudo, siendo un extrańo para con tu Dios, temiendo la
 
-presencia de tu Hacedor, miserable, arruinado. Adn, dnde ests t? Con un
+presencia de tu Hacedor, miserable, arruinado. “Adán, żdónde estás tú?” Con un
 
-corazn empedernido, con una voluntad rebelde, has cado, cado, cado de tu
+corazón empedernido, con una voluntad rebelde, has caído, caído, caído de tu
 
-excelso estado. Adn, dnde ests t? Perdido! Perdido para tu Dios,
+excelso estado. “Adán, żdónde estás tú?” ˇPerdido! Perdido para tu Dios,
 
 perdido para la felicidad, perdido para la paz, perdido en el tiempo y perdido
 
 en la eternidad.
 
-Pecador, dnde ests
+Pecador, “żdónde estás
 
-t?
+tú?”
 
-Oh, que por las denodadas palabras que voy a expresar ahora pudiera
+ˇOh, que por las denodadas palabras que voy a expresar ahora pudiera
 
-motivar a algn pecador duro y despreocupado a que responda la pregunta por s
+motivar a algún pecador duro y despreocupado a que responda la pregunta por sí
 
-mismo! Amigo, dnde ests t? Dnde ests t esta maana? Te lo digo? Ests
+mismo! Amigo, żdónde estás tú? żDónde estás tú esta mańana? żTe lo digo? Estás
 
-en una condicin en la que tu propia conciencia te condena. Cuntos hay que no
+en una condición en la que tu propia conciencia te condena. ˇCuántos hay que no
 
-se han arrepentido nunca del pecado, que no han credo nunca en Cristo! Yo te
+se han arrepentido nunca del pecado, que no han creído nunca en Cristo! Yo te
 
-pregunto: est tranquila tu conciencia? Est siempre tranquila? No hay
+pregunto: żestá tranquila tu conciencia? żEstá siempre tranquila? żNo hay
 
-algunos momentos cuando se har or la voz tronadora? No hay tiempos cuando el
+algunos momentos cuando se hará oír la voz tronadora? żNo hay tiempos cuando el
 
-atalaya enciende una lmpara y escudria las partes secretas de tu alma y
+atalaya enciende una lámpara y escudrińa las partes secretas de tu alma y
 
-descubre tu iniquidad? Dnde ests t, entonces?, pues la conciencia es para
+descubre tu iniquidad? żDónde estás tú, entonces?, pues la conciencia es para
 
 Dios lo que el anzuelo es para el pescador. Conciencia, como el anzuelo de Dios,
 
-est hoy en tus mandbulas y slo tiene que recoger el hilo y estars en el
+está hoy en tus mandíbulas y sólo tiene que recoger el hilo y estarás en el
 
-fuego consumidor. Si bien la conciencia hace que te duelas, la justicia ser
+fuego consumidor. Si bien la conciencia hace que te duelas, la justicia será
 
-mucho ms severa contigo que tu pobre e imperfecta conciencia. Si tu corazn te
+mucho más severa contigo que tu pobre e imperfecta conciencia. Si tu corazón te
 
-condena, Dios es ms grande que tu corazn y sabe todas las cosas. Tu
+condena, Dios es más grande que tu corazón y sabe todas las cosas. ˇTu
 
-conciencia te dice que ests mal; oh, entonces, cun mal debes estar!
+conciencia te dice que estás mal; oh, entonces, cuán mal debes estar!
 
-Pero amigo, no sabes
+Pero amigo, żno sabes
 
-que t eres un extrao para tu Dios? Muchos de ustedes raramente piensan en l.
+que tú eres un extrańo para tu Dios? Muchos de ustedes raramente piensan en Él.
 
-Pueden pasar das y semanas sin una mencin de Su nombre, excepto, tal vez, en
+Pueden pasar días y semanas sin una mención de Su nombre, excepto, tal vez, en
 
-algn lenguaje trivial o en un juramento. No puedes vivir sin un amigo, pero
+algún lenguaje trivial o en un juramento. No puedes vivir sin un amigo, pero
 
-puedes vivir sin tu Dios. Comes, bebes, ests satisfecho; el mundo te basta;
+puedes vivir sin tu Dios. Comes, bebes, estás satisfecho; el mundo te basta;
 
-sus placeres fugaces satisfacen tu espritu. Si vieras a Dios aqu, huiras de
+sus placeres fugaces satisfacen tu espíritu. Si vieras a Dios aquí, huirías de
 
-l; t eres Su enemigo. Oh!, es esta la situacin correcta para una criatura?
+Él; tú eres Su enemigo. ˇOh!, żes esta la situación correcta para una criatura?
 
-Que llegue a ti la pregunta: Dnde ests t? Acaso no debe de estar en una
+Que llegue a ti la pregunta: “żDónde estás tú?” żAcaso no debe de estar en una
 
-posicin deplorable esa criatura que tiene miedo de su Creador? T fuiste
+posición deplorable esa criatura que tiene miedo de su Creador? Tú fuiste
 
 creado para glorificarle; fuiste hecho para que te regocijaras en Su presencia
 
 y para deleitarte en Su benevolencia, pero parece que no te gusta el propio
 
-alimento que est destinado a sustentarte. Debes de estar enfermo; ciertamente
+alimento que está destinado a sustentarte. ˇDebes de estar enfermo; ciertamente
 
-debes de estar enfermo! Dnde ests t? Recuerda que el Dios Todopoderoso
+debes de estar enfermo! “żDónde estás tú?” Recuerda que el Dios Todopoderoso
 
-est airado contigo. Sus mandamientos, como tantas armas cargadas de plvora hasta
+está airado contigo. Sus mandamientos, como tantas armas cargadas de pólvora hasta
 
-el propio can, estn todas apuntando contra ti esta maana y slo se necesita
+el propio cańón, están todas apuntando contra ti esta mańana y sólo se necesita
 
-el dedo en alto del Ser Divino, y pronto te destruirn y te destrozarn. Estara
+el dedo en alto del Ser Divino, y pronto te destruirán y te destrozarán. żEstaría
 
-cmodo un hombre con su cuello sobre el bloque de la de decapitacin y el hacha
+cómodo un hombre con su cuello sobre el bloque de la de decapitación y el hacha
 
-brillando sobre su cabeza? Ese es tu caso hoy. T ests en la posicin del
+brillando sobre su cabeza? Ese es tu caso hoy. Tú estás en la posición del
 
-cortesano en la fiesta de Dionisio, con la espada sobre tu cabeza que est
+cortesano en la fiesta de Dionisio, con la espada sobre tu cabeza que está
 
-sostenida por un solo cabello. Ya condenado!! Dios est airado contra el
+sostenida por un solo cabello. ˇˇYa condenado!! “Dios está airado contra el
 
-impo todos los das. Si no se arrepiente, l afilar su espada; armado tiene
+impío todos los días”. “Si no se arrepiente, él afilará su espada; armado tiene
 
-ya su arco, y lo ha preparado. Dnde ests t, hombre? Oh Dios, ayuda al
+ya su arco, y lo ha preparado”. żDónde estás tú, hombre? ˇOh Dios, ayuda al
 
-hombre para que vea dnde est! Abre sus ojos; que la pregunta lo asuste. Que
+hombre para que vea dónde está! Abre sus ojos; que la pregunta lo asuste. Que
 
-se sobresalte en su sueo, s, que se despierte y descubra dnde est: siendo
+se sobresalte en su sueńo, sí, que se despierte y descubra dónde está: ˇsiendo
 
 aborrecible para Tu ira y siendo el objeto de Tu ardiente disgusto!
 
-Dnde ests t? Tu
+“żDónde estás tú?” Tu
 
-vida es frgil; nada puede ser ms dbil. El hilo de una telaraa es un slido
+vida es frágil; nada puede ser más débil. El hilo de una telarańa es un sólido
 
-cable comparado con el hilo de tu vida. Los sueos son obras sustanciales de
+cable comparado con el hilo de tu vida. Los sueńos son obras sustanciales de
 
-estructuras de piedra comparados con la burbuja que constituye tu ser. T ests
+estructuras de piedra comparados con la burbuja que constituye tu ser. Tú estás
 
-aqu y te vas. T ests sentado aqu hoy; antes de que pase otra semana podras
+aquí y te vas. Tú estás sentado aquí hoy; antes de que pase otra semana podrías
 
-estar aullando en otro mundo. Oh, dnde ests t, hombre? Permaneces sin ser
+estar aullando en otro mundo. Oh, żdónde estás tú, hombre? ˇPermaneces sin ser
 
-perdonado, y sin embargo, eres un hombre moribundo! Condenado, y sin embargo
+perdonado, y sin embargo, eres un hombre moribundo! ˇCondenado, y sin embargo
 
-vas despreocupadamente hacia la destruccin! Cubierto de pecado, y sin embargo,
+vas despreocupadamente hacia la destrucción! ˇCubierto de pecado, y sin embargo,
 
-te apresuras hacia el terrible tribunal de tu Juez! Perdido aqu, pero volando
+te apresuras hacia el terrible tribunal de tu Juez! ˇPerdido aquí, pero volando
 
-aprisa: cada momento te lleva sobre alas de guila al lugar donde estars
+aprisa: cada momento te lleva sobre alas de águila al lugar donde estarás
 
-perdido eternamente! Cun difcil es que seamos conducidos a conocernos a
+perdido eternamente! ˇCuán difícil es que seamos conducidos a conocernos a
 
 nosotros mismos! En otros asuntos, si un hombre estuviera un poco enfermo
 
-buscara a su doctor y sabra cul es su condicin; pero aqu un hombre dice:
+buscaría a su doctor y sabría cuál es su condición; pero aquí un hombre dice:
 
-Paz, paz, deja que las cosas sigan como estn. Si tenemos miedo de que nuestras
+“Paz, paz, deja que las cosas sigan como están”. Si tenemos miedo de que nuestras
 
-propiedades personales estn en algn peligro experimentamos noches ansiosas y
+propiedades personales estén en algún peligro experimentamos noches ansiosas y
 
-das fatigosos; oh, pero con nuestras almas, con nuestras pobres, pobres almas,
+días fatigosos; ˇoh, pero con nuestras almas, con nuestras pobres, pobres almas,
 
 jugamos con ellas como si fueran fichas sin valor o trozos de platos que un
 
-nio podra recoger en las calles y tirar lejos! Pecador! Pecador! Pecador!,
+nińo podría recoger en las calles y tirar lejos! ˇPecador! ˇPecador! ˇPecador!,
 
-es tu alma una chuchera tan pobre que puedes darte el lujo de perderla porque
+żes tu alma una chuchería tan pobre que puedes darte el lujo de perderla porque
 
-no vas a interrumpir tu descanso ni a detener tus sueos placenteros? Oh, si el
+no vas a interrumpir tu descanso ni a detener tus sueńos placenteros? Oh, si el
 
-corazn de un hermano puede conmover tu corazn y si la voz de un hermano puede
+corazón de un hermano puede conmover tu corazón y si la voz de un hermano puede
 
-despertar tus ojos dormidos, yo te dira: Qu tienes, dormiln? Levntate, y
+despertar tus ojos dormidos, yo te diría: “żQué tienes, dormilón? ˇLevántate, y
 
-clama a tu Dios! Despierta! Por qu duermes? Despierta para responder a la
+clama a tu Dios! ˇDespierta! żPor qué duermes? Despierta para responder a la
 
-pregunta: Dnde ests t? Perdido, arruinado, acabado! Oh pecador, dnde
+pregunta: ‘żDónde estás tú?’ ˇPerdido, arruinado, acabado! Oh pecador, żdónde
 
-ests t?
+estás tú?”
 
 II.
 
 Ahora,
 
-en segundo lugar, la pregunta tena la intencin de CONVENCER DE PECADO y de conducir
+en segundo lugar, la pregunta tenía la intención de CONVENCER DE PECADO y de conducir
 
-a una confesin. Si el corazn de Adn hubiera estado en el estado correcto,
+a una confesión. Si el corazón de Adán hubiera estado en el estado correcto,
 
-habra hecho una plena confesin de su pecaminosidad. Dnde ests t? Oigamos
+habría hecho una plena confesión de su pecaminosidad. “żDónde estás tú?” Oigamos
 
-la voz de Dios dicindonos eso a nosotros si estamos hoy sin Dios y sin Cristo.
+la voz de Dios diciéndonos eso a nosotros si estamos hoy sin Dios y sin Cristo.
 
-Dnde ests t, Adn? Yo te hice a mi propia imagen, te hice un poco menor
+“żDónde estás tú, Adán?” Yo te hice a mi propia imagen, te hice un poco menor
 
-que los ngeles; te hice para que tuvieses dominio sobre las obras de mis
+que los ángeles; te hice para que tuvieses dominio sobre las obras de mis
 
-manos; sujet todo bajo tus pies: las aves del cielo y los peces del mar, y
+manos; sujeté todo bajo tus pies: las aves del cielo y los peces del mar, y
 
 todo cuanto pasa por las profundidades del mar. Te di todo este huerto de
 
-deleites para que fuese tu hogar. Te honr con mi presencia, pens en tu
+deleites para que fuese tu hogar. Te honré con mi presencia, pensé en tu
 
-bienestar y me anticip a todos tus deseos. La luna no te haca dao en la
+bienestar y me anticipé a todos tus deseos. La luna no te hacía dańo en la
 
-noche; el sol no te hera de da. Moder los vientos por ti; vest los rboles
+noche; el sol no te hería de día. Moderé los vientos por ti; vestí los árboles
 
 de fruto para que te sirviese de alimento. Hice que todas las cosas ministraran
 
-a tu felicidad. Dnde ests t? Slo te ped esa pequea cosa: que no tocaras
+a tu felicidad. żDónde estás tú? Sólo te pedí esa pequeńa cosa: que no tocaras
 
-un rbol que yo haba reservado para m. Dnde ests t? Ests en el lugar de
+un árbol que yo había reservado para mí. żDónde estás tú? żEstás en el lugar de
 
-un ladrn, de un rebelde, de un traidor? Has pecado? Oh Adn, dnde ests
+un ladrón, de un rebelde, de un traidor? żHas pecado? Oh Adán, żdónde estás
 
-t?
+tú?”
 
-Y ahora, pecador, yeme.
+Y ahora, pecador, óyeme.
 
-Dnde ests t? A muchos de ustedes el Seor podra decirles: Te di una
+“żDónde estás tú?” A muchos de ustedes el Seńor podría decirles: “Te di una
 
-madre piadosa que lloraba por ti en tu niez. Te di un padre santo que anhelaba
+madre piadosa que lloraba por ti en tu nińez. Te di un padre santo que anhelaba
 
-tu conversin. Te di los dones de
+tu conversión. Te di los dones de
 
 la Providencia
 
-: nunca te quedaste sin comer. Cubr
+: nunca te quedaste sin comer. Cubrí
 
-tu espalda. Te puse en una confortable posicin en la vida. Te levant de un
+tu espalda. Te puse en una confortable posición en la vida. Te levanté de un
 
-lecho de enfermo. Pas por alto diez mil locuras. Mis misericordias han fluido
+lecho de enfermo. Pasé por alto diez mil locuras. Mis misericordias han fluido
 
-hacia ti como un ro. Cuando abriste los ojos en la maana fue para mirar mi
+hacia ti como un río. Cuando abriste los ojos en la mańana fue para mirar mi
 
-benevolencia, y hasta el ltimo momento de la noche yo fui tu ayudador y corr
+benevolencia, y hasta el último momento de la noche yo fui tu ayudador y corrí
 
 las cortinas alrededor de tu cabeza indefensa. Te he cubierto con mis plumas, bajo
 
-mis alas t has confiado, y ahora
+mis alas tú has confiado, y ahora
 
-dnde
+żdónde
 
-ests t?
+estás tú?
 
-Acaso no has olvidado mis mandamientos, no has aborrecido mi
+żAcaso no has olvidado mis mandamientos, no has aborrecido mi
 
-persona, no has quebrantado mis leyes y no has rechazado a mi Hijo? No eres en
+persona, no has quebrantado mis leyes y no has rechazado a mi Hijo? żNo eres en
 
-este da un incrdulo que te contentas con confiar en tus propias obras y no
+este día un incrédulo que te contentas con confiar en tus propias obras y no
 
-quieres tomar la justicia acabada de mi amado Hijo, el Salvador del mundo? Qu
+quieres tomar la justicia acabada de mi amado Hijo, el Salvador del mundo? żQué
 
-has hecho t por Aquel que ha hecho tanto por ti? Qu eres t? No has sido
+has hecho tú por Aquel que ha hecho tanto por ti? żQué eres tú? żNo has sido
 
-una tierra intil, un rbol que chupa la tierra pero que no da fruto, que bebe
+una tierra inútil, un árbol que chupa la tierra pero que no da fruto, que bebe
 
-de la lluvia benfica del cielo, pero que no produce ningn fruto grato? Dnde
+de la lluvia benéfica del cielo, pero que no produce ningún fruto grato? żDónde
 
-ests t? No ests hoy en el campamento de mi enemigo? No ests del lado de
+estás tú? żNo estás hoy en el campamento de mi enemigo? żNo estás del lado de
 
-Satans, desafindome y alzando el brazo enclenque de tu rebelin contra el
+Satanás, desafiándome y alzando el brazo enclenque de tu rebelión contra el
 
-Seor que te hizo y que mantiene el aliento en tus narices, en cuya mano est
+Seńor que te hizo y que mantiene el aliento en tus narices, en cuya mano está
 
-tu vida, y cuyos son todos tus caminos? Pecador, dnde ests t? Despus de
+tu vida, y cuyos son todos tus caminos? Pecador, żdónde estás tú? ˇDespués de
 
-toda la benevolencia de Dios: todava eres un pecador!
+toda la benevolencia de Dios: todavía eres un pecador!”
 
-As, lean de nuevo la
+Así, lean de nuevo la
 
-pregunta: Dnde ests t? La serpiente dijo que deberas ser un dios. Pensaste
+pregunta: “żDónde estás tú?” La serpiente dijo que deberías ser un dios. Pensaste
 
-que llegaras a ser sobremanera glorioso. Es as, Adn? Es as? Dnde est
+que llegarías a ser sobremanera glorioso. żEs así, Adán? żEs así? żDónde está
 
-tu alardeado conocimiento? Dnde estn los honores? Dnde estn los vastos
+tu alardeado conocimiento? żDónde están los honores? żDónde están los vastos
 
-logros que la rebelin te traera? En vez de las ropas de los ngeles, ests
+logros que la rebelión te traería? En vez de las ropas de los ángeles, estás
 
-desnudo; en vez de la gloria, tienes vergenza; en vez de un ascenso, tienes
+desnudo; en vez de la gloria, tienes vergüenza; en vez de un ascenso, tienes
 
-ignominia. Adn, dnde ests t? Y pecador, dnde ests
+ignominia. Adán, żdónde estás tú? Y pecador, żdónde estás
 
-t?
+tú?
 
 El pecado te dijo: te voy a dar placer y lo has tenido, pero
 
-qu hay del dolor que sigui al placer? El pecado te dio la copa llena de vino
+żqué hay del dolor que siguió al placer? El pecado te dio la copa llena de vino
 
-mezclado; pero qu hay de lo amoratado de los ojos y del dolor? El pecado te
+mezclado; pero żqué hay de lo amoratado de los ojos y del dolor? El pecado te
 
-dijo: te voy a hacer grande; pero qu ha hecho por ti? Borracho, qu ha hecho
+dijo: “te voy a hacer grande”; pero żqué ha hecho por ti? Borracho, żqué ha hecho
 
-por ti? Te ha dado andrajos y pobreza. Adltero, fornicador, qu ha hecho por
+por ti? Te ha dado andrajos y pobreza. Adúltero, fornicador, żqué ha hecho por
 
-ti? Llen tu carne de lepra y tu alma de agona. Ladrn! Tramposo! Qu ha
+ti? Llenó tu carne de lepra y tu alma de agonía. ˇLadrón! ˇTramposo! żQué ha
 
 hecho por ti? Te ha deshonrado y te ha marcado con un hierro candente ante los
 
-ojos de los hombres. Pecador en secreto! Pecador afable! Qu ha hecho por
+ojos de los hombres. ˇPecador en secreto! ˇPecador afable! żQué ha hecho por
 
-ti? Amarg tus dulzuras y envenen todos tus gozos. Dnde ests t; dnde
+ti? Amargó tus dulzuras y envenenó todos tus gozos. żDónde estás tú; dónde
 
-ests t? En cada caso el pecado ha sido un mentiroso, y sin excepcin, la
+estás tú? En cada caso el pecado ha sido un mentiroso, y sin excepción, la
 
-rebelin, si bien no ha trado todava lo que se merece, lo har, y de sus
+rebelión, si bien no ha traído todavía lo que se merece, lo hará, y de sus
 
-caminos sern hastiados los pecadores.
+caminos serán hastiados los pecadores.
 
 Y luego, para agregar a
 
-la conviccin, el Seor le pregunta a Adn: Dnde ests t?, como si le
+la convicción, el Seńor le pregunta a Adán: “żDónde estás tú?”, como si le
 
-preguntara: Cmo llegaste all?. Adn, t llegaste all por ti mismo. Si
+preguntara: “żCómo llegaste allí?”. Adán, tú llegaste allí por ti mismo. Si
 
-hubieses actuado rectamente, Eva no te habra derribado. Eva, no era la
+hubieses actuado rectamente, Eva no te habría derribado. Eva, no era la
 
-serpiente la principal culpable; si t no la hubieras escuchado, si hubieses
+serpiente la principal culpable; si tú no la hubieras escuchado, si hubieses
 
-sido sorda a sus insinuaciones, podra haber tentado durante largo tiempo sin
+sido sorda a sus insinuaciones, podría haber tentado durante largo tiempo sin
 
-xito. Y as hoy Dios le pregunta al pecador: Dnde ests t? T ests
+éxito. Y así hoy Dios le pregunta al pecador: “żDónde estás tú?” Tú estás
 
-adonde t mismo te has llevado. Haber pecado es tu propia culpa y de nadie ms,
+adonde tú mismo te has llevado. Haber pecado es tu propia culpa y de nadie más,
 
-sino tuya. Oh, es difcil hacer ver a un pecador que el pecado es algo que le
+sino tuya. Oh, es difícil hacer ver a un pecador que el pecado es algo que le
 
-pertenece. Es lo nico que tenemos. Slo hay una cosa que nosotros creamos y es
+pertenece. Es lo único que tenemos. Sólo hay una cosa que nosotros creamos y es
 
 el pecado, y es propiedad nuestra. Si yo permito cualquier cosa que sea mala,
 
-debo confesarla como un hijo que ha surgido de mis propias entraas, como algo
+debo confesarla como un hijo que ha surgido de mis propias entrańas, como algo
 
-que tiene su origen en m mismo. Si hablamos de la cada, los hombres arrojan
+que tiene su origen en mí mismo. Si hablamos de la caída, los hombres arrojan
 
-su pecado sobre el padre Adn. Hablan de la depravacin de la naturaleza y
+su pecado sobre el padre Adán. Hablan de la depravación de la naturaleza y
 
-luego piensan que deben ser excusados como si la depravacin de la naturaleza
+luego piensan que deben ser excusados como si la depravación de la naturaleza
 
 no demostrara que el hombre es desesperadamente malo, como si no aceptaran que
 
@@ -668,31 +668,31 @@ el pecado es esencialmente algo propio del hombre, que lo tiene en sus propios
 
 huesos y que es su propia sangre. Si somos pecadores no hay ninguna excusa para
 
-nosotros de ningn tipo, y si vivimos y morimos sindolo, la culpa yacer a
+nosotros de ningún tipo, y si vivimos y morimos siéndolo, la culpa yacerá a
 
-nuestra propia puerta y no en ninguna otra parte. Adn, dnde ests t? T
+nuestra propia puerta y no en ninguna otra parte. “Adán, żdónde estás tú?” Tú
 
-ests donde te has colocado voluntariamente y donde permaneces voluntariamente
+estás donde te has colocado voluntariamente y donde permaneces voluntariamente
 
-en el mismo estado desesperado de rebelin contra Dios y de enajenacin de l.
+en el mismo estado desesperado de rebelión contra Dios y de enajenación de Él.
 
 Quiera Dios que haya
 
-algo que no slo despierte al pecador esta maana, sino que obre conviccin en
+algo que no sólo despierte al pecador esta mańana, sino que obre convicción en
 
-l. Es ms fcil hacer que un hombre se sobresalte en su sueo que hacer que se
+él. Es más fácil hacer que un hombre se sobresalte en su sueńo que hacer que se
 
 levante y queme el despreciable lecho en el cual dormitaba, y esto es lo que el
 
-pecador tiene que hacer, y lo que har si Dios est obrando en l. Se despertar
+pecador tiene que hacer, y lo que hará si Dios está obrando en él. Se despertará
 
-y se descubrir perdido; la conviccin le dar la conciencia de que se ha
+y se descubrirá perdido; la convicción le dará la conciencia de que se ha
 
-destruido a s mismo y entonces odiar los pecados que antes amaba, huir de
+destruido a sí mismo y entonces odiará los pecados que antes amaba, huirá de
 
-sus falsos refugios, abandonar sus goces y buscar encontrar una salvacin
+sus falsos refugios, abandonará sus goces y buscará encontrar una salvación
 
-permanente en el nico lugar donde puede encontrarse: en la sangre de Cristo.
+permanente en el único lugar donde puede encontrarse: en la sangre de Cristo.
 
 III.
 
@@ -700,7 +700,7 @@ Esto
 
 me lleva a la tercera manera en que podemos considerar la pregunta del texto.
 
-El Seor Dios llam a Adn, y le dijo: Dnde ests t? Podemos considerar
+El Seńor Dios llamó a Adán, y le dijo: “żDónde estás tú?” Podemos considerar
 
 este texto como
 
@@ -712,7 +712,7 @@ DIOS
 
 LAMENTANDO
 
-LA CONDICIN
+LA CONDICIÓN
 
 PERDIDA
 
@@ -720,165 +720,165 @@ DEL HOMBRE.
 
 Algunos se han
 
-aventurado incluso a traducir el texto hebreo as: Ay de ti, ay de ti! Es
+aventurado incluso a traducir el texto hebreo así: “ˇAy de ti, ay de ti!” Es
 
-como si Dios expresara las palabras del profeta: Cmo podr abandonarte? Te
+como si Dios expresara las palabras del profeta: “żCómo podré abandonarte…? żTe
 
-entregar yo? Cmo podr yo hacerte como Adma, o ponerte como a Zeboim? Mi
+entregaré yo…? żCómo podré yo hacerte como Adma, o ponerte como a Zeboim? Mi
 
-corazn se conmueve dentro de m, se inflama toda mi compasin. Dnde ests t
+corazón se conmueve dentro de mí, se inflama toda mi compasión. żDónde estás tú
 
-ahora, mi pobre Adn? T hablabas conmigo, pero ahora has huido de M. Fuiste
+ahora, mi pobre Adán? Tú hablabas conmigo, pero ahora has huido de Mí. Fuiste
 
-feliz una vez, cmo ests ahora? Desnudo y pobre y miserable. Una vez fuiste
+feliz una vez, żcómo estás ahora? Desnudo y pobre y miserable. Una vez fuiste
 
-glorioso a imagen Ma, inmortal, bendito, dnde ests ahora, pobre Adn? Mi
+glorioso a imagen Mía, inmortal, bendito, żdónde estás ahora, pobre Adán? Mi
 
 imagen ha quedado desfigurada en ti, el rostro de tu propio Padre ha sido
 
-retirado, y t te has hecho terrenal, sensual, diablico. Dnde ests ahora,
+retirado, y tú te has hecho terrenal, sensual, diabólico. żDónde estás ahora,
 
-pobre Adn? Oh, es maravilloso pensar cmo sinti el Seor por el pobre Adn. Todos
+pobre Adán?” Oh, es maravilloso pensar cómo sintió el Seńor por el pobre Adán. Todos
 
-los telogos dan por sentado que Dios no puede sentir ni sufrir. No hay tal
+los teólogos dan por sentado que Dios no puede sentir ni sufrir. No hay tal
 
 cosa en
 
 la Palabra
 
-de Dios. Si pudiera decirse que Dios no podra hacer cualquier cosa y todas las
+de Dios. Si pudiera decirse que Dios no podría hacer cualquier cosa y todas las
 
-cosas, diramos que no es omnipotente, pero l puede hacer todas las cosas, y
+cosas, diríamos que no es omnipotente, pero Él puede hacer todas las cosas, y
 
 no tenemos un Dios que no pueda ser conmovido, sino que tenemos un Dios que
 
-siente y que se describe a S mismo, en lenguaje humano, como teniendo las
+siente y que se describe a Sí mismo, en lenguaje humano, como teniendo las
 
-entraas de un padre y toda la ternura del corazn de una madre. Tal como un
+entrańas de un padre y toda la ternura del corazón de una madre. Tal como un
 
-padre llora por un hijo rebelde, as dice el Padre eterno: Pobre Adn, dnde
+padre llora por un hijo rebelde, así dice el Padre eterno: “Pobre Adán, żdónde
 
-ests t?
+estás tú?”
 
-Y ahora, hay aqu esta
+Y ahora, żhay aquí esta
 
-maana algn alma en quien la primera parte del texto ha tenido algn efecto? Sientes
+mańana algún alma en quien la primera parte del texto ha tenido algún efecto? żSientes
 
-que ests perdido y disciernes que esta condicin de perdicin es el resultado
+que estás perdido y disciernes que esta condición de perdición es el resultado
 
-de tu propia y terca necedad? Te lamentas t mismo? Ah, entonces Dios lamenta
+de tu propia y terca necedad? żTe lamentas tú mismo? Ah, entonces Dios lamenta
 
-por ti. l est mirndote desde lo alto y est diciendo: Ah, pobre borracho,
+por ti. Él está mirándote desde lo alto y está diciendo: “Ah, pobre borracho,
 
-por qu te aferras a tus copas? A qu miseria te han llevado! l te est
+żpor qué te aferras a tus copas? ˇA qué miseria te han llevado!” Él te está
 
-diciendo a ti que lloras ahora por tu pecado: Ah, pobre hijo, qu dolor
+diciendo a ti que lloras ahora por tu pecado: “ˇAh, pobre hijo, qué dolor
 
-sufres por tu propia terca necedad! Se conmueven las entraas de un padre. l
+sufres por tu propia terca necedad!” Se conmueven las entrańas de un padre. Él
 
-anhela estrechar a su Efran contra su pecho. No pienses, pecador, que Dios
+anhela estrechar a su Efraín contra su pecho. No pienses, pecador, que Dios
 
-tiene un corazn de piedra.
+tiene un corazón de piedra.
 
-T
+Tú
 
 tienes
 
-un corazn de piedra, pero Dios no. No pienses que l es lento para conmoverse:
+un corazón de piedra, pero Dios no. No pienses que Él es lento para conmoverse:
 
-t
+tú
 
 eres lento para conmoverte,
 
-l
+Él
 
-no lo es; la dureza est en ti mismo.
+no lo es; la dureza está en ti mismo.
 
-Si ests en estrechez en cualquier parte, es en tus propias entraas, no en l.
+Si estás en estrechez en cualquier parte, es en tus propias entrańas, no en Él.
 
-Alma, alma convicta de pecado! Dios te ama, y para demostrar cmo te ama, en
+ˇAlma, alma convicta de pecado! Dios te ama, y para demostrar cómo te ama, en
 
-la persona de Su Hijo llora por ti y clama: Oh, si tambin t conocieses, a
+la persona de Su Hijo llora por ti y clama: “ˇOh, si también tú conocieses, a
 
-lo menos en este tu da, lo que es para tu paz! Mas ahora est encubierto de
+lo menos en este tu día, lo que es para tu paz! Mas ahora está encubierto de
 
-tus ojos. Oigo que te dice: Jerusaln, Jerusaln! Cuntas veces quise
+tus ojos”. Oigo que te dice: “ˇJerusalén, Jerusalén! ˇCuántas veces quise
 
 juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y
 
-no quisiste! Yo les ruego que esta lgubre voz de lamento del Eterno Dios
+no quisiste!” ˇYo les ruego que esta lúgubre voz de lamento del Eterno Dios
 
-llegue a sus odos y los mueva al arrepentimiento! Vivo yo, dice Jehov el
+llegue a sus oídos y los mueva al arrepentimiento! “Vivo yo, dice Jehová el
 
-Seor, que no quiero la muerte del impo, sino que se vuelva el impo de su
+Seńor, que no quiero la muerte del impío, sino que se vuelva el impío de su
 
-camino, y que viva. Oh!, se siente tu corazn a punto de estallar debido a
+camino, y que viva”. ˇOh!, żse siente tu corazón a punto de estallar debido a
 
-tu pecado y a la miseria en la que te ha sumido? Di, pobre pecador: Me
+tu pecado y a la miseria en la que te ha sumido? Di, pobre pecador: “Me
 
-levantar e ir a mi padre, y le dir: Padre, he pecado contra el cielo y
+levantaré e iré a mi padre, y le diré: Padre, he pecado contra el cielo y
 
-contra ti. Yo no soy digno de ser llamado tu hijo. l te ve a ti, pecador;
+contra ti. Yo no soy digno de ser llamado tu hijo”. Él te ve a ti, pecador;
 
-cuando todava te encuentras a una gran distancia, l te ve: aqu vemos
+cuando todavía te encuentras a una gran distancia, ˇÉl te ve: aquí vemos
 
 ojos
 
-de misericordia! l corre: aqu
+de misericordia! ˇÉl corre: aquí
 
 vemos
 
 pies
 
-de misericordia! l te
+de misericordia! ˇÉl te
 
-abraza: aqu vemos
+abraza: aquí vemos
 
 brazos
 
 de
 
-misericordia! l te besa: aqu vemos
+misericordia! ˇÉl te besa: aquí vemos
 
 labios
 
-de misericordia! Les dice: Qutenle los harapos; aqu hay
+de misericordia! ˇLes dice: “Quítenle los harapos”; aquí hay
 
 palabras
 
-de misericordia! l te viste:
+de misericordia! ˇÉl te viste:
 
-aqu hay
+aquí hay
 
 actos
 
 de misericordia!
 
-Prodigios de misericordia: todo es misericordia! Oh, si supieras qu recepcin
+ˇProdigios de misericordia: todo es misericordia! Oh, si supieras qué recepción
 
-les da a los pecadores un Dios de misericordia, no te demoraras en ir. Como
+les da a los pecadores un Dios de misericordia, no te demorarías en ir. Como
 
 dice John Bunyan, cuando el sitiador hace ondear la bandera negra, entonces los
 
-que estn dentro de los muros dicen que pelearn; pero cuando ondea la bandera
+que están dentro de los muros dicen que pelearán; pero cuando ondea la bandera
 
-blanca y les dice que si abren las puertas tendr misericordia de ellos, es
+blanca y les dice que si abren las puertas tendrá misericordia de ellos, es
 
-ms, que dar un fuero a su ciudad, entonces Bunyan declara que ellos dicen:
+más, que dará un fuero a su ciudad, entonces Bunyan declara que ellos dicen:
 
-abran las puertas de par en par, y vienen tropezndose sobre los muros en la disposicin
+“abran las puertas de par en par”, y vienen tropezándose sobre los muros en la disposición
 
-de sus corazones. Alma, no dejes que Satans te engae dicindote que Dios es
+de sus corazones. ˇAlma, no dejes que Satanás te engańe diciéndote que Dios es
 
-duro, poco amable y que no est dispuesto a perdonar! Prubalo, prubalo tal
+duro, poco amable y que no está dispuesto a perdonar! ˇPruébalo, pruébalo tal
 
-como t ests: negro, inmundo, autocondenado!; y si necesitas algo que te
+como tú estás: negro, inmundo, autocondenado!; y si necesitas algo que te
 
 motive a probarlo, escucha de nuevo el llanto lastimero al tiempo que resuena a
 
-travs de los rboles del Edn: Adn, pobre Adn, mi propia criatura, dnde,
+través de los árboles del Edén: “Adán, pobre Adán, mi propia criatura, żdónde,
 
-dnde ests t?
+dónde estás tú?”
 
 IV.
 
@@ -886,95 +886,95 @@ Pero
 
 ahora, para contar con el tiempo suficiente, debo referirme a un cuarto
 
-propsito que sin duda tena este versculo. Es una voz despertadora, una voz que
+propósito que sin duda tenía este versículo. Es una voz despertadora, una voz que
 
-produce conviccin, una voz de lamento, pero en cuarto lugar, es una VOZ
+produce convicción, una voz de lamento, pero en cuarto lugar, es una VOZ
 
-BUSCADORA. Adn, dnde ests t? He venido para encontrarte en donde quiera
+BUSCADORA. “Adán, żdónde estás tú?” He venido para encontrarte en donde quiera
 
-que ests. Voy a buscarte hasta que los ojos de mi piedad te vean, voy a
+que estés. Voy a buscarte hasta que los ojos de mi piedad te vean, voy a
 
 seguirte hasta que la mano de mi misericordia te alcance; voy a sostenerte
 
-todava hasta llevarte de regreso conmigo y reconciliarte con mi corazn.
+todavía hasta llevarte de regreso conmigo y reconciliarte con mi corazón.
 
-Adems, si han sido
+Además, si han sido
 
 capaces de seguirme a lo largo de las tres partes del discurso, puedo hablarles
 
 confiadamente. Si han sido despertados, si han sido convictos, si tienen
 
-algunos anhelos de Dios, entonces el Seor ha salido a buscarlos y a buscarlos
+algunos anhelos de Dios, entonces el Seńor ha salido a buscarlos y a buscarlos
 
-esta maana. Qu pensamiento es este, que cuando Dios llega para buscar a Sus
+esta mańana. Qué pensamiento es este, que cuando Dios llega para buscar a Sus
 
-escogidos l sabe dnde estn y nunca se le pierden; y aunque se hubieran
+escogidos Él sabe dónde están y nunca se le pierden; y aunque se hubieran
 
-descarriado lo ms lejos posible, con todo, no es demasiado lejos para l. Si
+descarriado lo más lejos posible, con todo, no es demasiado lejos para Él. Si
 
 hubieran llegado hasta las puertas del infierno y las puertas estuviesen medio
 
-abiertas para recibirlos, el Seor los encontrara aun all. Si hubieran pecado
+abiertas para recibirlos, el Seńor los encontraría aun allí. Si hubieran pecado
 
 de tal manera que se hubieran rendido y todo cristiano viviente los hubiera
 
-considerado perdidos tambin, si Satans ya hubiera contado con ellos y se
+considerado perdidos también, si Satanás ya hubiera contado con ellos y se
 
 hubiera preparado para recibirlos, con todo, cuando Dios llega para buscarlos,
 
-los encontrar, y se quedar con ellos despus de todo. Pecadores que perecen,
+los encontrará, y se quedará con ellos después de todo. Pecadores que perecen,
 
-ustedes que estn perdidos, oigan la voz de Dios que les habla. Dnde ests t?,
+ustedes que están perdidos, oigan la voz de Dios que les habla. “żDónde estás tú?”,
 
-pues he venido para buscarte. Seor, yo estoy en un lugar tal que no puedo
+pues he venido para buscarte. “Seńor, yo estoy en un lugar tal que no puedo
 
-hacer nada por m mismo. Entonces yo he venido para buscarte y hacer todo por
+hacer nada por mí mismo”. “Entonces yo he venido para buscarte y hacer todo por
 
-ti. Seor, me encuentro en un lugar tal que la ley me amenaza y la justicia
+ti”. “Seńor, me encuentro en un lugar tal que la ley me amenaza y la justicia
 
-me frunce el ceo. He venido para responder a las amenazas de la ley y para
+me frunce el ceńo”. “He venido para responder a las amenazas de la ley y para
 
-soportar toda la ira de la justicia. Pero, Seor, estoy en un lugar tal que
+soportar toda la ira de la justicia”. “Pero, Seńor, estoy en un lugar tal que
 
-no puedo arrepentirme como quisiera. Yo he venido a buscarte y soy exaltado
+no puedo arrepentirme como quisiera”. “Yo he venido a buscarte y soy exaltado
 
-en lo alto al otorgar el arrepentimiento y la remisin de los pecados. Pero,
+en lo alto al otorgar el arrepentimiento y la remisión de los pecados”. “Pero,
 
-Seor, yo no puedo creer en Ti, no puedo creer como quisiera. No quebrar la
+Seńor, yo no puedo creer en Ti, no puedo creer como quisiera”. “No quebraré la
 
-caa cascada, ni apagar el pbilo que humeare; he venido para darte fe. Pero
+cańa cascada, ni apagaré el pábilo que humeare; he venido para darte fe”. “Pero
 
-Seor, me encuentro en tal estado que mis oraciones no pueden ser aceptables
+Seńor, me encuentro en tal estado que mis oraciones no pueden ser aceptables
 
-jams. He venido para orar por ti y luego para concederte tus deseos. Pero
+jamás”. “He venido para orar por ti y luego para concederte tus deseos”. “Pero
 
-Seor, T no sabes cun desgraciado soy. S, yo te conozco. Si te hice la
+Seńor, Tú no sabes cuán desgraciado soy”. “Sí, yo te conozco. Si te hice la
 
-pregunta: dnde ests t?, era para que
+pregunta: ‘żdónde estás tú?’, era para que
 
-t
+tú
 
-supieras dnde ests, pues
+supieras dónde estás, pues
 
 Yo
 
-lo saba
+lo sabía
 
-muy bien. Pero, Seor, yo he sido el peor de los pecadores; nadie puede haber
+muy bien”. “Pero, Seńor, yo he sido el peor de los pecadores; nadie puede haber
 
-agravado su culpa como yo le hecho. Sin importar dnde pudieras estar, yo he
+agravado su culpa como yo le hecho”. “Sin importar dónde pudieras estar, yo he
 
-venido para salvarte. Pero yo soy un desterrado de la sociedad. Yo he
+venido para salvarte”. “Pero yo soy un desterrado de la sociedad”. “Yo he
 
-venido para reunir a todos los desterrados de Israel. Oh, pero yo he pecado
+venido para reunir a todos los desterrados de Israel”. “Oh, pero yo he pecado
 
-ms all de toda esperanza. S, pero yo he venido para dar esperanza a
+más allá de toda esperanza”. “Sí, pero yo he venido para dar esperanza a
 
-pecadores desesperados. S, pero por otra parte yo merezco estar perdido.
+pecadores desesperados”. “Sí, pero por otra parte yo merezco estar perdido”.
 
-S, pero yo he venido para magnificar la ley y para hacerla honorable, y darte
+“Sí, pero yo he venido para magnificar la ley y para hacerla honorable, y darte
 
-as tus merecimientos en la persona de Cristo, y darte
+así tus merecimientos en la persona de Cristo, y darte
 
 mi
 
@@ -982,179 +982,179 @@ misericordia por causa de
 
 Sus
 
-mritos. No hay aqu ningn pecador consciente de su condicin perdida que
+méritos. No hay aquí ningún pecador consciente de su condición perdida que
 
-est en una posicin de la que no pueda ser sacado. Voy a concebir lo peor de
+esté en una posición de la que no pueda ser sacado. Voy a concebir lo peor de
 
-todo lo peor, lo ms vil de todo lo vil; vamos a traer a aquellos que han
+todo lo peor, lo más vil de todo lo vil; vamos a traer a aquellos que han
 
-seguido cursos de especializacin en la sinagoga del diablo y que se han
+seguido cursos de especialización en la sinagoga del diablo y que se han
 
-convertido en maestros de iniquidad; pero aun as, con solo que con el ojo
+convertido en maestros de iniquidad; pero aun así, con solo que con el ojo
 
-lloroso miren las heridas de Aquel que derram Su sangre por los pecadores, l
+lloroso miren las heridas de Aquel que derramó Su sangre por los pecadores, él
 
-puede salvar perpetuamente a los que por l se acercan a Dios.
+puede salvar perpetuamente a los que por él se acercan a Dios.
 
-Oh!, no puedo predicar
+ˇOh!, no puedo predicar
 
-esta maana como querra hacerlo, ni tal vez tampoco ustedes puedan or como
+esta mańana como querría hacerlo, ni tal vez tampoco ustedes puedan oír como
 
-desearan; pero que el Seor hable donde yo no puedo y que le diga a algn
+desearían; pero que el Seńor hable donde yo no puedo y que le diga a algún
 
-pecador desesperado aqu presente: Alma, mi hora ha llegado; voy a rescatarte
+pecador desesperado aquí presente: “Alma, mi hora ha llegado; voy a rescatarte
 
-del horrible pozo y voy a sacarte del lodo cenagoso, y en este da y en esta
+del horrible pozo y voy a sacarte del lodo cenagoso, y en este día y en esta
 
-precisa hora voy a poner tus pies sobre una roca, voy a poner un cntico nuevo
+precisa hora voy a poner tus pies sobre una roca, voy a poner un cántico nuevo
 
-en tu boca y voy a afirmar tus salidas. Bendito, bendito sea el nombre del
+en tu boca y voy a afirmar tus salidas”. Bendito, bendito sea el nombre del
 
-Altsimo, si ese fuera el caso.
+Altísimo, si ese fuera el caso.
 
 V.
 
 Y
 
-ahora, por ltimo, nos sentimos seguros de que este texto puede ser usado y
+ahora, por último, nos sentimos seguros de que este texto puede ser usado y
 
 tiene que ser usado, en otro sentido. Para quienes rechazan el texto como una
 
-voz que despierta y produce conviccin, para aquellos que lo desprecian como la
+voz que despierta y produce convicción, para aquellos que lo desprecian como la
 
 voz de la misericordia lamentando por ellos o como la voz de la benevolencia
 
-buscndolos, viene de otra manera; es la voz de
+buscándolos, viene de otra manera; es la voz de
 
 la JUSTICIA
 
-CONVOCNDOLOS.
+CONVOCÁNDOLOS.
 
-Adn haba huido pero Dios tena que hacer que se presentara en Su tribunal.
+Adán había huido pero Dios tenía que hacer que se presentara en Su tribunal.
 
-Dnde ests t, Adn? Ven aqu, hombre, ven aqu; debo juzgarte, el pecado no
+“żDónde estás tú, Adán? Ven aquí, hombre, ven aquí; debo juzgarte, el pecado no
 
-puede quedarse sin castigo. Ven t y tu culpable esposa contigo. Ven aqu;
+puede quedarse sin castigo. Ven tú y tu culpable esposa contigo. Ven aquí;
 
-tengo que hacerte unas preguntas; tengo que or tus argumentos y como sern
+tengo que hacerte unas preguntas; tengo que oír tus argumentos y como serán
 
-vanos y vacos, tengo que pronunciar tu sentencia. Pues si bien haba mucha
+vanos y vacíos, tengo que pronunciar tu sentencia”. Pues si bien había mucha
 
-compasin en la pregunta, haba tambin algo de severidad. Adn, Adn, dnde
+compasión en la pregunta, había también algo de severidad. “Adán, Adán, żdónde
 
-ests t? Acrcate para ser juzgado. Hoy no oyes esa exclamacin; es pospuesta
+estás tú? Acércate para ser juzgado”. Hoy no oyes esa exclamación; es pospuesta
 
-misericordiosamente. La oirs pronto; la oirs por primera vez como murmullos
+misericordiosamente. La oirás pronto; la oirás por primera vez como murmullos
 
 de truenos cuando la tormenta comienza, cuando la enfermedad te postra en tu
 
-lecho y la muerte te mira a travs de sus huesudos ojos y te toca con su
+lecho y la muerte te mira a través de sus huesudos ojos y te toca con su
 
-espeluznante mano y te dice: Preprate para venir al encuentro de tu Dios. T
+espeluznante mano y te dice: “Prepárate para venir al encuentro de tu Dios”. Tú
 
-puedes posponer la pregunta hoy pero tendrs que tratar con ella entonces,
+puedes posponer la pregunta hoy pero tendrás que tratar con ella entonces,
 
-cuando Dios mismo entre en un contacto ms estrecho con tu naturaleza de lo que
+cuando Dios mismo entre en un contacto más estrecho con tu naturaleza de lo que
 
-lo hace hoy. Entonces tus huesos sern como gelatina, y tus costillas temblarn
+lo hace hoy. Entonces tus huesos serán como gelatina, y tus costillas temblarán
 
-y tu propio corazn se derretir como cera en medio de tus entraas. T
+y tu propio corazón se derretirá como cera en medio de tus entrańas. Tú
 
-contenders con los dolores de la enfermedad o las dolencias; pero habr un
+contenderás con los dolores de la enfermedad o las dolencias; pero habrá un
 
-dolor ms atroz que esos. Tendrs que ver a la muerte, pero la muerte no ser
+dolor más atroz que esos. Tendrás que ver a la muerte, pero la muerte no será
 
-el ms terrible de todos tus terrores pues vers detrs de la muerte el juicio
+el más terrible de todos tus terrores pues verás detrás de la muerte el juicio
 
-y la condenacin.
+y la condenación.
 
 Entonces
 
-t oirs
+tú oirás
 
-la pregunta cuando la habitacin est en silencio y las voces de la esposa y de
+la pregunta cuando la habitación esté en silencio y las voces de la esposa y de
 
-los hijos estn calladas; cuando slo se oiga el tictac del reloj, t oirs las
+los hijos estén calladas; cuando sólo se oiga el tictac del reloj, tú oirás las
 
-pisadas de Dios viniendo a ti en la tarde de tu vida, dicindote: Dnde ests
+pisadas de Dios viniendo a ti en la tarde de tu vida, diciéndote: “żDónde estás
 
-t? Ahora me vers. Cete tus lomos! Ya no hay invitaciones de la
+tú? Ahora me verás. ˇCíńete tus lomos! Ya no hay invitaciones de la
 
-misericordia para ti; el da de la misericordia ha concluido. No ms
+misericordia para ti; el día de la misericordia ha concluido. No más
 
-advertencias del ministro; ahora comparecers ante
+advertencias del ministro; ahora comparecerás ante
 
-M
+Mí
 
-cara a cara. Dnde ests t? Puedes alardear y jactarte
+cara a cara”. “żDónde estás tú?” żPuedes alardear y jactarte
 
 ahora, cuando tus nervios se han vuelto caminos para que transiten los pies
 
-ardientes del dolor, y tu fuerza se ha extinguido y ha huido, y t eres como
+ardientes del dolor, y tu fuerza se ha extinguido y ha huido, y tú eres como
 
-una vela a punto de apagarse? Dnde estn ahora tus juramentos? Dnde estn
+una vela a punto de apagarse? żDónde están ahora tus juramentos? żDónde están
 
-ahora tus jolgorios y tus bromas? Dnde ests t ahora? Puedes darte vueltas y
+ahora tus jolgorios y tus bromas? żDónde estás tú ahora? Puedes darte vueltas y
 
-empezar a menearte, pero no sers capaz de escapar a la pregunta; tratars de
+empezar a menearte, pero no serás capaz de escapar a la pregunta; tratarás de
 
-voltear tu mirada a esta vida, pero te vers compelido a mirar hacia delante, a
+voltear tu mirada a esta vida, pero te verás compelido a mirar hacia delante, a
 
-la vida o a la muerte venideras; y el Seor susurrar todava a tus odos:
+la vida o a la muerte venideras; y el Seńor susurrará todavía a tus oídos:
 
-Dnde ests t? Dnde ests t? Entonces vendr la ltima lucha, cuando el
+“żDónde estás tú? żDónde estás tú?” Entonces vendrá la última lucha, cuando el
 
-hombre fuerte se encorvar, cuando el ojo brillante y resplandeciente ser
+hombre fuerte se encorvará, cuando el ojo brillante y resplandeciente será
 
-cubierto por una pelcula y la lengua se pegar al paladar, y la mano
+cubierto por una película y la lengua se pegará al paladar, y la mano
 
-permanecer sin fuerzas sobre la cama, y los pies ya no sern capaces de
+permanecerá sin fuerzas sobre la cama, y los pies ya no serán capaces de
 
-sostener al cuerpo; cuando el pulso fallar, y el sudor mortal pegajoso estar
+sostener al cuerpo; cuando el pulso fallará, y el sudor mortal pegajoso estará
 
-sobre la frente; y en esos ltimos momentos todava se oir esta terrible voz
+sobre la frente; y en esos últimos momentos todavía se oirá esta terrible voz
 
-levantndose con la tormenta que se avecina hasta alcanzar la plena grandeza de
+levantándose con la tormenta que se avecina hasta alcanzar la plena grandeza de
 
-una espantosa tempestad: Dnde ests t? En el Jordn sin Dios, aproximndote
+una espantosa tempestad: “żDónde estás tú?” En el Jordán sin Dios, aproximándote
 
 a la tumba sin esperanza, muriendo pero desprovisto de Cristo que te ayude;
 
-siendo catapultado a la eternidad pero sin ninguna esperanza de salvacin
+siendo catapultado a la eternidad pero sin ninguna esperanza de salvación
 
-eterna. Se acab; el ltimo dolor ha pasado y el hilo que ligaba el espritu
+eterna. Se acabó; el último dolor ha pasado y el hilo que ligaba el espíritu
 
-con el cuerpo es cortado y t te vas a otro mundo. Pero la pregunta te sigue:
+con el cuerpo es cortado y tú te vas a otro mundo. Pero la pregunta te sigue:
 
-Dnde ests t? Tu espritu est despierto ahora; ya no duerme ms; est
+“żDónde estás tú?” Tu espíritu está despierto ahora; ya no duerme más; está
 
-libre de la carne torpe que lo mantena sombro, impasible, atontado, muerto. Ahora
+libre de la carne torpe que lo mantenía sombrío, impasible, atontado, muerto. Ahora
 
-oye esa voz, ciertamente, que estremece por completo el espritu pues el alma
+oye esa voz, ciertamente, que estremece por completo el espíritu pues el alma
 
-es llevada delante de su Dios. Dnde ests t? Dnde ests t?, clama la
+es llevada delante de su Dios. “żDónde estás tú? żDónde estás tú?”, clama la
 
-conciencia vivificada y Dios le responde: Aprtate de m, maldito! El
+conciencia vivificada y Dios le responde: “ˇApártate de mí, maldito!” El
 
-espritu se aleja de Dios, no para ocultarse entre los rboles del huerto, sino
+espíritu se aleja de Dios, no para ocultarse entre los árboles del huerto, sino
 
-para sumergirse en olas de agona. Y ahora han pasado muchos aos y aunque el
+para sumergirse en olas de agonía. Y ahora han pasado muchos ańos y aunque el
 
 alma ha estado viva y ha sufrido, el cuerpo ha estado durmiendo en la tumba y
 
-los gusanos lo han devorado. Pero, escucha!, el da del juicio, el da del
+los gusanos lo han devorado. Pero, ˇescucha!, el día del juicio, el día del
 
-trueno ha llegado y ms aguda que todos los truenos suena la terrible trompeta;
+trueno ha llegado y más aguda que todos los truenos suena la terrible trompeta;
 
-y despus de la trompeta viene la voz: Despierten ustedes, los muertos, y
+y después de la trompeta viene la voz: “ˇDespierten ustedes, los muertos, y
 
-vengan a juicio! En medio de ese tremendo tumulto se oye el grito: Dnde
+vengan a juicio!” En medio de ese tremendo tumulto se oye el grito: “żDónde
 
-ests
+estás
 
-t?
+tú?”
 
-El mensajero anglico ha
+El mensajero angélico ha
 
 encontrado
 
@@ -1162,99 +1162,99 @@ tu
 
 cuerpo, y tu cuerpo se
 
-levanta de la tumba, de debajo del verde csped. Se levanta de un salto en
+levanta de la tumba, de debajo del verde césped. Se levanta de un salto en
 
-respuesta a la pregunta: Dnde ests t?, y para su horror, su espectral
+respuesta a la pregunta: “żDónde estás tú?”, y para su horror, su espectral
 
-espritu regresa; su alma, que ha sufrido durante mucho tiempo retorna al
+espíritu regresa; su alma, que ha sufrido durante mucho tiempo retorna al
 
-cuerpo de la resurreccin, y ambos, camaradas en el pecado, son ahora
+cuerpo de la resurrección, y ambos, camaradas en el pecado, son ahora
 
-compaeros en el juicio. El grito resuena una vez ms, y ese mismo odo que
+compańeros en el juicio. El grito resuena una vez más, y ese mismo oído que
 
-ahora me oye lo oir: Dnde ests t? Luego viene el gran trono blanco, y
+ahora me oye lo oirá: “żDónde estás tú?” Luego viene el gran trono blanco, y
 
-esos mismos ojos que ahora me ven lo vern; y luego viene el comienzo del
+esos mismos ojos que ahora me ven lo verán; y luego viene el comienzo del
 
-terrible juicio final y ese corazn que ahora no se conmueve se acobardar.
+terrible juicio final y ese corazón que ahora no se conmueve se acobardará.
 
-Luego vendr tu propio juicio personal; y, oh, pecador, pecador, no me corresponde
+Luego vendrá tu propio juicio personal; y, ˇoh, pecador, pecador, no me corresponde
 
-a m describir tu terror! Yo no podra presentar ni siquiera el cuadro ms
+a mí describir tu terror! Yo no podría presentar ni siquiera el cuadro más
 
-dbil de ese sonido mortal, y de la muerte de tu espritu inmortal mientras lo
+débil de ese sonido mortal, y de la muerte de tu espíritu inmortal mientras lo
 
-oyes: Tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de
+oyes: “Tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de
 
-beber en cuanto no lo hicisteis a uno de estos ms pequeos, tampoco a m lo
+beber… en cuanto no lo hicisteis a uno de estos más pequeńos, tampoco a mí lo
 
-hicisteis; e irn stos al castigo eterno, y los justos a la vida eterna. Oh,
+hicisteis; e irán éstos al castigo eterno, y los justos a la vida eterna”. “ˇOh,
 
-tierra! Tierra! Tierra! Oye la palabra del Seor, yo le ruego a cada uno de
+tierra! ˇTierra! ˇTierra! Oye la palabra del Seńor”, yo le ruego a cada uno de
 
-ustedes que la oigan por ustedes mismos. Yo no les he hablado de sueos. Ustedes
+ustedes que la oigan por ustedes mismos. Yo no les he hablado de sueńos. Ustedes
 
-saben que son realidades y si no lo saben ahora, lo sabrn en breve. Yo en
+saben que son realidades y si no lo saben ahora, lo sabrán en breve. Yo en
 
-verdad les suplico por la sangre de Aquel que muri por los pecadores -y qu
+verdad les suplico por la sangre de Aquel que murió por los pecadores -ży qué
 
-argumento ms fuerte podra usar?- que piensen en la pregunta, Dnde ests
+argumento más fuerte podría usar?- que piensen en la pregunta, “żDónde estás
 
-t? Que Dios te muestre dnde ests. Oye la gimiente voz de Dios cuando llora compasivamente
+tú?” Que Dios te muestre dónde estás. Oye la gimiente voz de Dios cuando llora compasivamente
 
-por ti. Busca Su rostro, pues l te busca, y entonces no temers cuando le
+por ti. Busca Su rostro, pues Él te busca, y entonces no temerás cuando le
 
-oigas decir al final, Dnde ests t?, sino que sers capaz de decir: Heme
+oigas decir al final, “żDónde estás tú?”, sino que serás capaz de decir: “Heme
 
-aqu, yo y los hijos que Dios me dio. Hemos lavado nuestras ropas, y las hemos
+aquí, yo y los hijos que Dios me dio. Hemos lavado nuestras ropas, y las hemos
 
-emblanquecido en la sangre del Cordero; y, Padre, henos aqu, esperando morar
+emblanquecido en la sangre del Cordero; y, Padre, henos aquí, esperando morar
 
-en Tu presencia por los siglos de los siglos. Oh, que yo pudiera argumentar
+en Tu presencia por los siglos de los siglos”. ˇOh, que yo pudiera argumentar
 
-con ustedes como un hombre argumenta por su vida! Quisiera que estos labios de
+con ustedes como un hombre argumenta por su vida! ˇQuisiera que estos labios de
 
-arcilla fueran labios de fuego y que esa lengua ya no fuera ms de carne, sino
+arcilla fueran labios de fuego y que esa lengua ya no fuera más de carne, sino
 
-un carbn encendido tomado del altar con unas tenazas! Oh, que tuviera
+un carbón encendido tomado del altar con unas tenazas! ˇOh, que tuviera
 
 palabras que se abrieran paso hasta el interior de sus almas a punta de fuego!
 
-Oh, pecador, pecador, por qu has de morir? Por qu has de perecer? Amigo, la
+Oh, pecador, pecador, żpor qué has de morir? żPor qué has de perecer? Amigo, la
 
-eternidad es algo terrible, y un Dios airado es algo terrible, y qu lengua
+eternidad es algo terrible, y un Dios airado es algo terrible, y qué lengua
 
-podra describir el horror de ser juzgado y condenado. Escapa por tu vida; no
+podría describir el horror de ser juzgado y condenado. Escapa por tu vida; no
 
 mires tras ti, ni pares en toda esta llanura; escapa al monte Calvario, para
 
-que no seas consumido. Cree en el Seor Jesucristo; confale tu alma;
+que no seas consumido. “Cree en el Seńor Jesucristo”; confíale tu alma;
 
-confasela ahora, y sers salvo, t y tu casa.
+confíasela ahora, “y serás salvo, tú y tu casa”.
 
 Nota del traductor:
 
 John Gill (23 de
 
-Noviembre, 1697  14 de Octubre, 1771) fue un pastor bautista ingls, un
+Noviembre, 1697 – 14 de Octubre, 1771) fue un pastor bautista inglés, un
 
-erudito bblico y un firme creyente calvinista. A los doce aos de edad Gill
+erudito bíblico y un firme creyente calvinista. A los doce ańos de edad Gill
 
-oy un sermn predicado por su pastor, William Wallis, sobre el texto de
+oyó un sermón predicado por su pastor, William Wallis, sobre el texto de
 
-Gnesis 3: 9. El mensaje impact a
+Génesis 3: 9. El mensaje impactó a
 
 Gill
 
 y
 
-eventualmente le condujo a su conversin. No fue sino siete aos despus que el
+eventualmente le condujo a su conversión. No fue sino siete ańos después que el
 
-joven John hizo una profesin pblica cuando tena casi diecinueve aos de
+joven John hizo una profesión pública cuando tenía casi diecinueve ańos de
 
-edad. Su pastorado como predecesor de Spurgeon dur 51 aos.
+edad. Su pastorado como predecesor de Spurgeon duró 51 ańos.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 7/Agosto/2014
 

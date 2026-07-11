@@ -1,108 +1,108 @@
 # Sermón 751 | Sermón 751
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Ms que Vencedores
+Más que Vencedores
 
 NO. 751
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 19 DE MAYO DE 1867
+MAŃANA DEL DOMINGO 19 DE MAYO DE 1867
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-Antes, en todas estas cosas somos
+“Antes, en todas estas cosas somos
 
-ms que vencedores por medio de aquel que nos am. Romanos 8: 37.
+más que vencedores por medio de aquel que nos amó”. Romanos 8: 37.
 
-La seal distintiva de un cristiano es su
+La seńal distintiva de un cristiano es su
 
 confianza en el amor de Cristo y la entrega de sus afectos a Cristo en
 
-recproca correspondencia. Primeramente, la fe estampa su sello en el hombre,
+recíproca correspondencia. Primeramente, la fe estampa su sello en el hombre,
 
-capacitando al alma a decir con el apstol: Cristo me am y se entreg a s
+capacitando al alma a decir con el apóstol: “Cristo me amó y se entregó a sí
 
-mismo por m. Entonces el amor proporciona el refrendo y estampa en el corazn:
+mismo por mí”. Entonces el amor proporciona el refrendo y estampa en el corazón:
 
-gratitud y amor a Jess. Nosotros le amamos a l, porque l nos am primero.
+gratitud y amor a Jesús. “Nosotros le amamos a él, porque él nos amó primero”.
 
-Dios es amor, y los hijos de Dios son gobernados en sus poderes ntimos por
+“Dios es amor”, y los hijos de Dios son gobernados en sus poderes íntimos por
 
-el amor; el amor de Cristo los constrie. Creen en el amor de Jess y entonces
+el amor; el amor de Cristo los constrińe. Creen en el amor de Jesús y entonces
 
 lo reflejan. Se regocijan debido a que el amor divino se ha posado sobre ellos;
 
-lo sienten derramado en abundancia en sus corazones por el Espritu Santo que
+lo sienten derramado en abundancia en sus corazones por el Espíritu Santo que
 
 les ha sido dado, y entonces, motivados por la gratitud, aman fervientemente al
 
 Salvador con un amor puro.
 
-En aquellas grandiosas pocas que constituyen el
+En aquellas grandiosas épocas que constituyen el
 
-heroico perodo de la religin cristiana, esta doble seal poda ser vista muy
+heroico período de la religión cristiana, esta doble seńal podía ser vista muy
 
-claramente en todos los creyentes en Jess. Eran personas que conocan el amor
+claramente en todos los creyentes en Jesús. Eran personas que conocían el amor
 
-de Cristo, y se apoyaban en l, tal como un hombre se apoya en un bculo cuya
+de Cristo, y se apoyaban en él, tal como un hombre se apoya en un báculo cuya
 
 confiabilidad ya ha comprobado. No hablaban del amor de Cristo como si fuese un
 
-mito que deba ser respetado o una tradicin que deba ser reverenciada. Lo
+mito que debía ser respetado o una tradición que debía ser reverenciada. Lo
 
-vean como una realidad bienaventurada y en l depositaban toda su confianza.
+veían como una realidad bienaventurada y en él depositaban toda su confianza.
 
-Estaban persuadidos de que ese amor los transportara como sobre alas de
+Estaban persuadidos de que ese amor los transportaría como sobre alas de
 
-guilas y los sostendra todos sus das, y permanecan confiados en que sera
+águilas y los sostendría todos sus días, y permanecían confiados en que sería
 
-para ellos un cimiento de roca contra el cual podan golpear las olas y podan
+para ellos un cimiento de roca contra el cual podían golpear las olas y podían
 
-soplar los vientos, pero la habitacin de sus almas permanecera segura si se
+soplar los vientos, pero la habitación de sus almas permanecería segura si se
 
-cimentaba en l. El amor que sentan por el Seor Jess no era una apacible
+cimentaba en él. El amor que sentían por el Seńor Jesús no era una apacible
 
-emocin que ocultaran internamente en la cmara secreta de sus almas, y de la
+emoción que ocultaran internamente en la cámara secreta de sus almas, y de la
 
-que hablaran exclusivamente en sus asambleas privadas cuando se reunan el
+que hablaran exclusivamente en sus asambleas privadas cuando se reunían el
 
-primer da de la semana y cantaban himnos en honor de Cristo Jess el
+primer día de la semana y cantaban himnos en honor de Cristo Jesús el
 
-Crucificado, sino que para ellos era una pasin de una energa tan vehemente e
+Crucificado, sino que para ellos era una pasión de una energía tan vehemente e
 
-integralmente consumidora, que permeaba en todas su vida, se volva visible en
+integralmente consumidora, que permeaba en todas su vida, se volvía visible en
 
-todas sus acciones, hablaba en su pltica comn, y miraba a travs de sus ojos
+todas sus acciones, hablaba en su plática común, y miraba a través de sus ojos
 
-incluso en sus miradas ms comunes.
+incluso en sus miradas más comunes.
 
-El amor a Jess era una llama que se nutra de
+El amor a Jesús era una llama que se nutría de
 
-la propia mdula de sus huesos, de la esencia y del corazn de su ser y, por
+la propia médula de sus huesos, de la esencia y del corazón de su ser y, por
 
-tanto, a fuerza de arder se abra paso hacia el hombre exterior, y refulga
+tanto, a fuerza de arder se abría paso hacia el hombre exterior, y refulgía
 
-all. El celo por la gloria del Rey Jess era el sello y la marca de todos los
+allí. El celo por la gloria del Rey Jesús era el sello y la marca de todos los
 
-cristianos genuinos. Debido a que dependan del amor de Cristo, se
+cristianos genuinos. Debido a que dependían del amor de Cristo, se
 
-atrevan
+atrevían
 
 a mucho, y debido a su amor a
 
 Cristo,
 
-hacan
+hacían
 
 mucho. Gracias a su
 
-confianza en el amor de Jess, no teman a sus enemigos, y debido a su amor a
+confianza en el amor de Jesús, no temían a sus enemigos, y debido a su amor a
 
-Jess, rehusaban huir del enemigo incluso si se apareca en sus ms terribles
+Jesús, rehusaban huir del enemigo incluso si se aparecía en sus más terribles
 
 formas.
 
@@ -114,85 +114,85 @@ estuvieran testificaban en contra de las perversas costumbres que los rodeaban.
 
 Consideraban algo digno de un asqueroso desprecio que un cristiano fuera como
 
-la gente comn. No se conformaban al mundo y no podan hacerlo pues haban sido
+la gente común. No se conformaban al mundo y no podían hacerlo pues habían sido
 
-transformados por la renovacin de sus mentes. Su amor a Cristo los forzaba a
+transformados por la renovación de sus mentes. Su amor a Cristo los forzaba a
 
 dar testimonio en contra de todo lo que le deshonrara por ser contrario a la
 
 verdad, a la justicia y al amor. Eran innovadores, reformadores y destructores
 
-de dolos por doquier; no podan quedarse tranquilos dejando que otros hicieran
+de ídolos por doquier; no podían quedarse tranquilos dejando que otros hicieran
 
 lo que quisieran siguiendo sus propias opiniones, antes bien, su protesta era
 
 continua, incesante, molesta para el enemigo pero aceptable para Dios. El
 
-cristiano era un pjaro de llamativos colores en cualquier sitio, porque el
+cristiano era un pájaro de llamativos colores en cualquier sitio, porque el
 
-amor por Jess no le permita disfrazar sus convicciones; era un extrao y un
+amor por Jesús no le permitía disfrazar sus convicciones; era un extrańo y un
 
 forastero en cualquier parte, porque el propio lenguaje de su vida diaria
 
-difera del de sus vecinos. Donde otros blasfemaban, l adoraba; donde otros
+difería del de sus vecinos. Donde otros blasfemaban, él adoraba; donde otros
 
-proferan juramentos habitualmente, su s era s, y su no, era no. Donde
+proferían juramentos habitualmente, su “sí” era sí, y su “no”, era no. Donde
 
-otros se cean la espada, l no resista el mal; donde otras personas -cada
+otros se ceńían la espada, él no resistía el mal; donde otras personas -cada
 
 una de ellas- buscaban su propio bienestar y no el de su hermano, el cristiano
 
-era reconocido como alguien cuyo tesoro estaba en el cielo y haba puesto sus
+era reconocido como alguien cuyo tesoro estaba en el cielo y había puesto sus
 
 afectos en las cosas de arriba.
 
-El amor por Jess converta al cristiano en un
+El amor por Jesús convertía al cristiano en un
 
-protestante perpetuo contra el mal por causa de Jess. Y todava le conduca
+protestante perpetuo contra el mal por causa de Jesús. Y todavía le conducía
 
-ms lejos; se converta en un testigo constante de la verdad que haba
+más lejos; se convertía en un testigo constante de la verdad que había
 
 comprobado ser algo muy precioso para su propia alma. Los cristianos eran como
 
-Neftal, de quien se deca: Neptal, cierva suelta, que pronunciar dichos
+Neftalí, de quien se decía: “Neptalí, cierva suelta, que pronunciará dichos
 
-hermosos. En los das apostlicos, los cristianos mudos, los testigos
+hermosos”. En los días apostólicos, los cristianos mudos, los testigos
 
 silenciosos, eran escasamente conocidos. La matrona hablaba de Cristo a los
 
-sirvientes. Habiendo aprendido de Jess, el nio hablaba de l en las escuelas.
+sirvientes. Habiendo aprendido de Jesús, el nińo hablaba de Él en las escuelas.
 
 Mientras el obrero cristiano daba su testimonio en el taller, y el ministro
 
-cristiano (y haba muchos ministros cristianos en aquellos das, pues todos los
+cristiano (y había muchos ministros cristianos en aquellos días, pues todos los
 
 hombres ministraban de acuerdo a su habilidad) se paraba en las esquinas de las
 
-calles, o se reuna en sus propia casa rentada con decenas o veintenas, segn
+calles, o se reunía en sus propia casa rentada con decenas o veintenas, según
 
-fuera el caso, declarando siempre la doctrina de la resurreccin, de la
+fuera el caso, declarando siempre la doctrina de la resurrección, de la
 
-encarnacin de Cristo, de Su muerte y resurreccin y del poder limpiador de Su
+encarnación de Cristo, de Su muerte y resurrección y del poder limpiador de Su
 
 sangre.
 
-El amor de Jess, como lo he dicho al comienzo,
+El amor de Jesús, como lo he dicho al comienzo,
 
-era una pasin real para aquellos hombres, y su confianza en Jess era real y
+era una pasión real para aquellos hombres, y su confianza en Jesús era real y
 
-prctica; de aqu que su testimonio en favor de Jess fuera valeroso, claro y
+práctica; de aquí que su testimonio en favor de Jesús fuera valeroso, claro y
 
 decidido. En el antiguo testimonio cristiano una trompeta resonaba que
 
-despertaba al viejo mundo que estaba asentado en un profundo sueo, soando
+despertaba al viejo mundo que estaba asentado en un profundo sueńo, sońando
 
-sueos inmundos; aquel mundo no quera ser despertado, y revolcndose en el
+sueńos inmundos; aquel mundo no quería ser despertado, y revolcándose en el
 
-sueo, pronunciaba maldiciones graves y mltiples, y juraba vengarse contra el
+sueńo, pronunciaba maldiciones graves y múltiples, y juraba vengarse contra el
 
-perturbador que se atreva a interrumpir su horripilante reposo.
+perturbador que se atrevía a interrumpir su horripilante reposo.
 
-Mientras tanto los creyentes en Jess -hombres a
+Mientras tanto los creyentes en Jesús -hombres a
 
 quienes no les bastaba con dar testimonio con sus vidas y testificar con sus
 
@@ -200,57 +200,57 @@ lenguas en los lugares en que su destino los colocaba- continuamente estaban
 
 comisionando a grupos de misioneros para que llevaran la palabra a otros
 
-distritos. A Pablo no le bastaba predicar el Evangelio en Jerusaln o en
+distritos. A Pablo no le bastaba predicar el Evangelio en Jerusalén o en
 
 Damasco, sino que le era necesario viajar a Pisidia o a Panfilia, y viajar
 
-hasta los ltimos confines del Asia Menor, y entonces, tan lleno de Cristo
+hasta los últimos confines del Asia Menor, y entonces, tan lleno de Cristo
 
-estaba, que suea con la vida eterna, y quedndose dormido, oye en una visin a
+estaba, que sueńa con la vida eterna, y quedándose dormido, oye en una visión a
 
-un hombre de Macedonia, al otro lado del azul Egeo, que le suplica: Pasa y
+un hombre de Macedonia, al otro lado del azul Egeo, que le suplica: “Pasa… y
 
-aydanos. Y con la luz matutina Pablo se levanta, plenamente resuelto a
+ayúdanos”. Y con la luz matutina Pablo se levanta, plenamente resuelto a
 
 abordar un barco y predicar el Evangelio en medio de los gentiles. Habiendo
 
-predicado a Cristo a lo largo de toda Grecia, pas a Italia, y aunque estaba
+predicado a Cristo a lo largo de toda Grecia, pasó a Italia, y aunque estaba
 
-encadenado, entr como embajador de Dios dentro de los muros de la imperial
+encadenado, entró como embajador de Dios dentro de los muros de la imperial
 
-ciudad de Roma; y se cree que despus de eso, su espritu sagradamente inquieto
+ciudad de Roma; y se cree que después de eso, su espíritu sagradamente inquieto
 
-no estuvo satisfecho con predicar a travs de toda Italia, sino que tuvo que
+no estuvo satisfecho con predicar a través de toda Italia, sino que tuvo que
 
-visitar Espaa y se dice que lleg incluso hasta Bretaa.
+visitar Espańa y se dice que llegó incluso hasta Bretańa.
 
-La ambicin del cristiano por la causa de Cristo
+La ambición del cristiano por la causa de Cristo
 
-era ilimitada; ms all de las columnas de Hrcules y hasta las ms apartadas
+era ilimitada; más allá de las columnas de Hércules y hasta las más apartadas
 
-islas del ocano, los creyentes en Jess llevaron las noticias de un Salvador
+islas del océano, los creyentes en Jesús llevaron las noticias de un Salvador
 
-nacido para los hijos de los hombres. Aqullos eran das de gran celo. Me temo
+nacido para los hijos de los hombres. Aquéllos eran días de gran celo. Me temo
 
-que stos son das de tibieza. Aqullos eran tiempos cuando el fuego era como
+que éstos son días de tibieza. Aquéllos eran tiempos cuando el fuego era como
 
 de carbones de enebro, que guardan un calor sumamente intenso, y ni los
 
-naufragios, ni los peligros de ladrones, ni los peligros de ros, ni los
+naufragios, ni los peligros de ladrones, ni los peligros de ríos, ni los
 
-peligros provocados por falsos hermanos, ni la espada misma, podan detener el
+peligros provocados por falsos hermanos, ni la espada misma, podían detener el
 
-entusiasmo de los santos, pues ellos crean y por eso hablaban, ellos amaban y
+entusiasmo de los santos, pues ellos creían y por eso hablaban, ellos amaban y
 
-por eso servan incluso hasta la muerte.
+por eso servían incluso hasta la muerte.
 
-De esta manera los introduzco a nuestro texto. He
+De esta manera los introduzco a nuestro texto. ˇHe
 
-aqu a los hombres y su conflicto por Cristo! Era natural, era inevitable que
+aquí a los hombres y su conflicto por Cristo! Era natural, era inevitable que
 
 provocaran enemistad. Ustedes y yo no amamos mucho a Cristo ni creemos mucho en
 
-Su amor; me refiero a la mayora de nosotros. Constituimos una generacin
+Su amor; me refiero a la mayoría de nosotros. Constituimos una generación
 
 enfermiza, indigna y degenerada. Dejamos al mundo en paz y el mundo nos deja en
 
@@ -258,43 +258,43 @@ paz. Nos conformamos en gran manera a las costumbres mundanas y entonces el
 
 mundo no se exaspera con nosotros. Nosotros no acosamos a los hombres
 
-declarando perpetuamente la verdad como deberamos hacerlo y, por tanto, el
+declarando perpetuamente la verdad como deberíamos hacerlo y, por tanto, el
 
-mundo no se impacienta con nosotros nos cataloga como una muy buena clase de
+mundo no se impacienta con nosotros –nos cataloga como una muy buena clase de
 
-personas, un poco extravagantes, tal vez un poco enloquecidos, pero aun as muy
+personas, un poco extravagantes, tal vez un poco enloquecidos, pero aun así muy
 
-tolerables y bien portados- as que no tenemos ni la mitad de los enemigos que
+tolerables y bien portados- así que no tenemos ni la mitad de los enemigos que
 
 los cristianos de tiempos antiguos enfrentaron, porque no somos ni la mitad de
 
-cristianos verdaderos, no, no somos ni siquiera la dcima parte de santos como
+cristianos verdaderos, no, no somos ni siquiera la décima parte de santos como
 
-ellos lo fueron. Pero si furamos ms santos, en la misma proporcin en que lo
+ellos lo fueron. Pero si fuéramos más santos, en la misma proporción en que lo
 
-fusemos nos enfrentaramos a la misma batalla, aunque pudiera ser de otra
+fuésemos nos enfrentaríamos a la misma batalla, aunque pudiera ser de otra
 
 forma.
 
-Aunque habl crticamente de todos, hay un
+Aunque hablé críticamente de todos, hay un
 
-puado de personas aqu -as confo- que han sido capacitadas por la gracia
+puńado de personas aquí -así confío- que han sido capacitadas por la gracia
 
-divina para conocer el poder del amor de Jess, y viven bajo sus influencias, y
+divina para conocer el poder del amor de Jesús, y viven bajo sus influencias, y
 
-contienden por la soberana del Rey coronado de espinas. Ellos son quienes
+contienden por la soberanía del Rey coronado de espinas. Ellos son quienes
 
 soportan el mismo tipo de luchas -aunque en otras formas- como los conflictos
 
-de los das apostlicos, y stos son quienes pueden usar sin falsedad el
+de los días apostólicos, y éstos son quienes pueden usar sin falsedad el
 
-lenguaje de mi texto: En todas estas cosas somos ms que vencedores por medio
+lenguaje de mi texto: “En todas estas cosas somos más que vencedores por medio
 
-de aquel que nos am.
+de aquel que nos amó”.
 
-Voy a pedirles que consideremos en esta maana,
+Voy a pedirles que consideremos en esta mańana,
 
-segn nos ayude el Espritu Santo, primero,
+según nos ayude el Espíritu Santo, primero,
 
 las
 
@@ -318,43 +318,43 @@ el poder mediante el cual fue lograda su conquista.
 
 I.
 
-Veremos primero, esta maana, LAS VICTORIAS YA
+Veremos primero, esta mańana, LAS VICTORIAS YA
 
-GANADAS por quienes han sido posedos por el amor de Jess.
+GANADAS por quienes han sido poseídos por el amor de Jesús.
 
-Contemplen atentamente al paladn. No se
+Contemplen atentamente al paladín. No se
 
-necesita violentar la imaginacin para concebir a este lugar como un anfiteatro
+necesita violentar la imaginación para concebir a este lugar como un anfiteatro
 
-romano. All, en el centro de la arena, est de pie el hroe. Las grandes
+romano. Allí, en el centro de la arena, está de pie el héroe. Las grandes
 
-puertas de las jaulas de los leones son alzadas por medio de mquinas, y tan
+puertas de las jaulas de los leones son alzadas por medio de máquinas, y tan
 
 pronto como son abiertas, veloz y furiosamente salen osos y leones y bestias
 
 salvajes de todo tipo, previamente dejados sin alimento para que crezca su
 
-ferocidad, con los que ha de contender el paladn.
+ferocidad, con los que ha de contender el paladín.
 
-As era el cristiano en los das de Pablo, y es
+Así era el cristiano en los días de Pablo, y es
 
-as ahora. El mundo es el teatro del conflicto: los ngeles y los demonios son
+así ahora. El mundo es el teatro del conflicto: los ángeles y los demonios son
 
 espectadores; una gran nube de testigos contempla la lucha, y los monstruos son
 
-azuzados contra l, con los que ha de contender triunfalmente.
+azuzados contra él, con los que ha de contender triunfalmente.
 
-El apstol nos proporciona un pequeo resumen de
+El apóstol nos proporciona un pequeńo resumen de
 
 los males contra los que tenemos que combatir, y coloca primero a la
 
-tribulacin.
+“tribulación”.
 
-La palabra tribulacin,
+La palabra “tribulación”,
 
-en latn, significa: trillar, y el pueblo de Dios es arrojado con frecuencia
+en latín, significa: “trillar”, y el pueblo de Dios es arrojado con frecuencia
 
-en la era para ser azotado con el pesado flagelo de la tribulacin; pero es ms
+en la era para ser azotado con el pesado flagelo de la tribulación; pero es más
 
 que vencedor, puesto que no pierde nada excepto la paja y el tamo, y de esta
 
@@ -362,107 +362,107 @@ manera el trigo limpio es separado de lo que no le beneficiaba.
 
 Sin embargo, la palabra original en el idioma
 
-griego sugiere una presin externa. Es usada en el caso de personas que estn
+griego sugiere una presión externa. Es usada en el caso de personas que están
 
 sosteniendo cargas pesadas y tienen un gran peso encima. Ahora, los creyentes
 
-han tenido que contender casi en todas las pocas con circunstancias externas.
+han tenido que contender casi en todas las épocas con circunstancias externas.
 
-Al presente, slo hay unas cuantas personas que en un momento u otro de sus vidas
+Al presente, sólo hay unas cuantas personas que en un momento u otro de sus vidas
 
-se enfrentan a una presin externa, ya sea por causa de enfermedad, o por la
+se enfrentan a una presión externa, ya sea por causa de enfermedad, o por la
 
-prdida de bienes, o por duelos, o por alguna otra de las mil y una causas de
+pérdida de bienes, o por duelos, o por alguna otra de las mil y una causas de
 
-las cuales brota la afliccin. El cristiano no tiene una senda pareja. En el
+las cuales brota la aflicción. El cristiano no tiene una senda pareja. “En el
 
 mundo
 
-tendris
+tendréis
 
-afliccin, es una
+aflicción”, es una
 
 promesa segura que nunca deja de cumplirse. Pero los verdaderos creyentes han
 
-sido sostenidos bajo todas las cargas, y ninguna afliccin ha sido capaz jams de
+sido sostenidos bajo todas las cargas, y ninguna aflicción ha sido capaz jamás de
 
 destruir su confianza en Dios.
 
-Se dice de la palmera que entre ms pesos cuelguen
+Se dice de la palmera que entre más pesos cuelguen
 
-de ella, ms erguida y ms altanera se proyecta contra el cielo; y lo mismo
+de ella, más erguida y más altanera se proyecta contra el cielo; y lo mismo
 
 sucede con el cristiano. Como Job, nunca es tan glorioso como cuando ha experimentado
 
-la prdida de todas las cosas, y al final se alza desde su muladar ms poderoso
+la pérdida de todas las cosas, y al final se alza desde su muladar más poderoso
 
 que un rey.
 
 Hermanos, han de esperar enfrentar al adversario
 
-en tanto que permanezcan aqu; y si ahora sufren por el peso de la afliccin,
+en tanto que permanezcan aquí; y si ahora sufren por el peso de la aflicción,
 
-recuerden que deben vencerla y no ceder a ella. Clamen al Fuerte pidindole
+recuerden que deben vencerla y no ceder a ella. Clamen al Fuerte pidiéndole
 
-fuerzas, para que su tribulacin produzca en ustedes paciencia, y la paciencia
+fuerzas, para que su tribulación produzca en ustedes paciencia, y la paciencia
 
-prueba, y la prueba esperanza que no avergenza.
+prueba, y la prueba esperanza que no avergüenza.
 
 Lo siguiente en la lista es
 
-angustia.
+“angustia”.
 
-Yo encuentro que la palabra griega se refiere ms bien
+Yo encuentro que la palabra griega se refiere más bien
 
-a la afliccin mental que a cualquier cosa externa. El cristiano sufre por
+a la aflicción mental que a cualquier cosa externa. El cristiano sufre por
 
-causa de circunstancias externas, pero esto probablemente sea una afliccin
+causa de circunstancias externas, pero esto probablemente sea una aflicción
 
-menor que el dolor interno. Estrechez de espacio se asemeja al significado de
+menor que el dolor interno. “Estrechez de espacio” se asemeja al significado de
 
-la palabra griega. Algunas veces nos encontramos en una posicin en la que
+la palabra griega. Algunas veces nos encontramos en una posición en la que
 
-sentimos como si no pudiramos movernos, como si furamos
+sentimos como si no pudiéramos movernos, como si fuéramos
 
 incapaces de voltearnos a la diestra o a la
 
-siniestra: la va est cerrada; no vemos ninguna liberacin, y nuestra propia
+siniestra: la vía está cerrada; no vemos ninguna liberación, y nuestra propia
 
 conciencia de debilidad y perplejidad es insoportablemente terrible. Tal vez
 
-ustedes se han visto sumidos en ese estado en que su mente est distrada y no
+ustedes se han visto sumidos en ese estado en que su mente está distraída y no
 
-saben qu hacer; en que no pueden calmarse ni estabilizarse; en que querran
+saben qué hacer; en que no pueden calmarse ni estabilizarse; en que querrían
 
-considerar calmadamente el conflicto, si pudieran, para luego entrar en l como
+considerar calmadamente el conflicto, si pudieran, para luego entrar en él como
 
 un hombre con pleno dominio de sus cinco sentidos; pero el demonio y el mundo,
 
-la tribulacin exterior y el desnimo interior combinados, los arrojan de un
+la tribulación exterior y el desánimo interior combinados, los arrojan de un
 
-lado a otro como olas de la mar, hasta quedar, para usar una expresin sajona
+lado a otro como olas de la mar, hasta quedar, para usar una expresión sajona
 
-de John Bunyan: muy apabullados por todos lados en su mente.
+de John Bunyan: “muy apabullados por todos lados en su mente”.
 
-Bien, ahora, si t eres un cristiano genuino,
+Bien, ahora, si tú eres un cristiano genuino,
 
-saldrs de sto sin mayores consecuencias. Sers ms que un vencedor sobre la
+saldrás de ésto sin mayores consecuencias. Serás más que un vencedor sobre la
 
-turbacin mental. Llevars esta carga, as como cualquier otra, a tu Seor y la
+turbación mental. Llevarás esta carga, así como cualquier otra, a tu Seńor y la
 
-pondrs sobre l; y el Espritu Santo, cuyo oficio es ser el Consolador, les
+pondrás sobre Él; y el Espíritu Santo, cuyo oficio es ser el Consolador, les
 
-dir a las atribuladas olas de tu corazn: Enmudezcan. Jess dir, al caminar
+dirá a las atribuladas olas de tu corazón: “Enmudezcan”. Jesús dirá, al caminar
 
-sobre la tempestad de tu alma: Yo soy, no temis! Y aunque la tribulacin
+sobre la tempestad de tu alma: “ˇYo soy, no temáis!” Y aunque la tribulación
 
-externa y la turbacin interna se juntaran como dos mares que contienden, ambas
+externa y la turbación interna se juntaran como dos mares que contienden, ambas
 
-sern apaciguadas por el poder del Seor Jess.
+serán apaciguadas por el poder del Seńor Jesús.
 
-El tercer mal que el apstol menciona es la
+El tercer mal que el apóstol menciona es la
 
-persecucin,
+“persecución”,
 
 que siempre les ha
 
@@ -470,79 +470,79 @@ sobrevenido a los genuinos amantes de Cristo: su buen nombre ha sido
 
 calumniado. Si repitiera las infamias que han sido expresadas en contra de los
 
-santos de los tiempos antiguos, me ruborizara. Baste decir que no hay ningn
+santos de los tiempos antiguos, me ruborizaría. Baste decir que no hay ningún
 
-crimen en la categora de vicio que no haya sido falsamente colocado a la
+crimen en la categoría de vicio que no haya sido falsamente colocado a la
 
-puerta de los seguidores del puro y santo Jess. Sin embargo, la calumnia no
+puerta de los seguidores del puro y santo Jesús. Sin embargo, la calumnia no
 
-aplast a la iglesia. El buen nombre del cristianismo sobrevivi a la
+aplastó a la iglesia. El buen nombre del cristianismo sobrevivió a la
 
-reputacin de los hombres que tuvieron el descaro de acusarlo. La prisin
+reputación de los hombres que tuvieron el descaro de acusarlo. La prisión
 
-sigui a la calumnia, pero en las prisiones los santos de Dios han cantado como
+siguió a la calumnia, pero en las prisiones los santos de Dios han cantado como
 
-pjaros en sus jaulas, ms an que cuando estaban en los campos de la abierta
+pájaros en sus jaulas, más aún que cuando estaban en los campos de la abierta
 
 libertad. Las prisiones han resplandecido como palacios, y han sido
 
 santificadas para convertirse en lugares de la morada del propio Dios, mucho
 
-ms sagrados que todos los domos consagrados de la imponente arquitectura. La
+más sagrados que todos los domos consagrados de la imponente arquitectura. La
 
-persecucin se ha propuesto a veces desterrar a los santos, pero en su
+persecución se ha propuesto a veces desterrar a los santos, pero en su
 
 destierro han estado en casa, y cuando han sido esparcidos por todos lados, han
 
 ido por doquier predicando la palabra, y su esparcimiento ha sido la
 
-recoleccin de otros del nmero de los elegidos. Cuando la persecucin ha
+recolección de otros del número de los elegidos. Cuando la persecución ha
 
-recurrido incluso a los ms crueles tormentos, Dios ha recibido muchos dulces
+recurrido incluso a los más crueles tormentos, Dios ha recibido muchos dulces
 
-cnticos provenientes del potro de tormento. Las gozosas notas de san Lorenzo,
+cánticos provenientes del potro de tormento. Las gozosas notas de san Lorenzo,
 
-mientras lo asaban en la parrilla, deben de haber sido ms dulces para Dios que
+mientras lo asaban en la parrilla, deben de haber sido más dulces para Dios que
 
 los cantos de los querubines y de los serafines, pues ese santo amaba a Dios
 
-ms que los ms resplandecientes de los seres anglicos, y lo demostraba en
+más que los más resplandecientes de los seres angélicos, y lo demostraba en
 
-medio de su ms amarga angustia; y el seor Hawkes, ese santo que, mientras eran
+medio de su más amarga angustia; y el seńor Hawkes, ese santo que, mientras eran
 
 quemadas sus extremidades inferiores y la gente esperaba verlo rodar por sobre
 
-la cadena para caer en el fuego, alz sus manos flameantes -cada dedo echando
+la cadena para caer en el fuego, alzó sus manos flameantes -cada dedo echando
 
-fuego- y aplaudi tres veces al tiempo que gritaba: Nadie como Cristo, nadie
+fuego- y aplaudió tres veces al tiempo que gritaba: “ˇNadie como Cristo, nadie
 
-como Cristo! Dios fue ms honrado por ese hombre que arda en el fuego, que
+como Cristo!” Dios fue más honrado por ese hombre que ardía en el fuego, que
 
-por los millones de millones que entonan Sus loas en la gloria. La persecucin
+por los millones de millones que entonan Sus loas en la gloria. La persecución
 
 en todas sus formas ha sobrevenido a la iglesia cristiana y hasta este momento
 
-no ha conseguido jams un triunfo, antes bien ha constituido un beneficio
+no ha conseguido jamás un triunfo, antes bien ha constituido un beneficio
 
-esencial para la iglesia, pues la ha limpiado de la hipocresa; cuando el oro
+esencial para la iglesia, pues la ha limpiado de la hipocresía; cuando el oro
 
-puro fue arrojado en el fuego, no perdi nada sino slo la escoria y el estao
+puro fue arrojado en el fuego, no perdió nada sino sólo la escoria y el estańo
 
-que ms bien se alegra de perder.
+que más bien se alegra de perder.
 
-Luego el apstol agrega:
+Luego el apóstol agrega:
 
-hambre.
+“hambre”.
 
 Nosotros no estamos muy expuestos a este mal en nuestros
 
-das, pero en los tiempos de Pablo, quienes eran desterrados era llevados
+días, pero en los tiempos de Pablo, quienes eran desterrados era llevados
 
-frecuentemente a lugares donde no podan ejercer su oficio para ganarse el pan.
+frecuentemente a lugares donde no podían ejercer su oficio para ganarse el pan.
 
-Eran alejados de sus posiciones, de sus amigos, de sus conocidos; sufran la
+Eran alejados de sus posiciones, de sus amigos, de sus conocidos; sufrían la
 
-prdida de sus bienes y, consecuentemente, no saban dnde encontrar ni
+pérdida de sus bienes y, consecuentemente, no sabían dónde encontrar ni
 
 siquiera el sustento necesario para sus cuerpos; y sin duda, hay algunas
 
@@ -550,37 +550,37 @@ personas ahora que son grandes perdedores por sus convicciones de conciencia,
 
 que son llamados a sufrir, en una cierta medida, incluso hasta el hambre.
 
-Entonces el diablo le susurra: t debes
+Entonces el diablo le susurra: “tú debes
 
-encargarte de tu casa y de tus hijos; no debes seguir tu religin al punto de
+encargarte de tu casa y de tus hijos; no debes seguir tu religión al punto de
 
-perder tu pan. Ah!, amigo mo, veremos entonces si tienes la fe que puede
+perder tu pan”. ˇAh!, amigo mío, veremos entonces si tienes la fe que puede
 
 vencer al hambre, que puede mirar al hambre descarnada en el rostro, que mira a
 
-las costillas del esqueleto y no obstante dice: Ah!, soportar el hambre
+las costillas del esqueleto y no obstante dice: “ˇAh!, soportaré el hambre
 
-misma antes que vender mi conciencia y mancillar mi amor a Cristo.
+misma antes que vender mi conciencia y mancillar mi amor a Cristo”.
 
 Luego viene la
 
-desnudez,
+“desnudez”,
 
 que es otra forma terrible de pobreza. El cristiano
 
 expulsado de una casa y de otra e impedido de trabajar en su oficio, era incapaz
 
-de allegar los fondos necesarios, y por tanto, sus vestidos se convertan
+de allegar los fondos necesarios, y por tanto, sus vestidos se convertían
 
-pronto en andrajos, y los andrajos desaparecan uno a uno. En otros momentos
+pronto en andrajos, y los andrajos desaparecían uno a uno. En otros momentos
 
 los perseguidores desnudaban por completo a hombres y a mujeres para
 
-entregarlos a la vergenza; pero la desnudez aun en el caso de los espritus
+entregarlos a la vergüenza; pero la desnudez aun en el caso de los espíritus
 
-ms tiernos y sensibles -y tales espritus fueron expuestos a ese mal en los
+más tiernos y sensibles -y tales espíritus fueron expuestos a ese mal en los
 
-das antiguos- ha sido incapaz de acobardar al invencible espritu de los
+días antiguos- ha sido incapaz de acobardar al invencible espíritu de los
 
 santos.
 
@@ -588,17 +588,17 @@ En los viejos martirologios hay historias de
 
 hombres y mujeres que tuvieron que sufrir esta indignidad, y ha sido reportado
 
-por quienes fueron testigos, que nunca dieron la impresin de estar mejor
+por quienes fueron testigos, que nunca dieron la impresión de estar mejor
 
 vestidos, pues cuando fueron presentados desnudos frente a la bestial multitud
 
-para ser vistos por sus crueles ojos, los propios cuerpos parecan resplandecer
+para ser vistos por sus crueles ojos, los propios cuerpos parecían resplandecer
 
 de gloria cuando con rostro apacible inspeccionaban a sus enemigos y se
 
 entregaban a la muerte.
 
-El apstol menciona a continuacin de la
+El apóstol menciona a continuación de la
 
 desnudez,
 
@@ -606,61 +606,61 @@ peligro,
 
 esto es,
 
-exposicin constante a una muerte sbita. sta era la vida de los primeros
+exposición constante a una muerte súbita. Ésta era la vida de los primeros
 
-cristianos. Cada da muero, dijo el apstol. La misericordia del momento no
+cristianos. “Cada día muero”, dijo el apóstol. La misericordia del momento no
 
-era segura, pues en cualquier otro momento podra salir un nuevo edicto del
+era segura, pues en cualquier otro momento podría salir un nuevo edicto del
 
 emperador romano para barrer con los cristianos. Iban literalmente con sus
 
-vidas en sus manos dondequiera que se dirigan. Algunos de sus peligros eran
+vidas en sus manos dondequiera que se dirigían. Algunos de sus peligros eran
 
-encontrados voluntariamente por la divulgacin del Evangelio; peligros de ros
+encontrados voluntariamente por la divulgación del Evangelio; peligros de ríos
 
 y peligros de ladrones eran la suerte del misionero cristiano que atravesaba
 
-climas inhspitos para declarar el Evangelio. Otros peligros eran el resultado
+climas inhóspitos para declarar el Evangelio. Otros peligros eran el resultado
 
-de la persecucin; pero se nos informa que los creyentes en Jess reposaban tan
+de la persecución; pero se nos informa que los creyentes en Jesús reposaban tan
 
-firmemente en el amor de Cristo que no sentan que el peligro fuera peligro; y
+firmemente en el amor de Cristo que no sentían que el peligro fuera peligro; y
 
 el amor de Cristo los alzaba de tal manera por encima de los pensamientos
 
 ordinarios de carne y sangre hasta llegar al punto de que cuando los peligros
 
-se convertan en verdad en peligros, los enfrentaban con gozo, por causa del
+se convertían en verdad en peligros, los enfrentaban con gozo, por causa del
 
-amor a su Seor y Maestro.
+amor a su Seńor y Maestro.
 
 Y para cerrar la lista, como si hubiese una
 
-suerte de perfeccin en estos males, la sptima cosa es
+suerte de perfección en estos males, la séptima cosa es
 
 la espada,
 
-es decir, el apstol Pablo singulariza una cruel forma
+es decir, el apóstol Pablo singulariza una cruel forma
 
 de muerte como un cuadro del todo. Ustedes lo saben bien y no necesito decirles
 
-cmo el noble ejrcito de mrtires de mi Seor ha ofrecido sus cuellos a la
+cómo el noble ejército de mártires de mi Seńor ha ofrecido sus cuellos a la
 
-espada, tan alegremente como la novia da su mano al novio en el da de su
+espada, tan alegremente como la novia da su mano al novio en el día de su
 
-matrimonio. Ustedes saben cmo han ido a la hoguera y han besado los haces de
+matrimonio. Ustedes saben cómo han ido a la hoguera y han besado los haces de
 
-lea; cmo han cantado camino a su muerte, aunque la muerte fuera acompaada de
+leńa; cómo han cantado camino a su muerte, aunque la muerte fuera acompańada de
 
-los ms crueles tormentos; y se regocijaron con sumo gozo incluso al punto de
+los más crueles tormentos; y se regocijaron con sumo gozo incluso al punto de
 
 saltar y danzar ante el pensamiento de ser considerados dignos de sufrir por
 
 causa de Cristo.
 
-El apstol nos informa que los santos han sufrido
+El apóstol nos informa que los santos han sufrido
 
-todas estas cosas tomadas en su conjunto. l no dice que somos vencedores en
+todas estas cosas tomadas en su conjunto. Él no dice que somos vencedores en
 
 algunas
 
@@ -670,53 +670,53 @@ todas;
 
 muchos creyentes atravesaron
 
-literalmente por la carencia exterior, por la tribulacin interior, por la
+literalmente por la carencia exterior, por la tribulación interior, por la
 
 carencia de pan, por la carencia de vestido, por el constante peligro de la
 
 vida y al final entregaron la vida misma y, sin embargo, en cada caso
 
-comprendido en toda la lista de esas sombras luchas, los creyentes fueron ms
+comprendido en toda la lista de esas sombrías luchas, los creyentes fueron más
 
 que vencedores.
 
-Amados, la mayora de ustedes no son llamados en
+Amados, la mayoría de ustedes no son llamados en
 
-este da a enfrentar peligros, o desnudez o espada: si lo fueran, mi Seor les
+este día a enfrentar peligros, o desnudez o espada: si lo fueran, mi Seńor les
 
-dara la gracia para soportar la prueba; pero yo pienso que las tribulaciones
+daría la gracia para soportar la prueba; pero yo pienso que las tribulaciones
 
 de un cristiano, en el momento presente, aunque no sean tan terribles
 
-exteriormente, son todava ms duras de llevar que incluso aqullas de la edad
+exteriormente, son todavía más duras de llevar que incluso aquéllas de la edad
 
 fiera. Tenemos que soportar el escarnio del mundo: eso es poco; son sustancialmente
 
-peores sus lisonjas, sus suaves palabras, sus dilogos untuosos, su servilismo
+peores sus lisonjas, sus suaves palabras, sus diálogos untuosos, su servilismo
 
-y su hipocresa.
+y su hipocresía.
 
-Oh seores, su peligro es que se vuelvan ricos y
+Oh seńores, su peligro es que se vuelvan ricos y
 
 se tornen altivos, que se entreguen a las modas de este presente mundo perverso
 
-y pierdan su fe. Si no pueden ser destrozados por el len rugiente, pudieran
+y pierdan su fe. Si no pueden ser destrozados por el león rugiente, pudieran
 
-ser triturados por el apretn del oso, y al diablo poco le importa cul sea el
+ser triturados por el apretón del oso, y al diablo poco le importa cuál sea el
 
 instrumento siempre que pueda eliminar el amor de Cristo en ustedes y destruir
 
-su confianza en l. Me temo que la iglesia est en mayor peligro de perder su
+su confianza en Él. Me temo que la iglesia está en mayor peligro de perder su
 
-integridad en estos das blandos y sedosos, que cuando estaba en aquellos
+integridad en estos días blandos y sedosos, que cuando estaba en aquellos
 
-tiempos difciles.
+tiempos difíciles.
 
-Acaso no hay muchos cristianos profesantes
+żAcaso no hay muchos cristianos profesantes
 
-cuyos mtodos de comercio son igual de viciosos que los mtodos de comercio del
+cuyos métodos de comercio son igual de viciosos que los métodos de comercio del
 
-ms sospechoso y truculento inconverso? Acaso no tenemos algunos cristianos
+más sospechoso y truculento inconverso? żAcaso no tenemos algunos cristianos
 
 profesantes que son completamente mundanos, cuya falta de asistencia a nuestras
 
@@ -728,25 +728,25 @@ en absoluto, no es la gracia que vence al mundo, sino la pretendida gracia que
 
 permite al mundo poner su pie sobre su cuello? Tenemos que estar despiertos
 
-ahora, pues atravesamos la tierra encantada y somos ms propensos que nunca a
+ahora, pues atravesamos la ‘tierra encantada’ y somos más propensos que nunca a
 
-ser arruinados, a menos que nuestra fe en Jess sea una realidad, y nuestro
+ser arruinados, a menos que nuestra fe en Jesús sea una realidad, y nuestro
 
-amor por Jess sea una llama vehemente. Tenemos ms posibilidades de
+amor por Jesús sea una llama vehemente. Tenemos más posibilidades de
 
-convertirnos en bastardos que en hijos, en cizaa que en trigo, en hipcritas que
+convertirnos en bastardos que en hijos, en cizańa que en trigo, en hipócritas que
 
-en hermosos viedos, mas no en los verdaderos hijos vivientes del Dios
+en hermosos vińedos, mas no en los verdaderos hijos vivientes del Dios
 
-viviente. Los cristianos no piensan que stos sean tiempos en los que pueden
+viviente. Los cristianos no piensan que éstos sean tiempos en los que pueden
 
-prescindir de la vigilancia o del santo celo; necesitan estas cosas ahora ms
+prescindir de la vigilancia o del santo celo; necesitan estas cosas ahora más
 
-que nunca, y que Dios el Espritu eterno manifieste Su omnipotencia en ustedes,
+que nunca, y que Dios el Espíritu eterno manifieste Su omnipotencia en ustedes,
 
-para que en todas estas cosas ms blandas as como en las ms speras sean
+para que en todas estas cosas más blandas así como en las más ásperas sean
 
-capaces de decir: Somos ms que vencedores por medio de aquel que nos am.
+capaces de decir: “Somos más que vencedores por medio de aquel que nos amó”.
 
 II.
 
@@ -758,115 +758,115 @@ Hasta ahora los creyentes han sido vencedores,
 
 pero el texto dice que han sido:
 
-ms que
+“más que
 
-vencedores.
+vencedores”.
 
-Qu significa eso? La palabra en el texto original es una de
+żQué significa eso? La palabra en el texto original es una de
 
-las fuertes expresiones del apstol Pablo; podra traducirse as: ms rotundos
+las fuertes expresiones del apóstol Pablo; podría traducirse así: “más rotundos
 
-vencedores. La Vulgata, yo creo, contiene una palabra que significa:
+vencedores”. La Vulgata, yo creo, contiene una palabra que significa:
 
-super-vencedores, venciendo por encima de todo.
+“super-vencedores”, venciendo por encima de todo.
 
 Ser vencedor para un cristiano es algo
 
-grandioso: cmo puede ser ms que un vencedor? Primero, yo creo que un
+grandioso: żcómo puede ser más que un vencedor? Primero, yo creo que un
 
 cristiano es mejor que otros vencedores en muchos sentidos, porque
 
-el poder mediante el cual vence es mucho ms
+el poder mediante el cual vence es mucho más
 
 noble.
 
-Aqu vemos a un paladn que acaba de regresar de
+Aquí vemos a un paladín que acaba de regresar de
 
-las olimpadas griegas; casi mata a su adversario en una severa lucha de boxeo,
+las olimpíadas griegas; casi mata a su adversario en una severa lucha de boxeo,
 
-y se aproxima para recibir la corona. Acrcate a l, mira ese brazo, y observa los
+y se aproxima para recibir la corona. Acércate a él, mira ese brazo, y observa los
 
-tendones y los msculos. Vamos!, los msculos del hombre son como el acero y
+tendones y los músculos. ˇVamos!, los músculos del hombre son como el acero y
 
-t le dices: no me sorprende que hayas golpeado y lastimado a tu enemigo; si
+tú le dices: “no me sorprende que hayas golpeado y lastimado a tu enemigo; si
 
-yo hubiera erigido una mquina hecha de acero que fuera operada por un poco de
+yo hubiera erigido una máquina hecha de acero que fuera operada por un poco de
 
-vapor acuoso, habra podido hacer lo mismo, aunque nada sino la pura materia
+vapor acuoso, habría podido hacer lo mismo, aunque nada sino la pura materia
 
-habra estado operando. En tu constitucin t eres un hombre ms fuerte y ms
+habría estado operando. En tu constitución tú eres un hombre más fuerte y más
 
-vigoroso que tu enemigo: eso est claro; pero, dnde est la gloria particular
+vigoroso que tu enemigo: eso está claro; pero, żdónde está la gloria particular
 
-al respecto? Una mquina es ms fuerte que otra. Sin duda el crdito ha de
+al respecto? Una máquina es más fuerte que otra. Sin duda el crédito ha de
 
-serte otorgado a ti por la resistencia, de un cierto modo; pero t eres
+serte otorgado a ti por la resistencia, de un cierto modo; pero tú eres
 
 solamente un gran bruto golpeando a otro gran bruto. Los perros, y los toros, y
 
-los gallos de pelea y todo tipo de animales habran soportado un encuentro
+los gallos de pelea y todo tipo de animales habrían soportado un encuentro
 
 igual, y tal vez peor.
 
-Ahora, vean al paladn cristiano regresando de
+Ahora, ˇvean al paladín cristiano regresando de
 
-la lucha despus de haber obtenido la victoria! Mrenlo! l ha vencido a la
+la lucha después de haber obtenido la victoria! ˇMírenlo! Él ha vencido a la
 
-sabidura humana; pero cuando lo miro, no percibo ninguna preparacin ni
+sabiduría humana; pero cuando lo miro, no percibo ninguna preparación ni
 
-astucia: se trata de una persona sencilla e iletrada que slo sabe que
+astucia: se trata de una persona sencilla e iletrada que sólo sabe que
 
 Jesucristo vino al mundo para salvar a los pecadores; sin embargo, ha obtenido
 
-la victoria sobre profundos filsofos; entonces l es ms que vencedor. Ha sido
+la victoria sobre profundos filósofos; entonces él es más que vencedor. Ha sido
 
 tentado y probado de todas maneras, y no era para nada una persona astuta; estaba
 
-muy dbil; sin embargo, de alguna manera, ha vencido. Ahora, esto es ser ms
+muy débil; sin embargo, de alguna manera, ha vencido. Ahora, esto es ser más
 
 que un vencedor: cuando la debilidad vence a la fuerza, cuando la fuerza bruta
 
 es frustrada por la gentileza y el amor. Esto, en verdad, es victoria, cuando
 
-las pequeas cosas vencen a las grandes cosas; cuando las cosas viles de este
+las pequeńas cosas vencen a las grandes cosas; cuando las cosas viles de este
 
 mundo derrocan a las poderosas, y las cosas que no son deshacen a las cosas que
 
-son: sin embargo, sto es precisamente el triunfo de la gracia. Visto desde la
+son: sin embargo, ésto es precisamente el triunfo de la gracia. Visto desde la
 
-perspectiva del ojo del sentido, el cristiano es dbil como el agua; empero la
+perspectiva del ojo del sentido, el cristiano es débil como el agua; empero la
 
 fe sabe que es irresistible. De acuerdo al ojo del sentido, es algo que ha de
 
 ser pisoteado, pues no opone ninguna resistencia y, sin embargo, a los ojos de
 
-Dios, se convierte precisamente por su gentileza y paciencia en ms que vencedor.
+Dios, se convierte precisamente por su gentileza y paciencia en más que vencedor.
 
-Adems, el cristiano es ms que vencedor porque
+Además, el cristiano es más que vencedor porque
 
 el vencedor lucha por la victoria:
 
 pelea
 
-por algn motivo egosta.
+por algún motivo egoísta.
 
 Aun si el motivo es el patriotismo, aunque desde
 
-un punto de vista el patriotismo sea una de las ms excelsas virtudes mundanas,
+un punto de vista el patriotismo sea una de las más excelsas virtudes mundanas,
 
-es slo un magnfico egosmo por el cual una persona contiende por su propio
+es sólo un magnífico egoísmo por el cual una persona contiende por su propio
 
-pas, en vez de estar sujeto al ms generoso pensamiento cosmopolita de cuidar
+país, en vez de estar sujeto al más generoso pensamiento cosmopolita de cuidar
 
 de todos los hombres.
 
-Pero el cristiano no lucha ni por ningn
+Pero el cristiano no lucha ni por ningún
 
-conjunto de hombres ni por s mismo: al contender por la verdad contiende por
+conjunto de hombres ni por sí mismo: al contender por la verdad contiende por
 
 todos los hombres, pero especialmente por Dios; y al sufrir por lo recto sufre
 
-sin tener ninguna perspectiva de ganancia terrenal. Se vuelve ms que vencedor,
+sin tener ninguna perspectiva de ganancia terrenal. Se vuelve más que vencedor,
 
 tanto por la potencia con que lucha como por los motivos por los que es
 
@@ -874,7 +874,7 @@ sustentado, que son mejores que los motivos y que la fuerza que sostiene a
 
 otros conquistadores.
 
-l es ms que vencedor porque
+Él es más que vencedor porque
 
 no pierde nada, ni siquiera en la propia
 
@@ -886,33 +886,33 @@ pierde algo. En la mayor parte de las guerras, la ganancia raras veces compensa
 
 el derramamiento de sangre; pero la fe del cristiano, cuando es probada, se
 
-fortalece; su paciencia, cuando es probada, se vuelve ms paciente. Sus gracias
+fortalece; su paciencia, cuando es probada, se vuelve más paciente. Sus gracias
 
 son como el legendario Anteo, quien, cuando era derribado a tierra, se
 
-levantaba ms fuerte que antes al tocar a su madre la tierra; pues el
+levantaba más fuerte que antes al tocar a su madre la tierra; pues el
 
-cristiano, al tocar a su Dios y caer en indefensin en los brazos del Altsimo,
+cristiano, al tocar a su Dios y caer en indefensión en los brazos del Altísimo,
 
-se vuelve ms fuerte por todo lo que es conducido a sufrir. Es ms que
+se vuelve más fuerte por todo lo que es conducido a sufrir. Es más que
 
 vencedor, pues no pierde nada, ni siquiera en la propia lucha, y gana asombrosamente
 
 por la victoria.
 
-Es ms que vencedor sobre la persecucin porque
+Es más que vencedor sobre la persecución porque
 
-la mayora de los vencedores tienen que forcejear
+la mayoría de los vencedores tienen que forcejear
 
 y agonizar para conseguir la victoria.
 
-Pero, hermanos mos, muchos
+Pero, hermanos míos, muchos
 
-cristianos, s, todos los cristianos, cuando su fe en Cristo es slida y su
+cristianos, sí, todos los cristianos, cuando su fe en Cristo es sólida y su
 
-amor a Cristo es ferviente, han descubierto que es fcil vencer incluso al
+amor a Cristo es ferviente, han descubierto que es fácil vencer incluso al
 
-sufrimiento por el Seor.
+sufrimiento por el Seńor.
 
 Contemplen a Blandina, envuelta en una red,
 
@@ -922,27 +922,27 @@ sentarse en una silla de hierro calentada al rojo vivo para incinerarla y, sin
 
 embargo, siendo invencible hasta el final.
 
-Los atormentadores le decan al emperador: Oh,
+Los atormentadores le decían al emperador: “ˇOh,
 
 emperador!, nos sentimos avergonzados pues estos cristianos se burlan de
 
-nosotros mientras sufren tus crueldades. En verdad, los verdugos parecan ser,
+nosotros mientras sufren tus crueldades”. En verdad, los verdugos parecían ser,
 
-ellos mismos, los atormentados; se afligan al pensar que no podan vencer a
+ellos mismos, los atormentados; se afligían al pensar que no podían vencer a
 
-las tmidas mujeres y ni siquiera a los nios. Devoraban sus propios corazones
+las tímidas mujeres y ni siquiera a los nińos. Devoraban sus propios corazones
 
-con ira; como la vbora roe a la lima, se rompan sus dientes contra la frrea
+con ira; como la víbora roe a la lima, se rompían sus dientes contra la férrea
 
-fuerza de la fe cristiana; no podan soportarlo, porque aquellas personas
+fuerza de la fe cristiana; no podían soportarlo, porque aquellas personas
 
-sufran sin quejarse, soportaban sin retractarse, y glorificaban a Cristo en
+sufrían sin quejarse, soportaban sin retractarse, y glorificaban a Cristo en
 
 medio del fuego sin lamentarse.
 
-Me encanta pensar en el ejrcito de mrtires de
+Me encanta pensar en el ejército de mártires de
 
-Cristo, s, y pensar en toda Su iglesia, marchando por el campo de batalla,
+Cristo, sí, y pensar en toda Su iglesia, marchando por el campo de batalla,
 
 cantando al tiempo de combatir sin dejar de cantar nunca, sin omitir ni una
 
@@ -950,23 +950,23 @@ nota, y al mismo tiempo avanzando de victoria en victoria, cantando el sagrado
 
 aleluya mientras pisotean a sus enemigos.
 
-Vi un da en el lago de Orta, en el norte de
+Vi un día en el lago de Orta, en el norte de
 
-Italia, un da de guardar de la iglesia de Roma, un nmero de botes que
+Italia, un día de guardar de la iglesia de Roma, un número de botes que
 
-proceda de todos los rincones del lago para dirigirse a la iglesia ubicada en
+procedía de todos los rincones del lago para dirigirse a la iglesia ubicada en
 
-una isleta central del lago, y era singularmente hermoso or el chapoteo de los
+una isleta central del lago, y era singularmente hermoso oír el chapoteo de los
 
 remos y el sonido del canto conforme los botes se acercaban en largas
 
 procesiones, con todos los aldeanos en ellos llevando sus estandartes, al lugar
 
-sealado para la reunin. El chapoteo de los remos meda el tiempo a los remeros,
+seńalado para la reunión. El chapoteo de los remos medía el tiempo a los remeros,
 
-y los remeros nunca omitan un golpe por cantar, ni la cancin era desfigurada
+y los remeros nunca omitían un golpe por cantar, ni la canción era desfigurada
 
-por culpa del chapoteo de los remos, sino que seguan acercndose, cantando y
+por culpa del chapoteo de los remos, sino que seguían acercándose, cantando y
 
 remando.
 
@@ -974,31 +974,31 @@ Y lo mismo ha sucedido con la iglesia de Dios. La
 
 iglesia ha aprendido a manejar ambos remos: el remo de la obediencia y ese otro
 
-remo del sufrimiento, y a cantar mientras rema: Gracias sean dadas a Dios, el
+remo del sufrimiento, y a cantar mientras rema: “ˇGracias sean dadas a Dios, el
 
-cual nos lleva siempre en triunfo en cualquier lugar! Aunque seamos conducidos
+cual nos lleva siempre en triunfo en cualquier lugar!” Aunque seamos conducidos
 
-a sufrir y seamos obligados a pelear, somos ms que vencedores, porque somos
+a sufrir y seamos obligados a pelear, somos más que vencedores, porque somos
 
 vencedores incluso mientras peleamos; cantamos incluso en el calor de la
 
-batalla, ondeando en alto el estandarte y repartiendo el botn en el centro de
+batalla, ondeando en alto el estandarte y repartiendo el botín en el centro de
 
-la refriega. Cuando la batalla est en su apogeo, entonces somos ms felices; y
+la refriega. Cuando la batalla está en su apogeo, entonces somos más felices; y
 
-cuando la contienda es ms severa, entonces somos ms bienaventurados; y cuando
+cuando la contienda es más severa, entonces somos más bienaventurados; y cuando
 
-la batalla se vuelve ms ardua, entonces, estamos tranquilos en medio del
+la batalla se vuelve más ardua, entonces, “estamos tranquilos en medio del
 
-grito desconcertante, confiando en la victoria. Los santos han sido en esos
+grito desconcertante, confiando en la victoria”. Los santos han sido en esos
 
-sentidos ms que vencedores.
+sentidos más que vencedores”.
 
-Ms que vencedores, espero, en este da, porque
+Más que vencedores, espero, en este día, porque
 
 han vencido a sus enemigos,
 
-hacindoles
+haciéndoles
 
 el bien, convirtiendo a sus perseguidores por su paciencia. Para usar el viejo lema
 
@@ -1006,31 +1006,31 @@ protestante, la iglesia ha sido el yunque y el mundo ha sido el martillo; y
 
 aunque el yunque no ha hecho nada sino soportar el golpe, ha quebrado a todos
 
-los martillos, como lo har tambin hasta el fin del mundo.
+los martillos, como lo hará también hasta el fin del mundo.
 
 Todos los verdaderos creyentes que realmente
 
-confan en el amor de Jess, y realmente estn encendidos en l, sern mucho
+confían en el amor de Jesús, y realmente están encendidos en él, serán mucho
 
-ms gloriosos que el conquistador romano cuando conduca a sus corceles,
+más gloriosos que el conquistador romano cuando conducía a sus corceles,
 
 blancos como la nieve, a lo largo de las calles de la ciudad imperial; entonces
 
-los jvenes y la doncellas, las matronas y los ancianos se reunan junto a las
+los jóvenes y la doncellas, las matronas y los ancianos se reunían junto a las
 
-ventanas o sobre el sombrerete de las chimeneas y esparcan flores sobre las
+ventanas o sobre el sombrerete de las chimeneas y esparcían flores sobre las
 
-vencedoras legiones que desfilaban; pero, qu es sto comparado con el triunfo
+vencedoras legiones que desfilaban; pero, żqué es ésto comparado con el triunfo
 
-que se est dando incluso ahora cuando el gran ejrcito de los elegidos de Dios
+que se está dando incluso ahora cuando el gran ejército de los elegidos de Dios
 
-pasa desfilando a travs de las calles de la Nueva Jerusaln? Qu flores son
+pasa desfilando a través de las calles de la Nueva Jerusalén? żQué flores son
 
-esas que los ngeles arrojan en la senda de los bienaventurados? Qu cnticos
+esas que los ángeles arrojan en la senda de los bienaventurados? żQué cánticos
 
 son esos que se elevan desde aquellos salones de Sion, gritando todos con
 
-jbilo y cantando al tiempo que los santos desfilan hacia sus habitaciones
+júbilo y cantando al tiempo que los santos desfilan hacia sus habitaciones
 
 sempiternas?
 
@@ -1038,7 +1038,7 @@ III.
 
 El tiempo casi se me ha agotado y, por tanto, en
 
-tercer lugar, slo dir una palabra o dos. Quines son LAS PERSONAS QUE HAN
+tercer lugar, sólo diré una palabra o dos. żQuiénes son LAS PERSONAS QUE HAN
 
 VENCIDO?
 
@@ -1046,191 +1046,191 @@ Consideren atentamente estas pocas palabras que
 
 expreso. Los hombres que vencieron en la batalla hasta ahora, han sido
 
-conocidos slo por sto la dos cosas que mencion al principio- hombres que
+conocidos sólo por ésto –la dos cosas que mencioné al principio- hombres que
 
-creyeron en el amor de Cristo hacia ellos, y que estaban posedos por el amor
+creyeron en el amor de Cristo hacia ellos, y que estaban poseídos por el amor
 
-de Cristo, pues no ha habido otra distincin ms que sta. Algunos han sido
+de Cristo, pues no ha habido otra distinción más que ésta. Algunos han sido
 
-ricos: la casa de Csar produjo mrtires. Otros han sido pobres: slo unas
+ricos: la casa de César produjo mártires. Otros han sido pobres: sólo unas
 
 cuantas inscripciones de las tumbas de las catacumbas han sido escritas
 
 correctamente; deben de haber sido personas muy pobres e iletradas que
 
-conformaban la mayora de las primeras iglesias cristianas, pero todas las clases
+conformaban la mayoría de las primeras iglesias cristianas, pero todas las clases
 
-han vencido. Obispos han sido quemados y prncipes han muerto en la hoguera,
+han vencido. Obispos han sido quemados y príncipes han muerto en la hoguera,
 
-pero ms numerosos todava han sido los tejedores, y los sastres, y las costureras.
+pero más numerosos todavía han sido los tejedores, y los sastres, y las costureras.
 
-Los ms pobres de los pobres han sido tan valerosos como los adinerados; los
+Los más pobres de los pobres han sido tan valerosos como los adinerados; los
 
 eruditos han muerto gloriosamente, pero los iletrados casi se han robado la
 
-palma. Los niitos han sufrido por Cristo; sus almitas, lavadas en la sangre de
+palma. Los nińitos han sufrido por Cristo; sus almitas, lavadas en la sangre de
 
-Jess, se han visto enrojecidas tambin con la suya propia; entre tanto, los
+Jesús, se han visto enrojecidas también con la suya propia; entre tanto, los
 
-ancianos no se han quedado atrs. Debe de haber sido un espectculo triste pero
+ancianos no se han quedado atrás. Debe de haber sido un espectáculo triste pero
 
-glorioso ver al anciano Latimer, que contaba con ms de setenta aos de edad,
+glorioso ver al anciano Latimer, que contaba con más de setenta ańos de edad,
 
-quitndose todos sus vestidos excepto la camisa, y luego, puesto de pie, decir
+quitándose todos sus vestidos excepto la camisa, y luego, puesto de pie, decir
 
-al tiempo que se volva al seor Ridley: Valor, hermano! En este da
+al tiempo que se volvía al seńor Ridley: “ˇValor, hermano! En este día
 
 encenderemos un cirio de tal magnitud en Inglaterra, por la gracia de Dios, que
 
-nunca habr de apagarse.
+nunca habrá de apagarse”.
 
-Oh!, ancianos, si desean servir a mi Seor, todava
+ˇOh!, ancianos, si desean servir a mi Seńor, todavía
 
-no ha pasado la mejor etapa de su vida para hacerlo. Jvenes, si quieren ser
+no ha pasado la mejor etapa de su vida para hacerlo. Jóvenes, si quieren ser
 
-hroes, ahora es su oportunidad. Ustedes, que son pobres, pudieran resplandecer
+héroes, ahora es su oportunidad. Ustedes, que son pobres, pudieran resplandecer
 
-con una gran gloria como los ricos; y ustedes, que tienen riquezas, podran
+con una gran gloria como los ricos; y ustedes, que tienen riquezas, podrían
 
 considerarlo como su gozo si fueran llamados en los lugares altos del campo a
 
-batallar por su Seor. En esta lucha hay lugar para todos los que aman al Seor,
+batallar por su Seńor. En esta lucha hay lugar para todos los que aman al Seńor,
 
-y hay coronas para cada uno. Oh, que Dios nos diera el espritu y la fuerza
+y hay coronas para cada uno. ˇOh, que Dios nos diera el espíritu y la fuerza
 
-para alistarnos en Su ejrcito, y para luchar hasta que ganemos la corona! Dejo
+para alistarnos en Su ejército, y para luchar hasta que ganemos la corona! Dejo
 
-ese punto, queridos amigos, esperando que ustedes ampliarn su consideracin en
+ese punto, queridos amigos, esperando que ustedes ampliarán su consideración en
 
 sus pensamientos.
 
 IV.
 
-Y ahora vamos a concluir. El apstol nos dice
+Y ahora vamos a concluir. El apóstol nos dice
 
-claramente que EL PODER MISTERIOSO E IRRESISTIBLE QUE SUSTENT A ESTOS
+claramente que EL PODER MISTERIOSO E IRRESISTIBLE QUE SUSTENTÓ A ESTOS
 
-INDIVIDUOS MS QUE VENCEDORES, fue
+INDIVIDUOS MÁS QUE VENCEDORES, fue
 
-Por
+“Por
 
-medio de aquel que nos am.
+medio de aquel que nos amó”.
 
 Ellos vencieron gracias a que Cristo era su
 
-capitn. Mucho depende del lder. Cristo les mostr cmo vencer, al soportar el
+capitán. Mucho depende del líder. Cristo les mostró cómo vencer, al soportar el
 
 sufrimiento personalmente, venciendo para constituirse en su ejemplo. Ellos
 
 triunfaron por medio de Cristo como su maestro, pues sus doctrinas
 
-fortalecieron sus mentes; los hizo viriles, los hizo anglicos, los hizo
+fortalecieron sus mentes; los hizo viriles, los hizo angélicos, los hizo
 
-divinos, en suma los hizo partcipes de la naturaleza divina. Pero, sobre todo,
+divinos, en suma los hizo partícipes de la naturaleza divina. Pero, sobre todo,
 
 ellos vencieron porque Cristo estaba realmente con ellos. Su cuerpo estaba en
 
-el cielo, pues ha resucitado, pero Su Espritu estaba con ellos. Aprendemos de
+el cielo, pues ha resucitado, pero Su Espíritu estaba con ellos. Aprendemos de
 
 toda la historia de los santos que Cristo tiene una manera de infundir una
 
-fuerza sobrenatural en los ms dbiles de los dbiles. El Espritu Santo,
+fuerza sobrenatural en los más débiles de los débiles. El Espíritu Santo,
 
-cuando entra en contacto con nuestros espritus pobres, titubeantes y dbiles,
+cuando entra en contacto con nuestros espíritus pobres, titubeantes y débiles,
 
-nos cie para algo que es absolutamente imposible que el hombre realice solo.
+nos cińe para algo que es absolutamente imposible que el hombre realice solo.
 
-Miras al hombre tal cual es y, qu puede hacer? Hermanos, no puede hacer nada.
+Miras al hombre tal cual es y, żqué puede hacer? Hermanos, no puede hacer nada.
 
-Separados de m nada podis hacer. Ahora miren al hombre con Dios en l, y
+“Separados de mí nada podéis hacer”. Ahora miren al hombre con Dios en él, y
 
-voy a revertir la pregunta: Qu es lo que no podra hacer l? Yo no veo a un
+voy a revertir la pregunta: żQué es lo que no podría hacer él? Yo no veo a un
 
 hombre ardiendo en aquellos fuegos; veo a Cristo sufriendo en ese hombre. Yo no
 
-veo a un mrtir en prisin, sino veo al poder divino rindose ante el
+veo a un mártir en prisión, sino veo al poder divino riéndose ante el
 
-pensamiento de la prisin, y escarneciendo las cadenas de hierro. No veo tanto
+pensamiento de la prisión, y escarneciendo las cadenas de hierro. No veo tanto
 
-a una virgen de mente sencilla, de escasa educacin, contendiendo con los
+a una virgen de mente sencilla, de escasa educación, contendiendo con los
 
-sofistas y con los disputadores, sino veo al Espritu del Dios vivo hablando a
+sofistas y con los disputadores, sino veo al Espíritu del Dios vivo hablando a
 
-travs de su lengua simple, ensendole en el mismo momento qu es lo que debe
+través de su lengua simple, enseńándole en el mismo momento qué es lo que debe
 
-decir, y demostrando la verdad de que lo insensato de Dios es ms sabio que los
+decir, y demostrando la verdad de que lo insensato de Dios es más sabio que los
 
-hombres, y lo dbil de Dios es ms fuerte que los hombres. Oh!, es glorioso
+hombres, y lo débil de Dios es más fuerte que los hombres. ˇOh!, es glorioso
 
-pensar que Dios tome de esta manera las cosas ms insignificantes, ms pobres y
+pensar que Dios tome de esta manera las cosas más insignificantes, más pobres y
 
-ms dbiles, y se introduzca en ellas y luego diga: Vengan, todos ustedes,
+más débiles, y se introduzca en ellas y luego diga: “ˇVengan, todos ustedes,
 
-que son sabios y grandes, y yo los desconcertar por medio de aqullos que son
+que son sabios y grandes, y yo los desconcertaré por medio de aquéllos que son
 
-necios y dbiles! Ahora, vengan, ustedes, demonios del infierno; vengan,
+necios y débiles! Ahora, ˇvengan, ustedes, demonios del infierno; vengan,
 
 ustedes, hombres de la tierra, que pronuncian amenazas y echan espuma con
 
-crueldad; vengan, todos ustedes, y este pobre ser indefenso se reir hasta el
+crueldad; vengan, todos ustedes, y este pobre ser indefenso se reirá hasta el
 
-escarnio de ustedes, y triunfar al final! Es el poder de Cristo. Y
+escarnio de ustedes, y triunfará al final!” Es el poder de Cristo. żY
 
-advirtieron el nombre con el que el apstol llam a nuestro Seor en el texto?
+advirtieron el nombre con el que el apóstol llamó a nuestro Seńor en el texto?
 
-Es tan significativo, que yo pienso que es la clave del texto: Por medio de
+Es tan significativo, que yo pienso que es la clave del texto: “Por medio de
 
-aquel que nos am. S, el amor les obtuvo la victoria. Ellos saban que l los
+aquel que nos amó”. Sí, el amor les obtuvo la victoria. Ellos sabían que Él los
 
-amaba, que los haba amado, que siempre los amara. Ellos saban que si sufran
+amaba, que los había amado, que siempre los amaría. Ellos sabían que si sufrían
 
-por Su causa, era Su amor el que les permita sufrir para que fuera su ganancia
+por Su causa, era Su amor el que les permitía sufrir para que fuera su ganancia
 
-definitiva, y para Su permanente honra. Ellos sentan que l los amaba; no
+definitiva, y para Su permanente honra. Ellos sentían que Él los amaba; no
 
-podan ponerlo en duda, nunca desconfiaron de ese hecho, y sto era lo que los
+podían ponerlo en duda, nunca desconfiaron de ese hecho, y ésto era lo que los
 
-haca tan fuertes. Oh, amados, son dbiles hoy? Acudan a l que los am. Se
+hacía tan fuertes. Oh, amados, żson débiles hoy? Acudan a Él que los amó. żSe
 
-est enfriando hoy el amor de ustedes? No acudan a Moiss para aumentar su
+está enfriando hoy el amor de ustedes? No acudan a Moisés para aumentar su
 
-amor; no escudrien su propio corazn con miras a encontrar algo bueno, sino
+amor; no escudrińen su propio corazón con miras a encontrar algo bueno, sino
 
-acudan de inmediato a l que los am. Piensen, esta maana, en que l, nuestro
+acudan de inmediato a Él que los amó. Piensen, esta mańana, en que Él, nuestro
 
-Seor, abandon el cielo, y piensen en Su encarnacin en la tierra. Piensen
+Seńor, abandonó el cielo, y piensen en Su encarnación en la tierra. Piensen
 
-especialmente en el sudor sangriento de Getseman, en las heridas del Calvario,
+especialmente en el sudor sangriento de Getsemaní, en las heridas del Calvario,
 
-en la sed al morir, en el Dios mo, Dios mo, por qu me has desamparado?
+en la sed al morir, en el “Dios mío, Dios mío, żpor qué me has desamparado?”
 
 Piensen en todo eso. Hagan que el amor de Cristo por ustedes se grabe en fuego
 
-en su conciencia ntima; y en la fuerza de sto, no teman a ninguna dificultad,
+en su conciencia íntima; y en la fuerza de ésto, no teman a ninguna dificultad,
 
-no sientan terror ante ninguna tribulacin, sino marchen a la batalla de su
+no sientan terror ante ninguna tribulación, sino marchen a la batalla de su
 
-vida como los hroes antiguos iban a la suya, y han de retornar con sus coronas
+vida como los héroes antiguos iban a la suya, y han de retornar con sus coronas
 
-de victoria como ellos regresaron con las suyas, y descubrirn que esas lneas
+de victoria como ellos regresaron con las suyas, y descubrirán que esas líneas
 
-que acabamos de cantar, son ciertas de la manera ms divina.
+que acabamos de cantar, son ciertas de la manera más divina.
 
-Y quienes,
+“Y quienes,
 
-con su Lder, han vencido en la lucha,
+con su Líder, han vencido en la lucha,
 
 Por los
 
-siglos de los siglos estn vestidos de blanco.
+siglos de los siglos están vestidos de blanco”.
 
-Porciones de la Escritura ledas antes del
+Porciones de la Escritura leídas antes del
 
-sermn:
+sermón:
 
 Romanos 8: 28-39; Hebreos 11: 32-40.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 11/Agosto/2011
 

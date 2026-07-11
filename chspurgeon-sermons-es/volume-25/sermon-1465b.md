@@ -1,8 +1,8 @@
 # Sermón 1465b | Sermón 1465B
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Prerrogativa
 
@@ -10,171 +10,171 @@ Real
 
 1465B
 
-UN SERMN
+UN SERMÓN
 
 PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Ved ahora
+“Ved ahora
 
 que yo, yo soy, y no hay dioses conmigo; yo hago morir, y yo hago vivir; yo
 
-hiero, y yo sano. Deuteronomio 32: 39.
+hiero, y yo sano”. Deuteronomio 32: 39.
 
 No hay sino un Dios.
 
-Jehov es Su nombre, el YO SOY. Ese nico Dios no tolera ningn rival. Por
+Jehová es Su nombre, el “YO SOY”. Ese único Dios no tolera ningún rival. żPor
 
-qu habra de hacerlo? l hizo todas las cosas y sustenta todas las cosas.
+qué habría de hacerlo? Él hizo todas las cosas y sustenta todas las cosas.
 
-Acaso una criatura hecha por Sus propias manos habra de constituirse en Su
+żAcaso una criatura hecha por Sus propias manos habría de constituirse en Su
 
-rival? Si se tratara de un gran varn como Nabucodonosor y si dijera: No es
+rival? Si se tratara de un gran varón como Nabucodonosor y si dijera: “żNo es
 
-sta la gran Babilonia que yo edifiqu?, Dios lo enviar a pastar entre los
+ésta la gran Babilonia que yo edifiqué?”, Dios lo enviará a pastar entre los
 
-bueyes, y le har saber que nadie es grande a los ojos de Dios. Qu provocacin
+bueyes, y le hará saber que nadie es grande a los ojos de Dios. ˇQué provocación
 
-ha de ser para Dios ver que los hombres se postran delante de los dolos
+ha de ser para Dios ver que los hombres se postran delante de los ídolos
 
-esculpidos por sus propias manos! Qu degradacin es para el hombre que adore
+esculpidos por sus propias manos! ˇQué degradación es para el hombre que adore
 
-el oro, o la plata, o la madera o la piedra, pero qu grave deshonra es para el
+el oro, o la plata, o la madera o la piedra, pero qué grave deshonra es para el
 
 grandioso Dios de todo! Y me parece que la peor de todas las deshonras es
 
-cuando Dios ve que la imagen de Su propio amado Hijo es convertida en un dolo,
+cuando Dios ve que la imagen de Su propio amado Hijo es convertida en un ídolo,
 
-y que la representacin de la cruz en que la redencin fue consumada es elevada
+y que la representación de la cruz en que la redención fue consumada es elevada
 
-en alto para que los hombres se postren en adoracin ante ella. Esto debe de
+en alto para que los hombres se postren en adoración ante ella. Esto debe de
 
-afectar Su alma sagrada, y vejarle en grado sumo, pues Dios es el nico Dios, y
+afectar Su alma sagrada, y vejarle en grado sumo, pues Dios es el único Dios, y
 
-no hay otro fuera de l; a otro no dar Su gloria, ni Su alabanza a esculturas.
+no hay otro fuera de Él; a otro no dará Su gloria, ni Su alabanza a esculturas.
 
 En el texto que estamos considerando es visto el grandioso
 
 Ego.
 
-Yo, Yo soy. Ese
+“Yo, Yo soy”. Ese
 
 Ego
 
 es
 
-tan grande que llena todos los lugares, y por eso no puede haber ningn lugar
+tan grande que llena todos los lugares, y por eso no puede haber ningún lugar
 
-para nadie ms. Yo, yo soy, y no hay dioses conmigo. En otro lugar dice: No
+para nadie más. “Yo, yo soy, y no hay dioses conmigo”. En otro lugar dice: “No
 
-hay Dios fuera de m. Oh, tener tales pensamientos excelsos de Dios para que
+hay Dios fuera de mí”. Oh, tener tales pensamientos excelsos de Dios para que
 
-no tuviramos ninguna consideracin por nada ms que le robe la gloria que es
+no tuviéramos ninguna consideración por nada más que le robe la gloria que es
 
-tan exclusivamente Suya. Gustosamente quisiramos arder con un santo celo que
+tan exclusivamente Suya. Gustosamente quisiéramos arder con un santo celo que
 
 aborrezca la idea de un dios rival, y que eche fuera de su boca el nombre de
 
 Baal con un completo aborrecimiento.
 
-En el texto, el Seor
+En el texto, el Seńor
 
-reclama la soberana prerrogativa de vida y de muerte. l dice: Yo hago morir, y
+reclama la soberana prerrogativa de vida y de muerte. Él dice: “Yo hago morir, y
 
-yo hago vivir. Ante todo es de l de quien nosotros recibimos nuestro ser. Su
+yo hago vivir”. Ante todo es de Él de quien nosotros recibimos nuestro ser. Su
 
-mano enciende la antorcha de vida, y de l viene la extincin de la llama. No
+mano enciende la antorcha de vida, y de Él viene la extinción de la llama. No
 
-es posible que el brazo de algn ngel pudiera salvarnos de la tumba, ni
+es posible que el brazo de algún ángel pudiera salvarnos de la tumba, ni
 
-tampoco una mirada de ngeles podra confinarnos all una vez que nos ordene
+tampoco una miríada de ángeles podría confinarnos allí una vez que nos ordene
 
 resucitar. Dios hace morir y Dios hace vivir. Los reyes han sido usualmente muy
 
 celosos de la prerrogativa de vida y muerte, pero nuestro grandioso Dios posee
 
-esa prerrogativa sin trmino o lmite. l reina supremo. Yo hago morir,
+esa prerrogativa sin término o límite. Él reina supremo. “Yo hago morir”,
 
--dice- y yo hago vivir.
+-dice- “y yo hago vivir”.
 
 Por el contexto en el
 
-que se encuentra el texto, es claro que el Seor alude a constituir naciones o
+que se encuentra el texto, es claro que el Seńor alude a constituir naciones o
 
 a destruir naciones. Fue Dios quien hizo que Israel fuese un pueblo; fue Dios
 
-quien ech fuera a los cananeos, a los heveos, y a los jebuseos y quien hizo
+quien echó fuera a los cananeos, a los heveos, y a los jebuseos y quien hizo
 
-que dejaran de ser naciones delante de l; fue Dios quien levant a Caldea, y a
+que dejaran de ser naciones delante de Él; fue Dios quien levantó a Caldea, y a
 
-Babilonia, y quien luego fortaleci a Persia para que hiciera pedazos a Babilonia,
+Babilonia, y quien luego fortaleció a Persia para que hiciera pedazos a Babilonia,
 
 y a Grecia para que destruyera a Persia, y a Roma para que con pie de hierro
 
-acabara con Grecia; y cuando hubo llegado el tiempo, fue l quien habl a la
+acabara con Grecia; y cuando hubo llegado el tiempo, fue Él quien habló a la
 
-ciudad de las siete colinas, y ella tambin perdi su poder real. Reinos y
+ciudad de las siete colinas, y ella también perdió su poder real. Reinos y
 
-tronos pertenecen al Seor, y los escudos de los valientes son levantados en
+tronos pertenecen al Seńor, y los escudos de los valientes son levantados en
 
-alto o abandonados en el polvo segn Su voluntad. Aunque ellos no lo tomen en
+alto o abandonados en el polvo según Su voluntad. Aunque ellos no lo tomen en
 
-consideracin, hay un Rey de reyes y Seor de seores; y cuando se desenrolle
+consideración, hay un Rey de reyes y Seńor de seńores; y cuando se desenrolle
 
-la larga pgina de la historia, y los hombres sean capaces de ver con ojos
+la larga página de la historia, y los hombres sean capaces de ver con ojos
 
-iluminados el fin desde el principio, sabrn que en todo momento el Dios
+iluminados el fin desde el principio, sabrán que en todo momento el Dios
 
-ignorado y menospreciado, el invisible y aun inimaginable Dios, segua reinando
+ignorado y menospreciado, el invisible y aun inimaginable Dios, seguía reinando
 
-por siempre. A todo lo largo de la pgina del largo registro de la tierra se escribir
+por siempre. A todo lo largo de la página del largo registro de la tierra se escribirá
 
-con mano de rey, Yo hago morir y Yo hago vivir. Dios es absoluto en la
+con mano de rey, “Yo hago morir y Yo hago vivir”. Dios es absoluto en la
 
-providencia, el bendito y nico Potentado cuya voluntad soberana no conoce
+providencia, el bendito y único Potentado cuya voluntad soberana no conoce
 
 ninguna disputa.
 
 Sin embargo en este
 
-momento me propongo sacar esta grandiosa verdad fuera del mbito de la
+momento me propongo sacar esta grandiosa verdad fuera del ámbito de la
 
 providencia para insertarla en el reino de la gracia; y vamos a limitarnos a la
 
-segunda frase: Yo hiero, y yo sano. Sobre estas palabras haremos tres
+segunda frase: “Yo hiero, y yo sano”. Sobre estas palabras haremos tres
 
 observaciones, siendo la primera que
 
 nadie
 
-sino el Seor puede herir o sanar;
+sino el Seńor puede herir o sanar;
 
 en segundo lugar, que
 
-el Seor puede herir y sanar;
+el Seńor puede herir y sanar;
 
 y, en
 
 tercer lugar, que
 
-el Seor en efecto
+el Seńor en efecto
 
 hiere y sana,
 
-tres pensamientos que estn estrechamente conectados, y que
+tres pensamientos que están estrechamente conectados, y que
 
-no obstante estn marcados por instructivos matices de diferencia.
+no obstante están marcados por instructivos matices de diferencia.
 
 I.
 
 Primero,
 
-NADIE SINO EL SEOR PUEDE HERIR O SANAR. Comenzando por el principio,
+NADIE SINO EL SEŃOR PUEDE HERIR O SANAR. Comenzando por el principio,
 
-solo el Seor puede herir espiritualmente.
+solo el Seńor puede herir espiritualmente.
 
 Cuando
 
@@ -184,21 +184,21 @@ herirlos. El hombre de manera natural
 
 se
 
-considera sincero, y con perfecta salud, pero no es as. El gran objetivo del
+considera sincero, y con perfecta salud, pero no es así. El gran objetivo del
 
 ministerio del Evangelio, al principio, es convencer a los hombres de pecado y
 
-humillarlos delante de Dios; de hecho, es herirlos, herirlos en lo ms vivo.
+humillarlos delante de Dios; de hecho, es herirlos, herirlos en lo más vivo.
 
 Pero
 
 nadie
 
-puede herir sin el Seor.
+puede herir sin el Seńor.
 
-Yo hablo sin ninguna medida en cuanto a mi expresin: ningn predicador puede
+Yo hablo sin ninguna medida en cuanto a mi expresión: ningún predicador puede
 
-herir verdaderamente el corazn humano. Puede hablar de manera muy honesta y
+herir verdaderamente el corazón humano. Puede hablar de manera muy honesta y
 
 clara; puede hablar con un profundo patetismo y verdadero afecto; puede blandir
 
@@ -206,85 +206,85 @@ por momentos los truenos de Dios, y luego pueden estar en sus manos las suaves
 
 y tiernas cuerdas de amor; pero de ninguna manera el predicador puede llegar al
 
-corazn de los hombres a menos que su Maestro est con l. Puedes encantarlo lo
+corazón de los hombres a menos que su Maestro esté con él. Puedes encantarlo lo
 
-ms sabiamente que se te ocurra, oh sabio, pero el spid es sordo, y es en vano
+más sabiamente que se te ocurra, oh sabio, pero el áspid es sordo, y es en vano
 
-que uses tus encantos. Esperar tocar el corazn humano mientras Dios no desnude
+que uses tus encantos. Esperar tocar el corazón humano mientras Dios no desnude
 
 Su brazo es como querer convencer a los vientos salvajes o convertir a las
 
-caprichosas olas. Es una obra del Espritu Santo convencer de pecado, y
+caprichosas olas. Es una obra del Espíritu Santo convencer de pecado, y
 
-mientras l no aplique Su poder, el predicador puede predicar hasta quedar mudo
+mientras Él no aplique Su poder, el predicador puede predicar hasta quedar mudo
 
 por el cansancio y ciego del llanto, pero no es posible que se obtenga resultado
 
-alguno. Y lo que es vlido respecto a los predicadores es vlido tambin con
+alguno. Y lo que es válido respecto a los predicadores es válido también con
 
 respecto a todos los maestros de la escuela dominical, a todas las personas
 
-denodadas que andan hablando personalmente a los hombres, s, y a la ms tierna
+denodadas que andan hablando personalmente a los hombres, sí, y a la más tierna
 
-madre y al ms sincero padre. No hay manera de herir el corazn del nio; no
+madre y al más sincero padre. No hay manera de herir el corazón del nińo; no
 
-hay manera de inducirlo a la contricin mediante los argumentos ms tiernos o
+hay manera de inducirlo a la contrición mediante los argumentos más tiernos o
 
-los ms sabios consejos. Ustedes regresarn y dirn como lo hemos hecho
+los más sabios consejos. Ustedes regresarán y dirán como lo hemos hecho
 
-nosotros: Quin ha credo a nuestro anuncio? Y sobre quin se ha manifestado
+nosotros: “żQuién ha creído a nuestro anuncio? żY sobre quién se ha manifestado
 
-el brazo de Jehov?
+el brazo de Jehová?”
 
-S, queridos amigos, y
+Sí, queridos amigos, y
 
-las ms solemnes
+las más solemnes
 
 verdades
 
-que en s
+que en sí
 
-mismas tienen una tendencia natural a herir el corazn, no pueden hacerlo
+mismas tienen una tendencia natural a herir el corazón, no pueden hacerlo
 
-aparte de la obra del propio Dios. Ah est la espada que en s misma es aguda
+aparte de la obra del propio Dios. Ahí está la espada que en sí misma es aguda
 
-y cortante, pero ningn varn puede manejarla. El brazo eterno tiene que
+y cortante, pero ningún varón puede manejarla. El brazo eterno tiene que
 
-revelarse o la piel de behemot no sentir el arma. Una espada cortar a travs
+revelarse o la piel de behemot no sentirá el arma. Una espada cortará a través
 
-de una cota de malla si un Corazn de Len la blande; pero en la mano de un
+de una cota de malla si un Corazón de León la blande; pero en la mano de un
 
-nio no herir para matar. Dios tiene que tomar
+nińo no herirá para matar. Dios tiene que tomar
 
 la Escritura
 
 en Su mano y
 
-tiene que usarla para partir las coyunturas y los tutanos, o los pecadores
+tiene que usarla para partir las coyunturas y los tuétanos, o los pecadores
 
-escaparn de su poder. Hay verdades terribles en
+escaparán de su poder. Hay verdades terribles en
 
 la Biblia
 
-que deberan hacer
+que deberían hacer
 
-temblar a los hombres, pero ellos las oyen, las niegan, incluso se ren de
+temblar a los hombres, pero ellos las oyen, las niegan, incluso se ríen de
 
-ellas, y continan en pecado. Hay dulces verdades que deberan hacer brotar
+ellas, y continúan en pecado. Hay dulces verdades que deberían hacer brotar
 
-lgrimas de una roca, pero ustedes pueden hablar del sudor sangriento de
+lágrimas de una roca, pero ustedes pueden hablar del sudor sangriento de
 
-Getseman y de las cinco amadas heridas de Aquel que fue encontrado culpable
+Getsemaní y de las cinco amadas heridas de Aquel que fue encontrado culpable
 
-por exceso de amor, y, sin embargo, los hombres lo oirn y seguirn su camino,
+por exceso de amor, y, sin embargo, los hombres lo oirán y seguirán su camino,
 
-cada uno a su labranza y otro a sus negocios, y olvidarn todo. Yo les
+cada uno a su labranza y otro a sus negocios, y olvidarán todo. Yo les
 
-garantizo que las verdades son poderosas, pero no lo sern si el poderoso Dios
+garantizo que las verdades son poderosas, pero no lo serán si el poderoso Dios
 
-no las aplica al corazn y a la conciencia.
+no las aplica al corazón y a la conciencia.
 
-Y en adicin a la
+Y en adición a la
 
 verdad,
 
@@ -292,385 +292,385 @@ la providencia
 
 misma puede
 
-venir y obrar en el corazn de los hombres pero sin causar ninguna herida del
+venir y obrar en el corazón de los hombres pero sin causar ninguna herida del
 
-tipo requerido. Yo he visto que los impos son llevados a la miseria y a la
+tipo requerido. Yo he visto que los impíos son llevados a la miseria y a la
 
 pobreza por sus extravagancias, y que son llevados a la enfermedad y a las
 
 puertas de la muerte por sus lujurias, y sin embargo, no han sido heridos. Han
 
-visto el resultado del pecado, lo han sentido incluso en la mdula de sus
+visto el resultado del pecado, lo han sentido incluso en la médula de sus
 
-huesos, y sin embargo, los perros han regresado a su vmito. Todava se han
+huesos, y sin embargo, los perros han regresado a su vómito. Todavía se han
 
-aferrado a sus dolos y se han apegado a sus abominaciones. El nio que se ha
+aferrado a sus ídolos y se han apegado a sus abominaciones. El nińo que se ha
 
 quemado siente terror del fuego, pero el pecador quemado mete su mano en la
 
 llama de nuevo. Hemos visto a hombres tan enfermos que temblaban ante el
 
-pensamiento de la muerte, y por lo que decan se supona que estaban realmente
+pensamiento de la muerte, y por lo que decían se suponía que estaban realmente
 
-compungidos y que llevaran otra vida si la salud les era restaurada; pero, ay,
+compungidos y que llevarían otra vida si la salud les era restaurada; pero, ay,
 
 hemos visto que su salud les fue restaurada, pero pecaron peor que antes. Los
 
 perversos rompen Sus ligaduras y echan de ellos Sus cuerdas. Todos los terrores
 
-de la providencia los lutos, las prdidas, las enfermedades- todas esas cosas
+de la providencia –los lutos, las pérdidas, las enfermedades- todas esas cosas
 
-han fallado con los inconversos. Su corazn diamantino ha doblado el filo del
+han fallado con los inconversos. Su corazón diamantino ha doblado el filo del
 
-arado que pretenda quebrantarlo. Los hombres han desgastado todas las agencias
+arado que pretendía quebrantarlo. Los hombres han desgastado todas las agencias
 
-de la gracia y de la providencia, pero ellos no han sido heridos; su corazn es
+de la gracia y de la providencia, pero ellos no han sido heridos; su corazón es
 
-duro como el de leviatn, s, su corazn es firme como una piedra, y fuerte
+duro como el de leviatán, “sí, su corazón es firme como una piedra, y fuerte
 
-como la muela de abajo. Nadie puede herir eficazmente el corazn sino solo
+como la muela de abajo”. Nadie puede herir eficazmente el corazón sino solo
 
 Dios.
 
 Ahora, lo mismo es
 
-cierto acerca de la curacin:
+cierto acerca de la curación:
 
 nadie sino
 
-el Seor puede sanar.
+el Seńor puede sanar.
 
 Eso es cierto, por supuesto, con respecto a quienes nunca
 
-fueron heridos. Nadie podra sanar a esas personas. He conocido a algunos
+fueron heridos. Nadie podría sanar a esas personas. He conocido a algunos
 
-predicadores que han intentado hacerlo, aunque siempre me pareci que era una
+predicadores que han intentado hacerlo, aunque siempre me pareció que era una
 
 pobre obra intentar sanar a los hombres que nunca han sido heridos, predicar
 
-misericordia a personas que creen que no tienen ningn pecado, predicar gracia
+misericordia a personas que creen que no tienen ningún pecado, predicar gracia
 
-a hombres que suean que poseen mritos propios. Cristo no hizo eso; l dijo: No
+a hombres que sueńan que poseen méritos propios. Cristo no hizo eso; Él dijo: “No
 
-he venido a llamar a justos, sino a pecadores al arrepentimiento. Los que estn
+he venido a llamar a justos, sino a pecadores al arrepentimiento. Los que están
 
-sanos no tienen necesidad de mdico, sino los enfermos. No hay ninguna
+sanos no tienen necesidad de médico, sino los enfermos”. No hay ninguna
 
-curacin, entonces, para aquellos que no estn heridos; e igualmente no hay
+curación, entonces, para aquellos que no están heridos; e igualmente no hay
 
-ninguna curacin para aquellos que estn heridos, a menos que Dios ponga Su
+ninguna curación para aquellos que están heridos, a menos que Dios ponga Su
 
-mano en sus heridas. Te has encontrado alguna vez con personas heridas
+mano en sus heridas. żTe has encontrado alguna vez con personas heridas
 
-espiritualmente? Si te las has encontrado, si eres un creyente, todo tu corazn
+espiritualmente? Si te las has encontrado, si eres un creyente, todo tu corazón
 
 se ha volcado a ellas y tomando ejemplos de tu propia experiencia y promesas de
 
-la palabra de Dios y dulces alientos de la doctrina evanglica, te has esforzado
+la palabra de Dios y dulces alientos de la doctrina evangélica, te has esforzado
 
-para derramar un blsamo sanador en sus heridas sangrantes. Pero no has
+para derramar un bálsamo sanador en sus heridas sangrantes. żPero no has
 
-fracasado con frecuencia? Es ms, sin la obra del Espritu del Dios viviente,
+fracasado con frecuencia? Es más, sin la obra del Espíritu del Dios viviente,
 
-no has fallado siempre, y no has de fracasar siempre? Ah, queridos amigos, una
+żno has fallado siempre, y no has de fracasar siempre? Ah, queridos amigos, una
 
-cosa es hablar de un espritu herido, pero otra cosa muy diferente es sentir un
+cosa es hablar de un espíritu herido, pero otra cosa muy diferente es sentir un
 
-espritu herido; y ustedes pueden hablar acerca de la restauracin de la salud,
+espíritu herido; y ustedes pueden hablar acerca de la restauración de la salud,
 
-tambin, pero es otra cosa muy diferente recibir la curacin, y otra cosa muy
+también, pero es otra cosa muy diferente recibir la curación, y otra cosa muy
 
 diferente aplicarla. Cuando Dios corta a un hombre con Su grandiosa espada,
 
-como una vez me hiri a m, yo les garantizo que ninguna ordenanza lo sanar.
+como una vez me hirió a mí, yo les garantizo que ninguna ordenanza lo sanará.
 
-No le dice un amigo- ven y escucha un sermn. l lo oye, pero la
+“No” –le dice un amigo- “ven y escucha un sermón”. Él lo oye, pero la
 
-predicacin lo pone peor, y se siente ms triste que nunca. He conocido a
+predicación lo pone peor, y se siente más triste que nunca. He conocido a
 
 personas lo suficientemente insensatas como para persuadir a tales buscadores a
 
-que se acerquen a la mesa de la comunin. Slo han comido y bebido condenacin
+que se acerquen a la mesa de la comunión. Sólo han comido y bebido condenación
 
-para ellas mismas. Mientras estaban a la mesa saban que eran intrusas, y sus
+para ellas mismas. Mientras estaban a la mesa sabían que eran intrusas, y sus
 
-corazones sangraron ms que nunca. T puedes pacificar fcilmente a un hombre
+corazones sangraron más que nunca. Tú puedes pacificar fácilmente a un hombre
 
-cuyo sentido de pecado es una mera pretensin, tal como podras sanar
+cuyo sentido de pecado es una mera pretensión, tal como podrías sanar
 
-fcilmente la imitacin de una herida; pero no sucede as con alguien en cuyo
+fácilmente la imitación de una herida; pero no sucede así con alguien en cuyo
 
-interior se enconan las flechas del Seor. Ese hombre necesita una ciruga
+interior se enconan las flechas del Seńor. Ese hombre necesita una cirugía
 
-divina. En cuanto al penitente hipcrita, si le das sacramentos externos cree
+divina. En cuanto al penitente hipócrita, si le das sacramentos externos cree
 
-que ya est bien; pero si Dios le ha herido, ni todos los sacramentos bajo el
+que ya está bien; pero si Dios le ha herido, ni todos los sacramentos bajo el
 
-cielo le ministraran consuelo jams. Tiene que acudir a Dios para eso, pues
+cielo le ministrarían consuelo jamás. Tiene que acudir a Dios para eso, pues
 
-slo puede encontrarse el consuelo en Cristo Jess. Ningn predicador, por
+sólo puede encontrarse el consuelo en Cristo Jesús. Ningún predicador, por
 
-veraz y ortodoxo que sea, s, y ninguna doctrina de
+veraz y ortodoxo que sea, sí, y ninguna doctrina de
 
 la Biblia
 
 , a pesar de que
 
-todas son inspiradas, podran consolar a un alma que se desangra mientras el
+todas son inspiradas, podrían consolar a un alma que se desangra mientras el
 
-eterno Seor no se incline desde Su trono en el cielo y restae al quebrantado
+eterno Seńor no se incline desde Su trono en el cielo y restańe al quebrantado
 
-de corazn. Yo s que as es. La verdad del Evangelio es suficiente en s misma
+de corazón. Yo sé que así es. La verdad del Evangelio es suficiente en sí misma
 
-para consolar a todos los que lloran, pero no consolar a nadie en tanto que
+para consolar a todos los que lloran, pero no consolará a nadie en tanto que
 
-permanezca all la incredulidad natural del corazn. Ponte en contacto con un
+permanezca allí la incredulidad natural del corazón. Ponte en contacto con un
 
-espritu lacerado, desgarrado por la incredulidad, e intenta cualquier cosa que
+espíritu lacerado, desgarrado por la incredulidad, e intenta cualquier cosa que
 
-puedas hacer. Dile: Confa en el Seor, amigo mo, y l te responde: No
+puedas hacer. Dile: “Confía en el Seńor, amigo mío”, y él te responde: “No
 
-puedo confiar. Dile que Cristo Jess vino al mundo para salvar a los
+puedo confiar”. Dile que Cristo Jesús vino al mundo para salvar a los
 
-pecadores, y l te dice que lo sabe pero que no puede apropirselo. Sigue
+pecadores, y él te dice que lo sabe pero que no puede apropiárselo. Sigue
 
-contndole cmo recibe el Seor al primero de los pecadores. Cumple tu deber
+contándole cómo recibe el Seńor al primero de los pecadores. Cumple tu deber
 
-con l, pues ya sea que puedas sanarle o no, ests obligado a exponerle el
+con él, pues ya sea que puedas sanarle o no, estás obligado a exponerle el
 
-Evangelio. Pero descubrirs que has trabajado en vano si has salido en tu
+Evangelio. Pero descubrirás que has trabajado en vano si has salido en tu
 
-propia fuerza, y si has olvidado el espritu de oracin y la humilde confianza
+propia fuerza, y si has olvidado el espíritu de oración y la humilde confianza
 
-que son tan necesarios para el xito. Dios puede usarte para sanar a un corazn
+que son tan necesarios para el éxito. Dios puede usarte para sanar a un corazón
 
-quebrantado, pero t solo no puedes hacerlo.
+quebrantado, pero tú solo no puedes hacerlo.
 
 Oyente inconverso, no
 
-nos mires a nosotros como si pudiramos hacer algo por ti, sino mira nicamente
+nos mires a nosotros como si pudiéramos hacer algo por ti, sino mira únicamente
 
-a Jess. Ah, amigo, si yo pudiera herirte y si yo pudiera sanarte, eso no te
+a Jesús. Ah, amigo, si yo pudiera herirte y si yo pudiera sanarte, eso no te
 
-hara ningn bien. Si yo pudiera convertir a todo pecador aqu presente, de
+haría ningún bien. Si yo pudiera convertir a todo pecador aquí presente, żde
 
-qu servira la conversin humana? Seguramente han escuchado la ancdota del
+qué serviría la conversión humana? Seguramente han escuchado la anécdota del
 
-seor Rowland Hill, a quien se le acerc una noche un borracho que camin
+seńor Rowland Hill, a quien se le acercó una noche un borracho que caminó
 
-tambalendose hacia l y le dijo: Hola, seor Hill, yo soy uno de sus
+tambaleándose hacia él y le dijo: “ˇHola, seńor Hill, yo soy uno de sus
 
-convertidos! Ah, dijo el seor Rowland Hill, muy probablemente, pero t no
+convertidos!” “Ah”, dijo el seńor Rowland Hill, “muy probablemente, pero tú no
 
-eres de los convertidos de Dios, pues de lo contrario no estaras borracho.
+eres de los convertidos de Dios, pues de lo contrario no estarías borracho”.
 
 Ahora, nuestros convertidos, si fueran
 
 nuestros
 
-convertidos, seran producciones muy pobres. Si un hombre pudiera
+convertidos, serían producciones muy pobres. Si un hombre pudiera
 
-convertirlos, otro hombre podra revertir su proceso de conversin. Lo que es
+convertirlos, otro hombre podría revertir su proceso de conversión. Lo que es
 
-obrado por la carne puede ser deshecho por la carne. Os es necesario nacer de
+obrado por la carne puede ser deshecho por la carne. “Os es necesario nacer de
 
-nuevo. El que no naciere de nuevo, no puede ver el reino de Dios. A menos que
+nuevo. El que no naciere de nuevo, no puede ver el reino de Dios”. A menos que
 
-haya un obra de gracia en el alma que no pueden obrar jams ni la voluntad del
+haya un obra de gracia en el alma que no pueden obrar jamás ni la voluntad del
 
-hombre, ni la voluntad de la carne, ni la sangre, ni el nacimiento, ni la educacin,
+hombre, ni la voluntad de la carne, ni la sangre, ni el nacimiento, ni la educación,
 
-ni la enseanza; digo que a menos que haya un poder sobrenatural ejercido en
+ni la enseńanza; digo que a menos que haya un poder sobrenatural ejercido en
 
-nosotros, no veremos jams el rostro de Dios con aceptacin al final.
+nosotros, no veremos jamás el rostro de Dios con aceptación al final.
 
-Entonces he ah la
+Entonces he ahí la
 
-primera verdad: slo Dios puede herir y slo Dios puede sanar.
+primera verdad: sólo Dios puede herir y sólo Dios puede sanar.
 
 II.
 
 Y
 
-ahora, en segundo lugar, EL SEOR PUEDE HERIR Y L PUEDE SANAR. Cun grande
+ahora, en segundo lugar, EL SEŃOR PUEDE HERIR Y ÉL PUEDE SANAR. ˇCuán grande
 
-misericordia es esta, y cun consoladoramente anima al cristiano a hacer su
+misericordia es esta, y cuán consoladoramente anima al cristiano a hacer su
 
 trabajo!
 
-El Seor puede herir.
+El Seńor puede herir.
 
-l puede
+Él puede
 
-atravesar el corazn ms impensado. Miren a Saulo de Tarso. Cuando se apresuraba
+atravesar el corazón más impensado. Miren a Saulo de Tarso. Cuando se apresuraba
 
-a Damasco para arrastrar a prisin a los santos nunca se hubiera pensado que sera
+a Damasco para arrastrar a prisión a los santos nunca se hubiera pensado que sería
 
-humillado y conducido a clamar: Qu quieres que yo haga? El Seor conoca a
+humillado y conducido a clamar: “żQué quieres que yo haga?” El Seńor conocía a
 
-Su hombre, y justo cuando estaba en la ladera de la colina y poda ver a
+Su hombre, y justo cuando estaba en la ladera de la colina y podía ver a
 
-Damasco en la llanura y estaba presto a devorar a los santos, el Seor dej
+Damasco en la llanura y estaba presto a devorar a los santos, el Seńor dejó
 
-escapar una flecha. Al suelo cay un tal Saulo de Tarso, tan herido que tom
+escapar una flecha. Al suelo cayó un tal Saulo de Tarso, tan herido que tomó
 
-tres das extraerle la flecha. Esto fue maravilloso pues Saulo era como
+tres días extraerle la flecha. Esto fue maravilloso pues Saulo era como
 
-leviatn, de quien leemos: Cuando alguno lo alcanzare, ni espada, ni lanza, ni
+leviatán, de quien leemos: “Cuando alguno lo alcanzare, ni espada, ni lanza, ni
 
-dardo, ni coselete durar; sin embargo, la flecha del Seor lo derrib. El
+dardo, ni coselete durará”; sin embargo, la flecha del Seńor lo derribó. El
 
-Seor puede derribar a los hombres en los lugares ms impensables. Yo he sabido
+Seńor puede derribar a los hombres en los lugares más impensables. Yo he sabido
 
-que la flecha de la conviccin ha alcanzado a un hombre que no haba entrado en
+que la flecha de la convicción ha alcanzado a un hombre que no había entrado en
 
-un lugar de adoracin durante aos. Tal es la infinita soberana de Dios que
+un lugar de adoración durante ańos. Tal es la infinita soberanía de Dios que
 
-llama pueblo mo al que no era Su pueblo, y es hallado por los que no le
+llama pueblo mío al que no era Su pueblo, y es hallado por los que no le
 
-buscaban. S, incluso en las guaridas del pecado un hombre no est protegido de
+buscaban. Sí, incluso en las guaridas del pecado un hombre no está protegido de
 
 las flechas de Dios; me refiero a las flechas del infinito amor de Dios. Dios
 
-puede todava tocar la conciencia. Ustedes saben que leviatn est forrado en
+puede todavía tocar la conciencia. Ustedes saben que leviatán está forrado en
 
-su cuerpo con escudos fuertes, cerrados entre s estrechamente; con todo, aun
+su cuerpo con escudos fuertes, “cerrados entre sí estrechamente”; con todo, aun
 
-en leviatn hay un punto dbil. El astuto cazador sabe cmo encontrarlo. Hay
+en leviatán hay un punto débil. El astuto cazador sabe cómo encontrarlo. Hay
 
-algunos hombres tan escpticos, tan ateos, tan profanos, tan abominables, que
+algunos hombres tan escépticos, tan ateos, tan profanos, tan abominables, que
 
-nadie se atreve a acercarse a ellos; sin embargo, lo hemos sabido dgase para
+nadie se atreve a acercarse a ellos; sin embargo, lo hemos sabido –dígase para
 
-alabanza de la gracia soberana- el Seor ha herido aun a esos con Su espada
+alabanza de la gracia soberana- el Seńor ha herido aun a esos con Su espada
 
-grande y fuerte, y despus los ha sanado mediante Su poderosa gracia. Nunca
+grande y fuerte, y después los ha sanado mediante Su poderosa gracia. Nunca
 
-pierdan la esperanza por nadie. Si la salvacin fuera una obra humana podran
+pierdan la esperanza por nadie. Si la salvación fuera una obra humana podrían
 
 desesperar; pero como es una obra de Dios, no desesperen de nadie. El desventurado
 
-que es lo ms parecido a un demonio encarnado puede convertirse todava en un
+que es lo más parecido a un demonio encarnado puede convertirse todavía en un
 
-ngel de Dios. Tal es la gracia de Dios que aunque los hombres hagan una
+ángel de Dios. Tal es la gracia de Dios que aunque los hombres hagan una
 
-alianza con la muerte y un pacto con el infierno, l puede romper sus alianzas
+alianza con la muerte y un pacto con el infierno, Él puede romper sus alianzas
 
 e invalidar sus pactos, puede arrebatar la presa de entre las fauces del
 
-dragn, y alcanzar renombre para l.
+dragón, y alcanzar renombre para Él.
 
-Entonces, el Seor puede
+Entonces, el Seńor puede
 
-herir. l puede herir a algunos que han estado escuchando el Evangelio durante
+herir. Él puede herir a algunos que han estado escuchando el Evangelio durante
 
-aos y han desafiado Su poder. Mis flechas han cascabeleado contra su arns, y
+ańos y han desafiado Su poder. Mis flechas han cascabeleado contra su arnés, y
 
-yo he dicho: Todo es en vano; pero yo ruego a mi Seor que uno de estos das
+yo he dicho: “Todo es en vano”; pero yo ruego a mi Seńor que uno de estos días
 
-cuando est tensando un arco a la ventura, le agrade dirigirlo entre esa
+cuando esté tensando un arco a la ventura, le agrade dirigirlo entre esa
 
-juntura del arns que yo tema que no exista, esa pequea juntura donde la
+juntura del arnés que yo temía que no existía, esa pequeńa juntura donde la
 
-hombrera no encaja ajustadamente en el peto. Yo tema que estuviera revestido
+hombrera no encaja ajustadamente en el peto. Yo temía que estuviera revestido
 
-con los escudos fuertes de leviatn, de los que leemos: El uno se junta con el
+con los escudos fuertes de leviatán, de los que leemos: “El uno se junta con el
 
-otro, que viento no entra entre ellos. Pegado est el uno con el otro; sin
+otro, que viento no entra entre ellos. Pegado está el uno con el otro”; sin
 
-embargo, el Seor puede enviar Su flecha y hacer que el altivo corazn sienta
+embargo, el Seńor puede enviar Su flecha y hacer que el altivo corazón sienta
 
-el poder de Su gloriosa verdad. Los seres humanos ms irreflexivos, los ms
+el poder de Su gloriosa verdad. Los seres humanos más irreflexivos, los más
 
-negligentes y los ms abandonados estn an dentro del alcance del arco del
+negligentes y los más abandonados están aún dentro del alcance del arco del
 
-Seor.
+Seńor.
 
-Qu lado tan dulce de la
+Qué lado tan dulce de la
 
 verdad es su segunda parte, es decir, que
 
-l
+Él
 
 puede sanar.
 
-Hay algunos casos terribles de heridas sangrantes! Yo me
+ˇHay algunos casos terribles de heridas sangrantes! Yo me
 
 pregunto si en esta audiencia cuento con algunas almas desesperadamente
 
-heridas. He sabido que el corazn sangra como si se desangrara hasta la muerte
+heridas. He sabido que el corazón sangra como si se desangrara hasta la muerte
 
-bajo la espada de la conviccin. Algunos son conducidos a la desesperacin, y
+bajo la espada de la convicción. Algunos son conducidos a la desesperación, y
 
 han estado dispuestos a poner manos violentas sobre ellos mismos en la amargura
 
 de sus almas. Que resuene como trompeta para que estos pobres seres
 
-desesperados puedan orlo:
+desesperados puedan oírlo:
 
-el Seor puede
+el Seńor puede
 
 sanar.
 
-No hay ningn caso tan desesperado que Jehov-Jess no pueda
+No hay ningún caso tan desesperado que Jehová-Jesús no pueda
 
-restaurar. Desesperacin, tienes que dejar ir a tu cautivo! Desnimo, tienes
+restaurar. ˇDesesperación, tienes que dejar ir a tu cautivo! ˇDesánimo, tienes
 
-que abrir tu crcel cuando Jess llega! l ha venido del Padre con el propsito
+que abrir tu cárcel cuando Jesús llega! Él ha venido del Padre con el propósito
 
-de liberar a los cautivos y decir a los que estn esclavizados, Eres libre.
+de liberar a los cautivos y decir a los que están esclavizados, “Eres libre”.
 
 Las heridas que Dios
 
-inflige son propensas a enconarse. Ustedes recordarn lo que dijo el salmista:
+inflige son propensas a enconarse. Ustedes recordarán lo que dijo el salmista:
 
-Hieden y supuran mis llagas. Cuando hay mala sangre, hemos sabido que las
+“Hieden y supuran mis llagas”. Cuando hay mala sangre, hemos sabido que las
 
 heridas de los seres humanos se tornan horribles; y algunas almas que han
 
 experimentado una conciencia despierta se han convertido en un terror para
 
-ellas mismas. Yo no puedo ser salvada, dicen. Yo no puedo orar. Cmo puede
+ellas mismas. “Yo no puedo ser salvada”, dicen. “Yo no puedo orar. żCómo puede
 
-orar jams un desventurado como yo? No puedo esperar recibir misericordia.
+orar jamás un desventurado como yo? No puedo esperar recibir misericordia.
 
-Sera una sorpresa para el cielo y tambin para el infierno si yo encontrara
+Sería una sorpresa para el cielo y también para el infierno si yo encontrara
 
-alguna vez misericordia. Escchame, y deja que tu propio corazn lo crea; t
+alguna vez misericordia”. Escúchame, y deja que tu propio corazón lo crea; tú
 
 ciertamente puedes recuperarte. Dios, quien hace todas las cosas y para quien
 
-nada es imposible, puede sanar tus heridas aunque apesten a corrupcin. Si t
+nada es imposible, puede sanar tus heridas aunque apesten a corrupción. Si tú
 
-ests a las puertas del infierno, si t parecieras estar ya metido a medias en
+estás a las puertas del infierno, si tú parecieras estar ya metido a medias en
 
-el Tofet, Su brazo es lo suficientemente fuerte para ayudarte ahora. Si t
+el Tofet, Su brazo es lo suficientemente fuerte para ayudarte ahora. Si tú
 
-miraras a Cristo elevado en la cruz, hay perdn, vida, aceptacin, gozo, y
+miraras a Cristo elevado en la cruz, hay perdón, vida, aceptación, gozo, y
 
-cielo para ti, aun para ti. Aquel que te hiri te sanar, aquel que te ha
+cielo para ti, aun para ti. Aquel que te hirió te sanará, aquel que te ha
 
-quebrantado te vendar. Aquel que te ha hecho morir, har que vivas. Que tus
+quebrantado te vendará. Aquel que te ha hecho morir, hará que vivas. Que tus
 
-odos den cabida al alegre mensaje que he recibido la orden de entregarte: Yo
+oídos den cabida al alegre mensaje que he recibido la orden de entregarte: “Yo
 
-hiero, y Yo sano.
+hiero, y Yo sano”.
 
-Con todo, djenme
+Con todo, déjenme
 
-exhortarlos diciendo que no busquen una curacin en ninguna otra parte excepto
+exhortarlos diciendo que no busquen una curación en ninguna otra parte excepto
 
-en Dios, en Cristo Jess. Huyan del pensamiento de ser sanados a menos que el
+en Dios, en Cristo Jesús. Huyan del pensamiento de ser sanados a menos que el
 
-Seor los sane. Me da miedo que un alma herida acuda a un ministro o a un
+Seńor los sane. Me da miedo que un alma herida acuda a un ministro o a un
 
-sacerdote, o a la persona ms religiosa en el mundo, y piense en obtener de un
+sacerdote, o a la persona más religiosa en el mundo, y piense en obtener de un
 
-hombre la curacin. Tus heridas tienen el propsito de conducirte a tu Dios. Bscale
+hombre la curación. Tus heridas tienen el propósito de conducirte a tu Dios. Búscale
 
-a l y a nadie ms. Cae de rodillas ahora en tu aposento privado, o si no
+a Él y a nadie más. Cae de rodillas ahora en tu aposento privado, o si no
 
-tuvieras uno, qudate solo incluso en la calle, pues t puedes estar solo en
+tuvieras uno, quédate solo incluso en la calle, pues tú puedes estar solo en
 
 medio de una multitud; pero acude
 
@@ -678,51 +678,51 @@ a Dios
 
 con
 
-tu corazn sangrante. Dile: yo soy un pecador; Seor, yo soy casi un pecador
+tu corazón sangrante. Dile: “yo soy un pecador; Seńor, yo soy casi un pecador
 
 condenado. Yo he sido un ofensor tal que a duras penas me atrevo a esperar;
 
-pero oigo que T puedes sanarme y darme consuelo. Oh, por el nombre de Jess,
+pero oigo que Tú puedes sanarme y darme consuelo. Oh, por el nombre de Jesús,
 
-ten misericordia de m. Yo te doy gracias porque T me has herido; sera mejor
+ten misericordia de mí. Yo te doy gracias porque Tú me has herido; sería mejor
 
-para m estar herido que ser tan indiferente y tan descuidado como sola ser;
+para mí estar herido que ser tan indiferente y tan descuidado como solía ser;
 
-pero ahora, Seor, no me hagas pedazos por completo ni me trates como a un
+pero ahora, Seńor, no me hagas pedazos por completo ni me trates como a un
 
-enemigo. Mi espritu desfallece a menos que T me consueles. Oh, mrame! Si
+enemigo. Mi espíritu desfallece a menos que Tú me consueles. ˇOh, mírame!” Si
 
-no pudieras decir todo eso, deja que tus lgrimas rueden y mira a lo alto
+no pudieras decir todo eso, deja que tus lágrimas rueden y mira a lo alto
 
-diciendo: Dios s propicio a m, pecador. Pero clama a l, y encontrars una
+diciendo: “Dios sé propicio a mí, pecador”. Pero clama a Él, y encontrarás una
 
-curacin, pues Dios puede sanarte y nadie ms que l. Fuera con aquellos que
+curación, pues Dios puede sanarte y nadie más que Él. Fuera con aquellos que
 
-suean que la religiosidad externa puede hacerles bien. Fuera, fuera con los
+sueńan que la religiosidad externa puede hacerles bien. Fuera, fuera con los
 
-engaadores que quieren decirles que
+engańadores que quieren decirles que
 
 ellos
 
-pueden darles el perdn. Ningn hombre viviente puede absolver a sus
+pueden darles el perdón. Ningún hombre viviente puede absolver a sus
 
-prjimos pecadores: esa pretensin es el superlativo de la blasfemia. Dios est
+prójimos pecadores: esa pretensión es el superlativo de la blasfemia. Dios está
 
-en Cristo Jess reconciliando al mundo para S, no imputndoles sus delitos a
+en Cristo Jesús reconciliando al mundo para Sí, no imputándoles sus delitos a
 
-ellos, y nos ha entregado la palabra de reconciliacin, y nos alegra proclamar
+ellos, y nos ha entregado la palabra de reconciliación, y nos alegra proclamar
 
-esa palabra, y sealarles al Seor Jess quien es exaltado en lo alto para dar
+esa palabra, y seńalarles al Seńor Jesús quien es exaltado en lo alto para dar
 
-arrepentimiento y remisin de los pecados.
+arrepentimiento y remisión de los pecados.
 
 III.
 
 Ahora
 
-llego a mi tercero y ltimo punto, que es: EL SEOR EN EFECTO HIERE Y SANA.
+llego a mi tercero y último punto, que es: EL SEŃOR EN EFECTO HIERE Y SANA.
 
-Tengo dos cosas aqu esta noche. Slo voy a mostrrselas y habr terminado. Primero,
+Tengo dos cosas aquí esta noche. Sólo voy a mostrárselas y habré terminado. Primero,
 
 tengo un manojo de flechas
 
@@ -732,357 +732,357 @@ visto que han sido disparadas en diferentes ocasiones por el arco de Dios para
 
 herir a los hombres. Yo no puedo dispararlas contra ustedes en este momento,
 
-pero voy a mostrrselas.
+pero voy a mostrárselas.
 
-He sabido que l ha
+He sabido que Él ha
 
 disparado esta flecha contra un hombre: la flecha de la continua longanimidad.
 
-l ha sido muy bueno para el pecador, y durante aos ha prolongado su benevolencia
+Él ha sido muy bueno para el pecador, y durante ańos ha prolongado su benevolencia
 
-para con l. Agustn cuenta de un individuo para quien Dios era tan
+para con él. Agustín cuenta de un individuo para quien Dios era tan
 
-maravillosamente benvolo, aunque el hombre era maravillosamente malo, que al
+maravillosamente benévolo, aunque el hombre era maravillosamente malo, que al
 
-final se sorprendi de la bondad de Dios y como el Seor continu amontonando
+final se sorprendió de la bondad de Dios y como el Seńor continuó amontonando
 
-sobre l beneficios, dio un giro y clam: Dios sumamente benigno, estoy
+sobre él beneficios, dio un giro y clamó: “Dios sumamente benigno, estoy
 
-avergonzado de ser Tu enemigo por ms tiempo. Yo confieso mi pecado y me
+avergonzado de ser Tu enemigo por más tiempo. Yo confieso mi pecado y me
 
-arrepiento de l. Cmo deseara que esta flecha atravesara sus corazones! Es
+arrepiento de él”. ˇCómo desearía que esta flecha atravesara sus corazones! Es
 
-una flecha que fcilmente penetra en una mente noble. Las naturalezas ms burdas
+una flecha que fácilmente penetra en una mente noble. Las naturalezas más burdas
 
-y animales no la sienten, pero donde Dios ha dejado alguna pequea chispa de
+y animales no la sienten, pero donde Dios ha dejado alguna pequeńa chispa de
 
-nobleza, un hombre siente ms fcilmente esto: No puedo seguir adelante
+nobleza, un hombre siente más fácilmente esto: “No puedo seguir adelante
 
-pecando en contra de un Dios tan bueno. Es una flecha muy aguda, pero est
+pecando en contra de un Dios tan bueno”. Es una flecha muy aguda, pero está
 
 cubierta de amor y hiere de manera sumamente dulce.
 
-He aqu otra flecha:
+He aquí otra flecha:
 
-Dios est airado contra el impo todos los das. Oh, que esta verdad les
+Dios está airado contra el impío todos los días. Oh, que esta verdad les
 
-quedara clara a algunos de ustedes, Dios est airado conmigo porque he
+quedara clara a algunos de ustedes, “Dios está airado conmigo porque he
 
-quebrantado Su santa ley; ciertamente los herira en lo ms vivo. A m no me
+quebrantado Su santa ley”; ciertamente los heriría en lo más vivo. A mí no me
 
-gusta que alguien est airado conmigo; pero, oh, que el Seor est enojado
+gusta que alguien esté airado conmigo; pero, ˇoh, que el Seńor esté enojado
 
-conmigo! Cmo podra soportarlo? Querido oyente, yo espero que sientas el
+conmigo! żCómo podría soportarlo? Querido oyente, yo espero que sientas el
 
-dolor punzante de esta advertencia. Para ti es muy fcil orla y para m
+dolor punzante de esta advertencia. Para ti es muy fácil oírla y para mí
 
-decirla, pero una vez que la sientas, desgarrar tu corazn y llenar tus lomos
+decirla, pero una vez que la sientas, desgarrará tu corazón y llenará tus lomos
 
-de agona.
+de agonía.
 
-Otra flecha: El que no
+Otra flecha: “El que no
 
-cree, ya ha sido condenado. T no has de ser condenado meramente al final; ya
+cree, ya ha sido condenado”. Tú no has de ser condenado meramente al final; ya
 
-ests condenado ahora. No ests en un estado de prueba; t ya has sido probado,
+estás condenado ahora. No estás en un estado de prueba; tú ya has sido probado,
 
-y has fallado, y en este momento ests caminando en esta tierra como un
+y has fallado, y en este momento estás caminando en esta tierra como un
 
-criminal condenado. Ah, si esa pa de hierro entrara a tu alma, en verdad te
+criminal condenado. Ah, si esa púa de hierro entrara a tu alma, en verdad te
 
-herira.
+heriría.
 
-Aqu hay otra flecha: Los
+Aquí hay otra flecha: “Los
 
-malos sern trasladados al Seol, todas las gentes que se olvidan de Dios. Estos
+malos serán trasladados al Seol, todas las gentes que se olvidan de Dios”. “Estos
 
-irn stos al castigo eterno. Muchos han estado jugando ltimamente con esa
+irán éstos al castigo eterno”. Muchos han estado jugando últimamente con esa
 
 flecha; es una herramienta filosa, y el que juega con ella debe tener mucho
 
-cuidado. Si el Seor la dirige al blanco, matar las altivas esperanzas y las
+cuidado. Si el Seńor la dirige al blanco, matará las altivas esperanzas y las
 
-vanas presunciones, tan rpidamente, como cualquier flecha en la aljaba del
+vanas presunciones, tan rápidamente, como cualquier flecha en la aljaba del
 
 Todopoderoso.
 
-He aqu otra: Te
+He aquí otra: “Te
 
-perdiste. Tu presente estado de ruina y peligro es por tu propia culpa. T te
+perdiste”. Tu presente estado de ruina y peligro es por tu propia culpa. Tú te
 
 lo buscaste, y no tienes a nadie a quien culpar excepto a ti mismo por ser un
 
-hombre perdido. Ah, eso se va a enconar, y har que el alma se duela como si
+hombre perdido. Ah, eso se va a enconar, y hará que el alma se duela como si
 
 una espada se insertara en los huesos.
 
-Y he aqu otra: T
+Y he aquí otra: “Tú
 
-ests muerto en pecado. T mismo te has destruido, pero no puedes salvarte a ti
+estás muerto en pecado. Tú mismo te has destruido, pero no puedes salvarte a ti
 
-mismo. He visto a un hombre a quien se le introdujo un trozo de esa flecha en
+mismo”. He visto a un hombre a quien se le introdujo un trozo de esa flecha en
 
-su carne y deliraba de rabia. Se mordi sus labios y dijo: No voy a volver a
+su carne y deliraba de rabia. Se mordió sus labios y dijo: “No voy a volver a
 
-or jams a ese predicador. El percibe que mi caso carece de esperanza. Ese
+oír jamás a ese predicador. El percibe que mi caso carece de esperanza”. Ese
 
-hombre no dejar de venir. Es como un pez grande en un torrente, con un gancho
+hombre no dejará de venir. Es como un pez grande en un torrente, con un gancho
 
-incrustado en sus mandbulas. l har que corra una gran cantidad de sedal y
+incrustado en sus mandíbulas. Él hará que corra una gran cantidad de sedal y
 
 nosotros dejaremos que lo haga, pero tiene que detenerse en breve por esa
 
-solemne verdad que lo retendr. Lucha denodadamente; pero ese agudo texto no es
+solemne verdad que lo retendrá. Lucha denodadamente; pero ese agudo texto no es
 
-desalojado pronto del corazn: Te perdiste, oh Israel.
+desalojado pronto del corazón: “Te perdiste, oh Israel”.
 
-Podra continuar ensendoles
+Podría continuar enseńándoles
 
-una muestra de las armas con las que Dios hiere a los hombres: l cuenta con Su
+una muestra de las armas con las que Dios hiere a los hombres: Él cuenta con Su
 
 espada de dos filos, con Su lanza, con Sus flechas, con Su hacha de combate y
 
-con armas de guerra. T dices: yo no las siento. No, yo no puedo hacer que t
+con armas de guerra. Tú dices: “yo no las siento”. No, yo no puedo hacer que tú
 
 las sientas. Ya te he dicho que no es mi brazo el que puede blandirlas, pero
 
 cuando le agrada a Dios usar cualquiera de esas armas, el pueblo cae rendido a
 
-Sus pies. Bien, -dice alguien- no creo que yo salga herido. No, pero me
+Sus pies. “Bien”, -dice alguien- “no creo que yo salga herido”. No, pero me
 
-alegra que ests en la batalla, porque cuando las flechas vuelen podran
+alegra que estés en la batalla, porque cuando las flechas vuelen podrían
 
-golpearte igual que a alguien ms. He tenido que tratar con seres heridos que
+golpearte igual que a alguien más. He tenido que tratar con seres heridos que
 
-nunca imagin ver en tal condicin. Oh, qu heridas he visto en hombres que
+nunca imaginé ver en tal condición. Oh, qué heridas he visto en hombres que
 
-estaban entregados a toda clase de pecados de moda, y que se haban burlado de
+estaban entregados a toda clase de pecados de moda, y que se habían burlado de
 
-la religin; han venido aqu al principio por los ms miserables motivos, pero
+la religión; han venido aquí al principio por los más miserables motivos, pero
 
-han tenido que regresar y llorar y clamar delante del Seor con corazones
+han tenido que regresar y llorar y clamar delante del Seńor con corazones
 
-quebrantados. Ustedes no saben dnde se pueden alojar las balas. Ustedes que
+quebrantados. Ustedes no saben dónde se pueden alojar las balas. Ustedes que
 
 son los siervos del demonio pisan un terreno peligroso cuando se acercan a un
 
-fiel ministerio. Es ms, voy a modificarlo, ests en tierra santa, donde los
+fiel ministerio. Es más, voy a modificarlo, estás en tierra santa, donde los
 
-muertos por el Seor han sido muchos y donde el pueblo de Dios est orando
+muertos por el Seńor han sido muchos y donde el pueblo de Dios está orando
 
-fervientemente por ti ahora. Yo s que en este momento estn elevando esta
+fervientemente por ti ahora. Yo sé que en este momento están elevando esta
 
-oracin: Seor, haz que las flechas den en el blanco; enva flechas certeras.
+oración: “Seńor, haz que las flechas den en el blanco; envía flechas certeras”.
 
-Sus oraciones prevalecen ante Dios, y l desnudar Su brazo. No hay ningn error
+Sus oraciones prevalecen ante Dios, y Él desnudará Su brazo. No hay ningún error
 
-en este asunto, l dice: Tendr misericordia del que yo tenga misericordia, y
+en este asunto, Él dice: “Tendré misericordia del que yo tenga misericordia, y
 
-me compadecer del que yo me compadezca. Cuando aplica Su brazo a la obra,
+me compadeceré del que yo me compadezca”. Cuando aplica Su brazo a la obra,
 
-quin se le opondr? l har todo lo que le agrade. Gloria sea dada a Su bendito
+żquién se le opondrá? Él hará todo lo que le agrade. Gloria sea dada a Su bendito
 
-nombre porque l puede herir, y en efecto hiere de acuerdo a Su eterno
+nombre porque Él puede herir, y en efecto hiere de acuerdo a Su eterno
 
-propsito.
+propósito.
 
 Ahora voy a sostener en
 
 alto ante ustedes
 
-la botella de blsamo.
+la botella de bálsamo.
 
 Cuando
 
-un alma es herida, el Seor aplica Su sagrada ciruga en el corazn. l nos ha
+un alma es herida, el Seńor aplica Su sagrada cirugía en el corazón. Él nos ha
 
-sanado a algunos de nosotros. La botella particular de blsamo que us para
+sanado a algunos de nosotros. La botella particular de bálsamo que usó para
 
-sanarme es una que yo conozco bien, y que no voy a olvidar nunca. sta era la
+sanarme es una que yo conozco bien, y que no voy a olvidar nunca. Ésta era la
 
-etiqueta, Mirad a m, y sed salvos, todos los trminos de la tierra, porque yo
+etiqueta, “Mirad a mí, y sed salvos, todos los términos de la tierra, porque yo
 
-soy Dios, y no hay ms. Vamos, saben? Yo le tena miedo a Dios hasta que o
+soy Dios, y no hay más”. Vamos, żsaben? Yo le tenía miedo a Dios hasta que oí
 
-que Dios estaba en Cristo, y que yo deba mirar a Dios en Cristo, y que el
+que Dios estaba en Cristo, y que yo debía mirar a Dios en Cristo, y que el
 
-propio Dios a quien yo tema, me salvara. Esa revelacin me fue aclarada con
+propio Dios a quien yo temía, me salvaría. ˇEsa revelación me fue aclarada con
 
-poder divino para mi alma! El predicador dijo: Miren. Eso es todo lo que se
+poder divino para mi alma! El predicador dijo: “Miren. Eso es todo lo que se
 
-necesita. All dijo- un tonto puede mirar; un niito puede mirar; alguien
+necesita”. “Allí” –dijo- “un tonto puede mirar; un nińito puede mirar; alguien
 
-que es casi un idiota puede mirar; un moribundo puede mirar. Miren dijo l-
+que es casi un idiota puede mirar; un moribundo puede mirar”. “Miren” –dijo él-
 
-y est hecho. Yo realmente le entend: que slo deba mirar a Cristo muriendo
+“y está hecho”. Yo realmente le entendí: que sólo debía mirar a Cristo muriendo
 
-en la cruz por m y ver a Dios haciendo una expiacin por mi pecado en la
+en la cruz por mí y ver a Dios haciendo una expiación por mi pecado en la
 
-persona de Su Hijo; que slo deba mirar y vivira de inmediato. As era, y yo
+persona de Su Hijo; que sólo debía mirar y viviría de inmediato. Así era, y yo
 
-efectivamente mir. Mi carga desapareci, y desde esa hora yo puedo decir lo
+efectivamente miré. Mi carga desapareció, y desde esa hora yo puedo decir lo
 
 que Cowper ha dicho tan dulcemente en el himno:
 
-Desde que por fe yo vi el torrente
+“Desde que por fe yo vi el torrente
 
 Que hacen fluir tus heridas abiertas
 
 El amor redentor ha sido mi tema,
 
-Y lo ser hasta que me muera.
+Y lo será hasta que me muera”.
 
-Oh, qu botella de
+ˇOh, qué botella de
 
-blsamo es esa: el amor redentor! Cun dulcemente se posa en el alma! El Seor
+bálsamo es esa: el amor redentor! ˇCuán dulcemente se posa en el alma! El Seńor
 
-le muestra al hombre herido que si bien est lleno de pecado, l puede
+le muestra al hombre herido que si bien está lleno de pecado, él puede
 
-desprenderse de ese pecado sin ninguna violacin de la justicia cuando el alma
+desprenderse de ese pecado sin ninguna violación de la justicia cuando el alma
 
-cree en Jess. Ahora dejen que el blsamo caiga un minuto. Todos nosotros nos
+cree en Jesús. Ahora dejen que el bálsamo caiga un minuto. “Todos nosotros nos
 
-descarriamos como ovejas, cada cual se apart por su camino: ese hecho nos
+descarriamos como ovejas, cada cual se apartó por su camino”: ese hecho nos
 
-produce heridas. Pero ahora Jehov carg en l el pecado de todos nosotros;
+produce heridas. Pero ahora “Jehová cargó en él el pecado de todos nosotros”;
 
-ningn blsamo de Galaad fue alguna vez tan potente como ese. Pobre pecador
+ningún bálsamo de Galaad fue alguna vez tan potente como ese. Pobre pecador
 
-culpable, si confas en Cristo ahora, tu pecado ya no ser ms tuyo; fue
+culpable, si confías en Cristo ahora, tu pecado ya no será más tuyo; fue
 
-cargado hace mil ochocientos aos sobre la espalda de Cristo, tu grandiosa
+cargado hace mil ochocientos ańos sobre la espalda de Cristo, tu grandiosa
 
-Fianza. l fue castigado por ese pecado, y lo ha arrojado en las profundidades
+Fianza. Él fue castigado por ese pecado, y lo ha arrojado en las profundidades
 
-del mar. T eres perdonado; vete en paz.
+del mar. Tú eres perdonado; vete en paz.
 
-He aqu otra gota de
+He aquí otra gota de
 
-blsamo: cuando un hombre es herido siente que no puede ayudarse a s mismo;
+bálsamo: cuando un hombre es herido siente que no puede ayudarse a sí mismo;
 
-pero entonces interviene esta preciosa verdad: que el Espritu de Dios puede
+pero entonces interviene esta preciosa verdad: que el Espíritu de Dios puede
 
-hacerlo. Dios ha enviado el Espritu de Su Hijo, y ese Espritu ayuda a
+hacerlo. Dios ha enviado el Espíritu de Su Hijo, y ese Espíritu ayuda a
 
-nuestras debilidades, de manera que si bien no sabemos qu debemos pedir en
+nuestras debilidades, de manera que si bien no sabemos qué debemos pedir en
 
-oracin como deberamos, ese Espritu est esperando para ayudarnos a orar. Oh,
+oración como deberíamos, ese Espíritu está esperando para ayudarnos a orar. Oh,
 
-ustedes seres heridos, que el grandioso Espritu les muestre en este momento a
+ustedes seres heridos, que el grandioso Espíritu les muestre en este momento a
 
 la persona del amado Hijo de Dios: Dios y hombre. Que les muestre a esa persona
 
 herida, cubierta con un sudor sangriento y llevado a la muerte; y que susurre
 
-dulcemente a sus odos esta noche: l fue el sustituto de ustedes, l soport
+dulcemente a sus oídos esta noche: “Él fue el sustituto de ustedes, Él soportó
 
-la ira de Dios para que no tuvieran que soportarla ustedes jams. Entonces
+la ira de Dios para que no tuvieran que soportarla ustedes jamás”. Entonces
 
-ustedes dirn al salir de esta casa, l puede sanar, pues l
+ustedes dirán al salir de esta casa, “Él puede sanar, pues Él
 
 me
 
 ha sanado. Ha hecho que deje mi
 
-desesperacin, y aun mis dudas, a mis espaldas. Ahora voy a cantarle un cntico
+desesperación, y aun mis dudas, a mis espaldas. Ahora voy a cantarle un cántico
 
 a mi Amado:
 
-Jess se ha convertido finalmente
+“Jesús se ha convertido finalmente
 
-En mi salvacin y mi fortaleza.
+En mi salvación y mi fortaleza”.
 
-As no les he predicado
+Así no les he predicado
 
-a ustedes ninguna otra cosa sino a Dios en Cristo Jess, y me alegra tenerle a
+a ustedes ninguna otra cosa sino a Dios en Cristo Jesús, y me alegra tenerle a
 
-l para predicarlo a ustedes. Supongan que hay un joven malo aqu en este
+Él para predicarlo a ustedes. Supongan que hay un joven malo aquí en este
 
-momento, que ha abandonado su casa, y ha huido de su padre. l ha hecho mal,
+momento, que ha abandonado su casa, y ha huido de su padre. Él ha hecho mal,
 
-muy mal; y en vez de ir a un padre tierno y amoroso y decirle: Padre,
+muy mal; y en vez de ir a un padre tierno y amoroso y decirle: “Padre,
 
-perdname, tiene miedo del castigo, y por tanto, ha huido. Hay un anuncio para
+perdóname”, tiene miedo del castigo, y por tanto, ha huido. Hay un anuncio para
 
-l en el peridico, invitndole a regresar a casa. Ahora, qu tiene que hacer para
+él en el periódico, invitándole a regresar a casa. Ahora, żqué tiene que hacer para
 
-enderezar su situacin con su padre? Este pobre muchacho, descarriado, rebelde
+enderezar su situación con su padre? Este pobre muchacho, descarriado, rebelde
 
-y perdido, se ha involucrado con la propia escoria de Londres, y est yendo a
+y perdido, se ha involucrado con la propia escoria de Londres, y está yendo a
 
-la ruina y est padeciendo hambre hasta la muerte. Qu debe hacer? Muchacho,
+la ruina y está padeciendo hambre hasta la muerte. żQué debe hacer? Muchacho,
 
-debes regresar a casa, a tu padre; anda a casa con tu padre. l te ama; l
+debes regresar a casa, a tu padre; anda a casa con tu padre. Él te ama; él
 
-anhela verte; est afligido de corazn por ti. Oh, si te viera esta noche, su
+anhela verte; está afligido de corazón por ti. ˇOh, si te viera esta noche, su
 
-corazn se rompera al verte en tus andrajos! l quiere que regreses a casa.
+corazón se rompería al verte en tus andrajos! Él quiere que regreses a casa.
 
-No ven ustedes que sera muy insensato que ese muchacho dijera: Me voy a meter
+żNo ven ustedes que sería muy insensato que ese muchacho dijera: “Me voy a meter
 
-a una institucin, o Voy a tratar de ganar dinero? Tu padre es rico, bueno,
+a una institución”, o “Voy a tratar de ganar dinero”? Tu padre es rico, bueno,
 
-sabio, y amable; lo mejor que podras hacer es ir a casa, a tu padre. Si
+sabio, y amable; lo mejor que podrías hacer es ir a casa, a tu padre. Si
 
-regresas a casa, a tu padre, todo estar bien. Ahora, tomen la parbola. Todos
+regresas a casa, a tu padre, todo estará bien. Ahora, tomen la parábola. Todos
 
-nosotros hemos dejado a nuestro padre, y nos hemos ido a un pas lejano. No
+nosotros hemos dejado a nuestro padre, y nos hemos ido a un país lejano. No
 
 estaremos bien nunca a menos que regresemos a Aquel de quien nos hemos
 
-extraviado. Y Jess Dios en Cristo Jess- est esperando para darnos la
+extraviado. Y Jesús –Dios en Cristo Jesús- está esperando para darnos la
 
-bienvenida; l est afligido por nosotros ahora. Slo tenemos que ir a l, pues
+bienvenida; Él está afligido por nosotros ahora. Sólo tenemos que ir a Él, pues
 
-dice que nunca echar fuera a nadie que venga a l. Yo no s cmo me va a
+dice que nunca echará fuera a nadie que venga a Él. “Yo no sé cómo me va a
 
-recibir, dice uno. Bien, regresa de todas formas y prubalo. Yo no puedo
+recibir”, dice uno. Bien, regresa de todas formas y pruébalo. “Yo no puedo
 
-orar. T
+orar”. Tú
 
 puedes
 
 orar, querido amigo.
 
-Pero no debidamente. No trates de orar debidamente. Ora como puedas segn lo
+“Pero no debidamente”. No trates de orar debidamente. Ora como puedas según lo
 
-que te dicte tu corazn, y pide para recibir ayuda. Yo s que algunas pobres
+que te dicte tu corazón, y pide para recibir ayuda. Yo sé que algunas pobres
 
-almas estn en tal estado que se alegraran si nosotros les escribiramos una
+almas están en tal estado que se alegrarían si nosotros les escribiéramos una
 
-oracin. Estaba hablando slo hace muy poco tiempo con una persona en apuros
+oración. Estaba hablando sólo hace muy poco tiempo con una persona en apuros
 
-que me dijo: Oh, seor Spurgeon, ustedes no sabe cun ignorantes somos
+que me dijo: “Oh, seńor Spurgeon, ustedes no sabe cuán ignorantes somos
 
-nosotros, y cuando estamos bajo un sentido de pecado, usted no sabe cun tontos
+nosotros, y cuando estamos bajo un sentido de pecado, usted no sabe cuán tontos
 
 somos. Si usted pusiera algunas veces las propias palabras en nuestras bocas
 
-nos hara bien. Y yo pens que tena razn, porque encuentro que el Seor dice
+nos haría bien”. Y yo pensé que tenía razón, porque encuentro que el Seńor dice
 
-en las Escrituras: Toma contigo palabras y di; y les dice qu deben decir.
+en las Escrituras: “Toma contigo palabras y di…”; y les dice qué deben decir.
 
 Vamos ahora, pobre alma,
 
-si quieres encontrar a Dios, oremos un minuto. Oh, Dios, slvanos, pues slo
+si quieres encontrar a Dios, oremos un minuto. “Oh, Dios, sálvanos, pues sólo
 
-T puedes hacerlo. Por Tu grande misericordia sana nuestras heridas, pues de lo
+Tú puedes hacerlo. Por Tu grande misericordia sana nuestras heridas, pues de lo
 
 contrario nos vamos a desangrar hasta la muerte. Nosotros nos apoyamos en Tu
 
-promesa en Cristo Jess, Tu Hijo; concdenos Tu salvacin ahora, te lo
+promesa en Cristo Jesús, Tu Hijo; concédenos Tu salvación ahora, te lo
 
-suplicamos, por Su nombre. Amn.
+suplicamos, por Su nombre. Amén”.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Deuteronomio
+leída antes del sermón: Deuteronomio
 
 32: 1-39.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 2/Enero/2014
 

@@ -1,8 +1,8 @@
 # Sermón 3314 | Sermón 3314
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Dios en
 
@@ -10,9 +10,9 @@ la Naturaleza
 
 y en
 
-la Revelacin
+la Revelación
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -22,43 +22,43 @@ DEL
 
 JUEVES 14 DE JUNIO DE 1866
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 8 DE AGOSTO DE 1912.
 
-La ley de
+“La ley de
 
-Jehov es perfecta, que convierte el alma; el testimonio de Jehov es fiel, que
+Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que
 
-hace sabio al sencillo. Los mandamientos de Jehov son rectos, que alegran el
+hace sabio al sencillo. Los mandamientos de Jehová son rectos, que alegran el
 
-corazn; el precepto de Jehov es puro, que alumbra los ojos. El temor de
+corazón; el precepto de Jehová es puro, que alumbra los ojos. El temor de
 
-Jehov es limpio, que permanece para siempre; los juicios de Jehov son verdad,
+Jehová es limpio, que permanece para siempre; los juicios de Jehová son verdad,
 
-todos justos. Salmo 19: 7-9.
+todos justos”. Salmo 19: 7-9.
 
 Lo que tengo que decir
 
-esta noche ser realmente una exposicin de todo el Salmo; seleccion esos tres
+esta noche será realmente una exposición de todo el Salmo; seleccioné esos tres
 
-versculos nicamente por la conveniencia de contar con un texto breve. El
+versículos únicamente por la conveniencia de contar con un texto breve. El
 
-Salmo comienza con una nota excelsa: Los cielos cuentan la gloria de Dios, y
+Salmo comienza con una nota excelsa: “Los cielos cuentan la gloria de Dios, y
 
-el firmamento anuncia la obra de sus manos. Basta que la telilla de la
+el firmamento anuncia la obra de sus manos”. Basta que la telilla de la
 
-incredulidad se desprenda de nuestros ojos para que veamos que, en el magnfico
+incredulidad se desprenda de nuestros ojos para que veamos que, en el magnífico
 
 templo de la naturaleza, todas las cosas proclaman la grandeza y la gloria de
 
-Dios. Basta que el odo naturalmente sordo sea destapado, para que sea capaz de
+Dios. Basta que el oído naturalmente sordo sea destapado, para que sea capaz de
 
-or voces -misteriosas pero claramente inteligibles- que revelan que Dios est obrando
+oír voces -misteriosas pero claramente inteligibles- que revelan que Dios está obrando
 
-todava aqu en la providencia, as como antiguamente obr en la creacin.
+todavía aquí en la providencia, así como antiguamente obró en la creación.
 
 Opino que las personas que piensan que los cristianos no deben deleitarse con
 
@@ -68,7 +68,7 @@ salmista cuyas palabras estamos considerando.
 
 Un hombre realmente
 
-excelente, a quien todos nosotros estimamos muy altamente, declar que cuando
+excelente, a quien todos nosotros estimamos muy altamente, declaró que cuando
 
 se encontraba navegando por el Rin, no miraba el paisaje porque deseaba que sus
 
@@ -78,13 +78,13 @@ puedo condenar a ese buen hombre; con todo, pienso que puesto que estoy
 
 viviendo en la casa de mi Padre, debo deleitarme en las obras de mi Padre, y
 
-tendra que ser un raro tipo de hijo si pensara que es una seal de mi afecto
+tendría que ser un raro tipo de hijo si pensara que es una seńal de mi afecto
 
-por mi Padre que no me importe mirar el jardn que l ha decorado o la casa que
+por mi Padre que no me importe mirar el jardín que Él ha decorado o la casa que
 
 ha construido. A la vez que los exhorto sinceramente a tener una mentalidad
 
-espiritual, quisiera recordarles que es igualmente fcil tener una mentalidad
+espiritual, quisiera recordarles que es igualmente fácil tener una mentalidad
 
 espiritual con los ojos abiertos a todas las bellezas de la naturaleza que nos
 
@@ -108,21 +108,21 @@ hay UN PARALELO PROPUESTO.
 
 Este paralelo me fue
 
-sugerido cuando lea el Comentario del Obispo Horne sobre este Salmo, y l
+sugerido cuando leía el Comentario del Obispo Horne sobre este Salmo, y él
 
-confiesa a su vez su agradecimiento a un autor ms antiguo por esa idea. El
+confiesa a su vez su agradecimiento a un autor más antiguo por esa idea. El
 
-paralelo es este: David elogia primero la revelacin de Dios en la naturaleza y
+paralelo es este: David elogia primero la revelación de Dios en la naturaleza y
 
-luego elogia la revelacin de Dios en Su Palabra, y pareciera implicar que hay
+luego elogia la revelación de Dios en Su Palabra, y pareciera implicar que hay
 
 una semejanza entre las dos revelaciones; que son, de hecho, dos libros de la
 
-misma revelacin o dos partes de un mismo grandioso poema.
+misma revelación o dos partes de un mismo grandioso poema.
 
 Al leer los comentarios
 
-de David relativos a los cielos, podemos aplicarlos legtimamente a las
+de David relativos a los cielos, podemos aplicarlos legítimamente a las
 
 Escrituras.
 
@@ -132,9 +132,9 @@ Escrituras declaran la gloria de Dios, e igual que el firmamento, muestran la ob
 
 de Sus manos;
 
-slo que, mientras el firmamento muestra la obra de las manos
+sólo que, mientras el firmamento muestra la obra de las manos
 
-de Dios en la creacin,
+de Dios en la creación,
 
 la
 
@@ -142,73 +142,73 @@ Palabra
 
 de Dios muestra esa misma obra de Sus manos en la
 
-redencin, en esa nueva creacin realizada por Aquel que dice: He aqu, yo
+redención, en esa nueva creación realizada por Aquel que dice: “He aquí, yo
 
-hago nuevas todas las cosas.
+hago nuevas todas las cosas”.
 
 Consideren, primero, la
 
-vasta extensin de los cielos. Quin podra medir la gran cortina que Dios ha
+vasta extensión de los cielos. żQuién podría medir la gran cortina que Dios ha
 
-extendido como una tienda para morar en ella? Quin conoce su altura o su
+extendido como una tienda para morar en ella? żQuién conoce su altura o su
 
-anchura? Dnde estn los compases que pudieran describir ese portentoso
+anchura? żDónde están los compases que pudieran describir ese portentoso
 
-crculo? Y las Escrituras son justamente tan extensas como los cielos; nadie ha
+círculo? Y las Escrituras son justamente tan extensas como los cielos; nadie ha
 
-abarcado todava toda la verdad de la revelacin divina. Conforme miramos las
+abarcado todavía toda la verdad de la revelación divina. Conforme miramos las
 
 grandiosas doctrinas que destacan ante nosotros como los altos montes, muy bien
 
-haramos en decir: Altas son, no las podemos comprender. La longitud, la
+haríamos en decir: “Altas son, no las podemos comprender”. La longitud, la
 
-anchura, la profundidad y la altura de las Escrituras sobrepasan la comprensin
+anchura, la profundidad y la altura de las Escrituras sobrepasan la comprensión
 
 de los mortales; y aunque creemos en ellas sin fingimientos y en ellas nos
 
-regocijamos devotamente, no est dentro del alcance de nuestros poderes
+regocijamos devotamente, no está dentro del alcance de nuestros poderes
 
-comprenderlas plenamente. Hay personas que hablan como si conocieran el crculo
+comprenderlas plenamente. Hay personas que hablan como si conocieran el círculo
 
-ntegro de la verdad divina; piensan que han logrado introducir el grandioso
+íntegro de la verdad divina; piensan que han logrado introducir el grandioso
 
-ocano de la revelacin en la diminuta medida de su capacidad mental, pero
+océano de la revelación en la diminuta medida de su capacidad mental, pero
 
-ustedes saben, queridos amigos, que no es as. Nadie sera capaz jams de
+ustedes saben, queridos amigos, que no es así. Nadie sería capaz jamás de
 
 sujetar a los cielos con su mano, o de abarcar al firmamento con su palmo; pero
 
-aun si pudiese hacerlo, todava descubrira que
+aun si pudiese hacerlo, todavía descubriría que
 
 la Palabra
 
 de Dios, en toda
 
-su portentosa inmensidad, habra sido demasiado vasta para dejarse asir.
+su portentosa inmensidad, habría sido demasiado vasta para dejarse asir.
 
 Tenemos que sujetar firmemente cualquier cosa que hayamos aprendido de la
 
-verdad de Dios, pero tenemos que estar siempre preparados para aprender ms.
+verdad de Dios, pero tenemos que estar siempre preparados para aprender más.
 
-Decir en cuanto a mi Biblia que yo he alcanzado cada altura revelada por ella sera
+Decir en cuanto a mi Biblia que yo he alcanzado cada altura revelada por ella sería
 
-tan insensato como decir que he alcanzado el ms sublime grado de vida
+tan insensato como decir que he alcanzado el más sublime grado de vida
 
-espiritual posible. Pablo dice: No que lo haya alcanzado ya, ni que ya sea
+espiritual posible. Pablo dice: “No que lo haya alcanzado ya, ni que ya sea
 
 perfecto; sino que prosigo, por ver si logro asir aquello para lo cual fui
 
-tambin asido por Cristo Jess. Y cuando me he esforzado al mximo por conocer
+también asido por Cristo Jesús”. Y cuando me he esforzado al máximo por conocer
 
 la Palabra
 
 de
 
-Dios, he sentido que todava tengo necesidad de orar diciendo: Ensame tus
+Dios, he sentido que todavía tengo necesidad de orar diciendo: “ˇEnséńame tus
 
-estatutos, oh Dios, y ensancha mi entendimiento para que pueda conocer ms y
+estatutos, oh Dios, y ensancha mi entendimiento para que pueda conocer más y
 
-ms tu verdad! Por su extensin, por su altura, por su brillo y por su gloria,
+más tu verdad!” Por su extensión, por su altura, por su brillo y por su gloria,
 
 las Escrituras son comparables a los cielos que declaran la gloria de Dios, y
 
@@ -216,13 +216,13 @@ al firmamento que muestra la obra de Sus manos.
 
 Luego el salmista
 
-prosigue diciendo: Un da emite palabra a otro da, y una noche a otra noche
+prosigue diciendo: “Un día emite palabra a otro día, y una noche a otra noche
 
-declara sabidura, y as,
+declara sabiduría”, y así,
 
-la revelacin
+la revelación
 
-de Dios en las Escrituras est hablando siempre a los hombres.
+de Dios en las Escrituras está hablando siempre a los hombres.
 
 Cuantas
 
@@ -234,75 +234,75 @@ Escritura
 
 , reciben un mensaje de ella en todo momento. Cuando
 
-estamos felices y somos dichosos, tiene una voz para nuestro da ms brillante;
+estamos felices y somos dichosos, tiene una voz para nuestro día más brillante;
 
 y cuando estamos afligidos y nos lamentamos, es el consuelo de nuestra noche
 
-ms oscura. Durante esta larga noche de la historia de
+más oscura. Durante esta larga noche de la historia de
 
 la Iglesia
 
 , la larga noche de
 
-la ausencia de su Seor, Sus verdaderos ministros son capacitados para brillar
+la ausencia de su Seńor, Sus verdaderos ministros son capacitados para brillar
 
-como estrellas a Su diestra, y muchos espritus afligidos son animados, y
+como estrellas a Su diestra, y muchos espíritus afligidos son animados, y
 
 muchos marineros en el mar de la vida son guiados por la luz de las Escrituras.
 
-En el futuro nacer el bendito Sol de justicia y en Sus alas traer salvacin, y
+En el futuro nacerá el bendito Sol de justicia y en Sus alas traerá salvación, y
 
-entonces a lo largo del prolongado y luminoso da milenial, y despus, a lo
+entonces a lo largo del prolongado y luminoso día milenial, y después, a lo
 
-largo de aquel da sempiterno para el cual no habr ninguna noche,
+largo de aquel día sempiterno para el cual no habrá ninguna noche,
 
-continuaremos aprendiendo ms y ms acerca de las maravillas de esa revelacin
+continuaremos aprendiendo más y más acerca de las maravillas de esa revelación
 
-que l nos ha dado en Su Palabra.
+que Él nos ha dado en Su Palabra.
 
 Una gran gloria de los
 
-cielos es que tienen una voz para todas las tierras: No hay lenguaje, ni
+cielos es que tienen una voz para todas las tierras: “No hay lenguaje, ni
 
-palabras, ni es oda su voz. Por toda la tierra sali su voz, y hasta el
+palabras, ni es oída su voz. Por toda la tierra salió su voz, y hasta el
 
-extremo del mundo sus palabras. En un lenguaje que todos los hijos de los
+extremo del mundo sus palabras”. En un lenguaje que todos los hijos de los
 
-hombres entienden no solo en el lenguaje del judo o del gentil, no solo en el
+hombres entienden –no solo en el lenguaje del judío o del gentil, no solo en el
 
-lenguaje del brbaro o del griego, sino en el lenguaje de todos los seres
+lenguaje del bárbaro o del griego, sino en el lenguaje de todos los seres
 
 humanos, antiguos y modernos, siervos y libres- la voz de los cielos ha salido
 
 por todo el ancho mundo declarando la gloria de Dios.
 
-As sucede con el
+Así sucede con el
 
-Evangelio; sin importar dnde lo introduzcas, su mensaje est adaptado para
+Evangelio; sin importar dónde lo introduzcas, su mensaje está adaptado para
 
-todos los hijos de los hombres. Pablo demostr el poder del Evangelio entre los
+todos los hijos de los hombres. Pablo demostró el poder del Evangelio entre los
 
-idlatras de Licaonia y entre los sabios de Grecia. Tiene una voz para hombres de
+idólatras de Licaonia y entre los sabios de Grecia. Tiene una voz para hombres de
 
-los ms diversos temperamentos; habla con igual autoridad al fornido anglosajn
+los más diversos temperamentos; habla con igual autoridad al fornido anglosajón
 
-y al ms voltil francs. Tiene una facilidad peculiar para adaptarse a todas
+y al más volátil francés. Tiene una facilidad peculiar para adaptarse a todas
 
-las nacionalidades; no es ni el Evangelio del ingls, ni del americano, ni del
+las nacionalidades; no es ni el Evangelio del inglés, ni del americano, ni del
 
-africano nicamente, sino que habla a:
+africano únicamente, sino que habla a:
 
-A toda la gente que en el mundo habita.
+“A toda la gente que en el mundo habita”.
 
 Dondequiera que vaya
 
 la Biblia
 
-, all se muestra, no
+, allí se muestra, no
 
-como una flor extica sino como una flor cultivada en casa; y dondequiera que
+como una flor exótica sino como una flor cultivada en casa; y dondequiera que
 
-es predicado el Evangelio, no llega como una revelacin del Oriente, o del
+es predicado el Evangelio, no llega como una revelación del Oriente, o del
 
 Occidente, o del Norte, o del Sur, sino como el mensaje de Dios para toda la
 
@@ -310,9 +310,9 @@ humanidad en el mundo entero.
 
 La gloria de las
 
-Escrituras es como la gloria de los cielos: En ellos puso tabernculo para el
+Escrituras es como la gloria de los cielos: “En ellos puso tabernáculo para el
 
-sol, y
+sol”, y
 
 en
 
@@ -320,13 +320,13 @@ la Palabra
 
 de Dios hay un
 
-tabernculo para el Sol de justicia.
+tabernáculo para el Sol de justicia.
 
 Jesucristo habita dentro de las
 
-verdades de la revelacin divina de la misma manera que el sol habita en su
+verdades de la revelación divina de la misma manera que el sol habita en su
 
-propia esfera. Qu seran los cielos sin el sol, y qu seran las Escrituras
+propia esfera. żQué serían los cielos sin el sol, y qué serían las Escrituras
 
 sin el Sol de justicia? Puedo decir verdaderamente en cuanto a
 
@@ -334,13 +334,13 @@ la Biblia
 
 :
 
-Aqu contemplo el rostro de mi Salvador
+“Aquí contemplo el rostro de mi Salvador
 
-Casi en cada pgina.
+Casi en cada página”.
 
 La gloria del Evangelio
 
-es que Dios es revelado en l como manifestado en carne; todos los atributos
+es que Dios es revelado en él como manifestado en carne; todos los atributos
 
 divinos son expuestos en la persona de Emanuel, Dios con nosotros. Si suprimen
 
@@ -348,195 +348,195 @@ a Jesucristo del Evangelio, su poder desaparece; si suprimen a Jesucristo del
 
 ministerio cristiano, se queda completamente inerme. Me aflige tener que
 
-decirlo, pero yo creo que es debido a que ha habido tan poca predicacin de
+decirlo, pero yo creo que es debido a que ha habido tan poca predicación de
 
-Cristo en muchos de nuestros plpitos, que los oyentes se han adherido a
+Cristo en muchos de nuestros púlpitos, que los oyentes se han adherido a
 
 la Iglesia
 
 de Roma y a todo
 
-tipo de errores. El corazn humano necesita algn objeto supremo de afecto, y
+tipo de errores. El corazón humano necesita algún objeto supremo de afecto, y
 
-nunca puede quedarse satisfecho con ensayos filosficos, o con discusiones
+nunca puede quedarse satisfecho con ensayos filosóficos, o con discusiones
 
 acerca de la moralidad, o con temas similares que han desperdiciado cientos de
 
 domingos y que han convertido a los servicios del santuario en un desaliento
 
-para el pueblo de Dios. Oh, que hubiera ms predicacin de Jesucristo y de l
+para el pueblo de Dios. ˇOh, que hubiera más predicación de Jesucristo y de Él
 
-crucificado! Si l fuera levantado, atraera a todos los hombres a l; y l
+crucificado! Si Él fuera levantado, atraería a todos los hombres a Él; y Él
 
-tiene que ser levantado o de lo contrario la predicacin es un mero engao
+tiene que ser levantado o de lo contrario la predicación es un mero engańo
 
-solapado y un gozo para los demonios, pero para nadie ms.
+solapado y un gozo para los demonios, pero para nadie más.
 
-A continuacin, David
+A continuación, David
 
-dice muy elocuentemente acerca del sol: Y ste, como esposo que sale de su
+dice muy elocuentemente acerca del sol: “Y éste, como esposo que sale de su
 
-tlamo. Y no es ste un cuadro verdico de Cristo segn es revelado en las
+tálamo”. żY no es éste un cuadro verídico de Cristo según es revelado en las
 
-Escrituras? l se compar a un esposo durante Su ministerio terrenal, y esa es
+Escrituras? Él se comparó a un esposo durante Su ministerio terrenal, y esa es
 
-Su relacin para con Su Iglesia, que es la desposada, la esposa del Cordero.
+Su relación para con Su Iglesia, que es “la desposada, la esposa del Cordero”.
 
-Se afirma aqu de l que sale de su tlamo, como sali del saln del consejo
+Se afirma aquí de Él “que sale de su tálamo”, como salió del salón del consejo
 
-del decreto divino, diciendo: He aqu, vengo; en el rollo del libro est
+del decreto divino, diciendo: “He aquí, vengo; en el rollo del libro está
 
-escrito de m; el hacer tu voluntad, Dios mo, me ha agradado, y tu ley est en
+escrito de mí; el hacer tu voluntad, Dios mío, me ha agradado, y tu ley está en
 
-medio de mi corazn. Sale de la cmara de lo divino e invisible, y se viste
+medio de mi corazón”. Sale de la cámara de lo divino e invisible, y se viste
 
-con las humildes ropas de nuestra humanidad. Viene a una vida de afliccin y
+con las humildes ropas de nuestra humanidad. Viene a una vida de aflicción y
 
 sufrimiento, y con todo, viene a ella con pasos gozosos porque se deleita en
 
-cumplir la voluntad de Dios, y est encantado de redimir de la muerte y del
+cumplir la voluntad de Dios, y está encantado de redimir de la muerte y del
 
-infierno a Su esposa. Luego, ms tarde, sale de la cmara en la que haba
+infierno a Su esposa. Luego, más tarde, sale de la cámara en la que había
 
-ocultado las glorias de Su Deidad durante los treinta y tres aos de Su estada
+ocultado las glorias de Su Deidad durante los treinta y tres ańos de Su estadía
 
-en la tierra; y ahora, sale de Su cmara continuamente cuando Su Evangelio es
+en la tierra; y ahora, sale de Su cámara continuamente cuando Su Evangelio es
 
-proclamado fielmente en el poder del Espritu Santo. De cierto este es un
+proclamado fielmente en el poder del Espíritu Santo. De cierto este es un
 
-cuadro verdico de Cristo segn es revelado en las Escrituras como esposo que
+cuadro verídico de Cristo según es revelado en las Escrituras “como esposo que
 
-sale de su tlamo.
+sale de su tálamo”.
 
-Es tambin un cuadro
+Es también un cuadro
 
-Suyo como un paladn: Se alegra cual gigante para correr el camino, -cual
+Suyo como un paladín: “Se alegra cual gigante para correr el camino”, -“cual
 
-gigante- no como alguien dbil que jadea y se esfuerza para mantenerse en la
+gigante”- no como alguien débil que jadea y se esfuerza para mantenerse en la
 
-pista, sino como un hombre fuerte que se alegra porque sabe que llegar
+pista, sino como un hombre fuerte que se alegra porque sabe que llegará
 
-victorioso a la meta. Cuando hace Su aparicin en el Evangelio, domingo tras
+victorioso a la meta. Cuando hace Su aparición en el Evangelio, domingo tras
 
-domingo, y semana tras semana, nuestro Seor Jesucristo no sale para ser
+domingo, y semana tras semana, nuestro Seńor Jesucristo no sale para ser
 
 derrotado. No sale, como algunos de mis hermanos parecieran imaginar,
 
 necesitando las pruebas que de Su existencia y Deidad ellos aportan, ni
 
-necesitando las apologas para Su Evangelio que ellos elaboran, sino que sale
+necesitando las apologías para Su Evangelio que ellos elaboran, sino que sale
 
-para lograr Sus propsitos sempiternos, para poder decirle a Su Padre, al final,
+para lograr Sus propósitos sempiternos, para poder decirle a Su Padre, al final,
 
-lo mismo que le dijo cuando estaba aqu en la tierra: He acabado la obra que
+lo mismo que le dijo cuando estaba aquí en la tierra: “He acabado la obra que
 
-me diste que hiciese. La voluntad de Jehov ser en su mano prosperada. Ver
+me diste que hiciese”. “La voluntad de Jehová será en su mano prosperada. Verá
 
-el fruto de la afliccin de su alma, y quedar satisfecho. Cual gigante que se
+el fruto de la aflicción de su alma, y quedará satisfecho”. Cual gigante que se
 
-alegra para correr el camino, est confiado que alcanzar la meta, y que ganar
+alegra para correr el camino, está confiado que alcanzará la meta, y que ganará
 
 el premio. Es una larga y ardua carrera, es una carrera en la que hay muchos
 
-competidores; pero cuando Jess los mira a todos ellos, sabe que les ganar y
+competidores; pero cuando Jesús los mira a todos ellos, sabe que les ganará y
 
-que la corona de la victoria ser seguramente Suya.
+que la corona de la victoria será seguramente Suya.
 
 Yo espero que alguna
 
-pobre alma turbada reciba consuelo con el siguiente versculo del Salmo: De un
+pobre alma turbada reciba consuelo con el siguiente versículo del Salmo: “De un
 
-extremo de los cielos es su salida, y su curso hasta el trmino de ellos. La
+extremo de los cielos es su salida, y su curso hasta el término de ellos”. La
 
-luz del sol abarca incluso las congeladas cavernas del glido norte, y derrama
+luz del sol abarca incluso las congeladas cavernas del gélido norte, y derrama
 
 sus brillantes rayos de manera sumamente generosa:
 
-Sobre la franja de coral de
+“Sobre la franja de coral de
 
 la
 
 India
 
-,
+”,
 
 Y
 
-Donde las soleadas fontanas del frica
+“Donde las soleadas fontanas del África
 
-Hacen rodar su arena dorada.
+Hacen rodar su arena dorada”.
 
 Lo mismo ocurre cuando
 
-Cristo aparece en Su Evangelio: De un extremo de los cielos es su salida, y su
+Cristo aparece en Su Evangelio: “De un extremo de los cielos es su salida, y su
 
-curso hasta el trmino de ellos. La luz de Su Evangelio brilla sobre todos los
+curso hasta el término de ellos”. La luz de Su Evangelio brilla sobre todos los
 
 rangos y sobre todas las clases, y sobre todos los caracteres, ricos y pobres,
 
-estudiados e iletrados, y el tiempo vendr cuando brille sobre el mundo entero,
+estudiados e iletrados, y el tiempo vendrá cuando brille sobre el mundo entero,
 
 pues:
 
-Jess reinar doquiera que el sol
+“Jesús reinará doquiera que el sol
 
 Recorra sus sucesivas jornadas;
 
 Su reino se extiende de costa a costa,
 
-Hasta que se disipen las fases de la luna.
+Hasta que se disipen las fases de la luna”.
 
 Luego el salmista
 
-agrega: Y nada hay que se esconda de su calor. El calor del sol encuentra a
+agrega: “Y nada hay que se esconda de su calor”. El calor del sol encuentra a
 
-la florecita escondida en el ms oscuro rincn del bosque, y sin duda ejerce
+la florecita escondida en el más oscuro rincón del bosque, y sin duda ejerce
 
 una misteriosa influencia incluso en las profundidades del mar y en el fondo de
 
-las ms recnditas minas. Y nada hay que se esconda de su calor, aunque
+las más recónditas minas. “Y nada hay que se esconda de su calor”, aunque
 
 muchas cosas se esconden de su luz. Lo mismo sucede con el Evangelio y con el
 
-amor de Cristo. All donde se encuentran algunos de ustedes esta noche, podran
+amor de Cristo. Allí donde se encuentran algunos de ustedes esta noche, podrían
 
-imaginar que estn ocultos del calor del amor del Salvador, pero, es acaso as?
+imaginar que están ocultos del calor del amor del Salvador, pero, żes acaso así?
 
-Ustedes oyen el Evangelio, no es cierto? Eso es algo, pero ustedes dicen que
+Ustedes oyen el Evangelio, żno es cierto? Eso es algo, pero ustedes dicen que
 
-necesitan encontrar al Cristo que tiene Su tabernculo en el Evangelio. Pero
+necesitan encontrar al Cristo que tiene Su tabernáculo en el Evangelio. Pero
 
-ese deseo suyo demuestra que no estn escondidos del calor del amor del
+ese deseo suyo demuestra que no están escondidos del calor del amor del
 
-Salvador, pues ese anhelo es uno de los dones de Su gracia. Si t tienes algn
+Salvador, pues ese anhelo es uno de los dones de Su gracia. Si tú tienes algún
 
-quebrantamiento de corazn, alguna conciencia de culpa, alguna inclinacin
+quebrantamiento de corazón, alguna conciencia de culpa, alguna inclinación
 
-hacia el arrepentimiento, esa es la obra de Cristo a travs de Su siempre
+hacia el arrepentimiento, esa es la obra de Cristo a través de Su siempre
 
-bendito Espritu. La flor no sabe que no podra florecer sin el sol, pero es
+bendito Espíritu. La flor no sabe que no podría florecer sin el sol, pero es
 
 verdad. Tal vez piense que el sol tiene demasiados quehaceres vigilando sobre
 
-la vasta extensin del mar y de la tierra y viendo sus rayos reflejados sobre
+la vasta extensión del mar y de la tierra y viendo sus rayos reflejados sobre
 
-el resplandeciente techo del palacio, para advertir a una pobre campanulita
+el resplandeciente techo del palacio, para advertir a una pobre ‘campanulita’
 
-en una caada o a una primavera escondida en un banco cubierto de musgo; pero
+en una cańada o a una ‘primavera’ escondida en un banco cubierto de musgo; pero
 
-no es as. El sol proyecta sus rayos sobre todo, y no es ms pobre por hacerlo;
+no es así. El sol proyecta sus rayos sobre todo, y no es más pobre por hacerlo;
 
-y lo mismo sucede con el amor de Cristo. Si t sintieras aunque solo fuera un
+y lo mismo sucede con el amor de Cristo. Si tú sintieras aunque solo fuera un
 
-anhelo de l, eso sera una prueba de que no ests oculto al calor de Su amor.
+anhelo de Él, eso sería una prueba de que no estás oculto al calor de Su amor.
 
-Musita una y otra vez esta oracin: Jess, glorioso Sol de justicia, brilla
+Musita una y otra vez esta oración: “ˇJesús, glorioso Sol de justicia, brilla
 
-sobre m, y llname de Tu gracia! Del heliotropo se dice que vuelve su faz
+sobre mí, y lléname de Tu gracia!” Del heliotropo se dice que vuelve su faz
 
-hacia el sol; vuelve t tambin tu rostro hacia Cristo. Yo he notado que las
+hacia el sol; vuelve tú también tu rostro hacia Cristo. Yo he notado que las
 
-flores que crecen en aquella parte del jardn que permanece un buen tiempo en
+flores que crecen en aquella parte del jardín que permanece un buen tiempo en
 
 la sombra, cuando pueden tratan siempre de girar hacia la luz del sol; y
 
@@ -558,15 +558,15 @@ la
 
 Luz
 
-del mundo, el Sol de justicia. Traten de captar lo ms
+del mundo, el Sol de justicia. Traten de captar lo más
 
 que puedan Sus rayos celestiales. Recuerden que el sol no desmerece por
 
-compartir muchos de sus rayos con las flores, y Jesucristo no perder nada por
+compartir muchos de sus rayos con las flores, y Jesucristo no perderá nada por
 
-darles el don de Su gracia; el Sol de justicia ser justo tan brillante y glorioso
+darles el don de Su gracia; el Sol de justicia será justo tan brillante y glorioso
 
-como antes; es ms, ser todava ms glorioso conforme Su gloria sea expuesta
+como antes; es más, será todavía más glorioso conforme Su gloria sea expuesta
 
 en ustedes.
 
@@ -576,7 +576,7 @@ consideren
 
 la Palabra
 
-de Dios con gran reverencia y afecto porque all est montado un tabernculo
+de Dios con gran reverencia y afecto porque allí está montado un tabernáculo
 
 para Jesucristo. Si quieren aprender todo lo que puedan relativo a Jesucristo,
 
@@ -598,17 +598,17 @@ LA ALABANZA
 
 EXPRESADA.
 
-Les recuerdo de nuevo que estoy haciendo una exposicin ms bien que una
+Les recuerdo de nuevo que estoy haciendo una exposición más bien que una
 
-predicacin de un sermn, y cuestiono seriamente si no sera mejor que
+predicación de un sermón, y cuestiono seriamente si no sería mejor que
 
-expusiramos con ms frecuencia
+expusiéramos con más frecuencia
 
 la
 
 Escritura
 
-en vez de dar expresin a tantas de nuestras
+en vez de dar expresión a tantas de nuestras
 
 propias palabras y pensamientos.
 
@@ -622,37 +622,37 @@ de Dios, David usa seis expresiones diferentes para describirla, y a cada una
 
 le brinda un encomio especial con el objeto de recomendarla para nosotros. Como
 
-regla general, el impo conoce
+regla general, el impío conoce
 
 la
 
 Biblia
 
-nicamente por un nombre o dos tal vez; la llaman
+únicamente por un nombre o dos tal vez; la llaman
 
 la Biblia
 
 o las Escrituras, y
 
-eso es acaso todo lo que conocen acerca de ella; pero un hombre que est muy
+eso es acaso todo lo que conocen acerca de ella; pero un hombre que está muy
 
 familiarizado con sus contenidos, tiene diversos nombres para ella. El ejemplo
 
-ms notable de esto es el Salmo 119, que contiene 176 versculos, y casi cada
+más notable de esto es el Salmo 119, que contiene 176 versículos, y casi cada
 
-uno de ellos hace mencin de
+uno de ellos hace mención de
 
 la
 
 Palabra
 
-del Seor. Sera un provechoso ejercicio leer ese
+del Seńor. Sería un provechoso ejercicio leer ese
 
 largo Salmo de principio a fin cuidadosamente, y notar todas las variaciones de
 
-expresin que el salmista usa en relacin a las Escrituras, en la medida en que
+expresión que el salmista usa en relación a las Escrituras, en la medida en que
 
-las conoca; pero para nuestro presente propsito bastar que limitemos
+las conocía; pero para nuestro presente propósito bastará que limitemos
 
 nuestros pensamientos a las seis descripciones y encomios que encontramos en el
 
@@ -660,45 +660,45 @@ Salmo 19.
 
 Primero, David dice:
 
-La ley de Jehov es perfecta, que convierte
+“La ley de Jehová es perfecta, que convierte
 
-el alma.
+el alma”.
 
-En la nota marginal, tenemos la palabra doctrina como otra
+En la nota marginal, tenemos la palabra “doctrina” como otra
 
-traduccin alternativa de la palabra ley, y sabemos que la expresin la ley de
+traducción alternativa de la palabra ley, y sabemos que la expresión “la ley de
 
-Jehov no est restringida al Declogo, as que no haramos mal si aplicramos
+Jehová” no está restringida al Decálogo, así que no haríamos mal si aplicáramos
 
-esa expresin al Evangelio, que es el instrumento especial de Dios para
+esa expresión al Evangelio, que es el instrumento especial de Dios para
 
-convertir a las almas, y la aplicramos tambin a la revelacin ntegra del
+convertir a las almas, y la aplicáramos también a la revelación íntegra del
 
-plan y del mtodo de salvacin de Dios que encontramos en las Escrituras. Si
+plan y del método de salvación de Dios que encontramos en las Escrituras. Si
 
-quiero saber cmo he de ser salvado, recurro a este bendito Libro, y leo all:
+quiero saber cómo he de ser salvado, recurro a este bendito Libro, y leo allí:
 
-la ley del Espritu de vida en Cristo Jess que Pablo deca que lo haba
+“la ley del Espíritu de vida en Cristo Jesús” que Pablo decía que lo había
 
-librado de la ley del pecado y de la muerte. Leo all las propias palabras de
+librado de la ley del pecado y de la muerte. Leo allí las propias palabras de
 
-Cristo: El que creyere y fuere bautizado, ser salvo. Leo all la
+Cristo: “El que creyere y fuere bautizado, será salvo”. Leo allí la
 
 incomparable historia de Aquel en quien he de creer; leo acerca de Su persona, de
 
-Su carcter, de Su doctrina, de Su misin, y esa ley de Jehov comienza a
+Su carácter, de Su doctrina, de Su misión, y esa “ley de Jehová” comienza a
 
-operar en mi corazn conforme la leo. No slo cambia mis acciones externas, sino
+operar en mi corazón conforme la leo. No sólo cambia mis acciones externas, sino
 
-que renueva mi mente, modifica todo el sentido y el propsito de mi vida, y en
+que renueva mi mente, modifica todo el sentido y el propósito de mi vida, y en
 
 palabras de David: convierte mi alma. Los manantiales de mi ser, que una vez
 
-estuvieron envenenados por el pecado, son purificados por la gracia. Yo s que
+estuvieron envenenados por el pecado, son purificados por la gracia. Yo sé que
 
 ustedes han comprobado que eso es cierto, amados, y que, por tanto, ustedes
 
-aman esta ley de Jehov. McCheyne dice que es
+aman esta “ley de Jehová”. McCheyne dice que es
 
 la Palabra
 
@@ -708,15 +708,15 @@ nuestros comentarios acerca de ella, lo que salva a las almas; y yo he notado a
 
 menudo que, en las conversiones, no ha sido tanto la palabra del predicador la
 
-que ha sido bendecida, como la propia Palabra de Dios; aunque sta, por
+que ha sido bendecida, como la propia Palabra de Dios; aunque ésta, por
 
-supuesto, es una regla para la cual hay excepciones, pues nuestro Seor Jess
+supuesto, es una regla para la cual hay excepciones, pues nuestro Seńor Jesús
 
-mismo dijo en Su grandiosa oracin intercesora: Mas no ruego solamente por
+mismo dijo en Su grandiosa oración intercesora: “Mas no ruego solamente por
 
-stos, sino tambin por los que han de creer en m por la palabra de ellos; no
+éstos, sino también por los que han de creer en mí por la palabra de ellos”; no
 
-nicamente por medio de la propia palabra de Cristo, sino a travs del
+únicamente por medio de la propia palabra de Cristo, sino a través del
 
 testimonio veraz y fiel de Sus siervos; y la palabra de los predicadores y de
 
@@ -728,7 +728,7 @@ la Palabra
 
 de Dios, pues la
 
-ley de Jehov es perfecta; en ella no hay nada que sobre y no hay nada que
+“ley de Jehová es perfecta”; en ella no hay nada que sobre y no hay nada que
 
 pudiese faltar. Es perfecta en todas sus operaciones sobre mi naturaleza,
 
@@ -736,51 +736,51 @@ perfecta para inspirar mi vida entera y para encender el entusiasmo en mi alma,
 
 perfecta para iluminar mi entendimiento y para someter mi voluntad, y perfecta
 
-para todo lo que fuere necesario para la conversin de mi alma.
+para todo lo que fuere necesario para la conversión de mi alma.
 
-A continuacin dice
+A continuación dice
 
 David:
 
-El testimonio de Jehov es fiel,
+“El testimonio de Jehová es fiel,
 
-que hace sabio al sencillo.
+que hace sabio al sencillo”.
 
-Yo entiendo que la palabra testimonio quiere
+Yo entiendo que la palabra “testimonio” quiere
 
-decir la revelacin de S mismo que Dios nos ha dado en Su Palabra. l da
+decir la revelación de Sí mismo que Dios nos ha dado en Su Palabra. Él da
 
-testimonio de Su propia paternidad y de Su adopcin en Su familia de todos los
+testimonio de Su propia paternidad y de Su adopción en Su familia de todos los
 
-que creen en Su Hijo Jesucristo. Da testimonio de todos Sus atributos segn son
+que creen en Su Hijo Jesucristo. Da testimonio de todos Sus atributos según son
 
-revelados en la persona y obra de nuestro Seor Jesucristo. Da testimonio de Su
+revelados en la persona y obra de nuestro Seńor Jesucristo. Da testimonio de Su
 
 propio amor eterno, y de Su fidelidad a cada promesa que ha hecho a Sus
 
-elegidos. Da testimonio de muchas cosas que no habramos podido descubrir nunca
+elegidos. Da testimonio de muchas cosas que no habríamos podido descubrir nunca
 
 a partir de la naturaleza, y todo Su testimonio hace sabio al sencillo.
 
-Sobre el prtico de una
+Sobre el pórtico de una
 
-de las academias en Atenas se encontraba escrito: Quien sea ignorante de la
+de las academias en Atenas se encontraba escrito: “Quien sea ignorante de la
 
-aritmtica no puede entrar aqu, pero sobre el prtico de
+aritmética no puede entrar aquí”, pero sobre el pórtico de
 
 la Palabra
 
-de Dios est
+de Dios está
 
-inscrito: Quien sea ignorante es aqu bienvenido. El testimonio de Jehov
+inscrito: “Quien sea ignorante es aquí bienvenido”. “El testimonio de Jehová”
 
-est lleno de divina sabidura, y con todo, es expresado en un lenguaje tan
+está lleno de divina sabiduría, y con todo, es expresado en un lenguaje tan
 
-claro que aun los nios pueden entenderlo; as que los sencillos acuden a l
+claro que aun los nińos pueden entenderlo; así que los sencillos acuden a él
 
-para ser hechos sabios; y, con frecuencia, lo que est escondido para los
+para ser hechos sabios; y, con frecuencia, lo que está escondido para los
 
-sabios y prudentes les es revelado a los nios, porque as le agrad a Dios.
+sabios y prudentes les es revelado a los nińos, porque así le agradó a Dios.
 
 Entonces, yo entiendo
 
@@ -788,117 +788,117 @@ que
 
 la Palabra
 
-de Dios, antes que nada, me ensea cmo puede ser convertida mi alma; y luego,
+de Dios, antes que nada, me enseńa cómo puede ser convertida mi alma; y luego,
 
-habiendo sido convertido, acudo a este bendito Libro con un propsito muy
+habiendo sido convertido, acudo a este bendito Libro con un propósito muy
 
-diferente; no lo hago para descubrir cmo he de ser salvo, sino para aprender
+diferente; no lo hago para descubrir cómo he de ser salvo, sino para aprender
 
-ms cosas relacionadas con el Dios que me ha salvado; y conforme leo Su
+más cosas relacionadas con el Dios que me ha salvado; y conforme leo Su
 
 testimonio relacionado consigo mismo, hace que sea sabia mi alma sencilla.
 
 Habiendo avanzado hasta
 
-ese punto, necesito algo ms; y David, a continuacin, dice:
+ese punto, necesito algo más; y David, a continuación, dice:
 
-Los mandamientos de Jehov son rectos, que
+“Los mandamientos de Jehová son rectos, que
 
-alegran el corazn.
+alegran el corazón”.
 
-Esta palabra: mandamientos, segn la entiendo, se
+Esta palabra: “mandamientos”, según la entiendo, se
 
-refiere a las ordenanzas del decreto del Seor, a los mandatos y edictos del
+refiere a las ordenanzas del decreto del Seńor, a los mandatos y edictos del
 
-Rey; y tambin a Sus promesas, que son una transcripcin de Sus decretos. David
+Rey; y también a Sus promesas, que son una transcripción de Sus decretos. David
 
-dice que los mandamientos de Jehov son rectos; por supuesto que lo son, ya
+dice que los “mandamientos de Jehová son rectos”; por supuesto que lo son, ya
 
-que son Sus estatutos; y que hacen que el corazn se alegre, y nosotros podemos
+que son Sus estatutos; y que hacen que el corazón se alegre, y nosotros podemos
 
-confirmar esa declaracin en nuestra propia experiencia. Yo he confesado a
+confirmar esa declaración en nuestra propia experiencia. Yo he confesado a
 
-menudo que, cuando mi espritu se deprime, nada podra sustentarlo excepto la
+menudo que, cuando mi espíritu se deprime, nada podría sustentarlo excepto la
 
-buena y anticuada doctrina calvinista. Si no estn hambrientos, podran
+buena y anticuada doctrina calvinista. Si no están hambrientos, podrían
 
-contentarse con la porcin puesta ante ustedes por la moderna escuela de
+contentarse con la porción puesta ante ustedes por la moderna escuela de
 
-predicadores y podran disfrutarla cuando hay buen clima; pero cuando las tormentas
+predicadores y podrían disfrutarla cuando hay buen clima; pero cuando las tormentas
 
-de la tribulacin allan en torno suyo, cuando estn conscientes de una gran
+de la tribulación aúllan en torno suyo, cuando están conscientes de una gran
 
 necesidad de alimento que satisfaga al alma, entonces yo creo ciertamente que
 
-la vieja doctrina de Agustn, que es la doctrina del apstol Pablo y de su
+la vieja doctrina de Agustín, que es la doctrina del apóstol Pablo y de su
 
-Seor y Maestro, Jesucristo, es la nica porcin que su corazn puede disfrutar
+Seńor y Maestro, Jesucristo, es la única porción que su corazón puede disfrutar
 
-con regocijo. Cun dulce es, en un momento as, apoyarse por completo en los
+con regocijo. ˇCuán dulce es, en un momento así, apoyarse por completo en los
 
-eternos propsitos de Dios en Cristo Jess! Saber que la propia vocacin y
+eternos propósitos de Dios en Cristo Jesús! Saber que la propia vocación y
 
-eleccin son firmes, saber que a los que aman a Dios, todas las cosas les
+elección son firmes, saber que “a los que aman a Dios, todas las cosas les
 
-ayudan a bien, esto es, a los que conforme a su propsito son llamados; eso es
+ayudan a bien, esto es, a los que conforme a su propósito son llamados”; eso es
 
-ciertamente un banquete de manjares suculentos, banquete de vinos refinados,
+ciertamente un “banquete de manjares suculentos, banquete de vinos refinados,
 
-de gruesos tutanos y de vinos purificados. La madre del rey Lemuel dijo: Dad
+de gruesos tuétanos y de vinos purificados”. La madre del rey Lemuel dijo: “Dad
 
-sidra al desfallecido, y el vino a los de amargado nimo; y, en un sentido
+sidra al desfallecido, y el vino a los de amargado ánimo”; y, en un sentido
 
 escritural, son la sidra y el nutriente vino de las doctrinas de la gracia los
 
-que pueden sustentar a aquellos que estn espiritualmente a punto de perecer y
+que pueden sustentar a aquellos que están espiritualmente a punto de perecer y
 
-a los que tienen un corazn afligido.
+a los que tienen un corazón afligido.
 
-Hay algunos que estaran
+Hay algunos que estarían
 
-de acuerdo con David hasta donde hemos avanzado, pero no estn tan vidos de
+de acuerdo con David hasta donde hemos avanzado, pero no están tan ávidos de
 
 escuchar su siguiente frase:
 
-El precepto
+“El precepto
 
-de Jehov es puro, que alumbra los ojos.
+de Jehová es puro, que alumbra los ojos”.
 
 Siendo convertido, el hombre
 
-aprende todo lo que puede del testimonio del Seor; luego su corazn se
+aprende todo lo que puede del testimonio del Seńor; luego su corazón se
 
-regocija en los estatutos del Seor, y prosigue obteniendo una mayor
+regocija en los estatutos del Seńor, y prosigue obteniendo una mayor
 
-iluminacin del mandamiento del Seor. Algunas personas no parecieran tener
+iluminación del mandamiento del Seńor. Algunas personas no parecieran tener
 
-jams sus ojos iluminados porque descuidan obedecer los preceptos del Seor. Es
+jamás sus ojos iluminados porque descuidan obedecer los preceptos del Seńor. Es
 
-seguro que la desobediencia traer su propio castigo; y hay algunos que no
+seguro que la desobediencia traerá su propio castigo; y hay algunos que no
 
-pueden leer claramente su propio inters en Cristo porque su negligencia para
+pueden leer claramente su propio interés en Cristo porque su negligencia para
 
-guardar Sus mandamientos ha cerrado sus ojos, tal como podra haberlo hecho una
+guardar Sus mandamientos ha cerrado sus ojos, tal como podría haberlo hecho una
 
 nube de polvo. Hay una gran recompensa para quienes obedecen sus preceptos, y aunque
 
-somos salvados por gracia y no por nuestras obras, con todo, en la economa de
+somos salvados por gracia y no por nuestras obras, con todo, en la economía de
 
-la gracia hay ciertas recompensas que slo son otorgadas a quienes guardan
+la gracia hay ciertas recompensas que sólo son otorgadas a quienes guardan
 
 diligentemente los mandamientos del Rey. Dichosos son aquellos que, como Caleb,
 
-siguen al Seor plenamente; ciertamente estarn entre las almas vrgenes que,
+siguen al Seńor plenamente; ciertamente estarán entre las almas vírgenes que,
 
-en el monte Sion celestial, siguen al Cordero por dondequiera que va.
+en el monte Sion celestial, “siguen al Cordero por dondequiera que va”.
 
 Enseguida David menciona
 
-un asunto muy prctico:
+un asunto muy práctico:
 
-El temor de
+“El temor de
 
-Jehov es limpio, que permanece para siempre.
+Jehová es limpio, que permanece para siempre”.
 
 Algunos tipos de temor son
 
@@ -906,71 +906,71 @@ todo menos
 
 limpios
 
-; el temor del hombre ha sido una
+; “el temor del hombre” ha sido una
 
-vil trampa en la que muchos han sido capturados por el diablo. La concesin es
+vil trampa en la que muchos han sido capturados por el diablo. La concesión es
 
-muy popular hoy en da, pero
+muy popular hoy en día, pero
 
 la
 
 Biblia
 
-es un Libro que no hace concesiones, y el temor de
+es un Libro que no hace concesiones, y “el temor de
 
-Jehov es un principio que no hace concesiones en absoluto. Si este bendito
+Jehová” es un principio que no hace concesiones en absoluto. Si este bendito
 
 temor permea completamente nuestras almas, no lo perderemos nunca, pues David
 
-dice, verdicamente, que permanece para siempre. Si hay alguna vez un hombre
+dice, verídicamente, que permanece para siempre. Si hay alguna vez un hombre
 
 que realmente estuvo muerto y enterrado y fue resucitado con Cristo, no hay
 
-ningn miedo de que experimente jams un proceso de regresin como sera estar
+ningún miedo de que experimente jamás un proceso de regresión como sería estar
 
 muerto con Cristo y luego vivir de nuevo para el mundo. Hay algunos principios
 
-que slo son poderosos por un tiempo; pero el principio de la gracia, que
+que sólo son poderosos por un tiempo; pero el principio de la gracia, que
 
-produce el temor del Seor, ejerce una permanente influencia sobre cualquiera
+produce el temor del Seńor, ejerce una permanente influencia sobre cualquiera
 
-en quien el Espritu Santo la obre, y no hay ninguna posibilidad de que el amor
+en quien el Espíritu Santo la obre, y no hay ninguna posibilidad de que el amor
 
 del mundo o el temor del hombre lo
 
 eche
 
-fuera. Que
+fuera. ˇQue
 
-ese clemente Espritu obre este santo temor en cada uno de nosotros!
+ese clemente Espíritu obre este santo temor en cada uno de nosotros!
 
-Luego, por ltimo, David
+Luego, por último, David
 
 dice:
 
-Los juicios de Jehov son verdad,
+“Los juicios de Jehová son verdad,
 
-todos justos.
+todos justos”.
 
-Siempre que pienso en los juicios de Jehov en los tiempos
+Siempre que pienso en los juicios de Jehová en los tiempos
 
-antiguos, considero que siempre son juicios justos. Justo fuiste, oh Seor,
+antiguos, considero que siempre son juicios justos. ˇJusto fuiste, oh Seńor,
 
 cuando derramaste el granizo de fuego sobre Sodoma y Gomorra, cuando eliminaste
 
-a Faran y venciste a sus ejrcitos en el Mar Rojo y cuando tu ngel mat al
+a Faraón y venciste a sus ejércitos en el Mar Rojo y cuando tu ángel mató al
 
-ejrcito de Senaquerib! Justo has sido, oh Dios, al destronar a las antiguas monarquas
+ejército de Senaquerib! ˇJusto has sido, oh Dios, al destronar a las antiguas monarquías
 
-que haban quedado inmersas en la iniquidad! Y esos son los juicios del Seor
+que habían quedado inmersas en la iniquidad! Y esos son “los juicios del Seńor”
 
-que an han de ser ejecutados, en relacin a los cuales tenemos las repetidas
+que aún han de ser ejecutados, en relación a los cuales tenemos las repetidas
 
-declaraciones de la revelacin que todos ellos sern verdad, todos justos.
+declaraciones de la revelación que todos ellos serán “verdad, todos justos”.
 
-Esas son las propias palabras que son usadas en relacin a los juicios del
+Esas son las propias palabras que son usadas en relación a los juicios del
 
-Seor sobre la gran ramera que ha corrompido a la tierra con sus fornicaciones.
+Seńor sobre la gran ramera que ha corrompido a la tierra con sus fornicaciones.
 
 Con este bendito Libro en nuestras manos, y especialmente si sus verdades son
 
@@ -978,25 +978,25 @@ entronizadas en nuestros corazones, podemos enfrentar confiadamente el futuro,
 
 y no alarmarnos por ninguno de los errores que pudieran surgir en torno
 
-nuestro. Los maestros de la falsedad slo estn imitando la insensatez de los
+nuestro. Los maestros de la falsedad sólo están imitando la insensatez de los
 
-constructores de Babel, y todos sus inventos slo terminarn en su propia
+constructores de Babel, y todos sus inventos sólo terminarán en su propia
 
-confusin.
+confusión.
 
 El sol se ha puesto, y
 
-en una o dos horas el mundo aparecer cubierto con un vestido ms sombro del
+en una o dos horas el mundo aparecerá cubierto con un vestido más sombrío del
 
-que ahora lleva. Si ustedes salen a la media noche no vern nada excepto a las
+que ahora lleva. Si ustedes salen a la media noche no verán nada excepto a las
 
-titilantes estrellas y a unas cuantas lmparas vacilantes; con todo, el sol no
+titilantes estrellas y a unas cuantas lámparas vacilantes; con todo, el sol no
 
 se ha apagado y su luz no ha sido suprimida. Esperen al momento designado y la
 
-gran luz del da ser de nuevo como esposo que sale de su tlamo, se alegra
+gran luz del día será de nuevo “como esposo que sale de su tálamo, se alegra
 
-cual gigante para correr el camino. La oscuridad pudiera cubrir tu mente esta
+cual gigante para correr el camino”. La oscuridad pudiera cubrir tu mente esta
 
 noche, la oscuridad pudiera cubrir tus circunstancias, la oscuridad pudiera
 
@@ -1006,23 +1006,23 @@ la Iglesia
 
 de Dios en la tierra; pero aquella antigua
 
-promesa sigue siendo verdadera. Mas a vosotros los que temis mi nombre,
+promesa sigue siendo verdadera. “Mas a vosotros los que teméis mi nombre,
 
-nacer el Sol de justicia, y en sus alas traer salvacin. Asegrense de estar
+nacerá el Sol de justicia, y en sus alas traerá salvación”. Asegúrense de estar
 
-del lado del Seor, de poner su confianza en la sangre preciosa de Jess y de
+del lado del Seńor, de poner su confianza en la sangre preciosa de Jesús y de
 
-esperar en l ms que los centinelas a la maana; y entonces, cuando l venga,
+esperar en Él más que los centinelas a la mańana; y entonces, cuando Él venga,
 
-ser para ustedes un da de luz y no de oscuridad, y los das de su lamentacin
+será para ustedes un día de luz y no de oscuridad, y los días de su lamentación
 
-habrn concluido para siempre. Que el Seor consuele sus corazones, los
+habrán concluido para siempre. ˇQue el Seńor consuele sus corazones, los
 
-sostenga bajo cada tribulacin, los conserve en Su amor, y los capacite para
+sostenga bajo cada tribulación, los conserve en Su amor, y los capacite para
 
-esperar pacientemente Su venida, por causa de Su amado nombre! Amn.
+esperar pacientemente Su venida, por causa de Su amado nombre! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 22/Septiembre/2009
 

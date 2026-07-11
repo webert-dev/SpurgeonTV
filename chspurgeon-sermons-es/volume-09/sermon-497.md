@@ -1,16 +1,16 @@
 # Sermón 497 | Sermón 497
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-La Procesin
+La Procesión
 
 del Dolor
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,181 +18,181 @@ DOMINGO 1 DE MARZO,
 
 1863
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Tomaron, pues, a Jess y le llevaron. Juan 19: 16.
+“Tomaron, pues, a Jesús y le llevaron”. Juan 19: 16.
 
-El prximo sbado todos
+El próximo sábado todos
 
-los ojos estarn puestos en un gran prncipe que recorrer nuestras calles
+los ojos estarán puestos en un gran príncipe que recorrerá nuestras calles
 
-acompaado de su prometida real. Hoy yo les pido que pongan su atencin en otro
+acompańado de su prometida real. Hoy yo les pido que pongan su atención en otro
 
-Prncipe que marcha de manera diferente a travs de Su metrpoli. Londres ver
+Príncipe que marcha de manera diferente a través de Su metrópoli. Londres verá
 
-la gloria del uno. Jerusaln contempl la vergenza del otro. Acrquense, quienes
+la gloria del uno. Jerusalén contempló la vergüenza del otro. Acérquense, quienes
 
-aman a Emanuel, y yo les voy a mostrar esta grande visin: el Rey del dolor marchando
+aman a Emanuel, y yo les voy a mostrar esta grande visión: el Rey del dolor marchando
 
-a Su trono de amargura: la cruz. Yo reclamo para la procesin de mi Seor un inters
+a Su trono de amargura: la cruz. Yo reclamo para la procesión de mi Seńor un interés
 
-mayor que para el desfile que ustedes estn esperando ansiosamente. Su
+mayor que para el desfile que ustedes están esperando ansiosamente. żSu
 
-prncipe estar vestido suntuosamente? El mo est engalanado con ropas
+príncipe estará vestido suntuosamente? El mío está engalanado con ropas
 
-enrojecidas con Su propia sangre. Su prncipe ser condecorado con honores?
+enrojecidas con Su propia sangre. żSu príncipe será condecorado con honores?
 
-He aqu, mi Rey no est sin Su corona, ay, aunque es una corona de espinas
+ˇHe aquí, mi Rey no está sin Su corona, ay, aunque es una corona de espinas
 
-salpicada con gotas de sangre de color rub! Sus avenidas estarn atestadas de
+salpicada con gotas de sangre de color rubí! żSus avenidas estarán atestadas de
 
-gente? As estuvieron las calles de Jerusaln, pues grandes multitudes le
+gente? Así estuvieron las calles de Jerusalén, pues grandes multitudes le
 
-seguan. Levantarn ustedes el clamor de un gritero tumultuoso? Un saludo
+seguían. żLevantarán ustedes el clamor de un griterío tumultuoso? Un saludo
 
-parecido recibi el Seor de gloria, pero, ay, no eran voces de bienvenida,
+parecido recibió el Seńor de gloria, pero, ay, no eran voces de bienvenida,
 
-sino gritos de: Muera, muera!. Ustedes hacen ondear en lo alto sus pendones
+sino gritos de: “ˇMuera, muera!”. Ustedes hacen ondear en lo alto sus pendones
 
-en torno al heredero del trono de Inglaterra, pero cmo podran rivalizar con el
+en torno al heredero del trono de Inglaterra, pero cómo podrían rivalizar con el
 
-pendn de la sagrada cruz, llevada en aquel da por primera vez entre los hijos
+pendón de la sagrada cruz, llevada en aquel día por primera vez entre los hijos
 
-de los hombres. Por los miles de ojos que van a contemplar al joven prncipe,
+de los hombres. Por los miles de ojos que van a contemplar al joven príncipe,
 
-yo ofrezco las miradas de hombres y de ngeles. Todas las naciones se juntaron
+yo ofrezco las miradas de hombres y de ángeles. Todas las naciones se juntaron
 
-en torno a mi Seor; hombres grandes y hombres humildes se apiaron alrededor
+en torno a mi Seńor; hombres grandes y hombres humildes se apińaron alrededor
 
-de Su persona. Desde el cielo los ngeles le miraban con asombro y estupor; los
+de Su persona. Desde el cielo los ángeles le miraban con asombro y estupor; los
 
-espritus de los justos contemplaban la escena desde las ventanas del cielo,
+espíritus de los justos contemplaban la escena desde las ventanas del cielo,
 
-s, y el grandioso Padre vigilaba cada movimiento de Su sufriente Hijo. Pero
+sí, y el grandioso Padre vigilaba cada movimiento de Su sufriente Hijo. Pero
 
-ustedes me preguntan dnde est la esposa, la hija del rey de hermosa figura y buen
+ustedes me preguntan dónde está la esposa, la hija del rey de hermosa figura y buen
 
-parecer. Mi Seor no est del todo desprovisto de Su esposa.
+parecer. Mi Seńor no está del todo desprovisto de Su esposa.
 
 La Iglesia
 
 , la esposa de
 
-Cristo, estaba all, conformada a la imagen de su Seor; ella estaba all, repito,
+Cristo, estaba allí, conformada a la imagen de su Seńor; ella estaba allí, repito,
 
-en Simn, que llevaba la cruz, y en las mujeres que lloraban y se lamentaban.
+en Simón, que llevaba la cruz, y en las mujeres que lloraban y se lamentaban.
 
-No digan que la comparacin es forzada, pues en un momento voy a retirarla y
+No digan que la comparación es forzada, pues en un momento voy a retirarla y
 
-voy a presentar el contraste. Concdanme al menos esta semejanza: aqu tenemos a
+voy a presentar el contraste. Concédanme al menos esta semejanza: aquí tenemos a
 
-un prncipe y a su novia, que lleva su pendn, que va vestido con sus ropas
+un príncipe y a su novia, que lleva su pendón, que va vestido con sus ropas
 
 reales y que atraviesa las calles de su propia ciudad rodeado de una
 
 vociferante multitud, de una muchedumbre que contempla la escena con profundo
 
-inters. Pero cun vasta era la disparidad! El ojo ms descuidado la discierne.
+interés. ˇPero cuán vasta era la disparidad! El ojo más descuidado la discierne.
 
-Aquel joven prncipe es rubio con la flor de la primera juventud y de la salud;
+Aquel joven príncipe es rubio con la flor de la primera juventud y de la salud;
 
-el semblante de mi Maestro est ms desfigurado que el de cualquier otro
+el semblante de mi Maestro está más desfigurado que el de cualquier otro
 
-hombre. Miren, est ennegrecido con moretones y manchado con la vergonzosa saliva
+hombre. Miren, está ennegrecido con moretones y manchado con la vergonzosa saliva
 
 de quienes le ridiculizaban. Su heredero de la realeza es transportado
 
 magnificentemente a lo largo de las calles en su majestuoso carruaje, sentado a
 
-sus anchas; mi sufriente Prncipe camina con pies cansados y marca el camino
+sus anchas; mi sufriente Príncipe camina con pies cansados y marca el camino
 
-con gotas de color carmes; no lo llevan, sino que l lleva; no lo transportan,
+con gotas de color carmesí; no lo llevan, sino que Él lleva; no lo transportan,
 
-sino que l porta Su cruz. Su prncipe est rodeado por una multitud de amigos;
+sino que Él porta Su cruz. Su príncipe está rodeado por una multitud de amigos;
 
-escuchen cun jubilosamente lo reciben! Y hacen bien; el hijo de padres tan
+ˇescuchen cuán jubilosamente lo reciben! Y hacen bien; el hijo de padres tan
 
-nobles merece el amor de una nacin. Pero mi prncipe es odiado sin causa.
+nobles merece el amor de una nación. Pero mi príncipe es odiado sin causa.
 
-Escuchen cmo las voces estentreas de ellos exigen que sea llevado
+ˇEscuchen cómo las voces estentóreas de ellos exigen que sea llevado
 
-rpidamente a la ejecucin! Cun duramente rechinan las crueles slabas, Crucifcale!
+rápidamente a la ejecución! Cuán duramente rechinan las crueles sílabas, “ˇCrucifícale!
 
-Crucifcale! Su noble prncipe est preparndose para su matrimonio; el mo
+ˇCrucifícale!” Su noble príncipe está preparándose para su matrimonio; el mío
 
-se apresura a Su muerte. Oh, qu vergenza que los hombres encuentren tanto
+se apresura a Su muerte. Oh, qué vergüenza que los hombres encuentren tanto
 
-aplauso para los prncipes y ninguno para el Rey de reyes. Con todo, queridos
+aplauso para los príncipes y ninguno para el Rey de reyes. Con todo, queridos
 
-amigos, para algunos ojos ser ms atractiva la procesin del dolor, de la vergenza
+amigos, para algunos ojos será más atractiva la procesión del dolor, de la vergüenza
 
 y de la sangre que aquel despliegue de grandeza y de gozo. Yo les ruego que
 
-presten odos a estas dbiles palabras que son las que puedo expresar sobre un
+presten oídos a estas débiles palabras que son las que puedo expresar sobre un
 
-tema demasiado excelso para m, que es la marcha del Hacedor del mundo a lo
+tema demasiado excelso para mí, que es la marcha del Hacedor del mundo a lo
 
-largo del camino de Su gran afliccin; vean a su Redentor atravesando el spero
+largo del camino de Su gran aflicción; vean a su Redentor atravesando el áspero
 
-sendero del sufrimiento a lo largo del cual fue con un corazn agitado y
+sendero del sufrimiento a lo largo del cual fue con un corazón agitado y
 
 penosos pasos para pavimentar un camino real de misericordia para Sus enemigos.
 
 I.
 
-Despus
+Después
 
-de que nuestro Seor Jesucristo fue formalmente condenado por Pilato, nuestro
+de que nuestro Seńor Jesucristo fue formalmente condenado por Pilato, nuestro
 
-texto nos dice que le llevaron. Yo les invito que pongan su atencin en Cristo
+texto nos dice que le llevaron. Yo les invito que pongan su atención en Cristo
 
 cuando le llevan.
 
 Pilato, tal como les
 
-recordamos, mand que azotaran a nuestro Salvador de acuerdo a la costumbre
+recordamos, mandó que azotaran a nuestro Salvador de acuerdo a la costumbre
 
-comn de las cortes romanas. Los lictores ejecutaron su cruel oficio sobre Sus
+común de las cortes romanas. Los lictores ejecutaron su cruel oficio sobre Sus
 
-hombros con varas y azotes, hasta que los latigazos alcanzaron el nmero
+hombros con varas y azotes, hasta que los latigazos alcanzaron el número
 
-completo. Jess es formalmente condenado a la crucifixin, pero antes de que le
+completo. Jesús es formalmente condenado a la crucifixión, pero antes de que le
 
 llevaran, lo entregaron a los guardias pretorianos para que esos rudos
 
 legionarios le insultaran. Se dice que un regimiento germano estaba estacionado
 
-por aquellos das en Judea, y no me sorprendera que fueran los ancestros lineales
+por aquellos días en Judea, y no me sorprendería que fueran los ancestros lineales
 
-de esos telogos germanos de tiempos modernos que han escarnecido al Salvador, que
+de esos teólogos germanos de tiempos modernos que han escarnecido al Salvador, que
 
-han manipulado la revelacin y escupido la vil saliva de su filosofa en el
+han manipulado la revelación y escupido la vil saliva de su filosofía en el
 
-rostro de la verdad. La soldadesca se burl y le insult de todas las maneras
+rostro de la verdad. La soldadesca se burló y le insultó de todas las maneras
 
 que la crueldad y el escarnio pudieron idear. La corona tejida de espinas, el
 
-manto de prpura, la saliva y la caa con la que le golpearon y le desfiguraron,
+manto de púrpura, la saliva y la cańa con la que le golpearon y le desfiguraron,
 
-todas esas cosas marcaron el desprecio en el que tenan al Rey de los judos. La
+todas esas cosas marcaron el desprecio en el que tenían al Rey de los judíos. La
 
-caa no era un mero junco del arroyo, sino que era de un tipo ms resistente
+cańa no era un mero junco del arroyo, sino que era de un tipo más resistente
 
 con el que los orientales hacen con frecuencia bastones, por lo que los golpes
 
 fueron tanto crueles como insultantes; y la corona no era de paja sino de
 
-espinas, y por esto produca dolor y era un escarnio emblemtico. Cuando se
+espinas, y por esto producía dolor y era un escarnio emblemático. Cuando se
 
-hubieron burlado de l, le arrancaron el manto de prpura que le haban puesto,
+hubieron burlado de Él, le arrancaron el manto de púrpura que le habían puesto,
 
-y esa brutal operacin le causara mucho dolor. Sus heridas abiertas y sin
+y esa brutal operación le causaría mucho dolor. Sus heridas abiertas y sin
 
-restaar, todava sangrantes por el ltigo, haran que ese manto escarlata se
+restańar, todavía sangrantes por el látigo, harían que ese manto escarlata se
 
-adhiriera a l, y cuando le fue arrancado, Sus cortaduras sangraran de nuevo.
+adhiriera a Él, y cuando le fue arrancado, Sus cortaduras sangrarían de nuevo.
 
 No leemos que le quitaran la corona de espinas, y por tanto es sumamente
 
@@ -202,259 +202,259 @@ lo largo de
 
 la
 
-Va
+Vía
 
 Dolorosa
 
 ,
 
-y que tambin la llevara sobre Su
+y que también la llevara sobre Su
 
 cabeza cuando fue clavado en la cruz. Por tanto esos cuadros que representan a
 
-nuestro Seor llevando la corona de espinas sobre el madero tienen al menos
+nuestro Seńor llevando la corona de espinas sobre el madero tienen al menos
 
-algn
+algún
 
 fundamento escriturario. Le
 
-cubrieron con Sus propios vestidos porque eran la gratificacin del verdugo;
+cubrieron con Sus propios vestidos porque eran la gratificación del verdugo;
 
-as como los modernos verdugos se quedan con las ropas de aquellos a quienes
+así como los modernos verdugos se quedan con las ropas de aquellos a quienes
 
-ejecutan, as tambin los cuatro soldados reclamaron un derecho sobre Sus
+ejecutan, así también los cuatro soldados reclamaron un derecho sobre Sus
 
 ropas. Le cubrieron con Sus propios vestidos para que las multitudes pudieran
 
-discernir que se trataba del mismo hombre, del hombre especfico que haba
+discernir que se trataba del mismo hombre, del hombre específico que había
 
-profesado ser el Mesas. Todos nosotros sabemos que un vestido diferente
+profesado ser el Mesías. Todos nosotros sabemos que un vestido diferente
 
-levanta dudas a menudo con respecto a la identidad de un individuo; pero he
+levanta dudas a menudo con respecto a la identidad de un individuo; pero ˇhe
 
-aqu!, la gente le vio en la calle, no cubierto con un manto de prpura, sino
+aquí!, la gente le vio en la calle, no cubierto con un manto de púrpura, sino
 
-llevando Su tnica la cual era sin costura, de un solo tejido de arriba abajo, de
+llevando Su túnica la cual era sin costura, de un solo tejido de arriba abajo, de
 
-hecho era la bata comn de los campesinos de Palestina, y dijeron de inmediato:
+hecho era la bata común de los campesinos de Palestina, y dijeron de inmediato:
 
-S, es l, es el hombre que sanaba a los enfermos y que resucitaba a los
+“Sí, es Él, es el hombre que sanaba a los enfermos y que resucitaba a los
 
-muertos; es el poderoso maestro que sola sentarse en la cima del monte, o que
+muertos; es el poderoso maestro que solía sentarse en la cima del monte, o que
 
 estaba en los atrios del templo y predicaba con autoridad, y no como los
 
-escribas. No puede haber ninguna sombra de duda de que nuestro Seor fue crucificado
+escribas”. No puede haber ninguna sombra de duda de que nuestro Seńor fue crucificado
 
-realmente, y que nadie tom Su lugar. Cmo le condujeron, no sabemos. Los
+realmente, y que nadie tomó Su lugar. Cómo le condujeron, no sabemos. Los
 
-expositores de la iglesia catlica, que extraen el material de su prolfica
+expositores de la iglesia católica, que extraen el material de su prolífica
 
-imaginacin para sus datos, nos dicen que tena una cuerda alrededor de Su
+imaginación para sus datos, nos dicen que tenía una cuerda alrededor de Su
 
-cuello con la cual le arrastraban con rudeza al madero; esta es una de las ms
+cuello con la cual le arrastraban con rudeza al madero; esta es una de las más
 
 probables de sus conjeturas puesto que no era inusual que los romanos
 
-condujeran de ese modo a los criminales al patbulo. Sin embargo, nos importa
+condujeran de ese modo a los criminales al patíbulo. Sin embargo, nos importa
 
-mucho ms el hecho de que sigui adelante con la cruz a cuestas. Esto tena la
+mucho más el hecho de que siguió adelante con la cruz a cuestas. Esto tenía la
 
-intencin de proclamar a la vez Su culpa y de notificar Su condenacin.
+intención de proclamar a la vez Su culpa y de notificar Su condenación.
 
-Usualmente el pregonero iba delante con un anuncio parecido a este: Este es
+Usualmente el pregonero iba delante con un anuncio parecido a este: “Este es
 
-Jess de Nazaret, Rey de los judos, quien por proclamarse rey y agitar al
+Jesús de Nazaret, Rey de los judíos, quien por proclamarse rey y agitar al
 
-pueblo, ha sido condenado a morir. Esa cruz era una estructura pesada; no tan
+pueblo, ha sido condenado a morir”. Esa cruz era una estructura pesada; no tan
 
-pesada, tal vez, como algunos cuadros quisieran representarla, pero aun as no
+pesada, tal vez, como algunos cuadros quisieran representarla, pero aun así no
 
 era una carga liviana para un hombre cuyos hombros estaban en carne viva por
 
-los azotes del ltigo romano. l haba estado sumido en agona toda la noche;
+los azotes del látigo romano. Él había estado sumido en agonía toda la noche;
 
-haba pasado las primeras horas de la maana en casa de Caifs, y tal como se
+había pasado las primeras horas de la mańana en casa de Caifás, y tal como se
 
-los describ el domingo pasado, haba sido trasladado apresuradamente de Caifs
+los describí el domingo pasado, había sido trasladado apresuradamente de Caifás
 
 a Pilato, de Pilato a Herodes, y de Herodes otra vez de regreso a Pilato; por
 
-tanto, le quedaba poca fortaleza fsica y no ha de sorprendernos que pronto le
+tanto, le quedaba poca fortaleza física y no ha de sorprendernos que pronto le
 
-encontremos tambalendose bajo el peso y que tuvieran que llamar a otro para
+encontremos tambaleándose bajo el peso y que tuvieran que llamar a otro para
 
-que llevara la cruz con l. Entonces, l sigue adelante llevando Su cruz.
+que llevara la cruz con Él. Entonces, Él sigue adelante llevando Su cruz.
 
-Qu aprendemos aqu
+żQué aprendemos aquí
 
-cuando llevan a Cristo? Acaso no vemos la verdad de lo que haba sido expuesto
+cuando llevan a Cristo? żAcaso no vemos la verdad de lo que había sido expuesto
 
 en tipo por
 
 el chivo expiatorio?
 
-No
+żNo
 
-traa el sumo sacerdote al chivo expiatorio y pona sus dos manos sobre su
+traía el sumo sacerdote al chivo expiatorio y ponía sus dos manos sobre su
 
-cabeza confesando los pecados del pueblo para que as esos pecados fueran
+cabeza confesando los pecados del pueblo para que así esos pecados fueran
 
-colocados sobre el macho cabro? Luego el macho cabro era conducido al
+colocados sobre el macho cabrío? Luego el macho cabrío era conducido al
 
-desierto por un varn apto y se llevaba los pecados del pueblo de manera que si
+desierto por un varón apto y se llevaba los pecados del pueblo de manera que si
 
-fueran buscados no se podran hallar. Ahora vemos que Jess es llevado ante los
+fueran buscados no se podrían hallar. Ahora vemos que Jesús es llevado ante los
 
 sacerdotes y los gobernantes quienes lo declaran culpable; el propio Dios le imputa
 
 nuestros pecados a
 
-l
+Él
 
-; l fue hecho
+; Él fue hecho
 
 pecado por nosotros, y como el sustituto por nuestra culpa, con nuestros
 
-pecados a cuestas pues esa cruz era una suerte de representacin en madera de
+pecados a cuestas –pues esa cruz era una suerte de representación en madera de
 
-nuestra culpa y condenacin- vemos al grandioso Chivo Expiatorio siendo
+nuestra culpa y condenación- vemos al grandioso Chivo Expiatorio siendo
 
 conducido por los oficiales de justicia designados. Llevando a cuestas el
 
-pecado de todo Su pueblo, la ofrenda sale fuera del campamento. Amado, puedes
+pecado de todo Su pueblo, la ofrenda sale fuera del campamento. Amado, żpuedes
 
-decir que l llev
+decir que Él llevó
 
 tu
 
 pecado? Cuando
 
-miras la cruz sobre Sus hombros, ves que representa
+miras la cruz sobre Sus hombros, żves que representa
 
 tu
 
-pecado? Oh!, hazte la pregunta y no te quedes satisfecho a
+pecado? ˇOh!, hazte la pregunta y no te quedes satisfecho a
 
 menos de que la puedas responder afirmativamente de manera sumamente positiva.
 
-Hay una manera de saber si l llev tu pecado o no. Has puesto tu mano sobre
+Hay una manera de saber si Él llevó tu pecado o no. żHas puesto tu mano sobre
 
-Su cabeza y has confesado tu pecado confiando en l? Entonces tu pecado no est
+Su cabeza y has confesado tu pecado confiando en Él? Entonces tu pecado no está
 
 en ti; no hay en ti ni una sola onza o dracma del pecado; todo ha sido
 
-transferido a Cristo por bendita imputacin, y l lleva ese pecado a cuestas en
+transferido a Cristo por bendita imputación, y Él lleva ese pecado a cuestas en
 
-la forma de aquella pesada cruz. Qu dicha, qu satisfaccin dar esto si
+la forma de aquella pesada cruz. Qué dicha, qué satisfacción dará esto si
 
 podemos cantar:
 
-Mi alma vuelve su mirada para ver
+“Mi alma vuelve su mirada para ver
 
-La carga que T llevaste,
+La carga que Tú llevaste,
 
 Cuando te apresurabas al maldito madero,
 
-Y sabe que su culpa estaba all!
+ˇY sabe que su culpa estaba allí!”
 
 No permitan que el
 
 cuadro se desvanezca mientras no hayan quedado satisfechos, de una vez por
 
-todas, de que Cristo era aqu su sustituto.
+todas, de que Cristo era aquí su sustituto.
 
 Meditemos en el hecho de
 
-que Jess fue conducido fuera de las puertas de la ciudad. Era
+que Jesús fue conducido fuera de las puertas de la ciudad. Era
 
-el lugar comn de ejecucin.
+el lugar común de ejecución.
 
-Ese pequeo
+Ese pequeńo
 
-montculo que tal vez era llamado Glgota, el lugar de la calavera, por su
+montículo que tal vez era llamado Gólgota, el lugar de la calavera, por su
 
-parecido con la coronilla de la calavera de un hombre, era el lugar comn de
+parecido con la coronilla de la calavera de un hombre, era el lugar común de
 
 las ejecuciones. Era uno de los castillos de
 
 la Muerte
 
-; all almacenaba sus
+; allí almacenaba sus
 
-ms lgubres trofeos; l era el macabro seor de ese baluarte. Nuestro
+más lúgubres trofeos; él era el macabro seńor de ese baluarte. Nuestro
 
-grandioso hroe, el destructor de
+grandioso héroe, el destructor de
 
 la
 
 Muerte
 
-, enfrent al len en su guarida, dio muerte al
+, enfrentó al león en su guarida, dio muerte al
 
-monstruo en su propio castillo, y arrastr al dragn cautivo desde su propia
+monstruo en su propio castillo, y arrastró al dragón cautivo desde su propia
 
-guarida. Me parece que Muerte consider que era un esplndido triunfo cuando
+guarida. Me parece que Muerte consideró que era un espléndido triunfo cuando
 
-vio al Maestro empalado y sangrando en los dominios de la destruccin; no se
+vio al Maestro empalado y sangrando en los dominios de la destrucción; no se
 
-imaginaba que la tumba iba a ser saqueada, y que l mismo iba a ser destruido
+imaginaba que la tumba iba a ser saqueada, y que él mismo iba a ser destruido
 
 por ese Hijo del hombre que era crucificado.
 
-No fue conducido all
+żNo fue conducido allá
 
 el Redentor
 
-para agravar Su vergenza?
+para agravar Su vergüenza?
 
 El
 
-Calvario era como nuestro Old Bailey; era el lugar de ejecucin usual para el
+Calvario era como nuestro Old Bailey; era el lugar de ejecución usual para el
 
-distrito. Cristo tena que morir la muerte de un criminal, y tena que ser
+distrito. Cristo tenía que morir la muerte de un criminal, y tenía que ser
 
-sobre el patbulo de un criminal, en el lugar donde hrridos crmenes haban
+sobre el patíbulo de un criminal, en el lugar donde hórridos crímenes habían
 
-encontrado su debida recompensa. Esto aada a Su vergenza; pero, me parece
+encontrado su debida recompensa. Esto ańadía a Su vergüenza; pero, me parece
 
-que tambin en esto se acerca ms a nosotros, Fue contado con los pecadores,
+que también en esto se acerca más a nosotros, “Fue contado con los pecadores,
 
-habiendo l llevado el pecado de muchos, y orado por los transgresores.
+habiendo él llevado el pecado de muchos, y orado por los transgresores”.
 
-Pero, adems, hermanos
+Pero, además, hermanos
 
-mos, yo creo que esta es la gran leccin del hecho de que Cristo fuera
+míos, yo creo que esta es la gran lección del hecho de que Cristo fuera
 
 inmolado afuera de las puertas de la ciudad:
 
-salgamos, pues, a l, fuera del campamento, llevando su vituperio.
+salgamos, pues, a él, fuera del campamento, llevando su vituperio.
 
 Ustedes
 
-ven all a la multitud que
+ven allá a la multitud que
 
-lo est
+lo está
 
 sacando del templo.
 
 No le permiten que adore con ellos. El ceremonial de la
 
-religin juda le niega toda participacin en sus pompas; los sacerdotes le
+religión judía le niega toda participación en sus pompas; los sacerdotes le
 
-condenan a que nunca jams vuelva a hollar los pisos santificados, a que nunca
+condenan a que nunca jamás vuelva a hollar los pisos santificados, a que nunca
 
-jams mire los altares consagrados en el lugar de adoracin de Su pueblo. Lo
+jamás mire los altares consagrados en el lugar de adoración de Su pueblo. Lo
 
 exilian de
 
 su amistad,
 
-tambin. Nadie
+también. Nadie
 
-se atreve ahora a llamarle amigo, o a musitar una palabra de consuelo para l.
+se atreve ahora a llamarle amigo, o a musitar una palabra de consuelo para Él.
 
-Peor an; es desterrado de su
+Peor aún; es desterrado de su
 
 sociedad,
 
@@ -462,73 +462,73 @@ como
 
 si fuera un leproso cuyo aliento es infeccioso y cuya presencia propaga la
 
-plaga. Lo fuerzan a salir fuera de los muros, y no estn satisfechos hasta que
+plaga. Lo fuerzan a salir fuera de los muros, y no están satisfechos hasta que
 
-se deshacen de Su detestable presencia. Para l no tienen ninguna tolerancia.
+se deshacen de Su detestable presencia. Para Él no tienen ninguna tolerancia.
 
-Barrabs puede quedar libre; el ladrn y el asesino pueden ser perdonados, pero
+Barrabás puede quedar libre; el ladrón y el asesino pueden ser perdonados, pero
 
-para Cristo no hay ninguna palabra, sino Quita de la tierra a tal hombre,
+para Cristo no hay ninguna palabra, sino “Quita de la tierra a tal hombre,
 
-porque no conviene que viva. Por tanto, Jess es acosado para que salga de la
+porque no conviene que viva”. Por tanto, Jesús es acosado para que salga de la
 
-ciudad, ms all de las puertas, con la voluntad y la fuerza de Su propia nacin,
+ciudad, más allá de las puertas, con la voluntad y la fuerza de Su propia nación,
 
-pero l no sale en contra de Su propia voluntad; as como la oveja va tan voluntariamente
+pero Él no sale en contra de Su propia voluntad; así como la oveja va tan voluntariamente
 
-al matadero como a los prados, as tambin Cristo toma alegremente Su cruz y
+al matadero como a los prados, así también Cristo toma alegremente Su cruz y
 
-sale del campamento. Vean, hermanos, aqu tenemos un cuadro de lo que podemos
+sale del campamento. Vean, hermanos, aquí tenemos un cuadro de lo que podemos
 
 esperar de los hombres si somos fieles a nuestro Maestro. No es probable que
 
-seamos capaces de adorar con la adoracin suya. Ellos prefieren un ceremonial
+seamos capaces de adorar con la adoración suya. Ellos prefieren un ceremonial
 
-vistoso y pomposo; el oleaje de la msica, el brillo de costosas vestimentas y
+vistoso y pomposo; el oleaje de la música, el brillo de costosas vestimentas y
 
-el desfile de la erudicin, todas esas cosas tienen que ministrar grandeza a la
+el desfile de la erudición, todas esas cosas tienen que ministrar grandeza a la
 
-religin del mundo, y as dejan fuera a los simples seguidores del Cordero. Los
+religión del mundo, y así dejan fuera a los simples seguidores del Cordero. Los
 
-lugares altos de la adoracin y honra terrenales no son para nosotros. Si somos
+lugares altos de la adoración y honra terrenales no son para nosotros. Si somos
 
 fieles a nuestro Maestro pronto perderemos la amistad del mundo. A los
 
-pecadores les parece que nuestra conversacin es desagradable; los carnales no
+pecadores les parece que nuestra conversación es desagradable; los carnales no
 
-tienen ningn inters en nuestras ocupaciones; las cosas que apreciamos son
+tienen ningún interés en nuestras ocupaciones; las cosas que apreciamos son
 
 escoria para los mundanos mientras que las cosas preciosas para ellos son
 
-despreciables para nosotros. Ha habido pocas, y esos das podran regresar,
+despreciables para nosotros. Ha habido épocas, y esos días podrían regresar,
 
-cuando la fidelidad a Cristo ha conllevado la exclusin de lo que se llama
+cuando la fidelidad a Cristo ha conllevado la exclusión de lo que se llama
 
-sociedad. Aun ahora, en gran medida, el verdadero cristiano es como un paria,
+“sociedad”. Aun ahora, en gran medida, el verdadero cristiano es como un paria,
 
-ms bajo que la casta ms baja en el juicio de algunos. En das pasados el
+más bajo que la casta más baja en el juicio de algunos. En días pasados el
 
 mundo ha considerado que matar a los santos era prestar un
 
 servicio a Dios. Debemos tener en cuenta todo
 
-esto y si nos sobreviniera lo peor, no ha de extraarnos para nada. Estos son
+esto y si nos sobreviniera lo peor, no ha de extrańarnos para nada. Estos son
 
-das apacibles, y la religin no lucha una batalla tan severa. No voy a decir
+días apacibles, y la religión no lucha una batalla tan severa. No voy a decir
 
-que es porque somos infieles a nuestro Maestro que el mundo es ms amable con
+que es porque somos infieles a nuestro Maestro que el mundo es más amable con
 
-nosotros, pero yo tengo mis sospechas que as es, y es muy posible que si furamos
+nosotros, pero yo tengo mis sospechas que así es, y es muy posible que si fuéramos
 
-cristianos ms ntegramente, el mundo nos detestara ms intensamente, y si nos
+cristianos más íntegramente, el mundo nos detestaría más intensamente, y si nos
 
-apegramos ms ntimamente a Cristo podramos esperar recibir ms calumnias,
+apegáramos más íntimamente a Cristo podríamos esperar recibir más calumnias,
 
-ms ultrajes, menos tolerancia y menos favor de los hombres. Jvenes creyentes
+más ultrajes, menos tolerancia y menos favor de los hombres. Jóvenes creyentes
 
 que han seguido a Cristo recientemente, si su padre o su madre los desamparara,
 
-recuerden que se les pidi que tuvieran en cuenta eso; si los hermanos y las
+recuerden que se les pidió que tuvieran en cuenta eso; si los hermanos y las
 
 hermanas los ridiculizan, tienen que registrar eso como parte del costo de ser
 
@@ -536,41 +536,41 @@ cristiano. Obreros piadosos, si sus patronos o sus colegas les arrugan el
 
 entrecejo; esposas, si sus esposos las amenazan con echarlas fuera, recuerden
 
-que fuera del campamento era el lugar de Jess, y fuera del campamento es el
+que fuera del campamento era el lugar de Jesús, y fuera del campamento es el
 
-suyo. Oh!, ustedes, hombres cristianos, que suean con adaptarse a las
+suyo. ˇOh!, ustedes, hombres cristianos, que sueńan con adaptarse a las
 
 circunstancias, que buscan ganar el favor del mundo, yo les suplico que
 
 desistan de un curso tan peligroso. Nosotros estamos en el mundo pero no
 
-debemos ser nunca de l; no hemos de estar recluidos como monjes en el
+debemos ser nunca de él; no hemos de estar recluidos como monjes en el
 
-claustro, sino que hemos de estar separados como judos entre los gentiles;
+claustro, sino que hemos de estar separados como judíos entre los gentiles;
 
 hombres, pero no de los hombres; ayudando, asistiendo, ofreciendo amistad,
 
-enseando, consolando, instruyendo, pero sin pecar ya sea para evitar un ceo
+enseńando, consolando, instruyendo, pero sin pecar ya sea para evitar un ceńo
 
-fruncido o para ganar una sonrisa. Entre ms manifiestamente haya una gran sima
+fruncido o para ganar una sonrisa. Entre más manifiestamente haya una gran sima
 
 entre
 
 la Iglesia
 
-y el mundo, mejor ser para ambos: ser mejor para el mundo, pues ser
+y el mundo, mejor será para ambos: será mejor para el mundo, pues será
 
-advertido mediante eso y ser mejor para
+advertido mediante eso y será mejor para
 
 la Iglesia
 
-, pues ser preservada mediante eso. Vayan
+, pues será preservada mediante eso. Vayan
 
 ustedes, entonces, como el Maestro, esperando ser ultrajados, esperando ganar
 
-una mala reputacin y recibir la censura; vayan ustedes fuera del campamento,
+una mala reputación y recibir la censura; vayan ustedes fuera del campamento,
 
-como l.
+como Él.
 
 II.
 
@@ -578,7 +578,7 @@ Contemplemos
 
 ahora por unos momentos a CRISTO LLEVANDO SU CRUZ. Creyente, yo te he mostrado tu
 
-posicin; permteme mostrarte ahora tu
+posición; permíteme mostrarte ahora tu
 
 servicio.
 
@@ -588,33 +588,33 @@ debido al cansancio viaja lentamente y por su extenuada apariencia, Sus
 
 enemigos, urgidos de Su muerte y medio temerosos de que pudiera morir antes de
 
-llegar al lugar de la ejecucin, permiten que otro comparta Su carga. El
+llegar al lugar de la ejecución, permiten que otro comparta Su carga. El
 
-corazn de los impos es cruel y como no pueden perdonarle las agonas de morir
+corazón de los impíos es cruel y como no pueden perdonarle las agonías de morir
 
 en la cruz, le exoneran de la labor de cargar con ella. Colocan la cruz sobre
 
-Simn, un cirenaico, que vena del campo. No sabemos de qu color pudiera haber
+Simón, un cirenaico, que venía del campo. No sabemos de qué color pudiera haber
 
-sido el rostro de Simn, pero muy probablemente era negro. Simn era africano;
+sido el rostro de Simón, pero muy probablemente era negro. Simón era africano;
 
-provena de Cirene. Ay, pobres africanos, ustedes han sido obligados a llevar
+provenía de Cirene. Ay, pobres africanos, ustedes han sido obligados a llevar
 
 la cruz aun hasta ahora. Salve, despreciados hijos del sol, ustedes siguen
 
-inmediatamente al Rey en la marcha de la afliccin. No estamos seguros de que
+inmediatamente al Rey en la marcha de la aflicción. No estamos seguros de que
 
-Simn fuera un discpulo de Cristo; pudiera haberse tratado de un amigable
+Simón fuera un discípulo de Cristo; pudiera haberse tratado de un amigable
 
-espectador; sin embargo, uno pensara que, de ser posible, los judos
+espectador; sin embargo, uno pensaría que, de ser posible, los judíos
 
-seleccionaran naturalmente a un discpulo. Recin llegado del campo, sin saber
+seleccionarían naturalmente a un discípulo. Recién llegado del campo, sin saber
 
-qu estaba sucediendo, se uni a la turba y le hicieron llevar la cruz.
+qué estaba sucediendo, se unió a la turba y le hicieron llevar la cruz.
 
-Entonces, ya sea que fuera un discpulo o no, tenemos toda razn para creer que
+Entonces, ya sea que fuera un discípulo o no, tenemos toda razón para creer que
 
-se convirti en un discpulo posteriormente; leemos que era el padre de
+se convirtió en un discípulo posteriormente; leemos que era el padre de
 
 Alejandro y de Rufo, dos personas que parecieran haber sido muy bien conocidas
 
@@ -622,21 +622,21 @@ en
 
 la Iglesia
 
-primitiva; esperemos que la salvacin haya llegado a su casa cuando fue obligado
+primitiva; esperemos que la salvación haya llegado a su casa cuando fue obligado
 
 a llevar la cruz del Salvador.
 
 Queridos amigos, debemos
 
-recordar que aunque nadie muri en la cruz con Cristo, pues la expiacin tena
+recordar que aunque nadie murió en la cruz con Cristo, pues la expiación tenía
 
-que ser ejecutada por un solitario Salvador, con todo, otra persona llev la
+que ser ejecutada por un solitario Salvador, con todo, otra persona llevó la
 
 cruz por Cristo; pues este mundo, si bien es redimido por precio por Cristo, y
 
-nicamente por Cristo, ha de ser redimido por el poder divino manifestado en
+únicamente por Cristo, ha de ser redimido por el poder divino manifestado en
 
-los sufrimientos y labores de los santos as como en los de Cristo. Observen
+los sufrimientos y labores de los santos así como en los de Cristo. Observen
 
 que el
 
@@ -644,13 +644,13 @@ rescate
 
 de los hombres fue pagado
 
-en su totalidad por Cristo; esa fue la redencin
+en su totalidad por Cristo; esa fue la redención
 
 por precio.
 
-Pero se necesita poder para derribar esos dolos, para
+Pero se necesita poder para derribar esos ídolos, para
 
-vencer a las huestes del error; dnde ha de encontrarse? En el Seor de los Ejrcitos,
+vencer a las huestes del error; żdónde ha de encontrarse? En el Seńor de los Ejércitos,
 
 que muestra Su poder en los sufrimientos de Cristo y de Su Iglesia.
 
@@ -658,19 +658,19 @@ La Iglesia
 
 tiene que sufrir
 
-para que el Evangelio sea propagado por su medio. Esto es lo que el apstol
+para que el Evangelio sea propagado por su medio. Esto es lo que el apóstol
 
-quiso decir cuando dijo: Cumplo en mi carne lo que falta de las aflicciones de
+quiso decir cuando dijo: “Cumplo en mi carne lo que falta de las aflicciones de
 
-Cristo por su cuerpo, que es la iglesia. No qued nada pendiente en el precio,
+Cristo por su cuerpo, que es la iglesia”. No quedó nada pendiente en el precio,
 
 pero hay algo pendiente en el poder manifiesto, y nosotros continuamos
 
 cumpliendo esa medida de poder revelado, llevando cada uno de nosotros la cruz
 
-con Cristo, hasta que la ltima vergenza sea derramada sobre Su causa y l
+con Cristo, hasta que la última vergüenza sea derramada sobre Su causa y Él
 
-reine por los siglos de los siglos. En el acto de Simn de llevar la cruz vemos
+reine por los siglos de los siglos. En el acto de Simón de llevar la cruz vemos
 
 un cuadro de lo que
 
@@ -678,17 +678,17 @@ la Iglesia
 
 debe hacer a lo largo de todas las generaciones. Observa entonces, cristiano, que
 
-Jess no sufre como para excluir tu sufrimiento. l lleva una cruz, no para que
+Jesús no sufre como para excluir tu sufrimiento. Él lleva una cruz, no para que
 
-t escapes de ella, sino para que t puedas soportarla. Cristo te exime del pecado,
+tú escapes de ella, sino para que tú puedas soportarla. Cristo te exime del pecado,
 
-pero no de la afliccin. l recibe la maldicin de la cruz, pero no te quita la
+pero no de la aflicción. Él recibe la maldición de la cruz, pero no te quita la
 
-cruz de la maldicin. Recuerda eso, y espera que tendrs que sufrir.
+cruz de la maldición. Recuerda eso, y espera que tendrás que sufrir.
 
-Amados, consolmonos con
+Amados, consolémonos con
 
-este pensamiento: que en nuestro caso, como en el de Simn,
+este pensamiento: que en nuestro caso, como en el de Simón,
 
 la que llevamos no es nuestra cruz, sino la
 
@@ -698,7 +698,7 @@ de Cristo.
 
 Cuando te molesten por
 
-tu piedad, cuando tu religin acarree la tribulacin de crueles burlas contra
+tu piedad, cuando tu religión acarree la tribulación de crueles burlas contra
 
 ti, entonces recuerda que no es
 
@@ -710,191 +710,191 @@ sino la cruz de
 
 Cristo,
 
-y cun
+y cuán
 
-deleitable es llevar la cruz de nuestro Seor Jess.
+deleitable es llevar la cruz de nuestro Seńor Jesús.
 
-T llevas la cruz detrs de l.
+Tú llevas la cruz detrás de Él.
 
 Tienes una bendita
 
-compaa; tu senda est marcada con las huellas de tu Seor. Si te fijas, ah,
+compańía; tu senda está marcada con las huellas de tu Seńor. Si te fijas, ahí,
 
-en ese pesado madero, est la sea de Su hombro enrojecido con sangre. Es
+en ese pesado madero, está la seńa de Su hombro enrojecido con sangre. Es
 
 Su
 
-cruz, y l va delante de ti como un
+cruz, y Él va delante de ti como un
 
-pastor va delante de sus ovejas. Toma tu cruz cotidianamente y sguele.
+pastor va delante de sus ovejas. Toma tu cruz cotidianamente y síguele.
 
 No te olvides, tampoco, de
 
-que t llevas esta cruz en sociedad.
+que tú llevas esta cruz en sociedad.
 
 Algunos
 
-comentaristas opinan que Simn slo llevaba un extremo de la cruz, y no toda
+comentaristas opinan que Simón sólo llevaba un extremo de la cruz, y no toda
 
-ella. Eso es muy posible. Cristo pudo haber llevado el extremo ms pesado,
+ella. Eso es muy posible. Cristo pudo haber llevado el extremo más pesado,
 
-contra la viga transversal, y Simn pudo haber llevado el extremo ms liviano.
+contra la viga transversal, y Simón pudo haber llevado el extremo más liviano.
 
-Ciertamente as sucede contigo; t slo llevas el extremo liviano de la cruz;
+Ciertamente así sucede contigo; tú sólo llevas el extremo liviano de la cruz;
 
-Cristo llev el extremo ms pesado.
+Cristo llevó el extremo más pesado.
 
-Su camino fue mucho ms spero y ms oscuro que el mo;
+“Su camino fue mucho más áspero y más oscuro que el mío;
 
-Cristo, mi Seor, sufri, y he de quejarme yo?
+Cristo, mi Seńor, sufrió, ży he de quejarme yo?
 
 Rutherford dice:
 
-Siempre que Cristo nos da una cruz, clama: Mitades, amor mo. Otros opinan
+“Siempre que Cristo nos da una cruz, clama: ‘Mitades, amor mío’”. Otros opinan
 
-que Simn llev toda la cruz. Si l llev toda la cruz, con todo, slo carg
+que Simón llevó toda la cruz. Si él llevó toda la cruz, con todo, sólo cargó
 
-con su madera; l no llev el pecado que la converta en una carga descomunal.
+con su madera; él no llevó el pecado que la convertía en una carga descomunal.
 
-Cristo slo transfiri a Simn la estructura externa, el simple madero, pero la
+Cristo sólo transfirió a Simón la estructura externa, el simple madero, pero la
 
-maldicin del madero, que era nuestro pecado y su castigo, descansaba todava
+maldición del madero, que era nuestro pecado y su castigo, descansaba todavía
 
-sobre los hombros de Jess. Querido amigo, si t piensas que sufres todo lo que
+sobre los hombros de Jesús. Querido amigo, si tú piensas que sufres todo lo que
 
 un cristiano puede sufrir, si todas las olas de Dios pasan sobre ti, con todo,
 
-recuerda que no hay ni una sola gota de ira en todo tu mar de afliccin. Jess
+recuerda que no hay ni una sola gota de ira en todo tu mar de aflicción. Jesús
 
-fue el blanco de la ira. Jess carg con el pecado, y ahora todo lo que t
+fue el blanco de la ira. Jesús cargó con el pecado, y ahora todo lo que tú
 
 soportas es solo por Su causa, para que seas conformado a Su imagen y puedas
 
 ayudar a recolectar a Su pueblo en Su familia.
 
-Aunque Simn llev la
+Aunque Simón llevó la
 
 cruz de Cristo,
 
-l no se ofreci a
+él no se ofreció a
 
 hacerlo voluntariamente, sino que lo obligaron a hacerlo.
 
 Me temo, amados, me
 
-temo que la mayora de nosotros, si la llevamos alguna vez, la llevamos por
+temo que la mayoría de nosotros, si la llevamos alguna vez, la llevamos por
 
-compulsin; al menos cuando cae por primera sobre nuestros hombros no nos
+compulsión; al menos cuando cae por primera sobre nuestros hombros no nos
 
-gusta, y nos alegrara huir de ella, pero el mundo nos obliga a llevar la cruz
+gusta, y nos alegraría huir de ella, pero el mundo nos obliga a llevar la cruz
 
-de Cristo. Siervos del Seor, acepten alegremente este peso. No creo que
+de Cristo. Siervos del Seńor, acepten alegremente este peso. No creo que
 
-debamos buscar una persecucin innecesaria. El hombre que provoca a propsito
+debamos buscar una persecución innecesaria. El hombre que provoca a propósito
 
 el disgusto de otras personas es un necio y no merece ninguna piedad. No, no;
 
 no debemos fabricarnos nuestra propia cruz. Que no objeten nada sino tu
 
-religin, y entonces si eso los ofende, que se ofendan; es una cruz que debes
+religión, y entonces si eso los ofende, que se ofendan; es una cruz que debes
 
 llevar jubilosamente.
 
-Aunque Simn tuvo que llevar la cruz por poco tiempo, eso le dio un
+Aunque Simón tuvo que llevar la cruz por poco tiempo, eso le dio un
 
 honor duradero.
 
-Yo no s qu distancia haba desde la casa de Pilato
+Yo no sé qué distancia había desde la casa de Pilato
 
 hasta el Monte de
 
-la Condenacin.
+la Condenación.
 
 Los
 
-catlicos romanos pretenden saberlo; de hecho, ellos
+católicos romanos pretenden saberlo; de hecho, ellos
 
-conocen el lugar preciso en que Vernica enjug el rostro bendito con su
+conocen el lugar preciso en que Verónica enjugó el rostro bendito con su
 
-pauelo y encontr su imagen impresa en l; saben tambin muy bien dnde
+pańuelo y encontró su imagen impresa en él; saben también muy bien dónde
 
 no
 
 se hizo eso; de hecho saben el lugar
 
-preciso donde Jess se desmay, y si van a Jerusaln pueden ver todos estos
+preciso donde Jesús se desmayó, y si van a Jerusalén pueden ver todos estos
 
-diferentes lugares con slo que lleven con ustedes suficiente credulidad; pero
+diferentes lugares con sólo que lleven con ustedes suficiente credulidad; pero
 
 el hecho es que la ciudad ha sido tan arrasada, y quemada, y arada, que hay
 
 poca oportunidad de identificar cualquiera de esas ubicaciones, con la
 
-excepcin, pudiera ser, del Monte Calvario, que por estar afuera de los muros
+excepción, pudiera ser, del Monte Calvario, que por estar afuera de los muros
 
-es posible que permanezca todava.
+es posible que permanezca todavía.
 
 La
 
-Va
+Vía
 
 Dolorosa
 
 ,
 
-como la llaman los catlicos romanos,
+como la llaman los católicos romanos,
 
-es hoy da una calle larga, pero pudo haber tenido slo unas cuantas yardas de
+es hoy día una calle larga, pero pudo haber tenido sólo unas cuantas yardas de
 
-longitud. Simn tuvo que llevar la cruz solo un poco de tiempo, pero su nombre
+longitud. Simón tuvo que llevar la cruz solo un poco de tiempo, pero su nombre
 
-est en este Libro para siempre, y podemos envidiarle su honor. Bien, amados,
+está en este Libro para siempre, y podemos envidiarle su honor. Bien, amados,
 
-la cruz que tenemos que llevar es solo por poco tiempo a lo sumo. El sol subir
+la cruz que tenemos que llevar es solo por poco tiempo a lo sumo. El sol subirá
 
-y bajar por el monte unas cuantas veces; unas cuantas lunas ms crecern y
+y bajará por el monte unas cuantas veces; unas cuantas lunas más crecerán y
 
-menguarn, y entonces recibiremos la gloria. Porque estas leves tribulaciones
+menguarán, y entonces recibiremos la gloria. “Porque estas leves tribulaciones
 
-momentneas no son comparables con la gloria venidera que en nosotros ha de
+momentáneas no son comparables con la gloria venidera que en nosotros ha de
 
-manifestarse. Deberamos amar la cruz y considerarla como muy preciada porque
+manifestarse”. Deberíamos amar la cruz y considerarla como muy preciada porque
 
-produce en nosotros un cada vez ms excelente y eterno peso de gloria. Cristianos,
+produce en nosotros un cada vez más excelente y eterno peso de gloria. Cristianos,
 
-rehusarn ser portadores de la cruz por Cristo? Me avergenzo de algunos
+żrehusarán ser portadores de la cruz por Cristo? ˇMe avergüenzo de algunos
 
 cristianos profesantes; estoy intensamente avergonzado de ellos! Algunos de
 
-ellos no tienen ninguna objecin de adorar con una congregacin pobre hasta que
+ellos no tienen ninguna objeción de adorar con una congregación pobre hasta que
 
 se vuelven ricos, y entonces, de veras tienen que irse con la iglesia del
 
 mundo, para mezclarse con la moda y la nobleza. Hay algunos que cuando tienen
 
-compaa guardan silencio, y no dicen nunca ni una sola palabra en favor de
+compańía guardan silencio, y no dicen nunca ni una sola palabra en favor de
 
 Cristo. Toman las cosas con mucha delicadeza; piensan que es innecesario ser
 
-soldados de la cruz. El que no toma su cruz y sigue en pos de m dice
+soldados de la cruz. “El que no toma su cruz y sigue en pos de mí” –dice
 
-Cristo- no es digno de m. Algunos de ustedes no quieren bautizarse porque
+Cristo- “no es digno de mí”. Algunos de ustedes no quieren bautizarse porque
 
-piensan que la gente dir: l es un profesante; cun santo debera ser. Me
+piensan que la gente dirá: “Él es un profesante; cuán santo debería ser”. Me
 
 alegra que el mundo espere mucho de nosotros, y que nos vigile estrechamente.
 
-Todo esto es una traba para nosotros, y un medio para que nos mantengamos ms
+Todo esto es una traba para nosotros, y un medio para que nos mantengamos más
 
-cerca del Seor. Oh, ustedes que se avergenzan de Cristo!, cmo pueden leer
+cerca del Seńor. ˇOh, ustedes que se avergüenzan de Cristo!, żcómo pueden leer
 
-este texto, El que se avergonzare de m y de mis palabras, de ste se
+este texto, “El que se avergonzare de mí y de mis palabras, de éste se
 
-avergonzar el Hijo del Hombre cuando venga en su gloria, y en la del Padre, y
+avergonzará el Hijo del Hombre cuando venga en su gloria, y en la del Padre, y
 
-de los santos ngeles? Ocultar su religin? Cubrirla con un manto? Dios no
+de los santos ángeles”? żOcultar su religión? żCubrirla con un manto? ˇDios no
 
-lo quiera! Nuestra religin es nuestra gloria;
+lo quiera! Nuestra religión es nuestra gloria;
 
 la Cruz
 
@@ -902,11 +902,11 @@ de Cristo es nuestra
 
 honra, y aunque no hacemos alarde ella ostentosamente, como los fariseos, no
 
-debemos ser jams tan cobardes como para ocultarla. Salid de en medio de
+debemos ser jamás tan cobardes como para ocultarla. “Salid de en medio de
 
-ellos, y apartaos, dice el Seor, y no toquis lo inmundo. Tomen su cruz, y
+ellos, y apartaos, dice el Seńor, y no toquéis lo inmundo”. Tomen su cruz, y
 
-salgan fuera del campamento, siguiendo a su Seor aun hasta la muerte.
+salgan fuera del campamento, siguiendo a su Seńor aun hasta la muerte.
 
 III.
 
@@ -916,13 +916,13 @@ ahora un tercer cuadro que presentar a ustedes: CRISTO Y SUS ENLUTADOS.
 
 Mientras Cristo iba a lo
 
-largo de las calles, una gran multitud miraba. En la multitud haba un pequeo
+largo de las calles, una gran multitud miraba. En la multitud había un pequeńo
 
-nmero de mujeres de buen corazn, probablemente algunas que haban sido
+número de mujeres de buen corazón, probablemente algunas que habían sido
 
-sanadas o cuyos hijos haban sido bendecidos por l. Algunas de ellas eran personas
+sanadas o cuyos hijos habían sido bendecidos por Él. Algunas de ellas eran personas
 
-de considerable distincin; muchas de ellas le haban ministrado de su dinero;
+de considerable distinción; muchas de ellas le habían ministrado de su dinero;
 
 en medio del barullo y de los aullidos de la turba y del ruido de la
 
@@ -930,263 +930,263 @@ soldadesca, ellas elevaron un grito sumamente fuerte y amargo, como Raquel que
 
 llora por sus hijos, y no quiso ser consolada, porque perecieron. La voz de la
 
-simpata prevaleci sobre la voz del escarnio. Jess hizo una pausa y dijo: Hijas
+simpatía prevaleció sobre la voz del escarnio. Jesús hizo una pausa y dijo: “Hijas
 
-de Jerusaln, no lloris por m, sino llorad por vosotras mismas y por vuestros
+de Jerusalén, no lloréis por mí, sino llorad por vosotras mismas y por vuestros
 
-hijos. La pena de estas buenas mujeres era una pena muy apropiada; Jess no la
+hijos”. La pena de estas buenas mujeres era una pena muy apropiada; Jesús no la
 
-prohibi de ninguna manera, l slo recomend otra pena que era mejor, y aunque
+prohibió de ninguna manera, Él sólo recomendó otra pena que era mejor, y aunque
 
-no encontr falta en eso, aun as recomend lo otro. Permtanme mostrarles lo
+no encontró falta en eso, aun así recomendó lo otro. Permítanme mostrarles lo
 
-que pienso que quiso decir. El domingo pasado me hicieron este comentario: Si
+que pienso que quiso decir. El domingo pasado me hicieron este comentario: “Si
 
 la historia de los sufrimientos de Cristo se hubiera contado con respecto a
 
-cualquier otro hombre, toda la congregacin habra estado sumida en llanto.
+cualquier otro hombre, toda la congregación habría estado sumida en llanto”.
 
-Algunos de nosotros, en verdad, confesamos que si hubiramos ledo esta
+Algunos de nosotros, en verdad, confesamos que si hubiéramos leído esta
 
-narracin del sufrimiento en una novela, habramos llorado copiosamente, pero
+narración del sufrimiento en una novela, habríamos llorado copiosamente, pero
 
 la historia de los sufrimientos
 
 de Cristo
 
-no causa la conmocin y la emocin que uno esperara. Ahora, yo no estoy
+no causa la conmoción y la emoción que uno esperaría. Ahora, yo no estoy
 
-seguro de que debamos culparnos por esto. Si llorramos por los sufrimientos de
+seguro de que debamos culparnos por esto. Si lloráramos por los sufrimientos de
 
 Cristo de la misma manera que lamentamos los sufrimientos de otro hombre,
 
-nuestras emociones slo seran naturales, y pudiera ser que no produzcan ningn
+nuestras emociones sólo serían naturales, y pudiera ser que no produzcan ningún
 
-bien. Seran muy apropiadas, muy apropiadas. Dios no quiera que les pongamos un
+bien. Serían muy apropiadas, muy apropiadas. Dios no quiera que les pongamos un
 
-alto, excepto con las benvolas palabras de Cristo: Hijas de Jerusaln, no
+alto, excepto con las benévolas palabras de Cristo: “Hijas de Jerusalén, no
 
-lloris por m. La manera ms escrituraria de describir los sufrimientos de
+lloréis por mí”. La manera más escrituraria de describir los sufrimientos de
 
-Cristo no es esforzarse por despertar la simpata por medio de descripciones de
+Cristo no es esforzarse por despertar la simpatía por medio de descripciones de
 
-vivos colores de Su sangre y heridas. Los catlicos romanos de todas las pocas
+vivos colores de Su sangre y heridas. Los católicos romanos de todas las épocas
 
 han influido de esta manera en los sentimientos de la gente, y en cierta medida
 
-el intento es encomiable, pero si todo va a terminar en lgrimas de compasin
+el intento es encomiable, pero si todo va a terminar en lágrimas de compasión
 
-no se hara ningn bien. Yo he odo sermones y he estudiado obras escritas por
+no se haría ningún bien. Yo he oído sermones y he estudiado obras escritas por
 
-autores catlicos sobre la pasin y la agona que me han provocado copiosas
+autores católicos sobre la pasión y la agonía que me han provocado copiosas
 
-lgrimas, pero no estoy convencido de que toda la emocin haya sido benfica.
+lágrimas, pero no estoy convencido de que toda la emoción haya sido benéfica.
 
-Yo les muestro un camino mucho ms excelente.
+Yo les muestro un camino mucho más excelente.
 
 Entonces, queridos
 
-amigos, cules deberan ser las penas provocadas por una visin de los
+amigos, żcuáles deberían ser las penas provocadas por una visión de los
 
 sufrimientos de Cristo? Son estas:
 
 no
 
-lloren porque el Salvador se desangr, sino porque los pecados de ustedes le
+lloren porque el Salvador se desangró, sino porque los pecados de ustedes le
 
 hicieron sangrar.
 
-Fueron ustedes, mis pecados, mis crueles pecados,
+“Fueron ustedes, mis pecados, mis crueles pecados,
 
 Sus principales atormentadores;
 
-Cada uno de mis crmenes se convirti en un clavo,
+Cada uno de mis crímenes se convirtió en un clavo,
 
-Y la incredulidad, en la lanza.
+Y la incredulidad, en la lanza”.
 
 Cuando un hermano hace
 
-una confesin de sus transgresiones, cuando de rodillas delante de Dios se
+una confesión de sus transgresiones, cuando de rodillas delante de Dios se
 
-humilla con muchas lgrimas, yo estoy seguro de que el Seor tiene en mayor
+humilla con muchas lágrimas, yo estoy seguro de que el Seńor tiene en mayor
 
-valor las lgrimas de arrepentimiento que las meras gotas de humana simpata.
+valor las lágrimas de arrepentimiento que las meras gotas de humana simpatía.
 
-Llorad por vosotras dice Cristo- y no por M.
+“Llorad por vosotras” –dice Cristo- “y no por Mí”.
 
 Los sufrimientos de
 
 Cristo
 
-deberan hacernos llorar por
+deberían hacernos llorar por
 
 aquellos que han hecho recaer esa sangre sobre sus cabezas.
 
 No debemos
 
-olvidar a los judos. Ese pueblo de Dios que una vez fue altamente favorecido
+olvidar a los judíos. Ese pueblo de Dios que una vez fue altamente favorecido
 
-pero que se maldijo a s mismo con: Su sangre sea sobre nosotros, y sobre
+pero que se maldijo a sí mismo con: “Su sangre sea sobre nosotros, y sobre
 
-nuestros hijos, debera llevarnos a lamentar cuando pensamos en su presente
+nuestros hijos”, debería llevarnos a lamentar cuando pensamos en su presente
 
-degradacin. No hay pasajes tan tiernos en todo el ministerio pblico de Jess como
+degradación. No hay pasajes tan tiernos en todo el ministerio público de Jesús como
 
-aquellos que tienen que ver con Jerusaln. No es tristeza por Roma, sino por
+aquellos que tienen que ver con Jerusalén. No es tristeza por Roma, sino por
 
-Jerusaln. Yo creo que en el corazn de Cristo haba una ternura para los
+Jerusalén. Yo creo que en el corazón de Cristo había una ternura para los
 
-judos de un carcter especial. l amaba a los gentiles, pero aun as Jerusaln
+judíos de un carácter especial. Él amaba a los gentiles, pero aun así Jerusalén
 
-era la ciudad del Gran Rey. Dijo: Jerusaln, Jerusaln, cuntas veces quise
+era la ciudad del Gran Rey. Dijo: “ˇJerusalén, Jerusalén, cuántas veces quise
 
 juntar a tus hijos, como la gallina a sus polluelos debajo de sus alas, y no
 
-quisiste! Vio sus calles que fluan como ros sangrientos; vio al templo
+quisiste!” Vio sus calles que fluían como ríos sangrientos; vio al templo
 
-cubierto de llamas que llegaban al cielo; observ los muros cargados de judos
+cubierto de llamas que llegaban al cielo; observó los muros cargados de judíos
 
 cautivos, crucificados por orden de Tito; vio a la ciudad arrasada y sembrada
 
-con sal, y dijo: No lloris por m, sino llorad por vosotras mismas y por
+con sal, y dijo: “No lloréis por mí, sino llorad por vosotras mismas y por
 
-vuestros hijos Entonces comenzarn a decir a los montes: Caed sobre nosotros;
+vuestros hijos… Entonces comenzarán a decir a los montes: Caed sobre nosotros;
 
-y a los collados: Cubridnos.
+y a los collados: Cubridnos”.
 
-Permtanme agregar que
+Permítanme agregar que
 
 cuando miramos los sufrimientos de Cristo,
 
-deberamos
+deberíamos
 
 afligirnos profundamente por las almas de todos los hombres y mujeres no
 
 regenerados.
 
-Recuerden, queridos amigos, que lo que Cristo sufri por
+Recuerden, queridos amigos, que lo que Cristo sufrió por
 
-nosotros, esos seres no regenerados tendrn que sufrirlo personalmente, a menos
+nosotros, esos seres no regenerados tendrán que sufrirlo personalmente, a menos
 
-que pongan su confianza en Cristo. Los dolores que quebrantaron el corazn del
+que pongan su confianza en Cristo. Los dolores que quebrantaron el corazón del
 
-Salvador tendrn que aplastar sus corazones. Cristo tiene que morir por m, o
+Salvador tendrán que aplastar sus corazones. Cristo tiene que morir por mí, o
 
-de otra manera, yo mismo tengo que morir la segunda muerte; si l no llev la
+de otra manera, yo mismo tengo que morir la segunda muerte; si Él no llevó la
 
-maldicin por m, entonces sobre m recaer por los siglos de los siglos.
+maldición por mí, entonces sobre mí recaerá por los siglos de los siglos.
 
-Piensen, queridos amigos, que hay algunos en esta congregacin que todava no
+ˇPiensen, queridos amigos, que hay algunos en esta congregación que todavía no
 
-tienen ningn inters en la sangre de Jess! Piensen que hay algunos que estn
+tienen ningún interés en la sangre de Jesús! ˇPiensen que hay algunos que están
 
-sentados junto a ustedes quiz sus amigos ms ntimos- que si fueran ahora a
+sentados junto a ustedes –quizá sus amigos más íntimos- que si fueran ahora a
 
-cerrar sus ojos en la muerte, los abriran en el infierno! Piensen en eso! No
+cerrar sus ojos en la muerte, los abrirían en el infierno! ˇPiensen en eso! No
 
-lloren por l, sino por esos otros. Tal vez se trate de sus hijos, los objetos
+lloren por Él, sino por esos otros. ˇTal vez se trate de sus hijos, los objetos
 
-de su ms caro amor, sin ningn inters en Jesucristo, sin Dios y sin esperanza
+de su más caro amor, sin ningún interés en Jesucristo, sin Dios y sin esperanza
 
-en el mundo! Ahorren sus lgrimas para ellos. Cristo no les pide ninguna
+en el mundo! Ahorren sus lágrimas para ellos. Cristo no les pide ninguna
 
-simpata para l mismo. Piensen en los millones de almas en este tenebroso
+simpatía para Él mismo. ˇPiensen en los millones de almas en este tenebroso
 
-mundo! Se calcula que un alma pasa del tiempo a la eternidad cada vez que el
+mundo! ˇSe calcula que un alma pasa del tiempo a la eternidad cada vez que el
 
 reloj hace tictac! La familia del hombre se ha hecho ahora tan numerosa que hay
 
-una muerte cada segundo; y cuando sabemos cun pequea proporcin de la
+una muerte cada segundo; y cuando sabemos cuán pequeńa proporción de la
 
-humanidad ha recibido aun nominalmente a la cruz y no hay otro nombre bajo el
+humanidad ha recibido aun nominalmente a la cruz –y no hay otro nombre bajo el
 
-cielo, dado a los hombres, en que podamos ser salvos- oh, cun negro
+cielo, dado a los hombres, en que podamos ser salvos- ˇoh, cuán negro
 
-pensamiento atraviesa nuestra mente! Qu catarata de almas inmortales se
+pensamiento atraviesa nuestra mente! ˇQué catarata de almas inmortales se
 
-desploma al abismo cada hora! Bien poda decir el Maestro: No lloren por m,
+desploma al abismo cada hora! Bien podía decir el Maestro: “No lloren por mí,
 
-sino por ustedes. Entonces, ustedes no sienten ninguna verdadera simpata por
+sino por ustedes”. Entonces, ustedes no sienten ninguna verdadera simpatía por
 
-Cristo si no sienten una sincera simpata por aquellos que quisieran ganar
+Cristo si no sienten una sincera simpatía por aquellos que quisieran ganar
 
-almas para Cristo. Pudieran or un sermn, y sentir mucho, pero su sentimiento
+almas para Cristo. Pudieran oír un sermón, y sentir mucho, pero su sentimiento
 
 no vale nada a menos que los conduzca a llorar por ustedes mismos y por sus
 
-hijos. Qu ha pasado con ustedes? Se han arrepentido del pecado? Han orado
+hijos. żQué ha pasado con ustedes? żSe han arrepentido del pecado? żHan orado
 
-por sus semejantes? Si no ha sido as, que ese cuadro de Cristo desfalleciendo
+por sus semejantes? Si no ha sido así, que ese cuadro de Cristo desfalleciendo
 
-en las calles los conduzca a hacerlo esta maana.
+en las calles los conduzca a hacerlo esta mańana.
 
 IV.
 
 En
 
-cuarto lugar, una o dos palabras sobre los COMPAEROS DE SUFRIMIENTO DE CRISTO.
+cuarto lugar, una o dos palabras sobre los COMPAŃEROS DE SUFRIMIENTO DE CRISTO.
 
-Haba otros dos
+Había otros dos
 
 portadores de una cruz en la turba; ellos eran malhechores; sus cruces eran tan
 
-pesadas como la del Seor, y sin embargo, al menos uno de ellos no senta
+pesadas como la del Seńor, y sin embargo, al menos uno de ellos no sentía
 
-ninguna simpata por l, y llevar la cruz slo le condujo a su muerte, y no a
+ninguna simpatía por Él, y llevar la cruz sólo le condujo a su muerte, y no a
 
-su salvacin. Solo voy a darles esta indicacin. Algunas veces me he encontrado
+su salvación. Solo voy a darles esta indicación. Algunas veces me he encontrado
 
 con personas que han sufrido mucho; han perdido dinero, han trabajado duro
 
-durante toda su vida, han estado sumidos durante aos en un lecho de enfermo, y
+durante toda su vida, han estado sumidos durante ańos en un lecho de enfermo, y
 
 por tanto ellos suponen que debido a que han sufrido tanto en esta vida,
 
-escaparn del castigo del pecado en el ms all. Yo les digo, seores, que
+escaparán del castigo del pecado en el más allá. Yo les digo, seńores, que
 
-aquel malhechor llev su cruz y muri en ella; y ustedes llevarn sus
+aquel malhechor llevó su cruz y murió en ella; y ustedes llevarán sus
 
-aflicciones y sern condenados con ellas a menos que se arrepientan. Ese ladrn
+aflicciones y serán condenados con ellas a menos que se arrepientan. Ese ladrón
 
-impenitente fue de la cruz de su gran agona y morir en una cruz fue
+impenitente fue de la cruz de su gran agonía –y morir en una cruz fue
 
-ciertamente una agona- a aquel lugar, a las llamas del infierno; y t tambin
+ciertamente una agonía- a aquel lugar, a las llamas del infierno; y tú también
 
-podras ir desde el lecho de la enfermedad y desde la morada de la pobreza a la
+podrías ir desde el lecho de la enfermedad y desde la morada de la pobreza a la
 
-perdicin tan fcilmente como desde el hogar de la comodidad y la casa de la
+perdición tan fácilmente como desde el hogar de la comodidad y la casa de la
 
-abundancia. Ningn sufrimiento nuestro tiene nada que ver con la expiacin del
+abundancia. Ningún sufrimiento nuestro tiene nada que ver con la expiación del
 
 pecado. Ninguna sangre sino la que
 
-l
+Él
 
-derram,
+derramó,
 
-ningn gemido sino aquellos que salieron de
+ningún gemido sino aquellos que salieron de
 
 Su
 
-corazn, ningn sufrimiento sino el que fue soportado por
+corazón, ningún sufrimiento sino el que fue soportado por
 
-l,
+Él,
 
-pueden expiar jams el pecado.
+pueden expiar jamás el pecado.
 
-Deseche ese pensamiento cualquiera de ustedes que suponga que Dios tendr
+Deseche ese pensamiento cualquiera de ustedes que suponga que Dios tendrá
 
-piedad de l porque ha soportado aflicciones. Tienes que considerar a Jess, y
+piedad de él porque ha soportado aflicciones. Tienes que considerar a Jesús, y
 
 no a ti mismo; pon tus ojos en Cristo, el grandioso sustituto de los pecadores,
 
-pero nunca suees en confiar en ti mismo. Pudieras pensar que esta observacin es
+pero nunca sueńes en confiar en ti mismo. Pudieras pensar que esta observación es
 
-innecesaria, pero me he encontrado con uno o dos casos donde se requera
+innecesaria, pero me he encontrado con uno o dos casos donde se requería
 
-hacerla; y yo he dicho con frecuencia que yo estara dispuesto a predicar un
+hacerla; y yo he dicho con frecuencia que yo estaría dispuesto a predicar un
 
-sermn aun a una persona, y por tanto, hago este comentario aunque solo
+sermón aun a una persona, y por tanto, hago este comentario aunque solo
 
 amonestara a uno.
 
@@ -1202,55 +1202,55 @@ DE
 
 ADVERTENCIA DEL SALVADOR:
 
-Porque si en
+“Porque si en
 
-el rbol verde hacen estas cosas, en el seco, qu no se har?
+el árbol verde hacen estas cosas, żen el seco, qué no se hará?”
 
 Entre otras
 
-cosas me parece que quiso decir: Si Yo, el inocente sustituto de los pecadores,
+cosas me parece que quiso decir: “Si Yo, el inocente sustituto de los pecadores,
 
-sufro as, qu se har con el propio pecador el rbol seco- cuyos pecados son
+sufro así, żqué se hará con el propio pecador –el árbol seco- cuyos pecados son
 
-propios y no meramente imputados a l, cuando caiga en las manos de un Dios
+propios y no meramente imputados a él, cuando caiga en las manos de un Dios
 
-airado? Oh, ustedes, hombres y mujeres no regenerados -y no hay unos pocos
+airado?” ˇOh, ustedes, hombres y mujeres no regenerados -y no hay unos pocos
 
-aqu ahora- recuerden que cuando Dios vio a Cristo en el lugar del pecador, no
+aquí ahora- recuerden que cuando Dios vio a Cristo en el lugar del pecador, no
 
-lo perdon, y cuando los encuentre sin Cristo no los perdonar
+lo perdonó, y cuando los encuentre sin Cristo no los perdonará
 
 a ustedes!
 
-Ustedes han visto a Jess cuando
+Ustedes han visto a Jesús cuando
 
-es llevado por Sus enemigos; as sern arrastrados por diablos al lugar
+es llevado por Sus enemigos; así serán arrastrados por diablos al lugar
 
-asignado para ustedes. Entrguenlo a los verdugos, fue la palabra del rey en
+asignado para ustedes. “Entréguenlo a los verdugos”, fue la palabra del rey en
 
-la parbola; y esta palabra ser cumplida para ustedes: Apartaos de m,
+la parábola; y esta palabra será cumplida para ustedes: “Apartaos de mí,
 
-malditos, al fuego eterno preparado para el diablo y sus ngeles. Jess fue
+malditos, al fuego eterno preparado para el diablo y sus ángeles”. Jesús fue
 
-abandonado por Dios; y si l, que solo era un pecador por imputacin, fue
+abandonado por Dios; y si Él, que solo era un pecador por imputación, fue
 
-abandonado, cunto ms lo sers t?
+abandonado, żcuánto más lo serás tú?
 
-Eloi,
+“Eloi,
 
-Eloi, lama sabactani?,
+Eloi, żlama sabactani?,
 
-qu terrible queja! Pero cul ser tu grito cuando
+ˇqué terrible queja! Pero cuál será tu grito cuando
 
-digas: Buen Dios! Buen Dios! Por qu me has desamparado? Y la respuesta
+digas: “ˇBuen Dios! ˇBuen Dios! żPor qué me has desamparado?” Y la respuesta
 
-vendr a ti: Porque he llamado, y t rehusaste; he extendido mi mano, y ningn
+vendrá a ti: “Porque he llamado, y tú rehusaste; he extendido mi mano, y ningún
 
-hombre mir; sino que desechasteis todo consejo mo y mi reprensin no
+hombre miró; sino que desechasteis todo consejo mío y mi reprensión no
 
-quisisteis, tambin yo me reir en vuestra calamidad, y me burlar cuando os
+quisisteis, también yo me reiré en vuestra calamidad, y me burlaré cuando os
 
-viniere lo que temis. Esas palabras son terribles, pero no son mas; son las
+viniere lo que teméis”. Esas palabras son terribles, pero no son mías; son las
 
 propias palabras de Dios en
 
@@ -1258,67 +1258,67 @@ la
 
 Escritura.
 
-Oh, pecador, si Dios oculta Su rostro de Cristo,
+ˇOh, pecador, si Dios oculta Su rostro de Cristo,
 
-cunto menos te perdonar a ti! l no le perdon a Su Hijo los azotes. No
+cuánto menos te perdonará a ti! Él no le perdonó a Su Hijo los azotes. żNo
 
-describ el domingo pasado los azotes anudados que cayeron en la espalda del
+describí el domingo pasado los azotes anudados que cayeron en la espalda del
 
-Salvador? Qu ltigos de acero para ti, qu nudos de ardiente alambre para ti,
+Salvador? ˇQué látigos de acero para ti, qué nudos de ardiente alambre para ti,
 
-cuando la conciencia te remuerda, cuando la ley te azote con su ltigo de diez
+cuando la conciencia te remuerda, cuando la ley te azote con su látigo de diez
 
 trallas!
 
-Oh!, quin ocupar el lugar
+ˇOh!, quién ocupará el lugar
 
-de ustedes que son los ms ricos, los ms alegres, los pecadores con mayor
+de ustedes que son los más ricos, los más alegres, los pecadores con mayor
 
-justicia propia, quin ocupar su lugar cuando Dios diga: Levntate oh espada
+justicia propia, quién ocupará su lugar cuando Dios diga: “ˇLevántate oh espada
 
-contra el rebelde, contra el hombre que me rechaz; hirelo, y que sienta el
+contra el rebelde, contra el hombre que me rechazó; hiérelo, y que sienta el
 
-dolor por siempre! A Cristo le escupieron con vergenza; pecador, qu
+dolor por siempre!” A Cristo le escupieron con vergüenza; pecador, ˇqué
 
-vergenza ser la tuya! El universo entero te abuchear; los ngeles se
+vergüenza será la tuya! El universo entero te abucheará; los ángeles se
 
-avergonzarn de ti; tus propios amigos, s, tu santa madre dir: Amn a tu
+avergonzarán de ti; tus propios amigos, sí, tu santa madre dirá: “Amén” a tu
 
-condenacin; y quienes ms te amaron se sentarn como examinadores con Cristo
+condenación; ˇy quienes más te amaron se sentarán como examinadores con Cristo
 
 para juzgarte y condenarte! Yo no puedo resumir en una palabra todo el conjunto
 
-de aflicciones que se juntaron en la cabeza de Cristo, que muri por nosotros, y
+de aflicciones que se juntaron en la cabeza de Cristo, que murió por nosotros, y
 
-por eso es imposible que les diga qu torrentes, qu ocanos de dolor han de
+por eso es imposible que les diga qué torrentes, qué océanos de dolor han de
 
 pasar sobre
 
 su
 
-espritu si mueren
+espíritu si mueren
 
-como estn ahora. Pudieran morir as; pudieran morir ahora. Hay cosas ms
+como están ahora. Pudieran morir así; pudieran morir ahora. Hay cosas más
 
-improbables que el hecho de que mueras antes del prximo domingo. Algunos de
+improbables que el hecho de que mueras antes del próximo domingo. ˇAlgunos de
 
-ustedes lo harn! No sucede con frecuencia que cinco o seis mil personas se
+ustedes lo harán! No sucede con frecuencia que cinco o seis mil personas se
 
-renan dos veces; no sucede nunca, supongo; la guadaa de la muerte tiene que
+reúnan dos veces; no sucede nunca, supongo; ˇla guadańa de la muerte tiene que
 
-cortar a algunos de ustedes antes de que mi voz les advierta de nuevo! Oh,
+cortar a algunos de ustedes antes de que mi voz les advierta de nuevo! ˇOh,
 
-almas, yo les suplico por las agonas de Cristo, por Sus heridas y por Su
+almas, yo les suplico por las agonías de Cristo, por Sus heridas y por Su
 
-sangre, que no atraigan sobre ustedes mismos la maldicin; no lleven en sus
+sangre, que no atraigan sobre ustedes mismos la maldición; no lleven en sus
 
-propias personas la terrible ira venidera! Que Dios los libre! Confen en el
+propias personas la terrible ira venidera! ˇQue Dios los libre! Confíen en el
 
-Hijo de Dios y no morirn jams.
+Hijo de Dios y no morirán jamás.
 
-Que el Seor los
+Que el Seńor los
 
-bendiga, por Jesucristo nuestro Seor. Amn.
+bendiga, por Jesucristo nuestro Seńor. Amén.
 
 Notas del traductor:
 
@@ -1332,9 +1332,9 @@ Penal Central de Inglaterra y Gales.
 
 Tralla: Cuerda, correa o
 
-tira hecha de tiras de cuero, que se coloca al extremo del ltigo.
+tira hecha de tiras de cuero, que se coloca al extremo del látigo.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 6/Febrero/2014
 

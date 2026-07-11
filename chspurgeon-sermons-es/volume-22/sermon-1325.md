@@ -1,8 +1,8 @@
 # Sermón 1325 | Sermón 1325
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Cristo: el Fin
 
@@ -10,9 +10,9 @@ de
 
 la Ley
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,141 +20,141 @@ DOMINGO 19 DE
 
 NOVIEMBRE, 1876
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Porque el fin de la ley es Cristo, para justicia a todo aquel que
+“Porque el fin de la ley es Cristo, para justicia a todo aquel que
 
-cree.
+cree”.
 
 Romanos 10: 4
 
-Recordarn que el
+Recordarán que el
 
-domingo pasado por la maana hablamos de los das del Hijo del Hombre. Oh,
+domingo pasado por la mańana hablamos de “los días del Hijo del Hombre”. Oh,
 
-que cada da de guardar, en el sentido ms espiritual, fuera un da de ese tipo.
+que cada día de guardar, en el sentido más espiritual, fuera un día de ese tipo.
 
-Yo espero que nos esforzaremos por hacer de cada Da del Seor, conforme
+Yo espero que nos esforzaremos por hacer de cada Día del Seńor, conforme
 
-lleguen, un da del Seor en que pensemos mucho en Jess, en que nos
+lleguen, un día del Seńor en que pensemos mucho en Jesús, en que nos
 
-regocijemos mucho en l, en que trabajemos para l y en que de manera creciente
+regocijemos mucho en Él, en que trabajemos para Él y en que de manera creciente
 
-elevemos una oracin importuna pidiendo que para l sea la reunin de la gente.
+elevemos una oración importuna pidiendo que para Él sea la reunión de la gente.
 
-Pudiera suceder que ya no pasemos muchos domingos juntos pues la muerte puede
+ˇPudiera suceder que ya no pasemos muchos domingos juntos pues la muerte puede
 
 separarnos pronto; pero mientras seamos capaces de reunirnos como una asamblea
 
 cristiana no hemos de olvidar nunca que la presencia de Cristo es nuestra necesidad
 
-primordial, y debemos orar pidindola, y debemos suplicar al Seor que nos
+primordial, y debemos orar pidiéndola, y debemos suplicar al Seńor que nos
 
 conceda siempre esa presencia en torrentes de luz, vida y amor! Yo procuro cada
 
-vez ms solcitamente que cada tiempo de predicacin sea un tiempo de salvacin
+vez más solícitamente que cada tiempo de predicación sea un tiempo de salvación
 
-de almas. Puedo identificarme profundamente con lo que dijo Pablo: Ciertamente
+de almas. Puedo identificarme profundamente con lo que dijo Pablo: “Ciertamente
 
-el anhelo de mi corazn, y mi oracin a Dios por Israel, es para salvacin.
+el anhelo de mi corazón, y mi oración a Dios por Israel, es para salvación”.
 
-Hemos gozado de una abundante predicacin, pero, comparativamente hablando, de muy
+Hemos gozado de una abundante predicación, pero, comparativamente hablando, de muy
 
-poca fe en Jess, y, si no hay fe en l, ni la ley ni el Evangelio responden a
+poca fe en Jesús, y, si no hay fe en Él, ni la ley ni el Evangelio responden a
 
-su fin y nuestra labor es completamente en vano. Algunos de ustedes han odo, y
+su fin y nuestra labor es completamente en vano. Algunos de ustedes han oído, y
 
-odo y odo repetidamente, pero no han credo en Jess. Si no hubieran odo el
+oído y oído repetidamente, pero no han creído en Jesús. Si no hubieran oído el
 
-Evangelio no seran culpables de rechazarlo. No han odo?, pregunta el
+Evangelio no serían culpables de rechazarlo. “żNo han oído?”, pregunta el
 
-apstol. S, verdaderamente, -pero aun as- no todos obedecieron al
+apóstol. “Sí, verdaderamente”, -pero aun así- “no todos obedecieron al
 
-evangelio. En el caso de muchas personas que amamos, hasta este preciso
+evangelio”. En el caso de muchas personas que amamos, hasta este preciso
 
-momento no ha habido una audicin con el odo interior ni ninguna obra de fe en
+momento no ha habido una audición con el oído interior ni ninguna obra de fe en
 
-el corazn. Queridos amigos, ha de ser siempre as? Cunto tiempo ha de durar
+el corazón. Queridos amigos, żha de ser siempre así? żCuánto tiempo ha de durar
 
-esto? No habr de venir pronto un fin a esta recepcin de los medios externos
+esto? żNo habrá de venir pronto un fin a esta recepción de los medios externos
 
-pero a este rechazo de la gracia interna? Acaso tu alma no se acercar pronto a
+pero a este rechazo de la gracia interna? żAcaso tu alma no se acercará pronto a
 
-Cristo para una salvacin presente? Despunta, despunta, oh da celestial, sobre
+Cristo para una salvación presente? ˇDespunta, despunta, oh día celestial, sobre
 
-los que estn asentados en tinieblas pues nuestros corazones sufren por ellos!
+los que están asentados en tinieblas pues nuestros corazones sufren por ellos!
 
-La razn por la que
+La razón por la que
 
 muchos no vienen a Cristo no es porque carezcan hasta cierto punto de un serio
 
-inters, ni porque no sean precavidos ni tengan deseos de ser salvados, sino
+interés, ni porque no sean precavidos ni tengan deseos de ser salvados, sino
 
-porque no pueden aceptar la manera en que Dios salva. Tienen celo de Dios,
+porque no pueden aceptar la manera en que Dios salva. “Tienen celo de Dios,
 
-pero no conforme a ciencia. Los encaminamos tanto con nuestra exhortacin que
+pero no conforme a ciencia”. Los encaminamos tanto con nuestra exhortación que
 
-tienen deseos de obtener la vida eterna, pero no se han sujetado a la justicia
+tienen deseos de obtener la vida eterna, pero “no se han sujetado a la justicia
 
-de Dios. Observen que dice: no se han sujetado, pues se precisa de la
+de Dios”. Observen que dice: “no se han sujetado”, pues se precisa de la
 
-sujecin. El hombre altivo quiere salvarse a s mismo; cree que lo puede hacer
+sujeción. El hombre altivo quiere salvarse a sí mismo; cree que lo puede hacer
 
-y no ceder la tarea mientras no descubra su propia impotencia a travs de
+y no cederá la tarea mientras no descubra su propia impotencia a través de
 
-infelices fracasos. La salvacin por gracia, que debe ser solicitada
+infelices fracasos. La salvación por gracia, que debe ser solicitada
 
 in forma pauperis,
 
-(en carcter de
+(en carácter de
 
 indigencia), que debe ser pedida a la gracia libre e inmerecida como una
 
-bendicin inmrita, eso es a lo que la mente carnal no quiere llegar en tanto
+bendición inmérita, eso es a lo que la mente carnal no quiere llegar en tanto
 
-que pueda evitarlo; yo le suplico al Seor que obre de tal manera en algunos de
+que pueda evitarlo; yo le suplico al Seńor que obre de tal manera en algunos de
 
-ustedes que no puedan evitarlo. Y oh, mientras esta maana procuro exponer a
+ustedes que no puedan evitarlo. Y oh, mientras esta mańana procuro exponer a
 
-Cristo como el fin de la ley, he orado para que Dios bendiga la exposicin para
+Cristo como el fin de la ley, he orado para que Dios bendiga la exposición para
 
-algunos corazones y les haga ver la obra de Cristo y percibir que es muchsimo
+algunos corazones y les haga ver la obra de Cristo y percibir que es muchísimo
 
 mejor que cualquier cosa que ellos pudieran hacer; que puedan ver lo que Cristo
 
-consum, y que se cansen de lo que ellos mismos han procurado realizar durante
+consumó, y que se cansen de lo que ellos mismos han procurado realizar durante
 
-tanto tiempo pero que ni siquiera en este da han podido comenzar bien. Tal vez
+tanto tiempo pero que ni siquiera en este día han podido comenzar bien. Tal vez
 
-le agrade al Seor embelesarlos con la perfeccin de la salvacin que es en
+le agrade al Seńor embelesarlos con la perfección de la salvación que es en
 
-Cristo Jess. Como dira Bunyan: Tal vez se les haga agua la boca, y una vez
+Cristo Jesús. Como diría Bunyan: “Tal vez se les haga agua la boca”, y una vez
 
-que se desarrolla un sagrado apetito no tardar mucho para que disfruten el
+que se desarrolla un sagrado apetito no tardará mucho para que disfruten el
 
-festn. Pudiera ser que cuando vean el traje de brocado de oro que Jess coloca
+festín. Pudiera ser que cuando vean el traje de brocado de oro que Jesús coloca
 
-tan gratuitamente sobre las almas desnudas, se desharn de sus propios trapos
+tan gratuitamente sobre las almas desnudas, se desharán de sus propios trapos
 
 de inmundicia que ahora abrazan tan estrechamente.
 
-Esta maana voy a hablar
+Esta mańana voy a hablar
 
-de dos cosas, conforme el Espritu de Dios me ayude, y la primera es,
+de dos cosas, conforme el Espíritu de Dios me ayude, y la primera es,
 
 Cristo con respecto a la ley:
 
-l es el
+Él es “el
 
-fin de la ley para justicia; y en segundo lugar,
+fin de la ley para justicia”; y en segundo lugar,
 
 nosotros mismos con respecto a Cristo:
 
-a todo aquel que cree
+“a todo aquel que cree
 
-Cristo es el fin de la ley para justicia.
+Cristo es el fin de la ley para justicia”.
 
 I.
 
@@ -168,123 +168,123 @@ LEY.
 
 Como
 
-pecadores, lo que ms hemos de
+pecadores, lo que más hemos de
 
-temer sobre todas las cosas es a la ley, pues el aguijn de la muerte es el
+temer sobre todas las cosas es a la ley, pues el aguijón de la muerte es el
 
 pecado y la fuerza del pecado es la ley. La ley lanza contra nosotros llamas
 
-devoradoras pues nos condena y en trminos solemnes nos fija un lugar entre los
+devoradoras pues nos condena y en términos solemnes nos fija un lugar entre los
 
-malditos, segn est escrito: Maldito todo aquel que no permaneciere en todas
+malditos, según está escrito: “Maldito todo aquel que no permaneciere en todas
 
-las cosas escritas en el libro de la ley, para hacerlas. Con todo -extraa
+las cosas escritas en el libro de la ley, para hacerlas”. Con todo -ˇextrańa
 
-infatuacin!- con la misma fascinacin con que es atrado el mosquito a la vela
+infatuación!- con la misma fascinación con que es atraído el mosquito a la vela
 
-que quema sus alas, los hombres vuelan por naturaleza a la ley en busca de salvacin
+que quema sus alas, los hombres vuelan por naturaleza a la ley en busca de salvación
 
 y no pueden alejarse de ella. La ley no puede hacer otra cosa que revelar el
 
-pecado y pronunciar una condenacin sobre el pecador, y sin embargo, no podemos
+pecado y pronunciar una condenación sobre el pecador, y sin embargo, no podemos
 
-alejar a los hombres de ella aun cuando les mostremos cun dulcemente se
+alejar a los hombres de ella aun cuando les mostremos cuán dulcemente se
 
-interpone Jess entre la ley y ellos. Estn tan enamorados de la esperanza legal
+interpone Jesús entre la ley y ellos. Están tan enamorados de la esperanza legal
 
-que se sujetan a ella aun cuando no tienen nada a qu aferrarse; prefieren el
+que se sujetan a ella aun cuando no tienen nada a qué aferrarse; prefieren el
 
-Sina al Calvario aunque el Sina no tiene nada para ellos sino truenos y
+Sinaí al Calvario aunque el Sinaí no tiene nada para ellos sino truenos y
 
 trompetas que advierten del juicio venidero. Oh, que por un tiempo escucharan
 
-vidamente mientras les expongo a Jess mi Seor para que puedan ver a la ley
+ávidamente mientras les expongo a Jesús mi Seńor para que puedan ver a la ley
 
-en l.
+en Él.
 
-Ahora, qu tiene que
+Ahora, żqué tiene que
 
-ver nuestro Seor con la ley? l tiene que ver con la ley en todos sentidos
+ver nuestro Seńor con la ley? Él tiene que ver con la ley en todos sentidos
 
-pues l es su fin para el ms noble propsito, es decir, para justicia. l es
+pues Él es su fin para el más noble propósito, es decir, para justicia. Él es
 
-el fin de la ley. Qu significa eso? Me parece que significa tres cosas: primero,
+el “fin de la ley”. żQué significa eso? Me parece que significa tres cosas: primero,
 
 que Cristo es
 
-el propsito y objetivo
+el propósito y objetivo
 
 de
 
-la ley; en segundo lugar, que l es
+la ley; en segundo lugar, que Él es
 
 el
 
 cumplimiento
 
-de ella; y en tercer lugar, que l es
+de ella; y en tercer lugar, que Él es
 
-su terminacin.
+su terminación.
 
 Primero, entonces,
 
-nuestro Seor Jesucristo es el propsito y
+nuestro Seńor Jesucristo es el propósito y
 
 objetivo de la ley.
 
-La ley fue dada para que nos condujera a l. La ley es
+La ley fue dada para que nos condujera a Él. La ley es
 
-nuestro ayo para llevarnos a Cristo, o ms bien nuestro acompaante que nos
+nuestro ayo para llevarnos a Cristo, o más bien nuestro acompańante que nos
 
-conduce a la escuela de Jess. La ley es la gran red en la que son encerrados
+conduce a la escuela de Jesús. La ley es la gran red en la que son encerrados
 
-los peces para que puedan ser extrados fuera del elemento del pecado. La ley
+los peces para que puedan ser extraídos fuera del elemento del pecado. La ley
 
 es el viento tormentoso que lleva a las almas al puerto de refugio. La ley es
 
-el oficial del alguacil que encierra a los hombres en prisin por sus pecados,
+el oficial del alguacil que encierra a los hombres en prisión por sus pecados,
 
-concluyendo que todos ellos estn bajo condenacin con el objeto de que pongan
+concluyendo que todos ellos están bajo condenación con el objeto de que pongan
 
-su mirada nicamente en la gracia inmerecida de Dios para liberacin. Ese el
+su mirada únicamente en la gracia inmerecida de Dios para liberación. Ese el
 
-objetivo de la ley: vaca para que la gracia pueda llenar y hiere para que la
+objetivo de la ley: vacía para que la gracia pueda llenar y hiere para que la
 
-misericordia pueda sanar. La intencin de Dios para con nosotros, como hombres
+misericordia pueda sanar. La intención de Dios para con nosotros, como hombres
 
-cados, no ha sido jams que la ley sea considerada como un camino de salvacin
+caídos, no ha sido jamás que la ley sea considerada como un camino de salvación
 
-para nosotros, pues no puede ser jams un camino de salvacin. Si el hombre no
+para nosotros, pues no puede ser jamás un camino de salvación. Si el hombre no
 
-hubiese cado nunca, si su naturaleza hubiese permanecido como Dios la hizo, la
+hubiese caído nunca, si su naturaleza hubiese permanecido como Dios la hizo, la
 
-ley habra sido sobremanera til para l para mostrarle el camino en que
+ley habría sido sobremanera útil para él para mostrarle el camino en que
 
-debera andar, y guardndola habra vivido, pues El que hiciere estas cosas
+debería andar, y guardándola habría vivido, pues “El que hiciere estas cosas
 
-vivir por ellas. Pero desde que el hombre cay, el Seor no le ha propuesto
+vivirá por ellas”. Pero desde que el hombre cayó, el Seńor no le ha propuesto
 
-nunca un camino de salvacin por obras pues sabe que eso es imposible para una
+nunca un camino de salvación por obras pues sabe que eso es imposible para una
 
 criatura pecadora. La ley ya ha sido quebrantada y, sin importar lo que pudiera
 
-hacer el hombre, no puede reparar el dao que ya ha hecho; por tanto, en lo que
+hacer el hombre, no puede reparar el dańo que ya ha hecho; por tanto, en lo que
 
-respecta a la esperanza de mrito, eso est fuera de toda consideracin. La ley
+respecta a la esperanza de mérito, eso está fuera de toda consideración. La ley
 
-exige perfeccin, pero el hombre ya ha resultado deficiente, y, por tanto,
+exige perfección, pero el hombre ya ha resultado deficiente, y, por tanto,
 
-aunque hiciera su mejor esfuerzo no podra cumplir con lo que es absolutamente
+aunque hiciera su mejor esfuerzo no podría cumplir con lo que es absolutamente
 
 esencial. La ley tiene por objeto conducir al pecador a la fe en Cristo
 
-mostrndole la imposibilidad de cualquier otro camino. Es el perro negro que
+mostrándole la imposibilidad de cualquier otro camino. Es el perro negro que
 
 sirve para llevar a las ovejas al pastor, es el calor ardiente que lleva al viajero
 
-a la sombra del gran peasco en tierra calurosa (Isaas 32: 2).
+a la sombra del gran peńasco en tierra calurosa (Isaías 32: 2).
 
-Miren cmo se adapta la
+Miren cómo se adapta la
 
 ley para eso pues, primero que nada,
 
@@ -294,37 +294,37 @@ muestra al hombre su pecado.
 
 Lean los diez mandamientos y tiemblen al
 
-hacerlo. Quin podra colocar su propio carcter, lado a lado, con las dos tablas
+hacerlo. żQuién podría colocar su propio carácter, lado a lado, con las dos tablas
 
 del precepto divino sin verse convencido de inmediato de que no ha cumplido con
 
 la norma? Cuando la ley se hace clara para el alma es como una luz en un cuarto
 
-oscuro que revela el polvo y la suciedad que de otra manera habran pasado
+oscuro que revela el polvo y la suciedad que de otra manera habrían pasado
 
 desapercibidos. Es la prueba que detecta la presencia del veneno del pecado en
 
-el alma. Yo sin la ley viva en un tiempo dijo el apstol- pero venido el
+el alma. “Yo sin la ley vivía en un tiempo” –dijo el apóstol- “pero venido el
 
-mandamiento, el pecado revivi y yo mor. Nuestra belleza se desvanece por
+mandamiento, el pecado revivió y yo morí”. Nuestra belleza se desvanece por
 
 completo cuando la ley sopla sobre ella. Miren los mandamientos, les digo, y
 
-recuerden cun grande amplitud tienen, cun espirituales son y cul es su gran
+recuerden cuán grande amplitud tienen, cuán espirituales son y cuál es su gran
 
 alcance. No tocan simplemente el acto externo, sino que se sumergen en el
 
-motivo interno y tratan con el corazn, con la mente y con el alma. Hay un
+motivo interno y tratan con el corazón, con la mente y con el alma. Hay un
 
-significado ms profundo en los mandamientos del que pareciera haber en la
+significado más profundo en los mandamientos del que pareciera haber en la
 
-superficie. Fijen la mirada en sus profundidades y vean cun terrible es la
+superficie. Fijen la mirada en sus profundidades y vean cuán terrible es la
 
-santidad que exigen. Conforme entiendan lo que la ley exige, percibirn cun
+santidad que exigen. Conforme entiendan lo que la ley exige, percibirán cuán
 
-lejos estn de cumplirla y cmo abunda el pecado all donde pensaban que era
+lejos están de cumplirla y cómo abunda el pecado allí donde pensaban que era
 
-muy escaso o inexistente. Pensabas que eras rico y que te habas enriquecido y
+muy escaso o inexistente. Pensabas que eras rico y que te habías enriquecido y
 
 que no necesitabas nada, pero cuando la ley quebrantada te visita, tu
 
@@ -334,95 +334,95 @@ balanza descubre un faltante en el peso y ese es el primer efecto de la ley en
 
 la conciencia del hombre.
 
-La ley tambin muestra
+La ley también muestra
 
 el resultado y la maldad del pecado.
 
 Miren
 
-los tipos de la antigua dispensacin mosaica y vean cmo tenan el propsito de
+los tipos de la antigua dispensación mosaica y vean cómo tenían el propósito de
 
-conducir a los hombres a Cristo, hacindoles ver su condicin inmunda y su necesidad
+conducir a los hombres a Cristo, haciéndoles ver su condición inmunda y su necesidad
 
-de una limpieza que slo l puede proporcionar. Cada tipo apuntaba a nuestro
+de una limpieza que sólo Él puede proporcionar. Cada tipo apuntaba a nuestro
 
-Seor Jesucristo. Si los hombres eran apartados por motivo de enfermedad o
+Seńor Jesucristo. Si los hombres eran apartados por motivo de enfermedad o
 
-inmundicia, eran conducidos a ver cmo el pecado los separaba de Dios y de Su
+inmundicia, eran conducidos a ver cómo el pecado los separaba de Dios y de Su
 
-pueblo; y cuando eran llevados de regreso y eran purificados con ritos msticos
+pueblo; y cuando eran llevados de regreso y eran purificados con ritos místicos
 
-en los que haba lana escarlata e hisopo y cosas semejantes, eran conducidos a
+en los que había lana escarlata e hisopo y cosas semejantes, eran conducidos a
 
-ver cmo podan ser restaurados nicamente por Jesucristo, el grandioso Sumo
+ver cómo podían ser restaurados únicamente por Jesucristo, el grandioso Sumo
 
 Sacerdote. Cuando el ave era sacrificada para que el leproso pudiera ser
 
-purificado, se expona la necesidad de la purificacin mediante el sacrificio
+purificado, se exponía la necesidad de la purificación mediante el sacrificio
 
-de una vida. Cada maana y cada tarde era inmolado un cordero para declarar la necesidad
+de una vida. Cada mańana y cada tarde era inmolado un cordero para declarar la necesidad
 
-cotidiana del perdn si es que Dios ha de morar con nosotros. Algunas veces
+cotidiana del perdón si es que Dios ha de morar con nosotros. Algunas veces
 
 incurrimos en culpa por hablar demasiado acerca de la
 
 sangre;
 
-sin embargo bajo el antiguo testamento la sangre pareca
+sin embargo bajo el antiguo testamento la sangre parecía
 
-serlo todo, y no slo se hablaba de ella, sino que era realmente visible a los
+serlo todo, y no sólo se hablaba de ella, sino que era realmente visible a los
 
-ojos. Qu nos dice el apstol en
+ojos. żQué nos dice el apóstol en
 
 la
 
 Carta
 
-a los Hebreos? De donde ni aun el primer pacto fue
+a los Hebreos? “De donde ni aun el primer pacto fue
 
-instituido sin sangre. Porque habiendo anunciado Moiss todos los mandamientos
+instituido sin sangre. Porque habiendo anunciado Moisés todos los mandamientos
 
-de la ley a todo el pueblo, tom la sangre de los becerros y de los machos
+de la ley a todo el pueblo, tomó la sangre de los becerros y de los machos
 
-cabros, con agua, lana escarlata e hisopo, y roci el mismo libro y tambin a
+cabríos, con agua, lana escarlata e hisopo, y roció el mismo libro y también a
 
 todo el pueblo, diciendo: Esta es la sangre del pacto que Dios os ha mandado. Y
 
-adems de esto, roci tambin con la sangre el tabernculo y todos los vasos
+además de esto, roció también con la sangre el tabernáculo y todos los vasos
 
-del ministerio. Y casi todo es purificado, segn la ley, con sangre; y sin
+del ministerio. Y casi todo es purificado, según la ley, con sangre; y sin
 
-derramamiento de sangre no se hace remisin. La sangre estaba sobre el velo y
+derramamiento de sangre no se hace remisión”. La sangre estaba sobre el velo y
 
-sobre el altar, sobre las cortinas y sobre el suelo del tabernculo; nadie
+sobre el altar, sobre las cortinas y sobre el suelo del tabernáculo; nadie
 
-poda evitar ver la sangre. Yo he resuelto que mi ministerio sea del mismo
+podía evitar ver la sangre. Yo he resuelto que mi ministerio sea del mismo
 
-carcter y pretendo rociarlo ms y ms con la sangre de la expiacin. Ahora
+carácter y pretendo rociarlo más y más con la sangre de la expiación. Ahora
 
-bien, la abundancia de la sangre en la antigedad tena el fin de mostrar
+bien, la abundancia de la sangre en la antigüedad tenía el fin de mostrar
 
 claramente que el pecado nos ha contaminado de tal manera que Dios no es
 
-accesible sin una expiacin; tenemos que acercarnos por la va del sacrificio o
+accesible sin una expiación; tenemos que acercarnos por la vía del sacrificio o
 
 no podemos acercarnos. Somos tan inaceptables en nosotros mismos que a menos
 
-que el Seor nos vea cubiertos con la sangre de Jess, debe acabar con
+que el Seńor nos vea cubiertos con la sangre de Jesús, debe acabar con
 
 nosotros. La antigua ley, con sus emblemas y figuras, expone muchas verdades
 
-respecto a la personalidad de los hombres y del Salvador que vendra, teniendo
+respecto a la personalidad de los hombres y del Salvador que vendría, teniendo
 
 por fin en cada uno de ellos predicar a Cristo. Si alguno dejaba de predicarlo,
 
-se perdan de la intencin y el designio de la ley. Moiss conduce a Josu y la
+se perdían de la intención y el designio de la ley. Moisés conduce a Josué y la
 
-ley termina en Jess.
+ley termina en Jesús.
 
 Volviendo nuestros pensamientos
 
-a la ley moral ms que a la ley ceremonial, esa ley tena el fin de ensear a
+a la ley moral más que a la ley ceremonial, esa ley tenía el fin de enseńar a
 
 los hombres
 
@@ -430,43 +430,43 @@ su completa impotencia.
 
 Les
 
-muestra cun deficientes resultaban respecto a lo que deberan ser, y tambin
+muestra cuán deficientes resultaban respecto a lo que deberían ser, y también
 
-les muestra, cuando lo consideran cuidadosamente, cun completamente imposible
+les muestra, cuando lo consideran cuidadosamente, cuán completamente imposible
 
-es para ellos alcanzar la norma. Nadie puede alcanzar por s mismo la santidad
+es para ellos alcanzar la norma. Nadie puede alcanzar por sí mismo la santidad
 
-que la ley exige. Amplio sobremanera es tu mandamiento. Si un hombre dice que
+que la ley exige. “Amplio sobremanera es tu mandamiento”. Si un hombre dice que
 
 puede cumplir la ley, es porque no sabe lo que es la ley. Si se imagina que
 
 puede llegar al cielo alguna vez trepando por los trepidantes costados del
 
-Sina, seguramente no ha podido ver nunca ese monte ardiente en absoluto. Guardar
+Sinaí, seguramente no ha podido ver nunca ese monte ardiente en absoluto. ˇGuardar
 
-la ley! Ah, hermanos mos, mientras todava estamos hablando acerca de ella la
+la ley! Ah, hermanos míos, mientras todavía estamos hablando acerca de ella la
 
 estamos quebrantando; mientras estamos pretendiendo que podemos cumplir su
 
-letra estamos violando su espritu, pues el orgullo quebranta la ley tanto como
+letra estamos violando su espíritu, pues el orgullo quebranta la ley tanto como
 
-la lujuria o el asesinato. Quin har limpio a lo inmundo? Nadie. Y cmo
+la lujuria o el asesinato. “żQuién hará limpio a lo inmundo? Nadie”. “żY cómo
 
-ser limpio el que nace de mujer? No, alma, t no puedes ayudarte a ti misma
+será limpio el que nace de mujer?” No, alma, tú no puedes ayudarte a ti misma
 
-en este asunto ya que slo por la perfeccin t puedes vivir por la ley, y como
+en este asunto ya que sólo por la perfección tú puedes vivir por la ley, y como
 
-esa perfeccin es imposible, no puedes encontrar ayuda en el pacto de obras. En
+esa perfección es imposible, no puedes encontrar ayuda en el pacto de obras. En
 
 la gracia hay esperanza, pero como pago de una deuda no hay ninguna esperanza
 
-pues no ameritamos nada sino ira. La ley nos dice eso, y entre ms pronto
+pues no ameritamos nada sino ira. La ley nos dice eso, y entre más pronto
 
-sepamos que as es, mejor, pues ms pronto acudiremos con premura a Cristo.
+sepamos que así es, mejor, pues más pronto acudiremos con premura a Cristo.
 
 La ley nos muestra
 
-tambin
+también
 
 nuestra gran necesidad:
 
@@ -478,17 +478,17 @@ descubre nuestra inmundicia y esto nos conduce naturalmente a sentir que
 
 debemos ser limpiados de ella si hemos de acercarnos alguna vez a Dios. La ley
 
-nos conduce entonces a aceptar a Cristo como la nica persona que puede
+nos conduce entonces a aceptar a Cristo como la única persona que puede
 
 limpiarnos y hacernos aptos para estar dentro del velo en la presencia del
 
-Altsimo.
+Altísimo.
 
-La ley, por s misma, slo
+La ley, por sí misma, sólo
 
-barre y levanta el polvo, pero el Evangelio roca agua limpia sobre el polvo y
+barre y levanta el polvo, pero el Evangelio rocía agua limpia sobre el polvo y
 
-todo queda bien aplacado en la habitacin del alma. La ley mata, pero el
+todo queda bien aplacado en la habitación del alma. La ley mata, pero el
 
 Evangelio hace vivir; la ley desnuda y entonces Jesucristo
 
@@ -496,19 +496,19 @@ entra
 
 y viste al alma de belleza y de gloria. Todos los mandamientos y todos los
 
-tipos nos dirigen a Cristo si prestamos atencin a su evidente intencin. Nos
+tipos nos dirigen a Cristo si prestamos atención a su evidente intención. Nos
 
 destetan del yo, nos sacan de la falsa base de la justicia propia y nos
 
-conducen a saber que slo en Cristo se encuentra nuestra ayuda. Entonces,
+conducen a saber que sólo en Cristo se encuentra nuestra ayuda. Entonces,
 
-primero que nada, Cristo es el fin de la ley en el sentido de que l es su gran
+primero que nada, Cristo es el fin de la ley en el sentido de que Él es su gran
 
-propsito.
+propósito.
 
 Y ahora, en segundo
 
-lugar, l es
+lugar, Él es
 
 el cumplimiento de la ley.
 
@@ -520,349 +520,349 @@ necesidad, el Dios del cielo y de la tierra exige justicia de todas Sus
 
 criaturas. Ahora bien, Cristo ha venido a darnos la justicia que la ley exige
 
-pero que nunca confiere. En el captulo que estamos considerando leemos acerca
+pero que nunca confiere. En el capítulo que estamos considerando leemos acerca
 
-de la justicia que es por la fe, que es llamada tambin la justicia de
+de la “justicia que es por la fe”, que es llamada también “la justicia de
 
-Dios; y leemos sobre aquellos que no sern avergonzados porque son justos
+Dios”; y leemos sobre aquellos que “no serán avergonzados” porque son justos
 
-por creer, porque con el corazn se cree para justicia. Jess ha hecho lo que
+por creer, “porque con el corazón se cree para justicia”. Jesús ha hecho lo que
 
-la ley no poda hacer. l provee la justicia que la ley exige pero que no puede
+la ley no podía hacer. Él provee la justicia que la ley exige pero que no puede
 
-producir. Qu asombrosa justicia ha de ser aquella que es tan amplia y profunda
+producir. Qué asombrosa justicia ha de ser aquella que es tan amplia y profunda
 
 y de tan gran longitud y altura como la ley misma. El mandamiento es
 
 sobremanera amplio pero la justicia de Cristo es tan amplia como el mandamiento
 
-y llega hasta sus lmites. Cristo no vino para suavizar la ley, o para hacer
+y llega hasta sus límites. Cristo no vino para suavizar la ley, o para hacer
 
 posible que nuestra agrietada y maltratada obediencia sea aceptada como una
 
-suerte de compromiso. La ley no es forzada a rebajar sus trminos como si
+suerte de compromiso. La ley no es forzada a rebajar sus términos como si
 
 originalmente hubiera exigido demasiado; es santa y justa y buena, y no ha de
 
-ser alterada en una sola jota o tilde, ni podra serlo. Nuestro Seor le da a
+ser alterada en una sola jota o tilde, ni podría serlo. Nuestro Seńor le da a
 
-la ley todo lo que requiere, no una parte, pues eso sera una admisin de que
+la ley todo lo que requiere, no una parte, pues eso sería una admisión de que
 
 hubiera podido contentarse justamente con menos al principio. La ley reclama completa
 
-obediencia sin tacha, o mancha, o falla o defecto, y Cristo ha trado una
+obediencia sin tacha, o mancha, o falla o defecto, y Cristo ha traído una
 
 justicia como esa y se la da a Su pueblo. La ley exige que la justicia sea sin
 
-omisin de deber y sin comisin de pecado, y la justicia que Cristo ha trado
+omisión de deber y sin comisión de pecado, y la justicia que Cristo ha traído
 
 es precisamente tal que por su causa el grandioso Dios acepta a Su pueblo y lo
 
 considera como que no tiene ni mancha ni arruga ni cosa semejante. La ley no
 
-estar contenta sin una obediencia espiritual y los simples cumplimientos
+estará contenta sin una obediencia espiritual y los simples cumplimientos
 
-externos no satisfaran. Pero la obediencia de nuestro Seor fue tan profunda
+externos no satisfarían. Pero la obediencia de nuestro Seńor fue tan profunda
 
-como amplia, pues Su celo para cumplir la voluntad de Aquel que lo envi lo
+como amplia, pues Su celo para cumplir la voluntad de Aquel que lo envió lo
 
-consuma. l mismo dice: El hacer tu voluntad, Dios mo, me ha agradado, y tu
+consumía. Él mismo dice: “El hacer tu voluntad, Dios mío, me ha agradado, y tu
 
-ley est en medio de mi corazn. l pone esa justicia en todos los creyentes.
+ley está en medio de mi corazón”. Él pone esa justicia en todos los creyentes.
 
-Por la obediencia de uno, los muchos sern constituidos justos; plenamente
+“Por la obediencia de uno, los muchos serán constituidos justos”; plenamente
 
 justos, perfectos en Cristo. Nos regocijamos usando el costoso manto de hermoso
 
-lino blanco que Jess ha preparado, y sentimos que podemos vestirlo delante de
+lino blanco que Jesús ha preparado, y sentimos que podemos vestirlo delante de
 
-la majestad del cielo sin un trmulo pensamiento. Esto es algo que debemos
+la majestad del cielo sin un trémulo pensamiento. Esto es algo que debemos
 
-meditar, queridos amigos. Slo como justos podemos ser salvos, pero Jesucristo
+meditar, queridos amigos. Sólo como justos podemos ser salvos, pero Jesucristo
 
-nos hace justos, y por tanto, somos salvos. El que cree en l es justo, as
+nos hace justos, y por tanto, somos salvos. El que cree en Él es justo, así
 
-como Abraham crey a Dios y le fue contado por justicia. Ahora, pues, ninguna
+como Abraham creyó a Dios y le fue contado por justicia. “Ahora, pues, ninguna
 
-condenacin hay para los que estn en Cristo Jess, porque son hechos justos
+condenación hay para los que están en Cristo Jesús”, porque son hechos justos
 
-en Cristo. S, el Espritu Santo por boca de Pablo reta a todos los hombres,
+en Cristo. Sí, el Espíritu Santo por boca de Pablo reta a todos los hombres,
 
-ngeles y demonios a que presenten alguna acusacin en contra de los elegidos
+ángeles y demonios a que presenten alguna acusación en contra de los elegidos
 
-de Dios, puesto que Cristo ha muerto. Oh ley, cuando t me exiges una perfecta
+de Dios, puesto que Cristo ha muerto. Oh ley, cuando tú me exiges una perfecta
 
 justicia, yo, siendo un creyente, te la presento, pues por medio de Cristo
 
-Jess la fe me es contada por justicia. La justicia de Cristo es ma pues yo
+Jesús la fe me es contada por justicia. La justicia de Cristo es mía pues yo
 
-soy uno con l por la fe, y este es el nombre con el que l ser llamado: Jehov,
+soy uno con Él por la fe, y este es el nombre con el que Él será llamado: “Jehová,
 
-justicia nuestra.
+justicia nuestra”.
 
-Jess ha cumplido as
+Jesús ha cumplido así
 
 con las exigencias originales de la ley, pero ustedes saben, hermanos, que como
 
-nosotros hemos quebrantado la ley, hay otras exigencias. Para la remisin de
+nosotros hemos quebrantado la ley, hay otras exigencias. Para la remisión de
 
-pecados pasados se pide ahora algo ms que la obediencia presente y futura. Por
+pecados pasados se pide ahora algo más que la obediencia presente y futura. Por
 
-culpa de nuestros pecados, sobre nosotros ha sido pronunciada la maldicin y
+culpa de nuestros pecados, sobre nosotros ha sido pronunciada la maldición y
 
-hemos incurrido en un castigo. Est escrito que l de ningn modo tendr por
+hemos incurrido en un castigo. Está escrito que Él “de ningún modo tendrá por
 
-inocente al malvado, y cada transgresin e iniquidad tendrn su justo castigo
+inocente al malvado”, y cada transgresión e iniquidad tendrán su justo castigo
 
-y su recompensa. Admiremos entonces que el Seor Jesucristo es el fin de la ley
+y su recompensa. Admiremos entonces que el Seńor Jesucristo es el fin de la ley
 
-en cuanto al castigo. Pensar en esa maldicin y en ese castigo es algo
+en cuanto al castigo. Pensar en esa maldición y en ese castigo es algo
 
-terrible, pero Cristo ha terminado con todo su mal y nos ha exonerado as de
+terrible, pero Cristo ha terminado con todo su mal y nos ha exonerado así de
 
 todas las consecuencias del pecado. En lo que se refiere a cada creyente, la
 
-ley no exige ningn castigo y no pronuncia ninguna maldicin. El creyente puede
+ley no exige ningún castigo y no pronuncia ninguna maldición. El creyente puede
 
-sealar a
+seńalar a
 
 la Gran
 
 Fianza
 
-sobre el madero del Calvario y decir: Mira all, oh ley, all est la
+sobre el madero del Calvario y decir: “Mira allí, oh ley, allí está la
 
-vindicacin de la justicia divina que yo te ofrezco. Jess que derrama la
+vindicación de la justicia divina que yo te ofrezco. Jesús que derrama la
 
-sangre de Su corazn por Sus heridas y que muere por m, es mi respuesta a tus
+sangre de Su corazón por Sus heridas y que muere por mí, es mi respuesta a tus
 
-reclamos y yo s que ser librado de la ira por medio de l. Cristo ha
+reclamos y yo sé que seré librado de la ira por medio de Él”. Cristo ha
 
 cumplido los requerimientos tanto de la ley quebrantada como de la no
 
 quebrantada. Tanto las exigencias positivas como las penales son satisfechas en
 
-l. Esa era una labor digna de un Dios, y he aqu, el Dios encarnado lo ha
+Él. Esa era una labor digna de un Dios, y he aquí, el Dios encarnado lo ha
 
-logrado. l ha terminado con la transgresin, ha puesto un fin a los pecados,
+logrado. Él ha terminado con la transgresión, ha puesto un fin a los pecados,
 
-ha hecho la reconciliacin por la iniquidad y ha trado la justicia eterna.
+ha hecho la reconciliación por la iniquidad y ha traído la justicia eterna.
 
 Toda gloria sea a Su nombre.
 
-Adems, no slo pag el
+Además, no sólo pagó el
 
 castigo, sino que al pagarlo, Cristo puso un gran honor especial sobre la ley.
 
 Me aventuro a decir que si toda la raza humana hubiera guardado la ley de Dios
 
-y ni uno solo la hubiera violado, la ley no estara en una posicin tan
+y ni uno solo la hubiera violado, la ley no estaría en una posición tan
 
-esplndida de honor como lo est hoy cuando el hombre Cristo Jess, quien es tambin
+espléndida de honor como lo está hoy cuando el hombre Cristo Jesús, quien es también
 
-el Hijo de Dios, le ha rendido reverencia. En Su vida y ms an en Su muerte el
+el Hijo de Dios, le ha rendido reverencia. En Su vida y más aún en Su muerte el
 
-propio Dios encarnado ha revelado la supremaca de la ley. l ha mostrado que
+propio Dios encarnado ha revelado la supremacía de la ley. Él ha mostrado que
 
-ni siquiera el amor o la soberana pueden hacer a un lado a la justicia. Quin
+ni siquiera el amor o la soberanía pueden hacer a un lado a la justicia. żQuién
 
-dir una palabra en contra de la ley a la cual se someti el propio Legislador?
+dirá una palabra en contra de la ley a la cual se sometió el propio Legislador?
 
-Quin dir ahora que es demasiado severa cuando el propio Legislador se somete
+żQuién dirá ahora que es demasiado severa cuando el propio Legislador se somete
 
-a sus castigos? Porque estaba en la condicin de hombre y era nuestro
+a sus castigos? Porque estaba en la condición de hombre y era nuestro
 
-representante, Dios exigi de Su propio Hijo una obediencia perfecta a la ley,
+representante, Dios exigió de Su propio Hijo una obediencia perfecta a la ley,
 
-y el Hijo voluntariamente se someti a ella sin decir ni una sola palabra y sin
+y el Hijo voluntariamente se sometió a ella sin decir ni una sola palabra y sin
 
-hacer ninguna excepcin a Su tarea. S, tu ley es mi delicia, dice l, y
+hacer ninguna excepción a Su tarea. “Sí, tu ley es mi delicia”, dice Él, y
 
-demostr que lo era rindindole homenaje a plenitud. Oh, la ley bajo la cual
+demostró que lo era rindiéndole homenaje a plenitud. ˇOh, la ley bajo la cual
 
 sirve Emanuel es asombrosa! Oh, ley sin igual cuyo yugo aun el Hijo de Dios no
 
-desdea llevar, sino que estando resuelto a salvar a Sus elegidos, nacido bajo
+desdeńa llevar, sino que estando resuelto a salvar a Sus elegidos, nacido bajo
 
-la ley, vivi bajo la ley y muri bajo la ley, obediente hasta la muerte, y
+la ley, vivió bajo la ley y murió bajo la ley, “obediente hasta la muerte, y
 
-muerte de cruz.
+muerte de cruz”.
 
 La estabilidad de la ley
 
-ha sido tambin asegurada por Cristo. Lo nico que puede permanecer es lo que
+ha sido también asegurada por Cristo. Lo único que puede permanecer es lo que
 
-demuestra ser justo, y Jess ha demostrado que la ley es justa engrandecindola
+demuestra ser justo, y Jesús ha demostrado que la ley es justa engrandeciéndola
 
-y hacindola honorable. l dice: No pensis que he venido para abrogar la ley
+y haciéndola honorable. Él dice: “No penséis que he venido para abrogar la ley
 
 o los profetas; no he venido para abrogar, sino para cumplir. Porque de cierto
 
 os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde
 
-pasar de la ley, hasta que todo se haya cumplido. Tendr que mostrarles cmo
+pasará de la ley, hasta que todo se haya cumplido”. Tendré que mostrarles cómo
 
-El ha puesto un fin a la ley en otro sentido, pero en cuanto a la conciliacin
+El ha puesto un fin a la ley en otro sentido, pero en cuanto a la conciliación
 
 de los eternos principios del bien y del mal, la vida y la muerte de Cristo han
 
-logrado esto para siempre. Confirmamos la ley, dice Pablo, no invalidamos la
+logrado esto para siempre. “Confirmamos la ley”, dice Pablo, “no invalidamos la
 
-ley por la fe. El propio Evangelio de la fe comprueba que la ley es santa y
+ley por la fe”. El propio Evangelio de la fe comprueba que la ley es santa y
 
 justa, pues el Evangelio en el que cree la fe no altera o reduce a la ley, sino
 
-que nos ensea cmo fue cumplida integralmente. Ahora la ley permanecer firme
+que nos enseńa cómo fue cumplida integralmente. Ahora la ley permanecerá firme
 
 por los siglos de los siglos, puesto que aun para salvar al hombre elegido Dios
 
-no la altera. l tena un pueblo elegido, amado y ordenado para vida, y con
+no la altera. Él tenía un pueblo elegido, amado y ordenado para vida, y con
 
-todo no lo salvara a costa de un principio de rectitud. Ellos eran pecadores,
+todo no lo salvaría a costa de un principio de rectitud. Ellos eran pecadores,
 
-y cmo podan ser justificados a menos que la ley fuera suspendida o cambiada?
+y żcómo podían ser justificados a menos que la ley fuera suspendida o cambiada?
 
-Entonces, fue cambiada la ley? Pareca que as tena que ser si el hombre iba
+Entonces, żfue cambiada la ley? Parecía que así tenía que ser si el hombre iba
 
-a ser salvado, pero Jesucristo vino y nos mostr cmo la ley poda permanecer
+a ser salvado, pero Jesucristo vino y nos mostró cómo la ley podía permanecer
 
-firme como una roca y, no obstante, los redimidos podan ser salvados
+firme como una roca y, no obstante, los redimidos podían ser salvados
 
 justamente por la infinita misericordia. En Cristo vemos tanto la misericordia
 
 como la justicia brillando a plenitud, y no obstante ninguna de las dos eclipsa
 
-a la otra en el ms mnimo grado. La ley tiene todo lo que exigi jams, tal como
+a la otra en el más mínimo grado. La ley tiene todo lo que exigió jamás, tal como
 
-deba ser, y, sin embargo, el Padre de todas las misericordias ve a todos Sus
+debía ser, y, sin embargo, el Padre de todas las misericordias ve a todos Sus
 
-elegidos salvados tal como determin que lo seran por medio de la muerte de Su
+elegidos salvados tal como determinó que lo serían por medio de la muerte de Su
 
-Hijo. De este modo he procurado mostrarles cmo Cristo es el cumplimiento de la
+Hijo. De este modo he procurado mostrarles cómo Cristo es el cumplimiento de la
 
 ley de manera integral.
 
 Y ahora, en tercer
 
-lugar, l es el fin de la ley en el sentido de que l es
+lugar, Él es el fin de la ley en el sentido de que Él es
 
-su terminacin.
+su terminación.
 
-l ha terminado con la ley en dos sentidos. Primero
+Él ha terminado con la ley en dos sentidos. Primero
 
-que nada, Su pueblo no est bajo la ley como un pacto de vida. No estamos bajo
+que nada, Su pueblo no está bajo la ley como un pacto de vida. “No estamos bajo
 
-la ley, sino bajo la gracia. El antiguo pacto segn estuvo vigente con el
+la ley, sino bajo la gracia”. El antiguo pacto según estuvo vigente con el
 
-padre Adn era Haz esto, y vivirs; Adn no guard el mandato, y en
+padre Adán era “Haz esto, y vivirás”; Adán no guardó el mandato, y en
 
-consecuencia, no vivi, ni tampoco vivimos nosotros en l, puesto que todos
+consecuencia, no vivió, ni tampoco vivimos nosotros en él, puesto que todos
 
-morimos en Adn. El antiguo pacto fue quebrantado, y por esa razn todos
+morimos en Adán. El antiguo pacto fue quebrantado, y por esa razón todos
 
 quedamos condenados, pero ahora, habiendo sufrido la muerte en Cristo, ya no estamos
 
-ms bajo el pacto sino que estamos muertos para l. Hermanos, en este momento,
+más bajo el pacto sino que estamos muertos para él. Hermanos, en este momento,
 
 aunque nos regocijamos haciendo buenas obras, no buscamos la vida por medio de
 
 ellas, no esperamos obtener el favor divino por nuestra propia bondad y ni
 
-siquiera esperamos mantenernos en el amor de Dios por algn mrito nuestro.
+siquiera esperamos mantenernos en el amor de Dios por algún mérito nuestro.
 
-Siendo elegidos, no por nuestras obras, sino segn el puro afecto de Su
+Siendo elegidos, no por nuestras obras, sino según el puro afecto de Su
 
-voluntad eterna; siendo llamados, no por obras, sino por el Espritu de Dios,
+voluntad eterna; siendo llamados, no por obras, sino por el Espíritu de Dios,
 
-deseamos continuar en esta gracia y no regresar ms a la servidumbre del
+deseamos continuar en esta gracia y no regresar más a la servidumbre del
 
-antiguo pacto. Puesto que hemos depositado nuestra confianza en una expiacin
+antiguo pacto. Puesto que hemos depositado nuestra confianza en una expiación
 
-provista y aplicada por gracia por medio de Cristo Jess, ya no somos ms
+provista y aplicada por gracia por medio de Cristo Jesús, ya no somos más
 
 esclavos sino hijos; no obramos para ser salvos sino que ya somos salvos y
 
 estamos obrando porque somos salvos. Ni lo que hacemos, y ni siquiera lo que el
 
-Espritu de Dios obra en nosotros es para nosotros el fundamento y la base del
+Espíritu de Dios obra en nosotros es para nosotros el fundamento y la base del
 
-amor de Dios por nosotros, puesto que l nos am desde el principio porque
+amor de Dios por nosotros, puesto que Él nos amó desde el principio porque
 
-quiso amarnos, indignos como ramos; y l nos ama an en Cristo, y nos mira, no
+quiso amarnos, indignos como éramos; y Él nos ama aún en Cristo, y nos mira, no
 
-como somos en nosotros mismos, sino como somos en l: lavados en Su sangre y
+como somos en nosotros mismos, sino como somos en Él: lavados en Su sangre y
 
-cubiertos con Su justicia. Ustedes no estn bajo la ley. Cristo los ha sacado
+cubiertos con Su justicia. Ustedes no están bajo la ley. Cristo los ha sacado
 
 de la esclavitud servil de un pacto condenatorio y los ha hecho recibir la
 
-adopcin de hijos, de tal manera que ahora claman: Abba, Padre.
+adopción de hijos, de tal manera que ahora claman: ‘Abba, Padre’.
 
-Adems, Cristo ha
+Además, Cristo ha
 
-terminado con la ley, pues ya no estamos ms bajo su maldicin. La ley no puede
+terminado con la ley, pues ya no estamos más bajo su maldición. La ley no puede
 
-maldecir a un creyente pues no sabe cmo hacerlo; lo bendice, s, y ser bendecido,
+maldecir a un creyente pues no sabe cómo hacerlo; lo bendice, sí, y será bendecido,
 
-pues como la ley exige justicia y mira al creyente en Cristo y ve que Jess le
+pues como la ley exige justicia y mira al creyente en Cristo y ve que Jesús le
 
-ha dado toda la justicia que exige, la ley est obligada a pronunciarlo
+ha dado toda la justicia que exige, la ley está obligada a pronunciarlo
 
-bendecido. Bienaventurado aquel cuya transgresin ha sido perdonada, y
+bendecido. “Bienaventurado aquel cuya transgresión ha sido perdonada, y
 
-cubierto su pecado. Bienaventurado el hombre a quien Jehov no culpa de
+cubierto su pecado. Bienaventurado el hombre a quien Jehová no culpa de
 
-iniquidad, y en cuyo espritu no hay engao. Oh, el gozo de ser redimidos de
+iniquidad, y en cuyo espíritu no hay engańo”. ˇOh, el gozo de ser redimidos de
 
-la maldicin de la ley por Cristo, quien fue hecho por nosotros maldicin,
+la maldición de la ley por Cristo, quien fue “hecho por nosotros maldición”,
 
-como est escrito: Maldito todo el que es colgado en un madero! Hermanos
+como está escrito: “Maldito todo el que es colgado en un madero”! Hermanos
 
-mos, entienden el dulce misterio de la salvacin? Han visto alguna vez a
+míos, żentienden el dulce misterio de la salvación? żHan visto alguna vez a
 
-Jess ocupando el lugar de ustedes para que ustedes pudieran ocupar Su lugar?
+Jesús ocupando el lugar de ustedes para que ustedes pudieran ocupar Su lugar?
 
 Cristo fue acusado y Cristo fue condenado y Cristo fue llevado a la muerte y
 
-Cristo fue herido por el Padre hasta la muerte, y por esa razn ustedes son
+Cristo fue herido por el Padre hasta la muerte, y por esa razón ustedes son
 
-absueltos, justificados y librados de la maldicin, porque la maldicin se ha
+absueltos, justificados y librados de la maldición, porque la maldición se ha
 
-cumplido en su Redentor. Ustedes son admitidos a disfrutar de la bendicin
+cumplido en su Redentor. Ustedes son admitidos a disfrutar de la bendición
 
 porque la justicia que era Suya ha sido transferida ahora a ustedes para que
 
-puedan ser bendecidos por el Seor por todos los siglos. Triunfemos y
+puedan ser bendecidos por el Seńor por todos los siglos. Triunfemos y
 
-regocijmonos en esto perennemente. Por qu no habramos de hacerlo? Y, sin
+regocijémonos en esto perennemente. żPor qué no habríamos de hacerlo? Y, sin
 
 embargo, algunos miembros del pueblo de Dios se someten a la ley en cuanto a
 
-sus sentimientos y comienzan a temer que porque estn conscientes del pecado no
+sus sentimientos y comienzan a temer que porque están conscientes del pecado no
 
-son salvos a pesar de que est escrito: l justifica al impo. En lo que a m
+son salvos a pesar de que está escrito: “Él justifica al impío”. En lo que a mí
 
-respecta, me encanta vivir cerca de un Salvador del pecador. Si mi condicin
+respecta, me encanta vivir cerca de un Salvador del pecador. Si mi condición
 
-delante del Seor dependiera de lo que yo soy en m mismo y de qu buenas obras
+delante del Seńor dependiera de lo que yo soy en mí mismo y de qué buenas obras
 
-y qu justicia pudiera ofrecer, ciertamente yo tendra que condenarme mil veces
+y qué justicia pudiera ofrecer, ciertamente yo tendría que condenarme mil veces
 
-al da. Pero si me aparto de eso y digo: yo he credo en Jesucristo y por
+al día. Pero si me aparto de eso y digo: “yo he creído en Jesucristo y por
 
-tanto la justicia es ma, eso es paz, reposo y el principio del cielo! Cuando
+tanto la justicia es mía”, ˇeso es paz, reposo y el principio del cielo! Cuando
 
 uno logra esa experiencia, su amor por Jesucristo comienza a arder, y uno
 
-siente que si el Redentor le ha librado de la maldicin de la ley, no
+siente que si el Redentor le ha librado de la maldición de la ley, no
 
-continuar en el pecado, sino que se esforzar por vivir una vida nueva. Nosotros
+continuará en el pecado, sino que se esforzará por vivir una vida nueva. Nosotros
 
 no nos pertenecemos; hemos sido comprados por precio, y por tanto, queremos
 
-glorificar a Dios en nuestros cuerpos y en nuestros espritus que le pertenecen
+glorificar a Dios en nuestros cuerpos y en nuestros espíritus que le pertenecen
 
-al Seor. Esto basta en cuanto a Cristo con respecto a la ley.
+al Seńor. Esto basta en cuanto a Cristo con respecto a la ley.
 
 II.
 
@@ -870,37 +870,37 @@ Ahora,
 
 en segundo lugar, tenemos que vernos a NOSOTROS MISMOS CON RESPECTO A CRISTO,
 
-pues El fin de la ley es Cristo, para justicia
+pues “El fin de la ley es Cristo, para justicia
 
-a todo aquel que cree.
+a todo aquel que cree”.
 
-Ahora vean el punto: a todo aquel que
+Ahora vean el punto: “a todo aquel que
 
-cree, ah se ubica el nfasis. Vamos, varn, mujer, creen ustedes? No puede
+cree”, ahí se ubica el énfasis. Vamos, varón, mujer, żcreen ustedes? No puede
 
-hacerse ninguna otra pregunta de mayor peso bajo el cielo. Crees t en el
+hacerse ninguna otra pregunta de mayor peso bajo el cielo. “żCrees tú en el
 
-Hijo de Dios? Y qu es lo que debe creerse? No se trata de aceptar meramente
+Hijo de Dios?” żY qué es lo que debe creerse? No se trata de aceptar meramente
 
 un conjunto de doctrinas y decir que tal y tal credo es tuyo, para luego
 
 ponerlo sobre el anaquel y olvidarlo. Creer es confiar, depender, descansar en,
 
-reposar en. Crees t que Jesucristo resucit de los muertos? Crees t que
+reposar en. żCrees tú que Jesucristo resucitó de los muertos? żCrees tú que
 
-ocup el lugar del pecador, y que padeci, el justo por los injustos? Crees
+ocupó el lugar del pecador, y que padeció, el justo por los injustos? żCrees
 
-que puede salvar perpetuamente a los que por l se acercan a Dios? Y pones t,
+que puede salvar perpetuamente a los que por Él se acercan a Dios? żY pones tú,
 
-por tanto, todo el peso y el nfasis de la salvacin de tu alma en l y
+por tanto, todo el peso y el énfasis de la salvación de tu alma en Él y
 
-nicamente en l? Ah, entonces, Cristo es el fin de la ley para justicia para
+únicamente en Él? Ah, entonces, Cristo es el fin de la ley para justicia para
 
-ti, y t eres justo. Si t crees, ests vestido con la justicia de Dios. No
+ti, y tú eres justo. Si tú crees, estás vestido con la justicia de Dios. No
 
-sirve de nada presentar ninguna otra cosa si no crees, pues nada servir. Si la
+sirve de nada presentar ninguna otra cosa si no crees, pues nada servirá. Si la
 
-fe est ausente falta lo esencial. Puedes juntar sacramentos, oraciones,
+fe está ausente falta lo esencial. Puedes juntar sacramentos, oraciones,
 
 lecturas de
 
@@ -908,139 +908,139 @@ la Biblia
 
 ,
 
-or el Evangelio y apilarlos hasta las estrellas, y convertirlos en una montaa
+oír el Evangelio y apilarlos hasta las estrellas, y convertirlos en una montańa
 
-gigantesca como el alto Olimpo, pero todo eso es mera paja si la fe no est
+gigantesca como el alto Olimpo, pero todo eso es mera paja si la fe no está
 
-all. Que creas o que no creas es lo que debe decidir el asunto. Buscas la
+allí. Que creas o que no creas es lo que debe decidir el asunto. żBuscas la
 
-justicia en Jess y lejos de tu yo? Si lo haces, l es el fin de la ley para
+justicia en Jesús y lejos de tu yo? Si lo haces, Él es el fin de la ley para
 
 ti.
 
 Ahora observen que no se
 
-hace ninguna pregunta en cuanto al carcter previo, pues est escrito: El fin
+hace ninguna pregunta en cuanto al carácter previo, pues está escrito: “El fin
 
 de la ley es Cristo, para justicia a
 
 todo
 
-aquel que cree.
+aquel que cree”.
 
-Pero, Seor, este hombre era un perseguidor y un abusivo
+‘Pero, Seńor, este hombre era un perseguidor y un abusivo
 
-antes que creyera, se enfureca y despotricaba contra los santos, los
+antes que creyera, se enfurecía y despotricaba contra los santos, los
 
-arrastraba a prisin y buscaba su sangre. S, querido amigo, y ese es
+arrastraba a prisión y buscaba su sangre’. Sí, querido amigo, y ese es
 
-precisamente el hombre que escribi estas palabras inspirado por el Espritu
+precisamente el hombre que escribió estas palabras inspirado por el Espíritu
 
-Santo, el fin de la ley es Cristo, para justicia a todo aquel que cree.
+Santo, “el fin de la ley es Cristo, para justicia a todo aquel que cree”.
 
-Entonces si me dirijo a alguien en esta maana cuya vida ha sido contaminada
+Entonces si me dirijo a alguien en esta mańana cuya vida ha sido contaminada
 
-con todo pecado y manchada con toda transgresin que podamos concebir, yo le
+con todo pecado y manchada con toda transgresión que podamos concebir, yo le
 
-digo a tal persona que recuerde que Todo pecado y blasfemia ser perdonado a
+digo a tal persona que recuerde que “Todo pecado y blasfemia será perdonado a
 
-los hombres. Si t crees en el Seor Jesucristo, tus iniquidades son borradas
+los hombres”. Si tú crees en el Seńor Jesucristo, tus iniquidades son borradas
 
 pues la sangre de Jesucristo, el amado Hijo de Dios, nos limpia de todo pecado.
 
 Esta es la gloria del Evangelio: que es un Evangelio para el pecador, buenas
 
-nuevas de bendicin, no para quienes estn sin pecado, sino para quienes lo
+nuevas de bendición, no para quienes están sin pecado, sino para quienes lo
 
-confiesan y lo abandonan. Jess vino al mundo, no para recompensar a los que no
+confiesan y lo abandonan. Jesús vino al mundo, no para recompensar a los que no
 
-tienen pecado, sino para buscar y salvar lo que se haba perdido; y aquel que
+tienen pecado, sino para buscar y salvar lo que se había perdido; y aquel que
 
 estando perdido y estando lejos de Dios se acerca a Dios por Cristo, y cree en
 
-l, encontrar que l confiere la justicia al culpable. l es el fin de la ley
+Él, encontrará que Él confiere la justicia al culpable. Él es el fin de la ley
 
 para justicia para todo aquel que cree y, por tanto, lo es para la pobre ramera
 
-que cree, para el borracho de muchos aos que cree, para el ladrn y para el
+que cree, para el borracho de muchos ańos que cree, para el ladrón y para el
 
 mentiroso y para el burlador que creen y para los que anteriormente se
 
 desbocaban en el pecado pero que ahora se apartan del pecado para confiar en
 
-l. Pero no s si deba mencionar casos como esos; para m el hecho ms
+Él. Pero no sé si deba mencionar casos como esos; para mí el hecho más
 
 maravilloso es que Cristo es el fin de la ley para justicia
 
-para m,
+para mí,
 
-pues yo creo en l. Yo s a
+pues yo creo en Él. Yo sé a
 
-quin he credo, y estoy seguro de que es poderoso para guardar mi depsito
+quién he creído, y estoy seguro de que es poderoso para guardar mi depósito
 
-para aquel da.
+para aquel día.
 
 Otro pensamiento que
 
-surge del texto es que no se dice nada a modo de calificacin en cuanto a la
+surge del texto es que no se dice nada a modo de calificación en cuanto a la
 
-fuerza de la fe. l es el fin de la ley para justicia para todo el que cree, ya
+fuerza de la fe. Él es el fin de la ley para justicia para todo el que cree, ya
 
-sea para Poca Fe o Gran Corazn. Jess protege la retaguardia as como la
+sea para ‘Poca Fe’ o ‘Gran Corazón’. Jesús protege la retaguardia así como la
 
 vanguardia. No hay diferencia entre un creyente y otro en cuanto a la
 
-justificacin. En tanto que haya un vnculo entre Cristo y t, la justicia de
+justificación. En tanto que haya un vínculo entre Cristo y tú, la justicia de
 
-Dios es tuya. El eslabn pudiera ser tan tenue como una telilla, como un hilo
+Dios es tuya. El eslabón pudiera ser tan tenue como una telilla, como un hilo
 
-de araa de fe trmula, pero, si va directamente desde el corazn hasta Cristo,
+de arańa de fe trémula, pero, si va directamente desde el corazón hasta Cristo,
 
-la gracia divina puede fluir y fluir a lo largo del hilo ms delgado. Es
+la gracia divina puede fluir y fluirá a lo largo del hilo más delgado. Es
 
-maravilloso ver cun fino puede ser el alambre que transmite el fluido
+maravilloso ver cuán fino puede ser el alambre que transmite el fluido
 
-elctrico. Pudiramos necesitar un cable para transmitir un mensaje a travs
+eléctrico. Pudiéramos necesitar un cable para transmitir un mensaje a través
 
-del mar, pero eso es slo para la proteccin del alambre; el alambre que
+del mar, pero eso es sólo para la protección del alambre; el alambre que
 
 realmente transporta el mensaje es una cosa muy delgada. Aunque tu fe fuera del
 
-tipo del grano de mostaza, aunque fuera algo que slo toca trmulamente el
+tipo del grano de mostaza, aunque fuera algo que sólo toca trémulamente el
 
-borde del manto del Salvador, basta con que digas: Seor, creo; ayuda mi
+borde del manto del Salvador, basta con que digas: “Seńor, creo; ayuda mi
 
-incredulidad; con slo que fuese la fe de Pedro al momento de hundirse, o la
+incredulidad”; con sólo que fuese la fe de Pedro al momento de hundirse, o la
 
-de Mara en su llanto, con todo si fuera fe en Cristo, l ser el fin de la ley
+de María en su llanto, con todo si fuera fe en Cristo, Él será el fin de la ley
 
 para justicia para ti de la misma manera que lo fue para el primero de los
 
-apstoles.
+apóstoles.
 
-Si esto es as, entonces,
+Si esto es así, entonces,
 
-queridos amigos, todos los que creemos somos justos. Creyendo en el Seor
+queridos amigos, todos los que creemos somos justos. Creyendo en el Seńor
 
 Jesucristo hemos obtenido la justicia que aquellos que siguen las obras de la
 
-ley desconocen por completo. No hemos sido santificados completamente; ojal
+ley desconocen por completo. No hemos sido santificados completamente; ojalá
 
-hubiramos sido santificados; aunque lo odiamos, no estamos libres de pecado en
+hubiéramos sido santificados; aunque lo odiamos, no estamos libres de pecado en
 
-nuestros miembros; pero aun as, a pesar de todo eso, somos verdaderamente
+nuestros miembros; pero aun así, a pesar de todo eso, somos verdaderamente
 
-justos a los ojos de Dios, y siendo hechos idneos por la fe tenemos paz con
+justos a los ojos de Dios, y siendo hechos idóneos por la fe tenemos paz con
 
-Dios. Vamos, miren a lo alto, ustedes, creyentes que estn agobiados con un sentido
+Dios. Vamos, miren a lo alto, ustedes, creyentes que están agobiados con un sentido
 
 de pecado. Mientras se disciplinan y lamentan su pecado, no duden de su
 
-Salvador ni cuestionen Su justicia. Ustedes estn negros, pero no se detengan
+Salvador ni cuestionen Su justicia. Ustedes están negros, pero no se detengan
 
-all, antes bien prosigan a decir como lo hizo la esposa: Morena soy, pero
+allí, antes bien prosigan a decir como lo hizo la esposa: “Morena soy, pero
 
-codiciable.
+codiciable”.
 
 Aunque en nosotros mismos somos deformes,
 
@@ -1048,85 +1048,85 @@ Y negros, tal como se ven las tiendas de Cedar,
 
 Con todo, cuando nos vestimos con Tu hermosura,
 
-Somos bellos como los atrios de Salomn.
+Somos bellos como los atrios de Salomón”.
 
 Ahora, observen que el
 
 contexto de nuestro texto nos asegura que siendo justos, somos salvos, pues
 
-qu dice ah? Si confesares con tu boca que Jess es el Seor, y creyeres en
+żqué dice ahí? “Si confesares con tu boca que Jesús es el Seńor, y creyeres en
 
-tu corazn que Dios le levant de los muertos, sers
+tu corazón que Dios le levantó de los muertos, serás
 
-salvo.
+salvo”.
 
-El que es justificado es salvado, pues si no, cul sera
+El que es justificado es salvado, pues si no, żcuál sería
 
-el beneficio de la justificacin? Sobre ti, oh creyente, Dios ha pronunciado el
+el beneficio de la justificación? Sobre ti, oh creyente, Dios ha pronunciado el
 
 veredicto de:
 
-salvado,
+“salvado”,
 
 y nadie lo
 
-revertir. Eres salvado del pecado y de la muerte y del infierno; eres salvado
+revertirá. Eres salvado del pecado y de la muerte y del infierno; eres salvado
 
-aun ahora con una salvacin presente; Quien nos salv y llam con llamamiento
+aun ahora con una salvación presente; “Quien nos salvó y llamó con llamamiento
 
-santo. Siente el embelesamiento por ello en esta hora. Amados, ahora somos
+santo”. Siente el embelesamiento por ello en esta hora. “Amados, ahora somos
 
-hijos de Dios.
+hijos de Dios”.
 
-Y ahora habr concluido
+Y ahora habré concluido
 
-una vez que haya dicho justo esto. Si alguien aqu presente piensa que puede
+una vez que haya dicho justo esto. Si alguien aquí presente piensa que puede
 
-salvarse a s mismo, y que su justicia propia le bastar delante de Dios, yo le
+salvarse a sí mismo, y que su justicia propia le bastará delante de Dios, yo le
 
-rogara encarecidamente que no insulte a su Salvador. Si tu justicia propia
+rogaría encarecidamente que no insulte a su Salvador. Si tu justicia propia
 
-basta, entonces por qu vino Cristo aqu para cumplir una? Comparars por un
+basta, entonces żpor qué vino Cristo aquí para cumplir una? żCompararás por un
 
-instante tu justicia con la justicia de Jesucristo? Qu semejanza hay entre t
+instante tu justicia con la justicia de Jesucristo? żQué semejanza hay entre tú
 
-y l? Tanta como la que hay entre una hormiga y un arcngel. Es ms, ni
+y Él? Tanta como la que hay entre una hormiga y un arcángel. Es más, ni
 
-siquiera como esa; tanta como la que hay entre la noche y el da, como la que
+siquiera como esa; tanta como la que hay entre la noche y el día, como la que
 
 hay entre el infierno y el cielo. Oh, aunque yo tuviera una justicia propia que
 
-nadie pudiera criticar, yo la desechara voluntariamente para tener la justicia
+nadie pudiera criticar, yo la desecharía voluntariamente para tener la justicia
 
 de Cristo, pero como no tengo ninguna justicia propia, en verdad me regocija
 
-ms tener la de mi Seor. Cuando el seor Whitefield predic por primera vez a
+más tener la de mi Seńor. Cuando el seńor Whitefield predicó por primera vez a
 
-los mineros del carbn en Kingswood, cerca de Bristol, poda ver cuando sus
+los mineros del carbón en Kingswood, cerca de Bristol, podía ver cuando sus
 
-corazones comenzaban a ser tocados gracias a las estras de color blanco que
+corazones comenzaban a ser tocados gracias a las estrías de color blanco que
 
-formaban las lgrimas al descender por sus negras mejillas. Vea que estaban
+formaban las lágrimas al descender por sus negras mejillas. Veía que estaban
 
-recibiendo el Evangelio, y escribi en su diario: como estos pobres mineros
+recibiendo el Evangelio, y escribió en su diario: “como estos pobres mineros
 
-del carbn no tenan ninguna justicia propia, se gloriaban en Aquel que vino a
+del carbón no tenían ninguna justicia propia, se gloriaban en Aquel que vino a
 
-salvar a los publicanos y a los pecadores. Bien, seor Whitefield, eso es
+salvar a los publicanos y a los pecadores”. Bien, seńor Whitefield, eso es
 
-vlido en cuanto a los mineros, pero es igualmente vlido en cuanto muchos de
+válido en cuanto a los mineros, pero es igualmente válido en cuanto muchos de
 
-nosotros aqu, que tal vez no tenamos negros nuestros rostros, pero tenamos
+nosotros aquí, que tal vez no teníamos negros nuestros rostros, pero teníamos
 
-negros los corazones. Podemos decir en verdad que tambin nos regocijamos al
+negros los corazones. Podemos decir en verdad que también nos regocijamos al
 
-desechar nuestra justicia propia y tenerla por escoria y estircol para ganar a
+desechar nuestra justicia propia y tenerla por escoria y estiércol para ganar a
 
-Cristo y ser hallados en l. En l est nuestra nica esperanza y nuestra nica
+Cristo y ser hallados en Él. En Él está nuestra única esperanza y nuestra única
 
 confianza.
 
-Por ltimo, si
+Por último, si
 
 cualquiera de ustedes rechaza la justicia de Cristo eso equivale a perecer
 
@@ -1134,91 +1134,91 @@ eternamente, porque no puede ser que Dios los acepte o que acepte su pretendida
 
 justicia si han rehusado la justicia real y divina que pone ante ustedes en Su
 
-Hijo. Si pudieras subir a las puertas del cielo y el ngel te dijera: Qu
+Hijo. Si pudieras subir a las puertas del cielo y el ángel te dijera: “żQué
 
-derecho tienes para entrar aqu?, y t le respondieras: yo tengo mi propia
+derecho tienes para entrar aquí?”, y tú le respondieras: “yo tengo mi propia
 
-justicia, entonces si fueras admitido eso implicara que tu justicia es igual
+justicia”, entonces si fueras admitido eso implicaría que tu justicia es igual
 
-a la del propio Emanuel. Puede suceder eso jams? Piensas que Dios va a
+a la del propio Emanuel. żPuede suceder eso jamás? żPiensas que Dios va a
 
-permitir alguna vez que sea sancionada una mentira tal? Dejar que una
+permitir alguna vez que sea sancionada una mentira tal? żDejará que una
 
-justicia falsa de un pobre pecador desgraciado pase como legtima lado a lado
+justicia falsa de un pobre pecador desgraciado pase como legítima lado a lado
 
-con el oro fino de la perfeccin de Cristo? Por qu fue llenada la fuente con
+con el oro fino de la perfección de Cristo? żPor qué fue llenada la fuente con
 
-sangre si no necesitas ser lavado? Acaso es Cristo una superfluidad? Oh, no
+sangre si no necesitas ser lavado? żAcaso es Cristo una superfluidad? Oh, no
 
-puede ser. Tienes que tener la justicia de Cristo o sers injusto, y siendo
+puede ser. Tienes que tener la justicia de Cristo o serás injusto, y siendo
 
-injusto no sers salvado, y no siendo salvado has de permanecer perdido por los
+injusto no serás salvado, y no siendo salvado has de permanecer perdido por los
 
 siglos de los siglos.
 
-Cmo! Acaso todo se
+ˇCómo! żAcaso todo se
 
-reduce a que debo creer en el Seor Jesucristo para justicia y debo ser hecho
+reduce a que debo creer en el Seńor Jesucristo para justicia y debo ser hecho
 
-justo por medio de la fe? S, as es: en eso consiste todo. Cmo; debo confiar
+justo por medio de la fe? Sí, así es: en eso consiste todo. żCómo; debo confiar
 
-nicamente en Cristo y entonces puedo vivir como yo quiera? No puedes vivir en
+únicamente en Cristo y entonces puedo vivir como yo quiera? No puedes vivir en
 
-pecado despus de haber confiado en Jess, pues el acto de fe conlleva un
+pecado después de haber confiado en Jesús, pues el acto de fe conlleva un
 
-cambio de naturaleza y una regeneracin de tu alma. El Espritu de Dios que te
+cambio de naturaleza y una regeneración de tu alma. El Espíritu de Dios que te
 
-conduce a creer, tambin cambiar tu corazn. Hablaste de vivir como se te
+conduce a creer, también cambiará tu corazón. Hablaste de “vivir como se te
 
-antoje, pero entonces querrs vivir de manera muy diferente a como lo haces
+antoje”, pero entonces querrás vivir de manera muy diferente a como lo haces
 
-ahora. Cuando creas, odiars las cosas que amabas antes de tu conversin y
+ahora. Cuando creas, odiarás las cosas que amabas antes de tu conversión y
 
-amars las cosas que odiabas. Ahora t ests tratando de ser bueno y
+amarás las cosas que odiabas. Ahora tú estás tratando de ser bueno y
 
-experimentas grandes fracasos porque tu corazn est alejado de Dios; pero una
+experimentas grandes fracasos porque tu corazón está alejado de Dios; pero una
 
-vez que hayas recibido la salvacin por medio de la sangre de Cristo, tu
+vez que hayas recibido la salvación por medio de la sangre de Cristo, tu
 
-corazn amar a Dios y entonces guardars Sus mandamientos que ya no sern onerosos
+corazón amará a Dios y entonces guardarás Sus mandamientos que ya no serán onerosos
 
-para ti. Lo que t necesitas es un cambio de corazn, y no lo tendrs nunca
+para ti. Lo que tú necesitas es un cambio de corazón, y no lo tendrás nunca
 
 excepto por medio del pacto de gracia. En el antiguo pacto no hay ni una sola
 
-palabra acerca de la conversin; para eso tenemos que mirar al nuevo pacto, y
+palabra acerca de la conversión; para eso tenemos que mirar al nuevo pacto, y
 
-esto es lo que dice: Esparcir sobre vosotros agua limpia, y seris limpiados
+esto es lo que dice: “Esparciré sobre vosotros agua limpia, y seréis limpiados
 
-de todas vuestras inmundicias; y de todos vuestros dolos os limpiar. Os dar
+de todas vuestras inmundicias; y de todos vuestros ídolos os limpiaré. Os daré
 
-corazn nuevo, y pondr espritu nuevo dentro de vosotros; y quitar de vuestra
+corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra
 
-carne el corazn de piedra, y os dar un corazn de carne. Y pondr dentro de
+carne el corazón de piedra, y os daré un corazón de carne. Y pondré dentro de
 
-vosotros mi Espritu, y har que andis en mis estatutos, y guardis mis
+vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis
 
-preceptos, y los pongis por obra. Esta es una de las ms grandes promesas del
+preceptos, y los pongáis por obra”. Esta es una de las más grandes promesas del
 
-pacto y el Espritu Santo la cumple en los escogidos. Oh, que el Seor los
+pacto y el Espíritu Santo la cumple en los escogidos. Oh, que el Seńor los
 
-persuada tiernamente a creer en el Seor Jesucristo y esa promesa y todos los
+persuada tiernamente a creer en el Seńor Jesucristo y esa promesa y todos los
 
-otros compromisos del pacto sern cumplidos en tu alma. Que el Seor los
+otros compromisos del pacto serán cumplidos en tu alma. ˇQue el Seńor los
 
-bendiga! Espritu de Dios, enva Tu bendicin sobre estas pobres palabras mas
+bendiga! Espíritu de Dios, envía Tu bendición sobre estas pobres palabras mías
 
-por nuestro Seor Jesucristo. Amn.
+por nuestro Seńor Jesucristo. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Romanos 10.
+del sermón: Romanos 10.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 28/Junio/2013
 

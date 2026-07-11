@@ -1,44 +1,44 @@
 # Sermón 1455 | Sermón 1455
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Necesidad
 
 de Todo Ser Humano
 
-UN SERMN PREDICADO POR
+UN SERMÓN PREDICADO POR
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Os es necesario nacer de nuevo. Juan 3: 7.
+“Os es necesario nacer de nuevo”. Juan 3: 7.
 
-Cuando los hombres estn
+Cuando los hombres están
 
-pereciendo en torno a uno, sera cruel
+pereciendo en torno a uno, sería cruel
 
 desperdiciar
 
 el
 
-tiempo tratando de interesar sus mentes o de alimentar sus fantasas. Tenemos
+tiempo tratando de interesar sus mentes o de alimentar sus fantasías. Tenemos
 
-que hacer algo ms prctico y atender con ms diligencia a sus necesidades
+que hacer algo más práctico y atender con más diligencia a sus necesidades
 
-urgentes. Los est matando el hambre? Entonces, dmosles alimentos. Los est
+urgentes. żLos está matando el hambre? Entonces, démosles alimentos. żLos está
 
-matando el fro? Entonces, proporcionmosles cobijas. Acaso es la enfermedad?
+matando el frío? Entonces, proporcionémosles cobijas. żAcaso es la enfermedad?
 
-Entonces, administrmosles medicinas. Cuando el caso es urgente hay que
+Entonces, administrémosles medicinas. Cuando el caso es urgente hay que
 
-limitarse a las cosas necesarias y atender de todo corazn lo que
+limitarse a las cosas necesarias y atender de todo corazón lo que
 
 debe
 
-recibir nuestra atencin. Lo que
+recibir nuestra atención. Lo que
 
 pudiera ser
 
@@ -50,15 +50,15 @@ exige nuestra inmediata
 
 respuesta. Ahora bien, las necesidades espirituales de los seres humanos son
 
-urgentes y entre ellas la ms apremiante es su regeneracin: es necesario que
+urgentes y entre ellas la más apremiante es su regeneración: es necesario que
 
-nazcan de nuevo, o estarn perdidos. Por tanto, nos vamos a dilatar en este
+nazcan de nuevo, o estarán perdidos. Por tanto, nos vamos a dilatar en este
 
-tpico en este momento y le vamos a dar toda nuestra consideracin, dejando que
+tópico en este momento y le vamos a dar toda nuestra consideración, dejando que
 
-otros asuntos interesantes esperen hasta que este importantsimo tema llegue a
+otros asuntos interesantes esperen hasta que este importantísimo tema llegue a
 
-su feliz conclusin. Esto es
+su feliz conclusión. Esto es
 
 algo
 
@@ -66,53 +66,53 @@ indispensable,
 
 y debemos insistirles al instante sobre este punto con todo
 
-nuestro corazn. Nuestro sincero deseo es que haya una recoleccin de almas
+nuestro corazón. Nuestro sincero deseo es que haya una recolección de almas
 
-para el granero de la salvacin, pero para que esto suceda es necesario que
+para el granero de la salvación, pero para que esto suceda es necesario que
 
 nazcan de nuevo. Hemos visto a muchos de ustedes revoloteando alrededor nuestro
 
-como pjaros alrededor del cazador, pero todava no han sido atrapados en la
+como pájaros alrededor del cazador, pero todavía no han sido atrapados en la
 
 red del Evangelio; este estado de cosas no puede dejarnos contentos; queremos
 
 ver que reciban a Cristo y que verdaderamente nazcan de nuevo. Ustedes han sido
 
-oyentes durante mucho tiempo, pero, ay, siguen siendo nicamente oidores y no hacedores
+oyentes durante mucho tiempo, pero, ay, siguen siendo únicamente oidores y no “hacedores
 
-de la palabra. Queremos decir que la culpa no ha de recaer sobre nosotros; si
+de la palabra”. Queremos decir que la culpa no ha de recaer sobre nosotros; si
 
-continan siendo inconversos no ser porque no hemos predicado el Evangelio. Nos
+continúan siendo inconversos no será porque no hemos predicado el Evangelio. Nos
 
-hemos mantenido predicndolo y lo hemos predicado como un asunto de vida o
+hemos mantenido predicándolo y lo hemos predicado como un asunto de vida o
 
-muerte. Entonces, tenemos por objetivo un punto especfico, un punto de
+muerte. Entonces, tenemos por objetivo un punto específico, un punto de
 
-absoluta necesidad: Os
+absoluta necesidad: “Os
 
 es necesario
 
 nacer
 
-de nuevo. Confiamos en que si una flecha no da en el blanco otra puede hacerlo;
+de nuevo”. Confiamos en que si una flecha no da en el blanco otra puede hacerlo;
 
-de todas formas, continuaremos apuntando a nuestro blanco: la conversin de sus
+de todas formas, continuaremos apuntando a nuestro blanco: la conversión de sus
 
-almas. Oh, que el Espritu Santo gue en esta hora la flecha hacia ti, que an
+almas. Oh, que el Espíritu Santo guíe en esta hora la flecha hacia ti, que aún
 
-no has sido llevado a conocer al Seor.
+no has sido llevado a conocer al Seńor.
 
 Y ahora vamos a tener
 
-una pequea y sencilla pltica acerca de la gran experiencia llamada
+una pequeńa y sencilla plática acerca de la gran experiencia llamada
 
-regeneracin -o el nuevo nacimiento- sin la cual nadie puede
+regeneración -o el nuevo nacimiento- sin la cual nadie puede
 
 ver
 
 el reino del cielo y mucho menos
 
-entrar en l.
+entrar en él.
 
 I.
 
@@ -120,17 +120,17 @@ Y
 
 vamos a comentar al respecto, en primer lugar, que el cambio que realiza en
 
-nosotros el nuevo nacimiento es SOBREMANERA COMPLETO: Os es necesario
+nosotros el nuevo nacimiento es SOBREMANERA COMPLETO: “Os es necesario
 
-nacer de nuevo.
+nacer de nuevo”.
 
 Un nuevo nacimiento es el
 
-proceso ms radical e integral concebible. Es, en efecto, algo ms que un
+proceso más radical e integral concebible. Es, en efecto, algo más que un
 
-cambio, es una creacin. La regeneracin es algo que va ms all de ser una
+cambio, es una creación. La regeneración es algo que va más allá de ser una
 
-reforma de vida o de tener una religin apropiada, pues no dice: os es
+reforma de vida o de tener una religión apropiada, pues no dice: “os es
 
 necesario ser
 
@@ -138,129 +138,129 @@ lavados,
 
 os es
 
-necesario ser mejorados, os es necesario ser elevados; sino que dice: os es
+necesario ser mejorados, os es necesario ser elevados”; sino que dice: “os es
 
 necesario
 
-nacer.
+nacer”.
 
 No basta con que la
 
 vida presente, tal como se posee, sea renovada, ni que la naturaleza existente
 
-reciba un vigor renovado y una nueva tendencia, sino que os es necesario
+reciba un vigor renovado y una nueva tendencia, sino que “os es necesario
 
-nacer de nuevo:
+nacer de nuevo”:
 
 tiene que recibirse una
 
-vida nueva y ninguna mejora de la vida presente ocupar su lugar.
+vida nueva y ninguna mejora de la vida presente ocupará su lugar.
 
-Es tambin mucho ms que
+Es también mucho más que
 
-algn cambio de opinin. Siempre he tenido miedo de aquellas personas que se
+algún cambio de opinión. Siempre he tenido miedo de aquellas personas que se
 
-gloran cuando son convertidas de un conjunto de opiniones religiosas a otro.
+glorían cuando son convertidas de un conjunto de opiniones religiosas a otro.
 
 Los mejores convertidos que se integran a una iglesia son aquellos que llegan
 
 directamente del mundo: los que migran de otras secciones del cristianismo no
 
-son a menudo las adquisiciones ms valiosas. Algunas veces, tal como los convictos
+son a menudo las adquisiciones más valiosas. Algunas veces, tal como los convictos
 
-que abandonan su pas por el bien del mismo, benefician ms a su grupo
+que abandonan su país por el bien del mismo, benefician más a su grupo
 
-abandonndolo que mostrndose ante la seccin recin adoptada de la iglesia
+abandonándolo que mostrándose ante la sección recién adoptada de la iglesia
 
-como una ganancia pura. El texto no dice: Han de cambiar sus opiniones y
+como una ganancia pura. El texto no dice: “Han de cambiar sus opiniones y
 
-absorber nuevos conceptos, sino que dice: Os es necesario tener una nueva
+absorber nuevos conceptos”, sino que dice: “Os es necesario tener una nueva
 
-naturaleza; os es necesario nacer de nuevo. Los conceptos pueden ser modificados
+naturaleza; os es necesario nacer de nuevo”. Los conceptos pueden ser modificados
 
-una y otra vez y, con todo, el hombre pudiera no estar ms cerca de convertirse
+una y otra vez y, con todo, el hombre pudiera no estar más cerca de convertirse
 
-en un hijo de Dios; pero si el Espritu Santo cambia la naturaleza, entonces se
+en un hijo de Dios; pero si el Espíritu Santo cambia la naturaleza, entonces se
 
 realiza el nuevo nacimiento. Esto, y nada que no llegue a esto, es lo que puede
 
 depositar a un hombre en el cielo; tiene que convertirse en una nueva criatura
 
-en Cristo Jess. El proceso del nuevo nacimiento es tan completo que es
+en Cristo Jesús. El proceso del nuevo nacimiento es tan completo que es
 
-muchsimo ms que una modificacin de la forma de pensar de un individuo, aunque
+muchísimo más que una modificación de la forma de pensar de un individuo, aunque
 
-fuera sobre el mejor de los tpicos. Un hombre puede considerar ahora que su
+fuera sobre el mejor de los tópicos. Un hombre puede considerar ahora que su
 
 deber es ser religioso cuando antes era un libertino; puede concebir ahora que su
 
 deber es ser sobrio cuando antes era un borracho; puede sentir que es su deber
 
-ahora ser diligente cuando antes era un holgazn; pero todas estas cosas
+ahora ser diligente cuando antes era un holgazán; pero todas estas cosas
 
-tomadas en su conjunto no equivaldran a un nuevo nacimiento. Nos regocijamos
+tomadas en su conjunto no equivaldrían a un nuevo nacimiento. Nos regocijamos
 
 con una reforma del tipo que sea. Mientras menos pecado haya en el mundo mejor,
 
-pero, a pesar de todo eso, no se habra alcanzado el punto vital por medio de
+pero, a pesar de todo eso, no se habría alcanzado el punto vital por medio de
 
 todas las alteraciones del pensamiento, y aun de la vida, de las que fuera
 
-capaz el hombre; pues el texto sigue vigente despus de todas las renovaciones,
+capaz el hombre; pues el texto sigue vigente después de todas las renovaciones,
 
 conversiones y reformas que son posibles para la carne y la sangre, desprovistas
 
-de ayuda, y clama con voz severa e inalterable: Os es necesario nacer de
+de ayuda, y clama con voz severa e inalterable: “Os es necesario nacer de
 
-nuevo.
+nuevo”.
 
-La persona en cuestin
+La persona en cuestión
 
-puede haber pasado a travs de una larga serie de ceremonias. Pudiera haber
+puede haber pasado a través de una larga serie de ceremonias. Pudiera haber
 
-recibido una clida bienvenida en una as llamada iglesia, y de las manos de
+recibido una cálida bienvenida en una así llamada iglesia, y de las manos de
 
-quienes se consideran sacerdotes all pudiera haber destilado la impostura
+quienes se consideran sacerdotes allí pudiera haber destilado la impostura
 
 acuosa (el agua bendita) que se dice que regenera el alma; pero se necesita
 
-algo ms que los sacerdotes no pueden transmitir y que el agua no puede
+algo más que los sacerdotes no pueden transmitir y que el agua no puede
 
-efectuar. Nuestro Seor Jesucristo se refera a algo muy diferente al
+efectuar. Nuestro Seńor Jesucristo se refería a algo muy diferente al
 
-abracadabra de una forma vaca cuando dijo: Os es necesario nacer de nuevo.
+abracadabra de una forma vacía cuando dijo: “Os es necesario nacer de nuevo”.
 
 Yo digo en presencia de todos los que han sido bautizados en la infancia, y de
 
 todos los que han sido bautizados en la edad adulta sin ser creyentes: a ustedes,
 
-s, a ustedes, infieles bautizados, les digo:
+sí, a ustedes, infieles bautizados, les digo:
 
-Os
+“Os
 
-es necesario nacer de nuevo. Si han sido bautizados o
+es necesario nacer de nuevo”. Si han sido bautizados o
 
-rebautizados pero son todava incrdulos y no tienen al Espritu de Dios en sus
+rebautizados pero son todavía incrédulos y no tienen al Espíritu de Dios en sus
 
 almas,
 
-Os
+“Os
 
 es necesario nacer de
 
-nuevo.
+nuevo”.
 
-Qu quiere decir todo
+żQué quiere decir todo
 
-eso? Y cul es el significado de este cambio tan completo? Acaso las palabras
+eso? żY cuál es el significado de este cambio tan completo? żAcaso las palabras
 
 no quieren decir evidentemente que debe generarse en nosotros
 
 una nueva naturaleza?
 
-En relacin a la
+En relación a la
 
-vida, una naturaleza es el producto de un nacimiento. Una vida que no exista
+vida, una naturaleza es el producto de un nacimiento. Una vida que no existía
 
 antes viene al mundo en el nacimiento.
 
@@ -270,29 +270,29 @@ nueva vida
 
 tiene que ser implantada en nosotros
 
-para la que somos unos perfectos extraos por naturaleza; es algo
+para la que somos unos perfectos extrańos por naturaleza; es algo
 
-que est mucho ms all de lo que nos pertenece al nacer segn la carne; es una
+que está mucho más allá de lo que nos pertenece al nacer según la carne; es una
 
 vida que no estaba latente en el infante y que no puede ser desarrollada
 
-gradualmente en la educacin del nio, sino que es una vida que est
+gradualmente en la educación del nińo, sino que es una vida que está
 
-completamente ausente hasta que la gracia divina la implanta all. Os es
+completamente ausente hasta que la gracia divina la implanta allí. “Os es
 
-necesario nacer de nuevo, tienen que ser creados nuevamente, o como lo dice
+necesario nacer de nuevo”, tienen que ser creados nuevamente, o como lo dice
 
 la Escritura
 
-: Renacidos
+: “Renacidos
 
-para una esperanza viva. La vida en su interior tiene que ser una creacin tan
+para una esperanza viva”. La vida en su interior tiene que ser una creación tan
 
-nueva como lo fue la luz cuando Dios la gener con Su palabra, o como lo fue el
+nueva como lo fue la luz cuando Dios la generó con Su palabra, o como lo fue el
 
-mundo cuando Dios lo form de la nada. Tiene que realizarse en ustedes una obra
+mundo cuando Dios lo formó de la nada. Tiene que realizarse en ustedes una obra
 
-del poder divino igual a la que resucit al Seor Jess de los muertos y le dio
+del poder divino igual a la que resucitó al Seńor Jesús de los muertos y le dio
 
 gloria.
 
@@ -302,27 +302,27 @@ nacimiento ordinario, con una nueva vida comienza
 
 una nueva experiencia.
 
-Para el nio recin nacido todo es nuevo.
+Para el nińo recién nacido todo es nuevo.
 
-Cada dolor, cada sensacin de placer, todo eso es una novedad para l; no ha
+Cada dolor, cada sensación de placer, todo eso es una novedad para él; no ha
 
-conocido antes nada de todo eso. Y aunque cuando nacemos de nuevo pudiramos
+conocido antes nada de todo eso. Y aunque cuando nacemos de nuevo pudiéramos
 
 haber alcanzado ya la madurez, o incluso la ancianidad, la vida espiritual es
 
-toda una nueva experiencia. Hay nuevos sentimientos de contricin, hay una
+toda una nueva experiencia. Hay nuevos sentimientos de contrición, hay una
 
-nueva fe, hay un nuevo gozo, una nueva esperanza, todo es nuevo: Las cosas
+nueva fe, hay un nuevo gozo, una nueva esperanza, todo es nuevo: “Las cosas
 
-viejas pasaron; he aqu todas son hechas nuevas. Aunque el hombre pudiera
+viejas pasaron; he aquí todas son hechas nuevas”. Aunque el hombre pudiera
 
 haber recorrido muchos caminos y experimentado muchas sensaciones, en el
 
-instante en que nace de nuevo es un extrao en una tierra extraa, y es conducido
+instante en que nace de nuevo es un extrańo en una tierra extrańa, y es conducido
 
-en un camino que no conoce y en sendas que no ha visto. Todas las almas jvenes
+en un camino que no conoce y en sendas que no ha visto. Todas las almas jóvenes
 
-recin nacidas para Dios, por viejas que pudieran ser en cuanto al conteo
+recién nacidas para Dios, por viejas que pudieran ser en cuanto al conteo
 
 corporal, se regocijan en la sagrada novedad de la nueva vida, y le dan gracias
 
@@ -332,133 +332,133 @@ vivificado a una vida nueva.
 
 Ahora bien, como hay una
 
-vida nueva y una nueva naturaleza y una nueva experiencia, as tambin hay
+vida nueva y una nueva naturaleza y una nueva experiencia, así también hay
 
-tanto para el nio que ha nacido como para el hombre que ha sido regenerado
+tanto para el nińo que ha nacido como para el hombre que ha sido regenerado
 
 un mundo nuevo.
 
 Todo es nuevo para el
 
-nio: sus hermanos y hermanas le asombran. Cuando sale al aire libre y
+nińo: sus hermanos y hermanas le asombran. Cuando sale al aire libre y
 
 contempla los verdes campos por primera vez, se queda maravillado. Para el
 
-pequeito todo es nuevo. Vive como en un museo pues est rodeado de maravillas.
+pequeńito todo es nuevo. Vive como en un museo pues está rodeado de maravillas.
 
 Aun los juguetes que los adultos miran con tanto desprecio, son grandes
 
-maravillas para el pequeito; est encantado con todos ellos. De igual manera
+maravillas para el pequeńito; está encantado con todos ellos. De igual manera
 
 un cristiano, un hombre que ha renacido, vive en un mundo nuevo. Todo es nuevo
 
-para l ahora, tal como recuerdo haber odo que dijo una jovencita cuando
+para él ahora, tal como recuerdo haber oído que dijo una jovencita cuando
 
-encontr por primera vez al Salvador. Cuando vino para confesar su fe en Cristo
+encontró por primera vez al Salvador. Cuando vino para confesar su fe en Cristo
 
-dijo: O yo estoy completamente cambiada o el mundo lo est; y no pude evitar
+dijo: “O yo estoy completamente cambiada o el mundo lo está”; y no pude evitar
 
-decirle que yo esperaba que ambas opciones fueran vlidas: yo esperaba que ella
+decirle que yo esperaba que ambas opciones fueran válidas: yo esperaba que ella
 
 misma hubiera cambiado, y que este cambio hubiera producido el otro, de manera
 
-que todas las cosas se haban vuelto nuevas. Hay un nuevo cielo y una nueva
+que todas las cosas se habían vuelto nuevas. Hay un nuevo cielo y una nueva
 
 tierra reservados para nosotros muy pronto, y aun ahora, mientras estamos en
 
-este mundo, ya no es ms para nosotros lo que es para el hombre carnal. Para
+este mundo, ya no es más para nosotros lo que es para el hombre carnal. Para
 
-quien ha nacido dos veces el mundo est al revs. Las cosas que una vez amamos
+quien ha nacido dos veces el mundo está al revés. Las cosas que una vez amamos
 
-dejan de interesarnos y las cosas que ambicionbamos las consideramos ahora
+dejan de interesarnos y las cosas que ambicionábamos las consideramos ahora
 
 como escoria, mientras que las cosas que eran despreciables se han convertido
 
-para nosotros en objetos de suprema atencin. Nuestros puntos de vista sobre
+para nosotros en objetos de suprema atención. Nuestros puntos de vista sobre
 
-todo lo que nos rodea son enteramente diferentes porque el Espritu Santo nos
+todo lo que nos rodea son enteramente diferentes porque el Espíritu Santo nos
 
-ha cambiado. Esa tiene que ser tu experiencia, querido oyente, o vivirs como
+ha cambiado. Esa tiene que ser tu experiencia, querido oyente, o vivirás como
 
-los hombres carnales y morirs en tus pecados.
+los hombres carnales y morirás en tus pecados.
 
 Tienes
 
-que experimentar esta creacin divina, sin importar quin
+que experimentar esta creación divina, sin importar quién
 
-seas; no puede haber ninguna excepcin, tienes que conocer este gran cambio o
+seas; no puede haber ninguna excepción, tienes que conocer este gran cambio o
 
-estars perdido. Pudieras haber sido mecido en el regazo de la piedad; el nombre
+estarás perdido. Pudieras haber sido mecido en el regazo de la piedad; el nombre
 
-de Jess pudiera haberse mezclado con el sosiego de la primera cancin de cuna;
+de Jesús pudiera haberse mezclado con el sosiego de la primera canción de cuna;
 
-tal vez no oyeras al principio casi ninguna msica excepto la de himnos
+tal vez no oyeras al principio casi ninguna música excepto la de himnos
 
-sagrados; pudieras haber recibido una enseanza de moralidad y santidad
+sagrados; pudieras haber recibido una enseńanza de moralidad y santidad
 
 mediante el ejemplo de muchas generaciones de antepasados; pero, seas quien
 
 seas, o hagas lo que hagas, tienes que recibir una vida nueva, tienes que pasar
 
-a travs de una nueva experiencia y tienes que vivir en un mundo nuevo o
+a través de una nueva experiencia y tienes que vivir en un mundo nuevo o
 
-estars perdido. Tienes que vivir en el mundo espiritual donde todo es nuevo;
+estarás perdido. Tienes que vivir en el mundo espiritual donde todo es nuevo;
 
-tienes que tener una conversacin con Dios, algo desconocido para ti hasta
+tienes que tener una conversación con Dios, algo desconocido para ti hasta
 
-ahora; tienes que conversar con Su Hijo, para quien has sido un extrao; tienes
+ahora; tienes que conversar con Su Hijo, para quien has sido un extrańo; tienes
 
-que sentir el poder y la energa del Espritu obrando en ti, un asunto que no
+que sentir el poder y la energía del Espíritu obrando en ti, un asunto que no
 
 has conocido hasta ahora, o no hay esperanza para ti.
 
 Noten que cada
 
-nacimiento pone en operacin
+nacimiento pone en operación
 
 una nueva
 
 fuerza.
 
-Nace un nuevo trabajador; l es dbil todava, pero esos piececitos
+Nace un nuevo trabajador; él es débil todavía, pero esos piececitos
 
-sern fuertes para correr, y esas diminutas manos se volvern diestras en algn
+serán fuertes para correr, y esas diminutas manos se volverán diestras en algún
 
-oficio til. Y as, cuando un alma nace para Dios siente un nuevo poder en su
+oficio útil. Y así, cuando un alma nace para Dios siente un nuevo poder en su
 
 interior, y ella misma se convierte en una nueva fuerza. Obedece a un poder que
 
-nunca antes conoci, y se vale de una fuerza que no hubiera podido ejercitar
+nunca antes conoció, y se vale de una fuerza que no hubiera podido ejercitar
 
-antes y que ni siquiera entenda. Un nuevo poder llega entre los hombres cuando
+antes y que ni siquiera entendía. Un nuevo poder llega entre los hombres cuando
 
-otra alma nace para Dios: el mundo espiritual es ms fuerte y el mundo carnal
+otra alma nace para Dios: el mundo espiritual es más fuerte y el mundo carnal
 
-es tanto ms dbil por el nacimiento de otro hombre espiritual.
+es tanto más débil por el nacimiento de otro hombre espiritual.
 
-Yo no s cmo expresar
+Yo no sé cómo expresar
 
-el asunto de mejor manera pero creo que les he mostrado que la regeneracin es
+el asunto de mejor manera pero creo que les he mostrado que la regeneración es
 
-un cambio sumamente integral. Nacer de nuevo no es ningn juego de nios. No
+un cambio sumamente integral. Nacer de nuevo no es ningún juego de nińos. No
 
-basta que un hombre se levante influenciado por la predicacin de un sermn y
+basta que un hombre se levante influenciado por la predicación de un sermón y
 
-diga: El sermn me ha impresionado y me ha conmovido, y yo creo que he sido
+diga: “El sermón me ha impresionado y me ha conmovido, y yo creo que he sido
 
-convertido. Hay una vasta diferencia entre decir: he nacido de nuevo y
+convertido”. Hay una vasta diferencia entre decir: “he nacido de nuevo” y
 
-realmente experimentar el nacimiento celestial. No bastar con hacer una
+realmente experimentar el nacimiento celestial. No bastará con hacer una
 
-profesin y ni siquiera con mantenerla honrosamente durante aos, pues, ay,
+profesión y ni siquiera con mantenerla honrosamente durante ańos, pues, ay,
 
-algunos casi han parecido apstoles, y con todo, han sido por completo hijos de
+algunos casi han parecido apóstoles, y con todo, han sido por completo hijos de
 
-perdicin. Tienes que llegar a conocer vitalmente en tu propia alma, de hecho y
+perdición. Tienes que llegar a conocer vitalmente en tu propia alma, de hecho y
 
-en verdad, en qu consiste que la carne sea crucificada con Cristo y que una
+en verdad, en qué consiste que la carne sea crucificada con Cristo y que una
 
-nueva vida sea implantada en ti sobrenaturalmente por obra del Espritu Santo,
+nueva vida sea implantada en ti sobrenaturalmente por obra del Espíritu Santo,
 
 o de lo contrario no puedes entrar en el reino de Dios. La obra es radical,
 
@@ -476,63 +476,63 @@ su
 
 manera.
 
-No es fcil predicar sobre este texto e intentar ir a los detalles
+No es fácil predicar sobre este texto e intentar ir a los detalles
 
-minuciosamente, pues, si lo hiciramos, podramos aventurarnos a ir demasiado
+minuciosamente, pues, si lo hiciéramos, podríamos aventurarnos a ir demasiado
 
-lejos. He ledo tratados sobre el tema que eran en extremo carentes de
+lejos. He leído tratados sobre el tema que eran en extremo carentes de
 
-delicadeza y que estaban calculados para producir aversin ms bien que para
+delicadeza y que estaban calculados para producir aversión más bien que para
 
 impresionar. Nosotros no husmeamos y no debemos husmear en un secreto divino.
 
-El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dnde
+“El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde
 
-viene, ni a dnde va; as es todo aquel que es nacido del Espritu. Quin
+viene, ni a dónde va; así es todo aquel que es nacido del Espíritu”. żQuién
 
-podra saber cmo obra el Espritu Santo? Sabemos que obra por medio de la
+podría saber cómo obra el Espíritu Santo? Sabemos que obra por medio de la
 
 palabra de Dios, que bendice la verdad que se lee en un libro o que se escucha
 
-del ministro: esto sabemos, pero cmo es que penetra en el corazn, cmo es que
+del ministro: esto sabemos, pero cómo es que penetra en el corazón, cómo es que
 
-crea un espritu en nuestro interior, cmo engendra en nosotros la vida
+crea un espíritu en nuestro interior, cómo engendra en nosotros la vida
 
-espiritual, quin podra decirlo sino nicamente Dios? Pero por otra parte no
+espiritual, żquién podría decirlo sino únicamente Dios? Pero por otra parte no
 
 queremos saberlo; nos basta con que se nos asegure el hecho; no queremos
 
-husmear en cuanto a la manera. La comunin ntima de Jehov es con los que le
+husmear en cuanto a la manera. “La comunión íntima de Jehová es con los que le
 
-temen; ellos conocen en la prctica lo que es nacer de nuevo, pero ellos
+temen”; ellos conocen en la práctica lo que es nacer de nuevo, pero ellos
 
-mismos no podran explicar cmo es que sopla el viento sagrado, ni cmo opera
+mismos no podrían explicar cómo es que sopla el viento sagrado, ni cómo opera
 
-el Espritu en el corazn humano. Ha habido muchas discusiones con respecto a
+el Espíritu en el corazón humano. Ha habido muchas discusiones con respecto a
 
-si el Espritu de Dios, por decirlo as, entra en contacto directamente con la
+si el Espíritu de Dios, por decirlo así, entra en contacto directamente con la
 
 naturaleza del hombre, o si obra siempre en y por la verdad y el pensamiento,
 
-etctera. No es necesario que nos adentremos en todo esto. Preferimos admirar,
+etcétera. No es necesario que nos adentremos en todo esto. Preferimos admirar,
 
 quedarnos asombrados y adorar, pues esto es mejor que comprender simplemente,
 
 ya que un hombre puede entender todos los misterios y, sin embargo, ser como
 
-metal que resuena, o cmbalo que retie.
+metal que resuena, o címbalo que retińe.
 
 Es un misterio en cuanto
 
-al carcter sobrenatural de la operacin,
+al carácter sobrenatural de la operación,
 
-pues invariablemente la verdadera regeneracin es siempre sobrenatural. No
+pues invariablemente la verdadera regeneración es siempre sobrenatural. No
 
-hay duda de que la persuasin moral hace mucho por los hombres, de que la
+hay duda de que la persuasión moral hace mucho por los hombres, de que la
 
-influencia de las relaciones a menudo mejora las costumbres y los hbitos de
+influencia de las relaciones a menudo mejora las costumbres y los hábitos de
 
-los hombres, de que la educacin puede producir grandes resultados
+los hombres, de que la educación puede producir grandes resultados
 
 especialmente si es del tipo correcto; y no hay duda de que en la humanidad puede
 
@@ -542,23 +542,23 @@ nombre. Pero esto no es para nada pertinente, pues no es lo que nuestro
 
 Salvador quiso decir; es insuficiente para el nuevo nacimiento, y es en verdad
 
-algo completamente diferente. El Espritu Santo, la tercera persona en la
+algo completamente diferente. El Espíritu Santo, la tercera persona en la
 
 bendita Trinidad tiene que venir para obrar en nosotros de la misma manera que
 
-Dios obr en la creacin de este mundo, o de lo contrario no nacemos de nuevo.
+Dios obró en la creación de este mundo, o de lo contrario no nacemos de nuevo.
 
-No es suficiente que por nosotros mismos y en la energa de nuestra vieja
+No es suficiente que por nosotros mismos y en la energía de nuestra vieja
 
-naturaleza comencemos a orar, a arrepentirnos, y as sucesivamente, pues todo
+naturaleza comencemos a orar, a arrepentirnos, y así sucesivamente, pues todo
 
-lo que provenga de nuestra carne seguir siendo carne; pero en la regeneracin,
+lo que provenga de nuestra carne seguirá siendo carne; pero en la regeneración,
 
-quien empieza por infundir la vida es el Espritu y por eso la nueva naturaleza
+quien empieza por infundir la vida es el Espíritu y por eso la nueva naturaleza
 
-comienza a orar y a arrepentirse. Lo que es nacido del Espritu, espritu es, y
+comienza a orar y a arrepentirse. Lo que es nacido del Espíritu, espíritu es, y
 
-de aqu que el nuevo nacimiento deba ser una operacin espiritual para producir
+de aquí que el nuevo nacimiento deba ser una operación espiritual para producir
 
 esa naturaleza espiritual sin la cual no podemos ni ver ni entrar en las cosas
 
@@ -566,139 +566,139 @@ de Dios. Este es un asunto solemne para ti, querido oyente, si es que
 
 simplemente has asistido a los medios de la gracia y has sido un amante de las
 
-formas externas de la religin. Quiero decirte que tienes que experimentar un
+formas externas de la religión. żQuiero decirte que tienes que experimentar un
 
-cambio que est ms all de tu propio campo de accin, que ni todos los hombres
+cambio que está más allá de tu propio campo de acción, que ni todos los hombres
 
-en este mundo ni todos los ngeles en el cielo podran obrar en ti, sino que el
+en este mundo ni todos los ángeles en el cielo podrían obrar en ti, sino que el
 
 propio Dios tiene que realizar? En efecto quiero decirte eso: no quiero decirte
 
-nada menos que eso. He de entender preguntas t- que una gran fuerza tiene
+nada menos que eso. “żHe de entender –preguntas tú- “que una gran fuerza tiene
 
-que obrar en m tanto como lo hizo en mi creacin? Quiero decir todo eso, y
+que obrar en mí tanto como lo hizo en mi creación?” Quiero decir todo eso, y
 
-que se necesita tanto poder para hacer que nazcas de nuevo como se necesit
+que se necesita tanto poder para hacer que nazcas de nuevo como se necesitó
 
-para crear un mundo; s, y que se necesita en toda su plenitud el mismo poder
+para crear un mundo; sí, y que se necesita en toda su plenitud el mismo poder
 
-que resucit a Jesucristo de los muertos despus que hubo dormido tres das en
+que resucitó a Jesucristo de los muertos después que hubo dormido tres días en
 
 el sepulcro para resucitarte de tu muerte del pecado y tiene que activarse si
 
-es que has de ser resucitado alguna vez. Es algo maravilloso que el Espritu de
+es que has de ser resucitado alguna vez. Es algo maravilloso que el Espíritu de
 
 Dios condescienda a realizar esta obra y que Dios se involucre en la obra una
 
 segunda vez. Es sorprendente que cuando la vasija estaba estropeada y arruinada
 
-sobre la rueda, en vez de quebrarla y consignarla a la destruccin, empleara de
+sobre la rueda, en vez de quebrarla y consignarla a la destrucción, empleara de
 
-nuevo todo Su poder y le diera forma a la arcilla segn Su propio modelo. l se
+nuevo todo Su poder y le diera forma a la arcilla según Su propio modelo. Él se
 
 digna hacer que nazcamos dos veces, que seamos recreados, engendrados de nuevo,
 
-para que al final llevemos la imagen de Jess, el primognito entre muchos
+para que al final llevemos la imagen de Jesús, el primogénito entre muchos
 
-hermanos. Os es necesario nacer de nuevo: el infinito Jehov tiene que
+hermanos. “Os es necesario nacer de nuevo”: el infinito Jehová tiene que
 
 dignarse a ser nuestro Creador una segunda vez o nosotros tenemos que perecer
 
 irremediablemente. Esta obra es maravillosa debido a
 
-la grandeza de la relacin a la que nos introduce.
+la grandeza de la relación a la que nos introduce.
 
-El nio que nace
+El nińo que nace
 
 tiene un padre por el mero hecho de su nacimiento, y los que nacemos de lo alto
 
-clamamos: Abba, Padre, por el simple hecho de que somos regenerados. La
+clamamos: “Abba, Padre”, por el simple hecho de que somos regenerados. La
 
-adopcin nos da los
+adopción nos da los
 
 derechos
 
 de
 
-hijos, pero nicamente la regeneracin nos da la
+hijos, pero únicamente la regeneración nos da la
 
 naturaleza
 
-de hijos. Como somos hijos, Dios enva el Espritu de Su
+de hijos. Como somos hijos, Dios envía el Espíritu de Su
 
-Hijo a nuestros corazones por el cual clamamos: Abba, Padre. Si he nacido de
+Hijo a nuestros corazones por el cual clamamos: “Abba, Padre”. Si he nacido de
 
-nuevo, sin importar cul sea mi condicin en la vida o mi posicin en la sociedad,
+nuevo, sin importar cuál sea mi condición en la vida o mi posición en la sociedad,
 
 entonces Dios es mi Padre, y se sigue que Jesucristo es mi hermano; y esto no es
 
-meramente algo formal y nominal, tal como los hombres se llaman entre s
+meramente algo formal y nominal, tal como los hombres se llaman entre sí
 
-hermanos cuando no hay una relacin real, sino que hay una relacin real entre
+hermanos cuando no hay una relación real, sino que hay una relación real entre
 
-nosotros y Cristo Jess y el Padre divino, pues somos hechos participantes de
+nosotros y Cristo Jesús y el Padre divino, pues somos hechos “participantes de
 
-la naturaleza divina. Nosotros somos hijos de Dios, y si hijos de Dios,
+la naturaleza divina”. Nosotros somos hijos de Dios, y si hijos de Dios,
 
-entonces somos hermanos de Cristo. Debe ser as, y se sigue de esto que, si
+entonces somos hermanos de Cristo. Debe ser así, y se sigue de esto que, si
 
 somos hijos, entonces somos herederos, y si Cristo es el heredero, nosotros
 
-somos coherederos con l. Hermanos mos, qu privilegios emanan de la relacin
+somos coherederos con Él. Hermanos míos, qué privilegios emanan de la relación
 
 que surge del nuevo nacimiento pues entonces nuestro Padre se compromete a
 
 apoyarnos, a consolarnos, a educarnos, y a todo lo que sea necesario para
 
-nuestra perfeccin en el da de nuestro regreso a casa cuando le veremos cara a
+nuestra perfección en el día de nuestro regreso a casa cuando le veremos cara a
 
-cara. Qu puede pasarle a un hombre que sea tan grande como nacer de nuevo?
+cara. żQué puede pasarle a un hombre que sea tan grande como nacer de nuevo?
 
-Supongan que algunos de los ms pobres de la tierra que han barrido las calles
+Supongan que algunos de los más pobres de la tierra que han barrido las calles
 
-por una suma ridcula y mezquina de dinero fueran elevados sbitamente por un
+por una suma ridícula y mezquina de dinero fueran elevados súbitamente por un
 
-favor real a ser pares del reino, o imaginen que por alguna revolucin de la
+favor real a ser pares del reino, o imaginen que por alguna revolución de la
 
-rueda de la providencia se convirtieran en emperadores y reyes; con todo, qu
+rueda de la providencia se convirtieran en emperadores y reyes; con todo, żqué
 
-hay con eso? El cambio sera extraordinario y provocara el asombro de los
+hay con eso? El cambio sería extraordinario y provocaría el asombro de los
 
-hombres pues los pasajes de la historia que han sido considerados los ms
+hombres pues los pasajes de la historia que han sido considerados los más
 
 dignos de tomarse en cuenta han sido aquellos en los que los indigentes han
 
 ascendido del muladar al trono, y en los que los pescadores han arrojado a un
 
-lado sus speras ropas para cubrirse con la prpura imperial. Pero estas
+lado sus ásperas ropas para cubrirse con la púrpura imperial. Pero estas
 
 zancadas de la nada a la grandeza son insignificantes y triviales comparadas
 
-con el cambio de pasar de ser un esclavo de Satans a convertirse en un hijo de
+con el cambio de pasar de ser un esclavo de Satanás a convertirse en un hijo de
 
-Dios. Ser promovidos por Dios mismo desde la oscuridad, la degradacin y la
+Dios. Ser promovidos por Dios mismo desde la oscuridad, la degradación y la
 
-esclavitud bajo las cuales somos colocados por la cada y por el pecado real
+esclavitud bajo las cuales somos colocados por la caída y por el pecado real
 
 hasta llegar a la libertad, a la gloria y a la bienaventuranza eterna de los
 
-hijos de Dios: esto sobrepasa toda concepcin. Esto slo puede ser nuestro
+hijos de Dios: esto sobrepasa toda concepción. Esto sólo puede ser nuestro
 
 debido a que nacemos de nuevo. Nuestro primer nacimiento nos hace hijos de
 
-Adn; nuestro segundo nacimiento nos hace hijos de Dios. Al nacer de la carne
+Adán; nuestro segundo nacimiento nos hace hijos de Dios. Al nacer de la carne
 
-heredamos la corrupcin; debemos nacer de nuevo por el Espritu para heredar la
+heredamos la corrupción; debemos nacer de nuevo por el Espíritu para heredar la
 
-incorrupcin. Venimos a este mundo como herederos del dolor porque somos hijos
+incorrupción. Venimos a este mundo como herederos del dolor porque somos hijos
 
-del hombre cado; nuestra nueva vida entra en el nuevo mundo siendo heredera de
+del hombre caído; nuestra nueva vida entra en el nuevo mundo siendo heredera de
 
-la gloria porque desciende del segundo Hombre, del Seor del cielo. De esta
+la gloria porque desciende del segundo Hombre, del Seńor del cielo. De esta
 
-manera he hablado sobre el carcter maravilloso de esta obra, as como tambin
+manera he hablado sobre el carácter maravilloso de esta obra, así como también
 
-sobre cun completa es.
+sobre cuán completa es.
 
 III.
 
@@ -710,13 +710,13 @@ es el nuevo nacimiento, es SUMAMENTE MANIFIESTO. El hogar sabe cuando ha nacido
 
 un hijo. Hay misterios que rodean su nacimiento, pero el hecho es lo
 
-suficientemente evidente. Pronto habrn de or su llanto en el aposento
+suficientemente evidente. Pronto habrán de oír su llanto en el aposento
 
-destinado al nio, y en breve sus balbuceos en la sala; vern el gozo de los
+destinado al nińo, y en breve sus balbuceos en la sala; verán el gozo de los
 
-padres cuando abrazan a su vstago, y el cuidado con el que velan por su bien.
+padres cuando abrazan a su vástago, y el cuidado con el que velan por su bien.
 
-As tambin en el nuevo nacimiento no sabemos cmo obra el Espritu pero
+Así también en el nuevo nacimiento no sabemos cómo obra el Espíritu pero
 
 sabemos que obra en efecto, y pronto vemos que un cambio maravilloso les ha
 
@@ -726,75 +726,75 @@ criaturas de la nueva vida. Los que conocen mejor a las personas convertidas se
 
 cuentan entre los primeros en percibir el milagro transformador de la gracia.
 
-No creen ustedes que Elstow supo cuando John Bunyan haba encontrado al Salvador?
+żNo creen ustedes que Elstow supo cuando John Bunyan había encontrado al Salvador?
 
-Los campaneros se enteraron pues ya no quebrant ms el da de guardar; y las
+Los campaneros se enteraron pues ya no quebrantó más el día de guardar; y las
 
-escasas personas pobres que solan reunirse en Bedford se enteraron, pues se
+escasas personas pobres que solían reunirse en Bedford se enteraron, pues se
 
-escabull en su medio y comenz a preguntarles sobre cosas que se haban
+escabulló en su medio y comenzó a preguntarles sobre cosas que se habían
 
 convertido en el deleite de su alma. Algunas veces nos enteramos de que alguna
 
-persona nace de nuevo y no lo sabe, lo cual es un asunto ms bien singular. Sin
+persona nace de nuevo y no lo sabe, lo cual es un asunto más bien singular. Sin
 
-embargo, yo supongo que una situacin de ese tipo ocurre hasta cierto punto muy
+embargo, yo supongo que una situación de ese tipo ocurre hasta cierto punto muy
 
-comnmente en la denominacin episcopaliana, porque si las personas nacen de
+comúnmente en la denominación episcopaliana, porque si las personas nacen de
 
 nuevo en el bautismo infantil, hay miles de ellas en Londres que han
 
 experimentado el cambio, pero estoy convencido de que no pueden estar seguras
 
-de ello, pues sus propias vidas no se lo diran, y sus propias emociones y sentimientos
+de ello, pues sus propias vidas no se lo dirían, y sus propias emociones y sentimientos
 
-no los conduciran a una conviccin de ese tipo. La regeneracin es un mal
+no los conducirían a una convicción de ese tipo. La regeneración es un mal
 
 negocio si estos rebeldes bautizados son regenerados. Vamos, si eso es verdad,
 
-nuestras prisiones estn atestadas con ladrones regenerados, y nuestras calles
+nuestras prisiones están atestadas con ladrones regenerados, y nuestras calles
 
-estn infestadas con rameras regeneradas, y ocasionalmente tenemos asesinos
+están infestadas con rameras regeneradas, y ocasionalmente tenemos asesinos
 
 regenerados, todos ellos nacidos de nuevo en su bautismo, y hechos hijos de
 
 Dios, miembros de Cristo y herederos del reino del cielo. Esa mentira es repugnante:
 
-el diablo mismo se re de ella. De todas las falsedades obvias seguramente la
+el diablo mismo se ríe de ella. De todas las falsedades obvias seguramente la
 
-de la regeneracin bautismal es la ms intolerable. Es sorprendente que hombres
+de la regeneración bautismal es la más intolerable. Es sorprendente que hombres
 
-que viven y andan entre personas sanas caigan en ella. Ah, seores, ah donde
+que viven y andan entre personas sanas caigan en ella. Ah, seńores, ahí donde
 
-se encuentra la verdadera vida que da el cielo hay algo que la revela. Alguien
+se encuentra la verdadera vida que da el cielo hay algo que la revela. żAlguien
 
-dice: yo soy regenerado? Vamos, entonces, amigo, cul es la diferencia que
+dice: “yo soy regenerado”? Vamos, entonces, amigo, żcuál es la diferencia que
 
-hay en ti? Qu vida llevas? Tienes un propsito ms elevado que el que tienen
+hay en ti? żQué vida llevas? żTienes un propósito más elevado que el que tienen
 
-los hijos ordinarios de los hombres? Eres regido por motivos superiores?
+los hijos ordinarios de los hombres? żEres regido por motivos superiores?
 
-Laten en tu alma impulsos ms divinos que los que mueven a los corazones de
+żLaten en tu alma impulsos más divinos que los que mueven a los corazones de
 
-los mundanos? Si vuestra justicia no fuere mayor que la de los escribas y
+los mundanos? “Si vuestra justicia no fuere mayor que la de los escribas y
 
-fariseos los mejores de los mundanos- no entraris en el reino de los
+fariseos” –los mejores de los mundanos- “no entraréis en el reino de los
 
-cielos. Si el amor de Cristo en nuestro interior no nos hace mejores que los
+cielos”. Si el amor de Cristo en nuestro interior no nos hace mejores que los
 
 mejores de los hombres mundanos, no damos ninguna evidencia de haber
 
-experimentado la obra regeneradora de Dios el Espritu Santo.
+experimentado la obra regeneradora de Dios el Espíritu Santo.
 
 La vida celestial es muy
 
-manifiesta, y lo es ms por el hecho de que hay ciertos signos que siempre
+manifiesta, y lo es más por el hecho de que hay ciertos signos que siempre
 
-acompaan y atestiguan el nuevo nacimiento. Las personas pueden haber nacido de
+acompańan y atestiguan el nuevo nacimiento. Las personas pueden haber nacido de
 
 nuevo, y con todo, pudieran no ser capaces de ver con nosotros ciertos puntos
 
-de doctrina; pero hay algunas cosas sobre las que todos los regenerados estn
+de doctrina; pero hay algunas cosas sobre las que todos los regenerados están
 
 de acuerdo. Para comenzar,
 
@@ -804,73 +804,73 @@ es nacida de nuevo se arrepiente de su pecado.
 
 Si un hombre vive en su
 
-pecado tal como sola hacerlo, no debe pretender que es un hombre que ha nacido
+pecado tal como solía hacerlo, no debe pretender que es un hombre que ha nacido
 
-dos veces, o se engaar grandemente. Si puede mirar al pecado a la misma luz
+dos veces, o se engańará grandemente. Si puede mirar al pecado a la misma luz
 
-que lo haca antes, si puede encontrar placer en l, s, si no se aparta de l sinceramente
+que lo hacía antes, si puede encontrar placer en él, sí, si no se aparta de él sinceramente
 
 y no lo desprecia y busca la misericordia de Dios para que lo borre, no sabe
 
-nada de lo que es la regeneracin. Adems
+nada de lo que es la regeneración. Además
 
 todos
 
 los regenerados tienen fe;
 
-todos ellos concuerdan en que la nica base de
+todos ellos concuerdan en que la única base de
 
-su esperanza es la sangre y el mrito de Jess. En cualquier parte que los
+su esperanza es la sangre y el mérito de Jesús. En cualquier parte que los
 
-encuentres te dirn que no tienen ninguna confianza excepto en la sangre
+encuentres te dirán que no tienen ninguna confianza excepto en la sangre
 
-preciosa del Salvador. l es toda su salvacin y todo su deseo. Cada uno de
+preciosa del Salvador. Él es toda su salvación y todo su deseo. Cada uno de
 
-ellos se apoya sobre esta roca; y prescindiendo de cun excelsos profesantes
+ellos se apoya sobre esta roca; y prescindiendo de cuán excelsos profesantes
 
-pudieran ser y de qu elevados oficios tuvieran en la iglesia, si Cristo no es
+pudieran ser y de qué elevados oficios tuvieran en la iglesia, si Cristo no es
 
-su nica y exclusiva confianza, no saben lo que es haber nacido de nuevo.
+su única y exclusiva confianza, no saben lo que es haber nacido de nuevo.
 
-En adicin a esto,
+En adición a esto,
 
 todos los que han pasado de muerte a vida,
 
 oran.
 
-Cuando brota realmente del corazn, la oracin es una seal infalible
+Cuando brota realmente del corazón, la oración es una seńal infalible
 
-del nuevo nacimiento; y si puede decirse de un hombre: l no ora, entonces l
+del nuevo nacimiento; y si puede decirse de un hombre: “él no ora”, entonces él
 
-est todava muerto en sus pecados y el Espritu de Dios no ha renovado su
+está todavía muerto en sus pecados y el Espíritu de Dios no ha renovado su
 
-alma. Yo podra mencionar algunas otras santas evidencias que son las
+alma. Yo podría mencionar algunas otras santas evidencias que son las
 
-compaeras inseparables del nuevo nacimiento, pero estas tres bastarn para
+compańeras inseparables del nuevo nacimiento, pero estas tres bastarán para
 
-todos los propsitos prcticos. Pueden examinarse ustedes mismos, amados, por
+todos los propósitos prácticos. Pueden examinarse ustedes mismos, amados, por
 
-medio de ellas. Te has arrepentido? Tiene fe en Dios? Te regocija acercarte
+medio de ellas. żTe has arrepentido? żTiene fe en Dios? żTe regocija acercarte
 
-a Dios en oracin? Si estas cosas estn en ti, son seales de la nueva vida
+a Dios en oración? Si estas cosas están en ti, son seńales de la nueva vida
 
-pues nunca se encuentran en los que estn muertos espiritualmente. Gimes por
+pues nunca se encuentran en los que están muertos espiritualmente. żGimes por
 
-el pecado? Un cadver no gime: una piadosa lamentacin por la transgresin es
+el pecado? Un cadáver no gime: una piadosa lamentación por la transgresión es
 
-una de las evidencias ms seguras de la vida espiritual interna. La confianza
+una de las evidencias más seguras de la vida espiritual interna. La confianza
 
-en Jess es una seal igualmente clara de una vida espiritual pues el muerto no
+en Jesús es una seńal igualmente clara de una vida espiritual pues el muerto no
 
-sabe qu es confiar; y la oracin genuina es igualmente una seal cierta de una
+sabe qué es confiar; y la oración genuina es igualmente una seńal cierta de una
 
 vida recibida de lo alto. Una punzada de dolor penitencial, un pensamiento de
 
-santa confianza y un anhelo de oracin interior son mayores cosas que todo lo
+santa confianza y un anhelo de oración interior son mayores cosas que todo lo
 
 que pudieran lograr los no regenerados en la tierra, aunque fueran doctores en
 
-teologa o cardenales de la iglesia.
+teología o cardenales de la iglesia.
 
 Esta nueva vida, el
 
@@ -878,7 +878,7 @@ nuevo nacimiento, es una cosa muy manifiesta por el poder que implanta en los
 
 hombres una vez que ha tenido tiempo para desarrollarse. Al principio los
 
-convertidos tiemblan y son dbiles, pero si han recibido la nueva vida, cobran
+convertidos tiemblan y son débiles, pero si han recibido la nueva vida, cobran
 
 fuerzas y hay un poder en ella por el que pronto se regocija la iglesia y por
 
@@ -886,65 +886,65 @@ el que tiembla el demonio. Este poder, por supuesto, puede mantenerse
 
 restringido por la incredulidad y por otras locuras, pero debe tener un pleno
 
-campo de accin y no debe ser reprimido nunca. Yo deseo a menudo que nuestro
+campo de acción y no debe ser reprimido nunca. Yo deseo a menudo que nuestro
 
-pueblo cristiano sea un poquito ms natural en su expresin de lo que siente.
+pueblo cristiano sea un poquito más natural en su expresión de lo que siente.
 
-Si algn hermano exclama: Amn de todo corazn despus de la oracin, muchos
+Si algún hermano exclama: “Amén” de todo corazón después de la oración, muchos
 
-se quedan mirndolo, y no obstante, en la iglesia primitiva era una costumbre
+se quedan mirándolo, y no obstante, en la iglesia primitiva era una costumbre
 
-universal de quienes se unan en oracin decir: Amn, a manera de endosarla y
+universal de quienes se unían en oración decir: “Amén”, a manera de endosarla y
 
-de apropirsela. Me pregunto por qu el pueblo cristiano ha renunciado a esa
+de apropiársela. Me pregunto por qué el pueblo cristiano ha renunciado a esa
 
-prctica en tan gran medida. Es muy apropiada y adecuada y debera ser
+práctica en tan gran medida. Es muy apropiada y adecuada y debería ser
 
-restaurada. Le el otro da acerca de un buen hermano, un cristiano bblico, que
+restaurada. Leí el otro día acerca de un buen hermano, un cristiano bíblico, que
 
-algunas veces, cuando su corazn estaba alegre en su interior con gozo en el
+algunas veces, cuando su corazón estaba alegre en su interior con gozo en el
 
-Espritu Santo incluso saltaba de dicha cuando bajaba a la mina para trabajar.
+Espíritu Santo incluso saltaba de dicha cuando bajaba a la mina para trabajar.
 
-Por qu no habra de hacerlo? Sin embargo, a ti no te gusta cmo se ve eso,
+żPor qué no habría de hacerlo? Sin embargo, a ti no te gusta cómo se ve eso,
 
-no es cierto? Yo preferira grandemente que un hombre fuera tan gil como
+żno es cierto? Yo preferiría grandemente que un hombre fuera tan ágil como
 
 David delante del arca en lugar de estar tan adormilado como algunos cristianos
 
-lo estn, quienes, si sienten algn gozo, lo reprimen y nunca lo declaran;
+lo están, quienes, si sienten algún gozo, lo reprimen y nunca lo declaran;
 
 tienen miedo de expresar sus gozo por temor de ser juzgados mal. No debes ser
 
-as. Si permites que la nueva vida que hay en tu interior siga su propio curso
+así. Si permites que la nueva vida que hay en tu interior siga su propio curso
 
-podras ser considerado excntrico, pero en esas excentricidades estribar tu
+podrías ser considerado excéntrico, pero en esas excentricidades estribará tu
 
-fuerza. Quin es el que nos entorpecer y nos retendr si el Espritu eterno
+fuerza. żQuién es el que nos entorpecerá y nos retendrá si el Espíritu eterno
 
 nos vivifica? Si Dios ha borrado nuestro pecado nosotros alabaremos y
 
 engrandeceremos Su nombre; y si hemos sido librados de descender al abismo se
 
-lo diremos a los dems y no nos callaremos. Aun cuando nuestro testimonio no
+lo diremos a los demás y no nos callaremos. Aun cuando nuestro testimonio no
 
-fuese comunicado en el estilo ms clsico, y nuestro relato del amor del
+fuese comunicado en el estilo más clásico, y nuestro relato del amor del
 
-precioso Salvador no fuera todo lo que los educados desearan que fuera, con
+precioso Salvador no fuera todo lo que los educados desearían que fuera, con
 
-todo, si nos quedramos callados las piedras clamaran, y por lo tanto, tenemos
+todo, si nos quedáramos callados las piedras clamarían, y por lo tanto, tenemos
 
 que hablar y lo haremos. Quien tiene un pozo burbujeante en su interior tiene
 
 que dejarlo manar y quien tiene la nueva vida en su interior, de alguna manera
 
-u otra se tornar en una fuerza en medio de sus semejantes, y se divulgar el
+u otra se tornará en una fuerza en medio de sus semejantes, y se divulgará el
 
 secreto de que es un hombre que ha nacido dos veces.
 
-No puedo demorarme ms.
+No puedo demorarme más.
 
-La regeneracin es un cambio completo y maravilloso; pero es un cambio
+La regeneración es un cambio completo y maravilloso; pero es un cambio
 
 manifiesto, y en algunas personas lo es especialmente. Debemos tener el
 
@@ -954,7 +954,7 @@ IV.
 
 Pero
 
-ahora, muy brevemente, mencionar que la regeneracin es un cambio SUMAMENTE
+ahora, muy brevemente, mencionaré que la regeneración es un cambio SUMAMENTE
 
 IMPERATIVO.
 
@@ -966,19 +966,19 @@ nacer de nuevo. Pueden ser ricos o pueden ser
 
 pobres, pero
 
-os es necesario
+“os es necesario
 
 nacer
 
-de nuevo. Pueden ser inteligentes, pueden ser educados, pueden ser talentosos,
+de nuevo”. Pueden ser inteligentes, pueden ser educados, pueden ser talentosos,
 
 pero
 
-Os es necesario, os es necesario
+“Os es necesario, os es necesario
 
 nacer
 
-de nuevo. Muchas cosas son deseables, pero una cosa es necesaria,
+de nuevo”. Muchas cosas son deseables, pero una cosa es necesaria,
 
 imperativamente necesaria:
 
@@ -990,7 +990,7 @@ nacer de nuevo. Esta necesidad
 
 imperativa puede verse desde muchos puntos de vista. No podemos mencionarlos todos,
 
-sino slo mencionaremos uno o dos.
+sino sólo mencionaremos uno o dos.
 
 Si no
 
@@ -1000,31 +1000,31 @@ ninguna vida espiritual. El
 
 primer nacimiento te dio vida corporal y vida mental, pero no te dio vida
 
-espiritual; no poda hacerlo, pues lo que es nacido de la carne, carne es, y
+espiritual; no podía hacerlo, pues lo que es nacido de la carne, carne es, y
 
-nada ms. Ahora bien, tienes que tener vida espiritual pues de lo contrario
+nada más. Ahora bien, tienes que tener vida espiritual pues de lo contrario
 
-ests muerto en delitos y pecados, y tambin muerto a todo lo que tiene que ver
+estás muerto en delitos y pecados, y también muerto a todo lo que tiene que ver
 
-con las bendiciones espirituales: a un Evangelio espiritual, a una salvacin
+con las bendiciones espirituales: a un Evangelio espiritual, a una salvación
 
-espiritual, a un cielo espiritual, a todas esas cosas ests muerto como los
+espiritual, a un cielo espiritual, a todas esas cosas estás muerto como los
 
-cadveres en sus tumbas estn muertos para los asuntos de hoy. Pudieran estarse
+cadáveres en sus tumbas están muertos para los asuntos de hoy. Pudieran estarse
 
-dando grandes cambios en la poltica; el comercio pudiera ser muy prspero o
+dando grandes cambios en la política; el comercio pudiera ser muy próspero o
 
-pudiera estar deprimido, pero el que ha muerto no tiene ningn inters en la
+pudiera estar deprimido, pero el que ha muerto no tiene ningún interés en la
 
-nacin o en su comercio; cmo podra tenerlo? Lo mismo sucede contigo;
+nación o en su comercio; żcómo podría tenerlo? Lo mismo sucede contigo;
 
-mientras no nazcas de nuevo, el mundo espiritual est cerrado para ti y eres
+mientras no nazcas de nuevo, el mundo espiritual está cerrado para ti y eres
 
-indiferente a l. Los ngeles se regocijan y los creyentes tambin se regocijan
+indiferente a él. Los ángeles se regocijan y los creyentes también se regocijan
 
 por las almas que son salvadas, pero a ti no te importa nada de eso. El propio
 
-Seor Jess est viendo el fruto de la afliccin de Su alma, pero eso no es
+Seńor Jesús está viendo el fruto de la aflicción de Su alma, pero eso no es
 
 nada para ti, y
 
@@ -1032,47 +1032,47 @@ tiene que
 
 ser nada
 
-para ti porque ests muerto. Oh, si nuestros cuerpos pudieran tomar la forma de
+para ti porque estás muerto. Oh, si nuestros cuerpos pudieran tomar la forma de
 
-nuestras almas, habra muchos cadveres sentados delante de m en estos
+nuestras almas, habría muchos cadáveres sentados delante de mí en estos
 
-reclinatorios. Ah, es un extrao y horripilante espectculo! Damos gracias a
+reclinatorios. ˇAh, es un extrańo y horripilante espectáculo! Damos gracias a
 
-Dios porque l oculta de nuestros ojos lo espiritual, pues de lo contrario podramos
+Dios porque Él oculta de nuestros ojos lo espiritual, pues de lo contrario podríamos
 
-abandonar horrorizados los lugares donde nos sentamos porque nos encontraramos
+abandonar horrorizados los lugares donde nos sentamos porque nos encontraríamos
 
-en ntima compaa con los muertos. Qu horrible cosa debe de ser un alma
+en íntima compańía con los muertos. Qué horrible cosa debe de ser un alma
 
-muerta si nuestros espritus pudieran percibirla ahora as como nuestros sentidos
+muerta si nuestros espíritus pudieran percibirla ahora así como nuestros sentidos
 
-perciben un cadver. Hagamos una pausa aqu para darnos cuenta de algunos
+perciben un cadáver. Hagamos una pausa aquí para darnos cuenta de algunos
 
-hechos impactantes en ese sentido. Algunos de ustedes estn vinculados en
+hechos impactantes en ese sentido. Algunos de ustedes están vinculados en
 
-matrimonio con alguien que est muerto espiritualmente. Algunos de ustedes
+matrimonio con alguien que está muerto espiritualmente. Algunos de ustedes
 
-comparten su morada con los hijos bajo su cuidado que estn muertos en vida. Se
+comparten su morada con los hijos bajo su cuidado que están muertos en vida. Se
 
-sentarn esta noche a la mesa de la cena con unos que estn muertos
+sentarán esta noche a la mesa de la cena con unos que están muertos
 
-espiritualmente. Considrenlos bajo esa luz y tal vez sus corazones sern
+espiritualmente. Considérenlos bajo esa luz y tal vez sus corazones serán
 
-impulsados a orar por ellos ms intensamente de lo que lo han hecho hasta ahora.
+impulsados a orar por ellos más intensamente de lo que lo han hecho hasta ahora.
 
 Yo quisiera que quienes asisten regularmente a este lugar recordaran este hecho
 
-cuando esta casa est llena. Piensen En mi banca estn sentados un inconverso
+cuando esta casa está llena. Piensen “En mi banca están sentados un inconverso
 
-y una inconversa y estn muertos. No esperamos que sientan por s mismos, pero
+y una inconversa y están muertos”. No esperamos que sientan por sí mismos, pero
 
-s esperamos que los vivos sientan por ellos. Mis queridos oyentes que no son
+sí esperamos que los vivos sientan por ellos. Mis queridos oyentes que no son
 
-regenerados, no ven que es necesario que nazcan de nuevo, pues si no lo hacen,
+regenerados, żno ven que es necesario que nazcan de nuevo, pues si no lo hacen,
 
-permanecern muertos para las cosas espirituales?
+permanecerán muertos para las cosas espirituales?
 
-Adems, recuerden que un
+Además, recuerden que un
 
 hombre que no ha nacido de nuevo
 
@@ -1082,11 +1082,11 @@ ninguna capacidad espiritual.
 
 En la vida espiritual primero tenemos que ser
 
-receptores y el pecador que an sigue muerto no puede recibir nada mientras
+receptores y el pecador que aún sigue muerto no puede recibir nada mientras
 
-Dios no lo vivifique. Cun a menudo los santos de Dios son consolados,
+Dios no lo vivifique. Cuán a menudo los santos de Dios son consolados,
 
-instruidos y enriquecidos espiritualmente bajo la predicacin y la escucha de
+instruidos y enriquecidos espiritualmente bajo la predicación y la escucha de
 
 la palabra; pero es su naturaleza espiritual la que recibe el enriquecimiento.
 
@@ -1094,11 +1094,11 @@ Los seres humanos no regenerados no tienen ninguna naturaleza espiritual: son
 
 carnales, vendidos al pecado, y tanto sus poderes mentales como sus apetitos
 
-corporales estn esclavizados; por esta razn no tienen ningn poder para
+corporales están esclavizados; por esta razón no tienen ningún poder para
 
-recibir la bendicin. El agraciado y siempre bendito roco del Espritu llega,
+recibir la bendición. El agraciado y siempre bendito rocío del Espíritu llega,
 
-pero ellos no son como el velln de Geden que est listo para absorberlo, sino
+pero ellos no son como el vellón de Gedeón que está listo para absorberlo, sino
 
 que son como una piedra dura sobre la que las gotas pueden descender pero que
 
@@ -1106,35 +1106,35 @@ no puede saturarse con la humedad ni ablandarse por su causa. Los hombres no reg
 
 son cisternas rotas que no retienen agua. Aunque viniera a ellos la propia
 
-gracia de Dios no podran retenerla pues no tienen la capacidad de hacerlo.
+gracia de Dios no podrían retenerla pues no tienen la capacidad de hacerlo.
 
-Slo los seres espirituales pueden recibir lo espiritual. Entonces, Os es
+Sólo los seres espirituales pueden recibir lo espiritual. Entonces, ‘Os es
 
-necesario nacer de nuevo para tener un espritu por medio del cual se
+necesario nacer de nuevo’ para tener un espíritu por medio del cual se
 
-disciernen y se reciben las cosas espirituales. No ven que tienen que nacer de
+disciernen y se reciben las cosas espirituales. żNo ven que tienen que nacer de
 
 nuevo?
 
-Adems, os es necesario
+Además, os es necesario
 
 nacer de nuevo porque
 
-sin el Espritu de
+sin el Espíritu de
 
 Dios no son hijos de Dios y por consiguiente no tienen ninguna herencia
 
 espiritual.
 
-El Espritu nos hace nacer; ese nacimiento nos hace hijos, y
+El Espíritu nos hace nacer; ese nacimiento nos hace hijos, y
 
 siendo hijos somos herederos. Si no nacemos de nuevo no somos hijos, por tanto,
 
 no somos herederos, nos quedamos fuera de la herencia, pues la herencia de la
 
-gloria de Dios es para los herederos de la gracia y para nadie ms; y nadie
+gloria de Dios es para los herederos de la gracia y para nadie más; y nadie
 
-entrar en la eterna porcin salvo aquellos que son nacidos en Su casa y que
+entrará en la eterna porción salvo aquellos que son nacidos en Su casa y que
 
 son Sus hijos e hijas verdaderos. La paternidad universal, sea lo que sea, nos
 
@@ -1142,21 +1142,21 @@ trae mercedes comunes; pero es la paternidad especial que Dios tiene para con
 
 los que viven en Sion la que nos da bendiciones especiales. Entonces tienen que
 
-nacer de nuevo o perdern toda participacin en la herencia divina. Ninguna
+nacer de nuevo o perderán toda participación en la herencia divina. Ninguna
 
-alma que no haya recibido la nueva vida puede traspasar jams el umbral del
+alma que no haya recibido la nueva vida puede traspasar jamás el umbral del
 
-cielo. Prescindiendo de cun abundantes sean sus oraciones, de cun repetidos
+cielo. Prescindiendo de cuán abundantes sean sus oraciones, de cuán repetidos
 
 sean sus actos de religiosidad, a menos que el alma nazca de nuevo, las puertas
 
-del paraso estn cerradas para ella para siempre. Desterrada de la presencia
+del paraíso están cerradas para ella para siempre. Desterrada de la presencia
 
-de la gloria de Jehov, slo hay otro lugar donde puede morar, y ese tiene que
+de la gloria de Jehová, sólo hay otro lugar donde puede morar, y ese tiene que
 
-ser donde su gusano de ellos no muere y el fuego nunca se apaga. Os es
+ser donde su gusano de ellos no muere y el fuego nunca se apaga. “Os es
 
-necesario nacer de nuevo.
+necesario nacer de nuevo”.
 
 V.
 
@@ -1166,11 +1166,11 @@ a concluir mi discurso diciendo que este nuevo nacimiento es EMINENTEMENTE
 
 PERSONAL.
 
-Os
+“Os
 
 necesario nacer de
 
-nuevo. La idea de un apoderado es muy alejada de la figura del texto. Un
+nuevo”. La idea de un apoderado es muy alejada de la figura del texto. Un
 
 hombre nace solo,
 
@@ -1178,203 +1178,203 @@ in propria persona (en
 
 propia persona).
 
-Nadie ms puede nacer por l; as tambin aqu, el cambio
+Nadie más puede nacer por él; así también aquí, el cambio
 
 que tiene que obrarse en nosotros debe ser experimentado personalmente y debe
 
-ser conocido y sentido individualmente. Qu engao es recurrir a la piedad de
+ser conocido y sentido individualmente. Qué engańo es recurrir a la piedad de
 
-un padre o a las promesas de un padrino o imaginar que el ministro o el as
+un padre o a las promesas de un padrino o imaginar que el ministro o el así
 
-llamado sacerdote pueden presentarse ante Dios por nosotros. Os,
+llamado sacerdote pueden presentarse ante Dios por nosotros. “Os”,
 
-Os
+“Os
 
-es necesario nacer de nuevo, y si
+es necesario nacer de nuevo”, y si
 
-no han nacido de nuevo no entrarn jams en el reino.
+no han nacido de nuevo no entrarán jamás en el reino.
 
 Ahora, me parece que oigo
 
-un susurro que recorre la congregacin en este momento proveniente de muchos
+un susurro que recorre la congregación en este momento proveniente de muchos
 
-corazones que estn diciendo: Esto es muy desalentador. Nos gusta or Crean
+corazones que están diciendo: “Esto es muy desalentador. Nos gusta oír ‘Crean
 
-nicamente, y sern salvos. Nos alegra que se nos diga: Todo aquel que crea
+únicamente, y serán salvos’. Nos alegra que se nos diga: ‘Todo aquel que crea
 
-en el Seor Jesucristo tiene vida eterna, pero esto nos angustia, pues no abre
+en el Seńor Jesucristo tiene vida eterna’, pero esto nos angustia, pues no abre
 
-la puerta tan ampliamente como nosotros desearamos. Cranme que me alegra
+la puerta tan ampliamente como nosotros desearíamos”. Créanme que me alegra
 
 mucho hablarles acerca del libre y amplio Evangelio de gracia. Es una dichosa
 
-tarea para m llevarles ese mensaje de bienvenida, y yo estoy seguro de que lo
+tarea para mí llevarles ese mensaje de bienvenida, y yo estoy seguro de que lo
 
-presento cuantas veces subo a esta plataforma. Mi ms frecuente nota es: Mirad
+presento cuantas veces subo a esta plataforma. Mi más frecuente nota es: “Mirad
 
-a Cristo y sed salvos todos los trminos de la tierra. Pero al mismo tiempo
+a Cristo y sed salvos todos los términos de la tierra”. Pero al mismo tiempo
 
 Dios no quiera que ustedes sean edificados sobre un falso cimiento, o que su fe
 
-y su confianza estn alejadas de la verdad que es en Jess. Se descubrir que
+y su confianza estén alejadas de la verdad que es en Jesús. Se descubrirá que
 
-es madera y heno y hojarasca si as fuera. Pero t dices que mi sermn es
+es madera y heno y hojarasca si así fuera. Pero tú dices que mi sermón es
 
-desalentador; no sera mejor que preguntaras: Es cierto? Un individuo ha
+desalentador; żno sería mejor que preguntaras: “Es cierto?” Un individuo ha
 
 estado construyendo una casa y lo vemos amontonando las piedras, pero nunca ha
 
-cavado el cimiento. Es ciertamente desalentador para l que se le diga que no
+cavado el cimiento. Es ciertamente desalentador para él que se le diga que no
 
-es la manera correcta de construir una casa, pero sera una gran merced para l
+es la manera correcta de construir una casa, pero sería una gran merced para él
 
-que se le desalentara en una tarea que es tan necia. A la larga sera un gran
+que se le desalentara en una tarea que es tan necia. A la larga sería un gran
 
-ahorro para l si se viniera al suelo de inmediato todo lo que ya ha construido
+ahorro para él si se viniera al suelo de inmediato todo lo que ya ha construido
 
-y comenzara desde el principio una vez ms, poniendo un buen cimiento y
+y comenzara desde el principio una vez más, poniendo un buen cimiento y
 
-haciendo una obra slida. Sera necio que clamaran diciendo: No lo desanimen,
+haciendo una obra sólida. Sería necio que clamaran diciendo: “No lo desanimen”,
 
-pues hay que desanimarlo. S, en verdad nosotros quisiramos desalentar todo
+pues hay que desanimarlo. Sí, en verdad nosotros quisiéramos desalentar todo
 
-aquello que termine en frustracin. El hecho es que tus esfuerzos, tus acciones
+aquello que termine en frustración. El hecho es que tus esfuerzos, tus acciones
 
-y tus mritos, todas esas cosas, en su mejor expresin, tienen que ser un
+y tus méritos, todas esas cosas, en su mejor expresión, tienen que ser un
 
-fracaso y es algo bueno que te lo digamos. Pero, qu he de hacer?, dice
+fracaso y es algo bueno que te lo digamos. “Pero, żqué he de hacer?”, dice
 
-alguien. Permteme que te recuerde que esa no es la pregunta que debes hacer,
+alguien. Permíteme que te recuerde que esa no es la pregunta que debes hacer,
 
-pues si la obra de salvacin dependiera de lo que
+pues si la obra de salvación dependiera de lo que
 
-t
+tú
 
-debes hacer, ciertamente se quedara sin hacer. Podras hacer la
+debes hacer, ciertamente se quedaría sin hacer. Podrías hacer la
 
-pregunta: Qu debo hacer para ser salvo? pero te indicaramos que no hagas
+pregunta: “żQué debo hacer para ser salvo?” pero te indicaríamos que no hagas
 
-nada y te diramos que creas en el Seor Jesucristo para que seas salvo. Si
+nada y te diríamos que creas en el Seńor Jesucristo para que seas salvo. Si
 
-persistes en decir: Qu debo
+persistes en decir: “żQué debo
 
-hacer?,
+hacer?”,
 
 te
 
-diremos que entre ms pronto apartes tu mirada de todo lo que t puedas hacer,
+diremos que entre más pronto apartes tu mirada de todo lo que tú puedas hacer,
 
-ser mejor, pues la obra de salvacin del pecado es la obra del Espritu de
+será mejor, pues la obra de salvación del pecado es la obra del Espíritu de
 
-Dios en ti, y tienes que llegar a poner tu mirada en l por medio de Jesucristo
+Dios en ti, y tienes que llegar a poner tu mirada en Él por medio de Jesucristo
 
 para que obre en ti todas esas gracias y dones que van a adornar tu vida
 
-futura. La fe mira a la sangre de Jess para el perdn del pecado, y luego pone
+futura. La fe mira a la sangre de Jesús para el perdón del pecado, y luego pone
 
-la mira en l por Su Espritu para vencer el poder del pecado dentro de tu
+la mira en Él por Su Espíritu para vencer el poder del pecado dentro de tu
 
-corazn, y no mira en vano; pero si miras a cualquier otra parte, vas a buscar
+corazón, y no mira en vano; pero si miras a cualquier otra parte, vas a buscar
 
-hasta que tus ojos se cansen, pero no vers nunca cumplido tu deseo. Ojal que
+hasta que tus ojos se cansen, pero no verás nunca cumplido tu deseo. Ojalá que
 
-los pudiramos llevar, no slo al desaliento, sino a desesperar de ustedes
+los pudiéramos llevar, no sólo al desaliento, sino a desesperar de ustedes
 
 mismos. Cuando sientan que son impotentes tendremos esperanzas por ustedes,
 
-pues entonces se abandonarn en las manos de Aquel que puede hacer todas las
+pues entonces se abandonarán en las manos de Aquel que puede hacer todas las
 
-cosas. Cuando la fuerza del ego se haya disipado, intervendr la fuerza de
+cosas. Cuando la fuerza del ego se haya disipado, intervendrá la fuerza de
 
 Dios.
 
-Oh, pero t me dices
+“Oh, pero tú me dices
 
-que un poder divino tiene que obrar en m. Nosotros efectivamente te decimos
+que un poder divino tiene que obrar en mí”. Nosotros efectivamente te decimos
 
 eso; no podemos decirte nada menos, y si ese poder obra alguna vez en tu alma,
 
-su primer efecto ser llevarte a confesarlo, y caers postrado delante del
+su primer efecto será llevarte a confesarlo, y caerás postrado delante del
 
-escabel de la misericordia divina y dirs: Seor, slvame! Dios s propicio
+escabel de la misericordia divina y dirás: “ˇSeńor, sálvame!” “Dios sé propicio
 
-a m, pecador. Seres que son inconversos, yo no quiero despertarlos a ustedes
+a mí, pecador”. Seres que son inconversos, yo no quiero despertarlos a ustedes
 
-a la accin. Quiero despertarlos a la conviccin de que estn perdidos, y yo le
+a la acción. Quiero despertarlos a la convicción de que están perdidos, y yo le
 
-ruego a Dios el Espritu Santo que los convenza. No deseo hacerlos pensar:
+ruego a Dios el Espíritu Santo que los convenza. No deseo hacerlos pensar:
 
-nosotros mismos podemos curarnos, sino oh!, que ms bien sintieran que estn
+“nosotros mismos podemos curarnos”, sino ˇoh!, que más bien sintieran que están
 
-enfermos y que aunque ustedes mismos se han destruido, su remedio est en una
+enfermos y que aunque ustedes mismos se han destruido, su remedio está en una
 
-mano superior, y que tienen que mirar nicamente a Jess para su curacin.
+mano superior, y que tienen que mirar únicamente a Jesús para su curación.
 
 Hacer que el elemento sobrenatural se introduzca en la materia es lo que
 
-quisiramos esforzarnos por lograr, y que Dios el Espritu Santo nos ayude en
+quisiéramos esforzarnos por lograr, y que Dios el Espíritu Santo nos ayude en
 
-ello. Quisiramos que apartaran la mirada de lo que est en ustedes o que pudiera
+ello. Quisiéramos que apartaran la mirada de lo que está en ustedes o que pudiera
 
-venir de ustedes, y confen en lo que Cristo hizo en la cruz, en lo que el
+venir de ustedes, y confíen en lo que Cristo hizo en la cruz, en lo que el
 
-Padre clemente espera hacer todava, y en lo que el Espritu Santo es enviado a
+Padre clemente espera hacer todavía, y en lo que el Espíritu Santo es enviado a
 
-hacer especficamente en ustedes para que sean salvos. Oh, que comenzaran a
+hacer específicamente en ustedes para que sean salvos. ˇOh, que comenzaran a
 
 orar pidiendo el poder divino! Que no confiaran nunca en nada que no sea la
 
-obra divina en su espritu. Es a eso a lo que quisiramos llevarlos.
+obra divina en su espíritu. Es a eso a lo que quisiéramos llevarlos.
 
 Ahora bien, ustedes ya
 
-saben todo esto y la mayora lo ha sabido durante aos. Saberlo, ah, cun
+saben todo esto y la mayoría lo ha sabido durante ańos. Saberlo, ˇah, cuán
 
-grande privilegio es si no se abusa de l! Qu gran responsabilidad es si el
+grande privilegio es si no se abusa de él! ˇQué gran responsabilidad es si el
 
-conocimiento termina ah! Sin embargo,
+conocimiento termina ahí! Sin embargo,
 
 saberlo,
 
-oh cun triste es, a menos que lo
+ˇoh cuán triste es, a menos que lo
 
 sientan!
 
-Sentir que debo nacer de nuevo, y ser infeliz mientras no sea renovado en el
+Sentir que “debo nacer de nuevo”, y ser infeliz mientras no sea renovado en el
 
-corazn es un buen comienzo. Oro pidiendo que regresen a casa y sientan No hay
+corazón es un buen comienzo. Oro pidiendo que regresen a casa y sientan “No hay
 
 almohada en este mundo que se adecue a mi cabeza mientras no la ponga en el
 
 pecho del Salvador; no hay bienaventuranza que pueda proporcionarme solaz
 
-mientras no haya encontrado perdn en las heridas de mi Redentor. Que Dios les
+mientras no haya encontrado perdón en las heridas de mi Redentor”. Que Dios les
 
 conceda que suspiren y anhelen ardientemente de esta manera, y entonces creeremos
 
-que son regenerados. Reciban al Seor Jess, y l les dar poder para
+que son regenerados. Reciban al Seńor Jesús, y Él les dará poder para
 
-convertirse en hijos de Dios, pues quienes creen en l nacieron, no de sangre
+convertirse en hijos de Dios, pues quienes creen en Él nacieron, no de sangre
 
-ni de voluntad de la carne, ni de la voluntad de varn, sino de Dios. Entonces
+ni de voluntad de la carne, ni de la voluntad de varón, sino de Dios. Entonces
 
-conocern el secreto de la regeneracin y el Seor mismo ser revelado en
+conocerán el secreto de la regeneración y el Seńor mismo será revelado en
 
-ustedes. Entonces sabrn que son bendecidos por el Seor, pues carne y sangre
+ustedes. Entonces sabrán que son bendecidos por el Seńor, pues carne y sangre
 
-no les podran haber revelado eso. Que el Espritu Santo est en el interior de
+no les podrían haber revelado eso. Que el Espíritu Santo esté en el interior de
 
-ustedes perpetuamente. Amn.
+ustedes perpetuamente. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Juan 3: 1-21.
+del sermón: Juan 3: 1-21.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 11/Noviembre/2013
 

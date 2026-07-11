@@ -1,16 +1,16 @@
 # Sermón 1159 | Sermón 1159
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Calculando los
 
 Gastos
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,143 +18,143 @@ DOMINGO 22 DE
 
 FEBRERO, 1874
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Porque
+“Porque
 
-quin de vosotros, queriendo edificar una torre, no se sienta primero y
+żquién de vosotros, queriendo edificar una torre, no se sienta primero y
 
 calcula los gastos, a ver si tiene lo que necesita para acabarla? No sea que
 
-despus que haya puesto el cimiento, y no pueda acabarla, todos los que lo vean
+después que haya puesto el cimiento, y no pueda acabarla, todos los que lo vean
 
-comiencen a hacer burla de l, diciendo: Este hombre comenz a edificar, y no
+comiencen a hacer burla de él, diciendo: Este hombre comenzó a edificar, y no
 
-pudo acabar. Lucas 14: 28-30.
+pudo acabar”. Lucas 14: 28-30.
 
 Este pasaje es exclusivo
 
-de Lucas, y l nos informa que en el momento en que nuestro Seor expres estas
+de Lucas, y él nos informa que en el momento en que nuestro Seńor expresó estas
 
-palabras, grandes multitudes iban con l. Podemos observar que nuestro Seor no
+palabras, grandes multitudes iban con Él. Podemos observar que nuestro Seńor no
 
-se deprima cuando la muchedumbre lo abandonaba, y que tampoco se entusiasmaba
+se deprimía cuando la muchedumbre lo abandonaba, y que tampoco se entusiasmaba
 
-cuando Su ministerio ganaba popularidad. l reaccionaba tranquila y sabiamente
+cuando Su ministerio ganaba popularidad. Él reaccionaba tranquila y sabiamente
 
-en medio de la excitacin de las desbordantes multitudes. Este pasaje nos sirve
+en medio de la excitación de las desbordantes multitudes. Este pasaje nos sirve
 
-de suficiente evidencia de ello. En esta ocasin nuestro Seor habl con miras
+de suficiente evidencia de ello. En esta ocasión nuestro Seńor habló con miras
 
-a la criba del gran montn conformado por el discipulado nominal que se
+a la criba del gran montón conformado por el discipulado nominal que se
 
-encontraba frente a l, para desechar el tamo y conservar el valioso grano. El
+encontraba frente a Él, para desechar el tamo y conservar el valioso grano. El
 
-discurso que estamos considerando nos recuerda el proceso que sigui Geden
+discurso que estamos considerando nos recuerda el proceso que siguió Gedeón
 
-para reducir aquel vasto pero abigarrado ejrcito del cual dijo el Seor: El
+para reducir aquel vasto pero abigarrado ejército del cual dijo el Seńor: “El
 
-pueblo que est contigo es mucho. Despus de haberle pedido a los pusilnimes
+pueblo que está contigo es mucho”. Después de haberle pedido a los pusilánimes
 
-que se marcharan, llev luego a las aguas a los miles que quedaban, y les
+que se marcharan, llevó luego a las aguas a los miles que quedaban, y les
 
-orden que bebieran, y entonces conserv slo a aquellos que lamieron de una
+ordenó que bebieran, y entonces conservó sólo a aquellos que lamieron de una
 
-cierta manera peculiar que indicaba su celo, su rapidez, su energa y su
+cierta manera peculiar que indicaba su celo, su rapidez, su energía y su
 
-experiencia. Nuestro Seor prob a Sus seguidores para que con l permanecieran
+experiencia. Nuestro Seńor probó a Sus seguidores para que con Él permanecieran
 
-nicamente aquellos que seran idneos para la conquista del mundo. Quera
+únicamente aquellos que serían idóneos para la conquista del mundo. Quería
 
-seleccionar los vasos que llevaran Su propio tesoro -aquellos que la gracia
+seleccionar los vasos que llevarían Su propio tesoro -aquellos que la gracia
 
-haba hecho aptos para ser usados por l- y prescindir del resto.
+había hecho aptos para ser usados por Él- y prescindir del resto.
 
-Nuestro Seor Jess era
+Nuestro Seńor Jesús era
 
-demasiado sabio para enorgullecerse por el nmero de Sus convertidos; a l le
+demasiado sabio para enorgullecerse por el número de Sus convertidos; a Él le
 
-interesaba ms la calidad que la cantidad. Se alegraba por un pecador que se
+interesaba más la calidad que la cantidad. Se alegraba por un pecador que se
 
-arrepenta, pero diez mil pecadores que meramente profesaban haberse
+arrepentía, pero diez mil pecadores que meramente profesaban haberse
 
-arrepentido no le proporcionaban ninguna alegra. Su corazn apeteca lo real y
+arrepentido no le proporcionaban ninguna alegría. Su corazón apetecía lo real y
 
-aborreca lo falso; deseaba vivamente la sustancia y no podra contentarse con
+aborrecía lo falso; deseaba vivamente la sustancia y no podría contentarse con
 
 la sombra. Su aventador estaba en Su mano para limpiar Su era, y Su hacha estaba
 
-puesta a la raz de los rboles para derribar a los que no daban buen fruto. l
+puesta a la raíz de los árboles para derribar a los que no daban buen fruto. Él
 
-ansiaba dejar una iglesia viva, como buen trigo de siembra en la tierra, lo ms
+ansiaba dejar una iglesia viva, como buen trigo de siembra en la tierra, lo más
 
-libre posible de cualquier mezcla. De ah que en este caso en particular aunque
+libre posible de cualquier mezcla. De ahí que en este caso en particular aunque
 
-uno pensara que repela a los hombres en vez de atraerlos a su liderazgo, en
+uno pensaría que repelía a los hombres en vez de atraerlos a su liderazgo, en
 
-realidad no hizo nada de eso. l entenda muy bien que la verdad es lo que
+realidad no hizo nada de eso. Él entendía muy bien que la verdad es lo que
 
 tiene que ganar verdaderamente a los hombres, que el verdadero amor es siempre
 
-honesto y que el mejor discpulo no es aquel que se une apresuradamente a la
+honesto y que el mejor discípulo no es aquel que se une apresuradamente a la
 
-clase del grandioso Maestro para descubrir luego que la enseanza no era lo que
+clase del grandioso Maestro para descubrir luego que la enseńanza no era lo que
 
 esperaba, sino que debe ser alguien que busca suspirando el conocimiento que el
 
-maestro est dispuesto a proporcionarle. Adems, nuestro Seor saba lo que
+maestro está dispuesto a proporcionarle. Además, nuestro Seńor sabía lo que
 
 nosotros tendemos a olvidar: que no hay mayor congoja en el mundo para el
 
 obrero piadoso que la proveniente de unas esperanzas frustradas, cuando quienes
 
-han dicho: Maestro, te seguir adondequiera que vayas, regresan a la
+han dicho: “Maestro, te seguiré adondequiera que vayas”, regresan a la
 
-perdicin, y cuando el tibio aliento que exclam: Hosanna!, se convierte en
+perdición, y cuando el tibio aliento que exclamó: “ˇHosanna!”, se convierte en
 
-un cruel grito lanzado a sangre fra: Crucifcale, crucifcale! No hay nada
+un cruel grito lanzado a sangre fría: “ˇCrucifícale, crucifícale!” No hay nada
 
-ms perjudicial para una iglesia que verse invadida por unos miembros desganados,
+más perjudicial para una iglesia que verse invadida por unos miembros desganados,
 
-y nada es ms peligroso para las propias personas, que se les permita hacer una
+y nada es más peligroso para las propias personas, que se les permita hacer una
 
-falsa profesin. Por eso el Seor tuvo sumo cuidado -en un momento en que el
+falsa profesión. Por eso el Seńor tuvo sumo cuidado -en un momento en que el
 
 cuidado era algo primordialmente necesario- para que no lo siguiera nadie bajo un
 
-malentendido, sino que tenan que estar plenamente conscientes de lo que
+malentendido, sino que tenían que estar plenamente conscientes de lo que
 
-implicaba ser Sus discpulos, para que no fueran a decir luego: Fuimos desinformados;
+implicaba ser Sus discípulos, para que no fueran a decir luego: “Fuimos desinformados;
 
-fuimos seducidos a entrar a un servicio que nos decepciona. A diferencia del
+fuimos seducidos a entrar a un servicio que nos decepciona”. A diferencia del
 
 sargento reclutador que para ganar a un recluta expone todas las glorias del
 
-servicio militar con colores deslumbrantes, el grandioso Capitn de nuestra
+servicio militar con colores deslumbrantes, el grandioso Capitán de nuestra
 
-salvacin quiere que Sus seguidores tomen en cuenta todas las cosas antes de
+salvación quiere que Sus seguidores tomen en cuenta todas las cosas antes de
 
-unirse a l.
+unirse a Él.
 
 Esta
 
-maana nuestro
+mańana nuestro
 
 texto puede ser tan apropiado y su advertencia puede
 
-ser tan necesaria y tan saludable como cuando el Maestro la expres por primera
+ser tan necesaria y tan saludable como cuando el Maestro la expresó por primera
 
-vez, pues grandes multitudes estn siguiendo a Cristo precisamente ahora. Ha
+vez, pues grandes multitudes están siguiendo a Cristo precisamente ahora. Ha
 
-llegado un avivamiento que ha conmocionado a un buen ncleo de personas. Entre
+llegado un avivamiento que ha conmocionado a un buen núcleo de personas. Entre
 
-los aspirantes a discpulos (bendito sea Dios!), hay muchos a quienes el
+los aspirantes a discípulos (ˇbendito sea Dios!), hay muchos a quienes el
 
-propio Seor ha llamado, y por cada uno de ellos damos gracias de todo corazn,
+propio Seńor ha llamado, y por cada uno de ellos damos gracias de todo corazón,
 
-pero junto con ellos, necesariamente, y por supuesto, (pues, cundo ha sido
+pero junto con ellos, necesariamente, y por supuesto, (pues, żcuándo ha sido
 
 diferente?), hay otros que no son llamados por Dios en absoluto, sino que son
 
@@ -162,41 +162,41 @@ movidos por el impulso natural de imitar a otros y son sacudidos por sentimiento
 
 que no por intensos en el momento dejan de ser fugaces; por tanto, en nombre de
 
-Cristo nos corresponde dirigirnos a ustedes tal como l lo hizo, y advertirles
+Cristo nos corresponde dirigirnos a ustedes tal como Él lo hizo, y advertirles
 
-en Sus propias palabras: Si alguno viene a m, y no aborrece a su padre, y
+en Sus propias palabras: “Si alguno viene a mí, y no aborrece a su padre, y
 
-madre, y mujer, e hijos, y hermanos, y hermanas, y aun tambin su propia vida,
+madre, y mujer, e hijos, y hermanos, y hermanas, y aun también su propia vida,
 
-no puede ser mi discpulo. Y el que no lleva su cruz y viene en pos de m, no
+no puede ser mi discípulo. Y el que no lleva su cruz y viene en pos de mí, no
 
-puede ser mi discpulo. Porque quin de vosotros, queriendo edificar una
+puede ser mi discípulo. Porque żquién de vosotros, queriendo edificar una
 
 torre, no se sienta primero y calcula los gastos, a ver si tiene lo que
 
-necesita para acabarla? No sea que despus que haya puesto el cimiento, y no
+necesita para acabarla? No sea que después que haya puesto el cimiento, y no
 
-pueda acabarla, todos los que lo vean comiencen a hacer burla de l, diciendo:
+pueda acabarla, todos los que lo vean comiencen a hacer burla de él, diciendo:
 
-Este hombre comenz a edificar, y no pudo acabar.
+Este hombre comenzó a edificar, y no pudo acabar”.
 
 Para ayudar a nuestra
 
-memoria, vamos a dividir nuestra meditacin en tres partes. La primera ser
+memoria, vamos a dividir nuestra meditación en tres partes. La primera será
 
 encabezada de esta manera:
 
 la verdadera
 
-religin es costosa;
+religión es costosa;
 
-la segunda llevar este lema:
+la segunda llevará este lema:
 
-la sabidura sugiere que antes de entrar en ella debemos calcular el
+la sabiduría sugiere que antes de entrar en ella debemos calcular el
 
 costo;
 
-y la tercera llevar esta inscripcin:
+y la tercera llevará esta inscripción:
 
 cueste lo que cueste, vale lo que cuesta.
 
@@ -208,63 +208,63 @@ entonces, partiendo de nuestro texto, es claro que
 
 LA VERDADERA
 
-RELIGIN
+RELIGIÓN
 
-ES COSTOSA. Lejos de nosotros est el crear aqu alguna confusin de
+ES COSTOSA. Lejos de nosotros esté el crear aquí alguna confusión de
 
-pensamiento. Los dones de la gracia de Dios no nos cuestan nada y Su salvacin
+pensamiento. Los dones de la gracia de Dios no nos cuestan nada y Su salvación
 
-no podra ser comprada con dinero, ni con mrito, ni gracias a votos y
+no podría ser comprada con dinero, ni con mérito, ni gracias a votos y
 
-penitencias. Si diese el hombre todos los bienes de su casa por este amor, de
+penitencias. “Si diese el hombre todos los bienes de su casa por este amor, de
 
-cierto lo menospreciaran. El lema evanglico es: sin dinero y sin precio. Nosotros
+cierto lo menospreciarían”. El lema evangélico es: “sin dinero y sin precio”. Nosotros
 
-somos justificados gratuitamente por Su gracia, mediante la redencin que es
+somos “justificados gratuitamente por Su gracia, mediante la redención que es
 
-en Cristo Jess. No obstante, si un hombre es cristiano, le costar algo.
+en Cristo Jesús”. No obstante, si un hombre es cristiano, le costará algo.
 
 Consideren un momento.
 
-All est un ciego, sentado a la vera del camino, mendigando; pide que sus ojos
+Allí está un ciego, sentado a la vera del camino, mendigando; pide que sus ojos
 
-le sean abiertos. Le costar algo? No, el Salvador no aceptara ni todo el oro
+le sean abiertos. żLe costará algo? No, el Salvador no aceptaría ni todo el oro
 
-del mundo por esa curacin. Le abre sus ojos gratuitamente; pero una vez
+del mundo por esa curación. Le abre sus ojos gratuitamente; pero una vez
 
-abiertos, a ese ciego le costar algo. Al obtener su vista ser llamado a
+abiertos, a ese ciego le costará algo. Al obtener su vista será llamado a
 
 cumplir con los deberes de alguien que tiene ojos. Desde ese momento ya no se
 
-le permitir sentarse all para mendigar, o, si tratara de hacerlo, perdera la
+le permitirá sentarse allí para mendigar, o, si tratara de hacerlo, perdería la
 
-simpata que es acordada a la ceguera. Ahora que sus ojos han sido abiertos, tiene
+simpatía que es acordada a la ceguera. Ahora que sus ojos han sido abiertos, tiene
 
-que usarlos para ganar su propio pan. Le costar algo, pues ahora estar
+que usarlos para ganar su propio pan. Le costará algo, pues ˇahora estará
 
 consciente de la oscuridad de la noche de la cual no supo nada antes! Y ahora
 
-tiene que mirar algunos tristes espectculos que nunca antes lo haban
+tiene que mirar algunos tristes espectáculos que nunca antes lo habían
 
-afligido, pues a menudo el corazn no lamenta lo que el ojo no ve. Un hombre no
+afligido, pues a menudo el corazón no lamenta lo que el ojo no ve. Un hombre no
 
-puede ganar una facultad (como la vista) excepto gastando algo; el que aade
+puede ganar una facultad (como la vista) excepto gastando algo; el que ańade
 
-conocimiento o la forma de aumentarlo, aade aflicciones y obligaciones.
+conocimiento o la forma de aumentarlo, ańade aflicciones y obligaciones.
 
 Tomen otro caso. Un
 
-hombre pobre es convertido en un prncipe de pronto: eso le costar tener que
+hombre pobre es convertido en un príncipe de pronto: eso le costará tener que
 
-renunciar a sus hbitos anteriores y lo llenar de nuevos deberes y cuidados.
+renunciar a sus hábitos anteriores y lo llenará de nuevos deberes y cuidados.
 
-Un hombre es puesto en el camino al cielo como un peregrino: paga algo por
+Un hombre es puesto en el camino al cielo como un peregrino: żpaga algo por
 
 entrar por la puerta angosta? Claro que no. La gracia inmerecida lo admite a la
 
-sagrada senda. Pero haber sido puesto en el camino al cielo le costar algo a
+sagrada senda. Pero haber sido puesto en el camino al cielo le costará algo a
 
-ese hombre. Necesitar sinceridad para tocar a la puerta angosta, y tendr que
+ese hombre. Necesitará sinceridad para tocar a la puerta angosta, y tendrá que
 
 sudar para subir al Monte de
 
@@ -272,31 +272,31 @@ la
 
 Dificultad
 
-; le costar lgrimas encontrar de nuevo su
+; le costará lágrimas encontrar de nuevo su
 
-pergamino despus de haberlo perdido en el rbol de la tranquilidad; tendr que
+pergamino después de haberlo perdido en el árbol de la tranquilidad; tendrá que
 
 poner sumo cuidado al bajar al Valle de
 
-la Humillacin
+la Humillación
 
 ; le
 
-costar resistir hasta la sangre cuando entre en un conflicto cuerpo a cuerpo
+costará resistir hasta la sangre cuando entre en un conflicto cuerpo a cuerpo
 
-contra Apolin; le costar muchos temores cuando tenga que atravesar el Valle
+contra Apolión; le costará muchos temores cuando tenga que atravesar el Valle
 
 de
 
 la Sombra
 
-de Muerte; le podra costar su vida cuando llegue a
+de Muerte; le podría costar su vida cuando llegue a
 
 la Feria
 
 de las Vanidades, si
 
-como Fiel, fuera llamado a dar testimonio en la hoguera. La verdadera religin
+como Fiel, fuera llamado a dar testimonio en la hoguera. La verdadera religión
 
 es un don de Dios y no hay nada que podamos hacer para comprarla; pero al mismo
 
@@ -306,99 +306,99 @@ considerar si seremos capaces de hacerles frente.
 
 Pueden estar seguros de
 
-que el costo tiene que ser alto, pues nuestro Seor lo compara con la edificacin
+que el costo tiene que ser alto, pues nuestro Seńor lo compara con la edificación
 
-de una torre. La palabra utilizada aqu como torre ha sido empleada a menudo
+de una torre. La palabra utilizada aquí como “torre” ha sido empleada a menudo
 
-para significar una casa guarnecida con torreones, una villa o una mansin
+para significar una casa guarnecida con torreones, una villa o una mansión
 
-campestre. Quin de vosotros le pregunta a la gente- queriendo edificar
+campestre. “żQuién de vosotros” –le pregunta a la gente- “queriendo edificar
 
-una mansin para residir con toda tranquilidad, no se sienta primero y calcula
+una mansión para residir con toda tranquilidad, no se sienta primero y calcula
 
-los gastos? El edificio habr de ser costoso. Doddridge se equivoca al suponer
+los gastos?” El edificio habrá de ser costoso. Doddridge se equivoca al suponer
 
-que se tiene la intencin de describir aqu una construccin temporal. Es claro
+que se tiene la intención de describir aquí una construcción temporal. Es claro
 
-que costara una suma considerable por lo dicho por el Salvador respecto a que
+que costaría una suma considerable por lo dicho por el Salvador respecto a que
 
 un hombre sabio se sienta primero y calcula los gastos. No se pone de pie simplemente
 
-y pasa su mano por su frente diciendo: Esta torre me costar tantos cientos de
+y pasa su mano por su frente diciendo: “Esta torre me costará tantos cientos de
 
-libras esterlinas, sino que ha de ser una construccin elaborada, casi un
+libras esterlinas”, sino que ha de ser una construcción elaborada, casi un
 
 edificio palaciego, y, por tanto, se sienta, como un comerciante en su
 
 escritorio, y considera concienzudamente el proyecto; consulta al arquitecto y
 
-al ingeniero constructor, y calcula cul ser el costo de las paredes
+al ingeniero constructor, y calcula cuál será el costo de las paredes
 
-exteriores, cul ser el costo del techo, cul ser el costo de los arreglos
+exteriores, cuál será el costo del techo, cuál será el costo de los arreglos
 
-interiores y otros componentes similares, y no hace un clculo impreciso, sino
+interiores y otros componentes similares, y no hace un cálculo impreciso, sino
 
 que calcula el gasto de igual manera que los hombres cuentan su oro. Evidentemente
 
-es un asunto de consideracin para l, y lo mismo es la verdadera religin: no
+es un asunto de consideración para él, y lo mismo es la verdadera religión: no
 
 es una nimiedad, sino que es un asunto de suma importancia. Aquel que piensa
 
-que una especulacin descuidada, atolondrada y carente de un plan definido bastar
+que una especulación descuidada, atolondrada y carente de un plan definido bastará
 
 para sus intereses eternos, es lo contrario de un sabio.
 
 La verdadera piedad es
 
-la edificacin de un carcter que resistir el da del juicio. Comienza por
+la edificación de un carácter que resistirá el día del juicio. Comienza por
 
-cavar profundamente los cimientos en fe, amor y un corazn renovado; se
+cavar profundamente los cimientos en fe, amor y un corazón renovado; se
 
-contina la obra poniendo paciente y cuidadosamente, y a menudo dolorosamente,
+continúa la obra poniendo paciente y cuidadosamente, y a menudo dolorosamente,
 
-piedra sobre piedra, los materiales del imponente edificio, aadiendo
+piedra sobre piedra, los materiales del imponente edificio, ańadiendo
 
-diligentemente: a vuestra fe virtud; a la virtud, conocimiento; al
+diligentemente: “a vuestra fe virtud; a la virtud, conocimiento; al
 
 conocimiento, dominio propio; al dominio propio, paciencia; a la paciencia,
 
-piedad; a la piedad, afecto fraternal; y al afecto fraternal, amor. La obra de
+piedad; a la piedad, afecto fraternal; y al afecto fraternal, amor”. La obra de
 
-nuestra vida consiste en edificarnos sobre nuestra santsima fe. No ven que
+nuestra vida consiste en “edificarnos sobre nuestra santísima fe”. żNo ven que
 
-el carcter cristiano es asemejado a un glorioso palacio?
+el carácter cristiano es asemejado a un glorioso palacio?
 
 Pero para que no
 
-pensemos todava que el gasto es pequeo, nuestro Seor lo compara con una
+pensemos todavía que el gasto es pequeńo, nuestro Seńor lo compara con una
 
-guerra, y habla del nmero de tropas involucrado en esa guerra, mostrando que
+guerra, y habla del número de tropas involucrado en esa guerra, mostrando que
 
 no es ninguna refriega intrascendente entre dos tribus insignificantes. Lo
 
-compara con una guerra en la que de un lado hay una formacin de diez mil, y
+compara con una guerra en la que de un lado hay una formación de diez mil, y
 
-del otro lado un ejrcito de veinte mil. Ahora bien, la guerra es siempre una
+del otro lado un ejército de veinte mil. Ahora bien, la guerra es siempre una
 
-obra costosa; adems del costo de los avos y de las municiones, est el costo
+obra costosa; además del costo de los avíos y de las municiones, está el costo
 
-de la vida y de la sangre de los seres humanos, est la supresin de brazos
+de la vida y de la sangre de los seres humanos, está la supresión de brazos
 
-fuertes para la obra en casa, y estn los ms calamitosos riesgos de una
+fuertes para la obra en casa, y están los más calamitosos riesgos de una
 
-derrota, una cautividad y una devastacin. Entonces, el Seor compara a la
+derrota, una cautividad y una devastación. Entonces, el Seńor compara a la
 
-religin, en sus elementos externos, con una batalla entre el hombre agraciado
+religión, en sus elementos externos, con una batalla entre el hombre agraciado
 
-y los males desenfrenados del mundo exterior. El discpulo de Jess tiene que
+y los males desenfrenados del mundo exterior. El discípulo de Jesús tiene que
 
-defenderse contra un gigantesco enemigo, y tiene dentro de s un poder que, por
+defenderse contra un gigantesco enemigo, y tiene dentro de sí un poder que, por
 
-s solo, no es suficiente para la contienda; las posibilidades son temibles:
+sí solo, no es suficiente para la contienda; las posibilidades son temibles:
 
-diez mil contra veinte mil. Bien dice el Salvador, en el ltimo caso, que es
+diez mil contra veinte mil. Bien dice el Salvador, en el último caso, que es
 
-bueno sentarse primero para consultar. El rey con el ejrcito ms pequeo
+bueno sentarse primero para consultar. El rey con el ejército más pequeńo
 
 consulta, pregunta a sus sabios senadores, toma consejo de la experiencia, manda
 
@@ -406,401 +406,401 @@ llamar a unos buenos consejeros y debate acerca de la factibilidad del
 
 proyecto. De igual manera debemos considerar el asunto de nuestras almas, pues
 
-la religin es algo costoso y no debemos entrar en ella, como dijo el francs:
+la religión es algo costoso y no debemos entrar en ella, como dijo el francés:
 
-con despreocupacin. Esa despreocupacin le cost mucho a su nacin y as nos
+“con despreocupación”. Esa despreocupación le costó mucho a su nación y así nos
 
-costar mucho a nosotros si la consentimos.
+costará mucho a nosotros si la consentimos.
 
-Podramos haber inferido
+Podríamos haber inferido
 
 esto, pienso, a partir de algunas otras consideraciones, es decir, primero, del
 
-hecho de que la verdadera religin es algo duradero. Dura toda la vida. La
+hecho de que la verdadera religión es algo duradero. Dura toda la vida. La
 
-falsa religin viene y se va. La verdadera regeneracin no se repite nunca, y
+falsa religión viene y se va. La verdadera regeneración no se repite nunca, y
 
-es el comienzo de una vida que no conocer un fin ni en el tiempo ni en la
+es el comienzo de una vida que no conocerá un fin ni en el tiempo ni en la
 
 eternidad. Ahora bien, cualquier cosa duradera es necesariamente costosa.
 
-Puedes dar a colorear tu cristal, si quieres, y buscar lo ms barato, pero
+Puedes dar a colorear tu cristal, si quieres, y buscar lo más barato, pero
 
-pronto el sol le quitar toda su belleza. Si quieres conseguir un cristal que
+pronto el sol le quitará toda su belleza. Si quieres conseguir un cristal que
 
 retenga su color durante siglos, cada uno de los pasos en el proceso de su
 
-fabricacin ser costoso, involucrando mucha mano de obra y gran cuidado. Lo
+fabricación será costoso, involucrando mucha mano de obra y gran cuidado. Lo
 
-mismo sucede con la verdadera religin. Puedes conseguirla muy barata, si
+mismo sucede con la verdadera religión. Puedes conseguirla muy barata, si
 
-quieres, y se ver casi tan bien como la religin real, y durante un breve tiempo
+quieres, y se verá casi tan bien como la religión real, y durante un breve tiempo
 
-te proporcionar casi todo el consuelo y el respeto que el artculo genuino te
+te proporcionará casi todo el consuelo y el respeto que el artículo genuino te
 
-habra proporcionado; pero no durar; pronto se desvanecer su color, y la pretensin
+habría proporcionado; pero no durará; pronto se desvanecerá su color, y la pretensión
 
-de belleza y de excelencia que haba en ella pronto se habr esfumado. Querido
+de belleza y de excelencia que había en ella pronto se habrá esfumado. Querido
 
-amigo, t necesitas, (estoy seguro de que la necesitas), t necesitas una
+amigo, tú necesitas, (estoy seguro de que la necesitas), tú necesitas una
 
 piedad que te dure hasta tu muerte: bien, entonces tiene que costarte algo, ten
 
 la certeza de ello.
 
-Recuerda tambin que la
+Recuerda también que la
 
-verdadera religin tendr que soportar mucha tirantez, pues ver una segura
+verdadera religión tendrá que soportar mucha tirantez, pues verá una segura
 
-oposicin. Esta torre no ser edificada sin oposicin. Igual que sucedi con el
+oposición. Esta torre no será edificada sin oposición. Igual que sucedió con el
 
-muro de Jerusaln, Sanbalat y Tobas querrn con seguridad obstaculizar la
+muro de Jerusalén, Sanbalat y Tobías querrán con seguridad obstaculizar la
 
-construccin. La verdadera religin tiene que ser capaz de soportar la dureza:
+construcción. La verdadera religión tiene que ser capaz de soportar la dureza:
 
-si no puede hacerlo no sirve para nada. La vieja espada de Toledo le cost
+si no puede hacerlo no sirve para nada. La vieja espada de Toledo le costó
 
-mucho al guerrero de inicio, pero una vez que la hubo conseguido, l saba que
+mucho al guerrero de inicio, pero una vez que la hubo conseguido, él sabía que
 
-penetrara hasta las coyunturas y los tutanos en el da de la batalla, y no
+penetraría hasta las coyunturas y los tuétanos en el día de la batalla, y no
 
-tena miedo de lanzarse a lo ms recio de la refriega, ya que confiaba en su
+tenía miedo de lanzarse a lo más recio de la refriega, ya que confiaba en su
 
-temple sin rival y en su agudo filo. No habra podido encontrar una espada ms
+temple sin rival y en su agudo filo. żNo habría podido encontrar una espada más
 
-barata? Yo supongo que hubiera podido encontrarla muy fcilmente, y con poca
+barata? Yo supongo que hubiera podido encontrarla muy fácilmente, y con poca
 
-inversin de oro, pero entonces en el momento en que su espada golpeara el
+inversión de oro, pero entonces en el momento en que su espada golpeara el
 
-casco de su enemigo, en vez de partirle el crneo, se quebrara en la mano del
+casco de su enemigo, en vez de partirle el cráneo, se quebraría en la mano del
 
-guerrero y le costara su propia vida. As es la religin barata que muchos
+guerrero y le costaría su propia vida. Así es la religión barata que muchos
 
-adoptan; no hay abnegacin en ella, no hay abandono del mundo, no hay renuncia
+adoptan; no hay abnegación en ella, no hay abandono del mundo, no hay renuncia
 
-de las diversiones carnales: son exactamente lo mismo que el mundo; su religin
+de las diversiones carnales: son exactamente lo mismo que el mundo; su religión
 
-no les cuesta nada, y al final, cuando la necesiten, les fallar, y se romper en
+no les cuesta nada, y al final, cuando la necesiten, les fallará, y se romperá en
 
-el da de la batalla como una espada mal hecha, y los dejar indefensos. Oh,
+el día de la batalla como una espada mal hecha, y los dejará indefensos. ˇOh,
 
 si quieren algo que resista en el conflicto tienen que pagar por eso!
 
-Jesucristo saba que las
+Jesucristo sabía que las
 
-personas a quienes les hablaba no seran capaces de soportar las pruebas que
+personas a quienes les hablaba no serían capaces de soportar las pruebas que
 
-les esperaban a Sus discpulos; no saban que l sera crucificado, pues justo
+les esperaban a Sus discípulos; no sabían que Él sería crucificado, pues justo
 
 entonces era popular y esperaban que fuera el Rey de Israel, pero el Salvador
 
-saba que vendran das oscuros en los que el Rey de los judos sera colgado
+sabía que vendrían días oscuros en los que el Rey de los judíos sería colgado
 
-de un patbulo, y Sus discpulos, incluso los verdaderos, lo abandonaran
+de un patíbulo, y Sus discípulos, incluso los verdaderos, lo abandonarían
 
-momentneamente y huiran; y, por tanto, en efecto les dijo: han de estar
+momentáneamente y huirían; y, por tanto, en efecto les dijo: “han de estar
 
 preparados para llevar la cruz, han de estar preparados para seguirme en medio
 
-de la burla, de la vergenza y del reproche, y si no estn listos para eso, su
+de la burla, de la vergüenza y del reproche, y si no están listos para eso, su
 
-discipulado es un error. En su caso ese tipo de discipulado no pas la prueba;
+discipulado es un error. En su caso ese tipo de discipulado no pasó la prueba;
 
-esas personas se escondieron cuando lleg el tiempo de la tribulacin.
+esas personas se escondieron cuando llegó el tiempo de la tribulación.
 
 Y recuerden, queridos
 
-amigos, y quiero enfatizar este punto, que necesitamos una religin que soporte
+amigos, y quiero enfatizar este punto, que necesitamos una religión que soporte
 
-la inspeccin del grandioso Juez en el ltimo da. Hay cosas en el mundo que
+la inspección del grandioso Juez en el último día. Hay cosas en el mundo que
 
 pueden aguantar por un tiempo, pero si se miran de cerca, y especialmente si
 
-son colocadas bajo el microscopio, se ver que tienen muchos defectos: ahora
+son colocadas bajo el microscopio, se verá que tienen muchos defectos: ahora
 
-bien, ningn examen microscpico puede ser comparado ni por un instante con la
+bien, ningún examen microscópico puede ser comparado ni por un instante con la
 
-mirada de Jehov. l nos leer exhaustivamente. Oh, las hermosas profesiones
+mirada de Jehová. Él nos leerá exhaustivamente. Oh, las hermosas profesiones
 
-sern fulminadas con la mirada en el da cuando Su ojo de fuego las contemple. Nunca
+serán fulminadas con la mirada en el día cuando Su ojo de fuego las contemple. Nunca
 
-se secan las hierbas ni la mitad de rpido bajo el simn como se marchitarn
+se secan las hierbas ni la mitad de rápido bajo el simún como se marchitarán
 
 las hermosas llanuras del pretendido cristianismo bajo la mirada divina en el
 
-ltimo tremendo da. Mirar a lo que los hombres llaman cristianismo, que casi
+último tremendo día. Mirará a lo que los hombres llaman cristianismo, que casi
 
-se disipar si es que no se disipa por completo, pues cuando venga el Hijo del
+se disipará si es que no se disipa por completo, pues “cuando venga el Hijo del
 
-Hombre, hallar fe en la tierra? No ser, entonces, evidentemente cierto que
+Hombre, żhallará fe en la tierra?” żNo será, entonces, evidentemente cierto que
 
-muchos son llamados, y pocos escogidos? Esforzaos a entrar por la puerta
+“muchos son llamados, y pocos escogidos”? “Esforzaos a entrar por la puerta
 
-angosta es todava la voz de Cristo para todos nosotros- porque os digo que
+angosta –es todavía la voz de Cristo para todos nosotros- “porque os digo que
 
-muchos procurarn entrar, y no podrn. Si nuestra religin ha de ser pesada en
+muchos procurarán entrar, y no podrán”. Si nuestra religión ha de ser pesada en
 
 la balanza, y puede ser tal vez hallada falta, es bueno que nos cuidemos de eso
 
 y que sepamos que tiene que ser sincera, genuina y costosa, si ha de pasar esa
 
-ordala.
+ordalía.
 
-Entonces, cul es el
+Entonces, żcuál es el
 
-gasto? Cul es el costo de edificar esta torre o de pelear esta guerra? La
+gasto? żCuál es el costo de edificar esta torre o de pelear esta guerra? La
 
-respuesta es dada por nuestro Salvador, no por m. Yo no me hubiera atrevido a
+respuesta es dada por nuestro Salvador, no por mí. Yo no me hubiera atrevido a
 
-inventar unas pruebas como las que l ha ordenado; a m me corresponde ser el
+inventar unas pruebas como las que Él ha ordenado; a mí me corresponde ser el
 
-eco de Su voz y nada ms. Qu dice l? Pues bien, primero, que si quieres ser
+eco de Su voz y nada más. żQué dice Él? Pues bien, primero, que si quieres ser
 
-Suyo, y quieres tener Su salvacin, tienes que amarlo ms que a cualquier otra
+Suyo, y quieres tener Su salvación, tienes que amarlo más que a cualquier otra
 
-persona en este mundo. No es se el significado de esta expresin: Si alguno
+persona en este mundo. żNo es ése el significado de esta expresión: “Si alguno
 
-viene a m, y no aborrece a su padre, y madre? Nombres amados! Nombres
+viene a mí, y no aborrece a su padre, y madre”? ˇNombres amados! ˇNombres
 
-amados! Padre y madre! Acaso vive algn hombre con un alma tan muerta que
+amados! “ˇPadre y madre!” żAcaso vive algún hombre con un alma tan muerta que
 
-pueda pronunciar cualquiera de estas palabras sin emocin, y especialmente la
+pueda pronunciar cualquiera de estas palabras sin emoción, y especialmente la
 
-ltima: madre? Varones y hermanos, este es un nombre amado y tierno para nosotros;
+última: “madre”? Varones y hermanos, este es un nombre amado y tierno para nosotros;
 
-toca una cuerda que emociona a nuestro ser; con todo, mucho ms poderoso es el
+toca una cuerda que emociona a nuestro ser; con todo, mucho más poderoso es el
 
-nombre del Salvador, el nombre de Jess. Menos amados han de ser padre y madre
+nombre del Salvador, el nombre de Jesús. Menos amados han de ser padre y madre
 
-que Jesucristo. El Seor exige precedencia tambin sobre la muy amada esposa.
+que Jesucristo. El Seńor exige precedencia también sobre la muy amada “esposa”.
 
-Aqu toca otro conjunto de cuerdas del corazn. Esa palabra esposa es amada, se
+Aquí toca otro conjunto de cuerdas del corazón. Esa palabra “esposa” es amada, se
 
-trata de la compaera de nuestro ser, el consuelo de nuestra afliccin y el
+trata de la compańera de nuestro ser, el consuelo de nuestra aflicción y el
 
-deleite de nuestros ojos: esposa! Con todo, esposa, t no debes tomar el
+deleite de nuestros ojos: “ˇesposa!” Con todo, esposa, tú no debes tomar el
 
-lugar principal; t tienes que sentarte a los pies de Jess, pues de otra
+lugar principal; tú tienes que sentarte a los pies de Jesús, pues de otra
 
-manera, t seras un dolo y Jess no tolerara tu rivalidad. Y los nios,
+manera, tú serías un ídolo y Jesús no toleraría tu rivalidad. Y los “nińos”,
 
-los amados bebs que anidan en el pecho y se suben a la rodilla y pronuncian el
+los amados bebés que anidan en el pecho y se suben a la rodilla y pronuncian el
 
 nombre de los padres con musicales acentos, ellos no deben ser nuestro
 
 principal amor; no deben interponerse entre nosotros y el Salvador, y no
 
-debemos contristar a nuestro Seor por causa suya, ni por darles placer o
+debemos contristar a nuestro Seńor por causa suya, ni por darles placer o
 
-promover su ventaja mundana. Muchos hijos son seores de su padre, muchas hijas
+promover su ventaja mundana. Muchos hijos son seńores de su padre, muchas hijas
 
-han sido amas de su mam; pero si es para mal, esto ha de llegar de inmediato a
+han sido amas de su mamá; pero si es para mal, esto ha de llegar de inmediato a
 
-su fin. Si nos tientan al mal deben ser tratados como si los odiramos; s, el
+su fin. Si nos tientan al mal deben ser tratados como si los odiáramos; sí, el
 
-mal en ellos debe ser odiado por causa de Cristo. Si son discpulos de Cristo,
+mal en ellos debe ser odiado por causa de Cristo. Si son discípulos de Cristo,
 
-su Seor tiene que ser primero, y luego seguirn madre, padre, esposa, hijos,
+su Seńor tiene que ser primero, y luego seguirán madre, padre, esposa, hijos,
 
 hermanos y hermanas en su debido rango y en su orden.
 
 Me temo que muchos
 
-profesantes no estn preparados para esto. Seran cristianos si su familia lo
+profesantes no están preparados para esto. Serían cristianos si su familia lo
 
 aprobara, pero tienen que consultar con su hermano, con su padre o con su
 
-esposa. Ellos se opondran a los placeres mundanos si otros lo hicieran, pero
+esposa. Ellos se opondrían a los placeres mundanos si otros lo hicieran, pero
 
-no pueden tolerar figurar como excntricos ni oponerse a los puntos de vista de
+no pueden tolerar figurar como excéntricos ni oponerse a los puntos de vista de
 
-sus parientes. Dicen: mi padre lo desea, y no me atrevo a decirle que est
+sus parientes. Dicen: “mi padre lo desea, y no me atrevo a decirle que está
 
-mal. Mi madre dice que no debemos ser tan mojigatos, y por tanto, aunque mi
+mal”. “Mi madre dice que no debemos ser tan mojigatos, y por tanto, aunque mi
 
-conciencia me dice que est mal, con todo, yo lo har; o por otra parte dicen:
+conciencia me dice que está mal, con todo, yo lo haré”; o por otra parte dicen:
 
-mis hijas estn creciendo y tienen que divertirse, y mis hijos tienen que
+“mis hijas están creciendo y tienen que divertirse, y mis hijos tienen que
 
 disfrutar de sus placeres, y, por tanto, tenemos que ser tolerantes con el
 
-pecado.
+pecado”.
 
-Ah, hermanos mos, si
+Ah, hermanos míos, si
 
-son verdaderamente discpulos de Cristo, no debe ser as. Deben hacerlos a
+son verdaderamente discípulos de Cristo, no debe ser así. Deben hacerlos a
 
-todos a un lado, y los ms queridos tienen que ser los primeros en irse antes
+todos a un lado, y los más queridos tienen que ser los primeros en irse antes
 
-que abandonar a Cristo; pues, no dice l en los Salmos: Oye, hija, y mira, e
+que abandonar a Cristo; pues, żno dice Él en los Salmos: “Oye, hija, y mira, e
 
-inclina tu odo; olvida tu pueblo, y la casa de tu padre; y desear el rey tu
+inclina tu oído; olvida tu pueblo, y la casa de tu padre; y deseará el rey tu
 
-hermosura; e inclnate a l, porque l es tu seor? Advierte que demostrars
+hermosura; e inclínate a él, porque él es tu seńor”? Advierte que demostrarás
 
-mejor tu amor a tus parientes optando por lo recto, pues entonces ser ms probable
+mejor tu amor a tus parientes optando por lo recto, pues entonces será más probable
 
-que ganes sus almas. malos intensamente como para no consentir lo malo en
+que ganes sus almas. Ámalos intensamente como para no consentir lo malo en
 
-ellos; malos tan verdaderamente que odies en ellos lo que te daara a ti y
+ellos; ámalos tan verdaderamente que odies en ellos lo que te dańaría a ti y
 
-los arruinara a ellos. Tienes que estar preparado para sufrir por causa de
+los arruinaría a ellos. Tienes que estar preparado para sufrir por causa de
 
-quienes estn ligados a ti por los lazos ms amorosos; el pecado no debe ser
+quienes están ligados a ti por los lazos más amorosos; el pecado no debe ser
 
 tolerado prescindiendo de lo que pudiera pasar. No podemos ceder en el punto
 
-del pecado; nuestra determinacin es invencible; venga odio o venga amor,
+del pecado; nuestra determinación es invencible; venga odio o venga amor,
 
 tenemos que seguir a Cristo.
 
 El siguiente elemento de
 
-costo es ste: el yo debe ser odiado. Me temo que hay algunos que preferiran
+costo es éste: el ‘yo’ debe ser odiado. Me temo que hay algunos que preferirían
 
 odiar a padre o a esposa que odiar a su propia vida. Sin embargo, esa es la
 
-exigencia. Quiere decir esto: que all donde mi propio placer, o mi propia
+exigencia. Quiere decir esto: que allí donde mi propio placer, o mi propia
 
-ganancia, o mi propia reputacin, o incluso mi propia vida obstaculicen la
+ganancia, o mi propia reputación, o incluso mi propia vida obstaculicen la
 
-gloria de Cristo, yo soy muy pequeo para considerarme algo e incluso tengo que
+gloria de Cristo, yo soy muy pequeńo para considerarme algo e incluso tengo que
 
-odiarme a m mismo si el ego se interpone en el camino de Cristo. He de
+odiarme a mí mismo si el ego se interpone en el camino de Cristo. He de
 
-considerar a padre, madre, hermano, hermana y a m mismo tambin como enemigos,
+considerar a padre, madre, hermano, hermana y a mí mismo también como enemigos,
 
-en la medida en que se opongan al Seor Jess y a Su santa voluntad. Tengo que
+en la medida en que se opongan al Seńor Jesús y a Su santa voluntad. Tengo que
 
-amarlos y desear su bien as como tambin deseo mi propio bien, pero no he de
+amarlos y desear su bien así como también deseo mi propio bien, pero no he de
 
-desear ningn bien para ellos o para m mismo a costa de pecar y de robarle al
+desear ningún bien para ellos o para mí mismo a costa de pecar y de robarle al
 
-Seor Jess Su gloria. En cuanto a m, si veo cualquier cosa que se oponga a
+Seńor Jesús Su gloria. En cuanto a mí, si veo cualquier cosa que se oponga a
 
-Jess, tengo que desecharla. Tengo que mortificar la carne con sus afectos y
+Jesús, tengo que desecharla. Tengo que mortificar la carne con sus afectos y
 
-lascivias, negndome a m mismo cualquier cosa que contriste al Salvador o que
+lascivias, negándome a mí mismo cualquier cosa que contriste al Salvador o que
 
-impida alcanzar mi perfecta conformidad a l.
+impida alcanzar mi perfecta conformidad a Él.
 
-A continuacin, el
+A continuación, el
 
 Salvador prosigue diciendo que si queremos seguirle tenemos que llevar nuestra
 
-cruz: El que no lleva su cruz y viene en pos de m, no puede ser mi
+cruz: “El que no lleva su cruz y viene en pos de mí, no puede ser mi
 
-discpulo. Algunas veces esa cruz viene en la forma de confesar nuestra fe
+discípulo”. Algunas veces esa cruz viene en la forma de confesar nuestra fe
 
-delante de los contradictores. Ah dice el de tmido corazn- si hiciera eso
+delante de los contradictores. “Ah” –dice el de tímido corazón- “si hiciera eso
 
-tendra a todos mis amigos en contra ma. Toma tu cruz! Es una parte del
+tendría a todos mis amigos en contra mía”. ˇToma tu cruz! Es una parte del
 
-costo del verdadero discipulado. Difcilmente sabra cmo conducirme en el
+costo del verdadero discipulado. “Difícilmente sabría cómo conducirme en el
 
-hogar si confesara mi religin. Toma tu cruz!, hermano mo, o no puedes ser
+hogar si confesara mi religión”. ˇToma tu cruz!, hermano mío, o no puedes ser
 
-discpulo de Cristo. Bien, pero implicar un cambio incluso en mi vida
+discípulo de Cristo. “Bien, pero implicará un cambio incluso en mi vida
 
-diaria. Haz el cambio, hermano mo, o no puedes ser discpulo del Seor. Pero
+diaria”. Haz el cambio, hermano mío, o no puedes ser discípulo del Seńor. “Pero
 
-yo s que hay alguien muy querido a quien he considerado como candidato para
+yo sé que hay alguien muy querido a quien he considerado como candidato para
 
-que sea mi futuro compaero, y l me dejara si abandonara los caminos del
+que sea mi futuro compańero, y él me dejaría si abandonara los caminos del
 
-mundo. Entonces, por muy pesada que sea la prdida, djalo ir, si es que no
+mundo”. Entonces, por muy pesada que sea la pérdida, déjalo ir, si es que no
 
-puedes seguir a Cristo y unirte a l, pues debes seguir a Jess o te perders
+puedes seguir a Cristo y unirte a él, pues debes seguir a Jesús o te perderás
 
-para siempre. Qu palabras tan duras son esas! Son excelentes detectores de
+para siempre. ˇQué palabras tan duras son esas! ˇSon excelentes detectores de
 
-la hipocresa de muchos cristianos profesantes! Se separaron jams del mundo?
+la hipocresía de muchos cristianos profesantes! żSe separaron jamás del mundo?
 
 No, ellos no; siguen sus modas igual que los peces muertos flotan con la
 
-corriente. Les reprocha alguien por ser demasiado rgidos y demasiado
+corriente. żLes reprocha alguien por ser demasiado rígidos y demasiado
 
-puritanos? Oh, no!, pues la suya es la religin que el mundo alaba, y por
+puritanos? ˇOh, no!, pues la suya es la religión que el mundo alaba, y por
 
-consiguiente, la religin que Dios aborrece. Si alguno ama al mundo, el amor
+consiguiente, la religión que Dios aborrece. Si alguno ama al mundo, el amor
 
-del Padre no est en l, y el que goza de la sonrisa de los impos busca la
+del Padre no está en él, y el que goza de la sonrisa de los impíos busca la
 
 censura de Dios.
 
-Pero, adems de esto, el
+Pero, además de esto, el
 
-Salvador, como otro elemento de costo, requiere que Su discpulo tome su cruz
+Salvador, como otro elemento de costo, requiere que Su discípulo tome su cruz
 
 y le siga,
 
 es decir, que tiene que
 
-actuar como Cristo actu. Si no estamos preparados a convertir a Cristo en
+actuar como Cristo actuó. Si no estamos preparados a convertir a Cristo en
 
-nuestro ejemplo, s, si no es nuestra sublime ambicin vivir como l vivi y
+nuestro ejemplo, sí, si no es nuestra sublime ambición vivir como Él vivió y
 
-entregarnos a actuar como l actu, no podemos ser Sus discpulos.
+entregarnos a actuar como Él actuó, no podemos ser Sus discípulos.
 
-Por ltimo, tenemos que
+Por último, tenemos que
 
-hacer a Jess una entrega sin reservas de todo. Escuchen estas palabras: Cualquiera
+hacer a Jesús una entrega sin reservas de todo. Escuchen estas palabras: “Cualquiera
 
-de vosotros que no renuncia a todo lo que posee, no puede ser mi discpulo.
+de vosotros que no renuncia a todo lo que posee, no puede ser mi discípulo”.
 
-Podra llegarse incluso al punto de que pudiera surgir la persecucin, y tendras
+Podría llegarse incluso al punto de que pudiera surgir la persecución, y tendrías
 
 que renunciar efectivamente a todo. Tienes que estar preparado para ese evento.
 
 Tal vez no tengas que renunciar a nada, pero la entrega tiene que ser tan real
 
-en tu corazn como si hubiera sido llevada a cabo en acto y de hecho. Nadie se
+en tu corazón como si hubiera sido llevada a cabo en acto y de hecho. Nadie se
 
-ha entregado a Cristo verdaderamente a menos que haya dicho tambin: Seor
+ha entregado a Cristo verdaderamente a menos que haya dicho también: “Seńor
 
-mo, yo te doy en este da mi cuerpo, mi alma, mis poderes, mis talentos, mis
+mío, yo te doy en este día mi cuerpo, mi alma, mis poderes, mis talentos, mis
 
 bienes, mi casa, mis hijos y todo lo que tengo. A partir de ahora voy ser
 
-responsable de ellos segn Tu voluntad, como un mayordomo bajo Tus rdenes.
+responsable de ellos según Tu voluntad, como un mayordomo bajo Tus órdenes.
 
-Ellos son Tuyos; en cuanto a m, no tengo nada, pues todo te lo he entregado.
+Ellos son Tuyos; en cuanto a mí, no tengo nada, pues todo te lo he entregado”.
 
-Ustedes no pueden ser discpulos de Cristo a ningn costo menor que ese; si
+Ustedes no pueden ser discípulos de Cristo a ningún costo menor que ese; si
 
-posees un cuarto de penique que sea tuyo y no de tu Seor, Cristo no es tu
+posees un cuarto de penique que sea tuyo y no de tu Seńor, Cristo no es tu
 
-Seor. Todo tiene que ser Suyo, cada iota y cada tilde, y tu vida tambin, o no
+Seńor. Todo tiene que ser Suyo, cada iota y cada tilde, y tu vida también, o no
 
 puedes ser Suyo.
 
 Estas son palabras
 
-escrutadoras, pero quisiera recordarte una vez ms que no son mas en absoluto.
+escrutadoras, pero quisiera recordarte una vez más que no son mías en absoluto.
 
-Si al exponerlas he errado, me aflige que as sea, pero estoy persuadido de que
+Si al exponerlas he errado, me aflige que así sea, pero estoy persuadido de que
 
 no he errado del lado de una gran severidad. Confieso que pude haber hablado
 
-demasiado benignamente. Las palabras del texto ponen el hacha a la raz, y son demoledoras
+demasiado benignamente. Las palabras del texto ponen el hacha a la raíz, y son demoledoras
 
-en sumo grado. Oh, calculen, entonces, el costo! Y si cualquiera de ustedes ha
+en sumo grado. ˇOh, calculen, entonces, el costo! Y si cualquiera de ustedes ha
 
-asumido una religin que no le cuesta nada, abandnela y huya de ella, pues
+asumido una religión que no le cuesta nada, abandónela y huya de ella, pues
 
-ser su maldicin y su ruina.
+será su maldición y su ruina.
 
-Hay forma de llegar al
+żHay forma de llegar al
 
-cielo sin incurrir en este costo? No. Pero no podemos ser cristianos sin estos
+cielo sin incurrir en este costo? No. żPero no podemos ser cristianos sin estos
 
-sacrificios? Podran ser falsificaciones de cristianos, podran ser hipcritas,
+sacrificios? Podrían ser falsificaciones de cristianos, podrían ser hipócritas,
 
-podran ser hermanos de Judas, pero no podran ser verdaderos cristianos. Este
+podrían ser hermanos de Judas, pero no podrían ser verdaderos cristianos. Este
 
 costo es inevitable, y no puede ser reducido ni una pizca. Que Dios les conceda
 
-que puedan ser capacitados a someterse a l.
+que puedan ser capacitados a someterse a él.
 
 II.
 
@@ -810,453 +810,453 @@ segundo encabezado es este:
 
 LA
 
-SABIDURA
+SABIDURÍA
 
 SUGIERE
 
 QUE DEBEMOS CALCULAR EL
 
-GASTO. T piensas que te gustara ser cristiano. Querido amigo, dame tu mano.
+GASTO. Tú piensas que te gustaría ser cristiano. Querido amigo, dame tu mano.
 
-Me alegra que tengas esa inclinacin. Pero al tomar tu mano queriendo llevarte
+Me alegra que tengas esa inclinación. Pero al tomar tu mano queriendo llevarte
 
-gustosamente a Cristo, te miro a la cara y te pregunto: Sabes qu es lo que
+gustosamente a Cristo, te miro a la cara y te pregunto: “żSabes qué es lo que
 
-quieres? Ests seguro de que deseas eso? Hay hombres que cuando yacen sobre
+quieres? żEstás seguro de que deseas eso?” Hay hombres que cuando yacen sobre
 
 sus lechos de enfermedad claman pidiendo ayuda, pero cuando se recuperan y
 
 tienen que salir y que combatir con el mundo, puede llegar un momento cuando
 
-digan: Quisiera que se me concediera estar de nuevo sobre el lecho de
+digan: “Quisiera que se me concediera estar de nuevo sobre el lecho de
 
-enfermo. No me gustara que llegara el momento cuando alguno de ustedes dijera:
+enfermo”. No me gustaría que llegara el momento cuando alguno de ustedes dijera:
 
-me un a la iglesia, pero fue un error. No sopes el asunto correctamente.
+“me uní a la iglesia, pero fue un error. No sopesé el asunto correctamente.
 
-Estoy adentro debido a eso, pero lamento estar adentro, pues no debera estar adonde
+Estoy adentro debido a eso, pero lamento estar adentro, pues no debería estar adonde
 
-estoy. Si eres honesto, deberas renunciar a tu profesin, si tal es el caso.
+estoy”. Si eres honesto, deberías renunciar a tu profesión, si tal es el caso.
 
-Si no tienes gracia, espero que tengas suficiente honestidad comn para no adherirte
+Si no tienes gracia, espero que tengas suficiente honestidad común para no adherirte
 
-a una falsedad prctica. Me afligira en verdad si eso sucediera, y, por eso te
+a una falsedad práctica. Me afligiría en verdad si eso sucediera, y, por eso te
 
-ruego que calcules el gasto esta maana, pues advierte que si no calculas el
+ruego que calcules el gasto esta mańana, pues advierte que si no calculas el
 
-costo, no sers capaz de llevar a cabo tus resoluciones. Se trata de un gran
+costo, no serás capaz de llevar a cabo tus resoluciones. Se trata de un gran
 
-edificio, se trata de una gran guerra. Ningn error puede ser mayor que la idea
+edificio, se trata de una gran guerra. Ningún error puede ser mayor que la idea
 
-de que para ser salvados slo se necesita una medida de emocin durante unos
+de que para ser salvados sólo se necesita una medida de emoción durante unos
 
-cuantos das, y la creencia ejercida en una hora decisiva. Si yo predicara
+cuantos días, y la creencia ejercida en una hora decisiva. Si yo predicara
 
-tales doctrinas estara engaando a sus almas. La fe y el arrepentimiento no
+tales doctrinas estaría engańando a sus almas. La fe y el arrepentimiento no
 
 son la obra de una semana o de dos, antes bien, son la obra de toda una vida. En
 
-tanto que el cristiano est en la tierra tiene que arrepentirse, y en cuanto a
+tanto que el cristiano esté en la tierra tiene que arrepentirse, y en cuanto a
 
-la fe, no se trata de decir: yo creo en Jess y entonces soy salvo, sino que
+la fe, no se trata de decir: “yo creo en Jesús y entonces soy salvo”, sino que
 
 es una gracia cotidiana, es la confianza de toda una vida. El cristiano
 
-permanece creyendo y arrepintindose mientras no comience a triunfar en la
+permanece creyendo y arrepintiéndose mientras no comience a triunfar en la
 
-eterna gloria. Adems, la fe produce continuamente resultados santificantes en
+eterna gloria. Además, la fe produce continuamente resultados santificantes en
 
-la vida del creyente, o de otra manera, no est posedo por la fe debida. El
+la vida del creyente, o de otra manera, no está poseído por la fe debida. El
 
 que cree en Jesucristo es salvo, pero si hubiese tal cosa como una fe temporal,
 
-habra algo as como una salvacin temporal. El que se arrepiente
+habría algo así como una salvación temporal. El que se arrepiente
 
 verdaderamente del pecado es un hombre renovado, pero si el arrepentimiento del
 
-pecado fuera slo una cosa transitoria y acabara pronto, la vida que indicaba
+pecado fuera sólo una cosa transitoria y acabara pronto, la vida que indicaba
 
-acabara tambin. No debes contentarte con una religin falsa y transitoria.
+acabaría también. No debes contentarte con una religión falsa y transitoria.
 
-Ests comenzando a edificar una torre de la cual la piedra cimera nunca ser
+Estás comenzando a edificar una torre de la cual la piedra cimera nunca será
 
-puesta sino hasta que seas llevado al cielo, y ests comenzando una guerra que
+puesta sino hasta que seas llevado al cielo, y estás comenzando una guerra que
 
-no acabar nunca hasta que intercambies la espada por la rama de palma.
+no acabará nunca hasta que intercambies la espada por la rama de palma.
 
-Recuerda, tambin, que
+Recuerda, también, que
 
-fallar en esta gran empresa implicara una terrible derrota, pues, qu dice el
+fallar en esta gran empresa implicaría una terrible derrota, pues, żqué dice el
 
-Seor? l dice que ser incapaz de acabar te expondra al ridculo. Te ruego que
+Seńor? Él dice que ser incapaz de acabar te expondría al ridículo. Te ruego que
 
-adviertas la forma de ese ridculo: Todos los que lo vean comiencen a hacer
+adviertas la forma de ese ridículo: “Todos los que lo vean comiencen a hacer
 
-burla de l, diciendo unos a otros (pues esa es la fuerza de la expresin):
+burla de él, diciendo unos a otros (pues esa es la fuerza de la expresión):
 
-Este hombre comenz a edificar, y no pudo acabar. Nuestro Seor no los
+Este hombre comenzó a edificar, y no pudo acabar”. Nuestro Seńor no los
 
-describe como diciendo al insensato constructor: t comenzaste a construir y
+describe como diciendo al insensato constructor: “tú comenzaste a construir y
 
-no pudiste acabar, sino como hablando acerca de l como en tercera persona:
+no pudiste acabar”, sino como hablando acerca de él como en tercera persona:
 
-Este hombre. Ahora bien, pudiera ser que los cristianos indiferentes, los hombres
+“Este hombre”. Ahora bien, pudiera ser que los cristianos indiferentes, los hombres
 
 religiosos indiferentes no sean objeto de burla en su propia cara en las calles,
 
-pero son el comn blanco del ridculo tras sus espaldas. Los falsos profesantes
+pero son el común blanco del ridículo tras sus espaldas. Los falsos profesantes
 
-son despreciados universalmente. Los mundanos dicen rindose: Ah, estos son
+son despreciados universalmente. Los mundanos dicen riéndose: “ˇAh, estos son
 
-hermosos especmenes de miembros de la iglesia! El mundo contempla a la
+hermosos especímenes de miembros de la iglesia!” El mundo contempla a la
 
-iglesia mundana con absoluto desdn, y por mi parte poco lamento que tal
+iglesia mundana con absoluto desdén, y por mi parte poco lamento que tal
 
-irrisin sea arrojada sobre un objeto que tanto lo merece. Ser un mero pretendiente
+irrisión sea arrojada sobre un objeto que tanto lo merece. Ser un mero pretendiente
 
 al discipulado cristiano es convertirse en un objeto de escarnio en el tiempo y
 
-en la eternidad, y tal ser el destino del falso profesante.
+en la eternidad, y tal será el destino del falso profesante.
 
 Amigo: si pretendes ser
 
-cristiano, resuelve, ntegra y decididamente, que eso ser lo correcto; pues
+cristiano, resuelve, íntegra y decididamente, que eso será lo correcto; pues
 
 entonces aunque los hombres no anden rondando y te alaben en tu cara, ellos te
 
-honrarn, e incluso quienes te odian conocern tu valor; pero si slo eres
+honrarán, e incluso quienes te odian conocerán tu valor; pero si sólo eres
 
-cristiano a medias, y no lo eres ntegramente, puede ser que no se presenten
+cristiano a medias, y no lo eres íntegramente, puede ser que no se presenten
 
-ante ti para mostrar su desprecio, pero al pasar junto a ti se mofarn y
+ante ti para mostrar su desprecio, pero al pasar junto a ti se mofarán y
 
-tendrn ms respeto por un mundano descarado que por ti, porque l es lo que
+tendrán más respeto por un mundano descarado que por ti, porque él es lo que
 
-dice ser y no pretende ser ninguna otra cosa, pero en cambio t, t comenzaste
+dice ser y no pretende ser ninguna otra cosa, pero en cambio tú, tú comenzaste
 
-a edificar y no pudiste acabar. Qu desgracia es ser un cristiano fingido!
+a edificar y no pudiste acabar. ˇQué desgracia es ser un cristiano fingido!
 
 Hemos visto algunas veces que algunos especuladores han comenzado y han
 
-abandonado grandes edificios, y los vecinos se han referido a ellos como: la
+abandonado grandes edificios, y los vecinos se han referido a ellos como: “la
 
-locura de Smith, o la locura de Brown, o la locura de Robinson, o cosas
+locura de Smith”, o “la locura de Brown”, o “la locura de Robinson”, o cosas
 
-parecidas; esos son slo motivos pasajeros de mofa; pero el aparentador, el
+parecidas; esos son sólo motivos pasajeros de mofa; pero el aparentador, el
 
-hombre que en apariencia comenz a ser cristiano y luego perdi el nimo, ser
+hombre que en apariencia comenzó a ser cristiano y luego perdió el ánimo, será
 
-sealado con el dedo incluso por los perdidos que estn en el infierno. El
+seńalado con el dedo incluso por los perdidos que están en el infierno. El
 
-borracho exclamar: y t? Has venido t tambin aqu? T, que eras tan
+borracho exclamará: “ży tú? żHas venido tú también aquí? Tú, que eras tan
 
-elocuente acerca de la sobriedad y tan propenso a regaar al amante de la
+elocuente acerca de la sobriedad y tan propenso a regańar al amante de la
 
-bebida. Aj!, -exclama otro- t eres el hombre que viva en nuestra misma
+bebida”. “ˇAjá!”, -exclama otro- “tú eres el hombre que vivía en nuestra misma
 
-calle y que haca todo un espectculo de su religin; t me dijiste que yo era
+calle y que hacía todo un espectáculo de su religión; tú me dijiste que yo era
 
-muy perverso, pero, en qu eres mejor t que yo? He aqu, yo veo a los
+muy perverso, pero, żen qué eres mejor tú que yo?” He aquí, yo veo a los
 
 profanos descarados levantarse de los potros de castigo de su remordimiento
 
-para exclamar: Llegaste a ser como nosotros? T, un miembro de la iglesia,
+para exclamar: “żLlegaste a ser como nosotros? Tú, un miembro de la iglesia,
 
-ests en el infierno? Est todava en tus labios el sabor del vino
+żestás en el infierno? żEstá todavía en tus labios el sabor del vino
 
-sacramental? Por qu, entonces, pides una gota de agua para refrescar tu
+sacramental? żPor qué, entonces, pides una gota de agua para refrescar tu
 
-lengua? Ese pan sacramental que engulliste tan rpido, no est atorado incluso
+lengua? Ese pan sacramental que engulliste tan rápido, żno está atorado incluso
 
-ahora en tu hipcrita garganta? T, un mentiroso delante de Dios y de los
+ahora en tu hipócrita garganta? Tú, un mentiroso delante de Dios y de los
 
-hombres, es justo y recto que seas echado fuera igual que nosotros.
+hombres, es justo y recto que seas echado fuera igual que nosotros”.
 
 Oh, si han de perderse,
 
-pirdanse por cualquier causa excepto por ser hipcritas; si han de perecer,
+piérdanse por cualquier causa excepto por ser hipócritas; si han de perecer,
 
-perezcan ms bien fuera de la iglesia que dentro de ella. No parodien al Seor
+perezcan más bien fuera de la iglesia que dentro de ella. ˇNo parodien al Seńor
 
-de gloria! No conozco ningn acto que sea peor que parodiar las excelencias del
+de gloria! No conozco ningún acto que sea peor que parodiar las excelencias del
 
-Salvador con una insolente imitacin de Sus gracias. Qu peor ofensa pudieran propinar
+Salvador con una insolente imitación de Sus gracias. żQué peor ofensa pudieran propinar
 
-a la majestad de Su sagrado poder que parodiar Su santidad y Su perfeccin?
+a la majestad de Su sagrado poder que parodiar Su santidad y Su perfección?
 
 III.
 
 La
 
-ltima palabra ser esta, que CUESTE LO QUE CUESTE,
+última palabra será esta, que CUESTE LO QUE CUESTE,
 
-LA RELIGIN
+LA RELIGIÓN
 
 VERDADERA
 
 VALE LO QUE CUESTA. Nosotros somos como un hombre
 
-afligido con la peste negra que sabe que se est muriendo, y, con todo, tiene a
+afligido con la peste negra que sabe que se está muriendo, y, con todo, tiene a
 
-su lado una medicina que lo curar. Doctor dice- usted exige un precio tan
+su lado una medicina que lo curará. “Doctor” –dice- “usted exige un precio tan
 
-alto que cada gota me cuesta un diamante; est requiriendo ms que su peso en
+alto que cada gota me cuesta un diamante; está requiriendo más que su peso en
 
 perlas escogidas, pero no importa, tengo necesidad de ella. Si no la tomo soy
 
-hombre muerto y entonces de qu me servira haber guardado mi oro?
+hombre muerto y entonces żde qué me serviría haber guardado mi oro?”
 
 Es el caso de cada uno
 
-de nosotros aqu presente: hemos de tener a Cristo o pereceremos para siempre,
+de nosotros aquí presente: hemos de tener a Cristo o pereceremos para siempre,
 
-y sera mejor que nos cortramos el brazo derecho o que nos arrancramos el ojo
+y sería mejor que nos cortáramos el brazo derecho o que nos arrancáramos el ojo
 
-derecho, a que furamos arrojados en el fuego del infierno.
+derecho, a que fuéramos arrojados en el fuego del infierno.
 
-Fjense, hermanos, que
+Fíjense, hermanos, que
 
-las presentes bendiciones de la verdadera religin valen todo su costo. Qu
+las presentes bendiciones de la verdadera religión valen todo su costo. żQué
 
-importa si tengo que romper un afectuoso lazo? Jess, T eres mejor para m que
+importa si tengo que romper un afectuoso lazo? Jesús, Tú eres mejor para mí que
 
 un esposo, una esposa o un hijo. Si es preciso que la que se reclina sobre mi
 
-pecho me considere su enemigo, T estars en mi corazn, Salvador mo, mejor
+pecho me considere su enemigo, Tú estarás en mi corazón, Salvador mío, mejor
 
-que una Raquel, o que una Rebeca. S, si es preciso que el padre diga: Si
+que una Raquel, o que una Rebeca. Sí, si es preciso que el padre diga: “Si
 
-sigues a Cristo nunca entrars por mis puertas otra vez, no importa que lo
+sigues a Cristo nunca entrarás por mis puertas otra vez”, no importa que lo
 
-diga, pues cuando me abandonen mi padre y mi madre, el Seor me recoger. El
+diga, pues cuando me abandonen mi padre y mi madre, el Seńor me recogerá. El
 
-gozo inmediato recompensar la prdida inmediata; s, sin duda puedes estimar
+gozo inmediato recompensará la pérdida inmediata; sí, sin duda puedes estimar
 
-todas las cosas como prdida por la excelencia del conocimiento de Cristo Jess
+todas las cosas como pérdida por la excelencia del conocimiento de Cristo Jesús
 
-nuestro Seor, y no obstante, sigues siendo un ganador.
+nuestro Seńor, y no obstante, sigues siendo un ganador.
 
-Y adems, qu recompensa
+Y además, qué recompensa
 
 por todo el costo incurrido se recibe en el consuelo suministrado por la
 
-genuina piedad en el artculo de la muerte. Cuando se est al borde de la
+genuina piedad en el artículo de la muerte. Cuando se está al borde de la
 
-muerte, no producir ningn dolor ser capaz de decir entonces: fui echado
+muerte, no producirá ningún dolor ser capaz de decir entonces: “fui echado
 
-fuera de mi familia por Jess. No ser ninguna afliccin recordar: fui
+fuera de mi familia por Jesús”. No será ninguna aflicción recordar: “fui
 
-ridiculizado por Cristo. No producir ningn dolor decir: fui considerado
+ridiculizado por Cristo”. No producirá ningún dolor decir: “fui considerado
 
-demasiado exigente y demasiado puritano. No, hermanos mos, esas no son las
+demasiado exigente y demasiado puritano”. No, hermanos míos, esas no son las
 
-cosas que ponen espinas en las almohadas fnebres. Oh, no!, all veremos cun
+cosas que ponen espinas en las almohadas fúnebres. ˇOh, no!, allá veremos cuán
 
-dulce fue haber llevado cualquier parte de la cruz de Jess; una astilla de Su
+dulce fue haber llevado cualquier parte de la cruz de Jesús; una astilla de Su
 
-cruz valdr el rescate de un rey en el da de la muerte.
+cruz valdrá el rescate de un rey en el día de la muerte.
 
-Adems, en el juicio,
+Además, en el juicio,
 
-cuando la trompeta suene y los muertos resuciten, no diremos: Sufr demasiado
+cuando la trompeta suene y los muertos resuciten, no diremos: “Sufrí demasiado
 
-por Cristo. Cuando Sus elegidos se pongan a Su diestra, y nosotros entre
+por Cristo”. Cuando Sus elegidos se pongan a Su diestra, y nosotros entre
 
 ellos, no miraremos al pasado lamentando el hecho de que perdimos nuestra casta
 
-en la sociedad y nuestra posicin entre los refinados por causa de Jess. No
+en la sociedad y nuestra posición entre los refinados por causa de Jesús. No
 
-lamentaremos haber asistido a un despreciado conventculo, y haber adorado
+lamentaremos haber asistido a un despreciado conventículo, y haber adorado
 
-entre los pobres de este mundo por amor a Jess y por fidelidad a Su Evangelio.
+entre los pobres de este mundo por amor a Jesús y por fidelidad a Su Evangelio.
 
-Oh, no! Yo les garantizo que en aquel da brillar con mayor refulgencia aquel
+ˇOh, no! Yo les garantizo que en aquel día brillará con mayor refulgencia aquel
 
-que fue ms ensombrecido por causa de su Seor. En medio de los seres
+que fue más ensombrecido por causa de su Seńor. En medio de los seres
 
-resplandecientes ser doblemente resplandeciente el grupo de mrtires de
+resplandecientes será doblemente resplandeciente el grupo de mártires de
 
 quienes el mundo no fue digno, que fueron considerados como la escoria de todas
 
-las cosas; y mientras que cada uno de los discpulos recibir ciento por uno
+las cosas; y mientras que cada uno de los discípulos recibirá ciento por uno
 
-por todo lo que hubo de renunciar por causa de su Seor, ellos se llevarn la
+por todo lo que hubo de renunciar por causa de su Seńor, ellos se llevarán la
 
-mejor porcin.
+mejor porción.
 
-Adems, djenme
+Además, déjenme
 
 recordarles, amados, que Cristo no les pide que renuncien a nada que los pueda
 
-daar. Si tienen que odiar a padre y madre es nicamente en este sentido: que
+dańar. Si tienen que odiar a padre y madre es únicamente en este sentido: que
 
 no van a ceder a las peticiones equivocadas, ni van a dejar a Cristo por ellos.
 
-Si tienen que renunciar a algn placer es porque no es un placer apropiado para
+Si tienen que renunciar a algún placer es porque no es un placer apropiado para
 
-ustedes; es azcar venenosa de plomo y no una verdadera dulzura. Cristo te dar,
+ustedes; es azúcar venenosa de plomo y no una verdadera dulzura. Cristo te dará,
 
 por mucho, muchos mayores goces.
 
-Adems, yo recuerdo que
+Además, yo recuerdo que
 
-nuestro Redentor no le pide a nadie que haga lo que l mismo no ha hecho. Ese
+nuestro Redentor no le pide a nadie que haga lo que Él mismo no ha hecho. Ese
 
-pensamiento me cala hasta lo ms hondo y deseo que pudiera afectarlos a ustedes
+pensamiento me cala hasta lo más hondo y deseo que pudiera afectarlos a ustedes
 
-tambin. Seor, dices t que renunciemos a nuestro padre? No dejaste T a tu
+también. Seńor, żdices tú que renunciemos a nuestro padre? żNo dejaste Tú a tu
 
-padre? Me pides que deje incluso la casa de mi padre si tiene que ser as por
+padre? żMe pides que deje incluso la casa de mi padre si tiene que ser así por
 
-tu causa? No dejaste T las gloriosas mansiones del cielo? Qu importa si soy
+tu causa? żNo dejaste Tú las gloriosas mansiones del cielo? żQué importa si soy
 
-llamado a sobrellevar el reproche? Al Padre de familia llamaron Beelzeb. Qu
+llamado a sobrellevar el reproche? Al Padre de familia llamaron Beelzebú. żQué
 
-importa si soy echado fuera? A Ti tambin te echaron fuera. Cuando pensamos en
+importa si soy echado fuera? A Ti también te echaron fuera. Cuando pensamos en
 
-los azotes, en la vergenza y en los escupitajos que el Seor soport, qu son
+los azotes, en la vergüenza y en los escupitajos que el Seńor soportó, żqué son
 
-nuestras aflicciones? Y si por Su causa furamos incluso condenados a muerte,
+nuestras aflicciones? Y si por Su causa fuéramos incluso condenados a muerte,
 
-sabemos cmo colg l de la cruz, despojado de todo lo Suyo, para salvarnos de
+sabemos cómo colgó Él de la cruz, despojado de todo lo Suyo, para salvarnos de
 
 la ira venidera.
 
-Oh, creyente, puedes
+Oh, creyente, żpuedes
 
-seguir a tu Seor adondequiera que l vaya? Soldados de la cruz, pueden
+seguir a tu Seńor adondequiera que Él vaya? Soldados de la cruz, żpueden
 
-seguirlo a l? Acaso es el camino lo suficientemente allanado para esos amados
+seguirlo a Él? żAcaso es el camino lo suficientemente allanado para esos amados
 
-pies Suyos pero es demasiado spero para ti? All est l en lo recio de la
+pies Suyos pero es demasiado áspero para ti? Allí está Él en lo recio de la
 
-batalla donde los golpes caen con mayor rapidez, lo seguirs? Te atreves a
+batalla donde los golpes caen con mayor rapidez, żlo seguirás? żTe atreves a
 
-seguirlo, o aoras las tiendas del sosiego y los blandos sillones de los cobardes
+seguirlo, o ańoras las tiendas del sosiego y los blandos sillones de los cobardes
 
-que se echan para atrs y se pasan al campo enemigo? Oh, por todo lo bueno, si
+que se echan para atrás y se pasan al campo enemigo? Oh, por todo lo bueno, si
 
-son realmente Sus seguidores, los exhorto a que den estas voces: Donde est
+son realmente Sus seguidores, los exhorto a que den estas voces: “Donde está
 
-l, all ha de estar Su siervo; segn como le vaya, as le ha de ir al siervo;
+Él, allí ha de estar Su siervo; según como le vaya, así le ha de ir al siervo;
 
-sea nuestra Su humillacin en este mundo para que en el mundo venidero podamos
+sea nuestra Su humillación en este mundo para que en el mundo venidero podamos
 
-ser partcipes de Su gloria.
+ser partícipes de Su gloria”.
 
-Esta predicacin es dura,
+Esta predicación es dura,
 
 me dicen ustedes, pero el Salvador quiso decir todo lo que yo he dicho. El Suyo
 
 era un discurso probatorio, pero hay verdades a ser recordadas que pueden
 
-consolarnos mientras las omos. Es cierto que
+consolarnos mientras las oímos. Es cierto que
 
-t
+tú
 
-no puedes edificar la torre; Josu le dijo al pueblo en su
+no puedes edificar la torre; Josué le dijo al pueblo en su
 
-tiempo: No podris servir a Jehov. Si has calculado el gasto, sabes ahora
+tiempo: “No podréis servir a Jehová”. Si has calculado el gasto, sabes ahora
 
 que no puedes pelear la guerra. Diez mil no pueden enfrentarse a veinte mil.
 
-Pero, con todo, tiene que realizarse, la necesidad inevitable presiona por detrs;
+Pero, con todo, tiene que realizarse, la necesidad inevitable presiona por detrás;
 
 sin importar lo que hubiere en el frente, no nos atrevemos a dar la espalda.
 
-Recuerden a la esposa de Lot. Qu, pues, hemos de hacer? Oigan las palabras
+Recuerden a la esposa de Lot. żQué, pues, hemos de hacer? Oigan las palabras
 
-del Seor: Para los hombres es imposible, mas para Dios, no; porque todas las
+del Seńor: “Para los hombres es imposible, mas para Dios, no; porque todas las
 
-cosas son posibles para Dios. Ests dispuesto? Entonces el Espritu de Dios
+cosas son posibles para Dios”. żEstás dispuesto? Entonces el Espíritu de Dios
 
-te ayudar. T renunciars al mundo y a la carne sin un suspiro; luchars
+te ayudará. Tú renunciarás al mundo y a la carne sin un suspiro; lucharás
 
-contra tus lujurias y las vencers por medio de la sangre del Cordero. La torre
+contra tus lujurias y las vencerás por medio de la sangre del Cordero. La torre
 
-ser edificada y el Seor la habitar. chense sobre Jess por
+será edificada y el Seńor la habitará. Échense sobre Jesús por
 
-medio de una fe simple: apyense en Su poder,
+medio de una fe simple: apóyense en Su poder,
 
-y da a da crean en Su fuerza, y l los llevar seguramente hasta el final.
+y día a día crean en Su fuerza, y Él los llevará seguramente hasta el final.
 
-Notan el versculo que
+żNotan el versículo que
 
-le sigue a este pasaje? Me pregunto si algo semejante seguir a mi sermn. Es
+le sigue a este pasaje? Me pregunto si algo semejante seguirá a mi sermón. Es
 
-asombroso que aunque Jess tron como desde de la cumbre del Sina, y Sus
+asombroso que aunque Jesús tronó como desde de la cumbre del Sinaí, y Sus
 
-palabras parecan duras, con todo, est escrito: Se acercaban a Jess todos
+palabras parecían duras, con todo, está escrito: “Se acercaban a Jesús todos
 
-los publicanos y pecadores para orle, como si dijeran: Este hombre nos dice
+los publicanos y pecadores para oírle”, como si dijeran: “Este hombre nos dice
 
-la verdad, entonces, lo oiremos. Y luego l comenz a contarles las preciosas
+la verdad, entonces, lo oiremos”. Y luego Él comenzó a contarles las preciosas
 
 verdades de Su gracia inmerecida, actuando justo como un labrador que pone el
 
 arado y remueve la tierra; y cuando ve los terrones que se rompen en el surco
 
-entonces arroja la semilla de oro, pero no antes. Oigan, todo aquel que quiera
+entonces arroja la semilla de oro, pero no antes. ˇOigan, todo aquel que quiera
 
-tener a Cristo, venga, y recbalo! T que quisieras tener la salvacin,
+tener a Cristo, venga, y recíbalo! Tú que quisieras tener la salvación,
 
-acptala como el don de Su gracia soberana, pero no la recibas bajo una
+acéptala como el don de Su gracia soberana, pero no la recibas bajo una
 
-interpretacin equivocada; entiende lo que significa. La salvacin no es slo
+interpretación equivocada; entiende lo que significa. La salvación no es sólo
 
-una liberacin del infierno; es liberacin del pecado. No es meramente rescatar
+una liberación del infierno; es liberación del pecado. No es meramente rescatar
 
-a los hombres del eterno dolor; es la redencin para ellos de los caminos vanos
+a los hombres del eterno dolor; es la redención para ellos de los caminos vanos
 
-y perversos del mundo. No puede ser dividida, es una tnica sin costura, de un
+y perversos del mundo. No puede ser dividida, es una túnica sin costura, de un
 
-solo tejido de arriba abajo. Si quieres tener la justificacin, tienes que
+solo tejido de arriba abajo. Si quieres tener la justificación, tienes que
 
-tener la santificacin; si quieres tener el perdn, tienes que tener santidad;
+tener la santificación; si quieres tener el perdón, tienes que tener santidad;
 
 si quieres ser uno con Cristo, tienes que apartarte de los pecadores. Si
 
 quieres caminar en las calles de oro en lo alto, tienes que recorrer el camino
 
-de la santidad aqu abajo. Que Dios les conceda Su Santo Espritu para que los
+de la santidad aquí abajo. Que Dios les conceda Su Santo Espíritu para que los
 
-capacite a hacerlo, y Suya sea la alabanza por los siglos. Amn.
+capacite a hacerlo, y Suya sea la alabanza por los siglos. Amén.
 
 Porciones de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Salmo 53;
+del sermón: Salmo 53;
 
 Lucas 14: 25-35.
 
 Notas del traductor:
 
-Simn: (viento
+Simún: (viento
 
 pestilencial) Viento muy caliente que sopla en los desiertos del Sahara y
 
-Arabia, generalmente de poca duracin, que arrastra remolinos de arena.
+Arabia, generalmente de poca duración, que arrastra remolinos de arena.
 
-Ordala: Prueba ritual
+Ordalía: Prueba ritual
 
-usada en la antigedad para establecer la certeza, principalmente con fines
+usada en la antigüedad para establecer la certeza, principalmente con fines
 
-jurdicos, y una de cuyas formas es el juicio de Dios.
+jurídicos, y una de cuyas formas es el juicio de Dios.
 
-Artculo de la muerte:
+Artículo de la muerte:
 
-in articulo mortis, expresin latina que significa en el artculo (la
+in articulo mortis, expresión latina que significa “en el artículo (la
 
-coyuntura, la ocasin) de la muerte.
+coyuntura, la ocasión) de la muerte.
 
-Conventculo: reunin
+Conventículo: reunión
 
 clandestina de personas para tramar cosas.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Diciembre/2011
 

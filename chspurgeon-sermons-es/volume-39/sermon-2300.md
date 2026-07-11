@@ -1,14 +1,14 @@
-# Sermón 2300 | El Plpito Del Tabernculo Metropolitanoel Evangelio En Un Verso
+# Sermón 2300 | El Púlpito Del Tabernáculo Metropolitanoel Evangelio En Un Verso
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 El Evangelio en un verso
 
 NO. 2300
 
-Sermn predicado el Domingo
+Sermón predicado el Domingo
 
-En el Tabernculo Metropolitano, Newington
+En el Tabernáculo Metropolitano, Newington
 
 "" -- Timoteo 1:15
 

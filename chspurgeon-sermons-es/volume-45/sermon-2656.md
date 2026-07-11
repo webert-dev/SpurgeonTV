@@ -1,14 +1,14 @@
 # Sermón 2656 | Sermón 2656
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Muerte
 
 de Cristo por Su Pueblo
 
-SERMN PREDICADO UN DOMINGO
+SERMÓN PREDICADO UN DOMINGO
 
 POR
 
@@ -32,75 +32,75 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 7 DE ENERO DE
 
 1900.
 
-l puso su
+“Él puso su
 
-vida por nosotros. 1 Juan 3: 16.
+vida por nosotros”. 1 Juan 3: 16.
 
 Te invito, creyente, a contemplar esta
 
-sublime verdad, as proclamada a ti en simples monoslabos: l puso su vida
+sublime verdad, así proclamada a ti en simples monosílabos: “Él puso su vida
 
-por nosotros. No hay ni una sola palabra extensa en esta frase; todo en ella
+por nosotros”. No hay ni una sola palabra extensa en esta frase; todo en ella
 
 es sumamente sencillo, y es sencillo porque es sublime. La sublimidad en el pensamiento
 
-exige siempre para su debida expresin la simplicidad en las palabras. Los
+exige siempre para su debida expresión la simplicidad en las palabras. Los
 
-pequeos pensamientos necesitan ser expresados con grandes palabras y los
+pequeńos pensamientos necesitan ser expresados con grandes palabras y los
 
-pequeos predicadores necesitan palabras en latn para transmitir sus dbiles
+pequeńos predicadores necesitan palabras en latín para transmitir sus débiles
 
 ideas, pero los grandes pensamientos y sus grandes expositores se contentan con
 
-pequeas palabras.
+pequeńas palabras.
 
-l puso su vida por nosotros. En esta
+“Él puso su vida por nosotros”. En esta
 
 frase no hay mucho que pudiera utilizarse para exhibir la elocuencia de alguien;
 
-hay poco espacio en ella para la discusin metafsica o para el pensamiento
+hay poco espacio en ella para la discusión metafísica o para el pensamiento
 
 profundo; el texto nos presenta una doctrina sencilla pero sublime. Entonces,
 
-qu he de hacer con l? Si me predicara a m mismo provechosamente respecto a
+żqué he de hacer con él? Si me predicara a mí mismo provechosamente respecto a
 
-este texto, no tendra que emplear mi ingenio para examinarlo detenidamente, ni
+este texto, no tendría que emplear mi ingenio para examinarlo detenidamente, ni
 
-mi oratoria para proclamarlo, sino solamente necesitara rendirle culto
+mi oratoria para proclamarlo, sino solamente necesitaría rendirle culto
 
-practicando mi adoracin. Permtanme postrarme entonces con todos mis poderes
+practicando mi adoración. Permítanme postrarme entonces con todos mis poderes
 
-delante del trono, y, como un ngel que ha completado su misin y que ya no
+delante del trono, y, como un ángel que ha completado su misión y que ya no
 
-tiene que volar a ningn otro lado para cumplir las rdenes de su Seor, permtanme
+tiene que volar a ningún otro lado para cumplir las órdenes de su Seńor, permítanme
 
-plegar las alas de mi contemplacin y comparecer delante del trono de esta
+plegar las alas de mi contemplación y comparecer delante del trono de esta
 
 grandiosa verdad e inclinarme mansamente para adorar a Aquel que era, y que es,
 
-y que ha de venir: el grandioso y glorioso Ser que puso su vida por nosotros.
+y que ha de venir: el grandioso y glorioso Ser que “puso su vida por nosotros”.
 
-Al comenzar mi discurso, sera bueno que
+Al comenzar mi discurso, sería bueno que
 
 les recuerde que no podemos entender la muerte de Cristo a menos que comprendamos
 
-a la persona de Cristo. Si yo les dijera que Dios muri por nosotros, aunque pudiera
+a la persona de Cristo. Si yo les dijera que Dios murió por nosotros, aunque pudiera
 
-estar diciendo una verdad y ustedes quiz no malinterpretaran lo que quise
+estar diciendo una verdad y ustedes quizá no malinterpretaran lo que quise
 
-decirles, les estara expresando al mismo tiempo un error. Dios no puede morir;
+decirles, les estaría expresando al mismo tiempo un error. Dios no puede morir;
 
-en razn de Su propia naturaleza es imposible que pudiera dejar de existir ni
+en razón de Su propia naturaleza es imposible que pudiera dejar de existir ni
 
 por un instante. Dios es incapaz de sufrir. Es verdad que a veces usamos
 
 algunas palabras que indican que Dios experimenta emociones; pero, en ese caso,
 
-hablamos como humanos. l es impasible; l no puede sufrir; no es posible que
+hablamos como humanos. Él es impasible; Él no puede sufrir; no es posible que
 
 sufra nada; entonces, es mucho menos posible que sufra la muerte. No obstante,
 
-en el versculo del cual est tomado nuestro texto, se nos dice: En esto hemos
+en el versículo del cual está tomado nuestro texto, se nos dice: “En esto hemos
 
 conocido el amor
 
@@ -108,149 +108,149 @@ conocido el amor
 
 Pueden
 
-advertir que las palabras de Dios han sido insertadas por los traductores.
+advertir que las palabras “de Dios” han sido insertadas por los traductores.
 
-Estn en cursivas porque no estn en el original. Una mejor traduccin sera:
+Están en cursivas porque no están en el original. Una mejor traducción sería:
 
-En esto hemos conocido el amor. Cuando leemos de Dios, eso podra inducir a
+“En esto hemos conocido el amor”. Cuando leemos “de Dios”, eso podría inducir a
 
-los ignorantes a imaginar que Dios pudiera morir, pero no es as. Debemos
+los ignorantes a imaginar que Dios pudiera morir, pero no es así. Debemos
 
-entender siempre y recordar constantemente que nuestro Seor Jesucristo era
+entender siempre y recordar constantemente que nuestro Seńor Jesucristo era
 
-Dios verdadero de Dios verdadero, y que, como Dios, tena todos los atributos
+“Dios verdadero de Dios verdadero”, y que, como Dios, tenía todos los atributos
 
-del Altsimo, y no poda, por tanto, ser capaz de sufrir o de morir. Pero, por
+del Altísimo, y no podía, por tanto, ser capaz de sufrir o de morir. Pero, por
 
-otra parte, l era hombre tambin, hombre nacido de la madre, hombre, tal
+otra parte, Él era hombre también, “hombre nacido de la madre”, hombre, tal
 
-como nosotros mismos, con la nica excepcin del pecado. Y el Seor Jess no
+como nosotros mismos, con la única excepción del pecado. Y el Seńor Jesús no
 
-muri como Dios. Fue como hombre que expir. Como hombre fue clavado a la cruz.
+murió como Dios. Fue como hombre que expiró. Como hombre fue clavado a la cruz.
 
 Como Dios, estaba en el cielo incluso cuando Su cuerpo se encontraba en la
 
-tumba. Como Dios, blanda el cetro de todos los mundos aun cuando el burlesco cetro
+tumba. Como Dios, blandía el cetro de todos los mundos aun cuando el burlesco cetro
 
-de caa estuviera en Su mano. La tnica imperial de la monarqua universal
+de cańa estuviera en Su mano. La túnica imperial de la monarquía universal
 
-estaba sobre los hombros eternos de Su Deidad aun cuando el viejo manto prpura
+estaba sobre los hombros eternos de Su Deidad aun cuando el viejo manto púrpura
 
-del soldado cubriera Su condicin humana. l no ces de ser Dios. l no perdi
+del soldado cubriera Su condición humana. Él no cesó de ser Dios. Él no perdió
 
-Su Omnipotencia ni Su eterno dominio cuando se hizo hombre. Como Dios no sufri
+Su Omnipotencia ni Su eterno dominio cuando se hizo hombre. Como Dios no sufrió
 
-ni muri. Fue como hombre que puso su vida por nosotros.
+ni murió. Fue como hombre que “puso su vida por nosotros”.
 
-Ven, ahora, alma ma, y adora a este
+Ven, ahora, alma mía, y adora a este
 
 hombre, a este Dios. Ven, creyente, y contempla a tu Salvador; entra en el
 
-crculo central de toda santidad, el crculo que contiene a la cruz de Cristo,
+círculo central de toda santidad, el círculo que contiene a la cruz de Cristo,
 
-y sintate ah, y al tiempo que adoras, aprende tres lecciones del hecho de que
+y siéntate ahí, y al tiempo que adoras, aprende tres lecciones del hecho de que
 
-l puso su vida por nosotros. La primera leccin debe ser: Puso Su vida por
+“él puso su vida por nosotros”. La primera lección debe ser: żPuso Su vida por
 
-nosotros? Ah, entonces, hermanos mos,
+nosotros? ˇAh, entonces, hermanos míos,
 
-cun
+cuán
 
-grandes deban de ser nuestros pecados
+grandes debían de ser nuestros pecados
 
-ya que no podan ser expiados a
+ya que no podían ser expiados a
 
-ningn otro precio! En segundo lugar, puso Su vida por nosotros? Ah,
+ningún otro precio! En segundo lugar, żpuso Su vida por nosotros? ˇAh,
 
 entonces, amados,
 
-cun grande debe de
+cuán grande debe de
 
 haber sido Su amor!
 
-Nada lo detendra hasta no entregar la vida misma. En
+Nada lo detendría hasta no entregar la vida misma. En
 
-tercer lugar, puso Su vida por nosotros? Ah, entonces, alma ma, ten buen
+tercer lugar, żpuso Su vida por nosotros? ˇAh, entonces, alma mía, ten buen
 
-nimo;
+ánimo;
 
-cun segura ests!
+cuán segura estás!
 
-Si una expiacin
+Si una expiación
 
-de tal naturaleza ha sido ofrecida, si tal satisfaccin ha sido dada al Dios
+de tal naturaleza ha sido ofrecida, si tal satisfacción ha sido dada al Dios
 
-Todopoderoso, cun segura ests! Quin podra destruir al que ha sido
+Todopoderoso, ˇcuán segura estás! żQuién podría destruir al que ha sido
 
 comprado con la sangre de tal Redentor?
 
 I.
 
-Bien, entonces, permtanme meditar con
+Bien, entonces, permítanme meditar con
 
-conviccin sobre la primera triste realidad. Puso Cristo Su vida por m?
+convicción sobre la primera triste realidad. żPuso Cristo Su vida por mí?
 
-Entonces, CUN GRAVES DEBEN DE HABER SIDO MIS PECADOS!
+Entonces, ˇCUÁN GRAVES DEBEN DE HABER SIDO MIS PECADOS!
 
-Ah, hermanos mos!, voy a hablar un poco
+ˇAh, hermanos míos!, voy a hablar un poco
 
-acerca de mi propia experiencia, y al hacerlo voy a estar describiendo tambin
+acerca de mi propia experiencia, y al hacerlo voy a estar describiendo también
 
 la suya. Yo he visto mis pecados de muchas maneras diferentes. Una vez los vi a
 
-la luz cegadora del Sina y, oh!, mi espritu se contrajo en mi interior, pues
+la luz cegadora del Sinaí y, ˇoh!, mi espíritu se contrajo en mi interior, pues
 
-mis pecados se vean sumamente negros. Cuando el sonido de la bocina creci en
+mis pecados se veían sumamente negros. Cuando el sonido de la bocina creció en
 
 intensidad y se hizo prolongado, y el rayo y el fuego centellearon dentro de mi
 
-corazn, vi un verdadero infierno de iniquidad en el interior de mi alma, y
+corazón, vi un verdadero infierno de iniquidad en el interior de mi alma, y
 
-estuve a punto entonces de maldecir el da en que nac, por tener un corazn
+estuve a punto entonces de maldecir el día en que nací, por tener un corazón
 
-as, tan ruin y engaoso. Pens entonces que haba visto la suma negrura de mi
+así, tan ruin y engańoso. Pensé entonces que había visto la suma negrura de mi
 
-pecado. Ay!, pero no haba visto lo suficiente de mi pecado para hacerme aborrecerlo
+pecado. ˇAy!, pero no había visto lo suficiente de mi pecado para hacerme aborrecerlo
 
-al punto de abandonarlo, pues esa conviccin pas. El Sina no fue sino un
+al punto de abandonarlo, pues esa convicción pasó. El Sinaí no fue sino un
 
-volcn que fue acallado y silenciado; y despus comenc a jugar de nuevo con el
+volcán que fue acallado y silenciado; y después comencé a jugar de nuevo con el
 
 pecado y a amarlo de la misma manera de siempre.
 
-Contempl un da otro espectculo; vi mis
+Contemplé un día otro espectáculo; vi mis
 
-pecados a la luz del cielo. Mir a lo alto y consider los cielos, la obra de
+pecados a la luz del cielo. Miré a lo alto y consideré los cielos, la obra de
 
-los dedos de Dios; percib la pureza del carcter de Dios escrita en los rayos
+los dedos de Dios; percibí la pureza del carácter de Dios escrita en los rayos
 
-del sol, y vi Su santidad esculpida en el ancho mundo y tambin revelada en
+del sol, y vi Su santidad esculpida en el ancho mundo y también revelada en
 
 la Escritura
 
 , y al momento
 
-de compararme con l, pens que vea cun negro era yo. Oh Dios!, hasta no ver
+de compararme con Él, pensé que veía cuán negro era yo. ˇOh Dios!, hasta no ver
 
-la gloria de Tu carcter nunca conoc la atrocidad de mi propia culpa; pero
+la gloria de Tu carácter nunca conocí la atrocidad de mi propia culpa; pero
 
-ahora que veo el resplandor de Tu santidad, mi alma entera est abatida ante el
+ahora que veo el resplandor de Tu santidad, mi alma entera está abatida ante el
 
-pensamiento de mi pecaminosidad y de mi gran separacin del Dios viviente. Entonces
+pensamiento de mi pecaminosidad y de mi gran separación del Dios viviente. Entonces
 
-pens que haba visto lo suficiente. Ah!, haba visto lo suficiente para
+pensé que había visto lo suficiente. ˇAh!, había visto lo suficiente para
 
-conducirme a adorar por un instante, pero mi alegra fue como la nube temprana
+conducirme a adorar por un instante, pero mi alegría fue como la nube temprana
 
-y como el roco de la maana, y prosegu mi camino, y olvid qu clase de
+y como el rocío de la mańana, y proseguí mi camino, y olvidé qué clase de
 
-hombre era yo. Cuando hube perdido el sentido de la majestad de Dios, perd
+hombre era yo. Cuando hube perdido el sentido de la majestad de Dios, perdí
 
-tambin la conciencia de mi propia culpa.
+también la conciencia de mi propia culpa.
 
-Luego me vino otra visin, y contempl la
+Luego me vino otra visión, y contemplé la
 
-misericordia de Dios para conmigo; vi cmo me haba mecido sobre las rodillas
+misericordia de Dios para conmigo; vi cómo me había mecido sobre las rodillas
 
 de
 
@@ -258,123 +258,123 @@ la Providencia
 
 ,
 
-cmo me haba sustentado a lo largo de toda mi vida, cmo haba esparcido la
+cómo me había sustentado a lo largo de toda mi vida, cómo había esparcido la
 
-abundancia en mi camino y me haba dado ricamente todas las cosas para que las
+abundancia en mi camino y me había dado ricamente todas las cosas para que las
 
-disfrutara. Record cmo haba estado conmigo en la hora de la tribulacin,
+disfrutara. Recordé cómo había estado conmigo en la hora de la tribulación,
 
-cmo me haba preservado en el da del huracn, y cmo me haba protegido en el
+cómo me había preservado en el día del huracán, y cómo me había protegido en el
 
-tiempo de la tormenta. Record toda Su bondad para conmigo y, sorprendido por
+tiempo de la tormenta. Recordé toda Su bondad para conmigo y, sorprendido por
 
-Su misericordia, mir mi pecado a la luz de Su gracia, y dije: oh pecado,
+Su misericordia, miré mi pecado a la luz de Su gracia, y dije: “ˇoh pecado,
 
-cun ruin eres t, y cun vil ingratitud manifiestas contra un Dios tan
+cuán ruin eres tú, y cuán vil ingratitud manifiestas contra un Dios tan
 
-profundamente amable!
+profundamente amable!”
 
-Pens, entonces, que seguramente haba visto
+Pensé, entonces, que seguramente había visto
 
-lo peor del pecado al haberlo contrastado, primero, con el carcter de Dios, y,
+lo peor del pecado al haberlo contrastado, primero, con el carácter de Dios, y,
 
-posteriormente, con Sus ddivas. Maldije el pecado desde lo ms profundo de mi
+posteriormente, con Sus dádivas. Maldije el pecado desde lo más profundo de mi
 
-corazn, y pens que haba visto lo suficiente respecto a l. Pero, ah!,
+corazón, y pensé que había visto lo suficiente respecto a él. Pero, ˇah!,
 
-hermanos mos, no lo haba visto. Ese sentido de gratitud pas, y me encontr
+hermanos míos, no lo había visto. Ese sentido de gratitud pasó, y me encontré
 
-inclinado todava al pecado, y vi que lo amaba todava.
+inclinado todavía al pecado, y vi que lo amaba todavía.
 
-Pero, oh, lleg una hora tres veces
+Pero, ˇoh, llegó una hora tres veces
 
-feliz, y con todo, tres veces fnebre! Un da, en mis descarros, o un grito,
+feliz, y con todo, tres veces fúnebre! Un día, en mis descarríos, oí un grito,
 
-un gemido; no me pareci que fuera un grito que brotara de labios mortales, pues
+un gemido; no me pareció que fuera un grito que brotara de labios mortales, pues
 
-haba en l indecibles profundidades de un portentoso dolor. Me volv a un
+había en él indecibles profundidades de un portentoso dolor. Me volví a un
 
-lado, esperando ver un grandioso espectculo; y lo que vi fue en verdad un gran
+lado, esperando ver un grandioso espectáculo; y lo que vi fue en verdad un gran
 
-espectculo. He aqu que, por all, en un madero, baado en sangre, colgaba un
+espectáculo. He aquí que, por allá, en un madero, bańado en sangre, colgaba un
 
-hombre. Observ el suplicio que haca que Su carne temblara sobre sus huesos.
+hombre. Observé el suplicio que hacía que Su carne temblara sobre sus huesos.
 
-Contempl las negras nubes que venan rodando desde el cielo, como los carros
+Contemplé las negras nubes que venían rodando desde el cielo, como los carros
 
 de la amargura; las vi cubrir Su frente de negrura; incluso vi en la densa
 
-oscuridad, pues mis ojos fueron abiertos, y percib que Su corazn estaba tan
+oscuridad, pues mis ojos fueron abiertos, y percibí que Su corazón estaba tan
 
 lleno de la lobreguez y del horror del dolor como el cielo estaba lleno de
 
-negrura. Luego me pareci ver dentro de Su alma, y ah divis torrentes de
+negrura. Luego me pareció ver dentro de Su alma, y ahí divisé torrentes de
 
-indecible angustia, manantiales de tormento de un carcter tan terrible que
+indecible angustia, manantiales de tormento de un carácter tan terrible que
 
-ningn labio mortal se atrevera a sorber para no quemarse con el hirviente
+ningún labio mortal se atrevería a sorber para no quemarse con el hirviente
 
-calor. Pregunt: quin es este poderoso sufriente? Por qu sufre as? Ha
+calor. Pregunté: “żquién es este poderoso sufriente? żPor qué sufre así? żHa
 
-sido l el peor de los pecadores, el ms vil de todos los blasfemos? Pero vino
+sido Él el peor de los pecadores, el más vil de todos los blasfemos?” Pero vino
 
-una voz desde la gloria excelsa que dijo: Este es mi Hijo amado; pero l tom
+una voz desde la gloria excelsa que dijo: “Este es mi Hijo amado; pero Él tomó
 
-sobre S el pecado del pecador, y tiene que sufrir el castigo. Oh, Dios!, -pens-
+sobre Sí el pecado del pecador, y tiene que sufrir el castigo”. ˇOh, Dios!, -pensé-
 
-nunca mir al pecado sino hasta esta hora, cuando lo vi arrebatar las glorias de
+nunca miré al pecado sino hasta esta hora, cuando lo vi arrebatar las glorias de
 
-Cristo de Su cabeza, cuando por un instante pareci incluso retirar la
+Cristo de Su cabeza, cuando por un instante pareció incluso retirar la
 
-misericordia de Dios de l, y cuando lo vi cubierto con Su propia sangre y
+misericordia de Dios de Él, y cuando lo vi cubierto con Su propia sangre y
 
-sumergido en las mximas profundidades de ocanos de afliccin. Luego dije:
+sumergido en las máximas profundidades de océanos de aflicción. Luego dije:
 
-Ahora sabr lo que eres, oh pecado, como nunca antes lo supe! Aunque esos
+“ˇAhora sabré lo que eres, oh pecado, como nunca antes lo supe!” Aunque esos
 
-otros espectculos podran ensearme algo del terrible carcter del mal, con
+otros espectáculos podrían enseńarme algo del terrible carácter del mal, con
 
-todo, nunca entend cun vil era la culpa del hombre traidor para con el Dios
+todo, nunca entendí cuán vil era la culpa del hombre traidor para con el Dios
 
 del hombre, hasta no ver al Salvador en el madero.
 
-Oh, heredero del cielo, alza ahora tus
+ˇOh, heredero del cielo, alza ahora tus
 
-ojos, y contempla los escenarios del sufrimiento por los que pas tu Seor por
+ojos, y contempla los escenarios del sufrimiento por los que pasó tu Seńor por
 
-tu culpa! Ven a la luz de la luna y prate entre esos olivos; mralo sudar
+tu culpa! Ven a la luz de la luna y párate entre esos olivos; míralo sudar
 
-grandes gotas de sangre. Sguelo desde ese huerto hasta el tribunal de Pilato. Mira
+grandes gotas de sangre. Síguelo desde ese huerto hasta el tribunal de Pilato. Mira
 
-a tu Maestro sometido a los insultos ms soeces e inmundos; contempla la faz de
+a tu Maestro sometido a los insultos más soeces e inmundos; contempla la faz de
 
 inmaculada belleza profanada por la saliva de los soldados; mira Su cabeza
 
 horadada con espinas; observa Su espalda toda desgarrada, y rota, y surcada, y
 
-magullada y sangrante bajo el terrible ltigo. Y, oh, cristiano, mralo morir!
+magullada y sangrante bajo el terrible látigo. Y, ˇoh, cristiano, míralo morir!
 
-Anda y prate donde estuvo Su madre, y yelo decirte: Hombre, contempla a tu
+Anda y párate donde estuvo Su madre, y óyelo decirte: “ˇHombre, contempla a tu
 
-Salvador! Acrcate esta noche, y prate donde estuvo Juan; yelo exclamar:
+Salvador!” Acércate esta noche, y párate donde estuvo Juan; óyelo exclamar:
 
-Tengo sed, y descbrete incapaz de mitigar Sus dolores o de comprender Su amargura.
+“Tengo sed”, y descúbrete incapaz de mitigar Sus dolores o de comprender Su amargura.
 
-Entonces, habiendo llorado all, alza tu mano, y clama: Venganza! Saca a los
+Entonces, habiendo llorado allí, alza tu mano, y clama: “ˇVenganza!” Saca a los
 
-traidores; dnde estn? Y una vez que tus pecados sean sacados a la luz como
+traidores; żdónde están? Y una vez que tus pecados sean sacados a la luz como
 
 los asesinos de Cristo, no permitas que ninguna muerte sea demasiado dolorosa
 
 para ellos; aunque implique desprenderse del brazo derecho, o sacar el ojo
 
-derecho y apagar su luz para siempre, hazlo! Pues si esos asesinos asesinaron
+derecho y apagar su luz para siempre, ˇhazlo! Pues si esos asesinos asesinaron
 
 a Cristo, entonces deben morir. Pudieran sufrir una muerte terrible, pero
 
-tienen que morir. Oh!, que Dios el Espritu Santo les ensee esta primera
+tienen que morir. ˇOh!, que Dios el Espíritu Santo les enseńe esta primera
 
-leccin, hermanos mos, la ilimitada perversidad del pecado, pues Cristo tuvo
+lección, hermanos míos, la ilimitada perversidad del pecado, pues Cristo tuvo
 
 que poner Su vida para que el pecado de ustedes pudiera ser suprimido.
 
@@ -384,97 +384,97 @@ Ahora hemos de considerar el segundo encabezado,
 
 y vamos a levantar nuestros corazones desde las profundidades de la tristeza
 
-hasta las alturas del afecto. Puso el Salvador Su vida por m? Vamos a leerlo
+hasta las alturas del afecto. żPuso el Salvador Su vida por mí? Vamos a leerlo
 
-ahora as: l puso su vida por m; y oro pidindole al Seor que ayude a cada
+ahora así: “él puso su vida por mí”; y oro pidiéndole al Seńor que ayude a cada
 
-uno de ustedes, por la fe, a leerlo as, porque si decimos: nosotros, sera
+uno de ustedes, por la fe, a leerlo así, porque si decimos: “nosotros”, sería
 
-tratar con generalidades es verdad que son benditas generalidades- pero en
+tratar con generalidades –es verdad que son benditas generalidades- pero en
 
-este momento debemos tratar con cosas especficas, y que cada uno de nosotros
+este momento debemos tratar con cosas específicas, y que cada uno de nosotros
 
-que pueda hacerlo verazmente, diga: l puso su vida por
+que pueda hacerlo verazmente, diga: “Él puso su vida por
 
-m.
+mí”.
 
-Entonces, CUN GRANDEMENTE ME DEBE DE HABER AMADO!
+Entonces, ˇCUÁN GRANDEMENTE ME DEBE DE HABER AMADO!
 
-Ah, Seor Jess! Nunca conoc Tu amor
+ˇAh, Seńor Jesús! Nunca conocí Tu amor
 
-mientras no comprend el significado de Tu muerte. Amados, si podemos, vamos a
+mientras no comprendí el significado de Tu muerte. Amados, si podemos, vamos a
 
 intentar contar de nuevo la historia de nuestra propia experiencia, para
 
-hacerles ver cmo el amor de Dios ha de ser aprendido. Ven, santo, sintate, y
+hacerles ver cómo el amor de Dios ha de ser aprendido. Ven, santo, siéntate, y
 
-medita en tu creacin; nota cun maravillosamente fuiste formado y cmo tus
+medita en tu creación; nota cuán maravillosamente fuiste formado y cómo tus
 
-huesos encajaron entre s, y comprueba que en eso hay amor. Observa, a
+huesos encajaron entre sí, y comprueba que en eso hay amor. Observa, a
 
-continuacin, esa predestinacin que te puso ah donde t ests, pues las
+continuación, esa predestinación que te puso ahí donde tú estás, pues las
 
 cuerdas te cayeron en lugares deleitosos, y, a pesar de todas tus tribulaciones,
 
-en comparacin con muchas pobres almas, te ha tocado una hermosa heredad.
+en comparación con muchas pobres almas, te ha tocado “una hermosa heredad”.
 
-Advierte, entonces, el amor de Dios manifestado en la predestinacin que te ha
+Advierte, entonces, el amor de Dios manifestado en la predestinación que te ha
 
-hecho lo que eres, y que te ha colocado donde ests. Luego mira al pasado y ve
+hecho lo que eres, y que te ha colocado donde estás. Luego mira al pasado y ve
 
-la misericordia de tu Seor, segn te la ha mostrado en todo tu peregrinaje
+la misericordia de tu Seńor, según te la ha mostrado en todo tu peregrinaje
 
-hasta ahora. Ests envejeciendo, y tu cabello se est tornando cano sobre tu
+hasta ahora. Estás envejeciendo, y tu cabello se está tornando cano sobre tu
 
-frente; pero l te ha levantado todos los das desde la antigedad; no ha
+frente; pero Él te ha levantado todos los días desde la antigüedad; no ha
 
-faltado una palabra de todas las buenas palabras que Jehov tu Dios ha dicho.
+faltado una palabra de todas las buenas palabras que Jehová tu Dios ha dicho.
 
 Recuerda la historia de tu vida. Regresa ahora y considera el tapiz de tu vida
 
-que Dios ha estado elaborando cada da con la hebra de oro de Su amor, y
+que Dios ha estado elaborando cada día con la hebra de oro de Su amor, y
 
-advierte qu cuadros de gracia hay en l. No puedes decir que Jess te ha
+advierte qué cuadros de gracia hay en él. żNo puedes decir que Jesús te ha
 
 amado? Vuelve tus ojos al pasado, y lee los antiguos rollos del pacto eterno, y
 
-mira tu nombre entre los primognitos, los elegidos,
+mira tu nombre entre los primogénitos, los elegidos,
 
 la Iglesia
 
 del Dios viviente.
 
-Contesta, no te amaba l cuando escribi tu nombre all? Ve y recuerda cmo
+Contesta, żno te amaba Él cuando escribió tu nombre allí? Ve y recuerda cómo
 
-fueron hechos los eternos acuerdos, y cmo Dios decret y arregl todas las
+fueron hechos los eternos acuerdos, y cómo Dios decretó y arregló todas las
 
-cosas de tal manera que tu salvacin fuera realizada. Contesta, no haba amor
+cosas de tal manera que tu salvación fuera realizada. Contesta, żno había amor
 
-all?
+allí?
 
 Haz una pausa ante el recuerdo de tus convicciones;
 
-piensa en tu conversin; recuerda tu preservacin, y cmo la gracia de Dios ha
+piensa en tu conversión; recuerda tu preservación, y cómo la gracia de Dios ha
 
-estado obrando en ti; piensa en la adopcin; piensa en la justificacin y en
+estado obrando en ti; piensa en la adopción; piensa en la justificación y en
 
 cada inciso del nuevo pacto; y cuando hayas sacado el total de todas esas
 
-cosas, permteme hacerte esta pregunta: producen en ti todas estas cosas tal sentido
+cosas, permíteme hacerte esta pregunta: żproducen en ti todas estas cosas tal sentido
 
 de gratitud como lo produce la cosa primordial que voy a mencionar ahora: la
 
-cruz de nuestro Seor Jesucristo? Pues, hermano mo, si tu mente es como la
+cruz de nuestro Seńor Jesucristo? Pues, hermano mío, si tu mente es como la
 
-ma, aunque vas a pensar lo suficientemente bien de todas esas cosas que Dios
+mía, aunque vas a pensar lo suficientemente bien de todas esas cosas que Dios
 
-te ha dado, estars obligado a confesar que el pensamiento de la muerte de
+te ha dado, estarás obligado a confesar que el pensamiento de la muerte de
 
 Cristo en la cruz las absorbe a todas ellas.
 
-Esto s, hermanos mos, que yo puedo
+Esto sé, hermanos míos, que yo puedo
 
-mirar hacia atrs o puedo mirar hacia delante, pero ya sea que mire hacia atrs,
+mirar hacia atrás o puedo mirar hacia delante, pero ya sea que mire hacia atrás,
 
 a los decretos de la eternidad, o que mire hacia delante, a la ciudad con
 
@@ -484,183 +484,183 @@ propios hijos amados, no puedo ver nunca el amor de mi Padre brillando de tal
 
 manera, en toda su refulgencia, como cuando miro a la cruz de Cristo y lo veo
 
-morir all. Puedo leer el amor de Dios en las letras de piedra del pacto
+morir allí. Puedo leer el amor de Dios en las letras de piedra del pacto
 
-eterno, y en las llameantes letras del cielo en el ms all; pero, hermanos
+eterno, y en las llameantes letras del cielo en el más allá; pero, hermanos
 
-mos, en esas lneas carmeses, en esas lneas escritas con sangre, hay algo
+míos, en esas líneas carmesíes, en esas líneas escritas con sangre, hay algo
 
-ms asombroso de lo que hubiere en cualquier otro lado, pues dicen: l puso su
+más asombroso de lo que hubiere en cualquier otro lado, pues dicen: “Él puso su
 
-vida por nosotros. Ah, aqu es donde aprenden el amor. Ustedes conocen la
+vida por nosotros”. Ah, aquí es donde aprenden el amor. Ustedes conocen la
 
-vieja historia de Damn y Pitias, y cmo los dos amigos debatan entre s para
+vieja historia de Damón y Pitias, y cómo los dos amigos debatían entre sí para
 
-decidir quin deba morir por el otro; eso era amor. Pero, ah!, no hay
+decidir quién debía morir por el otro; eso era amor. Pero, ˇah!, no hay
 
-comparacin entre Damn y Pitias, y un pobre pecador y su Salvador. Cristo puso
+comparación entre Damón y Pitias, y un pobre pecador y su Salvador. Cristo puso
 
-Su vida, Su gloriosa vida, por un pobre gusano. l se despoj a S mismo de
+Su vida, Su gloriosa vida, por un pobre gusano. Él se despojó a Sí mismo de
 
-todos Sus esplendores, y despus, de toda Su felicidad, y despus, de Su propia
+todos Sus esplendores, y después, de toda Su felicidad, y después, de Su propia
 
-justicia, y despus, de Sus propias vestiduras, hasta quedar desnudo para Su
+justicia, y después, de Sus propias vestiduras, hasta quedar desnudo para Su
 
-propia vergenza; y luego puso Su vida, que era todo lo que le quedaba, pues
+propia vergüenza; y luego puso Su vida, que era todo lo que le quedaba, pues
 
-nuestro Salvador no se reserv nada.
+nuestro Salvador no se reservó nada.
 
-Slo piensen en eso por un instante. l
+Sólo piensen en eso por un instante. Él
 
-tena una corona en el cielo; pero la hizo a un lado para que ustedes y yo
+tenía una corona en el cielo; pero la hizo a un lado para que ustedes y yo
 
-pudiramos llevar una corona por siempre. l tena un cinturn alrededor de Sus
+pudiéramos llevar una corona por siempre. Él tenía un cinturón alrededor de Sus
 
-lomos de un resplandor ms brillante que las estrellas; pero se lo quit, y lo
+lomos de un resplandor más brillante que las estrellas; pero se lo quitó, y lo
 
-hizo a un lado, para que ustedes y yo pudiramos llevar eternamente un cinturn
+hizo a un lado, para que ustedes y yo pudiéramos llevar eternamente un cinturón
 
-de justicia. l haba escuchado los santos cnticos de los querubines y de los
+de justicia. Él había escuchado los santos cánticos de los querubines y de los
 
-serafines; pero lo dej todo para que pudiramos morar por siempre donde cantan
+serafines; pero lo dejó todo para que pudiéramos morar por siempre donde cantan
 
-los ngeles; y luego vino a la tierra, y l tena muchas cosas, incluso en Su
+los ángeles; y luego vino a la tierra, y Él tenía muchas cosas, incluso en Su
 
-pobreza, que habran podido tender a Su consuelo. l se despoj, primero de una
+pobreza, que habrían podido tender a Su consuelo. Él se despojó, primero de una
 
-gloria, y luego de otra, ante la exigencia del amor; al final, la conclusin
+gloria, y luego de otra, ante la exigencia del amor; al final, la conclusión
 
-fue que no le quedaba nada sino una pobre tnica, de un solo tejido de arriba
+fue que no le quedaba nada sino una pobre túnica, de un solo tejido de arriba
 
-abajo, la cual se adhera a Su espalda por causa de la sangre, y tambin se
+abajo, la cual se adhería a Su espalda por causa de la sangre, y también se
 
-deshizo de eso. Luego ya no le qued nada, pues no se reserv ni una sola cosa.
+deshizo de eso. Luego ya no le quedó nada, pues no se reservó ni una sola cosa.
 
-Vean -pudo haber dicho- hagan un inventario de todo lo que tengo, hasta el
+“Vean” -pudo haber dicho- “hagan un inventario de todo lo que tengo, hasta el
 
-ltimo centavo; he renunciado absolutamente a todo por el rescate de Mi
+último centavo; he renunciado absolutamente a todo por el rescate de Mi
 
-pueblo. Y no le quedaba nada sino Su propia vida. Oh insaciable amor! No te
+pueblo”. Y no le quedaba nada sino Su propia vida. ˇOh insaciable amor! żNo te
 
-pudiste haber detenido ah? Aunque haba renunciado a una mano para cancelar el
+pudiste haber detenido ahí? Aunque había renunciado a una mano para cancelar el
 
-pecado, y a la otra mano para reconciliarnos con Dios, y haba renunciado a un
+pecado, y a la otra mano para reconciliarnos con Dios, y había renunciado a un
 
 pie para que nuestro pie pecador pudiera ser por siempre traspasado de lado a
 
-lado, y clavado y sujetado, para que no se descarriara nunca, y haba
+lado, y clavado y sujetado, para que no se descarriara nunca, y había
 
-renunciado al otro pie para que fuera sujetado al rbol para que pudiramos
+renunciado al otro pie para que fuera sujetado al árbol para que pudiéramos
 
 tener libres nuestros pies para correr la carrera celestial; no le quedaba nada
 
-sino Su pobre corazn, y tambin renunci a Su corazn que fue abierto para que
+sino Su pobre corazón, y también renunció a Su corazón que fue abierto para que
 
-se derramara por la herida de la lanza, y sin dilacin brot de all sangre y
+se derramara por la herida de la lanza, y sin dilación brotó de allí sangre y
 
 agua.
 
-Ah, Seor mo!, qu te he dado yo jams,
+ˇAh, Seńor mío!, żqué te he dado yo jamás,
 
-comparado con todo lo que t has renunciado por m? Yo te he dado algunas
+comparado con todo lo que tú has renunciado por mí? Yo te he dado algunas
 
-pobres cosas, como escasas monedas oxidadas; pero cun poco es eso comparado
+pobres cosas, como escasas monedas oxidadas; ˇpero cuán poco es eso comparado
 
-con lo que t me has dado! De vez en cuando, Seor mo, yo te he ofrecido un
+con lo que tú me has dado! De vez en cuando, Seńor mío, yo te he ofrecido un
 
-pobre himno que fue acompaado con un instrumento desafinado; algunas veces, Seor
+pobre himno que fue acompańado con un instrumento desafinado; algunas veces, Seńor
 
-mo, he prestado algn pequeo servicio para Ti; pero, ay!, mis dedos estaban
+mío, he prestado algún pequeńo servicio para Ti; pero, ˇay!, mis dedos estaban
 
 tan negros que estropeaban lo que yo hubiera querido presentarte tan blanco
 
-como la nieve. Seor mo, no es nada lo que he hecho por Ti. No, aunque he sido
+como la nieve. Seńor mío, no es nada lo que he hecho por Ti. No, aunque he sido
 
-un misionero, y he renunciado a hogar y amigos; no, aunque he sido un mrtir, y
+un misionero, y he renunciado a hogar y amigos; no, aunque he sido un mártir, y
 
-he entregado mi cuerpo para ser quemado, yo dir, en la ltima hora: Seor
+he entregado mi cuerpo para ser quemado, yo diré, en la última hora: “Seńor
 
-mo, no he hecho nada por Ti, despus de todo, en comparacin con lo que T has
+mío, no he hecho nada por Ti, después de todo, en comparación con lo que Tú has
 
-hecho por m; y con todo, qu ms puedo hacer? Cmo puedo mostrar mi amor por
+hecho por mí; y con todo, żqué más puedo hacer? żCómo puedo mostrar mi amor por
 
-Ti debido a Tu amor por m, tan incomparable, tan sin par? Qu har? No voy a
+Ti debido a Tu amor por mí, tan incomparable, tan sin par? żQué haré? No voy a
 
 hacer nada sino:
 
-Enternecido
+“Enternecido
 
 por Tu bondad, voy a postrarme en tierra,
 
 Y voy a
 
-llorar para alabanza de la misericordia que he encontrado.
+llorar para alabanza de la misericordia que he encontrado”.
 
-Eso es todo lo que puedo hacer, y eso
+“Eso es todo lo que puedo hacer, y eso
 
-debo hacer, y eso har.
+debo hacer, y eso haré”.
 
 III.
 
 Ahora, amados, vamos a cambiar el tema, y
 
-vamos a intentar una nota ms alta. Hemos recorrido una buena parte de la
+vamos a intentar una nota más alta. Hemos recorrido una buena parte de la
 
 escala musical, y ahora hemos alcanzado precisamente la altura de la octava.
 
-Pero tenemos algo ms que podemos extraer del texto: l puso su vida por
+Pero tenemos algo más que podemos extraer del texto: “Él puso su vida por
 
-nosotros. Puso mi Salvador Su vida por m? Entonces, CUN SEGURO ESTOY!
+nosotros”. żPuso mi Salvador Su vida por mí? Entonces, ˇCUÁN SEGURO ESTOY!
 
 Esta noche no vamos a tener ninguna
 
-controversia con aquellos que no ven esta verdad; que el Seor abra sus ciegos
+controversia con aquellos que no ven esta verdad; ˇque el Seńor abra sus ciegos
 
 ojos y les muestre la verdad! Eso es todo lo que diremos. Nosotros, los que
 
-conocemos el Evangelio, vemos en el hecho de la muerte de Cristo una razn por
+conocemos el Evangelio, vemos en el hecho de la muerte de Cristo una razón por
 
-la cual hemos de ser salvos que ninguna fuerza de la lgica podra conmover
+la cual hemos de ser salvos que ninguna fuerza de la lógica podría conmover
 
-jams, ni ningn poder de la incredulidad podra suprimir. Pudiera haber
+jamás, ni ningún poder de la incredulidad podría suprimir. Pudiera haber
 
 hombres con mentes tan distorsionadas que conciban que es posible que Cristo
 
 muriera por un hombre que posteriormente se pierde; digo que es posible
 
-encontrar tales individuos. Lamento decir que todava han de encontrarse
+encontrar tales individuos. Lamento decir que todavía han de encontrarse
 
-algunas personas as, cuyos cerebros han sido tan confundidos en su niez que
+algunas personas así, cuyos cerebros han sido tan confundidos en su nińez que
 
-no pueden ver que lo que sostienen es una ridcula falsedad y un libelo
+no pueden ver que lo que sostienen es una ridícula falsedad y un libelo
 
-blasfemo. Cristo muere por un hombre, y luego Dios castiga a ese hombre otra
+blasfemo. ˇCristo muere por un hombre, y luego Dios castiga a ese hombre otra
 
-vez! Cristo sufre en lugar de un pecador, y luego Dios condena a ese pecador
+vez! ˇCristo sufre en lugar de un pecador, y luego Dios condena a ese pecador
 
-despus de todo! Vamos, amigos mos, me siento muy horrorizado con slo
+después de todo! Vamos, amigos míos, me siento muy horrorizado con sólo
 
-mencionar un error tan terrible; y si no tuviera tanta vigencia, lo pasara por
+mencionar un error tan terrible; y si no tuviera tanta vigencia, lo pasaría por
 
 alto con el desprecio que se merece.
 
-La doctrina del Espritu Santo es que
+La doctrina del Espíritu Santo es que
 
-Dios es justo, que Cristo muri en lugar de Su pueblo, y que, como Dios es
+Dios es justo, que Cristo murió en lugar de Su pueblo, y que, como Dios es
 
-justo, l no castigar nunca a ninguna alma solitaria de la raza de Adn por quien
+justo, Él no castigará nunca a ninguna alma solitaria de la raza de Adán por quien
 
-el Salvador hubiere efectivamente derramado Su sangre. El Salvador muri, en un
+el Salvador hubiere efectivamente derramado Su sangre. El Salvador murió, en un
 
 cierto sentido, por todos; todos los hombres reciben muchas misericordias por
 
-medio de Su sangre, pero que l fuera el Sustituto y
+medio de Su sangre, pero que Él fuera el Sustituto y
 
 la Fianza
 
 por todos los
 
-hombres es tan inconsistente con la razn y con
+hombres es tan inconsistente con la razón y con
 
 la Escritura
 
@@ -668,29 +668,29 @@ la Escritura
 
 obligados a rechazar esa doctrina con aborrecimiento.
 
-No, alma ma, cmo sers castigada t si
+No, alma mía, żcómo serás castigada tú si
 
-tu Seor ya soport el castigo por ti? Muri l por ti? Oh, alma ma, si
+tu Seńor ya soportó el castigo por ti? żMurió Él por ti? ˇOh, alma mía, si
 
-Jess no fue tu Sustituto y no muri en tu propia sustitucin, entonces l no
+Jesús no fue tu Sustituto y no murió en tu propia sustitución, entonces Él no
 
-es un Salvador para ti! Pero si fue tu Sustituto, si sufri como tu Fianza en lugar
+es un Salvador para ti! Pero si fue tu Sustituto, si sufrió como tu Fianza en lugar
 
-tuyo, entonces, alma ma, Quin es el que condenar? Cristo muri, s, y
+tuyo, entonces, alma mía, “żQuién es el que condenará?” Cristo murió, sí, y
 
-resucit y se sienta a la diestra de Dios, y hace intercesin por nosotros. Ese
+resucitó y se sienta a la diestra de Dios, y hace intercesión por nosotros. Ese
 
-es el argumento de mayor peso: Cristo puso su vida por nosotros, y, si
+es el argumento de mayor peso: Cristo “puso su vida por nosotros”, y, “si
 
 siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho
 
-ms, estando reconciliados, seremos salvos por su vida. Si las agonas del
+más, estando reconciliados, seremos salvos por su vida”. Si las agonías del
 
 Salvador quitan nuestros pecados, la vida eterna del Salvador conjuntamente con
 
-los mritos de Su muerte han de preservar a Su pueblo hasta el fin.
+los méritos de Su muerte han de preservar a Su pueblo hasta el fin.
 
-Esto s s, -y podran or que los
+Esto sí sé, -y podrían oír que los
 
 hombres tartamudean al decirlo- que lo que yo predico es la vieja verdad
 
@@ -698,179 +698,183 @@ luterana, calvinista, agustina, paulina y cristiana: que no hay ni un solo
 
 pecado en el Libro de Dios en contra de nadie que tenga fe. Nuestros pecados
 
-fueron puestos sobre la cabeza de Azazel, y no hay ni un solo pecado que algn
+fueron puestos sobre la cabeza de Azazel, y no hay ni un solo pecado que algún
 
-creyente haya cometido jams, que tenga poder alguno de condenarlo, pues Cristo
+creyente haya cometido jamás, que tenga poder alguno de condenarlo, pues Cristo
 
-ha quitado el poder condenatorio del pecado, permitindole condenarse a s
+ha quitado el poder condenatorio del pecado, permitiéndole condenarse a sí
 
-mismo, -hablando en una aventurada metfora- pues el pecado lo conden a l; y
+mismo, -hablando en una aventurada metáfora- pues el pecado lo condenó a Él; y
 
-dado que el pecado lo conden, el pecado no puede condenarnos.
+dado que el pecado lo condenó, el pecado no puede condenarnos.
 
-Oh, creyente, esta es tu garanta: que
+Oh, creyente, esta es tu garantía: que
 
 todo tu pecado y tu culpa, y todas tus transgresiones y tus iniquidades, han
 
 sido expiadas, y fueron expiadas antes de haber sido cometidas; de tal forma
 
-que puedes venir con arrojo, aunque vengas rojo por todo tipo de crmenes, y
+que puedes venir con arrojo, aunque vengas rojo por todo tipo de crímenes, y
 
 negro por toda lascivia, y puedes poner tu mano sobre la cabeza de Azazel, y
 
-cuando hayas puesto tu mano ah y hayas visto que Azazel es enviado al
+cuando hayas puesto tu mano ahí y hayas visto que Azazel es enviado al
 
-desierto, puedes aplaudir de gozo, y decir: ha concluido, el pecado ha sido
+desierto, puedes aplaudir de gozo, y decir: “ha concluido, el pecado ha sido
 
-perdonado.
+perdonado”.
 
-Aqu hay perdn
+“Aquí hay perdón
 
 para pasadas transgresiones,
 
 No importa
 
-cun negro sea su molde;
+cuán negro sea su molde;
+
+ˇ
 
 Y,
 
-oh, alma ma, con asombro mira,
+oh, alma mía, con asombro mira,
 
-Aqu hay
+Aquí hay
 
-perdn tambin para pecados futuros
+perdón también para pecados futuros
 
 !
 
+”
+
 Esto es todo lo que necesito saber;
 
-muri el Salvador por m? Entonces yo no perseverar en el pecado para que la
+żmurió el Salvador por mí? Entonces yo no perseveraré en el pecado para que la
 
-gracia abunde; pero nada me detendr de gloriarme, en todas las iglesias del
+gracia abunde; pero nada me detendrá de gloriarme, en todas las iglesias del
 
-Seor Jess, porque mis pecados son as enteramente quitados de m; y, a los
+Seńor Jesús, porque mis pecados son así enteramente quitados de mí; y, a los
 
 ojos de Dios, puedo cantar, como Hart lo hizo:
 
-Vestido con
+“Vestido con
 
 el manto inmaculado de Cristo,
 
 Santo como el
 
-Santo.
+Santo”.
 
-Oh muerte maravillosa de Cristo, cun
+ˇOh muerte maravillosa de Cristo, cuán
 
 firmemente colocas los pies de los miembros del pueblo de Dios sobre las rocas
 
-del amor eterno; y cun firmemente los mantienes all! Vengan, amados hermanos,
+del amor eterno; y cuán firmemente los mantienes allí! Vengan, amados hermanos,
 
-chupen un poco de la miel de este panal. Hubo alguna vez algo tan suculento y
+chupen un poco de la miel de este panal. żHubo alguna vez algo tan suculento y
 
 tan dulce para el paladar del creyente como esta verdad sumamente gloriosa que
 
-establece que estamos completos en l, que en y a travs de Su muerte y de Sus
+establece que estamos completos en Él, que en y a través de Su muerte y de Sus
 
-mritos, somos aceptos en el Amado? Oh, hubo alguna vez algo ms sublime que
+méritos, somos aceptos en el Amado? Oh, żhubo alguna vez algo más sublime que
 
 este pensamiento, que ya nos ha resucitado juntos, y que nos ha hecho sentar
 
-juntos en los lugares celestiales en Cristo Jess, sobre todo principado y
+juntos en los lugares celestiales en Cristo Jesús, sobre todo principado y
 
-autoridad, tal como l se sienta? Ciertamente no hay nada ms sublime que eso,
+autoridad, tal como Él se sienta? Ciertamente no hay nada más sublime que eso,
 
-excepto que un pensamiento esencial sella todas esas cosas con algo ms que su
+excepto que un pensamiento esencial sella todas esas cosas con algo más que su
 
 propio valor, y ese pensamiento esencial es que aunque los montes se muevan y
 
-los collados tiemblen, el pacto de Su amor nunca se apartar de nosotros.
+los collados tiemblen, el pacto de Su amor nunca se apartará de nosotros.
 
-Pues, -dice Jehov- Yo nunca te olvidar, oh Sion; He aqu que en las
+“Pues”, -dice Jehová- “Yo nunca te olvidaré, oh Sion”; “He aquí que en las
 
-palmas de las manos te tengo esculpida; delante de m estn siempre tus muros.
+palmas de las manos te tengo esculpida; delante de mí están siempre tus muros”.
 
-Oh, cristiano, ese es un firme cimiento,
+ˇOh, cristiano, ese es un firme cimiento,
 
-cimentado con sangre, sobre el que puedes edificar para la eternidad! Ah, alma
+cimentado con sangre, sobre el que puedes edificar para la eternidad! ˇAh, alma
 
-ma, t no necesitas ninguna otra esperanza ms que esta! Jess, Tu
+mía, tú no necesitas ninguna otra esperanza más que esta! Jesús, Tu
 
-misericordia nunca muere; voy a argumentar esta verdad cuando est abatido por
+misericordia nunca muere; voy a argumentar esta verdad cuando esté abatido por
 
-la angustia: Tu misericordia nunca muere. Voy a argumentar esto cuando Satans
+la angustia: Tu misericordia nunca muere. Voy a argumentar esto cuando Satanás
 
-arroje tentaciones sobre m, y cuando mi conciencia me eche en cara el recuerdo
+arroje tentaciones sobre mí, y cuando mi conciencia me eche en cara el recuerdo
 
 de mi pecado; voy a argumentar esto siempre y voy a argumentarlo ahora:
 
-Jess, Tu
+“Jesús, Tu
 
 sangre y Tu justicia
 
 Son mi
 
-belleza, mi glorioso manto.
+belleza, mi glorioso manto”.
 
-S, y despus que muera e incluso cuando
+Sí, y después que muera e incluso cuando
 
 comparezca delante de Tu ojos, temor Supremo:
 
-Cuando me
+“Cuando me
 
 levante del polvo de la muerte,
 
 Para recibir
 
-mi mansin en los cielos,
+mi mansión en los cielos,
 
 Incluso
 
-entonces este ser todo mi argumento,
+entonces este será todo mi argumento,
 
-Jess vivi
+‘Jesús vivió
 
-y muri por m.
+y murió por mí’.
 
 Valeroso
 
-comparecer en aquel gran da,
+compareceré en aquel gran día,
 
-Pues, quin
+Pues, żquién
 
-me acusar de algo?
+me acusará de algo?
 
 Ya que a
 
-travs de la sangre de Cristo soy absuelto
+través de la sangre de Cristo soy absuelto
 
 De la
 
-tremenda maldicin y vergenza del pecado.
+tremenda maldición y vergüenza del pecado”.
 
 Ah, hermanos, si esa es su experiencia,
 
-pueden acercarse a la mesa de la comunin ahora muy felizmente. No ser asistir
+pueden acercarse a la mesa de la comunión ahora muy felizmente. No será asistir
 
-a un funeral, sino a un festn de alegra. l puso su vida por nosotros.
+a un funeral, sino a un festín de alegría. “Él puso su vida por nosotros”.
 
 Nota
 
 del traductor:
 
-Azazel: Este trmino slo aparece en la
+Azazel: Este término sólo aparece en la
 
-descripcin del da de la expiacin (Levtico 16: 8, 10, 26). La voz denota
+descripción del día de la expiación (Levítico 16: 8, 10, 26). La voz denota
 
-macho cabro expiatorio, y debemos explicarla como el macho cabro que se
+“macho cabrío expiatorio”, y debemos explicarla como “el macho cabrío que se
 
-aleja. El significado del rito debe de ser que el pecado era eliminado, en
+aleja”. El significado del rito debe de ser que el pecado era eliminado, en
 
-forma simblica, de la sociedad humana y llevado a la regin de la muerte.
+forma simbólica, de la sociedad humana y llevado a la región de la muerte.
 
-(Nuevo Diccionario Bblico, Ediciones Certeza).
+(Nuevo Diccionario Bíblico, Ediciones Certeza).
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 25/Enero/2012
 

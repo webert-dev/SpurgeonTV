@@ -1,6 +1,6 @@
 # Sermón 2978 | Sermón 2978
 
-El Plpito del Tabernculo
+El Púlpito del Tabernáculo
 
 Metropolitano
 
@@ -8,89 +8,89 @@ El Poder con Dios
 
 NO. 2978
 
-SERMN
+SERMÓN
 
 PREDICADO LA NOCHE DEL JUEVES 16 DE SEPTIEMBRE DE 1875
 
 EN EL
 
-TABERNCULO METROPOLITANO, NEWINGTON, LONDRES,
+TABERNÁCULO METROPOLITANO, NEWINGTON, LONDRES,
 
 Y
 
 PUBLICADO EL JUEVES 8 DE MARZO DE 1906.
 
-Has luchado con Dios. Gnesis 32: 28.
+“Has luchado con Dios.” Génesis 32: 28.
 
-Los hombres tienen en muy alta consideracin a cualquiera que ostente
+Los hombres tienen en muy alta consideración a cualquiera que ostente
 
-poder con la realeza. Si yo dijera, en relacin a cualquier persona aqu presente:
+poder con la realeza. Si yo dijera, en relación a cualquier persona aquí presente:
 
-Ese individuo tiene gran poder con la reina, muchsimos de ustedes se voltearan
+“Ese individuo tiene gran poder con la reina”, muchísimos de ustedes se voltearían
 
-de inmediato para ver a esa persona. Quien tiene un gran poder con algn prncipe
+de inmediato para ver a esa persona. Quien tiene un gran poder con algún príncipe
 
-terrenal, puede estar seguro de que tendr muchos aduladores a su alrededor,
+terrenal, puede estar seguro de que tendrá muchos aduladores a su alrededor,
 
-que le rendirn homenaje por causa del beneficio que esperaran obtener a travs
+que le rendirán homenaje por causa del beneficio que esperarían obtener a través
 
-de su mediacin. Pero, queridos amigos, qu mayor honor es todava tener poder
+de su mediación. Pero, queridos amigos, ˇqué mayor honor es todavía tener poder
 
-con el Rey de reyes! El poder con los hombres podra ser algo malo, pero, qu
+con el Rey de reyes! El poder con los hombres podría ser algo malo, pero, ˇqué
 
-bendicin proviene del poder con Dios! Cmo ennoblece el alma del hombre que
+bendición proviene del poder con Dios! ˇCómo ennoblece el alma del hombre que
 
 lo posee! Este hombre, Jacob, que tiene poder con Dios, es llamado Israel, un
 
-prncipe, pues lo es; slo que los prncipes no tienen una dignidad como la
+príncipe, pues lo es; sólo que los príncipes no tienen una dignidad como la
 
-suya, a menos que tengan tambin poder con Dios, pues es un prncipe de Dios.
+suya, a menos que tengan también poder con Dios, pues es “un príncipe de Dios”.
 
-Qu bendicin tan completa debe ser tener poder con Dios, pues quien
+Qué bendición tan completa debe ser tener poder con Dios, pues quien
 
 tiene poder con Dios tiene que tener poder con los hombres. Las criaturas deben
 
-someterse all donde el Creador mismo ha cedido. Si puedes prevalecer con el
+someterse allí donde el Creador mismo ha cedido. Si puedes prevalecer con el
 
-Maestro, puedes estar seguro de prevalecer tambin con Sus siervos. El hombre
+Maestro, puedes estar seguro de prevalecer también con Sus siervos. El hombre
 
-que tiene poder con Dios, est a salvo. Si Dios es por nosotros, quin contra
+que tiene poder con Dios, está a salvo. “Si Dios es por nosotros, żquién contra
 
-nosotros? Ningn arma que sea apuntada contra ese hombre puede prosperar, y
+nosotros?” Ningún arma que sea apuntada contra ese hombre puede prosperar, y
 
-ms bien puede condenar a cada lengua que se alce contra l en juicio, pues
+más bien puede condenar a cada lengua que se alce contra él en juicio, pues
 
-teniendo poder con Dios, ser capaz de plantar su pie sobre el cuello de sus
+teniendo poder con Dios, será capaz de plantar su pie sobre el cuello de sus
 
-adversarios y reinar sobre quienes se rebelan contra l. Un hombre as no puede
+adversarios y reinar sobre quienes se rebelan contra él. Un hombre así no puede
 
-estar necesitado. Si tiene poder con Dios, le contar acerca de sus
+estar necesitado. Si tiene poder con Dios, le contará acerca de sus
 
-necesidades, y todas ellas sern suplidas. Confesar sus pecados y le sern
+necesidades, y todas ellas serán suplidas. Confesará sus pecados y le serán
 
-perdonados. Dios tratar bien con el hombre que tiene poder con l. Hay aqu un
+perdonados. Dios tratará bien con el hombre que tiene poder con Él. Hay aquí un
 
-rango tan amplio de bendicin que no debo detenerme para tratarlo ms
+rango tan amplio de bendición que no debo detenerme para tratarlo más
 
-extensamente. Si ustedes tienen poder con Dios, vern que esta es un arma que,
+extensamente. Si ustedes tienen poder con Dios, verán que esta es un arma que,
 
-como la espada encendida a la puerta de huerto del Edn, se revuelve por todos
+como la espada encendida a la puerta de huerto del Edén, se revuelve por todos
 
-lados. Tambin podra decir de l lo mismo que dijo David de la espada de
+lados. También podría decir de él lo mismo que dijo David de la espada de
 
-Goliat: Ninguna como ella; dmela. El lenguaje humano no puede expresar nunca
+Goliat: “Ninguna como ella; dámela.” El lenguaje humano no puede expresar nunca
 
-ni la milsima parte del valor del poder con Dios.
+ni la milésima parte del valor del poder con Dios.
 
 I.
 
-Quiero que noten, primero, LO QUE ESTE PODER NO PUEDE SER: poder con
+Quiero que noten, primero, LO QUE ESTE PODER NO PUEDE SER: “poder con
 
-Dios.
+Dios”.
 
 Casi no necesitan que les diga que este poder
 
-no tiene nada de parecido a la fuerza fsica en oposicin a Dios.
+no tiene nada de parecido a la fuerza física en oposición a Dios.
 
 El
 
@@ -98,39 +98,39 @@ poder que es mencionado en nuestro texto es poder con Dios, no poder contra
 
 Dios. Ninguna criatura, por poderosa que sea, tiene poder alguno para estar en
 
-oposicin a la Omnipotencia. Quines somos nosotros para que nos levantemos
+oposición a la Omnipotencia. żQuiénes somos nosotros para que nos levantemos
 
-alguna vez para oponernos al Altsimo? Que la estopa contienda con la fiera
+alguna vez para oponernos al Altísimo? Que la estopa contienda con la fiera
 
 llama, o la cera con el calor abrasador, pero nosotros no contendamos con Dios.
 
-Si lo hiciramos as, como la mariposa en la vela, seramos totalmente
+Si lo hiciéramos así, como la mariposa en la vela, seríamos totalmente
 
-consumidos. Los hombres ms fuertes y altivos slo habrn de ser como hojarasca
+consumidos. Los hombres más fuertes y altivos sólo habrán de ser como hojarasca
 
-en el da de la ira de Dios. De hecho, pensar que el hombre tiene algn poder
+en el día de la ira de Dios. De hecho, pensar que el hombre tiene algún poder
 
-contra Dios es pura locura, pues no tenemos ningn poder en absoluto aparte de
+contra Dios es pura locura, pues no tenemos ningún poder en absoluto aparte de
 
-Dios. Existimos nicamente porque l lo quiere. La respiracin de nuestra nariz
+Dios. Existimos únicamente porque Él lo quiere. La respiración de nuestra nariz
 
-es un don Suyo minuto a minuto; si l retirara Su mano sustentadora por un solo
+es un don Suyo minuto a minuto; si Él retirara Su mano sustentadora por un solo
 
-instante, regresaramos a la nada de la que provenimos. El hombre no tiene poder
+instante, regresaríamos a la nada de la que provenimos. El hombre no tiene poder
 
-contra Dios. Oh, pecadores necios que le resisten, renuncien a esa batalla
+contra Dios. ˇOh, pecadores necios que le resisten, renuncien a esa batalla
 
 desigual! Los exhorto, delante de Dios, a que calculen el costo de una
 
 contienda con su Hacedor antes de comenzarla. Lo mismo da que un tiesto dispute
 
-con quien lo molde, que ustedes, simples criaturas, contiendan con su Creador.
+con quien lo moldeó, que ustedes, simples criaturas, contiendan con su Creador.
 
-l los desmenuzar, como vasos de alfarero, en el da de Su ira. Por tanto,
+Él los desmenuzará, como vasos de alfarero, en el día de Su ira. Por tanto,
 
-sean sabios, y pongan fin a la pelea, y estn en paz con l.
+sean sabios, y pongan fin a la pelea, y estén en paz con Él.
 
-Este poder con Dios tampoco quiere decir
+Este “poder con Dios” tampoco quiere decir
 
 poder mental.
 
@@ -138,53 +138,53 @@ Hay personas que parecieran exaltar su intelecto
 
 incluso por encima de Dios mismo. Es algo excelente ser dotado con poderes de
 
-argumentacin y tener una aguda facultad de razonamiento, pero, al mismo
+argumentación y tener una aguda facultad de razonamiento, pero, al mismo
 
 tiempo, para algunas personas, estas son posesiones muy peligrosas. Conozco a
 
-ciertos individuos que dicen que nunca creern aquello que no puedan entender.
+ciertos individuos que dicen que nunca creerán aquello que no puedan entender.
 
-Si se adhieren a esa determinacin, nunca creern en su propia existencia,
+Si se adhieren a esa determinación, nunca creerán en su propia existencia,
 
 pues, en verdad, no pueden entenderla. Buscan demoler la Palabra de Dios y las
 
 doctrinas del Evangelio con su ingenio sutil y su pensamiento profundo, pero es
 
-pura locura que la insensatez humana pretenda contender con la sabidura
+pura locura que la insensatez humana pretenda contender con la sabiduría
 
 divina. Que los hombres consideren que sus intelectos son un digno contrincante
 
 de la omnisciencia de Dios, equivale a la demencia llevada al punto culminante,
 
-pues lo insensato de Dios es ms sabio que los hombres. Tanto la sencillez
+pues “lo insensato de Dios es más sabio que los hombres”. Tanto la sencillez
 
-del Evangelio, -que es muy sencillo- como la locura de la predicacin, -que
+del Evangelio, -que es muy sencillo- como “la locura de la predicación”, -que
 
-en la consideracin de algunas personas es total necedad- obtendrn la
+en la consideración de algunas personas es total necedad- obtendrán la
 
-victoria, mientras que quienes se imaginan que son sabios resultarn ser
+victoria, mientras que quienes se imaginan que son sabios resultarán ser
 
 necios.
 
-Hermanos y hermanas, no debemos intentar argir nunca ningn caso en
+Hermanos y hermanas, no debemos intentar argüir nunca ningún caso en
 
-oposicin a la voluntad de Dios, pues no podemos tener ningn poder con l de
+oposición a la voluntad de Dios, pues no podemos tener ningún poder con Él de
 
-esa manera. Hemos de someter siempre nuestro juicio a la enseanza de Su
+esa manera. Hemos de someter siempre nuestro juicio a la enseńanza de Su
 
-Palabra, y conformar nuestra voluntad a Su voluntad. Si pensramos alguna vez
+Palabra, y conformar nuestra voluntad a Su voluntad. Si pensáramos alguna vez
 
 que un cierto curso es el mejor, pero que fuera evidente, por la obra de la
 
-providencia de Dios, que l no lo considerara as, no sostengamos ningn debate
+providencia de Dios, que Él no lo considerara así, no sostengamos ningún debate
 
-con l ni por un instante, sino que debemos decir, como David: Enmudec, no
+con Él ni por un instante, sino que debemos decir, como David: “Enmudecí, no
 
-abr mi boca, porque t lo hiciste. Si Dios hace algo, eso nos basta. Si Dios
+abrí mi boca, porque tú lo hiciste.” Si Dios hace algo, eso nos basta. Si Dios
 
-dice algo, eso nos basta. En vez de alegar y razonar, Escrito est, o dijo
+dice algo, eso nos basta. En vez de alegar y razonar, “Escrito está”, o “dijo
 
-Dios, nos
+Dios”, nos
 
 deben
 
@@ -192,41 +192,41 @@ bastar para dirimir cualquier dilema
 
 que concierna al cristiano.
 
-Es casi indispensable decir, -en estos das de supersticin- que
+Es casi indispensable decir, -en estos días de superstición- que
 
-nadie puede tener algn poder mgico con
+nadie puede tener algún poder mágico con
 
 Dios;
 
-pues, si bien en estos tiempos la gente se sentira avergonzada de
+pues, si bien en estos tiempos la gente se sentiría avergonzada de
 
-confesar que cree en las artes mgicas, sin embargo, algo muy semejante a eso pareciera
+confesar que cree en las artes mágicas, sin embargo, algo muy semejante a eso pareciera
 
-subsistir todava en la humanidad. Las personas suponen que hay alguna eficacia
+subsistir todavía en la humanidad. Las personas suponen que hay alguna eficacia
 
-en la mera repeticin de ciertas palabras. Estoy seguro de que han de pensar
+en la mera repetición de ciertas palabras. Estoy seguro de que han de pensar
 
-as, pues no ponen su corazn en sus palabras, sino que estn contentos si han galopado
+así, pues no ponen su corazón en sus palabras, sino que están contentos si han galopado
 
-a travs de una breve plegaria, o de alguna forma establecida de oracin.
+a través de una breve plegaria, o de alguna forma establecida de oración.
 
-Otra suposicin es que la oracin es mucho mejor cuando es ofrecida por
+Otra suposición es que la oración es mucho mejor cuando es ofrecida por
 
-un cierto individuo que es ordenado para esa labor especial, as que quienes
+un cierto individuo que es ordenado para esa labor especial, así que quienes
 
-estn enfermos mandan a llamar a un oficial para que venga y ore por ellos.
+están enfermos mandan a llamar a un oficial para que venga y “ore por ellos”.
 
-Yo he escuchado a menudo esa expresin, como si se pensara que dicha persona,
+Yo he escuchado a menudo esa expresión, como si se pensara que dicha persona,
 
-cuando lee una oracin de un libro, pudiera, por una suerte de magia, hacer
+cuando lee una oración de un libro, pudiera, por una suerte de magia, hacer
 
 bien al enfermo.
 
-Oh seores, las meras palabras ensartadas en una ristra, ya sea que
+ˇOh seńores, las meras palabras ensartadas en una ristra, ya sea que
 
-estn en hebreo, en griego, en latn, o en ingls, no sirven de nada delante de
+estén en hebreo, en griego, en latín, o en inglés, no sirven de nada delante de
 
-Dios! Es la expresin del corazn lo que l oye, y no deben imaginar nunca que
+Dios! Es la expresión del corazón lo que Él oye, y no deben imaginar nunca que
 
 hay
 
@@ -236,67 +236,67 @@ sonidos, o que ciertos individuos, mediante el uso de estas palabras, pueden
 
 atraer de lo alto las bendiciones.
 
-Oh, no; Jacob no posea ningn
+Oh, no; Jacob no poseía ningún
 
 abracadabra,
 
-ni talismn, ni magia, ni hechizo, ni encanto; y Dios no quiera que
+ni talismán, ni magia, ni hechizo, ni encanto; ˇy Dios no quiera que
 
-ustedes y yo seamos jams semejantes paganos como para creer que hay poder
+ustedes y yo seamos jamás semejantes paganos como para creer que hay poder
 
 alguno con Dios en tales cosas! Necedades de este tipo no pueden prevalecer
 
-ante Dios para que l otorgue Sus bendiciones. l las aborrece por completo.
+ante Dios para que Él otorgue Sus bendiciones. Él las aborrece por completo.
 
-Y, adems, cuando hablamos de tener poder con Dios,
+Y, además, cuando hablamos de tener poder con Dios,
 
-no hemos de suponer que algn hombre pueda
+no hemos de suponer que algún hombre pueda
 
-tener algn poder meritorio con Dios.
+tener algún poder meritorio con Dios.
 
 Algunas personas han pensado que un
 
-hombre puede alcanzar un cierto grado de mrito, y que, entonces, recibir
+hombre puede alcanzar un cierto grado de mérito, y que, entonces, recibirá
 
-bendiciones del cielo: si ofrece un cierto nmero de oraciones, si hace esto o
+bendiciones del cielo: si ofrece un cierto número de oraciones, si hace esto o
 
-siente aquello o sufre lo otro, entonces gozar de elevado favor con Dios.
+siente aquello o sufre lo otro, entonces gozará de elevado favor con Dios.
 
-Muchos estn viviendo bajo este engao, y, a su manera, estn tratando de
+Muchos están viviendo bajo este engańo, y, a su manera, están tratando de
 
 conseguir poder con Dios por lo que son, o por lo que hacen o por lo que
 
-sufren. Piensan que alcanzaran poder con Dios si sintieran ms el pecado, o si
+sufren. Piensan que alcanzarían poder con Dios si sintieran más el pecado, o si
 
-lloraran ms, o si se arrepintieran ms. Se trata siempre de algo que tienen
+lloraran más, o si se arrepintieran más. Se trata siempre de algo que tienen
 
-que hacer, o de algo que han de generar en s mismos, que deben traer delante
+que hacer, o de algo que han de generar en sí mismos, que deben traer delante
 
-de Dios, para que, cuando l lo vea, diga: Ahora voy a tener misericordia para
+de Dios, para que, cuando Él lo vea, diga: “Ahora voy a tener misericordia para
 
-contigo, y voy a concederte la bendicin que imploras.
+contigo, y voy a concederte la bendición que imploras.”
 
-Oh, queridos amigos, todo esto es contrario al espritu del Evangelio
+ˇOh, queridos amigos, todo esto es contrario al espíritu del Evangelio
 
-de Jesucristo! Hay mucho ms poder con Dios en el humilde reconocimiento de la
+de Jesucristo! Hay mucho más poder con Dios en el humilde reconocimiento de la
 
-condicin pecaminosa, que en un jactancioso reclamo de limpieza; mucho ms
+condición pecaminosa, que en un jactancioso reclamo de limpieza; mucho más
 
 poder al suplicar que la gracia perdone, que en pedir que la justicia sea
 
-recompensada, porque cuando argumentamos nuestro vaco y nuestro pecado,
+recompensada, porque cuando argumentamos nuestro vacío y nuestro pecado,
 
 estamos argumentando la verdad. Pero cuando hablamos de nuestra bondad y de
 
 nuestros actos meritorios, argumentamos una mentira, y las mentiras no pueden
 
-tener nunca algn poder en la presencia del Dios de la verdad.
+tener nunca algún poder en la presencia del Dios de la verdad.
 
-Oh, hermanos y hermanas, sacudamos por siempre de nosotros, como
+ˇOh, hermanos y hermanas, sacudamos por siempre de nosotros, como
 
-sacudiramos de nuestra mano una vbora, toda idea de que, por alguna bondad
+sacudiríamos de nuestra mano una víbora, toda idea de que, por alguna bondad
 
-nuestra que incluso el Espritu de Dios pudiera obrar en nosotros, seamos
+nuestra que incluso el Espíritu de Dios pudiera obrar en nosotros, seamos
 
 capaces de merecer algo de las manos de Dios, y reclamar algo de la justicia de
 
@@ -304,59 +304,59 @@ nuestro Hacedor como un derecho!
 
 II.
 
-Ahora, en segundo lugar, investiguemos DE DNDE PROCEDE ESTE PODER. Si
+Ahora, en segundo lugar, investiguemos DE DÓNDE PROCEDE ESTE PODER. Si
 
-alguien preguntara: Cmo puede tener un hombre poder con Dios?, la respuesta
+alguien preguntara: “żCómo puede tener un hombre poder con Dios?”, la respuesta
 
-es: no es porque el poder est en l, sino que puede tener poder con Dios
+es: “no es porque el poder esté en él, sino que puede tener poder con Dios
 
-debido a algo que est en Dios.
+debido a algo que está en Dios.”
 
 Primero,
 
 el pueblo de Dios
 
-obtiene poder con l por causa del propio carcter de la naturaleza de Dios.
+obtiene poder con Él por causa del propio carácter de la naturaleza de Dios.
 
 Ustedes
 
-vern pronto lo que quiero decir. Has visitado alguna vez a una familia sumida
+verán pronto lo que quiero decir. żHas visitado alguna vez a una familia sumida
 
-en las profundidades de la pobreza, encontrndola con unos cuantos harapos con
+en las profundidades de la pobreza, encontrándola con unos cuantos harapos con
 
-los que duermen, sin nada en su alacena, con un nio moribundo por falta de
+los que duermen, sin nada en su alacena, con un nińo moribundo por falta de
 
-alimento, su madre y su padre con semblantes decados, y te dicen que, en las
+alimento, su madre y su padre con semblantes decaídos, y te dicen que, en las
 
-ltimas cuarenta y ocho horas no han comido absolutamente nada? Y no sentiste
+últimas cuarenta y ocho horas no han comido absolutamente nada? żY no sentiste
 
 que tuvieron poder sobre ti, de tal forma que no pudiste evitar socorrerles?
 
-Estoy seguro de que as ha sido, si tienes un corazn tierno y eres de un
+Estoy seguro de que así ha sido, si tienes un corazón tierno y eres de un
 
-espritu generoso y misericordioso. El poder que tienen sobre ti no se origina
+espíritu generoso y misericordioso. El poder que tienen sobre ti no se origina
 
 en sus riquezas, sino que es totalmente lo contrario, se origina en su pobreza.
 
-Su poder sobre ti no radica en que sean respetables y prsperos, sino que es
+Su poder sobre ti no radica en que sean respetables y prósperos, sino que es
 
 todo lo contrario, ya que el poder sobre ti radica en que se encuentran sumidos
 
 en la abyecta miseria. Su miseria tiene poder para excitar tu piedad. Debido a
 
-que los ves en un estado tan triste, t, que eres un hombre de espritu
+que los ves en un estado tan triste, tú, que eres un hombre de espíritu
 
 compasivo, eres movido de inmediato a tratar de socorrerles. Hay muchos
 
-espectculos de sufrimiento y afliccin en este mundo, que incluso un hombre fuerte
+espectáculos de sufrimiento y aflicción en este mundo, que incluso un hombre fuerte
 
-no puede soportar mirar, especialmente si es incapaz de aliviar a quienes estn
+no puede soportar mirar, especialmente si es incapaz de aliviar a quienes están
 
 sumidos en la zozobra.
 
-Ahora, si nosotros, siendo malos, reaccionamos ante la contemplacin de
+Ahora, si nosotros, siendo malos, reaccionamos ante la contemplación de
 
-la miseria humana, cunto ms no es movido a la piedad por la miseria de Sus
+la miseria humana, cuánto más no es movido a la piedad por la miseria de Sus
 
 hijos, nuestro Padre celestial, que es
 
@@ -364,9 +364,9 @@ todo
 
 bondad, y ternura,
 
-y delicadeza y amor. Siempre que ustedes y yo vengamos a l, es sabio que
+y delicadeza y amor. Siempre que ustedes y yo vengamos a Él, es sabio que
 
-argumentemos delante de l nuestra debilidad, para que tenga piedad de
+argumentemos delante de Él nuestra debilidad, para que tenga piedad de
 
 nosotros, y nos haga fuertes; que argumentemos nuestra pobreza, para que tenga
 
@@ -374,43 +374,43 @@ piedad de nosotros, y nos enriquezca; que argumentemos nuestra terrible
 
 necesidad, para que tenga piedad de nosotros y supla toda nuestra necesidad,
 
-nuestro abatimiento, nuestro corazn desfallecido, nuestro espritu trmulo,
+nuestro abatimiento, nuestro corazón desfallecido, nuestro espíritu trémulo,
 
-nuestra completa nada. De esta manera tendremos poder con l.
+nuestra completa nada. De esta manera tendremos poder con Él.
 
-Si han acostumbrado visitar al pobre, ustedes saben cmo aquellos que
+Si han acostumbrado visitar al pobre, ustedes saben cómo aquellos que
 
-han llegado a ser veteranos en recibir caridades, nunca exponen primero su
+han llegado a ser “veteranos” en recibir caridades, nunca exponen primero su
 
 mejor pierna cuando quieren impresionarte con un debido sentido de su necesidad.
 
-Si tuvieran algo en la casa, se cuidaran de que no lo vieras. Si hubiera
+Si tuvieran algo en la casa, se cuidarían de que no lo vieras. Si hubiera
 
-habido cualquier mejora en sus circunstancias desde que los visitaste la ltima
+habido cualquier mejora en sus circunstancias desde que los visitaste la última
 
-vez, tendras que pescar un buen rato antes de descubrirlo. Pero son muy propensos
+vez, tendrías que pescar un buen rato antes de descubrirlo. Pero son muy propensos
 
 a mostrar el lado negro de su caso, porque su poder radica precisamente en eso
 
-con quienes tienen un corazn generoso.
+con quienes tienen un corazón generoso.
 
-Y as, hermanos, nuestro poder con Dios, cuando acudimos a l como
+Y así, hermanos, nuestro poder con Dios, cuando acudimos a Él como
 
-pecadores, no est en lo que somos, sino en lo que Dios es. l es amor, es
+pecadores, no está en lo que somos, sino en lo que Dios es. Él es amor, es
 
-misericordia, es ternura, es delicadeza. l no quiere la muerte del pecador,
+misericordia, es ternura, es delicadeza. Él no quiere la muerte del pecador,
 
 sino que se deleita en mostrar Su misericordia salvadora, y en manifestar la
 
 abundancia de Su gracia. El cimiento de nuestro poder con Dios debe apoyarse
 
-siempre en el amor y la ternura de Dios. l es susceptible de piedad, s, l es
+siempre en el amor y la ternura de Dios. Él es susceptible de piedad, sí, Él es
 
-la ternura misma. l es un Dios de compasin, y, por tanto, esa es la razn por
+la ternura misma. Él es un Dios de compasión, y, por tanto, esa es la razón por
 
-la que los pobres y dbiles hijos de Adn tienen poder con l.
+la que los pobres y débiles hijos de Adán tienen poder con Él.
 
-Pero obtenemos una visin adicional de la fuente de la que proviene
+Pero obtenemos una visión adicional de la fuente de la que proviene
 
 este poder con Dios, cuando llegamos al siguiente punto, es decir,
 
@@ -418,17 +418,17 @@ a la promesa de Dios.
 
 Dios ha querido
 
-decir en Su Palabra que l har esto y lo otro, y que dar esto y aquello. l
+decir en Su Palabra que Él hará esto y lo otro, y que dará esto y aquello. Él
 
 era muy libre, una vez, de hacer lo que quisiera, pero ahora que Dios nos ha
 
-dado Su promesa, ya no es libre de quebrantarla, y sera inconsistente con Sus
+dado Su promesa, ya no es libre de quebrantarla, y sería inconsistente con Sus
 
-gloriosos atributos si lo hiciera. Tampoco dejar jams sin cumplimiento una
+gloriosos atributos si lo hiciera. Tampoco dejará jamás sin cumplimiento una
 
-sola slaba que hubiere brotado de Su boca. Cuando Dios dio Su promesa, se puso
+sola sílaba que hubiere brotado de Su boca. Cuando Dios dio Su promesa, se puso
 
-efectivamente a S mismo, por decirlo as, en poder de quienes saben cmo
+efectivamente a Sí mismo, por decirlo así, en poder de quienes saben cómo
 
 argumentar la promesa. Cada promesa es una dosis de vigor dada al hombre que
 
@@ -436,39 +436,39 @@ tiene fe en esa promesa, pues con ella puede vencer incluso al propio Dios
 
 omnipotente.
 
-Vamos, hermanos, si su carcter es lo que debiera ser, y una persona se
+Vamos, hermanos, si su carácter es lo que debiera ser, y una persona se
 
-acercara a ustedes, y les dijera: t prometiste darme tal y tal cosa, acaso
+acercara a ustedes, y les dijera: “tú prometiste darme tal y tal cosa”, żacaso
 
-la persona que puede decir eso no tiene poder sobre ustedes hasta el lmite
+la persona que puede decir eso no tiene poder sobre ustedes hasta el límite
 
-mximo de su promesa? Si t eres un hombre veraz, te logra vencer de inmediato.
+máximo de su promesa? Si tú eres un hombre veraz, te logra vencer de inmediato.
 
-Si t le dijeras: pero cundo te di yo esa promesa? Podras haber
+Si tú le dijeras: “żpero cuándo te di yo esa promesa? Podrías haber
 
-malinterpretado lo que te dije; entonces l metera su mano en el bolsillo y
+malinterpretado lo que te dije”; entonces él metería su mano en el bolsillo y
 
-sacara tu promesa en blanco y negro, con tu nombre firmado all y ya no habra
+sacaría tu promesa en blanco y negro, con tu nombre firmado allí y ya no habría
 
-forma de escaparse de eso, no es cierto? Ahora, esa es precisamente la manera
+forma de escaparse de eso, żno es cierto? Ahora, esa es precisamente la manera
 
-en la que Dios nos da poder con l, pues nos ha dado Su promesa en blanco y
+en la que Dios nos da poder con Él, pues nos ha dado Su promesa en blanco y
 
-negro, y se encuentra aqu, en el Libro que conocemos como Su Libro, Su propia
+negro, y se encuentra aquí, en el Libro que conocemos como Su Libro, Su propia
 
 Palabra infalible.
 
-Es una bendicin poder llegar delante de Dios de rodillas, y poner tu
+Es una bendición poder llegar delante de Dios de rodillas, y poner tu
 
-dedo en una promesa que est en la Biblia, y decir: Seor, esto es lo que has
+dedo en una promesa que está en la Biblia, y decir: “Seńor, esto es lo que has
 
-prometido que hars; yo te suplico que lo hagas, porque T eres el Dios de la
+prometido que harás; yo te suplico que lo hagas, porque Tú eres el Dios de la
 
-verdad. Yo s que T no puedes mentir, as que te recuerdo Tu promesa, y te
+verdad. Yo sé que Tú no puedes mentir, así que te recuerdo Tu promesa, y te
 
-suplico que hagas como has dicho. No ven qu poder tienen con Dios cuando l
+suplico que hagas como has dicho.” żNo ven qué poder tienen con Dios cuando Él
 
-les ha otorgado fe para que se aferren a l de esta manera, trayendo Su propia
+les ha otorgado fe para que se aferren a Él de esta manera, trayendo Su propia
 
 promesa graciosa en la mano? Hay un poder conquistador en la fe, porque la fe
 
@@ -480,35 +480,35 @@ de Dios y la promesa de Dios.
 
 Pero el verdadero hijo de Dios conoce otras fuentes de poder con Dios;
 
-as, a continuacin,
+así, a continuación,
 
-l argumenta las
+él argumenta las
 
 relaciones de gracia.
 
 Dios, en Su infinita misericordia, se ha agradado en
 
-elegir a un cierto grupo de elegidos para que sean Sus hijos. Vosotros me
+elegir a un cierto grupo de elegidos para que sean Sus hijos. “Vosotros me
 
-seris hijos e hijas, dice el Seor Todopoderoso. No haba en ellos mismos ninguna
+seréis hijos e hijas, dice el Seńor Todopoderoso.” No había en ellos mismos ninguna
 
-razn para que fueran Sus hijos e hijas, pero Su gracia soberana los adopt, y
+razón para que fueran Sus hijos e hijas, pero Su gracia soberana los adoptó, y
 
-Su Espritu los regener. Pero en el momento en que Dios hizo a cualquiera de
+Su Espíritu los regeneró. Pero en el momento en que Dios hizo a cualquiera de
 
-nosotros Su hijo, le otorg otra vez poder con l, -y hablo con toda
+nosotros Su hijo, le otorgó otra vez poder con Él, -y hablo con toda
 
 reverencia- y se puso en sus manos.
 
-Quin de nosotros no conoce el poder de un hijo con su padre? Hay
+żQuién de nosotros no conoce el poder de un hijo con su padre? Hay
 
 algunos hijos que tienen demasiado poder. Hay una historia griega acerca de un
 
-pequeo nio que gobernaba Atenas entera, porque gobernaba a su madre, y su
+pequeńo nińo que gobernaba Atenas entera, porque gobernaba a su madre, y su
 
 madre gobernaba a su padre, y su padre gobernaba el senado, y el senado
 
-gobernaba a Atenas; y as, de esa manera, el muchachito prcticamente gobernaba
+gobernaba a Atenas; y así, de esa manera, el muchachito prácticamente gobernaba
 
 toda la ciudad; y me temo que hay algunos hijos que tienen en gran medida
 
@@ -516,151 +516,151 @@ demasiado poder en ese sentido.
 
 Pero nuestro Padre Celestial, aunque es demasiado sabio para no
 
-consentirnos de esa manera, es tan bueno que no nos negar ningn privilegio
+consentirnos de esa manera, es tan bueno que no nos negará ningún privilegio
 
-que, por derecho, pertenece a la posicin de un hijo. Cuando el hijo suyo apela
+que, por derecho, pertenece a la posición de un hijo. Cuando el hijo suyo apela
 
 a ustedes porque hay algo que realmente necesita, pero que no le han otorgado,
 
-y les dice, por fin, pero, padre querido, no me conceders esto?, o si le
+y les dice, por fin, “pero, padre querido, żno me concederás esto?”, o si le
 
-han castigado, y les dice: padre, detn tu mano; no soy acaso tu hijo?, no
+han castigado, y les dice: “padre, detén tu mano; żno soy acaso tu hijo?”, no
 
-pueden resistir su peticin. l tiene poder con ustedes; ustedes saben que lo
+pueden resistir su petición. Él tiene poder con ustedes; ustedes saben que lo
 
 tiene.
 
-Y qu poder tan maravilloso tenemos cuando podemos decir, en verdad, Abba,
+Y qué poder tan maravilloso tenemos cuando podemos decir, en verdad, “ˇAbba,
 
-Padre! Tendremos poder con Dios en nuestros tiempos de mayor debilidad si
+Padre!” Tendremos poder con Dios en nuestros tiempos de mayor debilidad si
 
-podemos clamar: Abba, Padre! No puedo olvidar nunca una cierta enfermedad
+podemos clamar: “ˇAbba, Padre!” No puedo olvidar nunca una cierta enfermedad
 
 que tuve, cuando fui atormentado con dolor, y fui muy abatido con angustia de
 
-espritu por causa de la naturaleza del mal que me aquejaba, y me senta
+espíritu por causa de la naturaleza del mal que me aquejaba, y me sentía
 
-impelido casi a desesperar una noche, hasta que me aferr a Dios, en una agona
+impelido casi a desesperar una noche, hasta que me aferré a Dios, en una agonía
 
-de oracin, y argument con l algo parecido a esto: si mi hijo estuviera
+de oración, y argumenté con Él algo parecido a esto: “si mi hijo estuviera
 
-sumido en una angustia como yo lo estoy, yo le escuchara, y le aliviara si
+sumido en una angustia como yo lo estoy, yo le escucharía, y le aliviaría si
 
-pudiera. T eres mi Padre, y yo soy Tu hijo, entonces, no me tratars como a un
+pudiera. Tú eres mi Padre, y yo soy Tu hijo, entonces, żno me tratarás como a un
 
-hijo? Casi al instante que present ese argumento delante de Dios, mi dolor ces,
+hijo?” Casi al instante que presenté ese argumento delante de Dios, mi dolor cesó,
 
-y ca en un dulce sueo del que despert con un Abba, Padre! en mis labios y
+y caí en un dulce sueńo del que desperté con un “ˇAbba, Padre!” en mis labios y
 
-en mi corazn. Yo creo que este es un argumento invencible, porque, cuando Dios
+en mi corazón. Yo creo que este es un argumento invencible, porque, cuando Dios
 
-se llama a S mismo Padre, lo dice en serio. Hay algunos padres, en este mundo,
+se llama a Sí mismo Padre, lo dice en serio. Hay algunos padres, en este mundo,
 
-que no actan para nada como deberan hacerlo los padres; deberan sentirse
+que no actúan para nada como deberían hacerlo los padres; deberían sentirse
 
-avergonzados, pero eso no se dir nunca de nuestro Padre Celestial. l es un
+avergonzados, pero eso no se dirá nunca de nuestro Padre Celestial. Él es un
 
-verdadero Padre, y tiene entraas de compasin para con Sus hijos, y no aflige
+verdadero Padre, y tiene entrańas de compasión para con Sus hijos, y no aflige
 
-ni lastima voluntariamente a los hijos de los hombres; y cuando sabemos cmo
+ni lastima voluntariamente a los hijos de los hombres; y cuando sabemos cómo
 
-apelar a Su Paternidad, prevaleceremos con l.
+apelar a Su Paternidad, prevaleceremos con Él.
 
-Adems, queridos amigos,
+Además, queridos amigos,
 
 el poder
 
-que tenemos con Dios proviene tambin de Sus acciones pasadas.
+que tenemos con Dios proviene también de Sus acciones pasadas.
 
 Miren lo que
 
-ha hecho por Su propio pueblo. Primero, l lo escogi. Bien, entonces, como l
+ha hecho por Su propio pueblo. Primero, Él lo escogió. Bien, entonces, como Él
 
-lo escogi, no puede desecharlo, porque l es un Dios inmutable; como l hizo
+lo escogió, no puede desecharlo, porque Él es un Dios inmutable; como Él hizo
 
-Su eleccin, la mantiene. Pablo pregunta: Ha desechado Dios a su pueblo? Y l
+Su elección, la mantiene. Pablo pregunta: “żHa desechado Dios a su pueblo? Y él
 
-responde a su propia pregunta: No ha desechado Dios a su pueblo, al cual desde
+responde a su propia pregunta: “No ha desechado Dios a su pueblo, al cual desde
 
-antes conoci. Eso es lo que no ha hecho nunca.
+antes conoció.” Eso es lo que no ha hecho nunca.
 
-Luego, adems de elegirnos, l tambin nos ha redimido; y despus de
+Luego, además de elegirnos, Él también nos ha redimido; y después de
 
-que nos redimi de la destruccin por la sangre de Su Hijo, puede permitir que
+que nos redimió de la destrucción por la sangre de Su Hijo, żpuede permitir que
 
-nos perdamos? Podra pagar por nosotros tal precio, y, sin embargo,
+nos perdamos? żPodría pagar por nosotros tal precio, y, sin embargo,
 
-desentenderse de guardarnos hasta el fin? Eso no puede ser. Cuando entreg a Su
+desentenderse de guardarnos hasta el fin? Eso no puede ser. Cuando entregó a Su
 
-Hijo como recompensa por nosotros, en verdad, se puso en nuestras manos, pues El
+Hijo como recompensa por nosotros, en verdad, se puso en nuestras manos, pues “El
 
-que no escatim ni a su propio Hijo, sino que lo entreg por todos nosotros,
+que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros,
 
-cmo no nos dar tambin con l todas las cosas?
+żcómo no nos dará también con él todas las cosas?”
 
-Basta que sepas que Dios entreg a Su Hijo por ti, querido amigo, que
+Basta que sepas que Dios entregó a Su Hijo por ti, querido amigo, que
 
-sepas que Jesucristo es tuyo, y entonces la lgica de tu oracin es bastante
+sepas que Jesucristo es tuyo, y entonces la lógica de tu oración es bastante
 
-clara, y bastante potente cuando dices: qu podras negarme, oh Padre mo? T
+clara, y bastante potente cuando dices: “żqué podrías negarme, oh Padre mío? Tú
 
 me has dado a Tu Hijo; entonces, por Su sangre y heridas, por Su vida, y
 
-muerte, y por la gloria de la resurreccin, concede a mi espritu la gracia que
+muerte, y por la gloria de la resurrección, concede a mi espíritu la gracia que
 
-necesita, puesto que T me has dado a Jesucristo.
+necesita, puesto que Tú me has dado a Jesucristo.”
 
-No ven, queridos hermanos y hermanas en Cristo, que cada misericordia
+żNo ven, queridos hermanos y hermanas en Cristo, que cada misericordia
 
-que Dios les ha otorgado les da poder sobre l? Por eso, ustedes cantan con
+que Dios les ha otorgado les da poder sobre Él? Por eso, ustedes cantan con
 
 John Newton,
 
-Su amor en tiempos pasados me prohbe
+“Su amor en tiempos pasados me prohíbe
 
 pensar
 
-Que me abandonar al final para que me
+Que me abandonará al final para que me
 
-hunda en la tribulacin;
+hunda en la tribulación;
 
 Cada dulce Eben-ezer al que paso revista,
 
-Confirma Su disposicin de ayudarme por
+Confirma Su disposición de ayudarme por
 
-completo.
+completo.”
 
-Si ha hecho tanto por nosotros, acaso no har ms todava? Acaso cada
+Si ha hecho tanto por nosotros, żacaso no hará más todavía? żAcaso cada
 
-bendicin que es otorgada por Dios, no nos llega con este mensaje de Su boca:
+bendición que es otorgada por Dios, no nos llega con este mensaje de Su boca:
 
-vendrn ms cosas todava, y no podemos estar muy seguros de que l, que nos
+“vendrán más cosas todavía”, ży no podemos estar muy seguros de que Él, que nos
 
-ha bendecido ahora durante cuarenta aos, o durante cincuenta, sesenta,
+ha bendecido ahora durante cuarenta ańos, o durante cincuenta, sesenta,
 
-setenta, -y veo a algunos que han sumado ochenta aos, y que han tenido la
+setenta, -y veo a algunos que han sumado ochenta ańos, y que han tenido la
 
-bendicin de Dios todo el tiempo- entonces, acaso no se ha comprometido y
+bendición de Dios todo el tiempo- entonces, żacaso no se ha comprometido y
 
-obligado, por todos estos aos de favor y misericordia, a bendecirles incluso
+obligado, por todos estos ańos de favor y misericordia, a bendecirles incluso
 
-hasta el final? Ciertamente as es.
+hasta el final? Ciertamente así es.
 
 III.
 
-Ahora noten, en tercer lugar, CMO PUEDE SER EJERCIDO, ESTE PODER CON
+Ahora noten, en tercer lugar, CÓMO PUEDE SER EJERCIDO, ESTE PODER CON
 
-DIOS, POR LOS CRISTIANOS. Qu forma toma el poder con Dios? Por supuesto que
+DIOS, POR LOS CRISTIANOS. żQué forma toma el poder con Dios? Por supuesto que
 
-toma la forma de la oracin. Los cristianos ejercen el poder que tienen con
+toma la forma de la oración. Los cristianos ejercen el poder que tienen con
 
-Dios cuando se acercan a l para pedir bendiciones para ellos y para otros;
+Dios cuando se acercan a Él para pedir bendiciones para ellos y para otros;
 
-pero no todo el que ora tiene poder con Dios, o sabe cmo usar el poder que
+pero no todo el que ora tiene poder con Dios, o sabe cómo usar el poder que
 
-realmente existe. Cul es la gente que tiene realmente poder con Dios? Les
+realmente existe. żCuál es la gente que tiene realmente poder con Dios? Les
 
-dir.
+diré.
 
 Primero,
 
@@ -672,125 +672,125 @@ Nadie que
 
 piense que es fuerte tiene poder con Dios, excepto en el sentido en el que
 
-Pablo escribi, Cuando soy dbil, entonces soy fuerte. Yo tengo una idea, -y
+Pablo escribió, “Cuando soy débil, entonces soy fuerte.” Yo tengo una idea, -y
 
-pienso que la Escritura la apoya- y es que Jacob luch muy intensamente con el
+pienso que la Escritura la apoya- y es que Jacob luchó muy intensamente con el
 
-ngel, aunque no obtuvo la victoria sino hasta que el ngel toc en el sitio
+ángel, aunque no obtuvo la victoria sino hasta que el ángel tocó en el sitio
 
-del encaje de su muslo, y provoc que el muslo se descoyuntara. Entonces,
+del encaje de su muslo, y provocó que el muslo se descoyuntara. Entonces,
 
-cuando Jacob no pudo estar ms de pie, al momento de caer se aferr con toda su
+cuando Jacob no pudo estar más de pie, al momento de caer se aferró con toda su
 
-fuerza al ngel como si quisiera derribarlo tambin ya que deba caer, y el
+fuerza al ángel como si quisiera derribarlo también ya que debía caer, y el
 
-peso de Jacob era mayor an porque no poda estar de pie. Su misma debilidad
+peso de Jacob era mayor aún porque no podía estar de pie. Su misma debilidad
 
 fue un elemento de su fuerza, y ese momento de debilidad fue el momento de su
 
 victoria.
 
-Ahora, si acuden a Dios sintiendo que estn parcialmente llenos, l no
+Ahora, si acuden a Dios sintiendo que están parcialmente llenos, Él no
 
-los llenar, sino que esperar hasta que estn muy vacos antes de que derrame
+los llenará, sino que esperará hasta que estén muy vacíos antes de que derrame
 
-Su bendicin en ustedes. l no mezclar aceite con agua; y hasta que hubiere
+Su bendición en ustedes. Él no mezclará aceite con agua; y hasta que hubiere
 
-vaciado toda el agua de la vasija, no comenzar a derramar Su aceite o Su vino.
+vaciado toda el agua de la vasija, no comenzará a derramar Su aceite o Su vino.
 
 Cuando sienten que tienen un poco de fuerza para orar, pienso que es muy
 
 probable que no tengan poder con Dios, pero cuando se llega al punto en que claman:
 
-oh Dios, yo no puedo hacer nada; todo mi poder es convertido en completa
+“oh Dios, yo no puedo hacer nada; todo mi poder es convertido en completa
 
-debilidad; soy conducido a la necesidad ms extrema; entonces, en la propia
+debilidad; soy conducido a la necesidad más extrema”; entonces, en la propia
 
-desesperacin de su debilidad, se aferran al Dios que hace las promesas, y, por
+desesperación de su debilidad, se aferran al Dios que hace las promesas, y, por
 
-decirlo as, derriban al ngel, y obtienen la bendicin, como lo hizo Jacob. Es
+decirlo así, derriban al ángel, y obtienen la bendición, como lo hizo Jacob. Es
 
-su debilidad la que obtiene la bendicin, no su fortaleza.
+su debilidad la que obtiene la bendición, no su fortaleza.
 
-Han tratado alguna vez de acudir a Dios como un hombre plenamente santificado?
+żHan tratado alguna vez de acudir a Dios como un hombre plenamente santificado?
 
-Yo lo hice una vez. Haba escuchado a algunos de los hermanos perfectos que
+Yo lo hice una vez. Había escuchado a algunos de los hermanos “perfectos” que
 
-van viajando al cielo en el tren de alto nivel, y se me ocurri probar su
+van viajando al cielo en el tren de “alto nivel”, y se me ocurrió probar su
 
-plan de oracin. Acud al Seor como un hombre consagrado y santificado. Toqu
+plan de oración. Acudí al Seńor como un hombre consagrado y santificado. Toqué
 
-a la puerta. Yo estaba acostumbrado a conseguir la admisin al primer llamado,
+a la puerta. Yo estaba acostumbrado a conseguir la admisión al primer llamado,
 
-pero, esta vez, no la consegu. Toqu otra vez, y segu tocando, aunque no me
+pero, esta vez, no la conseguí. Toqué otra vez, y seguí tocando, aunque no me
 
-senta muy tranquilo en mi conciencia acerca de lo que estaba haciendo. Por fin,
+sentía muy tranquilo en mi conciencia acerca de lo que estaba haciendo. Por fin,
 
-clam ruidosamente para que me dejasen entrar; y cuando me preguntaron quin
+clamé ruidosamente para que me dejasen entrar; y cuando me preguntaron quién
 
-era yo, respond que era un hombre perfectamente consagrado y plenamente
+era yo, respondí que era un hombre perfectamente consagrado y plenamente
 
-santificado. Pero ellos replicaron que no me conocan! El hecho era que nunca
+santificado. ˇPero ellos replicaron que no me conocían! El hecho era que nunca
 
-me haban visto antes en ese carcter. Por fin, cuando sent que tena que
+me habían visto antes en ese carácter. Por fin, cuando sentí que tenía que
 
-entrar y tena que alcanzar una bendicin, toqu otra vez, y cuando el
+entrar y tenía que alcanzar una bendición, toqué otra vez, y cuando el
 
-centinela de la puerta pregunt: quin anda all?, respond: yo, soy Charles
+centinela de la puerta preguntó: “żquién anda allí?”, respondí: “yo, soy Charles
 
-Spurgeon, un pobre pecador que no tiene ninguna santificacin o perfeccin
+Spurgeon”, un pobre pecador que no tiene ninguna santificación o perfección
 
-propias que argumentar, pero que confa nicamente en Jesucristo, el Salvador
+propias que argumentar, pero que confía únicamente en Jesucristo, el Salvador
 
-de los pecadores. El portero dijo: oh, eres
+de los pecadores.” El portero dijo: “oh, eres
 
-t,
+tú,
 
-no es cierto? Entra; te conocemos lo suficiente, te hemos
+żno es cierto? Entra; te conocemos lo suficiente, te hemos
 
-conocido todos estos aos, y, entonces, entr directamente.
+conocido todos estos ańos”, y, entonces, entré directamente.
 
-Yo creo que esa es la mejor manera de orar, y la manera de tener xito.
+Yo creo que esa es la mejor manera de orar, y la manera de tener éxito.
 
-Cuando vistes tus mejores galas y llevas tus altos moos es cuando el Seor no
+Cuando vistes tus mejores galas y llevas tus altos mońos es cuando el Seńor no
 
-te conoce; cuando te hayas quitado todo eso, y acudas a l tal como acudiste al
+te conoce; cuando te hayas quitado todo eso, y acudas a Él tal como acudiste al
 
 principio, entonces puedes decirle:
 
-Siendo una vez un pecador cercano a la
+“Siendo una vez un pecador cercano a la
 
-desesperacin
+desesperación
 
-Busqu Tu propiciatorio por medio de la
+Busqué Tu propiciatorio por medio de la
 
-oracin;
+oración;
 
-Entonces Misericordia oy, y lo libert,
+Entonces Misericordia oyó, y lo libertó,
 
-Seor, esa misericordia me toc a m;
+Seńor, esa misericordia me tocó a mí”;
 
 y
 
-yo soy ese pobre publicano, que no se atreva ni siquiera a alzar los ojos al
+yo soy ese pobre publicano, que no se atrevía ni siquiera a alzar los ojos al
 
-cielo, sino que se golpeaba el pecho, diciendo: Dios, s propicio a m,
+cielo, sino que se golpeaba el pecho, diciendo: ‘Dios, sé propicio a mí,
 
-pecador, y descendi a su casa justificado, antes que el hermano que est
+pecador’, y descendió a su casa justificado, antes que el hermano que está
 
-all, que habl muy altivamente acerca de la vida muy enaltecida, pero que
+allá, que habló muy altivamente acerca de la vida muy enaltecida, pero que
 
-descendi a su casa sin una bendicin.
+descendió a su casa sin una bendición.”
 
-S, hermano mo, t eres fuerte cuando eres dbil, y eres perfecto
+Sí, hermano mío, tú eres fuerte cuando eres débil, y eres perfecto
 
-cuando sabes que eres imperfecto, y ests ms cerca del cielo cuando piensas
+cuando sabes que eres imperfecto, y estás más cerca del cielo cuando piensas
 
-que te encuentras ms lejos. Entre menos te estimes a ti mismo, ms alta es la
+que te encuentras más lejos. Entre menos te estimes a ti mismo, más alta es la
 
 estima de Dios hacia ti.
 
-Adems,
+Además,
 
 para tener poder con
 
@@ -798,109 +798,109 @@ Dios, debemos tener una fe simple.
 
 Nadie que dude puede prevalecer con
 
-Dios. La promesa no es para quien es irresoluto, pues Santiago dice: No
+Dios. La promesa no es para quien es irresoluto, pues Santiago dice: “No
 
-piense, pues, quien tal haga, que recibir cosa alguna del Seor. El hombre
+piense, pues, quien tal haga, que recibirá cosa alguna del Seńor.” El hombre
 
-que obtiene la bendicin es el que cree plenamente en la promesa de Dios, y que
+que obtiene la bendición es el que cree plenamente en la promesa de Dios, y que
 
-cree en ella de tal manera que acta de acuerdo a esa fe.
+cree en ella de tal manera que actúa de acuerdo a esa fe.
 
-Nunca olvidar la fe de un cierto miembro de esta iglesia, que todava
+Nunca olvidaré la fe de un cierto miembro de esta iglesia, que todavía
 
-vive. Hace como dieciocho o diecinueve aos, yo estaba, en verdad, gravemente
+vive. Hace como dieciocho o diecinueve ańos, yo estaba, en verdad, gravemente
 
-enfermo. La mayora de la gente pensaba que me iba a morir, pero, una maana,
+enfermo. La mayoría de la gente pensaba que me iba a morir, pero, una mańana,
 
-muy temprano, este buen hermano vino a mi casa, y solicit ver a mi esposa. Era
+muy temprano, este buen hermano vino a mi casa, y solicitó ver a mi esposa. Era
 
-justo al amanecer, y cuando ella lo recibi, l le dijo: he pasado toda esta
+justo al amanecer, y cuando ella lo recibió, él le dijo: “he pasado toda esta
 
 noche luchando con Dios por la vida de su esposo. No podemos permitirnos perder
 
-a nuestro pastor, y estoy seguro de que l vivir, as que pens que caminara
+a nuestro pastor, y estoy seguro de que él vivirá, así que pensé que caminaría
 
-hasta aqu, para decirle esto. Muchas gracias, muchas gracias, le respondi
+hasta aquí, para decirle esto.” “Muchas gracias, muchas gracias”, le respondió
 
-mi esposa. Estoy muy agradecida por sus oraciones y por su fe. No es
+mi esposa. “Estoy muy agradecida por sus oraciones y por su fe.” No es
 
-cualquiera el que puede orar a Dios as, y fallamos en obtener las bendiciones
+cualquiera el que puede orar a Dios así, y fallamos en obtener las bendiciones
 
 que buscamos porque no oramos de esa manera.
 
-Pero, queridos hermanos y hermanas, si creyramos en Dios, tal como
+Pero, queridos hermanos y hermanas, si creyéramos en Dios, tal como
 
-creemos en nuestros amigos, si tuviramos la misma confianza en Dios que le brindamos
+creemos en nuestros amigos, si tuviéramos la misma confianza en Dios que le brindamos
 
-a nuestros esposos y a nuestras esposas, cun potentes seramos en la fe! l
+a nuestros esposos y a nuestras esposas, ˇcuán potentes seríamos en la fe! Él
 
-merece mil veces ms confianza de la que podamos depositar jams en el mejor de
+merece mil veces más confianza de la que podamos depositar jamás en el mejor de
 
-nuestros parientes o amigos, y si tuviramos fe en Sus promesas,
+nuestros parientes o amigos, y si tuviéramos fe en Sus promesas,
 
-prevaleceramos con certeza. Si confan en l, no les fallar. Es posible que
+prevaleceríamos con certeza. Si confían en Él, no les fallará. Es posible que
 
-incluso un buen hombre le falle al que confa en l, pero es completamente
+incluso un buen hombre le falle al que confía en él, pero es completamente
 
-imposible que Dios le falle al alma que ha confiado en l.
+imposible que Dios le falle al alma que ha confiado en Él.
 
-Estoy seguro de que si nosotros, los ministros, simplemente creyramos
+Estoy seguro de que si nosotros, los ministros, simplemente creyéramos
 
-ms en Dios, y predicramos con ms fe, l nos honrara ms. Me imagino que si
+más en Dios, y predicáramos con más fe, Él nos honraría más. Me imagino que si
 
-Dios nos diera bendiciones de Pentecosts, se vera que muchos de nosotros no
+Dios nos diera bendiciones de Pentecostés, se vería que muchos de nosotros no
 
 estamos listos de ninguna manera para recibirlas. Supongan que hubiera cinco
 
-mil personas convertidas en un da aqu. Entonces la mayora de las iglesias a
+mil personas convertidas en un día aquí. Entonces la mayoría de las iglesias a
 
-nuestro alrededor diran: hay un chocante estado de excitacin en el Tabernculo;
+nuestro alrededor dirían: “hay un chocante estado de excitación en el Tabernáculo;
 
-es verdaderamente terrible! Los hermanos muy centrados sentiran que nos
+ˇes verdaderamente terrible!” Los hermanos muy “centrados” sentirían que nos
 
-habramos unido al arminianismo, o a algn otro error; y yo pienso que algunos
+habríamos unido al arminianismo, o a algún otro error; y yo pienso que algunos
 
-de ustedes diran, muy tristemente: Oh Dios mo! Dios mo! Dios mo!
+de ustedes dirían, muy tristemente: “ˇOh Dios mío! ˇDios mío! ˇDios mío!
 
-Nosotros en verdad esperamos que perseveren. El primer pensamiento que sera
+Nosotros en verdad esperamos que perseveren.” El primer pensamiento que sería
 
-provocado en muchas mentes cristianas sera el de sospecha. Estoy seguro de que
+provocado en muchas mentes cristianas sería el de sospecha. Estoy seguro de que
 
-si reportramos que, en cualquier lugar de Inglaterra, tres mil personas fueron
+si reportáramos que, en cualquier lugar de Inglaterra, tres mil personas fueron
 
-conducidas a conocer al Seor en un da, no habra un cristiano en un grupo de
+conducidas a conocer al Seńor en un día, no habría un cristiano en un grupo de
 
-diez que creyera que tal cosa fuera posible, y no habra uno entre cien que
+diez que creyera que tal cosa fuera posible, y no habría uno entre cien que
 
-pensara que fuera verdad; y, nosotros, los ministros, pensaramos de manera
+pensara que fuera verdad; y, nosotros, los ministros, pensaríamos de manera
 
 bastante parecida.
 
 Yo me encontraba predicando en Bedford, y oraba para que Dios bendijera
 
-el sermn, y me diera por lo menos algunas cuantas almas esa tarde. Cuando hube
+el sermón, y me diera por lo menos algunas cuantas almas esa tarde. Cuando hube
 
-terminado, estaba all un viejo hermano wesleyano que me propin una buena
+terminado, estaba allí un viejo hermano wesleyano que me propinó una buena
 
-reprimenda, ms que merecida. l me dijo: yo no dije Amn cuando t pedas
+reprimenda, más que merecida. Él me dijo: “yo no dije ‘Amén’ cuando tú pedías
 
-por la conversin de unas cuantas almas, pues pens que estabas limitando al
+por la conversión de unas cuantas almas, pues pensé que estabas limitando al
 
-Santo de Israel. Por qu no oraste con todo tu corazn para que fueran salvos
+Santo de Israel. żPor qué no oraste con todo tu corazón para que fueran salvos
 
-todos ellos? Yo s lo hice, -agreg- y esa es la razn por la que no dije
+todos ellos? Yo sí lo hice”, -agregó- “y esa es la razón por la que no dije
 
-Amn a tu mezquina oracin.
+‘Amén’ a tu mezquina oración.”
 
 Con frecuencia se da el caso que nosotros, los predicadores, no
 
-honramos a Dios pues no creemos que l dar grandes bendiciones, y, por tanto,
+honramos a Dios pues no creemos que Él dará grandes bendiciones, y, por tanto,
 
-l no nos honra dndonos esas grandes bendiciones. Pero si nos mantuviramos adheridos
+Él no nos honra dándonos esas grandes bendiciones. Pero si nos mantuviéramos adheridos
 
-a la verdad, y tuviramos una confianza ms firme en que la Palabra de Dios no
+a la verdad, y tuviéramos una confianza más firme en que la Palabra de Dios no
 
-regresar vaca a l jams, l hara cosas muchsimo mayores por nosotros de
+regresará vacía a Él jamás, Él haría cosas muchísimo mayores por nosotros de
 
 las que hubiere hecho hasta ahora.
 
@@ -908,41 +908,41 @@ A este sentido de nuestra propia debilidad, y nuestra plena fe en Dios,
 
 debemos agregar
 
-la sincera atencin a Su
+la sincera atención a Su
 
 Palabra.
 
-Hermano, no puedes esperar que Dios te escuche si t no quieres
+Hermano, no puedes esperar que Dios te escuche si tú no quieres
 
-escucharle; y cuando le pides a Dios, no debes imaginar que l te dar lo que
+escucharle; y cuando le pides a Dios, no debes imaginar que Él te dará lo que
 
-le pidas si t no le das lo que l te pide. Si un hombre ama el pecado, sus
+le pidas si tú no le das lo que Él te pide. Si un hombre ama el pecado, sus
 
 oraciones no pueden prosperar con el Dios de santidad. Cuando Dios le dice a un
 
-hombre: Debes hacer tal y tal cosa, y el hombre responde: yo no voy a hacerlo,
+hombre: “Debes hacer tal y tal cosa”, y el hombre responde: “yo no voy a hacerlo”,
 
-la siguiente vez que acuda a Dios en oracin, es muy probable que el Seor le
+la siguiente vez que acuda a Dios en oración, es muy probable que el Seńor le
 
-diga: Como t no hiciste como yo deseaba, yo no har como t deseas. La
+diga: “Como tú no hiciste como yo deseaba, yo no haré como tú deseas.” La
 
 tolerancia de cualquier pecado conocido nos priva del poder con Dios, y el
 
-descuido de cualquier deber conocido impide al hombre que tenga xito cuando
+descuido de cualquier deber conocido impide al hombre que tenga éxito cuando
 
-est de rodillas. Si quieres prevalecer con Dios, has de tener una conciencia
+está de rodillas. Si quieres prevalecer con Dios, has de tener “una conciencia
 
-sin ofensa. Deben acudir delante del Seor confesando su pecado, y diciendo:
+sin ofensa.” Deben acudir delante del Seńor confesando su pecado, y diciendo:
 
-Oh Seor, aydame a hacer Tu voluntad en todas la cosas! Estoy perfectamente
+“ˇOh Seńor, ayúdame a hacer Tu voluntad en todas la cosas! Estoy perfectamente
 
 dispuesto a hacerlo, y deseo ser Tu siervo leal y obediente en todas las
 
-cosas. Si hicieran eso, descubriran que cualquier cosa que pidieran con fe en
+cosas”. Si hicieran eso, descubrirían que cualquier cosa que pidieran con fe en
 
-la oracin, la recibiran.
+la oración, la recibirían.
 
-En adicin a todo lo que he dicho,
+En adición a todo lo que he dicho,
 
 el
 
@@ -950,95 +950,95 @@ hombre que ha de prevalecer con Dios debe ser un hombre que es terriblemente
 
 decidido.
 
-Qu hombre tan decidido fue Jacob en aquella noche de lucha! Qu
+ˇQué hombre tan decidido fue Jacob en aquella noche de lucha! ˇQué
 
-grandiosa expresin fue aquella: No te dejar, si no me bendices! Por decirlo
+grandiosa expresión fue aquella: “No te dejaré, si no me bendices”! Por decirlo
 
-as, las oraciones fras, en efecto, le piden a Dios que no las escuche. Cuando
+así, las oraciones frías, en efecto, le piden a Dios que no las escuche. Cuando
 
-oran por alguna cosa, si no presentan su peticin con sinceridad y fervor, no
+oran por alguna cosa, si no presentan su petición con sinceridad y fervor, no
 
-pueden esperar que el Seor los escuche.
+pueden esperar que el Seńor los escuche.
 
-Algunas personas, cuando oran, se asemejan a los niitos de las calles,
+Algunas personas, cuando oran, se asemejan a los nińitos de las calles,
 
 que tocan al pasar una puerta, y se escabullen; pero el hombre que ora
 
 rectamente, se aferra a la aldaba de la puerta de la misericordia, y toca, y
 
-toca, y si no hay respuesta, toca una y otra vez, y si todava entonces no hay
+toca, y si no hay respuesta, toca una y otra vez, y si todavía entonces no hay
 
 una respuesta, vuelve a tocar, y otra vez, y otra vez, y otra vez, y otra vez,
 
-y entre ms tenga que esperar, ms ruidosamente vuelve a tocar hasta que, por
+y entre más tenga que esperar, más ruidosamente vuelve a tocar hasta que, por
 
-fin, pensaras que iba a tomar por asalto la casa, y que hara saltar los
+fin, pensarías que iba a tomar por asalto la casa, y que haría saltar los
 
 postes de las puertas de sus lugares, ya que toca tan fuerte. Ese es el tipo de
 
-hombre que tiene xito con Dios: el hombre que no deja ir al Seor mientras no
+hombre que tiene éxito con Dios: el hombre que no deja ir al Seńor mientras no
 
 le bendiga.
 
 Las oraciones de John Knox hicieron descender sobre Escocia muchas
 
-copiosas bendiciones porque eran las oraciones de un hombre cuyo corazn estaba
+copiosas bendiciones porque eran las oraciones de un hombre cuyo corazón estaba
 
-encendido con sagrada decisin, y que oraba con toda su alma y espritu.
+encendido con sagrada decisión, y que oraba con toda su alma y espíritu.
 
-Nuestro propio Seor Jess dijo: El reino de los cielos sufre violencia, y los
+Nuestro propio Seńor Jesús dijo: “El reino de los cielos sufre violencia, y los
 
-violentos lo arrebatan.
+violentos lo arrebatan.”
 
 A todos estos requisitos para el poder con Dios hemos de agregar
 
 la santa importunidad.
 
-Luchar no es slo
+Luchar no es sólo
 
-asir a un hombre, para luego dejarle ir. Me pregunto cmo asi Jacob a aquel
+asir a un hombre, para luego dejarle ir. Me pregunto cómo asió Jacob a aquel
 
-hombre que luch con l hasta que rayaba el alba. Les garantizo que lo aferraba
+hombre que luchó con él hasta que rayaba el alba. Les garantizo que lo aferraba
 
 con firmeza, y me parece que, algunas veces se trataba de trabajo de las
 
 piernas, y, luego, de trabajo con el brazo, y, luego, de trabajo con la
 
-cintura; pues, cuando los hombres luchan con firme decisin, todos sus nervios,
+cintura; pues, cuando los hombres luchan con firme decisión, todos sus nervios,
 
-y msculos, y huesos y todos los miembros del cuerpo son ejercitados. Eso debe
+y músculos, y huesos y todos los miembros del cuerpo son ejercitados. Eso debe
 
 de haber sucedido con Jacob aquella noche, que se mantuvo aferrando firmemente al
 
-ngel, y diciendo en su alma si no es que con sus labios:
+ángel, y diciendo en su alma si no es que con sus labios:
 
-Tengo la intencin de quedarme Contigo
+“Tengo la intención de quedarme Contigo
 
 toda la noche,
 
-Y luchar hasta que raye el alba;
+Y luchar hasta que raye el alba”;
 
 y
 
 ,
 
-por tanto, la bendicin le fue dada porque prosigui esforzndose por
+por tanto, la bendición le fue dada porque prosiguió esforzándose por
 
-conseguirla. Hay algunas misericordias que no sern otorgadas nunca, excepto
+conseguirla. Hay algunas misericordias que no serán otorgadas nunca, excepto
 
-como respuesta a la oracin perseverante e importuna.
+como respuesta a la oración perseverante e importuna.
 
-Oh, hermano o hermana, si sabes cmo seguir argumentando, t eres
+ˇOh, hermano o hermana, si sabes cómo seguir argumentando, tú eres
 
-quien tiene poder con Dios! Sers llamado Israel si puedes pasar la noche
+quien tiene poder con Dios! Serás llamado Israel si puedes pasar la noche
 
 entera en una importunidad creyente, humilde, determinada y resuelta; la
 
-bendicin debe venir, si sientes que no puedes prescindir de ella, porque
+bendición debe venir, si sientes que no puedes prescindir de ella, porque
 
 quieres que te sea otorgada para la gloria de Dios.
 
-Y, queridos amigos, hay gran poder con Dios cuando, en la oracin
+Y, queridos amigos, hay gran poder con Dios cuando, en la oración
 
 importuna, llegamos al final a
 
@@ -1046,151 +1046,151 @@ un ruego
 
 lloroso.
 
-En Oseas 12: 4, el profeta nos informa que Jacob venci al ngel,
+En Oseas 12: 4, el profeta nos informa que Jacob “venció al ángel,
 
-y prevaleci; llor, y le rog. Moiss no nos dice eso en el Libro de Gnesis,
+y prevaleció; lloró, y le rogó.” Moisés no nos dice eso en el Libro de Génesis,
 
-pero Oseas tena tambin la inspiracin del Espritu Santo, y nos da esta
+pero Oseas tenía también la inspiración del Espíritu Santo, y nos da esta
 
-interesante descripcin sobre la lucha de Jacob: que llor. Me parece ver al
+interesante descripción sobre la lucha de Jacob: que “lloró”. Me parece ver al
 
 patriarca cubierto de sudor por causa de sus grandes esfuerzos en la lucha,
 
-pero, en adicin a eso, su corazn est quebrantndose en su interior, y l
+pero, en adición a eso, su corazón está quebrantándose en su interior, y él
 
-est suspirando y clamando todo ese tiempo, y las ardientes lgrimas estn
+está suspirando y clamando todo ese tiempo, y las ardientes lágrimas están
 
-cayendo en la mano del ngel; y pienso que fueron las lgrimas las que
+cayendo en la mano del ángel; y pienso que fueron las lágrimas las que
 
 finalmente obtuvieron la victoria.
 
-Ustedes recuerdan que, cuando nuestro Seor Jesucristo se encontraba en
+Ustedes recuerdan que, cuando nuestro Seńor Jesucristo se encontraba en
 
-el huerto de Getseman, ofreciendo ruegos y splicas con gran clamor y
+el huerto de Getsemaní, “ofreciendo ruegos y súplicas con gran clamor y
 
-lgrimas al que le poda librar de la muerte, fue odo a causa de su temor
+lágrimas al que le podía librar de la muerte, fue oído a causa de su temor
 
-reverente; y el hombre que sabe cmo llorar, si no con un llanto, s con
+reverente”; y el hombre que sabe cómo llorar, si no con un llanto, sí con
 
-lgrimas espirituales, el hombre cuya alma se ve incitada a una apasionada agona
+lágrimas espirituales, el hombre cuya alma se ve incitada a una apasionada agonía
 
-de deseo, es el hombre que tiene poder con Dios. Si tuviramos miembros de ese
+de deseo, es el hombre que tiene poder con Dios. Si tuviéramos miembros de ese
 
 tipo en esta iglesia, -yo creo que contamos con muchos miembros que realmente
 
-lloran por las almas de los pecadores- son los hombres y mujeres que harn
+lloran por las almas de los pecadores- son los hombres y mujeres que harán
 
-descender la bendicin en respuesta a sus oraciones y lgrimas.
+descender la bendición en respuesta a sus oraciones y lágrimas.
 
-Hermanos y hermanas, si tienen el hbito de llorar por sus hijos
+Hermanos y hermanas, si tienen el hábito de llorar por sus hijos
 
-inconversos, y, en sus splicas a Dios por su salvacin, tienen la costumbre de
+inconversos, y, en sus súplicas a Dios por su salvación, tienen la costumbre de
 
-llorar a menos que venga la bendicin, pueden tener la seguridad de obtener la
+llorar a menos que venga la bendición, pueden tener la seguridad de obtener la
 
-bendicin tarde o temprano. Ustedes son precisamente la fuerza de la iglesia,
+bendición tarde o temprano. Ustedes son precisamente la fuerza de la iglesia,
 
-son los salvavidas de la iglesia, y Dios otorgar con certeza innumerables
+son los salvavidas de la iglesia, y Dios otorgará con certeza innumerables
 
-bendiciones en respuesta a esas oraciones y lgrimas suyas. Que tengamos
+bendiciones en respuesta a esas oraciones y lágrimas suyas. ˇQue tengamos
 
 muchos miembros con ese perfil, pues son gente que tiene poder con Dios!
 
 IV.
 
-Concluyo notando brevemente QU USO SE LE PUEDE DAR A ESTE PODER.
+Concluyo notando brevemente QUÉ USO SE LE PUEDE DAR A ESTE PODER.
 
 Siempre que es otorgado este poder con Dios,
 
-atraer muchas bendiciones de lo alto sobre la persona que lo posee,
+atraerá muchas bendiciones de lo alto sobre la persona que lo posee,
 
 y
 
-tambin
+también
 
-la convertir en instrumento de
+la convertirá en instrumento de
 
-gran bendicin para los dems.
+gran bendición para los demás.
 
-Mi tiempo casi se ha agotado, as que slo
+Mi tiempo casi se ha agotado, así que sólo
 
 voy a reflexionar sobre el segundo punto.
 
-Abraham era un hombre que tena poder con Dios, pero por all estaba
+Abraham era un hombre que tenía poder con Dios, pero por allá estaba
 
-Lot viviendo en Sodoma, justo como muchsimos cristianos profesantes lo estn
+Lot viviendo en Sodoma, justo como muchísimos cristianos profesantes lo están
 
-haciendo hoy da. Espero que sean pueblo de Dios, pero no puedo entenderlos. Les
+haciendo hoy día. Espero que sean pueblo de Dios, pero no puedo entenderlos. Les
 
-gustan las diversiones mundanas, y gozan con la conversacin mundana; son como
+gustan las diversiones mundanas, y gozan con la conversación mundana; son como
 
-Lot en Sodoma. Me pregunto cmo pueden soportar esa atmsfera asquerosa en la
+Lot en Sodoma. Me pregunto cómo pueden soportar esa atmósfera asquerosa en la
 
 que viven. A menudo he repetido que la gracia de Dios puede vivir donde yo no
 
-puedo vivir. Hay algunas personas con las que no me gustara convivir, y, sin
+puedo vivir. Hay algunas personas con las que no me gustaría convivir, y, sin
 
-embargo, confo que la gracia de Dios est en ellas; al menos, as lo espero, y
+embargo, confío que la gracia de Dios está en ellas; al menos, así lo espero, y
 
 no debo juzgarlas.
 
 Pero, queridos hermanos, si alguna vez esa parte de la iglesia que es
 
-como Lot en Sodoma obtiene una bendicin, tiene que ser por medio de ustedes,
+como Lot en Sodoma obtiene una bendición, tiene que ser por medio de ustedes,
 
 que son como Abraham, y tienen poder con Dios. Oren por sus pobres hermanos
 
-inconsistentes; supliquen al Seor que les impida adentrarse ms en el camino
+inconsistentes; supliquen al Seńor que les impida adentrarse más en el camino
 
-del pecado. Pdanle al Seor que no sean destruidos con Sodoma en el da de Su
+del pecado. Pídanle al Seńor que no sean destruidos con Sodoma en el día de Su
 
-venganza, y el Seor los escuchar, y sacar a Lot de Sodoma a salvo, aunque
+venganza, y el Seńor los escuchará, y sacará a Lot de Sodoma a salvo, aunque
 
 pudiera ser que Lot tenga que perder todo lo que posee, y perder a su esposa,
 
-tambin, antes de que salga. Ustedes lo sacarn si saben cmo orar por l.
+también, antes de que salga. Ustedes lo sacarán si saben cómo orar por él.
 
-Moiss era otro hombre que tena poder con Dios. Ustedes recuerdan que,
+Moisés era otro hombre que tenía poder con Dios. Ustedes recuerdan que,
 
-cuando los israelitas hicieron un becerro de oro, el Seor le dijo a Moiss: Ahora,
+cuando los israelitas hicieron un becerro de oro, el Seńor le dijo a Moisés: “Ahora,
 
-pues, djame que se encienda mi ira en ellos, y los consuma; y de ti yo har
+pues, déjame que se encienda mi ira en ellos, y los consuma; y de ti yo haré
 
-una nacin grande. Acaso no fue esa una maravillosa oportunidad para Moiss?
+una nación grande.” żAcaso no fue esa una maravillosa oportunidad para Moisés?
 
-l habra de ser constituido en una gran nacin, y todo el resto de la gente deba
+Él habría de ser constituido en una gran nación, y todo el resto de la gente debía
 
-ser destruida. Pero ustedes recuerdan cmo argument Moiss con el Seor, y no
+ser destruida. Pero ustedes recuerdan cómo argumentó Moisés con el Seńor, y no
 
-argument en vano. El Seor le dijo: Ahora, pues, djame que se encienda mi
+argumentó en vano. El Seńor le dijo: “Ahora, pues, déjame que se encienda mi
 
-ira en ellos, y los consuma; pero pareciera que Moiss se levant y asi la
+ira en ellos, y los consuma”; pero pareciera que Moisés se levantó y asió la
 
-mano de Dios, en la que sostena Su vara de venganza, y, por fin, el Seor le
+mano de Dios, en la que sostenía Su vara de venganza, y, por fin, el Seńor le
 
-dijo que perdonara a la nacin, y la guardara en respuesta a la splica de
+dijo que perdonaría a la nación, y la guardaría en respuesta a la súplica de
 
-Moiss, el hombre que tena poder con Dios.
+Moisés, el hombre que tenía poder con Dios.
 
-Y estaba tambin Aarn, cuando la plaga estall entre el pueblo que
+Y estaba también Aarón, cuando la plaga estalló entre el pueblo que
 
-haba murmurado contra l y contra Moiss, y miles de personas estaban siendo
+había murmurado contra él y contra Moisés, y miles de personas estaban siendo
 
-eliminadas. Al mandato de Moiss, tom un incensario, y lo llen de carbones
+eliminadas. Al mandato de Moisés, tomó un incensario, y lo llenó de carbones
 
-hirvientes y de incienso, y corri hasta el centro de la congregacin, justo
+hirvientes y de incienso, y corrió hasta el centro de la congregación, justo
 
-all donde la ola de muerte haba sobrevenido; Y se puso entre los muertos y
+allí donde la ola de muerte había sobrevenido; “Y se puso entre los muertos y
 
-los vivos; y ces la mortandad, pues Aarn, el sumo sacerdote con su
+los vivos; y cesó la mortandad”, pues Aarón, el sumo sacerdote con su
 
-incensario, tena poder con Dios.
+incensario, tenía poder con Dios.
 
-El Seor Jesucristo, el grandioso Antitipo de Aarn, est ejerciendo
+El Seńor Jesucristo, el grandioso Antitipo de Aarón, está ejerciendo
 
-continuamente este poder en favor de Su pueblo, y tambin ayuda a algunos de
+continuamente este poder en favor de Su pueblo, y también ayuda a algunos de
 
-Sus siervos a hacer la misma obra, por ejemplo, a Martn Lutero. Cmo pareca
+Sus siervos a hacer la misma obra, por ejemplo, a Martín Lutero. Cómo parecía
 
 estar con el incensario del Evangelio entre los vivos y los muertos. Y en otros
 
@@ -1198,23 +1198,23 @@ tiempos tenebrosos y otras edades peligrosas, Dios ha levantado a muchos
 
 siervos eminentes a quienes les ha dado el mismo incensario del Evangelio, que
 
-exhala un dulce olor de Cristo conforme lo mecen tambin de un lado al otro,
+exhala un dulce olor de Cristo conforme lo mecen también de un lado al otro,
 
 colocados entre los vivos y los muertos.
 
-Oh, que Dios concediera poder a muchos de ustedes, queridos hermanos y
+ˇOh, que Dios concediera poder a muchos de ustedes, queridos hermanos y
 
 hermanas en Cristo, en formas parecidas a estas! Recuerden el poder que
 
-tuvieron los primeros cristianos con Dios para sacar de la prisin a Pedro. Si
+tuvieron los primeros cristianos con Dios para sacar de la prisión a Pedro. Si
 
 ustedes tienen poder con Dios, es un motor que pueden encender de todo tipo de
 
-maneras para bendicin de sus compaeros cristianos y de los pobres pecadores
+maneras para bendición de sus compańeros cristianos y de los pobres pecadores
 
 perdidos.
 
-Por tanto, los exhorto a que lo busquen; y cuando lo obtengan, sostnganlo
+Por tanto, los exhorto a que lo busquen; y cuando lo obtengan, ˇsosténganlo
 
 firmemente, y caminen humildemente delante de Dios para que no les quite este
 
@@ -1222,11 +1222,11 @@ poder, y para que
 
 sean
 
-fuertes en el Seor, y en el
+fuertes en el Seńor, y en el
 
-poder de Su autoridad, por Jesucristo nuestro Seor! Amn.
+poder de Su autoridad, por Jesucristo nuestro Seńor! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 12/Mayo/2012
 

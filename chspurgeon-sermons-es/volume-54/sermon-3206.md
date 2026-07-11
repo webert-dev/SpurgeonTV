@@ -1,16 +1,16 @@
 # Sermón 3206 | Sermón 3206
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-La Iglesia de los Primognitos.
+“La Iglesia de los Primogénitos.”
 
 NO. 3206
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL DOMINGO 30 DE NOVIEMBRE, 1862
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -18,93 +18,93 @@ Y PUBLICADO EL JUEVES
 
 14 DE JULIO DE 1910.
 
-La congregacin de los primognitos
+“La congregación de los primogénitos
 
-que estn inscritos en los cielos. Hebreos 12: 23.
+que están inscritos en los cielos.” Hebreos 12: 23.
 
-La asamblea general e iglesia de los
+“La asamblea general e iglesia de los
 
-primognitos que estn inscritos en los cielos. La Biblia de las Amricas
+primogénitos que están inscritos en los cielos.” La Biblia de las Américas
 
-Pablo cabalmente haba estado dando una breve
+Pablo cabalmente había estado dando una breve
 
-descripcin de la gran asamblea de los hijos de Israel alrededor del monte
+descripción de la gran asamblea de los hijos de Israel alrededor del monte
 
-Sina, el monte que se poda palpar, y que arda en fuego, como un volcn
+Sinaí, “el monte que se podía palpar, y que ardía en fuego”, como un volcán
 
-gigantesco. Haba pintado con viveza la oscuridad, las tinieblas y la
+gigantesco. Había pintado con viveza “la oscuridad, las tinieblas y la
 
-tempestad, y el sonido de la trompeta y la voz que hablaba, y las aterradas
+tempestad, y el sonido de la trompeta y la voz que hablaba”, y las aterradas
 
-multitudes que permanecan, trmulas, a cierta distancia, e incluso a Moiss,
+multitudes que permanecían, trémulas, a cierta distancia, e incluso a Moisés,
 
-su gran lder, que estaba tan alarmado que dijo: Estoy espantado y temblando.
+su gran líder, que estaba tan alarmado que dijo: “Estoy espantado y temblando.”
 
-Pablo se propone que esa descripcin nos ensee el efecto que produce la
+Pablo se propone que esa descripción nos enseńe el efecto que produce la
 
-dispensacin legal: puede alarmar y condenar, pero no puede salvar.
+dispensación legal: puede alarmar y condenar, pero no puede salvar.
 
-Ustedes, que estn bajo la ley, ustedes, que
+Ustedes, que están bajo la ley, ustedes, que
 
-estn procurando ganar el favor de Dios mediante sus buenas obras, ustedes, que
+están procurando ganar el favor de Dios mediante sus buenas obras, ustedes, que
 
-suponen que el mrito humano puede traerles la salvacin, miren a las llamas
+suponen que el mérito humano puede traerles la salvación, miren a las llamas
 
-que vio Moiss, e inclnense humildemente, y tiemblen y desesperen. Ustedes,
+que vio Moisés, e inclínense humildemente, y tiemblen y desesperen. Ustedes,
 
-que piensan que pueden vivir como lo requiere la ley y alcanzar as la vida eterna,
+que piensan que pueden vivir como lo requiere la ley y alcanzar así la vida eterna,
 
-bien haran en quedarse tiritando y temblando delante de este todopoderoso
+bien harían en quedarse tiritando y temblando delante de este todopoderoso
 
 aunque invisible Dios, cuyos rayos se descargan delante de sus ojos, y cuya voz
 
-de trueno debe alarmar al ms empedernido corazn.
+de trueno debe alarmar al más empedernido corazón.
 
-Terrible es la difcil situacin del hombre que
+Terrible es la difícil situación del hombre que
 
-tiene que depender de lo que el Sina pueda darle; es desgraciado en la vida,
+tiene que depender de lo que el Sinaí pueda darle; es desgraciado en la vida,
 
-ser turbado en la muerte, y se perder para siempre en la eternidad. Por las
+será turbado en la muerte, y se perderá para siempre en la eternidad. “Por las
 
-obras de la ley nadie ser justificado. Todos los que dependen de las obras
+obras de la ley nadie será justificado”. “Todos los que dependen de las obras
 
-de la ley estn bajo maldicin. Por gracia sois salvos por medio de la fe; y
+de la ley están bajo maldición”. “Por gracia sois salvos por medio de la fe; y
 
 esto no de vosotros, pues es don de Dios; no por obras, para que nadie se
 
-glore.
+gloríe.”
 
-Habiendo hecho esa descripcin del Sina por va
+Habiendo hecho esa descripción del Sinaí por vía
 
-de contraste, Pablo presenta ahora un cuadro mucho ms agradable de la
+de contraste, Pablo presenta ahora un cuadro mucho más agradable de la
 
-dispensacin del Evangelio. Los cristianos tendrn tambin su grandiosa
+dispensación del Evangelio. Los cristianos tendrán también su grandiosa
 
-asamblea; hay un monte sobre el cual todos aquellos que estn bajo la gracia se
+asamblea; hay un monte sobre el cual todos aquellos que están bajo la gracia se
 
-congregarn un da: un monte que no humea, pues es el monte de Sion, la ciudad
+congregarán un día: un monte que no humea, pues es el monte de Sion, la ciudad
 
-del Dios viviente, la Jerusaln celestial. Habr palabras all, pero sern
+del Dios viviente, la Jerusalén celestial. Habrá palabras allí, pero serán
 
-palabras de cantos sagrados y notas de santa alegra. Podra haber trompetas
+palabras de cantos sagrados y notas de santa alegría. Podría haber trompetas
 
-all, pero sern las trompetas de plata que proclamarn el jubileo eterno.
+allí, pero serán las trompetas de plata que proclamarán el jubileo eterno.
 
-Moiss estar all, pero no estar espantado ni temblando, pues, cuando llegue
+Moisés estará allí, pero no estará espantado ni temblando, pues, cuando llegue
 
-a ese monte de Dios, olvidar todos sus temores, y se gozar incesantemente en
+a ese monte de Dios, olvidará todos sus temores, y se gozará incesantemente en
 
-el Seor su Dios. Los creyentes conforman esa multitud, la cual nadie podra
+el Seńor su Dios. Los creyentes conforman esa multitud, la cual nadie podría
 
-contar, que se habr de congregar sobre ese monte glorioso para guardar un
+contar, que se habrá de congregar sobre ese monte glorioso para guardar un
 
-sempiterno da de fiesta. En verdad seremos felices cuando, por gracia, acudamos
+sempiterno día de fiesta. En verdad seremos felices cuando, por gracia, acudamos
 
-a la asamblea general y congregacin de los primognitos, cuyos nombres estn
+a la asamblea general y congregación de los primogénitos, cuyos nombres están
 
-inscritos en los cielos; cuando veamos ese espectculo que le fue revelado a
+inscritos en los cielos; cuando veamos ese espectáculo que le fue revelado a
 
-Juan en Patmos: un Cordero que est en pie sobre el monte de Sion, y con l
+Juan en Patmos: un Cordero que está en pie sobre el monte de Sion, y con Él
 
 aquellos que tienen el nombre de Su Padre escrito en sus frentes, que siguen al
 
@@ -112,23 +112,23 @@ Cordero por dondequiera que va, y que son sin mancha delante del trono de Dios.
 
 El primer punto al cual quiero dirigir su
 
-atencin es
+atención es
 
-la descripcin dada de los
+la descripción dada de los
 
-creyentes como la iglesia de los primognitos.
+creyentes como la iglesia de los primogénitos.
 
-A continuacin, quiero
+A continuación, quiero
 
 recordarles
 
 aquello que se dice de su
 
-inscripcin:
+inscripción:
 
-estn registrados o inscritos (como lo traduce la lectura
+están registrados o inscritos (como lo traduce la lectura
 
-marginal) en el cielo; y luego, en tercer lugar, tendr algo que decir
+marginal) en el cielo; y luego, en tercer lugar, tendré algo que decir
 
 concerniente a su
 
@@ -136,7 +136,7 @@ gran asamblea general,
 
 cuando
 
-todos los justos sean reunidos a Cristo, para no apartarse de l nunca jams.
+todos los justos sean reunidos a Cristo, para no apartarse de Él nunca jamás.
 
 I.
 
@@ -144,229 +144,229 @@ Para comenzar, entonces, de nuestro texto
 
 deducimos que los CREYENTES EN CRISTO SON DESCRITOS COMO LA IGLESIA DE LOS
 
-PRIMOGNITOS. Tratar de autoexaminarme por medio de mis propios comentarios,
+PRIMOGÉNITOS. Trataré de autoexaminarme por medio de mis propios comentarios,
 
-segn los vaya expresando, y espero que todos podamos cuestionarnos para ver si
+según los vaya expresando, y espero que todos podamos cuestionarnos para ver si
 
 pertenecemos a esta asamblea general.
 
-Mediante el trmino primognito se significa,
+Mediante el término “primogénito” se significa,
 
 con frecuencia, en la Escritura,
 
-el ms
+el más
 
 excelente, el principal.
 
 De Jesucristo, debido a la excelencia de Su
 
-carcter, se dice que es el primognito entre muchos hermanos, el
+carácter, se dice que es “el primogénito entre muchos hermanos”, “el
 
-primognito de toda creacin, el primognito de entre los muertos, para que
+primogénito de toda creación”, “el primogénito de entre los muertos, para que
 
-en todo tenga la preeminencia.
+en todo tenga la preeminencia.”
 
-As, aunque los creyentes son por naturaleza hijos
+Así, aunque los creyentes son por naturaleza hijos
 
-de ira, igual que todos los dems, sin embargo, despus de que Cristo los ha
+de ira, igual que todos los demás, sin embargo, después de que Cristo los ha
 
-renovado, se convierten en los excelentes de la tierra en quienes est todo Su
+renovado, se convierten en los excelentes de la tierra en quienes está todo Su
 
-deleite. Mustrenme a un hombre que haga una profesin de religin, pero que
+deleite. Muéstrenme a un hombre que haga una profesión de religión, pero que
 
-sea un borracho, y yo les dira de inmediato que su profesin es una mentira. Mustrenme
+sea un borracho, y yo les diría de inmediato que su profesión es una mentira. Muéstrenme
 
 a otro hombre que diga que es un seguidor de Cristo, aunque oprima a los
 
-pobres, les robe su salario a los trabajadores, un hombre codicioso que slo se
+pobres, les robe su salario a los trabajadores, un hombre codicioso que sólo se
 
-preocupe por s mismo, y cierre contra sus hermanos necesitados su corazn, y
+preocupe por sí mismo, y cierre contra sus hermanos necesitados su corazón, y
 
-yo no dudara en preguntarles: Cmo mora el amor de Dios en l? Si la
+yo no dudaría en preguntarles: “żCómo mora el amor de Dios en él?” Si la
 
-gracia que profesamos tener no nos hace mejores que otros, entre ms rpido
+“gracia” que profesamos tener no nos hace mejores que otros, entre más rápido
 
-nos deshagamos de ella, sera mejor. Qu hacis de ms?, fue la pregunta de
+nos deshagamos de ella, sería mejor. “żQué hacéis de más?”, fue la pregunta de
 
-Cristo a Sus discpulos. Si prestis a aquellos de quienes esperis recibir,
+Cristo a Sus discípulos. “Si prestáis a aquellos de quienes esperáis recibir,
 
-qu mrito tenis? Porque tambin los pecadores prestan a los pecadores, para
+żqué mérito tenéis? Porque también los pecadores prestan a los pecadores, para
 
-recibir otro tanto. De los cristianos hay algo que debe esperarse que no ha de
+recibir otro tanto.” De los cristianos hay algo que debe esperarse que no ha de
 
-buscarse en los dems; ellos profesan haber nacido dos veces y tener a Dios morando
+buscarse en los demás; ellos profesan haber nacido dos veces y tener a Dios morando
 
-en ellos, como Pablo les dice a los corintios: No sabis que sois templo de
+en ellos, como Pablo les dice a los corintios: “żNo sabéis que sois templo de
 
-Dios, y que el Espritu de Dios mora en vosotros? Los cristianos profesan ser
+Dios, y que el Espíritu de Dios mora en vosotros?” Los cristianos profesan ser
 
-herederos del cielo, y miembros del cuerpo mstico de Cristo. Entonces, acaso
+herederos del cielo, y miembros del cuerpo místico de Cristo. Entonces, żacaso
 
-han de hablar y actuar como lo hacen los impos, y degradarse como aquellos que
+han de hablar y actuar como lo hacen los impíos, y degradarse como aquellos que
 
-no han recibido nunca esa vida nueva y ms excelsa? Dios no lo quiera! Donde
+no han recibido nunca esa vida nueva y más excelsa? ˇDios no lo quiera! Donde
 
 llega la gracia, nos levanta, y nos mantiene en alto y nos hace nuevas
 
-criaturas en Cristo Jess, de tal forma que las cosas perversas en las que una
+criaturas en Cristo Jesús, de tal forma que las cosas perversas en las que una
 
 vez nos deleitamos, ya ni siquiera las nombramos, mientras que suspiramos por
 
-todo lo que sea virtuoso o de buena reputacin para exhibirlo para alabanza de
+todo lo que sea virtuoso o de buena reputación para exhibirlo para alabanza de
 
-la gracia del que nos llam segn el designio de Su voluntad.
+la gracia del que nos llamó según el designio de Su voluntad.
 
 Ahora, queridos amigos, pueden hacer de esto una
 
-prueba para un autoexamen. Hombre, cul es tu vida? Qu frutos produces? Si
+prueba para un autoexamen. Hombre, żcuál es tu vida? żQué frutos produces? Si
 
 produces espinas, ciertamente eres una zarza. Si produces las uvas de Gomorra,
 
-en verdad perteneces al valle de Sodoma. Acaso se recogen uvas de los
+en verdad perteneces al valle de Sodoma. “żAcaso se recogen uvas de los
 
-espinos, o higos de los abrojos? Si la corriente est sucia, cmo estar la
+espinos, o higos de los abrojos?” Si la corriente está sucia, żcómo estará la
 
-fuente? Si lo de fuera del vaso y del plato est mugriento, por dentro, cmo
+fuente? Si lo de fuera del vaso y del plato está mugriento, por dentro, żcómo
 
-estarn? Si lo que ven los hombres est sucio, cun sucio ha de estar el lugar
+estarán? Si lo que ven los hombres está sucio, ˇcuán sucio ha de estar el lugar
 
 donde solamente Dios puede verte! Ninguno de nosotros es mejor de lo que parece,
 
-pero todos nosotros somos peores de lo que pensamos. Que Dios rasgue todo velo
+pero todos nosotros somos peores de lo que pensamos. ˇQue Dios rasgue todo velo
 
 que nos oculta de nosotros mismos, para que nos veamos tal como somos a Sus
 
 ojos!
 
-As que pueden ver que los primognitos de Dios
+Así que pueden ver que los primogénitos de Dios
 
-son un pueblo propio, celoso de buenas obras, que busca adornar la doctrina
+son “un pueblo propio, celoso de buenas obras”, que busca adornar la doctrina
 
 de Dios su Salvador, en todas las cosas.
 
-Pero el trmino primognito tiene un segundo
+Pero el término “primogénito” tiene un segundo
 
-significado en la Escritura. Los primognitos, bajo la antigua economa
+significado en la Escritura. Los primogénitos, bajo la antigua economía
 
 mosaica, eran
 
-elegidos por Dios para S.
+elegidos por Dios para Sí.
 
 Cuando
 
-hiri a los primognitos de Egipto, apart para S a todos los primognitos de
+hirió a los primogénitos de Egipto, apartó para Sí a todos los primogénitos de
 
-Israel. Habra podido seleccionar a los ms jvenes de la familia, o a todo
+Israel. Habría podido seleccionar a los más jóvenes de la familia, o a todo
 
-segundo hijo, si hubiera decidido hacerlo as, pues Dios hace lo que quiere, y
+segundo hijo, si hubiera decidido hacerlo así, pues Dios hace lo que quiere, y
 
-l no da cuenta de ninguna de sus razones. Podran preguntarle por qu hace
+“Él no da cuenta de ninguna de sus razones.” Podrían preguntarle por qué hace
 
 esto o lo otro, pero no se digna responder a sus preguntas inquisitivas o
 
-impertinentes. l no se turba por sus preguntas. Nunca explica las razones por
+impertinentes. Él no se turba por sus preguntas. Nunca explica las razones por
 
-las cuales elige a algn hombre para salvacin. Est lo suficientemente claro,
+las cuales elige a algún hombre para salvación. Está lo suficientemente claro,
 
-por la Escritura, que en efecto los elige; tan claro, que incluso un incrdulo
+por la Escritura, que en efecto los elige; tan claro, que incluso un incrédulo
 
-como Bolingbroke le dijo un da al seor Whitefield: si se acepta que la
+como Bolingbroke le dijo un día al seńor Whitefield: “si se acepta que la
 
 Biblia es verdadera, entonces ninguna otra doctrina excepto el calvinismo puede
 
-ser verdadera, pues la Biblia ensea eso de principio a fin. Ciertamente, si
+ser verdadera, pues la Biblia enseńa eso de principio a fin.” Ciertamente, si
 
-las mentes de los hombres no estuvieran obstinadamente pervertidas, deberan
+las mentes de los hombres no estuvieran obstinadamente pervertidas, deberían
 
-leer esta verdad en palabras como estas: Tendr misericordia del que yo tenga
+leer esta verdad en palabras como estas: “Tendré misericordia del que yo tenga
 
-misericordia, y me compadecer del que yo me compadezca. As que no depende del
+misericordia, y me compadeceré del que yo me compadezca. Así que no depende del
 
-que quiere, ni del que corre, sino de Dios que tiene misericordia.
+que quiere, ni del que corre, sino de Dios que tiene misericordia.”
 
-Y qu dice la Escritura cuando el pecador
+żY qué dice la Escritura cuando el pecador
 
-comienza a altercar con esta verdad? Mas antes, oh hombre, quin eres t,
+comienza a altercar con esta verdad? “Mas antes, oh hombre, żquién eres tú,
 
-para que alterques con Dios? Dir el vaso de barro al que lo form: por qu me
+para que alterques con Dios? żDirá el vaso de barro al que lo formó: por qué me
 
-has hecho as? O no tiene potestad el alfarero sobre el barro, para hacer de
+has hecho así? żO no tiene potestad el alfarero sobre el barro, para hacer de
 
-la misma masa un vaso para honra y otro para deshonra? Es un hecho que Dios ha
+la misma masa un vaso para honra y otro para deshonra?” Es un hecho que Dios ha
 
 ordenado para vida eterna a una multitud que nadie puede contar; y justo como
 
-los primognitos entre los judos eran electos tpicamente, as los santos se
+los primogénitos entre los judíos eran electos típicamente, así los santos se
 
 convierten en santos como resultado del decreto divino establecido antes de que
 
-la tierra fuese creada. Cuando todava este mundo, y el sol, la luna y las
+la tierra fuese creada. Cuando todavía este mundo, y el sol, la luna y las
 
-estrellas dorman en la mente de Dios, como bosques por nacer en la copa de una
+estrellas dormían en la mente de Dios, como bosques por nacer en la copa de una
 
-bellota, aun entonces el Todopoderoso haba escrito ya los nombres de todos Sus
+bellota, aun entonces el Todopoderoso había escrito ya los nombres de todos Sus
 
-escogidos en el libro de la vida del Cordero, y haba fijado el lugar, la
+escogidos en el libro de la vida del Cordero, y había fijado el lugar, la
 
-fecha, el momento preciso cuando deban nacer, y cundo haban de nacer una
+fecha, el momento preciso cuando debían nacer, y cuándo habían de nacer una
 
-segunda vez, cundo deban venir a Cristo, y as, cundo deban encontrar la
+segunda vez, cuándo debían venir a Cristo, y así, cuándo debían encontrar la
 
-salvacin y la vida eterna. Esta doctrina est lejos de ser apetitosa para los
+salvación y la vida eterna. Esta doctrina está lejos de ser apetitosa para los
 
 hombres; pero, puesto que glorifica a Dios y hace que el hombre no sea sino un
 
 saltamontes delante del Eterno, nos deleitamos en ella, y humildemente nos
 
-inclinamos delante del Soberano Disponedor de todos los eventos, y decimos: Jehov
+inclinamos delante del Soberano Disponedor de todos los eventos, y decimos: “Jehová
 
-es; haga lo que bien le pareciere.
+es; haga lo que bien le pareciere.”
 
-Luego, en tercer lugar, los primognitos eran
+Luego, en tercer lugar, los primogénitos eran
 
 herederos de grandes privilegios,
 
 de los
 
-cuales no podemos hablar particularmente en este momento, pero lo haremos ms
+cuales no podemos hablar particularmente en este momento, pero lo haremos más
 
 adelante; y
 
-se convertan en herederos
+se convertían en herederos
 
 enteramente por nacimiento.
 
-Los derechos de los primognitos radicaban
+Los derechos de los primogénitos radicaban
 
-nicamente en su primogenitura; no en su estatura, no en su donosura o belleza,
+únicamente en su primogenitura; no en su estatura, no en su donosura o belleza,
 
 no en su capacidad mental y ni siquiera en sus virtudes morales. Aunque fuera
 
-tan lisiado como Mefi-boset, pero si era el primognito, no poda ser
+tan lisiado como Mefi-boset, pero si era el primogénito, no podía ser
 
-desheredado; o si, en lugar de tener la imponente estatura de un Sal, era tan
+desheredado; o si, en lugar de tener la imponente estatura de un Saúl, era tan
 
-diminuto como Zaqueo, pero si era el primognito, ni sus padres ni todas las
+diminuto como Zaqueo, pero si era el primogénito, ni sus padres ni todas las
 
-cortes judiciales podan revertir los derechos de la primogenitura.
+cortes judiciales podían revertir los derechos de la primogenitura.
 
 Entonces, amados, todos aquellos que son
 
 creyentes en Cristo, que son conocidos por los hombres por su excelencia de
 
-carcter, -en tanto que Dios los conoce por haberlos escogido por Su gracia- son
+carácter, -en tanto que Dios los conoce por haberlos escogido por Su gracia- son
 
-conducidos a tiempo a ejercer sus privilegios a travs del nuevo nacimiento que
+conducidos a tiempo a ejercer sus privilegios a través del nuevo nacimiento que
 
-es obrado en ellos por el Espritu Santo. Si slo nacemos una vez, hemos de
+es obrado en ellos por el Espíritu Santo. Si sólo nacemos una vez, hemos de
 
-morir dos veces; pero si nacemos dos veces, morimos una sola vez, y despus de
+morir dos veces; pero si nacemos dos veces, morimos una sola vez, y después de
 
-esa nica muerte, que no es realmente muerte, entramos en la vida eterna. La
+esa única muerte, que no es realmente muerte, entramos en la vida eterna. La
 
-regeneracin nos hace en realidad los hijos de Dios, justo como la adopcin nos
+regeneración nos hace en realidad los hijos de Dios, justo como la adopción nos
 
-hizo virtualmente hijos de Dios. Por la regeneracin, nos volvemos real y
+hizo virtualmente hijos de Dios. Por la regeneración, nos volvemos real y
 
 verdaderamente herederos de Dios, y coherederos con Cristo; y nuestro derecho
 
@@ -374,85 +374,85 @@ al cielo, a todas las bendiciones del pacto de la gracia y a las promesas de
 
 Dios, surge de este nuevo nacimiento celestial. El cielo es la herencia de los
 
-hijos de Dios; no es una posesin comprada con su dinero, o ganada por
+hijos de Dios; no es una posesión comprada con su dinero, o ganada por
 
 cualesquiera obras que hubieren realizado. Esta herencia es el derecho de
 
-nacimiento de todos los que han nacido de nuevo, nacidos de arriba; as que la
+nacimiento de todos los que han nacido de nuevo, nacidos de arriba; así que la
 
-pregunta que debe hacerse cada uno de nosotros es: He experimentado este
+pregunta que debe hacerse cada uno de nosotros es: “żHe experimentado este
 
-nuevo nacimiento? El que no naciere de nuevo, no puede ver el reino de Dios.
+nuevo nacimiento?” “El que no naciere de nuevo, no puede ver el reino de Dios”.
 
-Lo que es nacido de la carne, carne es, y es slo carne; y lo que es nacido
+“Lo que es nacido de la carne, carne es”, y es sólo carne; “y lo que es nacido
 
-del Espritu, Espritu es; y como el cielo y todas las otras bendiciones del
+del Espíritu, Espíritu es”; y como el cielo y todas las otras bendiciones del
 
 pacto son espirituales, no podemos poseerlas hasta que nosotros mismos seamos
 
-nacidos del Espritu.
+“nacidos del Espíritu”.
 
-Entonces, los primognitos tenan ciertos
+Entonces, los primogénitos tenían ciertos
 
-derechos atribuibles a su nacimiento, y los primognitos, espiritualmente,
+derechos atribuibles a su nacimiento, y los primogénitos, espiritualmente,
 
-tienen ciertos derechos atribuibles a su nuevo nacimiento. Que el Seor les
+tienen ciertos derechos atribuibles a su nuevo nacimiento. ˇQue el Seńor les
 
 ayude a todos ustedes a asegurarse muy bien de esto! Les ruego que no den por
 
-sentado que todo est bien con su alma, ni que traten esta pregunta como si
+sentado que todo está bien con su alma, ni que traten esta pregunta como si
 
 fuera algo de escasa importancia. Del hecho de que sean nacidos de nuevo, o de
 
 que no sean nacidos de nuevo, ha de pender su destino eterno. Si viven y mueren
 
-sin ser regenerados, un ay interminable ser su porcin eterna. Si pasan de
+sin ser regenerados, un ay interminable será su porción eterna. Si pasan de
 
-muerte a vida, todas las glorias del paraso de Dios se vuelven suyas por un
+muerte a vida, todas las glorias del paraíso de Dios se vuelven suyas por un
 
-vnculo que ni la muerte ni el demonio mismo pueden romper. Has pasado de
+vínculo que ni la muerte ni el demonio mismo pueden romper. żHas pasado de
 
-muerte a vida? Cmo puedes saber eso? Por sus frutos los conoceris, es la
+muerte a vida? żCómo puedes saber eso? “Por sus frutos los conoceréis”, es la
 
-prueba de nuestro Seor. Crees t en el Seor Jesucristo? Ests confiando
+prueba de nuestro Seńor. żCrees tú en el Seńor Jesucristo? żEstás confiando
 
-nicamente en l? Estas son preguntas vitales; si puedes decir verdaderamente:
+únicamente en Él? Estas son preguntas vitales; si puedes decir verdaderamente:
 
-Mi esperanza
+“Mi esperanza
 
-tiene su nico fundamento
+tiene su único fundamento
 
 En la sangre
 
-y en la justicia de Jess,
+y en la justicia de Jesús,”
 
 y
 
 si esa esperanza va
 
-acompaada por la fe que obra por amor, y que purifica el corazn y la vida,
+acompańada por la fe que obra por amor, y que purifica el corazón y la vida,
 
-entonces t eres uno de los hijos de Dios, y en ese hecho bien puedes alegrarte
+entonces tú eres uno de los hijos de Dios, y en ese hecho bien puedes “alegrarte
 
-con gozo inefable y glorioso.
+con gozo inefable y glorioso”.
 
 Ahora, en cuarto lugar,
 
-en los primognitos, ms que en cualesquiera otros, le agrad a Dios
+en los primogénitos, más que en cualesquiera otros, le agradó a Dios
 
-multiplicar los tipos de la redencin,
+multiplicar los tipos de la redención,
 
 para mostrarnos muy claramente que
 
-los herederos del cielo son un pueblo redimido. Ante todo, la gran mayora de
+los herederos del cielo son un pueblo redimido. Ante todo, la gran mayoría de
 
-los primognitos fueron redimidos con sangre. En la oscura y horrenda noche, el
+los primogénitos fueron redimidos con sangre. En la oscura y horrenda noche, el
 
-ngel exterminador anda libre, con alas silenciosas y con una filosa espada que
+ángel exterminador anda libre, con alas silenciosas y con una filosa espada que
 
 siempre acierta en el blanco; vuela con presteza, de casa en casa, por toda la
 
-tierra de Egipto, y desde el primognito del Faran en el trono al primognito
+tierra de Egipto, y desde el primogénito del Faraón en el trono al primogénito
 
 de la esclava que trabaja en el molino, todos ellos caen muertos, y el llanto
 
@@ -462,407 +462,407 @@ desgarrador. Pero en todas las casas de los israelitas se puede contemplar una
 
 escena diferente. Las puertas permanecen cerradas; hay un cordero asado sobre
 
-la mesa, y hombres y mujeres estn de pie a su alrededor, ceidos para un
+la mesa, y hombres y mujeres están de pie a su alrededor, ceńidos para un
 
-viaje, con sus bordones en sus manos, y lo comen apresuradamente. Hay un nio
+viaje, con sus bordones en sus manos, y lo comen apresuradamente. Hay un nińo
 
-primognito en los brazos de su madre, o un varn primognito que ya ha crecido,
+primogénito en los brazos de su madre, o un varón primogénito que ya ha crecido,
 
-pero ellos no muestran ningn signo de azoramiento, aunque es bien sabido que,
+pero ellos no muestran ningún signo de azoramiento, aunque es bien sabido que,
 
-en esa noche, los primognitos han de morir. Por qu estn tan tranquilos? Si
+en esa noche, los primogénitos han de morir. żPor qué están tan tranquilos? Si
 
-hubieras estado presente, una o dos horas antes, habras visto que el padre,
+hubieras estado presente, una o dos horas antes, habrías visto que el padre,
 
-cuando sacrific al cordero, dren la tibia sangre de la vida en un tazn, y
+cuando sacrificó al cordero, drenó la tibia sangre de la vida en un tazón, y
 
-sus hijos se congregaron a su alrededor, y l les dijo: vengan, sganme; y
+sus hijos se congregaron a su alrededor, y él les dijo: “vengan, síganme”; y
 
-tomando con l un manojo de hisopo, sali al exterior de su puerta, y golpe el
+tomando con él un manojo de hisopo, salió al exterior de su puerta, y golpeó el
 
-dintel hasta que lo pint de rojo con la sangre del cordero, y luego roci los
+dintel hasta que lo pintó de rojo con la sangre del cordero, y luego roció los
 
 postes a cada uno de los lados, de tal manera que la marca de la sangre era
 
-visible en la puerta por todos lados. Y ahora, -les dijo- hijos mos,
+visible en la puerta por todos lados. “Y ahora”, -les dijo- “hijos míos,
 
-estamos a salvo, pues, cuando Dios vea la sangre, pasar por encima de
+estamos a salvo, pues, cuando Dios vea la sangre, pasará por encima de
 
-nosotros, y nuestros primognitos no sern exterminados, pues la sangre los
+nosotros, y nuestros primogénitos no serán exterminados, pues la sangre los
 
-proteger. De manera semejante, nosotros, que somos los primognitos de Dios,
+protegerá.” De manera semejante, nosotros, que somos los primogénitos de Dios,
 
-somos salvos por la sangre de Jess.
+somos salvos por la sangre de Jesús.
 
-Puedes t, amigo, decir por fe: Mi confianza
+żPuedes tú, amigo, decir por fe: “Mi confianza
 
-est nicamente en esa sangre? Ha sido aplicada a tu corazn y a tu
+está únicamente en esa sangre”? żHa sido aplicada a tu corazón y a tu
 
-conciencia? Ha hablado paz a tu alma? Te lava de todo pecado? Te alegras
+conciencia? żHa hablado paz a tu alma? żTe lava de todo pecado? żTe alegras
 
-ahora porque no hay condenacin para ti, puesto que ests en Cristo Jess, y l
+ahora porque no hay condenación para ti, puesto que estás en Cristo Jesús, y Él
 
-ha soportado toda la ira divina que era tu porcin por causa de tu pecado?
+ha soportado toda la ira divina que era tu porción por causa de tu pecado?
 
 Pero, para que no dejemos de aprender esta
 
 grandiosa verdad por medio de un solo tipo, Dios nos ha dado otro. En el curso
 
-de dos aos, ms de veintids mil nios le nacieron a esa gran poblacin, y
+de dos ańos, más de veintidós mil nińos le nacieron a esa gran población, y
 
-esos no haban sido redimidos por la sangre de los corderos pascuales, pues no
+esos no habían sido redimidos por la sangre de los corderos pascuales, pues no
 
-tenan entonces el ser, as que se adopt otro mtodo; un levita tena que
+tenían entonces el ser, así que se adoptó otro método; un levita tenía que
 
-sustituir a cada nio primognito varn, y Dios aceptaba al levita y permita
+sustituir a cada nińo primogénito varón, y Dios aceptaba al levita y permitía
 
-que el nio permaneciera en la casa de su padre. All estaba un smbolo de la
+que el nińo permaneciera en la casa de su padre. Allí estaba un símbolo de la
 
-grandiosa verdad de la sustitucin, pero los privilegios que correspondan a
+grandiosa verdad de la sustitución, pero los privilegios que correspondían a
 
-algunos de los primognitos judos en el tipo, pertenecen a todos los hijos
+algunos de los primogénitos judíos en el tipo, pertenecen a todos los hijos
 
-primognitos espirituales de Dios. Cristo es el Levita que est delante de Dios
+primogénitos espirituales de Dios. Cristo es el Levita que está delante de Dios
 
-en nuestro lugar, y posicin, y sitio, y all ministra a favor nuestro, y honra
+en nuestro lugar, y posición, y sitio, y allí ministra a favor nuestro, y honra
 
-la ley de Su Padre y cumple hasta la ltima jota y tilde a nombre nuestro.
+la ley de Su Padre y cumple hasta la última jota y tilde a nombre nuestro.
 
-Hubo doscientos setenta y tres nios
+Hubo doscientos setenta y tres nińos
 
-primognitos judos para quienes no se pudo encontrar levitas sustitutos, as
+primogénitos judíos para quienes no se pudo encontrar levitas sustitutos, así
 
-que se tuvo que pagar a Aarn y a sus hijos cinco siclos por cabeza como dinero
+que se tuvo que pagar a Aarón y a sus hijos cinco siclos por cabeza como dinero
 
-de rescate por ellos; y, de igual manera, el plan divino de la redencin es muy
+de rescate por ellos; y, de igual manera, el plan divino de la redención es muy
 
-correctamente expuesto por el apstol Pedro cuando dice: Sabiendo que fuisteis
+correctamente expuesto por el apóstol Pedro cuando dice: “Sabiendo que fuisteis
 
 rescatados de vuestra vana manera de vivir, la cual recibisteis de vuestros
 
 padres, no con cosas corruptibles, como oro o plata, sino con la sangre
 
-preciosa de Cristo, como de un cordero sin mancha y sin contaminacin.
+preciosa de Cristo, como de un cordero sin mancha y sin contaminación.”
 
-Pongan estas tres cosas juntas: redencin por la
+Pongan estas tres cosas juntas: redención por la
 
-sangre, redencin por sustitucin, y redencin por compra, y entonces tendrn
+sangre, redención por sustitución, y redención por compra, y entonces tendrán
 
-una idea muy clara de lo que significa la expiacin en referencia a los
+una idea muy clara de lo que significa la expiación en referencia a los
 
-primognitos. Cualquiera de las tres bastara para el santo iluminado, pero las
+primogénitos. Cualquiera de las tres bastaría para el santo iluminado, pero las
 
-tres juntas proyectarn una hermosa luz sobre la cruz de Cristo, y bajo esa luz
+tres juntas proyectarán una hermosa luz sobre la cruz de Cristo, y bajo esa luz
 
-podremos ver claramente cmo llev nuestros pecados en Su propio cuerpo en el
+podremos ver claramente cómo llevó nuestros pecados en Su propio cuerpo en el
 
-madero, y trajo una redencin eterna para todos Sus elegidos.
+madero, y trajo una redención eterna para todos Sus elegidos.
 
 Cada uno de nosotros ha de hacerse estas
 
-preguntas: Soy redimido por la preciosa sangre de Cristo? Se interpuso l
+preguntas: “żSoy redimido por la preciosa sangre de Cristo? żSe interpuso Él
 
-como Sustituto y Fianza por m? Soy comprado con el precio que l pag por Su
+como Sustituto y Fianza por mí? żSoy comprado con el precio que Él pagó por Su
 
-pueblo en la cruz? Pues, si no fuera as, no podra ser contado entre los
+pueblo en la cruz? Pues, si no fuera así, no podría ser contado entre los
 
-primognitos, pues todos los primognitos deben ser redimidos de esta manera.
+primogénitos, pues todos los primogénitos deben ser redimidos de esta manera.”
 
-Nuestro tiempo vuela tan rpidamente que me temo
+Nuestro tiempo vuela tan rápidamente que me temo
 
-que las otras dos divisiones de mi discurso tendrn que sufrir una merma; pero
+que las otras dos divisiones de mi discurso tendrán que sufrir una merma; pero
 
-debo recordarles, tal como promet hacerlo, que
+debo recordarles, tal como prometí hacerlo, que
 
-los primognitos, habiendo sido redimidos, tenan privilegios muy
+los primogénitos, habiendo sido redimidos, tenían privilegios muy
 
 especiales.
 
-Primero, tenan una doble porcin de los bienes de sus padres.
+Primero, tenían una doble porción de los bienes de sus padres.
 
-Por esta razn Eliseo, quien fue, en el sentido proftico, el primognito de
+Por esta razón Eliseo, quien fue, en el sentido profético, el primogénito de
 
-Elas, como su hijo espiritual le implor: Te ruego que una doble porcin de
+Elías, como su hijo espiritual le imploró: “Te ruego que una doble porción de
 
-tu espritu sea sobre m.
+tu espíritu sea sobre mí.”
 
 Ahora, Dios es bueno para todos los hombres, y
 
-Sus piedades son sobre todas Sus obras, pero Su favor especial est reservado
+Sus piedades son sobre todas Sus obras, pero Su favor especial está reservado
 
 para los llamados y escogidos y fieles a quienes ha redimido.
 
-Los primognitos tenan tambin el privilegio del
+Los primogénitos tenían también el privilegio del
 
 sacerdocio en los antiguos tiempos patriarcales, y todo verdadero hijo de Dios
 
 es hecho un rey y un sacerdote para Dios, para ofrecer, diariamente,
 
-sacrificios espirituales y aceptables por medio de Jesucristo. El primognito
+sacrificios espirituales y aceptables por medio de Jesucristo. El primogénito
 
 era, en muchos aspectos, un gobernante sobre toda la casa; y Cristo, el
 
-grandioso Primognito, es el Gobernante supremo de Su Iglesia, y nosotros, en
+grandioso Primogénito, es el Gobernante supremo de Su Iglesia, y nosotros, en
 
-l y por medio de l, somos hechos gobernantes sobre muchas cosas, y l nos
+Él y por medio de Él, somos hechos gobernantes sobre muchas cosas, y Él nos
 
-invita para que ascendamos al trono, y para que reinemos con l como
+invita para que ascendamos al trono, y para que reinemos con Él como
 
-primognitos de Dios, reyes y sacerdotes para l para siempre.
+primogénitos de Dios, reyes y sacerdotes para Él para siempre.
 
 II.
 
 Ahora, en segundo lugar, y muy brevemente,
 
-hagmonos la siguiente pregunta: CUL ES EL SIGNIFICADO DEL EMPADRONAMIENTO DE
+hagámonos la siguiente pregunta: żCUÁL ES EL SIGNIFICADO DEL EMPADRONAMIENTO DE
 
-LOS PRIMOGNITOS?
+LOS PRIMOGÉNITOS?
 
-Moiss tena que registrar los nombres de los
+Moisés tenía que registrar los nombres de los
 
-primognitos judos, y descubrimos que, hasta la era de los apstoles, haba
+primogénitos judíos, y descubrimos que, hasta la era de los apóstoles, había
 
-algunas personas muy ocupadas acerca de lo que Pablo llama: genealogas
+algunas personas muy ocupadas acerca de lo que Pablo llama: “genealogías
 
-interminables, que acarrean disputas ms bien que edificacin de Dios que es
+interminables, que acarrean disputas más bien que edificación de Dios que es
 
-por fe; pero, queridos amigos, hay un empadronamiento acerca del cual
+por fe”; pero, queridos amigos, hay un empadronamiento acerca del cual
 
-deberamos estar altamente interesados. Hay ciertos nombres escritos en el
+deberíamos estar altamente interesados. Hay ciertos nombres escritos en el
 
-libro de vida del Cordero, y debera ser para ustedes y para m, un asunto de
+libro de vida del Cordero, y debería ser para ustedes y para mí, un asunto de
 
-solemne inters investigar si nuestros nombres estn escritos all. Estn sus
+solemne interés investigar si nuestros nombres están escritos allí. żEstán sus
 
 nombres y mi nombre inscritos en ese sagrado rollo secreto de los elegidos de
 
-Dios? Nosotros no podemos escalar a las alturas del cielo para escudriar las
+Dios? Nosotros no podemos escalar a las alturas del cielo para escudrińar las
 
-pginas de ese libro sellado, ni tampoco podemos descubrir los secretos que el
+páginas de ese libro sellado, ni tampoco podemos descubrir los secretos que el
 
-Altsimo ha registrado all. Es imposible que leamos nuestros nombres all,
+Altísimo ha registrado allí. Es imposible que leamos nuestros nombres allí,
 
-pero hay ciertas evidencias mediante las cuales podemos decir si estn o no
+pero hay ciertas evidencias mediante las cuales podemos decir si están o no
 
-estn all.
+están allí.
 
 Ante todo,
 
-piensan
+żpiensan
 
-que estn all?
+que están allí?
 
-Acaso no hay muchas personas aqu que han de decir
+żAcaso no hay muchas personas aquí que han de decir
 
-verazmente: No, no tenemos ninguna razn para pensar que estn all? Cuando
+verazmente: “No, no tenemos ninguna razón para pensar que están allí”? Cuando
 
-se pasa revista a nuestras tropas, si t ests all puedes or los nombres y
+se pasa revista a nuestras tropas, si tú estás allí puedes oír los nombres y
 
-las respuestas a los hombres: Juan _____, presente, seor; Toms _____,
+las respuestas a los hombres: “Juan _____”, “presente, seńor”; “Tomás _____”,
 
-presente, seor; presente, seor; presente, seor, y as prosiguen a
+“presente, seńor”; “presente, seńor”; “presente, seńor”, y así prosiguen a
 
-travs de todos los rangos. Ahora, supn que fuera posible que un ngel pasara
+través de todos los rangos. Ahora, supón que fuera posible que un ángel pasara
 
-revista a los redimidos desde este plpito, crees que leera tu nombre y que
+revista a los redimidos desde este púlpito, żcrees que leería tu nombre y que
 
-t seras capaz de responderle: presente, seor? No, -dices t- a menos
+tú serías capaz de responderle: “presente, seńor”? “No”, -dices tú- “a menos
 
-que dijera una falsedad voluntaria, no me atrevera a decir que mi nombre est
+que dijera una falsedad voluntaria, no me atrevería a decir que mi nombre está
 
-en el libro de vida del Cordero. Bien, entonces, si sus propios corazones los
+en el libro de vida del Cordero.” Bien, entonces, si sus propios corazones los
 
 condenan, recuerden que Dios es mayor que sus corazones, y sabe todas las
 
-cosas; entonces, cunto ms deber condenarlos!
+cosas; entonces, ˇcuánto más deberá condenarlos!
 
-Posiblemente, habr algunas personas que digan:
+Posiblemente, habrá algunas personas que digan:
 
-nosotros esperamos que nuestros nombres estn escritos all. As que les
+“nosotros esperamos que nuestros nombres estén escritos allí”. Así que les
 
 pregunto, queridos amigos,
 
-son ustedes
+żson ustedes
 
-como aquellos cuyos nombres estn inscritos indudablemente all?
+como aquellos cuyos nombres están inscritos indudablemente allí?
 
-Tienen la
+żTienen la
 
-fe de Abraham, o algo parecido a esa fe? Desean tener una santidad como la que
+fe de Abraham, o algo parecido a esa fe? żDesean tener una santidad como la que
 
 Pablo ambicionaba? Cuando leen la historia de la vida de un hombre piadoso,
 
-sienten que la vida de ustedes es conforme con la suya? Pues, despus de todo,
+żsienten que la vida de ustedes es conforme con la suya? Pues, después de todo,
 
-el carcter,
+el carácter,
 
-el carcter,
+el carácter,
 
-EL CARCTER
+EL CARÁCTER
 
 ha de ser el gran fundamento del juicio; y si tu vida no fuera como la vida de
 
-los santos, cmo puedes esperar encontrar tu nombre registrado donde sus
+los santos, żcómo puedes esperar encontrar tu nombre registrado donde sus
 
-nombres estn inscritos?
+nombres están inscritos?
 
-Adems,
+Además,
 
 todos
 
-los elegidos tienen sus nombres escritos debajo del nombre de su Seor, el
+los elegidos tienen sus nombres escritos debajo del nombre de su Seńor, el
 
 Cordero;
 
-entonces, estn confiando en Cristo? Estn descansando en l?
+entonces, żestán confiando en Cristo? żEstán descansando en Él?
 
-Est la vida de ustedes vinculada a la Suya? Sienten que hay un vnculo que
+żEstá la vida de ustedes vinculada a la Suya? żSienten que hay un vínculo que
 
 no puede ser cortado, que los une a ustedes y a Cristo estrechamente, de tal
 
-forma que nadie, ni nada que pudiera suceder, seran capaces de separarlos del
+forma que nadie, ni nada que pudiera suceder, serían capaces de separarlos del
 
-amor de Dios, que es en Cristo Jess su Seor? Muy bien, entonces, si este es
+amor de Dios, que es en Cristo Jesús su Seńor? Muy bien, entonces, si este es
 
-el caso en cuanto a ustedes, tengan la seguridad de que su nombre est en ese
+el caso en cuanto a ustedes, tengan la seguridad de que su nombre está en ese
 
-libro; pero, sin Cristo, ustedes estn sin esperanza; separados de l, hay
+libro; pero, “sin Cristo”, ustedes están sin esperanza; separados de Él, hay
 
-certeza de que su nombre no est escrito en el cielo, como uno de la
+certeza de que su nombre no está escrito en el cielo, como uno de “la
 
-congregacin de los primognitos.
+congregación de los primogénitos.”
 
 Te hago otra pregunta:
 
-eres realmente un hijo de Dios?
+żeres realmente un hijo de Dios?
 
-Puedes decirle: Abba, Padre?
+żPuedes decirle: “Abba, Padre”?
 
-Es Dios tu Padre? Has aprendido a confiar en l como confan en l Sus hijos,
+żEs Dios tu Padre? żHas aprendido a confiar en Él como confían en Él Sus hijos,
 
-y a amarle como le aman Sus hijos? Dependes enteramente de l? Buscas
+y a amarle como le aman Sus hijos? żDependes enteramente de Él? żBuscas
 
 someterte enteramente a Su voluntad, y caminar en Su senda? Pues, si no eres un
 
-hijo de Dios en absoluto, ciertamente no eres uno de Sus primognitos.
+hijo de Dios en absoluto, ciertamente no eres uno de Sus primogénitos.
 
-Debo preguntarles tambin:
+Debo preguntarles también:
 
-Han pasado de muerte a vida?
+żHan pasado de muerte a vida?
 
-Ha habido un cambio vital en ustedes
+żHa habido un cambio vital en ustedes
 
-en algn momento, un cambio de tal naturaleza que slo puede ser obrado por el
+en algún momento, un cambio de tal naturaleza que sólo puede ser obrado por el
 
-Espritu Santo? No me refiero a un cambio del tipo que algunas personas necias
+Espíritu Santo? No me refiero a un cambio del tipo que algunas personas necias
 
-dicen que han visto, algunas veces, cuando un hombre est muriendo. Podra no
+dicen que han visto, algunas veces, cuando un hombre está muriendo. Podría no
 
-haber habido ningn signo de gracia en el hombre, y, sin embargo, alguien dijo:
+haber habido ningún signo de gracia en el hombre, y, sin embargo, alguien dijo:
 
-Vi venir tal cambio sobre l, que su rostro se vea muy diferente. Muy
+“Vi venir tal cambio sobre él, que su rostro se veía muy diferente.” Muy
 
-posiblemente se vea; pero no es un cambio de rostro lo que se necesita, sino
+posiblemente se veía; pero no es un cambio de rostro lo que se necesita, sino
 
-un cambio de corazn; no es un cambio fsico, sino un cambio mental, moral,
+un cambio de corazón; no es un cambio físico, sino un cambio mental, moral,
 
-espiritual y divino, el que es obrado en la regeneracin. Nadie de ustedes ha
+espiritual y divino, el que es obrado en la regeneración. Nadie de ustedes ha
 
 de quedarse satisfecho a menos que tengan una incuestionable evidencia de que
 
-este cambio ha sido obrado en ustedes por la obra eficaz del Espritu Santo;
+este cambio ha sido obrado en ustedes por la obra eficaz del Espíritu Santo;
 
-pues, a menos que nazcan de nuevo, sus nombres no sern encontrados inscritos
+pues, a menos que nazcan de nuevo, sus nombres no serán encontrados inscritos
 
-en el rollo de los primognitos de Dios.
+en el rollo de los primogénitos de Dios.
 
-Ahora, para concluir, permtanme recordarles
+Ahora, para concluir, permítanme recordarles
 
-nada ms que, para todos estos primognitos de Dios, cuyos nombres estn
+nada más que, para todos estos primogénitos de Dios, cuyos nombres están
 
-escritos en el cielo, viene el da cuando sern congregados en gloria alrededor
+escritos en el cielo, viene el día cuando serán congregados en gloria alrededor
 
-del trono de Dios. Qu reunin ser esa! No habr ni una sola persona impa all,
+del trono de Dios. ˇQué reunión será esa! No habrá ni una sola persona impía allí,
 
-pues todos habrn sido lavados y emblanquecidos en la sangre del Cordero. Cun
+pues todos habrán sido lavados y emblanquecidos en la sangre del Cordero. ˇCuán
 
-felices sern todos ellos! No habr ni una lgrima en ningn ojo, ni un gemido
+felices serán todos ellos! No habrá ni una lágrima en ningún ojo, ni un gemido
 
-en ningn espritu, ni una sola nota de angustia en ninguna lengua, pues los
+en ningún espíritu, ni una sola nota de angustia en ninguna lengua, pues los
 
-das de su afliccin habrn terminado para siempre. Ser una asamblea
+días de su aflicción habrán terminado para siempre. ˇSerá una asamblea
 
-sumamente unida! No habr ninguna hereja, ningn cisma, ninguna discordia,
+sumamente unida! No habrá ninguna herejía, ningún cisma, ninguna discordia,
 
-ninguna frialdad de corazn; todos ellos amarn as como han sido amados. Cun
+ninguna frialdad de corazón; todos ellos amarán así como han sido amados. ˇCuán
 
-vasta ser esa asamblea, y, cuando millones de millones se renan juntos all, qu
+vasta será esa asamblea, y, cuando millones de millones se reúnan juntos allí, qué
 
-grito de sagrado jbilo se dar cuando eleven un aleluya tras otro! Juan dice:
+grito de sagrado júbilo se dará cuando eleven un aleluya tras otro! Juan dice:
 
-O una voz del cielo como estruendo de muchas aguas. Tal vez hayan odo al
+“Oí una voz del cielo como estruendo de muchas aguas.” Tal vez hayan oído al
 
-ocano rugir en la plenitud de su fuerza; posiblemente, han odo al poderoso
+océano rugir en la plenitud de su fuerza; posiblemente, han oído al poderoso
 
-Ocano Atlntico bramando en la costa cuando es azotado con furia por la
+Océano Atlántico bramando en la costa cuando es azotado con furia por la
 
-tormenta. As ha de ser la grandeza de los cantos delante del trono de Dios, en
+tormenta. Así ha de ser la grandeza de los cantos delante del trono de Dios, en
 
-la congregacin general y en la iglesia de los primognitos; slo que no ha de
+la congregación general y en la iglesia de los primogénitos; sólo que no ha de
 
-ser meramente como estruendo de un agua sino de muchas aguas; los ocanos se
+ser meramente como estruendo de un agua sino de muchas aguas; los océanos se
 
-amontonan sobre los ocanos, el Atlntico sobre el Pacfico, y el rtico y el
+amontonan sobre los océanos, el Atlántico sobre el Pacífico, y el Ártico y el
 
-Antrtico, y todos los dems ocanos apilados sobre estos; y as habr de ser
+Antártico, y todos los demás océanos apilados sobre estos; y así habrá de ser
 
-la msica de los santos, as habr de ser el canto de los bienaventurados
+la música de los santos, así habrá de ser el canto de los bienaventurados
 
 cuando vean el rostro de su Padre sin un velo interpuesto, y derramen su vasto
 
-volumen de alabanza como estruendo de muchas aguas.
+volumen de alabanza “como estruendo de muchas aguas.”
 
 Cada uno de nosotros debe hacerse la pregunta:
 
-estar yo all? Si alguien dijera: tengo miedo de que no estar all, ha
+“żestaré yo allí?” Si alguien dijera: “tengo miedo de que no estaré allí”, ha
 
-de clamar fuertemente al Altsimo para que lo saque de ese horrible pozo y ponga
+de clamar fuertemente al Altísimo para que lo saque de ese horrible pozo y ponga
 
 sus pies sobre la roca y establezca sus salidas.
 
-Pecador, t estars, ya sea all o en aquel
+Pecador, tú estarás, ya sea allí o en aquel
 
-terrible lugar donde los lamentos sern ms terribles que el grito de los
+terrible lugar donde los lamentos serán más terribles que el grito de los
 
-hombres en una batalla o los alaridos de la mujeres en una masacre. T estars
+hombres en una batalla o los alaridos de la mujeres en una masacre. Tú estarás
 
-ya sea all en la gloria, o, de lo contrario, all abajo donde las tinieblas,
+ya sea allá en la gloria, o, de lo contrario, allá abajo donde las tinieblas,
 
-la muerte y la larga desesperacin se sientan sobre sus tronos de afliccin.
+la muerte y la larga desesperación se sientan sobre sus tronos de aflicción.
 
-Acude presuroso, pecador, acude presuroso a Cristo! Sus heridas, como hendiduras
+ˇAcude presuroso, pecador, acude presuroso a Cristo! Sus heridas, como hendiduras
 
-en la roca, estn abiertas para las palomas que necesitan un refugio. Vuela,
+en la roca, están abiertas para las palomas que necesitan un refugio. ˇVuela,
 
 pecador, vuela! El vengador de la sangre te persigue; oigo el sonido de sus
 
-pies tras de ti, y est a punto de darte un golpe mortal; pero la ciudad de
+pies tras de ti, y está a punto de darte un golpe mortal; pero la ciudad de
 
-refugio est cerca, a la mano, y est con las puertas abiertas de par en par
+refugio está cerca, a la mano, y está con las puertas abiertas de par en par
 
-para darte la bienvenida. Vuela, pecador, vuela! Cree en el Seor Jesucristo,
+para darte la bienvenida. ˇVuela, pecador, vuela! “Cree en el Seńor Jesucristo,
 
-y sers salvo. El que creyere y fuere bautizado, ser salvo. Creer en Jess
+y serás salvo”. “El que creyere y fuere bautizado, será salvo”. Creer en Jesús
 
-es confiar en l; ser bautizado es ser sumergido en el agua con base en la
+es confiar en Él; ser bautizado es ser sumergido en el agua con base en la
 
-profesin de esa fe. Yo no me atrevo a alterar la comisin de mi Seor: Id por
+profesión de esa fe. Yo no me atrevo a alterar la comisión de mi Seńor: “Id por
 
 todo el mundo y predicad el evangelio a toda criatura. El que creyere y fuere
 
-bautizado, ser salvo; mas el que no creyere, ser condenado. No hay otra
+bautizado, será salvo; mas el que no creyere, será condenado”. No hay otra
 
-alternativa. La opcin es:
+alternativa. La opción es:
 
 volverse o
 
@@ -870,11 +870,11 @@ perderse
 
 ; creer y ser salvo o descreer y ser condenado. Que Dios, en Su
 
-misericordia, haga la eleccin por ti, pecador, en este preciso momento, y te
+misericordia, haga la elección por ti, pecador, en este preciso momento, y te
 
-conduzca a la senda eterna; y al Padre, al Hijo y al Espritu Santo sea toda
+conduzca a la senda eterna; y ˇal Padre, al Hijo y al Espíritu Santo sea toda
 
-la gloria eternamente y para siempre! Amn.
+la gloria eternamente y para siempre! Amén.
 
 Nota del
 
@@ -890,7 +890,7 @@ un miembro de un grupo de la aristocracia a quienes George Whitefield predicaba
 
 en el hogar de la condesa de Huntingdon.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 27/Noviembre/2012
 

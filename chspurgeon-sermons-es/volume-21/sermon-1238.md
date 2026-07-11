@@ -1,20 +1,20 @@
 # Sermón 1238 | Sermón 1238
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Gurdense de
+Guárdense de
 
 la Incredulidad
 
-Un lema para la campaa de los seores Moody y
+Un lema para la campańa de los seńores Moody y
 
 Sankey en el sur de Londres.
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -24,85 +24,85 @@ DE 1875
 
 POR C. H. SPURGEON
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y un
+“Y un
 
-prncipe sobre cuyo brazo el rey se apoyaba, respondi al varn de Dios, y
+príncipe sobre cuyo brazo el rey se apoyaba, respondió al varón de Dios, y
 
-dijo: Si Jehov hiciese ahora ventanas en el cielo, sera esto as? Y l dijo:
+dijo: Si Jehová hiciese ahora ventanas en el cielo, żsería esto así? Y él dijo:
 
-He aqu t lo vers con tus ojos, mas no comers de ello. 2 Reyes 7: 2.
+He aquí tú lo verás con tus ojos, mas no comerás de ello”. 2 Reyes 7: 2.
 
 La gente de Samaria
 
-haba retirado su lealtad a Jehov y adoraba a otros dioses, y, debido a eso, el
+había retirado su lealtad a Jehová y adoraba a otros dioses, y, debido a eso, el
 
-Seor los visit con terribles juicios sujetndose a Su solemne amenaza. El
+Seńor los visitó con terribles juicios sujetándose a Su solemne amenaza. El
 
-sitio impuesto por los ejrcitos sirios era tan cerrado que el alimento escase
+sitio impuesto por los ejércitos sirios era tan cerrado que el alimento escaseó
 
-por completo, y en su hambre la gente devoraba carne humana y los ms
+por completo, y en su hambre la gente devoraba carne humana y los más
 
-abominables desperdicios. No podan abrir las puertas de la ciudad pues saban
+abominables desperdicios. No podían abrir las puertas de la ciudad pues sabían
 
-que una vez que el adversario entrara, saqueara y depredara la ciudad y
+que una vez que el adversario entrara, saquearía y depredaría la ciudad y
 
-pasara a todos los habitantes a cuchillo, y por eso permanecan encerrados
+pasaría a todos los habitantes a cuchillo, y por eso permanecían encerrados
 
 dentro de los muros de la ciudad sin otra alternativa que sucumbir. En su
 
-horrenda crisis, el Seor tuvo misericordia de ellos y record que eran los
+horrenda crisis, el Seńor tuvo misericordia de ellos y recordó que eran los
 
 hijos de Israel y la simiente de Abraham, Su amigo y, por tanto, no los
 
-destruira por completo, sino que les dara una oportunidad para que se
+destruiría por completo, sino que les daría una oportunidad para que se
 
-arrepintieran. El Seor se compadeci de los miles de hambrientos y les
+arrepintieran. El Seńor se compadeció de los miles de hambrientos y les
 
-prometi el alivio de la terrible hambruna que los haba consumido. Cun
+prometió el alivio de la terrible hambruna que los había consumido. ˇCuán
 
-abundante en misericordia es el Seor nuestro Dios! El pecado tiene que ser
+abundante en misericordia es el Seńor nuestro Dios! El pecado tiene que ser
 
-multiplicado en grado sumo antes de que Su paciencia se agote. l est renuente
+multiplicado en grado sumo antes de que Su paciencia se agote. Él está renuente
 
-a ejecutar la sentencia de Su ira. El juicio es Su extraa obra. l est
+a ejecutar la sentencia de Su ira. El juicio es Su extrańa obra. Él está
 
-siempre dispuesto a prodigar misericordia y espera para ser clemente, s, l se
+siempre dispuesto a prodigar misericordia y espera para ser clemente, sí, Él se
 
 anticipa siempre en Su gracia para con nosotros y es muy lento en aplicar el
 
-castigo; se detiene en el camino y delibera, y antes de asestar algn golpe, a
+castigo; se detiene en el camino y delibera, y antes de asestar algún golpe, a
 
-menudo razona Consigo mismo y exclama: Cmo podr abandonarte, oh Efran? Te
+menudo razona Consigo mismo y exclama: “żCómo podré abandonarte, oh Efraín? żTe
 
-entregar yo, Israel? Cmo podr yo hacerte como Adma, o ponerte como a
+entregaré yo, Israel? żCómo podré yo hacerte como Adma, o ponerte como a
 
-Zeboim? Ciertamente l es un Dios clemente y misericordioso, tardo para la ira
+Zeboim?” Ciertamente Él es un Dios clemente y misericordioso, tardo para la ira
 
 y grande en misericordia.
 
-Tal vez una razn por la
+Tal vez una razón por la
 
-que en la horrenda crisis de Samaria el Seor se agradara en visitarla de
+que en la horrenda crisis de Samaria el Seńor se agradara en visitarla de
 
-manera tan clemente fuera la presencia de Eliseo all. Al menos haba un hombre
+manera tan clemente fuera la presencia de Eliseo allí. Al menos había un hombre
 
-en la ciudad que tena poder con Dios en la oracin, y tal vez estuviera
+en la ciudad que tenía poder con Dios en la oración, y tal vez estuviera
 
-acompaado de un grupo de los hijos de los profetas, de manera que haba un
+acompańado de un grupo de los hijos de los profetas, de manera que había un
 
-puado de hombres santos en aquella ciudad apstata -encontrados fieles en
+puńado de hombres santos en aquella ciudad apóstata -“encontrados fieles en
 
-medio de los infieles- los cuales actuaban como un puado de sal que preserv
+medio de los infieles”- los cuales actuaban como un puńado de sal que preservó
 
-a la ciudad. En los Proverbios Salomn nos dice que un
+a la ciudad. En los Proverbios Salomón nos dice que un
 
 sabio
 
-libra a la ciudad con su sabidura, y este fue un caso en el
+libra a la ciudad con su sabiduría, y este fue un caso en el
 
 que un hombre
 
@@ -110,53 +110,53 @@ piadoso
 
 lo hizo. El
 
-Seor le tuvo consideracin a Su siervo y Samaria fue salvada por causa del varn
+Seńor le tuvo consideración a Su siervo y Samaria fue salvada por causa del varón
 
-de Dios. Con razn Eliseo fue llamado: carro de Israel y su gente de a caballo,
+de Dios. Con razón Eliseo fue llamado: ‘carro de Israel y su gente de a caballo’,
 
-pues constitua una mejor defensa que diez mil hombres de caballera. Nosotros
+pues constituía una mejor defensa que diez mil hombres de caballería. Nosotros
 
-no podemos medir la benfica influencia de unos hombres piadosos. Son benefactores
+no podemos medir la benéfica influencia de unos hombres piadosos. Son benefactores
 
-universales. Omos que los hombres hablan de las dulces influencias de las
+universales. Oímos que los hombres hablan de las dulces influencias de las
 
-Plyades y de otras estrellas que sonren desde lo alto a esta tierra, pero
+Pléyades y de otras estrellas que sonríen desde lo alto a esta tierra, pero
 
 olvidamos sobremanera la influencia de las estrellas de abajo sobre los altos
 
-cielos. El poder se desplaza tanto hacia arriba como hacia abajo, as como los
+cielos. El poder se desplaza tanto hacia arriba como hacia abajo, así como los
 
-ngeles ascendan y descendan por la escalera que vio Jacob. Las oraciones de
+ángeles ascendían y descendían por la escalera que vio Jacob. Las oraciones de
 
-un hombre po mueven el brazo que mueve el mundo.
+un hombre pío mueven el brazo que mueve el mundo.
 
-El Seor satisfizo la
+El Seńor satisfizo la
 
-necesidad de Samaria mediante una promesa sumamente misericordiosa, tanto ms
+necesidad de Samaria mediante una promesa sumamente misericordiosa, tanto más
 
-llena de gracia cuanto llevaba en su frente la seguridad de un rpido
+llena de gracia cuanto llevaba en su frente la seguridad de un rápido
 
-cumplimiento. El profeta fue comisionado a declarar: Maana a estas horas
+cumplimiento. El profeta fue comisionado a declarar: “Mańana a estas horas
 
-valdr el seah de flor de harina un siclo. Slo tenan que esperar
+valdrá el seah de flor de harina un siclo”. Sólo tenían que esperar
 
-veinticuatro horas; el sol slo tena que ocultarse y salir una vez ms, y
+veinticuatro horas; el sol sólo tenía que ocultarse y salir una vez más, y
 
-entonces no habra ms hambre acuciante ni cruel escasez de viandas a lo largo
+entonces no habría más hambre acuciante ni cruel escasez de viandas a lo largo
 
 de Samaria. La fecha escogida para el aprovisionamiento fue sumamente oportuna;
 
-quien da rpido da dos veces, y as la promesa inmediata fue doblemente
+quien da rápido da dos veces, y así la promesa inmediata fue doblemente
 
-preciosa. La abundancia de la promesa la haca ms benfica todava, pues el
+preciosa. La abundancia de la promesa la hacía más benéfica todavía, pues el
 
-trigo y la cebada seran tan baratos que se venderan a una cantidad mucho
+trigo y la cebada serían tan baratos que se venderían a una cantidad mucho
 
-menor que la que haba sido pagada por el estircol de palomas, cualquiera que
+menor que la que había sido pagada por el estiércol de palomas, cualquiera que
 
-hubiera sido, y menos que el precio de una carne tan malsana como la que podra
+hubiera sido, y menos que el precio de una carne tan malsana como la que podría
 
-haberse extrado de la cabeza de un asno, que haba sido vendida por ochenta
+haberse extraído de la cabeza de un asno, que había sido vendida por ochenta
 
 piezas de plata.
 
@@ -164,51 +164,51 @@ El mejor alimento,
 
 incluso la flor de harina, iba a ser vendida abiertamente a un bajo precio a
 
-sus propias puertas. No necesitaran enviar a Egipto por grano o importarlo
+sus propias puertas. No necesitarían enviar a Egipto por grano o importarlo
 
-desde tierras lejanas, sino que haba de ser trado a sus puertas y vendido a
+desde tierras lejanas, sino que había de ser traído a sus puertas y vendido a
 
-un precio asequible para todos. Fue una gran bondad de parte del Seor proveer
+un precio asequible para todos. Fue una gran bondad de parte del Seńor proveer
 
 a la multitud golpeada por la hambruna con una palabra de aliento tan regia.
 
-Pero observen la respuesta que recibe el profeta: no como uno habra pensado, es
+Pero observen la respuesta que recibe el profeta: no como uno habría pensado, es
 
-decir, con palabras de accin de gracias y lgrimas de gratitud, sino con todo
+decir, con palabras de acción de gracias y lágrimas de gratitud, sino con todo
 
-lo opuesto. No se postraron ni exclamaron de rodillas: Oh Dios, cun bueno
+lo opuesto. No se postraron ni exclamaron de rodillas: “ˇOh Dios, cuán bueno
 
-eres! No pronunciaron ni una sola palabra de alabanza, como ciertamente
+eres!” No pronunciaron ni una sola palabra de alabanza, como ciertamente
 
-debieron hacerlo; la nica respuesta fue una despectiva, altanera,
+debieron hacerlo; la única respuesta fue una despectiva, altanera,
 
-despreciativa e incrdula expresin: Si Jehov hiciese ventanas en el cielo,
+despreciativa e incrédula expresión: “Si Jehová hiciese ventanas en el cielo,
 
-pudiera suceder esto? Oh cun ruin ingratitud! Qu agradecimiento tan poco
+żpudiera suceder esto?” ˇOh cuán ruin ingratitud! ˇQué agradecimiento tan poco
 
 generoso para una misericordia tan grande!
 
 Observen bien la respuesta
 
-que da el Seor al escarnio del incrdulo. No hay nada que l tolere menos que
+que da el Seńor al escarnio del incrédulo. No hay nada que Él tolere menos que
 
 la incredulidad, y la incredulidad frente a una misericordia inusual se vuelve
 
-doblemente irritante. El profeta respondi de inmediato en el nombre del Seor:
+doblemente irritante. El profeta respondió de inmediato en el nombre del Seńor:
 
-He aqu t lo vers con tus ojos, mas no comers de ello. El Seor tiene una
+“He aquí tú lo verás con tus ojos, mas no comerás de ello”. El Seńor tiene una
 
 pronta respuesta para la incredulidad que se atreve a desafiarlo; si los
 
-hombres llaman a Dios mentiroso, tendrn bien pronto suficientes pruebas en sus
+hombres llaman a Dios mentiroso, tendrán bien pronto suficientes pruebas en sus
 
 propias personas de que Sus amenazas no mienten.
 
-Esta maana vamos a
+Esta mańana vamos a
 
-procurar extraer del texto la leccin que pretende ensearnos. Que Dios nos
+procurar extraer del texto la lección que pretende enseńarnos. Que Dios nos
 
-bendiga al hacerlo, ayudndonos por medio de Su Santo Espritu.
+bendiga al hacerlo, ayudándonos por medio de Su Santo Espíritu.
 
 Primero, observemos
 
@@ -244,29 +244,29 @@ LA INCREDULIDAD.
 
 Ustedes
 
-observarn que
+observarán que
 
 la incredulidad se atreve
 
 a cuestionar la veracidad de la propia promesa.
 
-El profeta haba dicho: Maana
+El profeta había dicho: “Mańana
 
-a estas horas valdr el seah de flor de harina un siclo, y dos seahs de cebada
+a estas horas valdrá el seah de flor de harina un siclo, y dos seahs de cebada
 
-un siclo; y directamente en desafo a este As dijo Jehov, viene la
+un siclo”; y directamente en desafío a este “Así dijo Jehová”, viene la
 
-negacin despreciativa del prncipe sobre cuyo brazo se apoyaba el rey. La
+negación despreciativa del príncipe sobre cuyo brazo se apoyaba el rey. La
 
-incredulidad no duda en decir que lo que Dios declara no se cumplir, si bien vela
+incredulidad no duda en decir que lo que Dios declara no se cumplirá, si bien vela
 
-frecuentemente su lenguaje y usualmente imagina algn tipo de argumento sobre
+frecuentemente su lenguaje y usualmente imagina algún tipo de argumento sobre
 
 el cual basa su repudio. El sofisma viene en ayuda de la incredulidad y se
 
-empea en apuntalar sus inclinadas paredes. Si se le hubiera preguntado al
+empeńa en apuntalar sus inclinadas paredes. Si se le hubiera preguntado al
 
-cnico prncipe por qu habl tan desconfiadamente habra replicado: Vamos, se
+cínico príncipe por qué habló tan desconfiadamente habría replicado: “Vamos, se
 
 trata de una promesa
 
@@ -274,343 +274,343 @@ demasiado grande
 
 para ser cumplida.
 
-No es una promesa caracterstica y es irrazonable. Cmo
+No es una promesa característica y es irrazonable. żCómo
 
-podra haber suficiente harina en esta ciudad en veinticuatro horas para que
+podría haber suficiente harina en esta ciudad en veinticuatro horas para que
 
-pudiera ser vendida a un siclo por seah? Vamos, no podra obtenerse una medida
+pudiera ser vendida a un siclo por seah? Vamos, no podría obtenerse una medida
 
-de flor de harina ni por diez mil siclos; no podra obtenerse a ningn precio,
+de flor de harina ni por diez mil siclos; no podría obtenerse a ningún precio,
 
-y no queda ni un solo seah de cebada en toda la regin en torno a Samaria, pues
+y no queda ni un solo seah de cebada en toda la región en torno a Samaria, pues
 
-los sirios han saqueado cada casa y cada granero. No ves que lo que dice este
+los sirios han saqueado cada casa y cada granero. żNo ves que lo que dice este
 
-profeta es algo completamente imposible? Sus palabras son absurdas. Habramos
+profeta es algo completamente imposible? Sus palabras son absurdas. Habríamos
 
-podido creerle si su prediccin hubiese sido la dcima parte de lo que dijo,
+podido creerle si su predicción hubiese sido la décima parte de lo que dijo,
 
-pero se ha excedido y no se le debe prestar ninguna atencin a sus
+pero se ha excedido y no se le debe prestar ninguna atención a sus
 
-divagaciones.
+divagaciones”.
 
-Acaso la incredulidad
+żAcaso la incredulidad
 
-de ustedes, hermanos mos, algunas veces no ha fabricado un argumento para
+de ustedes, hermanos míos, algunas veces no ha fabricado un argumento para
 
-desconfiar debido a la grandeza del bien prometido? Mientras el Seor los
+desconfiar debido a la grandeza del bien prometido? Mientras el Seńor los
 
-atraa al principio con cuerdas de amor, no era la propia grandeza de Su
+atraía al principio con cuerdas de amor, żno era la propia grandeza de Su
 
-misericordia una de las pruebas ms severas para la fe de ustedes? Cuando se
+misericordia una de las pruebas más severas para la fe de ustedes? Cuando se
 
-dieron cuenta de que deshara sus pecados como una nube, y como niebla sus
+dieron cuenta de que desharía sus pecados como una nube, y como niebla sus
 
-iniquidades, no pregunt el corazn de ustedes: Cmo puede ser? Recuerdo muy
+iniquidades, żno preguntó el corazón de ustedes: “Cómo puede ser”? Recuerdo muy
 
-bien con cunto poder y dulzura vinieron a mi alma una vez las palabras de
+bien con cuánto poder y dulzura vinieron a mi alma una vez las palabras de
 
-Isaas que hicieron suprimir esa duda: Mis pensamientos no son vuestros
+Isaías que hicieron suprimir esa duda: “Mis pensamientos no son vuestros
 
-pensamientos, ni vuestros caminos mis caminos, dijo Jehov. Como son ms altos
+pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos
 
-los cielos que la tierra, as son mis caminos ms altos que vuestros caminos.
+los cielos que la tierra, así son mis caminos más altos que vuestros caminos”.
 
-Nosotros olvidamos esta gloriosa declaracin y nos reducimos a medir la capacidad
+Nosotros olvidamos esta gloriosa declaración y nos reducimos a medir la capacidad
 
-de bendecir de Dios segn nuestra capacidad de creer y ya que el favor es
+de bendecir de Dios según nuestra capacidad de creer y ya que el favor es
 
-portentoso pensamos que es improbable. No es este un mal razonamiento? Acaso
+portentoso pensamos que es improbable. żNo es este un mal razonamiento? żAcaso
 
-puede algo ser grande para Dios? Acaso puede alguna maravilla ser demasiado
+puede algo ser grande para Dios? żAcaso puede alguna maravilla ser demasiado
 
-milagrosa para el Seor? El asunto es difcil en s mismo, pero es acaso
+milagrosa para el Seńor? El asunto es difícil en sí mismo, żpero es acaso
 
-difcil para la omnipotencia? Es una monumental bendicin, pero pudiera ser
+difícil para la omnipotencia? Es una monumental bendición, pero żpudiera ser
 
 demasiado grande para que la mano infinitamente benigna la conceda? Ciertamente
 
-el Santo de Israel no es alguien como t, entonces por qu lo limitas como si
+el Santo de Israel no es alguien como tú, entonces żpor qué lo limitas como si
 
-l no pudiera dar ms de lo que t puedes dar? Que el amor divino libre a
+Él no pudiera dar más de lo que tú puedes dar? Que el amor divino libre a
 
-nuestras almas de esta red de incredulidad, que tan fcilmente nos enmaraa. Los
+nuestras almas de esta red de incredulidad, que tan fácilmente nos enmarańa. Los
 
 pensamientos rastreros acerca del poder divino deshonran grandemente a Dios y
 
-nos privan de mucho consuelo. No es l un gran Dios y no es de l hacer
+nos privan de mucho consuelo. żNo es Él un gran Dios y no es de Él hacer
 
 grandezas para con Su pueblo? Sus recursos son infinitos y por eso es capaz de
 
-cumplir Sus promesas por grandes que pudieran ser. l no prometi en ignorancia
+cumplir Sus promesas por grandes que pudieran ser. Él no prometió en ignorancia
 
-ni lo hizo apresuradamente ni Su palabra es algo de ayer, por tanto, no dejar
+ni lo hizo apresuradamente ni Su palabra es algo de ayer, por tanto, no dejará
 
 de guardar Su promesa al pie de la letra.
 
 Tal vez si le hubieran
 
-preguntado a este prncipe les habra dicho: Oh, pero ser
+preguntado a este príncipe les habría dicho: “Oh, pero será
 
 algo tan nuevo.
 
 Yo he vivido en Samaria,
 
-y no he visto harina puesta a la venta a ningn precio durante meses. Los jefes
+y no he visto harina puesta a la venta a ningún precio durante meses. Los jefes
 
 de familia la han atesorado como si cada onza fuese una joya. Cada individuo se
 
-ha cuidado de resguardar lo que tena para su propia familia, y ahora no queda
+ha cuidado de resguardar lo que tenía para su propia familia, y ahora no queda
 
 nada en ninguna parte, ni siquiera en las tiendas particulares, y, con todo,
 
-t hablas de que se vendern el trigo y la cebada a las puertas de Samaria!
+ˇtú hablas de que se venderán el trigo y la cebada a las puertas de Samaria!
 
-Benditos seran los ojos que vieran algo as por muchos das! Yo no espero
+ˇBenditos serían los ojos que vieran algo así por muchos días! Yo no espero
 
-verlo nunca y ni mil profetas me induciran a albergar un sueo as. Pereceremos
+verlo nunca y ni mil profetas me inducirían a albergar un sueńo así. Pereceremos
 
-por el hambre o por la espada de los sirios, pues esta promesa no ser
+por el hambre o por la espada de los sirios, pues esta promesa no será
 
-cumplida.
+cumplida”.
 
-Hermanos mos, acaso
+Hermanos míos, żacaso
 
 nuestra incredulidad no se ha alimentado algunas veces de la novedad de la
 
-bendicin prometida? Parecales algo nuevo a ustedes, pecadores, que el Seor
+bendición prometida? Parecíales algo nuevo a ustedes, pecadores, que el Seńor
 
 pasara por alto en un instante sus pecados y los hiciera justos en la justicia
 
 de Cristo; sin embargo, eso nuevo ha sucedido. Cuando nos enteramos de alguna
 
-obra cristiana ms exitosa de lo ordinario, muchos hermanos que no han sido
+obra cristiana más exitosa de lo ordinario, muchos hermanos que no han sido
 
 favorecidos con una prosperidad igual no pueden creer que sea cierto. Si
 
-hubiesen visto a dos o tres personas convertidas y aadidas a la iglesia en un
+hubiesen visto a dos o tres personas convertidas y ańadidas a la iglesia en un
 
-ao, habran dicho: Dedo de Dios es ste, pero si se enteran de cuarenta o de
+ańo, habrían dicho: “Dedo de Dios es éste”, pero si se enteran de cuarenta o de
 
 cien, o incluso de mil convertidos durante un milagroso avivamiento son muy
 
-escpticos. Ellos admiten que la conversin de miles de personas pudo haberse
+escépticos. Ellos admiten que la conversión de miles de personas pudo haberse
 
-dado con motivo de un sermn en los tiempos del Antiguo Testamento, pero eso
+dado con motivo de un sermón en los tiempos del Antiguo Testamento, pero eso
 
-fue hace mucho tiempo; nosotros no podemos esperar ver tales cosas ahora. As
+fue hace mucho tiempo; nosotros no podemos esperar ver tales cosas ahora. Así
 
-razonan en sus corazones e insinan que se ha acortado el brazo del Seor. Oh
+razonan en sus corazones e insinúan que se ha acortado el brazo del Seńor. Oh
 
 hermanos, aunque Dios nos haya dado una promesa que no ha sido cumplida
 
-todava, y aunque no hubiese ocurrido nada parecido nunca, esa no es una excusa
+todavía, y aunque no hubiese ocurrido nada parecido nunca, esa no es una excusa
 
-para nuestra incredulidad respecto a la palabra divina. No ha prometido l:
+para nuestra incredulidad respecto a la palabra divina. żNo ha prometido Él:
 
-He aqu que yo hago cosa nueva? (Isaas 43: 19). Acaso no le dijo a Su
+“He aquí que yo hago cosa nueva”? (Isaías 43: 19). żAcaso no le dijo a Su
 
-pueblo Israel: Ahora, pues, te he hecho or cosas nuevas y ocultas que t no
+pueblo Israel: “Ahora, pues, te he hecho oír cosas nuevas y ocultas que tú no
 
-sabas? Acaso no es nuevo todo cuando el Seor lo revela por primera vez?
+sabías”? żAcaso no es nuevo todo cuando el Seńor lo revela por primera vez?
 
-Moiss pudo haber dudado de la promesa de Dios de golpear con plagas a Egipto,
+Moisés pudo haber dudado de la promesa de Dios de golpear con plagas a Egipto,
 
-pues esas plagas eran novedosas. Pudo haber dudado del poder del Seor para
+pues esas plagas eran novedosas. Pudo haber dudado del poder del Seńor para
 
-conducir a Su pueblo a travs del Mar Rojo, pues cundo haba sido dividido un
+conducir a Su pueblo a través del Mar Rojo, pues żcuándo había sido dividido un
 
-mar para que una nacin lo atravesara a pies enjutos? Pudo haber dudado del
+mar para que una nación lo atravesara a pies enjutos? Pudo haber dudado del
 
-poder de Dios de alimentar a las huestes en el desierto, pues cundo haba
+poder de Dios de alimentar a las huestes en el desierto, pues żcuándo había
 
-llovido pan del cielo, y cundo haba brotado el agua de una roca? El Seor que
+llovido pan del cielo, y cuándo había brotado el agua de una roca? El Seńor que
 
-obra grandes maravillas nos muestra misericordias que nuevas son cada maana.
+obra grandes maravillas nos muestra misericordias que “nuevas son cada mańana”.
 
-l no est atado a rgidos procedimientos; Sus bendiciones son tan variadas
+Él no está atado a rígidos procedimientos; Sus bendiciones son tan variadas
 
 como Sus creaciones; le deleita sorprendernos con las frescas manifestaciones
 
-de Su amor; y as es claro que la novedad de la bendicin no es ninguna excusa
+de Su amor; y así es claro que la novedad de la bendición no es ninguna excusa
 
 en absoluto para nuestra incredulidad.
 
 Me atrevo a decir que el
 
-hidalgo burlador habra dicho: Es la
+hidalgo burlador habría dicho: “Es la
 
 inminencia
 
-del suceso lo que hace que la promesa sea tan increble. Maana! Cmo!
+del suceso lo que hace que la promesa sea tan increíble. ˇMańana! ˇCómo!
 
-Abundancia de alimento para maana! No, eso sera demasiado. Si dijeras que en
+ˇAbundancia de alimento para mańana! No, eso sería demasiado. Si dijeras que en
 
-tres meses podemos ser aprovisionados podramos creerlo, pero decir que maana
+tres meses podemos ser aprovisionados podríamos creerlo, pero decir que mańana
 
-es ir demasiado lejos. Cmo podra transportarse el trigo y la cebada en tal
+es ir demasiado lejos. żCómo podría transportarse el trigo y la cebada en tal
 
 abundancia hasta Samaria en ese lapso, aunque fuera sobre veloces corceles y
 
-ligeros dromedarios? Aunque los sirios se fueran maana, con todo, la regin ya
+ligeros dromedarios? Aunque los sirios se fueran mańana, con todo, la región ya
 
-fue devorada por ellos y se tendra que importar el trigo desde alguna tierra
+fue devorada por ellos y se tendría que importar el trigo desde alguna tierra
 
 distante. No es del todo probable que se pudiera hacer eso de pronto. No
 
-violentes demasiado nuestra fe; danos al menos uno o dos meses.
+violentes demasiado nuestra fe; danos al menos uno o dos meses”.
 
-Hermanos mos, hoy en
+Hermanos míos, hoy en
 
-da encuentro que este punto de la naturaleza repentina de las cosas deja
+día encuentro que este punto de la naturaleza repentina de las cosas deja
 
-estupefactas a las mentes incrdulas. Cmo! La iglesia no puede ser revivida
+estupefactas a las mentes incrédulas. “ˇCómo! ˇLa iglesia no puede ser revivida
 
-tan repentinamente! Cmo podra serlo? Tal vez las verdaderas doctrinas puedan
+tan repentinamente! żCómo podría serlo? Tal vez las verdaderas doctrinas puedan
 
-ser propagadas en Inglaterra con lentitud, despus que las generaciones se
+ser propagadas en Inglaterra con lentitud, después que las generaciones se
 
-hayan sucedido, pero esperar que el Evangelio sea propagado por todo el pas en
+hayan sucedido, pero esperar que el Evangelio sea propagado por todo el país en
 
-unos cuantos meses es algo perfectamente absurdo. Talvez algunos entre mis
+unos cuantos meses es algo perfectamente absurdo”. Talvez algunos entre mis
 
 oyentes no se atrevan a esperar que el sur de Londres pueda ser despertado
 
-inmediatamente, como yo creo que lo ser, y no se atrevan a esperar conversiones
+inmediatamente, como yo creo que lo será, y no se atrevan a esperar conversiones
 
 de inmediato, como yo me aventuro a esperarlas. Algunos le tienen miedo a todo
 
-lo sbito, y se sienten seguros de que si algn don de la gracia llegara de
+lo súbito, y se sienten seguros de que si algún don de la gracia llegara de
 
-pronto resultara ser como la calabacera de Jons, que en el espacio de una
+pronto resultaría ser como la calabacera de Jonás, que en el espacio de una
 
-noche naci, y en el espacio de otra noche pereci. Le ceden al mundo los
+noche nació, y en el espacio de otra noche pereció. Le ceden al mundo los
 
-trenes expresos y condenan a la gracia a viajar en el vagn de carga. Por qu
+trenes expresos y condenan a la gracia a viajar en el vagón de carga. żPor qué
 
-soar con que el Seor es lento? Por qu limitar la rapidez de Sus acciones?
+sońar con que el Seńor es lento? żPor qué limitar la rapidez de Sus acciones?
 
-Si Dios cre el mundo en seis das, no podra recrearlo en un lapso similar? En
+Si Dios creó el mundo en seis días, żno podría recrearlo en un lapso similar? En
 
-los das de No, l destruy a la raza humana en cuarenta das; no podra
+los días de Noé, Él destruyó a la raza humana en cuarenta días; żno podría
 
-realizar Su obra salvadora con igual prontitud? No est escrito: Cabalg
+realizar Su obra salvadora con igual prontitud? żNo está escrito: “Cabalgó
 
-sobre un querubn, y vol; vol sobre las alas del viento? Oh, incredulidad,
+sobre un querubín, y voló; voló sobre las alas del viento”? Oh, incredulidad,
 
-cmo te atreves a decir: en un ao, cuando Dios dice: maana? Si l dice:
+żcómo te atreves a decir: “en un ańo”, cuando Dios dice: “mańana”? Si Él dice:
 
-maana, ser maana a la hora en punto. Maana a estas horas, dijo el
+“mańana”, será mańana a la hora en punto. “Mańana a estas horas”, dijo el
 
-profeta y as fue. No seamos como esas personas a quienes se refiri el profeta
+profeta y así fue. No seamos como esas personas a quienes se refirió el profeta
 
-Hageo cuando dijo: No ha llegado an el tiempo, el tiempo de que la casa de
+Hageo cuando dijo: “No ha llegado aún el tiempo, el tiempo de que la casa de
 
-Jehov sea reedificada. Desechemos esta postergacin de la expectativa, y
+Jehová sea reedificada”. Desechemos esta postergación de la expectativa, y
 
 creamos que Dios puede hacer prodigios hoy, aun hoy mismo.
 
-Ah, pecador, t no
+Ah, pecador, tú no
 
-puedes creer que Dios te salve en un minuto pero l puede hacerlo; antes de que
+puedes creer que Dios te salve en un minuto pero Él puede hacerlo; antes de que
 
-el reloj marque un segundo ms, l puede hacer que pases de muerte a vida, y
+el reloj marque un segundo más, Él puede hacer que pases de muerte a vida, y
 
 puede echar todas tus transgresiones tras Sus espaldas. En este preciso
 
-instante, si t miraras a Jesucristo, la obra de gracia sera realizada. El
+instante, si tú miraras a Jesucristo, la obra de gracia sería realizada. El
 
-publicano que confes su pecado no tuvo que esperar mucho para obtener su
+publicano que confesó su pecado no tuvo que esperar mucho para obtener su
 
-justificacin, pues la recibi antes de descender a su casa.
+justificación, pues la recibió antes de descender a su casa.
 
-Este interlocutor criticn
+Este interlocutor criticón
 
-habra justificado tambin su incredulidad diciendo: Dnde podrs encontrar
+habría justificado también su incredulidad diciendo: “żDónde podrás encontrar
 
 los medios para cumplir esta promesa? Ha de venderse tanto de trigo y de
 
-cebada, dices t, pero de dnde provendrn? No hay comerciantes en granos
+cebada, dices tú, pero żde dónde provendrán? No hay comerciantes en granos
 
-aqu, y si los hubiera, sus inventarios se habran agotado hace mucho tiempo. Estoy
+aquí, y si los hubiera, sus inventarios se habrían agotado hace mucho tiempo. Estoy
 
-seguro de que no quedan por descubrirse grandes bodegas subterrneas pues he
+seguro de que no quedan por descubrirse grandes bodegas subterráneas pues he
 
-ordenado una bsqueda detallada en todos los lugares donde el alimento pudiera
+ordenado una búsqueda detallada en todos los lugares donde el alimento pudiera
 
-haber sido ocultado. No dijo l- no habr comida barata, pues no hay medios
+haber sido ocultado”. “No” –dijo él- “no habrá comida barata, pues no hay medios
 
-para obtenerla. Acaso nuestra incredulidad no ha seguido con frecuencia esa
+para obtenerla”. żAcaso nuestra incredulidad no ha seguido con frecuencia esa
 
-lnea de conducta? Nosotros tambin queremos ver a menudo
+línea de conducta? Nosotros también queremos ver a menudo
 
-cmo
+cómo
 
-cumple el Seor Su palabra. Comenzamos calculando, igual que
+cumple el Seńor Su palabra. Comenzamos calculando, igual que
 
-los discpulos, que doscientos mendrugos de pan que valieran un centavo no
+los discípulos, que doscientos mendrugos de pan que valieran un centavo no
 
-bastaran para la multitud, y en cuanto a unos pocos panes y unos cuantos peces
+bastarían para la multitud, y en cuanto a unos pocos panes y unos cuantos peces
 
 no podemos creer que sirvan de algo entre tantas personas. Por supuesto que si
 
-tenemos que hacer diseos de acuerdo a las leyes de la mecnica, debemos
+tenemos que hacer diseńos de acuerdo a las leyes de la mecánica, debemos
 
 calcular nuestras fuerzas y exigir unos medios proporcionales a los resultados
 
-que han de producirse; pero por qu aplicar al Dios omnipotente la delgada
+que han de producirse; pero żpor qué aplicar al Dios omnipotente la delgada
 
-lnea de la mecnica? Es ms, hacemos cosas peores, pues difcilmente
+línea de la mecánica? Es más, hacemos cosas peores, pues difícilmente
 
-realizamos nuestros clculos correctamente en referencia a la obra del Seor;
+realizamos nuestros cálculos correctamente en referencia a la obra del Seńor;
 
-si lo hiciramos, deberamos calcular, dada la omnipotencia, que ya no existen
+si lo hiciéramos, deberíamos calcular, dada la omnipotencia, que ya no existen
 
-ms las dificultades y que las imposibilidades han desaparecido. Si el Seor es
+más las dificultades y que las imposibilidades han desaparecido. Si el Seńor es
 
-verdaderamente todopoderoso, entonces cmo nos atrevemos a cuestionar los
+verdaderamente todopoderoso, entonces żcómo nos atrevemos a cuestionar los
 
 medios y los arbitrios? Medios y arbitrios son un asunto Suyo y nosotros no
 
-tenemos nada que ver con esas cosas, y con respecto a l no debe surgir ninguna
+tenemos nada que ver con esas cosas, y con respecto a Él no debe surgir ninguna
 
 pregunta de ese tipo.
 
-No me sorprendera,
+No me sorprendería,
 
-tampoco, que la incredulidad del prncipe surgiera en parte de
+tampoco, que la incredulidad del príncipe surgiera en parte de
 
-la visualizacin
+la visualización
 
 de la escena que se
 
-presentara si la promesa se cumpliera efectivamente. Si se le hubiera dicho
+presentaría si la promesa se cumpliera efectivamente. Si se le hubiera dicho
 
-que habra una gran liberacin de Jerusaln cuando estaba siendo sitiada me
+que habría una gran liberación de Jerusalén cuando estaba siendo sitiada me
 
-atrevera a decir que lo habra credo; pero liberacin de Samaria? Sucedera
+atrevería a decir que lo habría creído; pero żliberación de Samaria? żSucedería
 
-algo as aqu? Aqu en este lugar? En estas calles que han odo durante tanto
+algo así aquí? żAquí en este lugar? ˇEn estas calles que han oído durante tanto
 
 tiempo los gritos de llanto de las mujeres y los gemidos de los hombres
 
-famlicos! Abundancia de trigo y de cebada en veinticuatro horas! No poda
+famélicos! ˇAbundancia de trigo y de cebada en veinticuatro horas! No podía
 
-imaginar eso. Es fcil creer que Dios va a cumplir Su promesa en Australia,
+imaginar eso. Es fácil creer que Dios va a cumplir Su promesa en Australia,
 
-pero no siempre es tan fcil creer que lo har aqu. Yo creo que el Seor ser
+pero no siempre es tan fácil creer que lo hará aquí. Yo creo que el Seńor será
 
-muy clemente para con mi amigo afligido que est por all, pero, creo siempre
+muy clemente para con mi amigo afligido que está por allá, pero, żcreo siempre
 
-que ser clemente conmigo? T has experimentado muchas tribulaciones, y has
+que será clemente conmigo? Tú has experimentado muchas tribulaciones, y has
 
-recibido ayuda en medio de ellas, y crees que Dios te ayudara una segunda vez
+recibido ayuda en medio de ellas, y crees que Dios te ayudaría una segunda vez
 
-a travs de esas mismas tribulaciones, si regresaran; pero hay algo tan
+a través de esas mismas tribulaciones, si regresaran; pero hay algo tan
 
-peculiar respecto a esta tribulacin particular que experimentas ahora, que no
+peculiar respecto a esta tribulación particular que experimentas ahora, que no
 
-puedes percatarte de que sers sustentado en ella. Generalmente nosotros
+puedes percatarte de que serás sustentado en ella. Generalmente nosotros
 
 tenemos una gran cantidad de fe cuando no la necesitamos, pero cuando llegamos
 
@@ -618,17 +618,17 @@ a necesitarla, una parte sustancial de la fe se evapora. El tiempo para creer
 
 en la promesa de Dios es cuando el hambre es acuciante en la ciudad; pero, ay
 
-del prncipe, pues no poda percatarse de la bendicin; no poda suponer que
+del príncipe, pues no podía percatarse de la bendición; no podía suponer que
 
 fuera posible.
 
 Pero ahora, juntando
 
-todos estos motivos para tener desconfianza, hay alguna fuerza en alguno de
+todos estos motivos para tener desconfianza, żhay alguna fuerza en alguno de
 
-ellos o en todos ellos para que constituyan una razn para dudar de Dios? Si
+ellos o en todos ellos para que constituyan una razón para dudar de Dios? Si
 
-Dios lo ha dicho, ciertamente lo har. Entonces, por qu dudar de l?
+Dios lo ha dicho, ciertamente lo hará. Entonces, żpor qué dudar de Él?
 
 Ahora, en segundo lugar,
 
@@ -636,127 +636,127 @@ observen que
 
 la incredulidad se
 
-manifiesta a menudo limitando al Seor a un solo modo de accin.
+manifiesta a menudo limitando al Seńor a un solo modo de acción.
 
-Este varn
+Este varón
 
 piensa que tal vez pudiera haber alimento en Samaria si Dios hiciese unas ventanas
 
-en el cielo o, segn lo interpretan algunos, si abriera compuertas en el cielo
+en el cielo o, según lo interpretan algunos, si abriera compuertas en el cielo
 
-a travs de las cuales se viera derramarse la harina y la cebada. Esa sera la
+a través de las cuales se viera derramarse la harina y la cebada. Esa sería la
 
-nica manera que l poda ver en la que Dios podra alimentar al pueblo. Tal
+única manera que él podía ver en la que Dios podría alimentar al pueblo. Tal
 
-vez recordara el man en el desierto, y cmo pareca que caa desde las nubes
+vez recordara el maná en el desierto, y cómo parecía que caía desde las nubes
 
-del cielo. Bien, Dios podra hacerlo de igual manera; l llega al punto de casi
+del cielo. Bien, Dios podría hacerlo de igual manera; él llega al punto de casi
 
-admitir que tal vez podra hacerlo de esa manera. As es como opera la
+admitir que tal vez podría hacerlo de esa manera. Así es como opera la
 
-incredulidad. Decimos: S, Dios puede liberarme en mi tiempo de tribulacin,
+incredulidad. Decimos: “Sí, Dios puede liberarme en mi tiempo de tribulación,
 
-si toca el corazn de tal y tal amigo. Limitamos a Dios a tocar el corazn de
+si toca el corazón de tal y tal amigo”. Limitamos a Dios a tocar el corazón de
 
-ese amigo, conforme a nuestra idea. El pecador piensa que podra ser salvado si
+ese amigo, conforme a nuestra idea. El pecador piensa que podría ser salvado si
 
-alcanzara a or al seor Fulano de Tal o si pudiera sentir tal y tal
+alcanzara a oír al seńor ‘Fulano de Tal’ o si pudiera sentir tal y tal
 
-impresin en su interior, pero, de acuerdo a su nocin, el Seor est limitado
+impresión en su interior, pero, de acuerdo a su noción, el Seńor está limitado
 
-a convertirlo a travs de un ministro y a llevarlo a Jess de una manera
+a convertirlo a través de un ministro y a llevarlo a Jesús de una manera
 
 particular. Esa es la idea que tienen muchos seres humanos acerca del
 
-avivamiento: Si pudiera lograr que el seor Elocuente viniera y sostuviera una
+avivamiento: “Si pudiera lograr que el seńor Elocuente viniera y sostuviera una
 
-serie de servicios en nuestro pueblo nos despertara, pero no veo ninguna otra
+serie de servicios en nuestro pueblo nos despertaría, pero no veo ninguna otra
 
-forma. Acaso no llamas a eso incredulidad? Dios as lo llama. Vamos,
+forma”. żAcaso no llamas a eso ‘incredulidad’? Dios así lo llama. Vamos,
 
-hermanos, si el Seor deseara alimentar a Samaria, podra haberlo hecho
+hermanos, si el Seńor deseara alimentar a Samaria, podría haberlo hecho
 
-multiplicando el alimento que haba all, tal como multiplic el aceite de la
+multiplicando el alimento que había allí, tal como multiplicó el aceite de la
 
 viuda; o pudiera haber establecido que la cantidad de alimento no disminuyera,
 
-tal como lo hizo con el puado de harina y con un poco de aceite de la viuda de
+tal como lo hizo con el puńado de harina y con un poco de aceite de la viuda de
 
-Sarepta. Dios tiene mil maneras de lograr Sus propsitos. l hubiera podido
+Sarepta. Dios tiene mil maneras de lograr Sus propósitos. Él hubiera podido
 
 convertir cada piedra de Samaria en un pan, y hacer que el polvo de sus calles se
 
-hiciera harina, si as lo hubiese querido. Si envi comida en el desierto sin
+hiciera harina, si así lo hubiese querido. Si envió comida en el desierto sin
 
-necesidad de cosechas, y proporcion agua en el desierto sin viento ni lluvia,
+necesidad de cosechas, y proporcionó agua en el desierto sin viento ni lluvia,
 
 puede hacer lo que quiera y puede realizar Su propia obra a Su propia manera.
 
 No debemos permitirnos pensar en limitar al Santo de Israel a un modo especial
 
-de accin. Cuando nos enteramos de que los hombres son conducidos a adoptar
+de acción. Cuando nos enteramos de que los hombres son conducidos a adoptar
 
-nuevas formas de hacer su trabajo, no debemos sentir: Eso debe de estar mal; ms
+nuevas formas de hacer su trabajo, no debemos sentir: “Eso debe de estar mal”; más
 
 bien hemos de esperar que muy probablemente sea correcto, pues necesitamos
 
-escapar de esos hrridos hbitos inveterados, y de esos desventurados
+escapar de esos hórridos hábitos inveterados, y de esos desventurados
 
-convencionalismos que sirven ms bien de obstculos que de ayudas. Algunos
+convencionalismos que sirven más bien de obstáculos que de ayudas. Algunos
 
 hermanos muy estereotipados juzgan que es un crimen que un evangelista cante el
 
-Evangelio; y en cuanto a ese rgano americano, es terrible! Uno de estos das
+Evangelio; ˇy en cuanto a ese órgano americano, es terrible! Uno de estos días
 
-otro conjunto de almas conservadoras difcilmente tolerar un servicio sin tales
+otro conjunto de almas conservadoras difícilmente tolerará un servicio sin tales
 
-cosas, pues el horror de una poca es el dolo de la siguiente. Cada uno en su
+cosas, pues el horror de una época es el ídolo de la siguiente. Cada uno en su
 
 debido orden y Dios los usa a todos ellos; y si hubiese alguna peculiaridad,
 
 alguna idiosincrasia, tanto mejor. Dios no fabrica a Sus siervos por veintenas
 
-tal como los hombres hacen correr el hierro en moldes. l tiene una obra
+tal como los hombres hacen correr el hierro en moldes. Él tiene una obra
 
 diferente para cada ser humano, y permite que cada hombre haga su propia obra a
 
 su manera, y que Dios le bendiga.
 
-Adems, adviertan que
+Además, adviertan que
 
-la incredulidad no cree, despus de todo, que
+la incredulidad no cree, después de todo, que
 
-aun si Dios trabajara a la manera del incrdulo la cosa se habra realizado.
+aun si Dios trabajara a la manera del incrédulo la cosa se habría realizado.
 
-No
+żNo
 
-notaron una pequea nota de interrogacin en el texto: Si Jehov hiciese ahora
+notaron una pequeńa nota de interrogación en el texto: “Si Jehová hiciese ahora
 
-ventanas en el cielo, sera esto as? Ahora, miren a travs de sus lentes, y
+ventanas en el cielo, sería esto así?” Ahora, miren a través de sus lentes, y
 
-vern al final de la palabra as un signo de interrogacin. Quiso decir que
+verán al final de la palabra “así” un signo de interrogación. Quiso decir que
 
-si Dios hiciese ventanas en el cielo aun as l no podra alimentar a las
+si Dios hiciese ventanas en el cielo aun así Él no podría alimentar a las
 
 multitudes hambrientas en Samaria. Si se vieran presionados los hombres que
 
-dicen: si Dios hiciera tal y tal cosa podramos ver una gran bendicin, se
+dicen: si Dios hiciera tal y tal cosa podríamos ver una gran bendición, se
 
-descubrira que no creen que se hara ni siquiera entonces. La incredulidad es
+descubriría que no creen que se haría ni siquiera entonces. La incredulidad es
 
 a tal punto una negadora presuntuosa de la veracidad de Dios que no le da
 
-crdito de ser capaz de guardar Su promesa de cualquier forma y manera, es ms,
+crédito de ser capaz de guardar Su promesa de cualquier forma y manera, es más,
 
-ni siquiera mediante los ms extraordinarios hechos. Que el Espritu de Dios
+ni siquiera mediante los más extraordinarios hechos. Que el Espíritu de Dios
 
-eche fuera de nuestros corazones una tal incredulidad. Podra estar all
+eche fuera de nuestros corazones una tal incredulidad. Podría estar allí
 
-precisamente ahora, y podramos estar inconscientes de su presencia.
+precisamente ahora, y podríamos estar inconscientes de su presencia.
 
-Escudriemos y miremos y echemos fuera a este pecado traidor, pues si hay algo
+Escudrińemos y miremos y echemos fuera a este pecado traidor, pues si hay algo
 
-que puede daarnos y daar a la iglesia y al mundo, es la incredulidad en la
+que puede dańarnos y dańar a la iglesia y al mundo, es la incredulidad en la
 
 fidelidad de Dios.
 
@@ -770,181 +770,181 @@ LA RESPUESTA
 
 DIVINA.
 
-De este lado est Eliseo, el siervo de Dios, quien ha hablado en nombre de
+De este lado está Eliseo, el siervo de Dios, quien ha hablado en nombre de
 
-Dios, y de aquel lado est el gran prncipe, quien no dudo que despreciara mucho
+Dios, y de aquel lado está el gran príncipe, quien no dudo que despreciara mucho
 
 al pobre profeta, al que responde con un sarcasmo considerado como ingenioso,
 
-me atrevo a decir; muchos festejaron su dicho y pensaron que haba aniquilado
+me atrevo a decir; muchos festejaron su dicho y pensaron que había aniquilado
 
-en gran manera al recto varn. Pero noten la conducta del siervo del Seor. No
+en gran manera al recto varón. Pero noten la conducta del siervo del Seńor. No
 
-discute en absoluto con el hidalgo. Nosotros hemos argumentado en demasa con
+discute en absoluto con el hidalgo. Nosotros hemos argumentado en demasía con
 
-los incrdulos. Siempre que sale un libro podrido algunos ministros se esmeran
+los incrédulos. Siempre que sale un libro podrido algunos ministros se esmeran
 
 en leerlo de principio a fin para luego ir y contarle a su pueblo todo lo
 
-concerniente a l bajo la pretensin de responderlo, pero la gente olvida sus
+concerniente a él bajo la pretensión de responderlo, pero la gente olvida sus
 
-respuestas y slo se acuerda del veneno que los ministros diseminan imprudentemente.
+respuestas y sólo se acuerda del veneno que los ministros diseminan imprudentemente.
 
-No habra ni la dcima parte de infidelidad que hay ahora si los ministros dejaran
+No habría ni la décima parte de infidelidad que hay ahora si los ministros dejaran
 
 al libro en paz. Es como un estanque de inmundicia, que empeora cuando es batido;
 
-hay que dejarlo solo. No tiene la suficiente vitalidad para vivir por s solo;
+hay que dejarlo solo. No tiene la suficiente vitalidad para vivir por sí solo;
 
-es nicamente nuestra oposicin la que lo hace vital. As que Eliseo no tuvo ni
+es únicamente nuestra oposición la que lo hace vital. Así que Eliseo no tuvo ni
 
-un solo argumento para l y nosotros tampoco debemos preocuparnos por responder
+un solo argumento para él y nosotros tampoco debemos preocuparnos por responder
 
-a los que niegan la verdad de Dios. Respondern por eso ante su Dios, no ante
+a los que niegan la verdad de Dios. Responderán por eso ante su Dios, no ante
 
 nosotros.
 
 Y no hubo ninguna
 
-adopcin de los medios del incrdulo. Dios no dijo por medio de Su siervo
+adopción de los medios del incrédulo. Dios no dijo por medio de Su siervo
 
-Eliseo: Bien, para quedar bien contigo voy a hacer algo inslito, voy a hacer
+Eliseo: “Bien, para quedar bien contigo voy a hacer algo insólito, voy a hacer
 
-ventanas en el cielo, si t consideras que es la mejor manera de aprovisionar a
+ventanas en el cielo, si tú consideras que es la mejor manera de aprovisionar a
 
-la ciudad. Para nada. Cuando se presentan objeciones a los modos de utilidad
+la ciudad”. Para nada. Cuando se presentan objeciones a los modos de utilidad
 
-que Dios evidentemente bendice, no nos corresponde alterarlos slo porque la voz
+que Dios evidentemente bendice, no nos corresponde alterarlos sólo porque la voz
 
-popular est contra ellos o porque algunas personas muy sabias los hubieren
+popular esté contra ellos o porque algunas personas muy sabias los hubieren
 
-condenado. Yo pienso que esa es una razn para continuar con ellos, y cuando el
+condenado. Yo pienso que esa es una razón para continuar con ellos, y cuando el
 
 mundo sugiere que la obra santa debe ser realizada de esta manera o de aquella,
 
-lo mejor es dejar que quienes estn a favor de los planes propuestos los
+lo mejor es dejar que quienes están a favor de los planes propuestos los
 
-intenten ellos mismos. Dios no disea Su curso para agradar a la sabidura de
+intenten ellos mismos. Dios no diseńa Su curso para agradar a la sabiduría de
 
-los hombres, y si el Seor tiene la intencin de salvar almas en esta parte de
+los hombres, y si el Seńor tiene la intención de salvar almas en esta parte de
 
-Londres, lo har a Su manera, y la incredulidad podr decir lo que quiera pues
+Londres, lo hará a Su manera, y la incredulidad podrá decir lo que quiera pues
 
-l no suprimir ni una jota o tilde de Su propio propsito, sino que bendecir
+Él no suprimirá ni una jota o tilde de Su propio propósito, sino que bendecirá
 
 al pueblo como bien le parezca.
 
 La promesa fue cumplida
 
-a su debido tiempo. La incredulidad de aquel prncipe no alter la mente de
+a su debido tiempo. La incredulidad de aquel príncipe no alteró la mente de
 
 Dios. La promesa fue guardada; el trigo y la cebada se vendieron a los precios
 
-mencionados. La indignacin y el sarcasmo de su seora el prncipe no postergaron
+mencionados. La indignación y el sarcasmo de su seńoría el príncipe no postergaron
 
-la cada de los precios ni siquiera por una hora. Prncipe o no, hidalgo o no,
+la caída de los precios ni siquiera por una hora. Príncipe o no, hidalgo o no,
 
-no estableci ninguna diferencia de ningn tipo; la harina y la cebada estaban
+no estableció ninguna diferencia de ningún tipo; la harina y la cebada estaban
 
-all. Y en esto radica nuestro gran gozo: que aunque ha habido mucha
+allí. Y en esto radica nuestro gran gozo: que aunque ha habido mucha
 
-infidelidad en nuestro pas, muchas plticas banales acerca de las doctrinas
+infidelidad en nuestro país, muchas pláticas banales acerca de las doctrinas
 
-del Evangelio, mucha insinuacin de que todo eso est gastado y pasado de moda,
+del Evangelio, mucha insinuación de que todo eso está gastado y pasado de moda,
 
-Dios no retendr la bendicin a Su verdadero pueblo que realmente cree en Su
+Dios no retendrá la bendición a Su verdadero pueblo que realmente cree en Su
 
-palabra por causa de esos infieles a medias. Nuestro Dios responder a la infidelidad
+palabra por causa de esos infieles a medias. Nuestro Dios responderá a la infidelidad
 
-de esta poca, es ms, le ha respondido a lo largo de los ltimos dos o tres
+de esta época, es más, le ha respondido a lo largo de los últimos dos o tres
 
-aos. Nos han llegado noticias, tradas por quienes eran despreciados, que hay
+ańos. Nos han llegado noticias, traídas por quienes eran despreciados, que hay
 
 alimento para el pueblo. Algunos que no eran mensajeros ordenados, sino laicos
 
-fuera de la ciudad, han hecho un descubrimiento; nosotros no esperbamos que lo
+fuera de la ciudad, han hecho un descubrimiento; nosotros no esperábamos que lo
 
-hicieran, pero han trado informacin respecto a que hay abundancia de alimento
+hicieran, pero han traído información respecto a que hay abundancia de alimento
 
 disponible para las hambrientas multitudes, y ahora el Evangelio es predicado a
 
-la muchedumbre, y se predica que Jesucristo es capaz de salvar y que l est
+la muchedumbre, y se predica que Jesucristo es capaz de salvar y que Él está
 
-dispuesto a darles la salvacin. Qu sigue? Pues bien, ya lo hemos visto, lo
+dispuesto a darles la salvación. żQué sigue? Pues bien, ya lo hemos visto, lo
 
-hemos visto en el Tabernculo durante muchos aos, y lo veremos en general en
+hemos visto en el Tabernáculo durante muchos ańos, y lo veremos en general en
 
 toda Inglaterra, yo espero que pronto. El pueblo sale apresurado a encontrar
 
 este pan, y conforme salen a montones en escuadrones pisotean a la infidelidad
 
-bajo sus pies. All est este alardeado pensamiento moderno y esta cacareada
+bajo sus pies. Allí está este alardeado pensamiento moderno y esta cacareada
 
 cultura, que consideran a los predicadores del sencillo Evangelio y a quienes
 
-acuden a orlo como un conjunto de necios. La infidelidad no quiere creer que
+acuden a oírlo como un conjunto de necios. La infidelidad no quiere creer que
 
-el Evangelio de Jess es el pan del alma; la aglomeracin de la gente es la
+el Evangelio de Jesús es el pan del alma; la aglomeración de la gente es la
 
-respuesta. Vean cun vidamente devoran la palabra! Vean cmo se regocijan en
+respuesta. ˇVean cuán ávidamente devoran la palabra! ˇVean cómo se regocijan en
 
-ella! Escuchen sus cnticos como la voz de muchas aguas! La incredulidad es
+ella! ˇEscuchen sus cánticos como la voz de muchas aguas! La incredulidad es
 
 hollada como cieno en las calles.
 
 Hermanos, si quieren
 
-responderle a la infidelidad, prediquen el Evangelio; dganle a la gente que
+responderle a la infidelidad, prediquen el Evangelio; díganle a la gente que
 
 Jesucristo es capaz de salvar a los pecadores. Enarbolen muy en alto la cruz
 
 ensangrentada, proclamen la libertad para los cautivos, y la apertura de las
 
-prisiones para los reos. Esto provocar una conmocin, esto agitar a las
+prisiones para los reos. Esto provocará una conmoción, esto agitará a las
 
 masas. No hay nada igual. El Evangelio de Cristo es como fuego arrojado sobre mieses
 
-en pie, pues genera una portentosa conflagracin. Prediquen a Jesucristo crucificado.
+en pie, pues genera una portentosa conflagración. Prediquen a Jesucristo crucificado.
 
-Los seres humanos tienen que acercarse a orlo pues no son seores de s mismos
+Los seres humanos tienen que acercarse a oírlo pues no son seńores de sí mismos
 
-y no pueden permanecer alejados; y al orlo, y al alimentarse de l, y al llegarles
+y no pueden permanecer alejados; y al oírlo, y al alimentarse de él, y al llegarles
 
 la dicha y la paz y la nueva vida,
 
 los
 
-hechos respondern a las teoras
+hechos responderán a las teorías
 
 y
 
 la
 
-salvacin ser la mejor rplica para los dichos ingeniosos y para la sofistera
+salvación será la mejor réplica para los dichos ingeniosos y para la sofistería
 
 de la incredulidad. No entren en argumentos, sino demuestren el Evangelio en la
 
-prctica. Alguien dir que aquel bote salvavidas que est por all no tiene el
+práctica. Alguien dirá que aquel bote salvavidas que está por allá no tiene el
 
 color adecuado. Veo a un grupo de hombres que participa en el rescate de aquel
 
-otro barco que se est hundiendo; sus marineros no pueden sostener el esfuerzo
+otro barco que se está hundiendo; sus marineros no pueden sostener el esfuerzo
 
-por mucho tiempo. Vamos, buenos amigos, no se queden inmviles debatiendo
+por mucho tiempo. Vamos, buenos amigos, no se queden inmóviles debatiendo
 
-acerca del bote salvavidas, abrdenlo, vayan al barco que naufraga, suban a sus
+acerca del bote salvavidas, abórdenlo, vayan al barco que naufraga, suban a sus
 
-hombres a bordo y triganlos a la costa. Hurra! Ya estn aqu! No es esa la
+hombres a bordo y tráiganlos a la costa. ˇHurra! ˇYa están aquí! żNo es esa la
 
-mejor respuesta a cualquier objecin? Helos ah! Si nos dicen que el Evangelio
+mejor respuesta a cualquier objeción? ˇHelos ahí! Si nos dicen que el Evangelio
 
-que predicamos no es verdadero, sealamos a las muchas personas presentes que
+que predicamos no es verdadero, seńalamos a las muchas personas presentes que
 
-fueron rescatadas del vicio y liberadas de la desesperacin, que fueron
+fueron rescatadas del vicio y liberadas de la desesperación, que fueron
 
 llevadas a la luz, a la vida y a la santidad, que constituyen pruebas
 
-fidedignas de que el Evangelio es divino. All estn! Hechos, hechos, hechos,
+fidedignas de que el Evangelio es divino. ˇAllí están! Hechos, hechos, hechos,
 
 esas son las respuestas de Dios. El noble hidalgo fue silenciado en la muerte
 
@@ -954,49 +954,49 @@ III.
 
 En
 
-tercer lugar, nuestro texto nos ensea EL CASTIGO ASIGNADO A
+tercer lugar, nuestro texto nos enseńa EL CASTIGO ASIGNADO A
 
 LA INCREDULIDAD.
 
 Se
 
-le prescribe a la incredulidad que ver con sus ojos lo que no podr disfrutar.
+le prescribe a la incredulidad que verá con sus ojos lo que no podrá disfrutar.
 
-Esto se cumple siempre, si bien se cumple de diferentes maneras. El incrdulo
+Esto se cumple siempre, si bien se cumple de diferentes maneras. El incrédulo
 
 dice que no ha de creer lo que no pueda ver; la respuesta de Dios es que
 
-no gozar de lo que ve.
+no gozará de lo que ve.
 
-All estaba la
+Allí estaba la
 
-harina y all estaba la cebada; el hidalgo pudo ver esas cosas, pero no pudo
+harina y allí estaba la cebada; el hidalgo pudo ver esas cosas, pero no pudo
 
-disfrutarlas. Los incrdulos no disfrutan realmente las cosas de esta vida. Un
+disfrutarlas. Los incrédulos no disfrutan realmente las cosas de esta vida. Un
 
-gran nmero de ellos descubren que la riqueza no les produce satisfaccin; sus
+gran número de ellos descubren que la riqueza no les produce satisfacción; sus
 
 riquezas exteriores no pueden esconder su pobreza interior. A muchos seres
 
-humanos les es dado tener todo lo que su corazn pudiera desear y, sin embargo,
+humanos les es dado tener todo lo que su corazón pudiera desear y, sin embargo,
 
-no les es dado tener lo que su corazn verdaderamente desea. Tienen todo excepto
+no les es dado tener lo que su corazón verdaderamente desea. Tienen todo excepto
 
 el contentamiento. Si no quisieras aceptar en fe los dones espirituales que
 
-Dios promete, entonces te seducirn los dones temporales que el mundo promete;
+Dios promete, entonces te seducirán los dones temporales que el mundo promete;
 
-comers pero no quedars satisfecho, tendrs pero no te bastar; gastars tu
+comerás pero no quedarás satisfecho, tendrás pero no te bastará; gastarás tu
 
 dinero en lo que no es pan, y tu trabajo en lo que no satisface. Si no quieres
 
-tener las cosas invisibles, las cosas visibles se convertirn en meras sombras
+tener las cosas invisibles, las cosas visibles se convertirán en meras sombras
 
 para ti. Este es uno de los castigos de la incredulidad.
 
 Otro castigo es este: en
 
-conexin con las cosas espirituales, siendo incrdulos, los hombres estn a
+conexión con las cosas espirituales, siendo incrédulos, los hombres están a
 
 menudo
 
@@ -1006,17 +1006,17 @@ corazones siguen siendo inconversos.
 
 Ven lo suficiente de la obra de Dios
 
-como para saber que el Seor es Dios y que Cristo es un Salvador, que la fe
+como para saber que el Seńor es Dios y que Cristo es un Salvador, que la fe
 
-obtiene el perdn y que el Espritu Santo renueva el corazn. Saben todas esas
+obtiene el perdón y que el Espíritu Santo renueva el corazón. Saben todas esas
 
 cosas y con todo nunca las saborean. Son tan ortodoxos como sea posible serlo
 
-con respecto a su credo, pero su corazn est vaco. El agua viva fluye junto a
+con respecto a su credo, pero su corazón está vacío. El agua viva fluye junto a
 
 sus labios, pero cuando se inclinan para beberla, se aparta igual que en la
 
-antigua fbula de Tntalo.
+antigua fábula de Tántalo.
 
 Frecuentemente
 
@@ -1028,179 +1028,179 @@ Su esposa ha encontrado la paz, mas ellos no;
 
 su amado hijo ha sido convertido, mas ellos no; el hermano ha visto a su
 
-hermana regocijndose en el Seor, pero l desconoce un gozo de esa naturaleza;
+hermana regocijándose en el Seńor, pero él desconoce un gozo de esa naturaleza;
 
 la hermana ha visto a su hermana aferrarse a Cristo pero ella misma nunca lo ha
 
-hecho. Esto hace que perderse de la bendicin sea una circunstancia mucho ms
+hecho. Esto hace que perderse de la bendición sea una circunstancia mucho más
 
-infeliz, pues es terrible estarse muriendo de hambre cuando todos los dems
+infeliz, pues es terrible estarse muriendo de hambre cuando todos los demás
 
 han
 
-recibido su alimento. Yo no habra querido estar en el lugar
+recibido su alimento. Yo no habría querido estar en el lugar
 
-de aquel prncipe ni por todo el mundo. Vio a todo el pueblo satisfecho pero l
+de aquel príncipe ni por todo el mundo. Vio a todo el pueblo satisfecho pero él
 
 mismo no fue capaz de participar de ello. Lo mismo sucede con algunos de
 
 ustedes.
 
-Saben ustedes que esto
+żSaben ustedes que esto
 
-conducir
+conducirá
 
 a una eterna tortura?
 
 Pues,
 
-de acuerdo a la propia descripcin de Cristo, los incrdulos en el infierno mirarn
+de acuerdo a la propia descripción de Cristo, los incrédulos en el infierno mirarán
 
-a lo alto y vern a Lzaro en el seno de Abraham, pero ellos mismos sern
+a lo alto y verán a Lázaro en el seno de Abraham, pero ellos mismos serán
 
-echados fuera. ste ha de ser seguramente uno de los infiernos del infierno:
+echados fuera. Éste ha de ser seguramente uno de los infiernos del infierno:
 
-ver el cielo pero que una gran sima se interponga entre ustedes y l.
+ver el cielo pero que una gran sima se interponga entre ustedes y él.
 
-Ustedes recibirn cosas
+Ustedes recibirán cosas
 
-buenas si le creen a su Dios, pero si rehsan creer en l, no las recibirn. El
+buenas si le creen a su Dios, pero si rehúsan creer en Él, no las recibirán. El
 
 castigo es natural, justo y apropiado. Si ciertas personas creen que puede
 
-encontrarse oro en una mina pero otras no lo creyeren, no es justo que si lo
+encontrarse oro en una mina pero otras no lo creyeren, żno es justo que si lo
 
-descubren, quienes creyeron que haba oro y lo buscaron deban quedarse con l?
+descubren, quienes creyeron que había oro y lo buscaron deban quedarse con él?
 
-Debera venir tambin por su participacin quien ridiculiz la idea? Nadie
+żDebería venir también por su participación quien ridiculizó la idea? Nadie
 
-estara de acuerdo con eso. Lo mnimo que puede esperarse de nosotros es que
+estaría de acuerdo con eso. Lo mínimo que puede esperarse de nosotros es que
 
-creamos en Dios, pues l no puede mentir, y si rehusamos confiar en la palabra
+creamos en Dios, pues Él no puede mentir, y si rehusamos confiar en la palabra
 
-de Dios no podemos pensar que sea una dura medida que la bendicin sea
+de Dios no podemos pensar que sea una dura medida que la bendición sea
 
-retenida. Si vosotros no creyereis, de cierto no permaneceris.
+retenida. ‘Si vosotros no creyereis, de cierto no permaneceréis’.
 
-Oh incrdulo, tu porcin
+Oh incrédulo, tu porción
 
-ser saber que Dios dice la verdad, pero sin poder conocer nunca esa verdad en
+será saber que Dios dice la verdad, pero sin poder conocer nunca esa verdad en
 
-tu propia alma; saber que l es clemente, saber que l est dispuesto a
+tu propia alma; saber que Él es clemente, saber que Él está dispuesto a
 
 perdonar, saber que alza a los pecadores a Su propio trono por medio de la
 
 sangre del Cordero, y, sin embargo, no ser perdonado nunca, no ser salvado
 
-nunca, no ser glorificado nunca. Me temo que hay algunos en esta casa de oracin
+nunca, no ser glorificado nunca. Me temo que hay algunos en esta casa de oración
 
-que van indefectible y directamente a una tal condenacin. No me refiero a
+que van indefectible y directamente a una tal condenación. No me refiero a
 
-extraos que han venido aqu una vez, sino que me refiero a quienes han
+extrańos que han venido aquí una vez, sino que me refiero a quienes han
 
-asistido aqu durante muchos aos pero que nunca han credo. El prximo mes t
+asistido aquí durante muchos ańos pero que nunca han creído. El próximo mes tú
 
-vers que la gracia de Dios estar obrando en el sur de Londres, pero no se
+verás que la gracia de Dios estará obrando en el sur de Londres, pero no se
 
-acercar a ti; t eres un incrdulo y lo has sido durante muchos aos; no hay
+acercará a ti; tú eres un incrédulo y lo has sido durante muchos ańos; no hay
 
-razn para esperar que seas cambiado alguna vez, pues las probabilidades
+razón para esperar que seas cambiado alguna vez, pues las probabilidades
 
-apuntan a que seguirs siendo tal como eres. La lluvia caer a tu alrededor,
+apuntan a que seguirás siendo tal como eres. La lluvia caerá a tu alrededor,
 
-pero nunca sobre ti; el suelo del granero quedar mojado, pero tu velln
+pero nunca sobre ti; el suelo del granero quedará mojado, pero tu vellón
 
-permanecer seco. Que Dios nos conceda que no suceda as, si bien ha de temerse
+permanecerá seco. Que Dios nos conceda que no suceda así, si bien ha de temerse
 
-que as ser.
+que así será.
 
 Ahora, a manera de
 
 cierre, quiero aplicar mi tema a las especiales circunstancias en las que nos
 
-encontramos hoy, al comienzo de los servicios especiales que tendrn lugar en
+encontramos hoy, al comienzo de los servicios especiales que tendrán lugar en
 
-el sur de Londres. Queridos amigos, yo sinceramente confo que todos los que
+el sur de Londres. Queridos amigos, yo sinceramente confío que todos los que
 
-residen en esta regin y que aman al Seor, aportarn sus mejores energas para
+residen en esta región y que aman al Seńor, aportarán sus mejores energías para
 
-lograr que este movimiento sea un xito. Quiero decir, principalmente, elevando
+lograr que este movimiento sea un éxito. Quiero decir, principalmente, elevando
 
-oraciones pidiendo la bendicin, asistiendo a todas las reuniones que sean
+oraciones pidiendo la bendición, asistiendo a todas las reuniones que sean
 
-convocadas por la conferencia cristiana, esforzndose por invitar a los amigos,
+convocadas por la conferencia cristiana, esforzándose por invitar a los amigos,
 
 a sus hijos y a sus vecinos si son inconversos para que asistan a escucharlos, y
 
-haciendo todo lo que puedan para ganar almas, segn los capacite el Espritu
+haciendo todo lo que puedan para ganar almas, según los capacite el Espíritu
 
 Santo. Pudiera ser muy posible que algunos de ustedes no quieran involucrarse.
 
-Ahora, yo no puedo condenar a ningn hermano por hacer eso si sus razones son
+Ahora, yo no puedo condenar a ningún hermano por hacer eso si sus razones son
 
-tales que satisfagan su conciencia, pues no hay ningn movimiento, por
+tales que satisfagan su conciencia, pues no hay ningún movimiento, por
 
-excelente que sea, que no est expuesto a crticas desde algn punto u otro, y
+excelente que sea, que no esté expuesto a críticas desde algún punto u otro, y
 
-si las crticas de un hermano son concienzudas y honestas, no me corresponde a
+si las críticas de un hermano son concienzudas y honestas, no me corresponde a
 
-m juzgarlo ni por un instante. Pero me gustara hacerles esta pregunta a
+mí juzgarlo ni por un instante. Pero me gustaría hacerles esta pregunta a
 
-algunos: no piensas que hay incredulidad en el fondo de casi todas las
+algunos: żno piensas que hay incredulidad en el fondo de casi todas las
 
 objeciones formuladas en contra de esta obra? Es algo inusual, y hay
 
-excitacin, por qu no? Alguien dice que no ve ningn talento notable en los
+excitación, żpor qué no? Alguien dice que no ve ningún talento notable en los
 
-dos hermanos, y qu? Yo estoy seguro de que los hermanos no presumen de ningn
+dos hermanos, ży qué? Yo estoy seguro de que los hermanos no presumen de ningún
 
-talento de ningn tipo, pues nunca en mi vida he visto hombres ms modestos que
+talento de ningún tipo, pues nunca en mi vida he visto hombres más modestos que
 
-ellos, y esa es una razn por la que Dios los bendice tanto. Por un motivo u
+ellos, y esa es una razón por la que Dios los bendice tanto. Por un motivo u
 
-otro ciertas buenas gentes se mantienen alejadas, pero no equivale todo eso a
+otro ciertas buenas gentes se mantienen alejadas, żpero no equivale todo eso a
 
 incredulidad? Nuestros amigos en Glasgow, Edimburgo y Newcastle dan un
 
 testimonio indisputable del hecho de que las almas fueron salvadas en grandes
 
-nmeros, y de que las iglesias fueron edificadas y que mejor el tono del sentimiento
+números, y de que las iglesias fueron edificadas y que mejoró el tono del sentimiento
 
 religioso. No podemos dudar del testimonio de unos hermanos fieles y bien
 
-instruidos, y yo pienso que si nos abstenemos se reducira a esto: que no
+instruidos, y yo pienso que si nos abstenemos se reduciría a esto: que no
 
 creemos ahora en la obra de Dios en gran escala mediante una simple
 
-instrumentalidad. Por mi parte, me gustara plantermelo as: si me abstengo
+instrumentalidad. Por mi parte, me gustaría planteármelo así: si me abstengo
 
-ahora podra justificarme cuando est en mi lecho mortuorio? Aqu estn dos
+ahora żpodría justificarme cuando esté en mi lecho mortuorio? Aquí están dos
 
-hombres que se han consagrado durante meses a la predicacin del Evangelio sin
+hombres que se han consagrado durante meses a la predicación del Evangelio sin
 
-ningn otro propsito en el mundo que ganar almas para Cristo. Una calumnia ms
+ningún otro propósito en el mundo que ganar almas para Cristo. Una calumnia más
 
-vil que aseverar que ellos tienen algn motivo egosta no brot nunca ni
+vil que aseverar que ellos tienen algún motivo egoísta no brotó nunca ni
 
-siquiera de labios del propio Satans. El nico designio y propsito que tienen
+siquiera de labios del propio Satanás. El único designio y propósito que tienen
 
-es la gloria de Dios. Buscan conversiones, nicamente conversiones a Cristo; y
+es la gloria de Dios. Buscan conversiones, únicamente conversiones a Cristo; y
 
-hermanos, aunque hubiese mil fallas en ellos, quin soy yo y quines son
+hermanos, aunque hubiese mil fallas en ellos, żquién soy yo y quiénes son
 
 ustedes para juzgarlos, y decir que no los ayudaremos en tal obra y en tales
 
 objetivos?
 
-Hermano, tienes la
+Hermano, żtienes la
 
-intencin de darle gloria a Dios? Yo tambin. Quieres la salvacin de las
+intención de darle gloria a Dios? Yo también. żQuieres la salvación de las
 
-almas? Yo tambin. Hermano, predicas la salvacin por medio de la sangre
+almas? Yo también. Hermano, żpredicas la salvación por medio de la sangre
 
-preciosa? Yo tambin. Hermano, crees en la regeneracin por el poder del
+preciosa? Yo también. Hermano, żcrees en la regeneración por el poder del
 
-Espritu Santo? Yo tambin. Les dices a los pecadores que crean y vivan? Eso
+Espíritu Santo? Yo también. żLes dices a los pecadores que crean y vivan? Eso
 
 es exactamente lo que yo les estoy diciendo; y si estamos de acuerdo en todo
 
@@ -1210,77 +1210,77 @@ abstenga de participar a menos que tenga que hacer tanto trabajo propio que no
 
 tenga tiempo disponible, en cuyo caso al menos debe desearles que les vaya muy
 
-bien. Si no ayudamos ahora podramos vivir para lamentarlo. Por una razn u
+bien. Si no ayudamos ahora podríamos vivir para lamentarlo. Por una razón u
 
-otra las multitudes estn anuentes a or el Evangelio y pareciera haber unidad
+otra las multitudes están anuentes a oír el Evangelio y pareciera haber unidad
 
-entre los cristianos respecto a eso. No importa cmo suceda, aceptmoslo de
+entre los cristianos respecto a eso. No importa cómo suceda, aceptémoslo de
 
-Dios y usmoslo. Hay una marea que, tomada en su parte alta, conduce a la
+Dios y usémoslo. Hay una marea que, tomada en su parte alta, conduce a la
 
 fortuna tanto en las cosas celestiales como en las seculares, y hemos de tomar
 
-esta marea, de la manera que nos la enve, y hemos de usarla para nuestro ptimo
+esta marea, de la manera que nos la envíe, y hemos de usarla para nuestro óptimo
 
-bien; pues si no lo hacemos, si la incredulidad nos mantiene alejados, podra
+bien; pues si no lo hacemos, si la incredulidad nos mantiene alejados, podría
 
-sucedernos lo mismo que le sucedi a Moiss, por su incredulidad: que nunca
+sucedernos lo mismo que le sucedió a Moisés, por su incredulidad: que nunca
 
-entr en la tierra prometida; la vio, pero no entr en ella; y pudiramos ver,
+entró en la tierra prometida; la vio, pero no entró en ella; y pudiéramos ver,
 
-y verlo con alegra, que Dios bendice a la iglesia, pero podramos quedarnos
+y verlo con alegría, que Dios bendice a la iglesia, pero podríamos quedarnos
 
-sin participar de la bendicin en nuestra propia iglesia. Deseamos ver racimos
+sin participar de la bendición en nuestra propia iglesia. żDeseamos ver racimos
 
-de uvas que vienen de un Escol al que no podemos entrar? Podra sucedernos como
+de uvas que vienen de un Escol al que no podemos entrar? Podría sucedernos como
 
-le sucedi incluso a este prncipe, que Dios considerara apropiado quitarnos
+le sucedió incluso a este príncipe, que Dios considerara apropiado quitarnos
 
 del camino. No me consideren supersticioso pero yo he observado que cuando
 
 alguien verdaderamente bueno se ha puesto en el camino de Dios, Dios ha acabado
 
-pronto con l; o bien lo ha llevado a casa o bien lo ha hecho a un lado por una
+pronto con él; o bien lo ha llevado a casa o bien lo ha hecho a un lado por una
 
-enfermedad. Si no quieren ayudar y se convierten en un obstculo, sern
+enfermedad. Si no quieren ayudar y se convierten en un obstáculo, serán
 
-arrumbados, y tal vez su propia utilidad llegar a su fin prematuramente. O
+arrumbados, y tal vez su propia utilidad llegará a su fin prematuramente. O
 
-podra suceder -y sera lo peor de todo- que si rehusramos prestar ayuda habiendo
+podría suceder -y sería lo peor de todo- que si rehusáramos prestar ayuda habiendo
 
-venido el tiempo de bendicin, permaneceremos entre nuestros hermanos cristianos,
+venido el tiempo de bendición, permaneceremos entre nuestros hermanos cristianos,
 
-pero durante muchos aos seremos miserables e intiles. Una bendicin se
+pero durante muchos ańos seremos miserables e inútiles. Una bendición se
 
-avecinaba pero t no la quisiste, as que el Seor la envi a otro lugar, y t
+avecinaba pero tú no la quisiste, así que el Seńor la envió a otro lugar, y tú
 
-sers un cristiano que duda, alguien miserable, mordaz, criticn y reparn en
+serás un cristiano que duda, alguien miserable, mordaz, criticón y reparón en
 
-tanto que vivas. No probars nunca los bocadillos exquisitos pero estars
+tanto que vivas. No probarás nunca los bocadillos exquisitos pero estarás
 
-sealando siempre los errores de la cocina. Te quedars sin deleitarte nunca en
+seńalando siempre los errores de la cocina. Te quedarás sin deleitarte nunca en
 
-el gozo de tu Seor y no hars que tus arpas resuenen de gozo por los
+el gozo de tu Seńor y no harás que tus arpas resuenen de gozo por los
 
-convertidos. Permanecers haciendo el papel del hermano mayor que estaba
+convertidos. Permanecerás haciendo el papel del hermano mayor que estaba
 
-enojado y no quera entrar, aunque era su propio hermano el que haba regresado
+enojado y no quería entrar, aunque era su propio hermano el que había regresado
 
-a casa y era su propio padre el que haba hecho matar el becerro gordo. Que
+a casa y era su propio padre el que había hecho matar el becerro gordo. ˇQue
 
-Dios nos salve de esto, y haga que desde este da nos libremos de la incredulidad
+Dios nos salve de esto, y haga que desde este día nos libremos de la incredulidad
 
-y prosigamos regocijndonos en el Seor!
+y prosigamos regocijándonos en el Seńor!
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: 2 Reyes 7.
+del sermón: 2 Reyes 7.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 18/Abril/2012
 

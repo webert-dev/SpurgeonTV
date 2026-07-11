@@ -1,12 +1,12 @@
 # Sermón 3539 | Sermón 3539
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Un Ruego Excelente
 
 NO. 3539
 
-SERMN PREDICADO LA NOCHE DEL DOMINGO 24
+SERMÓN PREDICADO LA NOCHE DEL DOMINGO 24
 
 DE SEPTIEMBRE DE 1871
 
@@ -14,7 +14,7 @@ POR CHARLES HADDON
 
 SPURGEON
 
-EN EL TABERNCULO METROPOLITANO,
+EN EL TABERNÁCULO METROPOLITANO,
 
 NEWINGTON, LONDRES
 
@@ -22,49 +22,49 @@ Y PUBLICADO EL JUEVES 23 DE NOVIEMBRE DE
 
 1916.
 
-Acurdate de m, oh Jehov, segn tu
+“Acuérdate de mí, oh Jehová, según tu
 
-benevolencia para con tu pueblo; vistame con tu salvacin. Salmo 106: 4.
+benevolencia para con tu pueblo; visítame con tu salvación”. Salmo 106: 4.
 
-Cun benevolente de Su parte es que Dios que
+ˇCuán benevolente de Su parte es que Dios que
 
 formule oraciones para nosotros! Las pone en nuestra boca. Nadie necesita
 
-decir: yo no puedo orar porque soy incapaz de formar una frase. Aqu tenemos
+decir: “yo no puedo orar porque soy incapaz de formar una frase”. Aquí tenemos
 
-una oracin que ya est preparada, que sera adecuada para el labio de
+una oración que ya está preparada, que sería adecuada para el labio de
 
-cualquier persona presente, ya sea de alta o de baja posicin, rica o pobre,
+cualquier persona presente, ya sea de alta o de baja posición, rica o pobre,
 
-santa o pecadora. Y es todava una mayor misericordia que el Dios que nos da as
+santa o pecadora. Y es todavía una mayor misericordia que el Dios que nos da así
 
-la forma de orar, espere darnos el espritu de oracin, pues el Espritu nos
+la forma de orar, espere darnos el espíritu de oración, pues “el Espíritu nos
 
-ayuda en nuestra debilidad. En vista de que nosotros no sabemos pedir como
+ayuda en nuestra debilidad”. En vista de que nosotros no sabemos pedir como
 
-conviene, l conforme a la voluntad de Dios intercede por los santos.
+conviene, Él “conforme a la voluntad de Dios intercede por los santos”.
 
-Cun dulce bendicin es que l les d la
+ˇCuán dulce bendición es que Él les dé la
 
-oracin y les d el poder para rezarla! Pero eso no es todo, pues cuando la
+oración y les dé el poder para rezarla! Pero eso no es todo, pues cuando la
 
-oracin es presentada debidamente en la tierra, alguien espera all arriba, con
+oración es presentada debidamente en la tierra, alguien espera allá arriba, con
 
-un odo atento y una pronta intercesin, y toma la plegaria, la presenta
+un oído atento y una pronta intercesión, y toma la plegaria, la presenta
 
 delante del trono de Su Padre una vez que ha sido perfeccionada por Su
 
-sabidura y perfumada por Su mrito, y entonces el Padre sonre, y la oracin
+sabiduría y perfumada por Su mérito, y entonces el Padre sonríe, y la oración
 
-es respondida con abundante bendicin.
+es respondida con abundante bendición.
 
-Mi ruego esta noche es que muchas personas aqu
+Mi ruego esta noche es que muchas personas aquí
 
 presentes tomen las palabras de nuestro texto y las pongan sobre sus almas como
 
-carbones encendidos, y que luego el incienso humeante de la santa oracin se
+carbones encendidos, y que luego el incienso humeante de la santa oración se
 
-eleve al cielo y que el Seor perciba en ella, por medio de Jesucristo, un
+eleve al cielo y que el Seńor perciba en ella, por medio de Jesucristo, un
 
 grato olor de paz.
 
@@ -72,17 +72,17 @@ Esta noche vamos a considerar nuestro texto bajo
 
 tres aspectos: primero, como
 
-una oracin
+una oración
 
 adecuada para todo cristiano;
 
 en segundo lugar, como
 
-una peticin apropiada para las almas angustiadas;
+una petición apropiada para las almas angustiadas;
 
 me refiero a
 
-cristianos que estn desanimados y han perdido sus evidencias; y, en tercer
+cristianos que están desanimados y han perdido sus evidencias; y, en tercer
 
 lugar, como
 
@@ -92,77 +92,79 @@ pecador que ha despertado y que busca.
 
 Mis amados hermanos en la fe,
 
-sganme entonces con el primer encabezado, mientras consideramos:
+síganme entonces con el primer encabezado, mientras consideramos:
 
 I.
 
-CUN ADECUADA ES ESTA ORACIN PARA CADA UNO DE LOS
+CUÁN ADECUADA ES ESTA ORACIÓN PARA CADA UNO DE LOS
 
-QUE ESTAMOS EN CRISTO JESS.
+QUE ESTAMOS EN CRISTO JESÚS.
 
-Ustedes observarn que
+Ustedes observarán que
 
-quien ora aqu, no est pidiendo un favor excepcional.
+quien ora aquí, no está pidiendo un favor excepcional.
 
-Dice: Acurdate
+Dice: “Acuérdate
 
-de m segn tu benevolencia para con tu pueblo. No es una oracin ambiciosa
+de mí… según tu benevolencia para con tu pueblo”. No es una oración ambiciosa
 
-en que pida ser distinguido ms all que el resto de la familia amada. No es
+en que pida ser distinguido más allá que el resto de la familia amada. No es
 
-una oracin de alguien descontento que busque recibir alguna bendicin especial
+una oración de alguien descontento que busque recibir alguna bendición especial
 
 que le es negada al resto de la hermandad cristiana. Es un ruego que pide
 
-bendiciones comunes a todos los santos. Acurdate de m segn tu benevolencia
+bendiciones comunes a todos los santos. “Acuérdate de mí… según tu benevolencia
 
-para con tu pueblo.
+para con tu pueblo”.
 
-Y sto nos sirve de leccin para nuestras
+Y ésto nos sirve de lección para nuestras
 
 oraciones. Por ejemplo, la naturaleza me sugiere que debo orar para ser salvado
 
 de todo dolor corporal, pero ese no es un favor que Dios conceda necesariamente
 
-a Su pueblo. Muchos individuos de Su pueblo sufren aqu dolores agudsimos,
+a Su pueblo. Muchos individuos de Su pueblo sufren aquí dolores agudísimos,
 
-algunos en las torturas del martirio y otros cuando l los toca con alguna
+algunos en las torturas del martirio y otros cuando Él los toca con alguna
 
-enfermedad natural. l no ha tenido nunca el propsito de librar del dolor a Su
+enfermedad natural. Él no ha tenido nunca el propósito de librar del dolor a Su
 
-pueblo. l tuvo un Hijo sin pecado, pero nunca tuvo un Hijo que no sufriera. El
+pueblo. Él tuvo un Hijo sin pecado, pero nunca tuvo un Hijo que no sufriera. El
 
-Ser perfecto, el Primognito, tena que experimentar que Sus manos y pies
+Ser perfecto, el Primogénito, tenía que experimentar que Sus manos y pies
 
-fueran perforados, y cada nervio deba convertirse en el instrumento de una
+fueran perforados, y cada nervio debía convertirse en el instrumento de una
 
-renovada agona para l.
+renovada agonía para Él.
 
-Por tanto, yo no me atrevera a orar as: Seor,
+Por tanto, yo no me atrevería a orar así: “Seńor,
 
-lbrame de todo dolor fsico. Por qu habra de pedirle yo aquello que l no
+líbrame de todo dolor físico”. żPor qué habría de pedirle yo aquello que Él no
 
-ha concedido al resto de Su pueblo? Es ms, si hubiese una copa en la mesa que
+ha concedido al resto de Su pueblo? Es más, si hubiese una copa en la mesa que
 
-fuera amarga, y l la destinara para los hijos, quiero recibir mi parte y con
+fuera amarga, y Él la destinara para los hijos, quiero recibir mi parte y con
 
 ella, Su amor.
 
 Tampoco tengo derecho alguno de pedirle a Dios
 
-que me preserve en riquezas, o en una posicin cmoda o que me libre de la
+que me preserve en riquezas, o en una posición cómoda o que me libre de la
 
-pobreza. Yo podra pedirle eso, pero siempre ha de ser con una completa
+pobreza. Yo podría pedirle eso, pero siempre ha de ser con una completa
 
-sumisin a la voluntad divina, pues quin soy yo para que no deba ser pobre?
+sumisión a la voluntad divina, pues żquién soy yo para que no deba ser pobre?
 
-Personas mucho mejores que yo han sido pobres, ms pobres que la probabilidad
+Personas mucho mejores que yo han sido pobres, más pobres que la probabilidad
 
-que tengo de ser pobre. Por qu habra de esperar ir al cielo por un camino
+que tengo de ser pobre. żPor qué habría de esperar ir al cielo por un camino
 
 allanado y cubierto de hierba, cuando otros han tenido que pisar pedernales que
 
 cortaban sus pies?
+
+ż
 
 He de ser
 
@@ -182,71 +184,71 @@ por sangrientos mares
 
 ?
 
-El deseo de escapar de toda forma de tribulacin
+El deseo de escapar de toda forma de tribulación
 
-es natural en nosotros, pero que lo convirtamos en oracin, eso no es un
+es natural en nosotros, pero que lo convirtamos en oración, eso no es un
 
-dictado de la gracia. No; contntense con la suerte comn del pueblo de Dios. Habra
+dictado de la gracia. No; conténtense con la suerte común del pueblo de Dios. “żHabría
 
-de ser ms el discpulo que su Maestro? Habra de ser ms el siervo que su
+de ser más el discípulo que su Maestro? żHabría de ser más el siervo que su
 
-Seor? Debera bastarles esto: Padre, est yo sano o enfermo, sea yo rico o
+Seńor?” Debería bastarles esto: “Padre, esté yo sano o enfermo, sea yo rico o
 
-pobre, sea yo honrado o despreciado, extindeme el favor que concedes a Tu
+pobre, sea yo honrado o despreciado, extiéndeme el favor que concedes a Tu
 
-pueblo; y mis mayores deseos no podran pedir ms.
+pueblo; y mis mayores deseos no podrían pedir más”.
 
-Pero, por favor, a continuacin observen que
+Pero, por favor, a continuación observen que
 
-as como esta oracin no pide nada ms que
+así como esta oración no pide nada más que
 
-la bendicin comn, tampoco se contentara con nada que fuera menos.
+la bendición común, tampoco se contentaría con nada que fuera menos.
 
-Extindeme a
+“Extiéndeme a
 
-m ese favor, Seor,
+mí ese favor, Seńor,
 
 Que concedes
 
-a Tu pueblo.
+a Tu pueblo”.
 
 Hermanos, el favor solicitado es el mismo favor
 
-que le es extendido al pueblo, pues nada que no fuera eso nos bastara. Hermanos
+que le es extendido al pueblo, pues nada que no fuera eso nos bastaría. Hermanos
 
-mos, yo deseo y s que tambin ustedes lo desean, recibir de Dios ese favor
+míos, yo deseo y sé que también ustedes lo desean, recibir de Dios ese favor
 
 que es eterno, ese favor que no tiene principio, ese sempiterno favor que
 
-estaba en la mente divina antes de que la tierra existiera. Tambin quieren
+estaba en la mente divina antes de que la tierra existiera. También quieren
 
 recibir un favor inmutable, el favor que no cambia nunca. Aunque nosotros
 
-cambiemos, el favor sigue siendo el mismo. Qu haran si el favor de Dios
+cambiemos, el favor sigue siendo el mismo. żQué harían si el favor de Dios
 
-fuera cambiante? De qu nos servira Su amor, si ese amor pudiera ir y venir, si
+fuera cambiante? żDe qué nos serviría Su amor, si ese amor pudiera ir y venir, si
 
-pudiera entregarse algunas veces y pudiera suprimirse despus? Necesitan un
+pudiera entregarse algunas veces y pudiera suprimirse después? Necesitan un
 
-favor inmutable. Y yo s que necesitan un favor ilimitado, pues sus necesidades
+favor inmutable. Y yo sé que necesitan un favor ilimitado, pues sus necesidades
 
 son ilimitadas. Necesitan el amor de Cristo que excede a todo conocimiento; necesitan
 
-ese amor en todas sus cimas y sus simas; necesitan el propio corazn de Dios;
+ese amor en todas sus cimas y sus simas; necesitan el propio corazón de Dios;
 
-necesitan Sus entraas compasivas; necesitan a un Salvador que sea uno con
+necesitan Sus entrańas compasivas; necesitan a un Salvador que sea uno con
 
-ustedes y ustedes uno con l. No aceptaran ser disuadidos con una corona; no
+ustedes y ustedes uno con Él. No aceptarían ser disuadidos con una corona; no
 
-aceptaran ser disuadidos con un imperio, o con todo lo que la tierra considera
+aceptarían ser disuadidos con un imperio, o con todo lo que la tierra considera
 
-bueno o grande. No necesitan ms, pero tampoco necesitan menos que ese favor que
+bueno o grande. No necesitan más, pero tampoco necesitan menos que ese favor que
 
-el Seor extiende a los que ama, a los que son el objeto de Su sagrada
+el Seńor extiende a los que ama, a los que son el objeto de Su sagrada
 
-eleccin. Ni nada ms. Ni nada menos.
+elección. Ni nada más. Ni nada menos.
 
-A continuacin, deben notar en esta oracin,
+A continuación, deben notar en esta oración,
 
 aquello que es digno de ser especialmente observado: quien ruega en este caso,
 
@@ -260,7 +262,7 @@ Pueden observar que es sobre la base de la gracia. Pide
 
 poder recibir el favor que Dios concede a Su pueblo.
 
-Favor.
+“Favor”.
 
 Si hay alguien que es salvado pero ha sido un gran ofensor
 
@@ -270,337 +272,337 @@ que ser salvado por un favor.
 
 Querido amigo cristiano, quienquiera que seas, para
 
-ti no existe ninguna otra manera en que pudieras ser salvado, y t lo sabes. Cuando
+ti no existe ninguna otra manera en que pudieras ser salvado, y tú lo sabes. Cuando
 
-el Seor extiende las bendiciones del pacto a pecadores empedernidos, es claro
+el Seńor extiende las bendiciones del pacto a pecadores empedernidos, es claro
 
-que se las concede simplemente porque l tendr misericordia del que tenga
+que se las concede simplemente porque Él tendrá misericordia del que tenga
 
-misericordia. Y para ti, el favor viene tambin exactamente de la misma manera.
+misericordia. Y para ti, el favor viene también exactamente de la misma manera.
 
-Yo estoy seguro de que no te atreveras a pedirle a Dios que trate contigo
+Yo estoy seguro de que no te atreverías a pedirle a Dios que trate contigo
 
-sobre la base de mritos, pues cules eran sus mritos, oh, ustedes, santos,
+sobre la base de méritos, pues żcuáles eran sus méritos, oh, ustedes, santos,
 
-cules eran sus mritos sino merecer las llamas eternas? T no le pides al
+cuáles eran sus méritos sino merecer las llamas eternas? Tú no le pides al
 
-Seor que te extienda los tratos de la justicia, antes bien, le pides que te
+Seńor que te extienda los tratos de la justicia, antes bien, le pides que te
 
 recuerde con las compasiones de Su gracia.
 
-Hay algn cristiano profesante aqu, que rehse
+żHay algún cristiano profesante aquí, que rehúse
 
-estar en trminos como stos, y que no quiera venir a Dios para pedirle el
+estar en términos como éstos, y que no quiera venir a Dios para pedirle el
 
-favor de una misericordia gratuita? Entonces, amigo, t no eres un hijo de
+favor de una misericordia gratuita? Entonces, amigo, tú no eres un hijo de
 
-Dios. Sin importar en qu otras cosas difieran los hijos, nunca estn en
+Dios. Sin importar en qué otras cosas difieran los hijos, nunca están en
 
-desacuerdo en sto: que la salvacin es de Jehov, y que es por gracia y
+desacuerdo en ésto: que “la salvación es de Jehová”, y que es por gracia y
 
-solamente por gracia. Tu lugar no es el de un hijo, No
+solamente por gracia. Tu lugar no es el de un hijo, “No
 
 son
 
-sus hijos, a menos que consideres incluso el pan que comes o el
+sus hijos”, a menos que consideres incluso el pan que comes o el
 
 vestido que llevas como dones de la caridad divina, y a menos que encuentres
 
-toda tu esperanza de perdn del pecado y de la aceptacin al final, enteramente
+toda tu esperanza de perdón del pecado y de la aceptación al final, enteramente
 
-sobre la base del favor espontneo, inmerecido y gratuito del Seor tu Dios.
+sobre la base del favor espontáneo, inmerecido y gratuito del Seńor tu Dios.
 
 Bien, vean entonces que aquello que pedimos es
 
-lo que l otorga a todo Su pueblo, ni ms ni menos; y pedimos eso no como algo
+lo que Él otorga a todo Su pueblo, ni más ni menos; y pedimos eso no como algo
 
 que nos sea debido, sino como un favor, un favor por el cual le bendeciremos en
 
-la vida y le bendeciremos en la muerte, si l se dignara acordarse de concedernos
+la vida y le bendeciremos en la muerte, si Él se dignara acordarse de concedernos
 
 ese favor.
 
-Considerando todava nuestro texto como la
+Considerando todavía nuestro texto como la
 
-oracin del cristiano, quisiera observar que, de conformidad al texto, l desea
+oración del cristiano, quisiera observar que, de conformidad al texto, él desea
 
 que se den los mismos resultados
 
 que
 
-se dan en el caso de todo el pueblo de Dios, pues agrega: Vistame con tu
+se dan en el caso de todo el pueblo de Dios, pues agrega: “Visítame con tu
 
-salvacin.
+salvación”.
 
-Amados, el favor de Dios acaba en salvacin, y
+Amados, el favor de Dios acaba en salvación, y
 
-esa palabra: salvacin es un trmino muy amplio. Si leen el Salmo, vern que
+esa palabra: “salvación” es un término muy amplio. Si leen el Salmo, verán que
 
-el Salmista lo usa evidentemente, primero, en el sentido de liberacin. Los
+el Salmista lo usa evidentemente, primero, en el sentido de liberación. Los
 
-hijos de Israel llegaron al Mar Rojo y tenan miedo de ser destruidos all,
+hijos de Israel llegaron al Mar Rojo y tenían miedo de ser destruidos allí,
 
-pero Dios los condujo a travs de las profundidades como a travs del desierto.
+pero Dios los condujo a través de las profundidades como a través del desierto.
 
-Bien, entonces, cuando yo elevo esta oracin: Acurdate de m, oh Jehov,
+Bien, entonces, cuando yo elevo esta oración: “Acuérdate de mí, oh Jehová,
 
-segn tu benevolencia para con tu pueblo, quiero decir esto: Cuando me encuentre
+según tu benevolencia para con tu pueblo”, quiero decir esto: “Cuando me encuentre
 
-en cualquier angustia, te pido que me ayudes a atravesarla. As como T abriste
+en cualquier angustia, te pido que me ayudes a atravesarla. Así como Tú abriste
 
-un camino a travs del mar para Tu pueblo, en tiempos antiguos, as abre un
+un camino a través del mar para Tu pueblo, en tiempos antiguos, así abre un
 
-camino para m.
+camino para mí”.
 
-Oh, cun a menudo hace eso Dios por nosotros!
+ˇOh, cuán a menudo hace eso Dios por nosotros!
 
-Cuando pareciera que los obstculos son casi infranqueables cuando pareciera
+Cuando pareciera que los obstáculos son casi infranqueables –cuando pareciera
 
-que nuestro juicio nos falla y no podemos hacer nada ms- hemos estado prestos
+que nuestro juicio nos falla y no podemos hacer nada más- hemos estado prestos
 
-a decir: Ay, Seor!, qu haremos? Entonces nuestra condicin extrema ha
+a decir: “ˇAy, Seńor!, żqué haremos?” Entonces nuestra condición extrema ha
 
-sido la divina oportunidad, y a travs de las profundidades del mar, l ha
+sido la divina oportunidad, y a través de las profundidades del mar, Él ha
 
 conducido a Su regocijado pueblo.
 
-Entonces, la palabra salvacin, en el Salmo,
+Entonces, la palabra ‘salvación’, en el Salmo,
 
-incluye evidentemente en su significado, el perdn de los pecados, pues, cuando
+incluye evidentemente en su significado, el perdón de los pecados, pues, cuando
 
-lemos el Salmo, ustedes recordarn de qu modo son mencionados los pecados de
+leímos el Salmo, ustedes recordarán de qué modo son mencionados los pecados de
 
-Israel una y otra vez. Pero se agrega: Con todo, l miraba cuando estaban en
+Israel una y otra vez. Pero se agrega: “Con todo, él miraba cuando estaban en
 
-angustia, y oa su clamor. Entonces, si uso esta oracin, he de querer decir
+angustia, y oía su clamor”. Entonces, si uso esta oración, he de querer decir
 
-precisamente esto: Seor, T ests acostumbrado a perdonar a Tu pueblo.
+precisamente esto: “Seńor, Tú estás acostumbrado a perdonar a Tu pueblo.
 
-Perdname. T deshaces como una nube sus pecados. Borra los mos. Adems, T
+Perdóname. Tú deshaces como una nube sus pecados. Borra los míos. Además, Tú
 
-ayudas a Tus hijos a vencer sus pecados. Aydame; santifica mi espritu, mi alma
+ayudas a Tus hijos a vencer sus pecados. Ayúdame; santifica mi espíritu, mi alma
 
-y mi cuerpo. T preservas a Tu pueblo en la tentacin, y lo sacas de ella.
+y mi cuerpo. Tú preservas a Tu pueblo en la tentación, y lo sacas de ella.
 
-Benevolente Pastor, gurdame como a uno de Tu rebao. T salvas a Tus hijos en
+Benevolente Pastor, guárdame como a uno de Tu rebańo. Tú salvas a Tus hijos en
 
-la hora del gran peligro, y por eso como su da ser su fuerza. Oh!, infinito
+la hora del gran peligro, y por eso como su día será su fuerza. ˇOh!, infinito
 
-preservador de Tus amados, cbreme con Tus plumas, y bajo Tus alas permteme
+preservador de Tus amados, cúbreme con Tus plumas, y bajo Tus alas permíteme
 
-confiar. Que Tu verdad sea mi escudo y mi adarga!
+confiar. ˇQue Tu verdad sea mi escudo y mi adarga!”
 
-Yo pienso que esta es una oracin muy, muy
+Yo pienso que esta es una oración muy, muy
 
-dulce. Vistame con Tu salvacin cuando estoy en mi lecho dando vueltas de un
+dulce. “Visítame con Tu salvación cuando estoy en mi lecho dando vueltas de un
 
-lado a otro, y haz que me levante, si es Tu voluntad. Vistame cuando soy
+lado a otro, y haz que me levante, si es Tu voluntad. Visítame cuando soy
 
-calumniado, y cuando mi nombre es desechado como malo, y anima el corazn de Tu
+calumniado, y cuando mi nombre es desechado como malo, y anima el corazón de Tu
 
-siervo. Vistame cuando estoy en aguas profundas y los abismos me cubren, y cuando
+siervo. Visítame cuando estoy en aguas profundas y los abismos me cubren, y cuando
 
-me hundo en el profundo lodazal donde no hay ningn apoyo. Ven y demuestra Tu
+me hundo en el profundo lodazal donde no hay ningún apoyo. Ven y demuestra Tu
 
-poder salvador. Vistame a la hora de mi muerte. Cuando las glidas corrientes
+poder salvador. Visítame a la hora de mi muerte. Cuando las gélidas corrientes
 
-del ltimo ro me rodeen, vistame con Tu salvacin. Trata conmigo entonces como
+del último río me rodeen, visítame con Tu salvación. Trata conmigo entonces como
 
 has tratado con Tus santos siempre que han atravesado el valle de la sombra de
 
-muerte. Que Tu vara y Tu cayado me consuelen. Vistame con Tu salvacin.
+muerte. Que Tu vara y Tu cayado me consuelen. Visítame con Tu salvación”.
 
-Yo sugiero, hermanos mos cristianos, que esta
+Yo sugiero, hermanos míos cristianos, que esta
 
-oracin les puede servir mientras vivan, y les puede servir cuando mueran. Es
+oración les puede servir mientras vivan, y les puede servir cuando mueran. Es
 
-una oracin apropiada para decirla en la maana y en la noche, para los jvenes
+una oración apropiada para decirla en la mańana y en la noche, para los jóvenes
 
-y para los viejos, para los das de jbilo y para los das de desconsuelo.
+y para los viejos, para los días de júbilo y para los días de desconsuelo.
 
-Esta es una bendita oracin que debe estar a menudo en sus labios!
+ˇEsta es una bendita oración que debe estar a menudo en sus labios!
 
-Slo haremos una observacin ms sobre esta
+Sólo haremos una observación más sobre esta
 
-oracin en referencia al cristiano. Pueden observar que en todo momento
+oración en referencia al cristiano. Pueden observar que en todo momento
 
-se trata de una oracin personal.
+se trata de una oración personal.
 
 Nuestras
 
-oraciones no siempre han de ser personales. Nuestro Salvador no nos ense a
+oraciones no siempre han de ser personales. Nuestro Salvador no nos enseńó a
 
-decir: Padre
+decir: “Padre
 
-mo,
+mío”,
 
-sino Padre
+sino “Padre
 
 nuestro
 
-que ests en los cielos. Sin
+que estás en los cielos”. Sin
 
-embargo, a pesar de todo ello, quien no ora nunca por s mismo, en singular,
+embargo, a pesar de todo ello, quien no ora nunca por sí mismo, en singular,
 
-nunca or bien por los dems, en plural. Si nunca has dicho: Seor, acurdate
+nunca oró bien por los demás, en plural. Si nunca has dicho: “Seńor, acuérdate
 
 de
 
-m,
+mí”,
 
 no has llegado tan lejos como
 
-lleg el ladrn en la cruz. No ests calificado del todo para ir tan lejos como
+llegó el ladrón en la cruz. No estás calificado del todo para ir tan lejos como
 
-fue Abraham en el encinar de Mamre, cuando intercedi por otros. Aquel que
+fue Abraham en el encinar de Mamre, cuando intercedió por otros. Aquel que
 
-tiene el corazn ms grande debe verificar que su propia salvacin sea segura.
+tiene el corazón más grande debe verificar que su propia salvación sea segura.
 
-Entonces, querido amigo mo, cristiano
+Entonces, querido amigo mío, cristiano
 
-profesante, permteme que te pida que tomes la oracin en la primera persona
+profesante, permíteme que te pida que tomes la oración en la primera persona
 
-del singular, y digas: Seor, acurdate de m segn tu benevolencia para con
+del singular, y digas: “Seńor, acuérdate de mí según tu benevolencia para con
 
-tus elegidos. Yo elevo esa oracin. Si T me llamas, Seor, para ministrar a
+tus elegidos”. Yo elevo esa oración. Si Tú me llamas, Seńor, para ministrar a
 
-este gran pueblo, te pido que como sea mi da as sea mi fuerza. Como T has
+este gran pueblo, te pido que como sea mi día así sea mi fuerza. Como Tú has
 
-tratado con otros siervos tuyos que se encontraron en una posicin semejante,
+tratado con otros siervos tuyos que se encontraron en una posición semejante,
 
 trata conmigo de la misma manera.
 
-Ancianos y diconos, con su responsabilidad a
+Ancianos y diáconos, con su responsabilidad a
 
 sus espaldas, pidan que el Dios de Esteban y el Dios de Felipe
 
 sea
 
-con ustedes, y les extienda el favor que les extendi a ancianos
+con ustedes, y les extienda el favor que les extendió a ancianos
 
-y diconos en tiempos antiguos. Madres, padres, pidan la gracia que l da a los
+y diáconos en tiempos antiguos. Madres, padres, pidan la gracia que Él da a los
 
 padres cristianos. Hijos, siervos, pidan la gracia que acostumbra dar a
 
-aquellos de su misma condicin. Ustedes, que son ricos, pidan a menudo no ser
+aquellos de su misma condición. Ustedes, que son ricos, pidan a menudo no ser
 
 privados del favor divino, pues esas cosas son a menudo peligrosas. Ustedes,
 
-que son pobres, pidan que l haga que lo poco que poseen sea suficiente, pues
+que son pobres, pidan que Él haga que lo poco que poseen sea suficiente, pues
 
-eso lo endulza todo. Ustedes, que estn saludables, digan esta oracin para que
+eso lo endulza todo. Ustedes, que están saludables, digan esta oración para que
 
-el vigor del cuerpo no sea la debilidad de su alma. Y t, que tienes en tu
+el vigor del cuerpo no sea la debilidad de su alma. Y tú, que tienes en tu
 
-mejilla el febril rubor de la tuberculosis t, que ests dbil y a punto de
+mejilla el febril rubor de la tuberculosis –tú, que estás débil y a punto de
 
-partir- ya tienes listo tu canto fnebre. Helo aqu: Seor, acurdate de m! Acurdate
+partir- ya tienes listo tu canto fúnebre. Helo aquí: “ˇSeńor, acuérdate de mí! Acuérdate
 
-de m, oh Seor, segn tu benevolencia para con tu pueblo; oh, vistame con Tu
+de mí, oh Seńor, según tu benevolencia para con tu pueblo; oh, visítame con Tu
 
-salvacin. Entrego esa oracin a cada corazn cristiano aqu presente, y pido
+salvación”. Entrego esa oración a cada corazón cristiano aquí presente, y pido
 
-que el Espritu Santo la grabe all. Es tambin:
+que el Espíritu Santo la grabe allí. Es también:
 
 II.
 
-UNA ORACIN APROPIADA PARA ALMAS DEPRIMIDAS Y
+UNA ORACIÓN APROPIADA PARA ALMAS DEPRIMIDAS Y
 
 ABATIDAS.
 
 Esas almas son el pueblo de Dios, y ahora les
 
-entregamos esta oracin, y confiamos que, al momento de elevarla, reciban:
+entregamos esta oración, y confiamos que, al momento de elevarla, reciban:
 
-leo de gozo en lugar de luto, manto de alegra en lugar del espritu
+“óleo de gozo en lugar de luto, manto de alegría en lugar del espíritu
 
-angustiado. Yo les pido que miren esta oracin muy brevemente, pero con una
+angustiado”. Yo les pido que miren esta oración muy brevemente, pero con una
 
-intensa mirada. Notarn que aqu se tiene el caso de que
+intensa mirada. Notarán que aquí se tiene el caso de que
 
 un buen hombre pareciera ser olvidado.
 
-Quien escribi este Salmo es
+Quien escribió este Salmo es
 
-un hombre bueno, es un hombre inspirado y, sin embargo, dice: Acurdate de m,
+un hombre bueno, es un hombre inspirado y, sin embargo, dice: “Acuérdate de mí,
 
-oh Jehov. Se consideraba olvidado? Tema serlo. Ha habido otros santos de
+oh Jehová”. żSe consideraba olvidado? Temía serlo. Ha habido otros santos de
 
-Dios que han experimentado ese temor. S, una iglesia entera ha laborado
+Dios que han experimentado ese temor. Sí, una iglesia entera ha laborado
 
-algunas veces bajo ese temor. Sion dijo: Me dej Jehov, y el Seor se olvid
+algunas veces bajo ese temor. Sion dijo: “Me dejó Jehová, y el Seńor se olvidó
 
-de m. As puedes ser olvidado segn lo piensas- y, no obstante, podras ser
+de mí”. Así puedes ser olvidado –según lo piensas- y, no obstante, podrías ser
 
 muy amado por Dios, tan amado, como lo fuiste siempre.
 
-Nota, a continuacin, hijo de Dios, que cuando
+Nota, a continuación, hijo de Dios, que cuando
 
-t entras en esa condicin,
+tú entras en esa condición,
 
 la mejor
 
-oracin que pudieras elevar es la oracin de un pecador.
+oración que pudieras elevar es la oración de un pecador.
 
-Por qu la llamo:
+żPor qué la llamo:
 
-la oracin de un pecador? Bien, porque me recuerda mucho al ladrn agonizante. Decir:
+la oración de un pecador? Bien, porque me recuerda mucho al ladrón agonizante. Decir:
 
-Seor, acurdate de m, fue una oracin muy apropiada para l. Oh, hijo de
+“Seńor, acuérdate de mí”, fue una oración muy apropiada para él. ˇOh, hijo de
 
-Dios!, si dudas de tu propia salvacin, no disputes acerca de ella, sino acude
+Dios!, si dudas de tu propia salvación, no disputes acerca de ella, sino acude
 
-como un pecador; usa la oracin de un pecador; comienza donde el moribundo
+como un pecador; usa la oración de un pecador; comienza donde el moribundo
 
-ladrn comenz, diciendo: Seor, acurdate de m. Yo le recomendara a
+ladrón comenzó, diciendo: “Seńor, acuérdate de mí”. Yo le recomendaría a
 
-cualquier cristiano que est sumido en la oscuridad y que hubiere perdido sus
+cualquier cristiano que esté sumido en la oscuridad y que hubiere perdido sus
 
-evidencias, que acuda de inmediato a travs de la vieja ruta que los pecadores
+evidencias, que acuda de inmediato a través de la vieja ruta que los pecadores
 
-han recorrido desde hace tiempo. Ir a Jess, aunque mi pecado se eleve como
+han recorrido desde hace tiempo. “Iré a Jesús, aunque mi pecado se eleve como
 
-un monte. Conozco Sus atrios, entrar all. Acude a l. Anda incluso ahora
+un monte”. Conozco Sus atrios, entraré allí”. Acude a Él. Anda incluso ahora
 
 mismo.
 
-Tambin observarn que para un alma desalentada
+También observarán que para un alma desalentada
 
 es bueno que recuerde que todo lo que
 
 pudiera obtener de Dios en el futuro tiene que ser como un favor.
 
-Acurdate
+“Acuérdate
 
-de m, oh Jehov,
+de mí, oh Jehová,
 
-segn tu benevolencia.
+según tu benevolencia”.
 
-Yo tengo presente sto cuando hablo con el hijo de Dios que est en la luz;
+Yo tengo presente ésto cuando hablo con el hijo de Dios que está en la luz;
 
-pero es inclusive ms importante que consideremos sto, cuando hablemos con el
+pero es inclusive más importante que consideremos ésto, cuando hablemos con el
 
-hijo de Dios que est a oscuras, pues el peligro es que te vuelvas legalista
+hijo de Dios que está a oscuras, pues el peligro es que te vuelvas legalista
 
-cuando ests abatido. Tu propia conciencia y Satans, conjuntamente, comenzarn
+cuando estás abatido. Tu propia conciencia y Satanás, conjuntamente, comenzarán
 
-a asediarte con mtodos legales para alcanzar el consuelo. Todos ellos son
+a asediarte con métodos legales para alcanzar el consuelo. Todos ellos son
 
-estriles. Sigue la ruta de la gracia. Lo que necesitas es gracia inmerecida, ya
+estériles. Sigue la ruta de la gracia. Lo que necesitas es gracia inmerecida, ya
 
-que ninguna otra cosa sera adecuada para ti. Clama: Acurdate de m, oh
+que ninguna otra cosa sería adecuada para ti. Clama: “Acuérdate de mí, oh
 
-Jehov, segn tu benevolencia. Dame aquello que no podras darme como un mero
+Jehová, según tu benevolencia”. ˇDame aquello que no podrías darme como un mero
 
-asunto de justicia! Trtame como no podras tratarme si me vieras como un
+asunto de justicia! ˇTrátame como no podrías tratarme si me vieras como un
 
 culpable delante de Ti! Trata con benevolencia a Tu siervo. Hazlo como un
 
-favor, pues slo eso podra restaurarme.
+favor, pues sólo eso podría restaurarme”.
 
-Y luego, a continuacin, es bueno que la persona
+Y luego, a continuación, es bueno que la persona
 
-que est acongojada, recuerde que
+que está acongojada, recuerde que
 
 el
 
@@ -608,239 +610,239 @@ favor de Dios hacia Su propio pueblo no cambia,
 
 pues este buen hombre, aunque
 
-le peda a Dios que se acordara de l, evidentemente no tena absolutamente
+le pedía a Dios que se acordara de él, evidentemente no tenía absolutamente
 
-ninguna duda de que Dios tena un favor disponible para Su propio pueblo. No
+ninguna duda de que Dios tenía un favor disponible para Su propio pueblo. No
 
 hay nada mejor que tener sana doctrina para recibir consuelo. Si un hombre duda
 
 de la perseverancia de los santos, y cree que Dios desecha a Su pueblo, yo
 
-realmente no veo qu podra hacer cuando se viera sumido en la angustia mental.
+realmente no veo qué podría hacer cuando se viera sumido en la angustia mental.
 
-Pero si se apegara a sto: Ciertamente es bueno Dios para con Israel, para con
+Pero si se apegara a ésto: “Ciertamente es bueno Dios para con Israel, para con
 
-los limpios de corazn. En cuanto a m, l podra haberme olvidado. Me temo que
+los limpios de corazón. En cuanto a mí, Él podría haberme olvidado. Me temo que
 
-yo no soy uno de los Suyos, pero yo s que l no olvidara a los Suyos, bien,
+yo no soy uno de los Suyos, pero yo sé que Él no olvidaría a los Suyos”, bien,
 
 entonces el hecho de la inmutabilidad de Dios para con Su pueblo se convierte,
 
-por decirlo as, en un argumento; y nos presentamos delante del Seor con un mejor
+por decirlo así, en un argumento; y nos presentamos delante del Seńor con un mejor
 
-nimo y una mayor esperanza, y le decimos: Seor, puesto que T no cambias
+ánimo y una mayor esperanza, y le decimos: “Seńor, puesto que Tú no cambias
 
-para con ellos, cuntame entre ellos, y permite que Tu amor eterno se derrame
+para con ellos, cuéntame entre ellos, y permite que Tu amor eterno se derrame
 
-sobre mi pobre espritu desconsolado y quebrantado. Acurdate de m de esta
+sobre mi pobre espíritu desconsolado y quebrantado. Acuérdate de mí –de esta
 
-pobre criatura cada y rebelde- con el favor, con la gracia inmerecida que T
+pobre criatura caída y rebelde- con el favor, con la gracia inmerecida que Tú
 
-le otorgas a Tu pueblo. Es bueno aferrarse a la verdad, pues puede servirnos
+le otorgas a Tu pueblo”. Es bueno aferrarse a la verdad, pues puede servirnos
 
-como un ancla en el da de la tormenta.
+como un ancla en el día de la tormenta.
 
-Adems, permtanme que me dirija a los
+Además, permítanme que me dirija a los
 
-deprimidos, para recordarles que la oracin es instructiva pues muestra que
+deprimidos, para recordarles que la oración es instructiva pues muestra que
 
-todo lo que es necesario para un espritu
+todo lo que es necesario para un espíritu
 
 desamparado y olvidado, es que Dios lo visite de nuevo.
 
-Acurdate de m,
+“Acuérdate de mí,
 
 oh
 
-Jehov.
+Jehová”.
 
 Que cualquier otra
 
-persona se acordara de m no me hara ningn bien, pero si T tuvieras un
+persona se acordara de mí no me haría ningún bien, pero si Tú tuvieras un
 
-pensamiento para con Tu siervo, todo est hecho. Seor, el pastor me ha
+pensamiento para con Tu siervo, todo está hecho. Seńor, el pastor me ha
 
-visitado y ha intentado darme nimo. Tuve una visita en la predicacin del
+visitado y ha intentado darme ánimo. Tuve una visita en la predicación del
 
-Evangelio tanto en la maana como en la noche de Tu da. Acud a Tu mesa, y no
+Evangelio tanto en la mańana como en la noche de Tu día. Acudí a Tu mesa, y no
 
-recib nimo all. Pero, vistame T!
+recibí ánimo allí. ˇPero, visítame Tú!
 
 Una visita de Cristo es el remedio de todas las
 
 enfermedades espirituales. Yo les he recordado frecuentemente aquel mensaje
 
-dirigido a la iglesia de Laodicea. La iglesia de Laodicea no era ni fra ni
+dirigido a la iglesia de Laodicea. La iglesia de Laodicea no era ni fría ni
 
-caliente, y Cristo dijo que la vomitara de Su boca; pero, saben cmo se
+caliente, y Cristo dijo que la vomitaría de Su boca; pero, żsaben cómo se
 
-refiere a ella, diciendo que la curara? He aqu, yo estoy a la puerta y
+refiere a ella, diciendo que la curaría? “He aquí, yo estoy a la puerta y
 
-llamo; si alguno oye mi voz y abre la puerta, entrar a l, y cenar con l, y
+llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y
 
-l conmigo. Ese no es un mensaje dirigido a los pecadores. Evidentemente es un
+él conmigo”. Ese no es un mensaje dirigido a los pecadores. Evidentemente es un
 
 mensaje para una iglesia de Dios, o para un hijo de Dios que ha perdido la
 
 presencia y la luz del rostro de Dios. Todo lo que necesitas es una visita de
 
-Cristo. Todo lo que necesitas es que sea restablecida una vez ms tu comunin;
+Cristo. Todo lo que necesitas es que sea restablecida una vez más tu comunión;
 
-y yo bendigo al Seor porque l puede hacer eso sbitamente, en un momento! l
+ˇy yo bendigo al Seńor porque Él puede hacer eso súbitamente, en un momento! Él
 
-puede poner tu alma antes que lo supieras, entre los carros de Aminadab.
+puede poner tu alma “antes que lo supieras, entre los carros de Aminadab”.
 
-T pudieras haber venido aqu esta noche tan
+Tú pudieras haber venido aquí esta noche tan
 
-muerto en tu alma como podras estarlo, pero los chispazos de la vida eterna
+muerto en tu alma como podrías estarlo, pero los chispazos de la vida eterna
 
-pueden alcanzarte y reavivar una vez ms el alma adentro, dentro de las
+pueden alcanzarte y reavivar una vez más el alma adentro, dentro de las
 
-costillas de tu vieja naturaleza muerta. T podras haber sentido como si todo
+costillas de tu vieja naturaleza muerta. Tú podrías haber sentido como si todo
 
-hubiese terminado, y la ltima chispa de gracia hubiese desaparecido, pero
+hubiese terminado, y la última chispa de gracia hubiese desaparecido, pero
 
-cuando el Seor visita a Su pueblo, hace que el pramo y el lugar solitario se
+cuando el Seńor visita a Su pueblo, hace que el páramo y el lugar solitario se
 
 regocijen, y hace que el desierto florezca como la rosa. Oro pidiendo que pueda
 
-ser una hora feliz para ti, porque se cumple la oracin: Vistame con tu
+ser una hora feliz para ti, porque se cumple la oración: “Visítame con tu
 
-salvacin.
+salvación”.
 
 Siento
 
-una gran simpata para
+una gran simpatía para
 
-con aquellos que estn abatidos. Que Dios, el consuelo de los abatidos, los
+con aquellos que están abatidos. ˇQue Dios, el consuelo de los abatidos, los
 
-consuele! Que libere a los que estn atados con cadenas; y para ustedes,
+consuele! Que libere a los que están atados con cadenas; y para ustedes,
 
-solitarios, que los ponga en familias! Y yo no conozco un mtodo ms sabio que
+solitarios, ˇque los ponga en familias! Y yo no conozco un método más sabio que
 
-pudieran seguir, que clamar incesantemente a l; y sta ha de ser su oracin:
+pudieran seguir, que clamar incesantemente a Él; y ésta ha de ser su oración:
 
-Acurdate de m
+“Acuérdate de mí –
 
-de m-
+de mí-
 
 con el favor
 
-que otorgas a Tu pueblo; oh, vistame con Tu salvacin. Y ahora, viene nuestro
+que otorgas a Tu pueblo; oh, visítame con Tu salvación”. Y ahora, viene nuestro
 
-ltimo punto. Es:
+último punto. Es:
 
 III.
 
-UNA ORACIN MUY APROPIADA PARA LOS PECADORES QUE
+UNA ORACIÓN MUY APROPIADA PARA LOS PECADORES QUE
 
 HAN DESPERTADO PERO QUE NO HAN SIDO PERDONADOS.
 
-Hay algunas personas de esa ndole en esta casa.
+Hay algunas personas de esa índole en esta casa.
 
-Yo s que aqu hay pecadores que no han sido perdonados. Slo espero que
+Yo sé que aquí hay pecadores que no han sido perdonados. Sólo espero que
 
 algunos de ellos hayan sido despertados para conocer el peligro de su estado.
 
-Si lo han sido, que Dios los ayude a decir esta oracin, porque, primero,
+Si lo han sido, que Dios los ayude a decir esta oración, porque, primero,
 
-es una oracin humilde.
+es una oración humilde.
 
-Seor, acurdate
+“Seńor, acuérdate
 
-de m, que es tanto como decir: Seor, dedcame un pensamiento. Yo soy un
+de mí”, que es tanto como decir: “Seńor, dedícame un pensamiento. Yo soy un
 
-pobre pecador miserable. No soy digno de atencin pero, Seor, al menos recurdame.
+pobre pecador miserable. No soy digno de atención pero, Seńor, al menos recuérdame.
 
 No me ignores, oh sanador de las almas enfermas por el pecado. No me ignores.
 
-Oye mi clamor; responde a mi angustia; considera los deseos de mi alma. Acurdate
+Oye mi clamor; responde a mi angustia; considera los deseos de mi alma. “ˇAcuérdate
 
-de m!
+de mí!”
 
-Es tambin
+Es también
 
 una
 
-sentida oracin.
+sentida oración.
 
 No hay duda de que fuera sentida por la forma en que la
 
-dijo este hombre inspirado. Al momento de leerse transpira vida. Oh, querido
+dijo este hombre inspirado. Al momento de leerse transpira vida. ˇOh, querido
 
-corazn!, si t necesitas un Salvador, bscalo con denuedo. Si puedes aceptar
+corazón!, si tú necesitas un Salvador, búscalo con denuedo. Si puedes aceptar
 
-un no como respuesta, recibirs un no como respuesta, pero si la nica
+un “no” como respuesta, recibirás un “no” como respuesta, pero si la única
 
-opcin fuera esta: Dame a Cristo, o muero!
+opción fuera esta: “ˇDame a Cristo, o muero!
 
 Tengo que
 
-recibir la misericordia, la tendrs. Cuando
+recibir la misericordia”, la tendrás. Cuando
 
 quieras
 
 recibirla,
 
-habrs
+habrás
 
 de recibirla. Cuando Dios te conduzca a agonizar ansiando
 
-una bendicin, la bendicin no se demorar.
+una bendición, la bendición no se demorará.
 
-Noten que esta oracin que les recomiendo, no
+Noten que esta oración que les recomiendo, no
 
-slo es humilde y sentida, sino que
+sólo es humilde y sentida, sino que
 
 es
 
-una oracin dirigida de la manera correcta.
+una oración dirigida de la manera correcta.
 
-Est dirigida nicamente a
+Está dirigida únicamente a
 
-Dios. Acurdate de m, oh
+Dios. “Acuérdate de mí, oh
 
-Jehov.
+Jehová.
 
-Vistame,
+Visítame,
 
 oh
 
-Jehov,
+Jehová,
 
-con tu salvacin. Toda
+con tu salvación”. Toda
 
-nuestra ayuda est all. No hay ninguna ayuda aqu. No hay ninguna ayuda en
+nuestra ayuda está allá. No hay ninguna ayuda aquí. No hay ninguna ayuda en
 
-ningn hombre. Ningn sacerdote puede ayudarte; tampoco pueden hacerlo ni
+ningún hombre. Ningún sacerdote puede ayudarte; tampoco pueden hacerlo ni
 
-amigos ni ministros. Cuando ustedes recurren a nosotros, podramos decirles lo
+amigos ni ministros. Cuando ustedes recurren a nosotros, podríamos decirles lo
 
 que el rey de Israel le dijo a la mujer en Samaria, cuando estaba completamente
 
-copada por el asedio: Si no te salva Jehov, de dnde te puedo salvar yo?
+copada por el asedio: “Si no te salva Jehová, żde dónde te puedo salvar yo?
 
-Del granero, o del lagar? No hay nada que nosotros podamos hacer. Vana es
+żDel granero, o del lagar?” No hay nada que nosotros podamos hacer. “ˇVana es
 
-la ayuda de los hombres! Vuelvan sus ojos nicamente a Dios, a la cruz donde
+la ayuda de los hombres!” Vuelvan sus ojos únicamente a Dios, a la cruz donde
 
-Cristo sufri. Miren all, y nicamente all, y que sta sea su oracin:
+Cristo sufrió. Miren allí, y únicamente allí, y que ésta sea su oración:
 
-Seor, acurdate de m!
+“ˇSeńor, acuérdate de mí!”
 
-Cuando el ladrn agonizaba, no dijo: Juan, ora
+Cuando el ladrón agonizaba, no dijo: “Juan, ora
 
-por m. Juan estaba all. El ladrn no mir a la madre de Cristo diciendo:
+por mí”. Juan estaba allí. El ladrón no miró a la madre de Cristo diciendo:
 
-Virgen santa, ora por m. Podra habrselo dicho. l no se dirigi a ninguno
+“Virgen santa, ora por mí”. Podría habérselo dicho. Él no se dirigió a ninguno
 
-de los apstoles ni a los santos acompaantes que estaban en torno a la cruz. l
+de los apóstoles ni a los santos acompańantes que estaban en torno a la cruz. Él
 
-saba adnde mirar, y, volviendo sus ojos agonizantes hacia Aquel que sufra en
+sabía adónde mirar, y, volviendo sus ojos agonizantes hacia Aquel que sufría en
 
-la cruz central, no dijo otra oracin que sta: Seor, acurdate de m. Es
+la cruz central, no dijo otra oración que ésta: “Seńor, acuérdate de mí”. Es
 
-todo lo que necesitas. Ora pidindole
+todo lo que necesitas. Ora pidiéndole
 
 a
 
@@ -848,179 +850,179 @@ Dios,
 
 y
 
-slo
+sólo
 
-a Dios, pues slo de
+a Dios, pues sólo de
 
-l debe venirte la misericordia.
+Él debe venirte la misericordia.
 
-Oh pecador, si quieres usar esta oracin, observa
+Oh pecador, si quieres usar esta oración, observa
 
-adems que
+además que
 
-es una oracin personal para
+es una oración personal para
 
 ti.
 
-Seor, acurdate de
+“Seńor, acuérdate de
 
-m.
+mí”.
 
-Oh!,
+ˇOh!,
 
-si pudisemos lograr que los hombres pensaran en ellos mismos, la mitad de la
+si pudiésemos lograr que los hombres pensaran en ellos mismos, la mitad de la
 
-batalla estara ganada. Quin eres t? Quin eres t? Yo quisiera poner esta
+batalla estaría ganada. żQuién eres tú? żQuién eres tú? Yo quisiera poner esta
 
-oracin en tu boca, quienquiera que seas, Seor, yo he sido hoy un quebrantador
+oración en tu boca, quienquiera que seas, “Seńor, yo he sido hoy un quebrantador
 
-del da de reposo. He pasado toda su parte inicial, de una manera inadecuada;
+del día de reposo. He pasado toda su parte inicial, de una manera inadecuada;
 
-pero, Seor, acurdate de m. Oh Dios, yo he sido un borracho. He quebrantado
+pero, Seńor, acuérdate de mí”. “Oh Dios, yo he sido un borracho. He quebrantado
 
 todas las leyes de la sobriedad, e incluso he blasfemado Tu nombre; pero,
 
-Seor, acurdate de m. Hay alguien aqu en cuya boca pudiera poner palabras
+Seńor, acuérdate de mí”. żHay alguien aquí en cuya boca pudiera poner palabras
 
-como stas?: Seor, me presento temblando ante ti, pues soy una mujer
+como éstas?: “Seńor, me presento temblando ante ti, pues soy una mujer
 
-pecadora. Seor, acurdate de m. Vistame con el favor que otorgas a Tu
+pecadora. Seńor, acuérdate de mí. Visítame con el favor que otorgas a Tu
 
-pueblo. As como miraste a la mujer de Samaria, mrame as a m. Hay alguien
+pueblo. Así como miraste a la mujer de Samaria, mírame así a mí”. żHay alguien
 
-aqu que haya sido un ladrn, casi avergonzado de or mencionar esa palabra,
+aquí que haya sido un ladrón, casi avergonzado de oír mencionar esa palabra,
 
-porque los que se sientan cerca podran mirarle? Bien, sta es especialmente la
+porque los que se sientan cerca podrían mirarle? Bien, ésta es especialmente la
 
-oracin del ladrn: Seor, acurdate de m. Cmo deseara recorrer todos los
+oración del ladrón: “Seńor, acuérdate de mí”. ˇCómo desearía recorrer todos los
 
-lugares en que estn sentados! No sabra quines son ustedes, pero, oh!, si
+lugares en que están sentados! No sabría quiénes son ustedes, pero, ˇoh!, si
 
-pudiera, pondra sto directamente en su corazn: Seor, acurdate de m.
+pudiera, pondría ésto directamente en su corazón: “Seńor, acuérdate de mí”.
 
-All arriba, en el palco superior, donde difcilmente pueden or, y no pueden
+Allá arriba, en el palco superior, donde difícilmente pueden oír, y no pueden
 
-ver, ests en un buen lugar para orar, en un lugar primordial, all escondido
+ver, estás en un buen lugar para orar, en un lugar primordial, allí escondido
 
-en el rincn, y para expresar el clamor: Oh Dios, acurdate de m!
+en el rincón, y para expresar el clamor: “ˇOh Dios, acuérdate de mí!”
 
-Adems, esta oracin
+Además, esta oración
 
-es una oracin evanglica.
+es una oración evangélica.
 
-Dice: Acurdate de m segn tu
+Dice: “Acuérdate de mí… según tu
 
-benevolencia. Todo lo que un pecador recibe le llega como un acto de
+benevolencia”. Todo lo que un pecador recibe le llega como un acto de
 
 benevolencia. No puede llegarte de ninguna otra manera, pues si recibieras lo
 
-que mereces, no recibiras nada de amor, nada de misericordia, nada de gracia.
+que mereces, no recibirías nada de amor, nada de misericordia, nada de gracia.
 
-Oh, pecador!, acude a Dios sobre la base de la clemencia y di: Por causa de
+ˇOh, pecador!, acude a Dios sobre la base de la clemencia y di: “Por causa de
 
-Tu nombre, y por causa de Tu misericordia, ten piedad de m, ya que soy un pobre
+Tu nombre, y por causa de Tu misericordia, ten piedad de mí, ya que soy un pobre
 
-individuo que no merece nada. Es una oracin evanglica.
+individuo que no merece nada”. Es una oración evangélica.
 
-Adems, me parece que es
+Además, me parece que es
 
-una oracin argumentadora.
+una oración argumentadora.
 
-Dnde est el argumento?, preguntas.
+“żDónde está el argumento?”, preguntas.
 
-Bien, est aqu: T has otorgado favores a Tu pueblo. Seor, concdeme un
+Bien, está aquí: “Tú has otorgado favores a Tu pueblo. Seńor, concédeme un
 
-favor a m. Es siempre un buen argumento que le pidieras a un hombre que te
+favor a mí”. Es siempre un buen argumento que le pidieras a un hombre que te
 
 extienda una amabilidad si ya lo ha hecho para con otros. Si somos muy pobres,
 
-nosotros generalmente decimos: Fulano de tal ha estado ayudando a gente pobre
+nosotros generalmente decimos: “Fulano de tal ha estado ayudando a gente pobre
 
-como yo. Hay un tipo de argumento implcito y es que l te ayudar, si
+como yo”. Hay un tipo de argumento implícito y es que él te ayudará, si
 
-estuvieras en el mismo caso. Puedes verlo? All estn las puertas del cielo.
+estuvieras en el mismo caso. żPuedes verlo? Allá están las puertas del cielo.
 
-Puedes soportar el resplandor de esas perlas gigantescas? Sin embargo, no es
+żPuedes soportar el resplandor de esas perlas gigantescas? Sin embargo, no es
 
-eso lo que quiero que veas. Los ves a ellos? Ves a quienes entran a torrentes
+eso lo que quiero que veas. żLos ves a ellos? żVes a quienes entran a torrentes
 
-en largas filas? Atraviesan como un poderoso ro. Hay cientos, hay miles, hay
+en largas filas? Atraviesan como un poderoso río. Hay cientos, hay miles, hay
 
-decenas de miles de ellos. Quines son ellos? Quines son ellos? Son
+decenas de miles de ellos. żQuiénes son ellos? żQuiénes son ellos? Son
 
-pecadores, todos ellos, tal como soy yo, querido amigo- tal como eres t. Ahora
+pecadores, todos ellos, –tal como soy yo, querido amigo- tal como eres tú. Ahora
 
-estn vestidos de blanco, pero sus vestiduras fueron una vez completamente
+están vestidos de blanco, pero sus vestiduras fueron una vez completamente
 
-negras. Pregntales, y les oirs decir que lavaron sus ropas y las
+negras. Pregúntales, y les oirás decir que lavaron sus ropas y las
 
-emblanquecieron en la sangre del Cordero. Pregntale a cada uno de ellos cmo
+emblanquecieron en la sangre del Cordero. Pregúntale a cada uno de ellos cómo
 
-es que entr tan felizmente a travs de esas puertas de perla, en la ciudad de
+es que entró tan felizmente a través de esas puertas de perla, en la ciudad de
 
-calles de oro, y todos te dirn a coro, que ellos:
+calles de oro, y todos te dirán “a coro”, que ellos:
 
-Atribuyen la
+“Atribuyen la
 
-salvacin al Cordero;
+salvación al Cordero;
 
-La redencin,
+La redención,
 
-a Su muerte.
+a Su muerte”.
 
-Oh!, yo incluso voy a entrar sin complicaciones
+ˇOh!, yo incluso voy a entrar sin complicaciones
 
-de esa manera. Ah!, a travs del Salvador de los pecadores espero encontrar un
+de esa manera. ˇAh!, a través del Salvador de los pecadores espero encontrar un
 
 pasaje al cielo de los pecadores, donde los pecadores que fueron blanqueados
 
-moran para siempre. Hay un argumento en la oracin. Yo espero que tengan la
+moran para siempre. Hay un argumento en la oración. Yo espero que tengan la
 
 habilidad de usarlo hasta prevalecer.
 
-Adems, yo le recomiendo esta oracin al pecador
+Además, yo le recomiendo esta oración al pecador
 
 que ha despertado, porque
 
-es una oracin
+es una oración
 
 para un alma indefensa,
 
-pues dice: Oh!,
+pues dice: “ˇOh!,
 
-vistame
+visítame
 
-con tu salvacin. Hay pacientes en Londres que estaran
+con tu salvación”. Hay pacientes en Londres que estarían
 
-muy felices de ser recibidos en un hospital. Estaran felices si pudieran ser
+muy felices de ser recibidos en un hospital. Estarían felices si pudieran ser
 
-llevados maana por la maana a algunas de esas nobles instituciones, para ser
+llevados mańana por la mańana a algunas de esas nobles instituciones, para ser
 
-cuidados all. Pero hay personas que estn peor que ellos, pues hay algunos que
+cuidados allá. Pero hay personas que están peor que ellos, pues hay algunos que
 
-no podran ser transportados a un hospital, ya que podran morir en el camino. Si
+no podrían ser transportados a un hospital, ya que podrían morir en el camino. Si
 
-han de ser sanados del todo alguna vez, estn en una condicin tan mala, que el
+han de ser sanados del todo alguna vez, están en una condición tan mala, que el
 
-doctor tiene que visitarlos. Oh!, y se es tambin el caso de algn pecador, y
+doctor tiene que visitarlos. ˇOh!, y ése es también el caso de algún pecador, y
 
-algunos lo sienten, y por esto tenemos la oracin: Vistame con tu
+algunos lo sienten, y por esto tenemos la oración: “Visítame con tu
 
-salvacin.
+salvación”.
 
-Aqu, Seor, me postro
+“Aquí, Seńor, me postro
 
 delante de Ti, tan arruinado por el pecado que escasamente puedo volver mis
 
 ojos a la cruz; estoy muy ciego. Es cierto que Tu gracia puede salvar, pero mi
 
-mano est paralizada, y no puedo asir Tu gracia. Es verdad que Tu amor puede
+mano está paralizada, y no puedo asir Tu gracia. Es verdad que Tu amor puede
 
-penetrar mi corazn, pero, ah!, mi corazn se siente tan duro; entonces, cmo
+penetrar mi corazón, pero, ˇah!, mi corazón se siente tan duro; entonces, żcómo
 
-puede entrar all Tu amor? Oh, Salvador, T tienes que hacerlo todo por m,
+puede entrar allí Tu amor? Oh, Salvador, Tú tienes que hacerlo todo por mí,
 
-pues mi caso es desesperado. Cristo ama tales casos. l vino a buscar y a
+pues mi caso es desesperado”. Cristo ama tales casos. Él vino a buscar y a
 
 salvar, no a los
 
@@ -1034,19 +1036,19 @@ perdidos.
 
 Deposita tu caso
 
-desesperado en Sus manos, ya que l ha salvado a pecadores desesperados miles
+desesperado en Sus manos, ya que Él ha salvado a pecadores desesperados miles
 
-de veces, y los seguir salvando todava. Yo pido que antes de que descanses
+de veces, y los seguirá salvando todavía. Yo pido que antes de que descanses
 
 esta noche, antes de que te retires a tu cama, y te atrevas a cerrar tus ojos, que
 
-sta sea la oracin de tu corazn: Acurdate de m, oh Jehov, segn tu
+ésta sea la oración de tu corazón: “Acuérdate de mí, oh Jehová, según tu
 
-benevolencia para con tu pueblo; vistame con tu salvacin.
+benevolencia para con tu pueblo; visítame con tu salvación”.
 
-No puedo hacer ms que dejarlo en manos del
+No puedo hacer más que dejarlo en manos del
 
-Espritu Eterno. Que l bendiga la palabra, por Cristo Jess. Amn.
+Espíritu Eterno. Que Él bendiga la palabra, por Cristo Jesús. Amén.
 
 Nota del
 
@@ -1054,7 +1056,7 @@ traductor:
 
 El
 
-Salmo 106: 4 en la Versin King James dice as: Remember me, O Lord, with the
+Salmo 106: 4 en la Versión King James dice así: “Remember me, O Lord, with the
 
 favour that thou bearest unto thy people: O
 
@@ -1062,19 +1064,19 @@ visit
 
 me
 
-with thy salvation.
+with thy salvation.”
 
-Una traduccin literal sera:
+Una traducción literal sería:
 
-Acurdate de m, oh Jehov, con el favor que concedes a tu pueblo; vistame
+“Acuérdate de mí, oh Jehová, con el favor que concedes a tu pueblo; visítame
 
-con tu salvacin. No encontr ninguna versin en espaol que se asemejara a
+con tu salvación”. No encontré ninguna versión en espańol que se asemejara a
 
-con el favor que concedes a tu pueblo. El sermn del pastor Spurgeon enfatiza
+“con el favor que concedes a tu pueblo”. El sermón del pastor Spurgeon enfatiza
 
-la palabra favor, que no se encuentra en nuestras versiones. Por tanto, en
+la palabra ‘favor’, que no se encuentra en nuestras versiones. Por tanto, en
 
-este caso, favor y benevolencia son equivalentes.
+este caso, ‘favor’ y ‘benevolencia’ son equivalentes.
 
 Sima: abismo,
 
@@ -1082,7 +1084,7 @@ precipicio.
 
 Traductor: Allan
 
-Romn
+Román
 
 14/Junio/2012
 

@@ -1,8 +1,8 @@
 # Sermón 1467b | Sermón 1467B
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Dos Clases de
 
@@ -10,59 +10,59 @@ Oidores
 
 1467B
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Pero sed
+“Pero sed
 
-hacedores de la palabra, y no tan solamente oidores, engandoos a vosotros
+hacedores de la palabra, y no tan solamente oidores, engańándoos a vosotros
 
-mismos. Porque si alguno es oidor de la palabra pero no hacedor de ella, ste
+mismos. Porque si alguno es oidor de la palabra pero no hacedor de ella, éste
 
-es semejante al hombre que considera en un espejo su rostro natural. Porque l
+es semejante al hombre que considera en un espejo su rostro natural. Porque él
 
-se considera a s mismo, y se va, y luego olvida cmo era. Mas el que mira
+se considera a sí mismo, y se va, y luego olvida cómo era. Mas el que mira
 
 atentamente en la perfecta ley, la de la libertad, y persevera en ella, no
 
-siendo oidor olvidadizo, sino hacedor de la obra, ste ser bienaventurado en
+siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en
 
-lo que hace. Santiago 1: 22-25.
+lo que hace”. Santiago 1: 22-25.
 
 Santiago no es dado a
 
-especulaciones. Esta mxima, Por sus frutos los conoceris, parece haberse
+especulaciones. Esta máxima, “Por sus frutos los conoceréis”, parece haberse
 
-posesionado de su mente y siempre est exigiendo una santidad prctica. No est
+posesionado de su mente y siempre está exigiendo una santidad práctica. No está
 
 satisfecho con los capullos del escuchar sino que requiere los frutos de la
 
-obediencia. Necesitamos ms de su espritu prctico en esta poca pues hay
+obediencia. Necesitamos más de su espíritu práctico en esta época pues hay
 
 ciertos ministros que no se contentan con sembrar la vieja semilla -la
 
-mismsima semilla que de la mano de los apstoles, confesores, padres,
+mismísima semilla que de la mano de los apóstoles, confesores, padres,
 
-reformadores y mrtires produjo una cosecha para Dios- sino que gastan su
+reformadores y mártires produjo una cosecha para Dios- sino que gastan su
 
-tiempo especulando acerca de si la semilla de la cizaa cultivada bajo ciertas
+tiempo especulando acerca de si la semilla de la cizańa cultivada bajo ciertas
 
 circunstancias no pudiera producir trigo; o si, por lo menos, el buen trigo no
 
-se mejorara gracias a la mezcla que se obtendra si tan slo se agregara una
+se mejoraría gracias a la mezcla que se obtendría si tan sólo se agregara una
 
-aspersin de semillas de cizaa. Necesitamos que alguien tome estas diversas
+aspersión de semillas de cizańa. Necesitamos que alguien tome estas diversas
 
-predicaciones, las ponga en un caldero, las hierva y vea cul es el producto
+predicaciones, las ponga en un caldero, las hierva y vea cuál es el producto
 
-esencial y prctico de ellas. Tal vez algunos de ustedes hayan visto en los
+esencial y práctico de ellas. Tal vez algunos de ustedes hayan visto en los
 
-peridicos, hace poco tiempo, un artculo que se grab en mi mente, un artculo
+periódicos, hace poco tiempo, un artículo que se grabó en mi mente, un artículo
 
-que tena que ver con el estado moral de Alemania. El escritor, un alemn, dice
+que tenía que ver con el estado moral de Alemania. El escritor, un alemán, dice
 
 que el escepticismo de los que profesan ser predicadores de la palabra y las
 
@@ -70,79 +70,79 @@ dudas continuas
 
 en cuanto a la
 
-revelacin que han sido sugeridas por los cientficos y ms especialmente por
+revelación que han sido sugeridas por los científicos y más especialmente por
 
-quienes profesan ser hombres religiosos, han producido ahora en la nacin
+quienes profesan ser hombres religiosos, han producido ahora en la nación
 
-alemana las ms terribles consecuencias. El cuadro que l presenta nos hace
+alemana las más terribles consecuencias. El cuadro que él presenta nos hace
 
-temer que nuestros amigos germanos estn pisando un volcn que puede explotar
+temer que nuestros amigos germanos están pisando un volcán que puede explotar
 
 bajo sus pies. La autoridad del gobierno ha sido ejercida tan severamente que
 
 los hombres comienzan a cansarse de ella, y, mientras tanto, la autoridad de
 
-Dios ha sido considerada tan inaceptable que la base de la sociedad se est
+Dios ha sido considerada tan inaceptable que la base de la sociedad se está
 
-debilitando. Sin embargo, yo no necesito basar mis comentarios en ese artculo,
+debilitando. Sin embargo, yo no necesito basar mis comentarios en ese artículo,
 
-pues la revolucin francesa a fines del siglo pasado permanece en la historia
+pues la revolución francesa a fines del siglo pasado permanece en la historia
 
 como una advertencia perdurable con respecto a los terribles efectos de la
 
-filosofa una vez que ha sembrado la sospecha en cuanto a toda religin y creado
+filosofía una vez que ha sembrado la sospecha en cuanto a toda religión y creado
 
-una nacin de infieles. Yo le pido a Dios que aqu no suceda nada semejante;
+una nación de infieles. Yo le pido a Dios que aquí no suceda nada semejante;
 
-pero el partido que est a favor del pensamiento moderno parece resuelto a
+pero el partido que está a favor del “pensamiento moderno” parece resuelto a
 
 repetir el experimento. La justa severidad de Dios es tan grandemente ignorada
 
 y el pecado es reducido a un mal tan trivial, que si los hombres fueran
 
-hacedores de lo que oyen y aplicaran la enseanza recibida desde ciertos
+hacedores de lo que oyen y aplicaran la enseńanza recibida desde ciertos
 
-plpitos supuestamente cristianos, el resultado sera la anarqua. El libre
+púlpitos supuestamente cristianos, el resultado sería la anarquía. El libre
 
-pensamiento siempre lleva por ese camino. Que Dios nos guarde de l.
+pensamiento siempre lleva por ese camino. Que Dios nos guarde de él.
 
 Si bien los predicadores
 
-juegan con demasiada frecuencia con la predicacin, cunto se les parece la
+juegan con demasiada frecuencia con la predicación, cuánto se les parece la
 
-conducta de sus oyentes. Or es con frecuencia meramente un ejercicio crtico,
+conducta de sus oyentes. Oír es con frecuencia meramente un ejercicio crítico,
 
-y la pregunta despus de un sermn no es Cmo se adapta esa verdad a tu
+y la pregunta después de un sermón no es “żCómo se adapta esa verdad a tu
 
-caso?, sino Qu te pareci
+caso?”, sino “żQué te pareció
 
-l?,
+él?”,
 
 como
 
-si eso tuviese algo que ver con la verdad. Cuando escuchas msica, acaso
+si eso tuviese algo que ver con la verdad. Cuando escuchas música, żacaso
 
-preguntas: qu te pareci la trompeta? No, tu mente piensa en la msica, no
+preguntas: “qué te pareció la trompeta?” No, tu mente piensa en la música, no
 
 en el instrumento; no obstante ello, las personas consideran siempre al
 
 ministro antes que a su mensaje. Muchos contrastan a un predicador con otro,
 
-cuando haran mejor en contrastarse ellos mismos con la ley divina. De esta
+cuando harían mejor en contrastarse ellos mismos con la ley divina. De esta
 
-manera, or el Evangelio se degrada a un simple pasatiempo juzgado apenas
+manera, oír el Evangelio se degrada a un simple pasatiempo juzgado apenas
 
 superior a un entretenimiento teatral. Tales cosas no deben ser. Los
 
 predicadores deben predicar como para la eternidad y buscar fruto, y los
 
-oyentes deben poner en prctica lo que oyen, pues de otra manera la sagrada
+oyentes deben poner en práctica lo que oyen, pues de otra manera la sagrada
 
-ordenanza de la predicacin dejar de ser un canal de bendicin, y ser ms
+ordenanza de la predicación dejará de ser un canal de bendición, y será más
 
 bien un insulto a Dios y una burla a las almas de los hombres. No voy a hablar
 
-de manera muy extensa, aunque s espero hablar con mucho denuedo, de dos clases
+de manera muy extensa, aunque sí espero hablar con mucho denuedo, de dos clases
 
 de oidores: la primera,
 
@@ -176,145 +176,145 @@ oidores que no son bienaventurados.
 
 Ellos oyen: algunos de ellos lo
 
-hacen con bastante regularidad y otros muy de vez en cuando, slo para pasar el
+hacen con bastante regularidad y otros muy de vez en cuando, sólo para pasar el
 
-rato; y oyen con considerable atencin, porque aprecian una buena charla. Tal
+rato; y oyen con considerable atención, porque aprecian una buena charla. Tal
 
-vez estn interesados en doctrina ya que cuentan con algn pequeo conocimiento
+vez estén interesados en doctrina ya que cuentan con algún pequeńo conocimiento
 
 del sistema cristiano, y a ellos les gusta discutir algunos puntos de ese
 
-sistema. Adems, ansan poder decir que oyeron predicar a alguien que se ha
+sistema. Además, ansían poder decir que oyeron predicar a alguien que se ha
 
-vuelto famoso. Pero no se les ha ocurrido poner en prctica lo que oyen. Han
+vuelto famoso. Pero no se les ha ocurrido poner en práctica lo que oyen. Han
 
-odo un sermn sobre el arrepentimiento, pero no se han arrepentido. Han odo el
+oído un sermón sobre el arrepentimiento, pero no se han arrepentido. Han oído el
 
-clamor del Evangelio diciendo: Cree!, pero no han credo. Ellos saben que
+clamor del Evangelio diciendo: “ˇCree!”, pero no han creído. Ellos saben que
 
 aquel que cree es purificado de sus antiguos pecados pero no han experimentado
 
-ninguna purificacin, sino que siguen siendo como eran. Ahora, si me estoy
+ninguna purificación, sino que siguen siendo como eran. Ahora, si me estoy
 
-dirigiendo a algunos de ellos, permtanme que les diga: es claro que ustedes no
+dirigiendo a algunos de ellos, permítanme que les diga: es claro que ustedes no
 
-son bienaventurados y no podrn serlo. Or hablar de un banquete no los
+son bienaventurados y no podrán serlo. Oír hablar de un banquete no los
 
-saciar; or hablar de un arroyo no calmar su sed. La informacin de que hay
+saciará; oír hablar de un arroyo no calmará su sed. La información de que hay
 
-oro en el Banco de Inglaterra no los enriquecer; para eso necesitan dinero en
+oro en el Banco de Inglaterra no los enriquecerá; para eso necesitan dinero en
 
 efectivo en su propio bolsillo. El conocimiento de que hay un refugio para la
 
-tormenta no salvar al barco de la tempestad. La informacin de que hay una
+tormenta no salvará al barco de la tempestad. La información de que hay una
 
-cura para una enfermedad no sanar al enfermo. No, tenemos que asir las
+cura para una enfermedad no sanará al enfermo. No, tenemos que asir las
 
 mercedes, debemos apropiarnos de las bendiciones y hacer uso de ellas, si es
 
-que han de tener algn valor para nosotros. Oh seores, ustedes saben lo que
+que han de tener algún valor para nosotros. ˇOh seńores, ustedes saben lo que
 
 tienen que hacer pero no lo han hecho! Han estado inclinados a medias a prestar
 
-atencin a las cosas eternas, pero las han dejado ir, y ustedes se cuentan
+atención a las cosas eternas, pero las han dejado ir, y ustedes se cuentan
 
-todava entre aquellos oidores que no son bienaventurados y que oyen en vano.
+todavía entre aquellos oidores que no son bienaventurados y que oyen en vano.
 
-A continuacin estos
+A continuación estos
 
 oidores son descritos como
 
-engandose a
+engańándose a
 
-s mismos.
+sí mismos.
 
-Engandoos a vosotros mismos, dice Santiago. En qu se
+“Engańándoos a vosotros mismos”, dice Santiago. żEn qué se
 
-engaaban a s mismos? Pues bien, ellos pensaban que por ser oidores eran considerablemente
+engańaban a sí mismos? Pues bien, ellos pensaban que por ser oidores eran considerablemente
 
 mejores; que eso es algo que ha de ser encomiado mucho y que seguramente
 
-recibir una bendicin. No habran sido felices si no hubiesen odo la palabra
+recibirá una bendición. No habrían sido felices si no hubiesen oído la palabra
 
-el domingo, y miran con disgusto a sus vecinos que no respetan el da de
+el domingo, y miran con disgusto a sus vecinos que no respetan el día de
 
 guardar. Ellos mismos son gente muy superior porque asisten regularmente a la
 
 iglesia o a la capilla. Tienen un asiento reservado, y un himnario y una
 
-Biblia: acaso eso no es mucho? Si permanecieran alejados de un lugar de
+Biblia: żacaso eso no es mucho? Si permanecieran alejados de un lugar de
 
-adoracin durante un mes se sentiran muy intranquilos; si bien no creen que ir
+adoración durante un mes se sentirían muy intranquilos; si bien no creen que ir
 
-a un lugar de adoracin los salvar, eso tranquiliza su conciencia y se sienten
+a un lugar de adoración los salvará, eso tranquiliza su conciencia y se sienten
 
-ms a gusto. Me gustara alimentarlos durante un mes con su teora. Yo hara
+más a gusto. Me gustaría alimentarlos durante un mes con su teoría. Yo haría
 
-resonar los platos a sus odos para ver si eso los alimentara. No les
+resonar los platos a sus oídos para ver si eso los alimentaría. No les
 
-proporcionara ninguna cama en la noche. Por qu habra de hacerlo? Les predicara
+proporcionaría ninguna cama en la noche. żPor qué habría de hacerlo? Les predicaría
 
-un discurso sobre el beneficio del sueo. Tampoco necesitara darles un
+un discurso sobre el beneficio del sueńo. Tampoco necesitaría darles un
 
-aposento para que se alojasen en l; les leera una elocuente disertacin acerca
+aposento para que se alojasen en él; les leería una elocuente disertación acerca
 
-de la arquitectura domstica y les mostrara lo que debe ser una casa. Si les
+de la arquitectura doméstica y les mostraría lo que debe ser una casa. Si les
 
-diera msica en vez de alimento, ustedes se alejaran pronto de mi puerta y me
+diera música en vez de alimento, ustedes se alejarían pronto de mi puerta y me
 
-llamaran inhospitalario; y, sin embargo, ustedes se engaan a ustedes mismos
+llamarían inhospitalario; y, sin embargo, ustedes se engańan a ustedes mismos
 
-con la idea de que simplemente or acerca de Jess y de Su grandiosa salvacin
+con la idea de que simplemente oír acerca de Jesús y de Su grandiosa salvación
 
-los ha hecho mejores hombres. O, tal vez, el engao va en otro sentido: fomentan
+los ha hecho mejores hombres. O, tal vez, el engańo va en otro sentido: fomentan
 
 la idea de que las severas verdades que oyen no se aplican a ustedes.
 
-Pecadores? S, ciertamente, el predicador se dirige a los pecadores, y qu
+żPecadores? Sí, ciertamente, el predicador se dirige a los pecadores, y qué
 
 bueno que obtengan un bien de ello; pero
 
-t
+tú
 
-no eres un pecador, al menos no lo eres en ningn sentido especial como para
+no eres un pecador, al menos no lo eres en ningún sentido especial como para
 
-que tengas que ocuparte de ello. Arrepentimiento? La mayora de la gente debe
+que tengas que ocuparte de ello. żArrepentimiento? La mayoría de la gente debe
 
-arrepentirse, pero t no ves ninguna razn por la que
+arrepentirse, pero tú no ves ninguna razón por la que
 
-t
+tú
 
-debas arrepentirte. Mirar a Cristo para obtener la salvacin? Excelente
+debas arrepentirte. żMirar a Cristo para obtener la salvación? “Excelente
 
-doctrina dices- Excelente doctrina! Pero, por alguna razn,
+doctrina” –dices- “ˇExcelente doctrina!” Pero, por alguna razón,
 
-t
+tú
 
-no lo miras a l para que te salve. He
+no lo miras a Él para que te salve. He
 
-aqu el veredicto de
+aquí el veredicto de
 
 la
 
 Escritura
 
-acerca de tu opinin: Engandoos a vosotros
+acerca de tu opinión: “Engańándoos a vosotros
 
-mismos. El Evangelio no te engaa; te dice: Te es necesario nacer de nuevo,
+mismos”. El Evangelio no te engańa; te dice: “Te es necesario nacer de nuevo,
 
-tienes que creer en Jesucristo o ests perdido. El predicador no los engaa;
+tienes que creer en Jesucristo o estás perdido”. El predicador no los engańa;
 
-nunca dijo ni media palabra para apoyar la idea de que venir a este lugar ser
+nunca dijo ni media palabra para apoyar la idea de que venir a este lugar será
 
 de alguna utilidad para ustedes, a menos que entreguen sus corazones a Cristo.
 
-No, l ha aprendido a expresarse en un claro ingls sobre tales asuntos.
+No, él ha aprendido a expresarse en un claro inglés sobre tales asuntos.
 
-Ustedes se engaan a ustedes mismos si, siendo oidores y no hacedores, obtienen
+Ustedes se engańan a ustedes mismos si, siendo oidores y no hacedores, obtienen
 
 consuelo de lo que oyen.
 
-Y luego, adems, de
+Y luego, además, de
 
 acuerdo a nuestro texto,
 
@@ -326,41 +326,41 @@ Se dice que son semejantes a un hombre que
 
 considera su rostro natural en un espejo. Ahora bien, incluso un oidor casual
 
-encontrar a menudo que la predicacin del Evangelio es como verse en un espejo
+encontrará a menudo que la predicación del Evangelio es como verse en un espejo
 
-y verse a s mismo. Cuando se le muestra por primera vez un espejo a una tribu
+y verse a sí mismo. Cuando se le muestra por primera vez un espejo a una tribu
 
-de negros recientemente descubierta, el cacique, al verse a s mismo, se queda
+de negros recientemente descubierta, el cacique, al verse a sí mismo, se queda
 
-perfectamente estupefacto. Mira una y otra vez, y no puede explicrselo. Sucede
+perfectamente estupefacto. Mira una y otra vez, y no puede explicárselo. Sucede
 
-lo mismo con la predicacin de la palabra: el hombre dice: Vamos, esas son mis
+lo mismo con la predicación de la palabra: el hombre dice: “Vamos, esas son mis
 
-palabras: esa es mi forma de sentir. A menudo me he encontrado con oyentes que
+palabras: esa es mi forma de sentir”. A menudo me he encontrado con oyentes que
 
-exclaman: Qu casualidad, esa la precisa expresin que us cuando vena hacia
+exclaman: “Qué casualidad, esa la precisa expresión que usé cuando venía hacia
 
-ac. Sienten como aquella mujer en la antigedad que dijo: Venid, ved a un
+acá”. Sienten como aquella mujer en la antigüedad que dijo: “Venid, ved a un
 
-hombre que me ha dicho todo cuanto he hecho. Esa persona lee su Biblia, y
+hombre que me ha dicho todo cuanto he hecho”. Esa persona lee su Biblia, y
 
-dice: Venid, ved un libro que me dice todo cuanto he hecho. No es ste el
+dice: “Venid, ved un libro que me dice todo cuanto he hecho. żNo es éste el
 
-libro de Dios? El hecho es que la palabra de Dios discierne los pensamientos y
+libro de Dios?” El hecho es que la palabra de Dios discierne los pensamientos y
 
-las intenciones del corazn. As como han visto colgar en la carnicera los
+las intenciones del corazón. Así como han visto colgar en la carnicería los
 
-cuerpos muertos de animales partidos por la mitad, as la palabra de Dios es
+cuerpos muertos de animales partidos por la mitad, así la palabra de Dios es
 
-viva y eficaz y penetra hasta partir el alma y el espritu, las coyunturas y
+“viva y eficaz… y penetra hasta partir el alma y el espíritu, las coyunturas y
 
-los tutanos. Abre al hombre y le conduce a verse a s mismo. Se queda muy
+los tuétanos”. Abre al hombre y le conduce a verse a sí mismo. Se queda muy
 
 sorprendido y no puede entenderlo. No tengo ninguna duda de que muchos de
 
-ustedes aqu presentes, que son inconversos, han sentido esto bajo la influencia
+ustedes aquí presentes, que son inconversos, han sentido esto bajo la influencia
 
-de un sermn escrutador. Cuando han estado leyendo las Escrituras se han
+de un sermón escrutador. Cuando han estado leyendo las Escrituras se han
 
 quedado perfectamente anonadados por la manera en que se han visto revelados a
 
@@ -368,11 +368,11 @@ ustedes mismos; pero ha sido una obra superficial. Si un hombre se mira en un es
 
 y luego guarda el espejo y sigue su camino, lo ha utilizado pobremente, pues le
 
-hubiera podido servir para que se quitara las manchas, y para que, lavndose,
+hubiera podido servir para que se quitara las manchas, y para que, lavándose,
 
 mejorara su apariencia personal. Mirarte en el espejo y notar una marca negra
 
-en tu frente es un simple juego de nios si no te lavas esa mancha. Verte como
+en tu frente es un simple juego de nińos si no te lavas esa mancha. Verte como
 
 Dios quiere que te veas a ti mismo en el espejo de
 
@@ -380,13 +380,13 @@ la Escritura
 
 es una cosa,
 
-pero debes ir luego a Cristo para ser lavado o la accin de mirarte en el
+pero debes ir luego a Cristo para ser lavado o la acción de mirarte en el
 
-espejo sera una obra muy superficial. Que Dios les conceda que si son llevados
+espejo sería una obra muy superficial. Que Dios les conceda que si son llevados
 
 a sentir el poder revelador de la palabra de Dios, puedan ir de inmediato al
 
-punto prctico y quedar lavados y sern limpios.
+punto práctico y quedar “lavados y serán limpios”.
 
 El texto acusa a estos
 
@@ -394,23 +394,23 @@ individuos de ser
 
 oidores irreflexivos:
 
-l
+“Él
 
-se considera a s mismo y se va. Oyen un sermn, y salen. Nunca le dan tiempo
+se considera a sí mismo y se va”. Oyen un sermón, y salen. Nunca le dan tiempo
 
 a la palabra para que opere; tan pronto concluye el servicio regresan a su vida
 
-normal, regresan a la charla insustancial y a la pltica ociosa. Las reuniones
+normal, regresan a la charla insustancial y a la plática ociosa. Las reuniones
 
 para resolver las inquietudes de los buscadores
 
-son con frecuencia eminentemente tiles porque
+son con frecuencia eminentemente útiles porque
 
-les dan a las personas una pequea oportunidad para pensar en lo que han odo;
+les dan a las personas una pequeńa oportunidad para pensar en lo que han oído;
 
-pero mucho de lo que se oye no va acompaado de la reflexin de manera que
+pero mucho de lo que se oye no va acompańado de la reflexión de manera que
 
-resulta ineficaz. Obtenemos ms de la meditacin que de la audicin. Debemos
+resulta ineficaz. Obtenemos más de la meditación que de la audición. Debemos
 
 rumiar, igual que el ganado, si queremos obtener nutrimento del alimento
 
@@ -418,31 +418,31 @@ espiritual; pero pocos hacen esto. Es una gran misericordia para nosotros,
 
 considerando la cantidad de sinsentido que hay en el mundo, que tengamos dos
 
-odos de manera que dejemos entrar a las palabras ociosas por un odo y las
+oídos de manera que dejemos entrar a las palabras ociosas por un oído y las
 
-dejemos salir por el otro; pero es una gran lstima que usemos esos dos odos
+dejemos salir por el otro; pero es una gran lástima que usemos esos dos oídos
 
 de esa misma manera con respecto a la palabra de Dios. Dale alojamiento,
 
-querido amigo. No permitas que el Evangelio entre por un odo y salga por el
+querido amigo. No permitas que el Evangelio entre por un oído y salga por el
 
-otro. Que cmo has de evitarlo? Pues bien, djalo que entre por los dos odos.
+otro. żQue cómo has de evitarlo? Pues bien, déjalo que entre por los dos oídos.
 
-Que tenga dos caminos de entrada directamente hacia el alma, y cierra tus odos
+Que tenga dos caminos de entrada directamente hacia el alma, y cierra tus oídos
 
-una vez que la verdad haya entrado completamente, y furzala a permanecer en la
+una vez que la verdad haya entrado completamente, y fuérzala a permanecer en la
 
-cmara de tu alma. Cunta bendicin recibiran los hombres si se llevaran la
+cámara de tu alma. Cuánta bendición recibirían los hombres si se llevaran la
 
 palabra a casa con ellos, si desarmaran el texto, lo sopesaran, lo consideraran
 
-y oraran pidiendo una aplicacin personal de esa palabra. Entonces se volveran
+y oraran pidiendo una aplicación personal de esa palabra. Entonces se volverían
 
-espiritualmente sabios por la enseanza del Espritu Santo. Pero, ay, son
+espiritualmente sabios por la enseńanza del Espíritu Santo. Pero, ay, son
 
 oidores irreflexivos. Se ven en el espejo y se van.
 
-Algo ms se dice acerca
+Algo más se dice acerca
 
 de ellos, es decir, que son
 
@@ -450,71 +450,71 @@ oyentes muy
 
 olvidadizos:
 
-olvidan qu tipo de hombres eran. Han odo el discurso, y all
+olvidan qué tipo de hombres eran. Han oído el discurso, y allí
 
 termina todo. Ustedes conocen la historia del regreso a casa de Donald cuando
 
-sali un poco antes de lo usual de la iglesia; su esposa le pregunt: Cmo!
+salió un poco antes de lo usual de la iglesia; su esposa le preguntó: “ˇCómo!
 
-Donald! Ya termin el sermn? l respondi: No, no: ya fue
+ˇDonald! żYa terminó el sermón?” Él respondió: “No, no: ya fue
 
 pronunciado
 
 en su totalidad pero no ha
 
-comenzado a ser puesto en prctica todava. Pero mientras no ha comenzado a
+comenzado a ser puesto en práctica todavía”. Pero mientras no ha comenzado a
 
-ser puesto en prctica, sucede con frecuencia que el sermn ha concluido para muchos
+ser puesto en práctica, sucede con frecuencia que el sermón ha concluido para muchos
 
-oyentes. Lo escucharon, pero pas a travs de ellos como el agua por un tamiz,
+oyentes. Lo escucharon, pero pasó a través de ellos como el agua por un tamiz,
 
-y ya no recordarn nada ms de l hasta el da del juicio. No hay pecado en
+y ya no recordarán nada más de él hasta el día del juicio. No hay pecado en
 
 tener una mala memoria, pero hay un gran pecado cuando se rehusa obedecer de
 
-inmediato el Evangelio. Si maana por la maana no pueden recordar el texto, o
+inmediato el Evangelio. Si mańana por la mańana no pueden recordar el texto, o
 
-ni siquiera pueden recordar el tema, no voy a culparlos; pero el recuerdo del espritu
+ni siquiera pueden recordar el tema, no voy a culparlos; pero el recuerdo del espíritu
 
 de todo el asunto, embeberse de la verdad y absorberla en su interior, eso es
 
-lo principal, y poner en prctica la verdad es la esencia misma del asunto. Hizo
+lo principal, y poner en práctica la verdad es la esencia misma del asunto. Hizo
 
-bien aquel agente viajero, que, cuando escuchaba al seor William Dawson
+bien aquel agente viajero, que, cuando escuchaba al seńor William Dawson
 
 mientras estaba hablando acerca de la deshonestidad, se puso de pie en medio de
 
-la congregacin y quebr un cierto medidor de yardas con el que sola engaar a
+la congregación y quebró un cierto medidor de yardas con el que solía engańar a
 
-sus clientes. Hizo bien aquella mujer que dijo que olvid lo que haba dicho el
+sus clientes. Hizo bien aquella mujer que dijo que olvidó lo que había dicho el
 
-predicador, pero record quemar su almud al regresar a casa, pues ese medidor haba
+predicador, pero recordó quemar su almud al regresar a casa, pues ese medidor había
 
-tenido tambin una medida menor. No te preocupes por tratar de recordar el
+tenido también una medida menor. No te preocupes por tratar de recordar el
 
-sermn si recuerdas ponerlo en prctica de inmediato. Puedes olvidar las
+sermón si recuerdas ponerlo en práctica de inmediato. Puedes olvidar las
 
 palabras en las que fue cobijada la verdad, si quieres, pero deja que purifique
 
-tu vida. Eso me recuerda a la piadosa mujer que sola ganar su sustento lavando
+tu vida. Eso me recuerda a la piadosa mujer que solía ganar su sustento lavando
 
-lana. Cuando su ministro la visit y le pregunt acerca del sermn que haba
+lana. Cuando su ministro la visitó y le preguntó acerca del sermón que había
 
-predicado, ella le confes que haba olvidado el texto; l le dijo: Qu bien
+predicado, ella le confesó que había olvidado el texto; él le dijo: “żQué bien
 
-pudiste haber obtenido de l? Entonces ella lo condujo a la parte trasera de
+pudiste haber obtenido de él?” Entonces ella lo condujo a la parte trasera de
 
-su casa, donde practicaba su oficio. Puso la lana en un tamiz, y luego bombe
+su casa, donde practicaba su oficio. Puso la lana en un tamiz, y luego bombeó
 
-en l. He all, seor le dijo- su sermn es como esa agua. Fluye a travs
+en él. “He allí, seńor” –le dijo- “su sermón es como esa agua. Fluye a través
 
-de mi mente, seor, tal como el agua corre a travs del tamiz; pero, por otra
+de mi mente, seńor, tal como el agua corre a través del tamiz; pero, por otra
 
-parte, el agua lava la lana, seor, y as la buena palabra lava mi alma.
+parte, el agua lava la lana, seńor, y así la buena palabra lava mi alma”.
 
 David, en el Salmo ciento tres habla de aquellos que se acuerdan de los
 
-mandamientos del Seor para
+mandamientos del Seńor para
 
 ponerlos por
 
@@ -522,7 +522,7 @@ obra,
 
 y esa es la mejor memoria. Procuren tenerla.
 
-He descrito as a
+He descrito así a
 
 ciertos oidores, y me temo que tenemos a muchos de esos en todas las congregaciones;
 
@@ -530,49 +530,49 @@ oidores que admiran, oidores que son afectuosos, oidores apegados, pero que
 
 todo el tiempo son oidores carentes de bienaventuranza porque no son hacedores
 
-de la obra. Nos hemos preguntado cmo es posible que no confesaran nunca ser
+de la obra. Nos hemos preguntado cómo es posible que no confesaran nunca ser
 
-seguidores de Cristo, pero sospechamos que no han hecho nunca esa confesin porque
+seguidores de Cristo, pero sospechamos que no han hecho nunca esa confesión porque
 
-no sera verdadera; y sin embargo, son muy buenos, muy benevolentes, son tiles
+no sería verdadera; y sin embargo, son muy buenos, muy benevolentes, son útiles
 
 para la buena causa y sus vidas son muy rectas y encomiables, pero nos aflige
 
 que no sean cristianos resueltos. Una cosa les falta: no tienen fe en Cristo. Me
 
-sorprende verdaderamente ver cmo algunos de ustedes pueden favorecer tanto
+sorprende verdaderamente ver cómo algunos de ustedes pueden favorecer tanto
 
 todo lo que tenga que ver con las cosas divinas, y no obstante, no tienen
 
-ninguna participacin en el buen tesoro. Qu diran de un cocinero que preparara
+ninguna participación en el buen tesoro. żQué dirían de un cocinero que preparara
 
-comidas para otras personas pero que muriera de inanicin? Un cocinero
+comidas para otras personas pero que muriera de inanición? Un cocinero
 
-insensato, diran ustedes. Un oyente insensato, digo yo. Van a ser como los
+insensato, dirían ustedes. Un oyente insensato, digo yo. żVan a ser como los
 
-amigos tirios de Salomn, que ayudaron a edificar el templo y, sin embargo,
+amigos tirios de Salomón, que ayudaron a edificar el templo y, sin embargo,
 
-continuaron adorando a sus dolos? Seores, van a contemplar la mesa de la
+continuaron adorando a sus ídolos? Seńores, żvan a contemplar la mesa de la
 
-misericordia y van a admirarla, y con todo, rehusarn sus provisiones? Te da
+misericordia y van a admirarla, y con todo, rehusarán sus provisiones? żTe da
 
 un estremecimiento de placer ver a tantas personas recogidas de los caminos y
 
-de los vallados y que son forzadas a entrar y te quedars t afuera y no
+de los vallados y que son forzadas a entrar y te quedarás tú afuera y no
 
-participars nunca? Siempre me compadezco de los pobres muchachitos que en una fra
+participarás nunca? Siempre me compadezco de los pobres muchachitos que en una fría
 
 noche de invierno se paran frente a la humeante vitrina de un restaurante y
 
-miran al interior y ven que otros se estn dando un banquete mientras ellos no
+miran al interior y ven que otros se están dando un banquete mientras ellos no
 
-tienen absolutamente nada. No puedo entenderlos a ustedes; todo est listo, y han
+tienen absolutamente nada. No puedo entenderlos a ustedes; todo está listo, y han
 
 sido invitados y persuadidos a venir, y sin embargo, se contentan con perecer
 
-de hambre. Yo les ruego que reflexionen y le pido al Espritu de Dios que los
+de hambre. Yo les ruego que reflexionen y le pido al Espíritu de Dios que los
 
-haga hacedores de la palabra, y no nicamente oidores, pues se engaan a
+haga hacedores de la palabra, y no únicamente oidores, pues se engańan a
 
 ustedes mismos.
 
@@ -582,13 +582,13 @@ Pero
 
 ahora vamos a dedicar unos cuantos minutos a los que son OIDORES
 
-BIENAVENTURADOS, aquellos que obtienen la bendicin. Quines son? Estn
+BIENAVENTURADOS, aquellos que obtienen la bendición. żQuiénes son? Están
 
-descritos en el versculo veinticinco, Mas el que mira atentamente en la
+descritos en el versículo veinticinco, “Mas el que mira atentamente en la
 
 perfecta ley, la de la libertad, y persevera en ella, no siendo oidor
 
-olvidadizo, sino hacedor de la obra, ste ser bienaventurado en lo que hace.
+olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace”.
 
 Noten que este oidor que
 
@@ -596,9 +596,9 @@ es bienaventurado es, antes que nada,
 
 un
 
-oyente atento, vido y humilde.
+oyente atento, ávido y humilde.
 
-Noten la expresin. l no mira
+Noten la expresión. Él no mira
 
 sobre la superficie
 
@@ -608,33 +608,33 @@ libertad y sigue adelante, sino que mira
 
 en
 
-ella. Se trata de la misma palabra que es utilizada en el pasaje, cosas en
+ella. Se trata de la misma palabra que es utilizada en el pasaje, “cosas en
 
-las cuales anhelan mirar los ngeles, y la palabra griega pareciera implicar
+las cuales anhelan mirar los ángeles”, y la palabra griega pareciera implicar
 
-algo as como encorvarse para mirar muy atentamente en el interior de algo. As
+algo así como encorvarse para mirar muy atentamente en el interior de algo. Así
 
-sucede con el oidor que obtiene la bendicin. Oye el Evangelio y dice: Voy a
+sucede con el oidor que obtiene la bendición. Oye el Evangelio y dice: “Voy a
 
-mirar en esto. Hay algo aqu que merece la atencin. Se encorva y se convierte
+mirar en esto. Hay algo aquí que merece la atención”. Se encorva y se convierte
 
-en un niito para poder aprender. Explora como lo hacen los hombres que estn
+en un nińito para poder aprender. Explora como lo hacen los hombres que están
 
-buscando diamantes u oro. Voy a ver en el interior de esto, dice. Mi madre
+buscando diamantes u oro. “Voy a ver en el interior de esto”, dice. “Mi madre
 
-sola decirme que haba algo encantador en eso, y mi padre muri triunfalmente,
+solía decirme que había algo encantador en eso, y mi padre murió triunfalmente,
 
-gracias a su influencia; voy a investigarlo. No ser por falta de examen que lo
+gracias a su influencia; voy a investigarlo. No será por falta de examen que lo
 
-deje escapar. Tal individuo oye con mucha atencin y aplicacin, abriendo su
+deje escapar”. Tal individuo oye con mucha atención y aplicación, abriendo su
 
 alma a las influencias de la verdad y deseando sentir su santo poder para poner
 
-en prctica sus divinos mandamientos. As debe ser un oyente: un oidor atento cuyos
+en práctica sus divinos mandamientos. Así debe ser un oyente: un oidor atento cuyos
 
-sentidos estn despiertos para recibir y retener todo lo que pueda aprenderse.
+sentidos están despiertos para recibir y retener todo lo que pueda aprenderse.
 
-Est implcito, tambin,
+Está implícito, también,
 
 que es un oidor
 
@@ -644,37 +644,37 @@ escrutador:
 
 mira en la perfecta ley. Voy a utilizar nuevamente una figura.
 
-As como un hombre pone un insecto bajo un cristal y lo inspecciona
+Así como un hombre pone un insecto bajo un cristal y lo inspecciona
 
-repetidamente a travs del microscopio mira sus alas, estudia cada una de las
+repetidamente a través del microscopio –mira sus alas, estudia cada una de las
 
 articulaciones de la espalda y cada una de las partes de la criatura bajo su
 
-escrutinio- as tambin un oyente que desea una bendicin, mira de cerca en el
+escrutinio- así también un oyente que desea una bendición, mira de cerca en el
 
 interior de la palabra. Es sagradamente curioso. Hace preguntas, escarba.
 
 Pregunta a todos aquellos que se supone que saben. Le gusta juntarse con
 
-cristianos experimentados para or acerca de sus experiencias. A l le encanta
+cristianos experimentados para oír acerca de sus experiencias. A él le encanta
 
 acomodar lo espiritual a lo espiritual, analizar minuciosamente un texto y ver
 
-qu relacin guarda con otro texto y con sus propios componentes, pues pone
+qué relación guarda con otro texto y con sus propios componentes, pues pone
 
-mucho empeo cuando oye la palabra. Ay, queridos amigos, tal como lo he dicho
+mucho empeńo cuando oye la palabra. Ay, queridos amigos, tal como lo he dicho
 
 antes, muchos oyentes son demasiado superficiales; escuchan lo que se dice, y
 
-all termina todo, pues nunca buscan la mdula de los huesos. El oyente que
+allí termina todo, pues nunca buscan la médula de los huesos. El oyente que
 
-obtiene una bendicin primero pone toda la atencin de su corazn, y
+obtiene una bendición primero pone toda la atención de su corazón, y
 
-posteriormente mantiene su corazn saturado con la verdad gracias a un denodado
+posteriormente mantiene su corazón saturado con la verdad gracias a un denodado
 
-y diligente estudio escrutador de ella, y as, mediante la enseanza del
+y diligente estudio escrutador de ella, y así, mediante la enseńanza del
 
-Espritu, descubre cul es la mente de Dios para su alma.
+Espíritu, descubre cuál es la mente de Dios para su alma.
 
 Luego este oyente sigue
 
@@ -686,25 +686,25 @@ que el Evangelio es una ley de libertad:
 
 y ciertamente lo es. Bienaventurada
 
-es la condicin de quienes estn libres de la ley de Moiss y estn bajo la ley
+es la condición de quienes están libres de la ley de Moisés y están bajo la ley
 
-de Cristo, quien emancipa al alma de toda forma de esclavitud. No hay ningn
+de Cristo, quien emancipa al alma de toda forma de esclavitud. No hay ningún
 
-gozo como el gozo del perdn, no hay liberacin como la liberacin de la
+gozo como el gozo del perdón, no hay liberación como la liberación de la
 
 esclavitud del pecado, no hay libertad como la libertad de la santidad, la
 
 libertad de acercarse a Dios. Quien escucha el Evangelio rectamente pronto descubre
 
-que hay algo en l que
+que hay algo en él que
 
-quitar cada
+quitará cada
 
 grillete de su alma. Mira, y mira, y al fin ama esa perfecta ley de libertad
 
-que libera a su alma para correr en el camino de los mandamientos de Dios. Ojal
+que libera a su alma para correr en el camino de los mandamientos de Dios. Ojalá
 
-que todos ustedes lo entendieran, y tuvieran una participacin en sus
+que todos ustedes lo entendieran, y tuvieran una participación en sus
 
 beneficios. Este es el hombre que es bendecido mientras oye.
 
@@ -712,89 +712,89 @@ Pero se agrega que
 
 persevera en ella.
 
-Si t oyes el
+Si tú oyes el
 
-Evangelio y no te bendice, yelo de nuevo. Si has ledo la palabra de Dios y no
+Evangelio y no te bendice, óyelo de nuevo. Si has leído la palabra de Dios y no
 
-te ha salvado, lela de nuevo. Ella
+te ha salvado, léela de nuevo. Ella
 
 es
 
 capaz
 
-de salvar tu alma. Has estado escudriando a lo largo de un libro agraciado y
+de salvar tu alma. żHas estado escudrińando a lo largo de un libro agraciado y
 
-sincero, y no pareci adecuarse a tu caso? Prueba otro. Oh, si los hombres
+sincero, y no pareció adecuarse a tu caso? Prueba otro. Oh, si los hombres
 
-buscaran la salvacin como buscan un tesoro oculto no les tomara mucho tiempo
+buscaran la salvación como buscan un tesoro oculto no les tomaría mucho tiempo
 
-antes de que la encontraran. Yo recuerdo, cuando estaba buscando a Cristo, cmo
+antes de que la encontraran. Yo recuerdo, cuando estaba buscando a Cristo, cómo
 
-le el libro de Doddridge El Surgimiento y el Progreso de
+leí el libro de Doddridge “El Surgimiento y el Progreso de
 
-la Religin
+la Religión
 
-con una
+” con una
 
-avidez tal como la que mostraba cuando siendo un muchacho yo lea algn cuento
+avidez tal como la que mostraba cuando siendo un muchacho yo leía algún cuento
 
-divertido pues devoraba cada pgina vidamente. Cuando hube concluido con
+divertido pues devoraba cada página ávidamente. Cuando hube concluido con
 
-Doddridge le de Baxter Un llamado a los Inconversos, que me hizo bien, pero
+Doddridge leí de Baxter “Un llamado a los Inconversos”, que me hizo bien, pero
 
-no me produjo ningn consuelo. Le cada pgina, y absorb cada palabra, aunque
+no me produjo ningún consuelo. Leí cada página, y absorbí cada palabra, aunque
 
-el libro fue sumamente amargo para m. Yo necesitaba a Cristo, y si poda
+el libro fue sumamente amargo para mí. Yo necesitaba a Cristo, y si podía
 
-encontrarlo, y encontrar la vida eterna por medio de l, no me importaba con
+encontrarlo, y encontrar la vida eterna por medio de Él, no me importaba con
 
-cunta frecuencia mis ojos se cansaran por falta de sueo por la lectura. Oh,
+cuánta frecuencia mis ojos se cansaran por falta de sueńo por la lectura. Oh,
 
-si llegan a esto: que tienen que tener a Jess,
+si llegan a esto: que tienen que tener a Jesús,
 
-lo tendrn.
+lo tendrán.
 
 Si su alma es conducida a sentir que van a buscar en
 
 todo el cielo y en toda la tierra, si fuera necesario, pero que van a encontrar
 
-al Salvador, ese Salvador pronto se aparecer ante ustedes. El oyente que gana
+al Salvador, ese Salvador pronto se aparecerá ante ustedes. El oyente que gana
 
-la salvacin mira atentamente en la perfecta ley, la de la libertad,
+la salvación “mira atentamente en la perfecta ley, la de la libertad”,
 
 y persevera en ella.
 
-Por ltimo, se agrega
+Por último, se agrega
 
 que este hombre no es un oyente olvidadizo, sino
 
 un hacedor de la palabra,
 
-y que ser bienaventurado en lo que hace.
+y que será bienaventurado en lo que hace.
 
-Se le indica que ore? l
+żSe le indica que ore? Él
 
-ora de la mejore manera que puede. Se le ordena que se arrepienta? Entonces le
+ora de la mejore manera que puede. żSe le ordena que se arrepienta? Entonces le
 
-pide a Dios que lo capacite para arrepentirse. Se le ordena que crea? l dice:
+pide a Dios que lo capacite para arrepentirse. żSe le ordena que crea? Él dice:
 
-Seor, creo; ayuda mi incredulidad. Pone en prctica todo lo que oye. Yo
+“Seńor, creo; ayuda mi incredulidad”. Pone en práctica todo lo que oye. Yo
 
-deseara que tuviramos miles de oyentes de esa clase. Me acuerdo haber ledo
+desearía que tuviéramos miles de oyentes de esa clase. Me acuerdo haber leído
 
-acerca de cierto individuo que oy que hay que dar a Dios el diezmo de nuestros
+acerca de cierto individuo que oyó que hay que dar a Dios el diezmo de nuestros
 
-ingresos. Bien dijo l- eso est bien, y yo lo har; y guard su promesa.
+ingresos. “Bien” –dijo él- “eso está bien, y yo lo haré”; y guardó su promesa.
 
-Oy que Daniel se acercaba a Dios en oracin tres veces al da. Ese hombre dijo:
+Oyó que Daniel se acercaba a Dios en oración tres veces al día. Ese hombre dijo:
 
-eso est bien; yo lo har; y practic un triple acercamiento al trono de la
+“eso está bien; yo lo haré”; y practicó un triple acercamiento al trono de la
 
-gracia cada da. Cada vez que oa algo que era excelente lo converta en una
+gracia cada día. Cada vez que oía algo que era excelente lo convertía en una
 
-regla y lo pona en prctica de inmediato. Form as hbitos santos y un noble
+regla y lo ponía en práctica de inmediato. Formó así hábitos santos y un noble
 
-carcter, y se convirti en un bienaventurado oidor de la palabra.
+carácter, y se convirtió en un bienaventurado oidor de la palabra.
 
 Queridos amigos, nuestro
 
@@ -820,79 +820,79 @@ en
 
 ello. El
 
-feliz resultado nos llegar en el acto de obediencia. Que Dios les conceda la
+feliz resultado nos llegará en el acto de obediencia. Que Dios les conceda la
 
 gracia de que, a partir de ahora, siempre que el Evangelio sea predicado, con
 
-la energa que el Espritu de Dios infunde en ustedes sean movidos a decir: yo
+la energía que el Espíritu de Dios infunde en ustedes sean movidos a decir: “yo
 
-lo har. No voy a soar al respecto, o a hablar al respecto, o a preguntar al
+lo haré. No voy a sońar al respecto, o a hablar al respecto, o a preguntar al
 
-respecto, o a decir: yo lo har, sin hacerlo, sino que ahora, de inmediato,
+respecto, o a decir: yo lo haré, sin hacerlo, sino que ahora, de inmediato,
 
-realizar el acto que ha sido ordenado.
+realizaré el acto que ha sido ordenado”.
 
 Concluyo con esta
 
-sugerencia prctica. Para algunos de ustedes que me oyen en este da, la
+sugerencia práctica. Para algunos de ustedes que me oyen en este día, la
 
-porcin restante de su vida es corta. Estn cubiertos de cabellos grises y, de
+porción restante de su vida es corta. Están cubiertos de cabellos grises y, de
 
-acuerdo al curso de la naturaleza, pronto habrn de estar delante de su Juez.
+acuerdo al curso de la naturaleza, pronto habrán de estar delante de su Juez.
 
-No sera bueno que pensaran acerca del otro mundo y consideraran cmo van a
+żNo sería bueno que pensaran acerca del otro mundo y consideraran cómo van a
 
-comparecer delante de su Seor en el ltimo gran da? El Evangelio dice: Cree
+comparecer delante de su Seńor en el último gran día? El Evangelio dice: “Cree
 
-en el Seor Jesucristo, lo que en otras palabras significa, Confa en l.
+en el Seńor Jesucristo”, lo que en otras palabras significa, “Confía en Él”.
 
-Arrepintete; confiesa tu pecado, abandnalo y mira a Cristo para quedar limpio.
+Arrepiéntete; confiesa tu pecado, abandónalo y mira a Cristo para quedar limpio.
 
-Ese es el camino de la salvacin, El que creyere y fuere bautizado, ser
+Ese es el camino de la salvación, “El que creyere y fuere bautizado, será
 
-salvo. T sabes todo acerca del camino de la vida. Te estoy contando una
+salvo”. Tú sabes todo acerca del camino de la vida. Te estoy contando una
 
-historia que has odo miles de veces, pero la pregunta es,
+historia que has oído miles de veces, pero la pregunta es,
 
-cundo vas a hacerlo?
+żcuándo vas a hacerlo?
 
-Pronto, amigo, dices t. Pero no estabas
+“Pronto, amigo”, dices tú. żPero no estabas
 
-aqu cuando este Tabernculo fue inaugurado? S, respondes, creo que s. En
+aquí cuando este Tabernáculo fue inaugurado? “Sí”, respondes, “creo que sí”. En
 
-aquel entonces dijiste: pronto, y ahora dices: pronto. Creo que dirs:
+aquel entonces dijiste: “pronto”, y ahora dices: “pronto”. Creo que dirás:
 
-pronto hasta que esa palabra pronto se encuentre con esta pesada sentencia,
+“pronto” hasta que esa palabra “pronto” se encuentre con esta pesada sentencia,
 
-Demasiado tarde, demasiado tarde; no puedes entrar ahora. Pon cuidado para
+“Demasiado tarde, demasiado tarde; no puedes entrar ahora”. Pon cuidado para
 
-que este no sea tu caso antes de que este da haya concluido. Algunos hombres
+que este no sea tu caso antes de que este día haya concluido. Algunos hombres
 
-mueren de pronto. Una hermana vino a m esta maana y me dijo: Mi padre ha
+mueren de pronto. Una hermana vino a mí esta mańana y me dijo: “Mi padre ha
 
-muerto: estaba bien en la maana, regres a casa del taller, pareca un poco
+muerto: estaba bien en la mańana, regresó a casa del taller, parecía un poco
 
-enfermo y muri de pronto. Viendo que la vida es tan precaria, no sera lo
+enfermo y murió de pronto”. Viendo que la vida es tan precaria, żno sería lo
 
-mejor que buscaras inmediatamente al Seor mientras puede ser hallado, y que lo
+mejor que buscaras inmediatamente al Seńor mientras puede ser hallado, y que lo
 
-invoques mientras est cerca? Yo sugerira que no comenzaras a chismear y a
+invoques mientras está cerca? Yo sugeriría que no comenzaras a chismear y a
 
 hablar en el camino de regreso a casa, sino que te quedaras a solas un poco de
 
-tiempo tranquilamente. Respondes que no tienes ningn lugar donde puedas estar
+tiempo tranquilamente. żRespondes que no tienes ningún lugar donde puedas estar
 
 a solas? Eso no es cierto, pues puedes encontrar un lugar u otro. Recuerdo a un
 
-marinero que sola encontrar su aposento de oracin en el mstil: nadie suba
+marinero que solía encontrar su aposento de oración en el mástil: nadie subía
 
-all para molestarle. Conoc a un carpintero que sola descender a un pozo de
+allí para molestarle. Conocí a un carpintero que solía descender a un pozo de
 
-aserrn para orar. Hay muchos lugares como esos. Las calles de Londres, cuando
+aserrín para orar. Hay muchos lugares como esos. Las calles de Londres, cuando
 
-estn abarrotadas, son casi tan solitarias como cualquier otra parte, y
+están abarrotadas, son casi tan solitarias como cualquier otra parte, y
 
-Cheapside puede ser tan buen lugar como la falda de una montaa si tu corazn
+Cheapside puede ser tan buen lugar como la falda de una montańa si tu corazón
 
 desea una soledad real.
 
@@ -900,35 +900,35 @@ Me temo que algunos de
 
 ustedes no piensan nunca. En cuanto a pensar, si sus cerebros fueran
 
-suprimidos, muchos de ustedes viviran sin ellos casi tan bien como lo hacen
+suprimidos, muchos de ustedes vivirían sin ellos casi tan bien como lo hacen
 
-ahora. Los cerebros de algunas personas son tiles nicamente como un tipo de
+ahora. Los cerebros de algunas personas son útiles únicamente como un tipo de
 
-sal que las protege de que se echen a perder por la muerte. La gran mayora de
+sal que las protege de que se echen a perder por la muerte. La gran mayoría de
 
-la gente piensa poco, con la excepcin de este pensamiento: qu comeremos, y
+la gente piensa poco, con la excepción de este pensamiento: “żqué comeremos, y
 
-qu beberemos? Te ruego que pienses un poco. Haz una pausa y considera lo que
+qué beberemos?” Te ruego que pienses un poco. Haz una pausa y considera lo que
 
-Dios el Seor pone ante ti. S un hacedor de
+Dios el Seńor pone ante ti. Sé un hacedor de
 
 la obra. Haz lo que Dios te ordena. Si te pide que te arrepientas,
 
-arrepintete; si te pide que creas, cree; si te pide que ores, ora; si te pide
+arrepiéntete; si te pide que creas, cree; si te pide que ores, ora; si te pide
 
 que aceptes Su gracia, con la ayuda de Dios, hazlo. Oh, que lo hagas de
 
-inmediato, y para el Seor ser la alabanza por los siglos de los siglos. Amn.
+inmediato, y para el Seńor será la alabanza por los siglos de los siglos. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Santiago 1.
+del sermón: Santiago 1.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 7/NOviembre/2013
 

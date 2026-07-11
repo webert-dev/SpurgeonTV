@@ -1,8 +1,8 @@
 # Sermón 967 | Sermón 967
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Los Magos,
 
@@ -10,9 +10,9 @@ la Estrella
 
 y el Salvador
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,71 +20,71 @@ DOMINGO 25 DE
 
 DICIEMBRE, 1870
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Dnde est
+“żDónde está
 
-el rey de los judos, que ha nacido? Porque su estrella hemos visto en el
+el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el
 
-oriente, y venimos a adorarle. Mateo 2:2.
+oriente, y venimos a adorarle”. Mateo 2:2.
 
-La encarnacin del Hijo
+La encarnación del Hijo
 
 de Dios ha sido uno de los mayores acontecimientos en la historia del universo.
 
 Con todo, el suceso no fue algo de lo que se enterara la humanidad entera, ya
 
-que fue revelado especialmente a los pastores de Beln y a ciertos magos del
+que fue revelado especialmente a los pastores de Belén y a ciertos magos del
 
-oriente. Unos ngeles dieron a conocer a los pastores (seres ignorantes,
+oriente. Unos ángeles dieron a conocer a los pastores (seres ignorantes,
 
-hombres poco versados en el saber humano), en cnticos corales, el nacimiento
+hombres poco versados en el saber humano), en cánticos corales, el nacimiento
 
-del Salvador, de Cristo el Seor, y ellos salieron presurosos a Beln para ver
+del Salvador, de Cristo el Seńor, y ellos salieron presurosos a Belén para ver
 
-el grandioso espectculo; en cambio, los escribas (legisladores e intrpretes
+el grandioso espectáculo; en cambio, los escribas (legisladores e intérpretes
 
 de la ley) no supieron absolutamente nada respecto al nacimiento largamente
 
-prometido del Mesas. No hubo una multitud de las huestes anglicas que entrara
+prometido del Mesías. No hubo una multitud de las huestes angélicas que entrara
 
-en la asamblea del Sanedrn para proclamar que el Cristo haba nacido; y cuando
+en la asamblea del Sanedrín para proclamar que el Cristo había nacido; y cuando
 
 fueron convocados los principales sacerdotes y los fariseos, a pesar de que
 
-disponan de copias de la ley para considerar dnde haba de nacer el Cristo,
+disponían de copias de la ley para considerar dónde había de nacer el Cristo,
 
-desconocan que ya hubiera nacido, y se tiene la impresin de que slo tenan
+desconocían que ya hubiera nacido, y se tiene la impresión de que sólo tenían
 
-un inters pasajero en el asunto, a pesar de que podran haber sabido que entonces
+un interés pasajero en el asunto, a pesar de que podrían haber sabido que entonces
 
-era el tiempo del que haban hablado los profetas para la venida del grandioso
+era el tiempo del que habían hablado los profetas para la venida del grandioso
 
-Mesas. Cun misteriosas son las dispensaciones de la gracia; lo vil es
+Mesías. Cuán misteriosas son las dispensaciones de la gracia; ˇlo vil es
 
 escogido y lo eminente es soslayado! El advenimiento del Redentor es revelado a
 
-unos pastores que cuidaban sus rebaos de ovejas durante la noche, pero no a esos
+unos pastores que cuidaban sus rebańos de ovejas durante la noche, pero no a esos
 
 otros pastores cuyas ovejas sumidas en la ignorancia eran entregadas al
 
-descarro. Admiren en eso la soberana de Dios.
+descarrío. Admiren en eso la soberanía de Dios.
 
 Las buenas nuevas fueron
 
-dadas a conocer tambin a unos sabios, a unos magos que eran estudiosos de las
+dadas a conocer también a unos sabios, a unos magos que eran estudiosos de las
 
-estrellas y de los antiguos libros profticos del lejano oriente. No sera posible
+estrellas y de los antiguos libros proféticos del lejano oriente. No sería posible
 
-decir cun lejos se encontraba su pas de origen; pudiera haber estado tan
+decir cuán lejos se encontraba su país de origen; pudiera haber estado tan
 
-distante que el viaje tomara casi dos aos, que es el tiempo que mencionaron
+distante que el viaje tomara casi dos ańos, que es el tiempo que mencionaron
 
-concerniente a la aparicin de la estrella. Los viajes eran lentos en aquellos
+concerniente a la aparición de la estrella. Los viajes eran lentos en aquellos
 
-das, y estaban rodeados de dificultades y de muchos peligros. Pudieran haber
+días, y estaban rodeados de dificultades y de muchos peligros. Pudieran haber
 
 llegado de Persia, o de
 
@@ -94,75 +94,75 @@ la India
 
 o de Tartaria, o aun de la misteriosa tierra de Sinim, conocida por nosotros
 
-ahora como China. Si as fue, extrao y ordinario debe de haber sido el lenguaje
+ahora como China. Si así fue, extrańo y ordinario debe de haber sido el lenguaje
 
-de quienes adoraban alrededor del Nio de Beln, y con todo, l no necesit de
+de quienes adoraban alrededor del Nińo de Belén, y con todo, Él no necesitó de
 
-ningn intrprete para entender y aceptar su adoracin. Por qu el nacimiento
+ningún intérprete para entender y aceptar su adoración. żPor qué el nacimiento
 
-del rey de los judos fue dado a conocer a esos extranjeros y no a los ms
+del rey de los judíos fue dado a conocer a esos extranjeros y no a los más
 
-cercanos a casa? Por qu el Seor seleccion a quienes estaban a cientos de
+cercanos a casa? żPor qué el Seńor seleccionó a quienes estaban a cientos de
 
-miles de kilmetros de distancia, mientras que los hijos del reino, en cuyo
+miles de kilómetros de distancia, mientras que los hijos del reino, en cuyo
 
-propio seno naci el Salvador, eran extraamente ignorantes de Su presencia?
+propio seno nació el Salvador, eran extrańamente ignorantes de Su presencia?
 
-Vean aqu otra vez otro ejemplo de la soberana de Dios.
+Vean aquí otra vez otro ejemplo de la soberanía de Dios.
 
 Tanto en los pastores
 
-como en los magos del oriente que se juntaron en torno al Nio, veo cmo Dios dispensa
+como en los magos del oriente que se juntaron en torno al Nińo, veo cómo Dios dispensa
 
-Sus favores como quiere, y, vindolo, exclamo: Te alabo, Padre, Seor del
+Sus favores como quiere, y, viéndolo, exclamo: “Te alabo, Padre, Seńor del
 
 cielo y de la tierra, porque escondiste estas cosas de los sabios y de los
 
-entendidos, y las revelaste a los nios. S, Padre, porque as te agrad. Aqu
+entendidos, y las revelaste a los nińos. Sí, Padre, porque así te agradó”. Aquí
 
 vemos de nuevo otro ejemplo de la voluntad soberana de Dios, pues aunque muchas
 
-viudas haba en Israel en los das del profeta Elas, a ninguna de ellas fue
+viudas había en Israel en los días del profeta Elías, a ninguna de ellas fue
 
-enviado Elas, sino a la mujer de Sarepta; muchos haba que eran llamados
+enviado Elías, sino a la mujer de Sarepta; muchos había que eran llamados
 
-sabios entre los judos, pero a ninguno de ellos se le apareci la estrella,
+sabios entre los judíos, pero a ninguno de ellos se le apareció la estrella,
 
-sino que resplandeci para unos ojos gentiles, y un selecto grupo fue conducido
+sino que resplandeció para unos ojos gentiles, y un selecto grupo fue conducido
 
 desde los confines de la tierra a postrarse a los pies de Emanuel.
 
-La soberana en estos
+La soberanía en estos
 
-casos se visti con las ropas de la misericordia. Fue una gran misericordia la
+casos se vistió con las ropas de la misericordia. Fue una gran misericordia la
 
-que consider el humilde estado de los pastores, y fue una misericordia de
+que consideró el humilde estado de los pastores, y fue una misericordia de
 
-largo alcance la que reuni desde tierras asentadas en tinieblas a un grupo de
+largo alcance la que reunió desde tierras asentadas en tinieblas a un grupo de
 
-hombres hechos sabios para la salvacin. La misericordia, llevando sus
+hombres hechos sabios para la salvación. La misericordia, llevando sus
 
-esplendentes joyas, estuvo presente con la soberana divina en el humilde albergue
+esplendentes joyas, estuvo presente con la soberanía divina en el humilde albergue
 
-de Beln. Acaso no es deleitable el pensamiento de que en torno a la cuna del
+de Belén. żAcaso no es deleitable el pensamiento de que en torno a la cuna del
 
-Salvador, as como en torno a Su trono en el ms excelso cielo, se renen esos
+Salvador, así como en torno a Su trono en el más excelso cielo, se reúnen esos
 
-dos atributos? l se da a conocer y all est Su misericordia; pero l se
+dos atributos? Él se da a conocer –y allí está Su misericordia; pero Él se
 
-revela a quienes ha escogido, y all muestra que tendr misericordia del que l
+revela a quienes ha escogido, y allí muestra que tendrá misericordia del que Él
 
-tenga misericordia, y se compadecer del que l se compadezca.
+tenga misericordia, y se compadecerá del que Él se compadezca.
 
 Vamos a procurar aprender
 
-ahora una leccin prctica de la historia de los magos que vinieron del oriente
+ahora una lección práctica de la historia de los magos que vinieron del oriente
 
-para adorar a Cristo. Si Dios el Espritu Santo nos instruye, podremos extraer
+para adorar a Cristo. Si Dios el Espíritu Santo nos instruye, podremos extraer
 
-una enseanza que nos conduzca a convertirnos en adoradores del Salvador y en
+una enseńanza que nos conduzca a convertirnos en adoradores del Salvador y en
 
-dichosos creyentes en l.
+dichosos creyentes en Él.
 
 Noten, primero,
 
@@ -170,289 +170,295 @@ su pregunta.
 
 Que muchos de nosotros nos
 
-volvamos inquisidores respecto al mismo asunto: Dnde est el rey de los
+volvamos inquisidores respecto al mismo asunto: “żDónde está el rey de los
 
-judos, que ha nacido? Noten, en segundo lugar,
+judíos, que ha nacido?” Noten, en segundo lugar,
 
-su estmulo:
+su estímulo:
 
-Su estrella hemos visto. Debido a que haban visto
+“Su estrella hemos visto”. Debido a que habían visto
 
-la estrella tuvieron la valenta de preguntar: Dnde est l? Y luego, en
+la estrella tuvieron la valentía de preguntar: “żDónde está Él?” Y luego, en
 
 tercer lugar,
 
 su ejemplo:
 
-Venimos a
+“Venimos a
 
-adorarle.
+adorarle”.
 
 I.
 
 Consideremos
 
-SU PREGUNTA: Dnde est l?
+SU PREGUNTA: “żDónde está Él?”
 
 Muchas cosas son
 
 evidentes en esta pregunta. Es claro que cuando los magos hicieron esa pregunta,
 
-haba en sus mentes un
+había en sus mentes un
 
-vivo inters.
+vivo interés.
 
 El
 
-rey de los judos haba nacido, pero Herodes no pregunt: Dnde est? sino hasta
+rey de los judíos había nacido, pero Herodes no preguntó: “żDónde está?” sino hasta
 
-que sus celos fueron provocados, pero entonces hizo la pregunta con un espritu
+que sus celos fueron provocados, pero entonces hizo la pregunta con un espíritu
 
-malintencionado. Cristo naci en Beln, cerca de Jerusaln; sin embargo, a lo
+malintencionado. Cristo nació en Belén, cerca de Jerusalén; sin embargo, a lo
 
-largo de todas las calles de la ciudad santa no haba gente que preguntara:
+largo de todas las calles de la ciudad santa no había gente que preguntara:
 
-Dnde est? l haba de ser la gloria de Israel, y no obstante, en Israel
+“żDónde está?” Él había de ser la gloria de Israel, y no obstante, en Israel
 
-haba muy pocas personas, en verdad, como esos magos, que hicieran la pregunta:
+había muy pocas personas, en verdad, como esos magos, que hicieran la pregunta:
 
-Dnde est? Mis queridos oyentes, quiero creer que hay algunos individuos aqu
+“żDónde está?” Mis queridos oyentes, quiero creer que hay algunos individuos aquí
 
-esta maana a quienes Dios tiene el propsito de bendecir, y sera una seal
+esta mańana a quienes Dios tiene el propósito de bendecir, y sería una seńal
 
-muy esperanzadora de que l tiene ese propsito si hubiese un vivo inters en
+muy esperanzadora de que Él tiene ese propósito si hubiese un vivo interés en
 
 la mente de ustedes respecto a la obra y la persona del Dios encarnado. Quienes
 
-desean ansiosamente saber de l constituyen un grupo muy reducido. Ay!, cuando
+desean ansiosamente saber de Él constituyen un grupo muy reducido. ˇAy!, cuando
 
-predicamos con ms fervor sobre l y hablamos de Sus aflicciones como una
+predicamos con más fervor sobre Él y hablamos de Sus aflicciones como una
 
-expiacin por el pecado del hombre, nos vemos forzados a lamentar muy
+expiación por el pecado del hombre, nos vemos forzados a lamentar muy
 
-amargamente el desinters de la humanidad, y a preguntar con mucha tristeza:
+amargamente el desinterés de la humanidad, y a preguntar con mucha tristeza:
 
-No os conmueve a cuantos pasis por el
+“
+
+ż
+
+No os conmueve a cuantos pasáis por el
 
 camino;
 
-No os conmueve que Jess muera
+No os conmueve que Jesús muera
 
 ?
 
+”
+
 Despreciado y desechado
 
-entre los hombres, los seres humanos no ven ninguna hermosura en l para
+entre los hombres, los seres humanos no ven ninguna hermosura en Él para
 
-desearlo; pero hay un nmero escogido que pregunta diligentemente y que sale a
+desearlo; pero hay un número escogido que pregunta diligentemente y que sale a
 
-recibirlo; a ellos l les da potestad de ser hechos hijos de Dios. Por tanto,
+recibirlo; a ellos Él les da potestad de ser hechos hijos de Dios. Por tanto,
 
-es una feliz circunstancia cuando hay evidencia de un inters. No siempre hay
+es una feliz circunstancia cuando hay evidencia de un interés. No siempre hay
 
-un inters evidente en las cosas de Cristo, aun en nuestros oyentes regulares.
+un interés evidente en las cosas de Cristo, aun en nuestros oyentes regulares.
 
-Asistir a la adoracin pblica se convierte en un mero hbito mecnico; ustedes
+Asistir a la adoración pública se convierte en un mero hábito mecánico; ustedes
 
 se acostumbran a estar sentados durante una parte del servicio, y a ponerse de
 
 pie y a cantar en otro momento, y a escuchar al predicador con una aparente
 
-atencin durante el discurso; pero estar realmente interesados, anhelar saber
+atención durante el discurso; pero estar realmente interesados, anhelar saber
 
-de qu se trata todo, especialmente saber si tienen parte en ello, si Jess
+de qué se trata todo, especialmente saber si tienen parte en ello, si Jesús
 
-vino del cielo para salvarlos, si naci de una virgen por ustedes, hacer esas
+vino del cielo para salvarlos, si nació de una virgen por ustedes, hacer esas
 
-preguntas personales con profunda ansiedad, est lejos de ser una prctica
+preguntas personales con profunda ansiedad, está lejos de ser una práctica
 
-generalizada; quiera Dios que todos los que tienen odos para or oigan en
+generalizada; quiera Dios que todos los que tienen oídos para oír oigan en
 
-verdad. Es un signo muy esperanzador siempre que la palabra es oda con un
+verdad. Es un signo muy esperanzador siempre que la palabra es oída con un
 
-solemne inters. Fue dicho a los antiguos: Preguntarn por el camino de Sion,
+solemne interés. Fue dicho a los antiguos: “Preguntarán por el camino de Sion,
 
-hacia donde volvern sus rostros. Cuando un hombre escucha con profunda
+hacia donde volverán sus rostros”. Cuando un hombre escucha con profunda
 
-atencin la palabra de Dios, cuando escudria el libro de Dios y se entrega a
+atención la palabra de Dios, cuando escudrińa el libro de Dios y se entrega a
 
-una meditacin profunda con miras a entender el Evangelio, tenemos mucha
+una meditación profunda con miras a entender el Evangelio, tenemos mucha
 
-esperanza en l. Cuando piensa que hay algo de peso e importancia, algo digno
+esperanza en él. Cuando piensa que hay algo de peso e importancia, algo digno
 
-de saberse en el Evangelio de Jess, entonces cobramos nimo para esperar
+de saberse en el Evangelio de Jesús, entonces cobramos ánimo para esperar
 
-buenas cosas de l.
+buenas cosas de él.
 
 Pero en el caso de los magos
 
-vemos no slo una muestra de inters, sino
+vemos no sólo una muestra de interés, sino
 
 la
 
-confesin de una creencia.
+confesión de una creencia.
 
-Ellos preguntaron: Dnde est el rey de los
+Ellos preguntaron: “żDónde está el rey de los
 
-judos, que ha nacido? Por tanto, estaban plenamente convencidos de que l era
+judíos, que ha nacido?” Por tanto, estaban plenamente convencidos de que Él era
 
-el rey de los judos, y que haba nacido haca poco tiempo. Como predicador yo
+el rey de los judíos, y que había nacido hacía poco tiempo. Como predicador yo
 
 siento que es una gran misericordia que tenga que tratar generalmente con personas
 
-que poseen algn grado de fe en las cosas de Dios. Qu bueno sera que
+que poseen algún grado de fe en las cosas de Dios. Qué bueno sería que
 
-tuviramos ms misiones para quienes no tienen ningn tipo de fe y ningn
+tuviéramos más misiones para quienes no tienen ningún tipo de fe y ningún
 
-conocimiento de Cristo; esperamos que llegue el da cuando Cristo sea conocido
+conocimiento de Cristo; esperamos que llegue el día cuando Cristo sea conocido
 
-en todas partes. Pero aqu, en casa, con la mayora de ustedes tenemos algo con
+en todas partes. Pero aquí, en casa, con la mayoría de ustedes tenemos algo con
 
-lo que podemos comenzar. Ustedes creen algo acerca de Jess de Nazaret, el rey
+lo que podemos comenzar. Ustedes creen algo acerca de Jesús de Nazaret, el rey
 
-de los judos que ha nacido. Aprecien lo que ya han credo. No considero que
+de los judíos que ha nacido. Aprecien lo que ya han creído. No considero que
 
 sea poca ventaja que un joven crea que su Biblia es verdadera. Hay algunos que
 
-tienen una ardua lucha para llegar hasta ese punto pues una formacin infiel ha
+tienen una ardua lucha para llegar hasta ese punto pues una formación infiel ha
 
 deformado sus mentes. Por supuesto que no se trata de una ventaja que vaya a
 
 salvarlos, pues muchos descienden al infierno creyendo que las Escrituras son
 
-verdaderas y as acumulan culpa sobre ellos mismos por eso mismo; pero tener la
+verdaderas y así acumulan culpa sobre ellos mismos por eso mismo; pero tener la
 
 seguridad de que tienen la palabra de Dios ante ustedes, y no inquietarse con
 
-preguntas acerca de su inspiracin y autenticidad, es ya ocupar un excelente
+preguntas acerca de su inspiración y autenticidad, es ya ocupar un excelente
 
-terreno estratgico. Oh, que pudieran ir desde ese punto de fe hasta otro y
+terreno estratégico. Oh, que pudieran ir desde ese punto de fe hasta otro y
 
-convertirse en ardientes creyentes en Jess. Estos magos haban avanzado tanto
+convertirse en ardientes creyentes en Jesús. Estos magos habían avanzado tanto
 
-que contaban con un apalancamiento para un nuevo aumento de su fe, pues crean
+que contaban con un apalancamiento para un nuevo aumento de su fe, pues creían
 
-que Cristo haba nacido, y que haba nacido siendo Rey. Muchos que no son
+que Cristo había nacido, y que había nacido siendo Rey. Muchos que no son
 
-salvos saben que Jess es el Hijo de Dios. No tenemos que argumentar con
+salvos saben que Jesús es el Hijo de Dios. No tenemos que argumentar con
 
-ustedes esta maana para sacarlos del socinianismo; no, ustedes creen que
+ustedes esta mańana para sacarlos del ‘socinianismo’; no, ustedes creen que
 
-Jess es el divino Salvador. Tampoco tenemos que razonar contra dudas y escepticismos
+Jesús es el divino Salvador. Tampoco tenemos que razonar contra dudas y escepticismos
 
-respecto a la expiacin, pues estas cosas no los dejan perplejos. Esa es una
+respecto a la expiación, pues estas cosas no los dejan perplejos. Esa es una
 
-gran misericordia. Ustedes ocupan ciertamente la posicin de personas altamente
+gran misericordia. Ustedes ocupan ciertamente la posición de personas altamente
 
-favorecidas. Quiero confiar en que tendrn la gracia para hacer uso de esa posicin
+favorecidas. Quiero confiar en que tendrán la gracia para hacer uso de esa posición
 
 favorable en la que Dios los ha colocado. Valoren lo que ya han recibido.
 
 Cuando los ojos de un hombre han estado cerrados largamente en las tinieblas,
 
-si el oculista le da un poco de luz est muy agradecido por ello, y tiene la
+si el oculista le da un poco de luz está muy agradecido por ello, y tiene la
 
-esperanza de que el ojo no est destruido, que tal vez gracias a otra operacin
+esperanza de que el ojo no esté destruido, que tal vez gracias a otra operación
 
-le puedan quitar ms escamas, y la luz plena pueda entrar a raudales en el
+le puedan quitar más escamas, y la luz plena pueda entrar a raudales en el
 
-entenebrecido globo ocular. Oh alma que pronto pasars al otro mundo, que ests
+entenebrecido globo ocular. Oh alma que pronto pasarás al otro mundo, que estás
 
-tan segura de perderte a menos que tengas la luz divina, que ests tan segura
+tan segura de perderte a menos que tengas la luz divina, que estás tan segura
 
 de ser echada a las tinieblas de afuera donde hay llanto y gritos y crujir de
 
-dientes, debes estar agradecida por una chispa de luz celestial; valrala,
+dientes, debes estar agradecida por una chispa de luz celestial; valórala,
 
-atesrala, ten ansiedad respecto a ella para que pueda llegar a algo ms, y
+atesórala, ten ansiedad respecto a ella para que pueda llegar a algo más, ży
 
-qu sabemos si el Seor vaya a bendecirte con la plenitud de Su verdad?
+qué sabemos si el Seńor vaya a bendecirte con la plenitud de Su verdad?
 
-Cuando se construy el
+Cuando se construyó el
 
-gran puente sobre el Nigara, la dificultad consista en pasar la primera
+gran puente sobre el Niágara, la dificultad consistía en pasar la primera
 
-cuerda a travs de la ancha corriente. He ledo que pudieron hacerlo volando un
+cuerda a través de la ancha corriente. He leído que pudieron hacerlo volando un
 
-cometa y dejndolo caer en la ribera opuesta. El cometa transport un trozo de
+cometa y dejándolo caer en la ribera opuesta. El cometa transportó un trozo de
 
 lazo, el lazo iba atado a una cuerda, a la cuerda iba atada una soga, y a la
 
-soga iba atada otra soga ms fuerte, y poco a poco llegaron de un lado al otro del
+soga iba atada otra soga más fuerte, y poco a poco llegaron de un lado al otro del
 
-Nigara y concluyeron la construccin del puente. De igual manera, Dios obra gradualmente.
+Niágara y concluyeron la construcción del puente. De igual manera, Dios obra gradualmente.
 
-Es un hermoso espectculo ver un poco de inters en los corazones humanos
+Es un hermoso espectáculo ver un poco de interés en los corazones humanos
 
-respecto a las cosas divinas, ver algn pequeo anhelo de Cristo, algn dbil
+respecto a las cosas divinas, ver algún pequeńo anhelo de Cristo, algún débil
 
-deseo de saber quin es y qu es, y si est disponible para el caso del
+deseo de saber quién es y qué es, y si está disponible para el caso del
 
-pecador. Esta hambre conducir a un anhelo vehemente de ms cosas, y ese anhelo
+pecador. Esta hambre conducirá a un anhelo vehemente de más cosas, y ese anhelo
 
-vehemente ser seguido por otro, hasta que al fin el alma encontrar a su Seor
+vehemente será seguido por otro, hasta que al fin el alma encontrará a su Seńor
 
-y quedar satisfecha en l. Por tanto, en el caso de los magos haba evidencia
+y quedará satisfecha en Él. Por tanto, en el caso de los magos había evidencia
 
-de un inters y de una cierta medida de profesin de fe, como espero que la
+de un interés y de una cierta medida de profesión de fe, como espero que la
 
 haya en algunos de los presentes.
 
-Adems, en el caso de
+Además, en el caso de
 
 los magos, vemos
 
 una ignorancia admitida.
 
-Los estudiosos nunca desdean hacer preguntas, porque son hombres sabios;
+Los estudiosos nunca desdeńan hacer preguntas, porque son hombres sabios;
 
-as que los magos preguntaron: Dnde est? Personas que han tomado el nombre
+así que los magos preguntaron: “żDónde está?” Personas que han tomado el nombre
 
-y el grado de sabios, y son consideradas en esa categora, piensan algunas
+y el grado de sabios, y son consideradas en esa categoría, piensan algunas
 
-veces que est por debajo de su nivel confesar algn grado de ignorancia; pero
+veces que está por debajo de su nivel confesar algún grado de ignorancia; pero
 
-quienes son realmente sabios no piensan as; estn demasiado bien instruidos
+quienes son realmente sabios no piensan así; están demasiado bien instruidos
 
-como para ignorar su propia ignorancia. Muchos hombres habran podido ser
+como para ignorar su propia ignorancia. Muchos hombres habrían podido ser
 
-sabios con slo que hubieran estado conscientes de que eran necios. El conocimiento
+sabios con sólo que hubieran estado conscientes de que eran necios. El conocimiento
 
-de nuestra ignorancia es el escaln de la puerta del templo del conocimiento.
+de nuestra ignorancia es el escalón de la puerta del templo del conocimiento.
 
 Algunos piensan que saben y por eso nunca llegan a saber. De haber sabido que
 
-estaban ciegos, pronto habran sido conducidos a ver, pero como dicen: Vemos,
+estaban ciegos, pronto habrían sido conducidos a ver, pero como dicen: “Vemos”,
 
 su ceguera permanece.
 
-Amado oyente, necesitas
+Amado oyente, żnecesitas
 
-encontrar un Salvador? Quisieras de buen grado que todos tus pecados fueran
+encontrar un Salvador? żQuisieras de buen grado que todos tus pecados fueran
 
-borrados? Quisieras ser reconciliado con Dios por medio de Jesucristo?
+borrados? żQuisieras ser reconciliado con Dios por medio de Jesucristo?
 
-Entonces que no te d vergenza preguntar, admite que no sabes. Cmo podras
+Entonces que no te dé vergüenza preguntar, admite que no sabes. żCómo podrías
 
-saber si el cielo no te enseara? Cmo podra alguien alcanzar el conocimiento
+saber si el cielo no te enseńara? żCómo podría alguien alcanzar el conocimiento
 
 de las cosas divinas, a menos que le sea dado de arriba? Todos nosotros hemos
 
-de ser instruidos por el Espritu de Dios, o seremos necios para siempre. Saber
+de ser instruidos por el Espíritu de Dios, o seremos necios para siempre. Saber
 
-que debemos ser instruidos por el Espritu Santo es una de las primeras
+que debemos ser instruidos por el Espíritu Santo es una de las primeras
 
-lecciones que el propio Espritu Santo nos ensea. Admite que t necesitas un
+lecciones que el propio Espíritu Santo nos enseńa. Admite que tú necesitas un
 
-gua, y pregunta diligentemente para que encuentres uno. Clama a Dios
+guía, y pregunta diligentemente para que encuentres uno. Clama a Dios
 
-pidindole que te gue, y l ser tu instructor. No seas altivo ni autosuficiente.
+pidiéndole que te guíe, y Él será tu instructor. No seas altivo ni autosuficiente.
 
-Pide la luz celestial, y la recibirs. Acaso no es mejor que le pidas a Dios
+Pide la luz celestial, y la recibirás. żAcaso no es mejor que le pidas a Dios
 
-que te ensee, en vez de confiar en tu propia razn desvalida? Dobla, entonces,
+que te enseńe, en vez de confiar en tu propia razón desvalida? Dobla, entonces,
 
-la rodilla, y confiesa tu propensin a errar, y di: Ensame T lo que no s.
+la rodilla, y confiesa tu propensión a errar, y di: “Enséńame Tú lo que no sé”.
 
 Noten, sin embargo, que
 
@@ -460,85 +466,85 @@ los magos no estaban contentos con admitir su ignorancia, sino que, en su caso,
 
 solicitaron
 
-informacin.
+información.
 
-No se puede saber dnde comenzaron a preguntar.
+No se puede saber dónde comenzaron a preguntar.
 
-Pensaron que lo ms probable era que Jess fuera conocido en el rea metropolitana
+Pensaron que lo más probable era que Jesús fuera conocido en el área metropolitana
 
-de la ciudad. Acaso no era el rey de los judos? Dnde era ms probable que
+de la ciudad. żAcaso no era el rey de los judíos? żDónde era más probable que
 
-lo conocieran sino en la capital? Fueron, por tanto, a Jerusaln. Tal vez les
+lo conocieran sino en la capital? Fueron, por tanto, a Jerusalén. Tal vez les
 
-preguntaran a los que custodiaban las puertas: Dnde est el rey de los
+preguntaran a los que custodiaban las puertas: “żDónde está el rey de los
 
-judos, que ha nacido? Y los guardas se rieron de ellos hasta el escarnio, y
+judíos, que ha nacido?” Y los guardas se rieron de ellos hasta el escarnio, y
 
-replicaron: No conocemos a ningn rey que no sea Herodes. Luego se toparon
+replicaron: “No conocemos a ningún rey que no sea Herodes”. Luego se toparon
 
-con algn vagabundo en las calles, y a l le preguntaron: Dnde est el rey
+con algún vagabundo en las calles, y a él le preguntaron: “żDónde está el rey
 
-de los judos, que ha nacido? Y l les respondi: A m qu me importan esas
+de los judíos, que ha nacido?” Y él les respondió: “żA mí qué me importan esas
 
-preguntas disparatadas? Estoy buscando a alguien que beba conmigo. Le
+preguntas disparatadas? Estoy buscando a alguien que beba conmigo”. Le
 
-preguntaron a un comerciante, pero l se burl, y dijo: No se preocupen por
+preguntaron a un comerciante, pero él se burló, y dijo: “No se preocupen por
 
-los reyes, qu me van a comprar, o qu tengo para venderles? Dnde est el
+los reyes, żqué me van a comprar, o qué tengo para venderles?” “żDónde está el
 
-rey de los judos, que ha nacido?, le preguntaron a un saduceo, y l les respondi:
+rey de los judíos, que ha nacido?”, le preguntaron a un saduceo, y él les respondió:
 
-No sean tan tontos como para hablar de esa manera, o si lo hacen, les ruego
+“No sean tan tontos como para hablar de esa manera, o si lo hacen, les ruego
 
-que visiten a mi amigo el fariseo. Se toparon con una mujer en las calles, y
+que visiten a mi amigo el fariseo”. Se toparon con una mujer en las calles, y
 
-le preguntaron: Dnde est el rey de los judos, que ha nacido? Pero ella
+le preguntaron: “żDónde está el rey de los judíos, que ha nacido?” Pero ella
 
-les dijo: Mi hijo est enfermo en casa, me basta con pensar en mi pobre beb;
+les dijo: “Mi hijo está enfermo en casa, me basta con pensar en mi pobre bebé;
 
-no me importa quin haya nacido, ni tampoco quin pueda morirse. Cuando fueron
+no me importa quién haya nacido, ni tampoco quién pueda morirse”. Cuando fueron
 
-a los barrios ms exclusivos, slo obtuvieron una pobre informacin, pero no se
+a los barrios más exclusivos, sólo obtuvieron una pobre información, pero no se
 
 contentaron hasta no haber aprendido todo lo que pudiera saberse. Ellos no
 
-saban al principio dnde estaba el rey recin nacido, pero recurrieron a todos
+sabían al principio dónde estaba el rey recién nacido, pero recurrieron a todos
 
-los medios para encontrarlo, y solicitaron informacin de todos los que pudieran
+los medios para encontrarlo, y solicitaron información de todos los que pudieran
 
 ayudarles. Es agradable ver la santa avidez de un alma a la que Dios ha
 
-vivificado; clama: he de ser salvada; s algo del camino de la salvacin y
+vivificado; clama: “he de ser salvada; sé algo del camino de la salvación y
 
-estoy agradecida por eso, pero no s todo lo que necesito saber, y no puedo
+estoy agradecida por eso, pero no sé todo lo que necesito saber, y no puedo
 
 quedarme satisfecha hasta no saberlo. Si ha de encontrarse un Salvador debajo
 
-de la bveda celeste, yo lo encontrar; si ese libro puede ensearme cmo ser
+de la bóveda celeste, yo lo encontraré; si ese libro puede enseńarme cómo ser
 
-salvo, voy a pasar sus pginas da y noche; y si cualquier libro a mi alcance
+salvo, voy a pasar sus páginas día y noche; y si cualquier libro a mi alcance
 
-puede ayudarme, no voy a ahorrar ningn aceite nocturno por si puedo, leyndolo,
+puede ayudarme, no voy a ahorrar ningún aceite nocturno por si puedo, leyéndolo,
 
-encontrar a Cristo, mi Salvador. Si hubiese alguien cuya predicacin haya sido
+encontrar a Cristo, mi Salvador. Si hubiese alguien cuya predicación haya sido
 
-bendecida para las almas de los dems, voy a colgarme de sus labios, por si la
+bendecida para las almas de los demás, voy a colgarme de sus labios, por si la
 
-palabra pudiera ser bendecida para m, pues tengo que tener a Cristo; tenerlo o
+palabra pudiera ser bendecida para mí, pues tengo que tener a Cristo; tenerlo o
 
-no tenerlo no es una alternativa para m, sino que
+no tenerlo no es una alternativa para mí, sino que
 
 tengo
 
 que tenerlo; mi hambre de este pan del cielo es grande, es
 
-insaciable mi sed de esta agua de vida; dganme, cristianos; dganme, sabios;
+insaciable mi sed de esta agua de vida; díganme, cristianos; díganme, sabios;
 
-dganme, hombre buenos; dgame cualquiera de ustedes que pueda hacerlo, dnde
+díganme, hombre buenos; dígame cualquiera de ustedes que pueda hacerlo, żdónde
 
-est el rey de los judos que ha nacido? Pues yo he de tener a Cristo, y anhelo
+está el rey de los judíos que ha nacido? Pues yo he de tener a Cristo, y anhelo
 
-tenerlo ahora.
+tenerlo ahora”.
 
 En referencia a estos
 
@@ -550,149 +556,149 @@ un motivo
 
 para
 
-su bsqueda de Cristo. Dnde est preguntaron- para que vayamos y le
+su búsqueda de Cristo. “żDónde está” –preguntaron- “para que vayamos y le
 
-adoremos? Ah, alma!, si t quieres encontrar a Cristo, tu motivo debe ser:
+adoremos?” ˇAh, alma!, si tú quieres encontrar a Cristo, tu motivo debe ser:
 
-ser salvada por l, y a partir de ahora y para siempre, vivir para Su gloria.
+ser salvada por Él, y a partir de ahora y para siempre, vivir para Su gloria.
 
-Cuando se llega a esto, que no oyes el Evangelio meramente como un hbito, sino
+Cuando se llega a esto, que no oyes el Evangelio meramente como un hábito, sino
 
-porque anhelas obtener su salvacin, no pasar mucho tiempo antes de que la
+porque anhelas obtener su salvación, no pasará mucho tiempo antes de que la
 
-encuentres. Cuando un hombre puede decir: Voy a subir a la casa de Dios esta
+encuentres. Cuando un hombre puede decir: “Voy a subir a la casa de Dios esta
 
-maana, y oh, anhelo que Dios se rena conmigo all, no pasar mucho tiempo
+mańana, y oh, anhelo que Dios se reúna conmigo allí”, no pasará mucho tiempo
 
-asistiendo all en vano. Cuando un oyente puede declarar: Tan pronto como me
+asistiendo allí en vano. Cuando un oyente puede declarar: “Tan pronto como me
 
-siente en la congregacin, mi nico pensamiento ser: Seor, bendice mi alma
+siente en la congregación, mi único pensamiento será: “Seńor, bendice mi alma
 
-en este da, no puede verse largamente frustrado. Usualmente, cuando vamos a
+en este día”, no puede verse largamente frustrado. Usualmente, cuando vamos a
 
 la casa de Dios, obtenemos lo que buscamos. Algunos asisten porque es la
 
-costumbre, otros asisten para reunirse con algn amigo, otros apenas saben por
+costumbre, otros asisten para reunirse con algún amigo, otros apenas saben por
 
-qu asisten; pero cuando sabes para qu vienes, el Seor que te dio ese deseo,
+qué asisten; pero cuando sabes para qué vienes, el Seńor que te dio ese deseo,
 
-lo satisfar. Me gust la palabra de una amada hermana esta maana que me habl
+lo satisfará. Me gustó la palabra de una amada hermana esta mańana que me habló
 
-cuando entr por la puerta trasera; ella me dijo: Caro pastor, mi alma est
+cuando entré por la puerta trasera; ella me dijo: “Caro pastor, mi alma está
 
-muy hambrienta esta maana. Anhelo que el Seor le d alimento para m. Yo
+muy hambrienta esta mańana. Anhelo que el Seńor le dé alimento para mí”. Yo
 
-creo que recibiremos el alimento conveniente. Cuando un pecador est muy
+creo que recibiremos el alimento conveniente. Cuando un pecador está muy
 
-hambriento de Cristo, Cristo est muy cerca de l. Lo peor es que muchos de
+hambriento de Cristo, Cristo está muy cerca de él. Lo peor es que muchos de
 
-ustedes no vienen para encontrar a Jess, pues no es a Jess a quien buscan; si
+ustedes no vienen para encontrar a Jesús, pues no es a Jesús a quien buscan; si
 
-lo buscaran a l, pronto se les aparecera. Le preguntaron a una joven durante un
+lo buscaran a Él, pronto se les aparecería. Le preguntaron a una joven durante un
 
-avivamiento: Cmo es que no has encontrado a Cristo? Amigo respondi
+avivamiento: “żCómo es que no has encontrado a Cristo?” “Amigo” –respondió
 
-ella- pienso que es porque no lo he buscado. As es. Nadie podr decir al
+ella- “pienso que es porque no lo he buscado”. Así es. Nadie podrá decir al
 
-final: Lo busqu, pero no lo encontr. En todos los casos, al final, si
+final: “Lo busqué, pero no lo encontré”. En todos los casos, al final, si
 
 Jesucristo no ha sido encontrado, tiene que ser porque no ha sido buscado
 
-devota, sincera e importunamente, pues Su promesa es: Buscad, y hallaris.
+devota, sincera e importunamente, pues Su promesa es: “Buscad, y hallaréis”.
 
 Estos magos son un modelo para nosotros en muchas cosas, y en particular en
 
-esto, entre todo lo dems: que su motivo era claro para ellos mismos, y lo
+esto, entre todo lo demás: que su motivo era claro para ellos mismos, y lo
 
-declararon a otros. Que todos nosotros busquemos a Jess para adorarle.
+declararon a otros. Que todos nosotros busquemos a Jesús para adorarle.
 
 Un intenso denuedo
 
-acompa en todo momento a los magos, denuedo que nos deleitara ver en
+acompańó en todo momento a los magos, denuedo que nos deleitaría ver en
 
-cualquiera que todava no haya credo en Jess. Evidentemente no eran unas
+cualquiera que todavía no haya creído en Jesús. Evidentemente no eran unas
 
-personas frvolas. Venan de muy lejos; experimentaron muchas fatigas; hablaban
+personas frívolas. Venían de muy lejos; experimentaron muchas fatigas; hablaban
 
-acerca de encontrar al rey recin nacido en una forma prctica, y con sentido
+acerca de encontrar al rey recién nacido en una forma práctica, y con sentido
 
-comn; no se desanimaron por este desaire ni por aquel otro; anhelaban
+común; no se desanimaron por este desaire ni por aquel otro; anhelaban
 
-encontrarlo, y lo encontraran. Es sumamente bendito ver la obra del Espritu
+encontrarlo, y lo encontrarían. Es sumamente bendito ver la obra del Espíritu
 
-en los corazones de los hombres forzndolos a anhelar que el Salvador sea su
+en los corazones de los hombres forzándolos a anhelar que el Salvador sea su
 
-Rey y Seor; y a anhelarlo de tal manera que quieren tenerlo y no dejarn de
+Rey y Seńor; y a anhelarlo de tal manera que quieren tenerlo y no dejarán de
 
-remover ninguna piedra, con la ayuda del Espritu Santo, hasta ser capaces de decir:
+remover ninguna piedra, con la ayuda del Espíritu Santo, hasta ser capaces de decir:
 
-Hemos hallado a aquel de quien escribi Moiss en la ley, as como los
+“Hemos hallado a aquel de quien escribió Moisés en la ley, así como los
 
-profetas; y l se ha convertido en nuestra salvacin.
+profetas; y Él se ha convertido en nuestra salvación”.
 
-Me dirijo en este
+żMe dirijo en este
 
-momento a alguien en particular? Confo que as sea. Hace algunos aos haba un
+momento a alguien en particular? Confío que así sea. Hace algunos ańos había un
 
-joven, quien, en una maana muy parecida a esta fra, nevada, oscura- entr a
+joven, quien, en una mańana muy parecida a esta –fría, nevada, oscura- entró a
 
-una casa de oracin, as como ustedes lo han hecho hoy. Al venir aqu esta
+una casa de oración, así como ustedes lo han hecho hoy. Al venir aquí esta
 
-maana me acord de aquel joven. Me dije: Esta maana el clima es tan
+mańana me acordé de aquel joven. Me dije: “Esta mańana el clima es tan
 
 inclemente que voy a tener una muy escasa asistencia, pero tal vez, entre esa
 
-gente, haya alguien como aquel joven. Para ser claro con ustedes, me consol
+gente, haya alguien como aquel joven”. Para ser claro con ustedes, me consoló
 
-pensar que en la maana cuando Dios bendijo mi alma, el predicador tena una
+pensar que en la mańana cuando Dios bendijo mi alma, el predicador tenía una
 
-congregacin muy pequea, y era una maana fra y glacial, y por tanto, esta
+congregación muy pequeńa, y era una mańana fría y glacial, y por tanto, esta
 
-maana me dije: Por qu no habra de realizar alegremente mi tarea, y
+mańana me dije: “żPor qué no habría de realizar alegremente mi tarea, y
 
-predicar aunque slo hubiese una docena de personas all? Pues Jess podra
+predicar aunque sólo hubiese una docena de personas allí?” Pues Jesús podría
 
-tener la intencin de revelarse a alguien, tal como lo hizo conmigo, y esa nica
+tener la intención de revelarse a alguien, tal como lo hizo conmigo, y esa única
 
-persona podra ser una ganadora de almas y el instrumento de la salvacin de
+persona podría ser una ganadora de almas y el instrumento de la salvación de
 
-decenas de miles de personas en los aos venideros. Me pregunto si eso va a
+decenas de miles de personas en los ańos venideros. Me pregunto si eso va a
 
-ocurrirle a aquel joven que est por all, pues confo que tenga la misma
+ocurrirle a aquel joven que está por allá, pues confío que tenga la misma
 
-pregunta que tenan los magos en sus labios. Yo espero que no apague esos
+pregunta que tenían los magos en sus labios. Yo espero que no apague esos
 
-deseos que arden ahora en su interior, sino que ms bien la chispa sea atizada
+deseos que arden ahora en su interior, sino que más bien la chispa sea atizada
 
-hasta convertirse en llama y que este da sea testigo de su decisin por Jess.
+hasta convertirse en llama y que este día sea testigo de su decisión por Jesús.
 
-Oh, ha mirado el Seor a esa joven mujer, o a ese amado nio, o a aquel
+Oh, żha mirado el Seńor a esa joven mujer, o a ese amado nińo, o a aquel
 
-anciano? Yo no s quin pudiera ser, pero, en verdad, voy a bendecir a Dios
+anciano? Yo no sé quién pudiera ser, pero, en verdad, voy a bendecir a Dios
 
-esta maana si, proveniente de muchos labios, pudiese orse el clamor:
+esta mańana si, proveniente de muchos labios, pudiese oírse el clamor:
 
-Seores, qu debo hacer para ser salvo?
+“Seńores, żqué debo hacer para ser salvo?”
 
 II.
 
 Habiendo
 
-hablado de su pregunta, voy a notar ahora SU MOTIVACIN. Algo fue lo que motiv
+hablado de su pregunta, voy a notar ahora SU MOTIVACIÓN. Algo fue lo que motivó
 
-a estos magos a buscar a Jess. Fue esto: Su estrella hemos visto.
+a estos magos a buscar a Jesús. Fue esto: “Su estrella hemos visto”.
 
-Ahora bien, la mayora
+Ahora bien, la mayoría
 
-de ustedes, buscadores de Cristo, tienen una gran motivacin en el hecho de que
+de ustedes, buscadores de Cristo, tienen una gran motivación en el hecho de que
 
-han odo Su Evangelio; viven en una tierra en la que tienen las Escrituras y en
+han oído Su Evangelio; viven en una tierra en la que tienen las Escrituras y en
 
 la que las ordenanzas de la casa de Dios son administradas libremente. Estas
 
-son, por decirlo as, la estrella de Cristo; tienen el propsito de conducirlos
+son, por decirlo así, la estrella de Cristo; tienen el propósito de conducirlos
 
-a l mismo. Observen aqu que ver Su estrella era
+a Él mismo. Observen aquí que ver Su estrella era
 
 un gran favor.
 
@@ -700,15 +706,15 @@ No les fue concedido a todos los moradores en el
 
 oriente o en el occidente que vieran Su estrella. Esos hombres, por tanto, eran
 
-altamente privilegiados. No es dado a toda la humanidad or el Evangelio; Jess
+altamente privilegiados. No es dado a toda la humanidad oír el Evangelio; Jesús
 
 no es predicado en todas nuestras calles; Su cruz no es levantada en alto ni
 
-siquiera en cada lugar dedicado a Su adoracin. T eres muy favorecido, oh
+siquiera en cada lugar dedicado a Su adoración. Tú eres muy favorecido, oh
 
-amigo mo, si has visto la estrella, el Evangelio, que apunta a Jess.
+amigo mío, si has visto la estrella, el Evangelio, que apunta a Jesús.
 
-Ver la estrella entra para
+Ver la estrella entrańó para
 
 esos magos
 
@@ -718,15 +724,15 @@ Supongan
 
 que esos sabios hubiesen visto Su estrella pero que no se hubiesen puesto en
 
-camino para adorarle. Entonces habran sido mucho ms culpables que otros
+camino para adorarle. Entonces habrían sido mucho más culpables que otros
 
-individuos que, no habiendo recibido tal indicacin del cielo, habran sido incapaces
+individuos que, no habiendo recibido tal indicación del cielo, habrían sido incapaces
 
 de no hacerle caso. Oh, piensen en la responsabilidad de algunos de ustedes que
 
-en su niez oyeron acerca de un Salvador y por quienes una madre ha llorado
+en su nińez oyeron acerca de un Salvador y por quienes una madre ha llorado
 
-durante muchos aos; ustedes conocen la verdad, al menos en su teora; tienen
+durante muchos ańos; ustedes conocen la verdad, al menos en su teoría; tienen
 
 la responsabilidad de haber visto Su estrella.
 
@@ -736,67 +742,67 @@ no consideraron el favor de ver la estrella
 
 como un asunto que bastaba.
 
-No dijeron: Hemos visto su estrella y eso
+No dijeron: “Hemos visto su estrella y eso
 
-basta. Muchos dicen: Bien, asistimos a un lugar de adoracin regularmente,
+basta”. Muchos dicen: “Bien, asistimos a un lugar de adoración regularmente,
 
-no basta con eso? Hay quienes dicen: Nosotros fuimos bautizados; el bautismo
+żno basta con eso?” Hay quienes dicen: “Nosotros fuimos bautizados; el bautismo
 
-trajo consigo la regeneracin, acudimos al sacramento, y no alcanzamos gracia
+trajo consigo la regeneración, acudimos al sacramento, ży no alcanzamos gracia
 
-por su medio? Pobres almas! Confunden a la estrella que conduce a Cristo con
+por su medio?” ˇPobres almas! Confunden a la estrella que conduce a Cristo con
 
-Cristo mismo, y adoran a la estrella en vez de adorar al Seor. Oh, que ninguno
+Cristo mismo, y adoran a la estrella en vez de adorar al Seńor. ˇOh, que ninguno
 
 de ustedes sea tan necio como para confiar en las ordenanzas externas! Si dependieran
 
-de los sacramentos o de la adoracin pblica, Dios les dira: No me traigis
+de los sacramentos o de la adoración pública, Dios les diría: “No me traigáis
 
-ms vana ofrenda; el incienso me es abominacin. Quin demanda esto de
+más vana ofrenda; el incienso me es abominación. żQuién demanda esto de
 
-vuestras manos, cuando vens a presentaros delante de m para hollar mis
+vuestras manos, cuando venís a presentaros delante de mí para hollar mis
 
-atrios? Qu importancia tienen para Dios las formas y las ceremonias externas?
+atrios?” żQué importancia tienen para Dios las formas y las ceremonias externas?
 
-Cuando veo que los hombres se ponen capas blancas, y estolas y manpulos y
+Cuando veo que los hombres se ponen capas blancas, y estolas y manípulos y
 
-cantan sus oraciones, y hacen reverencias y genuflexiones, me pregunto qu tipo
+cantan sus oraciones, y hacen reverencias y genuflexiones, me pregunto qué tipo
 
-de dios es el que ellos adoran. Ciertamente debe tener ms afinidad con los
+de dios es el que ellos adoran. Ciertamente debe tener más afinidad con los
 
-dioses de los paganos que con el grandioso Jehov, que ha hecho los cielos y la
+dioses de los paganos que con el grandioso Jehová, que ha hecho los cielos y la
 
-tierra. Observen detenidamente la gloria excepcional de las obras de Jehov en
+tierra. Observen detenidamente la gloria excepcional de las obras de Jehová en
 
 tierra y mar; contemplen los cielos y sus incontables huestes de estrellas,
 
-escuchen el aullar de los vientos y la furia del huracn, piensen en Aquel que
+escuchen el aullar de los vientos y la furia del huracán, piensen en Aquel que
 
 convierte a las nubes en Su carro y cabalga sobre las alas del viento, y luego
 
 consideren si este infinito Dios es parecido a ese ser para quien es un asunto
 
-de suma importancia que una copa de vino sea levantada en adoracin hasta la
+de suma importancia que una copa de vino sea levantada en adoración hasta la
 
-altura del cabello del hombre o nicamente hasta la altura de su nariz. Oh necia
+altura del cabello del hombre o únicamente hasta la altura de su nariz. Oh necia
 
-generacin, que piensa que Jehov est contenido en sus templos hechos con
+generación, que piensa que Jehová está contenido en sus templos hechos con
 
 manos, y que se preocupa por sus vestimentas, sus procesiones, sus posturas y sus
 
 genuflexiones. Ustedes se pelean por su ritual, y lo consideran hasta en las
 
-jotas y en las tildes. Ciertamente no conocen al glorioso Jehov, si conciben
+jotas y en las tildes. Ciertamente no conocen al glorioso Jehová, si conciben
 
 que estas cosas le
 
 producen
 
-algn placer. Es ms,
+algún placer. Es más,
 
-amados, deseamos adorar al Altsimo en toda la sencillez y sinceridad de
+amados, deseamos adorar al Altísimo en toda la sencillez y sinceridad de
 
-espritu, y no detenernos nunca en la forma externa, para no ser lo suficientemente
+espíritu, y no detenernos nunca en la forma externa, para no ser lo suficientemente
 
 necios de pensar que basta ver la estrella, y por eso, dejar de encontrar al
 
@@ -806,33 +812,33 @@ Noten bien que estos
 
 magos
 
-no encontraron satisfaccin en lo
+no encontraron satisfacción en lo
 
-que ellos mismos haban hecho para llegar al nio.
+que ellos mismos habían hecho para llegar al nińo.
 
 Como hemos observado, es
 
-posible que hubieran llegado desde cientos de kilmetros de distancia, pero no
+posible que hubieran llegado desde cientos de kilómetros de distancia, pero no
 
-lo mencionaron; no se sentaron a decir: Bien, hemos viajado a travs de
+lo mencionaron; no se sentaron a decir: “Bien, hemos viajado a través de
 
-desiertos, sobre montes, y hemos atravesado ros, eso basta. No, tenan que
+desiertos, sobre montes, y hemos atravesado ríos, eso basta”. No, tenían que
 
-encontrar al Rey que acababa de nacer, y ninguna otra cosa les satisfara. No
+encontrar al Rey que acababa de nacer, y ninguna otra cosa les satisfaría. No
 
-digas, querido oyente: He estado orando durante meses, he estado escudriando
+digas, querido oyente: “He estado orando durante meses, he estado escudrińando
 
-las Escrituras durante semanas para encontrar al Salvador. Me alegra que hayas
+las Escrituras durante semanas para encontrar al Salvador”. Me alegra que hayas
 
-hecho eso, pero no descanses ah; tienes que llegar a Cristo, o de lo contrario
+hecho eso, pero no descanses ahí; tienes que llegar a Cristo, o de lo contrario
 
-perecers a pesar de todo tu esfuerzo y de todos tus problemas. Necesitas a
+perecerás a pesar de todo tu esfuerzo y de todos tus problemas. Necesitas a
 
-Jess, nada ms que Jess, pero nada menos que Jess. Tampoco has de estar
+Jesús, nada más que Jesús, pero nada menos que Jesús. Tampoco has de estar
 
-satisfecho con viajar en el camino en el que la estrella te gue; tienes que
+satisfecho con viajar en el camino en el que la estrella te guíe; tienes que
 
-llegar a L. No te quedes corto de la vida eterna. Afrrate a ella, no la
+llegar a ÉL. No te quedes corto de la vida eterna. Aférrate a ella, no la
 
 busques ni la anheles simplemente, sino que has de apoderarte de la vida eterna,
 
@@ -840,121 +846,121 @@ y no has de estar contento hasta que sea un hecho confirmado que Jesucristo es
 
 tuyo.
 
-Quisiera que notaran cmo
+Quisiera que notaran cómo
 
 estos magos no se quedaron satisfechos con el simple hecho de llegar a
 
-Jerusaln. Podran haber dicho: Ah!, ahora estamos en la tierra donde naci
+Jerusalén. Podrían haber dicho: “ˇAh!, ahora estamos en la tierra donde nació
 
-el Nio; estamos agradecidos y descansaremos. No, sino que preguntaron:
+el Nińo; estamos agradecidos y descansaremos”. No, sino que preguntaron:
 
-Dnde est? l naci en Beln. Bien, llegaron a Beln, pero no hay evidencia
+“żDónde está?” Él nació en Belén. Bien, llegaron a Belén, pero no hay evidencia
 
-de que cuando llegaron a esa aldea dijeran: Este es un lugar privilegiado, nos
+de que cuando llegaron a esa aldea dijeran: “Este es un lugar privilegiado, nos
 
-quedaremos aqu. Para nada, necesitaban saber dnde estaba la casa. Llegaron a
+quedaremos aquí”. Para nada, necesitaban saber dónde estaba la casa. Llegaron a
 
-la casa, y la estrella se detuvo sobre ella. Era un hermoso espectculo ver el
+la casa, y la estrella se detuvo sobre ella. Era un hermoso espectáculo ver el
 
-establo con la estrella sobre l y pensar que el Rey recin nacido estaba all,
+establo con la estrella sobre él y pensar que el Rey recién nacido estaba allí,
 
 pero eso no los satisfizo. No, sino que entraron directamente en la casa; no
 
-descansaron hasta que vieron al propio Nio, y le adoraron. Yo oro pidiendo que
+descansaron hasta que vieron al propio Nińo, y le adoraron. Yo oro pidiendo que
 
-ustedes y yo seamos guiados de tal manera por el Espritu de Dios que no
+ustedes y yo seamos guiados de tal manera por el Espíritu de Dios que no
 
-aceptemos nada que no sea asir realmente a Cristo, una visin de fe de Cristo
+aceptemos nada que no sea asir realmente a Cristo, una visión de fe de Cristo
 
 como un Salvador, como nuestro Salvador, como nuestro Salvador ahora. Si
 
 hubiese un peligro por encima de cualquier otro que el joven buscador tenga que
 
-enfrentar, es el peligro de quedarse corto de una slida fe en Jesucristo.
+enfrentar, es el peligro de quedarse corto de una sólida fe en Jesucristo.
 
-Mientras tu corazn sea blando como la cera, cudate de que ningn sello, salvo
+Mientras tu corazón sea blando como la cera, cuídate de que ningún sello, salvo
 
-el de Cristo, sea estampado en l. Ahora que ests inquieto y desconsolado, haz
+el de Cristo, sea estampado en él. Ahora que estás inquieto y desconsolado, haz
 
-este voto: No ser consolado hasta que Cristo me consuele. Sera mejor para
+este voto: “No seré consolado hasta que Cristo me consuele”. Sería mejor para
 
-ti que no fueras despertado nunca que ser arrullado por Satans hasta quedarte
+ti que no fueras despertado nunca que ser arrullado por Satanás hasta quedarte
 
-dormido, pues el sueo que sucede a una conviccin parcial es generalmente es
+dormido, pues el sueńo que sucede a una convicción parcial es generalmente es
 
-el letargo ms profundo que puede sobrecoger a los hijos de los hombres. Alma
+el letargo más profundo que puede sobrecoger a los hijos de los hombres. Alma
 
-ma, yo te exhorto que llegues hasta la sangre de Cristo, y que seas lavado en
+mía, yo te exhorto que llegues hasta la sangre de Cristo, y que seas lavado en
 
-ella; llega hasta la vida de Cristo para que esa vida est en ti, para que seas
+ella; llega hasta la vida de Cristo para que esa vida esté en ti, para que seas
 
 verdaderamente un hijo de Dios; no aceptes suposiciones, no te quedes
 
-satisfecha con apariencias e hiptesis; no descanses en ninguna parte hasta que,
+satisfecha con apariencias e hipótesis; no descanses en ninguna parte hasta que,
 
-(habindote dado Dios la fe para decirlo), hayas dicho: l me am y se entreg
+(habiéndote dado Dios la fe para decirlo), hayas dicho: “Él me amó y se entregó
 
-por m; l es toda mi salvacin y todo mi deseo. Vean, entonces, cmo estos
+por mí; Él es toda mi salvación y todo mi deseo”. Vean, entonces, cómo estos
 
-magos no fueron conducidos por la visin de la estrella a mantenerse lejos de
+magos no fueron conducidos por la visión de la estrella a mantenerse lejos de
 
-Cristo, sino que ms bien fueron animados por ella a venir a Cristo, y t
+Cristo, sino que más bien fueron animados por ella a venir a Cristo, y tú
 
-tambin, caro buscador, anmate esta maana a venir a Jess por el hecho de que
+también, caro buscador, anímate esta mańana a venir a Jesús por el hecho de que
 
-eres bendecido con el Evangelio. Has recibido una invitacin para venir a
+eres bendecido con el Evangelio. Has recibido una invitación para venir a
 
-Jess, tienes los movimientos del Espritu de Dios en tu conciencia que te
+Jesús, tienes los movimientos del Espíritu de Dios en tu conciencia que te
 
-estn despertando; oh ven, ven y s bienvenido, y deja que este crudo da de invierno
+están despertando; oh ven, ven y sé bienvenido, y deja que este crudo día de invierno
 
-sea un da de fulgor y de alegra para muchas almas que estn buscando.
+sea un día de fulgor y de alegría para muchas almas que están buscando.
 
 He convertido mis
 
-pensamientos sobre este ltimo encabezado en unos versos,
+pensamientos sobre este último encabezado en unos versos,
 
-y voy a repetir las lneas:
+y voy a repetir las líneas:
 
-Oh, dnde est Cristo mi Rey?
+“Oh, żdónde está Cristo mi Rey?
 
 Languidezco por verlo,
 
-Gustosamente me postrara en adoracin,
+Gustosamente me postraría en adoración,
 
-Pues l es el deleite de mi alma.
+Pues Él es el deleite de mi alma.
 
-Es a l, es slo a l,
+Es a Él, es sólo a Él,
 
-Al que busco, ni menos, ni ms,
+Al que busco, ni menos, ni más,
 
 O sobre Su cruz, o sobre Su trono,
 
-Le adorara igualmente.
+Le adoraría igualmente.
 
 Los magos vieron Su estrella,
 
 Pero no se quedaron contentos con eso,
 
-El camino era spero, la distancia lejana,
+El camino era áspero, la distancia lejana,
 
 No obstante, siguieron en ese camino.
 
 Y ahora que mis pensamientos disciernen
 
-La seal de que Cristo est cerca,
+La seńal de que Cristo está cerca,
 
 Ardo con un amor insaciable,
 
-Para disfrutar de Su compaa.
+Para disfrutar de Su compańía.
 
-Ninguna estrella ni seal celestial
+Ninguna estrella ni seńal celestial
 
 Pueden llenar el deseo de mi alma,
 
-De l, mi Seor, mi divino Rey,
+De Él, mi Seńor, mi divino Rey,
 
-Mi alma tiene todava sed.
+Mi alma tiene todavía sed”.
 
 III.
 
@@ -962,115 +968,115 @@ Y
 
 ahora vamos a concluir considerando EL EJEMPLO de estos magos. Ellos vinieron
 
-hasta Jess, y al llegar, hicieron tres cosas: vieron, adoraron y dieron. Esas son
+hasta Jesús, y al llegar, hicieron tres cosas: vieron, adoraron y dieron. Esas son
 
-tres cosas que cada creyente podra repetir aqu esta maana, y que cada
+tres cosas que cada creyente podría repetir aquí esta mańana, y que cada
 
-buscador debera realizar por primera vez.
+buscador debería realizar por primera vez.
 
 Primero,
 
 vieron
 
-al Nio recin nacido. No creo
+al Nińo recién nacido. No creo
 
-que hayan dicho simplemente: All est, y que as acabara el asunto, sino que
+que hayan dicho simplemente: “Allí está”, y que así acabara el asunto, sino que
 
 se detuvieron y miraron. Tal vez enmudecieran durante algunos minutos. No me
 
 cabe duda de que en Su rostro se transparentaba una belleza sobrenatural. Si la
 
-belleza era evidente a toda mirada, yo no lo s, pero para los ojos de los
+belleza era evidente a toda mirada, yo no lo sé, pero para los ojos de los
 
-magos ciertamente haba una atraccin sobrehumana. El Dios encarnado! Miraron
+magos ciertamente había una atracción sobrehumana. ˇEl Dios encarnado! Miraron
 
-con mucha atencin. Miraron, y miraron, y miraron repetidamente. Vieron a Su
+con mucha atención. Miraron, y miraron, y miraron repetidamente. Vieron a Su
 
-madre, pero detuvieron su mirada en l. Vieron al nio. As, tambin, pensemos
+madre, pero detuvieron su mirada en Él. “Vieron al nińo”. Así, también, pensemos
 
-en Jess esta maana con un pensamiento fijo y continuo. l es Dios, l es
+en Jesús esta mańana con un pensamiento fijo y continuo. Él es Dios, Él es
 
-hombre, l es el sustituto de los pecadores; l est anuente a recibir a todos
+hombre, Él es el sustituto de los pecadores; Él está anuente a recibir a todos
 
-los que confen en l. l salvar, y salvar esta maana a todos los que
+los que confíen en Él. Él salvará, y salvará esta mańana a todos los que
 
-confiemos en l. Piensen en l. Si estn en casa esta tarde, dediquen un tiempo
+confiemos en Él. Piensen en Él. Si están en casa esta tarde, dediquen un tiempo
 
-a pensar en l. Visualcenlo con su mente, consideren y admrenlo. Acaso no es
+a pensar en Él. Visualícenlo con su mente, consideren y admírenlo. żAcaso no es
 
-un portento que Dios entre en unin con el hombre y que venga a este mundo como
+un portento que Dios entre en unión con el hombre y que venga a este mundo como
 
-un tierno infante? Aquel que hizo los cielos y la tierra es estrechado en el
+un tierno infante? ˇAquel que hizo los cielos y la tierra es estrechado en el
 
 pecho de una madre! El Verbo se hizo carne para redimirnos. Esta verdad
 
-engendrar la ms refulgente esperanza en el interior de su alma. Si siguen la
+engendrará la más refulgente esperanza en el interior de su alma. Si siguen la
 
-asombrosa vida de ese beb hasta su conclusin en la cruz, yo confo que all
+asombrosa vida de ese bebé hasta su conclusión en la cruz, yo confío que allí
 
-lo miren de tal manera que as como Moiss levant la serpiente en el desierto
+lo miren de tal manera que así como Moisés levantó la serpiente en el desierto
 
-y los que miraban eran sanados, as tambin si ustedes miran sean sanados de
+y los que miraban eran sanados, así también si ustedes miran sean sanados de
 
-todas sus enfermedades espirituales. Aunque hace ya muchos aos que yo lo mir
+todas sus enfermedades espirituales. Aunque hace ya muchos ańos que yo lo miré
 
-por primera vez, deseo mirar a Jess de nuevo. El Dios encarnado! Mis ojos se
+por primera vez, deseo mirar a Jesús de nuevo. ˇEl Dios encarnado! Mis ojos se
 
-anegan de lgrimas al pensar que Aquel que pudo haberme aplastado en el
+anegan de lágrimas al pensar que Aquel que pudo haberme aplastado en el
 
-infierno para siempre, se convierte en un tierno infante por mi causa. Vanlo,
+infierno para siempre, se convierte en un tierno infante por mi causa. Véanlo,
 
-todos ustedes, y vindole, adoren.
+todos ustedes, y viéndole, adoren.
 
-Qu hicieron a
+żQué hicieron a
 
-continuacin los sabios? Ellos le
+continuación los sabios? Ellos le
 
 adoraron.
 
-No podemos adorar apropiadamente a un Cristo que no conocemos. Al Dios
+No podemos adorar apropiadamente a un Cristo que no conocemos. “Al Dios
 
-desconocido provoca una pobre adoracin. Pero, oh, cuando piensan en
+desconocido” provoca una pobre adoración. Pero, oh, cuando piensan en
 
 Jesucristo, cuyas salidas eran desde la eternidad, el Hijo del Padre engendrado
 
-eternamente, y luego lo ven venir aqu para ser un hombre de la misma
+eternamente, y luego lo ven venir aquí para ser un hombre de la misma
 
-naturaleza que Su madre, y saben y entienden por qu vino y qu hizo cuando
+naturaleza que Su madre, y saben y entienden por qué vino y qué hizo cuando
 
 vino, entonces se postran y adoran.
 
-Hijo de Dios, ante Ti nos postramos,
+“Hijo de Dios, ante Ti nos postramos,
 
-T eres Seor, y slo T lo eres;
+Tú eres Seńor, y sólo Tú lo eres;
 
-T eres la simiente prometida de la mujer;
+Tú eres la simiente prometida de la mujer;
 
-T que te desangraste por los pecadores.
+Tú que te desangraste por los pecadores”.
 
 Nosotros adoramos a
 
-Jess. Nuestra fe lo ve ir del pesebre a la cruz, y de la cruz directamente al
+Jesús. Nuestra fe lo ve ir del pesebre a la cruz, y de la cruz directamente al
 
-trono, y all donde habita Jehov, en medio de la sobrecogedora gloria de la
+trono, y allí donde habita Jehová, en medio de la sobrecogedora gloria de la
 
-presencia divina est el hombre, el hombre preciso que durmi en el pesebre en
+presencia divina está el hombre, el hombre preciso que durmió en el pesebre en
 
-Beln; all reina como Seor de seores. Nuestras almas le adoran otra vez. T
+Belén; allí reina como Seńor de seńores. Nuestras almas le adoran otra vez. Tú
 
-eres nuestro Profeta: cada palabra que dices, Jess, la creemos y deseamos
+eres nuestro Profeta: cada palabra que dices, Jesús, la creemos y deseamos
 
-seguirla. T eres nuestro Sacerdote: Tu sacrificio nos ha limpiado, hemos sido
+seguirla. Tú eres nuestro Sacerdote: Tu sacrificio nos ha limpiado, hemos sido
 
-lavados en Tu sangre. T eres nuestro Rey: ordena y nosotros obedeceremos,
+lavados en Tu sangre. Tú eres nuestro Rey: ordena y nosotros obedeceremos,
 
-guanos, y nosotros te seguiremos. Nosotros te adoramos. Deberamos pasar mucho
+guíanos, y nosotros te seguiremos. Nosotros te adoramos. Deberíamos pasar mucho
 
-tiempo adorando al Cristo, y l debera tener siempre el lugar ms prominente
+tiempo adorando al Cristo, y Él debería tener siempre el lugar más prominente
 
 en nuestra reverencia.
 
-Despus de adorar, los
+Después de adorar, los
 
 magos presentaron
 
@@ -1078,87 +1084,87 @@ sus ofrendas.
 
 Uno
 
-abri su cofre de oro y lo puso a los pies del Rey recin nacido. Otro present
+abrió su cofre de oro y lo puso a los pies del Rey recién nacido. Otro presentó
 
-incienso, uno de los productos preciosos del pas de donde provenan; y otro
+incienso, uno de los productos preciosos del país de donde provenían; y otro
 
 puso mirra a los pies del Redentor; todas estas cosas las ofrecieron para
 
-demostrar lo genuino de su adoracin. Presentaron ofrendas sustanciales con
+demostrar lo genuino de su adoración. Presentaron ofrendas sustanciales con
 
-manos generosas. Y ahora, despus de que hayan adorado a Cristo en el interior
+manos generosas. Y ahora, después de que hayan adorado a Cristo en el interior
 
-de su alma, y de que lo hayan visto con el ojo de la fe, no ser necesario que
+de su alma, y de que lo hayan visto con el ojo de la fe, no será necesario que
 
-les diga que se entreguen ustedes mismos, que le den su corazn, que le den sus
+les diga que se entreguen ustedes mismos, que le den su corazón, que le den sus
 
-riquezas. Vamos, no podran evitar hacerlo. Aquel que realmente ama al Salvador
+riquezas. Vamos, no podrían evitar hacerlo. Aquel que realmente ama al Salvador
 
-en su corazn no puede evitar entregarle su vida, su fuerza, su todo. Para
+en su corazón no puede evitar entregarle su vida, su fuerza, su todo. Para
 
-algunas personas, cuando le dan algo a Cristo o hacen cualquier cosa por l, se
+algunas personas, cuando le dan algo a Cristo o hacen cualquier cosa por Él, se
 
-trata de un trabajo terriblemente forzado. Dicen: El amor de Cristo debera
+trata de un trabajo terriblemente forzado. Dicen: “El amor de Cristo debería
 
-constreirnos. Sin embargo, yo no creo que exista un texto as en
+constreńirnos”. Sin embargo, yo no creo que exista un texto así en
 
 la Biblia. Yo
 
 recuerdo un
 
-texto que dice as: El amor de Cristo nos constrie. Si no nos constrie, es
+texto que dice así: “El amor de Cristo nos constrińe”. Si no nos constrińe, es
 
-porque no est en nosotros. No es meramente algo que debera ser, sino que tiene
+porque no está en nosotros. No es meramente algo que debería ser, sino que tiene
 
-que ser. Si alguien ama a Cristo, pronto estar encontrando formas y medios de
+que ser. Si alguien ama a Cristo, pronto estará encontrando formas y medios de
 
-demostrar su amor por sus sacrificios. Regresa a casa, Mara, y toma el frasco
+demostrar su amor por sus sacrificios. Regresa a casa, María, y toma el frasco
 
-de alabastro, y derrama el ungento sobre Su cabeza, y si alguien te dijera: Para
+de alabastro, y derrama el ungüento sobre Su cabeza, y si alguien te dijera: “żPara
 
-qu este desperdicio?, t tendrs una buena respuesta, que es: a ti se te ha
+qué este desperdicio?”, tú tendrás una buena respuesta, que es: a ti se te ha
 
-dado mucho, y por tanto, t amas mucho. Si tienes oro, dalo; si tienes
+dado mucho, y por tanto, tú amas mucho. Si tienes oro, dalo; si tienes
 
-incienso, dalo; si tienes mirra, dalo a Jess; si no tienes ninguna de esas
+incienso, dalo; si tienes mirra, dalo a Jesús; si no tienes ninguna de esas
 
-cosas, dale tu amor, todo tu amor, y eso ser oro y especias, todo en uno; dale
+cosas, dale tu amor, todo tu amor, y eso será oro y especias, todo en uno; dale
 
-tu lengua, habla de l; dale tus manos, trabaja para l; dale todo tu ser. Yo
+tu lengua, habla de Él; dale tus manos, trabaja para Él; dale todo tu ser. Yo
 
-s que lo hars, pues l te am, y se entreg por ti. Que el Seor los bendiga,
+sé que lo harás, pues Él te amó, y se entregó por ti. Que el Seńor los bendiga,
 
-y que esta maana de domingo de Navidad sea un da muy memorable para muchos
+y que esta mańana de domingo de Navidad sea un día muy memorable para muchos
 
-que se encuentran en medio de esta muchedumbre congregada aqu. Estoy
+que se encuentran en medio de esta muchedumbre congregada aquí. Estoy
 
-sorprendido de ver a un nmero tan vasto aqu presente, y slo puedo esperar
+sorprendido de ver a un número tan vasto aquí presente, y sólo puedo esperar
 
-que la bendicin sea proporcional, por causa de Jess. Amn.
+que la bendición sea proporcional, por causa de Jesús. Amén.
 
-Porcin
+Porción
 
 de
 
 la Escritura
 
-leda antes del sermn: Mateo 2.
+leída antes del sermón: Mateo 2.
 
 Nota del traductor:
 
 Socinianismo:
 
-Sistema teolgico
+Sistema teológico
 
 creado y difundido por Lelio y Fausto Socini, que negaba los dogmas de
 
 la Trinidad
 
-, Encarnacin y
+, Encarnación y
 
 pecado original.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 22/Noviembre/2012
 

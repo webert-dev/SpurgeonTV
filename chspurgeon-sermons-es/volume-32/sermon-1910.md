@@ -1,14 +1,14 @@
-# Sermón 1910 | El Plpito Del Tabernculo Metropolitanoel Corazn Del Evangelio
+# Sermón 1910 | El Púlpito Del Tabernáculo Metropolitanoel Corazón Del Evangelio
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-El Corazn del Evangelio
+El Corazón del Evangelio
 
 NO. 1910
 
-Sermn predicado el Domingo
+Sermón predicado el Domingo
 
-En el Tabernculo Metropolitano, Newington
+En el Tabernáculo Metropolitano, Newington
 
 "" -- 2 Corintios 5:20,21
 

@@ -1,16 +1,16 @@
 # Sermón 1160 | Sermón 1160
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Ruego del
 
-Espritu Santo
+Espíritu Santo
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,19 +18,19 @@ DOMINGO 1 DE MARZO
 
 DE 1874
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Por lo cual,
+“Por lo cual,
 
-como dice el Espritu Santo: Si oyereis hoy su voz, no endurezcis vuestros
+como dice el Espíritu Santo: Si oyereis hoy su voz, no endurezcáis vuestros
 
-corazones. Hebreos 3: 7.
+corazones”. Hebreos 3: 7.
 
 Las circunstancias
 
-peculiares en las que ahora nos encontramos como congregacin, exigen de m que
+peculiares en las que ahora nos encontramos como congregación, exigen de mí que
 
 mis discursos sean dirigidos principalmente a los inconversos, con el objeto de
 
@@ -38,53 +38,53 @@ que quienes han despertado se decidan, que quienes siguen siendo impasibles
 
 sean despertados y para que en torno nuestro se propague un deseo de buscar al
 
-Seor. Podemos dejar en este momento a las noventa y nueve ovejas en el
+Seńor. Podemos dejar en este momento a las noventa y nueve ovejas en el
 
-desierto durante un breve tiempo para ir tras la que se perdi. Usualmente es
+desierto durante un breve tiempo para ir tras la que se perdió. Usualmente es
 
 nuestro deber alimentar a los hijos, pero podemos dejar eso a otras agencias
 
 durante un tiempo, para que podamos distribuir el alimento a los que perecen de
 
-hambre. Estas pocas de avivamiento no duran para siempre; vienen y se van; y,
+hambre. Estas épocas de avivamiento no duran para siempre; vienen y se van; y,
 
-por tanto, tienen que ser aprovechadas al mximo mientras estn con nosotros. El
+por tanto, tienen que ser aprovechadas al máximo mientras están con nosotros. El
 
 labrador nos dice que debe preparar el heno mientras el sol brilla, y nosotros
 
-tambin debemos ocuparnos en la labor indicada en cada temporada, y me parece a
+también debemos ocuparnos en la labor indicada en cada temporada, y me parece a
 
-m que ese deber apunta ahora en la direccin de los indecisos. Mientras Dios
+mí que ese deber apunta ahora en la dirección de los indecisos. Mientras Dios
 
 hable con tanto poder, nosotros debemos rogar a los hombres que oigan Su voz.
 
-Claramente es sabio que digamos: Amn a lo que Dios dice, pues cuando nuestra
+Claramente es sabio que digamos: “Amén” a lo que Dios dice, pues cuando nuestra
 
-palabra concuerda con la del Seor tenemos la seguridad de que ser fructfera,
+palabra concuerda con la del Seńor tenemos la seguridad de que será fructífera,
 
-ya que Su palabra no puede volver a l vaca. Por tanto el tema de mi sermn de
+ya que Su palabra no puede volver a Él vacía. Por tanto el tema de mi sermón de
 
-esta maana ser el de nuestro autor de himnos:
+esta mańana será el de nuestro autor de himnos:
 
-Oigan a Dios mientras habla; por eso iganlo hoy;
+“Oigan a Dios mientras habla; por eso óiganlo hoy;
 
-Y oren mientras l oiga, oren incesantemente.
+Y oren mientras Él oiga, oren incesantemente.
 
-Crean en Su promesa, confen en Su palabra,
+Crean en Su promesa, confíen en Su palabra,
 
-Y cuando l manda, obedezcan a Su gran Seor.
+Y cuando Él manda, obedezcan a Su gran Seńor”.
 
-Escog este texto con la
+Escogí este texto con la
 
-viva esperanza de que Dios lo bendiga, y espero que el pueblo del Seor bautice
+viva esperanza de que Dios lo bendiga, y espero que el pueblo del Seńor bautice
 
-el texto en torrentes de ansiosas lgrimas por los inconversos.
+el texto en torrentes de ansiosas lágrimas por los inconversos.
 
 I.
 
 El
 
-primer punto que tenemos para nuestra seria consideracin es:
+primer punto que tenemos para nuestra seria consideración es:
 
 LA
 
@@ -92,57 +92,57 @@ VOZ
 
 ESPECIAL
 
-DEL ESPRITU SANTO.
+DEL ESPÍRITU SANTO.
 
-Como dice el Espritu Santo:
+“Como dice el Espíritu Santo:
 
 Si oyereis
 
-hoy su voz. El apstol cita continuamente el Antiguo Testamento, pero no es
+hoy su voz”. El apóstol cita continuamente el Antiguo Testamento, pero no es
 
-frecuente que cite de esta manera particular. En el propio captulo que sigue,
+frecuente que cite de esta manera particular. En el propio capítulo que sigue,
 
-refirindose al mismo pasaje, usa la expresin: Diciendo por medio de David,
+refiriéndose al mismo pasaje, usa la expresión: “Diciendo… por medio de David”,
 
-y menciona al autor humano del Salmo; pero en este caso, para dar un nfasis
+y menciona al autor humano del Salmo; pero en este caso, para dar un énfasis
 
-especial a la verdad, cita nicamente al autor divino: Como dice el Espritu
+especial a la verdad, cita únicamente al autor divino: “Como dice el Espíritu
 
-Santo. Es cierto que esas palabras son aplicables a todo pasaje de
+Santo”. Es cierto que esas palabras son aplicables a todo pasaje de
 
 la Escritura
 
 , pues podemos
 
-decir respecto a todos los libros inspirados: Como dice el Espritu Santo;
+decir respecto a todos los libros inspirados: “Como dice el Espíritu Santo”;
 
-pero aqu se usa adrede para que el pasaje tenga un mayor peso para nosotros.
+pero aquí se usa adrede para que el pasaje tenga un mayor peso para nosotros.
 
-De hecho, el Espritu Santo no slo habla as en el salmo noventa y cinco, sino
+De hecho, el Espíritu Santo no sólo habla así en el salmo noventa y cinco, sino
 
-que constituye una invariable expresin Suya. El Espritu Santo
+que constituye una invariable expresión Suya. El Espíritu Santo
 
 dice,
 
-o sigue diciendo todava: Oigan
+o sigue diciendo todavía: “Oigan
 
-hoy su voz. l ha revelado una cierta doctrina en una ocasin y una verdad
+hoy su voz”. Él ha revelado una cierta doctrina en una ocasión y una verdad
 
-todava ms profunda en otra oportunidad, segn se necesitasen o segn Su
+todavía más profunda en otra oportunidad, según se necesitasen o según Su
 
-pueblo estuviese preparado para ellas; pero esta aseveracin particular es para
+pueblo estuviese preparado para ellas; pero esta aseveración particular es para
 
-todo tiempo y para cada da de gracia. El Espritu Santo, por medio de Pablo,
+todo tiempo y para cada día de gracia. El Espíritu Santo, por medio de Pablo,
 
-como antao por medio de David, dice: Hoy. S, sa es la carga que an coloca
+como antańo por medio de David, dice: “Hoy”. Sí, ésa es la carga que aún coloca
 
 sobre Sus siervos ministrantes. En todo lugar ellos ruegan y persuaden a los
 
-hombres diciendo: Si oyereis hoy su voz, no endurezcis vuestros corazones.
+hombres diciendo: “Si oyereis hoy su voz, no endurezcáis vuestros corazones”.
 
-Cmo habla de esa
+żCómo habla de esa
 
-manera el Espritu Santo? Primero lo dice
+manera el Espíritu Santo? Primero lo dice
 
 en
 
@@ -154,17 +154,17 @@ la Escritura
 
 exige una obediencia inmediata. No nos
 
-es dada la ley de Dios para ser puesta en un entrepao y para que la obedezcamos
+es dada la ley de Dios para ser puesta en un entrepańo y para que la obedezcamos
 
-en algn perodo futuro de la vida; el Evangelio de nuestro Seor y Salvador Jesucristo
+en algún período futuro de la vida; el Evangelio de nuestro Seńor y Salvador Jesucristo
 
-tampoco tiene por fin que le prestemos atencin en la hora undcima y que lo
+tampoco tiene por fin que le prestemos atención en la hora undécima y que lo
 
-desatendamos durante las primeras diez horas. Siempre que el Espritu Santo
+desatendamos durante las primeras diez horas. Siempre que el Espíritu Santo
 
 exhorta, habla en el tiempo presente, y manda que nos arrepintamos ahora, o que
 
-creamos ahora, o que busquemos al Seor ahora. Yo les ruego que cada vez que
+creamos ahora, o que busquemos al Seńor ahora. Yo les ruego que cada vez que
 
 lean
 
@@ -172,13 +172,13 @@ la Biblia
 
 ,
 
-recuerden siempre que es el Espritu del Dios viviente quien all los exhorta a
+recuerden siempre que es el Espíritu del Dios viviente quien allí los exhorta a
 
 rendir una obediencia inmediata. Los llamamientos de la palabra inspirada no
 
-son los de Moiss, o de David, o de Pablo, o de Pedro, sino las solemnes
+son los de Moisés, o de David, o de Pablo, o de Pedro, sino las solemnes
 
-afirmaciones del Espritu Santo que habla a travs de ellos. Cunta dignidad
+afirmaciones del Espíritu Santo que habla a través de ellos. ˇCuánta dignidad
 
 confiere esta verdad a
 
@@ -188,49 +188,49 @@ Escritura
 
 ,
 
-y con qu solemnidad reviste a nuestra lectura de ella! Contristamos al
+y con qué solemnidad reviste a nuestra lectura de ella! Contristamos al
 
-Espritu de Dios poniendo reparos capciosos a
+Espíritu de Dios poniendo reparos capciosos a
 
 la Escritura
 
-, tratndola
+, tratándola
 
 con ligereza, rebatiendo sus doctrinas o descuidando sus amonestaciones; y esto
 
-es adentrarse en un terreno muy peligroso, pues aunque l es paciente y compasivo,
+es adentrarse en un terreno muy peligroso, pues aunque Él es paciente y compasivo,
 
-recuerden que del pecado en contra del Espritu Santo se afirma: No ser
+recuerden que del pecado en contra del Espíritu Santo se afirma: “No será
 
-perdonado nunca. No todo pecado en contra del Espritu Santo es imperdonable;
+perdonado nunca”. No todo pecado en contra del Espíritu Santo es imperdonable;
 
-demos gracias a Dios por ello; pero hay un pecado en contra del Espritu Santo
+demos gracias a Dios por ello; pero hay un pecado en contra del Espíritu Santo
 
-que no ser perdonado nunca; por tanto, cuando lo vejamos estamos pisando un
+que no será perdonado nunca; por tanto, cuando lo vejamos estamos pisando un
 
 terreno muy delicado, y eso hacemos si al momento de leer Su palabra
 
-consideramos que Sus enseanzas son asuntos triviales. Cudense, les digo, varones
+consideramos que Sus enseńanzas son asuntos triviales. Cuídense, les digo, varones
 
 de Inglaterra, ustedes que cuentan con Biblias en sus hogares y entre quienes
 
-la palabra del Seor abunda como el pan de trigo, cudense del trato que le dan,
+la palabra del Seńor abunda como el pan de trigo, cuídense del trato que le dan,
 
-pues, al rechazarla, no slo rechazan la voz de los apstoles y de los
+pues, al rechazarla, no sólo rechazan la voz de los apóstoles y de los
 
-profetas, sino la propia voz del Espritu Santo. El Santo Espritu dice: Hoy.
+profetas, sino la propia voz del Espíritu Santo. El Santo Espíritu dice: “Hoy”.
 
-l manda a Su pueblo que se apresure y que no se demore en guardar los
+Él manda a Su pueblo que se apresure y que no se demore en guardar los
 
-mandamientos de Dios, y manda a los pecadores que busquen al Seor mientras
+mandamientos de Dios, y manda a los pecadores que busquen al Seńor mientras
 
-pueda ser hallado, y que lo invoquen mientras est cerca. Oh, que oigan Su voz
+pueda ser hallado, y que lo invoquen mientras esté cerca. Oh, que oigan Su voz
 
 de advertencia para que vivan.
 
-Adems, si bien el
+Además, si bien el
 
-Espritu Santo habla en
+Espíritu Santo habla en
 
 la
 
@@ -242,225 +242,225 @@ en los corazones de Su pueblo
 
 ,
 
-pues l es un agente vivo y activo. Su
+pues Él es un agente vivo y activo. Su
 
-obra no ha terminado. l an habla y escribe; la pluma est todava en Su mano,
+obra no ha terminado. Él aún habla y escribe; la pluma está todavía en Su mano,
 
 no para escribir con tinta sobre papel, sino en las tablas de carne de unos
 
-corazones preparados. El Espritu de Dios ha estado ahora en esta iglesia
+corazones preparados. El Espíritu de Dios ha estado ahora en esta iglesia
 
-comunicndose con Su pueblo, y el tenor de la comunicacin ha sido ste: Busquen
+comunicándose con Su pueblo, y el tenor de la comunicación ha sido éste: “Busquen
 
-ganar almas, y yo les garantizo esta aseveracin: que en ningn caso el
+ganar almas”, y yo les garantizo esta aseveración: que en ningún caso el
 
-Espritu ha dicho: Busquen la conversin de los pecadores a finales del ao;
+Espíritu ha dicho: “Busquen la conversión de los pecadores a finales del ańo;
 
-preocpense por la salvacin de sus almas cuando hayan madurado en aos y en juicio;
+preocúpense por la salvación de sus almas cuando hayan madurado en ańos y en juicio”;
 
 antes bien, cada hombre y cada mujer que han sido salvados por la gracia y que
 
-han sentido el Espritu Santo en su interior, han experimentado el impulso de
+han sentido el Espíritu Santo en su interior, han experimentado el impulso de
 
-buscar de inmediato la conversin de los pecadores. Han anhelado que los
+buscar de inmediato la conversión de los pecadores. Han anhelado que los
 
-transgresores no permanezcan por ms tiempo en el pecado, que sean despertados
+transgresores no permanezcan por más tiempo en el pecado, que sean despertados
 
-ahora, que se aferren de inmediato a la vida eterna y que encuentren una paz instantnea
+ahora, que se aferren de inmediato a la vida eterna y que encuentren una paz instantánea
 
-en Cristo. Que digan mis hermanos si no es cierto. No han sentido que es ya
+en Cristo. Que digan mis hermanos si no es cierto. żNo han sentido que “es ya
 
-hora de levantarnos del sueo? No han sentido la fuerza de la advertencia: Todo
+hora de levantarnos del sueńo”? żNo han sentido la fuerza de la advertencia: “Todo
 
-lo que te viniere a la mano para hacer, hazlo segn tus fuerzas? En otros
+lo que te viniere a la mano para hacer, hazlo según tus fuerzas”? En otros
 
 tiempos nos hemos contentado sintiendo que una buena obra se estaba llevando a
 
 cabo secretamente, que el terreno estaba siendo preparado para futuras
 
-cosechas, que de una manera u otra la palabra de Dios no volvera a l vaca;
+cosechas, que de una manera u otra la palabra de Dios no volvería a Él vacía;
 
-pero ahora no nos contentamos tan fcilmente. Sentimos como si tuviramos que
+pero ahora no nos contentamos tan fácilmente. Sentimos como si tuviéramos que
 
-ver que el Seor est obrando en cada uno de los servicios, y abogamos por inmediatas
+ver que el Seńor está obrando en cada uno de los servicios, y abogamos por inmediatas
 
-conversiones. Estamos tan vidos de atesorar almas como los avaros estn vidos
+conversiones. Estamos tan ávidos de atesorar almas como los avaros están ávidos
 
 de atesorar dinero. No digo que todos ustedes sientan esto, pero digo que todos
 
-aquellos que han experimentado de lleno la influencia del Espritu Santo
+aquellos que han experimentado de lleno la influencia del Espíritu Santo
 
-durante este perodo de agraciada visitacin, se han llenado de agona por ver
+durante este período de agraciada visitación, se han llenado de agonía por ver
 
-la inmediata salvacin de las almas. Cual mujer que est de parto, han anhelado
+la inmediata salvación de las almas. Cual mujer que está de parto, han anhelado
 
-con avidez or el llanto de las almas recin nacidas. Su oracin ha sido: Buen
+con avidez oír el llanto de las almas recién nacidas. Su oración ha sido: “Buen
 
-Seor, responde hoy a nuestras splicas y conduce hoy a nuestros semejantes a
+Seńor, responde hoy a nuestras súplicas y conduce hoy a nuestros semejantes a
 
-or Tu voz para que sean salvados. Pido al pueblo de Dios que diga si no es
+oír Tu voz para que sean salvados”. Pido al pueblo de Dios que diga si no es
 
-cierto que cuando el Espritu Santo los induce a ganar almas, les dice: Hoy, hoy
+cierto que cuando el Espíritu Santo los induce a ganar almas, les dice: “Hoy, hoy
 
-busquen la salvacin de los hombres.
+busquen la salvación de los hombres”.
 
 Lo mismo sucede cuando
 
-el Espritu Santo habla
+el Espíritu Santo habla
 
 a quienes han
 
 sido despertados.
 
-Aunque todava no son contados con el pueblo de Dios, ya
+Aunque todavía no son contados con el pueblo de Dios, ya
 
-tienen preocupacin por sus almas y voy a arengarlos a ellos tambin. Ustedes
+tienen preocupación por sus almas y voy a arengarlos a ellos también. Ustedes
 
-ya estn conscientes de que han ofendido a su Dios; se han alarmado al verse en
+ya están conscientes de que han ofendido a su Dios; se han alarmado al verse en
 
-una condicin de alejamiento de l; necesitan ser reconciliados y anhelan
+una condición de alejamiento de Él; necesitan ser reconciliados y anhelan
 
-ardientemente tener la seguridad de haber sido realmente perdonados. Desean
+ardientemente tener la seguridad de haber sido realmente perdonados. żDesean
 
-esperar que pasen seis o siete aos para tener esa seguridad? Consideran esta
+esperar que pasen seis o siete ańos para tener esa seguridad? żConsideran esta
 
-maana que podran sentirse perfectamente satisfechos si salieran de esta casa
+mańana que podrían sentirse perfectamente satisfechos si salieran de esta casa
 
-en el mismo estado en que se encuentran ahora? Les gustara permanecer en ese
+en el mismo estado en que se encuentran ahora? żLes gustaría permanecer en ese
 
-estado mes tras mes? Si tal demora te dejara satisfecho querra decir que el
+estado mes tras mes? Si tal demora te dejara satisfecho querría decir que el
 
-Espritu de Dios no ha hablado eficazmente contigo. Slo has sido influenciado
+Espíritu de Dios no ha hablado eficazmente contigo. Sólo has sido influenciado
 
-parcialmente -tal como el desdichado Flix- y habiendo dicho: Cuando tenga
+parcialmente -tal como el desdichado Félix- y habiendo dicho: “Cuando tenga
 
-oportunidad te llamar, no sabremos nada ms de ti. Si el Espritu de Dios
+oportunidad te llamaré”, no sabremos nada más de ti. Si el Espíritu de Dios
 
-estuviera sobre ti, estaras clamando: Aydame, Seor, aydame ahora; slvame
+estuviera sobre ti, estarías clamando: “Ayúdame, Seńor, ayúdame ahora; sálvame
 
-ahora o perecer. Apresrate a socorrerme, Dios mo, no te tardes. Apresrate,
+ahora o pereceré. Apresúrate a socorrerme, Dios mío, no te tardes. Apresúrate,
 
-en las alas del amor, a rescatarme del pozo de la destruccin que abre sus
+en las alas del amor, a rescatarme del pozo de la destrucción que abre sus
 
-fauces debajo de mis pies.
+fauces debajo de mis pies”.
 
-Ven, Seor, alienta a tu siervo desfalleciente,
+“Ven, Seńor, alienta a tu siervo desfalleciente,
 
 Que no se demoren las ruedas de Tu carro;
 
-Mustrate, en mi pobre corazn mustrate,
+Muéstrate, en mi pobre corazón muéstrate,
 
-Mi Dios, mi Salvador, ven de inmediato!
+ˇMi Dios, mi Salvador, ven de inmediato!”
 
 Un pecador
 
 verdaderamente despierto suplica en todo momento en el tiempo presente, y clama
 
-poderosamente pidiendo una salvacin inmediata, y es un hecho que siempre que
+poderosamente pidiendo una salvación inmediata, y es un hecho que siempre que
 
-el Espritu Santo lucha con los hombres, clama urgentemente: Hoy! Hoy!
+el Espíritu Santo lucha con los hombres, clama urgentemente: “ˇHoy!” ˇHoy!”
 
-Adems, el Espritu
+Además, el Espíritu
 
-Santo habla as tanto
+Santo habla así tanto
 
 por Sus actos
 
 como
 
-por Sus palabras. Tenemos un proverbio muy conocido que reza: hechos son
+por Sus palabras. Tenemos un proverbio muy conocido que reza: ‘hechos son
 
-amores y no buenas razones. Ahora bien, los actos del Espritu Santo para
+amores y no buenas razones’. Ahora bien, los actos del Espíritu Santo para
 
 conducir a muchas personas al Salvador en este lugar son muchas invitaciones
 
-prcticas, estmulos y mandamientos para otros. La puerta de la misericordia
+prácticas, estímulos y mandamientos para otros. La puerta de la misericordia
 
-permanece abierta cada da del ao, y el simple hecho de que est abierta es
+permanece abierta cada día del ańo, y el simple hecho de que esté abierta es
 
-una invitacin y un mandamiento a entrar; pero cuando veo a mis semejantes
+una invitación y un mandamiento a entrar; pero cuando veo a mis semejantes
 
 entrar a correntadas, cuando veo, tal como lo hemos visto, que cientos de
 
-individuos encuentran a Cristo, acaso al traspasar todos ellos el portal de la
+individuos encuentran a Cristo, żacaso al traspasar todos ellos el portal de la
 
-gracia, no llaman a otros para que vengan tambin? Acaso no les dicen: Esta
+gracia, no llaman a otros para que vengan también? żAcaso no les dicen: “Esta
 
-va puede ser transitada por gente como ustedes, pues nosotros la estamos
+vía puede ser transitada por gente como ustedes, pues nosotros la estamos
 
-hollando; esta va conduce con seguridad a la paz, pues nosotros ya hemos
+hollando; esta vía conduce con seguridad a la paz, pues nosotros ya hemos
 
-encontrado el reposo all? Ciertamente as es. Esta forma de hablar del
+encontrado el reposo allí”? Ciertamente así es. Esta forma de hablar del
 
-Espritu Santo ha llegado muy cerca de casa para algunos de ustedes, pues han
+Espíritu Santo ha llegado muy cerca de casa para algunos de ustedes, pues han
 
 visto que sus hijos entran en el reino, y con todo, ustedes mismos no son
 
 salvos. Algunos de ustedes han visto que sus hermanas son salvas, pero ustedes
 
-siguen siendo todava inconversos. Por all est un esposo cuya esposa le ha
+siguen siendo todavía inconversos. Por allá está un esposo cuya esposa le ha
 
-contado con radiantes ojos acerca del reposo que encontr en el Salvador, pero
+contado con radiantes ojos acerca del reposo que encontró en el Salvador, pero
 
-l mismo rehsa buscar al Seor. Hay padres aqu que han encontrado a Jess,
+él mismo rehúsa buscar al Seńor. Hay padres aquí que han encontrado a Jesús,
 
 pero sus hijos son una pesada carga para ellos pues sus corazones no han sido
 
-renovados. Vi yo que mi hermano traspas la puerta de la salvacin? No he de
+renovados. żVi yo que mi hermano traspasó la puerta de la salvación? żNo he de
 
-tomar eso como una indicacin del Espritu Santo de que est en espera de ser
+tomar eso como una indicación del Espíritu Santo de que está en espera de ser
 
-tambin clemente conmigo? Cuando veo que otros son salvados por la fe, no
+también clemente conmigo? Cuando veo que otros son salvados por la fe, żno
 
-podra estar seguro de que la fe me salvar a m tambin? Puesto que percibo
+podría estar seguro de que la fe me salvará a mí también? Puesto que percibo
 
 que hay gracia en Cristo para perdonar los pecados de otros que son exactamente
 
-como yo, no podra esperar que haya misericordia para m tambin? Me
+como yo, żno podría esperar que haya misericordia para mí también? Me
 
-aventurar a esperar y me atrever a creer. No debera ser esa la resolucin
+aventuraré a esperar y me atreveré a creer. żNo debería ser esa la resolución
 
-de cada quien, y no es ese el punto al que el Espritu Santo quisiera
+de cada quien, y no es ese el punto al que el Espíritu Santo quisiera
 
-conducirlos? Cuando lleva a un pecador a l, acaso no tiene el propsito de
+conducirlos? Cuando lleva a un pecador a Él, żacaso no tiene el propósito de
 
 atraer a otros?
 
-El Espritu Santo dice:
+“El Espíritu Santo dice:
 
-hoy. Pero, por qu tanta urgencia, bendito Espritu, por qu tanta urgencia? Es
+hoy”. Pero, żpor qué tanta urgencia, bendito Espíritu, por qué tanta urgencia? Es
 
-porque el Espritu Santo est en sintona con Dios; est en sintona con el
+porque el Espíritu Santo está en sintonía con Dios; está en sintonía con el
 
-Padre que anhela estrechar al hijo prdigo en Su pecho; est en sintona con el
+Padre que anhela estrechar al hijo pródigo en Su pecho; está en sintonía con el
 
-Hijo que est pendiente de ver el fruto de la afliccin de Su alma. El Espritu
+Hijo que está pendiente de ver el fruto de la aflicción de Su alma. El Espíritu
 
-Santo tiene urgencia porque est contristado por el pecado y no quisiera que
+Santo tiene urgencia porque está contristado por el pecado y no quisiera que
 
-continuase ni siquiera por una hora, y cada instante que el pecador rehsa
+continuase ni siquiera por una hora, y cada instante que el pecador rehúsa
 
-venir a Cristo es un instante gastado en el pecado; s, esa renuencia a venir
+venir a Cristo es un instante gastado en el pecado; sí, esa renuencia a venir
 
-es en s misma la ofensa ms cruel y desvergonzada. La dureza del corazn del
+es en sí misma la ofensa más cruel y desvergonzada. La dureza del corazón del
 
-hombre para con el Evangelio es la ms deplorable de todas las provocaciones; por
+hombre para con el Evangelio es la más deplorable de todas las provocaciones; por
 
-eso el Espritu Santo anhela ver que el hombre se desprenda de ella, para que
+eso el Espíritu Santo anhela ver que el hombre se desprenda de ella, para que
 
-se someta al poder omnipotente del amor. El Espritu Santo desea ver que los
+se someta al poder omnipotente del amor. El Espíritu Santo desea ver que los
 
-hombres estn atentos a la voz de Dios porque se deleita en lo que es recto y
+hombres están atentos a la voz de Dios porque se deleita en lo que es recto y
 
-bueno. Es para l un placer personal. A l le alegra contemplar que Su propia
+bueno. Es para Él un placer personal. A Él le alegra contemplar que Su propia
 
-obra en el pecador contina hasta que la salvacin es asegurada. Adems, l
+obra en el pecador continúa hasta que la salvación es asegurada. Además, Él
 
-espera para ejercer Su oficio favorito de Consolador, y l no puede consolar a
+espera para ejercer Su oficio favorito de Consolador, y Él no puede consolar a
 
-un alma impa ni puede confortar a aquellos que endurecen sus corazones. El
+un alma impía ni puede confortar a aquellos que endurecen sus corazones. El
 
-consuelo para los incrdulos sera su destruccin. Como le deleita ser
+consuelo para los incrédulos sería su destrucción. Como le deleita ser
 
 el Consolador, y como ha sido enviado por el
 
@@ -470,39 +470,39 @@ Dios-
 
 vigila con ojos anhelantes a los
 
-corazones quebrantados y a los espritus contritos, para aplicarles el blsamo
+corazones quebrantados y a los espíritus contritos, para aplicarles el bálsamo
 
-de Galaad y sanar sus heridas. Por tanto, dice el Espritu Santo: hoy. Les
+de Galaad y sanar sus heridas. Por tanto, “dice el Espíritu Santo: hoy”. Les
 
 dejo este hecho. La voz especial del texto no es la de un hombre, sino la del
 
-propio Espritu Santo. El que tenga odos para or, oiga.
+propio Espíritu Santo. El que tenga oídos para oír, oiga.
 
-Entonces, mientras se diga hoy,
+“Entonces, mientras se diga hoy,
 
 Oh, oigan el mensaje del Evangelio;
 
-Ven, pecador, apresrate, oh, date prisa,
+Ven, pecador, apresúrate, oh, date prisa,
 
-Mientras est disponible el perdn.
+Mientras esté disponible el perdón”.
 
 II.
 
 El
 
-texto inculca UN DEBER ESPECIAL. El deber que tenemos de or la voz de Dios. Si
+texto inculca UN DEBER ESPECIAL. El deber que tenemos de oír la voz de Dios. Si
 
-as lo leyeran, el texto nos ordena or la voz del Padre que dice: Convertos,
+así lo leyeran, el texto nos ordena oír la voz del Padre que dice: “Convertíos,
 
-hijos rebeldes. Venid luego, dice Jehov, y estemos a cuenta si vuestros
+hijos rebeldes. Venid luego, dice Jehová, y estemos a cuenta… si vuestros
 
-pecados fueren rojos como el carmes, vendrn a ser como blanca lana. O
+pecados fueren rojos como el carmesí, vendrán a ser como blanca lana”. O
 
-pudiera ser la voz de Jesucristo, pues el apstol est hablando de l aqu. Es
+pudiera ser la voz de Jesucristo, pues el apóstol está hablando de Él aquí. Es
 
-Jess quien llama: Venid a m todos los que estis trabajados y cargados, y yo
+Jesús quien llama: “Venid a mí todos los que estáis trabajados y cargados, y yo
 
-os har descansar. De hecho, la voz que ha de ser escuchada es la de
+os haré descansar”. De hecho, la voz que ha de ser escuchada es la de
 
 la Sagrada
 
@@ -510,15 +510,15 @@ Trinidad
 
 , pues junto
 
-con el Padre y el Hijo, el Espritu dice tambin: Ven. Se nos ordena que
+con el Padre y el Hijo, el Espíritu dice también: “Ven”. Se nos ordena que
 
-oigamos, y ese, ciertamente, no es un deber difcil. El gran precepto
+oigamos, y ese, ciertamente, no es un deber difícil. El gran precepto
 
-evanglico es: Inclinad vuestro odo, y venid a m; od, y vivir vuestra
+evangélico es: “Inclinad vuestro oído, y venid a mí; oíd, y vivirá vuestra
 
-alma, pues la fe es por el or, y el or, por la palabra de Dios. Entonces,
+alma”, pues “la fe es por el oír, y el oír, por la palabra de Dios”. Entonces,
 
-oigan la voz del Seor. Bien dir alguno- nosotros la omos; nosotros
+oigan la voz del Seńor. “Bien” –dirá alguno- “nosotros la oímos; nosotros
 
 leemos
 
@@ -526,147 +526,147 @@ la Biblia
 
 ,
 
-y estamos muy dispuestos a or todo lo que se predica el da domingo. Ah, mis queridos
+y estamos muy dispuestos a oír todo lo que se predica el día domingo”. Ah, mis queridos
 
-oyentes, sepan que hay diferentes maneras de or. Muchos tienen odos para or,
+oyentes, sepan que hay diferentes maneras de oír. Muchos tienen oídos para oír,
 
-pero en realidad no oyen. Lo que se nos exige es or con reverencia. El
+pero en realidad no oyen. Lo que se nos exige es oír con reverencia. El
 
 Evangelio es la palabra de Dios, no la del hombre; es la voz de su Hacedor, de su
 
-Seor; es la voz de
+Seńor; es la voz de
 
 la Verdad
 
 infalible, del Amor infinito, de la autoridad soberana, y, por tanto, no se le
 
-debe prestar ninguna atencin comn. Escchenla con devocin, y convoquen a
+debe prestar ninguna atención común. Escúchenla con devoción, y convoquen a
 
-todos sus poderes a una atencin adoradora. Los ngeles velan sus rostros en la
+todos sus poderes a una atención adoradora. Los ángeles velan sus rostros en la
 
-presencia de Jehov, y acaso el hombre actuar con frivolidad en Su presencia?
+presencia de Jehová, ży acaso el hombre actuará con frivolidad en Su presencia?
 
 Cuando Dios habla no piensen que se trata simplemente de la voz de un rey a
 
-cuyo mensaje sera una traicin prestar odos sordos; piensen que es
+cuyo mensaje sería una traición prestar oídos sordos; piensen que es
 
 la voz de su Dios, y que es una blasfemia no
 
-estar atentos a ella. iganlo atentamente, con ansiedad por saber el significado
+estar atentos a ella. Óiganlo atentamente, con ansiedad por saber el significado
 
 de lo que dice, abrevando de Su doctrina, recibiendo con mansedumbre la palabra
 
 implantada que puede salvar sus almas, inclinando su entendimiento a ella, anhelando
 
-comprenderla, deseando ser influidos por ella. Oigan su voz, esto es, iganla
+comprenderla, deseando ser influidos por ella. “Oigan su voz”, esto es, óiganla
 
-obedientemente, vidos de hacer lo que se les pida, conforme l los capacite.
+obedientemente, ávidos de hacer lo que se les pida, conforme Él los capacite.
 
 No oigan para olvidar, como alguien que mira en un espejo y ve su rostro, y
 
-luego olvida cmo era. Retengan la verdad en su memoria, pero mejor an,
+luego olvida cómo era. Retengan la verdad en su memoria, pero mejor aún,
 
-practquenla en sus vidas. Or en este caso equivale, de hecho, a someterse a
+practíquenla en sus vidas. Oír en este caso equivale, de hecho, a someterse a
 
 la voluntad de Dios, a ser como la arcilla moldeable y que Su palabra sea como
 
-la mano que los moldea, o que su corazn sea como el metal derretido, y que la
+la mano que los moldea, o que su corazón sea como el metal derretido, y que la
 
 palabra sea como el molde en el cual son vertidos.
 
-Oigan al Seor cuando
+Oigan al Seńor cuando
 
 los
 
 instruye.
 
-Estn dispuestos a
+Estén dispuestos a
 
-conocer la verdad. Con cunta frecuencia son tapados los odos de los hombres
+conocer la verdad. Con cuánta frecuencia son tapados los oídos de los hombres
 
-con la cera del prejuicio, de tal manera que con los odos oyen pesadamente.
+con la cera del prejuicio, de tal manera que con los oídos oyen pesadamente.
 
-Han tomado una decisin en cuanto a lo que el Evangelio debe ser, y no quieren
+Han tomado una decisión en cuanto a lo que el Evangelio debe ser, y no quieren
 
-or lo que es. Se consideran los jueces de la palabra de Dios, en vez de que la
+oír lo que es. Se consideran los jueces de la palabra de Dios, en vez de que la
 
 palabra de Dios sea su juez. Algunos seres no quieren saber demasiado, pues
 
-pudieran sentirse incmodos en sus pecados si lo hicieran y, por tanto, no estn
+pudieran sentirse incómodos en sus pecados si lo hicieran y, por tanto, no están
 
 ansiosos de que se les instruya. Cuando los hombres le tienen miedo a la verdad
 
-hay una slida razn para temer que la verdad est en su contra. Una de las
+hay una sólida razón para temer que la verdad está en su contra. Una de las
 
-peores evidencias de una condicin cada es cuando un hijo de Adn se esconde
+peores evidencias de una condición caída es cuando un hijo de Adán se esconde
 
 de la voz de su Creador. Pero, oh queridos oyentes, oigan hoy Su voz. Aprendan
 
-de Jess, sintense cual escolares a Sus pies, pues si no os volvis y os
+de Jesús, siéntense cual escolares a Sus pies, pues “si no os volvéis y os
 
-hacis como nios, no entraris en el reino de los cielos. iganlo tal como
+hacéis como nińos, no entraréis en el reino de los cielos”. Óiganlo tal como
 
-los escolares oyen a su maestro, pues todos los hijos de Sion son enseados por
+los escolares oyen a su maestro, pues todos los hijos de Sion son enseńados por
 
-el Seor. Pero el Seor hace algo ms que instruirlos: l
+el Seńor. Pero el Seńor hace algo más que instruirlos: Él
 
 manda;
 
 porque independientemente de lo que los hombres digan, el
 
-Evangelio que debe ser predicado a los impos no consiste meramente en
+Evangelio que debe ser predicado a los impíos no consiste meramente en
 
-advertencias y enseanzas, ya que contiene sus mandamientos solemnes y
+advertencias y enseńanzas, ya que contiene sus mandamientos solemnes y
 
-positivos. Oigan esto. Pero Dios, habiendo pasado por alto los tiempos de esta
+positivos. Oigan esto. “Pero Dios, habiendo pasado por alto los tiempos de esta
 
-ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan.
+ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan”.
 
-En cuanto a la fe, la palabra del Seor no viene como una mera recomendacin de
+En cuanto a la fe, la palabra del Seńor no viene como una mera recomendación de
 
 sus virtudes, o como una promesa para aquellos que la practican, sino que habla
 
-en este sentido: Cree en el Seor Jesucristo, y sers salvo. El que creyere y
+en este sentido: “Cree en el Seńor Jesucristo, y serás salvo. El que creyere y
 
-fuere bautizado, ser salvo; mas el que no creyere, ser condenado. El Seor
+fuere bautizado, será salvo; mas el que no creyere, será condenado”. El Seńor
 
-pone la solemne sancin de una amenaza de condenacin en el mandamiento para
+pone la solemne sanción de una amenaza de condenación en el mandamiento para
 
-mostrar que no se puede jugar con eso. Toda potestad dice Cristo- me es
+mostrar que no se puede jugar con eso. “Toda potestad” –dice Cristo- “me es
 
-dada en el cielo y en la tierra, y por tanto, revestido con esa autoridad y
+dada en el cielo y en la tierra”, y por tanto, revestido con esa autoridad y
 
-con ese poder, l enva a Sus discpulos, dicindoles: Id, y haced discpulos
+con ese poder, Él envía a Sus discípulos, diciéndoles: “Id, y haced discípulos
 
-a todas las naciones, bautizndolos en el nombre del Padre, y del Hijo, y del
+a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del
 
-Espritu Santo. La palabra sale con la autoridad divina, diciendo: Arrepentos,
+Espíritu Santo”. La palabra sale con la autoridad divina, diciendo: “Arrepentíos,
 
-y creed en el evangelio. Tan mandamiento de Dios es ste como el que dice: Amars
+y creed en el evangelio”. Tan mandamiento de Dios es éste como el que dice: “Amarás
 
-a Jehov
+a Jehová
 
 tu
 
-Dios de todo tu corazn, y tiene un
+Dios de todo tu corazón”, y tiene un
 
-contenido mayor de solemne obligacin, pues mientras que la ley fue dada por
+contenido mayor de solemne obligación, pues mientras que la ley fue dada por
 
-Moiss, el mandamiento evanglico fue dado por el Hijo de Dios mismo. El que
+Moisés, el mandamiento evangélico fue dado por el Hijo de Dios mismo. “El que
 
-viola la ley de Moiss, por el testimonio de dos o tres testigos muere
+viola la ley de Moisés, por el testimonio de dos o tres testigos muere
 
-irremisiblemente. Cunto mayor castigo pensis que merecer el que pisoteare
+irremisiblemente. żCuánto mayor castigo pensáis que merecerá el que pisoteare
 
-al Hijo de Dios? Oigan ustedes, entonces, los mandamientos de Jess, pues
+al Hijo de Dios?” Oigan ustedes, entonces, los mandamientos de Jesús, pues
 
-estn seguros de esto, que Su Evangelio viene a ustedes con la autoridad
+estén seguros de esto, que Su Evangelio viene a ustedes con la autoridad
 
-imperial del Seor de todo.
+imperial del Seńor de todo.
 
-Pero el Seor hace algo
+Pero el Seńor hace algo
 
-ms que mandar. l
+más que mandar. Él
 
 invita
 
@@ -674,107 +674,107 @@ con
 
 clemencia; con ternura les pide a los pecadores que asistan a Su banquete de
 
-misericordia, pues todas las cosas estn dispuestas. Como si suplicara a los
+misericordia, pues todas las cosas están dispuestas. Como si suplicara a los
 
-hombres y persuadiera de buen grado donde podra exigir, l exclama: A todos
+hombres y persuadiera de buen grado donde podría exigir, Él exclama: “A todos
 
 los sedientos: Venid a las aguas; y los que no tienen dinero, venid, comprad y
 
-comed. Venid, comprad sin dinero y sin precio, vino y leche. Muchas de las
+comed. Venid, comprad sin dinero y sin precio, vino y leche”. Muchas de las
 
-invitaciones del Seor son notables por su extremo patetismo, como si l mismo
+invitaciones del Seńor son notables por su extremo patetismo, como si Él mismo
 
-fuera ms bien quien sufriera y no el pecador, si permaneciera en su
+fuera más bien quien sufriera y no el pecador, si permaneciera en su
 
-obstinacin. l clama: Volveos, volveos de vuestros malos caminos; por qu
+obstinación. Él clama: “Volveos, volveos de vuestros malos caminos; żpor qué
 
-moriris, oh casa de Israel? Como un padre que suplica a su amado pero
+moriréis, oh casa de Israel?” Como un padre que suplica a su amado pero
 
-desobediente hijo que est arruinndose a s mismo, Dios mismo suplica, como si
+desobediente hijo que está arruinándose a sí mismo, Dios mismo suplica, como si
 
-las lgrimas anegaran Sus ojos; s, el Dios Encarnado llor en verdad por los
+las lágrimas anegaran Sus ojos; sí, el Dios Encarnado lloró en verdad por los
 
-pecadores y exclam: Jerusaln, Jerusaln Cuntas veces quise juntar a tus
+pecadores y exclamó: “ˇJerusalén, Jerusalén… Cuántas veces quise juntar a tus
 
 hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste
 
 !
 
-No oirs, entonces, cuando Dios
+” żNo oirás, entonces, cuando Dios
 
 instruye?
 
-Acaso dar l la luz y tus ojos estarn cerrados? No
+żAcaso dará Él la luz y tus ojos estarán cerrados? żNo
 
-obedecers cuando
+obedecerás cuando
 
 manda?
 
-Pretenden
+żPretenden
 
-rebelarse contra l? Darn la espalda cuando Dios los
+rebelarse contra Él? żDarán la espalda cuando Dios los
 
 invita?
 
-Habr de ser tratado Su amor con ligereza y ser tratada
+żHabrá de ser tratado Su amor con ligereza y será tratada
 
-Su abundancia con escarnio? Que Dios nos conceda que no sea as. El buen
+Su abundancia con escarnio? Que Dios nos conceda que no sea así. El buen
 
-Espritu no pide ms de lo que es justo y recto cuando clama: Oigan la voz del
+Espíritu no pide más de lo que es justo y recto cuando clama: “Oigan la voz del
 
-Seor.
+Seńor”.
 
-Pero el Seor hace algo
+Pero el Seńor hace algo
 
-ms que invitar:
+más que invitar:
 
-aade Sus promesas.
+ańade Sus promesas.
 
-l
+Él
 
-dice: Od, y vivir vuestra alma; y har con vosotros pacto eterno, las
+dice: “Oíd, y vivirá vuestra alma; y haré con vosotros pacto eterno, las
 
-misericordias firmes de David. l nos ha dicho que: si confesamos nuestros
+misericordias firmes de David”. Él nos ha dicho que: “si confesamos nuestros
 
-pecados, l es fiel y justo para perdonar nuestros pecados, y limpiarnos de
+pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de
 
-toda maldad. Hay gloriosas promesas en Su palabra que son sumamente grandes y
+toda maldad”. Hay gloriosas promesas en Su palabra que son sumamente grandes y
 
 preciosas. Oh, yo les suplico que no se consideren indignos de ellas, pues si
 
-lo hicieran, vuestra sangre sea sobre vuestra propia cabeza.
+lo hicieran, ‘vuestra sangre sea sobre vuestra propia cabeza’.
 
-As como ruega, el Seor
+Así como ruega, el Seńor
 
-tambin
+también
 
 amenaza
 
-. l advierte: Si no
+. Él advierte: “Si no
 
-se arrepiente, l afilar su espada; armado tiene ya su arco, y lo ha preparado.
+se arrepiente, él afilará su espada; armado tiene ya su arco, y lo ha preparado”.
 
-l declara que los menospreciadores se asombrarn y desaparecern. l hace que
+Él declara que los menospreciadores se asombrarán y desaparecerán. Él hace que
 
-nos preguntemos: cmo escaparemos nosotros, si descuidamos una salvacin tan
+nos preguntemos: “żcómo escaparemos nosotros, si descuidamos una salvación tan
 
-grande? l dice: Los malos sern trasladados al Seol, todas las gentes que se
+grande?” Él dice: “Los malos serán trasladados al Seol, todas las gentes que se
 
-olvidan de Dios. Aunque no quiere la muerte del que muere, antes bien quiere
+olvidan de Dios”. Aunque no quiere la muerte del que muere, antes bien quiere
 
-que se convierta a l y viva, con todo, de ningn modo tendr por inocente al
+que se convierta a Él y viva, con todo, de ningún modo tendrá por inocente al
 
-malvado, sino que toda transgresin y toda iniquidad tendrn su justa
+malvado, sino que toda transgresión y toda iniquidad tendrán su justa
 
-recompensa como remuneracin. Si Cristo es rechazado, la eterna ira es segura.
+recompensa como remuneración. Si Cristo es rechazado, la eterna ira es segura.
 
 Por esa puerta entran ustedes al cielo, pero si pasaran de lejos, incluso Aquel
 
-que en este momento est dispuesto a cortejarlos con Sus manos horadadas, en el
+que en este momento está dispuesto a cortejarlos con Sus manos horadadas, en el
 
-ltimo gran da vendr con vara de hierro para quebrantarlos. Si oyereis hoy
+último gran día vendrá con vara de hierro para quebrantarlos. “Si oyereis hoy
 
-su voz, no endurezcis vuestros corazones. Les dejo esos pensamientos. Que
+su voz, no endurezcáis vuestros corazones”. Les dejo esos pensamientos. Que
 
 Dios nos conceda que dejen huellas donde Su voluntad decida que lo hagan.
 
@@ -782,109 +782,109 @@ III.
 
 Nuestro
 
-texto ENFATIZA UN TIEMPO ESPECIAL. Dice el Espritu Santo:
+texto ENFATIZA UN TIEMPO ESPECIAL. “Dice el Espíritu Santo:
 
-Hoy.
+Hoy”.
 
 Hoy es el tiempo establecido para
 
-or la voz de Dios. Hoy, esto es,
+oír la voz de Dios. Hoy, esto es,
 
 mientras
 
 Dios habla.
 
-Oh, si furamos como deberamos ser, en el instante en que Dios
+Oh, si fuéramos como deberíamos ser, en el instante en que Dios
 
-dijera: Buscad mi rostro, nosotros responderamos: Tu rostro buscar, oh
+dijera: “Buscad mi rostro”, nosotros responderíamos: “Tu rostro buscaré, oh
 
-Jehov. Tan pronto como se oyeran las invitaciones de la misericordia habra
+Jehová”. Tan pronto como se oyeran las invitaciones de la misericordia habría
 
-un eco en nuestras almas en respuesta a ellas, y diramos: He aqu nosotros
+un eco en nuestras almas en respuesta a ellas, y diríamos: “He aquí nosotros
 
-venimos a ti para ser salvados. Observen cmo fue oda la voz de Dios en el
+venimos a ti para ser salvados”. Observen cómo fue oída la voz de Dios en el
 
-acto en la creacin. El Seor dijo: Sea la luz; y fue la luz. l dijo:
+acto en la creación. El Seńor dijo: “Sea la luz; y fue la luz”. Él dijo:
 
-Produzcan las aguas seres vivientes, y de inmediato as sucedi. No hubo
+“Produzcan las aguas seres vivientes”, y de inmediato así sucedió. No hubo
 
-ninguna demora. El hgase de Dios fue ejecutado instantneamente. Oh, ustedes,
+ninguna demora. El ‘hágase’ de Dios fue ejecutado instantáneamente. Oh, ustedes,
 
-a quienes Dios hizo hombres y los dot de razn, acaso la insensible tierra
+a quienes Dios hizo hombres y los dotó de razón, żacaso la insensible tierra
 
-ser ms obediente que ustedes? Abundarn con peces las olas del mar y la
+será más obediente que ustedes? żAbundarán con peces las olas del mar y la
 
-tierra se cubrir de hierba tan pronto como Jehov habla, y acaso ustedes
+tierra se cubrirá de hierba tan pronto como Jehová habla, y acaso ustedes
 
-continuarn durmiendo cuando la voz celestial clama: Despirtate, t que
+continuarán durmiendo cuando la voz celestial clama: “Despiértate, tú que
 
-duermes, y levntate de los muertos, y te alumbrar Cristo? Oye a Dios hoy,
+duermes, y levántate de los muertos, y te alumbrará Cristo”? Oye a Dios hoy,
 
-pues l habla hoy.
+pues Él habla hoy.
 
-El apstol dice en el
+El apóstol dice en el
 
-siguiente captulo: Hoy
+siguiente capítulo: “Hoy…
 
-despus de
+después de
 
-tanto tiempo,
+tanto tiempo”,
 
-y voy a detenerme en estas palabras: despus de tanto
+y voy a detenerme en estas palabras: “después de tanto
 
-tiempo. Veo que algunos de ustedes ostentan calvas o exhiben abundantes canas.
+tiempo”. Veo que algunos de ustedes ostentan calvas o exhiben abundantes canas.
 
-Si son inconversos, bien dice el Espritu Santo: Hoy, despus de tanto tiempo,
+Si son inconversos, bien dice el Espíritu Santo: “Hoy, después de tanto tiempo,
 
-oigan su voz. No es ya suficiente tiempo haber provocado a su Dios estos
+oigan su voz”. żNo es ya suficiente tiempo haber provocado a su Dios estos
 
-sesenta aos? Varn, no son suficientes setenta aos de pecado? Tal vez casi has
+sesenta ańos? Varón, żno son suficientes setenta ańos de pecado? Tal vez casi has
 
-cumplido tus ochenta aos y todava te resistes a las insinuaciones de la
+cumplido tus ochenta ańos y todavía te resistes a las insinuaciones de la
 
-misericordia divina. Acaso una vejez desprovista de gracia no es una
+misericordia divina. żAcaso una vejez desprovista de gracia no es una
 
-permanente provocacin al Seor? Cunto tiempo pretendes provocarlo? Cunto
+permanente provocación al Seńor? żCuánto tiempo pretendes provocarlo? żCuánto
 
-tiempo pasar antes que creas en l? Has tenido tiempo suficiente para haber
+tiempo pasará antes que creas en Él? Has tenido tiempo suficiente para haber
 
 descubierto que el pecado es una locura y que los placeres que produce son
 
 vanidad. Seguramente has tenido tiempo suficiente para ver que si ha de haber
 
-paz no ha de encontrarse en los caminos del pecado. Cunto tiempo pretendes
+paz no ha de encontrarse en los caminos del pecado. żCuánto tiempo pretendes
 
-quedarte en terreno prohibido y peligroso? Puede ser que no dispongas de otro
+quedarte en terreno prohibido y peligroso? ˇPuede ser que no dispongas de otro
 
-da, oh anciano, para considerar tus caminos! Oh, anciana, pudiera ser que no
+día, oh anciano, para considerar tus caminos! Oh, anciana, pudiera ser que no
 
-se te conceda otro da para que provoques a tu Dios. Despus de tanto tiempo,
+se te conceda otro día para que provoques a tu Dios. “Después de tanto tiempo”,
 
-con sagrada urgencia quisiera exhortarte: Si oyereis hoy su voz. Yo espero no
+con sagrada urgencia quisiera exhortarte: “Si oyereis hoy su voz”. Yo espero no
 
-ser el nico que te suplica, sino que confo que el Espritu Santo tambin te
+ser el único que te suplica, sino que confío que el Espíritu Santo también te
 
-diga en tu conciencia: Hoy, est atento a la voz de Dios.
+diga en tu conciencia: “Hoy, está atento a la voz de Dios”.
 
-Hoy, esto es,
+“Hoy”, esto es,
 
 especialmente
 
-mientras el Espritu Santo
+mientras el Espíritu Santo
 
-est conduciendo a otros a or y a encontrar misericordia;
+está conduciendo a otros a oír y a encontrar misericordia;
 
 hoy, mientras
 
-estn cayendo las lluvias, hoy, recibe las gotas de gracia; hoy, mientras se
+están cayendo las lluvias, hoy, recibe las gotas de gracia; hoy, mientras se
 
 ofrecen oraciones por ti; hoy, mientras los corazones de los piadosos se
 
-preocupan por ti; hoy, mientras el escabel del trono de los cielos est mojado
+preocupan por ti; hoy, mientras el escabel del trono de los cielos está mojado
 
-con las lgrimas de quienes te aman; hoy, no vaya a ser que el letargo se
+con las lágrimas de quienes te aman; hoy, no vaya a ser que el letargo se
 
-apodere de nuevo de la iglesia; hoy, no vaya a ser que la predicacin de la
+apodere de nuevo de la iglesia; hoy, no vaya a ser que la predicación de la
 
 palabra de Dios se convierta en un asunto de rutina, y el propio predicador,
 
@@ -892,151 +892,153 @@ descorazonado, pierda todo el celo por tu alma; hoy, mientras todo sea especialm
 
 propicio, oye la voz de Dios. Mientras sopla el viento, iza la vela; mientras
 
-Dios se ocupa en misiones de amor, sal a encontrarlo. Hoy, mientras no ests
+Dios se ocupa en misiones de amor, sal a encontrarlo. Hoy, mientras no estás
 
 enteramente endurecido, mientras queda una conciencia en tu interior; hoy,
 
-mientras ests todava consciente en alguna medida de tu peligro, mientras haya
+mientras estás todavía consciente en alguna medida de tu peligro, mientras haya
 
-una ltima mirada hacia la casa de tu Padre, oye y vive; no sea que, por
+una última mirada hacia la casa de tu Padre, oye y vive; no sea que, por
 
 menospreciar tu presente ternura no regrese nunca, y seas abandonado a la
 
-espantosa indiferencia que preludia a la muerte eterna. Hoy, jvenes, mientras
+espantosa indiferencia que preludia a la muerte eterna. Hoy, jóvenes, mientras
 
-todava no estn manchados con los peores vicios; hoy, ustedes, jvenes, que
+todavía no están manchados con los peores vicios; hoy, ustedes, jóvenes, que
 
 acaban de llegar a esta ciudad contaminante, antes que se hundan en sus
 
-torrentes de lascivia; hoy, mientras todo les es til, oigan la amorosa, tierna
+torrentes de lascivia; hoy, mientras todo les es útil, oigan la amorosa, tierna
 
-e insinuadora voz de Jess, y no endurezcan sus corazones.
+e insinuadora voz de Jesús, y no endurezcan sus corazones.
 
 El texto me parece muy
 
-evanglico cuando dice: Hoy, pues
+evangélico cuando dice: “Hoy”, pues
 
-qu es sino otra
+ż
+
+qué es sino otra
 
 manera de declarar la doctrina de este bendito himno:
 
-Tal como soy, sin ningn pretexto
+“Tal como soy, sin ningún pretexto”
 
 ?
 
-Hoy, es decir, en las
+“Hoy”, es decir, en las
 
 circunstancias, pecados y miserias en los que te encuentras ahora, oye el
 
-Evangelio y obedcelo. Hoy, puesto que te ha descubierto en ese asiento de la
+Evangelio y obedécelo. Hoy, puesto que te ha descubierto en ese asiento de la
 
-iglesia, oye la voz de misericordia de Dios en ese preciso asiento. Hoy, t que
+iglesia, oye la voz de misericordia de Dios en ese preciso asiento. Hoy, tú que
 
-no te has preocupado nunca antes, mientras Dios habla, preocpate. Ah dices
+no te has preocupado nunca antes, mientras Dios habla, preocúpate. “Ah” –dices
 
-t- si viviera en otra casa. Eres llamado hoy, aunque ests viviendo con los
+tú- “si viviera en otra casa”. Eres llamado hoy, aunque estés viviendo con los
 
-peores pecadores. Voy a prestar atencin una vez que haya gozado de ese placer
+peores pecadores. “Voy a prestar atención una vez que haya gozado de ese placer
 
-pecaminoso que me promet el prximo mircoles. Ah, si es pecaminoso, huye de
+pecaminoso que me prometí el próximo miércoles”. Ah, si es pecaminoso, huye de
 
-l, pues podra constituir un momento decisivo en tu historia y sellar la ruina
+él, pues podría constituir un momento decisivo en tu historia y sellar la ruina
 
-de tu alma. Si oyereis hoy su voz. Ah, si hubiera asistido a unas cuantas reuniones
+de tu alma. “Si oyereis hoy su voz”. “Ah, si hubiera asistido a unas cuantas reuniones
 
 adicionales de avivamiento y si me hubiese sentido en un mejor estado,
 
-obedecera. No est escrito as, pecador; as no est escrito. No se me dice
+obedecería”. No está escrito así, pecador; así no está escrito. No se me dice
 
-que predique el Evangelio a quienes estn listos para recibirlo ni que les
+que predique el Evangelio a quienes estén listos para recibirlo ni que les
 
-diga: El que creyere y fuere bautizado, ser salvo, siempre y cuando ya
+diga: “El que creyere y fuere bautizado, será salvo, siempre y cuando ya
 
-estuviera preparado en alguna medida para creer. No, antes bien, he de
+estuviera preparado en alguna medida para creer”. No, antes bien, he de
 
-entregarle el mismo mensaje a toda criatura que est aqu. En el nombre de
+entregarle el mismo mensaje a toda criatura que esté aquí. En el nombre de
 
-Jess de Nazaret, que es tambin Dios Todopoderoso a la diestra del Padre,
+Jesús de Nazaret, que es también Dios Todopoderoso a la diestra del Padre,
 
-crean en l y vivirn, pues Su mensaje para ustedes es para hoy y no admite
+crean en Él y vivirán, pues Su mensaje para ustedes es para hoy y no admite
 
-ninguna demora. Pero yo tengo que reformarme, tengo que enmendarme, y luego
+ninguna demora. “Pero yo tengo que reformarme, tengo que enmendarme, y luego
 
-voy a pensar en creer. Eso es poner el efecto antes de la causa. Si oyeras Su
+voy a pensar en creer”. Eso es poner el efecto antes de la causa. Si oyeras Su
 
 voz, la reforma y la enmienda
 
-vendrn
+vendrán
 
 a ti, pero no
 
 debes comenzar con ellas como primer paso. La voz de Dios no dice eso, sino que
 
-dice: Cree en el Seor Jesucristo. Oh, oye esa voz.
+dice: “Cree en el Seńor Jesucristo”. Oh, oye esa voz.
 
 Tengo que ocupar un
 
-momento para mostrarles por qu el Seor dice en misericordia: Hoy. Acaso no
+momento para mostrarles por qué el Seńor dice en misericordia: “Hoy”. żAcaso no
 
-te has dado cuenta de que otras personas se mueren? Por qu no habras de
+te has dado cuenta de que otras personas se mueren? żPor qué no habrías de
 
-morir t? Durante el desarrollo de estos servicios varias personas han partido.
+morir tú? Durante el desarrollo de estos servicios varias personas han partido.
 
-Al regresar a casa me sorprend cuando me enter de cuntos a quienes yo les hubiera
+Al regresar a casa me sorprendí cuando me enteré de cuántos a quienes yo les hubiera
 
-pronosticado una larga vida han muerto recientemente. Por qu no podras t
+pronosticado una larga vida han muerto recientemente. żPor qué no podrías tú
 
-morir pronto? Yo soy robusto y estoy sano, responde alguien. Normalmente los
+morir pronto? “Yo soy robusto y estoy sano”, responde alguien. Normalmente los
 
 que mueren de pronto son los hombres robustos. Pareciera como si la tormenta
 
 pasara por encima de los enclenques quienes se doblan ante ella como juncos y
 
-as escapan de su furia, mientras que los de salud vigorosa, cual poderosos
+así escapan de su furia, mientras que los de salud vigorosa, cual poderosos
 
-rboles del bosque, se resisten a la tormenta y son arrancados de raz por
+árboles del bosque, se resisten a la tormenta y son arrancados de raíz por
 
 ella.
 
-Con cunta frecuencia llega de
+Con cuánta frecuencia llega de
 
-pronto la muerte justo cuando menos la esperbamos. Si oyereis hoy su voz.
+pronto la muerte justo cuando menos la esperábamos. “Si oyereis hoy su voz”.
 
-Les voy a hacer la misma pregunta que ese santo varn, el seor Payson, les
+Les voy a hacer la misma pregunta que ese santo varón, el seńor Payson, les
 
-hace a quienes han despertado. l les pregunta: te gustara hacer el
+hace a quienes han despertado. Él les pregunta: “żte gustaría hacer el
 
-siguiente convenio: t encontrars a Cristo al final del ao pero la
+siguiente convenio: ‘tú encontrarás a Cristo al final del ańo pero la
 
-prolongacin de tu vida hasta entonces depender de la vida de una tercera
+prolongación de tu vida hasta entonces dependerá de la vida de una tercera
 
-persona? Selecciona al hombre ms vigoroso que conozcas, y supn que todo lo
+persona’? Selecciona al hombre más vigoroso que conozcas, y supón que todo lo
 
-relacionado con tu bienestar eterno habr de depender de que esa persona viva
+relacionado con tu bienestar eterno habrá de depender de que esa persona viva
 
-para ver el siguiente ao. Con qu ansiedad te enteraras de su enfermedad y
+para ver el siguiente ańo. ˇCon qué ansiedad te enterarías de su enfermedad y
 
-cun preocupado estaras de su salud! Bien, pecador, t pones en riesgo tu salvacin
+cuán preocupado estarías de su salud! Bien, pecador, tú pones en riesgo tu salvación
 
-apostando a tu propia vida, acaso eso es algo ms seguro? Si ests aplazando y
+apostando a tu propia vida, żacaso eso es algo más seguro? Si estás aplazando y
 
-posponiendo tu arrepentimiento, por qu habras de estar ms seguro acerca de
+posponiendo tu arrepentimiento, żpor qué habrías de estar más seguro acerca de
 
-tu propia vida de lo que estaras si todo dependiera de la vida de otro? No
+tu propia vida de lo que estarías si todo dependiera de la vida de otro? No
 
 sean tan necios como para jugar con sus vidas hasta llegar a la tumba, y como
 
-para jugar con sus almas hasta llegar al infierno. No apostaran su fortuna a los
+para jugar con sus almas hasta llegar al infierno. No apostarían su fortuna a los
 
-dados, como lo hace el jugador enloquecido, y, sin embargo, estn apostando la
+dados, como lo hace el jugador enloquecido, y, sin embargo, están apostando la
 
 eternidad de su alma sobre algo que es muy incierto, pues no saben si al
 
-quedarse dormidos esta noche se despertarn maana en su cama o en el infierno.
+quedarse dormidos esta noche se despertarán mańana en su cama o en el infierno.
 
-Ustedes no saben si la siguiente respiracin que dan por hecho vendr jams, y
+Ustedes no saben si la siguiente respiración que dan por hecho vendrá jamás, y
 
-si no viniese seran echados para siempre de la presencia de Dios. Oh, seores,
+si no viniese serían echados para siempre de la presencia de Dios. Oh, seńores,
 
 si quieren jugar juegos de azar, apuesten su oro o apuesten sus reputaciones,
 
@@ -1044,155 +1046,155 @@ pero no pongan en peligro sus almas. Las apuestas son demasiado arriesgadas
 
 para cualquiera excepto para quienes han enloquecido por el pecado. No
 
-arriesguen sus almas, se los imploro, corriendo el albur de que vivirn otro
+arriesguen sus almas, se los imploro, corriendo el albur de que vivirán otro
 
-da, antes bien, escuchen hoy la voz de Dios.
+día, antes bien, escuchen hoy la voz de Dios.
 
 IV.
 
 Tengo
 
-poco tiempo para mi ltimo punto, pero aun as he de tener espacio para l aun
+poco tiempo para mi último punto, pero aun así he de tener espacio para él aun
 
-si llegara a retenerlos ms all del tiempo acostumbrado de salida. El ltimo
+si llegara a retenerlos más allá del tiempo acostumbrado de salida. El último
 
-punto es este: el PELIGRO ESPECIAL que el texto nos indica: Si oyereis hoy su
+punto es este: el PELIGRO ESPECIAL que el texto nos indica: “Si oyereis hoy su
 
 voz,
 
-no endurezcis vuestros corazones.
+no endurezcáis vuestros corazones”.
 
 Ese
 
-es el peligro especial. Y cmo se incurre en l? Cuando las personas sienten
+es el peligro especial. żY cómo se incurre en él? Cuando las personas sienten
 
-una preocupacin por su alma, su corazn es en cierta medida ablandado, pero
+una preocupación por su alma, su corazón es en cierta medida ablandado, pero
 
-ellos pueden endurecerlo fcilmente, primero,
+ellos pueden endurecerlo fácilmente, primero,
 
 reincidiendo voluntariamente en su anterior indiferencia,
 
-sacudindose
+sacudiéndose
 
-el miedo, y diciendo en obstinada rebelin: No, no voy a aceptar nada de eso.
+el miedo, y diciendo en obstinada rebelión: “No, no voy a aceptar nada de eso”.
 
-Prediqu una vez en cierta ciudad, y fui husped de un caballero que me trat
+Prediqué una vez en cierta ciudad, y fui huésped de un caballero que me trató
 
-con gran amabilidad, pero en la tercera ocasin en que prediqu, advert que
+con gran amabilidad, pero en la tercera ocasión en que prediqué, advertí que
 
-sbitamente abandon el saln. Uno de mis amigos lo sigui fuera del lugar y le
+súbitamente abandonó el salón. Uno de mis amigos lo siguió fuera del lugar y le
 
-pregunt: Por qu te saliste del servicio? Porque respondi l- yo creo
+preguntó: “żPor qué te saliste del servicio?” “Porque” –respondió él- “yo creo
 
-que si me hubiese quedado un momento ms habra sido convertido, pues sent que
+que si me hubiese quedado un momento más habría sido convertido, pues sentí que
 
-una gran influencia se estaba apoderando de m; pero eso no me convendra; t
+una gran influencia se estaba apoderando de mí; pero eso no me convendría; tú
 
-sabes lo que soy, y eso no me convendra. Muchas personas son as. Son
+sabes lo que soy, y eso no me convendría”. Muchas personas son así. Son
 
 moldeadas por un tiempo por la sincera palabra que escuchan, pero todo es en
 
-vano; el perro vuelve a su vmito, y la puerca lavada a revolcarse en el cieno.
+vano; el perro vuelve a su vómito, y la puerca lavada a revolcarse en el cieno.
 
-Esto es endurecer tu corazn y provocar al Seor.
+Esto es endurecer tu corazón y provocar al Seńor.
 
-Una manera comn de
+Una manera común de
 
-provocar a Dios y de endurecer el corazn es la indicada por el contexto. No
+provocar a Dios y de endurecer el corazón es la indicada por el contexto. “No
 
-endurezcis vuestros corazones, como en la provocacin, en el da de la
+endurezcáis vuestros corazones, como en la provocación, en el día de la
 
-tentacin en el desierto, cabe decir, por
+tentación en el desierto”, cabe decir, por
 
 la
 
 incredulidad,
 
-diciendo: Dios no puede salvarme, no es capaz de perdonarme;
+diciendo: “Dios no puede salvarme, no es capaz de perdonarme;
 
 la sangre de Cristo no puede limpiarme; soy un pecador demasiado negro para que
 
-la misericordia de Dios trate conmigo. Eso es una copia de lo que dijeron los
+la misericordia de Dios trate conmigo”. Eso es una copia de lo que dijeron los
 
-israelitas: Dios no puede introducirnos en Canan; l no puede vencer a los
+israelitas: “Dios no puede introducirnos en Canaán; Él no puede vencer a los
 
-hijos de Anac. Aunque pudieran considerar a la incredulidad como un pecado
+hijos de Anac”. Aunque pudieran considerar a la incredulidad como un pecado
 
-leve, es el pecado de pecados. Que el Espritu Santo los convenza de ello, pues
+leve, es el pecado de pecados. Que el Espíritu Santo los convenza de ello, pues
 
-cuando el Espritu de verdad venga, convencer al mundo de pecado, y
+“cuando el Espíritu de verdad venga, convencerá al mundo de pecado”, y
 
-especialmente de pecado, por cuanto no creen en Jess. El que no cree, ya ha
+especialmente de pecado, “por cuanto no creen en Jesús”. “El que no cree, ya ha
 
-sido condenado, porque no ha credo en el Hijo de Dios; es como si todos los
+sido condenado, porque no ha creído… en el Hijo de Dios”; es como si todos los
 
-dems pecados fueran insignificantes en su poder para condenar en comparacin
+demás pecados fueran insignificantes en su poder para condenar en comparación
 
-con el pecado de la incredulidad. Oh, por tanto, no dudes de mi Seor. Ven, t
+con el pecado de la incredulidad. Oh, por tanto, no dudes de mi Seńor. Ven, tú
 
-que eres el pecador ms negro y el ms inmundo que est fuera del infierno,
+que eres el pecador más negro y el más inmundo que está fuera del infierno,
 
-pues Jess puede limpiarte. Ven, t, pecador de corazn duro como el granito,
+pues Jesús puede limpiarte. Ven, tú, pecador de corazón duro como el granito,
 
-t, cuyos afectos estn tan congelados como un tmpano de hielo, de manera que
+tú, cuyos afectos están tan congelados como un témpano de hielo, de manera que
 
-ni una sola lgrima de penitencia brota de tu ojo, pues el amor de Jess puede
+ni una sola lágrima de penitencia brota de tu ojo, pues el amor de Jesús puede
 
-ablandar tu corazn. Cree en l, cree en l, pues de lo contrario ests
+ablandar tu corazón. Cree en Él, cree en Él, pues de lo contrario estás
 
-endureciendo tu corazn contra l.
+endureciendo tu corazón contra Él.
 
 Algunos endurecen sus
 
 corazones
 
-pidiendo ms seales.
+pidiendo más seńales.
 
 Esto
 
-equivale tambin a imitar a los israelitas. Dios nos ha dado el man; puede
+equivale también a imitar a los israelitas. “Dios nos ha dado el maná; żpuede
 
-darnos agua? l nos ha dado agua salida de la roca, puede darnos tambin
+darnos agua? Él nos ha dado agua salida de la roca, żpuede darnos también
 
-carne? Puede disponer una mesa en el desierto? Despus de todo lo que Dios
+carne? żPuede disponer una mesa en el desierto?” Después de todo lo que Dios
 
-haba hecho, queran que realizara ms milagros o de otra manera no creeran.
+había hecho, querían que realizara más milagros o de otra manera no creerían.
 
-Que ninguno de nosotros endurezca su corazn de esa manera. Dios ya ha obrado
+Que ninguno de nosotros endurezca su corazón de esa manera. Dios ya ha obrado
 
-para los hombres un milagro que trasciende a todos los dems, y es en verdad el
+para los hombres un milagro que trasciende a todos los demás, y es en verdad el
 
-compendio de todos los portentos: l ha dado a Su propio Hijo tomado de Su pecho
+compendio de todos los portentos: Él ha dado a Su propio Hijo tomado de Su pecho
 
 para que se hiciera hombre y para que muriera por los pecadores. El pecador que
 
-no se contenta con ese despliegue de la misericordia de Dios, nunca se quedar
+no se contenta con ese despliegue de la misericordia de Dios, nunca se quedará
 
-satisfecho con ninguna prueba de ella. Cristo en el madero est en lugar de
+satisfecho con ninguna prueba de ella. Cristo en el madero está en lugar de
 
-todos los milagros bajo la dispensacin del Evangelio; si no le creen a Dios
+todos los milagros bajo la dispensación del Evangelio; si no le creen a Dios
 
-que de tal manera am al mundo, que ha dado a su Hijo unignito, para que todo
+que “de tal manera amó al mundo, que ha dado a su Hijo unigénito, para que todo
 
-aquel que en l cree, no se pierda, mas tenga vida eterna, entonces nunca
+aquel que en él cree, no se pierda, mas tenga vida eterna”, entonces nunca
 
-creern. Oh, pero yo quiero sentir; yo quiero que la influencia que abunda
+creerán. “Oh, pero yo quiero sentir; yo quiero que la influencia que abunda
 
-venga sobre m de una manera extraa; quiero soar en la noche, o ver visiones
+venga sobre mí de una manera extrańa; quiero sońar en la noche, o ver visiones
 
-de da. Lo quieres? T ests endureciendo tu corazn; t ests rechazando lo
+de día”. żLo quieres? Tú estás endureciendo tu corazón; tú estás rechazando lo
 
-que Dios da en verdad, y ests pidindole que haga el papel de lacayo para ti,
+que Dios da en verdad, y estás pidiéndole que haga el papel de lacayo para ti,
 
-y que te d lo que tu petulante orgullo exige. Aunque tuvieras esas cosas no
+y que te dé lo que tu petulante orgullo exige. Aunque tuvieras esas cosas no
 
-creeras ms. Aquel que tiene a Moiss y a los profetas y los rechaza, no
+creerías más. Aquel que tiene a Moisés y a los profetas y los rechaza, no
 
-creera aunque alguien viniera a l de los muertos. Cristo en la cruz est delante
+creería aunque alguien viniera a él de los muertos. Cristo en la cruz está delante
 
-ti, no lo rechaces, pues si lo rechazas, ninguna otra cosa podra convencerte,
+ti, no lo rechaces, pues si lo rechazas, ninguna otra cosa podría convencerte,
 
-y all has de permanecer endureciendo tu corazn en la incredulidad.
+y allí has de permanecer endureciendo tu corazón en la incredulidad.
 
 Los que
 
@@ -1200,39 +1202,39 @@ presumen de la misericordia de Dios
 
 y
 
-dicen: Bien, podemos convertirnos cuando queramos, tambin endurecen sus
+dicen: “Bien, podemos convertirnos cuando queramos”, también endurecen sus
 
-corazones. Ah, descubrirn que la realidad es algo muy diferente. Slo tenemos
+corazones. Ah, descubrirán que la realidad es algo muy diferente. “Sólo tenemos
 
-que creer y ser salvos. S, pero descubrirn que slo tenemos que creer es algo
+que creer y ser salvos”. Sí, pero descubrirán que “sólo tenemos que creer” es algo
 
-muy diferente de lo que imaginaban. La salvacin no es ningn juego de nios,
+muy diferente de lo que imaginaban. La salvación no es ningún juego de nińos,
 
-cranme. Me he enterado de alguien que despert una maana siendo famoso, pero
+créanme. Me he enterado de alguien que despertó una mańana siendo famoso, pero
 
-no encontrarn la salvacin de esa manera. El que busca, halla; y al que
+no encontrarán la salvación de esa manera. “El que busca, halla; y al que
 
-llama, se le abrir.
+llama, se le abrirá”.
 
 Endurecen sus corazones
 
 si se sumergen en los placeres mundanos;
 
-si permiten que hablen con ustedes compaeros disolutos; si en este da de
+si permiten que hablen con ustedes compańeros disolutos; si en este día de
 
-guardar ustedes se entregan a plticas ociosas, o prestan atencin a un jbilo
+guardar ustedes se entregan a pláticas ociosas, o prestan atención a un júbilo
 
-que no es santo. Muchas tiernas conciencias son endurecidas por la compaa que
+que no es santo. Muchas tiernas conciencias son endurecidas por la compańía que
 
-les rodea. Una joven dama oye un poderoso sermn, y Dios lo est bendiciendo
+les rodea. Una joven dama oye un poderoso sermón, y Dios lo está bendiciendo
 
-para ella, pero el da de maana sale para pasar la noche en medio de escenas
+para ella, pero el día de mańana sale para pasar la noche en medio de escenas
 
-de liviandad; cmo podra esperar que la palabra de Dios sea bendecida para
+de liviandad; żcómo podría esperar que la palabra de Dios sea bendecida para
 
-ella? Eso equivale a apagar deliberadamente al Espritu, y no me sorprende que
+ella? Eso equivale a apagar deliberadamente al Espíritu, y no me sorprende que
 
-Dios jure en Su ira que las personas que hacen eso no entrarn en Su reposo.
+Dios jure en Su ira que las personas que hacen eso no entrarán en Su reposo.
 
 Oh, no hagan esas cosas, pues corren el riesgo de endurecer sus corazones en
 
@@ -1242,75 +1244,75 @@ Ahora tengo que
 
 concluir, pero debo presentarles el tema completo. Yo quiero que todo pecador
 
-aqu presente conozca su posicin esta maana. Dios manda a todos los hombres en
+aquí presente conozca su posición esta mańana. Dios manda a todos los hombres en
 
-todo lugar que se arrepientan. Cristo manda a los hombres que crean en l hoy.
+todo lugar que se arrepientan. Cristo manda a los hombres que crean en Él hoy.
 
-Tienen que hacer una de dos cosas pues no tienen ninguna otra opcin: tienen
+Tienen que hacer una de dos cosas pues no tienen ninguna otra opción: tienen
 
-que decir que no tienen la intencin de obedecer el mandamiento de Dios, o de
+que decir que no tienen la intención de obedecer el mandamiento de Dios, o de
 
-lo contrario, tienen que someterse a l. Tienen que decir como Faran: Quin
+lo contrario, tienen que someterse a él. Tienen que decir como Faraón: “żQuién
 
-es Jehov, para que yo oiga su voz?, o de otra manera, como el hijo prdigo,
+es Jehová, para que yo oiga su voz?”, o de otra manera, como el hijo pródigo,
 
-tienen que resolver: Me levantar e ir a mi padre. No hay ninguna otra
+tienen que resolver: “Me levantaré e iré a mi padre”. No hay ninguna otra
 
-opcin. No intenten poner excusas por la demora. Dios acaba pronto con las
+opción. No intenten poner excusas por la demora. Dios acaba pronto con las
 
 excusas de los pecadores. Los que fueron invitados a la gran cena dijeron:
 
-Vamos a nuestra labranza y a nuestros negocios; estamos a punto de probar
+“Vamos a nuestra labranza y a nuestros negocios; estamos a punto de probar
 
-nuestras yuntas de bueyes, o nos hemos casado; pero todo lo que el Seor dijo
+nuestras yuntas de bueyes, o nos hemos casado”; pero todo lo que el Seńor dijo
 
-al respecto fue: Ninguno de aquellos hombres que fueron convidados, gustar mi
+al respecto fue: “Ninguno de aquellos hombres que fueron convidados, gustará mi
 
-cena. All termin todo. Haba una vez un hombre que tena un talento, y lo
+cena”. Allí terminó todo. Había una vez un hombre que tenía un talento, y lo
 
-enterr en un pauelo, y dijo: saba que eras un hombre severo, y as
+enterró en un pańuelo, y dijo: “sabía que eras un hombre severo”, y así
 
-sucesivamente. Qu noticia tom su Seor de esa expresin? l meramente le
+sucesivamente. żQué noticia tomó su Seńor de esa expresión? Él meramente le
 
-dijo: Por tu propia boca te juzgo. Sabas que yo era hombre severo, y por esa
+dijo: “Por tu propia boca te juzgo. Sabías que yo era hombre severo, y por esa
 
-misma razn debiste haber sido ms diligente en mi servicio. El Seor ve a
+misma razón debiste haber sido más diligente en mi servicio”. El Seńor ve a
 
-travs de sus excusas; por tanto, no lo insulten con ellas. Esta maana ustedes
+través de sus excusas; por tanto, no lo insulten con ellas. Esta mańana ustedes
 
-estn frente a m, pero ustedes dirn una cosa o la otra delante del Dios
+están frente a mí, pero ustedes dirán una cosa o la otra delante del Dios
 
-viviente y delante de Cristo que juzgar a los vivos y a los muertos. l les
+viviente y delante de Cristo que juzgará a los vivos y a los muertos. Él les
 
 pide ahora que se vuelvan de su pecado y que busquen Su rostro y crean en Su
 
-amado Hijo; lo harn o no? S o no? Y ese S o No pudiera ser definitivo.
+amado Hijo; żlo harán o no? żSí o no? Y ese “Sí” o “No” pudiera ser definitivo.
 
-Esta maana se te pudiera haber hecho el ltimo llamado. Dios ordena, y si el
+Esta mańana se te pudiera haber hecho el último llamado. Dios ordena, y si el
 
-corazn de ustedes tiene la intencin de rebelarse, yo los exhorto que digan,
+corazón de ustedes tiene la intención de rebelarse, yo los exhorto que digan,
 
-si se atreven: No obedecer; entonces sabrn dnde estn, y entendern su
+si se atreven: “No obedeceré”; entonces sabrán dónde están, y entenderán su
 
-propia posicin. Si Dios no es Dios, argumntalo y resulvelo con l. Si t no
+propia posición. Si Dios no es Dios, arguméntalo y resuélvelo con Él. Si tú no
 
-crees en l, si l no es realmente el Seor que te cre y que puede destruirte,
+crees en Él, si Él no es realmente el Seńor que te creó y que puede destruirte,
 
-y si tienes la intencin de ser Su enemigo, asume la posicin, y s tan honesto
+y si tienes la intención de ser Su enemigo, asume la posición, y sé tan honesto
 
-as como eres tan soberbio como Faran, y di: No le obedecer. Pero, oh, yo
+así como eres tan soberbio como Faraón, y di: “No le obedeceré”. Pero, oh, yo
 
-te ruego que no te rebeles as. Dios est lleno de gracia; sers rebelde? Dios
+te ruego que no te rebeles así. Dios está lleno de gracia; żserás rebelde? Dios
 
-es amor; por esa razn ser empedernido tu corazn? Jess por Su propia herida
+es amor; żpor esa razón será empedernido tu corazón? Jesús por Su propia herida
 
-te invita a venir a l, y el propio Espritu Santo est aqu, y est diciendo
+te invita a venir a Él, y el propio Espíritu Santo está aquí, y está diciendo
 
-en el texto: No endurezcis hoy vuestros corazones. Entrguense ahora al amor
+en el texto: “No endurezcáis hoy vuestros corazones”. Entréguense ahora al amor
 
 de Aquel
 
-Que en torno tuyo ahora
+“Que en torno tuyo ahora
 
 Las cuerdas humanas
 
@@ -1320,31 +1322,31 @@ lanzar,
 
 Las cuerdas del amor de Quien te ha sido dado
 
-Para que te aten firmemente a Su altar.
+Para que te aten firmemente a Su altar”.
 
 Que en Su altar puedas
 
-estar a salvo en el da de Su venida. Que Dios los bendiga.
+estar a salvo en el día de Su venida. Que Dios los bendiga.
 
 Yo les pido a quienes
 
-saben orar, que imploren una bendicin sobre esta palabra, por Jesucristo
+saben orar, que imploren una bendición sobre esta palabra, por Jesucristo
 
-nuestro Seor. Amn.
+nuestro Seńor. Amén.
 
 Porciones de
 
 la Escritura
 
-ledas antes
+leídas antes
 
-del sermn:
+del sermón:
 
-Nmeros 13: 26-33, 14:
+Números 13: 26-33, 14:
 
 1-23; Salmo 95.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 16/Mayo/2012
 

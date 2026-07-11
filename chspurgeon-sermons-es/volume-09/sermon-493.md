@@ -1,14 +1,14 @@
 # Sermón 493 | Sermón 493
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Getseman
+Getsemaní
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -16,69 +16,69 @@ DOMINGO 8 DE FEBRERO
 
 DE 1863
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y estando en
+“Y estando en
 
-agona, oraba ms intensamente; y era su sudor como grandes gotas de sangre que
+agonía, oraba más intensamente; y era su sudor como grandes gotas de sangre que
 
-caan hasta la tierra. Lucas 22: 44.
+caían hasta la tierra”. Lucas 22: 44.
 
 Pocos seres fueron
 
-hechos partcipes de las aflicciones de Getseman. La mayora de los discpulos
+hechos partícipes de las aflicciones de Getsemaní. La mayoría de los discípulos
 
-no estaba all. Carecan de la suficiente madurez en la gracia para ser admitidos
+no estaba allí. Carecían de la suficiente madurez en la gracia para ser admitidos
 
-a contemplar los misterios de la agona. Ocupados en sus propios hogares con
+a contemplar los misterios de “la agonía”. Ocupados en sus propios hogares con
 
-la fiesta de la pascua, representan a muchos seres que viven segn la letra
+la fiesta de la pascua, representan a muchos seres que viven según la letra
 
-pero que son simples bebs y lactantes con respecto al espritu del Evangelio.
+pero que son simples bebés y lactantes con respecto al espíritu del Evangelio.
 
-Los muros de Getseman tipifican adecuadamente esa debilidad en la gracia que
+Los muros de Getsemaní tipifican adecuadamente esa debilidad en la gracia que
 
-esconde de la mirada de los creyentes ordinarios las ms profundas maravillas
+esconde de la mirada de los creyentes ordinarios las más profundas maravillas
 
-de la comunin. A doce discpulos, o mejor dicho a once, les fue concedido el
+de la comunión. A doce discípulos, o mejor dicho a once, les fue concedido el
 
-privilegio de entrar en Getseman y ver aquel grandioso espectculo. De los once,
+privilegio de entrar en Getsemaní y ver aquel grandioso espectáculo. De los once,
 
-ocho se quedaron a cierta distancia; tenan compaerismo, pero no era la ntima
+ocho se quedaron a cierta distancia; tenían compańerismo, pero no era la íntima
 
-comunin a la que son admitidos los hombres que son grandemente amados. nicamente
+comunión a la que son admitidos los hombres que son grandemente amados. Únicamente
 
-tres discpulos muy favorecidos, que haban estado con l en el monte de la transfiguracin
+tres discípulos muy favorecidos, que habían estado con Él en el monte de la transfiguración
 
-y que haban presenciado el milagro vivificador en casa de Jairo, nicamente
+y que habían presenciado el milagro vivificador en casa de Jairo, únicamente
 
 esos tres se acercaron al velo de Su misteriosa angustia, pero dentro de ese
 
-velo ni siquiera ellos deban penetrar; tuvieron que permanecer a la distancia
+velo ni siquiera ellos debían penetrar; tuvieron que permanecer a la distancia
 
-de un tiro de piedra. Deba pisar l solo el lagar, y de los pueblos nadie
+de un tiro de piedra. ‘Debía pisar Él solo el lagar, y de los pueblos nadie
 
-haba con l. Pedro y los dos hijos de Zebedeo representan a los pocos santos
+había con Él’. Pedro y los dos hijos de Zebedeo representan a los pocos santos
 
 eminentes, experimentados e instruidos por la gracia, que pudieran ser
 
-descritos como Padres. Habiendo hecho negocio en las muchas aguas, pueden
+descritos como “Padres”. Habiendo hecho negocio en las muchas aguas, pueden
 
-medir, en alguna medida, las enormes olas del Atlntico de la pasin de su
+medir, en alguna medida, las enormes olas del Atlántico de la pasión de su
 
-Redentor. Habiendo pasado mucho tiempo a solas con l, pueden leer Su corazn
+Redentor. Habiendo pasado mucho tiempo a solas con Él, pueden leer Su corazón
 
 mucho mejor que aquellos que meramente lo ven en medio de la multitud. A ciertos
 
-espritus selectos -para el bien de otros y para su propio fortalecimiento para
+espíritus selectos -para el bien de otros y para su propio fortalecimiento para
 
-enfrentar algn conflicto fiero, especial y futuro- les es dado entrar en el
+enfrentar algún conflicto fiero, especial y futuro- les es dado entrar en el
 
-crculo ntimo y or las splicas del sufriente Sumo Sacerdote. Son hechos
+círculo íntimo y oír las súplicas del sufriente Sumo Sacerdote. Son hechos
 
-partcipes de Sus padecimientos, y llegan a ser semejantes a l en Su muerte.
+partícipes de Sus padecimientos, y llegan a ser semejantes a Él en Su muerte.
 
 Con todo, yo digo que, incluso ellos -los elegidos entre los elegidos, esos
 
@@ -86,47 +86,47 @@ escogidos y especiales favoritos entre los cortesanos del rey- incluso ellos no
 
 pueden penetrar en los lugares secretos del dolor del Salvador, como para
 
-comprender todas Sus agonas. Tus desconocidos sufrimientos es una notable
+comprender todas Sus agonías. “Tus desconocidos sufrimientos” es una notable
 
-expresin de la liturgia griega, pues hay una cmara interna en Su afliccin
+expresión de la liturgia griega, pues hay una cámara interna en Su aflicción
 
-que est aislada del conocimiento y del compaerismo del hombre. No fue aqu
+que está aislada del conocimiento y del compańerismo del hombre. żNo fue aquí
 
-que Cristo fue ms que nunca un Don indecible para nosotros? Acaso Watts no
+que Cristo fue más que nunca un “Don indecible” para nosotros? żAcaso Watts no
 
-est en lo cierto cuando canta?:
+está en lo cierto cuando canta?:
 
-Y todas las dichas desconocidas que proporciona,
+“Y todas las dichas desconocidas que proporciona,
 
-Fueron compradas con agonas desconocidas.
+Fueron compradas con agonías desconocidas”.
 
 Puesto que, por
 
-experimentado que fuera, no es posible que ningn creyente supiera por s mismo
+experimentado que fuera, no es posible que ningún creyente supiera por sí mismo
 
-todo lo que nuestro Seor soport en el lugar del trapiche de aceitunas, cuando
+todo lo que nuestro Seńor soportó en el lugar del trapiche de aceitunas, cuando
 
 fue presionado entre la muela y la solera del molino del sufrimiento mental y
 
-de la malicia infernal, est claramente ms all de la capacidad del predicador
+de la malicia infernal, está claramente más allá de la capacidad del predicador
 
-exponerlo para ustedes. El propio Jess tiene que darles el acceso a los
+exponerlo para ustedes. El propio Jesús tiene que darles el acceso a los
 
-prodigios de Getseman; en cuanto a m, lo nico que puedo hacer es invitarlos
+prodigios de Getsemaní; en cuanto a mí, lo único que puedo hacer es invitarlos
 
-a entrar en el huerto, pidindoles que quiten su calzado de sus pies, pues el
+a entrar en el huerto, pidiéndoles que quiten su calzado de sus pies, pues el
 
-lugar en que ustedes estn, tierra santa es. Yo no soy ni Pedro, ni Santiago,
+lugar en que ustedes están, tierra santa es. Yo no soy ni Pedro, ni Santiago,
 
-ni Juan, sino alguien que, como ellos, de buen grado querra beber del vaso del
+ni Juan, sino alguien que, como ellos, de buen grado querría beber del vaso del
 
-Maestro, y ser bautizado con Su bautismo. Yo slo he llegado hasta ahora donde
+Maestro, y ser bautizado con Su bautismo. Yo sólo he llegado hasta ahora donde
 
-est el grupo de los ocho, pero all he odo los profundos gemidos del Varn de
+está el grupo de los ocho, pero allí he oído los profundos gemidos del Varón de
 
 dolores. Es posible que algunos de ustedes, mis venerables amigos, hayan aprendido
 
-mucho ms que yo, pero no se negarn a escuchar de nuevo el estruendo de las
+mucho más que yo, pero no se negarán a escuchar de nuevo el estruendo de las
 
 muchas aguas que procuraron apagar el amor del Grandioso Esposo de nuestras
 
@@ -134,13 +134,13 @@ almas.
 
 Varios asuntos solicitan
 
-nuestra breve consideracin. Ven, Espritu Santo, e infunde luz en nuestros
+nuestra breve consideración. Ven, Espíritu Santo, e infunde luz en nuestros
 
 pensamientos y vida en nuestras palabras.
 
 I.
 
-Acrquense
+Acérquense
 
 y contemplen
 
@@ -158,81 +158,81 @@ expresan las
 
 emociones de aquella noche dolorosa. Juan transcribe unas palabras de nuestro
 
-Seor, dichas cuatro das antes de Su pasin: Ahora est turbada mi alma. Cuando
+Seńor, dichas cuatro días antes de Su pasión: “Ahora está turbada mi alma”. Cuando
 
-advirti los nubarrones que se avecinaban casi no saba adnde volverse, y
+advirtió los nubarrones que se avecinaban casi no sabía adónde volverse, y
 
-exclam: Y qu dir? Mateo dice de l: Comenz a entristecerse y a
+exclamó: “żY qué diré?” Mateo dice de Él: “Comenzó a entristecerse y a
 
-angustiarse en gran manera. Sobre la palabra αδημονειν
+angustiarse en gran manera”. Sobre la palabra ‘αδημονειν’
 
-traducida como: angustiarse en gran manera, Goodwin comenta que en la agona
+traducida como: ‘angustiarse en gran manera’, Goodwin comenta que en la agonía
 
-del Salvador hubo algo de confusin mental, puesto que la raz de la palabra
+del Salvador hubo algo de confusión mental, puesto que la raíz de la palabra
 
-significa: apartado del pueblo, es decir, hombres en confusin mental,
+significa: “apartado del pueblo, es decir, hombres en confusión mental,
 
-separados de la humanidad. Qu pensamiento, hermanos mos, es que nuestro bendito
+separados de la humanidad”. Qué pensamiento, hermanos míos, es que nuestro bendito
 
-Seor fuera conducido hasta el propio lmite de la confusin mental por la
+Seńor fuera conducido hasta el propio límite de la confusión mental por la
 
-intensidad de Su angustia. Mateo describe que el propio Salvador dijo: Mi alma
+intensidad de Su angustia. Mateo describe que el propio Salvador dijo: “Mi alma
 
-est
+está
 
 muy triste,
 
-hasta la muerte.
+hasta la muerte”.
 
-Aqu la palabra Пερίλυπος
+Aquí la palabra ‘Пερίλυπος’
 
-quiere decir: rodeado, circundado, sobrecogido de dolor. Fue sumergido por
+quiere decir: ‘rodeado, circundado, sobrecogido de dolor’. “Fue sumergido por
 
-completo en la angustia y no tena ningn respiradero, es la fuerte expresin
+completo en la angustia y no tenía ningún respiradero”, es la fuerte expresión
 
-de Goodwin. El pecado no deja ningn resquicio por donde pueda entrar el
+de Goodwin. El pecado no deja ningún resquicio por donde pueda entrar el
 
 consuelo y, por tanto, quien carga con el pecado tiene que estar enteramente
 
-inmerso en el dolor. Marcos escribe que comenz a
+inmerso en el dolor. Marcos escribe que comenzó a
 
 entristecerse,
 
-y a angustiarse. En este caso θαμβεισθαι,
+y a angustiarse. En este caso ‘θαμβεισθαι’,
 
 con el prefijo εκ, describe un entristecimiento extremo como el de
 
-Moiss, cuando estuvo espantado y temblando. Oh bendito Salvador, no podemos
+Moisés, ‘cuando estuvo espantado y temblando’. ˇOh bendito Salvador, no podemos
 
-tolerar el pensamiento de que estabas asombrado y alarmado! Sin embargo, as
+tolerar el pensamiento de que estabas asombrado y alarmado! Sin embargo, así
 
 fue cuando los terrores de Dios se dispusieron en la batalla contra Ti. Lucas
 
-usa el fuerte lenguaje de mi texto: Estando en agona. Estas expresiones -cada
+usa el fuerte lenguaje de mi texto: “Estando en agonía”. Estas expresiones -cada
 
-una de ellas es digna de ser el tema de un sermn- bastan para mostrar que el
+una de ellas es digna de ser el tema de un sermón- bastan para mostrar que el
 
-dolor del Salvador era de un carcter sumamente extraordinario, justificando de
+dolor del Salvador era de un carácter sumamente extraordinario, justificando de
 
-sobra la exclamacin proftica: Mirad, y ved si hay dolor como mi dolor que me
+sobra la exclamación profética: “Mirad, y ved si hay dolor como mi dolor que me
 
-ha venido. Para nosotros, Su condicin en la desventura no tiene comparacin.
+ha venido”. Para nosotros, Su condición en la desventura no tiene comparación.
 
-Nadie ha sido importunado por los poderes del mal como l lo fue; es como si
+Nadie ha sido importunado por los poderes del mal como Él lo fue; es como si
 
-los poderes del infierno hubiesen mandado a sus legiones diciendo: No peleis
+los poderes del infierno hubiesen mandado a sus legiones diciendo: “No peleéis
 
-ni con grande ni con chico, sino slo contra el rey de Israel.
+ni con grande ni con chico, sino sólo contra el rey de Israel”.
 
-Si profesramos entender
+Si profesáramos entender
 
-todas las fuentes de la agona de nuestro Seor, la sabidura nos reprendera
+todas las fuentes de la agonía de nuestro Seńor, la sabiduría nos reprendería
 
-con la pregunta: Has entrado t hasta las fuentes del mar, y has andado
+con la pregunta: “żHas entrado tú hasta las fuentes del mar, y has andado
 
-escudriando el abismo? Lo nico que podemos hacer es mirar a las causas
+escudrińando el abismo?” Lo único que podemos hacer es mirar a las causas
 
-reveladas del dolor. Brot, en parte, del horror de Su alma
+reveladas del dolor. Brotó, en parte, del horror de Su alma
 
 al comprender plenamente el significado del
 
@@ -242,33 +242,33 @@ Hermanos, cuando por
 
 primera vez fueron convencidos de pecado y lo vieron como algo extremadamente
 
-pecaminoso, a pesar de que su percepcin de su pecaminosidad era dbil en
+pecaminoso, a pesar de que su percepción de su pecaminosidad era débil en
 
-comparacin con su verdadera atrocidad, con todo, el horror se apoder de
+comparación con su verdadera atrocidad, con todo, el horror se apoderó de
 
-ustedes. Recuerdan aquellas noches de insomnio? Dijeron, como el salmista: Se
+ustedes. żRecuerdan aquellas noches de insomnio? Dijeron, como el salmista: “Se
 
-envejecieron mis huesos en mi gemir todo el da. Porque de da y de noche se
+envejecieron mis huesos en mi gemir todo el día. Porque de día y de noche se
 
-agrav sobre m tu mano; se volvi mi verdor en sequedades de verano. Algunos
+agravó sobre mí tu mano; se volvió mi verdor en sequedades de verano”. Algunos
 
-de nosotros podemos recordar cuando nuestras almas tuvieron por mejor la estrangulacin
+de nosotros podemos recordar cuando ‘nuestras almas tuvieron por mejor la estrangulación
 
-y quisieron la muerte ms que nuestros huesos; cuando si las sombras de
+y quisieron la muerte más que nuestros huesos’; cuando ‘si las sombras de
 
-muerte hubieran podido cubrirnos de la ira de Dios, habramos estado
+muerte hubieran podido cubrirnos de la ira de Dios, habríamos estado
 
 extremadamente contentos de dormir en la tumba para no hacer nuestro estrado en
 
-el Seol. Nuestro bendito Seor vio al pecado en su negrura natural. l tena
+el Seol’. Nuestro bendito Seńor vio al pecado en su negrura natural. Él tenía
 
-una percepcin muy clara de su arremetida traicionera contra Su Dios, de su
+una percepción muy clara de su arremetida traicionera contra Su Dios, de su
 
 odio homicida contra Su propia persona, y de su destructora influencia sobre la
 
-humanidad. Era natural que se apoderara de l el terror pues una visin del
+humanidad. Era natural que se apoderara de Él el terror pues una visión del
 
-pecado tiene que ser mucho ms atroz que una visin del infierno, que no es
+pecado tiene que ser mucho más atroz que una visión del infierno, que no es
 
 sino su engendro.
 
@@ -276,7 +276,7 @@ Otra profunda fuente de
 
 dolor se encontraba en el hecho de que Cristo
 
-asuma entonces ms plenamente Su posicin oficial con respecto al
+asumía entonces más plenamente Su posición oficial con respecto al
 
 pecado.
 
@@ -284,33 +284,33 @@ Entonces fue hecho
 
 pecado.
 
-Oigan
+ˇOigan
 
-la palabra! Al que no conoci pecado, por nosotros lo hizo
+la palabra! ‘Al que no conoció pecado, por nosotros lo hizo
 
 pecado,
 
-para que nosotros fusemos
+para que nosotros fuésemos
 
-hechos justicia de Dios en l. Aquella noche se cumplieron las palabras de
+hechos justicia de Dios en Él’. Aquella noche se cumplieron las palabras de
 
-Isaas: Jehov carg en l el pecado de todos nosotros. Entonces estuvo como
+Isaías: “Jehová cargó en él el pecado de todos nosotros”. Entonces estuvo como
 
-quien carg con el pecado, el Sustituto aceptado por la justicia divina para
+quien cargó con el pecado, el Sustituto aceptado por la justicia divina para
 
-que soportara todo el peso de la ira divina y no tuviramos que soportarlo
+que soportara todo el peso de la ira divina y no tuviéramos que soportarlo
 
-nosotros. En aquella hora el cielo lo mir ubicado en el lugar del pecador, y lo
+nosotros. En aquella hora el cielo lo miró ubicado en el lugar del pecador, y lo
 
-trat como el hombre pecador mereca ser tratado con creces. Oh, queridos
+trató como el hombre pecador merecía ser tratado con creces. ˇOh, queridos
 
-amigos!, cuando el inmaculado Cordero de Dios se vio a S mismo en el lugar del
+amigos!, cuando el inmaculado Cordero de Dios se vio a Sí mismo en el lugar del
 
-culpable, cuando no pudo repudiar ese lugar porque l lo haba aceptado voluntariamente
+culpable, cuando no pudo repudiar ese lugar porque Él lo había aceptado voluntariamente
 
-para salvar a Sus elegidos, qu no debe de haber sentido Su alma, cmo debe de
+para salvar a Sus elegidos, qué no debe de haber sentido Su alma, cómo debe de
 
-haberse escandalizado Su naturaleza perfecta por una asociacin tan estrecha
+haberse escandalizado Su naturaleza perfecta por una asociación tan estrecha
 
 con la iniquidad.
 
@@ -318,87 +318,87 @@ Creemos que en aquel
 
 momento,
 
-nuestro Seor tena una clara
+nuestro Seńor tenía una clara
 
-visin de toda la vergenza y del sufrimiento de Su crucifixin.
+visión de toda la vergüenza y del sufrimiento de Su crucifixión.
 
-La agona
+La agonía
 
-no fue sino una de las primeras gotas del tremendo aguacero que se descarg
+no fue sino una de las primeras gotas del tremendo aguacero que se descargó
 
-sobre Su cabeza. l vio de antemano la inminente llegada del discpulo traidor,
+sobre Su cabeza. Él vio de antemano la inminente llegada del discípulo traidor,
 
-la captura por los alguaciles, los simulacros de juicio ante el Sanedrn, y
+la captura por los alguaciles, los simulacros de juicio ante el Sanedrín, y
 
 ante Pilato, y ante Herodes, los azotes y los golpes, la corona de espinas, las
 
 injurias y los esputos. Todo esto se le vino a la mente, y, como es una ley
 
-general de nuestra naturaleza que la visin anticipada de un juicio es ms
+general de nuestra naturaleza que la visión anticipada de un juicio es más
 
-aflictiva que el juicio mismo, podemos concebir por qu razn Aquel que no
+aflictiva que el juicio mismo, podemos concebir por qué razón Aquel que no
 
-respondi ni una sola palabra cuando se encontraba en medio del conflicto, no
+respondió ni una sola palabra cuando se encontraba en medio del conflicto, no
 
-pudo reprimirse del llanto amargo y de las lgrimas ante la perspectiva del
+pudo reprimirse del llanto amargo y de las lágrimas ante la perspectiva del
 
 juicio. Queridos amigos, si pudieran revivir ante el ojo de su mente los terribles
 
-incidentes de Su muerte, el acoso a travs de las calles de Jerusaln, la
+incidentes de Su muerte, el acoso a través de las calles de Jerusalén, la
 
-crucifixin, la fiebre, la sed, y, sobre todo, el desamparo de Su Dios, no pueden
+crucifixión, la fiebre, la sed, y, sobre todo, el desamparo de Su Dios, no pueden
 
 sorprenderse de que comenzara a angustiarse, y a estar muy entristecido.
 
 Pero posiblemente un
 
-rbol todava ms feraz de amargura era este:
+árbol todavía más feraz de amargura era este:
 
-que en ese momento Su Padre comenz a retirar Su presencia de l.
+que en ese momento Su Padre comenzó a retirar Su presencia de Él.
 
 La
 
-sombra de ese gran eclipse comenz a caer sobre Su espritu cuando se arrodill
+sombra de ese gran eclipse comenzó a caer sobre Su espíritu cuando se arrodilló
 
-en aquella medianoche fra en medio de los olivos de Getseman. Los consuelos
+en aquella medianoche fría en medio de los olivos de Getsemaní. Los consuelos
 
-perceptibles que haban alegrado Su espritu le fueron retirados; aquella
+perceptibles que habían alegrado Su espíritu le fueron retirados; aquella
 
-bendita aplicacin de las promesas que Cristo Jess necesitaba como hombre, le fue
+bendita aplicación de las promesas que Cristo Jesús necesitaba como hombre, le fue
 
-suprimida; todo lo que entendemos por el trmino: las consolaciones de Dios
+suprimida; todo lo que entendemos por el término: “las consolaciones de Dios”
 
-fueron ocultadas a Sus ojos. Qued sin la ayuda de nadie para contender por la
+fueron ocultadas a Sus ojos. Quedó sin la ayuda de nadie para contender por la
 
-liberacin del hombre. Dios se mantuvo como si hubiera sido un espectador
+liberación del hombre. Dios se mantuvo como si hubiera sido un espectador
 
-indiferente, o ms bien, como si hubiera sido un adversario, porque como hiere
+indiferente, o más bien, como si hubiera sido un adversario, “porque como hiere
 
-un enemigo lo hiri, con azote de adversario cruel.
+un enemigo lo hirió, con azote de adversario cruel”.
 
 Pero a nuestro juicio el
 
-culmen del sufrimiento del Salvador en el huerto estrib en
+culmen del sufrimiento del Salvador en el huerto estribó en
 
-las tentaciones de Satans.
+las tentaciones de Satanás.
 
 Esa hora,
 
 por sobre cualquier otro momento de Su vida, incluso sobrepasando al conflicto
 
-de cuarenta das en el desierto, fue
+de cuarenta días en el desierto, fue
 
 el
 
-momento de Su tentacin.
+momento de Su tentación.
 
-Esta es vuestra hora, y la potestad de las
+“Esta es vuestra hora, y la potestad de las
 
-tinieblas. Entonces pudo decir enfticamente: Viene el prncipe de este
+tinieblas”. Entonces pudo decir enfáticamente: “Viene el príncipe de este
 
-mundo. Este fue Su ltimo combate cuerpo a cuerpo con todas las huestes del
+mundo”. Este fue Su último combate cuerpo a cuerpo con todas las huestes del
 
-infierno, y all tuvo que sudar grandes gotas de sangre antes de poder alcanzar
+infierno, y allí tuvo que sudar grandes gotas de sangre antes de poder alcanzar
 
 la victoria.
 
@@ -406,407 +406,409 @@ Hemos echado un vistazo
 
 a las fuentes del grande abismo que fueron rotas cuando las aguas de la
 
-afliccin inundaron el alma del Redentor. Hermanos, veamos esta especial
+aflicción inundaron el alma del Redentor. Hermanos, veamos esta especial
 
-leccin antes de dejar la contemplacin: No tenemos un sumo sacerdote que no
+lección antes de dejar la contemplación: “No tenemos un sumo sacerdote que no
 
 pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo
 
-segn nuestra semejanza, pero sin pecado. Acerqumonos, pues, confiadamente al
+según nuestra semejanza, pero sin pecado. Acerquémonos, pues, confiadamente al
 
 trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno
 
-socorro. Pensemos que ningn sufrimiento puede ser desconocido para l. Nosotros
+socorro”. Pensemos que ningún sufrimiento puede ser desconocido para Él. ‘Nosotros
 
-simplemente corremos con los de a pie l tuvo que contender con gente de a
+simplemente corremos con los de a pie –Él tuvo que contender con gente de a
 
-caballo; nosotros nicamente pasamos por las aguas de la afliccin hasta los
+caballo’; nosotros únicamente pasamos por las aguas de la aflicción hasta los
 
-tobillos- l tuvo que dar brazadas en medio de las crecidas aguas agitadas del
+tobillos- Él tuvo que dar brazadas en medio de las crecidas aguas agitadas del
 
-Jordn. l nunca dejar de socorrer a Su pueblo cuando es tentado; tal como se
+Jordán. Él nunca dejará de socorrer a Su pueblo cuando es tentado; tal como se
 
-dijo en la antigedad: En toda angustia de ellos l fue angustiado, y el ngel
+dijo en la antigüedad: “En toda angustia de ellos él fue angustiado, y el ángel
 
-de su faz los salv.
+de su faz los salvó”.
 
 II.
 
 A
 
-continuacin pasamos a contemplar
+continuación pasamos a contemplar
 
 LA
 
-TENTACIN
+TENTACIÓN
 
 DE
 
-NUESTRO SEOR.
+NUESTRO SEŃOR.
 
 Al inicio de Su carrera,
 
-la serpiente comenz a mordisquear el taln del liberador prometido, y ahora,
+la serpiente comenzó a mordisquear el talón del liberador prometido, y ahora,
 
-conforme se aproximaba el momento en que la simiente de la mujer herira la
+conforme se aproximaba el momento en que la simiente de la mujer heriría la
 
-cabeza de la serpiente, ese dragn antiguo hizo un desesperado intento en
+cabeza de la serpiente, ese dragón antiguo hizo un desesperado intento en
 
 contra de su gran destructor. No es posible que levantemos el velo que la
 
-revelacin ha corrido, pero podemos formarnos una vaga idea de las sugerencias
+revelación ha corrido, pero podemos formarnos una vaga idea de las sugerencias
 
-con las que Satans tent a nuestro Seor. Sin embargo, antes de intentar
+con las que Satanás tentó a nuestro Seńor. Sin embargo, antes de intentar
 
 pintar este cuadro, hemos de comentar a manera de advertencia que independientemente
 
-de lo que Satans pudiera haberle sugerido a nuestro Seor, Su perfecta
+de lo que Satanás pudiera haberle sugerido a nuestro Seńor, Su perfecta
 
-naturaleza no se someti a ello en ningn grado como para pecar.
+naturaleza no se sometió a ello en ningún grado como para pecar.
 
 No cabe duda de que las tentaciones fueron de
 
-la naturaleza ms malvola, pero no dejaron ninguna mancha ni imperfeccin en
+la naturaleza más malévola, pero no dejaron ninguna mancha ni imperfección en
 
-Aquel que permaneci siendo todava sealado entre diez mil. El prncipe de
+Aquel que permaneció siendo todavía ‘seńalado entre diez mil’. El príncipe de
 
-este mundo vino, pero no tena nada en Cristo. Gener las chispas, pero no
+este mundo vino, pero no tenía nada en Cristo. Generó las chispas, pero no
 
 pudieron caer, como en nuestro caso, sobre madera seca; fue como si cayeran en
 
-el mar y se apagaron de inmediato. Lanz las flechas de fuego, pero ni siquiera
+el mar y se apagaron de inmediato. Lanzó las flechas de fuego, pero ni siquiera
 
 pudieron provocar cicatrices en la carne de Cristo; acertaron en el escudo de
 
 Su naturaleza perfectamente justa, y cayeron con sus puntas rotas, para
 
-confusin del adversario.
+confusión del adversario.
 
-Pero, cules creen
+Pero, żcuáles creen
 
 ustedes que fueron esas tentaciones? Por ciertas pistas disponibles, tengo la
 
-impresin de que fueron ms o menos algo as: hubo, primero,
+impresión de que fueron más o menos algo así: hubo, primero,
 
-una tentacin para que dejara inconclusa la
+una tentación para que dejara inconclusa la
 
 obra.
 
-Podemos concluir esto partiendo de la oracin: Si es posible, pase
+Podemos concluir esto partiendo de la oración: “Si es posible, pase
 
-de m esta copa. Hijo de Dios le dijo el tentador- as es la cosa? Eres
+de mí esta copa”. “Hijo de Dios” –le dijo el tentador- “żasí es la cosa? żEres
 
-realmente llamado a cargar con el pecado del hombre? Conque Dios ha dicho: He
+realmente llamado a cargar con el pecado del hombre? żConque Dios ha dicho: ‘He
 
-puesto el socorro sobre uno que es poderoso, y eres T el escogido de Dios
+puesto el socorro sobre uno que es poderoso’, y eres Tú el escogido de Dios
 
-para llevar toda esta carga? Mira tu debilidad! Ests sudando, aun ahora, grandes
+para llevar toda esta carga? ˇMira tu debilidad! Estás sudando, aun ahora, grandes
 
-gotas de sangre. Seguramente no eres T aquel a quien el Padre ha ordenado que
+gotas de sangre. Seguramente no eres Tú aquel a quien el Padre ha ordenado que
 
-sea poderoso para salvar; y si lo fueras, qu ganaras con eso? De qu te
+sea poderoso para salvar; y si lo fueras, żqué ganarías con eso? żDe qué te
 
-servir? T ya tienes suficiente gloria. Mira que aquellos por quienes te vas a
+servirá? Tú ya tienes suficiente gloria. Mira que aquellos por quienes te vas a
 
 ofrecer como un sacrificio son unos infieles. Tus mejores amigos duermen a tu
 
-lado cuando ests ms necesitado de su consuelo. Tu tesorero, Judas, se
+lado cuando estás más necesitado de su consuelo. Tu tesorero, Judas, se
 
-apresura para traicionarte por el precio de un esclavo comn. El mundo por el
+apresura para traicionarte por el precio de un esclavo común. El mundo por el
 
-que te sacrificas va a descartar Tu nombre como algo maligno, y, cunto vale
+que te sacrificas va a descartar Tu nombre como algo maligno, y, żcuánto vale
 
-Tu Iglesia, por la que pagas el precio del rescate? Un tropel de mortales!
+Tu Iglesia, por la que pagas el precio del rescate? ˇUn tropel de mortales!
 
-Tu divinidad podra crear seres
+Tu divinidad podría crear seres
 
-semejantes en cualquier momento que Te pluguiera. Entonces, por qu necesitas
+semejantes en cualquier momento que Te pluguiera. Entonces, żpor qué necesitas
 
-derramar Tu alma hasta la muerte? Ese tipo de argumentos usara Satans; la
+derramar Tu alma hasta la muerte?” Ese tipo de argumentos usaría Satanás; la
 
-astucia infernal de uno que para entonces haba estado tentando a los hombres
+astucia infernal de uno que para entonces había estado tentando a los hombres
 
-durante miles de aos, sabra cmo inventar todo tipo de maldades. Derramara
+durante miles de ańos, sabría cómo inventar todo tipo de maldades. Derramaría
 
-sobre el Salvador los carbones ms ardientes del infierno. Fue por luchar
+sobre el Salvador los carbones más ardientes del infierno. Fue por luchar
 
-contra esta tentacin, entre otras, que, estando en agona, nuestro Salvador
+contra esta tentación, entre otras, que, estando en agonía, nuestro Salvador
 
-or ms intensamente.
+oró más intensamente.
 
 La Escritura
 
-deja entrever que nuestro Seor fue asaltado por
+deja entrever que nuestro Seńor fue asaltado por
 
 el temor de que Su fuerza no fuera suficiente.
 
-Fue odo a causa de
+‘Fue oído a causa de
 
-Su temor reverente. Cmo, entonces, fue odo? Le fue enviado un ngel que lo
+Su temor reverente’. żCómo, entonces, fue oído? Le fue enviado un ángel que lo
 
-fortaleci. Su temor, entonces, probablemente fue producido por un sentido de
+fortaleció. Su temor, entonces, probablemente fue producido por un sentido de
 
-debilidad. Yo me imagino que el maligno diablo le susurrara al odo: T!, T
+debilidad. Yo me imagino que el maligno diablo le susurraría al oído: “ˇTú!, ˇTú
 
 toleras ser castigado por Dios y ser aborrecido por los hombres! El reproche ha
 
-quebrantado ya Tu corazn. Cmo habrs de soportar ser puesto en vergenza
+quebrantado ya Tu corazón. żCómo habrás de soportar ser puesto en vergüenza
 
-pblicamente y ser llevado fuera de la ciudad como algo inmundo? Cmo soportars
+públicamente y ser llevado fuera de la ciudad como algo inmundo? żCómo soportarás
 
-ver llorar a Tus allegados y ver el corazn quebrantado de Tu madre cuando
+ver llorar a Tus allegados y ver el corazón quebrantado de Tu madre cuando
 
-estn al pie de Tu cruz? Tu espritu delicado y sensible se acobardar ante eso.
+estén al pie de Tu cruz? Tu espíritu delicado y sensible se acobardará ante eso.
 
-En cuanto a Tu cuerpo, ya est enflaquecido. Tus largos ayunos te han
+En cuanto a Tu cuerpo, ya está enflaquecido. Tus largos ayunos te han
 
-debilitado mucho. La muerte har presa de Ti mucho antes de que Tu obra sea
+debilitado mucho. La muerte hará presa de Ti mucho antes de que Tu obra sea
 
-cumplida. Seguramente fracasars. Dios Te ha desamparado. Ahora Te perseguirn
+cumplida. Seguramente fracasarás. Dios Te ha desamparado. Ahora Te perseguirán
 
-y Te apresarn. Entregarn Tu alma al len, y Tu vida al poder del perro.
+y Te apresarán. Entregarán Tu alma al león, y Tu vida al poder del perro”.
 
-Luego le pintara todos los sufrimientos de la crucifixin, y le dira:
+Luego le pintaría todos los sufrimientos de la crucifixión, y le diría:
 
-Estar firme Tu corazn? Sern fuertes Tus manos en los das en que el Seor
+“żEstará firme Tu corazón? żSerán fuertes Tus manos en los días en que el Seńor
 
-proceda contra Ti? La tentacin de Satans no estaba dirigida contra
+proceda contra Ti?” La tentación de Satanás no estaba dirigida contra
 
 la Deidad
 
 , sino contra la
 
-humanidad de Cristo, y, por tanto, el maligno se concentrara en la debilidad
+humanidad de Cristo, y, por tanto, el maligno se concentraría en la debilidad
 
-del hombre. Acaso T mismo no dijiste: Yo soy gusano, y no hombre; oprobio
+del hombre. “żAcaso Tú mismo no dijiste: ‘Yo soy gusano, y no hombre; oprobio
 
-de los hombres, y despreciado del pueblo? Podrs resistir cuando las nubes de
+de los hombres, y despreciado del pueblo’? żPodrás resistir cuando las nubes de
 
-la ira se junten a Tu alrededor? La tempestad seguramente har naufragar todas
+la ira se junten a Tu alrededor? La tempestad seguramente hará naufragar todas
 
-Tus esperanzas. No puede ser; t no podrs beber de este vaso, ni ser bautizado
+Tus esperanzas. No puede ser; tú no podrás beber de este vaso, ni ser bautizado
 
-con este bautismo. De esta manera, creemos, fue tentado nuestro Maestro. Pero
+con este bautismo”. De esta manera, creemos, fue tentado nuestro Maestro. Pero
 
-miren, l no cede. Estando en una agona la palabra significa: en una lucha-
+miren, Él no cede. Estando en una agonía –la palabra significa: en una lucha-
 
-l lucha con el tentador igual que Jacob con el ngel. No dice l- no ser
+Él lucha con el tentador igual que Jacob con el ángel. “No” –dice Él- “no seré
 
 sometido por las burlas dirigidas en contra de mi debilidad. Yo soy fuerte en
 
-la fortaleza de mi Deidad, y voy a vencerte. Con todo, la tentacin fue tan
+la fortaleza de mi Deidad, y voy a vencerte”. Con todo, la tentación fue tan
 
-terrible que, para dominarla, Su depresin mental le provoc un sudor como
+terrible que, para dominarla, Su depresión mental le provocó “un sudor como
 
-grandes gotas de sangre que caan hasta la tierra.
+grandes gotas de sangre que caían hasta la tierra”.
 
-Posiblemente, tambin,
+Posiblemente, también,
 
-la tentacin pudo haber provenido de una sugerencia en el sentido de
+la tentación pudo haber provenido de una sugerencia en el sentido de
 
 que estaba completamente desamparado.
 
 Yo
 
-no lo s; tal vez pudiera haber tribulaciones ms severas que sta, pero
+no lo sé; tal vez pudiera haber tribulaciones más severas que ésta, pero
 
-seguramente sta es
+seguramente ésta es
 
 una
 
 de las
 
-peores: ser abandonado por completo. Mira le dijo Satans, mientras siseaba
+peores: ser abandonado por completo. “ˇMira” –le dijo Satanás, mientras siseaba
 
-entre dientes- mira, ahora no tienes ningn amigo! Mira a lo alto, al cielo, y
+entre dientes- “mira, ahora no tienes ningún amigo!” Mira a lo alto, al cielo, y
 
-vers que Tu Padre cerr contra Ti Su corazn. Ni un solo ngel en los atrios
+verás que Tu Padre cerró contra Ti Su corazón. Ni un solo ángel en los atrios
 
-de Tu Padre extender Su mano para ayudarte. Mira por all, y ni uno solo de
+de Tu Padre extenderá Su mano para ayudarte. Mira por allá, y ni uno solo de
 
-aquellos espritus que honraron Tu nacimiento intervendr para proteger Tu
+aquellos espíritus que honraron Tu nacimiento intervendrá para proteger Tu
 
 vida. Todo el cielo es falso para Ti; te has quedado solo. Y en cuanto a la
 
-tierra, acaso no estn todos los hombres sedientos de Tu sangre? No estar
+tierra, żacaso no están todos los hombres sedientos de Tu sangre? żNo estará
 
-contento el judo al ver Tu carne traspasada por los clavos, y no sentir un
+contento el judío al ver Tu carne traspasada por los clavos, y no sentirá un
 
-placer maligno el romano cuando T, el Rey de los judos, ests clavado en la
+placer maligno el romano cuando Tú, el Rey de los judíos, estés clavado en la
 
-cruz? T no tienes ningn amigo entre las naciones; los altos y poderosos se
+cruz? Tú no tienes ningún amigo entre las naciones; los altos y poderosos se
 
 burlan de Ti, y los pobres te sacan sus lenguas en son de escarnio. Estando en
 
-Tu mejor condicin no tenas dnde recostar Tu cabeza y ahora no tienes ningn
+Tu mejor condición no tenías dónde recostar Tu cabeza y ahora no tienes ningún
 
-lugar donde se te brinde abrigo. Mira a los compaeros con los que juntos te
+lugar donde se te brinde abrigo. Mira a los compańeros con los que juntos te
 
-comunicabas dulcemente los secretos, para qu sirven?
+comunicabas dulcemente los secretos, żpara qué sirven?
+
+ˇ
 
 Hijo
 
-de Mara, mira all a Tu hermano Santiago, mira all a Tu amado discpulo Juan
+de María, mira allí a Tu hermano Santiago, mira allí a Tu amado discípulo Juan
 
-y a Tu valiente apstol Pedro: duermen, duermen; y esos ocho, cmo duermen los
+y a Tu valiente apóstol Pedro: duermen, duermen; y esos ocho, ˇcómo duermen los
 
-cobardes mientras T ests sumido en Tus sufrimientos! Y dnde estn los otros
+cobardes mientras Tú estás sumido en Tus sufrimientos! żY dónde están los otros
 
-cuatrocientos? Te han olvidado; estarn en sus fincas y en sus comercios por la
+cuatrocientos? Te han olvidado; estarán en sus fincas y en sus comercios por la
 
-maana. He aqu, no te queda ningn amigo ni en el cielo ni en la tierra! He
+mańana. ˇHe aquí, no te queda ningún amigo ni en el cielo ni en la tierra! He
 
-enviado mis misivas a travs de todas las regiones convocando a todo prncipe
+enviado mis misivas a través de todas las regiones convocando a todo príncipe
 
 de las tinieblas para que caiga sobre Ti esta noche, y no vamos a escatimar
 
-flechas, y vamos a usar todo nuestro poder infernal para doblegarte; y qu
+flechas, y vamos a usar todo nuestro poder infernal para doblegarte; ży qué
 
-hars T, ahora que Te quedaste solo? Esa pudo haber sido la tentacin; pienso
+harás Tú, ahora que Te quedaste solo?” Esa pudo haber sido la tentación; pienso
 
-que pudo haber sido esa porque la aparicin de un ngel para fortalecerlo
+que pudo haber sido esa porque la aparición de un ángel para fortalecerlo
 
-suprimi ese miedo. Fue odo a causa de Su temor reverente; ya no estuvo solo,
+suprimió ese miedo. Fue oído a causa de Su temor reverente; ya no estuvo solo,
 
-sino que el cielo estaba con l. Esa pudo haber sido la razn de que se
+sino que el cielo estaba con Él. Esa pudo haber sido la razón de que se
 
-acercara tres veces a Sus discpulos como lo expres Hart-:
+acercara tres veces a Sus discípulos –como lo expresó Hart-:
 
-Hacia atrs y hacia delante corri tres veces,
+“Hacia atrás y hacia delante corrió tres veces,
 
-Como si buscara alguna ayuda del hombre.
+Como si buscara alguna ayuda del hombre”.
 
-Quera ver por S mismo
+Quería ver por Sí mismo
 
-si era realmente cierto que todos los hombres lo haban abandonado; los
+si era realmente cierto que todos los hombres lo habían abandonado; los
 
-encontr durmiendo a todos; pero tal vez recibi algn dbil consuelo pensando
+encontró durmiendo a todos; pero tal vez recibió algún débil consuelo pensando
 
-que estaban durmiendo, no por traicin, sino por causa de la tristeza, y porque
+que estaban durmiendo, no por traición, sino por causa de la tristeza, y porque
 
-el espritu a la verdad estaba dispuesto, pero la carne era dbil.
+el espíritu a la verdad estaba dispuesto, pero la carne era débil.
 
-Pensamos que Satans
+Pensamos que Satanás
 
-atac tambin a nuestro Seor con el escarnio. Ustedes saben con qu disfraz puede
+atacó también a nuestro Seńor con el escarnio. Ustedes saben con qué disfraz puede
 
-vestirlo el tentador, y cun amargamente sarcstico puede ser al hacer la
+vestirlo el tentador, y cuán amargamente sarcástico puede ser al hacer la
 
-insinuacin:
+insinuación:
 
-Ah, T sers incapaz de lograr
+ˇAh, Tú serás incapaz de lograr
 
-la redencin de Tu pueblo!
+la redención de Tu pueblo!
 
-Tu gran benevolencia provocar una mofa, y Tus
+Tu gran benevolencia provocará una mofa, y Tus
 
-seres amados perecern. T no prevalecers para salvarlos de mi asidero. Tus
+seres amados perecerán. Tú no prevalecerás para salvarlos de mi asidero. Tus
 
-ovejas esparcidas seguramente sern mi presa. Hijo de David, yo soy un buen
+ovejas esparcidas seguramente serán mi presa. Hijo de David, yo soy un buen
 
-contendiente para Ti. T no puedes librar de mi mano. Muchos de Tus elegidos
+contendiente para Ti. Tú no puedes librar de mi mano. Muchos de Tus elegidos
 
-han entrado en el cielo debido a la fuerza de Tu expiacin, pero yo voy a
+han entrado en el cielo debido a la fuerza de Tu expiación, pero yo voy a
 
-sacarlos a rastras de ah, y voy a apagar a las estrellas de la gloria; voy a
+sacarlos a rastras de ahí, y voy a apagar a las estrellas de la gloria; voy a
 
-hacer que disminuya el nmero de coristas de Dios en los atrios del cielo, pues
+hacer que disminuya el número de coristas de Dios en los atrios del cielo, pues
 
-T no cumplirs con Tu fianza. T no puedes hacerlo. T eres incapaz de llevar
+Tú no cumplirás con Tu fianza. Tú no puedes hacerlo. Tú eres incapaz de llevar
 
-a lo alto a esta muchedumbre numerosa. Van a perecer. Mira, no han sido
+a lo alto a esta muchedumbre numerosa. Van a perecer. Mira, żno han sido
 
 dispersadas las ovejas ahora que el Pastor ha sido herido? Todas ellas te
 
-olvidarn. Nunca vers el fruto de la afliccin de Tu alma. Tu fin deseado no
+olvidarán. Nunca verás el fruto de la aflicción de Tu alma. Tu fin deseado no
 
-ser alcanzado nunca. T sers por siempre el hombre que comenz a construir
+será alcanzado nunca. Tú serás por siempre el hombre que comenzó a construir
 
-pero no fue capaz de concluir. Tal vez sta fuera ms verdaderamente la razn
+pero no fue capaz de concluir”. Tal vez ésta fuera más verdaderamente la razón
 
-por la que fue tres veces a mirar a Sus discpulos. Seguramente han visto a alguna
+por la que fue tres veces a mirar a Sus discípulos. Seguramente han visto a alguna
 
-madre parecida a sta: se encuentra muy desfallecida, agotada por una seria
+madre parecida a ésta: se encuentra muy desfallecida, agotada por una seria
 
 enfermedad, pero se esfuerza bajo el tremendo temor de que su hijo se muera. Se
 
 ha levantado de su cama, en la que su enfermedad la ha relegado, para darse un
 
-breve descanso. Contempla ansiosamente a su hijo. Advierte el ms leve signo de
+breve descanso. Contempla ansiosamente a su hijo. Advierte el más leve signo de
 
-recuperacin. Pero ella misma est muy enferma, y no puede permanecer ms de un
+recuperación. Pero ella misma está muy enferma, y no puede permanecer más de un
 
 instante fuera de su cama. No puede dormir, se da vueltas agitadamente, pues
 
-sus pensamientos divagan; se levanta para revisar de nuevo: cmo te encuentras,
+sus pensamientos divagan; se levanta para revisar de nuevo: “żcómo te encuentras,
 
-hijo mo, cmo te encuentras? Son menos violentas esas palpitaciones de tu
+hijo mío, cómo te encuentras? żSon menos violentas esas palpitaciones de tu
 
-corazn? Se ha estabilizado tu pulso? Pero, ay!, ella est desfallecida y
+corazón? żSe ha estabilizado tu pulso?” Pero, ˇay!, ella está desfallecida y
 
 tiene que regresar de nuevo a su cama y sin embargo no puede descansar. Regresa
 
 una y otra vez para vigilar a su ser querido.
 
-Me parece a m que as
+Me parece a mí que así
 
-miraba Cristo a Pedro y a Santiago y a Juan, como si dijera: No, no todos se
+miraba Cristo a Pedro y a Santiago y a Juan, como si dijera: “No, no todos se
 
-han perdido todava; quedan tres; y, vindolos como el tipo de toda
+han perdido todavía; quedan tres”; y, viéndolos como el tipo de toda
 
 la Iglesia
 
-, pareca decir:
+, parecía decir:
 
-No, no; voy a vencer; voy a tener el dominio; voy a luchar incluso hasta la
+“No, no; voy a vencer; voy a tener el dominio; voy a luchar incluso hasta la
 
 sangre; voy a pagar el precio del rescate, y voy a librar a mis amados de su
 
-enemigo.
+enemigo”.
 
 Me parece que esas
 
-fueron Sus tentaciones. Si pueden hacerse una idea ms completa de lo que
+fueron Sus tentaciones. Si pueden hacerse una idea más completa de lo que
 
-fueron esas tentaciones que difieren de stas, me dar mucho gusto que lo hagan.
+fueron esas tentaciones que difieren de éstas, me dará mucho gusto que lo hagan.
 
-Con esta ltima leccin dejo el punto:
+Con esta última lección dejo el punto:
 
 Oren
 
-para que no entren en tentacin.
+para que no entren en tentación”.
 
-Esta es la propia expresin de Cristo; es
+Esta es la propia expresión de Cristo; es
 
-Su propia conclusin derivada de esta tribulacin. Todos ustedes han ledo,
+Su propia conclusión derivada de esta tribulación. Todos ustedes han leído,
 
 queridos amigos, la escena que pinta John Bunyan respecto a la lucha de
 
 Cristiano
 
-con Apolin. Ese maestro de la pintura lo ha
+con Apolión. Ese maestro de la pintura lo ha
 
-bosquejado de una manera muy vvida. Dice que: Este doloroso combate dur
+bosquejado de una manera muy vívida. Dice que: “Este doloroso combate duró
 
-medio da, hasta que Cristiano estaba casi exhausto No ofreci buen semblante
+medio día, hasta que Cristiano estaba casi exhausto… No ofreció buen semblante
 
-hasta que advirti que haba herido a Apolin con su espada de dos filos. Entonces
+hasta que advirtió que había herido a Apolión con su espada de dos filos. Entonces
 
-sonri, mir a lo alto y vio el espectculo ms terrible que jams haba
+sonrió, miró a lo alto y vio el espectáculo más terrible que jamás había
 
-visto. Ese es el significado de la oracin: No nos metas en tentacin. Oh,
+visto”. Ese es el significado de la oración: “No nos metas en tentación”. Oh,
 
 ustedes que van temerariamente a donde son tentados, oh, ustedes que oran
 
-pidiendo aflicciones y he conocido a algunos que son lo suficientemente necios
+pidiendo aflicciones –y he conocido a algunos que son lo suficientemente necios
 
-para hacerlo- ustedes que se ponen a s mismos donde tientan al diablo para que
+para hacerlo- ustedes que se ponen a sí mismos donde tientan al diablo para que
 
-los tiente, pongan atencin al propio ejemplo del Maestro. l suda grandes
+los tiente, pongan atención al propio ejemplo del Maestro. Él suda grandes
 
-gotas de sangre cuando es tentado. Oh, pdanle a Dios que los libre de una tal
+gotas de sangre cuando es tentado. ˇOh, pídanle a Dios que los libre de una tal
 
-tribulacin! Oren pidiendo esta maana y cada da: No nos metas en tentacin.
+tribulación! Oren pidiendo esta mańana y cada día: “No nos metas en tentación”.
 
 III.
 
@@ -814,173 +816,173 @@ Contemplen,
 
 amados hermanos, EL SUDOR SANGRIENTO.
 
-Leemos que Era su sudor
+Leemos que “Era su sudor
 
-como grandes gotas de sangre. Debido a esto unos cuantos escritores han
+como grandes gotas de sangre”. Debido a esto unos cuantos escritores han
 
-supuesto que el sudor no era realmente sangre, sino que tena la apariencia de
+supuesto que el sudor no era realmente sangre, sino que tenía la apariencia de
 
-sangre. Esa interpretacin, sin embargo, ha sido rechazada por la mayora de
+sangre. Esa interpretación, sin embargo, ha sido rechazada por la mayoría de
 
-los comentaristas, desde San Agustn en adelante, y generalmente se afirma que
+los comentaristas, desde San Agustín en adelante, y generalmente se afirma que
 
-la palabra como no slo expresa la
+la palabra “como” no sólo expresa la
 
 semejanza
 
 a la sangre, sino que expresa que era real y literalmente sangre. Encontramos
 
-el uso de esa misma palabra en el texto: Vimos su gloria, gloria como del
+el uso de esa misma palabra en el texto: “Vimos su gloria, gloria como del
 
-unignito del Padre. Ahora bien, claramente eso no quiere decir que Cristo era
+unigénito del Padre”. Ahora bien, claramente eso no quiere decir que Cristo era
 
-como el unignito del Padre, puesto que lo es realmente. De tal manera que, en
+como el unigénito del Padre, puesto que lo es realmente. De tal manera que, en
 
-general, esta expresin de
+general, esta expresión de
 
 la Santa Escritura
 
 indica, no una mera semejanza con
 
-algo, sino la cosa misma. Creemos, entonces, que Cristo sud realmente sangre.
+algo, sino la cosa misma. Creemos, entonces, que Cristo sudó realmente sangre.
 
-Este fenmeno, aunque es algo inusual, ha sido comprobado en otras personas.
+Este fenómeno, aunque es algo inusual, ha sido comprobado en otras personas.
 
 Hay varios casos registrados -algunos en los viejos libros de medicina de
 
-Galeno, y otros de fechas ms recientes- de personas que despus de una
+Galeno, y otros de fechas más recientes- de personas que después de una
 
 prolongada debilidad, por miedo a la muerte, han sudado sangre. Pero este caso
 
-es enteramente nico en su gnero por varias razones. Si se dan cuenta, no slo
+es enteramente único en su género por varias razones. Si se dan cuenta, no sólo
 
-sud sangre, sino que la sud en grandes gotas; la sangre se solidific
+sudó sangre, sino que la sudó en grandes gotas; la sangre se solidificó
 
-formando grandes cogulos. No puedo expresar mejor lo que se quiere significar
+formando grandes coágulos. No puedo expresar mejor lo que se quiere significar
 
-que mediante la palabra gotas, gotas grandes y pesadas. Eso no se ha visto en
+que mediante la palabra “gotas”, gotas grandes y pesadas. Eso no se ha visto en
 
-ningn caso. Se han conocido algunas leves efusiones de sangre en casos de
+ningún caso. Se han conocido algunas leves efusiones de sangre en casos de
 
 personas que estaban debilitadas con anterioridad, pero nunca grandes gotas.
 
-Cuando se dice: que caan hasta la tierra, eso muestra su copiosidad, de manera
+Cuando se dice: “que caían hasta la tierra”, eso muestra su copiosidad, de manera
 
-que no slo permanecan en la superficie y eran absorbidas por Sus ropas hasta
+que no sólo permanecían en la superficie y eran absorbidas por Sus ropas hasta
 
-teirlo de rojo como la vaca alazana que era sacrificada en ese preciso lugar,
+teńirlo de rojo como la vaca alazana que era sacrificada en ese preciso lugar,
 
-sino que las gotas caan a la tierra. En eso no tiene rival. Era un hombre que
+sino que las gotas caían a la tierra. En eso no tiene rival. Era un hombre que
 
-gozaba de buena salud, y slo contaba con unos treinta y tantos aos de edad, y
+gozaba de buena salud, y sólo contaba con unos treinta y tantos ańos de edad, y
 
-trabajaba sin ningn miedo a la muerte; pero la presin mental que se origin
+trabajaba sin ningún miedo a la muerte; pero la presión mental que se originó
 
-en Su lucha con la tentacin, y la aplicacin de toda Su fuerza con el fin de
+en Su lucha con la tentación, y la aplicación de toda Su fuerza con el fin de
 
-frustrar la tentacin de Satans, infundi en Su cuerpo una excitacin tan
+frustrar la tentación de Satanás, infundió en Su cuerpo una excitación tan
 
 preternatural, que Sus poros expulsaron grandes gotas de sangre que cayeron a
 
-la tierra. Esto demuestra cun tremendo debe de haber sido el peso del pecado
+la tierra. ˇEsto demuestra cuán tremendo debe de haber sido el peso del pecado
 
-pues fue capaz de aplastar de tal manera al Salvador que destil gotas de
+pues fue capaz de aplastar de tal manera al Salvador que destiló gotas de
 
-sangre! Esto demuestra tambin, hermanos mos, el tremendo poder de Su amor. Es
+sangre! Esto demuestra también, hermanos míos, el tremendo poder de Su amor. Es
 
-una excelente observacin del viejo Isaac Ambrose que la goma que exuda del
+una excelente observación del viejo Isaac Ambrose que la goma que exuda del
 
-rbol que no es cortado es siempre la mejor. Ese precioso rbol, el alcanforero,
+árbol que no es cortado es siempre la mejor. Ese precioso árbol, el alcanforero,
 
-produjo las especias ms dulces cuando fue herido por los ltigos llenos de
+produjo las especias más dulces cuando fue herido por los látigos llenos de
 
 nudos y cuando fue perforado por los clavos en la cruz; pero vean, produce su
 
-mejor especia cuando no hay ltigo, ni clavo, ni herida. Esto expone el
+mejor especia cuando no hay látigo, ni clavo, ni herida. Esto expone el
 
-carcter voluntario de los sufrimientos de Cristo, puesto que aun sin la
+carácter voluntario de los sufrimientos de Cristo, puesto que aun sin la
 
-intervencin de una lanza la sangre flua libremente. No haba necesidad de pegar
+intervención de una lanza la sangre fluía libremente. No había necesidad de pegar
 
-la sanguijuela ni de aplicar el cuchillo. Fluy espontneamente. No haba
+la sanguijuela ni de aplicar el cuchillo. Fluyó espontáneamente. No había
 
-ninguna necesidad de que los gobernantes clamaran: Sube, oh pozo; por s sola
+ninguna necesidad de que los gobernantes clamaran: “Sube, oh pozo”; por sí sola
 
-fluye en torrentes de color carmes.
+fluye en torrentes de color carmesí.
 
-Carsimos amigos, si los
+Carísimos amigos, si los
 
-hombres sufren algn terrible dolor de cabeza yo no estoy familiarizado con
+hombres sufren algún terrible dolor de cabeza –yo no estoy familiarizado con
 
-los temas mdicos- aparentemente la sangre fluye al corazn. Las mejillas se
+los temas médicos- aparentemente la sangre fluye al corazón. Las mejillas se
 
-ponen plidas; viene un desvanecimiento; la sangre fluye al interior, como para
+ponen pálidas; viene un desvanecimiento; la sangre fluye al interior, como para
 
 nutrir al hombre interior mientras atraviesa su prueba. Pero vean a nuestro
 
-Salvador en Su agona; est tan completamente ajeno de s, que en vez de que Su
+Salvador en Su agonía; está tan completamente ajeno de sí, que en vez de que Su
 
-agona impulse Su sangre al corazn para alimentarlo, la impulsa fuera para
+agonía impulse Su sangre al corazón para alimentarlo, la impulsa fuera para
 
-regar la tierra. La agona de Cristo, en la medida que lo derrama a l sobre la
+regar la tierra. La agonía de Cristo, en la medida que lo derrama a Él sobre la
 
 tierra, prefigura la plenitud de la ofrenda que hizo por los hombres.
 
-No perciben, hermanos
+żNo perciben, hermanos
 
-mos, cun intensa debe de haber sido la lucha por la que pas, y no oyen Su
+míos, cuán intensa debe de haber sido la lucha por la que pasó, y no oyen Su
 
 voz
 
 para ustedes?
 
-An no habis
+“Aún no habéis
 
-resistido hasta la sangre, combatiendo contra el pecado. A algunos de nosotros
+resistido hasta la sangre, combatiendo contra el pecado”. A algunos de nosotros
 
-nos ha tocado experimentar severas tentaciones de otra manera no sabramos
+nos ha tocado experimentar severas tentaciones –de otra manera no sabríamos
 
-cmo ensear a otros- tan severas, que al luchar contra ellas ha brotado en
+cómo enseńar a otros- tan severas, que al luchar contra ellas ha brotado en
 
-nuestra frente un sudor pegajoso y fro.
+nuestra frente un sudor pegajoso y frío.
 
-Nunca olvidar aquel
+Nunca olvidaré aquel
 
-lugar: era un sitio solitario; all, meditando en mi Dios, una terrible rfaga
+lugar: era un sitio solitario; allí, meditando en mi Dios, una terrible ráfaga
 
-de blasfemia cubri mi alma, al punto que hubiera preferido la muerte a esa
+de blasfemia cubrió mi alma, al punto que hubiera preferido la muerte a esa
 
-prueba; y ca de rodillas al instante en el lugar, pues la agona era terrible,
+prueba; y caí de rodillas al instante en el lugar, pues la agonía era terrible,
 
 mientras llevaba mi mano a mi boca para impedir que dijera las blasfemias. Una
 
-vez que se le permite a Satans que los pruebe realmente con una tentacin a
+vez que se le permite a Satanás que los pruebe realmente con una tentación a
 
-blasfemar, nunca lo olvidarn, aunque vivan lo suficiente para que sus cabellos
+blasfemar, nunca lo olvidarán, aunque vivan lo suficiente para que sus cabellos
 
 se tornen blancos; o si le permiten que los ataque con alguna lascivia, aunque
 
 odien y desprecien su simple pensamiento, y prefirieran perder su brazo derecho
 
-antes que entregarse a ella, con todo, vendr, y los acosar, y los perseguir
+antes que entregarse a ella, con todo, vendrá, y los acosará, y los perseguirá
 
-y los atormentar. Luchen contra eso hasta sudar, hermanos mos, s, hasta
+y los atormentará. Luchen contra eso hasta sudar, hermanos míos, sí, hasta
 
-sudar sangre. Ninguno de ustedes debera decir: no pude evitarlo; fui
+sudar sangre. Ninguno de ustedes debería decir: “no pude evitarlo; fui
 
-tentado. Prefieran resistir hasta sudar sangre antes que pecar. No digan: me vi
+tentado”. Prefieran resistir hasta sudar sangre antes que pecar. No digan: “me vi
 
-tan presionado por eso, se adapt tanto a mi temperamento natural que no pude
+tan presionado por eso, se adaptó tanto a mi temperamento natural que no pude
 
-evitar caer en la tentacin. Miren al gran Apstol y Sumo Sacerdote de su
+evitar caer en la tentación”. Miren al gran Apóstol y Sumo Sacerdote de su
 
-profesin y suden mejor hasta la sangre en vez de ceder ante el gran tentador
+profesión y suden mejor hasta la sangre en vez de ceder ante el gran tentador
 
-de sus almas. Oren para no caer en tentacin, de manera que cuando entren en
+de sus almas. Oren para no caer en tentación, de manera que cuando entren en
 
-ella, puedan decir con confianza: Seor, yo no busqu esto, por tanto aydame
+ella, puedan decir con confianza: “Seńor, yo no busqué esto, por tanto ayúdame
 
-a vencerla, por causa de Tu nombre.
+a vencerla, por causa de Tu nombre”.
 
 IV.
 
@@ -988,7 +990,7 @@ En
 
 cuarto lugar, quiero que noten
 
-LA ORACIN
+LA ORACIÓN
 
 DEL
 
@@ -996,27 +998,27 @@ SALVADOR.
 
 Queridos amigos, cuando
 
-somos tentados y deseamos vencer, la mejor arma que tenemos es la oracin.
+somos tentados y deseamos vencer, la mejor arma que tenemos es la oración.
 
 Cuando no puedan usar la espada y el escudo, hagan uso de la famosa arma de
 
-Toda oracin. Eso hizo el Salvador de ustedes. Consideremos Su oracin.
+‘Toda oración’. Eso hizo el Salvador de ustedes. Consideremos Su oración.
 
-Fue una oracin solitaria.
+Fue una oración solitaria.
 
-Se apart
+Se apartó
 
 incluso de Sus tres mejores amigos a una distancia de un tiro de piedra.
 
-Creyente, especialmente en la tentacin, entrgate a mucha oracin solitaria.
+Creyente, especialmente en la tentación, entrégate a mucha oración solitaria.
 
-As como la oracin privada es la llave para abrir el cielo, es tambin la
+Así como la oración privada es la llave para abrir el cielo, es también la
 
-llave para cerrar las puertas del infierno. As como es un escudo para
+llave para cerrar las puertas del infierno. Así como es un escudo para
 
-proteger, es tambin la espada usada para luchar contra la tentacin. No
+proteger, es también la espada usada para luchar contra la tentación. No
 
-bastar la oracin familiar ni la oracin social ni la oracin en
+bastará la oración familiar ni la oración social ni la oración en
 
 la Iglesia
 
@@ -1024,351 +1026,351 @@ la Iglesia
 
 oraciones son muy valiosas, pero la mejor especia triturada ha de humear en tu
 
-incensario, en tus devociones privadas, donde ningn odo oye excepto Dios. Retrate
+incensario, en tus devociones privadas, donde ningún oído oye excepto Dios. Retírate
 
 a la soledad si quieres vencer.
 
-Observen, tambin, que
+Observen, también, que
 
 fue
 
-una oracin humilde.
+una oración humilde.
 
 Lucas dice
 
-que l se arrodill, pero otro evangelista nos informa que se postr rostro en
+que Él se arrodilló, pero otro evangelista nos informa que se postró rostro en
 
-tierra. Cmo!, acaso el Rey se postra rostro en tierra? Dnde, entonces,
+tierra. ˇCómo!, żacaso el Rey se postra rostro en tierra? żDónde, entonces,
 
-tiene que estar tu lugar, t que eres un humilde siervo del gran Maestro?
+tiene que estar tu lugar, tú que eres un humilde siervo del gran Maestro?
 
-Acaso cae de bruces al suelo? Dnde, entonces, te postrars t? Qu polvo y
+żAcaso cae de bruces al suelo? żDónde, entonces, te postrarás tú? żQué polvo y
 
-qu cenizas habrn de cubrir tu cabeza? Qu cilicio ceir tus lomos? La
+qué cenizas habrán de cubrir tu cabeza? żQué cilicio ceńirá tus lomos? La
 
-humildad nos proporciona un buen punto de apoyo en la oracin. No hay esperanza
+humildad nos proporciona un buen punto de apoyo en la oración. No hay esperanza
 
 de una prevalencia real con el Dios que abate al soberbio, a menos que nos
 
-humillemos para que l nos exalte a su debido tiempo.
+humillemos para que Él nos exalte a su debido tiempo.
 
-Adems, fue
+Además, fue
 
-una oracin filial.
+una oración filial.
 
 Mateo lo describe
 
-diciendo: Padre mo, y Marcos dice: Abba, Padre. Encontrarn que argumentar
+diciendo: “Padre mío”, y Marcos dice: “Abba, Padre”. Encontrarán que argumentar
 
-la adopcin es siempre una fortaleza en el da de la tribulacin. De ah que la
+la adopción es siempre una fortaleza en el día de la tribulación. De ahí que la
 
-oracin en la que escrito est: No nos metas en tentacin, mas lbranos del
+oración en la que escrito está: “No nos metas en tentación, mas líbranos del
 
-mal, comience con: Padre nuestro que ests en los cielos. Supliquen como un
+mal”, comience con: “Padre nuestro que estás en los cielos”. Supliquen como un
 
-nio. Ustedes no tienen ningn derecho como
+nińo. Ustedes no tienen ningún derecho como
 
-sbditos
+súbditos
 
 ;
 
-perdieron todo derecho por su traicin, pero nada puede justificar que un nio
+perdieron todo derecho por su traición, pero nada puede justificar que un nińo
 
-pierda el derecho a la proteccin de un padre. Entonces no se avergencen de
+pierda el derecho a la protección de un padre. Entonces no se avergüencen de
 
-decir: Padre mo, escucha mi clamor.
+decir: “Padre mío, escucha mi clamor”.
 
-Adems, observen que fue
+Además, observen que fue
 
 una
 
-oracin perseverante.
+oración perseverante.
 
-l or tres
+Él oró tres
 
 veces usando las mismas palabras. No se contenten hasta que prevalezcan. Sean
 
 como la viuda importuna, cuyas continuas visitas lograron lo que su primera
 
-peticin no pudo conseguir. Perseveren en la oracin, velando en ella con
+petición no pudo conseguir. Perseveren en la oración, velando en ella con
 
-accin de gracias.
+acción de gracias.
 
 Adicionalmente, vemos
 
-cmo arda hasta ponerse al rojo vivo:
+cómo ardía hasta ponerse al rojo vivo:
 
 fue
 
-una oracin intensa.
+una oración intensa.
 
-Oraba ms intensamente. Qu gemidos emiti Cristo!
+“Oraba más intensamente”. ˇQué gemidos emitió Cristo!
 
-Qu lgrimas brotaron de esas profundas fuentes de Su naturaleza! Eleven una
+ˇQué lágrimas brotaron de esas profundas fuentes de Su naturaleza! Eleven una
 
-intensa suplicacin si quieren prevalecer contra el adversario.
+intensa suplicación si quieren prevalecer contra el adversario.
 
-Y, por ltimo,
+Y, por último,
 
-fue una oracin de resignacin.
+fue una oración de resignación.
 
-Pero no
+“Pero no
 
-sea como yo quiero, sino como t. Cedan ustedes, y Dios ceder. Que sea como
+sea como yo quiero, sino como tú”. Cedan ustedes, y Dios cederá. Que sea como
 
-Dios quiera, y Dios querr lo que sea para lo mejor. Estn ustedes
+Dios quiera, y Dios querrá lo que sea para lo mejor. Estén ustedes
 
-perfectamente contentos de dejar el resultado de su oracin en las manos de
+perfectamente contentos de dejar el resultado de su oración en las manos de
 
-Aquel que sabe cundo dar y cmo dar y qu dar y qu retener. As que prevalecern
+Aquel que sabe cuándo dar y cómo dar y qué dar y qué retener. Así que prevalecerán
 
 si suplican intensa e importunamente, mezclando en
 
 todo
 
-humildad y resignacin.
+humildad y resignación.
 
 Queridos amigos, tenemos
 
-que concluir. Prosigamos al ltimo punto con esta leccin prctica:
+que concluir. Prosigamos al último punto con esta lección práctica:
 
-Levantaos, y orad.
+“Levantaos, y orad”.
 
 Cuando los
 
-discpulos estaban acostados, se quedaron dormidos; sentarse es tambin una
+discípulos estaban acostados, se quedaron dormidos; sentarse es también una
 
-postura ideal para dormir. Levntense; sacdanse; pnganse de pie en el nombre
+postura ideal para dormir. Levántense; sacúdanse; pónganse de pie en el nombre
 
-de Dios; levntense y oren. Y si estn en tentacin, sean ms insistentes,
+de Dios; levántense y oren. Y si están en tentación, sean más insistentes,
 
-apasionados e importunos con Dios de lo que hubieran sido jams en su vida,
+apasionados e importunos con Dios de lo que hubieran sido jamás en su vida,
 
-para que l los libre en el da del conflicto.
+para que Él los libre en el día del conflicto.
 
 V.
 
 Como
 
-el tiempo se nos ha terminado, concluimos con el ltimo punto, que es, EL
+el tiempo se nos ha terminado, concluimos con el último punto, que es, EL
 
 PREDOMINIO DEL SALVADOR.
 
 La nube ha pasado.
 
-Cristo estuvo de rodillas y la oracin concluy. Pero dir alguien- acaso
+Cristo estuvo de rodillas y la oración concluyó. “Pero” –dirá alguien- “żacaso
 
-Cristo prevaleci en la oracin? Amados, podramos tener alguna esperanza de
+Cristo prevaleció en la oración?” Amados, żpodríamos tener alguna esperanza de
 
-que prevalezca en el cielo si no hubiera prevalecido en la tierra? Si Su
+que prevalezca en el cielo si no hubiera prevalecido en la tierra? żSi Su
 
-amargo llanto y Sus lgrimas no hubieron sido odos
+amargo llanto y Sus lágrimas no hubieron sido oídos
 
 entonces,
 
-no sospecharamos que fallara
+no sospecharíamos que fallaría
 
 ahora?
 
-Debido a que Sus oraciones prevalecieron, l es un buen
+Debido a que Sus oraciones prevalecieron, Él es un buen
 
-intercesor nuestro. Cmo fue odo? La respuesta ciertamente ser dada en breve.
+intercesor nuestro. “żCómo fue oído?” La respuesta ciertamente será dada en breve.
 
-Fue odo, pienso, en tres sentidos. La primera respuesta positiva que fue dada
+Fue oído, pienso, en tres sentidos. La primera respuesta positiva que fue dada
 
 es
 
-que Su mente qued apaciguada de
+que Su mente quedó apaciguada de
 
 repente.
 
-Qu gran diferencia hay entre Mi alma est muy triste, (Su
+Qué gran diferencia hay entre “Mi alma está muy triste”, (Su
 
-premura yendo de un lado a otro, la triple repeticin de Su oracin, la singular
+premura yendo de un lado a otro, la triple repetición de Su oración, la singular
 
-agitacin que le sobrevino) qu contraste entre todo eso y Su ir al encuentro del
+agitación que le sobrevino) qué contraste entre todo eso y Su ir al encuentro del
 
-traidor dicindole: Con un beso entregas al Hijo del Hombre? Antes, era semejante
+traidor diciéndole: “żCon un beso entregas al Hijo del Hombre?” Antes, era semejante
 
-a un mar embravecido, y ahora, estaba tan tranquilo como cuando l mismo dijo:
+a un mar embravecido, y ahora, estaba tan tranquilo como cuando Él mismo dijo:
 
-Calla, enmudece, y las olas se aquietaron. No se puede conocer una paz ms
+“Calla, enmudece”, y las olas se aquietaron. No se puede conocer una paz más
 
-profunda que la que rein en el Salvador cuando estando delante de Pilato no le
+profunda que la que reinó en el Salvador cuando estando delante de Pilato no le
 
-respondi palabra. Est tranquilo hasta el final, tan calmado como si fuese Su
+respondió palabra. Está tranquilo hasta el final, tan calmado como si fuese Su
 
-da de triunfo ms bien que Su da de tribulacin. Ahora bien, yo creo que esto
+día de triunfo más bien que Su día de tribulación. Ahora bien, yo creo que esto
 
-le fue concedido en respuesta a Su oracin. Tal vez experimentaba sufrimientos
+le fue concedido en respuesta a Su oración. Tal vez experimentaba sufrimientos
 
-ms intensos, pero Su mente estaba apaciguada entonces como para enfrentarlos
+más intensos, pero Su mente estaba apaciguada entonces como para enfrentarlos
 
-con mayor determinacin.
+con mayor determinación.
 
 Hay algunos hombres que
 
-cuando oyen por primera vez los disparos en una batalla estn trepidantes, pero
+cuando oyen por primera vez los disparos en una batalla están trepidantes, pero
 
 conforme la batalla crece y el peligro aumenta, se tranquilizan y tienen
 
-nuevamente dominio de s; a pesar de que puedan estar heridos, desangrndose o
+nuevamente dominio de sí; a pesar de que puedan estar heridos, desangrándose o
 
-murindose, estn tan tranquilos como una noche de verano; la primera oleada de
+muriéndose, están tan tranquilos como una noche de verano; la primera oleada de
 
-problemas desaparece, y pueden enfrentar al enemigo en paz. As el Padre oy el
+problemas desaparece, y pueden enfrentar al enemigo en paz. Así el Padre oyó el
 
-clamor del Salvador, e infundi una paz tan profunda en Su alma, que fue como
+clamor del Salvador, e infundió una paz tan profunda en Su alma, que fue como
 
-un ro, y Su justicia como las olas del mar.
+un río, y Su justicia como las olas del mar.
 
-A continuacin, nosotros
+A continuación, nosotros
 
-creemos que recibi respuesta de Dios,
+creemos que recibió respuesta de Dios,
 
 ya
 
-que fue fortalecido por medio de un ngel.
+que fue fortalecido por medio de un ángel.
 
-Cmo se llev a cabo eso, no lo
+Cómo se llevó a cabo eso, no lo
 
-sabemos. Probablemente fue por lo que el ngel le dijo, o probablemente fue por
+sabemos. Probablemente fue por lo que el ángel le dijo, o probablemente fue por
 
-lo que hizo. El ngel pudo haber susurrado las promesas o pudo haber representado
+lo que hizo. El ángel pudo haber susurrado las promesas o pudo haber representado
 
-ante el ojo de Su mente la gloria de Su xito; pudo haber bosquejado Su
+ante el ojo de Su mente la gloria de Su éxito; pudo haber bosquejado Su
 
-resurreccin; pudo haber retratado la escena cuando Sus ngeles le traeran Sus
+resurrección; pudo haber retratado la escena cuando Sus ángeles le traerían Sus
 
-carros desde lo alto para llevarlo a Su trono; pudo haber revivido ante l el
+carros desde lo alto para llevarlo a Su trono; pudo haber revivido ante Él el
 
-recuerdo del tiempo de Su advenimiento, el porvenir, cuando dominar de mar a
+recuerdo del tiempo de Su advenimiento, el porvenir, cuando dominará de mar a
 
-mar y desde el ro hasta los confines de la tierra, y as lo habra
+mar y desde el río hasta los confines de la tierra, y así lo habría
 
-fortalecido. O, quizs, por algn mtodo desconocido, Dios envi tal poder a
+fortalecido. O, quizás, por algún método desconocido, Dios envió tal poder a
 
-nuestro Cristo -que haba sido como Sansn con sus guedejas rapadas- que
+nuestro Cristo -que había sido como Sansón con sus guedejas rapadas- que
 
-recibi de repente toda la fortaleza y la majestuosa energa requeridas para la
+recibió de repente toda la fortaleza y la majestuosa energía requeridas para la
 
-terrible lucha. Entonces sali del huerto sin decir ms: yo soy gusano y no
+terrible lucha. Entonces salió del huerto sin decir más: ‘yo soy gusano y no
 
-hombre, sino fortalecido con un poder invisible que lo hizo un digno
+hombre’, sino fortalecido con un poder invisible que lo hizo un digno
 
-contendiente para enfrentar a todos los ejrcitos que le rodeaban. Un ejrcito
+contendiente para enfrentar a todos los ejércitos que le rodeaban. Un ejército
 
-lo haba acometido, como a Gad en la antigedad,
+lo había acometido, como a Gad en la antigüedad,
 
 mas
 
-l acometi al fin. Ahora poda irrumpir en medio de una tropa; poda saltar un
+Él acometió al fin. Ahora podía irrumpir en medio de una tropa; podía saltar un
 
-muro. Dios haba enviado una fuerza de lo alto por medio de Su ngel, y haba
+muro. Dios había enviado una fuerza de lo alto por medio de Su ángel, y había
 
 fortalecido al hombre Cristo para la batalla y para la victoria.
 
 Y creo que podemos
 
-concluir diciendo que Dios lo oy al concederle entonces, no fuerza
+concluir diciendo que Dios lo oyó al concederle entonces, no fuerza
 
 simplemente,
 
 sino una real victoria sobre
 
-Satn.
+Satán.
 
-Yo no s si lo que Adam Clarke supone es lo correcto, es decir, que
+Yo no sé si lo que Adam Clarke supone es lo correcto, es decir, que
 
-en el huerto Cristo pag ms del precio de lo que pag incluso en la cruz, pero
+en el huerto Cristo pagó más del precio de lo que pagó incluso en la cruz, pero
 
 yo estoy muy convencido que son insensatos los que se meten en tal refinamiento
 
-que piensan que la expiacin fue realizada en la cruz, y nicamente ah.
+que piensan que la expiación fue realizada en la cruz, y únicamente ahí.
 
-Nosotros creemos que se realiz en el huerto as como tambin en la cruz; y me
+Nosotros creemos que se realizó en el huerto así como también en la cruz; y me
 
 parece que en el huerto fue consumada una parte de la obra de Cristo,
 
-completamente consumada, y ese fue Su conflicto con Satn. Yo concibo que
+completamente consumada, y ese fue Su conflicto con Satán. Yo concibo que
 
 Cristo
 
 tuvo
 
-que experimentar ms bien entonces la
+que experimentar más bien entonces la
 
 ausencia de la presencia de Su Padre y los ultrajes del pueblo y de los hijos
 
 de los hombres, que las tentaciones del demonio. Pienso en verdad que esas
 
-tentaciones terminaron cuando se levant despus de estar de rodillas en
+tentaciones terminaron cuando se levantó después de estar de rodillas en
 
-oracin, cuando se levant del suelo donde calc su semblante en la arcilla con
+oración, cuando se levantó del suelo donde calcó su semblante en la arcilla con
 
-gotas de sangre. La tentacin de Satans haba terminado entonces, y podra
+gotas de sangre. La tentación de Satanás había terminado entonces, y podría
 
-haber dicho respecto a esa parte de la obra: Consumado es; la cabeza del
+haber dicho respecto a esa parte de la obra: “Consumado es; la cabeza del
 
-dragn ha sido triturada; lo he vencido. Tal vez, en esas pocas horas que
+dragón ha sido triturada; lo he vencido”. Tal vez, en esas pocas horas que
 
-Cristo pas en el huerto, se concentr y se disip toda la energa de los
+Cristo pasó en el huerto, se concentró y se disipó toda la energía de los
 
 agentes de la iniquidad. Tal vez, en ese conflicto, todo lo que la astucia
 
-poda inventar, todo lo que la malicia poda idear, todo lo que la prctica
+podía inventar, todo lo que la malicia podía idear, todo lo que la práctica
 
-infernal poda sugerir, fue probado en Cristo, -estando el diablo libre de sus
+infernal podía sugerir, fue probado en Cristo, -estando el diablo libre de sus
 
-cadenas para ese propsito- ya que Cristo haba sido entregado a l, como lo
+cadenas para ese propósito- ya que Cristo había sido entregado a él, como lo
 
-fue Job, para que pudiera tocarlo en Sus huesos y en Su carne, s, tocarlo en
+fue Job, para que pudiera tocarlo en Sus huesos y en Su carne, sí, tocarlo en
 
-Su corazn y en Su alma y vejarlo en Su espritu. Pudiera ser que cada demonio
+Su corazón y en Su alma y vejarlo en Su espíritu. Pudiera ser que cada demonio
 
 en el infierno y cada diablo del abismo hubieran sido convocados, cada uno para
 
-dar paso a su propio rencor y para derramar conjuntamente su energa y su
+dar paso a su propio rencor y para derramar conjuntamente su energía y su
 
-malicia sobre la cabeza de Cristo. Y all estaba l, y podra haber dicho al
+malicia sobre la cabeza de Cristo. Y allí estaba Él, y podría haber dicho al
 
-ponerse de pie para enfrentar al siguiente adversario un demonio en forma de
+ponerse de pie para enfrentar al siguiente adversario –un demonio en forma de
 
-hombre- Judas, Vengo en este da de Bosra, con vestidos rojos, de Edom; he
+hombre- Judas, “Vengo en este día de Bosra, con vestidos rojos, de Edom; he
 
-hollado a mis enemigos, y los venc de una vez por todas; ahora voy a cargar
+hollado a mis enemigos, y los vencí de una vez por todas; ahora voy a cargar
 
 con el pecado del hombre y con la ira de mi Padre, y voy a completar la obra
 
-que me ha encomendado. Si as fuera, entonces, Cristo fue odo a causa de Su
+que me ha encomendado”. Si así fuera, entonces, ‘Cristo fue oído a causa de Su
 
-temor reverente. l tema la tentacin de Satans y fue librado de ella; tema
+temor reverente’. Él temía la tentación de Satanás y fue librado de ella; temía
 
-Su propia debilidad y fue fortalecido; tema Su propia trepidacin mental y fue
+Su propia debilidad y fue fortalecido; temía Su propia trepidación mental y fue
 
 apaciguado.
 
-Qu diremos, entonces,
+Qué diremos, entonces,
 
-en conclusin, sino esta leccin: No dice: Todo lo que pidiereis en oracin,
+en conclusión, sino esta lección: żNo dice: “Todo lo que pidiereis en oración,
 
-creyendo, lo recibiris? Entonces si sus tentaciones alcanzan la altura y la
+creyendo, lo recibiréis”? Entonces si sus tentaciones alcanzan la altura y la
 
-fuerza ms tremendas, aun as afrrense a Dios en oracin y prevalecern.
+fuerza más tremendas, aun así aférrense a Dios en oración y prevalecerán.
 
-Pecador convicto, este es un consuelo para ti! Santo atribulado, esta es una
+ˇPecador convicto, este es un consuelo para ti! ˇSanto atribulado, esta es una
 
-dicha para ti! La leccin de esta maana es para todos y para cada uno de
+dicha para ti! La lección de esta mańana es para todos y para cada uno de
 
-nosotros: Orad, para que no entris en tentacin. Si estamos en tentacin,
+nosotros: “Orad, para que no entréis en tentación”. Si estamos en tentación,
 
 hemos de pedir que Cristo ore por nosotros para que nuestra fe no falle, y
 
 cuando hayamos superado el problema, tratemos de fortalecer a nuestros
 
-hermanos, tal como Cristo nos ha fortalecido en este da.
+hermanos, tal como Cristo nos ha fortalecido en este día.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 29/Febrero/2012
 

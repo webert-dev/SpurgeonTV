@@ -1,14 +1,14 @@
 # Sermón 1061 | Sermón 1061
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Rahab
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -16,21 +16,21 @@ DOMINGO 21 DE JULIO
 
 DE 1872
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Por la fe
+“Por la fe
 
-Rahab la ramera no pereci juntamente con los desobedientes, habiendo recibido
+Rahab la ramera no pereció juntamente con los desobedientes, habiendo recibido
 
-a los espas en paz. Hebreos 11: 31
+a los espías en paz”. Hebreos 11: 31
 
-Asimismo
+“Asimismo
 
-tambin Rahab la ramera, no fue justificada por obras, cuando recibi a los
+también Rahab la ramera, żno fue justificada por obras, cuando recibió a los
 
-mensajeros y los envi por otro camino? Santiago 2: 25.
+mensajeros y los envió por otro camino? Santiago 2: 25.
 
 Estos son dos extractos
 
@@ -38,113 +38,113 @@ del Nuevo Testamento sobre la vida de Rahab, y ambos son igualmente honrosos
 
 para ella. Pablo la clasifica entre las personas ilustres que por fe obraron
 
-prodigios. El captulo once de
+prodigios. El capítulo once de
 
 Hebreos
 
 es un arco
 
-triunfal para los soldados de la fe, y entre los ilustres nombres all
+triunfal para los soldados de la fe, y entre los ilustres nombres allí
 
-inscritos se encuentra el de esta ramera de Jeric. Sin embargo, ese hecho no
+inscritos se encuentra el de esta ramera de Jericó. Sin embargo, ese hecho no
 
 nos sorprende mucho pues, evidentemente, ella fue un ejemplo de gran fe; pero
 
-s estamos un poco sorprendidos, as lo creo, al ver que su nombre haya sido
+sí estamos un poco sorprendidos, así lo creo, al ver que su nombre haya sido
 
-registrado por Santiago, porque se trata de un escritor eminentemente prctico
+registrado por Santiago, porque se trata de un escritor eminentemente práctico
 
-que escribi sobre buenas obras ms que sobre la fe. Su objetivo es mostrar que
+que escribió sobre buenas obras más que sobre la fe. Su objetivo es mostrar que
 
 la fe que justifica al alma es una fe que produce buenas obras, y por ello nos
 
-da ejemplos del servicio santo para Dios. No hubiramos esperado que escogiera
+da ejemplos del servicio santo para Dios. No hubiéramos esperado que escogiera
 
-a Rahab, pero lo hizo, y eso es an ms notable porque la nica otra persona
+a Rahab, pero lo hizo, y eso es aún más notable porque la única otra persona
 
 que Santiago menciona es Abraham: Abraham el Padre de los Fieles, el Amigo de
 
-Dios, un varn perfecto y recto. Santiago cita a Abraham como representante de
+Dios, un varón perfecto y recto. Santiago cita a Abraham como representante de
 
 uno de los sexos, y a Rahab la ramera como representante del otro. No me cabe
 
-la menor duda de que Santiago saba lo que haca y que la inspiracin que lo
+la menor duda de que Santiago sabía lo que hacía y que la inspiración que lo
 
 guiaba era infalible. Posiblemente Rahab fuera escogida para representar a los
 
 gentiles en contraste con el fundador de Israel, que apropiadamente
 
-representaba a los judos. A la vez que Abraham posey una fe que se
+representaba a los judíos. A la vez que Abraham poseyó una fe que se
 
-manifestaba en obras, Rahab tambin la posey, la hija de los gentiles, la descendiente
+manifestaba en obras, Rahab también la poseyó, la hija de los gentiles, la descendiente
 
-de una raza condenada a la destruccin, una gentil de gentiles. Y posiblemente
+de una raza condenada a la destrucción, una gentil de gentiles. Y posiblemente
 
-otra razn para mencionarla pudiera haber sido esta: que as como Abraham
+otra razón para mencionarla pudiera haber sido esta: que así como Abraham
 
-renunci a su propia parentela al llamado de Dios y sali de Ur de los caldeos,
+renunció a su propia parentela al llamado de Dios y salió de Ur de los caldeos,
 
-siendo apartado para el Altsimo, as tambin esta mujer dej todas sus asociaciones
+siendo apartado para el Altísimo, así también esta mujer dejó todas sus asociaciones
 
-con Jeric, renunci prcticamente a su nacionalidad, y abandon su pas dejndolo
+con Jericó, renunció prácticamente a su nacionalidad, y abandonó su país dejándolo
 
-a su destino y a su ruina, a la vez que tom su parte con Israel para ser partcipe
+a su destino y a su ruina, a la vez que tomó su parte con Israel para ser partícipe
 
 con el pueblo de Dios de la herencia prometida. Entonces, no es un
 
 insignificante honor para esta notable mujer que su nombre haya quedado
 
-registrado, no nicamente entre los nombres de los hroes de la fe, sino que
+registrado, no únicamente entre los nombres de los héroes de la fe, sino que
 
-haya sido seleccionada por el gran apstol prctico, como uno de los dos
+haya sido seleccionada por el gran apóstol práctico, como uno de los dos
 
 notables ejemplos de las obras que resultan de la fe.
 
 Consideremos su fe y su
 
-carcter an con mayor atencin debido a esta elevada posicin que el Espritu
+carácter aún con mayor atención debido a esta elevada posición que el Espíritu
 
 Santo le ha concedido. Con base en el encomio de Pablo y en la loa de Santiago,
 
-respaldados como ambos estaban por el testimonio del Espritu de Dios, el
+respaldados como ambos estaban por el testimonio del Espíritu de Dios, el
 
-carcter de esta mujer es muy digno de una atenta consideracin. Que el
+carácter de esta mujer es muy digno de una atenta consideración. Que el
 
-Espritu de Dios bendiga nuestra meditacin para provecho nuestro.
+Espíritu de Dios bendiga nuestra meditación para provecho nuestro.
 
 I.
 
 Nuestra
 
-primera observacin sobre Rahab es que posea una SINGULAR FE. Esto se har
+primera observación sobre Rahab es que poseía una SINGULAR FE. Esto se hará
 
 evidente si reflexionamos que ella
 
 no
 
-recibi ninguna instruccin de sus padres.
+recibió ninguna instrucción de sus padres.
 
-La membresa por derecho de
+La membresía por derecho de
 
 nacimiento no era una posibilidad a considerar en el caso de Rahab. Sus padres
 
-provenan de la raza condenada de los cananeos. Ellos mismos no tenan ninguna
+provenían de la raza condenada de los cananeos. Ellos mismos no tenían ninguna
 
-fe en Dios, y, por tanto, no podan inculcrsela. Rahab no se convirti en una
+fe en Dios, y, por tanto, no podían inculcársela. Rahab no se convirtió en una
 
-adoradora de Jehov porque la familia lo hubiese sido siempre. No posean
+adoradora de Jehová porque la familia lo hubiese sido siempre. No poseían
 
-ningn reclinatorio familiar en el santuario, no disponan en su hogar de ningn
+ningún reclinatorio familiar en el santuario, no disponían en su hogar de ningún
 
-aposento para el profeta, no contaban con ningn nombre que figurara entre el
+aposento para el profeta, no contaban con ningún nombre que figurara entre el
 
-pueblo del Seor. Ella era la primera y la nica de su raza que fue llamada por
+pueblo del Seńor. Ella era la primera y la única de su raza que fue llamada por
 
-gracia. Dios la haba escogido como una de la familia por Su amor electivo, y
+gracia. Dios la había escogido como “una de la familia” por Su amor electivo, y
 
 aunque es de esperarse que la gracia haya continuado en la familia por muchas
 
-generaciones, con todo, antes que nada entr en esa familia por Rahab. Ahora
+generaciones, con todo, antes que nada entró en esa familia por Rahab. Ahora
 
 bien, aunque yo creo que en muchos sentidos es igualmente para la gloria de
 
@@ -152,135 +152,135 @@ Dios, a nosotros no nos asombra tanto cuando vemos que los hijos de padres
 
 piadosos se convierten en creyentes en Cristo, pues recordamos las muchas
 
-oraciones que ofrecieron por ellos, toda la instruccin que recibieron, las
+oraciones que ofrecieron por ellos, toda la instrucción que recibieron, las
 
 amonestaciones afectuosas que oyeron, y, sobre todo, los piadosos ejemplos que
 
 vieron; no nos asombra tanto, aunque, ciertamente, aun en ese caso igual que en
 
-cualquier otro, se trata de una obra del Espritu de Dios, si la conversin es
+cualquier otro, se trata de una obra del Espíritu de Dios, si la conversión es
 
 genuina; pero, en verdad, cuando vemos surgir a alguien de una familia en la
 
-que ninguna verdadera religin haba sido vista antes, nos maravillamos y no
+que ninguna verdadera religión había sido vista antes, nos maravillamos y no
 
-podemos evitarlo. All vemos nosotros una palmera sola en el desierto, una vida
+podemos evitarlo. Allí vemos nosotros una palmera sola en el desierto, una vida
 
-solitaria entre las tumbas. Como algunos de ustedes saben, estar en la posicin
+solitaria entre las tumbas. Como algunos de ustedes saben, estar en la posición
 
 de un solitario testigo de Dios en una familia es una lucha. Cuando en mis
 
-entrevistas con los buscadores tengo que hablar con jvenes que son los nicos
+entrevistas con los buscadores tengo que hablar con jóvenes que son los únicos
 
-miembros de la familia que asisten a la casa de Dios, los nicos que pretenden
+miembros de la familia que asisten a la casa de Dios, los únicos que pretenden
 
-llevar una vida de piedad, siento una gran simpata por ellos porque s que
+llevar una vida de piedad, siento una gran simpatía por ellos porque sé que
 
-tendrn que aguantar muchas cosas, y tendrn que cargar con una pesada cruz.
+tendrán que aguantar muchas cosas, y tendrán que cargar con una pesada cruz.
 
-Tales convertidos no son plantas que estn protegidas en un invernadero, sino
+Tales convertidos no son plantas que están protegidas en un invernadero, sino
 
-flores expuestas al fro del invierno; sin embargo, es correcto agregar que he observado
+flores expuestas al frío del invierno; sin embargo, es correcto agregar que he observado
 
-a menudo que ellos han llegado a figurar entre los ms fuertes y decididos
+a menudo que ellos han llegado a figurar entre los más fuertes y decididos
 
-cristianos con los que me haya encontrado jams. Asimismo Rahab, aunque su fe fuera
+cristianos con los que me haya encontrado jamás. Asimismo Rahab, aunque su fe fuera
 
 solitaria y fuera como un lirio entre las espinas, con todo, no era menos
 
-fuerte sino, tal vez, mucho ms firme.
+fuerte sino, tal vez, mucho más firme.
 
-Adems, piensen que su
+Además, piensen que su
 
 fe era singular porque ella
 
-no resida en
+no residía en
 
-un pas creyente.
+un país creyente.
 
-No slo no contaba
+No sólo no contaba
 
-con nadie en casa que se identificara con ella, sino que tampoco tena a
+con nadie en casa que se identificara con ella, sino que tampoco tenía a
 
-alguien en toda la ciudad de Jeric pues hasta donde sabemos ella era la nica
+alguien en toda la ciudad de Jericó pues hasta donde sabemos ella era la única
 
-creyente en Jehov. Es vlido concluir que si hubiese habido otros creyentes all,
+creyente en Jehová. Es válido concluir que si hubiese habido otros creyentes allí,
 
-la ciudad habra sido perdonada por causa de los diez justos o se habran
+la ciudad habría sido perdonada por causa de los diez justos o se habrían
 
-encontrado otros medios para su preservacin. Pero Rahab era la nica creyente
+encontrado otros medios para su preservación. Pero Rahab era la única creyente
 
-en Jeric. Si hubiramos podido gozar de una perspectiva a vuelo de pjaro de
+en Jericó. Si hubiéramos podido gozar de una perspectiva a vuelo de pájaro de
 
-la ciudad de Jeric, y si nos hubieran informado que haba una creyente all,
+la ciudad de Jericó, y si nos hubieran informado que había una creyente allí,
 
-les garantizo que no habramos visto la casa de Rahab. Ella hubiera sido casi
+les garantizo que no habríamos visto la casa de Rahab. Ella hubiera sido casi
 
-la ltima persona que hubiramos supuesto que fuera poseedora de una fe en el
+la última persona que hubiéramos supuesto que fuera poseedora de una fe en el
 
-verdadero Dios. Dios tiene un pueblo donde menos lo imaginaramos, y l tiene
+verdadero Dios. Dios tiene un pueblo donde menos lo imaginaríamos, y Él tiene
 
-elegidos entre una clase de personas de quienes no nos atreveramos a tener
+elegidos entre una clase de personas de quienes no nos atreveríamos a tener
 
-esperanzas. Quin pensara que la gracia pudiera crecer en el corazn de una
+esperanzas. żQuién pensaría que la gracia pudiera crecer en el corazón de una
 
-mujer que tena el apelativo de ramera, como si su pecado fuera conocido abiertamente
+mujer que tenía el apelativo de ramera, como si su pecado fuera conocido abiertamente
 
-por todos? Sin embargo, en verdad creci all, como una bella flor que florece
+por todos? Sin embargo, en verdad creció allí, como una bella flor que florece
 
 en un muladar, o una estrella brillante que reluce en la frente de la noche.
 
-All creci su fe y dio gloria a Dios. Yo no s cul dios era adorado en
+Allí creció su fe y dio gloria a Dios. Yo no sé cuál dios era adorado en
 
-Jeric, pero la ciudad entera estaba llena de idolatra y slo Rahab tena su
+Jericó, pero la ciudad entera estaba llena de idolatría y sólo Rahab tenía su
 
 mirada puesta en el Dios viviente. Toda la ciudad estaba llena de inmundicia
 
 pero, a pesar de haber sido una mujer mala, la fe de Rahab debe de haberla
 
-conducido a aborrecer el pecado. Jeric era vecina de Sodoma, no slo en cuanto
+conducido a aborrecer el pecado. Jericó era vecina de Sodoma, no sólo en cuanto
 
-a su localizacin geogrfica, sino en cuanto a su condicin, y por mala que
+a su localización geográfica, sino en cuanto a su condición, y por mala que
 
 hubiese sido esta mujer, es probable que su pecado se contara entre las ofensas
 
-ms insignificantes practicadas all. Es una vergenza hablar siquiera de los
+más insignificantes practicadas allí. Es una vergüenza hablar siquiera de los
 
-aborrecibles crmenes que manchaban a Jeric. Cuando fue rescatada por la
+aborrecibles crímenes que manchaban a Jericó. Cuando fue rescatada por la
 
-gracia soberana, Rahab debe de haberse sentido tan sola en Jeric como Lot se haba
+gracia soberana, Rahab debe de haberse sentido tan sola en Jericó como Lot se había
 
-sentido solo en Sodoma. Ella era la nica creyente en medio de una generacin
+sentido solo en Sodoma. Ella era la única creyente en medio de una generación
 
-idlatra y depravada.
+idólatra y depravada.
 
-Queridos amigos, no
+Queridos amigos, żno
 
-podemos guardar esperanzas de que de los ms bajos estratos de nuestra vasta
+podemos guardar esperanzas de que de los más bajos estratos de nuestra vasta
 
-ciudad salgan otras Rahabs? Por qu no podra haber una Rahab en Haymarket as
+ciudad salgan otras Rahabs? żPor qué no podría haber una Rahab en Haymarket así
 
-como la hubo en Jeric? Acaso no podemos confiar en que entre aquellos que han
+como la hubo en Jericó? żAcaso no podemos confiar en que entre aquellos que han
 
-estado en nuestras prisiones surjan creyentes en el Seor Dios de Israel? No
+estado en nuestras prisiones surjan creyentes en el Seńor Dios de Israel? żNo
 
-podramos esperar incluso que la fama del Evangelio sea transportada a travs
+podríamos esperar incluso que la fama del Evangelio sea transportada a través
 
-del rumor a ciudades que no han sido visitadas por misioneros, y que, por aqu
+del rumor a ciudades que no han sido visitadas por misioneros, y que, por aquí
 
-y por all, en ciudades desconocidas, algunas Rahabs pudieran estar buscando al
+y por allá, en ciudades desconocidas, algunas Rahabs pudieran estar buscando al
 
-Seor? No se podra saber lo que la gracia est haciendo silenciosamente a lo
+Seńor? No se podría saber lo que la gracia esté haciendo silenciosamente a lo
 
 largo del mundo para entresacar a algunas personas, individualmente o en pares,
 
-que han sido elegidas por Dios. Israel no soaba con encontrar a un aliado
+que han sido elegidas por Dios. Israel no sońaba con encontrar a un aliado
 
-dentro de los muros de su enemigo, y sin embargo, el Seor quiso que fuera as,
+dentro de los muros de su enemigo, y sin embargo, el Seńor quiso que fuera así,
 
-y as fue.
+y así fue.
 
-Recuerden, tambin, que
+Recuerden, también, que
 
 la fe de Rahab fue notable porque
 
@@ -290,249 +290,249 @@ fuentes de conocimiento eran muy inadecuadas,
 
 y, por tanto, el alimento de
 
-su fe era comparativamente insuficiente. Ella no poda leer ningn libro
+su fe era comparativamente insuficiente. Ella no podía leer ningún libro
 
-inspirado por Dios. No haba sido instruida por ningn profeta.
+inspirado por Dios. No había sido instruida por ningún profeta.
 
-Ningn
+Ningún
 
-Elas le haba hablado en el nombre de Dios. Ningn
+Elías le había hablado en el nombre de Dios. Ningún
 
-Jons haba recorrido las calles de su ciudad advirtindoles a los ciudadanos que
+Jonás había recorrido las calles de su ciudad advirtiéndoles a los ciudadanos que
 
-se arrepintieran. Toda la informacin que Rahab posea la haba conseguido a
+se arrepintieran. Toda la información que Rahab poseía la había conseguido a
 
-retazos. Ella haba juntado los comentarios recogidos en la plaza del mercado, las
+retazos. Ella había juntado los comentarios recogidos en la plaza del mercado, las
 
-plticas que tenan lugar junto al pozo y los rumores que circulaban afuera de
+pláticas que tenían lugar junto al pozo y los rumores que circulaban afuera de
 
-las puertas de la ciudad, y haba concluido que una nacin haba salido de
+las puertas de la ciudad, y había concluido que una nación había salido de
 
-Egipto y que por causa de esa nacin, su Dios, Jehov, haba destruido al rey
+Egipto y que por causa de esa nación, su Dios, Jehová, había destruido al rey
 
-egipcio en el Mar Rojo; que Sen, rey de los amorreos, y Og, rey de Basn,
+egipcio en el Mar Rojo; que Seón, rey de los amorreos, y Og, rey de Basán,
 
-haban sido vencidos en batalla por este pueblo; y que era cierto que estaban
+habían sido vencidos en batalla por este pueblo; y que era cierto que estaban
 
-en camino para tomar a toda Palestina para ellos porque su Dios se las haba
+en camino para tomar a toda Palestina para ellos porque su Dios se las había
 
-entregado. De esos reportes generales esta mujer haba recogido la evidencia
+entregado. De esos reportes generales esta mujer había recogido la evidencia
 
-suficiente sobre la que se apoy su fe. Reza el proverbio que la fama comn es
+suficiente sobre la que se apoyó su fe. Reza el proverbio que ‘la fama común es
 
-una mentirosa comn, pero en este caso el pnico general que se haba
+una mentirosa común’, pero en este caso el pánico general que se había
 
-apoderado de sus paisanos la convenci de que los reportes eran verdaderos. Los
+apoderado de sus paisanos la convenció de que los reportes eran verdaderos. Los
 
-trminos en los que el avance de Israel era descrito por todas partes, la
+términos en los que el avance de Israel era descrito por todas partes, la
 
-convencieron de que una terrible calamidad penda como una nube sobre el pas y
+convencieron de que una terrible calamidad pendía como una nube sobre el país y
 
-paralizaba a la corte, al ejrcito y al pueblo; ella vio que la causa del miedo
+paralizaba a la corte, al ejército y al pueblo; ella vio que la causa del miedo
 
-era que un Dios viviente estaba con este pueblo, y se dijo: Verdaderamente hay
+era que un Dios viviente estaba con este pueblo, y se dijo: “Verdaderamente hay
 
-un Dios, y la conciencia en su interior respondi a esa declaracin. Sinti
+un Dios”, y la conciencia en su interior respondió a esa declaración. Sintió
 
-que as era y la luz entr a raudales en su espritu. Ella crey en Jehov, el
+que así era y la luz entró a raudales en su espíritu. Ella creyó en Jehová, el
 
-Dios de Israel, y comenz a adorarlo en espera de que la causa que l apoyaba
+Dios de Israel, y comenzó a adorarlo en espera de que la causa que Él apoyaba
 
-sera exitosa y que quienes eran Sus enemigos en verdad seran destruidos. Digo
+sería exitosa y que quienes eran Sus enemigos en verdad serían destruidos. Digo
 
-que la base era dbil: si bien era lo suficientemente fuerte en s misma, era
+que la base era débil: si bien era lo suficientemente fuerte en sí misma, era
 
-muy inferior a esa lnea sobre lnea, mandato sobre mandato, que nosotros
+muy inferior a esa ‘línea sobre línea, mandato sobre mandato’, que nosotros
 
-hemos recibido durante tanto tiempo. Muchos de los aqu presentes tienen ante
+hemos recibido durante tanto tiempo. Muchos de los aquí presentes tienen ante
 
-s todo el Libro de Dios, y, con todo, no creen; tienen el testimonio de Sus
+sí todo el Libro de Dios, y, con todo, no creen; tienen el testimonio de Sus
 
 santos por miles, y, con todo, no creen; testigos vivientes les suplican
 
 vehementemente, y, con todo, no creen; pero esta pobre mujer, con sus escasas
 
-oportunidades, se convirti en una creyente en Jehov. Tengan cuidado no sea
+oportunidades, se convirtió en una creyente en Jehová. Tengan cuidado no sea
 
-que en el da del juicio ella se levante contra ustedes. Rahab crey con base
+que en el día del juicio ella se levante contra ustedes. Rahab creyó con base
 
-en un testimonio mucho menor. Cmo sern capaces de excusar ustedes su propia
+en un testimonio mucho menor. żCómo serán capaces de excusar ustedes su propia
 
 persistente incredulidad? Les suplico, queridos oyentes, que piensen en esto.
 
-Tal vez lo ms
+Tal vez lo más
 
 maravilloso acerca de su fe es que se tratara de una mujer
 
-de tal condicin.
+de tal condición.
 
 Rahab era en apariencia la persona que uno menos
 
-pensara que se convertira en una creyente en Jehov. Era una ramera, una
+pensaría que se convertiría en una creyente en Jehová. Era una ramera, una
 
 mujer pecadora y universalmente conocida como tal. Se han hecho desesperados
 
-intentos por encontrar algn otro significado para la palabra traducida como
+intentos por encontrar algún otro significado para la palabra traducida como
 
-ramera, pero han resultado completamente intiles. Tanto Pablo como Santiago
+‘ramera’, pero han resultado completamente inútiles. Tanto Pablo como Santiago
 
-declaran con respecto a ella que era lo que su apelativo comnmente indica. La
+declaran con respecto a ella que era lo que su apelativo comúnmente indica. La
 
 idea de que era una mesonera o una tabernera es absurda, porque tal cosa como
 
-una mesonera era desconocida en aquellos das, como todo el mundo sabe. Imponer
+una mesonera era desconocida en aquellos días, como todo el mundo sabe. Imponer
 
-al original hebreo una interpretacin como esa no sera traducir, sino
+al original hebreo una interpretación como esa no sería traducir, sino
 
-tergiversar; y nadie ha intentado hacerlo jams con el griego. Sin duda Rahab
+tergiversar; y nadie ha intentado hacerlo jamás con el griego. Sin duda Rahab
 
-haba sido una gran pecadora; es intil andarse con rodeos. Hemos de dar la
+había sido una gran pecadora; es inútil andarse con rodeos. Hemos de dar la
 
-gloria a la gracia divina. Por qu habramos de desear robarle el honor a Dios
+gloria a la gracia divina. żPor qué habríamos de desear robarle el honor a Dios
 
-por haber librado a una mujer as de su pecado? Pero despus de que se
+por haber librado a una mujer así de su pecado? Pero después de que se
 
-convirti en una creyente en Jehov me parece que abandon su pecado y que se
+convirtió en una creyente en Jehová me parece que abandonó su pecado y que se
 
-convirti en otra persona, aunque segua siendo conocida por su antiguo
+convirtió en otra persona, aunque seguía siendo conocida por su antiguo
 
-apelativo. Leemos que escondi a los espas entre manojos de lino. Con qu
+apelativo. Leemos que escondió a los espías entre manojos de lino. żCon qué
 
-propsito guardaba manojos de lino si no es porque haba comenzado a ser una diligente
+propósito guardaba manojos de lino si no es porque había comenzado a ser una diligente
 
-trabajadora? Un pequeo detalle a menudo indica el carcter; una paja muestra
+trabajadora? Un pequeńo detalle a menudo indica el carácter; una paja muestra
 
-en qu direccin sopla el viento, y me parece que es muy probable que Rahab
+en qué dirección sopla el viento, y me parece que es muy probable que Rahab
 
 hubiera abandonado su vida licenciosa. Y, luego, puesto que la hospitalidad
 
-haba llegado a ser olvidada en Jeric y en las otras ciudades cananeas, ella,
+había llegado a ser olvidada en Jericó y en las otras ciudades cananeas, ella,
 
-siendo una seguidora de Jehov y sabiendo que la hospitalidad era Su deleite,
+siendo una seguidora de Jehová y sabiendo que la hospitalidad era Su deleite,
 
-ira a la puerta de la ciudad cada vez y cuando, tal como Lot sola hacerlo, y
+iría a la puerta de la ciudad cada vez y cuando, tal como Lot solía hacerlo, y
 
-tratara de identificar a los extranjeros para ver si poda atenderlos. No
+trataría de identificar a los extranjeros para ver si podía atenderlos. No
 
-estaba bajo sospecha haciendo eso, porque su antiguo apelativo la segua, y le
+estaba bajo sospecha haciendo eso, porque su antiguo apelativo la seguía, y le
 
-daba una licencia para hacer lo que otros no podan intentar hacer sin generar
+daba una licencia para hacer lo que otros no podían intentar hacer sin generar
 
-sospechas de traicin contra la corona por atender a forasteros y adversarios.
+sospechas de traición contra la corona por atender a forasteros y adversarios.
 
-As que no dudo de que atendiera a los extranjeros con toda honestidad, y la
+Así que no dudo de que atendiera a los extranjeros con toda honestidad, y la
 
-razn por la que los espas vinieron a ella fue porque ella estaba generalmente
+razón por la que los espías vinieron a ella fue porque ella estaba generalmente
 
-a la caza de los viajeros que de otra manera, tal vez, habran recibido un
+a la caza de los viajeros que de otra manera, tal vez, habrían recibido un
 
-psimo trato de manos de sus malvados conciudadanos. Entonces, el espritu
+pésimo trato de manos de sus malvados conciudadanos. Entonces, el espíritu
 
-generoso que la verdadera religin le haba inculcado la puso en contacto con
+generoso que la verdadera religión le había inculcado la puso en contacto con
 
 los israelitas que vinieron a espiar la tierra, y ellos se convirtieron en
 
 manos de Dios en el instrumento de su seguridad cuando la ciudad fue destruida.
 
-La gracia de Dios la haba sacado de su oficio anterior aun antes de que esos
+La gracia de Dios la había sacado de su oficio anterior aun antes de que esos
 
-hombres llegaran, y aunque su antiguo apelativo la segua, pienso que veo razn
+hombres llegaran, y aunque su antiguo apelativo la seguía, pienso que veo razón
 
-para creer que su antiguo carcter haba desaparecido, y que se haba
+para creer que su antiguo carácter había desaparecido, y que se había
 
 convertido en una nueva criatura por medio del poder de la fe. Sin embargo,
 
-ella haba sido una vez una ramera y el prodigio es que se convirti en una
+ella había sido una vez una ramera y el prodigio es que se convirtió en una
 
-creyente. Los portentos de la gracia son el deleite de Dios. A l le encanta,
+creyente. Los portentos de la gracia son el deleite de Dios. A Él le encanta,
 
-por causa de Cristo, llamar para S a los ms viles de los viles, y a los ms
+por causa de Cristo, llamar para Sí a los más viles de los viles, y a los más
 
-ruines de los ruines. El Seor sigue actuando de la misma manera. Tengamos la
+ruines de los ruines. El Seńor sigue actuando de la misma manera. Tengamos la
 
-seguridad de que Jess sigue recibiendo a los pecadores, y que los publicanos y
+seguridad de que Jesús sigue recibiendo a los pecadores, y que los publicanos y
 
 las rameras van al reino de Dios delante de los justos con justicia propia y de
 
-los falaces. Es muy notable que en la genealoga de Cristo figuren tantas
+los falaces. Es muy notable que en la genealogía de Cristo figuren tantas
 
-mujeres con caracteres empaados: que figure una incestuosa Tamar, una ramera
+mujeres con caracteres empańados: que figure una incestuosa Tamar, una ramera
 
-Rahab, una idlatra Rut y una adltera Betsab, de tal manera que Jesucristo,
+Rahab, una idólatra Rut y una adúltera Betsabé, de tal manera que Jesucristo,
 
 el Salvador de los pecadores, ha descendido, en cuanto a Su linaje terrenal, de
 
-los lomos de unos pecadores y est as emparentado con ellos. Oh, las
+los lomos de unos pecadores y está así emparentado con ellos. ˇOh, las
 
-profundidades de la gracia de Dios! Cun incomparable es la condescendencia
+profundidades de la gracia de Dios! ˇCuán incomparable es la condescendencia
 
 del Redentor!
 
-Adems, la fe de Rahab
+Además, la fe de Rahab
 
 era singular porque
 
 el objeto de ella era
 
-difcil.
+difícil.
 
-Qu era lo que tena que creer? Acaso no era esto: que Israel
+żQué era lo que tenía que creer? żAcaso no era esto: que Israel
 
-destruira a Jeric? Ahora bien, entre Jeric y las tribus flua el Jordn, y
+destruiría a Jericó? Ahora bien, entre Jericó y las tribus fluía el Jordán, y
 
-los israelitas no tenan forma de cruzarlo. Slo un milagro poda dividir ese
+los israelitas no tenían forma de cruzarlo. Sólo un milagro podía dividir ese
 
-caudaloso ro. Esperaba un milagro la fe de Rahab? Si as fuera, era
+caudaloso río. żEsperaba un milagro la fe de Rahab? Si así fuera, era
 
-notablemente slida. Alrededor de Jeric haba un muro gigantesco. No haba
+notablemente sólida. Alrededor de Jericó había un muro gigantesco. No había
 
 posibilidad de que los sitiadores lo escalaran o que abrieran una brecha.
 
-Pensaba Rahab que esos muros se desplomaran? O dej la manera de la captura
+żPensaba Rahab que esos muros se desplomarían? żO dejó la manera de la captura
 
-en manos de Dios, creyendo firmemente que sera conquistada? Si as fuera, era una
+en manos de Dios, creyendo firmemente que sería conquistada? Si así fuera, era una
 
-mujer de no poca fe. He conocido a cristianos inteligentes cuya fe no habra
+mujer de no poca fe. He conocido a cristianos inteligentes cuya fe no habría
 
-podido dividir un ro ni saltar sobre un muro, pero la fe en Dios de esta pobre
+podido dividir un río ni saltar sobre un muro, pero la fe en Dios de esta pobre
 
-mujer hizo ambas cosas. Rahab estaba segura de que el Dios del Mar Rojo sera
+mujer hizo ambas cosas. Rahab estaba segura de que el Dios del Mar Rojo sería
 
-el Dios del Jordn, y el Dios que hiri a Og, rey de Basn, poda hacer morir
+el Dios del Jordán, y el Dios que hirió a Og, rey de Basán, podía hacer morir
 
-tambin al rey de Jeric. Su fe era especial porque era slida, ms slida que
+también al rey de Jericó. Su fe era especial porque era sólida, más sólida que
 
 la fe de quienes tienen una mayor base sobre la cual apoyarse.
 
-Al pensar en la extraa
+Al pensar en la extrańa
 
-fe de esta mujer, que cada uno de nosotros diga ahora: Por qu no habra de
+fe de esta mujer, que cada uno de nosotros diga ahora: “żPor qué no habría de
 
-tener yo la misma fe en el Dios viviente? Dios puede drmela. Aunque mi vida
+tener yo la misma fe en el Dios viviente? Dios puede dármela. Aunque mi vida
 
-pasada haya estado grandemente manchada por el pecado, con todo, por qu no
+pasada haya estado grandemente manchada por el pecado, con todo, żpor qué no
 
-habra de poner mi confianza en el Seor, el Salvador? No es la fe la gracia
+habría de poner mi confianza en el Seńor, el Salvador? żNo es la fe la gracia
 
-precisa que ms le conviene a un pecador y que hace ms por un pecador? No
+precisa que más le conviene a un pecador y que hace más por un pecador? żNo
 
-envi Dios a Jesucristo al mundo para redimir a los hombres del pecado? No ha
+envió Dios a Jesucristo al mundo para redimir a los hombres del pecado? żNo ha
 
-redimido ya a muchos por el poder de Su Espritu y por la aplicacin de Su
+redimido ya a muchos por el poder de Su Espíritu y por la aplicación de Su
 
-sangre preciosa? Creer en Jess. Oh, que el Espritu Santo les d fe en este
+sangre preciosa? Creeré en Jesús”. Oh, que el Espíritu Santo les dé fe en este
 
-instante. Que el amor electivo de Dios seleccione a algunos de los aqu
+instante. Que el amor electivo de Dios seleccione a algunos de los aquí
 
-presentes que han sido, si no de hecho, s de corazn, tan malos como Rahab; y
+presentes que han sido, si no de hecho, sí de corazón, tan malos como Rahab; y
 
-que habindola seguido en el pecado sean conducidos por la infinita misericordia
+que habiéndola seguido en el pecado sean conducidos por la infinita misericordia
 
-a imitarla en la fe. Vengan, ustedes, los cados, pues Jess puede levantarlos.
+a imitarla en la fe. Vengan, ustedes, los caídos, pues Jesús puede levantarlos.
 
-Vengan, ustedes, los inmundos, pues Jess puede limpiarlos. Crean, y la vida
+Vengan, ustedes, los inmundos, pues Jesús puede limpiarlos. Crean, y la vida
 
-eterna ser de ustedes.
+eterna será de ustedes.
 
 II.
 
@@ -548,21 +548,21 @@ operativa. Era activa, primero,
 
 mentalmente.
 
-Cuando crey, comenz a pensar. Algunas personas que se convierten en
+Cuando creyó, comenzó a pensar. Algunas personas que se convierten en
 
-avivamientos y en desbordantes emociones, me dan la impresin o que no tienen cerebro,
+avivamientos y en desbordantes emociones, me dan la impresión o que no tienen cerebro,
 
 o si no, que la gracia no ha entrado nunca en su cabeza. Debes mantener siempre
 
-una gran excitacin o los echars de menos. No tienen principios bien fundados.
+una gran excitación o los echarás de menos. No tienen principios bien fundados.
 
-Si les preguntaras en qu creen, no lo sabran, ni seran capaces de decirte
+Si les preguntaras en qué creen, no lo sabrían, ni serían capaces de decirte
 
-por qu creen. Probablemente creen porque otras personas creen; el ministro es
+por qué creen. Probablemente creen porque otras personas creen; el ministro es
 
 diligente y en general se la pasaron muy bien, y por eso tienen fe; no tienen
 
-ninguna razn fundamentada. Los creyentes que resisten y perduran mejor son los
+ninguna razón fundamentada. Los creyentes que resisten y perduran mejor son los
 
 reflexivos, son hombres de principio, hombres que sopesan y juzgan. Ellos, por
 
@@ -572,73 +572,73 @@ otro lado, acumulan fuerzas por el ejercicio mental; y estos son los varones
 
 que no son llevados por doquier de todo viento de doctrina, sino que permanecen
 
-firmes en la hora de la prueba. Quiera Dios que tengamos un gran ejrcito de
+firmes en la hora de la prueba. Quiera Dios que tengamos un gran ejército de
 
-creyentes reflexivos pues entonces el Ritualismo y el Racionalismo haran
+creyentes reflexivos pues entonces el Ritualismo y el Racionalismo harían
 
-muchsimo menos dao. Rahab era una mujer reflexiva, y tena un buen sistema de
+muchísimo menos dańo. Rahab era una mujer reflexiva, y tenía un buen sistema de
 
-teologa que ella misma haba formulado. Conoca el pasado, conoca la historia
+teología que ella misma había formulado. Conocía el pasado, conocía la historia
 
-del Mar Rojo, y la historia de Og y de Sehn; entenda que Dios haba prometido
+del Mar Rojo, y la historia de Og y de Sehón; entendía que Dios había prometido
 
-mediante pacto dar el pas a los israelitas, y de eso deduca el presente. Noten
+mediante pacto dar el país a los israelitas, y de eso deducía el presente. Noten
 
-su doctrina sobre las cosas presentes: Jehov vuestro Dios es Dios arriba en
+su doctrina sobre las cosas presentes: “Jehová vuestro Dios es Dios arriba en
 
-los cielos y abajo en la tierra. Rahab estableci como un hecho cierto que el
+los cielos y abajo en la tierra”. Rahab estableció como un hecho cierto que el
 
-Seor Jehov, que haba hecho tanto, deba ser el Dios arriba en los cielos y
+Seńor Jehová, que había hecho tanto, debía ser el Dios arriba en los cielos y
 
 abajo en la tierra; y luego, de eso, ella extrajo su inferencia en cuanto al futuro.
 
-Crea que Dios entregara el pas en manos de Israel, y pidi que cuando el
+Creía que Dios entregaría el país en manos de Israel, y pidió que cuando el
 
-Seor hiciera efectivamente eso, trataran benigna y fielmente con ella.
+Seńor hiciera efectivamente eso, trataran benigna y fielmente con ella.
 
-Entonces Rahab tena una doctrina acerca del presente, del pasado y del futuro,
+Entonces Rahab tenía una doctrina acerca del presente, del pasado y del futuro,
 
-y lo haba ordenado todo en su propia mente. Pero su pensamiento no slo era
+y lo había ordenado todo en su propia mente. Pero su pensamiento no sólo era
 
-tan activo que se convirti en una especialista en doctrina, -y un comentarista
+tan activo que se convirtió en una especialista en doctrina, -y un comentarista
 
 incluso la llama semiprofetisa- sino que era activa en su mente en cuanto a su
 
-decisin por el Seor. Ella dijo: yo pertenezco a esta ciudad; tengo privilegios
+decisión por el Seńor. Ella dijo: “yo pertenezco a esta ciudad; tengo privilegios
 
-ciudadanos en Jeric, pero voy a renunciar a todos ellos. Dios est en contra
+ciudadanos en Jericó, pero voy a renunciar a todos ellos. Dios está en contra
 
-de esta ciudad y ser destruida, y yo ser destruida junto con ella si estoy en
+de esta ciudad y será destruida, y yo seré destruida junto con ella si estoy en
 
-contra de Dios; pero l es el verdadero Dios; por tanto tomo partido con l y
+contra de Dios; pero Él es el verdadero Dios; por tanto tomo partido con Él y
 
-participo con Su pueblo; si l me recibe, yo me pondr bajo la sombra de Sus
+participo con Su pueblo; si Él me recibe, yo me pondré bajo la sombra de Sus
 
-alas y le pedir que me cubra con Su manto. A partir de este momento no soy una
+alas y le pediré que me cubra con Su manto. A partir de este momento no soy una
 
-ciudadana de Jeric: yo repudio mi lealtad a su rey. Cuando los espas llegaron,
+ciudadana de Jericó: yo repudio mi lealtad a su rey”. Cuando los espías llegaron,
 
-ella saba lo que hara; no consideraba que estuviera obligada a participar en
+ella sabía lo que haría; no consideraba que estuviera obligada a participar en
 
-la defensa de la ciudad enviando palabra al rey de que los espas haban
+la defensa de la ciudad enviando palabra al rey de que los espías habían
 
-llegado. Se consideraba como una israelita y como tal actu.
+llegado. Se consideraba como una israelita y como tal actuó.
 
-Oh, yo deseara que
+Oh, yo desearía que
 
 algunos profesantes fueran siquiera la mitad de decididos que Rahab. Conocen la
 
-verdad pero no la defienden. Pueden or que es atacada y denigrada, y, sin
+verdad pero no la defienden. Pueden oír que es atacada y denigrada, y, sin
 
-embargo, su sangre no arde nunca con indignacin contra los adversarios de
+embargo, su sangre no arde nunca con indignación contra los adversarios de
 
-Dios. Se quedan muy callados y tal vez una razn sea que no tienen nada que
+Dios. Se quedan muy callados y tal vez una razón sea que no tienen nada que
 
-decir. No han aprendido nada sobre Cristo; no pueden aportar ninguna razn de
+decir. No han aprendido nada sobre Cristo; no pueden aportar ninguna razón de
 
 la esperanza que hay en ellos, y, por tanto, no la pueden presentar con
 
-mansedumbre y reverencia y entonces su religin pareciera ser letra muerta en
+mansedumbre y reverencia y entonces su religión pareciera ser letra muerta en
 
 lo que a su mente se refiere. Que Dios nos libre de una fe como esa. Que
 
@@ -646,9 +646,9 @@ tengamos una fe que conmueva nuestra humanidad entera, que mueva nuestro
 
 juicio, que ilumine nuestro entendimiento, y que nos haga decidir por la verdad
 
-y la justicia prescindiendo de la compaa en la que nos encontremos.
+y la justicia prescindiendo de la compańía en la que nos encontremos.
 
-Pero a continuacin vino
+Pero a continuación vino
 
 otra forma de actividad. Su fe era
 
@@ -656,49 +656,49 @@ activa
 
 en su propia esfera.
 
-Como ya he conjeturado, Rahab tena la disposicin de
+Como ya he conjeturado, Rahab tenía la disposición de
 
 atender a los forasteros; entonces, viendo a los siervos de Dios bajo la
 
-apariencia de dos espas, supo de inmediato lo que deba hacer. Los llev a su
+apariencia de dos espías, supo de inmediato lo que debía hacer. Los llevó a su
 
-casa e hizo lo mejor que pudo para esconderlos. Rahab no se propona ser una
+casa e hizo lo mejor que pudo para esconderlos. Rahab no se proponía ser una
 
-herona diciendo: Ahora que soy una seguidora de Jehov, debo hacer algo
+heroína diciendo: “Ahora que soy una seguidora de Jehová, debo hacer algo
 
-extraordinario. No empac sus ropas y parti a algn lugar distante donde
+extraordinario”. No empacó sus ropas y partió a algún lugar distante donde
 
-pudiera encontrar un servicio ms destacado para Jehov sino que se qued en
+pudiera encontrar un servicio más destacado para Jehová sino que se quedó en
 
-donde estaba y sirvi a Dios all. Se preocup por sus propios huspedes y
+donde estaba y sirvió a Dios allí. Se preocupó por sus propios huéspedes y
 
-cuid de su propia casa. Yo creo que los deberes hogareos son una de las
+cuidó de su propia casa. Yo creo que los deberes hogareńos son una de las
 
 mejores formas para la actividad de la fe, especialmente para las mujeres
 
-cristianas. Nuestra obligacin no es hacer lo que concebimos sino lo que el
+cristianas. Nuestra obligación no es hacer lo que concebimos sino lo que el
 
-Seor nos asigna. Es mejor que, como se dijo de Sara, as se diga de muchas
+Seńor nos asigna. Es mejor que, como se dijo de Sara, así se diga de muchas
 
-mujeres cristianas, Dnde est Sara? siendo la respuesta: Aqu en la
+mujeres cristianas, “żDónde está Sara?” siendo la respuesta: “Aquí en la
 
-tienda. Es algo bueno cuando un cristiano siente que no elegir su trabajo
+tienda”. Es algo bueno cuando un cristiano siente que no elegirá su trabajo
 
-sino que asumir el trabajo que Dios escoja para l; resuelve no copiar a nadie,
+sino que asumirá el trabajo que Dios escoja para él; resuelve no copiar a nadie,
 
-sino seguir el especial sendero que el Seor le marque. Ahora bien, Rahab no
+sino seguir el especial sendero que el Seńor le marque. Ahora bien, Rahab no
 
 iba a anticipar a Jael enclavando una estaca de la tienda en la cabeza del rey
 
-de Jeric, ni iba a ser Dbora convocando a algn Barac a la batalla. Ella
+de Jericó, ni iba a ser Débora convocando a algún Barac a la batalla. Ella
 
-tena trabajo a la mano en casa, y lo que su mano encontr que deba hacer lo
+tenía trabajo a la mano en casa, y lo que su mano encontró que debía hacer lo
 
 hizo con todo su poder. Que veamos en todos los cristianos una fe que obra en
 
-su propia esfera; que exhiban la religin de las cosas comunes. No crean en la
+su propia esfera; que exhiban la religión de las cosas comunes. No crean en la
 
-caballera andante. No sean don Quijotes
+caballería andante. No sean don Quijotes
 
 espirituales
 
@@ -708,95 +708,95 @@ Dios les ha hecho ser lo que son: una madre, o una hija, o un esposo, o un
 
 siervo o un amo; sirvan a Dios como tales. Hay algo que deben hacer en su
 
-posicin. Pueden venir unos llamados extraordinarios, y yo oro pidiendo que
+posición. Pueden venir unos llamados extraordinarios, y yo oro pidiendo que
 
 vengan para algunos de los presentes, pero no es probable que vengan para
 
-aquellos que no aprovechan sus actuales oportunidades cotidianas. Podramos ser
+aquellos que no aprovechan sus actuales oportunidades cotidianas. Podríamos ser
 
 llamados a un servicio muy especial y recibir gracias selectas para ello, pero
 
 es mejor que mientras no sintamos un tal llamado nos ocupemos de lo nuestro en
 
-la esfera vital en la que Dios nos ha puesto. Moiss pastoreaba ovejas hasta
+la esfera vital en la que Dios nos ha puesto. Moisés pastoreaba ovejas hasta
 
-que le fue ordenado que liberara a Israel. Geden estaba trillando cuando se le
+que le fue ordenado que liberara a Israel. Gedeón estaba trillando cuando se le
 
-apareci el ngel y los discpulos estaban pescando cuando Jess los llam.
+apareció el ángel y los discípulos estaban pescando cuando Jesús los llamó.
 
 Ellos fueron diligentes en sus llamamientos y posteriormente pusieron su
 
-corazn en sus ms excelsos llamamientos. Eso hizo Rahab. Los espas vinieron a
+corazón en sus más excelsos llamamientos. Eso hizo Rahab. Los espías vinieron a
 
-ella, los recibi en paz, los escondi, y despus de haberlos escondido los
+ella, los recibió en paz, los escondió, y después de haberlos escondido los
 
-baj con una cuerda desde su casa que estaba sobre el muro, lo que
+bajó con una cuerda desde su casa que estaba sobre el muro, lo que
 
-probablemente haba hecho antes para personas de una ndole muy diferente.
+probablemente había hecho antes para personas de una índole muy diferente.
 
-Luego les dio el mejor consejo que poda darles, y fue as el instrumento para
+Luego les dio el mejor consejo que podía darles, y fue así el instrumento para
 
-preservar sus vidas. Ella cumpli una parte muy necesaria en la historia de los
+preservar sus vidas. Ella cumplió una parte muy necesaria en la historia de los
 
 israelitas. Su fe fue verdaderamente activa y debe ser encomiada.
 
-Y permtanme decir que
+Y permítanme decir que
 
-Rahab realiz todo eso
+Rahab realizó todo eso
 
 de la mejor manera
 
 que pudo,
 
-utilizando su sentido comn. Escondi a los espas entre los
+utilizando su sentido común. Escondió a los espías entre los
 
-manojos de lino que tena puestos en el terrado; los hizo descender cuando ya
+manojos de lino que tenía puestos en el terrado; los hizo descender cuando ya
 
-estaba oscuro; les dijo que se marcharan al monte y les recomend que esperaran
+estaba oscuro; les dijo que se marcharan al monte y les recomendó que esperaran
 
-tres das hasta que la intensidad de la bsqueda hubiera concluido. Rahab actu
+tres días hasta que la intensidad de la búsqueda hubiera concluido. Rahab actuó
 
-prudentemente. Hizo todo lo que pudo y lo realiz con notable tacto y sagacidad.
+prudentemente. Hizo todo lo que pudo y lo realizó con notable tacto y sagacidad.
 
-Yo nunca he podido ver por qu la verdadera religin deba ser asociada tan a
+Yo nunca he podido ver por qué la verdadera religión deba ser asociada tan a
 
 menudo con la estupidez, y sin embargo, he notado que algunas agraciadas
 
-personas afectan una simplicidad infantil o todo se deba a que lo necio del
+personas afectan una simplicidad infantil o todo se deba a que ‘lo necio del
 
-mundo escogi Dios. Si tienes fe, ciertamente no has de actuar por ello como
+mundo escogió Dios’. Si tienes fe, ciertamente no has de actuar por ello como
 
-si hubieras perdido la razn. Me parece a m que la fe es el sentido comn
+si hubieras perdido la razón. Me parece a mí que la fe es el sentido común
 
-espiritualizado, aplicado a los asuntos de la religin, y que es muy
+espiritualizado, aplicado a los asuntos de la religión, y que es muy
 
-consistente, es ms, que es imperativo en nosotros que continuemos con el
+consistente, es más, que es imperativo en nosotros que continuemos con el
 
-sentido comn en nuestros asuntos ordinarios. Hemos de ser prudentes como
+sentido común en nuestros asuntos ordinarios. Hemos de ser prudentes como
 
-serpientes, y sencillos como palomas. El apstol dice: Sed maduros en el modo
+serpientes, y sencillos como palomas. El apóstol dice: “Sed maduros en el modo
 
-de pensar. Oh, si los hombres utilizaran su ingenio cuando sirven a Dios de la
+de pensar”. Oh, si los hombres utilizaran su ingenio cuando sirven a Dios de la
 
-misma manera que lo hacen cuando van tras los centavos, cunto ms se hara en
+misma manera que lo hacen cuando van tras los centavos, cuánto más se haría en
 
 la iglesia y en el mundo. Pero hay a menudo una torpeza en el manejo de las
 
-sociedades cristianas y de las iglesias cristianas que no sera tolerada ni por
+sociedades cristianas y de las iglesias cristianas que no sería tolerada ni por
 
-un instante en una empresa, y se permite que hombres que no seran considerados
+un instante en una empresa, y se permite que hombres que no serían considerados
 
-dignos de su salario vendiendo chucheras o apacentando puercos, sean cabezas y
+dignos de su salario vendiendo chucherías o apacentando puercos, sean cabezas y
 
-lderes en proyectos cristianos. Hemos de ser tan reflexivos, tan cuidadosos,
+líderes en proyectos cristianos. Hemos de ser tan reflexivos, tan cuidadosos,
 
-tan prudentes, tan rpidos, tan emprendedores, qu si digo tan resueltos en el
+tan prudentes, tan rápidos, tan emprendedores, qué si digo tan resueltos en el
 
-servicio de Dios, como deberamos serlo en las actividades de la vida. Yo
+servicio de Dios, como deberíamos serlo en las actividades de la vida. Yo
 
 encomio la fe de Rahab por eso, porque a la vez que estaba completamente activa
 
-de la manera en que mejor poda servir a la iglesia de Dios, puso todo su
+de la manera en que mejor podía servir a la iglesia de Dios, puso todo su
 
 ingenio y sus habilidades en pleno juego.
 
@@ -808,17 +808,17 @@ correr grandes riesgos.
 
 La fe de
 
-Rahab la hizo correr el riesgo de ser condenada a muerte, pues si los espas
+Rahab la hizo correr el riesgo de ser condenada a muerte, pues si los espías
 
-hubieran sido descubiertos habra habido un juicio sumario para Rahab. La
+hubieran sido descubiertos habría habido un juicio sumario para Rahab. La
 
-espada del rey de Jeric habra cortado pronto la cabeza de la mujer que se
+espada del rey de Jericó habría cortado pronto la cabeza de la mujer que se
 
-atrevi a esconder a los enemigos de su pas. Ella lo apost alegremente todo a
+atrevió a esconder a los enemigos de su país. Ella lo apostó alegremente todo a
 
-la verdad de Dios y corri todos los riesgos para salvar a los siervos del
+la verdad de Dios y corrió todos los riesgos para salvar a los siervos del
 
-Seor. En esto era muy superior a quienes no arriesgan su empleo, su situacin,
+Seńor. En esto era muy superior a quienes no arriesgan su empleo, su situación,
 
 su buen nombre o incluso el amor de un solo pariente por la causa de
 
@@ -826,135 +826,135 @@ Jesucristo.
 
 Rahab era poseedora de
 
-una fe activa y podemos decir, tal como lo afirma Santiago: Asimismo tambin
+una fe activa y podemos decir, tal como lo afirma Santiago: “Asimismo también
 
-Rahab la ramera, no fue justificada por obras, cuando recibi a los mensajeros
+Rahab la ramera, żno fue justificada por obras, cuando recibió a los mensajeros
 
-y los envi por otro camino? No acompaaron sus obras a la fe? No fue la fe
+y los envió por otro camino?” żNo acompańaron sus obras a la fe? żNo fue la fe
 
-que la justific una fe que produjo obras? No fue la obra del Espritu Santo
+que la justificó una fe que produjo obras? żNo fue la obra del Espíritu Santo
 
-en ella una manifiesta actividad que justific su fe demostrando que era real,
+en ella una manifiesta actividad que justificó su fe demostrando que era real,
 
-y la justific mostrando que era sincera?
+y la justificó mostrando que era sincera?
 
 III.
 
 LA FE DE
 
-RAHAB SE VIO EMPAADA POR UNA GRAVE DEBILIDAD. Ella les minti a los hombres
+RAHAB SE VIO EMPAŃADA POR UNA GRAVE DEBILIDAD. Ella les mintió a los hombres
 
-que llegaron a la puerta a prender a los espas. Rahab les coment que dos
+que llegaron a la puerta a prender a los espías. Rahab les comentó que dos
 
-forasteros se haban acercado a ella pero que no saba de dnde provenan, lo
+forasteros se habían acercado a ella pero que no sabía de dónde provenían, lo
 
-cual era una mentira; y les dijo que no saba a dnde se haban ido, que se haban
+cual era una mentira; y les dijo que no sabía a dónde se habían ido, que se habían
 
-marchado haca algn tiempo y que mejor los persiguieran; eso era otra falsedad
+marchado hacía algún tiempo y que mejor los persiguieran; eso era otra falsedad
 
 y es completamente inexcusable. Pero al mismo tiempo recuerden, por favor, que
 
-ella no saba que era malo mentir. Sin duda haba en su conciencia vagos
+ella no sabía que era malo mentir. Sin duda había en su conciencia vagos
 
 destellos de la idea de que mentir era algo malo, pero, sin embargo, sus
 
-circunstancias impedan que lo supiera claramente como lo sabemos ahora. Hasta
+circunstancias impedían que lo supiera claramente como lo sabemos ahora. Hasta
 
-este preciso da, entre muchos orientales, es mucho ms usual mentir que decir
+este preciso día, entre muchos orientales, es mucho más usual mentir que decir
 
 la verdad; de hecho, un aborigen oriental de pura sangre nunca dice la verdad a
 
-menos que sea por error, y lo lamentara mucho si se enterara de que lo haba
+menos que sea por error, y lo lamentaría mucho si se enterara de que lo había
 
-hecho aun por accidente. No se puede creer fcilmente en los juramentos que
+hecho aun por accidente. No se puede creer fácilmente en los juramentos que
 
-hacen los hombres hindes en las cortes de justicia.
+hacen los hombres hindúes en las cortes de justicia.
 
 Nosotros
 
 despreciamos a un gran mentiroso, pero los orientales lo
 
-consideran un genio. Es triste, pero siempre ha sido as, y esto explica
+consideran un genio. Es triste, pero siempre ha sido así, y esto explica
 
-ampliamente que descubramos que varones como Abraham e Isaac decan, bajo
+ampliamente que descubramos que varones como Abraham e Isaac decían, bajo
 
 ciertas circunstancias agobiantes, las cosas que no eran. Han de juzgar a los
 
 individuos desde su propia perspectiva y han de considerar sus circunstancias,
 
-o podran ser injustos con ellos. Yo no voy a excusar la mentira de Rahab. Una
+o podrían ser injustos con ellos. Yo no voy a excusar la mentira de Rahab. Una
 
 mentira de Rahab o de Abraham es tan mala como la de cualquier otra persona;
 
-pero en este caso se debe decir que a Rahab no se le haba enseado, como hemos
+pero en este caso se debe decir que a Rahab no se le había enseńado, como hemos
 
-aprendido la mayora de nosotros, que una mentira es un pecado degradante. Nadie
+aprendido la mayoría de nosotros, que una mentira es un pecado degradante. Nadie
 
-le haba dicho jams: Engaar es contrario a la ley de Dios, pues Su Espritu
+le había dicho jamás: “Engańar es contrario a la ley de Dios, pues Su Espíritu
 
-nos ensea a no mentirnos los unos a los otros, habindonos despojado del viejo
+nos enseńa a no mentirnos los unos a los otros, habiéndonos despojado del viejo
 
-hombre con sus hechos. Hay algo ms que decir. A menudo yo he tratado de
+hombre con sus hechos”. Hay algo más que decir. A menudo yo he tratado de
 
-ponerme en el lugar de Rahab, y he dicho: Supongamos que yo hubiera escondido
+ponerme en el lugar de Rahab, y he dicho: “Supongamos que yo hubiera escondido
 
-a dos siervos de Dios durante los antiguos das de los dragones de Claverhouse;
+a dos siervos de Dios durante los antiguos días de los dragones de Claverhouse;
 
 por ejemplo, si yo escondiera en el cuarto trasero a Alexander Peden y a
 
-Cameron, y dos dragones cabalgaran hasta mi puerta y me preguntaran: estn
+Cameron, y dos dragones cabalgaran hasta mi puerta y me preguntaran: ‘żestán
 
-aqu los ministros? he tratado de imaginar lo que yo les dira, y no he sido
+aquí los ministros?’ he tratado de imaginar lo que yo les diría, y no he sido
 
-capaz de decidir qu hara. Yo supongo que tengo ms luz que Rahab, y ciertamente
+capaz de decidir qué haría. Yo supongo que tengo más luz que Rahab, y ciertamente
 
-he tenido ms tiempo disponible para considerar el caso, y con todo, no veo
+he tenido más tiempo disponible para considerar el caso, y con todo, no veo
 
-cul sera el camino a seguir. No me extraa, por tanto, que ella cometiera un
+cuál sería el camino a seguir. No me extrańa, por tanto, que ella cometiera un
 
-error. Y no estoy muy sorprendido de que dijera lo que dijo pues se le vendra
+error. Y no estoy muy sorprendido de que dijera lo que dijo pues se le vendría
 
-fcilmente a su mente ignorante y ansiosa. He considerado muchas opciones de lo
+fácilmente a su mente ignorante y ansiosa. He considerado muchas opciones de lo
 
-que yo habra dicho, pero no veo cmo hubiera podido decir: S, estn ah
+que yo habría dicho, pero no veo cómo hubiera podido decir: “Sí, están ahí
 
-adentro. Eso sera traicionar a los siervos de Dios, y yo no hara eso. He
+adentro”. Eso sería traicionar a los siervos de Dios, y yo no haría eso. He
 
 fraguado una gran cantidad de planes que se ven muy bien, pero confieso que, al
 
-examinarlos, parecieran estar ms o menos teidos con el engao que procura
+examinarlos, parecieran estar más o menos teńidos con el engańo que procura
 
-justificar o esconder el engao, y por tanto, he tenido que abandonarlos por no
+justificar o esconder el engańo, y por tanto, he tenido que abandonarlos por no
 
-ser mejores que la falsedad y tal vez ni siquiera tan buenos. Yo no s si la
+ser mejores que la falsedad y tal vez ni siquiera tan buenos. Yo no sé si la
 
-mentira de Rahab no fuera ms honesta y directa que muchas evasiones que se les
+mentira de Rahab no fuera más honesta y directa que muchas evasiones que se les
 
 han ocurrido a personas muy inteligentes; de hecho, como regla, las cosas que
 
-no son obvias y que necesitan que la inteligencia las sugiera, son ms bien sospechosas.
+no son obvias y que necesitan que la inteligencia las sugiera, son más bien sospechosas.
 
-En el interior de un ruso encontraran a un trtaro, y si desmantelaran esos
+En el interior de un ruso encontrarían a un tártaro, y si desmantelaran esos
 
-planes inteligentes dejaran ver las falsedades despus de todo. Lejos estoy de
+planes inteligentes dejarían ver las falsedades después de todo. Lejos estoy de
 
-pretender decir una palabra de apologa para la falsedad. Es algo malo, malo,
+pretender decir una palabra de apología para la falsedad. Es algo malo, malo,
 
 malo, malo, malo, completamente malo; pero a pesar de todo eso, antes de que
 
-condenen a Rahab, estn seguros de no condenarse a ustedes mismos, y
+condenen a Rahab, estén seguros de no condenarse a ustedes mismos, y
 
-pregntense primero lo que
+pregúntense primero lo que
 
 ustedes
 
-habran
+habrían
 
 dicho, o lo que
 
 ustedes
 
-habran hecho
+habrían hecho
 
 bajo las mismas circunstancias. Decir la verdad es siempre lo correcto. No han
 
@@ -962,11 +962,11 @@ de tomarse tanto en cuenta las consecuencias, como las exigencias del Dios de
 
 la verdad. La verdad llana ha tenido algunas veces un maravilloso efecto, y,
 
-sin duda, en cada caso, sera la mejor poltica.
+sin duda, en cada caso, sería la mejor política.
 
-Supe de un varn que
+Supe de un varón que
 
-haba sido llevado ante el juez Jeffreys, para ser juzgado por rebelin contra
+había sido llevado ante el juez Jeffreys, para ser juzgado por rebelión contra
 
 el rey Jacobo II, y la esperanza
 
@@ -974,69 +974,69 @@ de que
 
 alguien escapara una vez que fuera presentado ante ese monstruo era casi nula.
 
-De alguna manera Story haba ganado una gran reputacin de ser honesto, y el
+De alguna manera Story había ganado una gran reputación de ser honesto, y el
 
-juez Jeffreys lo llev ante el rey para que se defendiera. Segn recuerdo la
+juez Jeffreys lo llevó ante el rey para que se defendiera. Según recuerdo la
 
-historia, iba ms o menos en este sentido: el rey le dijo: Bien, seor Story,
+historia, iba más o menos en este sentido: ‘el rey le dijo: “Bien, seńor Story,
 
-usted estaba en el ejrcito de Monmouth, no es cierto? S, su majestad. Y
+usted estaba en el ejército de Monmouth, żno es cierto?” “Sí, su majestad”. “Y
 
-usted era un comisario all, no es cierto?. S, su majestad. No areng y
+usted era un comisario allí, żno es cierto?”. “Sí, su majestad”. “żNo arengó y
 
-pronunci discursos a la multitud? S, su majestad. Le ruego dijo el rey-
+pronunció discursos a la multitud?” “Sí, su majestad”. “Le ruego” –dijo el rey-
 
-que nos d una muestra de su florida arenga, si es que todava no ha olvidado
+“que nos dé una muestra de su florida arenga, si es que todavía no ha olvidado
 
-lo que deca; comparta con nosotros algunas de las flores de su retrica, y
+lo que decía; comparta con nosotros algunas de las flores de su retórica, y
 
-unos cuantos de los principales puntos en los que insista. Les deca, su
+unos cuantos de los principales puntos en los que insistía”. “Les decía, su
 
-majestad, que fue usted quien le prendi fuego a la ciudad de Londres. Es
+majestad, que fue usted quien le prendió fuego a la ciudad de Londres”. “Es
 
-usted un raro pillo, le doy mi palabra dijo el rey- y diga, qu ms les
+usted un raro pillo, le doy mi palabra” –dijo el rey- “y diga, żqué más les
 
-dijo? Dije que usted envenen a su hermano, y que usted estaba resuelto a
+dijo?” “Dije que usted envenenó a su hermano, y que usted estaba resuelto a
 
-convertirnos a todos nosotros en papistas y esclavos. Para entonces el rey ya
+convertirnos a todos nosotros en papistas y esclavos”. Para entonces el rey ya
 
-haba odo lo suficiente, y le pregunt qu dira si, despus de todo eso, le
+había oído lo suficiente, y le preguntó qué diría si, después de todo eso, le
 
-concediera su vida y un perdn gratuito. El seor Story declar que, en ese improbable
+concediera su vida y un perdón gratuito. El seńor Story declaró que, en ese improbable
 
-caso, se convertira en un sbdito muy leal, a raz de lo cual recibi un
+caso, se convertiría en un súbdito muy leal, a raíz de lo cual recibió un
 
-perdn gratuito por ser un hombre honesto aunque equivocado.
+perdón gratuito por ser un hombre honesto aunque equivocado’.
 
 En su caso, hablar con
 
 claridad hizo lo que la falsedad no hubiera podido hacer, y aunque no en todos
 
-los casos resultara siempre as, con todo, nuestro deber es claro, y, por
+los casos resultara siempre así, con todo, nuestro deber es claro, y, por
 
 tanto, tenemos que estar preparados para cumplirlo y asumir las consecuencias.
 
-Yo supongo que si Rahab hubiera posedo una gran fe, habra dicho: Es mi deber
+Yo supongo que si Rahab hubiera poseído una gran fe, habría dicho: “Es mi deber
 
-servir a Dios, pero no quebrantar las leyes de Dios, y como mentir sera
+servir a Dios, pero no quebrantar las leyes de Dios, y como mentir sería
 
-quebrantar las leyes de Dios, no lo har. Voy a cuidar a Sus siervos hasta
+quebrantar las leyes de Dios, no lo haré. Voy a cuidar a Sus siervos hasta
 
-donde me sea posible, pero despus de todo, le corresponde a
+donde me sea posible, pero después de todo, le corresponde a
 
-l
+Él
 
 cuidar de ellos, y no puedo hacer un
 
-mal para alcanzar un bien. Aunque esa hubiese sido la mejor opcin, Rahab no
+mal para alcanzar un bien”. Aunque esa hubiese sido la mejor opción, Rahab no
 
-haba recibido hasta ese momento la suficiente instruccin como para haber
+había recibido hasta ese momento la suficiente instrucción como para haber
 
-pensado as, y me temo que muchas personas aqu presentes no habran pensado
+pensado así, y me temo que muchas personas aquí presentes no habrían pensado
 
-as tampoco. La falta de ella no era de ninguna manera una falta a la que
+así tampoco. La falta de ella no era de ninguna manera una falta a la que
 
-podamos atrevernos a arrojarle piedras; evitmosla cuidadosamente, pero no la
+podamos atrevernos a arrojarle piedras; evitémosla cuidadosamente, pero no la
 
 censuremos con autocomplacencia.
 
@@ -1044,17 +1044,17 @@ IV.
 
 La
 
-fe de Rahab era UNA FE QUE NO PRESCINDA DEL USO DE SEALES Y SELLOS EXTERNOS.
+fe de Rahab era UNA FE QUE NO PRESCINDÍA DEL USO DE SEŃALES Y SELLOS EXTERNOS.
 
 Por favor noten esto. Hay personas en el mundo que desprecian por completo las
 
 ordenanzas externas. Pudieran ser buenas personas, pero no son sabias. Antes
 
-que nada, Rahab les exigi a aquellos espas el juramento de que la
+que nada, Rahab les exigió a aquellos espías el juramento de que la
 
-preservaran, y luego ellos le dieron una seal, un cordn de grana que deba ser
+preservarían, y luego ellos le dieron una seńal, un cordón de grana que debía ser
 
-atado a su ventana. Esa era la bandera rojo sangre de Israel. Acaso no fue
+atado a su ventana. Esa era la bandera rojo sangre de Israel. żAcaso no fue
 
 izada en la noche de
 
@@ -1062,19 +1062,19 @@ la Pascua
 
 ,
 
-de manera que el ngel pudiera pasarlos por alto y liberar al pueblo? Ella
+de manera que el ángel pudiera pasarlos por alto y liberar al pueblo? Ella
 
-sinti un gran consuelo cuando hubo colocado la seal en su ventana. Rahab no era
+sintió un gran consuelo cuando hubo colocado la seńal en su ventana. Rahab no era
 
-supersticiosa. No crea que hubiera algo mstico en el cordn de grana, pero lo
+supersticiosa. No creía que hubiera algo místico en el cordón de grana, pero lo
 
-puso all porque se le haba dicho que lo hiciera. Ahora bien, la ms excelsa
+puso allí porque se le había dicho que lo hiciera. Ahora bien, la más excelsa
 
 fe en Cristo es perfectamente consistente con el obediente uso de las ordenanzas
 
 cristianas. Nosotros confiamos en la sangre preciosa de Cristo, no en los
 
-sacramentos. Dios no quiera que edifiquemos jams nuestra fe sobre el bautismo
+sacramentos. Dios no quiera que edifiquemos jamás nuestra fe sobre el bautismo
 
 o sobre
 
@@ -1082,113 +1082,113 @@ la Cena
 
 del
 
-Seor. Qu son esas cosas, en s mismas, sino pura vanidad si ponemos alguna
+Seńor. żQué son esas cosas, en sí mismas, sino pura vanidad si ponemos alguna
 
-confianza en ellas? Al mismo tiempo el Seor nos ha dado el bautismo como
+confianza en ellas? Al mismo tiempo el Seńor nos ha dado el bautismo como
 
-emblema de Su muerte, de Su sepultura y de Su resurreccin, y si creemos que
+emblema de Su muerte, de Su sepultura y de Su resurrección, y si creemos que
 
-hemos sido sepultados con l y que hemos sido resucitados con l, atemos este
+hemos sido sepultados con Él y que hemos sido resucitados con Él, atemos este
 
-cordn de grana a nuestra ventana. l nos ha dado la ordenanza de
+cordón de grana a nuestra ventana. Él nos ha dado la ordenanza de
 
 la Cena
 
-del Seor como emblema
+del Seńor como emblema
 
-de Su muerte; comamos el pan y bebamos el vino en memoria de l. Nosotros no
+de Su muerte; comamos el pan y bebamos el vino en memoria de Él. Nosotros no
 
-confiamos en los emblemas en lo ms mnimo. Aborrecemos la idea. Atamos el cordn
+confiamos en los emblemas en lo más mínimo. Aborrecemos la idea. Atamos el cordón
 
-de grana a nuestra ventana y as hacemos saber a todos los hombres que nosotros
+de grana a nuestra ventana y así hacemos saber a todos los hombres que nosotros
 
-creemos en Jess. No nos avergenza mostrar Su muerte hasta que l venga. S, y
+creemos en Jesús. No nos avergüenza mostrar Su muerte hasta que Él venga. Sí, y
 
-entramos en la casa, esto es, en la iglesia, y nos deleita morar all, y ser
+entramos en la casa, esto es, en la iglesia, y nos deleita morar allí, y ser
 
-contados con el pueblo de Dios. No nos avergenza ser conocidos como miembros
+contados con el pueblo de Dios. No nos avergüenza ser conocidos como miembros
 
-de la hermandad del Seor Jesucristo. No busquen obtener una fe que abjure de
+de la hermandad del Seńor Jesucristo. No busquen obtener una fe que abjure de
 
-las ayudas que Dios el Espritu Santo les seala. Hagan a un lado todo lo que
+las ayudas que Dios el Espíritu Santo les seńala. Hagan a un lado todo lo que
 
-sea producto de la invencin humana, pero lo que es ordenado por Dios es para
+sea producto de la invención humana, pero lo que es ordenado por Dios es para
 
-su beneficio, y estn obligados a aferrarse a ello aun cuando sea tan pequeo
+su beneficio, y están obligados a aferrarse a ello aun cuando sea tan pequeńo
 
-como el cordn de grana a la ventana.
+como el cordón de grana a la ventana.
 
 V.
 
 SU
 
-FE ERA UNA FE SALVADORA. Les he mostrado cmo estaba deplorablemente empaada,
+FE ERA UNA FE SALVADORA. Les he mostrado cómo estaba deplorablemente empańada,
 
 pero, a pesar de ello, fue eficaz. Rahab fue salvada cuando todos los muros se
 
-desplomaron. Su casa estaba sobre el muro, pero all permaneci. No deba
+desplomaron. Su casa estaba sobre el muro, pero allí permaneció. żNo debía
 
-parecer extrao? Los muros comenzaron a mecerse y a temblar, y luego se
+parecer extrańo? Los muros comenzaron a mecerse y a temblar, y luego se
 
 desplomaron con un sonido estrepitoso y densas nubes de polvo volaron a lo
 
-alto; pero a pesar de todo eso, permaneci un pedazo de muro sobre el que
+alto; pero a pesar de todo eso, permaneció un pedazo de muro sobre el que
 
 estaba la casa de Rahab, como una isla en medio de un mar tempestuoso. Los
 
 israelitas se lanzaron sobre las ruinas del muro y persiguieron con furia a los
 
-hombres condenados y los mataron, pues Dios les haba ordenado que fueran sus
+hombres condenados y los mataron, pues Dios les había ordenado que fueran sus
 
-verdugos. Ni uno solo escap; pero ni una sola espada se acerc al pecho de
+verdugos. Ni uno solo escapó; pero ni una sola espada se acercó al pecho de
 
-Rahab, y la muerte no le arrebat a ninguno de sus parientes. Rahab fue
+Rahab, y la muerte no le arrebató a ninguno de sus parientes. Rahab fue
 
 salvada. Fue sacada de su casa con sus amigos, y fue puesta fuera del
 
-campamento de los israelitas y posteriormente fue recibida en l. Fue desposada
+campamento de los israelitas y posteriormente fue recibida en él. Fue desposada
 
-con Salmn, un prncipe de Jud, y despus tuvo la gran dignidad de ser contada
+con Salmón, un príncipe de Judá, y después tuvo la gran dignidad de ser contada
 
-entre los ancestros de nuestro Seor. Entonces, amados hermanos, la verdadera
+entre los ancestros de nuestro Seńor. Entonces, amados hermanos, la verdadera
 
-fe en Cristo, aunque sea dbil, nos salvar, nos separar del mundo, nos unir
+fe en Cristo, aunque sea débil, nos salvará, nos separará del mundo, nos unirá
 
-al Israel de Dios, nos desposar con el verdadero Prncipe de Jud y nos
+al Israel de Dios, nos desposará con el verdadero Príncipe de Judá y nos
 
-emparentar con el Seor Jesucristo, y qu mayor dignidad es posible recibir?
+emparentará con el Seńor Jesucristo, ży qué mayor dignidad es posible recibir?
 
 VI.
 
 Voy
 
-a concluir una vez que haya mencionado el ltimo punto, y es que SU FE FUE
+a concluir una vez que haya mencionado el último punto, y es que SU FE FUE
 
-ACEPTABLE PARA DIOS, DE TAL MANERA QUE ELLA FUE EL INSTRUMENTO DE SALVACIN DE
+ACEPTABLE PARA DIOS, DE TAL MANERA QUE ELLA FUE EL INSTRUMENTO DE SALVACIÓN DE
 
-OTROS. Oh, esto me gusta de Rahab: que no negoci nicamente su propia
+OTROS. Oh, esto me gusta de Rahab: que no negoció únicamente su propia
 
-seguridad. Su pecado no haba endurecido su corazn como lo hace el pecado en
+seguridad. Su pecado no había endurecido su corazón como lo hace el pecado en
 
-muchos casos. Ella pens en su padre y en su madre y en sus hermanos y en sus
+muchos casos. Ella pensó en su padre y en su madre y en sus hermanos y en sus
 
-hermanas. Ahora bien, en dondequiera que haya un verdadero hijo de Dios, habr
+hermanas. Ahora bien, en dondequiera que haya un verdadero hijo de Dios, habrá
 
-ansiedad por su familia. Si t no quieres que tus hijos sean salvos, entonces t
+ansiedad por su familia. Si tú no quieres que tus hijos sean salvos, entonces tú
 
 mismo no eres salvo. Yo he visto profesantes que pensaban que bastaba con que
 
-fueran solos al cielo. Conoc a un varn que estaba dispuesto a caminar veinte
+fueran solos al cielo. Conocí a un varón que estaba dispuesto a caminar veinte
 
-millas los domingos para or
+millas los domingos para oír
 
-la verdad
+“la verdad”
 
-que
+–que
 
-slo se predicaba en un lugar- pero cuando se le pregunt adnde asista su
+sólo se predicaba en un lugar- pero cuando se le preguntó adónde asistía su
 
-familia, respondi que eso no era asunto suyo puesto que Dios salvara a Sus
+familia, respondió que eso no era asunto suyo puesto que Dios salvaría a Sus
 
 propios elegidos. Tales personas no son hijas de Dios, porque los hijos de Dios
 
@@ -1202,89 +1202,89 @@ sus hermanas fueran salvados.
 
 Oh, ustedes, miembros
 
-del pueblo cristiano, procuren ser buenos en sus relaciones hogareas. Yo no
+del pueblo cristiano, procuren ser buenos en sus relaciones hogareńas. Yo no
 
-dara ni un centavo por ustedes si no fueran un buen esposo o una buena esposa.
+daría ni un centavo por ustedes si no fueran un buen esposo o una buena esposa.
 
-Fuera con su cristianismo si los hace ser malos hijos! Un padre dominante y
+ˇFuera con su cristianismo si los hace ser malos hijos! Un padre dominante y
 
-hosco, un hijo rebelde, una esposa chismosa, una sirvienta desaliada y ociosa,
+hosco, un hijo rebelde, una esposa chismosa, una sirvienta desalińada y ociosa,
 
-un amo tirano, todos ellos pueden pertenecer a Satans, pero Dios no los
+un amo tirano, todos ellos pueden pertenecer a Satanás, pero Dios no los
 
-reconocer. Rahab, a pesar de todas sus fallas, senta un intenso amor por su
+reconocerá. Rahab, a pesar de todas sus fallas, sentía un intenso amor por su
 
 parentela.
 
 Pero noten que,
 
-amndolos como lo haca, no poda salvarlos a menos que los pusiera bajo la
+amándolos como lo hacía, no podía salvarlos a menos que los pusiera bajo la
 
 bandera roja. Si cualquiera de ellos se hubiera detenido en las calles cuando
 
-los israelitas estaban matando al pueblo, habran podido decir: yo pertenezco
+los israelitas estaban matando al pueblo, habrían podido decir: “yo pertenezco
 
-a Rahab, pero la respuesta habra sido: No podemos hacer nada, el juramento
+a Rahab”, pero la respuesta habría sido: “No podemos hacer nada, el juramento
 
-que hicimos fue perdonar a todos los de la casa donde el cordn de grana
+que hicimos fue perdonar a todos los de la casa donde el cordón de grana
 
-estuviera atado a la ventana, y si t no ests all no puedes ser perdonado.
+estuviera atado a la ventana, y si tú no estás allí no puedes ser perdonado”.
 
-No servir de nada decir cuando mueras: Perdname, oh ngel vengador, mi madre
+No servirá de nada decir cuando mueras: “Perdóname, oh ángel vengador, mi madre
 
-or por m, mi hermana agoniz por mi conversin. No, t has de entrar en
+oró por mí, mi hermana agonizó por mi conversión”. No, tú has de entrar en
 
-Cristo personalmente, y has de tener una fe real en l, o ninguna oracin de
+Cristo personalmente, y has de tener una fe real en Él, o ninguna oración de
 
 otros puede servirte de algo. Pero la misericordia fue que de alguna manera
 
 Rahab fue ayudada por Dios para meter en la casa a toda la familia. Su padre no
 
-dijo: No, hija ma, yo no creo eso. Algunos de ustedes tienen padres que
+dijo: “No, hija mía, yo no creo eso”. Algunos de ustedes tienen padres que
 
-dicen efectivamente eso. Oren mucho por ellos. Y la madre no dijo: hija ma,
+dicen efectivamente eso. Oren mucho por ellos. Y la madre no dijo: “hija mía,
 
-ests loca. Siempre pens que estabas un poco afectada en tu cerebro. No vengas
+estás loca. Siempre pensé que estabas un poco afectada en tu cerebro. No vengas
 
-a ensearle a tu madre. No, sino que la madre estaba all tambin. Cuando los
+a enseńarle a tu madre”. No, sino que la madre estaba allí también. Cuando los
 
-israelitas marcharon en torno a la ciudad los seis das, y el pueblo de Jeric
+israelitas marcharon en torno a la ciudad los seis días, y el pueblo de Jericó
 
-se rea y deca: qu insensatos son al pensar que van a lograr que los muros
+se reía y decía: “qué insensatos son al pensar que van a lograr que los muros
 
-se desplomen si caminan alrededor de ellos, Rahab segua confiando en Dios;
+se desplomen si caminan alrededor de ellos”, Rahab seguía confiando en Dios;
 
 pero me atrevo a decir que tuvo alguna dificultad al tratar de persuadir a sus
 
-vivaces hermanas y a sus argumentativos hermanos para que creyeran tambin. Le
+vivaces hermanas y a sus argumentativos hermanos para que creyeran también. Le
 
-diran: Rahab, ests convencida de esto? Acaso no es una pura farsa todo
+dirían: “Rahab, żestás convencida de esto? żAcaso no es una pura farsa todo
 
-esto? De alguna manera, tal fue la influencia que Dios le dio, tal fue el
+esto?” De alguna manera, tal fue la influencia que Dios le dio, tal fue el
 
 poder de su fe, que todos ellos permanecieron en la casa y fueron salvados con
 
 sus familias. La casa, me atrevo a decir, estaba llena a reventar, y a Rahab le
 
-alegraba ver eso. Que Dios me conceda que toda mi familia sea preservada as.
+alegraba ver eso. Que Dios me conceda que toda mi familia sea preservada así.
 
-Yo estoy seguro de que cada hijo de Dios est musitando aqu la misma oracin:
+Yo estoy seguro de que cada hijo de Dios está musitando aquí la misma oración:
 
-Dios de Rahab, dame a mi padre y a mi madre, y a mis hermanos, y a mis
+“Dios de Rahab, dame a mi padre y a mi madre, y a mis hermanos, y a mis
 
-hermanas, y a toda mi parentela. Que el Seor oiga sus oraciones, y los
+hermanas, y a toda mi parentela”. Que el Seńor oiga sus oraciones, y los
 
-bendiga por Jesucristo nuestro Seor. Amn.
+bendiga por Jesucristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Josu 2 y Josu 6: 22-25.
+del sermón: Josué 2 y Josué 6: 22-25.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 10/Septiembre/2012
 

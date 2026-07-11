@@ -1,8 +1,8 @@
 # Sermón 2299 | Sermón 2299
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Espinos y Cardos
 
@@ -14,83 +14,83 @@ Y PREDICADO POR CHARLES HADDON
 
 SPURGEON
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Espinos y cardos te producir. Gnesis 3: 18.
+“Espinos y cardos te producirá”. Génesis 3: 18.
 
 Este no era el castigo
 
-que hubiera podido ser pronunciado en contra de Adn. Esta maldicin no cae
+que hubiera podido ser pronunciado en contra de Adán. Esta maldición no cae
 
-directamente sobre l; mira de reojo y cae sobre la tierra donde l est:
+directamente sobre él; mira de reojo y cae sobre la tierra donde él está:
 
-Maldita ser la tierra por tu causa. No es del materialismo que viene una
+“Maldita será la tierra por tu causa”. No es del materialismo que viene una
 
-maldicin contra el espritu del hombre, sino que es del espritu que yerra que
+maldición contra el espíritu del hombre, sino que es del espíritu que yerra que
 
-cae la maldicin sobre la creacin material. Notemos esto y aprendamos de ello
+cae la maldición sobre la creación material. Notemos esto y aprendamos de ello
 
-la infinita misericordia de Dios en que si bien la maldicin cae claramente
+la infinita misericordia de Dios en que si bien la maldición cae claramente
 
-sobre la serpiente y su cabeza es herida, con todo viene sobre Adn, como ya lo
+sobre la serpiente y su cabeza es herida, con todo viene sobre Adán, como ya lo
 
-he dicho, oblicuamente. Maldita ser la tierra por tu causa. Espinos y
+he dicho, oblicuamente. “Maldita será la tierra por tu causa”. “Espinos y
 
-cardos te producir. Dios, en Su justicia, nunca va ms all de la justicia
+cardos te producirá”. Dios, en Su justicia, nunca va más allá de la justicia
 
-aun al pronunciar Su ms severa sentencia; pero aqu, en esta vida, mitiga Su
+aun al pronunciar Su más severa sentencia; pero aquí, en esta vida, mitiga Su
 
-justicia con gran paciencia y longanimidad, no queriendo que ninguno perezca,
+justicia con gran paciencia y longanimidad, “no queriendo que ninguno perezca,
 
-sino que todos procedan al arrepentimiento.
+sino que todos procedan al arrepentimiento”.
 
-Algo ms es muy notable,
+Algo más es muy notable,
 
-que aunque la tierra iba a producir ahora espinos y cardos para Adn, l iba a
+que aunque la tierra iba a producir ahora espinos y cardos para Adán, él iba a
 
 estar sobre la tierra e iba a vivir para labrarla. Si la sentencia hubiera sido
 
-aplicada con todo el rigor, una tumba bostezante se habra abierto a sus pies y
+aplicada con todo el rigor, una tumba bostezante se habría abierto a sus pies y
 
-no hubiera habido nada ms de Adn; pero se le permiti que viviera todava. Entonces,
+no hubiera habido nada más de Adán; pero se le permitió que viviera todavía. Entonces,
 
-siempre que los espinos y los cardos broten en tu camino, no murmures. Por
+siempre que los espinos y los cardos broten en tu camino, no murmures. “żPor
 
-qu se lamenta el hombre
+qué se lamenta el hombre
 
-viviente?
+viviente?”
 
-Cuando un criminal est encerrado en el calabozo y le ha sido dictada la
+Cuando un criminal está encerrado en el calabozo y le ha sido dictada la
 
 sentencia de muerte, si se le perdonara la vida, puede estar muy contento de
 
-vivir a pan y agua por el resto de sus das. Dale gracias a Dios porque no
+vivir a pan y agua por el resto de sus días. Dale gracias a Dios porque no
 
-ests en el infierno; dale gracias a Dios porque te ha prolongado la vida
+estás en el infierno; dale gracias a Dios porque te ha prolongado la vida
 
-todava. Ests en una tierra donde puedes orar y usar trminos de splica con Dios,
+todavía. Estás en una tierra donde puedes orar y usar términos de súplica con Dios,
 
-aun cuando esa tierra produzca espinos y cardos para ti. No ha hecho con
+aun cuando esa tierra produzca espinos y cardos para ti. “No ha hecho con
 
-nosotros conforme a nuestras iniquidades. Todava se nos ha concedido la vida
+nosotros conforme a nuestras iniquidades”. Todavía se nos ha concedido la vida
 
 y si bien hay espinos y cardos que brotan alrededor nuestro, con todo, ese es
 
 un leve castigo comparado con lo que realmente merecemos sufrir.
 
-Y noten luego algo ms:
+Y noten luego algo más:
 
-cmo se puede extraer dulzura de lo que es amargo. Si la tierra iba a producir
+cómo se puede extraer dulzura de lo que es amargo. Si la tierra iba a producir
 
-espinos y cardos para Adn, entonces l iba a vivir todava. No slo estaba
+espinos y cardos para Adán, entonces él iba a vivir todavía. No sólo estaba
 
-vivo, sino que iba a continuar viviendo, pues el Seor agreg: Y comers
+vivo, sino que iba a continuar viviendo, pues el Seńor agregó: “Y comerás
 
-plantas del campo. Aunque la sentencia le arrebat a Adn los suculentos
+plantas del campo”. Aunque la sentencia le arrebató a Adán los suculentos
 
-frutos del paraso, con todo, le aseguraba su sustento. l iba a vivir; la
+frutos del paraíso, con todo, le aseguraba su sustento. Él iba a vivir; la
 
 tierra iba a producir suficientes plantas del campo para que continuara
 
@@ -98,101 +98,101 @@ existiendo. Aunque a partir de entonces todo lo que comiera iba a ser con el
 
 sudor de su frente, con todo, iba a tener lo suficiente para comer e iba a
 
-continuar viviendo. Los espinos y los cardos podan multiplicarse pero las
+continuar viviendo. Los espinos y los cardos podían multiplicarse pero las
 
-plantas del campo estaran disponibles para l y vivira. Las promesas de Dios
+plantas del campo estarían disponibles para él y viviría. Las promesas de Dios
 
 son veladas con frecuencia por Sus amenazas; y si la fe pudiera ver tan solo debajo
 
-de la spera envoltura del mensaje, algo alentador y esperanzador podra
+de la áspera envoltura del mensaje, algo alentador y esperanzador podría
 
-encontrarse en su interior. Hermanos y hermanas, ustedes tendrn tribulaciones;
+encontrarse en su interior. Hermanos y hermanas, ustedes tendrán tribulaciones;
 
-espinos y cardos les producir la tierra; pero se les dar su pan, y sus aguas
+espinos y cardos les producirá la tierra; pero se les dará su pan, y sus aguas
 
-sern seguras. T has sido provisto hasta ahora a pesar de muchas estrecheces y
+serán seguras. Tú has sido provisto hasta ahora a pesar de muchas estrecheces y
 
-tribulaciones, y as ser hasta el fin. El man no cesar hasta que comas del
+tribulaciones, y así será hasta el fin. El maná no cesará hasta que comas del
 
-viejo grano de Canan. Mientras necesites ms, Dios no cesar de alimentarte a
+viejo grano de Canaán. Mientras necesites más, Dios no cesará de alimentarte a
 
-lo largo de toda tu vida. Entonces, si el texto de esta noche suena ms o menos
+lo largo de toda tu vida. Entonces, si el texto de esta noche suena más o menos
 
-sombro y esperas un sermn lleno de espinos y cardos, con todo, yo confo que
+sombrío y esperas un sermón lleno de espinos y cardos, con todo, yo confío que
 
-habr mucho para animar y consolar a aquellos de ustedes que han encontrado por
+habrá mucho para animar y consolar a aquellos de ustedes que han encontrado por
 
-experiencia propia que es cierto que espinos y cardos te producir.
+experiencia propia que es cierto que “espinos y cardos te producirá”.
 
-Me gustara decirles a
+Me gustaría decirles a
 
-aquellos que estn presentes y que tienen su porcin en esta vida que esa
+aquellos que están presentes y que tienen su porción en esta vida que esa
 
-porcin no es gran cosa. Espinos y cardos te producir; y si eso fuera todo lo
+porción no es gran cosa. Espinos y cardos te producirá; y si eso fuera todo lo
 
-que tuvieras, tienes una racin miserable con la cual vivir.
+que tuvieras, tienes una ración miserable con la cual vivir.
 
-Hay ms all del firmamento
+“Hay más allá del firmamento
 
-Un cielo de dicha y amor;
+Un cielo de dicha y amor”;
 
 Pero debajo del
 
-firmamento no hay un cielo as. Aun para los piadosos hay espinos y cardos;
+firmamento no hay un cielo así. Aun para los piadosos hay espinos y cardos;
 
 pero para ustedes que no son piadosos, espinos y cardos es todo lo que hay. Si
 
-no tienen ninguna herencia al otro lado del Jordn, en la tierra del ms all,
+no tienen ninguna herencia al otro lado del Jordán, en la tierra del más allá,
 
 en la morada de los bienaventurados, bueno les fuera a ustedes no haber nacido.
 
-A pesar de todos los deleites pasajeros que ahora poseen, ser slo como el
+A pesar de todos los deleites pasajeros que ahora poseen, será sólo como el
 
-estrpito de los espinos debajo de la olla, que pronto acaba, y no queda nada
+estrépito de los espinos debajo de la olla, que pronto acaba, y no queda nada
 
-sino un puado de cenizas en la oscuridad sempiterna. Oh, que aprendieras de
+sino un puńado de cenizas en la oscuridad sempiterna. ˇOh, que aprendieras de
 
 esto a no poner la mira en las cosas de abajo, sino a buscar una tierra mejor y
 
-ms resplandeciente donde el espino no crece nunca y el cardo nunca brota!
+más resplandeciente donde el espino no crece nunca y el cardo nunca brota!
 
 Pero ahora lleguemos al
 
-anlisis de nuestro texto, por espinoso que parezca.
+análisis de nuestro texto, por espinoso que parezca.
 
 I.
 
 Y,
 
-primero, se establece aqu UN HECHO GENERAL. Vamos a considerar este hecho.
+primero, se establece aquí UN HECHO GENERAL. Vamos a considerar este hecho.
 
 Desde ese primer pecado de nuestros primeros padres, con respecto a toda la
 
 raza humana esto ha sido generalmente cierto no solo de la tierra literalmente,
 
-sino de todo lo dems que nos rodea: Espinos y cardos te producir.
+sino de todo lo demás que nos rodea: “Espinos y cardos te producirá”.
 
-As es con respecto
+Así es con respecto
 
 al mundo natural.
 
-Este mundo est lleno
+Este mundo está lleno
 
-de belleza; est lleno de luz; produce mil placeres; pero todava est lleno de
+de belleza; está lleno de luz; produce mil placeres; pero todavía está lleno de
 
-terror. Hay mucho, ciertamente, que angustia a los frgiles mortales que viven
+terror. Hay mucho, ciertamente, que angustia a los frágiles mortales que viven
 
-en este mundo. Alguna vez te has adentrado en el mar en una tormenta? No
+en este mundo. żAlguna vez te has adentrado en el mar en una tormenta? żNo
 
 sentiste como si la naturaleza estuviera en guerra contigo en aquel momento?
 
-No has estado alguna vez en tierra en alguna tremenda tormenta elctrica,
+żNo has estado alguna vez en tierra en alguna tremenda tormenta eléctrica,
 
-cuando la tierra entera pareca sacudirse y rayos de fuego partan los cielos?
+cuando la tierra entera parecía sacudirse y rayos de fuego partían los cielos?
 
-Ah, entonces has sentido que este mundo no es para nada un paraso desde que
+ˇAh, entonces has sentido que este mundo no es para nada un paraíso desde que
 
-el hombre se volvi pecador! Las estrellas del cielo no luchan por l, sino que
+el hombre se volvió pecador! Las estrellas del cielo no luchan por él, sino que
 
 algunas veces luchan en su contra. Hay muchas cosas en este mundo, con sus severas
 
@@ -202,11 +202,11 @@ criatura pudiera desear. Es una criatura pecaminosa y aunque no sufre toda la
 
 incomodidad que merece, con todo este mundo es diferente de lo que era cuando
 
-Dios puso a Adn en l para que se deleitara en el paraso.
+Dios puso a Adán en él para que se deleitara en el paraíso.
 
 Como es en el mundo
 
-natural, as es tambin en
+natural, así es también en
 
 el mundo
 
@@ -214,41 +214,41 @@ social.
 
 Entras en el amplio mundo del comercio y de los negocios y creo que
 
-encuentras que te produce espinos y cardos. No tienes en este mundo algn trato
+encuentras que te produce espinos y cardos. No tienes en este mundo algún trato
 
-a la semana, algn trabajo a la semana, algunos movimientos a la semana sin que
+a la semana, algún trabajo a la semana, algunos movimientos a la semana sin que
 
-te encuentres un espino punzante por aqu y por all. Si bien no todos tenemos
+te encuentres un espino punzante por aquí y por allá. Si bien no todos tenemos
 
 que quejarnos de esta experiencia, pienso que todos los que somos cristianos
 
 admitiremos que el mundo no es un lugar propicio para un hombre o una mujer
 
-creyentes. La sociedad del mundo no es de ayuda para un corazn santo. Tener
+creyentes. La sociedad del mundo no es de ayuda para un corazón santo. Tener
 
-que mezclarse en l es ms bien una tarea para la que necesitamos mucha gracia,
+que mezclarse en él es más bien una tarea para la que necesitamos mucha gracia,
 
-tal como clamamos: No nos metas en tentacin, mas lbranos del mal. No
+tal como clamamos: “No nos metas en tentación, mas líbranos del mal”. No
 
 necesitas involucrarte mucho con los hombres del mundo sin que encuentres que muchos
 
-de ellos son ms cortantes que un zarzal; y no puedes ir de un lado a otro en
+de ellos son más cortantes que un zarzal; y no puedes ir de un lado a otro en
 
-la tierra sin descubrir que ests rodeado de individuos que hacen que a tu
+la tierra sin descubrir que estás rodeado de individuos que hacen que a tu
 
 alrededor crezcan espinos y cardos. No se sorprendan cuando este sea el caso,
 
-pues es lo que el Seor predijo: Si el mundo os aborrece, sabed que a m me ha
+pues es lo que el Seńor predijo: “Si el mundo os aborrece, sabed que a mí me ha
 
-aborrecido antes que a vosotros. Si fuerais del mundo, el mundo amara lo suyo;
+aborrecido antes que a vosotros. Si fuerais del mundo, el mundo amaría lo suyo;
 
-pero porque no sois del mundo, antes yo os eleg del mundo, por eso el mundo os
+pero porque no sois del mundo, antes yo os elegí del mundo, por eso el mundo os
 
-aborrece.
+aborrece”.
 
 Sucede lo mismo,
 
-tambin, en
+también, en
 
 el mundo religioso.
 
@@ -256,133 +256,133 @@ Leemos,
 
 en el Libro de Oseas que se apartaron de Dios, y erigieron altares; y
 
-posteriormente se dice: Crecer sobre sus altares espino y cardo. Los peores
+posteriormente se dice: “Crecerá sobre sus altares espino y cardo”. Los peores
 
-espinos y cardos que hieren jams a mi corazn son los que crecen en los
+espinos y cardos que hieren jamás a mi corazón son los que crecen en los
 
-crculos religiosos. Ver a la verdad de Dios deshonrada, que se niegue la
+círculos religiosos. Ver a la verdad de Dios deshonrada, que se niegue la
 
-gloria de la sustitucin de Cristo, or doctrinas predicadas que seran novedosas
+gloria de la sustitución de Cristo, oír doctrinas predicadas que serían novedosas
 
 si no fueran viejos errores remendados como nuevos y sacados del olvido en el
 
-que merecan podrirse, y ver que personas cristianas se comportan como lo hacen
+que merecían podrirse, y ver que personas cristianas se comportan como lo hacen
 
 algunos, teniendo poco respeto por el nombre de Aquel a quien profesan servir,
 
-y trayendo descrdito a la causa sagrada por la que deberan estar dispuestos a
+y trayendo descrédito a la causa sagrada por la que deberían estar dispuestos a
 
-morir antes que empaarla, estos son espinos y cardos que nos atraviesan hasta el
+morir antes que empańarla, estos son espinos y cardos que nos atraviesan hasta el
 
-propio corazn. No puedes vivir en la iglesia ni vivir en el mundo sin
+propio corazón. ˇNo puedes vivir en la iglesia ni vivir en el mundo sin
 
 encontrar que este estado presente de vida produce espinos y cardos a los
 
-hombres, s, incluso a varones cristianos! No nicamente para el primer Adn y para
+hombres, sí, incluso a varones cristianos! No únicamente para el primer Adán y para
 
 su simiente, sino para el
 
-segundo Adn y
+segundo Adán y
 
 para Su simiente, este presente estado tiene esto como una de sus
 
-caractersticas ciertas: Espinos y cardos te producir.
+características ciertas: “Espinos y cardos te producirá”.
 
-Voy a ir un poco ms
+Voy a ir un poco más
 
 adelante y voy a pisar un terreno delicado. Me temo que muchos de ustedes han
 
 sentido que, aun
 
-en el pequeo mundo
+en el pequeńo mundo
 
 familiar
 
 en el que se mueven, no se han quedado sin tribulaciones. Dios,
 
-cuando quit el paraso como nuestro hogar, nos dio el hogar para que fuera
+cuando quitó el paraíso como nuestro hogar, nos dio el hogar para que fuera
 
-nuestro paraso; y si hubiera algn lugar donde todas las dichas pudieran ser
+nuestro paraíso; y si hubiera algún lugar donde todas las dichas pudieran ser
 
-encontradas es en torno a la chimenea familiar. Hogar dulce hogar. No hay
+encontradas es en torno a la chimenea familiar. “Hogar dulce hogar”. “No hay
 
-lugar como el hogar. Sin embargo, dnde hay un hogar sin afliccin? El hijo
+lugar como el hogar”. Sin embargo, żdónde hay un hogar sin aflicción? El hijo
 
 querido a quien amas se enferma y muere; tal vez la esposa o el esposo pudieran
 
-ser llevados al hogar permanente; o interviene la pobreza; o uno que amas ms
+ser llevados al hogar permanente; o interviene la pobreza; o uno que amas más
 
 que a ti mismo languidece diariamente con constante enfermedad y frecuente
 
-agona. No, no debemos esperar una perfecta paz, una perfecta felicidad, aun en
+agonía. No, no debemos esperar una perfecta paz, una perfecta felicidad, aun en
 
-el hogar que es bendecido con la oracin matutina y vespertina, donde Dios
+el hogar que es bendecido con la oración matutina y vespertina, donde Dios
 
-cierra con llave la puerta en la noche y corre las cortinas en la maana; no,
+cierra con llave la puerta en la noche y corre las cortinas en la mańana; no,
 
-ni siquiera all, mis queridos amigos, estaremos libres de la maldicin que el
+ni siquiera allí, mis queridos amigos, estaremos libres de la maldición que el
 
-pecado trajo a este hermoso mundo. Todava esta palabra nos seguir a los recintos
+pecado trajo a este hermoso mundo. Todavía esta palabra nos seguirá a los recintos
 
-sagrados de nuestras propias moradas, Espinos y cardos te producir.
+sagrados de nuestras propias moradas, “Espinos y cardos te producirá”.
 
-Y es as si te acercas todava
+Y es así si te acercas todavía
 
-ms al hogar, al microcosmos o
+más al hogar, al microcosmos o
 
-pequeo
+pequeńo
 
 mundo de tu propio yo.
 
 No hay ninguna parte del hombre que no le produzca
 
-sus espinos. Muchos de nosotros tenemos una espina en la carne. Hay alguna
+sus espinos. Muchos de nosotros tenemos una espina en la carne. żHay alguna
 
-parte del cuerpo que no pueda convertirse, si Dios as lo quiere, en el foco de
+parte del cuerpo que no pueda convertirse, si Dios así lo quiere, en el foco de
 
 una enfermedad, y consecuentemente, en fuente de dolor para nosotros? Yo
 
-conozco a algunos a quienes Dios ama mucho yo s que los ama puesto que los
+conozco a algunos a quienes Dios ama mucho –yo sé que los ama puesto que los
 
 favorece grandemente- que sin embargo encuentran que en el cuerpo de esta carne
 
-estn las simientes de la corrupcin. Estn las fuentes amargas de Mara en
+están las simientes de la corrupción. Están las fuentes amargas de Mara en
 
-razn del agudo dolor del cuerpo; y en cuanto a la mente misma, qu mente hay
+razón del agudo dolor del cuerpo; y en cuanto a la mente misma, żqué mente hay
 
-que est llena de fe, y sumamente gozosa en el Seor, que no est naturalmente todava
+que esté llena de fe, y sumamente gozosa en el Seńor, que no esté naturalmente todavía
 
-sujeta al dolor? Vendrn tiempos de depresin, pocas de aprehensin, noches
+sujeta al dolor? Vendrán tiempos de depresión, épocas de aprehensión, noches
 
 cuando es retirada la luz del semblante de Dios, o cuando, aunque sepamos que
 
-poseemos el amor de Dios, no es derramado por el Espritu Santo en el corazn
+poseemos el amor de Dios, no es derramado por el Espíritu Santo en el corazón
 
-en la misma medida que en nuestras horas ms brillantes. S, y aun en el alma
+en la misma medida que en nuestras horas más brillantes. Sí, y aun en el alma
 
-misma, en razn de la imperfeccin de nuestra santificacin por el hecho de que
+misma, en razón de la imperfección de nuestra santificación por el hecho de que
 
-no estamos tan llenos del Espritu, y no estamos tan conscientes de la
+no estamos tan llenos del Espíritu, y no estamos tan conscientes de la
 
-permanencia del Espritu dentro de nosotros como todava lo estaremos, espinos
+permanencia del Espíritu dentro de nosotros como todavía lo estaremos, espinos
 
 y cardos son producidos para nosotros. Pudiera estar hablando a algunos que
 
-pueden decir, enfticamente, que con frecuencia encuentran grandes cultivos de
+pueden decir, enfáticamente, que con frecuencia encuentran grandes cultivos de
 
 cardos que brotan en sus corazones, y tienen que mantener activa la hoz de la
 
-sagrada mortificacin para recortarlos, y procuran, si es posible, arrancarlos
+sagrada mortificación para recortarlos, y procuran, si es posible, arrancarlos
 
-de raz. Pero as es; no pueden esperar una vida perfecta de felicidad en un
+de raíz. Pero así es; no pueden esperar una vida perfecta de felicidad en un
 
-mundo imperfecto como este. No; su Salvador llev la cruz, y ustedes tendrn
+mundo imperfecto como este. No; su Salvador llevó la cruz, y ustedes tendrán
 
-que cargar con una cruz de algn tipo u otro en pos de l. Espinos y cardos te
+que cargar con una cruz de algún tipo u otro en pos de Él. “Espinos y cardos te
 
-producir.
+producirá”.
 
-Ahora, meditando todava
+Ahora, meditando todavía
 
 en este terrible hecho, tal como se ha predicho en el texto, aprendamos del
 
@@ -390,17 +390,17 @@ texto mismo, primero, que
 
 las
 
-tribulaciones vendrn espontneamente.
+tribulaciones vendrán espontáneamente.
 
 Nadie es tan tonto como para sembrar
 
-espinos y cardos. Me he preguntado a menudo quin debe de haber sido ese gran
+espinos y cardos. Me he preguntado a menudo quién debe de haber sido ese gran
 
-tonto, que, como era escocs, deseaba ver que el viejo cardo escocs creciera
+tonto, que, como era escocés, deseaba ver que el viejo cardo escocés creciera
 
-en Nueva Zelanda, y por tanto, envi un paquete de semillas hacia all para
+en Nueva Zelanda, y por tanto, envió un paquete de semillas hacia allá para
 
-envenenar, con su precioso cardo, esa tierra donde no haba ninguno antes. Yo
+envenenar, con su precioso cardo, esa tierra donde no había ninguno antes. Yo
 
 pienso que el hombre que se aventurara a sembrar aun una semilla de un cardo en
 
@@ -410,57 +410,57 @@ que haber avanzado un buen trecho en el camino de la locura. Pero, querido
 
 amigo, aunque nunca le causes problemas a otros y no hagas nada que te pueda
 
-producir problemas a ti, -y t seras un varn maravillosamente sabio si ese
+producir problemas a ti, -y tú serías un varón maravillosamente sabio si ese
 
-fuera el caso- con todo, los problemas vendrn por s solos. Si t necesitas
+fuera el caso- con todo, los problemas vendrán por sí solos. Si tú necesitas
 
 una hierba del campo de la que te debes alimentar, tienes que sembrarla. Tu
 
 trigo y tu cebada has de sembrar con diligencia. En cuanto a los espinos y
 
-cardos, no tienes que meterte en ningn problema para sembrarlos; brotarn por
+cardos, no tienes que meterte en ningún problema para sembrarlos; brotarán por
 
-s solos espontneamente; y as las aflicciones y tribulaciones de esta vida
+sí solos espontáneamente; y así las aflicciones y tribulaciones de esta vida
 
-vendrn a ti sin ningn esfuerzo de tu parte.
+vendrán a ti sin ningún esfuerzo de tu parte.
 
-Y, as como vienen
+Y, así como vienen
 
-espontneamente, as
+espontáneamente, así
 
 las tribulaciones
 
-vendrn inevitablemente.
+vendrán inevitablemente.
 
-No me importa cun cuidadoso pudiera ser un hombre
+No me importa cuán cuidadoso pudiera ser un hombre
 
-con su granja, encontrar espinos y cardos que brotan y que necesitan ser
+con su granja, encontrará espinos y cardos que brotan y que necesitan ser
 
-destruidos. Pudo haber arado y pasado la grada y hacer lo mejor que poda para
+destruidos. Pudo haber arado y pasado la grada y hacer lo mejor que podía para
 
-liberarse de todo cardo en el otoo antes que echara semillas, y sin embargo,
+liberarse de todo cardo en el otońo antes que echara semillas, y sin embargo,
 
-no puede librarse de esas cosas problemticas; vendrn con seguridad. As
+no puede librarse de esas cosas problemáticas; vendrán con seguridad. Así
 
-pueden tener la certeza de que les vendrn problemas del corazn, y problemas
+pueden tener la certeza de que les vendrán problemas del corazón, y problemas
 
-del cuerpo y problemas de la mente. Vigilen y gurdense de ellos como puedan.
+del cuerpo y problemas de la mente. Vigilen y guárdense de ellos como puedan.
 
-Toda la prudencia y el cuidado, s, y toda la oracin y fe que puedan convocar
+Toda la prudencia y el cuidado, sí, y toda la oración y fe que puedan convocar
 
-en su ayuda no los mantendr libres de esos espinos y cardos. Como son
+en su ayuda no los mantendrá libres de esos espinos y cardos. Como son
 
-espontneos, son inevitables.
+espontáneos, son inevitables.
 
-Para muchos, tambin,
+Para muchos, también,
 
 las tribulaciones son muy abundantes.
 
-Espinos
+“Espinos
 
 y
 
-cardos;
+cardos”;
 
 no
 
@@ -472,47 +472,53 @@ un
 
 cardo, sino espinos y cardos, y una abundancia de ellos, te
 
-producir. Si alguno de ustedes es vejado con una tribulacin tras otra, les
+producirá. Si alguno de ustedes es vejado con una tribulación tras otra, les
 
-ruego que no piensen que es algo extrao; no estn completamente solos en esa
+ruego que no piensen que es algo extrańo; no están completamente solos en esa
 
-experiencia. Muchos de ustedes, debido a sus problemas, se aislarn y dirn: Yo
+experiencia. Muchos de ustedes, debido a sus problemas, se aislarán y dirán: “Yo
 
-soy el hombre que ha visto afliccin. Alto; yo puedo encontrarte a otro hombre
+soy el hombre que ha visto aflicción”. Alto; yo puedo encontrarte a otro hombre
 
 que puede igualarte, y a muchas mujeres que pueden sobrepasarte en sus
 
-aflicciones. La senda de la afliccin es hollada por miles de pies; est
+aflicciones. La senda de la aflicción es hollada por miles de pies; está
 
-apisonada por el trfico; pero como conduce al reino eterno cuando el pie de un
+apisonada por el tráfico; pero como conduce al reino eterno cuando el pie de un
 
-creyente pisa en ella slo necesitamos regocijarnos siguiendo las pisadas del
+creyente pisa en ella sólo necesitamos regocijarnos siguiendo las pisadas del
 
-rebao, y mirar a nuestras tribulaciones como las seales de que vamos adonde
+rebańo, y mirar a nuestras tribulaciones como las seńales de que vamos adonde
 
-el grandioso Pastor nos conduce. As cantamos:
+el grandioso Pastor nos conduce. Así cantamos:
 
-Es este, amado Seor, aquel camino espinoso
+“
+
+ż
+
+Es este, amado Seńor, aquel camino espinoso
 
 Que nos conduce al monte de Dios
 
 ?
 
+ż
+
 Son estos los trabajos pesados que Tu
 
 pueblo conoce,
 
-Mientras est en el desierto aqu abajo
+Mientras está en el desierto aquí abajo
 
 ?
 
-As es, Tu fiel amor
+Así es, Tu fiel amor
 
-Prueba as las gracias de Tus hijos;
+Prueba así las gracias de Tus hijos;
 
-Es as como nuestro orgullo y el yo deben caer,
+Es así como nuestro orgullo y el yo deben caer,
 
-Para que Jess sea todo en todo.
+Para que Jesús sea todo en todo”.
 
 Espinos y cardos vienen
 
@@ -524,39 +530,39 @@ vienen de diferentes maneras.
 
 No es solo una forma de problemas, sino
 
-vienen en diversas formas: Espinos
+vienen en diversas formas: “Espinos
 
 y
 
-cardos.
+cardos”.
 
-Pudieras pensar que ya es lo suficientemente malo que ests
+Pudieras pensar que ya es lo suficientemente malo que estés
 
-enfermo; pero ser tambin pobre, tener tambin un hijo enfermo y ser acosado
+enfermo; pero ser también pobre, tener también un hijo enfermo y ser acosado
 
-por un enemigo calumniador pareciera ms de lo que puedes soportar. Ah, bien,
+por un enemigo calumniador pareciera más de lo que puedes soportar. ˇAh, bien,
 
-debes esperar estas cosas! Si slo tuvieras una forma de problemas, tal vez te
+debes esperar estas cosas! Si sólo tuvieras una forma de problemas, tal vez te
 
-acostumbraras a ellos, y por tanto podran perder su efecto. Es precisamente
+acostumbrarías a ellos, y por tanto podrían perder su efecto. Es precisamente
 
-el hecho de que hiere lo que lo hace til para nosotros. Salomn dice: Con la
+el hecho de que hiere lo que lo hace útil para nosotros. Salomón dice: “Con la
 
-tristeza del rostro se enmendar el corazn. Ninguna tribulacin en el presente
+tristeza del rostro se enmendará el corazón”. Ninguna tribulación en el presente
 
-es gozosa; si lo fuera, no sera ninguna tribulacin del todo. Si la vara no
+es gozosa; si lo fuera, no sería ninguna tribulación del todo. Si la vara no
 
-hace que el nio se duela, de qu sirve? Y si nuestros problemas no nos llevan
+hace que el nińo se duela, żde qué sirve? Y si nuestros problemas no nos llevan
 
-a dolernos, vamos, entonces no son problemas, y no hay espacio para que la
+a dolernos, vamos, ˇentonces no son problemas, y no hay espacio para que la
 
 gracia nos sustente bajo su peso! Podemos esperar tener tribulaciones de todo
 
-tipo y tamao, pues acompaan a los seguidores del Cordero en tanto que estn
+tipo y tamańo, pues acompańan a los seguidores del Cordero en tanto que estén
 
-en el mundo, que permanece bajo esta maldicin: Espinos y cardos te
+en el mundo, que permanece bajo esta maldición: “Espinos y cardos te
 
-producir.
+producirá”.
 
 Yo creo que, sin
 
@@ -564,17 +570,17 @@ retorcer el texto, puedo decir que
 
 la
 
-tribulaciones vendrn muy frecuentemente, pues espinos y cardos parecieran
+tribulaciones vendrán muy frecuentemente, pues espinos y cardos parecieran
 
-brotar muy temprano en la maana, y muy pronto en la primavera, y muy tarde en
+brotar muy temprano en la mańana, y muy pronto en la primavera, y muy tarde en
 
-el otoo y muy adentrado el invierno.
+el otońo y muy adentrado el invierno.
 
-Cundo hay un tiempo cuando un
+żCuándo hay un tiempo cuando un
 
-hombre en este mundo, s, incluso un varn cristiano, puede estar seguro de que
+hombre en este mundo, sí, incluso un varón cristiano, puede estar seguro de que
 
-estar perfectamente libre de problemas?
+estará perfectamente libre de problemas?
 
 Y
 
@@ -582,13 +588,13 @@ las tribulaciones vienen universalmente.
 
 Yo he visto espinos y
 
-cardos en la cimas de las Surrey Hills, creciendo por miradas, suficientes
+cardos en la cimas de las Surrey Hills, creciendo por miríadas, suficientes
 
 para sembrar un reino con ellos; y si desciendes al valle, al terrenito del
 
-hombre pobre, encontrars espinos y cardos all. Crecen en los jardines del
+hombre pobre, encontrarás espinos y cardos allí. Crecen en los jardines del
 
-Castillo de Windsor as como en el patio trasero de tu casa de huspedes. Los
+Castillo de Windsor así como en el patio trasero de tu casa de huéspedes. Los
 
 espinos y los cardos crecen en todas partes, en muladares o en conservatorios;
 
@@ -598,15 +604,15 @@ semilla del cardo a todas partes, y brota en los lugares menos esperados. Si
 
 piensas que otras personas han de ser envidiadas por causa de estar libres de
 
-tribulaciones, es posible que si supieras ms acerca de ellas, encontraras que
+tribulaciones, es posible que si supieras más acerca de ellas, encontrarías que
 
-habras de tener piedad de ellas, y que tu suerte, despus de todo, es mucho
+habrías de tener piedad de ellas, y que tu suerte, después de todo, es mucho
 
 mejor que la suya.
 
 Ahora no voy a decir
 
-nada ms acerca de este hecho general, un hecho que yo supongo que la mayora
+nada más acerca de este hecho general, un hecho que yo supongo que la mayoría
 
 de ustedes conoce tan bien como yo, que los espinos y los cardos, las tribulaciones
 
@@ -616,75 +622,75 @@ II.
 
 Pero
 
-ahora, en segundo lugar, ESTE HECHO TIENE QUE SER ENFRENTADO: Espinos y cardos
+ahora, en segundo lugar, ESTE HECHO TIENE QUE SER ENFRENTADO: “Espinos y cardos
 
-te producir.
+te producirá”.
 
 Ahora sepan esto,
 
 especialmente ustedes que son el pueblo cristiano, sepan esto, y entonces les
 
-evitar decepciones.
+evitará decepciones.
 
-Si t comienzas tu
+Si tú comienzas tu
 
-vida cristiana imaginando que porque t eres cristiano las cosas fluirn suavemente
+vida cristiana imaginando que porque tú eres cristiano las cosas fluirán suavemente
 
-para ti y que a partir de ahora ya no vas a tener ms problemas, te vers
+para ti y que a partir de ahora ya no vas a tener más problemas, te verás
 
 decepcionado amargamente cuando los espinos y cardos comiencen a brotar; pero
 
-espralos, espera su llegada, y entonces, cuando vengan efectivamente, la mitad
+espéralos, espera su llegada, y entonces, cuando vengan efectivamente, la mitad
 
-de su aguijn habr desaparecido. T dirs: Bien, cuando tom esta granja yo
+de su aguijón habrá desaparecido. Tú dirás: “Bien, cuando tomé esta granja yo
 
-saba que brotaran espinos y cardos, yo calculaba verlos. Ahora que han
+sabía que brotarían espinos y cardos, yo calculaba verlos. Ahora que han
 
 brotado, ser advertido previamente es en una gran medida estar armado
 
-previamente; no me voy a sentar a llorar en amarga decepcin, pues lo que sufro
+previamente; no me voy a sentar a llorar en amarga decepción, pues lo que sufro
 
-no es ms que lo que esperaba.
+no es más que lo que esperaba”.
 
-A continuacin, el
+A continuación, el
 
 conocimiento de este hecho
 
-despertar
+despertará
 
 gratitud.
 
-Si no tienes un pequeo lote de espinos y cardos, agradece que no
+Si no tienes un pequeńo lote de espinos y cardos, agradece que no
 
-lo tengas; y si te ests diciendo: Bien, yo confo que soy un cristiano, pero
+lo tengas; y si te estás diciendo: “Bien, yo confío que soy un cristiano, pero
 
-realmente no tengo ningn problema muy grande; parece que navego en el estanque
+realmente no tengo ningún problema muy grande; parece que navego en el estanque
 
-del molino, todo fluye suavemente para m, dale gracias a Dios por ello.
+del molino, todo fluye suavemente para mí”, dale gracias a Dios por ello.
 
-Debera tender a hacerte agradecido que no haya nada amargo en tu copa, cuando
+Debería tender a hacerte agradecido que no haya nada amargo en tu copa, cuando
 
 hubieras podido esperar que lo hubiera. Entonces bebe lo dulce con gratitud y
 
-sirve una porcin para el pobre, y ten simpata con otros que no son tan
+sirve una porción para el pobre, y ten simpatía con otros que no son tan
 
-favorecidos en este aspecto como t lo eres. Este hecho debera despertar tu
+favorecidos en este aspecto como tú lo eres. Este hecho debería despertar tu
 
 gratitud.
 
 En seguida, siendo
 
-advertido por anticipado que habr espinos y cardos,
+advertido por anticipado que habrá espinos y cardos,
 
 tienes que preparar tu alma para esperarlos.
 
 Los mejores hombres en
 
-todo el mundo no han de encontrarse en los climas calientes y ptimos, donde la
+todo el mundo no han de encontrarse en los climas calientes y óptimos, donde la
 
-tierra slo tiene que ser acariciada con un azadn y se re con abundancia;
+tierra sólo tiene que ser acariciada con un azadón y se ríe con abundancia;
 
-pero los espritus ms fuertes y ms emprendedores han sido encontrados a
+pero los espíritus más fuertes y más emprendedores han sido encontrados a
 
 espaldas del viento del norte, donde hay heladas y hielo, y largos y terribles
 
@@ -694,275 +700,275 @@ sustento. Se vuelven realmente verdaderos hombres bajo ese severo
 
 entrenamiento. Ahora, si no hubiese espinos y cardos, si no hubiese luchas y
 
-tribulaciones, tendramos algunos cristianos valientes? Tendramos del todo
+tribulaciones, żtendríamos algunos cristianos valientes? żTendríamos del todo
 
-algunas almas grandes y nobles? Cundo produjo
+algunas almas grandes y nobles? żCuándo produjo
 
 la Iglesia
 
 a sus mejores
 
-hombres para el servicio de su Seor? Fue en los tiempos de persecucin, cuando
+hombres para el servicio de su Seńor? Fue en los tiempos de persecución, cuando
 
-tenan que nadar a travs de mares de sangre para aferrarse a la verdad de
+tenían que nadar a través de mares de sangre para aferrarse a la verdad de
 
-Cristo. Estos son das sedosos y tenemos miserables especmenes de cristianos
+Cristo. Estos son días sedosos y tenemos miserables especímenes de cristianos
 
-por todas partes; pero si los tiempos de persecucin fueran a venir una vez
+por todas partes; pero si los tiempos de persecución fueran a venir una vez
 
-ms, soplando con fuertes vientos, y todo el mar del mundo fuera sacudido en
+más, soplando con fuertes vientos, y todo el mar del mundo fuera sacudido en
 
-tempestad entonces encontraremos valientes marineros que enfilarn el barco al
+tempestad entonces encontraremos valientes marineros que enfilarán el barco al
 
-viento, y navegarn a salvo sobre las olas tormentosas en el nombre del Eterno
+viento, y navegarán a salvo sobre las olas tormentosas en el nombre del Eterno
 
-Dios. Estar sin ningn tipo de tribulacin es tal vez lo peor que pueda
+Dios. Estar sin ningún tipo de tribulación es tal vez lo peor que pueda
 
-pasarnos. Sin tribulacin no crecemos en gracia muy rpidamente, y entonces no
+pasarnos. Sin tribulación no crecemos en gracia muy rápidamente, y entonces no
 
-desarrollamos las gracias del Espritu como lo hacemos cuando Dios enva los
+desarrollamos las gracias del Espíritu como lo hacemos cuando Dios envía los
 
 espinos y los cardos para que crezcan a nuestro alrededor.
 
-Adems, queridos amigos,
+Además, queridos amigos,
 
 saber que podemos esperar los espinos y los cardos
 
-debera impedir que nos apeguemos a este mundo.
+debería impedir que nos apeguemos a este mundo.
 
-Yo no querra
+Yo no querría
 
-detenerme aqu siempre, cuando todo lo que tengo como una garanta de esta parcela
+detenerme aquí siempre, cuando todo lo que tengo como una garantía de esta parcela
 
-es esto: Espinos y cardos te producir. Hay una tierra:
+es esto: “Espinos y cardos te producirá”. Hay una tierra:
 
-Donde hay una permanente primavera,
+“Donde hay una permanente primavera,
 
-Y flores que nunca se marchitan.
+Y flores que nunca se marchitan”.
 
-Oh, que mi corazn
+ˇOh, que mi corazón
 
 pusiera su mira en el mundo venidero! Quiero animar mi alma con la perspectiva
 
-de estar para siempre con el Seor, donde nada puede turbar o molestar a mi
+de estar para siempre con el Seńor, donde nada puede turbar o molestar a mi
 
-espritu glorificado para siempre. El Seor no tiene la intencin de que los
+espíritu glorificado para siempre. El Seńor no tiene la intención de que los
 
-creyentes estn satisfechos con este mundo. Si t eres Su hijo, por hermosa que
+creyentes estén satisfechos con este mundo. Si tú eres Su hijo, por hermosa que
 
-sea tu porcin aqu, l tiene la intencin de que ests siempre sin reposo hasta
+sea tu porción aquí, Él tiene la intención de que estés siempre sin reposo hasta
 
-que reposes en l, y que no ests plenamente satisfecho nunca hasta que
+que reposes en Él, y que no estés plenamente satisfecho nunca hasta que
 
 despiertes en Su semejanza. Por tanto, da gracias por los espinos y los cardos
 
-que impiden que te enamores de este mundo y te conviertas en un idlatra, como
+que impiden que te enamores de este mundo y te conviertas en un idólatra, como
 
 lo son muchos de tus semejantes.
 
-No tiene el Seor la
+żNo tiene el Seńor la
 
-intencin, por estas tribulaciones y problemas, de llevarnos a
+intención, por estas tribulaciones y problemas, de llevarnos a
 
-buscar cosas ms excelsas?
+buscar cosas más excelsas?
 
-Hermanos, no
+Hermanos, żno
 
-hay muchos hombres que estaran perdidos ellos mismos si no lo hubieran perdido
+hay muchos hombres que estarían perdidos ellos mismos si no lo hubieran perdido
 
-todo? Habl con uno, el otro da, que me dijo: No vi nunca hasta que perd mis
+todo? Hablé con uno, el otro día, que me dijo: “No vi nunca hasta que perdí mis
 
-ojos. Otro me dijo, cuanto not que haba perdido una pierna: Ah, amigo, fue
+ojos”. Otro me dijo, cuanto noté que había perdido una pierna: “ˇAh, amigo, fue
 
-la prdida de esa pierna lo que me llev a pensar y me llev a los pies de mi
+la pérdida de esa pierna lo que me llevó a pensar y me llevó a los pies de mi
 
-Salvador! Algunos de ustedes no pueden ir al cielo con todas sus posesiones,
+Salvador!” Algunos de ustedes no pueden ir al cielo con todas sus posesiones,
 
-ni con toda su prosperidad. Ser necesario que les quiten esas cosas. T eres
+ni con toda su prosperidad. Será necesario que les quiten esas cosas. Tú eres
 
-como un barco que se est hundiendo debido a la sobrecarga, y tendrs que ser
+como un barco que se está hundiendo debido a la sobrecarga, y tendrás que ser
 
-descargado para que puedas flotar; y bendita es esa mano de Dios que te quita
+descargado para que puedas flotar; ˇy bendita es esa mano de Dios que te quita
 
 la carga de muchos goces terrenales para que encuentres tu todo en el mundo
 
-venidero! La afliccin es el perro negro de Dios que l enva tras las ovejas
+venidero! La aflicción es el perro negro de Dios que Él envía tras las ovejas
 
 descarriadas para llevarlas de regreso al redil. Si ese perro va en pos de
 
-alguien aqu esta noche, yo te ruego que te des prisa para acudir al Pastor. No
+alguien aquí esta noche, yo te ruego que te des prisa para acudir al Pastor. No
 
-comiences a luchar con el perro, ni trates de contender con l, pues no
+comiences a luchar con el perro, ni trates de contender con él, pues no
 
-logrars nada con eso, sino corre presuroso al Pastor. Uno de estos das te
+lograrás nada con eso, sino corre presuroso al Pastor. Uno de estos días te
 
-alegrars por todo el spero tratamiento que el perro negro te dio en el da de
+alegrarás por todo el áspero tratamiento que el perro negro te dio en el día de
 
-tu tribulacin. Espinos y cardos te producir, pero si estas cosas te llevan
+tu tribulación. Espinos y cardos te producirá, pero si estas cosas te llevan
 
-ms cerca de tu Dios, son la mejor cosecha que puede producir la tierra.
+más cerca de tu Dios, son la mejor cosecha que puede producir la tierra.
 
 Recuerda lo que acabamos de cantar:
 
-Dios en Israel siembra las semillas
+“Dios en Israel siembra las semillas
 
-De la afliccin, del dolor y del arduo trabajo;
+De la aflicción, del dolor y del arduo trabajo;
 
 Estas crecen y ahogan las hierbas
 
-Que de otra manera cubriran el suelo:
+Que de otra manera cubrirían el suelo:
 
 Las tribulaciones vuelven dulce a la promesa;
 
-Las tribulaciones dan nueva vida a la oracin;
+Las tribulaciones dan nueva vida a la oración;
 
 Las tribulaciones me llevan a Sus pies,
 
-Me abaten y me mantienen all.
+Me abaten y me mantienen allí”.
 
 Adicionalmente, estos
 
 espinos y cardos
 
-deberan hacernos mirar
+deberían hacernos mirar
 
 a Cristo para que cambie todas las cosas alrededor nuestro.
 
-El mundo continuar
+El mundo continuará
 
-produciendo siempre espinos y cardos hasta que L venga; y cuando venga,
+produciendo siempre espinos y cardos hasta que ÉL venga; y cuando venga,
 
-nuestra gloria y deleite, entonces En lugar de la zarza crecer ciprs, y en
+nuestra gloria y deleite, entonces “En lugar de la zarza crecerá ciprés, y en
 
-lugar de la ortiga crecer arrayn. nicamente Su gracia y su propia gloriosa
+lugar de la ortiga crecerá arrayán”. Únicamente Su gracia y su propia gloriosa
 
-presencia pueden cambiar esta creacin visible, como ser cambiada cuando el
+presencia pueden cambiar esta creación visible, como será cambiada cuando “el
 
-lobo y el cordero sern apacentados juntos, y el len comer paja como el
+lobo y el cordero serán apacentados juntos, y el león comerá paja como el
 
-buey. Esperamos esa feliz transformacin; pero en cuanto a transformaciones
+buey”. Esperamos esa feliz transformación; pero en cuanto a transformaciones
 
-morales, tienen lugar cada da donde llega Jess. l convierte constantemente a
+morales, tienen lugar cada día donde llega Jesús. Él convierte constantemente a
 
-los espinos y a los cardos en cipreses y en arrayanes. l hace que lo que era
+los espinos y a los cardos en cipreses y en arrayanes. ˇÉl hace que lo que era
 
-nuestra afliccin se convierta en la base del dulce contento, y de todas
+nuestra aflicción se convierta en la base del dulce contento, y de todas
 
-nuestras aflicciones recogemos alegra, bendito sea Su nombre!
+nuestras aflicciones recogemos alegría, bendito sea Su nombre!
 
 Si alguno de ustedes dijera
 
-que este es un tema sombro quiero que recuerden cunto ms terrible era para
+que este es un tema sombrío quiero que recuerden cuánto más terrible era para
 
-l de lo que pueda ser jams para ustedes, pues cuando fue coronado en la
+Él de lo que pueda ser jamás para ustedes, pues cuando fue coronado en la
 
-tierra, la nica corona que llev jams fue una corona de espinas. Esta
+tierra, la única corona que llevó jamás fue una corona de espinas. Esta
 
-maldicin de la tierra estaba sobre Su cabeza y le hera de lleno. l fue
+maldición de la tierra estaba sobre Su cabeza y le hería de lleno. żÉl fue
 
-coronado con espinas, y te sorprendes porque crezcan alrededor de tus pies? Ms
+coronado con espinas, y te sorprendes porque crezcan alrededor de tus pies? Más
 
-bien bendcelo por haber consagrado alguna vez los espinos llevndolos como Su
+bien bendícelo por haber consagrado alguna vez los espinos llevándolos como Su
 
-diadema. Has de estar dispuesto a llevar la corona de espinas, tambin; y si no
+diadema. Has de estar dispuesto a llevar la corona de espinas, también; y si no
 
 te fuera dada para pinchar tus sienes, y para hacer que todo pensamiento sea
 
-una agona, has de estar satisfecho de proseguir hollando una senda espinosa,
+una agonía, has de estar satisfecho de proseguir hollando una senda espinosa,
 
-pues tu Seor ha ido por ese camino antes. El da vendr cuando todos estos
+pues tu Seńor ha ido por ese camino antes. El día vendrá cuando todos estos
 
-espinos nos harn cantar ms dulcemente. La msica especial de algunos de los
+espinos nos harán cantar más dulcemente. La música especial de algunos de los
 
 redimidos se debe a sus tribulaciones especiales.
 
-Entre ms profundas sus aflicciones, ms fuerte cantarn.
+“Entre más profundas sus aflicciones, más fuerte cantarán”.
 
 Los arrobamientos del
 
-cielo alcanzarn una altura en aquellos que han pasado por grandes aflicciones
+cielo alcanzarán una altura en aquellos que han pasado por grandes aflicciones
 
-que no pueden alcanzar de otra manera. Estos son los que han salido de la gran
+que no pueden alcanzar de otra manera. “Estos son los que han salido de la gran
 
-tribulacin, y han lavado sus ropas, y las han emblanquecido en la sangre del
+tribulación, y han lavado sus ropas, y las han emblanquecido en la sangre del
 
-Cordero. Por esto estn delante del trono de Dios, y le sirven da y noche en
+Cordero. Por esto están delante del trono de Dios, y le sirven día y noche en
 
-su templo. Por tanto, no lamenten que la tierra produzca espinos y cardos para
+su templo”. Por tanto, no lamenten que la tierra produzca espinos y cardos para
 
-ustedes, pues sin estas cosas no podran atravesar esas grandes tribulaciones y
+ustedes, pues sin estas cosas no podrían atravesar esas grandes tribulaciones y
 
 entrar en un reposo tan grande y glorioso.
 
-He concluido ms temprano
+He concluido más temprano
 
-debido al bautismo que tendr lugar a continuacin; pero quiera Dios que
+debido al bautismo que tendrá lugar a continuación; pero quiera Dios que
 
-algunos de ustedes aqu, que no tienen ninguna porcin en el mundo venidero, se
+algunos de ustedes aquí, que no tienen ninguna porción en el mundo venidero, se
 
-graben el texto en el corazn. As que has venido a Londres, joven amigo, y
+graben el texto en el corazón. ˇAsí que has venido a Londres, joven amigo, y
 
-asistes al teatro, y a los salones de msica y a cosas parecidas! Bien, te
+asistes al teatro, y a los salones de música y a cosas parecidas! Bien, te
 
-producirn espinos y cardos. Ese es el tipo de suelo donde alcanzan un gran
+producirán espinos y cardos. Ese es el tipo de suelo donde alcanzan un gran
 
-tamao y desarrollan espinas muy agudas. Oh, pero t, mi joven amigo, no vayas
+tamańo y desarrollan espinas muy agudas. Oh, pero tú, mi joven amigo, no vayas
 
-a tales lugares, a ti te va bien en los negocios! S, pero no tienes ninguna
+a tales lugares, ˇa ti te va bien en los negocios! Sí, pero no tienes ninguna
 
-garanta que siempre ser as. Espinos y cardos te producir, as como a otros;
+garantía que siempre será así. Espinos y cardos te producirá, así como a otros;
 
-y supn que prosperaras; supn que ganaras
+y supón que prosperaras; supón que ganaras
 
 10,000 libras
 
-esterlinas; supn que ganaras mucho ms que eso. No sabes que, con todo eso, vendr
+esterlinas; supón que ganaras mucho más que eso. żNo sabes que, con todo eso, vendrá
 
-un gran cuidado, y que, despus de todo, no hay satisfaccin en ello, y que
+un gran cuidado, y que, después de todo, no hay satisfacción en ello, y que
 
-cuando todo lo que constituye el xito en vida es sumado, con la excepcin de
+cuando todo lo que constituye el éxito en vida es sumado, con la excepción de
 
-asirte de las cosas eternas, todo es nada, y slo es humo? Espinos y cardos para
+asirte de las cosas eternas, todo es nada, y sólo es humo? Espinos y cardos para
 
-lechos mortuorios son producidos a menudo por las riquezas. Hay ms espinos y
+lechos mortuorios son producidos a menudo por las riquezas. Hay más espinos y
 
 cardos para los ricos que para los pobres cuando llegan al punto de la muerte,
 
 si han vivido una vida mal gastada. Oh, amigos, si pudieran tener todo el
 
-mundo, sin Cristo slo sera un terreno ms grande de espinos y cardos para
+mundo, sin Cristo sólo sería un terreno más grande de espinos y cardos para
 
-ustedes; pero si lo tienen a l, si Jess es su porcin, entonces si sus
+ustedes; pero si lo tienen a Él, si Jesús es su porción, entonces si sus
 
 tribulaciones se acumularan y llegaran tan alto como el cielo, no les
 
-importara, pues Cristo vendra, y estara con ustedes en las peores de ellas;
+importaría, pues Cristo vendría, y estaría con ustedes en las peores de ellas;
 
-y ustedes se gozaran todava y se gloriaran tambin en las tribulaciones,
+y ustedes se gozarían todavía y se gloriarían también en las tribulaciones,
 
-sabiendo que la tribulacin produce paciencia; y la paciencia, prueba; y la
+sabiendo que la tribulación produce paciencia; y la paciencia, prueba; y la
 
-prueba, esperanza y que la experiencia obrar en nosotros la semejanza de
+prueba, esperanza y que la experiencia obrará en nosotros la semejanza de
 
-Cristo, y as los llevar ms cerca del cielo!
+Cristo, y así los llevará más cerca del cielo!
 
 No le importa al
 
-creyente qu forma pudiera tomar su vida una vez que Cristo se ha convertido en
+creyente qué forma pudiera tomar su vida una vez que Cristo se ha convertido en
 
-su vida, y no le importar mucho a ustedes que no son salvos qu forma toma su
+su vida, y no le importará mucho a ustedes que no son salvos qué forma toma su
 
-vida si continan sin el Salvador; ser de todas maneras muerte, y los har
+vida si continúan sin el Salvador; será de todas maneras muerte, y los hará
 
-aterrizar en la muerte eterna. Oh, Dios, concdenos que nunca nos establezcamos
+aterrizar en la muerte eterna. ˇOh, Dios, concédenos que nunca nos establezcamos
 
 en este terreno de cardos ni que procuremos convertirlo en nuestra herencia,
 
-sino que encontremos nuestra porcin en el Seor Jesucristo! Yo les deseo a
+sino que encontremos nuestra porción en el Seńor Jesucristo! Yo les deseo a
 
-todos ustedes esa bendicin, por causa de Su nombre. Amn.
+todos ustedes esa bendición, por causa de Su nombre. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 11/Septiembre/2014
 

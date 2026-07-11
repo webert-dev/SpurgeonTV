@@ -1,14 +1,14 @@
 # Sermón 3547 | Sermón 3547
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-Un Hecho Bsico y Una Fe Bsica
+Un Hecho Básico y Una Fe Básica
 
 NO. 3547
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -16,97 +16,97 @@ Y PUBLICADO EL JUEVES
 
 18 DE ENERO DE 1917.
 
-Sabed, pues, esto, varones hermanos:
+“Sabed, pues, esto, varones hermanos:
 
-que por medio de l se os anuncia perdn de pecados, y que de todo aquello de
+que por medio de él se os anuncia perdón de pecados, y que de todo aquello de
 
-que por la ley de Moiss no pudisteis ser justificados, en l es justificado
+que por la ley de Moisés no pudisteis ser justificados, en él es justificado
 
-todo aquel que cree. Hechos 13: 38, 39.
+todo aquel que cree”. Hechos 13: 38, 39.
 
-La predicacin apostlica difera ampliamente
+La predicación apostólica difería ampliamente
 
-del tpico sermonear de nuestra poca. Cuando los apstoles se dirigan a las
+del típico sermonear de nuestra época. Cuando los apóstoles se dirigían a las
 
 asambleas de creyentes, indudablemente seleccionaban temas definidos y se
 
-apegaban a ellos, y abran y exponan las verdades especficas que tenan a la
+apegaban a ellos, y abrían y exponían las verdades específicas que tenían a la
 
-vista. Pero cuando se dirigan al mundo exterior, y cuando hacan sus
+vista. Pero cuando se dirigían al mundo exterior, y cuando hacían sus
 
-llamamientos a los incrdulos, no tenemos la impresin de que seleccionaran alguna
+llamamientos a los incrédulos, no tenemos la impresión de que seleccionaran alguna
 
-doctrina especial como tpico. La manera en la cual ellos predicaron no
+doctrina especial como tópico. La manera en la cual ellos predicaron no
 
-consista tanto en la inculcacin de alguna doctrina especfica acompaada de
+consistía tanto en la inculcación de alguna doctrina específica acompańada de
 
 la
 
-demostracin
+demostración
 
 de las inferencias provenientes
 
-de ella, sino ms bien en la declaracin de
+de ella, sino más bien en la declaración de
 
-ciertos hechos de los cuales haban sido testigos presenciales. Haban sido
+ciertos hechos de los cuales habían sido testigos presenciales. Habían sido
 
-elegidos para dar su testimonio de esos hechos a los dems. Vean el sermn de
+elegidos para dar su testimonio de esos hechos a los demás. Vean el sermón de
 
-Pedro en Pentecosts, o el sermn del mismo apstol dirigido a Cornelio, o el
+Pedro en Pentecostés, o el sermón del mismo apóstol dirigido a Cornelio, o el
 
-registro de la predicacin de Pablo en Perge o en Antioqua, y encontrarn que
+registro de la predicación de Pablo en Perge o en Antioquía, y encontrarán que
 
 esos discursos eran un argumento tomado de las Escrituras que declaraba que,
 
-como Dios haba prometido desde tiempos antiguos enviar a un Salvador, entonces
+como Dios había prometido desde tiempos antiguos enviar a un Salvador, entonces
 
-Jesucristo vino al mundo, vivi una vida santa, fue muerto despus de ser falsamente
+Jesucristo vino al mundo, vivió una vida santa, fue muerto después de ser falsamente
 
-acusado y fue puesto en el sepulcro, resucit de nuevo al tercer da y despus
+acusado y fue puesto en el sepulcro, resucitó de nuevo al tercer día y después
 
-ascendi al cielo, de conformidad al testimonio de los profetas. De l dijeron
+ascendió al cielo, de conformidad al testimonio de los profetas. De Él dijeron
 
-que todo aquel que creyera en este hombre -que era Dios verdadero- sera salvado
+que todo aquel que creyera en este hombre -que era Dios verdadero- sería salvado
 
-por l. sta es la declaracin que hicieron. Por lo general no los descubro exponiendo
+por Él. Ésta es la declaración que hicieron. Por lo general no los descubro exponiendo
 
-la doctrina de la eleccin en asambleas promiscuas con incrdulos presentes; no
+la doctrina de la elección en asambleas promiscuas con incrédulos presentes; no
 
-los veo argumentando los sutiles temas del libre albedro y de la
+los veo argumentando los sutiles temas del libre albedrío y de la
 
-predestinacin, o disputando sobre palabras sin ningn provecho para menoscabo
+predestinación, o disputando sobre palabras sin ningún provecho para menoscabo
 
-de los oyentes. Su firme propsito era declarar aquellas cosas directamente
+de los oyentes. Su firme propósito era declarar aquellas cosas directamente
 
-vinculadas con la salvacin del alma, que era el asunto de fundamental
+vinculadas con la salvación del alma, que era el asunto de fundamental
 
-importancia al cual queran que todos los hombres prestaran su atencin. Es as
+importancia al cual querían que todos los hombres prestaran su atención. Es así
 
-que exhortaban a todos los que los oan -con peligro de sus almas si dejaban de
+que exhortaban a todos los que los oían -con peligro de sus almas si dejaban de
 
-hacerlo- a que aceptaran la revelacin y abrazaran la fe del Evangelio.
+hacerlo- a que aceptaran la revelación y abrazaran la fe del Evangelio.
 
-Escuchen al apstol Pablo en el famoso captulo
+Escuchen al apóstol Pablo en el famoso capítulo
 
-quince de la primera Epstola a los Corintios, que es leda usualmente en los funerales.
+quince de la primera Epístola a los Corintios, que es leída usualmente en los funerales.
 
-Dice all: Adems os declaro, hermanos, el evangelio que os he predicado.
+Dice allí: “Además os declaro, hermanos, el evangelio que os he predicado”.
 
-Ahora, ustedes esperaran que comenzara con una larga lista de doctrinas pero,
+Ahora, ustedes esperarían que comenzara con una larga lista de doctrinas pero,
 
-en lugar de eso, dice: Que Cristo muri por nuestros pecados, conforme a las
+en lugar de eso, dice: “Que Cristo murió por nuestros pecados, conforme a las
 
-Escrituras; y que fue sepultado, y que resucit al tercer da, conforme a las
+Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las
 
-Escrituras. Eso es lo que Pablo describe enfticamente como el Evangelio. Aseverar
+Escrituras”. Eso es lo que Pablo describe enfáticamente como ‘el Evangelio’. Aseverar
 
 estos hechos, exhortar a los hombres a creerlos y a poner su confianza en el
 
-Hombre que as vivi, y muri y resucit, fue la predicacin del Evangelio que antao
+Hombre que así vivió, y murió y resucitó, fue la predicación del Evangelio que antańo
 
-sacudi a los vetustos sistemas de supersticin -aunque parecieran estar
+sacudió a los vetustos sistemas de superstición -aunque parecieran estar
 
-establecidos sobre sus tronos de manera muy segura- que ilumin las tinieblas
+establecidos sobre sus tronos de manera muy segura- que iluminó las tinieblas
 
 del paganismo, y que hizo que en esas primeras etapas del cristianismo, el
 
@@ -114,15 +114,15 @@ mundo entero quedara asombrado con la luz y la gloria de Cristo.
 
 Entonces, debemos esforzarnos por imitar a los
 
-apstoles y debemos procurar predicar un sencillo sermn evanglico, si no con
+apóstoles y debemos procurar predicar un sencillo sermón evangélico, si no con
 
-la habilidad de ellos o con su inspiracin, s al menos con su empeo y con el
+la habilidad de ellos o con su inspiración, sí al menos con su empeńo y con el
 
-mismo deseo que arda en sus pechos, para que por su medio lo hombres sean
+mismo deseo que ardía en sus pechos, para que por su medio lo hombres sean
 
 salvados. De conformidad con eso, vamos a tratar, primero, con
 
-la historia de Jess, a quien exponemos como
+la historia de Jesús, a quien exponemos como
 
 un Salvador;
 
@@ -130,183 +130,183 @@ en segundo lugar, con
 
 las
 
-demandas de Jess;
+demandas de Jesús;
 
 y, en tercer lugar, con
 
-las bendiciones que Jess proporciona.
+las bendiciones que Jesús proporciona.
 
 Con respecto a:
 
 I.
 
-LA HISTORIA DE JESS, si hacen el favor de
+LA HISTORIA DE JESÚS, si hacen el favor de
 
-buscar en sus Biblias, encontrarn que el apstol comenz su sermn notando
+buscar en sus Biblias, encontrarán que el apóstol comenzó su sermón notando
 
-aqu que
+aquí que
 
 muchos profetas hablaron de la
 
-venida de Jess.
+venida de Jesús.
 
-En el versculo veintitrs, Pablo menciona especialmente
+En el versículo veintitrés, Pablo menciona especialmente
 
-la promesa hecha a David: que de su simiente Dios levantara a un Prncipe y Salvador
+la promesa hecha a David: que de su simiente Dios levantaría a un Príncipe y Salvador
 
-para la casa de Israel. Hermanos, permtanme recordarles que con suma
+para la casa de Israel. Hermanos, permítanme recordarles que con suma
 
 frecuencia han aparecido sabios en la historia del mundo que han reclamado tener
 
-una inspiracin divina, cuyos anuncios fortalecieron la esperanza de la venida
+una inspiración divina, cuyos anuncios fortalecieron la esperanza de la venida
 
-de un hombre que habra de redimir de la esclavitud al mundo, y que se
+de un hombre que habría de redimir de la esclavitud al mundo, y que se
 
-convertira en el Salvador de nuestra raza. Todos los videntes cuyos ojos
+convertiría en el Salvador de nuestra raza. Todos los videntes cuyos ojos
 
-fueron ungidos por Dios para mirar al futuro, anunciaban con antelacin el
+fueron ungidos por Dios para mirar al futuro, anunciaban con antelación el
 
-advenimiento de un grandioso Profeta, de un Prncipe y Salvador, que reclamara
+advenimiento de un grandioso Profeta, de un Príncipe y Salvador, que reclamaría
 
-que se le rindiera homenaje y que sera muy peligroso y absurdo rechazarlo.
+que se le rindiera homenaje y que sería muy peligroso y absurdo rechazarlo.
 
 Estos profetas han aparecido en varios tiempos y en diversos lugares, y sin
 
-ninguna connivencia han proclamado al unsono lo mismo. La mayora de ellos
+ninguna connivencia han proclamado al unísono lo mismo. La mayoría de ellos
 
-sell con su sangre su testimonio. A cul de los profetas no persiguieron
+selló con su sangre su testimonio. “żA cuál de los profetas no persiguieron
 
-vuestros padres? Con todo, pese al extremo sufrimiento o a la muerte violenta,
+vuestros padres?” Con todo, pese al extremo sufrimiento o a la muerte violenta,
 
 parecieran haber sido impelidos por un divino
 
 furor
 
-interno para proclamar, incluso hasta el fin, que vendra Uno
+interno para proclamar, incluso hasta el fin, que vendría Uno
 
-que destronara al antiguo reino de terror y al antiguo orden de ceremonias
+que destronaría al antiguo reino de terror y al antiguo orden de ceremonias
 
 externas, para introducir un reino espiritual y para redimir al mundo de sus
 
 pecados y aflicciones.
 
-Esa refulgente estrella de esperanza resplandeci
+Esa refulgente estrella de esperanza resplandeció
 
-de manera sumamente brillante en la tierra favorecida de Judea, a travs de la noche
+de manera sumamente brillante en la tierra favorecida de Judea, a través de la noche
 
-oscura de largos aos y lgubres vigilias. Finalmente apareci un notable
+oscura de largos ańos y lúgubres vigilias. Finalmente apareció un notable
 
-individuo que haba sido anunciado con antelacin por algunos de aquellos
+individuo que había sido anunciado con antelación por algunos de aquellos
 
-profetas. Ellos haban dado a entender que antes de que llegara el Hombre
+profetas. Ellos habían dado a entender que antes de que llegara el Hombre
 
-prometido, el Mesas, habra un precursor, alguien como Elas. Elas vendra
+prometido, el Mesías, habría un precursor, alguien como Elías. Elías vendría
 
-primero. Ahora, el Tisbita, cuya carrera haba sido tan memorable en Israel,
+primero. Ahora, el Tisbita, cuya carrera había sido tan memorable en Israel,
 
 era un hombre de mucha santidad pero de poco refinamiento. Su vestimenta era tosca,
 
-su dieta frugal, su porte austero, y su forma de expresin era enftica e
+su dieta frugal, su porte austero, y su forma de expresión era enfática e
 
-incluso vehemente. Pareca ser un fuego personificado, si pudiera darse tal
+incluso vehemente. Parecía ser un fuego personificado, si pudiera darse tal
 
-cosa, pues as de fuerte era su pasin y as de audaz era su valor. Puso el
+cosa, pues así de fuerte era su pasión y así de audaz era su valor. Puso el
 
-hacha a la raz de todo pecado, y no se acobard delante del rostro de ningn
+hacha a la raíz de todo pecado, y no se acobardó delante del rostro de ningún
 
-hombre, sin importar su alta posicin o sus elevadas pretensiones. Bastaba que
+hombre, sin importar su alta posición o sus elevadas pretensiones. Bastaba que
 
 detectara un mal y lo denunciaba con todo su poder.
 
 Dieciocho siglos han transcurrido desde que
 
-apareci en el desierto, cerca del ro Jordn, otro hombre cuyo vestido era de
+apareció en el desierto, cerca del río Jordán, otro hombre cuyo vestido era de
 
 pelo de camello, y cuya comida era langostas y miel silvestre. Un hijo del
 
-desierto, asceta en sus hbitos, con un ministerio que le perteneca
+desierto, asceta en sus hábitos, con un ministerio que le pertenecía
 
-especficamente, censuraba los vicios de la poca con aire desafiante, y
+específicamente, censuraba los vicios de la época con aire desafiante, y
 
 llamaba a los hombres al arrepentimiento con clangores de trompeta, hasta que
 
-toda Judea se sorprendi con el fenmeno, y las multitudes provenientes de
+toda Judea se sorprendió con el fenómeno, y las multitudes provenientes de
 
-ciudades y aldeas se agolpaban para or su predicacin: Arrepentos, porque el
+ciudades y aldeas se agolpaban para oír su predicación: “Arrepentíos, porque el
 
-reino de los cielos se ha acercado. El punto culminante de sus exhortaciones
+reino de los cielos se ha acercado”. El punto culminante de sus exhortaciones
 
-fue ste: He aqu el Cordero de Dios. Bsquenlo, mrenlo, recurran a l pues l
+fue éste: “He aquí el Cordero de Dios”. Búsquenlo, mírenlo, recurran a Él pues Él
 
-quita el pecado del mundo. Su misin era enderezar calzada en la soledad para
+quita el pecado del mundo. Su misión era enderezar calzada en la soledad para
 
-la venida del Seor, de quien se declar indigno de desatar la correa de su
+la venida del Seńor, de quien se declaró indigno de desatar la correa de su
 
 calzado.
 
-Finalmente lleg el Salvador, el Salvador
+Finalmente llegó el Salvador, el Salvador
 
-prometido desde haca mucho tiempo. De la privacidad de Su hogar en Nazaret,
+prometido desde hacía mucho tiempo. De la privacidad de Su hogar en Nazaret,
 
-donde haba sido criado, lleg al ro Jordn. Me abstengo de hablar de Su
+donde había sido criado, llegó al río Jordán. Me abstengo de hablar de Su
 
-nacimiento milagroso y de Su infancia. Apareci en el desierto donde Juan
+nacimiento milagroso y de Su infancia. Apareció en el desierto donde Juan
 
-ministraba junto a los vados del Jordn y solicit el bautismo; y cuando sala
+ministraba junto a los vados del Jordán y solicitó el bautismo; y cuando salía
 
-del agua, el Espritu Santo descendi sobre l como paloma, y muchos testigos
+del agua, el Espíritu Santo descendió sobre Él como paloma, y muchos testigos
 
-oyeron una voz que deca: Este es mi Hijo amado. A l od. Este hombre, este
+oyeron una voz que decía: “Este es mi Hijo amado. A él oíd”. Este hombre, este
 
-portentoso individuo que ahora se haba vuelto abiertamente manifiesto, vivi
+portentoso individuo que ahora se había vuelto abiertamente manifiesto, vivió
 
-una vida pblica de extraordinaria benevolencia, en la que haba una mezcla de
+una vida pública de extraordinaria benevolencia, en la que había una mezcla de
 
-humildad profunda y de poder divino, la vida ms memorable que haya sido registrada.
+humildad profunda y de poder divino, la vida más memorable que haya sido registrada.
 
-La imaginacin no ha soado nunca algo que la iguale. Quienes han reflexionado
+La imaginación no ha sońado nunca algo que la iguale. Quienes han reflexionado
 
 mucho sobre la virtud, han sido totalmente incapaces de construir, partiendo de
 
-su invencin, la historia de una vida que pudiera asemejrsele o compararse con
+su invención, la historia de una vida que pudiera asemejársele o compararse con
 
-ella en pureza o simetra, una vida en la que no haba tanto una virtud
+ella en pureza o simetría, una vida en la que no había tanto una virtud
 
 prominente como todas las virtudes divinamente mezcladas. Manso como un
 
-cordero, intrpido como un len, severo en contra de la hipocresa, siempre
+cordero, intrépido como un león, severo en contra de la hipocresía, siempre
 
-tierno para con el pecador, especialmente cuando las gotas de las lgrimas del
+tierno para con el pecador, especialmente cuando las gotas de las lágrimas del
 
-arrepentimiento relucan en sus ojos. Un hombre que rasg en pedazos todas las
+arrepentimiento relucían en sus ojos. Un hombre que rasgó en pedazos todas las
 
-antiguas formalidades, que denunci el conocimiento de los rabinos, y que vino
+antiguas formalidades, que denunció el conocimiento de los rabinos, y que vino
 
-slo con Su propia fuerza de carcter y el testimonio de Dios para decir
+sólo con Su propia fuerza de carácter y el testimonio de Dios para decir
 
-verdades que, como la luz, son evidentes en s mismas, verdades que soportan la
+verdades que, como la luz, son evidentes en sí mismas, verdades que soportan la
 
 prueba del tiempo y que resisten los cambios de las circunstancias; verdades
 
-que habrn de soportar inclumes cuando el viejo mundo haya pasado; verdades
+que habrán de soportar incólumes cuando el viejo mundo haya pasado; verdades
 
 que han liberado a las mentes de los hombres de los grilletes de la
 
-supersticin; verdades que han alegrado a las hijas de la desesperacin;
+superstición; verdades que han alegrado a las hijas de la desesperación;
 
 verdades que han sido siempre sumamente aceptables para los pobres y los
 
 necesitados; verdades que han elevado a la humanidad desde la misma primera
 
-hora en que fueron proclamadas por primera vez; verdades que han atrado
+hora en que fueron proclamadas por primera vez; verdades que han atraído
 
-discpulos a lo largo de las edades, y han llenado el cielo con sus admiradores
+discípulos a lo largo de las edades, y han llenado el cielo con sus admiradores
 
 que se postran delante del glorioso Hijo de Dios y lo adoran; verdades que
 
-todava harn brillar a este mundo con la luz del cielo.
+todavía harán brillar a este mundo con la luz del cielo.
 
-Ahora, ese Hombre vivi una vida perfectamente
+Ahora, ese Hombre vivió una vida perfectamente
 
 intachable, tan irreprochable que cuando Sus enemigos buscaron Su muerte, no encontraron
 
@@ -314,173 +314,173 @@ nada que pudieran imputarle y, por tanto, tuvieron que acusarlo y condenarlo
 
 por medio de falsos testigos. El punto culminante de Su historia, para el cual
 
-les pedimos siempre su ms devota atencin y del cual los apstoles dieron
+les pedimos siempre su más devota atención y del cual los apóstoles dieron
 
-siempre el ms vehemente testimonio, fue ste: que fue crucificado. Algunos
+siempre el más vehemente testimonio, fue éste: que fue crucificado. Algunos
 
-suponen que sera prudente ocultar eso. Este grandioso Maestro, este Ser
+suponen que sería prudente ocultar eso. Este grandioso Maestro, este Ser
 
 Prometido, este Hombre Divino -pues fue hombre, y sin embargo Dios, Dios
 
-perfecto y hombre perfecto- en realidad muri la muerte de un criminal. Fue
+perfecto y hombre perfecto- en realidad murió la muerte de un criminal. Fue
 
-tomado por manos impas, azotado, obligado a cargar Su cruz, y luego fue
+tomado por manos impías, azotado, obligado a cargar Su cruz, y luego fue
 
-clavado al madero en el Calvario, y all muri. Pero debemos decirles la
+clavado al madero en el Calvario, y allí murió. Pero debemos decirles la
 
-interpretacin que presta un encanto a esta informacin. Muri all en
+interpretación que presta un encanto a esta información. Murió allí en
 
-sustitucin del hombre. No tena ninguna culpa propia, pero fue designado por
+sustitución del hombre. No tenía ninguna culpa propia, pero fue designado por
 
 Dios para cargar con todos los pecados de Su pueblo, de hecho, con el pecado de
 
-todos los hombres que creen en l. l fue castigado para que ellos no fueran
+todos los hombres que creen en Él. Él fue castigado para que ellos no fueran
 
-castigados. Llev el castigo que corresponda a todos los creyentes, para que
+castigados. Llevó el castigo que correspondía a todos los creyentes, para que
 
-ellos fueran liberados del espantoso castigo que la justicia exiga de ellos.
+ellos fueran liberados del espantoso castigo que la justicia exigía de ellos.
 
-De hecho, subi a ese madero con la carga de toda la culpa de todos los que
+De hecho, subió a ese madero con la carga de toda la culpa de todos los que
 
-haban credo y de todos los que habran de creer, hacinada sobre Sus hombros; y
+habían creído y de todos los que habrían de creer, hacinada sobre Sus hombros; y
 
 debido a la excelencia de Su naturaleza, siendo Dios, Sus sufrimientos hicieron
 
-expiacin por toda la culpa de toda esa vasta multitud. Fue una vindicacin de
+expiación por toda la culpa de toda esa vasta multitud. Fue una vindicación de
 
 la justicia de Dios, de tal magnitud, como si todos esos millones de millones
 
-hubiesen sido arrojados en el infierno para siempre. Aqu estaba el hecho. El
+hubiesen sido arrojados en el infierno para siempre. Aquí estaba el hecho. El
 
-castigo debido a todas esas almas fue colocado en una copa amarga, y Jess,
+castigo debido a todas esas almas fue colocado en una copa amarga, y Jesús,
 
-sobre el madero, llev esa copa a Sus labios y
+sobre el madero, llevó esa copa a Sus labios y
 
-En un trago
+“En un trago
 
 enorme de amor,
 
-Consumi toda
+Consumió toda
 
-la condenacin.
+la condenación”.
 
-Bebi hasta las heces toda la ira que Dios tena
+Bebió hasta las heces toda la ira que Dios tenía
 
 contra Su pueblo ofensor, pecador, culpable y condenado, y por ello el pueblo
 
-fue absuelto. sta es la grandiosa doctrina de la Cruz. Dios estaba en Cristo
+fue absuelto. Ésta es la grandiosa doctrina de la Cruz. “Dios estaba en Cristo
 
-reconciliando consigo al mundo, no tomndoles en cuenta a los hombres sus
+reconciliando consigo al mundo, no tomándoles en cuenta a los hombres sus
 
-pecados. Cuando fue bajado de la cruz, fue puesto en el sepulcro. All
+pecados”. Cuando fue bajado de la cruz, fue puesto en el sepulcro. Allí
 
-permaneci Su cuerpo sagrado durante tres das, pero en la maana del tercer
+permaneció Su cuerpo sagrado durante tres días, pero en la mańana del tercer
 
-da, por Su propio eterno poder y Deidad, resucit del sepulcro puesto que no
+día, por Su propio eterno poder y Deidad, resucitó del sepulcro puesto que no
 
-poda ser retenido por las ataduras de la muerte, y ahora vive, y en adelante
+podía ser retenido por las ataduras de la muerte, y ahora vive, y en adelante
 
-vive para siempre. En este instante, el Hombre que naci de la Virgen en Beln,
+vive para siempre. En este instante, el Hombre que nació de la Virgen en Belén,
 
 que fue muerto en debilidad por Poncio Pilato pero que fue resucitado en poder,
 
-habiendo ascendido a lo alto despus de Su resurreccin, se sienta a la diestra
+habiendo ascendido a lo alto después de Su resurrección, se sienta a la diestra
 
 del Padre, donde como hombre, aunque siendo Dios, intercede con Dios
 
-incesantemente por nosotros, y por Su eterno mrito salva a todos los que ponen
+incesantemente por nosotros, y por Su eterno mérito salva a todos los que ponen
 
-su confianza en l. stos son hechos histricos expuestos por el Evangelio para
+su confianza en Él. Éstos son hechos históricos expuestos por el Evangelio para
 
-ser credos con seguridad. Algunos los consideran fbulas de ancianas. Que
+ser creídos con seguridad. Algunos los consideran fábulas de ancianas. Que
 
-piensen lo que quieran; se pierden del beneficio que la fe bsica seguramente
+piensen lo que quieran; se pierden del beneficio que la fe básica seguramente
 
-les proporcionara. Sobre sus propias cabezas recaiga la culpa, pues sobre sus
+les proporcionaría. Sobre sus propias cabezas recaiga la culpa, pues sobre sus
 
-propias almas vendr la afliccin. Muchos de nosotros podemos aseverar, con
+propias almas vendrá la aflicción. Muchos de nosotros podemos aseverar, con
 
-nuestras manos sobre el pecho, que hemos probado la verdad de todo lo que est
+nuestras manos sobre el pecho, que hemos probado la verdad de todo lo que está
 
 escrito en el Libro. Estas preciosas verdades han ejercido una poderosa
 
-fascinacin en nuestras propias vidas. Creer en ellas nos ha capacitado para
+fascinación en nuestras propias vidas. Creer en ellas nos ha capacitado para
 
 vencer a nuestras pasiones, y ha sido la palanca que nos ha levantado y sacado
 
-de nuestra depravacin. Estas verdades son nuestro indefectible solaz mientras
+de nuestra depravación. Estas verdades son nuestro indefectible solaz mientras
 
-como criaturas estemos sujetos a la vanidad, y en la hora de la muerte sern
+como criaturas estemos sujetos a la vanidad, y en la hora de la muerte serán
 
 nuestro socorro y apoyo tal como decenas de miles de personas antes que
 
-nosotros han comprobado que lo son. Con la historia de Jess tan claramente
+nosotros han comprobado que lo son. Con la historia de Jesús tan claramente
 
 ante nuestra vista, preguntemos ahora:
 
 II.
 
-Cules son las exigencias de Jess?
+żCuáles son las exigencias de Jesús?
 
-l demanda, como el Ser que vive eternamente,
+Él demanda, como el Ser que vive eternamente,
 
 que aceptemos que es lo que profesa ser si
 
-queremos obtener cualquier beneficio de l.
+queremos obtener cualquier beneficio de Él.
 
-Profesa ser el Mesas, ungido y
+Profesa ser el Mesías, ungido y
 
-comisionado de Dios. Crees t eso? Leyendo las profecas concernientes a l,
+comisionado de Dios. żCrees tú eso? Leyendo las profecías concernientes a Él,
 
-ves t cun exactamente encaja como la llave encaja en las guardas de la
+żves tú cuán exactamente encaja como la llave encaja en las guardas de la
 
-cerradura? Si ves eso, me alegro. Adems, l exige que lo recibas como Dios.
+cerradura? Si ves eso, me alegro. Además, Él exige que lo recibas como Dios.
 
-sta es Su profesin: que l es Dios sobre todas las cosas, bendito por los
+Ésta es Su profesión: que Él es Dios sobre todas las cosas, bendito por los
 
-siglos, Dios encarnado. l camin sobre las olas del lago de Genesaret;
+siglos, Dios encarnado. Él caminó sobre las olas del lago de Genesaret;
 
-resucit a los muertos; san a los enfermos; multiplic los panes y los peces;
+resucitó a los muertos; sanó a los enfermos; multiplicó los panes y los peces;
 
-detuvo a los vientos; calm a la tormenta. l ha hecho todas las cosas que slo
+detuvo a los vientos; calmó a la tormenta. Él ha hecho todas las cosas que sólo
 
-Dios puede hacer. l fue omnipotente incluso aqu abajo como hombre. Acptalo,
+Dios puede hacer. Él fue omnipotente incluso aquí abajo como hombre. Acéptalo,
 
-entonces, como Dios verdadero. Si t lo haces inteligentemente y sinceramente,
+entonces, como Dios verdadero. Si tú lo haces inteligentemente y sinceramente,
 
 me alegro.
 
-Y lo aceptars ahora como tu Sacerdote, y no
+żY lo aceptarás ahora como tu Sacerdote, y no
 
-aceptars a nadie ms en la tierra? Para tenerlo a l, debes renunciar a todo
+aceptarás a nadie más en la tierra? Para tenerlo a Él, debes renunciar a todo
 
-lo dems, pues has de saber con toda seguridad que nuestro Sumo Sacerdote no
+lo demás, pues has de saber con toda seguridad que nuestro Sumo Sacerdote no
 
-estar junto a ningn otro sacerdote. Recurre nicamente a l para la
+estará junto a ningún otro sacerdote. Recurre únicamente a Él para la
 
-expiacin, para la intercesin y para la bendicin. l se ofreci a S mismo
+expiación, para la intercesión y para la bendición. Él se ofreció a Sí mismo
 
-como un sacrificio; se entreg por los pecados de Su pueblo. Cree en l como tu
+como un sacrificio; se entregó por los pecados de Su pueblo. Cree en Él como tu
 
-Sacerdote, y cree en Sus sufrimientos y muerte como tu sacrificio. Lrguense
+Sacerdote, y cree en Sus sufrimientos y muerte como tu sacrificio. ˇLárguense
 
-ustedes, sacerdotes de Roma! Vyanse tambin ustedes, sacerdotes de cualquier
+ustedes, sacerdotes de Roma! ˇVáyanse también ustedes, sacerdotes de cualquier
 
-otro orden! Que se marche cualquier vano pretendiente al sacerdocio! A quien
+otro orden! ˇQue se marche cualquier vano pretendiente al sacerdocio! A quien
 
-ha entrado al lugar santsimo no hecho con manos, le pertenece el privilegio
+ha entrado al lugar santísimo no hecho con manos, le pertenece el privilegio
 
-exclusivo del sacerdocio. Nuestro Seor Jesucristo es el nico Sacerdote de la
+exclusivo del sacerdocio. Nuestro Seńor Jesucristo es el único Sacerdote de la
 
-casa de Dios. Los miembros de Su pueblo se convierten en sacerdotes a travs de
+casa de Dios. Los miembros de Su pueblo se convierten en sacerdotes a través de
 
-l, cada uno de ellos. S, reyes y sacerdotes segn el orden de Melquisedec,
+Él, cada uno de ellos. Sí, reyes y sacerdotes según el orden de Melquisedec,
 
-pero ahora no reconocemos ninguna superchera sacerdotal. La religin de Jess
+pero ahora no reconocemos ninguna superchería sacerdotal. La religión de Jesús
 
 desaprueba y denuncia todas las pretensiones prelaticias. Proclama para siempre
 
-el derrumbe de la jerarqua de los hombres, con todo su vaco engreimiento y su
+el derrumbe de la jerarquía de los hombres, con todo su vacío engreimiento y su
 
 inflada arrogancia; sus sotanas y sus vestimentas, sus roquetes de mangas
 
@@ -488,151 +488,151 @@ estrechas y sus gorros, su vana jactancia y sus mojigatos juegos con los dedos,
 
 con toda su influencia preternatural que se supone que emana de las manos de un
 
-obispo. Jess es el nico Sacerdote. Lo recibirs como tal? Entonces yo me
+obispo. Jesús es el único Sacerdote. żLo recibirás como tal? Entonces yo me
 
-regocijo de que seas iluminado as.
+regocijo de que seas iluminado así.
 
-Sin embargo, has de saber que l reclama ser tu
+Sin embargo, has de saber que Él reclama ser tu
 
-Rey. Tienes que hacer lo que te pida. Debes ser Su sbdito, debes observar Sus
+Rey. Tienes que hacer lo que te pida. Debes ser Su súbdito, debes observar Sus
 
-estatutos y debes guardar Sus mandamientos. Eres Su sbdito? Entonces l es tu
+estatutos y debes guardar Sus mandamientos. żEres Su súbdito? Entonces Él es tu
 
-amigo. T sers incluso Su hermano, y vivirs cerca de l como alguien muy
+amigo. Tú serás incluso Su hermano, y vivirás cerca de Él como alguien muy
 
-amado para l, en afectuosa comunin con l. Aunque est en el cielo, se
+amado para Él, en afectuosa comunión con Él. Aunque esté en el cielo, se
 
-revelar a ti en la tierra. Ahora, ests dispuesto a aceptarlo como tal? Como
+revelará a ti en la tierra. Ahora, żestás dispuesto a aceptarlo como tal? Como
 
-tu Profeta, de tal manera que has de creer todo lo que te ensea; como tu
+tu Profeta, de tal manera que has de creer todo lo que te enseńa; como tu
 
-Sacerdote, de tal manera que habrs de confiar en Su mediacin; como tu Rey, de
+Sacerdote, de tal manera que habrás de confiar en Su mediación; como tu Rey, de
 
-tal manera que le servirs. Y, oh, con qu acentos de ternura Jess demanda
+tal manera que le servirás. Y, ˇoh, con qué acentos de ternura Jesús demanda
 
-que confiemos en l!
+que confiemos en Él!
 
-ste es un bendito
+Éste es un bendito
 
 mensaje para algunos de ustedes que tal vez no hayan escuchado antes. Si
 
-confiaran en este Hombre glorioso, en este Dios bendito, sern salvados en este
+confiaran en este Hombre glorioso, en este Dios bendito, serán salvados en este
 
 instante.
 
-Cristo exige que confiemos en l. Dice: Yo soy
+Cristo exige que confiemos en Él. Dice: “Yo soy
 
-Dios; confen incuestionablemente en M. Yo soy un Hombre perfecto; por amor a
+Dios; confíen incuestionablemente en Mí. Yo soy un Hombre perfecto; por amor a
 
-ellos mor por mis enemigos. Todo poder me ha sido dado en el cielo y en la
+ellos morí por mis enemigos. Todo poder me ha sido dado en el cielo y en la
 
 tierra, y con mi sangre rociada sobre el trono de mi Padre, reino supremamente
 
-en el dominio de la misericordia. Slo confa en M, y Yo te salvar, te
+en el dominio de la misericordia. Sólo confía en Mí, y Yo te salvaré, te
 
-salvar de la culpa del pasado, te salvar del poder de la pasin en tu alma,
+salvaré de la culpa del pasado, te salvaré del poder de la pasión en tu alma,
 
-te salvar del dominio del pecado, y en el futuro te cambiar, te har un
+te salvaré del dominio del pecado, y en el futuro te cambiaré, te haré un
 
-hombre nuevo. Te dar un corazn nuevo y un espritu recto. Toda mi gracia ser
+hombre nuevo. Te daré un corazón nuevo y un espíritu recto. Toda mi gracia será
 
-tuya, si confas
+tuya, si confías
 
-en M. Jess mismo nos
+en Mí”. Jesús mismo nos
 
 da incluso el poder de confiar, pues todo es por Su gracia de principio a fin,
 
-y todo aqul que confe en l ser salvo.
+y todo aquél que confíe en Él será salvo.
 
-Mi Seor tiene el derecho a sto,
+Mi Seńor tiene el derecho a ésto,
 
-y no aceptar nada que no sea sto, pues estas son Sus propias palabras: Id
+y no aceptará nada que no sea ésto, pues estas son Sus propias palabras: “Id
 
 por todo el mundo y predicad el evangelio a toda criatura. El que creyere y
 
-fuere bautizado, ser salvo; mas el que no creyere, ser condenado. l no
+fuere bautizado, será salvo; mas el que no creyere, será condenado”. Él no
 
-admite ningn trmino medio. O crees o no crees; y si no crees, Su ira cae
+admite ningún término medio. O crees o no crees; y si no crees, Su ira cae
 
-sobre ti. El que no cree a Dios, le ha hecho mentiroso, porque no ha credo en
+sobre ti. “El que no cree a Dios, le ha hecho mentiroso, porque no ha creído en
 
-el testimonio que Dios ha dado acerca de su Hijo, Jesucristo. El que en l
+el testimonio que Dios ha dado acerca de su Hijo, Jesucristo”. “El que en él
 
-cree, no es condenado; pero el que no cree, ya ha sido condenado. El que oye
+cree, no es condenado; pero el que no cree, ya ha sido condenado”. “El que oye
 
-mi palabra, y cree al que me envi, tiene vida eterna; y no vendr a
+mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a
 
-condenacin, mas ha pasado de muerte a vida. Yo en verdad espero estar
+condenación, mas ha pasado de muerte a vida”. Yo en verdad espero estar
 
-expresndome claramente. Mi ferviente deseo y la oracin de mi corazn son
+expresándome claramente. Mi ferviente deseo y la oración de mi corazón son
 
 que todos ustedes conozcan el Evangelio si es
 
 que no lo han conocido antes. Si lo han conocido antes, quisiera que pudieran
 
-discernirlo ms claramente. Si lo rechazaran, la falla no sera ma. Dios es mi
+discernirlo más claramente. Si lo rechazaran, la falla no sería mía. Dios es mi
 
 testigo de que he tratado de evitar cualquier idea de tratar de ser elocuente o
 
-declamatorio en mi predicacin. No me importa para nada el espectculo llamativo
+declamatorio en mi predicación. No me importa para nada el espectáculo llamativo
 
-de elaborar discursos. Yo slo quiero decirles simplemente estas verdades
+de elaborar discursos. Yo sólo quiero decirles simplemente estas verdades
 
 contenidas en un mensaje sin adornos. Pudiera ser que despierten prejuicios, y
 
 ustedes que las escuchan, digan tal vez que son aburridas y trilladas. Esas
 
-verdades trilladas y manoseados, sin embargo, contienen la propia mdula y el meollo
+verdades trilladas y manoseados, sin embargo, contienen la propia médula y el meollo
 
 del Evangelio por el que pueden ser guiados al cielo. Por aburridas que las
 
-consideren, si las rechazaran, negra y terrible sera la ruina de sus almas.
+consideren, si las rechazaran, negra y terrible sería la ruina de sus almas.
 
 Los exhorto, por tanto, delante de Jesucristo,
 
-que juzgar a los vivos y a los muertos, a que recuerden estas pocas cosas elementales,
+que juzgará a los vivos y a los muertos, a que recuerden estas pocas cosas elementales,
 
-viendo que involucran su esperanza o su desesperacin, su salvacin o su
+viendo que involucran su esperanza o su desesperación, su salvación o su
 
-perdicin, por toda la eternidad. No hay otra puerta al cielo fuera de sta; no
+perdición, por toda la eternidad. No hay otra puerta al cielo fuera de ésta; no
 
-hay ningn otro portn de entrada al Paraso fuera de ste. Dios estaba en
+hay ningún otro portón de entrada al Paraíso fuera de éste. “Dios estaba en
 
-Cristo reconciliando consigo al mundo, no tomndoles en cuenta a los hombres
+Cristo reconciliando consigo al mundo, no tomándoles en cuenta a los hombres
 
-sus pecados, y nos encarg a nosotros la palabra de la reconciliacin. l ha diseado
+sus pecados, y nos encargó a nosotros la palabra de la reconciliación”. Él ha diseńado
 
-para nosotros un camino de redencin. Confiando en l, seremos salvos; rechazndolo,
+para nosotros un camino de redención. Confiando en Él, seremos salvos; rechazándolo,
 
 estaremos perdidos.
 
-Jess exige de ustedes que no confen en ustedes
+Jesús exige de ustedes que no confíen en ustedes
 
 mismos; que no piensen que son lo suficientemente buenos; que no imaginen que
 
 alguna vez puedan ser lo suficientemente buenos por ustedes mismos; que no
 
-confen en ninguna ceremonia; que no dependan de ningn hombre; que no alienten
+confíen en ninguna ceremonia; que no dependan de ningún hombre; que no alienten
 
-alguna esperanza del cielo por medio de algn razonamiento o resolucin
+alguna esperanza del cielo por medio de algún razonamiento o resolución
 
-propios, sino que justo ahora pongan toda su confianza en l. Aunque pareciera
+propios, sino que justo ahora pongan toda su confianza en Él. Aunque pareciera
 
-ser demasiado bueno para ser cierto, con todo, es cierto que si t fueras el
+ser demasiado bueno para ser cierto, con todo, es cierto que si tú fueras el
 
-peor de los pecadores, contaminado con las ms viles lascivias y degradado con
+peor de los pecadores, contaminado con las más viles lascivias y degradado con
 
-los crmenes ms horrendos, y aunque tus pecados fueran de un tinte escarlata,
+los crímenes más horrendos, y aunque tus pecados fueran de un tinte escarlata,
 
-y su recuerdo te persiguiera como espectros fantasmales, si t confas en
+y su recuerdo te persiguiera como espectros fantasmales, si tú confías en
 
-Jess, a quien Dios ha puesto como propiciacin, recibirs un perfecto perdn
+Jesús, a quien Dios ha puesto como propiciación, recibirás un perfecto perdón
 
-de Dios, el Padre eterno, y se te dar poder para vencer esas mismas
+de Dios, el Padre eterno, y se te dará poder para vencer esas mismas
 
-transgresiones a las cuales ests inclinado, para que no caigas en ellas de
+transgresiones a las cuales estás inclinado, para que no caigas en ellas de
 
-nuevo. Oh, glorioso Evangelio del siempre bendito Dios! Quisiera que los
+nuevo. ˇOh, glorioso Evangelio del siempre bendito Dios! ˇQuisiera que los
 
 hombres tuvieran corazones para recibir y dar la bienvenida a sus provisiones
 
@@ -642,71 +642,71 @@ III.
 
 LAS BENDICIONES QUE JESUCRISTO OTORGA A TODOS
 
-LOS QUE CONFAN EN l.
+LOS QUE CONFÍAN EN Él.
 
 Nuestro poder para enumerar esas bendiciones se
 
 ve sobrepasado con creces.
 
-Por medio de
+“Por medio de
 
-l se os anuncia perdn de pecados.
+él se os anuncia perdón de pecados”.
 
-No es indulgencia, sino perdn,
+No es indulgencia, sino perdón,
 
-el perdn de todos los pecados.
+el perdón de todos los pecados.
 
 Los
 
-pecados de ochenta aos desde tu niez hasta tu vejez, si has vivido todos esos
+pecados de ochenta ańos desde tu nińez hasta tu vejez, si has vivido todos esos
 
-aos, tus delitos menores pblicos, tus transgresiones privadas, tus actos visibles,
+ańos, tus delitos menores públicos, tus transgresiones privadas, tus actos visibles,
 
-tus pensamientos secretos, tus palabras expresadas, tus deseos reprimidos, el catlogo
+tus pensamientos secretos, tus palabras expresadas, tus deseos reprimidos, el catálogo
 
-enrollado de tus transgresiones y desviaciones completamente desenrollado ser
+enrollado de tus transgresiones y desviaciones completamente desenrollado será
 
-borrado de inmediato del libro del recuerdo de Dios, si confas en Jesucristo.
+borrado de inmediato del libro del recuerdo de Dios, si confías en Jesucristo.
 
-No sers inculpado por ellos. Por negra que sea la lista o por largo que sea el
+No serás inculpado por ellos. Por negra que sea la lista o por largo que sea el
 
-inventario, slo confa en este Hombre, y todos tus pecados te sern
+inventario, sólo confía en este Hombre, y todos tus pecados te serán
 
-perdonados. Quien confiesa su pecado, y viene a Jess, encontrar misericordia,
+perdonados. Quien confiesa su pecado, y viene a Jesús, encontrará misericordia,
 
-y encontrar misericordia de inmediato. Hay alguien aqu que se sienta
+y encontrará misericordia de inmediato. żHay alguien aquí que se sienta
 
-culpable? Qu buenas nuevas han de ser stas para su doliente corazn! Yo
+culpable? ˇQué buenas nuevas han de ser éstas para su doliente corazón! Yo
 
-deseo que todos ustedes sepan cun culpables han sido, y cun profundamente
+deseo que todos ustedes sepan cuán culpables han sido, y cuán profundamente
 
-manchados estn. Un pecador de corazn realmente quebrantado es una joya en
+manchados están. Un pecador de corazón realmente quebrantado es una joya en
 
-dondequiera que te lo encuentres. No hay msica en el mundo como las notas de
+dondequiera que te lo encuentres. No hay música en el mundo como las notas de
 
-perdn para el pecador que experimenta un remordimiento de conciencia y un
+perdón para el pecador que experimenta un remordimiento de conciencia y un
 
-convencimiento de su culpabilidad. Jess otorga perdn para todo pecado. Para
+convencimiento de su culpabilidad. Jesús otorga perdón para todo pecado. Para
 
-quienes creen en l, les otorga un
+quienes creen en Él, les otorga un
 
-perdn
+perdón
 
 inmediato,
 
-no un perdn en potencia, no un perdn que ha de ser revelado
+no un perdón en potencia, no un perdón que ha de ser revelado
 
-cuando ests a punto de morir, sino un perdn ahora, un perdn que alcanza a
+cuando estés a punto de morir, sino un perdón ahora, un perdón que alcanza a
 
-los pecados que han de venir todava, un perdn que comprende la totalidad de
+los pecados que han de venir todavía, un perdón que comprende la totalidad de
 
-tu vida de pecado, puesto en tu mano para ser ledo por el ojo de tu fe, y para
+tu vida de pecado, puesto en tu mano para ser leído por el ojo de tu fe, y para
 
 ser conocido tan claramente como si te fuera entregado en un pergamino escrito
 
-por la mano de un ngel y sellado con la sangre del Salvador. Cristo Jess
+por la mano de un ángel y sellado con la sangre del Salvador. Cristo Jesús
 
-otorga un perdn que nunca ser revocado, un perdn que no puede ser cancelado
+otorga un perdón que nunca será revocado, un perdón que no puede ser cancelado
 
 en lo sucesivo. Dios no juega nunca
 
@@ -716,101 +716,101 @@ estira y encoge
 
 con los hombres. No condena nunca al que ya fue perdonado una vez. Si declara
 
-que un hombre es perdonado, es perdonado y ser perdonado cuando el mundo est
+que un hombre es perdonado, es perdonado y será perdonado cuando el mundo esté
 
-envuelto en llamas. Qu gozo indecible habr de llenar el alma de aqul que aclama
+envuelto en llamas. ˇQué gozo indecible habrá de llenar el alma de aquél que aclama
 
-en esta santa hora un perdn de los cielos! Su carga ha sido suprimida; sus esposas
+en esta santa hora un perdón de los cielos! Su carga ha sido suprimida; sus esposas
 
 le son quitadas; sus grilletes soltados; la fiebre curada; su salud restaurada;
 
-cmo saltar de deleite, y danzar con placer, y cantar con santo jbilo.
+cómo saltará de deleite, y danzará con placer, y cantará con santo júbilo.
 
 Pobre pecador, cree en el Hijo de Dios que fue
 
-inmolado pero que vive eternamente, y te ser dado este rapto celestial para
+inmolado pero que vive eternamente, y te será dado este rapto celestial para
 
-que lo experimentes. ste es un perdn de pura buena voluntad que no retiene
+que lo experimentes. Éste es un perdón de pura buena voluntad que no retiene
 
 residuos de animosidad. Un hombre perdona a su hijo y renuncia al uso de la
 
-vara, pero podra decirle: No olvidar tu conducta, pues en el futuro no podr
+vara, pero podría decirle: “No olvidaré tu conducta, pues en el futuro no podré
 
-confiar en ti.
+confiar en ti”.
 
 Pero cuando Dios perdona, no reprocha. Recibe al
 
-hijo prdigo en su pecho. No lo sienta en el extremo ms lejano de la mesa para
+hijo pródigo en su pecho. No lo sienta en el extremo más lejano de la mesa para
 
-recordarle su descarro, sino que mata al novillo engordado para convencerlo de
+recordarle su descarrío, sino que mata al novillo engordado para convencerlo de
 
 que es bienvenido.
 
 Pone tal confianza en algunos de nosotros, que
 
-ramos lo peores pecadores, que nos da una comisin de predicar a otros el
+éramos lo peores pecadores, que nos da una comisión de predicar a otros el
 
-Evangelio mediante el cual nosotros mismos somos salvados, y nos enva con el
+Evangelio mediante el cual nosotros mismos somos salvados, y nos envía con el
 
-asunto que est ms cerca de Su corazn, y que ms concierne a Su propia
+asunto que está más cerca de Su corazón, y que más concierne a Su propia
 
-gloria. Oh, s, es un bendito perdn que barre toda la extensin de la ruina
+gloria. ˇOh, sí, es un bendito perdón que barre toda la extensión de la ruina
 
-humana y nos redime, y nos resarce de las prdidas experimentadas por haber
+humana y nos redime, y nos resarce de las pérdidas experimentadas por haber
 
-pecado! Y no slo eso, sino que por l, por Jess, todos los que creen son
+pecado! Y no sólo eso, sino que por Él, por Jesús, todos los que creen son
 
 justificados
 
-as como son perdonados; somos
+así como son perdonados; somos
 
-justificados de todas las cosas de las que no podramos ser justificados por la
+justificados de todas las cosas de las que no podríamos ser justificados por la
 
-ley de Moiss. Aqu tenemos una comparacin, o ms bien un contraste. Qu
+ley de Moisés. Aquí tenemos una comparación, o más bien un contraste. żQué
 
-significa sto? Cuando los hombres venan, segn la ley de Moiss, traan un
+significa ésto? Cuando los hombres venían, según la ley de Moisés, traían un
 
-novillo que ofrecan por su pecado. Hecho sto, con cules sentimientos se
+novillo que ofrecían por su pecado. Hecho ésto, żcon cuáles sentimientos se
 
-alejaban del altar? El hombre vena consciente de culpa y se marchaba convencido
+alejaban del altar? El hombre venía consciente de culpa y se marchaba convencido
 
-de que haba cumplido con un estatuto. Pero su conciencia no estaba limpia. La
+de que había cumplido con un estatuto. Pero su conciencia no estaba limpia. La
 
-mancha no se haba quitado. Aunque la sangre de la bestia aquietaba algunos de
+mancha no se había quitado. Aunque la sangre de la bestia aquietaba algunos de
 
-sus escrpulos y aliviaba algunos de sus terrores, no le daba una perfecta paz
+sus escrúpulos y aliviaba algunos de sus terrores, no le daba una perfecta paz
 
-y no poda drsela. Debe de haber sabido que la sangre de los novillos y los
+y no podía dársela. Debe de haber sabido que la sangre de los novillos y los
 
-machos cabros, y las cenizas de una vaquilla no podan quitar el pecado, ni
+machos cabríos, y las cenizas de una vaquilla no podían quitar el pecado, ni
 
-podan expiar su culpa o erradicar su veneno. En esa misma medida es superior
+podían expiar su culpa o erradicar su veneno. En esa misma medida es superior
 
-el Evangelio de Cristo a la ley de Moiss. Si vinieran y confiaran en Cristo,
+el Evangelio de Cristo a la ley de Moisés. Si vinieran y confiaran en Cristo,
 
-sentiran que ya no son ms culpables. Hasta ahora ustedes han vivido en la
+sentirían que ya no son más culpables. Hasta ahora ustedes han vivido en la
 
 culpa y el pecado, pero a partir de ahora todo el peso del pecado sobre la
 
-conciencia se habra desvanecido. Tendran paz con Dios por medio de Jesucristo
+conciencia se habría desvanecido. Tendrían paz con Dios por medio de Jesucristo
 
-nuestro Seor. Sentiran que el pasado est tan borrado que ya no lo cargan ms
+nuestro Seńor. Sentirían que el pasado está tan borrado que ya no lo cargan más
 
-en su conciencia. Podran cantar:
+en su conciencia. Podrían cantar:
 
-Estoy limpio
+“Estoy limpio
 
-por la sangre de Jess.
+por la sangre de Jesús”.
 
-Cun grande misericordia es esta perfecta
+ˇCuán grande misericordia es esta perfecta
 
-limpieza de la culpa en la conciencia! Quien vena al altar bajo la ley de
+limpieza de la culpa en la conciencia! Quien venía al altar bajo la ley de
 
-Moiss no siempre senta que poda venir a Dios. La sangre era rociada, y haba
+Moisés no siempre sentía que podía venir a Dios. La sangre era rociada, y había
 
-un camino de acceso; pero slo el Sumo Sacerdote pasaba detrs del velo una vez
+un camino de acceso; pero sólo el Sumo Sacerdote pasaba detrás del velo una vez
 
-al ao. La ley de Moiss no poda justificar a un hombre de tal manera que
+al ańo. La ley de Moisés no podía justificar a un hombre de tal manera que
 
 tuviera acceso al propiciatorio, pero Jesucristo justifica de tal manera a Su
 
@@ -818,7 +818,7 @@ pueblo, que pueden ir directo a Dios y hablarle como un hijo le habla a su
 
 padre; le cuentan todas sus necesidades y debilidades, toda su gratitud y su
 
-gozo. Derraman a Sus propios odos sus amantes corazones. Cun dulce es el
+gozo. Derraman a Sus propios oídos sus amantes corazones. ˇCuán dulce es el
 
 acceso de la criatura humana a su Dios del pacto, una vez que conoce a Cristo!
 
@@ -826,21 +826,21 @@ Yo en verdad declaro que algunos de nosotros hemos hablado con Dios tan
 
 verdaderamente como hablamos con los hombres; y hemos estado tan seguros que
 
-nos encontrbamos en la presencia de nuestro Padre celestial, y tan conscientes
+nos encontrábamos en la presencia de nuestro Padre celestial, y tan conscientes
 
 de estar bajo esa portentosa sombra como hemos estado conscientes de que hemos
 
-estado en comunin con cualquier hombre o mujer nacidos en este mundo. Oh!, si
+estado en comunión con cualquier hombre o mujer nacidos en este mundo. ˇOh!, si
 
-lo supieran, Dios no parecera tan lejano de ustedes una vez que confiaran en
+lo supieran, Dios no parecería tan lejano de ustedes una vez que confiaran en
 
-Cristo. No pensaran de l como el Dios del trueno guiando Su ruidoso carro por
+Cristo. No pensarían de Él como el Dios del trueno guiando Su ruidoso carro por
 
-el cielo con una lanza centelleante de relmpago, sino que cantaran acerca de
+el cielo con una lanza centelleante de relámpago, sino que cantarían acerca de
 
-l:
+Él:
 
-El Dios que
+“El Dios que
 
 gobierna en lo alto,
 
@@ -864,91 +864,91 @@ Nuestro Padre
 
 y nuestro Amor;
 
-l har
+Él hará
 
 descender Sus poderes celestiales
 
 Para
 
-llevarnos a lo alto.
+llevarnos a lo alto”.
 
-Lo veran por doquier en torno a ustedes con los
+Lo verían por doquier en torno a ustedes con los
 
-ojos de su espritu, y se regocijaran en l.
+ojos de su espíritu, y se regocijarían en Él.
 
-Aquellos que venan al altar por la ley de
+Aquellos que venían al altar por la ley de
 
-Moiss, no eran justificados de aprensiones del futuro; cuando cada adorador
+Moisés, no eran justificados de aprensiones del futuro; cuando cada adorador
 
-regresaba a casa, despus de todos los sacrificios de corderos, y carneros y
+regresaba a casa, después de todos los sacrificios de corderos, y carneros y
 
-novillos, tena miedo de morir. Pero quien confa en Jess siente que, en lo
+novillos, tenía miedo de morir. Pero quien confía en Jesús siente que, en lo
 
-concerniente al futuro, est perfectamente seguro. Ahora dice- Dios ha
+concerniente al futuro, está perfectamente seguro. “Ahora” –dice- “Dios ha
 
-prometido salvar a quienes confan en Cristo. Yo en verdad confo en Cristo;
+prometido salvar a quienes confían en Cristo. Yo en verdad confío en Cristo;
 
-Dios ha de salvarme. l est obligado a hacerlo, por Su justicia. Sobre el
+Dios ha de salvarme. Él está obligado a hacerlo, por Su justicia”. Sobre el
 
-len de la justicia cabalga la hermosa doncella de la fe, y no tiene ningn
+león de la justicia cabalga la hermosa doncella de la fe, y no tiene ningún
 
-temor. En tanto que Dios sea justo, ningn discpulo de Jess podra ser
+temor. En tanto que Dios sea justo, ningún discípulo de Jesús podría ser
 
-destruido. Qu pasa si la Justicia me acusara de ser un pecador? Yo
+destruido. żQué pasa si la Justicia me acusara de ser un pecador? Yo
 
-respondera: Es cierto que lo soy, y sin embargo no soy alguien que debiera
+respondería: “Es cierto que lo soy, y sin embargo no soy alguien que debiera
 
 ser sometido a juicio, pues todos los pecados me fueron quitados. Fueron
 
 colocados sobre mi bendita Fianza. No me queda ni uno solo. Cristo ha sido
 
-castigado por mi pecado; acaso podran ser castigados dos por una ofensa?
+castigado por mi pecado; żacaso podrían ser castigados dos por una ofensa?
 
-Habra de morir mi Sustituto, y tambin yo? Seramos condenados Cristo y yo
+żHabría de morir mi Sustituto, y también yo? żSeríamos condenados Cristo y yo
 
-tambin, por la mismsima ofensa? Dios no es injusto como para castigar primero
+también, por la mismísima ofensa? Dios no es injusto como para castigar primero
 
-al Sustituto y luego al hombre en cuyo lugar estuvo el Sustituto. Oh!, esto
+al Sustituto y luego al hombre en cuyo lugar estuvo el Sustituto”. ˇOh!, esto
 
 es algo sobre lo que uno se puede apoyar. Esta es una almohada para una cabeza que
 
 experimenta dolores; este es un bote seguro en el cual navegar en medio de las
 
-tormentas de la vida y a travs de los mares de la muerte. Jesucristo, en mi
+tormentas de la vida y a través de los mares de la muerte. Jesucristo, en mi
 
-lugar, derram la sangre de Su corazn como la grandiosa Vctima de Dios fuera
+lugar, derramó la sangre de Su corazón como la grandiosa Víctima de Dios fuera
 
-de las puertas de la ciudad. Yo confo en l. Confiando en l, no puedo
+de las puertas de la ciudad. Yo confío en Él. Confiando en Él, no puedo
 
-perecer. l ha jurado y no se arrepentir. Por dos cosas inmutables, en las
+perecer. Él ha jurado y no se arrepentirá. Por dos cosas inmutables, en las
 
-cuales es imposible que Dios mienta, l ha dado un slido consuelo a quienes
+cuales es imposible que Dios mienta, Él ha dado un sólido consuelo a quienes
 
 huyen en busca de refugio hacia la esperanza puesta ante ellos en el Evangelio.
 
-Oh, amados!, ciertamente podemos vivir sobre esta promesa, y morir sobre esta
+ˇOh, amados!, ciertamente podemos vivir sobre esta promesa, y morir sobre esta
 
 promesa.
 
-Quiera Dios que todos ustedes confen en l! Que
+ˇQuiera Dios que todos ustedes confíen en Él! Que
 
-muchsimos de ustedes confen en l por primera vez ahora. La predicacin de
+muchísimos de ustedes confíen en Él por primera vez ahora. La predicación de
 
 este Evangelio es digna de confianza porque la promesa es digna de confianza. No
 
-me avergenzo del Evangelio de Cristo, porque es poder de Dios para salvacin a
+me avergüenzo del Evangelio de Cristo, porque es poder de Dios para salvación a
 
-todo aquel que cree. Crees t? Di: s o no, pues hay consecuencias que se
+todo aquel que cree. żCrees tú? Di: “sí” o “no”, pues hay consecuencias que se
 
-hacen presentes en cualquiera de los casos. Di: s y dilo ahora. Amn.
+hacen presentes en cualquiera de los casos. Di: “sí” y dilo ahora. Amén.
 
 Nota del
 
 traductor:
 
-Clangores: sonidos de la trompeta o del clarn.
+Clangores: sonidos de la trompeta o del clarín.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 14/Octubre/2010
 

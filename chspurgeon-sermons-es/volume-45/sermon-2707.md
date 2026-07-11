@@ -1,14 +1,14 @@
 # Sermón 2707 | Sermón 2707
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Un Antdoto
+Un Antídoto
 
-Contra las Artimaas de Satans
+Contra las Artimańas de Satanás
 
-SERMN PREDICADO UN JUEVES POR
+SERMÓN PREDICADO UN JUEVES POR
 
 LA NOCHE
 
@@ -32,87 +32,87 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 30 DE DICIEMBRE
 
 DE 1900.
 
-Pero la serpiente era astuta,
+“Pero la serpiente era astuta,
 
-ms que todos los animales del campo que Jehov Dios haba hecho. Gnesis 3:
+más que todos los animales del campo que Jehová Dios había hecho”. Génesis 3:
 
 1.
 
 Por supuesto que entendemos que este
 
-versculo se refiere a la serpiente antigua, que es el diablo y Satans. En
+versículo se refiere a “la serpiente antigua, que es el diablo y Satanás”. En
 
-vez de la palabra serpiente,
+vez de la palabra “serpiente”,
 
-la Versin
+la Versión
 
 Samaritana
 
-usa: engaador o mentiroso. Aunque esta no
+usa: “engańador” o “mentiroso”. Aunque esta no
 
-fuera la lectura autntica, con todo, declara ciertamente una verdad. Ese viejo
+fuera la lectura auténtica, con todo, declara ciertamente una verdad. Ese viejo
 
-engaador, de quien nuestro Seor Jess les haba dicho a los judos: Cuando
+engańador, de quien nuestro Seńor Jesús les había dicho a los judíos: “Cuando
 
-habla mentira, de suyo habla; porque es mentiroso, y padre de mentira, era
+habla mentira, de suyo habla; porque es mentiroso, y padre de mentira”, era
 
-astuto, ms que todos los animales del campo que Jehov Dios haba hecho.
+“astuto, más que todos los animales del campo que Jehová Dios había hecho”.
 
-Agrad a Dios dar astucia a muchas bestias, -a algunas, astucia y artera combinadas
+Agradó a Dios dar astucia a muchas bestias, -a algunas, astucia y artería combinadas
 
-con fuerza- con el objeto de que pudieran ser ms destructivas para ciertas
+con fuerza- con el objeto de que pudieran ser más destructivas para ciertas
 
-clases de animales cuyos nmeros requieren ser controlados. A otras, que estn
+clases de animales cuyos números requieren ser controlados. A otras, que están
 
-desprovistas de mucha fuerza, le ha agradado darles instintos de la ms
+desprovistas de mucha fuerza, le ha agradado darles instintos de la más
 
-maravillosa sabidura para la autopreservacin y la destruccin de su presa y
+maravillosa sabiduría para la autopreservación y la destrucción de su presa y
 
-para la procuracin de su alimento; pero todos los sabios instintos y toda la
+para la procuración de su alimento; pero todos los sabios instintos y toda la
 
 astucia de las bestias del campo son sobrepasados grandemente por la astucia de
 
-Satans. De hecho, yendo ms lejos, el hombre tiene, tal vez, mucha ms astucia
+Satanás. De hecho, yendo más lejos, el hombre tiene, tal vez, mucha más astucia
 
 que cualquier otra simple criatura, aunque pareciera algunas veces que el instinto
 
-animal en efecto aventajara a la razn humana; pero Satans tiene una mayor
+animal en efecto aventajara a la razón humana; pero Satanás tiene una mayor
 
-astucia en su interior que cualquier otra criatura que el Seor haya creado, el
+astucia en su interior que cualquier otra criatura que el Seńor haya creado, el
 
 hombre incluido.
 
-Satans posee abundantes artimaas y es
+Satanás posee abundantes artimańas y es
 
-capaz de vencernos por varias razones. Me parece que una suficiente razn para
+capaz de vencernos por varias razones. Me parece que una suficiente razón para
 
-que Satans sea artero es porque es
+que Satanás sea artero es porque es
 
 malicioso;
 
-pues de todas las cosas, la malicia es lo ms productivo de la artera.
+pues de todas las cosas, la malicia es lo más productivo de la artería.
 
-Cuando un hombre est resuelto a la venganza, es extrao cun artero es para
+Cuando un hombre está resuelto a la venganza, es extrańo cuán artero es para
 
 encontrar oportunidades para desfogar su malevolencia. Si un hombre siente
 
 enemistad contra otro y esa enemistad se posesiona enteramente de su alma y derrama
 
-veneno, por decirlo as, en su propia sangre, se volver sumamente artero con
+veneno, por decirlo así, en su propia sangre, se volverá sumamente artero con
 
-los medios que usa para vejar y hacer dao a su adversario. Ahora, nadie puede
+los medios que usa para vejar y hacer dańo a su adversario. Ahora, nadie puede
 
-estar ms lleno de malicia contra el hombre que Satans, tal como lo demuestra
+estar más lleno de malicia contra el hombre que Satanás, tal como lo demuestra
 
-cada da; y esa malicia aguza su inherente sabidura de manera que se vuelve
+cada día; y esa malicia aguza su inherente sabiduría de manera que se vuelve
 
 sumamente astuto.
 
-Adems, Satans es
+Además, Satanás es
 
-un ngel,
+un ángel,
 
-aunque es un ngel cado. No dudamos, por ciertos
+aunque es un ángel caído. No dudamos, por ciertos
 
 indicios en
 
@@ -120,93 +120,93 @@ la Escritura
 
 ,
 
-que ocupara un lugar muy excelso en la jerarqua de ngeles antes de caer; y
+que ocupara un lugar muy excelso en la jerarquía de ángeles antes de caer; y
 
-sabemos que esos poderosos seres estn dotados de vastos poderes intelectuales
+sabemos que esos poderosos seres están dotados de vastos poderes intelectuales
 
-que sobrepasan en mucho cualesquiera que hayan sido dados jams a seres de
+que sobrepasan en mucho cualesquiera que hayan sido dados jamás a seres de
 
 molde humano. Por tanto, no hemos de esperar que un hombre, sin ayuda de lo
 
-alto, sea alguna vez un contrincante para un ngel, especialmente un ngel cuyo
+alto, sea alguna vez un contrincante para un ángel, especialmente un ángel cuyo
 
-intelecto innato ha sido aguzado por una malicia sumamente malvola en contra
+intelecto innato ha sido aguzado por una malicia sumamente malévola en contra
 
 nuestra.
 
-Adems, Satans muy bien puede ser astuto
+Además, Satanás muy bien puede ser astuto
 
-ahora puedo decir confiablemente que ms astuto de lo que era en los das de
+ahora –puedo decir confiablemente que más astuto de lo que era en los días de
 
-Adn- pues
+Adán- pues
 
-l ha tenido largos tratos con
+él ha tenido largos tratos con
 
 la raza humana.
 
-Cuando tent a Eva esa era su primera ocasin de tratar con
+Cuando tentó a Eva esa era su primera ocasión de tratar con
 
-la humanidad; pero aun entonces la serpiente era astuta, ms que todos los
+la humanidad; pero aun entonces la serpiente era “astuta, más que todos los
 
-animales del campo que Jehov Dios haba hecho. Desde entonces l ha
+animales del campo que Jehová Dios había hecho”. Desde entonces él ha
 
-ejercitado todo su diablico pensamiento y grandes poderes para acosar y
+ejercitado todo su diabólico pensamiento y grandes poderes para acosar y
 
-arruinar a los hombres. No hay ningn santo a quien no haya perseguido y ningn
+arruinar a los hombres. No hay ningún santo a quien no haya perseguido y ningún
 
-pecador al que no haya conducido a engao. Juntamente con sus tropas de
+pecador al que no haya conducido a engańo. Juntamente con sus tropas de
 
-espritus malignos l ha estado ejerciendo un terrible control sobre los hijos
+espíritus malignos él ha estado ejerciendo un terrible control sobre los hijos
 
-de los hombres; l es por tanto muy habilidoso en todas las artes de la
+de los hombres; él es por tanto muy habilidoso en todas las artes de la
 
-tentacin. Nunca un anatomista entendi tan bien el cuerpo humano como Satans
+tentación. Nunca un anatomista entendió tan bien el cuerpo humano como Satanás
 
-entiende el alma humana. l no ha sido tentado en todo, pero l ha tentado a
+entiende el alma humana. Él no ha sido “tentado en todo”, pero él ha tentado a
 
-otros en todos los puntos. l ha procurado atacar nuestra condicin humana
+otros en todos los puntos. Él ha procurado atacar nuestra condición humana
 
 desde la corona de nuestra cabeza hasta la planta de nuestro pie; ha explorado
 
-cada obra exterior de nuestra naturaleza e incluso las cavernas ms secretas de
+cada obra exterior de nuestra naturaleza e incluso las cavernas más secretas de
 
-nuestras almas. Ha escalado la ciudadela de nuestro corazn, y ha vivido all;
+nuestras almas. Ha escalado la ciudadela de nuestro corazón, y ha vivido allí;
 
-ha explorado sus ms ntimos recovecos y se ha sumergido en los ms bajos
+ha explorado sus más íntimos recovecos y se ha sumergido en los más bajos
 
-abismos. Yo supongo que no hay nada de la naturaleza humana que Satans no
+abismos. Yo supongo que no hay nada de la naturaleza humana que Satanás no
 
-pueda desenmaraar; y aunque, sin duda, es el ms grande tonto que haya existido
+pueda desenmarańar; y aunque, sin duda, es el más grande tonto que haya existido
 
-jams, como continuamente el tiempo lo demuestra, con todo, ms all de toda
+jamás, como continuamente el tiempo lo demuestra, con todo, más allá de toda
 
-duda, l es el ms astuto de los tontos, y puedo agregar que esa no es una gran
+duda, él es el más astuto de los tontos, y puedo agregar que esa no es una gran
 
 paradoja, pues la argucia es siempre una insensatez y la astucia no es sino
 
-otra forma de apartarse de la sabidura.
+otra forma de apartarse de la sabiduría.
 
 Y ahora, hermanos, durante unos cuantos
 
 minutos voy a ocupar su tiempo, primero, notando
 
-las argucias y la astucia de Satans,
+las argucias y la astucia de Satanás,
 
 y los modos en que ataca
 
 nuestras almas; y, en segundo lugar, voy a darles unas cuantas palabras de
 
-admonicin con respecto a
+admonición con respecto a
 
-la sabidura
+la sabiduría
 
-que debemos ejercitar contra l,
+que debemos ejercitar contra él,
 
-y el nico medio que podemos usar
+y el único medio que podemos usar
 
 eficazmente para impedir que su astucia sea el instrumento de nuestra
 
-destruccin.
+destrucción.
 
 I.
 
@@ -216,123 +216,123 @@ LA ASTUCIA
 
 DE
 
-SATANS, como las
+SATANÁS, como las
 
 hemos descubierto en nuestra propia experiencia.
 
-Y puedo comenzar observando que Satans
+Y puedo comenzar observando que Satanás
 
-descubre su artera y su astucia por
+descubre su artería y su astucia por
 
 los
 
 modos de su ataque.
 
-Hay un hombre que es calmado y tranquilo, y est en
+Hay un hombre que es calmado y tranquilo, y está en
 
-paz; Satans no ataca a ese hombre con incredulidad o desconfianza; le ataca en
+paz; Satanás no ataca a ese hombre con incredulidad o desconfianza; le ataca en
 
-un punto ms vulnerable que eso; el amor propio, la confianza en uno mismo, la
+un punto más vulnerable que eso; el amor propio, la confianza en uno mismo, la
 
-mundanalidad, estas cosas sern las armas que Satans usar contra l. Hay otra
+mundanalidad, estas cosas serán las armas que Satanás usará contra él. Hay otra
 
 persona que es notable por su abatimiento y por su falta de vigor mental; no es
 
-probable que Satans se esfuerce por inflarlo con el orgullo, pero
+probable que Satanás se esfuerce por inflarlo con el orgullo, pero
 
-examinndolo, y descubriendo dnde est su punto dbil, le tentar a dudar de
+examinándolo, y descubriendo dónde está su punto débil, le tentará a dudar de
 
-su llamado, y se esforzar por conducirlo a la desesperacin. Hay otro hombre
+su llamado, y se esforzará por conducirlo a la desesperación. Hay otro hombre
 
 de salud corporal fuerte y robusta, que tiene todos sus poderes mentales en
 
-pleno y vigoroso ejercicio, disfrutando de las promesas y deleitndose en los
+pleno y vigoroso ejercicio, disfrutando de las promesas y deleitándose en los
 
-caminos de Dios; posiblemente Satans no le atacar con la incredulidad, porque
+caminos de Dios; posiblemente Satanás no le atacará con la incredulidad, porque
 
-siente que tiene una armadura para ese punto en particular, pero le atacar con
+siente que tiene una armadura para ese punto en particular, pero le atacará con
 
-orgullo o con alguna tentacin a la lujuria. l nos examinar muy ntegra y
+orgullo o con alguna tentación a la lujuria. Él nos examinará muy íntegra y
 
-cuidadosamente, y si nos encuentra que somos como Aquiles, nicamente
+cuidadosamente, y si nos encuentra que somos como Aquiles, únicamente
 
-vulnerables en nuestro taln, entonces disparar sus flechas a nuestro taln.
+vulnerables en nuestro talón, entonces disparará sus flechas a nuestro talón.
 
-Yo creo que Satans no ha atacado a
+Yo creo que Satanás no ha atacado a
 
 menudo a un hombre en un lugar donde le vio que era fuerte; pero generalmente
 
-busca bien el punto dbil, el pecado que asedia. All, -dice l- all voy a
+busca bien el punto débil, el pecado que asedia. “Allí”, -dice él- “allí voy a
 
-dar el golpe; y que Dios nos ayude en la hora de la batalla y en el tiempo
+dar el golpe”; ˇy que Dios nos ayude en la hora de la batalla y en el tiempo
 
-del conflicto! Tenemos necesidad de decir: Que Dios nos ayude!, pues,
+del conflicto! Tenemos necesidad de decir: “ˇQue Dios nos ayude!”, pues,
 
-ciertamente, a menos que el Seor nos ayude, este astuto enemigo puede
+ciertamente, a menos que el Seńor nos ayude, este astuto enemigo puede
 
-encontrar fcilmente suficientes junturas en nuestra armadura, y pronto podra
+encontrar fácilmente suficientes junturas en nuestra armadura, y pronto podría
 
-enviar la flecha mortal a nuestras almas, de manera que caeramos heridos
+enviar la flecha mortal a nuestras almas, de manera que caeríamos heridos
 
-delante de l. Y sin embargo, he notado, y es muy extrao, que Satans tienta
+delante de él. Y sin embargo, he notado, y es muy extrańo, que Satanás tienta
 
-algunas veces a los hombres con la propia cosa que supondras que nunca les
+algunas veces a los hombres con la propia cosa que supondrías que nunca les
 
-tentara. Cul imaginan ustedes que fue la ltima tentacin de John Knox en su
+tentaría. żCuál imaginan ustedes que fue la última tentación de John Knox en su
 
-lecho de muerte? Tal vez nunca hubo un hombre que entendiera ms plenamente la
+lecho de muerte? Tal vez nunca hubo un hombre que entendiera más plenamente la
 
-gran doctrina de que por gracia sois salvos, que John Knox. La tronaba desde
+gran doctrina de que “por gracia sois salvos”, que John Knox. La tronaba desde
 
-el plpito; y si lo hubieras cuestionado sobre el tema l te la habra
+el púlpito; y si lo hubieras cuestionado sobre el tema él te la habría
 
 declarado osada y valientemente, negando con todo su poder la doctrina papal de
 
-la salvacin por medio del mrito humano. Pero, podrn creerlo, ese viejo
+la salvación por medio del mérito humano. Pero, żpodrán creerlo, ese viejo
 
-enemigo de las almas atac a John Knox con la justicia propia cuando yaca en
+enemigo de las almas atacó a John Knox con la justicia propia cuando yacía en
 
-su lecho de muerte? Vino a l y le dijo: Cun valientemente has servido a tu
+su lecho de muerte? Vino a él y le dijo: “ˇCuán valientemente has servido a tu
 
-Seor, Juan! Nunca te has acobardado delante de la faz del hombre; te has
+Seńor, Juan! Nunca te has acobardado delante de la faz del hombre; te has
 
-enfrentado a reyes y a prncipes, y sin embargo, no has temblado nunca; un
+enfrentado a reyes y a príncipes, y sin embargo, no has temblado nunca; un
 
-hombre como t puede caminar para entrar al reino del cielo con sus propios
+hombre como tú puede caminar para entrar al reino del cielo con sus propios
 
-pies, y vestir sus propios vestidos en la boda del Altsimo; y aguda y
+pies, y vestir sus propios vestidos en la boda del Altísimo”; y aguda y
 
 terrible fue la lucha que John Knox tuvo con el enemigo de las almas por esa
 
-tentacin.
+tentación.
 
 Yo puedo darles un ejemplo similar de mi
 
-propia experiencia. Yo pens para m que, de todos los seres en el mundo, yo
+propia experiencia. Yo pensé para mí que, de todos los seres en el mundo, yo
 
-era el que ms libre estaba de cuidados. Nunca haba ejercitado mis
+era el que más libre estaba de cuidados. Nunca había ejercitado mis
 
-pensamientos ni por un instante, as lo pienso, preocupndome por las cosas
+pensamientos ni por un instante, así lo pienso, preocupándome por las cosas
 
-temporales; yo siempre tuve todo lo que haba necesitado, y pareca que yo
+temporales; yo siempre tuve todo lo que había necesitado, y parecía que yo
 
-haba sido trasladado ms all del alcance de la ansiedad acerca de tales
+había sido trasladado más allá del alcance de la ansiedad acerca de tales
 
-asuntos; y sin embargo, es extrao decirlo, no hace mucho tiempo, una tentacin
+asuntos; y sin embargo, es extrańo decirlo, no hace mucho tiempo, una tentación
 
-sumamente terrible me sobrecogi, arrojndome en la mundanalidad del cuidado y
+sumamente terrible me sobrecogió, arrojándome en la mundanalidad del cuidado y
 
-del pensamiento; y aunque yaca y gema en agona y luchaba con todo mi poder
+del pensamiento; y aunque yacía y gemía en agonía y luchaba con todo mi poder
 
-contra la tentacin, pas mucho tiempo antes de que pudiera vencer esos
+contra la tentación, pasó mucho tiempo antes de que pudiera vencer esos
 
-pensamientos desconfiados con relacin a la providencia de Dios, cuando, debo
+pensamientos desconfiados con relación a la providencia de Dios, cuando, debo
 
-confesarlo, no haba la menor razn, hasta donde poda verlo, del por qu tales
+confesarlo, no había la menor razón, hasta donde podía verlo, del por qué tales
 
-pensamientos irrumpieran en m. Por esa razn, y por muchas ms, odio ms y ms
+pensamientos irrumpieran en mí. Por esa razón, y por muchas más, odio más y más
 
-al diablo cada da, y he hecho votos, de ser posible, mediante la predicacin
+al diablo cada día, y he hecho votos, de ser posible, mediante la predicación
 
 de
 
@@ -340,79 +340,79 @@ la Palabra
 
 de Dios, de buscar sacudir los propios pilares de su reino; y yo pienso que
 
-todos los siervos de Dios sentirn que su enemistad contra el archienemigo de
+todos los siervos de Dios sentirán que su enemistad contra el archienemigo de
 
-las almas aumenta cada da debido a los malevolentes y extraos ataques que
+las almas aumenta cada día debido a los malevolentes y extrańos ataques que
 
-continuamente est haciendo contra nosotros.
+continuamente está haciendo contra nosotros.
 
-Los modos de ataque de Satans, entonces,
+Los modos de ataque de Satanás, entonces,
 
-como aprendern rpidamente si es que no lo han hecho ya, delatan su astucia.
+como aprenderán rápidamente si es que no lo han hecho ya, delatan su astucia.
 
-Ah!, hijos de los hombres, mientras ustedes se estn poniendo sus cascos, l
+ˇAh!, hijos de los hombres, mientras ustedes se están poniendo sus cascos, él
 
-est buscando enterrar su espada de fuego dentro de su corazn; o mientras
+está buscando enterrar su espada de fuego dentro de su corazón; o mientras
 
-ustedes estn inspeccionando bien su coraza, l est levantando su hacha de
+ustedes están inspeccionando bien su coraza, él está levantando su hacha de
 
-combate para partir su crneo; y mientras ustedes estn inspeccionando tanto su
+combate para partir su cráneo; y mientras ustedes están inspeccionando tanto su
 
-casco como su coraza, l est buscando hacer tropezar su pie. l est vigilando
+casco como su coraza, él está buscando hacer tropezar su pie. Él está vigilando
 
-siempre para ver dnde no estn viendo ustedes; l est alerta siempre cuando
+siempre para ver dónde no están viendo ustedes; él está alerta siempre cuando
 
-ustedes estn dormitando. Mirad por vosotros mismos, por tanto; Vestos de
+ustedes están dormitando. Mirad por vosotros mismos, por tanto; “Vestíos de
 
-toda la armadura de Dios; Sed sobrios, y velad; porque vuestro adversario el
+toda la armadura de Dios”; “Sed sobrios, y velad; porque vuestro adversario el
 
-diablo, como len rugiente, anda alrededor buscando a quien devorar; al cual
+diablo, como león rugiente, anda alrededor buscando a quien devorar; al cual
 
-resistid firmes en la fe; y que Dios les ayude a prevalecer contra l!
+resistid firmes en la fe”; ˇy que Dios les ayude a prevalecer contra él!
 
-Una segunda cosa en la que Satans delata
+Una segunda cosa en la que Satanás delata
 
 su astucia es,
 
-las armas que usar a
+las armas que usará a
 
 menudo contra nosotros.
 
-Algunas veces atacar al hijo de Dios con el
+Algunas veces atacará al hijo de Dios con el
 
-recuerdo de una cancin obscena, o con un discurso licencioso que pudo haber
+recuerdo de una canción obscena, o con un discurso licencioso que pudo haber
 
-odo en los das de su estado carnal; pero con mucha mayor frecuencia le
+oído en los días de su estado carnal; pero con mucha mayor frecuencia le
 
-atacar con textos de
+atacará con textos de
 
 la Escritura.
 
 Es
 
-extrao que tenga que ser as, pero a menudo es el caso de que, cuando dispara
+extrańo que tenga que ser así, pero a menudo es el caso de que, cuando dispara
 
 su flecha contra un cristiano, la propulsa con la propia Palabra de Dios. Eso
 
-pareca ser, de acuerdo con el poeta, la intensa conmocin del dolor que el
+parecía ser, de acuerdo con el poeta, la intensa conmoción del dolor que el
 
-guila, cuando la flecha estaba sorbiendo la sangre de su corazn, vio que la
+águila, cuando la flecha estaba sorbiendo la sangre de su corazón, vio que la
 
-pluma que le dio alas para volar hacia su pecho haba sido arrancada de su
+pluma que le dio alas para volar hacia su pecho había sido arrancada de su
 
-propio pecho; y el cristiano tendr con frecuencia una experiencia ms o menos
+propio pecho; y el cristiano tendrá con frecuencia una experiencia más o menos
 
-similar. Ah!, dir- aqu hay un texto que yo amo, tomado del Libro que
+similar. “ˇAh!”, –dirá- “aquí hay un texto que yo amo, tomado del Libro que
 
-valoro, sin embargo, est vuelto contra m. Un arma salida de la propia armera
+valoro, sin embargo, está vuelto contra mí. Un arma salida de la propia armería
 
-de Dios es constituida como el instrumento de muerte contra mi alma. No han
+de Dios es constituida como el instrumento de muerte contra mi alma”. żNo han
 
-encontrado que as sucede, queridos amigos cristianos? No han probado que as como
+encontrado que así sucede, queridos amigos cristianos? żNo han probado que así como
 
-Satans atac a Cristo con un Escrito est, as tambin los ha atacado a
+Satanás atacó a Cristo con un “Escrito está”, así también los ha atacado a
 
-ustedes? Y no han aprendido a estar en guardia contra las perversiones en
+ustedes? żY no han aprendido a estar en guardia contra las perversiones en
 
 contra de
 
@@ -428,61 +428,61 @@ la
 
 Palabra
 
-de Dios, para que no los conduzcan a la destruccin?
+de Dios, para que no los conduzcan a la destrucción?
 
-En otros momentos, Satans usar el arma
+En otros momentos, Satanás usará el arma
 
-de nuestra propia experiencia. Ah!, -dir el diablo- en tal y tal da, t
+de nuestra propia experiencia. “ˇAh!”, -dirá el diablo- “en tal y tal día, tú
 
-pecaste de tal y tal manera; cmo puedes ser un hijo de Dios? En otro momento
+pecaste de tal y tal manera; żcómo puedes ser un hijo de Dios?” En otro momento
 
-l dir: t eres justo con justicia propia, por tanto no puedes ser un
+él dirá: “tú eres justo con justicia propia, por tanto no puedes ser un
 
-heredero del cielo. Luego, otra vez, comenzar a desenterrar todas las viejas
+heredero del cielo”. Luego, otra vez, comenzará a desenterrar todas las viejas
 
 historias que hemos olvidado desde hace mucho tiempo de todas nuestras
 
-incredulidades pasadas, de nuestros pasados descarros, y as sucesivamente, y
+incredulidades pasadas, de nuestros pasados descarríos, y así sucesivamente, y
 
-nos reprocha eso. l dir: Cmo!
+nos reprocha eso. Él dirá: “ˇCómo!
 
-T,
+żTú,
 
-T
+TÚ
 
-un cristiano? Un buen cristiano has de ser! O, posiblemente comenzar a
+un cristiano? ˇUn buen cristiano has de ser!” O, posiblemente comenzará a
 
-tentarte de alguna manera parecida a esta: El otro da no queras hacer tal y
+tentarte de alguna manera parecida a esta: “El otro día no querías hacer tal y
 
-tal cosa en el negocio; cunto perdiste por eso! Fulano de Tal es un
+tal cosa en el negocio; ˇcuánto perdiste por eso! Fulano de Tal es un
 
-cristiano; l lo hizo. Tu vecino, al otro lado de la calle, no es l un
+cristiano; él lo hizo. Tu vecino, al otro lado de la calle, żno es él un
 
-dicono de una iglesia, y acaso no lo hizo? Por qu no puedes hacer lo mismo?
+diácono de una iglesia, y acaso no lo hizo? żPor qué no puedes hacer lo mismo?
 
-Te ira muchsimo mejor si lo hicieras. Fulano de Tal lo hace, y le va bien, y
+Te iría muchísimo mejor si lo hicieras. Fulano de Tal lo hace, y le va bien, y
 
-es precisamente tan respetado como lo eres t; entonces, por qu no habras de
+es precisamente tan respetado como lo eres tú; entonces, żpor qué no habrías de
 
-actuar de la misma manera? As, el diablo te atacar con armas tomadas de tu
+actuar de la misma manera?” Así, el diablo te atacará con armas tomadas de tu
 
-propia experiencia, o de la iglesia de la cual eres un miembro. Ah!, ten cuidado,
+propia experiencia, o de la iglesia de la cual eres un miembro. ˇAh!, ten cuidado,
 
-pues Satans sabe cmo escoger sus armas. l no est saliendo contra ustedes,
+pues Satanás sabe cómo escoger sus armas. Él no está saliendo contra ustedes,
 
 si fueran grandes gigantes, con una honda y una piedra; sino que viene armado
 
-hasta los dientes para derribarte. Si l sabe que ests tan protegido por una
+hasta los dientes para derribarte. Si él sabe que estás tan protegido por una
 
-cota de malla que el filo de su espada ser doblegado por tu armadura, entonces
+cota de malla que el filo de su espada será doblegado por tu armadura, entonces
 
-te atacar con un veneno letal; y si sabe que no puedes ser destruido por esos
+te atacará con un veneno letal; y si sabe que no puedes ser destruido por esos
 
-medios, viendo que tienes un antdoto a la mano, entonces buscar tenderte una
+medios, viendo que tienes un antídoto a la mano, entonces buscará tenderte una
 
-trampa; y si eres precavido de manera que no puedes ser sorprendido as,
+trampa; y si eres precavido de manera que no puedes ser sorprendido así,
 
-entonces enviar problemas de fuego contra ti, o una aplastante avalancha de
+entonces enviará problemas de fuego contra ti, o una aplastante avalancha de
 
 dolor, de manera que pueda someterte. Las armas de su guerra, siempre malas, y
 
@@ -492,9 +492,9 @@ menudo espirituales e invisibles
 
 , son poderosas
 
-contra tales dbiles criaturas como somos nosotros.
+contra tales débiles criaturas como somos nosotros.
 
-Adems, la argucia del diablo es
+Además, la argucia del diablo es
 
 descubierta en otra cosa,
 
@@ -502,119 +502,119 @@ en los agentes
 
 que emplea.
 
-El diablo no realiza l mismo todo su sucio trabajo; a menudo
+El diablo no realiza él mismo todo su sucio trabajo; a menudo
 
-emplea a otros para que lo hagan por l. Cuando Sansn tena que ser vencido, y
+emplea a otros para que lo hagan por él. Cuando Sansón tenía que ser vencido, y
 
-sus nazareas guedejas tenan que ser cortadas, Satans tena a Dalila lista
+sus nazareas guedejas tenían que ser cortadas, Satanás tenía a Dalila lista
 
-para tentarlo y conducirlo al descarro; l saba qu haba en el corazn de
+para tentarlo y conducirlo al descarrío; él sabía qué había en el corazón de
 
-Sansn, y dnde estaba su lugar ms dbil, y por tanto, le tent por medio de
+Sansón, y dónde estaba su lugar más débil, y por tanto, le tentó por medio de
 
-la mujer que amaba. Un viejo telogo dice: Hay muchos hombres cuya cabeza ha
+la mujer que amaba. Un viejo teólogo dice: “Hay muchos hombres cuya cabeza ha
 
-sido quebrada por su propia costilla, y ciertamente eso es cierto. Satans
+sido quebrada por su propia costilla”, y ciertamente eso es cierto. Satanás
 
 algunas veces ha puesto a la propia esposa de un hombre para que lo derribe
 
-hasta la destruccin, o ha usado a algn querido amigo como el instrumento para
+hasta la destrucción, o ha usado a algún querido amigo como el instrumento para
 
-obrar su ruina. Ustedes recuerdan cmo David se lamentaba por este mal: Porque
+obrar su ruina. Ustedes recuerdan cómo David se lamentaba por este mal: “Porque
 
-no me afrent un enemigo, lo cual habra soportado; ni se alz contra m el que
+no me afrentó un enemigo, lo cual habría soportado; ni se alzó contra mí el que
 
-me aborreca, porque me hubiera ocultado de l; sino t, hombre, al parecer
+me aborrecía, porque me hubiera ocultado de él; sino tú, hombre, al parecer
 
-ntimo mo, mi gua, y mi familiar; que juntos comunicbamos dulcemente los
+íntimo mío, mi guía, y mi familiar; que juntos comunicábamos dulcemente los
 
-secretos, y andbamos en amistad en la casa de Dios. Ah!, -dice el diablo-
+secretos, y andábamos en amistad en la casa de Dios”. “ˇAh!”, -dice el diablo-
 
-t no pensaste que yo iba a poner a un enemigo a hablar mal de ti, no es cierto?
+“tú no pensaste que yo iba a poner a un enemigo a hablar mal de ti, żno es cierto?
 
-Vamos, eso no te habra lastimado. Yo s cmo elegir a mis agentes de mejor
+Vamos, eso no te habría lastimado. Yo sé cómo elegir a mis agentes de mejor
 
-manera; voy a elegir a un hombre que es un amigo o un conocido; l se te
+manera; voy a elegir a un hombre que es un amigo o un conocido; él se te
 
-acercar, y luego te meter el pual debajo de los pliegues de tus vestidos.
+acercará, y luego te meterá el puńal debajo de los pliegues de tus vestidos”.
 
-Si un ministro ha de ser fastidiado, Satans elegir a un dicono que lo
+Si un ministro ha de ser fastidiado, Satanás elegirá a un diácono que lo
 
-fastidie. l sabe que no le importar tanto un ataque de cualquier otro miembro
+fastidie. Él sabe que no le importará tanto un ataque de cualquier otro miembro
 
-de la iglesia; as que algn dicono se levantar y dominar sobre l, de
+de la iglesia; así que algún diácono se levantará y dominará sobre él, de
 
-manera que tendr noches sin dormir y das ansiosos. Si es un dicono el que
+manera que tendrá noches sin dormir y días ansiosos. Si es un diácono el que
 
-Satans quiere fastidiar, buscar poner a algn miembro o hermano dicono
+Satanás quiere fastidiar, buscará poner a algún miembro o hermano diácono
 
-contra l; y si no hay ninguna otra persona que le importe, ser su amigo ms cercano
+contra él; y si no hay ninguna otra persona que le importe, será su amigo más cercano
 
-y ms querido el que desempee el acto villano.
+y más querido el que desempeńe el acto villano.
 
-El diablo siempre est listo a tomar en
+El diablo siempre está listo a tomar en
 
-su mano la red en la que el pez es ms probable que caiga, y a extender la
+su mano la red en la que el pez es más probable que caiga, y a extender la
 
-trampa que es ms probable que atrape al ave. Yo no sospecho, si t eres un
+trampa que es más probable que atrape al ave. Yo no sospecho, si tú eres un
 
-profesante de larga experiencia, que sers tentado por un sujeto borracho; no,
+profesante de larga experiencia, que serás tentado por un sujeto borracho; no,
 
-el diablo te tentar por medio de un hipcrita mojigato. Yo no imagino que tu
+el diablo te tentará por medio de un hipócrita mojigato. Yo no imagino que tu
 
-enemigo venga y te ataque y te calumnie; ser tu amigo. Satans sabe cmo usar
+enemigo venga y te ataque y te calumnie; será tu amigo. Satanás sabe cómo usar
 
-y disfrazar a todos sus agentes. Ah!, -dice- un lobo con piel de oveja ser
+y disfrazar a todos sus agentes. “ˇAh!”, -dice- “un lobo con piel de oveja será
 
-mejor para m que un lobo que se mira como un lobo; y uno de la iglesia jugar
+mejor para mí que un lobo que se mira como un lobo; y uno de la iglesia jugará
 
-mejor el juego y lo lograr ms fcilmente, que uno fuera de ella. La eleccin
+mejor el juego y lo logrará más fácilmente, que uno fuera de ella”. La elección
 
-de los agentes de Satans demuestra su artera y su ingenio. Fue algo astuto
+de los agentes de Satanás demuestra su artería y su ingenio. Fue algo astuto
 
-que eligiera a la serpiente para el propsito de tentar a Eva. Muy
+que eligiera a la serpiente para el propósito de tentar a Eva. Muy
 
 probablemente Eva estaba fascinada por la apariencia de la serpiente;
 
 probablemente admiraba su tonalidad brillante, y somos conducidos a creer que
 
-era entonces una criatura mucho ms noble de lo que es ahora. Tal vez,
+era entonces una criatura mucho más noble de lo que es ahora. Tal vez,
 
-entonces, se poda erguir sobre sus anillos, y muy probablemente a ella le
+entonces, se podía erguir sobre sus anillos, y muy probablemente a ella le
 
-complaca y le deleitaba; pudo haber sido la criatura familiar con la que
+complacía y le deleitaba; pudo haber sido la criatura familiar con la que
 
-jugaba no dudo de que lo fuera- antes de que el diablo entrara en ella.
+jugaba –no dudo de que lo fuera- antes de que el diablo entrara en ella.
 
-Ustedes saben cmo, a menudo, el diablo entra dentro de cada uno de nosotros.
+Ustedes saben cómo, a menudo, el diablo entra dentro de cada uno de nosotros.
 
-Yo s que l ha entrado en m muchas veces, cuando ha necesitado que se diga
+Yo sé que él ha entrado en mí muchas veces, cuando ha necesitado que se diga
 
-una palabra hiriente contra alguien. Nadie puede herir a ese hombre, o afligir
+una palabra hiriente contra alguien. “Nadie puede herir a ese hombre, o afligir
 
-a ese hombre dice el diablo- tan bien como puede hacerlo el seor Spurgeon; vamos,
+a ese hombre” –dice el diablo- “tan bien como puede hacerlo el seńor Spurgeon; vamos,
 
-lo ama como a su propia alma. Ese es el hombre, dice el diablo, que har la
+lo ama como a su propia alma. Ese es el hombre”, dice el diablo, “que hará la
 
-herida ms despiadada de todas, y l la har. Entonces, tal vez soy conducido a
+herida más despiadada de todas, y él la hará”. Entonces, tal vez soy conducido a
 
-creer algo errneo en contra de un algn precioso hijo de Dios, y
+creer algo erróneo en contra de un algún precioso hijo de Dios, y
 
 posteriormente a hablar de ello; y luego me aflijo al pensar que pude ser tan
 
-necio como para prestar mi corazn y mi lengua al diablo. Por tanto puedo
+necio como para prestar mi corazón y mi lengua al diablo. Por tanto puedo
 
-advertir a cada uno de ustedes, y especialmente a m mismo, y a todos aquellos
+advertir a cada uno de ustedes, y especialmente a mí mismo, y a todos aquellos
 
-que tienen mucho amor derramado en ellos, a que pongan atencin no sea que se
+que tienen mucho amor derramado en ellos, a que pongan atención no sea que se
 
-conviertan en instrumentos de Satans afligiendo los corazones del pueblo de
+conviertan en instrumentos de Satanás afligiendo los corazones del pueblo de
 
 Dios, y derribando a quienes tienen ya suficientes problemas que los pueden
 
 derribar, sin que necesiten ninguna ayuda de parte nuestra.
 
-Y, una vez ms, Satans muestra su
+Y, una vez más, Satanás muestra su
 
 astucia por
 
@@ -622,51 +622,51 @@ los tiempos en los que nos
 
 ataca.
 
-Yo pensaba, cuando estuve enfermo, que si poda levantarme de la
+Yo pensaba, cuando estuve enfermo, que si podía levantarme de la
 
 cama otra vez y ser fortalecido, yo le iba a dar al diablo una paliza sumamente
 
-terrible por la manera en que me atac cuando estaba enfermo. Cobarde! Por
+terrible por la manera en que me atacó cuando estaba enfermo. ˇCobarde! żPor
 
-qu no esper hasta que estuviera bien? Pero siempre encuentro que, si mi nimo
+qué no esperó hasta que estuviera bien? Pero siempre encuentro que, si mi ánimo
 
-se abate, y me encuentro en una baja condicin de corazn, Satans elige
+se abate, y me encuentro en una baja condición de corazón, Satanás elige
 
 especialmente ese tiempo para atacarme con la incredulidad. Que venga contra
 
-nosotros cuando la promesa de Dios est fresca en nuestra memoria, y cuando
+nosotros cuando la promesa de Dios está fresca en nuestra memoria, y cuando
 
-estamos disfrutando de un tiempo de dulce derramamiento de corazn en oracin
+estamos disfrutando de un tiempo de dulce derramamiento de corazón en oración
 
-delante de Dios, y l ver cmo lucharemos contra l entonces. Pero, no; l
+delante de Dios, y él verá cómo lucharemos contra él entonces. Pero, no; él
 
-sabe que entonces tendramos la fuerza para resistirle; y, prevaleciendo con
+sabe que entonces tendríamos la fuerza para resistirle; y, prevaleciendo con
 
-Dios, seramos capaces de prevalecer contra el diablo tambin. Por tanto vendr
+Dios, seríamos capaces de prevalecer contra el diablo también. Por tanto vendrá
 
 contra nosotros cuando haya una nube entre nosotros mismos y nuestro Dios; cuando
 
-el cuerpo est deprimido y el nimo est dbil, entonces nos tentar, y
+el cuerpo está deprimido y el ánimo está débil, entonces nos tentará, y
 
-procurar conducirnos a la desconfianza de Dios. En otro momento, nos tentar
+procurará conducirnos a la desconfianza de Dios. En otro momento, nos tentará
 
-al orgullo. Por qu no nos tienta al orgullo cuando estamos enfermos y cuando
+al orgullo. żPor qué no nos tienta al orgullo cuando estamos enfermos y cuando
 
-tenemos el espritu deprimido? No dice- no puedo lograrlo entonces. l
+tenemos el espíritu deprimido? “No” –dice- “no puedo lograrlo entonces”. Él
 
-escoge el tiempo cuando un hombre est bien, cuando est en el pleno disfrute
+escoge el tiempo cuando un hombre está bien, cuando está en el pleno disfrute
 
 de las promesas, y capacitado para servir a su Dios con deleite, y entonces lo
 
-tentar al orgullo. Es la oportunidad de sus ataques, el correcto ordenamiento
+tentará al orgullo. Es la oportunidad de sus ataques, el correcto ordenamiento
 
-de sus asaltos lo que hace que Satans sea un enemigo diez veces ms terrible
+de sus asaltos lo que hace que Satanás sea un enemigo diez veces más terrible
 
-de lo que sera de otra manera, y eso demuestra la profundidad de su artera. Verdaderamente,
+de lo que sería de otra manera, y eso demuestra la profundidad de su artería. Verdaderamente,
 
-la antigua serpiente es ms astuta que cualquier otra bestia del campo que el
+la antigua serpiente es más astuta que cualquier otra bestia del campo que el
 
-Seor ha creado.
+Seńor ha creado.
 
 Hay algo acerca de los poderes del
 
@@ -676,25 +676,25 @@ La Iglesia
 
 de Cristo siempre
 
-est disputando; pero, oyeron alguna vez que el diablo y sus confederados
+está disputando; pero, żoyeron alguna vez que el diablo y sus confederados
 
-alterquen? Hay un vasto ejrcito de esos espritus cados, pero cun
+alterquen? ˇHay un vasto ejército de esos espíritus caídos, pero cuán
 
-maravillosamente unnime es! Son tan unidos que, si en algn momento en
+maravillosamente unánime es! Son tan unidos que, si en algún momento en
 
-especial el gran prncipe negro del infierno desea concentrar todas las masas
+especial el gran príncipe negro del infierno desea concentrar todas las masas
 
-de su ejrcito en un punto particular, lo hace al tictac del reloj, y la
+de su ejército en un punto particular, lo hace al tictac del reloj, y la
 
-tentacin viene con su ms plena fuerza justo cuando es ms probable que prevalecer.
+tentación viene con su más plena fuerza justo cuando es más probable que prevalecerá.
 
-Ah, si tuviramos una unanimidad como esa en
+Ah, si tuviéramos una unanimidad como esa en
 
 la Iglesia
 
 de Dios, si todos
 
-nos moviramos con la gua del dedo de Cristo, si toda
+nos moviéramos con la guía del dedo de Cristo, si toda
 
 la Iglesia
 
@@ -702,63 +702,63 @@ pudiera, en este
 
 momento por ejemplo, moverse en una gran masa al ataque de un cierto mal, ahora
 
-que el tiempo ha llegado para el ataque sobre eso, cunto ms fcilmente
+que el tiempo ha llegado para el ataque sobre eso, ˇcuánto más fácilmente
 
-podramos prevalecer! Pero, ay! Satans nos sobrepasa en artificio, y los
+podríamos prevalecer! ˇPero, ay! Satanás nos sobrepasa en artificio, y los
 
 poderes del infierno nos sobrepasan en mucho en unanimidad. Esto, sin embargo,
 
-es un gran punto en la astucia de Satans, que l elige siempre los tiempos de
+es un gran punto en la astucia de Satanás, que él elige siempre los tiempos de
 
 sus ataques muy sabiamente.
 
-Y todava hay algo ms, y habr concluido
+Y todavía hay algo más, y habré concluido
 
-con este punto. La astucia de Satans es muy grande en otra cosa, esto es,
+con este punto. La astucia de Satanás es muy grande en otra cosa, esto es,
 
 en sus retiradas.
 
-Cuando me un a
+Cuando me uní a
 
 la Iglesia
 
 Cristiana
 
-por primera vez, no pude entender nunca un dicho que o de un anciano, que no
+por primera vez, no pude entender nunca un dicho que oí de un anciano, que no
 
-haba ninguna tentacin tan mala como la de no ser tentado, ni tampoco entenda
+había ninguna tentación tan mala como la de no ser tentado, ni tampoco entendía
 
-entonces qu quiso decir Rutherford cuando dijo que le gustaba un diablo
+entonces qué quiso decir Rutherford cuando dijo que le gustaba un diablo
 
-rugiente mucho ms que un diablo durmiente. Ahora lo entiendo; y ustedes, que
+rugiente mucho más que un diablo durmiente. Ahora lo entiendo; y ustedes, que
 
-son hijos de Dios, y que han andado por algunos aos en sus caminos, lo
+son hijos de Dios, y que han andado por algunos ańos en sus caminos, lo
 
-entienden tambin.
+entienden también.
 
-Ms temo la
+“Más temo la
 
 calma traicionera,
 
 Que la
 
-tempestad que rueda sobre mi cabeza.
+tempestad que rueda sobre mi cabeza”.
 
-Hay un estado tal de corazn como este:
+Hay un estado tal de corazón como este:
 
-t quieres sentir, pero no sientes. Si slo pudieras dudar, lo consideraras un
+tú quieres sentir, pero no sientes. Si sólo pudieras dudar, lo considerarías un
 
-logro muy grande; s, y aun si pudieras conocer la negrura de la desesperacin,
+logro muy grande; sí, y aun si pudieras conocer la negrura de la desesperación,
 
-preferiras sentir eso que ser como eres. Vaya!, -dices- no tengo ninguna
+preferirías sentir eso que ser como eres. “ˇVaya!”, -dices- “no tengo ninguna
 
-duda acerca de mi condicin eterna; de alguna manera pienso que puedo decir,
+duda acerca de mi condición eterna; de alguna manera pienso que puedo decir,
 
-aunque no podra hablar exactamente con certeza, pues me temo que sera
+aunque no podría hablar exactamente con certeza, pues me temo que sería
 
-presuncin, sin embargo, en verdad confo que puedo decir que soy un heredero
+presunción, sin embargo, en verdad confío que puedo decir que soy un heredero
 
-del cielo. Sin embargo eso no me produce ningn goce. Puedo involucrarme en la
+del cielo. Sin embargo eso no me produce ningún goce. Puedo involucrarme en la
 
 obra de Dios; en verdad siento que la amo, sin embargo, no puedo sentir que sea
 
@@ -770,7 +770,7 @@ ir. Leo la promesa, pero no veo ninguna especial dulzura en ella; de hecho, no
 
 parece como si necesitara alguna promesa. E incluso las amenazas no me
 
-aterrorizan; no hay ningn terror en ellas para m. Oigo
+aterrorizan; no hay ningún terror en ellas para mí. Oigo
 
 la Palabra
 
@@ -778,45 +778,45 @@ de Dios; tal vez
 
 soy sacudido por lo que el ministro dice, pero no me siento impresionado por su
 
-denuedo como debera estarlo. Siento que no podra vivir sin oracin, y sin
+denuedo como debería estarlo. Siento que no podría vivir sin oración, y sin
 
-embargo, no hay ninguna uncin en mi alma. No me atrevo a pecar; confo que mi
+embargo, no hay ninguna unción en mi alma. No me atrevo a pecar; confío que mi
 
-vida es externamente sin mancha; lo que tengo que lamentar todava es un
+vida es externamente sin mancha; lo que tengo que lamentar todavía es un
 
-corazn de plomo, una falta de susceptibilidad al deleite espiritual o al cntico
+corazón de plomo, una falta de susceptibilidad al deleite espiritual o al cántico
 
 espiritual, una calma completa en el alma, como esa terrible calma de la cual
 
-el Viejo Marinero de Coleridge deca:
+el ‘Viejo Marinero’ de Coleridge decía:
 
-El fondo
+“El fondo
 
-mismo se pudra,
+mismo se pudría,
 
-Ay, quin lo
+ˇAy, quién lo
 
 hubiera pensado!
 
-S, viscosas
+Sí, viscosas
 
 criaturas con patas
 
 Se
 
-arrastraban por el viscoso mar.
+arrastraban por el viscoso mar”.
 
-Ahora, querido amigo, sabes algo acerca
+Ahora, querido amigo, żsabes algo acerca
 
-del estado de tu propio corazn justo ahora? Si es as, esa es la respuesta al
+del estado de tu propio corazón justo ahora? Si es así, esa es la respuesta al
 
 enigma: que no ser tentado es peor que ser tentado. Realmente, ha habido
 
 tiempos, en la experiencia pasada de mi propia alma, cuando hubiera estado
 
-agradecido al diablo si hubiera venido y me hubiera sacudido; yo habra sentido
+agradecido al diablo si hubiera venido y me hubiera sacudido; yo habría sentido
 
-que Dios le haba empleado, contra su deseo, para hacerme un bien permanente,
+que Dios le había empleado, contra su deseo, para hacerme un bien permanente,
 
 para despertarme al conflicto. Si el diablo simplemente hubiera entrado en
 
@@ -826,19 +826,19 @@ Encantada
 
 , y hubiera atacado
 
-a los peregrinos all, qu buena cosa habra sido para ellos! Pero, ustedes notarn
+a los peregrinos allí, ˇqué buena cosa habría sido para ellos! Pero, ustedes notarán
 
-que John Bunyan no lo puso all, pues no tena nada que hacer all. Era en el
+que John Bunyan no lo puso allí, pues no tenía nada que hacer allí. Era en el
 
 Valle de
 
 la
 
-Humillacin
+Humillación
 
-que haba mucho trabajo hecho a la medida para
+que había mucho trabajo hecho a la medida para
 
-Satans; pero en
+Satanás; pero en
 
 la Tierra
 
@@ -846,75 +846,75 @@ Encantada
 
 todos los peregrinos dormitaban, como hombres dormidos sobre la punta de un
 
-mastelero. Estaban ebrios por el vino, de manera que no podan hacer nada, y
+mastelero. Estaban ebrios por el vino, de manera que no podían hacer nada, y
 
-por tanto el diablo saba que no le necesitaban all; simplemente los dej para
+por tanto el diablo sabía que no le necesitaban allí; simplemente los dejó para
 
-que siguieran durmiendo. Madame Bubble y modorra haran todo su trabajo. Pero
+que siguieran durmiendo. Madame Bubble y ‘modorra’ harían todo su trabajo. Pero
 
 fue en el Valle de
 
 la
 
-Humillacin
+Humillación
 
-donde entr, y all tuvo su severo combate con el
+donde entró, y allí tuvo su severo combate con el
 
-pobre de cristiano. Hermanos, si van pasando a travs de la tierra que es
+pobre de cristiano. Hermanos, si van pasando a través de la tierra que es
 
-encantada con modorra, indiferencia y sueo, entendern la astucia del diablo
+encantada con modorra, indiferencia y sueńo, entenderán la astucia del diablo
 
 en mantenerse fuera del camino.
 
 II.
 
-Y ahora, en segundo lugar, preguntmonos
+Y ahora, en segundo lugar, preguntémonos
 
-muy brevemente, QU HAREMOS CON ESE ENEMIGO? Ustedes y yo sentimos que tenemos
+muy brevemente, żQUÉ HAREMOS CON ESE ENEMIGO? Ustedes y yo sentimos que tenemos
 
-que entrar en el reino del cielo, y no podemos entrar all mientras nos
+que entrar en el reino del cielo, y no podemos entrar allí mientras nos
 
-quedamos inmviles.
+quedamos inmóviles.
 
 La Ciudad
 
 de
 
-la Destruccin
+la Destrucción
 
-est detrs de nosotros, y Muerte nos est persiguiendo; debemos apretar el
+está detrás de nosotros, y Muerte nos está persiguiendo; debemos apretar el
 
-paso hacia el cielo; pero, en el camino, est este len rugiente, buscando a
+paso hacia el cielo; pero, en el camino, está este “león rugiente, buscando a
 
-quien devorar. Qu haremos? l tiene gran astucia; cmo le venceremos?
+quien devorar”. żQué haremos? Él tiene gran astucia; żcómo le venceremos?
 
-Buscaremos ser tan astutos como l? Ah!, esa sera una tarea ociosa; en
+żBuscaremos ser tan astutos como él? ˇAh!, esa sería una tarea ociosa; en
 
-verdad sera pecaminosa. Buscar ser astuto, como el demonio, sera tan perverso
+verdad sería pecaminosa. Buscar ser astuto, como el demonio, sería tan perverso
 
-como sera ftil. Qu haremos, entonces? Le atacaremos con sabidura? Ay!,
+como sería fútil. żQué haremos, entonces? żLe atacaremos con sabiduría? ˇAy!,
 
-nuestra sabidura no es sino insensatez. El hombre vano se har entendido;
+nuestra sabiduría no es sino insensatez. “El hombre vano se hará entendido”;
 
-pero en su ptimo estado no es sino un pollino de asno monts. Entonces, qu
+pero en su óptimo estado no es sino “un pollino de asno montés”. Entonces, żqué
 
 haremos?
 
-La nica manera de repeler la astucia de
+La única manera de repeler la astucia de
 
-Satans es
+Satanás es
 
 adquiriendo verdadera
 
-sabidura.
+sabiduría.
 
-Lo repito de nuevo, el hombre no tiene nada de eso en s mismo.
+Lo repito de nuevo, el hombre no tiene nada de eso en sí mismo.
 
-Qu pues? En esto hay verdadera sabidura. Si quieres luchar exitosamente contra
+żQué pues? En esto hay verdadera sabiduría. Si quieres luchar exitosamente contra
 
-Satans, haz de las Santas Escrituras tu recurso diario. De esta sagrada
+Satanás, haz de las Santas Escrituras tu recurso diario. De esta sagrada
 
-revista extrae continuamente tu armadura y tu municin. Afrrate a las
+revista extrae continuamente tu armadura y tu munición. Aférrate a las
 
 gloriosas doctrinas de
 
@@ -924,95 +924,95 @@ Palabra
 
 de Dios; haz de ellas tu comida y tu bebida diarias.
 
-As sers fuerte para resistir al demonio, y estars feliz al descubrir que
+Así serás fuerte para resistir al demonio, y estarás feliz al descubrir que
 
-huir de ti. Con qu limpiar el joven su camino? Y cmo se proteger un
+huirá de ti. “żCon qué limpiará el joven su camino?” żY cómo se protegerá un
 
-cristiano contra el enemigo? Con guardar tu palabra. Combatamos siempre a
+cristiano contra el enemigo? “Con guardar tu palabra”. Combatamos siempre a
 
-Satans con un Escrito est; pues ninguna arma afectar jams al archienemigo
+Satanás con un “Escrito está”; pues ninguna arma afectará jamás al archienemigo
 
-tan bien como lo har
+tan bien como lo hará
 
 la Santa
 
 Escritura.
 
-Intenta luchar con Satans con la espada de madera de la razn, y l te vencer
+Intenta luchar con Satanás con la espada de madera de la razón, y él te vencerá
 
-fcilmente; pero usa esta hoja de Jerusaln de
+fácilmente; pero usa esta hoja de Jerusalén de
 
 la Palabra
 
 de Dios, con la cual
 
-ha sido herido muchas veces y le vencers con prontitud.
+ha sido herido muchas veces y le vencerás con prontitud.
 
-Pero, sobre todo, si quisiramos resistir
+Pero, sobre todo, si quisiéramos resistir
 
-exitosamente a Satans, debemos mirar no meramente a la sabidura revelada,
+exitosamente a Satanás, debemos mirar no meramente a la sabiduría revelada,
 
 sino a
 
 la
 
-Sabidura
+Sabiduría
 
 Encarnada.
 
-Oh,
+ˇOh,
 
-amados, aqu tiene que estar el principal punto de reunin para cada alma
+amados, aquí tiene que estar el principal punto de reunión para cada alma
 
-tentada! Debemos huir a l el cual nos ha sido hecho por Dios sabidura,
+tentada! Debemos huir a Él “el cual nos ha sido hecho por Dios sabiduría,
 
-justificacin, santificacin y redencin. l tiene que ensearnos, l tiene
+justificación, santificación y redención”. Él tiene que enseńarnos, Él tiene
 
-que guiarnos, l tiene que ser nuestro Todo en todo. Nosotros tenemos que
+que guiarnos, Él tiene que ser nuestro Todo en todo. Nosotros tenemos que
 
-mantenernos cerca de l en comunin. Las ovejas nunca estn tan protegidas del
+mantenernos cerca de Él en comunión. Las ovejas nunca están tan protegidas del
 
-lobo como cuando estn cerca del pastor. Nunca estaremos tan a salvo de las
+lobo como cuando están cerca del pastor. Nunca estaremos tan a salvo de las
 
-flechas de Satans como cuando tenemos nuestra cabeza descansando en el pecho
+flechas de Satanás como cuando tenemos nuestra cabeza descansando en el pecho
 
 del Salvador. Creyente, camina de acuerdo a Su ejemplo; vive diariamente en Su
 
-comunin; confa siempre en Su sangre; y de esta manera sers ms que vencedor
+comunión; confía siempre en Su sangre; y de esta manera serás más que vencedor
 
-aun sobre la sutileza y la astucia del propio Satans. Tiene que ser un gozo
+aun sobre la sutileza y la astucia del propio Satanás. Tiene que ser un gozo
 
-para el cristiano saber que, a la larga, toda la astucia de Satans estar decepcionada,
+para el cristiano saber que, a la larga, toda la astucia de Satanás estará decepcionada,
 
-y todos sus designios malignos contra los santos demostrarn que no tienen
+y todos sus designios malignos contra los santos demostrarán que no tienen
 
-ningn efecto. No esperan con ansia, mis muy queridos hermanos, el da cuando
+ningún efecto. żNo esperan con ansia, mis muy queridos hermanos, el día cuando
 
-todas sus tentaciones acaben, y cuando lleguen al cielo? Y no mirarn entonces
+todas sus tentaciones acaben, y cuando lleguen al cielo? żY no mirarán entonces
 
 hacia abajo a este archidemonio, con santa risa y escarnio? Yo creo en verdad
 
-que los santos, cuando piensan en los ataques de Satans, se alegran con gozo
+que los santos, cuando piensan en los ataques de Satanás, “se alegran con gozo
 
-inefable, y adems de eso, sentirn un desprecio en sus propias almas por toda
+inefable”, y además de eso, sentirán un desprecio en sus propias almas por toda
 
-la astucia del infierno cuando vean cmo ha sido frustrada. Qu ha estado
+la astucia del infierno cuando vean cómo ha sido frustrada. żQué ha estado
 
-haciendo el diablo estos miles de aos? Acaso no ha sido el siervo indispuesto
+haciendo el diablo estos miles de ańos? żAcaso no ha sido el siervo indispuesto
 
-de Dios y de Su Iglesia? l ha estado buscando siempre destruir el rbol
+de Dios y de Su Iglesia? Él ha estado buscando siempre destruir el árbol
 
-viviente; pero cuando ha estado intentando desenterrarlo, slo ha sido como un
+viviente; pero cuando ha estado intentando desenterrarlo, sólo ha sido como un
 
-jardinero cavando con su azada y aflojando la tierra para ayudar a las races a
+jardinero cavando con su azada y aflojando la tierra para ayudar a las raíces a
 
-desparramarse ms; y cuando ha estado con su hacha buscando podar los rboles
+desparramarse más; y cuando ha estado con su hacha buscando podar los árboles
 
-del Seor y desfigurar su belleza, qu ha sido, despus de todo, sino una
+del Seńor y desfigurar su belleza, żqué ha sido, después de todo, sino una
 
 podadera en la mano de Dios, para quitar las ramas que no dan fruto, y para
 
-limpiar esas que s producen algo, para que puedan dar ms fruto? Hubo una vez,
+limpiar esas que sí producen algo, para que puedan dar más fruto? Hubo una vez,
 
 ustedes saben, cuando
 
@@ -1020,43 +1020,43 @@ la
 
 Iglesia
 
-de Cristo era como un pequeo torrente, -justo un
+de Cristo era como un pequeńo torrente, -justo un
 
-riachuelo pequeito- y flua a lo largo de un estrecho vallecito. Justo unos
+riachuelo pequeńito- y fluía a lo largo de un estrecho vallecito. Justo unos
 
-cuantos santos estaban reunidos juntos en Jerusaln, y el diablo pens para s:
+cuantos santos estaban reunidos juntos en Jerusalén, y el diablo pensó para sí:
 
-Ahora voy a conseguir una gran piedra, y voy a detener este riachuelo para que
+“Ahora voy a conseguir una gran piedra, y voy a detener este riachuelo para que
 
-no corra. Entonces va y consigue esta gran piedra, y la arroja en el centro
+no corra”. Entonces va y consigue esta gran piedra, y la arroja en el centro
 
-del riachuelo, pensando, por supuesto, que deba detenerlo para que no corriera
+del riachuelo, pensando, por supuesto, que debía detenerlo para que no corriera
 
-ms; pero, en vez de hacer eso, esparci las gotas sobre todo el mundo, y cada
+más; pero, en vez de hacer eso, esparció las gotas sobre todo el mundo, y cada
 
-gota se convirti en la madre de una fuente fresca. Ustedes saben qu era esa
+gota se convirtió en la madre de una fuente fresca. Ustedes saben qué era esa
 
-piedra; era persecucin, y los santos fueron esparcidos por ella; pero entonces
+piedra; era persecución, y los santos fueron esparcidos por ella; pero entonces
 
-los que fueron esparcidos iban por todas partes anunciando el evangelio, y
+“los que fueron esparcidos iban por todas partes anunciando el evangelio”, y
 
-as
+así
 
 la Iglesia
 
-fue multiplicada, y el demonio fue derrotado. Satans, te lo digo en tu cara,
+fue multiplicada, y el demonio fue derrotado. Satanás, te lo digo en tu cara,
 
-t eres el mayor necio que haya respirado jams, y te lo voy a demostrar en el
+tú eres el mayor necio que haya respirado jamás, y te lo voy a demostrar en el
 
-da cuando t y yo estaremos como enemigos, enemigos jurados, como lo somos en
+día cuando tú y yo estaremos como enemigos, enemigos jurados, como lo somos en
 
-este da, en el grandioso tribunal de Dios; y que eso, cristiano, se lo puedas
+este día, en el grandioso tribunal de Dios; y que eso, cristiano, se lo puedas
 
-decir siempre que te ataque. No le tengas miedo, sino resstele firme en la fe,
+decir siempre que te ataque. No le tengas miedo, sino resístele firme en la fe,
 
-y t prevalecers.
+y tú prevalecerás.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 18/Septiembre/2014
 

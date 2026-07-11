@@ -1,16 +1,16 @@
 # Sermón 1305 | Sermón 1305
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Secreto de
 
 una Vida Feliz
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,63 +18,63 @@ DOMINGO 16 DE JULIO
 
 DE 1876
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-A Jehov he
+“A Jehová he
 
-puesto siempre delante de m; porque est a mi diestra, no ser conmovido.
+puesto siempre delante de mí; porque está a mi diestra, no seré conmovido”.
 
 Salmo 16: 8.
 
-En los versculos
+En los versículos
 
-precedentes lemos: Las cuerdas me cayeron en lugares deleitosos, y es hermosa
+precedentes leímos: “Las cuerdas me cayeron en lugares deleitosos, y es hermosa
 
-la heredad que me ha tocado. Quien habla, por tanto, es un varn que est muy
+la heredad que me ha tocado”. Quien habla, por tanto, es un varón que está muy
 
-contento y feliz. No es lo ms usual en el mundo encontrar personas que
+contento y feliz. No es lo más usual en el mundo encontrar personas que
 
-encomian su suerte, y que manifiestan un conspicuo nfasis de satisfaccin; es
+encomian su suerte, y que manifiestan un conspicuo énfasis de satisfacción; es
 
-mucho ms comn or a hombres rodeados de favores que lamentan la dureza de su
+mucho más común oír a hombres rodeados de favores que lamentan la dureza de su
 
 caso. Las mentes contentas son casi tan escasas como los copos de nieve en la
 
-poca de la cosecha. El hombre que se deleita en su hermosa heredad merece
+época de la cosecha. El hombre que se deleita en su hermosa heredad merece
 
-atencin y haremos bien en aprender su secreto. Cmo es que es capaz de
+atención y haremos bien en aprender su secreto. żCómo es que es capaz de
 
-sentirse tan feliz? Busquemos cmo lleg a esa paz, y descubramos la pista de
+sentirse tan feliz? Busquemos cómo llegó a esa paz, y descubramos la pista de
 
 seda que lo condujo a tal morada campestre de deleite. Tal vez su camino se
 
-adapte a nuestros pies, y siguindolo podamos quedarnos tan perfectamente
+adapte a nuestros pies, y siguiéndolo podamos quedarnos tan perfectamente
 
-contentos como l lo estaba. Oh Seor y dador de paz, aydanos en la bsqueda!
+contentos como él lo estaba. ˇOh Seńor y dador de paz, ayúdanos en la búsqueda!
 
-Pero, primero, quin es
+Pero, primero, żquién es
 
-esta persona que est tan singularmente contenta? Para nuestro asombro
+esta persona que está tan singularmente contenta? Para nuestro asombro
 
-encontramos que el Espritu habla aqu por profeca en el nombre y en la
+encontramos que el Espíritu habla aquí por profecía en el nombre y en la
 
-persona de nuestro Seor Jesucristo. Es l quien por el Espritu dice aqu:
+persona de nuestro Seńor Jesucristo. Es Él quien por el Espíritu dice aquí:
 
-Las cuerdas me cayeron en lugares deleitosos, y es hermosa la heredad que me
+“Las cuerdas me cayeron en lugares deleitosos, y es hermosa la heredad que me
 
-ha tocado. l era el varn de dolores, experimentado en quebranto;
+ha tocado”. Él era el “varón de dolores, experimentado en quebranto”;
 
-despreciado y desechado entre los hombres, no tena dnde apoyar Su cabeza,
+despreciado y desechado entre los hombres”, no tenía dónde apoyar Su cabeza,
 
-con frecuencia experiment hambre y sed; tena unos pocos amigos los cuales
+con frecuencia experimentó hambre y sed; tenía unos pocos amigos los cuales
 
-demostraron no poseer fe en el tiempo de su extrema adversidad: cmo poda
+demostraron no poseer fe en el tiempo de su extrema adversidad: żcómo podía
 
-hablar as? Todo esto es mucho ms alentador para nosotros, porque si l, que
+hablar así? Todo esto es mucho más alentador para nosotros, porque si Él, que
 
-era el ms afligido de los hombres era sin embargo capaz de sentir una calma
+era el más afligido de los hombres era sin embargo capaz de sentir una calma
 
 interior, un dulce contento, entonces tiene que ser posible que nosotros los
 
@@ -82,41 +82,41 @@ sintamos, ya que nuestro lote no es tan amargo.
 
 Nosotros
 
-no somos enviados para hacer expiacin por el pecado, y de
+no somos enviados para hacer expiación por el pecado, y de
 
-aqu que nuestras aflicciones sean pocas comparadas con las de nuestro Seor. Haba
+aquí que nuestras aflicciones sean pocas comparadas con las de nuestro Seńor. Había
 
-una razn especial para que estuviera turbado, pues tom nuestras aflicciones y
+una razón especial para que estuviera turbado, pues tomó nuestras aflicciones y
 
-llev nuestros dolores; pero ningn dolor expiatorio es exigido de nosotros, ni
+llevó nuestros dolores; pero ningún dolor expiatorio es exigido de nosotros, ni
 
 tampoco tenemos aflicciones que soportar de la mano de Dios como castigos por
 
-el pecado, pues el Seor ha colocado todo eso sobre l, y nosotros hemos sido
+el pecado, pues el Seńor ha colocado todo eso sobre Él, y nosotros hemos sido
 
-absueltos. Si el Seor Jess, el varn de dolores, alguien que lament todos
+absueltos. Si el Seńor Jesús, el varón de dolores, alguien que lamentó todos
 
-Sus das, dijo sin embargo que las cuerdas le cayeron en lugares deleitosos, y
+Sus días, dijo sin embargo que las cuerdas le cayeron en lugares deleitosos, y
 
-es hermosa la heredad que le ha tocado, tiene que ser ms posible que nos
+es hermosa la heredad que le ha tocado, tiene que ser más posible que nos
 
 levantemos a un contentamiento similar si seguimos su regla y vivimos conforme
 
-a Su ejemplo. Cul, entonces, es el secreto de la perfecta paz y felicidad
+a Su ejemplo. żCuál, entonces, es el secreto de la perfecta paz y felicidad
 
-aqu abajo? Su precio est por encima de los rubes: dnde se aprender este
+aquí abajo? Su precio está por encima de los rubíes: żdónde se aprenderá este
 
-arte? Las lmparas mgicas y los maravillosos anillos de los que leen en los
+arte? Las lámparas mágicas y los maravillosos anillos de los que leen en los
 
-cuentos de hadas los nios son como nada en valor comparados con esta verdadera
+cuentos de hadas los nińos son como nada en valor comparados con esta verdadera
 
-piedra filosofal, este secreto mstico del Seor que est con aquellos que le
+piedra filosofal, este secreto místico del Seńor que está con aquellos que le
 
 temen, por el cual Sus santos son capacitados para disfrutar de la paz de Dios
 
 que sobrepasa todo entendimiento, que mantiene sus corazones y mentes por
 
-Jesucristo. Oh Prncipe de Paz, concdenos este reposo!
+Jesucristo. ˇOh Príncipe de Paz, concédenos este reposo!
 
 Nuestro texto nos comparte
 
@@ -124,23 +124,23 @@ claramente el secreto de la mayor felicidad que pueda encontrarse debajo de los
 
 cielos, y, ciertamente, revela la fuente escondida de esos placeres de lo alto
 
-que estn a la diestra de Dios por siempre. La primera parte del excelente
+que están a la diestra de Dios por siempre. La primera parte del excelente
 
-mtodo estriba en
+método estriba en
 
 vivir siempre en la
 
-presencia del Seor,
+presencia del Seńor,
 
-A Jehov he puesto siempre delante de m; la segunda
+“A Jehová he puesto siempre delante de mí”; la segunda
 
 parte se encuentra en
 
 confiar siempre en
 
-la presencia del Seor:
+la presencia del Seńor:
 
-Porque est a mi diestra, no ser conmovido.
+“Porque está a mi diestra, no seré conmovido”.
 
 I.
 
@@ -152,35 +152,35 @@ LA PRESENCIA
 
 DEL
 
-SEOR:
+SEŃOR:
 
-A Jehov he puesto siempre delante de m.
+“A Jehová he puesto siempre delante de mí”.
 
 Con
 
 el objeto de entender lo que esto significa vamos a intentar mantener nuestros
 
-ojos en la vida de Jess, y al mismo tiempo vamos a aplicar el texto a los
+ojos en la vida de Jesús, y al mismo tiempo vamos a aplicar el texto a los
 
-santos; porque aunque este pasaje es cumplido preeminentemente en l, con todo,
+santos; porque aunque este pasaje es cumplido preeminentemente en Él, con todo,
 
 puesto que los miembros participan de la naturaleza de la cabeza, cada uno en
 
-su grado, eso que hizo Jess y por lo que obtuvo una dicha y un reposo santos,
+su grado, eso que hizo Jesús y por lo que obtuvo una dicha y un reposo santos,
 
-ha de cumplirse en nosotros para que entremos en el gozo de nuestro Seor. No
+ha de cumplirse en nosotros para que entremos en el gozo de nuestro Seńor. żNo
 
-nos pide nuestro Seor Jess que llevemos Su yugo sobre nosotros y que
+nos pide nuestro Seńor Jesús que llevemos Su yugo sobre nosotros y que
 
-aprendamos de l, para que as hallemos descanso para nuestras almas?
+aprendamos de Él, para que así hallemos descanso para nuestras almas?
 
 Yo entiendo que nuestro
 
 texto significa primero, que
 
-deberamos
+deberíamos
 
-hacer de la presencia del Seor el ms grande de todos los hechos para
+hacer de la presencia del Seńor el más grande de todos los hechos para
 
 nosotros.
 
@@ -188,73 +188,73 @@ De todas las cosas que son, Dios
 
 es
 
-primordialmente, y deberamos considerarlo bajo esa luz. As era
+primordialmente, y deberíamos considerarlo bajo esa luz. Así era
 
-con nuestro Seor Jesucristo. l, como un hombre, conoca de la existencia de
+con nuestro Seńor Jesucristo. Él, como un hombre, conocía de la existencia de
 
-todas las cosas que son vistas, pero aun ms reconoci la existencia de Dios,
+todas las cosas que son vistas, pero aun más reconoció la existencia de Dios,
 
-que no puede ser visto, ese grandioso Espritu que es a la vez invisible e
+que no puede ser visto, ese grandioso Espíritu que es a la vez invisible e
 
-incomprensible. Cun vvidamente la presencia de Dios tiene que haber sido
+incomprensible. Cuán vívidamente la presencia de Dios tiene que haber sido
 
-percibida por Cristo en todo momento, pues l estaba en el Padre y el Padre en
+percibida por Cristo en todo momento, pues Él estaba en el Padre y el Padre en
 
-l. Ustedes y yo no hemos visto nunca ni hemos entendido al Padre en el mismo
+Él. Ustedes y yo no hemos visto nunca ni hemos entendido al Padre en el mismo
 
-grado en que l lo hizo, aunque el Hijo nos lo ha revelado. l entr en un
+grado en que Él lo hizo, aunque el Hijo nos lo ha revelado. Él entró en un
 
-reconocimiento ms constante y ms pleno de la presencia de Dios en todos los
+reconocimiento más constante y más pleno de la presencia de Dios en todos los
 
 lugares y cosas, del que hemos hecho hasta ahora. Con todo, verdaderamente
 
-hemos visto al Padre, pues hemos visto a Jess por fe. Levantarn alas como las
+hemos visto al Padre, pues hemos visto a Jesús por fe. Levantarán alas como las
 
-guilas, y con el ojo de guila hemos mirado al sol en el rostro, y no hemos
+águilas, y con el ojo de águila hemos mirado al sol en el rostro, y no hemos
 
-sido enceguecidos. No est escrito: Bienaventurados los de limpio corazn,
+sido enceguecidos. żNo está escrito: “Bienaventurados los de limpio corazón,
 
-porque ellos vern a Dios? Se nos ha enseado a ver a Dios en torno nuestro en
+porque ellos verán a Dios”? Se nos ha enseńado a ver a Dios en torno nuestro en
 
 todas las cosas que existen, y en todos los eventos que suceden; y nosotros
 
-bendecimos al Seor porque no vivimos como esos que estn sin Dios en el
+bendecimos al Seńor porque no vivimos como esos que están “sin Dios en el
 
-mundo, pero el Espritu nos ensea a reconocer la presencia de nuestro amoroso
+mundo”, pero el Espíritu nos enseńa a reconocer la presencia de nuestro amoroso
 
 Padre que todo lo llena; con todo, yo creo que no la discernimos tan constante
 
-e impresionantemente como nuestro Seor Jess lo haca. l miraba a los montes,
+e impresionantemente como nuestro Seńor Jesús lo hacía. Él miraba a los montes,
 
-y la luz del sol en sus frentes era la sonrisa de Su Padre. Vea las llanuras,
+y la luz del sol en sus frentes era la sonrisa de Su Padre. Veía las llanuras,
 
-y sus cosechas eran un regalo de Su Padre. Para l las olas del mar eran agitadas
+y sus cosechas eran un regalo de Su Padre. Para Él las olas del mar eran agitadas
 
 en tempestad por el aliento de Su Padre, o eran tranquilizadas por el susurro
 
-de Su Padre. l alimentaba a la multitud, pero era con el pan de Su Padre; y l
+de Su Padre. Él alimentaba a la multitud, pero era con el pan de Su Padre; y Él
 
-sanaba a los enfermos, pero el Padre haca las obras. En todas las cosas acerca
+sanaba a los enfermos, pero el Padre hacía las obras. En todas las cosas acerca
 
-de l reconoca continua y claramente la presencia activa del Altsimo. Otros
+de Él reconocía continua y claramente la presencia activa del Altísimo. Otros
 
-varones comentaban que los cuervos eran alimentados, pero l dijo: Vuestro
+varones comentaban que los cuervos eran alimentados, pero Él dijo: “Vuestro
 
-Padre celestial los alimenta. Otros hombres notaban que los lirios eran
+Padre celestial los alimenta”. Otros hombres notaban que los lirios eran
 
-hermosos a la vista, pero l discerna que la hierba del campo Dios la viste
+hermosos a la vista, pero Él discernía que “la hierba del campo… Dios la viste
 
-as. El Padre celestial estaba en todas partes, y en todo para Jess. Ahora,
+así”. El Padre celestial estaba en todas partes, y en todo para Jesús. Ahora,
 
-yo le pido a nuestro Seor que conceda que por el bendito Espritu seamos
+yo le pido a nuestro Seńor que conceda que por el bendito Espíritu seamos
 
-siempre sensibles a la presencia de Dios doquiera que estemos. No es acaso una
+siempre sensibles a la presencia de Dios doquiera que estemos. żNo es acaso una
 
-triste prueba de la alienacin de nuestra naturaleza que aunque Dios est en
+triste prueba de la alienación de nuestra naturaleza que aunque Dios está en
 
-todas partes tenemos que ensearnos a percibirle en algn punto? Suyas son las
+todas partes tenemos que enseńarnos a percibirle en algún punto? Suyas son las
 
-bellezas de la naturaleza, suyo el brillo del sol que est trayendo la cosecha,
+bellezas de la naturaleza, suyo el brillo del sol que está trayendo la cosecha,
 
 suyo el grano que se inclina que alegra al labrador, suyo el perfume que carga
 
@@ -262,33 +262,33 @@ el aire de las multitudes de flores, suyos los insectos que resplandecen a
 
 nuestro alrededor como joyas vivas; y sin embargo, el Creador y Sustentador de
 
-todas estas cosas es percibido en un grado demasiado pequeo. Todo en el templo
+todas estas cosas es percibido en un grado demasiado pequeńo. Todo en el templo
 
-de la naturaleza habla de Su gloria, pero nuestros odos estn sordos para
+de la naturaleza habla de Su gloria, pero nuestros oídos están sordos para
 
-escuchar. Todo, desde la gota del roco al ocano refleja
+escuchar. Todo, desde la gota del rocío al océano refleja
 
 la Deidad
 
 y sin embargo,
 
-fallamos grandemente en ver el brillo eterno. Yo les suplico, hermanos mos,
+fallamos grandemente en ver el brillo eterno. Yo les suplico, hermanos míos,
 
-que oren para que este texto sea grabado en sus propias almas: A Jehov he
+que oren para que este texto sea grabado en sus propias almas: “A Jehová he
 
-puesto siempre delante de m. Rehsen ver cualquier cosa sin ver a Dios en
+puesto siempre delante de mí”. Rehúsen ver cualquier cosa sin ver a Dios en
 
 ella. Consideren a las criaturas como el espejo del gran Creador. No se
 
 imaginen haber entendido Sus obras hasta no haber sentido la presencia del grandioso
 
-obrero mismo. No cuenten con saber algo mientras no lo sepan por Dios que est
+obrero mismo. No cuenten con saber algo mientras no lo sepan por Dios que está
 
-en su interior, pues ese es el ncleo que contiene. Despierten en la maana y
+en su interior, pues ese es el núcleo que contiene. Despierten en la mańana y
 
-reconozcan a Dios en su recmara, pues Su bondad ha descorrido la cortina de la
+reconozcan a Dios en su recámara, pues Su bondad ha descorrido la cortina de la
 
-noche y ha quitado de sus prpados la seal del sueo: vstanse y perciban el
+noche y ha quitado de sus párpados la seńal del sueńo: vístanse y perciban el
 
 cuidado divino que les provee de ropa de la hierba del campo y de las ovejas
 
@@ -296,43 +296,43 @@ del redil. Vayan al desayunador y bendigan a Dios cuya riqueza ha puesto de
 
 nuevo para ti una mesa en el desierto: sal a tus negocios y siente a Dios
 
-contigo en todos los compromisos del da: recuerda perpetuamente que ests
+contigo en todos los compromisos del día: recuerda perpetuamente que estás
 
-morando en Su casa cuando ests trabajando arduamente por tu pan o ests
+morando en Su casa cuando estás trabajando arduamente por tu pan o estás
 
-involucrado en el comercio. Por fin, despus de un da bien invertido, regresa
+involucrado en el comercio. Por fin, después de un día bien invertido, regresa
 
-a tu familia y mira al Seor en cada uno de sus miembros; reconoce Su bondad al
+a tu familia y mira al Seńor en cada uno de sus miembros; reconoce Su bondad al
 
 preservar la vida y la salud; busca Su presencia en el altar familiar haciendo
 
 que la casa sea un verdadero palacio donde moran los hijos del rey. Por fin,
 
-entrgate al sueo en la noche como a los abrazos de tu Dios o como sobre el
+entrégate al sueńo en la noche como a los abrazos de tu Dios o como sobre el
 
 pecho de tu Salvador. Esto es vivir felizmente. El mundano olvida a Dios, el
 
-pecador le deshonra, el ateo le niega, pero el cristiano vive en l. Porque en
+pecador le deshonra, el ateo le niega, pero el cristiano vive en Él. “Porque en
 
-l vivimos, y nos movemos, y somos Linaje suyo somos. Vemos como sombras a
+él vivimos, y nos movemos, y somos… Linaje suyo somos”. Vemos como sombras a
 
 las cosas visibles; las cosas que tocamos y gustamos y manejamos perecen con el
 
-uso; los elementos de esta slida tierra se disolvern con calor hirviente,
+uso; los elementos de esta sólida tierra se disolverán con calor hirviente,
 
-pero el Dios siempre presente a quien no podemos ver es el mismo, y Sus aos no
+pero el Dios siempre presente a quien no podemos ver es el mismo, y Sus ańos no
 
-tienen un fin, y Su existencia es la nica real y verdadera y eterna para
+tienen un fin, y Su existencia es la única real y verdadera y eterna para
 
-nosotros. l ha sido nuestra morada en todas las generaciones, y sera perverso
+nosotros. Él ha sido nuestra morada en todas las generaciones, y sería perverso
 
 en verdad no conocer nuestro propio hogar eterno. Este es un ingrediente
 
-principal en el aceite del gozo, darnos cuenta de que el Seor est a nuestro
+principal en el aceite del gozo, darnos cuenta de que el Seńor está a nuestro
 
-alrededor as como Jerusaln tiene montes alrededor de ella desde ahora y
+alrededor “así como Jerusalén tiene montes alrededor de ella… desde ahora y
 
-para siempre.
+para siempre”.
 
 En segundo lugar, las
 
@@ -340,49 +340,49 @@ palabras del texto significan
 
 hacer de la
 
-gloria de Dios el nico objetivo de nuestras vidas.
+gloria de Dios el único objetivo de nuestras vidas.
 
-As como en una carrera
+Así como en una carrera
 
-un trofeo es exhibido delante de los corredores, as el corazn del creyente
+un trofeo es exhibido delante de los corredores, así el corazón del creyente
 
-pone la gloria de Dios ante s como el trofeo por el cual se corre la carrera
+pone la gloria de Dios ante sí como el trofeo por el cual se corre la carrera
 
-de la vida. Suceda lo mismo con nuestro amado Redentor; desde lo primero hasta
+de la vida. Sucedía lo mismo con nuestro amado Redentor; desde lo primero hasta
 
-lo ltimo, l puso a Dios siempre delante de l como el objetivo de Su vida en
+lo último, Él puso a Dios siempre delante de Él como el objetivo de Su vida en
 
-la tierra. Encuentras en l alguna vez un motivo egosta? Es movido alguna
+la tierra. żEncuentras en Él alguna vez un motivo egoísta? żEs movido alguna
 
-vez por alguna ambicin rastrera? Acaso no est buscando siempre el bien de
+vez por alguna ambición rastrera? żAcaso no está buscando siempre el bien de
 
-los hombres y por ese medio la gloria de Dios? Siendo todava un joven sube al
+los hombres y por ese medio la gloria de Dios? Siendo todavía un joven sube al
 
 templo, no para exhibir Su precocidad, ni como otros hijos, para gratificarse
 
-con la admiracin acumulada sobre l por Su temprana sabidura, sino que dice:
+con la admiración acumulada sobre Él por Su temprana sabiduría, sino que dice:
 
-No sabais que en los negocios de mi Padre me es necesario estar? En das
+“żNo sabíais que en los negocios de mi Padre me es necesario estar?” En días
 
 posteriores, cuando ha sido ungido para Su obra, se sienta junto a un pozo y
 
-toma Su descanso; una mujer viene y conversa con l, pero l no habla sobre
+toma Su descanso; una mujer viene y conversa con Él, pero Él no habla sobre
 
-ningn tema ocioso; le habla del agua viva, busca su alma para salvarla, y
+ningún tema ocioso; le habla del agua viva, busca su alma para salvarla, y
 
-luego les dice a Sus discpulos que tiene un alimento para comer que ellos
+luego les dice a Sus discípulos que tiene un alimento para comer que ellos
 
 desconocen; pues era Su alimento y Su bebida hacer la voluntad de Aquel que le
 
-envi.
+envió.
 
 Prosigue hacia la meta
 
-con inalterable intensidad de propsito hacia la consumacin de la obra que Su
+con inalterable intensidad de propósito hacia la consumación de la obra que Su
 
-Padre le haba encomendado. Le ven presente en una boda, o reunindose con
+Padre le había encomendado. Le ven presente en una boda, o reuniéndose con
 
-algunos en una procesin fnebre, pero en ambos casos es encontrado apuntando a
+algunos en una procesión fúnebre, pero en ambos casos es encontrado apuntando a
 
 la gloria de Dios. Si lo encuentras batallando con la multitud, o en el
 
@@ -390,163 +390,163 @@ aposento encerrado con dos o tres, resucitando a los muertos, si lees de Sus
 
 oraciones en la solitaria ladera del monte o escuchas Sus gemidos en el huerto
 
-de Getseman, esta cosa hace todava por siempre: glorifica a Su Padre en la
+de Getsemaní, esta cosa hace todavía por siempre: glorifica a Su Padre en la
 
-tierra. Despreciando la vergenza y hollando bajo el pie el honor del mundo,
+tierra. Despreciando la vergüenza y hollando bajo el pie el honor del mundo,
 
-vive para Dios y slo para Dios. No slo algunas veces y de vez en cuando, o
+vive para Dios y sólo para Dios. No sólo algunas veces y de vez en cuando, o
 
 como el agregado general de Su vida, es encontrado poniendo a Dios delante de
 
-l, sino
+Él, sino
 
 siempre
 
-y sin excepcin. En
+y sin excepción. En
 
-cada pensamiento, en cada palabra, en cada acto, Dios estaba delante de l, y
+cada pensamiento, en cada palabra, en cada acto, Dios estaba delante de Él, y
 
-viva para Dios. Oh, que pudiramos llegar a eso: Si, pues, comemos o bebemos,
+vivía para Dios. Oh, que pudiéramos llegar a eso: Si, pues, comemos o bebemos,
 
-o hacemos otra cosa, queremos hacerlo todo para la gloria de Dios. Oh, que no
+o hacemos otra cosa, queremos hacerlo todo para la gloria de Dios. ˇOh, que no
 
-nos atreviramos nunca a hacer lo que deshonrara el nombre de Dios! Oh, que
+nos atreviéramos nunca a hacer lo que deshonraría el nombre de Dios! ˇOh, que
 
-caminramos en todas las cosas como para agradar a Aquel que nos am y se
+camináramos en todas las cosas como para agradar a Aquel que nos amó y se
 
-entreg por nosotros! Yo estoy seguro, amados hermanos y hermanas, que si se
+entregó por nosotros! Yo estoy seguro, amados hermanos y hermanas, que si se
 
 han propuesto esto, aunque se hubieren quedado demasiado cortos en su deseo,
 
 con todo, en tal senda han encontrado paz para sus almas. Este es el Camino
 
-Real, la va de la santidad donde no se encontrar ningn len. Saber que Dios
+Real, la vía de la santidad donde no se encontrará ningún león. Saber que Dios
 
-est presente, y vivir enteramente para agradarle, ese es el camino de la
+está presente, y vivir enteramente para agradarle, ese es el camino de la
 
-condicin placentera; cudense y mantnganse all. No hagan nunca nada que
+condición placentera; cuídense y manténganse allí. No hagan nunca nada que
 
-deshonrara el santo nombre con el que son llamados, y no dejen nada sin hacer
+deshonraría el santo nombre con el que son llamados, y no dejen nada sin hacer
 
-por duro que sea para la carne que quiere servir a la causa de Dios, as sern
+por duro que sea para la carne que quiere servir a la causa de Dios, así serán
 
-como su Seor, y se volvern partcipes de Su paz. Este es el modo de vida por
+como su Seńor, y se volverán partícipes de Su paz. Este es el modo de vida por
 
-el cual un hombre probar anticipadamente los festejos del cielo estando
+el cual un hombre probará anticipadamente los festejos del cielo estando
 
-todava en el yermo de este mundo: que el Espritu Santo nos conduzca a eso.
+todavía en el yermo de este mundo: que el Espíritu Santo nos conduzca a eso.
 
 Un significado adicional
 
-de poner siempre al Seor delante de nosotros es
+de poner siempre al Seńor delante de nosotros es
 
 vivir de tal manera que la presencia de Dios sea la regla y el soporte
 
 de nuestra obediencia.
 
-As haca Jess. Ustedes saben muy bien que para
+Así hacía Jesús. Ustedes saben muy bien que para
 
-muchos siervos el ojo del amo es ms importante para hacerlos cuidadosos y
+muchos siervos el ojo del amo es más importante para hacerlos cuidadosos y
 
-diligentes. Cuntos slo sirven al ojo y agradan a los hombres. Quiten el ojo
+diligentes. Cuántos sólo sirven al ojo y agradan a los hombres. Quiten el ojo
 
-del amo, y cun lentamente la labor se seguir desarrollando; cun a menudo la
+del amo, y cuán lentamente la labor se seguirá desarrollando; cuán a menudo la
 
-labor es realizada de una manera desaliada, o dejada inconclusa por completo.
+labor es realizada de una manera desalińada, o dejada inconclusa por completo.
 
-El antiguo proverbio declara que el ojo del amo hace ms que sus dos manos, y
+El antiguo proverbio declara que el ojo del amo hace más que sus dos manos, y
 
 es verdad demasiado tristemente; sin embargo, no es equivocado decir que el ojo
 
-de su Seor debera tener una gran influencia sobre los siervos de Dios. He
+de su Seńor debería tener una gran influencia sobre los siervos de Dios. “He
 
-aqu, como los ojos de los siervos miran a la mano de sus seores, y como los
+aquí, como los ojos de los siervos miran a la mano de sus seńores, y como los
 
-ojos de la sierva a la mano de su seora, as nuestros ojos miran a Jehov
+ojos de la sierva a la mano de su seńora, así nuestros ojos miran a Jehová
 
-nuestro Dios. Amados, cmo viviran si Dios fuere visto mirndonos? l est
+nuestro Dios”. Amados, żcómo vivirían si Dios fuere visto mirándonos? ˇÉl está
 
-mirando! Vive as. Supn que en alguna accin de maana t fueras especialmente
+mirando! Vive así. Supón que en alguna acción de mańana tú fueras especialmente
 
-advertido: El Seor te observar cuidadosamente, el Omnisciente fijar todos
+advertido: “El Seńor te observará cuidadosamente, el Omnisciente fijará todos
 
-Sus pensamientos en ti, y detectar tus motivos y escanear tu espritu, as
+Sus pensamientos en ti, y detectará tus motivos y escaneará tu espíritu, así
 
-como pesar el acto mismo. Si tuvieras una revelacin as, cmo actuaras?
+como pesará el acto mismo”. Si tuvieras una revelación así, żcómo actuarías?
 
-As deberas actuar en todo momento, pues es verdad siempre. T eres Dios que
+Así deberías actuar en todo momento, pues es verdad siempre. “Tú eres Dios que
 
-ve es una exclamacin para cada momento del da y de la noche. Puedes poner
+ve” es una exclamación para cada momento del día y de la noche. żPuedes poner
 
-tu dedo sobre cualquier parte de la vida de Cristo y decir: l olvid que el
+tu dedo sobre cualquier parte de la vida de Cristo y decir: “Él olvidó que el
 
-Padre le contemplaba en este acto? No es la totalidad de la vida de Cristo un
+Padre le contemplaba en este acto”? żNo es la totalidad de la vida de Cristo un
 
-cuadro tal que Dios mismo mir cada lnea y tinte con infinita admiracin? No
+cuadro tal que Dios mismo miró cada línea y tinte con infinita admiración? żNo
 
-has atravesado t mismo la galera de la vida del Salvador, y haciendo una
+has atravesado tú mismo la galería de la vida del Salvador, y haciendo una
 
 pausa en cada cuadro y cada escena, has sido llenado de asombro y conducido a
 
-exclamar: l ha hecho bien todas las cosas? Cuando tu mente ha sido ms
+exclamar: “Él ha hecho bien todas las cosas”? Cuando tu mente ha sido más
 
-devota y ms santa, no has admirado ms que nunca cada pequeo rasgo del
+devota y más santa, żno has admirado más que nunca cada pequeńo rasgo del
 
-carcter de tu Salvador, cada caracterstica separada de cada accin de su
+carácter de tu Salvador, cada característica separada de cada acción de su
 
-vida, ya sea pblica o privada? El Padre estaba siempre con l, y l hizo
+vida, ya sea pública o privada? El Padre estaba siempre con Él, y Él hizo
 
-siempre lo que le complaca. Oh amados, quiera Dios que su obediencia fuera de
+siempre lo que le complacía. ˇOh amados, quiera Dios que su obediencia fuera de
 
-igual manera medida bajo la profunda conciencia de que el gran Dios est
+igual manera medida bajo la profunda conciencia de que el gran Dios está
 
-vigilndolos en todo lo que hacen! l te ha rodeado por detrs y por delante, y
+vigilándolos en todo lo que hacen! Él te ha rodeado por detrás y por delante, y
 
-ha puesto Su mano sobre ti. Si tomas las alas de la maana y vuelas a los
+ha puesto Su mano sobre ti. Si tomas las alas de la mańana y vuelas a los
 
-confines del mar, all est l; aun la oscuridad no se esconde de l. Todo lo
+confines del mar, allí está Él; aun la oscuridad no se esconde de Él. Todo lo
 
-que has hecho ha sido ejecutado en la presencia de tu Padre celestial; has
+que has hecho ha sido ejecutado en la presencia de tu Padre celestial; żhas
 
-sentido esto? Ah, cuando deshonraste al Seor Jess l mismo estaba mirando:
+sentido esto? Ah, cuando deshonraste al Seńor Jesús Él mismo estaba mirando:
 
 Aquel a quien pertenecen esas manos perforadas oyeron tus cobardes palabras y
 
-vieron tus actos traicioneros, y te contemplaron en sorprendida afliccin, Su
+vieron tus actos traicioneros, y te contemplaron en sorprendida aflicción, Su
 
-amigo, traicionndolo as. Cuando compartas con el mundo impo y eras uno de
+amigo, traicionándolo así. Cuando compartías con el mundo impío y eras uno de
 
-ellos, l estaba tambin all, y ahora te muestra Sus heridas, y lleno de pena
+ellos, Él estaba también allí, y ahora te muestra Sus heridas, y lleno de pena
 
-exclama: Estas son las heridas que recib en tu casa, en la casa de mi amigo.
+exclama: “Estas son las heridas que recibí en tu casa, en la casa de mi amigo”.
 
-Los golpes de los amigos golpean en un lugar delicado, sus heridas son las ms
+Los golpes de los amigos golpean en un lugar delicado, sus heridas son las más
 
 crueles que puedan recibirse, pues los enemigos perforan agudamente, pero los
 
-amigos apualan con dagas envenenadas. Cuando
+amigos apuńalan con dagas envenenadas. Cuando
 
 nosotros
 
 acarreamos deshonra sobre Aquel a quien profesamos amar,
 
-es deshonra en verdad. Oh, cunto quedara pendiente, y por otro lado cunto
+es deshonra en verdad. Oh, cuánto quedaría pendiente, y por otro lado cuánto
 
-ms de otro tipo de cosas sera ejecutado diligentemente, si verdaderamente
+más de otro tipo de cosas sería ejecutado diligentemente, si verdaderamente
 
-pusiramos al Seor siempre delante de nosotros.
+pusiéramos al Seńor siempre delante de nosotros.
 
-Sin embargo, todava no hemos
+Sin embargo, todavía no hemos
 
 expuesto completamente nuestro texto. Las palabras tienen que significar
 
-tambin que hemos de poner al Seor delante de nosotros
+también que hemos de poner al Seńor delante de nosotros
 
 como la fuente de la cual hemos de derivar solaz y consuelo en cada
 
 prueba.
 
-Jess poda decir: A Jehov he puesto siempre delante de m; pues
+Jesús podía decir: “A Jehová he puesto siempre delante de mí”; pues
 
 esto fue lo que hizo que sufriera pobreza y nunca se quejara; esto fue lo que
 
@@ -554,67 +554,67 @@ hizo que enfrentara injurias y esputos y sin embargo permaneciera callado con
 
 maravillosa paciencia, como oveja delante de sus trasquiladores. Nunca se
 
-escucha a nuestro Seo clamar hasta que el rostro de Su Padre es ocultado de
+escucha a nuestro Seńo clamar hasta que el rostro de Su Padre es ocultado de
 
-l; entonces en verdad clama, Dios mo, Dios mo, por qu me has
+Él; entonces en verdad clama, “Dios mío, Dios mío, żpor qué me has
 
-desamparado? Cuando, debido a Su posicin como nuestra fianza, Dios mismo
+desamparado?” Cuando, debido a Su posición como nuestra fianza, Dios mismo
 
-retir la manifestacin de Su favor, entonces Sus dolores eran amargos y Su
+retiró la manifestación de Su favor, entonces Sus dolores eran amargos y Su
 
-afliccin era desbordante, pero ni ustedes ni yo tendremos que soportar alguna
+aflicción era desbordante, pero ni ustedes ni yo tendremos que soportar alguna
 
-vez algo parecido. Dios le desampar para que no tuviera que desampararnos
+vez algo parecido. Dios le desamparó para que no tuviera que desampararnos
 
-jams. Encontrarn siempre al Seor cerca en el da del conflicto, y por tanto,
+jamás. Encontrarán siempre al Seńor cerca en el día del conflicto, y por tanto,
 
-si tienes alguna vez un Getseman, y la copa amarga no puede pasar de Ti
+si tienes alguna vez un Getsemaní, y la copa amarga no puede pasar de Ti
 
-excepto que la bebas, pondrs al Seor delante de Ti, y en esa presencia
+excepto que la bebas, pondrás al Seńor delante de Ti, y en esa presencia
 
-animante sers capaz de decir: Pero no sea como yo quiero, sino como t, y
+animante serás capaz de decir: “Pero no sea como yo quiero, sino como tú”, y
 
-bebes pacientemente hasta las heces tu copa asignada. Ests diciendo hoy:
+bebes pacientemente hasta las heces tu copa asignada. żEstás diciendo hoy:
 
-Cunto deseara tener ms de las comodidades de la vida, pero mis medios son
+“Cuánto desearía tener más de las comodidades de la vida, pero mis medios son
 
-tristemente escasos, y yo estoy muy enfermo y con un espritu decado? Tu
+tristemente escasos, y yo estoy muy enfermo y con un espíritu decaído”? Tu
 
-Salvador fue tentado en todos los puntos como lo eres t, pero l puso siempre
+Salvador fue tentado en todos los puntos como lo eres tú, pero Él puso siempre
 
-al Seor delante de l, y por tanto estaba contento y deca: Mi porcin es
+al Seńor delante de Él, y por tanto estaba contento y decía: “Mi porción es
 
-Jehov, dijo mi alma; por tanto, en l esperar. Las cuerdas me cayeron en
+Jehová, dijo mi alma; por tanto, en él esperaré. Las cuerdas me cayeron en
 
-lugares deleitosos, y es hermosa la heredad que me ha tocado. Deja que todo lo
+lugares deleitosos, y es hermosa la heredad que me ha tocado”. Deja que todo lo
 
-dems se vaya, hermano mo, pues si Dios est contigo, t todava sers
+demás se vaya, hermano mío, pues si Dios está contigo, tú todavía serás
 
-sustentado. Que los amigos mueran uno despus de otro, y que los consuelos
+sustentado. Que los amigos mueran uno después de otro, y que los consuelos
 
-terrenales se desvanezcan como hojas de otoo, pero si t pones al Seor
+terrenales se desvanezcan como hojas de otońo, pero si tú pones al Seńor
 
 siempre delante de ti hay tal plenitud de gozo en cada atributo de Dios, hay un
 
-cielo tal en cada visin del rostro de Jess, hay tal bienaventuranza
+cielo tal en cada visión del rostro de Jesús, hay tal bienaventuranza
 
-sobrecogedora en cada gota del amor eterno de Jehov, que no fallars ni te
+sobrecogedora en cada gota del amor eterno de Jehová, que no fallarás ni te
 
-vers desanimado, sino que cantars Sus alabanzas en los fuegos ms fieros. A
+verás desanimado, sino que cantarás Sus alabanzas en los fuegos más fieros. A
 
-ti te dir: No temas, porque yo estoy contigo; no desmayes, porque yo soy tu
+ti te dirá: “No temas, porque yo estoy contigo; no desmayes, porque yo soy tu
 
-Dios que te esfuerzo. Cuando pases por las aguas, yo estar contigo; y si por
+Dios que te esfuerzo. Cuando pases por las aguas, yo estaré contigo; y si por
 
-los ros, no te anegarn. Cuando pases por el fuego, no te quemar, ni la llama
+los ríos, no te anegarán. Cuando pases por el fuego, no te quemará, ni la llama
 
-arder en ti. La presencia de Dios hace que aun la muerte sea deleitable,
+arderá en ti”. La presencia de Dios hace que aun la muerte sea deleitable,
 
-Aunque ande en valle de sombra de muerte, no temer mal alguno, porque t
+“Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú
 
-estars conmigo. As ven ustedes que poner al Seor siempre delante de
+estarás conmigo”. Así ven ustedes que poner al Seńor siempre delante de
 
-nosotros nos garantiza un suministro de una consolacin incesante.
+nosotros nos garantiza un suministro de una consolación incesante.
 
 Sin embargo, adicionalmente,
 
@@ -622,149 +622,149 @@ estas palabras significan que
 
 hemos de
 
-sostener perpetua comunin con Dios.
+sostener perpetua comunión con Dios.
 
-Cuando Jess dijo:
+Cuando Jesús dijo:
 
-A Jehov he puesto siempre delante de m, quera decir que l
+“A Jehová he puesto siempre delante de mí”, quería decir que Él
 
-estaba siempre en comunin con el Padre. Muy frecuentemente la comunin era
+estaba siempre en comunión con el Padre. Muy frecuentemente la comunión era
 
-practicada en la oracin, pues nuestro Seor, aunque es descrito como orando
+practicada en la oración, pues nuestro Seńor, aunque es descrito como orando
 
-mucho, sin duda oraba infinitamente ms de lo que cualquier evangelista haya
+mucho, sin duda oraba infinitamente más de lo que cualquier evangelista haya
 
-registrado, pues l estaba orando cuando nadie ms lo saba sino l mismo y Su
+registrado, pues Él estaba orando cuando nadie más lo sabía sino Él mismo y Su
 
-Dios, cuando incluso Sus labios no se movan. Su oracin pblica, o la oracin
+Dios, cuando incluso Sus labios no se movían. Su oración pública, o la oración
 
-que poda ser observada por otros, eran hechas manifiestas por causa de
+que podía ser observada por otros, eran hechas manifiestas por causa de
 
-nosotros que estbamos con l, pero era slo un brote en la superficie de la
+nosotros que estábamos con Él, pero era sólo un brote en la superficie de la
 
-grandiosa roca de oracin que puso el cimiento de Su vida santa. Muy bien dijo
+grandiosa roca de oración que puso el cimiento de Su vida santa. Muy bien dijo
 
-l, cuando estaba junto a la tumba de Lzaro: Yo saba que siempre me oyes;
+Él, cuando estaba junto a la tumba de Lázaro: “Yo sabía que siempre me oyes;
 
-pero lo dije por causa de la multitud que est alrededor. l estaba siempre en
+pero lo dije por causa de la multitud que está alrededor”. Él estaba siempre en
 
-conversacin con el Padre, que en verdad era el nico sobre quien poda apoyarse.
+conversación con el Padre, que en verdad era el único sobre quien podía apoyarse.
 
-Qu consuelo poda recibir de Pedro y Santiago y Juan? l era como un padre
+żQué consuelo podía recibir de Pedro y Santiago y Juan? Él era como un padre
 
-con un nmero de hijitos alrededor suyo, que ni siquiera podan entender los
+con un número de hijitos alrededor suyo, que ni siquiera podían entender los
 
-problemas de su padre, mucho menos sustentarlo bajo su peso. Como nuestro Seor
+problemas de su padre, mucho menos sustentarlo bajo su peso. Como nuestro Seńor
 
-estaba siempre en sagrada comunin con Dios, tena una gran afliccin al
+estaba siempre en sagrada comunión con Dios, tenía una gran aflicción al
 
-contemplar el pecado de la humanidad, sabiendo como saba cun odioso era para
+contemplar el pecado de la humanidad, sabiendo como sabía cuán odioso era para
 
-Dios. l lamentara delante de Su Padre el pecado del pueblo, y continuara
+Dios. Él lamentaría delante de Su Padre el pecado del pueblo, y continuaría
 
-intercediendo todava, orando toda Su vida como or al final, Padre,
+intercediendo todavía, orando toda Su vida como oró al final, “Padre,
 
-perdnalos porque no saben lo que hacen. As l estaba en todo momento en la
+perdónalos porque no saben lo que hacen”. Así Él estaba en todo momento en la
 
-ms profunda sintona con el Dios de amor.
+más profunda sintonía con el Dios de amor.
 
 Yo no dudo de que
 
-nuestro Seor hablara a menudo con el Padre en la forma de alabanza, pues si
+nuestro Seńor hablara a menudo con el Padre en la forma de alabanza, pues si
 
-bien en una ocasin nicamente est registrado que se regocij, con todo, sin
+bien en una ocasión únicamente está registrado que se regocijó, con todo, sin
 
-duda siempre se regocijaba en Dios. Cmo poda hacerlo de otra manera Su
+duda siempre se regocijaba en Dios. żCómo podía hacerlo de otra manera Su
 
-naturaleza que regocijndose en el Seor? Todo Su corazn y alma y mente
+naturaleza que regocijándose en el Seńor? Todo Su corazón y alma y mente
 
 estaban alineados con la mente de Dios. Por supuesto que ahora estoy hablando
 
-de l como hombre, y como hombre Su corazn estaba en perfecta armona con el
+de Él como hombre, y como hombre Su corazón estaba en perfecta armonía con el
 
-corazn de Dios, no haba en l nada contrario a la voluntad y al designio del
+corazón de Dios, no había en Él nada contrario a la voluntad y al designio del
 
 Padre, pero Su naturaleza humana entera fue llevada en un curso paralelo con la
 
-mente del Altsimo, y por esto es que siempre tena paz.
+mente del Altísimo, y por esto es que siempre tenía paz.
 
 Oh, hermanos y hermanas,
 
-que Dios nos conceda gracia para tener comunin constantemente con l. La
+que Dios nos conceda gracia para tener comunión constantemente con Él. La
 
-oracin no deba ser un asunto de las maanas y de las noches solamente, sino
+oración no debía ser un asunto de las mańanas y de las noches solamente, sino
 
-que todo el da nuestro espritu debera tener comunin con Dios. Padre, T
+que todo el día nuestro espíritu debería tener comunión con Dios. Padre, Tú
 
-ests tan cerca de nosotros, y sin embargo, cun lentos somos para hablarte.
+estás tan cerca de nosotros, y sin embargo, cuán lentos somos para hablarte.
 
-Ensanos a nosotros, Tus hijos, a estar hablando siempre contigo, de manera
+Enséńanos a nosotros, Tus hijos, a estar hablando siempre contigo, de manera
 
-que mientras caminamos en la tierra nuestra conversacin pueda ser en el cielo.
+que mientras caminamos en la tierra nuestra conversación pueda ser en el cielo.
 
-Que el Seor nos conceda tener un santo intercambio con el cielo, oyendo lo que
+Que el Seńor nos conceda tener un santo intercambio con el cielo, oyendo lo que
 
-Dios el Seor dir y hablndole en respuesta. A nosotros nos corresponde or
+Dios el Seńor dirá y hablándole en respuesta. A nosotros nos corresponde oír
 
 las palabras del libro inspirado, y considerar las moniciones del clemente
 
-Espritu, y luego que nuestro espritu a su vez hable con Dios, y le d a
+Espíritu, y luego que nuestro espíritu a su vez hable con Dios, y le dé a
 
-conocer sus peticiones. Yo espero que estn alcanzando esto por la uncin
+conocer sus peticiones. Yo espero que estén alcanzando esto por la unción
 
-divina del Espritu Santo. Pues este es el grandioso secreto, el seguro
+divina del Espíritu Santo. Pues este es el grandioso secreto, el seguro
 
-cimiento de una vida feliz. La perpetua comunin con Dios es el estado ms
+cimiento de una vida feliz. La perpetua comunión con Dios es el estado más
 
 excelso de gozo que puede ser conocido en la tierra. Aprendan a decir
 
-verdaderamente: A Jehov he puesto delante de m, y tienen el secreto del
+verdaderamente: “A Jehová he puesto delante de mí”, y tienen el secreto del
 
-Seor.
+Seńor.
 
-Algo ms sobre este
+Algo más sobre este
 
 punto, queridos amigos. Si hemos de ser felices,
 
-tenemos que seguir esta vida de cercana con Dios debido a nuestro
+tenemos que seguir esta vida de cercanía con Dios debido a nuestro
 
 deleite en ella, y por el gozo que sentimos en ella.
 
 En verdad, una vida
 
-as no puede ser vivida de ninguna otra manera. El mero deber y la ley no
+así no puede ser vivida de ninguna otra manera. El mero deber y la ley no
 
-pueden operar aqu. Si alguno dijera: Qu terrible asunto ha de ser esta
+pueden operar aquí. Si alguno dijera: “ˇQué terrible asunto ha de ser esta
 
-comunin con Dios!
+comunión con Dios!
 
-Cun aburrido ha
+ˇCuán aburrido ha
 
-de ser este caminar continuo con Dios! Entonces yo replico: tu pltica te
+de ser este caminar continuo con Dios!” Entonces yo replico: tu plática te
 
-delata, no captas las primeras cosas esenciales de una vida as, ni tampoco
+delata, no captas las primeras cosas esenciales de una vida así, ni tampoco
 
 puedes siquiera adivinar lo que significa. En verdad, yo no te estoy hablando
 
-del todo, sera intil imponer un tema as en ti. Excsame, t no sabes nada de
+del todo, sería inútil imponer un tema así en ti. Excúsame, tú no sabes nada de
 
 la vida espiritual, nada de lo que es ser un hijo de Dios, o de lo contrario no
 
-despreciaras la comunin. Tienes que nacer de nuevo, y mientras no nazcas de
+despreciarías la comunión. Tienes que nacer de nuevo, y mientras no nazcas de
 
 nuevo tales exhortaciones como las que estoy dando no se aplican a ti del todo.
 
-Algn mero profesante pregunta burlonamente: Qu, hemos de vivir siempre para
+Algún mero profesante pregunta burlonamente: “żQué, hemos de vivir siempre para
 
-la gloria de Dios, y no hemos de hacer nada que no le d la gloria? Esto es
+la gloria de Dios, y no hemos de hacer nada que no le dé la gloria? Esto es
 
 establecer reglas muy estrictas, y hacer que el camino al cielo sea muy angosto
 
-en verdad. As lo crees, amigo? Entonces te dir claramente mi solemne
+en verdad”. żAsí lo crees, amigo? Entonces te diré claramente mi solemne
 
-sospecha acerca de ti: yo estoy persuadido de que no conoces al Seor, pues si
+sospecha acerca de ti: yo estoy persuadido de que no conoces al Seńor, pues si
 
-le conocieras, el camino de la santidad sera tu deleite, y no pediras
+le conocieras, el camino de la santidad sería tu deleite, y no pedirías
 
 licencia para pecar. Yo puedo entender que caigas en pecado, pero no puedo
 
@@ -776,31 +776,31 @@ cerdos; y si encuentras que son un buen alimento para tu alma entonces
 
 seguramente no eres Suyo: los cerdos pueden estar satisfechos con la comida de
 
-los cerdos, pues la providencia la destin para ellos, pero el hijo de Dios,
+los cerdos, pues la providencia la destinó para ellos, pero el hijo de Dios,
 
-aun cuando es un prdigo, no puede estar satisfecho as; de buena gana llenara
+aun cuando es un pródigo, no puede estar satisfecho así; de buena gana llenaría
 
-su vientre con las algarrobas, pero es imposible que est satisfecho de esa
+su vientre con las algarrobas, pero es imposible que esté satisfecho de esa
 
-manera. Yo estoy seguro que si eres del Seor considerars vivir cerca de Dios
+manera. Yo estoy seguro que si eres del Seńor considerarás vivir cerca de Dios
 
-y deleitarte en l, no como una severa tarea, o como un aburrimiento, sino un
+y deleitarte en Él, no como una severa tarea, o como un aburrimiento, sino un
 
-lujo y un privilegio deleitable por el que tu alma tiene hambre y sed. Dirs
+lujo y un privilegio deleitable por el que tu alma tiene hambre y sed. Dirás
 
-con David: Mi alma tiene sed de Dios, del Dios vivo; cundo vendr, y me
+con David: “Mi alma tiene sed de Dios, del Dios vivo; żcuándo vendré, y me
 
-presentar delante de Dios? Para ti el lugar ms selecto es el que est ms
+presentaré delante de Dios?” Para ti el lugar más selecto es el que está más
 
-cerca de tu Seor, aunque pudiera estar en el polvo del desprecio, o en el
+cerca de tu Seńor, aunque pudiera estar en el polvo del desprecio, o en el
 
-horno de la afliccin. Es tu ambicin ser subyugado por el Seor Jess para S
+horno de la aflicción. Es tu ambición ser subyugado por el Seńor Jesús para Sí
 
 de manera sumamente completa, y luego ser a partir de ahora el lugar de Su
 
 morada, el instrumento para Su uso, y lo mejor de todo, el objeto de Su amor.
 
-Yo quisiera morar en la casa del Seor para siempre, como un hijo en su casa,
+Yo quisiera morar en la casa del Seńor para siempre, como un hijo en su casa,
 
 considerando el mundo presente como un piso inferior de esa casa, y el cielo en
 
@@ -808,99 +808,99 @@ lo alto como el piso superior de la misma residencia. La presencia de Dios es
 
 nuestra bienaventuranza.
 
-Ahora, hay algo
+Ahora, żhay algo
 
-respecto a la vida de nuestro Seor que pareciera estar bajo libertad limitada,
+respecto a la vida de nuestro Seńor que pareciera estar bajo libertad limitada,
 
-o siendo compelido a actuar de otra manera de como lo habra deseado? Puedes
+o siendo compelido a actuar de otra manera de como lo habría deseado? żPuedes
 
-sospechar en toda Su carrera de que en algn momento actu en contra de Su
+sospechar en toda Su carrera de que en algún momento actuó en contra de Su
 
-inclinacin? Fue su vida constreida y artificial? Caminaba como un hombre
+inclinación? żFue su vida constreńida y artificial? żCaminaba como un hombre
 
-encadenado? Viva como uno presionado a entrar en el ejrcito de los justos,
+encadenado? żVivía como uno presionado a entrar en el ejército de los justos,
 
-como alguien al que se le negaban placeres que habran sido su eleccin, y como
+como alguien al que se le negaban placeres que habrían sido su elección, y como
 
-uno forzado a formas de piedad que eran desagradables para l? Para nada.
+uno forzado a formas de piedad que eran desagradables para Él? Para nada.
 
-Cristo es un hombre libre, viviendo desde Su yo ms ntimo, siguiendo los
+Cristo es un hombre libre, viviendo desde Su yo más íntimo, siguiendo los
 
-mejores deseos de Su corazn. Pueden ver que dondequiera que est acta de
+mejores deseos de Su corazón. Pueden ver que dondequiera que está actúa de
 
 acuerdo con Su naturaleza, y es tan libre en lo que hace como los peces son
 
 libres en el mar, o las aves en el aire. Ahora, tal es el cristiano en este
 
-asunto de poner al Seor siempre delante de l. l acta no por constriccin
+asunto de poner al Seńor siempre delante de Él. Él actúa no por constricción
 
-sino voluntariamente, pues el Seor le ha dado una naturaleza que se deleita en
+sino voluntariamente, pues el Seńor le ha dado una naturaleza que se deleita en
 
-eso en que Dios se deleita. No dice: Ay de m, estoy enjaulado como un pjaro;
+eso en que Dios se deleita. No dice: “Ay de mí, estoy enjaulado como un pájaro;
 
-mi vida es tan precisa y puritana que estoy cansado de ella. No, -dice l-
+mi vida es tan precisa y puritana que estoy cansado de ella”. “No”, -dice él-
 
-si yo tuviera estos gozos mundanos, y pudiera entregarme a ellos, no hay nada
+“si yo tuviera estos gozos mundanos, y pudiera entregarme a ellos, no hay nada
 
-en ellos que me agrade. Vanidad de vanidades, todo es vanidad. Otros estn
+en ellos que me agrade. Vanidad de vanidades, todo es vanidad”. Otros están
 
-diciendo: Quin nos mostrar el bien? Pero mi nica peticin es: Alza sobre
+diciendo: ‘żQuién nos mostrará el bien?’ Pero mi única petición es: ‘Alza sobre
 
-nosotros, oh Jehov, la luz de tu rostro. Dice: Que otros hagan como les
+nosotros, oh Jehová, la luz de tu rostro”. Dice: “Que otros hagan como les
 
-plazca, pero yo y mi casa serviremos a Jehov. El cristiano nunca es tan libre
+plazca, pero yo y mi casa serviremos a Jehová”. El cristiano nunca es tan libre
 
-como cuando ms est bajo la ley de Cristo, nunca es tanto l mismo como cuando
+como cuando más está bajo la ley de Cristo, nunca es tanto él mismo como cuando
 
-se niega a s mismo, y nunca est tan deleitado como cuando se deleita en el
+se niega a sí mismo, y nunca está tan deleitado como cuando se deleita en el
 
-Seor, y vive slo para la gloria de Dios. Ahora, si ese fuera el caso contigo,
+Seńor, y vive sólo para la gloria de Dios. Ahora, si ese fuera el caso contigo,
 
 amado hermano, has aprendido el secreto del gozo.
 
-El texto puede ser ledo
+El texto puede ser leído
 
-as en el hebreo: A Jehov he puesto
+así en el hebreo: “A Jehová he puesto
 
 igualmente
 
-delante de m, esto es, igualmente: en todo momento. l habla de las
+delante de mí”, esto es, igualmente: en todo momento. Él habla de las
 
-solitarias vigilias de la noche, y luego su corazn le instruy, pues estaba
+solitarias vigilias de la noche, y luego su corazón le instruyó, pues estaba
 
-con Dios. En la maana exclama: Despierto, y an estoy contigo. Hemos de
+con Dios. En la mańana exclama: “Despierto, y aún estoy contigo”. Hemos de
 
-tener al Seor igualmente delante de nosotros bajo todas las circunstancias: en
+tener al Seńor igualmente delante de nosotros bajo todas las circunstancias: en
 
-nuestras actividades comerciales as como en las reuniones de oracin y en la
+nuestras actividades comerciales así como en las reuniones de oración y en la
 
-escucha de sermones; en pocas de recreacin as como en horas de devocin, en
+escucha de sermones; en épocas de recreación así como en horas de devoción, en
 
-el da de salud as como en la hora de la muerte. Si rompes la cadena de
+el día de salud así como en la hora de la muerte. Si rompes la cadena de
 
-comunin yendo donde no puedes esperar tener la presencia del Seor, o hacer lo
+comunión yendo donde no puedes esperar tener la presencia del Seńor, o hacer lo
 
-que el Seor no puede sancionar, el vnculo roto puede ser restaurado, pero
+que el Seńor no puede sancionar, el vínculo roto puede ser restaurado, pero
 
-siempre mostrar los remaches. Pudieras perder tu rollo como Cristiano en el
+siempre mostrará los remaches. Pudieras perder tu rollo como Cristiano en el
 
-rbol, y puedes regresar y encontrarlo, pero es muy duro regresar al mismo
+árbol, y puedes regresar y encontrarlo, pero es muy duro regresar al mismo
 
-terreno, y despus de regresar es difcil retomar la senda que prosigue. La
+terreno, y después de regresar es difícil retomar la senda que prosigue. La
 
-parte ms dura del camino al cielo es la que tiene que ser atravesada tres
+parte más dura del camino al cielo es la que tiene que ser atravesada tres
 
 veces: una vez cuando la recorres al principio, una segunda vez cuando tienes
 
 que regresar con llanto para encontrar tus evidencias perdidas, y luego de
 
-nuevo cuando tienes que compensar el tiempo perdido. La rebelin causa
+nuevo cuando tienes que compensar el tiempo perdido. La rebelión causa
 
-infelicidad, pero permanecer con Dios crea paz como un ro que sigue fluyendo
+infelicidad, pero permanecer con Dios crea paz como un río que sigue fluyendo
 
-en un torrente largamente continuado. Queridos amigos, he aqu el mtodo de una
+en un torrente largamente continuado. Queridos amigos, he aquí el método de una
 
-vida bienaventurada: prubalo y el resultado es seguro.
+vida bienaventurada: pruébalo y el resultado es seguro.
 
 II.
 
@@ -914,89 +914,89 @@ LA PRESENCIA
 
 DEL
 
-SEOR. Aqu hay
+SEŃOR. Aquí hay
 
-confianza en Dios: Porque est a mi diestra, no ser conmovido. Aqu hay
+confianza en Dios: “Porque está a mi diestra, no seré conmovido”. Aquí hay
 
-confianza de que Dios est cerca de nosotros; confianza de que Dios nos ama,
+confianza de que Dios está cerca de nosotros; confianza de que Dios nos ama,
 
-pues no slo est cerca de nosotros, sino que est en el lugar de una amigable
+pues no sólo está cerca de nosotros, sino que está en el lugar de una amigable
 
-comunin; y confianza de que Dios nos ayudar prcticamente, pues la diestra es
+comunión; y confianza de que Dios nos ayudará prácticamente, pues la diestra es
 
-la mano de la destreza, la mano que hace el trabajo, y as Dios est cercano a
+la mano de la destreza, la mano que hace el trabajo, y así Dios está cercano a
 
-Su pueblo con ayuda prctica, para sostenernos y liberarnos. Cun bendito tiene
+Su pueblo con ayuda práctica, para sostenernos y liberarnos. Cuán bendito tiene
 
 que ser sentir que no tenemos nada a lo cual tenerle miedo en todo el mundo,
 
-pues Dios est a nuestra diestra para cuidarnos sin importar lo que pase.
+pues Dios está a nuestra diestra para cuidarnos sin importar lo que pase.
 
 David dice, y Cristo
 
-dice por medio de David: No ser conmovido, esto es, primero, no
+dice por medio de David: “No seré conmovido”, esto es, primero, no
 
-ser conmovido con ningn remordimiento o
+seré conmovido con ningún remordimiento o
 
-lamentacin en cuanto al pasado.
+lamentación en cuanto al pasado.
 
-Ah, hermanos, si hemos puesto al Seor
+Ah, hermanos, si hemos puesto al Seńor
 
 siempre delante de nosotros, podemos sentarnos y meditar sobre nuestro curso de
 
-accin, y tiene mucho sobre lo cual reflexionar. El hombre que sabe que ha
+acción, y tiene mucho sobre lo cual reflexionar. El hombre que sabe que ha
 
-vivido como a los ojos de Dios no tendr que desear no haber nacido nunca: por
+vivido como a los ojos de Dios no tendrá que desear no haber nacido nunca: por
 
-el contrario, bendecir al Seor en todo momento por todo lo que le sucede.
+el contrario, bendecirá al Seńor en todo momento por todo lo que le sucede.
 
-Cristo tena muchas aflicciones, pero nada de qu arrepentirse. Qu vida fue
+Cristo tenía muchas aflicciones, pero nada de qué arrepentirse. ˇQué vida fue
 
-la suya! Nunca tuvo que volver la mirada sobre ningn acto y arrepentirse de
+la suya! Nunca tuvo que volver la mirada sobre ningún acto y arrepentirse de
 
-l. Todo lo haca con Dios delante de l, y no era conmovido. Una dama le dijo
+él. Todo lo hacía con Dios delante de Él, y no era conmovido. Una dama le dijo
 
-una vez a un ministro que ella estaba asistiendo al teatro, y le coment: Hay
+una vez a un ministro que ella estaba asistiendo al teatro, y le comentó: “Hay
 
-tantos placeres conectados con ver una obra de teatro; est el placer de la
+tantos placeres conectados con ver una obra de teatro; está el placer de la
 
-anticipacin antes de ir, est el placer de disfrutarlo cuando ests all, y
+anticipación antes de ir, está el placer de disfrutarlo cuando estás allí, y
 
-est el tercer placer de reflexionar al respecto posteriormente. El buen
+está el tercer placer de reflexionar al respecto posteriormente”. El buen
 
-hombre replic: Ah, seora, hay otro placer que no ha mencionado, y es el
+hombre replicó: “Ah, seńora, hay otro placer que no ha mencionado, y es el
 
-consuelo que le proporcionar en su lecho de muerte. La irona era bien
+consuelo que le proporcionará en su lecho de muerte”. La ironía era bien
 
-merecida. Puedo mencionar esto como siendo la mayor recomendacin de poner al
+merecida. Puedo mencionar esto como siendo la mayor recomendación de poner al
 
-Seor delante de ti, que da para reflexionar y producir consuelo en medio de la
+Seńor delante de ti, que da para reflexionar y producir consuelo en medio de la
 
 enfermedad y la muerte. Si por gracia divina eres capaz de vivir una vida de
 
-comunin inquebrantada con Dios, constantemente teniendo un ojo en Su
+comunión inquebrantada con Dios, constantemente teniendo un ojo en Su
 
-presencia, no tendrs que lamentar por una vida malgastada. Tu mirada
+presencia, no tendrás que lamentar por una vida malgastada. Tu mirada
 
-retrospectiva estar llena de placer: en cuanto al pecado, ya est cubierto por
+retrospectiva estará llena de placer: en cuanto al pecado, ya está cubierto por
 
-la sangre de Cristo, y adems de eso habras sido guardado de mil trampas al
+la sangre de Cristo, y además de eso habrías sido guardado de mil trampas al
 
-tener el temor de Dios siempre delante de tus ojos; y as al revisar el pasado
+tener el temor de Dios siempre delante de tus ojos; y así al revisar el pasado
 
-no sers conmovido por un amargo remordimiento. Podramos tener que lamentar en
+no serás conmovido por un amargo remordimiento. Podríamos tener que lamentar en
 
 el futuro muchas cosas que hacemos ahora aunque pensamos que estamos actuando
 
-muy sabiamente y bien, pero si el Seor est siempre delante de nosotros,
+muy sabiamente y bien, pero si el Seńor está siempre delante de nosotros,
 
-nuestros pasos estarn establecidos, porque son ordenados por el Seor. Aun si
+nuestros pasos estarán establecidos, porque son ordenados por el Seńor. Aun si
 
-cometes un error en cuanto a la poltica, sers consolado por el conocimiento
+cometes un error en cuanto a la política, serás consolado por el conocimiento
 
-que fue una falla de tu juicio, y no de tu corazn, si en verdad deseabas
+que fue una falla de tu juicio, y no de tu corazón, si en verdad deseabas
 
-solamente servir al Seor.
+solamente servir al Seńor.
 
 Amados, es bueno que
 
@@ -1004,253 +1004,253 @@ vivamos cerca de Dios, para que no seamos
 
 conmovidos
 
-en nuestra consistencia en el camino de la verdadera religin.
+en nuestra consistencia en el camino de la verdadera religión.
 
 Hay muchos
 
-profesantes cuyas vidas son espasmdicas; estn caminando con Dios segn una manera
+profesantes cuyas vidas son espasmódicas; están caminando con Dios según una manera
 
-hoy, pero pronto se desvan a sendas torcidas; entonces comienzan de nuevo,
+hoy, pero pronto se desvían a sendas torcidas; entonces comienzan de nuevo,
 
-pero ms bien pronto comienzan a apartarse como a otra senda torcida; como
+pero más bien pronto comienzan a apartarse como a otra senda torcida; como
 
-Rubn, impetuoso como las aguas, no sers el principal. En la vida de nuestro
+Rubén, impetuoso como las aguas, no serás el principal. En la vida de nuestro
 
-Seor no hay interrupcin, es una armona continua. Las unidades son observadas
+Seńor no hay interrupción, es una armonía continua. Las unidades son observadas
 
-en Su grandiosa carrera, es como su tnica, la cual era sin costura, de un solo
+en Su grandiosa carrera, es como su túnica, la cual era sin costura, de un solo
 
-tejido de arriba abajo. Ahora, hermano, si pones siempre al Seor delante de
+tejido de arriba abajo. Ahora, hermano, si pones siempre al Seńor delante de
 
-ti, no sers conmovido, sino que tu senda ser como la del sol en los cielos,
+ti, no serás conmovido, sino que tu senda será como la del sol en los cielos,
 
-subiendo desde el amanecer hasta el medioda.
+subiendo desde el amanecer hasta el mediodía.
 
-Poner al Seor delante
+Poner al Seńor delante
 
-de nosotros impide que seamos movidos por el terror. Se dice del creyente: No
+de nosotros impide que seamos movidos por el terror. Se dice del creyente: “No
 
-tendr temor de malas noticias; su corazn est firme, confiado en Jehov. El
+tendrá temor de malas noticias; su corazón está firme, confiado en Jehová”. El
 
-creyente no es movido por un miedo tambaleante. Un gran problema est por
+creyente no es movido por un miedo tambaleante. Un gran problema está por
 
-ocurrirle, pero ha puesto al Seor delante de l, y no es abatido. Si como
+ocurrirle, pero ha puesto al Seńor delante de él, y no es abatido. Si como
 
-Jess mismo es influenciado momentneamente por una gran afliccin, con todo,
+Jesús mismo es influenciado momentáneamente por una gran aflicción, con todo,
 
-dice: En el da que temo, yo en ti confo, y cuando ora es escuchado en lo
+dice: “En el día que temo, yo en ti confío”, y cuando ora es escuchado en lo
 
-que tema.
+que temía.
 
-Un hombre as no
+Un hombre así no
 
-es conmovido por la tentacin como para ser
+es conmovido por la tentación como para ser
 
 arrastrado a un pecado sorpresivo.
 
-Si siempre pongo al Seor delante de m
+Si siempre pongo al Seńor delante de mí
 
-no ser arrastrado por una sbita tentacin. Es cuando tienes baja la guardia
+no seré arrastrado por una súbita tentación. Es cuando tienes baja la guardia
 
 que viene el pecado, y caes. Hablas desaconsejablemente, te llenas de ira,
 
 haces tristes estragos en tu vida cristiana, y todo porque tu ojo no estaba
 
-enfocado en el Seor. Si hubieras sabido que la tribulacin vena en camino,
+enfocado en el Seńor. Si hubieras sabido que la tribulación venía en camino,
 
-habras estado protegido contra ella; y si hubieras puesto al Seor siempre
+habrías estado protegido contra ella; y si hubieras puesto al Seńor siempre
 
-delante de ti, habras estado preparado para el mundo, la carne, y el demonio,
+delante de ti, habrías estado preparado para el mundo, la carne, y el demonio,
 
-y habras sido escudado de cada dardo de fuego del maligno. Moremos en Dios, y
+y habrías sido escudado de cada dardo de fuego del maligno. Moremos en Dios, y
 
-l ser una pared de fuego en torno nuestro. l nos guardar cada momento, para
+Él será una pared de fuego en torno nuestro. Él nos guardará cada momento, para
 
-que nadie nos haga dao: l nos guardar noche y da.
+que nadie nos haga dańo: Él nos guardará noche y día.
 
-As no sers
+Así no serás
 
 conmovido como para fallar al final.
 
 Todos
 
-tienen que haber sentido el miedo no sea que despus de todo al final de la
+tienen que haber sentido el miedo no sea que después de todo al final de la
 
-vida resultara que no eres salvo. No han sentido miedo de haberse engaado a
+vida resultara que no eres salvo. żNo han sentido miedo de haberse engańado a
 
-ustedes mismos, y que no fueran convertidos cuando pensaban que lo eran? Qu
+ustedes mismos, y que no fueran convertidos cuando pensaban que lo eran? żQué
 
-pasara si resultara ser as? Qu hars cuando la burbuja de la falsa
+pasaría si resultara ser así? żQué harás cuando la burbuja de la falsa
 
-esperanza se rompa? Ah, pero si pones al Seor siempre delante de ti, no sers
+esperanza se rompa? Ah, pero si pones al Seńor siempre delante de ti, no serás
 
-conmovido por ese miedo, pues sabrs que tu Redentor vive; tendrs tal conciencia
+conmovido por ese miedo, pues sabrás que tu Redentor vive; tendrás tal conciencia
 
-de la presencia divina que entregars a Dios tu espritu que parte como a un
+de la presencia divina que entregarás a Dios tu espíritu que parte como a un
 
-fiel Creador. No tendrs miedo de morir, pues como dijo Jess: Mi carne
+fiel Creador. No tendrás miedo de morir, pues como dijo Jesús: “Mi carne
 
-tambin reposar confiadamente; porque no dejars mi alma en el Seol, ni
+también reposará confiadamente; porque no dejarás mi alma en el Seol, ni
 
-permitirs que tu santo vea corrupcin, as que dirs: Mi carne tambin
+permitirás que tu santo vea corrupción”, así que dirás: “Mi carne también
 
-reposar confiadamente porque no dejars mi alma en el infierno, y aunque veo
+reposará confiadamente porque no dejarás mi alma en el infierno, y aunque veo
 
-corrupcin en cuanto a mi cuerpo, con todo resucitar en incorrupcin a
+corrupción en cuanto a mi cuerpo, con todo resucitaré en incorrupción a
 
-semejanza de mi Seor, pues yo s que mi redentor vive, y aunque los gusanos de
+semejanza de mi Seńor, pues yo sé que mi redentor vive, y aunque los gusanos de
 
-la piel destruyan este cuerpo, en mi carne ver a Dios, a quien contemplar por
+la piel destruyan este cuerpo, en mi carne veré a Dios, a quien contemplaré por
 
-m mismo, y no otro. Oh, el gozo de permanecer as en Dios y confiando en Su
+mí mismo, y no otro”. Oh, el gozo de permanecer así en Dios y confiando en Su
 
-poder presente, teniendo al Seor a tu diestra y luego permaneciendo en la
+poder presente, teniendo al Seńor a tu diestra y luego permaneciendo en la
 
 apacible seguridad de que no puedes ser conmovido.
 
-Slo cuatro cosas y
+Sólo cuatro cosas y
 
-habr concluido. Primero, para aquellos de ustedes que son infelices. Algunos
+habré concluido. Primero, para aquellos de ustedes que son infelices. Algunos
 
 de ustedes no forman parte del pueblo cristiano, sino que son completamente del
 
 mundo. No eres feliz, y sin embargo, me atrevo a decir que tienes una gran
 
-cantidad de cosas para hacerte feliz. Ests colocado en apacibles circunstancias,
+cantidad de cosas para hacerte feliz. Estás colocado en apacibles circunstancias,
 
-donde puedes disfrutar todo cuanto quieras. La cosa ms triste en el mundo para
+donde puedes disfrutar todo cuanto quieras. La cosa más triste en el mundo para
 
-disfrutar eres t mismo. Yo puedo disfrutar a otras personas mejor de lo que me
+disfrutar eres tú mismo. Yo puedo disfrutar a otras personas mejor de lo que me
 
-disfruto a m mismo: disfrutarte a ti mismo necesita un apetito muy depravado,
+disfruto a mí mismo: disfrutarte a ti mismo necesita un apetito muy depravado,
 
-pues el egosmo es srdido, y, como la serpiente, tiene asignado el polvo como
+pues el egoísmo es sórdido, y, como la serpiente, tiene asignado el polvo como
 
-su alimento. Si piensan que encontrarn placer en la mundanalidad, quisiera que
+su alimento. Si piensan que encontrarán placer en la mundanalidad, quisiera que
 
-recordaran a uno que prob ese mtodo muy exhaustivamente, me refiero a Salomn,
+recordaran a uno que probó ese método muy exhaustivamente, me refiero a Salomón,
 
-en la antigedad, que tena toda la riqueza que un corazn pudiera desear, y
+en la antigüedad, que tenía toda la riqueza que un corazón pudiera desear, y
 
-toda la sabidura que un cerebro pudiera contener, y sin embargo, era a la vez pobre
+toda la sabiduría que un cerebro pudiera contener, y sin embargo, era a la vez pobre
 
-y necio. l explor el mundo de arriba abajo en busca de gozo, pero no lo
+y necio. Él exploró el mundo de arriba abajo en busca de gozo, pero no lo
 
-encontr. En una poca entreg todos sus pensamientos a la arquitectura, y
+encontró. En una época entregó todos sus pensamientos a la arquitectura, y
 
-construy esplndidos palacios, y despus de haberlos edificado dijo: Vanidad
+construyó espléndidos palacios, y después de haberlos edificado dijo: “Vanidad
 
-de vanidades, todo es vanidad. Se entreg a sus libros y estudi muy duro,
+de vanidades, todo es vanidad”. Se entregó a sus libros y estudió muy duro,
 
-pero despus de haberlos examinado por largo tiempo, dijo: No hay fin de hacer
+pero después de haberlos examinado por largo tiempo, dijo: “No hay fin de hacer
 
-muchos libros; y el mucho estudio es fatiga de la carne. Trat de cantarle a
+muchos libros; y el mucho estudio es fatiga de la carne”. Trató de cantarle a
 
 los hombres y cantarle a las mujeres, y a los peculiares deleites de los reyes,
 
-pero cuando haba disfrutado de esta manera al mximo de las posibilidades de
+pero cuando había disfrutado de esta manera al máximo de las posibilidades de
 
-la naturaleza humana, dijo: Vanidad de vanidades, todo es vanidad. Plant
+la naturaleza humana, dijo: “Vanidad de vanidades, todo es vanidad”. Plantó
 
-jardines, y dise canales de agua, y practic la ingeniera; se inclin un
+jardines, y diseńó canales de agua, y practicó la ingeniería; se inclinó un
 
-tiempo a los placeres de un necio, y pronto estaba vido en las actividades ms
+tiempo a los placeres de un necio, y pronto estaba ávido en las actividades más
 
 nobles de un sabio; algunas veces estaba sobrio con la ciencia, y en otros
 
-momentos estaba excitado por la risa, prob todo, y encontr que todo gozo
+momentos estaba excitado por la risa, probó todo, y encontró que todo gozo
 
-terrenal es tan engaoso como las manzanas de Sodoma, que son hermosas a la
+terrenal es tan engańoso como las manzanas de Sodoma, que son hermosas a la
 
 vista, pero que se vuelven cenizas en la mano. Nada debajo de los cielos y nada
 
 por encima de los cielos puede hacer a cualquier hombre feliz, aparte de Dios, por
 
-mucho que escudries. Aparte de Dios puedes hacer un infierno, pero no puedes
+mucho que escudrińes. Aparte de Dios puedes hacer un infierno, pero no puedes
 
 hacer un cielo, hagas lo que hagas. Oh, yo te suplico, hombre infeliz, si te
 
-has cansado del mundo y ests enfermo de todo, si te ests marchitando aunque
+has cansado del mundo y estás enfermo de todo, si te estás marchitando aunque
 
-no tengas cuarenta aos de edad, recuerda que hay un lugar donde tu hoja
+no tengas cuarenta ańos de edad, recuerda que hay un lugar donde tu hoja
 
-marchita y amarilla puede hacerse reverdecer. Si pones al Seor siempre delante
+marchita y amarilla puede hacerse reverdecer. Si pones al Seńor siempre delante
 
-de ti, t encontrars paz en l.
+de ti, tú encontrarás paz en Él.
 
-Y, a continuacin, me
+Y, a continuación, me
 
 pudiera estar dirigiendo a algunos que se consideran perfectamente felices en
 
-el mundo. Yo confieso que no los envidio, pero todava me gusta orte cantar tu
+el mundo. Yo confieso que no los envidio, pero todavía me gusta oírte cantar tu
 
-cancin, y contar la historia de qu bienaventuranza suministra el mundo.
+canción, y contar la historia de qué bienaventuranza suministra el mundo.
 
-Adviertes sobre qu frgiles pilares este hermoso palacio tuyo es erigido!
+ˇAdviertes sobre qué frágiles pilares este hermoso palacio tuyo es erigido!
 
-Ests sano, eso est en la base de todo, tu estructura corporal est bien, y t
+Estás sano, eso está en la base de todo, tu estructura corporal está bien, y tú
 
-eres feliz. Pero supn que cayeras enfermo. O supn que esos cuantos cabellos
+eres feliz. Pero supón que cayeras enfermo. O supón que esos cuantos cabellos
 
-grises pronto se multiplicaran, dnde estar tu jbilo? O si tu riqueza tomara
+grises pronto se multiplicaran, żdónde estará tu júbilo? O si tu riqueza tomara
 
-alas y volara lejos, qu pues? O si vienes delante del Seor en juicio qu
+alas y volara lejos, żqué pues? O si vienes delante del Seńor en juicio żqué
 
-pues? Oh, seor, este frgil cimiento se va; no es adecuado descansar tus
+pues? Oh, seńor, este frágil cimiento se va; no es adecuado descansar tus
 
-eternas esperanzas sobre l. Eres como un niito edificando su pequea casa de
+eternas esperanzas sobre él. Eres como un nińito edificando su pequeńa casa de
 
-arena junto al mar; la marea viene subiendo; oh, nio, deja tu arena y huye de
+arena junto al mar; la marea viene subiendo; ˇoh, nińo, deja tu arena y huye de
 
 las olas! Hay
 
 una roca sobre la que
 
-puedes construir con piedras slidas una casa eterna, un palacio de felicidad
+puedes construir con piedras sólidas una casa eterna, un palacio de felicidad
 
-que no se disolver nunca. Vete para all!
+que no se disolverá nunca. ˇVete para allá!
 
 Ahora, ustedes, pueblo
 
-cristiano, si alguno de ustedes es infeliz, yo deseara poder predicarle a
+cristiano, si alguno de ustedes es infeliz, yo desearía poder predicarle a
 
-partir de all recordndole este texto, pero como no puedo, lo dejo en las
+partir de allí recordándole este texto, pero como no puedo, lo dejo en las
 
-manos del Espritu Santo. Si te acercas a Dios sers tan feliz como los das
+manos del Espíritu Santo. Si te acercas a Dios serás tan feliz como los días
 
-son largos en mitad del verano, tus dudas y miedos huirn, y sers tan dichoso
+son largos en mitad del verano, tus dudas y miedos huirán, y serás tan dichoso
 
 como las aves del aire.
 
 Y ustedes, cristianos
 
-felices, ustedes del ojo brillante y del paso elstico, podran ser ms felices
+felices, ustedes del ojo brillante y del paso elástico, podrían ser más felices
 
-todava acercndose ms a Dios y permaneciendo en ms plena comunin con l; y
+todavía acercándose más a Dios y permaneciendo en más plena comunión con Él; y
 
-aunque t ya ests cantando,
+aunque tú ya estás cantando,
 
-Cun feliz es la porcin del peregrino,
+“Cuán feliz es la porción del peregrino”,
 
-Sers todava ms
+Serás todavía más
 
-bendecido si te vuelves ms obediente, ms sumiso a la voluntad divina, si
+bendecido si te vuelves más obediente, más sumiso a la voluntad divina, si
 
-ests ms en sintona con Jess, y ms permanentemente en comunin con el
+estás más en sintonía con Jesús, y más permanentemente en comunión con el
 
 Padre. Esto es el cielo abajo: que Dios se los conceda por causa de Cristo.
 
-Amn.
+Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Salmo 16.
+del sermón: Salmo 16.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 23/Octubre/2014
 

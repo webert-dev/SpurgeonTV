@@ -1,16 +1,16 @@
 # Sermón 966 | Sermón 966
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Los Huesos de
 
-Jos
+José
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,79 +18,79 @@ DOMINGO 18 DE
 
 DICIEMBRE, 1870
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Por la fe
+“Por la fe
 
-Jos, al morir, mencion la salida de los hijos de Israel, y dio mandamiento
+José, al morir, mencionó la salida de los hijos de Israel, y dio mandamiento
 
-acerca de sus huesos. Hebreos 11: 22.
+acerca de sus huesos”. Hebreos 11: 22.
 
-No podramos decir con
+No podríamos decir con
 
-facilidad cul accin en una vida piadosa es ms apreciada por Dios. En este
+facilidad cuál acción en una vida piadosa es más apreciada por Dios. En este
 
-captulo, el Espritu Santo escoge de entre las vidas de algunos hombres buenos
+capítulo, el Espíritu Santo escoge de entre las vidas de algunos hombres buenos
 
-los ms deslumbrantes ejemplos de su fe. Yo no hubiera esperado que mencionara
+los más deslumbrantes ejemplos de su fe. Yo no hubiera esperado que mencionara
 
-la escena de los momentos finales de la vida de Jos como la prueba ms ilustre
+la escena de los momentos finales de la vida de José como la prueba más ilustre
 
-de su fe en Dios. Esa vida memorable, tal vez la ms interesante en toda la
+de su fe en Dios. Esa vida memorable, tal vez la más interesante en toda la
 
-sagrada Escritura -con la excepcin de una- abunda en incidentes de los cuales
+sagrada Escritura -con la excepción de una- abunda en incidentes de los cuales
 
-el Espritu Santo habra podido decir por boca de Su siervo Pablo: Por la fe,
+el Espíritu Santo habría podido decir por boca de Su siervo Pablo: “Por la fe,
 
-Jos hizo esto y aquello, pero no se menciona nada salvo la escena final. Especialmente
+José hizo esto y aquello”, pero no se menciona nada salvo la escena final. Especialmente
 
-el triunfo de su castidad contra una tentacin tan conocida y sumamente severa,
+el triunfo de su castidad contra una tentación tan conocida y sumamente severa,
 
-habra podido ser atribuida muy apropiadamente al poder de su fe, pero eso es
+habría podido ser atribuida muy apropiadamente al poder de su fe, pero eso es
 
 soslayado, y el hecho de que dio mandamiento respecto a sus huesos es destacado
 
-como la prueba ms ilustre de su fe. Acaso no nos dice eso, amados hermanos y
+como la prueba más ilustre de su fe. żAcaso no nos dice eso, amados hermanos y
 
-hermanas, que somos muy pobres jueces de lo que ms agrada a Dios? Es muy
+hermanas, que somos muy pobres jueces de lo que más agrada a Dios? Es muy
 
-probable que Dios se agrade ms de nosotros cuando menos nos agradamos a
+probable que Dios se agrade más de nosotros cuando menos nos agradamos a
 
-nosotros mismos. Esa oracin por la que nos lamentbamos y que considerbamos
+nosotros mismos. Esa oración por la que nos lamentábamos y que considerábamos
 
-que no era una oracin, pudiera haber contenido mayor suplicacin que alguna
+que no era una oración, pudiera haber contenido mayor suplicación que alguna
 
-otra intercesin que tuvimos en mayor consideracin. Ese sermn que nos hizo
+otra intercesión que tuvimos en mayor consideración. Ese sermón que nos hizo
 
-lamentarnos en la amargura de nuestra alma porque pensamos que lo habamos
+lamentarnos en la amargura de nuestra alma porque pensamos que lo habíamos
 
-predicado muy dbilmente, pudiera haber sido a los ojos de Dios ms precioso
+predicado muy débilmente, pudiera haber sido a los ojos de Dios más precioso
 
-que muchos discursos elocuentes respecto a los cuales nos congratulbamos. Esa
+que muchos discursos elocuentes respecto a los cuales nos congratulábamos. Esa
 
-prueba que nosotros pensamos que habamos enfrentado con tanta impaciencia,
+prueba que nosotros pensamos que habíamos enfrentado con tanta impaciencia,
 
-pudo haber sido delante de Dios una exhibicin de verdadera paciencia cuando l
+pudo haber sido delante de Dios una exhibición de verdadera paciencia cuando Él
 
-mir en lo profundo de nuestras almas. Los sondeos por medio de los cuales nos
+miró en lo profundo de nuestras almas. Los sondeos por medio de los cuales nos
 
 juzgamos a nosotros mismos son muy imprecisos. Pudiera ser que cuando leamos
 
-nuestras propias biografas a la luz de la eternidad, nos sorprenderemos al
+nuestras propias biografías a la luz de la eternidad, nos sorprenderemos al
 
 comprobar que Dios ha encomiado altamente aquello por lo que nosotros lloramos,
 
-mientras que mucho de lo que nos gloribamos ser desechado como plata
+mientras que mucho de lo que nos gloriábamos será desechado como plata
 
 reprobada. Dios no ve a la manera del hombre, pues el ser humano se fija en la
 
-apariencia externa, pero l mira el corazn y Su mirada penetra hasta lo ms hondo.
+apariencia externa, pero Él mira el corazón y Su mirada penetra hasta lo más hondo.
 
-Jehov pesa los espritus. l no sopesa segn el color, la forma o el brillo,
+‘Jehová pesa los espíritus’. Él no sopesa según el color, la forma o el brillo,
 
-sino segn el peso real, y de aqu que cuando pes el carcter de Jos, le dio preponderancia
+sino según el peso real, y de aquí que cuando pesó el carácter de José, le dio preponderancia
 
 a un incidente en el que la fe estuvo realmente presente con mucha fuerza, pero
 
@@ -98,113 +98,113 @@ no para el observador superficial.
 
 Pudiera parecer sorprendente
 
-que la instruccin girada por Jos con relacin a su cuerpo sea mencionada como
+que la instrucción girada por José con relación a su cuerpo sea mencionada como
 
-un notable acto de fe, mas no una instruccin similar dada por Jacob, pues,
+un notable acto de fe, mas no una instrucción similar dada por Jacob, pues,
 
-acaso no dio tambin Jacob un mandamiento con relacin a sus huesos? Les
+żacaso no dio también Jacob un mandamiento con relación a sus huesos? “Les
 
-mand luego, y les dijo: Yo voy a ser reunido con mi pueblo. Sepultadme con mis
+mandó luego, y les dijo: Yo voy a ser reunido con mi pueblo. Sepultadme con mis
 
-padres en la cueva que est en el campo de Efrn el heteo, en la cueva que est
+padres en la cueva que está en el campo de Efrón el heteo, en la cueva que está
 
-en el campo de Macpela, al oriente de Mamre en la tierra de Canan, la cual
+en el campo de Macpela, al oriente de Mamre en la tierra de Canaán, la cual
 
-compr Abraham con el mismo campo de Efrn el heteo, para heredad de sepultura.
+compró Abraham con el mismo campo de Efrón el heteo, para heredad de sepultura.
 
-All sepultaron a Abraham y a Sara su mujer; all sepultaron a Isaac y a Rebeca
+Allí sepultaron a Abraham y a Sara su mujer; allí sepultaron a Isaac y a Rebeca
 
-su mujer; all tambin sepult yo a Lea. Les pidi que trasladaran su cuerpo a
+su mujer; allí también sepulté yo a Lea”. Les pidió que trasladaran su cuerpo a
 
 ese preciado mausoleo de la familia ubicado en Macpela, donde descansaban sus
 
-padres. Por qu no fue en Jacob un caso de fe, como lo fue en Jos? No podemos
+padres. żPor qué no fue en Jacob un caso de fe, como lo fue en José? No podemos
 
 hablar siempre de manera contundente sobre estas cosas, pero pensamos que hay
 
-una diferencia fundamental entre ambos casos. Ustedes notarn que el deseo de
+una diferencia fundamental entre ambos casos. Ustedes notarán que el deseo de
 
-Jacob de ser enterrado en Macpela fue explicado por l mismo como proveniente
+Jacob de ser enterrado en Macpela fue explicado por él mismo como proveniente
 
-mayormente de un afecto natural. l menciona su relacin con Abraham, con
+mayormente de un afecto natural. Él menciona su relación con Abraham, con
 
-Isaac, con Lea, y as sucesivamente, y con ese sentimiento natural que es
+Isaac, con Lea, y así sucesivamente, y con ese sentimiento natural que es
 
 sumamente encomiable pero que no es producto de la gracia, Jacob desea ser enterrado
 
-con sus propios deudos. Cuando su alma fuera unida a su pueblo quera que su
+con sus propios deudos. Cuando su alma fuera unida a su pueblo quería que su
 
 cuerpo estuviera al lado de sus propios familiares. Este deseo era
 
-probablemente tanto un gesto de la naturaleza como una expresin de la gracia.
+probablemente tanto un gesto de la naturaleza como una expresión de la gracia.
 
-Es seguro que el afecto natural habra guiado a Jos a desear lo mismo, pero l
+Es seguro que el afecto natural habría guiado a José a desear lo mismo, pero él
 
-no lo expresa de esa manera. Adems, puede verse que Jacob manda a sus hijos
+no lo expresa de esa manera. Además, puede verse que Jacob manda a sus hijos
 
-que hagan con sus huesos lo que ellos podan hacer fcilmente; deban llevarlos
+que hagan con sus huesos lo que ellos podían hacer fácilmente; debían llevarlos
 
-a Macpela y enterrarlos de inmediato. l saba que su hijo Jos estaba en el
+a Macpela y enterrarlos de inmediato. Él sabía que su hijo José estaba en el
 
 poder en Egipto, y, por tanto, todo lo que fuera necesario para su funeral
 
-sera provisto: la corte egipcia, segn qued demostrado, estaba lo
+sería provisto: la corte egipcia, según quedó demostrado, estaba lo
 
-suficientemente dispuesta a darle la inhumacin ms suntuosa. De hecho
+suficientemente dispuesta a darle la inhumación más suntuosa. De hecho
 
-guardaron luto por l cuarenta das, denotando con eso que era una persona
+guardaron luto por él cuarenta días, denotando con eso que era una persona
 
-tenida en alta estima. Jacob, por tanto, no mand que se hiciera nada que no
+tenida en alta estima. Jacob, por tanto, no mandó que se hiciera nada que no
 
-pudiera realizarse; no hubo ninguna exhibicin muy notable de fe en el hecho de
+pudiera realizarse; no hubo ninguna exhibición muy notable de fe en el hecho de
 
-ordenar un pronto funeral que el amor filial de Jos poda cumplir con
+ordenar un pronto funeral que el amor filial de José podía cumplir con
 
-facilidad. Toma inmediata posesin de su sepulcro en Canan, y por muy
+facilidad. Toma inmediata posesión de su sepulcro en Canaán, y por muy
 
-excelentes razones no pide permanecer insepulto hasta que Canan sea poseda por
+excelentes razones no pide permanecer insepulto hasta que Canaán sea poseída por
 
-sus descendientes. Jacob opta por una sepultura inmediata, pero Jos pospone su
+sus descendientes. Jacob opta por una sepultura inmediata, pero José pospone su
 
-inhumacin hasta que la promesa del pacto sea cumplida. Jos no slo deseaba
+inhumación hasta que la promesa del pacto sea cumplida. José no sólo deseaba
 
-ser enterrado en Macpela, que era la naturaleza, sino que no quera ser
+ser enterrado en Macpela, que era la naturaleza, sino que no quería ser
 
-sepultado all hasta que la tierra fuera poseda, lo cual era una exhibicin de
+sepultado allí hasta que la tierra fuera poseída, lo cual era una exhibición de
 
-la gracia de la fe. Jos deseaba que su cuerpo insepulto compartiera con el
+la gracia de la fe. José deseaba que su cuerpo insepulto compartiera con el
 
-pueblo de Dios su cautividad y su retorno. Estaba tan seguro de que saldran de
+pueblo de Dios su cautividad y su retorno. Estaba tan seguro de que saldrían de
 
-la cautividad que pospone su entierro hasta ese feliz acontecimiento, y as
+la cautividad que pospone su entierro hasta ese feliz acontecimiento, y así
 
 convierte lo que hubiera sido un deseo natural en un medio de expresar una
 
 santa y piadosa confianza en la promesa divina. Fue fe en Jacob, pero fue fe
 
-notable en Jos; y Dios, que no mira simplemente el acto sino el mvil del
+notable en José; y Dios, que no mira simplemente el acto sino el móvil del
 
 acto, se ha complacido en no dejar constancia de Jacob como un ejemplo de fe en
 
-el ltimo trance, en este tema particular de sus huesos, y en loar a Jos por
+el último trance, en este tema particular de sus huesos, y en loar a José por
 
-exhibir en la agona un memorable grado de confianza en la promesa. Probablemente
+exhibir en la agonía un memorable grado de confianza en la promesa. Probablemente
 
 la fe de Jacob al morir, aplicada a otros asuntos, superaba en brillo a su fe
 
-en conexin con su entierro, mientras que en su hijo preferido ese asunto fue
+en conexión con su entierro, mientras que en su hijo preferido ese asunto fue
 
 la prueba principal de la fe.
 
 Ahora vamos a examinar
 
-este incidente con mayor detalle y vamos a encontrar en l valiosas lecciones.
+este incidente con mayor detalle y vamos a encontrar en él valiosas lecciones.
 
-Que el Espritu Santo las escriba en nuestros corazones.
+Que el Espíritu Santo las escriba en nuestros corazones.
 
 Creo que advierto en
 
-estas palabras de Jos en su lecho de muerte, primero,
+estas palabras de José en su lecho de muerte, primero,
 
 el poder de la fe;
 
@@ -238,277 +238,277 @@ fe
 
 sobre la prosperidad mundana.
 
-No
+“No
 
-sois muchos sabios segn la carne, ni muchos poderosos, ni muchos nobles; esas
+sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles”; esas
 
-palabras son muy ciertas. Pero nunca se dijo: Ningn gran hombre, ningn
+palabras son muy ciertas. Pero nunca se dijo: “Ningún gran hombre, ningún
 
-hombre poderoso es escogido. Dios ha escogido a unos cuantos en lugares de
+hombre poderoso es escogido”. Dios ha escogido a unos cuantos en lugares de
 
 riqueza y de poder y de influencia, que tienen fe en sus corazones y la tienen
 
-en un grado eminente. Nuestro Seor nos dijo que es ms fcil pasar un camello
+en un grado eminente. Nuestro Seńor nos dijo que es “más fácil pasar un camello
 
-por el ojo de una aguja, que entrar un rico en el reino de Dios, pero agreg:
+por el ojo de una aguja, que entrar un rico en el reino de Dios”, pero agregó:
 
-Para los hombres esto es imposible; mas para Dios todo es posible. Observen,
+“Para los hombres esto es imposible; mas para Dios todo es posible”. Observen,
 
-entonces, la dificultad que rodeaba el caso de Jos, y luego, vean cun grande
+entonces, la dificultad que rodeaba el caso de José, y luego, ˇvean cuán grande
 
-debe de haber sido la fe que triunf sobre la dificultad! La posicin de Jos,
+debe de haber sido la fe que triunfó sobre la dificultad! La posición de José,
 
-despus que hubo enfrentado sus primeras pruebas en Egipto, fue muy eminente.
+después que hubo enfrentado sus primeras pruebas en Egipto, fue muy eminente.
 
-Posea riquezas ilimitadas; Jos era el virrey del pas entero, y Faran le
+Poseía riquezas ilimitadas; José era el virrey del país entero, y Faraón le
 
-haba dicho: Solamente en el trono ser yo mayor que t. Era en todos los
+había dicho: “Solamente en el trono seré yo mayor que tú”. Era en todos los
 
-sentidos, excepto en nombre, el seor absoluto de esa gran nacin; poda hacer lo
+sentidos, excepto en nombre, el seńor absoluto de esa gran nación; podía hacer lo
 
 que quisiera; estaba rodeado de toda la suntuosidad de la realeza; y cuando iba
 
-en su carro a travs de las calles, los heraldos pregonaban delante de l: Doblad
+en su carro a través de las calles, los heraldos pregonaban delante de él: “ˇDoblad
 
-la rodilla! Con todo, esto no impidi que Jos poseyera fe en Dios, y una fe
+la rodilla!” Con todo, esto no impidió que José poseyera fe en Dios, y una fe
 
-que persever hasta el fin.
+que perseveró hasta el fin.
 
 Mis queridos hermanos,
 
 las pruebas de la fe son usualmente las de la pobreza, y muy gloriosamente se
 
-comporta la fe cuando confa en el Seor, y le va bien, y es alimentada incluso
+comporta la fe cuando confía en el Seńor, y le va bien, y es alimentada incluso
 
-en la tierra de la hambruna; pero es posible que las ordalas de la prosperidad
+en la tierra de la hambruna; pero es posible que las ordalías de la prosperidad
 
-sean mucho ms severas, y es por esto un mayor triunfo de la fe cuando el rico
+sean mucho más severas, y es por esto un mayor triunfo de la fe cuando el rico
 
-no pone su corazn en las riquezas inciertas, y no tolera que el grueso barro
+no pone su corazón en las riquezas inciertas, y no tolera que el grueso barro
 
-de este mundo estorbe su peregrinacin al cielo. Es difcil sostener una copa
+de este mundo estorbe su peregrinación al cielo. Es difícil sostener una copa
 
 llena con una mano firme, pues algo se derrama usualmente; pero cuando la
 
-gracia hace que unos hombres ricos y unos individuos de elevada posicin de
+gracia hace que unos hombres ricos y unos individuos de elevada posición de
 
-poder y autoridad acten correcta y pamente, entonces la gracia es grandemente
+poder y autoridad actúen correcta y píamente, entonces la gracia es grandemente
 
-glorificada. Ustedes que son ricos deberan ver su peligro, pero dejen que el
+glorificada. Ustedes que son ricos deberían ver su peligro, pero dejen que el
 
-caso de Jos les sirva de aliento. Dios les ayudar; busquen Su misericordiosa
+caso de José les sirva de aliento. Dios les ayudará; busquen Su misericordiosa
 
 ayuda. No hay necesidad de que sean mundanos, no es necesario que hundan lo
 
-israelita en lo egipcio. Dios puede guardarlos tal como guard a Job para que
+israelita en lo egipcio. Dios puede guardarlos tal como guardó a Job para que
 
 sean perfectos y rectos, y no obstante, permite que tengan posesiones
 
-sobremanera grandes. Igual que Jos pueden ser a la vez ms ricos y mejores que
+sobremanera grandes. Igual que José pueden ser a la vez más ricos y mejores que
 
-sus hermanos. Ser muy difcil y van necesitar de mucha, de muchsima gracia,
+sus hermanos. Será muy difícil y van necesitar de mucha, de muchísima gracia,
 
-pero el Seor su Dios les ayudar, y aprendern, como Pablo, a cmo abundar y
+pero el Seńor su Dios les ayudará, y aprenderán, como Pablo, a cómo abundar y
 
-como Jos de Arimatea, sern a la vez hombres ricos y devotos discpulos.
+como José de Arimatea, serán a la vez hombres ricos y devotos discípulos.
 
 Hemos de recordar
 
-tambin que Jos no slo fue probado por las riquezas, sino que la prueba dur toda
+también que José no sólo fue probado por las riquezas, sino que la prueba duró toda
 
-su vida, casi desde sus primeros das y hasta la conclusin de su carrera. Yo
+su vida, casi desde sus primeros días y hasta la conclusión de su carrera. Yo
 
-supongo que durante unos sesenta o setenta aos por lo menos, ocup la posicin
+supongo que durante unos sesenta o setenta ańos por lo menos, ocupó la posición
 
-equivalente a virrey y gobernador de Faran de Egipto, con toda la riqueza de
+equivalente a ‘virrey y gobernador de Faraón’ de Egipto, con toda la riqueza de
 
-ese grandioso pueblo a sus pies, y a pesar de ello, todo ese tiempo permaneci
+ese grandioso pueblo a sus pies, y a pesar de ello, todo ese tiempo permaneció
 
-fiel al Dios de sus padres en su corazn. Que Dios les d una fidelidad
+fiel al Dios de sus padres en su corazón. Que Dios les dé una fidelidad
 
 semejante a quienes ocupan elevados cargos entre ustedes. Que permanezcan
 
-inconmovibles aun bajo la ms prolongada tentacin. Recuerden, adems, que la
+inconmovibles aun bajo la más prolongada tentación. Recuerden, además, que la
 
-sociedad en la que Jos se vio insertado por su posicin en Egipto era del peor
+sociedad en la que José se vio insertado por su posición en Egipto era del peor
 
-tipo en cuanto a la religin espiritual, pues todos los egipcios eran
+tipo en cuanto a la religión espiritual, pues todos los egipcios eran
 
-idlatras, adoradores de toda clase de animales vivos y de reptiles. Un
+idólatras, adoradores de toda clase de animales vivos y de reptiles. Un
 
-escritor satrico dijo de ellos: Oh, pueblo dichoso que cultiva a sus dioses
+escritor satírico dijo de ellos: “Oh, pueblo dichoso que cultiva a sus dioses
 
-en sus propios jardines, pues adoraban incluso a los puerros y a las cebollas;
+en sus propios jardines”, pues adoraban incluso a los puerros y a las cebollas;
 
-se trataba de un pueblo sumamente idlatra y aunque superaba ampliamente a sus
+se trataba de un pueblo sumamente idólatra y aunque superaba ampliamente a sus
 
-vecinos en civilizacin, estaba ubicado muy abajo en la escala de la religin.
+vecinos en civilización, estaba ubicado muy abajo en la escala de la religión.
 
-Nos parece ver en Jos, por aqu y por all, trazas de haber sido daado por
+Nos parece ver en José, por aquí y por allá, trazas de haber sido dańado por
 
-los hbitos y costumbres de los egipcios, pero sin llegar al extremo que uno
+los hábitos y costumbres de los egipcios, pero sin llegar al extremo que uno
 
-hubiera esperado, ni tan daado como para hacernos sospechar de su fidelidad al
+hubiera esperado, ni tan dańado como para hacernos sospechar de su fidelidad al
 
-nico Dios. Debe de haber habido una considerable profundidad de santidad en el
+único Dios. Debe de haber habido una considerable profundidad de santidad en el
 
-joven ya que de otra manera habra sido incapaz de vivir en la corte -y en una
+joven ya que de otra manera habría sido incapaz de vivir en la corte -y en una
 
-corte idoltrica- preservando su integridad y su fe en Jehov, el Dios de
+corte idolátrica- preservando su integridad y su fe en Jehová, el Dios de
 
-Israel. No olviden que durante una parte sustancial de ese tiempo Jos no tena
+Israel. No olviden que durante una parte sustancial de ese tiempo José no tenía
 
-ni una sola persona de su propia fe con quien relacionarse. Consideren cun
+ni una sola persona de su propia fe con quien relacionarse. ˇConsideren cuán
 
-grande prueba debe de haber sido para l! He conocido a personas muy fervorosas
+grande prueba debe de haber sido para él! He conocido a personas muy fervorosas
 
-en la religin mientras vivan con cristianos celosos, y muy diligentes mientras
+en la religión mientras vivían con cristianos celosos, y muy diligentes mientras
 
 escuchaban un ministerio ardoroso, las cuales, cuando fueron separadas de la
 
-sociedad cristiana o cuando fueron compelidas a sentarse bajo un glido
+sociedad cristiana o cuando fueron compelidas a sentarse bajo un gélido
 
-ministerio, se convirtieron en un fracaso espiritual. Ay!, lamento por algunos
+ministerio, se convirtieron en un fracaso espiritual. ˇAy!, lamento por algunos
 
-que cuando son transplantados a un suelo ms duro han decado tanto que sera
+que cuando son transplantados a un suelo más duro han decaído tanto que sería
 
-difcil decir si son rboles plantados por la diestra del Seor o no. Jos fue
+difícil decir si son árboles plantados por la diestra del Seńor o no. José fue
 
-transplantado a un lugar donde no haba oracin en la casa, ni amigos, ni
+transplantado a un lugar donde no había oración en la casa, ni amigos, ni
 
 maestros piadosos con quienes se pudiera intercambiar palabra, nadie que
 
-supiera de Jehov o del pacto hecho con Israel; Jos estaba completamente solo,
+supiera de Jehová o del pacto hecho con Israel; José estaba completamente solo,
 
-solo, solo, en medio de un pueblo idlatra, con todas las tentaciones de Egipto
+solo, solo, en medio de un pueblo idólatra, con todas las tentaciones de Egipto
 
-ante s, en posesin de sus riquezas y sus tesoros y tentado a vivir como viva
+ante sí, en posesión de sus riquezas y sus tesoros y tentado a vivir como vivía
 
 el pueblo, en todo tipo de paganismo, y, sin embargo, a pesar de todo eso, se
 
-sostuvo como viendo al Invisible, y al final, muri lleno de una fe confiada,
+sostuvo como viendo al Invisible, y al final, murió lleno de una fe confiada,
 
-gozosa y piadosa en el Dios de sus padres. Ah!, este es un gran triunfo de la
+gozosa y piadosa en el Dios de sus padres. ˇAh!, este es un gran triunfo de la
 
-fe, y yo quisiera instar a cualquiera de mis amados hermanos aqu, que
+fe, y yo quisiera instar a cualquiera de mis amados hermanos aquí, que
 
-realmente aman al Seor, que busquen que esa obra de gracia en ellos sea tan
+realmente aman al Seńor, que busquen que esa obra de gracia en ellos sea tan
 
-profunda, tan verdadera y tan ntegra que si Dios los hiciera reyes no se
+profunda, tan verdadera y tan íntegra que si Dios los hiciera reyes no se
 
-volveran altivos por eso; si Dios los separara de inmediato de los vnculos
+volverían altivos por eso; si Dios los separara de inmediato de los vínculos
 
-cristianos, no lo olvidaran a l; y si se vieran expuestos de inmediato a
+cristianos, no lo olvidarían a Él; y si se vieran expuestos de inmediato a
 
-todas las tentaciones del mundo, las resistiran a todas. Pueden ustedes ver
+todas las tentaciones del mundo, las resistirían a todas. Pueden ustedes ver
 
-que el poder de la fe de Jos fue abundantemente evidenciado en su triunfo
+que el poder de la fe de José fue abundantemente evidenciado en su triunfo
 
 sobre sus circunstancias mundanas.
 
 En segundo lugar, ven
 
-aqu el poder de su fe exhibido en su triunfo
+aquí el poder de su fe exhibido en su triunfo
 
 sobre la muerte.
 
-Si van al ltimo captulo de Gnesis, vern que
+Si van al último capítulo de Génesis, verán que
 
-dice: Yo voy a morir; mas Dios ciertamente os visitar, o, como lo expresa el
+dice: “Yo voy a morir; mas Dios ciertamente os visitará”, o, como lo expresa el
 
-texto: Mencion la salida de los hijos de Israel. La muerte es un gran
+texto: “Mencionó la salida de los hijos de Israel”. La muerte es un gran
 
 examinador de la sinceridad de un hombre, y un gran demoledor de paredes
 
 inclinadas y de cercas que se tambalean. Los hombres han pensado que todo
 
-estaba bien con ellos, pero cuando las crecidas del Jordn los han alcanzado,
+estaba bien con ellos, pero cuando las crecidas del Jordán los han alcanzado,
 
-han descubierto que las cosas son muy diferentes. Aqu vemos a Jos tan sereno
+han descubierto que las cosas son muy diferentes. Aquí vemos a José tan sereno
 
-y tan tranquilo que recuerda el pacto, se apoya en l y se regocija en l.
+y tan tranquilo que recuerda el pacto, se apoya en él y se regocija en él.
 
-Habla de la muerte como si slo se tratase de una parte de la vida, siendo
+Habla de la muerte como si sólo se tratase de una parte de la vida, siendo
 
-comparativamente un asunto muy pequeo para l. No da evidencia de agitacin de
+comparativamente un asunto muy pequeńo para él. No da evidencia de agitación de
 
-ningn tipo, ni lo distrae ningn miedo; pero da su ltimo testimonio a sus
+ningún tipo, ni lo distrae ningún miedo; pero da su último testimonio a sus
 
-hermanos que se renen en torno a su lecho, en relacin a la fidelidad de Dios
+hermanos que se reúnen en torno a su lecho, en relación a la fidelidad de Dios
 
 y a la infalibilidad de Su promesa.
 
-Adems, si he de colegir
+Además, si he de colegir
 
-a partir del texto que el Espritu Santo ha escogido el ejemplo ms refulgente
+a partir del texto que el Espíritu Santo ha escogido el ejemplo más refulgente
 
-de la fe en la vida de Jos, es hermoso advertir que el grandioso anciano se
+de la fe en la vida de José, es hermoso advertir que el grandioso anciano se
 
-vuelve sobremanera ilustre en su ltima hora. La muerte no apag sino que ms
+vuelve sobremanera ilustre en su última hora. La muerte no apagó sino que más
 
-bien ilumin el oro que haba en su carcter. En su lecho de muerte, ms que en
+bien iluminó el oro que había en su carácter. En su lecho de muerte, más que en
 
 el resto de su vida, su fe dora con gloria su entorno como un sol poniente;
 
-ahora que el corazn y la carne le fallan, Dios se convierte ms que nunca en
+ahora que el corazón y la carne le fallan, Dios se convierte más que nunca en
 
-la fuerza de su vida, as como sera pronto su porcin para siempre. No es
+la fuerza de su vida, así como sería pronto su porción para siempre. żNo es
 
-algo grandioso que un cristiano realice su mejor accin al final, siendo ms
+algo grandioso que un cristiano realice su mejor acción al final, siendo más
 
-fuerte en poder divino cuando su propia debilidad es suprema? Deberamos desear
+fuerte en poder divino cuando su propia debilidad es suprema? Deberíamos desear
 
 servir a Dios en la juventud, en la salud, en la fortaleza, con todo el poder
 
-que tenemos, pero pudiera sucedernos que como Sansn, nuestro ltimo acto fuese
+que tenemos, pero pudiera sucedernos que como Sansón, nuestro último acto fuese
 
 el mayor. Muchos hombres buenos gimen por su vida, ya que habiendo hecho todo
 
-lo que podan, resulta insatisfactorio; pero, tal vez el Maestro pudiera tener
+lo que podían, resulta insatisfactorio; pero, tal vez el Maestro pudiera tener
 
-el propsito de darles una misericordia culminante, justo al final, y hacer que
+el propósito de darles una misericordia culminante, justo al final, y hacer que
 
-el lugar de su partida sea la escena de su ms gloriosa victoria, de manera que
+el lugar de su partida sea la escena de su más gloriosa victoria, de manera que
 
-entren en el cielo llevando los laureles de la fe para all arrojarlos a los
+entren en el cielo llevando los laureles de la fe para allí arrojarlos a los
 
-pies del Salvador. De cualquier manera, Jos es un noble ejemplo de la victoria
+pies del Salvador. De cualquier manera, José es un noble ejemplo de la victoria
 
 de la fe sobre la muerte.
 
-Adems, aqu hay una
+Además, aquí hay una
 
-prueba del poder de la fe cuando se re de
+prueba del poder de la fe cuando se ríe de
 
 las
 
 improbabilidades.
 
-Si piensan al respecto, pareca muy improbable que los
+Si piensan al respecto, parecía muy improbable que los
 
-hijos de Israel salieran de Egipto. Tal vez en el tiempo en que Jos muri no se
+hijos de Israel salieran de Egipto. Tal vez en el tiempo en que José murió no se
 
-vea ninguna razn por la que debieran salir. Estaban establecidos en Gosn;
+veía ninguna razón por la que debieran salir. Estaban establecidos en Gosén;
 
-haban sido favorecidos con esa porcin de la tierra; la sabidura de Jos
+habían sido favorecidos con esa porción de la tierra; la sabiduría de José
 
-haba seleccionado la parte ms frtil del Delta del Nilo como la tierra de
+había seleccionado la parte más fértil del Delta del Nilo como la tierra de
 
-pastoreo para sus rebaos. Por qu habran de querer salir? Disponan de todas
+pastoreo para sus rebańos. żPor qué habrían de querer salir? Disponían de todas
 
-las comodidades que la tierra poda ofrecerles, entonces, por qu habran de
+las comodidades que la tierra podía ofrecerles, entonces, żpor qué habrían de
 
-desear salir de Egipto para ir a la tierra de Canan, donde los cananeos disputaran
+desear salir de Egipto para ir a la tierra de Canaán, donde los cananeos disputarían
 
-cada pulgada de terreno y donde haba pocas ventajas, si es que hubiese alguna,
+cada pulgada de terreno y donde había pocas ventajas, si es que hubiese alguna,
 
-y muchas desventajas? Supongan que Jos hubiere visto por anticipado -como tal
+y muchas desventajas? Supongan que José hubiere visto por anticipado -como tal
 
-vez lo hizo- gracias a una visin proftica, que otra dinasta sucedera a la
+vez lo hizo- gracias a una visión profética, que otra dinastía sucedería a la
 
-del Faran que lo haba honrado, y que Israel sera oprimido, entonces debe de
+del Faraón que lo había honrado, y que Israel sería oprimido, entonces debe de
 
-haber sentido, si sopes las probabilidades, que era improbable en sumo grado
+haber sentido, si sopesó las probabilidades, que era improbable en sumo grado
 
 que los hijos de Israel, reducidos a la esclavitud, fueran capaces de abrirse
 
@@ -516,43 +516,43 @@ paso alguna vez para salir de Egipto, para alcanzar la tierra prometida. Si se l
 
 hubiese preguntado a cualquier persona calificada para juzgar, respecto a la
 
-posible ocurrencia de un conflicto entre las doce tribus y los ejrcitos de
+posible ocurrencia de un conflicto entre las doce tribus y los ejércitos de
 
-Egipto, habra respondido: Israel sera pisoteado de inmediato como paja para
+Egipto, habría respondido: “Israel sería pisoteado de inmediato como paja para
 
-el muladar, y el pueblo permanecera en una servidumbre perpetua. Pero la mira
+el muladar, y el pueblo permanecería en una servidumbre perpetua”. Pero la mira
 
-de Jos estaba puesta en la poderosa promesa: Y en la cuarta generacin
+de José estaba puesta en la poderosa promesa: “Y en la cuarta generación
 
-volvern ac. l saba que cuando los cuatrocientos aos hubieren transcurrido,
+volverán acá”. Él sabía que cuando los cuatrocientos ańos hubieren transcurrido,
 
-se cumplira la visin de Abram de un horno humeando y de una antorcha de fuego
+se cumpliría la visión de Abram de un horno humeando y de una antorcha de fuego
 
-y la palabra sera establecida: Mas tambin a la nacin a la cual servirn,
+y la palabra sería establecida: “Mas también a la nación a la cual servirán,
 
-juzgar yo; y despus de esto saldrn con gran riqueza. Aunque todava no
+juzgaré yo; y después de esto saldrán con gran riqueza”. Aunque todavía no
 
-poda saber que Moiss dira: Jehov ha dicho as: Deja ir a mi pueblo, para
+podía saber que Moisés diría: “Jehová ha dicho así: Deja ir a mi pueblo, para
 
-que me sirva; aunque no pudiera haber visto anticipadamente los portentos en
+que me sirva”; aunque no pudiera haber visto anticipadamente los portentos en
 
-el Mar Rojo y cmo Faran y sus carros seran tragados all; y aunque no
+el Mar Rojo y cómo Faraón y sus carros serían tragados allí; y aunque no
 
 predijo el desierto, ni la nube de fuego y de humo, ni los cielos vertiendo el
 
-man, con todo, era firme su fe en que por algn medio el pacto sera cumplido;
+maná, con todo, era firme su fe en que por algún medio el pacto sería cumplido;
 
-las improbabilidades no eran nada para l, y la imposibilidades tampoco. Dios
+las improbabilidades no eran nada para él, y la imposibilidades tampoco. Dios
 
-lo ha dicho y Jos lo cree. En su lecho de muerte, cuando la imaginacin se
+lo ha dicho y José lo cree. En su lecho de muerte, cuando la imaginación se
 
-extingue y la fuerte ilusin afloja su puo de hierro, la fe verdadera y segura
+extingue y la fuerte ilusión afloja su puńo de hierro, la fe verdadera y segura
 
-del hombre de Dios se alz a su nivel y, como la estrella vespertina, proyect
+del hombre de Dios se alzó a su nivel y, como la estrella vespertina, proyectó
 
-una dulce gloria en la escena. Hermanos mos, que poseamos nosotros la fe que
+una dulce gloria en la escena. Hermanos míos, que poseamos nosotros la fe que
 
-triunfar sobre todas las circunstancias, sobre los dolores de la muerte, y
+triunfará sobre todas las circunstancias, sobre los dolores de la muerte, y
 
 sobre toda improbabilidad que pudiera estar aparentemente conectada con la
 
@@ -568,445 +568,445 @@ DE
 
 LA FE.
 
-En este caso, Jos da
+En este caso, José da
 
-mandamiento concerniente a sus huesos. El primer fruto de la fe en Jos fue
+mandamiento concerniente a sus huesos. El primer fruto de la fe en José fue
 
 este:
 
-no quera ser un egipcio.
+no quería ser un egipcio.
 
 No se
 
-le haba pedido que fuera un egipcio bajo el yugo; cualquiera habra podido
+le había pedido que fuera un egipcio bajo el yugo; cualquiera habría podido
 
-rechazar eso; no se le haba pedido que fuera un egipcio de clase
+rechazar eso; no se le había pedido que fuera un egipcio de clase
 
 media
 
-, eso habra podido ser deseable desde un punto de
+, eso habría podido ser deseable desde un punto de
 
-vista mundano; pero Jos tena la oportunidad de ser un egipcio de la clase ms
+vista mundano; pero José tenía la oportunidad de ser un egipcio de la clase más
 
-alta. En realidad, l fue exaltado casi a un rango real, y habra podido
+alta. En realidad, él fue exaltado casi a un rango real, y habría podido
 
 convertirse en un egipcio naturalizado junto con su familia. En la providencia
 
 de Dios fue llamado a aceptar los honores y emolumentos de un cargo sobremanera
 
-seorial, pero aun as, Jos no quera ser un egipcio, ni siquiera segn los
+seńorial, pero aun así, José no quería ser un egipcio, ni siquiera según los
 
-mejores trminos. Su lecho mortuorio le proporcion una ocasin decisiva, una
+mejores términos. Su lecho mortuorio le proporcionó una ocasión decisiva, una
 
-oportunidad para dar testimonio de que l es un israelita y de ninguna manera
+oportunidad para dar testimonio de que él es un israelita y de ninguna manera
 
-un egipcio. Jos no dud; su eleccin nunca claudic. Sin duda habra contado
+un egipcio. José no dudó; su elección nunca claudicó. Sin duda habría contado
 
-con una tumba muy suntuosa en Egipto; pero no, no quiere ser enterrado all,
+con una tumba muy suntuosa en Egipto; pero no, no quiere ser enterrado allí,
 
-pues no es un egipcio. En Sakkara, muy cerca de la gran pirmide del Faran
+pues no es un egipcio. En Sakkara, muy cerca de la gran pirámide del Faraón
 
-Apofis, est hasta este da la tumba de un prncipe cuyo nombre y ttulos estn
+Apofis, está hasta este día la tumba de un príncipe cuyo nombre y títulos están
 
-descritos en escritura jeroglfica. El nombre es Eitsuf, y de entre sus
+descritos en escritura jeroglífica. El nombre es “Eitsuf”, y de entre sus
 
-muchos ttulos escogemos dos: Director de los graneros del rey, y el otro es
+muchos títulos escogemos dos: “Director de los graneros del rey”, y el otro es
 
-un ttulo egipcio: Abrek. Ahora bien, esta ltima palabra se encuentra en
+un título egipcio: “Abrek”. Ahora bien, esta última palabra se encuentra en
 
 la Escritura
 
 , y es la
 
-expresin que se traduce como: Doblad la rodilla. Es ms que probable que
+expresión que se traduce como: “Doblad la rodilla”. Es más que probable que
 
-este monumento fuera preparado para Jos, pero l declin el honor. Aunque su
+este monumento fuera preparado para José, pero él declinó el honor. Aunque su
 
-lugar de descanso habra sido justo al lado de la pirmide de uno de los
+lugar de descanso habría sido justo al lado de la pirámide de uno de los
 
-monarcas ms grandes de Mizraim, con todo, l no quiso aceptar la dignidad, no
+monarcas más grandes de Mizraim, con todo, él no quiso aceptar la dignidad, no
 
 quiso ser un egipcio. Esta es una de las invariables obras de la fe en un
 
 hombre de riqueza y de rango; cuando Dios lo coloca en unas circunstancias en
 
-las que podra ser un mundano de primer orden, si su fe es genuina, dice: No;
+las que podría ser un mundano de primer orden, si su fe es genuina, dice: “No;
 
-no voy a ser contado con el mundo ni siquiera a este precio. l teme por sobre
+no voy a ser contado con el mundo ni siquiera a este precio”. Él teme por sobre
 
-todas las cosas que se pueda suponer que tiene su porcin en esta vida. Si
+todas las cosas que se pueda suponer que tiene su porción en esta vida. Si
 
-pudieras poner a un cristiano sobre el trono, el primer temor que tendra sera
+pudieras poner a un cristiano sobre el trono, el primer temor que tendría sería
 
-este: He de ser distrado por una corona terrenal, y he de perderme de la
+este: “żHe de ser distraído por una corona terrenal, y he de perderme de la
 
-diadema celestial? Ponlo en la corte y su gran pregunta ser: Cmo podr
+diadema celestial?” Ponlo en la corte y su gran pregunta será: ‘żCómo podré
 
-demostrar que no soy uno de los ciudadanos de este mundo? Rodalo de amplios
+demostrar que no soy uno de los ciudadanos de este mundo?’ Rodéalo de amplios
 
-acres, de una noble mansin, de una gran propiedad, y no obstante, l dir:
+acres, de una noble mansión, de una gran propiedad, y no obstante, él dirá:
 
-Acepto agradecidamente esto de Dios, pero, oh, no quisiera tenerlo si lo
+“Acepto agradecidamente esto de Dios, pero, oh, no quisiera tenerlo si lo
 
-tuviera con la condicin de ser contado entre los seguidores de Mamn; y ahora
+tuviera con la condición de ser contado entre los seguidores de Mamón; y ahora
 
-que he obtenido riquezas, mi oracin cotidiana a Dios ser: Seor, aydame
+que he obtenido riquezas, mi oración cotidiana a Dios será: ‘Seńor, ayúdame
 
-para que use de tal forma mi condicin que no sirva con ella a este mundo
+para que use de tal forma mi condición que no sirva con ella a este mundo
 
 malvado, sino que pueda ser un padre para tu pobre Israel. Si se llegara al
 
 punto de tener que elegir entre el reproche de Cristo y los tesoros de Egipto,
 
-optar por el reproche de Cristo y renunciar al tesoro; yo no puedo ser un
+optaré por el reproche de Cristo y renunciaré al tesoro; yo no puedo ser un
 
-egipcio.
+egipcio’”.
 
-Oh hombres ricos, ste
+Oh hombres ricos, éste
 
-debe ser un punto importante de preocupacin para ustedes: demuestren que no
+debe ser un punto importante de preocupación para ustedes: demuestren que no
 
-son mundanos. T tienes que frecuentar la casa de cambio, visitar el banco,
+son mundanos. Tú tienes que frecuentar la casa de cambio, visitar el banco,
 
 manejar grandes sumas de dinero, pero no seas un gambusino, un buscador de oro;
 
-no seas abarcador ni codicioso. Demuestren que si bien estn en Egipto ustedes
+no seas abarcador ni codicioso. Demuestren que si bien están en Egipto ustedes
 
-no son egipcios. Que esta sea su oracin: Que Dios me conceda que nunca viva
+no son egipcios. Que esta sea su oración: “Que Dios me conceda que nunca viva
 
 de tal manera que sea confundido con un hombre de este mundo que tiene su
 
-porcin en esta vida. Mi porcin est arriba. Prescindiendo de lo que pudiera
+porción en esta vida. Mi porción está arriba. Prescindiendo de lo que pudiera
 
-disfrutar aqu, el cielo es mi herencia.
+disfrutar aquí, el cielo es mi herencia”.
 
-Noten, a continuacin,
+Noten, a continuación,
 
 que
 
-su fe lo apremiaba a tener comunin
+su fe lo apremiaba a tener comunión
 
 con el pueblo de Dios.
 
-No slo rehsa ser un mundano, sino que confiesa que
+No sólo rehúsa ser un mundano, sino que confiesa que
 
-es un israelita. Tal vez me digan que slo tuvo comunin con ellos en su muerte.
+es un israelita. Tal vez me digan que sólo tuvo comunión con ellos en su muerte.
 
-Con todo, no piensen con demasiada ligereza con respecto a eso. l renunci al
+Con todo, no piensen con demasiada ligereza con respecto a eso. Él renunció al
 
-funeral con el que Egipto le habra distinguido y prefiri esperar largos aos
+funeral con el que Egipto le habría distinguido y prefirió esperar largos ańos
 
 para que su propio pueblo celebrara sus exequias. Pero les ruego que recuerden
 
-que no era la primera vez que Jos haba mostrado compaerismo para con sus
+que no era la primera vez que José había mostrado compańerismo para con sus
 
-hermanos; esto no fue sino la conclusin de una vida entera de comunin con
+hermanos; esto no fue sino la conclusión de una vida entera de comunión con
 
-ellos. Es verdad que no cay en la pobreza, pues no era necesario que cayera,
+ellos. Es verdad que no cayó en la pobreza, pues no era necesario que cayera,
 
-pero los hizo partcipes de su riqueza. Dios, en Su providencia, haba
+pero los hizo partícipes de su riqueza. Dios, en Su providencia, había
 
-decretado que Jos fuera un hombre rico, y un hombre de rango y posicin, y l
+decretado que José fuera un hombre rico, y un hombre de rango y posición, y él
 
-evidenci su compaerismo para con Israel llevando a su padre y sus hermanos a
+evidenció su compańerismo para con Israel llevando a su padre y sus hermanos a
 
-Gosn, y proveyndolos all, y estuvo siempre listo para abogar por ellos y
+Gosén, y proveyéndolos allí, y estuvo siempre listo para abogar por ellos y
 
-hacer lo mejor que poda para promover sus intereses. Ahora bien, una seal de fe
+hacer lo mejor que podía para promover sus intereses. Ahora bien, una seńal de fe
 
 en el cristiano es esta: si es pobre, comparte alegremente la suerte de los
 
-pobres de Dios, pero si fuese rico, est consciente de que est colocado en una
+pobres de Dios, pero si fuese rico, está consciente de que está colocado en una
 
-posicin de mando para poder ayudar mejor a sus hermanos, y tiene comunin con
+posición de mando para poder ayudar mejor a sus hermanos, y tiene comunión con
 
-ellos a travs de su constante benevolencia con ellos. Si fuese necesario que
+ellos a través de su constante benevolencia con ellos. Si fuese necesario que
 
-demuestre alguna vez su verdadero compaerismo al punto de tener que renunciar
+demuestre alguna vez su verdadero compańerismo al punto de tener que renunciar
 
-por completo a su posicin, lo hara alegremente para ser contado con el pueblo
+por completo a su posición, lo haría alegremente para ser contado con el pueblo
 
-despreciado de Dios. Me parece a m que Jos no se avergonz nunca de reconocer
+despreciado de Dios. Me parece a mí que José no se avergonzó nunca de reconocer
 
-a su propia raza, y nunca dej de decirles a los egipcios en los momentos apropiados:
+a su propia raza, y nunca dejó de decirles a los egipcios en los momentos apropiados:
 
-Yo no soy uno de ustedes; all est mi familia en Gosn. Como saba que su
+“Yo no soy uno de ustedes; allá está mi familia en Gosén”. Como sabía que su
 
-familia sera despreciada y perseguida posteriormente, les dijo: Conserven mis
+familia sería despreciada y perseguida posteriormente, les dijo: “Conserven mis
 
-huesos, de tal manera que cuando los degraden a ustedes tambin me degraden a
+huesos, de tal manera que cuando los degraden a ustedes también me degraden a
 
-m; voy a permanecer con ustedes en todas sus futuras aflicciones, pues soy uno
+mí; voy a permanecer con ustedes en todas sus futuras aflicciones, pues soy uno
 
-de ustedes. La verdadera fe hace decir al hijo de Dios: yo soy del pueblo de
+de ustedes”. La verdadera fe hace decir al hijo de Dios: “yo soy del pueblo de
 
-Dios, mi alma est ligada a ellos en cualquier circunstancia. A dondequiera
+Dios, mi alma está ligada a ellos en cualquier circunstancia”. “A dondequiera
 
-que t fueres, ir yo, y dondequiera que vivieres, vivir. Tu pueblo ser mi
+que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi
 
-pueblo, y tu Dios mi Dios. Donde t murieres, morir yo, y all ser sepultado.
+pueblo, y tu Dios mi Dios. Donde tú murieres, moriré yo, y allí seré sepultado”.
 
-En el caso de Jos su fe
+En el caso de José su fe
 
 le condujo a
 
-una abierta confesin de su
+una abierta confesión de su
 
 confianza en la promesa de Dios.
 
 En
 
-su lecho de muerte dijo: Yo voy a morir; mas Dios ciertamente os visitar, y
+su lecho de muerte dijo: “Yo voy a morir; mas Dios ciertamente os visitará, y
 
-os har subir de esta tierra. Tambin dijo: Los traer a la tierra que jur a
+os hará subir de esta tierra”. También dijo: “Los traerá a la tierra que juró a
 
-Abraham, a Isaac y a Jacob. La fe no puede estar muda. He sabido que su lengua
+Abraham, a Isaac y a Jacob”. La fe no puede estar muda. He sabido que su lengua
 
 ha estado callada debido a la desconfianza, pero al final se ha visto obligada
 
-a hablar; y, hermanos mos, por qu la fe de ustedes no habra de hablar ms a
+a hablar; y, hermanos míos, żpor qué la fe de ustedes no habría de hablar más a
 
-menudo ya que su voz es dulce y su faz es majestuosa? Ninguna lengua es ms
+menudo ya que su voz es dulce y su faz es majestuosa? Ninguna lengua es más
 
-dulce para el odo de Cristo ni ms potente para los corazones de los hombres
+dulce para el oído de Cristo ni más potente para los corazones de los hombres
 
 que la lengua de la verdadera fe. Si su fe fuera real, aunque pudieran ocultar
 
-por un tiempo su luz debajo de un almud no seran capaces de hacerlo siempre
+por un tiempo su luz debajo de un almud no serían capaces de hacerlo siempre
 
-por largo tiempo, sino que seran compelidos a decir: yo creo el Evangelio de
+por largo tiempo, sino que serían compelidos a decir: “yo creo el Evangelio de
 
-Cristo; yo creo en la promesa de Dios. l guardar Su pacto, y yo confieso ser
+Cristo”; yo creo en la promesa de Dios. Él guardará Su pacto, y yo confieso ser
 
-un creyente en Su verdad. Habiendo declarado as su fe, Jos mostr en la
+un creyente en Su verdad”. Habiendo declarado así su fe, José mostró en la
 
-prctica que pretenda hacer la confesin, que no era un asunto de forma sino
+práctica que pretendía hacer la confesión, que no era un asunto de forma sino
 
-un asunto del corazn. Yo no s de qu mejor manera podra haber mostrado su fe
+un asunto del corazón. Yo no sé de qué mejor manera podría haber mostrado su fe
 
-prctica en el hecho de que Dios sacara al pueblo de Egipto que diciendo:
+práctica en el hecho de que Dios sacaría al pueblo de Egipto que diciendo:
 
-Guarden mis huesos aqu, no los entierren hasta que ustedes mismos vayan a
+“Guarden mis huesos aquí, no los entierren hasta que ustedes mismos vayan a
 
-Canan una vez que hayan salido de Egipto para siempre y tomado posesin del
+Canaán una vez que hayan salido de Egipto para siempre y tomado posesión del
 
-pas de su pacto. El creyente en Dios encontrar maneras prcticas de
+país de su pacto”. El creyente en Dios encontrará maneras prácticas de
 
-demostrar su fe; la declarar mediante una abierta confesin, pero tambin la
+demostrar su fe; la declarará mediante una abierta confesión, pero también la
 
-manifestar escogiendo alguna forma de servicio en la que su fe ser puesta a
+manifestará escogiendo alguna forma de servicio en la que su fe será puesta a
 
-prueba; o si le fuese asignada alguna afliccin de parte de Dios, la aceptar
+prueba; o si le fuese asignada alguna aflicción de parte de Dios, la aceptará
 
-alegremente, esperando que Dios le dar la fuerza necesaria para poder hacer
+alegremente, esperando que Dios le dará la fuerza necesaria para poder hacer
 
-frente a la emergencia, y as su fe triunfar en la tribulacin. La fe que no
+frente a la emergencia, y así su fe triunfará en la tribulación. La fe que no
 
 se demuestra por obras es una fe que ha de ser temida. Si tu fe no te hace
 
-hablar nunca por tu Dios o servirle, es una fe bastarda, una presuncin innoble
+hablar nunca por tu Dios o servirle, es una fe bastarda, una presunción innoble
 
-que arruinar tu alma; no vino nunca de Dios y no te llevar a Dios. Pero Jos
+que arruinará tu alma; no vino nunca de Dios y no te llevará a Dios. Pero José
 
-era muy prctico, tan prctico como las circunstancias le permitan serlo.
+era muy práctico, tan práctico como las circunstancias le permitían serlo.
 
-Adems, noten que
+Además, noten que
 
-poseyendo l mismo la fe,
+poseyendo él mismo la fe,
 
-Jos alentaba
+José alentaba
 
 la fe de otros.
 
 No se puede decir de nadie que tiene una fe real si no se
 
-preocupa porque la fe pueda ser encontrada en los corazones de sus prjimos.
+preocupa porque la fe pueda ser encontrada en los corazones de sus prójimos.
 
-Pero, dices t: Qu hizo Jos para alentar la fe de otros? Bien, hizo que
+Pero, dices tú: “żQué hizo José para alentar la fe de otros?” Bien, hizo que
 
-sus huesos se convirtieran en un sermn permanente para los hijos de Israel.
+sus huesos se convirtieran en un sermón permanente para los hijos de Israel.
 
-Leemos que fueron embalsamados y puestos en un atad en Egipto, y as
+Leemos que fueron embalsamados y puestos en un ataúd en Egipto, y así
 
-estuvieron siempre bajo la custodia de las tribus. Qu quera decir eso? Cada
+estuvieron siempre bajo la custodia de las tribus. żQué quería decir eso? Cada
 
-vez que un israelita se acordaba de los huesos de Jos, pensaba: Hemos de
+vez que un israelita se acordaba de los huesos de José, pensaba: “Hemos de
 
-salir de este pas algn da. Tal vez se tratara de un hombre que prosperaba en
+salir de este país algún día”. Tal vez se tratara de un hombre que prosperaba en
 
-los negocios, que acumulaba riquezas en Egipto; pero se dira a s mismo:
+los negocios, que acumulaba riquezas en Egipto; pero se diría a sí mismo:
 
-tendr que despedirme de todo esto; los huesos de Jos han de ser trasladados;
+“tendré que despedirme de todo esto; los huesos de José han de ser trasladados;
 
-no he de quedarme aqu para siempre. Y luego, mientras actuaba como una
+no he de quedarme aquí para siempre”. Y luego, mientras actuaba como una
 
-advertencia, su cuerpo servira tambin de motivacin, pues cuando los
+advertencia, su cuerpo serviría también de motivación, pues cuando los
 
 capataces comenzaron a afligir al pueblo, y su tarea de ladrillos fue
 
-incrementada, el deprimido israelita dira: no voy a salir nunca de Egipto.
+incrementada, el deprimido israelita diría: no voy a salir nunca de Egipto”.
 
-Oh, pero otros diran: Jos crea que lo haramos; all estn todava sus
+Oh, pero otros dirían: “José creía que lo haríamos; allí están todavía sus
 
-huesos insepultos. l nos ha legado la seguridad de su confianza en que Dios, a
+huesos insepultos. Él nos ha legado la seguridad de su confianza en que Dios, a
 
-su tiempo, sacara a Su pueblo de esta casa de servidumbre. Me parece a m que
+su tiempo, sacaría a Su pueblo de esta casa de servidumbre. Me parece a mí que
 
-Jos haba pensado que esta disposicin era lo mejor que poda hacer en general
+José había pensado que esta disposición era lo mejor que podía hacer en general
 
 para que los israelitas recordaran perpetuamente que eran forasteros y
 
-peregrinos y para animarlos en la conviccin de que a su tiempo seran liberados
+peregrinos y para animarlos en la convicción de que a su tiempo serían liberados
 
-de la casa de servidumbre y establecidos en la tierra que flua leche y miel.
+de la casa de servidumbre y establecidos en la tierra que fluía leche y miel.
 
-La fe verdadera busca propagarse en los corazones de otros. Es denodada, vida,
+La fe verdadera busca propagarse en los corazones de otros. Es denodada, ávida,
 
-intensa, si por cualquier medio puede esparcir un puado de la simiente santa
+intensa, si por cualquier medio puede esparcir un puńado de la simiente santa
 
 que caiga en buena tierra, y glorifique a Dios. Es una buena prueba de tu propia
 
-fe cuando te entregas a promover la fe de los dems.
+fe cuando te entregas a promover la fe de los demás.
 
-Noten, tambin, que la
+Noten, también, que la
 
-fe de Jos
+fe de José
 
 lo condujo a poner la mira en
 
 las espiritualidades del pacto.
 
-Jos no tena nada terrenal que ganar al
+José no tenía nada terrenal que ganar al
 
-hacer que sus huesos fueran enterrados en Canan ms bien que en Egipto; eso no
+hacer que sus huesos fueran enterrados en Canaán más bien que en Egipto; eso no
 
 es algo que importe mucho para un hombre moribundo. Es natural que nos guste ser
 
-enterrados con nuestros parientes, pero por otra parte querramos ser
+enterrados con nuestros parientes, pero por otra parte querríamos ser
 
-enterrados cuanto antes despus de la muerte. Ninguno de nosotros deseara
+enterrados cuanto antes después de la muerte. Ninguno de nosotros desearía
 
 voluntariamente que sus huesos permaneciesen insepultos durante algunos cientos
 
-de aos con el objeto de que puedan llegar finalmente al sepulcro de la
+de ańos con el objeto de que puedan llegar finalmente al sepulcro de la
 
-familia. Yo creo que Jos no tena ojos para las meras secularidades del pacto,
+familia. Yo creo que José no tenía ojos para las meras secularidades del pacto,
 
-sino que tena puesta la mira en las bendiciones espirituales que son reveladas
+sino que tenía puesta la mira en las bendiciones espirituales que son reveladas
 
-en Jess, la grandiosa simiente de Abraham. Eso lo haca decir: yo no soy
+en Jesús, la grandiosa simiente de Abraham. Eso lo hacía decir: “yo no soy
 
-ningn egipcio, soy uno de la simiente que el Seor ha escogido; yo espero la
+ningún egipcio, soy uno de la simiente que el Seńor ha escogido; yo espero la
 
-venida del Mesas. Tengo parte y suerte en el pueblo escogido de Dios; voy a
+venida del Mesías. Tengo parte y suerte en el pueblo escogido de Dios; voy a
 
-reclamar eso, voy a reclamarlo no slo para m, sino tambin para mis hijos y
+reclamar eso, voy a reclamarlo no sólo para mí, sino también para mis hijos y
 
-para mi casa. En la providencia de Dios, sin ninguna culpa de su parte, Jos
+para mi casa”. En la providencia de Dios, sin ninguna culpa de su parte, José
 
-haba desposado a una mujer egipcia; Manass y Efran eran, por tanto, egipcios
+había desposado a una mujer egipcia; Manasés y Efraín eran, por tanto, egipcios
 
 a medias, y si el padre hubiese sido enterrado en Egipto, los hijos hubieran
 
-podido apegarse a Egipto y separarse de Israel. Jos parece decirles: No,
+podido apegarse a Egipto y separarse de Israel. José parece decirles: “No,
 
-hijos mos, ustedes no son egipcios, ustedes son israelitas como su padre; no
+hijos míos, ustedes no son egipcios, ustedes son israelitas como su padre; no
 
-entierren jams mis huesos en Egipto; los insto a que no los entierren nunca
+entierren jamás mis huesos en Egipto; los insto a que no los entierren nunca
 
 hasta que puedan depositarlos en el antiguo sepulcro de nuestra raza. Sean genuinamente
 
-israelitas, sanlo a carta cabal, pues la mejor posesin no es la que yo pueda
+israelitas, séanlo a carta cabal, pues la mejor posesión no es la que yo pueda
 
-legarles en Egipto, que se disipar, sino la herencia a la que les pido que
+legarles en Egipto, que se disipará, sino la herencia a la que les pido que
 
-miren es la herencia espiritual que me alegrara que recibieran. Manass y
+miren es la herencia espiritual que me alegraría que recibieran. Manasés y
 
-Efran, mis huesos los instarn a que no se vuelvan egipcios, a que no se
+Efraín, mis huesos los instarán a que no se vuelvan egipcios, a que no se
 
-conformen al mundo ni busquen su reposo aqu; los huesos de su padre han de
+conformen al mundo ni busquen su reposo aquí; los huesos de su padre han de
 
-atraerlos hacia Canan; no descansen nunca hasta que sientan que tienen un
+atraerlos hacia Canaán; no descansen nunca hasta que sientan que tienen un
 
-inters en las bendiciones espirituales del pacto.
+interés en las bendiciones espirituales del pacto.
 
-Adems me parece que la
+Además me parece que la
 
-fe de Jos respecto a sus huesos insepultos se manifestaba
+fe de José respecto a sus huesos insepultos se manifestaba
 
-en su disposicin a esperar el tiempo de Dios
+en su disposición a esperar el tiempo de Dios
 
 para recibir la
 
-bendicin esperada. Dijo l: Yo creo que ser enterrado en Macpela, y yo creo
+bendición esperada. Dijo él: “Yo creo que seré enterrado en Macpela, y yo creo
 
-que mi pueblo saldr de Egipto. Lo creo y estoy dispuesto a esperar. Todo ser
+que mi pueblo saldrá de Egipto. Lo creo y estoy dispuesto a esperar”. Todo ser
 
-humano al morir quiere ser enterrado decentemente y cuanto antes. Quin
+humano al morir quiere ser enterrado decentemente y cuanto antes. żQuién
 
-querra que sus huesos quedaran regados por todas partes? Pero este hombre est
+querría que sus huesos quedaran regados por todas partes? Pero este hombre está
 
-dispuesto a esperar, a esperar para su funeral, y seguir esperando, sin
+dispuesto a esperar, a esperar para su funeral, y seguirá esperando, sin
 
-importar cun prolongado sea el tiempo de la cautividad de Israel. Es algo
+importar cuán prolongado sea el tiempo de la cautividad de Israel. Es algo
 
-grandioso tener una fe paciente. Es ms fcil decir que hacer esto: Estad firmes,
+grandioso tener una fe paciente. Es más fácil decir que hacer esto: “Estad firmes,
 
-y ved la salvacin de Dios. El que creyere, no se apresure. Nosotros tenemos
+y ved la salvación de Dios”. “El que creyere, no se apresure”. Nosotros tenemos
 
-mayormente una prisa pueril. Quisiramos estar en el cielo maana pero si
+mayormente una prisa pueril. Quisiéramos estar en el cielo mańana pero si
 
-fusemos sabios deberamos estar contentos de quedarnos afuera hasta que Dios
+fuésemos sabios deberíamos estar contentos de quedarnos afuera hasta que Dios
 
-nos permita entrar. Quisiramos experimentar la resurreccin maana, y muchos
+nos permita entrar. Quisiéramos experimentar la resurrección mańana, y muchos
 
-ansan la venida de Cristo cuanto antes. Espera la fecha establecida por el
+ansían la venida de Cristo cuanto antes. Espera la fecha establecida por el
 
-Seor, oh impaciente rezongn; ten un espritu tranquilo y un corazn apacible
+Seńor, oh impaciente rezongón; ten un espíritu tranquilo y un corazón apacible
 
-pues la visin no se demorar. Debes estar dispuesto a esperar. Debes estar
+pues la visión no se demorará. Debes estar dispuesto a esperar. Debes estar
 
 dispuesto a que tus huesos descansen en el polvo hasta que resuene la trompeta
 
-de la resurreccin, y si pudieras elegir al respecto, devuelve el poder de tu
+de la resurrección, y si pudieras elegir al respecto, devuelve el poder de tu
 
-eleccin al Seor en el cielo, pues l sabe lo que es mejor y lo ms
+elección al Seńor en el cielo, pues Él sabe lo que es mejor y lo más
 
-conveniente para ti. Me agrada la idea de un hombre que no poda esperar ya ms
+conveniente para ti. Me agrada la idea de un hombre que no podía esperar ya más
 
-en vida pues tena que morir, pero que demuestra la capacidad de espera de su
+en vida pues tenía que morir, pero que demuestra la capacidad de espera de su
 
-espritu conviniendo que sus huesos esperaran hasta que pudieran ser
+espíritu conviniendo que sus huesos esperaran hasta que pudieran ser
 
-depositados en Canan. Ustedes notarn que tena el deseo de Jos, pues cuando
+depositados en Canaán. Ustedes notarán que tenía el deseo de José, pues cuando
 
-Israel sali de Egipto, vern en el captulo quince de xodo que Moiss se
+Israel salió de Egipto, verán en el capítulo quince de Éxodo que Moisés se
 
-ocup de llevar consigo los huesos de Jos; y, lo que es ms bien singular es
+ocupó de llevar consigo los huesos de José; y, lo que es más bien singular es
 
-que esos huesos no fueron enterrados tan pronto como entraron en Canan, ni
+que esos huesos no fueron enterrados tan pronto como entraron en Canaán, ni
 
-fueron enterrados durante las prolongadas guerras de Josu con las diversas tribus;
+fueron enterrados durante las prolongadas guerras de Josué con las diversas tribus;
 
-pero en los versculos finales del libro de Josu, cuando casi toda la tierra
+pero en los versículos finales del libro de Josué, cuando casi toda la tierra
 
-haba sido conquistada y el pas haba sido repartido entre las diferentes
+había sido conquistada y el país había sido repartido entre las diferentes
 
 tribus y
 
-haban tomado ya posesin de la
+habían tomado ya posesión de la
 
-tierra, entonces leemos que enterraron los huesos de Jos en el campo de
+tierra, entonces leemos que enterraron los huesos de José en el campo de
 
-Siquem, en el lugar en que Abraham haba comprado para un sepulcro. Es como si
+Siquem, en el lugar en que Abraham había comprado para un sepulcro. Es como si
 
-los restos de Jos no pudieran ser sepultados antes que los israelitas hubieran
+los restos de José no pudieran ser sepultados antes que los israelitas hubieran
 
-conquistado el pas, antes que se establecieran y que el pacto se cumpliera;
+conquistado el país, antes que se establecieran y que el pacto se cumpliera;
 
-entonces tena que ser enterrado, pero no antes. Cun bendecida es la fe
+entonces tenía que ser enterrado, pero no antes. Cuán bendecida es la fe
 
-paciente que espera que Dios se tome Su tiempo, cree en l, y deja que l se
+paciente que espera que Dios se tome Su tiempo, cree en Él, y deja que Él se
 
 espere tanto como quiera.
 
@@ -1016,191 +1016,191 @@ Debo
 
 concluir abordando el tercer punto. Creo que tenemos en nuestro texto, queridos
 
-amigos, UN EJEMPLO A SEGUIR PARA NUESTRA FE SOBRE CMO ACTUAR CUANDO LLEGUE
+amigos, UN EJEMPLO A SEGUIR PARA NUESTRA FE SOBRE CÓMO ACTUAR CUANDO LLEGUE
 
-TAMBIN EL MOMENTO DE NUESTRA MUERTE.
+TAMBIÉN EL MOMENTO DE NUESTRA MUERTE.
 
 Imaginaremos que nuestra
 
-muerte est muy cercana, y esta idea ser literalmente verdadera para algunos,
+muerte está muy cercana, y esta idea será literalmente verdadera para algunos,
 
-y cierta para todos nosotros tarde o temprano. Cul habr de ser mi consuelo
+y cierta para todos nosotros tarde o temprano. żCuál habrá de ser mi consuelo
 
-cuando est a punto de morir? Vamos, permtanme preparar mi ltimo mensaje
+cuando esté a punto de morir? Vamos, permítanme preparar mi último mensaje
 
-antes de morir. Ahora reflexionen en esto. Primero, yo quisiera imitar a Jos,
+antes de morir. Ahora reflexionen en esto. Primero, yo quisiera imitar a José,
 
-extrayendo mi consuelo del pacto, pues eso hizo l. Ese mandamiento respecto a
+extrayendo mi consuelo del pacto, pues eso hizo él. Ese mandamiento respecto a
 
-sus huesos lo hizo nicamente porque crea que Dios guardara Su pacto con Su
+sus huesos lo hizo únicamente porque creía que Dios guardaría Su pacto con Su
 
-pueblo y que lo sacara de Egipto. Que ustedes y yo seamos capaces de decir con
+pueblo y que lo sacaría de Egipto. Que ustedes y yo seamos capaces de decir con
 
-David: No es as mi casa para con Dios; sin embargo, l ha hecho conmigo pacto
+David: “No es así mi casa para con Dios; sin embargo, él ha hecho conmigo pacto
 
-perpetuo, ordenado en todas las cosas, y ser guardado. Ah, alma ma!, esto
+perpetuo, ordenado en todas las cosas, y será guardado”. ˇAh, alma mía!, esto
 
-no es morir, sino slo un transitar de la tierra al cielo. Jess, quien es l
+no es morir, sino sólo un transitar de la tierra al cielo. Jesús, quien es Él
 
 mismo el pacto, alivia muy benditamente los lechos mortuorios de Sus santos. A
 
-un hombre de color negro le preguntaron despus de haber estado atendiendo a su
+un hombre de color negro le preguntaron después de haber estado atendiendo a su
 
-ministro una noche: Cmo est tu amo? l respondi: Se est muriendo lleno
+ministro una noche: “żCómo está tu amo?” Él respondió: “Se está muriendo lleno
 
-de vida. Es algo grandioso cuando tenemos disponible el pacto para pensar en
+de vida”. Es algo grandioso cuando tenemos disponible el pacto para pensar en
 
-l. Entonces t puedes morir lleno de vida; puedes desplazarte de esta vida
+él. Entonces tú puedes morir lleno de vida; puedes desplazarte de esta vida
 
 inferior estando lleno de vida eterna y antes que la vida temporal se hubiere
 
-desvanecido, de tal manera que nunca ests desprovisto de vida, pues la vida de
+desvanecido, de tal manera que nunca estés desprovisto de vida, pues la vida de
 
-la gracia se integra a la vida de la gloria, tal como el ro lo hace en el
+la gracia se integra a la vida de la gloria, tal como el río lo hace en el
 
-ocano.
+océano.
 
-Jos puede ser un
+José puede ser un
 
-ejemplo para nosotros en el sentido de que recibi el consuelo viendo el futuro
+ejemplo para nosotros en el sentido de que recibió el consuelo viendo el futuro
 
-de su pueblo. Ciertamente Dios os visitar, y os har subir de esta tierra a
+de su pueblo. “Ciertamente Dios os visitará, y os hará subir de esta tierra a
 
-la tierra que jur. Muy a menudo los pensamientos de un cristiano agonizante
+la tierra que juró”. Muy a menudo los pensamientos de un cristiano agonizante
 
-se ven turbados por la condicin de la iglesia de Cristo. Teme que das
+se ven turbados por la condición de la iglesia de Cristo. Teme que días
 
-tenebrosos estn cayendo sobre ella. Si es un ministro, pregunta ansiosamente:
+tenebrosos estén cayendo sobre ella. Si es un ministro, pregunta ansiosamente:
 
-qu har mi gente ahora que ya no pueda guiarlos y alimentarlos? No sern
+“żqué hará mi gente ahora que ya no pueda guiarlos y alimentarlos? żNo serán
 
-como un rebao sin pastor? Pero aqu intervendr la consolacin pues hay
+como un rebańo sin pastor?” Pero aquí intervendrá la consolación pues hay
 
-mejores das para la iglesia de Dios. Aunque los padres duerman:
+mejores días para la iglesia de Dios. Aunque los padres duerman:
 
-Todas las promesas en verdad estn por engendrar
+“Todas las promesas en verdad están por engendrar
 
-Un glorioso da de gracia.
+Un glorioso día de gracia”.
 
 Aunque, uno tras otro,
 
-todos nosotros moriremos, no hay das tenebrosos para nuestros descendientes,
+todos nosotros moriremos, no hay días tenebrosos para nuestros descendientes,
 
-sino que vienen das de brillantez. Aparezca en tus siervos tu obra, y tu
+sino que vienen días de brillantez. “Aparezca en tus siervos tu obra, y tu
 
-gloria sobre sus hijos. Preciso es que reine hasta que haya puesto a todos
+gloria sobre sus hijos”. “Preciso es que reine hasta que haya puesto a todos
 
-sus enemigos debajo de sus pies. Los reyes de las costas le han de reconocer,
+sus enemigos debajo de sus pies”. Los reyes de las costas le han de reconocer,
 
-y los merodeadores del desierto se postrarn delante de l. Jess el Cristo de
+y los merodeadores del desierto se postrarán delante de Él. Jesús el Cristo de
 
-Dios ha de ser Rey sobre toda la tierra, pues Dios lo ha jurado, diciendo: Y
+Dios ha de ser Rey sobre toda la tierra, pues Dios lo ha jurado, diciendo: ““Y
 
-ver toda carne la salvacin de Dios. Y se manifestar la gloria de Jehov, y
+verá toda carne la salvación de Dios”. “Y se manifestará la gloria de Jehová, y
 
-toda carne juntamente la ver; porque la boca de Jehov ha hablado. Con
+toda carne juntamente la verá; porque la boca de Jehová ha hablado”. Con
 
 pensamientos como esos en nuestras mentes, muy bien podemos cerrar nuestros
 
 ojos en la muerte con un canto en nuestros labios.
 
-Y luego, hermanos mos,
+Y luego, hermanos míos,
 
-tenemos otra esperanza ms brillante con la cual morir, si hemos de morir antes
+tenemos otra esperanza más brillante con la cual morir, si hemos de morir antes
 
-de que sea cumplida, y esa esperanza es: Cristo Jess, el Hijo de Dios, visitar
+de que sea cumplida, y esa esperanza es: Cristo Jesús, el Hijo de Dios, visitará
 
 a Su pueblo. Hermanos, la dichosa esperanza en la segunda venida de nuestro
 
-Seor Jesucristo puede iluminar la cmara de la muerte con esperanza. Tal como
+Seńor Jesucristo puede iluminar la cámara de la muerte con esperanza. Tal como
 
-dijo Jos: Dios ciertamente os visitar. Se aproxima el tiempo cuando el
+dijo José: “Dios ciertamente os visitará”. Se aproxima el tiempo cuando el
 
-Seor descender del cielo con voz de mando, con trompeta de arcngel y la voz
+Seńor descenderá del cielo con voz de mando, con trompeta de arcángel y la voz
 
 de Dios. Nuestro testimonio a la hora de la muerte debe ser con el fin de que,
 
-con toda seguridad, l viene pronto y Su recompensa est con l. Nosotros no
+con toda seguridad, Él viene pronto y Su recompensa está con Él. Nosotros no
 
-tenemos que poner la mira en el futuro, como el judo lo haca; l esperaba la
+tenemos que poner la mira en el futuro, como el judío lo hacía; él esperaba la
 
 primera venida, pero nosotros estamos pendientes de la segunda venida. Esto nos
 
-animar aun en nuestra partida, pues si muriramos antes de que l viniera, aun
+animará aun en nuestra partida, pues si muriéramos antes de que Él viniera, aun
 
-as tendremos parte en el esplendor, pues los muertos en Cristo resucitarn.
+así tendremos parte en el esplendor, pues los muertos en Cristo resucitarán.
 
 Podemos agregar a todo
 
 esto una esperanza respecto a nuestros huesos. Podemos decirles a nuestros
 
-llorosos parientes, cuando se renan en torno a nuestro lecho, que den a
+llorosos parientes, cuando se reúnan en torno a nuestro lecho, que den a
 
-nuestros huesos una sepultura decente; no necesitan hacer ostentacin de
+nuestros huesos una sepultura decente; no necesitan hacer ostentación de
 
 nuestros nombres, ni escribir nuestras imaginadas virtudes sobre la piedra;
 
 pero les diremos que resucitaremos, y que nos entregaremos al seno de nuestro
 
-Padre y nuestro Dios con la plena conviccin de que nuestro polvo ser vivificado.
+Padre y nuestro Dios con la plena convicción de que nuestro polvo será vivificado.
 
-Mis ojos lo vern en aquel da,
+“Mis ojos lo verán en aquel día,
 
-Vern al Dios que muri por m,
+Verán al Dios que murió por mí,
 
-Y todos mis huesos vivificados dirn:
+Y todos mis huesos vivificados dirán:
 
-Seor, quin hay como T?
+Seńor, żquién hay como Tú?”
 
-Yo no s cundo un testimonio
+Yo no sé cuándo un testimonio
 
-de la resurreccin pudiera sonar ms dulcemente que cuando brota de los labios
+de la resurrección pudiera sonar más dulcemente que cuando brota de los labios
 
-de un santo que est a punto de abandonar este cuerpo mortal para entrar en la
+de un santo que está a punto de abandonar este cuerpo mortal para entrar en la
 
 presencia de su Dios. Es bueno decir, al abandonar estas manos, y estos pies, y
 
-todos los miembros de esta estructura mortal: Hasta luego, pobre cuerpo, voy a
+todos los miembros de esta estructura mortal: “Hasta luego, pobre cuerpo, voy a
 
-regresar otra vez a ti; t sers sembrado en debilidad, pero resucitars en
+regresar otra vez a ti; tú serás sembrado en debilidad, pero resucitarás en
 
-poder; t has sido un amigo fiel y un siervo de mi alma, pero sers todava ms
+poder; tú has sido un amigo fiel y un siervo de mi alma, pero serás todavía más
 
-idneo para mi espritu cuando suene la trompeta y los muertos resuciten.
+idóneo para mi espíritu cuando suene la trompeta y los muertos resuciten”.
 
-Ojal que nos cuidemos de que nuestro ltimo acto sea un triunfo de la fe, el
+Ojalá que nos cuidemos de que nuestro último acto sea un triunfo de la fe, el
 
-acto culminante de nuestras vidas. Que Dios nos ayude que as sea!
+acto culminante de nuestras vidas. ˇQue Dios nos ayude que así sea!
 
 Amados, hay una triste
 
-reflexin, es decir, que no podemos esperar morir triunfantemente a menos que
+reflexión, es decir, que no podemos esperar morir triunfantemente a menos que
 
 vivamos obedientemente. No podemos esperar mostrar fe en los momentos de
 
-nuestra muerte si no tenemos fe ahora. Que Dios te conceda fe, oh incrdulo.
+nuestra muerte si no tenemos fe ahora. Que Dios te conceda fe, oh incrédulo.
 
-Buscador, no descanses hasta obtenerla, y que el Espritu de Dios te d la fe
+Buscador, no descanses hasta obtenerla, y que el Espíritu de Dios te dé la fe
 
 de los elegidos de Dios, para que viviendo puedas servir a Dios y muriendo
 
-puedas honrarlo tal como Jos lo hizo en la antigedad. Que el Seor los
+puedas honrarlo tal como José lo hizo en la antigüedad. Que el Seńor los
 
-bendiga, queridos amigos, por Jesucristo nuestro Seor. Amn.
+bendiga, queridos amigos, por Jesucristo nuestro Seńor. Amén.
 
 Porciones de
 
 la Escritura
 
-ledas antes
+leídas antes
 
-del sermn: Gnesis 49: 28-33;
+del sermón: Génesis 49: 28-33;
 
-Gnesis 50:
+Génesis 50:
 
 22-26; Hebreos 11.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 6/Diciembre/2012
 

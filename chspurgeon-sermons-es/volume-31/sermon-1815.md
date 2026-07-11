@@ -1,22 +1,22 @@
 # Sermón 1815 | Sermón 1815
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Gran
 
-Cumpleaos
+Cumpleańos
 
 Y
 
-Nuestra Mayora
+Nuestra Mayoría
 
 de Edad
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -24,201 +24,201 @@ DOMINGO 21 DE
 
 DICIEMBRE, 1884
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-As tambin
+“Así también
 
-nosotros, cuando ramos nios, estbamos en esclavitud bajo los rudimentos del
+nosotros, cuando éramos nińos, estábamos en esclavitud bajo los rudimentos del
 
-mundo. Pero cuando vino el cumplimiento del tiempo, Dios envi a su Hijo,
+mundo. Pero cuando vino el cumplimiento del tiempo, Dios envió a su Hijo,
 
 nacido de mujer y nacido bajo la ley, para que redimiese a los que estaban bajo
 
-la ley, a fin de que recibisemos la adopcin de hijos. Y por cuanto sois
+la ley, a fin de que recibiésemos la adopción de hijos. Y por cuanto sois
 
-hijos, Dios envi a vuestros corazones el Espritu de su Hijo, el cual clama:
+hijos, Dios envió a vuestros corazones el Espíritu de su Hijo, el cual clama:
 
-Abba, Padre! Glatas 4: 3-6.
+ˇAbba, Padre!” Gálatas 4: 3-6.
 
 El nacimiento de nuestro
 
-Seor Jesucristo en este mundo es un manantial de una dicha pura y sin mezcla.
+Seńor Jesucristo en este mundo es un manantial de una dicha pura y sin mezcla.
 
-Asociamos con Su crucifixin una buena dosis de dolorosa lamentacin, pero Su
+Asociamos con Su crucifixión una buena dosis de dolorosa lamentación, pero Su
 
-nacimiento en Beln nos provoca nicamente deleite. El cntico anglico era un
+nacimiento en Belén nos provoca únicamente deleite. El cántico angélico era un
 
-apropiado acompaamiento para ese dichoso acontecimiento, y la llenura de la
+apropiado acompańamiento para ese dichoso acontecimiento, y la llenura de la
 
 tierra de paz y de buena voluntad es una consecuencia apropiada de ese
 
-condescendiente hecho. Las estrellas de Beln no proyectan una aciaga luz. Podemos
+condescendiente hecho. Las estrellas de Belén no proyectan una aciaga luz. Podemos
 
-cantar con un gozo indiviso: Un nio nos es nacido, hijo nos es dado. Cuando
+cantar con un gozo indiviso: “Un nińo nos es nacido, hijo nos es dado”. Cuando
 
-el eterno Dios se inclin desde el cielo y asumi la naturaleza de Su propia
+el eterno Dios se inclinó desde el cielo y asumió la naturaleza de Su propia
 
-criatura que se haba rebelado en contra Suya, ese hecho no poda significar
+criatura que se había rebelado en contra Suya, ese hecho no podía significar
 
-ningn dao para el hombre. Que Dios asuma nuestra naturaleza no significa que
+ningún dańo para el hombre. Que Dios asuma nuestra naturaleza no significa que
 
-Dios est contra nosotros, sino que Dios est con nosotros. Podemos tomar al
+Dios esté contra nosotros, sino que Dios está con nosotros. Podemos tomar al
 
-nio en nuestros brazos y sentir que hemos visto la salvacin del Seor. No
+nińo en nuestros brazos y sentir que hemos visto la salvación del Seńor. No
 
-puede significar destruccin para los hombres. No me sorprende que los hombres
+puede significar destrucción para los hombres. No me sorprende que los hombres
 
-del mundo celebren el supuesto aniversario del gran cumpleaos como una gran
+del mundo celebren el supuesto aniversario del gran cumpleańos como una gran
 
 fiesta con villancicos y banquetes. Desconociendo por completo el significado
 
 espiritual del misterio, perciben, con todo, que significa el bien del hombre,
 
-y as responden al hecho a su tosca manera. Quienes no observamos ningn da
+y así responden al hecho a su tosca manera. Quienes no observamos ningún día
 
-que no hubiere sido establecido por el Seor, nos regocijamos continuamente en
+que no hubiere sido establecido por el Seńor, nos regocijamos continuamente en
 
-nuestro Prncipe de Paz y encontramos en la humanidad de nuestro Seor una
+nuestro Príncipe de Paz y encontramos en la humanidad de nuestro Seńor una
 
-fuente de consolacin.
+fuente de consolación.
 
 Para quienes constituyen
 
-verdaderamente el pueblo de Dios, la encarnacin es el motivo de una alegra
+verdaderamente el pueblo de Dios, la encarnación es el motivo de una alegría
 
 reflexiva que siempre crece conforme aumenta nuestro conocimiento de su
 
-significado, as como los ros se vuelven ms caudalosos gracias a muchos dbiles
+significado, así como los ríos se vuelven más caudalosos gracias a muchos débiles
 
-afluentes. El Nacimiento de Jess no slo nos trae esperanza, sino la certeza
+afluentes. El Nacimiento de Jesús no sólo nos trae esperanza, sino la certeza
 
-de buenas cosas. No slo consideramos que Cristo entra en una relacin con
+de buenas cosas. No sólo consideramos que Cristo entra en una relación con
 
-nuestra naturaleza, sino que establece una unin con nosotros, pues l se ha
+nuestra naturaleza, sino que establece una unión con nosotros, pues Él se ha
 
-convertido en una sola carne con nosotros por propsitos tan grandes como Su
+convertido en una sola carne con nosotros por propósitos tan grandes como Su
 
-amor. l es uno con todos los que hemos credo en Su nombre.
+amor. Él es uno con todos los que hemos creído en Su nombre.
 
 Consideremos a la luz de
 
 nuestro texto el efecto especial producido en la iglesia de Dios por la venida
 
-del Seor Jesucristo encarnado. Ustedes saben, amados, que Su segunda venida
+del Seńor Jesucristo encarnado. Ustedes saben, amados, que Su segunda venida
 
-producir un cambio maravilloso en la iglesia. Entonces los justos resplandecern
+producirá un cambio maravilloso en la iglesia. “Entonces los justos resplandecerán
 
-como el sol. Anhelamos Su segundo advenimiento para que la iglesia sea izada a
+como el sol”. Anhelamos Su segundo advenimiento para que la iglesia sea izada a
 
-una plataforma ms alta que la que ocupa ahora. Entonces los militantes se
+una plataforma más alta que la que ocupa ahora. Entonces los militantes se
 
-volvern triunfantes, y los que laboran arduamente se volvern exultantes. Ahora
+volverán triunfantes, y los que laboran arduamente se volverán exultantes. Ahora
 
 es el tiempo de la batalla, pero el segundo advenimiento es la victoria y el
 
-reposo. Hoy nuestro Rey nos enva al conflicto, pero pronto l reinar
+reposo. Hoy nuestro Rey nos envía al conflicto, pero pronto Él reinará
 
-gloriosamente en el monte Sion con Sus ancianos. Cuando l se manifieste,
+gloriosamente en el monte Sion con Sus ancianos. Cuando Él se manifieste,
 
-seremos semejantes a l, porque le veremos tal como l es. Entonces la esposa
+seremos semejantes a Él, porque le veremos tal como Él es. Entonces la esposa
 
-se adornar con sus joyas y estar preparada para su Esposo. Toda la creacin
+se adornará con sus joyas y estará preparada para su Esposo. Toda la creación
 
-que espera gime a una, y a una est en armona con los dolores de parto de la
+que espera gime a una, y a una está en armonía con los dolores de parto de la
 
-iglesia, pero entonces llegar a su tiempo de alumbramiento y entrar en la
+iglesia, pero entonces llegará a su tiempo de alumbramiento y entrará en la
 
 libertad gloriosa de los hijos de Dios. Esta es la promesa del segundo
 
 advenimiento.
 
-Pero, cul fue el
+Pero, żcuál fue el
 
-resultado del primer advenimiento? Tuvo algn impacto en la dispensacin de la
+resultado del primer advenimiento? żTuvo algún impacto en la dispensación de la
 
-iglesia de Dios? Lo tuvo, ms all de toda duda. Pablo nos dice aqu que ramos
+iglesia de Dios? Lo tuvo, más allá de toda duda. Pablo nos dice aquí que éramos
 
-nios, en esclavitud bajo los rudimentos del mundo, hasta que vino el
+nińos, en esclavitud bajo los rudimentos del mundo, hasta que vino el
 
-cumplimiento del tiempo cuando Dios envi a su Hijo, nacido de mujer y nacido
+cumplimiento del tiempo cuando “Dios envió a su Hijo, nacido de mujer y nacido
 
-bajo la ley. Algunos dirn: est hablando aqu de los judos; pero l nos
+bajo la ley”. Algunos dirán: “está hablando aquí de los judíos”; pero él nos
 
-previene expresamente en el captulo anterior que no hemos de dividir a la
+previene expresamente en el capítulo anterior que no hemos de dividir a la
 
-iglesia entre judos y gentiles. Para l la iglesia es una, y cuando dice que
+iglesia entre judíos y gentiles. Para él la iglesia es una, y cuando dice que
 
-estbamos en esclavitud, se est dirigiendo a los glatas cristianos, muchos de
+estábamos en esclavitud, se está dirigiendo a los gálatas cristianos, muchos de
 
-los cuales eran gentiles, pero no los considera ni como judos ni como
+los cuales eran gentiles, pero no los considera ni como judíos ni como
 
-gentiles, sino como parte de una iglesia de Dios nica e indivisible. En
+gentiles, sino como parte de una iglesia de Dios única e indivisible. En
 
-aquellas edades en las que la eleccin abrazaba principalmente a las tribus de
+aquellas edades en las que la elección abrazaba principalmente a las tribus de
 
-Israel, haba siempre algunos elegidos ubicados ms all de esa lnea visible,
+Israel, había siempre algunos elegidos ubicados más allá de esa línea visible,
 
-y en la mente de Dios el pueblo elegido no fue considerado nunca como judo o
+y en la mente de Dios el pueblo elegido no fue considerado nunca como judío o
 
-gentil, sino como uno en Cristo Jess. Entonces Pablo nos hace saber que la
+gentil, sino como uno en Cristo Jesús. Entonces Pablo nos hace saber que la
 
-iglesia hasta el momento de la venida de Cristo era como un nio de escuela
+iglesia hasta el momento de la venida de Cristo era como un nińo de escuela
 
-bajo tutores y ayos, o como un joven que no haba alcanzado la edad de la
+bajo tutores y ayos, o como un joven que no había alcanzado la edad de la
 
-discrecin y, por tanto, que era mantenido muy apropiadamente bajo ciertas restricciones.
+discreción y, por tanto, que era mantenido muy apropiadamente bajo ciertas restricciones.
 
-Cuando Jess vino, el gran da de Su nacimiento fue el da del cumplimiento de
+Cuando Jesús vino, el gran día de Su nacimiento fue el día del cumplimiento de
 
-la mayora de edad para la iglesia: entonces los creyentes ya no fueron nios,
+la mayoría de edad para la iglesia: entonces los creyentes ya no fueron nińos,
 
-sino que se convirtieron en hombres en Cristo Jess. Por medio de Su primer
+sino que se convirtieron en hombres en Cristo Jesús. Por medio de Su primer
 
-advenimiento, nuestro Seor hizo pasar a la iglesia de su minora de edad y de
+advenimiento, nuestro Seńor hizo pasar a la iglesia de su minoría de edad y de
 
-estar bajo tutela, a una condicin de madurez en la que fue capaz de tomar
+estar bajo tutela, a una condición de madurez en la que fue capaz de tomar
 
-posesin de la herencia y de reclamar sus derechos y libertades, y gozarlos.
+posesión de la herencia y de reclamar sus derechos y libertades, y gozarlos.
 
 Fue maravilloso pasar de estar bajo la ley como su ayo, a salir de su vara y su
 
-gobierno y llegar a la libertad y al poder de un heredero adulto; pero as fue
+gobierno y llegar a la libertad y al poder de un heredero adulto; pero así fue
 
 el cambio para los creyentes de tiempos antiguos y, en consecuencia, hubo una
 
-maravillosa diferencia entre los mayores del Antiguo Testamento y los ms
+maravillosa diferencia entre los mayores del Antiguo Testamento y los más
 
-pequeos del Nuevo. Entre los que nacen de mujer no se levant otro mayor que
+pequeńos del Nuevo. Entre los que nacen de mujer no se levantó otro mayor que
 
-Juan el Bautista, y sin embargo, el ms pequeo en el reino de los cielos mayor
+Juan el Bautista, y sin embargo, el más pequeńo en el reino de los cielos mayor
 
-es que l. Juan el Bautista puede ser comparado con un joven de diecinueve
+es que él. Juan el Bautista puede ser comparado con un joven de diecinueve
 
-aos, todava un infante en la ley, todava bajo su ayo, todava incapaz de tocar
+ańos, todavía un infante en la ley, todavía bajo su ayo, todavía incapaz de tocar
 
-su herencia; pero el ms pequeo creyente en Jess ha superado su minora de
+su herencia; pero el más pequeńo creyente en Jesús ha superado su minoría de
 
-edad, y ya no es esclavo, sino hijo; y si hijo, tambin heredero de Dios por
+edad, y “ya no es esclavo, sino hijo; y si hijo, también heredero de Dios por
 
-medio de Cristo.
+medio de Cristo”.
 
-Que el Espritu Santo
+Que el Espíritu Santo
 
 bendiga el texto para nosotros mientras lo usamos de esta manera. Primero,
 
 hemos de
 
-considerar la gozosa misin del
+considerar la gozosa misión del
 
-Hijo de Dios en s misma,
+Hijo de Dios en sí misma,
 
 y luego hemos de considerar
 
-el feliz resultado que ha provenido de esa misin,
+el feliz resultado que ha provenido de esa misión,
 
-segn est
+según está
 
 expresado en nuestro texto.
 
@@ -230,55 +230,55 @@ invito a CONSIDERAR
 
 LA GOZOSA
 
-MISIN
+MISIÓN
 
-DEL HIJO DIOS. El Seor del cielo ha venido a la tierra; Dios ha asumido la
+DEL HIJO DIOS. El Seńor del cielo ha venido a la tierra; Dios ha asumido la
 
-naturaleza humana. Aleluya!
+naturaleza humana. ˇAleluya!
 
-Esta grandiosa transaccin fue cumplida a su debido tiempo:
+Esta grandiosa transacción fue cumplida a su debido tiempo:
 
-Cuando
+“Cuando
 
-vino el cumplimiento del tiempo, Dios envi a su Hijo, nacido de mujer. El
+vino el cumplimiento del tiempo, Dios envió a su Hijo, nacido de mujer”. El
 
-tanque del tiempo tena que ser llenado por la sucesin de una edad tras otra,
+tanque del tiempo tenía que ser llenado por la sucesión de una edad tras otra,
 
-y cuando estuvo lleno hasta el borde, apareci el Hijo de Dios. Por qu el
+y cuando estuvo lleno hasta el borde, apareció el Hijo de Dios. Por qué el
 
-mundo debi permanecer en tinieblas durante cuatro mil aos, por qu debi
+mundo debió permanecer en tinieblas durante cuatro mil ańos, por qué debió
 
-transcurrir ese lapso para que la iglesia alcanzara su edad plena, no podramos
+transcurrir ese lapso para que la iglesia alcanzara su edad plena, no podríamos
 
-saberlo; lo que s se nos dice es que Jess fue enviado cuando vino el
+saberlo; lo que sí se nos dice es que Jesús fue enviado cuando vino el
 
-cumplimiento del tiempo. Nuestro Seor no vino antes de Su tiempo ni despus de
+cumplimiento del tiempo. Nuestro Seńor no vino antes de Su tiempo ni después de
 
-Su tiempo: l fue puntual a Su hora, y clam al momento: He aqu que vengo. Nosotros
+Su tiempo: Él fue puntual a Su hora, y clamó al momento: “He aquí que vengo”. Nosotros
 
 no podemos hurgar curiosamente en las razones por las que Cristo vino cuando lo
 
 hizo, pero podemos meditar con reverencia en ellas. El nacimiento de Cristo es
 
-la ms grande luz de la historia, el sol en los cielos de todos los tiempos. Es
+la más grande luz de la historia, el sol en los cielos de todos los tiempos. Es
 
-la estrella polar del destino humano, el punto esencial de la cronologa, el
+la estrella polar del destino humano, el punto esencial de la cronología, el
 
-lugar de reunin de las aguas del pasado y del futuro. Por qu tuvo lugar
+lugar de reunión de las aguas del pasado y del futuro. żPor qué tuvo lugar
 
-justo en aquel momento? Ciertamente as fue anunciado con antelacin. Haba
+justo en aquel momento? Ciertamente así fue anunciado con antelación. Había
 
-muchas profecas que apuntaban exactamente a esa hora. No los detendr con ellas
+muchas profecías que apuntaban exactamente a esa hora. No los detendré con ellas
 
-precisamente ahora; pero quienes estn familiarizados con las Escrituras del
+precisamente ahora; pero quienes estén familiarizados con las Escrituras del
 
-Antiguo Testamento sabrn bien que, como con igual nmero de dedos, apuntaban
+Antiguo Testamento sabrán bien que, como con igual número de dedos, apuntaban
 
-al tiempo cuando Siloh vendra y sera ofrecido el grandioso sacrificio. Vino en
+al tiempo cuando Siloh vendría y sería ofrecido el grandioso sacrificio. Vino en
 
-la hora sealada por Dios. El infinito Seor establece la fecha de cada evento.
+la hora seńalada por Dios. El infinito Seńor establece la fecha de cada evento.
 
-Todos los tiempos estn en Su mano. No hay hilos sueltos en la providencia de
+Todos los tiempos están en Su mano. No hay hilos sueltos en la providencia de
 
 Dios, no hay puntos de sutura que se suelten, no hay eventos que sean dejados
 
@@ -286,87 +286,87 @@ al azar. El gran reloj del universo marca un tiempo preciso y toda la
 
 maquinaria de la providencia se mueve con una puntualidad certera. Era de
 
-esperarse que el ms grande de todos los eventos fuera cronometrado muy precisa
+esperarse que el más grande de todos los eventos fuera cronometrado muy precisa
 
-y sabiamente, y as fue. Dios quiso que fuera donde fue y cuando fue, y esa
+y sabiamente, y así fue. Dios quiso que fuera donde fue y cuando fue, y esa
 
-voluntad es para nosotros la razn ltima.
+voluntad es para nosotros la razón última.
 
-Si pudiramos sugerir
+Si pudiéramos sugerir
 
-algunas razones que fueran apreciadas por nosotros mismos, deberamos ver la
+algunas razones que fueran apreciadas por nosotros mismos, deberíamos ver la
 
 fecha en referencia a la iglesia misma en cuanto al tiempo del cumplimiento de
 
-su mayora de edad. Hay una medida de razn en establecer la edad de veintin
+su mayoría de edad. Hay una medida de razón en establecer la edad de veintiún
 
-aos como el perodo de la mayora de edad de un hombre, pues entonces est
+ańos como el período de la mayoría de edad de un hombre, pues entonces está
 
-maduro y plenamente desarrollado. No sera sabio establecer que una persona
+maduro y plenamente desarrollado. No sería sabio establecer que una persona
 
-fuera mayor de edad a la edad de diez, u once o doce aos; cualquiera vera que
+fuera mayor de edad a la edad de diez, u once o doce ańos; cualquiera vería que
 
-esos aos pueriles seran inapropiados. Por otro lado, si no alcanzramos la
+esos ańos pueriles serían inapropiados. Por otro lado, si no alcanzáramos la
 
-mayora de edad hasta no cumplir los treinta aos, cualquiera vera que sera
+mayoría de edad hasta no cumplir los treinta ańos, cualquiera vería que sería
 
-una posposicin innecesaria y arbitraria. Ahora, si fusemos lo bastante
+una posposición innecesaria y arbitraria. Ahora, si fuésemos lo bastante
 
-sabios, veramos que la iglesia de Dios no habra podido tolerar la luz del
+sabios, veríamos que la iglesia de Dios no habría podido tolerar la luz del
 
-Evangelio antes del da de la venida de Cristo. Tampoco habra sido bueno
+Evangelio antes del día de la venida de Cristo. Tampoco habría sido bueno
 
-mantenerla en las sombras ms all de ese tiempo. Haba una adecuacin en
+mantenerla en las sombras más allá de ese tiempo. Había una adecuación en
 
 cuanto a la fecha que no podemos entender plenamente porque no tenemos los
 
-medios de formarnos un clculo tan definitivo de la vida de una iglesia como de
+medios de formarnos un cálculo tan definitivo de la vida de una iglesia como de
 
-la vida de un hombre. Slo Dios conoce los tiempos y las sazones para una
+la vida de un hombre. Sólo Dios conoce los tiempos y las sazones para una
 
-iglesia y, sin duda, para l, los cuatro mil aos de la antigua dispensacin
+iglesia y, sin duda, para Él, los cuatro mil ańos de la antigua dispensación
 
-constituyeron un perodo apropiado para que la iglesia permaneciera en la
+constituyeron un período apropiado para que la iglesia permaneciera en la
 
 escuela y llevara el yugo en su juventud.
 
 El tiempo del
 
-cumplimiento de la mayora de edad de un hombre ha sido establecido por la ley
+cumplimiento de la mayoría de edad de un hombre ha sido establecido por la ley
 
-con referencia a quienes lo rodean. Para los sirvientes, no sera conveniente
+con referencia a quienes lo rodean. Para los sirvientes, no sería conveniente
 
-que el nio de cinco o seis aos fuera su patrn; en el mundo del comercio no
+que el nińo de cinco o seis ańos fuera su patrón; en el mundo del comercio no
 
-sera conveniente que un muchacho ordinario de diez o doce aos fuera un comerciante
+sería conveniente que un muchacho ordinario de diez o doce ańos fuera un comerciante
 
-por cuenta propia. Hay una adecuacin con referencia a parientes, vecinos y
+por cuenta propia. Hay una adecuación con referencia a parientes, vecinos y
 
-dependientes. As haba una adecuacin en el tiempo en que la iglesia cumpliera
+dependientes. Así había una adecuación en el tiempo en que la iglesia cumpliera
 
-su mayora de edad con relacin al resto de la humanidad. El mundo tiene que
+su mayoría de edad con relación al resto de la humanidad. El mundo tiene que
 
 conocer su oscuridad para poder valorar la luz cuando brilla. El mundo tiene
 
 que cansarse de su esclavitud para que pueda darle la bienvenida al grandioso
 
-Emancipador. El plan de Dios era que la sabidura del mundo demostrara ser
+Emancipador. El plan de Dios era que la sabiduría del mundo demostrara ser
 
-necedad. l tena la intencin de permitir que el intelecto y la habilidad se agotaran
+necedad. Él tenía la intención de permitir que el intelecto y la habilidad se agotaran
 
-y entonces enviara a Su Hijo. l permitira que el hombre comprobara que su
+y entonces enviaría a Su Hijo. Él permitiría que el hombre comprobara que su
 
-fuerza era una debilidad perfecta, y entonces l se convertira en su justicia
+fuerza era una debilidad perfecta, y entonces Él se convertiría en su justicia
 
 y su fuerza. Entonces, cuando un monarca gobernaba todas las tierras y cuando
 
-el templo de la guerra fue cerrado despus de aos de derramamiento de sangre,
+el templo de la guerra fue cerrado después de ańos de derramamiento de sangre,
 
-el Seor a quien buscaban los fieles apareci de pronto. Nuestro Seor y
+el Seńor a quien buscaban los fieles apareció de pronto. Nuestro Seńor y
 
 Salvador vino cuando el tiempo era cumplido y era como una cosecha lista para
 
-ser segada, y as vendr de nuevo cuando una vez ms la edad est madura y
+ser segada, y así vendrá de nuevo cuando una vez más la edad esté madura y
 
 lista para Su presencia.
 
@@ -374,107 +374,107 @@ Observen, en cuanto al
 
 primer advenimiento, que
 
-el Seor se
+el Seńor se
 
-mova en l hacia el hombre.
+movía en él hacia el hombre.
 
-Cuando vino el cumplimiento del tiempo, Dios
+“Cuando vino el cumplimiento del tiempo, Dios
 
-envi a su Hijo. Nosotros no nos movimos hacia el Seor, sino que el Seor se
+envió a su Hijo”. Nosotros no nos movimos hacia el Seńor, sino que el Seńor se
 
-movi hacia nosotros. Yo no encuentro que el mundo, en arrepentimiento, buscara
+movió hacia nosotros. Yo no encuentro que el mundo, en arrepentimiento, buscara
 
-a su Hacedor. No, antes bien, el propio Dios ofendido, en infinita compasin,
+a su Hacedor. No, antes bien, el propio Dios ofendido, en infinita compasión,
 
-rompi el silencio y vino para bendecir a Sus enemigos. Vean cun espontnea es
+rompió el silencio y vino para bendecir a Sus enemigos. Vean cuán espontánea es
 
-la gracia de Dios. Todas las cosas buenas comienzan con l.
+la gracia de Dios. Todas las cosas buenas comienzan con Él.
 
 Es muy deleitable que
 
-Dios demuestre un inters en cada etapa del crecimiento de Su pueblo, desde su
+Dios demuestre un interés en cada etapa del crecimiento de Su pueblo, desde su
 
-infancia espiritual hasta la edad adulta espiritual. As como Abraham hizo un
+infancia espiritual hasta la edad adulta espiritual. Así como Abraham hizo un
 
-gran banquete cuando fue destetado Isaac, as el Seor hace un banquete cuando
+gran banquete cuando fue destetado Isaac, así el Seńor hace un banquete cuando
 
-Su pueblo cumple la mayora de edad. Mientras eran como menores de edad bajo la
+Su pueblo cumple la mayoría de edad. Mientras eran como menores de edad bajo la
 
-ley de las observancias ceremoniales, l los condujo y los instruy. l saba
+ley de las observancias ceremoniales, Él los condujo y los instruyó. Él sabía
 
 que el yugo de la ley era para su bien, y los consolaba mientras lo soportaban;
 
-pero se alegr cuando lleg la hora para su gozo ms pleno. Oh, cun verazmente
+pero se alegró cuando llegó la hora para su gozo más pleno. Oh, cuán verazmente
 
-dijo el salmista: Cun preciosos me son, oh Dios, tus pensamientos! Cun
+dijo el salmista: “ˇCuán preciosos me son, oh Dios, tus pensamientos! ˇCuán
 
-grande es la suma de ellos! Declaren con gozo y alegra que las bendiciones de
+grande es la suma de ellos!” Declaren con gozo y alegría que las bendiciones de
 
-la nueva dispensacin bajo la cual estamos son los dones espontneos de Dios,
+la nueva dispensación bajo la cual estamos son los dones espontáneos de Dios,
 
 cuidadosamente otorgados con gran amor que hizo sobreabundar para con nosotros
 
-en toda sabidura e inteligencia. Cuando vino el cumplimiento del tiempo, Dios
+en toda sabiduría e inteligencia. Cuando vino el cumplimiento del tiempo, Dios
 
 mismo intervino para conceder a Su pueblo sus privilegios, pues no es voluntad
 
 Suya que nadie de Su pueblo se pierda de un solo punto de las bendiciones. No
 
-es Su deseo que seamos bebs; l quiere que seamos hombres. Si padecemos hambre
+es Su deseo que seamos bebés; Él quiere que seamos hombres. Si padecemos hambre
 
-no es por Su deseo, pues l quiere llenarnos con el pan del cielo.
+no es por Su deseo, pues Él quiere llenarnos con el pan del cielo.
 
-Observen la intervencin divina:
+Observen la intervención divina:
 
-Dios envi a su Hijo.
+“Dios envió a su Hijo”.
 
 Espero que no les parezca aburrido que me detenga para considerar la palabra:
 
-envi, Dios
+“envió”, “Dios
 
-envi
+envió
 
-a su Hijo. Esa
+a su Hijo”. Esa
 
-expresin me produce un gran placer, pues sella toda la obra de Jess. Todo lo
+expresión me produce un gran placer, pues sella toda la obra de Jesús. Todo lo
 
-que Cristo hizo, lo hizo por comisin y autoridad de Su Padre. El grandioso
+que Cristo hizo, lo hizo por comisión y autoridad de Su Padre. El grandioso
 
-Seor, cuando naci en Beln y asumi nuestra naturaleza, lo hizo bajo la autorizacin
+Seńor, cuando nació en Belén y asumió nuestra naturaleza, lo hizo bajo la autorización
 
-divina; y cuando lleg y distribuy dones a manos llenas entre los hijos de los
+divina; y cuando llegó y distribuyó dones a manos llenas entre los hijos de los
 
 hombres, era mensajero y embajador de Dios. Era el Plenipotenciario de
 
 la Corte
 
-del Cielo. Detrs de
+del Cielo. Detrás de
 
-cada palabra de Cristo est la garanta del Eterno. Detrs de cada promesa de
+cada palabra de Cristo está la garantía del Eterno. Detrás de cada promesa de
 
-Cristo hay un juramento de Dios. El Hijo no hace nada por S mismo, sino que el
+Cristo hay un juramento de Dios. El Hijo no hace nada por Sí mismo, sino que el
 
-Padre obra con l y en l.
+Padre obra con Él y en Él.
 
-Oh alma, cuando t te
+Oh alma, cuando tú te
 
-apoyas en Cristo no ests confiando en un Salvador amateur ni en un Redentor
+apoyas en Cristo no estás confiando en un Salvador amateur ni en un Redentor
 
-que no ha sido comisionado, sino en Uno que es enviado por el Altsimo y que,
+que no ha sido comisionado, sino en Uno que es enviado por el Altísimo y que,
 
-por tanto, est autorizado en cada cosa que realiza. El Padre dice: Este es mi
+por tanto, está autorizado en cada cosa que realiza. El Padre dice: “Este es mi
 
-Hijo amado; a l od, pues al orlo a l estn oyendo al Altsimo. Hemos de
+Hijo amado; a él oíd”, pues al oírlo a Él están oyendo al Altísimo. Hemos de
 
-encontrar dicha, entonces, en la venida de nuestro Seor a Beln, porque l fue
+encontrar dicha, entonces, en la venida de nuestro Seńor a Belén, porque Él fue
 
 enviado.
 
 Ahora dirijan su mirada
 
-a la siguiente palabra: Cuando vino el cumplimiento del tiempo, Dios envi a
+a la siguiente palabra: “Cuando vino el cumplimiento del tiempo, Dios envió a
 
-su Hijo.
+su Hijo”.
 
 Observen a
 
@@ -482,29 +482,29 @@ la Divina
 
 persona que fue enviada.
 
-Dios no envi a un ngel, ni a una criatura
+Dios no envió a un ángel, ni a una criatura
 
-exaltada, sino a su Hijo. Cmo puede haber un Hijo de Dios, no lo sabemos. La
+exaltada, sino a “su Hijo”. Cómo puede haber un Hijo de Dios, no lo sabemos. La
 
-eterna filiacin del Hijo ha de permanecer siendo por siempre uno de esos
+eterna filiación del Hijo ha de permanecer siendo por siempre uno de esos
 
-misterios en los cuales no podemos fisgar. Sera algo parecido al pecado de los
+misterios en los cuales no podemos fisgar. Sería algo parecido al pecado de los
 
-hombres de Bet-semes si furamos a abrir el arca de Dios para contemplar las
+hombres de Bet-semes si fuéramos a abrir el arca de Dios para contemplar las
 
-cosas profundas de Dios. Es sumamente cierto que Cristo es Dios, pues aqu l
+cosas profundas de Dios. Es sumamente cierto que Cristo es Dios, pues aquí Él
 
-es llamado su Hijo. l exista antes de haber nacido en este mundo, pues Dios
+es llamado “su Hijo”. Él existía antes de haber nacido en este mundo, pues Dios
 
-envi a Su Hijo. l ya exista pues de otra manera no poda haber sido
+“envió” a Su Hijo. Él ya existía pues de otra manera no podía haber sido
 
-enviado. Y a la vez que l es uno con el Padre, con todo, tiene que ser
+“enviado”. Y a la vez que Él es uno con el Padre, con todo, tiene que ser
 
 distinto del Padre y tiene que tener una personalidad separada de la del Padre,
 
-pues de otra manera no podra decirse que Dios envi a Su Hijo. Dios el Padre
+pues de otra manera no podría decirse que Dios envió a Su Hijo. Dios el Padre
 
-no naci de una mujer ni fue engendrado bajo la ley, sino nicamente Dios el
+no nació de una mujer ni fue engendrado bajo la ley, sino únicamente Dios el
 
 Hijo; por tanto, aunque sabemos y se nos asegura que Cristo es uno con el
 
@@ -514,67 +514,67 @@ Es de admirar que Dios
 
 haya engendrado un solo Hijo y que lo haya enviado para levantarnos. El
 
-mensajero para los hombres no puede ser otro que el propio Hijo de Dios. Qu
+mensajero para los hombres no puede ser otro que el propio Hijo de Dios. ˇQué
 
-dignidad hay aqu! Es el Seor de los ngeles quien es nacido de Mara; es l,
+dignidad hay aquí! Es el Seńor de los ángeles quien es nacido de María; es Él,
 
 sin quien nada de lo que ha sido hecho fue hecho, quien se digna ser mecido en el
 
-pecho de una mujer y ser envuelto en paales. Oh, la dignidad de esto y,
+pecho de una mujer y ser envuelto en pańales. ˇOh, la dignidad de esto y,
 
 consecuentemente, oh, su eficiencia! Quien ha venido a salvarnos no es ninguna
 
-dbil criatura como nosotros; quien ha asumido nuestra naturaleza no es un ser
+débil criatura como nosotros; quien ha asumido nuestra naturaleza no es un ser
 
-de limitada fuerza, tal como podran haberlo sido un ngel o un serafn; pero
+de limitada fuerza, tal como podrían haberlo sido un ángel o un serafín; pero
 
-l es el Hijo del Altsimo. Gloria sea dada a Su bendito nombre! Reflexionemos
+Él es el Hijo del Altísimo. ˇGloria sea dada a Su bendito nombre! Reflexionemos
 
 con deleite sobre esto.
 
-Si se hubiere enviado a algn profeta
+“Si se hubiere enviado a algún profeta
 
-Con las alegres nuevas de la salvacin,
+Con las alegres nuevas de la salvación,
 
 Quien oyera ese bendito evento
 
-Podra rehusar su amor ms tierno?
+żPodría rehusar su amor más tierno?
 
 Pero fue Aquel para quien en el cielo
 
 No cesan nunca los aleluyas;
 
-l, el poderoso Dios, nos fue dado,
+Él, el poderoso Dios, nos fue dado,
 
-Nos fue dado un Prncipe de Paz.
+Nos fue dado un Príncipe de Paz.
 
-Nadie sino Aquel que nos cre
+Nadie sino Aquel que nos creó
 
-Poda redimir del pecado y del infierno;
+Podía redimir del pecado y del infierno;
 
-Nadie sino l poda reinstalarnos
+Nadie sino Él podía reinstalarnos
 
-En el rango del cual camos.
+En el rango del cual caímos”.
 
-Prosigamos, adhirindonos
+Prosigamos, adhiriéndonos
 
-todava a las propias palabras del texto, pues son muy dulces.
+todavía a las propias palabras del texto, pues son muy dulces.
 
-Dios envi a Su Hijo en una humanidad real,
+Dios envió a Su Hijo en una humanidad real,
 
-hecho
+“hecho
 
-de mujer (made of a woman).
+de mujer” (“made of a woman”).
 
-La Versin
+La Versión
 
 Revisada
 
-lo expresa apropiadamente as: nacido de mujer.
+lo expresa apropiadamente así: “nacido de mujer”.
 
-Tal vez se pudieran aproximar ms a la esencia del original si dijeran: hecho
+Tal vez se pudieran aproximar más a la esencia del original si dijeran: “hecho
 
-para ser nacido de mujer, pues ambas ideas estn presentes, el
+para ser nacido de mujer”, pues ambas ideas están presentes, el
 
 factum (hecho)
 
@@ -582,127 +582,127 @@ y el
 
 natum (nacido),
 
-el siendo hecho y el siendo nacido. Cristo era
+el ‘siendo hecho’ y el ‘siendo nacido’. Cristo era
 
 real y verdaderamente de la sustancia de Su madre, tan ciertamente como lo es
 
-cualquier otro infante que nace en el mundo. Dios no cre la naturaleza humana
+cualquier otro infante que nace en el mundo. Dios no creó la naturaleza humana
 
 de Cristo aparte para luego transmitirla a la existencia mortal por algunos
 
-medios especiales; antes bien, Su Hijo fue hecho y fue nacido de mujer. l es,
+medios especiales; antes bien, Su Hijo fue hecho y fue nacido de mujer. Él es,
 
 por tanto, de nuestra raza, un hombre como nosotros y no un hombre de otra
 
-especie. No deben cometer ningn error al respecto. l no slo tiene una
+especie. No deben cometer ningún error al respecto. Él no sólo tiene una
 
 humanidad, mas tiene la humanidad nuestra, pues quien es nacido de mujer es un
 
-hermano para nosotros, independientemente de cundo naciera. Sin embargo, hay
+hermano para nosotros, independientemente de cuándo naciera. Sin embargo, hay
 
-una omisin que sin duda no fue intencional, al no mostrar cun santa era esa
+una omisión que sin duda no fue intencional, al no mostrar cuán santa era esa
 
-naturaleza humana, pues l es nacido de una mujer, no de un hombre. El Espritu
+naturaleza humana, pues Él es nacido de una mujer, no de un hombre. El Espíritu
 
-Santo cubri con Su sombra a
+Santo cubrió con Su sombra a
 
 la
 
 Virgen
 
-, y el Santo Ser naci de ella sin el pecado original
+, y “el Santo Ser” nació de ella sin el pecado original
 
-que pertenece a nuestra raza por descendencia natural. Aqu hay una humanidad
+que pertenece a nuestra raza por descendencia natural. Aquí hay una humanidad
 
 pura aunque es una verdadera humanidad; una verdadera humanidad aunque es libre
 
-de pecado. Nacido de mujer, l era corto de das, y hastiado de sinsabores;
+de pecado. Nacido de mujer, Él era corto de días, y hastiado de sinsabores;
 
-nacido de mujer, estaba rodeado de nuestras debilidades fsicas; pero como no
+nacido de mujer, estaba rodeado de nuestras debilidades físicas; pero como no
 
-era nacido de hombre, l estaba por completo desprovisto de toda tendencia al
+era nacido de hombre, Él estaba por completo desprovisto de toda tendencia al
 
-mal o al deleite en el mal. Yo les ruego que se regocijen en este ntimo
+mal o al deleite en el mal. Yo les ruego que se regocijen en este íntimo
 
 acercamiento de Cristo con nosotros. Hagan sonar las campanas, si no en los
 
-campanarios y en las torres, s dentro de sus corazones, pues nunca saludaron a
+campanarios y en las torres, sí dentro de sus corazones, pues nunca saludaron a
 
-sus odos noticias ms alegres que stas: que quien es el Hijo de Dios fue
+sus oídos noticias más alegres que éstas: que quien es el Hijo de Dios fue
 
-tambin nacido de mujer.
+también “nacido de mujer”.
 
 Se agrega adicionalmente
 
-que Dios envi a Su Hijo
+que Dios envió a Su Hijo
 
-hecho bajo la
+“hecho bajo la
 
-ley,
+ley”,
 
 o nacido bajo la ley, pues la palabra es la misma en ambos casos; y
 
-por los mismos medios por los que lleg a nacer de una mujer, l vino bajo la
+por los mismos medios por los que llegó a nacer de una mujer, Él vino bajo la
 
-ley. Y ahora admiren y maravllense! El Hijo de Dios vino bajo la ley. l era
+ley. ˇY ahora admiren y maravíllense! El Hijo de Dios vino bajo la ley. Él era
 
 el Legislador y el Promulgador, y era a la vez el Juez y el Ejecutor de la ley,
 
-y, con todo, l mismo vino bajo la ley. l estuvo bajo la ley desde que naci
+y, con todo, Él mismo vino bajo la ley. Él estuvo bajo la ley desde que nació
 
-de una mujer; eso lo hizo voluntariamente y, sin embargo, necesariamente. l
+de una mujer; eso lo hizo voluntariamente y, sin embargo, necesariamente. Él
 
-quiso ser hombre, y siendo un hombre acept la posicin y estuvo en el lugar
+quiso ser hombre, y siendo un hombre aceptó la posición y estuvo en el lugar
 
 del hombre como sujeto a la ley de la raza. Cuando lo tomaron y lo circuncidaron
 
-de acuerdo a la ley, se declar pblicamente que l estaba bajo la ley. Ustedes
+de acuerdo a la ley, se declaró públicamente que Él estaba bajo la ley. Ustedes
 
-pueden comprobar cun reverentemente observ los mandamientos de Dios durante
+pueden comprobar cuán reverentemente observó los mandamientos de Dios durante
 
-el resto de Su vida. l tena incluso una consideracin escrupulosa hacia la
+el resto de Su vida. Él tenía incluso una consideración escrupulosa hacia la
 
-ley ceremonial segn fue dada por Moiss. Despreciaba las tradiciones y las
+ley ceremonial según fue dada por Moisés. Despreciaba las tradiciones y las
 
-supersticiones de los hombres, pero tena un elevado respeto por la ley de la
+supersticiones de los hombres, pero tenía un elevado respeto por la ley de la
 
-dispensacin.
+dispensación.
 
-l vino bajo la ley
+Él vino bajo la ley
 
-moral para rendirle un servicio a Dios a nombre nuestro. Guard los
+moral para rendirle un servicio a Dios a nombre nuestro. Guardó los
 
-mandamientos de Su Padre. Obedeci plenamente la primera y la segunda tablas de
+mandamientos de Su Padre. Obedeció plenamente la primera y la segunda tablas de
 
-la ley, pues amaba a Dios con todo Su corazn y a Su prjimo como a S mismo. El
+la ley, pues amaba a Dios con todo Su corazón y a Su prójimo como a Sí mismo. “El
 
-hacer tu voluntad, Dios mo, me ha agradado dice l- y tu ley est en medio
+hacer tu voluntad, Dios mío, me ha agradado” –dice Él- “y tu ley está en medio
 
-de mi corazn. Poda decir verdaderamente del Padre yo hago siempre lo que le
+de mi corazón”. Podía decir verdaderamente del Padre “yo hago siempre lo que le
 
-agrada. Con todo, fue algo maravilloso que el Rey de reyes estuviera bajo la
+agrada”. Con todo, fue algo maravilloso que el Rey de reyes estuviera bajo la
 
-ley y, especialmente, que viniera bajo el castigo de la ley as como a su
+ley y, especialmente, que viniera bajo el castigo de la ley así como a su
 
-servicio. Estando en la condicin de hombre, se humill a s mismo, hacindose
+servicio. “Estando en la condición de hombre, se humilló a sí mismo, haciéndose
 
-obediente hasta la muerte, y muerte de cruz. Como era nuestra Fianza y
+obediente hasta la muerte, y muerte de cruz”. Como era nuestra Fianza y
 
-Sustituto, estuvo bajo la maldicin de la ley. Fue hecho por nosotros
+Sustituto, estuvo bajo la maldición de la ley. Fue hecho por nosotros
 
-maldicin. Habiendo tomado nuestro lugar y habiendo asumido nuestra naturaleza -aunque
+maldición. Habiendo tomado nuestro lugar y habiendo asumido nuestra naturaleza -aunque
 
-l mismo era sin pecado- se someti a las rigurosas demandas de la justicia, y
+Él mismo era sin pecado- se sometió a las rigurosas demandas de la justicia, y
 
-a su tiempo inclin Su cabeza a la sentencia de muerte. l puso su vida por
+a su tiempo inclinó Su cabeza a la sentencia de muerte. “Él puso su vida por
 
-nosotros. Muri, el justo por los injustos, para llevarnos a Dios. En este
+nosotros”. Murió, el justo por los injustos, para llevarnos a Dios. En este
 
-misterio de Su encarnacin, en esta maravillosa sustitucin de S mismo por los
+misterio de Su encarnación, en esta maravillosa sustitución de Sí mismo por los
 
 pecadores radica la base de ese portentoso progreso que hicieron los creyentes
 
-cuando Jess vino en la carne. Su advenimiento en forma humana comenz la era
+cuando Jesús vino en la carne. Su advenimiento en forma humana comenzó la era
 
 de la madurez espiritual y de la libertad.
 
@@ -714,11 +714,11 @@ tanto, yo les pido ahora, en segundo lugar, QUE CONTEMPLEN EL GOZOSO RESULTADO
 
 PRODUCIDO POR
 
-LA ENCARNACIN
+LA ENCARNACIÓN
 
 DE
 
-NUESTRO SEOR.
+NUESTRO SEŃOR.
 
 Debo regresar a lo que
 
@@ -726,33 +726,33 @@ dije antes:
 
 la venida de Cristo ha puesto
 
-un fin a la minora de edad de los creyentes.
+un fin a la minoría de edad de los creyentes.
 
 Los miembros del pueblo de
 
-Dios, entre los judos, eran hijos de Dios antes que Cristo viniera, pero eran
+Dios, entre los judíos, eran hijos de Dios antes que Cristo viniera, pero eran
 
-meros bebs o hijitos. Eran instruidos en los rudimentos del conocimiento
+meros bebés o hijitos. Eran instruidos en los rudimentos del conocimiento
 
-divino por medio de tipos, emblemas, sombras y smbolos; pero cuando Jess
+divino por medio de tipos, emblemas, sombras y símbolos; pero cuando Jesús
 
-vino, esa enseanza infantil lleg a su trmino. Las sombras desaparecen una
+vino, esa enseńanza infantil llegó a su término. Las sombras desaparecen una
 
-vez que la sustancia es revelada; los smbolos no son necesarios cuando la
+vez que la sustancia es revelada; los símbolos no son necesarios cuando la
 
-persona simbolizada est ella misma presente. Qu gran diferencia entre la
+persona simbolizada está ella misma presente. ˇQué gran diferencia entre la
 
-enseanza de nuestro Seor Jesucristo cuando nos muestra claramente las cosas
+enseńanza de nuestro Seńor Jesucristo cuando nos muestra claramente las cosas
 
-del Padre, y la enseanza de los sacerdotes cuando enseaban por medio de la
+del Padre, y la enseńanza de los sacerdotes cuando enseńaban por medio de la
 
-lana escarlata y el hisopo y la sangre! Cun diferente es la enseanza del
+lana escarlata y el hisopo y la sangre! ˇCuán diferente es la enseńanza del
 
-Espritu Santo impartida por los apstoles de nuestro Seor, y la instruccin
+Espíritu Santo impartida por los apóstoles de nuestro Seńor, y la instrucción
 
-mediante la utilizacin de comidas y bebidas y festivales! La antigua economa
+mediante la utilización de comidas y bebidas y festivales! La antigua economía
 
-est oscurecida por el humo, ocultada tras unas cortinas, protegida de un
+está oscurecida por el humo, ocultada tras unas cortinas, protegida de un
 
 acercamiento demasiado familiar; pero ahora llegamos valerosamente al trono y
 
@@ -760,113 +760,113 @@ con el rostro descubierto contemplamos como en un espejo la gloria de Dios. El
 
 Cristo ha venido, y ahora se abandona la escuela del kindergarten y se cambia
 
-por la universidad del Espritu, por quien somos enseados por el Seor para
+por la universidad del Espíritu, por quien somos enseńados por el Seńor para
 
 conocer como somos conocidos. El severo gobierno de la ley ha concluido. Entre
 
-los griegos se pensaba que los muchachos y los jvenes necesitaban una cruel
+los griegos se pensaba que los muchachos y los jóvenes necesitaban una cruel
 
-disciplina. Mientras asistan a la escuela eran tratados muy speramente por
+disciplina. Mientras asistían a la escuela eran tratados muy ásperamente por
 
-sus pedagogos y tutores. Se supona que un muchacho slo poda absorber la
+sus pedagogos y tutores. Se suponía que un muchacho sólo podía absorber la
 
-instruccin a travs de su piel, y que el rbol del conocimiento era
+instrucción a través de su piel, y que el árbol del conocimiento era
 
-originalmente un abedul y, por tanto, no se escatimaba la vara y no haba
+originalmente un abedul y, por tanto, no se escatimaba la vara y no había
 
-ninguna mitigacin de abnegaciones y penalidades. Esto representa adecuadamente
+ninguna mitigación de abnegaciones y penalidades. Esto representa adecuadamente
 
 la obra de la ley en aquellos creyentes primitivos. Pedro habla de ella como de
 
 un yugo que ni ellos ni sus padres eran capaces de llevar (Hechos 15: 10). La
 
-ley fue promulgada en medio de truenos y flamas de fuego, y era ms apropiada
+ley fue promulgada en medio de truenos y flamas de fuego, y era más apropiada
 
-para inspirar un sano temor que una confianza amorosa. Esas verdades ms dulces
+para inspirar un sano temor que una confianza amorosa. Esas verdades más dulces
 
-que son nuestra diaria consolacin eran casi desconocidas o poco se hablaba de
+que son nuestra diaria consolación eran casi desconocidas o poco se hablaba de
 
-ellas. Los profetas ciertamente hablaron de Cristo pero se dedicaban ms
+ellas. Los profetas ciertamente hablaron de Cristo pero se dedicaban más
 
 frecuentemente a proferir lamentaciones y denuncias contra hijos corruptores.
 
-Me parece que un da con Cristo equivaldra a medio siglo con Moiss. Cuando
+Me parece que un día con Cristo equivaldría a medio siglo con Moisés. Cuando
 
-Jess vino, los creyentes comenzaron a enterarse acerca del Padre y de Su amor,
+Jesús vino, los creyentes comenzaron a enterarse acerca del Padre y de Su amor,
 
-de Su gracia abundante y del reino que haba preparado para ellos. Entonces fueron
+de Su gracia abundante y del reino que había preparado para ellos. Entonces fueron
 
 reveladas las doctrinas del amor eterno y de la gracia redentora y de la
 
 fidelidad del pacto, y oyeron acerca de la ternura del Hermano Mayor, de la
 
-gracia del grandioso Padre y de la habitacin del siempre bendito Espritu en
+gracia del grandioso Padre y de la habitación del siempre bendito Espíritu en
 
 las personas. Era como si hubieran pasado de la servidumbre a la libertad, de
 
-la infancia a la edad adulta. Bienaventurados aquellos que en su da
+la infancia a la edad adulta. Bienaventurados aquellos que en su día
 
-compartieron el privilegio de la antigua economa, pues era una luz maravillosa
+compartieron el privilegio de la antigua economía, pues era una luz maravillosa
 
 comparada con las tinieblas paganas; sin embargo, a pesar de todo ello,
 
-comparada con la luz del medioda que Cristo trajo, era la simple luz de una
+comparada con la luz del mediodía que Cristo trajo, era la simple luz de una
 
 vela. La ley ceremonial sujetaba al hombre a una severa servidumbre: no debes
 
-comer esto, y no debes ir all, y no debes vestir esto y no debes recoger
+comer esto, y no debes ir allá, y no debes vestir esto y no debes recoger
 
-aquello. Estabas bajo restriccin por doquier y caminabas entre setos de
+aquello. Estabas bajo restricción por doquier y caminabas entre setos de
 
 espinas. Al israelita se le recordaba el pecado a cada instante y se le
 
-adverta de su perpetua tendencia a caer en una transgresin u otra. Era muy
+advertía de su perpetua tendencia a caer en una transgresión u otra. Era muy
 
-bueno que as fuera, pues es bueno que un hombre, mientras sea joven todava,
+bueno que así fuera, pues es bueno que un hombre, mientras sea joven todavía,
 
 tome el yugo y aprenda la obediencia; sin embargo, debe de haber sido
 
-fastidioso. Cuando Jess vino, cun feliz diferencia estableci. Pareca como
+fastidioso. Cuando Jesús vino, cuán feliz diferencia estableció. Parecía como
 
-un sueo de goce, demasiado lindo para ser verdad. Pedro no poda creerlo al
+un sueńo de goce, demasiado lindo para ser verdad. Pedro no podía creerlo al
 
-principio y requiri de una visin que le asegurara que era as. Cuando vio ese
+principio y requirió de una visión que le asegurara que era así. Cuando vio ese
 
-gran lienzo que descenda, lleno de todo tipo de criaturas vivientes y de
+gran lienzo que descendía, lleno de todo tipo de criaturas vivientes y de
 
-cuadrpedos terrestres, y cuando se le orden que matara y comiera, dijo: Seor,
+cuadrúpedos terrestres, y cuando se le ordenó que matara y comiera, dijo: “Seńor,
 
-no; porque ninguna cosa comn o inmunda he comido jams. Estaba en verdad
+no; porque ninguna cosa común o inmunda he comido jamás”. Estaba en verdad
 
-sorprendido cuando el Seor le dijo: Lo que Dios limpi, no lo llames t
+sorprendido cuando el Seńor le dijo: “Lo que Dios limpió, no lo llames tú
 
-comn. Ese primer orden de cosas consiste slo de comidas y bebidas, de
+común”. Ese primer orden de cosas “consiste sólo de comidas y bebidas, de
 
 diversas abluciones, y ordenanzas acerca de la carne, impuestas hasta el tiempo
 
-de reformar las cosas; pero Pablo dice: Yo s, y confo en el Seor Jess,
+de reformar las cosas”; pero Pablo dice: “Yo sé, y confío en el Seńor Jesús,
 
-que nada es inmundo en s mismo. La prohibicin respecto a meros puntos ceremoniales
+que nada es inmundo en sí mismo”. La prohibición respecto a meros puntos ceremoniales
 
-y mandamientos sobre asuntos carnales est abolida ahora y grande es nuestra
+y mandamientos sobre asuntos carnales está abolida ahora y grande es nuestra
 
-libertad; seramos necios en verdad si permitiramos quedarnos enredados de
+libertad; seríamos necios en verdad si permitiéramos quedarnos enredados de
 
-nuevo con el yugo de la servidumbre. Nuestra minora de edad termin cuando el
+nuevo con el yugo de la servidumbre. Nuestra minoría de edad terminó cuando el
 
-Seor, que habl por los profetas, en los postreros das envi a Su Hijo para
+Seńor, que habló por los profetas, en los postreros días envió a Su Hijo para
 
-guiarnos a la forma ms sublime de adultez espiritual.
+guiarnos a la forma más sublime de adultez espiritual.
 
 Se nos dice a
 
-continuacin que Cristo vino
+continuación que Cristo vino
 
 para redimir
 
 a los que estaban bajo la ley;
 
-es decir, el nacimiento de Jess, Su venida
+es decir, el nacimiento de Jesús, Su venida
 
 bajo la ley y Su cumplimiento de la ley, han liberado de la ley, como yugo de
 
@@ -876,49 +876,49 @@ una regla de vida; nos deleitamos en los mandamientos de Dios, que son santos,
 
 justos y buenos. Deseamos poder guardar cada precepto de la ley sin una sola
 
-omisin ni transgresin. Nuestro sincero deseo es el de alcanzar una perfecta
+omisión ni transgresión. Nuestro sincero deseo es el de alcanzar una perfecta
 
-santidad, pero no miramos en esa direccin para nuestra justificacin ante
+santidad, pero no miramos en esa dirección para nuestra justificación ante
 
-Dios. Si se nos preguntara hoy: esperan ser salvados por medio de ceremonias? Respondemos:
+Dios. Si se nos preguntara hoy: żesperan ser salvados por medio de ceremonias? Respondemos:
 
-Dios no lo quiera. Algunos parecieran fantasear que el bautismo y
+“Dios no lo quiera”. Algunos parecieran fantasear que el bautismo y
 
 la Cena
 
-del Seor han
+del Seńor han
 
-reemplazado a la circuncisin y a
+reemplazado a la circuncisión y a
 
 la
 
 Pascua
 
-, y que si bien los judos eran salvados por una forma
+, y que si bien los judíos eran salvados por una forma
 
 de ceremonial, nosotros hemos de ser salvos por medio de otra. Nunca demos
 
 cabida a esa idea; no, ni siquiera por una hora. El pueblo de Dios es salvo, no
 
-por ritos externos, ni formas ni supercheras sacerdotales, sino debido a que Dios
+por ritos externos, ni formas ni supercherías sacerdotales, sino debido a que “Dios
 
-envi a su Hijo, nacido de mujer y nacido bajo la ley, y l guard la ley de
+envió a su Hijo, nacido de mujer y nacido bajo la ley”, y Él guardó la ley de
 
 tal manera que, por fe, Su justicia cubre a todos los creyentes y no somos
 
 condenados por la ley. En cuanto a la ley moral, que es la norma de equidad
 
-para todo tiempo, no es un camino de salvacin para nosotros. Una vez estuvimos
+para todo tiempo, no es un camino de salvación para nosotros. Una vez estuvimos
 
-bajo esa ley y nos esforzbamos por guardarla con el objeto de ganar el favor
+bajo esa ley y nos esforzábamos por guardarla con el objeto de ganar el favor
 
-divino, pero ahora no tenemos un tal motivo. La palabra era: Haz esto, y
+divino, pero ahora no tenemos un tal motivo. La palabra era: “Haz esto, y
 
-vivirs, y por tanto, nosotros nos esforzbamos como esclavos para escapar del
+vivirás”, y por tanto, nosotros nos esforzábamos como esclavos para escapar del
 
-ltigo y ganar nuestro salario; pero ya no es ms as. Luego nos esforzamos por
+látigo y ganar nuestro salario; pero ya no es más así. Luego nos esforzamos por
 
-cumplir la voluntad del Seor para que l nos amara y para que fusemos
+cumplir la voluntad del Seńor para que Él nos amara y para que fuésemos
 
 recompensados por lo que hicimos; pero ahora no tenemos el designio de comprar
 
@@ -934,391 +934,391 @@ sino enteramente por la gracia inmerecida. Y si es por gracia, ya no es por
 
 obras, y es nuestro gozo y gloria que todo sea por gracia de principio a fin.
 
-La justicia que nos cubre fue obrada por Aquel que naci de mujer, y el mrito
+La justicia que nos cubre fue obrada por Aquel que nació de mujer, y el mérito
 
-por el cual entramos en el cielo es el mrito, no de nuestras propias manos o de
+por el cual entramos en el cielo es el mérito, no de nuestras propias manos o de
 
-nuestros propios corazones, sino de Aquel que nos am y se entreg por
+nuestros propios corazones, sino de Aquel que nos amó y se entregó por
 
-nosotros. Entonces somos redimidos de la ley porque nuestro Seor fue nacido
+nosotros. Entonces somos redimidos de la ley porque nuestro Seńor fue nacido
 
-bajo la ley; y nos volvemos hijos y ya no ms siervos porque el grandioso Hijo
+bajo la ley; y nos volvemos hijos y ya no más siervos porque el grandioso Hijo
 
 de Dios se hizo siervo en lugar nuestro.
 
-Qu!, dir alguien-
+“ˇQué!”, –dirá alguien-
 
-Entonces t no buscas hacer buenas obras? Ciertamente buscamos hacerlas.
+“żEntonces tú no buscas hacer buenas obras?” Ciertamente buscamos hacerlas.
 
-Antes hablbamos de ellas, pero ahora las realizamos realmente. El pecado no
+Antes hablábamos de ellas, pero ahora las realizamos realmente. El pecado no
 
-tendr dominio sobre nosotros, pues no estamos bajo la ley, sino bajo la
+tendrá dominio sobre nosotros, pues no estamos bajo la ley, sino bajo la
 
 gracia. Por la gracia de Dios deseamos abundar en obras de santidad, y entre
 
-ms podamos servir a nuestro Dios, ms felices somos. Pero esto no es para
+más podamos servir a nuestro Dios, más felices somos. Pero esto no es para
 
-salvarnos, pues ya somos salvos. Oh hijos de Agar, ustedes no pueden entender
+salvarnos, pues ya somos salvos. ˇOh hijos de Agar, ustedes no pueden entender
 
-la libertad del verdadero heredero, es decir, del hijo nacido segn la promesa!
+la libertad del verdadero heredero, es decir, del hijo nacido según la promesa!
 
-Ustedes que estn bajo esclavitud y sienten la fuerza de los motivos legales no
+Ustedes que están bajo esclavitud y sienten la fuerza de los motivos legales no
 
-pueden entender cmo hemos de servir a nuestro Padre que est en el cielo con
+pueden entender cómo hemos de servir a nuestro Padre que está en el cielo con
 
-todo nuestro corazn y con toda nuestra alma, no por lo que obtengamos a
+todo nuestro corazón y con toda nuestra alma, no por lo que obtengamos a
 
-cambio, sino porque l nos ha amado, y nos ha salvado prescindiendo de nuestras
+cambio, sino porque Él nos ha amado, y nos ha salvado prescindiendo de nuestras
 
-obras. Sin embargo, as es. Nos gustara abundar en santidad para Su honra, alabanza
+obras. Sin embargo, así es. Nos gustaría abundar en santidad para Su honra, alabanza
 
-y gloria, porque el amor de Cristo nos constrie. Qu privilegio es cesar del
+y gloria, porque el amor de Cristo nos constrińe. ˇQué privilegio es cesar del
 
-espritu de esclavitud por haber sido redimidos de la ley! Alabemos a nuestro
+espíritu de esclavitud por haber sido redimidos de la ley! Alabemos a nuestro
 
-Redentor con todo nuestro corazn.
+Redentor con todo nuestro corazón.
 
 Somos redimidos de la
 
-ley en cuanto a su operacin sobre nuestra mente. Ahora ya no engendra ningn
+ley en cuanto a su operación sobre nuestra mente. Ahora ya no engendra ningún
 
-miedo en nosotros. He odo que algunos hijos de Dios dicen a veces: Bien,
+miedo en nosotros. He oído que algunos hijos de Dios dicen a veces: “Bien,
 
-pero, no piensas que si caemos en pecado dejaremos de ser objeto del amor de
+pero, żno piensas que si caemos en pecado dejaremos de ser objeto del amor de
 
-Dios, y entonces pereceremos? Esto equivaldra a arrojar un estigma contra el
+Dios, y entonces pereceremos?” Esto equivaldría a arrojar un estigma contra el
 
 inmutable amor de Dios. Veo que cometes un error si piensas que un hijo es un
 
-siervo. Ahora, si tuvieras un siervo y l se comportara mal, le diras: Te doy
+siervo. Ahora, si tuvieras un siervo y él se comportara mal, le dirías: “Te doy
 
-aviso de que ests despedido. Aqu tienes tu salario. Tienes que buscarte otro
+aviso de que estás despedido. Aquí tienes tu salario. Tienes que buscarte otro
 
-seor. Podras hacerle eso a tu hijo? Podras hacerle eso a tu hija? Nunca
+seńor”. żPodrías hacerle eso a tu hijo? żPodrías hacerle eso a tu hija? “Nunca
 
-pensara en algo as, respondes. Tu hijo es tuyo de por vida. Tu muchacho se
+pensaría en algo así”, respondes. Tu hijo es tuyo de por vida. Tu muchacho se
 
-comport muy mal contigo, entonces, por qu no le diste su salario y lo
+comportó muy mal contigo, entonces, żpor qué no le diste su salario y lo
 
-despediste? T respondes que l no te sirve por salario, y que l es tu hijo y
+despediste? Tú respondes que él no te sirve por salario, y que él es tu hijo y
 
-no puede ser otra cosa. Justamente as es. Entonces has de reconocer siempre la
+no puede ser otra cosa. Justamente así es. Entonces has de reconocer siempre la
 
 diferencia entre un siervo y un hijo, y la diferencia entre el pacto de obras y
 
 el pacto de gracia.
 
-Yo s cmo un corazn
+Yo sé cómo un corazón
 
-ruin puede hacer mucho dao con esto, pero no puedo evitarlo. La verdad es la
+ruin puede hacer mucho dańo con esto, pero no puedo evitarlo. La verdad es la
 
-verdad. Acaso habra de rebelarse un hijo porque siempre ser un hijo? Lejos
+verdad. żAcaso habría de rebelarse un hijo porque siempre será un hijo? Lejos
 
 de ello, es precisamente eso lo que lo induce a sentir amor a cambio. El
 
 verdadero hijo de Dios es guardado del pecado por otras fuerzas superiores al
 
-miedo servil de ser echado fuera de las puertas de su Padre. Si ests bajo el
+miedo servil de ser echado fuera de las puertas de su Padre. Si estás bajo el
 
 pacto de obras, pon mucho cuidado, pues si no cumples con toda la justicia,
 
-perecers; si ests bajo ese pacto, a menos que sea perfecto, estars perdido; un
+perecerás; si estás bajo ese pacto, a menos que sea perfecto, estarás perdido; un
 
-pecado te destruir, un pensamiento pecaminoso te llevar a la ruina. Si no has
+pecado te destruirá, un pensamiento pecaminoso te llevará a la ruina. Si no has
 
 sido perfecto en tu obediencia, tienes que tomar tu salario y largarte. Si Dios
 
-trata contigo segn tus obras, no habr nada para ti excepto Echa a esta
+trata contigo según tus obras, no habrá nada para ti excepto “Echa a esta
 
-sierva y a su hijo. Pero si eres un hijo de Dios, eso es un asunto diferente;
+sierva y a su hijo”. Pero si eres un hijo de Dios, eso es un asunto diferente;
 
-todava sers Su hijo aun cuando l te corrija por tu desobediencia.
+todavía serás Su hijo aun cuando Él te corrija por tu desobediencia.
 
-Ah, -dice alguien-
+“Ah”, -dice alguien-
 
-entonces puedo vivir como me plazca. Escucha! Si eres un hijo de Dios, te
+“entonces puedo vivir como me plazca”. ˇEscucha! Si eres un hijo de Dios, te
 
-dir cmo te gustara vivir. Desearas vivir en perfecta obediencia a tu Padre,
+diré cómo te gustaría vivir. Desearías vivir en perfecta obediencia a tu Padre,
 
-y sera tu apasionado anhelo ser perfecto cada da, as como tu Padre que est
+y sería tu apasionado anhelo ser perfecto cada día, así como tu Padre que está
 
 en el cielo es perfecto. La naturaleza de hijos que la gracia implanta es una
 
-ley para s misma: el Seor pone Su temor en los corazones de los regenerados
+ley para sí misma: el Seńor pone Su temor en los corazones de los regenerados
 
-de tal manera que no se apartan de l. Habiendo nacido de nuevo y habiendo sido
+de tal manera que no se apartan de Él. Habiendo nacido de nuevo y habiendo sido
 
-introducido en la familia de Dios, le rendirs al Seor una obediencia que no
+introducido en la familia de Dios, le rendirás al Seńor una obediencia que no
 
-habras pensado rendirle si slo hubieras sido impelido por la idea de la ley y
+habrías pensado rendirle si sólo hubieras sido impelido por la idea de la ley y
 
-del castigo. El amor es una fuerza dominante, y quien siente su poder odiar
+del castigo. El amor es una fuerza dominante, y quien siente su poder odiará
 
-todo mal. Entre ms se vea que la salvacin es toda por gracia, ms profundo y
+todo mal. Entre más se vea que la salvación es toda por gracia, más profundo y
 
-ms potente ser nuestro amor, y ms trabajar por lo que es puro y santo. No
+más potente será nuestro amor, y más trabajará por lo que es puro y santo. No
 
-cites a Moiss por motivos de obediencia cristiana. No digas: El Seor me
+cites a Moisés por motivos de obediencia cristiana. No digas: “El Seńor me
 
-echar fuera a menos que haga esto y aquello. Tal pltica es de la sierva y de
+echará fuera a menos que haga esto y aquello”. Tal plática es de la sierva y de
 
 su hijo; pero es muy inapropiada en la boca de un heredero del cielo
 
-verdaderamente nacido de nuevo. Scala de tu boca. Si eres un hijo deshonras a
+verdaderamente nacido de nuevo. Sácala de tu boca. Si eres un hijo deshonras a
 
-tu Padre cuando piensas que l repudiara a los Suyos; te olvidas de tu
+tu Padre cuando piensas que Él repudiaría a los Suyos; te olvidas de tu
 
-condicin de heredero espiritual y de tu libertad cuando temes un cambio en el
+condición de heredero espiritual y de tu libertad cuando temes un cambio en el
 
-amor de Jehov. Est muy bien que un mero beb hable de esa ignorante manera, y
+amor de Jehová. Está muy bien que un mero bebé hable de esa ignorante manera, y
 
 no me sorprende que muchos profesantes no sepan nada mejor, pues muchos
 
-ministros slo son evanglicos a medias; pero ustedes, que se han convertido en
+ministros sólo son evangélicos a medias; pero ustedes, que se han convertido en
 
-hombres en Cristo y saben que l los ha redimido de la ley, no deberan
+hombres en Cristo y saben que Él los ha redimido de la ley, no deberían
 
-regresar a tal esclavitud. Dios envi a su Hijo, nacido de mujer y nacido bajo
+regresar a tal esclavitud. “Dios envió a su Hijo, nacido de mujer y nacido bajo
 
-la ley, para que redimiese a los que estaban bajo la ley.
+la ley, para que redimiese a los que estaban bajo la ley”.
 
-Para qu otras cosas
+żPara qué otras cosas
 
 vino
 
 ? Noten adicionalmente,
 
-a fin de que recibisemos la adopcin de hijos.
+“a fin de que recibiésemos la adopción de hijos”.
 
-El Seor
+El Seńor
 
-Jesucristo se encarn y vino para que Su pueblo pudiera realizar, disfrutar y
+Jesucristo se encarnó y vino para que Su pueblo pudiera realizar, disfrutar y
 
-apropiarse plenamente de la adopcin de hijos. Quiero que esta maana vean si
+apropiarse plenamente de “la adopción de hijos”. Quiero que esta mańana vean si
 
-pueden hacer eso. Que el Espritu Santo los capacite. Qu es recibir la
+pueden hacer eso. Que el Espíritu Santo los capacite. żQué es recibir la
 
-adopcin de hijos? Pues bien, es sentir: ahora estoy bajo el dominio del amor,
+adopción de hijos? Pues bien, es sentir: ahora estoy bajo el dominio del amor,
 
 como un amado hijo, que es a la vez amado y amoroso. Yo entro y salgo de la
 
-casa de mi Padre, no como un siervo temporal, llamado por el da o la semana,
+casa de mi Padre, no como un siervo temporal, llamado por el día o la semana,
 
 sino como un hijo en casa. No estoy buscando ser contratado como un siervo,
 
-pues estoy siempre con mi Padre, y todo lo que l tiene es mo. Mi Dios es mi
+pues estoy siempre con mi Padre, y todo lo que Él tiene es mío. Mi Dios es mi
 
-Padre y Su rostro me alegra. No le tengo miedo, antes bien, me deleito en l
+Padre y Su rostro me alegra. No le tengo miedo, antes bien, me deleito en Él
 
-pues nada me puede separar de l. Siento un perfecto amor que echa fuera al
+pues nada me puede separar de Él. Siento un perfecto amor que echa fuera al
 
-miedo, y me deleito en l. Intenta ahora, esta maana, entrar en ese espritu.
+miedo, y me deleito en Él. Intenta ahora, esta mańana, entrar en ese espíritu.
 
-Esa es la razn por la que Cristo vino en la carne: vino con el propsito de
+Esa es la razón por la que Cristo vino en la carne: vino con el propósito de
 
-que ustedes, pueblo Suyo, sean adoptados plenamente como hijos del Seor,
+que ustedes, pueblo Suyo, sean adoptados plenamente como hijos del Seńor,
 
-ejerciendo y disfrutando todos los privilegios que la condicin de hijos les
+ejerciendo y disfrutando todos los privilegios que la condición de hijos les
 
 proporciona.
 
-Y luego, a continuacin,
+Y luego, a continuación,
 
-ejerzan su condicin de herederos. Uno que es un hijo y que sabe que es un
+ejerzan su condición de herederos. Uno que es un hijo y que sabe que es un
 
-heredero de todas las propiedades de su padre, no padece en la pobreza ni acta
+heredero de todas las propiedades de su padre, no padece en la pobreza ni actúa
 
 como un mendigo. Considera que todo es suyo. Considera que la riqueza de su
 
-padre lo hace rico. No piensa que est robando si toma aquello que su padre le
+padre lo hace rico. No piensa que esté robando si toma aquello que su padre le
 
-ha heredado, sino que lo usa libremente. Yo deseara que los creyentes se
+ha heredado, sino que lo usa libremente. Yo desearía que los creyentes se
 
-aprovecharan de las promesas y de las bendiciones de su Dios. Srvanse con
+aprovecharan de las promesas y de las bendiciones de su Dios. Sírvanse con
 
-libertad, pues el Seor no dejar de darles ninguna cosa buena. Todas las cosas
+libertad, pues el Seńor no dejará de darles ninguna cosa buena. Todas las cosas
 
-son suyas; slo necesitan usar la mano de la fe. Pidan lo que quieran. Si se
+son suyas; sólo necesitan usar la mano de la fe. Pidan lo que quieran. Si se
 
-apropian de una promesa, eso no sera pillaje. Pueden tomarla sin temor y decir:
+apropian de una promesa, eso no sería pillaje. Pueden tomarla sin temor y decir:
 
-Esto es mo. Su adopcin conlleva grandes derechos; apresrense a usarlos. Si
+“Esto es mío”. Su adopción conlleva grandes derechos; apresúrense a usarlos. “Si
 
-hijos, tambin herederos; herederos de Dios y coherederos con Cristo. Entre
+hijos, también herederos; herederos de Dios y coherederos con Cristo”. Entre
 
-los hombres, los hijos son slo herederos -herederos en posesin- una vez que
+los hombres, los hijos son sólo herederos -herederos en posesión- una vez que
 
-el padre muere; pero nuestro Padre que est en el cielo vive y, sin embargo,
+el padre muere; pero nuestro Padre que está en el cielo vive y, sin embargo,
 
-tenemos plena herencia en l. El Seor Jesucristo fue nacido de mujer con el
+tenemos plena herencia en Él. El Seńor Jesucristo fue nacido de mujer con el
 
-propsito de que Su amado pueblo pudiera tomar posesin de su herencia de inmediato.
+propósito de que Su amado pueblo pudiera tomar posesión de su herencia de inmediato.
 
-Deberas sentir un dulce
+Deberías sentir un dulce
 
-gozo por la relacin perpetua que ahora ha sido establecida entre Dios y t,
+gozo por la relación perpetua que ahora ha sido establecida entre Dios y tú,
 
-pues Jess es tu hermano. T has sido adoptado, y Dios no ha cancelado nunca
+pues Jesús es tu hermano. Tú has sido adoptado, y Dios no ha cancelado nunca
 
-ninguna adopcin hasta este momento. Hay una regeneracin, pero no hay tal cosa
+ninguna adopción hasta este momento. Hay una regeneración, pero no hay tal cosa
 
 como que la vida recibida entonces se extinga. Si eres nacido para Dios, eres
 
-nacido para Dios. Las estrellas se podran convertir en carbones, y el sol y la
+nacido para Dios. Las estrellas se podrían convertir en carbones, y el sol y la
 
-luna podran convertirse en cogulos de sangre, pero el que es nacido de Dios
+luna podrían convertirse en coágulos de sangre, pero el que es nacido de Dios
 
-tiene una vida interior que no puede terminar nunca; l es un hijo de Dios, y
+tiene una vida interior que no puede terminar nunca; él es un hijo de Dios, y
 
-ser un hijo de Dios. Por tanto, dejen que ande por todos lados como un hijo,
+será un hijo de Dios. Por tanto, dejen que ande por todos lados como un hijo,
 
-como un heredero, como un prncipe de sangre real que tiene una relacin con el
+como un heredero, como un príncipe de sangre real que tiene una relación con el
 
-Seor que ni el tiempo ni la eternidad podran destruir jams. Esta es la razn
+Seńor que ni el tiempo ni la eternidad podrían destruir jamás. Esta es la razón
 
-por la que Jess fue nacido de una mujer y formado bajo la ley, para que
+por la que Jesús fue nacido de una mujer y formado bajo la ley, para que
 
 pudiera darnos a disfrutar la plenitud del privilegio de hijos adoptados.
 
-Sganme un poco ms por
+Síganme un poco más por
 
-un minuto. Lo siguiente que Cristo nos ha trado al ser nacido de mujer es: Por
+un minuto. Lo siguiente que Cristo nos ha traído al ser nacido de mujer es: “Por
 
 cuanto sois hijos, Dios
 
-envo a vuestros
+envío a vuestros
 
-corazones el Espritu de su Hijo.
+corazones el Espíritu de su Hijo”.
 
-Aqu hay dos envos. Dios envi a Su
+Aquí hay dos envíos. Dios envió a Su
 
-Hijo, y ahora enva a Su Espritu. Porque Cristo ha sido enviado, por eso el
+Hijo, y ahora envía a Su Espíritu. Porque Cristo ha sido enviado, por eso el
 
-Espritu es enviado; y ahora conocern la morada del Espritu Santo debido a la
+Espíritu es enviado; y ahora conocerán la morada del Espíritu Santo debido a la
 
-encarnacin de Cristo. El Espritu de luz, el Espritu de vida, el Espritu de
+encarnación de Cristo. El Espíritu de luz, el Espíritu de vida, el Espíritu de
 
-amor, el Espritu de libertad, el mismo Espritu que haba en Cristo est en
+amor, el Espíritu de libertad, el mismo Espíritu que había en Cristo está en
 
-ustedes. Ese mismo Espritu que descendi sobre Jess en las aguas del bautismo
+ustedes. Ese mismo Espíritu que descendió sobre Jesús en las aguas del bautismo
 
-ha descendido tambin sobre ustedes.
+ha descendido también sobre ustedes.
 
-T, oh hijo de Dios,
+Tú, oh hijo de Dios,
 
-tienes el Espritu de Dios como tu presente Gua y Consolador, y l estar
+tienes el Espíritu de Dios como tu presente Guía y Consolador, y Él estará
 
-contigo para siempre. La vida de Cristo es tu vida, y el Espritu de Cristo es
+contigo para siempre. La vida de Cristo es tu vida, y el Espíritu de Cristo es
 
-tu Espritu; por lo cual este da ha de ser sumamente feliz, pues no has
+tu Espíritu; por lo cual este día ha de ser sumamente feliz, pues no has
 
-recibido de nuevo el espritu de esclavitud para tener miedo, sino que has
+recibido de nuevo el espíritu de esclavitud para tener miedo, sino que has
 
-recibido el Espritu de adopcin.
+recibido el Espíritu de adopción.
 
-Aqu terminamos, pues
+Aquí terminamos, pues
 
-Jess ha venido
+Jesús ha venido
 
 para darnos el clamor,
 
-as
+así
 
-como el espritu de adopcin por el cual clamamos: Abba, Padre! De acuerdo a
+como el espíritu de adopción “por el cual clamamos: ˇAbba, Padre!” De acuerdo a
 
-tradiciones antiguas ningn esclavo poda decir: Abba, Padre!, y de acuerdo
+tradiciones antiguas ningún esclavo podía decir: “ˇAbba, Padre!”, y de acuerdo
 
-a la verdad segn es en Jess, nadie sino un hombre que es realmente un hijo de
+a la verdad según es en Jesús, nadie sino un hombre que es realmente un hijo de
 
-Dios y que ha recibido la adopcin, puede decir verdaderamente: Abba, Padre!
+Dios y que ha recibido la adopción, puede decir verdaderamente: “ˇAbba, Padre!”
 
-En este da mi corazn desea para cada uno de ustedes, hermanos mos, que
+En este día mi corazón desea para cada uno de ustedes, hermanos míos, que
 
 debido a que Cristo ha nacido en el mundo, ustedes puedan de inmediato cumplir
 
-la mayora de edad, y puedan decir en esta hora confiadamente: Abba, Padre!
+la mayoría de edad, y puedan decir en esta hora confiadamente: “ˇAbba, Padre!”
 
 El grandioso Dios, el Hacedor del cielo y de la tierra es mi Padre, y yo me
 
-atrevo a declararlo sin miedo a que l no reconozca el parentesco. El Tronador,
+atrevo a declararlo sin miedo a que Él no reconozca el parentesco. El Tronador,
 
 el Gobernador del mar embravecido, es mi Padre, y a pesar del terror de Su
 
-poder, yo me acerco a l en amor. Aquel que es el Destructor, que dice: Convertos,
+poder, yo me acerco a Él en amor. Aquel que es el Destructor, que dice: “Convertíos,
 
-hijos de los hombres, es mi Padre, y no me alarma el pensamiento de que me
+hijos de los hombres”, es mi Padre, y no me alarma el pensamiento de que me
 
-llamar para ir a l a su tiempo. Dios mo, T que llamars a las multitudes de
+llamará para ir a Él a su tiempo. Dios mío, Tú que llamarás a las multitudes de
 
 los muertos de sus tumbas para que vivan, yo espero ansiosamente con gozo la hora
 
-cuando T me llamars y yo te responder. Haz lo que quieras conmigo, pues T
+cuando Tú me llamarás y yo te responderé. Haz lo que quieras conmigo, pues Tú
 
-eres mi Padre. Sonreme; yo tambin te sonreir y dir: Padre mo. Castgame
+eres mi Padre. Sonríeme; yo también te sonreiré y diré: “Padre mío”. Castígame
 
-y mientras lloro voy a clamar: Padre mo. Esto har que todo sea para bien
+y mientras lloro voy a clamar: “Padre mío”. Esto hará que todo sea para bien
 
-para m, aunque sea muy difcil de sobrellevar. Si T eres mi Padre todo est
+para mí, aunque sea muy difícil de sobrellevar. Si Tú eres mi Padre todo está
 
 bien para toda la eternidad. La amargura es dulce y la muerte misma es vida,
 
-puesto que T eres mi Padre.
+puesto que Tú eres mi Padre”.
 
 Oh, viajen alegremente a
 
-casa, ustedes, hijos del Dios viviente, diciendo cada uno para s: Lo tengo,
+casa, ustedes, hijos del Dios viviente, diciendo cada uno para sí: “Lo tengo,
 
 lo tengo, tengo aquello que los querubines delante del trono nunca han ganado:
 
-tengo una relacin con Dios del tipo ms cercano y ms amoroso, y mi espritu tiene
+tengo una relación con Dios del tipo más cercano y más amoroso, y mi espíritu tiene
 
-esta palabra como su meloda: Abba, Padre; Abba, Padre!
+esta palabra como su melodía: “ˇAbba, Padre; Abba, Padre!”
 
 Ahora, queridos hijos de
 
-Dios, si alguno de ustedes est en esclavitud bajo la ley, por qu seguir
+Dios, si alguno de ustedes está en esclavitud bajo la ley, żpor qué seguir
 
-estndolo? Los redimidos han de salir libres. Te encanta llevar cadenas? Eres
+estándolo? Los redimidos han de salir libres. żTe encanta llevar cadenas? żEres
 
-t como las mujeres chinas que se deleitan en usar zapatitos que aprietan sus
+tú como las mujeres chinas que se deleitan en usar zapatitos que aprietan sus
 
-pies? Te deleitas en la esclavitud? Deseas ser cautivo? T no ests bajo la
+pies? żTe deleitas en la esclavitud? żDeseas ser cautivo? Tú no estás bajo la
 
-ley, sino bajo la gracia; permitirs que tu incredulidad te ponga bajo la ley?
+ley, sino bajo la gracia; żpermitirás que tu incredulidad te ponga bajo la ley?
 
-T no eres un esclavo. Por qu temblar como un esclavo? T eres un hijo. T
+Tú no eres un esclavo. żPor qué temblar como un esclavo? Tú eres un hijo. Tú
 
-eres un heredero. Tienes que vivir de acuerdo a tus privilegios. Oh, t,
+eres un heredero. Tienes que vivir de acuerdo a tus privilegios. ˇOh, tú,
 
-simiente desterrada, algrate! Eres adoptado en la casa de Dios; entonces no
+simiente desterrada, alégrate! Eres adoptado en la casa de Dios; entonces no
 
-seas como un extrao. Oigo que Ismael se re de ti; djalo que ra. Cuntale de
+seas como un extrańo. Oigo que Ismael se ríe de ti; déjalo que ría. Cuéntale de
 
-l a tu Padre, que pronto dir: Echa a esta sierva y a su hijo. El mrito
+él a tu Padre, que pronto dirá: “Echa a esta sierva y a su hijo”. El mérito
 
 humano no ha de burlarse de la gracia inmerecida; tampoco hemos de
 
-entristecernos por los presentimientos del espritu legalista. Nuestra alma se
+entristecernos por los presentimientos del espíritu legalista. Nuestra alma se
 
-regocija y, como Isaac, se llena de una santa risa, pues el Seor Jess ha
+regocija y, como Isaac, se llena de una santa risa, pues el Seńor Jesús ha
 
-hecho grandes cosas por nosotros, por las que nos alegramos. A l sea la gloria
+hecho grandes cosas por nosotros, por las que nos alegramos. A Él sea la gloria
 
-por siempre y para siempre. Amn.
+por siempre y para siempre. Amén.
 
-Porcin
+Porción
 
 de
 
 la Escritura
 
-leda antes del sermn:
+leída antes del sermón:
 
-Glatas
+Gálatas
 
 3: 24-29; 4; 5: 1-4.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 27/Octubre/2011
 

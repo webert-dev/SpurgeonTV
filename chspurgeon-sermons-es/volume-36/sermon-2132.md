@@ -1,16 +1,16 @@
 # Sermón 2132 | Sermón 2132
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Revestidos de
 
 Cristo
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,149 +18,149 @@ DOMINGO 23 DE
 
 FEBRERO, 1890
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Sino vestos
+“Sino vestíos
 
-del Seor Jesucristo, y no proveis para los deseos de la carne. Romanos 13:
+del Seńor Jesucristo, y no proveáis para los deseos de la carne”. Romanos 13:
 
 14.
 
-Revestos
+“Revestíos
 
-ms bien del Seor Jesucristo, y nos os preocupis de la carne para satisfacer
+más bien del Seńor Jesucristo, y nos os preocupéis de la carne para satisfacer
 
-sus concupiscencias. Romanos 13: 14. Biblia de Jerusaln.
+sus concupiscencias”. Romanos 13: 14. Biblia de Jerusalén.
 
 Cristo tiene que estar
 
-en nosotros antes de que podamos ser vestidos de l. La gracia pone a Cristo en
+en nosotros antes de que podamos ser vestidos de Él. La gracia pone a Cristo en
 
 nuestro interior y nos capacita para que nos revistamos de Cristo en nuestro
 
-exterior. Cristo tiene que estar por fe en el corazn antes de que pueda estar
+exterior. Cristo tiene que estar por fe en el corazón antes de que pueda estar
 
 en la vida por la santidad. Si necesitas la luz de una linterna, el primer paso
 
-es encender la vela que est en su interior y luego, como resultado, la luz
+es encender la vela que está en su interior y luego, como resultado, la luz
 
 resplandece desde adentro para ser vista por los hombres. Cuando Cristo, la
 
-esperanza de gloria, es formado en ti, no ocultes tu amor por l, sino vstete
+esperanza de gloria, es formado en ti, no ocultes tu amor por Él, sino vístete
 
-de l en tu conducta como la gloria de tu esperanza. As como tienes a Cristo como
+de Él en tu conducta como la gloria de tu esperanza. Así como tienes a Cristo como
 
-tu Salvador en tu interior, el secreto de tu vida interior, as revstete de
+tu Salvador en tu interior, el secreto de tu vida interior, así revístete de
 
 Cristo para que sea la hermosura de tu vida diaria. Que lo externo sea
 
-iluminado por lo interno y eso constituir para ti esas armas de la luz con
+iluminado por lo interno y eso constituirá para ti esas “armas de la luz” con
 
-las que todos los soldados del Seor Jess tienen el privilegio de contar. As
+las que todos los soldados del Seńor Jesús tienen el privilegio de contar. Así
 
-como Cristo es tu alimento que nutre al hombre interior, as tambin pntelo
+como Cristo es tu alimento que nutre al hombre interior, así también póntelo
 
 como tu vestido que cubre al hombre exterior.
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo. Esta es una expresin muy asombrosa. Es sumamente condescendiente
+Jesucristo”. Esta es una expresión muy asombrosa. Es sumamente condescendiente
 
-de parte de nuestro Seor que permita una exhortacin de tal naturaleza. Pablo
+de parte de nuestro Seńor que permita una exhortación de tal naturaleza. Pablo
 
-expresa la mente del Espritu Santo
+expresa la mente del Espíritu Santo
 
 y la
 
-palabra est llena de significado. Oh, que recibamos la gracia de aprender su
+palabra está llena de significado. ˇOh, que recibamos la gracia de aprender su
 
-enseanza! Est llena de una advertencia muy solemne para nosotros, pues
+enseńanza! Está llena de una advertencia muy solemne para nosotros, pues
 
-necesitamos un revestimiento divinamente perfecto como ese. Oh, que recibamos
+necesitamos un revestimiento divinamente perfecto como ese. ˇOh, que recibamos
 
-la gracia de practicar el mandamiento de revestirnos! No es que el apstol diga:
+la gracia de practicar el mandamiento de revestirnos! No es que el apóstol diga:
 
-Tomen al Seor Jesucristo, y
+“Tomen al Seńor Jesucristo, y
 
-llvenlo
+llévenlo
 
 con
 
-ustedes, sino ms bien Revestos del Seor Jesucristo, y as,
+ustedes”, sino más bien “Revestíos del Seńor Jesucristo”, y así,
 
-pnganselo
+pónganselo
 
 como el vestido de su vida.
 
-Un hombre toma su bculo para un viaje o su espada para una batalla, pero vuelve
+Un hombre toma su báculo para un viaje o su espada para una batalla, pero vuelve
 
-a guardarlos despus de un tiempo; pero t tienes que revestirte del Seor Jess
+a guardarlos después de un tiempo; pero tú tienes que revestirte del Seńor Jesús
 
-as como te pones tu vestido, y de esa manera l ha de cubrirte y ha de
+así como te pones tu vestido, y de esa manera Él ha de cubrirte y ha de
 
 convertirse en una parte imprescindible de tu porte, en algo que es parte de tu
 
 propia identidad, en un componente visible de tu personalidad manifiesta.
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo. Hacemos eso cuando creemos en l; entonces nos vestimos del Seor
+Jesucristo”. Hacemos eso cuando creemos en Él; entonces nos vestimos del Seńor
 
 Jesucristo como nuestro manto de justicia. Ese es un cuadro muy hermoso de lo
 
-que hace la fe. Fe encuentra desnuda, para su propia vergenza, a nuestra
+que hace la fe. Fe encuentra desnuda, para su propia vergüenza, a nuestra
 
-condicin humana; fe ve que Cristo Jess es el manto de justicia que es provisto
+condición humana; fe ve que Cristo Jesús es el manto de justicia que es provisto
 
-para nuestra necesidad, y fe, al mandato del Evangelio, se apropia de l y,
+para nuestra necesidad, y fe, al mandato del Evangelio, se apropia de Él y,
 
-hacindolo, recibe el beneficio de l. Por fe el alma cubre su debilidad con Su
+haciéndolo, recibe el beneficio de Él. Por fe el alma cubre su debilidad con Su
 
-fortaleza, su pecado con Su expiacin, su locura con Su sabidura, su fracaso
+fortaleza, su pecado con Su expiación, su locura con Su sabiduría, su fracaso
 
-con Sus triunfos, su muerte con Su vida, sus descarros con Su constancia. Por
+con Sus triunfos, su muerte con Su vida, sus descarríos con Su constancia. Por
 
-fe, digo yo, el alma se oculta dentro de Jess hasta que slo Jess es visto y
+fe, digo yo, el alma se oculta dentro de Jesús hasta que sólo Jesús es visto y
 
-el hombre es visto en l. No slo tomamos Su justicia como siendo imputada a
+el hombre es visto en Él. No sólo tomamos Su justicia como siendo imputada a
 
-nosotros, sino que lo tomamos a l mismo para que sea realmente nuestro, y as,
+nosotros, sino que lo tomamos a Él mismo para que sea realmente nuestro, y así,
 
-Su justicia se vuelve nuestra de hecho. Por la obediencia de uno, los muchos
+Su justicia se vuelve nuestra de hecho. “Por la obediencia de uno, los muchos
 
-sern constituidos justos. Su justicia es asignada a nuestra cuenta y se
+serán constituidos justos”. Su justicia es asignada a nuestra cuenta y se
 
 vuelve nuestra porque
 
-l
+Él
 
 es nuestro.
 
-Yo, aunque he sido largamente injusto en m mismo, creo en el testimonio de
+Yo, aunque he sido largamente injusto en mí mismo, creo en el testimonio de
 
-Dios concerniente a Su Hijo Jesucristo, y soy tenido por justo, tal como est
+Dios concerniente a Su Hijo Jesucristo, y soy tenido por justo, tal como está
 
-escrito, Crey Abraham a Dios, y le fue contado por justicia. Las riquezas de
+escrito, “Creyó Abraham a Dios, y le fue contado por justicia”. Las riquezas de
 
-Dios en Cristo Jess se vuelven mas cuando tomo al Seor Jesucristo para que
+Dios en Cristo Jesús se vuelven mías cuando tomo al Seńor Jesucristo para que
 
-sea todo para m.
+sea todo para mí.
 
 Pero ustedes pueden ver
 
-que el texto claramente no se refiere a este grandioso asunto, pues el apstol
+que el texto claramente no se refiere a este grandioso asunto, pues el apóstol
 
-no se est refiriendo a la justicia imputada de Cristo. El texto est en
+no se está refiriendo a la justicia imputada de Cristo. El texto está en
 
-conexin con preceptos relativos a asuntos de la vida cotidiana prctica, y a
+conexión con preceptos relativos a asuntos de la vida cotidiana práctica, y a
 
-esos asuntos se ha de referir. No es la justificacin, sino la santificacin,
+esos asuntos se ha de referir. No es la justificación, sino la santificación,
 
-la que tenemos aqu. Adems, no se puede decir de nosotros que nos revestimos
+la que tenemos aquí. Además, no se puede decir de nosotros que nos revestimos
 
-de la justicia imputada de Cristo despus de haber credo, pues esa justicia
+de la justicia imputada de Cristo después de haber creído, pues esa justicia
 
 nos reviste tan pronto como creemos, y no necesitamos vestirnos de ella de
 
@@ -168,15 +168,15 @@ nuevo. El mandamiento que tenemos ante nosotros es dado a aquellos que tienen
 
 la justicia imputada de Cristo, que son justificados, que son aceptos en Cristo
 
-Jess. Vestos del Seor Jesucristo es una palabra para ustedes, los que son
+Jesús. “Vestíos del Seńor Jesucristo” es una palabra para ustedes, los que son
 
 salvos por Cristo y son justificados por Su justicia. Ustedes han de revestirse
 
-de Cristo y han de seguir revistindose de l en la santificacin de sus vidas
+de Cristo y han de seguir revistiéndose de Él en la santificación de sus vidas
 
-para su Dios. Ustedes han de vestir el carcter de su Seor continuamente, cada
+para su Dios. Ustedes han de vestir el carácter de su Seńor continuamente, cada
 
-vez ms y ms,
+vez más y más,
 
 como el vestido de sus
 
@@ -186,73 +186,73 @@ Voy a tratar este tema
 
 respondiendo unas cuantas preguntas. Primero,
 
-Adnde iremos por nuestro vestido cotidiano?
+żAdónde iremos por nuestro vestido cotidiano?
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo. En segundo lugar,
+Jesucristo”. En segundo lugar,
 
-Cul es
+żCuál es
 
 este vestido cotidiano?
 
-Vestos del Seor Jesucristo. En tercer lugar,
+“Vestíos del Seńor Jesucristo”. En tercer lugar,
 
-cmo hemos de actuar frente al mal cuando
+żcómo hemos de actuar frente al mal cuando
 
 estamos revestidos de esa manera?
 
-Y no os preocupis de la carne para
+“Y no os preocupéis de la carne para
 
-satisfacer sus concupiscencias. Y luego voy a terminar con la consideracin de
+satisfacer sus concupiscencias”. Y luego voy a terminar con la consideración de
 
 la pregunta:
 
-Por qu debemos apresurarnos
+żPor qué debemos apresurarnos
 
 a ponernos ese vestido sin igual?
 
-Pues La noche est avanzada, y se acerca
+Pues “La noche está avanzada, y se acerca
 
-el da vistmonos las armas de la luz.
+el día… vistámonos las armas de la luz”.
 
 I.
 
 Pedimos
 
-que el Espritu Santo nos ayude mientras nosotros respondemos, en primer lugar,
+que el Espíritu Santo nos ayude mientras nosotros respondemos, en primer lugar,
 
-a la pregunta: ADNDE IREMOS POR NUESTRO VESTIDO COTIDIANO? Amados, slo hay
+a la pregunta: żADÓNDE IREMOS POR NUESTRO VESTIDO COTIDIANO? Amados, sólo hay
 
 una respuesta para todas las preguntas que tienen que ver con nuestras
 
-necesidades. Acudimos al Seor Jesucristo para todo. Para nosotros Cristo es
+necesidades. Acudimos al Seńor Jesucristo para todo. Para nosotros “Cristo es
 
-el todo. El cual nos ha sido hecho por Dios sabidura, justificacin, santificacin
+el todo”. “El cual nos ha sido hecho por Dios sabiduría, justificación, santificación
 
-y redencin. Habiendo ido a Cristo para el perdn y la justificacin, no han
+y redención”. Habiendo ido a Cristo para el perdón y la justificación, no han
 
-de ir a ninguna otra parte para lo que sigue. Habiendo comenzado con Jess, han
+de ir a ninguna otra parte para lo que sigue. Habiendo comenzado con Jesús, han
 
-de continuar con l hasta el fin, pues vosotros estis completos en l,
+de continuar con Él hasta el fin, pues “vosotros estáis completos en él”,
 
-perfectamente guardados en Cristo, plenamente equipados en l. Agrad al Padre
+perfectamente guardados en Cristo, plenamente equipados en Él. “Agradó al Padre
 
-que en l habitase toda plenitud. Cualquier necesidad que pueda apremiarnos entre
+que en él habitase toda plenitud”. Cualquier necesidad que pueda apremiarnos entre
 
-esta Mara en el desierto y aquel mar de vidrio delante del trono, ser
+esta Mara en el desierto y aquel mar de vidrio delante del trono, será
 
-satisfecha en Cristo Jess. T preguntas: qu he de hacer para tener un
+satisfecha en Cristo Jesús. Tú preguntas: żqué he de hacer para tener un
 
-vestido que sea adecuado para los atrios del Seor, una armadura que me proteja
+vestido que sea adecuado para los atrios del Seńor, una armadura que me proteja
 
 de los asaltos del enemigo y un manto que me permita actuar como un sacerdote y
 
-un rey para Dios? La nica respuesta para la pregunta que mucho abarca es: Vestos
+un rey para Dios? La única respuesta para la pregunta que mucho abarca es: “Vestíos
 
-del Seor Jesucristo. No tienen necesidad de ninguna otra cosa. No necesitan
+del Seńor Jesucristo”. No tienen necesidad de ninguna otra cosa. No necesitan
 
-mirar a ninguna otra parte en busca de un hilo o de un cordn de zapatos.
+mirar a ninguna otra parte en busca de un hilo o de un cordón de zapatos.
 
 Entonces, queridos
 
@@ -262,93 +262,93 @@ un
 
 ejemplo,
 
-no debemos mirar a ninguna otra parte salvo a nuestro Seor
+no debemos mirar a ninguna otra parte salvo a nuestro Seńor
 
-Jesucristo. No est escrito: Vestos de este hombre o de aquel, sino Vestos
+Jesucristo. No está escrito: “Vestíos de este hombre o de aquel”, sino “Vestíos
 
-del Seor Jesucristo. El modelo para un santo es su Salvador. Somos muy
+del Seńor Jesucristo”. El modelo para un santo es su Salvador. Somos muy
 
-propensos a seleccionar a algn varn sobremanera agraciado o til para que nos
+propensos a seleccionar a algún varón sobremanera agraciado o útil para que nos
 
-sirva de modelo. Algo bueno pudiera resultar de un tal plan de accin, pero
+sirva de modelo. Algo bueno pudiera resultar de un tal plan de acción, pero
 
-pudiera derivarse tambin algn mal. El ms excelente de nuestros prjimos
+pudiera derivarse también algún mal. El más excelente de nuestros prójimos
 
-mortales tendr siempre alguna falla; y como nuestra tendencia es caricaturizar
+mortales tendrá siempre alguna falla; y como nuestra tendencia es caricaturizar
 
-las virtudes hasta convertirlas en fallas, as es nuestra mayor locura
+las virtudes hasta convertirlas en fallas, así es nuestra mayor locura
 
 confundir los errores como si fueran excelencias, y copiarlos con cuidadosa
 
-exactitud y generalmente con abundante exageracin. Mediante este plan, aun con
+exactitud y generalmente con abundante exageración. Mediante este plan, aun con
 
-las mejores intenciones, podramos obtener muy malos resultados. Sigue a Jess
+las mejores intenciones, podríamos obtener muy malos resultados. Sigue a Jesús
 
-en el camino, y no errars; haz que tus pies pisen exactamente sobre Sus
+en el camino, y no errarás; haz que tus pies pisen exactamente sobre Sus
 
-huellas, y no resbalars. Segn nos capacite Su gracia, convirtamos en una
+huellas, y no resbalarás. Según nos capacite Su gracia, convirtamos en una
 
-realidad el hecho de que como l es, as somos nosotros en este mundo. No
+realidad el hecho de que “como él es, así somos nosotros en este mundo”. No
 
-necesitas buscar un ejemplo ms all de tu Seor bajo ninguna circunstancia.
+necesitas buscar un ejemplo más allá de tu Seńor bajo ninguna circunstancia.
 
-Puedes consultarlo a l como a un orculo infalible. No necesitas preguntar
+Puedes consultarlo a Él como a un oráculo infalible. No necesitas preguntar
 
-jams cul es la costumbre general de quienes te rodean; el camino espacioso de
+jamás cuál es la costumbre general de quienes te rodean; el camino espacioso de
 
-muchos no es un camino para ti. No debes preguntar: qu estn haciendo los
+muchos no es un camino para ti. No debes preguntar: “żqué están haciendo los
 
-gobernantes de este pueblo? No sigues el uso de los grandes sino el ejemplo
+gobernantes de este pueblo?” No sigues el uso de los grandes sino el ejemplo
 
-del ms grande de todos. Vestos del Seor Jesucristo es para cada uno de
+del más grande de todos. “Vestíos del Seńor Jesucristo” es para cada uno de
 
-nosotros. Si soy un comerciante, no he de preguntarme: sobre cules principios
+nosotros. Si soy un comerciante, no he de preguntarme: żsobre cuáles principios
 
 conducen sus negocios otros comerciantes? Para nada. Lo que haga el mundo no es
 
-ninguna regla para m. Si soy un estudiante no he de inquirir: qu sienten
+ninguna regla para mí. Si soy un estudiante no he de inquirir: żqué sienten
 
-otras personas por la religin? Que otros hagan lo que quieran, pero a nosotros
+otras personas por la religión? Que otros hagan lo que quieran, pero a nosotros
 
-nos corresponde servir al Seor. En toda relacin, en el crculo domstico, en
+nos corresponde servir al Seńor. En toda relación, en el círculo doméstico, en
 
 el mundo literario, en la esfera de la amistad o en las conexiones de negocios,
 
-he de vestirme del Seor Jesucristo. Si estoy perplejo, estoy obligado a
+he de “vestirme del Seńor Jesucristo”. Si estoy perplejo, estoy obligado a
 
-preguntarme: qu hara Jess?, y Su ejemplo ha de guiarme. Si no puedo
+preguntarme: żqué haría Jesús?, y Su ejemplo ha de guiarme. Si no puedo
 
-concebir que l hubiera actuado de una cierta manera, yo tampoco debo
+concebir que Él hubiera actuado de una cierta manera, yo tampoco debo
 
 permitirme hacer eso; pero si percibo, partiendo de Su precepto, de Su
 
-espritu, o de Su accin que l seguira tal y tal curso, he de apegarme a esa
+espíritu, o de Su acción que Él seguiría tal y tal curso, he de apegarme a esa
 
-lnea. No he de vestirme del filsofo, ni del poltico, ni del sacerdote ni del
+línea. No he de vestirme del filósofo, ni del político, ni del sacerdote ni del
 
-cazador de popularidad, sino que he de vestirme del Seor Jesucristo, tomando
+cazador de popularidad, sino que he de vestirme del Seńor Jesucristo, tomando
 
 Su vida para que sea el modelo sobre el cual he de moldear mi propia vida.
 
-Yo deduzco tambin de
+Yo deduzco también de
 
-nuestro texto que hemos de ir al Seor Jess en busca de
+nuestro texto que hemos de ir al Seńor Jesús en busca de
 
-estmulo.
+estímulo.
 
-No slo necesitamos un ejemplo, sino un motivo, un
+No sólo necesitamos un ejemplo, sino un motivo, un
 
 impulso y un poder constrictor para mantenernos fieles a ese ejemplo.
 
 Necesitamos vestirnos de celo como de un abrigo, y ser cubiertos de una santa
 
-influencia que nos impulse a seguir adelante. Acudamos al Seor en busca de
+influencia que nos impulse a seguir adelante. Acudamos al Seńor en busca de
 
-motivos. Algunos se apresuran a ir a Moiss, y quieren ser motivados a cumplir
+motivos. Algunos se apresuran a ir a Moisés, y quieren ser motivados a cumplir
 
-con su deber por los truenos del Sina. Su intencin en el servicio es ganar la
+con su deber por los truenos del Sinaí. Su intención en el servicio es ganar la
 
-vida eterna, o evitar la prdida del favor de Dios. Entonces se sujetan a la
+vida eterna, o evitar la pérdida del favor de Dios. Entonces se sujetan a la
 
 ley y abandonan el verdadero camino del creyente, que es la fe. No es por el
 
@@ -356,645 +356,645 @@ temor del castigo o por la esperanza de un sueldo que los creyentes sirven al
 
 Dios viviente; nosotros nos revestimos de Cristo, y el amor de Cristo nos
 
-constrie. He aqu el manantial de la verdadera santidad: El pecado no se
+constrińe. He aquí el manantial de la verdadera santidad: “El pecado no se
 
-enseorear de vosotros; pues no estis bajo la ley, sino bajo la gracia. Una
+enseńoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia”. Una
 
-fuerza ms potente que la ley se ha apoderado de ti: sirves a Dios, no como un
+fuerza más potente que la ley se ha apoderado de ti: sirves a Dios, no como un
 
-siervo cuyo nico pensamiento es la paga, sino como un hijo que tiene la mirada
+siervo cuyo único pensamiento es la paga, sino como un hijo que tiene la mirada
 
 puesta en el padre y en su amor. Tu motivo es gratitud hacia Aquel por cuya
 
-sangre preciosa has sido redimido. l se ha vestido de
+sangre preciosa has sido redimido. Él se ha vestido de
 
 tu
 
-causa, y, por tanto, t quieres adoptar
+causa, y, por tanto, tú quieres adoptar
 
 Su
 
 causa. Yo les ruego que no vayan a las escarpadas laderas del
 
-Sina para encontrar motivos para la santidad, sino apresrense a ir al
+Sinaí para encontrar motivos para la santidad, sino apresúrense a ir al
 
-Calvario, y encuentren ah esas dulces hierbas de amor que sern la medicina de
+Calvario, y encuentren ahí esas dulces hierbas de amor que serán la medicina de
 
-su alma. Vestos del Seor Jesucristo. Cubiertos con una conciencia de Su
+su alma. “Vestíos del Seńor Jesucristo”. Cubiertos con una conciencia de Su
 
-amor, y, a cambio, encendidos en amor por l, sern fuertes para ser, para
+amor, y, a cambio, encendidos en amor por Él, serán fuertes para ser, para
 
-hacer o para sufrir lo que el Seor disponga.
+hacer o para sufrir lo que el Seńor disponga.
 
-Acaso necesito decirles
+żAcaso necesito decirles
 
-que no deben encontrar nunca una razn para hacer lo bueno con un deseo de
+que no deben encontrar nunca una razón para hacer lo bueno con un deseo de
 
-ganar la aprobacin de sus semejantes? No digan: Debo hacer esto o aquello
+ganar la aprobación de sus semejantes? No digan: “Debo hacer esto o aquello
 
-para agradar a mis compaeros. La vida que es sustentada por el aliento
+para agradar a mis compańeros”. La vida que es sustentada por el aliento
 
 proveniente de las narices de otros hombres es una pobre vida. Los seguidores
 
-de Jess no se ponen la librea de la costumbre ni tiemblan ante la censura
+de Jesús no se ponen la librea de la costumbre ni tiemblan ante la censura
 
-humana. El amor al encomio y el miedo a la desaprobacin son motivos ruines y
+humana. El amor al encomio y el miedo a la desaprobación son motivos ruines y
 
-mezquinos; influyen en el nimo de muchas personas dbiles, pero no deben
+mezquinos; influyen en el ánimo de muchas personas débiles, pero no deben
 
-gobernar al varn en Cristo. Tienes que ser motivado por una consideracin
+gobernar al varón en Cristo. Tienes que ser motivado por una consideración
 
-mucho ms excelsa: t sirves al Seor Cristo, y, por tanto, no has de
+mucho más excelsa: tú sirves al Seńor Cristo, y, por tanto, no has de
 
-convertirte en un lacayo de los hombres. Su gloria ha de ser tu nico objetivo
+convertirte en un lacayo de los hombres. Su gloria ha de ser tu único objetivo
 
-y por el gozo de ello debes tratar todo lo dems como algo de poca importancia.
+y por el gozo de ello debes tratar todo lo demás como algo de poca importancia.
 
-He aqu nuestro estmulo: El amor de Cristo nos constrie.
+He aquí nuestro estímulo: “El amor de Cristo nos constrińe”.
 
 Amados, el texto quiere
 
-decir algo ms que eso. Vestos del Seor Jesucristo; esto es, encuentra en
+decir algo más que eso. “Vestíos del Seńor Jesucristo”; esto es, encuentra en
 
-Jess tu
+Jesús tu
 
 fortaleza.
 
 Aunque eres salvo
 
-y has sido vivificado por el Espritu Santo para ser un hijo viviente del Dios
+y has sido vivificado por el Espíritu Santo para ser un hijo viviente del Dios
 
 viviente, con todo, no tienes ninguna fuerza para cumplir con tu deber
 
-celestial, excepto la que recibas de lo alto. Acude a Jess para tener poder.
+celestial, excepto la que recibas de lo alto. Acude a Jesús para tener poder.
 
-Te exhorto a que no digas nunca: Voy a hacer lo bueno porque yo he resuelto
+Te exhorto a que no digas nunca: “Voy a hacer lo bueno porque yo he resuelto
 
 hacerlo. Yo soy un hombre de una mente fuerte; estoy decidido a resistir este
 
-mal, y s que no ceder. Estoy decidido, y no hay temor de que me desve.
+mal, y sé que no cederé. Estoy decidido, y no hay temor de que me desvíe”.
 
-Hermano, si confas en ti mismo de esa manera, pronto se comprobar que eres una
+Hermano, si confías en ti mismo de esa manera, pronto se comprobará que eres una
 
-caa frgil. El fracaso pisa los talones de la confianza en s mismo. Vestos
+cańa frágil. El fracaso pisa los talones de la confianza en sí mismo. “Vestíos
 
-del Seor Jesucristo.
+del Seńor Jesucristo”.
 
 Yo te exhorto a que no
 
-confes en lo que hayas adquirido en el pasado. No digas en tu corazn: yo soy
+confíes en lo que hayas adquirido en el pasado. No digas en tu corazón: “yo soy
 
-un hombre de experiencia, y por tanto, puedo resistir una tentacin que
+un hombre de experiencia, y por tanto, puedo resistir una tentación que
 
-aplastara a gente ms joven e inexperta. He pasado ahora tantos aos haciendo
+aplastaría a gente más joven e inexperta. He pasado ahora tantos ańos haciendo
 
-el bien persistentemente que puedo considerarme fuera de peligro. Es probable
+el bien persistentemente que puedo considerarme fuera de peligro. żEs probable
 
-que ande por el mal camino alguna vez? Oh, amigo, es ms que probable! Ya es
+que ande por el mal camino alguna vez?” ˇOh, amigo, es más que probable! Ya es
 
 un hecho. En el instante en que un hombre declara que no puede caer, ya ha
 
-cado de la sobriedad y de la humildad. Te has engredo, hermano mo, o no
+caído de la sobriedad y de la humildad. Te has engreído, hermano mío, o no
 
-hablaras de tu perfeccin interna; y cuando la cabeza se vuelve engreda, los
+hablarías de tu perfección interna; y cuando la cabeza se vuelve engreída, los
 
 pies son muy inseguros. El engreimiento interior es la madre del pecado
 
-descarado. Haz que Cristo sea tu fortaleza, y no t mismo, ni tus logros o
+descarado. Haz que Cristo sea tu fortaleza, y no tú mismo, ni tus logros o
 
-experiencias. Vstete del Seor Jesucristo da a da, y no pretendas que los
+experiencias. “Vístete del Seńor Jesucristo” día a día, y no pretendas que los
 
-andrajos de ayer sean la indumentaria del futuro. Obtn una gracia siempre
+andrajos de ayer sean la indumentaria del futuro. Obtén una gracia siempre
 
-renovada. Di con David: Todas mis fuentes estn en ti. Obtn de Jess todo tu
+renovada. Di con David: “Todas mis fuentes están en ti”. Obtén de Jesús todo tu
 
-poder para la santidad y para la utilidad, y obtenlo nicamente de l. Ciertamente
+poder para la santidad y para la utilidad, y obtenlo únicamente de Él. “Ciertamente
 
-en Jehov est la justicia y la fuerza. No confes en resoluciones, promesas,
+en Jehová está la justicia y la fuerza”. No confíes en resoluciones, promesas,
 
-mtodos y oraciones, sino apyate nicamente en Jess como la fortaleza de tu
+métodos y oraciones, sino apóyate únicamente en Jesús como la fortaleza de tu
 
 vida.
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo. Esta es una maravillosa palabra para m porque me indica que en el
+Jesucristo”. Esta es una maravillosa palabra para mí porque me indica que en el
 
-Seor Jess tenemos
+Seńor Jesús tenemos
 
-perfeccin.
+perfección.
 
 En unos
 
 momentos voy a mostrarles algunas de las virtudes y de las gracias que
 
-resplandecen en el carcter de nuestro Seor Jesucristo. Estas pueden
+resplandecen en el carácter de nuestro Seńor Jesucristo. Estas pueden
 
 compararse con diferentes partes de nuestra armadura o vestido: el casco, los
 
-zapatos, el peto. Pero el texto no dice: Vestos de esta cualidad o virtud del
+zapatos, el peto. Pero el texto no dice: “Vestíos de esta cualidad o virtud del
 
-Seor Cristo, sino Vestos del Seor Jesucristo. l mismo, como un todo, ha
+Seńor Cristo”, sino “Vestíos del Seńor Jesucristo”. Él mismo, como un todo, ha
 
-de ser nuestro atavo. No se trata de esta excelencia o de aquella otra, sino
+de ser nuestro atavío. No se trata de esta excelencia o de aquella otra, sino
 
-de l mismo. l ha de ser para nosotros un sagrado sobretodo. No s de qu otra
+de Él mismo. Él ha de ser para nosotros un sagrado sobretodo. No sé de qué otra
 
-manera hacer resaltar mi significado: l ha de cubrirnos de la cabeza a los pies.
+manera hacer resaltar mi significado: Él ha de cubrirnos de la cabeza a los pies.
 
 No nos limitamos a copiar Su humildad, Su benignidad, Su amor, Su celo, Su
 
-entrega a la oracin, sino a l mismo. Esfurcense por entrar en tal comunin
+entrega a la oración, sino a Él mismo. Esfuércense por entrar en tal comunión
 
-con el propio Jess que Su carcter es reproducido en ustedes. Oh, ser
+con el propio Jesús que Su carácter es reproducido en ustedes. Oh, ser
 
-revestidos por completo de l: sentir, desear y actuar, como l sinti, dese y
+revestidos por completo de Él: sentir, desear y actuar, como Él sintió, deseó y
 
-actu. Qu indumentaria para nuestra naturaleza espiritual es nuestro Seor
+actuó. ˇQué indumentaria para nuestra naturaleza espiritual es nuestro Seńor
 
-Jesucristo! Cun honorable manto es para ser usado por un hombre! Vamos, en
+Jesucristo! ˇCuán honorable manto es para ser usado por un hombre! Vamos, en
 
-ese caso, nuestra vida estara escondida en Cristo, y l sera visto
+ese caso, nuestra vida estaría escondida en Cristo, y Él sería visto
 
-cubrindonos en una vida vivificada por Su Espritu, influida por Sus motivos,
+cubriéndonos en una vida vivificada por Su Espíritu, influida por Sus motivos,
 
-endulzada por Su simpata, una vida dedicada al ejercicio de Sus designios y
+endulzada por Su simpatía, una vida dedicada al ejercicio de Sus designios y
 
-que sigue Sus pasos. Cuando leemos: Vestos del Seor Jesucristo, quiere
+que sigue Sus pasos. Cuando leemos: “Vestíos del Seńor Jesucristo”, quiere
 
-decir: Reciban el carcter ntegro de Cristo, y que la totalidad del carcter
+decir: ‘Reciban el carácter íntegro de Cristo, y que la totalidad del carácter
 
 de ustedes sea conformado a Su voluntad. Cubran todo su ser con la totalidad
 
-del Seor Jesucristo. Qu maravilloso precepto! Oh, que recibamos la gracia
+del Seńor Jesucristo’. ˇQué maravilloso precepto! ˇOh, que recibamos la gracia
 
-para cumplirlo! Que el Seor convierta el mandamiento en un hecho real. Que
+para cumplirlo! Que el Seńor convierta el mandamiento en un hecho real. Que
 
-seamos ms y ms como Jess a lo largo del resto de nuestras vidas, para que
+seamos más y más como Jesús a lo largo del resto de nuestras vidas, para que
 
-sea cumplido el propsito de Dios por el cual fuimos predestinados para que
+sea cumplido el propósito de Dios por el cual fuimos “predestinados para que
 
-fusemos hechos conformes a la imagen de su Hijo.
+fuésemos hechos conformes a la imagen de su Hijo”.
 
-Adems, observen la
+Además, observen la
 
 especialidad
 
 que es apreciable en este
 
-vestido. Est especialmente adaptado para cada creyente individual. Pablo no le
+vestido. Está especialmente adaptado para cada creyente individual. Pablo no le
 
-dice solamente a una persona: Vstete
+dice solamente a una persona: “Vístete
 
-t
+tú
 
-del Seor Jesucristo, sino a todos nosotros nos dice: Vestos
+del Seńor Jesucristo”, sino a todos nosotros nos dice: “Vestíos
 
 vosotros
 
-del Seor Jesucristo. Pueden
+del Seńor Jesucristo”. żPueden
 
-vestirse de Cristo todos los santos, ya sean bebs, jvenes o padres? No todos
+vestirse de Cristo todos los santos, ya sean bebés, jóvenes o padres? No todos
 
-ustedes podran ponerse mi abrigo, estoy muy seguro de ello; y estoy igualmente
+ustedes podrían ponerse mi abrigo, estoy muy seguro de ello; y estoy igualmente
 
-convencido de que no podra ponerme los vestidos de muchos de los jvenes presentes
+convencido de que no podría ponerme los vestidos de muchos de los jóvenes presentes
 
-ahora; pero he aqu un vestido incomparable, que ser encontrado apropiado para
+ahora; pero he aquí un vestido incomparable, que será encontrado apropiado para
 
 cada creyente, sin necesidad de expandirlo o contraerlo. Quienquiera que se vista
 
-del Seor Jesucristo se viste de un manto que ser su gloria y su hermosura. El
+del Seńor Jesucristo se viste de un manto que será su gloria y su hermosura. El
 
-ejemplo de Jess es siempre admirablemente apropiado para ser copiado. Supongan
+ejemplo de Jesús es siempre admirablemente apropiado para ser copiado. Supongan
 
-que un hijo de Dios fuera un rey; qu mejor consejo podra darle cuando est a
+que un hijo de Dios fuera un rey; żqué mejor consejo podría darle cuando está a
 
-punto de gobernar a una nacin, que este: Vestos del Seor Jesucristo? S el
+punto de gobernar a una nación, que este: “Vestíos del Seńor Jesucristo”? Sé el
 
-rey que Jess habra sido. Es ms, copia Su regio carcter. Supn, por otro
+rey que Jesús habría sido. Es más, copia Su regio carácter. Supón, por otro
 
-lado, que la persona que est ante nosotros fuera una pobre mujer proveniente
+lado, que la persona que está ante nosotros fuera una pobre mujer proveniente
 
-de una casa de caridad; le habr de decir lo mismo? S, y con igual propiedad,
+de una casa de caridad; żle habré de decir lo mismo? Sí, y con igual propiedad,
 
-pues Jess era muy pobre, y es un ejemplo sobremanera apropiado para aquellos
+pues Jesús era muy pobre, y es un ejemplo sobremanera apropiado para aquellos
 
-que no tienen un hogar propio. Oh obrero, vstete de Cristo, y llnate de
+que no tienen un hogar propio. ˇOh obrero, vístete de Cristo, y llénate de
 
-celo! Oh persona que sufres, vstete del Seor Jesucristo, y abunda en
+celo! ˇOh persona que sufres, vístete del Seńor Jesucristo, y abunda en
 
 paciencia! Aquel amigo va a ir a la escuela dominical esta tarde. Bien, maestro,
 
-con el objeto de ganar a esos amados nios para el Salvador vstete del Seor
+con el objeto de ganar a esos amados nińos para el Salvador “vístete del Seńor
 
-Jesucristo, quien dijo: Dejad a los nios venir a m, y no se lo impidis.
+Jesucristo”, quien dijo: “Dejad a los nińos venir a mí, y no se lo impidáis”.
 
-Vestido con Su manto sagrado sers un buen maestro. Eres t un predicador y
+Vestido con Su manto sagrado serás un buen maestro. żEres tú un predicador y
 
-ests a punto de predicar a miles de adultos? Cmo podra aconsejarte mejor
+estás a punto de predicar a miles de adultos? żCómo podría aconsejarte mejor
 
-que dicindote que te revistas de Cristo y que prediques el Evangelio en Su
+que diciéndote que te revistas de Cristo y que prediques el Evangelio en Su
 
 propio estilo amoroso, suplicante y denodado? El modelo del predicador debe ser
 
-su Seor. Esta es nuestra toga de predicar, nuestra sobrepelliz de orar,
+su Seńor. Esta es nuestra toga de predicar, nuestra sobrepelliz de orar,
 
-nuestro manto pastoral: el carcter y el espritu del Seor Jess, que se
+nuestro manto pastoral: el carácter y el espíritu del Seńor Jesús, que se
 
 adapta admirablemente a cada forma de servicio.
 
-Ningn ejemplo humano se
+Ningún ejemplo humano se
 
-adaptar precisamente a su prjimo; pero en el carcter de Cristo hay esta
+adaptará precisamente a su prójimo; pero en el carácter de Cristo hay esta
 
-extraa virtud: que todos ustedes pueden imitarlo, y, con todo, que ninguno de
+extrańa virtud: que todos ustedes pueden imitarlo, y, con todo, que ninguno de
 
-ustedes sera un simple imitador. Quien es perfectamente semejante a Cristo es
+ustedes sería un simple imitador. Quien es perfectamente semejante a Cristo es
 
-perfectamente natural. No tiene que haber ninguna afectacin, ninguna dolorosa
+perfectamente natural. No tiene que haber ninguna afectación, ninguna dolorosa
 
-restriccin, ningn esfuerzo. En una vida moldeada as no habr nada grotesco
+restricción, ningún esfuerzo. En una vida moldeada así no habrá nada grotesco
 
-ni desproporcionado, nada impropio de un hombre ni nada romntico. Jess, el
+ni desproporcionado, nada impropio de un hombre ni nada romántico. Jesús, el
 
-Segundo Adn de la raza nacida de nuevo es tan maravilloso, que cada miembro de
+Segundo Adán de la raza nacida de nuevo es tan maravilloso, que cada miembro de
 
-esa familia puede mostrar una semejanza con l, y con todo, puede exhibir una
+esa familia puede mostrar una semejanza con Él, y con todo, puede exhibir una
 
-clara individualidad. Un hombre avanzado en aos y en sabidura puede
+clara individualidad. Un hombre avanzado en ańos y en sabiduría puede
 
-revestirse de l, y lo mismo puede hacer quien es menos instruido y quien es un
+revestirse de Él, y lo mismo puede hacer quien es menos instruido y quien es un
 
-recin llegado entre nosotros. Por favor recuerden esto: podramos no elegir
+recién llegado entre nosotros. Por favor recuerden esto: podríamos no elegir
 
-ningn ejemplo, pero cada uno est obligado a copiar al Seor Jesucristo. T,
+ningún ejemplo, pero cada uno está obligado a copiar al Seńor Jesucristo. Tú,
 
-querido amigo, tienes una personalidad especial; t eres una persona tal que no
+querido amigo, tienes una personalidad especial; tú eres una persona tal que no
 
-hay otra exactamente igual a ti, y ests colocado en circunstancias tan
+hay otra exactamente igual a ti, y estás colocado en circunstancias tan
 
-peculiares que nadie ms es probado exactamente como lo eres t: a ti,
+peculiares que nadie más es probado exactamente como lo eres tú: a ti,
 
-entonces, te es enviada esta exhortacin: Vstete del Seor Jesucristo. Es absolutamente
+entonces, te es enviada esta exhortación: “Vístete del Seńor Jesucristo”. Es absolutamente
 
 cierto que, con tu singularidad personal y con tus circunstancias peculiares, para
 
-ti no puede haber nada mejor que te vistas con este manto ms que regio. T,
+ti no puede haber nada mejor que te vistas con este manto más que regio. Tú,
 
-tambin, que vives en circunstancias ordinarias, y que eres probado nicamente
+también, que vives en circunstancias ordinarias, y que eres probado únicamente
 
-por tentaciones comunes, t has de vestirte del Seor Jesucristo; pues l
+por tentaciones comunes, tú has de “vestirte del Seńor Jesucristo”; pues Él
 
-ser conveniente para ti tambin. Oh exclama uno- pero el Seor Jess no
+será conveniente para ti también. “ˇOh” –exclama uno- “pero el Seńor Jesús no
 
-estuvo nunca exactamente donde yo estoy! Dices eso por falta de mayor
+estuvo nunca exactamente donde yo estoy!” Dices eso por falta de mayor
 
-conocimiento o por falta de reflexin. l fue tentado en todo segn tu semejanza.
+conocimiento o por falta de reflexión. Él fue tentado en todo según tu semejanza.
 
-Hay ciertas relaciones que el Seor Jess no podra ocupar literalmente; pero,
+Hay ciertas relaciones que el Seńor Jesús no podría ocupar literalmente; pero,
 
-por otra parte, l tom su contraparte espiritual. Por ejemplo, Jess no poda
+por otra parte, Él tomó su contraparte espiritual. Por ejemplo, Jesús no podía
 
-ser un esposo segn la carne. Acaso alguien reclama cmo podra ser l un
+ser un esposo según la carne. żAcaso alguien reclama cómo podría ser Él un
 
-ejemplo para los esposos? Presten atencin! Maridos, amad a vuestras mujeres,
+ejemplo para los esposos? ˇPresten atención! “Maridos, amad a vuestras mujeres,
 
-as como Cristo am a la iglesia, y se entreg a s mismo por ella. l es tu
+así como Cristo amó a la iglesia, y se entregó a sí mismo por ella”. Él es tu
 
-modelo en una relacin que, naturalmente, l nunca sostuvo, pero que, en
+modelo en una relación que, naturalmente, Él nunca sostuvo, pero que, en
 
 verdad, ha cumplido con creces. Dondequiera que pudieras estar, encuentras que
 
-el Seor Jess ha ocupado la contraparte de tu posicin, de lo contrario la posicin
+el Seńor Jesús ha ocupado la contraparte de tu posición, de lo contrario la posición
 
 es pecaminosa, y debe ser abandonada. En cualquier lugar, en cualquier hora,
 
 bajo cualesquiera circunstancias, en cualquier asunto, puedes vestirte del
 
-Seor Jesucristo, y no temer nunca que tu atavo sea inapropiado. Aqu tienes
+Seńor Jesucristo, y no temer nunca que tu atavío sea inapropiado. Aquí tienes
 
-un atuendo de verano y de invierno, bueno en la prosperidad as como tambin en
+un atuendo de verano y de invierno, bueno en la prosperidad así como también en
 
-la adversidad. Aqu tienes un vestido para el aposento privado o para el foro
+la adversidad. Aquí tienes un vestido para el aposento privado o para el foro
 
-pblico, para la enfermedad o para la salud, para el honor o para el vituperio,
+público, para la enfermedad o para la salud, para el honor o para el vituperio,
 
-para la vida o para la muerte. Vestos del Seor Jesucristo, y con esta
+para la vida o para la muerte. “Vestíos del Seńor Jesucristo”, y con esta
 
 indumentaria de oro forjado puedes entrar al palacio del Rey, y estar entre los
 
-espritus de los justos hechos perfectos.
+espíritus de los justos hechos perfectos.
 
 II.
 
 En
 
-segundo lugar, confiando en el Espritu Santo, inquiramos: CUL ES ESTE
+segundo lugar, confiando en el Espíritu Santo, inquiramos: żCUÁL ES ESTE
 
-VESTIDO COTIDIANO? Hemos de vestirnos del Seor Jesucristo. Que el Espritu de
+VESTIDO COTIDIANO? Hemos de vestirnos del Seńor Jesucristo. ˇQue el Espíritu de
 
 Dios nos ayude a hacerlo!
 
-Vemos cmo es
+Vemos cómo es
 
-descrito aqu
+descrito aquí
 
 el sagrado vestido
 
-con tres palabras. Los sagrados ttulos
+con tres palabras. Los sagrados títulos
 
-del Hijo de Dios son desplegados en detalle: Vestos del Seor-Jess-Cristo. Vstete
+del Hijo de Dios son desplegados en detalle: “Vestíos del Seńor-Jesús-Cristo”. Vístete
 
-de l como
+de Él como
 
-Seor.
+Seńor.
 
-Llmalo tu amo y
+Llámalo tu amo y
 
-Seor, y hars bien. Has de ser Su siervo en todo. Somete cada facultad, cada
+Seńor, y harás bien. Has de ser Su siervo en todo. Somete cada facultad, cada
 
-capacidad, cada talento y cada posesin a Su gobierno. Somete a l todo lo que
+capacidad, cada talento y cada posesión a Su gobierno. Somete a Él todo lo que
 
-tienes y todo lo que eres, y delitate en reconocer Su derecho supremo y Su
+tienes y todo lo que eres, y deléitate en reconocer Su derecho supremo y Su
 
-reclamo real sobre ti. S un hombre de Cristo; s Su siervo encadenado a Su
+reclamo real sobre ti. Sé un hombre de Cristo; sé Su siervo encadenado a Su
 
-servicio para siempre, y encuentra all vida y libertad. Que el dominio de tu
+servicio para siempre, y encuentra allí vida y libertad. Que el dominio de tu
 
-Seor cubra el reino de tu naturaleza. Luego vstete de
+Seńor cubra el reino de tu naturaleza. Luego vístete de
 
-Jess.
+Jesús.
 
-Jess quiere decir un Salvador: en cada parte s cubierto
+Jesús quiere decir un Salvador: en cada parte sé cubierto
 
-por l en esa bendita capacidad. T, un pecador, escndete en Jess, tu
+por Él en esa bendita capacidad. Tú, un pecador, escóndete en Jesús, tu
 
-Salvador, quien te salvar de tus pecados. l es tu santificador, que echa
+Salvador, quien te salvará de tus pecados. Él es tu santificador, que echa
 
-fuera el pecado, y tu preservador, que evita que el pecado regrese. Jess es tu
+fuera el pecado, y tu preservador, que evita que el pecado regrese. Jesús es tu
 
-armadura contra el pecado. T vences por medio de Su sangre. l es tu defensa
+armadura contra el pecado. Tú vences por medio de Su sangre. Él es tu defensa
 
-de toda arma del enemigo. l es tu escudo que te protege de todo mal. l te
+de toda arma del enemigo. Él es tu escudo que te protege de todo mal. Él te
 
-cubre ntegramente como una armadura completa, de tal manera que cuando las
+cubre íntegramente como una armadura completa, de tal manera que cuando las
 
-flechas de la tentacin vuelan como una lluvia de fuego, son apagadas sobre la
+flechas de la tentación vuelan como una lluvia de fuego, son apagadas sobre la
 
-cota de malla y permaneces inclume en medio de un aguacero de muertes. Vstete
+cota de malla y permaneces incólume en medio de un aguacero de muertes. Vístete
 
-de Jess, y vstete de
+de Jesús, y vístete de
 
 Cristo.
 
-T
+Tú
 
-sabes que Cristo significa: ungido. Ahora bien, nuestro Seor es ungido como
+sabes que Cristo significa: “ungido”. Ahora bien, nuestro Seńor es ungido como
 
-Profeta, Sacerdote y Rey, y como tal nos vestimos de l. Qu cosa tan
+Profeta, Sacerdote y Rey, y como tal nos vestimos de Él. ˇQué cosa tan
 
-esplndida es vestirse de Cristo como el
+espléndida es vestirse de Cristo como el
 
 Profeta
 
-ungido, y aceptar Su enseanza como nuestro credo! Yo lo creo. Por qu?
+ungido, y aceptar Su enseńanza como nuestro credo! Yo lo creo. żPor qué?
 
-Porque l lo dijo. Ese argumento basta para m. A m no me corresponde argir,
+Porque Él lo dijo. Ese argumento basta para mí. A mí no me corresponde argüir,
 
-o dudar o criticar; el Cristo lo ha dicho, y yo, revistindome de l, encuentro
+o dudar o criticar; el Cristo lo ha dicho, y yo, revistiéndome de Él, encuentro
 
 en Su autoridad el fin de toda contienda. Yo creo lo que Cristo declara; la
 
-discusin termina all donde Cristo comienza. Vstete tambin de l como tu
+discusión termina allí donde Cristo comienza. Vístete también de Él como tu
 
 Sacerdote.
 
 A pesar de tu pecado, de tu
 
-indignidad, de tu contaminacin, acude al altar del Seor por Aquel que, como
+indignidad, de tu contaminación, acude al altar del Seńor por Aquel que, como
 
-Sacerdote, ha quitado tu pecado, te ha vestido con Su mrito, y te ha hecho
+Sacerdote, ha quitado tu pecado, te ha vestido con Su mérito, y te ha hecho
 
 acepto para Dios. En nuestro grandioso Sumo Sacerdote entramos dentro del velo.
 
-Estamos en l; por fe nos damos cuenta de eso, y as nos vestimos de l como
+Estamos en Él; por fe nos damos cuenta de eso, y así nos vestimos de Él como
 
-nuestro Sacerdote, y nos perdemos en Su aceptado sacrificio. Nuestro Seor
+nuestro Sacerdote, y nos perdemos en Su aceptado sacrificio. Nuestro Seńor
 
-Jess es ungido tambin para ser
+Jesús es ungido también para ser
 
 Rey.
 
-Oh,
+ˇOh,
 
-vstete de l en toda Su majestad imperial, sometiendo cada uno de tus deseos y
+vístete de Él en toda Su majestad imperial, sometiendo cada uno de tus deseos y
 
-pensamientos a Su influencia! Entronzalo en tu corazn. As como has sometido
+pensamientos a Su influencia! Entronízalo en tu corazón. Así como has sometido
 
-tu pensamiento y entendimiento a Su instruccin proftica, somete tu accin y
+tu pensamiento y entendimiento a Su instrucción profética, somete tu acción y
 
-tu vida prctica a Su gobierno real. As como te vistes de Su sacerdocio y
+tu vida práctica a Su gobierno real. Así como te vistes de Su sacerdocio y
 
-encuentras en l la expiacin, as vstete de Su realeza y encuentra en l la
+encuentras en Él la expiación, así vístete de Su realeza y encuentra en Él la
 
 santidad.
 
 Ahora deseo mostrar
 
-la descripcin dada en Colosenses
+la descripción dada en Colosenses
 
 3
 
 a
 
-partir del versculo doce. Voy a llevarlos al
+partir del versículo doce. Voy a llevarlos al
 
-guardarropa por unos instantes, y les voy a pedir que revisen los artculos de
+guardarropa por unos instantes, y les voy a pedir que revisen los artículos de
 
-nuestro atuendo. Vean aqu, Vestos, pues; pueden percibir que han de vestirse
+nuestro atuendo. Vean aquí, “Vestíos, pues”; pueden percibir que han de vestirse
 
-con todo; nada debe permanecer en los ganchos para ser rodo por la polilla, ni
+con todo; nada debe permanecer en los ganchos para ser roído por la polilla, ni
 
 nada debe permanecer en la ventana para ser objeto de miradas ociosas:
 
-vstete
+vístete
 
-de toda la armadura de Dios. En la religin verdadera todo est diseado
+de toda la armadura de Dios. En la religión verdadera todo está diseńado
 
-para un uso prctico. No guardamos ningn vestido en el cajn; tenemos que
+para un uso práctico. No guardamos ningún vestido en el cajón; tenemos que
 
-ponernos todo lo que nos es provisto. Vestos, pues, como escogidos de Dios,
+ponernos todo lo que nos es provisto. “Vestíos, pues, como escogidos de Dios,
 
-santos y amados, de entraable misericordia, de benignidad. Aqu hay dos cosas
+santos y amados, de entrańable misericordia, de benignidad”. Aquí hay dos cosas
 
-selectas: misericordia y benignidad: son, en verdad, mantos de seda! Te los
+selectas: misericordia y benignidad: ˇson, en verdad, mantos de seda! żTe los
 
-has puesto? Yo debo ser tan misericordioso, tan tierno de corazn, tan benigno,
+has puesto? Yo debo ser tan misericordioso, tan tierno de corazón, tan benigno,
 
 tan compasivo, tan amoroso para con mis semejantes como Cristo mismo lo fue.
 
-He alcanzado ese punto? Me he propuesto alcanzarlo? Quin de nosotros se ha
+żHe alcanzado ese punto? żMe he propuesto alcanzarlo? żQuién de nosotros se ha
 
 puesto estos guantes reales?
 
-Vean lo que sigue estas
+Vean lo que sigue –estas
 
-cosas selectas vienen en pares- humildad, mansedumbre. Estos vestidos
+cosas selectas vienen en pares- “humildad, mansedumbre”. Estos vestidos
 
-escogidos no son tan estimados como deberan serlo. La tela de uno llamado
+escogidos no son tan estimados como deberían serlo. La tela de uno llamado
 
-Altivo de corazn est muy de moda, y los adornos del seor Desptico son muy
+“Altivo de corazón” está muy de moda, y los adornos del seńor Despótico son muy
 
-solicitados. Es algo triste ver qu grandes varones son algunos cristianos.
+solicitados. Es algo triste ver qué grandes varones son algunos cristianos.
 
-Ciertamente, el lacayo es mayor que su amo. Cmo pueden fanfarronear y
+Ciertamente, el lacayo es mayor que su amo. ˇCómo pueden fanfarronear y
 
-bravuconear algunos que quieren ser considerados santos! Acaso eso es vestirse
+bravuconear algunos que quieren ser considerados santos! żAcaso eso es vestirse
 
-del Seor Jesucristo? Mustrenme una palabra de nuestro Seor en la que haya
+del Seńor Jesucristo? Muéstrenme una palabra de nuestro Seńor en la que haya
 
-increpado y tiranizado y pisoteado a alguien. l era manso y humilde, l, quien
+increpado y tiranizado y pisoteado a alguien. Él era manso y humilde, Él, quien
 
-era el Seor de todo; cmo deberamos ser nosotros, que no somos dignos de desatar
+era el Seńor de todo; żcómo deberíamos ser nosotros, que no somos dignos de desatar
 
-el calzado de Sus pies? Permtanme decirle a cualquier amado hermano que no
+el calzado de Sus pies? Permítanme decirle a cualquier amado hermano que no
 
-tenga una naturaleza muy tierna y que sea naturalmente duro y spero: Vstete
+tenga una naturaleza muy tierna y que sea naturalmente duro y áspero: “Vístete
 
-del Seor Jesucristo, hermano mo, y no proveas para tu insensible naturaleza.
+del Seńor Jesucristo”, hermano mío, y no proveas para tu insensible naturaleza.
 
-Esfurzate por ser de mente humilde, para que seas de espritu benigno.
+Esfuérzate por ser de mente humilde, para que seas de espíritu benigno.
 
-Vean, a continuacin,
+Vean, a continuación,
 
 que hemos de vestirnos de paciencia y tolerancia. Algunas personas no tienen
 
-paciencia con los dems; cmo pueden esperar que Dios tenga paciencia con
+paciencia con los demás; żcómo pueden esperar que Dios tenga paciencia con
 
-ellas? Si no se hace todo como ellas esperan, se encienden en ira. Oh, Dios
+ellas? Si no se hace todo como ellas esperan, se encienden en ira. ˇOh, Dios
 
-mo! A quin tenemos aqu? Es este un siervo de Marte o del dios del fuego? Ciertamente
+mío! żA quién tenemos aquí? żEs este un siervo de Marte o del dios del fuego? ˇCiertamente
 
 este hombre combatiente no profesa ser un adorador de Cristo! No me digas que
 
-el varn perdi su compostura. Sera una misericordia si la hubiera perdido
+el varón perdió su compostura. Sería una misericordia si la hubiera perdido
 
-como para no recuperarla nunca ms. l es egosta, petulante, exigente, y fcilmente
+como para no recuperarla nunca más. Él es egoísta, petulante, exigente, y fácilmente
 
-irritable. Tiene este hombre el espritu de Cristo? Si fuese un cristiano,
+irritable. żTiene este hombre el espíritu de Cristo? Si fuese un cristiano,
 
-sera un cristiano desnudo, y yo lo exhortara a que se vistiera del Seor
+sería un cristiano desnudo, y yo lo exhortaría a que se ‘vistiera del Seńor
 
-Jesucristo para que pudiera estar vestido apropiadamente. Nuestro Seor era
+Jesucristo’ para que pudiera estar vestido apropiadamente. Nuestro Seńor era
 
-sobremanera paciente. Considerad a aquel que sufri tal contradiccin de
+sobremanera paciente. “Considerad a aquel que sufrió tal contradicción de
 
-pecadores contra s mismo, para que vuestro nimo no se canse hasta desmayar.
+pecadores contra sí mismo, para que vuestro ánimo no se canse hasta desmayar”.
 
-Vstanse del Seor Jesucristo y sean pacientes y tolerantes. Soporten gran cantidad
+Vístanse del Seńor Jesucristo y sean pacientes y tolerantes. Soporten gran cantidad
 
-de cosas que no les deberan ser infligidas realmente, y estn listos para
+de cosas que no les deberían ser infligidas realmente, y estén listos para
 
-tolerar todava ms, antes que ofender o sentirse ofendidos.
+tolerar todavía más, antes que ofender o sentirse ofendidos.
 
-Soportndoos unos a
+“Soportándoos unos a
 
-otros, y perdonndoos unos a otros si alguno tuviere queja contra otro. De la
+otros, y perdonándoos unos a otros si alguno tuviere queja contra otro. De la
 
-manera que Cristo os perdon, as tambin hacedlo vosotros. Acaso no es sta
+manera que Cristo os perdonó, así también hacedlo vosotros”. żAcaso no es ésta
 
-una enseanza celestial? Pnganla en prctica. Vstanse de su Seor. Han cado
+una enseńanza celestial? Pónganla en práctica. Vístanse de su Seńor. żHan caído
 
-en desacuerdos entre ustedes? Acaso o gruir a uno de ustedes diciendo: voy
+en desacuerdos entre ustedes? żAcaso oí gruńir a uno de ustedes diciendo: “voy
 
-a, voy a, voy a _ _? Alto, hermano! Qu hars? Si eres fiel al Seor
+a, voy a, voy a _ _”? ˇAlto, hermano! żQué harás? Si eres fiel al Seńor
 
-Jesucristo no te vengars con tu mano, sino que dejars lugar a la ira. Recubre
+Jesucristo no te vengarás con tu mano, sino que dejarás lugar a la ira. Recubre
 
-del Seor Jesucristo tu lengua, y no hablars tan amargamente; recubre de l tu
+del Seńor Jesucristo tu lengua, y no hablarás tan amargamente; recubre de Él tu
 
-corazn, y no sentirs tan fieramente; vstete de l en la totalidad de tu
+corazón, y no sentirás tan fieramente; vístete de Él en la totalidad de tu
 
-carcter, y perdonars fcilmente, no slo esta nica vez, sino hasta setenta
+carácter, y perdonarás fácilmente, no sólo esta única vez, sino hasta setenta
 
-veces siete. Si has sido tratado injustamente por alguien que debera haber
+veces siete. Si has sido tratado injustamente por alguien que debería haber
 
-sido tu amigo, aparta la ira y comienza de nuevo; y tal vez tu hermano comenzar
+sido tu amigo, aparta la ira y comienza de nuevo; y tal vez tu hermano comenzará
 
-tambin de nuevo, y ambos, por amor, vencern al mal. Vestos del Seor
+también de nuevo, y ambos, por amor, vencerán al mal. “Vestíos del Seńor
 
-Jesucristo.
+Jesucristo”.
 
-Y sobre todas estas
+“Y sobre todas estas
 
-cosas vestos de amor, que es el vnculo perfecto. El amor es el cinturn que
+cosas vestíos de amor, que es el vínculo perfecto”. El amor es el cinturón que
 
-cie todas las dems prendas de vestir, y mantiene a todas las otras gracias
+cińe todas las demás prendas de vestir, y mantiene a todas las otras gracias
 
-bien preparadas y en sus debidos lugares. Vstanse de amor: qu hermoso
+bien preparadas y en sus debidos lugares. Vístanse de amor: ˇqué hermoso
 
-cinturn de oro! Estamos todos nosotros vistindonos de amor? Hemos sido
+cinturón de oro! żEstamos todos nosotros vistiéndonos de amor? Hemos sido
 
-bautizados en Cristo, y profesamos habernos vestido de Cristo; pero, procuramos
+bautizados en Cristo, y profesamos habernos vestido de Cristo; pero, żprocuramos
 
 vestirnos diariamente de amor? Nuestro bautismo no fue verdadero si es que no
 
-estamos sepultados a todas las viejas enemistades. Pudiramos tener muchas
+estamos sepultados a todas las viejas enemistades. ˇPudiéramos tener muchas
 
-grandes fallas, pero que Dios nos conceda que estemos llenos de amor por Jess,
+grandes fallas, pero que Dios nos conceda que estemos llenos de amor por Jesús,
 
 por Su pueblo, y por toda la humanidad!
 
-Cunto deseara que
+ˇCuánto desearía que
 
-todos pudiramos vestirnos del siguiente artculo de este guardarropa y que
+todos pudiéramos vestirnos del siguiente artículo de este guardarropa y que
 
-pudiramos conservarlo puesto! Y la paz de Dios gobierne en vuestros
+pudiéramos conservarlo puesto! “Y la paz de Dios gobierne en vuestros
 
 corazones, a la que asimismo fuisteis llamados en un solo cuerpo; y sed
 
-agradecidos. Oh, que tuviramos una mente pacfica! Oh, que descansramos en
+agradecidos”. ˇOh, que tuviéramos una mente pacífica! ˇOh, que descansáramos en
 
-el Seor! Yo recomiendo esa ltima expresin: Sed agradecidos, para los
+el Seńor! Yo recomiendo esa última expresión: “Sed agradecidos”, para los
 
-hacendados y para otros cuyos intereses estn deprimidos. Podra recomendarla
+hacendados y para otros cuyos intereses están deprimidos. Podría recomendarla
 
 igualmente para ciertos comerciantes cuyo negocio es tan bueno como pudiera
 
-esperarse. Las cosas
+esperarse. “Las cosas
 
-estn
+están
 
 un poco
 
-mejor, me dijo una persona y en ese momento estaba amasando muchas riquezas.
+mejor”, me dijo una persona y en ese momento estaba amasando muchas riquezas.
 
-Cuando las cosas son sobremanera buenas, la gente dice que estn regulares, o
+Cuando las cosas son sobremanera buenas, la gente dice que están “regulares”, o
 
-que van un poco mejor; pero cuando hay una pequea cada, ellos claman acerca
+que van un “poco mejor”; pero cuando hay una pequeńa caída, ellos claman acerca
 
-de que nada funciona, que hay estancamiento, que es una ruina universal. El
+de que “nada funciona, que hay estancamiento, que es una ruina universal”. El
 
-agradecimiento es una rara virtud pero el amante del Seor Jess ha de abundar
+agradecimiento es una rara virtud pero el amante del Seńor Jesús ha de abundar
 
-en agradecimiento. Tener la mente en paz, quedarse callado, calmado, ecunime,
+en agradecimiento. Tener la mente en paz, quedarse callado, calmado, ecuánime,
 
-contento, ese es un bendito estado, y Jess estaba en tal estado, por tanto, Vestos
+contento, ese es un bendito estado, y Jesús estaba en tal estado, por tanto, “Vestíos
 
-del Seor Jesucristo. l nunca mostr disgusto o impaciencia. Nunca estaba
+del Seńor Jesucristo”. Él nunca mostró disgusto o impaciencia. Nunca estaba
 
-apresurado o preocupado; nunca se quej o ambicion. Acaso no haba nada que
+apresurado o preocupado; nunca se quejó o ambicionó. żAcaso no había nada que
 
-le preocupara? Ms de lo que te preocupa a ti, hermano. Acaso no haba muchas
+le preocupara? Más de lo que te preocupa a ti, hermano. żAcaso no había muchas
 
-cosas que lo turbaran? Ms que a todos nosotros juntos. Con todo, l no se
+cosas que lo turbaran? Más que a todos nosotros juntos. Con todo, Él no se
 
 alteraba, sino que mostraba una calma principesca, una serenidad divina. De
 
-esto quiere el Seor que nos vistamos. l nos deja Su paz, y quiere que Su gozo
+esto quiere el Seńor que nos vistamos. Él nos deja Su paz, y quiere que Su gozo
 
-sea cumplido en nosotros. l desea que vayamos por la vida con la paz de Dios
+sea cumplido en nosotros. Él desea que vayamos por la vida con la paz de Dios
 
 que guarda nuestros corazones y mentes de los asaltos del enemigo. Quiere que
 
@@ -1002,121 +1002,121 @@ estemos tranquilos y que seamos fuertes: que seamos fuertes porque estamos
 
 tranquilos y que estemos tranquilos porque somos fuertes.
 
-He ledo acerca de un
+He leído acerca de un
 
-gran hombre a quien le tomaba dos horas y media vestirse cada maana. En eso mostraba
+gran hombre a quien le tomaba dos horas y media vestirse cada mańana. En eso mostraba
 
-ms bien pequeez que grandeza, pero si cualquiera de ustedes se viste del
+más bien pequeńez que grandeza, pero si cualquiera de ustedes se viste del
 
-Seor Jesucristo puede tomarse todo el tiempo que quiera en acicalarse. Les
+Seńor Jesucristo puede tomarse todo el tiempo que quiera en acicalarse. Les
 
-tomar todas sus vidas, hermanos y hermanas mos, para vestirse plenamente del Seor
+tomará todas sus vidas, hermanos y hermanas míos, para vestirse plenamente del Seńor
 
-Jesucristo, y para conservarlo puesto. Pues djenme decirles de nuevo que no
+Jesucristo, y para conservarlo puesto. Pues déjenme decirles de nuevo que no
 
-slo han de ponerse todos estos vestidos que les he mostrado en el guardarropa
+sólo han de ponerse todos estos vestidos que les he mostrado en el guardarropa
 
-de Colosenses, pero, ms que esto, han de ponerse todo lo dems que constituye
+de Colosenses, pero, más que esto, han de ponerse todo lo demás que constituye
 
-a Cristo mismo. Qu vestido es este! Vestos de Cristo, dice el texto.
+a Cristo mismo. ˇQué vestido es este! “Vestíos de Cristo”, dice el texto.
 
-Vstanse del Seor
+Vístanse del Seńor
 
-Jesucristo como su vestido cotidiano. No slo en los das de fiesta y en los
+Jesucristo como su vestido cotidiano. No sólo en los días de fiesta y en los
 
-das de guardar, sino en todo tiempo y todo el tiempo. Vstanse del Seor
+días de guardar, sino en todo tiempo y todo el tiempo. Vístanse del Seńor
 
-Jesucristo en el da del Seor, pero no lo hagan a un lado durante la semana.
+Jesucristo en el día del Seńor, pero no lo hagan a un lado durante la semana.
 
 Las damas tienen joyas que se ponen ocasionalmente para ostentarlas en las
 
-grandes ocasiones; como regla, estas joyas estn guardadas en un joyero. Cristianos,
+grandes ocasiones; como regla, estas joyas están guardadas en un joyero. Cristianos,
 
-ustedes deben ostentar sus joyas siempre. Vstanse del Seor Jesucristo, y no
+ustedes deben ostentar sus joyas siempre. Vístanse del Seńor Jesucristo, y no
 
-oculten ninguna parte de l en algn cofre. Vstanse de Cristo y mantnganlo
+oculten ninguna parte de Él en algún cofre. Vístanse de Cristo y manténganlo
 
 puesto.
 
-El otro da vi a un
+El otro día vi a un
 
-misionero procedente del glido norte, el cual vesta un abrigo de piel de alce
+misionero procedente del gélido norte, el cual vestía un abrigo de piel de alce
 
-que haba usado entre los pieles rojas. Es un abrigo imprescindible, -coment-
+que había usado entre los ‘pieles rojas’. “Es un abrigo imprescindible”, -comentó-
 
-no hay nada como la piel. Lo he usado durante once aos. En la regin rtica
+“no hay nada como la piel. Lo he usado durante once ańos”. En la región ártica
 
-a travs de la cual haba viajado, haba usado esa pieza de vestir, tanto de
+a través de la cual había viajado, había usado esa pieza de vestir, tanto de
 
-da como de noche, pues el clima era demasiado fro para que pudiera
+día como de noche, pues el clima era demasiado frío para que pudiera
 
 desprenderse de alguna prenda.
 
 Hermanos, el mundo es
 
-demasiado fro para que nos permitamos quitarnos a Cristo ni siquiera durante una
+demasiado frío para que nos permitamos quitarnos a Cristo ni siquiera durante una
 
-hora. Estn volando tantas flechas en torno nuestro que no nos atrevemos a
+hora. Están volando tantas flechas en torno nuestro que no nos atrevemos a
 
 quitarnos ni una sola pieza de nuestra armadura ni siquiera por un instante.
 
-Gracias a Dios porque tenemos en nuestro Seor un atuendo que podemos usar
+Gracias a Dios porque tenemos en nuestro Seńor un atuendo que podemos usar
 
-siempre. Podemos vivir en l, y morir en l; podemos trabajar en l, y
+siempre. Podemos vivir en él, y morir en él; podemos trabajar en él, y
 
-descansar en l, y, tal como el vestido de Israel en el desierto, no envejecer
+descansar en él, y, tal como el vestido de Israel en el desierto, no envejecerá
 
-nunca. Vstanse de l ms y ms.
+nunca. Vístanse de Él más y más.
 
 Si se han puesto algo de
 
-Cristo, pnganse ms de Cristo. Yo no me atrevo a decir mucho para encomiar la
+Cristo, pónganse más de Cristo. Yo no me atrevo a decir mucho para encomiar la
 
-vestimenta, aqu en Inglaterra, pues la tendencia es sobrepasarse en esa
+vestimenta, aquí en Inglaterra, pues la tendencia es sobrepasarse en esa
 
-direccin; sin embargo, not el otro da el comentario de un misionero de las
+dirección; sin embargo, noté el otro día el comentario de un misionero de las
 
-Islas de los Mares del Sur, que conforme los paganos se convertan, comenzaban
+Islas de los Mares del Sur, que conforme los paganos se convertían, comenzaban
 
-a usar vestidos, y conforme adquiran sensibilidad de conciencia y delicadeza
+a usar vestidos, y conforme adquirían sensibilidad de conciencia y delicadeza
 
-de sentimiento, prestaban mayor atencin a su atavo, usando ms ropa y de un
+de sentimiento, prestaban mayor atención a su atavío, usando más ropa y de un
 
 mejor tipo. Como quiera que fuera en cuanto al vestido para el cuerpo, es
 
-ciertamente as en cuanto al vestido del alma. Conforme progresamos
+ciertamente así en cuanto al vestido del alma. Conforme progresamos
 
-espiritualmente, tenemos ms gracias y ms virtudes que al principio. Antes nos
+espiritualmente, tenemos más gracias y más virtudes que al principio. Antes nos
 
-conformbamos con llevar la fe nicamente, pero ahora nos ponemos esperanza y
+conformábamos con llevar la fe únicamente, pero ahora nos ponemos esperanza y
 
-amor. Si antes nos ponamos la humildad, dejbamos de ponernos el
+amor. Si antes nos poníamos la humildad, dejábamos de ponernos el
 
 agradecimiento; pero nuestro texto nos exhorta a usar un vestido completo, un
 
-traje para la corte, pues hemos de vestirnos del Seor Jesucristo. No puedes
+traje para la corte, pues hemos de “vestirnos del Seńor Jesucristo”. No puedes
 
-ponerte demasiado de l. Estn cubiertos de l de la cabeza a los pies.
+ponerte demasiado de Él. Estén cubiertos de Él de la cabeza a los pies.
 
-Vstanse del Seor en
+Vístanse del Seńor en
 
-todo tiempo de tribulacin. No se lo quiten cuando llegue el momento de la
+todo tiempo de tribulación. No se lo quiten cuando llegue el momento de la
 
-prueba. El ingenioso Henry Smith dice que algunas personas se visten del Seor
+prueba. El ingenioso Henry Smith dice que algunas personas se visten del Seńor
 
 Jesucristo tal como un hombre usa su sombrero el cual se quita ante cada
 
 persona que se encuentra. Me temo que conozco a algunas personas de ese tipo,
 
-que se visten de Cristo en privado, pero que se despojan de l cuando estn en
+que se visten de Cristo en privado, pero que se despojan de Él cuando están en
 
-compaa, especialmente en la compaa de la gente del mundo, de los
+compańía, especialmente en la compańía de la gente del mundo, de los
 
-sarcsticos y de los incrdulos. Vstete de Cristo con la intencin de no
+sarcásticos y de los incrédulos. Vístete de Cristo con la intención de no
 
-quitrtelo nunca. Cuando seas tentado, probado o ridiculizado, oye en tu odo
+quitártelo nunca. Cuando seas tentado, probado o ridiculizado, oye en tu oído
 
-esta voz: Vestos del Seor Jesucristo. Pntelo ms en la medida que otros te
+esta voz: “Vestíos del Seńor Jesucristo”. Póntelo más en la medida que otros te
 
 tienten para que te lo quites.
 
@@ -1124,33 +1124,33 @@ III.
 
 Mi
 
-tiempo se agota y debo notar apresuradamente, en tercer lugar, CMO HEMOS DE
+tiempo se agota y debo notar apresuradamente, en tercer lugar, CÓMO HEMOS DE
 
-ACTUAR EN ESTE VESTIDO RESPECTO AL MAL. El texto dice: Revestos ms bien del
+ACTUAR EN ESTE VESTIDO RESPECTO AL MAL. El texto dice: “Revestíos más bien del
 
-Seor Jesucristo y no os preocupis de la carne para satisfacer sus
+Seńor Jesucristo y no os preocupéis de la carne para satisfacer sus
 
-concupiscencias. La carne describe aqu la parte malvada de nosotros, a la
+concupiscencias”. La carne describe aquí la parte malvada de nosotros, a la
 
 cual ayudan grandemente los apetitos y deseos del cuerpo. Cuando una persona se
 
-viste de Cristo, tiene todava presente a la carne en l? Ay, as es! Oigo
+viste de Cristo, żtiene todavía presente a la carne en él? ˇAy, así es! Oigo
 
-que algunos hermanos afirman que no tienen ningn remanente de corrupcin en
+que algunos hermanos afirman que no tienen ningún remanente de corrupción en
 
 ellos. Yo exijo la libertad de creer lo que yo quiera de los enunciados del
 
-hombre en cuanto a su propio carcter personal. Cuando da testimonio con
+hombre en cuanto a su propio carácter personal. Cuando da testimonio con
 
-respecto de s mismo, su testimonio pudiera ser cierto o no. Cuando un hombre
+respecto de sí mismo, su testimonio pudiera ser cierto o no. Cuando un hombre
 
-me dice que l es perfecto, oigo lo que tiene que decirme, pero tranquilamente
+me dice que él es perfecto, oigo lo que tiene que decirme, pero tranquilamente
 
-pienso en mi interior que si lo hubiese sido, no habra sentido la necesidad de
+pienso en mi interior que si lo hubiese sido, no habría sentido la necesidad de
 
-divulgar esa informacin. El buen vino no necesita ser recomendado, y una vez
+divulgar esa información. “El buen vino no necesita ser recomendado”, y una vez
 
-que nuestra ciudad contenga a un hombre perfecto dentro de sus lmites no habr
+que nuestra ciudad contenga a un hombre perfecto dentro de sus límites no habrá
 
 necesidad de hacerle publicidad. Los bienes que son elogiados exageradamente
 
@@ -1158,9 +1158,9 @@ probablemente requieren una publicidad exagerada. Hermanos, me temo que todos
 
 nosotros tenemos mucho de la carne en nosotros, y por tanto, necesitamos estar
 
-en guardia contra ella. Qu dice el apstol? Y no proveis para los deseos de
+en guardia contra ella. żQué dice el apóstol? “Y no proveáis para los deseos de
 
-la carne. Quiere decir varias cosas con esto.
+la carne”. Quiere decir varias cosas con esto.
 
 Primero, que
 
@@ -1168,193 +1168,193 @@ no ha de tolerarse
 
 en absoluto. No
 
-digan: Cristo me ha santificado hasta ahora; pero, mira, yo tengo por
+digan: “Cristo me ha santificado hasta ahora; pero, mira, yo tengo por
 
-naturaleza un mal carcter, y no se puede esperar que desaparezca. Amado
+naturaleza un mal carácter, y no se puede esperar que desaparezca”. Amado
 
 hermano, no proveas para refugiarte de esa manera y para perdonar a uno de los
 
-enemigos de tu alma. Otro exclama: T sabes que yo siempre he estado muy desanimado,
+enemigos de tu alma. Otro exclama: “Tú sabes que yo siempre he estado muy desanimado,
 
-y, por tanto, jams puedo sentir mucho gozo en el Seor. No abras espacio para
+y, por tanto, jamás puedo sentir mucho gozo en el Seńor”. No abras espacio para
 
-tu incredulidad. Si encuentras una perrera para este perro, se quedar por
+tu incredulidad. Si encuentras una perrera para este perro, se quedará por
 
-siempre all. Pero dice otro- a m me encant siempre la alegra, y por eso
+siempre allí. “Pero” –dice otro- “a mí me encantó siempre la alegría, y por eso
 
-debo mezclarme con el mundo. Bien, si cocinas una cena para el diablo, ocupar
+debo mezclarme con el mundo”. Bien, si cocinas una cena para el diablo, ocupará
 
 un asiento en tu mesa. Eso es proveer para la carne para satisfacer sus concupiscencias.
 
-No hagas eso, antes bien elimina a los cananeos, quiebra sus dolos, derriba
+No hagas eso, antes bien elimina a los cananeos, quiebra sus ídolos, derriba
 
 sus altares y tala sus bosques.
 
-Adems,
+Además,
 
-no le des ningn tiempo
+no le des ningún tiempo
 
 al pecado. No le
 
-des ninguna licencia a tu obediencia. No te digas: En cualquier otro momento
+des ninguna licencia a tu obediencia. No te digas: “En cualquier otro momento
 
-soy riguroso, pero una vez al ao, en una reunin familiar, me tomo una pequea
+soy riguroso, pero una vez al ańo, en una reunión familiar, me tomo una pequeńa
 
-libertad. Para ti pecar es libertad? Me temo que hay algo podrido en tu
+libertad”. żPara ti pecar es libertad? Me temo que hay algo podrido en tu
 
-corazn. Ah!, exclama alguien, yo slo me permito ocasionalmente una o dos
+corazón. “ˇAh!”, exclama alguien, “yo sólo me permito ocasionalmente una o dos
 
-horas de compaa cuestionable. Yo s que me hace dao, pero todos nosotros debemos
+horas de compańía cuestionable. Yo sé que me hace dańo, pero todos nosotros debemos
 
-tener un poco de descanso y la pltica es muy divertida, aunque un poco disoluta.
+tener un poco de descanso y la plática es muy divertida, aunque un poco disoluta”.
 
-Es mala la relajacin para ti? Debera ser peor que la esclavitud. Qu prueba
+żEs mala la relajación para ti? Debería ser peor que la esclavitud. ˇQué prueba
 
-es para un hijo de Dios la pltica necia! Cmo puedes encontrar placer en
+es para un hijo de Dios la plática necia! żCómo puedes encontrar placer en
 
-ella? No le permitas ninguna licencia a la carne; no puedes saber qu tan lejos
+ella? No le permitas ninguna licencia a la carne; no puedes saber qué tan lejos
 
-puede llegar. Mantenla siempre bajo sujecin, y no des espacio para su
+puede llegar. Mantenla siempre bajo sujeción, y no des espacio para su
 
 indulgencia.
 
 No proveas
 
-ningn alimento
+ningún alimento
 
 para ella. No le asignes
 
-ninguna racin. Djala morir de hambre; de cualquier manera, si necesita
+ninguna ración. Déjala morir de hambre; de cualquier manera, si necesita
 
-forraje, que lo busque en otra parte. Cuando distribuyas tu provisin para el
+forraje, que lo busque en otra parte. Cuando distribuyas tu provisión para el
 
-cuerpo, para el alma y para el espritu, no les distribuyas nada a las pasiones
+cuerpo, para el alma y para el espíritu, no les distribuyas nada a las pasiones
 
-depravadas. Si la carne dice: Qu hay para m?, dile: Nada. A algunas personas
+depravadas. Si la carne dice: “żQué hay para mí?”, dile: “Nada”. A algunas personas
 
 les gusta un poco de lectura para la carne. A algunas personas les gusta un
 
-poco de lo que llaman: alimento ms bien sublime, as que a estas personas
+poco de lo que llaman: alimento “más bien sublime”, así que a estas personas
 
-les encanta una porcin de doctrina contaminada, o de moralidad cuestionable.
+les encanta una porción de doctrina contaminada, o de moralidad cuestionable.
 
 De esta manera proveen para la carne, y la carne se cuida de alimentarse de
 
 eso, y de darle su alimento a sus concupiscencias. He conocido a personas
 
-profesantes, a quienes no me atrevera a juzgar, que se ocupan slo un poco
+profesantes, a quienes no me atrevería a juzgar, que se ocupan ‘sólo un poco’
 
-en cosas que les prohibiran a los dems, pero que consideran permisibles para
+en cosas que les prohibirían a los demás, pero que consideran permisibles para
 
-ellos mismos, si son hechas en secreto. No tienes que ser demasiado riguroso,
+ellos mismos, si son hechas en secreto. “No tienes que ser demasiado riguroso”,
 
-dicen. Pero el apstol dice: No proveis para los deseos de la carne. No le
+dicen. Pero el apóstol dice: “No proveáis para los deseos de la carne”. No le
 
-den ni una pequea porcin; ni siquiera le permitan las migajas que caen de su
+den ni una pequeńa porción; ni siquiera le permitan las migajas que caen de su
 
 mesa. La carne es ambiciosa y nunca tiene lo suficiente, y si le das alguna
 
-provisin, se robar mucho ms.
+provisión, se robará mucho más.
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo, y entonces no le dejarn ningn lugar a las concupiscencias de la
+Jesucristo”, y entonces no le dejarán ningún lugar a las concupiscencias de la
 
-carne. La parte que Cristo no cubra est desnuda para el pecado. Si Cristo es
+carne. La parte que Cristo no cubra está desnuda para el pecado. Si Cristo es
 
-mi librea, y yo la llevo puesta, y soy conocido as como Su siervo declarado,
+mi librea, y yo la llevo puesta, y soy conocido así como Su siervo declarado,
 
 entonces me coloco enteramente en Sus manos eternamente y para siempre, y la
 
-carne no tiene ningn derecho de ningn tipo sobre m. Si antes de vestirme de
+carne no tiene ningún derecho de ningún tipo sobre mí. Si antes de vestirme de
 
-Cristo poda hacer alguna salvedad y el deber no me llamaba, ahora que el Seor
+Cristo podía hacer alguna salvedad y el deber no me llamaba, ahora que el Seńor
 
 Jesucristo me cubre, he acabado con las excepciones, y soy abierta y
 
-profesamente de mi Seor. O no sabis que todos los que hemos sido bautizados
+profesamente de mi Seńor. “żO no sabéis que todos los que hemos sido bautizados
 
-en Cristo Jess, hemos sido bautizados en su muerte? Siendo sepultados con l,
+en Cristo Jesús, hemos sido bautizados en su muerte?” Siendo sepultados con Él,
 
-estamos muertos para el mundo, y vivimos slo para l. Que el Seor nos eleve a
+estamos muertos para el mundo, y vivimos sólo para Él. Que el Seńor nos eleve a
 
-esa pauta por Su poderoso Espritu, y l recibir la gloria por ello.
+esa pauta por Su poderoso Espíritu, y Él recibirá la gloria por ello.
 
 IV.
 
 Si
 
-ese es el caso, y en verdad nos hemos vestido del Seor Jesucristo, daremos
+ese es el caso, y en verdad nos hemos “vestido del Seńor Jesucristo”, daremos
 
-gracias a Dios eternamente; pero si no es as, no nos demoremos en vestirnos
+gracias a Dios eternamente; pero si no es así, no nos demoremos en vestirnos
 
-con ese atavo. POR QU DEBEMOS APRESURARNOS A VESTIRNOS DE CRISTO? Un momento
+con ese atavío. żPOR QUÉ DEBEMOS APRESURARNOS A VESTIRNOS DE CRISTO? Un momento
 
-es todo lo que queda. Est oscuro. He ah una armadura hecha de slida luz. Pongmonos
+es todo lo que queda. Está oscuro. He ahí una armadura hecha de sólida luz. Pongámonos
 
-ese atuendo de inmediato. Entonces la noche ser luz en torno nuestro, y otros
+ese atuendo de inmediato. Entonces la noche será luz en torno nuestro, y otros
 
-que nos contemplan glorificarn a Dios y solicitarn el mismo vestido. Con una
+que nos contemplan glorificarán a Dios y solicitarán el mismo vestido. Con una
 
 noche tan densa como la que nos rodea, el hombre necesita vestirse con luminosas
 
-ropas; necesita vestirse de la luz de Dios pues necesita ser protegido as
+ropas; necesita vestirse de la luz de Dios pues necesita ser protegido así
 
-prcticamente de la tinieblas circundantes.
+prácticamente de la tinieblas circundantes.
 
-Vestos del Seor
+“Vestíos del Seńor
 
-Jesucristo, adems, pues la noche pronto acabar: pronto vendr la maana. Los
+Jesucristo”, además, pues la noche pronto acabará: pronto vendrá la mańana. Los
 
-harapos del pecado, las srdidas ropas de la mundanalidad no son un atuendo
+harapos del pecado, las sórdidas ropas de la mundanalidad no son un atuendo
 
-apropiado para la maana celestial. Vistmonos para recibir al sol naciente.
+apropiado para la mańana celestial. Vistámonos para recibir al sol naciente.
 
 Salgamos a recibir a la aurora cubiertos con vestidos de luz.
 
-Vestos del Seor
+ˇ“Vestíos del Seńor
 
-Jesucristo, pues l viene, el amado de nuestras almas! Sobre los montes omos
+Jesucristo”, pues Él viene, el amado de nuestras almas! Sobre los montes oímos
 
-resonar las trompetas; los heraldos estn dando voces: El esposo viene! El
+resonar las trompetas; los heraldos están dando voces: “ˇEl esposo viene! ˇEl
 
-esposo viene! Aunque pareciera haberse demorado, siempre ha estado viniendo
+esposo viene!” Aunque pareciera haberse demorado, siempre ha estado viniendo
 
-apresuradamente. Omos hoy las ruedas de Su carro en la distancia. Su
+apresuradamente. Oímos hoy las ruedas de Su carro en la distancia. Su
 
-advenimiento est ms y ms cercano. No durmamos como los dems.
+advenimiento está más y más cercano. No durmamos como los demás.
 
-Bienaventurados lo que estn preparados para la boda cuando venga el Esposo.
+Bienaventurados lo que estén preparados para la boda cuando venga el Esposo.
 
-Cul es ese vestido de bodas que nos permitir estar preparados? Nada puede
+żCuál es ese vestido de bodas que nos permitirá estar preparados? Nada puede
 
-hacernos ms aptos para recibir a Cristo y estar con l en Su gloria, que nos
+hacernos más aptos para recibir a Cristo y estar con Él en Su gloria, que nos
 
 vistamos hoy de Cristo. Si llevo a Cristo como mi vestido le hago un gran honor
 
 a Cristo como mi Esposo. Si lo tomo como mi gloria y mi hermosura mientras
 
-estoy aqu, puedo estar seguro de que l ser todo eso y ms para m en la
+estoy aquí, puedo estar seguro de que Él será todo eso y más para mí en la
 
-eternidad. Si me complazco en Jess aqu, Jess se complacer en m cuando nos
+eternidad. Si me complazco en Jesús aquí, Jesús se complacerá en mí cuando nos
 
-encontremos en el aire, y me lleve a lo alto para morar con l eternamente.
+encontremos en el aire, y me lleve a lo alto para morar con Él eternamente.
 
-Pnganse el vestido de bodas, ustedes, amados del Seor! Pnganse el vestido
+ˇPónganse el vestido de bodas, ustedes, amados del Seńor! ˇPónganse el vestido
 
-de bodas, ustedes, esposas del Cordero, y pnganselo de inmediato, pues he aqu
+de bodas, ustedes, esposas del Cordero, y pónganselo de inmediato, pues he aquí
 
-que l viene! Apresrense, apresrense, ustedes, vrgenes adormiladas!
+que Él viene! ˇApresúrense, apresúrense, ustedes, vírgenes adormiladas!
 
-Levntense y despabilen sus lmparas! Pnganse sus ropas, y estn listas para
+ˇLevántense y despabilen sus lámparas! Pónganse sus ropas, y estén listas para
 
-contemplar Su gloria y para participar en ella. Oh, ustedes, almas vrgenes,
+contemplar Su gloria y para participar en ella. Oh, ustedes, almas vírgenes,
 
-salgan a recibirlo; salgan con gozo y alegra, llevndolo a l mismo como su
+salgan a recibirlo; salgan con gozo y alegría, llevándolo a Él mismo como su
 
-hermoso ropaje, apto para las hijas de un Rey. Que el Seor los bendiga, por
+hermoso ropaje, apto para las hijas de un Rey. ˇQue el Seńor los bendiga, por
 
-Cristo nuestro Seor! Amn.
+Cristo nuestro Seńor! Amén.
 
 Porciones de
 
@@ -1362,9 +1362,9 @@ la
 
 Escritura
 
-ledas antes del sermn: Romanos 12; 13: 8-14.
+leídas antes del sermón: Romanos 12; 13: 8-14.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 27/Septiembre/2012
 

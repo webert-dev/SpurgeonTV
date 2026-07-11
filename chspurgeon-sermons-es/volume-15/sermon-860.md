@@ -1,16 +1,16 @@
 # Sermón 860 | Sermón 860
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Consternacin
+Consternación
 
-ante el Espectculo del Crucificado
+ante el Espectáculo del Crucificado
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -18,179 +18,179 @@ DOMINGO 14 DE MARZO
 
 DE 1869
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y toda la multitud de los que estaban presentes en este espectculo,
+“Y toda la multitud de los que estaban presentes en este espectáculo,
 
-viendo lo que haba acontecido, se volvan golpendose el pecho.
+viendo lo que había acontecido, se volvían golpeándose el pecho”.
 
 Lucas 23: 48.
 
 Muchos en aquella
 
-multitud haban presenciado la crucifixin de Jess motivados por la ms
+multitud habían presenciado la crucifixión de Jesús motivados por la más
 
-furiosa malicia. Haban perseguido y acosado al Salvador como los perros
+furiosa malicia. Habían perseguido y acosado al Salvador como los perros
 
 persiguen al ciervo, y al final, completamente locos de rabia, le acorralaron
 
 para matarle. Otros, suficientemente dispuestos a pasar una hora de ocio
 
-contemplando un espectculo sensacional, hicieron crecer el gento hasta llegar
+contemplando un espectáculo sensacional, hicieron crecer el gentío hasta llegar
 
-a formar una vasta asamblea congregada alrededor del pequeo monte sobre el
+a formar una vasta asamblea congregada alrededor del pequeńo monte sobre el
 
-cual fueron levantadas las tres cruces. All unnimemente, ya fuera por malicia
+cual fueron levantadas las tres cruces. Allí unánimemente, ya fuera por malicia
 
-o por frivolidad, todos ellos se unieron para burlarse de la vctima que penda
+o por frivolidad, todos ellos se unieron para burlarse de la víctima que pendía
 
 en la cruz colocada en el centro. Algunos le sacaban la lengua, otros meneaban
 
-sus cabezas, otros le escarnecan y se burlaban, algunos le provocaban
+sus cabezas, otros le escarnecían y se burlaban, algunos le provocaban
 
-sarcsticamente con palabras y otros con gestos, pero todos se divertan
+sarcásticamente con palabras y otros con gestos, pero todos se divertían
 
-igualmente con el indefenso varn que les era dado como presa para sus dientes.
+igualmente con el indefenso varón que les era dado como presa para sus dientes.
 
-La tierra nunca presenci una escena en la que tanto escarnio irrestricto y
+La tierra nunca presenció una escena en la que tanto escarnio irrestricto y
 
-tantas expresiones de desprecio fueran derramados tan unnimemente y durante
+tantas expresiones de desprecio fueran derramados tan unánimemente y durante
 
 tanto tiempo sobre un hombre. Debe de haber sido espantoso en grado sumo haber
 
-visto las muecas de tantas caras y tantos ojos burlones, y haber odo tantas
+visto las muecas de tantas caras y tantos ojos burlones, y haber oído tantas
 
-crueles palabras y tantos gritos de desprecio. El espectculo fue demasiado
+crueles palabras y tantos gritos de desprecio. El espectáculo fue demasiado
 
 detestable para ser soportado por mucho tiempo por el cielo. Escandalizado por
 
-la escena, el sol vel repentinamente su faz, y durante tres largas horas la
+la escena, el sol veló repentinamente su faz, y durante tres largas horas la
 
-procaz pandilla se sent trmula en la medianoche de un medioda. Mientras
+procaz pandilla se sentó trémula en la medianoche de un mediodía. Mientras
 
-tanto la tierra tembl bajo sus pies, las rocas se partieron, y el santo velo
+tanto la tierra tembló bajo sus pies, las rocas se partieron, y el santo velo
 
-del templo por defender supersticiosamente su perpetuidad haban cometido el
+del templo –por defender supersticiosamente su perpetuidad habían cometido el
 
 asesinato del justo- fue rasgado como por unas fuertes manos invisibles. Las
 
 noticias de esto, el sentimiento de horror producido por las tinieblas y el
 
-temblor de tierra provocaron sentimientos de repugnancia; ya no hubo ms
+temblor de tierra provocaron sentimientos de repugnancia; ya no hubo más
 
-sarcasmos ni bromas, ya no sacaron ms la lengua ni hubo crueles burlas, sino
+sarcasmos ni bromas, ya no sacaron más la lengua ni hubo crueles burlas, sino
 
-que regresaron a sus casas solitarios, individualmente, o en pequeos grupos
+que regresaron a sus casas solitarios, individualmente, o en pequeńos grupos
 
 silenciosos, mientras cada individuo -siguiendo la costumbre de los orientales
 
 cuando se ven sobrecogidos por un pavor repentino- se daba golpes de pecho. La
 
-procesin que se diriga a las puertas de Jerusaln era muy diferente de
+procesión que se dirigía a las puertas de Jerusalén era muy diferente de
 
-aquella marcha de locura que haba salido por ellas. Observen el poder que
+aquella marcha de locura que había salido por ellas. ˇObserven el poder que
 
-Dios tiene sobre las mentes humanas! Vean cmo puede domar a los ms salvajes y
+Dios tiene sobre las mentes humanas! ˇVean cómo puede domar a los más salvajes y
 
-cmo hace que los ms maliciosos y altivos se acobarden a Sus pies cuando se
+cómo hace que los más maliciosos y altivos se acobarden a Sus pies cuando se
 
-manifiesta simplemente en los portentos de la naturaleza! Cunto ms
+manifiesta simplemente en los portentos de la naturaleza! ˇCuánto más
 
-acobardados y aterrorizados estarn cuando desnude Su brazo y salga en los
+acobardados y aterrorizados estarán cuando desnude Su brazo y salga en los
 
-juicios de Su ira para tratar con ellos segn sus merecimientos!
+juicios de Su ira para tratar con ellos según sus merecimientos!
 
 Este memorable y
 
 repentino cambio en tan vasta multitud aptamente representa otros dos notables
 
-cambios mentales. Cun semejante es a la clemente transformacin que una contemplacin
+cambios mentales. ˇCuán semejante es a la clemente transformación que una contemplación
 
 de la cruz ha obrado a menudo de manera sumamente bendita en los corazones de
 
-los hombres! Muchos han asistido a la predicacin del Evangelio resueltos a
+los hombres! Muchos han asistido a la predicación del Evangelio resueltos a
 
-burlarse, pero regresan orando. Los motivos ms ociosos e incluso los ms viles
+burlarse, pero regresan orando. Los motivos más ociosos e incluso los más viles
 
-han motivado a los hombres a or una predicacin, pero cuando Jess ha sido
+han motivado a los hombres a oír una predicación, pero cuando Jesús ha sido
 
-expuesto, han sido atrados a l salvadoramente, y como consecuencia de ello se
+expuesto, han sido atraídos a Él salvadoramente, y como consecuencia de ello se
 
 han golpeado el pecho en arrepentimiento, y han seguido su camino sirviendo al
 
-Salvador contra quien blasfemaron una vez. Oh, el poder, el poder de esa amada
+Salvador contra quien blasfemaron una vez. ˇOh, el poder, el poder de esa amada
 
-cruz de Cristo que derrite, vence y transforma! Hermanos mos, slo tenemos que
+cruz de Cristo que derrite, vence y transforma! Hermanos míos, sólo tenemos que
 
-atenernos a su predicacin, solo tenemos que divulgar la historia sin par, y
+atenernos a su predicación, solo tenemos que divulgar la historia sin par, y
 
-podemos esperar ver los ms notables resultados espirituales. No debemos perder
+podemos esperar ver los más notables resultados espirituales. No debemos perder
 
-la esperanza por nadie ahora que Jess ha muerto por los pecadores. Con un
+la esperanza por nadie ahora que Jesús ha muerto por los pecadores. Con un
 
-martillo tal como la doctrina de la cruz el corazn ms empedernido ser
+martillo tal como la doctrina de la cruz el corazón más empedernido será
 
-quebrantado; con un fuego tal como el dulce amor de Cristo, el tmpano ms compacto
+quebrantado; con un fuego tal como el dulce amor de Cristo, el témpano más compacto
 
-se derretir. No hemos de perder nunca la esperanza por las razas paganas o
+se derretirá. No hemos de perder nunca la esperanza por las razas paganas o
 
-supersticiosas; con solo que podamos encontrar la ocasin para poner a la
+supersticiosas; con solo que podamos encontrar la ocasión para poner a la
 
-doctrina de Cristo crucificado en contacto con sus naturalezas, las cambiar, y
+doctrina de Cristo crucificado en contacto con sus naturalezas, las cambiará, y
 
-Cristo ser su rey.
+Cristo será su rey.
 
-Un segundo y ms
+Un segundo y más
 
-terrible cambio es predicho tambin por el incidente en nuestro texto, es
+terrible cambio es predicho también por el incidente en nuestro texto, es
 
-decir, el efecto que tendr el espectculo de Cristo entronizado sobre los
+decir, el efecto que tendrá el espectáculo de Cristo entronizado sobre los
 
-altivos y obstinados que en esta vida se rebelaron contra l. Aqu se mofaban
+altivos y obstinados que en esta vida se rebelaron contra Él. Aquí se mofaban
 
-impertrritamente de l, y preguntaban insultantes: Quin es Jehov, para que
+impertérritamente de Él, y preguntaban insultantes: “żQuién es Jehová, para que
 
-yo oiga su voz? Aqu ellos se unieron osadamente en una conspiracin para
+yo oiga su voz?” Aquí ellos se unieron osadamente en una conspiración para
 
 romper Sus ligaduras, y echar de ellos Sus cuerdas, pero cuando se despierten
 
 al sonido de la trompeta y vean el gran trono blanco, que, como un espejo,
 
-reflejar su conducta sobre ellos, qu cambio habr en sus mentes! Dnde estn
+reflejará su conducta sobre ellos, ˇqué cambio habrá en sus mentes! żDónde están
 
-ahora sus burlas y sus mofas, donde estn ahora sus maliciosas frases y sus
+ahora sus burlas y sus mofas, donde están ahora sus maliciosas frases y sus
 
-palabras persecutorias? Qu! No hay nadie entre ustedes que pueda demostrar
+palabras persecutorias? ˇQué! żNo hay nadie entre ustedes que pueda demostrar
 
-hombra insultando al Hombre de Nazaret en Su cara? No, no hay ni uno! Como
+hombría insultando al Hombre de Nazaret en Su cara? ˇNo, no hay ni uno! ˇComo
 
-perros cobardes se escabullen! La lengua fanfarrona del infiel est callada!
+perros cobardes se escabullen! ˇLa lengua fanfarrona del infiel está callada!
 
-El altivo espritu del ateo est quebrantado! Con gritos de espanto y
+ˇEl altivo espíritu del ateo está quebrantado! Con gritos de espanto y
 
 clamorosos alaridos de terror, les suplican a los montes que los cubran y a las
 
-montaas que los oculten del rostro de Aquel preciso Varn cuya cruz fue una
+montańas que los oculten del rostro de Aquel preciso Varón cuya cruz fue una
 
-vez el objeto de su escarnio. Oh, pongan atencin, pecadores, pongan atencin,
+vez el objeto de su escarnio. Oh, pongan atención, pecadores, pongan atención,
 
-se los ruego, y pidan ser cambiados en este da por gracia, no vaya a ser que
+se los ruego, y pidan ser cambiados en este día por gracia, no vaya a ser que
 
-sean cambiados pronto por el terror, pues el corazn que no sea doblegado por
+sean cambiados pronto por el terror, pues el corazón que no sea doblegado por
 
-el amor de Cristo ser quebrantado por el terror de Su nombre. Si Jess en la
+el amor de Cristo será quebrantado por el terror de Su nombre. Si Jesús en la
 
-cruz no los salva, Cristo en el trono los condenar. Si la muerte de Cristo no
+cruz no los salva, Cristo en el trono los condenará. Si la muerte de Cristo no
 
-es tu vida, la vida de Cristo ser tu muerte. Si Cristo no es tu cielo en la
+es tu vida, la vida de Cristo será tu muerte. Si Cristo no es tu cielo en la
 
-tierra, la venida de Cristo desde el cielo ser tu infierno. Oh, que la gracia
+tierra, la venida de Cristo desde el cielo será tu infierno. Oh, que la gracia
 
 de Dios obre un bendito cambio de gracia en cada uno de nosotros, para que no
 
-seamos enviados al infierno en el terrible da de la rendicin de cuentas.
+seamos enviados al infierno en el terrible día de la rendición de cuentas.
 
 Ahora vamos a abordar el
 
@@ -198,7 +198,7 @@ texto, y en primer lugar,
 
 analizaremos la
 
-consternacin general en derredor de la cruz;
+consternación general en derredor de la cruz;
 
 en segundo lugar, con la
 
@@ -212,7 +212,7 @@ y entonces, antes de concluir,
 
 les recordaremos que al pie de la cruz
 
-nuestra afliccin debe mezclarse con gozo.
+nuestra aflicción debe mezclarse con gozo.
 
 I.
 
@@ -220,201 +220,201 @@ Primero,
 
 entonces, ANALICEMOS
 
-LA CONSTERNACIN
+LA CONSTERNACIÓN
 
 GENERAL
 
 que este texto describe.
 
-Y toda la multitud de los
+“Y toda la multitud de los
 
-que estaban presentes en este espectculo, viendo lo que haba acontecido, se
+que estaban presentes en este espectáculo, viendo lo que había acontecido, se
 
-volvan golpendose el pecho. Todos ellos se golpeaban el pecho, pero no todos
+volvían golpeándose el pecho”. Todos ellos se golpeaban el pecho, pero no todos
 
-lo hacan por la misma causa. Todos ellos tenan miedo, pero no por la misma
+lo hacían por la misma causa. Todos ellos tenían miedo, pero no por la misma
 
-razn. Las manifestaciones externas eran semejantes en toda la multitud, pero
+razón. Las manifestaciones externas eran semejantes en toda la multitud, pero
 
 los grados de diferencia en el sentimiento eran tantos como las mentes que
 
-rega. Haba muchos, sin duda, que eran movidos meramente por una emocin
+regía. Había muchos, sin duda, que eran movidos meramente por una emoción
 
-pasajera. Haban visto las agonas de la muerte de un notable varn, y los
+pasajera. Habían visto las agonías de la muerte de un notable varón, y los
 
-portentos que las acompaaron los haban persuadido de que l no era un ser
+portentos que las acompańaron los habían persuadido de que Él no era un ser
 
 ordinario, por lo que tuvieron miedo. Con una especie de temor indefinido que
 
 no estaba basado en un razonamiento muy inteligente, estaban alarmados porque
 
-Dios estaba airado, porque haba cerrado el ojo del da para ellos y haba hecho
+Dios estaba airado, porque había cerrado el ojo del día para ellos y había hecho
 
 que las rocas se partieran; y abrumados por este miedo indistinguible, siguieron
 
 su camino hasta sus respectivos hogares temblando y humillados; pero es posible
 
-que antes de que hubiera brillado la luz de la maana siguiente lo hubieran
+que antes de que hubiera brillado la luz de la mańana siguiente lo hubieran
 
-olvidado todo, y el siguiente da los encontr vidos de otro espectculo
+olvidado todo, y el siguiente día los encontró ávidos de otro espectáculo
 
 sangriento y listos para clavar a otro Cristo a la cruz, si hubiera habido
 
 alguien semejante que se encontrara en la tierra. Sus golpes de pecho no eran
 
-un quebrantamiento de corazn. Eran una lluvia de Abril, una gota del roco de
+un quebrantamiento de corazón. Eran una lluvia de Abril, una gota del rocío de
 
-la maana, una blanca escarcha que se disolvi cuando el sol sali. Cual una
+la mańana, una blanca escarcha que se disolvió cuando el sol salió. Cual una
 
-sombra la emocin pas por sus mentes, e igual que una sombra no dej ninguna
+sombra la emoción pasó por sus mentes, e igual que una sombra no dejó ninguna
 
-traza en pos de s. Cun a menudo en la predicacin de la cruz este ha sido el
+traza en pos de sí. ˇCuán a menudo en la predicación de la cruz este ha sido el
 
-nico resultado para decenas de miles! En esta casa donde tantas almas han sido
+único resultado para decenas de miles! En esta casa donde tantas almas han sido
 
-convertidas, muchas ms han derramado lgrimas que han sido enjugadas, y la
+convertidas, muchas más han derramado lágrimas que han sido enjugadas, y la
 
-razn de sus lgrimas ha sido olvidada. Un pauelo ha secado sus emociones. Ay!
+razón de sus lágrimas ha sido olvidada. Un pańuelo ha secado sus emociones. ˇAy!
 
-Ay! Ay!, porque mientras puede resultar difcil mover al llanto a los hombres
+ˇAy! ˇAy!, porque mientras puede resultar difícil mover al llanto a los hombres
 
-con la historia de la cruz, es todava ms difcil hacer que esas emociones
+con la historia de la cruz, es todavía más difícil hacer que esas emociones
 
-sean permanentes. He visto algo maravilloso esta maana, dijo uno que haba
+sean permanentes. “He visto algo maravilloso esta mańana”, dijo uno que había
 
-escuchado a un fiel predicador denodado, he visto a la congregacin entera
+escuchado a un fiel predicador denodado, “he visto a la congregación entera
 
-baada en lgrimas. Ay!, -respondi el predicador- hay algo ms
+bańada en lágrimas”. “ˇAy!”, -respondió el predicador- “hay algo más
 
-maravilloso todava, pues la mayora de ellos seguir su camino para olvidar
+maravilloso todavía, pues la mayoría de ellos seguirá su camino para olvidar
 
-que alguna vez derramaron una lgrima. Ah, mis oyentes, ser as siempre, ser
+que alguna vez derramaron una lágrima”. Ah, mis oyentes, żserá así siempre, será
 
-siempre as? Entonces, oh, ustedes impenitentes, vendr una lgrima a sus ojos
+siempre así? Entonces, oh, ustedes impenitentes, vendrá una lágrima a sus ojos
 
-que gotear por siempre, un gota hirviente que ninguna misericordia enjugar
+que goteará por siempre, un gota hirviente que ninguna misericordia enjugará
 
-jams, una sed que jams ser saciada, un gusano que jams morir y un fuego
+jamás, una sed que jamás será saciada, un gusano que jamás morirá y un fuego
 
-que jams se apagar. Por el amor que le tienen a sus almas, yo les ruego que
+que jamás se apagará. ˇPor el amor que le tienen a sus almas, yo les ruego que
 
 escapen de la ira venidera!
 
 Otros en medio de esa
 
-gran multitud exhiban emociones basadas en una reflexin ms seria. Vean que
+gran multitud exhibían emociones basadas en una reflexión más seria. Veían que
 
-haban participado en el asesinato de una persona inocente. Ay!, -decan-
+habían participado en el asesinato de una persona inocente. “ˇAy!”, -decían-
 
-todo lo vemos muy claro ahora. Ese hombre no era ningn transgresor. En todo
+“todo lo vemos muy claro ahora. Ese hombre no era ningún transgresor. En todo
 
-lo que hemos odo o visto acerca de l, hizo el bien y nicamente el bien; san
+lo que hemos oído o visto acerca de Él, hizo el bien y únicamente el bien; sanó
 
-siempre a los enfermos, dio de comer a los hambrientos y resucit a los
+siempre a los enfermos, dio de comer a los hambrientos y resucitó a los
 
-muertos. No hay ni una sola palabra de toda Su enseanza que sea realmente
+muertos. No hay ni una sola palabra de toda Su enseńanza que sea realmente
 
-contraria a la ley de Dios. l era un varn puro y santo. Todos nosotros hemos
+contraria a la ley de Dios. Él era un varón puro y santo. Todos nosotros hemos
 
-sido engaados. Esos sacerdotes nos han incitado a dar muerte a alguien a quien
+sido engańados. Esos sacerdotes nos han incitado a dar muerte a alguien a quien
 
-sera mil misericordias restaurar a la vida de inmediato. Nuestra raza a dado
+sería mil misericordias restaurar a la vida de inmediato. Nuestra raza a dado
 
-muerte a su benefactor. S dice uno- yo le saqu la lengua, me resultaba
+muerte a su benefactor”. “Sí” –dice uno- “yo le saqué la lengua, me resultaba
 
-casi imposible refrenarme cuando todos los dems se rean y burlaban de Sus
+casi imposible refrenarme cuando todos los demás se reían y burlaban de Sus
 
 torturas; pero me temo que me he burlado del inocente, y tiemblo no sea que las
 
-tinieblas que Dios ha enviado sean Su reprobacin de mi maldad al oprimir al
+tinieblas que Dios ha enviado sean Su reprobación de mi maldad al oprimir al
 
-inocente. Esos sentimientos prevaleceran, pero puedo suponer que no podran
+inocente”. Esos sentimientos prevalecerían, pero puedo suponer que no podrían
 
 llevar a los hombres a un sincero arrepentimiento, pues mientras pudieran
 
-sentirse mal por haber oprimido al inocente, con todo, no percibiendo en Jess
+sentirse mal por haber oprimido al inocente, con todo, no percibiendo en Jesús
 
-algo ms que una mera virtud maltratada y una humanidad sufriente, la emocin
+algo más que una mera virtud maltratada y una humanidad sufriente, la emoción
 
-natural podra pasar pronto y el resultado moral y espiritual no sera de gran
+natural podría pasar pronto y el resultado moral y espiritual no sería de gran
 
-valor. Con cunta frecuencia hemos visto en nuestros oyentes la descripcin de
+valor. ˇCon cuánta frecuencia hemos visto en nuestros oyentes la descripción de
 
-esa misma emocin! Han lamentado que le dieran muerte a Cristo, han sentido lo
+esa misma emoción! Han lamentado que le dieran muerte a Cristo, han sentido lo
 
-mismo que aquel antiguo rey de Francia que dijo: Me hubiera gustado estar all
+mismo que aquel antiguo rey de Francia que dijo: “Me hubiera gustado estar allí
 
-con diez mil de mis soldados, pues les habra cortado el cuello antes de que le
+con diez mil de mis soldados, pues les habría cortado el cuello antes de que le
 
-hubiesen tocado; pero esos mismos sentimientos han sido una evidencia de que
+hubiesen tocado”; pero esos mismos sentimientos han sido una evidencia de que
 
-no sentan su participacin en la culpa como deberan haberlo hecho, y que para
+no sentían su participación en la culpa como deberían haberlo hecho, y que para
 
-ellos la cruz de Jess no era un espectculo ms salvador que la muerte de un
+ellos la cruz de Jesús no era un espectáculo más salvador que la muerte de un
 
-mrtir comn. Queridos oyentes, eviten que la cruz se convierta en un lugar
+mártir común. Queridos oyentes, eviten que la cruz se convierta en un lugar
 
-comn para ustedes. Miren ms all de los sufrimientos de la inocente humanidad
+común para ustedes. Miren más allá de los sufrimientos de la inocente humanidad
 
-de Jess, y vean sobre el madero el sacrificio expiatorio de Cristo, pues de
+de Jesús, y vean sobre el madero el sacrificio expiatorio de Cristo, pues de
 
-otra manera miraran la cruz en vano.
+otra manera mirarían la cruz en vano.
 
-Sin duda haba en la
+Sin duda había en la
 
-multitud unos cuantos que se golpeaban el pecho porque sentan: Hemos dado
+multitud unos cuantos que se golpeaban el pecho porque sentían: “Hemos dado
 
-muerte a un profeta de Dios. As como en la antigedad nuestra nacin mat a
+muerte a un profeta de Dios. Así como en la antigüedad nuestra nación mató a
 
-Isaas y dio muerte a otros siervos del Seor, as hoy clavaron en la cruz a
+Isaías y dio muerte a otros siervos del Seńor, así hoy clavaron en la cruz a
 
-uno de los ltimos profetas, y Su sangre ser sobre nosotros y sobre nuestros
+uno de los últimos profetas, y Su sangre será sobre nosotros y sobre nuestros
 
-hijos. Es posible que algunos de ellos dijeran: Este hombre profesaba ser el
+hijos”. Es posible que algunos de ellos dijeran: “Este hombre profesaba ser el
 
-Mesas, y lo milagros que acompaaron a Su muerte comprobaron que lo era. Su
+Mesías, y lo milagros que acompańaron a Su muerte comprobaron que lo era. Su
 
-vida lo anuncia y Su muerte lo declara. Qu va a ser de nuestra nacin si
+vida lo anuncia y Su muerte lo declara. ˇQué va a ser de nuestra nación si
 
-hemos dado muerte al Prncipe de Paz! Cmo nos visitar Dios si hemos dado muerte
+hemos dado muerte al Príncipe de Paz! ˇCómo nos visitará Dios si hemos dado muerte
 
-a Su profeta! Tal consternacin aventajaba a otras formas; mostraba un
+a Su profeta! Tal consternación aventajaba a otras formas; mostraba un
 
-pensamiento ms profundo y un conocimiento ms claro, y hubiera podido ser una
+pensamiento más profundo y un conocimiento más claro, y hubiera podido ser una
 
-admirable preparacin para la escucha posterior del Evangelio; pero no bastara
+admirable preparación para la escucha posterior del Evangelio; pero no bastaría
 
-por s misma como una evidencia de gracia. Yo estar contento si mis oyentes en
+por sí misma como una evidencia de gracia. Yo estaré contento si mis oyentes en
 
-esta casa quedan persuadidos hoy, gracias al carcter de Cristo, que tiene que
+esta casa quedan persuadidos hoy, gracias al carácter de Cristo, que tiene que
 
-haber sido un profeta enviado por Dios y que l era el Mesas prometido en la
+haber sido un profeta enviado por Dios y que Él era el Mesías prometido en la
 
-antigedad; y me sentir gratificado si ellos, por tanto, lamentan las
+antigüedad; y me sentiré gratificado si ellos, por tanto, lamentan las
 
-vergonzosas crueldades que l recibi de parte de nuestra raza apstata. Tales
+vergonzosas crueldades que Él recibió de parte de nuestra raza apóstata. Tales
 
-emociones de compuncin y lstima son sumamente encomiables, y con la bendicin
+emociones de compunción y lástima son sumamente encomiables, y con la bendición
 
-de Dios pueden demostrar ser los surcos de su corazn en los que el Evangelio
+de Dios pueden demostrar ser los surcos de su corazón en los que el Evangelio
 
-puede echar races. Aquel a quien dieron muerte tan cruelmente era Dios sobre
+puede echar raíces. Aquel a quien dieron muerte tan cruelmente era Dios sobre
 
 todas las cosas, bendito por los siglos, el Redentor del mundo y el Salvador de
 
-aquellos que ponen su confianza en l. Que puedan aceptarlo hoy como su
+aquellos que ponen su confianza en Él. Que puedan aceptarlo hoy como su
 
-liberador, y que sean salvos as, pues si no, los ms poderosos remordimientos
+liberador, y que sean salvos así, pues si no, los más poderosos remordimientos
 
-concernientes a Su muerte, por mucho que indiquen su iluminacin, no
+concernientes a Su muerte, por mucho que indiquen su iluminación, no
 
-manifestarn su verdadera conversin.
+manifestarán su verdadera conversión.
 
 En el abigarrado grupo
 
-de todos los que regresaron a casa golpendose el pecho esperemos que hubiese
+de todos los que regresaron a casa golpeándose el pecho esperemos que hubiese
 
-algunos que dijeran: Verdaderamente ste era Hijo de Dios, y que les consternara
+algunos que dijeran: “Verdaderamente éste era Hijo de Dios”, y que les consternara
 
 pensar que hubiese sufrido por sus transgresiones, y que hubiese padecido por
 
@@ -422,23 +422,23 @@ sus iniquidades. Los que llegaron a ese punto fueron salvados. Bienaventurados
 
 los ojos que miraron al Cordero inmolado de esa manera, y dichosos los
 
-corazones que en ese mismo momento fueron quebrantados porque l fue herido y
+corazones que en ese mismo momento fueron quebrantados porque Él fue herido y
 
 sujetado a padecimiento por causa de ellos. Amados, aspiren a eso. Que la
 
-gracia de Dios los lleve a ver en Jesucristo a ningn otro que a Dios hecho
+gracia de Dios los lleve a ver en Jesucristo a ningún otro que a Dios hecho
 
-carne, pendiendo del madero en agona, para morir, el justo por los injustos,
+carne, pendiendo del madero en agonía, para morir, el justo por los injustos,
 
-para que pudiramos ser salvados. Oh, vengan y depositen su confianza en l, y
+para que pudiéramos ser salvados. Oh, vengan y depositen su confianza en Él, y
 
-luego dense golpes de pecho al pensar que fue necesaria una vctima as para su
+luego dense golpes de pecho al pensar que fue necesaria una víctima así para su
 
-redencin; entonces dejen de golpearse el pecho y comiencen a aplaudir de puro
+redención; entonces dejen de golpearse el pecho y comiencen a aplaudir de puro
 
-gozo, pues quienes as lloran a un Salvador pueden regocijarse en l, pues l
+gozo, pues quienes así lloran a un Salvador pueden regocijarse en Él, pues Él
 
-es suyo y ellos son de l.
+es suyo y ellos son de Él.
 
 II.
 
@@ -446,109 +446,109 @@ Ahora
 
 vamos a pedirles que SE UNAN EN
 
-LA LAMENTACIN
+LA LAMENTACIÓN
 
 , cada quien de acuerdo a su
 
-sinceridad de corazn, contemplando la cruz y golpendose el pecho.
+sinceridad de corazón, contemplando la cruz y golpeándose el pecho.
 
 Vamos a ponernos por fe
 
-al pie de la pequea loma del Calvario: all vemos en el centro, en medio de
+al pie de la pequeńa loma del Calvario: allí vemos en el centro, en medio de
 
 dos ladrones, al Hijo de Dios encarnado, clavado de manos y pies, y muriendo en
 
 una angustia que las palabras no pueden describir. Miren bien, se los ruego; miren
 
-atenta y devotamente, contemplando a travs de sus lgrimas. El que est
+atenta y devotamente, contemplando a través de sus lágrimas. El que está
 
 muriendo ahora por los hijos de los hombres es Aquel que era adorado por los
 
-ngeles; sintense y contemplen la muerte del Destructor de la muerte. Les voy
+ángeles; siéntense y contemplen la muerte del Destructor de la muerte. Les voy
 
 a pedir primero que se den golpes de pecho al recordar que
 
-ven en l sus propios pecados.
+ven en Él sus propios pecados.
 
-Cun grande es l! Esa cabeza
+ˇCuán grande es Él! Esa cabeza
 
-coronada de espinas una vez fue coronada con todas las regalas del cielo y de
+coronada de espinas una vez fue coronada con todas las regalías del cielo y de
 
-la tierra. Quien muere ah no es ningn hombre comn. Rey de reyes y Seor de seores
+la tierra. Quien muere ahí no es ningún hombre común. Rey de reyes y Seńor de seńores
 
 es Aquel que pende de esa cruz. Vean luego la gravedad de sus pecados que exigieron
 
 un sacrificio tan grande. Tienen que ser pecados infinitos los que requieren
 
-que una persona infinita entregue Su vida para que puedan quitados. T no
+que una persona infinita entregue Su vida para que puedan quitados. Tú no
 
-puedes medir nunca ni captar la grandeza de tu Seor en Su carcter y dignidad
+puedes medir nunca ni captar la grandeza de tu Seńor en Su carácter y dignidad
 
-esenciales, ni sers capaz de comprender jams la negrura y la atrocidad del
+esenciales, ni serás capaz de comprender jamás la negrura y la atrocidad del
 
-pecado que exigi Su vida como una expiacin. Hermano, date golpes de pecho, y
+pecado que exigió Su vida como una expiación. Hermano, date golpes de pecho, y
 
-di: Dios, s propicio a m, el peor de los pecadores, pues yo soy ese. Miren
+di: “Dios, sé propicio a mí, el peor de los pecadores, pues yo soy ese”. ˇMiren
 
-bien en el rostro de Jess, y vean cunto le han envilecido! Han manchado esas
+bien en el rostro de Jesús, y vean cuánto le han envilecido! Han manchado esas
 
-mejillas con salivazos; han azotado esos hombros con el ltigo destinado para
+mejillas con salivazos; han azotado esos hombros con el látigo destinado para
 
-los criminales; le hicieron morir una muerte que slo se asignaba a los ms
+los criminales; le hicieron morir una muerte que sólo se asignaba a los más
 
 bajos esclavos romanos; le han colgado entre el cielo y la tierra, como si no
 
-fuera apto para ninguno de los dos lugares; lo desnudaron por completo y no dejaron
+fuera apto para ninguno de los dos lugares; ˇlo desnudaron por completo y no dejaron
 
-que le cubriera ni un solo harapo! Ve all entonces, oh creyente, la vergenza
+que le cubriera ni un solo harapo! Ve allí entonces, oh creyente, la vergüenza
 
-de tus pecados. Qu cosa tan vergonzosa tiene que haber sido tu pecado; qu
+de tus pecados. ˇQué cosa tan vergonzosa tiene que haber sido tu pecado; qué
 
 cosa tan ignominiosa y abominable, ya que Cristo tuvo que ser reducido a tal
 
-vergenza por ti! Oh, avergnzate de ti mismo pensando que tu Seor tuvo que
+vergüenza por ti! ˇOh, avergüénzate de ti mismo pensando que tu Seńor tuvo que
 
-ser escarnecido as y ser reducido a nada por ti! Mira cmo agravan Sus
+ser escarnecido así y ser reducido a nada por ti! ˇMira cómo agravan Sus
 
-aflicciones! No bast con que lo crucificaran, tenan que insultarle; no bastando
+aflicciones! No bastó con que lo crucificaran, tenían que insultarle; no bastando
 
-tampoco con eso, tenan que mofarse de Sus oraciones y convertir Sus clamores
+tampoco con eso, tenían que mofarse de Sus oraciones y convertir Sus clamores
 
-de muerte en temas de burla mientras le ofrecan vinagre para que bebiera.
+de muerte en temas de burla mientras le ofrecían vinagre para que bebiera.
 
-Vean, amados, cun graves eran sus pecados y el mo! Vamos, hermano mo,
+ˇVean, amados, cuán graves eran sus pecados y el mío! Vamos, hermano mío,
 
-dmonos golpes de pecho los dos y digamos: Oh, cmo han amontonado su
+démonos golpes de pecho los dos y digamos: “ˇOh, cómo han amontonado su
 
 culpabilidad nuestros pecados! No fue simplemente que quebrantamos la ley, sino
 
 que pecamos en contra de la luz y del conocimiento y a pesar de reproches y
 
-advertencias. Ah, Sus aflicciones son agravadas, y lo mismo son nuestros
+advertencias. ˇAh, Sus aflicciones son agravadas, y lo mismo son nuestros
 
-pecados! Sigan mirando Su amado rostro, y vean las lneas de angustia que
+pecados!” Sigan mirando Su amado rostro, y vean las líneas de angustia que
 
-indican la afliccin interior ms profunda que transciende por mucho el simple
+indican la aflicción interior más profunda que transciende por mucho el simple
 
 dolor y padecimiento corporales. Dios, Su Padre, le ha desamparado. Dios le ha
 
-hecho una maldicin por nosotros. Entonces, cul habra sido la maldicin de
+hecho una maldición por nosotros. Entonces, żcuál habría sido la maldición de
 
-Dios contra nosotros? Qu habran merecido nuestros pecados? Si cuando el
+Dios contra nosotros? żQué habrían merecido nuestros pecados? Si cuando el
 
-pecado slo le fue imputado a Cristo y slo fue colocado sobre l por un
+pecado sólo le fue imputado a Cristo y sólo fue colocado sobre Él por un
 
-momento, Su Padre apart Su rostro e hizo que Su Hijo clamara: Lama
+momento, Su Padre apartó Su rostro e hizo que Su Hijo clamara: “ˇLama
 
-sabactani! Oh, qu cosa tan maldita tiene que ser nuestro pecado y qu
+sabactani!” ˇOh, qué cosa tan maldita tiene que ser nuestro pecado y qué
 
-maldicin habra recado sobre nosotros; qu rayos, qu brasas de fuego, qu
+maldición habría recaído sobre nosotros; qué rayos, qué brasas de fuego, qué
 
-indignacin e ira del Altsimo tendra que haber sido nuestra porcin si Jess
+indignación e ira del Altísimo tendría que haber sido nuestra porción si Jesús
 
-no se hubiera interpuesto! Si Jehov no perdon a Su Hijo, cun poco habra
+no se hubiera interpuesto! Si Jehová no perdonó a Su Hijo, ˇcuán poco habría
 
-perdonado a hombres culpables e indignos si hubiera tratado con nosotros segn
+perdonado a hombres culpables e indignos si hubiera tratado con nosotros según
 
 nuestros pecados y si nos hubiera recompensado de acuerdo a nuestras
 
@@ -556,45 +556,45 @@ iniquidades!
 
 Mientras seguimos sentados
 
-mirando a Jess, recordamos que Su
+mirando a Jesús, recordamos que Su
 
-muerte fue voluntaria: l no tena que morir a menos que as lo hubiese
+muerte fue voluntaria: Él no tenía que morir a menos que así lo hubiese
 
-querido; aqu entonces tenemos otra impactante caracterstica de nuestro
+querido; aquí entonces tenemos otra impactante característica de nuestro
 
-pecado, porque nuestro pecado fue tambin voluntario. Nosotros no pecamos como
+pecado, porque nuestro pecado fue también voluntario. Nosotros no pecamos como
 
-por compulsin, sino que escogimos deliberadamente el mal camino. Oh, pecador,
+por compulsión, sino que escogimos deliberadamente el mal camino. Oh, pecador,
 
-sentmonos juntos y digmosle al Seor que no tenemos ninguna justificacin, o
+sentémonos juntos y digámosle al Seńor que no tenemos ninguna justificación, o
 
-atenuacin o excusa que ofrecer, que hemos pecado intencionadamente en contra
+atenuación o excusa que ofrecer, que hemos pecado intencionadamente en contra
 
-de la luz y del conocimiento, en contra del amor y la misericordia. Dmonos
+de la luz y del conocimiento, en contra del amor y la misericordia. Démonos
 
-golpes de pecho al ver sufrir voluntariamente a Jess, y confesemos que hemos
+golpes de pecho al ver sufrir voluntariamente a Jesús, y confesemos que hemos
 
 ofendido intencionadamente contra las justas y rectas leyes de un Dios
 
-sumamente bueno y misericordioso. Gustosamente les pedira que siguieran
+sumamente bueno y misericordioso. Gustosamente les pediría que siguieran
 
 mirando esas cinco heridas, estudiando ese rostro desfigurado y contando cada
 
-gota prpura
+gota púrpura
 
-que flua de Sus manos y
+que fluía de Sus manos y
 
-pies y costado, pero el tiempo se nos agota. nicamente que permanezca con
+pies y costado, pero el tiempo se nos agota. Únicamente que permanezca con
 
 ustedes esta herida: dense golpes de pecho porque ven en Cristo el pecado de
 
 ustedes.
 
-Mirando de nuevo cambiando,
+Mirando de nuevo –cambiando,
 
-por decirlo as, nuestro punto de vista- pero manteniendo siempre nuestros ojos
+por decirlo así, nuestro punto de vista- pero manteniendo siempre nuestros ojos
 
-en el mismo amado Crucificado, veamos all
+en el mismo amado Crucificado, veamos allí
 
 el
 
@@ -602,121 +602,121 @@ desatendido y despreciado remedio para nuestro pecado.
 
 Si el pecado mismo,
 
-en su primera condicin como rebelin no trajo ninguna lgrima a nuestros ojos,
+en su primera condición como rebelión no trajo ninguna lágrima a nuestros ojos,
 
-ciertamente debera hacerlo en su segunda manifestacin, como ingratitud. El
+ciertamente debería hacerlo en su segunda manifestación, como ingratitud. El
 
-pecado de rebelin es vil; pero el pecado de menospreciar al Salvador es
+pecado de rebelión es vil; pero el pecado de menospreciar al Salvador es
 
-todava ms vil. Aquel que pende del madero en gemidos y aflicciones
+todavía más vil. Aquel que pende del madero en gemidos y aflicciones
 
 indecibles, es Aquel en quien algunos de ustedes no han pensado nunca, a quien
 
-no aman, a quien nunca le piden nada en oracin, en quien no ponen ninguna
+no aman, a quien nunca le piden nada en oración, en quien no ponen ninguna
 
 confianza y a quien no sirven nunca. Yo no voy a acusarlos; les voy a pedir a esas
 
-amadas heridas que lo hagan dulce y tiernamente. Prefiero acusarme a m mismo
+amadas heridas que lo hagan dulce y tiernamente. Prefiero acusarme a mí mismo
 
-pues, ay!, ay!, hubo un tiempo cuando oa acerca de l con un odo sordo;
+pues, ˇay!, ˇay!, hubo un tiempo cuando oía acerca de Él con un oído sordo;
 
-cuando me hablaban de l y entenda el amor que tuvo para los pecadores, y sin
+cuando me hablaban de Él y entendía el amor que tuvo para los pecadores, y sin
 
-embargo, mi corazn era como una piedra en mi interior y permaneca
+embargo, mi corazón era como una piedra en mi interior y permanecía
 
-inconmovible. Tap mis odos y no quise ser fascinado, ni siquiera con una
+inconmovible. Tapé mis oídos y no quise ser fascinado, ni siquiera con una
 
-fascinacin de tanto peso como el amor desinteresado de Jess. Yo creo que si
+fascinación de tanto peso como el amor desinteresado de Jesús. Yo creo que si
 
-se me hubiera permitido vivir la vida de un hombre impo durante treinta,
+se me hubiera permitido vivir la vida de un hombre impío durante treinta,
 
-cuarenta o cincuenta aos, y fuera convertido al final, no habra sido capaz de
+cuarenta o cincuenta ańos, y fuera convertido al final, no habría sido capaz de
 
-culparme lo suficiente por rechazar a Jess durante todos esos aos. Vamos, aun
+culparme lo suficiente por rechazar a Jesús durante todos esos ańos. Vamos, aun
 
-aquellos que fuimos convertidos en nuestra juventud, y casi en nuestra niez,
+aquellos que fuimos convertidos en nuestra juventud, y casi en nuestra nińez,
 
 no podemos evitar culparnos al pensar que un amigo tan querido que hizo tanto
 
-por nosotros, fue menospreciado durante tanto tiempo por nosotros. Quin poda
+por nosotros, fue menospreciado durante tanto tiempo por nosotros. żQuién podía
 
-haber hecho ms por nosotros que l, puesto que se entreg por nuestros
+haber hecho más por nosotros que Él, puesto que se entregó por nuestros
 
-pecados? Ah, cmo le hicimos dao cuando le negbamos nuestros corazones! Oh,
+pecados? ˇAh, cómo le hicimos dańo cuando le negábamos nuestros corazones! Oh,
 
-ustedes pecadores, cmo pueden mantener cerradas las puertas de sus corazones
+ustedes pecadores, żcómo pueden mantener cerradas las puertas de sus corazones
 
-para el Amigo de los Pecadores? Cmo podemos cerrarle la puerta a Aquel que
+para el Amigo de los Pecadores? żCómo podemos cerrarle la puerta a Aquel que
 
-clama: Mi cabeza est llena de roco, mis cabellos de las gotas de la noche;
+clama: “Mi cabeza está llena de rocío, mis cabellos de las gotas de la noche;
 
-breme, amada ma, breme? Yo estoy persuadido de que hay algunos aqu que son
+ábreme, amada mía, ábreme”? Yo estoy persuadido de que hay algunos aquí que son
 
-Sus elegidos; ustedes fueron escogidos por l desde antes de la fundacin del mundo
+Sus elegidos; ustedes fueron escogidos por Él desde antes de la fundación del mundo
 
-y estarn un da con l en el cielo para cantar Sus alabanzas, y con todo, en
+y estarán un día con Él en el cielo para cantar Sus alabanzas, y con todo, en
 
 este momento, aunque oyen Su nombre, no le aman y, aunque se les informa acerca
 
-de lo que l hizo, ustedes no confan en l. Cmo! Acaso esa barra de hierro
+de lo que Él hizo, ustedes no confían en Él. ˇCómo! żAcaso esa barra de hierro
 
-cerrar siempre firmemente la puerta de su corazn? Seguir siempre trancada
+cerrará siempre firmemente la puerta de su corazón? żSeguirá siempre trancada
 
-esa puerta? Oh, Espritu del Dios viviente, consigue una entrada para el
+esa puerta? ˇOh, Espíritu del Dios viviente, consigue una entrada para el
 
-bendito Cristo esta maana! Si algo puede hacerlo ciertamente tiene que ser una
+bendito Cristo esta mańana! Si algo puede hacerlo ciertamente tiene que ser una
 
-mirada al Crucificado; ese espectculo sin par har que un corazn de piedra se
+mirada al Crucificado; ese espectáculo sin par hará que un corazón de piedra se
 
-ablande y se derrita doblegado por el amor de Jess. Oh, que el Espritu Santo
+ablande y se derrita doblegado por el amor de Jesús. Oh, que el Espíritu Santo
 
-obre este misericordioso derretimiento, y l recibir todo el honor.
+obre este misericordioso derretimiento, y Él recibirá todo el honor.
 
-Mantenindolos todava
+Manteniéndolos todavía
 
-al pie de la cruz, queridos amigos, cada creyente aqu presente bien podra
+al pie de la cruz, queridos amigos, cada creyente aquí presente bien podría
 
-darse golpes de pecho esta maana al pensar en
+darse golpes de pecho esta mańana al pensar en
 
-quin fue que se doli tanto en la cruz.
+quién fue que se dolió tanto en la cruz.
 
-Quin fue? Fue Aquel que
+żQuién fue? Fue Aquel que
 
-nos am antes de que el mundo fuera creado. Fue Aquel quien es hoy el Esposo de
+nos amó antes de que el mundo fuera creado. Fue Aquel quien es hoy el Esposo de
 
 nuestras almas, nuestro Bienamado; Aquel que nos ha llevado a la casa del
 
-festn y que agit Su pendn de amor por nosotros; Aquel que nos ha hecho uno
+festín y que agitó Su pendón de amor por nosotros; Aquel que nos ha hecho uno
 
 consigo mismo, y que se ha comprometido a presentarnos sin mancha ante Su Padre.
 
-Es l, nuestro Esposo, nuestro Ishi, quien nos ha llamado Su Hefzi-b porque Su
+Es Él, nuestro Esposo, nuestro Ishi, quien nos ha llamado Su Hefzi-bá porque Su
 
-alma se deleita en nosotros. Es Aquel que sufri as por nosotros. El
+alma se deleita en nosotros. Es Aquel que sufrió así por nosotros. El
 
-sufrimiento no siempre provoca el mismo grado de compasin. Tienes que conocer
+sufrimiento no siempre provoca el mismo grado de compasión. Tienes que conocer
 
-algo del individuo antes de que las profundidades ms ntimas del alma sean agitadas;
+algo del individuo antes de que las profundidades más íntimas del alma sean agitadas;
 
-y as nos sucede que entre ms elevado sea el carcter y entre ms seamos
+y así nos sucede que entre más elevado sea el carácter y entre más seamos
 
-capaces de apreciarlo, ms ntima es la relacin y ms afectuosamente
+capaces de apreciarlo, más íntima es la relación y más afectuosamente
 
-correspondemos al amor, y ms profundamente impacta al alma el sufrimiento.
+correspondemos al amor, y más profundamente impacta al alma el sufrimiento.
 
-Algunos de ustedes se estn acercando hoy a Su mesa, y participarn del pan: yo
+Algunos de ustedes se están acercando hoy a Su mesa, y participarán del pan: yo
 
 les ruego que recuerden que representa la carne estremecida que estaba llena de
 
-dolor en el Calvario. Ustedes sorbern de esa copa; entonces asegrense de
+dolor en el Calvario. Ustedes sorberán de esa copa; entonces asegúrense de
 
-recordar que anuncia para ustedes la sangre de Uno que los ama ms de lo que
+recordar que anuncia para ustedes la sangre de Uno que los ama más de lo que
 
-podran ser amados por una madre, o por un esposo, o por un amigo. Oh,
+podrían ser amados por una madre, o por un esposo, o por un amigo. Oh,
 
-sintense y dense golpes de pecho porque
+siéntense y dense golpes de pecho porque
 
-l
+Él
 
 tuviera que padecer; que el Sol del cielo tuviera que eclipsarse; que el
 
@@ -726,49 +726,49 @@ la Rosa
 
 del cielo tuviera que
 
-ser blanqueada con la palidez mortal. Lamenten que la perfeccin fuera acusada,
+ser blanqueada con la palidez mortal. Lamenten que la perfección fuera acusada,
 
 la inocencia golpeada, y el amor asesinado; y que Cristo, el dichoso y el
 
-santo, el siempre bendito que haba sido el deleite de los ngeles por los
+santo, el siempre bendito que había sido el deleite de los ángeles por los
 
-siglos, tuviera que convertirse ahora en el varn de dolores, experimentado en
+siglos, tuviera que convertirse ahora en el varón de dolores, experimentado en
 
-quebranto, en el sangrante y el moribundo. Creyentes, dense golpes de pecho y
+quebranto, en el sangrante y el moribundo. ˇCreyentes, dense golpes de pecho y
 
 sigan su camino!
 
-Amados en el Seor, si
+Amados en el Seńor, si
 
-un dolor as se encendiera en ustedes, sera bueno que le dieran seguimiento al
+un dolor así se encendiera en ustedes, sería bueno que le dieran seguimiento al
 
-tema, y que reflexionaran en cun incrdulos y cun crueles hemos sido para con
+tema, y que reflexionaran en cuán incrédulos y cuán crueles hemos sido para con
 
-Jess desde el da en que le conocimos. Cmo!, acaso se desangra l por m y
+Jesús desde el día en que le conocimos. ˇCómo!, żacaso se desangra Él por mí y
 
-yo he dudado de l? Es l el Hijo de Dios, y yo he sospechado de Su fidelidad?
+yo he dudado de Él? żEs Él el Hijo de Dios, y yo he sospechado de Su fidelidad?
 
-He permanecido inconmovible al pie de la cruz? He hablado de mi agonizante
+żHe permanecido inconmovible al pie de la cruz? żHe hablado de mi agonizante
 
-Seor con un espritu fro e indiferente? He predicado alguna vez a Cristo
+Seńor con un espíritu frío e indiferente? żHe predicado alguna vez a Cristo
 
-crucificado con ojos secos y un corazn duro? Doblo mi rodilla en la oracin privada
+crucificado con ojos secos y un corazón duro? żDoblo mi rodilla en la oración privada
 
-y divagan mis pensamientos cuando deberan estar atados de pies y manos a Su
+y divagan mis pensamientos cuando deberían estar atados de pies y manos a Su
 
-amado ser sangrante? Estoy acostumbrado a pasar las pginas de los
+amado ser sangrante? żEstoy acostumbrado a pasar las páginas de los
 
-evangelistas que registran el portentoso sacrificio de mi Seor, y no he regado
+evangelistas que registran el portentoso sacrificio de mi Seńor, y no he regado
 
-nunca esas pginas con mis lgrimas? No he hecho nunca una pausa, embelesado
+nunca esas páginas con mis lágrimas? żNo he hecho nunca una pausa, embelesado
 
-por la sagrada frase que registr este milagro de milagros, esta maravilla de
+por la sagrada frase que registró este milagro de milagros, esta maravilla de
 
-maravillas? Oh, corazn duro, debera darte vergenza! Que Dios te golpee con
+maravillas? ˇOh, corazón duro, debería darte vergüenza! Que Dios te golpee con
 
-el martillo de Su Espritu, y te haga pedazos. Oh, t, corazn de piedra, alma
+el martillo de Su Espíritu, y te haga pedazos. Oh, tú, corazón de piedra, alma
 
-de granito, espritu de pedernal, bien pudiera golpear el pecho que te alberga,
+de granito, espíritu de pedernal, bien pudiera golpear el pecho que te alberga,
 
 al pensar que sea yo tan torpe en presencia de un amor tan sorprendente, tan
 
@@ -778,113 +778,113 @@ Hermanos, pueden darse
 
 golpes de pecho al contemplar la cruz, y lamentarse por haber hecho tan poco
 
-por su Seor. Pienso que si alguien hubiera podido bosquejar mi vida futura en
+por su Seńor. Pienso que si alguien hubiera podido bosquejar mi vida futura en
 
-el da de mi conversin, y hubiera dicho: Sers sordo y fro en las cosas
+el día de mi conversión, y hubiera dicho: “ˇSerás sordo y frío en las cosas
 
-espirituales y exhibirs poco denuedo y poca gratitud!, yo habra dicho como
+espirituales y exhibirás poco denuedo y poca gratitud!”, yo habría dicho como
 
-Hazael: Pues, qu es tu siervo, este perro, para que haga tan grandes cosas?
+Hazael: “Pues, żqué es tu siervo, este perro, para que haga tan grandes cosas?”
 
-Yo supongo que leo sus corazones cuando digo que la mayora de ustedes estn
+ˇYo supongo que leo sus corazones cuando digo que la mayoría de ustedes están
 
 desilusionados por su propia conducta cuando se compara con las demasiado halagadoras
 
-profecas de ustedes mismos! Qu!, he sido perdonado realmente? Soy en
+profecías de ustedes mismos! ˇQué!, żhe sido perdonado realmente? żSoy en
 
-verdad lavado en ese tibio arroyo que brot del costado traspasado de Jess, y
+verdad lavado en ese tibio arroyo que brotó del costado traspasado de Jesús, y
 
-sin embargo no estoy enteramente consagrado a Cristo? Cmo!, llevo
+sin embargo no estoy enteramente consagrado a Cristo? ˇCómo!, żllevo
 
-en verdad en mi cuerpo las seales del Seor
+en verdad en mi cuerpo las seńales del Seńor
 
-Jess, y sin embargo, puedo vivir prcticamente sin un pensamiento sobre l? He
+Jesús, y sin embargo, puedo vivir prácticamente sin un pensamiento sobre Él? żHe
 
-sido arrancado del fuego como un tizn y a pesar de todo, tengo poco cuidado de
+sido arrancado del fuego como un tizón y a pesar de todo, tengo poco cuidado de
 
-librar a otros de la ira venidera? Se inclin Jess para ganarme pero yo no
+librar a otros de la ira venidera? żSe inclinó Jesús para ganarme pero yo no
 
-trabajo para ganar a otros para l? Fue l muy solcito conmigo pero yo slo
+trabajo para ganar a otros para Él? żFue Él muy solícito conmigo pero yo sólo
 
-soy a medias solcito con l? Me atrevo a desperdiciar un minuto? Me atrevo a
+soy a medias solícito con Él? żMe atrevo a desperdiciar un minuto? żMe atrevo a
 
-malgastar una hora? Dispongo de una noche para gastarla en vanas plticas y
+malgastar una hora? żDispongo de una noche para gastarla en vanas pláticas y
 
-ociosas frivolidades? Oh, corazn mo, hago bien en darte golpes, porque ante
+ociosas frivolidades? Oh, corazón mío, hago bien en darte golpes, porque ante
 
-el espectculo de la muerte del amado Amante de mi alma no me enciendo con el
+el espectáculo de la muerte del amado Amante de mi alma no me enciendo con el
 
-ms arrebatado celo, y no soy impelido por el ms ardiente amor a una perfecta
+más arrebatado celo, y no soy impelido por el más ardiente amor a una perfecta
 
-consagracin de cada poder de mi naturaleza, de cada afecto de mi espritu, de cada
+consagración de cada poder de mi naturaleza, de cada afecto de mi espíritu, de cada
 
-facultad de mi ser entero. Esta veta de congoja podra extenderse a mayores
+facultad de mi ser entero. Esta veta de congoja podría extenderse a mayores
 
-distancias todava. Podramos seguir con nuestras confesiones, dando golpes
+distancias todavía. Podríamos seguir con nuestras confesiones, dando golpes
 
-todava, acusando todava, lamentando todava, deplorando todava. Podramos
+todavía, acusando todavía, lamentando todavía, deplorando todavía. Podríamos
 
-continuar con las notas graves por siempre, y sin embargo, pudiramos ser
+continuar con las notas graves por siempre, y sin embargo, pudiéramos ser
 
-incapaces de expresar suficiente contricin por la vergonzosa manera en la que
+incapaces de expresar suficiente contrición por la vergonzosa manera en la que
 
-hemos tratado a nuestro bendito Amigo. Podramos decir con uno de nuestros
+hemos tratado a nuestro bendito Amigo. Podríamos decir con uno de nuestros
 
 escritores de himnos:
 
-Seor, que no llore por nada sino por el pecado,
+“Seńor, que no llore por nada sino por el pecado,
 
 Y que no llore por nadie sino por Ti;
 
-Y entonces oh que pudiera hacerlo-
+Y entonces –oh que pudiera hacerlo-
 
-Me la pasara llorando!
+ˇMe la pasaría llorando!”
 
-Uno deseara convertirse
+Uno desearía convertirse
 
-en una Nobe y realizar el deseo de Jeremas, Oh, si mi cabeza si hiciese
+en una Níobe y realizar el deseo de Jeremías, “ˇOh, si mi cabeza si hiciese
 
-aguas!. Incluso la santa extravagancia de George Herbert no nos sorprende,
+aguas!”. Incluso la santa extravagancia de George Herbert no nos sorprende,
 
-pues quisiramos cantar con l el canto de DOLOR:
+pues quisiéramos cantar con él el canto de DOLOR:
 
-Oh, quin habr de darme lgrimas? Acudan, torrentes todos,
+“Oh, żquién habrá de darme lágrimas? Acudan, torrentes todos,
 
-Moren en mi cabeza y en mis ojos; vengan, nubes y lluvia!
+Moren en mi cabeza y en mis ojos; ˇvengan, nubes y lluvia!
 
 Mi dolor necesita de todas las cosas acuosas
 
 Que la naturaleza haya producido. Que cada vena
 
-Chupe un ro que alimente a mis ojos,
+Chupe un río que alimente a mis ojos,
 
-A mis ojos llorosos y cansados; demasiado secos para m
+A mis ojos llorosos y cansados; demasiado secos para mí
 
 A menos que consigan nuevos conductos, nuevos suministros,
 
-Que los hagan llorar y as reflejen mi estado.
+Que los hagan llorar y así reflejen mi estado.
 
-Qu son dos vados poco profundos, dos pequeos surtidores
+żQué son dos vados poco profundos, dos pequeńos surtidores
 
-De un mundo menor? Uno mayor sigue siendo pequeo.
+De un mundo menor? Uno mayor sigue siendo pequeńo.
 
 Un estrecho armario para mis dolores y dudas,
 
-Que necesitan provisin en medio de todo.
+Que necesitan provisión en medio de todo.
 
 Versos, ustedes son demasiado finos, demasiado sabios,
 
-Para mis speras aflicciones. Cesen!, cllense y enmudezcan;
+Para mis ásperas aflicciones. ˇCesen!, cállense y enmudezcan;
 
 Entreguen sus pies y su prisa a mis ojos,
 
-Y guarden sus rimas para el lad de algn amante,
+Y guarden sus rimas para el laúd de algún amante,
 
-Cuyo dolor le permite el uso de msica y de rima;
+Cuyo dolor le permite el uso de música y de rima;
 
-Pues el mo excluye el ritmo, la tonada y el tiempo.
+Pues el mío excluye el ritmo, la tonada y el tiempo.
 
-Ay, Dios mo!
+ˇAy, Dios mío!
 
 III.
 
@@ -892,241 +892,243 @@ Tal
 
 vez habiendo dicho lo suficiente sobre este punto, suficiente si Dios lo
 
-bendice y demasiado si es sin Su bendicin, permtanme invitarlos, en tercer
+bendice y demasiado si es sin Su bendición, permítanme invitarlos, en tercer
 
-lugar, a recordar que EN EL CALVARIO, LAS NOTAS DOLOROSAS NO SON LA NICA
+lugar, a recordar que EN EL CALVARIO, LAS NOTAS DOLOROSAS NO SON LA ÚNICA
 
-MSICA APROPIADA.
+MÚSICA APROPIADA.
 
 Nosotros admiramos a
 
-nuestro poeta cuando, en el himno que acabamos de cantar, da la impresin de
+nuestro poeta cuando, en el himno que acabamos de cantar, da la impresión de
 
-preguntarse cul sera la tonada ms apropiada para el Glgota.
+preguntarse cuál sería la tonada más apropiada para el Gólgota.
 
-Consumado es; haremos brotar
+‘
 
-Cantos de afliccin o de alabanza?
+“Consumado es’; żharemos brotar
 
-Consternarnos al ver morir al Salvador,
+Cantos de aflicción o de alabanza?
+
+żConsternarnos al ver morir al Salvador,
 
 O proclamar Su victoria?
 
 Si hablamos del Calvario,
 
-Cmo pueden surgir cantos de triunfo?
+żCómo pueden surgir cantos de triunfo?
 
 Si del hombre redimido de la calamidad,
 
-Cmo fluirn notas de duelo?
+żCómo fluirán notas de duelo?
 
-l muestra que como nuestro
+Él muestra que como nuestro
 
-pecado traspas el costado de Jess, hay motivo para una lamentacin ilimitada,
+pecado traspasó el costado de Jesús, hay motivo para una lamentación ilimitada,
 
-pero como la sangre que fluy de la herida ha limpiado nuestro pecado, hay una
+pero como la sangre que fluyó de la herida ha limpiado nuestro pecado, hay una
 
-base para dar gracias ilimitadamente; y, por tanto, el poeta, despus de haber
+base para dar gracias ilimitadamente; y, por tanto, el poeta, después de haber
 
 sopesado el asunto en unos cuantos versos, concluye con esto:
 
-Consumado es, entonemos
+‘“Consumado es’, entonemos
 
-Cantos de accin de gracias y de alabanza.
+Cantos de acción de gracias y de alabanza”.
 
-Despus de todo, ustedes
+Después de todo, ustedes
 
-y yo no estamos en la misma condicin de la multitud que haba rodeado el
+y yo no estamos en la misma condición de la multitud que había rodeado el
 
-Calvario, pues en aquel tiempo nuestro Seor estaba muerto todava, pero ahora
+Calvario, pues en aquel tiempo nuestro Seńor estaba muerto todavía, pero ahora
 
-l en verdad ha resucitado. Faltaban todava tres das a partir de aquel jueves
+Él en verdad ha resucitado. Faltaban todavía tres días a partir de aquel jueves
 
-por la noche (pues hay mucha razn para creer que nuestro Seor no fue
+por la noche (pues hay mucha razón para creer que nuestro Seńor no fue
 
-crucificado el viernes), en los que Jess tena que morar en las regiones de
+crucificado el viernes), en los que Jesús tenía que morar en las regiones de
 
-los muertos. Nuestro Seor, por tanto, hasta donde podan verle ojos humanos,
+los muertos. Nuestro Seńor, por tanto, hasta donde podían verle ojos humanos,
 
-era un objeto apropiado de lstima y de duelo y no de accin de gracias; pero
+era un objeto apropiado de lástima y de duelo y no de acción de gracias; pero
 
-ahora, amados, l vive y reina gloriosamente para siempre. Ningn osario
+ahora, amados, Él vive y reina gloriosamente para siempre. Ningún osario
 
-encarcela ese bendito cuerpo. l no vio ninguna corrupcin, pues en el momento
+encarcela ese bendito cuerpo. Él no vio ninguna corrupción, pues en el momento
 
-en que despunt el tercer da ya no pudo ser retenido ms por los lazos de la
+en que despuntó el tercer día ya no pudo ser retenido más por los lazos de la
 
-muerte, sino que se manifest vivo a Sus discpulos. Se qued en este mundo durante
+muerte, sino que se manifestó vivo a Sus discípulos. Se quedó en este mundo durante
 
-cuarenta das. Pas parte de Su tiempo con aquellos que le conocan en la
+cuarenta días. Pasó parte de Su tiempo con aquellos que le conocían en la
 
-carne; tal vez una gran parte del tiempo lo pas con esos santos que salieron
+carne; tal vez una gran parte del tiempo lo pasó con esos santos que salieron
 
-de sus tumbas despus de Su resurreccin, pero es cierto que l ascendi, como
+de sus tumbas después de Su resurrección, pero es cierto que Él ascendió, como
 
-la primicia de los muertos. l subi a la diestra de Dios, el Padre. No
+la primicia de los muertos. Él subió a la diestra de Dios, el Padre. No
 
 deploren esas heridas pues son radiantes con un esplendor sobrenatural. No
 
-lamenten Su muerte; l vive para no morir ms. No lamenten esa vergenza y esos
+lamenten Su muerte; Él vive para no morir más. No lamenten esa vergüenza y esos
 
 salivazos:
 
-La cabeza que una vez fue coronada de espinas,
+“La cabeza que una vez fue coronada de espinas,
 
-Est ahora coronada de gloria.
+Está ahora coronada de gloria”.
 
 Miren arriba y
 
-agradezcan a Dios porque la muerte no se enseorea ms de l. Vive siempre para
+agradezcan a Dios porque la muerte no se enseńorea más de Él. Vive siempre para
 
-interceder por nosotros, y pronto vendr rodeado de compaas de ngeles para
+interceder por nosotros, y pronto vendrá rodeado de compańías de ángeles para
 
 juzgar a los vivos y a los muertos. El argumento para tener gozo opaca al
 
-motivo de afliccin. As como una mujer despus que ha dado a luz un nio, ya
+motivo de aflicción. Así como una mujer después que ha dado a luz un nińo, ya
 
 no se acuerda de la angustia por el gozo de que haya nacido un hombre en el
 
-mundo, as, en el pensamiento del Salvador resucitado que ha tomado posesin de
+mundo, así, en el pensamiento del Salvador resucitado que ha tomado posesión de
 
-Su corona olvidaremos la lamentacin de la cruz, y las aflicciones del
+Su corona olvidaremos la lamentación de la cruz, y las aflicciones del
 
-quebrantado corazn del Calvario.
+quebrantado corazón del Calvario.
 
-Adems, escuchen la
+Además, escuchen la
 
-estridente voz de los retumbantes cmbalos, y que sus corazones se regocijen en
+estridente voz de los retumbantes címbalos, y que sus corazones se regocijen en
 
-su interior pues en Su muerte nuestro Redentor venci a las huestes del
+su interior pues en Su muerte nuestro Redentor venció a las huestes del
 
-infierno. Vinieron furiosamente en contra Suya, s, vinieron contra l para
+infierno. Vinieron furiosamente en contra Suya, sí, vinieron contra Él para
 
 devorar Su carne pero tropezaron y cayeron. Le rodearon, y le asediaron como
 
-abejas, mas en el nombre de Dios el Adalid los destruy. Contra toda la
+abejas, mas en el nombre de Dios el Adalid los destruyó. Contra toda la
 
-multitud de pecados y contra todos los batallones del pozo del abismo se plant
+multitud de pecados y contra todos los batallones del pozo del abismo se plantó
 
 el Salvador, un solitario soldado luchando contra innumerables batallones, pero
 
-l los mat a todos. La cabeza del dragn ha sido aplastada. Jess llev
+Él los mató a todos. “La cabeza del dragón ha sido aplastada”. Jesús llevó
 
-cautiva la cautividad. l venci cuando cay; las notas de victoria han de
+cautiva la cautividad. Él venció cuando cayó; las notas de victoria han de
 
-ahogar para siempre los gritos de afliccin.
+ahogar para siempre los gritos de aflicción.
 
-Adems, hermanos, debe
+Además, hermanos, debe
 
-recordarse que los hombres han sido salvados. Que esta maana desfile ante sus
+recordarse que los hombres han sido salvados. Que esta mańana desfile ante sus
 
-alegres ojos la innumerable compaa de los elegidos. Vestidos de blanco vienen
+alegres ojos la innumerable compańía de los elegidos. Vestidos de blanco vienen
 
-en una larga procesin; vienen de tierras distantes, procedentes de todos los
+en una larga procesión; vienen de tierras distantes, procedentes de todos los
 
 climas; previamente de color escarlata por el pecado y negros por la iniquidad,
 
-ahora estn para siempre completamente blancos, y puros, y sin mancha delante
+ahora están para siempre completamente blancos, y puros, y sin mancha delante
 
-del trono; ms all de la tentacin, beatificados, y hechos semejantes a Jess.
+del trono; más allá de la tentación, beatificados, y hechos semejantes a Jesús.
 
-Y cmo? Todo fue gracias al Calvario. All fue quitado su pecado; all fue
+żY cómo? Todo fue gracias al Calvario. Allí fue quitado su pecado; allí fue
 
-introducida y consumada su justicia eterna. Que los ejrcitos que estn delante
+introducida y consumada su justicia eterna. Que los ejércitos que están delante
 
 del trono, al agitar sus palmas y tocar sus arpas de oro, los exciten a un gozo
 
-como el de ellos, y que esa msica celestial acalle las voces ms delicadas que
+como el de ellos, y que esa música celestial acalle las voces más delicadas que
 
 consternadamente exclaman:
 
-Ay!, y mi Salvador se desangr?
+“ˇAy!, ży mi Salvador se desangró?
 
-Y mi Soberano muri?
+żY mi Soberano murió?
 
-Quiso entregar esa cabeza sagrada
+żQuiso entregar esa cabeza sagrada
 
-Por un gusano como yo?
+Por un gusano como yo?”
 
-Y eso no es todo. T
+Y eso no es todo. Tú
 
-mismo eres salvo. Oh, hermano, este ser siempre uno de tus mayores gozos. Que
+mismo eres salvo. Oh, hermano, este será siempre uno de tus mayores gozos. Que
 
-otros sean convertidos por medio de tu instrumentalidad es ocasin para mucha
+otros sean convertidos por medio de tu instrumentalidad es ocasión para mucha
 
-accin de gracias, pero el consejo de tu Salvador es: Pero no os regocijis de
+acción de gracias, pero el consejo de tu Salvador es: “Pero no os regocijéis de
 
-que los espritus se os sujetan, sino regocijaos de que vuestros nombres estn
+que los espíritus se os sujetan, sino regocijaos de que vuestros nombres están
 
-escritos en los cielos. T, un espritu que mereca ser desechado, t, cuya
+escritos en los cielos”. Tú, un espíritu que merecía ser desechado, tú, cuya
 
-porcin tuvo que haber sido con los demonios,
+porción tuvo que haber sido con los demonios,
 
-t
+tú
 
-eres perdonado en este da, adoptado, salvado, en camino al
+eres perdonado en este día, adoptado, salvado, en camino al
 
-cielo. Oh!, mientras piensas que eres salvado del infierno, que eres izado a
+cielo. ˇOh!, mientras piensas que eres salvado del infierno, que eres izado a
 
 la gloria, no puedes sino regocijarte de que tu pecado te sea quitado gracias a
 
-la muerte de Jesucristo, tu Seor.
+la muerte de Jesucristo, tu Seńor.
 
-Por ltimo, hay algo por
+Por último, hay algo por
 
 lo que siempre debemos recordar con gozo la muerte de Cristo, y es que aunque
 
-la crucifixin de Jess pretenda ser un golpe contra la honra y la gloria de
+la crucifixión de Jesús pretendía ser un golpe contra la honra y la gloria de
 
-nuestro Dios, aunque en la muerte de Cristo el mundo dio muerte hasta donde
+nuestro Dios, aunque en la muerte de Cristo el mundo dio muerte –hasta donde
 
-pudo- a Dios mismo y as se gan el detestable ttulo un mundo deicida, con
+pudo- a Dios mismo y así se ganó el detestable título “un mundo deicida”, con
 
-todo, nunca recibi Dios tal honra y gloria como la que obtuvo gracias a los
+todo, nunca recibió Dios tal honra y gloria como la que obtuvo gracias a los
 
-sufrimientos de Jess. Oh, ellos pensaron escarnecerlo, pero izaron Su nombre
+sufrimientos de Jesús. ˇOh, ellos pensaron escarnecerlo, pero izaron Su nombre
 
-en lo alto! Ellos pensaron que Dios era deshonrado cuando fue ms glorificado.
+en lo alto! Ellos pensaron que Dios era deshonrado cuando fue más glorificado.
 
-No haban desfigurado la imagen del Invisible? No haban profanado la expresa
+żNo habían desfigurado la imagen del Invisible? żNo habían profanado la expresa
 
-imagen de la persona del Padre? Ah, eso dijeron ellos! Pero el que se sienta
+imagen de la persona del Padre? ˇAh, eso dijeron ellos! Pero el que se sienta
 
-en los cielos bien puede rerse y burlarse de ellos, pues qu hicieron? Slo rompieron
+en los cielos bien puede reírse y burlarse de ellos, pues żqué hicieron? Sólo rompieron
 
 el frasco de alabastro y todas las benditas gotas de la infinita misericordia
 
 salieron para perfumar a todos los mundos. No hicieron sino rasgar el velo, y
 
-entonces la gloria que haba estado oculta entre los querubines resplandeci en
+entonces la gloria que había estado oculta entre los querubines resplandeció en
 
 todas las tierras. Oh naturaleza, que adoras a Dios con tus antiguos montes
 
-sacerdotales, que le exaltas con tus rboles que aplauden, y que le adoras con
+sacerdotales, que le exaltas con tus árboles que aplauden, y que le adoras con
 
-tus mares que rugen en su plenitud proclamando la alabanza de Jehov; a pesar
+tus mares que rugen en su plenitud proclamando la alabanza de Jehová; a pesar
 
 de todas tus tempestades y llamas de fuego, de tus dragones y tus abismos, de tu
 
-nieve y tu granizo, t no puedes glorificar a Dios como Jess le glorific
+nieve y tu granizo, tú no puedes glorificar a Dios como Jesús le glorificó
 
 cuando se hizo obediente hasta la muerte. Oh cielo, con todos tus jubilosos
 
-ngeles, con tus querubines y serafines que siempre estn cantando, con tus
+ángeles, con tus querubines y serafines que siempre están cantando, con tus
 
-himnos tres veces santos, con tus calles de oro y tus armonas sin fin, t no
+himnos tres veces santos, con tus calles de oro y tus armonías sin fin, tú no
 
 puedes revelar a
 
 la Deidad
 
-como Jesucristo la revel en la cruz. Oh, infierno, con todos tus infinitos
+como Jesucristo la reveló en la cruz. Oh, infierno, con todos tus infinitos
 
 horrores y tus llamas inextinguibles, y dolores y aflicciones y alaridos de
 
-espritus torturados, aun t no puedes revelar la justicia de Dios como Cristo
+espíritus torturados, aun tú no puedes revelar la justicia de Dios como Cristo
 
-la revel en Su corazn traspasado sobre el sangriento madero. Oh, tierra y
+la reveló en Su corazón traspasado sobre el sangriento madero. ˇOh, tierra y
 
 cielo e infierno! Oh tiempo y eternidad, cosas presentes y cosas por venir, visibles
 
@@ -1136,9 +1138,9 @@ la Deidad
 
 comparados con el
 
-Cordero sangrante. Oh, corazn de Dios, yo no te veo en ninguna parte como en
+Cordero sangrante. Oh, corazón de Dios, yo no te veo en ninguna parte como en
 
-el Glgota, donde
+el Gólgota, donde
 
 la Palabra
 
@@ -1148,35 +1150,35 @@ llamarada de gloria. Si cualquier mente creada quisiera ver la gloria de Dios,
 
 no necesita contemplar los cielos estrellados ni remontarse al cielo de los
 
-cielos; slo tiene que inclinarse al pie de la cruz y ver los torrentes
+cielos; sólo tiene que inclinarse al pie de la cruz y ver los torrentes
 
-carmeses que salen a borbotones de las heridas de Emanuel. Si t quisieras
+carmesíes que salen a borbotones de las heridas de Emanuel. Si tú quisieras
 
 contemplar la gloria de Dios, no necesitas atisbar entre las puertas de perla,
 
-slo tienes que mirar ms all de las puertas de Jerusaln y ver expirar al
+sólo tienes que mirar más allá de las puertas de Jerusalén y ver expirar al
 
-Prncipe de Paz. Si quisieras recibir el ms noble entendimiento de la misericordia
+Príncipe de Paz. Si quisieras recibir el más noble entendimiento de la misericordia
 
-y de la grandeza y de la clemencia que llenara jams a la mente humana, y a la
+y de la grandeza y de la clemencia que llenara jamás a la mente humana, y a la
 
 vez, de la justicia y de la severidad y de la ira de Dios, no necesitas alzar
 
-tus ojos, ni bajarlos, ni mirar al paraso, ni contemplar el Tofet; slo tienes
+tus ojos, ni bajarlos, ni mirar al paraíso, ni contemplar el Tofet; sólo tienes
 
-que mirar en el corazn de Cristo completamente traspasado y quebrantado y
+que mirar en el corazón de Cristo completamente traspasado y quebrantado y
 
-magullado, y lo habrs visto todo. Oh, el gozo que brota del hecho de que Dios
+magullado, y lo habrás visto todo. ˇOh, el gozo que brota del hecho de que Dios
 
-ha triunfado despus de todo! Muerte no es el vencedor; el mal no es el amo. No
+ha triunfado después de todo! Muerte no es el vencedor; el mal no es el amo. No
 
 hay dos reinos rivales, uno gobernado por el Dios del bien, y el otro por el
 
-Dios del mal; no, el mal est atado, encadenado, y es conducido cautivo; sus
+Dios del mal; no, el mal está atado, encadenado, y es conducido cautivo; sus
 
-msculos estn cortados, su cabeza est aplastada; su rey est atado al
+músculos están cortados, su cabeza está aplastada; su rey está atado al
 
-terrible carro de Jehov-Jess, y al tiempo que los caballos blancos del
+terrible carro de Jehová-Jesús, y al tiempo que los caballos blancos del
 
 triunfo transportan al Vencedor a lo alto de los eternos montes en esplendor de
 
@@ -1184,19 +1186,19 @@ gloria, los monstruos del pozo del abismo se encogen junto a las ruedas de Su
 
 carruaje. Por tanto, amados, concluimos este discurso con esta frase de una
 
-adoracin humilde pero gozosa: Gloria al Padre, y al Hijo y al Espritu Santo;
+adoración humilde pero gozosa: “Gloria al Padre, y al Hijo y al Espíritu Santo;
 
-como era en el principio, ahora y siempre, por los siglos de los siglos. Amn.
+como era en el principio, ahora y siempre, por los siglos de los siglos”. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 23: 27-56.
+del sermón: Lucas 23: 27-56.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 6/Marzo/2014
 

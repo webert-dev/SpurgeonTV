@@ -1,6 +1,6 @@
 # Sermón 251 | Sermón 251
 
-El Plpito de
+El Púlpito de
 
 la Capilla
 
@@ -14,11 +14,11 @@ de
 
 la Obra
 
-del Espritu
+del Espíritu
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -30,9 +30,9 @@ EN EL MUSIC HALL, ROYAL SURREY GARDENS,
 
 LONDRES.
 
-Y pondr dentro de vosotros mi Espritu. Ezequiel 36: 27
+“Y pondré dentro de vosotros mi Espíritu”. Ezequiel 36: 27
 
-Una caracterstica
+Una característica
 
 notable de los milagros de Cristo es que ninguno
 
@@ -44,17 +44,17 @@ Roma, aun si se considerasen milagros, son un muestrario de hechos
 
 extravagantes. Supongan que San Dionisio hubiese caminado con su cabeza
 
-sostenida en sus manos despus de haber sido decapitado; qu propsito prctico
+sostenida en sus manos después de haber sido decapitado; żqué propósito práctico
 
-se habra logrado con esa accin? Para efectos de conferir algn bien prctico
+se habría logrado con esa acción? Para efectos de conferir algún bien práctico
 
 a la humanidad, muy bien se hubiera podido quedar en su tumba. Los milagros de
 
 Cristo, en cambio, nunca fueron innecesarios. No constituyen unos caprichos del
 
-poder, y si bien es cierto que son manifestaciones de podero, todos cumplan
+poder, y si bien es cierto que son manifestaciones de poderío, todos cumplían
 
-un propsito prctico.
+un propósito práctico.
 
 Lo mismo puede decirse
 
@@ -64,7 +64,7 @@ la Escritura
 
 que pudiera
 
-ser considerada como un mero capricho de la gracia. As como cada milagro fue
+ser considerada como un mero capricho de la gracia. Así como cada milagro fue
 
 necesario, absolutamente necesario, igualmente necesaria ha sido cada promesa contenida
 
@@ -76,13 +76,13 @@ de Dios. Por eso yo puedo extraer un argumento del texto que tenemos ante nosotr
 
 -y yo pienso que puedo hacerlo de manera muy concluyente- en el sentido de que
 
-si Dios prometi en el pacto realizado con los miembros de Su pueblo poner Su
+si Dios prometió en el pacto realizado con los miembros de Su pueblo poner Su
 
-Espritu dentro de ellos, esa promesa tuvo que ser absolutamente necesaria. Tambin
+Espíritu dentro de ellos, esa promesa tuvo que ser absolutamente necesaria. También
 
-tiene que ser absolutamente necesario para nuestra salvacin que cada uno de
+tiene que ser absolutamente necesario para nuestra salvación que cada uno de
 
-nosotros reciba el Espritu de Dios. Este ser el tema del sermn de esta maana.
+nosotros reciba el Espíritu de Dios. Este será el tema del sermón de esta mańana.
 
 Yo espero que
 
@@ -90,11 +90,11 @@ resulte
 
 muy interesante para quienes
 
-anhelan con ansia conocer el camino de la salvacin.
+anhelan con ansia conocer el camino de la salvación.
 
 Comenzamos, entonces,
 
-estableciendo esta proposicin: la obra del Espritu Santo es absolutamente
+estableciendo esta proposición: la obra del Espíritu Santo es absolutamente
 
 necesaria para nosotros, si es que queremos ser salvos.
 
@@ -104,7 +104,7 @@ En
 
 el proceso de demostrar esto, antes que nada quisiera comentar que esta
 
-proposicin es muy evidente cuando
+proposición es muy evidente cuando
 
 recordamos
 
@@ -112,17 +112,17 @@ lo que el hombre es por naturaleza.
 
 Algunos dicen que el hombre puede
 
-alcanzar la salvacin por s solo; dicen que si oye
+alcanzar la salvación por sí solo; dicen que si oye
 
 la Palabra
 
-, est en su poder recibirla,
+, está en su poder recibirla,
 
-creerla y hacer que se opere en l un cambio salvador. A esto replicamos que
+creerla y hacer que se opere en él un cambio salvador. A esto replicamos que
 
 ustedes desconocen lo que el hombre es por naturaleza, pues de otra manera nunca
 
-aventuraran una aseveracin semejante.
+aventurarían una aseveración semejante.
 
 La Santa
 
@@ -130,43 +130,43 @@ Escritura
 
 nos informa que
 
-el hombre est
+el hombre está
 
 muerto
 
 en delitos y
 
-pecados por naturaleza. No dice que est enfermo, que est desfallecido, que se
+pecados por naturaleza. No dice que está enfermo, que está desfallecido, que se
 
-ha encallecido y endurecido y que su conciencia est cauterizada, sino que
+ha encallecido y endurecido y que su conciencia está cauterizada, sino que
 
-afirma que est categricamente muerto. Cualquiera que sea el significado de la
+afirma que está categóricamente muerto. Cualquiera que sea el significado de la
 
-palabra muerte con relacin al cuerpo, tiene ese mismo significado con
+palabra “muerte” con relación al cuerpo, tiene ese mismo significado con
 
-respecto al alma del hombre desde la perspectiva de su relacin con las cosas
+respecto al alma del hombre desde la perspectiva de su relación con las cosas
 
-espirituales. Cuando el cuerpo est muerto, carece de todo poder y es incapaz
+espirituales. Cuando el cuerpo está muerto, carece de todo poder y es incapaz
 
-de hacer algo por s mismo. Entonces, cuando el alma del hombre est muerta en
+de hacer algo por sí mismo. Entonces, cuando el alma del hombre está muerta en
 
 un sentido espiritual, si la figura tiene alguna validez, tiene que ser plena y
 
-completamente impotente e incapaz de hacer algo por s misma o para s misma. Cuando
+completamente impotente e incapaz de hacer algo por sí misma o para sí misma. Cuando
 
-vean que los muertos se levanten por s solos de sus tumbas, cuando vean que se
+vean que los muertos se levanten por sí solos de sus tumbas, cuando vean que se
 
-quiten el sudario que los cubre y que abran las tapas de sus propios fretros y
+quiten el sudario que los cubre y que abran las tapas de sus propios féretros y
 
 caminen por nuestras calles vivos y animados, todo ello como resultado de su
 
-propio poder, entonces tal vez puedan creer que las almas que estn muertas en
+propio poder, entonces tal vez puedan creer que las almas que están muertas en
 
-el pecado pueden volverse a Dios, pueden recrear su propia naturaleza, y por s
+el pecado pueden volverse a Dios, pueden recrear su propia naturaleza, y por sí
 
 solas pueden hacerse herederas del cielo aunque antes fueran hijas de ira. Pero
 
-observen que slo pueden hacerlo
+observen que sólo pueden hacerlo
 
 hasta
 
@@ -174,23 +174,23 @@ entonces.
 
 El trasfondo del Evangelio
 
-es que el hombre est muerto en el pecado y que la vida divina es un don de Dios,
+es que el hombre está muerto en el pecado y que la vida divina es un don de Dios,
 
-y tendras que ir en contra de todo este trasfondo antes de poder suponer que
+y tendrías que ir en contra de todo este trasfondo antes de poder suponer que
 
-el hombre puede conocer y amar a Cristo prescindiendo de la obra del Espritu
+el hombre puede conocer y amar a Cristo prescindiendo de la obra del Espíritu
 
-Santo. El Espritu encuentra a los hombres tan desprovistos de vida espiritual
+Santo. El Espíritu encuentra a los hombres tan desprovistos de vida espiritual
 
-como lo estaban los huesos secos de Ezequiel. l une los huesos y arma el
+como lo estaban los huesos secos de Ezequiel. Él une los huesos y arma el
 
 esqueleto y luego viene de los cuatro vientos y sopla sobre los muertos, y ellos
 
-viven y se ponen de pie; conforman un ejrcito grande en extremo, y adoran a
+viven y se ponen de pie; conforman un ejército grande en extremo, y adoran a
 
-Dios. Pero aparte de eso, aparte de la influencia vivificadora del Espritu de
+Dios. Pero aparte de eso, aparte de la influencia vivificadora del Espíritu de
 
-Dios, las almas de los hombres yacen en el valle de los huesos secos y estn muertas
+Dios, las almas de los hombres yacen en el valle de los huesos secos y están muertas
 
 y muertas por toda la eternidad.
 
@@ -198,57 +198,57 @@ Pero
 
 la Escritura
 
-no slo nos
+no sólo nos
 
-dice que el hombre est muerto en el pecado; nos dice algo peor que eso, es a
+dice que el hombre está muerto en el pecado; nos dice algo peor que eso, es a
 
-saber, que l es plena y categricamente reacio a todo lo que sea bueno y
+saber, que él es plena y categóricamente reacio a todo lo que sea bueno y
 
-recto. Los designios de la carne son enemistad contra Dios; porque no se
+recto. “Los designios de la carne son enemistad contra Dios; porque no se
 
-sujetan a la ley de Dios, ni tampoco pueden (Romanos 8: 7). Revisen toda
+sujetan a la ley de Dios, ni tampoco pueden” (Romanos 8: 7). Revisen toda
 
 la Escritura
 
 y continuamente
 
-encontrarn que la voluntad del hombre es descrita como contrapuesta a las
+encontrarán que la voluntad del hombre es descrita como contrapuesta a las
 
-cosas de Dios. Qu dijo Cristo en aquel texto tan citado por los arminianos
+cosas de Dios. żQué dijo Cristo en aquel texto tan citado por los arminianos
 
-para refutar la propia doctrina que claramente enuncia? Qu les dijo Cristo a
+para refutar la propia doctrina que claramente enuncia? żQué les dijo Cristo a
 
-quienes imaginaban que los hombres se acercaran sin necesidad de que se
+quienes imaginaban que los hombres se acercarían sin necesidad de que se
 
-ejerciera la influencia divina? Les dijo, primero: Ninguno puede venir a m,
+ejerciera la influencia divina? Les dijo, primero: “Ninguno puede venir a mí,
 
-si el Padre que me envi no le trajere; pero despus dijo algo todava ms
+si el Padre que me envió no le trajere”; pero después dijo algo todavía más
 
-contundente: No
+contundente: “No
 
-queris
+queréis
 
-venir a m
+venir a mí
 
-para que tengis vida. Nadie
+para que tengáis vida”. Nadie
 
 quiere
 
 venir.
 
-Ah radica el mal mortal; no slo afirma que el hombre es impotente para hacer
+Ahí radica el mal mortal; no sólo afirma que el hombre es impotente para hacer
 
 lo bueno, sino que es lo suficientemente fuerte para hacer lo malo y que su
 
-voluntad est irremisiblemente contrapuesta a todo lo bueno. Anda, arminiano, dile
+voluntad está irremisiblemente contrapuesta a todo lo bueno. Anda, arminiano, dile
 
-a tus oyentes que vendrn si as lo quieren, pero has de saber que tu Redentor
+a tus oyentes que vendrán si así lo quieren, pero has de saber que tu Redentor
 
-te mira a la cara y te dice que ests diciendo una mentira. Los hombres
+te mira a la cara y te dice que estás diciendo una mentira. Los hombres
 
 no
 
-quieren venir. Nunca vendrn por s
+quieren venir. Nunca vendrán por sí
 
 solos. No puedes inducirlos a venir; tampoco puedes forzarlos a venir con todos
 
@@ -258,55 +258,55 @@ no quieren
 
 venir a Cristo para que
 
-tengan vida. Si el Espritu no los atrae no quieren venir, ni pueden venir.
+tengan vida. Si el Espíritu no los atrae no quieren venir, ni pueden venir.
 
 Entonces, partiendo del
 
-hecho de que la naturaleza del hombre es hostil al Espritu divino, que odia la
+hecho de que la naturaleza del hombre es hostil al Espíritu divino, que odia la
 
 gracia, que desprecia la manera en que la gracia le es otorgada porque inclinarse
 
-para recibir la salvacin gracias a los actos de otro es algo que va en contra
+para recibir la salvación gracias a los actos de otro es algo que va en contra
 
-de su propia naturaleza altiva, por todo eso es necesario que el Espritu de
+de su propia naturaleza altiva, por todo eso es necesario que el Espíritu de
 
-Dios obre para cambiar la voluntad, para corregir la inclinacin del corazn,
+Dios obre para cambiar la voluntad, para corregir la inclinación del corazón,
 
 para poner al hombre en el sendero correcto y darle las fuerzas necesarias para
 
-que corra en l. Oh, si analizas al hombre y lo entiendes, no puedes evitar
+que corra en él. ˇOh, si analizas al hombre y lo entiendes, no puedes evitar
 
-reconocer la necesidad de la obra del Espritu Santo! Un gran escritor ha
+reconocer la necesidad de la obra del Espíritu Santo! Un gran escritor ha
 
-comentado muy acertadamente que nunca conoci a ningn hombre que sostuviera
+comentado muy acertadamente que nunca conoció a ningún hombre que sostuviera
 
-algn gran error teolgico, que no sostuviera conjuntamente alguna doctrina que
+algún gran error teológico, que no sostuviera conjuntamente alguna doctrina que
 
-minimizara la depravacin del hombre. El arminiano acepta que es cierto que el
+minimizara la depravación del hombre. El arminiano acepta que es cierto que el
 
-hombre se encuentra en una condicin cada, pero sostiene que todava le queda
+hombre se encuentra en una condición caída, pero sostiene que todavía le queda
 
-algn poder a su voluntad y que esa voluntad es libre; que el hombre puede
+algún poder a su voluntad y que esa voluntad es libre; que el hombre puede
 
-levantarse por s solo. Minimiza el carcter desesperado de la cada del
+levantarse por sí solo. Minimiza el carácter desesperado de la caída del
 
 hombre. Por otro lado, el antinomiano dice que el hombre no puede hacer nada, que
 
-no es responsable en absoluto y que no est obligado a hacer nada ya que no es
+no es responsable en absoluto y que no está obligado a hacer nada ya que no es
 
-su deber creer ni tampoco es su deber arrepentirse. Tambin reduce la
+su deber creer ni tampoco es su deber arrepentirse. También reduce la
 
-pecaminosidad del hombre y no tiene una visin correcta de la cada. Pero una
+pecaminosidad del hombre y no tiene una visión correcta de la caída. Pero una
 
-vez que se adopta el punto de vista correcto, es a saber, que el hombre est
+vez que se adopta el punto de vista correcto, es a saber, que el hombre está
 
-completamente cado, que es impotente, que es culpable, que est manchado y que
+completamente caído, que es impotente, que es culpable, que está manchado y que
 
-est perdido y condenado, entonces
+está perdido y condenado, entonces
 
 se
 
-tendr
+tendrá
 
 una sana doctrina en todos los
 
@@ -316,229 +316,229 @@ lo que
 
 la Escritura
 
-afirma que es, tan pronto crees que su corazn es depravado, que sus afectos
+afirma que es, tan pronto crees que su corazón es depravado, que sus afectos
 
-son pervertidos, que su entendimiento est ensombrecido y que su voluntad es
+son pervertidos, que su entendimiento está ensombrecido y que su voluntad es
 
-perversa entonces
+perversa –entonces
 
-t
+tú
 
 tienes
 
 que sostener que si un desgraciado
 
-as descrito puede ser salvado- tiene que ser por la obra del Espritu de Dios,
+así descrito puede ser salvado- tiene que ser por la obra del Espíritu de Dios,
 
-y del Espritu de Dios nicamente.
+y del Espíritu de Dios únicamente.
 
 2.
 
 Tengo otra prueba a la mano. La
 
-salvacin tiene que ser una obra del Espritu en nosotros, porque
+salvación tiene que ser una obra del Espíritu en nosotros, porque
 
-los medios usados en la salvacin son de por
+los medios usados en la salvación son de por
 
-s inadecuados para el cumplimiento de la obra.
+sí inadecuados para el cumplimiento de la obra.
 
-Y cules son los medios de
+żY cuáles son los medios de
 
-la salvacin? Bien, ante todo y de manera primordial figura la predicacin de
+la salvación? Bien, ante todo y de manera primordial figura la predicación de
 
 la Palabra
 
 de Dios. Un mayor
 
-nmero de hombres es llevado a Cristo por la predicacin que por cualquier otro
+número de hombres es llevado a Cristo por la predicación que por cualquier otro
 
 medio, pues es el primero y el primordial instrumento de Dios. Es la espada del
 
-Espritu, viva y eficaz, que penetra hasta partir las coyunturas y los
+Espíritu, viva y eficaz, que penetra hasta partir las coyunturas y los
 
-tutanos. Agrad a Dios salvar a los creyentes por la locura de la
+tuétanos. “Agradó a Dios salvar a los creyentes por la locura de la
 
-predicacin. Pero, qu hay en la predicacin que salve a las almas? Podra
+predicación”. Pero, żqué hay en la predicación que salve a las almas? Podría
 
-dar la impresin de ser el instrumento de la salvacin de las almas. Yo podra
+dar la impresión de ser el instrumento de la salvación de las almas. Yo podría
 
-sealarles diversas iglesias y capillas a las que ustedes pudieran entrar y
+seńalarles diversas iglesias y capillas a las que ustedes pudieran entrar y
 
-decir: Aqu hay un ministro en verdad instruido, un hombre que ensea e ilumina
+decir: “Aquí hay un ministro en verdad instruido, un hombre que enseńa e ilumina
 
-el intelecto; ustedes se sientan y dicen: Bien, si Dios tiene la intencin de
+el intelecto”; ustedes se sientan y dicen: “Bien, si Dios tiene la intención de
 
-realizar una gran obra, l va a usar a un hombre instruido como ste. Pero,
+realizar una gran obra, Él va a usar a un hombre instruido como éste”. Pero,
 
-conocen ustedes a algunos hombres instruidos que hayan llegado a ser
+żconocen ustedes a algunos hombres instruidos que hayan llegado a ser
 
 instrumentos para llevar a las almas a Cristo en alguna gran medida? Hagan un
 
-recorrido por sus iglesias, si quieren, y mrenlas, y luego respondan esa
+recorrido por sus iglesias, si quieren, y mírenlas, y luego respondan esa
 
-pregunta. Conocen a algunos grandes hombres varones grandes en conocimiento y
+pregunta. żConocen a algunos grandes hombres –varones grandes en conocimiento y
 
-en sabidura- que se hayan convertido en padres espirituales en nuestro Israel?
+en sabiduría- que se hayan convertido en padres espirituales en nuestro Israel?
 
-No es un hecho que salta a la vista que nuestros predicadores de moda, que nuestros
+żNo es un hecho que salta a la vista que nuestros predicadores de moda, que nuestros
 
 elocuentes predicadores, que nuestros instruidos predicadores son justamente
 
-los varones ms intiles de la creacin para ganar almas para Cristo? Y dnde
+los varones más inútiles de la creación para ganar almas para Cristo? żY dónde
 
 es que nacen las almas para Dios? Pues bien, nacen en la casa contra la cual la
 
-mofa y la burla y el escarnio del mundo apuntan sus bateras. Los pecadores son
+mofa y la burla y el escarnio del mundo apuntan sus baterías. Los pecadores son
 
-convertidos por medio del varn cuya elocuencia es tosca y burda, del varn que
+convertidos por medio del varón cuya elocuencia es tosca y burda, del varón que
 
 no tiene nada que lo haga interesante ante sus semejantes, que tiene que caer
 
 diariamente de rodillas y confesar su propia insensatez, y que cuando el mundo
 
-habla muy mal de l, siente que merece todo eso, puesto que l es slo un vaso
+habla muy mal de él, siente que merece todo eso, puesto que él es sólo un vaso
 
-de barro en el que Dios se agrada en poner Su tesoro celestial. Me atrever a decir
+de barro en el que Dios se agrada en poner Su tesoro celestial. Me atreveré a decir
 
-que en cada etapa de la historia del mundo el ministerio ms despreciado ha
+que en cada etapa de la historia del mundo el ministerio más despreciado ha
 
-sido el ms til; y yo podra mostrarles en este da a unos pobres predicadores
+sido el más útil; y yo podría mostrarles en este día a unos pobres predicadores
 
-metodistas primitivos que a duras penas pueden hablar un correcto ingls, que
+metodistas primitivos que a duras penas pueden hablar un correcto inglés, que
 
-han sido padres de ms almas y que han llevado a Cristo a ms personas que
+han sido padres de más almas y que han llevado a Cristo a más personas que
 
-cualquier obispo en funciones. Vamos, al Seor le ha complacido siempre
+cualquier obispo en funciones. Vamos, al Seńor le ha complacido siempre
 
-revestir de poder al dbil y al insensato, pero no cubre de poder a quienes, si
+revestir de poder al débil y al insensato, pero no cubre de poder a quienes, si
 
-se obrase algn bien, podran atribuir la excelencia del poder a su
+se obrase algún bien, podrían atribuir la excelencia del poder a su
 
-aprendizaje, a su elocuencia o a su posicin. As como era el deber del apstol
+aprendizaje, a su elocuencia o a su posición. Así como era el deber del apóstol
 
-Pablo, as tambin es el deber de cada ministro gloriarse en sus debilidades.
+Pablo, así también es el deber de cada ministro gloriarse en sus debilidades.
 
-El mundo dice: Bah, tu oratoria es inaceptable! Es spera, ruda y
+El mundo dice: “ˇBah, tu oratoria es inaceptable! Es áspera, ruda y
 
-excntrica. S, lo es, pero nos complace puesto que Dios la bendice. Entonces
+excéntrica”. Sí, lo es, pero nos complace puesto que Dios la bendice. Entonces
 
-es mucho mejor que contenga debilidades, pues as se ver claramente que no es
+es mucho mejor que contenga debilidades, pues así se verá claramente que no es
 
-del hombre ni por el hombre, sino que es la obra de Dios y nicamente de Dios.
+del hombre ni por el hombre, sino que es la obra de Dios y únicamente de Dios.
 
-rase una vez nos cuentan- un hombre sumamente curioso que deseaba ver la espada
+Érase una vez –nos cuentan- un hombre sumamente curioso que deseaba ver la espada
 
-con la que un hroe notable haba peleado algunas memorables batallas; echando
+con la que un héroe notable había peleado algunas memorables batallas; echando
 
-una mirada a la hoja, le dijo: Bien, yo no veo gran cosa en esta espada. No
+una mirada a la hoja, le dijo: “Bien, yo no veo gran cosa en esta espada”. “No”
 
-dijo el hroe- pero no has examinado el brazo que la blande. Y as tambin,
+–dijo el héroe- “pero no has examinado el brazo que la blande”. Y así también,
 
-cuando los hombres asisten para or a algn ministro exitoso, son propensos a
+cuando los hombres asisten para oír a algún ministro exitoso, son propensos a
 
-decir: yo no veo nada en l. No, pero no han examinado el brazo eterno que
+decir: “yo no veo nada en él”. No, pero no han examinado el brazo eterno que
 
-recoge la cosecha con esta espada del Espritu. Si hubiesen visto la quijada
+recoge la cosecha con esta espada del Espíritu. Si hubiesen visto la quijada
 
-del asno en la mano de Sansn, habran dicho: Cmo! Montones sobre montones
+del asno en la mano de Sansón, habrían dicho: “ˇCómo! żMontones sobre montones
 
-con esto? No; desenvaina alguna hoja pulida; saca el acero de Damasco! No,
+con esto?” ˇNo; desenvaina alguna hoja pulida; saca el acero de Damasco! No,
 
 pero Dios quiere recibir toda la gloria y, por tanto, no es con el acero pulido
 
-sino con la quijada de Sansn que se ha de obtener la victoria. Lo mismo sucede
+sino con la quijada de Sansón que se ha de obtener la victoria. Lo mismo sucede
 
-con los ministros. Dios ha bendecido a los ms dbiles para hacer el mayor
+con los ministros. Dios ha bendecido a los más débiles para hacer el mayor
 
-bien. Bien, entonces, no se deduce de esto que tiene que ser la obra del
+bien. Bien, entonces, żno se deduce de esto que tiene que ser la obra del
 
-Espritu? Porque si no hay nada en el instrumento que pueda conducir a hacerla,
+Espíritu? Porque si no hay nada en el instrumento que pueda conducir a hacerla,
 
-no es acaso la obra del Espritu la que hace que se cumpla la obra? Djenme
+żno es acaso la obra del Espíritu la que hace que se cumpla la obra? Déjenme
 
-simplemente mencionar esta lista: bajo el ministerio de la predicacin las almas
+simplemente mencionar esta lista: bajo el ministerio de la predicación las almas
 
-muertas son revividas, los pecadores son conducidos al arrepentimiento, los ms
+muertas son revividas, los pecadores son conducidos al arrepentimiento, los más
 
-viles pecadores son convertidos en santos y algunos hombres que venan
+viles pecadores son convertidos en santos y algunos hombres que venían
 
-resueltos a no creer se vieron forzados a creer. Ahora bien, quin realiza
+resueltos a no creer se vieron forzados a creer. Ahora bien, żquién realiza
 
 todo eso? Si dices que se debe al ministerio, entonces yo me despido de tu sano
 
 juicio, porque no hay nada en un ministerio exitoso que tienda a hacerlo. Tiene
 
-que ser el Espritu que obra en el hombre a travs del ministerio, pues de lo
+que ser el Espíritu que obra en el hombre a través del ministerio, pues de lo
 
-contrario tales obras no seran realizadas nunca. Si no fuera por la agencia
+contrario tales obras no serían realizadas nunca. Si no fuera por la agencia
 
-del Espritu sera tan vano esperar salvar a las almas por medio de la
+del Espíritu sería tan vano esperar salvar a las almas por medio de la
 
-predicacin como esperar levantar a los muertos susurrndoles cosas al odo. Ustedes
+predicación como esperar levantar a los muertos susurrándoles cosas al oído. Ustedes
 
 saben que Melancton
 
-se dedic a predicar
+se dedicó a predicar
 
-sin el Espritu del Seor, y l crea que poda convertir a toda la gente; pero
+sin el Espíritu del Seńor, y él creía que podía convertir a toda la gente; pero
 
-finalmente descubri que el viejo Adn era demasiado fuerte para el joven
+finalmente descubrió que el viejo Adán era demasiado fuerte para el joven
 
-Melancton, y tuvo que hacer un alto y solicitar la ayuda del Espritu Santo
+Melancton, y tuvo que hacer un alto y solicitar la ayuda del Espíritu Santo
 
-pues de la manera que lo haca nunca vera a un alma convertida. Yo digo que ya
+pues de la manera que lo hacía nunca vería a un alma convertida. Yo digo que ya
 
-que no hay nada en el ministerio de por s, el hecho de que sea bendecido
+que no hay nada en el ministerio de por sí, el hecho de que sea bendecido
 
-demuestra que la salvacin tiene que ser una obra de un poder superior.
+demuestra que la salvación tiene que ser una obra de un poder superior.
 
 Sin embargo, otros
 
-instrumentos son tambin utilizados para bendecir a las almas de los hombres.
+instrumentos son también utilizados para bendecir a las almas de los hombres.
 
-Por ejemplo, estn las dos ordenanzas del Bautismo y de
+Por ejemplo, están las dos ordenanzas del Bautismo y de
 
 la Cena
 
-del Seor. Ambas
+del Seńor. Ambas
 
-ordenanzas son constituidas en ricos instrumentos de la gracia. Pero permtanme
+ordenanzas son constituidas en ricos instrumentos de la gracia. Pero permítanme
 
-preguntarles: acaso hay algo en el bautismo que tenga la posibilidad de bendecir
+preguntarles: żacaso hay algo en el bautismo que tenga la posibilidad de bendecir
 
-a alguien? Acaso la inmersin en el agua puede tener la ms leve tendencia a
+a alguien? żAcaso la inmersión en el agua puede tener la más leve tendencia a
 
-ser bendecida para el alma? Y luego con relacin a comer el pan y a beber el
+ser bendecida para el alma? Y luego con relación a comer el pan y a beber el
 
 vino en
 
 la Cena
 
-del Seor, puede cualquier hombre racional concebir de alguna manera que haya
+del Seńor, żpuede cualquier hombre racional concebir de alguna manera que haya
 
 algo en el simple trozo de pan que comemos y en el vino que bebemos? Y, sin
 
-embargo, sin duda la gracia de Dios acompaa eficazmente a ambas ordenanzas
+embargo, sin duda la gracia de Dios acompańa eficazmente a ambas ordenanzas
 
-para la confirmacin de la fe de quienes las reciben y aun para la conversin
+para la confirmación de la fe de quienes las reciben y aun para la conversión
 
-de quienes asisten a la ceremonia. Tiene que haber algo, entonces, ms all de
+de quienes asisten a la ceremonia. Tiene que haber algo, entonces, más allá de
 
-la ceremonia externa; de hecho, el Espritu de Dios tiene que dar testimonio
+la ceremonia externa; de hecho, el Espíritu de Dios tiene que dar testimonio
 
 por medio del agua, tiene que dar testimonio por medio del vino y dar
 
 testimonio por medio del pan, pues de lo contrario ninguna de estas cosas
 
-podra servir de instrumento de la gracia para nuestras almas. No podran
+podría servir de instrumento de la gracia para nuestras almas. No podrían
 
-edificarnos ni podran ayudarnos a tener comunin con Cristo; no podran tender
+edificarnos ni podrían ayudarnos a tener comunión con Cristo; no podrían tender
 
-a generar la conviccin en los pecadores ni a establecer a los santos.
+a generar la convicción en los pecadores ni a establecer a los santos.
 
 Entonces, con base en estos hechos, concluimos que tiene que haber una
 
-influencia superior, invisible y misteriosa: la influencia del divino Espritu
+influencia superior, invisible y misteriosa: la influencia del divino Espíritu
 
 de Dios.
 
@@ -546,9 +546,9 @@ de Dios.
 
 En
 
-tercer lugar, permtanme recordarles de nuevo que puede verse claramente la
+tercer lugar, permítanme recordarles de nuevo que puede verse claramente la
 
-absoluta necesidad de la obra del Espritu Santo en el corazn partiendo de
+absoluta necesidad de la obra del Espíritu Santo en el corazón partiendo de
 
 este hecho: que
 
@@ -556,157 +556,157 @@ todo lo que ha sido hecho
 
 por Dios el Padre, y todo lo que ha sido hecho por Dios el Hijo es ineficaz
 
-para nosotros, a menos que el Espritu les revele estas cosas a nuestras almas.
+para nosotros, a menos que el Espíritu les revele estas cosas a nuestras almas.
 
-En primer lugar, nosotros creemos que Dios el Padre elige a Su pueblo. l
+En primer lugar, nosotros creemos que Dios el Padre elige a Su pueblo. Él
 
-lo eligi para S desde antes de todos los mundos. Pero permtanme preguntarles:
+lo eligió para Sí desde antes de todos los mundos. Pero permítanme preguntarles:
 
-qu efecto puede tener en alguien la doctrina de la eleccin mientras el
+żqué efecto puede tener en alguien la doctrina de la elección mientras el
 
-Espritu de Dios no entre en l? Cmo s que Dios me eligi desde antes de la
+Espíritu de Dios no entre en Él? żCómo sé que Dios me eligió desde antes de la
 
-fundacin del mundo? Cmo se pudiera saber eso? Puedo subir al cielo y leerlo
+fundación del mundo? żCómo se pudiera saber eso? żPuedo subir al cielo y leerlo
 
-en el rollo? Es posible que me abra paso a travs de las densas nieblas que
+en el rollo? żEs posible que me abra paso a través de las densas nieblas que
 
 ocultan la eternidad y que abra los siete sellos del libro y lea que mi nombre
 
-se encuentra registrado all? Ah, no! La eleccin es una letra muerta tanto en
+se encuentra registrado allí? ˇAh, no! La elección es una letra muerta tanto en
 
-mi conciencia como en el efecto que pudiera producir en m, mientras el
+mi conciencia como en el efecto que pudiera producir en mí, mientras el
 
-Espritu de Dios no me llame de las tinieblas a Su luz admirable. Y luego, gracias
+Espíritu de Dios no me llame de las tinieblas a Su luz admirable. Y luego, gracias
 
-a mi llamado, veo mi eleccin, y sabindome llamado por Dios, s que he sido
+a mi llamado, veo mi elección, y sabiéndome llamado por Dios, sé que he sido
 
-elegido por Dios desde antes de la fundacin del mundo. La doctrina de la
+elegido por Dios desde antes de la fundación del mundo. La doctrina de la
 
-eleccin es algo muy precioso para un hijo de Dios. Pero qu la hace valiosa?
+elección es algo muy precioso para un hijo de Dios. Pero żqué la hace valiosa?
 
-Nada, excepto la influencia del Espritu. Mientras el Espritu no abra los ojos
+Nada, excepto la influencia del Espíritu. Mientras el Espíritu no abra los ojos
 
-para leerla, mientras el Espritu no divulgue el secreto mstico, ningn
+para leerla, mientras el Espíritu no divulgue el secreto místico, ningún
 
-corazn puede conocer su eleccin. Ningn ngel revel jams a hombre alguno
+corazón puede conocer su elección. Ningún ángel reveló jamás a hombre alguno
 
-que era elegido de Dios. Quien lo hace es el Espritu. l, mediante Sus operaciones
+que era elegido de Dios. Quien lo hace es el Espíritu. Él, mediante Sus operaciones
 
-divinas, da un infalible testimonio a nuestros espritus de que somos nacidos
+divinas, da un infalible testimonio a nuestros espíritus de que somos nacidos
 
-de Dios y entonces somos capacitados para leer nuestro ttulo de propiedad sin
+de Dios y entonces somos capacitados para “leer nuestro título de propiedad sin
 
-gravamen en las mansiones en los cielos.
+gravamen en las mansiones en los cielos”.
 
-Adems, miren el pacto
+Además, miren el pacto
 
-de gracia. Sabemos que Dios el Padre hizo un pacto con el Seor Jesucristo desde
+de gracia. Sabemos que Dios el Padre hizo un pacto con el Seńor Jesucristo desde
 
 antes de todos los mundos, y que en ese pacto le fueron dadas y le fueron
 
-garantizadas a l las personas de todo Su pueblo; pero de qu nos servira el
+garantizadas a Él las personas de todo Su pueblo; żpero de qué nos serviría el
 
-pacto o cul sera su utilidad para nosotros si el Espritu Santo no nos
+pacto o cuál sería su utilidad para nosotros si el Espíritu Santo no nos
 
-entregara las bendiciones del pacto? El pacto es, por decirlo as, un rbol
+entregara las bendiciones del pacto? El pacto es, por decirlo así, un árbol
 
-alto cargado de frutos; si el Espritu no sacudiera ese rbol e hiciera que el
+alto cargado de frutos; si el Espíritu no sacudiera ese árbol e hiciera que el
 
-fruto caiga para que llegue hasta el nivel donde nos encontramos, cmo
+fruto caiga para que llegue hasta el nivel donde nos encontramos, żcómo
 
-podramos alcanzarlo? Traigan aqu a cualquier pecador y dganle que existe un
+podríamos alcanzarlo? Traigan aquí a cualquier pecador y díganle que existe un
 
-pacto de gracia, y qu se ganara con ello? Ah dice- yo no podra ser
+pacto de gracia, y żqué se ganaría con ello? “Ah” –dice- “yo no podría ser
 
-incluido en l; mi nombre no puede ser registrado all; no puedo ser elegido en
+incluido en él; mi nombre no puede ser registrado allí; no puedo ser elegido en
 
-Cristo; pero basta que el Espritu de Dios more en su corazn ricamente por
+Cristo”; pero basta que el Espíritu de Dios more en su corazón ricamente por
 
-medio de la fe y del amor que es en Cristo Jess, y ese hombre ve el pacto,
+medio de la fe y del amor que es en Cristo Jesús, y ese hombre ve el pacto,
 
-ordenado en todas las cosas y que ser cumplido y clama con David: Es toda mi
+ordenado en todas las cosas y que será cumplido y clama con David: “Es toda mi
 
-salvacin y mi deseo.
+salvación y mi deseo”.
 
 Consideren, igualmente,
 
-la redencin de Cristo. Sabemos que Cristo estuvo en la condicin, en la
+la redención de Cristo. Sabemos que Cristo estuvo en la condición, en la
 
-posicin y en sustitucin de todo Su pueblo, y que todos aquellos que entrarn
+posición y en sustitución de todo Su pueblo, y que todos aquellos que entrarán
 
-en el cielo comparecern all por un acto de justicia as como de gracia, en
+en el cielo comparecerán allá por un acto de justicia así como de gracia, en
 
-vista de que Cristo fue castigado en su lugar y en su posicin, y que habra
+vista de que Cristo fue castigado en su lugar y en su posición, y que habría
 
-sido injusto que Dios los castigara, en vista de que Dios ya haba castigado a
+sido injusto que Dios los castigara, en vista de que Dios ya había castigado a
 
-Cristo en vez de ellos. Creemos que ya que Cristo pag todas sus deudas, ellos
+Cristo en vez de ellos. Creemos que ya que Cristo pagó todas sus deudas, ellos
 
 tienen el derecho a su libertad en Cristo; que como Cristo los ha recubierto
 
 con Su justicia, tienen tanto derecho a la vida eterna como si ellos mismos
 
-hubieran sido perfectamente santos. Pero, de qu me sirve eso mientras el
+hubieran sido perfectamente santos. Pero, żde qué me sirve eso mientras el
 
-Espritu no tome de las cosas de Cristo y me las muestre? Qu es la sangre de
+Espíritu no tome de las cosas de Cristo y me las muestre? żQué es la sangre de
 
-Cristo para cualquiera de ustedes mientras no hubiere recibido el Espritu de
+Cristo para cualquiera de ustedes mientras no hubiere recibido el Espíritu de
 
-gracia? Ustedes han odo predicar al ministro acerca de la sangre de Cristo mil
+gracia? Ustedes han oído predicar al ministro acerca de la sangre de Cristo mil
 
-veces, pero han seguido de largo. No signific nada para ustedes que Jess
+veces, pero han seguido de largo. No significó nada para ustedes que Jesús
 
-muriera. Ustedes saben que l expi por unos pecados que no eran Suyos, pero
+muriera. Ustedes saben que Él expió por unos pecados que no eran Suyos, pero
 
-slo lo consideraron como un cuento, y, tal vez, hasta como un cuento ocioso.
+sólo lo consideraron como un cuento, y, tal vez, hasta como un cuento ocioso.
 
-Pero cuando el Espritu de Dios los condujo a la cruz, y les abri los ojos, y
+Pero cuando el Espíritu de Dios los condujo a la cruz, y les abrió los ojos, y
 
-los habilit para ver a Cristo crucificado, ah, entonces la sangre tuvo ciertamente
+los habilitó para ver a Cristo crucificado, ah, entonces la sangre tuvo ciertamente
 
-un significado. Cuando Su mano sumergi el hisopo en la sangre, y cuando aplic
+un significado. Cuando Su mano sumergió el hisopo en la sangre, y cuando aplicó
 
-esa sangre al espritu de ustedes, entonces hubo un gozo y una paz en la fe, que
+esa sangre al espíritu de ustedes, entonces hubo un gozo y una paz en la fe, que
 
 no conocieron nunca antes. Pero, ah, mi querido oyente, que Cristo haya muerto
 
-no significa nada para ti a menos que tengas un Espritu viviente en tu
+no significa nada para ti a menos que tengas un Espíritu viviente en tu
 
-interior. Cristo no te proporciona ningn beneficio salvador, personal y
+interior. Cristo no te proporciona ningún beneficio salvador, personal y
 
-duradero, a menos que el Espritu de Dios te hubiere bautizado en la fuente
+duradero, a menos que el Espíritu de Dios te hubiere bautizado en la fuente
 
 repleta con Su sangre, y te hubiere limpiado en ella de la cabeza a los pies.
 
-Dentro de las mltiples
+Dentro de las múltiples
 
-bendiciones del pacto slo menciono unas cuantas, simplemente para mostrarles
+bendiciones del pacto sólo menciono unas cuantas, simplemente para mostrarles
 
-que ninguna de ellas es de alguna utilidad a menos que el Espritu Santo nos
+que ninguna de ellas es de alguna utilidad a menos que el Espíritu Santo nos
 
-las proporcione. Las bendiciones cuelgan de un clavo, del clavo Cristo Jess;
+las proporcione. Las bendiciones cuelgan de un clavo, del clavo Cristo Jesús;
 
-pero nosotros somos de baja estatura y no podemos alcanzarlas. El Espritu de
+pero nosotros somos de baja estatura y no podemos alcanzarlas. El Espíritu de
 
-Dios las pone abajo y nos las entrega, y helas all; son nuestras. Es como el
+Dios las pone abajo y nos las entrega, y helas allí; son nuestras. Es como el
 
-man en los cielos que est lejos del alcance de los mortales; pero el Espritu
+maná en los cielos que está lejos del alcance de los mortales; pero el Espíritu
 
 de Dios abre las ventanas del cielo, hace descender el pan, lo coloca en
 
 nuestros labios y nos capacita para comerlo. La sangre y la justicia de Cristo
 
-son como un vino almacenado en una tinaja que est fuera de nuestro alcance. El
+son como un vino almacenado en una tinaja que está fuera de nuestro alcance. El
 
-Espritu Santo sumerge nuestro vaso en este precioso vino, y entonces bebemos;
+Espíritu Santo sumerge nuestro vaso en este precioso vino, y entonces bebemos;
 
-pero sin el Espritu habremos de morir y de perecer de todas maneras, aunque el
+pero sin el Espíritu habremos de morir y de perecer de todas maneras, aunque el
 
-Padre elija y el Hijo redima, pues sera como si el Padre no nos hubiera
+Padre elija y el Hijo redima, pues sería como si el Padre no nos hubiera
 
 elegido nunca y como si el Hijo no nos hubiera comprado nunca con Su sangre. El
 
-Espritu es absolutamente necesario. Sin l ni las obras del Padre ni las del
+Espíritu es absolutamente necesario. Sin Él ni las obras del Padre ni las del
 
 Hijo son de alguna utilidad para nosotros.
 
@@ -720,113 +720,113 @@ La experiencia
 
 del verdadero cristiano es una realidad; pero nunca puede ser conocida ni
 
-sentida sin el Espritu de Dios.
+sentida sin el Espíritu de Dios.
 
-Pues, qu es la experiencia del
+Pues, żqué es la experiencia del
 
-cristiano? Permtanme darles slo un breve resumen de algunas de sus escenas.
+cristiano? Permítanme darles sólo un breve resumen de algunas de sus escenas.
 
-Una persona vino a este saln esta maana: se trata de uno de los hombres de
+Una persona vino a este salón esta mańana: se trata de uno de los hombres de
 
-mayor reputacin en Londres. Nunca se ha entregado a ningn tipo de vicio
+mayor reputación en Londres. Nunca se ha entregado a ningún tipo de vicio
 
-externo; no ha sido nunca deshonesto; es conocido ms bien como un comerciante
+externo; no ha sido nunca deshonesto; es conocido más bien como un comerciante
 
 recto y leal. Ahora, para su sorpresa, se le informa que es un pecador perdido
 
-y condenado, y tan perdido en verdad como el ladrn que muri en la cruz por
+y condenado, y tan perdido en verdad como el ladrón que murió en la cruz por
 
-sus crmenes. Ustedes opinan que ese hombre lo creera? Con todo, supongan que
+sus crímenes. żUstedes opinan que ese hombre lo creería? Con todo, supongan que
 
-lo creyera simplemente porque lo ley en
+lo creyera simplemente porque lo leyó en
 
 la Biblia.
 
-Piensan que ese hombre ser llevado a
+żPiensan que ese hombre será llevado a
 
-sentirlo? Yo s que ustedes dicen: Imposible! Algunos de ustedes, incluso
+sentirlo? Yo sé que ustedes dicen: “ˇImposible!” Algunos de ustedes, incluso
 
-ahora, tal vez se estn diciendo: Bien, yo nunca lo creera! Pueden
+ahora, tal vez se estén diciendo: “Bien, ˇyo nunca lo creería!” żPueden
 
-imaginar a ese honorable y recto comerciante musitando: Dios, s propicio a
+imaginar a ese honorable y recto comerciante musitando: “Dios, sé propicio a
 
-m, pecador?, estando junto a la ramera y al blasfemo y sintiendo en su propio
+mí, pecador”?, estando junto a la ramera y al blasfemo y sintiendo en su propio
 
-corazn como si hubiese sido tan culpable como ellos, y usando precisamente la
+corazón como si hubiese sido tan culpable como ellos, y usando precisamente la
 
-misma oracin, dice: Seor, slvame, que perezco! Ustedes no pueden
+misma oración, dice: “ˇSeńor, sálvame, que perezco!” Ustedes no pueden
 
-concebirlo, no es cierto? Va en contra de la naturaleza que un hombre que ha sido
+concebirlo, żno es cierto? Va en contra de la naturaleza que un hombre que ha sido
 
-tan bueno como l, se rebaje al nivel del peor pecador. Ah, pero eso tendr que
+tan bueno como él, se rebaje al nivel del peor pecador. Ah, pero eso tendrá que
 
 hacerse antes de poder ser salvo; tiene que sentir eso antes de poder entrar al
 
-cielo. Ahora, yo pregunto, quin puede reducirlo a una experiencia tan arrasadora
+cielo. Ahora, yo pregunto, żquién puede reducirlo a una experiencia tan arrasadora
 
-como esa sino el Espritu de Dios? Yo s muy bien que la naturaleza arrogante
+como esa sino el Espíritu de Dios? Yo sé muy bien que la naturaleza arrogante
 
-no se doblega a hacer eso. Todos nosotros somos aristcratas en nuestra propia
+no se doblega a hacer eso. Todos nosotros somos aristócratas en nuestra propia
 
 justicia; no nos gusta doblarnos hacia el suelo ni ser contados entre los
 
-pecadores comunes. Si somos conducidos all, tiene que ser el Espritu de Dios
+pecadores comunes. Si somos conducidos allá, tiene que ser el Espíritu de Dios
 
-el que nos derribe. Vamos, yo s que si alguien me hubiera dicho que tena que
+el que nos derribe. Vamos, yo sé que si alguien me hubiera dicho que tenía que
 
-clamar a Dios pidindole misericordia, y que tena que confesar que haba sido
+clamar a Dios pidiéndole misericordia, y que tenía que confesar que había sido
 
-el ms vil de los viles, yo me habra redo en su cara; yo le habra dicho:
+el más vil de los viles, yo me habría reído en su cara; yo le habría dicho:
 
-Cmo, yo no he hecho nada particularmente malo; yo no le hecho dao a nadie. Y
+“Cómo, yo no he hecho nada particularmente malo; yo no le hecho dańo a nadie”. Y
 
-sin embargo, yo s que en este preciso da puedo tomar mi lugar en la ms baja
+sin embargo, yo sé que en este preciso día puedo tomar mi lugar en la más baja
 
-posicin, y cuando entre en el cielo me sentir feliz al sentarme entre los
+posición, y cuando entre en el cielo me sentiré feliz al sentarme entre los
 
 peores pecadores para alabar al poderoso amor que me ha salvado de mis pecados.
 
-Ahora, qu produce esta humillacin del corazn? La gracia. Va en contra de la
+Ahora, żqué produce esta humillación del corazón? La gracia. Va en contra de la
 
-naturaleza que un hombre honesto e ntegro a los ojos del mundo se sienta un
+naturaleza que un hombre honesto e íntegro a los ojos del mundo se sienta un
 
-pecador perdido. Tiene que ser el resultado de la obra del Espritu Santo pues
+pecador perdido. Tiene que ser el resultado de la obra del Espíritu Santo pues
 
-de lo contrario nunca se hara.
+de lo contrario nunca se haría.
 
-Bien, despus que un
+Bien, después que un
 
-hombre ha sido trado aqu, puedes concebir que ese hombre sienta por fin un
+hombre ha sido traído aquí, żpuedes concebir que ese hombre sienta por fin un
 
 remordimiento de conciencia y que sea conducido a creer que su vida pasada
 
-merece la ira de Dios? Su primer pensamiento sera: Bueno, ahora, voy a vivir
+merece la ira de Dios? Su primer pensamiento sería: “Bueno, ahora, voy a vivir
 
-mejor de lo que he vivido jams. Dira: Ahora voy a intentar hacer el papel
+mejor de lo que he vivido jamás”. Diría: “Ahora voy a intentar hacer el papel
 
-de un ermitao y voy a provocarme tormentos por aqu y por all y voy a negarme
+de un ermitańo y voy a provocarme tormentos por aquí y por allá y voy a negarme
 
-a m mismo y voy a hacer penitencia; y de esa manera, dndole importancia a las
+a mí mismo y voy a hacer penitencia; y de esa manera, dándole importancia a las
 
-ceremonias externas de la religin, aunado al desarrollo de un elevado carcter
+ceremonias externas de la religión, aunado al desarrollo de un elevado carácter
 
-moral, sin duda he de borrar cualesquiera suciedades y manchas que hayan existido.
+moral, sin duda he de borrar cualesquiera suciedades y manchas que hayan existido”.
 
-Pueden suponer que ese hombre sea conducido finalmente a sentir que, si llega
+żPueden suponer que ese hombre sea conducido finalmente a sentir que, si llega
 
-alguna vez al cielo, tendra que llegar all por medio de la justicia de
+alguna vez al cielo, tendría que llegar allá por medio de la justicia de
 
-alguien ms? Por medio de la justicia de otra persona?, -pregunta-. Yo no
+alguien más? “żPor medio de la justicia de otra persona?”, -pregunta-. “Yo no
 
 quiero ser recompensado por lo que otro individuo haga; no lo quiero. Voy a ir
 
-y voy a jugarme el todo por el todo; voy a llegar all gracias a lo que yo
+y voy a jugarme el todo por el todo; voy a llegar allá gracias a lo que yo
 
-mismo haga. Dime qu tengo que hacer y lo har; me sentir orgulloso de hacerlo,
+mismo haga. Dime qué tengo que hacer y lo haré; me sentiré orgulloso de hacerlo,
 
-sin importar cun humillante pudiera ser, para poder ganar por fin el amor y la
+sin importar cuán humillante pudiera ser, para poder ganar por fin el amor y la
 
-estimacin de Dios. Ahora, puedes concebir que un hombre que piense as sea conducido
+estimación de Dios”. Ahora, żpuedes concebir que un hombre que piense así sea conducido
 
 a sentir que no puede hacer nada? Aunque se considere un hombre bueno, no puede
 
@@ -834,15 +834,15 @@ hacer absolutamente nada que amerite el amor y el favor de Dios, y si va al
 
 cielo tiene que ir gracias a lo que Cristo hizo. De la misma manera que el
 
-borracho tiene que ir all por medio de los mritos de Cristo, as este hombre
+borracho tiene que ir allá por medio de los méritos de Cristo, así este hombre
 
 moral ha de entrar en la vida sin poseer nada excepto la perfecta justicia de
 
-Cristo y por haber sido lavado en la sangre de Jess. Decimos que esto es tan
+Cristo y por haber sido lavado en la sangre de Jesús. Decimos que esto es tan
 
 contrario a la naturaleza humana, que es tan diametralmente opuesto a todos los
 
-instintos de nuestra pobre humanidad cada, que nada sino el Espritu de Dios
+instintos de nuestra pobre humanidad caída, que nada sino el Espíritu de Dios
 
 puede llevar a un hombre a desnudarse de toda la justicia propia y de toda la
 
@@ -852,317 +852,321 @@ enteramente en Jesucristo el Salvador.
 
 Esas dos experiencias
 
-bastaran para demostrar la necesidad de que el Espritu Santo convierta a un
+bastarían para demostrar la necesidad de que el Espíritu Santo convierta a un
 
-hombre en un cristiano. Pero permtanme describir ahora a un cristiano tal como
+hombre en un cristiano. Pero permítanme describir ahora a un cristiano tal como
 
-es despus de su conversin. Si llega la afliccin, tormentas de afliccin, l
+es después de su conversión. Si llega la aflicción, tormentas de aflicción, él
 
-mira a la tempestad a la cara y dice: yo s que todas las cosas obran para mi
+mira a la tempestad a la cara y dice: “yo sé que todas las cosas obran para mi
 
-bien. Sus hijos fallecen, la compaera de su seno es llevada a la tumba; l
+bien”. Sus hijos fallecen, la compańera de su seno es llevada a la tumba; él
 
-dice: Jehov dio, y Jehov quit; sea el nombre de Jehov bendito. Su
+dice: “Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito”. Su
 
 hacienda fracasa, su cosecha se malogra; las perspectivas de su negocio son
 
-turbias, todo parece perdido y l se ve reducido a la pobreza; dice: Aunque la
+turbias, todo parece perdido y él se ve reducido a la pobreza; dice: “Aunque la
 
 higuera no florezca, ni en las vides haya frutos, aunque falte el producto del
 
 olivo, y los labrados no den mantenimiento, y las ovejas sean quitadas de la majada,
 
-y no haya vacas en los corrales; con todo, yo me alegrar en Jehov, y me
+y no haya vacas en los corrales; con todo, yo me alegraré en Jehová, y me
 
-gozar en el Dios de mi salvacin. A continuacin lo ves acostado en su lecho
+gozaré en el Dios de mi salvación”. A continuación lo ves acostado en su lecho
 
-de enfermedad, y sumido all, dice: Bueno me es haber sido humillado, pues antes
+de enfermedad, y sumido allí, dice: “Bueno me es haber sido humillado, pues antes
 
-que fuera humillado, descarriado andaba; mas ahora guardo tu palabra. Por fin
+que fuera humillado, descarriado andaba; mas ahora guardo tu palabra”. Por fin
 
-lo ves acercndose al oscuro valle de la sombra de muerte, y lo oyes exclamar:
+lo ves acercándose al oscuro valle de la sombra de muerte, y lo oyes exclamar:
 
-S, aunque ande en valle de sombra de muerte, no temer mal alguno, porque t
+“Sí, aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú
 
-estars conmigo; tu vara y tu cayado me infundirn aliento. Ahora yo les
+estarás conmigo; tu vara y tu cayado me infundirán aliento”. Ahora yo les
 
-pregunto: qu es lo que hace que este hombre est tan tranquilo en medio de
+pregunto: żqué es lo que hace que este hombre esté tan tranquilo en medio de
 
-todas estas diversas aflicciones y tribulaciones personales, sino el Espritu
+todas estas diversas aflicciones y tribulaciones personales, sino el Espíritu
 
-de Dios? Oh, ustedes que dudan de la influencia del Espritu, hagan algo
+de Dios? Oh, ustedes que dudan de la influencia del Espíritu, hagan algo
 
-similar sin l, vayan y mueran como mueren los cristianos, y vivan como viven
+similar sin Él, vayan y mueran como mueren los cristianos, y vivan como viven
 
-ellos, y si pueden mostrar la misma resignacin tranquila, el mismo gozo
+ellos, y si pueden mostrar la misma resignación tranquila, el mismo gozo
 
-apacible y la misma firme creencia en que las cosas adversas obrarn para bien
+apacible y la misma firme creencia en que las cosas adversas obrarán para bien
 
-a pesar de todo, entonces pudiramos estar en libertad de renunciar al punto,
+a pesar de todo, entonces pudiéramos estar en libertad de renunciar al punto,
 
 pero no hasta entonces. La noble y sublime experiencia de un cristiano en
 
-tiempos de tribulacin y de sufrimiento demuestra que tiene que existir una
+tiempos de tribulación y de sufrimiento demuestra que tiene que existir una
 
-obra del Espritu de Dios.
+obra del Espíritu de Dios.
 
-Pero miren tambin al
+Pero miren también al
 
-cristiano en sus momentos de dicha. l es un hombre rico. Dios le ha dado todo
+cristiano en sus momentos de dicha. Él es un hombre rico. Dios le ha dado todo
 
-el deseo de su corazn en la tierra. Mralo. Dice: yo no valoro estas cosas en
+el deseo de su corazón en la tierra. Míralo. Dice: “yo no valoro estas cosas en
 
 absoluto, excepto en la medida que son un don de Dios; yo permanezco sin
 
 apegarme a ellas, y a pesar de esta casa y de este hogar y de todos estos
 
-consuelos, tengo el deseo de partir y estar con Cristo, lo cual es muchsimo
+consuelos, ‘tengo el deseo de partir y estar con Cristo, lo cual es muchísimo
 
-mejor. Es cierto. Yo no necesito nada en la tierra, pero todava siento que
+mejor’. Es cierto. Yo no necesito nada en la tierra, pero todavía siento que
 
-morir sera ganancia para m, aunque tenga que dejar todo esto. No se aferra a
+morir sería ganancia para mí, aunque tenga que dejar todo esto”. No se aferra a
 
 la tierra; no la ase con una mano firme, sino que la considera como polvo, como
 
 una cosa que ha de pasar. Se solaza muy poco en ella, diciendo:
 
-No tengo ninguna ciudad permanente aqu,
+“No tengo ninguna ciudad permanente aquí,
 
-Busco una ciudad que no est a la vista.
+Busco una ciudad que no está a la vista”.
 
 Observa a ese hombre;
 
 tiene suficiente espacio para los placeres de este mundo, pero bebe de una cisterna
 
-ms elevada. Su placer proviene de cosas invisibles; sus momentos ms felices
+más elevada. Su placer proviene de cosas invisibles; sus momentos más felices
 
 son cuando deja fuera todas esas cosas buenas y viene a Dios como un pobre
 
-pecador culpable, y a travs de Cristo entra en comunin con l, y se remonta a
+pecador culpable, y a través de Cristo entra en comunión con Él, y se remonta a
 
 una intimidad de acceso y confianza y se acerca valerosamente al trono de la
 
-gracia celestial. Ahora, qu es lo que motiva a un hombre que dispone de todas
+gracia celestial. Ahora, żqué es lo que motiva a un hombre que dispone de todas
 
-esas misericordias a no poner su corazn en la cosas de la tierra? Es algo
+esas misericordias a no poner su corazón en la cosas de la tierra? Es algo
 
-maravilloso ciertamente que un hombre que posee oro y plata, y rebaos y
+maravilloso ciertamente que un hombre que posee oro y plata, y rebańos y
 
 manadas, no convierta a todo eso en su dios, sino que diga:
 
-No hay nada en torno a esta espaciosa tierra
+“No hay nada en torno a esta espaciosa tierra
 
 Que satisfaga mi gran deseo;
 
-Mis ms nobles pensamientos aspiran
+Mis más nobles pensamientos aspiran
 
-A un gozo ilimitado y a una dicha slida.
+A un gozo ilimitado y a una dicha sólida”.
 
 Estas cosas no
 
-constituyen mi tesoro; mi tesoro est en el cielo, y nicamente en el cielo.
+constituyen mi tesoro; mi tesoro está en el cielo, y únicamente en el cielo.
 
-Qu motiva esto? No se debe a una mera virtud moral. Ninguna doctrina de los
+żQué motiva esto? No se debe a una mera virtud moral. Ninguna doctrina de los
 
-estoicos condujo jams a una condicin semejante. No; lo que conduce a un
+estoicos condujo jamás a una condición semejante. No; lo que conduce a un
 
-hombre a vivir en el cielo teniendo una tentacin para vivir en la tierra tiene
+hombre a vivir en el cielo teniendo una tentación para vivir en la tierra tiene
 
-que ser la obra del Espritu y nicamente la obra del Espritu. No me sorprende
+que ser la obra del Espíritu y únicamente la obra del Espíritu. No me sorprende
 
 que un hombre pobre anhele el cielo pues no tiene nada que mirar en la tierra.
 
 No me sorprende que la alondra vuele a lo alto cuando hay una espina en el nido,
 
-pues no hay ningn descanso para ella abajo. Cuando ustedes son golpeados y
+pues no hay ningún descanso para ella abajo. Cuando ustedes son golpeados y
 
-carcomidos por la tribulacin, no ha de sorprender que digan:
+carcomidos por la tribulación, no ha de sorprender que digan:
 
-Jerusaln! Mi hogar feliz!
+“ˇJerusalén! ˇMi hogar feliz!
 
-Nombre por siempre amado para m;
+Nombre por siempre amado para mí;
 
-Cundo tendrn un fin mis trabajos,
+ż
+
+Cuándo tendrán un fin mis trabajos,
 
 En gozo, y paz y en Ti
 
 ?
 
+”
+
 Pero el mayor portento
 
-es que aunque recubras el nido de la manera ms suave posible, aunque le
+es que aunque recubras el nido de la manera más suave posible, aunque le
 
 proporciones todas las misericordias de esta vida, no puedes impedir que diga:
 
-A Jess, la corona de mi esperanza,
+“A Jesús, la corona de mi esperanza,
 
 Mi alma se apresura a partir;
 
-Oh, querubines, llvenme a lo alto,
+Oh, querubines, llévenme a lo alto,
 
-Y transprtenme a Su trono.
+Y transpórtenme a Su trono”.
 
 5.
 
 Y
 
-ahora, por ltimo,
+ahora, por último,
 
 los actos aceptables
 
-de la vida del cristiano no pueden realizarse sin el Espritu;
+de la vida del cristiano no pueden realizarse sin el Espíritu;
 
 y de esto se
 
-comprueba otra vez la necesidad del Espritu de Dios. El primer acto de la vida
+comprueba otra vez la necesidad del Espíritu de Dios. El primer acto de la vida
 
-del cristiano es el arrepentimiento. Han intentado alguna vez arrepentirse? Si
+del cristiano es el arrepentimiento. żHan intentado alguna vez arrepentirse? Si
 
-lo han hecho, si lo intentaron sin el Espritu de Dios, saben entonces que
+lo han hecho, si lo intentaron sin el Espíritu de Dios, saben entonces que
 
-exhortar a un hombre a que se arrepienta sin la ayuda del Espritu es
+exhortar a un hombre a que se arrepienta sin la ayuda del Espíritu es
 
-exhortarlo a realizar algo imposible. Sera ms fcil que una piedra llorara y
+exhortarlo a realizar algo imposible. Sería más fácil que una piedra llorara y
 
 que un desierto floreciera que un pecador se arrepienta por su propia voluntad.
 
 Si Dios le ofreciera el cielo a alguien, simplemente sobre la base del
 
-arrepentimiento del pecado, el cielo sera tan imposible de alcanzar como es
+arrepentimiento del pecado, el cielo sería tan imposible de alcanzar como es
 
 imposible alcanzarlo mediante las buenas obras, pues arrepentirse es tan imposible
 
 para el hombre como imposible le es guardar la ley de Dios, pues el arrepentimiento
 
-est en la propia raz de la obediencia perfecta a la ley de Dios. Me parece a
+está en la propia raíz de la obediencia perfecta a la ley de Dios. Me parece a
 
-m que en el arrepentimiento est la ley completa solidificada y condensada; y
+mí que en el arrepentimiento está la ley completa solidificada y condensada; y
 
-si un hombre pudiese arrepentirse por su propia voluntad, entonces no habra
+si un hombre pudiese arrepentirse por su propia voluntad, entonces no habría
 
 necesidad de un Salvador, ya que puede ir de igual manera al cielo escalando de
 
-inmediato las empinadas laderas del Sina.
+inmediato las empinadas laderas del Sinaí.
 
 El acto siguiente en la
 
-vida divina es la fe. Talvez ustedes piensen que la fe es algo muy fcil; pero
+vida divina es la fe. Talvez ustedes piensen que la fe es algo muy fácil; pero
 
-si son llevados alguna vez a sentir la carga del pecado, descubriran que no es
+si son llevados alguna vez a sentir la carga del pecado, descubrirían que no es
 
-una labor tan fcil. Si son conducidos alguna vez al cieno profundo donde no
+una labor tan fácil. Si son conducidos alguna vez al cieno profundo donde no
 
-hay ningn apoyadero, no es tan fcil poner sus pies sobre una roca cuando no
+hay ningún apoyadero, no es tan fácil poner sus pies sobre una roca cuando no
 
-se puede ver la roca. Yo encuentro que la fe es la cosa ms fcil del mundo
+se puede ver la roca. Yo encuentro que la fe es la cosa más fácil del mundo
 
 cuando no hay necesidad de creer en nada; pero cuando tengo la oportunidad de
 
 ejercitar mi fe, entonces descubro que no tengo tanta fuerza para aplicarla.
 
-Hablando con un campesino un da, l usaba esta figura: En medio del invierno
+Hablando con un campesino un día, él usaba esta figura: “En medio del invierno
 
-pienso algunas veces que podra desyerbar muy bien el campo; y al inicio de la
+pienso algunas veces que podría desyerbar muy bien el campo; y al inicio de la
 
-primavera pienso: oh!, cmo quisiera cosechar; me siento listo para hacerlo;
+primavera pienso: ˇoh!, cómo quisiera cosechar; me siento listo para hacerlo;
 
 pero cuando llega el tiempo de desyerbar, y cuando llega el tiempo de cosechar,
 
-descubro que me faltan las fuerzas. Entonces, cuando no tienen aflicciones, acaso
+descubro que me faltan las fuerzas”. Entonces, cuando no tienen aflicciones, żacaso
 
-no podran segarlas de inmediato? Cuando no tienen que realizar ninguna tarea,
+no podrían segarlas de inmediato? Cuando no tienen que realizar ninguna tarea,
 
-acaso no podran hacerla fcilmente? Pero cuando el trabajo y los problemas se
+żacaso no podrían hacerla fácilmente? Pero cuando el trabajo y los problemas se
 
-presentan, entonces descubren cun difcil es enfrentarlos. Muchos cristianos
+presentan, entonces descubren cuán difícil es enfrentarlos. Muchos cristianos
 
-son como el ciervo, que hablaba consigo mismo y se deca: Por qu habra yo
+son como el ciervo, que hablaba consigo mismo y se decía: “żPor qué habría yo
 
-de huir de los perros? Poseo un par de notables cuernos y tengo tambin
+de huir de los perros? Poseo un par de notables cuernos y tengo también
 
-excelentes y veloces patas; yo podra causarles algn dao a esos galgos. Por
+excelentes y veloces patas; yo podría causarles algún dańo a esos galgos. żPor
 
-qu mejor no me detengo para mostrarles lo que puedo hacer con mi cornamenta? Puedo
+qué mejor no me detengo para mostrarles lo que puedo hacer con mi cornamenta? Puedo
 
-mantener alejados a los perros que sean. Pero tan pronto ladraron los perros
+mantener alejados a los perros que sean”. Pero tan pronto ladraron los perros
 
-el ciervo sali huyendo. Lo mismo sucede con nosotros. Tan pronto como aceche
+el ciervo salió huyendo. Lo mismo sucede con nosotros. “Tan pronto como aceche
 
-el pecado decimos nosotros- lo vamos a destrozar y lo vamos a destruir; tan
+el pecado” –decimos nosotros- “lo vamos a destrozar y lo vamos a destruir; tan
 
-pronto como sobrevenga alguna afliccin, la superaremos; pero cuando llegan el
+pronto como sobrevenga alguna aflicción, la superaremos”; pero cuando llegan el
 
-pecado y la afliccin, entonces descubrimos nuestra debilidad. Entonces tenemos
+pecado y la aflicción, entonces descubrimos nuestra debilidad. Entonces tenemos
 
-que clamar pidiendo la ayuda del Espritu; y por medio de l podemos hacer
+que clamar pidiendo la ayuda del Espíritu; y por medio de Él podemos hacer
 
-todas las cosas y sin l no podemos hacer absolutamente nada.
+todas las cosas y sin Él no podemos hacer absolutamente nada.
 
 En todos los actos de la
 
 vida cristiana, ya sea el acto de consagrarse a Cristo, o ya sea el acto de la
 
-oracin cotidiana, sea el acto de la sumisin constante, o sea el de predicar
+oración cotidiana, sea el acto de la sumisión constante, o sea el de predicar
 
 el Evangelio, sea el de ministrar para las necesidades de los pobres o el de
 
 consolar a los desconsolados, en todas esas cosas el cristiano descubre su
 
-debilidad y su impotencia, a menos que est revestido con el Espritu de Dios.
+debilidad y su impotencia, a menos que esté revestido con el Espíritu de Dios.
 
-Vamos, yo he ido a veces a visitar a los enfermos pensando cunto me gustara
+Vamos, yo he ido a veces a visitar a los enfermos pensando cuánto me gustaría
 
 consolarlos pero terminaba sin poder decir ni una sola palabra que valiera la
 
-pena de orse o de decirse; y mi alma agonizaba procurando ser un instrumento
+pena de oírse o de decirse; y mi alma agonizaba procurando ser un instrumento
 
-de consuelo para el pobre hermano enfermo y desconsolado, pero yo no poda
+de consuelo para el pobre hermano enfermo y desconsolado, pero yo no podía
 
-hacer nada, y sala del aposento y casi deseaba no haber visitado nunca a una
+hacer nada, y salía del aposento y casi deseaba no haber visitado nunca a una
 
-persona enferma en mi vida; as aprend mi propia locura. Lo mismo sucede con
+persona enferma en mi vida; así aprendí mi propia locura. Lo mismo sucede con
 
-mucha frecuencia con la predicacin. Preparas un sermn, lo estudias, y vienes
+mucha frecuencia con la predicación. Preparas un sermón, lo estudias, y vienes
 
 para predicarlo pero generas el mayor revoltijo que se pudiera generar.
 
-Entonces dices: ojal no hubiera predicado nunca. Pero todo esto es para
+Entonces dices: “ojalá no hubiera predicado nunca”. Pero todo esto es para
 
-mostrarnos que ni consolando ni predicando se podra hacer lo correcto, a menos
+mostrarnos que ni consolando ni predicando se podría hacer lo correcto, a menos
 
-que el Espritu obre en nosotros as el querer como el hacer, por Su buena
+que el Espíritu obre en nosotros así el querer como el hacer, por Su buena
 
-voluntad. Adems, todo lo que hacemos sin el Espritu es inaceptable para Dios;
+voluntad. Además, todo lo que hacemos sin el Espíritu es inaceptable para Dios;
 
 y todo lo que hacemos bajo Su influencia, por mucho que lo despreciemos, no es
 
-despreciable para Dios pues l nunca desprecia Su propia obra, y el Espritu no
+despreciable para Dios pues Él nunca desprecia Su propia obra, y el Espíritu no
 
 puede mirar lo que hace en nosotros de ninguna otra manera que con complacencia
 
-y deleite. Si el Espritu me ayuda a gemir entonces Dios tiene que aceptar al
+y deleite. Si el Espíritu me ayuda a gemir entonces Dios tiene que aceptar al
 
-que gime. Si t pudieras elevar la mejor oracin en el mundo, sin el Espritu,
+que gime. Si tú pudieras elevar la mejor oración en el mundo, sin el Espíritu,
 
-Dios no querra tener que ver nada con ella; pero aunque la oracin sea
+Dios no querría tener que ver nada con ella; pero aunque la oración sea
 
-entrecortada y sea coja y tullida, si el Espritu la elabor, Dios la mirar e
+entrecortada y sea coja y tullida, si el Espíritu la elaboró, Dios la mirará e
 
-igual que lo hizo respecto a las obras de la creacin, dir: Es buena en gran
+igual que lo hizo respecto a las obras de la creación, dirá: “Es buena en gran
 
-manera y la aceptar.
+manera” y la aceptará.
 
-Y ahora permtanme
+Y ahora permítanme
 
-concluir haciendo esta pregunta. Querido oyente, tienes entonces contigo al
+concluir haciendo esta pregunta. Querido oyente, żtienes entonces contigo al
 
-Espritu de Dios? Yo me atrevera a decir que la mayora de ustedes tiene
+Espíritu de Dios? Yo me atrevería a decir que la mayoría de ustedes tiene
 
-alguna religin. Bien, de qu tipo es? Es un artculo casero? Lo que eres te
+alguna religión. Bien, żde qué tipo es? żEs un artículo casero? żLo que eres te
 
-lo debes a ti? Entonces, si es as, eres un hombre perdido hasta este momento.
+lo debes a ti? Entonces, si es así, eres un hombre perdido hasta este momento.
 
-Querido oyente, si no has ido ms lejos de lo que has caminado por ti mismo, todava
+Querido oyente, si no has ido más lejos de lo que has caminado por ti mismo, todavía
 
 no vas en camino al cielo, antes bien te has encaminado en la ruta equivocada;
 
@@ -1172,41 +1176,41 @@ has sido conducido a hacer todo aquello que una vez odiaste y a amar todo
 
 aquello que una vez despreciaste, y a despreciar aquello en lo que una vez se
 
-posaron tu corazn y tu orgullo, entonces, alma, si esa es la obra del
+posaron tu corazón y tu orgullo, entonces, alma, si esa es la obra del
 
-Espritu, regocjate; pues donde l ha comenzado la buena obra, la concluir. Y
+Espíritu, regocíjate; pues donde Él ha comenzado la buena obra, la concluirá. Y
 
-t puedes saber si es la obra del Espritu por sto: has sido conducido a
+tú puedes saber si es la obra del Espíritu por ésto: żhas sido conducido a
 
-Cristo y has sido apartado de tu yo? Has sido apartado de todos los
+Cristo y has sido apartado de tu yo? żHas sido apartado de todos los
 
 sentimientos, de todos los actos, de todas las voluntades, de todas las
 
-oraciones que constituan la base de tu confianza y de tu esperanza, y has sido
+oraciones que constituían la base de tu confianza y de tu esperanza, y has sido
 
-llevado a confiar desnudamente en la obra consumada de Cristo? Si es as, esto
+llevado a confiar desnudamente en la obra consumada de Cristo? Si es así, esto
 
-es algo ms de lo que la naturaleza humana ense jams a alguien; esa es una
+es algo más de lo que la naturaleza humana enseńó jamás a alguien; esa es una
 
-altura a la que nunca ascendi la naturaleza humana. El Espritu de Dios ha
+altura a la que nunca ascendió la naturaleza humana. El Espíritu de Dios ha
 
-hecho eso, y l nunca abandonar lo que comenz una vez. Irs de poder en
+hecho eso, y Él nunca abandonará lo que comenzó una vez. Irás de poder en
 
-poder, y t estars en medio de la multitud lavada con sangre, por fin completo
+poder, y tú estarás en medio de la multitud lavada con sangre, por fin completo
 
-en Cristo y acepto en el Bienamado. Pero si no tienes el Espritu de Cristo, no
+en Cristo y acepto en el Bienamado. Pero si no tienes el Espíritu de Cristo, no
 
-eres para nada Suyo. Que el Espritu te conduzca a tu aposento para llorar
+eres para nada Suyo. Que el Espíritu te conduzca a tu aposento para llorar
 
 ahora, para arrepentirte ahora, para mirar a Cristo ahora, y que tengas una
 
-vida divina implantada ahora que ni el tiempo ni la eternidad sern capaces de
+vida divina implantada ahora que ni el tiempo ni la eternidad serán capaces de
 
-destruir. Que Dios oiga esta oracin y haga que nos retiremos con una
+destruir. Que Dios oiga esta oración y haga que nos retiremos con una
 
-bendicin, por Jess nuestro Seor. Amn.
+bendición, por Jesús nuestro Seńor. Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 30/Abril/2012
 

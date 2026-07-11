@@ -1,12 +1,12 @@
 # Sermón 1076 | Sermón 1076
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 El Juicio Final
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -16,31 +16,31 @@ DEL
 
 DOMINGO 25 DE AGOSTO DE 1872
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Porque es
+“Porque es
 
 necesario que todos nosotros comparezcamos ante el tribunal de Cristo, para que
 
-cada uno reciba segn lo que haya hecho mientras estaba en el cuerpo, sea bueno
+cada uno reciba según lo que haya hecho mientras estaba en el cuerpo, sea bueno
 
-o malo. 2 Corintios 5: 10.
+o malo”. 2 Corintios 5: 10.
 
-Esta maana predicamos
+Esta mańana predicamos
 
-sobre la resurreccin de los muertos, y pareciera ser congruente con el orden
+sobre la resurrección de los muertos, y pareciera ser congruente con el orden
 
 que esta noche enfoquemos nuestros pensamientos a lo que sigue inmediatamente
 
-despus de la resurreccin, es decir, al juicio general, pues los muertos
+después de la resurrección, es decir, al juicio general, pues los muertos
 
-resucitan con el propsito de ser juzgados en sus cuerpos. La resurreccin es
+resucitan con el propósito de ser juzgados en sus cuerpos. La resurrección es
 
 el preludio inmediato del juicio. No hay ninguna necesidad de que intente
 
-demostrarles que habr un juicio general, partiendo de
+demostrarles que habrá un juicio general, partiendo de
 
 la Escritura
 
@@ -56,165 +56,165 @@ Testamento. Descubrimos a David anticipando ese juicio final en los Salmos (espe
 
 en tales Salmos como el cuarenta y nueve y el cincuenta, el Salmo noventa y
 
-seis, y los tres siguientes), pues el Seor viene con suma certeza, viene a
+seis, y los tres siguientes), pues el Seńor viene con suma certeza, viene a
 
-juzgar a la tierra con justicia. Salomn, en Eclesiasts, advierte al joven muy
+juzgar a la tierra con justicia. Salomón, en Eclesiastés, advierte al joven muy
 
-solemne y tiernamente que se alegre como pueda y tome placer en su corazn en
+solemne y tiernamente que se alegre como pueda y tome placer en su corazón en
 
-los das de su adolescencia, pero que ha de saber que Dios traer toda obra a
+los días de su adolescencia, pero que ha de saber que Dios traerá toda obra a
 
 juicio, juntamente con toda cosa encubierta. Daniel, en visiones de noche mira al
 
 Hijo del Hombre venir sobre las nubes del cielo y acercarse delante del Anciano
 
-de das y luego lo mira sentarse sobre el trono del juicio y ve que las
+de días y luego lo mira sentarse sobre el trono del juicio y ve que las
 
-naciones son congregadas delante de l. Esa no era ninguna nueva doctrina para
+naciones son congregadas delante de Él. Esa no era ninguna nueva doctrina para
 
-los judos, pues ellos haban recibido y aceptado como un hecho sumamente
+los judíos, pues ellos habían recibido y aceptado como un hecho sumamente
 
-cierto que habr un da en el que Dios juzgar a la tierra en justicia.
+cierto que habrá un día en el que Dios juzgará a la tierra en justicia.
 
 El Nuevo Testamento es
 
-muy explcito. El captulo veinticinco de Mateo, que acabamos de leer ahora,
+muy explícito. El capítulo veinticinco de Mateo, que acabamos de leer ahora,
 
-contiene un lenguaje expresado por los labios del propio Salvador, que sera
+contiene un lenguaje expresado por los labios del propio Salvador, que sería
 
-imposible que fuera ms claro y definido. l es un Testigo fiel y no puede
+imposible que fuera más claro y definido. Él es un Testigo fiel y no puede
 
-mentir. Se nos informa que delante de l sern reunidas todas las naciones, y
+mentir. Se nos informa que delante de Él serán reunidas todas las naciones, y
 
-que apartar los unos de los otros, como aparta el pastor las ovejas de los
+que apartará los unos de los otros, como aparta el pastor las ovejas de los
 
 cabritos. Hay una abundancia de otros pasajes, como, por ejemplo, el que
 
 estamos considerando, que es lo suficientemente claro. Otro pasaje que
 
-podramos citar se encuentra en la segunda Epstola a los Tesalonicenses, en su
+podríamos citar se encuentra en la segunda Epístola a los Tesalonicenses, en su
 
-primer captulo, del versculo sptimo al dcimo. Lemoslo: Y a vosotros que
+primer capítulo, del versículo séptimo al décimo. Leámoslo: “Y a vosotros que
 
-sois atribulados, daros reposo con nosotros, cuando se manifieste el Seor
+sois atribulados, daros reposo con nosotros, cuando se manifieste el Seńor
 
-Jess desde el cielo con los ngeles de su poder, en llama de fuego, para dar
+Jesús desde el cielo con los ángeles de su poder, en llama de fuego, para dar
 
-retribucin a los que no conocieron a Dios, ni obedecen al evangelio de nuestro
+retribución a los que no conocieron a Dios, ni obedecen al evangelio de nuestro
 
-Seor Jesucristo; los cuales sufrirn pena de eterna perdicin, excluidos de la
+Seńor Jesucristo; los cuales sufrirán pena de eterna perdición, excluidos de la
 
-presencia del Seor y de la gloria de su poder, cuando venga en aquel da para
+presencia del Seńor y de la gloria de su poder, cuando venga en aquel día para
 
 ser glorificado en sus santos y ser admirado en todos los que creyeron (por
 
-cuanto nuestro testimonio ha sido credo entre vosotros). El libro de
+cuanto nuestro testimonio ha sido creído entre vosotros).” El libro de
 
-Apocalipsis es muy grfico en su descripcin de ese ltimo juicio general.
+Apocalipsis es muy gráfico en su descripción de ese último juicio general.
 
-Vayamos al captulo veinte, y a los versculos once y doce. El vidente de
+Vayamos al capítulo veinte, y a los versículos once y doce. El vidente de
 
-Patmos dice: Y vi un gran trono blanco y al que estaba sentado en l, de
+Patmos dice: “Y vi un gran trono blanco y al que estaba sentado en él, de
 
-delante del cual huyeron la tierra y el cielo, y ningn lugar se encontr para
+delante del cual huyeron la tierra y el cielo, y ningún lugar se encontró para
 
-ellos. Y vi a los muertos, grandes y pequeos, de pie ante Dios; y los libros
+ellos. Y vi a los muertos, grandes y pequeńos, de pie ante Dios; y los libros
 
 fueron abiertos, y otro libro fue abierto, el cual es el libro de la vida; y
 
-fueron juzgados los muertos por las cosas que estaban escritas en los libros, segn
+fueron juzgados los muertos por las cosas que estaban escritas en los libros, según
 
-sus obras. No tendra el tiempo suficiente para citarles todas las Escrituras.
+sus obras”. No tendría el tiempo suficiente para citarles todas las Escrituras.
 
-El Espritu Santo asevera una y otra vez, y Su palabra es verdad, que habr un
+El Espíritu Santo asevera una y otra vez, y Su palabra es verdad, que habrá un
 
 juicio de los vivos y de los muertos.
 
 Junto a ese testimonio
 
-directo, debe recordarse que hay un argumento poderoso de que as tiene que ser
+directo, debe recordarse que hay un argumento poderoso de que así tiene que ser
 
 necesariamente, que parte del hecho de que Dios, como Gobernante de todos los
 
 hombres, es justo. Todos los gobiernos humanos practican sesiones en sus tribunales.
 
-El gobierno no podra ser ejercido sin sus das de sesin y de juicio, y, en la
+El gobierno no podría ser ejercido sin sus días de sesión y de juicio, y, en la
 
 medida en que hay evidentemente pecado e iniquidad en este mundo, puede anticiparse
 
-razonablemente que habr un momento en el que Dios recorra Su circuito y cite a
+razonablemente que habrá un momento en el que Dios recorra Su circuito y cite a
 
-los prisioneros delante de l, cuando los culpables recibirn su condenacin.
+los prisioneros delante de Él, cuando los culpables recibirán su condenación.
 
 Juzguen por ustedes
 
-mismos: es este estado presente la conclusin de todas las cosas? Si as fuera,
+mismos: żes este estado presente la conclusión de todas las cosas? Si así fuera,
 
-qu evidencia aduciran acerca de la justicia divina, a la luz del hecho de que
+żqué evidencia aducirían acerca de la justicia divina, a la luz del hecho de que
 
-las mejores personas son a menudo las ms pobres y las ms afligidas de este
+las mejores personas son a menudo las más pobres y las más afligidas de este
 
-mundo, mientras que los peores seres adquieren riquezas, practican la opresin
+mundo, mientras que los peores seres adquieren riquezas, practican la opresión
 
-y reciben el homenaje de la multitud? Quines son aqullos que estn subidos
+y reciben el homenaje de la multitud? żQuiénes son aquéllos que están subidos
 
-sobre las alturas de la tierra? No son los grandes transgresores que por
+sobre las alturas de la tierra? żNo son los grandes transgresores que “por
 
-sendas de vctimas cubiertas, subieron a la cumbre soberana, y de la tierna
+sendas de víctimas cubiertas, subieron a la cumbre soberana, y de la tierna
 
-compasin las puertas cerraron a la miseria humana? Dnde estn los siervos
+compasión las puertas cerraron a la miseria humana”? żDónde están los siervos
 
-de Dios? Con suma frecuencia estn hundidos en el sufrimiento y en la
+de Dios? Con suma frecuencia están hundidos en el sufrimiento y en la
 
-oscuridad. No se sientan como Job en medio de ceniza, sin que nadie se apiade
+oscuridad. żNo se sientan como Job en medio de ceniza, sin que nadie se apiade
 
-de ellos, y son ms bien objeto de muchos reproches? Y dnde estn los
+de ellos, y son más bien objeto de muchos reproches? żY dónde están los
 
-enemigos de Dios? No visten muchos de ellos de prpura y de lino fino, y hacen
+enemigos de Dios? żNo visten muchos de ellos de púrpura y de lino fino, y hacen
 
-cada da banquete con esplendidez? Si no hubiese un ms all, entonces Epuln
+cada día banquete con esplendidez? Si no hubiese un más allá, entonces Epulón
 
-se lleva la mejor parte, y el hombre egosta que no le teme a Dios es, despus
+se lleva la mejor parte, y el hombre egoísta que no le teme a Dios es, después
 
-de todo, el ms sabio de los hombres y ha de ser encomiado ms que sus
+de todo, el más sabio de los hombres y ha de ser encomiado más que sus
 
-semejantes. Pero no puede ser as. Nuestro sentido comn se rebela ante ese
+semejantes. Pero no puede ser así. Nuestro sentido común se rebela ante ese
 
 pensamiento. Tiene que haber otro estado en el que sean rectificadas todas esas
 
-anomalas. Si en esta vida solamente esperamos en Cristo, somos los ms dignos
+anomalías. “Si en esta vida solamente esperamos en Cristo, somos los más dignos
 
-de conmiseracin de todos los hombres, dice el apstol. Los mejores hombres
+de conmiseración de todos los hombres”, dice el apóstol. Los mejores hombres
 
-fueron conducidos a los peores infortunios en los tiempos de persecucin, por
+fueron conducidos a los peores infortunios en los tiempos de persecución, por
 
-ser siervos de Dios. Cmo afirmas entonces:
+ser siervos de Dios. żCómo afirmas entonces:
 
 Finis coronat opus,
 
-el fin corona la obra? Ese no podra ser el
+el fin corona la obra? Ese no podría ser el
 
-desenlace final de la vida, o, de lo contrario, la justicia misma se vera
+desenlace final de la vida, o, de lo contrario, la justicia misma se vería
 
-frustrada. Tiene que haber una restitucin para aqullos que sufren
+frustrada. Tiene que haber una restitución para aquéllos que sufren
 
 injustamente y tiene que haber un castigo para el inicuo y el opresor.
 
-No slo puede afirmarse
+No sólo puede afirmarse
 
-sto a partir de un sentido general de justicia, sino que en la conciencia de
+ésto a partir de un sentido general de justicia, sino que en la conciencia de
 
-la mayora de los hombres, si no es que en todos, hay un asentimiento para ese
+la mayoría de los hombres, si no es que en todos, hay un asentimiento para ese
 
-hecho. Como dice un viejo puritano: Dios sostiene una audiencia en un tribunal
+hecho. Como dice un viejo puritano: “Dios sostiene una audiencia en un tribunal
 
-de jurisdiccin limitada, es decir, en la conciencia de todo hombre, que es el
+de jurisdicción limitada, es decir, en la conciencia de todo hombre, que es el
 
-anticipo del juicio que sostendr tarde o temprano, pues casi todos los hombres
+anticipo del juicio que sostendrá tarde o temprano, pues casi todos los hombres
 
-se juzgan a s mismos, y su conciencia les indica qu cosa est mal y qu cosa
+se juzgan a sí mismos, y su conciencia les indica qué cosa está mal y qué cosa
 
-est bien. Digo: casi todos porque pareciera que hay en esta generacin una
+está bien. Digo: ‘casi todos’ porque pareciera que hay en esta generación una
 
 raza de hombres que han atrofiado de tal manera a su conciencia, que la chispa
 
@@ -222,19 +222,19 @@ pareciera haberse apagado y entonces toman lo amargo por dulce y lo dulce por
 
 amargo. Parecieran aprobar la mentira pero no reconocen a la verdad. Pero si
 
-dejan en paz a la conciencia y no la atrofian, vern que da testimonio de que
+dejan en paz a la conciencia y no la atrofian, verán que da testimonio de que
 
-hay un Juez de toda la tierra que ha de hacer lo que es justo.
+hay un Juez de toda la tierra que ha de hacer lo que es justo”.
 
 Ahora, ese es peculiarmente
 
-el caso cuando se le da rienda suelta a la conciencia. Los hombres que estn
+el caso cuando se le da rienda suelta a la conciencia. Los hombres que están
 
-ocupados con su trabajo o que estn entretenidos con sus placeres, mantienen a
+ocupados con su trabajo o que están entretenidos con sus placeres, mantienen a
 
-menudo tranquilas a sus conciencias. Tal como lo expresa John Bunyan: encierran
+menudo tranquilas a sus conciencias. Tal como lo expresa John Bunyan: ‘encierran
 
-a la seora Conciencia; ciegan sus ventanas; ponen barricadas contra sus
+a la seńora Conciencia; ciegan sus ventanas; ponen barricadas contra sus
 
 puertas; y en cuanto a la gran campana ubicada sobre el techo de la casa que la
 
@@ -242,15 +242,15 @@ vieja dama estaba habituada a repicar, le cortan la cuerda al badajo para que
 
 ella ya no pueda alcanzarlo, pues no desean que perturbe a la ciudad de
 
-Almahumana. Pero cuando llega la muerte, sucede con frecuencia que la seora
+‘Almahumana’’. Pero cuando llega la muerte, sucede con frecuencia que la seńora
 
-Conciencia escapa de su prisin y, entonces les garantizo que har un barullo
+Conciencia escapa de su prisión y, entonces les garantizo que hará un barullo
 
-tal que no habr ni una sola cabeza que duerma en toda Almahumana. Conciencia
+tal que no habrá ni una sola cabeza que duerma en toda ‘Almahumana’. Conciencia
 
-dar voces y se vengar por su obligado silencio, y har saber al hombre que
+dará voces y se vengará por su obligado silencio, y hará saber al hombre que
 
-hay algo en su interior que no est muerto, que grita todava pidiendo
+hay algo en su interior que no está muerto, que grita todavía pidiendo
 
 justicia, y que el pecado no puede quedar sin castigo. Entonces, tiene que
 
@@ -260,9 +260,9 @@ La
 
 Escritura
 
-lo asevera, y eso nos basta; pero por va de
+lo asevera, y eso nos basta; pero por vía de
 
-evidencia colateral, el orden natural de las cosas as lo requiere y la conciencia
+evidencia colateral, el orden natural de las cosas así lo requiere y la conciencia
 
 lo atestigua.
 
@@ -270,35 +270,35 @@ Ahora vamos a considerar
 
 lo que dice nuestro texto acerca del Juicio. Les ruego, hermanos, que me
 
-perdonen si hablara framente esta noche sobre esta verdad tan trascendental, o
+perdonen si hablara fríamente esta noche sobre esta verdad tan trascendental, o
 
-si dejara de captar su atencin y de agitar sus ms profundas emociones, y que
+si dejara de captar su atención y de agitar sus más profundas emociones, y que
 
-Dios me perdone pues tendr una buena razn para pedir Su perdn, viendo que si
+Dios me perdone pues tendré una buena razón para pedir Su perdón, viendo que si
 
-hay un tpico que debera despertar a celo al predicador por el honor de su
+hay un tópico que debería despertar a celo al predicador por el honor de su
 
-Seor y por el bienestar de sus semejantes, y conducirlo a ser doblemente
+Seńor y por el bienestar de sus semejantes, y conducirlo a ser doblemente
 
-denodado, es ste precisamente.
+denodado, es éste precisamente.
 
-Pero permtanme decirles
+Pero permítanme decirles
 
-tambin que si hubo alguna vez un tema muy independiente del predicador, que
+también que si hubo alguna vez un tema muy independiente del predicador, que
 
-por sus propios mritos debera invitar a la reflexin de ustedes, es el que
+por sus propios méritos debería invitar a la reflexión de ustedes, es el que
 
 ahora les presento. No siento ninguna necesidad de recurrir a la oratoria o a
 
-un lenguaje rebuscado; la simple mencin del hecho de que ese juicio es
+un lenguaje rebuscado; la simple mención del hecho de que ese juicio es
 
-inminente y que tendr lugar antes de que pase mucho tiempo, debera dejarlos
+inminente y que tendrá lugar antes de que pase mucho tiempo, debería dejarlos
 
-en silencio y sin aliento, debera paralizar los latidos de su pulso, y debera
+en silencio y sin aliento, debería paralizar los latidos de su pulso, y debería
 
-ahogar la expresin de mis labios. Su certeza, su realidad, sus concomitantes
+ahogar la expresión de mis labios. Su certeza, su realidad, sus concomitantes
 
-terrores y la imposibilidad de escapar de l, todo eso apela a nosotros ahora y
+terrores y la imposibilidad de escapar de él, todo eso apela a nosotros ahora y
 
 exige nuestra vigilancia.
 
@@ -306,15 +306,15 @@ I.
 
 Ahora
 
-les pregunto: QUIN, O QUINES, TENDRN QUE COMPARECER DELANTE DEL TRONO DEL
+les pregunto: żQUIÉN, O QUIÉNES, TENDRÁN QUE COMPARECER DELANTE DEL TRONO DEL
 
-JUICIO? La respuesta es clara y no admite ninguna exencin: Es necesario que
+JUICIO? La respuesta es clara y no admite ninguna exención: “Es necesario que
 
 todos nosotros
 
 comparezcamos ante el
 
-tribunal de Cristo. Esto es muy decisivo incluso si no existiera ningn otro
+tribunal de Cristo”. Esto es muy decisivo incluso si no existiera ningún otro
 
 texto. Todos nosotros debemos comparecer, es decir, cada uno de los miembros de
 
@@ -324,11 +324,11 @@ Todos nosotros
 
 debemos
 
-comparecer. Y es muy claro que los piadosos no estarn exentos de esta
+comparecer. Y es muy claro que los piadosos no estarán exentos de esta
 
-comparecencia, pues el apstol les est hablando aqu a los cristianos. Pablo
+comparecencia, pues el apóstol les está hablando aquí a los cristianos. Pablo
 
-dice: Por la fe anda
+dice: “Por la fe anda
 
 mos,
 
@@ -336,163 +336,163 @@ no por
 
 vista.
 
-Nosotros
+“Nosotros
 
-confiamos. Procura
+confiamos. “Procura
 
-mos,
+mos”,
 
-y as sucesivamente; y luego se
+y así sucesivamente; y luego se
 
-expresa as: Es necesario que
+expresa así: “Es necesario que
 
 todos
 
 nosotros
 
-comparezcamos. De tal manera que, adems de todos los dems, es
+comparezcamos”. De tal manera que, además de todos los demás, es
 
-un hecho que todos los cristianos deben comparecer all. El texto es sumamente
+un hecho que todos los cristianos deben comparecer allí. El texto es sumamente
 
-concluyente sobre ese punto. Y si no tuviramos este texto, contamos con el
+concluyente sobre ese punto. Y si no tuviéramos este texto, contamos con el
 
-pasaje de Mateo que acabamos de leer, en el que las ovejas son convocadas all
+pasaje de Mateo que acabamos de leer, en el que las ovejas son convocadas allí
 
-tan verdaderamente como lo son los cabritos, y tambin con el pasaje de
+tan verdaderamente como lo son los cabritos, y también con el pasaje de
 
-Apocalipsis, donde todos los muertos son juzgados de acuerdo a las cosas que estn
+Apocalipsis, donde todos los muertos son juzgados de acuerdo a las cosas que están
 
-escritas en los libros. Todos ellos estn all. Y si alguien presentase esta
+escritas en los libros. Todos ellos están allí. Y si alguien presentase esta
 
-objecin: Nosotros creamos que debido a que los pecados de los justos fueron
+objeción: “Nosotros creíamos que debido a que los pecados de los justos fueron
 
-perdonados, y fueron borrados para siempre, no tendran que presentarse a
+perdonados, y fueron borrados para siempre, no tendrían que presentarse a
 
-juicio nunca, slo tenemos que recordarles, amados, que si son perdonados y
+juicio nunca”, sólo tenemos que recordarles, amados, que si son perdonados y
 
-borrados, como indudablemente lo son, los justos no tienen ningn motivo para
+borrados, como indudablemente lo son, los justos no tienen ningún motivo para
 
-temerle al juicio. Son las personas que ansan el juicio y que podrn
+temerle al juicio. Son las personas que ansían el juicio y que podrán
 
-comparecer para recibir una pblica absolucin de boca del grandioso Juez. Quin
+comparecer para recibir una pública absolución de boca del grandioso Juez. żQuién
 
-deseara entre nosotros, por decirlo as, ser introducido ilegalmente al cielo?
+desearía entre nosotros, por decirlo así, ser introducido ilegalmente al cielo?
 
-Quin deseara que los condenados del infierno le dijeran: T no fuiste
+żQuién desearía que los condenados del infierno le dijeran: “Tú no fuiste
 
-juzgado nunca, pues de lo contrario habras sido condenado igual que lo fuimos
+juzgado nunca, pues de lo contrario habrías sido condenado igual que lo fuimos
 
-nosotros? No, hermanos, nosotros tenemos la esperanza de que podemos enfrentar
+nosotros”? No, hermanos, nosotros tenemos la esperanza de que podemos enfrentar
 
-el juicio. El camino de la justicia por medio de Cristo Jess nos permite
+el juicio. El camino de la justicia por medio de Cristo Jesús nos permite
 
-someternos a las ms tremendas pruebas que traiga incluso aquel ardiente da.
+someternos a las más tremendas pruebas que traiga incluso aquel ardiente día.
 
-No tenemos miedo de ser colocados en la balanza. Incluso deseamos aquel da cuando
+No tenemos miedo de ser colocados en la balanza. Incluso deseamos aquel día cuando
 
-nuestra fe en Jesucristo ser fuerte y firme, pues decimos: Quin es el que
+nuestra fe en Jesucristo será fuerte y firme, pues decimos: “żQuién es el que
 
-condenar? Podemos desafiar al da del juicio. Quin es el que nos acusar de
+condenará?” Podemos desafiar al día del juicio. żQuién es el que nos acusará de
 
-algo en aquel da, o en cualquier otro da, puesto que Cristo muri y ha
+algo en aquel día, o en cualquier otro día, puesto que Cristo murió y ha
 
-resucitado? Es necesario que los justos estn all para que no haya ninguna
+resucitado? Es necesario que los justos estén allí para que no haya ninguna
 
-parcialidad de ningn tipo en esa materia, para que todo sea claro y recto, y
+parcialidad de ningún tipo en esa materia, para que todo sea claro y recto, y
 
 para que se vea que las recompensas de los justos, aunque son por gracia, se
 
-otorgan sin ninguna violacin de la ms rigurosa justicia.
+otorgan sin ninguna violación de la más rigurosa justicia.
 
-Amados hermanos, qu
+Amados hermanos, ˇqué
 
-gran da ser para los justos! Pues algunos de ellos fueron objeto tal vez
+gran día será para los justos! Pues algunos de ellos fueron objeto –tal vez
 
-algunos de los presentes lo sean- de alguna muy terrible acusacin de la cual
+algunos de los presentes lo sean- de alguna muy terrible acusación de la cual
 
-son perfectamente inocentes. Todo ser aclarado entonces, y esa ser una gran
+son perfectamente inocentes. Todo será aclarado entonces, y esa será una gran
 
-bendicin de aquel da. Habr una resurreccin de reputaciones as como de
+bendición de aquel día. Habrá una resurrección de reputaciones así como de
 
-cuerpos. Los hombres llaman necios a los justos; entonces resplandecern como
+cuerpos. Los hombres llaman necios a los justos; entonces resplandecerán como
 
 el sol en el reino de su Padre. Les dieron caza hasta matarlos, como si no
 
 fueran aptos para vivir. En los primeros tiempos arrojaban contra los
 
-cristianos acusaciones de un carcter tan terrible que yo considerara una
+cristianos acusaciones de un carácter tan terrible que yo consideraría una
 
-vergenza mencionar. Pero entonces todos ellos sern exonerados; y aqullos de
+vergüenza mencionar. Pero entonces todos ellos serán exonerados; y aquéllos de
 
 quienes el mundo no era digno, que fueron acorralados y perseguidos por todas
 
-partes y obligados a morar en las cavernas de la tierra, saldrn como seres
+partes y obligados a morar en las cavernas de la tierra, saldrán como seres
 
-dignos y el mundo reconocer a su verdadera aristocracia y la tierra reconocer
+dignos y el mundo reconocerá a su verdadera aristocracia y la tierra reconocerá
 
-a su verdadera nobleza. Los hombres cuyos nombres el mundo desech como
+a su verdadera nobleza. Los hombres cuyos nombres el mundo desechó como
 
-inicuos, sern tenidos entonces en gran estima, pues quedarn limpios y
+inicuos, serán tenidos entonces en gran estima, pues quedarán limpios y
 
 transparentes, sin mancha ni arruga. Es bueno que haya un juicio para los
 
-justos, para su exoneracin, para su vindicacin, y que sea pblico, desafiando
+justos, para su exoneración, para su vindicación, y que sea público, desafiando
 
-las hostilidades y las crticas de toda la humanidad.
+las hostilidades y las críticas de toda la humanidad.
 
-Es necesario que
+“Es necesario que
 
 todos nosotros
 
-comparezcamos. Cun
+comparezcamos”. ˇCuán
 
-vasta asamblea ser, cun prodigiosa reunin de la raza humana entera! Cuando
+vasta asamblea será, cuán prodigiosa reunión de la raza humana entera! Cuando
 
-meditaba sobre este tema se me ocurri preguntarme: cules habrn de ser los
+meditaba sobre este tema se me ocurrió preguntarme: żcuáles habrán de ser los
 
-pensamientos de nuestro padre Adn, al comparecer all con nuestra madre Eva y
+pensamientos de nuestro padre Adán, al comparecer allí con nuestra madre Eva y
 
-mirar a su progenie? Ser la primera vez que tenga la oportunidad de ver
+mirar a su progenie? Será la primera vez que tenga la oportunidad de ver
 
-reunidos a todos sus hijos. Qu espectculo contemplar entonces, el cual
+reunidos a todos sus hijos. ˇQué espectáculo contemplará entonces, el cual
 
-cubrir vastas extensiones, todo el globo que habitan, suficiente no slo para
+cubrirá vastas extensiones, todo el globo que habitan, suficiente no sólo para
 
 poblar las llanuras de toda la tierra, sino para coronar las cimas de sus
 
-montes y cubrir incluso las olas del mar; tan incontable habr de ser la raza
+montes y cubrir incluso las olas del mar; tan incontable habrá de ser la raza
 
-humana, cuando todas las generaciones que han vivido jams, o que vivirn
+humana, cuando todas las generaciones que han vivido jamás, o que vivirán
 
-jams, resuciten a la vez! Oh, qu espectculo ser! No es demasiado
+jamás, resuciten a la vez! ˇOh, qué espectáculo será! żNo es demasiado
 
-maravilloso para que lo esboce nuestra imaginacin? Sin embargo, es muy cierto
+maravilloso para que lo esboce nuestra imaginación? Sin embargo, es muy cierto
 
-que la asamblea ser convocada y que el espectculo ser contemplado. Cada uno de
+que la asamblea será convocada y que el espectáculo será contemplado. Cada uno de
 
-los seres antediluvianos, cada uno de los seres de los das de los patriarcas, de
+los seres antediluvianos, cada uno de los seres de los días de los patriarcas, de
 
 los tiempos de David, del reino de Babilonia, todas las legiones de Asiria,
 
 todas las huestes de Persia, todas las falanges de Grecia, todos los vastos
 
-ejrcitos y las legiones de Roma, los brbaros, los escitas, los esclavos, los
+ejércitos y las legiones de Roma, los bárbaros, los escitas, los esclavos, los
 
-libres, hombres de todo color y de toda lengua, estarn presentes en aquel gran
+libres, hombres de todo color y de toda lengua, estarán presentes en aquel gran
 
-da delante del Tribunal de Cristo. All vienen los reyes que no son ms
+día delante del Tribunal de Cristo. Allá vienen los reyes que no son más
 
-grandes que los hombres a quienes llaman sus vasallos. All vienen los
+grandes que los hombres a quienes llaman sus vasallos. Allá vienen los
 
-prncipes, que se han quitado sus diademas, pues deben comparecer como seres
+príncipes, que se han quitado sus diademas, pues deben comparecer como seres
 
-humanos comunes. Ac vienen los jueces para ser ellos mismos juzgados, y
+humanos comunes. Acá vienen los jueces para ser ellos mismos juzgados, y
 
-tambin los abogados y los legistas, que ahora necesitan un defensor para su
+también los abogados y los legistas, que ahora necesitan un defensor para su
 
-propio caso. Aqu vienen aqullos que se consideraban demasiado buenos y que
+propio caso. Aquí vienen aquéllos que se consideraban demasiado buenos y que
 
-acaparaban toda la calle para s. All estn los fariseos, recibiendo los
+acaparaban toda la calle para sí. Allí están los fariseos, recibiendo los
 
 empellones de los publicanos
 
@@ -500,69 +500,69 @@ a sus
 
 costados y reducidos al mismo nivel natural que ellos. Observen a los
 
-campesinos que se levantan del suelo; vean a las pululantes miradas que vienen
+campesinos que se levantan del suelo; ˇvean a las pululantes miríadas que vienen
 
 para comparecer desde las afueras de las grandes ciudades, incontables huestes
 
-que ni Alejandro ni Napolen contemplaron jams! Vean cmo el siervo es tan
+que ni Alejandro ni Napoleón contemplaron jamás! ˇVean cómo el siervo es tan
 
-grande como su seor! Ahora se proclama: Libertad, Igualdad, Fraternidad. Ni
+grande como su seńor! Ahora se proclama: “Libertad, Igualdad, Fraternidad”. Ni
 
-los reyes, ni los prncipes ni los nobles pueden refugiarse detrs de su orden,
+los reyes, ni los príncipes ni los nobles pueden refugiarse detrás de su orden,
 
-ni afirmar algn privilegio o reclamar alguna inmunidad. Iguales sobre un nivel
+ni afirmar algún privilegio o reclamar alguna inmunidad. Iguales sobre un nivel
 
-comn, comparecen todos juntos para ser juzgados por el ltimo y terrible
+común, comparecen todos juntos para ser juzgados por el último y terrible
 
-tribunal. Vendrn los malvados de todo tipo. El altivo Faran estar all;
+tribunal. Vendrán los malvados de todo tipo. El altivo Faraón estará allí;
 
 Senaquerib, el arrogante; Herodes, que hubiera querido aniquilar a los
 
-infantes; Judas, que traicion a su Maestro; Demas, que le vendi por oro, y
+infantes; Judas, que traicionó a su Maestro; Demas, que le vendió por oro, y
 
-Pilato, que gustosamente se habra querido lavar las manos en inocencia. La
+Pilato, que gustosamente se habría querido lavar las manos en inocencia. La
 
-larga lista de los infalibles, la sucesin completa de los papas, vendr para
+larga lista de los infalibles, la sucesión completa de los papas, vendrá para
 
-recibir su condenacin de manos del Todopoderoso, y tambin los sacerdotes que
+recibir su condenación de manos del Todopoderoso, y también los sacerdotes que
 
 pisotearon los cuellos de las naciones y los tiranos que usaron a los sacerdotes
 
-como sus instrumentos. Todos ellos vendrn para recibir las descargas de los
+como sus instrumentos. Todos ellos vendrán para recibir las descargas de los
 
-rayos de Dios que tan ricamente merecen. Oh, qu escena ser sa! Estos
+rayos de Dios que tan ricamente merecen. ˇOh, qué escena será ésa! Estos
 
 grupitos, que nos parecen muy imponentes cuando se congregan bajo este techo, se
 
 encogen y se vuelven como una gota dentro de una cubeta, comparados con el
 
-ocano de vida que se henchir en torno al trono en el da del ltimo gran
+océano de vida que se henchirá en torno al trono en el día del último gran
 
-Juicio. Todos ellos estarn all.
+Juicio. Todos ellos estarán allí.
 
 Ahora, el pensamiento
 
-ms importante para
+más importante para
 
-m
+mí
 
-vinculado con sto,
+vinculado con ésto,
 
 es que
 
 yo
 
-estar all; para
+estaré allí; para
 
 ustedes,
 
-jvenes, es que
+jóvenes, es que
 
 ustedes
 
-estarn
+estarán
 
-all; para
+allí; para
 
 ustedes,
 
@@ -572,33 +572,33 @@ avanzada edad de todo tipo, es que cada uno de
 
 ustedes, en propia persona,
 
-estar all. Eres rico? Tendrs que
+estará allí. żEres rico? Tendrás que
 
-despojarte de tu hermoso vestido. Eres pobre? Tus harapos no te eximirn de
+despojarte de tu hermoso vestido. żEres pobre? Tus harapos no te eximirán de
 
-asistir a esa corte. Nadie dir: Yo soy demasiado oscuro, pues debers salir
+asistir a esa corte. Nadie dirá: “Yo soy demasiado oscuro”, pues deberás salir
 
-de tu escondite. Nadie dir: Yo soy demasiado pblico, pues tendrs que bajar
+de tu escondite. Nadie dirá: “Yo soy demasiado público”, pues tendrás que bajar
 
-de ese pedestal. Todo el mundo debe estar all. Noten la palabra:
+de ese pedestal. Todo el mundo debe estar allí. Noten la palabra:
 
-Nosotros.
+“Nosotros”.
 
-Es necesario que
+“Es necesario que
 
 todos nosotros
 
-comparezcamos.
+comparezcamos”.
 
 Noten adicionalmente la
 
-palabra: Comparezcamos. Es necesario que todos nosotros
+palabra: “Comparezcamos”. “Es necesario que todos nosotros
 
-comparezcamos.
+comparezcamos”.
 
-No ser posible ningn disfraz. No pueden
+No será posible ningún disfraz. No pueden
 
-presentarse all con el disfraz de una profesin o con el atuendo de las ropas
+presentarse allí con el disfraz de una profesión o con el atuendo de las ropas
 
 de estado, sino que deben
 
@@ -606,19 +606,19 @@ comparecer;
 
 debemos
 
-ser vistos claramente, debemos ser exhibidos, debemos ser revelados; todos sern
+ser vistos claramente, debemos ser exhibidos, debemos ser revelados; todos serán
 
-despojados de sus vestidos, y su espritu ser juzgado por Dios, no segn las
+despojados de sus vestidos, y su espíritu será juzgado por Dios, no según las
 
-apariencias, sino de acuerdo a lo ntimo del corazn. Oh, qu da ser aqul,
+apariencias, sino de acuerdo a lo íntimo del corazón. ˇOh, qué día será aquél,
 
-cuando todo hombre se vea a s mismo, y todo hombre vea a su semejante, y los
+cuando todo hombre se vea a sí mismo, y todo hombre vea a su semejante, y los
 
-ojos de los ngeles y los ojos de los demonios, y los ojos del Dios sentado en
+ojos de los ángeles y los ojos de los demonios, y los ojos del Dios sentado en
 
-el trono nos miren hasta lo ms ntimo! Guarden en sus mentes estos pensamientos
+el trono nos miren hasta lo más íntimo! Guarden en sus mentes estos pensamientos
 
-que son dados como respuesta a nuestra primera pregunta: quin habr de ser
+que son dados como respuesta a nuestra primera pregunta: żquién habrá de ser
 
 juzgado?
 
@@ -626,285 +626,285 @@ II.
 
 Nuestra
 
-segunda pregunta es: QUIN SER EL JUEZ? Es necesario que todos nosotros
+segunda pregunta es: żQUIÉN SERÁ EL JUEZ? “Es necesario que todos nosotros
 
-comparezcamos ante el tribunal de Cristo. Es sumamente apropiado y conveniente
+comparezcamos ante el tribunal de Cristo”. Es sumamente apropiado y conveniente
 
-que Cristo sea nombrado el juez de toda la humanidad. Nuestra ley britnica
+que Cristo sea nombrado el juez de toda la humanidad. Nuestra ley británica
 
 establece que un hombre sea juzgado por sus pares, y hay justicia en ese
 
-estatuto. Ahora, el Seor Dios juzgar a los hombres, pero al mismo tiempo ser
+estatuto. Ahora, el Seńor Dios juzgará a los hombres, pero al mismo tiempo será
 
-en la persona de Jesucristo hombre. Los hombres sern juzgados por un hombre.
+en la persona de Jesucristo hombre. Los hombres serán juzgados por un hombre.
 
-Aqul que una vez fue juzgado por los hombres, juzgar a los hombres. Jess
+Aquél que una vez fue juzgado por los hombres, juzgará a los hombres. Jesús
 
-conoce lo que es el hombre; l mismo ha estado en profunda humildad bajo la ley,
+conoce lo que es el hombre; Él mismo ha estado en profunda humildad bajo la ley,
 
-y es ordenado para administrar la ley con excelsa autoridad. l puede sostener
+y es ordenado para administrar la ley con excelsa autoridad. Él puede sostener
 
 equilibradamente los platillos de la balanza de la justicia, pues ha ocupado el
 
 lugar del hombre y ha soportado y arrostrado las tentaciones del hombre; por
 
-tanto, es el juez ms idneo que pudiese ser seleccionado.
+tanto, es el juez más idóneo que pudiese ser seleccionado.
 
-Algunas veces he odo y
+Algunas veces he oído y
 
-he ledo sermones en los que el predicador mencionaba que un cristiano debera
+he leído sermones en los que el predicador mencionaba que un cristiano debería
 
-alegrarse de que su juez sea su amigo. Tal vez no haya ninguna intencin
+alegrarse de que su juez sea su amigo. Tal vez no haya ninguna intención
 
-indebida, pero aun as me parece que es una sugerencia ms bien cuestionable. A
+indebida, pero aun así me parece que es una sugerencia más bien cuestionable. A
 
-m no me gustara explicrmelo de esa manera, porque cualquier juez que fuera
+mí no me gustaría explicármelo de esa manera, porque cualquier juez que fuera
 
-parcial para con sus amigos cuando preside en el tribunal, merecera abandonar
+parcial para con sus amigos cuando preside en el tribunal, merecería abandonar
 
-ese tribunal de inmediato. Yo no espero ningn favoritismo de Cristo como juez.
+ese tribunal de inmediato. Yo no espero ningún favoritismo de Cristo como juez.
 
 Espero que, cuando presida en el tribunal, imparta una justicia imparcial para
 
-todos. No puedo ver cmo pudiera ser correcto que algn ministro sostenga que
+todos. No puedo ver cómo pudiera ser correcto que algún ministro sostenga que
 
-deberamos encontrar aliento en el hecho de que el juez sea nuestro amigo. Amigo
+deberíamos encontrar aliento en el hecho de que el juez sea nuestro amigo. Amigo
 
-o no amigo, cada uno de nosotros comparecer para recibir un juicio justo, y
+o no amigo, cada uno de nosotros comparecerá para recibir un juicio justo, y
 
-Cristo no har acepcin de personas. No se dir de Aquel a quien Dios ha
+Cristo no hará acepción de personas. No se dirá de Aquel a quien Dios ha
 
-designado para juzgar al mundo, cuando la sesin del juicio concluya, que hizo
+designado para juzgar al mundo, cuando la sesión del juicio concluya, que hizo
 
-caso omiso de los crmenes de algunos o que los atenu, mientras que investig
+caso omiso de los crímenes de algunos o que los atenuó, mientras que investigó
 
-a fondo las fallas de otros y las conden. Ser justo y recto en todo momento. l
+a fondo las fallas de otros y las condenó. Será justo y recto en todo momento. Él
 
-es nuestro amigo, les concedo eso, y ser nuestro amigo y Salvador eternamente;
+es nuestro amigo, les concedo eso, y será nuestro amigo y Salvador eternamente;
 
 pero debemos asirnos al pensamiento -y debemos creerlo y sostenerlo- que como
 
-juez ser imparcial para con todos los hijos de los hombres.
+juez será imparcial para con todos los hijos de los hombres.
 
-Amigo, t tendrs un
+Amigo, tú tendrás un
 
-juicio justo. Aquel que te ha de juzgar no tomar partido contra ti. Algunas
+juicio justo. Aquel que te ha de juzgar no tomará partido contra ti. Algunas
 
 veces hemos pensado que los hombres han sido protegidos del castigo que
 
-merecan, porque pertenecan a alguna cierta profesin clerical, o porque
+merecían, porque pertenecían a alguna cierta profesión clerical, o porque
 
-ocupaban alguna cierta posicin oficial. Un pobre obrero que mata a su esposa
+ocupaban alguna cierta posición oficial. Un pobre obrero que mata a su esposa
 
-ser ahorcado indefectiblemente, pero cuando otro hombre de una condicin
+será ahorcado indefectiblemente, pero cuando otro hombre de una condición
 
 superior realiza un acto semejante de violencia y mancha sus manos con la
 
-sangre de la mujer a quien jurado amar y apreciar, la pena capital no ser
+sangre de la mujer a quien jurado amar y apreciar, la pena capital no será
 
-ejecutada contra l. Por todas partes vemos en el mundo que, con las mejores
+ejecutada contra él. Por todas partes vemos en el mundo que, con las mejores
 
 intenciones, de alguna manera u otra, la justicia se tuerce un poco. Incluso en
 
-este pas se da la ms ligera inclinacin posible de la balanza, y que Dios nos
+este país se da la más ligera inclinación posible de la balanza, y que Dios nos
 
 conceda que eso pueda remediarse pronto. No creo que sea intencional, y yo
 
-espero que la nacin no tenga que quejarse de eso por largo tiempo. Tiene que
+espero que la nación no tenga que quejarse de eso por largo tiempo. Tiene que
 
-haber la misma justicia para el mendigo ms pobre que se arrastra hasta un
+haber la misma justicia para el mendigo más pobre que se arrastra hasta un
 
-albergue temporal, como por su seora que es propietario del mayor nmero de
+albergue temporal, como por ‘su seńoría’ que es propietario del mayor número de
 
 acres en toda Inglaterra. Ante la ley, al menos, todos los hombres deben
 
-comparecer como iguales. As ser con el Juez de toda la tierra.
+comparecer como iguales. Así será con el Juez de toda la tierra.
 
 Fiat justitia, ruat coelum.
 
-(Hgase
+(Hágase
 
-justicia aunque se desplome el cielo). Cristo sostendr a toda costa las
+justicia aunque se desplome el cielo). Cristo sostendrá a toda costa las
 
-balanzas equilibradas. T tendrs un juicio justo y tambin un juicio
+balanzas equilibradas. Tú tendrás un juicio justo y también un juicio
 
-exhaustivo. No habr ningn ocultamiento de nada a tu favor, y no se quedar
+exhaustivo. No habrá ningún ocultamiento de nada a tu favor, y no se quedará
 
-sin mencionar nada en tu contra. Ningn testigo ser transportado al otro lado
+sin mencionar nada en tu contra. Ningún testigo será transportado al otro lado
 
-del mar para que no pueda comparecer. Todos ellos estarn all, y todo el
+del mar para que no pueda comparecer. Todos ellos estarán allí, y todo el
 
-testimonio estar all, y todo lo que se necesite para condenar o absolver ser
+testimonio estará allí, y todo lo que se necesite para condenar o absolver será
 
-presentado en plena sesin durante el juicio, y por esta razn ser un juicio
+presentado en plena sesión durante el juicio, y por esta razón será un juicio
 
-final. No habr ninguna apelacin ante esa corte. Si Cristo dice: Malditos!,
+final. No habrá ninguna apelación ante esa corte. Si Cristo dice: “ˇMalditos!”,
 
-malditos sern eternamente. Si Cristo dice: Benditos!, benditos sern por
+malditos serán eternamente. Si Cristo dice: “ˇBenditos!”, benditos serán por
 
-siempre jams. Bien, sto es lo que hemos de esperar, entonces: hemos de
+siempre jamás. Bien, ésto es lo que hemos de esperar, entonces: hemos de
 
-comparecer ante el trono del hombre Cristo Jess, el Hijo de Dios, para ser
+comparecer ante el trono del hombre Cristo Jesús, el Hijo de Dios, para ser
 
-juzgados all.
+juzgados allí.
 
 III.
 
 Ahora,
 
-el tercer punto es: CUL SER
+el tercer punto es: żCUÁL SERÁ
 
 LA REGLA
 
 DE
 
-LA ADMINISTRACIN
+LA ADMINISTRACIÓN
 
 DE
 
-JUSTICIA? El texto dice: Para que cada uno reciba segn
+JUSTICIA? El texto dice: “Para que cada uno reciba según
 
-lo que haya hecho mientras estaba en el cuerpo, sea bueno o malo. Entonces
+lo que haya hecho mientras estaba en el cuerpo, sea bueno o malo”. Entonces
 
-parecera que nuestras
+parecería que nuestras
 
 acciones
 
-sern
+serán
 
-tomadas como evidencia al final. Nuestras acciones sern tomadas como evidencia
+tomadas como evidencia al final. Nuestras acciones serán tomadas como evidencia
 
-al final, y no nuestra profesin ni nuestras jactancias, y todo hombre recibir
+al final, y no nuestra profesión ni nuestras jactancias, y todo hombre recibirá
 
 de acuerdo a lo que ha hecho en el cuerpo. Eso implica que todo lo hecho por
 
-nosotros en este cuerpo ser conocido. Todo est registrado y todo ser sacado
+nosotros en este cuerpo será conocido. Todo está registrado y todo será sacado
 
-a la luz. En consecuencia, cada pecado secreto ser publicado en aquel da. Lo
+a la luz. En consecuencia, cada pecado secreto será publicado en aquel día. Lo
 
 que fue hecho en el aposento, lo que fue ocultado por las tinieblas, todo lo
 
-secreto, ser publicado como desde el techo de la casa. Con extremo cuidado lo
+secreto, será publicado como desde el techo de la casa. Con extremo cuidado lo
 
-has ocultado, y muy diestramente lo has cubierto; pero, para asombro tuyo, ser
+has ocultado, y muy diestramente lo has cubierto; pero, para asombro tuyo, será
 
-dado a conocer para que forme parte de tu juicio. Tanto las acciones hipcritas
+dado a conocer para que forme parte de tu juicio. Tanto las acciones hipócritas
 
-como los pecados secretos sern puestos al descubierto all. El fariseo que
+como los pecados secretos serán puestos al descubierto allí. El fariseo que
 
-devor la casa de la viuda y que hizo largas oraciones se encontrar con que la
+devoró la casa de la viuda y que hizo largas oraciones se encontrará con que la
 
 casa de la viuda es presentada en su contra, lo mismo que las largas oraciones,
 
-pues se entender entonces que cada larga oracin no fue sino una larga mentira
+pues se entenderá entonces que cada larga oración no fue sino una larga mentira
 
-contra Dios de principio a fin. Oh, cun hermosas podemos hacer que se vean
+contra Dios de principio a fin. ˇOh, cuán hermosas podemos hacer que se vean
 
 algunas cosas con la ayuda de la pintura y del barniz y de los adornos; pero,
 
-en el ltimo da, el barniz y el recubrimiento se caern, y el verdadero metal,
+en el último día, el barniz y el recubrimiento se caerán, y el verdadero metal,
 
-la sustancia real, quedar entonces al descubierto!
+la sustancia real, quedará entonces al descubierto!
 
 Cuando se dice que todo
 
-lo que se haga en el cuerpo ser presentado como evidencia, ya sea en contra
+lo que se haga en el cuerpo será presentado como evidencia, ya sea en contra
 
-nuestra o a favor nuestro, recuerden que sto incluye toda omisin as como
+nuestra o a favor nuestro, recuerden que ésto incluye toda omisión así como
 
-toda comisin, pues aquello que deba ser hecho y no fue hecho es tan grave
+toda comisión, pues aquello que debía ser hecho y no fue hecho es tan grave
 
-pecado como hacer lo que no deba hacerse. Cuando leamos el captulo
+pecado como hacer lo que no debía hacerse. Cuando leíamos el capítulo
 
-veinticinco de Mateo, notaron cmo los que estaban a la izquierda fueron
+veinticinco de Mateo, żnotaron cómo los que estaban a la izquierda fueron
 
-condenados, no por lo que hicieron, sino por lo que no hicieron: Tuve hambre,
+condenados, no por lo que hicieron, sino por lo que no hicieron: “Tuve hambre,
 
-y no me disteis de comer; tuve sed, y no me disteis de beber? Segn esta
+y no me disteis de comer; tuve sed, y no me disteis de beber”? Según esta
 
-regla, dnde se encuentran algunos de ustedes que han vivido en el descuido de
+regla, żdónde se encuentran algunos de ustedes que han vivido en el descuido de
 
 la santidad y en el descuido de la fe y en el descuido del arrepentimiento
 
-delante de Dios a lo largo de todos sus das? Considrenlo, se los ruego.
+delante de Dios a lo largo de todos sus días? Considérenlo, se los ruego.
 
-Recuerden, tambin, que
+Recuerden, también, que
 
-todas nuestras palabras saldrn a relucir. De cada palabra ociosa que hable el
+todas nuestras palabras saldrán a relucir. De cada palabra ociosa que hable el
 
-hombre tendr que rendir cuentas. Y de todos nuestros pensamientos, tambin,
+hombre tendrá que rendir cuentas. Y de todos nuestros pensamientos, también,
 
 pues los pensamientos subyacen en el fondo de nuestras acciones y les dan el
 
-verdadero color, bueno o malo. Nuestros motivos, nuestros pecados del corazn, y
+verdadero color, bueno o malo. Nuestros motivos, nuestros pecados del corazón, y
 
 especialmente nuestro odio a Cristo, nuestro descuido del Evangelio, nuestra
 
-incredulidad: todas esas cosas sern ledas en voz alta y sern publicadas sin
+incredulidad: todas esas cosas serán leídas en voz alta y serán publicadas sin
 
 reservas.
 
-Bien, -dir alguien- quin,
+“Bien”, -dirá alguien- “żquién,
 
-pues, podr ser salvo? Ah, en verdad, quin, pues, podr ser salvo! Permteme
+pues, podrá ser salvo?” ˇAh, en verdad, quién, pues, podrá ser salvo! Permíteme
 
-decirte quin. Pasarn al frente aqullos que creyeron en Jess, y aunque
+decirte quién. Pasarán al frente aquéllos que creyeron en Jesús, y aunque
 
-tienen muchos pecados ante los cuales confesarse culpables, sern capaces de
+tienen muchos pecados ante los cuales confesarse culpables, serán capaces de
 
-decir: Grandioso Dios, T proveste un sustituto para nosotros, y T dijiste
+decir: “Grandioso Dios, Tú proveíste un sustituto para nosotros, y Tú dijiste
 
-que si lo aceptbamos sera nuestro sustituto y tomara sobre S nuestros
+que si lo aceptábamos sería nuestro sustituto y tomaría sobre Sí nuestros
 
 pecados, y nosotros en verdad lo aceptamos y nuestros pecados fueron puestos
 
-sobre l y ahora no tenemos ningn pecado; fueron transferidos de nosotros
+sobre Él y ahora no tenemos ningún pecado; fueron transferidos de nosotros
 
-hacia el grandioso Salvador, Sustituto y Sacrificio. Y en aquel da no habr
+hacia el grandioso Salvador, Sustituto y Sacrificio”. Y en aquel día no habrá
 
-nadie que pudiera poner algn reparo contra ese argumento: ser vlido, pues
+nadie que pudiera poner algún reparo contra ese argumento: será válido, pues
 
-Dios ha dicho: Todo aquel que crea en Cristo Jess no ser condenado nunca.
+Dios ha dicho: “Todo aquel que crea en Cristo Jesús no será condenado nunca”.
 
-Entonces sern presentadas las acciones de los justos, las acciones de gracia,
+Entonces serán presentadas las acciones de los justos, las acciones de gracia,
 
 para demostrar que tuvieron fe. Pues la fe que no se manifiesta nunca mediante
 
-buenas obras es una fe muerta y es una fe que nunca salvar a ningn alma.
+buenas obras es una fe muerta y es una fe que nunca salvará a ningún alma.
 
-Ahora, si el ladrn moribundo fuera presentado, dira: Mis pecados fueron
+Ahora, si el ladrón moribundo fuera presentado, diría: “Mis pecados fueron
 
-puestos sobre Jess. S, pero, qu hay de tus buenas obras? T tienes que
+puestos sobre Jesús”. “Sí, pero, żqué hay de tus buenas obras? Tú tienes que
 
-tener alguna evidencia de tu fe, podra replicar Satans. Entonces el ngel
+tener alguna evidencia de tu fe”, podría replicar Satanás. Entonces el ángel
 
-registrador dira: El ladrn moribundo le dijo a su compaero ladrn que
+registrador diría: “El ladrón moribundo le dijo a su compańero ladrón que
 
-estaba muriendo con l: Por qu razn maldices? En sus ltimos momentos hizo
+estaba muriendo con él: ‘żPor qué razón maldices?’ En sus últimos momentos hizo
 
-lo que pudo: censur al ladrn que mora con l e hizo una buena confesin de
+lo que pudo: censuró al ladrón que moría con él e hizo una buena confesión de
 
-su Seor. All tenemos la evidencia de la sinceridad de su fe.
+su Seńor. Allí tenemos la evidencia de la sinceridad de su fe”.
 
-Amado oyente, habr
+Amado oyente, żhabrá
 
 alguna evidencia de la sinceridad de tu fe? Si tu fe no tuviera ninguna
 
-evidencia delante del Seor, qu hars? Supn que pensaste que tenas una fe
+evidencia delante del Seńor, żqué harás? Supón que pensaste que tenías una fe
 
-pero continuaste bebiendo. Supn que hiciste lo que yo s que han hecho algunos
+pero continuaste bebiendo. Supón que hiciste lo que yo sé que han hecho algunos
 
-aqu: que fuiste directo de aqu a la cantina. O suponte que te uniste a la iglesia
+aquí: que fuiste directo de aquí a la cantina. O suponte que te uniste a la iglesia
 
-cristiana pero seguiste siendo un borracho. S, y hay mujeres que han hecho eso
+cristiana pero seguiste siendo un borracho. Sí, y hay mujeres que han hecho eso
 
-igual que tambin hombres. Supn que profesaste tener fe en Cristo y, sin
+igual que también hombres. Supón que profesaste tener fe en Cristo y, sin
 
 embargo, hiciste trampa con tus pesas y medidas y en tus tratos rutinarios.
 
-Piensas que Dios no requerir estas cosas de tus manos?
+żPiensas que Dios no requerirá estas cosas de tus manos?
 
-Oh, seores, si no
+Oh, seńores, si no
 
 fueran mejores que otros hombres en su conducta, entonces no
 
@@ -912,39 +912,39 @@ son
 
 mejores que otros hombres en su
 
-carcter, y no estarn mejor que otros hombres en el da del juicio. Si sus
+carácter, y no estarán mejor que otros hombres en el día del juicio. Si sus
 
 acciones no fueran superiores a las de ellos, pueden profesar lo que quieran
 
-acerca de su fe, pero estn engaados, y, como engaadores sern descubiertos
+acerca de su fe, pero están engańados, y, como engańadores serán descubiertos
 
-en el ltimo gran da. Si la gracia no nos hace diferir de otros hombres, no se
+en el último gran día. Si la gracia no nos hace diferir de otros hombres, no se
 
 trata de la gracia que Dios da a Sus elegidos. Aunque nosotros no somos
 
 perfectos, todos los santos de Dios mantienen sus ojos fijos en la gran norma
 
-de perfeccin, y, con un fuerte deseo procuran caminar como es digno de su
+de perfección, y, con un fuerte deseo procuran caminar como es digno de su
 
 supremo llamamiento de Dios y realizar obras que demuestren que aman a Dios; y
 
-si no tenemos esas seales que se dan con la fe, o si no son introducidas como
+si no tenemos esas seńales que se dan con la fe, o si no son introducidas como
 
-evidencia para nosotros, en el ltimo gran da no seremos capaces de demostrar
+evidencia para nosotros, en el último gran día no seremos capaces de demostrar
 
 nuestra fe.
 
-Oh, ustedes que no
+ˇOh, ustedes que no
 
-tienen ninguna fe en Cristo, ninguna fe en Jess, el sustituto: esa terrible
+tienen ninguna fe en Cristo, ninguna fe en Jesús, el sustituto: esa terrible
 
-negativa, esa traicionera incredulidad suya, ser un pecado condenatorio contra
+negativa, esa traicionera incredulidad suya, será un pecado condenatorio contra
 
-ustedes! Ser una prueba contundente de que odiaron a Dios, pues un hombre que
+ustedes! Será una prueba contundente de que odiaron a Dios, pues un hombre que
 
-desprecia los consejos de Dios, que no presta atencin a Su reproche, que
+desprecia los consejos de Dios, que no presta atención a Su reproche, que
 
-escarnece Su gracia y que reta la venganza de Aquel que le seala la va de
+escarnece Su gracia y que reta la venganza de Aquel que le seńala la vía de
 
 escape y el sendero que conduce a la vida, es alguien que debe odiar a Dios. El
 
@@ -954,229 +954,229 @@ Dios de la misericordia. Si Dios entrega a Su propio Hijo a la muerte y los
 
 hombres no quieren confiar en Su Hijo, si no quieren tenerlo como su Salvador,
 
-ese nico pecado -aunque no tuvieran ningn otro- demostrara de inmediato que
+ese único pecado -aunque no tuvieran ningún otro- demostraría de inmediato que
 
-son enemigos de Dios y que tienen un corazn negro. Pero si tu fe est en
+son enemigos de Dios y que tienen un corazón negro. Pero si tu fe está en
 
-Jess, si amas a Jess, si tu corazn est con Jess, si tu vida es
+Jesús, si amas a Jesús, si tu corazón está con Jesús, si tu vida es
 
-influenciada por Jess, si t lo conviertes en tu ejemplo as como tambin en
+influenciada por Jesús, si tú lo conviertes en tu ejemplo así como también en
 
-tu Salvador, habr evidencia a tu favor aunque t no puedas verla. Pues noten
+tu Salvador, habrá evidencia a tu favor aunque tú no puedas verla. Pues noten
 
 estas agraciadas cosas: cuando la evidencia fue presentada, y Cristo dijo:
 
-Tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber, ellos
+“Tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber”, ellos
 
-dijeron: Oh, Seor, nunca nos dimos cuenta de eso. Si alguien se pusiera de
+dijeron: “Oh, Seńor, nunca nos dimos cuenta de eso”. Si alguien se pusiera de
 
-pie aqu y dijera: Yo cuento con una abundante evidencia para demostrar mi
+pie aquí y dijera: “Yo cuento con una abundante evidencia para demostrar mi
 
-fe, yo le replicara: Cllate la boca, amigo! Cllate la boca! Me temo que
+fe”, yo le replicaría: “ˇCállate la boca, amigo! ˇCállate la boca! Me temo que
 
-no tienes fe del todo, pues de lo contrario no estaras hablando acerca de tu
+no tienes fe del todo, pues de lo contrario no estarías hablando acerca de tu
 
-evidencia. Pero si dices: Oh, yo me temo que no tengo la evidencia que me
+evidencia”. Pero si dices: “Oh, yo me temo que no tengo la evidencia que me
 
-pondr en una buena posicin al final, pero si a la vez has estado alimentando
+pondrá en una buena posición al final”, pero si a la vez has estado alimentando
 
 a los hambrientos todo el tiempo, y vistiendo a los desnudos, y haciendo todo
 
-lo que puedes por Cristo, yo te dira que no tengas miedo. El Maestro
+lo que puedes por Cristo, yo te diría que no tengas miedo. El Maestro
 
-encontrar testigos que digan: Ese hombre me socorri cuando yo estaba sumido
+encontrará testigos que digan: “Ese hombre me socorrió cuando yo estaba sumido
 
-en la pobreza. l saba que yo era uno de los de Cristo y vino y me ayud. Y
+en la pobreza. Él sabía que yo era uno de los de Cristo y vino y me ayudó”. Y
 
-otro vendr y dir (tal vez sea un ngel quien lo diga) Lo vi cuando estaba
+otro vendrá y dirá (tal vez sea un ángel quien lo diga) “Lo vi cuando estaba
 
-solo en su aposento y lo o orar por sus enemigos. Y el Seor dir: Le en su
+solo en su aposento y lo oí orar por sus enemigos”. Y el Seńor dirá: “Leí en su
 
-corazn cuando contempl cmo aguant el reproche, y la calumnia, y la
+corazón cuando contemplé cómo aguantó el reproche, y la calumnia, y la
 
-persecucin, y se quedaba sin responder por mi causa. l hizo todo eso como
+persecución, y se quedaba sin responder por mi causa. Él hizo todo eso como
 
-evidencia de que mi gracia estaba en su corazn. T no tendrs que poner los
+evidencia de que mi gracia estaba en su corazón”. Tú no tendrás que poner los
 
-testigos; el juez los llamar, pues l sabe todo acerca de tu caso; y conforme
+testigos; el juez los llamará, pues Él sabe todo acerca de tu caso; y conforme
 
-llame a los testigos, t te sorprenders al descubrir cmo incluso los impos
+llame a los testigos, tú te sorprenderás al descubrir cómo incluso los impíos
 
-se vern obligados a consentir en la justa salvacin de los justos.
+se verán obligados a consentir en la justa salvación de los justos.
 
-Oh, los actos secretos
+ˇOh, los actos secretos
 
-y la verdadera sinceridad del corazn de los justos, cuando sean manifestados
+y la verdadera sinceridad del corazón de los justos, cuando sean manifestados
 
-as, cmo provocarn que los diablos se muerdan su lengua llenos de ira al
+así, cómo provocarán que los diablos se muerdan su lengua llenos de ira al
 
 pensar que hubo tanta gracia dada a los hijos de los hombres para derrotar a la
 
-persecucin, vencer a la tentacin y seguir en obediencia al Seor! Oh, s, las
+persecución, vencer a la tentación y seguir en obediencia al Seńor! Oh, sí, las
 
-obras, las obras, las obras de los hombres, y no su habladura, ni su
+obras, las obras, las obras de los hombres, y no su habladuría, ni su
 
-profesin, ni su pltica, sino sus obras (aunque nadie ser salvado por los
+profesión, ni su plática, sino sus obras (aunque nadie será salvado por los
 
-mritos de sus obras), sus obras sern la evidencia de su gracia, o sus obras
+méritos de sus obras), sus obras serán la evidencia de su gracia, o sus obras
 
-sern la evidencia de su incredulidad; y as, por sus obras se sostendrn
+serán la evidencia de su incredulidad; y así, por sus obras se sostendrán
 
-delante del Seor, o por sus obras sern condenados, como evidencia y nada ms.
+delante del Seńor, o por sus obras serán condenados, como evidencia y nada más.
 
 IV.
 
 El
 
-ltimo punto es ahora: cul es el propsito de ese juicio? Se impartir una
+último punto es ahora: żcuál es el propósito de ese juicio? żSe impartirá una
 
-sentencia absolutoria o condenatoria y despus todo habr concluido? Lejos de
+sentencia absolutoria o condenatoria y después todo habrá concluido? Lejos de
 
-eso. El juicio es con miras al ms all: Para que cada uno reciba segn lo que
+eso. El juicio es con miras al más allá: “Para que cada uno reciba según lo que
 
-haya hecho mientras estaba en el cuerpo. El Seor conceder a Su pueblo una abundante
+haya hecho mientras estaba en el cuerpo”. El Seńor concederá a Su pueblo una abundante
 
 recompensa por todo lo que han hecho. No es que merezcan ninguna recompensa,
 
-sino que primero Dios les dio gracia para hacer buenas obras, y luego tom sus
+sino que primero Dios les dio gracia para hacer buenas obras, y luego tomó sus
 
-buenas obras como evidencia de un corazn renovado, y despus les dio una
+buenas obras como evidencia de un corazón renovado, y después les dio una
 
-recompensa por lo que hicieron. Oh, qu bienaventuranza ser or que se te
+recompensa por lo que hicieron. Oh, qué bienaventuranza será oír que se te
 
-diga: Bien, buen siervo y fiel, a ti, que has trabajado para Cristo cuando
+diga: “Bien, buen siervo y fiel”, a ti, que has trabajado para Cristo cuando
 
-nadie lo saba; descubrir que Cristo te tom todo en cuenta, a ti, que serviste
+nadie lo sabía; descubrir que Cristo te tomó todo en cuenta, a ti, que serviste
 
-al Seor a pesar de ser tergiversado; descubrir que el Seor Jess apart el
+al Seńor a pesar de ser tergiversado; descubrir que el Seńor Jesús apartó el
 
-tamo del trigo sabiendo que t eras alguien precioso para l. Oh, qu
+tamo del trigo sabiendo que tú eras alguien precioso para Él. Oh, qué
 
-bienaventuranza ser para ti que entonces l te diga: Entra en el gozo de tu
+bienaventuranza será para ti que entonces Él te diga: “Entra en el gozo de tu
 
-Seor.
+Seńor”.
 
-Pero para los impos
+Pero para los impíos
 
-ser muy terrible. Ellos han de recibir las cosas que han hecho, es decir, el
+será muy terrible. Ellos han de recibir las cosas que han hecho, es decir, el
 
-castigo debido, aunque no todos de igual manera, sino el mayor pecador recibir
+castigo debido, aunque no todos de igual manera, sino el mayor pecador recibirá
 
-mayor condenacin; para el hombre que pec contra la luz habr una mayor
+mayor condenación; para el hombre que pecó contra la luz habrá una mayor
 
-condenacin que para el hombre que no tuvo la misma luz; Sodoma y Gomorra
+condenación que para el hombre que no tuvo la misma luz; Sodoma y Gomorra
 
-tendrn su lugar, Tiro y Sidn tendrn su lugar, y luego Capernaum y Betsaida tendrn
+tendrán su lugar, Tiro y Sidón tendrán su lugar, y luego Capernaum y Betsaida tendrán
 
-su lugar de ms intolerable tormento, porque tenan el Evangelio y lo rechazaron,
+su lugar de más intolerable tormento, porque tenían el Evangelio y lo rechazaron,
 
-segn nos informa nuestro propio Seor. Y el castigo no slo ser aplicado en proporcin
+según nos informa nuestro propio Seńor. Y el castigo no sólo será aplicado en proporción
 
-a la transgresin en s misma, sino que se acrecentar con las inicuas
+a la transgresión en sí misma, sino que se acrecentará con las inicuas
 
 consecuencias generadas por los inicuos actos realizados, ya que cada hombre
 
-habr de comer el fruto de sus propios caminos. El pecado, segn el orden
+habrá de comer el fruto de sus propios caminos. El pecado, según el orden
 
-natural, madura en afliccin. Esto no es un ciego destino, sino que es la
+natural, madura en aflicción. Esto no es un ciego destino, sino que es la
 
-operacin de una ley divina, sabia e invariable. Oh, cun terrible ser para el
+operación de una ley divina, sabia e invariable. Oh, cuán terrible será para el
 
-hombre malicioso tener que roer eternamente su propio corazn envidioso, y
+hombre malicioso tener que roer eternamente su propio corazón envidioso, y
 
-descubrir que su malicia se le revierte tal como los pjaros vienen a casa para
+descubrir que su malicia se le revierte tal como los pájaros vienen a casa para
 
-anidar y ulular para siempre en su propia alma; cun terrible ser para el
+anidar y ulular para siempre en su propia alma; cuán terrible será para el
 
 hombre lascivo sentir la lascivia ardiendo en cada vena aunque nunca puede
 
-gratificarla; cun terrible ser para el borracho tener una sed que ni siquiera
+gratificarla; cuán terrible será para el borracho tener una sed que ni siquiera
 
-una gota de agua puede apaciguar y para el glotn que haca cada da banquete
+una gota de agua puede apaciguar y para el glotón que hacía cada día banquete
 
-con esplendidez, estar hambriento perpetuamente; cun terrible ser para el
+con esplendidez, estar hambriento perpetuamente; cuán terrible será para el
 
 alma que ha sido iracunda, ser iracunda para siempre, con el fuego de la ira
 
-ardiendo eternamente como un volcn en su alma; y para el rebelde contra Dios,
+ardiendo eternamente como un volcán en su alma; y para el rebelde contra Dios,
 
 ser sempiternamente un rebelde y maldecir a Dios a quien no puede tocar y
 
-descubrir que sus maldiciones se revierten sobre l. No hay peor castigo para
+descubrir que sus maldiciones se revierten sobre él. No hay peor castigo para
 
-un hombre con una disposicin pecaminosa, que gratificar sus lascivias, saciar
+un hombre con una disposición pecaminosa, que gratificar sus lascivias, saciar
 
-sus perversas propensiones, y multiplicar y engordar sus vicios. Dejen que los
+sus perversas propensiones, y multiplicar y engordar sus vicios. ˇDejen que los
 
-hombres se desarrollen y sean lo que quisieran ser, y luego vean en qu se
+hombres se desarrollen y sean lo que quisieran ser, y luego vean en qué se
 
-convierten! Supriman a los policas en algunas partes de Londres, y denles a las
+convierten! Supriman a los policías en algunas partes de Londres, y denles a las
 
-gentes dinero en abundancia, y djenlas hacer lo que quieran. Entonces se
+gentes dinero en abundancia, y déjenlas hacer lo que quieran. Entonces se
 
-enteraran que el sbado pasado hubo media docena de crneos fracturados, y que
+enterarían que el sábado pasado hubo media docena de cráneos fracturados, y que
 
 las esposas y los hijos estuvieron involucrados en una reyerta general.
 
-Mantengan juntas a esas personas; dejen que su vigor contine sin ningn
+Mantengan juntas a esas personas; dejen que su vigor continúe sin ningún
 
-menoscabo por la edad o por la corrupcin, mientras sigan desarrollando su
+menoscabo por la edad o por la corrupción, mientras sigan desarrollando su
 
-carcter. Vamos, seran peores que una manada de tigres. Si dan paso a su ira y
+carácter. Vamos, serían peores que una manada de tigres. Si dan paso a su ira y
 
-a su enojo, sin nada que controle sus pasiones, si dejan que personas tacaas y
+a su enojo, sin nada que controle sus pasiones, si dejan que personas tacańas y
 
-avaras continen por siempre con su avaricia, eso ya las hace miserables aqu;
+avaras continúen por siempre con su avaricia, eso ya las hace miserables aquí;
 
-pero si esas cosas fuesen disfrutadas para siempre, qu peor infierno querran?
+pero si esas cosas fuesen disfrutadas para siempre, żqué peor infierno querrían?
 
-Oh, el pecado es el infierno y la santidad es el cielo. Los hombres recibirn
+Oh, el pecado es el infierno y la santidad es el cielo. Los hombres recibirán
 
-segn lo que hayan hecho mientras estaban en el cuerpo. Si Dios ha hecho que lo
+según lo que hayan hecho mientras estaban en el cuerpo. Si Dios ha hecho que lo
 
-amen, continuarn amndolo; si Dios ha hecho que confen en l, continuarn
+amen, continuarán amándolo; si Dios ha hecho que confíen en Él, continuarán
 
-confiando en l; si Dios ha hecho que sean semejantes a Cristo, continuarn
+confiando en Él; si Dios ha hecho que sean semejantes a Cristo, continuarán
 
-siendo semejantes a Cristo, y recibirn como recompensa lo que hayan hecho
+siendo semejantes a Cristo, y recibirán como recompensa lo que hayan hecho
 
-mientras estaban en el cuerpo; pero si un hombre ha vivido en pecado, el que es
+mientras estaban en el cuerpo; pero si un hombre ha vivido en pecado, “el que es
 
-inmundo sea inmundo todava, y el que ha sido incrdulo sea incrdulo todava.
+inmundo sea inmundo todavía”, y el que ha sido incrédulo sea incrédulo todavía.
 
-ste, entonces, ser el gusano que nunca muere, y el fuego que no se apaga
+Éste, entonces, será el gusano que nunca muere, y el fuego que no se apaga
 
-nunca, a todo lo cual ser
+nunca, a todo lo cual será
 
 agregada
 
 la ira de Dios por
 
-los siglos de los siglos. Oh, que cada uno de nosotros reciba la gracia para
+los siglos de los siglos. ˇOh, que cada uno de nosotros reciba la gracia para
 
-huir a Cristo! All est nuestra nica seguridad. La fe simple en Jess es la
+huir a Cristo! Allí está nuestra única seguridad. La fe simple en Jesús es la
 
-base para el carcter que ser la evidencia al final de que t eres elegido de
+base para el carácter que será la evidencia al final de que tú eres elegido de
 
-Dios. Una simple creencia en el mrito del Seor Jess, obrada por el Espritu
+Dios. Una simple creencia en el mérito del Seńor Jesús, obrada por el Espíritu
 
-Santo en nosotros, es el cimiento de roca sobre el cual ser edificado, por las
+Santo en nosotros, es el cimiento de roca sobre el cual será edificado, por las
 
-mismas manos divinas, el carcter que evidenciar que el reino fue preparado
+mismas manos divinas, el carácter que evidenciará que el reino fue preparado
 
-para nosotros desde antes de la fundacin del mundo. Que Dios obre en nosotros
+para nosotros desde antes de la fundación del mundo. Que Dios obre en nosotros
 
-un carcter as, por Cristo nuestro Seor. Amn.
+un carácter así, por Cristo nuestro Seńor. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Mateo 25.
+del sermón: Mateo 25.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 16/Febrero/2011
 

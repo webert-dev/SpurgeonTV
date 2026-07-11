@@ -1,20 +1,20 @@
 # Sermón 1291 | Sermón 1291
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 La Mejor Carga
 
-Para Unos Hombros Jvenes
+Para Unos Hombros Jóvenes
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES
 
-Bueno le es al hombre llevar el yugo desde su juventud. Lamentaciones
+“Bueno le es al hombre llevar el yugo desde su juventud”. Lamentaciones
 
 3: 27.
 
@@ -26,31 +26,31 @@ Algunas veces lo bueno pudiera ser directamente proporcional a lo desagradable.
 
 Ahora bien, es pueril estar anhelando siempre las cosas dulces; aquellos que en
 
-razn del uso han mantenido ejercitados sus sentidos, deberan preferir lo sano
+razón del uso han mantenido ejercitados sus sentidos, deberían preferir lo sano
 
-a lo apetecible. Deberamos reconciliarnos con lo desabrido cuando se nos
+a lo apetecible. ˇDeberíamos reconciliarnos con lo desabrido cuando se nos
 
-informa que es bueno! Un niito no se reconcilia fcilmente con eso porque todava
+informa que es bueno! Un nińito no se reconcilia fácilmente con eso porque todavía
 
-no puede pensar ni juzgar, pero para el varn de Dios debera resultar muy
+no puede pensar ni juzgar, pero para el varón de Dios debería resultar muy
 
-fcil aquietar toda protesta y toda queja tan pronto como percibe que, aunque
+fácil aquietar toda protesta y toda queja tan pronto como percibe que, aunque
 
 sea desagradable, la cosa es buena. Mis queridos amigos, como nosotros mismos
 
 no somos muy buenos jueces de lo que es bueno para nosotros, ni nuestros hijos
 
-tampoco lo son, y ya que esperamos que nuestros pequeitos depositen en
+tampoco lo son, y ya que esperamos que nuestros pequeńitos depositen en
 
-nosotros la eleccin de su dieta, no sera sabio de nuestra parte que lo
+nosotros la elección de su dieta, żno sería sabio de nuestra parte que lo
 
 dejemos todo en manos de nuestro Padre celestial? Nosotros podemos juzgar lo
 
 que es agradable pero no podemos discernir lo que es bueno para nosotros, pero
 
-L puede juzgar, y por tanto, siempre ser bueno que dejemos todos nuestros
+ÉL puede juzgar, y por tanto, siempre será bueno que dejemos todos nuestros
 
-asuntos en Sus manos y que digamos: No sea como yo quiero, sino como t. Puesto
+asuntos en Sus manos y que digamos: “No sea como yo quiero, sino como tú”. Puesto
 
 que estamos muy seguros, con base en la autoridad de
 
@@ -58,141 +58,141 @@ la Escritura
 
 , que todo lo
 
-que el Seor manda a Su pueblo es para su bien, deberamos estar perfectamente
+que el Seńor manda a Su pueblo es para su bien, deberíamos estar perfectamente
 
-resignados a la voluntad del Seor; es ms, deberamos estar tambin
+resignados a la voluntad del Seńor; es más, deberíamos estar también
 
 agradecidos por todos Sus designios aun cuando desagraden a la carne, estando
 
 completamente seguros de que Su voluntad es lo mejor que puede haber, y que si
 
-pudiramos ver el fin desde el principio, eso sera exactamente lo que
+pudiéramos ver el fin desde el principio, eso sería exactamente lo que
 
-elegiramos si furamos tan sabios y tan buenos como nuestro Padre celestial.
+elegiríamos si fuéramos tan sabios y tan buenos como nuestro Padre celestial.
 
-Nuestros hombros se encorvan con alegra frente a la carga que Jess declara
+Nuestros hombros se encorvan con alegría frente a la carga que Jesús declara
 
 que es de provecho para nosotros: esta seguridad que brota de Sus labios hace
 
-que Su yugo sea fcil de llevar.
+que Su yugo sea fácil de llevar.
 
 Nuestro texto nos habla de
 
-algo que, si bien no es muy grato, es bueno: Bueno le es al hombre llevar el
+algo que, si bien no es muy grato, es bueno: “Bueno le es al hombre llevar el
 
-yugo desde su juventud. La ilustracin es tomada del ganado. Los bueyes tienen
+yugo desde su juventud”. La ilustración es tomada del ganado. Los bueyes tienen
 
 que llevar el yugo. Van en parejas y cargan el yugo sobre sus lomos. El yugo es
 
-algo pesado. Si el buey no es adiestrado desde joven, nunca se convertir en una
+algo pesado. Si el buey no es adiestrado desde joven, nunca se convertirá en una
 
-buena bestia para el arado. Se inquietar e incomodar por la labor que tendr
+buena bestia para el arado. Se inquietará e incomodará por la labor que tendrá
 
-que hacer; ser muy difcil guiarlo y el labrador que ara no avanzar mucho. Es
+que hacer; será muy difícil guiarlo y el labrador que ara no avanzará mucho. Es
 
-bueno que el buey aprenda a someterse cuando est joven, y lo mismo sucede con
+bueno que el buey aprenda a someterse cuando está joven, y lo mismo sucede con
 
 toda clase de animales: el caballo tiene que ser adiestrado cuando es un
 
-potrillo, y si se permite que transcurra un cierto perodo de la vida de ese
+potrillo, y si se permite que transcurra un cierto período de la vida de ese
 
-potro sin que est bajo la mano un entrenador, nunca se convertir en un caballo
+potro sin que esté bajo la mano un entrenador, nunca se convertirá en un caballo
 
-completamente til. Si quieres entrenar a un perro tienes que tomarlo cuando es
+completamente útil. Si quieres entrenar a un perro tienes que tomarlo cuando es
 
-un cachorro y ensearle su rutina. Esa es la metfora. Lo mismo ocurre con los
+un cachorro y enseńarle su rutina. Esa es la metáfora. Lo mismo ocurre con los
 
-seres humanos. Bueno es que seamos adiestrados cuando somos todava jvenes y
+seres humanos. Bueno es que seamos adiestrados cuando somos todavía jóvenes y
 
 que aprendamos a llevar el yugo en nuestra juventud.
 
 Aunque piensen que el
 
-texto expresa naturalmente una verdad de la vida ordinaria, aun as vale la
+texto expresa naturalmente una verdad de la vida ordinaria, aun así vale la
 
 pena considerarlo. Aun sin vincular el tema a la gracia de Dios y a la
 
-religin, es una gran bendicin que un hombre lleve el yugo en su juventud!,
+religión, ˇes una gran bendición que un hombre lleve el yugo en su juventud!,
 
 es decir, que
 
 es bueno que aprendamos la
 
-obediencia cuando somos jvenes.
+obediencia cuando somos jóvenes.
 
 Cuando se coloca a un hombre bajo ciertas
 
-reglas y se le ensea a aceptar la restriccin, se logra la mitad de su
+reglas y se le enseńa a aceptar la restricción, se logra la mitad de su
 
-formacin. Cuando los jvenes se hacen mayores tendrn que ser en gran medida
+formación. Cuando los jóvenes se hacen mayores tendrán que ser en gran medida
 
 una ley para ellos mismos; pudiera ser que ya no cuenten con un padre que los
 
-amoneste amorosamente, ni con una madre que los gue tiernamente; los jvenes
+amoneste amorosamente, ni con una madre que los guíe tiernamente; los jóvenes
 
-sern personas mayores y se gobernarn a s mismos, y nadie es apto para hacerlo
+serán personas mayores y se gobernarán a sí mismos, y nadie es apto para hacerlo
 
-mientras no haya aprendido a ser obediente. El proverbio dice: Los muchachos
+mientras no haya aprendido a ser obediente. El proverbio dice: “Los muchachos
 
-seguirn siendo muchachos, pero yo no lo creo; ellos sern hombres si les
+seguirán siendo muchachos”, pero yo no lo creo; ellos serán hombres si les
 
-damos tiempo, y a menos que aprendan el dominio propio y hbitos de obediencia
+damos tiempo, y a menos que aprendan el dominio propio y hábitos de obediencia
 
 cuando son muchachos, no es probable que se conviertan en hombres buenos. El
 
-que no puede obedecer no es apto para mandar; el que nunca aprendi a someterse
+que no puede obedecer no es apto para mandar; el que nunca aprendió a someterse
 
-se convertir en un tirano cuando obtenga el poder. Es bueno que todo nio sea
+se convertirá en un tirano cuando obtenga el poder. Es bueno que todo nińo sea
 
-adiestrado, que sea liberado de su insensata obstinacin y llevado a sentir que
+adiestrado, que sea liberado de su insensata obstinación y llevado a sentir que
 
 tiene superiores, jefes y directores, y, entonces, cuando le llegue su turno de
 
-ser un lder y un jefe tendr un sentido ms bondadoso de compaerismo para con
+ser un líder y un jefe tendrá un sentido más bondadoso de compańerismo para con
 
-aquellos que estn bajo su mando. Tengan la seguridad de que si no aprende la
+aquellos que están bajo su mando. Tengan la seguridad de que si no aprende la
 
-prctica de la obediencia, nunca ser un buen soldado en la batalla de la vida.
+práctica de la obediencia, nunca será un buen soldado en la batalla de la vida.
 
-Bueno les es a los jvenes llevar el yugo, tambin, en el sentido de
+Bueno les es a los jóvenes llevar el yugo, también, en el sentido de
 
 dedicarse desde temprano a adquirir conocimiento.
 
 Si
 
-no aprendemos cuando somos jvenes, cundo aprenderemos? Algunos que han
+no aprendemos cuando somos jóvenes, żcuándo aprenderemos? Algunos que han
 
-comenzado a estudiar tarde en la vida todava han podido lograr mucho pero ha
+comenzado a estudiar tarde en la vida todavía han podido lograr mucho pero ha
 
 sido con mucha dificultad. Si en la juventud no se usa la maquinaria de la
 
-mente, se oxida, pero si se usa desde el principio y se mantiene en accin y
+mente, se oxida, pero si se usa desde el principio y se mantiene en acción y
 
-bien aceitada continuamente, seguir funcionando fcilmente a lo largo de toda
+bien aceitada continuamente, seguirá funcionando fácilmente a lo largo de toda
 
-la vida. Nuestros das de juventud son favorables para la adquisicin de
+la vida. Nuestros días de juventud son favorables para la adquisición de
 
-conocimiento, y todo joven que es un aprendiz debera sacar el mejor provecho
+conocimiento, y todo joven que es un aprendiz debería sacar el mejor provecho
 
-de su aprendizaje; nunca llegar a ser un profesional en su actividad si no lo hace.
+de su aprendizaje; nunca llegará a ser un profesional en su actividad si no lo hace.
 
-Toda persona que est comenzando en la vida, mientras est joven todava, tiene
+Toda persona que está comenzando en la vida, mientras esté joven todavía, tiene
 
-que hacer todo lo posible por adquirir una preparacin completa, pues si no lo
+que hacer todo lo posible por adquirir una preparación completa, pues si no lo
 
-hace, conocer su carencia ms pronto que tarde. Si un hombre emprende el viaje
+hace, conocerá su carencia más pronto que tarde. Si un hombre emprende el viaje
 
-de la vida y deja su ancla en casa u olvida llevar sus provisiones, descubrir
+de la vida y deja su ancla en casa u olvida llevar sus provisiones, descubrirá
 
 sus deficiencias cuando llegue al mar; y cuando la tormenta comience a aullar a
 
-travs del cordaje, lamentar no haber escuchado los dictados de la prudencia y
+través del cordaje, lamentará no haber escuchado los dictados de la prudencia y
 
 no haber estado mejor preparado para el arriesgado viaje de la vida.
 
-Bueno es tambin que los
+Bueno es también que los
 
-jvenes estamos hablando ahora acerca del significado natural del pasaje-
+jóvenes –estamos hablando ahora acerca del significado natural del pasaje-
 
 bueno es que enfrenten dificultades y
 
@@ -204,17 +204,17 @@ que nacen algunas personas es muy propensa a sofocarlos. Hay cientos de
 
 personas que nunca han sido capaces de hablar claro por esa terrible cuchara de
 
-plata. No es cualquiera el que se hace ms rico a la larga -aun simplemente en
+plata. No es cualquiera el que se hace más rico a la larga -aun simplemente en
 
-oro y plata- por haber comenzado con algn capital. Yo creo que generalmente se
+oro y plata- por haber comenzado con algún capital. Yo creo que generalmente se
 
-ver que los que enriquecieron por esfuerzo propio, segn se dice, vinieron a
+verá que los que enriquecieron “por esfuerzo propio”, según se dice, vinieron a
 
 Londres con media corona (30 centavos) en sus bolsillos; yo he notado que la
 
 cantidad con la que salen del hogar es de aproximadamente treinta centavos; y
 
-esa media corona se convierte en la base financiera de una fortuna. Algunos jvenes
+esa media corona se convierte en la base financiera de una fortuna. Algunos jóvenes
 
 que comienzan con miles de libras a menudo acaban absolutamente sin nada. Bueno
 
@@ -222,29 +222,29 @@ le es al hombre tener una dura batalla cuando la vida comienza, y que no sea
 
 colocado en el regazo de una refinada holgura ni que encuentre todo arreglado
 
-de acuerdo a su voluntad, pues no desarrollar nunca su msculo, ni nunca se
+de acuerdo a su voluntad, pues no desarrollará nunca su músculo, ni nunca se
 
-convertir en hombre a menos que tenga que realizar un duro trabajo. Esas
+convertirá en hombre a menos que tenga que realizar un duro trabajo. Esas
 
-largas horas, esa firme reflexin, esos huesos cansados, y todo eso de lo cual
+largas horas, esa firme reflexión, esos huesos cansados, y todo eso de lo cual
 
-los jvenes de hoy son muy propensos a quejarse, aunque no trabajan ni la mitad
+los jóvenes de hoy son muy propensos a quejarse, aunque no trabajan ni la mitad
 
-de duro que sus padres, ni ms de diez por ciento de lo duro que sus abuelos,
+de duro que sus padres, ni más de diez por ciento de lo duro que sus abuelos,
 
-todas esas cosas, dentro de razn y medida, ayudan a formar a los hombres, y yo
+todas esas cosas, dentro de razón y medida, ayudan a formar a los hombres, y yo
 
-solo espero que los tiempos ms fciles que ahora estn felizmente de moda no
+solo espero que los tiempos más fáciles que ahora están felizmente de moda no
 
-engendren una naturaleza ms blanda y menos viril en nuestros jvenes. Bueno le
+engendren una naturaleza más blanda y menos viril en nuestros jóvenes. Bueno le
 
 es al hombre llevar el yugo del trabajo, de la prueba y de la dificultad en su
 
-juventud, y si pudiramos levantar el yugo de sobre todo hombro cansado, no
+juventud, y si pudiéramos levantar el yugo de sobre todo hombro cansado, no
 
-sera sabio hacerlo. Muchos hombres que han tenido xito en la vida estn muy
+sería sabio hacerlo. Muchos hombres que han tenido éxito en la vida están muy
 
-agradecidos con Dios porque en sus aos mozos tuvieron que experimentar un poco
+agradecidos con Dios porque en sus ańos mozos tuvieron que experimentar un poco
 
 de pobreza y tuvieron que trabajar duro y esforzarse mucho, pues nunca hubieran
 
@@ -258,7 +258,7 @@ corresponde predicar acerca de estos asuntos de manera extensa. Yo no soy un
 
 conferencista moral, sino un ministro del Evangelio. He cumplido un deber al
 
-haber dado el primer significado del texto, y ahora voy a usarlo para fines ms
+haber dado el primer significado del texto, y ahora voy a usarlo para fines más
 
 nobles.
 
@@ -266,47 +266,47 @@ I.
 
 Ante
 
-todo, ES BUENO QUE SEAS UN CRISTIANO CUANDO ESTS JOVEN. Bueno le es al hombre
+todo, ES BUENO QUE SEAS UN CRISTIANO CUANDO ESTÁS JOVEN. Bueno le es al hombre
 
 llevar el yugo de Cristo en su juventud.
 
-No les pedir que me
+No les pediré que me
 
-perdonen si hablo aqu como alguien que lo ha probado y lo ha comprobado.
+perdonen si hablo aquí como alguien que lo ha probado y lo ha comprobado.
 
-Seguramente puedo hacerlo sin egosmo, pues no es de mi propio honor, sino del de
+Seguramente puedo hacerlo sin egoísmo, pues no es de mi propio honor, sino del de
 
-Dios, del que voy a hablar. De lo que el Seor ha obrado en m, de eso hablar.
+Dios, del que voy a hablar. De lo que el Seńor ha obrado en mí, de eso hablaré.
 
-Cuando tena quince aos fui conducido a conocer al Seor y a confesarle, y puedo
+Cuando tenía quince ańos fui conducido a conocer al Seńor y a confesarle, y puedo
 
-hablar por tanto como alguien que llev el yugo en su juventud y, jvenes, si
+hablar por tanto como alguien que llevó el yugo en su juventud y, jóvenes, si
 
-no pudiera dirigirme a ustedes de nuevo, me gustara decirles que ha sido bueno
+no pudiera dirigirme a ustedes de nuevo, me gustaría decirles que ha sido bueno
 
-para m. Ah, cun bueno, no podra decirles, pero fue tan bueno que deseo
+para mí. Ah, cuán bueno, no podría decirles, pero fue tan bueno que deseo
 
 sinceramente que cada uno de ustedes lleve el yugo de mi Maestro en su juventud;
 
-no podra desearles una mayor bendicin.
+no podría desearles una mayor bendición.
 
 Pues, vean, primero, que
 
-el hombre cuyo corazn es conquistado temprano por la gracia divina
+el hombre cuyo corazón es conquistado temprano por la gracia divina
 
 vive feliz pronto.
 
 Es una bendita
 
-oracin la del salmo, De maana scianos de tu misericordia, y cantaremos y
+oración la del salmo, “De mańana sácianos de tu misericordia, y cantaremos y
 
-nos alegraremos todos nuestros das. Si lo entendieran, muy pocas personas desearan
+nos alegraremos todos nuestros días”. Si lo entendieran, muy pocas personas desearían
 
-posponer la felicidad. Los corazones jvenes generalmente piden ser felices
+posponer la felicidad. Los corazones jóvenes generalmente piden ser felices
 
 ahora.
 
-Recibir el perdn del pecado es
+Recibir el perdón del pecado es
 
 ser liberado
 
@@ -314,69 +314,69 @@ ahora
 
 de lo que es la
 
-causa primordial de afliccin. Recibir por fe la justicia de Jesucristo es ser
+causa primordial de aflicción. Recibir por fe la justicia de Jesucristo es ser
 
 vestido con la paz ahora. Ser reconciliados con Dios es tener un manantial de
 
-consolacin en el interior de tu alma
+consolación en el interior de tu alma
 
 ahora.
 
-Saber que t eres un hijo de Dios es disfrutar del mayor gozo fuera del
+Saber que tú eres un hijo de Dios es disfrutar del mayor gozo fuera del
 
 cielo, y es disfrutarlo
 
 ahora.
 
-Quin
+żQuién
 
-deseara posponerlo? Los jvenes cristianos pueden morir, pero es de poca
+desearía posponerlo? Los jóvenes cristianos pueden morir, pero es de poca
 
-consecuencia si murieran, pues habiendo estado temprano en Cristo, estarn
+consecuencia si murieran, pues habiendo estado temprano en Cristo, estarán
 
-temprano en el cielo. Quin no deseara estar seguro tan pronto como le fuera
+temprano en el cielo. żQuién no desearía estar seguro tan pronto como le fuera
 
-posible? Quin no deseara estar a salvo tan pronto como le fuera posible?
+posible? żQuién no desearía estar a salvo tan pronto como le fuera posible?
 
-Quin deseara quedarse en la tierra de peligro, donde un punto en el tiempo,
+żQuién desearía quedarse en la tierra de peligro, donde un punto en el tiempo,
 
-el espacio de un momento podra encerrarle en el infierno? Estar protegidos de
+el espacio de un momento podría encerrarle en el infierno? ˇEstar protegidos de
 
-la ira venidera pronto dotados pronto con un sentido de seguridad en
+la ira venidera pronto –dotados pronto con un sentido de seguridad en
 
 Jesucristo- vamos, seguramente no se necesitan muchas palabras para demostrar
 
 que eso es bueno!
 
-Adems, si bien la temprana
+Además, si bien la temprana
 
 piedad trae una temprana felicidad, no se ha de olvidar que
 
 salva de mil trampas.
 
-Hay cosas que el
+ˇHay cosas que el
 
-hombre que ha vivido largamente en el pecado sabe, pero que deseara poder
+hombre que ha vivido largamente en el pecado sabe, pero que desearía poder
 
-olvidar! La gracia de Dios enjuaga tu boca despus de que has estado comiendo
+olvidar! La gracia de Dios enjuaga tu boca después de que has estado comiendo
 
 la fruta prohibida, pero el sabor es muy propenso a permanecer y a regresar. Canciones
 
-que son calumnias en contra de Dios y de la decencia, una vez odas, te
+que son calumnias en contra de Dios y de la decencia, una vez oídas, te
 
-atacarn en medio de una oracin; y palabras que, para poder olvidarlas,
+atacarán en medio de una oración; y palabras que, para poder olvidarlas,
 
-estaras dispuesto a perder tu memoria para lograrlo, invadirn tus momentos
+estarías dispuesto a perder tu memoria para lograrlo, invadirán tus momentos
 
-ms santos. Es una gran misericordia que aunque un hombre tenga setenta u
+más santos. ˇEs una gran misericordia que aunque un hombre tenga setenta u
 
-ochenta aos de edad, si cree en el Seor Jesucristo, ser salvo! Las
+ochenta ańos de edad, si cree en el Seńor Jesucristo, será salvo! Las
 
-misericordias de la hora undcima son muy dulces. Pero qu doble privilegio es
+misericordias de la hora undécima son muy dulces. Pero qué doble privilegio es
 
-ser enviado a trabajar en la via cuando el roco est todava en las hojas, y ser
+ser enviado a trabajar en la vińa cuando el rocío está todavía en las hojas, y ser
 
-guardado as de la ociosidad y de la maldad de la plaza donde otros holgazanean
+guardado así de la ociosidad y de la maldad de la plaza donde otros holgazanean
 
 durante tanto tiempo.
 
@@ -392,53 +392,53 @@ Le
 
 preserva de los grilletes de esa penosa esclavitud a la que muchos son llevados
 
-por hbitos adquiridos desde muy atrs y que estn profundamente arraigados. Pecados
+por hábitos adquiridos desde muy atrás y que están profundamente arraigados. Pecados
 
 largamente consentidos crecen hasta los hombros, y quitarlos es como arrancarse
 
-la piel. Jvenes, deben agradecer que el Salvador est dispuesto a recibirlos
+la piel. Jóvenes, deben agradecer que el Salvador esté dispuesto a recibirlos
 
-mientras son jvenes todava, y que les d la promesa: Me hallan los que
+mientras son jóvenes todavía, y que les dé la promesa: “Me hallan los que
 
-temprano me buscan. Dichosos los que hospedan al Redentor en la maana, y as
+temprano me buscan”. Dichosos los que hospedan al Redentor en la mańana, y así
 
-dejan fuera al espritu maligno a lo largo de todo el da.
+dejan fuera al espíritu maligno a lo largo de todo el día.
 
-Adems, hay otra cosa
+Además, hay otra cosa
 
 buena al respecto: que
 
-les da ms tiempo
+les da más tiempo
 
 para servir a Dios.
 
 Si yo fuera tomado al servicio de alguien a quien yo
 
-amara, yo querra cumplir para l un largo da de trabajo. Si yo supiera que
+amara, yo querría cumplir para él un largo día de trabajo. Si yo supiera que
 
-slo puedo trabajar para l un da, me esforzara por comenzar tan pronto como
+sólo puedo trabajar para él un día, me esforzaría por comenzar tan pronto como
 
-la parda luz de la alborada me permitiera ver, y continuara trabajando hasta
+la parda luz de la alborada me permitiera ver, y continuaría trabajando hasta
 
 la noche, alegremente activo, en tanto que hubiera una vacilante y tenue luz.
 
-Si eres convertido en una etapa avanzada de tu vida, slo puedes dar a nuestro
+Si eres convertido en una etapa avanzada de tu vida, sólo puedes dar a nuestro
 
-Seor Jess las sombras del atardecer. Bendito sea Su nombre porque l aceptar
+Seńor Jesús las sombras del atardecer. Bendito sea Su nombre porque Él aceptará
 
-el servicio ofrecido a la cada de la tarde; pero aun as, cunto mejor es poder
+el servicio ofrecido a la caída de la tarde; pero aun así, cuánto mejor es poder
 
-servir al Seor desde tu juventud, darle esos brillantes das cuando los
+servir al Seńor desde tu juventud, darle esos brillantes días cuando los
 
-pjaros cantan en el alma, cuando el sol est sin una nube y las sombras aun no
+pájaros cantan en el alma, cuando el sol está sin una nube y las sombras aun no
 
-caen; y luego darle la larga noche, cuando a la cada de la oscuridad, l la
+caen; y luego darle la larga noche, cuando a la caída de la oscuridad, Él la
 
 hace llevadera y hace que las debilidades de la edad manifiesten Su poder y Su
 
-fidelidad. No creo conocer una visin ms grandiosa que el servicio que ha
+fidelidad. No creo conocer una visión más grandiosa que el servicio que ha
 
-ofrecido al Seor Jess desde su juventud un hombre de cabellos canos.
+ofrecido al Seńor Jesús desde su juventud un hombre de cabellos canos.
 
 Y hay otra bondad
 
@@ -448,191 +448,191 @@ lo capacita a uno
 
 para estar bien plantado en las cosas divinas.
 
-Plantados en la casa de
+“Plantados en la casa de
 
-Jehov, en los atrios de nuestro Dios florecern. A un rbol transplantado le
+Jehová, en los atrios de nuestro Dios florecerán”. A un árbol transplantado le
 
-toma cierto tiempo echar races, pero cuando queda bien arraigado produce
+toma cierto tiempo echar raíces, pero cuando queda bien arraigado produce
 
-abundante fruto. Echar races en las cosas divinas toma tiempo; nada en el
+abundante fruto. Echar raíces en las cosas divinas toma tiempo; nada en el
 
 mundo de la gracia puede ser aprendido en diez minutos. Yo bendigo a Dios
 
-porque un hombre que ha credo en Jess slo un segundo es un hombre salvo,
+porque un hombre que ha creído en Jesús sólo un segundo es un hombre salvo,
 
-pero no es un hombre instruido, no es un hombre afirmado. No est adiestrado para
+pero no es un hombre instruido, no es un hombre afirmado. No está adiestrado para
 
 la batalla ni ha sido instruido para la labor. Cuando somos convertidos vamos a
 
-la escuela de Cristo, y nos sentamos a Sus pies y aprendemos de l. Ahora,
+la escuela de Cristo, y nos sentamos a Sus pies y aprendemos de Él. Ahora,
 
-quin es el mejor escolar? En igualdad de circunstancias, yo esperara comprobar
+żquién es el mejor escolar? En igualdad de circunstancias, yo esperaría comprobar
 
 que los mejores escolares son aquellos que llegan temprano. Los escolares que
 
-llegan a las once de la maana no aprenden mucho; los escolares que van en la
+llegan a las once de la mańana no aprenden mucho; los escolares que van en la
 
 noche, con un buen maestro y gran diligencia pueden captar algo, pero
 
-difcilmente captan lo mismo que aquellos que han asistido a la escuela todo el
+difícilmente captan lo mismo que aquellos que han asistido a la escuela todo el
 
-da. Oh, cun bendito es comenzar a conocer pronto a Cristo, porque entonces
+día. Oh, cuán bendito es comenzar a conocer pronto a Cristo, porque entonces
 
 pueden seguir comprendiendo con todos los santos las alturas y las profundidades
 
 de aquello que excede a todo conocimiento. No hay temor de que vayan a agotar
 
-este conocimiento; es tan infinitamente grande y bendito que si viviramos
+este conocimiento; es tan infinitamente grande y bendito que si viviéramos
 
-siete mil aos en el mundo, todava quedara por conocer ms de Cristo, y tendramos
+siete mil ańos en el mundo, todavía quedaría por conocer más de Cristo, y tendríamos
 
-que decir: Oh, las profundidades. No tenemos que tener miedo, por tanto, de
+que decir: “Oh, las profundidades”. No tenemos que tener miedo, por tanto, de
 
-que si somos convertidos cuando tenemos diez aos, o quince, o veinte aos de
+que si somos convertidos cuando tenemos diez ańos, o quince, o veinte ańos de
 
-edad, viviremos para agotar la frescura de la religin. Ah, no, la amaremos ms
+edad, viviremos para agotar la frescura de la religión. Ah, no, la amaremos más
 
-y la entenderemos mejor, y por la gracia de Dios la practicaremos ms
+y la entenderemos mejor, y por la gracia de Dios la practicaremos más
 
-plenamente conforme transcurran los aos. Por esto es tan bueno comenzar
+plenamente conforme transcurran los ańos. Por esto es tan bueno comenzar
 
 pronto.
 
-Y luego djenme decir
+Y luego déjenme decir
 
 que
 
-haberle entregado su corazn a Jess
+haberle entregado su corazón a Jesús
 
-cuando eran jvenes les dar mucha confianza en los aos por venir.
+cuando eran jóvenes les dará mucha confianza en los ańos por venir.
 
-Me alegra ver aqu a algunos
+Me alegra ver aquí a algunos
 
-muchachos y muchachas esta noche. Ahora, mis queridos nios, que Dios los
+muchachos y muchachas esta noche. Ahora, mis queridos nińos, que Dios los
 
-conserve para que lleguen a ser ancianos y ancianas, y cuando su cabello est
+conserve para que lleguen a ser ancianos y ancianas, y cuando su cabello esté
 
-gris y se estn debilitando y sepan que van a morir pronto, ser muy deleitable
+gris y se estén debilitando y sepan que van a morir pronto, será muy deleitable
 
-que sean capaces de decir: Oh, Seor, yo te he conocido desde mi juventud, y
+que sean capaces de decir: “Oh, Seńor, yo te he conocido desde mi juventud, y
 
-hasta aqu he declarado Tus portentosas obras. Ahora que soy anciano y tengo
+hasta aquí he declarado Tus portentosas obras. Ahora que soy anciano y tengo
 
-cabellos grises, oh Dios, no me abandones. Habr mucha fuerza en la peticin,
+cabellos grises, oh Dios, no me abandones”. Habrá mucha fuerza en la petición,
 
-pues si tenemos un siervo fiel no le echamos fuera cuando envejece. Ah dices
+pues si tenemos un siervo fiel no le echamos fuera cuando envejece. “Ah” –dices
 
-t- l no puede hacer mucho ahora. El anciano se est poniendo muy dbil, no
+tú- “él no puede hacer mucho ahora. El anciano se está poniendo muy débil, no
 
-puede ver ni or como sola hacerlo, y sus movimientos son lentos; pero, por
+puede ver ni oír como solía hacerlo, y sus movimientos son lentos”; pero, por
 
 otro lado, ves que el buen anciano ha estado con nuestra familia desde que era
 
-un muchacho, y crees t que vamos a prescindir de l ahora? No, el Seor no
+un muchacho, y żcrees tú que vamos a prescindir de él ahora? No, el Seńor no
 
-echar fuera a Sus viejos siervos. No les dir: He recibido lo mejor de
+echará fuera a Sus viejos siervos. No les dirá: “He recibido lo mejor de
 
-ustedes; me han dado sus aos jvenes, y me han dado su madurez, pero ahora
+ustedes; me han dado sus ańos jóvenes, y me han dado su madurez, pero ahora
 
-pueden salir a mendigar y tendrn que cuidarse solos. No, as es como podran
+pueden salir a mendigar y tendrán que cuidarse solos”. No, así es como podrían
 
 hablar el amalecita o el ismaelita, pero el Dios de Israel nunca desampara a Su
 
-pueblo. l dice: Y hasta la vejez yo mismo, y hasta las canas os soportar yo;
+pueblo. Él dice: “Y hasta la vejez yo mismo, y hasta las canas os soportaré yo;
 
-yo hice, yo llevar, yo soportar y guardar. Oh, ustedes que se han entregado
+yo hice, yo llevaré, yo soportaré y guardaré”. Oh, ustedes que se han entregado
 
-a Jess por medio de Su gracia rica y soberana cuando eran jvenes, yo s que
+a Jesús por medio de Su gracia rica y soberana cuando eran jóvenes, yo sé que
 
 ustedes sienten que este es un dulce argumento que pueden interponer con Dios:
 
-Ahora, Seor, no me desampares. Entonces, jvenes, si quieren guardar un precioso
+“Ahora, Seńor, no me desampares”. Entonces, jóvenes, si quieren guardar un precioso
 
-tesoro de consolacin cuando se oscurezcan los que miran por las ventanas
+tesoro de consolación cuando ‘se oscurezcan los que miran por las ventanas’
 
 (Ec. 12: 3), si quieren tener fuerza para el tiempo de debilidad, si quieren
 
-tener consuelo para el da cuando los endechadores anden alrededor por las
+tener consuelo para el día cuando ‘los endechadores anden alrededor por las
 
-calles (Ec. 12: 5), si, por encima de todo, quisieran tener apoyo cuando vayan
+calles’ (Ec. 12: 5), si, por encima de todo, quisieran tener apoyo cuando vayan
 
-a su hogar eterno, entrguense ahora a Jess. Oh, que esta sea la noche precisa
+a su hogar eterno, entréguense ahora a Jesús. Oh, que esta sea la noche precisa
 
-en que puedan encorvar sus hombros al fcil yugo del manso y humilde Salvador,
+en que puedan encorvar sus hombros al fácil yugo del manso y humilde Salvador,
 
-y as encontrarn descanso para sus almas.
+y así encontrarán descanso para sus almas.
 
 II.
 
 Ahora
 
-voy a darle otro significado al texto; que el Espritu Santo lo bendiga. En
+voy a darle otro significado al texto; que el Espíritu Santo lo bendiga. En
 
-segundo lugar, BUENO LES ES A LOS JVENES CRISTIANOS LLEVAR EL YUGO DE JESS.
+segundo lugar, BUENO LES ES A LOS JÓVENES CRISTIANOS LLEVAR EL YUGO DE JESÚS.
 
-Qu queremos decir con esto?
+żQué queremos decir con esto?
 
-Un buen nmero de
+Un buen número de
 
 ustedes han sido convertidos recientemente, y a ustedes me dirijo muy sinceramente.
 
-Ser por su bien mientras vivan que rindan una
+Será por su bien mientras vivan que rindan una
 
 completa obediencia desde el mero principio
 
-a Jess
+a Jesús
 
 .
 
 Me parece que algunos cristianos
 
-emprenden su camino a Canan de una manera completamente desordenada; no
+emprenden su camino a Canaán de una manera completamente desordenada; no
 
-comienzan su peregrinacin segn la prctica apropiada que siguen los
+comienzan su peregrinación según la práctica apropiada que siguen los
 
-peregrinos. Cuando es convertido, todo joven cristiano debera tomar tiempo
+peregrinos. Cuando es convertido, todo joven cristiano debería tomar tiempo
 
-para considerar y se debera decir: Qu debo hacer? Cul es el deber de un
+para considerar y se debería decir: “żQué debo hacer? żCuál es el deber de un
 
-cristiano? Tambin debera decirle devotamente al Seor Jess: Seor, mustrame
+cristiano?” También debería decirle devotamente al Seńor Jesús: “Seńor, muéstrame
 
-qu quieres que haga, y esperar la gua del Espritu Santo.
+qué quieres que haga”, y esperar la guía del Espíritu Santo.
 
-Dos jvenes fueron
+Dos jóvenes fueron
 
-convertidos a Dios no hace mucho tiempo; uno de ellos asista aqu, y el otro
+convertidos a Dios no hace mucho tiempo; uno de ellos asistía aquí, y el otro
 
-iba a otro lugar de adoracin. Hablaron entre s acerca de cul era la forma
+iba a otro lugar de adoración. Hablaron entre sí acerca de cuál era la forma
 
-correcta de confesar a Jesucristo: ellos no lo saban muy bien pero tenan la
+correcta de confesar a Jesucristo: ellos no lo sabían muy bien pero tenían la
 
-intencin de descubrirlo. Pidieron prestadas las llaves de una capilla
+intención de descubrirlo. Pidieron prestadas las llaves de una capilla
 
-independiente vecina, y entraron y pasaron algunas horas da tras da leyendo
+independiente vecina, y entraron y pasaron algunas horas día tras día leyendo
 
 juntos el Nuevo Testamento y buscando en cada pasaje que se refiere al
 
 bautismo. El resultado fue que ambos vinieron y fueron bautizados en este
 
-lugar. Yo deseara que todos los cristianos, al comenzar, miraran a esa
+lugar. Yo desearía que todos los cristianos, al comenzar, miraran a esa
 
-ordenanza, y a cada punto en disputa, y vieran cul es la mente de Dios al
+ordenanza, y a cada punto en disputa, y vieran cuál es la mente de Dios al
 
-respecto. Escudrien las Escrituras y vean por ustedes mismos. No digan: Yo he
+respecto. Escudrińen las Escrituras y vean por ustedes mismos. No digan: “Yo he
 
-estado siempre con los episcopalianos, y por tanto, yo debera hacer como hacen
+estado siempre con los episcopalianos, y por tanto, yo debería hacer como hacen
 
-en esa iglesia. O, yo he estado siempre con los bautistas, o con los
+en esa iglesia”. O, “yo he estado siempre con los bautistas”, o “con los
 
-wesleyanos. Mis queridos amigos, esas personas no pueden hacer reglas para
+wesleyanos”. Mis queridos amigos, esas personas no pueden hacer reglas para
 
-nosotros. He aqu nuestra gua: esta Biblia. Si yo quiero ir por tren, uso
+nosotros. He aquí nuestra guía: esta Biblia. Si yo quiero ir por tren, uso
 
-la Gua
+la Guía
 
 de Trenes Bradshaw y no
 
-confo en rumores; y si quiero ir al cielo tengo que seguir a
+confío en rumores; y si quiero ir al cielo tengo que seguir a
 
 la Biblia.
 
@@ -640,9 +640,9 @@ Hay
 
 otro libro al que
 
-la gente les pedir que presten atencin. Bien, no diremos nada en contra de
+la gente les pedirá que presten atención. Bien, no diremos nada en contra de
 
-ese libro, slo que no es
+ese libro, sólo que no es
 
 el
 
@@ -652,85 +652,85 @@ El
 
 libro es este volumen, la bendita
 
-Biblia. Deberan comenzar sintiendo esto, Mi Seor me ha salvado; yo soy Su
+Biblia. Deberían comenzar sintiendo esto, “Mi Seńor me ha salvado; yo soy Su
 
-siervo, y tengo la intencin de poner de inmediato sobre m Su yugo. En la
+siervo, y tengo la intención de poner de inmediato sobre mí Su yugo. En la
 
-medida que pueda, siempre har lo que l quiere que haga. Hay algunos pecados
+medida que pueda, siempre haré lo que Él quiere que haga. Hay algunos pecados
 
-en los que muy probablemente caer. Sin importar cunto vigile, algunas veces
+en los que muy probablemente caeré. Sin importar cuánto vigile, algunas veces
 
-tendr un desliz, pero aqu hay algunas cosas acerca de las cuales puedo estar
+tendré un desliz, pero aquí hay algunas cosas acerca de las cuales puedo estar
 
-bien, y voy a poner cuidado para estar bien respecto a ellas. Ahora, jvenes, si
+bien, y voy a poner cuidado para estar bien respecto a ellas”. Ahora, jóvenes, si
 
 ustedes comienzan a estudiar concienzudamente la palabra, y a desear poner sus pies
 
-donde Cristo puso Sus pies en todo, estoy seguro de que eso ser bueno para
+donde Cristo puso Sus pies en todo, estoy seguro de que eso será bueno para
 
-ustedes. Crecern hasta llegar a ser cristianos saludables, y hombres de una
+ustedes. Crecerán hasta llegar a ser cristianos saludables, y hombres de una
 
-estatura nada ordinaria. Pero si no comienzan escudriando la palabra sino que su
+estatura nada ordinaria. Pero si no comienzan escudrińando la palabra sino que su
 
-religin es de segunda mano ya que proviene de otras personas, y hacen lo que
+religión es de segunda mano ya que proviene de otras personas, y hacen lo que
 
-ven que hacen otras personas, sin escudriar, vamos, carecern de la noble
+ven que hacen otras personas, sin escudrińar, vamos, carecerán de la noble
 
-independencia mental y de valenta espiritual, y, al mismo tiempo, de esa
+independencia mental y de valentía espiritual, y, al mismo tiempo, de esa
 
-completa sumisin a Cristo que constituyen los principales elementos de un cristiano
+completa sumisión a Cristo que constituyen los principales elementos de un cristiano
 
 de noble mente.
 
-A continuacin, bueno le
+A continuación, bueno le
 
 es al hombre llevar el yugo desde su juventud, es decir, con el fin de
 
-alcanzar una clara instruccin en la verdad
+alcanzar una clara instrucción en la verdad
 
 divina.
 
-Debemos acudir al Seor Jesucristo para aprender de l, no
+Debemos acudir al Seńor Jesucristo para aprender de Él, no
 
-meramente acerca de ordenanzas y acciones, sino acerca de qu pensar y qu
+meramente acerca de ordenanzas y acciones, sino acerca de qué pensar y qué
 
-creer. Oh, cmo deseo que cada uno de nosotros hubiera podido comenzar, con
+creer. Oh, cómo deseo que cada uno de nosotros hubiera podido comenzar, con
 
 respecto a nuestros sentimientos doctrinales, presentando nuestras mentes a
 
-Cristo como una hoja de papel en blanco para que Su Santo Espritu escribiera
+Cristo como una hoja de papel en blanco para que Su Santo Espíritu escribiera
 
-all la verdad. Ay, comenzamos con muchas lneas escritas sobre nosotros por la
+allí la verdad. Ay, comenzamos con muchas líneas escritas sobre nosotros por la
 
 pluma del prejuicio. Querido amigo, si has sido convertido a Dios, debes sentarte
 
-ahora a los pies de Jess para aprender todo de l y no para llevarle tus
+ahora a los pies de Jesús para aprender todo de Él y no para llevarle tus
 
-puntos de vista. Estas son expresiones comunes: mis conceptos, y mis
+puntos de vista. Estas son expresiones comunes: “mis conceptos”, y “mis
 
-opiniones, y yo soy de tal persuasin. Amados, sean persuadidos por Cristo,
+opiniones”, y “yo soy de tal persuasión”. Amados, sean persuadidos por Cristo,
 
-pues esa es la nica persuasin que vale la pena seguir. Tomen sus
+pues esa es la única persuasión que vale la pena seguir. Tomen sus
 
 conceptos
 
-de l; no vale la pena tener
+de Él; no vale la pena tener
 
-ningn otro concepto de las cosas celestiales y eternas. Oh dice alguien-
+ningún otro concepto de las cosas celestiales y eternas. “Oh” –dice alguien-
 
-pero entonces pudiera ser que no sean
+“pero entonces pudiera ser que no sean
 
 tus
 
-conceptos. Precisamente as es, y yo no te pido que tomes mis conceptos;
+conceptos”. Precisamente así es, y yo no te pido que tomes mis conceptos;
 
 por otro lado, yo te exhorto delante de Dios que nunca creas nada porque yo lo
 
-diga, sino que nicamente escuches atentamente a mi Maestro, y que slo
+diga, sino que únicamente escuches atentamente a mi Maestro, y que sólo
 
 entregues tu fe al Libro infalible. Les instamos a esto porque, aun si creyeran
 
-en la verdad porque nosotros la decimos, no habran credo en ella de la manera
+en la verdad porque nosotros la decimos, no habrían creído en ella de la manera
 
 correcta. La verdad debe ser aceptada porque es
 
@@ -740,15 +740,15 @@ y porque la autoridad de Jesucristo
 
 les
 
-comprueba que es verdadera, no porque d la casualidad que
+comprueba que es verdadera, no porque dé la casualidad que
 
-algn pobre mortal que se pare a predicar posea autoridad para decidir sobre
+algún pobre mortal que se pare a predicar posea autoridad para decidir sobre
 
 tales cuestiones. Nosotros no tenemos ninguna autoridad para asegurar sobre
 
 nuestro propio
 
-ipse dixit, (l mismo lo
+ipse dixit, (él mismo lo
 
 dijo)
 
@@ -762,83 +762,83 @@ somos simplemente unas trompetas en los labios de Cristo cuando hablamos con
 
 poder; y algunas veces, ay, tocamos nuestras propias trompetas en vez de dejar
 
-que Jesucristo toque a travs de nosotros, y entonces somos peores que
+que Jesucristo toque a través de nosotros, y entonces somos peores que
 
-intiles. Los exhorto a que lleven el yugo en su juventud estudiando duro para
+inútiles. Los exhorto a que lleven el yugo en su juventud estudiando duro para
 
-conocer cul es el camino, y la verdad y la vida, de labios del propio Jesucristo,
+conocer cuál es el camino, y la verdad y la vida, de labios del propio Jesucristo,
 
-siendo enseados por el Espritu de Dios. Bueno es que hagan eso.
+siendo enseńados por el Espíritu de Dios. Bueno es que hagan eso.
 
-Bueno les es a los jvenes convertidos llevar el yugo comenzando pronto
+Bueno les es a los jóvenes convertidos llevar el yugo comenzando pronto
 
-a servir a Jess.
+a servir a Jesús.
 
-Me gusta ver que la madre, cuando trae a su pequeito
+Me gusta ver que la madre, cuando trae a su pequeńito
 
-a la casa de Dios, ponga un centavo en su mano y le ensee pronto a contribuir
+a la casa de Dios, ponga un centavo en su mano y le enseńe pronto a contribuir
 
 a la causa de Cristo; y cuando las personas son convertidas no hay nada como
 
 tener muy pronto algo que hacer. No se trata de que deban intentar hacer las
 
-grandes cosas que pertenecen a los ms avanzados e instruidos, pues respecto a
+grandes cosas que pertenecen a los más avanzados e instruidos, pues respecto a
 
-algunos de ellos debemos aplicar la regla, No un nefito, no sea que
+algunos de ellos debemos aplicar la regla, “No un neófito, no sea que
 
-envanecindose caiga en la condenacin del diablo. Pero cada creyente tiene
+envaneciéndose caiga en la condenación del diablo”. Pero cada creyente tiene
 
-algo que hacer en la via de Cristo. Hay trabajo para los nios, hay trabajo
+algo que hacer en la vińa de Cristo. Hay trabajo para los nińos, hay trabajo
 
-para los jvenes, hay trabajo para las mujeres, y es bueno comenzar pronto. El
+para los jóvenes, hay trabajo para las mujeres, y es bueno comenzar pronto. El
 
-Seor Jesucristo, a quien complaci tanto la blanca de la viuda, est muy
+Seńor Jesucristo, a quien complació tanto la blanca de la viuda, está muy
 
-complacido con el amor que siente un nio por l. Nosotros, los mayores, somos
+complacido con el amor que siente un nińo por Él. Nosotros, los mayores, somos
 
-muy propensos a pensar: qu puede hacer una niita por Jess? Oh, pero si
+muy propensos a pensar: “żqué puede hacer una nińita por Jesús?” Oh, pero si
 
-esa niita no hace nada por Jess ahora que es salva, es muy probable que
+esa nińita no hace nada por Jesús ahora que es salva, es muy probable que
 
-crezca y se convierta en una cristiana indolente, y no sirva al Seor como
+crezca y se convierta en una cristiana indolente, y no sirva al Seńor como
 
-debera hacerlo en los aos subsecuentes.
+debería hacerlo en los ańos subsecuentes.
 
-Saben? Me gusta ver los
+żSaben? Me gusta ver los
 
-arbolitos que ponen en los jardines, esas pequeas pirmides y otros rboles
+arbolitos que ponen en los jardines, esas pequeńas pirámides y otros árboles
 
-enanos; me gusta ver que aun desde el principio producen un pequeo fruto.
+enanos; me gusta ver que aun desde el principio producen un pequeńo fruto.
 
-Algunas veces creo que las peras, cuando slo hay una o dos de ellas en el rbol,
+Algunas veces creo que las peras, cuando sólo hay una o dos de ellas en el árbol,
 
-tienen un sabor mucho ms exquisito que las que estn en un rbol grande, que
+tienen un sabor mucho más exquisito que las que están en un árbol grande, que
 
 con demasiada frecuencia han perdido en calidad lo que han ganado en cantidad.
 
-Lo que es hecho para Jesucristo por jvenes cristianos, por cristianos dbiles,
+Lo que es hecho para Jesucristo por jóvenes cristianos, por cristianos débiles,
 
-por cristianos tmidos, tiene con frecuencia un sabor muy delicado y precioso
+por cristianos tímidos, tiene con frecuencia un sabor muy delicado y precioso
 
-para el paladar de Jess. Es bueno comenzar a servirle en nuestra juventud.
+para el paladar de Jesús. Es bueno comenzar a servirle en nuestra juventud.
 
-Ah dice alguien- yo
+“Ah” –dice alguien- “yo
 
-voy a comenzar cuando pueda predicar. Lo hars? Mejor sera que comenzaras
+voy a comenzar cuando pueda predicar”. żLo harás? Mejor sería que comenzaras
 
-escribindole una carta a ese joven amigo con quien fuiste a la escuela. Sera
+escribiéndole una carta a ese joven amigo con quien fuiste a la escuela. Sería
 
-mejor que comenzaras entregando un opsculo en algn rea, o que trataras de
+mejor que comenzaras entregando un opúsculo en algún área, o que trataras de
 
-hablar con alguna persona joven de tu propia edad. El orgullo te impulsar a desear
+hablar con alguna persona joven de tu propia edad. El orgullo te impulsará a desear
 
-ser grande, pero el amor por Jess te ensear que las cosas pequeas son
+ser grande, pero el amor por Jesús te enseńará que las cosas pequeńas son
 
-aceptables para l. Bueno les es a los jvenes varones bueno les es a las
+aceptables para Él. Bueno les es a los jóvenes varones –bueno les es a las
 
-jvenes damas- llevar el yugo del servicio tan pronto son convertidos a Dios.
+jóvenes damas- llevar el yugo del servicio tan pronto son convertidos a Dios.
 
-Es bueno tambin que
+Es bueno también que
 
 cuando comenzamos a servir a Dios llevemos el yugo en otro sentido, es decir,
 
@@ -846,67 +846,67 @@ encontrando dificultades.
 
 Si estuviera
 
-en mi poder hacer que el camino de servir a Cristo fuera muy fcil para cada
+en mi poder hacer que el camino de servir a Cristo fuera muy fácil para cada
 
-joven cristiano aqu presente, yo no lo hara. Si fuera posible hacer grata
+joven cristiano aquí presente, yo no lo haría. Si fuera posible hacer grata
 
-toda obra en la escuela dominical, yo no lo hara. Si fuera posible hacer que
+toda obra en la escuela dominical, yo no lo haría. Si fuera posible hacer que
 
-ponerse a predicar al aire libre fuera algo muy grato, no lo hara. Bueno les
+ponerse a predicar al aire libre fuera algo muy grato, no lo haría. Bueno les
 
-es a ustedes llevar el yugo. Bueno es que su servicio implique abnegacin y que
+es a ustedes llevar el yugo. Bueno es que su servicio implique abnegación y que
 
-pruebe su paciencia. Bueno es para ustedes que las nias no sean muy
+pruebe su paciencia. Bueno es para ustedes que las nińas no sean muy
 
-disciplinadas, y que los nios no sean muy dciles cuando los reciben en la
+disciplinadas, y que los nińos no sean muy dóciles cuando los reciben en la
 
 clase. Bueno es para ustedes que la multitud no se quede quieta ni que los
 
 escuche mansamente. Bueno es que los infieles les hagan preguntas feas mientras
 
-predican en la calle. Bueno es, lo s, que el joven ministro se encuentre con
+predican en la calle. Bueno es, lo sé, que el joven ministro se encuentre con
 
 miembros de la iglesia que sean curiosos, e incluso que se encuentre con un
 
-adversario que tenga la intencin de destituirlo. Bueno le es a un verdadero
+adversario que tenga la intención de destituirlo. Bueno le es a un verdadero
 
-obrero que el diablo se esfuerce por acabar con l, pues si Dios lo ha levantado,
+obrero que el diablo se esfuerce por acabar con él, pues si Dios lo ha levantado,
 
-no puede ser reprimido, pero el intento de vencerlo le har bien, desarrollar
+no puede ser reprimido, pero el intento de vencerlo le hará bien, desarrollará
 
-su msculo espiritual y sacar a relucir los poderes de su mente. Una senda muy
+su músculo espiritual y sacará a relucir los poderes de su mente. Una senda muy
 
-fcil no sera benfica para nosotros. Consideren a David despus de que Samuel
+fácil no sería benéfica para nosotros. Consideren a David después de que Samuel
 
-derram el leo sobre su cabeza y le ungi para que fuera el futuro rey de
+derramó el óleo sobre su cabeza y le ungió para que fuera el futuro rey de
 
-Jud; habra sido algo muy malo para l que hubiera esperado en una apacibilidad
+Judá; habría sido algo muy malo para él que hubiera esperado en una apacibilidad
 
 ignominiosa y que hubiera dormitado durante el intervalo. Pero tomen a David y
 
-envenlo al desierto para cuidar ovejas; llvenlo a la corte de Sal y que Sal
+envíenlo al desierto para cuidar ovejas; llévenlo a la corte de Saúl y que Saúl
 
-le arroje una jabalina; envenlo a pelear con Goliat; destirrenlo despus a
+le arroje una jabalina; envíenlo a pelear con Goliat; destiérrenlo después a
 
-los senderos de las cabras salvajes, y oblguenlo a vivir en las guaridas y en
+los senderos de las cabras salvajes, y oblíguenlo a vivir en las guaridas y en
 
-las cuevas y hganlo luchar por su vida, y mediante este proceso educarn a un
+las cuevas y háganlo luchar por su vida, y mediante este proceso educarán a un
 
-hroe apto para gobernar a Israel. l ya no viene al trono como un joven rubio
+héroe apto para gobernar a Israel. Él ya no viene al trono como un joven rubio
 
-sino como un hombre de guerra desde su juventud, y, por lo tanto, est listo
+sino como un hombre de guerra desde su juventud, y, por lo tanto, está listo
 
-para herir a los filisteos o a los hijos de Amn como el adalid del Seor de
+para herir a los filisteos o a los hijos de Amón como el adalid del Seńor de
 
-los Ejrcitos. Bueno es, entonces, llevar el yugo en el sentido de asumir el
+los Ejércitos. Bueno es, entonces, llevar el yugo en el sentido de asumir el
 
-servicio por Jess y encontrar dificultades en l.
+servicio por Jesús y encontrar dificultades en él.
 
 Y es bueno aun en otro
 
 sentido.
 
-Es bueno que enfrenten persecucin
+Es bueno que enfrenten persecución
 
 en su juventud.
 
@@ -916,113 +916,113 @@ el seno de una familia piadosa y no dejarlo entrar en el mundo del todo, sino
 
 conservarlo siempre en el regazo materno, si fuese posible tomar a cada obrero
 
-y garantizar que slo va a trabajar en una fbrica donde cantan salmos de la
+y garantizar que sólo va a trabajar en una fábrica donde cantan salmos de la
 
-maana a la noche, donde nadie maldice nunca, donde nadie expresa jams una
+mańana a la noche, donde nadie maldice nunca, donde nadie expresa jamás una
 
 palabra de burla en su contra, vamos, yo digo que si fuera posible hacer eso,
 
-no s si sera sabio hacerlo. Mantener a la gente fuera de la tentacin es algo
+no sé si sería sabio hacerlo. Mantener a la gente fuera de la tentación es algo
 
-sumamente adecuado, y ninguno de nosotros tiene ningn derecho de poner una
+sumamente adecuado, y ninguno de nosotros tiene ningún derecho de poner una
 
-tentacin en el camino de otro; pero es bueno que seamos tentados algunas
+tentación en el camino de otro; pero es bueno que seamos tentados algunas
 
-veces, pues de otra manera no conoceramos la condicin real de nuestros
+veces, pues de otra manera no conoceríamos la condición real de nuestros
 
-corazones, y pudiramos estar pudrindonos con un orgullo interior mientras
+corazones, y pudiéramos estar pudriéndonos con un orgullo interior mientras
 
-florecemos con una moralidad externa. La tentacin nos hace saber cun dbiles
+florecemos con una moralidad externa. La tentación nos hace saber cuán débiles
 
 somos, y hace que nos pongamos de rodillas. Prueba nuestra fe y prueba nuestro
 
-amor, y nos hace ver si nuestras gracias son genuinas o no. Cuando la religin
+amor, y nos hace ver si nuestras gracias son genuinas o no. Cuando la religión
 
 se pone sus zapatillas de plata y sale caminando con sus aretes de oro, a todo
 
-el mundo le encanta salir con ella, pero el cristiano honesto y sincero seguir
+el mundo le encanta salir con ella, pero el cristiano honesto y sincero seguirá
 
-la verdad de Jesucristo cuando va descalza a travs del cieno y del fangal, y
+la verdad de Jesucristo cuando va descalza a través del cieno y del fangal, y
 
-cuando sus vestidos han sido manchados por manos impas. En esto est la prueba
+cuando sus vestidos han sido manchados por manos impías. En esto está la prueba
 
-de lo verdadero y el desenmascaramiento de lo engaoso. No sera bueno que estemos
+de lo verdadero y el desenmascaramiento de lo engańoso. No sería bueno que estemos
 
-exentos de la persecucin, y de la calumnia y de la prueba; bueno le es al
+exentos de la persecución, y de la calumnia y de la prueba; bueno le es al
 
 hombre llevar este yugo en su juventud. Un cristiano es una planta resistente.
 
-Hace muchos aos trajeron a Inglaterra un alerce. El caballero que lo trajo lo
+Hace muchos ańos trajeron a Inglaterra un alerce. El caballero que lo trajo lo
 
-puso en su invernadero pero no se desarroll de una manera saludable. Era una
+puso en su invernadero pero no se desarrolló de una manera saludable. Era una
 
-cosa larguirucha, y entonces el jardinero, pensando que no poda hacer nada al
+cosa larguirucha, y entonces el jardinero, pensando que no podía hacer nada al
 
-respecto, lo arranc y lo arroj afuera en un muladar. All creci y se
+respecto, lo arrancó y lo arrojó afuera en un muladar. Allí creció y se
 
-convirti en un esplndido rbol pues haba encontrado la temperatura apropiada
+convirtió en un espléndido árbol pues había encontrado la temperatura apropiada
 
-para su naturaleza. El rbol estaba destinado a crecer cerca de la nieve; ama
+para su naturaleza. El árbol estaba destinado a crecer cerca de la nieve; ama
 
-los vientos fros y la intemperie pero haban estado haciendo que sudara hasta
+los vientos fríos y la intemperie pero habían estado haciendo que sudara hasta
 
 la muerte en un invernadero. Lo mismo sucede con el verdadero cristianismo.
 
 Raramente florece tan bien en medio de la comodidad y el lujo a como lo hace en
 
-la gran tribulacin. Los cristianos son con frecuencia mucho ms fuertes y mejores
+la gran tribulación. Los cristianos son con frecuencia mucho más fuertes y mejores
 
 cuando son
 
 arrojados donde no tienen
 
-ningn compaero cristiano ni estmulos benvolos. As como la libertad
+ningún compańero cristiano ni estímulos benévolos. Así como la libertad
 
-usualmente favorece a los rudos montaeses cuyos escarpados montes los han
+usualmente favorece a los rudos montańeses cuyos escarpados montes los han
 
-hecho valientes y resistentes, as visita la gracia abundante, como regla, a
+hecho valientes y resistentes, así visita la gracia abundante, como regla, a
 
-quienes experimentan la gran lucha de la afliccin y a travs de mucha
+quienes experimentan la gran lucha de la aflicción y a través de mucha
 
-tribulacin heredan el reino.
+tribulación heredan el reino.
 
-Adems, yo creo que
+Además, yo creo que
 
-bueno les es a los jvenes cristianos
+bueno les es a los jóvenes cristianos
 
 experimentar
 
 muchos problemas en el alma.
 
-Mis tempranos das de reflexin fueron das de
+Mis tempranos días de reflexión fueron días de
 
 amargura. Antes de que encontrara a un Salvador fui arado con el arado del
 
-subsuelo de terribles convicciones. Mes tras mes busqu pero no encontr
+subsuelo de terribles convicciones. Mes tras mes busqué pero no encontré
 
-ninguna esperanza. Conoc la plaga de mi corazn, el desesperado mal de mi
+ninguna esperanza. Conocí la plaga de mi corazón, el desesperado mal de mi
 
 naturaleza y en este momento tengo motivos para agradecer a Dios por esa larga
 
-estacin invernal. Estoy seguro de que fue buena para mi alma. Como regla
+estación invernal. Estoy seguro de que fue buena para mi alma. Como regla
 
-general hay un perodo de oscuridad en algn punto u otro de la vida cristiana:
+general hay un período de oscuridad en algún punto u otro de la vida cristiana:
 
 si lo tienes al principio es probable que no lo experimentes de nuevo; pero si no
 
-lo tienes al principio es muy probable que atravieses la nube en algn otro
+lo tienes al principio es muy probable que atravieses la nube en algún otro
 
-momento. Es bueno que se acabe. Bueno le es al hombre llevar el yugo desde su
+momento. Es bueno que se acabe. “Bueno le es al hombre llevar el yugo desde su
 
-juventud. Algunos amigos parecieran haber encontrado un obvio camino para ir
+juventud”. Algunos amigos parecieran haber encontrado un obvio camino para ir
 
 al cielo. Si el suyo es el camino correcto estoy seguro de que me deleita mucho,
 
-pero ms bien tengo mis dudas, pues me encuentro con quienes han probado el
+pero más bien tengo mis dudas, pues me encuentro con quienes han probado el
 
-tren elevado, y estn grandemente desanimados porque el tren no corre tan tersamente
+tren elevado, y están grandemente desanimados porque el tren no corre tan tersamente
 
-como se esperaba. Han estado viviendo una quincena completa bien, no
+como se esperaba. Han estado viviendo una quincena completa –bien, no
 
 enteramente
 
@@ -1032,11 +1032,11 @@ de ello. Han triunfado y vencido completamente, y se han elevado en un globo
 
 durante una quincena. Por supuesto que bajaron otra vez, y algunos descienden
 
-con una terrible cada. Los mejores de ellos vienen y dicen: Querido pastor,
+con una terrible caída. Los mejores de ellos vienen y dicen: “Querido pastor,
 
 temo que no soy un hijo de Dios. Me siento muy desventurado, y sin embargo, me
 
-senta muy feliz y muy santo. Yo les he dicho: S, te viste subiendo y por
+sentía muy feliz y muy santo”. Yo les he dicho: “Sí, te viste subiendo y por
 
 tanto tuviste que bajar. Si te hubieras
 
@@ -1044,35 +1044,35 @@ quedado
 
 abajo no hubieras tenido que
 
-descender.
+descender”.
 
-Me aterra, respecto a algunos jvenes, cuando ascienden en un globo hasta
+Me aterra, respecto a algunos jóvenes, cuando ascienden en un globo hasta
 
-las estrellas; yo deseara que continuaran sintiendo humildemente que no son
+las estrellas; yo desearía que continuaran sintiendo humildemente que no son
 
 nada y que no son nadie, y que Cristo lo es todo. En general es mucho mejor que
 
-un hombre sea tmido y que tiemble a que se vuelva pronto muy confiado en la
+un hombre sea tímido y que tiemble a que se vuelva pronto muy confiado en la
 
-vida. Bienaventurado el hombre que siempre teme a Dios es un texto
+vida. “Bienaventurado el hombre que siempre teme a Dios” es un texto
 
-escriturario no el miedo esclavo, ni tampoco un miedo que duda de Dios, pero
+escriturario –no el miedo esclavo, ni tampoco un miedo que duda de Dios, pero
 
-aun as un miedo. Hay un mundo de diferencia entre dudar de Dios y dudar de uno
+aun así un miedo. Hay un mundo de diferencia entre dudar de Dios y dudar de uno
 
-mismo; puedes tener todo lo que quieras de lo ltimo y aun puedes llegar a
+mismo; puedes tener todo lo que quieras de lo último y aun puedes llegar a
 
-desesperar de ti mismo, pero no hay ninguna razn por la que debas dudar del
+desesperar de ti mismo, pero no hay ninguna razón por la que debas dudar del
 
-Seor. Bueno le es al hombre llevar el yugo desde su juventud: ser conducido
+Seńor. “Bueno le es al hombre llevar el yugo desde su juventud”: ser conducido
 
 a sentir el peso del pecado, la mano castigadora de Dios, y quedarse dando
 
-voces en la oscuridad, diciendo: Quin me diera el saber dnde hallar a Dios!
+voces en la oscuridad, diciendo: “ˇQuién me diera el saber dónde hallar a Dios!
 
-Yo ira hasta su silla. Estas pruebas severas prestan un servicio esencial
+Yo iría hasta su silla”. Estas pruebas severas prestan un servicio esencial
 
-para el creyente recin nacido, y le preparan tanto para los disfrutes como
+para el creyente recién nacido, y le preparan tanto para los disfrutes como
 
 para las aflicciones de su carrera espiritual.
 
@@ -1080,255 +1080,255 @@ III.
 
 Voy a concluir con este
 
-ltimo encabezado. Hermanos y hermanas, prcticamente TODOS NOSOTROS SOMOS
+último encabezado. Hermanos y hermanas, prácticamente TODOS NOSOTROS SOMOS
 
-JVENES. Veo algunas cabezas con cabellos grises y veo a algunos calvos por
+JÓVENES. Veo algunas cabezas con cabellos grises y veo a algunos calvos por
 
-aqu, y sin embargo, pertenecen a personas menores de edad. Mi querido hermano,
+aquí, y sin embargo, pertenecen a personas menores de edad. Mi querido hermano,
 
-aunque tengas setenta aos o ms, con todo, no has alcanzado la mayora de edad
+aunque tengas setenta ańos o más, con todo, no has alcanzado la mayoría de edad
 
-en el reino celestial, pues si fueras mayor de edad ya tendras tus posesiones.
+en el reino celestial, pues si fueras mayor de edad ya tendrías tus posesiones.
 
-Ninguno de nosotros alcanzar la mayora de edad mientras no entremos en el
+Ninguno de nosotros alcanzará la mayoría de edad mientras no entremos en el
 
-cielo. Todava estamos bajo tutores y ayos porque aun ahora somos como niitos.
+cielo. Todavía estamos bajo tutores y ayos porque aun ahora somos como nińitos.
 
-No hemos llegado a ese perodo en el que seremos aptos para disfrutar de todas
+No hemos llegado a ese período en el que seremos aptos para disfrutar de todas
 
-las dichas del cielo, pues si lo furamos, seramos trasladados a la casa de
+las dichas del cielo, pues si lo fuéramos, seríamos trasladados a la casa de
 
-nuestro Padre para gozar de inmediato de nuestra herencia. Todava estamos en
+nuestro Padre para gozar de inmediato de nuestra herencia. Todavía estamos en
 
 nuestra juventud. Bien, bueno nos es llevar el yugo en el presente, y continuar
 
-llevndolo todava. Bueno es, mi querido hermano, que nosotros que hemos
+llevándolo todavía. Bueno es, mi querido hermano, que nosotros que hemos
 
-recorrido alguna distancia en el camino al cielo tengamos todava alguna carga
+recorrido alguna distancia en el camino al cielo tengamos todavía alguna carga
 
-que llevar porque nos capacita para honrar a Cristo todava. Si no sufrimos con
+que llevar porque nos capacita para honrar a Cristo todavía. Si no sufrimos con
 
-l, cmo podemos tener compaerismo con l? Si no tenemos que llevar ninguna
+Él, żcómo podemos tener compańerismo con Él? Si no tenemos que llevar ninguna
 
-cruz, cmo podemos tener comunin con nuestro Seor, el principal portador de
+cruz, żcómo podemos tener comunión con nuestro Seńor, el principal portador de
 
-la cruz? Alegrmonos de no ser liberados de la tribulacin, de que no seamos
+la cruz? Alegrémonos de no ser liberados de la tribulación, de que no seamos
 
-protegidos de la afliccin, sino que se nos permita glorificar a Dios mediante
+protegidos de la aflicción, sino que se nos permita glorificar a Dios mediante
 
-la paciencia, mediante la resignacin y mediante una fe inconmovible. No le
+la paciencia, mediante la resignación y mediante una fe inconmovible. No le
 
-pidas al Seor que no tengas ningn problema, sino recuerda ms bien que slo
+pidas al Seńor que no tengas ningún problema, sino recuerda más bien que sólo
 
-tienes un poco de tiempo en el cual puedes ser paciente, slo un poco de tiempo
+tienes un poco de tiempo en el cual puedes ser paciente, sólo un poco de tiempo
 
 en el que puedes llevar una cruz, y por tanto, te incumbe usar bien cada
 
-momento. Unos cuantos soles giratorios ms y estars donde no habr que llevar
+momento. Unos cuantos soles giratorios más y estarás donde no habrá que llevar
 
-ninguna cruz, donde no habr que enfrentar ninguna afliccin, y, por tanto,
+ninguna cruz, donde no habrá que enfrentar ninguna aflicción, y, por tanto,
 
-donde no habr ningn espacio para la paciencia y ninguna oportunidad de
+donde no habrá ningún espacio para la paciencia y ninguna oportunidad de
 
-resignarse a la voluntad divina. Contntate con llevar el yugo ahora, pues slo
+resignarse a la voluntad divina. Conténtate con llevar el yugo ahora, pues sólo
 
-se trata de un poco de tiempo y despus ya no tendrs ms ese honor.
+se trata de un poco de tiempo y después ya no tendrás más ese honor.
 
-Bueno tambin nos es a
+Bueno también nos es a
 
-todos nosotros llevar el yugo, porque as
+todos nosotros llevar el yugo, porque así
 
 mantenemos
 
-al viejo Adn bajo control.
+al viejo Adán bajo control.
 
-Ese viejo Adn es algo maravillosamente vivaz.
+Ese viejo Adán es algo maravillosamente vivaz.
 
-Se ha reportado que ha muerto una gran cantidad de veces, pero yo s con
+Se ha reportado que ha muerto una gran cantidad de veces, pero yo sé con
 
-certeza que todava est lleno de vitalidad. Cuando tenemos problemas, el viejo
+certeza que todavía está lleno de vitalidad. Cuando tenemos problemas, el viejo
 
-y altanero Adn a menudo pareciera estar callado y no tiene mucho xito para
+y altanero Adán a menudo pareciera estar callado y no tiene mucho éxito para
 
 impedir que oremos y, por consiguiente, en tiempos de problemas, a menudo disfrutamos
 
-de nuestros momentos de devocin ms dulces. Por la bondad del Seor escapamos
+de nuestros momentos de devoción más dulces. Por la bondad del Seńor escapamos
 
-de la tribulacin, pero, ay, el viejo Adn levanta pronto su altiva cabeza de
+de la tribulación, pero, ay, el viejo Adán levanta pronto su altiva cabeza de
 
-nuevo. Dice: Ah, t eres un favorito del cielo y tu monte permanece firme. Tu
+nuevo. Dice: “Ah, tú eres un favorito del cielo y tu monte permanece firme. Tu
 
-afliccin ha sido santificada para ti y has crecido en gracia muy sorprendentemente.
+aflicción ha sido santificada para ti y has crecido en gracia muy sorprendentemente.
 
-El hecho es que t eres un individuo muy excelente. S, esa es la manera del
+El hecho es que tú eres un individuo muy excelente”. Sí, esa es la manera del
 
-viejo Adn, y siempre que ve una oportunidad regresa a su antiguo juego
+viejo Adán, y siempre que ve una oportunidad regresa a su antiguo juego
 
-adulatorio. Siempre que seas tentado a ser vano debes decirte: Yo te conozco,
+adulatorio. Siempre que seas tentado a ser vano debes decirte: “Yo te conozco,
 
-viejo Adn. Yo te conozco, y no voy a ceder a tus astutas estratagemas. Qu
+viejo Adán. Yo te conozco, y no voy a ceder a tus astutas estratagemas”. żQué
 
 sucede cuando nos volvemos presumidos? Vamos, el yugo regresa pesadamente a
 
-nuestros hombros otra vez. Caemos en otro problema, y entonces el viejo Adn
+nuestros hombros otra vez. Caemos en otro problema, y entonces el viejo Adán
 
-est sobre los estribos de nuevo, y comienza a refunfuar y a rebelarse. La
+está sobre los estribos de nuevo, y comienza a refunfuńar y a rebelarse. La
 
 carne comienza a desesperar orgullosamente mientras que un poco de tiempo antes
 
-se jactaba. En las manos del Espritu las pruebas son de una gran ayuda para
+se jactaba. En las manos del Espíritu las pruebas son de una gran ayuda para
 
-vencer a las corrupciones. Es un asunto muy difcil que un hombre sea rico y
+vencer a las corrupciones. Es un asunto muy difícil que un hombre sea rico y
 
-que prospere en este mundo, que est tranquilo y goce de un largo periodo de
+que prospere en este mundo, que esté tranquilo y goce de un largo periodo de
 
 salud y que todo le salga a pedir de boca, y sin embargo, que sea un cristiano.
 
-Cuando el camino est muy allanado muchos caen, pero cuando el camino es spero
+Cuando el camino está muy allanado muchos caen, pero cuando el camino es áspero
 
 hay un buen apoyo para los pies, y es menos que probable que tropecemos. Cuando
 
 las tribulaciones llegan nos azotan para que regresemos a casa, a nuestro Padre
 
-celestial. Las ovejas no se descarran tanto cuando el perro negro va tras
+celestial. Las ovejas no se descarrían tanto cuando el perro negro va tras
 
-ellas; sus ladridos las hacen correr hacia el pastor. La afliccin es el perro
+ellas; sus ladridos las hacen correr hacia el pastor. La aflicción es el perro
 
-negro del Buen Pastor que nos lleva de regreso a l, pues de otra manera nos
+negro del Buen Pastor que nos lleva de regreso a Él, pues de otra manera nos
 
-extraviaramos para nuestra ruina. Nosotros no somos mejores que David y
+extraviaríamos para nuestra ruina. Nosotros no somos mejores que David y
 
-podemos confesar honestamente como l lo hizo: Antes que fuera yo humillado,
+podemos confesar honestamente como él lo hizo: “Antes que fuera yo humillado,
 
-descarriado andaba; mas ahora guardo tu palabra. Por lo tanto bueno nos es a
+descarriado andaba; mas ahora guardo tu palabra”. Por lo tanto bueno nos es a
 
-nosotros, los que somos jvenes espiritualmente aunque seamos viejos segn la
+nosotros, los que somos jóvenes espiritualmente aunque seamos viejos según la
 
-carne, llevar el yugo mientras nos encontramos todava en nuestra juventud.
+carne, llevar el yugo mientras nos encontramos todavía en nuestra juventud.
 
-Adems, queridos amigos,
+Además, queridos amigos,
 
-haber conocido la afliccin nos hace muy
+haber conocido la aflicción nos hace muy
 
-tiles
+útiles
 
 para otros
 
-. No veo cmo podemos identificarnos con otros si nosotros mismos
+. No veo cómo podemos identificarnos con otros si nosotros mismos
 
 no somos probados nunca. Yo conozco a un amado hermano que tiene tal vez
 
-cincuenta aos de edad, que no se haba enfermado ni un solo da, y l me dijo
+cincuenta ańos de edad, que no se había enfermado ni un solo día, y él me dijo
 
-que casi no saba lo que era el dolor fsico excepto cuando una persona pesada
+que casi no sabía lo que era el dolor físico excepto cuando una persona pesada
 
-le pis los dedos de los pies. Bien, l ahora es un buen hermano, pero cuando
+le pisó los dedos de los pies. Bien, él ahora es un buen hermano, pero cuando
 
 trata de identificarse con alguien es como si fuera un elefante recogiendo un
 
-alfiler, o Hrcules con una rueca; lo hace en efecto, pero es una cosa ante la
+alfiler, o Hércules con una rueca; lo hace en efecto, pero es una cosa ante la
 
-cual hay que asombrarse. Si le dices que ests abatido, l te mira y trata de
+cual hay que asombrarse. Si le dices que estás abatido, él te mira y trata de
 
-decirte cosas muy amables, pero no entiende tu abatimiento. Ahora, sera una
+decirte cosas muy amables, pero no entiende tu abatimiento. Ahora, sería una
 
-gran lstima que un ministro cristiano careciera del poder de identificarse con
+gran lástima que un ministro cristiano careciera del poder de identificarse con
 
-los dems, no es cierto? Oh, den gracias a Dios por los problemas, porque
+los demás, żno es cierto? Oh, den gracias a Dios por los problemas, porque
 
-enternecen el corazn y ensean a los labios el arte de la consolacin. En
+enternecen el corazón y enseńan a los labios el arte de la consolación. En
 
-ausencia de problemas, t podras ser un Boanerges, pero no puedes ser nunca un
+ausencia de problemas, tú podrías ser un Boanerges, pero no puedes ser nunca un
 
-Bernab; podras ser un hijo del trueno, pero no sers nunca un hijo de la
+Bernabé; podrías ser un hijo del trueno, pero no serás nunca un hijo de la
 
-consolacin. Como deseamos servir a otros, demos gracias a Dios porque l nos
+consolación. Como deseamos servir a otros, demos gracias a Dios porque Él nos
 
 capacita para hacerlo haciendo que llevemos el yugo en nuestra juventud.
 
-Adems, acaso no es
+Además, żacaso no es
 
-bueno llevar el yugo mientras estamos aqu
+bueno llevar el yugo mientras estamos aquí
 
 ya
 
-que har mucho ms dulce el cielo?
+que hará mucho más dulce el cielo?
 
-Oh, cun dulce ser el cielo para esa
+ˇOh, cuán dulce será el cielo para esa
 
-mujer postrada en su lecho, que ha yacido estos veinte aos en su desvencijada
+mujer postrada en su lecho, que ha yacido estos veinte ańos en su desvencijada
 
 cama, y que casi no ha tenido ni una sola noche de descanso ininterrumpido!
 
-Qu descanso ser el cielo para ella! Yo conozco a un buen varn que vive a
+ˇQué descanso será el cielo para ella! Yo conozco a un buen varón que vive a
 
 menos de dos millas de este lugar, que ha estado postrado sin poder moverse durante
 
-dieciocho aos. No conozco a un hombre ms feliz que l. Es una delicia verle;
+dieciocho ańos. No conozco a un hombre más feliz que él. Es una delicia verle;
 
-pero, aun as, qu cambio ser para l pasar de ese lecho del que no puede
+pero, aun así, qué cambio será para él pasar de ese lecho del que no puede
 
 levantarse a estar sobre el mar de cristal y ondear para siempre la rama de
 
-palma, y extraer msica del arpa celestial. Qu transformacin ser! Cun
+palma, y extraer música del arpa celestial. ˇQué transformación será! ˇCuán
 
-grande ser el cambio para una pobre mujer cristiana que est muriendo en un
+grande será el cambio para una pobre mujer cristiana que está muriendo en un
 
-asilo para indigentes cuando sea transportada por ngeles al seno de Abraham! Qu
+asilo para indigentes cuando sea transportada por ángeles al seno de Abraham! ˇQué
 
-cambio ser para el mrtir que est quemndose lentamente hasta morir en la
+cambio será para el mártir que está quemándose lentamente hasta morir en la
 
-hoguera, pero que luego se levantar para contemplar la gloria de su Seor! Qu
+hoguera, pero que luego se levantará para contemplar la gloria de su Seńor! ˇQué
 
-cambio ser para ti, mi viejo y querido amigo, con todos esos dolores y
+cambio será para ti, mi viejo y querido amigo, con todos esos dolores y
 
-achaques que hay en ti que te hacen sentir incmodo aun cuando ests sentado
+achaques que hay en ti que te hacen sentir incómodo aun cuando estás sentado
 
-aqu! Ah, amigo de canosa barba, pronto sers joven. No habr arrugas en tu
+aquí! Ah, amigo de canosa barba, pronto serás joven. No habrá arrugas en tu
 
-frente. No vas a requerir esos anteojos; no vas a necesitar ese bastn sobre el
+frente. No vas a requerir esos anteojos; no vas a necesitar ese bastón sobre el
 
-cual te apoyas; t sers tan fuerte como el ms joven aqu presente. Cuando ests
+cual te apoyas; tú serás tan fuerte como el más joven aquí presente. Cuando estés
 
-ante el trono de Dios difcilmente reconocers ser la misma anciana mujer que
+ante el trono de Dios difícilmente reconocerás ser la misma anciana mujer que
 
-solas ser, o el mismo hombre enfermizo que fuiste hace poco tiempo. Sers
+solías ser, o el mismo hombre enfermizo que fuiste hace poco tiempo. Serás
 
-desvestido de la casa de arcilla, y tu joven alma saltar a lo alto desde el
+desvestido de la casa de arcilla, y tu joven alma saltará a lo alto desde el
 
-viejo cuerpo y estar presente con el Seor; y entonces el sepulcro ser un
+viejo cuerpo y estará presente con el Seńor; y entonces el sepulcro será un
 
-crisol en el que la escoria de la carne ser consumida; y despus de algn
+crisol en el que la escoria de la carne será consumida; y después de algún
 
-tiempo tu cuerpo se levantar, y ya no estar ni viejo, ni demacrado, ni
+tiempo tu cuerpo se levantará, y ya no estará ni viejo, ni demacrado, ni
 
-gastado, sino que estar lleno de belleza como el cuerpo glorioso de tu
+gastado, sino que estará lleno de belleza como el cuerpo glorioso de tu
 
 Maestro. Esto debe darte gozo en todo momento; debe ser bueno que lleves el
 
-yugo, viendo que por ese medio el cielo ser hecho ms plenamente cielo para ti
+yugo, viendo que por ese medio el cielo será hecho más plenamente cielo para ti
 
 una vez que alcances su descanso eterno.
 
-El camino puede ser spero, pero no puede ser largo;
+“El camino puede ser áspero, pero no puede ser largo;
 
-As que allanmoslo con esperanza, y animmoslo con cantos.
+Así que allanémoslo con esperanza, y animémoslo con cantos”.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lamentaciones 5.
+del sermón: Lamentaciones 5.
 
 Nota del traductor:
 
-1) Alerce: rbol pinceo
+1) Alerce: árbol pináceo
 
 de tronco recto y liso, ramas abiertas y hojas blandas de color verde claro.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 23/Enero/2013
 

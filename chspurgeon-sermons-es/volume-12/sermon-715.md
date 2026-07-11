@@ -1,6 +1,6 @@
 # Sermón 715 | Sermón 715
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 El Pan de los Hijos echado a los
 
@@ -8,27 +8,27 @@ Perrillos
 
 NO. 715
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 14 DE OCTUBRE DE 1866
+MAŃANA DEL DOMINGO 14 DE OCTUBRE DE 1866
 
-EN EL TABERNCULO
+EN ‘EL TABERNÁCULO
 
-LIBRE, EN NOTTING HILL.
+LIBRE’, EN NOTTING HILL.
 
-Y ella dijo:
+“Y ella dijo:
 
-S, Seor; pero aun los perrillos comen de las migajas que caen de la mesa de
+Sí, Seńor; pero aun los perrillos comen de las migajas que caen de la mesa de
 
-sus amos. Mateo 15: 27.
+sus amos”. Mateo 15: 27.
 
 En este relato se nos presenta el cuadro de un
 
-alma para la cual est reservada una segura bendicin. Si la historia
+alma para la cual está reservada una segura bendición. Si la historia
 
-concluyera omitiendo el ltimo versculo, uno tendra bastante certeza sobre
+concluyera omitiendo el último versículo, uno tendría bastante certeza sobre
 
-cul sera el resultado de la splica de la mujer. Cristo tendra que cambiar
+cuál sería el resultado de la súplica de la mujer. Cristo tendría que cambiar
 
 Su naturaleza si una persona que viniera, como se nos dice que vino esa mujer,
 
@@ -36,143 +36,143 @@ fuera enviada de regreso sin una respuesta. Voy a bosquejar el cuadro de esta
 
 mujer con unas cuantas pinceladas, y les voy a pedir que verifiquen si se
 
-asemejan a ella, pues, si as fuera, sera una evidencia de que el tiempo de su
+asemejan a ella, pues, si así fuera, sería una evidencia de que el tiempo de su
 
-favor, s, el tiempo establecido, ha llegado para ustedes.
+favor, sí, el tiempo establecido, ha llegado para ustedes.
 
-Esta mujer tena
+Esta mujer tenía
 
 una grande y apremiante necesidad.
 
 Su hija era atormentada por un
 
-demonio, y no poda soportar ver el suplicio que ese espritu maligno provocaba
+demonio, y no podía soportar ver el suplicio que ese espíritu maligno provocaba
 
 en su hija; el dolor y la angustia, el delirio y el horror en los que la
 
 muchacha estaba sumida, eran demasiado para soportarse. Su necesidad era
 
-consciente, perturbadora y gravosa; la haba conducido a la desesperacin; ella
+consciente, perturbadora y gravosa; la había conducido a la desesperación; ella
 
-tena que
+tenía que
 
-librarse de esa situacin.
+librarse de esa situación.
 
-Sucede lo mismo contigo, querido oyente? Te
+żSucede lo mismo contigo, querido oyente? żTe
 
-atormenta el pecado? Acaso tu transgresin te persigue como una ofensa continua?
+atormenta el pecado? żAcaso tu transgresión te persigue como una ofensa continua?
 
-Te tortura da y noche hasta llegar al punto de que ya no puedes vivir sin el
+żTe tortura día y noche hasta llegar al punto de que ya no puedes vivir sin el
 
-perdn, de que has de ser perdonado o seras conducido a la locura? Sientes que
+perdón, de que has de ser perdonado o serías conducido a la locura? żSientes que
 
-las cosas han llegado al punto para ti en que no puedes vivir ms bajo la sentencia
+las cosas han llegado al punto para ti en que no puedes vivir más bajo la sentencia
 
-de la ira divina? Esta es una seal muy bendita y esperanzadora. Si hay muchas
+de la ira divina? Esta es una seńal muy bendita y esperanzadora. Si hay muchas
 
-personas aqu presentes en tal condicin, entonces hay una msica reservada
+personas aquí presentes en tal condición, entonces hay una música reservada
 
-para los ngeles.
+para los ángeles.
 
-Cuando el caso de la mujer haba alcanzado ese
+Cuando el caso de la mujer había alcanzado ese
 
-punto crtico,
+punto crítico,
 
-oy hablar del Seor Jess
+oyó hablar del Seńor Jesús
 
-y actu con base en lo que oy.
+y actuó con base en lo que oyó.
 
-Le haban dicho que Jess era un grandioso
+Le habían dicho que Jesús era un grandioso
 
 sanador de los enfermos, y que era capaz de echar fuera a los demonios. Ella no
 
-se content con esa informacin, sino que puso manos a la obra de inmediato
+se contentó con esa información, sino que puso manos a la obra de inmediato
 
-para comprobar su valor. Acudi Jess con presteza: habiendo encontrado el
+para comprobar su valor. Acudió Jesús con presteza: habiendo encontrado el
 
-momento oportuno, pues l pasaba cerca de su tierra, se apresur y dio voces
+momento oportuno, pues Él pasaba cerca de su tierra, se apresuró y dio voces
 
-delante de l.
+delante de Él.
 
-Ah, querido oyente, t tambin has odo hablar
+ˇAh, querido oyente, tú también has oído hablar
 
-de Jess! No voy a preguntarte si conoces la doctrina de Su Deidad y de Su
+de Jesús! No voy a preguntarte si conoces la doctrina de Su Deidad y de Su
 
-humanidad y de Su expiacin por el pecado, pues las conoces bien; pero las has
+humanidad y de Su expiación por el pecado, pues las conoces bien; żpero las has
 
-puesto a prueba? T entiendes que salva a las almas, pero, le has llevado tu
+puesto a prueba? Tú entiendes que salva a las almas, pero, żle has llevado tu
 
 propia alma para que la salve? Sabes que puede perdonar el pecado,
 
-y lo miras ahora para que perdone
+y żlo miras ahora para que perdone
 
 tu
 
-pecado? Si es as, aunque todava
+pecado? Si es así, aunque todavía
 
-permanezcas en sombra de muerte, la hora de tu liberacin se aproxima con
+permanezcas en sombra de muerte, la hora de tu liberación se aproxima con
 
 presteza, pues el alma que bajo un sentido de necesidad busca honestamente el
 
-rostro del Salvador, no est lejos del reino del cielo.
+rostro del Salvador, no está lejos del reino del cielo.
 
 Aquella mujer estaba
 
 extremadamente resuelta.
 
-Ella haba decidido, creo yo, que no
+Ella había decidido, creo yo, que no
 
-regresara nunca al lugar de donde haba salido sin recibir la bendicin.
+regresaría nunca al lugar de donde había salido sin recibir la bendición.
 
-Seguira las pisadas del Salvador y le acechara; si los discpulos le
+Seguiría las pisadas del Salvador y le acecharía; si los discípulos le
 
-impidieran el paso, esperara hasta tener otra oportunidad; si no tena xito
+impidieran el paso, esperaría hasta tener otra oportunidad; si no tenía éxito
 
-entonces, esperara la siguiente ocasin, y si eso no bastara, se aventurara
+entonces, esperaría la siguiente ocasión, y si eso no bastara, se aventuraría
 
-de nuevo otra vez. Ella fue probada con dureza por el Salvador, pues l prueba
+de nuevo otra vez. Ella fue probada con dureza por el Salvador, pues Él prueba
 
 algunas veces a quienes sabe que son lo suficientemente fuertes para resistir
 
-la prueba, y cuando la mujer no obtuvo ninguna respuesta suya, y ms bien
+la prueba, y cuando la mujer no obtuvo ninguna respuesta suya, y más bien
 
-recibi un desaire, no se amilan para nada sino que insisti en su demanda,
+recibió un desaire, no se amilanó para nada sino que insistió en su demanda,
 
-pues estaba profundamente embebida del espritu del himno:
+pues estaba profundamente embebida del espíritu del himno:
 
-Resuelto,
+“Resuelto,
 
-pues esa es mi ltima defensa,
+pues esa es mi última defensa,
 
 Aunque corra
 
-el peligro de morir.
+el peligro de morir”.
 
-Si hubiese aqu presente algn alma que ha
+Si hubiese aquí presente algún alma que ha
 
-llegado hasta este punto: que nunca renunciar a orar hasta no recibir una respuesta
+llegado hasta este punto: que nunca renunciará a orar hasta no recibir una respuesta
 
-consolatoria, que nunca cesar de llorar por el pecado hasta que la sangre la
+consolatoria, que nunca cesará de llorar por el pecado hasta que la sangre la
 
-limpie, entonces regocjense, oh cielos, y algrate, oh tierra, pues quiere
+limpie, entonces regocíjense, oh cielos, y alégrate, oh tierra, pues quiere
 
-decir que hay almas aqu presentes que han llegado al punto de nacer, y que
+decir que hay almas aquí presentes que han llegado al punto de nacer, y que
 
-sern dadas a luz en este da; hay aqu almas que estn a punto de obtener su libertad
+serán dadas a luz en este día; hay aquí almas que están a punto de obtener su libertad
 
-y que estn al borde de alcanzar la paz y en este preciso da obtendrn una
+y que están al borde de alcanzar la paz y en este preciso día obtendrán una
 
-completa liberacin de toda su servidumbre.
+completa liberación de toda su servidumbre.
 
 Dije al comienzo que esta mujer era un cuadro
 
-adecuado del caso ms esperanzador del mundo; puedes espiar tu propio rostro
+adecuado del caso más esperanzador del mundo; żpuedes espiar tu propio rostro
 
-en su historia as como
+en su historia así como
 
 los hombres ven
 
-sus rostros en un espejo? Entonces eso me hace muy feliz, pues tu posicin est
+sus rostros en un espejo? Entonces eso me hace muy feliz, pues tu posición está
 
 llena de signos esperanzadores.
 
@@ -180,25 +180,25 @@ No puedo abandonar este cuadro, empero, sin
 
 comentar que esta mujer
 
-pas
+pasó
 
-triunfantemente una prueba que es muy comn entre las almas que estn buscando.
+triunfantemente una prueba que es muy común entre las almas que están buscando.
 
-Hermanos, aquellos evangelistas que no son pastores, tal vez difieran de m
+Hermanos, aquellos evangelistas que no son pastores, tal vez difieran de mí
 
-en lo que estoy a punto de decir, pero si supiesen ms acerca de las almas, no
+en lo que estoy a punto de decir, pero si supiesen más acerca de las almas, no
 
-estaran en desacuerdo. Es habitual exhortar a la gente desde el plpito a
+estarían en desacuerdo. Es habitual exhortar a la gente desde el púlpito a
 
-creer en Jesucristo; y no slo es habitual sino que es sumamente apropiado y
+creer en Jesucristo; y no sólo es habitual sino que es sumamente apropiado y
 
-correcto, y entre ms se practique esa exhortacin, mejor. Pero hay algunos que
+correcto, y entre más se practique esa exhortación, mejor. Pero hay algunos que
 
-se contentan con dar generalmente una exhortacin y no tratan con afectuosa
+se contentan con dar generalmente una exhortación y no tratan con afectuosa
 
 exclusividad los diversos casos de los hombres. Hay casos en los que una
 
-desnuda exhortacin a creer no basta. Me pregunto qu haran los meros
+desnuda exhortación a creer no basta. Me pregunto qué harían los meros
 
 exhortadores con ciertos casos peculiares que traigo ahora entre manos. Son
 
@@ -212,113 +212,113 @@ ciertos pasajes de la Escritura que han sido instrumentos para dar la luz a
 
 miles de personas; sin embargo, estos individuos, mes tras mes, permanecen en
 
-la duda y en la turbacin de mente en el mismo nivel que se encontraban al principio,
+la duda y en la turbación de mente en el mismo nivel que se encontraban al principio,
 
-y es ms, estn peor que antes.
+y es más, están peor que antes.
 
-Ese fue mi caso durante aos cuando era nio.
+Ese fue mi caso durante ańos cuando era nińo.
 
-Mis padres me ensearon el Evangelio, pero yo estaba sumido en tales tinieblas
+Mis padres me enseńaron el Evangelio, pero yo estaba sumido en tales tinieblas
 
-y en tal desaliento de espritu, que no poda hacer lo que se me ordenaba que
+y en tal desaliento de espíritu, que no podía hacer lo que se me ordenaba que
 
-hiciera y cuando se me peda que mirara a Cristo, senta como si no tuviera
+hiciera y cuando se me pedía que mirara a Cristo, sentía como si no tuviera
 
-ojos para mirarle. El propio Evangelio no pareca adecuarse a mi caso; eran mi
+ojos para mirarle. El propio Evangelio no parecía adecuarse a mi caso; eran mi
 
-ceguera pecaminosa y mi necedad culpable las que me inducan a pensar as;
+ceguera pecaminosa y mi necedad culpable las que me inducían a pensar así;
 
-pero, ay!, cuntas personas hay igualmente ciegas que necesitan que sus casos
+pero, ˇay!, cuántas personas hay igualmente ciegas que necesitan que sus casos
 
-sean manejados con delicadeza y sabidura. Aunque les digamos Cree, estn
+sean manejados con delicadeza y sabiduría. Aunque les digamos “Cree”, están
 
-lejos de ser consolados por ese consejo; se requiere de una explicacin adicional,
+lejos de ser consolados por ese consejo; se requiere de una explicación adicional,
 
-de alguna aclaracin simplificada de la verdad salvadora, y tal vez se necesite
+de alguna aclaración simplificada de la verdad salvadora, y tal vez se necesite
 
 darles laboriosamente respuestas a sus dificultades, antes que puedan encontrar
 
 la paz.
 
-Los genuinos buscadores que an no hayan
+Los genuinos buscadores que aún no hayan
 
-obtenido la bendicin, pueden cobrar nimo gracias a la historia que estamos
+obtenido la bendición, pueden cobrar ánimo gracias a la historia que estamos
 
-considerando. El Salvador no dio de inmediato la bendicin, aunque esta mujer
+considerando. El Salvador no dio de inmediato la bendición, aunque esta mujer
 
-tena fe. No se alarmen; es la verdad. Ella posea una fe real y genuina en Cristo
+tenía fe. No se alarmen; es la verdad. Ella poseía una fe real y genuina en Cristo
 
-cuando vino a Jess, o no habra podido resistir las censuras de los
+cuando vino a Jesús, o no habría podido resistir las censuras de los
 
-discpulos. Sin embargo, a pesar de que era creyente, no obtuvo de inmediato la
+discípulos. Sin embargo, a pesar de que era creyente, no obtuvo de inmediato la
 
-bendicin que buscaba. El Salvador siempre tuvo el propsito de otorgarla, pero
+bendición que buscaba. El Salvador siempre tuvo el propósito de otorgarla, pero
 
-esper un poco ms. Pero Jess no le respondi palabra. Acaso no fueron
+esperó un poco más. “Pero Jesús no le respondió palabra”. żAcaso no fueron
 
-buenas sus oraciones? Nunca hubo mejores oraciones en el mundo. Era su caso de
+buenas sus oraciones? Nunca hubo mejores oraciones en el mundo. żEra su caso de
 
-una necesidad perentoria? Su caso era sobrecogedoramente perentorio. No
+una necesidad perentoria? Su caso era sobrecogedoramente perentorio. żNo
 
-senta
+sentía
 
 su necesidad lo suficiente? La
 
-senta opresivamente. No era lo suficientemente denodada? Era tan denodada
+sentía opresivamente. żNo era lo suficientemente denodada? Era tan denodada
 
-como podra serlo jams una mujer. No tena fe? Tena fe a tal grado, que
+como podría serlo jamás una mujer. żNo tenía fe? Tenía fe a tal grado, que
 
-incluso Jess se asombr y dijo: Oh mujer, grande es tu fe. Empero, por algn
+incluso Jesús se asombró y dijo: “Oh mujer, grande es tu fe”. Empero, por algún
 
 tiempo no pudo obtener una respuesta a sus oraciones.
 
 Vean entonces, queridos amigos, que aunque es
 
-cierto que la fe proporciona paz, no siempre la otorga instantneamente. Puede
+cierto que la fe proporciona paz, no siempre la otorga instantáneamente. Puede
 
-haber ciertas razones que exigen la prueba de la fe, ms que la recompensa de
+haber ciertas razones que exigen la prueba de la fe, más que la recompensa de
 
-la fe. La fe genuina podra estar en el alma como una semilla oculta que no ha
+la fe. La fe genuina podría estar en el alma como una semilla oculta que no ha
 
-producido ni flores ni frutos de gozo y paz. El consuelo es siempre el vstago de
+producido ni flores ni frutos de gozo y paz. El consuelo es siempre el vástago de
 
-la fe, pero no siempre es de la edad de su madre. Digo esto para dar nimos a
+la fe, pero no siempre es de la edad de su madre. Digo esto para dar ánimos a
 
-algunos de ustedes. Les suplico que no renuncien a su bsqueda; no renuncien a
+algunos de ustedes. Les suplico que no renuncien a su búsqueda; no renuncien a
 
-confiar en mi Seor porque no hayan obtenido todava el gozo consciente que
+confiar en mi Seńor porque no hayan obtenido todavía el gozo consciente que
 
-anhelan. No dudo que ustedes sern salvados ciertamente, aunque al presente
+anhelan. No dudo que ustedes serán salvados ciertamente, aunque al presente
 
-ninguna promesa benevolente haya alegrado su corazn. La luz irrumpe
+ninguna promesa benevolente haya alegrado su corazón. “La luz irrumpe
 
-lentamente en muchos corazones, pero seguramente despuntar en breve.
+lentamente” en muchos corazones, pero seguramente despuntará en breve.
 
 Un doloroso silencio de parte del Salvador es la
 
-aflictiva prueba para muchas almas que buscan, pero es ms onerosa la afliccin
+aflictiva prueba para muchas almas que buscan, pero es más onerosa la aflicción
 
-de una spera respuesta cortante como esta: No est bien tomar el pan de los
+de una áspera respuesta cortante como esta: “No está bien tomar el pan de los
 
-hijos, y echarlo a los perrillos. Muchos encuentran un deleite instantneo cuando
+hijos, y echarlo a los perrillos”. Muchos encuentran un deleite instantáneo cuando
 
-esperan en el Seor, pero esto no sucede con todas las personas. Algunos, como
+esperan en el Seńor, pero esto no sucede con todas las personas. Algunos, como
 
 el carcelero, son llevados de las tinieblas a la luz en un instante, pero otros
 
-son plantas de crecimiento ms lento. En vez de un sentido de perdn, les
+son plantas de crecimiento más lento. En vez de un sentido de perdón, les
 
-podra ser dado un sentido ms profundo de pecado y, en tal caso, requerirn de
+podría ser dado un sentido más profundo de pecado y, en tal caso, requerirán de
 
-paciencia para resistir el pesado golpe. Ah, pobre corazn!, aunque Cristo te
+paciencia para resistir el pesado golpe. ˇAh, pobre corazón!, aunque Cristo te
 
-golpeara y te hiriera e incluso te matara, debes confiar en l; aunque te
+golpeara y te hiriera e incluso te matara, debes confiar en Él; aunque te
 
-dirigiera una palabra de enojo, debes creer en el amor de Su corazn, e incluso
+dirigiera una palabra de enojo, debes creer en el amor de Su corazón, e incluso
 
-si en los meses siguientes no fueras capaz de decir: yo s con seguridad que
+si en los meses siguientes no fueras capaz de decir: “yo sé con seguridad que
 
-l es mo, no obstante, arrjate sobre l, y confa con perseverancia all
+Él es mío”, no obstante, arrójate sobre Él, y confía con perseverancia allí
 
 donde no puedas esperar con deleite.
 
@@ -326,109 +326,109 @@ Llegamos ahora al propio texto. El caso de la
 
 mujer es un ejemplo de una fe que prevalece, y si queremos vencer, debemos
 
-imitar sus tcticas. Si yo fuera llamado a ser un comandante de un ejrcito,
+imitar sus tácticas. Si yo fuera llamado a ser un comandante de un ejército,
 
-debera observar cmo han manejado el asunto otros comandantes que han sido
+debería observar cómo han manejado el asunto otros comandantes que han sido
 
-exitosos. Aqu tenemos con nosotros a una mujer que venci a Cristo, y si nos
+exitosos. Aquí tenemos con nosotros a una mujer que venció a Cristo, y si nos
 
-regimos por su regla, venceremos tambin a Cristo por Su propia gracia.
+regimos por su regla, venceremos también a Cristo por Su propia gracia.
 
 I.
 
 En primer lugar, observen que ELLA ADMITE LA
 
-ACUSACIN PRESENTADA EN SU CONTRA.
+ACUSACIÓN PRESENTADA EN SU CONTRA.
 
-Jess
+Jesús
 
-la llam un perrillo, y ella mansamente dijo: S, Seor. Aqu no hay una
+la llamó un perrillo, y ella mansamente dijo: “Sí, Seńor”. Aquí no hay una
 
 controversia con Cristo; no hay un ensamblaje de oposiciones, no hay
 
 paliativos, ni excusas ni mitigaciones. Ella es franca, resuelta, humilde y
 
-abierta. S, Seor; esa es su nica respuesta para l. Cuando un hombre
+abierta. “Sí, Seńor”; esa es su única respuesta para Él. Cuando un hombre
 
-lucha, depende en gran manera del terreno que pisa; si no est parado
+lucha, depende en gran manera del terreno que pisa; si no está parado
 
-firmemente, no puede resultar vencedor; si queremos luchar con el ngel de la
+firmemente, no puede resultar vencedor; si queremos luchar con el ángel de la
 
-misericordia, hemos de encontrar un sostn all donde esta mujer lo encontr,
+misericordia, hemos de encontrar un sostén allí donde esta mujer lo encontró,
 
-es decir, en un sentido profundo de indignidad. Ella saba que era una
+es decir, en un sentido profundo de indignidad. Ella sabía que era una
 
-extranjera en Israel, y lo confes de inmediato. Si hubiesen sido llamados
+extranjera en Israel, y lo confesó de inmediato. Si hubiesen sido llamados
 
-perrillos, la mayora de los hombres habran dado la vuelta y se habran
+perrillos, la mayoría de los hombres habrían dado la vuelta y se habrían
 
-alejado sumidos en una sombra desesperacin, o bien habran experimentado un
+alejado sumidos en una sombría desesperación, o bien habrían experimentado un
 
-arranque de ira y replicado al Maestro: no soy ms perro que T, y si vengo a
+arranque de ira y replicado al Maestro: “no soy más perro que Tú, y si vengo a
 
-pedir una caridad, no podras darme al menos una negativa corts? El corazn
+pedir una caridad, żno podrías darme al menos una negativa cortés?” El corazón
 
 natural se rebela en contra de lo que dicen las Escrituras acerca de eso.
 
 Mientras un hombre no sea verdaderamente humillado, no quiere admitir la
 
-depravacin de su naturaleza; aunque est muy dispuesto a utilizar los trminos
+depravación de su naturaleza; aunque esté muy dispuesto a utilizar los términos
 
-comunes de la humildad, no los dice con intencin, pues si le fueran aplicados
+comunes de la humildad, no los dice con intención, pues si le fueran aplicados
 
-bajo alguna otra forma, se pondra sumamente enojado; es como el monje que dijo
+bajo alguna otra forma, se pondría sumamente enojado; es como el monje que dijo
 
-que haba quebrantado todos los mandamientos y que era tan malo como Judas
+que había quebrantado todos los mandamientos y que era tan malo como Judas
 
-Iscariote, y cuando alguien presente coment: siempre lo cre as, el monje
+Iscariote, y cuando alguien presente comentó: “siempre lo creí así”, el monje
 
-se enoj terriblemente, y prometi vengarse del hombre que lo haba insultado
+se enojó terriblemente, y prometió vengarse del hombre que lo había insultado
 
-de esa manera. Dganme caballo si quieren, pero es algo muy diferente que pongan
+de esa manera. Díganme ‘caballo’ si quieren, pero es algo muy diferente que pongan
 
 una silla de montar sobre mi espalda. Me he enterado de una mujer que le dijo a
 
-su ministro, que estaba de visita, que era una pecadora espantosa. Bien,
+su ministro, que estaba de visita, que era una pecadora espantosa. “Bien”,
 
--dijo el ministro- no tengo ninguna duda de que lo eres; revisemos tus
+-dijo el ministro- “no tengo ninguna duda de que lo eres; revisemos tus
 
-pecados. Entonces, comenzando por el primer mandamiento, ella declar que
+pecados”. Entonces, comenzando por el primer mandamiento, ella declaró que
 
-nunca haba quebrantado ese mandamiento; nunca haba adorado a ningn otro dios,
+nunca había quebrantado ese mandamiento; nunca había adorado a ningún otro dios,
 
-salvo a Dios; en cuanto al segundo mandamiento, nunca haba erigido ninguna
+salvo a Dios; en cuanto al segundo mandamiento, nunca había erigido ninguna
 
-imagen esculpida, lo saba; ni tampoco haba quebrantado el da domingo; haba
+imagen esculpida, lo sabía; ni tampoco había quebrantado el día domingo; había
 
-honrado a su padre y a su madre; nunca haba cado en la avaricia, nunca haba
+honrado a su padre y a su madre; nunca había caído en la avaricia, nunca había
 
-dado un falso testimonio, nunca haba matado a nadie; de hecho argument que no
+dado un falso testimonio, nunca había matado a nadie; de hecho argumentó que no
 
-haba quebrantado ninguno de los Diez Mandamientos, a pesar de que haba
+había quebrantado ninguno de los Diez Mandamientos, a pesar de que había
 
 confesado que era una muy triste pecadora. Nosotros nos confesamos culpables de
 
 robar un bosque, pero negamos haber robado nunca ni siquiera un par de tablas.
 
-La mujer bajo nuestra consideracin crea de
+La mujer bajo nuestra consideración creía de
 
-corazn en la degradacin de su estado, de manera tal que cuando el Salvador se
+corazón en la degradación de su estado, de manera tal que cuando el Salvador se
 
-dirigi a ella de forma muy ruda en apariencia, estaba tan completamente
+dirigió a ella de forma muy ruda en apariencia, estaba tan completamente
 
-convencida de su propia condicin cada, que no se molest al ser llamada como
+convencida de su propia condición caída, que no se molestó al ser llamada como
 
-lo que saba que era. Ella haba odo ladrar al pecado en su interior, tan a
+lo que sabía que era. Ella había oído ladrar al pecado en su interior, tan a
 
-menudo y tan sonoramente, que cuando el Salvador la llam perrilla, slo sinti
+menudo y tan sonoramente, que cuando el Salvador la llamó perrilla, sólo sintió
 
 que estaba llamando a las cosas por su nombre apropiado. Si yo fuera a revisar
 
-todo el asunto de la cada y de la maldad del pecado, todo mundo dira en este
+todo el asunto de la caída y de la maldad del pecado, todo mundo diría en este
 
-lugar: eso es cierto; pero, oh, cun pocos hay que realmente sienten que sea
+lugar: “eso es cierto”; pero, ˇoh, cuán pocos hay que realmente sienten que sea
 
-verdad, y estn profundamente afligidos por ello! Todos somos pecadores,
+verdad, y están profundamente afligidos por ello! Todos somos pecadores,
 
 eso decimos;
 
@@ -440,43 +440,43 @@ eso sentimos.
 
 La Palabra de Dios no nos proporciona un cuadro
 
-muy halagador de la humanidad. Nos informa que nuestro primer padre pec, y que
+muy halagador de la humanidad. Nos informa que nuestro primer padre pecó, y que
 
-a travs de l, ya que nos representaba a todos nosotros, todos camos y
+a través de él, ya que nos representaba a todos nosotros, todos caímos y
 
 perdimos el favor de Dios. El Colegio del Heraldo de la Escritura nos
 
-proporciona un linaje desastroso. Esos aristcratas que son tan orgullosos de
+proporciona un linaje desastroso. Esos aristócratas que son tan orgullosos de
 
-sus ancestros normandos haran bien en rastrear el rbol familiar hasta una
+sus ancestros normandos harían bien en rastrear el árbol familiar hasta una
 
-fecha anterior, y descubriran que la lnea de sangre azul termina en el
+fecha anterior, y descubrirían que la línea de sangre azul termina en el
 
-hortelano que rob la fruta de su Seor, y hubiera andado al garete sin un
+hortelano que robó la fruta de su Seńor, y hubiera andado al garete sin un
 
-delantal que cubriera su desnudez. Oh nobles de la tierra, este un rbol
+delantal que cubriera su desnudez. Oh nobles de la tierra, este un árbol
 
-genealgico de pordioseros; esta es una
+genealógico de pordioseros; esta es una
 
 bar
 
 sinister,
 
-una seal de bastarda en su escudo de armas que nada podra
+una seńal de bastardía en su escudo de armas que nada podría
 
-eliminar. La Palabra Inspirada sigue informndonos que, a consecuencia de ello,
+eliminar. La Palabra Inspirada sigue informándonos que, a consecuencia de ello,
 
 todos nosotros nacemos en pecado y somos formados en iniquidad, y en pecado nos
 
-conciben nuestras madres; testifica que no slo somos pecadores con la mano,
+conciben nuestras madres; testifica que no sólo somos pecadores con la mano,
 
-sino con el corazn; que el pecado no es meramente una roa en nuestra piel,
+sino con el corazón; que el pecado no es meramente una rońa en nuestra piel,
 
-sino una lepra en el alma; que Toda cabeza est enferma, y todo corazn
+sino una lepra en el alma; que “Toda cabeza está enferma, y todo corazón
 
-doliente; que el propio corazn es engaoso ms que todas las cosas, y perverso.
+doliente”; que el propio corazón es “engańoso… más que todas las cosas, y perverso”.
 
-Es ms, sigue adelante y certifica que no slo estamos enfermos y que somos
+Es más, sigue adelante y certifica que no sólo estamos enfermos y que somos
 
 depravados, sino que somos completamente pervertidos; por causa de nuestro
 
@@ -490,133 +490,133 @@ que esta incapacidad nuestra para el bien es tan grave que llega a ser
 
 equiparable a una muerte espiritual. Nos describe diciendo que estamos, por
 
-naturaleza, muertos en delitos y pecados, en un estado tal que somos tan
+naturaleza, “muertos en delitos y pecados”, en un estado tal que somos tan
 
-incapaces de restaurarnos a la salvacin as como son incapaces los muertos en
+incapaces de restaurarnos a la salvación así como son incapaces los muertos en
 
 sus tumbas de resucitar por su propio poder, ni restituirse a un estado de vida
 
 y salud. El Libro de Dios dice todo lo que pueda ser dicho contra el hombre y
 
-ms de lo que el hombre est dispuesto a confesar, excepto cuando el Espritu
+más de lo que el hombre está dispuesto a confesar, excepto cuando el Espíritu
 
-de Dios viene y entonces nuestro corazn responde: S, Seor. Adems, la
+de Dios viene y entonces nuestro corazón responde: “Sí, Seńor”. Además, la
 
-Palabra de Dios contina diciendo que nuestro pecado es tan grave que siempre
+Palabra de Dios continúa diciendo que nuestro pecado es tan grave que siempre
 
 ha de ser odioso para Dios, que merece que quienes lo cometemos seamos
 
 arrojados de Su presencia y arrojados en una calamidad indecible; pero la
 
-naturaleza humana da coces contra esto, y dice: No, el pecado es una
+naturaleza humana da coces contra esto, y dice: “No, el pecado es una
 
-debilidad, es un lado flaco, un error y nada ms; pero cuando el Espritu Santo
+debilidad, es un lado flaco, un error y nada más”; pero cuando el Espíritu Santo
 
-entra en el corazn clamamos: S, Seor;
+entra en el corazón clamamos: “Sí, Seńor”;
 
 es
 
-algo negro, algo demonaco, algo infernal, y si T nos arrojaras al
+algo negro, algo demoníaco, algo infernal, y si Tú nos arrojaras al
 
-infierno, slo estaras haciendo con el pecado lo que debe hacerse.
+infierno, sólo estarías haciendo con el pecado lo que debe hacerse.
 
 Queridos amigos, siempre que se encuentren con
 
 un pecador doblegado por el peso del pecado, nunca traten de hacer que su
 
-pecado parezca ms liviano; por el contrario, dganle al alma que est
+pecado parezca más liviano; por el contrario, díganle al alma que está
 
-sumamente desesperada: sientes que eres un gran pecador, pero eres un mayor
+sumamente desesperada: “sientes que eres un gran pecador, pero eres un mayor
 
-pecador de lo que t mismo sientes. Cuando el alma d voces diciendo: Mi
+pecador de lo que tú mismo sientes”. Cuando el alma dé voces diciendo: “Mi
 
-pecado se ha agravado en extremo, no intenten consolarla buscando excusas para
+pecado se ha agravado en extremo”, no intenten consolarla buscando excusas para
 
-ella; ms bien dganle: grave en extremo como piensas que sea tu pecado, es
+ella; más bien díganle: “grave en extremo como piensas que sea tu pecado, es
 
-ms grave de lo que te imaginas. Nunca le hagas el juego al diablo excusando a
+más grave de lo que te imaginas”. Nunca le hagas el juego al diablo excusando a
 
-los pecadores por sus pecados. Si consuelas a tu amigo dicindole: Bien, no has
+los pecadores por sus pecados. Si consuelas a tu amigo diciéndole: “Bien, no has
 
-sido un pecador tan terrible como crees, estaras proporcionndole un consuelo
+sido un pecador tan terrible como crees”, estarías proporcionándole un consuelo
 
-fatal; le estaras presentando una droga venenosa que puede inducirle al sueo
+fatal; le estarías presentando una droga venenosa que puede inducirle al sueńo
 
-pero que por lo mismo, lo inducira a la destruccin. Dile que el pecado es en
+pero que por lo mismo, lo induciría a la destrucción. Dile que el pecado es en
 
-s tan horrible, que si un hombre pudiese ver un pecado desnudo se volvera
+sí tan horrible, que si un hombre pudiese ver un pecado desnudo se volvería
 
-loco; que la ms mnima ofensa contra Dios es tan intolerable que si fuese
+loco; que la más mínima ofensa contra Dios es tan intolerable que si fuese
 
-apagado el fuego del infierno, un solo pecado podra encenderlo de nuevo.
+apagado el fuego del infierno, un solo pecado podría encenderlo de nuevo.
 
 Si hubiese sido una manera sana de obtener el
 
-consuelo, la mujer en este caso habra argumentado: No, Seor, no soy un
+consuelo, la mujer en este caso habría argumentado: “No, Seńor, no soy un
 
-perrillo; tal vez no sea todo lo que debera ser, pero de cualquier modo no soy
+perrillo; tal vez no sea todo lo que debería ser, pero de cualquier modo no soy
 
-un perrillo; soy un ser humano. Hablas muy speramente; Maestro bueno, no seas
+un perrillo; soy un ser humano. Hablas muy ásperamente; Maestro bueno, no seas
 
-injusto. En vez de eso, ella lo admite todo. Eso demostr que tena la
+injusto”. En vez de eso, ella lo admite todo. Eso demostró que tenía la
 
-correcta condicin mental, puesto que admita, en su sentido ms negro y ms
+correcta condición mental, puesto que admitía, en su sentido más negro y más
 
-agravado, todo lo que el Salvador decidiera decir en su contra. La lucirnaga
+agravado, todo lo que el Salvador decidiera decir en su contra. La luciérnaga
 
 fulgura como una estrella en la noche, y la yesca podrida refulge como oro
 
-derretido, pero, en el da, la lucirnaga se convierte en un miserable insecto,
+derretido, pero, en el día, la luciérnaga se convierte en un miserable insecto,
 
-y la yesca podrida es podredumbre y nada ms. Lo mismo sucede con nosotros:
+y la yesca podrida es podredumbre y nada más. Lo mismo sucede con nosotros:
 
 mientras no nos venga la luz, nos consideramos buenos, pero cuando la luz del
 
-cielo resplandece, nuestro corazn es revelado como podredumbre, corrupcin y
+cielo resplandece, nuestro corazón es revelado como podredumbre, corrupción y
 
-degeneracin. No susurren al odo del lamentador que eso no es as, ni se
+degeneración. No susurren al oído del lamentador que eso no es así, ni se
 
-engaen ustedes mismos con la creencia de que no es as. T
+engańen ustedes mismos con la creencia de que no es así. Tú
 
 eres
 
-un pecador perdido; t
+un pecador perdido; tú
 
-efectivamente mereces la condenacin;
+efectivamente mereces la condenación;
 
-t
+tú
 
 la
 
-mereces especialmente, aunque nadie ms la mereciera; t has pecado en contra
+mereces especialmente, aunque nadie más la mereciera; tú has pecado en contra
 
-de la luz y del conocimiento; ests arruinado, y arruinado por completo. Por
+de la luz y del conocimiento; estás arruinado, y arruinado por completo. Por
 
 malo que te consideres, tu caso es infinitamente peor de lo que lo concibes, y
 
-yo no estoy aqu para darte algn consuelo diciendo: paz, paz, cuando no hay
+yo no estoy aquí para darte algún consuelo diciendo: paz, paz, cuando no hay
 
-paz. Tu estado, oh pecador, es terriblemente malo y pronto ser peor,
+paz. Tu estado, oh pecador, es terriblemente malo y pronto será peor,
 
 desesperadamente peor; pido que seas conducido a decir esto delante de Dios:
 
-S, Seor.
+“Sí, Seńor”.
 
 II.
 
 Pero noten, en segundo lugar, que A PESAR DE
 
-TODO, ELLA SE ADHIERE A CRISTO. Percibieron la fuerza de lo que dijo? S,
+TODO, ELLA SE ADHIERE A CRISTO. żPercibieron la fuerza de lo que dijo? “Sí,
 
-Seor; pero aun los perrillos comen de las migajas que caen de la mesa, -de
+Seńor; pero aun los perrillos comen de las migajas que caen de la mesa”, -żde
 
-dnde?-
+dónde?-
 
-de la mesa de sus amos.
+“de la mesa de sus amos”.
 
 En
 
-el Oriente, los perros muy raramente tienen algn amo. Hay perros grandes que
+el Oriente, los perros muy raramente tienen algún amo. Hay perros grandes que
 
 deambulan en todas las ciudades orientales, que viven de la basura desechada
 
@@ -626,255 +626,255 @@ haya una sola palabra en toda la Escritura a su favor. El perro, tal como lo
 
 conocemos, es un muy fiel y afectuoso servidor del hombre y merece gran honra;
 
-pero, en el Oriente, slo merece desprecio; es simplemente un bruto grande y
+pero, en el Oriente, sólo merece desprecio; es simplemente un bruto grande y
 
-aullador que ladra o muerde a cualquiera que pase. En los das del Salvador,
+aullador que ladra o muerde a cualquiera que pase. En los días del Salvador,
 
-los orientales haban aprendido las costumbres romanas, y haban introducido
+los orientales habían aprendido las costumbres romanas, y habían introducido
 
-perros pequeos como mascotas; y es notable que nuestro Seor no llamara a esta
+perros pequeńos como mascotas; y es notable que nuestro Seńor no llamara a esta
 
-mujer con la expresin para designar a uno de los perros grandes que no tienen
+mujer con la expresión para designar a uno de los perros grandes que no tienen
 
-dueo, sino para uno de los perritos falderos. Ciertamente era un apelativo de
+dueńo, sino para uno de los perritos falderos. Ciertamente era un apelativo de
 
-desprecio, pero aun as, no era uno de los ms severos. No est bien tomar el
+desprecio, pero aun así, no era uno de los más severos. “No está bien tomar el
 
-pan de los hijos, y echarlo a los perrillos. Hay una palabra aqu que quiero
+pan de los hijos, y echarlo a los perrillos”. Hay una palabra aquí que quiero
 
-que adviertan. La mujer no dice solamente: los perrillos comen las migajas que
+que adviertan. La mujer no dice solamente: “los perrillos comen las migajas que
 
-caen de la mesa, sino que agreg: que caen de la mesa
+caen de la mesa”, sino que agregó: “que caen de la mesa
 
-de sus amos.
+de sus amos”.
 
-Adviertan su adherencia a Jess; ella le dice en
+Adviertan su adherencia a Jesús; ella le dice en
 
-efecto: T eres mi amo. Pareciera decirle: Seor, yo estoy pidiendo una gran
+efecto: “Tú eres mi amo”. Pareciera decirle: “Seńor, yo estoy pidiendo una gran
 
-bendicin, y sin importar lo que me digas, tengo el propsito de obtenerla;
+bendición, y sin importar lo que me digas, tengo el propósito de obtenerla;
 
-pero si no pudiera obtener la bendicin, de cualquier manera, siempre
+pero si no pudiera obtener la bendición, de cualquier manera, siempre
 
 te
 
-seguir; T sers mi amo. Aunque T
+seguiré; Tú serás mi amo. Aunque Tú
 
-no me dijeras nunca: ve en paz, tu fe te ha dado la bendicin, yo te recibo
+no me dijeras nunca: ‘ve en paz, tu fe te ha dado la bendición’, yo te recibo
 
-como mi amo. As como un perro callejero elige a un extrao y le sigue hasta
+como mi amo”. Así como un perro callejero elige a un extrańo y le sigue hasta
 
-su casa, y pareciera decirle: puedes patearme o cerrar la puerta, pero yo te
+su casa, y pareciera decirle: “puedes patearme o cerrar la puerta, pero yo te
 
-he elegido como mi amo; si me cerraras una puerta, entrar por otra; si me
+he elegido como mi amo; si me cerraras una puerta, entraré por otra; si me
 
-cerraras ambas puertas me quedar en el tapete de la entrada; y si me echaras a
+cerraras ambas puertas me quedaré en el tapete de la entrada; y si me echaras a
 
-patadas a la calle, voy a permanecer all hasta que salgas, y entonces te
+patadas a la calle, voy a permanecer allí hasta que salgas, y entonces te
 
-seguir; te he tomado como mi amo, y sers mi amo.
+seguiré; te he tomado como mi amo, y serás mi amo”.
 
-Ahora, pobre alma, es se tu caso? Si no lo
+Ahora, pobre alma, żes ése tu caso? Si no lo
 
-fuera, te exhorto a que tomes esa posicin. T has admitido que todo lo que
+fuera, te exhorto a que tomes esa posición. Tú has admitido que todo lo que
 
-Jess ha dicho es verdadero, pero dices: A pesar de eso, ya sea que soy un
+Jesús ha dicho es verdadero, pero dices: “A pesar de eso, ya sea que soy un
 
-perro o un demonio, nunca dejar de venir a Cristo como mi Salvador. Si fuera
+perro o un demonio, nunca dejaré de venir a Cristo como mi Salvador. Si fuera
 
-un perro caminar junto a los talones de la misericordia; en la maana, al
+un perro caminaré junto a los talones de la misericordia; en la mańana, al
 
-medioda y en la noche, me echar a los pies de mi Amo, y no renunciar nunca a
+mediodía y en la noche, me echaré a los pies de mi Amo, y no renunciaré nunca a
 
-confiar en Jess, aun si no recibiera consuelo de l. He discutido mi caso con
+confiar en Jesús, aun si no recibiera consuelo de Él. He discutido mi caso con
 
-mi propio corazn, y he concluido que si Dios decide ser un Salvador, no podra
+mi propio corazón, y he concluido que si Dios decide ser un Salvador, no podría
 
-haber ningn caso fuera del alcance de Su infinito poder; si el Hijo de Dios
+haber ningún caso fuera del alcance de Su infinito poder; si el Hijo de Dios
 
-muere y derrama Su sangre, no puede haber ningn pecado carmes que Su sangre
+muere y derrama Su sangre, no puede haber ningún pecado carmesí que Su sangre
 
-no pudiera limpiar, y si resucit de los muertos y ascendi a lo alto, entonces
+no pudiera limpiar, y si resucitó de los muertos y ascendió a lo alto, entonces
 
-puede salvar eternamente a los que por l se acercan a Dios. Por tanto, estoy
+puede salvar eternamente a los que por Él se acercan a Dios. Por tanto, estoy
 
-resuelto a esperar y a luchar hasta que se digne darme una respuesta. Nadie se
+resuelto a esperar y a luchar hasta que se digne darme una respuesta”. Nadie se
 
-aferra ms estrechamente a Cristo que la persona que es ms sensible a su
+aferra más estrechamente a Cristo que la persona que es más sensible a su
 
-condicin perdida. Quin se sostiene ms firmemente a la tabla? Pues es el
+condición perdida. żQuién se sostiene más firmemente a la tabla? Pues es el
 
-hombre que est ms temeroso de morir ahogado. El miedo vuelve, con frecuencia,
+hombre que está más temeroso de morir ahogado. El miedo vuelve, con frecuencia,
 
-ms intensa la fe. Entre ms miedo le tenga a mis pecados, ms firmemente me
+más intensa la fe. Entre más miedo le tenga a mis pecados, más firmemente me
 
-asir a mi Salvador. El miedo es, algunas veces, el progenitor de la fe.
+asiré a mi Salvador. El miedo es, algunas veces, el progenitor de la fe.
 
 Alguien que caminaba por el campo se vio muy
 
-sorprendido cuando una trmula alondra que volaba se pos en su pecho. Fue algo
+sorprendido cuando una trémula alondra que volaba se posó en su pecho. Fue algo
 
-muy extrao que un tmido pjaro hiciera eso, no es cierto? S, pero la vena
+muy extrańo que un tímido pájaro hiciera eso, żno es cierto? Sí, pero la venía
 
-persiguiendo un halcn, y el miedo al halcn le dio al ave la necesaria
+persiguiendo un halcón, y el miedo al halcón le dio al ave la necesaria
 
-determinacin para volar a un hombre en busca de refugio. Y oh!, cuando los
+determinación para volar a un hombre en busca de refugio. Y ˇoh!, cuando los
 
-fieros buitres del pecado y del infierno estn persiguiendo a un pobre pecador,
+fieros buitres del pecado y del infierno están persiguiendo a un pobre pecador,
 
-se ve forzado a volar al corazn del bendito Jess mediante el valor que da la
+se ve forzado a volar al corazón del bendito Jesús mediante el valor que da la
 
-desesperacin. Juan Bunyan tiene en algn lugar unas palabras a este efecto:
+desesperación. Juan Bunyan tiene en algún lugar unas palabras a este efecto:
 
-fui conducido a tal espanto y horror bajo la ira de Dios, que no pude evitar
+“fui conducido a tal espanto y horror bajo la ira de Dios, que no pude evitar
 
-confiar en Cristo; sent que aunque l estuviera all con una espada
+confiar en Cristo; sentí que aunque Él estuviera allí con una espada
 
-desenvainada en Su mano yo deba correr incluso hacia su aguzada punta antes
+desenvainada en Su mano yo debía correr incluso hacia su aguzada punta antes
 
-que seguir soportando mis pecados. Yo espero y oro para que Dios los conduzca
+que seguir soportando mis pecados”. Yo espero y oro para que Dios los conduzca
 
-a Jess de esa manera, si es que no fuesen atrados mediante instrumentos ms
+a Jesús de esa manera, si es que no fuesen atraídos mediante instrumentos más
 
 delicados.
 
 Hermanos, un alma apoyada en Cristo que se
 
-aferra a l con un apretn agonizante, no puede perecer de ningn modo; eso es
+aferra a Él con un apretón agonizante, no puede perecer de ningún modo; eso es
 
-algo totalmente imposible. He tratado algunas veces de visualizar a algn alma
+algo totalmente imposible. He tratado algunas veces de visualizar a algún alma
 
-en el infierno que haya buscado a Jess y haya resuelto a morir a los pies de
+en el infierno que haya buscado a Jesús y haya resuelto a morir a los pies de
 
-Su cruz. Tal cosa no puede ser; pero supnganlo por un instante, y vern que la
+Su cruz. Tal cosa no puede ser; pero supónganlo por un instante, y verán que la
 
-suposicin se destruye a s misma. Ay, -dice esa alma perdida- Jess, yo
+suposición se destruye a sí misma. “Ay”, -dice esa alma perdida- “Jesús, yo
 
-depend nicamente de Ti, pero estoy condenado; yo era indigno, y no mereca ni
+dependí únicamente de Ti, pero estoy condenado; yo era indigno, y no merecía ni
 
-una pizca de Tu favor; pero yo confi en Ti como el Salvador de los malvados,
+una pizca de Tu favor; pero yo confié en Ti como el Salvador de los malvados,
 
-en verdad depend de Tu poder para liberarme, y heme aqu en el abismo.
+en verdad dependí de Tu poder para liberarme, y heme aquí en el abismo”.
 
-Podran imaginar un sonido as en medio de los alaridos del infierno? Cmo se
+żPodrían imaginar un sonido así en medio de los alaridos del infierno? ˇCómo se
 
-reiran los demonios! Ja, ja!, dnde estn las promesas? Dnde est el grandioso
+reirían los demonios! “ˇJa, ja!, żdónde están las promesas? żDónde está el grandioso
 
-corazn de Cristo que permite que perezca un pecador que se abraz a l? Acaso
+corazón de Cristo que permite que perezca un pecador que se abrazó a Él? żAcaso
 
-sera porque
+sería porque
 
-no pudo?
+no pudo?”
 
 Entonces
 
-Satans dara voces diciendo: Ja, ja!, No pudo salvar perpetuamente a los que
+Satanás daría voces diciendo: “ˇJa, ja!, No pudo salvar perpetuamente a los que
 
-por l se acercaron a Dios; aunque presuma de ser mdico, no pudo sanar. O
+por Él se acercaron a Dios; aunque presumía de ser médico, no pudo sanar”. “O
 
-por otra parte, -dice el archimaligno-
+por otra parte”, -dice el archimaligno- “
 
 no
 
 quiso
 
-salvar a aquellos que anhelaban y ansiaban ser salvados. T te
+salvar a aquellos que anhelaban y ansiaban ser salvados”. Tú te
 
-estremeces al pensar qu horrible blasfemia sera todo eso, y cmo la honra del
+estremeces al pensar qué horrible blasfemia sería todo eso, y cómo la honra del
 
-glorioso Redentor se vera mancillada. Eso no suceder; pecador, eso no
+glorioso Redentor se vería mancillada. Eso no sucederá; pecador, eso no
 
-suceder. Si eres el ofensor ms negro que jams hubiere vivido, arrjate a los
+sucederá. Si eres el ofensor más negro que jamás hubiere vivido, arrójate a los
 
-pies de Jess, resuelto a no irte hasta que te otorgue el perdn. l no puede
+pies de Jesús, resuelto a no irte hasta que te otorgue el perdón. Él no puede
 
-rechazarte. No debemos limitar a Dios, ni decir qu puede hacer y qu no puede
+rechazarte. No debemos limitar a Dios, ni decir qué puede hacer y qué no puede
 
-hacer; pero de hecho leemos que no puede mentir, y ciertamente, si Jess fuera
+hacer; pero de hecho leemos que no puede mentir, y ciertamente, si Jesús fuera
 
-a desechar a un alma que hubiere venido a l, mentira. Por tanto, ten buen
+a desechar a un alma que hubiere venido a Él, mentiría. Por tanto, ten buen
 
-nimo. Slo mantente firme en que nunca dejars al Salvador, en que morirs al
+ánimo. Sólo mantente firme en que nunca dejarás al Salvador, en que morirás al
 
-pie de la cruz, y todo estar bien contigo.
+pie de la cruz, y todo estará bien contigo.
 
 III.
 
-Adems, el arma principal de la mujer, el fusil
+Además, el arma principal de la mujer, el fusil
 
-de aguja que us en su batalla, fue esta: HABA APRENDIDO EL ARTE DE EXTRAER
+de aguja que usó en su batalla, fue esta: HABÍA APRENDIDO EL ARTE DE EXTRAER
 
 CONSUELO DE SUS AFLICCIONES.
 
-Jess la llam: un perrillo. S, -respondi
+Jesús la llamó: un perrillo. “Sí”, -respondió
 
-ella- pero entonces los perrillos reciben las migajas. La mujer poda ver un
+ella- “pero entonces los perrillos reciben las migajas”. La mujer podía ver un
 
-pequeo borde de plata tras la nube negra. Cristo le arroj un hueso; ella lo
+pequeńo borde de plata tras la nube negra. Cristo le arrojó un hueso; ella lo
 
-levant y lo quebr y le extrajo la mdula. Pareca ser una piedra muy dura,
+levantó y lo quebró y le extrajo la médula. Parecía ser una piedra muy dura,
 
-pero tena un trozo de oro adentro, y deshizo el cuarzo y encontr la clara y
+pero tenía un trozo de oro adentro, y deshizo el cuarzo y encontró la clara y
 
-fulgurante barra de oro y se vio enriquecida. Me dices que soy un perrillo,
+fulgurante barra de oro y se vio enriquecida. “Me dices que soy un perrillo”,
 
-dice; muy bien, ser un perrillo, pero voy a conseguir las migajas. Ella
+dice; “muy bien, seré un perrillo, pero voy a conseguir las migajas”. Ella
 
 extrae el agua del consuelo del profundo pozo de sus miserias.
 
-Ahora, pobre alma, t que te encuentras en el
+Ahora, pobre alma, tú que te encuentras en el
 
-mismo estado, intenta hacer lo mismo con la ayuda del Espritu Santo. Satans
+mismo estado, intenta hacer lo mismo con la ayuda del Espíritu Santo. Satanás
 
-ha estado dicindote: T has quebrantado la ley de Dios, t le has ofendido,
+ha estado diciéndote: “Tú has quebrantado la ley de Dios, tú le has ofendido,
 
-t has sido
+tú has sido
 
-un pecador.
+un pecador”.
 
 Alma, si te
 
-queda algo de entendimiento, crtale la cabeza al diablo con su propia espada y
+queda algo de entendimiento, córtale la cabeza al diablo con su propia espada y
 
-dile: yo soy pecador, pero est escrito: Palabra fiel y digna de ser recibida
+dile: “yo soy pecador, pero está escrito: ‘Palabra fiel y digna de ser recibida
 
-por todos: que Cristo Jess vino al mundo para salvar a los pecadores. Qu
+por todos: que Cristo Jesús vino al mundo para salvar a los pecadores’. żQué
 
-dices a eso, Satans? Si soy un pecador, l vino al mundo para salvar a los
+dices a eso, Satanás? Si soy un pecador, Él vino al mundo para salvar a los
 
-pecadores. Si yo no hubiese sido un pecador, Jess no habra venido para
+pecadores. Si yo no hubiese sido un pecador, Jesús no habría venido para
 
-salvarme, pues no est escrito en ninguna parte que l viniera para salvar a
+salvarme, pues no está escrito en ninguna parte que Él viniera para salvar a
 
-los que no son pecadores. Entre ms claramente compruebe que soy un pecador,
+los que no son pecadores. Entre más claramente compruebe que soy un pecador,
 
-ms claramente demostrar que soy un objeto para la misericordia del Salvador.
+más claramente demostraré que soy un objeto para la misericordia del Salvador.
 
-Tal vez la conciencia te susurre: t no eres un
+Tal vez la conciencia te susurre: “tú no eres un
 
-pecador de una clase ordinaria; t has recorrido las mayores distancias hasta
+pecador de una clase ordinaria; tú has recorrido las mayores distancias hasta
 
-el punto de endurecer tu corazn; t eres
+el punto de endurecer tu corazón; tú eres
 
 un
 
-pecador perdido.
+pecador perdido”.
 
-Ah!, -dices- voy a aprovechar eso, pues el Hijo del
+“ˇAh!”, -dices- “voy a aprovechar eso, pues el Hijo del
 
-Hombre vino para buscar y salvar lo que se haba perdido. l no vino a buscar a
+Hombre vino para buscar y salvar lo que se había perdido. Él no vino a buscar a
 
 aquellos que no necesitaban ser buscados; no vino como el grandioso Pastor para
 
 encontrar a las ovejas que estaban en el redil, sino aquellas ovejas que se
 
-haban perdido; y puesto que soy una oveja perdida, cuando vea al Pastor
+habían perdido; y puesto que soy una oveja perdida, cuando vea al Pastor
 
 recorriendo los montes en pos de las ovejas perdidas, voy a balar como una
 
-oveja perdida, pues tal vez ha venido para rescatarme. Pero la conciencia te
+oveja perdida, pues tal vez ha venido para rescatarme”. Pero la conciencia te
 
-dice otra vez: t eres una persona
+dice otra vez: “tú eres una persona
 
 muy
 
@@ -882,119 +882,119 @@ desmerecedora;
 
 no solamente eres un pecador perdido, sino que eres completamente
 
-indigno. Pecador, aprovecha ese argumento, y di: Dios es un Dios de
+indigno”. Pecador, aprovecha ese argumento, y di: “Dios es un Dios de
 
-misericordia. Si yo mereciera algo, habra menos espacio para la misericordia,
+misericordia. Si yo mereciera algo, habría menos espacio para la misericordia,
 
-pues se me debera algo como un asunto de justicia; pero como soy una exclusiva
+pues se me debería algo como un asunto de justicia; pero como soy una exclusiva
 
-masa de desmerecimiento, hay espacio para que el Seor revele la abundancia de
+masa de desmerecimiento, hay espacio para que el Seńor revele la abundancia de
 
-Su gracia.
+Su gracia”.
 
 No hay espacio para que un hombre sea generoso
 
-en medio de aquellas esplndidas mansiones de Belgravia. Supongan que un hombre
+en medio de aquellas espléndidas mansiones de Belgravia. Supongan que un hombre
 
 tuviera miles de libras esterlinas en sus bolsillos, y deseara darlas en
 
-caridad. Ese hombre se vera imposibilitado de hacerlo entre los palacios
+caridad. Ese hombre se vería imposibilitado de hacerlo entre los palacios
 
 principescos. Si fuera a golpear a las puertas de esas grandiosas mansiones, y
 
 dijera que necesitaba una oportunidad para ser caritativo, lacayos empolvados
 
-le cerraran la puerta en su cara, y le diran que se largara a otra parte con
+le cerrarían la puerta en su cara, y le dirían que se largara a otra parte con
 
 su impudencia. Pero vengan conmigo; caminemos por todas las callejuelas que
 
 serpentean entre los muladares, y vayamos a los pasadizos traseros donde
 
-multitudes de nios harapientos estn jugando en medio de la inmundicia y de la
+multitudes de nińos harapientos están jugando en medio de la inmundicia y de la
 
-suciedad, donde todas las personas son miserablemente pobres, y donde el clera
+suciedad, donde todas las personas son miserablemente pobres, y donde el cólera
 
-est emponzondose. Ahora, amigo; baja tus bolsas de dinero; aqu hay un
+está emponzońándose. Ahora, amigo; baja tus bolsas de dinero; aquí hay un
 
 abundante espacio para tu caridad; ahora puedes meter ambas manos en tus
 
 bolsillos, sin temer que nadie te rechace. Puedes gastar ahora tu dinero a
 
-diestra y siniestra con facilidad y satisfaccin.
+diestra y siniestra con facilidad y satisfacción.
 
 Cuando desciende la misericordia de Dios para
 
-distribuir misericordia, l no puede darla a quienes no la necesitan; pero t
+distribuir misericordia, Él no puede darla a quienes no la necesitan; pero tú
 
-necesitas perdn, pues ests lleno de pecado, y eres precisamente la persona
+necesitas perdón, pues estás lleno de pecado, y eres precisamente la persona
 
-que tiene la oportunidad de recibirla. Ah!, -dice alguien- estoy tan
+que tiene la oportunidad de recibirla. “ˇAh!”, -dice alguien- “estoy tan
 
-enfermo del corazn;
+enfermo del corazón;
 
 no puedo creer, no
 
-puedo orar. Si viera el carruaje del doctor transitando a una gran velocidad a
+puedo orar”. Si viera el carruaje del doctor transitando a una gran velocidad a
 
-lo largo de las calles, estara muy seguro de que no se dirige a mi casa, pues
+lo largo de las calles, estaría muy seguro de que no se dirige a mi casa, pues
 
-no lo requiero; pero si tuviera que adivinar adnde se diriga, concluira que
+no lo requiero; pero si tuviera que adivinar adónde se dirigía, concluiría que
 
-se apresuraba hacia algn enfermo o persona moribunda.
+se apresuraba hacia algún enfermo o persona moribunda.
 
-El Seor Jesucristo es el Mdico de las almas.
+El Seńor Jesucristo es el Médico de las almas.
 
-Entre ms enfermo ests, ms espacio habr para el arte del mdico. Cuando un
+Entre más enfermo estés, más espacio habrá para el arte del médico. Cuando un
 
 hombre se establece en alguna actividad comercial, busca una localidad donde
 
-sus artculos sean necesarios, y all abre su tienda. Qu pasa si digo que el
+sus artículos sean necesarios, y allí abre su tienda. żQué pasa si digo que el
 
-oficio de mi Seor es salvar a los pecadores? Qu pasa si digo que es el nico
+oficio de mi Seńor es salvar a los pecadores? żQué pasa si digo que es el único
 
-oficio y vocacin que asumi: convertirse en un Salvador de los perdidos y de
+oficio y vocación que asumió: convertirse en un Salvador de los perdidos y de
 
-las almas arruinadas? Entonces puede completar un cambio rpido en tu corazn,
+las almas arruinadas? Entonces puede completar un cambio rápido en tu corazón,
 
-y creo que abrir una tienda all, y se enriquecer con tu alabanza y con tu
+y creo que abrirá una tienda allí, y se enriquecerá con tu alabanza y con tu
 
 amor por haberte salvado.
 
 Haz el esfuerzo de probar ahora, oyente, para
 
-encontrar as esperanza en la propia desesperanza de tu condicin,
+encontrar así esperanza en la propia desesperanza de tu condición,
 
 independientemente del aspecto en que esa desesperanza pueda manifestarse ante
 
-ti. La Biblia dice que t ests
+ti. La Biblia dice que tú estás
 
 muerto en
 
 pecado;
 
-entonces concluye que hay espacio para que venga Jess, puesto que
+entonces concluye que hay espacio para que venga Jesús, puesto que
 
-l es la resurreccin y la vida. Si estuvieras vivo, no necesitaras dos vidas,
+Él es la resurrección y la vida. Si estuvieras vivo, no necesitarías dos vidas,
 
-pero como ests muerto, hay espacio para que Jess te d vida. La Biblia te
+pero como estás muerto, hay espacio para que Jesús te dé vida. La Biblia te
 
-dice que ests muerto; no lo niegues; di: S, Seor, pero entonces hay
+dice que estás muerto; no lo niegues; di: “Sí, Seńor”, pero entonces hay
 
-espacio para la plenitud de Cristo. Si estuvieras repleto no podras contener
+espacio para la plenitud de Cristo. Si estuvieras repleto no podrías contener
 
-dos plenitudes; tu propia plenitud no le dara espacio a la plenitud de Cristo;
+dos plenitudes; tu propia plenitud no le daría espacio a la plenitud de Cristo;
 
-pero ahora que ests vaco hay espacio para l.
+pero ahora que estás vacío hay espacio para Él.
 
-Corazn amado, en vez de intentar mejorar tu
+Corazón amado, en vez de intentar mejorar tu
 
-caso, cree en tu total maldad, y, sin embargo, ten mucho nimo. No podras
+caso, cree en tu total maldad, y, sin embargo, ten mucho ánimo. No podrías
 
-exagerar tu pecado, y aun si pudieras, sera ms sabio errar en esa direccin
+exagerar tu pecado, y aun si pudieras, sería más sabio errar en esa dirección
 
 que en la otra.
 
-Un hombre toc a la puerta de mi casa hace algn
+Un hombre tocó a la puerta de mi casa hace algún
 
 tiempo solicitando una caridad; se trataba de un mendigo arrogante, de eso no
 
@@ -1002,35 +1002,35 @@ me cabe la menor duda. Pensando que los harapos del hombre y su pobreza eran
 
 reales, le di un poco de dinero, algunas de mis ropas, y un par de zapatos.
 
-Despus que se cambi la ropa y se march, pens: Bien, despus de todo, muy
+Después que se cambió la ropa y se marchó, pensé: “Bien, después de todo, muy
 
-probablemente no te hice ningn favor, pues ahora no vas a recibir tanto dinero
+probablemente no te hice ningún favor, pues ahora no vas a recibir tanto dinero
 
-como antes, ya que no te vers como un sujeto tan desvalido. Sucedi que sal
+como antes, ya que no te verás como un sujeto tan desvalido”. Sucedió que salí
 
-de casa como un cuarto de hora ms tarde, y vi a mi amigo, pero ya no llevaba
+de casa como un cuarto de hora más tarde, y vi a mi amigo, pero ya no llevaba
 
-los vestidos que yo le haba dado; vamos, habra arruinado yo su negocio si le
+los vestidos que yo le había dado; vamos, habría arruinado yo su negocio si le
 
 hubiera podido convencer para que mantuviera una apariencia respetable. El
 
-mendigo haba sido lo suficientemente listo para deslizarse debajo de un pasaje
+mendigo había sido lo suficientemente listo para deslizarse debajo de un pasaje
 
-abovedado donde se quit la buena ropa y se visit nuevamente con sus harapos.
+abovedado donde se quitó la buena ropa y se visitó nuevamente con sus harapos.
 
-Lo culp por eso? S, por ser un pillo, pero no lo culp por seguir haciendo su
+żLo culpé por eso? Sí, por ser un pillo, pero no lo culpé por seguir haciendo su
 
-negocio con el atuendo adecuado. El hombre no haca sino llevar su librea
+negocio con el atuendo adecuado. El hombre no hacía sino llevar su librea
 
-apropiada, pues los harapos son la librea del mendigo. Entre ms harapiento se
+apropiada, pues los harapos son la librea del mendigo. Entre más harapiento se
 
-viera, ms obtendra. Lo mismo sucede con ustedes. Si van a ir a Cristo, no
+viera, más obtendría. Lo mismo sucede con ustedes. Si van a ir a Cristo, no
 
 carguen con ustedes sus buenas acciones ni sus buenos sentimientos, pues no
 
-obtendran nada; vayan en sus pecados, pues son su librea. Su ruina es su
+obtendrían nada; vayan en sus pecados, pues son su librea. Su ruina es su
 
-argumento para alcanzar misericordia; su pobreza es la razn por la que piden las
+argumento para alcanzar misericordia; su pobreza es la razón por la que piden las
 
 limosnas celestiales, y su necesidad es la excusa para la bondad celestial.
 
@@ -1040,349 +1040,349 @@ Si yo fuera herido en el campo de batalla, y el
 
 cirujano anduviera recorriendo la zona para atender a los enfermos, se
 
-asegurara de acercarse primero a los que mostraban las peores heridas, pues en
+aseguraría de acercarse primero a los que mostraban las peores heridas, pues en
 
-la prisa de una batalla es seguro que no atendern al hombre que perdi un dedo
+la prisa de una batalla es seguro que no atenderán al hombre que perdió un dedo
 
 por un disparo, cuando hay otros cuyos brazos y piernas fueron cercenados; yo
 
-tendra mucho cuidado de exponer mi caso tan exhaustivamente como pudiera; de
+tendría mucho cuidado de exponer mi caso tan exhaustivamente como pudiera; de
 
-ninguna manera hablara con ligereza de mis dolencias, con el objeto de que mis
+ninguna manera hablaría con ligereza de mis dolencias, con el objeto de que mis
 
 heridas sangrantes fueran vendadas tan pronto como fuera posible. No me
 
-sentira inclinado a decir: Oh, no es nada; slo estoy levemente lesionado; no
+sentiría inclinado a decir: “Oh, no es nada; sólo estoy levemente lesionado; no
 
-es nada de importancia. Me encontrara en la situacin de tratar de aprovechar
+es nada de importancia”. Me encontraría en la situación de tratar de aprovechar
 
-al mximo la oportunidad, y de obtener toda la ayuda requerida tan pronto como
+al máximo la oportunidad, y de obtener toda la ayuda requerida tan pronto como
 
 fuera posible.
 
 Ahora, pecador, debes aprender este arte. No te
 
-pintes con brillantes colores. Reconoce que ests perdido y arruinado, y
+pintes con brillantes colores. Reconoce que estás perdido y arruinado, y
 
-entonces, aferrndote todava a Cristo, haz que tus propias necesidades y
+entonces, aferrándote todavía a Cristo, haz que tus propias necesidades y
 
-carencias, y muerte y ruina sirvan de argumento del por qu el Seor de la
+carencias, y muerte y ruina sirvan de argumento del por qué el Seńor de la
 
 misericordia debe mostrar Su omnipotente poder en ti.
 
 IV.
 
-En cuarto lugar, permtanme notar la manera en
+En cuarto lugar, permítanme notar la manera en
 
-la que la mujer gan el consuelo: ELLA PENS GRANDES PENSAMIENTOS ACERCA DE
+la que la mujer ganó el consuelo: ELLA PENSÓ GRANDES PENSAMIENTOS ACERCA DE
 
 CRISTO.
 
-Deben prestar su atencin a esto. El Maestro
+Deben prestar su atención a esto. El Maestro
 
-haba hablado acerca del pan de los hijos: Ahora, -argument ella- puesto que
+había hablado acerca del pan de los hijos: “Ahora”, -argumentó ella- “puesto que
 
-T eres el amo de esa mesa, yo s que T eres un padre de familia generoso, y
+Tú eres el amo de esa mesa, yo sé que Tú eres un padre de familia generoso, y
 
 hay una abundancia garantizada de pan en Tu mesa. No eres un proveedor
 
-mezquino; habr tanta abundancia para los hijos que habr migajas que arrojar
+mezquino; habrá tanta abundancia para los hijos que habrá migajas que arrojar
 
-al suelo para los perros, y los hijos no sufrirn ningn menoscabo porque los
+al suelo para los perros, y los hijos no sufrirán ningún menoscabo porque los
 
-perros sean alimentados. Ella no pensaba que el Seor fuera un administrador
+perros sean alimentados”. Ella no pensaba que el Seńor fuera un administrador
 
 de un asilo de pobres que debe repartir tantas onzas de alimento a cada uno,
 
-sino que pens que l era un proveedor generoso que mantena una mesa tan
+sino que pensó que Él era un proveedor generoso que mantenía una mesa tan
 
-buena, que todo lo que necesitaba sera comparativamente una migaja; sin
+buena, que todo lo que necesitaba sería comparativamente una migaja; sin
 
 embargo, han de recordar que lo que necesitaba era que el demonio fuera echado
 
-fuera de su hija. Era algo muy grande para ella, pero tena una estima tan alta
+fuera de su hija. Era algo muy grande para ella, pero tenía una estima tan alta
 
-de Cristo, que dijo: No es nada para l, equivale a que Cristo me d una
+de Cristo, que dijo: “No es nada para Él, equivale a que Cristo me dé una
 
-migaja. Este es el camino real al consuelo. Slo graves pensamientos de tu
+migaja”. Este es el camino real al consuelo. Sólo graves pensamientos de tu
 
-pecado te conducirn a la desesperacin; pero grandes pensamientos acerca de
+pecado te conducirán a la desesperación; pero grandes pensamientos acerca de
 
-Cristo pronto te transportarn a lo alto sobre alas de guila. Mis pecados son
+Cristo pronto te transportarán a lo alto sobre alas de águila. “Mis pecados son
 
-muchos, pero, oh!, para Jess, quitarlos todos no es nada; l puede levantar
+muchos, pero, ˇoh!, para Jesús, quitarlos todos no es nada; Él puede levantar
 
-tan fcilmente los montes de mi pecado como para m sera fcil levantar una
+tan fácilmente los montes de mi pecado como para mí sería fácil levantar una
 
 madriguera de topos con la pala. Es cierto que el peso de mi culpa me aplasta
 
-como el pie de un gigante aplastara a un gusano, pero no sera algo mayor a
+como el pie de un gigante aplastaría a un gusano, pero no sería algo mayor a
 
-una brizna de polvo para l, porque l ya ha cargado su maldicin en Su propio
+una brizna de polvo para Él, porque Él ya ha cargado su maldición en Su propio
 
-cuerpo sobre el madero. Ser algo insignificante
+cuerpo sobre el madero. Será algo insignificante
 
-para l
+para Él
 
-darme una plena remisin aunque ser una bendicin infinita
+darme una plena remisión aunque será una bendición infinita
 
-para m
+para mí
 
-el recibirla. Ella abre su
+el recibirla”. Ella abre su
 
-boca para esperar grandes cosas de Jess, y l la llena con Su amor.
+boca para esperar grandes cosas de Jesús, y Él la llena con Su amor.
 
 Les pido, queridos amigos, que hagan lo mismo.
 
-Oh, que el Espritu Santo lo habilite para hacerlo. Pero ustedes podran decir:
+Oh, que el Espíritu Santo lo habilite para hacerlo. Pero ustedes podrían decir:
 
-aydame. Bien, yo te ayudar. Debes pensar grandes pensamientos acerca de
+“ayúdame”. Bien, yo te ayudaré. Debes pensar grandes pensamientos acerca de
 
-Jess cuando recuerdes que
+Jesús cuando recuerdes que
 
-l es Dios.
+Él es Dios.
 
-Cul
+żCuál
 
-lmite podras establecer cuando tienes que tratar con Dios? Con Su palmo mide
+límite podrías establecer cuando tienes que tratar con Dios? Con Su palmo mide
 
 los cielos, y el hueco de Su mano sostiene los mares y alza las islas como algo
 
-muy pequeo. Si Jesucristo es Dios, cmo puedes pensar que no pueda salvarte?
+muy pequeńo. Si Jesucristo es Dios, żcómo puedes pensar que no pueda salvarte?
 
 Oh hombre, cuando tienes que tratar con el Eterno y el Infinito deja que tus
 
 dudas vuelen con los vientos. Piensa de nuevo que siendo Dios,
 
-sufri el castigo del pecado;
+sufrió el castigo del pecado;
 
 un dolor
 
-que el hombre solo no habra podido soportar. El peso de la ira de Su Padre
+que el hombre solo no habría podido soportar. El peso de la ira de Su Padre
 
-cay sobre Jess en el Calvario. Puedes verlo con Sus manos y Sus pies
+cayó sobre Jesús en el Calvario. żPuedes verlo con Sus manos y Sus pies
 
-traspasados, puedes leer las lneas de agona escritas sobre Su frente coronada
+traspasados, puedes leer las líneas de agonía escritas sobre Su frente coronada
 
 de espinas, y no creer que sea capaz de salvar? Dios sobre todo, la gloria de
 
 cuyo semblante llena el cielo de esplendor, entrega Su rostro para ser cubierto
 
-de vergonzosos escupitajos, y Su frente para ser baada con gotas de sudor sangriento.
+de vergonzosos escupitajos, y Su frente para ser bańada con gotas de sudor sangriento.
 
-Hay algo imposible para los mritos del Dios agonizante?
+żHay algo imposible para los méritos del Dios agonizante?
 
-Piensa en eso, pecador, y no le pondrs ningn
+Piensa en eso, pecador, y no le pondrás ningún
 
-lmite a lo que Jess pueda hacer. Pero Jess
+límite a lo que Jesús pueda hacer. Pero Jesús
 
-resucit.
+resucitó.
 
-Contmplale cuando se levanta de la tumba, ascendiendo al
+Contémplale cuando se levanta de la tumba, ascendiendo al
 
-trono de Su Padre en medio del jbilo de diez mil ngeles; mira cmo lleva las
+trono de Su Padre en medio del júbilo de diez mil ángeles; mira cómo lleva las
 
-llaves del cielo y de la muerte y del infierno, balancendose en Su cinto. Qu
+llaves del cielo y de la muerte y del infierno, balanceándose en Su cinto. żQué
 
-es lo que no puede hacer? No puede salvarte, Aquel que es exaltado en lo alto
+es lo que no puede hacer? żNo puede salvarte, Aquel que es “exaltado en lo alto
 
-para dar arrepentimiento, que puede salvar perpetuamente, viendo que vive
+para dar arrepentimiento”, que “puede salvar perpetuamente”, viendo que vive
 
 para interceder; puedes dudar de Su poder de salvar? Oh, no deshonres a mi
 
-Seor. Confa en l ahora.
+Seńor. Confía en Él ahora.
 
-Pero t ests dudando todava; entonces te
+Pero tú estás dudando todavía; entonces te
 
-traer otra cosa que echar fuera todas tus dudas por causa del dulce amor de
+traeré otra cosa que echará fuera todas tus dudas por causa del dulce amor de
 
-Dios, y har que te aferres al Salvador. Hay algunas aldeas en los condados
+Dios, y hará que te aferres al Salvador. Hay algunas aldeas en los condados
 
 orientales donde hay un celebrado doctor, y me he enterado que hay diligencias
 
-que inician su recorrido en remotos caseros cargados de gente que viaja
+que inician su recorrido en remotos caseríos cargados de gente que viaja
 
-cuarenta o cincuenta kilmetros para consultar a ese hombre famoso; yo no
+cuarenta o cincuenta kilómetros para consultar a ese hombre famoso; yo no
 
-podra decir si les ha hecho bien o no, pero el ejemplo me es muy til.
+podría decir si les ha hecho bien o no, pero el ejemplo me es muy útil.
 
-Supongan que uno de ustedes saliera para ver a este doctor. Sintindote muy
+Supongan que uno de ustedes saliera para ver a este doctor. Sintiéndote muy
 
 enfermo y adolorido, tienes miedo de que no te sirva de nada cuando llegues
 
-all; pero en el camino te encuentras con diligencias llenas de personas que
+allá; pero en el camino te encuentras con diligencias llenas de personas que
 
-viajan muy alegremente de regreso a casa. Te preguntan: adnde vas?, y t
+viajan muy alegremente de regreso a casa. Te preguntan: “żadónde vas?”, y tú
 
-respondes: Voy a ver al doctor Fulano de Tal porque estoy enfermo. Oh!,
+respondes: “Voy a ver al doctor Fulano de Tal porque estoy enfermo”. “ˇOh!”,
 
--dicen- es una dicha que puedas ir; hemos estado all; estbamos tan mal como
+-dicen- “es una dicha que puedas ir; hemos estado allí; estábamos tan mal como
 
-t y fuimos curados, y ahora vamos a casa. Pero, -preguntas t- acaso algunos
+tú y fuimos curados, y ahora vamos a casa”. “Pero”, -preguntas tú- “żacaso algunos
 
-de ustedes tena una pierna mala como la ma? Oh, s, -responde uno- yo
+de ustedes tenía una pierna mala como la mía?” “Oh, sí”, -responde uno- “yo
 
-tena las dos piernas malas; mi caso era incluso peor que el tuyo. Bien,
+tenía las dos piernas malas; mi caso era incluso peor que el tuyo”. “Bien,
 
-ests ahora perfectamente restaurado? S, -dice aquel hombre- mira qu
+żestás ahora perfectamente restaurado?” “Sí”, -dice aquel hombre- “mira qué
 
-bien camino, estoy plenamente restaurado. Acaso no seguiras tu camino lleno
+bien camino, estoy plenamente restaurado”. żAcaso no seguirías tu camino lleno
 
-de confianza? T estabas medio miedoso antes, pero ahora dices: ahora voy a
+de confianza? Tú estabas medio miedoso antes, pero ahora dices: “ahora voy a
 
 proseguir mi camino alegremente, pues estas curaciones son otras tantas pruebas
 
-del poder del mdico.
+del poder del médico”.
 
-Hay cientos de personas esta maana en este Tabernculo
+Hay cientos de personas esta mańana en este ‘Tabernáculo
 
-libre que pueden decir: S, Jess puede salvar, y ellos pueden dar la mejor
+libre’ que pueden decir: “Sí, Jesús puede salvar”, y ellos pueden dar la mejor
 
-prueba de ello agregando asimismo: l me ha salvado a m! Queridos oyentes,
+prueba de ello agregando asimismo: “ˇÉl me ha salvado a mí!” Queridos oyentes,
 
-yo s que Cristo puede salvar a los pecadores, pues he visto Su salvacin en
+yo sé que Cristo puede salvar a los pecadores, pues he visto Su salvación en
 
-miles de casos; pero la mejor prueba que jams recib fue cuando l me salv a
+miles de casos; pero la mejor prueba que jamás recibí fue cuando Él me salvó a
 
-m. Cuando lo mir y fui aliviado y mi rostro no se vio avergonzado, entonces
+mí. Cuando lo miré y fui aliviado y mi rostro no se vio avergonzado, entonces
 
-supe que no necesitaba ms argumentos.
+supe que no necesitaba más argumentos.
 
-Oh, pecador, l ha salvado a borrachos,
+Oh, pecador, Él ha salvado a borrachos,
 
-blasfemos, rameras, proxenetas y adlteros. Pablo dice que l salv a quienes
+blasfemos, rameras, proxenetas y adúlteros. Pablo dice que Él salvó a quienes
 
-se haban manchado a s mismos con pecados innombrables, pues afirma: Y esto
+se habían manchado a sí mismos con pecados innombrables, pues afirma: “Y esto
 
-erais algunos; mas ya habis sido lavados. Incluso el asesino puede ver que
+erais algunos; mas ya habéis sido lavados”. Incluso el asesino puede ver que
 
-sus hechos de sangre son limpiados por la sangre de Jess. Todo pecado y
+sus hechos de sangre son limpiados por la sangre de Jesús”. Todo pecado y
 
-blasfemia sern perdonados a los hombres, pues la sangre de Jesucristo su Hijo
+blasfemia serán perdonados a los hombres, pues “la sangre de Jesucristo su Hijo
 
-nos limpia de todo pecado. l es un grandioso Salvador, es el ms grandioso
+nos limpia de todo pecado”. Él es un grandioso Salvador, es el más grandioso
 
-Salvador, l es un Salvador ms grande que el mayor; y en cuanto a tus pecados,
+Salvador, Él es un Salvador más grande que el mayor; y en cuanto a tus pecados,
 
-se hundirn debajo del mar de Su sangre expiadora, y nunca sern encontrados
+se hundirán debajo del mar de Su sangre expiadora, y nunca serán encontrados
 
-contra ti jams. La mujer pens grandes pensamientos de Cristo y eso le aport
+contra ti jamás. La mujer pensó grandes pensamientos de Cristo y eso le aportó
 
 el consuelo.
 
 V.
 
-Y as pueden ver, por ltimo, QUE ELLA GAN LA
+Y así pueden ver, por último, QUE ELLA GANÓ LA
 
 VICTORIA.
 
-Ella confes lo que Cristo le hizo ver; ella se
+Ella confesó lo que Cristo le hizo ver; ella se
 
-aferr a l, y utiliz argumentos tomados incluso de Sus speras palabras; ella
+aferró a Él, y utilizó argumentos tomados incluso de Sus ásperas palabras; ella
 
-crey grandes cosas de l, y as le venci. Ahora djenme decirles que la razn
+creyó grandes cosas de Él, y así le venció. Ahora déjenme decirles que la razón
 
-por la que venci a Cristo radicaba realmente en esto: que ella se haba
+por la que venció a Cristo radicaba realmente en esto: que ella se había
 
-vencido, antes que nada, a s misma. Ella haba vencido en otra lucha antes de
+vencido, antes que nada, a sí misma. Ella había vencido en otra lucha antes de
 
 luchar con el Salvador, una lucha con su propia alma. Me parece verla antes de
 
-salir de su casa. Estaba sentada un da cuando una vecina muy comunicativa vino
+salir de su casa. Estaba sentada un día cuando una vecina muy comunicativa vino
 
-y le dijo: Has odo acerca del nuevo profeta? No, no me he enterado: qu
+y le dijo: “żHas oído acerca del nuevo profeta?” “No, no me he enterado: żqué
 
-hay acerca de l? Oh, es un grandioso sanador de enfermedades! Cuntame al
+hay acerca de Él?” “ˇOh, es un grandioso sanador de enfermedades!” “Cuéntame al
 
-respecto, inst la mujer, pues ese tema le interesaba. Oy la historia; saba
+respecto”, instó la mujer, pues ese tema le interesaba. Oyó la historia; sabía
 
-que su amiga hablaba mucho ms de lo necesario, y no le crey lo suficiente. Al
+que su amiga hablaba mucho más de lo necesario, y no le creyó lo suficiente. Al
 
-da siguiente fue a casa de la vecina, y le pregunt: Ests segura de que lo
+día siguiente fue a casa de la vecina, y le preguntó: “żEstás segura de que lo
 
-que me dijiste era muy cierto? Bien, -le respondi- me enter por Sutana de
+que me dijiste era muy cierto?” “Bien”, -le respondió- “me enteré por Sutana de
 
-Tal, cuya hija fue sanada. La mujer resolvi entonces investigar el asunto, y
+Tal, cuya hija fue sanada”. La mujer resolvió entonces investigar el asunto, y
 
-por fin encontr a un testigo ocular cuya palabra era confiable. S, -dijo el
+por fin encontró a un testigo ocular cuya palabra era confiable. “Sí”, -dijo el
 
-amigo- es el Mesas, el Hijo de Dios, que ha descendido a la tierra, y yo
+amigo- “es el Mesías, el Hijo de Dios, que ha descendido a la tierra, y yo
 
 estoy seguro de que es capaz de curar, pues he visto algunos milagros
 
-portentosos obrados por l; no hay ninguna duda acerca de Su poder. Al principio
+portentosos obrados por Él; no hay ninguna duda acerca de Su poder”. Al principio
 
-la mujer estaba perpleja. Ella haba sido educada en el paganismo; haba
+la mujer estaba perpleja. Ella había sido educada en el paganismo; había
 
-probado con sus dioses paganos, y le haban fallado; haba probado con sus
+probado con sus dioses paganos, y le habían fallado; había probado con sus
 
-sacerdotes, quienes slo la haban engaado, y tal vez pensaba que esto era
+sacerdotes, quienes sólo la habían engańado, y tal vez pensaba que esto era
 
-tambin un engao. Pero reflexion al respecto. Haba cincuenta objeciones;
+también un engańo. Pero reflexionó al respecto. Había cincuenta objeciones;
 
-pero entonces se dijo: He odo que habr tales y tales seales que acompaarn
+pero entonces se dijo: “He oído que habrá tales y tales seńales que acompańarán
 
-la venida del Mesas, y este Hombre es justamente lo que decan que sera el
+la venida del Mesías, y este Hombre es justamente lo que decían que sería el
 
-Mesas; yo creo que l es el Mesas, y si es el Hijo de Dios, l ha de ser
+Mesías; yo creo que Él es el Mesías, y si es el Hijo de Dios, Él ha de ser
 
-capaz de sanar a mi hija. Entonces surgi un ejrcito de dificultades. T
+capaz de sanar a mi hija”. Entonces surgió un ejército de dificultades. “Tú
 
-eres cananea. S, pero fue dicho del Mesas: No quebrar la caa cascada, ni
+eres cananea”. “Sí, pero fue dicho del Mesías: ‘No quebrará la cańa cascada, ni
 
-apagar el pbilo que humeare; por tanto, ir y probar con l; y adems est
+apagará el pábilo que humeare’; por tanto, iré y probaré con Él; y además está
 
-escrito: Los gentiles esperarn en l; yo soy una mujer gentil, y voy a
+escrito: ‘Los gentiles esperarán en él’; yo soy una mujer gentil, y voy a
 
-confiar en l. Puedo suponer que ella debati todo esto en su mente, y
+confiar en Él”. Puedo suponer que ella debatió todo esto en su mente, y
 
-habindose vencido primero a s misma, fcilmente venci al dispuesto Salvador.
+habiéndose vencido primero a sí misma, fácilmente venció al dispuesto Salvador.
 
 Posiblemente algunos de ustedes piensen que hay
 
-un grado de dificultad en llevar al Seor a salvar a un pecador. No hay ninguno
+un grado de dificultad en llevar al Seńor a salvar a un pecador. No hay ninguno
 
-en lo absoluto. La dificultad radica en llevar al pecador a confiar en Jess.
+en lo absoluto. La dificultad radica en llevar al pecador a confiar en Jesús.
 
-All est el trabajo, all est la labor. En el caso de esta mujer, el conflicto
+Allí está el trabajo, allí está la labor. En el caso de esta mujer, el conflicto
 
-con Jess fue nicamente externo
+con Jesús fue únicamente externo
 
 mas
 
-no real. l ya
+no real. Él ya
 
 estaba de su lado. El verdadero conflicto estaba en su propia incredulidad, y
 
-cuando su fe demostr ser victoriosa internamente, se torn victoriosa con
+cuando su fe demostró ser victoriosa internamente, se tornó victoriosa con
 
 Cristo.
 
-Pecador, no hay ningn obstculo entre t y la
+Pecador, no hay ningún obstáculo entre tú y la
 
-salvacin sino t mismo. Hablo osadamente? Cristo ha rebajado cada monte en tu
+salvación sino tú mismo. żHablo osadamente? Cristo ha rebajado cada monte en tu
 
 camino, y ha rellenado cada valle, y ha hecho una amplia calzada que va desde
 
-ti hasta el propio trono de Dios. La dificultad est contigo, no con Dios. Qu
+ti hasta el propio trono de Dios. La dificultad está contigo, no con Dios. żQué
 
-pasa contigo, entonces? Puedes confiar en Cristo, querido oyente? Te puedes
+pasa contigo, entonces? żPuedes confiar en Cristo, querido oyente? żTe puedes
 
-arrojar por completo sobre Jess crucificado? Si fuera as, tus pecados te son
+arrojar por completo sobre Jesús crucificado? Si fuera así, tus pecados te son
 
-perdonados, y prosigue tu camino y regocjate. Pero si no puedes, all est tu
+perdonados, y prosigue tu camino y regocíjate. Pero si no puedes, allí está tu
 
-dificultad. Oh, que Dios te ayude a contender con ella! Dudar de Cristo es un
+dificultad. ˇOh, que Dios te ayude a contender con ella! Dudar de Cristo es un
 
-pecado, es una crueldad; es un tajo seco sospechar que l no est dispuesto a
+pecado, es una crueldad; es un tajo seco sospechar que Él no está dispuesto a
 
-perdonar. Desecha, te lo suplico, tu malvada incredulidad! Que Dios el
+perdonar. ˇDesecha, te lo suplico, tu malvada incredulidad! ˇQue Dios el
 
-Espritu Santo te ayude a hacerlo! Ven tal como eres, y descansa en Jess, y
+Espíritu Santo te ayude a hacerlo! Ven tal como eres, y descansa en Jesús, y
 
-encontrars vida eterna.
+encontrarás vida eterna.
 
-Porcin leda antes del sermn: Mateo 15: 21-39.
+Porción leída antes del sermón: Mateo 15: 21-39.
 
 Nota del
 
@@ -1390,15 +1390,15 @@ traductor:
 
 Spurgeon hace
 
-referencia al Colegio de los Heraldos: su propsito es asignar nuevos escudos
+referencia al Colegio de los Heraldos: su propósito es asignar nuevos escudos
 
-de armas y rastrear linajes con el fin de determinar derechos y privilegios herldicos.
+de armas y rastrear linajes con el fin de determinar derechos y privilegios heráldicos.
 
 Cualquier linaje
 
 resulta ser insignificante, concluye Spurgeon.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 10/Septiembre/2009
 

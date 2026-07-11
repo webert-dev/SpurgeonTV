@@ -1,164 +1,164 @@
 # Sermón 2364 | Sermón 2364
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Pobreza y Riquezas
 
 NO. 2364
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL JUEVES 22 DE MARZO DE 1888
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
-Y TAMBIN LEDO EL
+Y TAMBIÉN LEÍDO EL
 
 DOMINGO 10 DE JUNIO DE 1894.
 
-Porque ya conocis la gracia de
+“Porque ya conocéis la gracia de
 
-nuestro Seor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico,
+nuestro Seńor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico,
 
-para que vosotros con su pobreza fueseis enriquecidos. 2 Corintios 8: 9.
+para que vosotros con su pobreza fueseis enriquecidos”. 2 Corintios 8: 9.
 
 Estoy muy extenuado esta noche ya que he tenido
 
-que hacer un supremo esfuerzo casi ininterrumpidamente, da tras da, para
+que hacer un supremo esfuerzo casi ininterrumpidamente, día tras día, para
 
-dirigirme a grandes auditorios. Pens, por tanto, que el nico tema que podra
+dirigirme a grandes auditorios. Pensé, por tanto, que el único tema que podría
 
-manejar sera algo apacible, que no requiriese de grandes pensamientos, ni de
+manejar sería algo apacible, que no requiriese de grandes pensamientos, ni de
 
-parte del predicador ni de sus oyentes. Necesito darme un bao y descansar
+parte del predicador ni de sus oyentes. Necesito darme un bańo y descansar
 
-mientras les hablo a ustedes y, por ventura no les dae a ustedes tampoco, pues
+mientras les hablo a ustedes y, por ventura no les dańe a ustedes tampoco, pues
 
-no dudo de que se cansen a menudo con las preocupaciones cotidianas. As que no
+no dudo de que se cansen a menudo con las preocupaciones cotidianas. Así que no
 
-vamos a considerar ningn problema difcil, ni ninguna doctrina misteriosa en
+vamos a considerar ningún problema difícil, ni ninguna doctrina misteriosa en
 
-estos momentos; antes bien, slo hablaremos de cosas que conocemos.
+estos momentos; antes bien, sólo hablaremos de cosas que conocemos.
 
-El texto comienza as: Porque ya
+El texto comienza así: “Porque ya
 
-conocis
+conocéis
 
-la gracia de nuestro Seor
+la gracia de nuestro Seńor
 
-Jesucristo. Ustedes conocen eso, pues lo creen. No guardan ninguna duda de que
+Jesucristo”. Ustedes conocen eso, pues lo creen. No guardan ninguna duda de que
 
-hubo una maravillosa gracia en el corazn del Seor Jesucristo. La gracia es un
+hubo una maravillosa gracia en el corazón del Seńor Jesucristo. La gracia es un
 
-atributo del Padre, y del Hijo y del Espritu Santo; y ustedes saben que hubo
+atributo del Padre, y del Hijo y del Espíritu Santo; y ustedes saben que hubo
 
-infinita gracia, favor y compasin en el corazn del Seor Jesucristo; y fue
+infinita gracia, favor y compasión en el corazón del Seńor Jesucristo; y fue
 
-eso, y no los mritos de ustedes, lo que le indujo a abandonar las
+eso, y no los méritos de ustedes, lo que le indujo a abandonar las
 
 prerrogativas reales del cielo y soportar los sufrimientos y las aflicciones de
 
-nuestra condicin moral. Ya conocis la gracia de nuestro Seor Jesucristo.
+nuestra condición moral. “Ya conocéis la gracia de nuestro Seńor Jesucristo”.
 
-Ustedes conocen tambin esta gracia porque han
+Ustedes conocen también esta gracia porque han
 
-aprendido a percibir su resultado. No slo la conocen como una semilla, sino
+aprendido a percibir su resultado. No sólo la conocen como una semilla, sino
 
 que conocen las benditas flores que han brotado de ella porque, en Su gracia,
 
-l se hizo pobre para que ustedes fuesen enriquecidos; y, al tomar de esas
+Él se hizo pobre para que ustedes fuesen enriquecidos; y, al tomar de esas
 
-riquezas que l ha conseguido para ustedes, no slo han bebido de Su amarga
+riquezas que Él ha conseguido para ustedes, no sólo han bebido de Su amarga
 
 copa, sino que han bebido del vino adobado de Sus granadas, de tal manera que
 
-ahora conocen la gracia de nuestro Seor Jesucristo por su fruto y su
+ahora conocen la gracia de nuestro Seńor Jesucristo por su fruto y su
 
 resultado.
 
-Yo pienso que el apstol quiso decir aqu que
+Yo pienso que el apóstol quiso decir aquí que
 
-conocemos tambin la gracia de nuestro Seor Jesucristo por medio de lo que l ha
+conocemos también la gracia de nuestro Seńor Jesucristo por medio de lo que Él ha
 
-hecho por nosotros. Podramos haber sabido, en realidad, que Jess era
+hecho por nosotros. Podríamos haber sabido, en realidad, que Jesús era
 
-misericordioso; pero no habramos podido verlo ni conocerlo en la prctica si
+misericordioso; pero no habríamos podido verlo ni conocerlo en la práctica si
 
-l, habiendo sido rico, no se hubiese hecho pobre para que nosotros, con Su
+Él, habiendo sido rico, no se hubiese hecho pobre para que nosotros, con Su
 
-pobreza, fusemos enriquecidos. La manera en que el apstol muestra esa verdad
+pobreza, fuésemos enriquecidos. La manera en que el apóstol muestra esa verdad
 
-es justamente as.
+es justamente así.
 
-El apstol estaba exhortando a los cristianos
+El apóstol estaba exhortando a los cristianos
 
-corintios a la liberalidad. Ellos constituan una comunidad mucho ms rica que
+corintios a la liberalidad. Ellos constituían una comunidad mucho más rica que
 
 la iglesia de Filipos; pero Pablo les dice que las iglesias de Macedonia, de su
 
-pobreza haban sido a menudo muy generosas con los pobres, y persuade a esos
+pobreza habían sido a menudo muy generosas con los pobres, y persuade a esos
 
 corintios, que gozaban de mayor prosperidad, a no verse superados por los
 
-filipenses. Despus de que Pablo les hubo citado ese ejemplo, sinti que poda
+filipenses. Después de que Pablo les hubo citado ese ejemplo, sintió que podía
 
-recurrir a un argumento mucho ms slido. Pareca decirles: Cmo he de
+recurrir a un argumento mucho más sólido. Parecía decirles: “żCómo he de
 
-conocer la gracia que poseen si no es por sus obras? Cmo he de saber que
+conocer la gracia que poseen si no es por sus obras? żCómo he de saber que
 
 tienen a Cristo en sus corazones si no es por lo que dan de gracia para ayudar
 
-a sus amigos ms pobres? Luego proporciona este versculo como la prueba de que
+a sus amigos más pobres? Luego proporciona este versículo como la prueba de que
 
-hemos de ver la gracia por los resultados que produce: Ya conocis la gracia
+hemos de ver la gracia por los resultados que produce: “Ya conocéis la gracia
 
-de nuestro Seor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico,
+de nuestro Seńor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico,
 
-para que vosotros con su pobreza fueseis enriquecidos.
+para que vosotros con su pobreza fueseis enriquecidos”.
 
 La misma ley que dice que la gracia interna debe
 
-ser manifestada por la accin externa, se aplica a Cristo y a nosotros. Si l
+ser manifestada por la acción externa, se aplica a Cristo y a nosotros. Si Él
 
-no se hubiera hecho pobre para hacernos ricos, cmo habramos conocido
+no se hubiera hecho pobre para hacernos ricos, żcómo habríamos conocido
 
-plenamente Su gracia? Y si ustedes y yo no diramos, de nuestro dinero y de
+plenamente Su gracia? Y si ustedes y yo no diéramos, de nuestro dinero y de
 
-nuestros talentos, a los pobres y a la causa de Cristo, cmo sabramos y cmo
+nuestros talentos, a los pobres y a la causa de Cristo, żcómo sabríamos y cómo
 
-sabran los dems que hay alguna gracia dentro de nuestros corazones?
+sabrían los demás que hay alguna gracia dentro de nuestros corazones?
 
 Amados, tal como lo he dicho antes, ustedes
 
-conocen la gracia de nuestro Seor Jesucristo no solamente porque han odo de
+conocen la gracia de nuestro Seńor Jesucristo no solamente porque han oído de
 
 ella, sino porque la han visto, porque han gustado y han experimentado la
 
-gracia de nuestro Seor Jesucristo. Su esperanza del cielo descansa en esa
+gracia de nuestro Seńor Jesucristo. Su esperanza del cielo descansa en esa
 
-gracia y su consuelo cotidiano descansa all. Si Cristo no fuera
+gracia y su consuelo cotidiano descansa allí. Si Cristo no fuera
 
-misericordioso, ustedes estaran sin la gracia. Si no conocieran Su gracia, con
+misericordioso, ustedes estarían sin la gracia. Si no conocieran Su gracia, con
 
-toda seguridad no tendran ninguna gracia propia, pues es de l, como de una
+toda seguridad no tendrían ninguna gracia propia, pues es de Él, como de una
 
 fuente que fluye perennemente, de quien todas las corrientes de gracia les
 
 vienen a ustedes. Bienaventurados los hombres y bienaventuradas las mujeres
 
-que, en el momento en que leo este texto: Ya conocis la gracia de nuestro
+que, en el momento en que leo este texto: “Ya conocéis la gracia de nuestro
 
-Seor Jesucristo, pueden decir: S, en verdad yo la conozco, gloria sea dada
+Seńor Jesucristo”, pueden decir: “ˇSí, en verdad yo la conozco, gloria sea dada
 
-a Dios!
+a Dios!”
 
 Esta noche tengo que hablar de dos cosas; ambas
 
-son muy simples, y estn en la superficie del texto. La primera es:
+son muy simples, y están en la superficie del texto. La primera es:
 
-la pobreza de nuestro Seor Jesucristo;
+la pobreza de nuestro Seńor Jesucristo;
 
 y
 
@@ -172,301 +172,301 @@ I.
 
 Primero, hemos de pensar en LA POBREZA DE
 
-NUESTRO SEOR JESUCRISTO: Por amor a vosotros se hizo pobre, siendo rico.
+NUESTRO SEŃOR JESUCRISTO: “Por amor a vosotros se hizo pobre, siendo rico”.
 
 Esta pobreza fue voluntariamente asumida por
 
-nuestra causa. No haba ninguna necesidad de que Cristo fuera pobre, excepto
+nuestra causa. No había ninguna necesidad de que Cristo fuera pobre, excepto
 
 por causa nuestra. Algunas personas nacen pobres, y pareciera como si, a pesar
 
 de todas sus luchas, no pudieran nunca salir de la pobreza; pero puede decirse
 
-verdaderamente de nuestro Seor Jesucristo que era rico. He de llevarlos en
+verdaderamente de nuestro Seńor Jesucristo que “era rico”. żHe de llevarlos en
 
 el pensamiento a las glorias de la eternidad cuando, como Dios verdadero de
 
 Dios verdadero, moraba en el seno del Padre? Era tan rico que todo lo que
 
-posea era como nada para l. No dependa de ninguno de los ngeles que haba
+poseía era como nada para Él. No dependía de ninguno de los ángeles que había
 
 creado, ni Su gloria estaba sujeta a ninguna de las obras de Sus manos.
 
-Verdaderamente el cielo era Su morada; pero habra podido crear diez mil cielos
+Verdaderamente el cielo era Su morada; pero habría podido crear diez mil cielos
 
-si hubiera querido hacerlo. Todos los ms grandes portentos que realiz no eran
+si hubiera querido hacerlo. Todos los más grandes portentos que realizó no eran
 
-sino muestras de lo que poda hacer. Dentro de Su poder estaba toda la posibilidad
+sino muestras de lo que podía hacer. Dentro de Su poder estaba toda la posibilidad
 
 de tener una riqueza inconcebible e inmensurable; sin embargo, hizo a un lado
 
-todo eso, se priv del poder de enriquecerse y descendi a la tierra para
+todo eso, se privó del poder de enriquecerse y descendió a la tierra para
 
-ayudarnos. Su pobreza era plenamente voluntaria; haba una necesidad impuesta
+ayudarnos. Su pobreza era plenamente voluntaria; había una necesidad impuesta
 
-sobre l, pero esa nica necesidad era Su propio amor. No haba ninguna
+sobre Él, pero esa única necesidad era Su propio amor. No había ninguna
 
-necesidad, en lo que a l concierne, para que nunca fuera pobre; la nica
+necesidad, en lo que a Él concierne, para que nunca fuera pobre; la única
 
-necesidad era que nosotros estbamos necesitados, y l nos am de tal manera
+necesidad era que nosotros estábamos necesitados, y Él nos amó de tal manera
 
 que quiso rescatarnos de la pobreza y hacernos eternamente ricos.
 
-La pobreza de nuestro Seor fue tambin muy
+La pobreza de nuestro Seńor fue también muy
 
-enftica. Yo creo que es muy cierto que nadie sabe tanto lo que significa ser
+enfática. Yo creo que es muy cierto que nadie sabe tanto lo que significa ser
 
 pobre como la persona que fue rica una vez. Quien conoce verdaderamente la
 
-mendicidad es el emperador cado que tiene que mendigar. Quien sabe
+mendicidad es el emperador caído que tiene que mendigar. Quien sabe
 
-verdaderamente en qu consiste la pobreza es el hombre que una vez posey abundantes
+verdaderamente en qué consiste la pobreza es el hombre que una vez poseyó abundantes
 
-acres y que al final tiene que rentar un alojamiento en un desvn.
+acres y que al final tiene que rentar un alojamiento en un desván.
 
-As sucedi con el Salvador; l era
+Así sucedió con el Salvador; Él era
 
-enfticamente rico. No se puede comprimir dentro la palabra rico todo lo que
+enfáticamente rico. No se puede comprimir dentro la palabra “rico” todo lo que
 
-Jess fue; se siente que rico es una palabra muy pobre, aunque sea rica, para
+Jesús fue; se siente que ‘rico’ es una palabra muy pobre, aunque sea rica, para
 
-describir Su condicin celestial. l era enfticamente rico; y as, cuando
+describir Su condición celestial. Él era enfáticamente rico; y así, cuando
 
-descendi a la pobreza, fue una pobreza con un nfasis puesto en ella, ya que
+descendió a la pobreza, fue una pobreza con un énfasis puesto en ella, ya que
 
-el contraste era muy grande. La diferencia entre el hombre ms rico y el ms
+el contraste era muy grande. La diferencia entre el hombre más rico y el más
 
 pobre no es nada simplemente comparada con la diferencia entre Cristo en la
 
-gloria de Su Deidad y Cristo en Su humillacin, pues el abatimiento fue
+gloria de Su Deidad y Cristo en Su humillación, pues el abatimiento fue
 
-inmensurable. No podran describir Sus riquezas, y no podran describir Su
+inmensurable. No podrían describir Sus riquezas, y no podrían describir Su
 
-pobreza. Ustedes no han tenido nunca la menor idea de cun alto estaba, como
+pobreza. Ustedes no han tenido nunca la menor idea de cuán alto estaba, como
 
-Dios; y no podran imaginar nunca cun bajo se abati cuando clam: Dios mo,
+Dios; y no podrían imaginar nunca cuán bajo se abatió cuando clamó: “Dios mío,
 
-Dios mo, por qu me has desamparado?
+Dios mío, żpor qué me has desamparado?”
 
 Su pobreza, entonces, fue asumida voluntariamente,
 
-y fue enfatizada por el contraste con las riquezas que antes posea. Ahora
+y fue enfatizada por el contraste con las riquezas que antes poseía. Ahora
 
 tratemos de examinar algunos de los detalles de esta pobreza.
 
 Primero, esta pobreza de Cristo fue vista
 
-en Su condicin.
+en Su condición.
 
-Ser hombre constitua
+Ser hombre constituía
 
-para l una gran pobreza. La condicin humana es una pobre cosa cuando se la
+para Él una gran pobreza. La condición humana es una pobre cosa cuando se la
 
-compara con la Deidad. Cun estrecho espacio llena el hombre; pero Dios es
+compara con la Deidad. Cuán estrecho espacio llena el hombre; pero Dios es
 
-infinito. Cun poco puede hacer el hombre; sin embargo, Dios es omnipotente.
+infinito. Cuán poco puede hacer el hombre; sin embargo, Dios es omnipotente.
 
-Cun poco, en verdad, sabe el hombre; pero Dios es omnisciente. Cun confinado
+Cuán poco, en verdad, sabe el hombre; pero Dios es omnisciente. Cuán confinado
 
-est el hombre a un solo lugar; pero Dios es omnipresente. Yo no digo que Jess
+está el hombre a un solo lugar; pero Dios es omnipresente. Yo no digo que Jesús
 
-ces nunca de ser Dios, pero nosotros recordamos en verdad que se hizo hombre,
+cesó nunca de ser Dios, pero nosotros recordamos en verdad que se hizo hombre,
 
-y al hacerse hombre, se volvi pobre en comparacin con Su condicin como Dios.
+y al hacerse hombre, se volvió pobre en comparación con Su condición como Dios.
 
-Pero entonces, como hombre, fue tambin un hombre pobre. l podra haber nacido
+Pero entonces, como hombre, fue también un hombre pobre. Él podría haber nacido
 
-en salones de mrmol, blandir el cetro del imperio universal y recibir desde Su
+en salones de mármol, blandir el cetro del imperio universal y recibir desde Su
 
 nacimiento el homenaje de toda la humanidad. Pero en vez de eso, ustedes lo
 
-saben, fue conocido como el hijo del carpintero; Su madre fue slo una humilde doncella
+saben, fue conocido como el hijo del carpintero; Su madre fue sólo una humilde doncella
 
-juda, y su lugar de nacimiento fue un establo, una pobre posada para el
+judía, y su lugar de nacimiento fue un establo, una pobre posada para el
 
-Prncipe de los reyes de la tierra. La primera etapa de Su vida la pas en un
+Príncipe de los reyes de la tierra. La primera etapa de Su vida la pasó en un
 
-taller de carpintero, y despus, Sus compaeros fueron mayormente unos pobres
+taller de carpintero, y después, Sus compańeros fueron mayormente unos pobres
 
-pescadores. No se le encuentra frecuentando la compaa de senadores ni de
+pescadores. No se le encuentra frecuentando la compańía de senadores ni de
 
-filsofos ni de los grandes de la tierra; antes bien, va de un humilde hogar a
+filósofos ni de los grandes de la tierra; antes bien, va de un humilde hogar a
 
-otro, y para Su sustento depende de las ddivas de Sus seguidores. Ciertas
+otro, y para Su sustento depende de las dádivas de Sus seguidores. Ciertas
 
-mujeres le ministraban de sus bienes. l estuvo toda Su vida familiarizado con
+mujeres le ministraban de sus bienes. Él estuvo toda Su vida familiarizado con
 
-la pobreza, al punto que poda decir: Las zorras tienen guaridas, y las aves
+la pobreza, al punto que podía decir: “Las zorras tienen guaridas, y las aves
 
-del cielo nidos; mas el Hijo del Hombre no tiene dnde recostar su cabeza. Ustedes
+del cielo nidos; mas el Hijo del Hombre no tiene dónde recostar su cabeza”. Ustedes
 
-recuerdan ese pasaje que est dividido de manera que un nuevo captulo da
+recuerdan ese pasaje que está dividido de manera que un nuevo capítulo da
 
-comienzo en el punto en que no debera haber ninguna divisin: Cada uno se fue
+comienzo en el punto en que no debería haber ninguna división: “Cada uno se fue
 
-a su casa; y Jess se fue al monte de los Olivos, pues l no tena una casa;
+a su casa; y Jesús se fue al monte de los Olivos”, pues Él no tenía una casa;
 
-Su nico hogar estaba entre los olivos donde imploraba a Su Dios.
+Su único hogar estaba entre los olivos donde imploraba a Su Dios.
 
 Luego recuerden que Cristo, mientras estuvo
 
-aqu, fue un siervo; era el siervo del Padre. No estim el ser igual a Dios
+aquí, fue un siervo; era el siervo del Padre. No estimó el ser igual a Dios
 
 como cosa
 
 a
 
-que aferrarse y tom forma de siervo. Ha
+que aferrarse y tomó forma de siervo. Ha
 
-sido bien llamado por los Latinos
+sido bien llamado por los ‘Latinos’
 
-Servus
+“Servus
 
-servorum,
+servorum”,
 
-el siervo de los siervos; y lo ven en ese carcter cuando se
+el siervo de los siervos; y lo ven en ese carácter cuando se
 
-levanta de la cena, se quita Su manto, toma una toalla, se la cie, y poniendo
+levanta de la cena, se quita Su manto, toma una toalla, se la cińe, y poniendo
 
-agua en un lebrillo, comienza a lavar los pies de Sus discpulos. Bien dijo: Yo
+agua en un lebrillo, comienza a lavar los pies de Sus discípulos. Bien dijo: “Yo
 
-estoy entre vosotros como el que sirve. Aquel, ante quien el refulgente
+estoy entre vosotros como el que sirve”. Aquel, ante quien el refulgente
 
-serafn vela su rostro y yace abatido en humilde adoracin, lava los pies de
+serafín vela su rostro y yace abatido en humilde adoración, lava los pies de
 
-Sus discpulos. Pueden entender, entonces, cmo es contado entre los pobres, en
+Sus discípulos. Pueden entender, entonces, cómo es contado entre los pobres, en
 
-Su condicin.
+Su condición.
 
 Tal vez la pobreza de Cristo, en cuanto a Su
 
-condicin, es vista ms claramente en Su asociacin no slo con discpulos
+condición, es vista más claramente en Su asociación no sólo con discípulos
 
 pobres, sino con los despreciados de la humanidad. Los fariseos dijeron
 
-verazmente: Este a los pecadores recibe, y con ellos come. sta fue la
+verazmente: “Este a los pecadores recibe, y con ellos come”. Ésta fue la
 
-ocasin cuando Lucas escribi: Se acercaban a Jess todos los publicanos y
+ocasión cuando Lucas escribió: “Se acercaban a Jesús todos los publicanos y
 
-pecadores para orle. Se hizo su compaero para su bien, pues haba venido a
+pecadores para oírle”. Se hizo su compańero para su bien, pues había venido a
 
-buscar y a salvar lo que se haba perdido. l condescendi a estar en medio de
+buscar y a salvar lo que se había perdido. Él condescendió a estar en medio de
 
-los ms viles; es ms, l no se inclinaba hacia ellos algunas veces, sino que
+los más viles; es más, Él no se inclinaba hacia ellos algunas veces, sino que
 
-siempre pareca estar en medio de ellos, siempre escarbando en el cieno para
+siempre parecía estar en medio de ellos, siempre escarbando en el cieno para
 
-encontrar las joyas que se haban perdido all. Entonces, amados, ustedes vern
+encontrar las joyas que se habían perdido allí. Entonces, amados, ustedes verán
 
-que como hombre, como un hombre pobre, como un siervo, y asocindose con los
+que como hombre, como un hombre pobre, como un siervo, y asociándose con los
 
-ms viles de los hombres por su bien, Cristo, en verdad, se volvi pobre en Su
+más viles de los hombres por su bien, Cristo, en verdad, se volvió pobre en Su
 
-condicin.
+condición.
 
 El segundo punto de Su pobreza fue
 
-en Su reputacin.
+en Su reputación.
 
 Toda la gloria le
 
-perteneca a Cristo, y las alabanzas de todo el ejrcito celestial le eran
+pertenecía a Cristo, y las alabanzas de todo el ejército celestial le eran
 
 ofrecidas
 
-a l gozosamente, pero se despoj a S mismo. A
+a Él gozosamente, pero se despojó a Sí mismo. A
 
-menudo, cuando todava estaba aqu, los hombres lo trataban con todo el
+menudo, cuando todavía estaba aquí, los hombres lo trataban con todo el
 
-escarnio y el desprecio que podan expresar. Permtanme citar despacio estas
+escarnio y el desprecio que podían expresar. Permítanme citar despacio estas
 
-palabras: Entonces le escupieron en el rostro. Le vendaron los ojos; le
+palabras: “Entonces le escupieron en el rostro”. Le vendaron los ojos; le
 
 golpeaban el rostro; le pegaban con las palmas de sus manos, diciendo:
 
-Profetiza, Cristo, quin es el que te golpe? Le llamaban: Este es un
+“Profetiza, Cristo, żquién es el que te golpeó?” Le llamaban: “Este es un
 
-hombre comiln y bebedor de vino, amigo de publicanos y de pecadores. Lo
+hombre comilón y bebedor de vino, amigo de publicanos y de pecadores”. Lo
 
-despojaron de Su reputacin; algunos incluso llegaron tan lejos como para decir
+despojaron de Su reputación; algunos incluso llegaron tan lejos como para decir
 
-que obraba Sus milagros por medio de Beelzeb, el prncipe de los demonios. No
+que obraba Sus milagros por medio de Beelzebú, el príncipe de los demonios. No
 
-era posible que lo pudieran degradar ms abajo de lo que lo hicieron; el
+era posible que lo pudieran degradar más abajo de lo que lo hicieron; el
 
-escarnio de ellos lleg al lmite mximo en contra de este bendito y adorable
+escarnio de ellos llegó al límite máximo en contra de este bendito y adorable
 
-Hijo de Dios. Incluso quienes tenan la reputacin de ser hombres buenos, a
+Hijo de Dios. Incluso quienes tenían la reputación de ser hombres buenos, a
 
-veces lo tenan en poca consideracin. Su madre y Sus hermanos procuraban
+veces lo tenían en poca consideración. Su madre y Sus hermanos procuraban
 
 entramparlo, porque evidentemente juzgaban que estaba loco; y en el momento de
 
-su ms terrible necesidad, todos Sus discpulos huyeron de l y lo dejaron
+su más terrible necesidad, todos Sus discípulos huyeron de Él y lo dejaron
 
-solo. En Su mayor apuro ningn hombre le rindi homenaje, sino que todos tenan
+solo. En Su mayor apuro ningún hombre le rindió homenaje, sino que todos tenían
 
 un comentario hiriente que hacerle. En este sentido fue pobre: en que se
 
-despoj a S mismo.
+despojó a Sí mismo.
 
-Yo no s si alguno de ustedes ha tenido que
+Yo no sé si alguno de ustedes ha tenido que
 
-hacer nunca lo que les ha tocado hacer a unos cuantos; despus de gozar de
+hacer nunca lo que les ha tocado hacer a unos cuantos; después de gozar de
 
-buena reputacin entre sus hermanos, deliberadamente, sabiendo lo que hacan, han
+buena reputación entre sus hermanos, deliberadamente, sabiendo lo que hacían, han
 
-tenido que hacer aquello que habra de sujetarlos a una mala interpretacin, y
+tenido que hacer aquello que habría de sujetarlos a una mala interpretación, y
 
-al escndalo, y al escarnio, y han tenido que hacerlo por la causa del Seor y sufrir
+al escándalo, y al escarnio, y han tenido que hacerlo por la causa del Seńor y sufrir
 
-todas las consecuencias sin respingar. Puedo decirles que para un espritu
+todas las consecuencias sin respingar. Puedo decirles que para un espíritu
 
 sensible es pobreza, en verdad, ser despojado del respeto que uno ha gozado por
 
-largo tiempo; sin embargo, el Salvador, por amor a nosotros, se quit cada uno
+largo tiempo; sin embargo, el Salvador, por amor a nosotros, se quitó cada uno
 
-de Sus vestidos de honor que tena el derecho de vestir, y se volvi
+de Sus vestidos de honor que tenía el derecho de vestir, y se volvió
 
-despreciado y desechado entre los hombres, varn de dolores, experimentado en
+despreciado y desechado entre los hombres, varón de dolores, experimentado en
 
-quebranto. sta fue una parte de Su pobreza: la pobreza de la reputacin.
+quebranto. Ésta fue una parte de Su pobreza: la pobreza de la reputación.
 
-Luego, en tercer lugar, haba una pobreza
+Luego, en tercer lugar, había una pobreza
 
-en operacin,
+en operación,
 
-pues el Seor Jesucristo
+pues el Seńor Jesucristo
 
-en Su propia condicin natural era capaz de hacer lo que quisiera; no haba
+en Su propia condición natural era capaz de hacer lo que quisiera; no había
 
-nada que l deseara hacer que no pudiera hacer. Bastaba que l juzgara recto
+nada que Él deseara hacer que no pudiera hacer. Bastaba que Él juzgara recto
 
 crear o destruir y todo estaba en Su poder; pero cuando vino a esta tierra por
 
-causa nuestra, se hizo pobre. Fue necesario entonces que pusiera una limitacin
+causa nuestra, se hizo pobre. Fue necesario entonces que pusiera una limitación
 
-a Su propia omnipotencia. Tiene hambre; pero es una tentacin del maligno la
+a Su propia omnipotencia. Tiene hambre; pero es una tentación del maligno la
 
-que le sugiere que debera convertir las piedras en pan. Tiene sed, y a Su
+que le sugiere que debería convertir las piedras en pan. Tiene sed, y a Su
 
 palabra, el agua hubiera saltado del pozo; pero tiene que rogarle a una mujer
 
-de Samaria, y decirle: Dame de beber. l nunca obra un milagro en Su propio beneficio.
+de Samaria, y decirle: “Dame de beber”. Él nunca obra un milagro en Su propio beneficio.
 
 Se hace tan pobre en cuanto a Sus operaciones, tan incapaz de ayudarse, como el
 
-ms incapaz entre nosotros; y sto lo hace, fjense, por una continua determinacin
+más incapaz entre nosotros; y ésto lo hace, fíjense, por una continua determinación
 
-de Su voluntad que permanecera siendo pobre porque as lo haba determinado; con
+de Su voluntad que permanecería siendo pobre porque así lo había determinado; con
 
-un solo deseo l habra podido convocar legiones de ngeles para que vinieran
+un solo deseo Él habría podido convocar legiones de ángeles para que vinieran
 
-del cielo en Su auxilio. Cmo podra yo admirar suficientemente esta
+del cielo en Su auxilio. żCómo podría yo admirar suficientemente esta
 
-voluntaria pobreza de operacin? Nuestro Seor Jesucristo quiso restringirse a
+voluntaria pobreza de operación? Nuestro Seńor Jesucristo quiso restringirse a
 
-perder, y a sufrir incluso la muerte, cuando naturalmente posea el poder de
+perder, y a sufrir incluso la muerte, cuando naturalmente poseía el poder de
 
 librarse de todas esas pruebas.
 
@@ -474,227 +474,227 @@ El siguiente tipo de pobreza que veo en Cristo
 
 es
 
-en la comunin.
+en la comunión.
 
 Aunque un hombre
 
-fuera muy pobre, si pudiera asociarse siempre con personas de educacin y de
+fuera muy pobre, si pudiera asociarse siempre con personas de educación y de
 
-refinamiento, suponiendo que fuera un hombre de esa clase, la pobreza para l
+refinamiento, suponiendo que fuera un hombre de esa clase, la pobreza para él
 
-sera algo sin importancia. Nosotros cultivamos -decan los estudiantes de
+sería algo sin importancia. “Nosotros cultivamos” -decían los estudiantes de
 
-Edimburgo- nosotros cultivamos la literatura con un poco de cereal de avena,
+Edimburgo- “nosotros cultivamos la literatura con un poco de cereal de avena”,
 
-y nadie parece compadecerlos. Nadie necesita compadecerse de ellos; estn muy
+y nadie parece compadecerlos. Nadie necesita compadecerse de ellos; están muy
 
 dispuestos a tomar cereal de avena si pueden tener la literatura. Si se asocian
 
-con hombres pensantes y hombres de posicin, tienen un festn de la razn, y un
+con hombres pensantes y hombres de posición, tienen un festín de la razón, y un
 
-desfogue del alma, y estn contentos con un poco de cereal de avena, si ese
+desfogue del alma, y están contentos con un poco de cereal de avena, si ese
 
 fuera el costo que tienen que pagar.
 
-Pero nuestro Salvador nunca convivi con alguien
+Pero nuestro Salvador nunca convivió con alguien
 
-que pudiera ser llamado Su igual ni por un instante; l no aprendi de nadie.
+que pudiera ser llamado Su igual ni por un instante; Él no aprendió de nadie.
 
-Haba un discpulo a quien Jess amaba; todos sabemos por qu amaba a Juan:
+Había un discípulo a quien Jesús amaba; todos sabemos por qué amaba a Juan:
 
-porque era el ms cercano a su Maestro; pero qu diferencia de altura haba
+porque era el más cercano a su Maestro; pero ˇqué diferencia de altura había
 
-entre Jess y Juan! Cuando un hombre crece por encima de sus semejantes, eso le
+entre Jesús y Juan! Cuando un hombre crece por encima de sus semejantes, eso le
 
-conduce a sentir una terrible soledad. T podras ambicionar esa posicin,
+conduce a sentir una terrible soledad. Tú podrías ambicionar esa posición,
 
-jovencito, y anhelar alcanzar el pico ms elevado del monte; pero hace fro
+jovencito, y anhelar alcanzar el pico más elevado del monte; pero hace frío
 
-all arriba y hay desolacin y soledad. Yo creo que cuando eres igual a tus
+allá arriba y hay desolación y soledad. Yo creo que cuando eres igual a tus
 
 semejantes disfrutas de un gozo mucho mayor y puedes asociarte con ellos como
 
 tal.
 
-Pero en cuanto a nuestro Seor y Maestro,
+Pero en cuanto a nuestro Seńor y Maestro,
 
-siempre parece estar sobre el pinculo del templo o en la cumbre de la montaa.
+siempre parece estar sobre el pináculo del templo o en la cumbre de la montańa.
 
-Yo s que en Su condescendencia l nunca est all; se inclina hacia la gente,
+Yo sé que en Su condescendencia Él nunca está allí; se inclina hacia la gente,
 
-pero, aun as, es una inclinacin, e inclinarse, ustedes lo saben, es una
+pero, aun así, es una inclinación, e inclinarse, ustedes lo saben, es una
 
-accin que provoca dolor en la espalda; quiero decir que tener que inclinarse
+acción que provoca dolor en la espalda; quiero decir que tener que inclinarse
 
-siempre y no tener a nadie que sea tu camarada y tu socio es una accin que
+siempre y no tener a nadie que sea tu camarada y tu socio es una acción que
 
-aflige al corazn.
+aflige al corazón.
 
-Jess se priv de la compaa ms selecta que
+Jesús se privó de la compańía más selecta que
 
-podra haber gozado, tomada del senado de los cielos, de las asambleas de los
+podría haber gozado, tomada del senado de los cielos, de las asambleas de los
 
-perfectos, de la multitud de ngeles. Los seres celestiales pueden ir y venir
+perfectos, de la multitud de ángeles. Los seres celestiales pueden ir y venir
 
-casualmente con encomiendas de lo alto; pero Jess vino aqu principalmente
+casualmente con encomiendas de lo alto; pero Jesús vino aquí principalmente
 
 para asociarse con los pecadores, para que Su mente perfecta estuviera en contacto
 
-constante con los ignorantes, y para que Su espritu instruido, culto y santo
+constante con los ignorantes, y para que Su espíritu instruido, culto y santo
 
-fuera vejado por seres frvolos y volubles en quienes no se puede confiar. Qu
+fuera vejado por seres frívolos y volubles en quienes no se puede confiar. Qué
 
 pobreza debe de haber sentido el fiel, el justo, el veraz y sabio Salvador,
 
-cuando Sus discpulos no podan entenderle; y cuando, conforme develaba algunas
+cuando Sus discípulos no podían entenderle; y cuando, conforme develaba algunas
 
-de las ms profundas verdades que haba venido a revelar, Muchos de sus
+de las más profundas verdades que había venido a revelar, “Muchos de sus
 
-discpulos volvieron atrs, y ya no andaban con l. Fue una mayor pobreza an
+discípulos volvieron atrás, y ya no andaban con él”. Fue una mayor pobreza aún
 
-cuando, en el huerto, levantndose de la agona y del sudor sangriento,
+cuando, en el huerto, levantándose de la agonía y del sudor sangriento,
 
-encontr durmiendo a los tres discpulos que le eran ms cercanos, y les dijo:
+encontró durmiendo a los tres discípulos que le eran más cercanos, y les dijo:
 
-As que no habis podido velar conmigo una hora? Ah, entonces se encontraba en
+“żAsí que no habéis podido velar conmigo una hora?” Ah, entonces se encontraba en
 
-las profundidades de la pobreza en cuanto a la comunin de Su espritu.
+las profundidades de la pobreza en cuanto a la comunión de Su espíritu.
 
-Pienso que todava no hemos alcanzado las ms
+Pienso que todavía no hemos alcanzado las más
 
 hondas profundidades de la pobreza del Salvador mientras no lleguemos al hecho
 
 de que
 
-carg con el pecado.
+cargó con el pecado.
 
 Un hombre
 
 puede ser muy pobre en cuanto a bienes materiales, y puede ser capaz de
 
-soportarlo. Pudiera haber asumido las deudas de otro, las cuales podran
+soportarlo. Pudiera haber asumido las deudas de otro, las cuales podrían
 
 abrumarlo seriamente; sin embargo, la carga no puede quebrantarlo; pero cuando
 
-pierde su carcter sin ninguna culpa propia y slo porque desea liberar a otro,
+pierde su carácter sin ninguna culpa propia y sólo porque desea liberar a otro,
 
 y cuando tiene que entrar en contacto con el pecado de otro y no puede evitar
 
-entrar en contacto con l, si su mente es pura e inocente, eso es una terrible
+entrar en contacto con él, si su mente es pura e inocente, eso es una terrible
 
-pobreza para l.
+pobreza para él.
 
 Hermanos, el mayor milagro del que me he
 
 enterado es que el Cordero de Dios cargara con el pecado de los hombres, y que
 
-cargara con el pecado de tal manera que lo quitara, porque, recuerden, no haba
+cargara con el pecado de tal manera que lo quitara, porque, recuerden, no había
 
-en Cristo ninguna mancha de pecado de ningn tipo. No haba ninguna inclinacin
+en Cristo ninguna mancha de pecado de ningún tipo. No había ninguna inclinación
 
-al pecado en l; y sin embargo, oigan estas inspiradas palabras: Al que no
+al pecado en Él; y sin embargo, oigan estas inspiradas palabras: “Al que no
 
-conoci pecado, por nosotros lo hizo pecado. Por supuesto que el Salvador no
+conoció pecado, por nosotros lo hizo pecado”. Por supuesto que el Salvador no
 
-poda ser pecador nunca, y no usaremos ninguna palabra que pudiera sugerir
+podía ser pecador nunca, y no usaremos ninguna palabra que pudiera sugerir
 
-siquiera un pensamiento as; repudiaramos con indignacin tal idea; empero, l
+siquiera un pensamiento así; repudiaríamos con indignación tal idea; empero, Él
 
-ocup en verdad el lugar del pecador; l soport la maldicin del pecador: (porque
+ocupó en verdad el lugar del pecador; Él soportó la maldición del pecador: “(porque
 
-est escrito: Maldito todo el que es colgado en un madero). Es ms, incluso me
+está escrito: Maldito todo el que es colgado en un madero)”. Es más, incluso me
 
-voy a atrever a decir que, delante del Seor Dios, l estuvo como el nico
+voy a atrever a decir que, delante del Seńor Dios, Él estuvo como el único
 
-pecador, aunque no era ningn pecador; pero el Seor hizo que se encontrara en
+pecador, aunque no era ningún pecador; pero el Seńor hizo que se encontrara en
 
-l la iniquidad de todos nosotros. Jess respondi a la citacin de la ley, y
+Él la iniquidad de todos nosotros. Jesús respondió a la citación de la ley, y
 
-se present all como el Sustituto de Su pueblo, el Justo por los injustos, y
+se presentó allí como el Sustituto de Su pueblo, “el Justo por los injustos”, y
 
-todava ms, se present all por los injustos: Quien llev l mismo nuestros
+todavía más, se presentó allí por los injustos: “Quien llevó él mismo nuestros
 
-pecados en su cuerpo sobre el madero. Permtanme citarles esas palabras de
+pecados en su cuerpo sobre el madero”. Permítanme citarles esas palabras de
 
-nuevo: Quien llev l mismo nuestros pecados en su cuerpo sobre el madero.
+nuevo: “Quien llevó él mismo nuestros pecados en su cuerpo sobre el madero”.
 
-Para l, que era Dios sobre todas las cosas, bendito por los siglos, para l,
+Para Él, que era “Dios sobre todas las cosas, bendito por los siglos”, para Él,
 
-sin quien no se hizo nada de lo que fue hecho, para l, ante quien los
+sin quien no se hizo nada de lo que fue hecho, para Él, ante quien los
 
-querubines y serafines continuamente claman: Santo, santo, santo, sta ha de
+querubines y serafines continuamente claman: “Santo, santo, santo”, ésta ha de
 
 ser en verdad una pobreza abyecta, pues aunque era rico en santidad, por
 
 nuestra causa se hizo pobre al llevar nuestro pecado.
 
-El lmite de Su pobreza y su clmax fue cuando
+El límite de Su pobreza y su clímax fue cuando
 
-al final muri.
+al final murió.
 
 Tal vez nunca hemos
 
-comprendido la maravilla que es que l, el nico que tiene inmortalidad haya
+comprendido la maravilla que es que Él, “el único que tiene inmortalidad” haya
 
-muerto en realidad. Su espritu parti, entreg el espritu, ese espritu que
+muerto en realidad. Su espíritu partió, entregó el espíritu, ese espíritu que
 
-haba sido un husped dentro de Su cuerpo, l entreg ese husped y Su cuerpo
+había sido un huésped dentro de Su cuerpo, Él entregó ese huésped y Su cuerpo
 
-qued sin husped, como una casa vaca. Qu espectculo es ese (no me
+quedó sin huésped, como una casa vacía. ˇQué espectáculo es ese (no me
 
 sorprende que grandes pintores hayan tratado de pintarlo), el descenso de la
 
 cruz, la envoltura de Su cuerpo magullado en un lienzo de lino blanco cubierto
 
-de especias preciosas! Puede ser ste realmente el Hijo de Dios, el Redentor
+de especias preciosas! żPuede ser éste realmente el Hijo de Dios, el Redentor
 
-de los hombres? Lo envuelven en una sbana, y los hombres y las mujeres santos
+de los hombres? żLo envuelven en una sábana, y los hombres y las mujeres santos
 
-en realidad lo llevan a un sepulcro? S, y a una tumba prestada; pues as como
+en realidad lo llevan a un sepulcro? Sí, y a una tumba prestada; pues así como
 
-haba yacido en una cuna prestada, ahora duerme en un sepulcro prestado. Lo
+había yacido en una cuna prestada, ahora duerme en un sepulcro prestado. Lo
 
-colocan all, pues est muerto; Sus ojos estn firmemente cerrados igual que
+colocan allí, pues está muerto; Sus ojos están firmemente cerrados igual que
 
-los de cualquier otro muerto, y Sus manos estn igual de fras e inmviles,
+los de cualquier otro muerto, y Sus manos están igual de frías e inmóviles,
 
-pues la muerte de Cristo no fue una muerte imaginaria. El Seor de la vida y de
+pues la muerte de Cristo no fue una muerte imaginaria. El Seńor de la vida y de
 
-la gloria muri en realidad, y all, en el sepulcro de Jos, fue enterrado, y
+la gloria murió en realidad, y allí, en el sepulcro de José, fue enterrado, y
 
-de all se levant al tercer da. Cuando tiembla la tierra y el ngel rueda la
+de allí se levantó al tercer día. Cuando tiembla la tierra y el ángel rueda la
 
-piedra del sepulcro, dganse a ustedes mismos: Ya conocis la gracia de
+piedra del sepulcro, díganse a ustedes mismos: “Ya conocéis la gracia de
 
-nuestro Seor Jesucristo, que por amor a vosotros se hizo pobre, tan pobre que
+nuestro Seńor Jesucristo, que por amor a vosotros se hizo pobre”, tan pobre que
 
-realmente yaci muerto por algn tiempo en el sepulcro de Jos.
+realmente yació muerto por algún tiempo en el sepulcro de José.
 
-Aqu dejo este primer punto; que Dios el
+Aquí dejo este primer punto; ˇque Dios el
 
-Espritu Santo nos ayude a entender la pobreza de nuestro Seor Jesucristo!
+Espíritu Santo nos ayude a entender la pobreza de nuestro Seńor Jesucristo!
 
 II.
 
-Pero ahora, queridos amigos, muy rpidamente,
+Pero ahora, queridos amigos, muy rápidamente,
 
-pero, aun as, confo que concienzudamente, quisiera mostrarles LAS RIQUEZAS DE
+pero, aun así, confío que concienzudamente, quisiera mostrarles LAS RIQUEZAS DE
 
 LOS CREYENTES. Esas riquezas son exactamente paralelas a la pobreza de Cristo.
 
-Nuestro Seor Jesucristo no vino al mundo para hacerse pobre en relacin al
+Nuestro Seńor Jesucristo no vino al mundo para hacerse pobre en relación al
 
-dinero para que ustedes y yo pudiramos volvernos ricos con una riqueza
+dinero para que ustedes y yo pudiéramos volvernos ricos con una riqueza
 
 mundana, pues muchos de los mejores elementos de Su pueblo son tan pobres como
 
-la pobreza misma, en lo concerniente a este despreciable metal; antes bien, as
+la pobreza misma, en lo concerniente a este despreciable metal; antes bien, así
 
-como l vino para soportar la verdadera pobreza, tambin vino para darnos
+como Él vino para soportar la verdadera pobreza, también vino para darnos
 
 verdaderas riquezas.
 
-He presentado ante su atencin una pobreza que
+He presentado ante su atención una pobreza que
 
 no radicaba tanto en la escasez de Sus vestidos, o en la austeridad de Su
 
@@ -702,51 +702,51 @@ comida, como en otros asuntos. Entonces, las riquezas que Cristo proporciona no
 
 radican en que nos vistamos con escarlata y lino fino, y en comer suntuosamente
 
-cada da, sino que son similares en carcter a los distintivos de la pobreza de
+cada día, sino que son similares en carácter a los distintivos de la pobreza de
 
-nuestro Seor.
+nuestro Seńor.
 
-Primero, entonces, l hizo a Su pueblo rico
+Primero, entonces, Él hizo a Su pueblo rico
 
-en condicin.
+en condición.
 
 Hermanos y hermanas, somos
 
-siervos, como Cristo lo fue; pero lo que era un abatimiento para l, es una
+siervos, como Cristo lo fue; pero lo que era un abatimiento para Él, es una
 
-elevacin para nosotros. Para nosotros no hay mayor honor que ser llamados siervos
+elevación para nosotros. Para nosotros no hay mayor honor que ser llamados siervos
 
-del Seor Jesucristo; y servir a los siervos de Dios, ser
+del Seńor Jesucristo; y servir a los siervos de Dios, ser
 
 servus servorum (siervo de siervos),
 
 es un privilegio que cualquier
 
-de nosotros ambicionara. Lavar los pies de los discpulos es ahora un honor
+de nosotros ambicionaría. Lavar los pies de los discípulos es ahora un honor
 
-para nosotros, y sentimos que as es. Si al siervo se le permite ser como su
+para nosotros, y sentimos que así es. Si al siervo se le permite ser como su
 
-Seor, eso es una gran exaltacin para l. Por la pobreza de Cristo nosotros
+Seńor, eso es una gran exaltación para él. Por la pobreza de Cristo nosotros
 
-somos hechos ricos en nuestra condicin, de tal manera que hoy somos hijos de
+somos hechos ricos en nuestra condición, de tal manera que hoy somos hijos de
 
-Dios; hoy tenemos acceso al propiciatorio; hoy, l oye atentamente la voz de un
+Dios; hoy tenemos acceso al propiciatorio; hoy, Él oye atentamente la voz de un
 
-hombre; hoy, Jess nos ha hecho reyes y sacerdotes para Dios, y reinaremos por
+hombre; hoy, Jesús nos ha hecho reyes y sacerdotes para Dios, y reinaremos por
 
-los siglos de los siglos. La condicin del creyente es de elevada exaltacin en
+los siglos de los siglos. La condición del creyente es de elevada exaltación en
 
-la proporcin en que la condicin de Cristo fue de humillacin y pobreza.
+la proporción en que la condición de Cristo fue de humillación y pobreza.
 
 Lo mismo sucede con el creyente
 
-en su reputacin.
+en su reputación.
 
-Oh hermanos, qu
+ˇOh hermanos, qué
 
-reputacin nos ha dado Cristo ahora! l nos ha dado la reputacin que l desech,
+reputación nos ha dado Cristo ahora! Él nos ha dado la reputación que Él desechó,
 
-pues ahora somos justos en Su justicia; somos agradables con el encanto que l
+pues ahora somos justos en Su justicia; somos agradables con el encanto que Él
 
 pone en nosotros; tenemos un nombre y un lugar, mejores que el de hijos e
 
@@ -754,247 +754,247 @@ hijas. Ahora no estamos considerados dentro de los culpables, sino entre los
 
 piadosos; no somos contados entre los rebeldes extranjeros, sino entre los
 
-hijos obedientes. Oh, bendito sea el nombre de Jess, porque nos ha revestido
+hijos obedientes. ˇOh, bendito sea el nombre de Jesús, porque nos ha revestido
 
-de honor cuando se visti de vergenza!
+de honor cuando se vistió de vergüenza!
 
 Lo mismo es cierto en cuanto a
 
-nuestra operacin.
+nuestra operación.
 
-Yo les mostr cmo
+Yo les mostré cómo
 
-Cristo estrech y limit voluntariamente Su poder; pero miren cmo ha ampliado
+Cristo estrechó y limitó voluntariamente Su poder; pero ˇmiren cómo ha ampliado
 
-nuestro poder! Hay un texto que con frecuencia miro y admiro. Jess dijo: El
+nuestro poder! Hay un texto que con frecuencia miro y admiro. Jesús dijo: “El
 
-que en m cree, las obras que yo hago, l las har tambin; y aun mayores har,
+que en mí cree, las obras que yo hago, él las hará también; y aun mayores hará,
 
-porque yo voy al Padre. l hace que tengamos un poder casi ilimitado; no somos
+porque yo voy al Padre”. Él hace que tengamos un poder casi ilimitado; no somos
 
-nada excepto unos pobres hombres dbiles y, sin embargo, cun maravillosamente
+nada excepto unos pobres hombres débiles y, sin embargo, ˇcuán maravillosamente
 
-usa Dios a los hombres! No han notado nunca en la Epstolas de Pablo, cmo
+usa Dios a los hombres! żNo han notado nunca en la Epístolas de Pablo, cómo
 
 representa al ministro de Cristo como siendo tanto un padre como una madre para
 
-un alma recin nacida? Al escribir a Filemn, le dice: Te ruego por mi hijo Onsimo,
+un alma recién nacida? Al escribir a Filemón, le dice: “Te ruego por mi hijo Onésimo,
 
-a quien engendr en mis prisiones. Y a los glatas les escribe: Hijitos mos,
+a quien engendré en mis prisiones”. Y a los gálatas les escribe: “Hijitos míos,
 
 por quienes vuelvo a sufrir dolores de parto, hasta que Cristo sea formado en
 
-vosotros. Acaso no es algo muy maravilloso que seamos llamados: Colaboradores
+vosotros”. żAcaso no es algo muy maravilloso que seamos llamados: “Colaboradores
 
-de Dios, es decir, nuestra debilidad colaborando lado a lado con la
+de Dios”, es decir, nuestra debilidad colaborando lado a lado con la
 
 omnipotencia misma?
 
-Hermanos y hermanas mos, tal vez ustedes no
+Hermanos y hermanas míos, tal vez ustedes no
 
-sepan cun grandemente Cristo los ha enriquecido. Han comprobado alguna vez
+sepan cuán grandemente Cristo los ha enriquecido. żHan comprobado alguna vez
 
-cun ricos los ha hecho en el poder de la oracin? Abre tu boca, y yo la
+cuán ricos los ha hecho en el poder de la oración? “Abre tu boca, y yo la
 
-llenar. Si permanecis en m, y mis palabras permanecen en vosotros, pedid
+llenaré”. “Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid
 
-todo lo que queris, y os ser hecho. Nosotros no usamos lo suficiente el grandioso
+todo lo que queréis, y os será hecho”. Nosotros no usamos lo suficiente el grandioso
 
-nombre de Cristo, pero si lo hiciramos, obraramos milagros; quiero decir, no
+nombre de Cristo, pero si lo hiciéramos, obraríamos milagros; quiero decir, no
 
-en el mundo material, sino que los milagros espirituales estaran a nuestra
+en el mundo material, sino que los milagros espirituales estarían a nuestra
 
-entera disposicin. Por Su pobreza de operacin, nuestro grandioso Seor Jess nos
+entera disposición. Por Su pobreza de operación, nuestro grandioso Seńor Jesús nos
 
 ha enriquecido con un portentoso poder de gracia.
 
-Dije tambin que se haba hecho pobre
+Dije también que se había hecho pobre
 
-en comunin,
+en comunión,
 
-y les mostr cun estrecho
+y les mostré cuán estrecho
 
-era el crculo de hombres con quienes l se asociaba; pero nos ha enriquecido
+era el círculo de hombres con quienes Él se asociaba; pero nos ha enriquecido
 
-portentosamente en comunin, de tal manera que hemos ido a la congregacin de
+portentosamente en comunión, de tal manera que hemos ido “a la congregación de
 
-los primognitos que estn inscritos en los cielos. He aqu, l nos ha dado
+los primogénitos que están inscritos en los cielos”. He aquí, Él nos ha dado
 
-tal comunin consigo mismo que afirma de nosotros, los que creemos: se es mi
+tal comunión consigo mismo que afirma de nosotros, los que creemos: “ése es mi
 
-hermano, y hermana, y madre. Nosotros tenemos comunin con Dios tambin: Nuestra
+hermano, y hermana, y madre”. Nosotros tenemos comunión con Dios también: “Nuestra
 
-comunin verdaderamente es con el Padre, y con su Hijo Jesucristo. Qu
+comunión verdaderamente es con el Padre, y con su Hijo Jesucristo”. ˇQué
 
-riquezas nos ha dado aqu!
+riquezas nos ha dado aquí!
 
-A continuacin, ustedes recordarn, habl acerca
+A continuación, ustedes recordarán, hablé acerca
 
-del hecho de que Cristo carg con el pecado y dije que es un terrible ejemplo
+del hecho de que Cristo cargó con el pecado y dije que es un terrible ejemplo
 
-de Su pobreza; pero por Su sustitucin tenemos
+de Su pobreza; pero por Su sustitución tenemos
 
-aceptacin con Dios.
+aceptación con Dios.
 
-Vean cun ricos nos ha hecho, pues somos aceptos
+Vean cuán ricos nos ha hecho, pues somos “aceptos
 
-en el Amado. Justificados, pues, por la fe, tenemos paz para con Dios. ste
+en el Amado”. “Justificados, pues, por la fe, tenemos paz para con Dios”. Éste
 
-es un pasaje maravilloso en la profeca de Jeremas: Este ser su nombre con
+es un pasaje maravilloso en la profecía de Jeremías: “Este será su nombre con
 
-el cual le llamarn; Jehov, justicia nuestra. Cmo, la iglesia misma es
+el cual le llamarán; Jehová, justicia nuestra”. Cómo, żla iglesia misma es
 
-llamada: Jehov, justicia nuestra? S, ella toma el nombre del esposo; la
+llamada: “Jehová, justicia nuestra”? Sí, ella toma el nombre del esposo; la
 
-Iglesia tiene el propio ttulo de Cristo conferido a ella. Cristo se hizo
+Iglesia tiene el propio título de Cristo conferido a ella. Cristo se hizo
 
 pobre, en verdad, cuando estuvo en nuestro lugar; pero nos ha fijado en un
 
-lugar amplio y rico, dndonos completa aceptacin con el Padre por medio de Su
+lugar amplio y rico, dándonos completa aceptación con el Padre por medio de Su
 
 justicia.
 
-Luego, al completar la historia, present a
+Luego, al completar la historia, presenté a
 
-nuestro Seor yaciendo en el sueo de la muerte del sepulcro; pero piensen, oh
+nuestro Seńor yaciendo en el sueńo de la muerte del sepulcro; pero piensen, oh
 
 amados, que ahora nos ha dado, en consecuencia de esa muerte,
 
 vida eterna.
 
-Sus propias palabras son: El
+Sus propias palabras son: “El
 
-que cree en m, tiene vida eterna. Todo aquel que vive y cree en m, no
+que cree en mí, tiene vida eterna”. “Todo aquel que vive y cree en mí, no
 
-morir eternamente. Crees esto? Porque Cristo muri, nosotros vivimos; porque
+morirá eternamente. żCrees esto?” Porque Cristo murió, nosotros vivimos; porque
 
-l muri, nosotros no moriremos nunca. La pena capital ha sido ejecutada en
+Él murió, nosotros no moriremos nunca. La pena capital ha sido ejecutada en
 
-nuestro Sustituto, y no puede ser ejecutada nunca ms. El castigo no puede ser
+nuestro Sustituto, y no puede ser ejecutada nunca más. El castigo no puede ser
 
-infligido primero sobre la Fianza sangrante, y luego sobre aqullos cuyo lugar
+infligido primero sobre la Fianza sangrante, y luego sobre aquéllos cuyo lugar
 
-ocup esa Fianza; por tanto, nosotros vivimos por Su muerte y la segunda muerte
+ocupó esa Fianza; por tanto, nosotros vivimos por Su muerte y la segunda muerte
 
-no tiene ningn poder sobre nosotros.
+no tiene ningún poder sobre nosotros.
 
-La muerte no es una aniquilacin; ninguna
+La muerte no es una aniquilación; ninguna
 
-persona sensata se imagina nunca que lo sea. La muerte es la separacin del
+persona sensata se imagina nunca que lo sea. La muerte es la separación del
 
-alma y del cuerpo; la muerte, en su sentido ms elevado, es la separacin del
+alma y del cuerpo; la muerte, en su sentido más elevado, es la separación del
 
-alma, de Dios. Nosotros podremos conocer la primera muerte, la separacin del
+alma, de Dios. Nosotros podremos conocer la primera muerte, la separación del
 
-alma del cuerpo; pero la segunda muerte, la separacin del alma, de Dios, sa
+alma del cuerpo; pero la segunda muerte, la separación del alma, de Dios, ésa
 
-nunca la conoceremos, pues Jess la conoci por nosotros cuando dijo: Dios
+nunca la conoceremos, pues Jesús la conoció por nosotros cuando dijo: “Dios
 
-mo, Dios mo, por qu me has desamparado? Pero ahora, sabiendo que Cristo,
+mío, Dios mío, żpor qué me has desamparado?” Pero ahora, “sabiendo que Cristo,
 
-habiendo resucitado de los muertos, ya no muere; la muerte no se enseorea ms
+habiendo resucitado de los muertos, ya no muere; la muerte no se enseńorea más
 
-de l. Porque en cuanto muri, al pecado muri una vez por todas; mas en cuanto
+de él. Porque en cuanto murió, al pecado murió una vez por todas; mas en cuanto
 
-vive, para Dios vive. Oh, cun ricos nos ha hecho en la sempiterna vida
+vive, para Dios vive”. ˇOh, cuán ricos nos ha hecho en la sempiterna vida
 
 indestructible que nos ha conferido por medio de Su muerte expiatoria y de Su
 
-gloriosa resurreccin!
+gloriosa resurrección!
 
-Concluyo slo con estas dos o tres observaciones
+Concluyo sólo con estas dos o tres observaciones
 
 que el tema nos sugiere.
 
 Primero, si tal es el resultado de la pobreza de
 
-Cristo, para que vosotros con su pobreza fueseis enriquecidos, cul habr de
+Cristo, “para que vosotros con su pobreza fueseis enriquecidos”, żcuál habrá de
 
-ser el resultado de Sus riquezas? Si por Su muerte nosotros vivimos, cul ha
+ser el resultado de Sus riquezas? Si por Su muerte nosotros vivimos, żcuál ha
 
-de ser el resultado de Su vida? Si por Su humillacin somos enriquecidos, qu
+de ser el resultado de Su vida? Si por Su humillación somos enriquecidos, żqué
 
-es lo que vendr de Su gloria? Si por Su primera venida, cuando vino como una
+es lo que vendrá de Su gloria? Si por Su primera venida, cuando vino como una
 
-ofrenda del pecado, ha logrado todo sto, qu no habr de esperarse cuando
+ofrenda del pecado, ha logrado todo ésto, żqué no habrá de esperarse cuando
 
-venga una segunda vez sin una ofrenda de pecado para salvacin? Intenten
+venga una segunda vez sin una ofrenda de pecado para salvación? Intenten
 
 resolver ese problema si pueden.
 
-Aqu tenemos otra consideracin. Si la pobreza
+Aquí tenemos otra consideración. Si la pobreza
 
-de Cristo es tal como he tratado de describirla, cules no sern las riquezas
+de Cristo es tal como he tratado de describirla, żcuáles no serán las riquezas
 
-de Su pueblo? Si nuestras riquezas son proporcionales a Su pobreza, cun ricos
+de Su pueblo? Si nuestras riquezas son proporcionales a Su pobreza, ˇcuán ricos
 
-somos! l fue supremamente pobre; y nosotros, si creemos en l, seremos
+somos! Él fue supremamente pobre; y nosotros, si creemos en Él, seremos
 
-supremamente ricos. l se abati muy bajo, y nosotros somos elevados en la
+supremamente ricos. Él se abatió muy bajo, y nosotros somos elevados en la
 
-misma proporcin. As es como actan las balanzas del santuario; conforme l se
+misma proporción. Así es como actúan las balanzas del santuario; conforme Él se
 
-hunde, nosotros somos elevados. Quisieran intentar ver cun altos deben de estar
+hunde, nosotros somos elevados. żQuisieran intentar ver cuán altos deben de estar
 
-de acuerdo a esta norma? Cuntas riquezas han de pertenecerles cuando las
+de acuerdo a esta norma? ˇCuántas riquezas han de pertenecerles cuando las
 
 juzgan por la pobreza de Cristo!
 
 La siguiente pregunta es: si tales son nuestras
 
-riquezas, por qu nos quejamos de pobreza? All est un hijo de Dios que no
+riquezas, żpor qué nos quejamos de pobreza? Allá está un hijo de Dios que no
 
 sabe si posee alguna gracia. Mete su mano en el bolsillo de su alma para ver si
 
-puede encontrar un centavo de gracia. Hermano mo, todas las cosas son tuyas si
+puede encontrar un centavo de gracia. Hermano mío, todas las cosas son tuyas si
 
-ests en Cristo, pues agrad al Padre que en l habite toda la plenitud. Hay
+estás en Cristo, pues agradó al Padre que en Él habite toda la plenitud. Hay
 
-muchos hijos del Rey que tienen el derecho de reinar como prncipes, pero que
+muchos hijos del Rey que tienen el derecho de reinar como príncipes, pero que
 
-continan viviendo como mendigos. Ellos pesan cada onza que comen; pasan hambre
+continúan viviendo como mendigos. Ellos pesan cada onza que comen; pasan hambre
 
-espiritualmente hasta casi desfallecer. Qu pretenden? Por qu no habran de
+espiritualmente hasta casi desfallecer. żQué pretenden? żPor qué no habrían de
 
-alegrarse en el Seor ustedes, a quienes Dios les ha dado a Cristo, es decir,
+alegrarse en el Seńor ustedes, a quienes Dios les ha dado a Cristo, es decir,
 
-les ha dado todo, y por qu no habran de regocijarse con un gozo indecible y
+les ha dado todo, y por qué no habrían de regocijarse con un gozo indecible y
 
 lleno de gloria?
 
-Concluyo con una pregunta ms. Si tal fue Su
+Concluyo con una pregunta más. Si tal fue Su
 
-pobreza, por qu no habramos de estar tambin dispuestos nosotros a ser
+pobreza, żpor qué no habríamos de estar también dispuestos nosotros a ser
 
-pobres para Su gloria? Si l quiso hacer de lado Su honor, por qu no deberamos
+pobres para Su gloria? Si Él quiso hacer de lado Su honor, żpor qué no deberíamos
 
-hacer de lado el nuestro? Si l renunci a Su tranquilidad, por qu no
+hacer de lado el nuestro? Si Él renunció a Su tranquilidad, żpor qué no
 
-renunciamos a la nuestra? Si l estaba dispuesto a ser un siervo, por qu no
+renunciamos a la nuestra? Si Él estaba dispuesto a ser un siervo, żpor qué no
 
-habramos de ser siervos? Si l se despoj a S mismo, por qu no habramos de
+habríamos de ser siervos? Si Él se despojó a Sí mismo, żpor qué no habríamos de
 
-hacer lo mismo? Eso es muy diferente de la accin de mi amigo que est all,
+hacer lo mismo? Eso es muy diferente de la acción de mi amigo que está allá,
 
-que dijo: Bien, t sabes, no puedo soportarlo; no creo que deba ser tratado
+que dijo: “Bien, tú sabes, no puedo soportarlo; no creo que deba ser tratado
 
-as; realmente siento que debera ser ms respetado. Ah, pobre alma, si te
+así; realmente siento que debería ser más respetado”. ˇAh, pobre alma, si te
 
-conocieras, no hablaras as! Quin entre nosotros merece algn respeto? Nos
+conocieras, no hablarías así! żQuién entre nosotros merece algún respeto? Nos
 
-llaman: Reverendos. Me enferma pensar que algn mortal deba ser considerado
+llaman: “Reverendos”. Me enferma pensar que algún mortal deba ser considerado
 
-como un reverendo. Qu reverencia nos podra ser debida, excepto aqulla que
+como un “reverendo”. żQué reverencia nos podría ser debida, excepto aquélla que
 
-establece que cada mujer respete a su marido? Eso es escritural; pero nunca
+establece que cada mujer “respete a su marido”? Eso es escritural; pero nunca
 
 se dice que cada oyente debe reverenciar al predicador.
 
-Oh, cun pobres criaturas somos en nuestra
+ˇOh, cuán pobres criaturas somos en nuestra
 
-mejor condicin! Si Dios nos permitiera que sirviramos de esteras para las
+mejor condición! Si Dios nos permitiera que sirviéramos de esteras para las
 
-puertas de la iglesia, sera un honor muy elevado para nosotros. He visto a
+puertas de la iglesia, sería un honor muy elevado para nosotros. He visto a
 
 veces una escoba fuera de una puerta donde los agricultores vienen a limpiar
 
@@ -1002,23 +1002,23 @@ sus zapatos; es algo grandioso que un hombre sea justamente eso. Yo pienso que
 
 me estoy acercando bastante para alcanzar ese honor y esa gloria, pues muchas
 
-personas estn limpiando sus botas contra m, justo ahora; y yo estoy muy
+personas están limpiando sus botas contra mí, justo ahora; y yo estoy muy
 
-contento de que as sea si ellos pueden deshacerse de parte del lodo, y as no
+contento de que así sea si ellos pueden deshacerse de parte del lodo, y así no
 
 van a arruinar el piso de la casa de Dios. Cada uno de nosotros debe pensar que
 
 lo que le suceda, importa poco; debemos estar dispuestos a morir en una zanja
 
-en tanto que Jess se siente en el trono y sea establecida en el mundo Su
+en tanto que Jesús se siente en el trono y sea establecida en el mundo Su
 
-verdad grandiosa. Conocis la gracia de nuestro Seor Jesucristo, que por amor
+verdad grandiosa. “Conocéis la gracia de nuestro Seńor Jesucristo, que por amor
 
-a vosotros se hizo pobre. Vayan e imtenlo, y estn dispuestos a no ser nada
+a vosotros se hizo pobre”. Vayan e imítenlo, y estén dispuestos a no ser nada
 
-en absoluto, en tanto que l sea todo en todo. Que Dios los bendiga! Amn.
+en absoluto, en tanto que Él sea todo en todo. ˇQue Dios los bendiga! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 15/Julio/2010
 

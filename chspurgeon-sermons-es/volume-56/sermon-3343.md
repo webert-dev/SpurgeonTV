@@ -1,266 +1,266 @@
 # Sermón 3343 | Sermón 3343
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Saldr ESTRELLA
+“Saldrá ESTRELLA
 
-de Jacob
+de Jacob”
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
 Y PUBLICADO EL JUEVES 27 DE FEBRERO DE 1913.
 
-Saldr ESTRELLA de Jacob. Nmeros 24: 17
+“Saldrá ESTRELLA de Jacob”. Números 24: 17
 
-Aunque esta profeca podra
+Aunque esta profecía podría
 
 referirse a David, estamos persuadidos de que el verdadero designio del
 
-Espritu Santo es simbolizar a nuestro Seor Jesucristo. Toda la naturaleza en
+Espíritu Santo es simbolizar a nuestro Seńor Jesucristo. Toda la naturaleza en
 
-lo alto as como tambin la que est en derredor nuestro contribuye a exponer a
+lo alto así como también la que está en derredor nuestro contribuye a exponer a
 
-nuestro Seor. Todas las flores del campo y muchas de las bestias de la
+nuestro Seńor. Todas las flores del campo y muchas de las bestias de la
 
-llanura, y ahora las propias esferas celestes, se convierten en metforas y
+llanura, y ahora las propias esferas celestes, se convierten en metáforas y
 
-smbolos mediante los cuales nos es manifestada la gloria de Jess. Deberamos
+símbolos mediante los cuales nos es manifestada la gloria de Jesús. Deberíamos
 
-esforzarnos por aprender las cosas que Dios se toma la molestia de ensearnos.
+esforzarnos por aprender las cosas que Dios se toma la molestia de enseńarnos.
 
-Cuando hace que el cielo y la tierra se conviertan en las pginas del libro, en
+Cuando hace que el cielo y la tierra se conviertan en las páginas del libro, en
 
-respuesta deberamos ser sumamente devotos en nuestro estudio. Oh, ustedes que
+respuesta deberíamos ser sumamente devotos en nuestro estudio. Oh, ustedes que
 
 han sido negligentes en aprender de Cristo, pongan fin a su negligencia, y
 
-confen en que se ha de pronunciar una palabra que sea como la proyeccin de la
+confíen en que se ha de pronunciar una palabra que sea como la proyección de la
 
 luz de una estrella en las tinieblas de su alma, para que a partir de ahora
 
-sean conducidos a conocer a Cristo y a ser encontrados en l.
+sean conducidos a conocer a Cristo y a ser encontrados en Él.
 
-Entonces, nuestro Seor es
+Entonces, nuestro Seńor es
 
-comparado a una estrella, y vamos a sealar siete razones para esta comparacin.
+comparado a una estrella, y vamos a seńalar siete razones para esta comparación.
 
 Es llamado una estrella como:
 
 I.
 
-SMBOLO
+SÍMBOLO
 
 DE GOBIERNO.
 
-Ustedes observarn de
+Ustedes observarán de
 
-qu manera tan evidente est vinculado con un cetro y con un conquistador.
+qué manera tan evidente está vinculado con un cetro y con un conquistador.
 
-Jacob sera bendecido con un valeroso lder que habra de convertirse en un
+Jacob sería bendecido con un valeroso líder que habría de convertirse en un
 
 triunfante soberano. En la literatura oriental, sus grandes hombres, y,
 
-especialmente sus grandes libertadores, son llamados con mucha frecuencia: estrellas.
+especialmente sus grandes libertadores, son llamados con mucha frecuencia: ‘estrellas’.
 
-La estrella ha estado asociada constantemente con la monarqua, e incluso en
+La estrella ha estado asociada constantemente con la monarquía, e incluso en
 
-nuestro propio pas consideramos todava a la estrella como uno de los emblemas
+nuestro propio país consideramos todavía a la estrella como uno de los emblemas
 
-de un encumbrado rango. Contemplen, entonces, a nuestro Seor Jesucristo como
+de un encumbrado rango. Contemplen, entonces, a nuestro Seńor Jesucristo como
 
 la Estrella
 
-de Jacob. l es
+de Jacob. ˇÉl es
 
-el Capitn de Su pueblo, el Lder de las huestes del Seor, el Rey en Jesurn,
+el Capitán de Su pueblo, el Líder de las huestes del Seńor, el Rey en Jesurún,
 
 Dios sobre todo, glorioso y bendito para siempre!
 
 En este sentido podemos
 
-decir de Jess que tiene una autoridad que
+decir de Jesús que tiene una autoridad que
 
 ha
 
 heredado por derecho.
 
-l hizo todas las cosas y todas las cosas en l
+Él hizo todas las cosas y todas las cosas en Él
 
-subsisten. Es justo que l gobierne sobre todas las cosas. Como no hay ni una
+subsisten. Es justo que Él gobierne sobre todas las cosas. Como no hay ni una
 
 sola lengua que pueda moverse en el cielo o en la tierra si no es con Su
 
-permiso, es conveniente que toda lengua confiese que l es Seor, para la
+permiso, es conveniente que toda lengua confiese que Él es Seńor, para la
 
-gloria de Dios el Padre. Oh, que los hombres fueran justos para con el Hijo de
+gloria de Dios el Padre. ˇOh, que los hombres fueran justos para con el Hijo de
 
 Dios! Quisiera que sus almas rebeldes cedieran a la fuerza de la rectitud y que
 
-ya no dijeran ms: Rompamos sus ligaduras, y echemos de nosotros sus
+ya no dijeran más: “ˇRompamos sus ligaduras, y echemos de nosotros sus
 
-cuerdas!
+cuerdas!”
 
 Hombres inconversos, yo
 
-quisiera que ustedes se entregaran a Jess. l tiene un derecho sobre ustedes.
+quisiera que ustedes se entregaran a Jesús. Él tiene un derecho sobre ustedes.
 
-Es gracias a Su intercesin que su vida perdida sigue siendo todava perdonada.
+Es gracias a Su intercesión que su vida perdida sigue siendo todavía perdonada.
 
-Es gracias a Su divina bondad que ustedes estn donde estn esta noche. Es
+Es gracias a Su divina bondad que ustedes están donde están esta noche. Es
 
-gracias a Su soberana mediadora que se les permite elevar oraciones y splicas
+gracias a Su soberanía mediadora que se les permite elevar oraciones y súplicas
 
-a Dios. Entonces denle lo que le corresponde. No le roben la lealtad que l
+a Dios. Entonces denle lo que le corresponde. No le roben la lealtad que Él
 
-reclama tan justamente. No le entreguen su espritu a ese exigente tirano que
+reclama tan justamente. No le entreguen su espíritu a ese exigente tirano que
 
-busca su destruccin. Doblad la rodilla y honrad al Hijo, incluso ahora, para
+busca su destrucción. ‘Doblad la rodilla y honrad al Hijo, incluso ahora, para
 
-que no se enoje, y perezcis en el camino. Reconzcanlo como su Seor.
+que no se enoje, y perezcáis en el camino’. Reconózcanlo como su Seńor.
 
 Como una estrella, nuestro
 
-Seor tiene una autoridad que ha ganado valientemente. Doquiera que Cristo es
+Seńor tiene una autoridad que ha ganado valientemente. Doquiera que Cristo es
 
 rey, ha luchado ardua y duramente para conseguirlo. Recuerden el terrible
 
-conflicto en Getseman, cuando dijo: He pisado yo solo el lagar. Cuando
+conflicto en Getsemaní, cuando dijo: “He pisado yo solo el lagar”. Cuando
 
-regres ensangrentado del Calvario, de hecho, all mismo y a esa hora haba
+regresó ensangrentado del Calvario, de hecho, allí mismo y a esa hora había
 
-hecho huir a las huestes de Bosra y de Edom, y haba manchado Sus vestidos con
+hecho huir a las huestes de Bosra y de Edom, y había manchado Sus vestidos con
 
-el carmes del vencedor. Entonces, Aquel que march en la grandeza de Su poder
+el carmesí del vencedor. Entonces, Aquel que marchó en la grandeza de Su poder
 
-es grande para salvar. En cada corazn humano en que Jess reina, gobierna por
+es grande para salvar. En cada corazón humano en que Jesús reina, gobierna por
 
-haber desalojado por la fuerza de la gracia al viejo tirano que haba establecido
+haber desalojado por la fuerza de la gracia al viejo tirano que había establecido
 
-su soberana all. El sostenimiento de esa soberana dentro del corazn es el
+su soberanía allí. El sostenimiento de esa soberanía dentro del corazón es el
 
 resultado del mismo cetro poderoso de Su amor y gracia.
 
-Oh, que el Rey Jess
+ˇOh, que el Rey Jesús
 
-ejerciera Su poder y estableciera un trono en ms corazones! Creyentes, acaso
+ejerciera Su poder y estableciera un trono en más corazones! Creyentes, żacaso
 
-no anhelan verlo glorioso? Si lo aman, yo s que anhelan verlo as. Viviran
+no anhelan verlo glorioso? Si lo aman, yo sé que anhelan verlo así. Vivirían
 
-para sto y moriran para sto: que Cristo pudiera tener a los Suyos, y
+para ésto y morirían para ésto: que Cristo pudiera tener a los Suyos, y
 
-condujera a los blancos corceles del triunfo por las calles de Jerusaln, con todo
+condujera a los blancos corceles del triunfo por las calles de Jerusalén, con todo
 
-Su pueblo hacindole una venia y esparciendo sus honores en Su sendero. Oh, pecadores!,
+Su pueblo haciéndole una venia y esparciendo sus honores en Su sendero. ˇOh, pecadores!,
 
-quiera Dios que ustedes se entreguen a l. Yo oro pidiendo que se cia ahora Su
+quiera Dios que ustedes se entreguen a Él. Yo oro pidiendo que se cińa ahora Su
 
-espada en Su muslo, y que por el poder de la gracia los constria a inclinar
+espada en Su muslo, y que por el poder de la gracia los constrińa a inclinar
 
 voluntariamente sus cuellos ante Su cetro de plata.
 
 Hermanos y hermanas, es
 
-un hecho lamentable que Cristo tenga todava una parte tan pequea del mundo
+un hecho lamentable que Cristo tenga todavía una parte tan pequeńa del mundo
 
 bajo Su regio poder. Vean, los dioses de los paganos permanecen firmes sobre
 
-sus pedestales. La antigua ramera de Roma se ostenta todava en su manto
+sus pedestales. La antigua ramera de Roma se ostenta todavía en su manto
 
-escarlata. La media luna de Mahoma mengua pero su torva luz se proyecta todava
+escarlata. La media luna de Mahoma mengua pero su torva luz se proyecta todavía
 
-a travs de todas las naciones. Por qu se demora? Tal vez Su dedo est ya
+a través de todas las naciones. żPor qué se demora? Tal vez Su dedo esté ya
 
-sobre el cerrojo; pudiera ser que viniera pronto. Ven pronto, Seor! Nuestros
+sobre el cerrojo; pudiera ser que viniera pronto. ˇVen pronto, Seńor! ˇNuestros
 
-anhelantes corazones te suplican que vengas! Mientras tanto, a ustedes y a m
+anhelantes corazones te suplican que vengas! Mientras tanto, a ustedes y a mí
 
 nos corresponde pelear, cada soldado en su rango, cada hombre ocupando su
 
-lugar, segn su Seor le hubiere indicado, contendiendo con alma, corazn y
+lugar, según su Seńor le hubiere indicado, contendiendo con alma, corazón y
 
 fuerza por lo recto, por lo verdadero, por la fe, por la santidad, por la cruz y
 
-por todo lo que esa cruz significa entre los hijos de los hombres. Bendita
+por todo lo que esa cruz significa entre los hijos de los hombres. ˇBendita
 
-Estrella de Jacob! T brillas con tus propios rayos; t brillas con un poder
+Estrella de Jacob! Tú brillas con tus propios rayos; tú brillas con un poder
 
 misterioso que nadie te dio, pues es inherentemente tuyo.
 
 Antes de dejar este
 
-punto slo dir que este reino de Cristo,
+punto sólo diré que este reino de Cristo,
 
 dondequiera
 
-que est, es sumamente benfico.
+que esté, es sumamente benéfico.
 
 Doquiera que brille esta estrella de
 
-gobierno, sus rayos esparcen bendicin. Jess no es ningn tirano. No gobierna
+gobierno, sus rayos esparcen bendición. Jesús no es ningún tirano. No gobierna
 
-mediante la opresin. La fuerza que utiliza es la fuerza del amor. Nunca hubo
+mediante la opresión. La fuerza que utiliza es la fuerza del amor. Nunca hubo
 
-un sbdito del reino de Cristo que se quejara de l. Quienes ms le han servido
+un súbdito del reino de Cristo que se quejara de Él. Quienes más le han servido
 
-han anhelado servirle ms. Vamos, incluso Su pobres mrtires en las catacumbas
+han anhelado servirle más. Vamos, incluso Su pobres mártires en las catacumbas
 
-de Roma, muriendo de inanicin o siendo arrastrados al Coliseo para ser
+de Roma, muriendo de inanición o siendo arrastrados al Coliseo para ser
 
-devorados por las bestias salvajes, jams expresaron nada malo de l.
+devorados por las bestias salvajes, jamás expresaron nada malo de Él.
 
-Ciertamente si hubo una situacin difcil para alguien, lo fue para ellos, pero
+Ciertamente si hubo una situación difícil para alguien, lo fue para ellos, pero
 
-entre ms torturados eran ms se regocijaban, y nunca hubo cnticos ms dulces
+entre más torturados eran más se regocijaban, y nunca hubo cánticos más dulces
 
-que aqullos que brotaban de los labios agonizantes de seres que estaban
+que aquéllos que brotaban de los labios agonizantes de seres que estaban
 
 crepitando sobre los carbones encendidos, cuyos miembros eran destrozados al
 
 ser atados a las patas de caballos salvajes, cuyos cuerpos eran aserrados por
 
-la mitad. Justo en la proporcin en que sus dolores corporales se volvan
+la mitad. Justo en la proporción en que sus dolores corporales se volvían
 
 agudos, el gozo espiritual se acentuaba; y mientras el hombre exterior se
 
-descompona, el hombre interior saltaba a una nueva vida, anticipando los gozos
+descomponía, el hombre interior saltaba a una nueva vida, anticipando los gozos
 
-del primognito delante del trono. l es un buen Seor. Jvenes, yo quisiera
+del primogénito delante del trono. Él es un buen Seńor. ˇJóvenes, yo quisiera
 
-que ustedes le sirvieran! Oh!, que fueran alistados a Su servicio. Han
+que ustedes le sirvieran! ˇOh!, que fueran alistados a Su servicio. Han
 
-transcurrido ahora muchos aos desde que yo le entregu mi corazn -ya son casi
+transcurrido ahora muchos ańos desde que yo le entregué mi corazón -ya son casi
 
-veinte aos- pero no puedo decir ni una sola palabra en contra suya. Es ms,
+veinte ańos- pero no puedo decir ni una sola palabra en contra suya. Es más,
 
 quisiera haberle servido siempre; quisiera haberle servido antes, y yo ruego
 
-sinceramente que me use hasta el lmite de mi capacidad. Si me convirtiera en
+sinceramente que me use hasta el límite de mi capacidad. Si me convirtiera en
 
-la alfombra de la entrada de Su templo, yo sera sumamente dichoso. Si
+la alfombra de la entrada de Su templo, yo sería sumamente dichoso. Si
 
 permitiera que mi nombre fuera desechado como malo y diera mi cuerpo a los
 
-perros, no me importara en tanto que Su verdad prosperara y Su nombre fuera
+perros, no me importaría en tanto que Su verdad prosperara y Su nombre fuera
 
-engrandecido. Pero ay!, hay tanto ego en nosotros, tanta altivez y no s qu
+engrandecido. Pero ˇay!, hay tanto ego en nosotros, tanta altivez y no sé qué
 
-otras cosas ms, que quien conoce verdaderamente al Seor, tiene razn para
+otras cosas más, que quien conoce verdaderamente al Seńor, tiene razón para
 
-pedirle que traiga Su grandiosa artillera y derrumbe los castillos de nuestra
+pedirle que traiga Su grandiosa artillería y derrumbe los castillos de nuestra
 
-corrupcin natural, nos conquiste una vez ms, y gobierne en nosotros por la
+corrupción natural, nos conquiste una vez más, y gobierne en nosotros por la
 
-pura fuerza de la gracia, hasta que en cada porcin y en cada rincn de
+pura fuerza de la gracia, hasta que en cada porción y en cada rincón de
 
-nuestros espritus no haya nada sino el amor de Cristo y la habitacin de Su
+nuestros espíritus no haya nada sino el amor de Cristo y la habitación de Su
 
-misericordioso Espritu. Interpretamos que la estrella es el smbolo del
+misericordioso Espíritu. Interpretamos que la estrella es el símbolo del
 
 gobierno.
 
@@ -278,217 +278,217 @@ Cuando los hombres
 
 desean hablar de esplendor, hablan de las estrellas. Los que son justos son
 
-como las estrellas, y los que ensean la justicia a la multitud resplandecern
+como las estrellas, y los que enseńan la justicia a la multitud resplandecerán
 
-como las estrellas a perpetua eternidad. Nuestro Seor Jesucristo es la
+como las estrellas a perpetua eternidad. Nuestro Seńor Jesucristo es la
 
-luminosidad misma. La estrella es slo una pobre expresin de Su inefable
+luminosidad misma. La estrella es sólo una pobre expresión de Su inefable
 
-esplendor. Oh, que el pensamiento les quedara completamente claro! l es el
+esplendor. ˇOh, que el pensamiento les quedara completamente claro! Él es el
 
 resplandor de la gloria de Su Padre, indeciblemente resplandeciente como
 
 la Deidad.
 
-l es el esplendor
+Él es el esplendor
 
-mismo en Su naturaleza humana, pues en l no haba ni mancha ni arruga. Como
+mismo en Su naturaleza humana, pues en Él no había ni mancha ni arruga. Como
 
-Mediador, exaltado en lo alto, disfrutando de la recompensa de Sus dolores, l
+Mediador, exaltado en lo alto, disfrutando de la recompensa de Sus dolores, Él
 
-es esplendoroso en verdad. Observen que nuestro Seor, como una estrella, es
+es esplendoroso en verdad. Observen que nuestro Seńor, como una estrella, es
 
 una resplandeciente estrella especial en el asunto de la santidad. No hubo
 
-pecado en l. Miren, y miren, y miren otra vez en Su carcter que se asemeja a
+pecado en Él. Miren, y miren, y miren otra vez en Su carácter que se asemeja a
 
 una estrella. Incluso los ojos de lince de los infieles no han sido capaces de
 
-descubrir algn error en l; y en cuanto a los atentos ojos de los crticos que
+descubrir algún error en Él; y en cuanto a los atentos ojos de los críticos que
 
 han sido creyentes, han sido conducidos a llorar una y otra vez, y luego a
 
-brillar y a destellar con deleite conforme han visto la fusin de todas las
+brillar y a destellar con deleite conforme han visto la fusión de todas las
 
-perfecciones en Su adorable carcter para integrar una sola perfeccin.
+perfecciones en Su adorable carácter para integrar una sola perfección.
 
-Como una estrella l
+Como una estrella Él
 
-brilla tambin con la luz del conocimiento. Moiss era, por decirlo as, slo
+brilla también con la luz del conocimiento. Moisés era, por decirlo así, sólo
 
-una bruma, pero Cristo es el profeta de la luz. La ley por medio de Moiss fue
+una bruma, pero Cristo es el profeta de la luz. “La ley por medio de Moisés fue
 
-dada una cosa de tipos y sombras- pero la gracia y la verdad vinieron por
+dada” –una cosa de tipos y sombras- “pero la gracia y la verdad vinieron por
 
-medio de Jesucristo. Si alguien ha de ser enseado en las cosas de Dios, debe obtener
+medio de Jesucristo”. Si alguien ha de ser enseńado en las cosas de Dios, debe obtener
 
 su luz de
 
 la Estrella
 
-de Beln. Pueden acudir a las universidades que quieran, a los tomos escritos
+de Belén. Pueden acudir a las universidades que quieran, a los tomos escritos
 
-por hombres ilustrados, a las escuelas de los filsofos, pero en las cosas
+por hombres ilustrados, a las escuelas de los filósofos, pero en las cosas
 
-espirituales no reciben ninguna luz hasta que miran a Jess, y entonces en Su
+espirituales no reciben ninguna luz hasta que miran a Jesús, y entonces en Su
 
-luz miran la luz, pues hay un esplendor trascendental en l. l es la sabidura
+luz miran la luz, pues hay un esplendor trascendental en Él. Él es la sabiduría
 
-de Dios as como tambin el poder de Dios; l es el camino, la verdad, y la
+de Dios así como también el poder de Dios; Él es el camino, la verdad, y la
 
-vida. La luz divina ha encontrado su centro en l!
+vida. ˇLa luz divina ha encontrado su centro en Él!
 
-Su luz es tambin la luz
+Su luz es también la luz
 
-del consuelo. Oh, cuntos han emergido de la oscuridad de sus almas y han
+del consuelo. ˇOh, cuántos han emergido de la oscuridad de sus almas y han
 
-encontrado la paz mirando a esta Estrella de Jacob, el Seor Jesucristo! Muy
+encontrado la paz mirando a esta Estrella de Jacob, el Seńor Jesucristo! Muy
 
 bien lo ha expresado nuestro himno:
 
-l es la refulgente Estrella Matutina de mi alma,
+“Él es la refulgente Estrella Matutina de mi alma,
 
-Y l es mi Sol Naciente.
+Y Él es mi Sol Naciente”.
 
 Una mirada a Cristo y la
 
-medianoche de tu incredulidad se disipa. Pero una visin de las cinco heridas
+medianoche de tu incredulidad se disipa. Pero una visión de las cinco heridas
 
-cubre tus pecados y borra tus iniquidades. Feliz el da, feliz el da cuando el
+cubre tus pecados y borra tus iniquidades. Feliz el día, feliz el día cuando el
 
-alma contempla por primera vez al Redentor crucificado, y se entrega a l
+alma contempla por primera vez al Redentor crucificado, y se entrega a Él
 
-confiando en l para eterna salvacin. Brilla dulce estrella, brilla esta
+confiando en Él para eterna salvación. ˇBrilla dulce estrella, brilla esta
 
-noche en algn corazn entenebrecido! Da santidad, da luz, da conocimiento de
+noche en algún corazón entenebrecido! ˇDa santidad, da luz, da conocimiento de
 
 Dios, da gozo y paz al creer, al creer en la preciosa sangre!
 
 Al hablar de Cristo como
 
-una estrella o el Smbolo de Gobierno les dije: somtanse a l. Ahora, hablando
+una estrella o “el Símbolo de Gobierno” les dije: sométanse a Él. Ahora, hablando
 
-de l como una estrella o la Imagen del Esplendor, les digo: mrenlo a l,
+de Él como una estrella o la “Imagen del Esplendor”, les digo: mírenlo a Él,
 
-mrenlo a l. Es el precepto del Evangelio: Mirad a m, y sed salvos, todos
+mírenlo a Él. Es el precepto del Evangelio: “Mirad a mí, y sed salvos, todos
 
-los trminos de la tierra, y hacemos bien en cantar:
+los términos de la tierra”, y hacemos bien en cantar:
 
-Hay vida por una mirada al Crucificado.
+“Hay vida por una mirada al Crucificado”.
 
 Pobre pecador, no te
 
-demores ms. No se te pide que hagas algo, que seas algo, ni que sientas algo,
+demores más. No se te pide que hagas algo, que seas algo, ni que sientas algo,
 
-sino simplemente se te pide que apartes la mirada del yo y la dirijas a lo
+sino simplemente se te pide que apartes la mirada del ‘yo’ y la dirijas a lo
 
-que Cristo ha hecho, y vivirs.
+que Cristo ha hecho, y vivirás.
 
-Mralo postrado en el huerto,
+“Míralo postrado en el huerto,
 
 Sobre el suelo yace tu Hacedor;
 
-Contmplalo sobre el madero ensangrentado,
+Contémplalo sobre el madero ensangrentado,
 
-yelo clamar antes de morir:
+Óyelo clamar antes de morir:
 
-Consumado es.
+‘Consumado es’.
 
-Pecador, no te basta eso?
+Pecador, żno te basta eso?”
 
-Entonces mralo a l y
+Entonces míralo a Él y
 
 vive.
 
 En tercer lugar, nuestro
 
-Seor es comparado a una estrella para hacer resaltar el hecho de que:
+Seńor es comparado a una estrella para hacer resaltar el hecho de que:
 
 III.
 
-L
+ÉL
 
 ES EL DECHADO DE CONSTANCIA.
 
 Diez mil cambios han
 
-sido realizados desde que el mundo comenz, pero las estrellas no han cambiado.
+sido realizados desde que el mundo comenzó, pero las estrellas no han cambiado.
 
-Permanecen all. En un tiempo soamos que se movan. Una ignorante imaginacin afirmaba
+Permanecen allí. En un tiempo sońamos que se movían. Una ignorante imaginación afirmaba
 
-que todas esas estrellas giraban en torno a este pequeo globo nuestro. Pero
+que todas esas estrellas giraban en torno a este pequeńo globo nuestro. Pero
 
-ahora sabemos que no era as. All estn tanto de da como de noche, siendo
+ahora sabemos que no era así. Allí están tanto de día como de noche, siendo
 
 siempre las mismas, y podemos decir que no han cambiado desde que el mundo
 
-comenz, y probablemente tampoco lo harn hasta que, como un vestido, Dios enrolle
+comenzó, y probablemente tampoco lo harán hasta que, como un vestido, Dios enrolle
 
-la creacin porque est gastada.
+la creación porque está gastada.
 
 Es muy deleitable
 
-recordar que la misma estrella que mir anoche fue vista tambin por Abraham,
+recordar que la misma estrella que miré anoche fue vista también por Abraham,
 
 tal vez
 
-acompaado
+acompańado
 
-con algunos de los mismsimos
+con algunos de los mismísimos
 
 pensamientos. Y cuando hayamos partido, y otras generaciones nos hubieren
 
-seguido, los que vienen despus habrn de mirar a la mismsima estrella.
+seguido, los que vienen después habrán de mirar a la mismísima estrella.
 
 Lo mismo sucede con
 
-nuestro Seor Jess. l es el mismo ayer, y hoy, y por los siglos. Lo que los
+nuestro Seńor Jesús. Él es el mismo ayer, y hoy, y por los siglos. Lo que los
 
-profetas y los apstoles vieron en l, nosotros podemos verlo en l, y lo que
+profetas y los apóstoles vieron en Él, nosotros podemos verlo en Él, y lo que
 
-l era para ellos, eso es para nosotros, y ser tambin para las generaciones
+Él era para ellos, eso es para nosotros, y será también para las generaciones
 
-venideras. Cientos de nosotros podramos estar viendo la misma estrella al
+venideras. Cientos de nosotros podríamos estar viendo la misma estrella al
 
-mismo tiempo sin saberlo. Hay un punto de reunin para muchos ojos. Algunos de
+mismo tiempo sin saberlo. Hay un punto de reunión para muchos ojos. Algunos de
 
 nosotros podemos ser arrastrados por las circunstancias a Australia, o a
 
-Canad, o a los Estados Unidos, o podramos andar navegando a travs del
+Canadá, o a los Estados Unidos, o podríamos andar navegando a través del
 
-profundo abismo, pero all veramos las estrellas. Es cierto que al otro lado
+profundo abismo, pero allí veríamos las estrellas. Es cierto que al otro lado
 
-del mundo veramos otro conjunto de estrellas, pero las estrellas en s siguen
+del mundo veríamos otro conjunto de estrellas, pero las estrellas en sí siguen
 
 siendo siempre las mismas. En cuanto a nosotros que estamos en este hemisferio,
 
-hemos de mirar la misma estrella. As, dondequiera que estemos, vemos al mismo
+hemos de mirar la misma estrella. Así, dondequiera que estemos, vemos al mismo
 
-Cristo. Un hermano aqu cuenta con educacin, pero cuando mira a Cristo, ve al
+Cristo. Un hermano aquí cuenta con educación, pero cuando mira a Cristo, ve al
 
 mismo Cristo que ve la pobre mujer iletrada sentada en uno de los pasillos. Y
 
-t, hombre pobre, que no tienes, tal vez, ni seis peniques en el mundo, t
+tú, hombre pobre, que no tienes, tal vez, ni seis peniques en el mundo, tú
 
-tienes al mismo Cristo en quien confiar que el hombre ms rico de todo el
+tienes al mismo Cristo en quien confiar que el hombre más rico de todo el
 
-mundo. Y t que te consideras tan oscuro que nadie te conoce excepto tu Dios,
+mundo. Y tú que te consideras tan oscuro que nadie te conoce excepto tu Dios,
 
-t miras a esa misma estrella que brilla con los mismos rayos para ti, como
+tú miras a esa misma estrella que brilla con los mismos rayos para ti, como
 
-para el cristiano que va de lder en la caravana de las huestes del Seor. Jesucristo
+para el cristiano que va de líder en la caravana de las huestes del Seńor. Jesucristo
 
-es todava el mismo, el mismo para todo Su pueblo, el mismo en todo lugar, el
+es todavía el mismo, el mismo para todo Su pueblo, el mismo en todo lugar, el
 
 mismo por los siglos de los siglos. Por tanto, muy bien puede ser comparado con
 
-esas brillantes estrellas que ahora brillan como lo hicieron antao y no
+esas brillantes estrellas que ahora brillan como lo hicieron antańo y no
 
 cambian.
 
 En cuarto lugar, podemos
 
-trazar esta comparacin de nuestro Seor a una estrella como:
+trazar esta comparación de nuestro Seńor a una estrella como:
 
 IV.
 
@@ -496,39 +496,39 @@ FUENTE
 
 DE INFLUENCIA.
 
-Los antiguos astrlogos
+Los antiguos astrólogos
 
-solan creer con mucha conviccin en la influencia de las estrellas sobre las
+solían creer con mucha convicción en la influencia de las estrellas sobre las
 
-mentes de los hombres. Sin endosar sus desacreditadas teoras, nos encontramos
+mentes de los hombres. Sin endosar sus desacreditadas teorías, nos encontramos
 
 en
 
 la Escritura
 
-con expresiones como sta: Podrs t atar los lazos de las Plyades, o
+con expresiones como ésta: “żPodrás tú atar los lazos de las Pléyades, o
 
-desatars las ligaduras de Orin?, aludiendo sin duda, al hecho de que las
+desatarás las ligaduras de Orión?”, aludiendo sin duda, al hecho de que las
 
-Plyades van en ascenso en los dulces meses de la primavera, cuando el clido
+Pléyades van en ascenso en los dulces meses de la primavera, cuando el cálido
 
-aliento y las delicadas lluvias hacen brotar los tiernos retoos y la hierba
+aliento y las delicadas lluvias hacen brotar los tiernos retońos y la hierba
 
-tierna, el follaje y las flores de Mayo, con toda la hermosura de la estacin,
+tierna, el follaje y las flores de Mayo, con toda la hermosura de la estación,
 
-mientras que Orin va en ascenso como una seal invernal, cuando las ligaduras
+mientras que Orión va en ascenso como una seńal invernal, cuando las ligaduras
 
 de hielo atan el estallido de la naturaleza. Pero, ya sea que haya una
 
-influencia en las estrellas o no, en lo tocante a este mundo, yo s que hay una
+influencia en las estrellas o no, en lo tocante a este mundo, yo sé que hay una
 
-gran influencia en Cristo Jess. l es la fuente de todas las santas influencias
+gran influencia en Cristo Jesús. Él es la fuente de todas las santas influencias
 
 entre los hijos de los hombres. Cuando esta estrella brilla sobre las tumbas de
 
-los hombres que estn muertos en pecado, comienzan a vivir. Cuando el rayo de
+los hombres que están muertos en pecado, comienzan a vivir. Cuando el rayo de
 
-esta estrella brilla sobre los pobres espritus prisioneros, sus cadenas se
+esta estrella brilla sobre los pobres espíritus prisioneros, sus cadenas se
 
 sueltan y el cautivo salta para librarse de sus cadenas. Cuando esta estrella
 
@@ -540,69 +540,69 @@ rebelde, comienza a enmendar sus caminos, y, como los sabios orientales, princip
 
 a seguir su luz hasta que encuentra de nuevo a su Salvador. Esta estrella tiene
 
-una influencia sobre nuestra natividad. Es a travs de sus benignos rayos que
+una influencia sobre nuestra natividad. Es a través de sus benignos rayos que
 
-nacemos de nuevo, y en nuestro horscopo tiene una influencia sobre nuestra
+nacemos de nuevo, y en nuestro horóscopo tiene una influencia sobre nuestra
 
 muerte, pues es en su luz que nos quedamos dormidos creyendo que nos
 
-despertaremos en la imagen del Seor Jess. Oh, dulce estrella, brilla siempre
+despertaremos en la imagen del Seńor Jesús. ˇOh, dulce estrella, brilla siempre
 
-sobre m! No dejes que me pierda jams de sus rayos, sino que siempre camine a
+sobre mí! No dejes que me pierda jamás de sus rayos, sino que siempre camine a
 
-su luz hasta ser encontrado en el pleno calor del medioda del Sol de Justicia
+su luz hasta ser encontrado en el pleno calor del mediodía del Sol de Justicia
 
 por los siglos de los siglos.
 
 En quinto lugar, el
 
-Seor Jesucristo puede ser comparado a una estrella:
+Seńor Jesucristo puede ser comparado a una estrella:
 
 V.
 
 Como
 
-una fuente de orientacin.
+una fuente de orientación.
 
 Hay algunas estrellas
 
-que son extremadamente tiles para los marineros. No puedo imaginar de qu otra
+que son extremadamente útiles para los marineros. No puedo imaginar de qué otra
 
-manera pudiera ser navegado el ancho ocano si no fuera por la ayuda especial
+manera pudiera ser navegado el ancho océano si no fuera por la ayuda especial
 
 de
 
 la Estrella Polar.
 
-Jess es
+Jesús es
 
 la Estrella
 
 Polar
 
-para nosotros. En los tiempos antiguos, cuando la maldicin de la esclavitud no
+para nosotros. En los tiempos antiguos, cuando la maldición de la esclavitud no
 
-haba sido suprimida, cunto debe de haber bendecido a Dios el pobre negro por
+había sido suprimida, cuánto debe de haber bendecido a Dios el pobre negro por
 
-esa estrella polar, tan fcil de encontrar. Cualquier nio con una fugaz
+esa estrella polar, tan fácil de encontrar. Cualquier nińo con una fugaz
 
-enseanza sabe pronto cmo descubrirla entre sus congneres en la noche, y
+enseńanza sabe pronto cómo descubrirla entre sus congéneres en la noche, y
 
-cuando el negro aprenda una vez a distinguir la estrella que brillaba sobre la
+cuando el negro aprendía una vez a distinguir la estrella que brillaba sobre la
 
-tierra de la libertad, cmo la segua a travs de las funestas cinegas o a lo
+tierra de la libertad, cómo la seguía a través de las funestas ciénegas o a lo
 
-largo de los llanos que eran ms terribles todava; cmo poda vadear los
+largo de los llanos que eran más terribles todavía; cómo podía vadear los
 
-torrentes y escalar las montaas, siempre animado por la visin de esa estrella
+torrentes y escalar las montańas, siempre animado por la visión de esa estrella
 
 polar.
 
-As es Jesucristo para
+Así es Jesucristo para
 
-el buscador. l lo conduce a la libertad, l lo conduce a la paz. Oh!, yo
+el buscador. Él lo conduce a la libertad, Él lo conduce a la paz. ˇOh!, yo
 
-deseara que lo siguieran algunos de ustedes que andan dando vueltas por mil
+desearía que lo siguieran algunos de ustedes que andan dando vueltas por mil
 
 caminos para encontrar la paz donde nunca la van a encontrar. No hay nunca un
 
@@ -612,45 +612,45 @@ ocasiones con tronantes notas- la simple verdad que Jesucristo vino al mundo
 
 para salvar pecadores. Yo trato de aclarar muy bien que no son ni sus oraciones
 
-ni sus lgrimas, ni sus acciones, ni sus deseos, ni alguna cosa suya las que
+ni sus lágrimas, ni sus acciones, ni sus deseos, ni alguna cosa suya las que
 
 pueden salvarlos, sino que toda su ayuda se alberga en uno que es poderoso, y
 
-que slo deben mirarlo a l.
+que sólo deben mirarlo a Él.
 
 Sin embargo, pecadores,
 
-ustedes todava se estn mirando a ustedes mismos. Ustedes rastrillan los
+ustedes todavía se están mirando a ustedes mismos. Ustedes rastrillan los
 
 estercoleros de su naturaleza humana para encontrar la perla de gran precio que
 
-no est all. Buscan debajo del hielo de la depravacin natural para encontrar
+no está allí. Buscan debajo del hielo de la depravación natural para encontrar
 
-la llama del consuelo que no est all. Mirar a sus propias obras y mritos
+la llama del consuelo que no está allí. Mirar a sus propias obras y méritos
 
-para encontrar alguna base de confianza equivaldra a buscar en el infierno
+para encontrar alguna base de confianza equivaldría a buscar en el infierno
 
-mismo para encontrar el cielo. Desechen esas cosas! Desechen esas cosas, cada
+mismo para encontrar el cielo. ˇDesechen esas cosas! ˇDesechen esas cosas, cada
 
-una de ellas! Desechen todas esas confianzas suyas!, pues:
+una de ellas! ˇDesechen todas esas confianzas suyas!, pues:
 
-Nadie sino Jess, nadie sino Jess,
+“Nadie sino Jesús, nadie sino Jesús,
 
-Puede hacer bien a los pecadores desvalidos.
+Puede hacer bien a los pecadores desvalidos”.
 
-Slo haz girar el
+ˇSólo haz girar el
 
-timn, y cambia la vela, y vira por avante! No sigas el faro de aquel que trata
+timón, y cambia la vela, y vira por avante! No sigas el faro de aquel que trata
 
-de provocar naufragios para cometer pillajes atrayndote desde aquella costa a
+de provocar naufragios para cometer pillajes atrayéndote desde aquella costa a
 
-las peas del autoengao, sino sigue la orientacin de la estrella polar, haz
+las peńas del autoengańo, sino sigue la orientación de la estrella polar, haz
 
-que navegue tu barca hacia all, y ora pidiendo del bendito Espritu vientos
+que navegue tu barca hacia allá, y ora pidiendo del bendito Espíritu vientos
 
-favorables que te guen debidamente al puerto de paz.
+favorables que te guíen debidamente al puerto de paz.
 
-Nuestro Seor es
+Nuestro Seńor es
 
 comparado a una estrella, seguramente:
 
@@ -658,89 +658,89 @@ VI.
 
 COMO
 
-EL OBJETO DE ADMIRACIN.
+EL OBJETO DE ADMIRACIÓN.
 
 Una de las primeras
 
-lneas que muchos de ustedes aprendieron a recitar fue:
+líneas que muchos de ustedes aprendieron a recitar fue:
 
-Titila, titila, estrellita,
+“Titila, titila, estrellita,
 
-Cmo deseo saber lo que eres.
+Cómo deseo saber lo que eres”.
 
 Pero eso es precisamente
 
-lo que Galileo pudo haber dicho, y exactamente lo que el ms grande astrnomo
+lo que Galileo pudo haber dicho, y exactamente lo que el más grande astrónomo
 
-que haya vivido jams podra decir. Algunas veces has mirado a travs de un
+que haya vivido jamás podría decir. Algunas veces has mirado a través de un
 
-telescopio y has visto los planetas, pero despus de haberlos mirado no sabas
+telescopio y has visto los planetas, pero después de haberlos mirado no sabías
 
-nada en particular acerca de ellos; y esos que estn ocupados todo el da y
+nada en particular acerca de ellos; y esos que están ocupados todo el día y
 
-toda la noche haciendo constantes observaciones yo creo- les dirn que el resultado
+toda la noche haciendo constantes observaciones –yo creo- les dirán que el resultado
 
-es ms bien el de anonadamiento que el de entendimiento. Sigue siendo vlido sto:
+es más bien el de anonadamiento que el de entendimiento. Sigue siendo válido ésto:
 
-Cmo deseo saber lo que eres.
+“Cómo deseo saber lo que eres”.
 
-As, para los que
+Así, para los que
 
-estamos en Cristo Jess, l es una estrella inigualable, pero, oh, hermanos!,
+estamos en Cristo Jesús, Él es una estrella inigualable, pero, ˇoh, hermanos!,
 
-hacemos bien en preguntarnos qu cosa es l. Cuando ramos parvulitos solamos
+hacemos bien en preguntarnos qué cosa es Él. Cuando éramos parvulitos solíamos
 
-pensar que las estrellas eran hoyos abiertos en los cielos, a travs de los
+pensar que las estrellas eran hoyos abiertos en los cielos, a través de los
 
 cuales la luz del cielo brillaba, o que eran trocitos de polvo de oro que Dios
 
-haba esparcido por doquier. Ahora no pensamos eso; entendemos que
+había esparcido por doquier. Ahora no pensamos eso; entendemos que
 
 son
 
-mucho ms grandes de lo que parecen ser. As, cuando
+mucho más grandes de lo que parecen ser. Así, cuando
 
-ramos carnales y no conocamos al Rey Jess, considerbamos que era muy
+éramos carnales y no conocíamos al Rey Jesús, considerábamos que era muy
 
 semejante a cualquier otra persona, pero ahora comenzamos a conocerlo y descubrimos
 
-que es mucho ms grande, infinitamente ms grande de lo que pensbamos. Y
+que es mucho más grande, infinitamente más grande de lo que pensábamos. Y
 
-conforme crecemos en gracia, descubrimos que es mucho ms glorioso todava. Al
+conforme crecemos en gracia, descubrimos que es mucho más glorioso todavía. Al
 
-principio era una estrellita para nuestra visin, pero ahora ha crecido en
+principio era una estrellita para nuestra visión, pero ahora ha crecido en
 
-nuestra estimacin hasta llegar a ser un sol, un deslumbrante sol, cuyos rayos
+nuestra estimación hasta llegar a ser un sol, un deslumbrante sol, cuyos rayos
 
-refrescan a nuestra alma. Ah!, pero cuando nos acercamos a l, qu ser l? Imagnate
+refrescan a nuestra alma. ˇAh!, pero cuando nos acercamos a Él, żqué será Él? Imagínate
 
-que eres transportado sobre el ala de un ngel para hacer un viaje hasta una
+que eres transportado sobre el ala de un ángel para hacer un viaje hasta una
 
 estrella. Viajando a una velocidad inconcebible, abres de pronto tus ojos y
 
-dices: Cun prodigioso! Vamos, eso que era un estrella se ha convertido justo
+dices: “ˇCuán prodigioso! Vamos, eso que era un estrella se ha convertido justo
 
-ahora en algo tan grande para mi visin como el sol del medioda. Espera,
+ahora en algo tan grande para mi visión como el sol del mediodía”. “Espera”,
 
--dice el ngel- mayores cosas que stas vers, y, conforme avanzas, el disco
+-dice el ángel- “mayores cosas que éstas verás”, y, conforme avanzas, el disco
 
-de esa esfera celeste aumenta de tamao hasta llegar a ser igual a cien soles;
+de esa esfera celeste aumenta de tamańo hasta llegar a ser igual a cien soles;
 
-y ahora dices: Pero qu? No estoy ahora cerca de ella? No, -responde el
+y ahora dices: “żPero qué? żNo estoy ahora cerca de ella?” “No”, -responde el
 
-ngel- ese enorme globo est lejos todava, muy lejos, y cuando llegas
+ángel- “ese enorme globo está lejos todavía, muy lejos”, y cuando llegas
 
-finalmente, descubres que es un mundo tan portentoso que la aritmtica sera
+finalmente, descubres que es un mundo tan portentoso que la aritmética sería
 
-incapaz de calcular su tamao y difcilmente podra la imaginacin cercarlo con
+incapaz de calcular su tamańo y difícilmente podría la imaginación cercarlo con
 
-el cinturn de la fantasa. Ahora, Jesucristo es as. Les dije que aqu crece
+el cinturón de la fantasía. Ahora, Jesucristo es así. Les dije que aquí crece
 
-ante Su pueblo, pero qu ser verlo all cuando el velo sea levantado y lo
+ante Su pueblo, pero żqué será verlo allá cuando el velo sea levantado y lo
 
-contemplemos cara a cara? Algunas veces anhelamos descubrir qu es esa
+contemplemos cara a cara? Algunas veces anhelamos descubrir qué es esa
 
-estrella, conocerlo a l, comprender con todos los santos cules sean las
+estrella, conocerlo a Él, comprender con todos los santos cuáles sean las
 
 alturas y las profundidades, y conocer el amor de Cristo que excede a todo conocimiento;
 
@@ -750,33 +750,33 @@ nos vemos forzados
 
 a sentarnos y cantar:
 
-Slo Dios conoce el amor de Dios:
+“Sólo Dios conoce el amor de Dios:
 
 Oh, que fuera derramado abundantemente ahora
 
-En este pobre corazn de piedra.
+En este pobre corazón de piedra”.
 
 Tenemos que confesar
 
 que:
 
-Los primognitos hijos de la luz
+“Los primogénitos hijos de la luz
 
 En vano desean ver su profundidad;
 
 No pueden alcanzar el misterio,
 
-La longitud, la anchura, la altura.
+La longitud, la anchura, la altura”.
 
 Pero, para concluir, la
 
-metfora usada en el texto puede muy bien contener esta sptima significacin.
+metáfora usada en el texto puede muy bien contener esta séptima significación.
 
-Nuestro Seor es comparado con una estrella ya que:
+Nuestro Seńor es comparado con una estrella ya que:
 
 VII.
 
-L
+ÉL
 
 ES EL HERALDO DE GLORIA.
 
@@ -784,107 +784,107 @@ La brillante estrella
 
 matutina vaticina que el sol viene en camino para alegrar a la tierra con su
 
-luz. Doquiera que llega Jess, es un grandioso profeta de bien. Cuando llega a
+luz. Doquiera que llega Jesús, es un grandioso profeta de bien. Cuando llega a
 
-un corazn, tan pronto como hace acto de presencia, pueden estar seguros de que
+un corazón, tan pronto como hace acto de presencia, pueden estar seguros de que
 
 hay una vida de eternidad y un gozo venidero. Cuando Jesucristo entra en una
 
-familia, realiza grandes cambios all. Si es predicado con poder en cualquier
+familia, realiza grandes cambios allí. Si es predicado con poder en cualquier
 
-pueblo o ciudad, se convierte en un heraldo de cosas buenas all. Cristo ha
+pueblo o ciudad, se convierte en un heraldo de cosas buenas allí. Cristo ha
 
-proclamado las buenas nuevas al mundo entero. Su venida est cargada de
+proclamado las buenas nuevas al mundo entero. Su venida está cargada de
 
-bendiciones para los hijos de los hombres. S, la venida de Cristo en la carne
+bendiciones para los hijos de los hombres. Sí, la venida de Cristo en la carne
 
-es la gran profeca de la gloria que ser revelada en los ltimos das, cuando
+es la gran profecía de la gloria que será revelada en los últimos días, cuando
 
-todas las naciones se inclinen delante de l, y la era de la paz, la era de
+todas las naciones se inclinen delante de Él, y la era de la paz, la era de
 
-oro, venga, no porque la civilizacin haya avanzado, no porque la educacin
+oro, venga, no porque la civilización haya avanzado, no porque la educación
 
 haya aumentado, o porque el mundo se haya vuelto mejor, sino porque Cristo ha
 
-venido. Esta es la primera, la ms hermosa de las estrellas, el presagio del
+venido. Esta es la primera, la más hermosa de las estrellas, el presagio del
 
 amanecer.
 
-S, y debido a que
+Sí, y debido a que
 
-Cristo ha venido, habr un cielo para los hijos de los hombres que creen en l.
+Cristo ha venido, habrá un cielo para los hijos de los hombres que creen en Él.
 
-Hijos del trabajo, debido a que Cristo ha venido, habr reposo para ustedes que
+Hijos del trabajo, debido a que Cristo ha venido, habrá reposo para ustedes que
 
-estn cansados. Hijas de la afliccin, debido a que Cristo ha venido, habr
+están cansados. Hijas de la aflicción, debido a que Cristo ha venido, habrá
 
-restauracin para ustedes que son dbiles. Oh, ustedes, a quienes la
+restauración para ustedes que son débiles. ˇOh, ustedes, a quienes la
 
-estrujante penuria est doblegando! Habr un rescate y una riqueza sagrada para
+estrujante penuria está doblegando! Habrá un rescate y una riqueza sagrada para
 
-ustedes, porque la estrella ha brillado. Sigan esperando! Esperen siempre!
+ustedes, porque la estrella ha brillado. ˇSigan esperando! ˇEsperen siempre!
 
-Ahora que Jess ha venido, no hay espacio para la desesperacin.
+Ahora que Jesús ha venido, no hay espacio para la desesperación.
 
 Yo les recomiendo estos
 
-pensamientos y les pido sinceramente una vez ms que, si nunca han mirado a
+pensamientos y les pido sinceramente una vez más que, si nunca han mirado a
 
-Cristo, confen en l ahora; si no se han sometido nunca a Jess, somtanse a
+Cristo, confíen en Él ahora; si no se han sometido nunca a Jesús, sométanse a
 
-l ahora; si nunca han confiado en l, confen en l ahora. Es un asunto muy
+Él ahora; si nunca han confiado en Él, confíen en Él ahora. Es un asunto muy
 
-simple. Que Dios el Espritu Santo les ensee y los gue a desconocerse a
+simple. Que Dios el Espíritu Santo les enseńe y los guíe a desconocerse a
 
-ustedes mismos, y reconocerlo a l; abandonen sus propios pensamientos y
+ustedes mismos, y reconocerlo a Él; abandonen sus propios pensamientos y
 
-confen en Su palabra. Si todos ustedes hacen sto hay prueba positiva de que
+confíen en Su palabra. Si todos ustedes hacen ésto hay prueba positiva de que
 
-Cristo hace todo para ustedes. Ustedes son Suyos, y l es de ustedes; donde l
+Cristo hace todo para ustedes. Ustedes son Suyos, y Él es de ustedes; donde Él
 
-est, all estar la porcin de ustedes, y sern como l, pues le vern como l
+está, allí estará la porción de ustedes, y serán como Él, pues le verán como Él
 
-es. Ser un da inolvidable si son conducidos ahora a entregarse a l.
+es. Será un día inolvidable si son conducidos ahora a entregarse a Él.
 
 Yo recuerdo muy bien
 
-cuando mi corazn cedi a Su gracia divina; cuando ya no pude mirar ms a
+cuando mi corazón cedió a Su gracia divina; cuando ya no pude mirar más a
 
-ninguna otra parte, y me vi forzado a mirarlo a l. Oh, vengan a l! No s
+ninguna otra parte, y me vi forzado a mirarlo a Él. ˇOh, vengan a Él! No sé
 
-cules palabras usar, o cules persuasiones emplear. Por su propio beneficio,
+cuáles palabras usar, o cuáles persuasiones emplear. Por su propio beneficio,
 
-para que sean felices ahora, miren a Jess; por causa de la eternidad, para que
+para que sean felices ahora, miren a Jesús; por causa de la eternidad, para que
 
-puedan ser felices en el ms all, miren a Jess; por causa del terror, para
+puedan ser felices en el más allá, miren a Jesús; por causa del terror, para
 
-que puedan escapar del infierno, miren a Jess; por causa de la misericordia,
+que puedan escapar del infierno, miren a Jesús; por causa de la misericordia,
 
-para que puedan entrar en el cielo, miren a Jess. Pudiera ser que nunca se les
+para que puedan entrar en el cielo, miren a Jesús. Pudiera ser que nunca se les
 
-pida otra vez que lo hagan. Esta peticin pudiera ser la ltima, la medida concluyente
+pida otra vez que lo hagan. Esta petición pudiera ser la última, la medida concluyente
 
-que colmar la suma de todas sus culpas, por haberla rechazado. Oh, no
+que colmará la suma de todas sus culpas, por haberla rechazado. Oh, no
 
-desprecien la exhortacin. Que ascienda desde su espritu quietamente esta
+desprecien la exhortación. Que ascienda desde su espíritu quietamente esta
 
-peticin: Dios s propicio a m pecador. Su alma ha de luchar con vehemencia.
+petición: “Dios sé propicio a mí pecador”. Su alma ha de luchar con vehemencia.
 
-Su lengua ha de expresar su poderosa resolucin:
+Su lengua ha de expresar su poderosa resolución:
 
-Yo me acercar al misericordioso Rey,
+“Yo me acercaré al misericordioso Rey,
 
-Cuyo cetro otorga el perdn;
+Cuyo cetro otorga el perdón;
 
 Tal vez ordene que sea tocado,
 
 Y entonces viva el suplicante.
 
-Slo puedo perecer si voy,
+Sólo puedo perecer si voy,
 
 Estoy resuelto a probar;
 
-Pues, si me quedo lejos, yo s
+Pues, si me quedo lejos, yo sé
 
 Que he de perecer para siempre.
 
@@ -892,11 +892,11 @@ Pero si perezco buscando la misericordia,
 
 Habiendo puesto a prueba al Rey,
 
-Eso sera morir, deleitable pensamiento,
+Eso sería morir, deleitable pensamiento,
 
-Como un pecador jams muri.
+Como un pecador jamás murió”.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 1/Junio/2011
 

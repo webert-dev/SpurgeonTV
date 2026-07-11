@@ -1,368 +1,368 @@
 # Sermón 658 | Sermón 658
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
 Del muladar al trono
 
 NO. 658
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
-MAANA DEL DOMINGO 5 DE NOVIEMBRE, 1865
+MAŃANA DEL DOMINGO 5 DE NOVIEMBRE, 1865
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES.
 
-El levanta del polvo al pobre, y al
+“El levanta del polvo al pobre, y al
 
-menesteroso alza del muladar, para hacerlos sentar con los prncipes, con los
+menesteroso alza del muladar, para hacerlos sentar con los príncipes, con los
 
-prncipes de su pueblo. Salmo 113: 7, 8.
+príncipes de su pueblo.” Salmo 113: 7, 8.
 
-La magnificencia y la majestad del Dios Altsimo
+La magnificencia y la majestad del Dios Altísimo
 
-son enteramente inconcebibles. Las mentes ms magistrales, aun encontrndose en
+son enteramente inconcebibles. Las mentes más magistrales, aun encontrándose en
 
-su estado ms espiritual y pese al mximo ejercicio de su imaginacin, se
+su estado más espiritual y pese al máximo ejercicio de su imaginación, se
 
 han
 
 visto imposibilitadas de vislumbrar
 
-la magnificencia de Dios. Nuestras ms excelsas concepciones del universo se
+la magnificencia de Dios. Nuestras más excelsas concepciones del universo se
 
-quedan definitivamente muy cortas en cuanto a qu es realmente. Las investigaciones
+quedan definitivamente muy cortas en cuanto a qué es realmente. Las investigaciones
 
-de la astronoma han revelado hechos que sobrepasan todos los poderes de la
+de la astronomía han revelado hechos que sobrepasan todos los poderes de la
 
 mente humana, a pesar de todos los esfuerzos para descifrarlos. El pensamiento,
 
-la razn, el entendimiento e incluso la imaginacin se quedan azorados en los
+la razón, el entendimiento e incluso la imaginación se quedan azorados en los
 
 vastos e ilimitados campos del espacio en medio de las maravillas de la obra de
 
 Dios. Sin embargo, todos los portentos que el ojo humano ha visto o que el
 
-espritu mortal ha adivinado, no son sino partes de Sus caminos. No hemos odo
+espíritu mortal ha adivinado, no son sino partes de Sus caminos. No hemos oído
 
-sino una estrofa del salmo sin fin de la creacin. No hemos visto sino una
+sino una estrofa del salmo sin fin de la creación. No hemos visto sino una
 
-piedra en el vasto mosaico de las obras del Hacedor. Un imperceptible tomo de
+piedra en el vasto mosaico de las obras del Hacedor. Un imperceptible átomo de
 
-vida en una gota de agua podra saber tanto del gran ocano, como lo que
+vida en una gota de agua podría saber tanto del gran océano, como lo que
 
 sabemos nosotros del universo como un todo. Una hormiga que se arrastra sobre un
 
-montn de arena junto al mar no debe jactarse de haber contado los granos que
+montón de arena junto al mar no debe jactarse de haber contado los granos que
 
-limitan el ocano: tampoco ha de imaginar el mortal ms estudioso que tiene una
+limitan el océano: tampoco ha de imaginar el mortal más estudioso que tiene una
 
-idea completa de la vasta creacin de Dios.
+idea completa de la vasta creación de Dios.
 
-Sin embargo, por encima de todo esto, est el
+Sin embargo, por encima de todo esto, está el
 
-hecho de que todas estas obras portentosas no guardan una mayor proporcin con
+hecho de que todas estas obras portentosas no guardan una mayor proporción con
 
-el Dios todopoderoso e invisible, que la que guardara una lnea escrita por la
+el Dios todopoderoso e invisible, que la que guardaría una línea escrita por la
 
-pluma de Milton en relacin con su mente magistral. Cuando Dios ha hecho todo
+pluma de Milton en relación con su mente magistral. Cuando Dios ha hecho todo
 
-lo que decide crear, y cuando hemos visto todo lo que ha hecho, en l
+lo que decide crear, y cuando hemos visto todo lo que ha hecho, en Él
 
-permanecen todava infinitas posibilidades de creacin. El alfarero es mucho
+permanecen todavía infinitas posibilidades de creación. El alfarero es mucho
 
-mayor que el vaso que hizo, y el Seor es infinitamente mayor que todas Sus
+mayor que el vaso que hizo, y el Seńor es infinitamente mayor que todas Sus
 
-obras. l llena todas las cosas, pero todas las cosas no pueden llenarlo a l.
+obras. Él llena todas las cosas, pero todas las cosas no pueden llenarlo a Él.
 
-l contiene a la inmensidad, l abarca a la eternidad, pero ni la inmensidad ni
+Él contiene a la inmensidad, Él abarca a la eternidad, pero ni la inmensidad ni
 
-la eternidad pueden abarcarlo a l.
+la eternidad pueden abarcarlo a Él.
 
-Grandioso
+“ˇGrandioso
 
-Dios, cun infinito eres T!
+Dios, cuán infinito eres Tú!
 
-Cun
+ˇCuán
 
-insignificantes gusanos somos nosotros!
+insignificantes gusanos somos nosotros!”
 
 Muy atinadamente le canta el salmista como el
 
-Dios que se humilla a mirar en el cielo. Esos seres majestuosos, los querubines
+Dios ‘que se humilla a mirar en el cielo’. Esos seres majestuosos, los querubines
 
-y serafines, que se desplazan con alas de fuego para cumplir las rdenes del
+y serafines, que se desplazan con alas de fuego para cumplir las órdenes del
 
-Eterno, no han de ser observados por l a menos que, en condescendencia -hablando
+Eterno, no han de ser observados por Él a menos que, en condescendencia -hablando
 
 a la manera de los hombres- se incline para verlos. Cantamos acerca del cielo,
 
-incluso del cielo de los cielos, como propiedad del Seor, y decimos de esos
+incluso del cielo de los cielos, como propiedad del Seńor, y decimos de esos
 
 gloriosos lugares que constituyen Su morada peculiar, y eso es lo que son; y,
 
-sin embargo, el cielo de los cielos no puede contenerle, y los espritus
+sin embargo, el cielo de los cielos no puede contenerle, y los espíritus
 
-celestiales no son nada comparados con l.
+celestiales no son nada comparados con Él.
 
-Consideren, entonces, la condescendencia del
+ˇConsideren, entonces, la condescendencia del
 
-Seor al visitar a los hijos de los hombres! Cunta condescendencia hay aqu,
+Seńor al visitar a los hijos de los hombres! ˇCuánta condescendencia hay aquí,
 
-hermanos mos! Del trono del Infinito a las viviendas de arcilla del hombre! Seguramente
+hermanos míos! ˇDel trono del Infinito a las viviendas de arcilla del hombre! Seguramente
 
-en un momento percibirn que todas las escalas de rango entre nuestra raza de
+en un momento percibirán que todas las escalas de rango entre nuestra raza de
 
-gusanos han de ser menos que nada, e incluso despreciables para l. l no
+gusanos han de ser menos que nada, e incluso despreciables para Él. Él no
 
-frecuenta la compaa de los reyes cuando desciende a la tierra, pues qu es
+frecuenta la compańía de los reyes cuando desciende a la tierra, pues żqué es
 
-su pompa ridcula para l? l no busca para S la sociedad imperial, como si
+su pompa ridícula para Él? Él no busca para Sí la sociedad imperial, como si
 
-fuera algo ms acorde con Su dignidad que la asociacin con la pobreza, pues
+fuera algo más acorde con Su dignidad que la asociación con la pobreza, pues
 
-qu es el juego de nios de la grandiosidad cortesana para l? Un rey! Qu
+żqué es el juego de nińos de la grandiosidad cortesana para Él? ˇUn rey! żQué
 
-es un rey sino un gusano coronado? Un rey! Qu es un rey sino polvo y cenizas
+es un rey sino un gusano coronado? ˇUn rey! żQué es un rey sino polvo y cenizas
 
-colocados encima del restante montn de cenizas y polvo? El Seor, por tanto,
+colocados encima del restante montón de cenizas y polvo? El Seńor, por tanto,
 
-tiene en muy poca consideracin el honor proveniente del hombre cuyo aliento
+tiene en muy poca consideración el honor proveniente del hombre cuyo aliento
 
-est en su nariz.
+está en su nariz.
 
-Con escarnio
+“Con escarnio
 
-divino l aparta Sus ojos
+divino Él aparta Sus ojos
 
 De las torres
 
-de reyes altivos.
+de reyes altivos”.
 
 Cuando Su terrible carro desciende rodando de
 
 los cielos, hace que los hombres observen Su condescendencia cuando visita a
 
-los hombres de baja condicin. l se tendra que rebajar para visitar un
+los hombres de baja condición. Él se tendría que rebajar para visitar un
 
-palacio, pero no se rebaja ms si visita el muladar. Cuando est involucrado en
+palacio, pero no se rebaja más si visita el muladar. Cuando está involucrado en
 
-diligencias de misericordia, habindose rebajado tanto como para entrar en un
+diligencias de misericordia, habiéndose rebajado tanto como para entrar en un
 
-saln de sesiones del gabinete, se requiere escasamente un paso ms para llegar
+salón de sesiones del gabinete, se requiere escasamente un paso más para llegar
 
-a la guarida de la pobreza y a la madriguera del vicio. Tengan nimo, ustedes, que
+a la guarida de la pobreza y a la madriguera del vicio. Tengan ánimo, ustedes, que
 
-son los ms humildes de los hijos de los hombres, pues quien reina en la gloria
+son los más humildes de los hijos de los hombres, pues quien reina en la gloria
 
 no desprecia a nadie.
 
-El levanta del polvo al pobre, y al menesteroso
+“El levanta del polvo al pobre, y al menesteroso
 
-alza del muladar. Esto ha ocurrido frecuentemente en la providencia. En Sus
+alza del muladar”. Esto ha ocurrido frecuentemente en la providencia. En Sus
 
-arreglos, Dios altera singularmente la posicin de los hombres. La historia no
+arreglos, Dios altera singularmente la posición de los hombres. La historia no
 
-carece de ejemplos en los que quienes estn ms arriba han quedado ms abajo, y
+carece de ejemplos en los que quienes están más arriba han quedado más abajo, y
 
-los de abajo han terminado colocados arriba. He aqu, hay postreros que sern
+los de abajo han terminado colocados arriba. He aquí, “hay postreros que serán
 
-primeros, y primeros que sern postreros. Salomn dijo: Vi siervos a caballo,
+primeros, y primeros que serán postreros”. Salomón dijo: “Vi siervos a caballo,
 
-y prncipes que andaban como siervos sobre la tierra; y lo mismo se ha visto
+y príncipes que andaban como siervos sobre la tierra”; y lo mismo se ha visto
 
 incluso en estos modernos tiempos, cuando los reyes han huido de sus tronos y
 
 los hombres que andaban merodeando sumidos en pobreza, se han remontado al
 
-poder imperial. Dios, en la providencia, se re a menudo del linaje y de los
+poder imperial. Dios, en la providencia, se ríe a menudo del linaje y de los
 
 ancestros, y mancha el honor y la dignidad de todo aquello de lo que se jacta la
 
-naturaleza humana. El ascenso del cuchitril al palacio es fcil cuando el cielo
+naturaleza humana. El ascenso del cuchitril al palacio es fácil cuando el cielo
 
 favorece.
 
-Esta maana no tengo el propsito de explayarme
+Esta mańana no tengo el propósito de explayarme
 
-sobre la providencia. Mi texto tiene una especial conexin con los actos de la
+sobre la providencia. Mi texto tiene una especial conexión con los actos de la
 
-gracia de Dios. Es aqu donde vemos por encima de todo la soberana
+gracia de Dios. Es aquí donde vemos por encima de todo la soberanía
 
-condescendiente de Sus tratos. l toma lo vil del mundo, y lo que no es, para
+condescendiente de Sus tratos. Él toma lo vil del mundo, y lo que no es, para
 
-deshacer lo que es. Selecciona para S a los que los hombres habran repudiado
+deshacer lo que es. Selecciona para Sí a los que los hombres habrían repudiado
 
-con escarnio. Cubre Su tabernculo del testimonio con pieles de tejones, elige piedras
+con escarnio. Cubre Su tabernáculo del testimonio con pieles de tejones, elige piedras
 
 sin labrar para usarlas como materiales para Su altar, una zarza es el lugar
 
-para Su manifestacin flameante, y escoge un muchacho pastor para ser el varn
+para Su manifestación flameante, y escoge un muchacho pastor para ser el varón
 
-conforme a Su corazn. Aquellas personas y cosas que desprecian los hombres, son
+conforme a Su corazón. Aquellas personas y cosas que desprecian los hombres, son
 
 a menudo de gran estima a los ojos de Dios.
 
-Al considerar el texto esta maana, hemos de
+Al considerar el texto esta mańana, hemos de
 
-notar los objetos de la seleccin de Dios. Primero,
+notar los objetos de la selección de Dios. Primero,
 
-dnde se encuentran algunos de esos hombres;
+dónde se encuentran algunos de esos hombres;
 
 en segundo lugar,
 
-cmo los toma de su condicin degradada;
+cómo los toma de su condición degradada;
 
 en
 
 tercer lugar,
 
-cmo los alza;
+cómo los alza;
 
 y en
 
 cuarto lugar,
 
-dnde los coloca.
+dónde los coloca.
 
-Ser la historia de un hijo de Dios:
+Será la historia de un hijo de Dios:
 
 del muladar al trono.
 
 Los novelistas embadurnan nuestras paredes con
 
-ttulos sensacionales, pero hay uno que podra satisfacerlos en su ambicin de
+títulos sensacionales, pero hay uno que podría satisfacerlos en su ambición de
 
-deleitar a los mrbidos anhelos de esta poca.
+deleitar a los mórbidos anhelos de esta época.
 
-Del muladar al trono,
+“Del muladar al trono”,
 
-es un tema que debera atraer su atencin,
+es un tema que debería atraer su atención,
 
-y si no lo hiciera, la culpa, en verdad, sera ma, pues en l habr siempre la
+y si no lo hiciera, la culpa, en verdad, sería mía, pues en él habrá siempre la
 
-bendita novedad del inters; y, sin embargo, damos gracias a Dios porque es una
+bendita novedad del interés; y, sin embargo, damos gracias a Dios porque es una
 
-descripcin correcta de la experiencia del ascenso de todo el pueblo de Dios. El
+descripción correcta de la experiencia del ascenso de todo el pueblo de Dios. El
 
-Seor encuentra a decenas de miles de personas colocadas en el muladar y las
+Seńor encuentra a decenas de miles de personas colocadas en el muladar y las
 
 transporta a lo alto con los brazos de Su misericordia y las lleva a sentarse
 
-entre los prncipes de Su pueblo.
+entre los príncipes de Su pueblo.
 
 I.
 
-Vamos a comenzar all donde Dios comenz con
+Vamos a comenzar allí donde Dios comenzó con
 
-nosotros. DNDE ESTN LOS ELEGIDOS DE DIOS CUANDO SE RENE CON ELLOS.
+nosotros. DÓNDE ESTÁN LOS ELEGIDOS DE DIOS CUANDO SE REÚNE CON ELLOS.
 
-La expresin usada en el texto implica, en
+La expresión usada en el texto implica, en
 
 primer lugar, que
 
 muchos de ellos se
 
-encuentran en la ms baja escala social.
+encuentran en la más baja escala social.
 
 La gracia soberana tiene un pueblo
 
-en todas partes, en todos los rangos y condiciones de hombres. Su furemos
+en todas partes, en todos los rangos y condiciones de hombres. Su fuéremos
 
-transportados al cielo y si los espritus celestiales llevaren cualquier
+transportados al cielo y si los espíritus celestiales llevaren cualquier
 
-indicativo de su rango en la tierra, diramos al regresar: Por aqu y por all
+indicativo de su rango en la tierra, diríamos al regresar: “Por aquí y por allá
 
-vi un rey; observ unos cuantos prncipes de linaje real, y un puado de pares
+vi un rey; observé unos cuantos príncipes de linaje real, y un puńado de pares
 
-del reino; observ un pequeo grupo de personas prudentes y una camarilla de
+del reino; observé un pequeńo grupo de personas prudentes y una camarilla de
 
 los ricos y famosos; pero vi a un gran grupo de pobres y de desconocidos, que
 
-eran ricos en fe y conocidos para el Seor. El Seor no excluye de Su eleccin
+eran ricos en fe y conocidos para el Seńor”. El Seńor no excluye de Su elección
 
-a nadie, en razn de su rango o condicin. No erramos si decimos:
+a nadie, en razón de su rango o condición. No erramos si decimos:
 
-A la vez que
+“A la vez que
 
-la gracia es dada al prncipe,
+la gracia es dada al príncipe,
 
 El pobre
 
 recibe su parte;
 
-Ningn mortal
+Ningún mortal
 
 tiene una justa excusa
 
 Para morir en
 
-la desesperacin.
+la desesperación”.
 
-Sin embargo, cun cierto es que muchos de
+Sin embargo, ˇcuán cierto es que muchos de
 
 aquellos a quienes Dios ha elegido, son encontrados, no simplemente entre los
 
-obreros, sino en los rangos ms pobres de los hijos del esfuerzo! Hay algunos
+obreros, sino en los rangos más pobres de los hijos del esfuerzo! Hay algunos
 
-cuya faena diaria difcilmente les proporciona el suficiente alimento para
+cuya faena diaria difícilmente les proporciona el suficiente alimento para
 
-mantener el alma en el cuerpo, y sin embargo, se han alimentado opparamente
+mantener el alma en el cuerpo, y sin embargo, se han alimentado opíparamente
 
-con el pan del cielo. Muchos estn vestidos con ropas del tipo ms burdo,
+con el pan del cielo. Muchos están vestidos con ropas del tipo más burdo,
 
-parchada y remendada por todas partes, y sin embargo, estn tan gloriosamente
+parchada y remendada por todas partes, y sin embargo, están tan gloriosamente
 
-vestidos a los ojos de Dios y de los santos ngeles, como los santos ms
+vestidos a los ojos de Dios y de los santos ángeles, como los santos más
 
-resplandecientes: Pero os digo, que ni aun Salomn con toda su gloria se
+resplandecientes: “Pero os digo, que ni aun Salomón con toda su gloria se
 
-visti as como uno de ellos. Algunas de las biografas ms conmovedoras de
+vistió así como uno de ellos”. Algunas de las biografías más conmovedoras de
 
-algunos cristianos han sido las vidas de los ms humildes, entresacadas de las
+algunos cristianos han sido las vidas de los más humildes, entresacadas de las
 
-Crnicas de los pobres. Quin no ha ledo La joven de la cabaa y La hija
+“Crónicas de los pobres”. żQuién no ha leído “La joven de la cabańa” y “La hija
 
-del lechero? Quin no ha encontrado el mayor placer al visitar a quienes
+del lechero”? żQuién no ha encontrado el mayor placer al visitar a quienes
 
-estn recluidos en cama en las salas de los asilos, esos santos de Dios que
+están recluidos en cama en las salas de los asilos, esos santos de Dios que
 
 deben a la caridad su alimento diario porque la enfermedad los ha privado de
 
 los medios de ganar su pan?
 
-Oyente pobre, mientras ests sentado en esa
+Oyente pobre, mientras estás sentado en esa
 
-banca esta maana, podras sentir como si no fueras lo suficientemente
+banca esta mańana, podrías sentir como si no fueras lo suficientemente
 
-respetable para estar en un lugar de adoracin, pero te ruego que no permitas
+respetable para estar en un lugar de adoración, pero te ruego que no permitas
 
-que tu pobreza obstaculice tu recepcin del Evangelio, cuya gloria peculiar es
+que tu pobreza obstaculice tu recepción del Evangelio, cuya gloria peculiar es
 
 ser predicado a los pobres. Puede ser que no tengas absolutamente nada en el
 
-mundo, ni una vara de terreno que pudieras llamar propia; podras haber estado
+mundo, ni una vara de terreno que pudieras llamar propia; podrías haber estado
 
-luchando contra la adversidad en una lucha mortal, ao tras ao, y sin embargo,
+luchando contra la adversidad en una lucha mortal, ańo tras ańo, y sin embargo,
 
-podras ser todava tan pobre como la pobreza misma; no voy a ensalzar ni a
+podrías ser todavía tan pobre como la pobreza misma; no voy a ensalzar ni a
 
 vituperar tu pobreza, pues no hay nada necesariamente bueno o moralmente malo
 
-en cualquier condicin de vida, pero te ruego que no permitas que tus
+en cualquier condición de vida, pero te ruego que no permitas que tus
 
-circunstancias te desalienten en el asunto de tu inters espiritual delante de
+circunstancias te desalienten en el asunto de tu interés espiritual delante de
 
 Dios. Ven como un mendigo, si eres un mendigo. Ven en andrajos, si no tienes
 
-otra cosa con qu cubrirte. Los que no tienen dinero, venid, comprad y comed.
+otra cosa con qué cubrirte. “Los que no tienen dinero, venid, comprad y comed.
 
-Venid, comprad sin dinero y sin precio, vino y leche.
+Venid, comprad sin dinero y sin precio, vino y leche”.
 
-La expresin en el texto no se refiere meramente
+La expresión en el texto no se refiere meramente
 
-a escalas sociales; no tengo ninguna duda de que tiene un significado ms
+a escalas sociales; no tengo ninguna duda de que tiene un significado más
 
 espiritual.
 
@@ -370,23 +370,23 @@ El muladar es un lugar donde los
 
 hombres arrojan sus cosas sin valor.
 
-Cuando has utilizado un artculo y no
+Cuando has utilizado un artículo y no
 
-puedes usarlo ya ms, lo tiras a la basura. Le has dado dos o tres usos desde
+puedes usarlo ya más, lo tiras a la basura. Le has dado dos o tres usos desde
 
-que fue empleado por primera vez para su propsito original, y ahora estorba el
+que fue empleado por primera vez para su propósito original, y ahora estorba el
 
-paso y no puede guardarse ms; no sirve para ser vendido ni siquiera como metal
+paso y no puede guardarse más; no sirve para ser vendido ni siquiera como metal
 
 viejo, y por tanto lo tiras en el muladar para ser eliminado con el resto de la
 
-basura. Cun a menudo los propios elegidos de Dios se han sentido como meros desechos
+basura. ˇCuán a menudo los propios elegidos de Dios se han sentido como meros desechos
 
-y basura, como intiles que han de ser echados fuera!
+y basura, como inútiles que han de ser echados fuera!
 
 Ustedes, queridos amigos, se encuentran en un
 
-caso semejante, pues han descubierto su propia y total inutilidad. Mirndose a
+caso semejante, pues han descubierto su propia y total inutilidad. Mirándose a
 
 ustedes mismos a la luz recibida del cielo, su valor imaginario se ha esfumado.
 
@@ -394,53 +394,53 @@ Ustedes fueron alguna vez muy importantes en su propia estima, pero ahora
 
 perciben que si se perdieran, lejos de afectar al cielo y a la tierra, no
 
-tendra una ms grave consecuencia para el mundo en su conjunto que el
+tendría una más grave consecuencia para el mundo en su conjunto que el
 
-lanzamiento de una fruta podrida en el muladar, o que la cada de una hoja seca
+lanzamiento de una fruta podrida en el muladar, o que la caída de una hoja seca
 
-de un rbol del bosque en medio de una mirada de hojas. En su propia
+de un árbol del bosque en medio de una miríada de hojas. En su propia
 
-estimacin hay en ustedes una falta de adecuacin para cualquier propsito
+estimación hay en ustedes una falta de adecuación para cualquier propósito
 
-til; no tienen mayor utilidad que la sal que ha perdido su sabor. No pueden
+útil; no tienen mayor utilidad que la sal que ha perdido su sabor. No pueden
 
-glorificar a Dios como lo desearan; tampoco lo desean como deberan hacerlo. Ni
+glorificar a Dios como lo desearían; tampoco lo desean como deberían hacerlo. Ni
 
-puedes orar con el fervor que desearas, ni alabar con la gratitud que
+puedes orar con el fervor que desearías, ni alabar con la gratitud que
 
-desearas sentir. Al examinar tu vida pasada, te sientes avergonzado de
+desearías sentir. Al examinar tu vida pasada, te sientes avergonzado de
 
-corazn. Te lamentas en un rincn: Seor, qu indigno pedazo de madera he
+corazón. Te lamentas en un rincón: “ˇSeńor, qué indigno pedazo de madera he
 
-sido en este mundo! Cmo he inutilizado la tierra! Qu siervo tan intil he
+sido en este mundo! ˇCómo he inutilizado la tierra! ˇQué siervo tan inútil he
 
-sido! Has sido til para tu familia, o para tu pas, y pensabas antes que eso
+sido!” Has sido útil para tu familia, o para tu país, y pensabas antes que eso
 
 bastaba; pero ahora te mides como a la luz de Dios; y en tanto que no has glorificado
 
 nunca a tu Hacedor y nos has honrado a tu amable y benevolente Preservador, te
 
-sientes tan indigno que, si el Seor te arrojara al muladar y dijera: chenlo
+sientes tan indigno que, si el Seńor te arrojara al muladar y dijera: “ˇÉchenlo
 
-fuera! Es tan indigno como la escoria o el estircol!, slo te estara
+fuera! ˇEs tan indigno como la escoria o el estiércol!”, sólo te estaría
 
 tratando como lo mereces con creces.
 
-Mi querido amigo, esta opinin de ti mismo,
+Mi querido amigo, esta opinión de ti mismo,
 
 aunque te acarrea mucha infelicidad, es un signo muy saludable. Cuando nos
 
-consideramos poca cosa, Dios tiene un alto concepto de nosotros. Dios resiste
+consideramos poca cosa, Dios tiene un alto concepto de nosotros. “Dios resiste
 
-a los soberbios, y da gracia a los humildes. l no te quebrar, oh caa
+a los soberbios, y da gracia a los humildes”. ˇÉl no te quebrará, oh cańa
 
-cascada! l no te apagar, oh pbilo humeante! Pero aunque slo sirvas para
+cascada! ˇÉl no te apagará, oh pábilo humeante! Pero aunque sólo sirvas para
 
-ser arrojado al muladar, Su benevolencia tendr una tierna misericordia de ti,
+ser arrojado al muladar, Su benevolencia tendrá una tierna misericordia de ti,
 
-y te exaltar entre los prncipes de Su pueblo.
+y te exaltará entre los príncipes de Su pueblo.
 
-Adems,
+Además,
 
 el
 
@@ -448,11 +448,11 @@ muladar es un lugar de desprecio.
 
 El desprecio dice a veces burlonamente de
 
-sus vctimas: es una persona tal que yo no la levantara aunque lo viera en un
+sus víctimas: “es una persona tal que yo no la levantaría aunque lo viera en un
 
-muladar. El escarnio del mundo condena a algunas personas as: Oh, son unos
+muladar”. El escarnio del mundo condena a algunas personas así: “ˇOh, son unos
 
-buenos para nada! El muladar sera algo demasiado bueno para ellos. Posiblemente,
+buenos para nada! El muladar sería algo demasiado bueno para ellos”. Posiblemente,
 
 persona que me escuchas, pudieras estar colocado en una familia donde eres muy
 
@@ -460,41 +460,41 @@ despreciado. Tal vez no tengas la habilidad ni la agudeza de otras personas del
 
 hogar, y por tanto te ven de menos, y eres considerado un pobre tonto al que no
 
-vale la pena tomar en cuenta. A diferencia de otros, no has tenido xito en la
+vale la pena tomar en cuenta. A diferencia de otros, no has tenido éxito en la
 
 vida y, por consiguiente, eres visto con gran desprecio por quienes han
 
-prosperado mucho y rpidamente.
+prosperado mucho y rápidamente.
 
-Es ms, sientes esta maana como si merecieras
+Es más, sientes esta mańana como si merecieras
 
-el desprecio derramado sobre ti. Has estado diciendo: Ah!, t me desprecias,
+el desprecio derramado sobre ti. Has estado diciendo: “ˇAh!, tú me desprecias,
 
-pero si me conocieras como yo me conozco, me despreciaras ms. Piensas que no
+pero si me conocieras como yo me conozco, me despreciarías más. Piensas que no
 
 soy nada, y soy menos que nada. Me pones un mal nombre, pero si pudieras ver el
 
-engao de mi vil corazn, entenderas que el nombre es muy apropiado aunque me
+engańo de mi vil corazón, entenderías que el nombre es muy apropiado aunque me
 
-lo pusiste en son de burla.
+lo pusiste en son de burla”.
 
-Bien, amigo despreciado, permteme recordarte
+Bien, amigo despreciado, permíteme recordarte
 
-que el Seor se ha fijado con frecuencia en aquellos a quienes el hombre ha
+que el Seńor se ha fijado con frecuencia en aquellos a quienes el hombre ha
 
 despreciado; y aunque tus propios padres pudieran haberse sentido frustrados
 
-contigo, y la sociedad pudiera burlarse de ti, y t mismo pudieras sentir ahora
+contigo, y la sociedad pudiera burlarse de ti, y tú mismo pudieras sentir ahora
 
 como si el escarnio fuera muy merecido, sin embargo, ten confianza y ten buen
 
-nimo, pues Dios visita muladares cuando no visita palacios, y levantar a los
+ánimo, pues Dios visita muladares cuando no visita palacios, y levantará a los
 
 humildes y a los mansos del polvo en el que desfallecen y languidecen.
 
 El siguiente comentario, tal vez, proporcione
 
-ms consuelo:
+más consuelo:
 
 el muladar es el lugar para
 
@@ -502,245 +502,245 @@ las cosas inmundas y ofensivas.
 
 Decimos de las cosas de mal olor y sabor:
 
-es algo demasiado malo para tenerlo en casa, por tanto, debe ser desechado;
+“es algo demasiado malo para tenerlo en casa, por tanto, debe ser desechado;
 
-trenlo a la basura; cbranlo. Cuando la materia se torna ftida, ptrida y
+tírenlo a la basura; cúbranlo”. Cuando la materia se torna fétida, pútrida y
 
-ofensiva, necesitamos que sea removida de inmediato. Ah!, es triste que
+ofensiva, necesitamos que sea removida de inmediato. ˇAh!, es triste que
 
 tengamos que decir eso de cualquiera de nuestros semejantes, pero debemos
 
 decirlo. Hay algunas personas cuyos pecados son terriblemente graves; sus iniquidades
 
-son tan viles que constituyen una ofensa para los ojos y los odos de todos los
+son tan viles que constituyen una ofensa para los ojos y los oídos de todos los
 
 hombres decentes y el Dios Santo mira sus acciones con ira y aborrecimiento.
 
-Algunos pecadores se han vuelto de un carcter tan infame que son dainos para
+Algunos pecadores se han vuelto de un carácter tan infame que son dańinos para
 
 todos los que tienen que ver con ellos; no pueden reunirse con nadie sin
 
 esparcir el contagio de su pecado; su ejemplo es tan malo que basta para
 
-envenenar el distrito en el que viven. Slo son aptos para ser botados como una
+envenenar el distrito en el que viven. Sólo son aptos para ser botados como una
 
-masa de podredumbre, de porquera y pudricin en el muladar donde la inmoralidad
+masa de podredumbre, de porquería y pudrición en el muladar donde la inmoralidad
 
-exhala su hora abominable. Pero, oh, el amor de mi Seor! l ha condescendido
+exhala su hora abominable. Pero, ˇoh, el amor de mi Seńor! Él ha condescendido
 
 a menudo a rescatar del muladar a los abandonados. En el cielo veo a quienes
 
 lavaron sus ropas y las emblanquecieron en la sangre del Cordero, aunque una
 
-vez fueron rameras como Rahab, adlteros como David e idlatras como Manass.
+vez fueron rameras como Rahab, adúlteros como David e idólatras como Manasés.
 
-Delante del trono de Dios, entre los pares de Dios, estn hoy aquellos que, en
+Delante del trono de Dios, entre los pares de Dios, están hoy aquellos que, en
 
-sus das de perdicin, fueron ladrones, borrachos y blasfemos. Los atrios del
+sus días de perdición, fueron ladrones, borrachos y blasfemos. Los atrios del
 
 cielo son hollados por muchos que una vez fueron los peores pecadores, pero que
 
-ahora son los santos ms resplandecientes.
+ahora son los santos más resplandecientes.
 
 Te ruego, amado, que nunca pienses que el
 
-Evangelio de Cristo salv a grandes ofensores en das idos, pero que ahora es
+Evangelio de Cristo salvó a grandes ofensores en días idos, pero que ahora es
 
-slo para los que no han cado y para los morales. Los morales son libremente invitados
+sólo para los que no han caído y para los morales. Los morales son libremente invitados
 
 a Cristo, de quien nunca olvidamos testificar, pero los inmorales son
 
 invitados
 
-tambin. El Seor vino a
+también. El Seńor vino a
 
-nuestra tierra como un Mdico, y no vino a llamar a los justos, sino a los
+nuestra tierra como un Médico, y no vino a llamar a los justos, sino a los
 
 pecadores al arrepentimiento; no vino a sanar a quienes gozan de una buena
 
 salud, sino a los enfermos.
 
-Oh, amado oyente, si ests tan enfermo por el
+Oh, amado oyente, si estás tan enfermo por el
 
-pecado que toda tu cabeza est enferma y todo tu corazn est desfallecido, y
+pecado que toda tu cabeza está enferma y todo tu corazón está desfallecido, y
 
 desde la coronilla de tu cabeza hasta la planta de tu pie no hay un lugar sano
 
-en ti, sino slo heridas y raspones y llagas putrefactas, an as el amor de
+en ti, sino sólo heridas y raspones y llagas putrefactas, ˇaún así el amor de
 
-mi Seor se inclinar hasta ti! Si has agregado lujuria al robo, y has aadido
+mi Seńor se inclinará hasta ti! Si has agregado lujuria al robo, y has ańadido
 
-asesinato a la lujuria, y si ests manchado de sangre con una infame iniquidad,
+asesinato a la lujuria, y si estás manchado de sangre con una infame iniquidad,
 
-empero, el sagrado bao carmes que fue llenado por el corazn de Jess, puede
+empero, el sagrado bańo carmesí que fue llenado por el corazón de Jesús, puede
 
-limpiar todo pecado y blasfemia. Todo aquel que crea en l es justificado de
+limpiar “todo pecado y blasfemia”. Todo aquel que crea en Él es justificado de
 
-todas las cosas de las que no podra ser justificado por la ley de Moiss.
+todas las cosas de las que no podría ser justificado por la ley de Moisés.
 
 Las mentes refinadas pensaron justo ahora que yo
 
-estaba usando una expresin muy fea cuando habl de rescatar a la podredumbre
+estaba usando una expresión muy fea cuando hablé de rescatar a la podredumbre
 
-del muladar, pero la expresin es extremadamente limpia cuando se compara con
+del muladar, pero la expresión es extremadamente limpia cuando se compara con
 
-el pecado; pues toda la inmundicia y repugnancia que hayan ofendido jams al ojo
+el pecado; pues toda la inmundicia y repugnancia que hayan ofendido jamás al ojo
 
-y a la nariz, es dulzura comparada con el pecado. La cosa ms sucia y ms
+y a la nariz, es dulzura comparada con el pecado. La cosa más sucia y más
 
 detestable en todo el universo es el pecado. Es eso lo que mantiene ardiendo el
 
 fuego del infierno como la gran necesidad sanitaria de Dios. Tiene que haber un
 
-Tofet permanente all donde hay un constante pecado.
+Tofet permanente allí donde hay un constante pecado.
 
-Leemos que ciertas ciudades francesas encendan
+Leemos que ciertas ciudades francesas encendían
 
-grandes hogueras pblicas en tiempos del clera. El clera! Qu es el clera
+grandes hogueras públicas en tiempos del cólera. ˇEl cólera! żQué es el cólera
 
 comparado con el pecado? Dios hace que las llamas ardientes del tormento eterno
 
-asciendan por los siglos de los siglos, pues es slo por ese terrfico castigo
+asciendan por los siglos de los siglos, pues es sólo por ese terrífico castigo
 
-que la plaga del pecado puede ser restringida del todo dentro de los lmites.
+que la plaga del pecado puede ser restringida del todo dentro de los límites.
 
 El pecado es un horrible mal, es un veneno letal; y sin embargo, pecador,
 
-aunque t ests tan lleno de l como un huevo est lleno de nutrientes, y
+aunque tú estés tan lleno de él como un huevo está lleno de nutrientes, y
 
-destiles su olor del modo que la pieza ms pestilente de materia nociva exhala
+destiles su olor del modo que la pieza más pestilente de materia nociva exhala
 
-malos olores, sin embargo, la infinita misericordia de Dios en Cristo Jess
+malos olores, sin embargo, la infinita misericordia de Dios en Cristo Jesús
 
-puede levantarte de esta extrema degradacin, y hacer que brilles como una
+puede levantarte de esta extrema degradación, y hacer que brilles como una
 
 estrella en Su reino al fin de los tiempos.
 
-Adems, el muladar puede ser considerado
+Además, el muladar puede ser considerado
 
 espiritualmente como
 
 el lugar de
 
-condenacin.
+condenación.
 
-Por ejemplo, considera un cierto artculo alimenticio. El ama
+Por ejemplo, considera un cierto artículo alimenticio. El ama
 
 de casa que es ahorrativa no desea desperdiciar nada. Bien, si no sirve para la
 
-alimentacin, no podra ser til para otra cosa? Por fin, cuando ve que no
+alimentación, żno podría ser útil para otra cosa? Por fin, cuando ve que no
 
-sirve, la sentencia de condenacin es: debe tirarse al muladar.
+sirve, la sentencia de condenación es: “debe tirarse al muladar”.
 
-Nabucodonosor, en su memorable proclamacin concerniente al Seor Jehov, dijo
+Nabucodonosor, en su memorable proclamación concerniente al Seńor Jehová, dijo
 
-que cualquiera que dijera una palabra contra l, sera hecho pedazos y su casa
+que cualquiera que dijera una palabra contra Él, sería hecho pedazos y su casa
 
-sera convertida en un muladar. Entonces, hay una conexin entre el muladar y
+sería convertida en un muladar. Entonces, hay una conexión entre el muladar y
 
-la condenacin.
+la condenación.
 
-Ahora, podra haber en esta audiencia, esta
+Ahora, podría haber en esta audiencia, esta
 
-maana, un hombre que se sintiera bajo sentencia de condenacin. Has tenido con
+mańana, un hombre que se sintiera bajo sentencia de condenación. Has tenido con
 
 mucha frecuencia remordimientos de conciencia; a menudo te han mostrado mejores
 
 caminos, y sin embargo, has pecado contra la luz y el conocimiento al punto que
 
-ahora consideras que has pecado ms all del alcance de la misericordia. Esta
+ahora consideras que has pecado más allá del alcance de la misericordia. Esta
 
-maana, muy probablemente, mi voz rechina en tu odo; aunque tiene el propsito
+mańana, muy probablemente, mi voz rechina en tu oído; aunque tiene el propósito
 
-de transmitirte las noticias ms halageas que jams hubiere proclamado una
+de transmitirte las noticias más halagüeńas que jamás hubiere proclamado una
 
-trompeta de plata al pecador en quiebra en el da del Jubileo, sin embargo, suena
+trompeta de plata al pecador en quiebra en el día del Jubileo, sin embargo, suena
 
-para ti como la voz que proclama tu condenacin. Bien, pobre pecador, si t
+para ti como la voz que proclama tu condenación. Bien, pobre pecador, si tú
 
-ests condenado en ti mismo y una spera voz ha dicho: Arrjenlo al muladar!
+estás condenado en ti mismo y una áspera voz ha dicho: “ˇArrójenlo al muladar!
 
-Arrjenlo a las llamas del infierno!, empero, yo vengo a ti en el nombre de
+ˇArrójenlo a las llamas del infierno!”, empero, yo vengo a ti en el nombre de
 
-Jehov, y te pido que oigas esta palabra esta maana: El levanta del polvo al
+Jehová, y te pido que oigas esta palabra esta mańana: “El levanta del polvo al
 
 pobre, y al menesteroso alza del muladar, para hacerlos sentar con los
 
-prncipes. Qu dices a esto? Qu tal si Dios te perdonara esta maana? Qu
+príncipes”. żQué dices a esto? żQué tal si Dios te perdonara esta mańana? żQué
 
-tal si te convirtiera en Su hijo? Qu tal si te da una corona incorruptible de
+tal si te convirtiera en Su hijo? żQué tal si te da una corona incorruptible de
 
 vida?
 
-Oh!, -dices t- si hiciera eso, yo le amara
+“ˇOh!”, -dices tú- “si hiciera eso, yo le amaría
 
-y le bendecira.
+y le bendeciría”.
 
-Pecador, l lo har si crees ahora en el Seor
+Pecador, Él lo hará si crees ahora en el Seńor
 
-Jess, cuya sangre nos limpia de todo pecado. Por la muerte de Jess te suplico
+Jesús, cuya sangre nos limpia de todo pecado. Por la muerte de Jesús te suplico
 
-que confes en el sacrificio expiatorio del Calvario, y vivirs para alabar Su
+que confíes en el sacrificio expiatorio del Calvario, y vivirás para alabar Su
 
 amor redentor.
 
 Sin embargo, no debo dejar fuera un pensamiento
 
-que acaba de atravesar la mente de alguien. Algo que yace en el muladar est
+que acaba de atravesar la mente de alguien. Algo que yace en el muladar está
 
 en contacto con repugnantes asociados;
 
 y,
 
-por tanto, el texto podra representar a aquellos que han vivido hasta aqu
+por tanto, el texto podría representar a aquellos que han vivido hasta aquí
 
-entre asociaciones malignas. Cuando estas puertas son abiertas, entran aqu a
+entre asociaciones malignas. Cuando estas puertas son abiertas, entran aquí a
 
 menudo, por curiosidad, personas que no asisten regularmente a lugares de
 
-adoracin debo aclarar que es la clase ms esperanzadora de aquellas a las que
+adoración –debo aclarar que es la clase más esperanzadora de aquellas a las que
 
-me dirijo- pues algunos de ustedes han odo mi voz y las voces de otros
+me dirijo- pues algunos de ustedes han oído mi voz y las voces de otros
 
-ministros durante tanto tiempo, que casi estn desahuciados; casi podramos
+ministros durante tanto tiempo, que casi están desahuciados; casi podríamos
 
 darnos por vencidos, pues hemos argumentado con ustedes tan frecuentemente, y
 
 hemos puesto la verdad delante de ustedes tan constantemente, que seguramente
 
-si fuera a ser bendecida para ustedes, ya lo habra sido. Pero ocasionalmente
+si fuera a ser bendecida para ustedes, ya lo habría sido. Pero ocasionalmente
 
 nos visitan algunas personas para quienes el Evangelio es algo nuevo, y algunas
 
-de estas personas provienen de la peor sociedad: recin salidos del teatro, del
+de estas personas provienen de la peor sociedad: recién salidos del teatro, del
 
-palacio de la ginebra, y de peores lugares todava; el nombre de Jess es casi
+palacio de la ginebra, y de peores lugares todavía; el nombre de Jesús es casi
 
 desconocido excepto cuando es usado en la blasfemia, y la persona del Dios
 
-Altsimo est completamente olvidada, excepto como invocacin en una maldicin.
+Altísimo está completamente olvidada, excepto como invocación en una maldición.
 
-Amigo, nos alegra que ests aqu; t has estado
+Amigo, nos alegra que estés aquí; tú has estado
 
-en el muladar y sigues all; has estado viviendo con los publicanos y las
+en el muladar y sigues allí; has estado viviendo con los publicanos y las
 
-rameras; has frecuentado una triste compaa; no has sido alimentado entre los
+rameras; has frecuentado una triste compańía; no has sido alimentado entre los
 
 escogidos y la
 
-lite
+élite
 
 de la humanidad;
 
 por el contrario, gozas de una hipoteca entre los tiestos y moras junto a los
 
-vallados. Ahora, es as, tal como ests, que Jesucristo te invita a la reunin.
+vallados. Ahora, es así, tal como estás, que Jesucristo te invita a la reunión.
 
-V pronto por las plazas y las calles de la ciudad y trae ac a todos los que
+“Vé pronto por las plazas y las calles de la ciudad y trae acá a todos los que
 
-encuentres, y trajeron a los mancos, a los cojos y a los ciegos y tomaron sus
+encuentres”, y trajeron a los mancos, a los cojos y a los ciegos y tomaron sus
 
-lugares y festejaron mientras que otros que haban sido invitados rehusaron
+lugares y festejaron mientras que otros que habían sido invitados rehusaron
 
 venir.
 
@@ -750,17 +750,17 @@ personas con este perfil en mi auditorio, a ustedes, que no atraviesan con
 
 frecuencia las puertas del santuario de Dios, a ustedes que viven entre los
 
-profanos y los libertinos, vulvanse a Jesucristo, se los ruego! Que el
+profanos y los libertinos, ˇvuélvanse a Jesucristo, se los ruego! ˇQue el
 
-eterno Espritu los vuelva este da y que sean encontrados entre los escogidos
+eterno Espíritu los vuelva este día y que sean encontrados entre los escogidos
 
-de Dios! Ay, y ay de m, que tenga que decirlo: algunos de ustedes, mis
+de Dios! ˇAy, y ay de mí, que tenga que decirlo: algunos de ustedes, mis
 
-oyentes, que han sido morales y excelentes y han odo la Palabra todos estos
+oyentes, que han sido morales y excelentes y han oído la Palabra todos estos
 
-aos, yo temo solemnemente que perecern en sus pecados, pues, en verdad, en
+ańos, yo temo solemnemente que perecerán en sus pecados, pues, en verdad, en
 
-verdad les digo que los publicanos y las rameras entrarn en el reino del cielo
+verdad les digo que los publicanos y las rameras entrarán en el reino del cielo
 
 delante de algunos de ustedes, que oyen la Palabra, pero no la hacen, que la
 
@@ -768,103 +768,103 @@ escuchan, pero no sienten su poder, que conocen su gozoso sonido, pero no la
 
 reciben en sus corazones.
 
-Esto basta, entonces, en cuanto a dnde son
+Esto basta, entonces, en cuanto a dónde son
 
-encontradas algunas personas del pueblo de Dios. Permtanme decirles que, en un
+encontradas algunas personas del pueblo de Dios. Permítanme decirles que, en un
 
-cierto sentido, all es donde estn todos: todos en el muladar de la cada de
+cierto sentido, allí es donde están todos: todos en el muladar de la caída de
 
-Adn, todos en el muladar de la presuncin, de la justicia propia, de la
+Adán, todos en el muladar de la presunción, de la justicia propia, de la
 
-depravacin, del pecado y de la corrupcin; pero la misericordia soberana viene
+depravación, del pecado y de la corrupción; pero la misericordia soberana viene
 
-a ellos tal como yacen pudrindose en montones de ruina, y los rescata por
+a ellos tal como yacen pudriéndose en montones de ruina, y los rescata por
 
 medio de la gracia eficaz.
 
 II.
 
-En segundo lugar, deseamos describir CMO LOS
+En segundo lugar, deseamos describir CÓMO LOS
 
-ALZA DEL MULADAR EL SEOR.
+ALZA DEL MULADAR EL SEŃOR.
 
-l alza del muladar a los necesitados. Se trata
+Él alza del muladar a los necesitados. Se trata
 
-de un peso muerto y nadie sino el brazo eterno podra hacerlo. Es una proeza de
+de un peso muerto y nadie sino el brazo eterno podría hacerlo. Es una proeza de
 
-la omnipotencia alzar a un pecador desde su natural degradacin; todo es hecho
+la omnipotencia alzar a un pecador desde su natural degradación; todo es hecho
 
-por el poder del Espritu Santo a travs de la Palabra saturada de la energa
+por el poder del Espíritu Santo a través de la Palabra saturada de la energía
 
-de Dios. La operacin es ms o menos de este modo. Cuando el Seor comienza a
+de Dios. La operación es más o menos de este modo. Cuando el Seńor comienza a
 
 tratar con el pecador necesitado, el primer alzamiento
 
 levanta sus deseos.
 
-El hombre no est satisfecho de estar donde ha
+El hombre no está satisfecho de estar donde ha
 
-estado y de ser lo que ha sido. No haba percibido que el muladar fuera tan
+estado y de ser lo que ha sido. No había percibido que el muladar fuera tan
 
 inmundo como realmente lo es; y el primer signo de vida espiritual es el horror
 
-por su condicin perdida, y un ansioso deseo de escapar de esa condicin.
+por su condición perdida, y un ansioso deseo de escapar de esa condición.
 
-Querido oyente, has llegado hasta ese punto?
+Querido oyente, żhas llegado hasta ese punto?
 
-Sientes que todo est mal en relacin a ti? Deseas ser salvado de tu presente
+żSientes que todo está mal en relación a ti? żDeseas ser salvado de tu presente
 
-estado? En tanto que puedas decir: todo est bien conmigo, y te jactes de que
+estado? En tanto que puedas decir: “todo está bien conmigo”, y te jactes de que
 
-no eres peor que los dems, no tengo ninguna esperanza contigo. Dios no alza a
+no eres peor que los demás, no tengo ninguna esperanza contigo. Dios no alza a
 
-aquellos que ya estn alzados; pero cuando t comienzas a sentir que tu
+aquellos que ya están alzados; pero cuando tú comienzas a sentir que tu
 
-presente condicin es de degradacin y ruina y que desearas ardientemente
+presente condición es de degradación y ruina y que desearías ardientemente
 
-escapar de ella, entonces el Seor ha puesto la palanca debajo de ti, y ha
+escapar de ella, entonces el Seńor ha puesto la palanca debajo de ti, y ha
 
 comenzado a alzarte.
 
 El siguiente signo es generalmente que
 
-para un individuo as, el pecado pierde toda
+para un individuo así, el pecado pierde toda
 
 dulzura.
 
-Cuando el Seor comienza a obrar contigo, incluso antes de que
+Cuando el Seńor comienza a obrar contigo, incluso antes de que
 
-encuentres a Cristo para gozo de tu alma, descubrirs que el gozo del pecado ha
+encuentres a Cristo para gozo de tu alma, descubrirás que el gozo del pecado ha
 
 desaparecido. Un alma revivida que siente el peso del pecado, no puede
 
-encontrar placer en l. Aunque el mal del pecado no puede ser percibido
+encontrar placer en él. Aunque el mal del pecado no puede ser percibido
 
-claramente y evanglicamente sin fe en Jess, sin embargo, la conciencia de un
+claramente y evangélicamente sin fe en Jesús, sin embargo, la conciencia de un
 
-pecador que ha despertado, al percibir el carcter terriblemente corruptor de
+pecador que ha despertado, al percibir el carácter terriblemente corruptor de
 
 algunos pecados, le obliga a renunciar a ellos. La taberna ya no es visitada;
 
-la silla del escarnecedor se queda vaca; las lujurias de la carne son
+la silla del escarnecedor se queda vacía; las lujurias de la carne son
 
 abandonadas: y aunque esto no alza al pecador del muladar es, sin embargo, un
 
-signo de que el Seor ha comenzado Su obra de gracia. Cuando el pecado se
+signo de que el Seńor ha comenzado Su obra de gracia. Cuando el pecado se
 
-vuelve amargo, la misericordia se vuelve dulce. Oh, amigo mo, que el Seor te
+vuelve amargo, la misericordia se vuelve dulce. Oh, amigo mío, que el Seńor te
 
 destete de los dulces venenos del mundo, y te lleve a los verdaderos placeres
 
-que estn ocultos en Cristo Jess.
+que están ocultos en Cristo Jesús.
 
-Otro bendito signo de que el hombre est siendo
+Otro bendito signo de que el hombre está siendo
 
 alzado del muladar, es que
 
 comienza a
 
-sentir que su propia justicia no es de ninguna ayuda para l;
+sentir que su propia justicia no es de ninguna ayuda para él;
 
 cuando,
 
@@ -872,23 +872,23 @@ habiendo orado, contempla sus oraciones con arrepentimiento, y habiendo ido a
 
 la casa de Dios, no descansa en las formas exteriores. Es bueno que el hombre
 
-sea cortado enteramente de toda confianza en s mismo. Podra estar todava en
+sea cortado enteramente de toda confianza en sí mismo. Podría estar todavía en
 
-el muladar, pero estoy seguro de que no estar por mucho tiempo, pues cuanto t
+el muladar, pero estoy seguro de que no estará por mucho tiempo, pues cuanto tú
 
-y t mismo han contendido, Dios y t mismo comienzan a estar en paz; cuando t
+y tú mismo han contendido, Dios y tú mismo comienzan a estar en paz; cuando tú
 
-puedes ver a travs de esa justicia de telaraa tuya, que una vez pareci ser
+puedes ver a través de esa justicia de telarańa tuya, que una vez pareció ser
 
-un hermoso vestido de seda; cuando puedes odiar esa moneda falsa que una vez pareci
+un hermoso vestido de seda; cuando puedes odiar esa moneda falsa que una vez pareció
 
-brillar y sonar como oro legtimo; cuando ests hundido en la zanja y tus
+brillar y sonar como oro legítimo; cuando estás hundido en la zanja y tus
 
 propios vestidos te aborrecen, no ha de pasar mucho tiempo antes de que seas
 
-salvado con una salvacin eterna. Ahora viene el verdadero alzamiento que te
+salvado con una salvación eterna. Ahora viene el verdadero alzamiento que te
 
-sacar del muladar. Ese individuo pobre, culpable, perdido, indigno,
+sacará del muladar. Ese individuo pobre, culpable, perdido, indigno,
 
 oye de Jesucristo
 
@@ -900,23 +900,23 @@ lo
 
 mira
 
-con una mirada que quiere decir: Seor, T eres mi ltimo recurso! Si
+con una mirada que quiere decir: “ˇSeńor, Tú eres mi último recurso! Si
 
-T no me salvas, perecer; y T has de salvarme completamente, pues yo no puedo
+Tú no me salvas, pereceré; y Tú has de salvarme completamente, pues yo no puedo
 
 ayudarte. Yo no puedo aportar ni siquiera un hilo para completar Tu perfecta
 
-justicia. Si no estuviera terminada, yo no podra contribuir ni siquiera con un
+justicia. Si no estuviera terminada, yo no podría contribuir ni siquiera con un
 
-centavo para completar mi propio rescate: si T no me hubieras rescatado
+centavo para completar mi propio rescate: si Tú no me hubieras rescatado
 
-completamente, entonces Tu redencin no me servira. Seor, soy un hombre que
+completamente, entonces Tu redención no me serviría. Seńor, soy un hombre que
 
-est hundindose, ahogndose, y me aferro a Ti al momento de hundirme; oh,
+está hundiéndose, ahogándose, y me aferro a Ti al momento de hundirme; ˇoh,
 
-slvame por Tu misericordia!
+sálvame por Tu misericordia!”
 
-Toda mi
+“Toda mi
 
 ayuda descansa en Ti;
 
@@ -930,103 +930,103 @@ cabeza indefensa
 
 Con la sombra
 
-de Tu ala.
+de Tu ala”.
 
-Cuando un alma llega a ese punto, entonces est
+Cuando un alma llega a ese punto, entonces está
 
-fuera del muladar, pues en el instante en que un pecador confa en Jesucristo,
+fuera del muladar, pues en el instante en que un pecador confía en Jesucristo,
 
 sus pecados cesan de existir; Dios los ha tachado con Su pluma; han
 
 desaparecido. Ya no es culpable a los ojos de Dios: es absuelto por medio de la
 
-expiacin, y justificado por medio de la justicia de Jesucristo. Es un hombre
+expiación, y justificado por medio de la justicia de Jesucristo. Es un hombre
 
 salvado. Puede levantarse de su cilicio y de las cenizas, y caminando
 
 libremente, puede cantar de la misericordia comprada con la sangre que le ha
 
-liberado completamente. As, por el don del unignito Hijo llevado
+liberado completamente. Así, por el don del unigénito Hijo llevado
 
-personalmente al corazn, el Seor levanta a Sus elegidos de su condicin de
+personalmente al corazón, el Seńor levanta a Sus elegidos de su condición de
 
 ruina; les hace ver que se trata de un muladar; les hace sentir que no pueden
 
-salir por s mismos; les seala a Cristo; los conduce a confiar en Su sangre
+salir por sí mismos; les seńala a Cristo; los conduce a confiar en Su sangre
 
-preciosa, y as son liberados.
+preciosa, y así son liberados.
 
 III.
 
-El tercer punto es: CMO LOS LEVANTA.
+El tercer punto es: CÓMO LOS LEVANTA.
 
-Es algo bendito ser alzado de la degradacin
+Es algo bendito ser alzado de la degradación
 
-pero, alabado sea Jehov, porque no se detiene all. El Seor no hace nada a
+pero, alabado sea Jehová, porque no se detiene allí. El Seńor no hace nada a
 
-medias. Oh, las longitudes y las anchuras del amor! Cuando ha descendido hasta
+medias. ˇOh, las longitudes y las anchuras del amor! Cuando ha descendido hasta
 
-el punto en el que nos encontramos, slo ha completado la mitad de Su trayecto:
+el punto en el que nos encontramos, sólo ha completado la mitad de Su trayecto:
 
-le falta transportarnos hasta el punto en que l est. Oh, es algo bendito ser
+le falta transportarnos hasta el punto en que Él está. ˇOh, es algo bendito ser
 
-alzado del muladar, aunque nuestra porcin slo fuera de ser jornaleros en la
+alzado del muladar, aunque nuestra porción sólo fuera de ser jornaleros en la
 
-casa de nuestro Padre!; pero esto no satisface al infinito corazn de Jehov:
+casa de nuestro Padre!; pero esto no satisface al infinito corazón de Jehová:
 
-l alzar a Su pueblo por encima de los goces comunes, y los llevar ms alto,
+Él alzará a Su pueblo por encima de los goces comunes, y los llevará más alto,
 
-y ms alto, y ms alto, como sobre alas de guilas, hasta colocarlos en los
+y más alto, y más alto, como sobre alas de águilas, hasta colocarlos en los
 
-lugares de los prncipes, y hacerlos reinar con l.
+lugares de los príncipes, y hacerlos reinar con Él.
 
-Ahora hemos de considerar por unos minutos cmo
+Ahora hemos de considerar por unos minutos cómo
 
-alza nuestro Seor a Su pueblo desde el nivel comn de la humanidad para
+alza nuestro Seńor a Su pueblo desde el nivel común de la humanidad para
 
-ponerlos al nivel de los prncipes.
+ponerlos al nivel de los príncipes.
 
 En primer lugar,
 
-son alzados por una completa justificacin.
+son alzados por una completa justificación.
 
-Cada cristiano aqu
+Cada cristiano aquí
 
-presente esta maana, independientemente de lo que hubiere sido su vida pasada,
+presente esta mańana, independientemente de lo que hubiere sido su vida pasada,
 
 es perfecto en este instante a los ojos de Dios por medio de Jesucristo. La
 
-justicia inmaculada de Cristo es imputada a ese pecador creyente en l, as
+justicia inmaculada de Cristo es imputada a ese pecador creyente en Él, así
 
-que, esta maana, es acepto en el amado.
+que, esta mańana, es “acepto en el amado”.
 
 Ahora, amado, sopesa esto, dale vueltas, y
 
-medita en ello. Pobre, necesitado, pero creyente pecador, t eres tan acepto
+medita en ello. Pobre, necesitado, pero creyente pecador, tú eres tan acepto
 
-delante de Dios en este momento presente por medio de Cristo Jess, como si
+delante de Dios en este momento presente por medio de Cristo Jesús, como si
 
 nunca hubieses pecado, como si hubieses hecho y llevado a cabo cada obra de Su sumamente
 
-justa ley sin la menor falla. No es esto sentarse con los prncipes? La plena
+justa ley sin la menor falla. żNo es esto sentarse con los príncipes? La plena
 
-justificacin le depara al creyente un trono tan seguro como excelso, tan feliz
+justificación le depara al creyente un trono tan seguro como excelso, tan feliz
 
-como glorioso. Ah, ustedes, vstagos de casas imperiales, algunos de ustedes
+como glorioso. ˇAh, ustedes, vástagos de casas imperiales, algunos de ustedes
 
-no saben nada de esto! Esta es una nota que muchos emperadores no podran haber
+no saben nada de esto! Esta es una nota que muchos emperadores no podrían haber
 
-cantado nunca: Quin acusar a los escogidos de Dios? Dios es el que
+cantado nunca: “żQuién acusará a los escogidos de Dios? Dios es el que
 
-justifica. Quin es el que condenar? Hablando de sentarse en los pabellones
+justifica. żQuién es el que condenará?” Hablando de sentarse en los pabellones
 
-del placer, o en los divanes del estado, con nobles, prncipes, reyes, Csares,
+del placer, o en los divanes del estado, con nobles, príncipes, reyes, Césares,
 
 vamos, la figura se tambalea, se queda corta del blanco, pues el estado del
 
 alma completamente justificada sobrepasa en brillo a todo eso, como el sol
 
-brilla ms que aquella vela vacilante.
+brilla más que aquella vela vacilante.
 
 Demos el siguiente paso. Muchos de los hijos de
 
@@ -1036,39 +1036,39 @@ una plena seguridad de fe.
 
 Tienen la certeza de que son salvos;
 
-pueden decir conjuntamente con Job: Yo s que mi Redentor vive. En cuanto a
+pueden decir conjuntamente con Job: “Yo sé que mi Redentor vive”. En cuanto a
 
 que si son hijos de Dios o no, no tienen ninguna duda; el testimonio infalible
 
-del Espritu Santo da testimonio con su espritu de que son nacidos de Dios.
+del Espíritu Santo da testimonio con su espíritu de que son nacidos de Dios.
 
-Cristo es el hermano mayor, Dios es su Padre, y ellos respiran el espritu
+Cristo es el hermano mayor, Dios es su Padre, y ellos respiran el espíritu
 
-filial por el cual claman: Abba, Padre! Ellos conocen su propia seguridad;
+filial por el cual claman: “ˇAbba, Padre!” Ellos conocen su propia seguridad;
 
-estn convencidos de que ni lo presente, ni lo por venir, ni lo alto, ni lo
+están convencidos de que “ni lo presente, ni lo por venir, ni lo alto, ni lo
 
-profundo, ni ninguna otra cosa creada nos podr separar del amor de Dios, que
+profundo, ni ninguna otra cosa creada nos podrá separar del amor de Dios, que
 
-es en Cristo Jess Seor nuestro. Yo le pregunto a cada quien que posea un
+es en Cristo Jesús Seńor nuestro”. Yo le pregunto a cada quien que posea un
 
-corazn que entiende, si esto no es sentarse con los prncipes.
+corazón que entiende, si esto no es sentarse con los príncipes.
 
-Amados, yo no dara un centavo por el trono de
+Amados, yo no daría un centavo por el trono de
 
-un prncipe, pero dara todo lo que poseo aunque me lo pidieran mil veces, si pudiera
+un príncipe, pero daría todo lo que poseo aunque me lo pidieran mil veces, si pudiera
 
 gozar siempre de la plena seguridad de la fe, pues la plena seguridad de la fe
 
-es un gozo mayor que el gozo que jams podran producir el palacio de lirios de
+es un gozo mayor que el gozo que jamás podrían producir el palacio de lirios de
 
-Susa, o la casa del bosque del Lbano de Salomn. Un sentido de la misericordia
+Susa, o la casa del bosque del Líbano de Salomón. Un sentido de la misericordia
 
 divina es mejor que la vida misma: es un joven cielo madurando abajo, para ser
 
-plenamente desarrollado arriba. Saber que mi Amado es mo y que yo soy Suyo, y
+plenamente desarrollado arriba. Saber que mi Amado es mío y que yo soy Suyo, y
 
-que me am y se entreg por m, es mucho mejor que ser heredero legtimo de
+que me amó y se entregó por mí, es mucho mejor que ser heredero legítimo de
 
 muchos imperios.
 
@@ -1080,59 +1080,59 @@ entrevistas
 
 con Jesucristo.
 
-Como Enoc, nosotros caminamos con Dios. Justo como un nio
+Como Enoc, nosotros caminamos con Dios. Justo como un nińo
 
 camina con su padre, poniendo su mano en la mano de su padre, mirando hacia
 
-arriba con ojos de amor, as el pueblo elegido camina con su Padre Dios muy
+arriba con ojos de amor, así el pueblo elegido camina con su Padre Dios muy
 
-amorosamente, confiadamente, familiarmente, hablndole, contndole sus
+amorosamente, confiadamente, familiarmente, hablándole, contándole sus
 
 aflicciones, y oyendo de Su benevolente boca los secretos de Su amor. Son gente
 
-feliz pues tienen comunin con Jess de una naturaleza ms ntima y ms tierna
+feliz pues tienen comunión con Jesús de una naturaleza más íntima y más tierna
 
-que la que incluso los ngeles conocen. Somos miembros de Su cuerpo, de Su
+que la que incluso los ángeles conocen. Somos miembros de Su cuerpo, de Su
 
-carne, y de Sus huesos; estamos casados con l; l se ha desposado con nosotros
+carne, y de Sus huesos; estamos casados con Él; Él se ha desposado con nosotros
 
-en fidelidad y en justicia; somos ms preciados para l que Su propia carne y
+en fidelidad y en justicia; somos más preciados para Él que Su propia carne y
 
-sangre que entreg a la muerte- y ninguno de nosotros perecer jams, ni nadie
+sangre –que entregó a la muerte- y ninguno de nosotros perecerá jamás, ni nadie
 
-nos arrebatar de Su mano.
+nos arrebatará de Su mano.
 
-Ahora, acaso no es esto sentarse con los
+Ahora, żacaso no es esto sentarse con los
 
-prncipes? Prncipes! Prncipes! Miramos con desdn su pompa desde la
+príncipes? ˇPríncipes! ˇPríncipes! ˇMiramos con desdén su pompa desde la
 
-eminencia en que la gracia nos ha colocado! Pnganse sus coronas! Vstanse
+eminencia en que la gracia nos ha colocado! ˇPónganse sus coronas! ˇVístanse
 
-con su prpura! Arrglense con toda su pompa real! Pero cuando nuestras almas
+con su púrpura! ˇArréglense con toda su pompa real! Pero cuando nuestras almas
 
-puedan sentarse con Jess y reinar como reyes y sacerdotes con l, sus
+puedan sentarse con Jesús y reinar como reyes y sacerdotes con Él, sus
 
-esplendores no valdrn ni siquiera un pensamiento. La comunin con Jess es la
+esplendores no valdrán ni siquiera un pensamiento. La comunión con Jesús es la
 
-gema ms preciosa de las que hubieren resplandecido en una diadema imperial. La
+gema más preciosa de las que hubieren resplandecido en una diadema imperial. La
 
-unin con el Seor es una guirnalda de belleza que brilla ms que todas las
+unión con el Seńor es una guirnalda de belleza que brilla más que todas las
 
 coronas de la tierra.
 
 Y esto no es todo: los elegidos de Dios, en
 
-adicin a recibir una completa justificacin, una plena seguridad, y la
+adición a recibir una completa justificación, una plena seguridad, y la
 
-comunin con Cristo, son favorecidos con la
+comunión con Cristo, son favorecidos con la
 
-santificacin
+santificación
 
-del Espritu Santo. Dios el Espritu Santo mora en cada cristiano; sin
+del Espíritu Santo. Dios el Espíritu Santo mora en cada cristiano; sin
 
-importar cun humilde sea, es un templo mvil en el que reside la Deidad. Dios
+importar cuán humilde sea, es un templo móvil en el que reside la Deidad. Dios
 
-el Espritu Santo mora en nosotros, y nosotros en l; y ese Espritu santifica
+el Espíritu Santo mora en nosotros, y nosotros en Él; y ese Espíritu santifica
 
 las acciones diarias del cristiano, de tal manera que hace todo como para Dios;
 
@@ -1140,11 +1140,11 @@ si vive es para Cristo, y si muere es ganancia.
 
 Oh, amados, es, en verdad, sentarse con los
 
-prncipes cuando sienten las influencias santificadoras del Espritu Santo. Oh,
+príncipes cuando sienten las influencias santificadoras del Espíritu Santo. Oh,
 
-Dios mo, si yo pudiera sentir siempre que Tu Espritu vence mi corrupcin y
+Dios mío, si yo pudiera sentir siempre que Tu Espíritu vence mi corrupción y
 
-constrie mi alma a la santidad, ni siquiera pensara en un prncipe para
+constrińe mi alma a la santidad, ni siquiera pensaría en un príncipe para
 
 compararlo con mi propio gozo. Oh, mis queridos hermanos y hermanas en
 
@@ -1152,47 +1152,47 @@ Jesucristo, estoy seguro de que pueden dar testimonio que cuando caen en pecado
 
 en cualquier momento, eso los abate mucho, pues les recuerda el olor de ese vil
 
-muladar una vez ms, y sienten que estn a punto de morir bajo su terrible
+muladar una vez más, y sienten que están a punto de morir bajo su terrible
 
-fetidez; pero cuando el Espritu Santo los habilita para vencer el pecado y
+fetidez; pero cuando el Espíritu Santo los habilita para vencer el pecado y
 
-para vivir como Cristo vivi, sienten en verdad que tienen una posicin real, y
+para vivir como Cristo vivió, sienten en verdad que tienen una posición real, y
 
-un privilegio ms que imperial al ser santificados en Cristo Jess.
+un privilegio más que imperial al ser santificados en Cristo Jesús.
 
-Adems, muchos santos reciben, en adicin a la
+Además, muchos santos reciben, en adición a la
 
-santificacin,
+santificación,
 
-la bendicin de la
+la bendición de la
 
 utilidad;
 
-y pongan atencin a esta palabra: cada hombre til es de un rango
+y pongan atención a esta palabra: cada hombre útil es de un rango
 
-principesco. No estoy exagerando ahora, sino nada ms diciendo la sobria
+principesco. No estoy exagerando ahora, sino nada más diciendo la sobria
 
-verdad; el que bendice a sus semejantes es el verdadero prncipe entre los
+verdad; el que bendice a sus semejantes es el verdadero príncipe entre los
 
-hombres. Ser capaz de dejar caer perlas de tus labios podra hacerte un
+hombres. Ser capaz de dejar caer perlas de tus labios podría hacerte un
 
-prncipe en una historieta de hadas, pero cuando esos labios bendicen a las
+príncipe en una historieta de hadas, pero cuando esos labios bendicen a las
 
-almas de los hombres conducindolos a Jess, esto es ser un prncipe
+almas de los hombres conduciéndolos a Jesús, esto es ser un príncipe
 
-verdaderamente. Alimentar al hambriento, vestir al desnudo, rescatar al cado,
+verdaderamente. Alimentar al hambriento, vestir al desnudo, rescatar al caído,
 
-ensear al ignorante, darle nimo al deprimido, inspirar al inconstante y
+enseńar al ignorante, darle ánimo al deprimido, inspirar al inconstante y
 
-conducir a los santos hasta la diestra de Dios, hermanos mos, esto es llevar
+conducir a los santos hasta la diestra de Dios, hermanos míos, esto es llevar
 
-un lustre que ni estrellas ni galones, ni rdenes ni distinciones, podran
+un lustre que ni estrellas ni galones, ni órdenes ni distinciones, podrían
 
-conferir jams. Este es el privilegio de cada uno de ustedes segn el Espritu
+conferir jamás. Este es el privilegio de cada uno de ustedes según el Espíritu
 
 de Dios les haya dado la medida de fe. Ustedes, que una vez hicieron el mal,
 
-ahora sirven el inters de la virtud; ustedes, que convirtieron a sus miembros
+ahora sirven el interés de la virtud; ustedes, que convirtieron a sus miembros
 
 en siervos de la injusticia, ahora hacen que esos mismos miembros sean siervos
 
@@ -1202,247 +1202,247 @@ pueden otorgar ningunos honores como los que consisten en morar en santidad,
 
 caridad y celo.
 
-Y adems, Dios alza a Su pueblo en otro sentido:
+Y además, Dios alza a Su pueblo en otro sentido:
 
-a la vez que les da santificacin y utilidad, tambin
+a la vez que les da santificación y utilidad, también
 
 los unge con gozo.
 
-Oh, el gozo de ser cristiano! Yo s que la idea
+ˇOh, el gozo de ser cristiano! Yo sé que la idea
 
-del mundo es que somos un pueblo miserable. Si leen las pginas de la historia,
+del mundo es que somos un pueblo miserable. Si leen las páginas de la historia,
 
 los escritores hablan de los alegres caballeros como hombres de un elevado
 
-espritu y gozo sobreabundante; pero los pobres puritanos, qu desdichado
+espíritu y gozo sobreabundante; pero los pobres ‘puritanos’, qué desdichado
 
-grupo era, blasfemando el da de Navidad, aborreciendo los juegos y los
+grupo era, blasfemando el día de Navidad, aborreciendo los juegos y los
 
-deportes, y andando por el mundo y mostrndose tan terriblemente miserables,
+deportes, y andando por el mundo y mostrándose tan terriblemente miserables,
 
-que sera una lstima que fueran al infierno, pues ya tuvieron suficiente
+que ˇsería una lástima que fueran al infierno, pues ya tuvieron suficiente
 
-tormento aqu! Ahora, esos comentarios son totalmente falsos o por lo menos son
+tormento aquí! Ahora, esos comentarios son totalmente falsos o por lo menos son
 
-una burda caricatura. Los hipcritas, entonces como ahora, mostraban una cara
+una burda caricatura. Los hipócritas, entonces como ahora, mostraban una cara
 
-larga y un semblante deplorable; en cambio se encontraban entre los puritanos
+larga y un semblante deplorable; en cambio se encontraban entre los ‘puritanos’
 
-huestes de hombres cuya santa jovialidad y gozo eran sin igual, es ms, que no
+huestes de hombres cuya santa jovialidad y gozo eran sin igual, es más, que no
 
-poda ser ni imaginado ni comprendido por aquellos pobres necios burlones que
+podía ser ni imaginado ni comprendido por aquellos pobres necios burlones que
 
-revoloteaban en torno al libertino sin corazn, cuyas hipocresas le haban alzado
+revoloteaban en torno al libertino sin corazón, cuyas hipocresías le habían alzado
 
 al trono de Inglaterra. Un profundo e inextinguible gozo moraba en los pechos
 
-de aquellos puritanos, pero la jovialidad de los caballeros no era ms que un
+de aquellos puritanos, pero la jovialidad de los caballeros no era más que un
 
 crepitar de espinas bajo la olla, hombres que:
 
-Formaban el
+“Formaban el
 
 cortejo de los altivos y de los fuertes,
 
 Que se
 
-saciaban en los lugares altos, y mataban a los santos de Dios.
+saciaban en los lugares altos, y mataban a los santos de Dios”.
 
-Oh!, muy por encima de la risa de los galantes
+ˇOh!, muy por encima de la risa de los galantes
 
 de la corte, estaba el poderoso y profundo gozo de aquellos que regresaron del
 
-campo victorioso cantando al Seor que los haba hecho triunfar gloriosamente.
+campo victorioso cantando al Seńor que los había hecho triunfar gloriosamente.
 
-Los llamaban los Ironsides, o Costados de hierro, y eso eran, pero tenan
+Los llamaban los “Ironsides”, o “Costados de hierro”, y eso eran, pero tenían
 
-corazones de acero, quienes a la vez que no vacilaban en el da de peligro no
+corazones de acero, quienes a la vez que no vacilaban en el día de peligro no
 
 se olvidaban de brillar de gozo igual que el acero resplandece ante el brillo
 
-del sol. Cranme que sin importar lo que
+del sol. Créanme que sin importar lo que
 
 ellos
 
-fueran, nosotros, los que confiamos en Jess, somos las personas ms felices,
+fueran, nosotros, los que confiamos en Jesús, somos las personas más felices,
 
 no constitucionalmente, pues algunos de nosotros somos muy atribulados y somos
 
 conducidos a los abismos de la pobreza, pero internamente, verdaderamente y
 
-realmente, el gozo de nuestros corazones, cranme, no ha de ser sobrepasado. Yo
+realmente, el gozo de nuestros corazones, créanme, no ha de ser sobrepasado. Yo
 
-no estara aqu para mentirles ni por el doble del valor de las Indias, sino
+no estaría aquí para mentirles ni por el doble del valor de las Indias, sino
 
-que dir la verdad: si tuviera que morir como un perro maana, no cambiara mi
+que diré la verdad: si tuviera que morir como un perro mańana, no cambiaría mi
 
 lugar con nadie bajo los atrios del cielo por el gozo y la paz de la mente;
 
 pues ser un cristiano y saberlo, beber profundamente de esa copa, conocer tu
 
-eleccin, entender tu llamamiento, yo les aseguro que produce mayor paz y
+elección, entender tu llamamiento, yo les aseguro que produce mayor paz y
 
-bienaventuranza en diez minutos de lo que se encontrara en cien aos en todos
+bienaventuranza en diez minutos de lo que se encontraría en cien ańos en todos
 
 los atrios del pecado, aunque el desenfreno se desboque y el placer no conozca
 
 ninguna licencia.
 
-Slido gozo
+“Sólido gozo
 
 y perdurable placer
 
 Nadie sino
 
-los hijos de Sion los conocen.
+los hijos de Sion los conocen”.
 
-As que cuando leo el texto que dice que l nos
+Así que cuando leo el texto que dice que Él nos
 
-coloca con los prncipes, no me impresiona la figura, cojea, renquea, pues el
+coloca con los príncipes, no me impresiona la figura, cojea, renquea, pues el
 
-Seor nos coloca muy por encima de todos los prncipes terrenales; y si no
+Seńor nos coloca muy por encima de todos los príncipes terrenales; y si no
 
-fuera por la siguiente frase yo preferira que la figura se desvaneciera por
+fuera por la siguiente frase yo preferiría que la figura se desvaneciera por
 
-completo, pero esa clusula la endereza: Con los prncipes de su pueblo esto
+completo, pero esa cláusula la endereza: “Con los príncipes de su pueblo” –esto
 
-pone alma y fuerza- stos son los prncipes de otra sangre, stos son pares de
+pone alma y fuerza- éstos son los príncipes de otra sangre, éstos son pares de
 
 otro reino, y entre ellos Dios coloca a Su pueblo.
 
 IV.
 
-Para concluir, hemos de notar en ltimo lugar,
+Para concluir, hemos de notar en último lugar,
 
-DNDE ES QUE NUESTRO SEOR COLOCA A SU PUEBLO.
+DÓNDE ES QUE NUESTRO SEŃOR COLOCA A SU PUEBLO.
 
-Con los prncipes, se nos informa. Hemos ya
+“Con los príncipes”, se nos informa. Hemos ya
 
 reflexionado sobre ese mismo pensamiento, pero vamos a examinar otra de sus
 
-facetas. Con los prncipes,
+facetas. “Con los príncipes”,
 
 es el lugar
 
 de la sociedad selecta.
 
-Ellos no admiten a cualquiera en ese crculo
+Ellos no admiten a cualquiera en ese círculo
 
 encantado. El pobre plebeyo no debe aventurarse en medio de la aristocracia. La
 
-sangre azul corre en un canal ms bien estrecho, y no puede esperarse que se le
+sangre azul corre en un canal más bien estrecho, y no puede esperarse que se le
 
-permita al carmes comn vigorizar la lnguida corriente. El verdadero
+permita al carmesí común vigorizar la lánguida corriente. El verdadero
 
-cristiano vive en una sociedad muy selecta. Escuchen! Nuestra comunin
+cristiano vive en una sociedad muy selecta. ˇEscuchen! “Nuestra comunión
 
-verdaderamente es con el Padre, y con su Hijo Jesucristo. Cuando se habla de
+verdaderamente es con el Padre, y con su Hijo Jesucristo”. ˇCuando se habla de
 
-una sociedad selecta, no hay ninguna como sta! Somos una generacin escogida,
+una sociedad selecta, no hay ninguna como ésta! Somos una generación escogida,
 
-un pueblo peculiar, un sacerdocio real. Porque no nos hemos acercado al Monte
+un pueblo peculiar, un sacerdocio real. “Porque no nos hemos acercado al Monte
 
-Sina, sino que nos hemos acercado a la sangre rociada y a la congregacin de
+Sinaí, sino que nos hemos acercado a la sangre rociada y a la congregación de
 
-los primognitos que estn inscritos en los cielos. Esta es una sociedad
+los primogénitos que están inscritos en los cielos”. Esta es una sociedad
 
 selecta.
 
-A continuacin,
+A continuación,
 
 ellos tienen una audiencia en la corte
 
-: se espera que el prncipe
+: se espera que el príncipe
 
-tenga derecho de admisin ante la realeza cuando la gente comn como nosotros
+tenga derecho de admisión ante la realeza cuando la gente común como nosotros
 
 debemos permanecer lejos. Ahora, el hijo de Dios tiene libre acceso a la
 
-realeza del cielo. Nuestros privilegios cortesanos son del orden ms elevado.
+realeza del cielo. Nuestros privilegios cortesanos son del orden más elevado.
 
-Escuchen! Porque por medio de l los unos y los otros tenemos entrada por un
+ˇEscuchen! “Porque por medio de él los unos y los otros tenemos entrada por un
 
-mismo Espritu al Padre. Acerqumonos, pues, confiadamente, -dice el
+mismo Espíritu al Padre”. “Acerquémonos, pues, confiadamente”, -dice el
 
-apstol-
+apóstol-
 
-al trono
+“al trono
 
 de la gracia, para
 
-alcanzar misericordia y hallar gracia para el oportuno socorro. Tenemos una
+alcanzar misericordia y hallar gracia para el oportuno socorro”. Tenemos una
 
 audiencia en la corte y una sociedad peculiarmente selecta.
 
-Junto a esto se supone que entre los prncipes
+Junto a esto se supone que entre los príncipes
 
 hay
 
 riqueza abundante,
 
-pero qu es
+pero żqué es
 
-la riqueza de los prncipes comparada con las riquezas de los creyentes?,
+la riqueza de los príncipes comparada con las riquezas de los creyentes?,
 
-porque todo es vuestro y vosotros de Cristo, y Cristo de Dios. El que no
+porque “todo es vuestro… y vosotros de Cristo, y Cristo de Dios”. “El que no
 
-escatim ni a su propio Hijo, sino que lo entreg por todos nosotros, cmo no
+escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, żcómo no
 
-nos dar tambin con l todas las cosas?
+nos dará también con él todas las cosas?”
 
-Entre los prncipes, adems, habita un
+Entre los príncipes, además, habita un
 
 poder peculiar.
 
-Un prncipe tiene
+Un príncipe tiene
 
-influencia; blande un cetro en su propio dominio: y nos ha hecho para nuestro
+influencia; blande un cetro en su propio dominio: y “nos ha hecho para nuestro
 
-Dios reyes y sacerdotes, y reinaremos por los siglos de los siglos. Nosotros
+Dios reyes y sacerdotes, y reinaremos por los siglos de los siglos”. Nosotros
 
 no somos reyes de Inglaterra, Escocia e Irlanda, y sin embargo, tenemos un
 
-triple dominio; reinamos sobre espritu, alma y cuerpo. Reinamos sobre el reino
+triple dominio; reinamos sobre espíritu, alma y cuerpo. Reinamos sobre el reino
 
 unido del tiempo y de la eternidad; reinamos en este mundo, y hemos de reinar
 
 en el mundo venidero, pues reinaremos por los siglos de los siglos.
 
-Los prncipes, adems, tienen
+Los príncipes, además, tienen
 
 un honor especial.
 
 Todos los presentes
 
-en la multitud desean contemplar al prncipe, y se deleitaran en servirle.
+en la multitud desean contemplar al príncipe, y se deleitarían en servirle.
 
-l
+Él
 
-ha de ocupar la primera posicin en
+ha de ocupar la primera posición en
 
-el imperio; es un prncipe de sangre, y ha de tenrsele estima y respeto.
+el imperio; es un príncipe de sangre, y ha de tenérsele estima y respeto.
 
-Amados, oigan esta palabra: Juntamente con l
+Amados, oigan esta palabra: “Juntamente con él
 
-nos resucit, y asimismo nos hizo sentar en los lugares celestiales con Cristo
+nos resucitó, y asimismo nos hizo sentar en los lugares celestiales con Cristo
 
-Jess, de tal manera que compartimos el honor de Cristo as como compartimos
+Jesús”, de tal manera que compartimos el honor de Cristo así como compartimos
 
-Su cruz. Pablo fue tomado del muladar de la persecucin, pero no es inferior a
+Su cruz. Pablo fue tomado del muladar de la persecución, pero no es inferior a
 
 nadie en la gloria; y a ti, aunque pudieras haber sido el primero de los pecadores,
 
-no te ir peor cuando el Seor venga en Su reino; pero as como los reconoci
+no te irá peor cuando el Seńor venga en Su reino; pero así como los reconoció
 
-en la tierra y los redimi con Su sangre preciosa, as los reconocer en el
+en la tierra y los redimió con Su sangre preciosa, así los reconocerá en el
 
-estado futuro, y los har sentarse con l y reinar con los prncipes, por los
+estado futuro, y los hará sentarse con Él y reinar con los príncipes, por los
 
-siglos de los siglos. Que el Seor bendiga estas palabras por Jesucristo
+siglos de los siglos. Que el Seńor bendiga estas palabras por Jesucristo
 
-nuestro Seor. Amn.
+nuestro Seńor. Amén.
 
-Porcin de la Escritura leda antes del sermn:
+Porción de la Escritura leída antes del sermón:
 
 1 Samuel 2: 1-10 y Salmo 113.
 
@@ -1450,17 +1450,17 @@ Nota del
 
 traductor:
 
-La joven de la cabaa y La hija del lechero
+“La joven de la cabańa” y “La hija del lechero”
 
-son unas breves narraciones de Legh Richmond (1772-1827). De La hija del
+son unas breves narraciones de Legh Richmond (1772-1827). De “La hija del
 
-lechero circularon 4 millones de copias y se tradujo a 19 idiomas antes de
+lechero” circularon 4 millones de copias y se tradujo a 19 idiomas antes de
 
-1849. Sus historias fueron recopiladas y publicada bajo el ttulo de Crnicas
+1849. Sus historias fueron recopiladas y publicada bajo el título de “Crónicas
 
-de los pobres.
+de los pobres”.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 21/Octubre/2009
 

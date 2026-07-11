@@ -4,8 +4,22 @@ import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';
 
 export async function generateStaticParams() {
-  const volumes = await getVolumes();
-  return volumes.map((volume) => ({ id: volume }));
+  const langs = ['en', 'es', 'pt'];
+  const paramSet = new Set();
+  const params = [];
+  for (const lang of langs) {
+    const volumes = await getVolumes(lang);
+    for (const volume of volumes) {
+      const key = `${lang}::${volume}`;
+      if (!paramSet.has(key)) {
+        paramSet.add(key);
+        params.push({ id: volume });
+      }
+    }
+  }
+  // Deduplicate by volume id
+  const seen = new Set();
+  return params.filter(p => { if (seen.has(p.id)) return false; seen.add(p.id); return true; });
 }
 
 export default async function VolumePage({ params }) {

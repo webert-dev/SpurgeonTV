@@ -1,116 +1,116 @@
 # Sermón 1454b | Sermón 1454B
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-La Oracin
+La Oración
 
 del Pobre
 
 1454B
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Acurdate de
+“Acuérdate de
 
-m, oh Jehov, segn tu benevolencia para con tu pueblo; vistame con tu
+mí, oh Jehová, según tu benevolencia para con tu pueblo; visítame con tu
 
-salvacin, para que yo vea el bien de tus escogidos, para que me goce en la
+salvación, para que yo vea el bien de tus escogidos, para que me goce en la
 
-alegra de tu nacin, y me glore
+alegría de tu nación, y me gloríe
 
 con
 
-tu heredad.
+tu heredad”.
 
 Salmo 106: 4, 5.
 
 Amados, siempre reconocemos
 
-que es una seal muy esperanzadora cuando un hombre comienza a pensar en una religin
+que es una seńal muy esperanzadora cuando un hombre comienza a pensar en una religión
 
-personal. Asistir simplemente con la muchedumbre y adorar pblicamente no es
+personal. Asistir simplemente con la muchedumbre y adorar públicamente no es
 
-sino una pobre accin; pero cuando un hombre llega a sentir el peso de su
+sino una pobre acción; pero cuando un hombre llega a sentir el peso de su
 
-propio pecado y a confesarlo de todo corazn delante de Dios -cuando necesita
+propio pecado y a confesarlo de todo corazón delante de Dios -cuando necesita
 
-para s un Salvador y comienza a orar a solas para encontrar a ese Salvador-
+para sí un Salvador y comienza a orar a solas para encontrar a ese Salvador-
 
 cuando no se contenta con ser un hijo de padres piadosos, o con haber sido
 
-incorporado a la iglesia en su niez, segn la costumbre de ciertas
+incorporado a la iglesia en su nińez, según la costumbre de ciertas
 
-denominaciones; cuando desea con vehemencia la piedad real, la religin
+denominaciones; cuando desea con vehemencia la piedad real, la religión
 
-personal, la verdadera conversin, todo eso constituye una bendita seal.
+personal, la verdadera conversión, todo eso constituye una bendita seńal.
 
 Cuando el ciervo se separa de la manada concluimos que el dardo ha dado en el
 
-blanco: la herida es grave y la criatura busca soledad, pues un corazn
+blanco: la herida es grave y la criatura busca soledad, pues un corazón
 
-sangrante no puede tolerar estar en compaa. Benditas sean las heridas
+sangrante no puede tolerar estar en compańía. ˇBenditas sean las heridas
 
-infligidas por Dios pues conducen a una curacin celestial!
+infligidas por Dios pues conducen a una curación celestial!
 
-Nos alegra ms todava
+Nos alegra más todavía
 
-cuando este deseo de una salvacin personal conduce al hombre a orar, cuando
+cuando este deseo de una salvación personal conduce al hombre a orar, cuando
 
 comienza realmente a dar voces delante de Dios por cuenta propia; nos encanta
 
-que haya abandonado los rezos que sola repetir de memoria como loro y que
+que haya abandonado los rezos que solía repetir de memoria como loro y que
 
-prorrumpa orando con el lenguaje de su corazn. Aunque ese lenguaje pudiera ser
+prorrumpa orando con el lenguaje de su corazón. Aunque ese lenguaje pudiera ser
 
-muy entrecortado, o consistiera nicamente en suspiros y lgrimas y gemidos, se
+muy entrecortado, o consistiera únicamente en suspiros y lágrimas y gemidos, se
 
-trata de una circunstancia feliz. He aqu, l ora le bast a Ananas; estaba
+trata de una circunstancia feliz. “He aquí, él ora” le bastó a Ananías; estaba
 
-seguro de que Pablo deba de haber sido convertido; y cuando encontramos a un
+seguro de que Pablo debía de haber sido convertido; y cuando encontramos a un
 
-hombre orando, y orando fervientemente pidiendo la salvacin personal, sentimos
+hombre orando, y orando fervientemente pidiendo la salvación personal, sentimos
 
-que eso es el dedo de Dios, y nuestro corazn se alegra en nuestro interior.
+que eso es el dedo de Dios, y nuestro corazón se alegra en nuestro interior.
 
 El pasaje que vamos a
 
-considerar es una de esas fervientes splicas personales que nos encanta or de
+considerar es una de esas fervientes súplicas personales que nos encanta oír de
 
 cualquier boca. Voy a leerlo de nuevo, y luego voy a proceder a utilizarlo de
 
-dos o tres maneras. Acurdate de m, oh Jehov, segn tu benevolencia para con
+dos o tres maneras. “Acuérdate de mí, oh Jehová, según tu benevolencia para con
 
-tu pueblo; vistame con tu salvacin, para que yo vea el bien de tus escogidos,
+tu pueblo; visítame con tu salvación, para que yo vea el bien de tus escogidos,
 
-para que me goce en la alegra de tu nacin, y me glore con tu heredad.
+para que me goce en la alegría de tu nación, y me gloríe con tu heredad”.
 
 Ahora, primero,
 
-esta es una oracin muy apropiada para el
+esta es una oración muy apropiada para el
 
 creyente humilde:
 
-quien la musit por primera vez era un humilde creyente.
+quien la musitó por primera vez era un humilde creyente.
 
-A continuacin,
+A continuación,
 
-constituira una peticin
+constituiría una petición
 
 muy apropiada para un penitente que se ha descarriado;
 
 y, en tercer lugar,
 
-sera un Evangelio muy dulce para un
+sería un Evangelio muy dulce para un
 
 buscador.
 
-Que el Espritu de Dios bendiga la palabra para cada uno de esos
+Que el Espíritu de Dios bendiga la palabra para cada uno de esos
 
 caracteres.
 
@@ -118,61 +118,61 @@ I.
 
 Primero,
 
-entonces, esta es una admirable oracin PARA UN POBRE Y HUMILDE CRISTIANO.
+entonces, esta es una admirable oración PARA UN POBRE Y HUMILDE CRISTIANO.
 
-Me parece orle usando esas mismas palabras.
+Me parece oírle usando esas mismas palabras.
 
-Noten con inters el
+Noten con interés el
 
-primer miedo sentido por este pobre y trmulo cristiano.
+primer miedo sentido por este pobre y trémulo cristiano.
 
-Tiene miedo de que Dios lo olvide por ser tan pequeo,
+Tiene miedo de que Dios lo olvide por ser tan pequeńo,
 
 y por eso
 
 comienza con:
 
-Acurdate de m,
+“Acuérdate de mí,
 
 oh
 
-Jehov, segn tu
+Jehová, según tu
 
 benevolencia para
 
-con tu pueblo. Yo conozco bien a este hombre. Lo tengo en muy alta estima,
+con tu pueblo”. Yo conozco bien a este hombre. Lo tengo en muy alta estima,
 
-pero l mismo tiene una muy baja opinin de s mismo. Admiro su humildad, pero
+pero él mismo tiene una muy baja opinión de sí mismo. Admiro su humildad, pero
 
-l se queja a menudo de que siente orgullo en su corazn. Es un verdadero creyente,
+él se queja a menudo de que siente orgullo en su corazón. Es un verdadero creyente,
 
 pero es un hombre tristemente acosado por las dudas. Pobre hombre, hunde su
 
-cabeza pues tiene un gran sentido de su propia indignidad; yo slo deseara que
+cabeza pues tiene un gran sentido de su propia indignidad; yo sólo desearía que
 
 tuviera un igual sentido de la plenitud de Cristo que pudiera equilibrar su
 
 humildad. Va camino al cielo, pero con frecuencia teme no ir por ese camino, y
 
-eso lo lleva a vigilar cada paso que da. Casi deseara que algunos profesantes
+eso lo lleva a vigilar cada paso que da. Casi desearía que algunos profesantes
 
-confiados fueran tan asediados por las dudas como l lo es, si fueran la mitad
+confiados fueran tan asediados por las dudas como él lo es, si fueran la mitad
 
 de cautelosos. Tiene miedo de poner un pie delante del otro, no sea que se
 
-equivoque, y sin embargo, lamenta su falta de vigilancia. Se est quejando
+equivoque, y sin embargo, lamenta su falta de vigilancia. Se está quejando
 
-siempre de la dureza de su corazn, y, sin embargo, l es la ternura misma. Ah,
+siempre de la dureza de su corazón, y, sin embargo, él es la ternura misma. Ah,
 
-qu tipo: deberan orle orar. Sus oraciones estn entre las ms fervientes y
+qué tipo: deberían oírle orar. Sus oraciones están entre las más fervientes y
 
-bendecidas que ustedes hayan odo jams, pero una vez que ha concluido teme que
+bendecidas que ustedes hayan oído jamás, pero una vez que ha concluido teme que
 
-no debi haber abierto su boca jams. Dice que no es apto para orar delante de
+no debió haber abierto su boca jamás. Dice que no es apto para orar delante de
 
-otros. Considera que las suyas son las ms pobres oraciones de las que llegan
+otros. Considera que las suyas son las más pobres oraciones de las que llegan
 
-jams al trono de Dios; en verdad tiene miedo de que no lleguen all, sino que
+jamás al trono de Dios; en verdad tiene miedo de que no lleguen allá, sino que
 
 se disipen como si fueran aliento desperdiciado. Recibe sus ocasionales rayos
 
@@ -180,243 +180,243 @@ de luz solar, y cuando siente el amor de Dios en su alma se siente tan feliz
 
 como el grillo sobre la chimenea. No hay nadie fuera del cielo que se sienta
 
-ms alegre que l cuando su esperanza revive. Pero, oh, es tan sensible en
+más alegre que él cuando su esperanza revive. Pero, oh, es tan sensible en
 
-cuanto al pecado que cuando descubre que se est enfriando un poco o que se
+cuanto al pecado que cuando descubre que se está enfriando un poco o que se
 
-est descarriando en alguna medida, comienza a flagelarse, lo cual me alegra
+está descarriando en alguna medida, comienza a flagelarse, lo cual me alegra
 
-mucho, pero tambin comienza a dudar un poco de su inters en su Seor, lo cual
+mucho, pero también comienza a dudar un poco de su interés en su Seńor, lo cual
 
-no me alegra para nada, sino que me compadezco mucho de l aunque tambin lo culpo
+no me alegra para nada, sino que me compadezco mucho de él aunque también lo culpo
 
-si bien sintiendo mucha simpata por l. No estoy muy seguro del nombre de este
+si bien sintiendo mucha simpatía por él. No estoy muy seguro del nombre de este
 
-buen hombre; pudiera ser Poca Fe, o Mente Dbil. O acaso estar pensando en el
+buen hombre; pudiera ser Poca Fe, o Mente Débil. żO acaso estaré pensando en el
 
-seor Desaliento? O estoy hablando de la seorita Temerosa? O se trata del
+seńor Desaliento? żO estoy hablando de la seńorita Temerosa? żO se trata del
 
-seor A Punto de Caer? Bien, es algn miembro de esa numerosa familia. Esta
+seńor A Punto de Caer? Bien, es algún miembro de esa numerosa familia. Esta
 
-pobre alma piensa, Seguramente Dios me olvidar! No, no, querido corazn, l
+pobre alma piensa, “ˇSeguramente Dios me olvidará!” No, no, querido corazón, Él
 
-no te olvidar. Es maravilloso cmo Dios piensa en las cosas pequeas. Mungo
+no te olvidará. Es maravilloso cómo Dios piensa en las cosas pequeńas. Mungo
 
-Park recogi un poquito de musgo en el desierto, y mientras observaba cun
+Park recogió un poquito de musgo en el desierto, y mientras observaba cuán
 
-hermosamente jaspeado era, dijo: Dios est aqu. l est pensando en el musgo,
+hermosamente jaspeado era, dijo: “Dios está aquí. Él está pensando en el musgo,
 
-y por tanto, pensar tambin en m. rase una vez, una plantita que creci
+y por tanto, pensará también en mí”. Érase una vez, una plantita que creció
 
-justo en el centro del bosque; los rboles se extendan por muchas millas
+justo en el centro del bosque; los árboles se extendían por muchas millas
 
-alrededor de ella, y la plantita se dijo a s misma: Nunca me dar la luz del
+alrededor de ella, y la plantita se dijo a sí misma: “Nunca me dará la luz del
 
-sol. Tengo una florecita que yo gustosamente abrira, pero no puede brotar
+sol. Tengo una florecita que yo gustosamente abriría, pero no puede brotar
 
-mientras la luz del sol no me acaricie. Ay!, nunca llegar hasta
+mientras la luz del sol no me acaricie. ˇAy!, nunca llegará hasta
 
-m.
+mí.
 
 Mira el denso follaje y los grandes
 
 troncos de esos robles gigantescos y de esas poderosas hayas que van a ocultar
 
-efectivamente el sol para que no le d a mi diminuta forma. Pero a su debido
+efectivamente el sol para que no le dé a mi diminuta forma”. Pero a su debido
 
-tiempo el sol mir a travs de los rboles como un rey a travs de las rejas y
+tiempo el sol miró a través de los árboles como un rey a través de las rejas y
 
-le sonri a la florecita; pues no ha existido nunca una flor en la que Dios no
+le sonrió a la florecita; pues no ha existido nunca una flor en la que Dios no
 
-hubiera pensado y para la que no hubiera provisto. No dices correctamente que
+hubiera pensado y para la que no hubiera provisto. żNo dices correctamente que
 
-cada hoja de hierba tiene su gota de roco, y piensas que Dios te olvidar,
+“cada hoja de hierba tiene su gota de rocío”, y piensas que Dios te olvidará,
 
-por pequeo que seas? l sabe cundo vuelan las golondrinas, y cundo
+por pequeńo que seas? Él sabe cuándo vuelan las golondrinas, y cuándo
 
-despiertan las hormigas y recogen sus reservas, y no pensar en ti? No porque
+despiertan las hormigas y recogen sus reservas, ży no pensará en ti? No porque
 
-seas pequeo debes dudar del amor de tu Padre celestial. Madre, de cul de tus
+seas pequeńo debes dudar del amor de tu Padre celestial. Madre, żde cuál de tus
 
 hijos te olvidas alguna vez? Si alguna vez fueras a tu cama en la noche y
 
-dejaras a uno de los hijos afuera de la casa, yo s cul
+dejaras a uno de los hijos afuera de la casa, yo sé cuál
 
 no
 
-sera.
+sería.
 
-No sera el
+No sería el
 
-beb que permanece indefenso en tu pecho. Nunca lo olvidas a l. Y ustedes,
+bebé que permanece indefenso en tu pecho. Nunca lo olvidas a él. Y ustedes,
 
-criaturas indefensas, ustedes, seres trmulos, si el Seor tuviera que olvidar
+criaturas indefensas, ustedes, seres trémulos, si el Seńor tuviera que olvidar
 
-a alguien, sera al fuerte, pero ciertamente no a ustedes. Al tiempo que
+a alguien, sería al fuerte, pero ciertamente no a ustedes. Al tiempo que
 
-musitas la oracin, Acurdate de
+musitas la oración, “Acuérdate de
 
-m
+mí…
 
-segn
+según
 
-tu benevolencia para con tu pueblo, el Seor te responde: Yo todava te
+tu benevolencia para con tu pueblo”, el Seńor te responde: “Yo todavía te
 
-recuerdo vvidamente.
+recuerdo vívidamente”.
 
-Observen a continuacin
+Observen a continuación
 
-que este pobre corazn trmulo pareciera estar en serios problemas por miedo de
+que este pobre corazón trémulo pareciera estar en serios problemas por miedo de
 
-que el Seor lo pasara por alto, pero al mismo tiempo
+que el Seńor lo pasara por alto, pero al mismo tiempo
 
-siente que toda cosa buena que pueda recibir tiene que venir del Seor,
+siente que toda cosa buena que pueda recibir tiene que venir del Seńor,
 
-y que tiene que ser llevado a ella por el Seor.
+y que tiene que ser llevado a ella por el Seńor.
 
 Noten las palabras:
 
-Vistame con tu salvacin; es como si hubiese dicho: Seor, yo no puedo
+“Visítame con tu salvación”; es como si hubiese dicho: “Seńor, yo no puedo
 
-venir a Ti; estoy muy lisiado para venir, estoy demasiado dbil para venir, pero
+venir a Ti; estoy muy lisiado para venir, estoy demasiado débil para venir, pero
 
-vistame. Oh Seor, yo soy como el hombre herido entre Jeric y Jerusaln:
+visítame. Oh Seńor, yo soy como el hombre herido entre Jericó y Jerusalén:
 
 estoy medio muerto, y no puedo moverme. Ven a
 
-m,
+mí,
 
-Seor; pues no puedo moverme para ir a Ti. Vistame, pues slo
+Seńor; pues no puedo moverme para ir a Ti. Visítame, pues sólo
 
-Tus visitaciones pueden preservar mi espritu. Estoy tan herido y tan
+Tus visitaciones pueden preservar mi espíritu. Estoy tan herido y tan
 
-gravemente quebrantado y arruinado que si T no me visitas con Tu salvacin,
+gravemente quebrantado y arruinado que si Tú no me visitas con Tu salvación,
 
-como si no hubiese sido salvado nunca antes, estar perdido.
+como si no hubiese sido salvado nunca antes, estaré perdido”.
 
 Ahora, pobre amigo
 
-trmulo, permteme susurrar una media palabra a tu odo, y que Dios el Espritu
+trémulo, permíteme susurrar una media palabra a tu oído, y que Dios el Espíritu
 
-Santo la torne en un consuelo para ti. Si tienes un corazn quebrantado no
+Santo la torne en un consuelo para ti. Si tienes un corazón quebrantado no
 
-necesitas decir: Seor, vistame. No sabes que l mora en ti, pues acaso no
+necesitas decir: “Seńor, visítame”. żNo sabes que Él mora en ti, pues acaso no
 
-est escrito, Mirar a aquel que es pobre y humilde de espritu, y que tiembla
+está escrito, “Miraré a aquel que es pobre y humilde de espíritu, y que tiembla
 
 a mi palabra,
 
-y con l morar
+y con él moraré
 
-? No
+”? żNo
 
-eres t esa precisa persona? Yo quisiera que te gozaras con la palabra de Dios,
+eres tú esa precisa persona? Yo quisiera que te gozaras con la palabra de Dios,
 
-pero como no puedes hacerlo, me alegra que tiembles ante ella, pues t eres el
+pero como no puedes hacerlo, me alegra que tiembles ante ella, pues tú eres el
 
-hombre al que Dios ha prometido morar con l.
+hombre al que Dios ha prometido morar con él.
 
-Tiembla a mi palabra,
+“Tiembla a mi palabra”,
 
-afrrate a eso, y cree que el Seor te mira
+aférrate a eso, y cree que el Seńor te mira
 
 y mora contigo.
 
-Qu oracin tan
+ˇQué oración tan
 
-quejumbrosa es esta! Consideren cuidadosamente que este pobre ser dbil,
+quejumbrosa es esta! Consideren cuidadosamente que este pobre ser débil,
 
-humilde y trmulo
+humilde y trémulo
 
 anhela participar de
 
-las bendiciones que el Seor da a Su propio pueblo,
+las bendiciones que el Seńor da a Su propio pueblo,
 
 y del goce que tiene
 
-reservado para ellos. As es como habla: Oigo a muchos cristianos a mi
+reservado para ellos. Así es como habla: “Oigo a muchos cristianos a mi
 
-alrededor que dicen que saben y que estn persuadidos. Oh, que tuviera yo un
+alrededor que dicen que saben y que están persuadidos. Oh, que tuviera yo un
 
 poco de su certeza. Les oigo hablar muy confiadamente, con una seguridad muy plena,
 
-y veo que sus ojos irradian luz cuando hablan acerca de su dulce Seor y Maestro,
+y veo que sus ojos irradian luz cuando hablan acerca de su dulce Seńor y Maestro,
 
-y de todo Su amor por ellos; oh, cunto deseara poder hablar as! Pobre de
+y de todo Su amor por ellos; ˇoh, cuánto desearía poder hablar así! Pobre de
 
-m, yo slo soy capaz de decir: Creo; ayuda mi incredulidad. Los veo sentados
+mí, yo sólo soy capaz de decir: ‘Creo; ayuda mi incredulidad’. Los veo sentados
 
-a una mesa bien provista y parecieran comer opparamente; pero en cuanto a m,
+a una mesa bien provista y parecieran comer opíparamente; pero en cuanto a mí,
 
-me alegra que est escrito que los perrillos comen las migajas que caen de la
+me alegra que esté escrito que los perrillos comen las migajas que caen de la
 
-mesa del Maestro, y si obtengo una migaja de vez en cuando, me sentir feliz
+mesa del Maestro, y si obtengo una migaja de vez en cuando, me sentiré feliz
 
-con eso, aunque deseara poder sentarme y darme un banquete donde lo hacen otros
+con eso, aunque desearía poder sentarme y darme un banquete donde lo hacen otros
 
-hijos de Dios. Oh que pudiera hablar de un extasiado compaerismo, de una
+hijos de Dios. ˇOh que pudiera hablar de un extasiado compańerismo, de una
 
-ntima comunin, de un gozo interior y de una desbordante bienaventuranza! Algunos
+íntima comunión, de un gozo interior y de una desbordante bienaventuranza! Algunos
 
 de ellos me dicen que se sientan en los escalones que dan a la puerta del
 
 cielo, y miran hacia el interior y ven las calles de oro, y que algunas veces
 
-oyen algunas notas extraviadas de las arpas de los bienaventurados en el pas
+oyen algunas notas extraviadas de las arpas de los bienaventurados en el país
 
-lejano. Oh, cmo quisiera sorber esos goces, pues, ay de m, que moro en
+lejano. ˇOh, cómo quisiera sorber esos goces, pues, ay de mí, que moro en
 
-Mesec, y habito entre la tiendas de Cedar!, y la nica msica que oigo es el
+Mesec, y habito entre la tiendas de Cedar!, y la única música que oigo es el
 
 ruido de un mundo pecador y la violas de aquellos que se divierten en el
 
 libertinaje. Echo de menos aquellas cosas preciosas en las que los santos se
 
-deleitan. Pobre corazn doliente, djame decirte, y decir en el nombre de
+deleitan”. Pobre corazón doliente, déjame decirte, y decir en el nombre de
 
-Dios, que si amas a tu Seor, todas las cosas son tuyas.
+Dios, que si amas a tu Seńor, todas las cosas son tuyas.
 
 Son
 
 tuyas para que las disfrutes libremente incluso en este
 
-instante. El Seor no te niega ninguna de las bendiciones del pacto. Atrvete a
+instante. El Seńor no te niega ninguna de las bendiciones del pacto. Atrévete a
 
-apropiarte de los goces sagrados, pues aunque seas el hijo ms pequeo de los
+apropiarte de los goces sagrados, pues aunque seas el hijo más pequeńo de los
 
 hijos de la familia, con todo, la herencia de los hijos de Dios es la misma
 
-para cada uno. No hay ninguna cosa selecta que Dios mantendr alejada de ti.
+para cada uno. No hay ninguna cosa selecta que Dios mantendrá alejada de ti.
 
-No, si hay un bocadillo ms exquisito que otro, est reservado para alguien
+No, si hay un bocadillo más exquisito que otro, está reservado para alguien
 
-como t. Atrvete, entonces. Si fueras el Benjamn de la familia, tendrs la
+como tú. Atrévete, entonces. Si fueras el Benjamín de la familia, tendrás la
 
-porcin de Benjamn que es diez veces ms grande que cualquier otra. l te
+porción de Benjamín que es diez veces más grande que cualquier otra. Él te
 
-confortar y te bendecir. Slo ten buen nimo, y cuando ests orando esto: Acurdate
+confortará y te bendecirá. Sólo ten buen ánimo, y cuando estés orando esto: “Acuérdate
 
-de m, oh Jehov, segn tu benevolencia para con tu pueblo, que tu fe le oiga
+de mí, oh Jehová, según tu benevolencia para con tu pueblo”, que tu fe le oiga
 
-decir: Yo soy tu porcin. Regocjate en el Seor tu Dios. Levanta las manos
+decir: “Yo soy tu porción”. Regocíjate en el Seńor tu Dios. Levanta las manos
 
-cadas y las rodillas paralizadas. Acaso no es mi texto una dulce oracin para
+caídas y las rodillas paralizadas. żAcaso no es mi texto una dulce oración para
 
-ti? rala con fe, y ten paz.
+ti? Órala con fe, y ten paz.
 
 II.
 
 Ahora
 
-vamos a mirar en otra direccin, y vamos a decir que NUESTRO TEXTO ES UNA
+vamos a mirar en otra dirección, y vamos a decir que NUESTRO TEXTO ES UNA
 
-PETICIN ADECUADA PARA UN POBRE PENITENTE EXTRAVIADO. Yo s que hay personas
+PETICIÓN ADECUADA PARA UN POBRE PENITENTE EXTRAVIADO. Yo sé que hay personas
 
-descarriadas aqu; aunque, ay, no estoy seguro de que sean penitentes.
+descarriadas aquí; aunque, ay, no estoy seguro de que sean penitentes.
 
-nicamente el Seor puede leer sus corazones. Pero si son penitentes,
+Únicamente el Seńor puede leer sus corazones. Pero si son penitentes,
 
-difcilmente puedo concebir una peticin ms apropiada para ellos que la que
+difícilmente puedo concebir una petición más apropiada para ellos que la que
 
 tenemos ante nosotros.
 
@@ -428,15 +428,15 @@ siente que
 
 ha olvidado a su Dios.
 
-Lo hecho
+żLo hecho
 
-t?
+tú?
 
-T has sido un miembro de la iglesia, pero tristemente te has descarriado; te
+Tú has sido un miembro de la iglesia, pero tristemente te has descarriado; te
 
-has olvidado de Sus mandamientos. Pensabas que lo amabas. Solas orar en un
+has olvidado de Sus mandamientos. Pensabas que lo amabas. Solías orar en un
 
-tiempo; sentas algn gozo leyendo y oyendo
+tiempo; sentías algún gozo leyendo y oyendo
 
 la Palabra
 
@@ -444,51 +444,53 @@ la Palabra
 
 encuentras tu placer en otra parte. Has abandonado tu primer amor y has ido en
 
-pos de muchos amantes. Pero, oh, si el Seor es clemente contigo, ests
+pos de muchos amantes. Pero, oh, si el Seńor es clemente contigo, estás
 
-lamentando tu olvido, y aunque no lo has recordado, esta oracin brota de tus
+lamentando tu olvido, y aunque no lo has recordado, esta oración brota de tus
 
-labios: Seor, acurdate de m. Bendito sea Su nombre porque l no nos olvida
+labios: “Seńor, acuérdate de mí”. Bendito sea Su nombre porque Él no nos olvida
 
-tan fcilmente como nosotros le olvidamos a l. Si t eres un verdadero
+tan fácilmente como nosotros le olvidamos a Él. Si tú eres un verdadero
 
 penitente extraviado, tus sentimientos de arrepentimiento demuestran que Dios
 
-te recuerda. Es l quien hace que llores y hace que te aflijas por tu pecado.
+te recuerda. Es Él quien hace que llores y hace que te aflijas por tu pecado.
 
-Si Dios te hubiera olvidado por completo no tendras ningn deseo de regresar a
+Si Dios te hubiera olvidado por completo no tendrías ningún deseo de regresar a
 
-l; pero esos tormentos internos, esas angustias secretas, esos deseos de ser
+Él; pero esos tormentos internos, esas angustias secretas, esos deseos de ser
 
-restaurado para el Seor, todas esas cosas comprueban que l te recuerda con el
+restaurado para el Seńor, todas esas cosas comprueban que Él te recuerda con el
 
 favor que tiene para con Su pueblo.
 
 Y, luego, creo que tu
 
-siguiente turbacin ser que
+siguiente turbación será que
 
 sientes que has
 
-perdido tu comunin con Cristo,
+perdido tu comunión con Cristo,
 
-y tienes razn de sentir as, pues Andarn
+y tienes razón de sentir así, pues “żAndarán
 
-dos juntos, si no estuvieren de acuerdo? Cmo podra Cristo tener comunin
+dos juntos, si no estuvieren de acuerdo?” żCómo podría Cristo tener comunión
 
-contigo en los caminos de la necedad? Piensas que Cristo vendra y hablara
+contigo en los caminos de la necedad? żPiensas que Cristo vendría y hablaría
 
-cmodamente contigo mientras fueras frvolo, o mientras fueras inmundo? Toda
+cómodamente contigo mientras fueras frívolo, o mientras fueras inmundo? Toda
 
-dichosa comunin entre tu alma y Dios est rota, y haras bien en orar,
+dichosa comunión entre tu alma y Dios está rota, y harías bien en orar,
 
-pidiendo: Vistame con tu salvacin. Regresa a m, Seor. Ven y mora en m de
+pidiendo: “Visítame con tu salvación. Regresa a mí, Seńor. Ven y mora en mí de
 
 nuevo.
 
-Por qu habran de vagar mis pasiones insensatas?
+‘żPor qué habrían de vagar mis pasiones insensatas?
 
-Dnde pudiera haber esa dulzura
+ż
+
+Dónde pudiera haber esa dulzura
 
 Como la que he probado en Tu amor,
 
@@ -496,47 +498,49 @@ Como la que he encontrado en Ti
 
 ?
 
-Regresa, Seor mo, y
+’
 
-vistame con tu salvacin. Acaso no esta una oracin hecha a propsito para
+Regresa, Seńor mío, y
+
+visítame con tu salvación”. żAcaso no esta una oración hecha a propósito para
 
 ti?
 
-Y a continuacin, se
+Y a continuación, se
 
 observa en el texto que el pobre descarriado
 
-anhela lograr una visin de las cosas buenas que durante mucho tiempo
+anhela lograr una visión de las cosas buenas que durante mucho tiempo
 
-han estado ocultas para l.
+han estado ocultas para él.
 
-Clama: Para que yo vea el bien de tus
+Clama: “Para que yo vea el bien de tus
 
-escogidos. Ha estado afuera entre los puercos, pero no poda llenar su vientre
+escogidos”. Ha estado afuera entre los puercos, pero no podía llenar su vientre
 
 con las algarrobas. Ha estado padeciendo de hambre y sed, y ahora recuerda que
 
-en la casa de su Padre hay abundancia de pan. Alma descarriada, recuerdas eso
+en la casa de su Padre hay abundancia de pan. Alma descarriada, żrecuerdas eso
 
-esta noche? T sabes que no eres feliz, y comienzas a percibir que nunca sers
+esta noche? Tú sabes que no eres feliz, y comienzas a percibir que nunca serás
 
-feliz mientras ests viviendo en el pas lejano. Si no hubieras sido un hijo de
+feliz mientras estés viviendo en el país lejano. Si no hubieras sido un hijo de
 
-Dios habras sido un feliz mundano segn el tipo de felicidad que los mundanos
+Dios habrías sido un feliz mundano según el tipo de felicidad que los mundanos
 
 conocen; pero si has conocido alguna vez el amor de Dios has quedado imposibilitado
 
-de ser un mundano; y t lo
+de ser un mundano; y tú lo
 
 has
 
 conocido,
 
-o de lo contrario habras sido ciertamente un hipcrita. No le pides al Seor
+o de lo contrario habrías sido ciertamente un hipócrita. żNo le pides al Seńor
 
-entre suspiros que te d estas buenas cosas de nuevo? Bien, l te las dar
+entre suspiros que te dé estas buenas cosas de nuevo? Bien, Él te las dará
 
-libremente y no te reprender. Ven y prueba otra vez. l est dispuesto a
+libremente y no te reprenderá. Ven y prueba otra vez. Él está dispuesto a
 
 estrecharte contra Su pecho, y a olvidar y a perdonar el pasado, y a aceptarte
 
@@ -548,83 +552,83 @@ con las palabras de mi texto,
 
 anhela
 
-experimentar una vez ms el gozo que sola sentir,
+experimentar una vez más el gozo que solía sentir,
 
 y, por tanto, dice:
 
-Para que me goce en la alegra de tu nacin; y, tambin,
+“Para que me goce en la alegría de tu nación”; y, también,
 
-quiere ser capaz de hablar como poda hacerlo antes:
+quiere ser capaz de hablar como podía hacerlo antes:
 
-y me glore
+“y me gloríe
 
-en tu heredad. Pobre hombre, ahora le da vergenza hablarles a los pecadores.
+en tu heredad”. Pobre hombre, ahora le da vergüenza hablarles a los pecadores.
 
-Agacha su cabeza cuando est acompaado, pues hay algunos que lo llaman
+Agacha su cabeza cuando está acompańado, pues hay algunos que lo llaman
 
 renegado. No quiere que se sepa que una vez fue cristiano, y, por tanto, llega
 
 a hurtadillas a la asamblea de los santos como si esperara que nadie lo
 
-reconociera. All est, pero se siente medio avergonzado por estar aqu; y, no
+reconociera. Allí está, pero se siente medio avergonzado por estar aquí; y, no
 
-obstante deseara poder estar una vez ms en la hermandad cristiana, y poder
+obstante desearía poder estar una vez más en la hermandad cristiana, y poder
 
-regocijarse con los hermanos. Pobre amigo mo, antes solas ser intrpido como
+regocijarse con los hermanos. Pobre amigo mío, antes solías ser intrépido como
 
-un len por Cristo, y ahora das la media vuelta y huyes. Cmo podras ser
+un león por Cristo, y ahora das la media vuelta y huyes. żCómo podrías ser
 
-intrpido con todas esas inconsistencias? Hubo un tiempo en que habras podido
+intrépido con todas esas inconsistencias? Hubo un tiempo en que habrías podido
 
-ser un mrtir, pero ahora, cun cobarde eres; y nadie se sorprende de que lo
+ser un mártir, pero ahora, cuán cobarde eres; y nadie se sorprende de que lo
 
-seas sabiendo que el pecado secreto ha minado y socavado tu profesin, y te ha
+seas sabiendo que el pecado secreto ha minado y socavado tu profesión, y te ha
 
-hecho dbil como el agua.
+hecho débil como el agua.
 
 Te ruego
 
-que digas esta oracin: Y me glore con tu heredad. Nunca te gloriars de
+que digas esta oración: “Y me gloríe con tu heredad”. Nunca te gloriarás de
 
-nuevo en el Seor mientras no seas restaurado, mientras no regreses de nuevo
+nuevo en el Seńor mientras no seas restaurado, mientras no regreses de nuevo
 
-como viniste la primera vez con el viejo clamor: Padre, he pecado contra el
+como viniste la primera vez con el viejo clamor: “Padre, he pecado contra el
 
-cielo y contra ti, y ya no soy digno de ser llamado tu hijo. Regresa ahora
+cielo y contra ti, y ya no soy digno de ser llamado tu hijo”. Regresa ahora
 
-mismo, hermano mo, y obtn otra aplicacin de la sangre rociada. Mira otra vez
+mismo, hermano mío, y obtén otra aplicación de la sangre rociada. Mira otra vez
 
-a Jess. Ah, y puedo decir aqu -si
+a Jesús. Ah, y puedo decir aquí -si
 
 no
 
-te has descarriado- que mires de nuevo a Jess. Sera bueno que los que no nos
+te has descarriado- que mires de nuevo a Jesús. Sería bueno que los que no nos
 
-hemos extraviado le mirramos a l conjuntamente con nuestros hermanos que se
+hemos extraviado le miráramos a Él conjuntamente con nuestros hermanos que se
 
-han descarriado, pues todos nosotros necesitamos la misma bendicin. Todos nos
+han descarriado, pues todos nosotros necesitamos la misma bendición. Todos nos
 
 hemos descarriado en cierta medida. Vamos, miremos esas amadas heridas de
 
-nuevo. No puedes verle? Me parece que pende delante de m ahora. La corona de
+nuevo. żNo puedes verle? Me parece que pende delante de mí ahora. La corona de
 
-espinas est sobre Su cabeza, y Sus ojos estn llenos de una piedad lnguida y
+espinas está sobre Su cabeza, y Sus ojos están llenos de una piedad lánguida y
 
 de un lloroso dolor. Veo Su rostro embadurnado de salivazos, y negro y azul por
 
 las crueles contusiones. Veo Sus manos que son fuentes de sangre coagulada. Veo
 
-Sus pies, que vierten regueros de sangre carmes. Le veo y clamo: Hubo alguna
+Sus pies, que vierten regueros de sangre carmesí. Le veo y clamo: “żHubo alguna
 
-vez dolor como el tuyo, oh Rey del dolor? Y al tiempo que miro, recuerdo que Dios
+vez dolor como el tuyo, oh Rey del dolor?” Y al tiempo que miro, recuerdo que Dios
 
-puso en l la iniquidad de todo Su pueblo; y, mirando, mi pecado se aparta de m,
+puso en Él la iniquidad de todo Su pueblo; y, mirando, mi pecado se aparta de mí,
 
-porque fue colocado sobre l. Mirando, mi corazn comienza a amar, y luego
+porque fue colocado sobre Él. Mirando, mi corazón comienza a amar, y luego
 
 empieza a saltar. Mirando, regreso otra vez al sitio donde estuve antes; y
 
-ahora, una vez ms, Cristo es mi todo, y yo me gozo en l. Descarriado, has
+ahora, una vez más, Cristo es mi todo, y yo me gozo en Él. Descarriado, żhas
 
 recorrido ese proceso? Si lo has hecho mientras he estado hablando, alabemos
 
@@ -634,97 +638,97 @@ III.
 
 Espero
 
-que el ltimo uso que debo hacer de mi texto sea de provecho para muchas
+que el último uso que debo hacer de mi texto sea de provecho para muchas
 
-personas que estn presentes. Se trata de este: ESTA ES UNA ORACIN MUY DULCE
+personas que están presentes. Se trata de este: ESTA ES UNA ORACIÓN MUY DULCE
 
-PARA UN POBRE BUSCADOR AFLIGIDO. Ruego a todos los que desean la conversin que
+PARA UN POBRE BUSCADOR AFLIGIDO. Ruego a todos los que desean la conversión que
 
-recuerden esta oracin. Sera bueno que la anotaran y que se la llevaran a
+recuerden esta oración. Sería bueno que la anotaran y que se la llevaran a
 
-casa, o, mejor an, que de inmediato la musitaran al cielo.
+casa, o, mejor aún, que de inmediato la musitaran al cielo.
 
-Considrenla bien. Para
+Considérenla bien. Para
 
 comenzar, es
 
-una oracin de un pecador.
+una oración de un pecador.
 
-Acurdate
+“ˇAcuérdate
 
-de m, oh Jehov! Una oracin de un pecador, digo yo, pues el ladrn moribundo
+de mí, oh Jehová!” Una oración de un pecador, digo yo, pues el ladrón moribundo
 
-se goz usando esas palabras. Pobre hombre, l no hubiera podido agacharse para
+se gozó usando esas palabras. Pobre hombre, él no hubiera podido agacharse para
 
-tomar un libro de oracin y decir una colecta (1) cuando se estaba muriendo,
+tomar un libro de oración y decir una ‘colecta’ (1) cuando se estaba muriendo,
 
-y no haba necesidad de que lo hiciera. Esta es la mejor de las oraciones: Seor,
+y no había necesidad de que lo hiciera. Esta es la mejor de las oraciones: “Seńor,
 
-acurdate de m cuando vengas en tu reino. Trmulo pecador, lo que fue vlido
+acuérdate de mí cuando vengas en tu reino”. Trémulo pecador, lo que fue válido
 
-para el ladrn moribundo muy bien puede ser vlido para ti. Mustala ahora:
+para el ladrón moribundo muy bien puede ser válido para ti. Musítala ahora:
 
-Olvida mis pecados, Padre mo, pero recurdame. Olvida mis demoras, olvida mis
+“Olvida mis pecados, Padre mío, pero recuérdame. Olvida mis demoras, olvida mis
 
-rechazos de un Salvador, olvida la dureza de mi corazn, pero, oh, recurdame.
+rechazos de un Salvador, olvida la dureza de mi corazón, pero, oh, recuérdame.
 
 Que todo se aparte de Tu mente, y que sea borrado de Tu memoria; pero, amado
 
-Padre, por el amor del Seor Jess, recurdame. Pecador, no te vayas a casa
+Padre, por el amor del Seńor Jesús, recuérdame”. Pecador, no te vayas a casa
 
-sin ofrecer esa oracin a Dios.
+sin ofrecer esa oración a Dios.
 
-Noten, adems, que es la
+Noten, además, que es la
 
-oracin de
+oración de
 
 un perdido.
 
-Vistame con
+“Visítame con
 
-tu salvacin. Nadie necesita la salvacin a menos que est perdido. La gente
+tu salvación”. Nadie necesita la salvación a menos que esté perdido. La gente
 
-puede hablar acerca de la salvacin pero sin sentir que est perdida pues no
+puede hablar acerca de la salvación pero sin sentir que está perdida pues no
 
-saben nada al respecto, y realmente no la desean. Alma perdida, dnde ests?
+saben nada al respecto, y realmente no la desean. Alma perdida, żdónde estás?
 
-Acaso ests perdida de mil maneras, perdida incluso para la sociedad? Bien, he
+żAcaso estás perdida de mil maneras, perdida incluso para la sociedad? Bien, he
 
-aqu una oracin apropiada para ti: Vistame con tu salvacin. Jesucristo no
+aquí una oración apropiada para ti: “Visítame con tu salvación”. Jesucristo no
 
-vino para buscar y para salvar a quienes no necesitan la salvacin, sino que
+vino para buscar y para salvar a quienes no necesitan la salvación, sino que
 
-vino a propsito para buscar y salvar lo que estaba perdido. T eres el hombre
+vino a propósito para buscar y salvar lo que estaba perdido. Tú eres el hombre
 
-que l vino a bendecir. Mralo a l y encontrars que l es el Salvador que t
+que Él vino a bendecir. Míralo a Él y encontrarás que Él es el Salvador que tú
 
-requieres. Vistame con tu salvacin. Yo no puedo insertar esta oracin en
+requieres. “Visítame con tu salvación”. Yo no puedo insertar esta oración en
 
-sus corazones, pero Dios s puede, y yo estoy orando en mi propia alma pidiendo
+sus corazones, pero Dios sí puede, y yo estoy orando en mi propia alma pidiendo
 
-que muchos de ustedes que estn en los balcones, o por all abajo, clamen
+que muchos de ustedes que están en los balcones, o por allá abajo, clamen
 
-ahora: Vistame con tu salvacin.
+ahora: “Visítame con tu salvación”.
 
-Adems, observen que
+Además, observen que
 
 nuestro texto es
 
-la oracin de alguien
+la oración de alguien
 
-que tiene un ojo dbil,
+que tiene un ojo débil,
 
-Para que yo
+“Para que yo
 
 vea
 
-el bien de tus escogidos. Le hemos dicho al buscador que mire a Jess,
+el bien de tus escogidos”. Le hemos dicho al buscador que mire a Jesús,
 
-pero l se queja diciendo: yo en verdad trato de mirar, pero no puedo ver. Amado
+pero él se queja diciendo: “yo en verdad trato de mirar, pero no puedo ver”. Amado
 
-buscador, hasta donde s no se te pide ver. Se te pide que mires; y si no
+buscador, hasta donde sé no se te pide ver. Se te pide que mires; y si no
 
-pudiste ver cuando miraste, al menos habras obedecido el mandato del
+pudiste ver cuando miraste, al menos habrías obedecido el mandato del
 
 Evangelio.
 
@@ -732,9 +736,9 @@ Mirar, mirar
 
 es lo que
 
-te traera la salvacin. Pero Cristo es
+te traería la salvación. Pero Cristo es
 
-la grandiosa cura para los ojos dbiles. l puede quitar la catarata y suprimir
+la grandiosa cura para los ojos débiles. Él puede quitar la catarata y suprimir
 
 la
 
@@ -742,71 +746,71 @@ gutta serena (2).
 
 Ora diciendo
 
-esta noche: Seor, abre mis ojos ciegos, para que yo vea el bien de tus
+esta noche: “Seńor, abre mis ojos ciegos, para que yo vea el bien de tus
 
-escogidos.
+escogidos”.
 
 Luego, es una
 
-oracin para un corazn afligido.
+oración para un corazón afligido.
 
-Para
+“Para
 
-que me goce en la alegra de tu nacin. El alma que anda buscando gime
+que me goce en la alegría de tu nación”. El alma que anda buscando gime
 
-diciendo: Oh, que tuviera un poco de gozo o siquiera una trmula esperanza. Yo
+diciendo: “Oh, que tuviera un poco de gozo o siquiera una trémula esperanza. Yo
 
-me alegrara aunque fuera con una pequea porcin de luz.
+me alegraría aunque fuera con una pequeńa porción de luz”.
 
 Ora
 
-pidiendo gozo. El Seor espera darlo, y si t crees en Jess, tu gozo ser pleno.
+pidiendo gozo. El Seńor espera darlo, y si tú crees en Jesús, tu gozo será pleno.
 
-Y en ltimo lugar para
+Y en último lugar –para
 
 no retenerlos hasta el cansancio- nuestro texto es
 
-la oracin de un espritu que es humilde y que yace en el propio polvo,
+la oración de un espíritu que es humilde y que yace en el propio polvo,
 
 que clama a Dios para que le capacite a gloriarse en su herencia porque ha
 
-quedado despojado de toda otra gloria, ha quedado vaco de sus propias
+quedado despojado de toda otra gloria, ha quedado vacío de sus propias
 
-jactancias. Prcticamente su splica es: Seor, concdeme que me jacte en Tu
+jactancias. Prácticamente su súplica es: “Seńor, concédeme que me jacte en Tu
 
-misericordia y en Tu benevolencia, pues no tengo nada ms de qu jactarme.
+misericordia y en Tu benevolencia, pues no tengo nada más de qué jactarme”.
 
 Ahora, amado oyente,
 
-quisiera instarte muy fervientemente a que hagas esta oracin, y quisiera instarte
+quisiera instarte muy fervientemente a que hagas esta oración, y quisiera instarte
 
 a que la adoptes por estas razones:
 
-Slo piensa un instante.
+Sólo piensa un instante.
 
-Suponiendo que ests viviendo ahora sin ver el bien de los escogidos de Dios,
+Suponiendo que estás viviendo ahora sin ver el bien de los escogidos de Dios,
 
-sin ser salvo, qu vida tan desgraciada vives! No puedo entender lo que hacen
+sin ser salvo, ˇqué vida tan desgraciada vives! No puedo entender lo que hacen
 
-los hombres sin Dios; no puedo comprender cmo viven. No tienen cuidados,
+los hombres sin Dios; no puedo comprender cómo viven. żNo tienen cuidados,
 
-varones? Oh dices t- tenemos ansiedades en grandes cantidades. Bien,
+varones? “Oh” –dices tú- “tenemos ansiedades en grandes cantidades”. Bien,
 
-adnde las llevas? Yo encuentro que tengo bastantes problemas, pero tengo un
+żadónde las llevas? Yo encuentro que tengo bastantes problemas, pero tengo un
 
-Dios a quien llevrselos. Qu haces t con muchos problemas y sin un Dios? No
+Dios a quien llevárselos. żQué haces tú con muchos problemas y sin un Dios? żNo
 
-turban nunca tu mente tus hijos? Cmo puedes vivir con hijos malos y sin un
+turban nunca tu mente tus hijos? żCómo puedes vivir con hijos malos y sin un
 
-Dios? Nunca pierdes dinero en tu negocio? No te sientes aturdido nunca? No
+Dios? żNunca pierdes dinero en tu negocio? żNo te sientes aturdido nunca? żNo
 
-dices nunca: Qu har? Qu camino debo tomar? Yo supongo que s. Entonces,
+dices nunca: “Qué haré? żQué camino debo tomar? Yo supongo que sí. Entonces,
 
-qu haces sin un ayudador o un gua? Pobre ser dbil como soy, yo corro bajo
+żqué haces sin un ayudador o un guía? Pobre ser débil como soy, yo corro bajo
 
-el abrigo del ala de mi Padre, y all me siento muy seguro. Pero, adnde vas?
+el abrigo del ala de mi Padre, y allí me siento muy seguro. Pero, żadónde vas?
 
-Adnde acudes presuroso? Cul es tu consuelo? Yo supongo que te pareces a las
+żAdónde acudes presuroso? żCuál es tu consuelo? Yo supongo que te pareces a las
 
 pobres criaturas condenadas a muerte en tiempos antiguos a quienes les
 
@@ -814,19 +818,19 @@ proporcionaban una copa con un estupefaciente, de manera que pudieran morir sin
 
 sentir el horror de la muerte; seguramente tienes que estar grandemente
 
-engaado para que puedas creer una mentira, pues si estuvieras en tus cabales no
+engańado para que puedas creer una mentira, pues si estuvieras en tus cabales no
 
-podras pasrtela sin un Dios -no, no con tus hermosos jardines y excelente
+podrías pasártela sin un Dios -no, no con tus hermosos jardines y excelente
 
-parques, y dinero y riquezas, y mucho menos muchos de ustedes- con su pobreza
+parques, y dinero y riquezas, y mucho menos –muchos de ustedes- con su pobreza
 
-y duros trabajos. Pobre hombre sin Dios, cmo mantienes el nimo? Qu
+y duros trabajos. Pobre hombre sin Dios, żcómo mantienes el ánimo? żQué
 
-consuelo hay en tu vida? No haces ninguna oracin por la maana, y ninguna
+consuelo hay en tu vida? No haces ninguna oración por la mańana, y ninguna
 
-oracin por la noche: qu das, qu noches! Oh, varones, yo preferira optar
+oración por la noche: ˇqué días, qué noches! Oh, varones, yo preferiría optar
 
-por vivir sin comer o vivir sin respirar, que vivir sin orar. Espritus
+por vivir sin comer o vivir sin respirar, que vivir sin orar. ˇEspíritus
 
 desnudos y miserables, sus almas tienen que estar sin un Dios que las cubra!
 
@@ -834,139 +838,139 @@ Pero si es malo
 
 vivir
 
-sin Cristo y
+sin Cristo –y
 
-yo estoy seguro que lo es- qu ser
+yo estoy seguro que lo es- żqué será
 
 morir
 
-sin l? Qu ser avizorar el futuro, y no encontrar ninguna luz, sin una
+sin Él? żQué será avizorar el futuro, y no encontrar ninguna luz, sin una
 
 luz y sin nadie que te pueda traer un poco de luz? Has hecho llamar al ministro
 
-y l ha hablado contigo, pero no puede ayudarte; tu familia ha orado por ti, y
+y él ha hablado contigo, pero no puede ayudarte; tu familia ha orado por ti, y
 
-llora ante la idea de perderte, pero t te ests asomando como alguien que
+llora ante la idea de perderte, pero tú te estás asomando como alguien que
 
-contempla un mar embravecido en una tormenta del fro invierno, y no puedes ver
+contempla un mar embravecido en una tormenta del frío invierno, y no puedes ver
 
-nada sino la palpable oscuridad. O, cambiando la metfora, eres como un hombre
+nada sino la palpable oscuridad. O, cambiando la metáfora, eres como un hombre
 
-en aquel naufragio. Mira, l se aferra al mstil; oye la rfaga de viento que
+en aquel naufragio. Mira, él se aferra al mástil; oye la ráfaga de viento que
 
-pasa silbando a su lado y que pronto regresa aullando en torno a l, como si
+pasa silbando a su lado y que pronto regresa aullando en torno a él, como si
 
-estuviese hambrienta de su presa. Puede or a las gaviotas chillando en el
+estuviese hambrienta de su presa. Puede oír a las gaviotas chillando en el
 
-cielo y ellas parecen profetizar su perdicin. Las olas rompen sobre l,
+cielo y ellas parecen profetizar su perdición. Las olas rompen sobre él,
 
-remojndolo con su agua salobre, hasta que queda a punto de congelarse mientras
+remojándolo con su agua salobre, hasta que queda a punto de congelarse mientras
 
 pende entre las terribles fauces de la muerte. El bote salvavidas ya fue
 
-utilizado y se ha llevado a todos los que poda, y no regresar jams; y aunque
+utilizado y se ha llevado a todos los que podía, y no regresará jamás; y aunque
 
-se aferra con desesperacin sabe que es una esperanza vana. Seguir a la deriva
+se aferra con desesperación sabe que es una esperanza vana. Seguirá a la deriva
 
-en el mar, y su cadver permanecer donde yacen las perlas en lo profundo, en
+en el mar, y su cadáver permanecerá donde yacen las perlas en lo profundo, en
 
-las cavernas donde miles de esqueletos se han blanqueado todos estos aos; su
+las cavernas donde miles de esqueletos se han blanqueado todos estos ańos; su
 
-caso es terrible en grado sumo, y sin embargo, es un dbil cuadro de un alma
+caso es terrible en grado sumo, y sin embargo, es un débil cuadro de un alma
 
-que abandona el cuerpo sin un inters en la salvacin de Cristo. Antes de que
+que abandona el cuerpo sin un interés en la salvación de Cristo. Antes de que
 
-entres en ese estado, clama a Dios diciendo: Acurdate de m, oh Jehov, segn
+entres en ese estado, clama a Dios diciendo: “Acuérdate de mí, oh Jehová, según
 
-tu benevolencia para con tu pueblo; vistame con tu salvacin!
+tu benevolencia para con tu pueblo; ˇvisítame con tu salvación!”
 
 Pero la niebla se
 
 oscurece y la tempestad reduce diez veces su furia cuando nos ponemos a pensar
 
-qu cosa ha de ser resucitar de la tumba sin Cristo. Cuando el ltimo clarn
+qué cosa ha de ser resucitar de la tumba sin Cristo. Cuando el último clarín
 
 estridente haya sonado y cada tumba y cada cementerio hayan entregado a sus
 
-durmientes, y el mar haya devuelto a los muertos que estn en su interior, y
+durmientes, y el mar haya devuelto a los muertos que están en su interior, y
 
-los campos de batalla rebosen con las miradas de muertos que viven de nuevo, y
+los campos de batalla rebosen con las miríadas de muertos que viven de nuevo, y
 
-en el cielo se vea el grandioso trono blanco, y en l al Hijo del hombre que se
+en el cielo se vea el grandioso trono blanco, y en él al Hijo del hombre que se
 
-desangr por los pecadores, que viene ahora para juzgar y para condenar a Sus
+desangró por los pecadores, que viene ahora para juzgar y para condenar a Sus
 
-adversarios; qu harn los hombres si no tienen ninguna religin personal,
+adversarios; żqué harán los hombres si no tienen ninguna religión personal,
 
-ningn inters en Cristo, ninguna porcin en Su salvacin?
+ningún interés en Cristo, ninguna porción en Su salvación?
 
 La Escritura
 
 nos dice que
 
-les pedirn a las rocas que los escondan y a los montes que los cubran; pero
+les pedirán a las rocas que los escondan y a los montes que los cubran; pero
 
-ellos no tienen entraas de compasin, y no les ofrecern ningn abrigo. No
+ellos no tienen entrańas de compasión, y no les ofrecerán ningún abrigo. No
 
-habr ningn refugio para los impos, y nada ante ellos excepto la fiera
+habrá ningún refugio para los impíos, y nada ante ellos excepto la fiera
 
-indignacin y la ira de Dios. Volveos, volveos por qu moriris, oh casa de
+indignación y la ira de Dios. “Volveos, volveos… żpor qué moriréis, oh casa de
 
-Israel?
+Israel?”
 
-Esta gran reunin en el
+Esta gran reunión en el
 
-Tabernculo es una escena comn para muchos de ustedes. He de confesar que no
+Tabernáculo es una escena común para muchos de ustedes. He de confesar que no
 
-puedo contemplarla sin emocin, aunque la contemplo dos veces cada da domingo.
+puedo contemplarla sin emoción, aunque la contemplo dos veces cada día domingo.
 
-Aqu estn todos ustedes, y yo, un hombre solitario, de pie aqu para hablarles
+Aquí están todos ustedes, y yo, un hombre solitario, de pie aquí para hablarles
 
 a ustedes en el nombre de Dios.
 
-Ser denodado con ustedes vale para m tanto como
+Ser denodado con ustedes vale para mí tanto como
 
 mi alma;
 
 pero, ah, yo no soy ni la mitad de denodado de lo que
 
-debera ser. Con todo, iganme una vez ms. Yo soy un verdadero profeta en esta
+debería ser. Con todo, óiganme una vez más. Yo soy un verdadero profeta en esta
 
-hora: cuando les advierto de nuevo que vern este espectculo si rechazan al
+hora: cuando les advierto de nuevo que verán este espectáculo si rechazan al
 
-Salvador. A travs de las llamas del infierno lo vern, y se dirn a ustedes mismos:
+Salvador. A través de las llamas del infierno lo verán, y se dirán a ustedes mismos:
 
-El predicador efectivamente nos advirti: l nos dijo que clamramos a Dios
+“El predicador efectivamente nos advirtió: él nos dijo que clamáramos a Dios
 
-pidiendo misericordia; l nos indic al Salvador. Nos pidi que orramos, y que
+pidiendo misericordia; él nos indicó al Salvador. Nos pidió que oráramos, y que
 
-orramos all mismo. Ustedes recordarn mis splicas, y entonces renovarn su
+oráramos allí mismo”. Ustedes recordarán mis súplicas, y entonces renovarán su
 
-agona cuando, con un alarido que ser interminable, clamarn diciendo: Dios
+agonía cuando, con un alarido que será interminable, clamarán diciendo: “Dios
 
-llam, pero yo rehus; l extendi Sus manos, pero yo no lo tom en cuenta, y
+llamó, pero yo rehusé; Él extendió Sus manos, pero yo no lo tomé en cuenta, y
 
-ahora ha pasado el da de gracia, y el Cristo a quien yo despreci se re de mi
+ahora ha pasado el día de gracia, y el Cristo a quien yo desprecié se ríe de mi
 
 calamidad y se burla cuando llega mi tiempo: pues no hay ninguna esperanza,
 
-ninguna esperanza. Toqu demasiado tarde a la puerta de la misericordia. Mi
+ninguna esperanza. Toqué demasiado tarde a la puerta de la misericordia. Mi
 
-lmpara se apag. Fui una virgen necia, y me he quedado afuera en las tinieblas
+lámpara se apagó. Fui una virgen necia, y me he quedado afuera en las tinieblas
 
-exteriores, donde hay llanto y lamentos y crujir de dientes. En el nombre del
+exteriores, donde hay llanto y lamentos y crujir de dientes”. En el nombre del
 
-Dios eterno yo les ruego que se sometan de inmediato a Cristo, su Seor, y
+Dios eterno yo les ruego que se sometan de inmediato a Cristo, su Seńor, y
 
-vivirn. Amn. Amn.
+vivirán. Amén. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Salmo 51.
+del sermón: Salmo 51.
 
 Notas del traductor:
 
@@ -982,7 +986,7 @@ amaurosis, ceguera en la cual no se encuentra defecto o irregularidad alguna en
 
 el ojo.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 14/Noviembre/2013
 

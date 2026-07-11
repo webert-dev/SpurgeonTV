@@ -1,16 +1,16 @@
 # Sermón 2219 | Sermón 2219
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Un Arpa de Diez
 
 Cuerdas
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -18,95 +18,95 @@ Y SELECCIONADO PARA LECTURA EL 30 DE AGOSTO DE
 
 1891.
 
-Entonces
+“Entonces
 
-Mara dijo: Engrandece mi alma al Seor; y mi espritu se regocija en Dios mi
+María dijo: Engrandece mi alma al Seńor; y mi espíritu se regocija en Dios mi
 
-Salvador. Lucas 1: 46, 47.
+Salvador”. Lucas 1: 46, 47.
 
-Es evidente que Mara no
+Es evidente que María no
 
 estaba empezando algo nuevo, pues ella habla usando el tiempo presente, y en un
 
 tiempo que pareciera haber sido un presente durante un extenso lapso:
 
-Engrandece mi alma al Seor. Desde que recibi las maravillosas nuevas de la
+“Engrandece mi alma al Seńor”. Desde que recibió las maravillosas nuevas de la
 
-eleccin que Dios hizo de ella para su excelsa posicin, comenz a engrandecer
+elección que Dios hizo de ella para su excelsa posición, comenzó a engrandecer
 
-al Seor; y una vez que un alma tiene un profundo sentido de la misericordia de
+al Seńor; y una vez que un alma tiene un profundo sentido de la misericordia de
 
 Dios y comienza a engrandecerle, no cesa de hacerlo. Es algo que crece por lo
 
-que lo alimenta: entre ms engrandeces a Dios, ms puedes engrandecerlo. Entre
+que lo alimenta: entre más engrandeces a Dios, más puedes engrandecerlo. Entre
 
-ms alto te posiciones, ves mejor; tu visin de Dios es incrementada en alcance;
+más alto te posiciones, ves mejor; tu visión de Dios es incrementada en alcance;
 
-y si bien le alababas un poco cuando estabas al pie del monte, entre ms te
+y si bien le alababas un poco cuando estabas al pie del monte, entre más te
 
-aproximas a la cima de Su bondad suma, cantas con ms fuerza y tu alma
+aproximas a la cima de Su bondad suma, cantas con más fuerza y tu alma
 
-engrandece al Seor ms plena y exultantemente.
+engrandece al Seńor más plena y exultantemente.
 
-Engrandece mi alma al
+“Engrandece mi alma al
 
-Seor. Qu significa eso? El significado usual de la palabra engrandecer
+Seńor”. żQué significa eso? El significado usual de la palabra “engrandecer”
 
 es: agrandar, o hacer que algo parezca grande. Cuando usamos el microscopio,
 
-decimos que magnifica al objeto un x nmero de veces. El insecto sigue siendo la
+decimos que magnifica al objeto un x número de veces. El insecto sigue siendo la
 
-misma cosa pequea y diminuta, pero es aumentado para que podamos percibirlo.
+misma cosa pequeńa y diminuta, pero es aumentado para que podamos percibirlo.
 
-La palabra es muy apropiada en este contexto. No podemos hacer que Dios sea ms
+La palabra es muy apropiada en este contexto. No podemos hacer que Dios sea más
 
-grande de lo que es. Tampoco podemos tener ninguna concepcin de Su grandeza
+grande de lo que es. Tampoco podemos tener ninguna concepción de Su grandeza
 
-real. l est infinitamente por encima de nuestros ms altos pensamientos.
+real. Él está infinitamente por encima de nuestros más altos pensamientos.
 
 Cuando meditamos en Sus atributos:
 
-El supremo esfuerzo de la imaginacin
+“El supremo esfuerzo de la imaginación
 
-Se extingue en asombro.
+Se extingue en asombro”.
 
 Pero nosotros lo
 
-engrandecemos teniendo concepciones ms elevadas, ms grandes y ms verdaderas
+engrandecemos teniendo concepciones más elevadas, más grandes y más verdaderas
 
-con respecto a l, dando a conocer Sus poderosos actos y exaltando Su glorioso
+con respecto a Él, dando a conocer Sus poderosos actos y exaltando Su glorioso
 
-nombre, de tal manera que otros, tambin, puedan exaltarlo en sus pensamientos.
+nombre, de tal manera que otros, también, puedan exaltarlo en sus pensamientos.
 
-Eso es lo que Mara haca: ella era una mujer que en los aos siguientes sola
+Eso es lo que María hacía: ella era una mujer que en los ańos siguientes solía
 
-entregarse a la meditacin. Quienes oyeron lo que decan los pastores en cuanto
+entregarse a la meditación. Quienes oyeron lo que decían los pastores en cuanto
 
-al santo nio Jess, se maravillaban; pero Mara guardaba todas estas cosas,
+al santo nińo Jesús, se maravillaban; pero “María guardaba todas estas cosas,
 
-meditndolas en su corazn. Ellos se maravillaban y Mara meditaba. Son dos
+meditándolas en su corazón”. Ellos se maravillaban y María meditaba. Son dos
 
 verbos que marcan una gran diferencia en cuanto a la actitud del alma, un
 
-cambio que va de un vago destello de inters a una profunda atencin de corazn
+cambio que va de un vago destello de interés a una profunda atención de corazón
 
 (1). Ella ponderaba; ella sopesaba el asunto; le daba vueltas en su mente;
 
-reflexionaba al respecto; estimaba su vala y resultado. Era ella como aquella
+reflexionaba al respecto; estimaba su valía y resultado. Era ella como aquella
 
-otra Mara, una mujer meditativa que poda aguardar quietamente a los pies de
+otra María, una mujer meditativa que podía aguardar quietamente a los pies de
 
-su Seor para or las agraciadas palabras y sorberlas con una fe anhelante.
+su Seńor para oír las agraciadas palabras y sorberlas con una fe anhelante.
 
 Estar a solas de esa
 
-manera y engrandecer al Seor en sus propios corazones no es ninguna ocupacin ociosa;
+manera y engrandecer al Seńor en sus propios corazones no es ninguna ocupación ociosa;
 
-hacerlo a l grandioso para sus mentes, para sus afectos; hacerlo a l
+hacerlo a Él grandioso para sus mentes, para sus afectos; hacerlo a Él
 
-grandioso en su memoria y grandioso en sus expectativas. Ese es uno de los ms
+grandioso en su memoria y grandioso en sus expectativas. Ese es uno de los más
 
-grandiosos ejercicios de la naturaleza renovada. En un momento as no necesitas
+grandiosos ejercicios de la naturaleza renovada. En un momento así no necesitas
 
 pensar en los asuntos profundos de
 
@@ -114,187 +114,187 @@ la Escritura
 
 , y puedes dejar las doctrinas abstrusas
 
-para las cabezas ms sabias, si quieres; pero si tu propia alma est empeada
+para las cabezas más sabias, si quieres; pero si tu propia alma está empeńada
 
-en magnificar a Dios para tu propia percepcin, estaras dedicndole un tiempo
+en magnificar a Dios para tu propia percepción, estarías dedicándole un tiempo
 
-a una de las ocupaciones ms benficas posibles para un hijo de Dios. Puedes
+a una de las ocupaciones más benéficas posibles para un hijo de Dios. Puedes
 
 estar seguro de que hay incontables influencias santas que fluyen del hecho de
 
-guardar habitualmente grandes pensamientos acerca de Dios, as como hay
+guardar habitualmente grandes pensamientos acerca de Dios, así como hay
 
-incalculables males que fluyen de nuestros pensamientos rastreros acerca de l.
+incalculables males que fluyen de nuestros pensamientos rastreros acerca de Él.
 
-Menospreciar a Dios es la raz de la falsa teologa, y la esencia de la
+Menospreciar a Dios es la raíz de la falsa teología, y la esencia de la
 
-verdadera teologa es engrandecer a Dios, magnificarlo, y agrandar nuestras
+verdadera teología es engrandecer a Dios, magnificarlo, y agrandar nuestras
 
 concepciones de Su majestad y de Su gloria a un grado supremo.
 
 Pero, al engrandecer al
 
-Seor, Mara no tena meramente la intencin de enaltecerlo en sus propios
+Seńor, María no tenía meramente la intención de enaltecerlo en sus propios
 
-pensamientos; siendo una verdadera poetisa, se propona magnificar al Seor con
+pensamientos; siendo una verdadera poetisa, se proponía magnificar al Seńor con
 
 sus palabras. No, debo rectificar lo dicho; no se
 
-propona
+proponía
 
-hacerlo; lo haba estado haciendo todo el tiempo, lo
+hacerlo; lo había estado haciendo todo el tiempo, lo
 
-estaba haciendo cuando lleg, jadeante y sin aliento, a la casa de su prima Elisabet.
+estaba haciendo cuando llegó, jadeante y sin aliento, a la casa de su prima Elisabet.
 
-Ella dijo: Engrandece mi alma al Seor. Estoy ahora en una condicin tan
+Ella dijo: “Engrandece mi alma al Seńor. Estoy ahora en una condición tan
 
 favorecida que no puedo abrir mi boca para hablarte, Elisabet, sin hablar de mi
 
-Seor. Mi alma pareciera ahora llena de pensamientos acerca de l. Debo hablar,
+Seńor. Mi alma pareciera ahora llena de pensamientos acerca de Él. Debo hablar,
 
 antes que nada, acerca de
 
-l,
+Él,
 
 y decir
 
 las cosas de Su gracia y Su poder que pudieran ayudarte aun a ti, mi buena
 
-hermana mayor, a concebir pensamientos de Dios an ms grandes de los que hayas
+hermana mayor, a concebir pensamientos de Dios aún más grandes de los que hayas
 
-pensado jams. Engrandece mi alma al Seor.
+pensado jamás. Engrandece mi alma al Seńor”.
 
 Debemos recordar el
 
-hecho de que Mara fue altamente distinguida y honrada. Ninguna otra mujer fue
+hecho de que María fue altamente distinguida y honrada. Ninguna otra mujer fue
 
-bendecida jams como ella lo fue; tal vez ninguna otra habra podido sobrellevar
+bendecida jamás como ella lo fue; tal vez ninguna otra habría podido sobrellevar
 
 el honor que fue puesto sobre ella: ser la madre de la naturaleza humana de
 
-nuestro Salvador. Era el honor ms excelso posible que pudiera ser brindado a mortal
+nuestro Salvador. Era el honor más excelso posible que pudiera ser brindado a mortal
 
-alguno, y el Seor saba dnde encontrar a una mujer candorosa y humilde a
+alguno, y el Seńor sabía dónde encontrar a una mujer candorosa y humilde a
 
-quien pudiera confirsele un tal don en el tiempo sealado, y, con todo, que no
+quien pudiera confiársele un tal don en el tiempo seńalado, y, con todo, que no
 
-buscara hurtarle Su gloria. Ella no es altiva; no, pero un corazn falso le
+buscara hurtarle Su gloria. Ella no es altiva; no, pero un corazón falso le
 
 roba los ingresos a Dios, y compra con ellos la copa intoxicante de la
 
-autocongratulacin. Entre ms da Dios a un corazn verdadero, ese corazn le da
+autocongratulación. Entre más da Dios a un corazón verdadero, ese corazón le da
 
-ms a l. Como la barca de Pedro que entre ms cargada de peces se encontraba ms
+más a Él. Como la barca de Pedro que entre más cargada de peces se encontraba más
 
-se hunda en las aguas, los verdaderos hijos de Dios se hunden en su propia
+se hundía en las aguas, los verdaderos hijos de Dios se hunden en su propia
 
-estima en la proporcin en que son honrados por su Seor. Cuando Dios nos otorga
+estima en la proporción en que son honrados por su Seńor. Cuando Dios nos otorga
 
 los dones conjuntamente con Su gracia, no nos ensoberbecen: nos edifican. Una modesta
 
-y humilde opinin de nosotros mismos se suma a una mayor estimacin de l.
+y humilde opinión de nosotros mismos se suma a una mayor estimación de Él.
 
-Entre ms te da Dios, ms lo magnificas a l y no a ti mismo. sta debe ser tu
+Entre más te da Dios, más lo magnificas a Él y no a ti mismo. Ésta debe ser tu
 
-regla: Es necesario que l crezca, pero que yo menge. S t menos y menos.
+regla: “Es necesario que él crezca, pero que yo mengüe”. Sé tú menos y menos.
 
-S t la humilde sierva del Seor, y con todo, osada y confiada en tu alabanza
+Sé tú la humilde sierva del Seńor, y con todo, osada y confiada en tu alabanza
 
 de Aquel que ha hecho grandes cosas por ti. A partir de ahora y por siempre,
 
-sta ha de ser la descripcin de tu vida: Engrandece mi alma al Seor; no
+ésta ha de ser la descripción de tu vida: “Engrandece mi alma al Seńor; no
 
-tengo otra cosa que hacer excepto engrandecerlo a l, y regocijarme en Dios mi
+tengo otra cosa que hacer excepto engrandecerlo a Él, y regocijarme en Dios mi
 
-Salvador.
+Salvador”.
 
 Si intentara predicar
 
-sobre cada una de las partes del cntico de Mara podra emplear toda una
+sobre cada una de las partes del cántico de María podría emplear toda una
 
-semana benficamente; pero con un propsito enteramente diferente a la vista,
+semana benéficamente; pero con un propósito enteramente diferente a la vista,
 
-voy a presentarlo como un todo. Al poner ante ustedes este
+voy a presentarlo como un todo. Al poner ante ustedes este ‘
 
 decacordio
 
-,
+’,
 
-voy a pedirles, slo por un par de minutos, que pongan sus dedos sobre cada una
+voy a pedirles, sólo por un par de minutos, que pongan sus dedos sobre cada una
 
-de sus cuerdas conforme sean indicadas, y procuren despertar alguna meloda
+de sus cuerdas conforme sean indicadas, y procuren despertar alguna melodía
 
-para alabanza del grandioso Rey, alguna armona en Su honor; procuren, en esta
+para alabanza del grandioso Rey, alguna armonía en Su honor; procuren, en esta
 
-buena hora, engrandecer al Seor y regocijarse en Dios su Salvador.
+buena hora, engrandecer al Seńor y regocijarse en Dios su Salvador.
 
-Lutero sola decir que
+Lutero solía decir que
 
 la gloria de
 
 la Escritura
 
-deba ser encontrada en los pronombres; y eso es ciertamente vlido en cuanto
+debía ser encontrada en los pronombres; y eso es ciertamente válido en cuanto
 
-al texto. Miren su toque personal, cmo se repite una y otra vez! Engrandece
-
-mi
-
-alma al Seor, y
+al texto. ˇMiren su toque personal, cómo se repite una y otra vez! “Engrandece
 
 mi
 
-espritu se regocija en Dios
+alma al Seńor, y
 
 mi
 
-Salvador.
+espíritu se regocija en Dios
+
+mi
+
+Salvador”.
 
 En uno de los festivales
 
-del orfanato, expres ante nuestros muchos amigos que se encontraban reunidos,
+del orfanato, expresé ante nuestros muchos amigos que se encontraban reunidos,
 
-varias razones por las que todo el mundo debera contribuir al sostenimiento de
+varias razones por las que todo el mundo debería contribuir al sostenimiento de
 
-los nios; en verdad, dije, nadie debera salir del lugar sin donar algo. Me
+los nińos; en verdad, dije, nadie debería salir del lugar sin donar algo. Me
 
-sorprendi un hermano que no tena nada de dinero pero que me trajo su reloj y
+sorprendió un hermano que no tenía nada de dinero pero que me trajo su reloj y
 
-su cadena. Oh le dije- no me des eso; esos objetos se venden por muy poco
+su cadena. “Oh” –le dije- “no me des eso; esos objetos se venden por muy poco
 
-dinero comparado con su valor real; pero l insisti en que me quedara con
+dinero comparado con su valor real”; pero él insistió en que me quedara con
 
-ellos, y me dijo: Los voy a redimir maana, pero no puedo irme sin dar algo
+ellos, y me dijo: “Los voy a redimir mańana, pero no puedo irme sin dar algo
 
-ahora. Cun contento estara si cada hijo de Dios aqu presente fuera
+ahora”. Cuán contento estaría si cada hijo de Dios aquí presente fuera
 
-igualmente devoto en la adoracin, y dijera: yo voy a ofrecer a Dios alguna
+igualmente devoto en la adoración, y dijera: “yo voy a ofrecer a Dios alguna
 
-alabanza en este servicio: voy a extraer msica de algunas de esas cuerdas; tal
+alabanza en este servicio: voy a extraer música de algunas de esas cuerdas; tal
 
-vez la extraiga de todas ellas. Voy a esforzarme con todo mi corazn para
+vez la extraiga de todas ellas. ˇVoy a esforzarme con todo mi corazón para
 
-decir, en algn punto del sermn, y siguiendo algn punto de vista, Engrandece
+decir, en algún punto del sermón, y siguiendo algún punto de vista, ‘Engrandece
 
-mi alma al Seor! Acaso te oigo susurrar: Mi alma est muy apesadumbrada? Anmala,
+mi alma al Seńor’!” żAcaso te oigo susurrar: “Mi alma está muy apesadumbrada”? Anímala,
 
-entonces, alabando al Seor; comienza un Salmo, incluso si al principio la
+entonces, alabando al Seńor; comienza un Salmo, incluso si al principio la
 
-meloda tuviere que estar en un tono menor; pronto el acorde cambiar, y el
+melodía tuviere que estar en un tono menor; pronto el acorde cambiará, y el
 
-Miserere se convertir en un Coro de Aleluya.
+“Miserere” se convertirá en un “Coro de Aleluya”.
 
 I.
 
 La
 
-primera cuerda que Mara pareciera tocar, y que yo confo que nosotros tambin
+primera cuerda que María pareciera tocar, y que yo confío que nosotros también
 
-podamos alcanzar con la mano de la fe, es la del GRAN GOZO QUE HAY EN EL SEOR.
+podamos alcanzar con la mano de la fe, es la del GRAN GOZO QUE HAY EN EL SEŃOR.
 
-Engrandece mi alma al Seor; y mi espritu se regocija en Dios mi Salvador.
+“Engrandece mi alma al Seńor; y mi espíritu se regocija en Dios mi Salvador”.
 
-Bendigamos a Dios porque la nuestra no es una religin lbrega. No s de ningn
+Bendigamos a Dios porque la nuestra no es una religión lóbrega. No sé de ningún
 
 mandamiento en ninguna parte en
 
@@ -302,59 +302,59 @@ la
 
 Escritura
 
-que diga: Gemid en el Seor siempre. Otra vez
+que diga: “Gemid en el Seńor siempre. Otra vez
 
-digo: Gemid! Por la conducta de algunas personas casi podramos imaginar que
+digo: ˇGemid!” Por la conducta de algunas personas casi podríamos imaginar que
 
-tienen que haber alterado su Nuevo Testamento en ese pasaje especfico,
+tienen que haber alterado su Nuevo Testamento en ese pasaje específico,
 
-cambiando tristemente la gloria del versculo original: Regocijaos en el Seor
+cambiando tristemente la gloria del versículo original: “Regocijaos en el Seńor
 
-siempre. Otra vez digo: Regocijaos! Lo primero que conoc jams de Cristo mi
+siempre. Otra vez digo: ˇRegocijaos!” Lo primero que conocí jamás de Cristo mi
 
-Seor, verdaderamente, fue cuando me descubr al pie de la cruz y comprob que
+Seńor, verdaderamente, fue cuando me descubrí al pie de la cruz y comprobé que
 
-la gran carga que me aplastaba haba sido suprimida eficazmente. La busqu en
+la gran carga que me aplastaba había sido suprimida eficazmente. La busqué en
 
-torno mo y me preguntaba dnde podra estar y, he aqu, iba rodando hacia Su
+torno mío y me preguntaba dónde podría estar y, ˇhe aquí, iba rodando hacia Su
 
-sepulcro! No la he visto nunca ms desde entonces, bendito sea Su nombre, ni
+sepulcro! ˇNo la he visto nunca más desde entonces, bendito sea Su nombre, ni
 
-quiero verla jams! Recuerdo muy bien los brincos de gozo que d cuando por
+quiero verla jamás! Recuerdo muy bien los brincos de gozo que dí cuando por
 
-primera vez descubr que toda mi carga de culpa haba sido llevada por l, y
+primera vez descubrí que toda mi carga de culpa había sido llevada por Él, y
 
 que estaba enterrada ahora en las profundidades de Su sepulcro.
 
-Muchos das han pasado desde entonces;
+“Muchos días han pasado desde entonces;
 
-Muchos cambios he visto!
+ˇMuchos cambios he visto!”
 
-He ido a muchsimos
+He ido a muchísimos
 
-pozos a sacar agua, pero una vez que la hube sacado y probado, result ser
+pozos a sacar agua, pero una vez que la hube sacado y probado, resultó ser
 
 salobre como las aguas de Mara; pero siempre que me he acercado a este pozo
 
-mi Dios, mi Salvador- nunca he sacado una sola gota que no fuera dulce y
+–“mi Dios, mi Salvador”- nunca he sacado una sola gota que no fuera dulce y
 
-refrescante. Aquel que verdaderamente conoce a Dios tiene que alegrarse en l;
+refrescante. Aquel que verdaderamente conoce a Dios tiene que alegrarse en Él;
 
-habitar en Su casa es seguir alabndolo; s, podemos exultarnos en l a lo
+habitar en Su casa es seguir alabándolo; sí, podemos exultarnos en Él a lo
 
-largo de todo el da. Una palabra muy notable es la que se encuentra en boca de
+largo de todo el día. Una palabra muy notable es la que se encuentra en boca de
 
-David: el Dios de mi alegra y de mi gozo. Otras cosas pueden proporcionarnos
+David: “el Dios de mi alegría y de mi gozo”. Otras cosas pueden proporcionarnos
 
 placer; podemos ser felices con los dones de Dios, y con Sus criaturas, pero
 
-Dios mismo, el manantial de todos nuestros gozos, es ms grande que todos
+Dios mismo, el manantial de todos nuestros gozos, es más grande que todos
 
-ellos. Por tanto, Delitate asimismo en Jehov. Ese es el mandamiento; y no
+ellos. Por tanto, “Deléitate asimismo en Jehová”. Ese es el mandamiento; ży no
 
 es acaso un mandamiento encantador? Que nadie diga que la fe del cristiano no
 
-debe ser exultante; debe ser un deleite; y Dios desea que nos regocijemos en l,
+debe ser exultante; debe ser un deleite; y Dios desea que nos regocijemos en Él,
 
 tan grandemente, que al mandamiento le
 
@@ -362,89 +362,89 @@ agrega
 
 una
 
-promesa, Y l te conceder las peticiones de tu corazn. Qu religin es la
+promesa, “Y él te concederá las peticiones de tu corazón”. ˇQué religión es la
 
 nuestra, en la que el deleite se convierte en un deber, y en la que ser felices
 
-es ser obedientes a un mandamiento! Las religiones paganas no slo exigen
+es ser obedientes a un mandamiento! Las religiones paganas no sólo exigen
 
-abnegaciones de un tipo apropiado, sino tambin torturas que los hombres
+abnegaciones de un tipo apropiado, sino también torturas que los hombres
 
 inventan para acostumbrarse a la desventura; pero en nuestra santa fe, si nos
 
-mantenemos cerca de Cristo, aunque es cierto que cargamos con la cruz, tambin
+mantenemos cerca de Cristo, aunque es cierto que cargamos con la cruz, también
 
 es cierto que la cruz deja de ser una tortura; de hecho, sucede con frecuencia
 
 que ella carga con nosotros a la vez que nosotros cargamos con ella; en el
 
-servicio de nuestro Seor descubrimos que su yugo es fcil, y ligera su
+servicio de nuestro Seńor descubrimos que “su yugo es fácil, y ligera su
 
-carga, y es extrao decirlo, pero Su carga nos da descanso y Su yugo nos da
+carga”, y es extrańo decirlo, pero Su carga nos da descanso y Su yugo nos da
 
-libertad. Nunca hemos recibido nada de nuestro Seor que no haya tendido
+libertad. Nunca hemos recibido nada de nuestro Seńor que no haya tendido
 
-finalmente a nuestro gozo. Incluso cuando Su vara nos ha llevado a dolernos, l
+finalmente a nuestro gozo. Incluso cuando Su vara nos ha llevado a dolernos, Él
 
-ha tenido el propsito de que obre para nuestro bien, y as lo ha hecho.
+ha tenido el propósito de que obre para nuestro bien, y así lo ha hecho.
 
-Albenlo, entonces, por tal bondad.
+Alábenlo, entonces, por tal bondad.
 
 La nuestra es una
 
-religin de santo gozo, especialmente en relacin a nuestro Salvador. Entre ms
+religión de santo gozo, especialmente en relación a nuestro Salvador. Entre más
 
-comprendemos esa gloriosa palabra: Salvador, ms dispuestos estamos a danzar
+comprendemos esa gloriosa palabra: “Salvador”, más dispuestos estamos a danzar
 
-con deleite. Mi espritu se regocija en Dios
+con deleite. “Mi espíritu se regocija en Dios
 
-mi Salvador.
+mi Salvador”.
 
 Las nuevas de gran gozo nos han llegado, y conforme
 
-nosotros, por Su gracia, las hemos credo, l nos ha salvado del pecado y de la
+nosotros, por Su gracia, las hemos creído, Él nos ha salvado del pecado y de la
 
-muerte y del infierno. l no ha prometido simplemente hacerlo algn da, sino
+muerte y del infierno. Él no ha prometido simplemente hacerlo algún día, sino
 
-que lo ha hecho y hemos sido salvados. Es ms, muchos de nosotros hemos entrado
+que lo ha hecho y hemos sido salvados. Es más, muchos de nosotros hemos entrado
 
-en el reposo por la fe en l; la salvacin es para nosotros una experiencia
+en el reposo por la fe en Él; la salvación es para nosotros una experiencia
 
-presente en esta hora, aunque esperamos todava que su plenitud sea revelada en
+presente en esta hora, aunque esperamos todavía que su plenitud sea revelada en
 
 el mundo venidero.
 
-Oh, vamos,
+ˇOh, vamos,
 
-regocijmonos en nuestro Salvador! Dmosle gracias porque tenemos tantas cosas
+regocijémonos en nuestro Salvador! Démosle gracias porque tenemos tantas cosas
 
-por las cuales darle gracias. Alabmosle porque hay tantas cosas de las que
+por las cuales darle gracias. Alabémosle porque hay tantas cosas de las que
 
-podemos regocijarnos; es ms, tantas cosas de las que tenemos que regocijarnos.
+podemos regocijarnos; es más, tantas cosas de las que tenemos que regocijarnos.
 
-Adoremos Su amado nombre porque ha arreglado de tal manera el plan ntegro de
+Adoremos Su amado nombre porque ha arreglado de tal manera el plan íntegro de
 
-la salvacin, que est calculado para traernos el cielo mientras estemos aqu,
+la salvación, que está calculado para traernos el cielo mientras estemos aquí,
 
-y en el ms all, para llevarnos al cielo a quienes estamos aqu. Entonces
+y en el más allá, para llevarnos al cielo a quienes estamos aquí. Entonces
 
-alzamos nuestros corazones por el gran gozo que est reservado para nosotros en
+alzamos nuestros corazones por el gran gozo que está reservado para nosotros en
 
-Dios. Esa es la primera cuerda: tquenla ahora; piensen en todo el gozo que han
+Dios. Esa es la primera cuerda: tóquenla ahora; piensen en todo el gozo que han
 
-tenido en Dios; albenlo por todo el santo jbilo que les ha dado en Su casa; por
+tenido en Dios; alábenlo por todo el santo júbilo que les ha dado en Su casa; por
 
-la bienaventuranza de la comunin con l a Su mesa; por los deleites del
+la bienaventuranza de la comunión con Él a Su mesa; por los deleites del
 
-compaerismo con l en secreto. Cntenle a l con un corazn agradecido,
+compańerismo con Él en secreto. Cántenle a Él con un corazón agradecido,
 
-diciendo: Engrandece mi alma al Seor.
+diciendo: “Engrandece mi alma al Seńor”.
 
 II.
 
 La
 
-segunda cuerda sobre la que quisiramos poner nuestros dedos es
+segunda cuerda sobre la que quisiéramos poner nuestros dedos es
 
 LA
 
@@ -452,123 +452,123 @@ DEIDAD
 
 DE
 
-NUESTRO SALVADOR. Engrandece mi
+NUESTRO SALVADOR. “Engrandece mi
 
-alma al Seor. No tengo un Seor pequeo. Y mi espritu se regocija en
+alma al Seńor”. No tengo un Seńor pequeńo. “Y mi espíritu se regocija en
 
-Dios mi Salvador.
+Dios mi Salvador”.
 
-Yo s que mi Salvador
+Yo sé que mi Salvador
 
 es un hombre, y me regocijo en Su humanidad; pero contenderemos hasta la muerte
 
-por sto: que l es algo ms que un hombre; l es nuestro Salvador. Un ser
+por ésto: que Él es algo más que un hombre; Él es nuestro Salvador. Un ser
 
-humano no podra redimir a otro, ni darle a Dios un rescate por su hermano. El
+humano no podría redimir a otro, ni darle a Dios un rescate por su hermano. El
 
-brazo de un ngel no podra aguantar el tremendo peso del desastre de
+brazo de un ángel no podría aguantar el tremendo peso del desastre de
 
-la Cada
+la Caída
 
 ; pero el brazo
 
-de Cristo es ms que anglico. Aquel a quien engrandecemos como nuestro
+de Cristo es más que angélico. Aquel a quien engrandecemos como nuestro
 
-Salvador no estim el ser igual a Dios como cosa
+Salvador no estimó el ser igual a Dios como cosa
 
 a
 
 que
 
-aferrarse; y cuando asumi la portentosa tarea de la redencin, trajo
+aferrarse; y cuando asumió la portentosa tarea de la redención, trajo
 
 la Deidad
 
-con l para que lo
+con Él para que lo
 
-sustentara en aquella labor ms que herclea. Nuestra confianza est en
+sustentara en aquella labor más que hercúlea. Nuestra confianza está en
 
-Jesucristo, Dios verdadero de Dios verdadero; nunca dejaremos, no slo de creer
+Jesucristo, Dios verdadero de Dios verdadero; nunca dejaremos, no sólo de creer
 
-en l, sino de hablar de l, de regocijarnos en l, y de cantar sobre l como
+en Él, sino de hablar de Él, de regocijarnos en Él, y de cantar sobre Él como
 
 la Deidad
 
-encarnada. Cun
+encarnada. ˇCuán
 
-glida es la religin que no contiene a
+gélida es la religión que no contiene a
 
 la Deidad
 
 de Cristo! Seguramente han de ser hombres
 
-de un temperamento muy sanguneo e imaginativo los que pretenden recibir algn
+de un temperamento muy sanguíneo e imaginativo los que pretenden recibir algún
 
 consuelo de un cristianismo que no tiene al divino Salvador en su propio
 
-centro. Yo preferira acudir a un tmpano de hielo para calentarme que a una fe
+centro. Yo preferiría acudir a un témpano de hielo para calentarme que a una fe
 
-de ese tipo para buscar consuelo. Nadie podra alabar demasiado a Cristo por
+de ese tipo para buscar consuelo. Nadie podría alabar demasiado a Cristo por
 
-ustedes y por m jams; nunca podran hablar demasiado sobre Su sabidura, o Su
+ustedes y por mí jamás; nunca podrían hablar demasiado sobre Su sabiduría, o Su
 
 poder. Cada atributo divino atribuido a Cristo nos hace elevarle un nuevo
 
-cntico, pues, sin importar lo que fuere para otros, para nosotros es Dios
+cántico, pues, sin importar lo que fuere para otros, para nosotros es Dios
 
-sobre todas las cosas, bendito por los siglos. Amn.
+sobre todas las cosas, bendito por los siglos. Amén.
 
-Yo deseara poder cantar
+Yo desearía poder cantar
 
 en vez de hablarles a ustedes acerca de Aquel que estaba con el Padre antes que
 
 comenzaran todos los mundos, cuyos deleites, aun entonces, estaban con los
 
-hijos de los hombres ante la perspectiva de su creacin. Deseara poder
+hijos de los hombres ante la perspectiva de su creación. Desearía poder
 
-contarles la maravillosa historia de cmo entr en pacto con Dios a favor de Su
+contarles la maravillosa historia de cómo entró en pacto con Dios a favor de Su
 
-pueblo, y se comprometi a pagar las deudas de aquellos que Su Padre le dio.
+pueblo, y se comprometió a pagar las deudas de aquellos que Su Padre le dio.
 
-Asumi recoger en un rebao a todas las ovejas que l mismo se comprometi a
+Asumió recoger en un rebańo a todas las ovejas que Él mismo se comprometió a
 
-comprar con Su sangre preciosa; se comprometi a traerlas de regreso de todos
+comprar con Su sangre preciosa; se comprometió a traerlas de regreso de todos
 
-sus descarros, y a guardarlas en las cimas de las Montaas Deleitables a los
+sus descarríos, y a guardarlas en las cimas de las Montańas Deleitables a los
 
-pies de Su Padre. Jur hacer eso; y se ha dedicado a Su tarea con un celo que
+pies de Su Padre. Juró hacer eso; y se ha dedicado a Su tarea con un celo que
 
-lo cubre como un abrigo, y lograr el propsito divino antes de que entregue el
+lo cubre como un abrigo, y logrará el propósito divino antes de que entregue el
 
-reino al Dios y Padre. No se cansar ni desmayar. Es nuestro deleite or que
+reino al Dios y Padre. “No se cansará ni desmayará”. Es nuestro deleite oír que
 
-este Hijo de Dios, este Hijo de Mara, este asombroso Ser en Su compleja naturaleza
+este Hijo de Dios, este Hijo de María, este asombroso Ser en Su compleja naturaleza
 
 como nuestro Mediador, sea engrandecido y exaltado, y sea puesto muy en alto.
 
-No han sentido algunas veces que si el ministro predicara ms acerca de Jesucristo,
+żNo han sentido algunas veces que si el ministro predicara más acerca de Jesucristo,
 
-a ustedes les alegrara orlo? Yo espero que esa sea su inclinacin; con todo,
+a ustedes les alegraría oírlo? Yo espero que esa sea su inclinación; con todo,
 
 me temo que hablamos mucho acerca de muchas otras cosas en vez de hablar acerca
 
-de nuestro Seor. Vamos, quiero or hablar de l; cntenme o hblenme de Jess,
+de nuestro Seńor. Vamos, quiero oír hablar de Él; cántenme o háblenme de Jesús,
 
-cuyo nombre es miel en la boca, y msica en el odo y el cielo en el corazn.
+cuyo nombre es miel en la boca, y música en el oído y el cielo en el corazón.
 
-Oh, ha de haber ms alabanza a Su santo nombre! S, algunos de nosotros
+ˇOh, ha de haber más alabanza a Su santo nombre! Sí, algunos de nosotros
 
-podemos tocar esta cuerda, y decir con Mara: Engrandece mi alma al Seor; y
+podemos tocar esta cuerda, y decir con María: “Engrandece mi alma al Seńor; y
 
-mi espritu se regocija en Dios mi Salvador.
+mi espíritu se regocija en Dios mi Salvador”.
 
 III.
 
 La
 
-tercera cuerda tiene una msica ms delicada y ms dulce y se puede adecuar
+tercera cuerda tiene una música más delicada y más dulce y se puede adecuar
 
-mejor a nosotros que los temas ms sublimes que ya hemos tocado. Cantemos y
+mejor a nosotros que los temas más sublimes que ya hemos tocado. Cantemos y
 
 magnifiquemos
 
@@ -576,133 +576,139 @@ LA AMOROSA
 
 CONDESCENDENCIA
 
-DEL SEOR, pues eso hizo la bendita virgen cuando continu diciendo: Porque ha
+DEL SEŃOR, pues eso hizo la bendita virgen cuando continuó diciendo: “Porque ha
 
-mirado la bajeza de su sierva. Aqu hay un tema sobre el cual cantar, pues el
+mirado la bajeza de su sierva”. Aquí hay un tema sobre el cual cantar, pues el
 
-nuestro no slo era un estado de bajeza, sino que, tal vez, algunos presentes
+nuestro no sólo era un estado de bajeza, sino que, tal vez, algunos presentes
 
-habran tenido que decir, como Geden: Mi familia es pobre y yo el menor en
+habrían tenido que decir, como Gedeón: “Mi familia es pobre… y yo el menor en
 
-la casa de mi padre, y, como l, habras sido pasado por alto por la mayora
+la casa de mi padre”, y, como él, habrías sido pasado por alto por la mayoría
 
 de la gente. Tal vez incluso en tu propia familia fueras considerado como un
 
-don nadie; si se profera alguna burla, t eras el blanco seguro de ella, y
+don nadie; si se profería alguna burla, tú eras el blanco seguro de ella, y
 
 eras generalmente malentendido y tus acciones eran malinterpretadas. Esa era
 
 una dura experiencia para ti; pero de ello has sido gloriosamente liberado.
 
-Pudiera haber sido que, como Jos, fueras un poco soador, y tal vez fueras muy
+Pudiera haber sido que, como José, fueras un poco sońador, y tal vez fueras muy
 
-propenso a contar tus sueos. Con todo, aunque debido a eso te molestaban
+propenso a contar tus sueńos. Con todo, aunque debido a eso te molestaban
 
-mucho, el Seor a la larga levant tu cabeza sobre los que te rodeaban. Pudiera
+mucho, el Seńor a la larga levantó tu cabeza sobre los que te rodeaban. Pudiera
 
-haber sido que tu suerte en la vida estuviera echada entre los ms pobres y los
+haber sido que tu suerte en la vida estuviera echada entre los más pobres y los
 
-ms viles de la humanidad; sin embargo, el Seor te ha visto con infinita
+más viles de la humanidad; sin embargo, el Seńor te ha visto con infinita
 
-compasin, y te ha salvado. Entonces, no lo engrandecers?
+compasión, y te ha salvado. Entonces, żno lo engrandecerás?
 
-Si Cristo quera un
+Si Cristo quería un
 
-pueblo, por qu no eligi a los reyes, y a los prncipes y nobles de la
+pueblo, żpor qué no eligió a los reyes, y a los príncipes y nobles de la
 
 tierra? En vez de eso, toma a los pobres, y los hace conocer las maravillas de
 
-Su amor moribundo; y en vez de seleccionar a los hombres ms sabios en el
+Su amor moribundo; y en vez de seleccionar a los hombres más sabios en el
 
-mundo, toma a los ms necios, y los instruye en las cosas del reino.
+mundo, toma a los más necios, y los instruye en las cosas del reino.
 
-Los portentos de la gracia le pertenecen a Dios;
+“Los portentos de la gracia le pertenecen a Dios;
 
-Repite Sus misericordias en tu canto.
+Repite Sus misericordias en tu canto”.
 
 Todos los que hemos sido
 
-salvados por la gracia debemos entonar una nota todava ms tierna, pues
+salvados por la gracia debemos entonar una nota todavía más tierna, pues
 
-estbamos llenos de pecado adems de ser insignificantes. Nos descarriamos como
+estábamos llenos de pecado además de ser insignificantes. Nos descarriamos como
 
-ovejas perdidas; por tanto, engrandecemos al Seor, quien nos compr, y nos
+ovejas perdidas; por tanto, engrandecemos al Seńor, quien nos compró, y nos
 
-busc y nos llev de regreso a Su redil. Podra ser doloroso recordar lo que
+buscó y nos llevó de regreso a Su redil. Podría ser doloroso recordar lo que
 
-una vez ramos, pero es bueno algunas veces regresar en nuestros pensamientos
+una vez éramos, pero es bueno algunas veces regresar en nuestros pensamientos
 
-al tiempo pasado cuando vivamos en pecado, para que podamos apreciar mejor el
+al tiempo pasado cuando vivíamos en pecado, para que podamos apreciar mejor el
 
-favor del cual hemos sido hechos partcipes. Cuando el apstol Pablo escribi
+favor del cual hemos sido hechos partícipes. Cuando el apóstol Pablo escribió
 
-un catlogo de aquellos que no heredaran el reino de Dios, aadi: Y esto
+un catálogo de aquellos que no heredarían el reino de Dios, ańadió: “Y esto
 
-erais algunos; mas ya habis sido lavados. Oh, bendigamos el nombre del
+erais algunos; mas ya habéis sido lavados”. ˇOh, bendigamos el nombre del
 
-Seor, y engrandezcmoslo por esto! Quin ms podra habernos limpiado de
+Seńor, y engrandezcámoslo por esto! żQuién más podría habernos limpiado de
 
-nuestro pecado, o en qu otra fuente, salvo en esa fuente abierta a la casa de
+nuestro pecado, o en qué otra fuente, salvo en esa fuente abierta a la casa de
 
-David, habramos podido sumergirnos para librarnos de nuestra terrible
+David, habríamos podido sumergirnos para librarnos de nuestra terrible
 
-contaminacin? l se inclina muy bajo, pues algunos de los elegidos de Dios
+contaminación? Él se inclina muy bajo, pues algunos de los elegidos de Dios
 
 fueron una vez las heces de todas las cosas; y aun cuando fueron convertidos,
 
-muchos de ellos siguieron sindolo en la estimacin del mundo, que escarnece a
+muchos de ellos siguieron siéndolo en la estimación del mundo, que escarnece a
 
-los humildes cristianos. Si los que profesan ser seguidores de Cristo se renen
+los humildes cristianos. Si los que profesan ser seguidores de Cristo se reúnen
 
-en algn edificio bonito, y adoran a Dios con msica grandiosa y con un ritual bellsimo,
+en algún edificio bonito, y adoran a Dios con música grandiosa y con un ritual bellísimo,
 
 entonces la gente del mundo los tolera y pueden ir tan lejos como auspiciarlos,
 
 aunque, aun entonces, su respeto es inspirado principalmente, no por la gente,
 
-sino por el edificio, por la bonita msica y los carruajes. Los carruajes son
+sino por el edificio, por la bonita música y los carruajes. Los carruajes son
 
-especialmente importantes, pues sin un determinado nmero de ellos a las
+especialmente importantes, pues sin un determinado número de ellos a las
 
-puertas, se considera imposible tener una apropiada ostentacin del
+puertas, se considera imposible tener una apropiada ostentación del
 
-cristianismo cultivado. Pero entre ms se aferra al Seor el pueblo de Dios, menos
+cristianismo cultivado. Pero entre más se aferra al Seńor el pueblo de Dios, menos
 
 probable es que sean estimados por el juicio vulgar de hombres profanos. Sin
 
-embargo, el Seor ha elegido a sos; bendito sea Su nombre! Es un portento
+embargo, ˇel Seńor ha elegido a ésos; bendito sea Su nombre! Es un portento
 
-grande para m que el Seor haya elegido a algunos de ustedes; pero es un
+grande para mí que el Seńor haya elegido a algunos de ustedes; pero es un
 
-portento mucho mayor que me haya elegido a m jams. Yo puedo entender, de alguna
+portento mucho mayor que me haya elegido a mí jamás. Yo puedo entender, de alguna
 
-manera, Su amor por ustedes, cuando miro los agraciados puntos en su carcter,
+manera, Su amor por ustedes, cuando miro los agraciados puntos en su carácter,
 
-aunque estoy completamente consciente de que son obrados nicamente por gracia;
+aunque estoy completamente consciente de que son obrados únicamente por gracia;
 
-pero no puedo entender el amor que me ha mostrado a m, que soy el ms
+pero no puedo entender el amor que me ha mostrado a mí, que soy el más
 
-insignificante de todos los santos. Oh!, -dices t- eso es lo que iba a
+insignificante de todos los santos. “ˇOh!”, -dices tú- “eso es lo que iba a
 
-decir respecto a m mismo. S, yo s. Estoy tratando de ponerlo en sus bocas
+decir respecto a mí mismo”. Sí, yo sé. Estoy tratando de ponerlo en sus bocas
 
 para que todos nos podamos unir en gratitud adoradora. Es un milagro de
 
-misericordia que l haya amado a cualquiera de nosotros, o que se haya
+misericordia que Él haya amado a cualquiera de nosotros, o que se haya
 
 inclinado en Su gracia para levantar del muladar a tales mendigos como nosotros,
 
-para ponernos entre los prncipes a Su diestra.
+para ponernos entre los príncipes a Su diestra.
 
-Por qu fui conducido a or Tu voz,
+“
 
-Y a entrar cuando todava haba lugar;
+ż
 
-Cuando miles hacen una desventurada eleccin,
+Por qué fui conducido a oír Tu voz,
+
+Y a entrar cuando todavía había lugar;
+
+Cuando miles hacen una desventurada elección,
 
 Y prefieren morir de hambre antes que comer
 
 ?
+
+”
 
 IV.
 
@@ -718,119 +724,119 @@ LA BONDAD
 
 DE
 
-DIOS, pues Mara contina cantando: Porque ha mirado la bajeza de su sierva;
+DIOS, pues María continúa cantando: “Porque ha mirado la bajeza de su sierva;
 
-pues he aqu, desde ahora me dirn bienaventurada todas las generaciones. Oh,
+pues he aquí, desde ahora me dirán bienaventurada todas las generaciones”. ˇOh,
 
-el Seor ha hecho grandes cosas por Su pueblo! Porque me ha hecho grandes
+el Seńor ha hecho grandes cosas por Su pueblo! “Porque me ha hecho grandes
 
-cosas el Poderoso; Santo es su nombre. Dios los ha hecho bienaventurados.
+cosas el Poderoso; Santo es su nombre”. Dios los ha hecho bienaventurados.
 
-Ustedes estuvieron una vez bajo la maldicin, pero no hay ahora ninguna
+Ustedes estuvieron una vez bajo la maldición, pero no hay ahora ninguna
 
-condenacin para ustedes, pues estn en Cristo Jess. Si la maldicin los
+condenación para ustedes, pues están en Cristo Jesús. Si la maldición los
 
-hubiera marchitado, como un roble impactado por el rayo, no habran podido
+hubiera marchitado, como un roble impactado por el rayo, no habrían podido
 
-sorprenderse; pero, en vez de eso, el clemente Seor los ha plantado junto a
+sorprenderse; pero, en vez de eso, el clemente Seńor los ha plantado junto a
 
 las corrientes de aguas, y los hace dar su fruto en su tiempo, y su hoja no
 
-cae. Grandes cosas ha hecho Jehov con nosotros; estaremos alegres. Ser
+cae. “Grandes cosas ha hecho Jehová con nosotros; estaremos alegres”. Ser
 
 sacados de ese horrible pozo es una cosa tan grande que no podemos medirla,
 
 pero ser puestos sobre ese trono de misericordia sobrepasa nuestro pensamiento
 
-ms excelso: quin podra medir eso? Tomen su cuerda y vean si pueden medir la
+más excelso: żquién podría medir eso? Tomen su cuerda y vean si pueden medir la
 
 profundidad de una gracia tal, o medir la altura de una misericordia tal.
 
-Acaso nos quedaremos callados cuando contemplamos una misericordia tan maravillosa?
+żAcaso nos quedaremos callados cuando contemplamos una misericordia tan maravillosa?
 
-Dios no lo quiera! Prorrumpamos ahora en nuestros corazones con dichosos
+ˇDios no lo quiera! ˇProrrumpamos ahora en nuestros corazones con dichosos
 
 aleluyas para Aquel que ha hecho cosas tan maravillosas por nosotros!
 
 Piensen, hermanos, que
 
-ustedes estaban ciegos; l los ha hecho ver. Ustedes estaban invlidos; l los
+ustedes estaban ciegos; Él los ha hecho ver. Ustedes estaban inválidos; Él los
 
-ha hecho saltar. Peor todava que eso: ustedes estaban muertos, pero l los ha hecho
+ha hecho saltar. Peor todavía que eso: ustedes estaban muertos, pero Él los ha hecho
 
-vivir. Estaban en prisin, pero l los ha liberado. Algunos de nosotros
+vivir. Estaban en prisión, pero Él los ha liberado. Algunos de nosotros
 
-estbamos en el calabozo, con nuestros pies atados al cepo. Acaso no puedo
+estábamos en el calabozo, con nuestros pies atados al cepo. żAcaso no puedo
 
-recordar bien cuando yo yaca en esa prisin interior, y gema y me lamentaba
+recordar bien cuando yo yacía en esa prisión interior, y gemía y me lamentaba
 
 sin que hubiese ninguna voz que me consolara, o incluso sin un rayo de luz que
 
-me animara en la oscuridad? Y ahora que l me ha sacado, acaso olvidar dar
+me animara en la oscuridad? Y ahora que Él me ha sacado, żacaso olvidaré dar
 
-mis ms profundas gracias? Es ms, voy a cantar un cntico de liberacin para
+mis más profundas gracias? Es más, voy a cantar un cántico de liberación para
 
-que otros lo oigan, y teman y se vuelvan al Seor. Pero eso no es todo. No slo
+que otros lo oigan, y teman y se vuelvan al Seńor. Pero eso no es todo. No sólo
 
-nos ha sacado de la prisin, sino que nos ha subido al trono; ustedes y yo
+nos ha sacado de la prisión, sino que nos ha subido al trono; ustedes y yo
 
-podramos entrar y salir del cielo esta noche, si Dios nos llamara all, y cada
+podríamos entrar y salir del cielo esta noche, si Dios nos llamara allí, y cada
 
-uno de los ngeles nos tratara con respeto. Si entrramos en la tierra de
+uno de los ángeles nos trataría con respeto. Si entráramos en la tierra de
 
-gloria, aunque hubiremos provenido del hogar ms pobre en Londres,
+gloria, aunque hubiéremos provenido del hogar más pobre en Londres,
 
-descubriramos que los ngeles ms excelsos son slo siervos ministradores para
+descubriríamos que los ángeles más excelsos son sólo siervos ministradores para
 
-el pueblo elegido de Dios. Oh, l ha hecho maravillas por nosotros!
+el pueblo elegido de Dios. ˇOh, Él ha hecho maravillas por nosotros!
 
 No procuro tanto
 
 predicar como despertar la memoria suya, para que puedan pensar en la bondad de
 
-la gracia del Seor y decir: Oh, s, as es, y engrandece mi alma al Seor! Ni
+la gracia del Seńor y decir: “ˇOh, sí, así es, y engrandece mi alma al Seńor!” Ni
 
 una sola de las maravillas de la gracia divina ha sido obrada para nosotros sin
 
-que hubiese una profunda necesidad para su manifestacin. Si la gracia ms
+que hubiese una profunda necesidad para su manifestación. Si la gracia más
 
-nfima, que hasta aqu hubiera podido escapar a su atencin, les fuera
+ínfima, que hasta aquí hubiera podido escapar a su atención, les fuera
 
-suprimida, dnde estaran? Con frecuencia me encuentro con gente del pueblo de
+suprimida, żdónde estarían? Con frecuencia me encuentro con gente del pueblo de
 
-Dios que sola ser dichosa y feliz, pero que ha cado en el desaliento, y que
+Dios que solía ser dichosa y feliz, pero que ha caído en el desaliento, y que
 
 habla ahora acerca de las misericordias del amor del pacto de Dios de tal manera
 
-que me hace sonrojar. Dice: yo pens que tuve una vez esa bendicin, amigo, y
+que me hace sonrojar. Dice: “yo pensé que tuve una vez esa bendición, amigo, y
 
-me temo que no la poseo ahora, aunque no hay nada que pudiera desear ms. Oh,
+me temo que no la poseo ahora, aunque no hay nada que pudiera desear más. ˇOh,
 
-qu precioso sera ser capaz de acceder a Dios en la oracin! Dara mis ojos
+qué precioso sería ser capaz de acceder a Dios en la oración! Daría mis ojos
 
-por ser capaz de saber que realmente soy un hijo de Dios. Con todo, quienes
+por ser capaz de saber que realmente soy un hijo de Dios”. Con todo, quienes
 
-tenemos esas bendiciones las valoramos a medias; es ms, hermanos, no las
+tenemos esas bendiciones las valoramos a medias; es más, hermanos, no las
 
-valoramos ni la milsima parte de lo que deberamos valorarlas. Nuestro cntico
+valoramos ni la milésima parte de lo que deberíamos valorarlas. Nuestro cántico
 
-constante debera ser: Bendito el Seor; cada da nos colma de beneficios el
+constante debería ser: “Bendito el Seńor; cada día nos colma de beneficios el
 
-Dios de nuestra salvacin. En vez de eso, a menudo recibimos, irreflexiva e
+Dios de nuestra salvación”. En vez de eso, a menudo recibimos, irreflexiva e
 
-ingratamente, los dones de Su mano. Cuando un hombre est en el mar puede tener
+ingratamente, los dones de Su mano. Cuando un hombre está en el mar puede tener
 
 mucha agua sobre su cabeza y no la siente; pero cuando sale del agua, si pones
 
-entonces una pequea cubeta de agua sobre su cabeza, se convierte en un gran
+entonces una pequeńa cubeta de agua sobre su cabeza, se convierte en un gran
 
-peso al llevarla. As algunos de ustedes estn nadando en la misericordia de
+peso al llevarla. Así algunos de ustedes están nadando en la misericordia de
 
-Dios, se estn sumergiendo en ella, y no reconocen el peso de la gloria que
+Dios, se están sumergiendo en ella, y no reconocen el peso de la gloria que
 
-Dios les ha otorgado; pero si salieran una vez de este ocano de dicha, y
+Dios les ha otorgado; pero si salieran una vez de este océano de dicha, y
 
-cayeran en un estado de tristeza de corazn, comenzaran a apreciar el peso de
+cayeran en un estado de tristeza de corazón, comenzarían a apreciar el peso de
 
 cualquiera de las misericordias que ahora no parecieran ser de mucha
 
@@ -838,93 +844,93 @@ consecuencia, o que no exigen su gratitud. Sin esperar a perder el sentido de
 
 la gracia de Dios para conocer su valor, bendigamos a Aquel que ha hecho cosas
 
-inconcebiblemente grandes para nosotros, y digamos: Engrandece mi alma al
+inconcebiblemente grandes para nosotros, y digamos: “Engrandece mi alma al
 
-Seor.
+Seńor”.
 
 V.
 
 La
 
-quinta cuerda que me gustara tocar es
+quinta cuerda que me gustaría tocar es
 
-LA COMBINACIN
+LA COMBINACIÓN
 
 DE
 
-GRACIA Y SANTIDAD que hay en lo que Dios ha hecho por nosotros. Porque me ha
+GRACIA Y SANTIDAD que hay en lo que Dios ha hecho por nosotros. “Porque me ha
 
-hecho grandes cosas el Poderoso; Santo es su nombre. Tal vez ni siquiera aluda
+hecho grandes cosas el Poderoso; Santo es su nombre”. Tal vez ni siquiera aluda
 
-a la peculiar delicadeza del caso de Mara, pero ella saba que era enteramente
+a la peculiar delicadeza del caso de María, pero ella sabía que era enteramente
 
-santo y puro. Ahora, cuando el Seor nos salv tanto a ustedes como a m, que no
+santo y puro. Ahora, cuando el Seńor nos salvó tanto a ustedes como a mí, que no
 
-merecamos ser salvados, realiz un acto muy maravilloso de gracia soberana al
+merecíamos ser salvados, realizó un acto muy maravilloso de gracia soberana al
 
-tratarnos de manera diferente, pero la misericordia es que l lo hizo todo
+tratarnos de manera diferente, pero la misericordia es que Él lo hizo todo
 
-justamente. Nadie puede decir que no se debi haber hecho. En el ltimo gran
+justamente. Nadie puede decir que no se debió haber hecho. En el último gran
 
-da, lo que Dios ha hecho en Su gracia soportar la prueba de la justicia, pues
+día, lo que Dios ha hecho en Su gracia soportará la prueba de la justicia, pues
 
-jams, en el esplendor y largueza de Su amor, l ha violado los principios de
+jamás, en el esplendor y largueza de Su amor, Él ha violado los principios de
 
-la eterna justicia ni siquiera para salvar a Sus propios elegidos. Porque me
+la eterna justicia ni siquiera para salvar a Sus propios elegidos. “Porque me
 
-ha hecho grandes cosas el Poderoso; Santo es su nombre. El pecado tiene que
+ha hecho grandes cosas el Poderoso; Santo es su nombre”. El pecado tiene que
 
 ser castigado y ya ha sido castigado en la persona de nuestro glorioso
 
 Sustituto. Nadie puede entrar al cielo a menos que sea perfectamente puro;
 
-quienes son redimidos no llevarn ninguna cosa inmunda adentro de las puertas.
+quienes son redimidos no llevarán ninguna cosa inmunda adentro de las puertas.
 
-Toda regla y mandato del imperio divino sern observados. El Legislador no ser
+Toda regla y mandato del imperio divino serán observados. El Legislador no será
 
-el quebrantador de la ley ni siquiera para salvar al pecador; pero Su ley ser
+el quebrantador de la ley ni siquiera para salvar al pecador; pero Su ley será
 
-honrada tan seguramente como que el pecador ser salvado. Algunas veces pienso
+honrada tan seguramente como que el pecador será salvado. Algunas veces pienso
 
-que yo podra tocar esa cuerda durante un par de horas. Aqu tenemos a la
+que yo podría tocar esa cuerda durante un par de horas. Aquí tenemos a la
 
-justicia engrandecida en gracia, y a la santidad regocijndose en la salvacin
+justicia engrandecida en gracia, y a la santidad regocijándose en la salvación
 
 de los pecadores. Los atributos de Dios son como el impresionante cristal que
 
-reluce con su clara luz blanca pero que todava puede ser dividida en todos los
+reluce con su clara luz blanca pero que todavía puede ser dividida en todos los
 
 colores del prisma; cada uno es diferente y todos ellos son muy bellos. La
 
 deslumbrante brillantez de Dios es demasiado gloriosa para nuestros ojos
 
-mortales, pero cada revelacin nos ensea algo ms de Su belleza y perfeccin. En
+mortales, pero cada revelación nos enseńa algo más de Su belleza y perfección. En
 
-la luz de color rub de un sacrificio expiatorio somos capacitados para ver
+la luz de color rubí de un sacrificio expiatorio somos capacitados para ver
 
-cmo Dios es justo y sin embargo es el que justifica al que es de la fe de
+cómo Dios es justo y sin embargo es el que justifica al que es de la fe de
 
-Jess. Gloria sea dada a Su nombre por el poder de la gracia combinada con la
+Jesús. ˇGloria sea dada a Su nombre por el poder de la gracia combinada con la
 
-santidad! Mi alma magnifica en verdad al Seor por esta maravillosa salvacin,
+santidad! Mi alma magnifica en verdad al Seńor por esta maravillosa salvación,
 
-en la que cada atributo recibir su gloria: la justicia as como la
+en la que cada atributo recibirá su gloria: la justicia así como la
 
-misericordia, la sabidura as como el poder. La misericordia y la verdad se
+misericordia, la sabiduría así como el poder. “La misericordia y la verdad se
 
-encontraron; la justicia y la paz se besaron. Quin habra podido inventar un
+encontraron; la justicia y la paz se besaron”. żQuién habría podido inventar un
 
-plan as, y quin habra podido implementarlo una vez que fue concebido? Slo
+plan así, y quién habría podido implementarlo una vez que fue concebido? Sólo
 
-Aquel que vino de Bosra, con vestidos rojos. Engrandece mi alma al Seor; y
+Aquel que vino “de Bosra, con vestidos rojos”. “Engrandece mi alma al Seńor; y
 
-mi espritu se regocija en Dios mi Salvador.
+mi espíritu se regocija en Dios mi Salvador”.
 
 VI.
 
 La
 
-sexta cuerda debera ser dulce en todos los sentidos. Mara toca enseguida la
+sexta cuerda debería ser dulce en todos los sentidos. María toca enseguida la
 
 cuerda de
 
@@ -932,137 +938,137 @@ la MISERICORDIA
 
 DE
 
-DIOS. Y su misericordia es de generacin en generacin a los que le temen.
+DIOS. “Y su misericordia es de generación en generación a los que le temen”.
 
-Los santos de la antigedad tocaban esa cuerda en el templo. Con frecuencia la
+Los santos de la antigüedad tocaban esa cuerda en el templo. Con frecuencia la
 
-cantaban, elevando el refrn continuamente: Para siempre es su misericordia!
+cantaban, elevando el refrán continuamente: “ˇPara siempre es su misericordia!”
 
-Su misericordia permanecer siendo
+“Su misericordia permanecerá siendo
 
-Siempre fiel, siempre segura.
+Siempre fiel, siempre segura”.
 
-Misericordia! Pecador,
+ˇMisericordia! Pecador,
 
-esta es la campana de plata para ti: por la misericordia de Jehov no hemos
+esta es la campana de plata para ti: por la misericordia de Jehová no hemos
 
-sido consumidos, porque nunca decayeron Sus misericordias. Escuchen esa msica
+sido consumidos, porque nunca decayeron Sus misericordias. Escuchen esa música
 
 celestial que los llama al arrepentimiento y a la vida. Dios se deleita en la
 
-misericordia. l espera para ser clemente. Misericordia! Santo, esta es la
+misericordia. Él espera para ser clemente. ˇMisericordia! Santo, esta es la
 
-campana de oro para ti, pues t todava necesitas misericordia. Estando con tu
+campana de oro para ti, pues tú todavía necesitas misericordia. Estando con tu
 
-pie sobre el umbral de jaspe del Paraso, con la puerta de perla justo frente
+pie sobre el umbral de jaspe del Paraíso, con la puerta de perla justo frente
 
-ti, todava necesitars que la misericordia te ayude en el ltimo paso; y
+ti, todavía necesitarás que la misericordia te ayude en el último paso; y
 
-cuando entres en el coro de los redimidos, la misericordia ser tu perpetua
+cuando entres en el coro de los redimidos, la misericordia será tu perpetua
 
-cancin. En el cielo cantars las alabanzas del Dios de gracia, cuya
+canción. En el cielo cantarás las alabanzas del Dios de gracia, cuya
 
 misericordia permanece para siempre.
 
-Te lamentas por tus
+żTe lamentas por tus
 
-propias rebeldas? Dios tendr misericordia de ti, querido hijo, aunque t te
+propias rebeldías? Dios tendrá misericordia de ti, querido hijo, aunque tú te
 
-hubieres descarriado desde que lo conociste. Regresa a l en esta precisa hora.
+hubieres descarriado desde que lo conociste. Regresa a Él en esta precisa hora.
 
-l quiere arrullarte de nuevo. l quiere estrecharte contra Su pecho. Acaso no
+Él quiere arrullarte de nuevo. Él quiere estrecharte contra Su pecho. żAcaso no
 
 has sido restaurado con frecuencia, no te han sido quitadas tus iniquidades con
 
-frecuencia en los aos ya transcurridos? Si es as, toca en este momento esta
+frecuencia en los ańos ya transcurridos? Si es así, toca en este momento esta
 
-cuerda el dedo de un nio puede extraerle msica- tcala ahora. D: S,
+cuerda –el dedo de un nińo puede extraerle música- tócala ahora. Dí: “Sí,
 
 concerniente a la misericordia, misericordia para el primero de los pecadores, mi
 
-alma en verdad engrandece al Seor, y mi espritu se regocija en Dios mi Salvador.
+alma en verdad engrandece al Seńor, y mi espíritu se regocija en Dios mi Salvador”.
 
 VII.
 
 El
 
-tiempo se nos acabara si tratramos de demorarnos algn rato en estos temas
+tiempo se nos acabaría si tratáramos de demorarnos algún rato en estos temas
 
-asombrosos; as que pasamos a la siguiente cuerda, a la nmero siete,
+asombrosos; así que pasamos a la siguiente cuerda, a la número siete,
 
 LA INMUTABILIDAD
 
 DE
 
-DIOS, porque en el versculo que ya hemos considerado, hay dos notas. Mara
+DIOS, porque en el versículo que ya hemos considerado, hay dos notas. María
 
-dijo: Y su misericordia es de generacin en generacin a los que le temen.
+dijo: “Y su misericordia es de generación en generación a los que le temen”.
 
-Aquel que tuvo misericordia en los das de Mara, tiene misericordia hoy: de
+Aquel que tuvo misericordia en los días de María, tiene misericordia hoy: “de
 
-generacin en generacin. l es el mismo Dios. Porque yo Jehov no cambio;
+generación en generación”. Él es el mismo Dios. “Porque yo Jehová no cambio;
 
-por esto, hijos de Jacob, no habis sido consumidos. Ustedes, que una vez se
+por esto, hijos de Jacob, no habéis sido consumidos”. Ustedes, que una vez se
 
-deleitaron en el Seor, no supongan que l ha cambiado. l todava los invita a
+deleitaron en el Seńor, no supongan que Él ha cambiado. Él todavía los invita a
 
-venir y a deleitarse en l. Jesucristo es el mismo ayer, y hoy, y por los
+venir y a deleitarse en Él. “Jesucristo es el mismo ayer, y hoy, y por los
 
-siglos. Qu pobre fundamento tendramos para nuestra esperanza si Dios
+siglos”. ˇQué pobre fundamento tendríamos para nuestra esperanza si Dios
 
-pudiera cambiar! Pero l ha confirmado Su palabra por medio de un juramento para
+pudiera cambiar! Pero Él ha confirmado Su palabra por medio de un juramento “para
 
 que por dos cosas inmutables, en las cuales es imposible que Dios mienta,
 
-tengamos un fortsimo consuelo los que hemos acudido para asirnos de la
+tengamos un fortísimo consuelo los que hemos acudido para asirnos de la
 
-esperanza puesta delante de nosotros. El Dios de mi abuelo y el Dios de mi
+esperanza puesta delante de nosotros”. El Dios de mi abuelo y el Dios de mi
 
 padre es hoy mi Dios; el Dios de Abraham, Isaac y Jacob es el Dios de cada
 
-creyente; l es el mismo Dios, y est dispuesto a hacer lo mismo, a ser el
+creyente; Él es el mismo Dios, y está dispuesto a hacer lo mismo, a ser el
 
 mismo para nosotros que fue para ellos. Consideren su propia experiencia;
 
-acaso no han encontrado que Dios es el mismo? Vengan, protesten contra l si
+żacaso no han encontrado que Dios es el mismo? Vengan, protesten contra Él si
 
-han encontrado que haya cambiado alguna vez. Ha cambiado el propiciatorio?
+han encontrado que haya cambiado alguna vez. żHa cambiado el propiciatorio?
 
-Fallan las promesas de Dios? Ha olvidado Dios ser clemente? Ya no ser ms
+żFallan las promesas de Dios? żHa olvidado Dios ser clemente? żYa no será más
 
-favorable? S, incluso si furemos infieles, l permanece fiel; l no puede
+favorable? Sí, incluso “si fuéremos infieles, él permanece fiel; Él no puede
 
-negarse a s mismo; y cuando todas las cosas se derritan, esta nica roca
+negarse a sí mismo”; y cuando todas las cosas se derritan, esta única roca
 
-eterna permanecer; por tanto, Engrandece mi alma al Seor; y mi espritu se
+eterna permanecerá; por tanto, “Engrandece mi alma al Seńor; y mi espíritu se
 
-regocija en Dios mi Salvador. Estamos tocando una bendita cuerda. Si
+regocija en Dios mi Salvador”. Estamos tocando una bendita cuerda. Si
 
-tuviramos tiempo, tocaramos en ella, y evocaramos tales armonas que haran
+tuviéramos tiempo, tocaríamos en ella, y evocaríamos tales armonías que harían
 
-que los ngeles quisieran unirse a nosotros en el coro.
+que los ángeles quisieran unirse a nosotros en el coro.
 
 VIII.
 
 La
 
-siguiente cuerda despertar un eco de respuesta en sus corazones y es EL PODER
+siguiente cuerda despertará un eco de respuesta en sus corazones y es EL PODER
 
-DE DIOS. Hizo proezas con su brazo; esparci a los soberbios en el pensamiento
+DE DIOS. “Hizo proezas con su brazo; esparció a los soberbios en el pensamiento
 
-de sus corazones. Esta cuerda nos proporciona una profunda msica de bajo, y
+de sus corazones”. Esta cuerda nos proporciona una profunda música de bajo, y
 
-requiere de una mano pesada para arrancarle alguna meloda. Qu portentos de
+requiere de una mano pesada para arrancarle alguna melodía. ˇQué portentos de
 
-poder ha obrado Dios en favor de Su pueblo desde los das de Egipto, cuando
+poder ha obrado Dios en favor de Su pueblo desde los días de Egipto, cuando
 
-arroj al Mar Rojo al caballo y su jinete, hasta ahora! Cun fuerte es Su
+arrojó al Mar Rojo al caballo y su jinete, hasta ahora! ˇCuán fuerte es Su
 
-brazo para defender a Su pueblo! En estos das algunos de nosotros hemos sido
+brazo para defender a Su pueblo! En estos días algunos de nosotros hemos sido
 
 conducidos a mirar ese poder, pues toda otra ayuda ha fallado. Ustedes saben
 
-cmo era en
+cómo era en
 
 la Edad
 
@@ -1070,23 +1076,23 @@ Media
 
 :
 
-pareca como si las tinieblas del papado no se desvaneceran nunca; pero cun
+parecía como si las tinieblas del papado no se desvanecerían nunca; pero ˇcuán
 
-pronto se desvanecieron cuando Dios llam a Sus hombres a dar testimonio de Su
+pronto se desvanecieron cuando Dios llamó a Sus hombres a dar testimonio de Su
 
-Hijo! Cunta razn tenemos para regocijarnos porque esparci a los soberbios
+Hijo! ˇCuánta razón tenemos para regocijarnos porque “esparció a los soberbios
 
-en el pensamiento de sus corazones! Ellos pensaron que podran quemar
+en el pensamiento de sus corazones”! Ellos pensaron que podrían quemar
 
-fcilmente a los herejes, y poner un fin a este Evangelio suyo; pero no
+fácilmente a los herejes, y poner un fin a este Evangelio suyo; pero no
 
-pudieron hacerlo. Y hoy hay una oscura conspiracin para erradicar a la fe
+pudieron hacerlo. Y hoy hay una oscura conspiración para erradicar a la fe
 
-evanglica. Primero, de parte de algunos que siguen a sus supersticiones, plantan
+evangélica. Primero, de parte de algunos que siguen a sus supersticiones, plantan
 
 el crucifijo para ocultar a la cruz, y dirigen a los hombres a los sacramentos
 
-en vez de dirigirlos al Salvador. Y luego, peor an, estn aquellos que minan
+en vez de dirigirlos al Salvador. Y luego, peor aún, están aquellos que minan
 
 nuestra fe en
 
@@ -1096,25 +1102,25 @@ Escritura
 
 ,
 
-que arrancan del Libro este captulo y aquel otro, que niegan esta gran verdad
+que arrancan del Libro este capítulo y aquel otro, que niegan esta gran verdad
 
 y aquella otra, y tratan de poner las invenciones del hombre en el lugar que
 
-debera ser ocupado por la verdad de Dios. Pero el Seor vive: el brazo de
+debería ser ocupado por la verdad de Dios. Pero el Seńor vive: el brazo de
 
-Jehov no se ha acortado. Pueden estar seguros de que antes de que pasen muchos
+Jehová no se ha acortado. Pueden estar seguros de que antes de que pasen muchos
 
-aos l se har cargo de la contienda de Su pacto, y pondr de nuevo al frente
+ańos Él se hará cargo de la contienda de Su pacto, y pondrá de nuevo al frente
 
-al viejo estandarte. Todava nos regocijaremos al or que el Evangelio es
+al viejo estandarte. Todavía nos regocijaremos al oír que el Evangelio es
 
-predicado en los trminos ms sencillos, acentuado por el Espritu Santo mismo
+predicado en los términos más sencillos, acentuado por el Espíritu Santo mismo
 
 en los corazones de Su pueblo. Toquemos esta cuerda de nuevo. El Dios
 
-Todopoderoso no est muerto. He aqu que no se ha acortado la mano de Jehov
+Todopoderoso no está muerto. “He aquí que no se ha acortado la mano de Jehová
 
-para salvar, ni se ha agravado su odo para or.
+para salvar, ni se ha agravado su oído para oír”.
 
 IX.
 
@@ -1126,57 +1132,61 @@ acerca de ella: es
 
 LA
 
-SOBERANA
+SOBERANÍA
 
 DIVINA.
 
-Escchenla. Ustedes saben
+Escúchenla. Ustedes saben
 
-cmo Dios la pronuncia en tono fulminante. Tendr misericordia del que yo
+cómo Dios la pronuncia en tono fulminante. “Tendré misericordia del que yo
 
-tenga misericordia, y me compadecer del que yo me compadezca. La voluntad de
+tenga misericordia, y me compadeceré del que yo me compadezca”. La voluntad de
 
 Dios es suprema. Sin importar lo que pudieran ser las voluntades de los
 
-hombres, Dios no ser destronado, ni Su cetro ser hecho temblar en Sus manos;
+hombres, Dios no será destronado, ni Su cetro será hecho temblar en Sus manos;
 
-despus de todos los actos rebeldes de los hombres y los demonios, l ser eterno
+después de todos los actos rebeldes de los hombres y los demonios, Él será eterno
 
-y supremo, con Su reino gobernando sobre todo. Y as la virgen canta: Quit de
+y supremo, con Su reino gobernando sobre todo. Y así la virgen canta: “Quitó de
 
-los tronos a los poderosos, y exalt a los humildes. A los hambrientos colm de
+los tronos a los poderosos, y exaltó a los humildes. A los hambrientos colmó de
 
-bienes, y a los ricos envi vacos. Quin podra decir las maravillas de Su
+bienes, y a los ricos envió vacíos”. żQuién podría decir las maravillas de Su
 
-gracia soberana? Acaso no fue extrao que te hubiera elegido jams?
+gracia soberana? żAcaso no fue extrańo que te hubiera elegido jamás?
 
-Qu haba en ti que pudiera ameritar estima,
+“
+
+ż
+
+Qué había en ti que pudiera ameritar estima,
 
 O que pudiera deleitar al Creador
 
 ?
 
-S, Padre, has de cantar siempre,
+‘Sí, Padre’, has de cantar siempre,
 
-Porque as te agrad.
+‘Porque así te agradó’”.
 
-No es extrao que el
+żNo es extrańo que el
 
-Seor no tomara a los reyes y poderosos, sino que dispusiera que se les
+Seńor no tomara a los reyes y poderosos, sino que dispusiera que se les
 
-predique a los pobres el Evangelio? Dios es Rey de reyes, y Seor de seores; y
+predique a los pobres el Evangelio? Dios es Rey de reyes, y Seńor de seńores; y
 
-l acta como un rey. l no da cuenta de ninguna de sus razones. Pero nos deja
+Él actúa como un rey. “Él no da cuenta de ninguna de sus razones”. Pero nos deja
 
-ver muy claramente que no siente ningn respeto por la grandeza y la imaginaria
+ver muy claramente que no siente ningún respeto por la grandeza y la imaginaria
 
-bondad del hombre. l hace lo que le agrada y le agrada dar Su misericordia a
+bondad del hombre. Él hace lo que le agrada y le agrada dar Su misericordia a
 
 los que
 
 le
 
-temen y a los que se inclinan ante l. Dispensa
+temen y a los que se inclinan ante Él. Dispensa
 
 Sus favores a quienes tiemblan en Su presencia, a quienes vienen humildemente a
 
@@ -1184,49 +1194,49 @@ Sus pies y reciben Su misericordia como un don gratuito; a quienes miran a Su
 
 amado Hijo porque no tienen ninguna otra cosa que mirar, y, como pobres y
 
-culpables gusanos, encuentran en Cristo su vida, su sabidura, su justicia y su
+culpables gusanos, encuentran en Cristo su vida, su sabiduría, su justicia y su
 
-todo. Oh, el esplendor de este grandioso Rey!
+todo. ˇOh, el esplendor de este grandioso Rey!
 
 X.
 
 La
 
-dcima cuerda es
+décima cuerda es
 
 LA FIDELIDAD
 
 DE
 
-DIOS. Socorri a Israel su siervo, acordndose de la misericordia de la cual
+DIOS. “Socorrió a Israel su siervo, acordándose de la misericordia de la cual
 
-habl a nuestros padres, para con Abraham y su descendencia para siempre. Dios
+habló a nuestros padres, para con Abraham y su descendencia para siempre”. Dios
 
-recuerda lo que ha dicho. Tomen esas tres palabras: la cual habl. Todo lo
+recuerda lo que ha dicho. Tomen esas tres palabras: “la cual habló”. Todo lo
 
-que diga, aunque hubiera sido hace mil aos, permanece firme por los siglos de
+que diga, aunque hubiera sido hace mil ańos, permanece firme por los siglos de
 
 los siglos.
 
-Amados, est alguno de
+Amados, żestá alguno de
 
-ustedes en problemas? Que escudrie las Escrituras hasta encontrar alguna
+ustedes en problemas? Que escudrińe las Escrituras hasta encontrar alguna
 
-promesa que se adapte a su caso, y cuando la tenga, no debe decir: yo espero
+promesa que se adapte a su caso, y cuando la tenga, no debe decir: “yo espero
 
-que esto sea verdad. Eso es un insulto para su Dios. Debe creerla y debe
+que esto sea verdad”. Eso es un insulto para su Dios. Debe creerla y debe
 
-creerla ntegramente. Debe hacer lo mismo que he visto que hacen los muchachos
+creerla íntegramente. Debe hacer lo mismo que he visto que hacen los muchachos
 
-en una alberca pblica: debe zambullirse e ir directo al torrente de la misericordia
+en una alberca pública: debe zambullirse e ir directo al torrente de la misericordia
 
-de Dios; debe hundirse lo ms profundo que pueda; no hay forma de ahogarse
+de Dios; debe hundirse lo más profundo que pueda; no hay forma de ahogarse
 
-all. Esas son aguas para nadar en ellas; y entre ms te sumerjas en ese
+allí. Esas son “aguas para nadar en ellas”; y entre más te sumerjas en ese
 
-bendito torrente cristalino de la misericordia prometida, ser mejor. Saldrs
+bendito torrente cristalino de la misericordia prometida, será mejor. Saldrás
 
-de all como salen las ovejas del lavadero; te sentirs refrescado ms all de
+de allí como salen las ovejas del lavadero; te sentirás refrescado más allá de
 
 toda medida al haberte arrojado sobre Dios. Cuando fallen las promesas de Dios,
 
@@ -1238,77 +1248,77 @@ y si se pudiera demostrar que son falsas, preferimos renunciar a la vida por
 
 completo. Pero nos deleita saber que son absolutamente ciertas: lo que les dijo
 
-a nuestros padres sigue siendo vlido para sus hijos, y ser vlido hasta el
+a nuestros padres sigue siendo válido para sus hijos, y será válido hasta el
 
 final de los tiempos, y para toda la eternidad.
 
 Si alguno de ustedes no
 
-ha sido capaz de tocar ni siquiera una sola de estas cuerdas, yo le pedira que
+ha sido capaz de tocar ni siquiera una sola de estas cuerdas, yo le pediría que
 
-se ponga de rodillas, y clame a Dios, y diga: Por qu razn no puedo
+se ponga de rodillas, y clame a Dios, y diga: “żPor qué razón no puedo
 
-engrandecerte, oh Dios? No me sorprendera si descubrieran que la razn sea
+engrandecerte, oh Dios?” No me sorprendería si descubrieran que la razón sea
 
-que ustedes mismos son demasiado grandes. Quien se engrandece a s mismo nunca
+que ustedes mismos son demasiado grandes. Quien se engrandece a sí mismo nunca
 
-engrandece a Dios. Empequecete y engrandece a tu Dios. Abate al yo hasta las
+engrandece a Dios. Empequeńécete y engrandece a tu Dios. Abate al yo hasta las
 
-ms hondas profundidades, y enaltece ms y ms tus pensamientos acerca de Dios.
+más hondas profundidades, y enaltece más y más tus pensamientos acerca de Dios.
 
-Pobre pecador, t que
+Pobre pecador, tú que
 
-todava no te has asido de Dios, hay una dulce msica incluso para ti en el
+todavía no te has asido de Dios, hay una dulce música incluso para ti en el
 
-cntico de la virgen. Talvez ests diciendo: yo no soy nada sino un manojo de
+cántico de la virgen. Talvez estés diciendo: “yo no soy nada sino un manojo de
 
-pecado y un montn de miseria. Muy bien, deja el manojo de pecado y el montn
+pecado y un montón de miseria”. Muy bien, deja el manojo de pecado y el montón
 
-de miseria y deja que Cristo sea tu todo en todo. Entrgate a Cristo. l es un
+de miseria y deja que Cristo sea tu todo en todo. Entrégate a Cristo. Él es un
 
 Salvador; deja que cumpla con Su oficio. Si un hombre se promueve como un
 
-abogado, y yo tengo un caso en la corte, no pensara en darle el caso, para
+abogado, y yo tengo un caso en la corte, no pensaría en darle el caso, para
 
 luego, posteriormente, presentarme en la corte y comenzar a intervenir yo mismo
 
-en el caso. Si lo hiciera, l dira: debo abandonar tu caso si sigues
+en el caso. Si lo hiciera, él diría: “debo abandonar tu caso si sigues
 
-interviniendo. Algunas veces podra venirte la idea a la mente que t puedes
+interviniendo”. Algunas veces podría venirte la idea a la mente que tú puedes
 
-hacer algo para salvarte, y tener alguna participacin en la gloria de tu
+hacer algo para salvarte, y tener alguna participación en la gloria de tu
 
-salvacin. Si no te deshaces de esa idea, estars perdido. Entrgate a Cristo,
+salvación. Si no te deshaces de esa idea, estarás perdido. Entrégate a Cristo,
 
-y deja que l te salve; y luego l producir en ti as el querer como el hacer
+y deja que Él te salve; y luego Él producirá en ti así el querer como el hacer
 
-por Su buena voluntad, mientras que t hars meloda en tu corazn para el
+por Su buena voluntad, mientras que tú harás melodía en tu corazón para el
 
-Seor, y de esta arpa de diez cuerdas provendr una meloda tan deleitable que
+Seńor, y de esta arpa de diez cuerdas provendrá una melodía tan deleitable que
 
-muchos la escucharn muy arrobados y acudirn a tu Seor y tomarn clases de
+muchos la escucharán muy arrobados y acudirán a tu Seńor y tomarán clases de
 
-esta msica celestial.
+esta música celestial.
 
-Que el Seor los
+ˇQue el Seńor los
 
-bendiga, amados, y los despida felices en l!
+bendiga, amados, y los despida felices en Él!
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 1: 39-80.
+del sermón: Lucas 1: 39-80.
 
 Notas del traductor:
 
-(1) En el sermn en
+(1) En el sermón en
 
-ingls el pastor Spurgeon lo expresa as:
+inglés el pastor Spurgeon lo expresa así:
 
-They
+“They
 
 w
 
@@ -1320,57 +1330,57 @@ ondered.
 
 It
 
-is only the change of a letter; etc.
+is only the change of a letter”; etc.
 
-Slo se trata de un
+Sólo se trata de un
 
-cambio de letra, es decir la w por la p. Eso es intraducible al espaol porque
+cambio de letra, es decir la w por la p. Eso es intraducible al espańol porque
 
-tendra que haber un verbo de la categora de asombrar que se distinguiera por
+tendría que haber un verbo de la categoría de asombrar que se distinguiera por
 
-una sola letra de otro verbo de la categora de ponderar o meditar.
+una sola letra de otro verbo de la categoría de ponderar o meditar.
 
 Decacordio:
 
 Diccionario
 
-bblico: Decacordio
+bíblico: Decacordio
 
-(Heb. Nbel r [o ambas palabras separadas], "diez cuerdas").
+(Heb. Nębel âŃôr [o ambas palabras separadas], "diez cuerdas").
 
-Instrumento de cuerdas con un gran cuerpo o caja en forma de media pera y un mstil largo.
+Instrumento de cuerdas con un gran cuerpo o caja en forma de media pera y un mástil largo.
 
-Se lo tocaba por medio de la pulsin de sus cuerdas.
+Se lo tocaba por medio de la pulsión de sus cuerdas.
 
 Los decacordios existieron en el mundo desde tiempos remotos, como lo revelan las pinturas, los relieves y los instrumentos encontrados en las tumbas.
 
-Pero no se sabe a ciencia cierta si ste sera el instrumento mencionado en
+Pero no se sabe a ciencia cierta si éste sería el instrumento mencionado en
 
 la Biblia.
 
-En 2 pasajes (Sal. 33:2; 144:9) el heb. Nbel, "arpa",* est modificado por r, "diez", por lo que entonces la frase se traduce "arpa de diez cuerdas"(BJ) o "decacordio" (RVR).
+En 2 pasajes (Sal. 33:2; 144:9) el heb. Nębel, "arpa",* está modificado por âŃôr, "diez", por lo que entonces la frase se traduce "arpa de diez cuerdas"(BJ) o "decacordio" (RVR).
 
-En Sal. 92:3 slo aparece r como el nombre del instrumento musical y ambas versiones la vierten como en los pasajes anteriores.
+En Sal. 92:3 sólo aparece âŃôr como el nombre del instrumento musical y ambas versiones la vierten como en los pasajes anteriores.
 
-Se ha sugerido que esta "arpa de diez cuerdas" o "decacordio" puede ser la ctara,* que conocan los fenicios, vecinos de Israel.
+Se ha sugerido que esta "arpa de diez cuerdas" o "decacordio" puede ser la cítara,* que conocían los fenicios, vecinos de Israel.
 
-Dos ctaras de 10 cuerdas, tocadas por 2 mujeres, estn grabadas en un joyero de marfil encontrado en Nimrd.
+Dos cítaras de 10 cuerdas, tocadas por 2 mujeres, están grabadas en un joyero de marfil encontrado en Nimrűd.
 
-Tambin una extraa carta ilustrada atribuida a Jernimo, el traductor de
+También una extrańa carta ilustrada atribuida a Jerónimo, el traductor de
 
 la Biblia
 
-al latn, muestra una ctara fenicia de 10 cuerdas bajo el ttulo de Psalterium decachordum
+al latín, muestra una cítara fenicia de 10 cuerdas bajo el título de Psalterium decachordum
 
 310, a
 
-la que se aadi la explicacin: "Tiene diez cuerdas, como est escrito: Te alabar con el salterio* de diez cuerdas".
+la que se ańadió la explicación: "Tiene diez cuerdas, como está escrito: Te alabaré con el salterio* de diez cuerdas".
 
 Bib.: Curt Sachs, The History of Musical Instruments [La historia de los instrumentos musicales] (Nueva York, 1940), p 118.
 
-Ctara fenicia de 10 cuerdas (de acuerdo con Jernimo).
+Cítara fenicia de 10 cuerdas (de acuerdo con Jerónimo).
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 29/Septiembre/2011
 

@@ -1,16 +1,16 @@
 # Sermón 3186 | Sermón 3186
 
-El Plpito del Tabernculo Metropolitano
+El Púlpito del Tabernáculo Metropolitano
 
-La Oracin Ms Breve de Pedro
+La Oración Más Breve de Pedro
 
 NO. 3186
 
-SERMN PREDICADO LA
+SERMÓN PREDICADO LA
 
 NOCHE DEL JUEVES 2 DE OCTUBRE DE 1873
 
-EN EL TABERNCULO
+EN EL TABERNÁCULO
 
 METROPOLITANO, NEWINGTON, LONDRES,
 
@@ -18,515 +18,515 @@ Y PUBLICADO EL JUEVES
 
 24 DE FEBRERO DE 1910.
 
-Seor,
+“ˇSeńor,
 
-slvame! Mateo 14: 30.
+sálvame!” Mateo 14: 30.
 
-Voy a hablarles acerca de las caractersticas de
+Voy a hablarles acerca de las características de
 
-esta oracin, con la esperanza de que muchas personas que no hayan orado
+esta oración, con la esperanza de que muchas personas que no hayan orado
 
-correctamente todava, adopten como suya esta oracin, esta noche, para que silenciosamente
+correctamente todavía, adopten como suya esta oración, esta noche, para que silenciosamente
 
-ascienda de muchas personas presentes, este clamor: Seor, slvame!
+ascienda de muchas personas presentes, este clamor: “ˇSeńor, sálvame!”
 
-Dnde dijo Pedro esta oracin? No fue en un
+żDónde dijo Pedro esta oración? No fue en un
 
-lugar destinado a la adoracin pblica, ni tampoco en su propio sitio usual de
+lugar destinado a la adoración pública, ni tampoco en su propio sitio usual de
 
-oracin privada; Pedro elev esta plegaria cuando se estaba hundiendo en el
+oración privada; Pedro elevó esta plegaria cuando se estaba hundiendo en el
 
-agua. Se encontraba en un grave peligro, y entonces grit: Seor, slvame!
+agua. Se encontraba en un grave peligro, y entonces gritó: “ˇSeńor, sálvame!”
 
 Es bueno que se congreguen para orar, si pueden hacerlo, con el pueblo de Dios;
 
-pero si no pudieran asistir a Su casa, no importa gran cosa, pues la oracin
+pero si no pudieran asistir a Su casa, no importa gran cosa, pues la oración
 
-puede ascender a l desde cualquier parte del mundo. Es bueno contar con un
+puede ascender a Él desde cualquier parte del mundo. Es bueno contar con un
 
-lugar especial donde puedan orar en casa; probablemente la mayora de nosotros
+lugar especial donde puedan orar en casa; probablemente la mayoría de nosotros
 
-tiene una cierta silla junto a la cual nos arrodillamos con el propsito orar,
+tiene una cierta silla junto a la cual nos arrodillamos con el propósito orar,
 
-y sentimos que all podemos hablar libremente con Dios. Al mismo tiempo, no
+y sentimos que allí podemos hablar libremente con Dios. Al mismo tiempo, no
 
-debemos permitirnos nunca ser convertidos en esclavos, incluso de un hbito tan
+debemos permitirnos nunca ser convertidos en esclavos, incluso de un hábito tan
 
 bueno como ese, y siempre debemos recordar que, si realmente queremos encontrar
 
-al Seor en la oracin:
+al Seńor en la oración:
 
-Doquiera que
+“Doquiera que
 
-le busquemos, l ser encontrado,
+le busquemos, Él será encontrado,
 
 Y cualquier
 
-lugar, tierra santa es.
+lugar, tierra santa es.”
 
 Nosotros podemos orar a Dios mientras estamos
 
-involucrados en cualquier ocupacin, siempre que sea legtima; y, si no lo es,
+involucrados en cualquier ocupación, siempre que sea legítima; y, si no lo es,
 
-no deberamos estar involucrados en esa ocupacin. Si hubiera algo que hagamos
+no deberíamos estar involucrados en esa ocupación. Si hubiera algo que hagamos
 
-sobre lo que no podamos orar, no deberamos atrevernos nunca a hacerlo de
+sobre lo que no podamos orar, no deberíamos atrevernos nunca a hacerlo de
 
-nuevo; y si hay alguna ocupacin en relacin a la cual tenemos que decir: no
+nuevo; y si hay alguna ocupación en relación a la cual tenemos que decir: “no
 
-podemos orar mientras estemos involucrados en ella, es claro que esa ocupacin
+podemos orar mientras estemos involucrados en ella”, es claro que esa ocupación
 
 es indebida.
 
-Debe mantenerse el hbito de la oracin diaria.
+Debe mantenerse el hábito de la oración diaria.
 
-Es bueno tener horas regulares para la devocin, y, en la medida de lo posible,
+Es bueno tener horas regulares para la devoción, y, en la medida de lo posible,
 
-acudir al mismo lugar para orar; sin embargo, el espritu de oracin es todava
+acudir al mismo lugar para orar; sin embargo, el espíritu de oración es todavía
 
-mejor que el hbito de la oracin. Es mejor ser capaz de orar en todo momento
+mejor que el hábito de la oración. Es mejor ser capaz de orar en todo momento
 
-que tener la regla de orar en ciertos momentos y ocasiones. Un cristiano es ms
+que tener la regla de orar en ciertos momentos y ocasiones. Un cristiano es más
 
-desarrollado en la gracia cuando ora por cada cosa, de lo que sera si slo
+desarrollado en la gracia cuando ora por cada cosa, de lo que sería si sólo
 
 orara en ciertas condiciones y circunstancias. Siempre siento que algo anda mal
 
-si paso sin orar incluso durante intervalos de media hora en el da. Yo no
+si paso sin orar incluso durante intervalos de media hora en el día. Yo no
 
-puedo entender cmo un cristiano puede pasarse sin orar de la maana a la
+puedo entender cómo un cristiano puede pasarse sin orar de la mańana a la
 
-noche. No puedo comprender cmo vive y cmo lucha la batalla de la vida sin
+noche. No puedo comprender cómo vive y cómo lucha la batalla de la vida sin
 
-pedir el cuidado guardin de Dios, mientras las flechas de la tentacin vuelan
+pedir el cuidado guardián de Dios, mientras las flechas de la tentación vuelan
 
-tan densamente a su alrededor. No puedo imaginar cmo puede decidir qu debe
+tan densamente a su alrededor. No puedo imaginar cómo puede decidir qué debe
 
-hacer en momentos de perplejidad, cmo puede ver sus propias imperfecciones o
+hacer en momentos de perplejidad, cómo puede ver sus propias imperfecciones o
 
-las faltas de los dems, sin sentirse constreido a decir, a lo largo de todo
+las faltas de los demás, sin sentirse constreńido a decir, a lo largo de todo
 
-el da: Oh Seor, guame; oh Seor, perdname; oh Seor, bendice a mi amigo!
+el día: “ˇOh Seńor, guíame; oh Seńor, perdóname; oh Seńor, bendice a mi amigo!”
 
-No puedo entender cmo puede estar recibiendo continuamente misericordias del
+No puedo entender cómo puede estar recibiendo continuamente misericordias del
 
-Seor sin decir: Gracias sean dadas a Dios por esta seal de Su gracia!
+Seńor sin decir: “ˇGracias sean dadas a Dios por esta seńal de Su gracia!
 
-Bendito sea el nombre del Seor por lo que est haciendo por m en Su
+ˇBendito sea el nombre del Seńor por lo que está haciendo por mí en Su
 
-abundante misericordia! Oh Seor, recurdame todava con el favor que muestras
+abundante misericordia! ˇOh Seńor, recuérdame todavía con el favor que muestras
 
-a Tu pueblo! No deben quedarse contentos, amados hermanos y hermanas en
+a Tu pueblo!” No deben quedarse contentos, amados hermanos y hermanas en
 
 Cristo, a menos que puedan orar en cualquier parte y en todo tiempo, y obedecer
 
-de esta manera el precepto apostlico: Orad sin cesar.
+de esta manera el precepto apostólico: “Orad sin cesar.”
 
 Ya les he recordado, queridos amigos, que Pedro
 
-elev esta oracin cuando se encontraba envuelto en circunstancias de inminente
+elevó esta oración cuando se encontraba envuelto en circunstancias de inminente
 
-peligro: Comenzando a hundirse, dio voces, diciendo: Seor, slvame! Pero
+peligro: “Comenzando a hundirse, dio voces, diciendo: ˇSeńor, sálvame!” “Pero”
 
-preguntar alguno no debi haber orado antes? Por supuesto que debi
+—preguntará alguno— “żno debió haber orado antes?” Por supuesto que debió
 
-haberlo hecho; pero si no lo haba hecho, tampoco era demasiado tarde. No
+haberlo hecho; pero si no lo había hecho, tampoco era demasiado tarde. No
 
-digan, en relacin a cualquier problema: ahora estoy tan profundamente metido
+digan, en relación a cualquier problema: “ahora estoy tan profundamente metido
 
-en l que no puedo llevarlo a Dios. Por qu no? Hay para Dios algo
+en él que no puedo llevarlo a Dios.” żPor qué no? “żHay para Dios algo
 
-difcil? Habra sido bueno que los discpulos hubieran orado antes de que el
+difícil?” Habría sido bueno que los discípulos hubieran orado antes de que el
 
 primer azote violento de la tempestad
 
 agitara la barquita, pero no era demasiado tarde para orar cuando el
 
-bajel pareca lanzado al naufragio.
+bajel parecía lanzado al naufragio.
 
-En tanto que tengas un corazn para orar, Dios
+En tanto que tengas un corazón para orar, Dios
 
-tiene un odo para or. Mira a Pedro; l est comenzando a hundirse. El agua
+tiene un oído para oír. Mira a Pedro; él está “comenzando a hundirse”. El agua
 
 le llega a las rodillas, le llega a su cintura, le llega a su cuello, pero
 
-todava no es muy tarde para que clame: Seor, slvame!, y tan pronto lo
+todavía no es muy tarde para que clame: “ˇSeńor, sálvame!”, y tan pronto lo
 
-dice, la mano de Jess se extiende para asirlo, y para guiarlo al barco.
+dice, la mano de Jesús se extiende para asirlo, y para guiarlo al barco.
 
 Entonces, cristiano, clama a Dios aunque el
 
-diablo te diga que de nada sirve clamar; clama a Dios aunque ests bajo el pie
+diablo te diga que de nada sirve clamar; clama a Dios aunque estés bajo el pie
 
-del tentador. Dile a Satans: T, enemigo mo, no te alegres de m, porque
+del tentador. Dile a Satanás: “Tú, enemigo mío, no te alegres de mí, porque
 
-aunque ca, ser levantado; pero no te olvides de clamar al Seor. Clama al
+aunque caí, seré levantado”; pero no te olvides de clamar al Seńor. Clama al
 
-Seor por tus hijos aun cuando sean ms impos, cuando su impiedad casi quebrante
+Seńor por tus hijos aun cuando sean más impíos, cuando su impiedad casi quebrante
 
-tu corazn. Clama a Dios en favor de tus alumnos de la escuela dominical;
+tu corazón. Clama a Dios en favor de tus alumnos de la escuela dominical;
 
-incluso cuando llegues a pensar que su carcter se est desarrollando de la
+incluso cuando llegues a pensar que su carácter se está desarrollando de la
 
-peor manera posible, aun as, ora por ellos. Que no te importe que lo que pidas
+peor manera posible, aun así, ora por ellos. Que no te importe que lo que pidas
 
-pareciera ser una imposibilidad, pues Dios es poderoso para hacer todas las
+pareciera ser una imposibilidad, pues Dios “es poderoso para hacer todas las
 
-cosas mucho ms abundantemente de lo que pedimos o entendemos.
+cosas mucho más abundantemente de lo que pedimos o entendemos”.
 
-Quisiera decirle tambin, a cualquier persona
+Quisiera decirle también, a cualquier persona
 
-inconversa que se encuentre aqu bajo conviccin de pecado: Querido amigo, a
+inconversa que se encuentre aquí bajo convicción de pecado: Querido amigo, a
 
-pesar de que ests comenzando a hundirte, debes orar. Aunque tus pecados te
+pesar de que estés comenzando a hundirte, debes orar. Aunque tus pecados te
 
-miren a la cara, y amenacen con empujarte a la desesperacin, aun as acrcate
+miren a la cara, y amenacen con empujarte a la desesperación, aun así acércate
 
-a tu Dios en oracin. Aunque parezca como si el infierno hubiera abierto sus
+a tu Dios en oración. Aunque parezca como si el infierno hubiera abierto sus
 
-fauces para tragarte, aun as, clama a Dios. Mientras hay vida hay esperanza.
+fauces para tragarte, aun así, clama a Dios. “Mientras hay vida hay esperanza”.
 
-En tanto que
+“En tanto que
 
-la lmpara se mantenga ardiendo,
+la lámpara se mantenga ardiendo,
 
 El pecador
 
-ms vil puede regresar,
+más vil puede regresar”,
 
-Y el ms vil pecador que regrese, descubrir que
+Y el más vil pecador que regrese, descubrirá que
 
-Dios es capaz de salvarle y est dispuesto a salvarle. No crean nunca esa
+Dios es capaz de salvarle y está dispuesto a salvarle. No crean nunca esa
 
-mentira de Satans que dice que la oracin no prevalecer ante Dios. Basta que
+mentira de Satanás que dice que la oración no prevalecerá ante Dios. Basta que
 
-vayas, como lo hizo el publicano, dndote golpes de pecho y clamando: Dios, s
+vayas, como lo hizo el publicano, dándote golpes de pecho y clamando: “Dios, sé
 
-propicio a m, pecador, y ten la seguridad de que Dios est esperndote para
+propicio a mí, pecador”, y ten la seguridad de que Dios está esperándote para
 
 ser clemente para contigo.
 
 No puedo evitar sentir que la breve y sencilla
 
-oracin de Pedro fue expresada en un tono de voz sumamente natural: Seor,
+oración de Pedro fue expresada en un tono de voz sumamente natural: “ˇSeńor,
 
-slvame! Debemos orar siempre justo de la manera que nos dicte el Espritu de
+sálvame!” Debemos orar siempre justo de la manera que nos dicte el Espíritu de
 
-Dios, y tal como la honda afliccin y humillacin de nuestro corazn nos lo
+Dios, y tal como la honda aflicción y humillación de nuestro corazón nos lo
 
-sugieran naturalmente. Muchas personas que oran en pblico adquieren el hbito
+sugieran naturalmente. Muchas personas que oran en público adquieren el hábito
 
-de usar ciertos tonos en la oracin que son todo excepto naturales, y me temo
+de usar ciertos tonos en la oración que son todo excepto naturales, y me temo
 
 que algunas personas no pueden orar de manera natural, incluso en privado.
 
 Cualquier lenguaje que no sea natural, es malo; el mejor tono es aquel que usa
 
-el hombre cuando est hablando sinceramente, y quiere decir lo que dice, y esa
+el hombre cuando está hablando sinceramente, y quiere decir lo que dice, y esa
 
-es la manera correcta de orar. Habla como si tuvieras la intencin de decirlo;
+es la manera correcta de orar. Habla como si tuvieras la intención de decirlo;
 
-no hables gimindolo, ni fingindolo, ni entonndolo, sino derrama tu alma de
+no hables gimiéndolo, ni fingiéndolo, ni entonándolo, sino derrama tu alma de
 
-la manera ms simple y natural que puedas.
+la manera más simple y natural que puedas.
 
 Pedro se encontraba en un peligro demasiado
 
-grande como para incorporar algn lenguaje sutil a su oracin; estaba demasiado
+grande como para incorporar algún lenguaje sutil a su oración; estaba demasiado
 
-consciente de su peligro para considerar cmo poda estructurar sus palabras en
+consciente de su peligro para considerar cómo podía estructurar sus palabras en
 
-un todo coherente; slo expres, en cambio, el fuerte deseo de su alma de la
+un todo coherente; sólo expresó, en cambio, el fuerte deseo de su alma de la
 
-manera ms sencilla posible: Seor, slvame!; y esa oracin fue escuchada, y
+manera más sencilla posible: “ˇSeńor, sálvame!”; y esa oración fue escuchada, y
 
-Pedro fue salvado de ahogarse, tal como un pecador ser salvado del infierno si
+Pedro fue salvado de ahogarse, tal como un pecador será salvado del infierno si
 
 puede orar de la misma manera.
 
 I.
 
-Ahora, abordando la propia oracin de Pedro, y
+Ahora, abordando la propia oración de Pedro, y
 
-sugiriendo que se trata de una oracin adecuada para todos los que sean capaces
+sugiriendo que se trata de una oración adecuada para todos los que sean capaces
 
-de elevar algn tipo de oracin, mi primera observacin al respecto ES QUE FUE
+de elevar algún tipo de oración, mi primera observación al respecto ES QUE FUE
 
-UNA ORACIN MUY BREVE.
+UNA ORACIÓN MUY BREVE.
 
-Slo contena dos palabras: Seor, slvame!
+Sólo contenía dos palabras: “ˇSeńor, sálvame!”
 
-Yo creo que la excelencia de la oracin consiste a menudo en su brevedad.
+Yo creo que la excelencia de la oración consiste a menudo en su brevedad.
 
-Habrn notado la extrema brevedad de la mayora de las oraciones que fueron
+Habrán notado la extrema brevedad de la mayoría de las oraciones que fueron
 
-preservadas en la Biblia. Una de las oraciones ms largas es la oracin de
+preservadas en la Biblia. Una de las oraciones más largas es la oración de
 
-nuestro Salvador, registrada por Juan, que habra tomado, yo supongo, alrededor
+nuestro Salvador, registrada por Juan, que habría tomado, yo supongo, alrededor
 
-de unos cinco minutos; y est tambin la oracin de Salomn con motivo de la
+de unos cinco minutos; y está también la oración de Salomón con motivo de la
 
-dedicacin del templo, que podra haber tomado unos seis minutos. Casi todas
+dedicación del templo, que podría haber tomado unos seis minutos. Casi todas
 
-las dems oraciones registradas en la Biblia son muy breves; y, probablemente,
+las demás oraciones registradas en la Biblia son muy breves; y, probablemente,
 
-en nuestros servicios pblicos de oracin, oramos mucho ms extensamente que
+en nuestros servicios públicos de oración, oramos mucho más extensamente que
 
-todas esas oraciones sumadas juntas. Esto podra ser excusado, tal vez, cuando
+todas esas oraciones sumadas juntas. Esto podría ser excusado, tal vez, cuando
 
 hay muchas peticiones que han de ser presentadas por una persona a nombre de
 
-una numerosa congregacin; pero, en nuestras reuniones de oracin, donde
+una numerosa congregación; pero, en nuestras reuniones de oración, donde
 
-participan muchas personas, estoy seguro de que, entre ms larga sea la
+participan muchas personas, estoy seguro de que, entre más larga sea la
 
-oracin, ser peor.
+oración, será peor.
 
 Por supuesto que hay excepciones a esta regla.
 
-El Espritu de Dios inspira a veces a un hombre de tal manera que, si se
+El Espíritu de Dios inspira a veces a un hombre de tal manera que, si se
 
-mantuviera orando toda la noche, nos alegraramos de unirnos a l en ese santo
+mantuviera orando toda la noche, nos alegraríamos de unirnos a él en ese santo
 
 ejercicio; pero, como regla general, no hace esas cosas. Hay algunos que oran
 
-ms prolongadamente cuando tienen menos cosas que decir, y nicamente continan
+más prolongadamente cuando tienen menos cosas que decir, y únicamente continúan
 
-repitiendo ciertas frases pas que casi pierden todo significado por la
+repitiendo ciertas frases pías que casi pierden todo significado por la
 
-montona reiteracin.
+monótona reiteración.
 
-Queridos amigos, cuando estn orando, ya sea en
+Queridos amigos, cuando estén orando, ya sea en
 
-pblico o en privado, recuerden que no tienen necesidad de ensearle al Seor
+público o en privado, recuerden que no tienen necesidad de enseńarle al Seńor
 
-un sistema de teologa; l sabe mucho ms acerca de eso que ustedes. No tienen
+un sistema de teología; Él sabe mucho más acerca de eso que ustedes. No tienen
 
-ninguna necesidad de explicarle al Seor toda la experiencia que un cristiano debe
+ninguna necesidad de explicarle al Seńor toda la experiencia que un cristiano debe
 
-tener, pues l lo sabe mucho mejor que ustedes. Y no hay necesidad de volver a
+tener, pues Él lo sabe mucho mejor que ustedes. Y no hay necesidad de volver a
 
 repetir siempre las diversas agencias, e instituciones, y estaciones de
 
-misiones. Dganle al Seor lo que est en su corazn, tan brevemente como sea
+misiones. Díganle al Seńor lo que esté en su corazón, tan brevemente como sea
 
-posible, para poder as dejar tiempo y oportunidad para que otras personas
+posible, para poder así dejar tiempo y oportunidad para que otras personas
 
 hagan lo mismo.
 
-Me pregunto si hay alguien que dice: no tengo
+Me pregunto si hay alguien que dice: “no tengo
 
-tiempo para la oracin. Querido amigo, te atreves a abandonar tu hogar por la
+tiempo para la oración”. Querido amigo, żte atreves a abandonar tu hogar por la
 
-maana sin arrodillarte delante de Dios? Puedes aventurarte a cerrar tus ojos
+mańana sin arrodillarte delante de Dios? żPuedes aventurarte a cerrar tus ojos
 
 en la noche y mostrar la imagen de la muerte, sin encomendarte primero a la
 
-custodia de Dios durante las horas de inconciencia en el sueo? No entiendo
+custodia de Dios durante las horas de inconciencia en el sueńo? No entiendo
 
-cmo puedes llevar una vida tan despreocupada como esa. Pero, seguramente, no
+cómo puedes llevar una vida tan despreocupada como esa. Pero, seguramente, no
 
-quisiste decir, en realidad, que no tenas tiempo para ofrecer una oracin como
+quisiste decir, en realidad, que no tenías tiempo para ofrecer una oración como
 
-la plegaria de Pedro: Seor, slvame! Cunto tiempo toma esa oracin? O
+la plegaria de Pedro: “ˇSeńor, sálvame!” żCuánto tiempo toma esa oración? żO
 
-cunto tiempo toma esta: Dios, s propicio a m, pecador? Si t te dieras
+cuánto tiempo toma esta: “Dios, sé propicio a mí, pecador”? Si tú te dieras
 
-cuenta de tu verdadera condicin a los ojos de Dios, encontraras el tiempo
+cuenta de tu verdadera condición a los ojos de Dios, encontrarías el tiempo
 
-para orar de una u otra manera, pues sentiras que debes orar.
+para orar de una u otra manera, pues sentirías que debes orar.
 
 Cuando Pedro comenzaba a hundirse, nunca se le
 
-ocurri que no tena tiempo para la oracin. Sinti que deba orar; su sentido
+ocurrió que no tenía tiempo para la oración. Sintió que debía orar; su sentido
 
-del peligro lo forz a implorarle a Cristo: Seor, slvame! Y si lo sintieras
+del peligro lo forzó a implorarle a Cristo: “ˇSeńor, sálvame!” Y si lo sintieras
 
-como deberas sentirlo, tu sentido de necesidad te conducir a la oracin, y
+como deberías sentirlo, tu sentido de necesidad te conducirá a la oración, y
 
-nunca ms dirs: no tengo tiempo para la oracin. No es tanto un asunto de
+nunca más dirás: “no tengo tiempo para la oración.” No es tanto un asunto de
 
-tiempo como un asunto del corazn; si tienes el corazn para orar, encontrars
+tiempo como un asunto del corazón; si tienes el corazón para orar, encontrarás
 
 el tiempo.
 
-Los exhorto a cultivar el hbito de orar con
+Los exhorto a cultivar el hábito de orar con
 
-brevedad a lo largo de todo el da. Ya les he comentado anteriormente acerca
+brevedad a lo largo de todo el día. Ya les he comentado anteriormente acerca
 
 del puritano que, en un debate, fue visto tomando notas, y cuando fueron examinadas
 
-posteriormente, se descubri que no haba nada en el papel, excepto estas
+posteriormente, se descubrió que no había nada en el papel, excepto estas
 
-palabras: Ms luz, Seor! Ms luz, Seor! Ms luz, Seor! Necesitaba ms luz
+palabras: “ˇMás luz, Seńor! ˇMás luz, Seńor! ˇMás luz, Seńor!” Necesitaba más luz
 
-sobre el tema bajo discusin y, por tanto, la peda al Seor, y esa es la
+sobre el tema bajo discusión y, por tanto, la pedía al Seńor, y esa es la
 
-manera de orar. T puedes orar durante el da: Seor, dame ms gracia. Seor,
+manera de orar. Tú puedes orar durante el día: “Seńor, dame más gracia. Seńor,
 
-sujeta mi temperamento. Dime, oh Dios mo, qu he de hacer en este caso! Seor,
+sujeta mi temperamento. ˇDime, oh Dios mío, qué he de hacer en este caso! Seńor,
 
-dirgeme. Seor, slvame. Oren de esta manera, y estarn imitando el buen
+dirígeme. Seńor, sálvame.” Oren de esta manera, y estarán imitando el buen
 
-ejemplo de brevedad en la oracin que nuestro texto coloca ante ustedes.
+ejemplo de brevedad en la oración que nuestro texto coloca ante ustedes.
 
 II.
 
-Noten, a continuacin que, aunque la oracin de
+Noten, a continuación que, aunque la oración de
 
 Pedro haya sido muy breve, FUE MARAVILLOSAMENTE INCLUSIVA, Y ADAPTADA PARA SER
 
-USADA EN MUCHAS OCASIONES DIFERENTES: Seor, slvame!
+USADA EN MUCHAS OCASIONES DIFERENTES: “ˇSeńor, sálvame!”
 
-Esa oracin cubri todas las necesidades de
+Esa oración cubrió todas las necesidades de
 
-Pedro en aquel instante, y podra haberla seguido usando en tanto que viviera.
+Pedro en aquel instante, y podría haberla seguido usando en tanto que viviera.
 
-Cuando su Maestro le dijo que Satans lo haba pedido para zarandearlo como a
+Cuando su Maestro le dijo que Satanás lo había pedido para zarandearlo como a
 
-trigo, pudo haber orado igualmente: Seor, slvame! Cuando neg a su
+trigo, pudo haber orado igualmente: “ˇSeńor, sálvame!” Cuando negó a su
 
-Maestro, y sali, y llor amargamente, le habra sido bueno orar: Seor,
+Maestro, y salió, y lloró amargamente, le habría sido bueno orar: “ˇSeńor,
 
-slvame! Cuando posteriormente se desplaz de un lado para otro predicando el
+sálvame!” Cuando posteriormente se desplazó de un lado para otro predicando el
 
-Evangelio, todava hubiera podido orar: Seor, slvame!; y cuando, al final,
+Evangelio, todavía hubiera podido orar: “ˇSeńor, sálvame!”; y cuando, al final,
 
-fue llevado para ser crucificado por causa de Cristo, difcilmente habra
+fue llevado para ser crucificado por causa de Cristo, difícilmente habría
 
-podido encontrar una mejor oracin con la que concluir su vida que esta:
+podido encontrar una mejor oración con la que concluir su vida que esta:
 
-Seor, slvame!
+“ˇSeńor, sálvame!”
 
-Ahora, as como Pedro encontr que esta oracin
+Ahora, así como Pedro encontró que esta oración
 
-era muy apropiada para l, yo la recomiendo para cada uno de ustedes. Te has
+era muy apropiada para él, yo la recomiendo para cada uno de ustedes. żTe has
 
-estado haciendo rico ltimamente? Entonces, sers tentado a volverte altivo y
+estado haciendo rico últimamente? Entonces, serás tentado a volverte altivo y
 
-mundano; por tanto, ora: Seor, slvame de los males que acompaan a las
+mundano; por tanto, ora: “Seńor, sálvame de los males que acompańan a las
 
-riquezas con tanta frecuencia; T me ests dando esta riqueza; aydame a que
+riquezas con tanta frecuencia; Tú me estás dando esta riqueza; ayúdame a que
 
-sea un buen mayordomo para ella, y que no la convierta en un dolo. O, te
+sea un buen mayordomo para ella, y que no la convierta en un ídolo.” O, żte
 
-ests volviendo pobre? Es tu negocio un fracaso? Se estn acabando tus
+estás volviendo pobre? żEs tu negocio un fracaso? żSe están acabando tus
 
-escasos ahorros? Bien, hay peligros que estn vinculados a la pobreza; entonces
+escasos ahorros? Bien, hay peligros que están vinculados a la pobreza; entonces
 
-ora: Seor, slvame de volverme envidioso o de estar descontento; concdeme
+ora: “Seńor, sálvame de volverme envidioso o de estar descontento; concédeme
 
-que est dispuesto a ser pobre en vez de hacer cualquier cosa mala para tener
+que esté dispuesto a ser pobre en vez de hacer cualquier cosa mala para tener
 
-dinero. Sientes, querido amigo, que no ests viviendo tan cerca de Dios como
+dinero.” żSientes, querido amigo, que no estás viviendo tan cerca de Dios como
 
-lo hiciste una vez? Se est haciendo notoria en ti la influencia congeladora
+lo hiciste una vez? żSe está haciendo notoria en ti la influencia congeladora
 
-del mundo? Entonces ora: Seor, slvame! Has cado en algn pecado que
+del mundo? Entonces ora: “ˇSeńor, sálvame!” żHas caído en algún pecado que
 
-temes que podra acarrear una deshonra para tu profesin? Bien, entonces, antes
+temes que podría acarrear una deshonra para tu profesión? Bien, entonces, antes
 
-de que ese pecado crezca, clama: Seor, slvame! Has llegado a algn lugar
+de que ese pecado crezca, clama: “ˇSeńor, sálvame!” żHas llegado a algún lugar
 
-donde tu pie ha estado muy cerca de resbalar? El precipicio est justo delante
+donde tu pie ha estado muy cerca de resbalar? El precipicio está justo delante
 
-de ti, y sientes que, si algn poder ms fuerte que el tuyo no interviniera,
+de ti, y sientes que, si algún poder más fuerte que el tuyo no interviniera,
 
-caeras, y sufriras un dao severo, si es que no la total destruccin.
+caerías, y sufrirías un dańo severo, si es que no la total destrucción.
 
-Entonces, musita de inmediato la oracin: Seor, slvame! Yo puedo
+Entonces, musita de inmediato la oración: “ˇSeńor, sálvame!” Yo puedo
 
-recomendarte esta oracin cuando ests en medio de un mar tormentoso, pero ser
+recomendarte esta oración cuando estés en medio de un mar tormentoso, pero será
 
-igualmente apropiada para ti mientras ests en tierra firme: Seor, slvame!
+igualmente apropiada para ti mientras estés en tierra firme: “ˇSeńor, sálvame!”
 
-Puedo recomendrtela como una oracin apropiada para ti cuando ests cerca de
+Puedo recomendártela como una oración apropiada para ti cuando estés cerca de
 
 las puertas de la muerte, pero es muy adaptada para ti cuando gozas de una
 
-vigorosa salud: Seor, slvame! Y si pudieras agregar a la oracin: y,
+vigorosa salud: “ˇSeńor, sálvame!” Y si pudieras agregar a la oración: “y,
 
-Seor, salva a mis hijos, y a mis parientes, y a mis vecinos, sera mejor
+Seńor, salva a mis hijos, y a mis parientes, y a mis vecinos”, sería mejor
 
-todava. A pesar de eso, para ti personalmente es una admirable oracin para
+todavía. A pesar de eso, para ti personalmente es una admirable oración para
 
-que la lleves contigo dondequiera que vayas: Seor, slvame!
+que la lleves contigo dondequiera que vayas: “ˇSeńor, sálvame!”
 
 III.
 
-La oracin de Pedro tiene una tercera
+La oración de Pedro tiene una tercera
 
-excelencia: ERA MUY DIRECTA. De nada le habra servido a Pedro, justo entonces,
+excelencia: ERA MUY DIRECTA. De nada le habría servido a Pedro, justo entonces,
 
-haber usado los muchos ttulo que vlidamente pertenecen a Cristo, o haber
+haber usado los muchos título que válidamente pertenecen a Cristo, o haber
 
 comenzado a pedir mil cosas; Pedro fue directo al tema de su inmediata
 
-necesidad, y clam: Seor, slvame!
+necesidad, y clamó: “ˇSeńor, sálvame!”
 
 Cuando uno de nuestros queridos amigos, que
 
-recientemente se fue al cielo, se encontraba muy enfermo, uno de sus hijos or
+recientemente se fue al cielo, se encontraba muy enfermo, uno de sus hijos oró
 
-con l. Comenz de una manera muy formal: Padre Todopoderoso, Creador del
+con él. Comenzó de una manera muy formal: “Padre Todopoderoso, Creador del
 
-cielo y de la tierra y Creador nuestro, pero el enfermo le detuvo y le dijo:
+cielo y de la tierra y Creador nuestro”, pero el enfermo le detuvo y le dijo:
 
-mi querido muchacho, yo soy un pobre pecador, y necesito la misericordia de
+“mi querido muchacho, yo soy un pobre pecador, y necesito la misericordia de
 
-Dios; di: Seor, slvale! El moribundo necesitaba que su hijo fuera al
+Dios; di: “ˇSeńor, sálvale!” El moribundo necesitaba que su hijo fuera al
 
-grano, y yo me identifico con l; pues, con frecuencia, cuando algunos de
+grano, y yo me identifico con él; pues, con frecuencia, cuando algunos de
 
-nuestros amados hermanos han estado orando aqu y se han andado con rodeos, yo
+nuestros amados hermanos han estado orando aquí y se han andado con rodeos, yo
 
 hubiera deseado que fueran al grano, y que pidieran por aquello que realmente
 
 necesitaban. Han seguido dando vueltas alrededor de la casa, en vez de tocar la
 
-puerta y tratar de entrar. La oracin de Pedro nos muestra cmo debemos ir
+puerta y tratar de entrar. La oración de Pedro nos muestra cómo debemos ir
 
-directo al corazn del asunto: Seor, slvame!
+directo al corazón del asunto: “ˇSeńor, sálvame!”
 
 Muchas personas dejan de recibir respuestas a
 
 sus oraciones porque no van directo a Dios, y no confiesan los pecados que han
 
-cometido. Haba un miembro de una iglesia cristiana que, en una ocasin, cay
+cometido. Había un miembro de una iglesia cristiana que, en una ocasión, cayó
 
-muy vergonzosamente a travs de la bebida. Estaba muy contrito, y le pidi a su
+muy vergonzosamente a través de la bebida. Estaba muy contrito, y le pidió a su
 
-pastor que orara por l, pero no quera revelar cul haba sido su pecado. El
+pastor que orara por él, pero no quería revelar cuál había sido su pecado. El
 
-pastor or, y luego le pidi al hermano que l mismo orara. El pobre hombre
+pastor oró, y luego le pidió al hermano que él mismo orara. El pobre hombre
 
-dijo: Seor, T sabes que he errado, y que he hecho lo malo, y sigui de esa
+dijo: “Seńor, Tú sabes que he errado, y que he hecho lo malo”, y siguió de esa
 
-manera, haciendo una suerte de confesin general, pero eso no le trajo paz a su
+manera, haciendo una suerte de confesión general, pero eso no le trajo paz a su
 
-mente. Sinti que no poda retirarse de esa manera, as que se puso de rodillas
+mente. Sintió que no podía retirarse de esa manera, así que se puso de rodillas
 
-de nuevo, y dijo: Seor, T sabes que yo estaba borracho; el pecado que comet
+de nuevo, y dijo: “Seńor, Tú sabes que yo estaba borracho; el pecado que cometí
 
-fue muy vergonzoso, y estoy en verdad muy afligido por ello; oh Seor,
+fue muy vergonzoso, y estoy en verdad muy afligido por ello; ˇoh Seńor,
 
-perdname por medio de Jess!, y antes de que su oracin hubiera terminado,
+perdóname por medio de Jesús!”, y antes de que su oración hubiera terminado,
 
-haba encontrado la paz porque haba confesado claramente su pecado a Dios, y
+había encontrado la paz porque había confesado claramente su pecado a Dios, y
 
-ya no trat de ocultarlo ms.
+ya no trató de ocultarlo más.
 
-Ustedes recuerdan que David no poda tener nada
+Ustedes recuerdan que David no podía tener nada
 
-de paz hasta que fue al punto y or: Lbrame de homicidios, oh Dios, Dios de
+de paz hasta que fue al punto y oró: “Líbrame de homicidios, oh Dios, Dios de
 
-mi salvacin. Antes de eso, haba tratado de ocultar su grave pecado; pero no
+mi salvación.” Antes de eso, había tratado de ocultar su grave pecado; pero no
 
-hubo reposo para su conciencia hasta que hizo una confesin plena de su culpa y,
+hubo reposo para su conciencia hasta que hizo una confesión plena de su culpa y,
 
-despus de eso, David pudo decir: Los sacrificios de Dios son el espritu
+después de eso, David pudo decir: “Los sacrificios de Dios son el espíritu
 
-quebrantado; al corazn contrito y humillado no despreciars t, oh Dios.
+quebrantado; al corazón contrito y humillado no despreciarás tú, oh Dios”.
 
 Nuestras oraciones, ya sean por nosotros mismos
 
@@ -534,183 +534,183 @@ o por otros, y especialmente nuestras confesiones de pecado, han de ir
 
 directamente al grano, y no debemos andarnos con rodeos. Si cualquiera ustedes
 
-ha estado usando formas de oracin que no han alcanzado para el involucrado
+ha estado usando formas de oración que no han alcanzado para el involucrado
 
-ninguna respuesta a sus splicas, hgalas todas a un lado, y simplemente debe
+ninguna respuesta a sus súplicas, hágalas todas a un lado, y simplemente debe
 
-ir y decirle al Seor, claramente, lo que necesita. Su oracin ser
+ir y decirle al Seńor, claramente, lo que necesita. Su oración será
 
-probablemente entonces algo como esto: oh Dios, yo soy un pecador perdido! He
+probablemente entonces algo como esto: “ˇoh Dios, yo soy un pecador perdido! He
 
 sido negligente acerca de las cosas divinas; he escuchado el Evangelio pero no
 
-lo he obedecido. Seor, perdname, slvame, hazme Tu hijo, y concdenos que yo
+lo he obedecido. Seńor, perdóname, sálvame, hazme Tu hijo, y concédenos que yo
 
-y mi casa seamos Tuyos para siempre. Esa es la forma de orar para que Dios los
+y mi casa seamos Tuyos para siempre.” Esa es la forma de orar para que Dios los
 
 oiga y les responda.
 
 IV.
 
-Otra caracterstica de la oracin de Pedro es
+Otra característica de la oración de Pedro es
 
-que fue UNA ORACIN SATURADA DE SANA DOCTRINA: Seor, slvame!
+que fue UNA ORACIÓN SATURADA DE SANA DOCTRINA: “ˇSeńor, sálvame!”
 
-No da la impresin de que Pedro hubiese pensado
+No da la impresión de que Pedro hubiese pensado
 
-en salvarse a s mismo de ahogarse; no da la impresin de que Pedro pensara que
+en salvarse a sí mismo de ahogarse; no da la impresión de que Pedro pensara que
 
-haba en l una suficiente flotacin natural que le podra mantener a flote, o
+había en él una suficiente flotación natural que le podría mantener a flote, o
 
-que podra nadar hasta el barco; sino, comenzando a hundirse, dio voces,
+que podría nadar hasta el barco; sino, “comenzando a hundirse, dio voces,
 
-diciendo: Seor, slvame! Una de las tareas ms arduas del mundo es lograr
+diciendo: ˇSeńor, sálvame!” Una de las tareas más arduas del mundo es lograr
 
-que un hombre renuncie a toda la confianza en s mismo, y que ore con todo su
+que un hombre renuncie a toda la confianza en sí mismo, y que ore con todo su
 
-corazn: Seor, slvame!
+corazón: “ˇSeńor, sálvame!”
 
-En lugar de hacer eso, dice: Oh Seor, no
+En lugar de hacer eso, dice: “Oh Seńor, no
 
-siento lo que debera sentir; quiero sentir ms mi necesidad, quiero sentir ms
+siento lo que debería sentir; quiero sentir más mi necesidad, quiero sentir más
 
-gozo, quiero sentir ms santidad. Ustedes ven que est poniendo a los
+gozo, quiero sentir más santidad”. Ustedes ven que está poniendo a los
 
-sentimientos en el lugar de la fe; est estableciendo, por decirlo as, una
+sentimientos en el lugar de la fe; está estableciendo, por decirlo así, una
 
 ruta a lo largo de la cual quiere que Dios camine, en vez de caminar en la
 
-senda que Dios ha sealado para todos aquellos que desean ser salvados.
+senda que Dios ha seńalado para todos aquellos que desean ser salvados.
 
-Otra persona est buscando reformarse a s
+Otra persona está buscando reformarse a sí
 
-misma, para autoadecuarse de esta manera para el cielo; y ora en armona con
+misma, para autoadecuarse de esta manera para el cielo; y ora en armonía con
 
-esa idea, y como era de esperarse, no recibe respuesta. Me encanta or
+esa idea, y como era de esperarse, no recibe respuesta. Me encanta oír
 
-oraciones como esta: oh Seor, yo no puedo salvarme a m mismo, y no te pido
+oraciones como esta: “oh Seńor, yo no puedo salvarme a mí mismo, y no te pido
 
-que me salves de la manera que yo prescriba; Seor, slvame de cualquier
+que me salves de la manera que yo prescriba; ˇSeńor, sálvame de cualquier
 
-manera, solamente slvame! Me basta con ser salvado por la preciosa sangre de
+manera, solamente sálvame! Me basta con ser salvado por la preciosa sangre de
 
-Jess. Me basta con ser salvado por la obra regeneradora del Espritu Santo. S
+Jesús. Me basta con ser salvado por la obra regeneradora del Espíritu Santo. Sé
 
-que debo nacer de nuevo si he de entrar jams en el cielo; revveme, oh
+que debo nacer de nuevo si he de entrar jamás en el cielo; ˇrevíveme, oh
 
-Espritu siempre bendito! Yo s que debo renunciar a mis pecados. Seor, yo no
+Espíritu siempre bendito! Yo sé que debo renunciar a mis pecados. Seńor, yo no
 
 quiero conservarlos; te suplico humildemente que me salves de mis pecados por
 
-Tu gracia. Yo s que slo T puedes hacer esta obra; yo no puedo ni siquiera
+Tu gracia. ˇYo sé que sólo Tú puedes hacer esta obra; yo no puedo ni siquiera
 
-levantar un dedo para ayudarte en ella; entonces, slvame, Seor, por Tu grande
+levantar un dedo para ayudarte en ella; entonces, sálvame, Seńor, por Tu grande
 
-misericordia!
+misericordia!”
 
-Esta es una sana verdad doctrinal: la salvacin
+Esta es una sana verdad doctrinal: la salvación
 
-en la que todo es por gracia, no del hombre ni llevada a cabo por el hombre; No
+en la que todo es por gracia, no del hombre ni llevada a cabo por el hombre; “No
 
-son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varn,
+son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón,
 
-sino de Dios; es la salvacin de acuerdo al propsito eterno de Dios, por la
+sino de Dios”; es la salvación de acuerdo al propósito eterno de Dios, por la
 
-obra eficaz del Espritu Santo, a travs del sacrificio sustitutivo de
+obra eficaz del Espíritu Santo, a través del sacrificio sustitutivo de
 
-Jesucristo. Cuando un pecador est dispuesto a aceptar la salvacin en los
+Jesucristo. Cuando un pecador está dispuesto a aceptar la salvación en los
 
-trminos de Dios, entonces la oracin asciende aceptablemente hacia el
+términos de Dios, entonces la oración asciende aceptablemente hacia el
 
-Altsimo: Seor, slvame!
+Altísimo: “ˇSeńor, sálvame!”
 
 V.
 
-Noten, tambin, que LA ORACIN DE PEDRO FUE UNA
+Noten, también, que LA ORACIÓN DE PEDRO FUE UNA
 
-ORACIN MUY PERSONAL: Seor, slva
+ORACIÓN MUY PERSONAL: “ˇSeńor, sálva
 
-me!
+me!”
 
-En ese instante, Pedro no pens en nadie ms; y
+En ese instante, Pedro no pensó en nadie más; y
 
-cuando un alma est preocupada por sus intereses eternos, sera conveniente, al
+cuando un alma está preocupada por sus intereses eternos, sería conveniente, al
 
-principio, que limitara sus pensamientos a pensar en s misma, y a orar:
+principio, que limitara sus pensamientos a pensar en sí misma, y a orar:
 
-Seor, slva
+“ˇSeńor, sálva
 
-me!
+me!”
 
 Y en la vida
 
-posterior del cristiano, vendrn momentos en los que le sera mejor, por un
+posterior del cristiano, vendrán momentos en los que le sería mejor, por un
 
-tiempo, olvidar a todos los dems, y orar simplemente: Seor, slva
+tiempo, olvidar a todos los demás, y orar simplemente: “ˇSeńor, sálva
 
-me!
+me!”
 
-Henos aqu, una gran congregacin, reunidos
+Henos aquí, una gran congregación, reunidos
 
-juntos por muy diferentes motivos; y, tal vez, algunas personas aqu que no
+juntos por muy diferentes motivos; y, tal vez, algunas personas aquí que no
 
-estn todava personalmente interesadas en Cristo, esperan vagamente que Dios
+están todavía personalmente interesadas en Cristo, esperan vagamente que Dios
 
-bendiga a alguien en esta asamblea; pero si el Espritu Santo comenzara a obrar
+bendiga a alguien en esta asamblea; pero si el Espíritu Santo comenzara a obrar
 
-en el corazn y en la conciencia de un individuo, la persona convicta comenzar
+en el corazón y en la conciencia de un individuo, la persona convicta comenzará
 
-a orar: Seor, slva
+a orar: “ˇSeńor, sálva
 
-me!
+me!”
 
 Me entero
 
-de muchas otras personas que estn siendo llevadas a Jess; pero, Seor,
+de muchas otras personas que están siendo llevadas a Jesús; pero, Seńor,
 
-slvame
+sálvame
 
-a m.
+a mí.
 
 Mi amada hermana ha
 
-sido convertida y ha hecho una profesin de su fe; pero, Seor, slva
+sido convertida y ha hecho una profesión de su fe; pero, Seńor, sálva
 
 me.
 
 Tuve una madre piadosa, que se ha
 
-ido a casa, a la gloria; y mi amado padre est caminando en Tu temor; no
+ido a casa, a la gloria; y mi amado padre está caminando en Tu temor; no
 
-permitas que su hijo sea un desechado; Seor, slva
+permitas que su hijo sea un desechado; Seńor, sálva
 
-me.
+me.”
 
-Yo suplico a cada persona aqu presente que
+Yo suplico a cada persona aquí presente que
 
-eleve esta oracin personal, y les ruego a aquellos que ciertamente aman al
+eleve esta oración personal, y les ruego a aquellos que ciertamente aman al
 
-Seor, que se unan a m en interceder ante l para que as suceda. Yo veo a unas
+Seńor, que se unan a mí en interceder ante Él para que así suceda. Yo veo a unas
 
-niitas por all; no querr cada una de ustedes, mis amadas nias, elevar esta
+nińitas por allá; żno querrá cada una de ustedes, mis amadas nińas, elevar esta
 
-oracin? Le pido al Espritu Santo que las conduzca a clamar: Seor, salva a
+oración? Le pido al Espíritu Santo que las conduzca a clamar: “ˇSeńor, salva a
 
-Anita!, o Seor, salva a la pequea Mara; o que, de igual manera, ustedes,
+Anita!”, o “Seńor, salva a la pequeńa María”; o que, de igual manera, ustedes,
 
-muchachos, sean llevados a orar, Seor, salva a Toms, o Seor, salva a
+muchachos, sean llevados a orar, “Seńor, salva a Tomás”, o “Seńor, salva a
 
-Memo.
+Memo.”
 
 Ora por ti mismo precisamente de esa manera
 
-sencilla y quin sabe qu bendicin pueda venirte? Entonces ustedes, madres,
+sencilla y żquién sabe qué bendición pueda venirte? Entonces ustedes, madres,
 
-no dejarn que sus hijos oren por ellos mismos, mientras ustedes permanecen sin
+no dejarán que sus hijos oren por ellos mismos, mientras ustedes permanecen sin
 
-elevar sus oraciones; acaso no clamar cada una de ustedes: Seor,
+elevar sus oraciones; żacaso no clamará cada una de ustedes: “ˇSeńor,
 
-slvame!? Y ustedes, obreros, a quienes
+sálvame!”? Y ustedes, obreros, a quienes
 
 me
 
@@ -720,57 +720,57 @@ ver en el servicio nocturno entre semana, no se vayan sin presentar sus propias
 
 peticiones personales.
 
-El apstol Pedro tuvo que orar por s mismo; los
+El apóstol Pedro tuvo que orar por sí mismo; los
 
-ms eminentes siervos de Dios tuvieron que orar por s mismos, y ustedes tienen
+más eminentes siervos de Dios tuvieron que orar por sí mismos, y ustedes tienen
 
 que orar por ustedes mismos. Aunque todos los santos de Dios fueran a orar por
 
-ti mientras vivas, con una voz unida, no seras salvo a menos que t clamaras
+ti mientras vivas, con una voz unida, no serías salvo a menos que tú clamaras
 
-tambin a Dios por ti mismo. La religin es un asunto personal; no hay tal cosa
+también a Dios por ti mismo. La religión es un asunto personal; no hay tal cosa
 
-como una religin mediante otorgamiento de poderes. Ustedes deben arrepentirse
+como una religión mediante otorgamiento de poderes. Ustedes deben arrepentirse
 
 por ustedes mismos, y deben orar por ustedes mismos, y creer por ustedes
 
-mismos, si es que quieren ser salvados. Que Dios les conceda que hagan esto!
+mismos, si es que quieren ser salvados. ˇQue Dios les conceda que hagan esto!
 
 VI.
 
-Quiero que noten, a continuacin, que LA ORACIN
+Quiero que noten, a continuación, que LA ORACIÓN
 
-DE PEDRO FUE UNA ORACIN MUY URGENTE: Seor, slvame!
+DE PEDRO FUE UNA ORACIÓN MUY URGENTE: “ˇSeńor, sálvame!”
 
-Pedro no dijo: Seor, slvame maana, o slvame
+Pedro no dijo: “Seńor, sálvame mańana”, o “sálvame
 
-dentro de una hora. l estaba comenzando a hundirse; las olas hambrientas haban
+dentro de una hora.” Él estaba “comenzando a hundirse”; las olas hambrientas habían
 
-abierto sus fauces para tragrselo, y pronto habra desaparecido. Slo tuvo
+abierto sus fauces para tragárselo, y pronto habría desaparecido. Sólo tuvo
 
-tiempo de gritar: Seor, slvame!; pero sin duda quiso decir: Seor,
+tiempo de gritar: “ˇSeńor, sálvame!”; pero sin duda quiso decir: “Seńor,
 
-slvame ahora, pues ahora estoy en peligro de ahogarme. Seor, slvame ahora;
+sálvame ahora, pues ahora estoy en peligro de ahogarme. Seńor, sálvame ahora;
 
-pues, si te demoras, me hundir hasta el fondo del mar. Al momento Jess,
+pues, si te demoras, me hundiré hasta el fondo del mar”. “Al momento Jesús,
 
-extendiendo la mano, asi de l, y as le salv.
+extendiendo la mano, asió de él”, y así le salvó.
 
-Hay muchas personas que quisieran que Jess las
+Hay muchas personas que quisieran que Jesús las
 
-salve, pero, cundo? Ah!, ese es el punto que no han decidido todava. Un
+salve, pero, żcuándo? ˇAh!, ese es el punto que no han decidido todavía. Un
 
-joven dice: me gustara que Cristo me salvara cuando me vuelva viejo, cuando
+joven dice: “me gustaría que Cristo me salvara cuando me vuelva viejo, cuando
 
-haya visto un poco ms de la vida. Quieres decir: cuando hayas visto mucho ms
+haya visto un poco más de la vida”. Quieres decir: cuando hayas visto mucho más
 
-de la muerte, pues eso es todo lo que vers en el mundo; no hay vida verdadera
+de la muerte, pues eso es todo lo que verás en el mundo; no hay vida verdadera
 
-all excepto la que es en Cristo Jess. Muchos hombres a la mitad de su vida
+allí excepto la que es en Cristo Jesús. Muchos hombres a la mitad de su vida
 
-han dicho: pretendo volverme cristiano antes de que muera, pero en este
+han dicho: “pretendo volverme cristiano antes de que muera, pero en este
 
-momento todava no. Han estado demasiado ocupados para buscar al Seor, pero
+momento todavía no”. Han estado demasiado ocupados para buscar al Seńor, pero
 
 la muerte los ha buscado sin ninguna advertencia; y, ocupados o no, han tenido
 
@@ -778,175 +778,175 @@ que morir estando muy desprevenidos.
 
 Hay esperanza para un pecador cuando ora:
 
-Seor, mi caso es urgente, slvame ahora. El pecado, como una vbora, se ha
+“Seńor, mi caso es urgente, sálvame ahora. El pecado, como una víbora, se ha
 
-pegado a m; Seor, slvame ahora de su veneno mortal. Yo soy culpable ahora, y
+pegado a mí; Seńor, sálvame ahora de su veneno mortal. Yo soy culpable ahora, y
 
-ya estoy condenado, porque no he credo en Jess; Seor, slvame ahora, slvame
+ya estoy condenado, porque no he creído en Jesús; Seńor, sálvame ahora, sálvame
 
-de la condenacin, slvame del condenador pecado de la incredulidad. Seor,
+de la condenación, sálvame del condenador pecado de la incredulidad. Seńor,
 
-hasta donde yo s, estoy ahora al borde de la muerte, y estoy en peligro del
+hasta donde yo sé, estoy ahora al borde de la muerte, y estoy en peligro del
 
-infierno as como de la muerte mientras permanezca sin perdn. Por tanto, te
+infierno así como de la muerte mientras permanezca sin perdón. Por tanto, ˇte
 
 pido que te agrade permitir que se apresuren las ruedas del carruaje de la
 
-misericordia, y me salven en este instante, oh Seor!
+misericordia, y me salven en este instante, oh Seńor!
 
 He conocido a algunos que han estado sumergidos
 
-tan profundamente bajo la influencia del Espritu Santo, que se han arrodillado
+tan profundamente bajo la influencia del Espíritu Santo, que se han arrodillado
 
-junto a su lecho, y han dicho: No daremos sueo a nuestros ojos, ni a nuestros
+junto a su lecho, y han dicho: “No daremos sueńo a nuestros ojos, ni a nuestros
 
-prpados
+párpados
 
 adormecimiento, hasta que
 
-encontremos al Salvador, y, en breve, le han encontrado. Han afirmado: lucharemos
+encontremos al Salvador”, y, en breve, le han encontrado. Han afirmado: “lucharemos
 
-en oracin hasta que nuestra carga de pecado haya sido quitada; y habiendo
+en oración hasta que nuestra carga de pecado haya sido quitada”; y habiendo
 
-alcanzado esa determinacin, no pas mucho tiempo antes de que obtuvieran la
+alcanzado esa determinación, no pasó mucho tiempo antes de que obtuvieran la
 
-bendicin que deseaban.
+bendición que deseaban.
 
-Cuando ninguna otra cosa tiene xito, la
+Cuando ninguna otra cosa tiene éxito, la
 
-importunidad seguramente prevalecer. Cuando t ests dispuesto a no aceptar
+importunidad seguramente prevalecerá. Cuando tú estés dispuesto a no aceptar
 
-una negativa de Dios, no te dar una respuesta negativa; pero mientras ests
+una negativa de Dios, no te dará una respuesta negativa; pero mientras estés
 
-contento de ser un condenado, seguirs sin ser salvo. Cuando clames con toda la
+contento de ser un condenado, seguirás sin ser salvo. Cuando clames con toda la
 
-urgencia de la que seas capaz: debo tener a Jess, o morir; tengo hambre,
+urgencia de la que seas capaz: “debo tener a Jesús, o moriré; tengo hambre,
 
-sed, deseos vehementes y ansias de l, como el ciervo brama por las corrientes
+sed, deseos vehementes y ansias de Él, como el ciervo brama por las corrientes
 
-de las aguas; no pasar mucho tiempo antes de que albergues ese inapreciable
+de las aguas”; no pasará mucho tiempo antes de que albergues ese inapreciable
 
-tesoro en tu corazn, y digas: Jess es mi Salvador; yo he credo en l.
+tesoro en tu corazón, y digas: “Jesús es mi Salvador; yo he creído en Él”.
 
 VII.
 
-Ahora, por ltimo, he de recordarles que LA
+Ahora, por último, he de recordarles que LA
 
-ORACIN DE PEDRO FUE UNA ORACIN EFECTIVA: Seor, slvame!, y Jess le
+ORACIÓN DE PEDRO FUE UNA ORACIÓN EFECTIVA: “ˇSeńor, sálvame!”, y Jesús le
 
-salv.
+salvó.
 
-Podra haber consuelo para algunos de los que
+Podría haber consuelo para algunos de los que
 
-estn presentes, si piensan que, aunque esta fue la oracin de un hombre
+están presentes, si piensan que, aunque esta fue la oración de un hombre
 
-afligido, y de un hombre en quien haba una mezcla de incredulidad y fe, sin
+afligido, y de un hombre en quien había una mezcla de incredulidad y fe, sin
 
-embargo, tuvo xito. Las imperfecciones y las debilidades no impedirn que la
+embargo, tuvo éxito. Las imperfecciones y las debilidades no impedirán que la
 
-oracin triunfe, si es sincera y honesta. Jess le dijo a Pedro: Hombre de
+oración triunfe, si es sincera y honesta. Jesús le dijo a Pedro: “ˇHombre de
 
-poca fe! Por qu dudaste?, lo que nos demuestra que, en efecto, Pedro dud,
+poca fe! żPor qué dudaste?”, lo que nos demuestra que, en efecto, Pedro dudó,
 
-aunque tambin haba un poco de fe en l, pues crea que Cristo poda salvarle
+aunque también había un poco de fe en él, pues creía que Cristo podía salvarle
 
-de la tumba lquida.
+de la tumba líquida.
 
-Muchos de nosotros somos tambin una extraa
+Muchos de nosotros somos también una extrańa
 
-mezcla, al igual que lo fue Pedro. El arrepentimiento y la dureza de corazn
+mezcla, al igual que lo fue Pedro. El arrepentimiento y la dureza de corazón
 
-pueden ocupar, cada uno de ellos, una parte de nuestro ser, y la fe podra
+pueden ocupar, cada uno de ellos, una parte de nuestro ser, y la fe podría
 
-estar en nuestro corazn, conjuntamente con una medida de incredulidad, tal
+estar en nuestro corazón, conjuntamente con una medida de incredulidad, tal
 
-como sucedi con el hombre que le dijo a Jess: Creo; ayuda mi incredulidad.
+como sucedió con el hombre que le dijo a Jesús: “Creo; ayuda mi incredulidad.”
 
-Alguno de ustedes siente que quiere orar, y,
+żAlguno de ustedes siente que quiere orar, y,
 
-sin embargo, no puede hacerlo? T quisieras creer en Jess, pero hay otra ley
+sin embargo, no puede hacerlo? Tú quisieras creer en Jesús, pero hay otra ley
 
-en tus miembros que te detiene. Quisieras elevar una oracin eficaz, como la
+en tus miembros que te detiene. Quisieras elevar una oración eficaz, como la
 
-oracin de Elas, sin titubear nunca ante la promesa por culpa de la incredulidad;
+oración de Elías, sin titubear nunca ante la promesa por culpa de la incredulidad;
 
-pero, de alguna manera u otra, no podras explicar por qu no puedes llegar a
+pero, de alguna manera u otra, no podrías explicar por qué no puedes llegar a
 
-esa oracin. Sin embargo, no renunciars a la oracin; sientes que no podras
+esa oración. Sin embargo, no renunciarás a la oración; sientes que no podrías
 
 hacer eso. Te quedas un buen rato ante el propiciatorio aun cuando no puedes
 
-prevalecer ante Dios en la oracin.
+prevalecer ante Dios en la oración.
 
-Ah, alma querida!, es una gran misericordia que
+ˇAh, alma querida!, es una gran misericordia que
 
-Dios no juzgue tu oracin por lo que es en s misma; l la juzga enteramente
+Dios no juzgue tu oración por lo que es en sí misma; Él la juzga enteramente
 
-desde otro punto de vista. Jess la toma, la rehace, le agrega el mrito de Su
+desde otro punto de vista. Jesús la toma, la rehace, le agrega el mérito de Su
 
-propia sangre preciosa, y entonces, cuando presenta la oracin al Padre, est
+propia sangre preciosa, y entonces, cuando presenta la oración al Padre, está
 
-tan cambiada, que t mismo difcilmente podras reconocerla como tu peticin.
+tan cambiada, que tú mismo difícilmente podrías reconocerla como tu petición.
 
-Diras: A duras penas puedo creer que esa sea mi oracin, pues Cristo la ha
+Dirías: “A duras penas puedo creer que esa sea mi oración, pues Cristo la ha
 
-modificado y la ha mejorado grandemente. Ha sucedido con ustedes lo que sucede
+modificado y la ha mejorado grandemente.” Ha sucedido con ustedes lo que sucede
 
-a veces con la pobre gente que est sumida en la afliccin, como en efecto
+a veces con la pobre gente que está sumida en la aflicción, como en efecto
 
-sucedi a alguien a quien conoc hace algn tiempo.
+sucedió a alguien a quien conocí hace algún tiempo.
 
-Una buena mujer quera que yo enviara una
+Una buena mujer quería que yo enviara una
 
-peticin a una cierta oficina del gobierno, concerniente a su marido que haba
+petición a una cierta oficina del gobierno, concerniente a su marido que había
 
-muerto, y por ese motivo necesitaba conseguir ayuda. Ella elabor la peticin,
+muerto, y por ese motivo necesitaba conseguir ayuda. Ella elaboró la petición,
 
-y me la trajo. Una palabra de cada diez estaba bien escrita, y la composicin
+y me la trajo. Una palabra de cada diez estaba bien escrita, y la composición
 
-entera era inapropiada para ser enviada. La seora quera que yo agregara mi nombre
+entera era inapropiada para ser enviada. La seńora quería que yo agregara mi nombre
 
-a la peticin, y que la enviara por correo. As lo hice; pero primero escrib
+a la petición, y que la enviara por correo. Así lo hice; pero primero escribí
 
-de nuevo toda la peticin, guardando el tema de la peticin como ella lo
+de nuevo toda la petición, guardando el tema de la petición como ella lo
 
-expres, pero alterando la forma y el vocabulario empleado. Eso es lo que
+expresó, pero alterando la forma y el vocabulario empleado. Eso es lo que
 
-nuestro buen Seor y Maestro hace por nosotros, slo que en un sentido
+nuestro buen Seńor y Maestro hace por nosotros, sólo que en un sentido
 
-infinitamente ms elevado; l escribe de nuevo nuestra peticin, incorpora en
+infinitamente más elevado; Él escribe de nuevo nuestra petición, incorpora en
 
-ella Su propia firma real, y cuando Su Padre ve eso, concede la peticin de
+ella Su propia firma real, y cuando Su Padre ve eso, concede la petición de
 
-inmediato. Una gota de la sangre de Cristo que impregna una oracin ha de
+inmediato. Una gota de la sangre de Cristo que impregna una oración ha de
 
 hacerla prosperar.
 
-Entonces, regresen a casa, ustedes, que estn
+Entonces, regresen a casa, ustedes, que están
 
-abrumados con dudas y temores, ustedes, que son vejados por Satans, ustedes,
+abrumados con dudas y temores, ustedes, que son vejados por Satanás, ustedes,
 
-que estn afligidos por el recuerdo de sus propios pecados pasados; a pesar de
+que están afligidos por el recuerdo de sus propios pecados pasados; a pesar de
 
-todo ello, acudan a Dios, y dganle: Padre, he pecado contra el cielo y contra
+todo ello, acudan a Dios, y díganle: “Padre, he pecado contra el cielo y contra
 
-ti, y pdanle perdn, y recibirn Su perdn. Sigan orando de una manera
+ti”, y pídanle perdón, y recibirán Su perdón. Sigan orando de una manera
 
-semejante a esta: Seor, slvame, por Jess. Jess, T eres el Salvador de los
+semejante a esta: “Seńor, sálvame, por Jesús. Jesús, Tú eres el Salvador de los
 
-pecadores, slvame, te lo suplico. T eres poderoso para salvar; Seor,
+pecadores, sálvame, te lo suplico. Tú eres poderoso para salvar; Seńor,
 
-slvame. T ests intercediendo en el cielo por los transgresores; Seor,
+sálvame. Tú estás intercediendo en el cielo por los transgresores; Seńor,
 
-intercede por m. No esperen a llegar a casa, sino oren justo donde se
+intercede por mí.” No esperen a llegar a casa, sino oren justo donde se
 
-encuentran sentados: Seor, slvame! Que Dios le d gracia a cada uno aqu
+encuentran sentados: “ˇSeńor, sálvame!” ˇQue Dios le dé gracia a cada uno aquí
 
-presente para que eleve esa oracin desde su corazn, por Jesucristo nuestro
+presente para que eleve esa oración desde su corazón, por Jesucristo nuestro
 
-Seor! Amn.
+Seńor! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 4/Junio/2009
 

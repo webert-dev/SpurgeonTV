@@ -1,14 +1,14 @@
 # Sermón 1881 | Sermón 1881
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-El Ladrn
+El Ladrón
 
 Moribundo Bajo Una Nueva Luz
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -18,7 +18,7 @@ DEL
 
 DOMINGO 23 DE AGOSTO, 1885
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES,
 
@@ -26,29 +26,29 @@ Y SELECCIONADO PARA LECTURA EL DOMINGO 31 DE
 
 ENERO DE 1886.
 
-Respondiendo
+“Respondiendo
 
-el otro, le reprendi, diciendo: Ni aun temes t a Dios, estando en la misma
+el otro, le reprendió, diciendo: żNi aun temes tú a Dios, estando en la misma
 
-condicin? Nosotros, a la verdad, justamente padecemos, porque recibimos lo que
+condición? Nosotros, a la verdad, justamente padecemos, porque recibimos lo que
 
-merecieron nuestros hechos; mas ste ningn mal hizo. Y dijo a Jess: Acurdate
+merecieron nuestros hechos; mas éste ningún mal hizo. Y dijo a Jesús: Acuérdate
 
-de m cuando vengas en tu reino. Lucas 23: 40-42.
+de mí cuando vengas en tu reino”. Lucas 23: 40-42.
 
 Cada vez que se habla de
 
-la conversin del ladrn moribundo, muchsimas personas recuerdan que fue salvado
+la conversión del ladrón moribundo, muchísimas personas recuerdan que fue salvado
 
-en el artculo de la muerte y hablan extensa y exclusivamente de eso. Este
+en el artículo de la muerte y hablan extensa y exclusivamente de eso. Este
 
-ladrn ha sido citado siempre como un ejemplo de salvacin a la undcima hora y,
+ladrón ha sido citado siempre como un ejemplo de salvación a la undécima hora y,
 
 en efecto, lo es. En su caso queda demostrado que con tal de que un hombre se
 
-arrepienta obtiene el perdn. La cruz de Cristo es benfica incluso para un
+arrepienta obtiene el perdón. La cruz de Cristo es benéfica incluso para un
 
-hombre que cuelga de una horca y est prximo a su hora final. Aquel que es
+hombre que cuelga de una horca y está próximo a su hora final. Aquel que es
 
 grande para salvar fue poderoso, aun en Su propia muerte, para arrebatar a
 
@@ -56,21 +56,21 @@ otros de la mano del destructor a pesar de que estuvieran a punto de expirar.
 
 Pero lo que esta
 
-historia nos ensea, no se limita a eso, y siempre es una lstima considerar
+historia nos enseńa, no se limita a eso, y siempre es una lástima considerar
 
-exclusivamente un punto pasando por alto a todos los dems, y perderse as,
+exclusivamente un punto pasando por alto a todos los demás, y perderse así,
 
-quizs, de lo ms importante. Tantas veces ha sido se el caso, que ha
+quizás, de lo más importante. Tantas veces ha sido ése el caso, que ha
 
-producido una especie de sentimiento de repulsin en algunas mentes que se han
+producido una especie de sentimiento de repulsión en algunas mentes que se han
 
-visto impulsadas a tomar una direccin equivocada por su deseo de protestar
+visto impulsadas a tomar una dirección equivocada por su deseo de protestar
 
-contra lo que consideran que constituye un error comn.
+contra lo que consideran que constituye un error común.
 
-Le el otro da que esta
+Leí el otro día que esta
 
-historia del ladrn agonizante, no debera ser utilizada como un estmulo para
+historia del ladrón agonizante, no debería ser utilizada como un estímulo para
 
 fomentar que la gente espere a llegar al lecho mortuorio para que se
 
@@ -80,39 +80,39 @@ fuera usada nunca para promover que la gente postergara el arrepentimiento
 
 hasta que se encontrara en el lecho mortuorio, su relato es correcto. Pero yo tengo
 
-la seguridad de que no era eso lo que se propona. Ningn cristiano podra usarlo,
+la seguridad de que no era eso lo que se proponía. Ningún cristiano podría usarlo,
 
-ni lo usara, tan dainamente. Quien extrajera de la paciencia de Dios una
+ni lo usaría, tan dańinamente. Quien extrajera de la paciencia de Dios una
 
-razn para continuar en el pecado, estara irremediablemente mal. Sin embargo, yo
+razón para continuar en el pecado, estaría irremediablemente mal. Sin embargo, yo
 
-tengo la impresin de que la narracin no se utiliza de esa manera con
+tengo la impresión de que la narración no se utiliza de esa manera con
 
-asiduidad y que ni siquiera los peores individuos la utilizan as, y tengo la
+asiduidad y que ni siquiera los peores individuos la utilizan así, y tengo la
 
-seguridad de que ninguno de ustedes la usar de esa manera. No puede adaptarse
+seguridad de que ninguno de ustedes la usará de esa manera. No puede adaptarse
 
-apropiadamente para que se cumplan propsitos perversos con ella. No puede
+apropiadamente para que se cumplan propósitos perversos con ella. No puede
 
 utilizarse para fomentar el robo como tampoco puede usarse para aplazar el
 
-arrepentimiento. Yo podra decir: puedo ser un ladrn porque este ladrn fue
+arrepentimiento. Yo podría decir: “puedo ser un ladrón porque este ladrón fue
 
-salvado, tan racionalmente, como podra decir: puedo aplazar el
+salvado”, tan racionalmente, como podría decir: “puedo aplazar el
 
-arrepentimiento porque este ladrn fue salvado cuando estaba a punto de morir.
+arrepentimiento porque este ladrón fue salvado cuando estaba a punto de morir”.
 
 Es un hecho que no hay nada, por bueno que sea, que los hombres no pudieran
 
 pervertir y convertir en un mal, si sus corazones son malvados. La justicia de
 
-Dios es convertida en una razn para la desesperacin, y Su misericordia es
+Dios es convertida en una razón para la desesperación, y Su misericordia es
 
-convertida en una excusa para pecar. Los impos se ahogan en los ros de la
+convertida en una excusa para pecar. Los impíos se ahogan en los ríos de la
 
 verdad con la misma facilidad que lo hacen en los estanques del error. Quien
 
-tiene el nimo de destruirse a s mismo puede asfixiar su alma con el Pan de
+tiene el ánimo de destruirse a sí mismo puede asfixiar su alma con el Pan de
 
 vida o desmenuzarse contra
 
@@ -132,119 +132,119 @@ a decir que si yo estuviera junto al lecho de un moribundo esta noche y lo
 
 encontrara ansioso por su alma, pero temeroso de que Cristo no pudiera salvarlo
 
-porque posterg su arrepentimiento hasta tan tarde, yo ciertamente le
+porque postergó su arrepentimiento hasta tan tarde, yo ciertamente le
 
-mencionara al ladrn agonizante y lo hara con una buena conciencia y sin
+mencionaría al ladrón agonizante y lo haría con una buena conciencia y sin
 
-dudarlo. Yo le dira que, aunque estuviera tan cercano a la muerte como estuvo
+dudarlo. Yo le diría que, aunque estuviera tan cercano a la muerte como estuvo
 
-el ladrn sobre la cruz, con todo, si se arrepenta de su pecado y volva con
+el ladrón sobre la cruz, con todo, si se arrepentía de su pecado y volvía con
 
-fe su rostro a Cristo, encontrara la vida eterna. Yo hara eso de todo corazn,
+fe su rostro a Cristo, encontraría la vida eterna. Yo haría eso de todo corazón,
 
-regocijndome de
+regocijándome de
 
 contar con una historia
 
-as para transmitrsela a alguien que estaba a las puertas de la eternidad. No
+así para transmitírsela a alguien que estaba a las puertas de la eternidad. No
 
-creo que el Espritu Santo me censurara por usar con ese fin un relato que l
+creo que el Espíritu Santo me censurara por usar con ese fin un relato que Él
 
-mismo ha dejado registrado sabiendo de antemano que sera usado de esta manera.
+mismo ha dejado registrado sabiendo de antemano que sería usado de esta manera.
 
-De todos modos, sentira en mi propio corazn una dulce conviccin de haber tratado
+De todos modos, sentiría en mi propio corazón una dulce convicción de haber tratado
 
-el tema como deb haberlo tratado, y como tena el propsito de ser usado, es
+el tema como debí haberlo tratado, y como tenía el propósito de ser usado, es
 
-decir, en hombres en una condicin
+decir, en hombres en una condición
 
 in
 
 extremis
 
-cuyos corazones se estuvieran volviendo al Dios viviente. Oh, s,
+cuyos corazones se estuvieran volviendo al Dios viviente. ˇOh, sí,
 
-pobre alma, prescindiendo de tu edad, o del perodo de vida que hubieres
+pobre alma, prescindiendo de tu edad, o del período de vida que hubieres
 
-alcanzado, t puedes encontrar ahora la vida eterna por medio de la fe en
+alcanzado, tú puedes encontrar ahora la vida eterna por medio de la fe en
 
 Cristo!
 
-El ladrn moribundo se regocij al ver
+“El ladrón moribundo se regocijó al ver
 
-Esa fuente en su da;
+Esa fuente en su día;
 
-Y all puedes t tambin, aunque tan vil como l,
+Y allí puedes tú también, aunque tan vil como él,
 
-Ser limpiado de todos tus pecados.
+Ser limpiado de todos tus pecados”.
 
 Muchas buenas gentes
 
-piensan que deben defender el Evangelio, pero el Evangelio nunca est tan
+piensan que deben defender el Evangelio, pero el Evangelio nunca está tan
 
 seguro como cuando descuella en su propia majestad desnuda. No necesita que lo
 
 cubramos. Cuando lo protegemos con condiciones y lo custodiamos con excepciones
 
-y lo matizamos con observaciones, le sucede lo que le pas a David con la
+y lo matizamos con observaciones, le sucede lo que le pasó a David con la
 
-armadura de Sal: es estorbado y obstaculizado e incluso podra orse que clama:
+armadura de Saúl: es estorbado y obstaculizado e incluso podría oírse que clama:
 
-Yo no puedo andar con esto. Dejen en paz al Evangelio, y salvar; si lo
+“Yo no puedo andar con esto”. Dejen en paz al Evangelio, y salvará; si lo
 
-matizan, la sal habra perdido su sabor.
+matizan, la sal habría perdido su sabor.
 
-Me aventurar a
+Me aventuraré a
 
-expresarlo de esta manera para ustedes. He odo decir que muy pocas personas
+expresarlo de esta manera para ustedes. He oído decir que muy pocas personas
 
-son convertidas jams en la ancianidad y se piensa que esa es una declaracin
+son convertidas jamás en la ancianidad y se piensa que esa es una declaración
 
-que resulta ser sumamente incitante e impresionante para los jvenes. Tiene
+que resulta ser sumamente incitante e impresionante para los jóvenes. Tiene
 
-ciertamente esa apariencia; pero, por otro lado, es una aseveracin muy desalentadora
+ciertamente esa apariencia; pero, por otro lado, es una aseveración muy desalentadora
 
-para los ancianos. Yo objeto la frecuente repeticin de tales declaraciones, pues
+para los ancianos. Yo objeto la frecuente repetición de tales declaraciones, pues
 
-no encuentro su equivalente en la enseanza de nuestro Seor ni de Sus
+no encuentro su equivalente en la enseńanza de nuestro Seńor ni de Sus
 
-apstoles. Ciertamente nuestro Seor habl de algunos que entraron en la via a
+apóstoles. Ciertamente nuestro Seńor habló de algunos que entraron en la vińa a
 
-la hora undcima del da, y entre Sus milagros no slo salv a algunos
+la hora undécima del día, y entre Sus milagros no sólo salvó a algunos
 
-moribundos, sino que resucit incluso a los muertos. No se puede concluir nada
+moribundos, sino que resucitó incluso a los muertos. No se puede concluir nada
 
-de las palabras del Seor Jess que vaya en contra de la salvacin de los
+de las palabras del Seńor Jesús que vaya en contra de la salvación de los
 
 hombres a cualquier hora o a cualquier edad. Yo te digo que en el tema de tu
 
-aceptacin para con Dios a travs de la fe en Cristo Jess, no importa qu edad
+aceptación para con Dios a través de la fe en Cristo Jesús, no importa qué edad
 
-tengas ahora. La misma promesa es para cada uno de ustedes: Si oyereis hoy su
+tengas ahora. La misma promesa es para cada uno de ustedes: “Si oyereis hoy su
 
-voz, no endurezcis vuestro corazn; y ya sea que se encuentren en las primeras
+voz, no endurezcáis vuestro corazón”; y ya sea que se encuentren en las primeras
 
-etapas de la vida o que estn a pocas horas de la eternidad, si acuden
+etapas de la vida o que estén a pocas horas de la eternidad, si acuden
 
 presurosos ahora en busca de refugio a la esperanza puesta delante de ustedes
 
-en el Evangelio, sern salvados. El Evangelio que yo predico no excluye a nadie
+en el Evangelio, serán salvados. El Evangelio que yo predico no excluye a nadie
 
-en razn de la edad o del carcter. Quienquiera que seas: Cree en el Seor
+en razón de la edad o del carácter. Quienquiera que seas: “Cree en el Seńor
 
-Jesucristo, y sers salvo, es el mensaje que tenemos que entregarte. Si les
+Jesucristo, y serás salvo”, es el mensaje que tenemos que entregarte. Si les
 
-transmitimos la forma ms extensa del Evangelio: El que creyere y fuere
+transmitimos la forma más extensa del Evangelio: “El que creyere y fuere
 
-bautizado, ser salvo, esto es vlido para todo ser humano viviente,
+bautizado, será salvo”, esto es válido para todo ser humano viviente,
 
-cualquiera que sea su edad. A m no me da miedo de que esta historia del ladrn
+cualquiera que sea su edad. A mí no me da miedo de que esta historia del ladrón
 
 agonizante y penitente, que fue directo de la cruz a la corona, sea usada por
 
-ustedes inapropiadamente; pero si fueran lo suficientemente impos para usarla,
+ustedes inapropiadamente; pero si fueran lo suficientemente impíos para usarla,
 
-no puedo evitarlo. Eso slo cumplir la solemne Escritura que dice que el
+no puedo evitarlo. Eso sólo cumplirá la solemne Escritura que dice que el
 
 Evangelio es olor de muerte para muerte para algunos y que ese mismo Evangelio es
 
@@ -252,11 +252,11 @@ olor de vida para vida para otros.
 
 Pero yo no pienso,
 
-queridos amigos, que lo nico especial del caso del ladrn sea la postergacin
+queridos amigos, que lo único especial del caso del ladrón sea la postergación
 
-de su arrepentimiento. Lejos de ser el nico punto de inters, no es ni
+de su arrepentimiento. Lejos de ser el único punto de interés, no es ni
 
-siquiera el punto primordial. De cualquier manera, otros puntos son todava ms
+siquiera el punto primordial. De cualquier manera, otros puntos son todavía más
 
 notables para algunas mentes. Quiero mostrarles muy brevemente que hubo algo
 
@@ -264,7 +264,7 @@ especial en su caso respecto a
 
 los medios
 
-de su conversin;
+de su conversión;
 
 en segundo lugar, algo especial en
 
@@ -272,7 +272,7 @@ su fe;
 
 en tercer lugar, algo especial en
 
-el resultado de su fe mientras permaneci aqu abajo;
+el resultado de su fe mientras permaneció aquí abajo;
 
 y, en cuarto
 
@@ -282,13 +282,13 @@ la promesa
 
 obtenida por su fe:
 
-la promesa cumplida para l en el Paraso.
+la promesa cumplida para él en el Paraíso.
 
 I.
 
 Primero,
 
-entonces, pienso que deberan notar muy cuidadosamente
+entonces, pienso que deberían notar muy cuidadosamente
 
 LA SINGULARIDAD
 
@@ -296,351 +296,351 @@ Y
 
 LA PECULIARIDAD DE
 
-LOS MEDIOS POR LOS QUE EL LADRN FUE CONVERTIDO.
+LOS MEDIOS POR LOS QUE EL LADRÓN FUE CONVERTIDO.
 
-Cmo piensan que
+żCómo piensan que
 
-sucedi? Pues bien, no lo sabemos. No podramos decirlo. Me parece que ese
+sucedió? Pues bien, no lo sabemos. No podríamos decirlo. Me parece que ese
 
-hombre era un ladrn inconverso e impenitente cuando lo clavaron a la cruz,
+hombre era un ladrón inconverso e impenitente cuando lo clavaron a la cruz,
 
-porque uno de los evangelistas dice: Lo mismo le injuriaban tambin los
+porque uno de los evangelistas dice: “Lo mismo le injuriaban también los
 
-ladrones que estaban crucificados con l. Yo s que pudo tratarse de una
+ladrones que estaban crucificados con él”. Yo sé que pudo tratarse de una
 
-declaracin general, y que es reconciliable con el hecho de que pudo ser
+declaración general, y que es reconciliable con el hecho de que pudo ser
 
-expresada por un ladrn nicamente, segn los mtodos usados comnmente por los
+expresada por un ladrón únicamente, según los métodos usados comúnmente por los
 
-crticos; pero yo no simpatizo con los crticos aun si son amigables. Yo siento
+críticos; pero yo no simpatizo con los críticos aun si son amigables. Yo siento
 
-tal respeto por la revelacin que nunca permito que entre en mi propia mente la
+tal respeto por la revelación que nunca permito que entre en mi propia mente la
 
-idea de discrepancias y errores; y cuando el evangelista dice: ellos yo creo
+idea de discrepancias y errores; y cuando el evangelista dice: “ellos” yo creo
 
 que quiso decir
 
-ellos,
+“ellos”,
 
 y que estos
 
-dos ladrones, en los primeros momentos de su crucifixin, lanzaron improperios
+dos ladrones, en los primeros momentos de su crucifixión, lanzaron improperios
 
-al Cristo con el que fueron crucificados. Parecera que por algn medio este
+al Cristo con el que fueron crucificados. Parecería que por algún medio este
 
-ladrn debe de haber sido convertido mientras estuvo en la cruz. Seguramente
+ladrón debe de haber sido convertido mientras estuvo en la cruz. Seguramente
 
-nadie le predic un sermn, ni le fue entregado ningn mensaje evangelstico al
+nadie le predicó un sermón, ni le fue entregado ningún mensaje evangelístico al
 
-pie de su cruz, ni se celebr ninguna reunin de oracin para orar especialmente
+pie de su cruz, ni se celebró ninguna reunión de oración para orar especialmente
 
-por l. No parece que hubiera recibido instruccin alguna, o alguna invitacin,
+por él. No parece que hubiera recibido instrucción alguna, o alguna invitación,
 
-o que le fuera dirigida alguna reconvencin; y, con todo, este hombre se volvi
+o que le fuera dirigida alguna reconvención; y, con todo, este hombre se volvió
 
-un creyente sincero y acepto en el Seor Jesucristo.
+un creyente sincero y acepto en el Seńor Jesucristo.
 
 Tengan la bondad de
 
-reflexionar sobre este hecho, y noten su incidencia prctica en los casos de muchas
+reflexionar sobre este hecho, y noten su incidencia práctica en los casos de muchas
 
 personas que nos rodean. Muchos de mis oyentes han sido instruidos desde su
 
-niez, han sido amonestados, advertidos, se les ha implorado e invitado y, con
+nińez, han sido amonestados, advertidos, se les ha implorado e invitado y, con
 
 todo, no han venido a Cristo; en cambio, este hombre, sin ninguna de esas
 
-ventajas, crey en el Seor Jesucristo y encontr la vida eterna. Oh, a
+ventajas, creyó en el Seńor Jesucristo y encontró la vida eterna. ˇOh, a
 
-ustedes que han vivido bajo el sonido del Evangelio desde su niez este ladrn
+ustedes que han vivido bajo el sonido del Evangelio desde su nińez este ladrón
 
-no los consuela sino que los acusa! A qu se debe que persisten durante tanto
+no los consuela sino que los acusa! żA qué se debe que persisten durante tanto
 
-tiempo en la incredulidad? No creern nunca en el testimonio del amor divino? Qu
+tiempo en la incredulidad? żNo creerán nunca en el testimonio del amor divino? żQué
 
-ms he de decirles? Qu ms podra decirles alguien ms?
+más he de decirles? żQué más podría decirles alguien más?
 
-Qu creen que pudo
+żQué creen que pudo
 
-haber convertido a este pobre ladrn? Se me ocurre que pudo haber sido, o ms
+haber convertido a este pobre ladrón? Se me ocurre que pudo haber sido, o más
 
-bien, que tuvo que haber sido la visin de nuestro grandioso Seor y Salvador.
+bien, que tuvo que haber sido la visión de nuestro grandioso Seńor y Salvador.
 
-Para comenzar, tuvo ante s el maravilloso comportamiento de nuestro Salvador
+Para comenzar, tuvo ante sí el maravilloso comportamiento de nuestro Salvador
 
-en el camino a la cruz. Quiz el ladrn se haba mezclado con todo tipo de
+en el camino a la cruz. Quizá el ladrón se había mezclado con todo tipo de
 
-personas dentro de la sociedad, pero no haba visto nunca a un Hombre como l.
+personas dentro de la sociedad, pero no había visto nunca a un Hombre como Él.
 
-Nunca cruz alguna haba sido llevada por un Portador de
+Nunca cruz alguna había sido llevada por un Portador de
 
 la Cruz
 
 de Su aspecto y de Su
 
-distincin. El ladrn se preguntara quin podra ser ese Personaje manso y
+distinción. El ladrón se preguntaría quién podría ser ese Personaje manso y
 
-majestuoso. Oy que las mujeres lloraban, y se preguntaba si alguien llorara
+majestuoso. Oyó que las mujeres lloraban, y se preguntaba si alguien lloraría
 
-por l jams. Pensaba que esa persona deba ser muy singular para que la gente
+por él jamás. Pensaba que esa persona debía ser muy singular para que la gente
 
-se parara junto a l con lgrimas en los ojos. Cuando oy que ese misterioso
+se parara junto a Él con lágrimas en los ojos. Cuando oyó que ese misterioso
 
-ser Sufriente deca tan solemnemente: Hijas de Jerusaln, no lloris por m,
+ser Sufriente decía tan solemnemente: “Hijas de Jerusalén, no lloréis por mí,
 
-sino llorad por vosotras mismas y por vuestros hijos, debe de haberse quedado
+sino llorad por vosotras mismas y por vuestros hijos”, debe de haberse quedado
 
-mudo de asombro. Cuando record, en su agona mortal, la singular mirada de
+mudo de asombro. Cuando recordó, en su agonía mortal, la singular mirada de
 
-piedad con que Jess haba visto a las mujeres, y el olvido de S mismo que
+piedad con que Jesús había visto a las mujeres, y el olvido de Sí mismo que
 
-resplandeca en Su mirada, sinti un extrao ablandamiento; fue como si un
+resplandecía en Su mirada, sintió un extrańo ablandamiento; fue como si un
 
-ngel se hubiera atravesado en su senda y le hubiese abierto sus ojos a un
+ángel se hubiera atravesado en su senda y le hubiese abierto sus ojos a un
 
-mundo nuevo y a una nueva forma de condicin humana cuya semejanza no haba
+mundo nuevo y a una nueva forma de condición humana cuya semejanza no había
 
-visto antes. El ladrn y su compaero eran unos sujetos rudos y speros. l, en
+visto antes. El ladrón y su compańero eran unos sujetos rudos y ásperos. Él, en
 
-cambio, era un Ser delicadamente formado y moldeado, de un orden superior en S
+cambio, era un Ser delicadamente formado y moldeado, de un orden superior en Sí
 
-mismo; s, de un orden superior en relacin a cualquiera de los hijos de los
+mismo; sí, de un orden superior en relación a cualquiera de los hijos de los
 
-hombres. Quin poda ser? Qu deba ser? Aunque poda ver que sufra y
+hombres. żQuién podía ser? żQué debía ser? Aunque podía ver que sufría y
 
-desfalleca conforme avanzaba en Su camino, advirti que no haba ninguna
+desfallecía conforme avanzaba en Su camino, advirtió que no había ninguna
 
-palabra de queja, ninguna nota de execracin a cambio de los vituperios de los
+palabra de queja, ninguna nota de execración a cambio de los vituperios de los
 
 que era el blanco. Sus ojos prodigaban amor sobre aquellos que lo miraban con
 
 odio. Seguramente esa marcha a lo largo de
 
-la Va
+la Vía
 
 Dolorosa
 
 fue la primera
 
-parte del sermn que Dios predic al corazn de ese malvado. Fue predicado
+parte del sermón que Dios predicó al corazón de ese malvado. Fue predicado
 
-tambin a muchos otros, que no tomaron en cuenta su enseanza; pero por la
+también a muchos otros, que no tomaron en cuenta su enseńanza; pero por la
 
-gracia especial de Dios, en este hombre tuvo un efecto ablandador despus que
+gracia especial de Dios, en este hombre tuvo un efecto ablandador después que
 
-pens y consider eso. Acaso no fue un probable y muy convincente medio de gracia?
+pensó y consideró eso. żAcaso no fue un probable y muy convincente medio de gracia?
 
-Cuando l vio al
+Cuando él vio al
 
 Salvador rodeado por la soldadesca, cuando vio que los verdugos sacaban los
 
-martillos y los clavos y que lo acostaban de espaldas sobre la cruz y metan
+martillos y los clavos y que lo acostaban de espaldas sobre la cruz y metían
 
-los clavos en Sus manos y en Sus pies, este criminal crucificado se qued
+los clavos en Sus manos y en Sus pies, este criminal crucificado se quedó
 
-sorprendido y asombrado al orlo decir: Padre, perdnalos, porque no saben lo
+sorprendido y asombrado al oírlo decir: “Padre, perdónalos, porque no saben lo
 
-que hacen. El ladrn mismo, probablemente, haba enfrentado a sus verdugos con
+que hacen”. El ladrón mismo, probablemente, había enfrentado a sus verdugos con
 
-una maldicin; pero oy que este hombre musitaba una oracin al grandioso Padre
+una maldición; pero oyó que este hombre musitaba una oración al grandioso Padre
 
-y, como judo, ya que probablemente lo era, entendi lo que significaba esa
+y, como judío, ya que probablemente lo era, entendió lo que significaba esa
 
-oracin. Pero le sorprendera or que Jess oraba por sus asesinos. Esa era una
+oración. Pero le sorprendería oír que Jesús oraba por sus asesinos. Esa era una
 
-peticin sin precedente para l pues no haba odo nada parecido y ni siquiera
+petición sin precedente para él pues no había oído nada parecido y ni siquiera
 
-lo hubiera soado. De qu labios poda brotar sino de labios de un Ser divino?
+lo hubiera sońado. żDe qué labios podía brotar sino de labios de un Ser divino?
 
-Se trataba de una oracin muy amorosa, remisoria y divina que demostraba que l
+Se trataba de una oración muy amorosa, remisoria y divina que demostraba que Él
 
-era el Mesas. Quin ms haba orado as jams? Ciertamente ni David ni los
+era el Mesías. żQuién más había orado así jamás? Ciertamente ni David ni los
 
-reyes de Israel, quienes, por el contrario, con toda sinceridad y de corazn
+reyes de Israel, quienes, por el contrario, con toda sinceridad y de corazón
 
-imprecaron la ira de Dios sobre sus enemigos. Elas mismo no habra orado de
+imprecaron la ira de Dios sobre sus enemigos. Elías mismo no habría orado de
 
-esa manera, sino que ms bien habra pedido que descendiera fuego del cielo
+esa manera, sino que más bien habría pedido que descendiera fuego del cielo
 
-sobre el centurin y su compaa. Era un sonido nuevo y extrao para l. No
+sobre el centurión y su compańía. Era un sonido nuevo y extrańo para él. No
 
-creo que lo apreciara a plenitud, pero bien puedo creer que lo impresion
+creo que lo apreciara a plenitud, pero bien puedo creer que lo impresionó
 
-profundamente y que lo condujo a sentir que su Compaero en el sufrimiento
+profundamente y que lo condujo a sentir que su ‘Compańero en el sufrimiento’
 
-era un ser en el que haba un supremo misterio de bondad.
+era un ser en el que había un supremo misterio de bondad.
 
 Y cuando fue alzada la
 
-cruz, ese ladrn que colgaba de su propia cruz mir en torno suyo, y yo supongo
+cruz, ese ladrón que colgaba de su propia cruz miró en torno suyo, y yo supongo
 
-que pudo contemplar aquella inscripcin que haba sido escrita en tres idiomas:
+que pudo contemplar aquella inscripción que había sido escrita en tres idiomas:
 
-JESS NAZARENO, REY DE LOS JUDOS. Si as fuera, esa frase fue su pequea
+“JESÚS NAZARENO, REY DE LOS JUDÍOS”. Si así fuera, esa frase fue su pequeńa
 
-Biblia, fue su Nuevo Testamento, y l lo interpret utilizando sus
+Biblia, fue su Nuevo Testamento, y él lo interpretó utilizando sus
 
-conocimientos del Antiguo Testamento. El ladrn at cabos. Esa extraa Persona,
+conocimientos del Antiguo Testamento. El ladrón ató cabos. Esa extrańa Persona,
 
-esa belleza encarnada llena de paciencia y de majestad, esa extraa oracin, y
+esa belleza encarnada llena de paciencia y de majestad, esa extrańa oración, y
 
-ahora esta singular inscripcin, todo eso unido a sus conocimientos del Antiguo
+ahora esta singular inscripción, todo eso unido a sus conocimientos del Antiguo
 
-Testamento, seguramente lo indujeron a preguntarse: Se tratar de L? Ser
+Testamento, seguramente lo indujeron a preguntarse: “żSe tratará de ÉL? żSerá
 
-ste, verdaderamente, el Rey de los judos? ste es el que hizo milagros y
+éste, verdaderamente, el Rey de los judíos? Éste es el que hizo milagros y
 
-resucit a los muertos y dijo que era el Hijo de Dios; ser cierto todo eso, y
+resucitó a los muertos y dijo que era el Hijo de Dios; żserá cierto todo eso, y
 
-ser realmente nuestro Mesas? Luego recordara las palabras del profeta
+será realmente nuestro Mesías?” Luego recordaría las palabras del profeta
 
-Isaas: Despreciado y desechado entre los hombres, varn de dolores,
+Isaías: “Despreciado y desechado entre los hombres, varón de dolores,
 
-experimentado en quebranto Ciertamente llev l nuestras enfermedades, y
+experimentado en quebranto… Ciertamente llevó él nuestras enfermedades, y
 
-sufri nuestros dolores. Bueno se dira- nunca antes entend ese pasaje
+sufrió nuestros dolores”. “Bueno” –se diría- “nunca antes entendí ese pasaje
 
-del profeta Isaas, pero debe referirse a l. El castigo de nuestra paz fue
+del profeta Isaías, pero debe referirse a Él. El castigo de nuestra paz fue
 
-sobre l. Pudiera ser ste el mismo que exclam en los Salmos: Horadaron mis
+sobre Él. żPudiera ser Éste el mismo que exclamó en los Salmos: ‘Horadaron mis
 
-manos y mis pies? Al mirarlo de nuevo, sinti en su alma esta conviccin:
+manos y mis pies’?” Al mirarlo de nuevo, sintió en su alma esta convicción:
 
-Tiene que ser l. Podra haber otro tan parecido a l? Sinti que esa
+“Tiene que ser Él. żPodría haber otro tan parecido a Él?” Sintió que esa
 
-conviccin se deslizaba furtivamente en su espritu. Luego mir de nuevo, y
+convicción se deslizaba furtivamente en su espíritu. Luego miró de nuevo, y
 
-observ de qu manera todos los hombres que estaban al pie de la cruz lo
+observó de qué manera todos los hombres que estaban al pie de la cruz lo
 
 rechazaban y lo despreciaban y siseaban al mirarlo y le abucheaban y todo eso
 
-hara que el caso fuera ms claro. Todos los que me ven me escarnecen; estiran
+haría que el caso fuera más claro. “Todos los que me ven me escarnecen; estiran
 
-la boca, menean la cabeza, diciendo: se encomend a Jehov; lbrele l;
+la boca, menean la cabeza, diciendo: se encomendó a Jehová; líbrele él;
 
-slvele, puesto que en l se complaca.
+sálvele, puesto que en él se complacía”.
 
-Acaso este ladrn
+Acaso este ladrón
 
-moribundo descifr el Evangelio en los labios de los enemigos de Cristo. Ellos
+moribundo descifró el Evangelio en los labios de los enemigos de Cristo. Ellos
 
-decan: A otros salv. Ah!, -pens- salv a otros? Por qu no habra de
+decían: “A otros salvó”. “ˇAh!”, -pensó- “żsalvó a otros? żPor qué no habría de
 
-salvarme a m? Qu magna porcin del Evangelio fue sta para el ladrn
+salvarme a mí?” Qué magna porción del Evangelio fue ésta para el ladrón
 
-agonizante: A otros salv. Pienso que puedo nadar hasta el cielo sobre esa
+agonizante: “A otros salvó”. Pienso que puedo nadar hasta el cielo sobre esa
 
-tabla: A otros salv, porque, si salv a otros, puede salvarme a m con toda
+tabla: “A otros salvó”, porque, si salvó a otros, puede salvarme a mí con toda
 
 seguridad.
 
 De esta manera, las
 
-propias cosas que los enemigos arrojaban desdeosamente contra Cristo seran un
+propias cosas que los enemigos arrojaban desdeńosamente contra Cristo serían un
 
 Evangelio para este pobre ser agonizante. Cuando he tenido la desventura de
 
 leer cualquiera de los nefastos impresos que nos son enviados por puro
 
-escarnio, en los que nuestro Seor es el blanco del ridculo, he pensado: Vamos,
+escarnio, en los que nuestro Seńor es el blanco del ridículo, he pensado: “ˇVamos,
 
 tal vez las personas que lean estas abominables blasfemias puedan, a pesar de
 
-todo, aprender en ellas el Evangelio! Pueden recoger una joya del muladar y
+todo, aprender en ellas el Evangelio!” Pueden recoger una joya del muladar y
 
-comprobar que su brillantez est inclume; y t puedes recoger el Evangelio de
+comprobar que su brillantez está incólume; y tú puedes recoger el Evangelio de
 
-una boca blasfema, y ser, a pesar de todo, el Evangelio de salvacin. Acaso
+una boca blasfema, y será, a pesar de todo, el Evangelio de salvación. Acaso
 
-este hombre aprendi el Evangelio de aquellos que se mofaban de nuestro
+este hombre aprendió el Evangelio de aquellos que se mofaban de nuestro
 
-agonizante Seor; y as los siervos del diablo se convirtieron
+agonizante Seńor; y así los siervos del diablo se convirtieron
 
 inconscientemente en siervos de Cristo.
 
-Pero, despus de todo,
+Pero, después de todo,
 
-seguramente lo que lo gan mayormente debe de haber sido que mir a Jess de
+seguramente lo que lo ganó mayormente debe de haber sido que miró a Jesús de
 
 nuevo que colgaba entonces del cruel madero. Posiblemente nada tocante a la
 
-persona fsica de Cristo fuera atractivo para l, pues fue desfigurado de los
+persona física de Cristo fuera atractivo para él, pues fue ‘desfigurado de los
 
-hombres su parecer, y su hermosura ms que los hijos de los hombres, pero, con
+hombres su parecer, y su hermosura más que los hijos de los hombres’, pero, con
 
-todo, ese bendito rostro debe de haber posedo un encanto singular. Acaso no
+todo, ese bendito rostro debe de haber poseído un encanto singular. żAcaso no
 
-era la imagen misma de la perfeccin? Segn concibo el rostro de Cristo, era
+era la imagen misma de la perfección? Según concibo el rostro de Cristo, era
 
 muy diferente de todo lo que cualquier pintor hubiere sido capaz de plasmar
 
-jams sobre un lienzo. Era un rostro lleno de bondad, y de amabilidad, y de
+jamás sobre un lienzo. Era un rostro lleno de bondad, y de amabilidad, y de
 
-abnegacin y, sin embargo, era un rostro de naturaleza real. Era un semblante
+abnegación y, sin embargo, era un rostro de naturaleza real. Era un semblante
 
 de justicia superlativa y de ternura sin par. La justicia y la rectitud eran
 
-manifiestas en Su semblante, pero tambin la infinita piedad y la buena voluntad
+manifiestas en Su semblante, pero también la infinita piedad y la buena voluntad
 
-para con los hombres haban establecido su residencia all. Era un rostro que
+para con los hombres habían establecido su residencia allí. Era un rostro que
 
-los habra impactado de inmediato como nico en su clase, un rostro que no
+los habría impactado de inmediato como único en su clase, un rostro que no
 
-podra ser olvidado nunca y que no podra ser entendido plenamente jams. Era
+podría ser olvidado nunca y que no podría ser entendido plenamente jamás. Era
 
-un rostro colmado de afliccin, y con todo, era un rostro pleno de amor; era un
+un rostro colmado de aflicción, y con todo, era un rostro pleno de amor; era un
 
-rostro colmado de bondad y, con todo, era un rostro pleno de resolucin y pleno
+rostro colmado de bondad y, con todo, era un rostro pleno de resolución y pleno
 
-de sabidura. Era un rostro colmado de sencillez. Tena la faz de un nio o de
+de sabiduría. Era un rostro colmado de sencillez. Tenía la faz de un nińo o de
 
-un ngel y, no obstante, tena peculiarmente el semblante de un hombre.
+un ángel y, no obstante, tenía peculiarmente el semblante de un hombre.
 
 La Majestad
 
 y el abatimiento,
 
-lo sacro y el sufrimiento estaban all extraamente mezclados. l era,
+lo sacro y el sufrimiento estaban allí extrańamente mezclados. Él era,
 
-evidentemente, el Cordero de Dios y el Hijo del hombre. Cuando el ladrn mir,
+evidentemente, el Cordero de Dios y el Hijo del hombre. Cuando el ladrón miró,
 
-crey. Acaso no es muy singular que la propia visin del Maestro lo ganara? La
+creyó. żAcaso no es muy singular que la propia visión del Maestro lo ganara? ˇLa
 
-visin del Seor sumido en agona, y en vergenza y en muerte! Apenas habra
+visión del Seńor sumido en agonía, y en vergüenza y en muerte! Apenas habría
 
-habido una palabra. Ciertamente no hubo ningn sermn. No hubo asistencia a la
+habido una palabra. Ciertamente no hubo ningún sermón. No hubo asistencia a la
 
-adoracin el da de reposo. No hubo una lectura de libros piadosos. No hubo
+adoración el día de reposo. No hubo una lectura de libros piadosos. No hubo
 
-ningn llamado de una madre, o de un maestro, o de un amigo. Pero la visin de
+ningún llamado de una madre, o de un maestro, o de un amigo. Pero la visión de
 
-Jess lo gan. Yo lo registro como algo muy singular, como algo que debemos
+Jesús lo ganó. Yo lo registro como algo muy singular, como algo que debemos
 
 recordar ustedes y yo, y en lo que debemos reflexionar con la misma viveza con
 
-la que reflexionamos en la tarda conversin de este ladrn.
+la que reflexionamos en la tardía conversión de este ladrón.
 
-Oh, que Dios por Su
+ˇOh, que Dios por Su
 
-misericordia convirtiera a todos en este Tabernculo! Oh, que yo pudiera tener
+misericordia convirtiera a todos en este Tabernáculo! ˇOh, que yo pudiera tener
 
-una participacin en ello por la predicacin de la palabra! Pero yo sera
+una participación en ello por la predicación de la palabra! Pero yo sería
 
-igualmente feliz si llegaran al cielo de cualquier manera, s, si el Seor los
+igualmente feliz si llegaran al cielo de cualquier manera, sí, si el Seńor los
 
-llevara all sin ministerios externos, conducindolos a Jess mediante algn
+llevara allá sin ministerios externos, conduciéndolos a Jesús mediante algún
 
-simple mtodo tal como el que adopt con este ladrn. Si lo hiciera, l
+simple método tal como el que adoptó con este ladrón. Si lo hiciera, Él
 
-recibira la gloria, y Su pobre siervo se alegrara sobremanera. Mralo a l y
+recibiría la gloria, y Su pobre siervo se alegraría sobremanera. Míralo a Él y
 
-s salvo, incluso en esta misma hora.
+sé salvo, incluso en esta misma hora.
 
 II.
 
 Pero
 
-ahora quiero que pensemos un poco en el CARCTER ESPECIAL DE
+ahora quiero que pensemos un poco en el CARÁCTER ESPECIAL DE
 
 LA
 
@@ -650,153 +650,153 @@ DE
 
 ESTE HOMBRE, pues yo pienso que este
 
-individuo ejerci una fe muy singular en nuestro Seor Jesucristo.
+individuo ejerció una fe muy singular en nuestro Seńor Jesucristo.
 
 Yo cuestiono grandemente
 
-que se pudiera encontrar fcilmente fuera de las Escrituras o incluso en las
+que se pudiera encontrar fácilmente fuera de las Escrituras o incluso en las
 
-propias Escrituras una fe igual y paralela a la fe del ladrn agonizante.
+propias Escrituras una fe igual y paralela a la fe del ladrón agonizante.
 
 Observen que este hombre
 
-crey en Cristo
+creyó en Cristo
 
 cuando literalmente lo
 
-vea morir la muerte de un criminal,
+veía morir la muerte de un criminal,
 
 bajo circunstancias que involucraban
 
-la ms grande vergenza personal. Ustedes no han concebido nunca vvidamente lo
+la más grande vergüenza personal. Ustedes no han concebido nunca vívidamente lo
 
-que significaba ser crucificado. Ninguno de ustedes podra hacerlo, pues ese
+que significaba ser crucificado. Ninguno de ustedes podría hacerlo, pues ese
 
-espectculo no ha sido contemplado nunca en
+espectáculo no ha sido contemplado nunca en
 
 la Inglaterra
 
 de nuestros
 
-das. No hay ni un solo hombre ni una sola mujer aqu que haya concebido
+días. No hay ni un solo hombre ni una sola mujer aquí que haya concebido
 
 claramente en su propia mente la muerte real de Cristo. Es algo que nos rebasa.
 
-Este hombre la vio con sus propios ojos, y que l llamara Seor a
+Este hombre la vio con sus propios ojos, y que él llamara “Seńor” a
 
 quien
 
-colgaba de un patbulo, no fue un
+colgaba de un patíbulo, no fue un
 
-pequeo triunfo de la fe. Que le pidiera a Jess que se acordara de l cuando
+pequeńo triunfo de la fe. Que le pidiera a Jesús que se acordara de él cuando
 
-estuviera en Su reino, aunque vea que Jess perda Su vida desangrndose y que
+estuviera en Su reino, aunque veía que Jesús perdía Su vida desangrándose y que
 
-era acosado por la muerte, fue un esplndido acto de confianza. Que pusiera su
+era acosado por la muerte, fue un espléndido acto de confianza. Que pusiera su
 
-destino eterno en las manos de Uno que era, segn todas las apariencias,
+destino eterno en las manos de Uno que era, según todas las apariencias,
 
 incapaz de preservar Su propia vida, fue un noble logro de la fe. Yo digo que
 
-este ladrn moribundo camina a la vanguardia en materia de fe, pues lo que vio
+este ladrón moribundo camina a la vanguardia en materia de fe, pues lo que vio
 
-de las circunstancias del Salvador estaba calculado para contradecir, ms bien
+de las circunstancias del Salvador estaba calculado para contradecir, más bien
 
-que para ayudar, a su confianza. Lo que vio le serva de obstculo ms bien que
+que para ayudar, a su confianza. Lo que vio le servía de obstáculo más bien que
 
-de ayuda, pues mir a nuestro Seor en el propio extremo de la agona y de la
+de ayuda, pues miró a nuestro Seńor en el propio extremo de la agonía y de la
 
-muerte, y, con todo, crey en l como el Rey que vendra en breve en Su reino.
+muerte, y, con todo, creyó en Él como el Rey que vendría en breve en Su reino.
 
-Recuerden, tambin, que
+Recuerden, también, que
 
-en aquel momento cuando el ladrn crey en Cristo,
+en aquel momento cuando el ladrón creyó en Cristo,
 
-todos los discpulos lo haban abandonado y haban huido.
+todos los discípulos lo habían abandonado y habían huido.
 
 Juan pudo
 
 haberse quedado a una corta distancia, y algunas santas mujeres pudieran haber
 
-estado un poco ms lejos, pero nadie estaba presente para defender con valenta
+estado un poco más lejos, pero nadie estaba presente para defender con valentía
 
-al Cristo moribundo. Judas lo haba vendido, Pedro lo haba negado, y el resto
+al Cristo moribundo. Judas lo había vendido, Pedro lo había negado, y el resto
 
-lo haba abandonado, y fue entonces que el ladrn moribundo lo llam Seor, y
+lo había abandonado, y fue entonces que el ladrón moribundo lo llamó “Seńor”, y
 
-le dijo: Acurdate de m cuando vengas en tu reino. Yo llamo a eso: una fe
+le dijo: “Acuérdate de mí cuando vengas en tu reino”. Yo llamo a eso: una fe
 
-esplndida. Vamos, algunos de ustedes no creen aunque estn rodeados de amigos
+espléndida. Vamos, algunos de ustedes no creen aunque están rodeados de amigos
 
 cristianos y aunque son exhortados por el testimonio de aquellos a quienes ven
 
-con amor. Pero este hombre, completamente solo, se hace presente y llama a
+con amor. ˇPero este hombre, completamente solo, se hace presente y llama a
 
-Jess: su Seor! Nadie ms confesaba a Cristo en aquel momento. No haba ningn
+Jesús: su Seńor! Nadie más confesaba a Cristo en aquel momento. No había ningún
 
-avivamiento en torno Suyo con multitudes entusiastas. El ladrn estaba
+avivamiento en torno Suyo con multitudes entusiastas. El ladrón estaba
 
-completamente solo como confesor de su Seor. Despus que nuestro Seor fue
+completamente solo como confesor de su Seńor. Después que nuestro Seńor fue
 
-clavado al madero, el primero en dar testimonio a Su favor fue este ladrn. El centurin
+clavado al madero, el primero en dar testimonio a Su favor fue este ladrón. El centurión
 
-dio testimonio posteriormente, cuando nuestro Seor expir; pero este ladrn
+dio testimonio posteriormente, cuando nuestro Seńor expiró; pero este ladrón
 
-fue un confesor solitario, y se aferr a Cristo cuando nadie ms dira Amn a
+fue un confesor solitario, y se aferró a Cristo cuando nadie más diría “Amén” a
 
-lo que l dijera. Aun su compinche ladrn se burlaba del Salvador crucificado,
+lo que él dijera. Aun su compinche ladrón se burlaba del Salvador crucificado,
 
 de manera que este hombre brillaba como una estrella solitaria en la oscuridad
 
 de medianoche.
 
-Oh, seores, se atreven
+Oh, seńores, żse atreven
 
-a ser ustedes Danieles? Se atreven a permanecer solos? Se atreven a quedarse
+a ser ustedes Danieles? żSe atreven a permanecer solos? żSe atreven a quedarse
 
-firmes en medio de una multitud procaz y decir?: Jess es mi Rey. Yo
+firmes en medio de una multitud procaz y decir?: “Jesús es mi Rey. Yo
 
-nicamente le pido que se acuerde de m cuando venga en Su reino. Ser
+únicamente le pido que se acuerde de mí cuando venga en Su reino”. żSerá
 
-posible que declaren esa fe cuando los sacerdotes y los escribas, los prncipes
+posible que declaren esa fe cuando los sacerdotes y los escribas, los príncipes
 
-y el pueblo, s, cuando todos estuvieran burlndose del Cristo y estuvieran
+y el pueblo, sí, cuando todos estuvieran burlándose del Cristo y estuvieran
 
-escarnecindolo? Hermanos, el ladrn moribundo exhibi una fe maravillosa, y yo
+escarneciéndolo? Hermanos, el ladrón moribundo exhibió una fe maravillosa, y yo
 
-les ruego que piensen en esto la siguiente vez que hablen de l.
+les ruego que piensen en esto la siguiente vez que hablen de él.
 
 Y me parece que hay otro
 
-punto que aade esplendor a esa fe, es decir, que
+punto que ańade esplendor a esa fe, es decir, que
 
-l mismo se encontraba sufriendo una tortura extrema.
+él mismo se encontraba sufriendo una tortura extrema.
 
 Recuerden que
 
 estaba crucificado. Era un hombre crucificado que confiaba en un Cristo
 
-crucificado. Oh, cuando nuestra estructura corporal es atormentada con la
+crucificado. ˇOh, cuando nuestra estructura corporal es atormentada con la
 
-tortura, cuando los nervios ms tiernos estn transidos de dolor, cuando
+tortura, cuando los nervios más tiernos están transidos de dolor, cuando
 
-nuestro cuerpo cuelga esperando la muerte sin que se sepa cunto tiempo durar
+nuestro cuerpo cuelga esperando la muerte sin que se sepa cuánto tiempo durará
 
 el tormento, entonces olvidar el presente y vivir el futuro es un gran logro de
 
-la fe! Al tiempo de morir, volver la vista a Otro moribundo que est a tu lado
+la fe! Al tiempo de morir, volver la vista a Otro moribundo que está a tu lado
 
-y confiar tu alma a l, es una fe muy prodigiosa. Bendito ladrn, debido a que
+y confiar tu alma a Él, es una fe muy prodigiosa. ˇBendito ladrón, debido a que
 
-te han puesto hasta el final, como uno de los santos ms insignificantes,
+te han puesto hasta el final, como uno de los santos más insignificantes,
 
-pienso que debo invitarte a subir de lugar y a tomar uno de los asientos ms
+pienso que debo invitarte a subir de lugar y a tomar uno de los asientos más
 
 prominentes entre aquellos que por la fe han glorificado al Cristo de Dios!
 
-Vamos, queridos amigos,
+ˇVamos, queridos amigos,
 
-vean una vez ms el carcter especial de la fe de este hombre, que consisti en
+vean una vez más el carácter especial de la fe de este hombre, que consistió en
 
 que
 
@@ -804,177 +804,177 @@ vio mucho,
 
 aunque sus ojos
 
-estuvieron abiertos por un lapso muy breve! l no crea en la aniquilacin ni
+estuvieron abiertos por un lapso muy breve! Él no creía en la aniquilación ni
 
-en la posibilidad de que el hombre no fuera inmortal. Evidentemente l esperaba
+en la posibilidad de que el hombre no fuera inmortal. Evidentemente él esperaba
 
-estar en otro mundo y tener una existencia cuando el Seor agonizante viniera
+estar en otro mundo y tener una existencia cuando el Seńor agonizante viniera
 
-en Su reino. l crea todo eso, lo cual es ms de lo que muchos creen en estos
+en Su reino. Él creía todo eso, lo cual es más de lo que muchos creen en estos
 
-das. l tambin crea que Jess tendra un reino, un reino despus de Su
+días. Él también creía que Jesús tendría un reino, un reino después de Su
 
-muerte, un reino a pesar de que estaba crucificado. Crea que l estaba ganando
+muerte, un reino a pesar de que estaba crucificado. Creía que Él estaba ganando
 
-para S un reino con esas manos clavadas y con esos pies horadados. Esa era una
+para Sí un reino con esas manos clavadas y con esos pies horadados. Esa era una
 
-fe inteligente, no es cierto? Crea que Jess tendra un reino en el que otros
+fe inteligente, żno es cierto? Creía que Jesús tendría un reino en el que otros
 
-participaran, y por tanto, aspiraba a tener su porcin en l. Con todo, tena
+participarían, y por tanto, aspiraba a tener su porción en él. Con todo, tenía
 
-ideas apropiadas sobre s mismo ya que no dijo: Seor, permite que me siente a
+ideas apropiadas sobre sí mismo ya que no dijo: “Seńor, permite que me siente a
 
-Tu diestra, o, Permteme tener participacin en las valiosas cosas de Tu
+Tu diestra”, o, “Permíteme tener participación en las valiosas cosas de Tu
 
-palacio; sino que slo le dijo: Acurdate de m. Piensa en m. Vuelve Tus
+palacio”; sino que sólo le dijo: “Acuérdate de mí. Piensa en mí. Vuelve Tus
 
-ojos adonde yo estoy. Piensa en Tu pobre compaero agonizante a Tu diestra en
+ojos adonde yo estoy. Piensa en Tu pobre compańero agonizante a Tu diestra en
 
-la cruz. Seor, acurdate de m. Acurdate de m. Yo veo una profunda humildad
+la cruz. Seńor, acuérdate de mí. Acuérdate de mí”. Yo veo una profunda humildad
 
-en la oracin, y, no obstante, veo una dulce, una gozosa y una confiada
+en la oración, y, no obstante, veo una dulce, una gozosa y una confiada
 
-exaltacin del Cristo en el momento en que el Cristo estaba sumido en la ms
+exaltación del Cristo en el momento en que el Cristo estaba sumido en la más
 
-profunda humillacin.
+profunda humillación.
 
-Oh, estimados seores,
+Oh, estimados seńores,
 
-si alguno de ustedes ha pensado en este ladrn moribundo tan slo como alguien
+si alguno de ustedes ha pensado en este ladrón moribundo tan sólo como alguien
 
-que posterg el arrepentimiento, quiero que piense ahora en l como alguien que
+que postergó el arrepentimiento, quiero que piense ahora en él como alguien que
 
-crey grandemente en Cristo y que lo hizo de una manera grandiosa; y, oh, que hicieran
+creyó grandemente en Cristo y que lo hizo de una manera grandiosa; y, ˇoh, que hicieran
 
-ustedes lo mismo! Oh, que depositaran una gran confianza en mi grandioso Seor!
+ustedes lo mismo! ˇOh, que depositaran una gran confianza en mi grandioso Seńor!
 
-Nunca ningn pobre pecador confi demasiado en Cristo. Nunca hubo algn caso de
+Nunca ningún pobre pecador confió demasiado en Cristo. Nunca hubo algún caso de
 
-algn ser culpable que creyera que Jess poda perdonarle, pero que descubriera
+algún ser culpable que creyera que Jesús podía perdonarle, pero que descubriera
 
-posteriormente que no pudo; que creyera que Jess poda salvarle en el acto,
+posteriormente que no pudo; que creyera que Jesús podía salvarle en el acto,
 
-pero que despertara para descubrir que era un engao. No; sumrjanse en el ro
+pero que despertara para descubrir que era un engańo. No; sumérjanse en el río
 
 de la confianza en Cristo. Sus aguas son aguas en las que se puede nadar; no
 
-son aguas en las que se puedan ahogar. Nunca pereci ningn alma que glorificara
+son aguas en las que se puedan ahogar. Nunca pereció ningún alma que glorificara
 
-a Cristo con una fe viva y amorosa en l.
+a Cristo con una fe viva y amorosa en Él.
 
 Ven, entonces, con todo
 
-tu pecado, sin importar cul sea, ven con toda tu profunda depresin de
+tu pecado, sin importar cuál sea, ven con toda tu profunda depresión de
 
-espritu y con toda tu agona de conciencia. Ven, y afrrate a mi Seor y
+espíritu y con toda tu agonía de conciencia. Ven, y aférrate a mi Seńor y
 
-Maestro con las dos manos de tu fe, y l ser tuyo y t sers Suyo.
+Maestro con las dos manos de tu fe, y Él será tuyo y tú serás Suyo.
 
-Vuelve a Cristo tus anhelantes ojos,
+“Vuelve a Cristo tus anhelantes ojos,
 
 Contempla Su sangriento sacrificio;
 
-Mira en l tus pecados perdonados,
+Mira en Él tus pecados perdonados,
 
-Y perdn, santidad y cielo;
+Y perdón, santidad y cielo;
 
 Glorifica al Rey de reyes,
 
-Y toma la paz que el Evangelio te ofrece.
+Y toma la paz que el Evangelio te ofrece”.
 
 Creo que les he mostrado
 
-algo especial en el instrumento de la conversin del ladrn y en su fe en
+algo especial en el instrumento de la conversión del ladrón y en su fe en
 
-nuestro Seor agonizante.
+nuestro Seńor agonizante.
 
 III.
 
 Pero
 
-ahora, con la ayuda de Dios, deseo en tercer lugar mostrarles otra caracterstica
+ahora, con la ayuda de Dios, deseo en tercer lugar mostrarles otra característica
 
 especial, esta vez, en EL RESULTADO DE SU FE.
 
-Oh, yo he odo que la
+Oh, yo he oído que la
 
-gente dice: Bien, vemos que el ladrn moribundo fue convertido pero que no
+gente dice: “ˇBien, vemos que el ladrón moribundo fue convertido pero que no
 
-fue bautizado! Nunca particip en la comunin y nunca se uni a la iglesia!
+fue bautizado! ˇNunca participó en la comunión y nunca se unió a la iglesia!”
 
 No pudo hacer nada de eso y lo que Dios hace que sea imposible para nosotros,
 
-no lo exige de nosotros. l estaba clavado en la cruz. Cmo poda ser bautizado?
+no lo exige de nosotros. Él estaba clavado en la cruz. żCómo podía ser bautizado?
 
-Pero hizo mucho ms que eso, pues si bien no pudo cumplir con los signos
+Pero hizo mucho más que eso, pues si bien no pudo cumplir con los signos
 
-externos, exhibi de manera sumamente manifiesta las cosas que significan, que,
+externos, exhibió de manera sumamente manifiesta las cosas que significan, que,
 
-en su condicin, fue algo todava mejor.
+en su condición, fue algo todavía mejor.
 
-Este ladrn moribundo confes ante todo al Seor Jesucristo,
+Este ladrón moribundo confesó ante todo al Seńor Jesucristo,
 
 y
 
-esa es la propia esencia del bautismo. Confes a Cristo. Acaso no lo reconoci
+esa es la propia esencia del bautismo. Confesó a Cristo. żAcaso no lo reconoció
 
-ante su compaero ladrn? Hizo la confesin ms abierta posible. Acaso no
+ante su compańero ladrón? Hizo la confesión más abierta posible. żAcaso no
 
-reconoci a Cristo ante todos los que estaban reunidos en torno a la cruz y que
+reconoció a Cristo ante todos los que estaban reunidos en torno a la cruz y que
 
-estaban ubicados donde podan orle? Fue una confesin tan pblica como era
+estaban ubicados donde podían oírle? Fue una confesión tan pública como era
 
 factible hacerla. Sin embargo, ciertos sujetos cobardes reclaman ser cristianos
 
 aunque nunca han confesado a Cristo ante nadie, y luego citan a este pobre
 
-ladrn como una excusa. Estn ellos clavados a una cruz? Estn muriendo en
+ladrón como una excusa. żEstán ellos clavados a una cruz? żEstán muriendo en
 
-agona? Oh, no; y con todo, hablan como si pudieran reclamar la exencin que
+agonía? Oh, no; y con todo, hablan como si pudieran reclamar la exención que
 
-estas circunstancias les proporcionaran. Qu posicin tan deshonesta!
+estas circunstancias les proporcionarían. ˇQué posición tan deshonesta!
 
 El hecho es que nuestro
 
-Seor exige una confesin abierta as como tambin una fe secreta; y si no
+Seńor exige una confesión abierta así como también una fe secreta; y si no
 
-quieren ejercerla, no hay ninguna promesa de salvacin para ustedes, antes bien
+quieren ejercerla, no hay ninguna promesa de salvación para ustedes, antes bien
 
-hay una amenaza de que sern negados en el da postrero. El apstol lo expresa
+hay una amenaza de que serán negados en el día postrero. El apóstol lo expresa
 
-as: Si confesares con tu boca que Jess es el Seor, y creyeres en tu corazn
+así: “Si confesares con tu boca que Jesús es el Seńor, y creyeres en tu corazón
 
-que Dios le levant de los muertos, sers salvo. En otro lugar hay una
+que Dios le levantó de los muertos, serás salvo”. En otro lugar hay una
 
-declaracin en este sentido: El que creyere y fuere bautizado, ser salvo;
+declaración en este sentido: “El que creyere y fuere bautizado, será salvo”;
 
-esa es la manera de Cristo de hacer la confesin de l. Si existe una verdadera
+esa es la manera de Cristo de hacer la confesión de Él. Si existe una verdadera
 
 fe, debe declararse. Si ustedes son unas velas que Dios ha encendido, entonces
 
-As alumbre vuestra luz delante de los hombres, para que vean vuestras buenas
+“Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas
 
-obras, y glorifiquen a vuestro Padre que est en los cielos. Los soldados de
+obras, y glorifiquen a vuestro Padre que está en los cielos”. Los soldados de
 
 Cristo, igual que los soldados de su Majestad la reina, tienen que vestir el
 
 uniforme del regimiento; y si se avergonzaran del uniforme del regimiento,
 
-tendran que ser expulsados del regimiento. Quienes rehsan marchar en las
+tendrían que ser expulsados del regimiento. Quienes rehúsan marchar en las
 
-filas con sus camaradas, no son soldados honestos. Lo mnimo que el Seor
+filas con sus camaradas, no son soldados honestos. Lo mínimo que el Seńor
 
 Jesucristo puede esperar de nosotros es que lo confesemos en la medida que
 
-podamos. Si t estuvieras clavado a una cruz, yo no te invitara a ser
+podamos. Si tú estuvieras clavado a una cruz, yo no te invitaría a ser
 
-bautizado. Si estuvieras clavado a un rbol esperando la muerte, no te pedira
+bautizado. Si estuvieras clavado a un árbol esperando la muerte, no te pediría
 
-que vinieras a este plpito a declarar tu fe, pues no podras hacerlo. Slo se
+que vinieras a este púlpito a declarar tu fe, pues no podrías hacerlo. Sólo se
 
-requiere que hagas lo que puedes hacer, es decir, que hagas una profesin de fe
+requiere que hagas lo que puedes hacer, es decir, que hagas una profesión de fe
 
-en el Seor Jesucristo tan clara y definida como sea apropiada a tu condicin
+en el Seńor Jesucristo tan clara y definida como sea apropiada a tu condición
 
 presente.
 
@@ -984,107 +984,107 @@ cristianos se meten en muchos problemas debido a que no son honestos en sus
 
 convicciones. Por ejemplo, si un hombre va a un taller o un soldado entra en
 
-una barraca, y si de entrada no hacen ondear su bandera, ser muy difcil que
+una barraca, y si de entrada no hacen ondear su bandera, será muy difícil que
 
 la hagan ondear posteriormente. Pero si de manera inmediata y valiente les hacen
 
-saber: yo soy un cristiano y hay ciertas cosas que no puedo hacer para
+saber: “yo soy un cristiano y hay ciertas cosas que no puedo hacer para
 
 agradarlos, y hay algunas otras cosas que no puedo evitar hacer aunque les
 
-desagraden, cuando eso queda claramente entendido, despus de un tiempo la
+desagraden”, cuando eso queda claramente entendido, después de un tiempo la
 
-singularidad de la cosa desaparecer, y dejarn tranquilo a ese hombre; pero si
+singularidad de la cosa desaparecerá, y dejarán tranquilo a ese hombre; pero si
 
-es un poco solapado, y cree que va a agradar al mundo y a agradar tambin a
+es un poco solapado, y cree que va a agradar al mundo y a agradar también a
 
-Dios, puede estar seguro de que le aguardan momentos difciles. Su vida ser la
+Dios, puede estar seguro de que le aguardan momentos difíciles. Su vida será la
 
 de un sapo bajo una rastra o de una zorra en una perrera, si es que sigue el
 
-camino de la contemporizacin. Eso no funcionar. Date a conocer. Muestra tus
+camino de la contemporización. Eso no funcionará. Date a conocer. Muestra tus
 
-colores. Que sepan quin eres, y lo que eres; y aunque tu curso no sea fcil,
+colores. Que sepan quién eres, y lo que eres; y aunque tu curso no sea fácil,
 
-no ser ciertamente ni la mitad de difcil que si trataras de correr con la
+no será ciertamente ni la mitad de difícil que si trataras de correr con la
 
-liebre y cazar con los sabuesos, lo cual es una empresa muy difcil.
+liebre y cazar con los sabuesos, lo cual es una empresa muy difícil.
 
 Este hombre se dio a
 
-conocer inmediatamente e hizo una confesin de su fe en Cristo tan abierta como
+conocer inmediatamente e hizo una confesión de su fe en Cristo tan abierta como
 
 le fue posible.
 
-Lo siguiente que hizo fue reprender a su compaero pecador.
+Lo siguiente que hizo fue reprender a su compańero pecador.
 
 Le
 
-habl en respuesta a la procacidad con la que atac a nuestro Seor. Yo no s
+habló en respuesta a la procacidad con la que atacó a nuestro Seńor. Yo no sé
 
-qu cosas haba estado diciendo blasfemamente el inconverso convicto, pero su
+qué cosas había estado diciendo blasfemamente el inconverso convicto, pero su
 
-compaero convertido le habl con toda honestidad. Ni aun temes t a Dios,
+compańero convertido le habló con toda honestidad. “żNi aun temes tú a Dios,
 
-estando en la misma condenacin? Nosotros, a la verdad, justamente padecemos,
+estando en la misma condenación? Nosotros, a la verdad, justamente padecemos,
 
-porque recibimos lo que merecieron nuestros hechos; mas ste ningn mal hizo.
+porque recibimos lo que merecieron nuestros hechos; mas éste ningún mal hizo”.
 
-En estos das es ms necesario que nunca que los creyentes en Cristo no
+En estos días es más necesario que nunca que los creyentes en Cristo no
 
-permitan que el pecado pase sin reprensin; y, sin embargo, una gran cantidad
+permitan que el pecado pase sin reprensión; y, sin embargo, una gran cantidad
 
-de ellos lo hacen. Acaso no saben que una persona que permanece en silencio
+de ellos lo hacen. żAcaso no saben que una persona que permanece en silencio
 
-cuando se dice o se hace algo malo, puede volverse partcipe en el pecado? Si
+cuando se dice o se hace algo malo, puede volverse partícipe en el pecado? Si
 
 no reprenden el pecado, -quiero decir, por supuesto, en todas las ocasiones
 
-apropiadas y con un espritu adecuado- el silencio de ustedes dar el
+apropiadas y con un espíritu adecuado- el silencio de ustedes dará el
 
-consentimiento al pecado y sern asistentes y cmplices en l. A un hombre que
+consentimiento al pecado y serán asistentes y cómplices en él. A un hombre que
 
-viera un robo y que no gritara: Detengan al ladrn!, se le considerara que
+viera un robo y que no gritara: “ˇDetengan al ladrón!”, se le consideraría que
 
-est en colusin con el ladrn; y el hombre que puede or blasfemar o ver la
+está en colusión con el ladrón; y el hombre que puede oír blasfemar o ver la
 
-impureza, y que no expresa nunca ni una palabra de protesta, debera
+impureza, y que no expresa nunca ni una palabra de protesta, debería
 
-cuestionarse seriamente si l mismo est bien. Nuestro concepto de pecados de
+cuestionarse seriamente si él mismo está bien. Nuestro concepto de “pecados de
 
-otros hombres constituye un gran elemento de nuestra culpa personal a menos
+otros hombres” constituye un gran elemento de nuestra culpa personal a menos
 
-que los reprendamos de cualquier manera. El Seor espera que hagamos eso. El
+que los reprendamos de cualquier manera. El Seńor espera que hagamos eso. El
 
-ladrn agonizante lo hizo, y lo hizo de todo corazn; y en ello super a una
+ladrón agonizante lo hizo, y lo hizo de todo corazón; y en ello superó a una
 
 gran cantidad de personas que alzan en alto su cabeza en la iglesia.
 
-A continuacin,
+A continuación,
 
-el ladrn moribundo hizo una confesin
+el ladrón moribundo hizo una confesión
 
 plenaria de su culpa.
 
-Le dijo al otro que estaba colgado con l: Ni aun
+Le dijo al otro que estaba colgado con él: “żNi aun
 
-temes t a Dios, estando en la misma condenacin?
+temes tú a Dios, estando en la misma condenación?”
 
-Nosotros, a la verdad, justamente padecemos.
+Nosotros, a la verdad, justamente padecemos”.
 
 No hay muchas
 
-palabras, pero qu mundo de significado contienen: Nosotros, a la verdad,
+palabras, pero qué mundo de significado contienen: “Nosotros, a la verdad,
 
-justamente. T y yo morimos por nuestros crmenes le dijo- y nosotros
+justamente”. “Tú y yo morimos por nuestros crímenes” –le dijo- “y nosotros
 
-merecemos morir. Cuando un hombre est dispuesto a confesar que merece la ira
+merecemos morir”. Cuando un hombre está dispuesto a confesar que merece la ira
 
-de Dios que merece el sufrimiento que su pecado le ha acarreado- hay evidencia
+de Dios –que merece el sufrimiento que su pecado le ha acarreado- hay evidencia
 
-de sinceridad en l. En el caso de este hombre, su arrepentimiento rutilaba
+de sinceridad en él. En el caso de este hombre, su arrepentimiento rutilaba
 
-como una lgrima santa en el ojo de su fe, de manera que su fe estaba enjoyada
+como una lágrima santa en el ojo de su fe, de manera que su fe estaba enjoyada
 
 con las gotas de su penitencia. Como ya les he dicho muchas veces, sospecho de
 
@@ -1098,83 +1098,83 @@ corazones una obra tan integral como esa.
 
 Luego, vean que
 
-este ladrn moribundo defiende a su Seor
+este ladrón moribundo defiende a su Seńor
 
 muy virilmente.
 
-Dice: Nosotros, a la verdad, justamente padecemos, porque
+Dice: “Nosotros, a la verdad, justamente padecemos, porque
 
-recibimos lo que merecieron nuestros hechos; mas ste ningn mal hizo. Acaso
+recibimos lo que merecieron nuestros hechos; mas éste ningún mal hizo”. żAcaso
 
-no fue dicho bellamente eso? l no dijo: Este Hombre no merece morir sino-
+no fue dicho bellamente eso? Él no dijo: “Este Hombre no merece morir” –sino-
 
-mas ste ningn mal hizo. Quiere decir que l es perfectamente inocente. Ni siquiera
+“mas éste ningún mal hizo”. Quiere decir que Él es perfectamente inocente. Ni siquiera
 
-dice: l no ha hecho nada malo, sino que incluso asevera que no ha actuado
+dice: “Él no ha hecho nada malo”, sino que incluso asevera que no ha actuado
 
-sin sabidura o indiscretamente: Mas ste ningn mal hizo. Este es un
+sin sabiduría o indiscretamente: “Mas éste ningún mal hizo”. Este es un
 
 testimonio glorioso de un hombre moribundo en favor de alguien que fue contado
 
 con los pecadores y que estaba siendo inmolado debido a que Sus enemigos le
 
-haban acusado falsamente.
+habían acusado falsamente.
 
-Amados, yo slo oro
+Amados, yo sólo oro
 
 pidiendo que ustedes y yo podamos dar un testimonio tan bueno en favor de
 
-nuestro Seor como lo hizo este ladrn. No debemos pensar mucho en su tarda conversin;
+nuestro Seńor como lo hizo este ladrón. No debemos pensar mucho en su tardía conversión;
 
-deberamos considerar mucho ms cun bendito fue el testimonio que dio en favor
+deberíamos considerar mucho más cuán bendito fue el testimonio que dio en favor
 
-de su Seor cuando ms necesario era. Cuando todas las dems voces permanecan
+de su Seńor cuando más necesario era. Cuando todas las demás voces permanecían
 
-silentes, un penitente sufriente se expres pblicamente y dijo: Mas ste
+silentes, un penitente sufriente se expresó públicamente y dijo: “Mas éste
 
-ningn mal hizo.
+ningún mal hizo”.
 
-Vean, adems, otra seal
+Vean, además, otra seńal
 
-de la fe de este hombre. l ora, y
+de la fe de este hombre. Él ora, y
 
 su
 
-oracin es dirigida a Jess.
+oración es dirigida a Jesús.
 
-Acurdate de m cuando vengas en tu reino.
+“Acuérdate de mí cuando vengas en tu reino”.
 
-La verdadera fe es siempre una fe que ora. He aqu, l ora, es una de las
+La verdadera fe es siempre una fe que ora. “He aquí, él ora”, es una de las
 
-pruebas ms seguras del nuevo nacimiento. Oh, amigos, que abundramos en
+pruebas más seguras del nuevo nacimiento. ˇOh, amigos, que abundáramos en
 
-oracin, pues as demostraramos que nuestra fe en Jesucristo es lo que debera
+oración, pues así demostraríamos que nuestra fe en Jesucristo es lo que debería
 
-ser! Este ladrn convertido abri su boca ampliamente en oracin; or con gran
+ser! Este ladrón convertido abrió su boca ampliamente en oración; oró con gran
 
-confianza respecto a la venida del reino y busc primero ese reino, incluso con
+confianza respecto a la venida del reino y buscó primero ese reino, incluso con
 
-exclusin de todo lo dems. Pudo haber pedido que se le concediera la vida, o que
+exclusión de todo lo demás. Pudo haber pedido que se le concediera la vida, o que
 
-se le mitigara el dolor; pero l prefiri el reino, y esa es una excelsa seal
+se le mitigara el dolor; pero él prefirió el reino, y esa es una excelsa seńal
 
 de gracia.
 
-En adicin a orar as,
+En adición a orar así,
 
-ustedes vern que
+ustedes verán que
 
-l adora y venera a
+él adora y venera a
 
-Jess,
+Jesús,
 
-pues le dice: Seor, acurdate de m cuando vengas en tu reino. La
+pues le dice: “Seńor, acuérdate de mí cuando vengas en tu reino”. La
 
-peticin est expresada como si sintiera: Con slo que Cristo piense en m,
+petición está expresada como si sintiera: “Con sólo que Cristo piense en mí,
 
-eso basta. Con slo que me recuerde, el pensamiento de su mente ser eficaz
+eso basta. Con sólo que me recuerde, el pensamiento de su mente será eficaz
 
-para todo lo que necesite en el mundo venidero. Esto equivale a imputar
+para todo lo que necesite en el mundo venidero”. Esto equivale a imputar
 
 la Deidad
 
@@ -1182,205 +1182,205 @@ a Cristo. Si alguien
 
 puede hacer que todo dependa de la simple memoria de una persona, tiene que
 
-tener una muy alta estimacin de esa persona. Si ser recordado por el Seor
+tener una muy alta estimación de esa persona. Si ser recordado por el Seńor
 
-Jess es todo lo que este hombre pide, o desea, le rinde al Seor un grande
+Jesús es todo lo que este hombre pide, o desea, le rinde al Seńor un grande
 
-honor. Yo pienso que su oracin contena una adoracin igual a los eternos
+honor. Yo pienso que su oración contenía una adoración igual a los eternos
 
-aleluyas de los querubines y de los serafines. Contena una glorificacin de su
+aleluyas de los querubines y de los serafines. Contenía una glorificación de su
 
-Seor que no ha sido sobrepasada aun por las sinfonas interminables de los
+Seńor que no ha sido sobrepasada aun por las sinfonías interminables de los
 
-espritus anglicos que rodean el trono. Ladrn, te comportaste muy bien!
+espíritus angélicos que rodean el trono. ˇLadrón, te comportaste muy bien!
 
-Oh, que algn espritu penitente
+Oh, que algún espíritu penitente
 
-aqu presente fuera ayudado a creer de igual manera, a confesar de igual
+aquí presente fuera ayudado a creer de igual manera, a confesar de igual
 
-manera, a defender a su Seor de igual manera, a adorar de igual manera y a
+manera, a defender a su Seńor de igual manera, a adorar de igual manera y a
 
-venerar de igual manera, y entonces la edad del convertido sera un asunto de
+venerar de igual manera, y entonces la edad del convertido sería un asunto de
 
-la ms mnima importancia imaginable.
+la más mínima importancia imaginable.
 
 IV.
 
 Ahora,
 
-la ltima observacin es esta: hubo algo muy especial respecto a
+la última observación es esta: hubo algo muy especial respecto a
 
 LA PALABRA
 
 DE
 
-NUESTRO SEOR PARA
+NUESTRO SEŃOR PARA
 
-EL LADRN MORIBUNDO TOCANTE AL MUNDO VENIDERO. El Seor le dijo: De cierto te
+EL LADRÓN MORIBUNDO TOCANTE AL MUNDO VENIDERO. El Seńor le dijo: “De cierto te
 
-digo que hoy estars conmigo en el paraso. l slo le pidi al Seor que lo
+digo que hoy estarás conmigo en el paraíso”. Él sólo le pidió al Seńor que lo
 
-recordara, pero obtuvo esta sorprendente respuesta: De cierto te digo que hoy
+recordara, pero obtuvo esta sorprendente respuesta: “De cierto te digo que hoy
 
-estars conmigo en el paraso.
+estarás conmigo en el paraíso”.
 
 En algunos sentidos yo envidio
 
-a este ladrn agonizante por esta razn: porque cuando el Seor me perdon, y
+a este ladrón agonizante por esta razón: porque cuando el Seńor me perdonó, y
 
-cuando perdon a la mayora de ustedes que estn presentes, l no nos dio un
+cuando perdonó a la mayoría de ustedes que están presentes, Él no nos dio un
 
-lugar en el Paraso ese mismo da. No hemos llegado todava al reposo que nos
+lugar en el Paraíso ese mismo día. No hemos llegado todavía al reposo que nos
 
-ha sido prometido. No, ustedes siguen esperando aqu. Algunos de ustedes han
+ha sido prometido. No, ustedes siguen esperando aquí. Algunos de ustedes han
 
-estado esperando durante largo tiempo. Han transcurrido treinta aos para
+estado esperando durante largo tiempo. Han transcurrido treinta ańos para
 
-muchos de nosotros. Han transcurrido cuarenta o cincuenta aos para muchas
+muchos de nosotros. Han transcurrido cuarenta o cincuenta ańos para muchas
 
-personas a partir del da que el Seor borr sus pecados, pero todava no estn
+personas a partir del día que el Seńor borró sus pecados, pero todavía no están
 
-con l en el Paraso. Hay una amada hermana de esta iglesia que, segn mis
+con Él en el Paraíso. Hay una amada hermana de esta iglesia que, según mis
 
-clculos, ha conocido al Seor durante setenta aos, y ella est todava con
+cálculos, ha conocido al Seńor durante setenta ańos, y ella está todavía con
 
-nosotros habiendo rebasado ya el nonagsimo ao de su existencia. El Seor no
+nosotros habiendo rebasado ya el nonagésimo ańo de su existencia. El Seńor no
 
-la admiti en el Paraso el propio da de su conversin. l no llev a nadie de
+la admitió en el Paraíso el propio día de su conversión. Él no llevó a nadie de
 
-nosotros de la naturaleza a la gracia, y de la gracia a la gloria, en un da.
+nosotros de la naturaleza a la gracia, y de la gracia a la gloria, en un día.
 
 Hemos tenido que esperar un buen rato. Hay algo que tenemos que hacer en el
 
-desierto y por esa razn nos mantiene fuera del huerto celestial.
+desierto y por esa razón nos mantiene fuera del huerto celestial.
 
-Yo recuerdo que el seor
+Yo recuerdo que el seńor
 
-Baxter comentaba que no tena ninguna prisa de llegar al cielo; y cuando un
+Baxter comentaba que no tenía ninguna prisa de llegar al cielo; y cuando un
 
-amigo visit al doctor Owen, que haba estado escribiendo acerca de la gloria
+amigo visitó al doctor Owen, que había estado escribiendo acerca de la gloria
 
-de Cristo, le pregunt qu pensaba respecto a ir al cielo. Aquel gran telogo le
+de Cristo, le preguntó qué pensaba respecto a ir al cielo. Aquel gran teólogo le
 
-respondi: anhelo mucho ir all. Bueno coment el otro- acabo de hablar
+respondió: “anhelo mucho ir allá”. “Bueno” –comentó el otro- “acabo de hablar
 
-con el santo seor Baxter y l dice que preferira estar aqu pues piensa que
+con el santo seńor Baxter y él dice que preferiría estar aquí pues piensa que
 
-puede ser ms til en la tierra. Oh!, -dijo el doctor Owen- mi hermano
+puede ser más útil en la tierra”. “ˇOh!”, -dijo el doctor Owen- “mi hermano
 
-Baxter est siempre lleno de una piedad prctica, pero a pesar de eso yo no
+Baxter está siempre lleno de una piedad práctica, pero a pesar de eso yo no
 
-podra decir que estoy deseoso en absoluto de quedarme en esta condicin
+podría decir que estoy deseoso en absoluto de quedarme en esta condición
 
-mortal. Yo preferira partir.
+mortal. Yo preferiría partir”.
 
-Me parece a m que cada
+Me parece a mí que cada
 
 uno de esos dos individuos debe de haber correspondido a una de las dos mitades
 
 de Pablo. Pablo estaba compuesto por esas dos mitades, pues estaba deseoso de
 
-partir pero tambin estaba dispuesto a permanecer en la tierra porque era necesario
+partir pero también estaba dispuesto a permanecer en la tierra porque era necesario
 
-para la gente. Nosotros quisiramos juntar ambos componentes y, como Pablo,
+para la gente. Nosotros quisiéramos juntar ambos componentes y, como Pablo,
 
 tener un fuerte deseo de partir y estar con Cristo y, no obstante, estar
 
-dispuestos a esperar, si es que podemos servir a nuestro Seor y a su iglesia.
+dispuestos a esperar, si es que podemos servir a nuestro Seńor y a su iglesia.
 
 Con todo, quien es convertido y entra en el cielo esa misma noche, tiene lo
 
-mejor. Este ladrn desayun con el diablo, pero comi con Cristo en la tierra y
+mejor. Este ladrón desayunó con el diablo, pero comió con Cristo en la tierra y
 
-cen con l en el Paraso. Esa fue una breve obra, pero fue una obra bendita.
+cenó con Él en el Paraíso. Esa fue una breve obra, pero fue una obra bendita.
 
-De qu turba de problemas escap! Qu mundo de tentacin desconoci! Qu
+ˇDe qué turba de problemas escapó! ˇQué mundo de tentación desconoció! ˇQué
 
-mundo impo abandon! Acababa de nacer, como una ovejita engendrada en el
+mundo impío abandonó! Acababa de nacer, como una ovejita engendrada en el
 
 campo, pero fue tomada y llevada al pecho del Pastor de inmediato. No recuerdo
 
-que el Seor le hubiere dicho lo mismo a nadie ms. Me atrevo a decir que
+que el Seńor le hubiere dicho lo mismo a nadie más. Me atrevo a decir que
 
 pudiera haber sucedido que algunas almas hubieran sido convertidas y se hubieran
 
-ido al hogar de inmediato; pero nunca o de nadie que tuviera tal seguridad de
+ido al hogar de inmediato; pero nunca oí de nadie que tuviera tal seguridad de
 
-parte de Cristo como este hombre la tuvo: De cierto te digo; tal garanta
+parte de Cristo como este hombre la tuvo: “De cierto te digo”; tal garantía
 
-personal: De cierto
+personal: “De cierto
 
 te
 
 digo que hoy
 
-estars conmigo en el paraso. Ladrn moribundo, t fuiste favorecido ms que
+estarás conmigo en el paraíso”. ˇLadrón moribundo, tú fuiste favorecido más que
 
-muchos, pues se te concedi: Estar con Cristo, lo cual es muchsimo mejor, y
+muchos, pues se te concedió: “Estar con Cristo, lo cual es muchísimo mejor”, y
 
-estar con l tan pronto!
+estar con Él tan pronto!
 
-Por qu el Seor no nos
+żPor qué el Seńor no nos
 
-enva as, de inmediato al Paraso a todos nosotros? Es debido a que debemos
+envía así, de inmediato al Paraíso a todos nosotros? Es debido a que debemos
 
-hacer algo en la tierra. Hermanos mos, estn hacindolo?
+hacer algo en la tierra. Hermanos míos, żestán haciéndolo?
 
-Estn hacindolo?
+żEstán haciéndolo?
 
-Algunas buenas gentes estn todava en la
+Algunas buenas gentes están todavía en la
 
-tierra. Pero, por qu? Cul es la utilidad de ellas? No puedo imaginarlo. Si
+tierra. Pero, żpor qué? żCuál es la utilidad de ellas? No puedo imaginarlo. Si
 
-en verdad pertenecen al Seor, para qu estn aqu? Se levantan por la maana
+en verdad pertenecen al Seńor, żpara qué están aquí? Se levantan por la mańana
 
 y toman su desayuno, y a su debido tiempo comen y cenan y se retiran a la cama
 
-y duermen; en una hora apropiada se levantan a la maana siguiente y hacen lo
+y duermen; en una hora apropiada se levantan a la mańana siguiente y hacen lo
 
-mismo que hicieron el da anterior. Acaso eso es vivir para Jess? Es vida
+mismo que hicieron el día anterior. żAcaso eso es vivir para Jesús? żEs vida
 
-eso? No significa mucho. Puede ser eso la vida de Dios en el hombre? Oh, miembros
+eso? No significa mucho. żPuede ser eso la vida de Dios en el hombre? ˇOh, miembros
 
-del pueblo cristiano, justifiquen al Seor que los mantiene esperando en la
+del pueblo cristiano, justifiquen al Seńor que los mantiene esperando en la
 
-tierra! Cmo pueden justificarlo sino sirvindole lo mejor que puedan? Que el
+tierra! żCómo pueden justificarlo sino sirviéndole lo mejor que puedan? ˇQue el
 
-Seor les ayude a hacerlo! Vamos, ustedes le deben tanto a l como el ladrn
+Seńor les ayude a hacerlo! ˇVamos, ustedes le deben tanto a Él como el ladrón
 
-moribundo! Yo s que yo debo mucho ms. Qu misericordia es que hayas sido
+moribundo! Yo sé que yo debo mucho más. ˇQué misericordia es que hayas sido
 
-convertido cuando eras todava un muchacho, y que hayas sido llevada al
+convertido cuando eras todavía un muchacho, y que hayas sido llevada al
 
-Salvador cuando eras todava una muchacha! Qu deuda y qu obligacin tienen
+Salvador cuando eras todavía una muchacha! ˇQué deuda y qué obligación tienen
 
-los jvenes cristianos para con el Seor! Y si este pobre ladrn condens una
+los jóvenes cristianos para con el Seńor! Y si este pobre ladrón condensó una
 
-vida llena de testimonio en unos cuantos minutos, no deberamos t y yo, que
+vida llena de testimonio en unos cuantos minutos, żno deberíamos tú y yo, que
 
-somos conservados durante aos despus de la conversin, realizar un buen
+somos conservados durante ańos después de la conversión, realizar un buen
 
-servicio para nuestro Seor? Vamos, despertemos si es que hemos estado
+servicio para nuestro Seńor? ˇVamos, despertemos si es que hemos estado
 
-dormidos! Comencemos a vivir si es que hemos estado medio muertos. Que el
+dormidos! Comencemos a vivir si es que hemos estado medio muertos. ˇQue el
 
-Espritu de Dios haga todava algo de nosotros, para que podamos trasladarnos
+Espíritu de Dios haga todavía algo de nosotros, para que podamos trasladarnos
 
-como hacendosos siervos de las labores de la via a los placeres del Paraso! A
+como hacendosos siervos de las labores de la vińa a los placeres del Paraíso! ˇA
 
-nuestro Seor que fue crucificado una vez sea la gloria por los siglos de los
+nuestro Seńor que fue crucificado una vez sea la gloria por los siglos de los
 
-siglos! Amn.
+siglos! Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes
+leída antes
 
-del sermn: Lucas 23: 27-49.
+del sermón: Lucas 23: 27-49.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 20/Marzo/2012
 

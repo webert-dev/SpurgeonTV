@@ -1,254 +1,254 @@
 # Sermón 1225 | Sermón 1225
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Jess, el
+Jesús, el
 
 Deleite del Cielo
 
-UN SERMN PREDICADO
+UN SERMÓN PREDICADO
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Y cantaban
+“Y cantaban
 
-un nuevo cntico, diciendo: Digno eres de tomar el libro y de abrir sus sellos;
+un nuevo cántico, diciendo: Digno eres de tomar el libro y de abrir sus sellos;
 
-porque t fuiste inmolado, y con tu sangre nos has redimido para Dios, de todo
+porque tú fuiste inmolado, y con tu sangre nos has redimido para Dios, de todo
 
-linaje y lengua y pueblo y nacin; y
+linaje y lengua y pueblo y nación; y
 
 nos
 
 has hecho
 
-para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra.
+para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra”.
 
 Apocalipsis 5: 9, 10.
 
 Si quieren conocer el
 
-carcter de un hombre, es bueno informarse al respecto en su hogar. Qu piensan
+carácter de un hombre, es bueno informarse al respecto en su hogar. żQué piensan
 
-de l sus hijos y sus sirvientes? Cul es el juicio que se han formado aquellos
+de él sus hijos y sus sirvientes? żCuál es el juicio que se han formado aquellos
 
-que siempre estn con l? En una ocasin le preguntaron a George Whitefield su
+que siempre están con él? En una ocasión le preguntaron a George Whitefield su
 
-opinin acerca de una persona y su respuesta fue muy sabia, pues respondi:
+opinión acerca de una persona y su respuesta fue muy sabia, pues respondió:
 
-Nunca he vivido con l. Amados hermanos en Cristo, vean qu opinin hay de su
+“Nunca he vivido con él”. Amados hermanos en Cristo, vean qué opinión hay de su
 
-Seor all en casa, en lo alto, donde le conocen mejor y le ven constantemente
+Seńor allá en casa, en lo alto, donde le conocen mejor y le ven constantemente
 
-y a la ms clara luz. No han descubierto ningn defecto en l. Los ngeles que
+y a la más clara luz. No han descubierto ningún defecto en Él. Los ángeles que
 
 le han contemplado desde que fueron creados y los redimidos que han estado con
 
-l, algunos de ellos por miles de aos, no han encontrado ninguna mancha en l;
+Él, algunos de ellos por miles de ańos, no han encontrado ninguna mancha en Él;
 
-su veredicto unnime, expresado libremente en un gozoso cntico es: Digno
+su veredicto unánime, expresado libremente en un gozoso cántico es: “Digno
 
-eres; digno eres; digno eres.
+eres; digno eres; digno eres”.
 
 Si deseas conocer a un
 
-hombre ser bueno investigar lo que piensan de l las mejores personas pues la
+hombre será bueno investigar lo que piensan de él las mejores personas pues la
 
-buena opinin de hombres malos no vale nada. Qu he hecho dijo uno de los
+buena opinión de hombres malos no vale nada. “żQué he hecho” –dijo uno de los
 
-filsofos griegos- que hablas bien de m?, cuando descubri que era aplaudido
+filósofos griegos- “que hablas bien de mí?”, cuando descubrió que era aplaudido
 
-por un hombre de mala reputacin. Una reputacin que proviene de hombres
+por un hombre de mala reputación. Una reputación que proviene de hombres
 
 capacitados para juzgar, que saben lo que es la pureza, cuyos ojos han sido
 
-abiertos para discriminar entre la virtud y su falsificacin, esa es la
+abiertos para discriminar entre la virtud y su falsificación, esa es la
 
-reputacin que vale la pena disfrutar. A nadie le gustara que un santo pensara
+reputación que vale la pena disfrutar. A nadie le gustaría que un santo pensara
 
-mal de uno. Valoramos la estima de aquellos cuyo juicio es sano, que estn
+mal de uno. Valoramos la estima de aquellos cuyo juicio es sano, que están
 
-libres de prejuicio y que aman nicamente aquello que es honesto y de buen
+libres de prejuicio y que aman únicamente aquello que es honesto y de buen
 
-nombre. Ahora, hermanos, vean la opinin que tienen de su Seor en la mejor
+nombre. Ahora, hermanos, vean la opinión que tienen de su Seńor en la mejor
 
-sociedad, donde todos son perfectos, donde ya no son ms nios sino que todos
+sociedad, donde todos son perfectos, donde ya no son más nińos sino que todos
 
-son capaces de juzgar, que viven bajo una clara luz y estn libres de
+son capaces de juzgar, que viven bajo una clara luz y están libres de
 
-prejuicio, aquellos que no pueden cometer ningn error. Vean lo que piensan de
+prejuicio, aquellos que no pueden cometer ningún error. Vean lo que piensan de
 
-l. Ellos mismos estn sin mancha delante del trono pero no se consideran
+Él. Ellos mismos están sin mancha delante del trono pero no se consideran
 
-dignos; asignan la dignidad nicamente a Jess. Nadie se levant para tomar el
+dignos; asignan la dignidad únicamente a Jesús. Nadie se levantó para tomar el
 
 libro de la mano abierta del grandioso Rey; pero cuando vieron que el Cordero
 
-lo haca sintieron que estaba en Su derecho de asumir esa posicin prominente y
+lo hacía sintieron que estaba en Su derecho de asumir esa posición prominente y
 
-honorable, y dijeron al unsono: Digno eres de tomar el libro y de abrir sus
+honorable, y dijeron al unísono: “Digno eres de tomar el libro y de abrir sus
 
-sellos; porque t fuiste inmolado. Ni ustedes ni yo no podemos tener pensamientos
+sellos; porque tú fuiste inmolado”. Ni ustedes ni yo no podemos tener pensamientos
 
-demasiado excelsos sobre Jess. Erramos al no pensar lo suficiente en l. Que
+demasiado excelsos sobre Jesús. Erramos al no pensar lo suficiente en Él. Que
 
-nuestra estimacin de l crezca y exclamemos con Toms: Seor mo, y Dios
+nuestra estimación de Él crezca y exclamemos con Tomás: “ˇSeńor mío, y Dios
 
-mo! Oh, que tuviramos grandes pensamientos con respecto a Jess. Oh, que lo
+mío!” Oh, que tuviéramos grandes pensamientos con respecto a Jesús. Oh, que lo
 
-erigiramos en el ms excelso trono imaginable en las concepciones de nuestra
+erigiéramos en el más excelso trono imaginable en las concepciones de nuestra
 
-alma, y que hiciramos que cada poder y facultad de nuestra condicin humana
+alma, y que hiciéramos que cada poder y facultad de nuestra condición humana
 
-cayera postrada delante de l como los ancianos, mientras que cualquiera que
+cayera postrada delante de Él como los ancianos, mientras que cualquiera que
 
-sea el honor que Dios pudiera poner sobre nosotros lo arrojramos siempre a Sus
+sea el honor que Dios pudiera poner sobre nosotros lo arrojáramos siempre a Sus
 
-pies, y que dijramos siempre de todo corazn y con los labios y los actos:
+pies, y que dijéramos siempre de todo corazón y con los labios y los actos:
 
-Digno eres, Jess, Emanuel, Redentor, que nos has comprado con Tu sangre.
+“Digno eres, Jesús, Emanuel, Redentor, que nos has comprado con Tu sangre.
 
-Digno eres, digno por los siglos de los siglos.
+Digno eres, digno por los siglos de los siglos”.
 
-Es a la estimacin de
+Es a la estimación de
 
-los espritus perfectos a la que yo quisiera llamar su atencin. Qu piensan
+los espíritus perfectos a la que yo quisiera llamar su atención. żQué piensan
 
 ustedes de Cristo, seres glorificados con quienes nos uniremos muy pronto?
 
-Tenemos su respuesta en las palabras que acabamos de leer. Digno eres de tomar
+Tenemos su respuesta en las palabras que acabamos de leer. “Digno eres de tomar
 
-el libro y de abrir sus sellos; porque t fuiste inmolado, y con tu sangre nos
+el libro y de abrir sus sellos; porque tú fuiste inmolado, y con tu sangre nos
 
-has redimido para Dios, de todo linaje y lengua y pueblo y nacin; y nos has
+has redimido para Dios, de todo linaje y lengua y pueblo y nación; y nos has
 
-hecho para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra.
+hecho para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra”.
 
 I.
 
 Noten
 
-primero que los seres brillantes delante del trono adoran al Seor Jess como
+primero que los seres brillantes delante del trono adoran al Seńor Jesús como
 
-DIGNO DEL EXCELSO OFICIO DE MEDIADOR. Le adoran como el nico ser digno de ese
+DIGNO DEL EXCELSO OFICIO DE MEDIADOR. Le adoran como el único ser digno de ese
 
 oficio, pues hubo silencio en el cielo cuando la mano de Dios sostuvo el rollo
 
-y el reto fue lanzado: Quin es digno de abrir el libro y desatar sus
+y el reto fue lanzado: “żQuién es digno de abrir el libro y desatar sus
 
-sellos? Sin palabras se quedaron los cuatro seres vivientes; callados estaban
+sellos?” Sin palabras se quedaron los cuatro seres vivientes; callados estaban
 
 los querubines y serafines: en muda solemnidad se sentaron los veinticuatro
 
 ancianos en sus tronos. Ellos no reclamaron ninguna dignidad, pero por su silencio
 
-y por su canto subsecuente cuando Cristo pas al frente, admitieron que slo l
+y por su canto subsecuente cuando Cristo pasó al frente, admitieron que sólo Él
 
-poda revelar los propsitos de Dios e interpretarlos para los hijos de los
+podía revelar los propósitos de Dios e interpretarlos para los hijos de los
 
-hombres. Pues yo entiendo que uno de los significados de que nuestro Seor
+hombres. Pues yo entiendo que uno de los significados de que nuestro Seńor
 
-tomara el libro en Su mano era este: que l iba a
+tomara el libro en Su mano era este: que Él iba a
 
 dar cumplimiento
 
-a ese misterioso rollo tan celosamente sellado. l
+a ese misterioso rollo tan celosamente sellado. Él
 
-vino para abrirlo, y por medio de transacciones en las que deba ocupar el
+vino para abrirlo, y por medio de transacciones en las que debía ocupar el
 
-lugar primordial, iba a cumplirlo. La llave de los propsitos de Dios es Cristo.
+lugar primordial, iba a cumplirlo. La llave de los propósitos de Dios es Cristo.
 
-Nosotros no sabemos cules pudieran ser los decretos de Dios mientras no se
+Nosotros no sabemos cuáles pudieran ser los decretos de Dios mientras no se
 
-cumplan; pero nosotros sabemos que por l y por medio de l y para l son todas
+cumplan; pero nosotros sabemos que por Él y por medio de Él y para Él son todas
 
-las cosas, y que todo comenzar y terminar con Jess, pues l es Alfa y Omega,
+las cosas, y que todo comenzará y terminará con Jesús, pues Él es Alfa y Omega,
 
-el principio y el fin. l es la letra inicial de toda la historia, y l ser su
+el principio y el fin. Él es la letra inicial de toda la historia, y Él será su
 
-finis (el fin) cuando entregue el trono a Dios Su Padre, para que Dios sea
+“finis” (el fin) cuando entregue el trono a Dios Su Padre, para que Dios sea
 
-todo en todo. As como nuestro Seor Jess es el que da el cumplimiento, as es
+todo en todo. Así como nuestro Seńor Jesús es el que da el cumplimiento, así es
 
-el intrprete.
+el intérprete.
 
-l ha estado con el Padre,
+Él ha estado con el Padre,
 
-y Ni al Padre conoce alguno, sino el Hijo, y aquel a quien el Hijo lo quiera
+y “Ni al Padre conoce alguno, sino el Hijo, y aquel a quien el Hijo lo quiera
 
-revelar. l es el gran intrprete de la mente de Dios para nosotros. Su
+revelar”. Él es el gran intérprete de la mente de Dios para nosotros. Su
 
-Espritu morando en nosotros toma de Sus cosas y nos las muestra, y a la luz
+Espíritu morando en nosotros toma de Sus cosas y nos las muestra, y a la luz
 
-del Espritu vemos la gloria de Dios en la faz de Jesucristo. l dice: Nadie
+del Espíritu vemos la gloria de Dios en la faz de Jesucristo. Él dice: “Nadie
 
-viene al Padre, sino por m; pues nadie puede exponer al Padre para nosotros o
+viene al Padre, sino por mí”; pues nadie puede exponer al Padre para nosotros o
 
-conducirnos al Padre salvo Jesucristo, el nico intrprete del secreto divino.
+conducirnos al Padre salvo Jesucristo, el único intérprete del secreto divino.
 
-Y as yo considero que las expresiones que estn aqu le exponen como mediador,
+Y así yo considero que las expresiones que están aquí le exponen como mediador,
 
-pues l es quien est entre Dios y el hombre. l es digno de tomar el libro en
+pues Él es quien está entre Dios y el hombre. Él es digno de tomar el libro en
 
 Su mano por nosotros y de asir para nosotros el inventario de nuestra herencia
 
-ms all de las estrellas. Nadie ms puede entrar por nosotros en la augusta
+más allá de las estrellas. Nadie más puede entrar por nosotros en la augusta
 
-presencia del Altsimo, y tomar con Su mano los ttulos de propiedad de la
+presencia del Altísimo, y tomar con Su mano los títulos de propiedad de la
 
-gracia a nombre nuestro; pero Cristo puede hacerlo y tomndolos puede abrirlos
+gracia a nombre nuestro; pero Cristo puede hacerlo y tomándolos puede abrirlos
 
-y explicarnos el asombroso propsito para con los elegidos del amor que elige.
+y explicarnos el asombroso propósito para con los elegidos del amor que elige.
 
-Retrocedan, ustedes, hijos del Anticristo, con sus frentes de bronce! Cmo se
+ˇRetrocedan, ustedes, hijos del Anticristo, con sus frentes de bronce! żCómo se
 
 atreven a presentar al frente a una virgen, bendita entre las mujeres, y
 
-provocar que su nombre mismo sea manchado caracterizndola como nuestra
+provocar que su nombre mismo sea manchado caracterizándola como nuestra
 
-intercesora delante de Dios? Cmo se atreven a traer a sus santos y a sus
+intercesora delante de Dios? żCómo se atreven a traer a sus santos y a sus
 
-santas y hacer que medien entre Dios y los hombres? Porque hay un solo Dios, y
+santas y hacer que medien entre Dios y los hombres? “Porque hay un solo Dios, y
 
-un solo mediador entre Dios y los hombres, Jesucristo hombre. Los santos en el
+un solo mediador entre Dios y los hombres, Jesucristo hombre”. Los santos en el
 
-cielo cantan acerca de l, Digno eres; pero no saludan a nadie ms. No
+cielo cantan acerca de Él, “Digno eres”; pero no saludan a nadie más. No
 
-reservan ningn homenaje para ningn otro intercesor o mediador o intrprete o
+reservan ningún homenaje para ningún otro intercesor o mediador o intérprete o
 
-cumplidor de la gracia divina, pues no conocen a nadie ms. Le dan a l, y slo
+cumplidor de la gracia divina, pues no conocen a nadie más. Le dan a Él, y sólo
 
-a l, la honra de entrar al Rey a nombre de los hijos de los hombres y de tomar
+a Él, la honra de entrar al Rey a nombre de los hijos de los hombres y de tomar
 
 el libro en Su mano.
 
 Noten cuidadosamente a
 
-qu atribuyen esta dignidad: Digno eres de tomar el libro y de abrir sus
+qué atribuyen esta dignidad: “Digno eres de tomar el libro y de abrir sus
 
 sellos;
 
-porque t fuiste inmolado.
+porque tú fuiste inmolado”.
 
 Ahora,
 
-el caso est as. Dios nos ha dado innumerables bendiciones en el pacto de
+el caso está así. Dios nos ha dado innumerables bendiciones en el pacto de
 
-gracia, pero son otorgadas con una condicin. Hay dos partes en un pacto.
+gracia, pero son otorgadas con una condición. Hay dos partes en un pacto.
 
-Jesucristo es nuestro representante y cabeza del pacto, y la condicin que como
+Jesucristo es nuestro representante y cabeza del pacto, y la condición que como
 
-mediador tena que cumplir era esta: que en el tiempo debido l ofrecera a la
+mediador tenía que cumplir era esta: que en el tiempo debido Él ofrecería a la
 
-justicia divina una honorable enmienda por todos los daos a la honra de Dios
+justicia divina una honorable enmienda por todos los dańos a la honra de Dios
 
-por nuestros pecados. Como mediador, la dignidad de nuestro Seor no surgi
+por nuestros pecados. Como mediador, la dignidad de nuestro Seńor no surgió
 
-meramente de Su persona como Dios y hombre perfecto: esto lo haca apto para
+meramente de Su persona como Dios y hombre perfecto: esto lo hacía apto para
 
 asumir el oficio, pero su derecho a reclamar los privilegios escritos en
 
@@ -256,45 +256,45 @@ la Carta
 
 Magna
 
-que Dios sostena
+que Dios sostenía
 
-en Su mano, Su derecho a tomar posesin a nombre de Su pueblo de ese inventario
+en Su mano, Su derecho a tomar posesión a nombre de Su pueblo de ese inventario
 
-de siete sellos radica en esto, en que ha cumplido la condicin del pacto y por
+de siete sellos radica en esto, en que ha cumplido la condición del pacto y por
 
-esto ellos cantan: Digno eres porque t fuiste inmolado. No es: Digno eres
+esto ellos cantan: “Digno eres… porque tú fuiste inmolado”. No es: “Digno eres
 
-porque naciste en la tierra y viviste una vida santa, sino Fuiste inmolado;
+porque naciste en la tierra y viviste una vida santa”, sino “Fuiste inmolado”;
 
-pues l tena que presentar una recompensa a la justicia airada y a la santidad
+pues Él tenía que presentar una recompensa a la justicia airada y a la santidad
 
 lesionada, y eso lo hizo sobre el sangriento madero. Siempre que comenzamos a
 
-hablar acerca de esto, los creyentes en la moderna expiacin que no es ninguna
+hablar acerca de esto, los creyentes en la moderna expiación –que no es ninguna
 
-expiacin, sino un turbio retazo de un mundo imaginario, nos dicen: Oh, t
+expiación, sino un turbio retazo de un mundo imaginario, nos dicen: “Oh, tú
 
-sostienes la teora comercial, no es cierto? Ellos saben muy bien que
+sostienes la teoría comercial, żno es cierto?” Ellos saben muy bien que
 
-nosotros slo usamos, porque
+nosotros sólo usamos, porque
 
 la
 
 Biblia
 
-las usa, expresiones comerciales como metforas; pero
+las usa, expresiones comerciales como metáforas; pero
 
-yo me aventuro a decirles: Pueden muy bien aseverar que no hay nada comercial
+yo me aventuro a decirles: “Pueden muy bien aseverar que no hay nada comercial
 
 en su sistema, pues el valor comercial de un cuarto de penique falsificado
 
-sera un precio demasiado alto que pagar por la expiacin en la que
+sería un precio demasiado alto que pagar por la expiación en la que
 
-t
+tú
 
-crees. Yo creo en una expiacin en la
+crees. Yo creo en una expiación en la
 
-que Cristo tom literalmente el pecado de Su pueblo, y por ello soport la ira
+que Cristo tomó literalmente el pecado de Su pueblo, y por ello soportó la ira
 
 de Dios, dando a la justicia
 
@@ -302,31 +302,31 @@ quid por quo
 
 (algo a cambio de algo)
 
-por todo lo que se le deba, o un equivalente por
+por todo lo que se le debía, o un equivalente por
 
-ello, soportando, para que no tuviramos que soportarla nosotros, la ira que
+ello, soportando, para que no tuviéramos que soportarla nosotros, la ira que
 
-nosotros merecamos. Jess mismo realmente llev nuestros pecados en su cuerpo
+nosotros merecíamos. Jesús mismo realmente “llevó nuestros pecados en su cuerpo
 
-sobre el madero. Al que no conoci pecado, por nosotros lo hizo pecado, para
+sobre el madero”. “Al que no conoció pecado, por nosotros lo hizo pecado, para
 
-que nosotros fusemos hechos justicia de Dios en l; hubo una sustitucin
+que nosotros fuésemos hechos justicia de Dios en él”; hubo una sustitución
 
-literal, positiva, real del justo por los injustos, para llevarnos a Dios.
+literal, positiva, real del “justo por los injustos, para llevarnos a Dios”.
 
-Ninguna otra expiacin vale el aliento usado en su predicacin. No le dar ni
+Ninguna otra expiación vale el aliento usado en su predicación. No le dará ni
 
 consuelo a la conciencia ni gloria a Dios. Pero sobre esta roca nuestras almas
 
-pueden descansar sin miedo, y es debido a esto que cantan en el cielo: Digno
+pueden descansar sin miedo, y es debido a esto que cantan en el cielo: “Digno
 
-eres
+eres…
 
-porque t
+porque tú
 
 fuiste inmolado.
 
-T puedes reclamar nuestra absolucin: puedes
+Tú puedes reclamar nuestra absolución: puedes
 
 tomar
 
@@ -336,103 +336,103 @@ Magna
 
 de tus elegidos en tu mano, y desenrollar el pacto establecido con ellos en la
 
-antigedad. T puedes revelarnos las misericordias firmes a David, pues Tu
+antigüedad. Tú puedes revelarnos las misericordias firmes a David, pues Tu
 
 parte en el pacto ha sido cumplida; Tu muerte sustitutiva ha constituido a Tu
 
-pueblo heredero Contigo. De buena gana yo volara hacia all para unirme a su
+pueblo heredero Contigo”. De buena gana yo volaría hacia allá para unirme a su
 
-cntico, pero mientras tanto voy a balbucearlo como mejor pueda: Digno eres de
+cántico, pero mientras tanto voy a balbucearlo como mejor pueda: “Digno eres de
 
-tomar el libro y de abrir sus sellos; porque t fuiste inmolado.
+tomar el libro y de abrir sus sellos; porque tú fuiste inmolado”.
 
 II.
 
 En
 
-segundo lugar, en el cielo adoran al Seor como su REDENTOR. T fuiste inmolado,
+segundo lugar, en el cielo adoran al Seńor como su REDENTOR. “Tú fuiste inmolado,
 
 y con tu sangre nos has redimido
 
-para Dios.
+para Dios”.
 
-La metfora de la
+La metáfora de la
 
-redencin, si la entiendo, significa esto: una cosa que es redimida, en un
+redención, si la entiendo, significa esto: una cosa que es redimida, en un
 
-estricto sentido, perteneca de antemano a la persona que la redimi. Bajo la
+estricto sentido, pertenecía de antemano a la persona que la redimió. Bajo la
 
-ley juda las tierras eran hipotecadas como lo son ahora; y cuando el dinero
+ley judía las tierras eran hipotecadas como lo son ahora; y cuando el dinero
 
-prestado sobre ellas, o el servicio debido por ellas era pagado, se deca que
+prestado sobre ellas, o el servicio debido por ellas era pagado, se decía que
 
-la tierra era redimida. Una herencia perteneca primero a una persona, que
+la tierra era redimida. Una herencia pertenecía primero a una persona, que
 
-luego se desprenda de ella por la presin de la pobreza, pero si se pagaba un
+luego se desprendía de ella por la presión de la pobreza, pero si se pagaba un
 
-cierto precio, regresaba. Ahora, He aqu que todas las almas son mas dice el
+cierto precio, regresaba. Ahora, “He aquí que todas las almas son mías” dice el
 
-Seor, y las almas de los hombres pertenecen a Dios. Se usa la metfora, y,
+Seńor, y las almas de los hombres pertenecen a Dios. Se usa la metáfora, y,
 
-observen que estas expresiones son slo metforas; pero el sentido intrnseco
+observen que estas expresiones son sólo metáforas; pero el sentido intrínseco
 
-no es ninguna metfora, es un hecho. Nuestras almas fueron hipotecadas, por
+no es ninguna metáfora, es un hecho. Nuestras almas fueron hipotecadas, por
 
-decirlo as, debido al pecado cometido, de manera que Dios no poda aceptarnos
+decirlo así, debido al pecado cometido, de manera que Dios no podía aceptarnos
 
 sin violar Su justicia mientras no se hubiese hecho algo por lo cual Aquel que
 
-es infinitamente justo poda distribuir libremente Su gracia a nosotros. Ahora,
+es infinitamente justo podía distribuir libremente Su gracia a nosotros. Ahora,
 
-Jesucristo ha tomado la hipoteca de la herencia de Dios. La porcin de Jehov
+Jesucristo ha tomado la hipoteca de la herencia de Dios. “La porción de Jehová
 
-es su pueblo; esa porcin fue gravada hasta que Jess le dio la libertad.
+es su pueblo”; esa porción fue gravada hasta que Jesús le dio la libertad.
 
-Siempre fuimos de Dios pero habamos cado en esclavitud al pecado. Jess vino
+Siempre fuimos de Dios pero habíamos caído en esclavitud al pecado. Jesús vino
 
-para ofrecer una recompensa por nuestras ofensas, y as retornamos donde
+para ofrecer una recompensa por nuestras ofensas, y así retornamos donde
 
-estbamos antes, slo que con dones adicionales que Su gracia otorga. Dicen en
+estábamos antes, sólo que con dones adicionales que Su gracia otorga. Dicen en
 
-el cielo: Nos has redimido; y mencionan el precio:
+el cielo: “Nos has redimido”; y mencionan el precio: “
 
 Con tu sangre
 
-nos has redimido para Dios. All estaba el precio,
+nos has redimido para Dios”. Allí estaba el precio,
 
-los sufrimientos y la muerte de Jess han liberado a Su pueblo de la esclavitud
+los sufrimientos y la muerte de Jesús han liberado a Su pueblo de la esclavitud
 
-a la que haba sido llevado. Son redimidos y son redimidos
+a la que había sido llevado. Son redimidos y son redimidos
 
 para Dios.
 
 Ese es el punto: regresan a Dios como tierras que regresan
 
-al dueo cuando la hipoteca es saldada. Regresamos a Dios de nuevo, a quien
+al dueńo cuando la hipoteca es saldada. Regresamos a Dios de nuevo, a quien
 
-siempre pertenecimos, porque Jess nos ha redimido para Dios por Su sangre.
+siempre pertenecimos, porque Jesús nos ha redimido para Dios por Su sangre.
 
 Y noten por favor que la
 
-redencin con respecto a la cual cantan en el cielo no es una redencin
+redención con respecto a la cual cantan en el cielo no es una redención
 
-general. Es una redencin particular. Con tu sangre nos has redimido para
+general. Es una redención particular. “Con tu sangre nos has redimido para
 
-Dios, de todo linaje y lengua y pueblo y nacin. No hablan de la redencin de
+Dios, de todo linaje y lengua y pueblo y nación”. No hablan de la redención de
 
-cada lengua y pueblo y nacin, sino de una redencin
+cada lengua y pueblo y nación, sino de una redención
 
 que llega a
 
-toda lengua, y pueblo, y nacin. Yo le doy gracias a
+toda lengua, y pueblo, y nación. Yo le doy gracias a
 
 Dios porque no creo que fui redimido de la misma manera que Judas lo fue, y
 
-nada ms. Si as fuera, ira al infierno como lo hizo Judas. La redencin
+nada más. Si así fuera, iría al infierno como lo hizo Judas. La redención
 
-general no tiene ningn valor para nadie, pues por s misma no le garantiza a
+general no tiene ningún valor para nadie, pues por sí misma no le garantiza a
 
-nadie un lugar en el cielo: pero la redencin especial que efectivamente
+nadie un lugar en el cielo: pero la redención especial que efectivamente
 
 redime, y que redime a los hombres
 
@@ -440,99 +440,99 @@ de
 
 entre
 
-el resto de la humanidad, es la redencin que hay que pedir en
+el resto de la humanidad, es la redención que hay que pedir en
 
-oracin, y por la que alabaremos a Dios por los siglos de los siglos. Somos
+oración, y por la que alabaremos a Dios por los siglos de los siglos. Somos
 
-redimidos de entre los hombres. Cristo am a la iglesia, y se entreg a s
+redimidos de entre los hombres. “Cristo amó a la iglesia, y se entregó a sí
 
-mismo por ella. Es el Salvador de todos los hombres, mayormente de los que
+mismo por ella”. “Es el Salvador de todos los hombres, mayormente de los que
 
-creen. Hay una expiacin sacrificial amplia y de largo alcance que trae
+creen”. Hay una expiación sacrificial amplia y de largo alcance que trae
 
-indecibles bendiciones a toda la humanidad, pero mediante esa expiacin se pretenda
+indecibles bendiciones a toda la humanidad, pero mediante esa expiación se pretendía
 
-lograr un propsito divino especial que se cumplir, y ese objetivo es la
+lograr un propósito divino especial que se cumplirá, y ese objetivo es la
 
-redencin real de la servidumbre de sus pecados de Sus propios elegidos, siendo
+redención real de la servidumbre de sus pecados de Sus propios elegidos, siendo
 
-el precio la sangre de Jesucristo. Oh, hermanos, que tengamos una participacin
+el precio la sangre de Jesucristo. Oh, hermanos, que tengamos una participación
 
-en esta redencin eficaz y particular, pues slo esto puede llevarnos adonde
+en esta redención eficaz y particular, pues sólo esto puede llevarnos adonde
 
-cantan el cntico nuevo.
+cantan el cántico nuevo.
 
-Esta es una redencin
+Esta es una redención
 
-que se realiza personalmente. T
-
-nos
-
-has redimido para Dios. La redencin es dulce, pero T
+que se realiza personalmente. Tú
 
 nos
 
-has redimido es todava ms dulce. Si puedo creer que l me
+has redimido para Dios. La redención es dulce, pero “Tú
 
-am, y se entreg por m, eso sintonizar mi lengua para cantar las alabanzas
+nos
 
-de Jehov, pues qu dijo David? Alaben la misericordia de Jehov. l repiti
+has redimido” es todavía más dulce. Si puedo creer que Él me
+
+amó, y se entregó por mí, eso sintonizará mi lengua para cantar las alabanzas
+
+de Jehová, pues żqué dijo David? “Alaben la misericordia de Jehová”. Él repitió
 
 eso muchas veces, pero nunca se hubiera llevado a cabo a menos que dijera:
 
-Dganlo los redimidos de Jehov, los que ha redimido del poder del enemigo.
+“Díganlo los redimidos de Jehová, los que ha redimido del poder del enemigo”.
 
-En vano llam a otros pues sus lenguas estaban dedicadas a sus placeres; pero
+En vano llamó a otros pues sus lenguas estaban dedicadas a sus placeres; pero
 
-los redimidos por el Seor son un coro apropiado para engrandecer Su nombre.
+los redimidos por el Seńor son un coro apropiado para engrandecer Su nombre.
 
 La esencia de lo que
 
-tengo que decir es esto: en el cielo alaban a Jesucristo porque los redimi. Mi
+tengo que decir es esto: en el cielo alaban a Jesucristo porque los redimió. Mi
 
-querido oyente, te ha redimido l? Oh, dice alguien, yo creo que l ha
+querido oyente, żte ha redimido Él? Oh, dice alguien, yo creo que Él ha
 
-redimido a todo el mundo. Pero, de qu sirve eso? No se hunde en la perdicin
+redimido a todo el mundo. Pero, żde qué sirve eso? żNo se hunde en la perdición
 
-la gran masa de la humanidad? Si confas en una redencin as, confas en algo
+la gran masa de la humanidad? Si confías en una redención así, confías en algo
 
-que no te salvar. l redimi a Sus propios elegidos o, en otras palabras, redimi
+que no te salvará. Él redimió a Sus propios elegidos o, en otras palabras, redimió
 
-a los creyentes. De tal manera am Dios al mundo es un texto muy citado, pero
+a los creyentes. “De tal manera amó Dios al mundo” es un texto muy citado, pero
 
-les ruego que prosigan con l. Cunto am al mundo? Que ha dado a su Hijo
+les ruego que prosigan con él. żCuánto amó al mundo? “Que ha dado a su Hijo
 
-unignito,
+unigénito,
 
 para que todo aquel que
 
-en l cree,
+en él cree,
 
-no se pierda. All est la
+no se pierda. Allí está la
 
-especialidad de todo ello: Todo aquel que en l cree; y si no creen en l,
+especialidad de todo ello: “Todo aquel que en él cree”; y si no creen en Él,
 
-tampoco tienen parte ni porcin en Su redencin; son esclavos del pecado y de
+tampoco tienen parte ni porción en Su redención; son esclavos del pecado y de
 
-Satans, y as vivirn y as morirn: pero creyendo en el Seor Jess tienes las
+Satanás, y así vivirán y así morirán: pero creyendo en el Seńor Jesús tienes las
 
-seales de ser especial y eficazmente redimido por l, y cuando llegues al
+seńales de ser especial y eficazmente redimido por Él, y cuando llegues al
 
-cielo este ser tu cntico: Con tu sangre nos has redimido para Dios, de todo
+cielo este será tu cántico: “Con tu sangre nos has redimido para Dios, de todo
 
-linaje y lengua y pueblo y nacin. Bendito sea Dios por ello. Algunos de cada
+linaje y lengua y pueblo y nación”. Bendito sea Dios por ello. Algunos de cada
 
-clase son salvados, algunos de cada color, rango, nacin y edad son salvados;
+clase son salvados, algunos de cada color, rango, nación y edad son salvados;
 
-algunos de todas las condiciones de educacin moral, algunos de los ms pobres,
+algunos de todas las condiciones de educación moral, algunos de los más pobres,
 
-y algunos de los ms ricos son redimidos: de manera que cuando todos nos reunamos
+y algunos de los más ricos son redimidos: de manera que cuando todos nos reunamos
 
 en el cielo, aunque constituyamos una abigarrada multitud en la tierra,
 
 constituiremos un coro unido, teniendo todas nuestras voces sintonizadas en
 
-esta nota nica: El Cordero que fue inmolado es digno.
+esta nota única: “El Cordero que fue inmolado es digno”.
 
 III.
 
@@ -542,45 +542,45 @@ tercer lugar, y brevemente, en el cielo alaban a Cristo, no meramente como
 
 mediador y como redentor, sino como EL OTORGANTE DE SUS DIGNIDADES. Ellos son
 
-reyes y reinan. Nosotros tambin somos reyes; pero todava no somos conocidos o
+reyes y reinan. Nosotros también somos reyes; pero todavía no somos conocidos o
 
 reconocidos, y con frecuencia nosotros mismos olvidamos nuestro excelso linaje.
 
-All arriba ellos son
+Allá arriba ellos son
 
 monarcas coronados, pero dicen:
 
-Nos has
+“Nos has
 
-hecho
+hecho…
 
-reyes. Son sacerdotes tambin, como nosotros lo somos ahora, cada
+reyes”. Son sacerdotes también, como nosotros lo somos ahora, cada
 
 uno de nosotros. Cuando un sujeto pasa al frente con todo tipo de curiosas
 
-vestimentas y dice que es un sacerdote, el hijo de Dios ms pobre puede decir:
+vestimentas y dice que es un sacerdote, el hijo de Dios más pobre puede decir:
 
-Aljate, y no interfieras con mi oficio: yo soy un sacerdote; yo no s qu
+“Aléjate, y no interfieras con mi oficio: yo soy un sacerdote; yo no sé qué
 
-seas t. Seguramente tienes que ser un sacerdote de Baal, pues la nica mencin
+seas tú. Seguramente tienes que ser un sacerdote de Baal, pues la única mención
 
-de la palabra vestimentas en
+de la palabra ‘vestimentas’ en
 
 la
 
 Escritura
 
-es en conexin con el templo de Baal. El
+es en conexión con el templo de Baal”. El
 
 sacerdocio pertenece a todos los santos. Algunas veces se refieren a ti como
 
-laicado, pero el Espritu Santo dice de todos los santos: Ustedes son
+laicado, pero el Espíritu Santo dice de todos los santos: “Ustedes son
 
 cleros
 
-de Dios, ustedes son el clero de
+de Dios”, ustedes son el clero de
 
-Dios. Cada hijo de Dios es un clrigo, varn o mujer. No hay distinciones
+Dios. Cada hijo de Dios es un clérigo, varón o mujer. No hay distinciones
 
 sacerdotales conocidas en
 
@@ -588,111 +588,111 @@ la
 
 Escritura.
 
-Fuera con ellas! Fuera con ellas para siempre!
+ˇFuera con ellas! ˇFuera con ellas para siempre!
 
-El Libro de Oracin dice: Entonces dir el
+El Libro de Oración dice: “Entonces dirá el
 
-sacerdote.
+sacerdote”.
 
-Qu lstima que hayan dejado all esa palabra. La propia palabra
+Qué lástima que hayan dejado allí esa palabra. La propia palabra
 
-sacerdote contiene tal olor de sulfuro de Roma, que mientras dure
+“sacerdote” contiene tal olor de sulfuro de Roma, que mientras dure
 
 la Iglesia
 
 de Inglaterra
 
-expedir un mal olor. Llmate t mismo un sacerdote, amigo! Me pregunto por
+expedirá un mal olor. ˇLlámate tú mismo un sacerdote, amigo! Me pregunto por
 
-qu los hombres no se avergenzan de tomar el ttulo: cuando recuerdo lo que
+qué los hombres no se avergüenzan de tomar el título: cuando recuerdo lo que
 
-los sacerdotes han hecho en todas las pocas, lo que los sacerdotes conectados
+los sacerdotes han hecho en todas las épocas, lo que los sacerdotes conectados
 
 con la iglesia de Roma han hecho, repito lo que he dicho a menudo: yo
 
-preferira que un hombre me sealara en la calle y me llamara un demonio a que
+preferiría que un hombre me seńalara en la calle y me llamara un demonio a que
 
-me llamara un sacerdote; pues malo como ha sido el diablo, difcilmente ha sido
+me llamara un sacerdote; pues malo como ha sido el diablo, difícilmente ha sido
 
-capaz de igualar los crmenes, crueldades y villanas que han sido realizadas
+capaz de igualar los crímenes, crueldades y villanías que han sido realizadas
 
 bajo el resguardo de un sacerdocio especial. Que seamos liberados de eso: pero
 
 el sacerdocio de los santos de Dios, el sacerdocio de santidad que ofrece
 
-oracin y alabanza a Dios, ese lo tienen en el cielo aunque dicen al respecto:
+oración y alabanza a Dios, ese lo tienen en el cielo aunque dicen al respecto:
 
-Nos has hecho sacerdotes.
+“Nos has hecho… sacerdotes”.
 
 Lo que son
 
-los santos, y lo que han de ser, lo atribuyen a Jess. No tienen ninguna gloria
+los santos, y lo que han de ser, lo atribuyen a Jesús. No tienen ninguna gloria
 
-sino la que han recibido de l, y ellos lo saben y lo confiesan perpetuamente.
+sino la que han recibido de Él, y ellos lo saben y lo confiesan perpetuamente.
 
 Que nuestros corazones
 
-canten con los redimidos: Todo para Jess, pues todo es de Jess! Todo para
+canten con los redimidos: “ˇTodo para Jesús, pues todo es de Jesús! Todo para
 
-Jess, pues Jess nos ha dado todo lo que tenemos. Comencemos aqu con esa
+Jesús, pues Jesús nos ha dado todo lo que tenemos”. Comencemos aquí con esa
 
-msica.
+música.
 
 IV.
 
-Adems,
+Además,
 
-los que estn en el cielo adoran al Salvador como DIVINO. No estoy forzando las
+los que están en el cielo adoran al Salvador como DIVINO. No estoy forzando las
 
 palabras de mi texto del todo, sino que conservo el pasaje entero delante de
 
-m. Si leen los dos captulos encontrarn que si bien cantan a Dios, Seor,
+mí. Si leen los dos capítulos encontrarán que si bien cantan a Dios, “Seńor,
 
-digno eres de recibir la gloria y la honra y el poder, le cantan al Cordero,
+digno eres de recibir la gloria y la honra y el poder”, le cantan al Cordero,
 
-el Cordero que fue inmolado es digno de tomar el poder, las riquezas, la
+“el Cordero que fue inmolado es digno de tomar el poder, las riquezas, la
 
-sabidura. Las atribuciones que son hechas al Creador son ofrecidas tambin al
+sabiduría”. Las atribuciones que son hechas al Creador son ofrecidas también al
 
 Cordero, y es representado como sentado en el mismo trono. Observen
 
-cuidadosamente que l no resiente la adoracin que le brindan. Cuando Juan se
+cuidadosamente que Él no resiente la adoración que le brindan. Cuando Juan se
 
-postr para adorar a uno de los ngeles recibi una sincera protesta: Mira, no
+postró para adorar a uno de los ángeles recibió una sincera protesta: “Mira, no
 
-lo hagas. Ahora bien, si la adoracin dada a Cristo hubiera estado mal, el
+lo hagas”. Ahora bien, si la adoración dada a Cristo hubiera estado mal, el
 
-tres veces santo Salvador habra exclamado muy enfticamente: Mira, no lo
+tres veces santo Salvador habría exclamado muy enfáticamente: “Mira, no lo
 
-hagas; pero l no intima ninguna objecin para la adoracin, aunque es
+hagas”; pero Él no intima ninguna objeción para la adoración, aunque es
 
 ofrecida libremente por todos los seres inteligentes delante del trono. Ten la
 
-seguridad, mi querido oyente, que no irs nunca al cielo a menos que ests preparado
+seguridad, mi querido oyente, que no irás nunca al cielo a menos que estés preparado
 
-para adorar a Jesucristo como Dios. Todos lo estn haciendo all: tendrs que
+para adorar a Jesucristo como Dios. Todos lo están haciendo allá: tendrás que
 
-llegar a eso, y si acaricias la idea de que l es un mero hombre o cualquier
+llegar a eso, y si acaricias la idea de que Él es un mero hombre o cualquier
 
-cosa menos que Dios, me temo que tendrs que comenzar por el principio y
+cosa menos que Dios, me temo que tendrás que comenzar por el principio y
 
-aprender lo que la verdadera religin significa. Tienes un pobre cimiento en el
+aprender lo que la verdadera religión significa. Tienes un pobre cimiento en el
 
-cual confiar. Yo no podra confiar mi alma a un simple hombre, o creer en una expiacin
+cual confiar. Yo no podría confiar mi alma a un simple hombre, o creer en una expiación
 
 realizada por un simple hombre: tengo que ver a Dios mismo poniendo Su mano en
 
-una obra tan gigantesca. No puedo imaginar que un simple hombre sea alabado as
+una obra tan gigantesca. No puedo imaginar que un simple hombre sea alabado así
 
-como el Cordero es alabado. Jess es Dios sobre todas las cosas, bendito por
+como el Cordero es alabado. Jesús es “Dios sobre todas las cosas, bendito por
 
-los siglos. Cuando llegamos a hablar severamente de los socinianos y
+los siglos”. Cuando llegamos a hablar severamente de los socinianos y
 
-unitarianos no deben sorprenderse por ello porque si tenemos la razn ellos son
+unitarianos no deben sorprenderse por ello porque si tenemos la razón ellos son
 
-blasfemos, y si ellos tienen la razn nosotros somos idlatras, y no hay opcin
+blasfemos, y si ellos tienen la razón nosotros somos idólatras, y no hay opción
 
-intermedia entre los dos. No podramos estar de acuerdo nunca, y nunca lo
+intermedia entre los dos. No podríamos estar de acuerdo nunca, y nunca lo
 
 estaremos mientras el mundo permanezca. Nosotros predicamos a Cristo, el Hijo
 
@@ -700,21 +700,21 @@ de Dios, como Dios verdadero de Dios verdadero, y si lo rechazan no nos
 
 corresponde pretender que no hay ninguna diferencia cuando de hecho constituye
 
-toda la diferencia en el mundo. No desearamos que dijeran ms de lo que creen
+toda la diferencia en el mundo. No desearíamos que dijeran más de lo que creen
 
 que es la verdad, y ellos no deben esperar que digamos menos de lo que creemos
 
-que es cierto. Si Jess es Dios, tienen que creerlo y tienen que adorarlo como
+que es cierto. Si Jesús es Dios, tienen que creerlo y tienen que adorarlo como
 
-tal, o de lo contrario no pueden participar en la salvacin que l ha provisto.
+tal, o de lo contrario no pueden participar en la salvación que Él ha provisto.
 
-Yo amo la deidad de Cristo! Yo predico Su humanidad con todo mi poder, y me
+ˇYo amo la deidad de Cristo! Yo predico Su humanidad con todo mi poder, y me
 
-gozo porque l es el hijo del hombre; pero, oh, tiene que ser el Hijo de Dios
+gozo porque Él es el hijo del hombre; pero, oh, tiene que ser el Hijo de Dios
 
-tambin, o no habra paz para m.
+también, o no habría paz para mí.
 
-Mientras no vea a Dios en carne humana,
+“Mientras no vea a Dios en carne humana,
 
 Mis pensamientos no encuentran consuelo.
 
@@ -728,29 +728,29 @@ Mi esperanza, mi gozo comienza:
 
 Su nombre proscribe mi temor servil;
 
-Su gracia quita mis pecados.
+Su gracia quita mis pecados”.
 
 Ahora casi he concluido,
 
-slo que esto, ms que una conclusin, es el resultado del tema. Ustedes ven la
+sólo que esto, más que una conclusión, es el resultado del tema. Ustedes ven la
 
-opinin que tienen de Jess en el cielo. Mis queridos amigos, opinan lo mismo?
+opinión que tienen de Jesús en el cielo. Mis queridos amigos, żopinan lo mismo?
 
-Nunca irn all a menos que opinen lo mismo. No hay denominaciones en el cielo:
+Nunca irán allá a menos que opinen lo mismo. No hay denominaciones en el cielo:
 
-no hay dos partidos. All tienen los mismos puntos de vista acerca de Jess. Permtanme
+no hay dos partidos. Allá tienen los mismos puntos de vista acerca de Jesús. Permítanme
 
-preguntarles, entonces, tienen la misma persuasin que los santos
+preguntarles, entonces, żtienen la misma persuasión que los santos
 
-glorificados? Ellos alaban a Jess
+glorificados? Ellos alaban a Jesús
 
 por lo
 
 que ha hecho.
 
-Es muy asombroso para mi mente que cuando estn adorando al
+Es muy asombroso para mi mente que cuando están adorando al
 
-Salvador parecieran tocar esa nica nota: le alaban por lo que ha hecho, y le
+Salvador parecieran tocar esa única nota: le alaban por lo que ha hecho, y le
 
 alaban por lo que ha hecho
 
@@ -758,45 +758,45 @@ por ellos.
 
 Pudieran
 
-haberle alabado por lo que es, pero en el texto no lo hacen. Ahora, esta razn
+haberle alabado por lo que es, pero en el texto no lo hacen. Ahora, esta razón
 
-que tiene tanta influencia en el cielo es la mismsima que nos mueve aqu:
+que tiene tanta influencia en el cielo es la mismísima que nos mueve aquí:
 
-Nosotros le amamos a l, porque l nos am primero, y como si fuera para
+“Nosotros le amamos a él, porque él nos amó primero”, y como si fuera para
 
 mostrar que este tipo de amor no es un amor inferior, el amor de gratitud
 
-pareciera ser la propia suma y sustancia del amor del cielo: T fuiste
+pareciera ser la propia suma y sustancia del amor del cielo: “Tú fuiste
 
-inmolado, y con tu sangre nos has redimido. Puedes alabarle por redimirte?
+inmolado, y con tu sangre nos has redimido”. żPuedes alabarle por redimirte?
 
-Querido oyente, t has odo acerca de Jess cientos de veces.
+Querido oyente, tú has oído acerca de Jesús cientos de veces.
 
-Te
+żTe
 
-ha salvado? T sabes que hay una
+ha salvado? Tú sabes que hay una
 
-fuente llena de sangre que limpia de todo pecado; te ha limpiado? T sabes que
+fuente llena de sangre que limpia de todo pecado; żte ha limpiado? Tú sabes que
 
-l ha tejido un manto de justicia que cubre a Su pueblo de la cabeza a los
+Él ha tejido un manto de justicia que cubre a Su pueblo de la cabeza a los
 
-pies: te ha cubierto con l? Nunca le alabars mientras ese no sea el caso, y
+pies: żte ha cubierto con él? Nunca le alabarás mientras ese no sea el caso, y
 
-no puedes ir al cielo hasta que ests listo para alabarle. Bien, pero yo voy a
+no puedes ir al cielo hasta que estés listo para alabarle. “Bien, pero yo voy a
 
-mi lugar de adoracin. Puedes hacer eso pero eso no te salvar mientras no te
+mi lugar de adoración”. Puedes hacer eso pero eso no te salvará mientras no te
 
-sujetes personalmente a Cristo por ti mismo. Mi madre y mi padre eran personas
+sujetes personalmente a Cristo por ti mismo. “Mi madre y mi padre eran personas
 
-piadosas. Me alegra que lo fueran: yo espero que no tengan un hijo impo. Sin
+piadosas”. Me alegra que lo fueran: yo espero que no tengan un hijo impío. Sin
 
-embargo, t tienes que tener una religin personal, algo que Jesucristo hizo
+embargo, tú tienes que tener una religión personal, algo que Jesucristo hizo
 
 por ti.
 
-Joven mujer que ests por all,
+Joven mujer que estás por allá,
 
-te
+żte
 
 ha redimido Jesucristo de entre la
 
@@ -804,145 +804,145 @@ masa del pueblo;
 
 te
 
-sac de tus
+sacó de tus
 
 pecados y
 
 te
 
-separ para l? Ha sido
+separó para Él? żHa sido
 
 aplicada a tu alma la sangre, la sangre preciosa rociada que habla paz en la
 
-conciencia? El tiempo vuela y ustedes han sido oyentes un mes tras otro; ser
+conciencia? El tiempo vuela y ustedes han sido oyentes un mes tras otro; żserá
 
-siempre as? No clamarn nunca a Dios: Seor, hazme conocer Tu redencin; haz
+siempre así? żNo clamarán nunca a Dios: “Seńor, hazme conocer Tu redención; haz
 
-que tenga una porcin en la sangre preciosa: permite que sea lavado de mis
+que tenga una porción en la sangre preciosa: permite que sea lavado de mis
 
-pecados? Recuerda que tienes que ser capaz de alabarle por lo que ha hecho
+pecados”? Recuerda que tienes que ser capaz de alabarle por lo que ha hecho
 
 por ti,
 
 o de lo contrario no tienes la
 
-misma opinin de aquellos en el cielo, y al cielo no puedes entrar.
+misma opinión de aquellos en el cielo, y al cielo no puedes entrar.
 
 Queda claro, por el
 
-cntico que he estado leyendo, que en el cielo Cristo es
+cántico que he estado leyendo, que en el cielo Cristo es
 
 todos
 
-y todo. Es Cristo as para ti? Es una solemne pregunta que se hace a las
+y todo. żEs Cristo así para ti? Es una solemne pregunta que se hace a las
 
-personas. Es Cristo lo primero y lo ltimo y el centro contigo, lo de arriba y
+personas. żEs Cristo lo primero y lo último y el centro contigo, lo de arriba y
 
-lo de abajo, el cimiento y el pinculo, todo en todo? No conoce a Cristo quien
+lo de abajo, el cimiento y el pináculo, todo en todo? No conoce a Cristo quien
 
-no sepa que Cristo es todo. Cristo y compaa no funcionar nunca. Cristo es el
+no sepa que Cristo es todo. Cristo y compańía no funcionará nunca. Cristo es el
 
-nico Salvador, la nica confianza, el nico profeta, sacerdote y rey para
+único Salvador, la única confianza, el único profeta, sacerdote y rey para
 
-todos los que lo aceptan. Es l todo para ti? Ah, hay algunos que piensan que
+todos los que lo aceptan. żEs Él todo para ti? Ah, hay algunos que piensan que
 
-aman a Cristo; piensan que confan en Cristo; pero si furamos a visitar su
+aman a Cristo; piensan que confían en Cristo; pero si fuéramos a visitar su
 
-casa l tendra un asiento en el extremo lejano de la mesa si le trataran como
+casa Él tendría un asiento en el extremo lejano de la mesa si le trataran como
 
-le tratan ahora. Le dan una parte del da domingo: estuvieron holgazaneando
+le tratan ahora. Le dan una parte del día domingo: estuvieron holgazaneando
 
-toda la maana; slo fueron capaces de venir aqu esta noche, y aun ahora no
+toda la mańana; sólo fueron capaces de venir aquí esta noche, y aun ahora no
 
-han venido para adorar, sino slo por curiosidad. Un captulo en
+han venido para adorar, sino sólo por curiosidad. Un capítulo en
 
 la Biblia
 
--qu tan largo es,
+-żqué tan largo es,
 
-joven amigo, puesto que leste uno? Oracin privada ah, no debo meterme con
+joven amigo, puesto que leíste uno? Oración privada –ah, no debo meterme con
 
-eso; es una historia tan triste la que tendras que decir. Si alguien te
+eso; es una historia tan triste la que tendrías que decir. Si alguien te
 
-dijera: t no eres cristiano, te ofenderas. Bien, te lo dir y puedes
+dijera: “tú no eres cristiano”, te ofenderías. Bien, te lo diré y puedes
 
-ofenderte si quieres, pero recuerda que deberas sentirte ofendido contigo
+ofenderte si quieres, pero recuerda que deberías sentirte ofendido contigo
 
-mismo ms bien que conmigo. Si t ofendes a mi Seor no tengo miedo del todo de
+mismo más bien que conmigo. Si tú ofendes a mi Seńor no tengo miedo del todo de
 
 que te sientas ofendido con Su siervo, y por tanto te digo que si Cristo fuera
 
-cualquier cosa que no sea Rey y Seor en tu alma, Cristo y t estn muy alejados.
+cualquier cosa que no sea Rey y Seńor en tu alma, Cristo y tú están muy alejados.
 
-l tiene que estar en primera fila, el seor Almirante en los mares y
+Él tiene que estar en primera fila, el seńor Almirante en los mares y
 
-Comandante en Jefe en la tierra. l no va a ser un oficial de bajo rango que
+Comandante en Jefe en la tierra. Él no va a ser un oficial de bajo rango que
 
 entra en momentos especiales para ser tu lacayo. Tienes que tomarlo para que
 
-sea Cabeza, Seor y Maestro. Sucede as contigo? Si no fuera as, difieres de
+sea Cabeza, Seńor y Maestro. żSucede así contigo? Si no fuera así, difieres de
 
-aquellos en el cielo, pues l es todo en todo para ellos.
+aquellos en el cielo, pues Él es todo en todo para ellos.
 
-Adems, puedes unirte a
+Además, żpuedes unirte a
 
-palabras de nuestro texto y decir: Digno es l, digno es l? Yo espero que
+palabras de nuestro texto y decir: “Digno es Él, digno es Él”? Yo espero que
 
-haya muchos aqu que si oyeran por un momento ese pleno estallido de canto: l
+haya muchos aquí que si oyeran por un momento ese pleno estallido de canto: “Él
 
-es digno, se uniran de todo corazn, y diran: S, l
+es digno”, se unirían de todo corazón, y dirían: “Sí, Él
 
 es
 
-digno. Esta noche, cuando estaba orando, me pareca como si
+digno”. Esta noche, cuando estaba orando, me parecía como si
 
-pudiera orlos cantar, l es digno, y difcilmente poda contenerme de gritar:
+pudiera oírlos cantar, “Él es digno”, y difícilmente podía contenerme de gritar:
 
-hacen bien en cantar as, ustedes, espritus que estn delante del trono! Si
+“ˇhacen bien en cantar así, ustedes, espíritus que están delante del trono! Si
 
-furamos a perder nuestro silencio por un instante, y a romper el decoro que
+fuéramos a perder nuestro silencio por un instante, y a romper el decoro que
 
-hemos observado a lo largo del sermn, y con un grito unnime exclamramos:
+hemos observado a lo largo del sermón, y con un grito unánime exclamáramos:
 
-S, l es digno, pienso que sera algo apropiado de hacer. Jess es digno de
+“Sí, Él es digno”, pienso que sería algo apropiado de hacer. Jesús es digno de
 
-mi vida, digno de mi amor, digno de todo lo que pueda decir de l, digno de mil
+mi vida, digno de mi amor, digno de todo lo que pueda decir de Él, digno de mil
 
-veces ms que eso, digno de toda la msica y las arpas en la tierra, digno de
+veces más que eso, digno de toda la música y las arpas en la tierra, digno de
 
-todos los cantos de los cantores ms dulces, digno de toda la poesa de los
+todos los cantos de los cantores más dulces, digno de toda la poesía de los
 
-mejores escritores, digno de toda la adoracin de toda rodilla, digno de todo
+mejores escritores, digno de toda la adoración de toda rodilla, digno de todo
 
 lo que todo hombre tenga o pueda concebir, o pueda abarcar, digno de ser
 
-adorado por todos los que estn en la tierra y bajo la tierra, y en el mar, y
+adorado por todos los que están en la tierra y bajo la tierra, y en el mar, y
 
-en los cielos, y en el cielo de los cielos. l es digno. Decimos: digno,
+en los cielos, y en el cielo de los cielos. Él es digno. Decimos: “digno”,
 
-porque no podramos decir cun digno. Creo que estos buenos cantores en el
+porque no podríamos decir cuán digno. Creo que estos buenos cantores en el
 
 cielo deseaban darle al Cordero lo que le corresponde, y luego hicieron una
 
-pausa, y se dijeron: No podemos darle la alabanza que merece, pero sabemos que
+pausa, y se dijeron: “No podemos darle la alabanza que merece, pero sabemos que
 
 es digno. No podemos pretender darle aquello de lo que es digno, pero diremos
 
-que es digno. S, l
+que es digno”. Sí, Él
 
 es
 
 digno. Si yo
 
-tuviera cincuenta mil vidas en este pobre cuerpo, l es digno de que todas
+tuviera cincuenta mil vidas en este pobre cuerpo, Él es digno de que todas
 
-fueran derramadas, una tras otra, en el martirio. Una debera ser quemada viva,
+fueran derramadas, una tras otra, en el martirio. Una debería ser quemada viva,
 
-y otra debera ser quebrantada en el potro de tortura, y otra debera morir de
+y otra debería ser quebrantada en el potro de tortura, y otra debería morir de
 
-hambre por pulgadas, y otra debera ser arrastrada junto a los talones de un
+hambre por pulgadas, y otra debería ser arrastrada junto a los talones de un
 
-caballo salvaje, y l las merecera todas. l es digno, y si tuvisemos todas
+caballo salvaje, y Él las merecería todas. Él es digno, y si tuviésemos todas
 
 las minas de
 
@@ -950,23 +950,27 @@ la India
 
 :
 
-plata y oro y joyas, los ms raros tesoros de todos los reyes que hayan vivido
+plata y oro y joyas, los más raros tesoros de todos los reyes que hayan vivido
 
-jams, si renunciramos a todo por l, y anduviramos descalzos, l es digno. Y
+jamás, si renunciáramos a todo por Él, y anduviéramos descalzos, Él es digno. Y
 
-si, despus de haber hecho eso, furamos a permanecer da y noche en un trabajo
+si, después de haber hecho eso, fuéramos a permanecer día y noche en un trabajo
 
 perpetuo sin descanso, todo por Su causa, y si cada uno de nosotros fuera
 
-multiplicado en un milln, y todos nosotros trabajramos as, l es digno.
+multiplicado en un millón, y todos nosotros trabajáramos así, Él es digno.
 
-Digno. Yo hara que cada gota de roco destellara con Su alabanza, y cada hoja
+Digno. Yo haría que cada gota de rocío destellara con Su alabanza, y cada hoja
 
-en el bosque llevara Su nombre. Yo hara que cada valle y cada monte resonaran
+en el bosque llevara Su nombre. Yo haría que cada valle y cada monte resonaran
 
-con la adoracin, y ensearan a las estrellas, y ensearan a los ngeles Su
+con la adoración, y enseńaran a las estrellas, y enseńaran a los ángeles Su
 
 alabanza sobre las estrellas.
+
+“
+
+ˇ
 
 Oh que tuviera mil lenguas para cantar
 
@@ -974,31 +978,33 @@ La alabanza de mi grandioso Redentor
 
 !
 
+”
+
 Que el tiempo y el
 
 espacio se convirtieran en una boca para el canto, y toda la eternidad hiciera
 
-resonar esas poderosas palabras: l es digno. Sientes t que l es digno? Si
+resonar esas poderosas palabras: “Él es digno”. żSientes tú que Él es digno? Si
 
-no lo sientes, no puedes ser admitido all donde cantan ese cntico, pues si
+no lo sientes, no puedes ser admitido allá donde cantan ese cántico, pues si
 
-pudieras entrar all seras infeliz. Nunca esperes entrar all hasta que tu
+pudieras entrar allí serías infeliz. Nunca esperes entrar allí hasta que tu
 
-alma pueda decir: He confiado en Su sangre, soy por ella redimido para Dios, y
+alma pueda decir: “He confiado en Su sangre, soy por ella redimido para Dios, y
 
 el Redentor es digno; y voy a dar testimonio de Su dignidad hasta que el tiempo
 
-llegue a su fin.
+llegue a su fin”.
 
 Que Dios los bendiga a
 
-todos, por causa de Jess. Amn.
+todos, por causa de Jesús. Amén.
 
-Porcin de
+Porción de
 
 la Escritura
 
-leda antes del sermn: Apocalipsis 4:
+leída antes del sermón: Apocalipsis 4:
 
 5.
 

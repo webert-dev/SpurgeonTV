@@ -1,14 +1,14 @@
 # Sermón 2900 | Sermón 2900
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
-Cmo Dios Viene
+Cómo Dios Viene
 
 al Hombre
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
 LA
 
@@ -18,101 +18,101 @@ DEL
 
 JUEVES 13 DE JULIO DE 1876
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
 Y PUBLICADO EL JUEVES 8 DE SEPTIEMBRE DE 1904.
 
-Y oyeron la
+“Y oyeron la
 
-voz de Jehov Dios que se paseaba en el huerto, al aire del da; y el hombre y
+voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y
 
 su mujer se escondieron de la
 
 presencia
 
-de Jehov Dios entre los rboles del huerto. Mas Jehov Dios llam al hombre, y
+de Jehová Dios entre los árboles del huerto. Mas Jehová Dios llamó al hombre, y
 
-le dijo: Dnde ests t? Gnesis 3: 8, 9.
+le dijo: żDónde estás tú?” Génesis 3: 8, 9.
 
-Cmo vendr Dios a
+“żCómo vendrá Dios a
 
-nosotros ahora que nos hemos rebelado contra l? Esa es una pregunta que debe
+nosotros ahora que nos hemos rebelado contra Él?” Esa es una pregunta que debe
 
 de haber dejado grandemente perplejos a nuestros primeros padres, y se pudieran
 
 haber dicho el
 
-uno al otro: Tal vez
+uno al otro: “Tal vez
 
-Dios no vendr a nosotros del todo y entonces seremos en verdad hurfanos. Si
+Dios no vendrá a nosotros del todo y entonces seremos en verdad huérfanos. Si
 
 se nos permitiera continuar viviendo, tenemos que continuar viviendo sin Dios y
 
-sin esperanza en el mundo. Habra sido la peor cosa que le pudiera haber
+sin esperanza en el mundo”. Habría sido la peor cosa que le pudiera haber
 
 pasado a nuestra raza si Dios hubiera dejado que este planeta siguiera su
 
-propio curso y hubiese dicho respecto al pueblo en l, Los dej, por tanto, a
+propio curso y hubiese dicho respecto al pueblo en él, “Los dejé, por tanto, a
 
-la dureza de su corazn, pues son dados a dolos.
+la dureza de su corazón, pues son dados a ídolos”.
 
-Pero si l vino a
+Pero si Él vino a
 
-nuestros primeros padres, cmo vendra? Seguramente, Adn y Eva deben de haber
+nuestros primeros padres, żcómo vendría? Seguramente, Adán y Eva deben de haber
 
-tenido miedo de que estuviera acompaado por los ngeles de la venganza para
+tenido miedo de que estuviera acompańado por los ángeles de la venganza para
 
 destruirlos de inmediato, o, de cualquier manera, para atarlos con cadenas y
 
-grilletes para siempre. As que se preguntaban entre ellos mismos: Vendr; y
+grilletes para siempre. Así que se preguntaban entre ellos mismos: “żVendrá; y
 
-si viene, implicar su venida la total destruccin de la raza humana? Sus
+si viene, implicará su venida la total destrucción de la raza humana?” Sus
 
 corazones deben de haber estado grandemente perplejos en su interior mientras
 
-esperaban para ver lo que Dios hara como un castigo por el gran pecado que
+esperaban para ver lo que Dios haría como un castigo por el gran pecado que
 
-haban cometido. Yo creo que ellos pensaron que l vendra a ellos. De su
+habían cometido. Yo creo que ellos pensaron que Él vendría a ellos. De su
 
-experiencia pasada conocan tanto de Su longanimidad que se sentan seguros de
+experiencia pasada conocían tanto de Su longanimidad que se sentían seguros de
 
-que vendra; sin embargo, entendan tambin tanto de Su santo furor contra el
+que vendría; sin embargo, entendían también tanto de Su santo furor contra el
 
-pecado que deben de haber tenido miedo de Su venida; as que fueron y se
+pecado que deben de haber tenido miedo de Su venida; así que fueron y se
 
-ocultaron entre los rboles del huerto, aunque cada rbol debe de haberlos
+ocultaron entre los árboles del huerto, aunque cada árbol debe de haberlos
 
-reprendido por su desobediencia, pues cada uno de los rboles pareca decirles:
+reprendido por su desobediencia, pues cada uno de los árboles parecía decirles:
 
-Por qu vienen aqu? Han comido del fruto del rbol que se les haba
+“żPor qué vienen aquí? Han comido del fruto del árbol que se les había
 
 prohibido probar. Ustedes han quebrantado el mandamiento de su Hacedor y Su
 
-sentencia de muerte ya ha salido contra ustedes. Cuando l venga, vendr
+sentencia de muerte ya ha salido contra ustedes. Cuando Él venga, vendrá
 
 ciertamente para tratar contigo en juicio de conformidad con Su palabra fiel; y
 
-cuando lo haga, qu ser de ti? Cada hoja, al crujir, debe de haberlos
+cuando lo haga, żqué será de ti?” Cada hoja, al crujir, debe de haberlos
 
 asustado y alarmado. El aliento de la brisa nocturna al pasar a lo largo del
 
 huerto debe de haberlos llenado de miedo y de espanto en cuanto a la
 
-condenacin que les esperaba.
+condenación que les esperaba.
 
-Ahora, Dios vino al
+Ahora, Dios vino “al
 
-aire del da, o como lo expresa el hebreo: en el viento de la tarde, cuando
+aire del día”, o como lo expresa el hebreo: “en el viento de la tarde”, cuando
 
 la brisa nocturna estaba soplando a lo largo del huerto. Para nosotros es
 
-difcil imaginar incluso cmo se revel a nuestros primeros padres. Yo supongo
+difícil imaginar incluso cómo se reveló a nuestros primeros padres. Yo supongo
 
-que condescendi a tomar sobre s alguna forma visible. Era la voz del Seor
+que condescendió a tomar sobre sí alguna forma visible. Era “la voz del Seńor
 
-Dios la que oan en el huerto, y ustedes saben que es
+Dios” la que oían en el huerto, y ustedes saben que es
 
 la Palabra
 
@@ -120,39 +120,39 @@ de Dios a quien le
 
 ha agradado hacerse visible a nosotros en carne humana. Pudo haber asumido
 
-alguna forma en la que podan verle; de otra manera, como un espritu puro,
+alguna forma en la que podían verle; de otra manera, como un espíritu puro,
 
-Dios no poda ser reconocido ni por los odos ni por los ojos de ellos.
+Dios no podía ser reconocido ni por los oídos ni por los ojos de ellos.
 
 Oyeron Su voz que
 
-hablaba cuando caminaba en el huerto al aire del da; y cuando llam a Adn,
+hablaba cuando caminaba en el huerto al aire del día; y cuando llamó a Adán,
 
-aunque haba una justa ira en el tono de Su voz, con todo, sus palabras fueron
+aunque había una justa ira en el tono de Su voz, con todo, sus palabras fueron
 
-muy tranquilas y dignificadas, y, hasta donde deban serlo, muy tiernas; pues
+muy tranquilas y dignificadas, y, hasta donde debían serlo, muy tiernas; pues
 
 si bien pueden leer las palabras de esta manera:
 
-Adn,
+“Adán,
 
-dnde
+żdónde
 
-ests t?
+estás tú?”
 
-pueden leerlas as tambin: Dnde
+pueden leerlas así también: “żDónde
 
-ests
+estás
 
-t, pobre Adn, dnde
+tú, pobre Adán, dónde
 
-ests
+estás
 
-t?
+tú?”
 
-Puedes poner un tono de piedad en las palabras, y sin embargo, no las estaras
+Puedes poner un tono de piedad en las palabras, y sin embargo, no las estarías
 
-leyendo mal. Entonces el Seor viene as en benignidad al aire del da y los
+leyendo mal. Entonces el Seńor viene así en benignidad al aire del día y los
 
 llama a rendir cuentas; pacientemente escucha sus perversas excusas, y luego
 
@@ -166,9 +166,9 @@ promesa de que
 
 la Simiente
 
-de la mujer herir la cabeza de la serpiente, una promesa que debe de haber brillado
+de la mujer herirá la cabeza de la serpiente, una promesa que debe de haber brillado
 
-en sus tristes y pecadoras almas as como una estrella particular y brillante
+en sus tristes y pecadoras almas así como una estrella particular y brillante
 
 resplandece en la oscuridad de la noche.
 
@@ -176,63 +176,63 @@ Yo aprendo, de este
 
 incidente, que Dios viene a los hombres pecadores, tarde o temprano, y podemos
 
-aprender tambin, de la manera como vino a nuestros primeros padres, cmo es
+aprender también, de la manera como vino a nuestros primeros padres, cómo es
 
-probable que venga a nosotros. Su venida ser diferente para diferentes
+probable que venga a nosotros. Su venida será diferente para diferentes
 
-personas; pero deducimos de este incidente, que Dios ciertamente vendr a
+personas; pero deducimos de este incidente, que Dios ciertamente vendrá a
 
-hombres culpables, aun si espera el aire del da; y tambin entendemos un poco
+hombres culpables, aun si espera el aire del día; y también entendemos un poco
 
-acerca de la manera en que vendr en definitiva a todos los hombres.
+acerca de la manera en que vendrá en definitiva a todos los hombres.
 
 Recuerda esto, pecador, que
 
-sin importar cunto te apartes de Dios, tendrs que acercarte a l uno de estos
+sin importar cuánto te apartes de Dios, tendrás que acercarte a Él uno de estos
 
-das. Puedes ir y arrancar el fruto que l prohbe que toques, y luego puedes
+días. Puedes ir y arrancar el fruto que Él prohíbe que toques, y luego puedes
 
-ir y ocultarte entre las gruesas ramas de los rboles en el huerto y pensar que
+ir y ocultarte entre las gruesas ramas de los árboles en el huerto y pensar que
 
-te has escondido; pero tendrs que comparecer cara a cara ante tu Hacedor en
+te has escondido; pero tendrás que comparecer cara a cara ante tu Hacedor en
 
-algn momento u otro. Pudiera no ser hoy, o maana; pudiera no ser hasta el
+algún momento u otro. Pudiera no ser hoy, o mańana; pudiera no ser hasta “el
 
-aire del da del tiempo; es ms, pudiera ser hasta que el tiempo mismo ya no
+aire del día” del tiempo; es más, pudiera ser hasta que el tiempo mismo ya no
 
-sea ms; pero, por fin, tendrs que ser confrontado por tu Hacedor. Como el
+sea más; pero, por fin, tendrás que ser confrontado por tu Hacedor. Como el
 
 cometa que vuela muy lejos del sol, vagando en el espacio para cubrir una
 
 distancia completamente inconcebible, y sin embargo, tiene que regresar de
 
-nuevo, sin importar cunto tiempo tome su circuito, as tendrs que regresar a
+nuevo, sin importar cuánto tiempo tome su circuito, así tendrás que regresar a
 
-Dios, ya sea voluntariamente, arrepentidamente, crdulamente, o de otra manera
+Dios, ya sea voluntariamente, arrepentidamente, crédulamente, o de otra manera
 
-sin la disposicin de hacerlo y en cadenas, para recibir la sentencia de
+sin la disposición de hacerlo y en cadenas, para recibir la sentencia de
 
-condenacin de los labios del Todopoderoso a quien has provocado a ira por tu
+condenación de los labios del Todopoderoso a quien has provocado a ira por tu
 
-pecado. Pero Dios y t tienen que reunirse, tan ciertamente como ests viviendo
+pecado. Pero Dios y tú tienen que reunirse, tan ciertamente como estás viviendo
 
-aqu ahora; en algn momento u otro, cada uno de ustedes tiene que or la voz del
+aquí ahora; en algún momento u otro, cada uno de ustedes tiene que oír la voz del
 
-Seor Dios dicindoles, tal como le dijo a Adn: Dnde ests t?
+Seńor Dios diciéndoles, tal como le dijo a Adán: “żDónde estás tú?”
 
-Ahora, de esta reunin
+Ahora, de esta reunión
 
-entre Dios y el hombre cado yo aprendo unas cuantas lecciones, que se las voy
+entre Dios y el hombre caído yo aprendo unas cuantas lecciones, que se las voy
 
-a transmitir conforme me capacite el Espritu Santo.
+a transmitir conforme me capacite el Espíritu Santo.
 
 I.
 
 La
 
-primera es esta. Cuando Dios se reuni con el hombre cado, no fue sino hasta
+primera es esta. Cuando Dios se reunió con el hombre caído, no fue sino hasta
 
-el aire del da. Esto me sugiere
+el aire del día. Esto me sugiere
 
 LA GRAN
 
@@ -240,197 +240,197 @@ PACIENCIA
 
 DE DIOS CON EL CULPABLE.
 
-Ya sea que Adn y Eva
+Ya sea que Adán y Eva
 
-pecaran temprano en la maana, o en mitad del da, o hacia la noche, no lo
+pecaran temprano en la mańana, o en mitad del día, o hacia la noche, no lo
 
-sabemos. No es necesario que sepamos eso; pero es probable que el Seor Dios
+sabemos. No es necesario que sepamos eso; pero es probable que el Seńor Dios
 
-concediera un intervalo para intervenir entre el pecado y la sentencia. l no
+concediera un intervalo para intervenir entre el pecado y la sentencia. Él no
 
-tena prisa por venir, porque no poda venir excepto en ira, para hacerles ver
+tenía prisa por venir, porque no podía venir excepto en ira, para hacerles ver
 
-sus pecados. Ustedes saben cun rpidos son los temperamentos de algunos
+sus pecados. Ustedes saben cuán rápidos son los temperamentos de algunos
 
-hombres. Si son provocados, slo dicen una palabra y lanzan un golpe, pues no
+hombres. Si son provocados, sólo dicen una palabra y lanzan un golpe, pues no
 
-tienen ninguna paciencia. Es nuestra pequeez lo que nos hace impacientes. Dios
+tienen ninguna paciencia. Es nuestra pequeńez lo que nos hace impacientes. Dios
 
-es tan grande que l puede tolerar mucho ms que nosotros; y aunque el pecado
+es tan grande que Él puede tolerar mucho más que nosotros; y aunque el pecado
 
-de nuestros primeros padres lo provoc grandemente, -y es Su gloria que es tan
+de nuestros primeros padres lo provocó grandemente, -y es Su gloria que es tan
 
-santo que no puede mirar a la iniquidad sin indignacin- con todo pareci
+santo que no puede mirar a la iniquidad sin indignación- con todo pareció
 
-decirse: Tengo que ir y llamar a estas dos criaturas mas para que den cuenta
+decirse: “Tengo que ir y llamar a estas dos criaturas mías para que den cuenta
 
-de su pecado; con todo, el juicio es mi trabajo extrao, pero es en la
+de su pecado; con todo, el juicio es mi trabajo extrańo, pero es en la
 
-misericordia en la que yo me deleito. Esta maana, descorr las cortinas que
+misericordia en la que yo me deleito. Esta mańana, descorrí las cortinas que
 
-los haban protegido durante la noche, y se derram la luz del sol sobre ellos,
+los habían protegido durante la noche, y se derramó la luz del sol sobre ellos,
 
-ni un segundo ms all del tiempo sealado, y me alegr hacerlo; y todo el da,
+ni un segundo más allá del tiempo seńalado, y me alegró hacerlo; y todo el día,
 
-he estado derramando misericordias sobre ellos, y los refrescantes rocos
+he estado derramando misericordias sobre ellos, y los refrescantes rocíos
 
-nocturnos estn comenzando a caer sobre ellos. Yo no voy a bajar con ellos hasta
+nocturnos están comenzando a caer sobre ellos. Yo no voy a bajar con ellos hasta
 
-el ltimo momento posible. Voy a posponerlo hasta el aire del da. Dios no
+el último momento posible. Voy a posponerlo hasta el aire del día”. Dios no
 
-har nada al calor de la pasin; todo ser deliberado y tranquilo, majestuoso y
+hará nada al calor de la pasión; todo será deliberado y tranquilo, majestuoso y
 
 divino.
 
 El hecho de que Dios no
 
-viniera a cuestionar a sus pecadoras criaturas hasta el aire del da debera
+viniera a cuestionar a sus pecadoras criaturas hasta el aire del día debería
 
-ensearnos la grandeza de Su paciencia, y tambin debera ensearnos a ser,
+enseńarnos la grandeza de Su paciencia, y también debería enseńarnos a ser,
 
-nosotros mismos, pacientes con otros. Cun maravillosamente paciente ha sido
+nosotros mismos, pacientes con otros. ˇCuán maravillosamente paciente ha sido
 
-Dios con algunos de ustedes que estn aqu!
+Dios con algunos de ustedes que están aquí!
 
-Han vivido muchos aos y han disfrutado de Sus misericordias, con todo
+Han vivido muchos ańos y han disfrutado de Sus misericordias, con todo
 
-escasamente han pensado acerca de l. Ciertamente no le han entregado sus
+escasamente han pensado acerca de Él. Ciertamente no le han entregado sus
 
-corazones; pero l no ha venido para tratar con ustedes en juicio todava. l los
+corazones; pero Él no ha venido para tratar con ustedes en juicio todavía. Él los
 
-ha esperado veinte aos a ustedes, jvenes; treinta aos, cuarenta aos, a
+ha esperado veinte ańos a ustedes, jóvenes; treinta ańos, cuarenta ańos, a
 
-ustedes, personas de edad media; cincuenta aos, sesenta aos, a ustedes que
+ustedes, personas de edad media; cincuenta ańos, sesenta ańos, a ustedes que
 
-estn dejando atrs ese perodo; setenta aos, tal vez, o incluso ochenta aos
+están dejando atrás ese período; setenta ańos, tal vez, o incluso ochenta ańos
 
-se ha sabido que se ha demorado, pues se deleita en misericordia, pero no se
+se ha sabido que se ha demorado, pues “se deleita en misericordia”, pero no se
 
-deleita en juicio. Setenta aos forman una larga vida de das, sin embargo,
+deleita en juicio. Setenta ańos forman una larga vida de días, sin embargo,
 
 muchas personas gastan todo ese tiempo en perpetrar pecados frescos. Llamados
 
-al arrepentimiento una y otra vez, solo se vuelven ms impenitentes por
+al arrepentimiento una y otra vez, solo se vuelven más impenitentes por
 
 resistir el llamado de la misericordia. Favorecidos con tantas bendiciones como
 
-las arenas de la costa del mar, slo demuestran ser ms ingratos por dejar de
+las arenas de la costa del mar, sólo demuestran ser más ingratos por dejar de
 
-apreciar todas esas bendiciones. Es maravilloso que Dios est dispuesto a
+apreciar todas esas bendiciones. Es maravilloso que Dios esté dispuesto a
 
-esperar hasta el aire de ese largo, largo da de vida como son setenta u
+esperar hasta el aire de ese largo, largo día de vida como son setenta u
 
-ochenta aos. Cun pacientes, entonces, deberamos ser los unos para con los
+ochenta ańos. ˇCuán pacientes, entonces, deberíamos ser los unos para con los
 
-otros! Sin embargo ustedes, padres, son siempre pacientes con sus hijos, sus
+otros! Sin embargo ustedes, padres, żson siempre pacientes con sus hijos, sus
 
-jvenes hijos que pudieran no haberlos ofendido voluntariamente o
+jóvenes hijos que pudieran no haberlos ofendido voluntariamente o
 
-conscientemente? Qu paciencia deberan ejercitar siempre para con ellos! Y
+conscientemente? ˇQué paciencia deberían ejercitar siempre para con ellos! żY
 
-tienes una paciencia parecida por un amigo o un hermano que podra usar un
+tienes una paciencia parecida por un amigo o un hermano que podría usar un
 
-lenguaje spero y provocarte? Sin embargo, as debera ser tu paciencia. Nunca
+lenguaje áspero y provocarte? Sin embargo, así debería ser tu paciencia. Nunca
 
-debemos sujetar por el cuello a nuestro hermano, y decirle: Pgame lo que me
+debemos sujetar por el cuello a nuestro hermano, y decirle: “Págame lo que me
 
-debes, en tanto que encontremos a Dios esperando deliberadamente hasta el aire
+debes”, en tanto que encontremos a Dios esperando deliberadamente hasta el aire
 
-del da antes de venir a esos que le han ofendido, y aun entonces sin expresar
+del día antes de venir a esos que le han ofendido, y aun entonces sin expresar
 
-ninguna palabra ms de ira de las que deben ser expresadas, y mezclando aun
+ninguna palabra más de ira de las que deben ser expresadas, y mezclando aun
 
-esas palabras con misericordia que no tiene lmites.
+esas palabras con misericordia que no tiene límites.
 
 II.
 
 Lo
 
-segundo que yo deduzco de la venida del Seor a Adn y Eva al aire del da es
+segundo que yo deduzco de la venida del Seńor a Adán y Eva al aire del día es
 
 SU CUIDADO DIVINO POR EL CULPABLE.
 
 Aunque no vino hasta el
 
-aire del da, manifestando as Su paciencia, vino entonces, manifestando as Su
+aire del día, manifestando así Su paciencia, vino entonces, manifestando así Su
 
-cuidado por aquellos que haban pecado contra l. Pudo haberlos dejado toda la
+cuidado por aquellos que habían pecado contra él. Pudo haberlos dejado toda la
 
-noche; toda la noche sin su Dios, toda la noche sin l despus de que haban
+noche; toda la noche sin su Dios, toda la noche sin Él después de que habían
 
-hecho lo que les haba prohibido hacer toda la noche- una noche sin dormir,
+hecho lo que les había prohibido hacer –toda la noche- una noche sin dormir,
 
-una noche terrible, una noche que habra sido embrujada con mil miedos; toda la
+una noche terrible, una noche que habría sido embrujada con mil miedos; toda la
 
 noche con esta gran batalla temblando en la balanza, con la gran pregunta de su
 
 castigo que no ha sido resuelto, y un temor indefinible del futuro pendiendo
 
-sobre ellos. Muchos de ustedes saben que la tribulacin de que algo sea
+sobre ellos. Muchos de ustedes saben que la tribulación de que algo sea
 
 mantenido en suspenso es casi peor que cualquier otro problema en el mundo. Si
 
-un hombre supiera que tiene que ser decapitado, sera ms fcil para l morir
+un hombre supiera que tiene que ser decapitado, sería más fácil para él morir
 
 de inmediato que tener que ponerse de rodillas con su cuello sobre el bloque, y
 
-el hacha deslumbrante levantada sobre l y sin saber cundo podra caer. El
+el hacha deslumbrante levantada sobre él y sin saber cuándo podría caer. El
 
-suspenso es peor que la muerte; pareciramos sentir mil muertes mientras
+suspenso es peor que la muerte; pareciéramos sentir mil muertes mientras
 
-tenemos una muerte en suspenso. Entonces Dios no dejara a Adn y a Eva en
+tenemos una muerte en suspenso. Entonces Dios no dejaría a Adán y a Eva en
 
-suspenso a lo largo de toda la noche despus de que haban pecado contra l,
+suspenso a lo largo de toda la noche después de que habían pecado contra Él,
 
-pero vino a ellos al aire del da.
+pero vino a ellos al aire del día.
 
-Hubo una razn adicional
+Hubo una razón adicional
 
-por la que vino a ellos; sin importar el hecho de que le haban desobedecido y
+por la que vino a ellos; sin importar el hecho de que le habían desobedecido y
 
-que tendra que castigarlos, record que todava eran Sus criaturas. Pareca
+que tendría que castigarlos, recordó que todavía eran Sus criaturas. Parecía
 
-estar diciendo en su interior: Qu les har? No debo destruirlos
+estar diciendo en su interior: “żQué les haré? No debo destruirlos
 
-completamente, pero cmo puedo salvarlos? Tengo que implementar mi amenaza,
+completamente, pero żcómo puedo salvarlos? Tengo que implementar mi amenaza,
 
-pues mi palabra es verdadera; sin embargo, tambin debo ver cmo puedo
+pues mi palabra es verdadera; sin embargo, también debo ver cómo puedo
 
-perdonarlos, pues yo soy longnimo, y mi gloria ha de ser aumentada por el
+perdonarlos, pues yo soy longánimo, y mi gloria ha de ser aumentada por el
 
-despliegue de mi gracia hacia ellos. El Seor los mir como los progenitores
+despliegue de mi gracia hacia ellos”. El Seńor los miró como los progenitores
 
-designados de sus elegidos; y consideraba a Adn y a Eva tambin, esperemos,
+designados de sus elegidos; y consideraba a Adán y a Eva también, esperemos,
 
-como Sus elegidos, a quienes am a pesar de su pecado, as pareca decir: No
+como Sus elegidos, a quienes amó a pesar de su pecado, así parecía decir: “No
 
-voy a dejarlos toda la noche sin la promesa que iluminar su penumbra. Era
+voy a dejarlos toda la noche sin la promesa que iluminará su penumbra”. Era
 
-slo una promesa; y, tal vez, no era claramente entendida por ellos; aun as,
+sólo una promesa; y, tal vez, no era claramente entendida por ellos; aun así,
 
-era una promesa de Dios, aunque le fue dicha a la serpiente, Y pondr
+era una promesa de Dios, aunque le fue dicha a la serpiente, “Y pondré
 
-enemistad entre ti y la mujer, y entre tu simiente y la simiente suya; sta te
+enemistad entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te
 
-herir en la cabeza, y t le herirs en el calcaar. Entonces, ni una sola
+herirá en la cabeza, y tú le herirás en el calcańar”. Entonces, ni una sola
 
 noche fueron dejadas las pobres criaturas de Dios sin por lo menos una estrella
 
-que brillara en las oscuridad para ellas, y as l mostr Su cuidado por ellas.
+que brillara en las oscuridad para ellas, y así Él mostró Su cuidado por ellas.
 
-Y todava, queridos amigos, aunque Dios es lento para la ira, con todo siempre
+Y todavía, queridos amigos, aunque Dios es lento para la ira, con todo siempre
 
-est listo para perdonar, y es muy tierno y compasivo aun cuando tiene que
+está listo para perdonar, y es muy tierno y compasivo aun cuando tiene que
 
-dictar sentencia contra los culpables. No contender para siempre, ni para
+dictar sentencia contra los culpables. “No contenderá para siempre, ni para
 
-siempre guardar el enojo. Ustedes pueden ver Su cuidado y consideracin aun
+siempre guardará el enojo”. Ustedes pueden ver Su cuidado y consideración aun
 
-para el ms indigno de nosotros, porque no nos ha cortado en nuestros pecados.
+para el más indigno de nosotros, porque no nos ha cortado en nuestros pecados.
 
 Nosotros:
 
-No estamos en tormentos, no estamos en el infierno.
+“No estamos en tormentos, no estamos en el infierno”.
 
 Podemos ver las marcas
 
@@ -446,237 +446,237 @@ III.
 
 Ahora,
 
-en tercer lugar, quiero mostrarles que, CUANDO EL SEOR VINO EN EFECTO, NOS
+en tercer lugar, quiero mostrarles que, CUANDO EL SEŃOR VINO EN EFECTO, NOS
 
-PROPORCION UN MODELO DE CMO EL ESPRITU DE DIOS VIENE PARA DESPERTAR LAS
+PROPORCIONÓ UN MODELO DE CÓMO EL ESPÍRITU DE DIOS VIENE PARA DESPERTAR LAS
 
 CONCIENCIAS DE LOS HOMBRES.
 
 Ya he dicho que, tarde o
 
-temprano, Dios vendr a confrontar a cada uno de nosotros. Querido amigo, yo
+temprano, Dios vendrá a confrontar a cada uno de nosotros. Querido amigo, yo
 
 ruego que si nunca ha venido a ti en la forma de un despertar de tu conciencia
 
-y hacindote sentir un pecador, que pueda venir a ti muy rpidamente. Y cuando
+y haciéndote sentir un pecador, que pueda venir a ti muy rápidamente. Y cuando
 
-venga para despertarte y despabilarte, ser ms o menos de esta manera.
+venga para despertarte y despabilarte, será más o menos de esta manera.
 
 Primero,
 
 viene oportunamente:
 
-al aire del da.
+“al aire del día”.
 
-El trabajo de Adn estaba hecho, y Eva no tena nada ms que hacer hasta el
+El trabajo de Adán estaba hecho, y Eva no tenía nada más que hacer hasta el
 
-siguiente da. En esa hora, haban estado acostumbrados, en tiempos ms felices,
+siguiente día. En esa hora, habían estado acostumbrados, en tiempos más felices,
 
-a sentarse y descansar. Ahora Dios viene a ellos, y el Espritu de Dios, cuando
+a sentarse y descansar. Ahora Dios viene a ellos, y el Espíritu de Dios, cuando
 
 viene a despertar a los hombres, generalmente los visita cuando tienen un poco
 
-de tiempo para un pensamiento apacible. T entraste y escuchaste un sermn; su
+de tiempo para un pensamiento apacible. Tú entraste y escuchaste un sermón; su
 
-mayor parte se esfum de tu memoria, pero hubo unas cuantas palabras que te
+mayor parte se esfumó de tu memoria, pero hubo unas cuantas palabras que te
 
-impactaron de manera que no te podas deshacer de ellas. Tal vez, ya no
+impactaron de manera que no te podías deshacer de ellas. Tal vez, ya no
 
-pensaste ms acerca del mensaje que habas escuchado. Algo ms intervino y te
+pensaste más acerca del mensaje que habías escuchado. Algo más intervino y te
 
-arrebat la atencin. Pero, un poco de tiempo despus, tuviste que vigilar toda
+arrebató la atención. Pero, un poco de tiempo después, tuviste que vigilar toda
 
 la noche junto al lecho de un amigo enfermo, y entonces Dios vino a ti, y trajo
 
-a tu recuerdo las palabras que habas olvidado. O pudiera ser que algunos
+a tu recuerdo las palabras que habías olvidado. O pudiera ser que algunos
 
 textos de
 
 la Escritura
 
-que aprendiste cuando eras un nio comenzaron a hablarte a travs de las
+que aprendiste cuando eras un nińo comenzaron a hablarte a través de las
 
 vigilias de la noche. O, tal vez, ibas a lo largo de una solitaria carretera en
 
 el campo, o, pudiera ser que estabas en el mar en una noche oscura, y las olas
 
-rodaban pesadamente de manera que no podas dormir, e incluso llegaste a temer
+rodaban pesadamente de manera que no podías dormir, e incluso llegaste a temer
 
-que seras engullido por el furioso mar. Entonces, entonces vino la voz del
+que serías engullido por el furioso mar. Entonces, entonces vino la voz del
 
-Seor Dios hablndote personalmente. Cuando otras voces fueron silenciadas,
+Seńor Dios hablándote personalmente. Cuando otras voces fueron silenciadas,
 
-hubo una oportunidad para que Su voz fuera oda.
+hubo una oportunidad para que Su voz fuera oída.
 
-No slo el Seor vino a
+No sólo el Seńor vino a
 
-Adn y a Eva oportunamente, sino que
+Adán y a Eva oportunamente, sino que
 
 le
 
-habl a Adn personalmente,
+habló a Adán personalmente,
 
-y le dijo: Dnde ests t? Uno de los
+y le dijo: “żDónde estás tú?” Uno de los
 
-grandes errores en conexin con toda la predicacin es que tantos oyentes
+grandes errores en conexión con toda la predicación es que tantos oyentes
 
-persistirn en prestarles sus odos a otras personas. Escuchan un fiel sermn
+persistirán en prestarles sus oídos a otras personas. Escuchan un fiel sermón
 
-evanglico, y entonces dicen: Ese mensaje es apto admirablemente para el
+evangélico, y entonces dicen: “Ese mensaje es apto admirablemente para el
 
-Vecino Tal y Tal. Qu lstima que la seora Fulana de Tal no lo oyera! Esa
+Vecino Tal y Tal. ˇQué lástima que la seńora Fulana de Tal no lo oyera! Esa
 
-habra sido la palabra propicia para ella. S, pero cuando Dios viene a ti,
+habría sido la palabra propicia para ella”. Sí, pero cuando Dios viene a ti,
 
-as como vino a Adn y a Eva, y si no eres convertido, yo ruego que te
+así como vino a Adán y a Eva, y si no eres convertido, yo ruego que te
 
-convierta, cada una de las palabras del sermn que te dar ser para ti mismo.
+convierta, cada una de las palabras del sermón que te dará será para ti mismo.
 
-l dir, Adn, o Juan, o Mara, o cualquiera que fuera tu nombre, Dnde
+Él dirá, “Adán”, o “Juan”, o “María”, o cualquiera que fuera tu nombre, “żDónde
 
-ests
+estás
 
-t?
+tú?”
 
-La pregunta estar
+La pregunta estará
 
-dirigida a ti mismo nicamente; no tendr ninguna relacin con ninguno de tus
+dirigida a ti mismo únicamente; no tendrá ninguna relación con ninguno de tus
 
-vecinos, sino nicamente contigo mismo. La pregunta podra adoptar una forma
+vecinos, sino únicamente contigo mismo. La pregunta podría adoptar una forma
 
-como esta: Dnde ests t? Qu has estado haciendo? Cul es tu condicin
+como esta: “żDónde estás tú? żQué has estado haciendo? żCuál es tu condición
 
-ahora? Te arrepentirs ahora, o continuars todava en tus pecados? Joven
+ahora? żTe arrepentirás ahora, o continuarás todavía en tus pecados?” Joven
 
-amigo, no has tenido alguna experiencia de este tipo? Fuiste al teatro; pero
+amigo, żno has tenido alguna experiencia de este tipo? Fuiste al teatro; pero
 
-cuando regresaste a casa, dijiste que no lo habas disfrutado, y que hubieras
+cuando regresaste a casa, dijiste que no lo habías disfrutado, y que hubieras
 
-preferido no ir. Pareca como si Dios hubiera venido para luchar contigo y para
+preferido no ir. Parecía como si Dios hubiera venido para luchar contigo y para
 
 razonar contigo acerca de tu vida pasada, sacando una cosa tras otra en la que
 
-has pecado contra l. En todo caso, esta es la manera en que trata con muchos;
+has pecado contra Él. En todo caso, esta es la manera en que trata con muchos;
 
-y si trata as contigo, s agradecido por ello, y entrgate a l y no luches
+y si trata así contigo, sé agradecido por ello, y entrégate a Él y no luches
 
-contra l. Siempre me alegra cuando los hombres no pueden ser felices en el
+contra Él. Siempre me alegra cuando los hombres no pueden ser felices en el
 
-mundo; pues, en tanto que puedan serlo, lo sern. Es siempre una gran
+mundo; pues, en tanto que puedan serlo, lo serán. Es siempre una gran
 
 misericordia cuando comienzan a estar enfermos de la exquisiteces de Egipto,
 
-pues entonces podemos conducirlos, por la gua de Dios, a buscar la leche y la
+pues entonces podemos conducirlos, por la guía de Dios, a buscar la leche y la
 
-miel de la tierra de Canan; pero no hasta entonces. Es una gran bendicin
+miel de la tierra de Canaán; pero no hasta entonces. Es una gran bendición
 
-cuando el Seor pone delante de ti, personalmente, una verdadera visin de tu
+cuando el Seńor pone delante de ti, personalmente, una verdadera visión de tu
 
-propia condicin ante Sus ojos, y te hace mirar all tan denodadamente,
+propia condición ante Sus ojos, y te hace mirar allí tan denodadamente,
 
 concentrando tu pensamiento entero en ello, de manera que no puedes ni siquiera
 
 comenzar a pensar acerca de otros porque eres forzado a examinar tu propio yo,
 
-para ver cul es tu condicin real en relacin a Dios.
+para ver cuál es tu condición real en relación a Dios.
 
-Cuando el Seor viene
+Cuando el Seńor viene
 
-as a los hombres, y habla personalmente con ellos,
+así a los hombres, y habla personalmente con ellos,
 
-los conduce a darse cuenta de su condicin perdida.
+los conduce a darse cuenta de su condición perdida.
 
-No ven que
+żNo ven que
 
-esto est implicado en la pregunta: Dnde ests t? Adn estaba perdido,
+esto está implicado en la pregunta: “Dónde estás tú? Adán estaba perdido,
 
 perdido para Dios, perdido para la santidad, perdido para la felicidad. Dios
 
-mismo pregunta: Dnde ests t? Eso fue para que Adn supiera esto: Te he
+mismo pregunta: “żDónde estás tú?” Eso fue para que Adán supiera esto: “Te he
 
-perdido Adn; en un tiempo, yo poda hablar contigo como con un amigo, pero ya
+perdido Adán; en un tiempo, yo podía hablar contigo como con un amigo, pero ya
 
-no puedo hacerlo ms. T fuiste una vez mi hijo obediente, pero ahora no lo
+no puedo hacerlo más. Tú fuiste una vez mi hijo obediente, pero ahora no lo
 
-eres; te he perdido. Dnde ests t? Que Dios el Espritu Santo convenza a
+eres; te he perdido. żDónde estás tú?” Que Dios el Espíritu Santo convenza a
 
-cada persona inconversa aqu que l o ella est perdida, no slo perdidos para
+cada persona inconversa aquí que él o ella está perdida, no sólo perdidos para
 
 ellos mismos, y para el cielo, y para la santidad, y para la felicidad, sino
 
 perdidos para Dios. Era de los perdidos de Dios de quienes Cristo hablaba tan a
 
-menudo. l propio era el buen Pastor, que junt a sus amigos y vecinos,
+menudo. Él propio era el buen Pastor, que juntó a sus amigos y vecinos,
 
-dicindoles: Gozaos conmigo, porque he encontrado mi oveja que se haba
+diciéndoles: “Gozaos conmigo, porque he encontrado mi oveja que se había
 
-perdido; y l representa a Su Padre que dice de Su hijo cuando regresa a l:
+perdido”; y Él representa a Su Padre que dice de Su hijo cuando regresa a Él:
 
-Este mi hijo era muerto muerto para m- y vive de nuevo estaba perdido, perdido
+“Este mi hijo era muerto’ –muerto para mí- ‘y vive de nuevo’ –estaba perdido, perdido
 
-para m y es encontrado. El valor de un alma para Dios, y el sentido de
+para mí ‘y es encontrado’”. El valor de un alma para Dios, y el sentido de
 
-prdida de Dios en el caso de cada alma individual, es algo que vale la pena
+pérdida de Dios en el caso de cada alma individual, es algo que vale la pena
 
-meditar, y calcular, si puede ser calculado. Dios hace que el hombre se d
+meditar, y calcular, si puede ser calculado. Dios hace que el hombre se dé
 
-cuenta que est perdido por sus propios gemidos y splicas, tal como le dijo a
+cuenta que está perdido por sus propios gemidos y súplicas, tal como le dijo a
 
-Adn: Dnde ests t?
+Adán: “żDónde estás tú?”
 
-Ustedes observarn
+Ustedes observarán
 
-tambin que el Seor no slo vino a Adn y le cuestion personalmente, sino
+también que el Seńor no sólo vino a Adán y le cuestionó personalmente, sino
 
-que hizo que Adn le respondiera;
+que hizo que Adán le respondiera;
 
 y si
 
-el Seor se ha acercado a cualquiera de ustedes, hablando contigo al aire del
+el Seńor se ha acercado a cualquiera de ustedes, hablando contigo al aire del
 
-da, y cuestionndote acerca de la condicin perdida, l har que confieses tu
+día, y cuestionándote acerca de la condición perdida, él hará que confieses tu
 
-pecado, y te llevar a reconocer que era realmente tuyo. l no te dejar como
+pecado, y te llevará a reconocer que era realmente tuyo. Él no te dejará como
 
-Adn quera ser dejado, es decir, echando la culpa a Eva por la desobediencia;
+Adán quería ser dejado, es decir, echando la culpa a Eva por la desobediencia;
 
-y l no te dejar como Eva trat de quedarse, es decir, traspasando la culpa al
+y él no te dejará como Eva trató de quedarse, es decir, traspasando la culpa al
 
-diablo. Antes de que el Seor haya acabado contigo, te traer a este punto, que
+diablo. Antes de que el Seńor haya acabado contigo, te traerá a este punto, que
 
-sentirs, y confesars y reconocers que t eres realmente culpable de tu
+sentirás, y confesarás y reconocerás que tú eres realmente culpable de tu
 
-propio pecado y que tienes que ser castigado por l. Cuando te rebaja a ese
+propio pecado y que tienes que ser castigado por él. Cuando te rebaja a ese
 
 punto y no tienes nada en absoluto que decir por ti mismo, entonces te
 
-perdonar. Yo recuerdo bien cuando el Seor me hizo caer de rodillas de esta
+perdonará. Yo recuerdo bien cuando el Seńor me hizo caer de rodillas de esta
 
-manera, y vaci toda mi justicia propia y la confianza en el yo, hasta que
+manera, y vació toda mi justicia propia y la confianza en el yo, hasta que
 
-sent que el lugar ms caliente en el infierno era lo que realmente mereca, y
+sentí que el lugar más caliente en el infierno era lo que realmente merecía, y
 
-que, si salvaba a todos los dems, pero no me salvaba a m, l todava sera
+que, si salvaba a todos los demás, pero no me salvaba a mí, Él todavía sería
 
-justo y recto, pues yo no tena ningn derecho de ser salvado. Entonces, cuando
+justo y recto, pues yo no tenía ningún derecho de ser salvado. Entonces, cuando
 
 era obligado a sentir que tiene que ser todo por gracia, o de lo contrario no
 
-podra haber salvacin para m, entonces me habl tierna y amablemente; pero,
+podría haber salvación para mí, entonces me habló tierna y amablemente; pero,
 
-al principio, no pareca haber ninguna ternura o piedad para mi alma. El Seor
+al principio, no parecía haber ninguna ternura o piedad para mi alma. El Seńor
 
-vena hacia m, desnudando mi pecado, revelndome mi condicin perdida, y
+venía hacia mí, desnudando mi pecado, revelándome mi condición perdida, y
 
-haciendo que me estremeciera y temblara, mientras tema que lo siguiente que me
+haciendo que me estremeciera y temblara, mientras temía que lo siguiente que me
 
-dira sera: Apartaos de m, maldito, al fuego eterno; en vez de lo cual me
+diría sería: “Apartaos de mí, maldito, al fuego eterno”; en vez de lo cual me
 
-dijo en tonos de sorprendente amor y longanimidad, Te he puesto entre mis
+dijo en tonos de sorprendente amor y longanimidad, “Te he puesto entre mis
 
-hijos; Con amor eterno te he amado; por tanto, te prolongu mi misericordia.
+hijos; ‘Con amor eterno te he amado; por tanto, te prolongué mi misericordia”.
 
-Bendito sea el nombre del Seor, por los siglos de los siglos, por tal
+Bendito sea el nombre del Seńor, por los siglos de los siglos, por tal
 
 asombroso tratamiento como este que es aplicado a los culpables y a los
 
@@ -688,7 +688,7 @@ Ahora,
 
 en cuarto lugar, y muy solemnemente, quiero mostrarles que ESTA VENIDA DEL
 
-SEOR A ADN Y A EVA ES TAMBIN PROFTICA DE
+SEŃOR A ADÁN Y A EVA ES TAMBIÉN PROFÉTICA DE
 
 LA
 
@@ -696,125 +696,125 @@ MANERA
 
 EN
 
-QUE VENDR COMO UN ESPRITU
+QUE VENDRÁ COMO UN ESPÍRITU
 
-JUZGADOR DE QUIENES LE RECHAZAN COMO UN ESPRITU DESPERTADOR.
+JUZGADOR DE QUIENES LE RECHAZAN COMO UN ESPÍRITU DESPERTADOR.
 
 Inconversos, ya les he
 
-recordado que tan ciertamente como viven, tendrn que someterse a Dios, como el
+recordado que tan ciertamente como viven, tendrán que someterse a Dios, como el
 
-resto de nosotros. Tarde o temprano tendrn que conocerle y saber que l los
+resto de nosotros. Tarde o temprano tendrán que conocerle y saber que Él los
 
-conoce. No habr manera de escapar de una entrevista que ser sumamente seria y
+conoce. No habrá manera de escapar de una entrevista que será sumamente seria y
 
-sumamente terrible para ustedes. Tendr lugar al aire del da. Yo no s
+sumamente terrible para ustedes. Tendrá lugar “al aire del día”. Yo no sé
 
-cundo pudiera ser eso. Cuando vena en camino para este servicio, pas a
+cuándo pudiera ser eso. Cuando venía en camino para este servicio, pasé a
 
-visitar a una joven dama para quien al aire del da ha venido a los
+visitar a una joven dama para quien “al aire del día” ha venido a los
 
-veinticinco o a los treinta aos de edad. La tisis ha hecho que el da de su
+veinticinco o a los treinta ańos de edad. La tisis ha hecho que el día de su
 
 vida sea comparativamente breve; pero, bendito sea Dios, Su gracia ha hecho que
 
-sea uno muy feliz; y ella no tiene miedo, al aire del da, or la voz del
+sea uno muy feliz; y ella no tiene miedo, “al aire del día”, oír la voz del
 
-Seor Dios llamndola a casa. Es bueno que no tenga miedo; pero t, que no has
+Seńor Dios llamándola a casa. Es bueno que no tenga miedo; pero tú, que no has
 
-credo en Jess, tendrs que or esa misma voz divina al aire del da de tu
+creído en Jesús, tendrás que oír esa misma voz divina al aire del día de tu
 
 vida. Se te puede permitir llegar a viejo; la fortaleza de la juventud y de la
 
-edad adulta se habrn ido, y comenzars a apoyarte en tu cayado, y a sentir que
+edad adulta se habrán ido, y comenzarás a apoyarte en tu cayado, y a sentir que
 
-no tienes el vigor que solas tener, y que no puedes cumplir un da duro de
+no tienes el vigor que solías tener, y que no puedes cumplir un día duro de
 
-trabajo como solas hacerlo, y no debes intentar correr por las colinas como lo
+trabajo como solías hacerlo, y no debes intentar correr por las colinas como lo
 
-hacas antes. Ese ser el aire del da para ti, y luego el Seor Dios vendr
+hacías antes. Ese será “el aire del día” para ti, y luego el Seńor Dios vendrá
 
-a ti, y dir: Ordena tu casa, porque morirs, y no vivirs.
+a ti, y dirá: “Ordena tu casa, porque morirás, y no vivirás”.
 
 Algunas veces ese aire
 
-del da viene a un hombre justo cuando le hubiera gustado que fuera al calor
+del día viene a un hombre justo cuando le hubiera gustado que fuera al calor
 
-del da. l est haciendo dinero, y sus hijos se est multiplicando en torno a
+del día. Él está haciendo dinero, y sus hijos se está multiplicando en torno a
 
-l, as que quiere detenerse en este mundo un poco ms de tiempo. Pero eso no
+él, así que quiere detenerse en este mundo un poco más de tiempo. Pero eso no
 
-puede ser; tiene que subir a su lecho, y tiene que acostarse all por tantos
+puede ser; tiene que subir a su lecho, y tiene que acostarse allí por tantos
 
-das y noches, y luego tiene que or la voz del Seor Dios cuando comienza a
+días y noches, y luego tiene que oír la voz del Seńor Dios cuando comienza a
 
-cuestionarle, y a decir: Dnde ests t en relacin a m? Me has amado con
+cuestionarle, y a decir: “żDónde estás tú en relación a mí? żMe has amado con
 
-todo tu corazn, y mente y alma y fuerza? Me has servido? Ests reconciliado
+todo tu corazón, y mente y alma y fuerza? żMe has servido? żEstás reconciliado
 
-a m por medio de la muerte de Mi Hijo? Tales preguntas como esas vendrn a
+a mí por medio de la muerte de Mi Hijo? Tales preguntas como esas vendrán a
 
 nosotros tan ciertamente como Dios nos ha hecho, y tendremos que dar cuentas de
 
 los actos realizados en el cuerpo, ya sea que hayan sido buenos o hayan sido
 
-malos. Yo les ruego que piensen en estas cosas, y que no digan: Ah!, eso no
+malos. Yo les ruego que piensen en estas cosas, y que no digan: “ˇAh!, eso no
 
-suceder justo ahora. Eso es ms de lo que cualquiera de nosotros pudiera
+sucederá justo ahora”. Eso es más de lo que cualquiera de nosotros pudiera
 
-decir; y permtanme recordarles que la vida es muy corta aun en su mayor
+decir; y permítanme recordarles que la vida es muy corta aun en su mayor
 
-duracin. Estoy apelando especialmente a aquellos que son de mi edad. No
+duración. Estoy apelando especialmente a aquellos que son de mi edad. żNo
 
-encuentran ustedes, queridos amigos, que cuando estn entre cuarenta y
+encuentran ustedes, queridos amigos, que cuando están entre cuarenta y
 
-cincuenta aos de edad, las semanas parecieran ser mucho ms cortas de lo que
+cincuenta ańos de edad, las semanas parecieran ser mucho más cortas de lo que
 
-solan ser cuando eran jvenes? Yo por tanto deduzco que, cuando nuestros
+solían ser cuando eran jóvenes? Yo por tanto deduzco que, cuando nuestros
 
-amigos tienen setenta u ochenta aos de edad, el tiempo tiene que parecer mucho
+amigos tienen setenta u ochenta ańos de edad, el tiempo tiene que parecer mucho
 
-ms corto para ellos de lo que fue jams. Yo pienso que una razn por la que
+más corto para ellos de lo que fue jamás. Yo pienso que una razón por la que
 
-Jacob, cuando tena ciento treinta aos de edad, le dijo a Faran: Pocos y
+Jacob, cuando tenía ciento treinta ańos de edad, le dijo a Faraón: “Pocos y
 
-malos han sido los das de los aos de mi vida, era simplemente esto: que
+malos han sido los días de los ańos de mi vida”, era simplemente esto: que
 
 realmente era un hombre muy viejo, aunque no tan viejo como sus ancestros, ese
 
-tiempo le pareca incluso ms breve a l de lo que pareca a gente ms joven. Si
+tiempo le parecía incluso más breve a él de lo que parecía a gente más joven. Si
 
-eso era as, entonces, yo supongo que, entre ms vive un hombre, ms corto
+eso era así, entonces, yo supongo que, entre más vive un hombre, más corto
 
-parecera ser el tiempo. Pero corto o largo, tu parte de l pronto acabar, y
+parecería ser el tiempo. Pero corto o largo, tu parte de él pronto acabará, y
 
-sers llamado a encoger tus pies en la cama, y a reunirte con el Dios de tus
+serás llamado a encoger tus pies en la cama, y a reunirte con el Dios de tus
 
 padres.
 
 Cuando llegue esa hora
 
-decisiva y solemne, tu entrevista con Dios tendr que ser personal. Los
+decisiva y solemne, tu entrevista con Dios tendrá que ser personal. Los
 
-patrocinadores no servirn de nada para nadie en el lecho de muerte. No servir
+patrocinadores no servirán de nada para nadie en el lecho de muerte. No servirá
 
-de nada, entonces, llamar a amigos cristianos que tomen una porcin de tu
+de nada, entonces, llamar a amigos cristianos que tomen una porción de tu
 
-carga. No sern capaces de darte de su aceite pues no tienen suficiente gracia
+carga. No serán capaces de darte de su aceite pues no tienen suficiente gracia
 
-para ellos mismos y para ti. Si vives y mueres sin aceptar la ayuda del nico
+para ellos mismos y para ti. Si vives y mueres sin aceptar la ayuda del único
 
-Mediador entre Dios y el hombre, todas estas preguntas tendrn que ser
+Mediador entre Dios y el hombre, todas estas preguntas tendrán que ser
 
-resueltas entre tu alma y Dios sin que nadie ms intervenga entre ti y tu
+resueltas entre tu alma y Dios sin que nadie más intervenga entre ti y tu
 
-Hacedor; y todo esto puede pasar en cualquier momento. La pltica personal
+Hacedor; y todo esto puede pasar en cualquier momento. La plática personal
 
 entre Dios y tu alma, al final de tu vida puede ser ordenada para tener lugar
 
-esta misma noche; y yo soy enviado, como un precursor, slo para darte esta
+esta misma noche; y yo soy enviado, como un precursor, sólo para darte esta
 
-advertencia de manera que no te renas con tu Dios completamente por sorpresa,
+advertencia de manera que no te reúnas con tu Dios completamente por sorpresa,
 
 sino que, de cualquier manera, puedes ser invitado y exhortado a estar
 
@@ -822,119 +822,119 @@ preparado para esa gran entrevista.
 
 Siempre que esa
 
-entrevista tiene lugar, Dios tratar contigo en solemne sinceridad,
+entrevista tiene lugar, Dios tratará contigo en solemne sinceridad,
 
-personalmente hacindote ver tu pecado. Sers incapaz de negarlo, pues habr
+personalmente haciéndote ver tu pecado. Serás incapaz de negarlo, pues habrá
 
-Uno presente, en esa entrevista, que lo ha visto todo, y las preguntas que har
+Uno presente, en esa entrevista, que lo ha visto todo, y las preguntas que hará
 
-acerca del estado de tu alma sern muy escudriadoras. l no preguntar
+acerca del estado de tu alma serán muy escudrińadoras. Él no preguntará
 
-meramente acerca de un pecado, sino acerca de todos tus pecados. l no solo
+meramente acerca de un pecado, sino acerca de todos tus pecados. Él no solo
 
-preguntar acerca de tu vida pblica, sino tambin acerca de tu vida privada;
+preguntará acerca de tu vida pública, sino también acerca de tu vida privada;
 
-no preguntar meramente acerca de tus actos, sino acerca de tus dichos, y tus
+no preguntará meramente acerca de tus actos, sino acerca de tus dichos, y tus
 
-disposiciones, y tus pensamientos, y acerca de toda tu posicin en relacin a
+disposiciones, y tus pensamientos, y acerca de toda tu posición en relación a
 
-l mismo, as como le pregunt a Adn: Dnde ests t?
+Él mismo, así como le preguntó a Adán: “żDónde estás tú?”
 
-En imaginacin yo ruego
+En imaginación –yo ruego
 
-que sea slo en la imaginacin- veo morir a algunos de ustedes no siendo
+que sea sólo en la imaginación- veo morir a algunos de ustedes no siendo
 
 salvos; y yo los veo cuando pasan al otro mundo sin ser perdonados, y tu alma
 
-se da cuenta, por primera vez, cul fue la experiencia del rico, de quien
+se da cuenta, por primera vez, cuál fue la experiencia del rico, de quien
 
-nuestro Salvador dijo: Y en el Hades alz sus ojos, como si hubiese estado
+nuestro Salvador dijo: “Y en el Hades alzó sus ojos”, como si hubiese estado
 
-dormido antes, y se acabara de despertar a su verdadera condicin. Alz sus
+dormido antes, y se acabara de despertar a su verdadera condición. “Alzó sus
 
-ojos, y contempl a su alrededor, pero no pudo ver nada excepto lo que le
+ojos”, y contempló a su alrededor, pero no pudo ver nada excepto lo que le
 
-causaba desmayo y horror; no haba ninguna traza de gozo o esperanza, ningn
+causaba desmayo y horror; no había ninguna traza de gozo o esperanza, ningún
 
-rastro de tranquilidad o paz. Luego, a travs de la terrible lobreguez, vino el
+rastro de tranquilidad o paz. Luego, a través de la terrible lobreguez, vino el
 
-sonido de tales preguntas como estas: Dnde ests t, pecador? Estabas en una
+sonido de tales preguntas como estas: “żDónde estás tú, pecador? Estabas en una
 
-casa de oracin hace unas cuantas semanas, y el predicador te exhort a buscar
+casa de oración hace unas cuantas semanas, y el predicador te exhortó a buscar
 
-al Seor; pero t procrastinaste. Dnde ests ahora? T decas que no haba
+al Seńor; pero tú procrastinaste. żDónde estás ahora? Tú decías que no había
 
-tal lugar como el infierno; pero qu dices al respecto de eso ahora? Dnde
+tal lugar como el infierno; żpero qué dices al respecto de eso ahora? żDónde
 
-ests t? T despreciabas el cielo, y rechazabas a Cristo; dnde ests ahora? Qu
+estás tú? Tú despreciabas el cielo, y rechazabas a Cristo; żdónde estás ahora? ˇQué
 
-horror se apoderar del espritu incorpreo cuando reflexione que se ha metido
+horror se apoderará del espíritu incorpóreo cuando reflexione que se ha metido
 
-en la condicin de la cual se le haba advertido y de la cual se le haba
+en la condición de la cual se le había advertido y de la cual se le había
 
-invitado a escapar, pero que a propsito escogi para s, cometiendo as un
+invitado a escapar, pero que a propósito escogió para sí, cometiendo así un
 
-eterno suicidio! Que el Seor en misericordia preserve a todos ustedes de
+eterno suicidio! ˇQue el Seńor en misericordia preserve a todos ustedes de
 
-hacer eso! Pero si lo hacen, entonces saldr de los labios del justamente
+hacer eso! Pero si lo hacen, entonces saldrá de los labios del justamente
 
-ofendido Dios la sentencia irrevocable, Apartaos de m, malditos.
+ofendido Dios la sentencia irrevocable, “Apartaos de mí, malditos”.
 
-Una de las cosas ms
+Una de las cosas más
 
-terribles en conexin con esta reunin de Dios con Adn fue, que Adn tena que
+terribles en conexión con esta reunión de Dios con Adán fue, que Adán tenía que
 
-responder las preguntas del Seor. El Seor le dijo: Has comido del rbol de
+responder las preguntas del Seńor. El Seńor le dijo: “żHas comido del árbol de
 
-que yo te mand no comieses? En nuestras cortes de ley, no requerimos que los
+que yo te mandé no comieses?” En nuestras cortes de ley, no requerimos que los
 
-hombres respondan las preguntas que los incriminaran, pero Dios lo hace; y, en
+hombres respondan las preguntas que los incriminarían, pero Dios lo hace; y, en
 
-el ltimo gran da, los impos sern condenados sobre su propia confesin de
+el último gran día, los impíos serán condenados sobre su propia confesión de
 
-culpa. Mientras estn en este mundo, ponen una cara de bronce, y declaran que
+culpa. Mientras están en este mundo, ponen una cara de bronce, y declaran que
 
-no han hecho ningn mal a nadie ni siquiera a Dios- pagan su camino, y son tan
+no han hecho ningún mal a nadie –ni siquiera a Dios- pagan su camino, y son tan
 
-buenos como sus vecinos y mejor que la mayora de ellos; pero toda su
+buenos como sus vecinos y mejor que la mayoría de ellos; pero toda su
 
-fanfarronada y bravado desaparecern en el da del juicio, y ya sea que se
+fanfarronada y bravado desaparecerán en el día del juicio, y ya sea que se
 
 queden sin habla delante de Dios y por carencia de habla reconocen su
 
-culpabilidad delante de l; o si llegan a hablar sus vanas excusas y apologas
+culpabilidad delante de Él; o si llegan a hablar sus vanas excusas y apologías
 
-solo los volver convictos. De sus propias bocas se van a condenar ellos
+solo los volverá convictos. De sus propias bocas se van a condenar ellos
 
 mismos, como ese perverso y flojo siervo que fue echado a las tinieblas
 
-exteriores donde haba llanto y crujir de dientes. Que Dios nos conceda que
+exteriores donde había llanto y crujir de dientes. ˇQue Dios nos conceda que
 
 nunca sepamos, por una triste experiencia personal, lo que significa esa
 
-expresin!
+expresión!
 
 V.
 
 Ahora,
 
-por ltimo, esta reunin de Dios con Adn debera conducirnos a los que creemos
+por último, esta reunión de Dios con Adán debería conducirnos a los que creemos
 
-en Cristo A ESPERERAR REUNIRNOS CON L EN LOS TRMINOS MS AMOROSOS; pues si,
+en Cristo A ESPERERAR REUNIRNOS CON ÉL EN LOS TÉRMINOS MÁS AMOROSOS; pues si,
 
-cuando vino a cuestionar al culpable Adn y a emitir sentencia contra l, lo
+cuando vino a cuestionar al culpable Adán y a emitir sentencia contra él, lo
 
-hizo tan tiernamente, y mezcl con el trueno de Su ira la blanda lluvia de Su
+hizo tan tiernamente, y mezcló con el trueno de Su ira la blanda lluvia de Su
 
-gracia, cuando dio la promesa de que
+gracia, cuando dio la promesa de que “
 
 la Simiente
 
-de la mujer herira la cabeza de la
+de la mujer” heriría la cabeza de la
 
-serpiente, no podemos esperar que se rena pronto con nosotros sobre los trminos
+serpiente, żno podemos esperar que se reúna pronto con nosotros sobre los términos
 
-ms amorosos si estamos en
+más amorosos si estamos en
 
 la
 
@@ -944,97 +944,97 @@ de esa mujer y hemos sido salvados por Jesucristo Su
 
 Hijo?
 
-l vendr en la noche,
+Él vendrá en la noche,
 
-hermano y hermana, cuando el trabajo del da est concluido; as que no te
+hermano y hermana, cuando el trabajo del día esté concluido; así que no te
 
-pongas nervioso por el peso y el calor del da. El da ms largo y el ms
+pongas nervioso por el peso y el calor del día. El día más largo y el más
 
 caliente
 
-llegar
+llegará
 
-a un fin; no vivirs aqu para
+a un fin; no vivirás aquí para
 
-siempre. No siempre tendrs que gastar tus dedos hasta el hueso tratando de
+siempre. No siempre tendrás que gastar tus dedos hasta el hueso tratando de
 
-ganar un escaso sustento. No siempre tendrs que mirar alrededor a tus hijos y preguntarte
+ganar un escaso sustento. No siempre tendrás que mirar alrededor a tus hijos y preguntarte
 
-dnde encontrars el pan con el cual vas a alimentarlos. No; los das en la
+dónde encontrarás el pan con el cual vas a alimentarlos. No; los días en la
 
 tierra no pueden durar para siempre; y, para muchos de ustedes el sol ya ha
 
-escalado la colina y ha comenzado a descender por el otro lado y el aire del
+escalado la colina y ha comenzado a descender por el otro lado y “el aire del
 
-da pronto llegar. Yo puedo mirar a muchos de ustedes que ya han alcanzado
+día” pronto llegará. Yo puedo mirar a muchos de ustedes que ya han alcanzado
 
-ese perodo. Se han retirado del servicio activo, se han desprendido de una
+ese período. Se han retirado del servicio activo, se han desprendido de una
 
-buena cantidad de cuidados del negocio, y ahora esperan que su Seor venga a
+buena cantidad de cuidados del negocio, y ahora esperan que su Seńor venga a
 
-ustedes. Ten la seguridad de que no se olvidar, pues l ha prometido que
+ustedes. Ten la seguridad de que no se olvidará, pues Él ha prometido que
 
-vendr a ustedes. Oirs Su voz, antes de que pase mucho tiempo, dicindote que
+vendrá a ustedes. Oirás Su voz, antes de que pase mucho tiempo, diciéndote que
 
-l est caminando en el huerto y est viniendo a ti. El buen anciano Rowland
+Él está caminando en el huerto y está viniendo a ti. El buen anciano Rowland
 
-Hill, cuando se dio cuenta que se estaba poniendo muy dbil, dijo: Yo espero
+Hill, cuando se dio cuenta que se estaba poniendo muy débil, dijo: “Yo espero
 
-que no hayan olvidado al pobre viejo Rowley all arriba. Pero l saba que no
+que no hayan olvidado al pobre viejo Rowley allá arriba”. Pero él sabía que no
 
-haba sido olvidado, ni t tampoco lo sers, amado.
+había sido olvidado, ni tú tampoco lo serás, amado.
 
-Oirn la voz de su Seor
+Oirán la voz de su Seńor
 
-en breve; y la misericordia es que se darn cuenta cuando en verdad la oigan.
+en breve; y la misericordia es que se darán cuenta cuando en verdad la oigan.
 
-No la han odo a menudo antes de ahora? Muchas veces, en esta casa, ustedes
+żNo la han oído a menudo antes de ahora? Muchas veces, en esta casa, ustedes
 
-han odo Su voz y se han alegrado. Se han sentado y han tenido comunin con
+han oído Su voz y se han alegrado. Se han sentado y han tenido comunión con
 
 Dios al aire de muchas noches. Me gusta ver a una anciana cristiana, con su
 
-gran Biblia abierta, sentada durante horas y sealando con su dedo las
+gran Biblia abierta, sentada durante horas y seńalando con su dedo las
 
-preciosas palabras del Seor; comindoselas, digirindolas, viviendo de ellas,
+preciosas palabras del Seńor; comiéndoselas, digiriéndolas, viviendo de ellas,
 
-y encontrndolas ms dulces para su alma que la miel o que los trozos de panal
+y encontrándolas más dulces para su alma que la miel o que los trozos de panal
 
-para su paladar. Bien, entonces, como han odo la voz de su Seor, y conocen
+para su paladar. Bien, entonces, como han oído la voz de su Seńor, y conocen
 
-tan bien sus tonos, como han estado acostumbrados a orla no se asombrarn
+tan bien sus tonos, como han estado acostumbrados a oírla no se asombrarán
 
-cuando la oigan en esos ltimos momentos del da de su vida. No corrers para
+cuando la oigan en esos últimos momentos del día de su vida. No correrás para
 
-esconderte, como Adn y Eva lo hicieron. Ustedes estn cubiertos con el manto
+esconderte, como Adán y Eva lo hicieron. Ustedes están cubiertos con el manto
 
 de la justicia de Cristo, de manera que no tienen que temer ninguna desnudez; y
 
-pueden responder: Preguntaste, Seor mo, Dnde ests t? Yo respondo: Heme
+pueden responder: “żPreguntaste, Seńor mío, ‘Dónde estás tú?’ Yo respondo: Heme
 
-aqu, pues T me llamaste. Preguntaste dnde estoy? Estoy escondido en Tu
+aquí, pues Tú me llamaste’. żPreguntaste dónde estoy? Estoy escondido en Tu
 
-Hijo; soy acepto en el Amado. Dijiste: Dnde ests t? Aqu estoy, listo y
+Hijo; soy ‘acepto en el Amado’. żDijiste: ‘Dónde estás tú?’ Aquí estoy, listo y
 
-esperando subir con l, de acuerdo a Su promesa de que, dnde l est, all
+esperando subir con Él, de acuerdo a Su promesa de que, dónde Él está, allí
 
-estar yo tambin, para que pueda contemplar Su gloria. Vamos, seguramente,
+estaré yo también, para que pueda contemplar Su gloria”. Vamos, seguramente,
 
 amados, como este es el caso, pueden incluso anhelar que venga la noche cuando
 
-oigan Su voz, y estn arriba y lejos de esta tierra de sombras y glidos
+oigan Su voz, y estén arriba y lejos de esta tierra de sombras y gélidos
 
-rocos, en ese bendito lugar donde la gloria arde por los siglos de los siglos,
+rocíos, en ese bendito lugar donde la gloria arde por los siglos de los siglos,
 
-y el Cordero es su luz, y los das de su lamentacin acabarn para siempre.
+y el Cordero es su luz, y los días de su lamentación acabarán para siempre.
 
-Que Dios nos conceda que
+ˇQue Dios nos conceda que
 
-todos ustedes tengan una parte y una participacin en esa gloria, por causa de
+todos ustedes tengan una parte y una participación en esa gloria, por causa de
 
-Su amado Hijo! Amn.
+Su amado Hijo! Amén.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 25/Septiembre/2014
 

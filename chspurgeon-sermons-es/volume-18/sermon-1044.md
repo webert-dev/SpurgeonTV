@@ -1,8 +1,8 @@
 # Sermón 1044 | Sermón 1044
 
-El Plpito del
+El Púlpito del
 
-Tabernculo Metropolitano
+Tabernáculo Metropolitano
 
 Desatar
 
@@ -10,9 +10,9 @@ la Correa
 
 de Su Calzado
 
-SERMN PREDICADO
+SERMÓN PREDICADO
 
-LA MAANA
+LA MAŃANA
 
 DEL
 
@@ -20,59 +20,59 @@ DOMINGO 31 DE MARZO
 
 DE 1872
 
-EN EL TABERNCULO METROPOLITANO, NEWINGTON,
+EN EL TABERNÁCULO METROPOLITANO, NEWINGTON,
 
 LONDRES.
 
-Viene uno
+“Viene uno
 
-ms poderoso que yo, de quien no soy digno de desatar la correa de su calzado.
+más poderoso que yo, de quien no soy digno de desatar la correa de su calzado”.
 
 Lucas 3: 16.
 
 No era tarea de Juan rodearse
 
-de seguidores sino dirigirlos a Jess y l desempe su cometido muy fielmente.
+de seguidores sino dirigirlos a Jesús y él desempeńó su cometido muy fielmente.
 
-Su opinin del Maestro, de quien era el heraldo, era muy alta; lo reverenciaba
+Su opinión del Maestro, de quien era el heraldo, era muy alta; lo reverenciaba
 
-como al ungido del Seor, como al Rey de Israel, y, por tanto, no estuvo
+como al ungido del Seńor, como al Rey de Israel, y, por tanto, no estuvo
 
-tentado a erigirse como un rival. Se deleitaba en declarar: Es necesario que
+tentado a erigirse como un rival. Se deleitaba en declarar: “Es necesario que
 
-l crezca, pero que yo menge. En su proceso de menguar, Juan usa la expresin
+él crezca, pero que yo mengüe”. En su proceso de menguar, Juan usa la expresión
 
 de nuestro texto que fue registrada por cada uno de los evangelistas, con
 
-alguna pequea variante. Mateo dice as: cuyo calzado yo no soy digno de
+alguna pequeńa variante. Mateo dice así: “cuyo calzado yo no soy digno de
 
-llevar. Juan no era digno de ir por el calzado de su Seor. Marcos escribe:
+llevar”. Juan no era digno de ir por el calzado de su Seńor. Marcos escribe: “
 
 A
 
 quien no soy digno de desatar encorvado la correa de su
 
-calzado; y Juan lo expresa de manera muy parecida a Lucas. Esta accin de
+calzado”; y Juan lo expresa de manera muy parecida a Lucas. Esta acción de
 
-poner el calzado y de quitarlo y de guardarlo era una tarea que les corresponda
+poner el calzado y de quitarlo y de guardarlo era una tarea que les correspondía
 
-usualmente a criados de baja categora, y no era un deber que conllevara alguna
+usualmente a criados de baja categoría, y no era un deber que conllevara alguna
 
-reputacin u honor; con todo, el Bautista senta que sera un gran honor ser un
+reputación u honor; con todo, el Bautista sentía que sería un gran honor ser un
 
-criado de baja categora del Seor Jess. Juan senta que el Hijo de Dios era
+criado de baja categoría del Seńor Jesús. Juan sentía que el Hijo de Dios era
 
-tan infinitamente superior a l mismo, que sera honrado con slo que se le
+tan infinitamente superior a él mismo, que sería honrado con sólo que se le
 
-permitiera ser el ms humilde esclavo a Su servicio. No permitira que se
+permitiera ser el más humilde esclavo a Su servicio. No permitiría que se
 
-intentaran comparaciones entre Jess y l. Senta que no poda permitirse ningn
+intentaran comparaciones entre Jesús y él. Sentía que no podía permitirse ningún
 
-cotejo ni por un instante. Ahora, esta honesta estimacin de s mismo como
+cotejo ni por un instante. Ahora, esta honesta estimación de sí mismo como
 
-menos que nada en comparacin con su Seor, ha de ser grandemente imitada por
+menos que nada en comparación con su Seńor, ha de ser grandemente imitada por
 
-nosotros. Juan debe ser encomiado y admirado por esto, pero mejor an, debe ser
+nosotros. Juan debe ser encomiado y admirado por esto, pero mejor aún, debe ser
 
 imitado cuidadosamente.
 
@@ -80,155 +80,155 @@ Recuerden que Juan no
 
 era un hombre inferior de ninguna manera. Entre todos los nacidos de mujer
 
-antes de su tiempo no haba habido otro mayor que l. Juan fue motivo de muchas
+antes de su tiempo no había habido otro mayor que él. Juan fue motivo de muchas
 
-profecas, y su tarea era peculiarmente noble; fue el amigo del grandioso
+profecías, y su tarea era peculiarmente noble; fue el amigo del grandioso
 
-Esposo, y le present a la esposa elegida. Juan fue la estrella matutina del
+Esposo, y le presentó a la esposa elegida. Juan fue la estrella matutina del
 
-da del Evangelio, pero no consideraba ser ninguna luz en la presencia del Sol
+día del Evangelio, pero no consideraba ser ninguna luz en la presencia del Sol
 
-de Justicia a quien anunciaba. Juan no tena un temperamento que cediera o se
+de Justicia a quien anunciaba. Juan no tenía un temperamento que cediera o se
 
-intimidara; no era ninguna caa sacudida por el viento; no era ningn hombre de
+intimidara; no era ninguna cańa sacudida por el viento; no era ningún hombre de
 
-hbitos cortesanos apropiados para el palacio del rey. No. Vemos en l a
+hábitos cortesanos apropiados para el palacio del rey. No. Vemos en él a
 
 un
 
-Elas, a un hombre frreo, a un hijo del trueno; ruga
+Elías, a un hombre férreo, a un hijo del trueno; rugía
 
-como cachorro de len sobre su presa, y no se arredraba ante nadie. Algunos
+como cachorro de león sobre su presa, y no se arredraba ante nadie. Algunos
 
-individuos son naturalmente tan mansos de espritu -por no decir de mente
+individuos son naturalmente tan mansos de espíritu -por no decir de mente
 
-dbil- que naturalmente se subordinan erigiendo a otros como sus lderes. Tales
+débil- que naturalmente se subordinan erigiendo a otros como sus líderes. Tales
 
-individuos son propensos a errar, deprecindose. Pero Juan era todo un hombre;
+individuos son propensos a errar, depreciándose. Pero Juan era todo un hombre;
 
-su alma grande slo se inclinaba ante lo que fuera digno de homenaje; l era, en
+su alma grande sólo se inclinaba ante lo que fuera digno de homenaje; él era, en
 
-la fortaleza de Dios, como columna de hierro y como muro de bronce, un hroe
+la fortaleza de Dios, como columna de hierro y como muro de bronce, un héroe
 
-por la causa del Seor, pero se sentaba en la presencia de Jess como un niito
+por la causa del Seńor, pero se sentaba en la presencia de Jesús como un nińito
 
-se sienta en la escuela a los pies de su maestro, y exclamaba: A quien no soy
+se sienta en la escuela a los pies de su maestro, y exclamaba: “A quien no soy
 
-digno de desatar encorvado la correa de su calzado.
+digno de desatar encorvado la correa de su calzado”.
 
-Recuerden, adems, que
+Recuerden, además, que
 
 Juan era un hombre dotado de grandes habilidades que son muy capaces de volver
 
-altiva a una persona. l era un profeta, s, y ms que un profeta. Cuando se
+altiva a una persona. Él era un profeta, sí, y más que un profeta. Cuando se
 
-paraba a predicar en el desierto, su ardiente elocuencia pronto atraa a gente
+paraba a predicar en el desierto, su ardiente elocuencia pronto atraía a gente
 
-de Jerusaln y de todas las ciudades circunvecinas, y las riberas del Jordn
+de Jerusalén y de todas las ciudades circunvecinas, y las riberas del Jordán
 
-vean a una vasta multitud de vidos oyentes que se arremolinaba en torno al hombre
+veían a una vasta multitud de ávidos oyentes que se arremolinaba en torno al hombre
 
-vestido de pelo de camello. Miles se juntaban para escuchar la enseanza de uno
+vestido de pelo de camello. Miles se juntaban para escuchar la enseńanza de uno
 
-que no haba sido criado a los pies de los rabes, ni haba sido instruido en
+que no había sido criado a los pies de los rabíes, ni había sido instruido en
 
 la elocuencia a la usanza de las escuelas. Juan era un hombre de un lenguaje
 
-valiente, llano, elocuente y convincente; no era ningn maestro de segunda
+valiente, llano, elocuente y convincente; no era ningún maestro de segunda
 
-clase, sino un maestro en Israel, y sin embargo, no asuma aires de grandeza,
+clase, sino un maestro en Israel, y sin embargo, no asumía aires de grandeza,
 
-antes bien, consideraba el lugar ms humilde en el servicio del Seor como
+antes bien, consideraba el lugar más humilde en el servicio del Seńor como
 
-demasiado elevado para l. Noten, tambin, que no slo era un gran predicador,
+demasiado elevado para él. Noten, también, que no sólo era un gran predicador,
 
-sino que haba sido muy exitoso no slo atrayendo a las multitudes, sino
+sino que había sido muy exitoso no sólo atrayendo a las multitudes, sino
 
-bautizndolas. La nacin entera senta los efectos del ministerio de Juan, y
+bautizándolas. La nación entera sentía los efectos del ministerio de Juan, y
 
-saba que era un profeta; los haca oscilar de un lado a otro con sus celosas
+sabía que era un profeta; los hacía oscilar de un lado a otro con sus celosas
 
-palabras de la misma manera que el trigo de otoo es agitado por el aliento del
+palabras de la misma manera que el trigo de otońo es agitado por el aliento del
 
 viento. Cuando un hombre siente que tiene poder sobre las masas de sus semejantes,
 
-es muy propenso a encumbrarse y a exaltarse desmedidamente, mas no as Juan. No
+es muy propenso a encumbrarse y a exaltarse desmedidamente, mas no así Juan. No
 
-haba peligro que el Seor le confiara una notable popularidad y un gran xito,
+había peligro que el Seńor le confiara una notable popularidad y un gran éxito,
 
-pues, aunque tena todos esos honores, los colocaba mansamente a los pies de
+pues, aunque tenía todos esos honores, los colocaba mansamente a los pies de
 
-Jess y deca: No soy digno de ser ni siquiera el ltimo de los esclavos en la
+Jesús y decía: “No soy digno de ser ni siquiera el último de los esclavos en la
 
-casa del Mesas.
+casa del Mesías”.
 
-Adems, consideren
+Además, consideren
 
-tambin que Juan era un lder religioso y que tena la oportunidad, si as lo
+también que Juan era un líder religioso y que tenía la oportunidad, si así lo
 
-hubiese querido, de convertirse en el lder de una poderosa secta.
+hubiese querido, de convertirse en el líder de una poderosa secta.
 
-Evidentemente la gente estaba dispuesta a seguirle. Sin duda haba algunos que
+Evidentemente la gente estaba dispuesta a seguirle. Sin duda había algunos que
 
-no habran seguido al propio Cristo si Juan no les hubiera pedido que lo
+no habrían seguido al propio Cristo si Juan no les hubiera pedido que lo
 
-hicieran, y si no hubiera testificado: He aqu el Cordero de Dios, y confesado
+hicieran, y si no hubiera testificado: “He aquí el Cordero de Dios”, y confesado
 
-una y otra vez, diciendo: Yo no soy el Cristo. Leemos acerca de algunos que
+una y otra vez, diciendo: “”Yo no soy el Cristo”. Leemos acerca de algunos que
 
-aos despus de que el Bautista muriera seguan siendo todava sus discpulos,
+ańos después de que el Bautista muriera seguían siendo todavía sus discípulos,
 
 de tal forma que hubiera tenido la oportunidad de arrastrar consigo a muchos
 
-que se habran convertido en sus seguidores y hacerse as de un nombre entre
+que se habrían convertido en sus seguidores y hacerse así de un nombre entre
 
-los hombres; pero l despreci eso; su elevado concepto de su maestro le
+los hombres; pero él despreció eso; su elevado concepto de su maestro le
 
-impeda albergar cualquier deseo de un liderazgo personal, y rebajndose, no al
+impedía albergar cualquier deseo de un liderazgo personal, y rebajándose, no al
 
-lugar de un capitn de las huestes del Seor, sino al nivel de uno de los
+lugar de un capitán de las huestes del Seńor, sino al nivel de uno de los
 
-ltimos soldados en el ejrcito, dice: de quien no soy digno de desatar la
+últimos soldados en el ejército, dice: “de quien no soy digno de desatar la
 
-correa de su calzado. Cul creen ustedes que fue la razn de que Juan
+correa de su calzado”. żCuál creen ustedes que fue la razón de que Juan
 
-mantuviera una posicin adecuada? Acaso no fue porque tena un enaltecido concepto
+mantuviera una posición adecuada? żAcaso no fue porque tenía un enaltecido concepto
 
-de su Maestro, y senta una profunda reverencia por l? Ah, hermanos, debido a
+de su Maestro, y sentía una profunda reverencia por Él? Ah, hermanos, debido a
 
-nuestra poca estimacin de Cristo, es peligroso que el Seor nos confe alguna
+nuestra poca estimación de Cristo, es peligroso que el Seńor nos confíe alguna
 
-posicin que no sea la ms baja. Yo creo que muchos de nosotros podramos haber
+posición que no sea la más baja. Yo creo que muchos de nosotros podríamos haber
 
-sido diez veces ms tiles, slo que no habra sido seguro que Dios nos
+sido diez veces más útiles, sólo que no habría sido seguro que Dios nos
 
-permitiera que lo furamos; nos habramos engredo, y, como Nabucodonosor, nos
+permitiera que lo fuéramos; nos habríamos engreído, y, como Nabucodonosor, nos
 
-habramos gloriado: No es sta la gran Babilonia que yo edifiqu? Muchos
+habríamos gloriado: “żNo es ésta la gran Babilonia que yo edifiqué?” Muchos
 
-individuos han tenido que pelear en la retaguardia y servir slo un poco a su
+individuos han tenido que pelear en la retaguardia y servir sólo un poco a su
 
-Seor y gozar tan slo de un poco de xito en ese servicio porque no dieron la
+Seńor y gozar tan sólo de un poco de éxito en ese servicio porque no dieron la
 
-suficiente reverencia a Cristo, no amaron a su Seor lo suficiente, y entonces
+suficiente reverencia a Cristo, no amaron a su Seńor lo suficiente, y entonces
 
-el ego se habra entronizado sigilosamente para su propio perjuicio, para afliccin
+el ego se habría entronizado sigilosamente para su propio perjuicio, para aflicción
 
-de la iglesia y para deshonra de su Seor. Oh, que tuvisemos un alto concepto
+de la iglesia y para deshonra de su Seńor. ˇOh, que tuviésemos un alto concepto
 
-de Cristo y un bajo concepto de nosotros mismos! Oh, que viramos a Jess como
+de Cristo y un bajo concepto de nosotros mismos! ˇOh, que viéramos a Jesús como
 
-llenndolo todo en todo, y que furamos nosotros como menos que nada delante de
+llenándolo todo en todo, y que fuéramos nosotros como menos que nada delante de
 
-l!
+Él!
 
-Habiendo introducido as
+Habiendo introducido así
 
-el tema, nuestro objetivo esta maana es extraer una enseanza de la expresin
+el tema, nuestro objetivo esta mańana es extraer una enseńanza de la expresión
 
-que Juan us aqu y en otras partes, en relacin a s mismo y a su Seor: De
+que Juan usó aquí y en otras partes, en relación a sí mismo y a su Seńor: “De
 
-quien no soy digno de desatar la correa de su calzado.
+quien no soy digno de desatar la correa de su calzado”.
 
 De esto yo deduzco,
 
@@ -248,13 +248,13 @@ evidente en presencia de cualquier tipo de obra santa;
 
 en tercer lugar, que
 
-esta indignidad nuestra, mientras ms
+esta indignidad nuestra, mientras más
 
-sentida, en vez de desanimarnos, debera estimularnos ms bien a la accin,
+sentida, en vez de desanimarnos, debería estimularnos más bien a la acción,
 
 pues
 
-sin duda as oper en el caso de Juan el Bautista.
+sin duda así operó en el caso de Juan el Bautista.
 
 I.
 
@@ -264,93 +264,93 @@ noten primero que NO DEBE PRESCINDIRSE DE NINGUNA FORMA DE SERVICIO SANTO.
 
 Desatar la correa del calzado de Cristo pudiera parecer algo muy trivial; pudiera
 
-parecer incluso que si un hombre de posicin e influencia condesciende a
+parecer incluso que si un hombre de posición e influencia condesciende a
 
-realizar oficios que un siervo pudiera muy bien desempear, podra sufrir la
+realizar oficios que un siervo pudiera muy bien desempeńar, podría sufrir la
 
-prdida de la autoestima. Por qu habra de resignarme a hacer eso? Voy a
+pérdida de la autoestima. żPor qué habría de resignarme a hacer eso? Voy a
 
 aprender de Cristo; voy a distribuir pan entre la multitud por Cristo; voy a tener
 
 mi barca lista cerca de la costa para que Cristo predique desde ella, y voy a
 
-ir por el asno sobre el cual entrar cabalgando triunfante en Jerusaln; pero
+ir por el asno sobre el cual entrará cabalgando triunfante en Jerusalén; żpero
 
-qu necesidad habra de que el discpulo se convierta en un simple criado? Una
+qué necesidad habría de que el discípulo se convierta en un simple criado? Una
 
-pregunta como esa es silenciada aqu para siempre, y el espritu que la dicta
+pregunta como esa es silenciada aquí para siempre, y el espíritu que la dicta
 
-es censurado en la prctica. No hay nada deshonroso en un acto mediante el cual
+es censurado en la práctica. No hay nada deshonroso en un acto mediante el cual
 
-Jess es honrado. Nada rebaja al hombre si honra a su Seor. No es posible que
+Jesús es honrado. Nada rebaja al hombre si honra a su Seńor. No es posible que
 
-ninguna obra piadosa est por debajo de nuestra dignidad; deberamos saber ms
+ninguna obra piadosa esté por debajo de nuestra dignidad; deberíamos saber más
 
-bien que el ms nfimo grado de servicio otorga dignidad al hombre que lo
+bien que el más ínfimo grado de servicio otorga dignidad al hombre que lo
 
-desempea de todo corazn. Incluso la forma ms insignificante y ms oscura de
+desempeńa de todo corazón. Incluso la forma más insignificante y más oscura de
 
-servir a Cristo es ms excelsa y elevada que lo que somos dignos de emprender.
+servir a Cristo es más excelsa y elevada que lo que somos dignos de emprender.
 
 Noten ahora que las
 
-pequeas obras realizadas para Cristo, tales como llevar el calzado y desatar
+pequeńas obras realizadas para Cristo, tales como llevar el calzado y desatar
 
 la correa, a menudo
 
-encierran ms del
+encierran más del
 
-espritu infantil que las obras mayores.
+espíritu infantil que las obras mayores.
 
 Afuera, en las calles, un
 
-compaero le hace un favor a otro y la accin realizada es amistosa; pero los
+compańero le hace un favor a otro y la acción realizada es amistosa; pero los
 
-actos filiales debes verlos dentro del hogar. All el muchacho no le presta
+actos filiales debes verlos dentro del hogar. Allí el muchacho no le presta
 
-dinero a su padre, ni hace negocios, y, sin embargo, en sus pequeos actos hay
+dinero a su padre, ni hace negocios, y, sin embargo, en sus pequeńos actos hay
 
-una mayor relacin filial. Quin es el que sale a encontrar al padre cuando el
+una mayor relación filial. żQuién es el que sale a encontrar al padre cuando el
 
-da ha concluido? Y cul es la accin que indica a menudo el amor de la niez?
+día ha concluido? żY cuál es la acción que indica a menudo el amor de la nińez?
 
-Vean al nio que avanza tambalendose con las pantuflas del padre y se lleva
+Vean al nińo que avanza tambaleándose con las pantuflas del padre y se lleva
 
-corriendo las botas una vez que el padre se las quita. El servicio es pequeo,
+corriendo las botas una vez que el padre se las quita. El servicio es pequeńo,
 
-pero es entraable y filial, y encierra ms afecto filial que el acto del siervo
+pero es entrańable y filial, y encierra más afecto filial que el acto del siervo
 
-que trae la comida, que arregla la cama o que desempea cualquier otro servicio
+que trae la comida, que arregla la cama o que desempeńa cualquier otro servicio
 
-ms esencial. Le proporcionan un gran placer al pequeito y expresan su amor.
+más esencial. Le proporcionan un gran placer al pequeńito y expresan su amor.
 
-Nadie que no sea mi hijo o que no me ame en una medida parecida soara jams
+Nadie que no sea mi hijo o que no me ame en una medida parecida sońaría jamás
 
-en hacer de ese servicio su especialidad. La pequeez del acto lo adapta a la
+en hacer de ese servicio su especialidad. La pequeńez del acto lo adapta a la
 
-capacidad del nio, y hay tambin algo en l que lo convierte en una expresin
+capacidad del nińo, y hay también algo en él que lo convierte en una expresión
 
-apropiada del afecto de un nio.
+apropiada del afecto de un nińo.
 
 Lo mismo sucede con los
 
-pequeos actos hechos para Jess. Con mucha frecuencia los hombres del mundo dan
+pequeńos actos hechos para Jesús. Con mucha frecuencia los hombres del mundo dan
 
 su dinero para la causa de Cristo entregando grandes sumas para caridad o para
 
 las misiones, pero son incapaces de llorar en secreto por los pecados de otros
 
-hombres, o de decir alguna palabra de consuelo a algn santo afligido. Visitar
+hombres, o de decir alguna palabra de consuelo a algún santo afligido. Visitar
 
-a una pobre mujer enferma, ensear a un pequeito, rescatar de la calle a un forastero,
+a una pobre mujer enferma, enseńar a un pequeńito, rescatar de la calle a un forastero,
 
-musitar una oracin por los enemigos o susurrar una promesa a odos de algn
+musitar una oración por los enemigos o susurrar una promesa a oídos de algún
 
-santo abatido, puede mostrar ms la relacin filial que edificar una hilera de
+santo abatido, puede mostrar más la relación filial que edificar una hilera de
 
-casas de beneficencia o hacer una donacin a una iglesia.
+casas de beneficencia o hacer una donación a una iglesia.
 
-En los pequeos actos
+En los pequeńos actos
 
 hechos para Cristo es bueno recordar siempre que
 
@@ -358,193 +358,193 @@ es tan necesario hacer las
 
 cosas
 
-pequeas como los actos ms grandes.
+pequeńas como los actos más grandes.
 
 Si no son lavados los pies de Cristo, si
 
-Sus sandalias no son desatadas, l podra sufrir y Sus pies pudieran
+Sus sandalias no son desatadas, Él podría sufrir y Sus pies pudieran
 
 estropearse, de tal forma que un viaje Suyo pudiera ser acortado y muchas
 
-aldeas pudieran perderse de la bendicin de Su presencia. Lo mismo sucede con
+aldeas pudieran perderse de la bendición de Su presencia. Lo mismo sucede con
 
 otras cosas de menor importancia. Hay tanta necesidad de las silenciosas
 
-intercesiones de los santos como de la predicacin pblica de la verdad de Dios
+intercesiones de los santos como de la predicación pública de la verdad de Dios
 
-delante de los miles de personas congregadas. Es tan necesario que los bebs
+delante de los miles de personas congregadas. Es tan necesario que los bebés
 
-aprendan sus pequeos himnos como que los monarcas sean reprendidos por el
+aprendan sus pequeńos himnos como que los monarcas sean reprendidos por el
 
-pecado. Recordamos la vieja historia de cmo se perdi la batalla debido a la
+pecado. Recordamos la vieja historia de cómo se perdió la batalla debido a la
 
 ausencia de un solo clavo en una herradura, y pudiera ser que hasta ahora la
 
 iglesia hubiera perdido su batalla por Cristo debido a que alguna obra menor
 
-que debi hacerse para Jess hubiere sido descuidada. No me sorprendera si resultara
+que debió hacerse para Jesús hubiere sido descuidada. No me sorprendería si resultara
 
 que muchas iglesias no han disfrutado de prosperidad porque mientras han
 
-prestado atencin al ministerio pblico y a las ordenanzas visibles, han
+prestado atención al ministerio público y a las ordenanzas visibles, han
 
-desatendido alguna utilidad menor. Ms de un carruaje se malogra por falta de
+desatendido alguna utilidad menor. Más de un carruaje se malogra por falta de
 
-atencin a la pieza clave. Un asunto muy insignificante hace que la flecha se
+atención a la pieza clave. Un asunto muy insignificante hace que la flecha se
 
-desve del blanco. Ensearle a un nio a cantar: Tierno Jess y orientar su
+desvíe del blanco. Enseńarle a un nińo a cantar: “Tierno Jesús” y orientar su
 
-joven corazn al Redentor, pudiera parecer una menudencia, pero pudiera ser una
+joven corazón al Redentor, pudiera parecer una menudencia, pero pudiera ser una
 
-parte sumamente esencial del proceso de esa agraciada obra de una educacin
+parte sumamente esencial del proceso de esa agraciada obra de una educación
 
-religiosa por la cual el nio se convertir posteriormente en un creyente, en
+religiosa por la cual el nińo se convertirá posteriormente en un creyente, en
 
-un ministro y en un ganador de almas. Si omites esa primera leccin pudiera ser
+un ministro y en un ganador de almas. Si omites esa primera lección pudiera ser
 
 que hubieras desviado una vida.
 
 Tomen otro ejemplo. Una
 
-vez se anunci que un predicador iba a predicar en una oscura aldea pero luego
+vez se anunció que un predicador iba a predicar en una oscura aldea pero luego
 
-se desat una terrible tormenta, y, aunque el predicador mantuvo su compromiso,
+se desató una terrible tormenta, y, aunque el predicador mantuvo su compromiso,
 
-descubri que slo haba asistido una persona al lugar de reunin. l le
+descubrió que sólo había asistido una persona al lugar de reunión. Él le
 
-predic a ese nico oyente un sermn tan denodado como si la casa hubiese
+predicó a ese único oyente un sermón tan denodado como si la casa hubiese
 
-estado atestada. Aos despus se enter de que haba nuevas iglesias por todo
+estado atestada. Ańos después se enteró de que había nuevas iglesias por todo
 
-el distrito, y descubri que su nico oyente de aquel da haba sido convertido
+el distrito, y descubrió que su único oyente de aquel día había sido convertido
 
-y se haba constituido en el evangelista de toda esa regin. Si hubiera declinado
+y se había constituido en el evangelista de toda esa región. Si hubiera declinado
 
-predicarle a aquel oyente solitario, cuntas bendiciones habran sido retenidas.
+predicarle a aquel oyente solitario, cuántas bendiciones habrían sido retenidas.
 
 Hermanos, nunca dejen de desatar la correa del calzado de Cristo ya que no
 
-saben qu pudiera resultar de ello. El destino humano gira a menudo sobre una
+saben qué pudiera resultar de ello. El destino humano gira a menudo sobre una
 
-bisagra tan pequea que es casi invisible. Nunca digan en su interior: Esto es
+bisagra tan pequeńa que es casi invisible. Nunca digan en su interior: “Esto es
 
-trivial, pues no hay nada trivial para el Seor. No digan nunca: Pero esto
+trivial”, pues no hay nada trivial para el Seńor. No digan nunca: “Pero esto
 
-ciertamente pudiera omitirse sin mayores prdidas. Cmo lo sabes? Si se
+ciertamente pudiera omitirse sin mayores pérdidas”. żCómo lo sabes? Si se
 
-tratase de tu deber, aquel que te asign tu tarea saba lo que haca. No
+tratase de tu deber, aquel que te asignó tu tarea sabía lo que hacía. No
 
-desatiendas en ninguna medida porcin alguna de Sus rdenes, pues en todos Sus
+desatiendas en ninguna medida porción alguna de Sus órdenes, pues en todos Sus
 
-mandamientos hay consumada sabidura, y sera sabio de tu parte obedecerlos aun
+mandamientos hay consumada sabiduría, y sería sabio de tu parte obedecerlos aun
 
 hasta en las jotas y las tildes.
 
-Adems, las pequeas
+Además, las pequeńas
 
 cosas hechas para Cristo son
 
 a menudo las
 
-mejores pruebas de la verdad de nuestra religin.
+mejores pruebas de la verdad de nuestra religión.
 
 La obediencia en las
 
-cosas pequeas tiene mucho que ver con el carcter de un siervo. Si contratas a
+cosas pequeńas tiene mucho que ver con el carácter de un siervo. Si contratas a
 
 una criada para tu hogar, sabes muy bien si es una buena o una mala sirvienta
 
-basndote en que los principales deberes del da son atendidos con seguridad:
+basándote en que los principales deberes del día son atendidos con seguridad:
 
-los alimentos sern cocinados, las camas sern arregladas, la casa ser barrida
+los alimentos serán cocinados, las camas serán arregladas, la casa será barrida
 
-y la puerta ser atendida; pero la diferencia entre una criada que es la
+y la puerta será atendida; pero la diferencia entre una criada que es la
 
-felicidad del hogar y otra que es su plaga, radica en un nmero de pequeos
+felicidad del hogar y otra que es su plaga, radica en un número de pequeńos
 
 detalles que tal vez no puedas poner en un papel, pero que constituyen en gran
 
-manera la comodidad o la incomodidad domstica, y por eso determinan el valor
+manera la comodidad o la incomodidad doméstica, y por eso determinan el valor
 
 de una criada. Lo mismo sucede, creo yo, en la vida cristiana; yo no creo que
 
-la mayora de nosotros aqu omitiramos jams los asuntos de ms peso de la
+la mayoría de nosotros aquí omitiríamos jamás los asuntos de más peso de la
 
 ley; como cristianos nos esforzamos por mantener la integridad y la rectitud en
 
 nuestras acciones, y procuramos ordenar nuestros hogares en el temor de Dios en
 
-los grandes asuntos; pero el espritu de obediencia se manifiesta
+los grandes asuntos; pero el espíritu de obediencia se manifiesta
 
-principalmente fijando la mirada en el Seor en los pequeos detalles; es visto
+principalmente fijando la mirada en el Seńor en los pequeńos detalles; es visto
 
-en que tenemos puesta la mira en el Seor, como los ojos de las doncellas estn
+en que tenemos puesta la mira en el Seńor, como los ojos de las doncellas están
 
-puestos en sus amas para recibir las rdenes cotidianas acerca de este paso y
+puestos en sus amas para recibir las órdenes cotidianas acerca de este paso y
 
-de esa transaccin. El espritu que es realmente obediente desea conocer la
+de esa transacción. El espíritu que es realmente obediente desea conocer la
 
-voluntad de Dios respecto a todo, y si hubiese algn punto que al mundo le
+voluntad de Dios respecto a todo, y si hubiese algún punto que al mundo le
 
-pareciera trivial, por esa misma razn el espritu obediente dice: Voy a
+pareciera trivial, por esa misma razón el espíritu obediente dice: “Voy a
 
-atenderlo para demostrarle a mi Seor que aun en las minucias yo deseo someter
+atenderlo para demostrarle a mi Seńor que aun en las minucias yo deseo someter
 
-mi alma a Su complacencia. En las cosas pequeas se encuentran los crisoles y
+mi alma a Su complacencia”. En las cosas pequeńas se encuentran los crisoles y
 
-las piedras de toque. Cualquier hipcrita vendra a la adoracin dominical,
+las piedras de toque. Cualquier hipócrita vendría a la adoración dominical,
 
-pero no es cualquier hipcrita el que asistira a las reuniones de oracin o el
+pero no es cualquier hipócrita el que asistiría a las reuniones de oración o el
 
-que leera
+que leería
 
 la Biblia
 
-en secreto, o el que hablara privadamente de las cosas de Dios a los santos.
+en secreto, o el que hablaría privadamente de las cosas de Dios a los santos.
 
-Esta son cosas menores -as las juzgan ellos- y por eso las desatienden, y as
+Esta son cosas menores -así las juzgan ellos- y por eso las desatienden, y así
 
-se condenan ellos mismos. Donde hay una religin profunda hay amor por la
+se condenan ellos mismos. Donde hay una religión profunda hay amor por la
 
-oracin; donde la religin es superficial, slo importan los actos pblicos de
+oración; donde la religión es superficial, sólo importan los actos públicos de
 
-adoracin. Descubrirn que lo mismo es vlido en otras cosas. Un hombre que no
+adoración. Descubrirán que lo mismo es válido en otras cosas. Un hombre que no
 
-es cristiano con toda probabilidad no te dir una mentira descarada dicindote
+es cristiano con toda probabilidad no te dirá una mentira descarada diciéndote
 
-que lo negro es blanco, pero no dudara en declarar sin reparos que el beige es
+que lo negro es blanco, pero no dudaría en declarar sin reparos que el beige es
 
-blanco. Pero el cristiano no recorrera ni la mitad del camino hacia la
+blanco. Pero el cristiano no recorrería ni la mitad del camino hacia la
 
-falsedad, es ms, rehusara avanzar aunque slo fuera una pulgada sobre ese
+falsedad, es más, rehusaría avanzar aunque sólo fuera una pulgada sobre ese
 
-camino. As como no te engaara con dos mil libras esterlinas, tampoco te
+camino. Así como no te engańaría con dos mil libras esterlinas, tampoco te
 
-engaara con la minucia de dos peniques. As como no te robara un codo,
+engańaría con la minucia de dos peniques. Así como no te robaría un codo,
 
-tampoco te robara una pulgada. Lo genuino del cristiano se hace visible en lo
+tampoco te robaría una pulgada. Lo genuino del cristiano se hace visible en lo
 
-pequeo; el sello del Saln de los Orfebres es un detalle muy pequeo, pero
+pequeńo; el sello del Salón de los Orfebres es un detalle muy pequeńo, pero
 
-gracias a l se puede reconocer a la verdadera plata. Hay una vastsima
+gracias a él se puede reconocer a la verdadera plata. Hay una vastísima
 
 diferencia entre el hombre que lleva con gusto el calzado de Cristo, y otro que
 
-no se quiere encorvar ante nada que considere que no est a su altura. Incluso
+no se quiere encorvar ante nada que considere que no está a su altura. Incluso
 
-un fariseo invitar a Cristo a su casa para que coma con l, pues est
+un fariseo invitará a Cristo a su casa para que coma con él, pues está
 
-dispuesto a invitar a un gran lder religioso a su mesa; pero no es cualquiera
+dispuesto a invitar a un gran líder religioso a su mesa; pero no es cualquiera
 
-el que est dispuesto a desatar encorvado la correa de Su calzado, pues ese
+el que está dispuesto a desatar encorvado la correa de Su calzado, pues ese
 
-mismo fariseo que hizo la fiesta no le llev agua para que lavara Sus pies, ni
+mismo fariseo que hizo la fiesta no le llevó agua para que lavara Sus pies, ni
 
-le dio el beso de bienvenida; demostr la insinceridad de su hospitalidad
+le dio el beso de bienvenida; demostró la insinceridad de su hospitalidad
 
-olvidando los pequeos detalles. Me veo obligado a decir que Marta y Mara no
+olvidando los pequeńos detalles. Me veo obligado a decir que Marta y María no
 
-olvidaron nunca desatar la correa de Su calzado, y que Lzaro nunca dej de ver
+olvidaron nunca desatar la correa de Su calzado, y que Lázaro nunca dejó de ver
 
 que Sus pies estuvieran lavados. Entonces, como cristianos al servicio de
 
@@ -552,51 +552,51 @@ Cristo, les ruego que pongan la mira en las cosas oscuras, en las cosas que no
 
 son reconocidas por los hombres, en los asuntos que no conllevan honor, pues
 
-por esto ser probado su amor.
+por esto será probado su amor.
 
-Respecto a las pequeas
+Respecto a las pequeńas
 
-obras, noten tambin que muy a menudo
+obras, noten también que muy a menudo
 
 encierran
 
-un grado de comunin personal con Cristo que no es visto en una obra ms grande.
+un grado de comunión personal con Cristo que no es visto en una obra más grande.
 
 Por ejemplo, la obra que tenemos ante nosotros: desatar la correa de Su
 
-calzado, me pone en contacto con l mismo, aunque slo sea que toque Sus pies;
+calzado, me pone en contacto con Él mismo, aunque sólo sea que toque Sus pies;
 
 y yo pienso que si se me permitiera decidir entre salir para echar fuera a los
 
-demonios y predicar el Evangelio y sanar a los enfermos, o quedarme con l y
+demonios y predicar el Evangelio y sanar a los enfermos, o quedarme con Él y
 
-desatar siempre la correa de Su calzado, yo preferira esto ltimo, porque el
+desatar siempre la correa de Su calzado, yo preferiría esto último, porque el
 
-primer acto que realiz Judas fue ir con los doce y ver a Satans caer del
+primer acto que realizó Judas fue ir con los doce y ver a Satanás caer del
 
-cielo como un rayo, pero pereci porque fall en los actos que entraban en contacto
+cielo como un rayo, pero pereció porque falló en los actos que entraban en contacto
 
-con Cristo: fue un ladrn teniendo la bolsa de Cristo, y fue un traidor besando
+con Cristo: fue un ladrón teniendo la bolsa de Cristo, y fue un traidor besando
 
 a Cristo. El que no falla en cosas relacionadas personalmente con Cristo es el
 
-hombre confiable que tiene la evidencia de la justicia de corazn. No hubo
+hombre confiable que tiene la evidencia de la justicia de corazón. No hubo
 
-nunca una mayor accin realizada bajo las estrellas que cuando la mujer rompi
+nunca una mayor acción realizada bajo las estrellas que cuando la mujer rompió
 
-su frasco de alabastro de precioso ungento y lo derram sobre l; aunque los
+su frasco de alabastro de precioso ungüento y lo derramó sobre Él; aunque los
 
-pobres no se beneficiaron con eso, aunque ningn enfermo se restableci por
+pobres no se beneficiaron con eso, aunque ningún enfermo se restableció por
 
-eso, el acto fue realizado claramente para l, y, por tanto, encerraba una
+eso, el acto fue realizado claramente para Él, y, por tanto, encerraba una
 
 peculiar dulzura. Con frecuencia acciones similares -debido a que no motivan a
 
 otras personas porque las desconocen y debido a que pudieran ser de escaso
 
-valor para sus prjimos- son menospreciadas, pero en vista de que son hechas
+valor para sus prójimos- son menospreciadas, pero en vista de que son hechas
 
-para Cristo, estn acompaadas de un encanto peculiar porque concluyen en Su
+para Cristo, están acompańadas de un encanto peculiar porque concluyen en Su
 
 bendita persona. Es cierto que no es otra cosa que desatar la correa del
 
@@ -606,113 +606,113 @@ Su
 
 calzado
 
-y eso ennoblece la accin.
+y eso ennoblece la acción.
 
-Queridos compaeros cristianos,
+Queridos compańeros cristianos,
 
-saben a qu me refiero aunque no pueda expresarlo en un lenguaje muy bueno esta
+saben a qué me refiero aunque no pueda expresarlo en un lenguaje muy bueno esta
 
-maana; quiero decir simplemente esto: que si hubiese algo pequeo que pudiera
+mańana; quiero decir simplemente esto: que si hubiese algo pequeńo que pudiera
 
 hacer por Cristo, aunque mi ministro no se entere al respecto, aunque los
 
-diconos y los ancianos no lo sepan, y nadie ms se entere; y si dejara de
+diáconos y los ancianos no lo sepan, y nadie más se entere; y si dejara de
 
-hacerlo nadie sufrira ninguna calamidad por ello pero, si lo hiciera,
+hacerlo nadie sufriría ninguna calamidad por ello pero, si lo hiciera,
 
-complacera a mi Seor y gozara del sentido de haberlo hecho para l, entonces
+complacería a mi Seńor y gozaría del sentido de haberlo hecho para Él, entonces
 
 voy a atenderlo, pues no es ninguna obra nimia si es
 
-para l.
+para Él.
 
-Adems, en lo concerniente
+Además, en lo concerniente
 
-a esas agraciadas acciones que son poco estimadas por la mayora de la
+a esas agraciadas acciones que son poco estimadas por la mayoría de la
 
-humanidad, fjense tambin que sabemos que
+humanidad, fíjense también que sabemos que
 
 Dios
 
-acepta nuestra adoracin en las cosas pequeas.
+acepta nuestra adoración en las cosas pequeńas.
 
-l permita que Su pueblo
+Él permitía que Su pueblo
 
 llevara sus novillos, que otros llevaran sus carneros y que se los ofrecieran a
 
-l; y esas eran personas con la suficiente riqueza como para poder ofrecer un
+Él; y esas eran personas con la suficiente riqueza como para poder ofrecer un
 
-tributo de sus manadas y de sus rebaos, pero tambin permita que los pobres
+tributo de sus manadas y de sus rebańos, pero también permitía que los pobres
 
-ofrecieran un par de trtolas o dos palominos, y yo no he encontrado nunca en
+ofrecieran un par de tórtolas o dos palominos, y yo no he encontrado nunca en
 
-la palabra de Dios que l le diera menos importancia a la ofrenda de las
+la palabra de Dios que Él le diera menos importancia a la ofrenda de las
 
-trtolas que al sacrificio de los novillos. Yo s tambin que nuestro siempre
+tórtolas que al sacrificio de los novillos. Yo sé también que nuestro siempre
 
-bendito Seor, mientras estuvo aqu, am la alabanza de los nios. No llevaban
+bendito Seńor, mientras estuvo aquí, amó la alabanza de los nińos. No llevaban
 
 consigo ni oro ni plata como los magos del oriente, pero proclamaban:
 
-Hosanna, y el Seor no estaba molesto con sus Hosannas, sino que aceptaba su
+“Hosanna”, y el Seńor no estaba molesto con sus Hosannas, sino que aceptaba su
 
-alabanza infantil. Y recordamos que una viuda ech en el arca de la ofrenda dos
+alabanza infantil. Y recordamos que una viuda echó en el arca de la ofrenda dos
 
-blancas, que slo eran un cuadrante, pero, debido a que era todo su sustento, l
+blancas, que sólo eran un cuadrante, pero, debido a que era todo su sustento, Él
 
-no rechaz la ofrenda y ms bien la registr para honra de ella. Nosotros estamos
+no rechazó la ofrenda y más bien la registró para honra de ella. Nosotros estamos
 
-ahora muy familiarizados con el incidente, pero, aun as, es muy asombroso. Dos
+ahora muy familiarizados con el incidente, pero, aun así, es muy asombroso. ˇDos
 
-blancas que son un cuadrante, ofrendadas al Dios infinito! Un cuadrante que es
+blancas que son un cuadrante, ofrendadas al Dios infinito! ˇUn cuadrante que es
 
 aceptado por el Rey de reyes! Un cuadrante reconocido por Aquel que hizo los
 
-cielos y la tierra, que dice: Si yo tuviese hambre, no te lo dira a ti,
+cielos y la tierra, que dice: “Si yo tuviese hambre, no te lo diría a ti,
 
-porque mo es el mundo y su plenitud. Dos blancas recibidas con placer por el
+porque mío es el mundo y su plenitud”. ˇDos blancas recibidas con placer por el
 
-Seor de todo! Era escasamente como una gota derramada en el ocano, y sin
+Seńor de todo! Era escasamente como una gota derramada en el océano, y sin
 
 embargo,
 
-l
+Él
 
 lo consideraba como
 
-mucho. Por tanto, no midan las pequeas acciones segn los pesos y medidas humanos,
+mucho. Por tanto, no midan las pequeńas acciones según los pesos y medidas humanos,
 
-sino calclenlas como lo hace Dios, pues el Seor tiene respeto por los
+sino calcúlenlas como lo hace Dios, pues el Seńor tiene respeto por los
 
-corazones de Su pueblo. l no considera tanto sus actos en s mismos como los
+corazones de Su pueblo. Él no considera tanto sus actos en sí mismos como los
 
 motivos por los que los realizan. Por tanto, valoren el desatar la correa del
 
-calzado del Salvador, y no desprecien el da de las cosas pequeas.
+calzado del Salvador, y no desprecien el día de las cosas pequeńas.
 
 II.
 
 Ahora,
 
-hermanos y hermanas, en segundo lugar, deseo conducirlos a la consideracin de
+hermanos y hermanas, en segundo lugar, deseo conducirlos a la consideración de
 
 NUESTRA PROPIA INDIGNIDAD, que ha de sentirse con certeza siempre que entramos
 
-en contacto con cualquier servicio cristiano real, en la prctica. Yo creo que
+en contacto con cualquier servicio cristiano real, en la práctica. Yo creo que
 
-el hombre que no hace nada en absoluto se considera a s mismo un buen sujeto,
+el hombre que no hace nada en absoluto se considera a sí mismo un buen sujeto,
 
-como regla general. Descubrirn usualmente que los crticos ms mordaces son
+como regla general. Descubrirán usualmente que los críticos más mordaces son
 
 aquellos que nunca escriben, y los mejores jueces de las batallas son aquellos
 
-que se mantienen a una prudente distancia de los caones. Los cristianos del orden
+que se mantienen a una prudente distancia de los cańones. Los cristianos del ‘orden
 
-de los guantes de seda, que nunca hacen ningn intento por salvar almas, son
+de los guantes de seda’, que nunca hacen ningún intento por salvar almas, son
 
-maravillosamente veloces en decirnos cundo somos demasiado rudos o demasiado
+maravillosamente veloces en decirnos cuándo somos demasiado rudos o demasiado
 
-frvolos en nuestro lenguaje; y detectan fcilmente si nuestros modos de actuar
+frívolos en nuestro lenguaje; y detectan fácilmente si nuestros modos de actuar
 
 son irregulares o demasiado entusiastas. Tienen un olfato muy agudo para
 
@@ -722,9 +722,9 @@ siento muy seguro cuando recibo las censuras de esos caballeros pues no estamos
 
 demasiado errados cuando ellos nos condenan. Tan pronto como una persona
 
-comienza seriamente a trabajar para el Seor Jess, pronto se da cuenta de que
+comienza seriamente a trabajar para el Seńor Jesús, pronto se da cuenta de que
 
-es indigna del lugar ms humilde en el servicio de alguien tan glorioso.
+es indigna del lugar más humilde en el servicio de alguien tan glorioso.
 
 Reflexionemos un minuto sobre este hecho.
 
@@ -734,153 +734,153 @@ hermanas, cuando nosotros
 
 recordamos lo
 
-que solamos ser,
+que solíamos ser,
 
 estoy seguro de que debemos sentirnos indignos de hacer
 
-lo ms mnimo por Cristo. Ustedes saben cmo Pablo describe la impiedad de
+lo más mínimo por Cristo. Ustedes saben cómo Pablo describe la impiedad de
 
-ciertos transgresores, y aade: y esto erais algunos. Qu dureza de corazn
+ciertos transgresores, y ańade: “y esto erais algunos”. ˇQué dureza de corazón
 
-exhibimos algunos de nosotros para con Dios! Qu rebelin! Qu obstinacin!
+exhibimos algunos de nosotros para con Dios! ˇQué rebelión! ˇQué obstinación!
 
-Qu apagamiento de Su Espritu! Vamos, si yo pudiera encorvarme para desatar
+ˇQué apagamiento de Su Espíritu! Vamos, si yo pudiera encorvarme para desatar
 
-la correa del calzado de ese pie que fue crucificado por m, rociara el agujero
+la correa del calzado de ese pie que fue crucificado por mí, rociaría el agujero
 
-del clavo con mis lgrimas, y dira: Salvador mo, es posible que se me
+del clavo con mis lágrimas, y diría: “Salvador mío, żes posible que se me
 
-permita alguna vez tocar Tus pies? Seguramente, el hijo prdigo, si alguna vez
+permita alguna vez tocar Tus pies?” Seguramente, el hijo pródigo, si alguna vez
 
-desat la correa del calzado de su padre, se dira: Vamos, estas manos
+desató la correa del calzado de su padre, se diría: “Vamos, estas manos
 
 alimentaron a los cerdos, estas manos fueron mancilladas a menudo por las
 
-rameras; yo viva en la inmundicia, y fui primero un juerguista y luego un porquero,
+rameras; yo vivía en la inmundicia, y fui primero un juerguista y luego un porquero,
 
-y es un amor asombroso el que me permite servir ahora a un padre tan bueno.
+y es un amor asombroso el que me permite servir ahora a un padre tan bueno”.
 
-Los ngeles en el cielo envidiaran
+Los ángeles en el cielo envidiarían
 
-al hombre al que se le permite hacer la cosa ms nimia para Cristo, y, sin
+al hombre al que se le permite hacer la cosa más nimia para Cristo, y, sin
 
-embargo, ellos no pecaron nunca. Oh, qu favor es que nosotros, que estamos
+embargo, ellos no pecaron nunca. Oh, qué favor es que nosotros, que estamos
 
 contaminados por el pecado, seamos llamados a servir al Salvador inmaculado.
 
 Pero, entonces, otra
 
-reflexin viene a espaldas de la primera nosotros
+reflexión viene a espaldas de la primera –nosotros
 
 recordamos lo que somos
 
-as como lo que ramos- y digo lo que
+así como lo que éramos- y digo lo que
 
-somos, pues aunque hemos sido lavados en la sangre de Jess, y hemos sido
+somos, pues aunque hemos sido lavados en la sangre de Jesús, y hemos sido
 
-dotados de un nuevo corazn y de un espritu recto, con todo, nos volvimos como
+dotados de un nuevo corazón y de un espíritu recto, con todo, nos volvimos como
 
-arco engaoso pues la corrupcin habita en nosotros. Algunas veces es un
+arco engańoso pues la corrupción habita en nosotros. Algunas veces es un
 
 trabajo duro mantener siquiera un poco de fe, pues somos de una mente muy
 
-indecisa, muy inestable, muy caliente, muy fra, muy denodada y luego muy
+indecisa, muy inestable, muy caliente, muy fría, muy denodada y luego muy
 
-negligente; somos tan de todo excepto lo que deberamos ser, que muy bien
+negligente; somos tan de todo excepto lo que deberíamos ser, que muy bien
 
-podemos asombrarnos de que Cristo nos permita hacer lo que es menos para l. Si
+podemos asombrarnos de que Cristo nos permita hacer lo que es menos para Él. Si
 
-fuera a encerrarnos en prisin y fuera a mantenernos all, en tanto que no nos
+fuera a encerrarnos en prisión y fuera a mantenernos allí, en tanto que no nos
 
-ejecutara, estara actuando con nosotros segn la misericordia, y no estara
+ejecutara, estaría actuando con nosotros según la misericordia, y no estaría
 
-dndonos nuestro pleno merecimiento; y sin embargo, l nos saca de la prisin,
+dándonos nuestro pleno merecimiento; y sin embargo, Él nos saca de la prisión,
 
 y nos pone a Su servicio, y por tanto, sentimos que somos indignos de realizar
 
-la accin ms insignificante en Su casa.
+la acción más insignificante en Su casa.
 
-Adems, amados, aun
+Además, amados, aun
 
-sentimos que los pequeos servicios requieren
+sentimos que los pequeńos servicios requieren
 
-un mejor estado de corazn del que a menudo tenemos.
+un mejor estado de corazón del que a menudo tenemos.
 
 Yo estoy seguro de que
 
-el servicio de predicar el Evangelio aqu, pone a menudo ante mi vista mi
+el servicio de predicar el Evangelio aquí, pone a menudo ante mi vista mi
 
-indignidad mucho ms de lo que de otra manera la vera. Si es una cosa
+indignidad mucho más de lo que de otra manera la vería. Si es una cosa
 
 agraciada ver la pecaminosidad de uno, doy gracias a Dios porque predico el
 
 Evangelio, pues me hace verla. Algunas veces venimos a predicar acerca de
 
-Jesucristo y lo glorificamos, y con todo, nuestro corazn no arde por l y no
+Jesucristo y lo glorificamos, y con todo, nuestro corazón no arde por Él y no
 
 lo valoramos debidamente; mientras que el texto sobre el que estamos predicando
 
-lo sienta sobre un trono excelso, nuestro corazn no lo est colocando all; y
+lo sienta sobre un trono excelso, nuestro corazón no lo está colocando allí; y
 
-oh, entonces pensamos que podramos arrancar nuestro corazn de nuestro propio
+oh, entonces pensamos que podríamos arrancar nuestro corazón de nuestro propio
 
-cuerpo, si pudiramos liberarnos de las negras gotas de su depravacin que
+cuerpo, si pudiéramos liberarnos de las negras gotas de su depravación que
 
-impide que nos sintamos unidos con la gloriosa verdad que est ante nosotros.
+impide que nos sintamos unidos con la gloriosa verdad que está ante nosotros.
 
 En otro momento, tal vez, tenemos que invitar a los pecadores y buscar llevarlos
 
-a Cristo, y eso requiere tanta simpata que si Cristo estuviese predicando
+a Cristo, y eso requiere tanta simpatía que si Cristo estuviese predicando
 
-nuestro sermn lo regara con Sus lgrimas; pero, nosotros lo predicamos con
+nuestro sermón lo regaría con Sus lágrimas; pero, nosotros lo predicamos con
 
-ojos secos, casi sin emocin, y luego azotamos a nuestro empedernido corazn
+ojos secos, casi sin emoción, y luego azotamos a nuestro empedernido corazón
 
 porque no se conmueve y no podemos hacerlo sentir. Sucede exactamente lo mismo
 
-con otros deberes. Tal vez hayan sentido esto: tengo que ir a dar mi clase
+con otros deberes. Tal vez hayan sentido esto: “tengo que ir a dar mi clase
 
 esta tarde, pero no me siento bien, he estado abrumado toda la semana con
 
-afanes y mi mente no est a la altura ahora para cumplir con ese deber; yo
+afanes y mi mente no está a la altura ahora para cumplir con ese deber; yo
 
-espero amar a mi Seor, pero no estoy seguro si lo amo o no. Debo ser denodado
+espero amar a mi Seńor, pero no estoy seguro si lo amo o no. Debo ser denodado
 
-acerca de estos chicos y chicas, pero como es muy probable que no ser
+acerca de estos chicos y chicas, pero como es muy probable que no seré
 
-denodado, me sentar y cumplir con mi tarea de ensear como lo hara una lora,
+denodado, me sentaré y cumpliré con mi tarea de enseńar como lo haría una lora,
 
-sin vida, sin amor. S, entonces sientes dolorosamente que no eres digno de desatar
+sin vida, sin amor”. Sí, entonces sientes dolorosamente que no eres digno de desatar
 
-la correa del calzado de tu Seor. Posiblemente irs esta tarde a visitar a un
+la correa del calzado de tu Seńor. Posiblemente irás esta tarde a visitar a un
 
-moribundo, y tratars de hablarle acerca del camino al cielo. l es un
+moribundo, y tratarás de hablarle acerca del camino al cielo. Él es un
 
 inconverso. Ahora bien, necesitas una lengua de fuego para hablar, pero, en vez
 
-de eso, tienes una lengua de hielo; sientes: Oh, Dios, cmo puede ser que me
+de eso, tienes una lengua de hielo; sientes: “Oh, Dios, żcómo puede ser que me
 
-siente junto a ese lecho y piense en ese pobre hombre que estar en las llamas
+siente junto a ese lecho y piense en ese pobre hombre que estará en las llamas
 
 del infierno, tal vez, dentro de una semana, a menos que reciba a Cristo, y, no
 
-obstante, voy a tratar framente su condicin tremendamente peligrosa como si
+obstante, voy a tratar fríamente su condición tremendamente peligrosa como si
 
-fuese un asunto de la ms nimia importancia? S, s, s, hemos tenido que
+fuese un asunto de la más nimia importancia?” Sí, sí, sí, hemos tenido que
 
 sentir cientos de veces que no somos aptos en nosotros ni por nosotros para
 
-nada. Si el Seor quisiera ayudantes en Su cocina, pudiera conseguir mejores
+nada. Si el Seńor quisiera ayudantes en Su cocina, pudiera conseguir mejores
 
-personas que nosotros; y si l necesitara a alguien para palear los desechos de
+personas que nosotros; y si Él necesitara a alguien para palear los desechos de
 
-Su casa, podra encontrar mejores hombres que nosotros para eso. Somos indignos
+Su casa, podría encontrar mejores hombres que nosotros para eso. Somos indignos
 
 de ser siervos de un tal Maestro.
 
 El mismo sentimiento
 
-nace de otra manera. Acaso no tenemos que confesar, hermanos y hermanas, al
+nace de otra manera. żAcaso no tenemos que confesar, hermanos y hermanas, al
 
 ver lo que hemos hecho por Cristo, que
 
@@ -890,251 +890,251 @@ demasiado al yo en nuestra conducta?
 
 Elegimos muy cuidadosamente nuestro
 
-trabajo, y nuestra seleccin es guiada por el instinto de respeto de nosotros
+trabajo, y nuestra selección es guiada por el instinto de respeto de nosotros
 
 mismos. Si se nos pide que hagamos lo que es agradable para nosotros, lo
 
-hacemos. Si se nos pide que asistamos a una reunin donde seremos recibidos con
+hacemos. Si se nos pide que asistamos a una reunión donde seremos recibidos con
 
-aclamacin, si se nos pide que desempeos un servicio que nos har subir en la
+aclamación, si se nos pide que desempeńos un servicio que nos hará subir en la
 
-escala social, o que nos destacar entre nuestros compaeros cristianos, vamos
+escala social, o que nos destacará entre nuestros compańeros cristianos, vamos
 
-tras l como un pez tras una mosca; pero, supongamos que la obra nos acarrear
+tras él como un pez tras una mosca; pero, supongamos que la obra nos acarreará
 
-vergenza, supongamos que descubrir ante el pblico nuestra ineficiencia antes
+vergüenza, supongamos que descubrirá ante el público nuestra ineficiencia antes
 
 que nuestra habilidad, entonces nos excusamos.
 
-El mismo espritu que
+El mismo espíritu que
 
-Moiss sinti cuando el Seor lo llam, est sobre muchos de nosotros. Si
+Moisés sintió cuando el Seńor lo llamó, está sobre muchos de nosotros. “Si
 
-tuviera que hablar por Cristo dice uno- balbuceara y tartamudeara. Como
+tuviera que hablar por Cristo” –dice uno- “balbucearía y tartamudearía”. Como
 
-si Dios no hiciera a las bocas que tartamudean as como a las bocas elocuentes;
+si Dios no hiciera a las bocas que tartamudean así como a las bocas elocuentes;
 
-y como si, cuando escogi a Moiss, no saba qu se encontrara. Moiss tiene
+y como si, cuando escogió a Moisés, no sabía qué se encontraría. Moisés tiene
 
 que ir y tiene que tartamudear por Dios, y glorificar a Dios tartamudeando,
 
-pero a Moiss no le gusta eso; y muchos, en casos similares, no tienen la
+pero a Moisés no le gusta eso; y muchos, en casos similares, no tienen la
 
 gracia suficiente para ir a la obra del todo. Vamos, si yo no puedo honrar al
 
-Seor con diez talentos, rehusar servirle con uno? Si yo no puedo volar como
+Seńor con diez talentos, żrehusaré servirle con uno? Si yo no puedo volar como
 
-un ngel de potentes alas a travs del cielo, y no puedo hacer sonar la
+un ángel de potentes alas a través del cielo, y no puedo hacer sonar la
 
-estridente trompeta como para despertar a los muertos, rehusar ser una
+estridente trompeta como para despertar a los muertos, żrehusaré ser una
 
-abejita y recoger miel cumpliendo la orden del Seor? Slo porque no puedo ser
+abejita y recoger miel cumpliendo la orden del Seńor? Sólo porque no puedo ser
 
-un leviatn, rehusar ser una hormiga? Qu locura y qu rebelin si somos tan
+un leviatán, żrehusaré ser una hormiga? Qué locura y qué rebelión si somos tan
 
 perversos.
 
 Y, si han realizado
 
-cualquier obra santa, no han notado que el orgullo est listo para hacerse
+cualquier obra santa, żno han notado que el orgullo está listo para hacerse
 
-presente? Dios no puede dejarnos tener xito en cualquier obra
+presente? Dios no puede dejarnos tener éxito en cualquier obra
 
-sin que nos volvamos altivos. Oh, cun bien
+sin que nos volvamos altivos. “ˇOh, cuán bien
 
-la hicimos! No queremos que nadie diga: Bien, eso fue hecho con mucha inteligencia,
+la hicimos!” No queremos que nadie diga: “Bien, eso fue hecho con mucha inteligencia,
 
-y muy bien, y muy cuidadosamente, y con mucha seriedad, pues nosotros mismos nos
+y muy bien, y muy cuidadosamente, y con mucha seriedad”, pues nosotros mismos nos
 
-decimos todo eso y agregamos: s, fuiste muy celoso respecto a ese trabajo, y
+decimos todo eso y agregamos: “sí, fuiste muy celoso respecto a ese trabajo, y
 
-has estado haciendo lo que muchsimas personas no habran hecho, y no te has
+has estado haciendo lo que muchísimas personas no habrían hecho, y no te has
 
-jactado tampoco de ello. No llamas a ningn vecino para que lo vea; lo has
+jactado tampoco de ello. No llamas a ningún vecino para que lo vea; lo has
 
 estado haciendo simplemente por amor a Dios, y, por tanto, eres un sujeto
 
-inusualmente humilde, y nadie puede decir que eres vano. Ay!, qu halago,
+inusualmente humilde, y nadie puede decir que eres vano”. ˇAy!, qué halago,
 
-pero verdaderamente Engaoso es el corazn ms que todas las cosas, y
+pero verdaderamente “Engańoso es el corazón más que todas las cosas, y
 
-perverso. Nosotros no somos dignos de desatar la correa del calzado de Jess
+perverso”. Nosotros no somos dignos de desatar la correa del calzado de Jesús
 
-porque, si lo hiciramos, comenzaramos a decirnos: Qu grandes personas somos
+porque, si lo hiciéramos, comenzaríamos a decirnos: “Qué grandes personas somos
 
-pues se nos ha permitido que desatemos la correa de las sandalias del Seor. Si
+pues se nos ha permitido que desatemos la correa de las sandalias del Seńor”. Si
 
-no se lo decimos a nadie ms con mucha exultacin, al menos nos lo decimos a
+no se lo decimos a nadie más con mucha exultación, al menos nos lo decimos a
 
-nosotros mismos, y sentimos que, despus de todo, somos algo y hemos de ser
+nosotros mismos, y sentimos que, después de todo, somos algo y hemos de ser
 
-tenidos en gran reputacin.
+tenidos en gran reputación.
 
-Hermanos mos,
+Hermanos míos,
 
-deberamos sentir que no somos dignos de hacer la cosa ms insignificante por
+deberíamos sentir que no somos dignos de hacer la cosa más insignificante por
 
 Cristo, porque,
 
 cuando hemos descendido a
 
-lo ms bajo, Jess siempre va ms abajo de lo que hemos ido nosotros.
+lo más bajo, Jesús siempre va más abajo de lo que hemos ido nosotros.
 
-Es
+żEs
 
-poca cosa cargar Su calzado? Cul, entonces, fue Su condescendencia cuando
+poca cosa cargar Su calzado? żCuál, entonces, fue Su condescendencia cuando
 
-lav los pies de Sus discpulos? Aguantar a un hermano irritable, ser amable
+lavó los pies de Sus discípulos? Aguantar a un hermano irritable, ser amable
 
-con l, y sentir: voy a ceder ante l en todo porque soy un cristiano, eso es
+con él, y sentir: “voy a ceder ante él en todo porque soy un cristiano”, eso es
 
-ir muy abajo; pero por otro lado, nuestro Seor ha aguantado mucho ms de
+ir muy abajo; pero por otro lado, nuestro Seńor ha aguantado mucho más de
 
-nosotros. l fue paciente con las debilidades de Su pueblo, y perdon hasta
+nosotros. Él fue paciente con las debilidades de Su pueblo, y perdonó hasta
 
-setenta veces siete. Y suponiendo que estuviramos dispuestos a tomar el lugar
+setenta veces siete. Y suponiendo que estuviéramos dispuestos a tomar el lugar
 
-ms bajo en la iglesia, aun as, Jess tom un lugar ms bajo todava del que
+más bajo en la iglesia, aun así, Jesús tomó un lugar más bajo todavía del que
 
-pudiramos tomar nosotros, pues l tom el lugar de la maldicin: Al que no conoci
+pudiéramos tomar nosotros, pues Él tomó el lugar de la maldición: Al que no conoció
 
-pecado, por nosotros lo hizo pecado, para que nosotros fusemos hechos justicia
+pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia
 
-de Dios en l. Algunas veces me he sentido dispuesto a llegar hasta las puertas
+de Dios en Él. Algunas veces me he sentido dispuesto a llegar hasta las puertas
 
-del infierno para salvar a un alma; pero el Redentor fue ms all, pues l
+del infierno para salvar a un alma; pero el Redentor fue más allá, pues Él
 
-sufri la ira de Dios por las almas. Si hubiese algn cristiano aqu que fuera
+sufrió la ira de Dios por las almas. Si hubiese algún cristiano aquí que fuera
 
-tan humilde que no tuviera pensamientos altivos acerca de s mismo, sino que
+tan humilde que no tuviera pensamientos altivos acerca de sí mismo, sino que
 
-prefiriera ser el ms pequeo entre sus hermanos y as demostrara su grado de
+prefiriera ser el más pequeńo entre sus hermanos y así demostrara su grado de
 
-gracia, con todo, mi querido hermano, no ocupas una posicin tan baja como la
+gracia, con todo, mi querido hermano, no ocupas una posición tan baja como la
 
-que l ocup, pues l se despoj a s mismo, y t no te has despojado de ti
+que Él ocupó, pues Él “se despojó a sí mismo”, y tú no te has despojado de ti
 
-mismo por completo; y l tom forma de siervo, y se hizo obediente hasta la
+mismo por completo; y Él tomó forma de siervo, y se hizo obediente hasta la
 
-muerte, y t no has llegado a eso todava; e incluso a la muerte de cruz: a la
+muerte, y tú no has llegado a eso todavía; e incluso a la muerte de cruz: a la
 
-muerte de un delincuente en el patbulo, y t no llegars nunca a eso. Oh, la
+muerte de un delincuente en el patíbulo, y tú no llegarás nunca a eso. ˇOh, la
 
 condescendencia del admirable amor del Redentor! Compitamos, a partir de ahora,
 
-para ver cun bajo podemos llegar lado a lado con l, pero recuerden que cuando
+para ver cuán bajo podemos llegar lado a lado con Él, pero recuerden que cuando
 
-hayamos ido lo ms abajo que podamos l desciende todava ms abajo, de tal
+hayamos ido lo más abajo que podamos Él desciende todavía más abajo, de tal
 
-manera que podemos sentir verdaderamente que el lugar ms bajo es demasiado
+manera que podemos sentir verdaderamente que el lugar más bajo es demasiado
 
-alto para nosotros, porque l ha ido todava ms abajo.
+alto para nosotros, porque Él ha ido todavía más abajo.
 
 Queridos amigos,
 
-poniendo estas cosas en un plano prctico, pudiera parecerles que hablarle a
+poniendo estas cosas en un plano práctico, pudiera parecerles que hablarle a
 
-una sola persona respecto a su alma es un deber muy pequeo para cualquiera de
+una sola persona respecto a su alma es un deber muy pequeńo para cualquiera de
 
-ustedes. Si se les pidiera que predicaran a cien personas lo intentaran. Les
+ustedes. Si se les pidiera que predicaran a cien personas lo intentarían. Les
 
 pido solemnemente, en el nombre de Dios, que no permitan que el sol se ponga
 
 hoy sin que le hubieren hablado a un hombre o a una mujer respecto de su alma.
 
-No harn eso? Es demasiado insignificante para ustedes? Entonces debo ser
+żNo harán eso? żEs demasiado insignificante para ustedes? Entonces debo ser
 
-claro con ustedes, y debo decirles que no son dignos de hacerlo. Hblenle hoy a
+claro con ustedes, y debo decirles que no son dignos de hacerlo. Háblenle hoy a
 
-un niito acerca de su alma. No digan: Oh, nosotros no les podemos hablar a
+un nińito acerca de su alma. No digan: “Oh, nosotros no les podemos hablar a
 
-los nios, no podemos rebajarnos a su nivel. Que ningn pensamiento de esos
+los nińos, no podemos rebajarnos a su nivel”. Que ningún pensamiento de esos
 
 ocupe alguna de nuestras mentes, pues aunque el trabajo fuese como desatar la
 
 correa del calzado del Maestro, debemos hacerlo. El santo Brainerd, cuando se
 
-estaba muriendo y ya no poda predicarles ms a los indios, tena junto a su
+estaba muriendo y ya no podía predicarles más a los indios, tenía junto a su
 
-lecho a un muchacho indio, y le enseaba sus letras; cuando alguien entr, le
+lecho a un muchacho indio, y le enseńaba sus letras; cuando alguien entró, le
 
-coment: Le ped a Dios que no me dejara vivir ms tiempo del que pudiera ser
+comentó: “Le pedí a Dios que no me dejara vivir más tiempo del que pudiera ser
 
-til, y as, como ya no puedo predicar ms, estoy ensendole a este pobre nio
+útil, y así, como ya no puedo predicar más, estoy enseńándole a este pobre nińo
 
 a leer
 
 la Biblia
 
-.
+”.
 
-No debemos pensar nunca que nos estamos rebajando cuando enseamos a los nios,
+No debemos pensar nunca que nos estamos rebajando cuando enseńamos a los nińos,
 
-pero si eso fuera rebajarse, rebajmonos.
+pero si eso fuera rebajarse, rebajémonos.
 
 Hay algunos de ustedes,
 
-tal vez, que tienen la oportunidad de hacer el bien a mujeres cadas. Rehyen
+tal vez, que tienen la oportunidad de hacer el bien a mujeres caídas. żRehúyen
 
-un trabajo as? Muchos lo hacen. Sienten que pudieran hacer cualquier cosa
+un trabajo así? Muchos lo hacen. Sienten que pudieran hacer cualquier cosa
 
-menos hablarles a ese tipo de mujeres. Es eso desatar la correa del calzado de
+menos hablarles a ese tipo de mujeres. żEs eso desatar la correa del calzado de
 
-tu Maestro? Es, entonces, un oficio honorable; intntalo, hermano. No est por
+tu Maestro? Es, entonces, un oficio honorable; inténtalo, hermano. No está por
 
-debajo de ti si lo haces por Jess; est incluso por encima de los mejores de
+debajo de ti si lo haces por Jesús; está incluso por encima de los mejores de
 
 ustedes y no son dignos de hacerlo. Posiblemente haya cerca de tu casa un
 
 distrito de gente muy pobre. A ti no te gusta mezclarte con esa gente. Son
 
-sucios, y tal vez se han contagiado de alguna enfermedad. Bien, es una lstima
+sucios, y tal vez se han contagiado de alguna enfermedad. Bien, es una lástima
 
-que la gente pobre est sucia tan a menudo, pero la soberbia es sucia tambin.
+que la gente pobre esté sucia tan a menudo, pero la soberbia es sucia también.
 
-Dices: yo no puedo ir all? Por qu no? Eres t un caballero tan finsimo que
+żDices: “yo no puedo ir allí”? żPor qué no? żEres tú un caballero tan finísimo que
 
-tienes miedo de ensuciarte las manos? Entonces t no desatars la correa del
+tienes miedo de ensuciarte las manos? Entonces tú no desatarás la correa del
 
-calzado de tu Maestro. El Seor vivi en medio de los pobres, y fue an ms
+calzado de tu Maestro. El Seńor vivió en medio de los pobres, y fue aún más
 
-pobre que ellos pues no tena dnde reposar Su cabeza. Oh, qu vergenza con
+pobre que ellos pues no tenía dónde reposar Su cabeza. ˇOh, qué vergüenza con
 
-ustedes, perversos y altivos siervos de un condescendiente y amoroso Seor!
+ustedes, perversos y altivos siervos de un condescendiente y amoroso Seńor!
 
-Haz lo que te corresponde, y desata la correa de Su calzado sin demora! En vez
+ˇHaz lo que te corresponde, y desata la correa de Su calzado sin demora! En vez
 
-de imaginar que vas a rebajarte haciendo ese trabajo para Jess, yo te digo que
+de imaginar que vas a rebajarte haciendo ese trabajo para Jesús, yo te digo que
 
-te honrara; en verdad, no eres apto para eso, el honor es demasiado grande
+te honraría; en verdad, no eres apto para eso, el honor es demasiado grande
 
-para ti, y corresponder en suerte a mejores personas.
+para ti, y corresponderá en suerte a mejores personas.
 
 Todo se reduce a esto,
 
 amados: cualquier cosa que se pueda hacer por Cristo es demasiado buena para
 
-que nosotros la hagamos. Se necesita que alguien cuide la puerta! Se necesita
+que nosotros la hagamos. ˇSe necesita que alguien cuide la puerta! ˇSe necesita
 
-que alguien limpie las callejuelas! Se necesita que alguien ensee a unos
+que alguien limpie las callejuelas! ˇSe necesita que alguien enseńe a unos
 
-rudos harapientos! Se necesita que alguien le pida a la gente que asista al lugar
+rudos harapientos! ˇSe necesita que alguien le pida a la gente que asista al lugar
 
-de adoracin, y que los presentes cedan sus asientos, y que se pongan en el
+de adoración, y que los presentes cedan sus asientos, y que se pongan en el
 
 pasillo dejando que los visitantes se sienten! Bien, sea lo que sea, yo
 
-preferira ser un guarda de la puerta en la casa del Seor, o el tapete para
+preferiría ser un guarda de la puerta en la casa del Seńor, o el tapete para
 
-esa puerta, que ser contado entre los ms nobles en las moradas de maldad. Lo
+esa puerta, que ser contado entre los más nobles en las moradas de maldad. Lo
 
-que sea por Jess, entre ms bajo, mejor; lo que sea por Jess, entre ms
+que sea por Jesús, entre más bajo, mejor; lo que sea por Jesús, entre más
 
-humilde, mejor; lo que sea por Jess. Entre ms se hundan en las profundidades,
+humilde, mejor; lo que sea por Jesús. Entre más se hundan en las profundidades,
 
-entre ms sumerjan los brazos hasta los codos en el lodo para encontrar preciosas
+entre más sumerjan los brazos hasta los codos en el lodo para encontrar preciosas
 
-joyas, entre ms hagan eso, mejor. Este es el verdadero espritu de la religin
+joyas, entre más hagan eso, mejor. Este es el verdadero espíritu de la religión
 
 cristiana. No es remontarse para sentarse entre los coros de cantores, y cantar
 
@@ -1146,7 +1146,7 @@ eso es Babilonia; sino desvestirse hasta quedarse en mangas de camisa para
 
 luchar la batalla por Cristo, y salir entre los hombres como un humilde obrero,
 
-resuelto a salvar a alguien por cualquier medio, esto es lo que su Seor quiere
+resuelto a salvar a alguien por cualquier medio, esto es lo que su Seńor quiere
 
 que hagan, pues esto es desatar la correa de Su calzado.
 
@@ -1154,81 +1154,81 @@ III.
 
 Y,
 
-ahora, nuestro ltimo comentario ser que TODO ESTO DEBERA ESTIMULARNOS EN VEZ
+ahora, nuestro último comentario será que TODO ESTO DEBERÍA ESTIMULARNOS EN VEZ
 
-DE DESANIMARNOS. Aunque no somos dignos de hacerlo, esa es la razn por la cual
+DE DESANIMARNOS. Aunque no somos dignos de hacerlo, esa es la razón por la cual
 
 debemos apertrecharnos de la gracia condescendiente que nos honra con tal
 
-empleo. No digan: No soy digno de desatar la correa de Su calzado, y, por
+empleo. No digan: “No soy digno de desatar la correa de Su calzado, y, por
 
-tanto, voy a renunciar a predicar. Oh, no, sino ms bien prediquen con un
+tanto, voy a renunciar a predicar”. Oh, no, sino más bien prediquen con un
 
-mayor vigor. Juan as lo hizo, y a su predicacin aadi la advertencia.
+mayor vigor. Juan así lo hizo, y a su predicación ańadió la advertencia.
 
-Adviertan a la gente al tiempo que les predican. Hblenles del juicio venidero,
+Adviertan a la gente al tiempo que les predican. Háblenles del juicio venidero,
 
-y separen entre lo precioso y lo vil. Deberamos desempear nuestro trabajo en
+y separen entre lo precioso y lo vil. Deberíamos desempeńar nuestro trabajo en
 
-todos los sentidos, sin omitir su parte ms dolorosa, antes bien, completando
+todos los sentidos, sin omitir su parte más dolorosa, antes bien, completando
 
 todo aquello que Dios nos ha asignado. Juan fue llamado a testificar de Cristo;
 
-aunque se senta indigno de hacerlo, no se arredr ante la obra. El oficio de
+aunque se sentía indigno de hacerlo, no se arredró ante la obra. El oficio de
 
-toda su vida fue clamar: He aqu, he aqu, he aqu el Cordero de Dios! Nunca
+toda su vida fue clamar: “ˇHe aquí, he aquí, he aquí el Cordero de Dios!” Nunca
 
-hizo ninguna pausa en ese clamor. Tambin estuvo ocupado bautizando. Era el
+hizo ninguna pausa en ese clamor. También estuvo ocupado bautizando. Era el
 
-rito iniciatorio de la nueva dispensacin, y all estuvo Juan sumergiendo
+rito iniciatorio de la nueva dispensación, y allí estuvo Juan sumergiendo
 
-continuamente a cuantos crean. Nunca hubo un obrero ms infatigable que Juan
+continuamente a cuantos creían. Nunca hubo un obrero más infatigable que Juan
 
-el Bautista; puso el alma entera en ello, porque senta que no era digno de
+el Bautista; puso el alma entera en ello, porque sentía que no era digno de
 
 realizar la obra.
 
 Hermanos y hermanas, si
 
-se quedan sin hacer nada, su sentido de indignidad ser un triste obstculo
+se quedan sin hacer nada, su sentido de indignidad será un triste obstáculo
 
-para ustedes; pero si el amor de Dios estuviera en sus almas, diran esto:
+para ustedes; pero si el amor de Dios estuviera en sus almas, dirían esto:
 
-Puesto que a pesar de hacer mi mejor esfuerzo lo hago mal, siempre me
+“Puesto que a pesar de hacer mi mejor esfuerzo lo hago mal, siempre me
 
-esforzar al mximo. Puesto que cuando se hace lo ms que se puede, eso se
+esforzaré al máximo. Puesto que cuando se hace lo más que se puede, eso se
 
-reduce a casi nada, har siempre lo ms que pueda. Si pudiera darle toda mi
+reduce a casi nada, haré siempre lo más que pueda”. Si pudiera darle toda mi
 
-riqueza a l, y darle mi vida, y luego entregar mi cuerpo para ser quemado,
+riqueza a Él, y darle mi vida, y luego entregar mi cuerpo para ser quemado,
 
-sera un pequeo retorno por un amor tan admirable, tan divino, como el que he
+sería un pequeńo retorno por un amor tan admirable, tan divino, como el que he
 
-gustado; por tanto, si no puedo hacer todo eso, de cualquier manera, le dar al
+gustado; por tanto, si no puedo hacer todo eso, de cualquier manera, le daré al
 
-Seor todo lo que pueda, lo amar todo lo que pueda, le suplicar todo lo que
+Seńor todo lo que pueda, lo amaré todo lo que pueda, le suplicaré todo lo que
 
-pueda, hablar acerca de l todo lo que pueda, y difundir Su Evangelio todo lo
+pueda, hablaré acerca de Él todo lo que pueda, y difundiré Su Evangelio todo lo
 
-que pueda; y ninguna cosa pequea voy a considerar que est por debajo de m si
+que pueda; y ninguna cosa pequeńa voy a considerar que está por debajo de mí si
 
 Su causa lo requiere.
 
 Hermanos, la vida de
 
-Juan fue dura, pues su alimento consista en langostas y miel silvestre; sus
+Juan fue dura, pues su alimento consistía en langostas y miel silvestre; sus
 
 ropas no eran las vestiduras delicadas que llevan los que viven en palacios, sino
 
-que se cubra con una spera piel de camello; y as como su vida fue dura, su
+que se cubría con una áspera piel de camello; y así como su vida fue dura, su
 
-muerte fue dura tambin; su arrojo lo condujo a un calabozo, su valerosa
+muerte fue dura también; su arrojo lo condujo a un calabozo, su valerosa
 
-fidelidad le gan la muerte de un mrtir. He aqu un hombre que vivi
+fidelidad le ganó la muerte de un mártir. He aquí un hombre que vivió
 
-abnegadamente y muri dando testimonio de la verdad y de la justicia, y todo
+abnegadamente y murió dando testimonio de la verdad y de la justicia, y todo
 
-eso porque tena una alta estimacin de su Maestro. Que nuestra estimacin de
+eso porque tenía una alta estimación de su Maestro. ˇQue nuestra estimación de
 
 Cristo crezca y aumente de tal manera que estemos dispuestos a cualquier cosa
 
@@ -1240,59 +1240,59 @@ Ciertos misioneros
 
 moravos, en los antiguos tiempos de la esclavitud, fueron a una de las islas de
 
-las Indias Occidentales para predicar, pero descubrieron que no se les poda
+las Indias Occidentales para predicar, pero descubrieron que no se les podía
 
-permitir que ensearan all a menos que ellos mismos se volvieran esclavos; y
+permitir que enseńaran allí a menos que ellos mismos se volvieran esclavos; y
 
-as lo hicieron, se vendieron a la esclavitud para no regresar jams, para
+así lo hicieron, se vendieron a la esclavitud para no regresar jamás, para
 
 poder salvar las almas de los esclavos. Nos hemos enterado de otro par de
 
 santos que de hecho se sometieron a ser confinados en un lazareto, para poder
 
-salvar las almas de los leprosos, sabiendo que si hacan eso, no se les permitira
+salvar las almas de los leprosos, sabiendo que si hacían eso, no se les permitiría
 
-salir jams; fueron all para ser contagiados de la lepra y para morir, si por
+salir jamás; fueron allí para ser contagiados de la lepra y para morir, si por
 
-hacer eso podan salvar almas. He ledo respecto a uno, Tom de Jesus, que fue
+hacer eso podían salvar almas. He leído respecto a uno, Tomé de Jesus, que fue
 
-a Berbera, entre los cristianos cautivos, y vivi y muri all en el destierro
+a Berbería, entre los cristianos cautivos, y vivió y murió allí en el destierro
 
-y la esclavitud, para poder animar a sus hermanos y predicarles a Jess.
+y la esclavitud, para poder animar a sus hermanos y predicarles a Jesús.
 
 Hermanos, nosotros no
 
-hemos alcanzado ese tipo de devocin; nos quedamos cortos de lo que Jess
+hemos alcanzado ese tipo de devoción; nos quedamos cortos de lo que Jesús
 
-merece. Le damos poco, le damos lo que nos avergenza no darle. Con frecuencia
+merece. Le damos poco, le damos lo que nos avergüenza no darle. Con frecuencia
 
-le damos nuestro celo por un da o dos y luego nos enfriamos; de pronto
+le damos nuestro celo por un día o dos y luego nos enfriamos; de pronto
 
-despertamos y luego nos dormimos ms profundamente. Hoy parecemos como si
+despertamos y luego nos dormimos más profundamente. Hoy parecemos como si
 
-furamos a incendiar el mundo, y maana apenas mantenemos nuestras lmparas
+fuéramos a incendiar el mundo, y mańana apenas mantenemos nuestras lámparas
 
 despabiladas. En un momento hacemos votos de que vamos a empujar a la iglesia
 
 delante de nosotros y que vamos a arrastrar al mundo tras nosotros, y muy
 
-pronto nosotros mismos somos como los carros de Faran, con las ruedas
+pronto nosotros mismos somos como los carros de Faraón, con las ruedas
 
-desprendidas, arrastrndonos muy pesadamente. Oh, por una chispa del amor de
+desprendidas, arrastrándonos muy pesadamente. ˇOh, por una chispa del amor de
 
-Cristo en el alma! Oh, por una llama viva del altar del Calvario, para que
+Cristo en el alma! ˇOh, por una llama viva del altar del Calvario, para que
 
 haga arder nuestra naturaleza con divino entusiasmo por el Cristo que se
 
-entreg por nosotros para que viviramos! A partir de ahora, asuman en la
+entregó por nosotros para que viviéramos! A partir de ahora, asuman en la
 
-solemne volicin de su alma esta profunda resolucin: Voy a desatar la correa
+solemne volición de su alma esta profunda resolución: “Voy a desatar la correa
 
-de Su calzado, voy a buscar las cosas pequeas, las cosas insignificantes, las
+de Su calzado, voy a buscar las cosas pequeńas, las cosas insignificantes, las
 
-cosas humildes, y las voy a hacer como para el Seor y no para los hombres, y
+cosas humildes, y las voy a hacer como para el Seńor y no para los hombres, y
 
-que l me acepte as como tambin me ha salvado por Su sangre preciosa. Amn.
+que Él me acepte así como también me ha salvado por Su sangre preciosa. Amén.
 
 Porciones
 
@@ -1300,13 +1300,13 @@ de
 
 la Escritura
 
-ledas antes del sermn:
+leídas antes del sermón:
 
 Salmo
 
 8; y Lucas 3: 1-22.
 
-Traductor: Allan Romn
+Traductor: Allan Román
 
 8/Noviembre/2012
 
