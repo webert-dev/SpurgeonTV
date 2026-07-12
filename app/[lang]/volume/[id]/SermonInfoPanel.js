@@ -11,6 +11,13 @@ import Link from 'next/link';
 export default function SermonInfoPanel({ meta, lang = 'en' }) {
   const [open, setOpen] = useState(false);
 
+  const i18n = {
+    en: { aSermon: 'A Sermon', hide: 'Hide details', view: 'View sermon details', by: 'By the Rev. C. H. Spurgeon', at: 'At' },
+    es: { aSermon: 'Un Sermón', hide: 'Ocultar detalles', view: 'Ver detalles del sermón', by: 'Por el Rev. C. H. Spurgeon', at: 'En' },
+    pt: { aSermon: 'Um Sermão', hide: 'Ocultar detalhes', view: 'Ver detalhes do sermão', by: 'Pelo Rev. C. H. Spurgeon', at: 'Em' },
+  };
+  const t = i18n[lang] || i18n.en;
+
   if (!meta) return null;
 
   return (
@@ -24,13 +31,13 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
           setOpen((v) => !v);
         }}
         aria-expanded={open}
-        aria-label={`${open ? 'Hide' : 'View'} information for sermon ${meta.number}`}
+        aria-label={`${open ? t.hide : t.view} for sermon ${meta.number}`}
       >
         <span className="sermon-info-toggle-icon" aria-hidden="true">
           {open ? '▲' : '▼'}
         </span>
         <span className="sermon-info-toggle-label">
-          {open ? 'Hide details' : 'View sermon details'}
+          {open ? t.hide : t.view}
         </span>
       </button>
 
@@ -39,7 +46,7 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
           <div className="sermon-info-card">
             {/* Header line */}
             <p className="sermon-info-no">No. {meta.sermonNumber}</p>
-            <p className="sermon-info-subtitle">A Sermon</p>
+            <p className="sermon-info-subtitle">{t.aSermon}</p>
             <p className="sermon-info-collection">{meta.volumeLabel}</p>
 
             <hr className="sermon-info-divider" />
@@ -49,10 +56,10 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
               {meta.dateDisplay}
             </p>
             <p className="sermon-info-preacher">
-              By the Rev. C. H. Spurgeon
+              {t.by}
             </p>
             <p className="sermon-info-location">
-              At {meta.location}.
+              {t.at} {meta.location}.
             </p>
 
             <hr className="sermon-info-divider" />
