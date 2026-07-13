@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Lexend:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
 
 /* =========================================================
    DESIGN TOKENS
@@ -19,6 +19,26 @@
 
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-serif: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+}
+
+body.theme-clear {
+  --background: #fdfdfc;
+  --surface: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --text-muted: #888888;
+  --accent: #b38b22;
+  --border: #e0e0e0;
+}
+
+body.theme-sepia {
+  --background: #f4ecd8;
+  --surface: #fbf6eb;
+  --text-primary: #433422;
+  --text-secondary: #6e5c46;
+  --text-muted: #998771;
+  --accent: #c46d3b;
+  --border: #e2d2ba;
 }
 
 /* =========================================================
@@ -76,6 +96,14 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .header-container {
+    justify-content: center;
+  }
 }
 
 .logo {
@@ -87,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .logo span { color: var(--text-primary); }
 
-.site-nav { display: flex; gap: 2rem; align-items: center; }
+.site-nav { display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap; justify-content: center; }
 
 .nav-link {
   font-size: 0.875rem;
@@ -103,12 +131,12 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================= */
 .hero-section {
   position: relative;
+  z-index: 10;
   min-height: 90vh;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  overflow: hidden;
-  padding: 6rem 0 4rem;
+  padding: 2rem 0 4rem;
 }
 
 .hero-bg-glow {
@@ -254,7 +282,7 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 12px;
-  max-height: 400px;
+  max-height: min(400px, 60vh);
   overflow-y: auto;
   box-shadow: 0 20px 50px rgba(0,0,0,0.6);
   z-index: 200;
@@ -701,11 +729,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .reader-content {
-  font-family: var(--font-serif);
+  font-family: var(--reader-font-family, var(--font-serif));
   font-size: calc(1.2rem + var(--font-size-offset, 0rem));
-  line-height: 1.85;
-  color: #d1d5db;
-  transition: font-size 0.2s ease;
+  line-height: var(--reader-line-height, 1.85);
+  color: var(--text-primary);
+  transition: font-size 0.2s ease, line-height 0.2s ease, font-family 0.2s ease;
 }
 
 .reader-content p { margin-bottom: 1.5rem; text-align: justify; }
@@ -806,6 +834,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* =========================================================
+   READER CONTAINER & LAYOUT
+   ========================================================= */
+.reader-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+  transition: padding 0.3s ease;
+}
+
+@media (max-width: 1100px) {
+  .reader-container {
+    padding-right: 5rem; /* Space for the collapsed gear button */
+  }
+}
+
+/* =========================================================
    READER TOOLS (ZEN MODE, PROGRESS BAR)
    ========================================================= */
 .reading-progress-bar {
@@ -828,7 +872,6 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.5rem;
   background: rgba(26, 29, 36, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -838,6 +881,45 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 100;
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
   transition: all 0.3s ease;
+}
+
+.toolbar-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.mobile-toggle-btn {
+  display: none;
+}
+
+@media (max-width: 1100px) {
+  .reader-toolbar {
+    top: 50%;
+    bottom: auto;
+    transform: translateY(-50%);
+    right: 1rem;
+    padding: 0.5rem;
+  }
+  .mobile-toggle-btn {
+    display: flex;
+  }
+  .reader-toolbar.mobile-collapsed .toolbar-content {
+    display: none;
+  }
+  .reader-toolbar.mobile-expanded .toolbar-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 0.5rem;
+  }
+  .reader-container:has(.reader-toolbar.mobile-expanded) {
+    padding-right: 120px; /* Pushes the text when toolbar is expanded */
+  }
 }
 
 .toolbar-btn {
@@ -872,6 +954,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 60%;
   background: var(--border);
   margin: 0.25rem auto;
+}
+
+@media (max-width: 1100px) {
+  .toolbar-divider {
+    height: 30px;
+    width: 1px;
+    margin: auto 0.25rem;
+  }
 }
 
 /* Zen Mode Styles */
@@ -1466,6 +1556,12 @@ body.zen-mode-active .sermon-info-body {
   margin-bottom: 0.5rem;
 }
 
+@media (max-width: 1100px) {
+  .toolbar-bible-settings {
+    margin-bottom: 0;
+  }
+}
+
 .toolbar-toggle {
   position: relative;
   display: flex;
@@ -1610,4 +1706,89 @@ body.zen-mode-active .sermon-info-body {
   color: var(--text-secondary);
   text-align: center;
   padding: 0.5rem;
+}
+
+/* =========================================================
+   PAGINATION
+   ========================================================= */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px dashed rgba(212, 175, 55, 0.3);
+}
+
+.pagination-btn {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;
+  transition: all 0.2s ease;
+}
+
+.pagination-btn:hover:not(.disabled) {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.pagination-btn.disabled {
+  opacity: 0.3;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+.pagination-info {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* =========================================================
+   SMALL MODIFIERS (STATS & QUOTE BANNER)
+   ========================================================= */
+.stats-section--small {
+  padding: 2rem 0;
+  margin-top: 2rem;
+  border-top: 1px dashed rgba(212, 175, 55, 0.3);
+}
+
+.stats-section--small .stat-number {
+  font-size: 1.8rem;
+  margin-bottom: 0.25rem;
+}
+
+.stats-section--small .stat-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+}
+
+.quote-banner--small {
+  padding: 2rem 0;
+  margin-top: 0;
+}
+
+.quote-banner--small .quote-mark {
+  font-size: 3rem;
+  margin-bottom: -1rem;
+}
+
+.quote-banner--small .quote-text {
+  font-size: 1.1rem;
+  max-width: 600px;
+}
+
+.quote-banner--small .quote-author {
+  font-size: 0.75rem;
+  margin-top: 1rem;
 }

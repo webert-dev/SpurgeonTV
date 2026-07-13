@@ -12,6 +12,11 @@ export default async function RootLayout({ children, params }) {
   
   return (
     <html lang={lang}>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Lexend:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+      </head>
       <body>
         <BibleSettingsProvider>
           <header className="site-header">
@@ -20,9 +25,11 @@ export default async function RootLayout({ children, params }) {
                 SPURGEON<span>TV</span>
               </Link>
               <nav className="site-nav">
-                <Link href={`/${lang}`} className="nav-link">Volumes</Link>
+                <Link href={`/${lang}`} className="nav-link">Sermons</Link>
+                <Link href={`/${lang}/volumes`} className="nav-link">Volumes</Link>
                 <Link href={`/${lang}/bible`} className="nav-link">Bible</Link>
-                <Link href={`/${lang}/sobre`} className="nav-link">About Spurgeon</Link>
+                <Link href={`/${lang}/dictionary`} className="nav-link">Dictionary</Link>
+                <Link href={`/${lang}/about`} className="nav-link">About Spurgeon</Link>
               </nav>
             </div>
           </header>

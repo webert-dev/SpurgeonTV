@@ -1,0 +1,178 @@
+.dictionary-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: var(--reader-font-family, var(--font-serif));
+  color: var(--text-primary);
+}
+
+.dictionary-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.dictionary-title {
+  font-family: var(--font-serif);
+  font-size: 2.5rem;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.dictionary-credits {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 2rem;
+  line-height: 1.4;
+}
+
+.dictionary-search {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  display: flex;
+}
+
+.dictionary-search-input {
+  flex: 1;
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  border: 1px solid var(--text-primary); /* Branco no tema escuro */
+  border-radius: 30px;
+  background-color: var(--surface);
+  color: var(--text-primary);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.dictionary-search-input::placeholder {
+  color: var(--text-primary);
+  opacity: 0.7; /* Reforça o texto do placeholder */
+}
+
+.dictionary-search-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 4px 12px var(--accent-light);
+}
+
+.dictionary-alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 3rem;
+}
+
+.alphabet-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-primary);
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.alphabet-btn:hover, .alphabet-btn.active {
+  background: var(--accent);
+  color: var(--background); /* Invert text color against accent background */
+  border-color: var(--accent);
+}
+
+/* Fix for Clear Theme where accent is gold, we might want text white instead of background */
+body.theme-clear .alphabet-btn:hover, body.theme-clear .alphabet-btn.active {
+  color: #fff;
+}
+
+.dictionary-content {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.dictionary-list {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  max-height: 600px;
+  overflow-y: auto;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+}
+
+.dictionary-list-item {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.dictionary-list-item:hover, .dictionary-list-item.active {
+  background: var(--accent-light);
+}
+
+.dictionary-list-item-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.dictionary-details {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.03);
+  min-height: 400px;
+}
+
+.details-title {
+  font-size: 2rem;
+  font-family: var(--font-serif);
+  color: var(--accent);
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+.definition-card {
+  margin-bottom: 2rem;
+}
+
+.definition-source {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.definition-text {
+  line-height: 1.8;
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.definition-text p {
+  margin-bottom: 1rem;
+}
+
+.definition-text p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .dictionary-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .dictionary-list {
+    max-height: 300px;
+  }
+}

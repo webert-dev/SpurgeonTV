@@ -94,9 +94,9 @@ export default async function SermonPage({ params }) {
   }
 
   return (
-    <div className="reader-container" style={{ padding: '4rem 0' }}>
-      <Link href={`/${lang}/volume/${id}`} className="back-link">
-        ← Back to Volume {volNum}
+    <div className="reader-container">
+      <Link href={`/${lang}`} className="back-link">
+        ← Back to Home
       </Link>
 
       <article>

@@ -47,7 +47,8 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
             {/* Header line */}
             <p className="sermon-info-no">No. {meta.sermonNumber}</p>
             <p className="sermon-info-subtitle">{t.aSermon}</p>
-            <p className="sermon-info-collection">{meta.volumeLabel}</p>
+            <p className="sermon-info-collection">{meta.collectionName}</p>
+            <p className="sermon-info-collection" style={{ marginTop: '0.2rem' }}>Volume {meta.volumeNumber}</p>
 
             <hr className="sermon-info-divider" />
 

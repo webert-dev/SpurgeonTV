@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function SobrePage() {
   const timeline = [
     {
@@ -13,7 +15,9 @@ export default function SobrePage() {
     {
       year: '1850',
       title: 'Conversion at 15',
-      desc: 'On a snowy morning, a lay preacher quoted Isaiah 45:22 — "Look unto me, and be ye saved" — changing Spurgeon\'s life forever.',
+      desc: 'On a snowy morning, a severe storm forced him into a small Primitive Methodist chapel on Artillery Street. A substitute lay-preacher preached from Isaiah 45:22.',
+      quote: '"Just fixing his eyes on me, as if he knew all my heart, he said, \'Young man, you look very miserable. ... Young man, look to Jesus Christ. Look! Look! Look! You have nothin’ to do but to look and live.\' ... I looked until I could almost have looked my eyes away. There and then the cloud was gone, the darkness had rolled away, and that moment I saw the sun."',
+      quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 1'
     },
     {
       year: '1851',
@@ -38,7 +42,9 @@ export default function SobrePage() {
     {
       year: '1857',
       title: 'Preaches to 23,000',
-      desc: 'Spurgeon preached to approximately 23,654 people at the Crystal Palace — one of the largest crowds ever gathered by a single voice.',
+      desc: 'Spurgeon preached to 23,654 people at the Crystal Palace. Days before, he tested the acoustics, inadvertently leading to the conversion of a worker.',
+      quote: '"In order to test the acoustic properties of the building, I cried in a loud voice, \'Behold the Lamb of God, which taketh away the sin of the world.\' In one of the galleries, a workman, who knew nothing of what was being done, heard the words, and they came like a message from heaven to his soul."',
+      quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 2'
     },
     {
       year: '1861',
@@ -70,24 +76,20 @@ export default function SobrePage() {
   return (
     <div className="about-page">
       {/* HERO */}
-      <section className="about-hero">
+      <section className="about-hero" style={{ paddingBottom: '3rem' }}>
         <div className="about-hero-glow" />
         <div className="container about-hero-content">
           <p className="hero-eyebrow">1834 – 1892</p>
           <h1 className="hero-title">
             Charles Haddon<br /><em>Spurgeon</em>
           </h1>
-          <p className="about-hero-subtitle">
-            The Prince of Preachers — the man who proclaimed the Gospel to millions,
-            left 63 volumes of sermons and remains to this day one of the greatest voices of Protestantism.
-          </p>
         </div>
       </section>
 
       {/* BIO */}
-      <section className="container about-bio-section">
+      <section className="container about-bio-section" style={{ marginTop: '-2rem' }}>
         <div className="about-bio-grid">
-          <div className="about-bio-text">
+          <div className="about-bio-text" style={{ textAlign: 'justify' }}>
             <h2 className="section-title" style={{ textAlign: 'left', marginBottom: '1.5rem' }}>Who was Spurgeon?</h2>
             <p>
               Charles Haddon Spurgeon (1834–1892) was a British Particular Baptist preacher, widely
@@ -136,6 +138,12 @@ export default function SobrePage() {
                 <div className="timeline-card">
                   <h3>{item.title}</h3>
                   <p>{item.desc}</p>
+                  {item.quote && (
+                    <div className="timeline-quote-box" style={{ marginTop: '1rem', padding: '1rem', borderLeft: '3px solid var(--accent)', background: 'var(--surface-hover)', borderRadius: '4px' }}>
+                      <p style={{ fontStyle: 'italic', fontSize: '0.95rem', marginBottom: '0.5rem' }}>{item.quote}</p>
+                      <cite style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'block', textAlign: 'right' }}>— {item.quoteSource}</cite>
+                    </div>
+                  )}
                 </div>
               </div>
             ))}
@@ -153,6 +161,34 @@ export default function SobrePage() {
           <cite className="quote-author">— Charles H. Spurgeon</cite>
         </div>
       </section>
+      {/* EXPLORE MORE (HUB) */}
+      <section className="container hub-section" style={{ marginTop: '5rem', marginBottom: '5rem' }}>
+        <h2 className="section-title" style={{ textAlign: 'center', marginBottom: '3rem' }}>Explore More</h2>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '2rem' }}>
+          
+          <Link href={`/en/about/biography`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s' }}>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem' }}>Full Biography</h3>
+            <p style={{ color: 'var(--text-secondary)' }}>The complete narrative of his life, filled with firsthand accounts and letters.</p>
+          </Link>
+
+          <Link href={`/en/about/theology`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s' }}>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem' }}>His Theology</h3>
+            <p style={{ color: 'var(--text-secondary)' }}>Explore his Calvinistic convictions, aggressive evangelism, and doctrinal foundations.</p>
+          </Link>
+
+          <Link href={`/en/about/controversies`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s' }}>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem' }}>Controversies</h3>
+            <p style={{ color: 'var(--text-secondary)' }}>The battles for truth: Baptismal Regeneration and the Downgrade Controversy.</p>
+          </Link>
+
+          <Link href={`/en/about/preacher`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s' }}>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem' }}>The Preacher</h3>
+            <p style={{ color: 'var(--text-secondary)' }}>His homiletics, the Pastors' College, and his profound influence on ministers.</p>
+          </Link>
+
+        </div>
+      </section>
+
     </div>
   );
 }
