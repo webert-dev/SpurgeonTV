@@ -36,9 +36,10 @@ export default function SearchClient({ lang = 'en' }) {
         const titleMatch = s.title.toLowerCase().includes(q);
         const refMatch = s.scripture?.reference?.toLowerCase().includes(q);
         const verseMatch = s.scripture?.verse?.toLowerCase().includes(q);
-        return titleMatch || refMatch || verseMatch;
+        const yearMatch = s.year && s.year.toString().includes(q);
+        return titleMatch || refMatch || verseMatch || yearMatch;
       })
-      .slice(0, 8);
+      .slice(0, 50);
 
     setResults(filtered);
     setIsOpen(filtered.length > 0);
@@ -114,7 +115,7 @@ export default function SearchClient({ lang = 'en' }) {
               }}
             >
               <div className="search-result-meta">
-                Vol. {sermon.volumeNum} · Sermon {sermon.slug.replace('sermon-', '')}
+                Vol. {sermon.volumeNum} ({sermon.year}) · Sermon {sermon.slug.replace('sermon-', '')}
               </div>
               <div className="search-result-title">{sermon.title}</div>
               {sermon.scripture?.reference && (

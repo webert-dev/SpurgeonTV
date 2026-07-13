@@ -1,6 +1,12 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import fs from 'fs/promises';
+import path from 'path';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
+import { linkifyBibleReferences } from '../../../../../lib/linkifyBible';
+import ReaderTools from './ReaderTools';
+import SermonTags from './SermonTags';
+import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRenderer';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -23,6 +29,47 @@ export async function generateStaticParams() {
   return params;
 }
 
+export async function generateMetadata({ params }) {
+  const { id, sermonId, lang } = await params;
+  const sermon = await getSermonContent(id, sermonId, lang);
+  if (!sermon) return {};
+
+  const volNum = parseInt(id.replace('volume-', ''), 10);
+  const sermonNum = sermonId.replace('sermon-', '');
+
+  const desc = sermon.scripture?.verse 
+    ? `"${sermon.scripture.verse}" — ${sermon.scripture.reference}`
+    : `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
+
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
+
+  return {
+    title: `${sermon.title} | Spurgeon TV`,
+    description: desc,
+    openGraph: {
+      title: sermon.title,
+      description: desc,
+      url,
+      siteName: 'Spurgeon TV',
+      images: [
+        {
+          url: `${siteUrl}/images/og-default.jpg`, // Você pode colocar uma imagem real aqui depois
+          width: 1200,
+          height: 630,
+        },
+      ],
+      locale: lang,
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: sermon.title,
+      description: desc,
+    },
+  };
+}
+
 export default async function SermonPage({ params }) {
   const { id, sermonId, lang } = await params;
 
@@ -35,6 +82,16 @@ export default async function SermonPage({ params }) {
 
   const volNum = parseInt(id.replace('volume-', ''), 10);
   const sermonNum = sermonId.replace('sermon-', '');
+
+  let tags = [];
+  try {
+    const tagsFilePath = path.join(process.cwd(), 'lib', 'sermon_tags_en_full.json');
+    const tagsData = await fs.readFile(tagsFilePath, 'utf8');
+    const tagsJson = JSON.parse(tagsData);
+    tags = tagsJson[id]?.[sermonId] || [];
+  } catch (e) {
+    console.error("Error reading tags:", e);
+  }
 
   return (
     <div className="reader-container" style={{ padding: '4rem 0' }}>
@@ -52,7 +109,9 @@ export default async function SermonPage({ params }) {
                 <p className="reader-scripture-verse">&ldquo;{sermon.scripture.verse}&rdquo;</p>
               )}
               {sermon.scripture.reference && (
-                <p className="reader-scripture-ref">— {sermon.scripture.reference}</p>
+                <p className="reader-scripture-ref" 
+                   dangerouslySetInnerHTML={{ __html: `&mdash; ${linkifyBibleReferences(sermon.scripture.reference)}` }} 
+                />
               )}
             </div>
           )}
@@ -62,7 +121,11 @@ export default async function SermonPage({ params }) {
           className="reader-content"
           dangerouslySetInnerHTML={{ __html: sermon.content }}
         />
+        
+        <SermonTags tags={tags} />
       </article>
+
+      <BibleTooltipRenderer />
 
       {/* ── SERMON NAVIGATION ── */}
       <nav className="sermon-nav" aria-label="Sermon navigation">
@@ -108,6 +171,7 @@ export default async function SermonPage({ params }) {
           )}
         </div>
       </nav>
+      <ReaderTools />
     </div>
   );
 }

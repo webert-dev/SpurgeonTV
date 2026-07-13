@@ -137,16 +137,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-title {
-  font-size: clamp(3rem, 8vw, 7rem);
+  font-size: clamp(2rem, 4vw, 3.5rem);
   font-weight: 700;
   line-height: 1.05;
   margin-bottom: 1.5rem;
   color: var(--text-primary);
 }
 .hero-title em {
+  display: block;
+  font-size: clamp(4rem, 10vw, 9rem);
   font-style: italic;
   font-weight: 400;
   color: var(--accent);
+  line-height: 1.1;
+  margin-top: -0.1em;
 }
 
 .hero-subtitle {
@@ -250,7 +254,8 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 12px;
-  overflow: hidden;
+  max-height: 400px;
+  overflow-y: auto;
   box-shadow: 0 20px 50px rgba(0,0,0,0.6);
   z-index: 200;
   animation: fadeInDown 0.15s ease;
@@ -697,9 +702,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .reader-content {
   font-family: var(--font-serif);
-  font-size: 1.2rem;
+  font-size: calc(1.2rem + var(--font-size-offset, 0rem));
   line-height: 1.85;
   color: #d1d5db;
+  transition: font-size 0.2s ease;
 }
 
 .reader-content p { margin-bottom: 1.5rem; text-align: justify; }
@@ -798,6 +804,181 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   color: var(--accent);
 }
+
+/* =========================================================
+   READER TOOLS (ZEN MODE, PROGRESS BAR)
+   ========================================================= */
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: var(--accent);
+  transform-origin: left;
+  z-index: 9999;
+  transition: transform 0.1s ease-out;
+  pointer-events: none;
+}
+
+.reader-toolbar {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(26, 29, 36, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.5rem;
+  z-index: 100;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transition: all 0.3s ease;
+}
+
+.toolbar-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+}
+
+.toolbar-btn:hover {
+  background: rgba(212, 175, 55, 0.1);
+  color: var(--accent);
+}
+
+.toolbar-btn.active {
+  background: var(--accent);
+  color: var(--background);
+}
+
+.toolbar-divider {
+  height: 1px;
+  width: 60%;
+  background: var(--border);
+  margin: 0.25rem auto;
+}
+
+/* Zen Mode Styles */
+body.zen-mode-active .site-header {
+  transform: translateY(-100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.zen-mode-active .site-footer,
+body.zen-mode-active .sermon-nav,
+body.zen-mode-active .back-link {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+body.zen-mode-active {
+  background-color: #050607;
+}
+
+body.zen-mode-active .sermon-info-toggle,
+body.zen-mode-active .sermon-info-body {
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+/* =========================================================
+   SERMON TAGS
+   ========================================================= */
+.sermon-tags-container {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px dashed rgba(212, 175, 55, 0.3);
+}
+
+.sermon-tags-details {
+  background: rgba(212, 175, 55, 0.03);
+  border: 1px solid rgba(212, 175, 55, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: background 0.2s ease;
+}
+
+.sermon-tags-details:hover {
+  background: rgba(212, 175, 55, 0.06);
+}
+
+.sermon-tags-summary {
+  list-style: none; /* Hide default arrow */
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.sermon-tags-summary::-webkit-details-marker {
+  display: none;
+}
+
+.summary-content {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.summary-icon {
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+}
+
+.summary-text {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+}
+
+.sermon-tags-content {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag-pill {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+  transition: all 0.2s ease;
+  cursor: default;
+}
+
+.tag-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(212, 175, 55, 0.08);
+}
+
+
 
 .sermon-nav-title {
   font-family: var(--font-serif);
@@ -1138,4 +1319,295 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================= */
 .reader-content p {
   text-align: justify;
+}
+
+/* =========================================================
+   BIBLE READER STYLES
+   ========================================================= */
+.bible-reader-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.bible-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  justify-content: center;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.control-group label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.bible-select {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  min-width: 140px;
+  color-scheme: dark;
+}
+
+.bible-select:focus, .bible-select:hover {
+  border-color: var(--accent);
+}
+
+.bible-select option {
+  background-color: var(--surface);
+  color: var(--text-primary);
+}
+
+.bible-content-area {
+  min-height: 400px;
+  position: relative;
+}
+
+.bible-loading, .bible-error {
+  text-align: center;
+  padding: 4rem 0;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+.bible-error {
+  color: #ef4444;
+}
+
+.bible-chapter-title {
+  font-size: 2.25rem;
+  color: var(--accent);
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.bible-verses {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: var(--text-primary);
+}
+
+.bible-verse {
+  margin-bottom: 0.75rem;
+  text-align: justify;
+}
+
+.bible-verse-num {
+  font-size: 0.75rem;
+  color: var(--accent);
+  font-weight: 700;
+  margin-right: 0.25rem;
+  opacity: 0.8;
+}
+
+.bible-nav-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.bible-nav-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.bible-nav-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.bible-nav-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* ─────────────────────────────────────────────────────────
+ * BIBLE TOOLTIP AND INTEGRATION STYLES
+ * ───────────────────────────────────────────────────────── */
+
+/* Toolbar Settings for Bible */
+.toolbar-bible-settings {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.toolbar-toggle {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+}
+
+.toolbar-toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.toolbar-toggle-slider {
+  width: 32px;
+  height: 18px;
+  background-color: var(--surface);
+  border-radius: 20px;
+  position: relative;
+  transition: 0.3s;
+  border: 1px solid var(--border);
+}
+
+.toolbar-toggle-slider:before {
+  content: "";
+  position: absolute;
+  height: 12px;
+  width: 12px;
+  left: 2px;
+  bottom: 2px;
+  background-color: var(--text-secondary);
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+.toolbar-toggle input:checked + .toolbar-toggle-slider {
+  background-color: var(--accent);
+  border-color: var(--accent);
+}
+
+.toolbar-toggle input:checked + .toolbar-toggle-slider:before {
+  transform: translateX(14px);
+  background-color: var(--bg);
+}
+
+.toolbar-toggle-label {
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.toolbar-select {
+  background-color: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.15rem;
+  font-size: 0.6rem;
+  outline: none;
+  cursor: pointer;
+  font-family: inherit;
+  width: 70px;
+  text-align: center;
+}
+.toolbar-select:hover, .toolbar-select:focus {
+  border-color: var(--accent);
+}
+
+/* Tooltip Reference Marker */
+.bible-ref-marker {
+  color: var(--accent);
+  text-decoration: underline dotted;
+  text-underline-offset: 4px;
+  cursor: help;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  padding: 0 0.15rem;
+  border-radius: 4px;
+}
+
+.bible-ref-marker:hover {
+  background-color: rgba(212, 175, 55, 0.1);
+  color: #fff;
+}
+
+/* Tooltip Popover */
+.bible-tooltip-popover {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: var(--text);
+  font-family: inherit;
+  padding: 1rem;
+  animation: tooltipFadeIn 0.2s ease-out;
+}
+
+@keyframes tooltipFadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.bible-tooltip-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.bible-tooltip-header strong {
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.bible-tooltip-translation {
+  background: var(--bg);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+}
+
+.bible-tooltip-body {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.bible-tooltip-loading {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  text-align: center;
+  padding: 0.5rem;
 }

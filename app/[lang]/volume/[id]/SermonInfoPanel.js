@@ -68,24 +68,7 @@ export default function SermonInfoPanel({ meta, lang = 'en' }) {
             <p className="sermon-info-title">{meta.title}</p>
             <p className="sermon-info-scripture">{meta.scripture}</p>
             
-            <div className="sermon-info-langs" style={{ display: 'flex', gap: '1rem', marginTop: '1rem', fontSize: '0.85em', color: 'var(--text-secondary)' }}>
-              <span>Available in:</span>
-              {meta.availableLangs?.includes('en') ? (
-                <Link href={`/en/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'en' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>EN</Link>
-              ) : (
-                <span style={{ opacity: 0.3 }}>EN</span>
-              )}
-              {meta.availableLangs?.includes('es') ? (
-                <Link href={`/es/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'es' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>ES</Link>
-              ) : (
-                <span style={{ opacity: 0.3 }}>ES</span>
-              )}
-              {meta.availableLangs?.includes('pt') ? (
-                <Link href={`/pt/volume/${meta.volumeId}/${meta.sermonSlug}`} style={{ color: lang === 'pt' ? 'var(--color-gold)' : 'inherit', textDecoration: 'none' }}>PT</Link>
-              ) : (
-                <span style={{ opacity: 0.3 }}>PT</span>
-              )}
-            </div>
+
 
             {lang === 'es' && meta.isTranslated && (
               <>

@@ -1,0 +1,197 @@
+'use client';
+
+import { useState, useEffect } from 'react';
+import { BIBLE_BOOKS } from '../../../lib/bible-books';
+
+export default function BibleReader({ lang, sermons = [] }) {
+  const defaultTranslation = lang === 'pt' ? 'acf' : (lang === 'es' ? 'rvr' : 'kjv');
+  const [translation, setTranslation] = useState(defaultTranslation);
+  const [selectedBook, setSelectedBook] = useState(BIBLE_BOOKS[0]);
+  const [selectedChapter, setSelectedChapter] = useState(1);
+  const [verses, setVerses] = useState([]);
+  
+  // Cache the bibles so we don't re-fetch when switching back and forth
+  const [bibleCache, setBibleCache] = useState({});
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function loadBible() {
+      if (bibleCache[translation]) {
+        return updateVerses(bibleCache[translation]);
+      }
+
+      setLoading(true);
+      setError(null);
+      try {
+        const res = await fetch(`/bibles/${translation}.json`);
+        if (!res.ok) throw new Error('Failed to load Bible data');
+        const data = await res.json();
+        
+        setBibleCache(prev => ({ ...prev, [translation]: data }));
+        updateVerses(data);
+      } catch (err) {
+        setError('Failed to load the Bible translation. Please try again.');
+        setVerses([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    function updateVerses(bibleData) {
+      // Find book by index since English names won't match localized names in JSON
+      const bookIndex = BIBLE_BOOKS.findIndex(b => b.name === selectedBook.name);
+      if (bookIndex !== -1 && bibleData[bookIndex]) {
+        const bookData = bibleData[bookIndex];
+        const chapterVerses = bookData.chapters[selectedChapter - 1] || [];
+        setVerses(chapterVerses);
+      } else {
+        setVerses([]);
+      }
+    }
+    
+    loadBible();
+  }, [selectedBook, selectedChapter, translation, bibleCache]);
+
+  // When changing translation, the book name displayed should probably be localized, 
+  // but keeping it simple using BIBLE_BOOKS for the dropdown is fine.
+  // We can get the localized book name from the current loaded translation for the title.
+  const currentBible = bibleCache[translation];
+  const bookIndex = BIBLE_BOOKS.findIndex(b => b.name === selectedBook.name);
+  const localizedBookName = currentBible && currentBible[bookIndex] ? currentBible[bookIndex].name : selectedBook.name;
+
+  // Filter related sermons
+  const relatedSermons = sermons.filter(sermon => {
+    const scriptureText = sermon.scripture?.reference || sermon.scripture?.verse || '';
+    // Exact match for "Book Chapter:" to avoid "John 1" matching "1 John 1" or "John 11"
+    const searchString1 = `${selectedBook.name} ${selectedChapter}:`;
+    const searchString2 = `${selectedBook.name} ${selectedChapter} `; // e.g., if there's no colon but space
+    return scriptureText.includes(searchString1) || scriptureText.includes(searchString2) || scriptureText.endsWith(`${selectedBook.name} ${selectedChapter}`);
+  });
+
+  return (
+    <div className="bible-reader-container">
+      <div className="bible-controls">
+        <div className="control-group">
+          <label htmlFor="translation-select">Version</label>
+          <select 
+            id="translation-select"
+            className="bible-select"
+            value={translation}
+            onChange={(e) => setTranslation(e.target.value)}
+          >
+            <option value="kjv">KJV (English)</option>
+            <option value="web">WEB (English)</option>
+            <option value="asv">ASV (English)</option>
+            <option value="acf">Almeida Corrigida (Português)</option>
+            <option value="nvi">NVI (Português)</option>
+            <option value="rvr">Reina-Valera 1909 (Español)</option>
+            <option value="wlc">WLC (Hebraico OT)</option>
+            <option value="tr">TR (Grego NT)</option>
+          </select>
+        </div>
+
+        <div className="control-group">
+          <label htmlFor="book-select">Book</label>
+          <select 
+            id="book-select"
+            className="bible-select"
+            value={selectedBook.name}
+            onChange={(e) => {
+              const book = BIBLE_BOOKS.find(b => b.name === e.target.value);
+              setSelectedBook(book);
+              setSelectedChapter(1); // Reset to chapter 1 on book change
+            }}
+          >
+            {BIBLE_BOOKS.map((b, i) => {
+              const locName = currentBible && currentBible[i] ? currentBible[i].name : b.name;
+              return <option key={b.name} value={b.name}>{locName}</option>;
+            })}
+          </select>
+        </div>
+
+        <div className="control-group">
+          <label htmlFor="chapter-select">Chapter</label>
+          <select 
+            id="chapter-select"
+            className="bible-select"
+            value={selectedChapter}
+            onChange={(e) => setSelectedChapter(Number(e.target.value))}
+          >
+            {Array.from({ length: selectedBook.chapters }, (_, i) => i + 1).map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
+        </div>
+      </div>
+
+      <div className="bible-content-area">
+        {loading && <div className="bible-loading">Carregando Bíblia...</div>}
+        {error && <div className="bible-error">{error}</div>}
+        
+        {!loading && !error && (
+          <div className="bible-verses">
+            <h2 className="bible-chapter-title">{localizedBookName} {selectedChapter}</h2>
+            
+            {verses.length === 0 ? (
+              <p className="bible-verse" style={{ fontStyle: 'italic', opacity: 0.7, textAlign: 'center', marginTop: '2rem' }}>
+                Conteúdo não disponível nesta tradução.
+                {(translation === 'tr' && selectedBook.name !== 'Matthew') ? ' (O Textus Receptus contém apenas o Novo Testamento)' : ''}
+                {(translation === 'wlc' && selectedBook.name === 'Matthew') ? ' (O Codex Leningradensis contém apenas o Antigo Testamento)' : ''}
+              </p>
+            ) : (
+              verses.map((text, i) => (
+                <p key={i} className="bible-verse">
+                  <sup className="bible-verse-num">{i + 1}</sup> {text}
+                </p>
+              ))
+            )}
+          </div>
+        )}
+
+        {/* ── RELATED SERMONS SECTION ── */}
+        {!loading && !error && relatedSermons.length > 0 && (
+          <div style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid var(--border)' }}>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontSize: '1.2rem' }}>
+              💡 Sermons based on {selectedBook.name} {selectedChapter}
+            </h3>
+            <ul style={{ listStyle: 'none', padding: 0, display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+              {relatedSermons.map(sermon => (
+                <li key={sermon.slug}>
+                  <a href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} style={{ textDecoration: 'none', color: 'var(--text-primary)' }}>
+                    <div style={{ background: 'var(--surface-2)', padding: '1rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'border-color 0.2s' }}
+                         onMouseOver={(e) => e.currentTarget.style.borderColor = 'var(--accent)'}
+                         onMouseOut={(e) => e.currentTarget.style.borderColor = 'var(--border)'}>
+                      <strong style={{ display: 'block', marginBottom: '0.25rem' }}>{sermon.title}</strong>
+                      <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
+                        Volume {sermon.volumeNum} ({sermon.year}) • {sermon.scripture?.reference || sermon.scripture?.verse || ''}
+                      </span>
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+      
+      {/* Chapter Navigation */}
+      <div className="bible-nav-footer">
+        <button 
+          className="bible-nav-btn"
+          disabled={selectedChapter <= 1}
+          onClick={() => setSelectedChapter(c => c - 1)}
+        >
+          &larr; Anterior
+        </button>
+        <button 
+          className="bible-nav-btn"
+          disabled={selectedChapter >= selectedBook.chapters}
+          onClick={() => setSelectedChapter(c => c + 1)}
+        >
+          Próximo &rarr;
+        </button>
+      </div>
+    </div>
+  );
+}
