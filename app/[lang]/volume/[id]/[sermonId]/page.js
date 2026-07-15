@@ -7,6 +7,7 @@ import { linkifyBibleReferences } from '../../../../../lib/linkifyBible';
 import ReaderTools from './ReaderTools';
 import SermonTags from './SermonTags';
 import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRenderer';
+import { getDictionary } from '../../../../../lib/dictionaries';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -72,6 +73,7 @@ export async function generateMetadata({ params }) {
 
 export default async function SermonPage({ params }) {
   const { id, sermonId, lang } = await params;
+  const dict = await getDictionary(lang);
 
   const [sermon, neighbors] = await Promise.all([
     getSermonContent(id, sermonId, lang),
@@ -96,12 +98,12 @@ export default async function SermonPage({ params }) {
   return (
     <div className="reader-container">
       <Link href={`/${lang}`} className="back-link">
-        ← Back to Home
+        ← {dict.navigation.backToHome}
       </Link>
 
       <article>
         <header className="reader-header">
-          <div className="meta">Volume {volNum} · Sermon {sermonNum}</div>
+          <div className="meta">{dict.volume.title.replace('{num}', volNum)} · {dict.volume.table.sermon} {sermonNum}</div>
           <h1 className="title-gold">{sermon.title}</h1>
           {sermon.scripture && (
             <div className="reader-scripture">
@@ -122,10 +124,10 @@ export default async function SermonPage({ params }) {
           dangerouslySetInnerHTML={{ __html: sermon.content }}
         />
         
-        <SermonTags tags={tags} />
+        <SermonTags tags={tags} dict={dict} />
       </article>
 
-      <BibleTooltipRenderer />
+      <BibleTooltipRenderer dict={dict} />
 
       {/* ── SERMON NAVIGATION ── */}
       <nav className="sermon-nav" aria-label="Sermon navigation">
@@ -134,7 +136,7 @@ export default async function SermonPage({ params }) {
             <Link href={`/${lang}/volume/${id}/${neighbors.prev.slug}`} className="sermon-nav-link sermon-nav-link--prev">
               <span className="sermon-nav-arrow" aria-hidden="true">←</span>
               <span className="sermon-nav-text">
-                <span className="sermon-nav-label">Previous Sermon</span>
+                <span className="sermon-nav-label">{dict.navigation.previousSermon}</span>
                 <span className="sermon-nav-title">{neighbors.prev.title}</span>
               </span>
             </Link>
@@ -142,13 +144,13 @@ export default async function SermonPage({ params }) {
             <span className="sermon-nav-link sermon-nav-link--disabled" aria-disabled="true">
               <span className="sermon-nav-arrow" aria-hidden="true">←</span>
               <span className="sermon-nav-text">
-                <span className="sermon-nav-label">First Sermon</span>
+                <span className="sermon-nav-label">{dict.navigation.firstSermon}</span>
               </span>
             </span>
           )}
         </div>
 
-        <Link href={`/${lang}/volume/${id}`} className="sermon-nav-volume-btn" title={`Back to Volume ${volNum}`}>
+        <Link href={`/${lang}/volume/${id}`} className="sermon-nav-volume-btn" title={dict.reader.backToVolume.replace('{num}', volNum)}>
           Vol. {volNum}
         </Link>
 
@@ -156,7 +158,7 @@ export default async function SermonPage({ params }) {
           {neighbors.next ? (
             <Link href={`/${lang}/volume/${id}/${neighbors.next.slug}`} className="sermon-nav-link sermon-nav-link--next">
               <span className="sermon-nav-text">
-                <span className="sermon-nav-label">Next Sermon</span>
+                <span className="sermon-nav-label">{dict.navigation.nextSermon}</span>
                 <span className="sermon-nav-title">{neighbors.next.title}</span>
               </span>
               <span className="sermon-nav-arrow" aria-hidden="true">→</span>
@@ -164,14 +166,14 @@ export default async function SermonPage({ params }) {
           ) : (
             <span className="sermon-nav-link sermon-nav-link--disabled" aria-disabled="true">
               <span className="sermon-nav-text">
-                <span className="sermon-nav-label">Last Sermon</span>
+                <span className="sermon-nav-label">{dict.navigation.lastSermon}</span>
               </span>
               <span className="sermon-nav-arrow" aria-hidden="true">→</span>
             </span>
           )}
         </div>
       </nav>
-      <ReaderTools />
+      <ReaderTools dict={dict} />
     </div>
   );
 }

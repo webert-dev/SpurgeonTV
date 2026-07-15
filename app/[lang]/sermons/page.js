@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getPaginatedSermons } from '../../../lib/sermons';
 import SearchClient from '../search-client';
+import { getDictionary } from '../../../lib/dictionaries';
 
 export const metadata = {
   title: 'All Sermons | SPURGEON TV',
@@ -9,6 +10,7 @@ export const metadata = {
 
 export default async function SermonsPage({ params, searchParams }) {
   const { lang } = await params;
+  const dict = await getDictionary(lang);
   const resolvedSearchParams = await searchParams;
   const page = parseInt(resolvedSearchParams?.page || '1', 10);
 
@@ -39,8 +41,8 @@ export default async function SermonsPage({ params, searchParams }) {
       {/* ── SERMONS GRID ── */}
       <section className="container volumes-section">
         <div className="section-header">
-          <h2 className="section-title">All Sermons</h2>
-          <p className="section-subtitle">Read sequentially through the complete collection</p>
+          <h2 className="section-title">{dict.sermons.title}</h2>
+          <p className="section-subtitle">{dict.home.featured.subtitle}</p>
         </div>
 
         <div className="sermons-flex-grid">
@@ -68,10 +70,10 @@ export default async function SermonsPage({ params, searchParams }) {
                   </div>
                   <div style={{ marginTop: 'auto', paddingTop: '1rem', borderTop: '1px solid var(--border)', width: '100%' }}>
                     <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>
-                      Volume {sermon.volumeNum}
+                      {dict.volume.title.replace('{num}', sermon.volumeNum)}
                     </p>
                     <p style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--accent)' }}>
-                      {sermon.scripture?.reference || 'Topical'}
+                      {sermon.scripture?.reference || dict.home.featured.topical}
                     </p>
                   </div>
                 </div>
@@ -89,11 +91,11 @@ export default async function SermonsPage({ params, searchParams }) {
               aria-disabled={currentPage <= 1}
               tabIndex={currentPage <= 1 ? -1 : 0}
             >
-              &larr; Previous
+              &larr; {dict.sermons.pagination.previous}
             </Link>
 
             <span className="pagination-info">
-              Page {currentPage} of {totalPages}
+              {dict.sermons.pagination.page.replace('{current}', currentPage).replace('{total}', totalPages)}
             </span>
 
             <Link
@@ -102,7 +104,7 @@ export default async function SermonsPage({ params, searchParams }) {
               aria-disabled={currentPage >= totalPages}
               tabIndex={currentPage >= totalPages ? -1 : 0}
             >
-              Next &rarr;
+              {dict.sermons.pagination.next} &rarr;
             </Link>
           </div>
         )}
@@ -112,10 +114,10 @@ export default async function SermonsPage({ params, searchParams }) {
       <section className="stats-section stats-section--small">
         <div className="container stats-grid">
           {[
-            { number: '3,563', label: 'Published Sermons' },
-            { number: '63', label: 'Volumes' },
-            { number: '40', label: 'Years of Ministry' },
-            { number: '14,000', label: 'Church Members' },
+            { number: '3,563', label: dict.home.stats.sermons },
+            { number: '63', label: dict.home.stats.volumes },
+            { number: '40', label: dict.home.stats.years },
+            { number: '14,000', label: dict.home.stats.members },
           ].map((s) => (
             <div key={s.label} className="stat-item">
               <span className="stat-number">{s.number}</span>
@@ -130,9 +132,9 @@ export default async function SermonsPage({ params, searchParams }) {
         <div className="container quote-inner">
           <span className="quote-mark">&ldquo;</span>
           <blockquote className="quote-text">
-            A Bible that is falling apart usually belongs to someone who isn&apos;t.
+            {dict.home.quote.text}
           </blockquote>
-          <cite className="quote-author">— Charles H. Spurgeon</cite>
+          <cite className="quote-author">— {dict.home.quote.author}</cite>
         </div>
       </section>
     </div>

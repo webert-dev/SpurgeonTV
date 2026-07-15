@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getPaginatedSermons } from '../../lib/sermons';
 import SearchClient from './search-client';
+import { getDictionary } from '../../lib/dictionaries';
 
 export const metadata = {
   title: 'SPURGEON TV | Charles Haddon Spurgeon — The Complete Sermon Collection',
@@ -53,6 +54,7 @@ const recentArticles = [
 
 export default async function HomePage({ params }) {
   const { lang } = await params;
+  const dict = await getDictionary(lang);
 
   // Fetch first 4 sermons for the featured section
   const { sermons: featuredSermons } = await getPaginatedSermons(lang, 1, 4);
@@ -68,7 +70,7 @@ export default async function HomePage({ params }) {
         <div className="home-hero-ornament" aria-hidden="true">✦</div>
 
         <div className="container home-hero-content">
-          <p className="home-hero-eyebrow">The Prince of Preachers</p>
+          <p className="home-hero-eyebrow">{dict.home.heroEyebrow}</p>
 
           <h1 className="home-hero-title">
             Charles Haddon
@@ -76,20 +78,20 @@ export default async function HomePage({ params }) {
           </h1>
 
           <p className="home-hero-subtitle">
-            Over 3,500 sermons. 63 volumes. One timeless voice.
+            {dict.home.heroSubtitle}
           </p>
 
           <div className="home-hero-search">
-            <SearchClient lang={lang} />
+            <SearchClient lang={lang} dict={dict} />
           </div>
 
           <div className="home-hero-ctas">
             <Link href={`/${lang}/sermons`} className="home-cta-primary">
-              Browse Sermons
+              {dict.home.browseSermons}
               <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
             </Link>
             <Link href={`/${lang}/about`} className="home-cta-secondary">
-              Read About Spurgeon
+              {dict.home.readAbout}
             </Link>
           </div>
         </div>
@@ -101,10 +103,10 @@ export default async function HomePage({ params }) {
       <section className="home-stats">
         <div className="container home-stats-inner">
           {[
-            { number: '3,563', label: 'Published Sermons' },
-            { number: '63', label: 'Volumes' },
-            { number: '40', label: 'Years of Ministry' },
-            { number: '14,000', label: 'Church Members' },
+            { number: '3,563', label: dict.home.stats.sermons },
+            { number: '63', label: dict.home.stats.volumes },
+            { number: '40', label: dict.home.stats.years },
+            { number: '14,000', label: dict.home.stats.members },
           ].map((s, i) => (
             <div key={s.label} className="home-stat-item">
               {i > 0 && <div className="home-stat-divider" />}
@@ -121,12 +123,12 @@ export default async function HomePage({ params }) {
       <section className="home-section container">
         <div className="home-section-header">
           <div>
-            <p className="home-section-eyebrow">The Collection</p>
-            <h2 className="home-section-title">Featured Sermons</h2>
-            <p className="home-section-subtitle">Start at the beginning — Spurgeon's earliest masterworks</p>
+            <p className="home-section-eyebrow">{dict.home.featured.eyebrow}</p>
+            <h2 className="home-section-title">{dict.home.featured.title}</h2>
+            <p className="home-section-subtitle">{dict.home.featured.subtitle}</p>
           </div>
           <Link href={`/${lang}/sermons`} className="home-see-all">
-            Browse all sermons <span>→</span>
+            {dict.home.featured.browseAll} <span>→</span>
           </Link>
         </div>
 
@@ -143,8 +145,8 @@ export default async function HomePage({ params }) {
                   <p className="home-sermon-verse">&ldquo;{sermon.scripture.verse}&rdquo;</p>
                 )}
                 <div className="home-sermon-footer">
-                  <span className="home-sermon-vol">Vol. {sermon.volumeNum}</span>
-                  <span className="home-sermon-ref">{sermon.scripture?.reference || 'Topical'}</span>
+                  <span className="home-sermon-vol">{dict.home.featured.vol} {sermon.volumeNum}</span>
+                  <span className="home-sermon-ref">{sermon.scripture?.reference || dict.home.featured.topical}</span>
                 </div>
               </Link>
             );
@@ -159,12 +161,12 @@ export default async function HomePage({ params }) {
         <div className="container">
           <div className="home-section-header">
             <div>
-              <p className="home-section-eyebrow">The Man Behind the Sermons</p>
-              <h2 className="home-section-title">Latest Articles</h2>
-              <p className="home-section-subtitle">Explore Spurgeon's life, theology, and controversies</p>
+              <p className="home-section-eyebrow">{dict.home.articles.eyebrow}</p>
+              <h2 className="home-section-title">{dict.home.articles.title}</h2>
+              <p className="home-section-subtitle">{dict.home.articles.subtitle}</p>
             </div>
             <Link href={`/${lang}/about`} className="home-see-all">
-              All articles <span>→</span>
+              {dict.home.articles.allArticles} <span>→</span>
             </Link>
           </div>
 
@@ -181,7 +183,7 @@ export default async function HomePage({ params }) {
                   <div className="home-article-meta">
                     <span>{article.date}</span>
                     <span>·</span>
-                    <span>{article.readTime} read</span>
+                    <span>{article.readTime} {dict.home.articles.read}</span>
                   </div>
                 </div>
                 <div className="home-article-arrow">→</div>
@@ -197,9 +199,9 @@ export default async function HomePage({ params }) {
       <section className="home-section container">
         <div className="home-section-header" style={{ marginBottom: '2.5rem' }}>
           <div>
-            <p className="home-section-eyebrow">Study Tools</p>
-            <h2 className="home-section-title">More to Explore</h2>
-            <p className="home-section-subtitle">Tools to deepen your study of Spurgeon and Scripture</p>
+            <p className="home-section-eyebrow">{dict.home.tools.eyebrow}</p>
+            <h2 className="home-section-title">{dict.home.tools.title}</h2>
+            <p className="home-section-subtitle">{dict.home.tools.subtitle}</p>
           </div>
         </div>
 
@@ -207,18 +209,18 @@ export default async function HomePage({ params }) {
           <Link href={`/${lang}/bible`} className="home-tool-card home-tool-bible">
             <div className="home-tool-icon">📖</div>
             <div className="home-tool-body">
-              <h3 className="home-tool-title">Bible Reader</h3>
-              <p className="home-tool-desc">Read the Scriptures in multiple versions — KJV, NIV, ESV, and more — the same texts Spurgeon preached from.</p>
-              <span className="home-tool-cta">Open Bible →</span>
+              <h3 className="home-tool-title">{dict.home.tools.bibleTitle}</h3>
+              <p className="home-tool-desc">{dict.home.tools.bibleDesc}</p>
+              <span className="home-tool-cta">{dict.home.tools.bibleCta} →</span>
             </div>
           </Link>
 
           <Link href={`/${lang}/dictionary`} className="home-tool-card home-tool-dict">
             <div className="home-tool-icon">📜</div>
             <div className="home-tool-body">
-              <h3 className="home-tool-title">Theological Dictionary</h3>
-              <p className="home-tool-desc">A curated glossary of theological and historical terms essential for understanding Spurgeon's 19th-century world.</p>
-              <span className="home-tool-cta">Open Dictionary →</span>
+              <h3 className="home-tool-title">{dict.home.tools.dictTitle}</h3>
+              <p className="home-tool-desc">{dict.home.tools.dictDesc}</p>
+              <span className="home-tool-cta">{dict.home.tools.dictCta} →</span>
             </div>
           </Link>
         </div>
@@ -231,9 +233,9 @@ export default async function HomePage({ params }) {
         <div className="container home-quote-inner">
           <div className="home-quote-mark">&ldquo;</div>
           <blockquote className="home-quote-text">
-            A Bible that is falling apart usually belongs to someone who isn&apos;t.
+            {dict.home.quote.text}
           </blockquote>
-          <cite className="home-quote-author">— Charles Haddon Spurgeon</cite>
+          <cite className="home-quote-author">— {dict.home.quote.author}</cite>
         </div>
       </section>
 

@@ -8,15 +8,13 @@ import Link from 'next/link';
  * A collapsible panel that shows enriched metadata for a single sermon.
  * Rendered inside the volume listing below each sermon item.
  */
-export default function SermonInfoPanel({ meta, lang = 'en' }) {
+export default function SermonInfoPanel({ meta, lang = 'en', dict }) {
   const [open, setOpen] = useState(false);
 
-  const i18n = {
-    en: { aSermon: 'A Sermon', hide: 'Hide details', view: 'View sermon details', by: 'By the Rev. C. H. Spurgeon', at: 'At' },
-    es: { aSermon: 'Un Sermón', hide: 'Ocultar detalles', view: 'Ver detalles del sermón', by: 'Por el Rev. C. H. Spurgeon', at: 'En' },
-    pt: { aSermon: 'Um Sermão', hide: 'Ocultar detalhes', view: 'Ver detalhes do sermão', by: 'Pelo Rev. C. H. Spurgeon', at: 'Em' },
+  // Fallback if dict is not provided
+  const t = dict?.reader?.panel || {
+    aSermon: 'A Sermon', hide: 'Hide details', view: 'View sermon details', by: 'By the Rev. C. H. Spurgeon', at: 'At'
   };
-  const t = i18n[lang] || i18n.en;
 
   if (!meta) return null;
 

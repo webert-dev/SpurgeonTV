@@ -1,0 +1,152 @@
+{
+  "navigation": {
+    "home": "Home",
+    "sermons": "All Sermons",
+    "volumes": "Complete Collection",
+    "theology": "Theology",
+    "biography": "Biography",
+    "search": "Search",
+    "backToHome": "Back to Home",
+    "previousSermon": "Previous Sermon",
+    "nextSermon": "Next Sermon",
+    "firstSermon": "First Sermon",
+    "lastSermon": "Last Sermon"
+  },
+  "footer": {
+    "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
+    "quote": "“Visit many good books, but live in the Bible.” — C.H. Spurgeon"
+  },
+  "home": {
+    "heroEyebrow": "The Prince of Preachers",
+    "heroSubtitle": "Over 3,500 sermons. 63 volumes. One timeless voice.",
+    "browseSermons": "Browse Sermons",
+    "readAbout": "Read About Spurgeon",
+    "stats": {
+      "sermons": "Published Sermons",
+      "volumes": "Volumes",
+      "years": "Years of Ministry",
+      "members": "Church Members"
+    },
+    "featured": {
+      "eyebrow": "The Collection",
+      "title": "Featured Sermons",
+      "subtitle": "Start at the beginning — Spurgeon's earliest masterworks",
+      "browseAll": "Browse all sermons",
+      "topical": "Topical",
+      "vol": "Vol."
+    },
+    "articles": {
+      "eyebrow": "The Man Behind the Sermons",
+      "title": "Latest Articles",
+      "subtitle": "Explore Spurgeon's life, theology, and controversies",
+      "allArticles": "All articles",
+      "read": "read"
+    },
+    "tools": {
+      "eyebrow": "Study Tools",
+      "title": "More to Explore",
+      "subtitle": "Tools to deepen your study of Spurgeon and Scripture",
+      "bibleTitle": "Bible Reader",
+      "bibleDesc": "Read the Scriptures in multiple versions — KJV, NIV, ESV, and more — the same texts Spurgeon preached from.",
+      "bibleCta": "Open Bible",
+      "dictTitle": "Theological Dictionary",
+      "dictDesc": "A curated glossary of theological and historical terms essential for understanding Spurgeon's 19th-century world.",
+      "dictCta": "Open Dictionary"
+    },
+    "quote": {
+      "text": "A Bible that is falling apart usually belongs to someone who isn't.",
+      "author": "Charles Haddon Spurgeon"
+    }
+  },
+  "sermons": {
+    "title": "All Sermons",
+    "searchPlaceholder": "Search sermons by title, topic, or scripture...",
+    "sorting": {
+      "newest": "Newest (Vol 63 → 1)",
+      "oldest": "Oldest (Vol 1 → 63)"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page {current} of {total}"
+    },
+    "noResults": "No sermons found matching your criteria."
+  },
+  "volume": {
+    "title": "Volume {num}",
+    "publishedIn": "Published in {year}",
+    "sermonCount": "{count} Sermons",
+    "table": {
+      "sermon": "Sermon",
+      "scripture": "Scripture"
+    }
+  },
+  "reader": {
+    "fontLabel": "Font Size:",
+    "themeLabel": "Theme:",
+    "themeLight": "Light",
+    "themeSepia": "Sepia",
+    "themeDark": "Dark",
+    "splitView": "Read along with Bible",
+    "preachedOn": "Preached on",
+    "scripture": "Scripture",
+    "tags": "Themes & Topics",
+    "noTags": "No tags assigned",
+    "backToVolume": "Back to Volume {num}",
+    "tools": {
+      "settings": "Bible Links",
+      "translation": "Translation for verses",
+      "theme": "Theme",
+      "font": "Font",
+      "spacing": "Spacing",
+      "decreaseFont": "Decrease font size",
+      "increaseFont": "Increase font size",
+      "focusMode": "Focus Mode",
+      "themes": {
+        "dark": "Dark",
+        "clear": "Clear",
+        "sepia": "Sepia"
+      },
+      "fonts": {
+        "serif": "Serif (Classic)",
+        "sans": "Sans-Serif (Clean)",
+        "comfortaa": "Comfortaa",
+        "lexend": "Dyslexia Friendly"
+      },
+      "spacings": {
+        "compact": "Compact",
+        "comfortable": "Comfortable",
+        "relaxed": "Relaxed"
+      }
+    },
+    "panel": {
+      "aSermon": "A Sermon",
+      "hide": "Hide details",
+      "view": "View sermon details",
+      "by": "By the Rev. C. H. Spurgeon",
+      "at": "At"
+    }
+  },
+  "bible": {
+    "selectBook": "Select Book...",
+    "selectChapter": "Select Chapter...",
+    "viewSermons": "View Sermons",
+    "viewCommentary": "View Commentary",
+    "pageTitle": "The Holy Bible",
+    "pageEyebrow": "Scripture",
+    "pageSubtitle": "Read the Word of God directly from SpurgeonTV.",
+    "reader": {
+      "version": "Version",
+      "book": "Book",
+      "chapter": "Chapter",
+      "loading": "Loading Bible...",
+      "error": "Failed to load the Bible translation. Please try again.",
+      "notAvailable": "Content not available in this translation.",
+      "ntOnly": " (Textus Receptus only contains the New Testament)",
+      "otOnly": " (WLC only contains the Old Testament)",
+      "relatedSermons": "💡 Sermons based on {book} {chapter}",
+      "previous": "Previous",
+      "next": "Next"
+    }
+  }
+}

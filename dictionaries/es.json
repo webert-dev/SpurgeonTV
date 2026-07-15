@@ -1,0 +1,153 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "sermons": "Todos los Sermones",
+    "volumes": "Colección Completa",
+    "theology": "Teología",
+    "biography": "Biografía",
+    "search": "Buscar",
+    "backToHome": "Volver al Inicio",
+    "previousSermon": "Sermón Anterior",
+    "nextSermon": "Próximo Sermón",
+    "firstSermon": "Primer Sermón",
+    "lastSermon": "Último Sermón",
+    "about": "Sobre Spurgeon"
+  },
+  "footer": {
+    "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
+    "quote": "“Visita muchos libros buenos, pero vive en la Biblia.” — C.H. Spurgeon"
+  },
+  "home": {
+    "heroEyebrow": "El Príncipe de los Predicadores",
+    "heroSubtitle": "Más de 3.500 sermones. 63 volúmenes. Una voz atemporal.",
+    "browseSermons": "Explorar Sermones",
+    "readAbout": "Leer Sobre Spurgeon",
+    "stats": {
+      "sermons": "Sermones Publicados",
+      "volumes": "Volúmenes",
+      "years": "Años de Ministerio",
+      "members": "Miembros de la Iglesia"
+    },
+    "featured": {
+      "eyebrow": "La Colección",
+      "title": "Sermones Destacados",
+      "subtitle": "Comience por el principio — las primeras obras maestras de Spurgeon",
+      "browseAll": "Ver todos los sermones",
+      "topical": "Tópico",
+      "vol": "Vol."
+    },
+    "articles": {
+      "eyebrow": "El Hombre Detrás de los Sermones",
+      "title": "Últimos Artículos",
+      "subtitle": "Explore la vida, teología y controversias de Spurgeon",
+      "allArticles": "Todos los artículos",
+      "read": "lectura"
+    },
+    "tools": {
+      "eyebrow": "Herramientas de Estudio",
+      "title": "Más para Explorar",
+      "subtitle": "Herramientas para profundizar su estudio de Spurgeon y las Escrituras",
+      "bibleTitle": "Lector de la Biblia",
+      "bibleDesc": "Lea las Escrituras en varias versiones — RVR, NVI, LBLA, y más — los mismos textos que Spurgeon predicó.",
+      "bibleCta": "Abrir Biblia",
+      "dictTitle": "Diccionario Teológico",
+      "dictDesc": "Un glosario seleccionado de términos teológicos e históricos esenciales para comprender el mundo del siglo XIX de Spurgeon.",
+      "dictCta": "Abrir Diccionario"
+    },
+    "quote": {
+      "text": "Una Biblia que se cae a pedazos por lo general pertenece a alguien que no lo está.",
+      "author": "Charles Haddon Spurgeon"
+    }
+  },
+  "sermons": {
+    "title": "Todos los Sermones",
+    "searchPlaceholder": "Buscar sermones por título, tema o escritura...",
+    "sorting": {
+      "newest": "Más Recientes (Vol 63 → 1)",
+      "oldest": "Más Antiguos (Vol 1 → 63)"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "page": "Página {current} de {total}"
+    },
+    "noResults": "No se encontraron sermones con sus criterios."
+  },
+  "volume": {
+    "title": "Volumen {num}",
+    "publishedIn": "Publicado en {year}",
+    "sermonCount": "{count} Sermones",
+    "table": {
+      "sermon": "Sermón",
+      "scripture": "Escritura"
+    }
+  },
+  "reader": {
+    "fontLabel": "Tamaño de Fuente:",
+    "themeLabel": "Tema:",
+    "themeLight": "Claro",
+    "themeSepia": "Sepia",
+    "themeDark": "Oscuro",
+    "splitView": "Leer junto a la Biblia",
+    "preachedOn": "Predicado en",
+    "scripture": "Escritura",
+    "tags": "Temas y Tópicos",
+    "noTags": "Sin etiquetas asignadas",
+    "backToVolume": "Volver al Volumen {num}",
+    "tools": {
+      "settings": "Enlaces de Biblia",
+      "translation": "Traducción para los versículos",
+      "theme": "Tema",
+      "font": "Fuente",
+      "spacing": "Espaciado",
+      "decreaseFont": "Disminuir fuente",
+      "increaseFont": "Aumentar fuente",
+      "focusMode": "Modo de Enfoque",
+      "themes": {
+        "dark": "Oscuro",
+        "clear": "Claro",
+        "sepia": "Sepia"
+      },
+      "fonts": {
+        "serif": "Serif (Clásica)",
+        "sans": "Sans-Serif (Limpia)",
+        "comfortaa": "Comfortaa",
+        "lexend": "Para Disléxicos"
+      },
+      "spacings": {
+        "compact": "Compacto",
+        "comfortable": "Cómodo",
+        "relaxed": "Relajado"
+      }
+    },
+    "panel": {
+      "aSermon": "Un Sermón",
+      "hide": "Ocultar detalles",
+      "view": "Ver detalles del sermón",
+      "by": "Por el Rev. C. H. Spurgeon",
+      "at": "En"
+    }
+  },
+  "bible": {
+    "selectBook": "Seleccione el Libro...",
+    "selectChapter": "Seleccione el Capítulo...",
+    "viewSermons": "Ver Sermones",
+    "viewCommentary": "Ver Comentario",
+    "pageTitle": "La Santa Biblia",
+    "pageEyebrow": "Escrituras",
+    "pageSubtitle": "Lee la Palabra de Dios directamente en SpurgeonTV.",
+    "reader": {
+      "version": "Versión",
+      "book": "Libro",
+      "chapter": "Capítulo",
+      "loading": "Cargando Biblia...",
+      "error": "Error al cargar la traducción de la Biblia. Inténtalo de nuevo.",
+      "notAvailable": "Contenido no disponible en esta traducción.",
+      "ntOnly": " (El Textus Receptus solo contiene el Nuevo Testamento)",
+      "otOnly": " (El WLC solo contiene el Antiguo Testamento)",
+      "relatedSermons": "💡 Sermones basados en {book} {chapter}",
+      "previous": "Anterior",
+      "next": "Próximo"
+    }
+  }
+}

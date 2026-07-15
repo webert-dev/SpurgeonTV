@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getVolumes, getSermonsInVolume } from '../../../../lib/sermons';
 import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';
+import { getDictionary } from '../../../../lib/dictionaries';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -24,22 +25,23 @@ export async function generateStaticParams() {
 
 export default async function VolumePage({ params }) {
   const { id, lang } = await params;
+  const dict = await getDictionary(lang);
   const sermons = await getSermonsInVolume(id, lang);
   const volNum = parseInt(id.replace('volume-', ''), 10);
 
   return (
     <div className="container" style={{ padding: '4rem 2rem' }}>
-      <Link href={`/${lang}`} className="back-link">
-        ← Back to Volumes
+      <Link href={`/${lang}/volumes`} className="back-link">
+        ← {dict.navigation.volumes}
       </Link>
 
       <div style={{ marginBottom: '3rem' }}>
         <p className="hero-eyebrow" style={{ textAlign: 'left', marginBottom: '0.5rem' }}>
-          Complete Collection
+          {dict.home.featured.eyebrow}
         </p>
-        <h1 className="title-gold" style={{ fontSize: '3rem' }}>Volume {volNum}</h1>
+        <h1 className="title-gold" style={{ fontSize: '3rem' }}>{dict.volume.title.replace('{num}', volNum)}</h1>
         <p style={{ color: 'var(--text-secondary)', marginTop: '0.5rem' }}>
-          {sermons.length} Sermons
+          {dict.volume.sermonCount.replace('{count}', sermons.length)}
         </p>
       </div>
 
@@ -71,7 +73,7 @@ export default async function VolumePage({ params }) {
                   </div>
                 </div>
               </Link>
-              <SermonInfoPanel meta={meta} lang={lang} />
+              <SermonInfoPanel meta={meta} lang={lang} dict={dict} />
             </div>
           );
         })}

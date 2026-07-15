@@ -15,7 +15,7 @@ const BIBLE_BOOKS = [
   '1 John', '2 John', '3 John', 'Jude', 'Revelation'
 ];
 
-export function BibleTooltipRenderer() {
+export function BibleTooltipRenderer({ dict }) {
   const { integrationEnabled, tooltipTranslation, isLoaded } = useBibleSettings();
   const [hoveredRef, setHoveredRef] = useState(null);
   const [tooltipData, setTooltipData] = useState(null);
@@ -94,7 +94,7 @@ export function BibleTooltipRenderer() {
               chapter,
               verse,
               endVerse,
-              text: versesText.length > 0 ? versesText.join(' ') : 'Verse not found in this translation.',
+              text: versesText.length > 0 ? versesText.join(' ') : (dict ? dict.bible.reader.notAvailable : 'Verse not found in this translation.'),
               bookLocalName: bibleData[bookIndex].name
             });
             return;
@@ -102,7 +102,7 @@ export function BibleTooltipRenderer() {
         }
       }
       
-      setTooltipData(prev => ({ ...prev, loading: false, text: 'Text not available.' }));
+      setTooltipData(prev => ({ ...prev, loading: false, text: dict ? dict.bible.reader.notAvailable : 'Text not available.' }));
     };
 
     const handleMouseOut = (e) => {
@@ -122,7 +122,7 @@ export function BibleTooltipRenderer() {
       document.removeEventListener('mouseout', handleMouseOut);
       if (hideTimeoutRef.current) clearTimeout(hideTimeoutRef.current);
     };
-  }, [integrationEnabled, isLoaded, tooltipTranslation, bibleCache, hoveredRef]);
+  }, [integrationEnabled, isLoaded, tooltipTranslation, bibleCache, hoveredRef, dict]);
 
   if (!integrationEnabled || !hoveredRef || !tooltipData) return null;
 
@@ -147,7 +147,7 @@ export function BibleTooltipRenderer() {
       }}
     >
       {tooltipData.loading ? (
-        <div className="bible-tooltip-loading">Loading...</div>
+        <div className="bible-tooltip-loading">{dict ? dict.bible.reader.loading : 'Loading...'}</div>
       ) : (
         <>
           <div className="bible-tooltip-header">

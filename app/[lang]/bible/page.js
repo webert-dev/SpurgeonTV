@@ -1,5 +1,6 @@
 import BibleReader from './BibleReader';
 import { getSearchIndex } from '../../../lib/sermons';
+import { getDictionary } from '../../../lib/dictionaries';
 
 export const metadata = {
   title: 'Bible | SpurgeonTV',
@@ -9,22 +10,23 @@ export const metadata = {
 export default async function BiblePage({ params }) {
   const { lang } = await params;
   const sermonsIndex = await getSearchIndex();
+  const dict = await getDictionary(lang);
 
   return (
     <div className="container" style={{ padding: '4rem 2rem' }}>
       <div style={{ marginBottom: '3rem', textAlign: 'center' }}>
         <p className="hero-eyebrow" style={{ marginBottom: '0.5rem' }}>
-          Scripture
+          {dict.bible.pageEyebrow}
         </p>
         <h1 className="title-gold" style={{ fontSize: '3.5rem', marginBottom: '1rem' }}>
-          The Holy Bible
+          {dict.bible.pageTitle}
         </h1>
         <p style={{ color: 'var(--text-secondary)', maxWidth: '600px', margin: '0 auto' }}>
-          Read the Word of God directly from SpurgeonTV.
+          {dict.bible.pageSubtitle}
         </p>
       </div>
       
-      <BibleReader lang={lang} sermons={sermonsIndex} />
+      <BibleReader lang={lang} sermons={sermonsIndex} dict={dict} />
     </div>
   );
 }

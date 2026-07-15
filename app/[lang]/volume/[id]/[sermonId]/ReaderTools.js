@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useBibleSettings } from '../../../../components/BibleSettingsProvider';
 
-export default function ReaderTools() {
+export default function ReaderTools({ dict }) {
   const { integrationEnabled, setIntegrationEnabled, tooltipTranslation, setTooltipTranslation } = useBibleSettings();
   const [scrollProgress, setScrollProgress] = useState(0);
   const [fontSizeOffset, setFontSizeOffset] = useState(0); // offset levels
@@ -87,14 +87,14 @@ export default function ReaderTools() {
         <div className="toolbar-content">
           {/* Configurações da Bíblia */}
           <div className="toolbar-bible-settings">
-            <label className="toolbar-toggle" title="Enable Bible Links">
+            <label className="toolbar-toggle" title={dict ? dict.reader.tools.settings : "Enable Bible Links"}>
               <input 
                 type="checkbox" 
                 checked={integrationEnabled}
                 onChange={(e) => setIntegrationEnabled(e.target.checked)}
               />
               <span className="toolbar-toggle-slider"></span>
-              <span className="toolbar-toggle-label">Bible Links</span>
+              <span className="toolbar-toggle-label">{dict ? dict.reader.tools.settings : "Bible Links"}</span>
             </label>
             
             {integrationEnabled && (
@@ -102,7 +102,7 @@ export default function ReaderTools() {
                 className="toolbar-select"
                 value={tooltipTranslation}
                 onChange={(e) => setTooltipTranslation(e.target.value)}
-                title="Translation for verses"
+                title={dict ? dict.reader.tools.translation : "Translation for verses"}
               >
                 <option value="kjv">KJV</option>
                 <option value="asv">ASV</option>
@@ -134,7 +134,7 @@ export default function ReaderTools() {
 
           {/* Theme Selector */}
           <div className="toolbar-theme-settings" style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', alignItems: 'center' }}>
-            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>Theme</span>
+            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{dict ? dict.reader.tools.theme : "Theme"}</span>
             <select 
               className="toolbar-select"
               onChange={(e) => {
@@ -143,12 +143,12 @@ export default function ReaderTools() {
                   document.body.classList.add(`theme-${e.target.value}`);
                 }
               }}
-              title="Reading Theme"
+              title={dict ? dict.reader.tools.theme : "Reading Theme"}
               style={{ width: '100%', marginBottom: '0.5rem' }}
             >
-              <option value="dark">Dark</option>
-              <option value="clear">Clear</option>
-              <option value="sepia">Sepia</option>
+              <option value="dark">{dict ? dict.reader.tools.themes.dark : "Dark"}</option>
+              <option value="clear">{dict ? dict.reader.tools.themes.clear : "Clear"}</option>
+              <option value="sepia">{dict ? dict.reader.tools.themes.sepia : "Sepia"}</option>
             </select>
           </div>
 
@@ -156,31 +156,31 @@ export default function ReaderTools() {
 
           {/* Typography Settings */}
           <div className="toolbar-theme-settings" style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', alignItems: 'center' }}>
-            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>Font</span>
+            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{dict ? dict.reader.tools.font : "Font"}</span>
             <select 
               className="toolbar-select"
               value={fontFamily}
               onChange={(e) => setFontFamily(e.target.value)}
-              title="Font Family"
+              title={dict ? dict.reader.tools.font : "Font Family"}
               style={{ width: '100%', marginBottom: '0.5rem' }}
             >
-              <option value="serif">Serif (Classic)</option>
-              <option value="sans">Sans-Serif (Clean)</option>
-              <option value="comfortaa">Comfortaa</option>
-              <option value="lexend">Dyslexia Friendly</option>
+              <option value="serif">{dict ? dict.reader.tools.fonts.serif : "Serif (Classic)"}</option>
+              <option value="sans">{dict ? dict.reader.tools.fonts.sans : "Sans-Serif (Clean)"}</option>
+              <option value="comfortaa">{dict ? dict.reader.tools.fonts.comfortaa : "Comfortaa"}</option>
+              <option value="lexend">{dict ? dict.reader.tools.fonts.lexend : "Dyslexia Friendly"}</option>
             </select>
 
-            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>Spacing</span>
+            <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{dict ? dict.reader.tools.spacing : "Spacing"}</span>
             <select 
               className="toolbar-select"
               value={lineHeight}
               onChange={(e) => setLineHeight(e.target.value)}
-              title="Line Spacing"
+              title={dict ? dict.reader.tools.spacing : "Line Spacing"}
               style={{ width: '100%', marginBottom: '0.5rem' }}
             >
-              <option value="1.5">Compact</option>
-              <option value="1.85">Comfortable</option>
-              <option value="2.2">Relaxed</option>
+              <option value="1.5">{dict ? dict.reader.tools.spacings.compact : "Compact"}</option>
+              <option value="1.85">{dict ? dict.reader.tools.spacings.comfortable : "Comfortable"}</option>
+              <option value="2.2">{dict ? dict.reader.tools.spacings.relaxed : "Relaxed"}</option>
             </select>
           </div>
 
@@ -189,16 +189,16 @@ export default function ReaderTools() {
           <button 
             className="toolbar-btn" 
             onClick={() => setFontSizeOffset(prev => Math.max(prev - 3, -4))}
-            title="Decrease font size"
-            aria-label="Decrease font size"
+            title={dict ? dict.reader.tools.decreaseFont : "Decrease font size"}
+            aria-label={dict ? dict.reader.tools.decreaseFont : "Decrease font size"}
           >
             A-
           </button>
           <button 
             className="toolbar-btn" 
             onClick={() => setFontSizeOffset(prev => Math.min(prev + 3, 8))}
-            title="Increase font size"
-            aria-label="Increase font size"
+            title={dict ? dict.reader.tools.increaseFont : "Increase font size"}
+            aria-label={dict ? dict.reader.tools.increaseFont : "Increase font size"}
           >
             A+
           </button>
@@ -208,8 +208,8 @@ export default function ReaderTools() {
           <button 
             className={`toolbar-btn ${isZenMode ? 'active' : ''}`} 
             onClick={() => setIsZenMode(!isZenMode)}
-            title="Focus Mode"
-            aria-label="Focus Mode"
+            title={dict ? dict.reader.tools.focusMode : "Focus Mode"}
+            aria-label={dict ? dict.reader.tools.focusMode : "Focus Mode"}
           >
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               {isZenMode ? (

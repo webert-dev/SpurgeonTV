@@ -3,13 +3,16 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 
-export default function SearchClient({ lang = 'en' }) {
+export default function SearchClient({ lang = 'en', dict }) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
   const [index, setIndex] = useState(null);
   const inputRef = useRef(null);
   const containerRef = useRef(null);
+
+  // Fallback to English if dict is not provided (shouldn't happen in production)
+  const placeholderText = dict ? dict.sermons.searchPlaceholder : "Search sermons, themes, biblical references...";
 
   // Lazy-load the search index on first focus
   async function loadIndex() {
@@ -81,7 +84,7 @@ export default function SearchClient({ lang = 'en' }) {
           ref={inputRef}
           className="search-input"
           type="text"
-          placeholder="Search sermons, themes, biblical references..."
+          placeholder={placeholderText}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onFocus={loadIndex}
@@ -115,7 +118,7 @@ export default function SearchClient({ lang = 'en' }) {
               }}
             >
               <div className="search-result-meta">
-                Vol. {sermon.volumeNum} ({sermon.year}) · Sermon {sermon.slug.replace('sermon-', '')}
+                {dict ? dict.volume.title.replace('{num}', sermon.volumeNum) : `Vol. ${sermon.volumeNum}`} ({sermon.year}) · {dict ? dict.volume.table.sermon : 'Sermon'} {sermon.slug.replace('sermon-', '')}
               </div>
               <div className="search-result-title">{sermon.title}</div>
               {sermon.scripture?.reference && (

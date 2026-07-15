@@ -2,8 +2,11 @@
 
 import { useState } from 'react';
 
-export default function SermonTags({ tags }) {
+export default function SermonTags({ tags, dict }) {
   const [isOpen, setIsOpen] = useState(false);
+
+  // Fallback
+  const titleText = dict ? dict.reader.tags : "Themes & Topics Abordados";
 
   if (!tags || tags.length === 0) return null;
 
@@ -34,7 +37,7 @@ export default function SermonTags({ tags }) {
                 <path d="M6 9l6 6 6-6" />
               </svg>
             </span>
-            <span className="summary-text">Themes & Topics Abordados</span>
+            <span className="summary-text">{titleText}</span>
           </div>
         </summary>
         <div className="sermon-tags-content">

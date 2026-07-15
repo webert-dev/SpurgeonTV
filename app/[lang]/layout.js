@@ -1,6 +1,7 @@
 import '../globals.css';
 import Link from 'next/link';
 import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
+import { getDictionary } from '../../lib/dictionaries';
 
 export const metadata = {
   title: 'SPURGEON TV | The Complete Sermon Collection',
@@ -9,6 +10,7 @@ export const metadata = {
 
 export default async function RootLayout({ children, params }) {
   const { lang } = await params;
+  const dict = await getDictionary(lang);
   
   return (
     <html lang={lang}>
@@ -25,11 +27,11 @@ export default async function RootLayout({ children, params }) {
                 SPURGEON<span>TV</span>
               </Link>
               <nav className="site-nav">
-                <Link href={`/${lang}/sermons`} className="nav-link">Sermons</Link>
-                <Link href={`/${lang}/volumes`} className="nav-link">Volumes</Link>
-                <Link href={`/${lang}/bible`} className="nav-link">Bible</Link>
-                <Link href={`/${lang}/dictionary`} className="nav-link">Dictionary</Link>
-                <Link href={`/${lang}/about`} className="nav-link">About Spurgeon</Link>
+                <Link href={`/${lang}/sermons`} className="nav-link">{dict.navigation.sermons}</Link>
+                <Link href={`/${lang}/volumes`} className="nav-link">{dict.navigation.volumes}</Link>
+                <Link href={`/${lang}/bible`} className="nav-link">{dict.navigation.bible}</Link>
+                <Link href={`/${lang}/dictionary`} className="nav-link">{dict.navigation.dictionary}</Link>
+                <Link href={`/${lang}/about`} className="nav-link">{dict.navigation.about}</Link>
               </nav>
             </div>
           </header>
@@ -40,10 +42,10 @@ export default async function RootLayout({ children, params }) {
             <div className="container footer-inner">
               <p className="footer-logo">SPURGEON<span>TV</span></p>
               <p className="footer-text">
-                The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.
+                {dict.footer.copyrightText}
               </p>
               <p className="footer-quote">
-                &ldquo;Visit many good books, but live in the Bible.&rdquo; — C.H. Spurgeon
+                {dict.footer.quote}
               </p>
             </div>
           </footer>

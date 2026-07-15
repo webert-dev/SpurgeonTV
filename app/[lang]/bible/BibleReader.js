@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
 
-export default function BibleReader({ lang, sermons = [] }) {
+export default function BibleReader({ lang, sermons = [], dict }) {
   const defaultTranslation = lang === 'pt' ? 'acf' : (lang === 'es' ? 'rvr' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
   const [selectedBook, setSelectedBook] = useState(BIBLE_BOOKS[0]);
@@ -31,7 +31,7 @@ export default function BibleReader({ lang, sermons = [] }) {
         setBibleCache(prev => ({ ...prev, [translation]: data }));
         updateVerses(data);
       } catch (err) {
-        setError('Failed to load the Bible translation. Please try again.');
+        setError(dict ? dict.bible.reader.error : 'Failed to load the Bible translation. Please try again.');
         setVerses([]);
       } finally {
         setLoading(false);
@@ -73,7 +73,7 @@ export default function BibleReader({ lang, sermons = [] }) {
     <div className="bible-reader-container">
       <div className="bible-controls">
         <div className="control-group">
-          <label htmlFor="translation-select">Version</label>
+          <label htmlFor="translation-select">{dict ? dict.bible.reader.version : "Version"}</label>
           <select 
             id="translation-select"
             className="bible-select"
@@ -106,7 +106,7 @@ export default function BibleReader({ lang, sermons = [] }) {
         </div>
 
         <div className="control-group">
-          <label htmlFor="book-select">Book</label>
+          <label htmlFor="book-select">{dict ? dict.bible.reader.book : "Book"}</label>
           <select 
             id="book-select"
             className="bible-select"
@@ -125,7 +125,7 @@ export default function BibleReader({ lang, sermons = [] }) {
         </div>
 
         <div className="control-group">
-          <label htmlFor="chapter-select">Chapter</label>
+          <label htmlFor="chapter-select">{dict ? dict.bible.reader.chapter : "Chapter"}</label>
           <select 
             id="chapter-select"
             className="bible-select"
@@ -140,7 +140,7 @@ export default function BibleReader({ lang, sermons = [] }) {
       </div>
 
       <div className="bible-content-area">
-        {loading && <div className="bible-loading">Carregando Bíblia...</div>}
+        {loading && <div className="bible-loading">{dict ? dict.bible.reader.loading : "Loading Bible..."}</div>}
         {error && <div className="bible-error">{error}</div>}
         
         {!loading && !error && (
@@ -149,9 +149,9 @@ export default function BibleReader({ lang, sermons = [] }) {
             
             {verses.length === 0 ? (
               <p className="bible-verse" style={{ fontStyle: 'italic', opacity: 0.7, textAlign: 'center', marginTop: '2rem' }}>
-                Conteúdo não disponível nesta tradução.
-                {(translation === 'tr' && selectedBook.name !== 'Matthew') ? ' (O Textus Receptus contém apenas o Novo Testamento)' : ''}
-                {(translation === 'wlc' && selectedBook.name === 'Matthew') ? ' (O Codex Leningradensis contém apenas o Antigo Testamento)' : ''}
+                {dict ? dict.bible.reader.notAvailable : "Content not available in this translation."}
+                {(translation === 'tr' && selectedBook.name !== 'Matthew') ? (dict ? dict.bible.reader.ntOnly : ' (Textus Receptus only contains the New Testament)') : ''}
+                {(translation === 'wlc' && selectedBook.name === 'Matthew') ? (dict ? dict.bible.reader.otOnly : ' (WLC only contains the Old Testament)') : ''}
               </p>
             ) : (
               verses.map((text, i) => (
@@ -167,7 +167,7 @@ export default function BibleReader({ lang, sermons = [] }) {
         {!loading && !error && relatedSermons.length > 0 && (
           <div style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid var(--border)' }}>
             <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontSize: '1.2rem' }}>
-              💡 Sermons based on {selectedBook.name} {selectedChapter}
+              {dict ? dict.bible.reader.relatedSermons.replace('{book}', selectedBook.name).replace('{chapter}', selectedChapter) : `💡 Sermons based on ${selectedBook.name} ${selectedChapter}`}
             </h3>
             <ul style={{ listStyle: 'none', padding: 0, display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
               {relatedSermons.map(sermon => (
@@ -196,14 +196,14 @@ export default function BibleReader({ lang, sermons = [] }) {
           disabled={selectedChapter <= 1}
           onClick={() => setSelectedChapter(c => c - 1)}
         >
-          &larr; Anterior
+          &larr; {dict ? dict.bible.reader.previous : "Previous"}
         </button>
         <button 
           className="bible-nav-btn"
           disabled={selectedChapter >= selectedBook.chapters}
           onClick={() => setSelectedChapter(c => c + 1)}
         >
-          Próximo &rarr;
+          {dict ? dict.bible.reader.next : "Next"} &rarr;
         </button>
       </div>
     </div>
