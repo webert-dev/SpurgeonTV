@@ -25,7 +25,7 @@ export default async function RootLayout({ children, params }) {
                 SPURGEON<span>TV</span>
               </Link>
               <nav className="site-nav">
-                <Link href={`/${lang}`} className="nav-link">Sermons</Link>
+                <Link href={`/${lang}/sermons`} className="nav-link">Sermons</Link>
                 <Link href={`/${lang}/volumes`} className="nav-link">Volumes</Link>
                 <Link href={`/${lang}/bible`} className="nav-link">Bible</Link>
                 <Link href={`/${lang}/dictionary`} className="nav-link">Dictionary</Link>

@@ -86,8 +86,22 @@ export default function BibleReader({ lang, sermons = [] }) {
             <option value="acf">Almeida Corrigida (Português)</option>
             <option value="nvi">NVI (Português)</option>
             <option value="rvr">Reina-Valera 1909 (Español)</option>
-            <option value="wlc">WLC (Hebraico OT)</option>
-            <option value="tr">TR (Grego NT)</option>
+            <option value="frlsg">Louis Segond 1910 (Français)</option>
+            <option value="lut">Lutherbibel 1912 (Deutsch)</option>
+            <option value="cuv">Chinese Union Version (中文)</option>
+            <option value="synod">Synodal Translation (Русский)</option>
+            <option value="svd">Smith-Van Dyck (العربية)</option>
+            <option value="krv">Korean Revised Version (한국어)</option>
+            <option value="vi1934">Kinh Thánh 1934 (Tiếng Việt)</option>
+            <option value="ncv">New Chinese Version (中文)</option>
+            <option value="el">Modern Greek (Ελληνικά)</option>
+            <option value="eo">Esperanto (Esperanto)</option>
+            <option value="fi">Finnish Bible (Suomi)</option>
+            <option value="pr">Pyhä Raamattu (Suomi)</option>
+            <option value="ro">Dumitru Cornilescu (Română)</option>
+            <option value="aa">Almeida Revisada (Português)</option>
+            <option value="wlc">WLC (Ancient Hebrew - OT)</option>
+            <option value="tr">TR (Ancient Greek - NT)</option>
           </select>
         </div>
 

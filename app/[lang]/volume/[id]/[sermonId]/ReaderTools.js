@@ -110,6 +110,20 @@ export default function ReaderTools() {
                 <option value="acf">ACF (PT)</option>
                 <option value="nvi">NVI (PT)</option>
                 <option value="rvr">RVR (ES)</option>
+                <option value="frlsg">FRLSG (FR)</option>
+                <option value="lut">LUT (DE)</option>
+                <option value="cuv">CUV (ZH)</option>
+                <option value="synod">Synodal (Ru)</option>
+                <option value="svd">SVD (Ar)</option>
+                <option value="krv">KRV (Ko)</option>
+                <option value="vi1934">1934 (Vi)</option>
+                <option value="ncv">NCV (ZH)</option>
+                <option value="el">Greek (EL)</option>
+                <option value="eo">Esperanto (EO)</option>
+                <option value="fi">Finnish (FI)</option>
+                <option value="pr">Pyhä (FI)</option>
+                <option value="ro">Dumitru (RO)</option>
+                <option value="aa">AA (PT)</option>
                 <option value="wlc">Hebrew</option>
                 <option value="tr">Greek</option>
               </select>
