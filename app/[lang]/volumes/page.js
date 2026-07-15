@@ -43,7 +43,7 @@ export default async function Home({ params }) {
           <h2 className="section-title">The 63 Volumes</h2>
           <p className="section-subtitle">Select a volume to explore the sermons</p>
         </div>
-        <div className="grid grid-cols-4">
+        <div className="sermons-flex-grid">
           {volumes.map((volume) => {
             const volNum = parseInt(volume.replace('volume-', ''), 10);
             return (

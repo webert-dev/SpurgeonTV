@@ -10,7 +10,7 @@ export default async function Home({ params, searchParams }) {
   const resolvedSearchParams = await searchParams;
   const page = parseInt(resolvedSearchParams?.page || '1', 10);
   
-  const { sermons, total, totalPages, currentPage } = await getPaginatedSermons(lang, page, 20);
+  const { sermons, total, totalPages, currentPage } = await getPaginatedSermons(lang, page, 9);
 
   const stats = [
     { number: '3,563', label: 'Published Sermons' },
@@ -50,7 +50,7 @@ export default async function Home({ params, searchParams }) {
           <p className="section-subtitle">Read sequentially through the complete collection</p>
         </div>
         
-        <div className="grid grid-cols-4">
+        <div className="sermons-flex-grid">
           {sermons.map((sermon) => {
             const sermonNum = parseInt(sermon.slug.match(/\d+/)?.[0] || '0', 10);
             return (

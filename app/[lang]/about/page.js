@@ -1,6 +1,7 @@
 import Link from 'next/link';
+import AboutArticleList from '@/app/components/AboutArticleList';
 
-export default function SobrePage() {
+export default function SobrePage({ params: { lang } }) {
   const timeline = [
     {
       year: '1834',
@@ -76,7 +77,7 @@ export default function SobrePage() {
   return (
     <div className="about-page">
       {/* HERO */}
-      <section className="about-hero" style={{ paddingBottom: '3rem' }}>
+      <section className="about-hero" style={{ paddingBottom: '1rem' }}>
         <div className="about-hero-glow" />
         <div className="container about-hero-content">
           <p className="hero-eyebrow">1834 – 1892</p>
@@ -87,7 +88,7 @@ export default function SobrePage() {
       </section>
 
       {/* BIO */}
-      <section className="container about-bio-section" style={{ marginTop: '-2rem' }}>
+      <section className="container about-bio-section" style={{ marginTop: '-5rem' }}>
         <div className="about-bio-grid">
           <div className="about-bio-text" style={{ textAlign: 'justify' }}>
             <h2 className="section-title" style={{ textAlign: 'left', marginBottom: '1.5rem' }}>Who was Spurgeon?</h2>
@@ -123,6 +124,8 @@ export default function SobrePage() {
         </div>
       </section>
 
+      <AboutArticleList lang={lang} />
+
       {/* TIMELINE */}
       <section className="timeline-section">
         <div className="container">
@@ -151,16 +154,7 @@ export default function SobrePage() {
         </div>
       </section>
 
-      {/* CLOSING QUOTE */}
-      <section className="quote-banner" style={{ marginTop: '4rem' }}>
-        <div className="container quote-inner">
-          <span className="quote-mark">&ldquo;</span>
-          <blockquote className="quote-text">
-            Visit many good books, but live in the Bible.
-          </blockquote>
-          <cite className="quote-author">— Charles H. Spurgeon</cite>
-        </div>
-      </section>
+
       {/* EXPLORE MORE (HUB) */}
       <section className="container hub-section" style={{ marginTop: '5rem', marginBottom: '5rem' }}>
         <h2 className="section-title" style={{ textAlign: 'center', marginBottom: '3rem' }}>Explore More</h2>
@@ -179,20 +173,30 @@ export default function SobrePage() {
           </Link>
 
           <Link href={`/en/about/controversies`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>7 Articles</span>
+            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>13 Articles</span>
             <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>Controversies</h3>
             <p style={{ color: 'var(--text-secondary)' }}>The battles for truth: Baptismal Regeneration and the Downgrade Controversy.</p>
           </Link>
 
           <Link href={`/en/about/preacher`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>0 Articles</span>
-            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>The Preacher</h3>
+            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>11 Articles</span>
+            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>The Preacher & His Work</h3>
             <p style={{ color: 'var(--text-secondary)' }}>His homiletics, the Pastors' College, and his profound influence on ministers.</p>
           </Link>
 
         </div>
       </section>
 
+      {/* CLOSING QUOTE */}
+      <section className="quote-banner" style={{ marginTop: '4rem' }}>
+        <div className="container quote-inner">
+          <span className="quote-mark">&ldquo;</span>
+          <blockquote className="quote-text">
+            Visit many good books, but live in the Bible.
+          </blockquote>
+          <cite className="quote-author">— Charles H. Spurgeon</cite>
+        </div>
+      </section>
     </div>
   );
 }

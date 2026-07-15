@@ -132,11 +132,11 @@ h1, h2, h3, h4, h5, h6 {
 .hero-section {
   position: relative;
   z-index: 10;
-  min-height: 90vh;
+  min-height: 50vh;
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  padding: 2rem 0 4rem;
+  padding: 1rem 0 1rem;
 }
 
 .hero-bg-glow {
@@ -457,6 +457,18 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 1024px) { .grid-cols-4 { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 768px) { .grid-cols-3, .grid-cols-4 { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .grid-cols-2, .grid-cols-3, .grid-cols-4 { grid-template-columns: repeat(1, 1fr); } }
+
+/* Custom Flex Grid for Centering Last Row */
+.sermons-flex-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.sermons-flex-grid > * {
+  flex: 1 1 240px;
+  max-width: 280px;
+}
 
 .card {
   background-color: var(--surface);

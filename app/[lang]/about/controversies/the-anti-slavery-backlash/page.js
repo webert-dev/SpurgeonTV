@@ -98,7 +98,10 @@ export default function TheAntiSlaveryBacklashPage() {
               <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', display: 'block', marginBottom: '0.3rem' }}>&larr; Previous Article</span>
               <span style={{ color: 'var(--accent)', fontFamily: 'var(--font-serif)', fontSize: '1.2rem', fontWeight: 'bold' }}>The Cigar Habit</span>
             </Link>
-            <div></div> {/* Empty div for flex spacing if there is no next */}
+            <Link href="/en/about/controversies/fighting-hyper-calvinism" style={{ textDecoration: 'none', textAlign: 'right' }}>
+              <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '1px', display: 'block', marginBottom: '0.3rem' }}>Next Article &rarr;</span>
+              <span style={{ color: 'var(--accent)', fontFamily: 'var(--font-serif)', fontSize: '1.2rem', fontWeight: 'bold' }}>Fighting Hyper-Calvinism</span>
+            </Link>
           </div>
 
         </div>

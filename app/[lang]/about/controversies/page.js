@@ -10,6 +10,96 @@ export default function ControversiesPage() {
       
       <div style={{ display: 'grid', gap: '2rem', maxWidth: '800px' }}>
         
+        {/* Article Card 13 */}
+        <Link href="/en/about/controversies/humor-in-the-pulpit" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              March 15, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              Humor in the Pulpit: The Controversy Over Spurgeon's Sagacity
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Discover why Charles Spurgeon's use of humor in preaching shocked the Victorian religious establishment and how he defended it.
+            </p>
+          </article>
+        </Link>
+
+        {/* Article Card 12 */}
+        <Link href="/en/about/controversies/theater-preaching" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              March 8, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              Theater Preaching: Confronting the Religious Establishment in Secular Halls
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Learn about Charles Spurgeon's controversial decision to preach in secular halls and the tragic Surrey Gardens incident.
+            </p>
+          </article>
+        </Link>
+
+        {/* Article Card 11 */}
+        <Link href="/en/about/controversies/higher-criticism" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              March 1, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              Higher Criticism: Confronting German Rationalism and the Defense of Biblical Authority
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Explore Charles Spurgeon's fierce defense of biblical authority against the rising tide of German Rationalism and higher criticism.
+            </p>
+          </article>
+        </Link>
+
+        {/* Article Card 10 */}
+        <Link href="/en/about/controversies/the-revivalism-debate" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              February 22, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              The Revivalism Debate: Critiques of Pragmatic Methods and Emotional Appeals
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Examine Charles Spurgeon's strong critiques against pragmatic revivalism, emotional manipulation, and Charles Finney's methodologies.
+            </p>
+          </article>
+        </Link>
+
+        {/* Article Card 9 */}
+        <Link href="/en/about/controversies/fighting-arminianism" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              February 15, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              Fighting Arminianism: The Fierce Critique of Free-Will Theology
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Explore Charles Spurgeon's fierce critique of free-will theology and his unapologetic defense of sovereign grace.
+            </p>
+          </article>
+        </Link>
+
+        {/* Article Card 8 */}
+        <Link href="/en/about/controversies/fighting-hyper-calvinism" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              February 8, 2026 • 5 min read
+            </div>
+            <h2 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.8rem' }}>
+              Fighting Hyper-Calvinism: The Battle Against the Extreme Right
+            </h2>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+              Learn about Charles Spurgeon's fierce battle against hyper-Calvinism and his defense of the free offer of the gospel.
+            </p>
+          </article>
+        </Link>
+
         {/* Article Card 7 */}
         <Link href="/en/about/controversies/the-anti-slavery-backlash" style={{ textDecoration: 'none', color: 'inherit' }}>
           <article style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer' }} className="article-card">
