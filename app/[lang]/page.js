@@ -61,6 +61,10 @@ export default async function HomePage({ params }) {
         <div className="home-hero-ornament" aria-hidden="true">✦</div>
 
         <div className="container home-hero-content">
+          <div className="home-hero-search" style={{ marginBottom: '2rem', width: '100%', maxWidth: '800px', margin: '0 auto 3rem auto' }}>
+            <SearchClient lang={lang} dict={dict} isGlobal={true} />
+          </div>
+
           <p className="home-hero-eyebrow">{dict.home.heroEyebrow}</p>
 
           <h1 className="home-hero-title">
@@ -71,10 +75,6 @@ export default async function HomePage({ params }) {
           <p className="home-hero-subtitle">
             {dict.home.heroSubtitle}
           </p>
-
-          <div className="home-hero-search">
-            <SearchClient lang={lang} dict={dict} />
-          </div>
 
           <div className="home-hero-ctas">
             <Link href={`/${lang}/sermons`} className="home-cta-primary">
