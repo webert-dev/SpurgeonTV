@@ -1,0 +1,1440 @@
+{
+  "anklet": {
+    "name": "Tornozeleira",
+    "slug": "anklet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Esta palavra não ocorre na Versão Autorizada; mas as tornozeleiras são mencionadas em (Isaías 3:16, 18, 20). Eram presas à faixa do tornozelo de cada perna; eram tão comuns quanto pulseiras e braceletes e feitas praticamente do mesmo material. O tinir e o tilintar agradável que faziam ao baterem umas contra as outras era, sem dúvida, uma das razões pelas quais eram admiradas. Elas ainda são usadas no Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:16",
+        "original": "Isaiah 3:16"
+      },
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isaiah 3:18"
+      },
+      {
+        "reference": "Isaiah 3:20",
+        "original": "Isaiah 3:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "badger": {
+    "name": "Texugo",
+    "slug": "badger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esta palavra é encontrada em Êx 25:5; 26:14; 35:7, 23; 36:19; 39:34; Nm 4:6, etc. O tabernáculo era coberto com peles de texugo; os sapatos das mulheres também eram feitos delas (Ez 16:10). Nossos tradutores parecem ter sido enganados pela semelhança sonora entre o hebraico tachash e o latim taxus, \"um texugo\". Os revisores substituíram corretamente por \"peles de foca\". Os árabes da península do Sinai aplicam o nome tucash às focas e dugongos que são comuns no Mar Vermelho, e cujas peles são amplamente usadas como couro e para sandálias. Embora o texugo seja comum na Palestina e pudesse ocorrer no deserto, sua pele pequena teria sido inútil como cobertura de tenda. O dugongo, muito abundante nas águas rasas nas margens do Mar Vermelho, é um animal marinho de 3 a 9 metros de comprimento, algo entre uma baleia e uma foca, nunca saindo da água, mas muito fácil de capturar. Ele se alimenta de algas marinhas e é conhecido pelos naturalistas como Halicore tabernaculi."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:5",
+        "original": "Ex. 25:5"
+      },
+      {
+        "reference": "Exodus 26:14",
+        "original": "Ex 26:14"
+      },
+      {
+        "reference": "Exodus 35:7",
+        "original": "Ex 35:7"
+      },
+      {
+        "reference": "Exodus 35:23",
+        "original": "Ex 35:23"
+      },
+      {
+        "reference": "Exodus 36:19",
+        "original": "Ex 36:19"
+      },
+      {
+        "reference": "Exodus 39:34",
+        "original": "Ex 39:34"
+      },
+      {
+        "reference": "Numbers 4:6",
+        "original": "Num. 4:6"
+      },
+      {
+        "reference": "Ezekiel 16:10",
+        "original": "Ezek. 16:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "barrel": {
+    "name": "Talha",
+    "slug": "barrel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um recipiente usado para guardar farinha (1 Rs 17:12, 14, 16). A mesma palavra (cad) assim traduzida também é traduzida como “pote”, um recipiente para carregar água (Gn 24:14; Jz 7:16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "1 Kings 17:14",
+        "original": "1 Kings 17:14"
+      },
+      {
+        "reference": "1 Kings 17:16",
+        "original": "1 Kings 17:16"
+      },
+      {
+        "reference": "Genesis 24:14",
+        "original": "Gen. 24:14"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judg. 7:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "bonnet": {
+    "name": "Turbante",
+    "slug": "bonnet",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. peer), Êx 39:28 (ARA, \"tiaras\"); Ez 44:18 (ARA, \"turbantes\"), denota propriamente um turbante usado pelos sacerdotes, e em Is 3:20 (ARA, \"tiaras\") um adorno de cabeça ou tiara usado pelas mulheres. A palavra hebraica assim traduzida significa literalmente um ornamento, como em Is 61:10 (ARA, \"coroa\"), e em Ez 24:17, 23 \"turbante\" (ARA, \"ornamento\"). Consistia em um pedaço de pano enrolado em torno da cabeça. Em Êx 28:40; 29:9 é a tradução de uma palavra hebraica diferente (migba’ah), que denota o turbante (ARA, \"tiaras\") do sacerdote comum, distinto da mitra do sumo sacerdote. (Veja MITRA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 39:28",
+        "original": "Ex. 39:28"
+      },
+      {
+        "reference": "Ezekiel 44:18",
+        "original": "Ezek. 44:18"
+      },
+      {
+        "reference": "Isaiah 3:20",
+        "original": "Isa. 3:20"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isa. 61:10"
+      },
+      {
+        "reference": "Ezekiel 24:17",
+        "original": "Ezek. 24:17"
+      },
+      {
+        "reference": "Ezekiel 24:23",
+        "original": "Ezek. 24:23"
+      },
+      {
+        "reference": "Exodus 28:40",
+        "original": "Ex. 28:40"
+      },
+      {
+        "reference": "Exodus 29:9",
+        "original": "Ex 29:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "bowl": {
+    "name": "Taca (ou Tigela)",
+    "slug": "bowl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os encaixes das lâmpadas do candelabro de ouro do tabernáculo são chamados de taças (Êx. 25:31, 33, 34; 37:17, 19, 20); a mesma palavra assim traduzida é em outros lugares traduzida como “copo” (Gên. 44:2, 12, 16) e “vasilha” de vinho (Jer. 35:5). O reservatório para azeite, do qual partiam tubos para cada lâmpada na visão de Zacarias sobre o candelabro, também é chamado por esse nome (Zac. 4:2, 3); assim também são os vasos usados para libações (Êx. 25:29; 37:16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:31",
+        "original": "Ex. 25:31"
+      },
+      {
+        "reference": "Exodus 25:33",
+        "original": "Ex. 25:33"
+      },
+      {
+        "reference": "Exodus 25:34",
+        "original": "Ex. 25:34"
+      },
+      {
+        "reference": "Genesis 44:2",
+        "original": "Gen. 44:2"
+      },
+      {
+        "reference": "Genesis 44:12",
+        "original": "Gen 44:12"
+      },
+      {
+        "reference": "Genesis 44:16",
+        "original": "Gen 44:16"
+      },
+      {
+        "reference": "Jeremiah 35:5",
+        "original": "Jer. 35:5"
+      },
+      {
+        "reference": "Zechariah 4:2",
+        "original": "Zech. 4:2"
+      },
+      {
+        "reference": "Zechariah 4:3",
+        "original": "Zech. 4:3"
+      },
+      {
+        "reference": "Exodus 25:29",
+        "original": "Ex. 25:29"
+      },
+      {
+        "reference": "Exodus 37:16",
+        "original": "Ex 37:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "brick": {
+    "name": "Tijolo",
+    "slug": "brick",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Gênesis 11:3) O tijolo em uso entre os judeus era muito maior do que os nossos, sendo geralmente de 30 a 33 centímetros quadrados e 9 centímetros de espessura; eles possuem, assim, mais o caráter de ladrilhos. (Ezequiel 4:1) Os israelitas, em comum com outros cativos, eram empregados pelos monarcas egípcios na fabricação de tijolos e na construção. (Êxodo 1:14; 5:7) Os tijolos egípcios não eram geralmente secos em fornos, mas ao sol. Que os fornos de tijolos eram conhecidos é evidente em (2 Samuel 12:31; Jeremias 43:9). Quando feitos da lama do Nilo, exigiam palha para evitar rachaduras. [Ver Palha]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:3",
+        "original": "Genesis 11:3"
+      },
+      {
+        "reference": "Ezekiel 4:1",
+        "original": "Ezekiel 4:1"
+      },
+      {
+        "reference": "Exodus 1:14",
+        "original": "Exodus 1:14"
+      },
+      {
+        "reference": "Exodus 5:7",
+        "original": "Exodus 5:7"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Samuel 12:31"
+      },
+      {
+        "reference": "Jeremiah 43:9",
+        "original": "Jeremiah 43:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "bricks": {
+    "name": "Tijolos",
+    "slug": "bricks",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A fabricação de tijolos constituía o principal trabalho dos israelitas no Egito (Êx 1:13, 14). Aqueles encontrados entre as ruínas da Babilônia e de Nínive têm cerca de um pé quadrado (aprox. 30 cm) e quatro polegadas (aprox. 10 cm) de espessura. Geralmente eram secos ao sol, embora por vezes também fossem cozidos em fornos (2 Sm 12:31; Jr 43:9; Na 3:14). (Veja NABUCODONOSOR). Os tijolos usados na Torre de Babel eram cozidos, cimentados na construção por betume (Gn 11:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 1:13",
+        "original": "Ex. 1:13"
+      },
+      {
+        "reference": "Exodus 1:14",
+        "original": "Ex. 1:14"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Sam. 12:31"
+      },
+      {
+        "reference": "Jeremiah 43:9",
+        "original": "Jer. 43:9"
+      },
+      {
+        "reference": "Nahum 3:14",
+        "original": "Nah. 3:14"
+      },
+      {
+        "reference": "Genesis 11:3",
+        "original": "Gen. 11:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "bull-bullock": {
+    "name": "Touro, Novilho",
+    "slug": "bull-bullock",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Termos usados como sinônimos de boi, bois, e propriamente um nome genérico para gado com chifres em idade adulta e apto para o arado. É traduzido de várias formas como “novilho” (Isaías 65:25), “vaca” (Ezequiel 4:15), “bois” (Gênesis 12:16). A palavra novilhas é usada na Bíblia como plural de vaca. Em Isaías 51:20, o “touro selvagem” (“boi selvagem” em 14:5) era possivelmente uma das maiores espécies de antílope, e recebeu esse nome por sua agilidade. O Dr. Robinson menciona rebanhos maiores de búfalos pretos e quase inofensivos que ainda existem na Palestina, e esses podem ser o animal indicado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isaiah 65:25"
+      },
+      {
+        "reference": "Ezekiel 4:15",
+        "original": "Ezekiel 4:15"
+      },
+      {
+        "reference": "Genesis 12:16",
+        "original": "Genesis 12:16"
+      },
+      {
+        "reference": "Isaiah 51:20",
+        "original": "Isaiah 51:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "ceiling": {
+    "name": "Teto",
+    "slug": "ceiling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O revestimento (1 Reis 7:3, 7) do teto interno e das paredes de uma casa com tábuas de madeira (2 Crôn. 3:5; Jer. 22:14). Os tetos eram por vezes adornados com vários ornamentos em estuque, ouro, prata, pedras preciosas e marfim. Os tetos do templo e do palácio de Salomão são descritos em 1 Reis 6:9, 15; 7:3; 2 Crôn. 3:5, 9."
+      },
+      {
+        "source": "SMI",
+        "text": "As descrições das Escrituras, (1 Reis 6:9, 15; 7:3; 2 Crônicas 3:5, 9; Jeremias 22:14; Ageu 1:4) e de Josefo, mostram que os tetos do templo e os palácios dos reis judeus eram formados por tábuas de cedro aplicadas às vigas ou barrotes que cruzavam de parede a parede. \"As casas orientais parecem ter sido o oposto das nossas, sendo o teto de madeira, ricamente ornamentado, e o piso de gesso ou azulejos.\""
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 7:3",
+        "original": "1 Kings 7:3"
+      },
+      {
+        "reference": "1 Kings 7:7",
+        "original": "1 Kings 7:7"
+      },
+      {
+        "reference": "2 Chronicles 3:5",
+        "original": "2 Chr. 3:5"
+      },
+      {
+        "reference": "Jeremiah 22:14",
+        "original": "Jer. 22:14"
+      },
+      {
+        "reference": "1 Kings 6:9",
+        "original": "1 Kings 6:9"
+      },
+      {
+        "reference": "1 Kings 6:15",
+        "original": "1 Kings 6:15"
+      },
+      {
+        "reference": "2 Chronicles 3:9",
+        "original": "2 Chr. 3:9"
+      },
+      {
+        "reference": "Haggai 1:4",
+        "original": "Haggai 1:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "charger": {
+    "name": "Travessa",
+    "slug": "charger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma bacia ou prato fundo. Os vasos de prata dados pelos chefes das tribos para os serviços do tabernáculo são chamados assim (Números 7:13, etc.). A “travessa” na qual a cabeça do Batista foi apresentada era um prato ou tábua de madeira plana (Mateus 14:8, 11; Marcos 6:25, 28). As travessas de ouro e prata de Esdras 1:9 eram provavelmente bacias para receber o sangue dos sacrifícios."
+      },
+      {
+        "source": "SMI",
+        "text": "um vaso raso para receber água ou sangue, também para apresentar ofertas de flor de farinha com azeite. (Números 7:79) A filha de Herodias trouxe a cabeça de São João Batista em uma travessa, (Mateus 14:8) provavelmente uma tábua ou prato. [Bacia]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 7:13",
+        "original": "Num. 7:13"
+      },
+      {
+        "reference": "Matthew 14:8",
+        "original": "Matt. 14:8"
+      },
+      {
+        "reference": "Matthew 14:11",
+        "original": "Matt. 14:11"
+      },
+      {
+        "reference": "Mark 6:25",
+        "original": "Mark 6:25"
+      },
+      {
+        "reference": "Mark 6:28",
+        "original": "Mark 6:28"
+      },
+      {
+        "reference": "Ezra 1:9",
+        "original": "Ezra 1:9"
+      },
+      {
+        "reference": "Numbers 7:79",
+        "original": "Numbers 7:79"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "coat": {
+    "name": "Túnica",
+    "slug": "coat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A túnica usada como camisa junto à pele (Levítico 16:4; Cantares 5:3; 2 Samuel 15:32; Êxodo 28:4; 29:5). As “túnicas de peles” preparadas por Deus para Adão e Eva provavelmente não eram nada mais do que aventais (Gênesis 3:21). Esta túnica era por vezes tecida inteira sem costura (João 19:23); também era por vezes de “muitas cores” (Gênesis 37:3; nota marginal da Versão Revisada, “uma peça longa com mangas”). A “túnica de pescador” de João 21:7 era obviamente uma peça de roupa exterior ou manto, assim como a “túnica” feita por Ana para Samuel (1 Samuel 2:19). (Veja VESTIMENTA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Vestimenta]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 16:4",
+        "original": "Lev. 16:4"
+      },
+      {
+        "reference": "Song of Solomon 5:3",
+        "original": "Cant. 5:3"
+      },
+      {
+        "reference": "2 Samuel 15:32",
+        "original": "2 Sam. 15:32"
+      },
+      {
+        "reference": "Exodus 28:4",
+        "original": "Ex. 28:4"
+      },
+      {
+        "reference": "Exodus 29:5",
+        "original": "Ex 29:5"
+      },
+      {
+        "reference": "Genesis 3:21",
+        "original": "Gen. 3:21"
+      },
+      {
+        "reference": "John 19:23",
+        "original": "John 19:23"
+      },
+      {
+        "reference": "Genesis 37:3",
+        "original": "Gen. 37:3"
+      },
+      {
+        "reference": "John 21:7",
+        "original": "John 21:7"
+      },
+      {
+        "reference": "1 Samuel 2:19",
+        "original": "1 Sam. 2:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "courses": {
+    "name": "Turnos",
+    "slug": "courses",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Quando a Davi não foi permitido construir o templo, ele procedeu, entre os últimos atos de sua vida, com a assistência de Zadoque e Aimeleque, a organizar os serviços sacerdotais e musicais a serem conduzidos na casa de Deus. (1.) Ele dividiu os sacerdotes em vinte e quatro turnos (1 Cr 24:1-19), sendo dezesseis da casa de Eleazar e oito da de Itamar. Cada turno estava sob um chefe ou líder, e ministrava durante uma semana, com a ordem determinada por sorteio. (2.) O restante dos 38.000 levitas (23:4) também foi dividido em vinte e quatro turnos, cada um para prestar algum serviço designado no culto público: 4.000 em vinte e quatro turnos foram separados como cantores e músicos sob líderes distintos (25); 4.000 como porteiros ou guardas das portas e portões do santuário (26:1-19); e 6.000 como oficiais e juízes para zelar pela administração da lei em todos os assuntos civis e eclesiásticos (20-32). Este arranjo foi restabelecido por Ezequias (2 Cr 31:2); e depois, os quatro turnos sacerdotais que teriam retornado do Cativeiro foram redivididos no número original de vinte e quatro por Esdras (6:18)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 24:1-19",
+        "original": "1 Chr. 24:1-19"
+      },
+      {
+        "reference": "2 Chronicles 31:2",
+        "original": "2 Chr. 31:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "date": {
+    "name": "Tâmara",
+    "slug": "date",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O fruto de uma espécie de palmeira, a Phoenix dactylifera. Esta era uma árvore comum na Palestina (Joel 1:12; Nee. 8:15). Ramos de palmeira eram carregados pelos judeus em ocasiões festivas, e especialmente na festa dos Tabernáculos (Lev. 23:40; Nee. 8:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:12",
+        "original": "Joel 1:12"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Neh. 8:15"
+      },
+      {
+        "reference": "Leviticus 23:40",
+        "original": "Lev. 23:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "dates": {
+    "name": "Tâmaras",
+    "slug": "dates",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(2 Crônicas 31:5) marg. [Palmeira ÁRVORE]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 31:5",
+        "original": "2 Chronicles 31:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "drawer-of-water": {
+    "name": "Tirador de água",
+    "slug": "drawer-of-water",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Deuteronômio 29:11; Josué 9:21, 23), um emprego servil ao qual os gibeonitas foram condenados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 29:11",
+        "original": "Deut. 29:11"
+      },
+      {
+        "reference": "Joshua 9:21",
+        "original": "Josh. 9:21"
+      },
+      {
+        "reference": "Joshua 9:23",
+        "original": "Josh. 9:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "dye": {
+    "name": "Tingimento",
+    "slug": "dye",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A arte do tingimento é de grande antiguidade, embora nenhuma menção especial seja feita dela no Antigo Testamento. Os hebreus provavelmente a aprenderam com os egípcios (ver Êx 26:1; 28:5-8), que a levaram à grande perfeição. Nos tempos do Novo Testamento, Tiatira era famosa por seus tintureiros (At 16:14). (Ver COR.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 26:1",
+        "original": "Ex. 26:1"
+      },
+      {
+        "reference": "Exodus 28:5-8",
+        "original": "Ex 28:5-8"
+      },
+      {
+        "reference": "Acts 16:14",
+        "original": "Acts 16:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "earth": {
+    "name": "Terra",
+    "slug": "earth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) No sentido de solo ou terra, a tradução da palavra adamah'. Em Gênesis 9:20, \"agricultor\" é literalmente \"homem do solo ou terra\". Altares deveriam ser construídos de terra (Êxodo 20:24). Naamã pediu a carga de duas mulas de terra (2 Reis 5:17), sob a noção supersticiosa de que Jeová, como os deuses dos pagãos, poderia ser adorado de forma aceitável apenas em seu próprio solo. (2). Como tradução de 'erets, significa todo o mundo (Gênesis 1:2); a terra em oposição ao mar (1:10). Erets também denota um país (21:32); um pedaço de terra (23:15); o solo sobre o qual um homem está (33:3); os habitantes da terra (6:1; 11:1); todo o mundo, exceto Israel (2 Crônicas 13:9). No Novo Testamento, \"a terra\" denota a terra da Judeia (Mateus 23:35); também coisas carnais em contraste com as coisas celestiais (João 3:31; Colossenses 3:1, 2)."
+      },
+      {
+        "source": "SMI",
+        "text": "O termo é usado em dois sentidos amplamente diferentes: (1) para o material de que a superfície da terra é composta; (2) como o nome do planeta em que o homem habita. A língua hebraica diferencia esses dois pelo uso de termos separados, adamah para o primeiro, erets para o último."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:20",
+        "original": "Gen. 9:20"
+      },
+      {
+        "reference": "Exodus 20:24",
+        "original": "Ex. 20:24"
+      },
+      {
+        "reference": "2 Kings 5:17",
+        "original": "2 Kings 5:17"
+      },
+      {
+        "reference": "Genesis 1:2",
+        "original": "Gen. 1:2"
+      },
+      {
+        "reference": "2 Chronicles 13:9",
+        "original": "2 Chr. 13:9"
+      },
+      {
+        "reference": "Matthew 23:35",
+        "original": "Matt. 23:35"
+      },
+      {
+        "reference": "John 3:31",
+        "original": "John 3:31"
+      },
+      {
+        "reference": "Colossians 3:1",
+        "original": "Col. 3:1"
+      },
+      {
+        "reference": "Colossians 3:2",
+        "original": "Col 3:2"
+      },
+      {
+        "reference": "Genesis 2:7",
+        "original": "Genesis 2:7"
+      },
+      {
+        "reference": "Genesis 1:1",
+        "original": "Genesis 1:1"
+      },
+      {
+        "reference": "Genesis 1:10",
+        "original": "Genesis 1:10"
+      },
+      {
+        "reference": "Genesis 21:32",
+        "original": "Genesis 21:32"
+      },
+      {
+        "reference": "Genesis 23:15",
+        "original": "Genesis 23:15"
+      },
+      {
+        "reference": "Genesis 33:3",
+        "original": "Genesis 33:3"
+      },
+      {
+        "reference": "Isaiah 40:22",
+        "original": "Isaiah 40:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "earthquake": {
+    "name": "Terremoto",
+    "slug": "earthquake",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado entre os fenômenos extraordinários da Palestina (Sl 18:7; comp. Hab 3:6; Na 1:5; Is 5:25). O primeiro terremoto na Palestina do qual temos qualquer registro aconteceu no reinado de Acabe (1 Reis 19:11, 12). Outro ocorreu nos dias de Uzias, Rei de Judá (Zc 14:5). O terremoto mais memorável que ocorreu nos tempos do Novo Testamento aconteceu na crucificação de nosso Senhor (Mt 27:54). Um terremoto em Filipos sacudiu a prisão em que Paulo e Silas estavam presos (Atos 16:26). É usado figurativamente como um sinal da presença do Senhor (Jz 5:4; 2 Sm 22:8; Sl 77:18; 97:4; 104:32)."
+      },
+      {
+        "source": "SMI",
+        "text": "Terremotos, mais ou menos violentos, são de ocorrência frequente na Palestina. O mais notável ocorreu no reinado de Uzias (Zacarias 14:5). De Zacarias 14:4, somos levados a inferir que uma grande convulsão ocorreu nesta época no Monte das Oliveiras, a montanha sendo dividida de forma a deixar um vale entre seu cume. Um terremoto ocorreu no momento da crucificação de nosso Salvador (Mateus 27:51-54). Terremotos são frequentemente acompanhados por fissuras na superfície da terra; instâncias disso são registradas em conexão com a destruição de Corá e seus seguidores (Números 16:32) e no momento da morte de nosso Senhor (Mateus 27:51); o primeiro pode ser comparado a uma ocorrência semelhante em Oppido, na Calábria, em 1783 d.C., onde a terra se abriu até uma extensão de 150 metros e uma profundidade de mais de sessenta metros."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 18:7",
+        "original": "Ps. 18:7"
+      },
+      {
+        "reference": "Habakkuk 3:6",
+        "original": "Hab. 3:6"
+      },
+      {
+        "reference": "Nahum 1:5",
+        "original": "Nah. 1:5"
+      },
+      {
+        "reference": "Isaiah 5:25",
+        "original": "Isa. 5:25"
+      },
+      {
+        "reference": "1 Kings 19:11",
+        "original": "1 Kings 19:11"
+      },
+      {
+        "reference": "1 Kings 19:12",
+        "original": "1 Kings 19:12"
+      },
+      {
+        "reference": "Zechariah 14:5",
+        "original": "Zech. 14:5"
+      },
+      {
+        "reference": "Matthew 27:54",
+        "original": "Matt. 27:54"
+      },
+      {
+        "reference": "Acts 16:26",
+        "original": "Act 16:26"
+      },
+      {
+        "reference": "Judges 5:4",
+        "original": "Judg. 5:4"
+      },
+      {
+        "reference": "2 Samuel 22:8",
+        "original": "2 Sam. 22:8"
+      },
+      {
+        "reference": "Psalms 77:18",
+        "original": "Ps. 77:18"
+      },
+      {
+        "reference": "Psalms 97:4",
+        "original": "Ps 97:4"
+      },
+      {
+        "reference": "Psalms 104:32",
+        "original": "Ps 104:32"
+      },
+      {
+        "reference": "Zechariah 14:4",
+        "original": "Zechariah 14:4"
+      },
+      {
+        "reference": "Matthew 27:51-54",
+        "original": "Matthew 27:51-54"
+      },
+      {
+        "reference": "Numbers 16:32",
+        "original": "Numbers 16:32"
+      },
+      {
+        "reference": "Matthew 27:51",
+        "original": "Matthew 27:51"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "evening": {
+    "name": "Tarde",
+    "slug": "evening",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O período seguinte ao pôr do sol com o qual o dia judaico começava (Gn 1.5; Mc 13.35). Os hebreus contavam duas tardes em cada dia, como aparece em Êx 16.12; 30.8; 12.6 (margem); Lv 23.5 (margem da V.R., “entre as duas tardes”). A “primeira tarde” era o período em que o sol estava se pondo, e a “segunda tarde” o momento do pôr do sol real. A palavra “tardes” em Jeremias 5.6 deveria ser “desertos” (margem da V.R.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:5",
+        "original": "Gen. 1:5"
+      },
+      {
+        "reference": "Mark 13:35",
+        "original": "Mark 13:35"
+      },
+      {
+        "reference": "Exodus 16:12",
+        "original": "Ex. 16:12"
+      },
+      {
+        "reference": "Leviticus 23:5",
+        "original": "Lev. 23:5"
+      },
+      {
+        "reference": "Jeremiah 5:6",
+        "original": "Jer. 5:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "fallow-ground": {
+    "name": "Terra em pousio",
+    "slug": "fallow-ground",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A expressão “Lavrai o campo em pousio” (Os 10:12; Jr 4:3) significa: “Não semeie a sua semente entre espinhos”, isto é, interrompa todos os seus maus hábitos; limpe os seus corações de ervas daninhas, a fim de que possam ser preparados para a semente da justiça. A terra era deixada em pousio para que pudesse tornar-se mais frutífera; mas, quando nesta condição, logo ficava coberta de espinhos e ervas daninhas. O cultivador do solo tinha o cuidado de “lavrar” o seu campo em pousio, isto é, limpar o campo de ervas daninhas antes de semear a semente nele. Assim diz o profeta: “Abandone os seus maus caminhos, arrependa-se dos seus pecados, pare de fazer o mal, e então a boa semente da palavra terá espaço para crescer e dar fruto.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 10:12",
+        "original": "Hos. 10:12"
+      },
+      {
+        "reference": "Jeremiah 4:3",
+        "original": "Jer. 4:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "firebrand": {
+    "name": "Tição",
+    "slug": "firebrand",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Isa. 7:4, Amós 4:11, Zac. 3:2, denota a extremidade queimada de um pedaço de pau (Heb. ‘ud); em Juí. 15:4, uma lâmpada ou tocha, um archote (Heb. lappid); em Prov. 26:18 (comp. Efé. 6:16), dardos ou flechas ardentes (Heb. zikkim)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 7:4",
+        "original": "Isa. 7:4"
+      },
+      {
+        "reference": "Amos 4:11",
+        "original": "Amos 4:11"
+      },
+      {
+        "reference": "Zechariah 3:2",
+        "original": "Zech. 3:2"
+      },
+      {
+        "reference": "Judges 15:4",
+        "original": "Judg. 15:4"
+      },
+      {
+        "reference": "Proverbs 26:18",
+        "original": "Prov. 26:18"
+      },
+      {
+        "reference": "Ephesians 6:16",
+        "original": "Eph. 6:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "fish-pools": {
+    "name": "Tanques de peixes",
+    "slug": "fish-pools",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Cant. 7:4) deveria ser simplesmente “tanques”, como na Versão Revista. Os reservatórios perto de Hesbom (veja o termo) eram provavelmente abastecidos com peixes (2 Sam. 2:13; 4:12; Isa. 7:3; 22:9, 11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 7:4",
+        "original": "Cant. 7:4"
+      },
+      {
+        "reference": "2 Samuel 2:13",
+        "original": "2 Sam. 2:13"
+      },
+      {
+        "reference": "2 Samuel 4:12",
+        "original": "2 Sam. 4:12"
+      },
+      {
+        "reference": "Isaiah 7:3",
+        "original": "Isa. 7:3"
+      },
+      {
+        "reference": "Isaiah 22:9",
+        "original": "Isa 22:9"
+      },
+      {
+        "reference": "Isaiah 22:11",
+        "original": "Isa 22:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "forehead": {
+    "name": "Testa",
+    "slug": "forehead",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A prática comum entre as nações orientais de colorir a testa ou imprimir nela alguma marca distintiva como sinal de devoção a alguma divindade é aludida em Apocalipse 13:16, 17; 14:9; 17:5; 20:4. A “joia em tua testa” mencionada em Ezequiel 16:12 (V.R., “uma argola em teu nariz”) era, com toda probabilidade, o “argola nasal” (Isaías 3:21). Em Ezequiel 3:7, a palavra “impudente” é corretamente traduzida na Versão Revisada como “uma testa dura”. (Veja também ver. 8, 9.)"
+      },
+      {
+        "source": "SMI",
+        "text": "A prática de velar o rosto (testa) em público para as mulheres das classes altas, especialmente as mulheres casadas, no Oriente, estigmatiza suficientemente com reprovação o rosto descoberto das mulheres de má conduta (Gênesis 24:64; Jeremias 3:3). O costume entre muitas nações orientais de colorir o rosto e a testa e de imprimir no corpo marcas indicativas de devoção a alguma divindade especial ou seita religiosa é mencionado em outros lugares. As “joias para a testa”, mencionadas por Ezequiel (Ezequiel 16:12) e na margem da Versão Autorizada (Gênesis 24:22), eram, com toda probabilidade, argolas nasais (Isaías 3:21)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 13:16",
+        "original": "Rev. 13:16"
+      },
+      {
+        "reference": "Revelation 13:17",
+        "original": "Rev. 13:17"
+      },
+      {
+        "reference": "Ezekiel 16:12",
+        "original": "Ezek. 16:12"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isa. 3:21"
+      },
+      {
+        "reference": "Ezekiel 3:7",
+        "original": "Ezek. 3:7"
+      },
+      {
+        "reference": "Genesis 24:64",
+        "original": "Genesis 24:64"
+      },
+      {
+        "reference": "Jeremiah 3:3",
+        "original": "Jeremiah 3:3"
+      },
+      {
+        "reference": "Genesis 24:22",
+        "original": "Genesis 24:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "hood": {
+    "name": "Turbante",
+    "slug": "hood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tsaniph) uma tiara ao redor da cabeça (Is 3:23; na Versão Revisada, pl., “turbantes”). Traduzido como “diadema” em Jó 29:14; “mitra” do sumo sacerdote em Zc 3:5; “diadema real” em Is 62:3."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:23",
+        "original": "Isa. 3:23"
+      },
+      {
+        "reference": "Job 29:14",
+        "original": "Job 29:14"
+      },
+      {
+        "reference": "Zechariah 3:5",
+        "original": "Zech. 3:5"
+      },
+      {
+        "reference": "Isaiah 62:3",
+        "original": "Isa. 62:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "hose": {
+    "name": "Túnica",
+    "slug": "hose",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dan. 3:21), uma túnica ou vestimenta de baixo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:21",
+        "original": "Dan. 3:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "ink-inkhorn": {
+    "name": "Tinta, Tinteiro",
+    "slug": "ink-inkhorn",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Escrita]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "inkhorn": {
+    "name": "Tinteiro",
+    "slug": "inkhorn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A palavra hebraica assim traduzida significa simplesmente um vaso ou copo redondo para conter tinta, que era geralmente usado pelos escritores no cinto (Ezeq. 9:2, 3, 11). A palavra “tinteiro” foi usada pelos tradutores porque, em tempos passados neste país, chifres eram usados para conter tinta."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 9:2",
+        "original": "Ezek. 9:2"
+      },
+      {
+        "reference": "Ezekiel 9:3",
+        "original": "Ezek. 9:3"
+      },
+      {
+        "reference": "Ezekiel 9:11",
+        "original": "Ezek. 9:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "james": {
+    "name": "Tiago",
+    "slug": "james",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) O filho de Zebedeu e Salomé; irmão mais velho do apóstolo João. Ele era um dos doze. Sua profissão era pescador, em sociedade com Pedro (Mt 20:20; 27:56). Com João e Pedro, ele esteve presente na transfiguração (Mt 17:1; Mc 9:2), na ressurreição da filha de Jairo (Mc 5:37-43) e no jardim com nosso Senhor (14:33). Provavelmente devido à sua ousadia e energia, ele e João foram chamados de Boanerges, isto é, “filhos do trovão”. Ele foi o primeiro mártir entre os apóstolos, tendo sido decapitado pelo rei Herodes Agripa (At 12:1, 2), em 44 d.C. (Comp. Mt 4:21; 20:20-23). (2.) O filho de Alfeu, ou Cleofas, “irmão” ou parente próximo ou primo de nosso Senhor (Gl 1:18, 19), chamado Tiago “o Menor”, provavelmente por ser de baixa estatura. Ele é mencionado junto com os outros apóstolos (Mt 10:3; Mc 3:18; Lc 6:15). Ele teve uma entrevista separada com nosso Senhor após Sua ressurreição (1 Co 15:7) e é mencionado como um dos apóstolos da circuncisão (At 1:13). Ele parece ter ocupado a posição de chefe da Igreja em Jerusalém, onde presidiu o conselho realizado para considerar o caso dos gentios (At 12:17; 15:13-29; 21:18-24). Este Tiago foi o autor da epístola que leva seu nome."
+      },
+      {
+        "source": "SMI",
+        "text": "(a forma grega de Jacó, suplantador)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 20:20",
+        "original": "Matt. 20:20"
+      },
+      {
+        "reference": "Matthew 27:56",
+        "original": "Matt 27:56"
+      },
+      {
+        "reference": "Matthew 17:1",
+        "original": "Matt. 17:1"
+      },
+      {
+        "reference": "Mark 9:2",
+        "original": "Mark 9:2"
+      },
+      {
+        "reference": "Mark 5:37-43",
+        "original": "Mark 5:37-43"
+      },
+      {
+        "reference": "Acts 12:1",
+        "original": "Acts 12:1"
+      },
+      {
+        "reference": "Acts 12:2",
+        "original": "Acts 12:2"
+      },
+      {
+        "reference": "Matthew 4:21",
+        "original": "Matt. 4:21"
+      },
+      {
+        "reference": "Matthew 20:20-23",
+        "original": "Matt 20:20-23"
+      },
+      {
+        "reference": "Galatians 1:18",
+        "original": "Gal. 1:18"
+      },
+      {
+        "reference": "Galatians 1:19",
+        "original": "Gal. 1:19"
+      },
+      {
+        "reference": "Matthew 10:3",
+        "original": "Matt. 10:3"
+      },
+      {
+        "reference": "Mark 3:18",
+        "original": "Mark 3:18"
+      },
+      {
+        "reference": "Luke 6:15",
+        "original": "Luke 6:15"
+      },
+      {
+        "reference": "1 Corinthians 15:7",
+        "original": "1 Cor. 15:7"
+      },
+      {
+        "reference": "Acts 1:13",
+        "original": "Acts 1:13"
+      },
+      {
+        "reference": "Acts 12:17",
+        "original": "Acts 12:17"
+      },
+      {
+        "reference": "Acts 15:13-29",
+        "original": "Acts 15:13-29"
+      },
+      {
+        "reference": "Mark 1:20",
+        "original": "Mark 1:20"
+      },
+      {
+        "reference": "Matthew 10:2",
+        "original": "Matthew 10:2"
+      },
+      {
+        "reference": "Mark 3:14",
+        "original": "Mark 3:14"
+      },
+      {
+        "reference": "Luke 6:13",
+        "original": "Luke 6:13"
+      },
+      {
+        "reference": "Mark 10:37",
+        "original": "Mark 10:37"
+      },
+      {
+        "reference": "Luke 9:54",
+        "original": "Luke 9:54"
+      },
+      {
+        "reference": "Mark 15:40",
+        "original": "Mark 15:40"
+      },
+      {
+        "reference": "John 19:25",
+        "original": "John 19:25"
+      },
+      {
+        "reference": "Matthew 13:55",
+        "original": "Matthew 13:55"
+      },
+      {
+        "reference": "Mark 6:3",
+        "original": "Mark 6:3"
+      },
+      {
+        "reference": "Luke 6:16",
+        "original": "Luke 6:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "james-the-less": {
+    "name": "Tiago, o Menor",
+    "slug": "james-the-less",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Chamado de Menor porque era mais jovem ou de menor estatura que Tiago, filho de Zebedeu. Ele era filho de Alfeu ou Cleofas e irmão de nosso Senhor (veja acima); foi chamado ao apostolado, junto com seu irmão mais novo Judas, na primavera do ano 28. Em algum momento nos quarenta dias que mediaram entre a ressurreição e a ascensão, o Senhor apareceu a ele. (1 Coríntios 15:7) Dez anos depois, encontramos Tiago em pé de igualdade com Pedro, e com ele decidindo sobre a admissão de Paulo na comunhão com a Igreja em Jerusalém; e, a partir de então, sempre o encontramos igual, ou em seu próprio departamento superior, aos apóstolos mais importantes, Pedro, João e Paulo. (Atos 9:27; Gálatas 1:18,19) Esta preeminência é evidente em toda a história posterior dos apóstolos, seja lendo-a em Atos, nas epístolas ou em escritores eclesiásticos. (Atos 12:17; 15:13,19; 21:18; Gálatas 2:9) Segundo a tradição, Tiago foi jogado do templo pelos escribas e fariseus; ele foi então apedrejado e teve seu crânio esmagado com o bastão de um pisoeiro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Corinthians 15:7",
+        "original": "1 Corinthians 15:7"
+      },
+      {
+        "reference": "Acts 9:27",
+        "original": "Acts 9:27"
+      },
+      {
+        "reference": "Galatians 1:18",
+        "original": "Galatians 1:18"
+      },
+      {
+        "reference": "Galatians 1:19",
+        "original": "Galatians 1:19"
+      },
+      {
+        "reference": "Acts 12:17",
+        "original": "Acts 12:17"
+      },
+      {
+        "reference": "Acts 15:13",
+        "original": "Acts 15:13"
+      },
+      {
+        "reference": "Acts 15:19",
+        "original": "Acts 15:19"
+      },
+      {
+        "reference": "Acts 21:18",
+        "original": "Acts 21:18"
+      },
+      {
+        "reference": "Galatians 2:9",
+        "original": "Galatians 2:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "james-epistle-of": {
+    "name": "Tiago, Epístola de",
+    "slug": "james-epistle-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) O autor foi Tiago, o Menor, irmão do Senhor, um dos doze apóstolos. Ele era um dos três pilares da Igreja (Gl 2:9). (2.) Foi dirigida aos judeus da dispersão, “às doze tribos espalhadas pelo estrangeiro”. (3.) O local e a época da escrita da epístola foram Jerusalém, onde Tiago residia e, segundo evidências internas, o período entre as duas prisões de Paulo em Roma, provavelmente por volta de 62 d.C. (4.) O objetivo do escritor era reforçar os deveres práticos da vida cristã. “Os vícios judaicos contra os quais ele os alerta são: o formalismo, que fazia o serviço a Deus consistir em lavagens e cerimônias exteriores, enquanto ele os lembra (1:27) que consiste antes no amor ativo e na pureza; o fanatismo, que, sob o manto do zelo religioso, estava despedaçando Jerusalém (1:20); o fatalismo, que atribuía seus pecados a Deus (1:13); a mesquinhez, que se curvava diante dos ricos (2:2); a falsidade, que tornava as palavras e os juramentos em brinquedos (3:2-12); o partidarismo (3:14); a difamação (4:11); a vanglória (4:16); a opressão (5:4). A grande lição que ele lhes ensina como cristãos é a paciência: paciência na provação (1:2), paciência nas boas obras (1:22-25), paciência sob provocação (3:17), paciência sob opressão (5:7), paciência sob perseguição (5:10); e a base de sua paciência é que a vinda do Senhor se aproxima, o que corrigirá todo o mal (5:8).” A “justificação pelas obras”, que Tiago defende, é a justificação diante dos homens, a justificação de nossa profissão de fé por uma vida consistente. Paulo defende a doutrina da “justificação pela fé”; mas essa é a justificação diante de Deus, ser considerado e aceito como justo em virtude da justiça de Cristo, que é recebida pela fé."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Galatians 2:9",
+        "original": "Gal. 2:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "james-the-general-epistle-of": {
+    "name": "Tiago, A Epístola Geral de",
+    "slug": "james-the-general-epistle-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O autor desta epístola foi, com toda a probabilidade, Tiago, filho de Alfeu e irmão de nosso Senhor. Foi escrita de Jerusalém, cidade que o apóstolo Tiago parece nunca ter deixado. Provavelmente escrita por volta de 62 d.C., durante o intervalo entre as duas prisões de Paulo. Seu objetivo principal não é ensinar doutrina, mas melhorar a moralidade. Tiago é o professor de moral do Novo Testamento. Ele escreveu para os cristãos judeus, estivessem em Jerusalém ou no exterior, para alertá-los contra os pecados aos quais, como judeus, estavam mais sujeitos, e para consolá-los e exortá-los sob os sofrimentos aos quais, como cristãos, estavam mais expostos."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "judgment-seat": {
+    "name": "Tribunal",
+    "slug": "judgment-seat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Mateus 27:19), um tribunal portátil (Gr. bema) que era colocado conforme o magistrado pudesse ordenar, e de onde o julgamento era pronunciado. Neste caso, foi colocado sobre um pavimento de mosaico, provavelmente em frente à residência do procurador. (Ver GABATA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:19",
+        "original": "Matt. 27:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "lieutenant": {
+    "name": "Tenente",
+    "slug": "lieutenant",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(apenas na Versão Autorizada, Ester 3:12; 8:9; 9:3; Esdras 8:36), um governador ou vice-rei de uma província persa que detinha poder tanto militar quanto civil. Traduzido corretamente na Versão Revisada como “sátrapa”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 3:12",
+        "original": "Esther 3:12"
+      },
+      {
+        "reference": "Esther 8:9",
+        "original": "Esther 8:9"
+      },
+      {
+        "reference": "Esther 9:3",
+        "original": "Esther 9:3"
+      },
+      {
+        "reference": "Ezra 8:36",
+        "original": "Ezra 8:36"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "lieutenants": {
+    "name": "Tenentes",
+    "slug": "lieutenants",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O termo hebraico achash darpan era o título oficial dos sátrapas ou vice-reis que governavam as províncias do império persa; é traduzido como “príncipe” em (Daniel 3:2; 6:1)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:2",
+        "original": "Daniel 3:2"
+      },
+      {
+        "reference": "Daniel 6:1",
+        "original": "Daniel 6:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "lock": {
+    "name": "Tranca",
+    "slug": "lock",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os hebreus geralmente garantiam suas portas com trancas de madeira ou ferro (Is. 45:2; 1 Rs. 4:3). Estas eram as trancas originalmente usadas, e eram abertas e fechadas por chaves grandes aplicadas através de uma abertura no lado de fora (Jz. 3:24). (Ver CHAVE.) Trança de cabelo (Jz. 16:13, 19; Ez. 8:3; Nm. 6:5, etc.)."
+      },
+      {
+        "source": "SMI",
+        "text": "Onde trancas europeias não foram introduzidas, as trancas das casas orientais são geralmente de madeira e consistem num ferrolho parcialmente oco de trinta e cinco a sessenta centímetros de comprimento para portas externas ou portões, ou de dezoito a vinte e três centímetros para portas internas. O ferrolho passa através de uma ranhura numa peça fixada à porta até um encaixe no batente da porta."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 45:2",
+        "original": "Isa. 45:2"
+      },
+      {
+        "reference": "1 Kings 4:3",
+        "original": "1 Kings 4:3"
+      },
+      {
+        "reference": "Judges 3:24",
+        "original": "Judg. 3:24"
+      },
+      {
+        "reference": "Judges 16:13",
+        "original": "Judg. 16:13"
+      },
+      {
+        "reference": "Judges 16:19",
+        "original": "Judg. 16:19"
+      },
+      {
+        "reference": "Ezekiel 8:3",
+        "original": "Ezek. 8:3"
+      },
+      {
+        "reference": "Numbers 6:5",
+        "original": "Num. 6:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  }
+}

@@ -1,0 +1,3129 @@
+{
+  "bed-chamber": {
+    "name": "Quarto de dormir",
+    "slug": "bed-chamber",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um aposento em casas orientais, mobiliado com uma plataforma ligeiramente elevada na extremidade superior e, às vezes, ao longo das laterais, sobre a qual eram colocados colchões. Este era o arranjo geral do quarto de dormir público para os homens da família e para os hóspedes, mas geralmente havia também quartos de dormir distintos de caráter mais privado (2 Reis 4:10; Êx 8:3; 2 Reis 6:12). Em 2 Reis 11:2 esta palavra denota, como na margem da Versão Revisada, um depósito onde os colchões eram guardados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 4:10",
+        "original": "2 Kings 4:10"
+      },
+      {
+        "reference": "Exodus 8:3",
+        "original": "Ex. 8:3"
+      },
+      {
+        "reference": "2 Kings 6:12",
+        "original": "2 Kings 6:12"
+      },
+      {
+        "reference": "2 Kings 11:2",
+        "original": "2 Kings 11:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "chebar": {
+    "name": "Quebar",
+    "slug": "chebar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Comprimento, um rio na “terra dos caldeus” (Ezequiel 1:3), nas margens do qual estavam localizados alguns dos judeus do Cativeiro (Ezequiel 1:1; 3:15, 23; 10:15, 20, 22). Supõe-se que seja idêntico ao rio Habor, o Chaboras, ou o moderno Khabour, que deságua no Eufrates em Circesium. Às margens deste rio, alguns dos israelitas foram removidos pelos assírios (2 Reis 17:6). Uma opinião que tem muito apoio é que o “Quebar” era o canal real de Nabucodonosor, o Nahr Malcha, o maior na Mesopotâmia, que ligava o Tigre ao Eufrates, na escavação do qual os cativos judeus foram provavelmente empregados."
+      },
+      {
+        "source": "SMI",
+        "text": "(comprimento), um rio na “terra dos caldeus”. (Ezequiel 1:3; 3:15,23) etc. É comumente considerado idêntico ao Habor, (2 Reis 17:6) e talvez o Canal Real de Nabucodonosor — o maior de todos os cortes na Mesopotâmia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 1:3",
+        "original": "Ezek. 1:3"
+      },
+      {
+        "reference": "Ezekiel 1:1",
+        "original": "Ezek. 1:1"
+      },
+      {
+        "reference": "Ezekiel 3:15",
+        "original": "Ezek 3:15"
+      },
+      {
+        "reference": "Ezekiel 3:23",
+        "original": "Ezek 3:23"
+      },
+      {
+        "reference": "Ezekiel 10:15",
+        "original": "Ezek 10:15"
+      },
+      {
+        "reference": "Ezekiel 10:20",
+        "original": "Ezek 10:20"
+      },
+      {
+        "reference": "Ezekiel 10:22",
+        "original": "Ezek 10:22"
+      },
+      {
+        "reference": "2 Kings 17:6",
+        "original": "2 Kings 17:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chedorlaomer": {
+    "name": "Quedorlaomer",
+    "slug": "chedorlaomer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(= Khudur-Lagamar das inscrições), rei de Elão. Muitos séculos antes da época de Abraão, Canaã e até mesmo a península do Sinai tinham sido conquistados por reis babilônicos, e no tempo do próprio Abraão a Babilônia era governada por uma dinastia que reivindicava soberania sobre a Síria e a Palestina. Os reis da dinastia portavam nomes que não eram babilônicos, mas ao mesmo tempo árabe-do-sul e hebraicos. O rei mais famoso da dinastia foi Khammu-rabi, que unificou a Babilônia sob um só governo e fez da Babilônia sua capital. Quando ele ascendeu ao trono, o país estava sob a suserania dos elamitas e era dividido em dois reinos, o de Babilônia (o Sinar bíblico) e o de Larsa (o Elasar bíblico). O rei de Larsa era Eri-Aku (“o servo do deus-lua”), filho de um príncipe elamita, Kudur-Mabug, que é intitulado “o pai da terra dos amorreus”. Uma tábua recentemente descoberta enumera entre os inimigos de Khammu-rabi, Kudur-Lagamar (“o servo da deusa Lagamar”) ou Quedorlaomer, Eri-Aku ou Arioque, e Tudkhula ou Tidal. Khammu-rabi, cujo nome também é lido Ammi-rapaltu ou Anrafel por alguns estudiosos, conseguiu superar Eri-Aku e expulsar os elamitas da Babilônia. Assurbanipal, o último dos conquistadores assírios, menciona em duas inscrições que tomou Susa 1635 anos depois que Kedor-nakhunta, rei de Elão, havia conquistado a Babilônia. Foi no ano 660 a.C. que Assurbanipal tomou Susa."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "chedorlaomer-or-chedorlaomer": {
+    "name": "Quedorlaomer, Ou Quedorlaomer",
+    "slug": "chedorlaomer-or-chedorlaomer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(punhado de feixes), um rei de Elão, no tempo de Abraão, que com três outros chefes fez guerra aos reis de Sodoma, Gomorra, Admá, Zeboim e Zoar, e os reduziu à servidão. (Gênesis 14:17)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:17",
+        "original": "Genesis 14:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cheese": {
+    "name": "Queijo",
+    "slug": "cheese",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(A.S. cese). Esta palavra ocorre três vezes na Versão Autorizada como a tradução de três palavras hebraicas diferentes: (1.) 1 Sam. 17:18, “dez queijos”; isto é, dez porções de coalhada. (2.) 2 Sam. 17:29, “queijos de vacas” = talvez leite coalhado de vacas. A versão Vulgata diz “bezerros gordos”. (3.) Jó 10:10, a palavra refere-se a leite coalhado."
+      },
+      {
+        "source": "SMI",
+        "text": "é mencionado apenas três vezes na Bíblia, e em cada ocasião sob um nome diferente no hebraico. (1 Samuel 17:18; 2 Samuel 17:29; Jó 10:10). É difícil decidir até que ponto esses termos correspondem à nossa noção de queijo, pois simplesmente expressam vários graus de coagulação. O queijo não é comum nos dias de hoje entre os árabes beduínos, sendo a manteiga decididamente preferida; mas há uma substância que corresponde estreitamente às mencionadas em 1Sam 17, 2Sam 17, consistindo de leitelho coagulado, que é seco até ficar bastante duro, e é então moído; os árabes comem-no misturado com manteiga."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:18",
+        "original": "1 Sam. 17:18"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Sam. 17:29"
+      },
+      {
+        "reference": "Job 10:10",
+        "original": "Job 10:10"
+      },
+      {
+        "reference": "1 Samuel 17:0-0;",
+        "original": "1Sam 17, 2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chemosh": {
+    "name": "Quemos",
+    "slug": "chemosh",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O destruidor, subjugador ou deus-peixe, o deus dos moabitas (Núm. 21:29; Jer. 48:7, 13, 46). O culto a este deus, “a abominação de Moabe”, foi introduzido em Jerusalém por Salomão (1 Reis 11:7), mas foi abolido por Josias (2 Reis 23:13). Na “Pedra Moabita” (q.v.), Mesa (2 Reis 3:5) atribui suas vitórias sobre o rei de Israel a este deus: “E Quemos expulsou-o diante da minha vista”."
+      },
+      {
+        "source": "SMI",
+        "text": "(subjugador), a divindade nacional dos moabitas. (Números 21:29; Jeremias 48:7,13,46). Em (Juízes 11:24) ele também aparece como o deus dos amonitas. Salomão introduziu e Josias aboliu o culto a Quemos em Jerusalém. (1 Reis 11:7; 2 Reis 23:13). Também identificado com Baal-Peor, Baal-Zebube, Marte e Saturno."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 21:29",
+        "original": "Num. 21:29"
+      },
+      {
+        "reference": "Jeremiah 48:7",
+        "original": "Jer. 48:7"
+      },
+      {
+        "reference": "Jeremiah 48:13",
+        "original": "Jer. 48:13"
+      },
+      {
+        "reference": "Jeremiah 48:46",
+        "original": "Jer. 48:46"
+      },
+      {
+        "reference": "1 Kings 11:7",
+        "original": "1 Kings 11:7"
+      },
+      {
+        "reference": "2 Kings 23:13",
+        "original": "2 Kings 23:13"
+      },
+      {
+        "reference": "2 Kings 3:5",
+        "original": "2 Kings 3:5"
+      },
+      {
+        "reference": "Judges 11:24",
+        "original": "Judges 11:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chenaniah": {
+    "name": "Quenanias",
+    "slug": "chenaniah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(estabelecido pelo Senhor), chefe dos levitas quando Davi levou a arca para Jerusalém. (1 Crônicas 15:22; 26:29)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 15:22",
+        "original": "1 Chronicles 15:22"
+      },
+      {
+        "reference": "1 Chronicles 26:29",
+        "original": "1 Chronicles 26:29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cheran": {
+    "name": "Querã",
+    "slug": "cheran",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(lira), um dos filhos de Disom, o “duque” horeu. (Gênesis 36:26; 1 Crônicas 1:41)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:26",
+        "original": "Genesis 36:26"
+      },
+      {
+        "reference": "1 Chronicles 1:41",
+        "original": "1 Chronicles 1:41"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cherethim": {
+    "name": "Quereteus",
+    "slug": "cherethim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Ez. 25:16), mais frequentemente Quereteus, os habitantes da Filístia meridional, os filisteus (Sof. 2:5). Os quereteus e os peleteus eram a guarda pessoal de Davi (1 Sam. 30:14; 2 Sam. 8:18; 20:7, 23; 23:23). Este nome é interpretado por alguns como significando “cretenses”, e por outros como “carrascos”, que estavam prontos para executar a sentença de morte do rei (Gên. 37:36, marg.; 1 Reis 2:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "(homens do machado), (Ezequiel 25:16) o mesmo que Quereteus."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 25:16",
+        "original": "Ezek. 25:16"
+      },
+      {
+        "reference": "Zephaniah 2:5",
+        "original": "Zeph. 2:5"
+      },
+      {
+        "reference": "1 Samuel 30:14",
+        "original": "1 Sam. 30:14"
+      },
+      {
+        "reference": "2 Samuel 8:18",
+        "original": "2 Sam. 8:18"
+      },
+      {
+        "reference": "2 Samuel 20:7",
+        "original": "2 Sam. 20:7"
+      },
+      {
+        "reference": "2 Samuel 20:23",
+        "original": "2 Sam. 20:23"
+      },
+      {
+        "reference": "2 Samuel 23:23",
+        "original": "2 Sam. 23:23"
+      },
+      {
+        "reference": "Genesis 37:36",
+        "original": "Gen. 37:36"
+      },
+      {
+        "reference": "1 Kings 2:25",
+        "original": "1 Kings 2:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cherethites": {
+    "name": "Quereteus",
+    "slug": "cherethites",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(carras) e do Rei Davi. (2 Samuel 8:18; 15:18; 20:7, 23; 1 Reis 1:38, 44; 1 Crônicas 18:17) É evidente que estes guardas reais eram empregados como carrascos (2 Reis 11:4) e como mensageiros (1 Reis 14:27). No entanto, conjecturou-se que poderiam ter sido mercenários estrangeiros e, portanto, provavelmente filisteus, nome do qual peleteus pode ser apenas outra forma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 8:18",
+        "original": "2 Samuel 8:18"
+      },
+      {
+        "reference": "2 Samuel 15:18",
+        "original": "2 Samuel 15:18"
+      },
+      {
+        "reference": "2 Samuel 20:7",
+        "original": "2 Samuel 20:7"
+      },
+      {
+        "reference": "2 Samuel 20:23",
+        "original": "2 Samuel 20:23"
+      },
+      {
+        "reference": "1 Kings 1:38",
+        "original": "1 Kings 1:38"
+      },
+      {
+        "reference": "1 Kings 1:44",
+        "original": "1 Kings 1:44"
+      },
+      {
+        "reference": "1 Chronicles 18:17",
+        "original": "1 Chronicles 18:17"
+      },
+      {
+        "reference": "2 Kings 11:4",
+        "original": "2 Kings 11:4"
+      },
+      {
+        "reference": "1 Kings 14:27",
+        "original": "1 Kings 14:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cherith": {
+    "name": "Querite",
+    "slug": "cherith",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um corte; separação; um desfiladeiro, um leito de torrente ou riacho de inverno, um “ribeiro”, em cujas margens o profeta Elias se escondeu durante a primeira parte dos três anos de seca (1 Reis 17:3, 5). Alguns identificaram-no como o Wady el-Kelt atrás de Jericó, que é formado pela junção de muitos riachos que fluem das montanhas a oeste de Jericó. Fica seco no verão. Os viajantes descreveram-no como um dos desfiladeiros mais selvagens desta região selvagem, particularmente adequado para oferecer um refúgio seguro aos perseguidos. Mas se a entrevista do profeta com Acabe foi em Samaria, e ele de lá viajou para o leste, é provável que ele tenha atravessado o Jordão e encontrado refúgio em alguns dos desfiladeiros de Gileade. Diz-se que o “ribeiro” ficava “diante do Jordão”, o que provavelmente significa que se abria para aquele rio, no qual desaguava. Esta descrição aplicar-se-ia tanto ao leste como ao oeste do Jordão. Assim, o esconderijo de Elias pode ter sido o Jermuk, no território da meia tribo de Manassés."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 17:3",
+        "original": "1 Kings 17:3"
+      },
+      {
+        "reference": "1 Kings 17:5",
+        "original": "1 Kings 17:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "cherith-the-brook": {
+    "name": "Querite, O Ribeiro",
+    "slug": "cherith-the-brook",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(corte, desfiladeiro), o leito de torrente ou wadi no qual Elias se escondeu durante a primeira parte dos três anos de seca. (1 Reis 17:3, 5) A posição do Querite tem sido muito contestada. O argumento de probabilidade é favorável a que o Querite estivesse a leste do Jordão, e o nome talvez possa ser descoberto lá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 17:3",
+        "original": "1 Kings 17:3"
+      },
+      {
+        "reference": "1 Kings 17:5",
+        "original": "1 Kings 17:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cherub": {
+    "name": "Querubim",
+    "slug": "cherub",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Plural querubins, o nome de certas figuras simbólicas frequentemente mencionadas nas Escrituras. São mencionados pela primeira vez em relação à expulsão dos nossos primeiros pais do Éden (Gênesis 3:24). Não há qualquer indicação sobre a sua forma ou figura. São mencionados em seguida quando Moisés recebeu ordens para providenciar mobiliário para o tabernáculo (Êxodo 25:17-20; 26:1, 31). Deus prometeu falar com Moisés “de entre os querubins” (25:22). Esta expressão foi depois usada para denotar a habitação e presença divina (Números 7:89; 1 Samuel 4:4; Isaías 37:16; Salmos 80:1; 99:1). Na visão de Ezequiel (10:1-20), eles aparecem como criaturas viventes sustentando o trono de Deus. Pela descrição de Ezequiel (1;10; 41:18, 19), parecem ter sido figuras compostas, diferentes de qualquer objeto real na natureza; imagens artificiais possuindo as características e propriedades de vários animais. Dois querubins foram colocados sobre o propiciatório da arca; dois de tamanho colossal cobriam-na no templo de Salomão. Ezequiel (1:4-14) fala de quatro; e este número de “seres viventes” é mencionado em Apocalipse 4:6. Aqueles sobre a arca são chamados de “querubins da glória” (Hebreus 9:5), isto é, da Shechinah, ou nuvem de glória, pois sobre eles repousava a glória visível de Deus. Eles foram colocados um em cada extremidade do propiciatório, com as asas estendidas para cima e os seus rostos “voltados um para o outro e para o propiciatório”. Eles foram ungidos com óleo sagrado, tal como a própria arca e o outro mobiliário sagrado. Os querubins eram simbólicos. Tinham a intenção de representar existências espirituais em contato imediato com Jeová. Alguns consideraram-nos como símbolos do principal poder governante pelo qual Deus realiza as suas operações na providência (Salmos 18:10). Outros interpretam-nos como tendo referência à redenção dos homens, e como simbolizando os grandes governantes ou ministros da igreja. Muitas outras opiniões foram sustentadas sobre eles, que não precisam ser mencionadas aqui. No geral, parece ser mais satisfatório considerar que a interpretação do símbolo é variável, assim como o próprio símbolo. A sua função era: (1) na expulsão dos nossos primeiros pais do Éden, impedir todo o acesso à árvore da vida; e (2) formar o trono e o carro de Jeová na Sua manifestação na terra. Ele habita entre e assenta sobre os querubins (1 Samuel 4:4; Salmos 80:1; Ezequiel 1:26, 28)."
+      },
+      {
+        "source": "SMI",
+        "text": "aparentemente um lugar na Babilônia de onde algumas pessoas de extração duvidosa retornaram para a Judeia com Zorobabel. (Esdras 2:59; Neemias 7:61)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:24",
+        "original": "Gen. 3:24"
+      },
+      {
+        "reference": "Exodus 25:17-20",
+        "original": "Ex. 25:17-20"
+      },
+      {
+        "reference": "Exodus 26:1",
+        "original": "Ex 26:1"
+      },
+      {
+        "reference": "Exodus 26:31",
+        "original": "Ex 26:31"
+      },
+      {
+        "reference": "Numbers 7:89",
+        "original": "Num. 7:89"
+      },
+      {
+        "reference": "1 Samuel 4:4",
+        "original": "1 Sam. 4:4"
+      },
+      {
+        "reference": "Isaiah 37:16",
+        "original": "Isa. 37:16"
+      },
+      {
+        "reference": "Psalms 80:1",
+        "original": "Ps. 80:1"
+      },
+      {
+        "reference": "Psalms 99:1",
+        "original": "Ps 99:1"
+      },
+      {
+        "reference": "Revelation 4:6",
+        "original": "Rev. 4:6"
+      },
+      {
+        "reference": "Hebrews 9:5",
+        "original": "Heb. 9:5"
+      },
+      {
+        "reference": "Psalms 18:10",
+        "original": "Ps. 18:10"
+      },
+      {
+        "reference": "Ezekiel 1:26",
+        "original": "Ezek. 1:26"
+      },
+      {
+        "reference": "Ezekiel 1:28",
+        "original": "Ezek. 1:28"
+      },
+      {
+        "reference": "Ezra 2:59",
+        "original": "Ezra 2:59"
+      },
+      {
+        "reference": "Nehemiah 7:61",
+        "original": "Nehemiah 7:61"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cherub-cherubim": {
+    "name": "Querubim",
+    "slug": "cherub-cherubim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A figura simbólica assim chamada era uma forma de criatura composta que encontra um paralelo nas insígnias religiosas da Assíria, Egito e Pérsia, por exemplo, a esfinge, os touros e leões alados de Nínive, etc. Um querubim guardava o paraíso (Gênesis 3:24). Figuras de querubins foram colocadas sobre o propiciatório da arca (Êxodo 25:18). Um par de tamanho colossal cobria-a no templo de Salomão com o dossel das suas asas estendidas contiguamente (1 Reis 6:27). Aqueles sobre a arca deveriam ser colocados com as asas estendidas, uma em cada extremidade do propiciatório. As suas asas deveriam ser estendidas para cima, e os seus rostos “um para o outro e para o propiciatório”. É notável que, com direções tão precisas quanto à sua posição, atitude e material, nada, exceto que eram alados, é dito sobre a sua forma. No geral, parece provável que a palavra “querubim” significasse não apenas a forma de criatura composta, da qual o homem, o leão, o boi e a águia eram os elementos, mas, além disso, alguma forma peculiar e mística. (Alguns supõem que os querubins representavam a providência de Deus entre os homens, os quatro rostos expressando os caracteres dessa providência: a sua sabedoria e inteligência (homem), a sua força (boi), a sua autoridade real (leão), a sua rapidez, clarividência (águia). Outros, combinando todas as outras referências com a descrição dos seres viventes em Apocalipse, fazem com que os querubins representem o povo redimido de Deus. As qualidades dos quatro rostos são aquelas que pertencem ao povo de Deus. O seu rosto virado para quatro direções, para todos os quadrantes do globo, representa o seu dever de espalhar a verdade. As asas mostram a rapidez da obediência; e somente os redimidos podem cantar o cântico colocado nas suas bocas em (Apocalipse 5:8-14)—ED)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:24",
+        "original": "Genesis 3:24"
+      },
+      {
+        "reference": "Exodus 25:18",
+        "original": "Exodus 25:18"
+      },
+      {
+        "reference": "1 Kings 6:27",
+        "original": "1 Kings 6:27"
+      },
+      {
+        "reference": "Revelation 5:8-14",
+        "original": "Revelation 5:8-14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chesalon": {
+    "name": "Qesalon",
+    "slug": "chesalon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Força; confiança, um lugar na fronteira de Judá, no lado do Monte Jearim (Josué 15:10); provavelmente identificado com a moderna aldeia de Kesla, nas montanhas ocidentais de Judá."
+      },
+      {
+        "source": "SMI",
+        "text": "(esperanças), um lugar nomeado como um dos marcos na parte oeste do limite norte de Judá, (Josué 15:10) provavelmente Kesla, cerca de seis milhas a nordeste de Ainshems, nas montanhas ocidentais de Judá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:10",
+        "original": "Josh. 15:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chesed": {
+    "name": "Qesede",
+    "slug": "chesed",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ganho, o filho de Naor (Gênesis 22:22)."
+      },
+      {
+        "source": "SMI",
+        "text": "(aumento), quarto filho de Naor. (Gênesis 22:22)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 22:22",
+        "original": "Gen. 22:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chesil": {
+    "name": "Qesil",
+    "slug": "chesil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ímpio, uma cidade no sul de Judá (Josué 15:30); provavelmente a mesma que Betul (19:4) e Betuel (1 Crônicas 4:30); agora Khelasa."
+      },
+      {
+        "source": "SMI",
+        "text": "(idólatra), uma cidade no extremo sul da Palestina, (Josué 15:30) 15 milhas a sudoeste de Berseba. Em (Josué 19:4) o nome é Betul."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:30",
+        "original": "Josh. 15:30"
+      },
+      {
+        "reference": "1 Chronicles 4:30",
+        "original": "1 Chr. 4:30"
+      },
+      {
+        "reference": "Joshua 19:4",
+        "original": "Joshua 19:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chesulloth": {
+    "name": "Qesulote",
+    "slug": "chesulloth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Lugares férteis; os lombos, uma cidade de Issacar, nas encostas de alguma montanha entre Jezreel e Suném (Josué 19:18). Foi identificada com Quislote-Tabor, a 2 milhas e meia a oeste do Monte Tabor, e ao norte de Jezreel; agora Iksal."
+      },
+      {
+        "source": "SMI",
+        "text": "(os lombos), uma das cidades de Issacar. (Josué 19:18) Pela sua posição nas listas, parece estar entre Jezreel e Suném (Salam)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:18",
+        "original": "Josh. 19:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chezib": {
+    "name": "Quezibe",
+    "slug": "chezib",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Enganoso, uma cidade onde Sela, filho de Judá, nasceu (Gênesis 38:5). Provavelmente a mesma que Aczibe (veja este nome)."
+      },
+      {
+        "source": "SMI",
+        "text": "(mentiroso), um nome que ocorre apenas uma vez, (Gênesis 38:5) provavelmente o mesmo que Aczibe."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:5",
+        "original": "Gen. 38:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chidon": {
+    "name": "Quidom",
+    "slug": "chidon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dardo, o nome da eira onde ocorreu a morte de Uzá (1 Crônicas 13:9). Na passagem paralela em Samuel (2 Samuel 6:6) é chamada de “eira de Nacom”. Era um lugar não muito longe a noroeste de Jerusalém."
+      },
+      {
+        "source": "SMI",
+        "text": "(um dardo), o nome que em (1 Crônicas 13:9) é dado à eira onde ocorreu o acidente com a arca. No relato paralelo em 2 Samuel 6, o nome é dado como NACOM."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 13:9",
+        "original": "1 Chr. 13:9"
+      },
+      {
+        "reference": "2 Samuel 6:6",
+        "original": "2 Sam. 6:6"
+      },
+      {
+        "reference": "2 Samuel 6",
+        "original": "2Sam 6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chileab": {
+    "name": "Quileabe",
+    "slug": "chileab",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Protegido pelo pai, o segundo filho de Davi com Abigail (2 Sam. 3:3); chamado também de Daniel (1 Crôn. 3:1). Ele parece ter morrido quando jovem."
+      },
+      {
+        "source": "SMI",
+        "text": "(como seu pai), um filho de Davi com Abigail. [Abigail]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 3:3",
+        "original": "2 Sam. 3:3"
+      },
+      {
+        "reference": "1 Chronicles 3:1",
+        "original": "1 Chr. 3:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chilion": {
+    "name": "Quiliom",
+    "slug": "chilion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O definhante, o filho mais novo de Elimeleque e Noemi, e marido de Orfa, irmã de Rute (Rute 1:2; 4:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 1:2",
+        "original": "Ruth 1:2"
+      },
+      {
+        "reference": "Ruth 4:9",
+        "original": "Ruth 4:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "chillon": {
+    "name": "Quiliom",
+    "slug": "chillon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(definhante, doentio), o filho de Noemi e marido de Rute (Rute 1:2-5; 4:9) (a.C. 1250)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 1:2-5",
+        "original": "Ruth 1:2-5"
+      },
+      {
+        "reference": "Ruth 4:9",
+        "original": "Ruth 4:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chilmad": {
+    "name": "Quilmade",
+    "slug": "chilmad",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um lugar ou país desconhecido que, juntamente com Sabá e Assur, negociava com Tiro (Ezeq. 27:23)."
+      },
+      {
+        "source": "SMI",
+        "text": "(recinto), um lugar ou país mencionado em conjunto com Sabá e Assur (Ezequiel 27:23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 27:23",
+        "original": "Ezek. 27:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chimham": {
+    "name": "Quimã",
+    "slug": "chimham",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Definhante, provavelmente o filho mais novo de Barzilai, o gileadita (2 Sam. 19:37-40). A “habitação de Quimã” (Jer. 41:17) era provavelmente uma estalagem ou caravançarai, que é o significado próprio do hebraico geruth, traduzido como “habitação”, estabelecido em tempos posteriores em sua posse em Belém, que Davi lhe deu como recompensa por sua lealdade ao acompanhá-lo a Jerusalém após a derrota de Absalão (1 Reis 2:7). Supõe-se que, considerando o caráter estacionário das instituições orientais, foi na estalagem desse caravançarai que nosso Salvador nasceu (Lucas 2:7)."
+      },
+      {
+        "source": "SMI",
+        "text": "(anseio), um seguidor e provavelmente um filho de Barzilai, o gileadita, que retornou do outro lado do Jordão com Davi (2 Samuel 19:37,38,40) (a.C. 1023). Davi parece ter lhe concedido uma posse em Belém, na qual, em tempos posteriores, uma estalagem ou caravançarai estava em pé (Jeremias 41:17)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 19:37-40",
+        "original": "2 Sam. 19:37-40"
+      },
+      {
+        "reference": "Jeremiah 41:17",
+        "original": "Jer. 41:17"
+      },
+      {
+        "reference": "1 Kings 2:7",
+        "original": "1 Kings 2:7"
+      },
+      {
+        "reference": "Luke 2:7",
+        "original": "Luke 2:7"
+      },
+      {
+        "reference": "2 Samuel 19:37",
+        "original": "2 Samuel 19:37"
+      },
+      {
+        "reference": "2 Samuel 19:38",
+        "original": "2 Samuel 19:38"
+      },
+      {
+        "reference": "2 Samuel 19:40",
+        "original": "2 Samuel 19:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chimhan": {
+    "name": "Quimã",
+    "slug": "chimhan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Quimã]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chinnereth": {
+    "name": "Quinerete",
+    "slug": "chinnereth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Lira, a forma singular da palavra (Deut. 3:17; Jos. 19:35), que também é usada na forma plural, Quinerote, o nome de uma cidade fortificada que ficava perto da margem do lago da Galileia, um pouco ao sul de Tiberíades. A cidade parece ter dado seu nome a um distrito, como aparece em 1 Reis 15:20, onde a forma plural da palavra é usada. O Mar de Quinerete (Núm. 34:11; Jos. 13:27), ou de Quinerote (Jos. 12:3), era o “lago de Genesaré” ou “mar de Tiberíades” (Deut. 3:17; Jos. 11:2). Quinerete era provavelmente um nome cananeu antigo adotado pelos israelitas em sua língua."
+      },
+      {
+        "source": "SMI",
+        "text": "(circuito), precisamente Quinerete, uma cidade fortificada na tribo de Naftali (Josué 19:35), da qual não se encontra vestígio em escritores posteriores e nenhum remanescente por viajantes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 3:17",
+        "original": "Deut. 3:17"
+      },
+      {
+        "reference": "Joshua 19:35",
+        "original": "Josh. 19:35"
+      },
+      {
+        "reference": "1 Kings 15:20",
+        "original": "1 Kings 15:20"
+      },
+      {
+        "reference": "Numbers 34:11",
+        "original": "Num. 34:11"
+      },
+      {
+        "reference": "Joshua 13:27",
+        "original": "Josh. 13:27"
+      },
+      {
+        "reference": "Joshua 12",
+        "original": "Josh. 12"
+      },
+      {
+        "reference": "Joshua 11:2",
+        "original": "Josh. 11:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chinneroth": {
+    "name": "Quinerote",
+    "slug": "chinneroth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Quinerete, Mar de Quinerete]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chios": {
+    "name": "Quios",
+    "slug": "chios",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionada em Atos 20:15, uma ilha no Mar Egeu, a cerca de 8 km de distância do continente, possuindo um ancoradouro onde Paulo e seus companheiros ancoraram por uma noite durante sua terceira viagem missionária de retorno. Hoje é chamada de Scio."
+      },
+      {
+        "source": "SMI",
+        "text": "(nevada), uma ilha do Mar Egeu, a 19 km de Esmirna. É separada do continente por um estreito de apenas 8 km. Seu comprimento é de cerca de 19 km e sua largura varia de 13 a 29 km. Paulo passou por ela em sua viagem de retorno de Trôade para Cesareia (Atos 20:15). Hoje é chamada de Scio."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 20:15",
+        "original": "Acts 20:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chisleu": {
+    "name": "Quisleu",
+    "slug": "chisleu",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome adotado dos babilônios pelos judeus após o Cativeiro para o terceiro mês civil, ou nono mês eclesiástico (Nee. 1:1; Zac. 7:1). Corresponde aproximadamente à lua em novembro."
+      },
+      {
+        "source": "SMI",
+        "text": "[Mês]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 1:1",
+        "original": "Neh. 1:1"
+      },
+      {
+        "reference": "Zechariah 7:1",
+        "original": "Zech. 7:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chislon": {
+    "name": "Quislom",
+    "slug": "chislon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(confiança), pai de Elidade, o príncipe da tribo de Benjamim escolhido para auxiliar na divisão da terra de Canaã entre as tribos (Números 34:21) (a.C. 1450)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 34:21",
+        "original": "Numbers 34:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chislothtabor": {
+    "name": "Quislote-Tabor",
+    "slug": "chislothtabor",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(lombos de Tabor) um lugar cuja fronteira atingia a fronteira de Zebulom. (Josué 19:12) Pode ser a vila de Iksal, que atualmente se encontra a cerca de 4 km a oeste do Monte Tabor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:12",
+        "original": "Joshua 19:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chittim": {
+    "name": "Quitim",
+    "slug": "chittim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ou Quitim, uma forma plural (Gn 10:4), o nome de um ramo dos descendentes de Javã, o “filho” de Jafé. Balaão previu (Nm 24:24) “que navios virão da costa de Quitim e afligirão Éber”. Daniel profetizou (11:30) que os navios de Quitim viriam contra o rei do norte. Provavelmente denota Chipre, cuja antiga capital era chamada Quítio pelos gregos. As referências feitas a Quitim em outros lugares (Is 23:1, 12; Jr 2:10; Ez 27:6) devem ser explicadas pelo fato de que, embora o nome originalmente designasse apenas os fenícios, passou posteriormente a ser usado para todas as ilhas e vários assentamentos nas costas marítimas que eles haviam ocupado, e então para as pessoas que os sucederam quando o poder fenício entrou em declínio. Portanto, designa genericamente as ilhas e costas do Mediterrâneo e as raças que as habitam."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:4",
+        "original": "Gen. 10:4"
+      },
+      {
+        "reference": "Numbers 24:24",
+        "original": "Num. 24:24"
+      },
+      {
+        "reference": "Isaiah 23:1",
+        "original": "Isa. 23:1"
+      },
+      {
+        "reference": "Isaiah 23:12",
+        "original": "Isa. 23:12"
+      },
+      {
+        "reference": "Jeremiah 2:10",
+        "original": "Jer. 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:6",
+        "original": "Ezek. 27:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "chittim-kittim": {
+    "name": "Quitim",
+    "slug": "chittim-kittim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(os que ferem), uma família ou raça descendente de Javã. (Gênesis 10:4; 1 Crônicas 1:7) Versão Autorizada: Kittim. Quitim é frequentemente mencionado nas Escrituras. (Números 24:24; Isaías 23:1,12; Jeremias 2:10; Ezequiel 27:6; Daniel 11:30) Nas passagens acima, as “ilhas de Quitim”, os “navios de Quitim”, as “costas de Quitim” supõe-se que se refiram à ilha de Chipre. Josefo considerava Chipre a sede original dos quitas. O nome Quitim, que em primeira instância implicava apenas os fenícios, passou para as ilhas que eles haviam ocupado e, daí, para as pessoas que sucederam aos fenícios na ocupação delas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:4",
+        "original": "Genesis 10:4"
+      },
+      {
+        "reference": "1 Chronicles 1:7",
+        "original": "1 Chronicles 1:7"
+      },
+      {
+        "reference": "Numbers 24:24",
+        "original": "Numbers 24:24"
+      },
+      {
+        "reference": "Isaiah 23:1",
+        "original": "Isaiah 23:1"
+      },
+      {
+        "reference": "Isaiah 23:12",
+        "original": "Isaiah 23:12"
+      },
+      {
+        "reference": "Jeremiah 2:10",
+        "original": "Jeremiah 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:6",
+        "original": "Ezekiel 27:6"
+      },
+      {
+        "reference": "Daniel 11:30",
+        "original": "Daniel 11:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "chiun": {
+    "name": "Quium",
+    "slug": "chiun",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocorre apenas em Amós 5:26 (margem da R.V., “santuário”). A LXX traduziu a palavra por Refã, que se corrompeu para Renfã, conforme usado por Estêvão (Atos 7:43; mas R.V., “Rephan”). Provavelmente o planeta Saturno é pretendido pelo nome. Os astrólogos representavam este planeta como nefasto em suas influências, e por isso os fenícios ofereciam-lhe sacrifícios humanos, especialmente crianças."
+      },
+      {
+        "source": "SMI",
+        "text": "(uma estátua, talvez de Saturno), um ídolo feito pelos israelitas no deserto. [Renfã]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Amos 5:26",
+        "original": "Amos 5:26"
+      },
+      {
+        "reference": "Acts 7:43",
+        "original": "Acts 7:43"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "cinnereth": {
+    "name": "Quinerete",
+    "slug": "cinnereth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma harpa, uma das “cidades fortificadas” de Naftali (Josué 19:35; compare com Deuteronômio 3:17). Também denota, aparentemente, um distrito que pode ter tomado seu nome da cidade adjacente ou do lago de Genesaré, chamado antigamente de “o mar de Quinerete” (q.v.), e era provavelmente aquele distrito fechado ao norte de Tiberíades, posteriormente chamado de “a planície de Genesaré”. Chamada de Quinerote (ARA, Quinerete) em Josué 11:2. A frase “toda Quinerote, com toda a terra de Naftali” em 1 Reis 15:20 é paralela a “os depósitos das cidades de Naftali” em 2 Crônicas 16:4."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:35",
+        "original": "Josh. 19:35"
+      },
+      {
+        "reference": "Deuteronomy 3:17",
+        "original": "Deut. 3:17"
+      },
+      {
+        "reference": "Joshua 11:2",
+        "original": "Josh. 11:2"
+      },
+      {
+        "reference": "1 Kings 15:20",
+        "original": "1 Kings 15:20"
+      },
+      {
+        "reference": "2 Chronicles 16:4",
+        "original": "2 Chr. 16:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "cinneroth": {
+    "name": "Quinerote",
+    "slug": "cinneroth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(1 Reis 15:20) Este era possivelmente o pequeno distrito fechado ao norte de Tiberíades, e ao lado do lago, posteriormente conhecido como “a planície de Genesaré”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 15:20",
+        "original": "1 Kings 15:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "closet": {
+    "name": "Quarto",
+    "slug": "closet",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Conforme usado no Novo Testamento, significa propriamente um depósito ou despensa (Lc 12:24), e, portanto, um lugar de privacidade e retiro (Mt 6:6; Lc 12:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 12",
+        "original": "Luke 12"
+      },
+      {
+        "reference": "Matthew 6:6",
+        "original": "Matt. 6:6"
+      },
+      {
+        "reference": "Luke 12:3",
+        "original": "Luke 12:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "darling": {
+    "name": "Querida",
+    "slug": "darling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Salmos 22:20; 35:17) significa um \"único\", \"o meu único\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 22:20",
+        "original": "Ps. 22:20"
+      },
+      {
+        "reference": "Psalms 35:17",
+        "original": "Ps 35:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "fall-of-man": {
+    "name": "Queda do homem",
+    "slug": "fall-of-man",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma expressão provavelmente emprestada do Livro apócrifo da Sabedoria, para expressar o fato da revolta de nossos primeiros pais contra Deus e o consequente pecado e miséria em que eles e toda a sua posteridade foram envolvidos. A história da Queda está registrada em Gênesis 2 e 3. Essa história deve ser interpretada literalmente. Ela registra fatos que fundamentam todo o sistema da verdade revelada. É referida pelo nosso Senhor e seus apóstolos não apenas como sendo verdadeira, mas como fornecendo o fundamento de todas as dispensações e tratamentos posteriores de Deus com os filhos dos homens. O registro da tentação e queda de Adão deve ser tomado como um relato histórico verdadeiro, se quisermos entender a Bíblia de todo como uma revelação do propósito de misericórdia de Deus. Os efeitos deste primeiro pecado sobre nossos primeiros pais foram: (1) “vergonha”, um senso de degradação e poluição; (2) medo do desagrado de Deus, ou um senso de culpa, e o consequente desejo de se esconder de sua presença. Esses efeitos eram inevitáveis. Eles provam a perda não apenas da inocência, mas da retidão original e, com ela, do favor e comunhão de Deus. O estado, portanto, ao qual Adão foi reduzido por sua desobediência, no que diz respeito à sua condição subjetiva, era análogo ao dos anjos caídos. Ele estava total e absolutamente arruinado” (Hodge’s Theology). Mas a descrença e desobediência de nossos primeiros pais não trouxeram apenas essa miséria e ruína sobre si mesmos, mas acarretaram também as mesmas tristes consequências sobre todos os seus descendentes. (1.) A culpa, isto é, a responsabilidade pelo castigo desse pecado, vem por imputação sobre todos os homens, porque todos foram representados por Adão na aliança das obras (q.v.). (Veja IMPUTAÇÃO.) (2.) Daí, também, todos os seus descendentes herdam uma natureza corrupta. Em todos, por natureza, existe uma tendência inerente e predominante ao pecado. Esta depravação universal é ensinada pela experiência universal. Todos os homens pecam assim que são capazes de ações morais. O testemunho das Escrituras nesse sentido é muito abundante (Rm 1; 2; 3:1-19, etc.). (3.) Esta depravação inata é total: somos por natureza “mortos em delitos e pecados” e devemos “nascer de novo” antes de podermos entrar no reino (Jo 3:7, etc.). (4.) Resultante desta “corrupção de toda a nossa natureza” está a nossa absoluta incapacidade moral de mudar a nossa natureza ou de obedecer à lei de Deus. Comentando sobre João 9:3, Ryle observa bem: “Um princípio profundo e instrutivo reside nestas palavras. Elas certamente lançam alguma luz sobre aquela grande questão, a origem do mal. Deus achou por bem permitir que o mal existisse para que ele pudesse ter uma plataforma para mostrar sua misericórdia, graça e compaixão. Se o homem nunca tivesse caído, não haveria oportunidade de mostrar misericórdia divina. Mas ao permitir o mal, por mais misterioso que pareça, as obras de graça, misericórdia e sabedoria de Deus na salvação dos pecadores foram maravilhosamente manifestadas a todas as suas criaturas. A redenção da igreja de pecadores eleitos é o meio de ‘mostrar aos principados e potestades a multiforme sabedoria de Deus’ (Ef 3:10). Sem a Queda, não saberíamos nada da Cruz e do Evangelho.” Nos monumentos do Egito, encontram-se representações de uma divindade em forma humana, perfurando com uma lança a cabeça de uma serpente. Isso é considerado uma ilustração da ampla disseminação da tradição da Queda. A história da “idade de ouro”, que dá lugar à “idade de ferro”, a idade da pureza e inocência, que é seguida por um tempo em que o homem se torna presa do pecado e da miséria, como representado na mitologia da Grécia e de Roma, também tem sido considerada uma tradição da Queda."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2",
+        "original": "Gen. 2"
+      },
+      {
+        "reference": "Romans 1",
+        "original": "Rom. 1"
+      },
+      {
+        "reference": "Romans 2",
+        "original": "Rom 2"
+      },
+      {
+        "reference": "Romans 3:1-19",
+        "original": "Rom 3:1-19"
+      },
+      {
+        "reference": "John 3:7",
+        "original": "John 3:7"
+      },
+      {
+        "reference": "John 9:3",
+        "original": "John 9:3"
+      },
+      {
+        "reference": "Ephesians 3:10",
+        "original": "Eph. 3:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "farthing": {
+    "name": "Quadrante",
+    "slug": "farthing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Mateus 10:29; Lucas 12:6. Gr. assarion, isto é, um pequeno 'as', que era uma moeda romana igual a um décimo de um denário ou dracma, quase igual a meio centavo do nosso dinheiro. (2.) Mateus 5:26; Marcos 12:42 (Gr. kodrantes), o quadrante, a quarta parte de um 'as', igual a dois leptas, moedas de pouco valor. O lepton era a menor moeda de cobre."
+      },
+      {
+        "source": "SMI",
+        "text": "Dois nomes de moedas no Novo Testamento são traduzidos na Versão Autorizada por esta palavra:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 10:29",
+        "original": "Matt. 10:29"
+      },
+      {
+        "reference": "Luke 12:6",
+        "original": "Luke 12:6"
+      },
+      {
+        "reference": "Matthew 5:26",
+        "original": "Matt. 5:26"
+      },
+      {
+        "reference": "Mark 12:42",
+        "original": "Mark 12:42"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "guest-chamber": {
+    "name": "Quarto de hóspedes",
+    "slug": "guest-chamber",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O quarto vago no andar superior de uma habitação oriental (Marcos 14:14; Lucas 22:11). Em Lucas 2:7, a palavra é traduzida como \"estalagem\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 14:14",
+        "original": "Mark 14:14"
+      },
+      {
+        "reference": "Luke 22:11",
+        "original": "Luke 22:11"
+      },
+      {
+        "reference": "Luke 2:7",
+        "original": "Luke 2:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "jaw-bone": {
+    "name": "Queixada",
+    "slug": "jaw-bone",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De um jumento, forneceu a Sansão uma arma para o grande massacre dos filisteus (Jz 15:15), no qual ele matou mil homens. No versículo 19, a Versão Autorizada diz: “Deus fendeu uma cavidade que estava na queixada, e dela saiu água”. Esta é uma má tradução das palavras. A tradução deveria ser como na Versão Revisada: “Deus fendeu a cavidade que está em Leí”, etc., sendo Leí (q.v.) o nome do monte onde este conflito foi travado, possivelmente assim chamado porque tinha o formato de uma queixada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 15:15",
+        "original": "Judg. 15:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "jirjathaim": {
+    "name": "Quiriataim",
+    "slug": "jirjathaim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(as duas cidades)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 32:37",
+        "original": "Numbers 32:37"
+      },
+      {
+        "reference": "Numbers 32:38",
+        "original": "Numbers 32:38"
+      },
+      {
+        "reference": "Joshua 12:19",
+        "original": "Joshua 12:19"
+      },
+      {
+        "reference": "Jeremiah 48:1",
+        "original": "Jeremiah 48:1"
+      },
+      {
+        "reference": "Jeremiah 48:23",
+        "original": "Jeremiah 48:23"
+      },
+      {
+        "reference": "Ezekiel 25:9",
+        "original": "Ezekiel 25:9"
+      },
+      {
+        "reference": "Joshua 19:32-39",
+        "original": "Joshua 19:32-39"
+      },
+      {
+        "reference": "1 Chronicles 6:76",
+        "original": "1 Chronicles 6:76"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kedar": {
+    "name": "Quedar",
+    "slug": "kedar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De pele escura, o segundo filho de Ismael (Gênesis 25:13). É o nome dado às tribos nômades de árabes, os beduínos em geral (Isaías 21:16; 42:11; 60:7; Jeremias 2:10; Ezequiel 27:21), que habitavam o noroeste da Arábia. Eles viviam em tendas de pelos negros (Cânticos 1:5). “Habitar nas tendas de Quedar” significava estar separado da adoração ao verdadeiro Deus (Salmos 120:5). Os quedarenses sofreram nas mãos de Nabucodonosor (Jeremias 49:28, 29)."
+      },
+      {
+        "source": "SMI",
+        "text": "(de pele escura), o segundo em ordem dos filhos de Ismael, (Gênesis 25:13; 1 Crônicas 1:29) e o nome de uma grande tribo de árabes estabelecida no noroeste da península e nas fronteiras da Palestina. A “glória de Quedar” é registrada pelo profeta Isaías, (Isaías 21:13-17) no fardo sobre a Arábia; e sua importância também pode ser inferida pelos “príncipes de Quedar” mencionados por Ezequiel, (Ezequiel 27:21), bem como pelo caráter pastoral da tribo. Eles também parecem ter sido, como as tribos nômades de hoje, “arqueiros” e “homens valentes”. (Isaías 21:17) comp. Salmos 120:5. Que eles também se estabeleceram em aldeias ou cidades, descobrimos em Isaías. (Isaías 42:11). A tribo parece ter sido uma das mais notáveis de todas as tribos ismaelitas e, por isso, os rabinos chamam os árabes universalmente por este nome."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:13",
+        "original": "Gen. 25:13"
+      },
+      {
+        "reference": "Isaiah 21:16",
+        "original": "Isa. 21:16"
+      },
+      {
+        "reference": "Isaiah 42:11",
+        "original": "Isa 42:11"
+      },
+      {
+        "reference": "Isaiah 60:7",
+        "original": "Isa 60:7"
+      },
+      {
+        "reference": "Jeremiah 2:10",
+        "original": "Jer. 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:21",
+        "original": "Ezek. 27:21"
+      },
+      {
+        "reference": "Song of Solomon 1:5",
+        "original": "Cant. 1:5"
+      },
+      {
+        "reference": "Psalms 120:5",
+        "original": "Ps. 120:5"
+      },
+      {
+        "reference": "Jeremiah 49:28",
+        "original": "Jer. 49:28"
+      },
+      {
+        "reference": "Jeremiah 49:29",
+        "original": "Jer 49:29"
+      },
+      {
+        "reference": "1 Chronicles 1:29",
+        "original": "1 Chronicles 1:29"
+      },
+      {
+        "reference": "Isaiah 21:13-17",
+        "original": "Isaiah 21:13-17"
+      },
+      {
+        "reference": "Isaiah 21:17",
+        "original": "Isaiah 21:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kedemah": {
+    "name": "Quedema",
+    "slug": "kedemah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Para o leste, o último filho nomeado de Ismael (Gênesis 25:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(para o leste), o mais jovem dos filhos de Ismael. (Gênesis 25:15; 1 Crônicas 1:31)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:15",
+        "original": "Gen. 25:15"
+      },
+      {
+        "reference": "1 Chronicles 1:31",
+        "original": "1 Chronicles 1:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kedemoth": {
+    "name": "Quedemote",
+    "slug": "kedemoth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Princípios; mais oriental, uma cidade de Rúben, designada aos levitas da família de Merari (Josué 13:18). Ficava não muito longe a nordeste de Dibom-Gade, a leste do Mar Morto."
+      },
+      {
+        "source": "SMI",
+        "text": "(princípios), uma das cidades no distrito a leste do Mar Morto designada à tribo de Rúben, (Josué 13:18) dada aos levitas meraritas. (Josué 21:37; 1 Crônicas 6:79) Possivelmente deu seu nome ao “deserto”, ou terra de pastagem não cultivada, de “Quedemote”. (Números 21:33; 2:26, 27) etc."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 13:18",
+        "original": "Josh. 13:18"
+      },
+      {
+        "reference": "Joshua 21:37",
+        "original": "Joshua 21:37"
+      },
+      {
+        "reference": "1 Chronicles 6:79",
+        "original": "1 Chronicles 6:79"
+      },
+      {
+        "reference": "Numbers 21:33",
+        "original": "Numbers 21:33"
+      },
+      {
+        "reference": "Numbers 2:26",
+        "original": "Numbers 2:26"
+      },
+      {
+        "reference": "Numbers 2:27",
+        "original": "Numbers 2:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kedesh": {
+    "name": "Quedes",
+    "slug": "kedesh",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Santuário. (1.) Um lugar no extremo sul de Judá (Josué 15:23). Provavelmente o mesmo que Cades-Barneia (veja o termo). (2.) Uma cidade de Issacar (1 Crônicas 6:72). Possivelmente Tell Abu Kadeis, perto de Lejjun. (3.) Uma “cidade fortificada” de Naftali, uma das cidades de refúgio (Josué 19:37; Juízes 4:6). Foi designada aos levitas gersonitas (Josué 21:32). Era originalmente uma cidade real cananeia (Josué 12:22), e foi a residência de Baraque (Juízes 4:6); e aqui ele e Débora reuniram as tribos de Zebulom e Naftali antes do início do conflito com Sísera na planície de Esdraelon, “para Jeová entre os poderosos” (9, 10). No reinado de Peca, foi tomada por Tiglate-Pileser (2 Reis 15:29). Estava situada perto do “carvalho” (ou “planalto”) de Zaanaim, e foi identificada com a moderna Kedes, nas colinas a pouco mais de 6 km a noroeste do Lago Hula. Alguns supuseram que a Quedes do relato, onde Baraque reuniu suas tropas, não era o lugar na Alta Galileia com esse nome, que ficava a 48 km de distância da planície de Esdraelon, mas Kedesh, na costa do Mar da Galileia, a 19 km de Tabor."
+      },
+      {
+        "source": "SMI",
+        "text": "(um santuário)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:23",
+        "original": "Josh. 15:23"
+      },
+      {
+        "reference": "1 Chronicles 6:72",
+        "original": "1 Chr. 6:72"
+      },
+      {
+        "reference": "Joshua 19:37",
+        "original": "Josh. 19:37"
+      },
+      {
+        "reference": "Judges 4:6",
+        "original": "Judg. 4:6"
+      },
+      {
+        "reference": "Joshua 21:32",
+        "original": "Josh. 21:32"
+      },
+      {
+        "reference": "Joshua 12:22",
+        "original": "Josh. 12:22"
+      },
+      {
+        "reference": "2 Kings 15:29",
+        "original": "2 Kings 15:29"
+      },
+      {
+        "reference": "Joshua 20:7",
+        "original": "Joshua 20:7"
+      },
+      {
+        "reference": "1 Chronicles 6:76",
+        "original": "1 Chronicles 6:76"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keilah": {
+    "name": "Queila",
+    "slug": "keilah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidadela, uma cidade nas terras baixas de Judá (Josué 15:44). Davi a resgatou do ataque dos filisteus (1 Samuel 23:1-8); mas, como os habitantes mostraram-se infiéis a ele, ao tentarem entregá-lo a Saul (13), ele e seus homens “partiram de Queila e foram para onde quer que pudessem ir”. Eles fugiram para o monte Harete, a cerca de 5 km a leste, e de lá, através de Hebrom, para Zife (q.v.). “E Davi estava no deserto de Zife, num bosque” (1 Samuel 23:15). Ali Jônatas o procurou “e fortaleceu a sua mão em Deus”. Este foi o último encontro entre Davi e Jônatas (23:16-18). É a moderna Khurbet Kila. Outros a identificam com Khuweilfeh, entre Beit Jibrin (Eleuterópolis) e Berseba, mencionada nas tábuas de Amarna."
+      },
+      {
+        "source": "SMI",
+        "text": "(fortaleza), uma cidade da Sefelá, ou distrito de terras baixas de Judá. (Josué 15:44) Seu principal interesse consiste na sua conexão com Davi. (1 Samuel 23:7-13) É representada por Kila, um local com ruínas, na estrada inferior de Beit Jibrin para Hebrom."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:44",
+        "original": "Josh. 15:44"
+      },
+      {
+        "reference": "1 Samuel 23:1-8",
+        "original": "1 Sam. 23:1-8"
+      },
+      {
+        "reference": "1 Samuel 23:15",
+        "original": "1 Sam. 23:15"
+      },
+      {
+        "reference": "1 Samuel 23:7-13",
+        "original": "1 Samuel 23:7-13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keilah-the-garmite": {
+    "name": "Queila, o garmita",
+    "slug": "keilah-the-garmite",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "aparentemente um descendente do grande Calebe. (1 Crônicas 4:19) Não há conexão aparente com a cidade de Queila."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:19",
+        "original": "1 Chronicles 4:19"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kelita": {
+    "name": "Quelita",
+    "slug": "kelita",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Anão, um levita que ajudou Esdras a explicar a lei ao povo (Neemias 8:7; 10:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "(assembleia), um dos levitas que retornou com Esdras. (Esdras 10:23) Ele ajudou na exposição da lei (Neemias 8:7) e assinou a aliança com Neemias (Neemias 10:10) (459-410 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 8:7",
+        "original": "Neh. 8:7"
+      },
+      {
+        "reference": "Nehemiah 10:10",
+        "original": "Neh 10:10"
+      },
+      {
+        "reference": "Ezra 10:23",
+        "original": "Ezra 10:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kenan": {
+    "name": "Quenã",
+    "slug": "kenan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(possessão) = Cainã, filho de Enos. (1 Crônicas 1:2)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 1:2",
+        "original": "1 Chronicles 1:2"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kenath": {
+    "name": "Quenate",
+    "slug": "kenath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Possessão, uma cidade de Gileade. Foi capturada por Noba, que a chamou pelo seu próprio nome (Números 32:42). Tem sido identificada com Kunawat, nas encostas de Jebel Hauran (Monte Basã), 96 km a leste da extremidade sul do Mar da Galileia."
+      },
+      {
+        "source": "SMI",
+        "text": "(possessão), uma das cidades a leste do Jordão, com suas “cidades-filhas” (versão Almeida “aldeias”) das quais tomou posse um certo Noba, que então a chamou pelo seu próprio nome, (Números 32:42)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 32:42",
+        "original": "Num. 32:42"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kenaz": {
+    "name": "Quenaz",
+    "slug": "kenaz",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Caçador. (1.) Um dos filhos de Elifaz, filho de Esaú. Tornou-se chefe de uma tribo edomita (Gênesis 36:11, 15, 42). (2.) Irmão mais novo de Calebe e pai de Otniel (Josué 15:17), cuja família foi importante em Israel até o tempo de Davi (1 Crônicas 27:15). Alguns pensam que Otniel (Juízes 1:13), e não Quenaz, era irmão de Calebe. (3.) Neto de Calebe (1 Crônicas 4:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(caça)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:11",
+        "original": "Gen. 36:11"
+      },
+      {
+        "reference": "Genesis 36:15",
+        "original": "Gen. 36:15"
+      },
+      {
+        "reference": "Genesis 36:42",
+        "original": "Gen. 36:42"
+      },
+      {
+        "reference": "Joshua 15:17",
+        "original": "Josh. 15:17"
+      },
+      {
+        "reference": "1 Chronicles 27:15",
+        "original": "1 Chr. 27:15"
+      },
+      {
+        "reference": "Judges 1:13",
+        "original": "Judg. 1:13"
+      },
+      {
+        "reference": "1 Chronicles 4:15",
+        "original": "1 Chr. 4:15"
+      },
+      {
+        "reference": "1 Chronicles 1:53",
+        "original": "1 Chronicles 1:53"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kenezite": {
+    "name": "Quenezeu",
+    "slug": "kenezite",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "ou Quenizita (descendente de Quenaz), (Gênesis 15:19) uma tribo edomita. (Números 32:12; Josué 14:6,14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 15:19",
+        "original": "Genesis 15:19"
+      },
+      {
+        "reference": "Numbers 32:12",
+        "original": "Numbers 32:12"
+      },
+      {
+        "reference": "Joshua 14:6",
+        "original": "Joshua 14:6"
+      },
+      {
+        "reference": "Joshua 14:14",
+        "original": "Joshua 14:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kenites": {
+    "name": "Queneus",
+    "slug": "kenites",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ferreiros, o nome de uma tribo que habitava o deserto entre o sul da Palestina e as montanhas do Sinai. Jetro era desta tribo (Juízes 1:16). Ele é chamado de “midianita” (Números 10:29), e daí conclui-se que os midianitas e os queneus eram a mesma tribo. Eram ferreiros errantes, “os ciganos e caldeireiros viajantes do antigo mundo oriental. Formavam uma guilda importante numa era em que a arte da metalurgia era restrita a poucos” (Sayce’s Races, etc.). Mostraram bondade a Israel em sua jornada pelo deserto. Acompanharam-nos em sua marcha até Jericó (Juízes 1:16), e então retornaram aos seus antigos locais entre os amalequitas, no deserto ao sul de Judá. Sustentaram depois relações amigáveis com os israelitas quando estabelecidos em Canaã (Juízes 4:11, 17-21; 1 Samuel 27:10; 30:29). Os recabitas pertenciam a esta tribo (1 Crônicas 2:55) e, nos dias de Jeremias (35:7-10), são referidos como seguindo seus hábitos nômades. Saul ordenou que se afastassem dos amalequitas (1 Samuel 15:6) quando, em obediência à comissão divina, ele estava prestes a “ferir Amaleque”. E a sua razão é: “porque vós mostrastes bondade a todos os filhos de Israel quando saíram do Egito”. Assim, “Deus não é injusto para esquecer as bondades mostradas ao seu povo; mas elas serão lembradas noutro dia, no mais tardar no grande dia, e recompensadas na ressurreição dos justos” (Comentário de M. Henry). São mencionados pela última vez na Escritura em 1 Samuel 27:10; comp. 30:20."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 1:16",
+        "original": "Judg. 1:16"
+      },
+      {
+        "reference": "Numbers 10:29",
+        "original": "Num. 10:29"
+      },
+      {
+        "reference": "Judges 4:11",
+        "original": "Judges 4:11"
+      },
+      {
+        "reference": "Judges 4:17",
+        "original": "Judges 4:17"
+      },
+      {
+        "reference": "1 Samuel 27:10",
+        "original": "1 Sam. 27:10"
+      },
+      {
+        "reference": "1 Samuel 30:29",
+        "original": "1 Sam. 30:29"
+      },
+      {
+        "reference": "1 Chronicles 2:55",
+        "original": "1 Chr. 2:55"
+      },
+      {
+        "reference": "1 Samuel 15:6",
+        "original": "1 Sam. 15:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kenizzite": {
+    "name": "Quenizita",
+    "slug": "kenizzite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) O nome de uma tribo referida na aliança que Deus fez com Abraão (Gênesis 15:19). Não são mencionados entre os habitantes originais de Canaã (Êxodo 3:8; Josué 3:10), e provavelmente habitavam alguma parte da Arábia, nos confins da Síria. (2.) Uma designação dada a Calebe (R.V., Números 32:12; A.V., Kenezite)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Gênesis 15:19) [Quenezeu]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 15:19",
+        "original": "Gen. 15:19"
+      },
+      {
+        "reference": "Exodus 3:8",
+        "original": "Ex. 3:8"
+      },
+      {
+        "reference": "Joshua 3:10",
+        "original": "Josh. 3:10"
+      },
+      {
+        "reference": "Numbers 32:12",
+        "original": "Num. 32:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keren-happuch": {
+    "name": "Querém-Hapuque",
+    "slug": "keren-happuch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Chifre da pintura facial = estojo de cosméticos, o nome da terceira filha de Jó (Jó 42:14), nascida após a prosperidade ter retornado a ele."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 42:14",
+        "original": "Job. 42:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kerenhappuch": {
+    "name": "Querém-Hapuque",
+    "slug": "kerenhappuch",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(o chifre da beleza), a mais jovem das filhas de Jó, nascida para ele durante o período da sua prosperidade renovada. (Jó 42:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 42:14",
+        "original": "Job 42:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kerioth": {
+    "name": "Queriote",
+    "slug": "kerioth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidades. (1.) Uma cidade no sul de Judá (Josué 15:25). Judas, o traidor, era provavelmente natural deste lugar, e daí o seu nome Iscariotes. Foi identificada com as ruínas de el-Kureitein, cerca de 16 quilômetros ao sul de Hebrom. (Veja HAZOR [4]). (2.) Uma cidade de Moabe (Jeremias 48:24, 41), chamada Queriote (Amós 2:2)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cidades)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:25",
+        "original": "Josh. 15:25"
+      },
+      {
+        "reference": "Jeremiah 48:24",
+        "original": "Jer. 48:24"
+      },
+      {
+        "reference": "Jeremiah 48:41",
+        "original": "Jer. 48:41"
+      },
+      {
+        "reference": "Amos 2:2",
+        "original": "Amos 2:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keros": {
+    "name": "Queros",
+    "slug": "keros",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(curvo), um dos netineus, cujos descendentes retornaram com Zorobabel. (Esdras 2:44; Neemias 7:47)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:44",
+        "original": "Ezra 2:44"
+      },
+      {
+        "reference": "Nehemiah 7:47",
+        "original": "Nehemiah 7:47"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keturah": {
+    "name": "Quetura",
+    "slug": "keturah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Incenso, a esposa de Abraão, com quem ele se casou provavelmente após a morte de Sara (Gênesis 25:1-6), com quem teve seis filhos, os quais ele enviou para a terra do Oriente. Sua nacionalidade é desconhecida. Ela é chamada de “concubina de Abraão” (1 Crônicas 1:32). Através da linhagem de Quetura, Abraão tornou-se o “pai de muitas nações”."
+      },
+      {
+        "source": "SMI",
+        "text": "(incenso), a esposa de Abraão após a morte de Sara. (Gênesis 25:1; 1 Crônicas 1:32) (1860 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:1-6",
+        "original": "Gen. 25:1-6"
+      },
+      {
+        "reference": "1 Chronicles 1:32",
+        "original": "1 Chr. 1:32"
+      },
+      {
+        "reference": "Genesis 25:1",
+        "original": "Genesis 25:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kezia": {
+    "name": "Quezia",
+    "slug": "kezia",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cássia, o nome da segunda filha de Jó (42:14), nascida depois que a prosperidade retornou a ele."
+      },
+      {
+        "source": "SMI",
+        "text": "(cássia), a segunda das filhas de Jó, que lhe nasceram após a sua recuperação. (Jó 42:14) (1950 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 42:14",
+        "original": "Job 42:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "keziz": {
+    "name": "Queziz",
+    "slug": "keziz",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Abrupto; cortado, uma cidade da tribo de Benjamim (Josué 18:21)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cortado), O vale de, uma das “cidades” de Benjamim, (Josué 18:21) e a fronteira oriental da tribo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:21",
+        "original": "Josh. 18:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kibroth-hattaavah": {
+    "name": "Quibrote-Hataavá",
+    "slug": "kibroth-hattaavah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "As sepulturas do desejo ou da luxúria, uma das estações dos israelitas no deserto. Provavelmente ficava no Wady Murrah e foi identificada com Erweis el-Ebeirig, onde foram encontrados vestígios de um antigo acampamento, cerca de 48 quilômetros a nordeste do Sinai e exatamente a um dia de viagem de ‘Ain Hudherah. “Aqui começaram os problemas da jornada. Primeiro, queixas irromperam entre o povo, provavelmente devido ao calor, ao trabalho árduo e às privações da marcha; e então Deus os puniu imediatamente com relâmpagos, que caíram na parte de trás do acampamento e mataram muitas pessoas, mas cessaram com a intercessão de Moisés (Números 11:1, 2). Depois, um desgosto abateu-se sobre a multidão por não ter nada para comer além do maná dia após dia, sem mudança, sem carne, sem peixe, sem vegetais de sabor forte, sem frutas suculentas... O povo detestou a ‘comida leve’ e clamou a Moisés: ‘Dá-nos carne, dá-nos carne, para que possamos comer’.” Nessa emergência, Moisés, em desespero, clamou a Deus. Uma resposta veio. Deus enviou “um voo prodigioso de codornizes, com as quais o povo saciou seu apetite glutão por um mês inteiro. Então o castigo caiu sobre eles: eles detestaram a comida que haviam desejado; ela causou doenças neles; a ira divina agravou a doença em uma praga, e uma pesada mortalidade foi a consequência. Os mortos foram enterrados fora do acampamento; e em memória do pecado do homem e da ira divina, este nome, Quibrote-Hataavá, as Sepulturas da Luxúria, foi dado ao lugar de sua sepultura” (Números 11:34, 35; 33:16, 17; Deuteronômio 9:22; compare com Salmos 78:30, 31). De lá, partiram em direção nordeste para Hazerote."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:1",
+        "original": "Num. 11:1"
+      },
+      {
+        "reference": "Numbers 11:2",
+        "original": "Num 11:2"
+      },
+      {
+        "reference": "Numbers 11:34",
+        "original": "Num. 11:34"
+      },
+      {
+        "reference": "Numbers 11:35",
+        "original": "Num. 11:35"
+      },
+      {
+        "reference": "Deuteronomy 9:22",
+        "original": "Deut. 9:22"
+      },
+      {
+        "reference": "Psalms 78:30",
+        "original": "Ps. 78:30"
+      },
+      {
+        "reference": "Psalms 78:31",
+        "original": "Ps. 78:31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kibrothhattaavah": {
+    "name": "Quibrote-Hataavá",
+    "slug": "kibrothhattaavah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "isto é, como na margem, as sepulturas da luxúria, uma estação dos israelitas no deserto, onde, cansando-se do maná e desejando carne, murmuraram, e Deus lhes enviou codornizes em grande abundância, mas feriu um grande número deles com uma praga e eles morreram. Fica a cerca de três dias de viagem do Sinai, perto do Golfo de Ácaba e do Wady el Hudherah (Hazerote)."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kibzaim": {
+    "name": "Quibzaim",
+    "slug": "kibzaim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dois montes, uma cidade de Efraim, designada aos levitas coatitas e nomeada como cidade de refúgio (Josué 21:22). Também é chamada de Jocmeão (1 Crônicas 6:68)."
+      },
+      {
+        "source": "SMI",
+        "text": "(dois montes), uma cidade do Monte Efraim, cedida com seus “subúrbios” aos levitas coatitas. (Josué 21:22) Na lista paralela de (1 Crônicas 6:1), JOCMEÃO é substituído por Quibzaim. ver. (1 Crônicas 6:68)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 21",
+        "original": "Josh. 21"
+      },
+      {
+        "reference": "1 Chronicles 6:68",
+        "original": "1 Chr. 6:68"
+      },
+      {
+        "reference": "Joshua 21:22",
+        "original": "Joshua 21:22"
+      },
+      {
+        "reference": "1 Chronicles 6:1",
+        "original": "1 Chronicles 6:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kinah": {
+    "name": "Quina",
+    "slug": "kinah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma elegia, uma cidade no extremo sul de Judá (Josué 15:22). Provavelmente não ficava longe do Mar Morto, no Wady Fikreh."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:22",
+        "original": "Josh. 15:22"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kir": {
+    "name": "Quir",
+    "slug": "kir",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma muralha ou fortaleza, um lugar para onde Tiglate-Pileser levou os sírios cativos depois que ele tomou a cidade de Damasco (2 Rs 16:9; Am 1:5; 9:7). Isaías (22:6), que também foi contemporâneo desses eventos, menciona-o junto com Elão. Alguns supuseram que Quir é uma variante de Cuxe (Susiana), ao sul de Elão."
+      },
+      {
+        "source": "SMI",
+        "text": "(fortaleza) é mencionado por Amós, (Am 9:7) como a terra de onde os sírios (arameus) foram certa vez “trazidos para cima”; isto é, aparentemente como o país onde haviam habitado antes de migrarem para a região ao norte da Palestina. (Existe uma diferença de opinião em relação à posição de Quir, uma vez que alguns supõem que seja idêntica a Carma, uma cidade da Média, no sul, no rio Mardus; outros a situam na Armênia, no rio Kar. — ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 16:9",
+        "original": "2 Kings 16:9"
+      },
+      {
+        "reference": "Amos 1:5",
+        "original": "Amos 1:5"
+      },
+      {
+        "reference": "Amos 9:7",
+        "original": "Amos 9:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kir-of-moab": {
+    "name": "Quir-Moabe",
+    "slug": "kir-of-moab",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Is 15:1. As duas fortalezas de Moabe eram Ar e Quir, sendo que esta última é provavelmente a Quir-Haresete (16:7) que se segue."
+      },
+      {
+        "source": "SMI",
+        "text": "(fortaleza de Moabe), uma das duas principais fortalezas de Moabe, sendo a outra Ar de Moabe. O nome ocorre apenas em (Isaías 15:1), embora o local seja provavelmente referido sob os nomes de Quir-Heres, Quir-Haresete, etc. É quase idêntico ao nome Kerak, pelo qual o local de uma cidade importante em uma posição alta e muito forte no sudeste do Mar Morto é conhecido hoje em dia. Sua situação é verdadeiramente notável. Ela é construída sobre o topo de uma colina íngreme, cercada por um vale profundo e estreito, que por sua vez é completamente cercado por montanhas que se erguem mais alto do que a cidade e a dominam de todos os lados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 15:1",
+        "original": "Isa. 15:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kir-haraseth": {
+    "name": "Quir-Haresete",
+    "slug": "kir-haraseth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fortaleza edificada, uma cidade e fortaleza de Moabe, a moderna Kerak, uma pequena cidade na crista de uma colina íngreme a cerca de 10 km de Rabá-Moabe e a 16 km do Mar Morto; chamada também de Quir-Heres, Quir-Haresete (Is 16:7, 11; Jr 48:31, 36). Após a morte de Acabe, Mesa, rei de Moabe (veja PEDRA MOABITA), descartou a lealdade ao rei de Israel e lutou com sucesso pela independência de seu reino. Depois disso, Jeorão, rei de Israel, ao procurar recuperar sua supremacia sobre Moabe, entrou em uma aliança com Josafá, rei de Judá, e com o rei de Edom. Os três reis lideraram seus exércitos contra Mesa, que foi forçado a buscar refúgio em Quir-Haresete. Os moabitas foram levados ao desespero. Mesa então tomou seu filho mais velho, que teria reinado em seu lugar, e ofereceu-o como holocausto na muralha da fortaleza diante dos exércitos aliados. “Houve grande indignação contra Israel: e partiram dele, e voltaram para a sua própria terra.” Os invasores evacuaram a terra de Moabe, e Mesa alcançou a independência de seu país (2 Rs 3:20-27)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 16:7",
+        "original": "Isa. 16:7"
+      },
+      {
+        "reference": "Isaiah 16:11",
+        "original": "Isa. 16:11"
+      },
+      {
+        "reference": "Jeremiah 48:31",
+        "original": "Jer. 48:31"
+      },
+      {
+        "reference": "Jeremiah 48:36",
+        "original": "Jer 48:36"
+      },
+      {
+        "reference": "2 Kings 3:20-27",
+        "original": "2 Kings 3:20-27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirharaseth": {
+    "name": "Quir-Haresete",
+    "slug": "kirharaseth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fortaleza de tijolos), (2 Reis 3:25) Quir-Heres, (Isaías 16:11) Quir-Haresh, (Jeremias 48:31,36) Estes quatro nomes são todos aplicados a um único lugar, provavelmente Quir de Moabe, que veja."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 3:25",
+        "original": "2 Kings 3:25"
+      },
+      {
+        "reference": "Isaiah 16:11",
+        "original": "Isaiah 16:11"
+      },
+      {
+        "reference": "Jeremiah 48:31",
+        "original": "Jeremiah 48:31"
+      },
+      {
+        "reference": "Jeremiah 48:36",
+        "original": "Jeremiah 48:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kiriah": {
+    "name": "Quiriá",
+    "slug": "kiriah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "aparentemente uma palavra antiga ou arcaica, significando uma cidade ou vila. Pode ser comparada à palavra “burg” em nossa própria língua. Closamente relacionada a Quiriá está Kereth, aparentemente uma forma fenícia, que ocorre ocasionalmente (Jó 29:7; Provérbios 8:3). Como um nome próprio, ela aparece na Bíblia sob as formas de Queriote, Cartá, Cartã, além daquelas imediatamente seguintes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 29:7",
+        "original": "Job 29:7"
+      },
+      {
+        "reference": "Proverbs 8:3",
+        "original": "Proverbs 8:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kiriathaim": {
+    "name": "Quiriataim",
+    "slug": "kiriathaim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[QUIRIATAIM]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirioth": {
+    "name": "Quiriataim",
+    "slug": "kirioth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(duas cidades), um lugar em Moabe, cujos palácios foram ameaçados por Amós com destruição pelo fogo, (Amós 2:2), a menos que a palavra signifique simplesmente \"as cidades\", o que provavelmente também é o caso em (Jeremias 48:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Amos 2:2",
+        "original": "Amos 2:2"
+      },
+      {
+        "reference": "Jeremiah 48:4",
+        "original": "Jeremiah 48:4"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjath": {
+    "name": "Quiriate",
+    "slug": "kirjath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade, uma cidade pertencente a Benjamim (Josué 18:28), a moderna Kuriet el-‘Enab, isto é, “cidade das uvas”, cerca de 12 km a oeste-noroeste de Jerusalém."
+      },
+      {
+        "source": "SMI",
+        "text": "(uma cidade), a última das cidades enumeradas como pertencentes à tribo de Benjamim, (Josué 18:28), provavelmente idêntica ao lugar mais conhecido de Quiriate-Jearim."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:28",
+        "original": "Josh. 18:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjath-arba": {
+    "name": "Quiriate-Arba",
+    "slug": "kirjath-arba",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade de Arba, o nome original de Hebrom (q.v.), chamada assim pelo nome de seu fundador, um dos anaquins (Gênesis 23:2; 35:27; Josué 15:13). Foi dada a Calebe por Josué como sua porção. Os judeus interpretam o nome como significando “a cidade dos quatro”, isto é, de Abraão, Isaque, Jacó e Adão, que, segundo alegam, foram todos sepultados lá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23:2",
+        "original": "Gen. 23:2"
+      },
+      {
+        "reference": "Genesis 35:27",
+        "original": "Gen 35:27"
+      },
+      {
+        "reference": "Joshua 15:13",
+        "original": "Josh. 15:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjath-huzoth": {
+    "name": "Quiriate-Huzote",
+    "slug": "kirjath-huzoth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade de ruas, Números 22:39, uma cidade moabita que alguns identificam com Quiriataim. Balaque aqui recebeu e entreteve Balaão, a quem ele havia convidado de Petor, entre os “montes do oriente”, além do Eufrates, para lançar sua maldição sobre os israelitas, cujo progresso ele não tinha esperança de deter de outra forma. Provavelmente foi do cume de Atarote, o lugar alto perto da cidade, que o adivinho viu pela primeira vez os acampamentos de Israel."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 22:39",
+        "original": "Num. 22:39"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjath-jearim": {
+    "name": "Quiriate-Jearim",
+    "slug": "kirjath-jearim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade de jaares; isto é, de bosques ou florestas, uma cidade gibeonita (Josué 9:17) na fronteira de Benjamim, tribo à qual foi designada (18:15, 28). A arca foi trazida para este lugar (1 Samuel 7:1, 2) de Bete-Semes e colocada sob os cuidados de Abinadabe, um levita. Aqui permaneceu até ser removida por Davi para Jerusalém (2 Samuel 6:2, 3, 12; 1 Crônicas 15:1-29; comp. Salmos 132). Também era chamada de Baalá (Josué 15:9) e Quiriate-Baal (60). Geralmente tem sido identificada com Kuriet el-‘Enab (isto é, “cidade das uvas”), entre as colinas, cerca de 13 km a nordeste de ‘Ain Shems (isto é, Bete-Semes). A opinião, porém, de que ela deve ser identificada com ‘Erma, 6 km a leste de ‘Ain Shems, na beira do vale de Soreque, parece ser mais bem apoiada. (Veja QUIRIATE.) As palavras do Salmo 132:6, “Achamo-la nos campos do bosque”, referem-se à estada da arca em Quiriate-Jearim. “Bosque” aqui é a tradução da palavra hebraica jaar, que é o singular de jearim."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 9:17",
+        "original": "Josh. 9:17"
+      },
+      {
+        "reference": "1 Samuel 7:1",
+        "original": "1 Sam. 7:1"
+      },
+      {
+        "reference": "1 Samuel 7:2",
+        "original": "1 Sam. 7:2"
+      },
+      {
+        "reference": "2 Samuel 6:2",
+        "original": "2 Sam. 6:2"
+      },
+      {
+        "reference": "2 Samuel 6:3",
+        "original": "2 Sam. 6:3"
+      },
+      {
+        "reference": "2 Samuel 6:12",
+        "original": "2 Sam. 6:12"
+      },
+      {
+        "reference": "1 Chronicles 15:1-29",
+        "original": "1 Chr. 15:1-29"
+      },
+      {
+        "reference": "Psalms 132",
+        "original": "Ps. 132"
+      },
+      {
+        "reference": "Joshua 15:9",
+        "original": "Josh. 15:9"
+      },
+      {
+        "reference": "Psalms 132:6",
+        "original": "Ps. 132:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjath-sannah": {
+    "name": "Quiriate-Sana",
+    "slug": "kirjath-sannah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade da sana; isto é, da palmeira(?), Josué 15:49; o mesmo que Quiriate-Sefer (15:16; Juízes 1:11) e Debir (q.v.), uma cidade real cananeia incluída em Judá (Josué 10:38; 15:49), e provavelmente o principal centro de aprendizado entre os hititas. Ficava cerca de 19 km a sudoeste de Hebrom."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:49",
+        "original": "Josh. 15:49"
+      },
+      {
+        "reference": "Judges 1:11",
+        "original": "Judg. 1:11"
+      },
+      {
+        "reference": "Joshua 10:38",
+        "original": "Josh. 10:38"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjath-sepher": {
+    "name": "Quiriate-Sefer",
+    "slug": "kirjath-sepher",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidade dos livros, Josué 15:15; o mesmo que Quiriate-Sana (q.v.), agora representada pelo vale de ed-Dhaberiyeh, a sudoeste de Hebrom. O nome desta cidade é uma evidência de que os cananeus estavam familiarizados com a escrita e os livros. “A cidade provavelmente continha uma escola notável, ou era o local de um oráculo e a residência de algum sacerdote erudito.” Os “livros” eram provavelmente pedras ou tijolos gravados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:15",
+        "original": "Josh. 15:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjathaim": {
+    "name": "Quiriataim",
+    "slug": "kirjathaim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Duas cidades; uma cidade dupla. (1.) Uma cidade de refúgio em Naftali (1 Crônicas 6:76). (2.) Uma cidade a leste do Jordão (Gênesis 14:5; Deuteronômio 2:9, 10). Foi atribuída à tribo de Rúben (Números 32:37). No tempo de Ezequiel (25:9) era uma das quatro cidades que formavam a “glória de Moabe” (comp. Jeremias 48:1, 23). Foi identificada com el-Kureiyat, 18 km a sudoeste de Medeba, na encosta sul do Jebel Attarus, a antiga Atarote."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:76",
+        "original": "1 Chr. 6:76"
+      },
+      {
+        "reference": "Genesis 14:5",
+        "original": "Gen. 14:5"
+      },
+      {
+        "reference": "Deuteronomy 2:9",
+        "original": "Deut. 2:9"
+      },
+      {
+        "reference": "Deuteronomy 2:10",
+        "original": "Deut. 2:10"
+      },
+      {
+        "reference": "Numbers 32:37",
+        "original": "Num. 32:37"
+      },
+      {
+        "reference": "Jeremiah 48:1",
+        "original": "Jer. 48:1"
+      },
+      {
+        "reference": "Jeremiah 48:23",
+        "original": "Jer. 48:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kirjatharba": {
+    "name": "Quiriate-Arba",
+    "slug": "kirjatharba",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a cidade de Arba), um nome antigo da cidade que, após a conquista, é geralmente conhecida como Hebrom. (Josué 14:15; Juízes 1:10) A identidade de Quiriate-Arba com Hebrom é constantemente afirmada. (Gênesis 23:2; 35:27; Josué 14:15; 15:13,54; 20:7; 21:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 14:15",
+        "original": "Joshua 14:15"
+      },
+      {
+        "reference": "Judges 1:10",
+        "original": "Judges 1:10"
+      },
+      {
+        "reference": "Genesis 23:2",
+        "original": "Genesis 23:2"
+      },
+      {
+        "reference": "Genesis 35:27",
+        "original": "Genesis 35:27"
+      },
+      {
+        "reference": "Joshua 15:13",
+        "original": "Joshua 15:13"
+      },
+      {
+        "reference": "Joshua 15:54",
+        "original": "Joshua 15:54"
+      },
+      {
+        "reference": "Joshua 20:7",
+        "original": "Joshua 20:7"
+      },
+      {
+        "reference": "Joshua 21:11",
+        "original": "Joshua 21:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjatharim": {
+    "name": "Quiriatarim",
+    "slug": "kirjatharim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade das florestas), uma forma abreviada do nome Quiriate-Jearim, que ocorre apenas em (Esdras 2:25)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:25",
+        "original": "Ezra 2:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjathbaal": {
+    "name": "Quiriate-Baal",
+    "slug": "kirjathbaal",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[QUIRIATE-JEARIM]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjathhuzoth": {
+    "name": "Quiriate-Huzote",
+    "slug": "kirjathhuzoth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade das ruas), um lugar para onde Balaque acompanhou Balaão imediatamente após sua chegada em Moabe, (Números 22:39), e que não é mencionado em nenhum outro lugar. Parece ter ficado entre o Arnom (Wady Mojeb) e Bamote-Baal. Comp. vs. (Números 22:36) e Números 22:41."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 22:39",
+        "original": "Numbers 22:39"
+      },
+      {
+        "reference": "Numbers 22:36",
+        "original": "Numbers 22:36"
+      },
+      {
+        "reference": "Numbers 22:41",
+        "original": "Numb 22:41"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjathjearim": {
+    "name": "Quiriate-Jearim",
+    "slug": "kirjathjearim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a cidade das florestas), mencionada pela primeira vez como uma das quatro cidades dos gibeonitas, (Josué 9:17), ocorre em seguida como um dos marcos da fronteira norte de Judá, cap. (Josué 15:9), e como o ponto em que as fronteiras oeste e sul de Benjamim coincidiam, cap. (Josué 18:14,15); e nas duas últimas passagens descobrimos que ela carregava outro nome, talvez mais antigo, o da grande divindade cananeia Baal, a saber, Baalá e QUIRIATE-BAAL. Neste lugar a arca permaneceu por vinte anos. (1 Samuel 7:2) Ao final desse tempo, Quiriate-Jearim perdeu seu tesouro sagrado, com sua remoção por Davi para a casa de Obede-Edom, o geteu. (1 Crônicas 13:5,6; 2 Crônicas 1:4; 2 Samuel 6:2), etc. Para Eusébio e Jerônimo, parece ter sido bem conhecida. Eles a descrevem como uma aldeia na nona milha entre Jerusalém e Dióspolis (Lida). Esses requisitos são exatamente cumpridos na pequena aldeia moderna de Kuriet-el-Enab — agora geralmente conhecida como Abu Gosh, do chefe salteador cujo quartel-general era ali — na estrada de Jope para Jerusalém."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 9:17",
+        "original": "Joshua 9:17"
+      },
+      {
+        "reference": "Joshua 15:9",
+        "original": "Joshua 15:9"
+      },
+      {
+        "reference": "Joshua 18:14",
+        "original": "Joshua 18:14"
+      },
+      {
+        "reference": "Joshua 18:15",
+        "original": "Joshua 18:15"
+      },
+      {
+        "reference": "1 Samuel 7:2",
+        "original": "1 Samuel 7:2"
+      },
+      {
+        "reference": "1 Chronicles 13:5",
+        "original": "1 Chronicles 13:5"
+      },
+      {
+        "reference": "1 Chronicles 13:6",
+        "original": "1 Chronicles 13:6"
+      },
+      {
+        "reference": "2 Chronicles 1:4",
+        "original": "2 Chronicles 1:4"
+      },
+      {
+        "reference": "2 Samuel 6:2",
+        "original": "2 Samuel 6:2"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjathsannah": {
+    "name": "Quiriate-Sana",
+    "slug": "kirjathsannah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade dos livros). [Debir]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kirjathsepher": {
+    "name": "Quiriate-Sefer",
+    "slug": "kirjathsepher",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade dos livros). (Josué 15:15,16; Juízes 1:11,12) [Debir]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:15",
+        "original": "Joshua 15:15"
+      },
+      {
+        "reference": "Joshua 15:16",
+        "original": "Joshua 15:16"
+      },
+      {
+        "reference": "Judges 1:11",
+        "original": "Judges 1:11"
+      },
+      {
+        "reference": "Judges 1:12",
+        "original": "Judges 1:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kish": {
+    "name": "Quis",
+    "slug": "kish",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um arco. (1.) Um levita da família de Merari (1 Cr 23:21; 24:29). (2.) Um benjamita de Jerusalém (1 Cr 8:30; 9:36). (3.) Um levita nos dias de Ezequias (2 Cr 29:12). (4.) O bisavô de Mardoqueu (Ester 2:5). (5.) Um benjamita, filho de Abiel e pai do rei Saul (1 Sm 9:1, 3; 10:11, 21; 14:51; 2 Sm 21:14). Tudo o que se registra sobre ele é que enviou seu filho Saul em busca de suas jumentas que haviam se perdido, e que foi sepultado em Zela. Chamado de Cis em Atos 13:21 (R.V., Quis)."
+      },
+      {
+        "source": "SMI",
+        "text": "(um arco)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 23:21",
+        "original": "1 Chr. 23:21"
+      },
+      {
+        "reference": "1 Chronicles 24:29",
+        "original": "1 Chr. 24:29"
+      },
+      {
+        "reference": "1 Chronicles 8:30",
+        "original": "1 Chr. 8:30"
+      },
+      {
+        "reference": "1 Chronicles 9:36",
+        "original": "1 Chr. 9:36"
+      },
+      {
+        "reference": "2 Chronicles 29:12",
+        "original": "2 Chr. 29:12"
+      },
+      {
+        "reference": "Esther 2:5",
+        "original": "Esther 2:5"
+      },
+      {
+        "reference": "1 Samuel 9:1",
+        "original": "1 Sam. 9:1"
+      },
+      {
+        "reference": "1 Samuel 9:3",
+        "original": "1 Sam. 9:3"
+      },
+      {
+        "reference": "1 Samuel 10:11",
+        "original": "1 Sam. 10:11"
+      },
+      {
+        "reference": "1 Samuel 10:21",
+        "original": "1 Sam. 10:21"
+      },
+      {
+        "reference": "1 Samuel 14:51",
+        "original": "1 Sam. 14:51"
+      },
+      {
+        "reference": "2 Samuel 21:14",
+        "original": "2 Sam. 21:14"
+      },
+      {
+        "reference": "Acts 13:21",
+        "original": "Acts 13:21"
+      },
+      {
+        "reference": "1 Chronicles 23:22",
+        "original": "1 Chronicles 23:22"
+      },
+      {
+        "reference": "1 Chronicles 24:28",
+        "original": "1 Chronicles 24:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kishi": {
+    "name": "Quisi",
+    "slug": "kishi",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(arco de Jeová), um merarita e pai do ancestral de Etã, o músico. (1 Crônicas 6:44)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:44",
+        "original": "1 Chronicles 6:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kishion": {
+    "name": "Quisiom",
+    "slug": "kishion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dureza, uma cidade de Issacar designada aos levitas gersonitas (Js 19:20), a mesma que Quislom (21:28)."
+      },
+      {
+        "source": "SMI",
+        "text": "(dureza), uma das cidades na fronteira da tribo de Issacar (Josué 19:20), que com seus arredores foi designada aos levitas gersonitas. (Josué 21:28) Versão Autorizada Quislom."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:20",
+        "original": "Josh. 19:20"
+      },
+      {
+        "reference": "Joshua 21:28",
+        "original": "Joshua 21:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kishon": {
+    "name": "Quisom",
+    "slug": "kishon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sinuoso, uma torrente de inverno do centro da Palestina, que nasce nas raízes do Tabor e Gilboa, e passando em direção ao norte através das planícies de Jezreel e Acre, desagua no Mediterrâneo no canto nordeste da baía de Acre, ao pé do Carmelo. É o dreno pelo qual as águas da planície de Jezreel e das montanhas que a rodeiam encontram seu caminho para o mar. Carrega o nome moderno de Nahr el-Mokattah, i.e., “o rio da matança” (comp. 1 Reis 18:40). No cântico triunfal de Débora (Jz 5:21) é mencionado como “aquele rio antigo”, seja (1) porque fluiu por eras, ou (2), de acordo com o Targum, porque era “a torrente na qual sinais e maravilhas foram mostrados a Israel antigamente;” ou (3) provavelmente a referência é aos feitos naquela região entre os antigos cananeus, pois a planície adjacente de Jezreel era o grande campo de batalha da Palestina. Este foi o cenário da derrota de Sísera (Jz 4:7, 13), e da destruição dos profetas de Baal por Elias (1 Reis 18:40). “Quando o Quisom estava em seu ponto mais alto, seria, em parte devido às suas areias movediças, tão intransitável quanto o próprio oceano para um exército em retirada.” (Veja DÉBORA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(sinuoso), O rio, uma torrente ou riacho de inverno da Palestina central, o cenário de dois dos maiores feitos da história israelita—a derrota de Sísera, Juízes 4, e a destruição dos profetas de Baal por Elias. (1 Reis 18:40) O Nahr Mukutta, o representante moderno do Quisom, é o dreno pelo qual as águas da planície de Jezreel e das montanhas que cercam essa planície encontram seu caminho através da planície de Acre até o Mediterrâneo. A parte do Quisom onde os profetas de Baal foram mortos por Elias estava, sem dúvida, próxima abaixo do local no Carmelo onde o sacrifício havia ocorrido."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 18:40",
+        "original": "1 Kings 18:40"
+      },
+      {
+        "reference": "Judges 5:21",
+        "original": "Judg. 5:21"
+      },
+      {
+        "reference": "Judges 4:7",
+        "original": "Judg. 4:7"
+      },
+      {
+        "reference": "Judges 4:13",
+        "original": "Judg. 4:13"
+      },
+      {
+        "reference": "Judges 4",
+        "original": "Judges 4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kison": {
+    "name": "Quisom",
+    "slug": "kison",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(sinuoso), um modo impreciso de representar o nome Quisom. (Salmos 83:9)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 83:9",
+        "original": "Psalms 83:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kithlish": {
+    "name": "Quitlis",
+    "slug": "kithlish",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Muro de homem, uma cidade na planície de Judá (Js 15:40). Foi identificada com Jelameh."
+      },
+      {
+        "source": "SMI",
+        "text": "(muro de homem), uma das cidades de Judá, na Sefelá ou baixada. (Josué 15:40)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:40",
+        "original": "Josh. 15:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kitron": {
+    "name": "Quitrom",
+    "slug": "kitron",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nodoso, uma cidade de Zebulom (Jz 1:30), chamada também de Catate (Js 19:15); suposta ser a “Caná da Galileia”."
+      },
+      {
+        "source": "SMI",
+        "text": "(nodoso), uma das cidades das quais Zebulom não expulsou os cananeus. (Juízes 1:30) No Talmude, é identificada com “Zippori”, isto é, Séforis, agora Seffurieh."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 1:30",
+        "original": "Judg. 1:30"
+      },
+      {
+        "reference": "Joshua 19:15",
+        "original": "Josh. 19:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "kittim": {
+    "name": "Quitim",
+    "slug": "kittim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gn 10:4). (Veja QUITIM.)"
+      },
+      {
+        "source": "SMI",
+        "text": "Escrito duas vezes na Versão Autorizada como Quitim. (Gênesis 10:4; 1 Crônicas 1:7)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:4",
+        "original": "Gen. 10:4"
+      },
+      {
+        "reference": "1 Chronicles 1:7",
+        "original": "1 Chronicles 1:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  }
+}

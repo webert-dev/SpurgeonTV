@@ -90,5 +90,5281 @@
       "EAS"
     ],
     "letter": "i"
+  },
+  "anger": {
+    "name": "Ira",
+    "slug": "anger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A emoção de profundo desagrado imediato por causa de algo mau que se apresenta à nossa visão. Em si mesma, é uma suscetibilidade original da nossa natureza, tal como o amor, e não é necessariamente pecaminosa. Pode, contudo, tornar-se pecaminosa quando é sem causa, excessiva ou prolongada (Mateus 5:22; Efésios 4:26; Colossenses 3:8). Quando atribuída a Deus, denota meramente o seu desagrado com o pecado e com os pecadores (Salmos 7:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      },
+      {
+        "reference": "Ephesians 4:26",
+        "original": "Eph. 4:26"
+      },
+      {
+        "reference": "Colossians 3:8",
+        "original": "Col. 3:8"
+      },
+      {
+        "reference": "Psalms 7:11",
+        "original": "Ps. 7:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "brethren-of-jesus": {
+    "name": "Irmãos de Jesus",
+    "slug": "brethren-of-jesus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Tiago, o Menor]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "brother": {
+    "name": "Irmão",
+    "slug": "brother",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) No sentido natural e comum (Mt 1:2; Lc 3:1, 19). (2.) Um parente próximo, um primo (Gn 13:8; 14:16; Mt 12:46; Jo 7:3; At 1:14; Gl 1:19). (3.) Simplesmente um compatriota (Mt 5:47; At 3:22; Hb 7:5). (4.) Um discípulo ou seguidor (Mt 25:40; Hb 2:11, 12). (5.) Alguém da mesma fé (Am 1:9; At 9:30; 11:29; 1 Co 5:11); de onde os primeiros discípulos do nosso Senhor eram conhecidos uns aos outros como irmãos. (6.) Um colega no ofício (Ed 3:2; 1 Co 1:1; 2 Co 1:1). (7.) Um semelhante, um próximo (Gn 9:5; 19:7; Mt 5:22, 23, 24; 7:5; Hb 2:17). (8.) Alguém amado ou estreitamente unido a outro em afeição (2 Sm 1:26; At 6:3; 1 Ts 5:1). Os irmãos de Jesus (Mt 1:25; 12:46, 50; Mc 3:31, 32; Gl 1:19; 1 Co 9:5, etc.) eram provavelmente os filhos mais novos de José e Maria. Alguns supuseram que eles poderiam ter sido filhos de José de um casamento anterior, e outros que eram filhos de Maria, irmã da Virgem e esposa de Cleofas. A primeira interpretação, no entanto, é a mais natural."
+      },
+      {
+        "source": "SMI",
+        "text": "A palavra hebraica é usada em vários sentidos no Antigo Testamento, como,"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:2",
+        "original": "Matt. 1:2"
+      },
+      {
+        "reference": "Luke 3:1",
+        "original": "Luke 3:1"
+      },
+      {
+        "reference": "Luke 3:19",
+        "original": "Luke 3:19"
+      },
+      {
+        "reference": "Genesis 13:8",
+        "original": "Gen. 13:8"
+      },
+      {
+        "reference": "Genesis 14:16",
+        "original": "Gen 14:16"
+      },
+      {
+        "reference": "Matthew 12:46",
+        "original": "Matt. 12:46"
+      },
+      {
+        "reference": "John 7:3",
+        "original": "John 7:3"
+      },
+      {
+        "reference": "Acts 1:14",
+        "original": "Acts 1:14"
+      },
+      {
+        "reference": "Galatians 1:19",
+        "original": "Gal. 1:19"
+      },
+      {
+        "reference": "Matthew 5:47",
+        "original": "Matt. 5:47"
+      },
+      {
+        "reference": "Acts 3:22",
+        "original": "Acts 3:22"
+      },
+      {
+        "reference": "Hebrews 7:5",
+        "original": "Heb. 7:5"
+      },
+      {
+        "reference": "Matthew 25:40",
+        "original": "Matt. 25:40"
+      },
+      {
+        "reference": "Hebrews 2:11",
+        "original": "Heb. 2:11"
+      },
+      {
+        "reference": "Hebrews 2:12",
+        "original": "Heb. 2:12"
+      },
+      {
+        "reference": "Amos 1:9",
+        "original": "Amos 1:9"
+      },
+      {
+        "reference": "Acts 9:30",
+        "original": "Acts 9:30"
+      },
+      {
+        "reference": "Acts 11:29",
+        "original": "Acts 11:29"
+      },
+      {
+        "reference": "1 Corinthians 5:11",
+        "original": "1 Cor. 5:11"
+      },
+      {
+        "reference": "Ezra 3:2",
+        "original": "Ezra 3:2"
+      },
+      {
+        "reference": "1 Corinthians 1:1",
+        "original": "1 Cor. 1:1"
+      },
+      {
+        "reference": "2 Corinthians 1:1",
+        "original": "2 Cor. 1:1"
+      },
+      {
+        "reference": "Genesis 9:5",
+        "original": "Gen. 9:5"
+      },
+      {
+        "reference": "Genesis 19:7",
+        "original": "Gen 19:7"
+      },
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      },
+      {
+        "reference": "Matthew 5:23",
+        "original": "Matt. 5:23"
+      },
+      {
+        "reference": "Matthew 5:24",
+        "original": "Matt. 5:24"
+      },
+      {
+        "reference": "Hebrews 2:17",
+        "original": "Heb. 2:17"
+      },
+      {
+        "reference": "2 Samuel 1:26",
+        "original": "2 Sam. 1:26"
+      },
+      {
+        "reference": "Acts 6:3",
+        "original": "Acts 6:3"
+      },
+      {
+        "reference": "1 Thessalonians 5:1",
+        "original": "1 Thess. 5:1"
+      },
+      {
+        "reference": "Matthew 1:25",
+        "original": "Matt. 1:25"
+      },
+      {
+        "reference": "Matthew 12:50",
+        "original": "Matt 12:50"
+      },
+      {
+        "reference": "Mark 3:31",
+        "original": "Mark 3:31"
+      },
+      {
+        "reference": "Mark 3:32",
+        "original": "Mark 3:32"
+      },
+      {
+        "reference": "1 Corinthians 9:5",
+        "original": "1 Cor. 9:5"
+      },
+      {
+        "reference": "2 Samuel 19:13",
+        "original": "2 Samuel 19:13"
+      },
+      {
+        "reference": "Exodus 2:11",
+        "original": "Exodus 2:11"
+      },
+      {
+        "reference": "Numbers 20:14",
+        "original": "Numbers 20:14"
+      },
+      {
+        "reference": "Job 5:15",
+        "original": "Job 5:15"
+      },
+      {
+        "reference": "1 Kings 9:13",
+        "original": "1 Kings 9:13"
+      },
+      {
+        "reference": "Leviticus 19:17",
+        "original": "Leviticus 19:17"
+      },
+      {
+        "reference": "Job 30:19",
+        "original": "Job 30:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "censer": {
+    "name": "Incensário",
+    "slug": "censer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O vaso no qual o incenso era apresentado sobre “o altar de ouro” diante do Senhor no templo (Êx 30:1-9). O sacerdote enchia o incensário com brasas vivas do fogo sagrado no altar do holocausto e, tendo-o levado para o santuário, lançava sobre as brasas acesas o incenso aromático (Lv 16:12, 13), que enviava uma nuvem de fumaça, enchendo o compartimento com fragrância. Os incensários de uso diário eram de bronze (Nm 16:39) e eram designados por um nome hebraico diferente, miktereth (2 Cr 26:19; Ez 8:11), enquanto aqueles usados no Dia da Expiação eram de ouro e eram denotados por uma palavra (mahtah) que significa “algo com que se pega fogo”; LXX. pureion = um braseiro. Salomão preparou para o templo incensários de ouro puro (1 Rs 7:50; 2 Cr 4:22). O anjo no Apocalipse é representado com um incensário de ouro (Ap 8:3, 5). Paulo fala do incensário de ouro como pertencente ao tabernáculo (Hb 9:4). A palavra grega thumiaterion, aqui traduzida como “incensário”, pode denotar mais apropriadamente, como na margem da Versão Revisada, “o altar de incenso”. Paulo não diz aqui que o thumiaterion estava no lugar santíssimo, pois ele estava no lugar santo, mas que o lugar santíssimo o possuía, isto é, que ele pertencia ao lugar santíssimo (1 Rs 6:22). Ele estava intimamente ligado ao serviço do sumo sacerdote no lugar santíssimo. A maneira como o incensário deve ser usado é descrita em Nm 4:14; Lv 16:12."
+      },
+      {
+        "source": "SMI",
+        "text": "Um pequeno vaso portátil de metal adaptado para receber brasas acesas do altar, e sobre o qual o incenso para queimar era aspergido (2 Crônicas 26:19; Lucas 1:9). Os únicos preceitos distintos sobre o uso do incensário são encontrados em (Levítico 16:12) e em (Números 4:14). Salomão preparou “incensários de ouro puro” como parte da mobília do templo (1 Reis 7:50; 2 Crônicas 4:22). A palavra traduzida como “incensário” em (Hebreus 9:4) provavelmente significa o “altar de incenso”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:1-9",
+        "original": "Ex. 30:1-9"
+      },
+      {
+        "reference": "Leviticus 16:12",
+        "original": "Lev. 16:12"
+      },
+      {
+        "reference": "Leviticus 16:13",
+        "original": "Lev. 16:13"
+      },
+      {
+        "reference": "Numbers 16:39",
+        "original": "Num. 16:39"
+      },
+      {
+        "reference": "2 Chronicles 26:19",
+        "original": "2 Chr. 26:19"
+      },
+      {
+        "reference": "Ezekiel 8:11",
+        "original": "Ezek. 8:11"
+      },
+      {
+        "reference": "1 Kings 7:50",
+        "original": "1 Kings 7:50"
+      },
+      {
+        "reference": "2 Chronicles 4:22",
+        "original": "2 Cr. 4:22"
+      },
+      {
+        "reference": "Revelation 8:3",
+        "original": "Rev. 8:3"
+      },
+      {
+        "reference": "Revelation 8:5",
+        "original": "Rev. 8:5"
+      },
+      {
+        "reference": "Hebrews 9:4",
+        "original": "Heb. 9:4"
+      },
+      {
+        "reference": "1 Kings 6:22",
+        "original": "1 Kings 6:22"
+      },
+      {
+        "reference": "Numbers 4:14",
+        "original": "Num. 4:14"
+      },
+      {
+        "reference": "Luke 1:9",
+        "original": "Luke 1:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "church": {
+    "name": "Igreja",
+    "slug": "church",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Derivado provavelmente do grego kuriakon (isto é, “a casa do Senhor”), que era usado por autores antigos para o local de adoração. No Novo Testamento, é a tradução da palavra grega ecclesia, que é sinônimo do hebraico kahal do Antigo Testamento, ambas as palavras significando simplesmente uma assembleia, cujo caráter só pode ser conhecido pela conexão em que a palavra é encontrada. Não há nenhum exemplo claro de seu uso para um local de reunião ou de adoração, embora em tempos pós-apostólicos tenha recebido esse significado. Nem esta palavra é usada para denotar os habitantes de um país unidos na mesma profissão, como quando dizemos a “Igreja da Inglaterra”, a “Igreja da Escócia”, etc. Encontramos a palavra ecclesia usada nos seguintes sentidos no Novo Testamento: (1) É traduzida como “assembleia” no sentido clássico comum (Atos 19:32, 39, 41). (2) Denota todo o corpo dos redimidos, todos aqueles que o Pai deu a Cristo, a igreja invisível e católica (Ef. 5:23, 25, 27, 29; Heb. 12:23). (3) Alguns cristãos associados na observância das ordenanças do evangelho são uma ecclesia (Rom. 16:5; Col. 4:15). (4) Todos os cristãos em uma determinada cidade, quer se reunissem em um lugar ou em vários lugares para adoração religiosa, eram uma ecclesia. Assim, todos os discípulos em Antioquia, formando várias congregações, eram uma igreja (Atos 13:1); assim também lemos da “igreja de Deus em Corinto” (1 Cor. 1:2), “a igreja em Jerusalém” (Atos 8:1), “a igreja de Éfeso” (Apoc. 2:1), etc. (5) Todo o corpo de cristãos professos em todo o mundo (1 Cor. 15:9; Gál. 1:13; Mat. 16:18) é a igreja de Cristo. A igreja visível “consiste em todos aqueles em todo o mundo que professam a verdadeira religião, juntamente com seus filhos”. É chamada de “visível” porque seus membros são conhecidos e suas assembleias são públicas. Aqui há uma mistura de “trigo e joio”, de santos e pecadores. “Deus ordenou que seu povo se organizasse em comunidades eclesiásticas visíveis distintas, com constituições, leis e oficiais, emblemas, ordenanças e disciplina, para o grande propósito de dar visibilidade ao seu reino, de tornar conhecido o evangelho desse reino e de reunir todos os seus súditos eleitos. Cada uma dessas comunidades organizadas distintas que é fiel ao grande Rei é uma parte integrante da igreja visível, e todas juntas constituem a igreja visível católica ou universal.” Uma profissão credível da verdadeira religião constitui uma pessoa como membro desta igreja. Este é “o reino dos céus”, cujo caráter e progresso são expostos nas parábolas registradas em Mat. 13. Os filhos de todos os que professam assim a verdadeira religião são membros da igreja visível juntamente com seus pais. As crianças estão incluídas em cada aliança que Deus já fez com o homem. Elas acompanham seus pais (Gên. 9:9-17; 12:1-3; 17:7; Êx. 20:5; Deut. 29:10-13). Pedro, no dia de Pentecostes, no início da dispensação do Novo Testamento, anuncia o mesmo grande princípio. “A promessa [assim como as promessas foram feitas a Abraão e à sua descendência] é para vós e para vossos filhos” (Atos 2:38, 39). Os filhos de pais crentes são “santos”, isto é, são “santos”, um título que designa os membros da igreja cristã (1 Cor. 7:14). (Ver BATISMO.) A igreja invisível “consiste em todo o número dos eleitos que foram, são ou serão reunidos em um sob Cristo, o cabeça dela”. Esta é uma sociedade pura, a igreja em que Cristo habita. É o corpo de Cristo. É chamada de “invisível” porque a maior parte daqueles que a constituem já estão no céu ou ainda não nasceram, e também porque seus membros ainda na terra não podem ser distinguidos com certeza. As qualificações de filiação nela são internas e ocultas. Ela não é vista, exceto por Aquele que “sonda o coração”. “O Senhor conhece os que são seus” (2 Tim. 2:19). A igreja à qual pertencem os atributos, prerrogativas e promessas do reino de Cristo é um corpo espiritual composto por todos os crentes verdadeiros, isto é, a igreja invisível. (1) Sua unidade. Deus sempre teve apenas uma igreja na terra. Às vezes falamos da Igreja do Antigo Testamento e da igreja do Novo Testamento, mas elas são uma só e a mesma. A igreja do Antigo Testamento não deveria ser mudada, mas ampliada (Isa. 49:13-23; 60:1-14). Quando os judeus forem finalmente restaurados, eles não entrarão em uma nova igreja, mas serão enxertados novamente em “sua própria oliveira” (Rom. 11:18-24; comp. Ef. 2:11-22). Os apóstolos não estabeleceram uma nova organização. Sob seu ministério, discípulos foram “adicionados” à “igreja” já existente (Atos 2:47). (2) Sua universalidade. É a igreja “católica”; não confinada a qualquer país em particular ou organização externa, mas abrangendo todos os crentes em todo o mundo. (3) Sua perpetuidade. Ela continuará através de todas as eras até o fim do mundo. Ela nunca poderá ser destruída. É uma “eterna”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 19:32",
+        "original": "Acts 19:32"
+      },
+      {
+        "reference": "Acts 19:39",
+        "original": "Acts 19:39"
+      },
+      {
+        "reference": "Acts 19:41",
+        "original": "Acts 19:41"
+      },
+      {
+        "reference": "Ephesians 5:23",
+        "original": "Eph. 5:23"
+      },
+      {
+        "reference": "Ephesians 5:25",
+        "original": "Eph. 5:25"
+      },
+      {
+        "reference": "Ephesians 5:27",
+        "original": "Eph. 5:27"
+      },
+      {
+        "reference": "Ephesians 5:29",
+        "original": "Eph. 5:29"
+      },
+      {
+        "reference": "Hebrews 12:23",
+        "original": "Heb. 12:23"
+      },
+      {
+        "reference": "Romans 16:5",
+        "original": "Rom. 16:5"
+      },
+      {
+        "reference": "Colossians 4:15",
+        "original": "Col. 4:15"
+      },
+      {
+        "reference": "Acts 13:1",
+        "original": "Acts 13:1"
+      },
+      {
+        "reference": "1 Corinthians 1:2",
+        "original": "1 Cor. 1:2"
+      },
+      {
+        "reference": "Acts 8:1",
+        "original": "Acts 8:1"
+      },
+      {
+        "reference": "Revelation 2:1",
+        "original": "Rev. 2:1"
+      },
+      {
+        "reference": "1 Corinthians 15:9",
+        "original": "1 Cor. 15:9"
+      },
+      {
+        "reference": "Galatians 1:13",
+        "original": "Gal. 1:13"
+      },
+      {
+        "reference": "Matthew 16:18",
+        "original": "Matt. 16:18"
+      },
+      {
+        "reference": "Matthew 13",
+        "original": "Matt. 13"
+      },
+      {
+        "reference": "Genesis 9:9-17",
+        "original": "Gen. 9:9-17"
+      },
+      {
+        "reference": "Genesis 12:1-3",
+        "original": "Gen 12:1-3"
+      },
+      {
+        "reference": "Genesis 17:7",
+        "original": "Gen 17:7"
+      },
+      {
+        "reference": "Exodus 20:5",
+        "original": "Ex. 20:5"
+      },
+      {
+        "reference": "Deuteronomy 29:10-13",
+        "original": "Deut. 29:10-13"
+      },
+      {
+        "reference": "Acts 2:38",
+        "original": "Acts 2:38"
+      },
+      {
+        "reference": "Acts 2:39",
+        "original": "Acts 2:39"
+      },
+      {
+        "reference": "1 Corinthians 7:14",
+        "original": "1 Cor. 7:14"
+      },
+      {
+        "reference": "2 Timothy 2:19",
+        "original": "2 Tim. 2:19"
+      },
+      {
+        "reference": "Isaiah 49:13-23",
+        "original": "Isa. 49:13-23"
+      },
+      {
+        "reference": "Isaiah 60:1-14",
+        "original": "Isa 60:1-14"
+      },
+      {
+        "reference": "Romans 11:18-24",
+        "original": "Rom. 11:18-24"
+      },
+      {
+        "reference": "Ephesians 2:11-22",
+        "original": "Eph. 2:11-22"
+      },
+      {
+        "reference": "Acts 2:47",
+        "original": "Acts 2:47"
+      },
+      {
+        "reference": "Matthew 10:25",
+        "original": "Matthew 10:25"
+      },
+      {
+        "reference": "Matthew 5:13",
+        "original": "Matthew 5:13"
+      },
+      {
+        "reference": "Matthew 5:15",
+        "original": "Matthew 5:15"
+      },
+      {
+        "reference": "Matthew 26:31",
+        "original": "Matthew 26:31"
+      },
+      {
+        "reference": "John 10:15",
+        "original": "John 10:15"
+      },
+      {
+        "reference": "John 15",
+        "original": "John 15"
+      },
+      {
+        "reference": "Matthew 16:19",
+        "original": "Matthew 16:19"
+      },
+      {
+        "reference": "Matthew 21:43",
+        "original": "Matthew 21:43"
+      },
+      {
+        "reference": "Acts 2:41",
+        "original": "Acts 2:41"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "custom": {
+    "name": "Imposto",
+    "slug": "custom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um imposto cobrado pelos romanos. Os cobradores de impostos eram chamados de publicanos (v.), que tinham seus postos nos portões das cidades, nas vias públicas e no local reservado para esse fim, chamado de “coletoria de impostos” (Mt 9:9; Mc 2:14), onde coletavam o dinheiro que deveria ser pago por certas mercadorias (Mt 17:25). Esses publicanos eram tentados a exigir do povo mais do que era lícito e, em consequência de suas extorsões, eram objetos de grande ódio. Os fariseus não tinham comunhão com eles (Mt 5:46, 47; 9:10, 11). Um imposto ou tributo (v.) de meio siclo era pago anualmente por todo judeu adulto para o templo. Tinha que ser pago em moeda judaica (Mt 22:17-19; Mc 12:14, 15). Cambistas (v.) eram necessários para permitir que os judeus que iam a Jerusalém nas festas trocassem seu dinheiro estrangeiro por moeda judaica; mas como era proibido pela lei realizar tal comércio para obter lucro (Dt 23:19, 20), nosso Senhor os expulsou do templo (Mt 21:12; Mc 11:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 9",
+        "original": "Matt. 9"
+      },
+      {
+        "reference": "Mark 2:14",
+        "original": "Mark 2:14"
+      },
+      {
+        "reference": "Matthew 17:25",
+        "original": "Matt. 17:25"
+      },
+      {
+        "reference": "Matthew 5:46",
+        "original": "Matt. 5:46"
+      },
+      {
+        "reference": "Matthew 5:47",
+        "original": "Matt 5:47"
+      },
+      {
+        "reference": "Matthew 9:10",
+        "original": "Matt 9:10"
+      },
+      {
+        "reference": "Matthew 9:11",
+        "original": "Matt 9:11"
+      },
+      {
+        "reference": "Matthew 22:17-19",
+        "original": "Matt. 22:17-19"
+      },
+      {
+        "reference": "Mark 12:14",
+        "original": "Mark 12:14"
+      },
+      {
+        "reference": "Mark 12:15",
+        "original": "Mark 12:15"
+      },
+      {
+        "reference": "Deuteronomy 23:19",
+        "original": "Deut. 23:19"
+      },
+      {
+        "reference": "Deuteronomy 23:20",
+        "original": "Deut. 23:20"
+      },
+      {
+        "reference": "Matthew 21:12",
+        "original": "Matt. 21:12"
+      },
+      {
+        "reference": "Mark 11:15",
+        "original": "Mark 11:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "elisabeth": {
+    "name": "Isabel",
+    "slug": "elisabeth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Deus é seu juramento, a mãe de João Batista (Lucas 1:5). Ela era descendente de Arão. Ela e seu marido Zacarias \"eram ambos justos diante de Deus\" (Lucas 1:5, 13). A visita de Maria a Isabel é descrita em 1:39-63."
+      },
+      {
+        "source": "SMI",
+        "text": "(o juramento de Deus), a esposa de Zacarias e mãe de João Batista. Ela mesma era da família sacerdotal e parente (Lucas 1:36) da mãe de nosso Senhor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 1:5",
+        "original": "Luke 1:5"
+      },
+      {
+        "reference": "Luke 1:13",
+        "original": "Luke 1:13"
+      },
+      {
+        "reference": "Luke 1:36",
+        "original": "Luke 1:36"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "enmity": {
+    "name": "Inimizade",
+    "slug": "enmity",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ódio profundamente enraizado. \"Porei inimizade entre ti e a mulher, entre a tua semente e a sua semente\" (Gên. 3:15). A amizade do mundo é \"inimizade contra Deus\" (Tiago 4:4; 1 João 2:15, 16). A \"mente carnal\" é \"inimizade contra Deus\" (Rom. 8:7). Pela revogação das instituições mosaicas, a \"inimizade\" entre judeus e gentios é removida. Eles são reconciliados, são \"feitos um\" (Efésios 2:15, 16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:15",
+        "original": "Gen. 3:15"
+      },
+      {
+        "reference": "James 4:4",
+        "original": "James 4:4"
+      },
+      {
+        "reference": "1 John 2:15",
+        "original": "1 John 2:15"
+      },
+      {
+        "reference": "1 John 2:16",
+        "original": "1 John 2:16"
+      },
+      {
+        "reference": "Romans 8:7",
+        "original": "Rom. 8:7"
+      },
+      {
+        "reference": "Ephesians 2:15",
+        "original": "Eph. 2:15"
+      },
+      {
+        "reference": "Ephesians 2:16",
+        "original": "Eph. 2:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "esaias": {
+    "name": "Isaías (Esaias)",
+    "slug": "esaias",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A forma grega para Isaías, constantemente usada na Versão Autorizada do Novo Testamento (Mat. 3:3; 4:14), mas na Versão Revisada sempre “Isaías”."
+      },
+      {
+        "source": "SMI",
+        "text": "a forma grega de Isaías. [Isaías]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 3:3",
+        "original": "Matt. 3:3"
+      },
+      {
+        "reference": "Matthew 4:14",
+        "original": "Matt 4:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "footman": {
+    "name": "Infante / Soldado de infantaria",
+    "slug": "footman",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "uma palavra empregada na Bíblia em inglês em dois sentidos:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 22:17",
+        "original": "1 Samuel 22:17"
+      },
+      {
+        "reference": "1 Kings 14:27",
+        "original": "1 Kings 14:27"
+      },
+      {
+        "reference": "1 Kings 14:28",
+        "original": "1 Kings 14:28"
+      },
+      {
+        "reference": "2 Kings 11:4",
+        "original": "2 Kings 11:4"
+      },
+      {
+        "reference": "2 Kings 11:6",
+        "original": "2 Kings 11:6"
+      },
+      {
+        "reference": "2 Kings 11:11",
+        "original": "2 Kings 11:11"
+      },
+      {
+        "reference": "2 Kings 11:13",
+        "original": "2 Kings 11:13"
+      },
+      {
+        "reference": "2 Kings 11:19",
+        "original": "2 Kings 11:19"
+      },
+      {
+        "reference": "2 Chronicles 12:10",
+        "original": "2 Chronicles 12:10"
+      },
+      {
+        "reference": "2 Chronicles 12:11",
+        "original": "2 Chronicles 12:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "frankincense": {
+    "name": "Incenso",
+    "slug": "frankincense",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebraico lebonah; Grego libanos, i.e., “branco”), uma resina odorífera importada da Arábia (Isaías 60:6; Jeremias 6:20), mas que também cresce na Palestina (Cânticos 4:14). Era um dos ingredientes no perfume do santuário (Êxodo 30:34), e era usado como um acompanhamento da oferta de cereais (Levítico 2:1, 16; 6:15; 24:7). Quando queimado, emitia um odor fragrante, e por isso o incenso tornou-se um símbolo do nome divino (Malaquias 1:11; Cânticos 1:3) e um emblema da oração (Salmos 141:2; Lucas 1:10; Apocalipse 5:8; 8:3). Este incenso, ou olíbano, usado pelos judeus nos serviços do templo, não deve ser confundido com o incenso do comércio moderno, que é um exsudado do abeto, o Pinus abies. Era provavelmente uma resina da árvore indiana conhecida pelos botânicos pelo nome de Boswellia serrata ou thurifera, que cresce até a altura de doze metros."
+      },
+      {
+        "source": "SMI",
+        "text": "uma resina vegetal, quebradiça, brilhante e de sabor amargo, usada para o propósito de fumigação sacrificial. (Êxodo 30:34-36) Era chamado de incenso devido à liberdade com que, quando queimado, libera o seu odor. Queima por muito tempo, com uma chama constante. É obtido por incisões sucessivas na casca de uma árvore chamada Arbor thuris. A primeira incisão produz a resina mais pura e branca, enquanto o produto das incisões posteriores é manchado de amarelo e perde a sua brancura totalmente à medida que envelhece. Os hebreus importavam o seu incenso da Arábia, (Isaías 60:6; Jeremias 6:20) e mais particularmente de Sabá; mas é notável que atualmente o líbano ou olíbano árabe seja de uma qualidade muito inferior, e que o incenso mais fino importado para a Turquia venha através da Arábia das ilhas do Arquipélago Indiano. Não há dúvida de que a árvore que produz o incenso indiano é a Boswellia serrata de Roxburgh, ou Boswellia thurifera de Colebrooke, e tem alguma semelhança quando jovem com a sorveira. Cresce até doze metros de altura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 60:6",
+        "original": "Isa. 60:6"
+      },
+      {
+        "reference": "Jeremiah 6:20",
+        "original": "Jer. 6:20"
+      },
+      {
+        "reference": "Song of Solomon 4:14",
+        "original": "Cant. 4:14"
+      },
+      {
+        "reference": "Exodus 30:34",
+        "original": "Ex. 30:34"
+      },
+      {
+        "reference": "Leviticus 2:1",
+        "original": "Lev. 2:1"
+      },
+      {
+        "reference": "Leviticus 2:16",
+        "original": "Lev. 2:16"
+      },
+      {
+        "reference": "Malachi 1:11",
+        "original": "Mal. 1:11"
+      },
+      {
+        "reference": "Song of Solomon 1:3",
+        "original": "Cant. 1:3"
+      },
+      {
+        "reference": "Psalms 141:2",
+        "original": "Ps. 141:2"
+      },
+      {
+        "reference": "Luke 1:10",
+        "original": "Luke 1:10"
+      },
+      {
+        "reference": "Revelation 5:8",
+        "original": "Rev. 5:8"
+      },
+      {
+        "reference": "Revelation 8:3",
+        "original": "Rev 8:3"
+      },
+      {
+        "reference": "Exodus 30:34-36",
+        "original": "Exodus 30:34-36"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "graven-image": {
+    "name": "Imagem de escultura",
+    "slug": "graven-image",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dt 27:15; Sl 97:7 (Heb. pesel), refere-se aos deuses domésticos dos idólatras. “Toda nação e cidade tinha seus próprios deuses... Contudo, cada família tinha seu deus doméstico ou tutelar separado.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 27:15",
+        "original": "Deut. 27:15"
+      },
+      {
+        "reference": "Psalms 97:7",
+        "original": "Ps. 97:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "hell": {
+    "name": "Inferno",
+    "slug": "hell",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Derivado do saxão \"helan\", cobrir; portanto, o lugar coberto ou invisível. Nas Escrituras, existem três palavras traduzidas assim: (1) Seol, ocorrendo no Antigo Testamento sessenta e cinco vezes. Esta palavra Seol deriva de uma raiz que significa “pedir”, “exigir”; portanto, insaciabilidade (Provérbios 30:15, 16). É traduzida como “sepultura” trinta e uma vezes (Gênesis 37:35; 42:38; 44:29, 31; 1 Samuel 2:6, etc.). Os revisores mantiveram esta tradução nos livros históricos com a palavra original na margem, enquanto nos livros poéticos inverteram essa regra. Em trinta e uma ocasiões na Versão Autorizada, esta palavra é traduzida como “inferno”, o lugar dos espíritos desencarnados. Os habitantes do Seol são “a congregação dos mortos” (Provérbios 21:16). É (a) a morada dos ímpios (Números 16:33; Jó 24:19; Salmos 9:17; 31:17, etc.); (b) dos justos (Salmos 16:10; 30:3; 49:15; 86:13, etc.). O Seol é descrito como profundo (Jó 11:8), escuro (10:21, 22), com barras (17:16). Os mortos “descem” para ele (Números 16:30, 33; Ezequiel 31:15, 16, 17). (2) A palavra grega Hades do Novo Testamento tem o mesmo alcance de significação que o Seol do Antigo Testamento. É uma prisão (1 Pedro 3:19), com portões, barras e fechaduras (Mateus 16:18; Apocalipse 1:18), e fica abaixo (Mateus 11:23; Lucas 10:15). Os justos e os ímpios são separados. Os mortos abençoados estão na parte do Hades chamada Paraíso (Lucas 23:43). Diz-se também que eles estão no seio de Abraão (Lucas 16:22). (3) Geena, na maioria de suas ocorrências no Novo Testamento grego, designa o lugar dos perdidos (Mateus 23:33). A natureza terrível de sua condição lá é descrita em várias expressões figurativas (Mateus 8:12; 13:42; 22:13; 25:30; Lucas 16:24, etc.). (Veja HINOM.)"
+      },
+      {
+        "source": "SMI",
+        "text": "No Antigo Testamento, esta é a palavra geralmente e infelizmente usada por nossos tradutores para verter o hebraico Seol. Na verdade, significa o lugar dos mortos, o mundo invisível, sem decidir se é o lugar de miséria ou de felicidade. É claro que em muitas passagens do Antigo Testamento Seol só pode significar “a sepultura”, sendo traduzido assim na Versão Autorizada; veja, por exemplo, (Gênesis 37:35; 42:38; 1 Samuel 2:6; Jó 14:13). Em outras passagens, no entanto, parece envolver uma noção de punição e é, portanto, traduzido na Versão Autorizada pela palavra “inferno”. Mas, em muitos casos, essa tradução engana o leitor. No Novo Testamento, “inferno” é a tradução de duas palavras, Hades e Geena. A palavra Hades, como Seol, às vezes significa apenas “a sepultura” (Atos 2:31; 1 Coríntios 15:55; Apocalipse 20:13) ou, em geral, “o mundo invisível”. É neste sentido que os credos dizem sobre nosso Senhor: “Ele desceu ao inferno”, significando o estado dos mortos em geral, sem qualquer restrição de felicidade ou miséria. Em outras partes do Novo Testamento, Hades é usado para um lugar de tormento (Mateus 11:23; Lucas 16:23; 2 Pedro 2:4), etc.; consequentemente, tem sido a noção prevalecente, quase universal, de que o Hades é um estado intermediário entre a morte e a ressurreição, dividido em duas partes, uma a morada dos bem-aventurados e a outra a dos perdidos. É usado onze vezes no Novo Testamento e apenas uma vez traduzido como “sepultura” (1 Coríntios 15:55). A palavra mais frequentemente usada (ocorrendo doze vezes) no Novo Testamento para o lugar de punição futura é Geena ou Geena de fogo. Este era originalmente o vale de Hinom, ao sul de Jerusalém, onde o lixo e os animais mortos da cidade eram jogados e queimados; um símbolo adequado dos ímpios e de sua destruição. [Veja Hinom]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 30:15",
+        "original": "Prov. 30:15"
+      },
+      {
+        "reference": "Proverbs 30:16",
+        "original": "Prov. 30:16"
+      },
+      {
+        "reference": "Genesis 37:35",
+        "original": "Gen. 37:35"
+      },
+      {
+        "reference": "Genesis 42:38",
+        "original": "Gen 42:38"
+      },
+      {
+        "reference": "Genesis 44:29",
+        "original": "Gen 44:29"
+      },
+      {
+        "reference": "Genesis 44:31",
+        "original": "Gen 44:31"
+      },
+      {
+        "reference": "1 Samuel 2:6",
+        "original": "1 Sam. 2:6"
+      },
+      {
+        "reference": "Proverbs 21:16",
+        "original": "Prov. 21:16"
+      },
+      {
+        "reference": "Numbers 16:33",
+        "original": "Num. 16:33"
+      },
+      {
+        "reference": "Job 24:19",
+        "original": "Job 24:19"
+      },
+      {
+        "reference": "Psalms 9:17",
+        "original": "Ps. 9:17"
+      },
+      {
+        "reference": "Psalms 31:17",
+        "original": "Ps 31:17"
+      },
+      {
+        "reference": "Psalms 16:10",
+        "original": "Ps. 16:10"
+      },
+      {
+        "reference": "Psalms 30:3",
+        "original": "Ps 30:3"
+      },
+      {
+        "reference": "Psalms 49:15",
+        "original": "Ps 49:15"
+      },
+      {
+        "reference": "Psalms 86:13",
+        "original": "Ps 86:13"
+      },
+      {
+        "reference": "Job 11:8",
+        "original": "Job 11:8"
+      },
+      {
+        "reference": "Numbers 16:30",
+        "original": "Num. 16:30"
+      },
+      {
+        "reference": "Ezekiel 31:15",
+        "original": "Ezek. 31:15"
+      },
+      {
+        "reference": "Ezekiel 31:16",
+        "original": "Ezek 31:16"
+      },
+      {
+        "reference": "Ezekiel 31:17",
+        "original": "Ezek 31:17"
+      },
+      {
+        "reference": "1 Peter 3:19",
+        "original": "1 Pet. 3:19"
+      },
+      {
+        "reference": "Matthew 16:18",
+        "original": "Matt. 16:18"
+      },
+      {
+        "reference": "Revelation 1:18",
+        "original": "Rev. 1:18"
+      },
+      {
+        "reference": "Matthew 11:23",
+        "original": "Matt. 11:23"
+      },
+      {
+        "reference": "Luke 10:15",
+        "original": "Luke 10:15"
+      },
+      {
+        "reference": "Luke 23:43",
+        "original": "Luke 23:43"
+      },
+      {
+        "reference": "Luke 16:22",
+        "original": "Luke 16:22"
+      },
+      {
+        "reference": "Matthew 23:33",
+        "original": "Matt. 23:33"
+      },
+      {
+        "reference": "Matthew 8:12",
+        "original": "Matt. 8:12"
+      },
+      {
+        "reference": "Matthew 13:42",
+        "original": "Matt 13:42"
+      },
+      {
+        "reference": "Matthew 22:13",
+        "original": "Matt 22:13"
+      },
+      {
+        "reference": "Matthew 25:30",
+        "original": "Matt 25:30"
+      },
+      {
+        "reference": "Luke 16:24",
+        "original": "Luke 16:24"
+      },
+      {
+        "reference": "Job 14:13",
+        "original": "Job 14:13"
+      },
+      {
+        "reference": "Acts 2:31",
+        "original": "Acts 2:31"
+      },
+      {
+        "reference": "1 Corinthians 15:55",
+        "original": "1 Corinthians 15:55"
+      },
+      {
+        "reference": "Revelation 20:13",
+        "original": "Revelation 20:13"
+      },
+      {
+        "reference": "Luke 16:23",
+        "original": "Luke 16:23"
+      },
+      {
+        "reference": "2 Peter 2:4",
+        "original": "2 Peter 2:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibhar": {
+    "name": "Ibhar",
+    "slug": "ibhar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Escolhido, um dos filhos de Davi (1 Crô. 3:6; 2 Sam. 5:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quem Deus escolhe), um dos filhos de Davi, (2 Samuel 5:15; 1 Crônicas 3:6; 14:6) (nascido em Jerusalém. A.C. após 1044.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 3:6",
+        "original": "1 Chr. 3:6"
+      },
+      {
+        "reference": "2 Samuel 5:15",
+        "original": "2 Sam. 5:15"
+      },
+      {
+        "reference": "1 Chronicles 14:6",
+        "original": "1 Chronicles 14:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibleam": {
+    "name": "Ibleão",
+    "slug": "ibleam",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Destruidor de gente, uma cidade designada a Manassés (Jos. 17:11), da qual os israelitas, contudo, não puderam expulsar os cananeus (Juí. 1:27). Também é chamada de Bileão (1 Crô. 6:70). Provavelmente era a moderna Jelamah, uma aldeia a 2,5 milhas ao norte de Jenin."
+      },
+      {
+        "source": "SMI",
+        "text": "(devorando o povo), uma cidade de Manassés, com vilas ou cidades dependentes dela. (Juízes 1:27) Parece ter sido situada no território de Issacar ou Aser. (Josué 17:11) A subida de Gur era \"em Ibleão\", (2 Reis 9:27) em algum lugar perto do atual Jenin, provavelmente ao norte dele."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 17:11",
+        "original": "Josh. 17:11"
+      },
+      {
+        "reference": "Judges 1:27",
+        "original": "Judg. 1:27"
+      },
+      {
+        "reference": "1 Chronicles 6:70",
+        "original": "1 Chr. 6:70"
+      },
+      {
+        "reference": "2 Kings 9:27",
+        "original": "2 Kings 9:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibneiah": {
+    "name": "Ibneías",
+    "slug": "ibneiah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová edificará), filho de Jeroão, um benjamita. (1 Crônicas 9:8)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 9:8",
+        "original": "1 Chronicles 9:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibnijah": {
+    "name": "Ibnijah",
+    "slug": "ibnijah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová edificará), um benjamita. (1 Crônicas 9:8)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 9:8",
+        "original": "1 Chronicles 9:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibri": {
+    "name": "Ibri",
+    "slug": "ibri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Hebreu), um levita merarita da família de Jaazias, (1 Crônicas 24:27) no tempo de Davi. (A.C. 1014.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 24:27",
+        "original": "1 Chronicles 24:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ibzan": {
+    "name": "Ibzã",
+    "slug": "ibzan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ilustre, o décimo juiz de Israel (Juí. 12:8-10). Ele governou sete anos."
+      },
+      {
+        "source": "SMI",
+        "text": "(ilustre), um nativo de Belém de Zebulom, que julgou Israel por sete anos após Jefté. (Juízes 12:8,10) (A.C. 1137.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 12:8-10",
+        "original": "Judg. 12:8-10"
+      },
+      {
+        "reference": "Judges 12:8",
+        "original": "Judges 12:8"
+      },
+      {
+        "reference": "Judges 12:10",
+        "original": "Judges 12:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ichabod": {
+    "name": "Icabode",
+    "slug": "ichabod",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Quando as notícias da desastrosa derrota dos israelitas na batalha contra os filisteus perto de Mizpá foram levadas a Siló, a esposa de Fineias \"estava perto de dar à luz. E, ouvindo ela estas notícias de que a arca de Deus fora tomada, e que seu sogro e seu marido eram mortos, encurvou-se e deu à luz\" (1 Sam. 4:19-22). Em seu grande sofrimento, ela não prestou atenção \"às mulheres que estavam com ela\", mas chamou o filho que nasceu de \"Icabode\", isto é, sem glória, dizendo: \"A glória foi-se de Israel\"; e com essa palavra nos lábios ela expirou."
+      },
+      {
+        "source": "SMI",
+        "text": "(sem glória), o filho de Fineias e neto de Eli. (1 Samuel 4:21) (A.C. cerca de 1100.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 4:19-22",
+        "original": "1 Sam. 4:19-22"
+      },
+      {
+        "reference": "1 Samuel 4:21",
+        "original": "1 Samuel 4:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iconium": {
+    "name": "Icônio",
+    "slug": "iconium",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A capital da antiga Licaônia. Foi visitada pela primeira vez por Paulo e Barnabé de Antioquia da Pisídia durante a primeira viagem missionária do apóstolo (Atos 13:50, 51). Aqui eles foram perseguidos pelos judeus e, sendo expulsos da cidade, fugiram para Listra. Mais tarde, retornaram a Icônio e encorajaram a igreja que havia sido fundada lá (14:21, 22). Foi provavelmente visitada novamente por Paulo durante sua terceira viagem missionária junto com Silas (18:23). É a moderna Konieh, ao pé do Monte Taurus, cerca de 120 milhas no interior do Mediterrâneo."
+      },
+      {
+        "source": "SMI",
+        "text": "(pequena imagem), a moderna Konieh, era a capital da Licaônia, na Ásia Menor. Era uma cidade grande e rica, a 120 milhas ao norte do Mar Mediterrâneo, ao pé das montanhas Taurus, e na grande linha de comunicação entre Éfeso e a costa ocidental da península de um lado, e Tarso, Antioquia e o Eufrates do outro. Icônio foi um lugar bem escolhido para operações missionárias. (Atos 14:1,3,21,22; 16:1,2; 18:23) A primeira visita de Paulo aqui foi em seu primeiro circuito, na companhia de Barnabé; e nesta ocasião ele se aproximou de Antioquia da Pisídia, que ficava a oeste. A moderna Konieh tem entre duas e três milhas de circunferência e contém mais de 30.000 habitantes. Possui fábricas de tapetes e couro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 13:50",
+        "original": "Acts 13:50"
+      },
+      {
+        "reference": "Acts 13:51",
+        "original": "Acts 13:51"
+      },
+      {
+        "reference": "Acts 14:1",
+        "original": "Acts 14:1"
+      },
+      {
+        "reference": "Acts 14:3",
+        "original": "Acts 14:3"
+      },
+      {
+        "reference": "Acts 14:21",
+        "original": "Acts 14:21"
+      },
+      {
+        "reference": "Acts 14:22",
+        "original": "Acts 14:22"
+      },
+      {
+        "reference": "Acts 16:1",
+        "original": "Acts 16:1"
+      },
+      {
+        "reference": "Acts 16:2",
+        "original": "Acts 16:2"
+      },
+      {
+        "reference": "Acts 18:23",
+        "original": "Acts 18:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "idalah": {
+    "name": "Idala",
+    "slug": "idalah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Laços(?), uma cidade perto da fronteira oeste de Zebulom (Jos. 19:15). Foi identificada com a moderna Jeida, no vale de Quisom."
+      },
+      {
+        "source": "SMI",
+        "text": "(memorial de Deus), uma das cidades da tribo de Zebulom, nomeada entre Simrom e Belém. (Josué 19:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:15",
+        "original": "Josh. 19:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "idbash": {
+    "name": "Idbas",
+    "slug": "idbash",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(robusto), um dos três filhos de Abi-Etã, entre as famílias de Judá. (1 Crônicas 4:3)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:3",
+        "original": "1 Chronicles 4:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iddo": {
+    "name": "Ido",
+    "slug": "iddo",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Oportuno (1 Crô. 6:21). Um levita gersonita. (2.) Amável. O filho de Zacarias (1 Crô. 27:21), o governante de Manassés no tempo de Davi. (3.) Oportuno. O pai de Ainadabe, que foi um dos provedores de Salomão (1 Reis 4:14). (4.) Amável. Um profeta de Judá que escreveu a história de Roboão e Abias (2 Crô. 12:15). Ele foi identificado com Odede (2 Crô. 15:1). (5.) Amável. O pai de Berequias e avô do profeta Zacarias (Zac. 1:1, 7). Ele retornou da Babilônia (Nee. 12:4)."
+      },
+      {
+        "source": "SMI",
+        "text": "(oportuno ou amável)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:21",
+        "original": "1 Chr. 6:21"
+      },
+      {
+        "reference": "1 Chronicles 27:21",
+        "original": "1 Chr. 27:21"
+      },
+      {
+        "reference": "1 Kings 4:14",
+        "original": "1 Kings 4:14"
+      },
+      {
+        "reference": "2 Chronicles 12:15",
+        "original": "2 Chr. 12:15"
+      },
+      {
+        "reference": "2 Chronicles 15:1",
+        "original": "2 Chr. 15:1"
+      },
+      {
+        "reference": "Zechariah 1:1",
+        "original": "Zech. 1:1"
+      },
+      {
+        "reference": "Zechariah 1:7",
+        "original": "Zech. 1:7"
+      },
+      {
+        "reference": "Nehemiah 12:4",
+        "original": "Neh. 12:4"
+      },
+      {
+        "reference": "2 Chronicles 9:29",
+        "original": "2 Chronicles 9:29"
+      },
+      {
+        "reference": "2 Chronicles 13:22",
+        "original": "2 Chronicles 13:22"
+      },
+      {
+        "reference": "Ezra 8:17",
+        "original": "Ezra 8:17"
+      },
+      {
+        "reference": "Ezra 8:20",
+        "original": "Ezra 8:20"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "idol": {
+    "name": "Ídolo",
+    "slug": "idol",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. aven, \"nada\"; \"vaidade\" (Isa. 66:3; 41:29; Deut. 32:21; 1 Reis 16:13; Sal. 31:6; Jer. 8:19, etc.). (2.) ‘Elil, \"uma coisa de nada\" (Sal. 97:7; Isa. 19:3); uma palavra de desprezo, usada para os deuses de Nofe (Eze. 30:13). (3.) ‘Emah, \"terror\", em alusão à forma hedionda dos ídolos (Jer. 50:38). (4.) Miphletzeth, \"um susto\"; \"horror\" (1 Reis 15:13; 2 Crô. 15:16). (5.) Bosheth, \"vergonha\"; \"coisa vergonhosa\" (Jer. 11:13; Osé. 9:10); como caracterizando a obscenidade da adoração a Baal. (6.) Gillulim, também uma palavra de desprezo, \"esterco\"; \"refugo\" (Eze. 16:36; 20:8; Deut. 29:17, marg.). (7.) Shikkuts, \"imundície\"; \"impureza\" (Eze. 37:23; Naum 3:6). (8.) Semel, \"semelhança\"; \"uma imagem esculpida\" (Deut. 4:16). (9.) Tselem, \"uma sombra\" (Dan. 3:1; 1 Sam. 6:5), como distinguido da \"semelhança\" ou a contraparte exata. (10.) Temunah, \"similitude\" (Deut. 4:12-19). Aqui Moisés proíbe as várias formas de idolatria gentia. (11.) ‘Atsab, \"uma figura\"; da raiz \"modelar\", \"trabalhar\"; denotando que os ídolos são o resultado do trabalho humano (Isa. 48:5; Sal. 139:24, \"caminho mau\"; literalmente, como alguns traduzem, \"caminho de um ídolo\"). (12.) Tsir, \"uma forma\"; \"formato\" (Isa. 45:16). (13.) Matztzebah, uma \"estátua\" erguida (Jer. 43:13); uma pedra memorial como aquela erguida por Jacó (Gên. 28:18; 31:45; 35:14, 20), por Josué (4:9) e por Samuel (1 Sam. 7:12). É o nome dado às estátuas de Baal (2 Reis 3:2; 10:27). (14.) Hammanim, \"imagens do sol\". Hamman é um sinônimo de Baal, o deus-sol dos fenícios (2 Crô. 34:4, 7; 14:3, 5; Isa. 17:8). (15.) Maskith, \"dispositivo\" (Lev. 26:1; Núm. 33:52). Em Lev. 26:1, as palavras \"imagem de pedra\" (A.V.) denotam \"uma pedra ou cippus com a imagem de um ídolo, como Baal, Astarte, etc.\". Em Eze. 8:12, \"câmaras de imagens\" (maskith) são \"câmaras cujas paredes estão pintadas com as figuras de ídolos\"; comp. ver. 10, 11. (16.) Pesel, uma \"imagem gravada\" ou \"esculpida\" (Isa. 44:10-20). Denota também uma figura fundida em metal (Deut. 7:25; 27:15; Isa. 40:19; 44:10). (17.) Massekah, uma \"imagem fundida\" (Deut. 9:12; Juí. 17:3, 4). (18.) Teraphim, pl., \"imagens\", deuses da família (penates) adorados pelos parentes de Abrão (Jos. 24:14). Colocados por Mical na cama de Davi (Juí. 17:5; 18:14, 17, 18, 20; 1 Sam. 19:13). \"Nada pode ser mais instrutivo e significativo do que essa multiplicidade e variedade de palavras designando os instrumentos e invenções da idolatria.\""
+      },
+      {
+        "source": "SMI",
+        "text": "Uma imagem ou qualquer coisa usada como objeto de adoração no lugar do verdadeiro Deus. Entre os primeiros objetos de adoração, considerados como símbolos da divindade, estavam as pedras meteóricas, que os antigos acreditavam serem imagens dos deuses enviadas do céu. Delas transferiram seu respeito para blocos brutos, colunas de pedra ou pilares de madeira, nos quais se supunha que a divindade adorada habitava, e que eram conectados, como a pedra sagrada em Delfos, sendo ungidos com óleo e coroados com lã em dias solenes. Das formas assumidas pelas imagens idólatras, não temos muitos vestígios na Bíblia. Dagom, o deus-peixe dos filisteus, era uma figura humana terminando em um peixe; e que as divindades sírias eram representadas em tempos posteriores em uma forma humana simbólica, sabemos com certeza. Quando o processo de adornar a imagem estava concluído, ela era colocada em um templo ou santuário designado para ela. Epist. (Jeremias 12:1; Jeremias 19:1) ... Sab. 13:15; (1 Coríntios 8:10) Desses templos, os ídolos eram às vezes carregados em procissão, Epist. (Jeremias 4:26) em dias de festa. Seus sacerdotes eram mantidos com o tesouro dos ídolos e banqueteavam-se com as carnes designadas para o uso dos ídolos. Bel e o Dragão 3,13."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 66:3",
+        "original": "Isa. 66:3"
+      },
+      {
+        "reference": "Isaiah 41:29",
+        "original": "Isa 41:29"
+      },
+      {
+        "reference": "Deuteronomy 32:21",
+        "original": "Deut. 32:21"
+      },
+      {
+        "reference": "1 Kings 16:13",
+        "original": "1 Kings 16:13"
+      },
+      {
+        "reference": "Psalms 31:6",
+        "original": "Ps. 31:6"
+      },
+      {
+        "reference": "Jeremiah 8:19",
+        "original": "Jer. 8:19"
+      },
+      {
+        "reference": "Psalms 97:7",
+        "original": "Ps. 97:7"
+      },
+      {
+        "reference": "Isaiah 19:3",
+        "original": "Isa. 19:3"
+      },
+      {
+        "reference": "Ezekiel 30:13",
+        "original": "Ezek. 30:13"
+      },
+      {
+        "reference": "Jeremiah 50:38",
+        "original": "Jer. 50:38"
+      },
+      {
+        "reference": "1 Kings 15:13",
+        "original": "1 Kings 15:13"
+      },
+      {
+        "reference": "2 Chronicles 15:16",
+        "original": "2 Chr. 15:16"
+      },
+      {
+        "reference": "Jeremiah 11:13",
+        "original": "Jer. 11:13"
+      },
+      {
+        "reference": "Hosea 9:10",
+        "original": "Hos. 9:10"
+      },
+      {
+        "reference": "Ezekiel 16:36",
+        "original": "Ezek. 16:36"
+      },
+      {
+        "reference": "Ezekiel 20:8",
+        "original": "Ezek 20:8"
+      },
+      {
+        "reference": "Deuteronomy 29:17",
+        "original": "Deut. 29:17"
+      },
+      {
+        "reference": "Ezekiel 37:23",
+        "original": "Ezek. 37:23"
+      },
+      {
+        "reference": "Nahum 3:6",
+        "original": "Nah. 3:6"
+      },
+      {
+        "reference": "Deuteronomy 4:16",
+        "original": "Deut. 4:16"
+      },
+      {
+        "reference": "Daniel 3:1",
+        "original": "Dan. 3:1"
+      },
+      {
+        "reference": "1 Samuel 6:5",
+        "original": "1 Sam. 6:5"
+      },
+      {
+        "reference": "Deuteronomy 4:12-19",
+        "original": "Deut. 4:12-19"
+      },
+      {
+        "reference": "Isaiah 48:5",
+        "original": "Isa. 48:5"
+      },
+      {
+        "reference": "Psalms 139:24",
+        "original": "Ps. 139:24"
+      },
+      {
+        "reference": "Isaiah 45:16",
+        "original": "Isa. 45:16"
+      },
+      {
+        "reference": "Jeremiah 43:13",
+        "original": "Jer. 43:13"
+      },
+      {
+        "reference": "Genesis 28:18",
+        "original": "Gen. 28:18"
+      },
+      {
+        "reference": "Genesis 31:45",
+        "original": "Gen 31:45"
+      },
+      {
+        "reference": "Genesis 35:14",
+        "original": "Gen 35:14"
+      },
+      {
+        "reference": "Genesis 35:20",
+        "original": "Gen 35:20"
+      },
+      {
+        "reference": "1 Samuel 7:12",
+        "original": "1 Sam. 7:12"
+      },
+      {
+        "reference": "2 Kings 3:2",
+        "original": "2 Kings 3:2"
+      },
+      {
+        "reference": "2 Kings 10:27",
+        "original": "2 Kings 10:27"
+      },
+      {
+        "reference": "2 Chronicles 34:4",
+        "original": "2 Chr. 34:4"
+      },
+      {
+        "reference": "2 Chronicles 34:7",
+        "original": "2 Chr. 34:7"
+      },
+      {
+        "reference": "Isaiah 17:8",
+        "original": "Isa. 17:8"
+      },
+      {
+        "reference": "Leviticus 26:1",
+        "original": "Lev. 26:1"
+      },
+      {
+        "reference": "Numbers 33:52",
+        "original": "Num. 33:52"
+      },
+      {
+        "reference": "Ezekiel 8:12",
+        "original": "Ezek. 8:12"
+      },
+      {
+        "reference": "Isaiah 44:10-20",
+        "original": "Isa. 44:10-20"
+      },
+      {
+        "reference": "Deuteronomy 7:25",
+        "original": "Deut. 7:25"
+      },
+      {
+        "reference": "Deuteronomy 27:15",
+        "original": "Deut 27:15"
+      },
+      {
+        "reference": "Isaiah 40:19",
+        "original": "Isa. 40:19"
+      },
+      {
+        "reference": "Isaiah 44:10",
+        "original": "Isa 44:10"
+      },
+      {
+        "reference": "Deuteronomy 9:12",
+        "original": "Deut. 9:12"
+      },
+      {
+        "reference": "Judges 17:3",
+        "original": "Judg. 17:3"
+      },
+      {
+        "reference": "Judges 17:4",
+        "original": "Judg. 17:4"
+      },
+      {
+        "reference": "Joshua 24:14",
+        "original": "Josh. 24:14"
+      },
+      {
+        "reference": "Judges 17:5",
+        "original": "Judg. 17:5"
+      },
+      {
+        "reference": "Judges 18:14",
+        "original": "Judg 18:14"
+      },
+      {
+        "reference": "Judges 18:17",
+        "original": "Judg 18:17"
+      },
+      {
+        "reference": "Judges 18:18",
+        "original": "Judg 18:18"
+      },
+      {
+        "reference": "Judges 18:20",
+        "original": "Judg 18:20"
+      },
+      {
+        "reference": "1 Samuel 19:13",
+        "original": "1 Sam. 19:13"
+      },
+      {
+        "reference": "Jeremiah 12:1",
+        "original": "Jeremiah 12:1"
+      },
+      {
+        "reference": "Jeremiah 19:1",
+        "original": "Jeremiah 19:1"
+      },
+      {
+        "reference": "Wis 13:15",
+        "original": "Wisd. 13:15"
+      },
+      {
+        "reference": "1 Corinthians 8:10",
+        "original": "1 Corinthians 8:10"
+      },
+      {
+        "reference": "Jeremiah 4:26",
+        "original": "Jeremiah 4:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "idolatry": {
+    "name": "Idolatria",
+    "slug": "idolatry",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Adoração de imagens ou honra divina prestada a qualquer objeto criado. Paulo descreve a origem da idolatria em Rm 1:21-25: os homens abandonaram a Deus e afundaram-se na ignorância e na corrupção moral (1:28). As formas de idolatria são: (1) Fetiche, ou a adoração de árvores, rios, colinas, pedras, etc. (2) Adoração à natureza, a adoração do sol, da lua e das estrelas, como as supostas forças da natureza. (3) Culto aos heróis, a adoração de ancestrais falecidos ou de heróis. Nas Escrituras, a idolatria é considerada de origem pagã, tendo sido introduzida entre os hebreus através do contato com nações pagãs. A primeira alusão à idolatria encontra-se no relato de Raquel roubando os terafins de seu pai (Gn 31:19), que eram as relíquias da adoração de outros deuses pelos progenitores de Labão “do outro lado do rio em tempos antigos” (Js 24:2). Durante a longa residência no Egito, os hebreus caíram na idolatria, e demorou muito até que fossem libertados dela (Js 24:14; Ez 20:7). Muitos sinais do desagrado de Deus caíram sobre eles por causa desse pecado. A idolatria aprendida no Egito foi provavelmente erradicada do meio do povo durante os quarenta anos de peregrinação; mas, quando os judeus entraram em Canaã, entraram em contato com os monumentos e associações da idolatria das antigas raças cananeias e mostraram uma tendência constante de se desviar do Deus vivo e seguir as práticas idólatras daquelas nações pagãs. Foi seu grande pecado nacional, que só foi eficazmente repreendido pelo exílio babilônico. Esse exílio purificou finalmente os judeus de todas as tendências idólatras. O primeiro e o segundo mandamentos são dirigidos contra a idolatria de todas as formas. Indivíduos e comunidades eram igualmente sujeitos ao código rigoroso. O infrator individual era destinado à destruição (Êx 22:20). Seus parentes mais próximos não estavam apenas obrigados a denunciá-lo e entregá-lo ao castigo (Dt 13:6-10), mas suas mãos deviam desferir o primeiro golpe quando, com o depoimento de pelo menos duas testemunhas, ele fosse apedrejado (Dt 17:2-7). Tentar seduzir outros para a adoração falsa era um crime de igual enormidade (13:6-10). Uma nação idólatra compartilhava o mesmo destino. Nenhum fato é mais fortemente declarado no Antigo Testamento do que o de que o extermínio dos cananeus foi o castigo por sua idolatria (Êx 34:15, 16; Dt 7; 12:29-31; 20:17), e que as calamidades dos israelitas foram devidas à mesma causa (Jr 2:17). “Uma cidade culpada de idolatria era vista como um câncer no Estado; era considerada rebelde e tratada de acordo com as leis de guerra. Seus habitantes e todo o seu gado eram mortos.” Jeová era o Rei teocrático de Israel, o Chefe civil da comunidade e, portanto, para um israelita, a idolatria era uma ofensa ao Estado (1 Sm 15:23), alta traição. Ao tomar posse da terra, os judeus foram ordenados a destruir todos os vestígios de qualquer tipo de idolatria existente dos cananeus (Êx 23:24, 32; 34:13; Dt 7:5, 25; 12:1-3). No Novo Testamento, o termo idolatria é usado para designar a avareza (Mt 6:24; Lc 16:13; Cl 3:5; Ef 5:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Estritamente falando, denota a adoração de uma divindade em forma visível, quer as imagens às quais a homenagem é prestada sejam representações simbólicas do verdadeiro Deus ou das falsas divindades que foram feitas objetos de adoração em Seu lugar. I. História da idolatria entre os judeus: A primeira alusão inquestionável à idolatria ou costumes idólatras na Bíblia está no relato de Raquel roubando os terafins de seu pai (Gênesis 31:19). Durante sua longa permanência no Egito, os israelitas contaminaram-se com os ídolos daquela terra, e levou muito tempo até que a mancha fosse removida (Josué 24:14; Ezequiel 20:7). No deserto, eles clamaram por alguma forma visível na qual pudessem adorar o Deus que os tirara do Egito (Êxodo 32:1)... até que Arão fez o bezerro, a personificação de Ápis e emblema do poder produtivo da natureza. Durante a vida de Josué e dos anciãos que sobreviveram a ele, eles mantiveram-se fiéis; mas a geração seguinte, que não conhecia o Senhor nem as obras que Ele fizera por Israel, desviou-se do caminho reto de seus pais e caiu nas redes do estrangeiro (Juízes 2:1)... A partir desse momento, sua história torna-se pouco mais que uma crônica da sequência inevitável de ofensa e punição (Juízes 2:12,14). Por turnos, cada nação conquistadora esforçou-se para estabelecer a adoração de seu deus nacional. Em tempos posteriores, a prática da idolatria secreta foi levada a extremos maiores. Imagens foram erguidas nas eiras, nos lagares e atrás das portas das casas particulares (Isaías 57:8; Oseias 9:1,2) e, para conter essa tendência, o estatuto em (Dt 27:15) foi originalmente promulgado. Sob a administração de Samuel, a idolatria foi publicamente renunciada (1 Samuel 7:3-6), mas no reinado de Salomão tudo isso foi esquecido, sendo o próprio coração de Salomão desviado para outros deuses (1 Reis 11:14). Roboão perpetuou os piores aspectos da idolatria de Salomão (1 Reis 14:22-24); ergueu bezerros de ouro em Betel e em Dã, e por essa astuta 'política de Estado' separou para sempre os reinos de Judá e Israel (1 Reis 12:26-33). Os sucessores de Jeroboão seguiram seus passos até Acabe. A conquista das dez tribos por Salmaneser foi para eles a última cena do drama de abominações que vinha sendo encenado ininterruptamente por mais de 250 anos. Sob Ezequias, uma grande reforma foi inaugurada, não limitada a Judá e Benjamim, mas espalhando-se por Efraim e Manassés (2 Crônicas 31:1) e, aparentemente, a idolatria foi extirpada. Mas a reforma estendeu-se pouco abaixo da superfície (Isaías 29:13). Com a morte de Josias, terminou o último esforço para reviver entre o povo um ritual mais puro, se não uma fé mais pura. A lâmpada de Davi, que há muito tempo brilhava apenas com um raio vacilante, piscou por um tempo e depois se apagou nas trevas do Cativeiro Babilônico. Embora as conquistas de Alexandre tenham feito sentir a influência grega, após o cativeiro prevaleceu uma condição melhor, e os judeus nunca mais caíram na idolatria. A construção de sinagogas foi atribuída como uma razão para a pureza comparativa da adoração judaica após o cativeiro, enquanto outra causa foi descoberta no ódio pelas imagens adquirido pelos judeus em seu contato com os persas. II. Objetos de idolatria: O sol e a lua foram selecionados desde cedo como símbolos externos de poder onipresente, e a adoração dos corpos celestes foi não apenas o sistema de idolatria mais antigo, mas o mais prevalente. Surgindo nas planícies da Caldeia, espalhou-se pelo Egito, Grécia, Cítia e até mesmo México e Ceilão. Compare (Dt 4:19; 17:3; Jó 31:20-28). Nos tempos posteriores da monarquia, os planetas ou os signos do zodíaco receberam, logo após o sol e a lua, sua parcela de adoração popular (2 Reis 23:5). A adoração aos animais, como exemplificado nos bezerros de Jeroboão, já foi mencionada; da pura adoração aos heróis entre as raças semíticas, não encontramos vestígios. A singular reverência com que as árvores foram honradas não deixa de ter exemplo na história dos hebreus. O terebinto (carvalho) em Manre, sob o qual Abraão construiu um altar (Gênesis 12:7; 13:18), e o bosque memorial plantado por ele em Berseba (Gênesis 21:33) estavam intimamente ligados à adoração patriarcal. Montanhas e lugares altos eram locais escolhidos para oferecer sacrifícios e incenso aos ídolos (1 Reis 11:7; 14:23), e o retiro dos jardins e a sombra espessa dos bosques ofereciam grandes atrações aos seus adoradores (2 Reis 16:4; Isaías 1:29; Oseias 4:13). O exército do céu era adorado nos telhados das casas (2 Reis 23:12; Jeremias 19:3; 32:29; Sofonias 1:5). (Os objetos modernos de idolatria são menos grosseiros que os antigos, mas não deixam de ser ídolos. Qualquer coisa de riqueza, honra ou prazer que seja amada e buscada antes de Deus e da justiça torna-se um objeto de idolatria.—ED.) III. Punição da idolatria: A idolatria para um israelita era uma ofensa ao Estado (1 Samuel 15:23), um crime político da maior gravidade, alta traição contra Deus."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 1:21-25",
+        "original": "Rom. 1:21-25"
+      },
+      {
+        "reference": "Genesis 31:19",
+        "original": "Gen. 31:19"
+      },
+      {
+        "reference": "Joshua 24:2",
+        "original": "Josh. 24:2"
+      },
+      {
+        "reference": "Joshua 24:14",
+        "original": "Josh. 24:14"
+      },
+      {
+        "reference": "Ezekiel 20:7",
+        "original": "Ezek. 20:7"
+      },
+      {
+        "reference": "Exodus 22:20",
+        "original": "Ex. 22:20"
+      },
+      {
+        "reference": "Deuteronomy 13:20-10",
+        "original": "Deut. 13:20-10"
+      },
+      {
+        "reference": "Deuteronomy 17:2-7",
+        "original": "Deut. 17:2-7"
+      },
+      {
+        "reference": "Exodus 34:15",
+        "original": "Ex. 34:15"
+      },
+      {
+        "reference": "Exodus 34:16",
+        "original": "Ex. 34:16"
+      },
+      {
+        "reference": "Deuteronomy 7",
+        "original": "Deut. 7"
+      },
+      {
+        "reference": "Deuteronomy 12:29-31",
+        "original": "Deut 12:29-31"
+      },
+      {
+        "reference": "Deuteronomy 20:17",
+        "original": "Deut 20:17"
+      },
+      {
+        "reference": "Jeremiah 2:17",
+        "original": "Jer. 2:17"
+      },
+      {
+        "reference": "1 Samuel 15:23",
+        "original": "1 Sam. 15:23"
+      },
+      {
+        "reference": "Exodus 23:24",
+        "original": "Ex. 23:24"
+      },
+      {
+        "reference": "Exodus 23:32",
+        "original": "Ex. 23:32"
+      },
+      {
+        "reference": "Deuteronomy 7:5",
+        "original": "Deut. 7:5"
+      },
+      {
+        "reference": "Deuteronomy 7:25",
+        "original": "Deut. 7:25"
+      },
+      {
+        "reference": "Matthew 6:24",
+        "original": "Matt. 6:24"
+      },
+      {
+        "reference": "Luke 16:13",
+        "original": "Luke 16:13"
+      },
+      {
+        "reference": "Colossians 3:5",
+        "original": "Col. 3:5"
+      },
+      {
+        "reference": "Ephesians 5:5",
+        "original": "Eph. 5:5"
+      },
+      {
+        "reference": "Exodus 32:1",
+        "original": "Exodus 32:1"
+      },
+      {
+        "reference": "Judges 2:1",
+        "original": "Judges 2:1"
+      },
+      {
+        "reference": "Judges 2:12",
+        "original": "Judges 2:12"
+      },
+      {
+        "reference": "Judges 2:14",
+        "original": "Judges 2:14"
+      },
+      {
+        "reference": "Isaiah 57:8",
+        "original": "Isaiah 57:8"
+      },
+      {
+        "reference": "Hosea 9:1",
+        "original": "Hosea 9:1"
+      },
+      {
+        "reference": "Hosea 9:2",
+        "original": "Hosea 9:2"
+      },
+      {
+        "reference": "1 Samuel 7:3-6",
+        "original": "1 Samuel 7:3-6"
+      },
+      {
+        "reference": "1 Kings 11:14",
+        "original": "1 Kings 11:14"
+      },
+      {
+        "reference": "1 Kings 14:22-24",
+        "original": "1 Kings 14:22-24"
+      },
+      {
+        "reference": "1 Kings 12:26-33",
+        "original": "1 Kings 12:26-33"
+      },
+      {
+        "reference": "2 Chronicles 31:1",
+        "original": "2 Chronicles 31:1"
+      },
+      {
+        "reference": "Isaiah 29:13",
+        "original": "Isaiah 29:13"
+      },
+      {
+        "reference": "Job 31:20-28",
+        "original": "Job 31:20-28"
+      },
+      {
+        "reference": "2 Kings 23:5",
+        "original": "2 Kings 23:5"
+      },
+      {
+        "reference": "Genesis 12:7",
+        "original": "Genesis 12:7"
+      },
+      {
+        "reference": "Genesis 13:18",
+        "original": "Genesis 13:18"
+      },
+      {
+        "reference": "Genesis 21:33",
+        "original": "Genesis 21:33"
+      },
+      {
+        "reference": "1 Kings 11:7",
+        "original": "1 Kings 11:7"
+      },
+      {
+        "reference": "1 Kings 14:23",
+        "original": "1 Kings 14:23"
+      },
+      {
+        "reference": "2 Kings 16:4",
+        "original": "2 Kings 16:4"
+      },
+      {
+        "reference": "Isaiah 1:29",
+        "original": "Isaiah 1:29"
+      },
+      {
+        "reference": "Hosea 4:13",
+        "original": "Hosea 4:13"
+      },
+      {
+        "reference": "2 Kings 23:12",
+        "original": "2 Kings 23:12"
+      },
+      {
+        "reference": "Jeremiah 19:3",
+        "original": "Jeremiah 19:3"
+      },
+      {
+        "reference": "Jeremiah 32:29",
+        "original": "Jeremiah 32:29"
+      },
+      {
+        "reference": "Zephaniah 1:5",
+        "original": "Zephaniah 1:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "idumaea": {
+    "name": "Idumeia",
+    "slug": "idumaea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A forma grega de Edom (Is 34:5, 6; Ez 35:15; 36:5, mas na V.R. “Edom”). (Veja EDOM)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 34:5",
+        "original": "Isa. 34:5"
+      },
+      {
+        "reference": "Isaiah 34:6",
+        "original": "Isa. 34:6"
+      },
+      {
+        "reference": "Ezekiel 35:15",
+        "original": "Ezek. 35:15"
+      },
+      {
+        "reference": "Ezekiel 36:5",
+        "original": "Ezek 36:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "idumea": {
+    "name": "Idumeia",
+    "slug": "idumea",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(vermelho). [Edom, Idumeia]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "igal": {
+    "name": "Igal",
+    "slug": "igal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vingadores. (1) Nm 13:7, um dos espias da tribo de Issacar. (2) Filho de Natã de Zobá, e um dos guerreiros de Davi (2 Sm 23:36). (3) 1 Cr 3:22."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quem Deus vingará)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:7",
+        "original": "Num. 13:7"
+      },
+      {
+        "reference": "2 Samuel 23:36",
+        "original": "2 Sam. 23:36"
+      },
+      {
+        "reference": "1 Chronicles 3:22",
+        "original": "1 Chr. 3:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "igdaliah": {
+    "name": "Igdalias",
+    "slug": "igdaliah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová engrandece), um profeta ou homem santo — “o homem de Deus” — nomeado apenas uma vez, (Jeremias 36:4) como o pai de Hanã. (A.C. antes de 406.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 36:4",
+        "original": "Jeremiah 36:4"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "igeal": {
+    "name": "Igeal",
+    "slug": "igeal",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Deus vingará), um filho de Neemias; um descendente da casa real de Judá. (1 Crônicas 3:22) (A.C. 406.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 3:22",
+        "original": "1 Chronicles 3:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iim": {
+    "name": "Iim",
+    "slug": "iim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ruínas. (1) Uma cidade no sul de Judá (Js 15:29). (2) Uma das estações dos israelitas no deserto (Nm 33:45)."
+      },
+      {
+        "source": "SMI",
+        "text": "(ruínas)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:29",
+        "original": "Josh. 15:29"
+      },
+      {
+        "reference": "Numbers 33:45",
+        "original": "Num. 33:45"
+      },
+      {
+        "reference": "Joshua 16:29",
+        "original": "Joshua 16:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ije-abarim": {
+    "name": "Ije-Abarim",
+    "slug": "ije-abarim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ruínas de Abarim, a quadragésima sétima estação dos israelitas no deserto, “na fronteira de Moabe” (Nm 33:44)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 33:44",
+        "original": "Num. 33:44"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "ijeabarim": {
+    "name": "Ije-Abarim",
+    "slug": "ijeabarim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(ruína de Abarim), um dos últimos locais de parada dos filhos de Israel. (Números 21:11; 33:44) Ficava na fronteira — a fronteira sudeste — do território de Moabe; no “deserto” inculto e baldio em seus limites."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 21:11",
+        "original": "Numbers 21:11"
+      },
+      {
+        "reference": "Numbers 33:44",
+        "original": "Numbers 33:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ijon": {
+    "name": "Ijom",
+    "slug": "ijon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma ruína, uma cidade de Naftali, capturada por Ben-Hadade da Síria a pedido de Asa (1 Rs 15:20), e depois por Tiglate-Pileser da Assíria (2 Rs 15:29) no reinado de Peca; agora el-Khiam."
+      },
+      {
+        "source": "SMI",
+        "text": "(uma ruína), uma cidade no norte da Palestina, pertencente à tribo de Naftali. Foi tomada e saqueada pelos capitães de Ben-Hadade, (1 Reis 15:20; 2 Crônicas 16:4) e uma segunda vez por Tiglate-Pileser. (2 Reis 16:29) Estava situada a poucos quilômetros a noroeste do local de Dã, em uma pequena planície fértil e bela chamada Merj’ Ayun."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 15:20",
+        "original": "1 Kings 15:20"
+      },
+      {
+        "reference": "2 Kings 15:29",
+        "original": "2 Kings 15:29"
+      },
+      {
+        "reference": "2 Chronicles 16:4",
+        "original": "2 Chronicles 16:4"
+      },
+      {
+        "reference": "2 Kings 16:29",
+        "original": "2 Kings 16:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ikkesh": {
+    "name": "Iques",
+    "slug": "ikkesh",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(perverso), o pai de Ira, o tecoíta. (2 Samuel 23:26; 1 Crônicas 11:28; 27:9) (A.C. antes de 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:26",
+        "original": "2 Samuel 23:26"
+      },
+      {
+        "reference": "1 Chronicles 11:28",
+        "original": "1 Chronicles 11:28"
+      },
+      {
+        "reference": "1 Chronicles 27:9",
+        "original": "1 Chronicles 27:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ilai": {
+    "name": "Ilai",
+    "slug": "ilai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um aoíta, um dos principais guerreiros de Davi (1 Cr 11:29); chamado também de Zalmom (2 Sm 23:28)."
+      },
+      {
+        "source": "SMI",
+        "text": "(exaltado), um aoíta, um dos heróis da guarda de Davi (1 Crônicas 11:29) (A.C. 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:29",
+        "original": "1 Chr. 11:29"
+      },
+      {
+        "reference": "2 Samuel 23:28",
+        "original": "2 Sam. 23:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "illyricum": {
+    "name": "Ilírico",
+    "slug": "illyricum",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um país a noroeste da Macedônia, nas costas orientais do Adriático, agora quase inteiramente compreendido na Dalmácia, um nome anteriormente dado à parte sul do Ilírico (2 Tm 4:10). Foi atravessado por Paulo em sua terceira viagem missionária (Rm 15:19). Foi o distrito mais distante que ele alcançou na pregação do evangelho de Cristo. Essa referência ao Ilírico está em harmonia com Atos 20:2, na medida em que a jornada do apóstolo pelas partes da Macedônia o levaria às fronteiras do Ilírico."
+      },
+      {
+        "source": "SMI",
+        "text": "um vasto distrito ao longo da costa oriental do Adriático, desde a fronteira da Itália ao norte, até o Epiro ao sul, e contíguo à Mésia e Macedônia ao leste. (Romanos 6:19)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 4:10",
+        "original": "2 Tim. 4:10"
+      },
+      {
+        "reference": "Romans 15:19",
+        "original": "Rom. 15:19"
+      },
+      {
+        "reference": "Acts 20:2",
+        "original": "Acts 20:2"
+      },
+      {
+        "reference": "Romans 6:19",
+        "original": "Romans 6:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "image": {
+    "name": "Imagem",
+    "slug": "image",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Ídolo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "imagery": {
+    "name": "Imaginação",
+    "slug": "imagery",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Apenas na frase “câmaras de suas imagens” (Ez 8:12). (Veja CÂMARA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 8:12",
+        "original": "Ezek. 8:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "imla": {
+    "name": "Imla",
+    "slug": "imla",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aquele que enche, o pai de Micaías, o profeta (2 Cr. 18:7, 8)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quem Deus encherá), pai ou progenitor do profeta Micaías. (2 Crônicas 18:7,8) A forma IMLÁ é empregada na narrativa paralela. (1 Reis 12:8,9) (A.C. antes de 896.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 18:7",
+        "original": "2 Chr. 18:7"
+      },
+      {
+        "reference": "2 Chronicles 18:8",
+        "original": "2 Chr. 18:8"
+      },
+      {
+        "reference": "1 Kings 12:8",
+        "original": "1 Kings 12:8"
+      },
+      {
+        "reference": "1 Kings 12:9",
+        "original": "1 Kings 12:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "immer": {
+    "name": "Imer",
+    "slug": "immer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tagarela. (1.) O chefe da décima sexta ordem sacerdotal (1 Cr. 24:14). (2.) Jer. 20:1. (3.) Esdras 2:37; Neemias 7:40. (4.) Esdras 2:59; Neemias 7:61. (5.) O pai de Zadoque (Neemias 3:29)."
+      },
+      {
+        "source": "SMI",
+        "text": "(tagarela)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 24:14",
+        "original": "1 Chr. 24:14"
+      },
+      {
+        "reference": "Jeremiah 20:1",
+        "original": "Jer. 20:1"
+      },
+      {
+        "reference": "Ezra 2:37",
+        "original": "Ezra 2:37"
+      },
+      {
+        "reference": "Nehemiah 7:40",
+        "original": "Neh. 7:40"
+      },
+      {
+        "reference": "Ezra 2:59",
+        "original": "Ezra 2:59"
+      },
+      {
+        "reference": "Nehemiah 7:61",
+        "original": "Neh. 7:61"
+      },
+      {
+        "reference": "Nehemiah 3:29",
+        "original": "Neh. 3:29"
+      },
+      {
+        "reference": "1 Chronicles 9:12",
+        "original": "1 Chronicles 9:12"
+      },
+      {
+        "reference": "Nehemiah 11:13",
+        "original": "Nehemiah 11:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "immortality": {
+    "name": "Imortalidade",
+    "slug": "immortality",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Perpetuidade da existência. A doutrina da imortalidade é ensinada no Antigo Testamento. Ela é claramente implícita nos escritos de Moisés (Gên. 5:22, 24; 25:8; 37:35; 47:9; 49:29, comp. Heb. 11:13-16; Êx. 3:6, comp. Mat. 22:23). É ensinada de forma mais clara e completa nos livros posteriores (Is. 14:9; Sl. 17:15; 49:15; 73:24). Era, portanto, uma doutrina obviamente bem conhecida pelos judeus. Com a revelação completa do evangelho, essa doutrina foi “trazida à luz” (2 Tim. 1:10; 1 Cor. 15; 2 Cor. 5:1-6; 1 Tes. 4:13-18)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 5:22",
+        "original": "Gen. 5:22"
+      },
+      {
+        "reference": "Genesis 5:24",
+        "original": "Gen. 5:24"
+      },
+      {
+        "reference": "Hebrews 11:13-16",
+        "original": "Heb. 11:13-16"
+      },
+      {
+        "reference": "Exodus 3:6",
+        "original": "Ex. 3:6"
+      },
+      {
+        "reference": "Matthew 22:23",
+        "original": "Matt. 22:23"
+      },
+      {
+        "reference": "Isaiah 14:9",
+        "original": "Isa. 14:9"
+      },
+      {
+        "reference": "Psalms 17:15",
+        "original": "Ps. 17:15"
+      },
+      {
+        "reference": "Psalms 49:15",
+        "original": "Ps 49:15"
+      },
+      {
+        "reference": "Psalms 73:24",
+        "original": "Ps 73:24"
+      },
+      {
+        "reference": "2 Timothy 1:10",
+        "original": "2 Tim. 1:10"
+      },
+      {
+        "reference": "1 Corinthians 15",
+        "original": "1 Cor. 15"
+      },
+      {
+        "reference": "2 Corinthians 5:1-6",
+        "original": "2 Cor. 5:1-6"
+      },
+      {
+        "reference": "1 Thessalonians 4:13-18",
+        "original": "1 Thess. 4:13-18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "imna": {
+    "name": "Imna",
+    "slug": "imna",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(detendo), um descendente de Aser, filho de Helem. (1 Crônicas 7:35) comp. 1Cr 7:40 (A.C. cerca de 1461.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:35",
+        "original": "1 Chronicles 7:35"
+      },
+      {
+        "reference": "1 Chronicles 7:40",
+        "original": "1Chr 7:40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "imnah": {
+    "name": "Imna",
+    "slug": "imnah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(detendo)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      },
+      {
+        "reference": "2 Chronicles 31:14",
+        "original": "2 Chronicles 31:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "imputation": {
+    "name": "Imputação",
+    "slug": "imputation",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "É usado para designar qualquer ação, palavra ou coisa contada a uma pessoa. Assim, na linguagem doutrinária: (1) o pecado de Adão é imputado a todos os seus descendentes, isto é, é considerado deles, e por isso são tratados como culpados; (2) a justiça de Cristo é imputada àqueles que nele creem, ou atribuída a eles de tal modo que é considerada sua própria; e (3) os nossos pecados são imputados a Cristo, isto é, ele assumiu o nosso “lugar legal”, comprometeu-se a responder às exigências da justiça pelos nossos pecados. Em todos esses casos, a natureza da imputação é a mesma (Rom. 5:12-19; comp. Filemom 1:18, 19)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 5:12-19",
+        "original": "Rom. 5:12-19"
+      },
+      {
+        "reference": "Philemon 1:1",
+        "original": "Philemon 1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "imrah": {
+    "name": "Imra",
+    "slug": "imrah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(obstinado), um descendente de Aser, da família de Zofar (1 Crônicas 7:36) (A.C. depois de 1445.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:36",
+        "original": "1 Chronicles 7:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "incense": {
+    "name": "Incenso",
+    "slug": "incense",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma composição perfumada preparada pela “arte do boticário”. Consistia em quatro ingredientes “moídos finamente” (Êx. 30:34-36). Aquilo que não era assim preparado era chamado de “incenso estranho” (30:9). Era oferecido juntamente com cada oferta de manjares; e, além disso, era oferecido diariamente no altar de ouro no lugar santo, e no grande dia da expiação era queimado pelo sumo sacerdote no santo dos santos (30:7, 8). Era o símbolo da oração (Sl. 141:1, 2; Apo. 5:8; 8:3, 4)."
+      },
+      {
+        "source": "SMI",
+        "text": "do latim “queimar”, “uma mistura de gomas ou especiarias e coisas semelhantes, usada com o propósito de produzir um perfume quando queimada;” ou o próprio perfume das especiarias, etc., queimado em adoração. O incenso usado no serviço do tabernáculo era composto pelos perfumes estoraque, ônica, gálbano e incenso puro. Todo incenso que não fosse feito desses ingredientes era proibido de ser oferecido. (Êxodo 30:9) Arão, como sumo sacerdote, foi originalmente designado para oferecer incenso cada manhã e tarde. Os tempos de oferta de incenso foram especificados nas instruções dadas primeiramente a Moisés. (Êxodo 30:7,8) Quando o sacerdote entrava no lugar santo com o incenso, todo o povo era removido do templo, e de entre o pórtico e o altar. Cf. (Lucas 1:10) Observava-se profundo silêncio entre a congregação que estava orando do lado de fora, cf. (Apocalipse 8:1) e, ao sinal do sumo sacerdote, o sacerdote lançava o incenso sobre o fogo e, curvando-se reverentemente em direção ao santo dos santos, retirava-se lentamente de costas. A oferta de incenso fez parte das cerimônias religiosas da maioria das nações antigas. Foi um elemento na adoração idólatra dos israelitas. (2 Crônicas 34:25; Jeremias 11:12,17; 48:35) Parece ser simbólico, não de si mesmo, mas daquilo que torna aceitável, a intercessão de Cristo. Em (Apocalipse 8:3,4) o incenso é algo distinto de, oferecido com as orações de, todos os santos cf. (Lucas 1:10) e em Apo. 6:8 são as taças de ouro, e não os odores ou incenso, que se diz serem as orações dos santos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:34-36",
+        "original": "Ex. 30:34-36"
+      },
+      {
+        "reference": "Psalms 141:1",
+        "original": "Ps. 141:1"
+      },
+      {
+        "reference": "Psalms 141:2",
+        "original": "Ps 141:2"
+      },
+      {
+        "reference": "Revelation 5:8",
+        "original": "Rev. 5:8"
+      },
+      {
+        "reference": "Revelation 8:3",
+        "original": "Rev 8:3"
+      },
+      {
+        "reference": "Revelation 8:4",
+        "original": "Rev 8:4"
+      },
+      {
+        "reference": "Exodus 30:9",
+        "original": "Exodus 30:9"
+      },
+      {
+        "reference": "Exodus 30:7",
+        "original": "Exodus 30:7"
+      },
+      {
+        "reference": "Exodus 30:8",
+        "original": "Exodus 30:8"
+      },
+      {
+        "reference": "Luke 1:10",
+        "original": "Luke 1:10"
+      },
+      {
+        "reference": "Revelation 8:1",
+        "original": "Revelation 8:1"
+      },
+      {
+        "reference": "2 Chronicles 34:25",
+        "original": "2 Chronicles 34:25"
+      },
+      {
+        "reference": "Jeremiah 11:12",
+        "original": "Jeremiah 11:12"
+      },
+      {
+        "reference": "Jeremiah 11:17",
+        "original": "Jeremiah 11:17"
+      },
+      {
+        "reference": "Jeremiah 48:35",
+        "original": "Jeremiah 48:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "india": {
+    "name": "Índia",
+    "slug": "india",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocorre apenas em Ester 1:1 e 8:9, onde a extensão do domínio do rei persa é descrita. O país assim designado aqui não é a península do Industão, mas o país que circunda o Indo, o Panjabe. O povo e os produtos da Índia eram bem conhecidos pelos judeus, que parecem ter mantido um comércio ativo com aquele país (Ezeq. 27:15, 24)."
+      },
+      {
+        "source": "SMI",
+        "text": "O nome Índia não ocorre na Bíblia antes do livro de Ester, onde é notado como o limite dos territórios de Assuero no leste, assim como a Etiópia era no oeste. (Ester 1:1; 8:9) A Índia do livro de Ester não é a península do Industão, mas o país que circunda o Indo, o Panjabe e talvez Sinde. O povo e as produções daquele país devem ter sido toleravelmente bem conhecidos pelos judeus. Um comércio ativo era mantido entre a Índia e a Ásia ocidental. O comércio aberto por Salomão com Ofir através do Mar Vermelho consistia principalmente de artigos indianos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 1:1",
+        "original": "Esther 1:1"
+      },
+      {
+        "reference": "Ezekiel 27:15",
+        "original": "Ezek. 27:15"
+      },
+      {
+        "reference": "Ezekiel 27:24",
+        "original": "Ezek. 27:24"
+      },
+      {
+        "reference": "Esther 8:9",
+        "original": "Esther 8:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "inspiration": {
+    "name": "Inspiração",
+    "slug": "inspiration",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aquela influência divina extraordinária ou sobrenatural concedida àqueles que escreveram as Sagradas Escrituras, tornando seus escritos infalíveis. “Toda a Escritura é divinamente inspirada” (na Versão Revisada: “Toda escritura inspirada por Deus”), 2 Timóteo 3:16. Isso é verdade para todos os “escritos sagrados”, não no sentido de serem obras de gênio ou de percepção sobrenatural, mas como “teopneustos”, isto é, “soprados por Deus”, de tal modo que os escritores foram sobrenaturalmente guiados a expressar exatamente o que Deus pretendia que expressassem como uma revelação de Sua mente e vontade. O testemunho dos próprios escritores sagrados demonstra abundantemente esta verdade; e se eles são infalíveis como mestres da doutrina, então a doutrina da inspiração plenária deve ser aceita. Não há erros na Bíblia tal como veio de Deus; nenhum jamais foi provado existir. Dificuldades e fenômenos que não podemos explicar não são erros. Todos esses livros do Antigo e do Novo Testamento são inspirados. Não dizemos que eles contêm, mas que eles são a Palavra de Deus. O dom da inspiração tornou os escritores órgãos de Deus para a comunicação infalível de Sua mente e vontade, da própria maneira e nas próprias palavras em que foi originalmente dada. Quanto à natureza da inspiração, não temos informações. Apenas sabemos isto: ela tornou os escritores infalíveis. Eles foram todos igualmente inspirados e são todos igualmente infalíveis. A inspiração dos escritores sagrados não mudou seus caracteres. Eles retiveram todas as suas peculiaridades individuais como pensadores ou escritores. (Veja BÍBLIA; PALAVRA DE DEUS.)"
+      },
+      {
+        "source": "SMI",
+        "text": "O Dr. Knapp define inspiração como “uma agência divina extraordinária sobre os mestres enquanto dão instrução, seja oral ou escrita, pela qual eles foram ensinados o que e como deveriam escrever ou falar”. Sem decidir sobre as várias teorias da inspiração, a doutrina geral dos cristãos é que a Bíblia é tão inspirada por Deus que é o guia infalível dos homens, e é perfeitamente confiável em todas as suas partes, tal como foi dada por Deus."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 3:16",
+        "original": "2 Tim. 3:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "instant-instantly": {
+    "name": "Instante, Instantaneamente",
+    "slug": "instant-instantly",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Na Versão Autorizada, significa urgente, urgentemente ou fervorosamente, como pode ser visto nas seguintes passagens: (Lucas 7:4; 23:23; Atos 26:7; Romanos 12:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 7:4",
+        "original": "Luke 7:4"
+      },
+      {
+        "reference": "Luke 23:23",
+        "original": "Luke 23:23"
+      },
+      {
+        "reference": "Acts 26:7",
+        "original": "Acts 26:7"
+      },
+      {
+        "reference": "Romans 12:12",
+        "original": "Romans 12:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "intercession-of-christ": {
+    "name": "Intercessão de Cristo",
+    "slug": "intercession-of-christ",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O ofício sacerdotal de Cristo consiste nestas duas partes: (1) o oferecimento de si mesmo como sacrifício, e (2) a intercessão contínua por nós. Quando estava na terra, Ele fez intercessão pelo Seu povo (Lucas 23:34; João 17:20; Hebreus 5:7); mas agora Ele exerce essa função do Seu sacerdócio no céu, onde se diz que Ele aparece na presença de Deus por nós (Hebreus 9:12, 24). Sua advocacia junto ao Pai pelo Seu povo descansa na base do Seu próprio sacrifício todo-perfeito. Assim, Ele intercede por nós e obtém o cumprimento de todas as promessas da aliança eterna (1 João 2:1; João 17:24; Hebreus 7:25). Ele pode compadecer-se das nossas fraquezas e é um sumo sacerdote fiel e misericordioso (Hebreus 2:17, 18; 4:15, 16). Esta intercessão é uma parte essencial da Sua obra mediadora. Por meio d'Ele, temos “acesso” ao Pai (João 14:6; Efésios 2:18; 3:12). “A comunhão do Seu povo com o Pai será sempre sustentada por meio d'Ele como Sacerdote mediador” (Salmos 110:4; Apocalipse 7:17)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 23:34",
+        "original": "Luke 23:34"
+      },
+      {
+        "reference": "John 17:20",
+        "original": "John 17:20"
+      },
+      {
+        "reference": "Hebrews 5:7",
+        "original": "Heb. 5:7"
+      },
+      {
+        "reference": "Hebrews 9:12",
+        "original": "Heb. 9:12"
+      },
+      {
+        "reference": "Hebrews 9:24",
+        "original": "Heb. 9:24"
+      },
+      {
+        "reference": "1 John 2:1",
+        "original": "1 John 2:1"
+      },
+      {
+        "reference": "John 17:24",
+        "original": "John 17:24"
+      },
+      {
+        "reference": "Hebrews 7:25",
+        "original": "Heb. 7:25"
+      },
+      {
+        "reference": "Hebrews 2:17",
+        "original": "Heb. 2:17"
+      },
+      {
+        "reference": "Hebrews 2:18",
+        "original": "Heb. 2:18"
+      },
+      {
+        "reference": "John 14:6",
+        "original": "John 14:6"
+      },
+      {
+        "reference": "Ephesians 2:18",
+        "original": "Eph. 2:18"
+      },
+      {
+        "reference": "Ephesians 3:12",
+        "original": "Eph 3:12"
+      },
+      {
+        "reference": "Psalms 110:4",
+        "original": "Ps. 110:4"
+      },
+      {
+        "reference": "Revelation 7:17",
+        "original": "Rev. 7:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "intercession-of-the-spirit": {
+    "name": "Intercessão do Espírito",
+    "slug": "intercession-of-the-spirit",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Romanos 8:26, 27; João 14:26). “Cristo é um Sacerdote real (Zacarias 6:13). Do mesmo trono, como Rei, Ele dispensa Seu Espírito a todos os objetos do Seu cuidado, enquanto como Sacerdote Ele intercede por eles. O Espírito age por Ele, tomando apenas o que é d'Ele. Ambos agem com um só consentimento, Cristo como principal, o Espírito como Seu agente. Cristo intercede por nós, fora de nós, como nosso advogado no céu, de acordo com as disposições da aliança eterna. O Espírito Santo opera em nossas mentes e corações, iluminando e vivificando, e assim determinando nossos desejos ’segundo a vontade de Deus’, como nosso advogado dentro de nós. A obra de um é complementar à do outro, e juntos eles formam um todo completo.”, Outlines of Theology de Hodge."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 8:26",
+        "original": "Rom. 8:26"
+      },
+      {
+        "reference": "Romans 8:27",
+        "original": "Rom. 8:27"
+      },
+      {
+        "reference": "John 14:26",
+        "original": "John 14:26"
+      },
+      {
+        "reference": "Zechariah 6:13",
+        "original": "Zech. 6:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "iphedeiah": {
+    "name": "Ifedeias",
+    "slug": "iphedeiah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Libertado por Jeová, um chefe da tribo de Benjamim (1 Crônicas 8:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová liberta), um descendente de Benjamim, um dos Bene-Sasaque. (1 Crônicas 8:25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:25",
+        "original": "1 Chr. 8:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ir": {
+    "name": "Ir",
+    "slug": "ir",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade). (1 Crônicas 7:12) [Iri]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:12",
+        "original": "1 Chronicles 7:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ira": {
+    "name": "Ira",
+    "slug": "ira",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidadão; vigilante. (1) Um tecoíta, um dos trinta guerreiros de Davi (2 Samuel 23:26). (2) Um itrita, também um dos heróis de Davi (2 Samuel 23:38). (3) Um jairita e sacerdote, um capelão real (2 Samuel 20:26) ou conselheiro confidencial (comp. 2 Samuel 8:18; 1 Crônicas 18:17)."
+      },
+      {
+        "source": "SMI",
+        "text": "(vigilante de uma cidade)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:26",
+        "original": "2 Sam. 23:26"
+      },
+      {
+        "reference": "2 Samuel 23:38",
+        "original": "2 Sam. 23:38"
+      },
+      {
+        "reference": "2 Samuel 20:26",
+        "original": "2 Sam. 20:26"
+      },
+      {
+        "reference": "2 Samuel 8:18",
+        "original": "2 Sam. 8:18"
+      },
+      {
+        "reference": "1 Chronicles 18:17",
+        "original": "1 Chr. 18:17"
+      },
+      {
+        "reference": "1 Chronicles 11:40",
+        "original": "1 Chronicles 11:40"
+      },
+      {
+        "reference": "1 Chronicles 11:28",
+        "original": "1 Chronicles 11:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irad": {
+    "name": "Irade",
+    "slug": "irad",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Corredor; jumento selvagem, um dos patriarcas antediluvianos, o pai de Meujael (Gênesis 4:18), e neto de Caim."
+      },
+      {
+        "source": "SMI",
+        "text": "(veloz), filho de Enoque; neto de Caim e pai de Meujael. (Gênesis 4:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:18",
+        "original": "Gen. 4:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iram": {
+    "name": "Irom",
+    "slug": "iram",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidadão, chefe de uma tribo edomita no monte Seir (Gênesis 36:43)."
+      },
+      {
+        "source": "SMI",
+        "text": "(pertencente a uma cidade), um líder dos edomitas, (Gênesis 36:43; 1 Crônicas 1:54) isto é, o chefe de uma família ou tribo. Nenhuma identificação dele foi encontrada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:43",
+        "original": "Gen. 36:43"
+      },
+      {
+        "reference": "1 Chronicles 1:54",
+        "original": "1 Chronicles 1:54"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irha-heres": {
+    "name": "Ir-Haeres",
+    "slug": "irha-heres",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De acordo com alguns manuscritos, significa “cidade da destruição”. Outros manuscritos leem ’Irhahares; traduzido como “cidade do sol”, Isaías 19:18, onde a palavra ocorre apenas uma vez. Este nome pode provavelmente referir-se a Heliópolis. A profecia aqui aponta para um tempo em que os judeus aumentariam tanto em número ali que a cidade cairia sob sua influência. Isso pode ter ocorrido no tempo dos Ptolomeus. (Veja ON.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 19:18",
+        "original": "Isa. 19:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "iri": {
+    "name": "Iri",
+    "slug": "iri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "ou Ir (pertencente a uma cidade), um benjamita, filho de Bela. (1 Crônicas 7:7, 12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chronicles 7:7"
+      },
+      {
+        "reference": "1 Chronicles 7:12",
+        "original": "1 Chronicles 7:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irijah": {
+    "name": "Irijás",
+    "slug": "irijah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(visto pelo Senhor), filho de Selemias, um capitão da guarda, que encontrou Jeremias na porta de Jerusalém chamada “porta de Benjamim”, acusou-o de estar prestes a desertar para os caldeus e conduziu-o de volta aos príncipes. (Jeremias 37:13, 14) (589 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 37:13",
+        "original": "Jeremiah 37:13"
+      },
+      {
+        "reference": "Jeremiah 37:14",
+        "original": "Jeremiah 37:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irnahash": {
+    "name": "Ir-Naás",
+    "slug": "irnahash",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade da serpente), um nome que, como muitos outros nomes de lugares, ocorre nas listas genealógicas de Judá. (1 Crônicas 4:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:12",
+        "original": "1 Chronicles 4:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irpeel": {
+    "name": "Irpeel",
+    "slug": "irpeel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Deus cura), uma das cidades de Benjamim. (Josué 18:27) Nenhum vestígio foi descoberto ainda de sua localização."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:27",
+        "original": "Joshua 18:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "irrigation": {
+    "name": "Irrigação",
+    "slug": "irrigation",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como os riachos eram escassos na Palestina, a água geralmente era armazenada no inverno em reservatórios e distribuída pelos jardins em numerosos regos, que podiam ser facilmente desviados ou direcionados com o pé (Dt 11:10). Para fins de irrigação, a água era retirada de riachos ou poças por meio de rodas d'água ou por um shaduf, comumente usado nas margens do Nilo até os dias de hoje."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 11:10",
+        "original": "Deut. 11:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "irshemesh": {
+    "name": "Irshemesh",
+    "slug": "irshemesh",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(cidade do sol), uma cidade dos danitas (Josué 19:41), provavelmente idêntica a Bete-Semes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:41",
+        "original": "Joshua 19:41"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iru": {
+    "name": "Iru",
+    "slug": "iru",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(vigia), o filho mais velho do grande Calebe, filho de Jefoné. (1 Crônicas 4:15) (a.C. 1451)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:15",
+        "original": "1 Chronicles 4:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "isaac": {
+    "name": "Isaque",
+    "slug": "isaac",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Riso. (1) Israel, ou o reino das dez tribos (Amós 7:9, 16). (2) O único filho de Abraão com Sara. Ele foi o mais longevo dos três patriarcas (Gn 21:1-3). Foi circuncidado com oito dias de vida (4-7); e quando tinha provavelmente dois anos de idade, um grande banquete foi realizado por ocasião de seu desmame. O próximo evento memorável em sua vida é o relacionado à ordem de Deus dada a Abraão para oferecê-lo em sacrifício em uma montanha na terra de Moriá (Gn 22). (Veja ABRAÃO.) Quando tinha quarenta anos, Rebeca foi escolhida para ser sua esposa (Gn 24). Após a morte e sepultamento de seu pai, ele fixou residência em Beer-Laai-Rói (25:7-11), onde nasceram seus dois filhos, Esaú e Jacó (21-26), sendo o primeiro aparentemente seu filho favorito (27, 28). Devido a uma fome (Gn 26:1), Isaque foi para Gerar, onde praticou o engano quanto ao seu relacionamento com Rebeca, imitando a conduta de seu pai no Egito (12:12-20) e em Gerar (20:2). O rei filisteu repreendeu-o por sua tergiversação. Após residir por algum tempo na terra dos filisteus, ele retornou a Berseba, onde Deus lhe deu nova garantia da bênção da aliança, e onde Abimeleque celebrou um pacto de paz com ele. O próximo evento principal em sua vida foi a bênção de seus filhos (Gn 27:1). Morreu em Manre, \"velho e farto de dias\" (35:27-29), com cento e oitenta anos, e foi sepultado na caverna de Macpela. No Novo Testamento, faz-se referência ao fato de ele ter sido \"oferecido\" por seu pai (Hb 11:17; Tg 2:21), e à bênção que deu aos seus filhos (Hb 11:20). Como o filho da promessa, ele é contrastado com Ismael (Rm 9:7, 10; Gl 4:28; Hb 11:18). Isaque é \"ao mesmo tempo uma contraparte de seu pai na devoção simples e pureza de vida, e um contraste em sua fraqueza passiva de caráter, que em parte, pelo menos, pode ter surgido de suas relações com sua mãe e esposa. Após a expulsão de Ismael e Hagar, Isaque não teve competidor e cresceu à sombra da tenda de Sara, moldado em uma suavidade feminina pela submissão habitual à sua forte e amorosa vontade\". Sua vida foi tão tranquila e sem incidentes que foi passada \"dentro do círculo de poucos quilômetros; tão ingênuo que deixou Jacó superá-lo em vez de descreer de suas garantias; tão terno que a morte de sua mãe foi a dor pungente de anos; tão paciente e gentil que a paz com seus vizinhos era mais valiosa até mesmo do que uma possessão tão cobiçada quanto um poço de água viva cavado por seus próprios homens; tão grandemente obediente que colocou sua vida à disposição de seu pai; tão firme em sua confiança em Deus que sua maior preocupação ao longo da vida era honrar a promessa divina feita à sua linhagem.\""
+      },
+      {
+        "source": "SMI",
+        "text": "(riso), o filho que Sara deu à luz a Abraão, no centésimo ano de sua idade, em Gerar. (a.C. 1897.) Em sua infância tornou-se objeto do ciúme de Ismael; e em sua juventude, a vítima, na intenção, do grande ato sacrificial de fé de Abraão. Quando tinha quarenta anos, casou-se com sua prima Rebeca, de quem, aos sessenta anos, teve dois filhos, Esaú e Jacó. Levado pela fome a Gerar, adquiriu grande riqueza com seus rebanhos, mas foi repetidamente despojado pelos filisteus dos poços que cavava em estações convenientes. Após o engano pelo qual Jacó adquiriu a bênção de seu pai, Isaque enviou seu filho para procurar uma esposa em Padã-Arã; e tudo o que sabemos sobre ele durante os últimos quarenta e três anos de sua vida é que ele viu Deus devolver-lhe uma família grande e próspera em Hebrom (Gênesis 36:27), antes de morrer ali, com a idade de 180 anos. Foi sepultado por seus dois filhos na caverna de Macpela. No Novo Testamento, faz-se referência ao oferecimento de Isaque (Hebreus 11:17; Tiago 2:21) e à bênção de seus filhos (Hebreus 11:20). Em (Gálatas 4:28-31), ele é contrastado com Ismael. Com referência ao oferecimento de Isaque por Abraão, a doutrina primária ensinada é a do sacrifício e substituição, como os meios designados por Deus para remover o pecado; e, como coordenada a essas, a necessidade da obediência da fé, por parte do homem, para receber o benefício (Hebreus 11:17). O animal que Deus proveu e Abraão ofereceu foi, em toda a história do sacrifício, o tipo reconhecido do \"Cordeiro de Deus, que tira os pecados do mundo\". Isaque é o tipo da própria humanidade, dedicada à morte pelo pecado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Amos 7:9",
+        "original": "Amos 7:9"
+      },
+      {
+        "reference": "Amos 7:16",
+        "original": "Amos 7:16"
+      },
+      {
+        "reference": "Genesis 21:1-3",
+        "original": "Gen. 21:1-3"
+      },
+      {
+        "reference": "Genesis 22",
+        "original": "Gen. 22"
+      },
+      {
+        "reference": "Genesis 24",
+        "original": "Gen. 24"
+      },
+      {
+        "reference": "Genesis 26:1",
+        "original": "Gen. 26:1"
+      },
+      {
+        "reference": "Genesis 27:1",
+        "original": "Gen. 27:1"
+      },
+      {
+        "reference": "Hebrews 11:17",
+        "original": "Heb. 11:17"
+      },
+      {
+        "reference": "James 2:21",
+        "original": "James 2:21"
+      },
+      {
+        "reference": "Hebrews 11:20",
+        "original": "Heb. 11:20"
+      },
+      {
+        "reference": "Romans 9:7",
+        "original": "Rom. 9:7"
+      },
+      {
+        "reference": "Romans 9:10",
+        "original": "Rom. 9:10"
+      },
+      {
+        "reference": "Galatians 4:28",
+        "original": "Gal. 4:28"
+      },
+      {
+        "reference": "Hebrews 11:18",
+        "original": "Heb. 11:18"
+      },
+      {
+        "reference": "Genesis 36:27",
+        "original": "Genesis 36:27"
+      },
+      {
+        "reference": "Galatians 4:28-31",
+        "original": "Galatians 4:28-31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "isaiah": {
+    "name": "Isaías",
+    "slug": "isaiah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. Yesh'yahu, i.e., \"a salvação de Jeová\"). (1) O filho de Amós (Is 1:1; 2:1), que aparentemente era um homem de posição humilde. Sua esposa era chamada \"a profetisa\" (8:3), seja porque era dotada do dom profético, como Débora (Jz 4:4) e Hulda (2 Rs 22:14-20), ou simplesmente porque era esposa \"do profeta\" (Is 38:1). Ele teve dois filhos, que levavam nomes simbólicos. Exerceu as funções de seu ofício durante os reinados de Uzias (ou Azarias), Jotão, Acaz e Ezequias (1:1). Uzias reinou cinquenta e dois anos (a.C. 810-759), e Isaías deve ter iniciado sua carreira alguns anos antes da morte de Uzias, provavelmente em a.C. 762. Viveu até o décimo quarto ano de Ezequias e, com toda probabilidade, sobreviveu àquele monarca (que morreu em a.C. 698), e pode ter sido contemporâneo por alguns anos de Manassés. Assim, Isaías pode ter profetizado por um longo período de pelo menos sessenta e quatro anos. Seu primeiro chamado ao ofício profético não está registrado. Um segundo chamado veio a ele \"no ano em que morreu o rei Uzias\" (Is 6:1). Exerceu seu ministério em um espírito de firmeza e audácia intransigentes em relação a tudo o que dizia respeito aos interesses da religião. Ele não oculta nada e não retém nada por medo do homem. Ele também era notado por sua espiritualidade e por sua profunda reverência para com \"o Santo de Israel\". Na juventude, Isaías deve ter sido movido pela invasão de Israel pelo monarca assírio Pul (q.v.), 2 Rs 15:19; e novamente, vinte anos depois, quando já havia entrado em seu ofício, pela invasão de Tiglate-Pileser e sua carreira de conquista. Acaz, rei de Judá, nesta crise recusou-se a cooperar com os reis de Israel e da Síria em oposição aos assírios, e por isso foi atacado e derrotado por Rezim de Damasco e Peca de Samaria (2 Rs 16:5; 2 Cr 28:5, 6). Acaz, assim humilhado, aliou-se à Assíria e buscou a ajuda de Tiglate-Pileser contra Israel e Síria. A consequência foi que Rezim e Peca foram conquistados e muitos do povo foram levados cativos para a Assíria (2 Rs 15:29; 16:9; 1 Cr 5:26). Logo após isso, Salmaneser determinou submeter totalmente o reino de Israel. Samaria foi tomada e destruída (a.C. 722). Enquanto Acaz reinou, o reino de Judá não foi molestado pelo poder assírio; mas na sua ascensão ao trono, Ezequias (a.C. 726), que \"rebelou-se contra o rei da Assíria\" (2 Rs 18:7), no qual foi encorajado por Isaías, que exortou o povo a colocar toda a sua dependência em Jeová (Is 10:24; 37:6), entrou em uma aliança com o rei do Egito (Is 30:2-4). Isso levou o rei da Assíria a ameaçar o rei de Judá e, finalmente, a invadir a terra. Senaqueribe (a.C. 701) liderou um poderoso exército para a Palestina. Ezequias foi reduzido ao desespero e submeteu-se aos assírios (2 Rs 18:14-16). Mas após um breve intervalo, a guerra eclodiu novamente, e novamente Senaqueribe (q.v.) liderou um exército para a Palestina, um destacamento do qual ameaçou Jerusalém (Is 36:2-22; 37:8). Isaías, naquela ocasião, encorajou Ezequias a resistir aos assírios (37:1-7), após o que Senaqueribe enviou uma carta ameaçadora a Ezequias, que ele \"estendeu perante o Senhor\" (37:14). O juízo de Deus caiu então sobre o exército assírio. \"Como Xerxes na Grécia, Senaqueribe nunca se recuperou do choque do desastre em Judá. Ele não fez mais expedições contra o sul da Palestina ou o Egito\". Os anos restantes do reinado de Ezequias foram pacíficos (2 Cr 32:23, 27-29). Isaías provavelmente viveu até o fim, e possivelmente até o reinado de Manassés, mas o tempo e a maneira de sua morte são desconhecidos. Há uma tradição de que ele sofreu o martírio na reação pagã no tempo de Manassés (q.v.). (2) Um dos chefes dos cantores no tempo de Davi (1 Cr 25:3, 15, \"Jesaías\"). (3) Um levita (1 Cr 26:25). (4) Esdras 8:7. (5) Neemias 11:7."
+      },
+      {
+        "source": "SMI",
+        "text": "o profeta, filho de Amós. O nome hebraico significa Salvação de Iahu (uma forma abreviada de Jeová). Ele profetizou sobre Judá e Jerusalém nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá (Isaías 1:1), cobrindo provavelmente de 758 a 698 a.C. Ele era casado e tinha dois filhos. A tradição rabínica diz que Isaías, quando tinha 90 anos, foi serrado ao meio no tronco de uma alfarrobeira por ordem de Manassés, ao que se supõe haver referência em (Hebreus 11:37)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 1:1",
+        "original": "Isa. 1:1"
+      },
+      {
+        "reference": "Isaiah 2:1",
+        "original": "Isa 2:1"
+      },
+      {
+        "reference": "Judges 4:4",
+        "original": "Judg. 4:4"
+      },
+      {
+        "reference": "2 Kings 22:14-20",
+        "original": "2 Kings 22:14-20"
+      },
+      {
+        "reference": "Isaiah 38:1",
+        "original": "Isa. 38:1"
+      },
+      {
+        "reference": "Isaiah 6:1",
+        "original": "Isa. 6:1"
+      },
+      {
+        "reference": "2 Kings 15:19",
+        "original": "2 Kings 15:19"
+      },
+      {
+        "reference": "2 Kings 16:5",
+        "original": "2 Kings 16:5"
+      },
+      {
+        "reference": "2 Chronicles 28:5",
+        "original": "2 Chr. 28:5"
+      },
+      {
+        "reference": "2 Chronicles 28:6",
+        "original": "2 Chr. 28:6"
+      },
+      {
+        "reference": "2 Kings 15:29",
+        "original": "2 Kings 15:29"
+      },
+      {
+        "reference": "2 Kings 16:9",
+        "original": "2 Kings 16:9"
+      },
+      {
+        "reference": "1 Chronicles 5:26",
+        "original": "1 Chr. 5:26"
+      },
+      {
+        "reference": "2 Kings 18:7",
+        "original": "2 Kings 18:7"
+      },
+      {
+        "reference": "Isaiah 10:24",
+        "original": "Isa. 10:24"
+      },
+      {
+        "reference": "Isaiah 37:6",
+        "original": "Isa 37:6"
+      },
+      {
+        "reference": "Isaiah 30:2-4",
+        "original": "Isa. 30:2-4"
+      },
+      {
+        "reference": "2 Kings 18:14-16",
+        "original": "2 Kings 18:14-16"
+      },
+      {
+        "reference": "Isaiah 36:2-22",
+        "original": "Isa. 36:2-22"
+      },
+      {
+        "reference": "Isaiah 37:8",
+        "original": "Isa 37:8"
+      },
+      {
+        "reference": "2 Chronicles 32:23",
+        "original": "2 Chr. 32:23"
+      },
+      {
+        "reference": "2 Chronicles 32:27",
+        "original": "2 Chr. 32:27"
+      },
+      {
+        "reference": "1 Chronicles 25:3",
+        "original": "1 Chr. 25:3"
+      },
+      {
+        "reference": "1 Chronicles 25:15",
+        "original": "1 Chr. 25:15"
+      },
+      {
+        "reference": "1 Chronicles 26:25",
+        "original": "1 Chr. 26:25"
+      },
+      {
+        "reference": "Ezra 8:7",
+        "original": "Ezra 8:7"
+      },
+      {
+        "reference": "Nehemiah 11:7",
+        "original": "Neh. 11:7"
+      },
+      {
+        "reference": "Hebrews 11:37",
+        "original": "Hebrews 11:37"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iscah": {
+    "name": "Iscá",
+    "slug": "iscah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Espiã, a filha de Harã e irmã de Milca e Ló (Gn 11:29, 31)."
+      },
+      {
+        "source": "SMI",
+        "text": "(aquela que olha para frente), filha de Harã, irmão de Abrão, e irmã de Milca e de Ló (Gênesis 11:29). Nas tradições judaicas, ela é identificada com Sarai. (a.C. cerca de 1920.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:29",
+        "original": "Gen. 11:29"
+      },
+      {
+        "reference": "Genesis 11:31",
+        "original": "Gen 11:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "iscariot": {
+    "name": "Iscariotes",
+    "slug": "iscariot",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Veja JUDAS.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(homem de Queriote). [Judas Iscariotes ISCARIOTES]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ish-bosheth": {
+    "name": "Is-Bosete",
+    "slug": "ish-bosheth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Homem de vergonha ou humilhação, o mais jovem dos quatro filhos de Saul, e o único que sobreviveu a ele (2 Sm 2-4). Seu nome era originalmente Esbaal (1 Cr 8:33; 9:39). Ele tinha cerca de quarenta anos quando seu pai e três irmãos caíram na batalha de Gilboa. Através da influência de Abner, primo de Saul, ele foi reconhecido como sucessor ao trono de Saul e reinou sobre todo o Israel, exceto a tribo de Judá (sobre a qual Davi era rei), por dois anos, tendo Maanaim, a leste do Jordão, como sua capital (2 Sm 2:9). Após um reinado conturbado e incerto, foi assassinado por seus guardas, que o esfaquearam enquanto dormia em seu sofá ao meio-dia (2 Sm 4:5-7); e, tendo cortado sua cabeça, apresentaram-na a Davi, que os repreendeu severamente por este assassinato a sangue frio e ordenou que fossem imediatamente executados (9-12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 2",
+        "original": "2 Sam. 2"
+      },
+      {
+        "reference": "1 Chronicles 8:33",
+        "original": "1 Chr. 8:33"
+      },
+      {
+        "reference": "1 Chronicles 9:39",
+        "original": "1 Chr. 9:39"
+      },
+      {
+        "reference": "2 Samuel 2:9",
+        "original": "2 Sam. 2:9"
+      },
+      {
+        "reference": "2 Samuel 4:5-7",
+        "original": "2 Sam. 4:5-7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "ishbah": {
+    "name": "Isba",
+    "slug": "ishbah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(louvando), um homem na linhagem de Judá, comemorado como o \"pai de Estemo\" (1 Crônicas 4:17)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:17",
+        "original": "1 Chronicles 4:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishbak": {
+    "name": "Isbaque",
+    "slug": "ishbak",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Deixando, um dos filhos de Abraão com Quetura (Gn 25:2)."
+      },
+      {
+        "source": "SMI",
+        "text": "(deixado para trás), um filho de Abraão e Quetura (Gênesis 25:2; 1 Crônicas 1:32) e o progenitor de uma tribo do norte da Arábia. (a.C. após 1856.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:2",
+        "original": "Gen. 25:2"
+      },
+      {
+        "reference": "1 Chronicles 1:32",
+        "original": "1 Chronicles 1:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishbi-benob": {
+    "name": "Isbi-Benobe",
+    "slug": "ishbi-benob",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Meu assento em Nobe, um dos refains, cuja lança pesava trezentos siclos. Ele foi morto por Abisai (2 Sm 21:16, 17)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 21:16",
+        "original": "2 Sam. 21:16"
+      },
+      {
+        "reference": "2 Samuel 21:17",
+        "original": "2 Sam. 21:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "ishbibenob": {
+    "name": "Isbibenobe",
+    "slug": "ishbibenob",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(aquele que habita em Nobe), filho de Rafa, um da raça dos gigantes filisteus, que atacou Davi em batalha, mas foi morto por Abisai (2 Samuel 21:16, 17) (a.C. 1018)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 21:16",
+        "original": "2 Samuel 21:16"
+      },
+      {
+        "reference": "2 Samuel 21:17",
+        "original": "2 Samuel 21:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishbosheth": {
+    "name": "Isbosete",
+    "slug": "ishbosheth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(homem de vergonha), o mais jovem dos quatro filhos de Saul, e seu legítimo sucessor. (a.C. 1068.) Is-Bosete tinha \"quarenta anos quando começou a reinar sobre Israel, e reinou dois anos\" (2 Samuel 3:10). Durante esses dois anos ele reinou em Maanaim, embora apenas nominalmente. As guerras e negociações com Davi foram inteiramente conduzidas por Abner (2 Samuel 2:12; 3:6, 12). A morte de Abner privou a casa de Saul de seu último apoio restante. Quando Is-Bosete ouviu sobre isso, \"suas mãos ficaram fracas, e todos os israelitas ficaram perturbados\". Ele foi assassinado em sua cama."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 3:10",
+        "original": "2 Samuel 3:10"
+      },
+      {
+        "reference": "2 Samuel 2:12",
+        "original": "2 Samuel 2:12"
+      },
+      {
+        "reference": "2 Samuel 3:6",
+        "original": "2 Samuel 3:6"
+      },
+      {
+        "reference": "2 Samuel 3:12",
+        "original": "2 Samuel 3:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishi": {
+    "name": "Ishi",
+    "slug": "ishi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Meu marido, um nome simbólico usado em Oséias 2:16 (Veja BAALI.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(meu marido). Esta palavra ocorre em (Oséias 2:16). É o termo israelita, em oposição a Baali, o termo cananeu, com o mesmo significado, embora com uma importância própria. (salutar)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 2:16",
+        "original": "Hos. 2:16"
+      },
+      {
+        "reference": "1 Chronicles 2:31",
+        "original": "1 Chronicles 2:31"
+      },
+      {
+        "reference": "1 Chronicles 4:20",
+        "original": "1 Chronicles 4:20"
+      },
+      {
+        "reference": "1 Chronicles 4:42",
+        "original": "1 Chronicles 4:42"
+      },
+      {
+        "reference": "1 Chronicles 5:24",
+        "original": "1 Chronicles 5:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishiah": {
+    "name": "Ishiah",
+    "slug": "ishiah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová empresta), o quinto dos cinco filhos de Izraías, um dos chefes da tribo de Issacar nos dias de Davi. (1 Crônicas 7:3) (a.C. 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chronicles 7:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishijah": {
+    "name": "Ishijah",
+    "slug": "ishijah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová empresta), um israelita leigo dos filhos de Harim que havia se casado com uma esposa estrangeira. (Esdras 10:31) (a.C. 459.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 10:31",
+        "original": "Ezra 10:31"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishma": {
+    "name": "Ishma",
+    "slug": "ishma",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(desolação), um nome na genealogia de Judá. (1 Crônicas 4:3)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:3",
+        "original": "1 Chronicles 4:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishmael": {
+    "name": "Ismael",
+    "slug": "ishmael",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Deus ouve. (1.) O filho mais velho de Abraão, tido com a concubina Hagar (Gênesis 16:15; 17:23). Ele nasceu em Manre, quando Abraão tinha oitenta e seis anos de idade, onze anos após sua chegada a Canaã (16:3; 21:5). Aos treze anos de idade, foi circuncidado (17:25). Cresceu como um verdadeiro filho do deserto, selvagem e obstinado. Por ocasião do desmame de Isaque, seu espírito rude e obstinado manifestou-se em expressões de insulto e zombaria (21:9, 10); e Sara, descobrindo isso, disse a Abraão: “Expulse esta escrava e seu filho”. Influenciado por uma admoestação divina, Abraão despediu Hagar e seu filho com apenas um odre de água e um pouco de pão. A narrativa que descreve este ato é um dos incidentes mais belos e comoventes da vida patriarcal (Gênesis 21:14-16). (Veja HAGAR.) Ismael estabeleceu-se na terra de Parã, uma região situada entre Canaã e as montanhas do Sinai; e “Deus estava com ele, e ele se tornou um grande arqueiro” (Gênesis 21:9-21). Ele se tornou um grande chefe do deserto, mas pouco se registra sobre sua história. Ele tinha cerca de noventa anos quando seu pai Abraão morreu, por ocasião de cujo sepultamento ele reaparece por um momento. Nesta ocasião, os dois irmãos se encontraram após terem ficado muito tempo separados. “Isaque com suas centenas de escravos domésticos, Ismael com suas tropas de seguidores selvagens e aliados semiselvagens, em toda a pompa de um príncipe beduíno, reunidos diante da caverna de Macpela, no meio dos filhos de Hete, para prestar as últimas homenagens ao ‘pai da fé’, formariam um tema notável para um artista” (Gênesis 25:9). Dos eventos posteriores de sua vida, pouco se sabe. Ele morreu com a idade de cento e trinta e sete anos, mas o local e a data são desconhecidos (25:17). Ele teve doze filhos, que se tornaram fundadores de outras tantas tribos ou colônias árabes, os ismaelitas, que se espalharam pelos vastos espaços desertos do Norte da Arábia, desde o Mar Vermelho até o Eufrates (Gênesis 37:25, 27, 28; 39:1), “sua mão contra todo homem, e a mão de todo homem contra ele”. (2.) O filho de Netanias, “da semente real” (Jeremias 40:8, 15). Ele conspirou contra Gedalias e, traiçoeiramente, matou-o e a outros. Ele levou muitos cativos “e partiu para ir aos amonitas”."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quem Deus ouve)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 16:15",
+        "original": "Gen. 16:15"
+      },
+      {
+        "reference": "Genesis 17:23",
+        "original": "Gen 17:23"
+      },
+      {
+        "reference": "Genesis 21:14-16",
+        "original": "Gen. 21:14-16"
+      },
+      {
+        "reference": "Genesis 21:9-21",
+        "original": "Gen. 21:9-21"
+      },
+      {
+        "reference": "Genesis 25:9",
+        "original": "Gen. 25:9"
+      },
+      {
+        "reference": "Genesis 37:25",
+        "original": "Gen. 37:25"
+      },
+      {
+        "reference": "Genesis 37:27",
+        "original": "Gen. 37:27"
+      },
+      {
+        "reference": "Genesis 37:28",
+        "original": "Gen. 37:28"
+      },
+      {
+        "reference": "Jeremiah 40:8",
+        "original": "Jer. 40:8"
+      },
+      {
+        "reference": "Jeremiah 40:15",
+        "original": "Jer 40:15"
+      },
+      {
+        "reference": "Genesis 16:16",
+        "original": "Genesis 16:16"
+      },
+      {
+        "reference": "Genesis 17:26",
+        "original": "Genesis 17:26"
+      },
+      {
+        "reference": "Genesis 25:17",
+        "original": "Genesis 25:17"
+      },
+      {
+        "reference": "Genesis 25:18",
+        "original": "Genesis 25:18"
+      },
+      {
+        "reference": "Genesis 39:1",
+        "original": "Genesis 39:1"
+      },
+      {
+        "reference": "Judges 8:24",
+        "original": "Judges 8:24"
+      },
+      {
+        "reference": "Psalms 83:6",
+        "original": "Psalms 83:6"
+      },
+      {
+        "reference": "1 Chronicles 8:38",
+        "original": "1 Chronicles 8:38"
+      },
+      {
+        "reference": "1 Chronicles 9:44",
+        "original": "1 Chronicles 9:44"
+      },
+      {
+        "reference": "2 Chronicles 19:11",
+        "original": "2 Chronicles 19:11"
+      },
+      {
+        "reference": "2 Chronicles 23:1",
+        "original": "2 Chronicles 23:1"
+      },
+      {
+        "reference": "Ezra 10:22",
+        "original": "Ezra 10:22"
+      },
+      {
+        "reference": "Jeremiah 40:7",
+        "original": "Jeremiah 40:7"
+      },
+      {
+        "reference": "Jeremiah 41:16",
+        "original": "Jeremiah 41:16"
+      },
+      {
+        "reference": "Jeremiah 41:1",
+        "original": "Jeremiah 41:1"
+      },
+      {
+        "reference": "Jeremiah 41:10",
+        "original": "Jeremiah 41:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishmaelite": {
+    "name": "Ismaelita",
+    "slug": "ishmaelite",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(descendente de Ismael). [Ismael]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishmaiah": {
+    "name": "Ismaías",
+    "slug": "ishmaiah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ouvido por Jeová. (1.) Um gibeonita que se juntou a Davi em Ziclague, “um herói entre os trinta e sobre os trinta” (1 Crônicas 12:4). (2.) Filho de Obadias, e vice-rei de Zebulom nos dias de Davi e Salomão (1 Crônicas 27:19)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Jeová ouve), filho de Obadias; o governante da tribo de Zebulom nos tempos do rei Davi. (1 Crônicas 27:19) (a.C. 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 12:4",
+        "original": "1 Chr. 12:4"
+      },
+      {
+        "reference": "1 Chronicles 27:19",
+        "original": "1 Chr. 27:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishmeelite": {
+    "name": "Ismeelita",
+    "slug": "ishmeelite",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(1 Crônicas 2:17) e Ismeelitas (descendentes de Ismael), (Gênesis 37:25,27,28; 39:1) a forma em que os descendentes de Ismael são citados em alguns lugares na Versão Autorizada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:17",
+        "original": "1 Chronicles 2:17"
+      },
+      {
+        "reference": "Genesis 37:25",
+        "original": "Genesis 37:25"
+      },
+      {
+        "reference": "Genesis 37:27",
+        "original": "Genesis 37:27"
+      },
+      {
+        "reference": "Genesis 37:28",
+        "original": "Genesis 37:28"
+      },
+      {
+        "reference": "Genesis 39:1",
+        "original": "Genesis 39:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishmeelites": {
+    "name": "Ismeelitas",
+    "slug": "ishmeelites",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gênesis 37:28; 39:1, V.A.) deveria ser “Ismaelitas”, conforme a Versão Revisada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 37:28",
+        "original": "Gen. 37:28"
+      },
+      {
+        "reference": "Genesis 39:1",
+        "original": "Gen 39:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "ishmerai": {
+    "name": "Ismerai",
+    "slug": "ishmerai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová guarda), um benjamita, da família de Elpaal. (1 Crônicas 8:18) (a.C. antes de 538.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:18",
+        "original": "1 Chronicles 8:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishod": {
+    "name": "Isode",
+    "slug": "ishod",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(homem de glória), um da tribo de Manassés a leste do Jordão, filho de Hamolequete. (1 Crônicas 7:18) (a.C. 1491.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:18",
+        "original": "1 Chronicles 7:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishpan": {
+    "name": "Ispã",
+    "slug": "ishpan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(calvo), um benjamita, da família de Sasaque. (1 Crônicas 8:22) (a.C. antes de 588.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:22",
+        "original": "1 Chronicles 8:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishtob": {
+    "name": "Is-Tobe",
+    "slug": "ishtob",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Homem de Tobe, um dos pequenos reinos sírios que juntos constituíam Arã (2 Samuel 10:6, 8)."
+      },
+      {
+        "source": "SMI",
+        "text": "(homens de Tobe), aparentemente um dos pequenos reinos ou estados que formavam parte do território geral de Arã, mencionado com Zobá, Reobe e Maaca. (2 Samuel 10:6,8)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 10:6",
+        "original": "2 Sam. 10:6"
+      },
+      {
+        "reference": "2 Samuel 10:8",
+        "original": "2 Sam. 10:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishuah": {
+    "name": "Isuá",
+    "slug": "ishuah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(quieto), o segundo filho de Aser. (Gênesis 46:17) (a.C. 1706.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:17",
+        "original": "Genesis 46:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishuai": {
+    "name": "Isuí",
+    "slug": "ishuai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(quieto), o terceiro filho de Aser, (1 Crônicas 7:30) fundador de uma família que levava seu nome. (Números 26:44) Versão Autorizada “Jesuítas”. (a.C. 1706.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      },
+      {
+        "reference": "Numbers 26:44",
+        "original": "Numbers 26:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ishui": {
+    "name": "Isui",
+    "slug": "ishui",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(quieto), o segundo filho de Saul com sua esposa Ainoã (1 Samuel 14:4), conf. 1Sam 14:50 (Morreu em 1053 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 14:4",
+        "original": "1 Samuel 14:4"
+      },
+      {
+        "reference": "1 Samuel 14:50",
+        "original": "1Sam 14:50"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "island": {
+    "name": "Ilha",
+    "slug": "island",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. 'i, “terra seca”, em oposição à água) ocorre em sua acepção usual (Isa. 42:4, 10, 12, 15, conf. Jer. 47:4), mas com mais frequência simplesmente denota uma região marítima ou costa (Isa. 20:6, R.V., “terra costeira”; 23:2, 6; Jer. 2:10; Eze. 27:6, 7). (Veja QUITIM.) As margens do Mediterrâneo são chamadas de “ilhas do mar” (Isa. 11:11), ou “ilhas dos gentios” (Gên. 10:5), e às vezes simplesmente “ilhas” (Sl. 72:10); Eze. 26:15, 18; 27:3, 35; Dan. 11:18)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 42:4",
+        "original": "Isa. 42:4"
+      },
+      {
+        "reference": "Isaiah 42:10",
+        "original": "Isa. 42:10"
+      },
+      {
+        "reference": "Isaiah 42:12",
+        "original": "Isa. 42:12"
+      },
+      {
+        "reference": "Isaiah 42:15",
+        "original": "Isa. 42:15"
+      },
+      {
+        "reference": "Jeremiah 47:4",
+        "original": "Jer. 47:4"
+      },
+      {
+        "reference": "Isaiah 20:6",
+        "original": "Isa. 20:6"
+      },
+      {
+        "reference": "Jeremiah 2:10",
+        "original": "Jer. 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:6",
+        "original": "Ezek. 27:6"
+      },
+      {
+        "reference": "Ezekiel 27:7",
+        "original": "Ezek. 27:7"
+      },
+      {
+        "reference": "Isaiah 11:11",
+        "original": "Isa. 11:11"
+      },
+      {
+        "reference": "Genesis 10:5",
+        "original": "Gen. 10:5"
+      },
+      {
+        "reference": "Psalms 72:10",
+        "original": "Ps. 72:10"
+      },
+      {
+        "reference": "Ezekiel 26:15",
+        "original": "Ezek. 26:15"
+      },
+      {
+        "reference": "Ezekiel 26:18",
+        "original": "Ezek. 26:18"
+      },
+      {
+        "reference": "Daniel 11:18",
+        "original": "Dan. 11:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "isle": {
+    "name": "Ilha",
+    "slug": "isle",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O sentido radical da palavra hebraica parece ser “lugares habitáveis”, em oposição à água, e neste sentido ocorre em (Isaías 42:15). Portanto, secundariamente, significa qualquer distrito marítimo, quer pertença a um continente quer a uma ilha; assim, é usado para a costa do Mediterrâneo (Isaías 20:6; 23:2,6) e para as costas de Elisá (Ezequiel 27:7), isto é, da Grécia e da Ásia Menor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 42:15",
+        "original": "Isaiah 42:15"
+      },
+      {
+        "reference": "Isaiah 20:6",
+        "original": "Isaiah 20:6"
+      },
+      {
+        "reference": "Isaiah 23:2",
+        "original": "Isaiah 23:2"
+      },
+      {
+        "reference": "Isaiah 23:6",
+        "original": "Isaiah 23:6"
+      },
+      {
+        "reference": "Ezekiel 27:7",
+        "original": "Ezekiel 27:7"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ismachiah": {
+    "name": "Ismaquias",
+    "slug": "ismachiah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Jeová ouve), um gibeonita, um dos chefes daqueles guerreiros que se juntaram a Davi em Ziclague. (1 Crônicas 12:4). (1064 a.C.). (a quem Jeová sustenta), um levita que foi um dos supervisores das ofertas durante o avivamento sob o rei Ezequias. (2 Crônicas 31:13) (776 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 12:4",
+        "original": "1 Chronicles 12:4"
+      },
+      {
+        "reference": "2 Chronicles 31:13",
+        "original": "2 Chronicles 31:13"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ispah": {
+    "name": "Ispa",
+    "slug": "ispah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(calvo), um benjamita da família de Berias; um dos chefes de sua tribo. (1 Crônicas 8:16) (antes de 588 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:16",
+        "original": "1 Chronicles 8:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "israel": {
+    "name": "Israel",
+    "slug": "israel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome conferido a Jacó após a grande luta em oração em Peniel (Gên. 32:28), porque “como príncipe ele lutou com Deus e prevaleceu”. (Veja JACÓ.) Este é o nome comum dado aos descendentes de Jacó. Todo o povo das doze tribos é chamado de “israelitas”, os “filhos de Israel” (Josué 3:17; 7:25; Juízes 8:27; Jer. 3:21) e a “casa de Israel” (Êx. 16:31; 40:38). Este nome Israel é às vezes usado enfaticamente para o verdadeiro Israel (Sl. 73:1; Isa. 45:17; 49:3; João 1:47; Rom. 9:6; 11:26). Após a morte de Saul, as dez tribos arrogaram para si este nome, como se fossem toda a nação (2 Sam. 2:9, 10, 17, 28; 3:10, 17; 19:40-43), e os reis das dez tribos eram chamados de “reis de Israel”, enquanto os reis das duas tribos eram chamados de “reis de Judá”. Após o exílio, o nome Israel foi assumido como designando a nação inteira."
+      },
+      {
+        "source": "SMI",
+        "text": "(o príncipe que prevalece com Deus)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 32:28",
+        "original": "Gen. 32:28"
+      },
+      {
+        "reference": "Joshua 3:17",
+        "original": "Josh. 3:17"
+      },
+      {
+        "reference": "Joshua 7:25",
+        "original": "Josh 7:25"
+      },
+      {
+        "reference": "Judges 8:27",
+        "original": "Judg. 8:27"
+      },
+      {
+        "reference": "Jeremiah 3:21",
+        "original": "Jer. 3:21"
+      },
+      {
+        "reference": "Exodus 16:31",
+        "original": "Ex. 16:31"
+      },
+      {
+        "reference": "Exodus 40:38",
+        "original": "Ex 40:38"
+      },
+      {
+        "reference": "Psalms 73:1",
+        "original": "Ps. 73:1"
+      },
+      {
+        "reference": "Isaiah 45:17",
+        "original": "Isa. 45:17"
+      },
+      {
+        "reference": "Isaiah 49:3",
+        "original": "Isa 49:3"
+      },
+      {
+        "reference": "John 1:47",
+        "original": "John 1:47"
+      },
+      {
+        "reference": "Romans 9:6",
+        "original": "Rom. 9:6"
+      },
+      {
+        "reference": "Romans 11:26",
+        "original": "Rom 11:26"
+      },
+      {
+        "reference": "2 Samuel 2:9",
+        "original": "2 Sam. 2:9"
+      },
+      {
+        "reference": "2 Samuel 2:10",
+        "original": "2 Sam. 2:10"
+      },
+      {
+        "reference": "2 Samuel 2:17",
+        "original": "2 Sam. 2:17"
+      },
+      {
+        "reference": "2 Samuel 2:28",
+        "original": "2 Sam. 2:28"
+      },
+      {
+        "reference": "2 Samuel 3:10",
+        "original": "2 Sam. 3:10"
+      },
+      {
+        "reference": "2 Samuel 3:17",
+        "original": "2 Sam. 3:17"
+      },
+      {
+        "reference": "2 Samuel 19:40-43",
+        "original": "2 Sam. 19:40-43"
+      },
+      {
+        "reference": "Hosea 12:4",
+        "original": "Hosea 12:4"
+      },
+      {
+        "reference": "Exodus 3:16",
+        "original": "Exodus 3:16"
+      },
+      {
+        "reference": "1 Samuel 11:8",
+        "original": "1 Samuel 11:8"
+      },
+      {
+        "reference": "2 Samuel 20:1",
+        "original": "2 Samuel 20:1"
+      },
+      {
+        "reference": "1 Kings 12:16",
+        "original": "1 Kings 12:16"
+      },
+      {
+        "reference": "Ezra 6:16",
+        "original": "Ezra 6:16"
+      },
+      {
+        "reference": "Ezra 9:1",
+        "original": "Ezra 9:1"
+      },
+      {
+        "reference": "Ezra 10:25",
+        "original": "Ezra 10:25"
+      },
+      {
+        "reference": "Nehemiah 11:3",
+        "original": "Nehemiah 11:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "israel-kingdom-of": {
+    "name": "Israel, Reino de",
+    "slug": "israel-kingdom-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(975 a.C. - 722 a.C.). Logo após a morte de Salomão, a profecia de Aías (1 Reis 11:31-35) foi cumprida e o reino foi dividido em dois. Roboão, filho e sucessor de Salomão, mal estava sentado em seu trono quando os velhos ciúmes entre Judá e as outras tribos surgiram novamente, e Jeroboão foi enviado do Egito pelos descontentes (12:2, 3). Roboão recusou insolentemente aliviar os impostos e serviços onerosos que seu pai havia imposto a seus súditos (12:4), e a rebelião tornou-se completa. Efraim e todo o Israel levantaram o velho grito: “Às vossas tendas, ó Israel” (2 Sam. 20:1). Roboão fugiu para Jerusalém (1 Reis 12:1-18; 2 Crôn. 10), e Jeroboão foi proclamado rei sobre todo o Israel em Siquém, com Judá e Benjamim permanecendo fiéis ao filho de Salomão. A guerra, com sucesso variável, foi travada entre os dois reinos por cerca de sessenta anos, até que Josafá entrou em uma aliança com a casa de Acabe. Extensão do reino. Na época de Salomão, a área da Palestina, excluindo os territórios fenícios na costa do Mediterrâneo, não excedia muito os 33.670 quilômetros quadrados. O reino de Israel compreendia cerca de 24.280 quilômetros quadrados. Siquém foi a primeira capital deste reino (1 Reis 12:25), depois Tirza (14:17). Samaria foi subsequentemente escolhida como capital (16:24) e continuou sendo até a destruição do reino pelos assírios (2 Reis 17:5). Durante o cerco de Samaria (que durou três anos) pelos assírios, Salmaneser morreu e foi sucedido por Sargão, que ele mesmo registra a captura daquela cidade: “Samaria eu observei, eu capturei; 27.280 homens que nela habitavam levei cativos” (2 Reis 17:6) para a Assíria. Assim, após uma duração de duzentos e cinquenta e três anos, o reino das dez tribos chegou ao fim. Eles foram espalhados por todo o Oriente. (Veja CATIVEIRO.) “Judá manteve sua posição contra a Assíria por mais cento e vinte e três anos, e tornou-se o ponto de reunião dos dispersos de cada tribo, e eventualmente deu seu nome a toda a raça. Aqueles do povo que na última luta escaparam para os territórios de Judá ou outros países vizinhos naturalmente olharam para Judá como a cabeça e o lar de sua raça. E quando a própria Judá foi levada para Babilônia, muitos dos israelitas exilados se juntaram a eles vindos da Assíria, e incharam aquela imensa população que fez da Babilônia uma segunda Palestina.” Após a deportação das dez tribos, a terra deserta foi colonizada por várias tribos orientais, que o rei da Assíria enviou para lá (Esdras 4:2, 10; 2 Reis 17:24-29). (Veja REIS.) Em contraste com o reino de Judá está o de Israel. (1) “Não havia capital fixa nem centro religioso. (2) O exército era frequentemente insubordinado. (3) A sucessão era constantemente interrompida, de modo que, dos dezenove reis, havia não menos que nove dinastias, cada uma introduzida por uma revolução. (4) Os sacerdotes autorizados deixaram o reino em massa, e o sacerdócio estabelecido por Jeroboão não tinha sanção divina nem promessa; era corrupto em sua própria fonte.” (História do A.T. de Maclean)"
+      },
+      {
+        "source": "SMI",
+        "text": "I. O reino. — O profeta Aías de Siló, que foi comissionado nos últimos dias de Salomão para anunciar a divisão do reino, deixou uma tribo (Judá) para a casa de Davi e atribuiu dez a Jeroboão. (1 Reis 11:31,35) Estas eram provavelmente José (Efraim e Manassés), Issacar, Zebulom, Aser, Naftali, Benjamim, Dã, Simeão, Gade e Rúben; Levi sendo intencionalmente omitido. Eventualmente, a maior parte de Benjamim, e provavelmente toda a Simeão e Dã, foram incluídas, como que por consentimento comum, no reino de Judá. Com relação às conquistas de Davi, Moabe parece ter sido anexado ao reino de Israel. (2 Reis 3:4) tanto da Síria quanto permaneceu sujeito a Salomão, ver (1 Reis 11:24), provavelmente seria reivindicado por seu sucessor no reino do norte; e Amom foi em uma época aliado (2 Crônicas 20:1), não sabemos quão estreitamente ou quão cedo, com Moabe. A costa entre Aco e Jope permaneceu na posse de Israel. A população total pode talvez ter chegado a pelo menos três milhões e meio. II. As capitais. — Siquém foi a primeira capital do novo reino. (1 Reis 12:25) Posteriormente, Tirza tornou-se a residência real, se não a capital, de Jeroboão (1 Reis 14:17) e de seus sucessores. conf. (1 Reis 15:33; 16:8,17,23) Samaria foi escolhida por Onri. (1 Reis 16:24) Jezreel foi provavelmente apenas uma residência real de alguns dos reis israelitas. III. História. — O reino de Israel durou 254 anos, de 975 a.C. a 721 a.C. A história detalhada do reino será encontrada sob os nomes de seus dezenove reis. Veja o quadro dos reis de Judá e Israel, ao final do trabalho. Uma visão resumida pode ser tomada em quatro períodos: (a) 975-929 a.C. Jeroboão não tinha força de caráter suficiente em si mesmo para causar uma impressão duradoura em seu povo. Um rei, mas não um fundador de uma dinastia, ele não visava nada além de garantir sua elevação atual. Baasa, no meio do exército em Gibetom, matou o filho e sucessor de Jeroboão; Zinri, um capitão de carros, matou o filho e sucessor de Baasa; Onri, o capitão do exército, foi escolhido para punir Zinri; e após uma guerra civil de quatro anos, ele prevaleceu sobre Tibni, a escolha de metade do povo. (b) 929-884 a.C. Por quarenta e cinco anos, Israel foi governado pela casa de Onri. Os príncipes de sua casa cultivaram uma aliança com o rei de Judá que foi cimentada pelo casamento de Jeorão e Atalia. A adoção da adoração de Baal levou a uma reação na nação, ao triunfo moral dos profetas na pessoa de Elias, e à extinção da casa de Acabe em obediência ao comando de Eliseu. (c) 884-772 a.C. Triunfos inigualáveis, mas humilhação mais profunda, aguardavam o reino de Israel sob a dinastia de Jeú. Hazael, o mais capaz rei de Damasco, reduziu Jeoacaz à condição de vassalo, e triunfou por um tempo sobre ambos os reinos hebreus desunidos. Quase o primeiro sinal da restauração de sua força foi uma guerra entre eles; e Jeoás, neto de Jeú, entrou em Jerusalém como o conquistador de Amazias. Jeoás também mudou o rumo da guerra contra os sírios; e Jeroboão II, o mais poderoso de todos os reis de Israel, capturou Damasco e recuperou toda a antiga fronteira de Hamate ao Mar Morto. Esta grandeza de curta duração expirou com o último rei da linhagem de Jeú. (d) 772-721 a.C. Violência militar, ao que parece, rompeu a sucessão hereditária após o reinado obscuro e provavelmente convulso de Zacarias. Um usurpador sem sucesso, Salum, é seguido pelo cruel Menaém, que, incapaz de resistir ao primeiro ataque da Assíria sob Pul, tornou-se o agente daquele monarca para a tributação opressiva de seus súditos. No entanto, seu poder em casa foi suficiente para garantir ao seu filho e sucessor Pecaías um reinado de dez anos, abreviado por um ousado usurpador, Peca. Abandonando as regiões do norte e transjordânicas ao poder invasor da Assíria sob Tiglate-Pileser, ele esteve muito perto de subjugar Judá, com a ajuda de Damasco, agora o aliado coigual de Israel. Mas a Assíria, interpondo-se sumariamente, pôs fim à independência de Damasco, e talvez tenha sido a causa indireta do assassinato do frustrado Peca. O irresoluto Oseias, o próximo e último usurpador, tornou-se tributário de seus invasores, Salmaneser, traiu o assírio para a monarquia rival do Egito, e foi punido com a perda de sua liberdade e com a captura, após um cerco de três anos, de sua capital forte, Samaria. Algumas espigas das dez tribos ainda permaneciam na terra após tantos anos de declínio religioso, degradação moral, humilhação nacional, anarquia, derramamento de sangue e deportação. Mesmo estes foram reunidos pelo conquistador e levados para a Assíria, nunca mais, como um povo distinto, para ocupar sua porção daquela terra boa e agradável que seus antepassados conquistaram sob Josué dos pagãos. (Schaff Bib. Dic.) acrescenta a este resumo que “após a destruição do reino de Israel, 721 a.C., t”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 11:31-35",
+        "original": "1 Kings 11:31-35"
+      },
+      {
+        "reference": "2 Samuel 20:1",
+        "original": "2 Sam. 20:1"
+      },
+      {
+        "reference": "1 Kings 12:1-18",
+        "original": "1 Kings 12:1-18"
+      },
+      {
+        "reference": "2 Chronicles 10",
+        "original": "2 Chr. 10"
+      },
+      {
+        "reference": "1 Kings 12:25",
+        "original": "1 Kings 12:25"
+      },
+      {
+        "reference": "2 Kings 17:5",
+        "original": "2 Kings 17:5"
+      },
+      {
+        "reference": "2 Kings 17:6",
+        "original": "2 Kings 17:6"
+      },
+      {
+        "reference": "Ezra 4:2",
+        "original": "Ezra 4:2"
+      },
+      {
+        "reference": "Ezra 4:10",
+        "original": "Ezra 4:10"
+      },
+      {
+        "reference": "2 Kings 17:24-29",
+        "original": "2 Kings 17:24-29"
+      },
+      {
+        "reference": "1 Kings 11:31",
+        "original": "1 Kings 11:31"
+      },
+      {
+        "reference": "1 Kings 11:35",
+        "original": "1 Kings 11:35"
+      },
+      {
+        "reference": "2 Kings 3:4",
+        "original": "2 Kings 3:4"
+      },
+      {
+        "reference": "1 Kings 11:24",
+        "original": "1 Kings 11:24"
+      },
+      {
+        "reference": "2 Chronicles 20:1",
+        "original": "2 Chronicles 20:1"
+      },
+      {
+        "reference": "1 Kings 14:17",
+        "original": "1 Kings 14:17"
+      },
+      {
+        "reference": "1 Kings 15:33",
+        "original": "1 Kings 15:33"
+      },
+      {
+        "reference": "1 Kings 16:8",
+        "original": "1 Kings 16:8"
+      },
+      {
+        "reference": "1 Kings 16:17",
+        "original": "1 Kings 16:17"
+      },
+      {
+        "reference": "1 Kings 16:23",
+        "original": "1 Kings 16:23"
+      },
+      {
+        "reference": "1 Kings 16:24",
+        "original": "1 Kings 16:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "israelite": {
+    "name": "Israelita",
+    "slug": "israelite",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(descendente de Israel). Em (2 Samuel 17:25), Itra, o pai de Amasa, é chamado de “um israelita”, enquanto em (1 Crônicas 2:17) ele aparece como “Jéter, o ismaelita”. Este último é, sem dúvida, a leitura correta."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 17:25",
+        "original": "2 Samuel 17:25"
+      },
+      {
+        "reference": "1 Chronicles 2:17",
+        "original": "1 Chronicles 2:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "issachar": {
+    "name": "Issacar",
+    "slug": "issachar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Contratado (Gên. 30:18). “Deus me deu”, disse Leia, “meu salário (Heb. sekhari)... e ela chamou o seu nome Issacar.” Ele foi o nono filho de Jacó e nasceu em Padã-Arã (conf. 28:2). Ele teve quatro filhos ao descer para o Egito (46:13; Num. 26:23, 25). A tribo de Issacar, durante a jornada pelo deserto, juntamente com Judá e Zebulom (Num. 2:5), marchou a leste do tabernáculo. Esta tribo continha 54.400 homens aptos para a guerra quando o censo foi feito no Sinai. Após a entrada na Terra Prometida, esta tribo foi uma das seis que se posicionaram sobre o Gerizim durante a cerimônia da bênção e maldição (Deut. 27:12). A herança de Issacar é descrita em Josué 19:17-23. Incluía a planície de Esdraelon (=Jezreel), que era e ainda é a parte mais rica da Palestina (Deut. 33:18, 19; 1 Crôn. 12:40). A bênção profética pronunciada por Jacó sobre Issacar corresponde à de Moisés (Gên. 49:14, 15; conf. Deut. 33:18, 19)."
+      },
+      {
+        "source": "SMI",
+        "text": "(recompensa). I. O nono filho de Jacó e o quinto de Leia. (Gênesis 30:17,18) (1753-45 a.C.). Na descida para o Egito, quatro filhos lhe são atribuídos, que fundaram as quatro famílias principais das tribos. (Gênesis 46:13; Números 26:23,25; 1 Crônicas 7:1). O número de homens aptos para a guerra de Issacar, quando tomados no censo no Sinai, era de 54.400. Durante a jornada, parece que aumentaram constantemente. A herança de Issacar ficava acima da de Manassés. (Josué 19:17-23). Nas palavras de Josefo, “estendia-se em comprimento do Carmelo ao Jordão, em largura até o Monte Tabor”. Este território era, como ainda é, uma das terras mais ricas da Palestina. É este aspecto do território de Issacar que parece ser aludido na bênção de Jacó."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 30:18",
+        "original": "Gen. 30:18"
+      },
+      {
+        "reference": "Numbers 26:23",
+        "original": "Num. 26:23"
+      },
+      {
+        "reference": "Numbers 26:25",
+        "original": "Num 26:25"
+      },
+      {
+        "reference": "Numbers 2:5",
+        "original": "Num. 2:5"
+      },
+      {
+        "reference": "Deuteronomy 27:12",
+        "original": "Deut. 27:12"
+      },
+      {
+        "reference": "Joshua 19:17-23",
+        "original": "Josh. 19:17-23"
+      },
+      {
+        "reference": "Deuteronomy 33:18",
+        "original": "Deut. 33:18"
+      },
+      {
+        "reference": "Deuteronomy 33:19",
+        "original": "Deut 33:19"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chr. 12:40"
+      },
+      {
+        "reference": "Genesis 49:14",
+        "original": "Gen. 49:14"
+      },
+      {
+        "reference": "Genesis 49:15",
+        "original": "Gen. 49:15"
+      },
+      {
+        "reference": "Genesis 30:17",
+        "original": "Genesis 30:17"
+      },
+      {
+        "reference": "Genesis 46:13",
+        "original": "Genesis 46:13"
+      },
+      {
+        "reference": "1 Chronicles 7:1",
+        "original": "1 Chronicles 7:1"
+      },
+      {
+        "reference": "1 Chronicles 26:5",
+        "original": "1 Chronicles 26:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "isshiab": {
+    "name": "Issiabe",
+    "slug": "isshiab",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová empresta)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 24:21",
+        "original": "1 Chronicles 24:21"
+      },
+      {
+        "reference": "1 Chronicles 23:17",
+        "original": "1Chr 23:17"
+      },
+      {
+        "reference": "1 Chronicles 26:25",
+        "original": "1Chr 26:25"
+      },
+      {
+        "reference": "1 Chronicles 24:26",
+        "original": "1 Chronicles 24:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "isuah": {
+    "name": "Isuá",
+    "slug": "isuah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(quieto), segundo filho de Aser. (1 Crônicas 7:30) (1706 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "isui": {
+    "name": "Isui",
+    "slug": "isui",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(quieto), terceiro filho de Aser, (Gênesis 46:17), fundador de uma família chamada em seu nome, embora na Versão Autorizada apareça como OS Jesuítas. (Números 26:44) (1706 a.C.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:17",
+        "original": "Genesis 46:17"
+      },
+      {
+        "reference": "Numbers 26:44",
+        "original": "Numbers 26:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "italy": {
+    "name": "Itália",
+    "slug": "italy",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Atos 18:2; 27:1, 6; Heb. 13:24), como a maioria dos nomes geográficos, foi usada de forma diferente em diferentes períodos da história. À medida que o poder de Roma avançava, nações eram sucessivamente conquistadas e adicionadas a ela até que passou a designar todo o país ao sul dos Alpes. Havia constante intercâmbio entre a Palestina e a Itália na época dos romanos."
+      },
+      {
+        "source": "SMI",
+        "text": "Esta palavra é usada no Novo Testamento (Atos 18:2; 27:1; Hebreus 13:24) no sentido usual do período, isto é, em seu verdadeiro sentido geográfico, como denotando toda a península natural entre os Alpes e o Estreito de Messina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 18:2",
+        "original": "Acts 18:2"
+      },
+      {
+        "reference": "Acts 27:1",
+        "original": "Acts 27:1"
+      },
+      {
+        "reference": "Acts 27:6",
+        "original": "Acts 27:6"
+      },
+      {
+        "reference": "Hebrews 13:24",
+        "original": "Heb. 13:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithai": {
+    "name": "Itai",
+    "slug": "ithai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(com o Senhor), um benjamita, filho de Ribai de Gibeá, um dos heróis da guarda de Davi. (1 Crônicas 11:31) (a.C. 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:31",
+        "original": "1 Chronicles 11:31"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithamar": {
+    "name": "Itamar",
+    "slug": "ithamar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ilha de palmeiras, o quarto e mais jovem filho de Arão (1 Crô. 6:3). Ele foi consagrado ao sacerdócio junto com seus irmãos (Êx. 6:23); e, após a morte de Nadabe e Abiú, ele e Eleazar foram os únicos a desempenhar as funções desse ofício (Lev. 10:6, 12; Núm. 3:4). Ele e sua família ocuparam a posição de sacerdote comum até que o sumo sacerdócio passou para sua linhagem na pessoa de Eli (1 Reis 2:27), cujas razões não estão registradas. (Veja ZADOQUE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(terra de palmeiras), o filho mais novo de Arão. (Êxodo 6:23) (a.C. 1491.) Após a morte de Nadabe e Abiú, (Levítico 10:1) Eleazar e Itamar foram designados para suceder aos seus lugares no ofício sacerdotal. (Êxodo 28:1,40,43; Números 3:3,4; 1 Crônicas 24:2) Na distribuição dos serviços pertencentes ao tabernáculo e seu transporte durante a marcha dos israelitas, os gersonitas e os meraritas foram colocados sob a supervisão de Itamar. (Êxodo 38:21; Números 4:21-33) O sumo sacerdócio passou para a família de Itamar na pessoa de Eli, mas não fomos informados sobre o motivo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:3",
+        "original": "1 Chr. 6:3"
+      },
+      {
+        "reference": "Exodus 6:23",
+        "original": "Ex. 6:23"
+      },
+      {
+        "reference": "Leviticus 10:6",
+        "original": "Lev. 10:6"
+      },
+      {
+        "reference": "Leviticus 10:12",
+        "original": "Lev. 10:12"
+      },
+      {
+        "reference": "Numbers 3:4",
+        "original": "Num. 3:4"
+      },
+      {
+        "reference": "1 Kings 2:27",
+        "original": "1 Kings 2:27"
+      },
+      {
+        "reference": "Leviticus 10:1",
+        "original": "Leviticus 10:1"
+      },
+      {
+        "reference": "Exodus 28:1",
+        "original": "Exodus 28:1"
+      },
+      {
+        "reference": "Exodus 28:40",
+        "original": "Exodus 28:40"
+      },
+      {
+        "reference": "Exodus 28:43",
+        "original": "Exodus 28:43"
+      },
+      {
+        "reference": "Numbers 3:3",
+        "original": "Numbers 3:3"
+      },
+      {
+        "reference": "1 Chronicles 24:2",
+        "original": "1 Chronicles 24:2"
+      },
+      {
+        "reference": "Exodus 38:21",
+        "original": "Exodus 38:21"
+      },
+      {
+        "reference": "Numbers 4:21-33",
+        "original": "Numbers 4:21-33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithiel": {
+    "name": "Itiel",
+    "slug": "ithiel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Deus está comigo)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 11:7",
+        "original": "Nehemiah 11:7"
+      },
+      {
+        "reference": "Proverbs 30:1",
+        "original": "Proverbs 30:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithmah": {
+    "name": "Itma",
+    "slug": "ithmah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(luto/privação), um moabita, um dos heróis da guarda de Davi. (1 Crônicas 11:46)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:46",
+        "original": "1 Chronicles 11:46"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithnan": {
+    "name": "Itnã",
+    "slug": "ithnan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(dado), uma das cidades no extremo sul de Judá. (Josué 15:23) Nenhum vestígio de sua existência foi descoberto até o momento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:23",
+        "original": "Joshua 15:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithra": {
+    "name": "Itra",
+    "slug": "ithra",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(excelência), um israelita, (2 Samuel 17:25) ou ismaelita, (1 Crônicas 2:17) pai de Amasa, por meio de Abigail, irmã de Davi. (a.C. antes de 1023.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 17:25",
+        "original": "2 Samuel 17:25"
+      },
+      {
+        "reference": "1 Chronicles 2:17",
+        "original": "1 Chronicles 2:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithran": {
+    "name": "Itrã",
+    "slug": "ithran",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(excelência)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:26",
+        "original": "Genesis 36:26"
+      },
+      {
+        "reference": "1 Chronicles 1:41",
+        "original": "1 Chronicles 1:41"
+      },
+      {
+        "reference": "Genesis 36:30",
+        "original": "Genesis 36:30"
+      },
+      {
+        "reference": "1 Chronicles 7:30-40",
+        "original": "1 Chronicles 7:30-40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithream": {
+    "name": "Itreão",
+    "slug": "ithream",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(abundância de povo), filho de Davi, que lhe nasceu em Hebrom, e explicitamente especificado como o sexto, e como filho de Eglá, esposa de Davi. (2 Samuel 3:5; 1 Crônicas 3:3)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 3:5",
+        "original": "2 Samuel 3:5"
+      },
+      {
+        "reference": "1 Chronicles 3:3",
+        "original": "1 Chronicles 3:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ithrite": {
+    "name": "Itrita",
+    "slug": "ithrite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dois dos guerreiros de Davi assim designados (2 Sam. 23:38; 1 Crô. 11:40)."
+      },
+      {
+        "source": "SMI",
+        "text": "(pertencente a Jeter), designação de dois dos membros da guarda de Davi, Ira e Garebe. (2 Samuel 23:38; 1 Crônicas 11:40) Eles podem ter vindo de Jatir, nas montanhas de Judá. (a.C. 1046.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:38",
+        "original": "2 Sam. 23:38"
+      },
+      {
+        "reference": "1 Chronicles 11:40",
+        "original": "1 Chr. 11:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ittahkazin": {
+    "name": "Itaca-Zim",
+    "slug": "ittahkazin",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(tempo do juiz), um dos marcos do limite de Zebulom. (Josué 19:13) Não foi identificado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:13",
+        "original": "Joshua 19:13"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ittai": {
+    "name": "Itai",
+    "slug": "ittai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Perto; oportuno; ou, com o Senhor. (1.) Um benjamita, um dos trinta heróis de Davi (2 Sam. 23:29). (2.) Um nativo de Gate, um filisteu, que aparentemente tinha o comando dos seiscentos heróis que formavam o bando de Davi durante suas peregrinações (2 Sam. 15:19-22; comp. 1 Sam. 23:13; 27:2; 30:9, 10). Ele está depois com Davi em Maanaim, ocupando no exército um posto igual ao de Joabe e Abisai (2 Sam. 18:2, 5, 12). Ele então desaparece da visão."
+      },
+      {
+        "source": "SMI",
+        "text": "(com o Senhor)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:29",
+        "original": "2 Sam. 23:29"
+      },
+      {
+        "reference": "2 Samuel 15:19-22",
+        "original": "2 Sam. 15:19-22"
+      },
+      {
+        "reference": "1 Samuel 23:13",
+        "original": "1 Sam. 23:13"
+      },
+      {
+        "reference": "1 Samuel 27:2",
+        "original": "1 Sam. 27:2"
+      },
+      {
+        "reference": "1 Samuel 30:9",
+        "original": "1 Sam. 30:9"
+      },
+      {
+        "reference": "1 Samuel 30:10",
+        "original": "1 Sam. 30:10"
+      },
+      {
+        "reference": "2 Samuel 18:2",
+        "original": "2 Sam. 18:2"
+      },
+      {
+        "reference": "2 Samuel 18:5",
+        "original": "2 Sam. 18:5"
+      },
+      {
+        "reference": "2 Samuel 18:12",
+        "original": "2 Sam. 18:12"
+      },
+      {
+        "reference": "2 Samuel 15:18",
+        "original": "2 Samuel 15:18"
+      },
+      {
+        "reference": "2 Samuel 15:19",
+        "original": "2 Samuel 15:19"
+      },
+      {
+        "reference": "1 Samuel 30:19",
+        "original": "1Sam 30:19"
+      },
+      {
+        "reference": "1 Samuel 30:20",
+        "original": "1Sam 30:20"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ituraea": {
+    "name": "Itureia",
+    "slug": "ituraea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um distrito no nordeste da Palestina, formando, junto com o território adjacente de Traconítides, a tetrarquia de Filipe (Lucas 3:1). O atual Jedur compreende a maior parte da Itureia. É delimitada a leste por Traconítides, ao sul por Gaulanítides, a oeste pelo Hermom e ao norte pela planície de Damasco."
+      },
+      {
+        "source": "SMI",
+        "text": "(terra de Jeter), uma pequena província na fronteira noroeste da Palestina, situada ao longo da base do Monte Hermom, mencionada apenas em (Lucas 3:1). Jetur, filho de Ismael, deu seu nome, como o resto de seus irmãos, à pequena província que colonizou. (Gênesis 25:15,16) Limitava com Traconítides e situava-se ao longo da base do Líbano, entre Tiberíades e Damasco. No local indicado está situada a moderna província de Jedur, que é a forma árabe do hebraico Jetur."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:1",
+        "original": "Luke 3:1"
+      },
+      {
+        "reference": "Genesis 25:15",
+        "original": "Genesis 25:15"
+      },
+      {
+        "reference": "Genesis 25:16",
+        "original": "Genesis 25:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ivah": {
+    "name": "Iva",
+    "slug": "ivah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Subversão, uma cidade dos assírios, de onde foram trazidos colonos para Samaria (2 Reis 18:34; 19:13). Situava-se no Eufrates, entre Sefarvaim e Hena, e é considerada por alguns como tendo sido a Ava de Esdras (8:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(arruinada), ou Ava, que é mencionada na Escritura duas vezes, (2 Reis 18:34; 19:13) comp. Isa. 37:13, em conexão com Hena e Sefarvaim, e uma vez, (2 Reis 17:24) em conexão com Babilônia e Cuta, deve ser buscada na Babilônia, e é provavelmente idêntica à moderna Hit, no Eufrates."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 18:34",
+        "original": "2 Kings 18:34"
+      },
+      {
+        "reference": "2 Kings 19:13",
+        "original": "2 Kings 19:13"
+      },
+      {
+        "reference": "Isaiah 37:13",
+        "original": "Isai 37:13"
+      },
+      {
+        "reference": "2 Kings 17:24",
+        "original": "2 Kings 17:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izehar": {
+    "name": "Izar",
+    "slug": "izehar",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(óleo), a forma em que o nome Isar é dado na Versão Autorizada em (Números 3:19) apenas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 3:19",
+        "original": "Numbers 3:19"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izeharites": {
+    "name": "Izearitas",
+    "slug": "izeharites",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(descendente de Izar), O. Uma família de levitas coatitas, descendentes de Izar, filho de Coate (Números 3:27), também chamados de \"Izaritas\" (1 Crônicas 26:23,29)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 3:27",
+        "original": "Numbers 3:27"
+      },
+      {
+        "reference": "1 Chronicles 26:23",
+        "original": "1 Chronicles 26:23"
+      },
+      {
+        "reference": "1 Chronicles 26:29",
+        "original": "1 Chronicles 26:29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izhar": {
+    "name": "Izar",
+    "slug": "izhar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Óleo, um dos filhos de Coate e neto de Levi (Êxodo 6:18, 21; Números 16:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "(óleo), filho de Coate, neto de Levi, tio de Arão e Moisés e pai de Corá (Êxodo 6:18,21; Números 3:19; 16:1; 1 Crônicas 6:2,18) (a.C. depois de 1490). Izar foi o chefe da família dos Izaritas (1 Crônicas 24:22; 26:23) ou Izearitas (Números 3:27; 1 Crônicas 26:23,29)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 6:18",
+        "original": "Ex. 6:18"
+      },
+      {
+        "reference": "Exodus 6:21",
+        "original": "Ex 6:21"
+      },
+      {
+        "reference": "Numbers 16:1",
+        "original": "Num. 16:1"
+      },
+      {
+        "reference": "Numbers 3:19",
+        "original": "Numbers 3:19"
+      },
+      {
+        "reference": "1 Chronicles 6:2",
+        "original": "1 Chronicles 6:2"
+      },
+      {
+        "reference": "1 Chronicles 6:18",
+        "original": "1 Chronicles 6:18"
+      },
+      {
+        "reference": "1 Chronicles 24:22",
+        "original": "1 Chronicles 24:22"
+      },
+      {
+        "reference": "1 Chronicles 26:23",
+        "original": "1 Chronicles 26:23"
+      },
+      {
+        "reference": "Numbers 3:27",
+        "original": "Numbers 3:27"
+      },
+      {
+        "reference": "1 Chronicles 26:29",
+        "original": "1 Chronicles 26:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izrahiah": {
+    "name": "Izraías",
+    "slug": "izrahiah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a quem Jeová faz cintilar), um chefe da tribo de Issacar (1 Crônicas 7:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chronicles 7:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izrahite": {
+    "name": "Izraíta",
+    "slug": "izrahite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A designação de um dos oficiais de Davi (1 Crônicas 27:8)."
+      },
+      {
+        "source": "SMI",
+        "text": "(descendente de Zerá), O, a designação de Samute (1 Crônicas 27:8). Sua força real provavelmente é Zeraíta, isto é, da grande família judaica de Zerá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:8",
+        "original": "1 Chr. 27:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "izri": {
+    "name": "Izri",
+    "slug": "izri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(criador), um líder levita do quarto turno ou ala no serviço da casa de Deus (1 Crônicas 25:11). No versículo 3, ele é chamado de Zeri (a.C. 1014)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 25:11",
+        "original": "1 Chronicles 25:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "jimna": {
+    "name": "Imna",
+    "slug": "jimna",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(prosperidade), o primogênito de Aser. (Números 26:44) Ele é chamado em outros lugares na Versão Autorizada de Jimná, (Gênesis 46:17) e Imná. (1 Crônicas 7:30)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:44",
+        "original": "Numbers 26:44"
+      },
+      {
+        "reference": "Genesis 46:17",
+        "original": "Genesis 46:17"
+      },
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "jimnites-the": {
+    "name": "Imnítas, Os",
+    "slug": "jimnites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "descendentes do anterior. (Números 26:44)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:44",
+        "original": "Numbers 26:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "laying-on-of-hands": {
+    "name": "Imposição de Mãos",
+    "slug": "laying-on-of-hands",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Isto \"formava em um período inicial uma parte da cerimônia observada na nomeação e consagração de pessoas para empreendimentos elevados e santos;\" (e na Igreja Cristã foi especialmente usado na separação de homens para o ministério e para outros ofícios santos. É um ato simbólico que expressa a transmissão de autoridade e poder espiritual.—ED.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
   }
 }

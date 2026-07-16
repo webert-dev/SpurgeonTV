@@ -1,0 +1,540 @@
+{
+  "birth": {
+    "name": "Nascimento",
+    "slug": "birth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Assim que uma criança nascia, ela era lavada e esfregada com sal (Ezeq. 16:4), e então enfaixada com ataduras (Jó 38:9; Lucas 2:7, 12). Uma mãe hebréia permanecia quarenta dias em reclusão após o nascimento de um filho, e após o nascimento de uma filha, o dobro desse número de dias. Ao final desse período, ela entrava no tabernáculo ou templo e oferecia um sacrifício de purificação (Lev. 12:1-8; Lucas 2:22). Um filho era circuncidado no oitavo dia após o seu nascimento, sendo assim consagrado a Deus (Gên. 17:10-12; comp. Rom. 4:11). Tempos de infortúnio são comparados às dores de uma mulher em trabalho de parto, e épocas de prosperidade à alegria que sucede ao nascimento (Isa. 13:8; Jer. 4:31; João 16:21, 22). O nascimento natural é referido como o emblema do novo nascimento (João 3:3-8; Gál. 6:15; Tito 3:5, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 16:4",
+        "original": "Ezek. 16:4"
+      },
+      {
+        "reference": "Job 38:9",
+        "original": "Job 38:9"
+      },
+      {
+        "reference": "Luke 2:7",
+        "original": "Luke 2:7"
+      },
+      {
+        "reference": "Luke 2:12",
+        "original": "Luke 2:12"
+      },
+      {
+        "reference": "Leviticus 12:1-8",
+        "original": "Lev. 12:1-8"
+      },
+      {
+        "reference": "Luke 2:22",
+        "original": "Luke 2:22"
+      },
+      {
+        "reference": "Genesis 17:10-12",
+        "original": "Gen. 17:10-12"
+      },
+      {
+        "reference": "Romans 4:11",
+        "original": "Rom. 4:11"
+      },
+      {
+        "reference": "Isaiah 13:8",
+        "original": "Isa. 13:8"
+      },
+      {
+        "reference": "Jeremiah 4:31",
+        "original": "Jer. 4:31"
+      },
+      {
+        "reference": "John 16:21",
+        "original": "John 16:21"
+      },
+      {
+        "reference": "John 16:22",
+        "original": "John 16:22"
+      },
+      {
+        "reference": "John 3:3-8",
+        "original": "John 3:3-8"
+      },
+      {
+        "reference": "Galatians 6:15",
+        "original": "Gal. 6:15"
+      },
+      {
+        "reference": "Titus 3:5",
+        "original": "Titus 3:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  },
+  "bride": {
+    "name": "Noiva",
+    "slug": "bride",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Frequentemente usado no sentido comum (Is 49:18; 61:10, etc.). A relação entre Cristo e sua igreja é apresentada sob a figura daquela entre um noivo e uma noiva (Jo 3:29). A igreja é chamada de “a noiva” (Ap 21:9; 22:17). Compare com a parábola das Dez Virgens (Mt 25:1-13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 49:18",
+        "original": "Isa. 49:18"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isa 61:10"
+      },
+      {
+        "reference": "John 3:29",
+        "original": "John 3:29"
+      },
+      {
+        "reference": "Revelation 21:9",
+        "original": "Rev. 21:9"
+      },
+      {
+        "reference": "Revelation 22:17",
+        "original": "Rev 22:17"
+      },
+      {
+        "reference": "Matthew 25:1-13",
+        "original": "Matt. 25:1-13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  },
+  "bride-bridegroom": {
+    "name": "Noiva, Noivo",
+    "slug": "bride-bridegroom",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Casamento]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "bullock": {
+    "name": "Novilho",
+    "slug": "bullock",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) A tradução de uma palavra que é um nome genérico para gado com chifres (Isa. 65:25). Também é traduzida como “vaca” (Ezeq. 4:15), “boi” (Gên. 12:16). (2.) A tradução de uma palavra que sempre significa um animal da espécie bovina, sem distinção de idade ou sexo (Os. 12:11). É traduzida como “vaca” (Núm. 18:17) e “boi” (Lev. 17:3). (3.) Outra palavra é traduzida da mesma maneira (Jer. 31:18). Também é traduzida como “bezerro” (Lev. 9:3; Miqueias 6:6). É a mesma palavra usada para o “bezerro fundido” (Êx. 32:4, 8) e “o bezerro de ouro” (1 Reis 12:28). (4.) Em Juízes 6:25; Isa. 34:7, a palavra hebraica é diferente. É a palavra habitual para touros oferecidos em sacrifício. Em Os. 14:2, a Versão Autorizada traz “bezerros”, a Versão Revisada “novilhos”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isa. 65:25"
+      },
+      {
+        "reference": "Ezekiel 4:15",
+        "original": "Ezek. 4:15"
+      },
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Hosea 12:11",
+        "original": "Hos. 12:11"
+      },
+      {
+        "reference": "Numbers 18:17",
+        "original": "Num. 18:17"
+      },
+      {
+        "reference": "Leviticus 17:3",
+        "original": "Lev. 17:3"
+      },
+      {
+        "reference": "Jeremiah 31:18",
+        "original": "Jer. 31:18"
+      },
+      {
+        "reference": "Leviticus 9:3",
+        "original": "Lev. 9:3"
+      },
+      {
+        "reference": "Micah 6:6",
+        "original": "Micah 6:6"
+      },
+      {
+        "reference": "Exodus 32:4",
+        "original": "Ex. 32:4"
+      },
+      {
+        "reference": "Exodus 32:8",
+        "original": "Ex 32:8"
+      },
+      {
+        "reference": "1 Kings 12:28",
+        "original": "1 Kings 12:28"
+      },
+      {
+        "reference": "Judges 6:25",
+        "original": "Judg. 6:25"
+      },
+      {
+        "reference": "Isaiah 34:7",
+        "original": "Isa. 34:7"
+      },
+      {
+        "reference": "Hosea 14:2",
+        "original": "Hos. 14:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  },
+  "cloud": {
+    "name": "Nuvem",
+    "slug": "cloud",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O termo hebraico assim traduzido significa \"uma cobertura\", porque as nuvens cobrem o céu. A palavra é usada como um símbolo da presença Divina, indicando o esplendor daquela glória que ela oculta (Êx 16:10; 33:9; Nm 11:25; 12:5; Jó 22:14; Sl 18:11). Uma \"nuvem sem chuva\" é um ditado proverbial, denotando um homem que não cumpre sua promessa (Pv 16:15; Is 18:4; 25:5; Jd 1:12). Uma nuvem é a figura daquilo que é transitório (Jó 30:15; Os 6:4). Uma nuvem brilhante é o assento simbólico da presença Divina (Êx 29:42, 43; 1 Rs 8:10; 2 Cr 5:14; Ez 43:4), e era chamada de Shechinah (q.v.). Jeová desceu sobre o Sinai em uma nuvem (Êx 19:9); e a nuvem encheu o pátio ao redor do tabernáculo no deserto, de modo que Moisés não pôde entrar nele (Êx 40:34, 35). Na dedicação do templo também a nuvem \"encheu a casa do Senhor\" (1 Rs 8:10). Assim, da mesma forma, quando Cristo vier pela segunda vez, ele é descrito vindo \"nas nuvens\" (Mt 17:5; 24:30; Atos 1:9, 11). Falsos mestres são comparados a nuvens levadas por uma tempestade (2 Pe 2:17). As enfermidades da velhice, que vêm uma após a outra, são comparadas por Salomão a \"nuvens que voltam depois da chuva\" (Ec 12:2). O apagar dos pecados é como o desaparecimento repentino de nuvens ameaçadoras do céu (Is 44:22). A coluna de nuvem era a nuvem de glória que indicava a presença de Deus guiando o povo resgatado pelo deserto (Êx 13:22; 33:9, 10). Esta coluna precedia o povo enquanto marchavam, repousando sobre a arca (Êx 13:21; 40:36). À noite tornava-se uma coluna de fogo (Nm 9:17-23)."
+      },
+      {
+        "source": "SMI",
+        "text": "O abrigo dado, e o refresco da chuva prometida, pelas nuvens dão a elas sua proeminência peculiar na imagética oriental. Quando uma nuvem aparece, a chuva é ordinariamente esperada, e assim a \"nuvem sem chuva\" torna-se um provérbio para o homem de promessas sem desempenho. (Provérbios 16:15; Isaías 18:4; 25:5; Judas 1:12) comp. Pv 25:14. A nuvem é uma figura de transitoriedade (Jó 30:15; Oséias 6:4) e de tudo o que intercepta o favor divino ou a súplica humana. (Lamentações 2:1; 3:44). Uma nuvem brilhante às vezes visitava e repousava sobre o propiciatório. (Êxodo 29:42, 43; 1 Reis 8:10, 11; 2 Crônicas 5:14; Ezequiel 43:4) e foi chamada por escritores posteriores de Shechinah."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:10",
+        "original": "Ex. 16:10"
+      },
+      {
+        "reference": "Exodus 33:9",
+        "original": "Ex 33:9"
+      },
+      {
+        "reference": "Numbers 11:25",
+        "original": "Num. 11:25"
+      },
+      {
+        "reference": "Numbers 12:5",
+        "original": "Num 12:5"
+      },
+      {
+        "reference": "Job 22:14",
+        "original": "Job 22:14"
+      },
+      {
+        "reference": "Psalms 18:11",
+        "original": "Ps. 18:11"
+      },
+      {
+        "reference": "Proverbs 16:15",
+        "original": "Prov. 16:15"
+      },
+      {
+        "reference": "Isaiah 18:4",
+        "original": "Isa. 18:4"
+      },
+      {
+        "reference": "Isaiah 25:5",
+        "original": "Isa 25:5"
+      },
+      {
+        "reference": "Jude 1:1",
+        "original": "Jude 1"
+      },
+      {
+        "reference": "Job 30:15",
+        "original": "Job 30:15"
+      },
+      {
+        "reference": "Hosea 6:4",
+        "original": "Hos. 6:4"
+      },
+      {
+        "reference": "Exodus 29:42",
+        "original": "Ex. 29:42"
+      },
+      {
+        "reference": "Exodus 29:43",
+        "original": "Ex 29:43"
+      },
+      {
+        "reference": "1 Kings 8:10",
+        "original": "1 Kings 8:10"
+      },
+      {
+        "reference": "2 Chronicles 5:14",
+        "original": "2 Chr. 5:14"
+      },
+      {
+        "reference": "Ezekiel 43:4",
+        "original": "Ezek. 43:4"
+      },
+      {
+        "reference": "Exodus 19:9",
+        "original": "Ex. 19:9"
+      },
+      {
+        "reference": "Exodus 40:34",
+        "original": "Ex. 40:34"
+      },
+      {
+        "reference": "Exodus 40:35",
+        "original": "Ex. 40:35"
+      },
+      {
+        "reference": "Matthew 17:5",
+        "original": "Matt. 17:5"
+      },
+      {
+        "reference": "Matthew 24:30",
+        "original": "Matt 24:30"
+      },
+      {
+        "reference": "Acts 1:9",
+        "original": "Acts 1:9"
+      },
+      {
+        "reference": "Acts 1:11",
+        "original": "Acts 1:11"
+      },
+      {
+        "reference": "Ecclesiastes 12:2",
+        "original": "Eccl. 12:2"
+      },
+      {
+        "reference": "Isaiah 44:22",
+        "original": "Isa. 44:22"
+      },
+      {
+        "reference": "Exodus 13:22",
+        "original": "Ex. 13:22"
+      },
+      {
+        "reference": "Exodus 33:10",
+        "original": "Ex 33:10"
+      },
+      {
+        "reference": "Exodus 13:21",
+        "original": "Ex. 13:21"
+      },
+      {
+        "reference": "Exodus 40:36",
+        "original": "Ex 40:36"
+      },
+      {
+        "reference": "Numbers 9:17-23",
+        "original": "Num. 9:17-23"
+      },
+      {
+        "reference": "Proverbs 25:14",
+        "original": "Prov 25:14"
+      },
+      {
+        "reference": "Lamentations 2:1",
+        "original": "Lamentations 2:1"
+      },
+      {
+        "reference": "Lamentations 3:44",
+        "original": "Lamentations 3:44"
+      },
+      {
+        "reference": "1 Kings 8:11",
+        "original": "1 Kings 8:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "cloud-pillar-of": {
+    "name": "Nuvem, Coluna De",
+    "slug": "cloud-pillar-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A coluna de nuvem de dia e de fogo de noite que Deus fez passar diante do acampamento dos filhos de Israel quando no deserto. A nuvem, que se tornava uma coluna quando o exército se movia, parece ter repousado em outros momentos sobre o tabernáculo, de onde se diz que Deus \"descia na coluna\". (Números 12:5; Êxodo 33:9, 10) Ela precedia o exército, aparentemente repousando sobre a arca que liderava o caminho. (Êxodo 13:21; 40:36) etc.; Nm 9:15-23; 10:34"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 12:5",
+        "original": "Numbers 12:5"
+      },
+      {
+        "reference": "Exodus 33:9",
+        "original": "Exodus 33:9"
+      },
+      {
+        "reference": "Exodus 33:10",
+        "original": "Exodus 33:10"
+      },
+      {
+        "reference": "Exodus 13:21",
+        "original": "Exodus 13:21"
+      },
+      {
+        "reference": "Exodus 40:36",
+        "original": "Exodus 40:36"
+      },
+      {
+        "reference": "Numbers 9:15-23",
+        "original": "Numb 9:15-23"
+      },
+      {
+        "reference": "Numbers 10:34",
+        "original": "Numb 10:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "fitches": {
+    "name": "Néguila (ou cominho-preto)",
+    "slug": "fitches",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 28:25, 27), a tradução do hebraico ketsah, “sem dúvida a Nigella sativa, uma pequena planta anual da família Ranunculaceae, que cresce de forma selvagem nos países mediterrâneos e é cultivada no Egito e na Síria por suas sementes”. É traduzida na margem da Versão Revisada como “cominho-preto”. As sementes são usadas como condimento. Em Ezequiel 4:9, esta palavra é a tradução do hebraico kussemeth (incorretamente traduzida como “centeio” na Versão Autorizada em Êxodo 9:32 e Isaías 28:25, mas como “espelta” na Versão Revisada). A leitura “néguila” aqui é um erro; deveria ser “espelta”."
+      },
+      {
+        "source": "SMI",
+        "text": "(isto é, ERVILHACAS), sem dúvida a Nigella sativa, uma planta herbácea anual pertencente à família natural Ranunculaceae (família do ranúnculo), que cresce no sul da Europa e no norte da África. Suas sementes pretas são usadas como pimenta e têm um sabor quase tão pungente. Os sírios polvilham essas sementes sobre seus bolos achatados antes de serem assados. [VEJA Centeio]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 28:25",
+        "original": "Isa. 28:25"
+      },
+      {
+        "reference": "Isaiah 28:27",
+        "original": "Isa. 28:27"
+      },
+      {
+        "reference": "Ezekiel 4:9",
+        "original": "Ezek. 4:9"
+      },
+      {
+        "reference": "Exodus 9:32",
+        "original": "Ex. 9:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "heifer": {
+    "name": "Novilha",
+    "slug": "heifer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. 'eglah, (Deut. 21:4, 6; Jer. 46:20). Não treinada para o jugo (Os. 10:11); que dá leite (Is. 7:21); que ara (Jz. 14:18); que debulha o grão (Jer. 50:11); não submetida ao jugo, um emblema de Judá (Is. 15:5; Jer. 48:34). Heb. parah (Gn. 41:2; Nm. 19:2). Que carrega o jugo (Os. 4:16); \"novilhas de Basã\" (Amós 4:1), metafórico para as mulheres voluptuosas de Samaria. A ordenança do sacrifício da \"novilha vermelha\" descrita em Nm. 19:1-10; comp. Hb. 9:13."
+      },
+      {
+        "source": "SMI",
+        "text": "(1 Samuel 6:7-12; Jó 21:10; Isaías 7:21) A novilha ou vaca jovem não era comumente usada para arar, mas apenas para debulhar o cereal. (Oséias 10:11), mas veja Jz. 14:18. Quando corria sem cabresto (26:4), daí a expressão \"novilha indomada\" (Oséias 4:16), Versão Autorizada \"obstinada\", com a qual Israel é comparado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 21:4",
+        "original": "Deut. 21:4"
+      },
+      {
+        "reference": "Deuteronomy 21:6",
+        "original": "Deut. 21:6"
+      },
+      {
+        "reference": "Jeremiah 46:20",
+        "original": "Jer. 46:20"
+      },
+      {
+        "reference": "Hosea 10:11",
+        "original": "Hos. 10:11"
+      },
+      {
+        "reference": "Isaiah 7:21",
+        "original": "Isa. 7:21"
+      },
+      {
+        "reference": "Judges 14:18",
+        "original": "Judg. 14:18"
+      },
+      {
+        "reference": "Jeremiah 50:11",
+        "original": "Jer. 50:11"
+      },
+      {
+        "reference": "Isaiah 15:5",
+        "original": "Isa. 15:5"
+      },
+      {
+        "reference": "Jeremiah 48:34",
+        "original": "Jer. 48:34"
+      },
+      {
+        "reference": "Genesis 41:2",
+        "original": "Gen. 41:2"
+      },
+      {
+        "reference": "Numbers 19:2",
+        "original": "Num. 19:2"
+      },
+      {
+        "reference": "Hosea 4:16",
+        "original": "Hos. 4:16"
+      },
+      {
+        "reference": "Amos 4:1",
+        "original": "Amos 4:1"
+      },
+      {
+        "reference": "Numbers 19:1-10",
+        "original": "Num. 19:1-10"
+      },
+      {
+        "reference": "Hebrews 9:13",
+        "original": "Heb. 9:13"
+      },
+      {
+        "reference": "1 Samuel 6:7-12",
+        "original": "1 Samuel 6:7-12"
+      },
+      {
+        "reference": "Job 21:10",
+        "original": "Job 21:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  }
+}

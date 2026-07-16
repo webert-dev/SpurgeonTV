@@ -1,0 +1,206 @@
+{
+  "kabzeel": {
+    "name": "Kabzeel",
+    "slug": "kabzeel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Reunião de Deus, uma cidade no extremo sul de Judá, perto de Idumeia (Josué 15:21), o local de nascimento de Benaia, um dos principais guerreiros de Davi (2 Sm 23:20; 1 Cr 11:22). Também era chamada de Jecabzeel (Neemias 11:25), após o Cativeiro."
+      },
+      {
+        "source": "SMI",
+        "text": "(reunido por Deus), uma das “cidades” da tribo de Judá, (Josué 15:21) o lugar natal do grande herói Benaia ben-Joiada. (2 Samuel 23:20; 1 Crônicas 11:22) Após o cativeiro, foi habitada novamente pelos judeus e aparece como Jecabzeel."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:21",
+        "original": "Josh. 15:21"
+      },
+      {
+        "reference": "2 Samuel 23:20",
+        "original": "2 Sam. 23:20"
+      },
+      {
+        "reference": "1 Chronicles 11:22",
+        "original": "1 Chr. 11:22"
+      },
+      {
+        "reference": "Nehemiah 11:25",
+        "original": "Neh. 11:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "k"
+  },
+  "kefr-kenna": {
+    "name": "Kefr Kenna",
+    "slug": "kefr-kenna",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Veja Caná]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "k"
+  },
+  "kehelathah": {
+    "name": "Keelata",
+    "slug": "kehelathah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Assembleia, uma das estações dos israelitas no deserto (Números 33:22, 23)."
+      },
+      {
+        "source": "SMI",
+        "text": "(assembleia), um acampamento dos israelitas no deserto, (Números 33:22), sobre o qual nada se sabe."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 33:22",
+        "original": "Num. 33:22"
+      },
+      {
+        "reference": "Numbers 33:23",
+        "original": "Num. 33:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "k"
+  },
+  "kemuel": {
+    "name": "Kemuel",
+    "slug": "kemuel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Auxiliador de Deus, ou assembleia de Deus. (1.) O terceiro filho de Naor (Gênesis 22:21). (2.) Filho de Siftã, nomeado em nome da tribo de Efraim para repartir a terra de Canaã (Números 34:24). (3.) Um levita (1 Crônicas 27:17)."
+      },
+      {
+        "source": "SMI",
+        "text": "(congregação de Deus)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 22:21",
+        "original": "Gen. 22:21"
+      },
+      {
+        "reference": "Numbers 34:24",
+        "original": "Num. 34:24"
+      },
+      {
+        "reference": "1 Chronicles 27:17",
+        "original": "1 Chr. 27:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "k"
+  },
+  "kesitah": {
+    "name": "Kesitah",
+    "slug": "kesitah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gênesis 33:19, margem da V.R., uma palavra hebraica, traduzida, na A.V., no plural como “peças de dinheiro”, margem, “cordeiros”; Josué 24:32, “peças de prata”; Jó 42:11, “peça de dinheiro”). A kesitah era provavelmente uma peça de dinheiro de um peso específico, moldada na forma de um cordeiro. Os monumentos do Egito mostram que tais pesos eram utilizados. (Veja PEÇAS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 33:19",
+        "original": "Gen. 33:19"
+      },
+      {
+        "reference": "Joshua 24:32",
+        "original": "Josh. 24:32"
+      },
+      {
+        "reference": "Job 42:11",
+        "original": "Job 42:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "k"
+  },
+  "knop": {
+    "name": "Knop",
+    "slug": "knop",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Algum tipo de ornamento arquitetônico. (1.) Heb. kaphtor (Êx. 25:31-36), que ocorre na descrição do candelabro. Era um bojo ornamental abaixo das taças do candelabro, provavelmente uma imitação do fruto da amendoeira. (2.) Heb. peka’im, encontrado apenas em 1 Reis 6:18 e 7:24, um ornamento que lembra uma pequena cabaça ou um ovo, no lambril de cedro no templo e nas fundições na borda do mar de metal fundido."
+      },
+      {
+        "source": "SMI",
+        "text": "uma palavra empregada na Versão Autorizada para traduzir dois termos que se referem a algum objeto arquitetônico ou ornamental, mas que não têm nada em comum."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:31-36",
+        "original": "Ex. 25:31-36"
+      },
+      {
+        "reference": "1 Kings 6:18",
+        "original": "1 Kings 6:18"
+      },
+      {
+        "reference": "Exodus 37:17-22",
+        "original": "Exod 37:17-22"
+      },
+      {
+        "reference": "1 Kings 7:24",
+        "original": "1Kin 7:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "k"
+  },
+  "koa": {
+    "name": "Koa",
+    "slug": "koa",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Camelo macho, ocorre apenas em Ez. 23:23, alguma província ou lugar no império babilônico, usado nesta passagem juntamente com Shoa (q.v.)."
+      },
+      {
+        "source": "SMI",
+        "text": "(camelo macho) é uma palavra que ocorre apenas em (Ezequiel 23:23). Talvez tenha sido uma cidade ou distrito da Babilônia; ou pode ser um substantivo comum, significando “príncipe” ou “nobre”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 23:23",
+        "original": "Ezek. 23:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "k"
+  }
+}

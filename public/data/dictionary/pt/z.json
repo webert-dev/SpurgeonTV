@@ -1,0 +1,104 @@
+{
+  "bramble": {
+    "name": "Zarzamora",
+    "slug": "bramble",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Hebraico atad, Juízes 9:14; traduzido como “espinho”, Salmos 58:9. A LXX e a Vulgata traduzem por rhamnus, um arbusto espinhoso comum na Palestina, semelhante ao espinheiro-alvar. (2.) Hebraico hoah, Isaías 34:13 (ARA “cardos”); “moitas” em 1 Samuel 13:6; “cardos” em 2 Reis 14:9, 2 Crônicas 25:18, Jó 31:40; “espinhos” em 2 Crônicas 33:11, Cantares 2:2, Oseias 9:6. A palavra pode ser considerada como denotando o cardo comum, do qual existem muitas espécies que obstruem os campos de milho da Palestina. (Ver ESPINHOS.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Espinhos]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 9:14",
+        "original": "Judg. 9:14"
+      },
+      {
+        "reference": "Psalms 58:9",
+        "original": "Ps. 58:9"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa. 34:13"
+      },
+      {
+        "reference": "1 Samuel 13:6",
+        "original": "1 Sam. 13:6"
+      },
+      {
+        "reference": "2 Kings 14:9",
+        "original": "2 Kings 14:9"
+      },
+      {
+        "reference": "2 Kings 14:2",
+        "original": "2 Kings 14:2"
+      },
+      {
+        "reference": "Job 31:40",
+        "original": "Job 31:40"
+      },
+      {
+        "reference": "2 Chronicles 33:11",
+        "original": "2 Chr. 33:11"
+      },
+      {
+        "reference": "Song of Solomon 2:2",
+        "original": "Cant. 2:2"
+      },
+      {
+        "reference": "Hosea 9:6",
+        "original": "Hos. 9:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "z"
+  },
+  "juniper": {
+    "name": "Zimbro",
+    "slug": "juniper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. rothem), chamado pelos árabes de retem, e conhecido como giesta espanhola; classificado no gênero genista. É um arbusto do deserto, e abunda em muitas partes da Palestina. No relato de sua viagem de Ácaba a Jerusalém, o Dr. Robinson diz: “Este é o maior e mais notável arbusto destes desertos, crescendo densamente nos cursos de água e vales. Nossos árabes sempre escolhiam o local de acampamento, se possível, em um ponto onde ele crescesse, a fim de serem abrigados por ele à noite contra o vento; e durante o dia, quando eles frequentemente seguiam à frente dos camelos, nós os encontrávamos não raramente sentados ou dormindo sob um arbusto de retem para abrigá-los do sol. Foi neste mesmo deserto, a um dia de jornada de Berseba, que o profeta Elias deitou-se e dormiu sob o mesmo arbusto” (1 Reis 19:4, 5). Ele fornecia material para combustível e também, em casos extremos, para alimento humano (Sl 120:4; Jó 30:4). Um dos acampamentos no deserto de Parã é chamado Ritma, isto é, “lugar de giesta” (Núm 33:18). “Os beduínos do Sinai ainda queimam esta planta para fazer um carvão que emana um calor muito intenso.”"
+      },
+      {
+        "source": "SMI",
+        "text": "(1 Reis 19:4,5; Jó 30:4; Salmos 120:4) uma espécie de giesta, Genista monosperma, G. raetam de Forskal, correspondendo ao árabe rethem. É muito abundante no deserto do Sinai e proporciona sombra e proteção, tanto no calor quanto na tempestade, aos viajantes. A rethem é uma planta leguminosa e possui uma flor branca. É encontrada também na Espanha. É um arbusto ereto, sem tronco principal, mas com muitos ramos esguios semelhantes a varas, e às vezes atinge doze pés de altura. Seu uso é muito grande para conter a areia.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 19:4",
+        "original": "1 Kings 19:4"
+      },
+      {
+        "reference": "1 Kings 19:5",
+        "original": "1 Kings 19:5"
+      },
+      {
+        "reference": "Psalms 120:4",
+        "original": "Ps. 120:4"
+      },
+      {
+        "reference": "Job 30:4",
+        "original": "Job 30:4"
+      },
+      {
+        "reference": "Numbers 33:18",
+        "original": "Num. 33:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "z"
+  }
+}
