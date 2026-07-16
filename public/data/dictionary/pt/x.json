@@ -1,0 +1,22 @@
+{
+  "sheriffs": {
+    "name": "Xerifes",
+    "slug": "sheriffs",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dn 3,2), oficiais babilônicos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:2",
+        "original": "Dan. 3:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "x"
+  }
+}

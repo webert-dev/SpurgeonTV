@@ -1,0 +1,30 @@
+{
+  "abraham-s-bosom": {
+    "name": "Seno de Abraham",
+    "slug": "abraham-s-bosom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lucas 16:22, 23) se refiere a la costumbre de recostarse en divanes en la mesa, que era frecuente entre los judíos, un arreglo que llevaba la cabeza de una persona casi al seno de aquel que se sentaba o recostaba encima de él. Por lo tanto, “estar en el seno de Abraham” significaba disfrutar de felicidad y descanso (Mateo 8:11; Lucas 16:23) en el banquete del Paraíso. (Ver banquete; COMIDAS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 16:22",
+        "original": "Luke 16:22"
+      },
+      {
+        "reference": "Luke 16:23",
+        "original": "Luke 16:23"
+      },
+      {
+        "reference": "Matthew 8:11",
+        "original": "Matt. 8:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  }
+}

@@ -15714,5 +15714,730 @@
       "SMI"
     ],
     "letter": "j"
+  },
+  "misdeem": {
+    "name": "Julgar mal (Misdeem)",
+    "slug": "misdeem",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dt 32:27, R.V.). A versão Autorizada diz: \"comportar-se-iam estranhamente\"; isto é, não reconhecer a verdade, entender mal ou confundir a causa da ruína de Israel, que se devia ao fato de que Deus os havia abandonado por causa de sua apostasia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:27",
+        "original": "Deut. 32:27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "nose-jewel": {
+    "name": "Joia nasal",
+    "slug": "nose-jewel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Gênesis 24:22; Êxodo 35:22) “pendente”; (Isaías 3:21; Ezequiel 16:12) “joia na testa”, um anel de metal, às vezes de ouro ou prata, passado geralmente pela narina direita e usado como ornamento por mulheres no Oriente. Nele são enfiadas contas, coral ou joias. No Egito, hoje está quase restrito às classes mais baixas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:22",
+        "original": "Genesis 24:22"
+      },
+      {
+        "reference": "Exodus 35:22",
+        "original": "Exodus 35:22"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isaiah 3:21"
+      },
+      {
+        "reference": "Ezekiel 16:12",
+        "original": "Ezekiel 16:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "nose-jewels": {
+    "name": "Joias nasais",
+    "slug": "nose-jewels",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionadas apenas em Is. 3:21, embora referidas em Gn. 24:47, Pv. 11:22, Os. 2:13. Eram um dos ornamentos femininos antigos mais valorizados. Eles “eram feitos de marfim ou metal, e ocasionalmente cravejados de joias. Tinham mais de uma polegada de diâmetro e pendiam sobre a boca. Eliézer deu um a Rebeca que era de ouro e pesava meio siclo... Nos dias de hoje, as mulheres no campo e no deserto usam esses ornamentos em um dos lados das narinas, que caem como as orelhas devido ao peso.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isa. 3:21"
+      },
+      {
+        "reference": "Genesis 24:47",
+        "original": "Gen. 24:47"
+      },
+      {
+        "reference": "Proverbs 11:22",
+        "original": "Prov. 11:22"
+      },
+      {
+        "reference": "Hosea 2:13",
+        "original": "Hos. 2:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "oath": {
+    "name": "Juramento",
+    "slug": "oath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um apelo solene a Deus, permitido em ocasiões apropriadas (Deut. 6:13; Jer. 4:2), de várias formas (Gên. 16:5; 2 Sam. 12:5; Rute 1:17; Os. 4:15; Rom. 1:9), e feito de maneiras diferentes (Gên. 14:22; 24:2; 2 Crôn. 6:22). Deus é representado como fazendo um juramento (Heb. 6:16-18), assim como Cristo (Mat. 26:64), e Paulo (Rom. 9:1; Gál. 1:20; Fil. 1:8). O preceito “Não jureis de modo algum” refere-se provavelmente à conversação comum entre homem e homem (Mat. 5:34, 37). Mas se as palavras forem tomadas como referindo-se aos juramentos, então sua intenção pode ter sido mostrar “que o estado apropriado dos cristãos é não exigir juramentos; que quando o mal for expulso do meio deles, cada sim e não será tão decisivo quanto um juramento, cada promessa tão obrigatória quanto um voto.”"
+      },
+      {
+        "source": "SMI",
+        "text": "O princípio pelo qual um juramento é considerado obrigatório é incidentalmente estabelecido em (Hebreus 6:16), ou seja, como um apelo final à autoridade divina para ratificar uma afirmação. Pelo mesmo princípio, o juramento que apela à autoridade mais elevada sempre foi considerado o mais vinculativo, tanto em relação a indivíduos quanto a comunidades. Como consequência deste princípio, apelos ao nome de Deus, por um lado, e a divindades pagãs, por outro, são tratados nas Escrituras como testes de lealdade. (Êxodo 23:13; 34:6; 29:12) etc. Assim também o nome do soberano é às vezes usado como uma forma de obrigação. (Gênesis 42:15; 2 Samuel 11:11; 14:19). Outras formas de juramento, sérias ou frívolas, são mencionadas, algumas das quais são condenadas pelo nosso Senhor. (Mateus 6:33; 23:16-22) e veja (Tiago 5:12). (Há, no entanto, uma diferença mundial entre um apelo solene a Deus e o juramento profano.) As formas de adjuração mencionadas nas Escrituras são—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 6:13",
+        "original": "Deut. 6:13"
+      },
+      {
+        "reference": "Jeremiah 4:2",
+        "original": "Jer. 4:2"
+      },
+      {
+        "reference": "Genesis 16:5",
+        "original": "Gen. 16:5"
+      },
+      {
+        "reference": "2 Samuel 12:5",
+        "original": "2 Sam. 12:5"
+      },
+      {
+        "reference": "Ruth 1:17",
+        "original": "Ruth 1:17"
+      },
+      {
+        "reference": "Hosea 4:15",
+        "original": "Hos. 4:15"
+      },
+      {
+        "reference": "Romans 1:9",
+        "original": "Rom. 1:9"
+      },
+      {
+        "reference": "Genesis 14:22",
+        "original": "Gen. 14:22"
+      },
+      {
+        "reference": "Genesis 24:2",
+        "original": "Gen 24:2"
+      },
+      {
+        "reference": "2 Chronicles 6:22",
+        "original": "2 Chr. 6:22"
+      },
+      {
+        "reference": "Hebrews 6:16-18",
+        "original": "Heb. 6:16-18"
+      },
+      {
+        "reference": "Matthew 26:64",
+        "original": "Matt. 26:64"
+      },
+      {
+        "reference": "Romans 9:1",
+        "original": "Rom. 9:1"
+      },
+      {
+        "reference": "Galatians 1:20",
+        "original": "Gal. 1:20"
+      },
+      {
+        "reference": "Philippians 1:8",
+        "original": "Phil. 1:8"
+      },
+      {
+        "reference": "Matthew 5:34",
+        "original": "Matt. 5:34"
+      },
+      {
+        "reference": "Matthew 5:37",
+        "original": "Matt. 5:37"
+      },
+      {
+        "reference": "Hebrews 6:16",
+        "original": "Hebrews 6:16"
+      },
+      {
+        "reference": "Exodus 23:13",
+        "original": "Exodus 23:13"
+      },
+      {
+        "reference": "Exodus 34:6",
+        "original": "Exodus 34:6"
+      },
+      {
+        "reference": "Exodus 29:12",
+        "original": "Exodus 29:12"
+      },
+      {
+        "reference": "Genesis 42:15",
+        "original": "Genesis 42:15"
+      },
+      {
+        "reference": "2 Samuel 11:11",
+        "original": "2 Samuel 11:11"
+      },
+      {
+        "reference": "2 Samuel 14:19",
+        "original": "2 Samuel 14:19"
+      },
+      {
+        "reference": "Matthew 6:33",
+        "original": "Matthew 6:33"
+      },
+      {
+        "reference": "Matthew 23:16-22",
+        "original": "Matthew 23:16-22"
+      },
+      {
+        "reference": "James 5:12",
+        "original": "James 5:12"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Leviticus 24:14"
+      },
+      {
+        "reference": "Leviticus 17:7",
+        "original": "Leviticus 17:7"
+      },
+      {
+        "reference": "Isaiah 3:7",
+        "original": "Isaiah 3:7"
+      },
+      {
+        "reference": "Genesis 47:29",
+        "original": "Genesis 47:29"
+      },
+      {
+        "reference": "1 Kings 8:31",
+        "original": "1 Kings 8:31"
+      },
+      {
+        "reference": "Genesis 15:10",
+        "original": "Genesis 15:10"
+      },
+      {
+        "reference": "Genesis 15:17",
+        "original": "Genesis 15:17"
+      },
+      {
+        "reference": "Jeremiah 34:18",
+        "original": "Jeremiah 34:18"
+      },
+      {
+        "reference": "Exodus 20:7",
+        "original": "Exodus 20:7"
+      },
+      {
+        "reference": "Leviticus 19:12",
+        "original": "Leviticus 19:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "righteousness": {
+    "name": "Justiça",
+    "slug": "righteousness",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Veja JUSTIFICAÇÃO."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "supper": {
+    "name": "Jantar",
+    "slug": "supper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A refeição principal do dia entre os judeus. Era consumida no início da noite (Marcos 6:21; João 12:2; 1 Coríntios 11:21). (Ver CEIA DO SENHOR.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 6:21",
+        "original": "Mark 6:21"
+      },
+      {
+        "reference": "John 12:2",
+        "original": "John 12:2"
+      },
+      {
+        "reference": "1 Corinthians 11:21",
+        "original": "1 Cor. 11:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "tammuz": {
+    "name": "Julho",
+    "slug": "tammuz",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma deformação do nome Dumuzi, o deus acádio do sol (o Adônis dos gregos), marido da deusa Ishtar. No calendário caldeu, havia um mês dedicado em homenagem a esse deus, que abrangia junho e julho, marcando o início do solstício de verão. Nessa festa, que durava seis dias, os fiéis, com lamentos altos, choravam o funeral do deus; sentavam-se “chorando por Tammuz” (Ezequiel 8:14). O nome, também emprestado da Caldeia, de um dos meses do calendário hebraico."
+      },
+      {
+        "source": "SMI",
+        "text": "(brotinho da vida), propriamente “o Tammuz”, sendo que o artigo indica que, em algum momento, a palavra já havia sido considerada um nome próprio. (Ezequiel 8:14) Jerônimo identifica Tammuz com Adônis, da mitologia grega, que, segundo a lenda, perdeu sua esposa durante uma caçada, ferido pela presa de um javali selvagem. Ele era muito amado pela deusa Vênus, que ficou inconsolável com sua perda. Segundo Ovídio, seu sangue deu origem à anêmona, mas, segundo outros, ao adônio, enquanto a anêmona brotou das lágrimas de Vênus. Um festival em honra de Adônis era celebrado em Biblos, na Fenícia, e na maioria das cidades gregas, e até mesmo pelos judeus quando estes degeneraram na idolatria. O festival ocorria em julho e era acompanhado por ritos obscenos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 8:14",
+        "original": "Ezek. 8:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "taphath": {
+    "name": "Jogar",
+    "slug": "taphath",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Ornamento), filha de Salomão, que se casou com Ben-Abinadabe. (1 Reis 4:11) (cerca de 1000 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 4:11",
+        "original": "1 Kings 4:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "taphon": {
+    "name": "Jogo",
+    "slug": "taphon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "uma das cidades da Judéia fortificadas por Bacchides. 1 Mac. 9:50. Provavelmente trata-se da Beth-tappuah do Antigo Testamento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1Macc 9:50",
+        "original": "1 Macc. 9:50"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "tares": {
+    "name": "Joio",
+    "slug": "tares",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O joio barbudo, mencionado apenas em Mateus 13:25-30. Trata-se do Lolium temulentum, uma espécie de azevém, cujas sementes contêm um forte veneno soporífero. Ela se assemelha muito ao trigo até o aparecimento da espiga, e somente então a diferença é percebida. Cresce em abundância na Síria e na Palestina."
+      },
+      {
+        "source": "SMI",
+        "text": "Não há dúvida de que a “zizania” da parábola (Mateus 13:25) se refere à erva daninha chamada “joio” (Lolium temulentum). O joio, antes de espigar, é muito semelhante em aparência ao trigo; daí a ordem de que a zizânia fosse deixada até a colheita, para que, ao arrancarem o joio, “não arrancassem também o trigo junto com ele”. O Dr. Stanley, no entanto, fala de mulheres e crianças colhendo, entre o trigo nos campos de Samaria, os caules altos e verdes, ainda chamados pelos árabes de zuwan. “Esses caules”, continua ele, “se semeados propositalmente pelos campos, seriam inseparáveis do trigo, do qual, mesmo quando crescem naturalmente e por acaso, são à primeira vista dificilmente distinguíveis”. Veja também Thomson (“The Land and the Book”, p. 420): “O grão está exatamente no estágio adequado para ilustrar a parábola. Nas áreas onde o grão já espigou, o joio também o fez, e então uma criança não pode confundi-lo com trigo ou cevada; mas onde ambos estão menos desenvolvidos, mesmo o exame mais minucioso muitas vezes não consegue detectá-los. Mesmo os agricultores, que neste país geralmente capinam seus campos, não tentam separar um do outro.” Os grãos da L. temulentum, se ingeridos, provocam convulsões e até mesmo a morte."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 13:25-30",
+        "original": "Matt. 13:25-30"
+      },
+      {
+        "reference": "Matthew 13:25",
+        "original": "Matthew 13:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "telah": {
+    "name": "Já",
+    "slug": "telah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(vigor), descendente de Efraim e antepassado de Josué. (1 Crônicas 7:25) (antes de 1491 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:25",
+        "original": "1 Chronicles 7:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "telmelah": {
+    "name": "Já foi",
+    "slug": "telmelah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[TEL-HARSA]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "titus-justus": {
+    "name": "Justus Titus",
+    "slug": "titus-justus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(A forma apresentada na Versão Revisada, referente ao prosélito Justo, em cuja casa, em Corinto, Paulo pregou quando foi expulso da sinagoga. Ele é, possivelmente, o mesmo Tito, companheiro de Paulo.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "tob": {
+    "name": "Já chega",
+    "slug": "tob",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(boa), A terra de, um lugar onde Jefté se refugiou ao ser expulso de casa por seu meio-irmão (Juízes 11:3) e onde permaneceu, à frente de um bando de salteadores, até ser trazido de volta pelos xeques de Gileade. vers. 5. A narrativa sugere que a terra de Tob não ficava muito distante de Gileade; ao mesmo tempo, pela natureza do caso, ela deve ter ficado em direção aos desertos orientais. Sem dúvida, ela é mencionada novamente em (2 Samuel 10:6,8) como Ishtob, ou seja, “homem de Tob”, significando, de acordo com uma expressão idiomática hebraica comum, “os homens de Tob”. Após um longo intervalo, ela reaparece na história macabeia, em 1 Mac. 5:13, nos nomes Tobie e Tubieni. 2 Mac. 12:17. Ainda não se tentou identificar a antiga região com nenhuma região moderna."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 11:3",
+        "original": "Judges 11:3"
+      },
+      {
+        "reference": "2 Samuel 10:6",
+        "original": "2 Samuel 10:6"
+      },
+      {
+        "reference": "2 Samuel 10:8",
+        "original": "2 Samuel 10:8"
+      },
+      {
+        "reference": "1Macc 5:13",
+        "original": "1 Macc. 5:13"
+      },
+      {
+        "reference": "2Macc 12:17",
+        "original": "2 Macc. 12:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "trial": {
+    "name": "Julgamento",
+    "slug": "trial",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Informações sobre o tema dos julgamentos segundo a lei judaica podem ser encontradas nos artigos sobre “Juízes” e “Sanhedrin”, bem como no artigo sobre “Jesus Cristo”."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "uknaz": {
+    "name": "Já chega",
+    "slug": "uknaz",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Na margem de (1 Crônicas 4:16), as palavras “até mesmo Kenaz” no texto são traduzidas como “Uknaz”, como nome próprio."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:16",
+        "original": "1 Chronicles 4:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "window": {
+    "name": "Janela",
+    "slug": "window",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A rigor, trata-se apenas de uma abertura em uma casa destinada à entrada de luz e ar, coberta por uma treliça, que podia ser aberta ou fechada (2 Reis 1:2; Atos 20:9). Os espiões em Jericó e Paulo em Damasco foram baixados pelas janelas das casas que se encostavam à muralha da cidade (Josué 2:15; 2 Coríntios 11:33). As nuvens são metaforicamente chamadas de “janelas do céu” (Gênesis 7:11; Malaquias 3:10). A palavra traduzida dessa forma em Isaías 54:12 deveria, na verdade, ser traduzida como “meninas” (LXX, “baluartes”; R.V., “pináculos”), ou, como Gesenius a traduz, “crenelados com entalhes, ou seja, sóis ou raios de sol” = com uma aparência radiante como a do sol."
+      },
+      {
+        "source": "SMI",
+        "text": "A janela de uma casa oriental consiste geralmente em uma abertura fechada por uma treliça. (Juízes 5:28; Provérbios 7:6) Versão Autorizada: “vantagem”; (Eclesiastes 12:3) Versão Autorizada: “janela”; (Cântico dos Cânticos 2:9; Oséias 13:3) Versão Autorizada: “chaminé”. O vidro foi introduzido no Egito nos tempos modernos como proteção contra o frio do inverno, mas a treliça ainda é o recurso mais comum — e, para os pobres, o único — para fechar a janela. As janelas geralmente dão para o pátio interno da casa, mas em todas as casas uma ou mais dão para a rua. No Egito, essas janelas externas geralmente se projetam sobre a porta de entrada. [Casa]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 1:2",
+        "original": "2 Kings 1:2"
+      },
+      {
+        "reference": "Acts 20:9",
+        "original": "Acts 20:9"
+      },
+      {
+        "reference": "Joshua 2:15",
+        "original": "Josh. 2:15"
+      },
+      {
+        "reference": "2 Corinthians 11:33",
+        "original": "2 Cor. 11:33"
+      },
+      {
+        "reference": "Genesis 7:11",
+        "original": "Gen. 7:11"
+      },
+      {
+        "reference": "Malachi 3:10",
+        "original": "Mal. 3:10"
+      },
+      {
+        "reference": "Isaiah 54:12",
+        "original": "Isa. 54:12"
+      },
+      {
+        "reference": "Judges 5:28",
+        "original": "Judges 5:28"
+      },
+      {
+        "reference": "Proverbs 7:6",
+        "original": "Proverbs 7:6"
+      },
+      {
+        "reference": "Ecclesiastes 12:3",
+        "original": "Ecclesiastes 12:3"
+      },
+      {
+        "reference": "Hosea 13:3",
+        "original": "Hosea 13:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "yeshebi": {
+    "name": "Jesus",
+    "slug": "yeshebi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A palavra hebraica traduzida como “habitantes” em Josué 17:7, mas que provavelmente se refere ao nome da aldeia Yeshepheh, talvez Yassuf, a 8 milhas ao sul de Siquém."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 17:7",
+        "original": "Josh. 17:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "yoke": {
+    "name": "Jugo",
+    "slug": "yoke",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Colocado no pescoço dos bois com o objetivo de prender a eles as rédeas com as quais eles puxariam o arado, etc. (Nm 19:2; Dt 21:3). Era uma peça curva de madeira chamada ’ol. (2.) Em Jeremias 27:2; 28:10, 12, a palavra traduzida como “jugo” na Versão Autorizada é motah, que significa propriamente um “bastão” ou, como na Versão Revisada, uma “barra”. Essas palavras, em hebraico, são ambas usadas figurativamente para designar servidão severa, aflição ou submissão (Lev. 26:13; 1 Reis 12:4; Isa. 47:6; Lm. 1:14; 3:27). No Novo Testamento, a palavra “jugo” também é usada para denotar servidão (Mt 11,29-30; At 15,10; Gl 5,1). (3.) Em 1 Samuel 11:7, 1 Reis 19:21 e Jó 1:3, a palavra assim traduzida é tzemed, que significa um par, dois bois atrelados ou acoplados, e, portanto, em 1 Samuel 14:14 ela representa a quantidade de terra que um jugo de bois poderia arar em um dia, semelhante ao termo latino jugum. Em Isaías 5:10, essa palavra no plural é traduzida como “acres”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 19:2",
+        "original": "Num. 19:2"
+      },
+      {
+        "reference": "Deuteronomy 21:3",
+        "original": "Deut. 21:3"
+      },
+      {
+        "reference": "Jeremiah 27:2",
+        "original": "Jer. 27:2"
+      },
+      {
+        "reference": "Jeremiah 28:10",
+        "original": "Jer 28:10"
+      },
+      {
+        "reference": "Jeremiah 28:12",
+        "original": "Jer 28:12"
+      },
+      {
+        "reference": "Leviticus 26:13",
+        "original": "Lev. 26:13"
+      },
+      {
+        "reference": "1 Kings 12:4",
+        "original": "1 Kings 12:4"
+      },
+      {
+        "reference": "Isaiah 47:6",
+        "original": "Isa. 47:6"
+      },
+      {
+        "reference": "Lamentations 1:14",
+        "original": "Lam. 1:14"
+      },
+      {
+        "reference": "Lamentations 3:27",
+        "original": "Lam 3:27"
+      },
+      {
+        "reference": "Matthew 11:29",
+        "original": "Matt. 11:29"
+      },
+      {
+        "reference": "Matthew 11:30",
+        "original": "Matt. 11:30"
+      },
+      {
+        "reference": "Acts 15:10",
+        "original": "Acts 15:10"
+      },
+      {
+        "reference": "Galatians 5:1",
+        "original": "Gal. 5:1"
+      },
+      {
+        "reference": "1 Samuel 11:7",
+        "original": "1 Sam. 11:7"
+      },
+      {
+        "reference": "1 Samuel 11:1",
+        "original": "1 Sam. 11:1"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "1 Samuel 14:14",
+        "original": "1 Sam. 14:14"
+      },
+      {
+        "reference": "Isaiah 5:10",
+        "original": "Isa. 5:10"
+      },
+      {
+        "reference": "1 Kings 12:9-11",
+        "original": "1 Kings 12:9-11"
+      },
+      {
+        "reference": "Isaiah 9:4",
+        "original": "Isaiah 9:4"
+      },
+      {
+        "reference": "Jeremiah 5:5",
+        "original": "Jeremiah 5:5"
+      },
+      {
+        "reference": "Jeremiah 28:13",
+        "original": "Jeremiah 28:13"
+      },
+      {
+        "reference": "1 Kings 19:19",
+        "original": "1 Kings 19:19"
+      },
+      {
+        "reference": "1 Kings 19:21",
+        "original": "1 Kings 19:21"
+      },
+      {
+        "reference": "Judges 19:10",
+        "original": "Judges 19:10"
+      },
+      {
+        "reference": "2 Kings 5:17",
+        "original": "2 Kings 5:17"
+      },
+      {
+        "reference": "Isaiah 21:7",
+        "original": "Isaiah 21:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "absaloms-pillar-or-place": {
+    "name": "Pilar o Lugar de Absalón",
+    "slug": "absaloms-pillar-or-place",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Un monumento de tumba que Absalón había construido durante su vida en el valle del rey, es decir, el valle del Cedrón, al pie del Monte de los Olivos, cerca de Jerusalén (2 Samuel 18:18), comp. con 2Sam 14:27 para sus tres hijos, y donde probablemente esperaba ser enterrado. La tumba allí ahora, y llamada por el nombre de Absalón, probablemente fue construida en una fecha posterior."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 18:18",
+        "original": "2 Samuel 18:18"
+      },
+      {
+        "reference": "2 Samuel 14:27",
+        "original": "2Sam 14:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  }
+}

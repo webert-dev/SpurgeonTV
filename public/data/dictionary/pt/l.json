@@ -7195,5 +7195,2375 @@
       "SMI"
     ],
     "letter": "l"
+  },
+  "moon": {
+    "name": "Lua",
+    "slug": "moon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. yareah, de sua palidez (Esdras 6:15), e lebanah, a “branca” (Cânt. 6:10; Isa. 24:23), foi nomeada pelo Criador para estar com o sol “para sinais, para estações, para dias e para anos” (Gên. 1:14-16). Uma lunação era entre os judeus o período de um mês, e várias de suas festas eram realizadas no dia da lua nova. É frequentemente mencionada junto com o sol (Jos. 10:12; Sal. 72:5, 7, 17; 89:36, 37; Ecl. 12:2; Isa. 24:23, etc.), e também por si mesma (Sal. 8:3; 121:6). O grande brilho da lua nos países orientais levou-a a ser cedo um objeto de adoração idólatra (Deut. 4:19; 17:3; Jó 31:26), uma forma de idolatria contra a qual os judeus foram avisados (Deut. 4:19; 17:3). Eles, contudo, caíram nessa idolatria e ofereceram incenso (2 Reis 23:5; Jer. 8:2), e também bolos de mel, à lua (Jer. 7:18; 44:17-19, 25)."
+      },
+      {
+        "source": "SMI",
+        "text": "A lua ocupava um lugar importante no reino da natureza, como conhecido pelos hebreus. Juntamente com o sol, foi nomeada “para sinais e para estações, e para dias e anos;” embora a esse respeito exercesse uma influência mais importante, se por “estações” entendermos as grandes festas religiosas dos judeus, como é particularmente declarado em (Salmos 104:19) e mais longamente em Eclesiástico 43:6,7. A adoração da lua prevaleceu extensivamente entre as nações do Oriente, e sob uma variedade de aspectos. Era uma das únicas duas divindades que comandavam a reverência de todos os egípcios. A adoração dos corpos celestes é mencionada em (Jó 31:26,27) e Moisés avisa diretamente os judeus contra ela. (4:19) Na linguagem figurada da Escritura, a lua é frequentemente notada como pressagiando eventos da maior importância através da retirada temporária ou permanente de sua luz. (Isaías 13:10; Joel 2:31; Mateus 24:29; Marcos 13:24)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 6:15",
+        "original": "Ezra 6:15"
+      },
+      {
+        "reference": "Song of Solomon 6:10",
+        "original": "Cant. 6:10"
+      },
+      {
+        "reference": "Isaiah 24:23",
+        "original": "Isa. 24:23"
+      },
+      {
+        "reference": "Genesis 1:14-16",
+        "original": "Gen. 1:14-16"
+      },
+      {
+        "reference": "Joshua 10:12",
+        "original": "Josh. 10:12"
+      },
+      {
+        "reference": "Psalms 72:5",
+        "original": "Ps. 72:5"
+      },
+      {
+        "reference": "Psalms 72:7",
+        "original": "Ps. 72:7"
+      },
+      {
+        "reference": "Psalms 72:17",
+        "original": "Ps. 72:17"
+      },
+      {
+        "reference": "Ecclesiastes 12:2",
+        "original": "Eccl. 12:2"
+      },
+      {
+        "reference": "Psalms 8:3",
+        "original": "Ps. 8:3"
+      },
+      {
+        "reference": "Psalms 121:6",
+        "original": "Ps 121:6"
+      },
+      {
+        "reference": "Deuteronomy 4:19",
+        "original": "Deut. 4:19"
+      },
+      {
+        "reference": "Deuteronomy 17:3",
+        "original": "Deut 17:3"
+      },
+      {
+        "reference": "Job 31:26",
+        "original": "Job 31:26"
+      },
+      {
+        "reference": "2 Kings 23:5",
+        "original": "2 Kings 23:5"
+      },
+      {
+        "reference": "Jeremiah 8:2",
+        "original": "Jer. 8:2"
+      },
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Jeremiah 44:17-19",
+        "original": "Jer 44:17-19"
+      },
+      {
+        "reference": "Jeremiah 44:25",
+        "original": "Jer 44:25"
+      },
+      {
+        "reference": "Psalms 104:19",
+        "original": "Psalms 104:19"
+      },
+      {
+        "reference": "Sir 43:6",
+        "original": "Ecclus 43:6"
+      },
+      {
+        "reference": "Sir 43:7",
+        "original": "Ecclus 43:7"
+      },
+      {
+        "reference": "Job 31:27",
+        "original": "Job 31:27"
+      },
+      {
+        "reference": "Isaiah 13:10",
+        "original": "Isaiah 13:10"
+      },
+      {
+        "reference": "Joel 2:31",
+        "original": "Joel 2:31"
+      },
+      {
+        "reference": "Matthew 24:29",
+        "original": "Matthew 24:29"
+      },
+      {
+        "reference": "Mark 13:24",
+        "original": "Mark 13:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "moon-new": {
+    "name": "Lua, Lua Nova",
+    "slug": "moon-new",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[LUA NOVA] LUA NOVA - 3185"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "mourn": {
+    "name": "Lamentar (luto)",
+    "slug": "mourn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Encontram-se referências frequentes nas Escrituras a: (1.) Luto pelos mortos. Abraão chorou por Sara (Gn 23:2); Jacó por José (37:34, 35); os egípcios por Jacó (50:3-10); Israel por Arão (Nm 20:29), por Moisés (Dt 34:8) e por Samuel (1 Sm 25:1); Davi por Abner (2 Sm 3:31, 35); Maria e Marta por Lázaro (Jo 11); homens devotos por Estêvão (At 8:2), etc. (2.) Por calamidades, Jó (1:20, 21; 2:8); Israel (Êx 33:4); os ninivitas (Jonas 3:5); Israel, quando derrotado por Benjamim (Jz 20:26), etc. (3.) Luto penitencial, pelos israelitas no dia da expiação (Lv 23:27; At 27:9); sob o ministério de Samuel (1 Sm 7:6); predito em Zacarias (Zc 12:10, 11); em muitos dos salmos (51, etc.). O luto era expresso: (1) pelo choro (Gn 35:8, margem; Lc 7:38, etc.); (2) por lamentações em voz alta (Rt 1:9; 1 Sm 6:19; 2 Sm 3:31); (3) pelo desfiguramento pessoal, como rasgar as vestes (Gn 37:29, 34; Mt 26:65), vestir-se de pano de saco (Gn 37:34; Sl 35:13), jogar pó ou cinzas sobre si mesmo (2 Sm 13:19; Jr 6:26; Jó 2:12), rapar a cabeça e arrancar os cabelos da cabeça ou da barba (Lv 10:6; Jó 1:20), negligenciar a aparência ou remover ornamentos (Êx 33:4; Dt 21:12, 13; 2 Sm 14:2; 19:24; Mt 6:16, 17), jejum (2 Sm 1:12), cobrir o lábio superior (Lv 13:45; Mq 3:7), fazer cortes na carne (Jr 16:6, 7) e sentar-se em silêncio (Jz 20:26; 2 Sm 12:16; 13:31; Jó 1:20). Nos tempos posteriores, encontramos uma classe de pranteadores que podiam ser contratados para manifestar com lamentos altos os sinais externos de dor (2 Cr 35:25; Jr 9:17; Mt 9:23). O período de luto pelos mortos variava. Por Jacó foi de setenta dias (Gn 50:3); por Arão (Nm 20:29) e Moisés (Dt 34:8) trinta dias; e por Saul apenas sete dias (1 Sm 31:13). Em 2 Sm 3:31-35, temos uma descrição do grande luto pela morte de Abner."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23:2",
+        "original": "Gen. 23:2"
+      },
+      {
+        "reference": "Numbers 20:29",
+        "original": "Num. 20:29"
+      },
+      {
+        "reference": "Deuteronomy 34:8",
+        "original": "Deut. 34:8"
+      },
+      {
+        "reference": "1 Samuel 25:1",
+        "original": "1 Sam. 25:1"
+      },
+      {
+        "reference": "2 Samuel 3:31",
+        "original": "2 Sam. 3:31"
+      },
+      {
+        "reference": "2 Samuel 3:35",
+        "original": "2 Sam. 3:35"
+      },
+      {
+        "reference": "John 11",
+        "original": "John 11"
+      },
+      {
+        "reference": "Acts 8:2",
+        "original": "Acts 8:2"
+      },
+      {
+        "reference": "Exodus 33:4",
+        "original": "Ex. 33:4"
+      },
+      {
+        "reference": "Jonah 3:5",
+        "original": "Jonah 3:5"
+      },
+      {
+        "reference": "Judges 20:26",
+        "original": "Judg. 20:26"
+      },
+      {
+        "reference": "Leviticus 23:27",
+        "original": "Lev. 23:27"
+      },
+      {
+        "reference": "Acts 27:9",
+        "original": "Acts 27:9"
+      },
+      {
+        "reference": "1 Samuel 7:6",
+        "original": "1 Sam. 7:6"
+      },
+      {
+        "reference": "Zechariah 12:10",
+        "original": "Zech. 12:10"
+      },
+      {
+        "reference": "Zechariah 12:11",
+        "original": "Zech. 12:11"
+      },
+      {
+        "reference": "Genesis 35:8",
+        "original": "Gen. 35:8"
+      },
+      {
+        "reference": "Luke 7:38",
+        "original": "Luke 7:38"
+      },
+      {
+        "reference": "Ruth 1:9",
+        "original": "Ruth 1:9"
+      },
+      {
+        "reference": "1 Samuel 6:19",
+        "original": "1 Sam. 6:19"
+      },
+      {
+        "reference": "Genesis 37:29",
+        "original": "Gen. 37:29"
+      },
+      {
+        "reference": "Genesis 37:34",
+        "original": "Gen. 37:34"
+      },
+      {
+        "reference": "Matthew 26:65",
+        "original": "Matt. 26:65"
+      },
+      {
+        "reference": "Psalms 35:13",
+        "original": "Ps. 35:13"
+      },
+      {
+        "reference": "2 Samuel 13:19",
+        "original": "2 Sam. 13:19"
+      },
+      {
+        "reference": "Jeremiah 6:26",
+        "original": "Jer. 6:26"
+      },
+      {
+        "reference": "Job 2:12",
+        "original": "Job 2:12"
+      },
+      {
+        "reference": "Leviticus 10:6",
+        "original": "Lev. 10:6"
+      },
+      {
+        "reference": "Job 1:20",
+        "original": "Job 1:20"
+      },
+      {
+        "reference": "Deuteronomy 21:12",
+        "original": "Deut. 21:12"
+      },
+      {
+        "reference": "Deuteronomy 21:13",
+        "original": "Deut. 21:13"
+      },
+      {
+        "reference": "2 Samuel 14:2",
+        "original": "2 Sam. 14:2"
+      },
+      {
+        "reference": "2 Samuel 19:24",
+        "original": "2 Sam. 19:24"
+      },
+      {
+        "reference": "Matthew 6:16",
+        "original": "Matt. 6:16"
+      },
+      {
+        "reference": "Matthew 6:17",
+        "original": "Matt. 6:17"
+      },
+      {
+        "reference": "2 Samuel 1:12",
+        "original": "2 Sam. 1:12"
+      },
+      {
+        "reference": "Leviticus 13:45",
+        "original": "Lev. 13:45"
+      },
+      {
+        "reference": "Micah 3:7",
+        "original": "Micah 3:7"
+      },
+      {
+        "reference": "Jeremiah 16:6",
+        "original": "Jer. 16:6"
+      },
+      {
+        "reference": "Jeremiah 16:7",
+        "original": "Jer. 16:7"
+      },
+      {
+        "reference": "2 Samuel 12:16",
+        "original": "2 Sam. 12:16"
+      },
+      {
+        "reference": "2 Samuel 13:31",
+        "original": "2 Sam. 13:31"
+      },
+      {
+        "reference": "2 Chronicles 35:25",
+        "original": "2 Chr. 35:25"
+      },
+      {
+        "reference": "Jeremiah 9:17",
+        "original": "Jer. 9:17"
+      },
+      {
+        "reference": "Matthew 9:23",
+        "original": "Matt. 9:23"
+      },
+      {
+        "reference": "Genesis 50:3",
+        "original": "Gen. 50:3"
+      },
+      {
+        "reference": "1 Samuel 31:13",
+        "original": "1 Sam. 31:13"
+      },
+      {
+        "reference": "2 Samuel 3:31-35",
+        "original": "2 Sam. 3:31-35"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "mourning": {
+    "name": "Luto",
+    "slug": "mourning",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Uma característica marcante do luto oriental é o que pode ser chamado de seu caráter público estudado e a observância cuidadosa das cerimônias prescritas. (Gênesis 23:2; Jó 1:20; 2:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23:2",
+        "original": "Genesis 23:2"
+      },
+      {
+        "reference": "Job 1:20",
+        "original": "Job 1:20"
+      },
+      {
+        "reference": "Job 2:12",
+        "original": "Job 2:12"
+      },
+      {
+        "reference": "Genesis 37:29",
+        "original": "Genesis 37:29"
+      },
+      {
+        "reference": "Genesis 37:34",
+        "original": "Genesis 37:34"
+      },
+      {
+        "reference": "Genesis 44:13",
+        "original": "Genesis 44:13"
+      },
+      {
+        "reference": "2 Samuel 3:31",
+        "original": "2 Samuel 3:31"
+      },
+      {
+        "reference": "2 Samuel 21:10",
+        "original": "2 Samuel 21:10"
+      },
+      {
+        "reference": "2 Samuel 13:19",
+        "original": "2 Samuel 13:19"
+      },
+      {
+        "reference": "2 Samuel 15:32",
+        "original": "2 Samuel 15:32"
+      },
+      {
+        "reference": "2 Samuel 14:2",
+        "original": "2 Samuel 14:2"
+      },
+      {
+        "reference": "Jeremiah 8:21",
+        "original": "Jeremiah 8:21"
+      },
+      {
+        "reference": "Leviticus 10:6",
+        "original": "Leviticus 10:6"
+      },
+      {
+        "reference": "2 Samuel 19:24",
+        "original": "2 Samuel 19:24"
+      },
+      {
+        "reference": "Isaiah 20:2",
+        "original": "Isaiah 20:2"
+      },
+      {
+        "reference": "Isaiah 47:2",
+        "original": "Isaiah 47:2"
+      },
+      {
+        "reference": "2 Samuel 1:12",
+        "original": "2 Samuel 1:12"
+      },
+      {
+        "reference": "2 Samuel 3:35",
+        "original": "2 Samuel 3:35"
+      },
+      {
+        "reference": "2 Samuel 12:16",
+        "original": "2 Samuel 12:16"
+      },
+      {
+        "reference": "2 Samuel 12:22",
+        "original": "2 Samuel 12:22"
+      },
+      {
+        "reference": "Leviticus 7:20",
+        "original": "Leviticus 7:20"
+      },
+      {
+        "reference": "Leviticus 26:14",
+        "original": "Leviticus 26:14"
+      },
+      {
+        "reference": "Leviticus 13:45",
+        "original": "Leviticus 13:45"
+      },
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Samuel 15:30"
+      },
+      {
+        "reference": "2 Samuel 19:4",
+        "original": "2 Samuel 19:4"
+      },
+      {
+        "reference": "Jeremiah 16:6",
+        "original": "Jeremiah 16:6"
+      },
+      {
+        "reference": "Jeremiah 16:7",
+        "original": "Jeremiah 16:7"
+      },
+      {
+        "reference": "Jeremiah 41:5",
+        "original": "Jeremiah 41:5"
+      },
+      {
+        "reference": "Ezekiel 21:12",
+        "original": "Ezekiel 21:12"
+      },
+      {
+        "reference": "Jeremiah 31:19",
+        "original": "Jeremiah 31:19"
+      },
+      {
+        "reference": "Ecclesiastes 12:5",
+        "original": "Ecclesiastes 12:5"
+      },
+      {
+        "reference": "Jeremiah 9:17",
+        "original": "Jeremiah 9:17"
+      },
+      {
+        "reference": "Amos 5:16",
+        "original": "Amos 5:16"
+      },
+      {
+        "reference": "Matthew 9:23",
+        "original": "Matthew 9:23"
+      },
+      {
+        "reference": "Genesis 50:3",
+        "original": "Genesis 50:3"
+      },
+      {
+        "reference": "Judges 11:40",
+        "original": "Judges 11:40"
+      },
+      {
+        "reference": "Job 2:11",
+        "original": "Job 2:11"
+      },
+      {
+        "reference": "Job 30:25",
+        "original": "Job 30:25"
+      },
+      {
+        "reference": "Genesis 23:3",
+        "original": "Genesis 23:3"
+      },
+      {
+        "reference": "Judges 20:26",
+        "original": "Judges 20:26"
+      },
+      {
+        "reference": "Jeremiah 16:8",
+        "original": "Jeremiah 16:8"
+      },
+      {
+        "reference": "Numbers 20:29",
+        "original": "Numbers 20:29"
+      },
+      {
+        "reference": "Deuteronomy 34:8",
+        "original": "Deuteronomy 34:8"
+      },
+      {
+        "reference": "Genesis 50:10",
+        "original": "Genesis 50:10"
+      },
+      {
+        "reference": "1 Samuel 31:13",
+        "original": "1 Samuel 31:13"
+      },
+      {
+        "reference": "Jeremiah 22:18",
+        "original": "Jeremiah 22:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "napkin": {
+    "name": "Lenço",
+    "slug": "napkin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. soudarion, João 11:44; 20:7; Lat. sudarium, um “pano de suor”), um pano para enxugar o suor do rosto. Mas a palavra é usada como um invólucro para dobrar dinheiro (Lucas 19:20) e como um artigo de vestuário, um \"lenço\" usado na cabeça (Atos 19:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 11:44",
+        "original": "John 11:44"
+      },
+      {
+        "reference": "John 20:7",
+        "original": "John 20:7"
+      },
+      {
+        "reference": "Luke 19:20",
+        "original": "Luke 19:20"
+      },
+      {
+        "reference": "Acts 19:12",
+        "original": "Acts 19:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "new-moon": {
+    "name": "Lua Nova",
+    "slug": "new-moon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O primeiro dia do mês lunar era observado como um dia santo. Além do sacrifício diário, ofereciam-se dois novilhos, um carneiro e sete cordeiros de um ano como holocausto, com as ofertas de cereais e libações apropriadas, e um bode como oferta pelo pecado. (Números 28:11-15) Assim como no sábado, o comércio e o trabalho manual eram interrompidos, (Amós 8:5) e o templo era aberto para o culto público. (Isaías 66:23; Ezequiel 46:3) As trombetas eram tocadas na oferta dos sacrifícios especiais para o dia, como nas festas solenes. (Números 10:10; Salmos 81:3) Era uma ocasião para banquetes estatais. (1 Samuel 20:5-24) Em tempos posteriores, se não em tempos anteriores, o jejum era interrompido nas luas novas. Judite 8:6. As luas novas são geralmente mencionadas de modo a mostrar que eram consideradas uma classe peculiar de dias santos, distintos das festas solenes e dos sábados. (1 Crônicas 113:31; 2 Crônicas 2:4; 8:13; 31:3; Esdras 3:5; Neemias 10:33; Ezequiel 45:17) A sétima lua nova do ano religioso, sendo a de Tisri, iniciava o ano civil e tinha um significado e ritos próprios. Era um dia de santa convocação. A observância religiosa do dia da lua nova pode claramente ser considerada como a consagração de uma divisão natural do tempo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 28:11-15",
+        "original": "Numbers 28:11-15"
+      },
+      {
+        "reference": "Amos 8:5",
+        "original": "Amos 8:5"
+      },
+      {
+        "reference": "Isaiah 66:23",
+        "original": "Isaiah 66:23"
+      },
+      {
+        "reference": "Ezekiel 46:3",
+        "original": "Ezekiel 46:3"
+      },
+      {
+        "reference": "Numbers 10:10",
+        "original": "Numbers 10:10"
+      },
+      {
+        "reference": "Psalms 81:3",
+        "original": "Psalms 81:3"
+      },
+      {
+        "reference": "1 Samuel 20:5-24",
+        "original": "1 Samuel 20:5-24"
+      },
+      {
+        "reference": "Jdt 8:6",
+        "original": "Judith 8:6"
+      },
+      {
+        "reference": "1 Chronicles 113:31",
+        "original": "1 Chronicles 113:31"
+      },
+      {
+        "reference": "2 Chronicles 2:4",
+        "original": "2 Chronicles 2:4"
+      },
+      {
+        "reference": "2 Chronicles 8:13",
+        "original": "2 Chronicles 8:13"
+      },
+      {
+        "reference": "2 Chronicles 31:3",
+        "original": "2 Chronicles 31:3"
+      },
+      {
+        "reference": "Ezra 3:5",
+        "original": "Ezra 3:5"
+      },
+      {
+        "reference": "Nehemiah 10:33",
+        "original": "Nehemiah 10:33"
+      },
+      {
+        "reference": "Ezekiel 45:17",
+        "original": "Ezekiel 45:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "new-moon-feast-of": {
+    "name": "Lua Nova, Festa da",
+    "slug": "new-moon-feast-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Serviços especiais foram designados para o início de um mês (Números 28:11-15; 10:10). (Veja FESTIVAIS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 28:11-15",
+        "original": "Num. 28:11-15"
+      },
+      {
+        "reference": "Numbers 10:10",
+        "original": "Num 10:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "open-place": {
+    "name": "Lugar aberto",
+    "slug": "open-place",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Gên. 38:14, 21, margem Enaim; provavelmente o mesmo que Enã (Jos. 15:34), uma cidade na planície ou Sefelá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:14",
+        "original": "Gen. 38:14"
+      },
+      {
+        "reference": "Genesis 38:21",
+        "original": "Gen. 38:21"
+      },
+      {
+        "reference": "Joshua 15:34",
+        "original": "Josh. 15:34"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "palmer-worm": {
+    "name": "Lagarta-palmer",
+    "slug": "palmer-worm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. 'gazam'). A palavra inglesa pode denotar ou uma lagarta (como traduzido pela LXX), que vagueia como um palmer ou peregrino, ou que viaja como peregrinos em bandos (Joel 1:4; 2:25), os gafanhotos sem asas, ou o gafanhoto migratório em seu estado larval."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "palmerworm": {
+    "name": "Lagarta-palmer",
+    "slug": "palmerworm",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(heb. 'gazam') ocorre (Joel 1:4; 2:25; Amós 4:9). É defendido por muitos que 'gazam' denota alguma espécie de gafanhoto, mas é mais provavelmente uma lagarta."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      },
+      {
+        "reference": "Amos 4:9",
+        "original": "Amos 4:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "pond": {
+    "name": "Lagoa",
+    "slug": "pond",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "As lagoas do Egito, (Êxodo 7:19; 13:5), eram sem dúvida água deixada pela inundação do Nilo. Lagoas para peixes mencionadas em (Isaías 19:10)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 7:19",
+        "original": "Exodus 7:19"
+      },
+      {
+        "reference": "Exodus 13:5",
+        "original": "Exodus 13:5"
+      },
+      {
+        "reference": "Isaiah 19:10",
+        "original": "Isaiah 19:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "pound": {
+    "name": "Libra",
+    "slug": "pound",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Um peso. Heb. maneh, igual a 100 siclos (1 Reis 10:17; Esdras 2:69; Nee. 7:71, 72). Gr. litra, igual a cerca de 12 onças avoirdupois (João 12:3; 19:39). (2.) Uma soma de dinheiro; o Gr. mna ou mina (Lucas 19:13, 16, 18, 20, 24, 25). Equivalia a 100 dracmas e tinha o valor de cerca de £3, 6s. 8d. de nosso dinheiro. (Veja DINHEIRO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:17",
+        "original": "1 Kings 10:17"
+      },
+      {
+        "reference": "Ezra 2:69",
+        "original": "Ezra 2:69"
+      },
+      {
+        "reference": "Nehemiah 7:71",
+        "original": "Neh. 7:71"
+      },
+      {
+        "reference": "Nehemiah 7:72",
+        "original": "Neh. 7:72"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "John 19:39",
+        "original": "John 19:39"
+      },
+      {
+        "reference": "Luke 19:13",
+        "original": "Luke 19:13"
+      },
+      {
+        "reference": "Luke 19:16",
+        "original": "Luke 19:16"
+      },
+      {
+        "reference": "Luke 19:18",
+        "original": "Luke 19:18"
+      },
+      {
+        "reference": "Luke 19:20",
+        "original": "Luke 19:20"
+      },
+      {
+        "reference": "Luke 19:24",
+        "original": "Luke 19:24"
+      },
+      {
+        "reference": "Luke 19:25",
+        "original": "Luke 19:25"
+      },
+      {
+        "reference": "Luke 19:12-27",
+        "original": "Luke 19:12-27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "proverbs-book-of": {
+    "name": "Livro dos Provérbios",
+    "slug": "proverbs-book-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma coleção de máximas morais e filosóficas sobre uma ampla variedade de assuntos, apresentadas em forma poética. Este livro expõe a “filosofia da vida prática”. É para nós um sinal de que a Bíblia não menospreza o bom senso e a discrição. Ela nos transmite, da maneira mais contundente, o valor da inteligência, da prudência e de uma boa educação. Toda a força da língua hebraica e da autoridade sagrada do livro é voltada para essas verdades simples. Ele aborda, também, com uma visão refinada, criteriosa e cuidadosa, os matizes mais sutis do caráter humano — tão frequentemente ignorados pelos teólogos, mas tão necessários para qualquer avaliação verdadeira da vida humana” (A Igreja Judaica, de Stanley). Quanto à origem deste livro, “é provável que Salomão tenha reunido e reformulado muitos provérbios que surgiram da experiência humana em épocas anteriores e que passavam por ele na corrente do tempo, e que ele também tenha elaborado muitos novos a partir do material de sua própria experiência. De fato, no final do livro, estão preservadas algumas das próprias palavras de Salomão que parecem ter saído de seus lábios na velhice e sido reunidas por outras mãos” (Laws from Heaven, de Arnot, etc.) Este livro é geralmente dividido em três partes: (1.) Composta pelos capítulos 1 a 9, que apresentam a sabedoria como o bem supremo. (2.) Composta pelos capítulos 10 a 24. (3.) Contendo provérbios de Salomão “que os homens de Ezequias, rei de Judá, coletaram” (capítulos 25 a 29). Seguem-se dois suplementos: (1) “As palavras de Agur” (capítulo 30); e (2) “As palavras do rei Lemuel” (cap. 31). Diz-se que Salomão escreveu três mil provérbios, e os contidos neste livro podem ser uma seleção dentre eles (1 Reis 4:32). No Novo Testamento, há trinta e cinco citações diretas deste livro ou alusões a ele."
+      },
+      {
+        "source": "SMI",
+        "text": "O título deste livro em hebraico é derivado de sua primeira palavra, mashal, que originalmente significava “uma comparação”. Às vezes é traduzido como “parábola”, outras vezes como “provérbio”, como neste caso. Os títulos que aparecem em várias partes do livro, nos capítulos (Provérbios 1:1; 10:1; 25:1), atribuem a autoria dessas partes a Salomão, filho de Davi, rei de Israel. Com exceção dos dois últimos capítulos, que são claramente atribuídos a outro autor, é provável que a afirmação dos títulos esteja, em geral, correta e que a maioria dos provérbios contidos no livro tenha sido proferida ou coletada por Salomão. Em linhas gerais, o livro consiste em três divisões principais, com dois apêndices:—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 4:32",
+        "original": "1 Kings 4:32"
+      },
+      {
+        "reference": "Proverbs 1:1",
+        "original": "Proverbs 1:1"
+      },
+      {
+        "reference": "Proverbs 10:1",
+        "original": "Proverbs 10:1"
+      },
+      {
+        "reference": "Proverbs 25:1",
+        "original": "Proverbs 25:1"
+      },
+      {
+        "reference": "Proverbs 10:1-22",
+        "original": "Proverbs 10:1-22"
+      },
+      {
+        "reference": "Proverbs 10:16",
+        "original": "Proverbs 10:16"
+      },
+      {
+        "reference": "Proverbs 22:17-24",
+        "original": "Proverbs 22:17-24"
+      },
+      {
+        "reference": "Proverbs 22:21",
+        "original": "Proverbs 22:21"
+      },
+      {
+        "reference": "Proverbs 22:17-22",
+        "original": "Proverbs 22:17-22"
+      },
+      {
+        "reference": "Proverbs 24:23-34",
+        "original": "Proverbs 24:23-34"
+      },
+      {
+        "reference": "Proverbs 1:16",
+        "original": "Proverbs 1:16"
+      },
+      {
+        "reference": "Proverbs 3:7",
+        "original": "Proverbs 3:7"
+      },
+      {
+        "reference": "Proverbs 3:11",
+        "original": "Proverbs 3:11"
+      },
+      {
+        "reference": "Proverbs 3:12",
+        "original": "Proverbs 3:12"
+      },
+      {
+        "reference": "Hebrews 12:5",
+        "original": "Hebr 12:5"
+      },
+      {
+        "reference": "Hebrews 12:6",
+        "original": "Hebr 12:6"
+      },
+      {
+        "reference": "Proverbs 3:34",
+        "original": "Proverbs 3:34"
+      },
+      {
+        "reference": "Proverbs 10:12",
+        "original": "Proverbs 10:12"
+      },
+      {
+        "reference": "1 Peter 4:8",
+        "original": "1Pet 4:8"
+      },
+      {
+        "reference": "Proverbs 11:31",
+        "original": "Proverbs 11:31"
+      },
+      {
+        "reference": "1 Peter 4:18",
+        "original": "1Pet 4:18"
+      },
+      {
+        "reference": "Proverbs 17:13",
+        "original": "Proverbs 17:13"
+      },
+      {
+        "reference": "1 Thessalonians 5:15",
+        "original": "1The 5:15"
+      },
+      {
+        "reference": "1 Peter 3:9",
+        "original": "1Pet 3:9"
+      },
+      {
+        "reference": "Proverbs 17:27",
+        "original": "Proverbs 17:27"
+      },
+      {
+        "reference": "Proverbs 20:9",
+        "original": "Proverbs 20:9"
+      },
+      {
+        "reference": "1 John 1:8",
+        "original": "1Joh 1:8"
+      },
+      {
+        "reference": "Proverbs 20:20",
+        "original": "Proverbs 20:20"
+      },
+      {
+        "reference": "Matthew 15:4",
+        "original": "Matt 15:4"
+      },
+      {
+        "reference": "Mark 7:10",
+        "original": "Mark 7:10"
+      },
+      {
+        "reference": "Proverbs 22:8",
+        "original": "Proverbs 22:8"
+      },
+      {
+        "reference": "2 Corinthians 9:7",
+        "original": "2Cor 9:7"
+      },
+      {
+        "reference": "Proverbs 25:21",
+        "original": "Proverbs 25:21"
+      },
+      {
+        "reference": "Proverbs 25:22",
+        "original": "Proverbs 25:22"
+      },
+      {
+        "reference": "Proverbs 26:11",
+        "original": "Proverbs 26:11"
+      },
+      {
+        "reference": "Proverbs 27:1",
+        "original": "Proverbs 27:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "psalms-book-of": {
+    "name": "Livro dos Salmos",
+    "slug": "psalms-book-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O nome hebraico atual do livro é Tehilim, “Louvores”; mas nos títulos propriamente ditos dos salmos, a palavra Tehilá é aplicada apenas a um deles (Salmos 145:1) ... que é, de fato, enfaticamente um hino de louvor. A LXX os intitulou psalmoi ou “salmos”, ou seja, peças líricas a serem cantadas acompanhadas por um instrumento musical. A Igreja Cristã, obviamente, recebeu o Saltério dos judeus não apenas como parte integrante do volume sagrado das Escrituras, mas também como o livro de hinos litúrgicos que a Igreja judaica utilizava regularmente no templo. Divisão dos Salmos. — O livro contém 150 salmos e pode ser dividido em cinco grandes divisões ou livros, que devem ter sido originalmente formados em períodos diferentes. O Livro I, a julgar pelos títulos, é inteiramente davídico, e não encontramos nele nenhum indício de autoria que não seja a de Davi. Podemos acreditar que a compilação do livro também tenha sido obra de Davi. O Livro II, a julgar pela data de seu salmo mais recente (Salmos 46:1)..., parece ter sido compilado durante o reinado do rei Ezequias. Ele compreenderia naturalmente, em primeiro lugar, vários ou a maioria dos salmos levíticos anteriores a essa data; e, em segundo lugar, o restante dos salmos de Davi que ainda não haviam sido compilados. A esses últimos, o compilador, após acrescentar adequadamente o único salmo de Salomão, acrescentou a nota de que “as orações de Davi, filho de Jessé, terminaram”. (Salmos 72:20) O Livro III, cujo foco se concentra na época de Ezequias, estende-se, por meio de seus dois últimos salmos, até o reinado de Manassés: provavelmente foi compilado durante o reinado de Josias. Ele contém dezessete salmos, do Salmo 73 ao 89: onze de Asafe, quatro dos filhos de Hora, um (86) de Davi e um de Etã. O Livro IV contém o restante dos salmos até a data do cativeiro. São dezessete, dos Salmos 90 a 106 — um de Moisés, dois de Davi e os demais anônimos. O Livro V, os salmos do retorno, contém quarenta e quatro, do Salmo 107 ao 180 — quinze de Davi, um de Salomão e o restante anônimo. Não há nada que distinga esses dois livros um do outro no que diz respeito à decoração externa ou à organização, e eles podem ter sido compilados juntos nos dias de Neemias. Relação dos Salmos com a história israelita. — O salmo de Moisés (Salmo 90), que é o mais antigo em termos de data real, reflete fielmente as longas e penosas peregrinações, as múltiplas provocações e os consequentes castigos no deserto. É, no entanto, com Davi que se pode dizer que a salmodia israelita praticamente se inicia. O domínio prévio sobre sua harpa provavelmente já havia preparado o caminho para suas futuras melodias, quando o óleo da unção de Samuel desceu sobre ele, e ele começou a se encher, de maneira especial, daquele dia em diante, do Espírito do Senhor. Foi então que, vitorioso em casa sobre a misteriosa melancolia de Saul e na batalha contra o campeão fanfarrão das hostes filisteias, ele cantou como, até mesmo a partir de bebês e crianças de peito, Deus havia ordenado força por causa de seus inimigos. Salmo 8. Seus salmos seguintes têm um caráter diferente; suas perseguições nas mãos de Saul haviam começado. Quando o reinado de Davi se iniciou, ainda são os incidentes mais emocionantes de sua história, privados ou públicos, aos quais seus salmos estão principalmente associados. Não há nenhum ao qual o período de seu reinado em Hebrom possa reivindicar exclusividade. Mas, após a conquista de Jerusalém, sua salmodia recomeçou com a solene transferência da arca para o Monte Sião; e nos Salmos 24-29, que formam um conjunto, temos o primeiro exemplo definitivo da composição ou organização sistemática de salmos por Davi para uso público. Mesmo entre os salmos que não podem ser atribuídos a nenhuma ocasião específica, vários refletem as circunstâncias históricas gerais da época. Assim, o Salmo 9 é uma ação de graças pela libertação da terra de Israel de seus antigos opressores pagãos. O Salmo 10 é uma oração pela libertação da Igreja da opressão arbitrária exercida a partir de dentro. Os salmos seguintes abordam o mesmo tema: o paganismo interno virtual pelo qual a Igreja de Deus era oprimida. De modo que restam muito poucos — por exemplo, os Salmos 15-17, 19, 32 (com seu apêndice coral, o Salmo 23) e 37 — sobre os quais não se possa fornecer algum relato histórico. Um período de repouso próximo ao fim de seu reinado levou Davi a compor sua grandiosa ação de graças pessoal pelas libertações de toda a sua vida, o Salmo 18, cuja data é determinada aproximadamente pelo lugar em que está inserido na história. (2 Samuel 22:1) ... Foi provavelmente nesse período que ele finalmente organizou, para o culto no santuário, aquela coleção de seus salmos que hoje constitui o primeiro livro do Saltério. O curso do reinado de Davi, no entanto, ainda não estava completo. A assembleia solene por ele convocada para a dedicação dos materiais do futuro templo, 1 Crônicas 28, 29, naturalmente suscitaria uma renovação de seus melhores esforços para glorificar o Deus de Israel em salmos; e a essa ocasião, sem dúvida, devemos os grandes hinos festivos, Salmos 65-68, que contêm uma ampla revisão"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 145:1",
+        "original": "Psalms 145:1"
+      },
+      {
+        "reference": "Psalms 46:1",
+        "original": "Psalms 46:1"
+      },
+      {
+        "reference": "Psalms 72:20",
+        "original": "Psalms 72:20"
+      },
+      {
+        "reference": "Psalms 73",
+        "original": "Psal 73"
+      },
+      {
+        "reference": "Psalms 90",
+        "original": "Psal 90"
+      },
+      {
+        "reference": "Psalms 107",
+        "original": "Psal 107"
+      },
+      {
+        "reference": "Psalms 8",
+        "original": "Psal 8"
+      },
+      {
+        "reference": "Psalms 24",
+        "original": "Psal 24"
+      },
+      {
+        "reference": "Psalms 9",
+        "original": "Psal 9"
+      },
+      {
+        "reference": "Psalms 10",
+        "original": "Psal 10"
+      },
+      {
+        "reference": "Psalms 15",
+        "original": "Psal 15"
+      },
+      {
+        "reference": "Psalms 18",
+        "original": "Psal 18"
+      },
+      {
+        "reference": "2 Samuel 22:1",
+        "original": "2 Samuel 22:1"
+      },
+      {
+        "reference": "1 Chronicles 28:0-0;",
+        "original": "1Chr 28, 29"
+      },
+      {
+        "reference": "Psalms 65",
+        "original": "Psal 65"
+      },
+      {
+        "reference": "Psalms 69",
+        "original": "Psal 69"
+      },
+      {
+        "reference": "Psalms 71",
+        "original": "Psal 71"
+      },
+      {
+        "reference": "Psalms 70",
+        "original": "Psal 70"
+      },
+      {
+        "reference": "Psalms 72",
+        "original": "Psal 72"
+      },
+      {
+        "reference": "Psalms 45",
+        "original": "Psal 45"
+      },
+      {
+        "reference": "Psalms 42",
+        "original": "Psal 42"
+      },
+      {
+        "reference": "Psalms 46:0-0;",
+        "original": "Psal 46,73,75,76"
+      },
+      {
+        "reference": "Psalms 80",
+        "original": "Psal 80"
+      },
+      {
+        "reference": "Ezra 3",
+        "original": "Ezra 3"
+      },
+      {
+        "reference": "Psalms 120",
+        "original": "Psal 120"
+      },
+      {
+        "reference": "Psalms 139",
+        "original": "Psal 139"
+      },
+      {
+        "reference": "Psalms 140",
+        "original": "Psal 140"
+      },
+      {
+        "reference": "Psalms 147",
+        "original": "Psal 147"
+      },
+      {
+        "reference": "Psalms 19",
+        "original": "Psal 19"
+      },
+      {
+        "reference": "Psalms 32:0-0;",
+        "original": "Psal 32,34, 51"
+      },
+      {
+        "reference": "Psalms 37",
+        "original": "Psal 37"
+      },
+      {
+        "reference": "Psalms 2:0-0;",
+        "original": "Psal 2,45,110"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "rama": {
+    "name": "Luz",
+    "slug": "rama",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Mt 2,18), a forma grega de Ramá. (1.) Cidade mencionada pela primeira vez em Josué 18,25, próxima a Gibeá de Benjamim. Foi fortificada por Baasa, rei de Israel (1 Reis 15,17-22; 2 Crônicas 16:1-6). Asa, rei de Judá, recorreu a Ben-Hadade, rei da Síria, para expulsar Baasa dessa cidade (1 Reis 15:18, 20). Isaías (10:29) faz referência a ela, assim como Jeremias, que já esteve preso ali entre os outros cativos de Jerusalém quando a cidade foi tomada por Nabucodonosor (Jeremias 39:8-12; 40:1). Raquel, cujo túmulo fica próximo a Belém, é retratada chorando em Ramá (Jer. 31:15) por seus filhos massacrados. Essa profecia é ilustrada e cumprida no reavivamento da dor de Raquel diante do massacre dos bebês em Belém (Mt 2:18). Ela é identificada com a vila moderna de er-Ram, entre Gibeão e Beerote, a cerca de 5 milhas ao norte de Jerusalém. (Veja SAMUEL.) (2.) Uma cidade identificada com Rame, na fronteira de Aser, a cerca de 13 milhas a sudeste de Tiro, “em um outeiro solitário no meio de uma bacia de campos verdes” (Josué 19:29). (3.) Uma das “cidades fortificadas” de Naftali (Josué 19:36), na encosta de uma montanha, a cerca de 7,5 milhas a oeste-sudoeste de Safed e a 15 milhas a oeste da extremidade norte do Mar da Galiléia, a atual vila grande e bem construída de Rameh. (4.) A mesma que Ramataim-Zofim (ver lá), uma cidade do Monte Efraim (1 Samuel 1:1, 19). (5.) É a mesma que Ramote-Gileade (ver), 2 Reis 8:29; 2 Crônicas 22:6."
+      },
+      {
+        "source": "SMI",
+        "text": "(Mateus 2:15), referindo-se a (Jeremias 31:15). É a forma grega de Ramá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 2:18",
+        "original": "Matt. 2:18"
+      },
+      {
+        "reference": "Joshua 18:25",
+        "original": "Josh. 18:25"
+      },
+      {
+        "reference": "1 Kings 15:17-22",
+        "original": "1 Kings 15:17-22"
+      },
+      {
+        "reference": "2 Chronicles 16:1-6",
+        "original": "2 Chr. 16:1-6"
+      },
+      {
+        "reference": "1 Kings 15:18",
+        "original": "1 Kings 15:18"
+      },
+      {
+        "reference": "1 Kings 15:20",
+        "original": "1 Kings 15:20"
+      },
+      {
+        "reference": "Jeremiah 39:8-12",
+        "original": "Jer. 39:8-12"
+      },
+      {
+        "reference": "Jeremiah 40:1",
+        "original": "Jer 40:1"
+      },
+      {
+        "reference": "Jeremiah 31:15",
+        "original": "Jer. 31:15"
+      },
+      {
+        "reference": "Joshua 19:29",
+        "original": "Josh. 19:29"
+      },
+      {
+        "reference": "Joshua 19:36",
+        "original": "Josh. 19:36"
+      },
+      {
+        "reference": "1 Samuel 1:1",
+        "original": "1 Sam. 1:1"
+      },
+      {
+        "reference": "1 Samuel 1:19",
+        "original": "1 Sam. 1:19"
+      },
+      {
+        "reference": "2 Kings 8:29",
+        "original": "2 Kings 8:29"
+      },
+      {
+        "reference": "2 Chronicles 22:6",
+        "original": "2 Chr. 22:6"
+      },
+      {
+        "reference": "Matthew 2:15",
+        "original": "Matthew 2:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "ring": {
+    "name": "Ligue",
+    "slug": "ring",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usados como adorno para decorar os dedos, os braços, os pulsos e também as orelhas e o nariz. Os anéis eram usados como sinete (Gênesis 38:18). Eram oferecidos como símbolo de investidura de autoridade (Gênesis 41:42; Ester 3:8-10; 8:2), e de favor e dignidade (Lucas 15:22). Eram geralmente usados por homens ricos (Tiago 2:2). São mencionados por Isaías (3:21) entre os adornos das mulheres hebreias."
+      },
+      {
+        "source": "SMI",
+        "text": "O anel era considerado um acessório indispensável no vestuário de um hebreu, na medida em que nele estava gravado seu selo. Era, portanto, o símbolo de autoridade. (Gênesis 41:42; Ester 3:10) Os anéis eram usados não apenas pelos homens, mas também pelas mulheres. (Isaías 3:21) Podemos concluir, com base em (Êxodo 28:11), que os anéis continham uma pedra gravada com um emblema ou com o nome do proprietário. O costume parece também ter prevalecido entre os judeus da era apostólica. (Tiago 2:2)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:18",
+        "original": "Gen. 38:18"
+      },
+      {
+        "reference": "Genesis 41:42",
+        "original": "Gen. 41:42"
+      },
+      {
+        "reference": "Esther 3:8-10",
+        "original": "Esther 3:8-10"
+      },
+      {
+        "reference": "Esther 8:2",
+        "original": "Esther 8:2"
+      },
+      {
+        "reference": "Luke 15:22",
+        "original": "Luke 15:22"
+      },
+      {
+        "reference": "James 2:2",
+        "original": "James 2:2"
+      },
+      {
+        "reference": "Esther 3:10",
+        "original": "Esther 3:10"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isaiah 3:21"
+      },
+      {
+        "reference": "Exodus 28:11",
+        "original": "Exodus 28:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "ruth-book-of": {
+    "name": "Livro de Rute",
+    "slug": "ruth-book-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "contém a história de Rute, conforme narrada no artigo anterior. O objetivo principal do autor é, evidentemente, relatar a genealogia de Davi; e o livro foi declaradamente composto muito tempo depois da época da heroína. Veja (Rute 1:1; 4:7,17). Sua data e autor são bastante incertos. A tradição aponta para Samuel. É provável que os livros de Juízes, Rute, Samuel e Reis tenham originalmente formado uma única obra. O livro de Rute claramente faz parte dos livros de Samuel, pois fornece o ponto essencial da genealogia de Davi e da história inicial de sua família, e está não menos claramente ligado ao livro de Juízes por seu versículo inicial e pela época à qual todo o livro se refere."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 1:1",
+        "original": "Ruth 1:1"
+      },
+      {
+        "reference": "Ruth 4:7",
+        "original": "Ruth 4:7"
+      },
+      {
+        "reference": "Ruth 4:17",
+        "original": "Ruth 4:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "samuel-books-of": {
+    "name": "Livros de Samuel",
+    "slug": "samuel-books-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os tradutores da LXX consideravam os livros de Samuel e dos Reis como formando uma história contínua, que dividiram em quatro livros, aos quais chamaram de “Livros do Reino”. A versão da Vulgata seguiu essa divisão, mas os denominou “Livros dos Reis”. Esses livros de Samuel foram, portanto, chamados de “Primeiro” e “Segundo” Livros dos Reis, e não, como nas versões protestantes modernas, de “Primeiro” e “Segundo” Livros de Samuel. Os autores dos livros de Samuel foram provavelmente Samuel, Gad e Natã. Samuel redigiu os primeiros vinte e quatro capítulos do primeiro livro. Gad, o companheiro de Davi (1 Sm 22,5), deu continuidade à história assim iniciada; e Natã a completou, provavelmente organizando o todo na forma em que a temos hoje (1 Cr 29,29). O conteúdo dos livros. O primeiro livro abrange um período de cerca de cem anos e coincide quase que totalmente com a vida de Samuel. Ele contém (1) a história de Eli (1-4); (2) a história de Samuel (5-12); (3) a história de Saul e de Davi no exílio (13-31). O segundo livro, abrangendo um período de talvez cinquenta anos, contém a história do reinado de Davi (1) sobre Judá (1-4) e (2) sobre todo o Israel (5-24), principalmente em seus aspectos políticos. Os últimos quatro capítulos de 2 Samuel podem ser considerados uma espécie de apêndice que registra vários eventos, mas não em ordem cronológica. Esses livros não contêm histórias completas. Encontram-se lacunas frequentes no relato, pois seu objetivo é apresentar uma história do reino de Deus em seu desenvolvimento gradual, e não dos eventos dos reinados dos governantes sucessivos. É notável que a seção (2 Sm 11,2–12,29), que contém o relato do pecado de Davi no caso de Bate-Sebá, seja omitida na passagem correspondente em 1 Cr 20."
+      },
+      {
+        "source": "SMI",
+        "text": "não estão separados um do outro nos manuscritos hebraicos e, do ponto de vista crítico, devem ser considerados como um único livro. A divisão atual foi feita pela primeira vez na tradução da Septuaginta e foi adotada na Vulgata a partir da Septuaginta. O livro era chamado pelos hebreus de “Samuel”, provavelmente porque o nascimento e a vida de Samuel eram os temas abordados no início da obra. Os livros de Samuel começam com a história de Eli e Samuel e contêm todo o relato do estabelecimento da monarquia hebraica e dos reinados de Saul e Davi, com exceção dos últimos dias deste último monarca, que são narrados no início dos livros dos Reis, dos quais os de Samuel constituem a parte anterior. [Livros de Reis, Primeiro e Segundo, LIVROS DE] Autoria e data do livro,—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 22:5",
+        "original": "1 Sam. 22:5"
+      },
+      {
+        "reference": "1 Chronicles 29:29",
+        "original": "1 Chr. 29:29"
+      },
+      {
+        "reference": "2 Samuel 11:2-12",
+        "original": "2 Sam. 11:2-12"
+      },
+      {
+        "reference": "1 Chronicles 20",
+        "original": "1 Chr. 20"
+      },
+      {
+        "reference": "1 Samuel 27:6",
+        "original": "1 Samuel 27:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "seal": {
+    "name": "Lá",
+    "slug": "seal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Geralmente, um anel gravado com algum símbolo (Gênesis 38:18, 25). Jezabel “escreveu cartas em nome de Acabe e as selou com o selo dele” (1 Reis 21:8). Os selos são frequentemente mencionados na história judaica (Dt 32:34; Ne 9:38; 10:1; Ester 3:12; Cânt. 8:6; Isaías 8:16; Jeremias 22:24; 32:44, etc.). Selar um documento equivalia à assinatura do proprietário do selo. “O uso de um anel com sinete pelo monarca recebeu recentemente uma ilustração notável com a descoberta de uma impressão desse sinete em argila fina em Koyunjik, local da antiga Nínive. Esse selo parece ter sido impresso a partir da moldura de um anel metálico. É oval, com 2 polegadas de comprimento por 1 polegada de largura, e traz a imagem, o nome e os títulos do rei egípcio Sabaco” (Hist. Illus. of the O.T., de Rawlinson, p. 46). Foram descobertos os anéis-sinete de dois reis egípcios (Quíops e Hórus). (Ver SINETE.) O uso de selos é mencionado no Novo Testamento apenas em relação ao relato do sepultamento de nosso Senhor (Mt 27,66). O túmulo foi selado pelos fariseus e pelos sumos sacerdotes com o objetivo de garantir que os discípulos não viessem e roubassem o corpo (versículos 63 e 64). Provavelmente, isso foi feito esticando-se uma corda sobre a pedra e selando-a em ambas as extremidades com argila de selagem. Quando se diz que Deus selou o Redentor, o significado é que Ele atestou sua missão divina (João 6:27). A circuncisão é um selo, um atestado da aliança (Rom. 4:11). Os crentes são selados com o Espírito, como marca de Deus colocada sobre eles (Ef 1,13; 4,30). Os convertidos são chamados por Paulo de “selo do seu apostolado”, ou seja, são a atestação deste (1 Cor 9,2). Selos e o ato de selar são frequentemente mencionados no livro do Apocalipse (5:1; 6:1; 7:3; 10:4; 22:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "A importância atribuída aos selos no Oriente é tão grande que, sem um selo, nenhum documento é considerado autêntico. Entre os métodos de selagem utilizados no Egito em um período muito antigo estavam pedras gravadas, perfuradas ao longo de seu comprimento e penduradas por um cordão ou corrente no braço ou no pescoço, ou encaixadas em anéis para o dedo. A forma mais antiga utilizada para esse fim era o escaravelho, feito de pedra preciosa ou comum, ou mesmo de cerâmica azul ou porcelana, em cujo lado plano era gravada a inscrição ou o símbolo. Em muitos casos, o selo consistia em um pedaço de argila, impresso com o selo e preso ao documento — fosse de papiro ou outro material — por meio de cordões. Em outros casos, utilizava-se cera. Ao selar um sepulcro ou uma caixa, a fechadura era coberta com argila ou cera, e a impressão de um selo de alguém com autoridade era estampada sobre ela, de modo que não pudesse ser aberta sem ser descoberta. O anel com sinete era um item comum no equipamento de um homem. (Gênesis 38:18) O anel ou o selo como emblema de autoridade no Egito, na Pérsia e em outros lugares é mencionado em (Gênesis 41:42; 1 Reis 21:8; Ester 3:10,12; 8:2; Daniel 6:17) e como prova de uma aliança, em (Jeremias 32:10,44; Neemias 9:38; 10:1; Ageu 2:23). Selos gravados eram usados entre os hebreus nos tempos antigos. (Êxodo 28:11, 36; 39:6)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:18",
+        "original": "Gen. 38:18"
+      },
+      {
+        "reference": "Genesis 38:25",
+        "original": "Gen. 38:25"
+      },
+      {
+        "reference": "1 Kings 21:8",
+        "original": "1 Kings 21:8"
+      },
+      {
+        "reference": "Deuteronomy 32:34",
+        "original": "Deut. 32:34"
+      },
+      {
+        "reference": "Nehemiah 9:38",
+        "original": "Neh. 9:38"
+      },
+      {
+        "reference": "Nehemiah 10:1",
+        "original": "Neh 10:1"
+      },
+      {
+        "reference": "Esther 3:12",
+        "original": "Esther 3:12"
+      },
+      {
+        "reference": "Song of Solomon 8:6",
+        "original": "Cant. 8:6"
+      },
+      {
+        "reference": "Isaiah 8:16",
+        "original": "Isa. 8:16"
+      },
+      {
+        "reference": "Jeremiah 22:24",
+        "original": "Jer. 22:24"
+      },
+      {
+        "reference": "Jeremiah 32:44",
+        "original": "Jer 32:44"
+      },
+      {
+        "reference": "Matthew 27:66",
+        "original": "Matt. 27:66"
+      },
+      {
+        "reference": "John 6:27",
+        "original": "John 6:27"
+      },
+      {
+        "reference": "Romans 4:11",
+        "original": "Rom. 4:11"
+      },
+      {
+        "reference": "Ephesians 1:13",
+        "original": "Eph. 1:13"
+      },
+      {
+        "reference": "Ephesians 4:30",
+        "original": "Eph 4:30"
+      },
+      {
+        "reference": "1 Corinthians 9:2",
+        "original": "1 Cor. 9:2"
+      },
+      {
+        "reference": "Genesis 41:42",
+        "original": "Genesis 41:42"
+      },
+      {
+        "reference": "Esther 3:10",
+        "original": "Esther 3:10"
+      },
+      {
+        "reference": "Esther 8:2",
+        "original": "Esther 8:2"
+      },
+      {
+        "reference": "Daniel 6:17",
+        "original": "Daniel 6:17"
+      },
+      {
+        "reference": "Jeremiah 32:10",
+        "original": "Jeremiah 32:10"
+      },
+      {
+        "reference": "Haggai 2:23",
+        "original": "Haggai 2:23"
+      },
+      {
+        "reference": "Exodus 28:11",
+        "original": "Exodus 28:11"
+      },
+      {
+        "reference": "Exodus 28:36",
+        "original": "Exodus 28:36"
+      },
+      {
+        "reference": "Exodus 39:6",
+        "original": "Exodus 39:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "semitic-languages": {
+    "name": "Línguas semíticas",
+    "slug": "semitic-languages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Línguas semíticas; Língua hebraica]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "sharar": {
+    "name": "Lixo",
+    "slug": "sharar",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(forte), pai de Ahiam, o hararita. (2 Samuel 23:33) Em (1 Crônicas 11:35), ele é chamado de Sacar. (1040 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:33",
+        "original": "2 Samuel 23:33"
+      },
+      {
+        "reference": "1 Chronicles 11:35",
+        "original": "1 Chronicles 11:35"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "shemitic-languages": {
+    "name": "Línguas semíticas",
+    "slug": "shemitic-languages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a família de línguas faladas pelos descendentes de Sem, principalmente o hebraico, o caldeu, o assírio, o árabe, o fenício e o aramaico ou siríaco. Os judeus, em sua história mais antiga, falavam o hebraico, mas, na época de Cristo, falavam o aramaico, às vezes chamado de sírio-caldeu."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "pulse": {
+    "name": "Legumes",
+    "slug": "pulse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Daniel 1:12, 16), ARC “legumes”, comida vegetal em geral."
+      },
+      {
+        "source": "SMI",
+        "text": "(sementes) geralmente significa ervilhas, feijões e as sementes que crescem em vagens. Na Versão Autorizada, ocorre apenas em (Lamentações 1:12,16) como a tradução de palavras cujo significado literal é “sementes” de qualquer tipo. Provavelmente o termo denota grãos crus de qualquer tipo, como cevada, trigo, milho, ervilhaca, etc."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 1:12",
+        "original": "Dan. 1:12"
+      },
+      {
+        "reference": "Daniel 1:16",
+        "original": "Dan. 1:16"
+      },
+      {
+        "reference": "Lamentations 1:12",
+        "original": "Lamentations 1:12"
+      },
+      {
+        "reference": "Lamentations 1:16",
+        "original": "Lamentations 1:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "spear": {
+    "name": "Lança",
+    "slug": "spear",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Armas, Armaduras]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "stripes": {
+    "name": "Listras",
+    "slug": "stripes",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como a punição não deveria exceder quarenta (Dt 25,1-3), daí surgiu o costume de limitá-la a trinta e nove (2 Cor 11,24). Paulo invocou o privilégio de cidadão romano no que diz respeito à aplicação de açoites (Atos 16:37, 38; 22:25-29). Nosso Senhor foi açoitado (Mateus 27:26)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Penas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 25:1-3",
+        "original": "Deut. 25:1-3"
+      },
+      {
+        "reference": "2 Corinthians 11:24",
+        "original": "2 Cor. 11:24"
+      },
+      {
+        "reference": "Acts 16:37",
+        "original": "Acts 16:37"
+      },
+      {
+        "reference": "Acts 16:38",
+        "original": "Acts 16:38"
+      },
+      {
+        "reference": "Matthew 27:26",
+        "original": "Matt. 27:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "talitha-cumi": {
+    "name": "Levanta-te, menina",
+    "slug": "talitha-cumi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 5:41), uma expressão em siríaco ou aramaico que significa: “Menina, levante-se”. Pedro, que estava presente quando o milagre aconteceu, lembrou-se das palavras exatas usadas por nosso Senhor e as contou a Marcos."
+      },
+      {
+        "source": "SMI",
+        "text": "duas palavras em siríaco (Marcos 5:41) que significam “moça”, “levanta-te”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 5:41",
+        "original": "Mark 5:41"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tel-haresha": {
+    "name": "Lista telefônica",
+    "slug": "tel-haresha",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Colina da Floresta, um local na Babilônia de onde alguns judeus cativos retornaram a Jerusalém (Esdras 2:59; Neemias 7:61)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:59",
+        "original": "Ezra 2:59"
+      },
+      {
+        "reference": "Nehemiah 7:61",
+        "original": "Neh. 7:61"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "threshold": {
+    "name": "Limite",
+    "slug": "threshold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Hebr. miphtan, provavelmente uma viga saliente em um ponto mais alto do que o próprio limiar (1 Sm 5:4, 5; Ez 9:3; 10:4, 18; 46:2; 47:1); também traduzido como “porta” e “batente”. (2.) ‘Asuppim, pl. (Neemias 12:25), traduzido corretamente como “depósitos” na Versão Revisada. Em 1 Crôn. 26:15, 17, a Versão Autorizada mantém a palavra como um nome próprio, enquanto na Versão Revisada ela é traduzida como “depósitos”."
+      },
+      {
+        "source": "SMI",
+        "text": "Das duas palavras traduzidas dessa forma na Versão Autorizada, uma delas, “miphthan”, parece significar, às vezes, uma viga saliente ou um corbel. (Ezequiel 9:3; 10:4,18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 5:4",
+        "original": "1 Sam. 5:4"
+      },
+      {
+        "reference": "1 Samuel 5:5",
+        "original": "1 Sam. 5:5"
+      },
+      {
+        "reference": "Ezekiel 9:3",
+        "original": "Ezek. 9:3"
+      },
+      {
+        "reference": "Ezekiel 10:4",
+        "original": "Ezek 10:4"
+      },
+      {
+        "reference": "Ezekiel 10:18",
+        "original": "Ezek 10:18"
+      },
+      {
+        "reference": "Ezekiel 46:2",
+        "original": "Ezek 46:2"
+      },
+      {
+        "reference": "Ezekiel 47:1",
+        "original": "Ezek 47:1"
+      },
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Neh. 12:25"
+      },
+      {
+        "reference": "1 Chronicles 26:15",
+        "original": "1 Chr. 26:15"
+      },
+      {
+        "reference": "1 Chronicles 26:17",
+        "original": "1 Chr. 26:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "thresholds-the": {
+    "name": "Limiares, Os",
+    "slug": "thresholds-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Essa palavra, Asuppe, parece ter sido traduzida de forma imprecisa em (Neemias 12:25), embora seu verdadeiro significado talvez ainda não tenha sido descoberto. A “casa de Asuppim”, ou simplesmente “os Asuppim”, é mencionada em (1 Crônicas 26:15, 17) como uma parte — provavelmente um portão — do recinto da “casa de Jeová”, aparentemente em seu canto sudoeste. A alusão em (Neemias 12:29) refere-se, sem dúvida, ao mesmo local. [Portão]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Nehemiah 12:25"
+      },
+      {
+        "reference": "1 Chronicles 26:15",
+        "original": "1 Chronicles 26:15"
+      },
+      {
+        "reference": "1 Chronicles 26:17",
+        "original": "1 Chronicles 26:17"
+      },
+      {
+        "reference": "Nehemiah 12:29",
+        "original": "Nehemiah 12:29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tobit-book-of": {
+    "name": "Livro de Tobit",
+    "slug": "tobit-book-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Um livro apócrifo que existe atualmente em textos em grego, latim, siríaco e hebraico, mas que provavelmente foi escrito originalmente em grego. A história do livro se passa na Assíria, para onde Tobit, um judeu, havia sido levado como cativo por Salmanasar. A história se desenrola e se conclui logo após a queda de Nínive (606 a.C.), Tób. 14,15, e foi escrita, em sua maior parte, algum tempo antes. Tob. 12,20. Mas todo o tom da narrativa denota uma época posterior e, acima de tudo, a doutrina dos espíritos bons e maus é elaborada de uma forma que pertence a um período consideravelmente posterior ao cativeiro babilônico. Asmodeu iii. 8; vi. 14; viii. 3; Rafael xii. 15. Não pode ser considerado uma história verdadeira. Trata-se de uma narrativa didática, e seu objetivo reside nas lições morais que transmite, e não nos incidentes. Nos tempos modernos, a excelência moral do livro tem sido altamente valorizada, exceto no calor da controvérsia. Em nenhum outro lugar se preserva um retrato tão completo e belo da vida doméstica dos judeus após o retorno. Quase todas as relações familiares são abordadas com graça e afeto naturais. Uma característica doutrinária do livro é a firme crença em uma gloriosa restauração do povo judeu. Tób. 14,5; 13,9-18. Mas a restauração contemplada é nacional, e não a obra de um Salvador universal. Em todo o livro não há o menor traço de crença em um Messias pessoal."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Tob 14:15",
+        "original": "Tob. 14:15"
+      },
+      {
+        "reference": "Tob 12:20",
+        "original": "Tob. 12:20"
+      },
+      {
+        "reference": "Tob 14:5",
+        "original": "Tob. 14:5"
+      },
+      {
+        "reference": "Tob 13:9-18",
+        "original": "Tob 13:9-18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tongues-confusion-of": {
+    "name": "Línguas, Confusão das",
+    "slug": "tongues-confusion-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Em Babel, a causa da separação inicial da humanidade e de sua divisão em nações. Os descendentes de Noé construíram uma torre para impedir sua dispersão; mas Deus “confundiu a língua deles” (Gênesis 11:1-8), e eles foram espalhados por toda a terra. Até então, “toda a terra tinha uma única língua e um único idioma”. (Veja SHINAR.)"
+      },
+      {
+        "source": "SMI",
+        "text": "A unidade da raça humana está claramente implícita, se não afirmada de forma explícita, nos escritos mosaicos. A unidade da língua é assumida pelo historiador sagrado, aparentemente, como um corolário da unidade da raça. (Essa afirmação é confirmada pelos filólogos.) Não é dada nenhuma explicação sobre a origem da linguagem, mas seu uso é evidentemente considerado coevo à criação do homem. A unidade original da linguagem foi restaurada em Noé. Causas perturbadoras, no entanto, começaram a agir desde cedo para dissolver essa dupla união entre comunidade e linguagem. A família humana se empenhou em conter a tendência à separação por meio da construção de um grande edifício central e de uma cidade que servisse como metrópole do mundo inteiro. O projeto foi frustrado pela intervenção de Jeová, que decidiu “confundir a língua deles, para que não compreendessem a fala uns dos outros”. Contemporaneamente a essa confusão de línguas — e talvez como resultado dela —, o povo se dispersou dali por toda a face da terra, e a memória do grande acontecimento foi preservada no nome de Babel. [Torre de Babel] Inscrição de Nabucodonosor. — Na inscrição de Nabucodonosor em Borsippa há uma alusão à confusão das línguas. “Dizemos, quanto a este outro, ou seja, este edifício, a casa das Sete Luzes da Terra, o monumento mais antigo de Borsippa, que um antigo rei o construiu [calculam-se quarenta e duas eras], mas não concluiu sua parte superior. Desde tempos remotos as pessoas o haviam abandonado, sem ordem alguma em suas palavras. Desde então, o terremoto e o trovão dispersaram seu barro seco ao sol; os tijolos do revestimento se partiram, e a terra do interior se espalhou em montes.” Não é necessário supor que o castigo infligido aos construtores de Babel tenha resultado em uma perda, ou mesmo em uma suspensão da fala articulada. O objetivo almejado seria igualmente alcançado por uma prevenção milagrosa dessas diferenças dialéticas da linguagem que estão constantemente em processo de formação. Os elementos da única língua original podem ter permanecido, mas tão disfarçados por variações de pronúncia e pela introdução de novas combinações a ponto de ficarem praticamente obliterados. A confusão das línguas e a dispersão das nações são mencionadas na Bíblia como eventos contemporâneos. A divergência das várias famílias em tribos e nações distintas ocorreu paralelamente à divergência da fala em dialetos e línguas; assim, o décimo capítulo de Gênesis é posterior, na sequência histórica, aos eventos registrados no décimo primeiro capítulo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:1-8",
+        "original": "Gen. 11:1-8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tongues-gift-of": {
+    "name": "Línguas, Dom das",
+    "slug": "tongues-gift-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Concedido no dia de Pentecostes (Atos 2:4), em cumprimento a uma promessa que Cristo havia feito aos seus discípulos (Marcos 16:17). O que esse dom realmente era tem sido objeto de muita discussão. Alguns argumentam que se tratava meramente de um sinal externo da presença do Espírito Santo entre os discípulos, simbolizando seus múltiplos dons e mostrando que a salvação se estenderia a todas as nações. Mas as palavras de Lucas (Atos 2:9) mostram claramente que os diversos povos presentes em Jerusalém na época do Pentecostes realmente ouviram a mensagem dirigida a eles em sua própria língua, com a qual estavam naturalmente familiarizados (comp. Joel 2:28, 29). Entre os dons do Espírito que o apóstolo enumera em 1 Coríntios 12:10-14:30, estão “diversos tipos de línguas” e a “interpretação de línguas”. Esse “dom” era uma manifestação do Espírito diferente daquela ocorrida no Pentecostes, embora se assemelhasse a ela em muitos aspectos. As línguas deveriam ser “um sinal para os que não crêem”."
+      },
+      {
+        "source": "SMI",
+        "text": "I. glotta, ou glossa, a palavra empregada em todo o Novo Testamento para designar o dom agora em questão, é usada — (1) para designar o órgão físico da fala; (2) para designar uma palavra estrangeira importada e parcialmente naturalizada no grego; (3) no grego helenístico, para “fala” ou “língua”. A visão tradicional aceita, que parte do terceiro significado e vê no dom das línguas um poder distintamente linguístico, é a mais correta. II. As principais passagens das quais devemos extrair nossa conclusão quanto à natureza e ao propósito do dom em questão são:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 2:4",
+        "original": "Acts 2:4"
+      },
+      {
+        "reference": "Mark 16:17",
+        "original": "Mark 16:17"
+      },
+      {
+        "reference": "Acts 2:9",
+        "original": "Acts 2:9"
+      },
+      {
+        "reference": "Joel 2:28",
+        "original": "Joel 2:28"
+      },
+      {
+        "reference": "Joel 2:29",
+        "original": "Joel 2:29"
+      },
+      {
+        "reference": "1 Corinthians 12:10-14:30",
+        "original": "1 Cor. 12:10-14:30"
+      },
+      {
+        "reference": "Acts 2:1-13",
+        "original": "Acts 2:1-13"
+      },
+      {
+        "reference": "Acts 10:46",
+        "original": "Acts 10:46"
+      },
+      {
+        "reference": "Acts 19:6",
+        "original": "Acts 19:6"
+      },
+      {
+        "reference": "2 Corinthians 12:1",
+        "original": "2 Corinthians 12:1"
+      },
+      {
+        "reference": "2 Corinthians 14:1",
+        "original": "2 Corinthians 14:1"
+      },
+      {
+        "reference": "Matthew 10:19",
+        "original": "Matthew 10:19"
+      },
+      {
+        "reference": "Matthew 10:20",
+        "original": "Matthew 10:20"
+      },
+      {
+        "reference": "Mark 13:11",
+        "original": "Mark 13:11"
+      },
+      {
+        "reference": "Acts 2:1-12",
+        "original": "Acts 2:1-12"
+      },
+      {
+        "reference": "Acts 14:11",
+        "original": "Acts 14:11"
+      },
+      {
+        "reference": "1 Corinthians 12",
+        "original": "1Cor 12"
+      },
+      {
+        "reference": "1 Corinthians 14:1",
+        "original": "1 Corinthians 14:1"
+      },
+      {
+        "reference": "1 Chronicles 25:1",
+        "original": "1 Chronicles 25:1"
+      },
+      {
+        "reference": "Ezekiel 13:9",
+        "original": "Ezekiel 13:9"
+      },
+      {
+        "reference": "1 Samuel 10:5-13",
+        "original": "1 Samuel 10:5-13"
+      },
+      {
+        "reference": "1 Samuel 19:20-24",
+        "original": "1 Samuel 19:20-24"
+      },
+      {
+        "reference": "1 Chronicles 25:3",
+        "original": "1 Chronicles 25:3"
+      },
+      {
+        "reference": "Acts 14:16-10",
+        "original": "Acts 14:16-10"
+      },
+      {
+        "reference": "Acts 10:47",
+        "original": "Acts 10:47"
+      },
+      {
+        "reference": "Acts 11:15",
+        "original": "Acts 11:15"
+      },
+      {
+        "reference": "Acts 11:17",
+        "original": "Acts 11:17"
+      },
+      {
+        "reference": "1 Corinthians 12:8-10",
+        "original": "1 Corinthians 12:8-10"
+      },
+      {
+        "reference": "1 Corinthians 12:28-30",
+        "original": "1 Corinthians 12:28-30"
+      },
+      {
+        "reference": "1 Corinthians 14:15",
+        "original": "1 Corinthians 14:15"
+      },
+      {
+        "reference": "1 Corinthians 14:16",
+        "original": "1 Corinthians 14:16"
+      },
+      {
+        "reference": "1 Corinthians 12:28",
+        "original": "1 Corinthians 12:28"
+      },
+      {
+        "reference": "1 Corinthians 13:1",
+        "original": "1 Corinthians 13:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wailing-place-jews": {
+    "name": "Local de Lamento, dos judeus",
+    "slug": "wailing-place-jews",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma seção do muro ocidental da área do templo, onde os judeus se reúnem todas as sextas-feiras à tarde para lamentar sua condição desoladora (Salmo 79:1, 4, 5). As pedras nessa parte do muro são de grande porte e, como se acredita geralmente, foram colocadas na posição em que se encontram hoje já na época de Salomão. “A congregação no local do lamento é uma das reuniões mais solenes que restam à Igreja judaica, e, ao contemplar aquela multidão heterogênea, o escritor sentiu uma profunda tristeza ao perceber que os remanescentes da raça escolhida foram impiedosamente expulsos para fora do recinto sagrado do templo de seus pais por homens de uma raça e de um credo estranhos. Muitos dos anciãos, sentados no chão, com as costas encostadas à parede, no lado oeste da área, e com os rostos voltados para a casa eterna, liam em voz alta, de seus livros hebraicos bem manuseados, passagens dos escritos proféticos, tais como Isaías 64:9-12” (King’s Recent Discoveries, etc.). O local de lamento dos judeus, visto em suas relações espirituais e históricas passadas, é de fato “o recanto mais triste neste vale de lágrimas”. (Ver LAMENTAÇÕES, LIVRO DE.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 79:1",
+        "original": "Ps. 79:1"
+      },
+      {
+        "reference": "Psalms 79:4",
+        "original": "Ps. 79:4"
+      },
+      {
+        "reference": "Psalms 79:5",
+        "original": "Ps. 79:5"
+      },
+      {
+        "reference": "Isaiah 64:9-12",
+        "original": "Isa. 64:9-12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "washing": {
+    "name": "Lavagem",
+    "slug": "washing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 7:1-9). Os judeus, assim como outros povos orientais, usavam os dedos para comer e, por isso, lavavam as mãos antes de fazê-lo, por uma questão de higiene. Aqui, a referência é às abluções prescritas pela tradição, segundo as quais “os discípulos deveriam ter descido até a margem do lago, lavado bem as mãos, ‘esfregando o punho de uma mão na palma da outra, depois juntado as pontas dos dez dedos, mantendo as mãos erguidas, para que qualquer excesso de água escorresse até o cotovelo e, de lá, para o chão’”. Deixar de fazer isso passou a ser considerado um grande pecado, um pecado equivalente à violação de qualquer um dos dez mandamentos. Moisés havia ordenado abluções com frequência, mas sempre por algum motivo específico; contudo, os judeus multiplicaram a observância legal até formarem um vasto conjunto de preceitos. É a esses preceitos sobre a ablução cerimonial que Marcos se refere aqui. (Ver ABLUÇÃO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:1-9",
+        "original": "Mark 7:1-9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "washing-the-hands-and-feet": {
+    "name": "Lavagem das mãos e dos pés",
+    "slug": "washing-the-hands-and-feet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Como, nos tempos bíblicos, não se usavam facas e garfos no Oriente para comer, era necessário que a mão, que era mergulhada no prato comum, estivesse escrupulosamente limpa; e, além disso, como as sandálias eram ineficazes contra a poeira e o calor do clima, lavar os pés ao entrar em uma casa era um ato tanto de respeito para com os anfitriões quanto de refresco para o viajante. O primeiro desses costumes foi transformado pelos fariseus da era do Novo Testamento em uma questão de observância ritual (Marcos 7:3), e regras especiais foram estabelecidas quanto ao momento e à maneira de sua realização. Lavar os pés não alcançava a dignidade de uma observância ritual, exceto em conexão com os serviços do santuário. (Êxodo 30:19,21) Ocupava, no entanto, um lugar de destaque entre os ritos de hospitalidade. Assim que um hóspede se apresentava à porta da tenda, era costume oferecer os materiais necessários para a lavagem dos pés. (Gênesis 18:4; 19:2; 24:32; 43:24; Juízes 19:21) Era um ato ainda mais lisonjeiro, denotando tanto humildade quanto afeto, se o próprio anfitrião realizasse essa tarefa para seu hóspede. (1 Samuel 25:41; Lucas 7:38, 44; João 13:5-14; 1 Timóteo 5:10) Tal demonstração de hospitalidade ainda é praticada ocasionalmente no Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:3",
+        "original": "Mark 7:3"
+      },
+      {
+        "reference": "Exodus 30:19",
+        "original": "Exodus 30:19"
+      },
+      {
+        "reference": "Exodus 30:21",
+        "original": "Exodus 30:21"
+      },
+      {
+        "reference": "Genesis 18:4",
+        "original": "Genesis 18:4"
+      },
+      {
+        "reference": "Genesis 19:2",
+        "original": "Genesis 19:2"
+      },
+      {
+        "reference": "Genesis 24:32",
+        "original": "Genesis 24:32"
+      },
+      {
+        "reference": "Genesis 43:24",
+        "original": "Genesis 43:24"
+      },
+      {
+        "reference": "Judges 19:21",
+        "original": "Judges 19:21"
+      },
+      {
+        "reference": "1 Samuel 25:41",
+        "original": "1 Samuel 25:41"
+      },
+      {
+        "reference": "Luke 7:38",
+        "original": "Luke 7:38"
+      },
+      {
+        "reference": "Luke 7:44",
+        "original": "Luke 7:44"
+      },
+      {
+        "reference": "John 13:5-14",
+        "original": "John 13:5-14"
+      },
+      {
+        "reference": "1 Timothy 5:10",
+        "original": "1 Timothy 5:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wine-press": {
+    "name": "Lagareiro",
+    "slug": "wine-press",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Consistia em dois recipientes, (1) uma calha (hebraico: gath; grego: lenos), na qual as uvas eram lançadas e onde eram pisadas e esmagadas (Isaías 16:10; Lamentações 1:15; Joel 3:13); e (2) uma calha ou cuba (hebraico: yekebh; grego: hypolenion) para a qual o suco escorria da calha acima, o gath (Neemias 13:15; Jó 24:11; Isaías 63:2, 3; Ageu 2:16; Joel 2:24). Os lagar de vinho são encontrados em quase todas as partes da Palestina. São “as únicas relíquias confiáveis que temos dos tempos antigos de Israel antes do Cativeiro. Entre Hebrom e Berseba, elas são encontradas em todas as encostas das colinas; abundam no sul da Judéia; não são menos comuns nos muitos vales do Carmelo; e são numerosas na Galiléia.” O “pisar do lagar” é um símbolo do julgamento divino (Isaías 63:2; Lamentações 1:15; Apocalipse 14:19, 20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 16:10",
+        "original": "Isa. 16:10"
+      },
+      {
+        "reference": "Lamentations 1:15",
+        "original": "Lam. 1:15"
+      },
+      {
+        "reference": "Joel 3:13",
+        "original": "Joel 3:13"
+      },
+      {
+        "reference": "Nehemiah 13:15",
+        "original": "Neh. 13:15"
+      },
+      {
+        "reference": "Job 24:11",
+        "original": "Job 24:11"
+      },
+      {
+        "reference": "Isaiah 63:2",
+        "original": "Isa. 63:2"
+      },
+      {
+        "reference": "Isaiah 63:3",
+        "original": "Isa. 63:3"
+      },
+      {
+        "reference": "Haggai 2:16",
+        "original": "Hag. 2:16"
+      },
+      {
+        "reference": "Joel 2:24",
+        "original": "Joel 2:24"
+      },
+      {
+        "reference": "Revelation 14:19",
+        "original": "Rev. 14:19"
+      },
+      {
+        "reference": "Revelation 14:20",
+        "original": "Rev. 14:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "wolf": {
+    "name": "Lobo",
+    "slug": "wolf",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Em hebraico, “zeeb”, frequentemente mencionado nas Escrituras como símbolo de traição e crueldade. A profecia de Jacó: “Benjamim devorará como um lobo” (Gênesis 49:27), representa o caráter belicoso dessa tribo (ver Juízes 19-21). Isaías representa a paz do reino do Messias com as palavras: “O lobo habitará com o cordeiro” (Isaías 11:6). Os hábitos do lobo são descritos em Jeremias 5:6; Habacuque 1:8; Sofonias 3:3; Ezequiel 22:27; Mateus 7:15; 10:16; Atos 20:29. Ainda hoje, às vezes, encontram-se lobos na Palestina, e eles continuam a ser o terror dos pastores, como nos tempos antigos."
+      },
+      {
+        "source": "SMI",
+        "text": "Não há dúvida de que o lobo da Palestina é o Canis lupus comum e que esse é o animal tão frequentemente mencionado na Bíblia. (O lobo é um animal feroz da mesma espécie que o cão, com o qual se assemelha. A cor comum é cinza com um tom de castanho-claro, e o pelo é longo e preto. O lobo sírio é de cor mais clara do que o lobo europeu; ele é o terror dos pastores da Palestina. — ED.) Os lobos eram, sem dúvida, muito mais comuns nos tempos bíblicos do que são hoje, embora sejam ocasionalmente avistados por viajantes modernos. A seguir, apresentam-se as alusões bíblicas ao lobo: Sua ferocidade é mencionada em (Gênesis 49:27; Ezequiel 22:27); Habacuque 1:8; Mateus 7:15; seus hábitos noturnos, em (Jeremias 5:6; Sofonias 3:3); Habacuque 1:8; o fato de atacar ovelhas e cordeiros, (Mateus 10:16; Lucas 10:3; João 10:12). Isaías (Isaías 11:6; 65:25) prediz o reinado pacífico do Messias por meio da metáfora de um lobo habitando com um cordeiro: perseguidores cruéis são comparados a lobos. (Mateus 10:16; Atos 20:29)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:27",
+        "original": "Gen. 49:27"
+      },
+      {
+        "reference": "Judges 19",
+        "original": "Judg. 19"
+      },
+      {
+        "reference": "Isaiah 11:6",
+        "original": "Isa. 11:6"
+      },
+      {
+        "reference": "Jeremiah 5:6",
+        "original": "Jer. 5:6"
+      },
+      {
+        "reference": "Habakkuk 1:8",
+        "original": "Hab. 1:8"
+      },
+      {
+        "reference": "Zephaniah 3:3",
+        "original": "Zeph. 3:3"
+      },
+      {
+        "reference": "Ezekiel 22:27",
+        "original": "Ezek. 22:27"
+      },
+      {
+        "reference": "Matthew 7:15",
+        "original": "Matt. 7:15"
+      },
+      {
+        "reference": "Matthew 10:16",
+        "original": "Matt 10:16"
+      },
+      {
+        "reference": "Acts 20:29",
+        "original": "Acts 20:29"
+      },
+      {
+        "reference": "Luke 10:3",
+        "original": "Luke 10:3"
+      },
+      {
+        "reference": "John 10:12",
+        "original": "John 10:12"
+      },
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isaiah 65:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wool": {
+    "name": "Lã",
+    "slug": "wool",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um dos primeiros materiais utilizados na confecção de tecidos (Lv 13,47, 48, 52, 59; 19,19). As primícias da lã deviam ser oferecidas aos sacerdotes (Dt 18,4). A lei que proibia o uso de uma vestimenta “de matérias diferentes, como lã e linho juntos” (Dt 22:11) pode, assim como algumas outras leis de caráter semelhante, ter tido a intenção de expressar simbolicamente a separatividade e a simplicidade do povo da aliança de Deus. A lã de Damasco, famosa por sua brancura, gozava de grande reputação no mercado de Tiro (Ez. 27:18)."
+      },
+      {
+        "source": "SMI",
+        "text": "era um bem de altíssimo valor entre os judeus, pois constituía a matéria-prima essencial para a confecção de roupas. (Levítico 13:47; 22:11; Jó 31:20; Provérbios 31:13; Ezequiel 34:3; Oséias 2:5) A importância da lã é, aliás, demonstrada pelo fato de que o tributo de Mesha era pago com um certo número de carneiros “com a lã”. (2 Reis 3:1) A lã de Damasco era muito valorizada no mercado de Tiro. (Ezequiel 27:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Lev. 13:47"
+      },
+      {
+        "reference": "Leviticus 13:48",
+        "original": "Lev 13:48"
+      },
+      {
+        "reference": "Leviticus 13:52",
+        "original": "Lev 13:52"
+      },
+      {
+        "reference": "Leviticus 13:59",
+        "original": "Lev 13:59"
+      },
+      {
+        "reference": "Leviticus 19:19",
+        "original": "Lev 19:19"
+      },
+      {
+        "reference": "Deuteronomy 18:4",
+        "original": "Deut. 18:4"
+      },
+      {
+        "reference": "Deuteronomy 22:11",
+        "original": "Deut. 22:11"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezek. 27:18"
+      },
+      {
+        "reference": "Leviticus 22:11",
+        "original": "Leviticus 22:11"
+      },
+      {
+        "reference": "Job 31:20",
+        "original": "Job 31:20"
+      },
+      {
+        "reference": "Proverbs 31:13",
+        "original": "Proverbs 31:13"
+      },
+      {
+        "reference": "Ezekiel 34:3",
+        "original": "Ezekiel 34:3"
+      },
+      {
+        "reference": "Hosea 2:5",
+        "original": "Hosea 2:5"
+      },
+      {
+        "reference": "2 Kings 3:1",
+        "original": "2 Kings 3:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wrestle": {
+    "name": "Lutar",
+    "slug": "wrestle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Ef 6,12). Veja JOGOS."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 6:12",
+        "original": "Eph. 6:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "wrestling": {
+    "name": "Luta livre",
+    "slug": "wrestling",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jogos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
   }
 }

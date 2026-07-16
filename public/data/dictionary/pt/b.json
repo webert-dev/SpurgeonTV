@@ -13050,5 +13050,1028 @@
       "EAS"
     ],
     "letter": "b"
+  },
+  "mouldy": {
+    "name": "Bolorento",
+    "slug": "mouldy",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dos gibeonitas é dito que “todo o pão da sua provisão estava seco e bolorento” (Js 9:5, 12). A palavra hebraica aqui traduzida como “bolorento” (nikuddim) é traduzida como “biscoitos” em 1 Reis 14:3, e denota um tipo de bolo crocante. O significado é que o pão dos gibeonitas havia se tornado seco e duro, duro como biscoitos, e assim era uma evidência da extensão da jornada que haviam percorrido."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 9:5",
+        "original": "Josh. 9:5"
+      },
+      {
+        "reference": "Joshua 9:12",
+        "original": "Josh. 9:12"
+      },
+      {
+        "reference": "1 Kings 14:3",
+        "original": "1 Kings 14:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "ox": {
+    "name": "Boi",
+    "slug": "ox",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. bakar, “gado”; “gado bovino”, (Gên. 12:16; 34:28; Jó 1:3, 14; 42:12, etc.); não deve ser amordaçado quando debulha o trigo (Deut. 25:4). Referido pelo nosso Senhor em sua repreensão aos fariseus (Lucas 13:15; 14:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Não havia animal na economia rural dos israelitas, ou mesmo na dos antigos orientais em geral, que fosse mantido em maior estima do que o boi, e merecidamente, pois o boi era o animal de cujo trabalho paciente dependiam todas as operações comuns da agricultura. Os bois eram usados para arar, (22:10; 1 Samuel 14:14) etc.; para debulhar o trigo, (25:4; Oséias 10:11) etc.; para fins de tração, quando eram geralmente jugados em pares, (Números 7:3; 1 Samuel 6:7) etc.; como animais de carga, (1 Crônicas 12:40) sua carne era comida, (14:4; 1 Reis 1:9) etc.; eram usados nos sacrifícios; as vacas forneciam leite, manteiga, etc. (32:14; 2 Samuel 17:29; Isaías 7:22) Conectado à importância dos bois na economia rural dos judeus está o código rigoroso de leis que foi misericordiosamente promulgado por Deus para sua proteção e preservação. O boi que debulhava o trigo não deveria ser de forma alguma amordaçado; ele deveria desfrutar de descanso no sábado, assim como seu mestre. (Êxodo 23:12; 5:14) O boi era raramente abatido. (Levítico 17:1-6) Parece claro em (Provérbios 15:17) e 1 Reis 4:23 que o gado às vezes era engordado no estábulo, embora, como regra geral, seja provável que se alimentassem nas planícies ou nas colinas da Palestina. O gado que pastava livremente no campo aberto sem dúvida frequentemente se tornava feroz e selvagem, pois deve-se lembrar que, nos tempos primitivos, o leão e outros animais selvagens de rapina vagavam pela Palestina. Daí a força da queixa do salmista sobre seus inimigos. (Salmos 22:13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Genesis 34:28",
+        "original": "Gen 34:28"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "Job 1:14",
+        "original": "Job 1:14"
+      },
+      {
+        "reference": "Job 42:12",
+        "original": "Job 42:12"
+      },
+      {
+        "reference": "Deuteronomy 25:4",
+        "original": "Deut. 25:4"
+      },
+      {
+        "reference": "Luke 13:15",
+        "original": "Luke 13:15"
+      },
+      {
+        "reference": "Luke 14:5",
+        "original": "Luke 14:5"
+      },
+      {
+        "reference": "1 Samuel 14:14",
+        "original": "1 Samuel 14:14"
+      },
+      {
+        "reference": "Hosea 10:11",
+        "original": "Hosea 10:11"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Numbers 7:3"
+      },
+      {
+        "reference": "1 Samuel 6:7",
+        "original": "1 Samuel 6:7"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chronicles 12:40"
+      },
+      {
+        "reference": "1 Kings 1:9",
+        "original": "1 Kings 1:9"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Samuel 17:29"
+      },
+      {
+        "reference": "Isaiah 7:22",
+        "original": "Isaiah 7:22"
+      },
+      {
+        "reference": "Exodus 23:12",
+        "original": "Exodus 23:12"
+      },
+      {
+        "reference": "Exodus 5:14",
+        "original": "Exodus 5:14"
+      },
+      {
+        "reference": "Leviticus 17:1-6",
+        "original": "Leviticus 17:1-6"
+      },
+      {
+        "reference": "Proverbs 15:17",
+        "original": "Proverbs 15:17"
+      },
+      {
+        "reference": "1 Kings 4:23",
+        "original": "1Kin 4:23"
+      },
+      {
+        "reference": "Psalms 22:13",
+        "original": "Psalms 22:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "purse": {
+    "name": "Bolsa",
+    "slug": "purse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Gr. balantion, uma bolsa (Lucas 10:4; 22:35, 36). (2.) Gr. zone, propriamente um cinto (Mateus 10:9; Marcos 6:8), um cinto de dinheiro. Quanto ao fato de nosso Senhor enviar seus discípulos sem dinheiro em suas bolsas, observou-se que nisto “não houve desvio dos costumes simples do país. Hoje em dia, o agricultor parte para excursões tão extensas quanto as dele sem um para na bolsa; e um profeta muçulmano moderno de Tarshisha envia assim seus apóstolos por esta mesma região. Nenhum viajante no Oriente hesitaria em lançar-se à hospitalidade de qualquer aldeia”. Thomson, Terra e o Livro. (Veja ALFORGE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "uma bolsa para dinheiro. Os hebreus, quando em viagem, eram providos de uma bolsa, na qual carregavam seu dinheiro (Gênesis 42:35; Provérbios 1:14; 7:20; Isaías 46:6) e, se fossem mercadores, também seus pesos (25:13; Miqueias 6:11). Esta bolsa é descrita no Novo Testamento pelos termos balantion (bolsa) (Lucas 10:4; 12:33; 22:35,38) e glossokomon (originalmente a bolsa em que os músicos carregavam os bocais de seus instrumentos) (João 12:6; 13:29). O cinto também servia como bolsa (Mateus 10:9; Marcos 6:8). As mulheres usavam bolsas ornamentais (Isaías 3:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 10:4",
+        "original": "Luke 10:4"
+      },
+      {
+        "reference": "Luke 22:35",
+        "original": "Luke 22:35"
+      },
+      {
+        "reference": "Luke 22:36",
+        "original": "Luke 22:36"
+      },
+      {
+        "reference": "Matthew 10:9",
+        "original": "Matt. 10:9"
+      },
+      {
+        "reference": "Mark 6:8",
+        "original": "Mark 6:8"
+      },
+      {
+        "reference": "Genesis 42:35",
+        "original": "Genesis 42:35"
+      },
+      {
+        "reference": "Proverbs 1:14",
+        "original": "Proverbs 1:14"
+      },
+      {
+        "reference": "Proverbs 7:20",
+        "original": "Proverbs 7:20"
+      },
+      {
+        "reference": "Isaiah 46:6",
+        "original": "Isaiah 46:6"
+      },
+      {
+        "reference": "Micah 6:11",
+        "original": "Micah 6:11"
+      },
+      {
+        "reference": "Luke 12:33",
+        "original": "Luke 12:33"
+      },
+      {
+        "reference": "Luke 22:38",
+        "original": "Luke 22:38"
+      },
+      {
+        "reference": "John 12:6",
+        "original": "John 12:6"
+      },
+      {
+        "reference": "John 13:29",
+        "original": "John 13:29"
+      },
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isaiah 3:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "ramathlehi": {
+    "name": "Bom dia",
+    "slug": "ramathlehi",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(colina da mandíbula, ou colina de Leí), nome dado por Sansão ao local onde matou mil filisteus com a mandíbula (Juízes 15:17), um lugar próximo à rocha de Elam, na região ocidental de Judá, território dos filisteus."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 15:17",
+        "original": "Judges 15:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "rezin": {
+    "name": "Borracha",
+    "slug": "rezin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Firm; um príncipe, rei da Síria, que se aliou a Peca (ver) em uma invasão ao reino de Judá (2 Reis 15:37; 16:5-9; Isaías 7:1-8). Acaz induziu Tiglate-Pileser III a atacar Damasco, o que levou Rezim a recuar com o objetivo de defender seu próprio reino. Damasco foi tomada, e Rezim foi morto em batalha pelo rei assírio, e seu povo levado ao cativeiro, em 732 a.C. (2 Reis 16:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(empresas)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 15:37",
+        "original": "2 Kings 15:37"
+      },
+      {
+        "reference": "2 Kings 16:5-9",
+        "original": "2 Kings 16:5-9"
+      },
+      {
+        "reference": "Isaiah 7:1-8",
+        "original": "Isa. 7:1-8"
+      },
+      {
+        "reference": "2 Kings 16:9",
+        "original": "2 Kings 16:9"
+      },
+      {
+        "reference": "2 Kings 16:5",
+        "original": "2 Kings 16:5"
+      },
+      {
+        "reference": "Isaiah 7:1",
+        "original": "Isaiah 7:1"
+      },
+      {
+        "reference": "2 Kings 16:6",
+        "original": "2 Kings 16:6"
+      },
+      {
+        "reference": "Ezra 2:48",
+        "original": "Ezra 2:48"
+      },
+      {
+        "reference": "Nehemiah 7:50",
+        "original": "Nehemiah 7:50"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "sabachthani": {
+    "name": "Bom dia",
+    "slug": "sabachthani",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "“Tu me abandonaste”, uma das palavras em aramaico proferidas por nosso Senhor na cruz (Mateus 27:46; Marcos 15:34)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:46",
+        "original": "Matt. 27:46"
+      },
+      {
+        "reference": "Mark 15:34",
+        "original": "Mark 15:34"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "samlah": {
+    "name": "Bom dia",
+    "slug": "samlah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(vestimenta), (Gênesis 36:36,37; 1 Crônicas 1:47,48) um dos reis de Edom, sucessor de Hadad ou Hadar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:36",
+        "original": "Genesis 36:36"
+      },
+      {
+        "reference": "Genesis 36:37",
+        "original": "Genesis 36:37"
+      },
+      {
+        "reference": "1 Chronicles 1:47",
+        "original": "1 Chronicles 1:47"
+      },
+      {
+        "reference": "1 Chronicles 1:48",
+        "original": "1 Chronicles 1:48"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "sansannah": {
+    "name": "Bom dia",
+    "slug": "sansannah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um ramo de palmeira ou um arbusto espinhoso; cidade no sul (o Negev) de Judá (Josué 15:31); também chamada de Hazarsusah (19:5) ou Hazar-susim (1 Crônicas 4:31)."
+      },
+      {
+        "source": "SMI",
+        "text": "(ramo de palmeira), uma das cidades do distrito sul de Judá, mencionada apenas em (Josué 15:31)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:31",
+        "original": "Josh. 15:31"
+      },
+      {
+        "reference": "1 Chronicles 4:31",
+        "original": "1 Chr. 4:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "scapegoat": {
+    "name": "Bode expiatório",
+    "slug": "scapegoat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Lev. 16:8-26; R.V., “o bode para Azazel” (ver), nome dado ao bode que era levado para o deserto no Dia da Expiação (16:20-22). O sacerdote fazia expiação sobre o bode expiatório, transferindo sobre ele a culpa de Israel, e então o mandava embora; o bode levava “sobre si todas as suas iniquidades para uma terra desabitada”. Posteriormente, os judeus introduziram uma evasão ou modificação da lei de Moisés. “O bode era conduzido a uma montanha chamada Tzuk, situada a uma distância de dez dias de viagem de sábado, ou cerca de seis milhas e meia inglesas, de Jerusalém. Nesse local, supunha-se que começasse o deserto da Judéia; e o homem encarregado de conduzir o bode, ao libertá-lo, recebia instruções para empurrar o infeliz animal pela encosta da montanha, que era tão íngreme a ponto de garantir a morte do bode, cujos ossos se quebravam com a queda. A razão desse costume bárbaro era que, em certa ocasião, o bode expiatório retornou a Jerusalém após ser solto, o que foi considerado um presságio tão mau que sua repetição foi impedida no futuro pela morte do bode” (Vinte e um Anos de Trabalho na Terra Santa). Essa montanha é hoje chamada de el-Muntar."
+      },
+      {
+        "source": "SMI",
+        "text": "[Dia da Expiação, O Dia da Expiação, Dia da Expiação]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 16:8-26",
+        "original": "Lev. 16:8-26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "shobai": {
+    "name": "Bom dia",
+    "slug": "shobai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sequestradores (Esdras 2:42)."
+      },
+      {
+        "source": "SMI",
+        "text": "(glorioso). Os filhos de Shobai eram uma família de porteiros do templo, que retornaram com Zorobabel. (Esdras 2:42; Neemias 7:45) (antes de 536 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:42",
+        "original": "Ezra 2:42"
+      },
+      {
+        "reference": "Nehemiah 7:45",
+        "original": "Nehemiah 7:45"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "shobal": {
+    "name": "Bom dia",
+    "slug": "shobal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Pilgrim. (1.) O segundo filho de Seir, o horita; um dos “duques” horitas (Gênesis 36:20). (2.) Um dos filhos de Calebe e descendente de Hur (1 Crôn. 2:50, 52; 4:1, 2)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fluindo)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:20",
+        "original": "Gen. 36:20"
+      },
+      {
+        "reference": "1 Chronicles 2:50",
+        "original": "1 Chr. 2:50"
+      },
+      {
+        "reference": "1 Chronicles 2:52",
+        "original": "1 Chr. 2:52"
+      },
+      {
+        "reference": "1 Chronicles 4:1",
+        "original": "1 Chr. 4:1"
+      },
+      {
+        "reference": "1 Chronicles 4:2",
+        "original": "1 Chr. 4:2"
+      },
+      {
+        "reference": "1 Chronicles 1:38",
+        "original": "1 Chronicles 1:38"
+      },
+      {
+        "reference": "Genesis 36:29",
+        "original": "Genesis 36:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "sihimma": {
+    "name": "Bem-vindo",
+    "slug": "sihimma",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "o terceiro filho de Jessé e irmão de Davi. (1 Crônicas 2:13) O mesmo que Simeá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:13",
+        "original": "1 Chronicles 2:13"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "sow": {
+    "name": "Bom dia",
+    "slug": "sow",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Porcos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "tabrimon": {
+    "name": "Bem-vindo",
+    "slug": "tabrimon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Bom é Rimom, pai de Ben-Hadade, rei da Síria (1 Reis 15:18)."
+      },
+      {
+        "source": "SMI",
+        "text": "(corretamente Tabrimmon, ou seja, “bom” é Rimmon, o deus sírio) pai de Ben-Hadade I, rei da Síria durante o reinado de Asa. (1 Reis 15:18) (antes de 928 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 15:18",
+        "original": "1 Kings 15:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "tolaites": {
+    "name": "Banheiros",
+    "slug": "tolaites",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Descendentes de Tola (Nm 26,23; 1 Cr 7,1, 2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:23",
+        "original": "Num. 26:23"
+      },
+      {
+        "reference": "1 Chronicles 7:1",
+        "original": "1 Chr. 7:1"
+      },
+      {
+        "reference": "1 Chronicles 7:2",
+        "original": "1 Chr. 7:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "well": {
+    "name": "Bem",
+    "slug": "well",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(hebraico: beer), a ser distinguido de uma fonte (hebraico: ‘ain). Um “beer” era um poço profundo, perfurado bem abaixo da superfície rochosa pela mão do homem, que continha água que se infiltrava através dos estratos em suas paredes. Tais poços eram os de Jacó e Beerseba, etc. (ver Gênesis 21:19, 25, 30, 31; 24:11; 26:15, 18-25, 32, etc.). No Pentateuco, essa palavra beer, traduzida dessa forma, ocorre vinte e cinco vezes."
+      },
+      {
+        "source": "SMI",
+        "text": "Os poços na Palestina são geralmente escavados na rocha calcária sólida, às vezes com degraus para se descer até eles. (Gênesis 24:16) As bordas são dotadas de um rebordo ou muro baixo de pedra, que apresenta marcas de grande antiguidade nos sulcos causados pelas cordas usadas para tirar água. Foi em um rebordo desse tipo que nosso Senhor se sentou quando conversou com a mulher de Samaria (João 4:6) e foi essa mesma tampa de pedra, de uso comum, que a mulher colocou sobre a boca do poço em Bahurim, (2 Samuel 17:19), onde a Versão Autorizada enfraquece o sentido ao omitir o artigo. Os métodos habituais para extrair água são os seguintes:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 21:19",
+        "original": "Gen. 21:19"
+      },
+      {
+        "reference": "Genesis 21:25",
+        "original": "Gen. 21:25"
+      },
+      {
+        "reference": "Genesis 21:30",
+        "original": "Gen. 21:30"
+      },
+      {
+        "reference": "Genesis 21:31",
+        "original": "Gen. 21:31"
+      },
+      {
+        "reference": "Genesis 24:16",
+        "original": "Genesis 24:16"
+      },
+      {
+        "reference": "John 4:6",
+        "original": "John 4:6"
+      },
+      {
+        "reference": "2 Samuel 17:19",
+        "original": "2 Samuel 17:19"
+      },
+      {
+        "reference": "Genesis 24:14-20",
+        "original": "Genesis 24:14-20"
+      },
+      {
+        "reference": "John 4:11",
+        "original": "John 4:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "whale": {
+    "name": "Baleia",
+    "slug": "whale",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A palavra hebraica tan (plural, tannin) é traduzida dessa forma em Jó 7:12 (A.V.; mas na R.V., “monstro marinho”). É traduzida como “dragões” em Dt 32:33; Sl 91:13; Jeremias 51:34; Salmos 74:13 (nota marginal: “baleias”; e nota marginal da R.V.: “monstros marinhos”); Isaías 27:1; e como “serpente” em Êxodo 7:9 (nota marginal da R.V., “qualquer réptil de grande porte”, e assim também nos versículos 10 e 12). As palavras de Jó (7:12), proferidas com amarga ironia, nas quais ele pergunta: “Sou eu o mar ou uma baleia?”, significam simplesmente: “Tenho eu uma natureza selvagem e indomável, como as ondas do mar, que devem ser confinadas e mantidas dentro de limites, de modo que não possam ultrapassá-los?” “A serpente do mar, que não era senão o próprio mar selvagem e tempestuoso, enrolava-se em torno da terra e ameaçava engoli-la...Jó questiona se deve ser vigiado e atormentado como esse monstro, para que não lance o mundo na desordem” (Jó, de Davidson). A tribo das baleias está incluída sob o nome hebraico geral tannin (Gên. 1:21; Lm. 4:3). “Até mesmo os monstros marinhos [tanninim] amamentam.” A baleia dá à luz seus filhotes vivos e os amamenta. É importante notar, na história de Jonas tendo passado “três dias e três noites no ventre da baleia”, conforme registrado em Mateus 12:40, que aqui o termo grego ketos significa, propriamente, qualquer tipo de monstro marinho da tribo dos tubarões ou das baleias, e que no livro de Jonas (1:17) diz-se apenas que “um grande peixe” estava pronto para engolir Jonas. Esse peixe pode ter sido, portanto, algum grande tubarão. Sabe-se que o tubarão branco frequenta o Mar Mediterrâneo e, às vezes, chega a atingir 30 pés de comprimento."
+      },
+      {
+        "source": "SMI",
+        "text": "Quanto ao significado dos termos hebraicos tan e tannin, traduzidos de diversas maneiras na Versão Autorizada como “dragão”, “baleia”, “serpente” e “monstro marinho”, consulte a entrada “Dragão”. Resta-nos, neste artigo, examinar o relato registrado no livro de Jonas, sobre o profeta ter sido engolido por “um grande peixe”, que em (Mateus 12:40) é chamado de cetos (ketos), traduzido em nossa versão como “baleia”. À primeira vista, é necessário observar que a palavra grega cetos, usada por São Mateus, não se restringe em seu significado a “uma baleia” ou a qualquer cetáceo; assim como o latim cete ou cetus, ela pode denotar qualquer monstro marinho, seja “uma baleia”, ou “um tubarão”, ou “uma foca”, ou “um atum de tamanho gigantesco”. Embora existam duas ou três espécies de baleia no Mar Mediterrâneo, o “grande peixe” que engoliu o profeta não pode ser identificado corretamente com nenhum cetáceo, pois, embora o cachalote tenha uma garganta suficientemente grande para acomodar o corpo de um homem, dificilmente pode ser o peixe em questão, já que a alimentação natural dos cetáceos consiste em pequenos animais, como medusas e crustáceos. O único peixe, portanto, capaz de engolir um homem seria um grande exemplar do tubarão-branco (Carcharias vulgaris), aquele temido inimigo dos marinheiros e o mais voraz da família dos Squalidae. Esse tubarão, que às vezes atinge trinta pés de comprimento, é perfeitamente capaz de engolir um homem inteiro. O corpo inteiro de um homem com armadura já foi encontrado no estômago de um tubarão-branco; e o capitão King, em sua expedição pela Austrália, afirma ter capturado um que poderia ter engolido um homem com a maior facilidade. Blumenbach menciona que um cavalo inteiro foi encontrado dentro de um tubarão, e o capitão Basil Hall relata a captura de um exemplar no qual, além de outras coisas, encontrou a pele inteira de um búfalo que, pouco tempo antes, havia sido jogada ao mar a partir de seu navio (p. 27). O tubarão-branco não é incomum no Mediterrâneo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 7:12",
+        "original": "Job 7:12"
+      },
+      {
+        "reference": "Deuteronomy 32:33",
+        "original": "Deut. 32:33"
+      },
+      {
+        "reference": "Psalms 91:13",
+        "original": "Ps. 91:13"
+      },
+      {
+        "reference": "Jeremiah 51:34",
+        "original": "Jer. 51:34"
+      },
+      {
+        "reference": "Psalms 74:13",
+        "original": "Ps. 74:13"
+      },
+      {
+        "reference": "Isaiah 27:1",
+        "original": "Isa. 27:1"
+      },
+      {
+        "reference": "Exodus 7:9",
+        "original": "Ex. 7:9"
+      },
+      {
+        "reference": "Genesis 1:21",
+        "original": "Gen. 1:21"
+      },
+      {
+        "reference": "Lamentations 4:3",
+        "original": "Lam. 4:3"
+      },
+      {
+        "reference": "Matthew 12:40",
+        "original": "Matt. 12:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "white": {
+    "name": "Branco",
+    "slug": "white",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um símbolo de pureza (2 Crôn. 5:12; Sal. 51:7; Isa. 1:18; Ap. 3:18; 7:14). Nosso Senhor, na sua transfiguração, apareceu com vestes “brancas como a luz” (Mt 17,2, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 5:12",
+        "original": "2 Chr. 5:12"
+      },
+      {
+        "reference": "Psalms 51:7",
+        "original": "Ps. 51:7"
+      },
+      {
+        "reference": "Isaiah 1:18",
+        "original": "Isa. 1:18"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Rev. 3:18"
+      },
+      {
+        "reference": "Revelation 7:14",
+        "original": "Rev 7:14"
+      },
+      {
+        "reference": "Matthew 17:2",
+        "original": "Matt. 17:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "witch": {
+    "name": "Bruxa",
+    "slug": "witch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocorre apenas em Êxodo 22:18, como tradução de mekhashshepheh, a forma feminina da palavra, que significa “feiticeira” (R.V., “feiticeira”), e em Deuteronômio 18:10, como tradução de mekhashshepheth, a forma masculina da palavra, que significa “feiticeiro”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 22:18",
+        "original": "Ex. 22:18"
+      },
+      {
+        "reference": "Deuteronomy 18:10",
+        "original": "Deut. 18:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "witch-witchcrafts": {
+    "name": "Bruxa, Bruxaria",
+    "slug": "witch-witchcrafts",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Adivinhação; Magia, Mágicos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "witchcraft": {
+    "name": "Bruxaria",
+    "slug": "witchcraft",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Sm 15,23; 2 Reis 9,22; 2 Cr 33,6; Miquéias 5,12; Naum 3,4; Gálatas 5,20). No sentido popular da palavra, não há menção alguma a bruxas ou bruxaria nas Escrituras. A “bruxa de Endor” (1 Samuel 28) era uma necromante, ou seja, alguém que fingia conversar com os mortos. A moça com “um espírito de adivinhação” (Atos 16:16) estava possuída por um espírito maligno ou, conforme a tradução literal das palavras, “tinha um espírito, um pitão”. A referência é ao deus pagão Apolo, considerado o deus da profecia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 15:23",
+        "original": "1 Sam. 15:23"
+      },
+      {
+        "reference": "2 Kings 9:22",
+        "original": "2 Kings 9:22"
+      },
+      {
+        "reference": "2 Chronicles 33:6",
+        "original": "2 Chr. 33:6"
+      },
+      {
+        "reference": "Micah 5:12",
+        "original": "Micah 5:12"
+      },
+      {
+        "reference": "Nahum 3:4",
+        "original": "Nahum 3:4"
+      },
+      {
+        "reference": "Galatians 5:20",
+        "original": "Gal. 5:20"
+      },
+      {
+        "reference": "1 Samuel 28",
+        "original": "1 Sam. 28"
+      },
+      {
+        "reference": "Acts 16:16",
+        "original": "Acts 16:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "zadok": {
+    "name": "Bunda",
+    "slug": "zadok",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Righteous. (1.) Filho de Aitube, da linhagem de Eleazar (2 Sm 8:17; 1 Cr 24:3), sumo sacerdote na época de Davi (2 Sm 20:25) e de Salomão (1 Reis 4:4). Ele é mencionado pela primeira vez ao se juntar a Davi em Hebrom (1 Crôn. 12:27, 28). Provavelmente foi por esse motivo que se tornou governante dos aaronitas (27:17). Zadoque e Abiatar atuaram como sumos sacerdotes em várias ocasiões importantes (1 Crôn. 15:11; 2 Sam. 15:24-29, 35, 36); mas quando Adonias tentou assegurar o trono, Abiatar o acompanhou e, por isso, Salomão “o destituiu do cargo de sumo sacerdote”, e Zadoque, permanecendo fiel a Davi, tornou-se o único sumo sacerdote (1 Reis 2:27, 35; 1 Crôn. 29:22). Nele, a linhagem de Fineias retomou a dignidade e a manteve até a queda de Jerusalém. Ele foi sucedido em seu ofício sagrado por seu filho Azarias (1 Reis 4:2; comp. 1 Crôn. 6:3-9). (2.) O pai de Jerusa, que era esposa do rei Uzias e mãe do rei Jotão (2 Reis 15:33; 2 Crônicas 27:1). (3.) “O escriba” colocado à frente dos tesouros do templo por Neemias, juntamente com um sacerdote e um levita (Neemias 13:13). (4.) Os filhos de Baana, um dos que ajudaram na reconstrução do muro de Jerusalém (Neemias 3:4)."
+      },
+      {
+        "source": "SMI",
+        "text": "(apenas)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 8:17",
+        "original": "2 Sam. 8:17"
+      },
+      {
+        "reference": "1 Chronicles 24:3",
+        "original": "1 Chr. 24:3"
+      },
+      {
+        "reference": "2 Samuel 20:25",
+        "original": "2 Sam. 20:25"
+      },
+      {
+        "reference": "1 Kings 4:4",
+        "original": "1 Kings 4:4"
+      },
+      {
+        "reference": "1 Chronicles 12:27",
+        "original": "1 Chr. 12:27"
+      },
+      {
+        "reference": "1 Chronicles 12:28",
+        "original": "1 Chr. 12:28"
+      },
+      {
+        "reference": "1 Chronicles 15:11",
+        "original": "1 Chr. 15:11"
+      },
+      {
+        "reference": "2 Samuel 15:24-29",
+        "original": "2 Sam. 15:24-29"
+      },
+      {
+        "reference": "2 Samuel 15:35",
+        "original": "2 Sam. 15:35"
+      },
+      {
+        "reference": "2 Samuel 15:36",
+        "original": "2 Sam. 15:36"
+      },
+      {
+        "reference": "1 Kings 2:27",
+        "original": "1 Kings 2:27"
+      },
+      {
+        "reference": "1 Kings 2:35",
+        "original": "1 Kings 2:35"
+      },
+      {
+        "reference": "1 Chronicles 29:22",
+        "original": "1 Chr. 29:22"
+      },
+      {
+        "reference": "1 Kings 4:2",
+        "original": "1 Kings 4:2"
+      },
+      {
+        "reference": "1 Chronicles 6:3-9",
+        "original": "1 Chr. 6:3-9"
+      },
+      {
+        "reference": "2 Kings 15:33",
+        "original": "2 Kings 15:33"
+      },
+      {
+        "reference": "2 Chronicles 27:1",
+        "original": "2 Chr. 27:1"
+      },
+      {
+        "reference": "Nehemiah 13:13",
+        "original": "Neh. 13:13"
+      },
+      {
+        "reference": "Nehemiah 3:4",
+        "original": "Neh. 3:4"
+      },
+      {
+        "reference": "2 Samuel 19:11",
+        "original": "2 Samuel 19:11"
+      },
+      {
+        "reference": "1 Kings 1:34",
+        "original": "1 Kings 1:34"
+      },
+      {
+        "reference": "1 Chronicles 16:39",
+        "original": "1 Chronicles 16:39"
+      },
+      {
+        "reference": "1 Chronicles 6:12",
+        "original": "1 Chronicles 6:12"
+      },
+      {
+        "reference": "Nehemiah 3:29",
+        "original": "Nehemiah 3:29"
+      },
+      {
+        "reference": "1 Chronicles 9:11",
+        "original": "1 Chronicles 9:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "zamzummim": {
+    "name": "Bateristas",
+    "slug": "zamzummim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Deuteronômio 2:20) apenas, o nome amonita para o povo que outros chamavam de Refaim. Eles são descritos como tendo sido, originalmente, uma nação poderosa e numerosa de gigantes. A partir de uma leve semelhança entre os dois nomes e da menção aos Emim em relação a cada um deles, conjectura-se que os Zamzummim sejam idênticos aos Zuzim."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 2:20",
+        "original": "Deuteronomy 2:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "zaza": {
+    "name": "Bebê",
+    "slug": "zaza",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Plenty, descendente de Judá (1 Crônicas 2:33)."
+      },
+      {
+        "source": "SMI",
+        "text": "um dos filhos de Jônatas, descendente de Jerameel. (1 Crônicas 2:33)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:33",
+        "original": "1 Chr. 2:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "zebah": {
+    "name": "Bom dia",
+    "slug": "zebah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "“Assassino de homens”, ou “sacrifício”, um dos dois reis que lideraram o vasto exército dos midianitas que invadiram a terra de Israel, e sobre os quais Gideão obteve uma grande e decisiva vitória (Juízes 8). Zebá e Zalmonna conseguiram fugir atravessando o Jordão com um remanescente do exército midianita, mas foram alcançados em Carcor, provavelmente na região de Haurã, e derrotados por Gideão. Os reis foram capturados vivos e trazidos de volta através do Jordão; e, ao confessarem que haviam participado pessoalmente no massacre dos irmãos de Gideão, foram condenados à morte (cf. 1 Samuel 12:11; Isaías 10:26; Salmos 83:11)."
+      },
+      {
+        "source": "SMI",
+        "text": "e Zalmun’na (privado de proteção), os dois “reis” de Midiã que comandaram a grande invasão da Palestina e que acabaram sendo mortos pelas próprias mãos de Gideão. (Juízes 8:5-21; Salmos 83:11) (1250 a.C.) Enquanto Oreb e Zeeb, dois dos líderes subordinados da incursão, haviam sido mortos, juntamente com um grande número de seu povo, pelos efraimitas, nas travessias centrais do Jordão, os dois reis conseguiram escapar por uma passagem mais ao norte (provavelmente a travessia perto de Bet-Seã), e de lá, pelo Wadi Yabis, passando por Gileade, até Kurcor, no alto de Haurã. Ali estavam eles descansando com 15 mil homens, um mero remanescente de sua enorme horda, quando Gideão os alcançou. O povo fugiu em pânico, e Gideão capturou os dois reis e os levou para sua aldeia natal, Ofra, onde os matou porque eles haviam assassinado seus irmãos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 8",
+        "original": "Judg. 8"
+      },
+      {
+        "reference": "1 Samuel 12:11",
+        "original": "1 Sam. 12:11"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isa. 10:26"
+      },
+      {
+        "reference": "Psalms 83:11",
+        "original": "Ps. 83:11"
+      },
+      {
+        "reference": "Judges 8:5-21",
+        "original": "Judges 8:5-21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
   }
 }

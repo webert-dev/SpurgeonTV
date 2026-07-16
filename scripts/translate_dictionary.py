@@ -7,6 +7,7 @@ import string
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
+import copy
 
 load_dotenv()
 
@@ -118,7 +119,6 @@ def process_dictionary():
     
     all_entries = []
     
-    # Load all EN entries to process
     print("Loading English dictionary...")
     for fpath in en_files:
         basename = os.path.basename(fpath)
@@ -126,7 +126,6 @@ def process_dictionary():
             continue
         with open(fpath, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # data is { slug: { ... } }
             for slug, item in data.items():
                 all_entries.append(item)
                 
@@ -135,10 +134,8 @@ def process_dictionary():
     for lang in ["pt", "es"]:
         out_dir = pt_dir if lang == "pt" else es_dir
         
-        # We will keep translated entries in memory to rebuild the files
         translated_map = {}
         
-        # Load existing translated entries from the output directory
         out_files = glob.glob(os.path.join(out_dir, "*.json"))
         for out_f in out_files:
             if os.path.basename(out_f) in ["_index.json", "search_index.json"]:
@@ -148,7 +145,6 @@ def process_dictionary():
                 for slug, item in data.items():
                     translated_map[slug] = item
                     
-        # Filter entries that still need translation
         to_translate = []
         for entry in all_entries:
             if entry["slug"] not in translated_map:
@@ -156,7 +152,6 @@ def process_dictionary():
                 
         print(f"[{lang.upper()}] Found {len(translated_map)} existing translations. {len(to_translate)} remaining.")
         
-        # Process in batches
         for i in range(0, len(to_translate), BATCH_SIZE):
             batch = to_translate[i:i+BATCH_SIZE]
             print(f"[{lang.upper()}] Translating batch {i // BATCH_SIZE + 1} of {len(to_translate) // BATCH_SIZE + 1}...")
@@ -166,7 +161,6 @@ def process_dictionary():
                 print(f"Fatal error translating batch at index {i}. Aborting.")
                 return
                 
-            # Update translated_map and immediately flush to disk
             for item in result:
                 slug = item.get("slug")
                 if not slug: continue
@@ -176,7 +170,6 @@ def process_dictionary():
                 item["letter"] = letter
                 translated_map[slug] = item
                 
-                # Append to letter file
                 letter_file = os.path.join(out_dir, f"{letter}.json")
                 if os.path.exists(letter_file):
                     with open(letter_file, "r", encoding="utf-8") as f:
@@ -189,7 +182,6 @@ def process_dictionary():
                 with open(letter_file, "w", encoding="utf-8") as f:
                     json.dump(file_data, f, indent=2, ensure_ascii=False)
             
-            # Save generic progress timestamp just in case
             progress[lang]["last_translated_idx"] = i + len(batch)
             save_progress(progress)
             

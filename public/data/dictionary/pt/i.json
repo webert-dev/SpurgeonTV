@@ -5366,5 +5366,796 @@
       "SMI"
     ],
     "letter": "i"
+  },
+  "musical-instruments-of-the-hebrews": {
+    "name": "Instrumentos Musicais dos Hebreus",
+    "slug": "musical-instruments-of-the-hebrews",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Tem havido grande obscuridade quanto aos instrumentos de música em uso entre os hebreus, mas as descobertas nos monumentos do Egito e da Assíria lançaram muita luz sobre a forma e a natureza destes instrumentos. I. INSTRUMENTOS DE CORDA.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 53:1",
+        "original": "Psalms 53:1"
+      },
+      {
+        "reference": "Psalms 88:1",
+        "original": "Psal 88:1"
+      },
+      {
+        "reference": "Psalms 8:1",
+        "original": "Psalms 8:1"
+      },
+      {
+        "reference": "Psalms 81:1",
+        "original": "Psalms 81:1"
+      },
+      {
+        "reference": "Psalms 84:1",
+        "original": "Psalms 84:1"
+      },
+      {
+        "reference": "2 Samuel 6:5",
+        "original": "2 Samuel 6:5"
+      },
+      {
+        "reference": "1 Samuel 18:6",
+        "original": "1 Samuel 18:6"
+      },
+      {
+        "reference": "Psalms 150:3",
+        "original": "Psalms 150:3"
+      },
+      {
+        "reference": "Psalms 150:45",
+        "original": "Psalms 150:45"
+      },
+      {
+        "reference": "Genesis 4:21",
+        "original": "Genesis 4:21"
+      },
+      {
+        "reference": "Daniel 3:6",
+        "original": "Daniel 3:6"
+      },
+      {
+        "reference": "Daniel 3:5",
+        "original": "Daniel 3:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "picture": {
+    "name": "Imagem/Figura",
+    "slug": "picture",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Em duas das três passagens em que \"figura\" (ou imagem) é usada na Versão Autorizada, denota representações idólatras, imagens independentes ou, mais comumente, pedras \"pintadas\", isto é, esculpidas em baixo-relevo ou gravadas e coloridas (Ezequiel 23:14). Layard, Nin. and Rob. ii. 306, 308. Imagens móveis, no sentido moderno, eram sem dúvida desconhecidas pelos judeus. As \"figuras de prata\" de (Provérbios 25:11) eram provavelmente superfícies ou cornijas com entalhes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 23:14",
+        "original": "Ezekiel 23:14"
+      },
+      {
+        "reference": "Proverbs 25:11",
+        "original": "Proverbs 25:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "ranges": {
+    "name": "Intervalos",
+    "slug": "ranges",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Levítico 11:35. Provavelmente um forno de cozinha para duas ou mais panelas, já que a palavra hebraica aqui está no dual; ou talvez uma lareira adaptada para abrigar um par de fornos. (2.) 2 Reis 11:8. Aqui é usada uma palavra hebraica diferente da anterior, que significa “filas de soldados”. Os levitas eram designados para proteger a pessoa do rei dentro do templo (2 Crônicas 23:7), enquanto os soldados constituíam sua guarda no pátio e durante o trajeto do templo ao palácio. Aqui, os soldados recebem a ordem de matar qualquer um que rompa as “fileiras” (conforme traduzido na R.V.) para se aproximar do rei. Em 2 Reis 11:15, a expressão “Levem-na para fora, para além das fileiras” aparece na Versão Revisada como “Levem-na para fora, entre as fileiras”; ou seja, Jeoada ordena que Atalia seja mantida cercada por seus próprios guardas e, ao mesmo tempo, conduzida para fora dos limites do templo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:35",
+        "original": "Lev. 11:35"
+      },
+      {
+        "reference": "2 Kings 11:8",
+        "original": "2 Kings 11:8"
+      },
+      {
+        "reference": "2 Chronicles 23:7",
+        "original": "2 Chr. 23:7"
+      },
+      {
+        "reference": "2 Kings 11:15",
+        "original": "2 Kings 11:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "rhoda": {
+    "name": "Irmã",
+    "slug": "rhoda",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma rosa, a donzela que morava na casa de Maria, mãe de João Marcos. Ela foi ver o que acontecia quando Pedro bateu na porta do portão (Atos 12:12-15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Rose), o nome de uma criada que anunciou a chegada de Pedro à porta da casa de Maria após sua libertação milagrosa da prisão. (Atos 12:13) (44 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 12:12-15",
+        "original": "Acts 12:12-15"
+      },
+      {
+        "reference": "Acts 12:13",
+        "original": "Acts 12:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "roman-empire": {
+    "name": "Império Romano",
+    "slug": "roman-empire",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "1Macc 1:10",
+        "original": "1 Macc. 1:10"
+      },
+      {
+        "reference": "Acts 13:7",
+        "original": "Acts 13:7"
+      },
+      {
+        "reference": "Acts 18:12",
+        "original": "Acts 18:12"
+      },
+      {
+        "reference": "Acts 19:38",
+        "original": "Acts 19:38"
+      },
+      {
+        "reference": "Galatians 4:4",
+        "original": "Galatians 4:4"
+      },
+      {
+        "reference": "Acts 17:24",
+        "original": "Acts 17:24"
+      },
+      {
+        "reference": "Acts 17:26",
+        "original": "Acts 17:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "sala": {
+    "name": "Ir trabalhar",
+    "slug": "sala",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um descendente de Arfaxad (Lucas 3:35, 36); também chamado de Selá (1 Crônicas 1:18, 24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:35",
+        "original": "Luke 3:35"
+      },
+      {
+        "reference": "Luke 3:36",
+        "original": "Luke 3:36"
+      },
+      {
+        "reference": "1 Chronicles 1:18",
+        "original": "1 Chr. 1:18"
+      },
+      {
+        "reference": "1 Chronicles 1:24",
+        "original": "1 Chr. 1:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "shamhuth": {
+    "name": "Imagine",
+    "slug": "shamhuth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(desolação), o quinto capitão do quinto mês na organização do exército feita por Davi. (1 Crônicas 27:8) (1020 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:8",
+        "original": "1 Chronicles 27:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "shuni": {
+    "name": "Isso",
+    "slug": "shuni",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(afortunado), filho de Gade e fundador da família dos sunitas. (Gênesis 46:16; Números 26:15) (1706 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:16",
+        "original": "Genesis 46:16"
+      },
+      {
+        "reference": "Numbers 26:15",
+        "original": "Numbers 26:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "sin": {
+    "name": "Isso",
+    "slug": "sin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Será que “qualquer falta de conformidade com a lei de Deus ou transgressão dessa lei” (1 João 3:4; Rm 4:15), no estado interior e nos hábitos da alma, bem como na conduta externa da vida, seja por omissão ou por ação (Rm 6:12-17; 7:5-24). Não se trata de “uma mera violação da lei de nossa constituição, nem do sistema de coisas, mas de uma ofensa contra um legislador pessoal e governante moral que faz valer sua lei por meio de penalidades. A alma que peca está sempre consciente de que seu pecado é (1) intrinsecamente vil e contaminador, e (2) que merece justamente punição e atrai a ira justa de Deus. Portanto, o pecado carrega consigo duas características inalienáveis: (1) merecimento de castigo, culpa (reatus); e (2) contaminação (macula)”, Hodge’s Outlines. O caráter moral das ações de um homem é determinado pelo estado moral de seu coração. A disposição para o pecado, ou o hábito da alma que leva ao ato pecaminoso, é em si mesma também pecado (Rm 6,12-17; Gl 5,17; Tg 1,14-15). A origem do pecado é um mistério e deve permanecer para sempre assim para nós. É evidente que, por alguma razão, Deus permitiu que o pecado entrasse neste mundo, e isso é tudo o que sabemos. O fato de Ele ter permitido isso, no entanto, de forma alguma faz de Deus o autor do pecado. O pecado de Adão (Gênesis 3:1-6) consistiu em ceder aos assaltos da tentação e comer o fruto proibido. Isso envolveu: (1) o pecado da incredulidade, que praticamente fez de Deus um mentiroso; e (2) a culpa da desobediência a uma ordem expressa. Por meio desse pecado, ele se tornou um apóstata de Deus, um rebelde em armas contra seu Criador. Ele perdeu o favor de Deus e a comunhão com Ele; toda a sua natureza tornou-se depravada, e ele incorreu na pena prevista na aliança das obras. Pecado original. “Sendo nossos primeiros pais a raiz de toda a humanidade, a culpa de seu pecado foi imputada, e a mesma morte no pecado e a natureza corrompida foram transmitidas a toda a sua posteridade, descendendo deles por geração natural.” Adão foi constituído por Deus como cabeça federal e representante de toda a sua posteridade, assim como era também sua cabeça natural; portanto, quando ele caiu, eles caíram com ele (Rm 5,12-21; 1 Cor 15,22-45). Sua provação foi a provação deles, e sua queda, a queda deles. Por causa do primeiro pecado de Adão, toda a sua descendência veio ao mundo em um estado de pecado e condenação, ou seja, (1) um estado de corrupção moral e (2) de culpa, por ter-lhes sido judicialmente imputada a culpa do primeiro pecado de Adão. O termo “pecado original” é frequentemente e corretamente usado para denotar apenas a corrupção moral de toda a sua natureza, herdada por todos os homens de Adão. Essa corrupção moral herdada consiste em: (1) a perda da justiça original; e (2) a presença de uma propensão constante ao mal, que é a raiz e a origem de todo pecado efetivo. É chamada de “pecado” (Rm 6,12, 14, 17; 7:5-17), a “carne” (Gálatas 5:17, 24), a “concupiscência” (Tiago 1:14, 15), o “corpo do pecado” (Rm 6,6), “ignorância”, “cegueira do coração”, “afastamento da vida de Deus” (Ef 4,18, 19). Ela influencia e corrompe o homem por inteiro, e sua tendência é sempre descendente, rumo a uma corrupção cada vez mais profunda, não restando nenhum elemento recuperável na alma. Trata-se de uma depravação total, e é também universalmente herdada por todos os descendentes naturais de Adão (Rm 3:10-23; 5:12-21; 8:7). Os pelagianos negam o pecado original e consideram o homem, por natureza, moral e espiritualmente íntegro; os semipelagianos o consideram moralmente doente; os agostinianos, ou, como também são chamados, calvinistas, consideram o homem conforme descrito acima, espiritualmente morto (Ef 2,1; 1 Jo 3,14). A doutrina do pecado original é comprovada, (1.) Pelo fato da pecaminosidade universal dos homens. “Não há homem que não peque” (1 Reis 8:46; Isaías 53:6; Salmos 130:3; Romanos 3:19, 22, 23; Gálatas 3:22). (2.) Pela depravação total do homem. Declara-se que todos os homens estão desprovidos de qualquer princípio de vida espiritual; a apostasia do homem em relação a Deus é total e completa (Jó 15:14-16; Gênesis 6:5, 6). (3.) Pela sua manifestação precoce (Salmos 58:3; Provérbios 22:15). (4.) Isso também é comprovado pela necessidade, absoluta e universal, da regeneração (João 3:3; 2 Coríntios 5:17). (5.) Pela universalidade da morte (Romanos 5:12-20). São mencionados vários tipos de pecado: (1.) “Pecados presunçosos”, ou, conforme traduzido literalmente, “pecados com a mão erguida”, ou seja, atos desafiadores de pecado, em contraste com “erros” ou “inadvertências” (Salmos 19:13). (2.) “Secretos”, ou seja, pecados ocultos (19:12); pecados que escapam à percepção da alma. (3.) “Pecado contra o Espírito Santo” (ver), ou um “pecado que leva à morte” (Mateus 12:31, 32; 1 João 5:16), o que equivale a uma rejeição deliberada da graça. Sin, uma cidade no Egito, chamada pelos gregos de Pelúsio, que significa, assim como o nome hebraico, “argilosa” ou “lamacenta”, assim chamada devido à abundância de argila encontrada ali. É chamada por Ezequiel (Ez. 30:15) de “a fortaleza do Egito”, denotando assim sua importância como cidade fortificada. Tem sido identificada com a moderna Tineh, “um lugar lamacento”, onde se encontram suas ruínas. De sua outrora famosa magnificência, restam apenas quatro colunas de granito vermelho e alguns poucos fragmentos de outras."
+      },
+      {
+        "source": "SMI",
+        "text": "uma cidade do Egito, mencionada apenas por Ezequiel. (Ezequiel 30:15,16) O nome é hebraico, ou pelo menos semítico, talvez significando “argila”. É identificada na Vulgata com Pelúsio, “a cidade argilosa ou lamacenta”. Sua antiguidade talvez possa ser inferida a partir da menção ao “deserto de Sin” nas jornadas dos israelitas. (Êxodo 16:1; Números 33:11) Ezequiel se refere a Sin como “Sin, as fortalezas do Egito”. (Ezequiel 30:15) Esse lugar permaneceu sob domínio egípcio desde aquela época até o período romano. Heródoto relata que Senaqueribe avançou contra Pelúsio e que, nas proximidades de Pelúsio, Cambises derrotou Psamênito. Da mesma forma, a batalha decisiva na qual Oco derrotou o último rei nativo, Nectanebo, foi travada perto dessa cidade."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 John 3:4",
+        "original": "1 John 3:4"
+      },
+      {
+        "reference": "Romans 4:15",
+        "original": "Rom. 4:15"
+      },
+      {
+        "reference": "Romans 6:12-17",
+        "original": "Rom. 6:12-17"
+      },
+      {
+        "reference": "Romans 7:5-24",
+        "original": "Rom 7:5-24"
+      },
+      {
+        "reference": "Galatians 5:17",
+        "original": "Gal. 5:17"
+      },
+      {
+        "reference": "James 1:14",
+        "original": "James 1:14"
+      },
+      {
+        "reference": "James 1:15",
+        "original": "James 1:15"
+      },
+      {
+        "reference": "Genesis 3:1-6",
+        "original": "Gen. 3:1-6"
+      },
+      {
+        "reference": "Romans 5:12-21",
+        "original": "Rom. 5:12-21"
+      },
+      {
+        "reference": "1 Corinthians 15:22-45",
+        "original": "1 Cor. 15:22-45"
+      },
+      {
+        "reference": "Romans 6:12",
+        "original": "Rom. 6:12"
+      },
+      {
+        "reference": "Romans 6:14",
+        "original": "Rom. 6:14"
+      },
+      {
+        "reference": "Romans 6:17",
+        "original": "Rom. 6:17"
+      },
+      {
+        "reference": "Galatians 5:24",
+        "original": "Gal. 5:24"
+      },
+      {
+        "reference": "Romans 6:6",
+        "original": "Rom. 6:6"
+      },
+      {
+        "reference": "Ephesians 4:18",
+        "original": "Eph. 4:18"
+      },
+      {
+        "reference": "Ephesians 4:19",
+        "original": "Eph. 4:19"
+      },
+      {
+        "reference": "Romans 3:10-23",
+        "original": "Rom. 3:10-23"
+      },
+      {
+        "reference": "Romans 8:7",
+        "original": "Rom 8:7"
+      },
+      {
+        "reference": "Ephesians 2:1",
+        "original": "Eph. 2:1"
+      },
+      {
+        "reference": "1 John 3:14",
+        "original": "1 John 3:14"
+      },
+      {
+        "reference": "1 Kings 8:46",
+        "original": "1 Kings 8:46"
+      },
+      {
+        "reference": "Isaiah 53:6",
+        "original": "Isa. 53:6"
+      },
+      {
+        "reference": "Psalms 130:3",
+        "original": "Ps. 130:3"
+      },
+      {
+        "reference": "Romans 3:19",
+        "original": "Rom. 3:19"
+      },
+      {
+        "reference": "Romans 3:22",
+        "original": "Rom. 3:22"
+      },
+      {
+        "reference": "Romans 3:23",
+        "original": "Rom. 3:23"
+      },
+      {
+        "reference": "Galatians 3:22",
+        "original": "Gal. 3:22"
+      },
+      {
+        "reference": "Job 15:14-16",
+        "original": "Job 15:14-16"
+      },
+      {
+        "reference": "Genesis 6:5",
+        "original": "Gen. 6:5"
+      },
+      {
+        "reference": "Genesis 6:6",
+        "original": "Gen. 6:6"
+      },
+      {
+        "reference": "Psalms 58:3",
+        "original": "Ps. 58:3"
+      },
+      {
+        "reference": "Proverbs 22:15",
+        "original": "Prov. 22:15"
+      },
+      {
+        "reference": "John 3:3",
+        "original": "John 3:3"
+      },
+      {
+        "reference": "2 Corinthians 5:17",
+        "original": "2 Cor. 5:17"
+      },
+      {
+        "reference": "Romans 5:12-20",
+        "original": "Rom. 5:12-20"
+      },
+      {
+        "reference": "Psalms 19:13",
+        "original": "Ps. 19:13"
+      },
+      {
+        "reference": "Matthew 12:31",
+        "original": "Matt. 12:31"
+      },
+      {
+        "reference": "Matthew 12:32",
+        "original": "Matt 12:32"
+      },
+      {
+        "reference": "1 John 5:16",
+        "original": "1 John 5:16"
+      },
+      {
+        "reference": "Ezekiel 30:15",
+        "original": "Ezek. 30:15"
+      },
+      {
+        "reference": "Ezekiel 30:16",
+        "original": "Ezekiel 30:16"
+      },
+      {
+        "reference": "Exodus 16:1",
+        "original": "Exodus 16:1"
+      },
+      {
+        "reference": "Numbers 33:11",
+        "original": "Numbers 33:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "sisera": {
+    "name": "Irmã",
+    "slug": "sisera",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Egito. Ses-Ra, “servo de Rá”). (1.) O capitão do exército de Jabim (Juízes 4:2), que foi derrotado e aniquilado pelo exército de Baraque na planície de Esdraelon. Depois que tudo estava perdido, ele fugiu para o acampamento de Heber, o quenita, na planície de Zaanaim. Jael, esposa de Heber, recebeu-o em sua tenda com aparente hospitalidade e “deu-lhe manteiga” (ou seja, lebben, ou leite coalhado) “em um prato de luxo”. Depois de beber a bebida refrescante, ele se deitou e logo mergulhou no sono dos exaustos. Enquanto ele dormia, Jael aproximou-se furtivamente dele e, pegando na mão uma das estacas da tenda, com um martelo a cravou com tanta força em suas têmporas que ela penetrou no chão onde ele estava deitado, e “aos pés dela ele se curvou, caiu; onde se curvou, ali caiu morto”. A parte do cântico de Débora (Juízes 5:24-27) que se refere à morte de Sísera (que é uma “mera manifestação patriótica”, e “não é prova de que olhos mais puros não teriam percebido o pecado grave que se misturava ao serviço de Jael a Israel”) é traduzida da seguinte forma pelo professor Roberts (Revisão do Antigo Testamento): “Exaltada acima das mulheres seja Jael, a esposa de Heber, o quenita, exaltada acima das mulheres na tenda. Ele pediu água, ela lhe deu leite; ela lhe trouxe creme em um prato suntuoso. Ela estendeu a mão para o prego, a mão direita para o martelo do artesão, e feriu Sísera; esmagou-lhe a cabeça, perfurou e traspassou suas têmporas. Aos pés dela ele se encolheu, caiu e ficou imóvel; aos pés dela ele se encolheu, caiu; e onde se encolheu, ali caiu morto.” (2.) O antepassado de alguns dos netinitas que retornaram com Zorobabel (Esdras 2:53; Neemias 7:55)."
+      },
+      {
+        "source": "SMI",
+        "text": "(formação de batalha)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 4:2",
+        "original": "Judg. 4:2"
+      },
+      {
+        "reference": "Judges 5:24-27",
+        "original": "Judg. 5:24-27"
+      },
+      {
+        "reference": "Ezra 2:53",
+        "original": "Ezra 2:53"
+      },
+      {
+        "reference": "Nehemiah 7:55",
+        "original": "Neh. 7:55"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "swelling": {
+    "name": "Inchaço",
+    "slug": "swelling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Do Jordão (Jer. 12:5), literalmente o “orgulho” do Jordão (como na R.V.), ou seja, os matagais exuberantes de tamargueiras, álamos, juncos etc., que serviam de refúgio para leões e outros animais de rapina. A referência não é ao transbordamento das margens do rio. (Comp. 49:19; 50:44; Zac. 11:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 12:5",
+        "original": "Jer. 12:5"
+      },
+      {
+        "reference": "Zechariah 11:3",
+        "original": "Zech. 11:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "taxes": {
+    "name": "Impostos",
+    "slug": "taxes",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A primeira menção a isso aparece no mandamento (Êxodo 30:11-16), segundo o qual todo judeu com vinte anos ou mais deveria pagar um imposto anual de “meio siclo como oferta ao Senhor”. Essa disposição foi fielmente observada por muitas gerações (2 Crônicas 24:6; Mt 17,24). Posteriormente, quando o povo passou a ter reis para governá-lo, começou, como Samuel havia advertido (1 Sm 8,10-18), a pagar impostos para fins civis (1 Rs 4,7; 9,15; 12,4). Esses impostos, em valores cada vez maiores, passaram a ser pagos posteriormente aos príncipes estrangeiros que governavam sobre eles. No Novo Testamento, o pagamento de impostos, cobrados por governantes legítimos, é imposto como um dever (Rm 13,1-7; 1 Pe 2,13, 14). É feita menção ao imposto (telos) sobre mercadorias e viajantes (Mateus 17:25); do imposto anual (phoros) sobre a propriedade (Lucas 20:22; 23:2); do imposto de capitação (kensos, “tributo”, Mateus 17:25; 22:17; Marcos 12:14); e o imposto do templo (“dinheiro do tributo” = duas dracmas = meio siclo, Mateus 17:24-27; comp. Êxodo 30:13). (Ver TRIBUTO.)"
+      },
+      {
+        "source": "SMI",
+        "text": "I. Sob o governo dos juízes, de acordo com o sistema teocrático previsto pela lei, os únicos pagamentos que incumbiam ao povo como obrigação permanente eram os dízimos, as primícias, o dinheiro da redenção dos primogênitos e outras ofertas relacionadas a ocasiões especiais. O pagamento, por cada israelita, de meio siclo como “dinheiro de expiação”, para o serviço do tabernáculo, por ocasião do recenseamento do povo, (Êxodo 30:13) não parece ter tido o caráter de um imposto recorrente, mas sim de um complemento às ofertas voluntárias de (Êxodo 25:1-7), cobradas com o único propósito de construir a tenda sagrada. Em épocas posteriores, de fato, após o retorno da Babilônia, havia um pagamento anual para a manutenção da estrutura e dos serviços do templo; mas o fato de que isso tenha começado com um siclo (Neemias 10:32) mostra que, até então, tal pagamento não era reconhecido como necessário. Um pouco mais tarde, o terço passou a ser metade e, sob o nome de didrácmata (Mateus 17:24), era pago por todo judeu, independentemente da parte do mundo em que vivesse. II. O reino, com governo centralizado e maior esplendor, implicava, naturalmente, em despesas maiores e, portanto, em uma tributação mais pesada. Os principais encargos parecem ter sido: (1) Um dízimo dos produtos tanto da terra quanto do gado. (1 Samuel 8:15,17) (2) Serviço militar obrigatório por um mês a cada ano. (1 Samuel 8:12; 1 Reis 9:22; 1 Crônicas 27:1) (3) Presentes ao rei. (1 Samuel 10:27; 16:20; 17:18) (4) Impostos de importação. (1 Reis 10:15) (5) O monopólio de certos ramos do comércio. (1 Reis 9:28; 22:48; 10:28,29) (6) A apropriação, para uso do rei, da primeira colheita de feno. (Amós 7:1) Às vezes, também, na história de ambos os reinos, havia encargos especiais. Menahem teve de pagar um tributo de cinquenta siclos por pessoa ao rei assírio (2 Reis 16:20) e, sob o reinado de seu sucessor, Oséias, isso assumiu a forma de um tributo anual. (2 Reis 17:4) III. Sob o Império Persa, os impostos pagos pelos judeus eram, em linhas gerais, do mesmo tipo que os de outros povos subjugados. O sistema financeiro que rendeu a Dario Histaspes o apelido de “rei comerciante” envolvia o pagamento, por parte de cada sátrapa, de uma quantia fixa a título de tributo devido por sua província. Na Judéia, assim como em outras províncias, os habitantes tinham que fornecer em espécie os meios para a manutenção da casa do governador, além de um pagamento em dinheiro de quarenta siclos por dia. (Neemias 5:14,15) Em Esdras 4:13,20; 7:24, temos uma enumeração formal dos três grandes ramos da receita. A influência de Esdras garantiu a toda a ordem eclesiástica, desde os sacerdotes até os netinim, uma isenção de todos os três (Esdras 7:24), mas o fardo pesava fortemente sobre a grande maioria do povo. IV. Sob os reis egípcios e sírios, os impostos pagos pelos judeus tornaram-se ainda mais pesados. O sistema financeiro de “arrendamento” foi adotado em sua pior forma. Os impostos eram leiloados. O valor contratual para os da Fenícia, Judéia e Samaria havia sido estimado em cerca de 8.000 talentos. Um aventureiro sem escrúpulos oferecia o dobro desse valor e, em seguida, dirigia-se à província, onde, por meio de violência e crueldade — semelhantes às dos cobradores turcos ou hindus —, extraía para si uma grande margem de lucro. V. A pressão da tributação romana, se não fosse absolutamente mais pesada, era provavelmente mais opressiva, por ser mais completa e sistemática, um sinal mais evidente de servidão. A tomada de Jerusalém por Pompeu foi seguida imediatamente pela imposição de um tributo e, em pouco tempo, a quantia assim retirada dos recursos do país chegou a 10.000 talentos. Quando a Judéia se tornou formalmente uma província romana, todo o sistema financeiro do império se estabeleceu como uma consequência natural. Os impostos eram sistematicamente arrendados, e os publicanos surgiram como uma nova maldição para o país. As portoria eram cobradas nos portos, cais e portões das cidades. (Mateus 17:24; Romanos 13:7) Além disso, havia o imposto de capitação pago por todo judeu e considerado, por essa razão, como o símbolo especial da servidão. Juntamente com isso, como parte do mesmo sistema, havia também, muito provavelmente, algum tipo de imposto sobre a propriedade. Além desses impostos gerais, os habitantes de Jerusalém estavam sujeitos a um imposto especial sobre a habitação por volta desse período."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:11-16",
+        "original": "Ex. 30:11-16"
+      },
+      {
+        "reference": "2 Chronicles 24:6",
+        "original": "2 Chr. 24:6"
+      },
+      {
+        "reference": "Matthew 17:24",
+        "original": "Matt. 17:24"
+      },
+      {
+        "reference": "1 Samuel 8:10-18",
+        "original": "1 Sam. 8:10-18"
+      },
+      {
+        "reference": "1 Kings 4:7",
+        "original": "1 Kings 4:7"
+      },
+      {
+        "reference": "1 Kings 9:15",
+        "original": "1 Kings 9:15"
+      },
+      {
+        "reference": "1 Kings 12:4",
+        "original": "1 Kings 12:4"
+      },
+      {
+        "reference": "Romans 13:1-7",
+        "original": "Rom. 13:1-7"
+      },
+      {
+        "reference": "1 Peter 2:13",
+        "original": "1 Pet. 2:13"
+      },
+      {
+        "reference": "1 Peter 2:14",
+        "original": "1 Pet. 2:14"
+      },
+      {
+        "reference": "Matthew 17:25",
+        "original": "Matt. 17:25"
+      },
+      {
+        "reference": "Luke 20:22",
+        "original": "Luke 20:22"
+      },
+      {
+        "reference": "Luke 23:2",
+        "original": "Luke 23:2"
+      },
+      {
+        "reference": "Matthew 22:17",
+        "original": "Matt 22:17"
+      },
+      {
+        "reference": "Mark 12:14",
+        "original": "Mark 12:14"
+      },
+      {
+        "reference": "Matthew 17:24-27",
+        "original": "Matt. 17:24-27"
+      },
+      {
+        "reference": "Exodus 30:13",
+        "original": "Ex. 30:13"
+      },
+      {
+        "reference": "Exodus 25:1-7",
+        "original": "Exodus 25:1-7"
+      },
+      {
+        "reference": "Nehemiah 10:32",
+        "original": "Nehemiah 10:32"
+      },
+      {
+        "reference": "1 Samuel 8:15",
+        "original": "1 Samuel 8:15"
+      },
+      {
+        "reference": "1 Samuel 8:17",
+        "original": "1 Samuel 8:17"
+      },
+      {
+        "reference": "1 Samuel 8:12",
+        "original": "1 Samuel 8:12"
+      },
+      {
+        "reference": "1 Kings 9:22",
+        "original": "1 Kings 9:22"
+      },
+      {
+        "reference": "1 Chronicles 27:1",
+        "original": "1 Chronicles 27:1"
+      },
+      {
+        "reference": "1 Samuel 10:27",
+        "original": "1 Samuel 10:27"
+      },
+      {
+        "reference": "1 Samuel 16:20",
+        "original": "1 Samuel 16:20"
+      },
+      {
+        "reference": "1 Samuel 17:18",
+        "original": "1 Samuel 17:18"
+      },
+      {
+        "reference": "1 Kings 10:15",
+        "original": "1 Kings 10:15"
+      },
+      {
+        "reference": "1 Kings 9:28",
+        "original": "1 Kings 9:28"
+      },
+      {
+        "reference": "1 Kings 22:48",
+        "original": "1 Kings 22:48"
+      },
+      {
+        "reference": "1 Kings 10:28",
+        "original": "1 Kings 10:28"
+      },
+      {
+        "reference": "1 Kings 10:29",
+        "original": "1 Kings 10:29"
+      },
+      {
+        "reference": "Amos 7:1",
+        "original": "Amos 7:1"
+      },
+      {
+        "reference": "2 Kings 16:20",
+        "original": "2 Kings 16:20"
+      },
+      {
+        "reference": "2 Kings 17:4",
+        "original": "2 Kings 17:4"
+      },
+      {
+        "reference": "Nehemiah 5:14",
+        "original": "Nehemiah 5:14"
+      },
+      {
+        "reference": "Nehemiah 5:15",
+        "original": "Nehemiah 5:15"
+      },
+      {
+        "reference": "Ezra 4:13",
+        "original": "Ezra 4:13"
+      },
+      {
+        "reference": "Ezra 4:20",
+        "original": "Ezra 4:20"
+      },
+      {
+        "reference": "Ezra 7:24",
+        "original": "Ezra 7:24"
+      },
+      {
+        "reference": "Romans 13:7",
+        "original": "Romans 13:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "twin-brothers": {
+    "name": "Irmãos gêmeos",
+    "slug": "twin-brothers",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Este termo é usado na Versão Revisada de (Atos 28:11) para Castor e Pólux E Pólux; consulte as respectivas entradas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 28:11",
+        "original": "Acts 28:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "uncleanness": {
+    "name": "Impureza",
+    "slug": "uncleanness",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A ideia característica associada à impureza cerimonial entre os hebreus era que ela privava a pessoa, temporariamente, de privilégios sociais e deixava sua condição de membro do povo de Deus, por enquanto, em suspenso. Há uma realidade intensa no fato de a lei divina se apoderar do homem por meio das fraquezas comuns da carne e imprimir seu selo, por assim dizer, na argila mais humilde da qual ele é moldado. A sacralidade atribuída ao corpo humano é paralela àquela que revestia a própria arca da aliança. É como se Jeová, por meio disso, quisesse ensinar aos homens que “até os fios de cabelo de sua cabeça estavam todos contados” diante dele e que “em seu livro estavam escritos todos os seus membros”. Assim era inculcada, por assim dizer, uma santidade corporal. Os israelitas não deviam ser apenas “separados dos outros povos”, mas deviam ser “santos para Deus” (Levítico 20:24, 26), “um reino de sacerdotes e uma nação santa”. A importância para o bem-estar físico das prescrições que exigiam abluções frequentes, sob quaisquer pretextos especiais, só pode ser fracamente apreciada em nosso clima mais frio e úmido. A impureza, no que se refere aos homens, pode ser classificada em três graus:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 20:24",
+        "original": "Leviticus 20:24"
+      },
+      {
+        "reference": "Leviticus 20:26",
+        "original": "Leviticus 20:26"
+      },
+      {
+        "reference": "Numbers 19:11-18",
+        "original": "Numbers 19:11-18"
+      },
+      {
+        "reference": "Leviticus 12:2-5",
+        "original": "Leviticus 12:2-5"
+      },
+      {
+        "reference": "Genesis 3:16",
+        "original": "Genesis 3:16"
+      },
+      {
+        "reference": "1 Timothy 2:14",
+        "original": "1 Timothy 2:14"
+      },
+      {
+        "reference": "Leviticus 22:2-8",
+        "original": "Leviticus 22:2-8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
+  },
+  "zemarite": {
+    "name": "Ignore",
+    "slug": "zemarite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome de uma das tribos fenícias (Gênesis 10:18) que habitava a cidade de Sumra, na base ocidental da cordilheira do Líbano. Nas tabuinhas de Amarna (1400 a.C.), Zemar, ou Zumur, era uma das cidades fenícias mais importantes, mas posteriormente quase desapareceu da história."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:18",
+        "original": "Gen. 10:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
   }
 }

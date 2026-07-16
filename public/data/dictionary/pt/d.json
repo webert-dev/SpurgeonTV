@@ -6039,5 +6039,975 @@
       "EAS"
     ],
     "letter": "d"
+  },
+  "money": {
+    "name": "Dinheiro",
+    "slug": "money",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sobre dinheiro não cunhado, o primeiro registro que temos está na história de Abraão (Gên. 13:2; 20:16; 24:35). Em seguida, esta palavra é usada em conexão com a compra da caverna de Macpela (23:16), e novamente em conexão com a compra de um campo por Jacó em Salém (Gên. 33:18, 19) por “cem peças de dinheiro” = cem kesitahs hebraicas (q.v.), isto é, provavelmente peças de dinheiro, como se supõe, ostentando a figura de um cordeiro. A história de José oferece evidências do uso constante de dinheiro, prata de um peso fixo. Isso também aparece em toda a história subsequente do povo judeu, em todas as suas transações internas e externas. Havia em uso comum no comércio peças de prata de peso definido, siclos, meio-siclos e um quarto de siclo. Mas essas não eram propriamente moedas, que são peças de metal emitidas oficialmente e com um carimbo. Do uso de dinheiro cunhado, não temos registro inicial entre os hebreus. O primeiro mencionado é de cunhagem persa, o dárico (Esdras 2:69; Nee. 7:70) e o ‘adarkon (Esdras 8:27). O dárico (q.v.) era uma peça de ouro em circulação na Palestina na época de Ciro. Enquanto os judeus, após o Exílio, viveram sob domínio persa, usaram moedas persas. Estas deram lugar a moedas gregas quando a Palestina passou ao domínio dos gregos (331 a.C.), as moedas consistindo em peças de ouro, prata e cobre. As peças de ouro usuais eram estateres (q.v.), e as moedas de prata, tetradracmas e dracmas. No ano 140 a.C., Antíoco VII deu permissão a Simão, o Macabeu, para cunhar dinheiro judaico. Siclos (q.v.) foram então cunhados ostentando a figura do ramo de amendoeira e o pote de maná."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 13:2",
+        "original": "Gen. 13:2"
+      },
+      {
+        "reference": "Genesis 20:16",
+        "original": "Gen 20:16"
+      },
+      {
+        "reference": "Genesis 24:35",
+        "original": "Gen 24:35"
+      },
+      {
+        "reference": "Genesis 33:18",
+        "original": "Gen. 33:18"
+      },
+      {
+        "reference": "Genesis 33:19",
+        "original": "Gen. 33:19"
+      },
+      {
+        "reference": "Ezra 2:69",
+        "original": "Ezra 2:69"
+      },
+      {
+        "reference": "Nehemiah 7:70",
+        "original": "Neh. 7:70"
+      },
+      {
+        "reference": "Ezra 8:27",
+        "original": "Ezra 8:27"
+      },
+      {
+        "reference": "Genesis 17:13",
+        "original": "Genesis 17:13"
+      },
+      {
+        "reference": "Genesis 37:28",
+        "original": "Genesis 37:28"
+      },
+      {
+        "reference": "Nehemiah 7:71",
+        "original": "Nehemiah 7:71"
+      },
+      {
+        "reference": "Nehemiah 7:72",
+        "original": "Nehemiah 7:72"
+      },
+      {
+        "reference": "1 Chronicles 29:7",
+        "original": "1 Chronicles 29:7"
+      },
+      {
+        "reference": "Matthew 17:24-27",
+        "original": "Matthew 17:24-27"
+      },
+      {
+        "reference": "Matthew 22:15-21",
+        "original": "Matthew 22:15-21"
+      },
+      {
+        "reference": "Luke 20:19-25",
+        "original": "Luke 20:19-25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "penny": {
+    "name": "Denário",
+    "slug": "penny",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(gr. denarion), uma moeda de prata no valor de cerca de 7 1/2 d. ou 8 d. da nossa moeda atual. É assim traduzida no Novo Testamento, e é mencionada mais frequentemente do que qualquer outra moeda (Mt 18:28; 20:2, 9, 13; Mc 6:37; 14:5, etc.). Era o pagamento diário de um soldado romano no tempo de Cristo. No reinado de Eduardo III, um centavo inglês era o salário diário de um trabalhador. Esta foi a \"moeda do tributo\" a respeito da qual nosso Senhor disse: \"De quem é esta imagem e inscrição?\" Quando responderam: \"De César\", ele respondeu: \"Dai, pois, a César o que é de César; e a Deus o que é de Deus\" (Mt 22:19; Mc 12:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 18:28",
+        "original": "Matt. 18:28"
+      },
+      {
+        "reference": "Matthew 20:2",
+        "original": "Matt 20:2"
+      },
+      {
+        "reference": "Matthew 20:9",
+        "original": "Matt 20:9"
+      },
+      {
+        "reference": "Matthew 20:13",
+        "original": "Matt 20:13"
+      },
+      {
+        "reference": "Mark 6:37",
+        "original": "Mark 6:37"
+      },
+      {
+        "reference": "Mark 14:5",
+        "original": "Mark 14:5"
+      },
+      {
+        "reference": "Matthew 22:19",
+        "original": "Matt. 22:19"
+      },
+      {
+        "reference": "Mark 12:15",
+        "original": "Mark 12:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "penny-pennyworth": {
+    "name": "Denário, Valor de um denário",
+    "slug": "penny-pennyworth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "No Novo Testamento, \"denário\", seja sozinho ou no composto \"valor de um denário\", ocorre como a tradução do denário romano. (Mateus 20:2; 22:10; Marcos 6:37; 12:15; Lucas 20:24; João 6:7; Apocalipse 6:6) O denário era a principal moeda de prata romana, e valia cerca de 15 a 17 centavos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 20:2",
+        "original": "Matthew 20:2"
+      },
+      {
+        "reference": "Matthew 22:10",
+        "original": "Matthew 22:10"
+      },
+      {
+        "reference": "Mark 6:37",
+        "original": "Mark 6:37"
+      },
+      {
+        "reference": "Mark 12:15",
+        "original": "Mark 12:15"
+      },
+      {
+        "reference": "Luke 20:24",
+        "original": "Luke 20:24"
+      },
+      {
+        "reference": "John 6:7",
+        "original": "John 6:7"
+      },
+      {
+        "reference": "Revelation 6:6",
+        "original": "Revelation 6:6"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "pilled": {
+    "name": "Descascado (Pilled)",
+    "slug": "pilled",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Gênesis 30:37,38) “descascado”, Isaias 18:2; Ezequiel 29:28. O verbo “to pill” aparece no inglês antigo como idêntico em significado a “descascar, despir”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 30:37",
+        "original": "Genesis 30:37"
+      },
+      {
+        "reference": "Genesis 30:38",
+        "original": "Genesis 30:38"
+      },
+      {
+        "reference": "Isaiah 18:2",
+        "original": "Isai 18:2"
+      },
+      {
+        "reference": "Ezekiel 29:28",
+        "original": "Ezek 29:28"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "pul": {
+    "name": "Dinheiro",
+    "slug": "pul",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Um rei assírio. Tem-se questionado se ele era a mesma pessoa que Tiglate-Pileser III (ver este), ou se era seu antecessor. A maioria das evidências aponta, sem dúvida, para a identidade entre ambos. Pul era o nome de coroação que ele usava na Babilônia como rei da Babilônia, e Tiglate-Pileser, o nome de coroação que usava como rei da Assíria. Ele foi o fundador do que é chamado de segundo Império Assírio. Ele consolidou e organizou suas conquistas em grande escala. Subjugou o norte da Síria e Hamate, e os reis da Síria prestaram-lhe homenagem e pagaram-lhe tributo. Sua ambição era fundar na Ásia Ocidental um reino que abrangesse todo o mundo civilizado, tendo Nínive como seu centro. Menahem, rei de Israel, pagou-lhe o enorme tributo de mil talentos de prata, “para que a mão de Deus estivesse com ele” (2 Reis 15:19; 1 Crônicas 5:26). O fato de que esse tributo pudesse ser pago demonstrava a riqueza do pequeno reino de Israel, mesmo nessa época de desordem e má administração. Tendo subjugado a Síria, ele voltou suas forças contra a Babilônia, que também subjugou. O rei babilônico foi morto, e a Babilônia e outras cidades caldeias foram tomadas, e Pul assumiu o título de “Rei de Sumer [ou seja, Sinar] e Acád”. Seu sucessor foi Salmanasar IV. (2.) Um nome geográfico em Isaías 66:19. Provavelmente = Fut (Gênesis 10:6; Jeremias 46:9, R.V. “Put”; Ezequiel 27:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "Um rei assírio e o primeiro monarca assírio mencionado nas Escrituras. Ele realizou uma expedição contra Menahem, rei de Israel, por volta de 770 a.C. (2 Reis 15:19) (senhor), um país ou nação mencionado em (Isaías 66:19). É mencionado em relação a nações distantes, e alguns supõem que represente a ilha de Filae, no Egito, enquanto outros acreditam que se trate da Líbia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 15:19",
+        "original": "2 Kings 15:19"
+      },
+      {
+        "reference": "1 Chronicles 5:26",
+        "original": "1 Chr. 5:26"
+      },
+      {
+        "reference": "Isaiah 66:19",
+        "original": "Isa. 66:19"
+      },
+      {
+        "reference": "Genesis 10:6",
+        "original": "Gen. 10:6"
+      },
+      {
+        "reference": "Jeremiah 46:9",
+        "original": "Jer. 46:9"
+      },
+      {
+        "reference": "Ezekiel 27:10",
+        "original": "Ezek. 27:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "rakkath": {
+    "name": "Difícil",
+    "slug": "rakkath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Shore-town, uma “cidade fortificada” da tribo de Naftali (Josué 19:35). O antigo nome de Tiberíades, segundo os rabinos."
+      },
+      {
+        "source": "SMI",
+        "text": "(margem), uma cidade fortificada na tribo de Naftali. (Josué 19:35) Ficava na margem ocidental do Mar da Galiléia, não muito longe dos banhos termais de Tiberíades."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:35",
+        "original": "Josh. 19:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "rehum": {
+    "name": "Descanso",
+    "slug": "rehum",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Misericordioso. (1.) Um dos “filhos da província” que retornaram do cativeiro (Esdras 2:2); o mesmo que “Nehum” (Neemias 7:7). (2.) O “chanceler” de Artaxerxes, que tentou incitá-lo contra os judeus (Esdras 4:8-24) e impedir a reconstrução dos muros e do templo de Jerusalém. (3.) Um levita (Neemias 3:17). (4.) Neemias 10:25. (5.) Um sacerdote (Neemias 12:3)."
+      },
+      {
+        "source": "SMI",
+        "text": "(misericordioso)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:2",
+        "original": "Ezra 2:2"
+      },
+      {
+        "reference": "Nehemiah 7:7",
+        "original": "Neh. 7:7"
+      },
+      {
+        "reference": "Ezra 4:8-24",
+        "original": "Ezra 4:8-24"
+      },
+      {
+        "reference": "Nehemiah 3:17",
+        "original": "Neh. 3:17"
+      },
+      {
+        "reference": "Nehemiah 10:25",
+        "original": "Neh. 10:25"
+      },
+      {
+        "reference": "Nehemiah 12:3",
+        "original": "Neh. 12:3"
+      },
+      {
+        "reference": "Ezra 4:8",
+        "original": "Ezra 4:8"
+      },
+      {
+        "reference": "Ezra 4:9",
+        "original": "Ezra 4:9"
+      },
+      {
+        "reference": "Ezra 4:17",
+        "original": "Ezra 4:17"
+      },
+      {
+        "reference": "Ezra 4:23",
+        "original": "Ezra 4:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "reprobate": {
+    "name": "Depravado",
+    "slug": "reprobate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aquilo que é rejeitado por causa de sua própria inutilidade (Jer. 6:30; Hb. 6:8; grego: adokimos, “rejeitado”). Essa palavra também é usada em referência a pessoas abandonadas ou rejeitadas por não terem aproveitado as oportunidades que lhes foram oferecidas (1 Coríntios 9:27; 2 Coríntios 13:5-7)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 6:30",
+        "original": "Jer. 6:30"
+      },
+      {
+        "reference": "Hebrews 6:8",
+        "original": "Heb. 6:8"
+      },
+      {
+        "reference": "1 Corinthians 9:27",
+        "original": "1 Cor. 9:27"
+      },
+      {
+        "reference": "2 Corinthians 13:5-7",
+        "original": "2 Cor. 13:5-7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "rest": {
+    "name": "Descanso",
+    "slug": "rest",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Gr. katapausis, equivalente à palavra hebraica noah (Hb 4:1). (2.) Gr. anapausis, “descanso do cansaço” (Mt 11:28). (3.) Gr. anesis, “relaxamento” (2 Ts 1:7). (4.) Gr. sabbatismos, um descanso sabático, um descanso de todo o trabalho (Hb 4:9; V.R., “sábado”), um descanso semelhante ao de Deus quando ele terminou a obra da criação."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hebrews 4:1",
+        "original": "Heb. 4:1"
+      },
+      {
+        "reference": "Matthew 11:28",
+        "original": "Matt. 11:28"
+      },
+      {
+        "reference": "2 Thessalonians 1:7",
+        "original": "2 Thess. 1:7"
+      },
+      {
+        "reference": "Hebrews 4:9",
+        "original": "Heb. 4:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "roe": {
+    "name": "Dê",
+    "slug": "roe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(hebraico: tsebi), propriamente a gazela (árabe: ghazal), permitida para alimentação (Dt 14,5; cf. Dt 12,15, 22; 15,22; 1 Reis 4:23), conhecida por sua rapidez, beleza e graciosidade (2 Sam. 2:18; 1 Crôn. 12:8; Cânt. 2:9; 7:3; 8:14). A gazela (Gazella dorcas) é encontrada em grande número na Palestina. “Entre as colinas cinzentas da Galiléia, ela ainda é ‘a gazela nas montanhas de Bether’, e eu já vi um pequeno rebanho de gazelas se alimentando no Monte das Oliveiras, bem próximo à própria Jerusalém” (Tristram). A palavra hebraica (‘ayyalah) em Provérbios 5:19, traduzida assim (R.V., “cabra”), é propriamente a “cabra selvagem”, a cabra-montesa, a cabra-montesa-de-montanha. (Ver 1 Samuel 24:2; Salmos 104:18; Jó 39:1.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 14:5",
+        "original": "Deut. 14:5"
+      },
+      {
+        "reference": "Deuteronomy 12:15",
+        "original": "Deut. 12:15"
+      },
+      {
+        "reference": "Deuteronomy 12:22",
+        "original": "Deut. 12:22"
+      },
+      {
+        "reference": "1 Kings 4:23",
+        "original": "1 Kings 4:23"
+      },
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Sam. 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chr. 12:8"
+      },
+      {
+        "reference": "Song of Solomon 2:9",
+        "original": "Cant. 2:9"
+      },
+      {
+        "reference": "Song of Solomon 7:3",
+        "original": "Cant 7:3"
+      },
+      {
+        "reference": "Song of Solomon 8:14",
+        "original": "Cant 8:14"
+      },
+      {
+        "reference": "Proverbs 5",
+        "original": "Prov. 5"
+      },
+      {
+        "reference": "1 Samuel 24:2",
+        "original": "1 Sam. 24:2"
+      },
+      {
+        "reference": "Psalms 104:18",
+        "original": "Ps. 104:18"
+      },
+      {
+        "reference": "Job 39:1",
+        "original": "Job 39:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "saraph": {
+    "name": "Delicioso",
+    "slug": "saraph",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Burning) mencionado em (1 Crônicas 4:22) entre os descendentes de Judá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:22",
+        "original": "1 Chronicles 4:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "seer": {
+    "name": "Dor",
+    "slug": "seer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um nome às vezes atribuído aos profetas devido às visões que lhes foram concedidas. Aparece pela primeira vez em 1 Samuel 9:9. Posteriormente, é aplicado a Zadoque, Gade, etc. (2 Samuel 15:27; 24:11; 1 Crônicas 9:22; 25:5; 2 Crônicas 9:29; Amós 7:12; Miquéias 3:7). As “palavras dos videntes” (2 Crônicas 33:18, 19) são traduzidas na Versão Revisada como “a história de Hozai” (nota marginal: os videntes; assim também na LXX), sobre quem, no entanto, nada se sabe. (Ver PROFETA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 9:9",
+        "original": "1 Sam. 9:9"
+      },
+      {
+        "reference": "2 Samuel 15:27",
+        "original": "2 Sam. 15:27"
+      },
+      {
+        "reference": "2 Samuel 24:11",
+        "original": "2 Sam. 24:11"
+      },
+      {
+        "reference": "1 Chronicles 9:22",
+        "original": "1 Chr. 9:22"
+      },
+      {
+        "reference": "1 Chronicles 25:5",
+        "original": "1 Chr. 25:5"
+      },
+      {
+        "reference": "2 Chronicles 9:29",
+        "original": "2 Chr. 9:29"
+      },
+      {
+        "reference": "Amos 7:12",
+        "original": "Amos 7:12"
+      },
+      {
+        "reference": "Micah 3:7",
+        "original": "Micah 3:7"
+      },
+      {
+        "reference": "2 Chronicles 33:18",
+        "original": "2 Chr. 33:18"
+      },
+      {
+        "reference": "2 Chronicles 33:19",
+        "original": "2 Chr. 33:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "shema": {
+    "name": "Diagrama",
+    "slug": "shema",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Rumor. (1.) Um rubenita (1 Crôn. 5:8). (2.) Um benjamita (1 Crôn. 8:13). (3.) Alguém que estava ao lado de Esdras quando ele leu a Lei (Neemias 8:4). (4.) Uma cidade no sul de Judá (Josué 15:26); a mesma que Sebá (v. 5)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 5:8",
+        "original": "1 Chr. 5:8"
+      },
+      {
+        "reference": "1 Chronicles 8:13",
+        "original": "1 Chr. 8:13"
+      },
+      {
+        "reference": "Nehemiah 8:4",
+        "original": "Neh. 8:4"
+      },
+      {
+        "reference": "Joshua 15:26",
+        "original": "Josh. 15:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "shunem": {
+    "name": "Desculpe",
+    "slug": "shunem",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dois locais de descanso, uma pequena aldeia na tribo de Issacar, ao norte de Jezreel e ao sul do Monte Gilboa (Josué 19:18), onde os filisteus acamparam quando marcharam contra Saul (1 Samuel 28:4) e onde Eliseu foi acolhido com hospitalidade por uma mulher rica do local. Com a morte repentina do filho dessa mulher, ela correu para o Carmelo, a 20 milhas de distância através da planície, para contar a Eliseu e levá-lo consigo para Suném. Lá, no “quarto do profeta”, jazia a criança morta; e Eliseu, ao entrar, fechou a porta e orou fervorosamente: e o menino voltou à vida (2 Reis 4:8-37). Mais tarde, durante a fome, essa mulher retirou-se para a planície dos filisteus; e, ao retornar alguns anos depois, encontrou sua casa e seus campos nas mãos de um estranho. Ela recorreu ao rei em Samaria e, de maneira um tanto notável, teve-os devolvidos a ela (comp. 2 Reis 8:1-6)."
+      },
+      {
+        "source": "SMI",
+        "text": "(duplo local de descanso), uma das cidades atribuídas à tribo de Issacar. (Josué 13:18) É mencionada em duas ocasiões — (1 Samuel 23:4; 2 Reis 4:8). Era, além disso, a terra natal de Abisague. (1 Reis 1:3) É mencionada por Eusébio como ficando a cinco milhas ao sul do Monte Tabor, sendo então conhecida como Sulem. Isso coincide com a localização da atual Solam, uma vila a três milhas ao norte de Jezreel e a cinco de Gilboa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:18",
+        "original": "Josh. 19:18"
+      },
+      {
+        "reference": "1 Samuel 28:4",
+        "original": "1 Sam. 28:4"
+      },
+      {
+        "reference": "2 Kings 4:8-37",
+        "original": "2 Kings 4:8-37"
+      },
+      {
+        "reference": "2 Kings 8:1-6",
+        "original": "2 Kings 8:1-6"
+      },
+      {
+        "reference": "Joshua 13:18",
+        "original": "Joshua 13:18"
+      },
+      {
+        "reference": "1 Samuel 23:4",
+        "original": "1 Samuel 23:4"
+      },
+      {
+        "reference": "2 Kings 4:8",
+        "original": "2 Kings 4:8"
+      },
+      {
+        "reference": "1 Kings 1:3",
+        "original": "1 Kings 1:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "sinim": {
+    "name": "Desculpe",
+    "slug": "sinim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um povo mencionado em (Isaías 49:12) como vivendo nos confins do mundo conhecido. Eles podem ser identificados com os clássicos Sinoe, os habitantes da região sul da China."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 49:12",
+        "original": "Isaiah 49:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "suah": {
+    "name": "Difícil",
+    "slug": "suah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(varredor), filho de Zofá, um aserita. (1 Crônicas 7:36) (cerca de 1020 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:36",
+        "original": "1 Chronicles 7:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "taralah": {
+    "name": "Digamos que",
+    "slug": "taralah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Reeling), uma das cidades da porção de Benjamim. (Josué 18:27)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:27",
+        "original": "Joshua 18:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "tenth-deal": {
+    "name": "Décimo acordo",
+    "slug": "tenth-deal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ou seja, a décima parte de um efa (conforme a R.V.), equivalente a um ómer ou seis pints. O leproso curado, para completar sua purificação, era obrigado a oferecer uma oferta pela transgressão, uma oferta pelo pecado e um holocausto, além de apresentar uma oferta de cereais — um décimo de efa ou um ómer de farinha para cada uma —, com azeite para transformá-la em pão ou bolos (Lv 14,10.21; cf. Êx. 16:36; 29:40)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 14:10",
+        "original": "Lev. 14:10"
+      },
+      {
+        "reference": "Leviticus 14:21",
+        "original": "Lev. 14:21"
+      },
+      {
+        "reference": "Exodus 16:36",
+        "original": "Ex. 16:36"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex 29:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "testimony": {
+    "name": "Depoimento",
+    "slug": "testimony",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Testemunho ou evidência (2 Tess. 1:10). (2.) As Escrituras, como revelação da vontade de Deus (2 Reis 11:12; Sal. 19:7; 119:88; Isaías 8:16, 20). (3.) O altar erguido pelos gaditas e rubenitas (Josué 22:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Thessalonians 1:10",
+        "original": "2 Thess. 1:10"
+      },
+      {
+        "reference": "2 Kings 11:12",
+        "original": "2 Kings 11:12"
+      },
+      {
+        "reference": "Psalms 19:7",
+        "original": "Ps. 19:7"
+      },
+      {
+        "reference": "Psalms 119:88",
+        "original": "Ps 119:88"
+      },
+      {
+        "reference": "Isaiah 8:16",
+        "original": "Isa. 8:16"
+      },
+      {
+        "reference": "Isaiah 8:20",
+        "original": "Isa. 8:20"
+      },
+      {
+        "reference": "Joshua 22:10",
+        "original": "Josh. 22:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "threshing": {
+    "name": "Debulha",
+    "slug": "threshing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Consulte AGRICULTURA."
+      },
+      {
+        "source": "SMI",
+        "text": "[Agricultura]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "tithe-or-tenth": {
+    "name": "Dízimo ou décimo",
+    "slug": "tithe-or-tenth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a proporção de bens destinados a fins religiosos desde tempos muito remotos. Encontram-se exemplos do uso de dízimos anteriores à instituição dos dízimos levíticos prevista na lei. Na história bíblica, os dois exemplos mais notáveis são:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:20",
+        "original": "Genesis 14:20"
+      },
+      {
+        "reference": "Hebrews 7:2",
+        "original": "Hebrews 7:2"
+      },
+      {
+        "reference": "Hebrews 7:6",
+        "original": "Hebrews 7:6"
+      },
+      {
+        "reference": "Genesis 28:22",
+        "original": "Genesis 28:22"
+      },
+      {
+        "reference": "Leviticus 27:30-33",
+        "original": "Leviticus 27:30-33"
+      },
+      {
+        "reference": "Numbers 18:21-28",
+        "original": "Numbers 18:21-28"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "tooth": {
+    "name": "Dente",
+    "slug": "tooth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um dos detalhes sobre os quais se aplicava a punição retaliatória (Êxodo 21:24; Levítico 24:20; Deuteronômio 19:21). “Ranger de dentes” = raiva, desespero (Mateus 8:12; Atos 7:54); “dentes limpos” = fome (Amós 4:6); “dentes das crianças rangendo” = crianças sofrendo pelos pecados de seus pais (Ezequiel 18:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 21:24",
+        "original": "Ex. 21:24"
+      },
+      {
+        "reference": "Leviticus 24:20",
+        "original": "Lev. 24:20"
+      },
+      {
+        "reference": "Deuteronomy 19:21",
+        "original": "Deut. 19:21"
+      },
+      {
+        "reference": "Matthew 8:12",
+        "original": "Matt. 8:12"
+      },
+      {
+        "reference": "Acts 7:54",
+        "original": "Acts 7:54"
+      },
+      {
+        "reference": "Amos 4:6",
+        "original": "Amos 4:6"
+      },
+      {
+        "reference": "Ezekiel 18:2",
+        "original": "Ezek. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "tribute-money": {
+    "name": "Dinheiro para homenagem",
+    "slug": "tribute-money",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Impostos; Tributo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
+  },
+  "ward": {
+    "name": "Distrito",
+    "slug": "ward",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma prisão (Gênesis 40:3, 4); um posto de vigia (Isaías 21:8); um guarda (Neemias 13:30)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:3",
+        "original": "Gen. 40:3"
+      },
+      {
+        "reference": "Genesis 40:4",
+        "original": "Gen. 40:4"
+      },
+      {
+        "reference": "Isaiah 21:8",
+        "original": "Isa. 21:8"
+      },
+      {
+        "reference": "Nehemiah 13:30",
+        "original": "Neh. 13:30"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "wean": {
+    "name": "Desmame",
+    "slug": "wean",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Entre os hebreus, as crianças (que, segundo o costume, eram amamentadas pelas mães, Êxodo 2:7-9; 1 Samuel 1:23; Cântico dos Cânticos 8:1) geralmente não eram desmamadas até completarem três ou quatro anos de idade."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 2:7-9",
+        "original": "Ex. 2:7-9"
+      },
+      {
+        "reference": "1 Samuel 1:23",
+        "original": "1 Sam. 1:23"
+      },
+      {
+        "reference": "Song of Solomon 8:1",
+        "original": "Cant. 8:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "weasel": {
+    "name": "Doninha",
+    "slug": "weasel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebr. holedh), incluída entre os animais impuros (Lv 11,29). Alguns acreditam que essa palavra hebraica se refira, na verdade, à toupeira (Spalax typhlus), comum na Palestina. Não há, no entanto, motivo suficiente para se afastar da tradução habitual. Os animais da família das doninhas também são comuns na Palestina."
+      },
+      {
+        "source": "SMI",
+        "text": "(choled) aparece apenas em (Levítico 11:29), na lista de animais impuros; mas é mais provável que a palavra hebraica deva ser traduzida como “toupeira”. As toupeiras são comuns na Palestina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:29",
+        "original": "Lev. 11:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
   }
 }

@@ -19034,5 +19034,2456 @@
       "SMI"
     ],
     "letter": "c"
+  },
+  "money-changer": {
+    "name": "Cambista",
+    "slug": "money-changer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Mat. 21:12; Mar. 11:15; João 2:15). Todo israelita de vinte anos para cima tinha que pagar (Êx. 30:13-15) ao tesouro sagrado meio siclo todos os anos como uma oferta a Jeová, e isso na peça exata de meio siclo hebraico. Havia uma classe de homens que frequentava os pátios do templo e trocava, por um determinado prêmio, moedas estrangeiras por esses meio-siclos para os judeus que subiam a Jerusalém de todas as partes do mundo. (Veja PÁSCOA.) Quando nosso Senhor expulsou os traficantes do templo, esses cambistas se deram pior. Suas mesas foram derrubadas e eles mesmos foram expulsos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 21:12",
+        "original": "Matt. 21:12"
+      },
+      {
+        "reference": "Mark 11:15",
+        "original": "Mark 11:15"
+      },
+      {
+        "reference": "John 2:15",
+        "original": "John 2:15"
+      },
+      {
+        "reference": "Exodus 30:13-15",
+        "original": "Ex. 30:13-15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "moneychangers": {
+    "name": "Cambistas",
+    "slug": "moneychangers",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Mateus 21:12; Marcos 11:15; João 2:15) De acordo com (Êxodo 30:13-15), todo israelita que atingisse ou passasse da idade de vinte anos deveria pagar ao tesouro sagrado, sempre que a nação fosse recenseada, um meio-siclo como oferta a Jeová. Os cambistas que Cristo, por sua impiedade, avareza e práticas fraudulentas, expulsou do templo eram os negociantes que forneciam meio-siclos, por um prêmio que pudessem exigir, aos judeus de todas as partes do mundo que se reuniam em Jerusalém durante as grandes festas, e que eram obrigados a pagar seu tributo ou dinheiro de resgate na moeda hebraica."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 21:12",
+        "original": "Matthew 21:12"
+      },
+      {
+        "reference": "Mark 11:15",
+        "original": "Mark 11:15"
+      },
+      {
+        "reference": "John 2:15",
+        "original": "John 2:15"
+      },
+      {
+        "reference": "Exodus 30:13-15",
+        "original": "Exodus 30:13-15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "mote": {
+    "name": "Cisco",
+    "slug": "mote",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. karphos, algo seco, portanto uma partícula de madeira ou palha, etc.). Um leve defeito moral é comparado a um cisco (Mt 7:3-5; Lc 6:41, 42)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 7:3-5",
+        "original": "Matt. 7:3-5"
+      },
+      {
+        "reference": "Luke 6:41",
+        "original": "Luke 6:41"
+      },
+      {
+        "reference": "Luke 6:42",
+        "original": "Luke 6:42"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "mowing": {
+    "name": "Ceifa (ou corte de erva)",
+    "slug": "mowing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. gez), traduzido em Sl 72:6 como “erva cortada”. A expressão “ceifas do rei” (Amós 7:1) refere-se a algum direito real de pastagem antecipada, a primeira colheita de grama para a cavalaria (comp. 1 Rs 18:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Como o grande calor do clima na Palestina e em outros países situados de forma semelhante seca rapidamente a erva, a fenação em nosso sentido do termo não é utilizada. As “ceifas do rei” (Amós 7:1) podem talvez referir-se a algum direito real de pastagem antecipada para o uso da cavalaria."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 72:6",
+        "original": "Ps. 72:6"
+      },
+      {
+        "reference": "Amos 7:1",
+        "original": "Amos 7:1"
+      },
+      {
+        "reference": "1 Kings 18:5",
+        "original": "1 Kings 18:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "night-hawk": {
+    "name": "Coruja-falcão",
+    "slug": "night-hawk",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tahmas) ocorre apenas na lista de aves imundas (Lev. 11:16; Deut. 14:15). Supunha-se que fosse o noitibó (Caprimulgus), aliado aos andorinhões. A palavra hebraica deriva de uma raiz que significa “arranhar ou rasgar o rosto” e pode ser mais bem traduzida, de acordo com as versões antigas, como “uma coruja” (Strix flammea). A Versão Revisada traduz como “coruja-falcão”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:16",
+        "original": "Lev. 11:16"
+      },
+      {
+        "reference": "Deuteronomy 14:15",
+        "original": "Deut. 14:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "nighthawk": {
+    "name": "Coruja-falcão",
+    "slug": "nighthawk",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A palavra hebraica assim traduzida (Levítico 11:16; 14:15) provavelmente denota algum tipo de coruja."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:10",
+        "original": "Leviticus 11:10"
+      },
+      {
+        "reference": "Leviticus 14:15",
+        "original": "Leviticus 14:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "numbering-of-the-people": {
+    "name": "Censo do povo",
+    "slug": "numbering-of-the-people",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Além da contagem das tribos mencionada na história das andanças no deserto, temos um relato de um censo geral de toda a nação, de Dã a Berseba, que Davi ordenou a Joabe que fizesse (1 Cr. 21:1). Joabe, muito relutantemente, começou a cumprir a ordem do rei. Este ato de Davi ao ordenar um recenseamento do povo surgiu do orgulho e de um espírito de autoglorificação. Indicava uma confiança, por parte dele, no braço da carne, uma estimativa do seu poder não pelo favor divino, mas pelos recursos materiais do seu reino. Ele pensava em conquistas militares e esquecia que era o vice-regente de Deus. Em tudo isso, ele pecou contra Deus. Enquanto Joabe estava ocupado com o censo, o coração de Davi o feriu, e ele tornou-se profundamente consciente da sua falta; e em profunda humilhação confessou: “Pequei grandemente no que fiz.” O profeta Gade foi enviado a ele para lhe apresentar três alternativas terríveis (2 Sm. 24:13; para “sete anos” neste versículo, a LXX. e 1 Cr. 21:12 têm “três anos”), três dos quatro graves juízos de Jeová (Ez. 14:21). Dois deles Davi já tinha experimentado. Ele fugira por alguns meses de Absalão e sofrera três anos de fome por causa do massacre dos gibeonitas. Na sua “angústia”, Davi disse: “Deixe-me cair nas mãos do Senhor.” Uma pestilência irrompeu entre o povo e, em três dias, levou 70.000 pessoas. Pela intercessão de Davi, a praga foi contida, e na eira de Araúna (q.v.), onde o anjo destruidor foi detido em seu progresso, Davi erigiu um altar e ali ofereceu sacrifícios a Deus (2 Cr. 3:1). O censo, conforme concluído, mostrou que havia pelo menos 1.300.000 homens aptos para a guerra no reino, indicando naquela época uma população de cerca de seis ou sete milhões ao todo. (Veja CENSO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 21:1",
+        "original": "1 Chr. 21:1"
+      },
+      {
+        "reference": "2 Samuel 24:13",
+        "original": "2 Sam. 24:13"
+      },
+      {
+        "reference": "1 Chronicles 21:12",
+        "original": "1 Chr. 21:12"
+      },
+      {
+        "reference": "Ezekiel 14:21",
+        "original": "Ezek. 14:21"
+      },
+      {
+        "reference": "2 Chronicles 3:1",
+        "original": "2 Chr. 3:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "oak": {
+    "name": "Carvalho",
+    "slug": "oak",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Existem seis palavras hebraicas traduzidas como “carvalho”. (1.) ‘El ocorre apenas na palavra El-Parã (Gên. 14:6). A LXX traduz por “terebinto”. Na forma plural, esta palavra ocorre em Isa. 1:29; 57:5 (nota marginal da A.V. e R.V., “entre os carvalhos”); 61:3 (“árvores”). A palavra significa propriamente forte, poderoso, e portanto, uma árvore forte. (2.) ‘Elah, Gên. 35:4, “debaixo do carvalho que estava perto de Siquém” (nota marginal da R.V., “terebinto”). Isa. 6:13, A.V., “teil-tree” (tília); R.V., “terebinto”. Isa. 1:30, nota marginal da R.V., “terebinto”. Absalão, em sua fuga, ficou preso nos ramos de um “grande carvalho” (2 Sam. 18:9; nota marginal da R.V., “terebinto”). (3.) ‘Elon, Juízes 4:11; 9:6 (R.V., “carvalho”; A.V., seguindo o Targum, “planície”), propriamente a espécie de carvalho de folhagem caduca que perde a folhagem no outono. (4.) ‘Elan, apenas em Dan. 4:11, 14, 20, traduzido como “árvore” no sonho de Nabucodonosor. Provavelmente refere-se a alguma espécie de carvalho. (5.) ‘Allah, Josué 24:26. O lugar aqui referido é chamado Alom-Moré (“o carvalho de Moré”, como na R.V.) em Gên. 12:6 e 35:4. (6.) ‘Allon, sempre traduzido como “carvalho”. Provavelmente refere-se ao carvalho perene (também chamado de azinheira). Os bosques de carvalhos de Basã são frequentemente mencionados (Isa. 2:13; Ezeq. 27:6). Três espécies de carvalhos são encontradas na Palestina, das quais o “carvalho perene espinhoso” (Quercus coccifera) é o mais abundante. “Ele cobre as colinas rochosas da Palestina com um denso arbusto de árvores de 2,5 a 3,5 metros de altura, ramificando-se desde a base, densamente cobertas com pequenas folhas rígidas e perenes, e produzindo bolotas em abundância.” O chamado carvalho de Abraão em Hebrom é desta espécie. Tristram. Tristram diz que este carvalho perto de Hebrom “por vários séculos ocupou o lugar do outrora famoso terebinto que marcava o local de Manre, do outro lado da cidade. O terebinto existiu em Manre na época de Vespasiano, e debaixo dele os judeus cativos foram vendidos como escravos. Desapareceu por volta de 330 d.C., e nenhuma árvore marca hoje o bosque de Manre. O atual carvalho é a árvore mais nobre do sul da Palestina, tendo 7 metros de circunferência, e o diâmetro da folhagem, que é assimétrica, é de cerca de 27 metros.” (Veja HEBROM; TILIA)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. forte). Há muita dificuldade em determinar os significados exatos das várias variedades do termo mencionado acima. Às vezes, evidentemente, o terebinto ou o olmo é intencionado, e outras vezes o carvalho. Existem várias variedades de carvalho na Palestina. (O Dr. Robinson argumenta que o carvalho é geralmente o termo intencionado e que é uma árvore muito comum no Oriente. Os carvalhos crescem até um tamanho grande, atingem uma idade avançada e são, em todos os sentidos, dignos das associações veneráveis ligadas à árvore.—ED.) Dois carvalhos, Quercus pseudo-coccifera e Q. aegilops, são bem dignos do nome de árvores poderosas; embora seja igualmente verdade que, em grande parte do país, os carvalhos da Palestina são atualmente apenas arbustos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:6",
+        "original": "Gen. 14:6"
+      },
+      {
+        "reference": "Isaiah 1:29",
+        "original": "Isa. 1:29"
+      },
+      {
+        "reference": "Isaiah 57:5",
+        "original": "Isa 57:5"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Gen. 35:4"
+      },
+      {
+        "reference": "Isaiah 6:13",
+        "original": "Isa. 6:13"
+      },
+      {
+        "reference": "Isaiah 1:30",
+        "original": "Isa. 1:30"
+      },
+      {
+        "reference": "2 Samuel 18:9",
+        "original": "2 Sam. 18:9"
+      },
+      {
+        "reference": "Judges 4:11",
+        "original": "Judg. 4:11"
+      },
+      {
+        "reference": "Judges 9:6",
+        "original": "Judg 9:6"
+      },
+      {
+        "reference": "Daniel 4:11",
+        "original": "Dan. 4:11"
+      },
+      {
+        "reference": "Daniel 4:14",
+        "original": "Dan. 4:14"
+      },
+      {
+        "reference": "Daniel 4:20",
+        "original": "Dan. 4:20"
+      },
+      {
+        "reference": "Joshua 24:26",
+        "original": "Josh. 24:26"
+      },
+      {
+        "reference": "Genesis 12:6",
+        "original": "Gen. 12:6"
+      },
+      {
+        "reference": "Isaiah 2:13",
+        "original": "Isa. 2:13"
+      },
+      {
+        "reference": "Ezekiel 27:6",
+        "original": "Ezek. 27:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "onion": {
+    "name": "Cebola",
+    "slug": "onion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os israelitas no deserto ansiavam pelas “cebolas e alhos do Egito” (Num. 11:5). Este era o betsel dos hebreus, o Allium cepe dos botânicos, do qual se diz que existem cerca de trinta ou quarenta espécies crescendo atualmente na Palestina. A cebola é o 'alho-poró indiviso', unio, unus, um."
+      },
+      {
+        "source": "SMI",
+        "text": "Este produto é mencionado apenas em (Números 11:5) como uma das coisas boas do Egito das quais os israelitas lamentaram a perda. As cebolas têm sido, desde tempos imemoriais, um alimento favorito entre os egípcios. As cebolas do Egito são muito mais suaves no sabor e menos pungentes do que as deste país."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:5",
+        "original": "Num. 11:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "owl": {
+    "name": "Coruja",
+    "slug": "owl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. bath-haya’anah, “filha da ganância” ou do “grito”. Na lista de aves impuras (Lev. 11:16; Deut. 14:15); também mencionada em Jó 30:29; Isa. 13:21; 34:13; 43:20; Jer. 50:39; Miquéias 1:8. Em todas essas passagens, a Versão Revisada traduz como “avestruz” (q.v.), que é a tradução correta. (2.) Heb. yanshuph, traduzido como “corujão” em Lev. 11:17; Deut. 14:16, e “coruja” em Isa. 34:11. Supõe-se ser a águia-coruja egípcia (Bubo ascalaphus), que substitui a águia-coruja (Bubo maximus) encontrada no Sul da Europa. É encontrada frequentando as ruínas do Egito e também da Terra Santa. “Seu grito é um pio alto, prolongado e muito poderoso. Não conheço nada que tenha trazido mais vividamente à minha mente a sensação de desolação e solidão do que o pio que ecoava de duas ou três dessas grandes corujas enquanto eu estava à meia-noite entre os templos em ruínas de Baalbek” (Tristram). A Septuaginta e a Vulgata traduzem esta palavra como “íbis”, isto é, a garça egípcia. (3.) Heb. kos, traduzido como “coruja pequena” em Lev. 11:17; Deut. 14:16, e “coruja” no Sl. 102:6. Os árabes chamam esta ave de “a mãe das ruínas”. É de longe a mais comum de todas as corujas da Palestina. É a Athene persica, a ave de Minerva, símbolo da antiga Atenas. (4.) Heb. kippoz, o “corujão” (Isa. 34:15); Versão Revisada, “serpente-flecha”; Septuaginta e Vulgata, “ouriço”, lendo no texto kippod, em vez de kippoz. Não há razão para duvidar da correção da tradução da Versão Autorizada. Tristram diz: “A palavra [isto é, kippoz] é muito possivelmente uma imitação do grito da coruja-pequena (Scops giu), que é muito comum entre ruínas, cavernas e paredes antigas de cidades... É uma ave migratória, retornando à Palestina na primavera.” (5.) Heb. lilith, “coruja noturna” (Isa. 34:14, margem e R.V., “monstro noturno”). A palavra hebraica vem de uma raiz que significa “noite”. Alguma espécie de coruja é obviamente pretendida por esta palavra. Pode ser a coruja-do-mato (Syrnium aluco), que é comum no Egito e em muitas partes da Palestina. Este versículo em Isaías é “descritivo de total e perpétua desolação, de uma terra que deveria estar cheia de ruínas e habitada pelos animais que geralmente fazem de tais ruínas sua morada.”"
+      },
+      {
+        "source": "SMI",
+        "text": "Várias espécies de coruja são mencionadas na Bíblia (Levítico 11:17; 14:16; Isaías 14:23; 34:15; Sofonias 2:14) e em vários outros lugares a mesma palavra hebraica é usada onde é traduzida como avestruz. (Jó 30:29; Jeremias 50:39) Algumas dessas espécies eram comuns na Palestina e, como é bem sabido, eram frequentemente encontradas habitando ruínas. (Isaías 34:11,13-15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:16",
+        "original": "Lev. 11:16"
+      },
+      {
+        "reference": "Deuteronomy 14:15",
+        "original": "Deut. 14:15"
+      },
+      {
+        "reference": "Job 30:29",
+        "original": "Job 30:29"
+      },
+      {
+        "reference": "Isaiah 13:21",
+        "original": "Isa. 13:21"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa 34:13"
+      },
+      {
+        "reference": "Isaiah 43:20",
+        "original": "Isa 43:20"
+      },
+      {
+        "reference": "Jeremiah 50:39",
+        "original": "Jer. 50:39"
+      },
+      {
+        "reference": "Micah 1:8",
+        "original": "Micah 1:8"
+      },
+      {
+        "reference": "Leviticus 11:17",
+        "original": "Lev. 11:17"
+      },
+      {
+        "reference": "Deuteronomy 14:16",
+        "original": "Deut. 14:16"
+      },
+      {
+        "reference": "Isaiah 34:11",
+        "original": "Isa. 34:11"
+      },
+      {
+        "reference": "Psalms 102:6",
+        "original": "Ps. 102:6"
+      },
+      {
+        "reference": "Isaiah 34:15",
+        "original": "Isa. 34:15"
+      },
+      {
+        "reference": "Isaiah 34:14",
+        "original": "Isa. 34:14"
+      },
+      {
+        "reference": "Leviticus 14:16",
+        "original": "Leviticus 14:16"
+      },
+      {
+        "reference": "Isaiah 14:23",
+        "original": "Isaiah 14:23"
+      },
+      {
+        "reference": "Zephaniah 2:14",
+        "original": "Zephaniah 2:14"
+      },
+      {
+        "reference": "Isaiah 34:13-15",
+        "original": "Isaiah 34:13-15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "palm-trees-the-city-of": {
+    "name": "Cidade das Palmeiras",
+    "slug": "palm-trees-the-city-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome dado a Jericó (veja o verbete), Deuteronômio 34:3; Juízes 1:16; 3:13."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 34:3",
+        "original": "Deut. 34:3"
+      },
+      {
+        "reference": "Judges 1:16",
+        "original": "Judg. 1:16"
+      },
+      {
+        "reference": "Judges 3:13",
+        "original": "Judg 3:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "pit": {
+    "name": "Cova",
+    "slug": "pit",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um buraco no chão (Êx 21:33, 34), uma cisterna para água (Gn 37:24; Jr 14:3), um cofre (41:9), uma sepultura (Sl 30:3). É usado como uma figura para maldade (Sl 9:15), e é o nome dado ao lugar invisível de aflição (Ap 20:1, 3). As fossas de betume no vale de Sidim eram poços que produziam asfalto (Gn 14:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Inferno]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 21:33",
+        "original": "Ex. 21:33"
+      },
+      {
+        "reference": "Exodus 21:34",
+        "original": "Ex. 21:34"
+      },
+      {
+        "reference": "Genesis 37:24",
+        "original": "Gen. 37:24"
+      },
+      {
+        "reference": "Jeremiah 14:3",
+        "original": "Jer. 14:3"
+      },
+      {
+        "reference": "Psalms 30:3",
+        "original": "Ps. 30:3"
+      },
+      {
+        "reference": "Psalms 9:15",
+        "original": "Ps. 9:15"
+      },
+      {
+        "reference": "Revelation 20:1",
+        "original": "Rev. 20:1"
+      },
+      {
+        "reference": "Revelation 20:3",
+        "original": "Rev. 20:3"
+      },
+      {
+        "reference": "Genesis 14:10",
+        "original": "Gen. 14:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "pitcher": {
+    "name": "Cântaro",
+    "slug": "pitcher",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um vaso para conter líquidos. No Oriente, os cântaros eram geralmente carregados na cabeça ou nos ombros (Gn 24:15-20; Jz 7:16, 19; Mc 14:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "Esta palavra é usada na Versão Autorizada para denotar os potes de água de barro ou cântaros com uma ou duas alças, usados principalmente por mulheres para carregar água, como na história de Rebeca. (Gênesis 24:15-20), mas veja Marcos 14:13; Lucas 22:10. Este modo de carregar tem sido e ainda é costumeiro no Oriente e em outros lugares. Os vasos usados para esse fim são geralmente carregados na cabeça ou no ombro. As mulheres beduínas usam comumente odres de pele. Tal foi o “odre” carregado por Hagar (Gênesis 21:14). A mesma palavra é usada para os cântaros empregados pelos trezentos homens de Gideão. (Juízes 7:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:15-20",
+        "original": "Gen. 24:15-20"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judg. 7:16"
+      },
+      {
+        "reference": "Judges 7:19",
+        "original": "Judg 7:19"
+      },
+      {
+        "reference": "Mark 14:13",
+        "original": "Mark 14:13"
+      },
+      {
+        "reference": "Luke 22:10",
+        "original": "Luke 22:10"
+      },
+      {
+        "reference": "Genesis 21:14",
+        "original": "Genesis 21:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "post": {
+    "name": "Correio",
+    "slug": "post",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Um corredor ou mensageiro para a transmissão rápida de cartas, etc. (2 Cr 30:6; Et 3:13, 15; 8:10, 14; Jó 9:25; Jr 51:31). Tais mensageiros eram usados desde tempos muito antigos. Aqueles empregados pelos reis hebreus tinham um caráter militar (1 Sm 22:17; 2 Rs 10:25, “guarda”, marg. “corredores”). O sistema moderno de comunicação postal foi estabelecido pela primeira vez por Luís XI da França em 1464 d.C. (2.) Esta palavra às vezes também é usada para verga ou soleira (Is 6:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 30:6",
+        "original": "2 Chr. 30:6"
+      },
+      {
+        "reference": "Esther 3:13",
+        "original": "Esther 3:13"
+      },
+      {
+        "reference": "Esther 3:15",
+        "original": "Esther 3:15"
+      },
+      {
+        "reference": "Job 9:25",
+        "original": "Job 9:25"
+      },
+      {
+        "reference": "Jeremiah 51:31",
+        "original": "Jer. 51:31"
+      },
+      {
+        "reference": "1 Samuel 22:17",
+        "original": "1 Sam. 22:17"
+      },
+      {
+        "reference": "2 Kings 10:25",
+        "original": "2 Kings 10:25"
+      },
+      {
+        "reference": "Isaiah 6:4",
+        "original": "Isa. 6:4"
+      },
+      {
+        "reference": "1 Kings 6:33",
+        "original": "1 Kings 6:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "potsherd": {
+    "name": "Caco",
+    "slug": "potsherd",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um fragmento, isto é, qualquer coisa separada, como um pedaço de cerâmica (Jó 2:8; Prov. 26:23; Isa. 45:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "também na Versão Autorizada “sherd”, um pedaço quebrado de cerâmica. (Provérbios 26:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 2:8",
+        "original": "Job 2:8"
+      },
+      {
+        "reference": "Proverbs 26:23",
+        "original": "Prov. 26:23"
+      },
+      {
+        "reference": "Isaiah 45:9",
+        "original": "Isa. 45:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "potters-field": {
+    "name": "Campo do Oleiro",
+    "slug": "potters-field",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome dado ao pedaço de terra que foi posteriormente comprado com o dinheiro que havia sido dado a Judas. Foi chamado de “campo de sangue” (Mat. 27:7-10). A tradição localiza-o no vale de Hinom. (Veja ACELDAMA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:7-10",
+        "original": "Matt. 27:7-10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "potters-field-the": {
+    "name": "Campo do Oleiro, O",
+    "slug": "potters-field-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um pedaço de terra que, de acordo com o relato de São Mateus (Mateus 27:7), foi comprado pelos sacerdotes com as trinta moedas de prata rejeitadas por Judas, e convertido em um lugar de sepultamento para judeus que não pertenciam à cidade. [Aceldama]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:7",
+        "original": "Matthew 27:7"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "put": {
+    "name": "Coloque",
+    "slug": "put",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(1 Crônicas 1:8; Naum 3:9) [Fut, Put]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 1:8",
+        "original": "1 Chronicles 1:8"
+      },
+      {
+        "reference": "Nahum 3:9",
+        "original": "Nahum 3:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quails": {
+    "name": "Codornizes",
+    "slug": "quails",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os israelitas foram aliviados duas vezes em sua privação por um suprimento milagroso de codornizes, (1) no deserto de Sim (Êxodo 16:13), e (2) novamente em Quibrote-Hataavá (ver verbete), Números 11:31. Deus “fez chover carne sobre eles como pó, e aves emplumadas como a areia do mar” (Salmos 78:27). As palavras em Números 11:31, de acordo com a Versão Autorizada (KJV), parecem denotar que as codornizes jaziam uma sobre a outra até a espessura de dois côvados acima do solo. A Versão Revisada, contudo, lê: “cerca de dois côvados sobre a face da terra”, isto é, as codornizes voavam a esta altura e eram facilmente abatidas ou apanhadas com a mão. Sendo assim obtidas em vastas quantidades pelo povo, eles “as estenderam todas ao redor” (11:32) para salgá-las e secá-las. Estas aves (a Coturnix vulgaris dos naturalistas) são encontradas em números incontáveis nas margens do Mediterrâneo, e sua migração anual é um evento que causa grande alvoroço."
+      },
+      {
+        "source": "SMI",
+        "text": "Não há dúvida de que a palavra hebraica no Pentateuco (Êxodo 16:13; Números 11:31,32) e no Salmo 105 denota a codorniz comum, Coturnix dactylisonans. (A enorme quantidade de codornizes capturadas pelos israelitas tem seu paralelo nos tempos modernos. Plínio afirma que elas às vezes pousam em navios no Mediterrâneo e os fazem afundar. O Coronel Sykes afirma que 160.000 codornizes foram capturadas em rede em uma única temporada na ilha de Capri.—ED.) A expressão “como que dois côvados (de altura) sobre a face da terra” (Números 11:31) refere-se provavelmente à altura em que as codornizes voavam acima do solo, em sua condição de exaustão devido ao longo voo. Quanto às enormes quantidades que se diz que o israelita menos bem-sucedido capturou, ou seja, “dez ômeres” (isto é, oito alqueires) no espaço de uma noite e dois dias, há todos os motivos para acreditar que os “ômeres” aqui mencionados não denotam estritamente a medida com esse nome, mas simplesmente “um montão”. Os israelitas teriam tido pouca dificuldade em capturar grandes quantidades dessas aves, pois sabe-se que elas chegam a certos lugares às vezes tão completamente exaustas pelo voo que são facilmente capturadas, não apenas em redes, mas com a mão. Eles “estenderam as codornizes ao redor do arraial;” isto foi com o propósito de secá-las. Os egípcios preparavam estas aves da mesma maneira. A expressão “codornizes do mar” (Números 11:31) não deve ser restringida para denotar que as aves vieram do mar como seu ponto de partida, mas deve ser tomada para mostrar a direção da qual elas estavam vindo. As codornizes estavam, na época do evento narrado nas escrituras sagradas, em sua jornada de migração de primavera para o norte. É interessante notar o tempo especificado: “foi à tarde” que elas começaram a chegar; e sem dúvida continuaram a vir durante toda a noite. Muitos observadores registraram que a codorniz migra à noite."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:13",
+        "original": "Ex. 16:13"
+      },
+      {
+        "reference": "Numbers 11:31",
+        "original": "Num. 11:31"
+      },
+      {
+        "reference": "Psalms 78:27",
+        "original": "Ps. 78:27"
+      },
+      {
+        "reference": "Numbers 11:32",
+        "original": "Numbers 11:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quotations": {
+    "name": "Citações",
+    "slug": "quotations",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Do Antigo Testamento no Novo, que são muito numerosas, não são feitas de acordo com nenhum método uniforme. Quando o Novo Testamento foi escrito, o Antigo não estava dividido, como está agora, em capítulos e versículos, e por isso existem peculiaridades como estas: Quando Lucas (20:37) refere-se a Êxodo 3:6, ele cita “Moisés na sarça”, isto é, a seção contendo o registro de Moisés na sarça. Assim também Marcos (2:26) refere-se a 1 Samuel 21:1-6, nas palavras, “nos dias de Abiatar”; e Paulo (Romanos 11:2) refere-se a 1 Reis caps. 17-19, nas palavras, “em Elias”, isto é, na parte da história sobre Elias. Em geral, os escritores do Novo Testamento citam a versão da Septuaginta (ver verbete) do Antigo Testamento, como era então de uso comum entre os judeus. Mas é perceptível que essas citações não são feitas de maneira uniforme. Às vezes, por exemplo, a citação não concorda literalmente nem com a LXX nem com o texto hebraico. Isso ocorre em cerca de cem casos. Às vezes a LXX é citada literalmente (em cerca de noventa casos), e às vezes é corrigida ou alterada nas citações (em mais de oitenta casos). Citações são feitas às vezes também diretamente do texto hebraico (Mateus 4:15, 16; João 19:37; 1 Coríntios 15:54). Além das citações feitas diretamente, existem inúmeras alusões, mais ou menos distintas, mostrando que as mentes dos escritores do Novo Testamento estavam repletas das expressões e ideias, bem como dos fatos históricos registrados no Antigo. Existem ao todo duzentas e oitenta e três citações diretas do Antigo Testamento no Novo, mas nem um único caso claro e certo de citação dos Apócrifos (ver verbete). Além das citações no Novo a partir do Antigo Testamento, existem nos escritos de Paulo três citações de certos poetas gregos, Atos 17:28; 1 Coríntios 15:33; Tito 1:12. Essas citações são memoriais de sua educação clássica precoce."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 3:6",
+        "original": "Ex. 3:6"
+      },
+      {
+        "reference": "1 Samuel 21:1-6",
+        "original": "1 Sam. 21:1-6"
+      },
+      {
+        "reference": "Romans 11:2",
+        "original": "Rom. 11:2"
+      },
+      {
+        "reference": "Matthew 4:15",
+        "original": "Matt. 4:15"
+      },
+      {
+        "reference": "Matthew 4:16",
+        "original": "Matt. 4:16"
+      },
+      {
+        "reference": "John 19:37",
+        "original": "John 19:37"
+      },
+      {
+        "reference": "1 Corinthians 15:54",
+        "original": "1 Cor. 15:54"
+      },
+      {
+        "reference": "Acts 17:28",
+        "original": "Acts 17:28"
+      },
+      {
+        "reference": "1 Corinthians 15:33",
+        "original": "1 Cor. 15:33"
+      },
+      {
+        "reference": "Titus 1:12",
+        "original": "Titus 1:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "rabbith": {
+    "name": "Coelho",
+    "slug": "rabbith",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(multidão) uma cidade no território de Issacar, talvez na fronteira. (Josué 18:20) apenas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:20",
+        "original": "Joshua 18:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "raca": {
+    "name": "Corrida",
+    "slug": "raca",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vão, vazio, sem valor; aparece apenas em Mateus 5:22. Os judeus usavam essa palavra como termo de desprezo. Ela deriva de uma raiz que significa “cuspir”."
+      },
+      {
+        "source": "SMI",
+        "text": "um termo pejorativo derivado do caldeu “reka”, que significa “sem valor”. (“Raca denota uma certa falta de moderação na vida e nos modos, enquanto ‘insensato’, na mesma passagem, se refere a uma pessoa totalmente perversa e depravada.”) (Mateus 5:22)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "race": {
+    "name": "Corrida",
+    "slug": "race",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jogos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "rain": {
+    "name": "Chuva",
+    "slug": "rain",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Existem três palavras hebraicas usadas para denotar as chuvas de diferentes estações: (1.) Yoreh (Os. 6:3), ou moreh (Joel 2:23), denotando a primeira ou a chuva temporã. (2.) Melqosh, a “chuva serôdia” (Prov. 16:15). (3.) Geshem, a chuva de inverno, “as chuvas”. A forte chuva de inverno é mencionada em Gên. 7:12; Esd. 10:9; Cânt. 2:11. As chuvas “temporãs” ou “primeiras” começam no outono, na última parte de outubro ou início de novembro (Deut. 11:14; Joel 2:23; comp. Jer. 3:3), e continuam caindo fortemente por dois meses. Depois, as fortes “chuvas de inverno” caem de meados de dezembro a março. Não há tempo bom prolongado na Palestina entre outubro e março. As chuvas “serôdias” ou de primavera caem em março e abril e servem para fazer crescer o grão que está chegando à maturidade (Deut. 11:14; Os. 6:3). Depois disso, normalmente não há chuva, o céu permanecendo brilhante e sem nuvens até outubro ou novembro. A chuva é referida simbolicamente em Deut. 32:2; Sl. 72:6; Is. 44:3, 4; Os. 10:12."
+      },
+      {
+        "source": "SMI",
+        "text": "Na Bíblia, “chuva temporã” significa a chuva do outono (Deut. 11:14) e “chuva serôdia”, a chuva da primavera. (Provérbios 16:15) Por seis meses do ano, de maio a outubro, não cai chuva; toda a terra torna-se seca, queimada e marrom. As chuvas de outono são esperadas ansiosamente para preparar a terra para receber a semente. Estas, as chuvas temporãs, começam no final de outubro, continuando durante novembro e dezembro. Janeiro e fevereiro são os meses mais frios, e a neve cai, às vezes a uma profundidade de trinta centímetros ou mais, em Jerusalém, mas não permanece por muito tempo; é raramente vista ao longo da costa e nas planícies baixas. A chuva continua caindo mais ou menos durante o mês de março; é muito rara em abril. Robinson observa que não existem, nos dias atuais, “quaisquer períodos específicos de chuva ou sucessão de chuvas que possam ser considerados como estações chuvosas distintas. Todo o período de outubro a março constitui agora apenas uma única estação contínua de chuva, sem qualquer período regularmente interveniente de tempo bom prolongado. A menos, portanto, que tenha havido alguma mudança no clima, as chuvas temporãs e serôdias, pelas quais o lavrador esperava com anseio, parecem ter se referido mais às primeiras chuvas do outono — que reviviam o solo seco e sedento e o preparavam para a semente — e às chuvas posteriores da primavera, que continuavam a refrescar e a fazer prosperar tanto as colheitas que amadureciam quanto os produtos primaveris dos campos.” (Tiago 5:7; Provérbios 16:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 6:3",
+        "original": "Hos. 6:3"
+      },
+      {
+        "reference": "Joel 2:23",
+        "original": "Joel 2:23"
+      },
+      {
+        "reference": "Proverbs 16:15",
+        "original": "Prov. 16:15"
+      },
+      {
+        "reference": "Genesis 7:12",
+        "original": "Gen. 7:12"
+      },
+      {
+        "reference": "Ezra 10:9",
+        "original": "Ezra 10:9"
+      },
+      {
+        "reference": "Song of Solomon 2:11",
+        "original": "Cant. 2:11"
+      },
+      {
+        "reference": "Deuteronomy 11:14",
+        "original": "Deut. 11:14"
+      },
+      {
+        "reference": "Jeremiah 3:3",
+        "original": "Jer. 3:3"
+      },
+      {
+        "reference": "Deuteronomy 32:2",
+        "original": "Deut. 32:2"
+      },
+      {
+        "reference": "Psalms 72:6",
+        "original": "Ps. 72:6"
+      },
+      {
+        "reference": "Isaiah 44:3",
+        "original": "Isa. 44:3"
+      },
+      {
+        "reference": "Isaiah 44:4",
+        "original": "Isa 44:4"
+      },
+      {
+        "reference": "Hosea 10:12",
+        "original": "Hos. 10:12"
+      },
+      {
+        "reference": "Proverbs 16:1",
+        "original": "Proverbs 16:1"
+      },
+      {
+        "reference": "Proverbs 16:5",
+        "original": "Proverbs 16:5"
+      },
+      {
+        "reference": "James 5:7",
+        "original": "James 5:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "rams-horns": {
+    "name": "Chifres de Carneiro",
+    "slug": "rams-horns",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Cornet; Jubileu, O Ano do]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "refuges-cities-of": {
+    "name": "Cidades-refúgio de",
+    "slug": "refuges-cities-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[CIDADE DO REFÚGIO] CIDADE DO REFÚGIO - 1019"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "remphan": {
+    "name": "Canela",
+    "slug": "remphan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Atos 7:43; R.V., “Rephan”). Em Amós 5:26, o termo hebraico Chiun (ver) é traduzido pela LXX como “Rephan”, e esse nome é adotado por Lucas em sua narrativa dos Atos. Esses nomes representam o deus-estrela Saturno ou Moloch."
+      },
+      {
+        "source": "SMI",
+        "text": "(Atos 7:43) e Chi’un (Amós 5:26) têm sido considerados nomes de um ídolo adorado secretamente pelos israelitas no deserto; essa ocorrência simultânea de dois nomes tão diferentes na pronúncia tem suscitado dificuldades. A opinião mais razoável parece ser a de que Chiun era um nome hebraico ou semítico, e Remphan, um equivalente egípcio substituído pela LXX. Esse ídolo correspondia provavelmente a Saturno ou a Moloch. A menção a Chiun ou Remphan como sendo adorados no deserto mostra que essa idolatria era, pelo menos em parte, praticada por estrangeiros e, sem dúvida, por aqueles que se estabeleceram no Baixo Egito."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 7:43",
+        "original": "Acts 7:43"
+      },
+      {
+        "reference": "Amos 5:26",
+        "original": "Amos 5:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "resheph": {
+    "name": "Curador",
+    "slug": "resheph",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Flame), filho de Efraim. (1 Crônicas 7:25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:25",
+        "original": "1 Chronicles 7:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "rosin": {
+    "name": "Colofónia",
+    "slug": "rosin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Encontrado apenas na Versão Autorizada, na margem, Ez. 27:17; em hebraico, tsori, traduzido uniformemente em outros trechos como “bálsamo” (ver), como aqui no texto. A Vulgata apresenta resinam, traduzido como “resina” na Versão de Douay. No entanto, conforme utilizado por Jerônimo, o termo latino resina denota alguma goma ou óleo odorífero."
+      },
+      {
+        "source": "SMI",
+        "text": "Corretamente “nafta”, como aparece tanto na LXX quanto na Vulgata, bem como no Peshito-siríaco. Plínio menciona a nafta como um produto da Babilônia, semelhante em aparência ao betume líquido e com notável afinidade com o fogo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 27:17",
+        "original": "Ezek. 27:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "rumah": {
+    "name": "Casa",
+    "slug": "rumah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Elevation, provavelmente a mesma localidade que Arumah (Juízes 9:41; 2 Reis 23:36), próxima a Siquém. Outros a identificam com Tell Rumeh, na Galiléia, a cerca de 6 milhas ao norte de Nazaré."
+      },
+      {
+        "source": "SMI",
+        "text": "(alto), mencionado apenas uma vez — (2 Reis 23:36). Supõe-se que seja o mesmo lugar que Arumá (Juízes 9:41), que aparentemente ficava perto de Siquém. É mais provável que seja idêntico a Dumá (Josué 15:52)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 9:41",
+        "original": "Judg. 9:41"
+      },
+      {
+        "reference": "2 Kings 23:36",
+        "original": "2 Kings 23:36"
+      },
+      {
+        "reference": "Joshua 15:52",
+        "original": "Joshua 15:52"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "rye": {
+    "name": "Centeio",
+    "slug": "rye",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "=Rie (em hebraico, kussemeth), encontrado em Êxodo 9:32; Isaías 28:25; em todos esses versículos, as margens da Versão Autorizada e da Versão Revisada apresentam “espelta”. Essa palavra hebraica também aparece em Ezequiel 4:9, onde a Versão Autorizada traz “fitches” (ver) e a Versão Revisada, “espelta”. Trata-se, sem dúvida, do Triticum spelta, uma espécie de trigo duro e de grão áspero."
+      },
+      {
+        "source": "SMI",
+        "text": "(Hebraico: cussemeth) aparece em (Êxodo 9:32; Isaías 28:25); neste último, a margem indica “espelta”. Em (Ezequiel 4:9), o texto traz “fitches” e a margem, “rie”. É provável que, por cussemeth, se refira à “espelta”. A espelta (Triticum spelta) é cultivada em algumas regiões do sul da Alemanha; ela difere apenas ligeiramente do nosso trigo comum (T. vulgare)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 9:32",
+        "original": "Ex. 9:32"
+      },
+      {
+        "reference": "Isaiah 28:25",
+        "original": "Isa. 28:25"
+      },
+      {
+        "reference": "Ezekiel 4:9",
+        "original": "Ezek. 4:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sabtah": {
+    "name": "Compreender",
+    "slug": "sabtah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Rest, o terceiro filho de Cus (Gênesis 10:7; 1 Crônicas 1:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(notável), (Gênesis 10:7) ou Sab’ta, (1 Crônicas 1:9), o terceiro na ordem dos filhos de Cus. (2218 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:7",
+        "original": "Gen. 10:7"
+      },
+      {
+        "reference": "1 Chronicles 1:9",
+        "original": "1 Chr. 1:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "salt-city-of": {
+    "name": "Cidade de Salt",
+    "slug": "salt-city-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a quinta das seis cidades de Judá que ficavam no “deserto”. (Josué 15:62) O Sr. Robinson expressa sua convicção de que ela ficava em algum lugar próximo à planície na extremidade sul do Mar Salgado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:62",
+        "original": "Joshua 15:62"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "saron": {
+    "name": "Capa",
+    "slug": "saron",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "apenas o distrito em que ficava Lida (Atos 9:35); o Sharon do Antigo Testamento. [Sharon]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 9:35",
+        "original": "Acts 9:35"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "saruch": {
+    "name": "Cabra",
+    "slug": "saruch",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Lucas 3:25) Serug, filho de Reu."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:25",
+        "original": "Luke 3:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sceptre": {
+    "name": "Cetro",
+    "slug": "sceptre",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebr. shebet = Gr. skeptron), propriamente um cajado ou vara. Como símbolo de autoridade, o uso do cetro teve origem na ideia de que o governante era como um pastor para seu povo (Gên. 49:10; Núm. 24:17; Sal. 45:6; Is. 14:5). Não há registro de nenhum exemplo de um cetro que tenha sido efetivamente empunhado por um rei judeu."
+      },
+      {
+        "source": "SMI",
+        "text": "Essa palavra significava originalmente uma vara ou um cajado. Passou então a ser aplicada especificamente ao cajado do pastor (Levítico 27:32; Miquéias 7:14) e à vara ou cetro de um governante. Todas as alusões a ela têm caráter metafórico e a descrevem simplesmente como uma das insígnias do poder supremo. (Gênesis 49:10) Consequentemente, não podemos descrever o objeto a partir de nenhuma menção bíblica; podemos inferir que provavelmente era feito de madeira. O cetro do monarca persa é descrito como “dourado”, ou seja, provavelmente de ouro maciço. (Ester 4:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:10",
+        "original": "Gen. 49:10"
+      },
+      {
+        "reference": "Numbers 24:17",
+        "original": "Num. 24:17"
+      },
+      {
+        "reference": "Psalms 45:6",
+        "original": "Ps. 45:6"
+      },
+      {
+        "reference": "Isaiah 14:5",
+        "original": "Isa. 14:5"
+      },
+      {
+        "reference": "Leviticus 27:32",
+        "original": "Leviticus 27:32"
+      },
+      {
+        "reference": "Micah 7:14",
+        "original": "Micah 7:14"
+      },
+      {
+        "reference": "Esther 4:11",
+        "original": "Esther 4:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "schism": {
+    "name": "Cisma",
+    "slug": "schism",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma separação, uma alienação que causa divisões entre os cristãos, que deveriam estar unidos (1 Cor. 12:25)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Corinthians 12:25",
+        "original": "1 Cor. 12:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "scythian": {
+    "name": "cita",
+    "slug": "scythian",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os citas eram compostos por “todas as tribos pastorais que habitavam ao norte do Mar Negro e do Mar Cáspio, e estavam espalhadas por longas distâncias em direção ao leste. Desse vasto território, pouco se sabia na antiguidade. Seu representante moderno é a Rússia, que, em grande parte, abrange os mesmos territórios.” Eram descendentes de Jafé (Gênesis 9:27). Parece que, na época apostólica, alguns membros desse povo abraçaram o cristianismo (Colossenses 3:11)."
+      },
+      {
+        "source": "SMI",
+        "text": "aparece em (Colossenses 3:11) como um termo genérico para designar pessoas rudes, ignorantes e degradadas. O nome frequentemente abrangia todas as tribos nômades, que habitavam principalmente ao norte do Mar Negro e do Mar Cáspio, estendendo-se daí indefinidamente para o interior da Ásia, e eram consideradas pelos antigos como extremamente atrasadas em termos de inteligência e civilização."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:27",
+        "original": "Gen. 9:27"
+      },
+      {
+        "reference": "Colossians 3:11",
+        "original": "Col. 3:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sem": {
+    "name": "Como",
+    "slug": "sem",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Sem, o patriarca. (Lucas 3:36)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:36",
+        "original": "Luke 3:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sethur": {
+    "name": "Configuração",
+    "slug": "sethur",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hidden, um dos espiões enviados para explorar a Terra Prometida. Ele pertencia à tribo de Aser (Nm 13,13)."
+      },
+      {
+        "source": "SMI",
+        "text": "(oculto), o espião aserita, filho de Miguel. (Números 13:13) (1490 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:13",
+        "original": "Num. 13:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sharai": {
+    "name": "Condições",
+    "slug": "sharai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(libertador), um dos filhos de Bani. (Esdras 10:40) (457 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 10:40",
+        "original": "Ezra 10:40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sharuhen": {
+    "name": "Condições",
+    "slug": "sharuhen",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(refúgio da graça), uma cidade mencionada em (Josué 19:6) apenas entre as que se encontravam em Jada, na tribo de Simeão. É identificada com Sheriah, uma grande ruína na região sul, a noroeste de Berseba."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:6",
+        "original": "Joshua 19:6"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sheep-fold": {
+    "name": "Curral de ovelhas",
+    "slug": "sheep-fold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um recinto bem cercado para a proteção das ovelhas reunidas em seu interior (Nm 32,24; 1 Cr 17,7; Sl 50,9; 78,70). Em João 10:16, a Versão Autorizada traduz como “curral” duas palavras gregas distintas, aule e poimne, sendo que a última significa propriamente um “rebanho” e é traduzida dessa forma na Versão Revisada. (Veja também Mt 26:31; Lc 2:8; 1 Co 9:7.) (Veja CURRAL.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 32:24",
+        "original": "Num. 32:24"
+      },
+      {
+        "reference": "1 Chronicles 17:7",
+        "original": "1 Chr. 17:7"
+      },
+      {
+        "reference": "Psalms 50:9",
+        "original": "Ps. 50:9"
+      },
+      {
+        "reference": "Psalms 78:70",
+        "original": "Ps 78:70"
+      },
+      {
+        "reference": "John 10:16",
+        "original": "John 10:16"
+      },
+      {
+        "reference": "Matthew 26:31",
+        "original": "Matt. 26:31"
+      },
+      {
+        "reference": "Luke 2:8",
+        "original": "Luke 2:8"
+      },
+      {
+        "reference": "1 Corinthians 9:7",
+        "original": "1 Cor. 9:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "shupham": {
+    "name": "Cala a boca",
+    "slug": "shupham",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Os espiões]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "sinaiticus-codex": {
+    "name": "Códice Sinaítico",
+    "slug": "sinaiticus-codex",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Normalmente designado pela primeira letra do alfabeto hebraico, é um dos mais valiosos manuscritos antigos do Novo Testamento grego. Por ocasião de sua terceira visita ao convento de Santa Catarina, no Monte Sinai, em 1859, foi descoberto pelo Dr. Tischendorf. Em uma visita anterior, em 1844, ele havia obtido quarenta e três folhas de pergaminho da LXX, que depositou na biblioteca da Universidade de Leipzig, sob o título de Codex Frederico-Augustanus, em homenagem ao seu patrono real, o rei da Saxônia. No ano em questão (1859), o imperador da Rússia o enviou para prosseguir sua busca por manuscritos, dos quais ele estava convencido de que ainda poderiam ser encontrados no convento do Sinai. A história de como ele encontrou o manuscrito do Novo Testamento tem todo o interesse de um romance. Ele chegou ao convento em 31 de janeiro; mas suas investigações pareciam infrutíferas. Em 4 de fevereiro, ele já havia decidido voltar para casa sem ter alcançado seu objetivo. “Naquele dia, enquanto caminhava com o provisor do convento, ele falou com muito pesar sobre seu insucesso. Ao retornarem do passeio, Tischendorf acompanhou o monge até seu quarto e, ali, o monge lhe mostrou o que chamou de uma cópia da LXX, que ele, o irmão espiritual, possuía. O manuscrito estava embrulhado em um pedaço de pano e, ao ser desenrolado, para surpresa e alegria do crítico, revelou-se exatamente o documento que ele já havia perdido toda a esperança de ver. Seu objetivo era completar a LXX fragmentária de 1844, que ele havia declarado ser o mais antigo de todos os códices gregos em pergaminho que ainda existem; mas ele encontrou não apenas isso, mas também uma cópia do Novo Testamento grego anexada, da mesma época e perfeitamente completa, sem faltar uma única página ou parágrafo.” Esse precioso fragmento, após algumas negociações, passou a seu domínio, e ele o entregou ao imperador Alexandre, que reconheceu plenamente sua importância e mandou que fosse publicado o mais fielmente possível em fac-símile, de modo a reproduzir corretamente a caligrafia antiga. O códice completo consiste em 346 folios e meio. Destes, 199 pertencem ao Antigo Testamento e 147 e meio ao Novo, juntamente com dois documentos antigos chamados de Epístola de Barnabé e O Pastor de Hermas. Os livros do Novo Testamento são os seguintes: os quatro Evangelhos, as epístolas de Paulo, os Atos dos Apóstolos, as Epístolas Católicas e o Apocalipse de João. Tischendorf demonstrou que este códice foi escrito no século IV e, portanto, tem aproximadamente a mesma idade que o Códice Vaticano; mas, enquanto este último carece da maior parte de Mateus e de várias folhas espalhadas aqui e ali, o Sinaítico é a única cópia do Novo Testamento em caracteres unciais que se encontra completa. Portanto, trata-se da mais antiga cópia manuscrita existente do Novo Testamento. Tanto o Códice Vaticano quanto o Sinaítico foram provavelmente escritos no Egito. (Ver VATICANUS.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "sirah": {
+    "name": "Cabeça",
+    "slug": "sirah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Retirando-se, um poço de onde o mensageiro de Joabe trouxe de volta Abner (2 Sm 3,26). Hoje é chamado de ‘Ain Sarah e está situado a cerca de uma milha de Hebrom, na estrada que leva ao norte."
+      },
+      {
+        "source": "SMI",
+        "text": "(a curva), O poço de, de onde Abner foi chamado de volta por Joabe para encontrar a morte em Hebrom. (2 Samuel 3:26) apenas. Aparentemente, ficava na estrada do norte, vinda de Hebrom. Há uma nascente e um reservatório no lado oeste da antiga estrada do norte, a cerca de uma milha de Hebrom, que se chama Ain Sara."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 3:26",
+        "original": "2 Sam. 3:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "skull-the-place-of-a": {
+    "name": "Crânio, O lugar de um",
+    "slug": "skull-the-place-of-a",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Veja GÓLGOTA."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "snail": {
+    "name": "Caracol",
+    "slug": "snail",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. homit, entre os répteis impuros (Lv 11,30). Provavelmente tratava-se do lagarto-da-areia, do qual existem muitas espécies no deserto da Judéia e na Península do Sinai. (2.) Hebr. shablul (Salmos 58:8), o caracol ou lesma propriamente dito. Tristram explica as alusões desta passagem com uma referência ao calor e à seca, que fazem com que a umidade do caracol se evapore. “Encontramos”, diz ele, “em todas as partes da Terra Santa miríades de conchas de caracol em fendas, ainda aderidas à superfície da rocha pela exsudação calcária ao redor de sua abertura, mas o animal está totalmente encolhido e consumido, ‘derretido’”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:30",
+        "original": "Lev. 11:30"
+      },
+      {
+        "reference": "Psalms 58:8",
+        "original": "Ps. 58:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "snare": {
+    "name": "Corda",
+    "slug": "snare",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A expressão (Amós 3:5), “Alguém tiraria uma armadilha da terra?”, etc. (Versão Autorizada), deveria ser, como na Versão Revisada, “Uma armadilha brotaria do solo?”, etc. (Ver GIN.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Amos 3:5",
+        "original": "Amos 3:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "solomon-song-of": {
+    "name": "Cântico de Salomão",
+    "slug": "solomon-song-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Também chamado, segundo a Vulgata, de “Cânticos”. É o “cântico dos cânticos” (1:1), por ser o mais belo e precioso de seu gênero; o cântico mais nobre, “das Hohelied”, como Lutero o denomina. A autoria salomônica deste livro já foi questionada, mas evidências, tanto internas quanto externas, confirmam de maneira razoável a visão tradicional de que ele é fruto da pena de Salomão. Trata-se de um poema alegórico que expõe o amor mútuo entre Cristo e a Igreja, sob o símbolo do noivo e da noiva. (Compare Mt 9,15; Jo 3,29; Ef 5,23, 27, 29; Ap 19,7-9; 21,2, 9; 22,17. Compare também Salmos 45; Isaías 54:4-6; 62:4, 5; Jeremias 2:2; 3:1, 20; Ezequiel 16; Oséias 2:16, 19, 20.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 9:15",
+        "original": "Matt. 9:15"
+      },
+      {
+        "reference": "John 3:29",
+        "original": "John 3:29"
+      },
+      {
+        "reference": "Ephesians 5:23",
+        "original": "Eph. 5:23"
+      },
+      {
+        "reference": "Ephesians 5:27",
+        "original": "Eph. 5:27"
+      },
+      {
+        "reference": "Ephesians 5:29",
+        "original": "Eph. 5:29"
+      },
+      {
+        "reference": "Revelation 19:7-9",
+        "original": "Rev. 19:7-9"
+      },
+      {
+        "reference": "Revelation 21:2",
+        "original": "Rev 21:2"
+      },
+      {
+        "reference": "Revelation 21:9",
+        "original": "Rev 21:9"
+      },
+      {
+        "reference": "Revelation 22:17",
+        "original": "Rev 22:17"
+      },
+      {
+        "reference": "Psalms 45",
+        "original": "Ps. 45"
+      },
+      {
+        "reference": "Isaiah 54:4-6",
+        "original": "Isa. 54:4-6"
+      },
+      {
+        "reference": "Isaiah 62:4",
+        "original": "Isa 62:4"
+      },
+      {
+        "reference": "Isaiah 62:5",
+        "original": "Isa 62:5"
+      },
+      {
+        "reference": "Jeremiah 2:2",
+        "original": "Jer. 2:2"
+      },
+      {
+        "reference": "Jeremiah 3:1",
+        "original": "Jer 3:1"
+      },
+      {
+        "reference": "Jeremiah 3:20",
+        "original": "Jer 3:20"
+      },
+      {
+        "reference": "Ezekiel 16",
+        "original": "Ezek. 16"
+      },
+      {
+        "reference": "Hosea 2:16",
+        "original": "Hos. 2:16"
+      },
+      {
+        "reference": "Hosea 2:19",
+        "original": "Hos. 2:19"
+      },
+      {
+        "reference": "Hosea 2:20",
+        "original": "Hos. 2:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "solomons-song": {
+    "name": "Cântico de Salomão",
+    "slug": "solomons-song",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Canções de Louvor]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "spouse": {
+    "name": "Cônjuge",
+    "slug": "spouse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Cânt. 4:8-12; Os. 4:13, 14) pode se referir tanto ao marido quanto à esposa, mas nas Escrituras refere-se apenas a esta última."
+      },
+      {
+        "source": "SMI",
+        "text": "[Casamento]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 4:8-12",
+        "original": "Cant. 4:8-12"
+      },
+      {
+        "reference": "Hosea 4:13",
+        "original": "Hos. 4:13"
+      },
+      {
+        "reference": "Hosea 4:14",
+        "original": "Hos. 4:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "stachys": {
+    "name": "Cardo-pé-de-urso",
+    "slug": "stachys",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Spike; uma espiga de milho, um convertido em Roma a quem Paulo saúda (Rm 16,9)."
+      },
+      {
+        "source": "SMI",
+        "text": "um cristão de Roma, saudado por São Paulo na Epístola aos Romanos. (Romanos 16:9) (56 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:9",
+        "original": "Rom. 16:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "stork": {
+    "name": "Cegonha",
+    "slug": "stork",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Do hebraico “hasidah”, que significa “bondade”, indicando assim o caráter da ave, que se destaca pelo carinho que demonstra por seus filhotes. Ela consta da lista de aves cujo consumo é proibido pela lei levítica (Lv 11,19; Dt 14,18). É semelhante ao grou, mas de tamanho maior. Encontram-se duas espécies na Palestina: a branca, que se espalha em casais por todo o país; e a preta, que vive em áreas pantanosas e em grandes bandos. Elas migram para a Palestina periodicamente (por volta do dia 22 de março). Jeremias faz alusão a isso (Jer. 8:7). Na época determinada, elas retornam com sagacidade infalível aos seus antigos refúgios e reocupam seus antigos ninhos. “Há um relato bem autenticado sobre a devoção de uma cegonha que, durante o incêndio da cidade de Delft, após repetidas e infrutíferas tentativas de levar seus filhotes para longe, preferiu permanecer e perecer com eles a abandoná-los à própria sorte. Não à toa que os romanos a chamavam de ‘pia avis’!” Em Jó 39:13 (A.V.), em vez da expressão “ou asas e penas para a avestruz” (nota marginal: “as penas da cegonha e da avestruz”), a Versão Revisada apresenta “são suas asas e penas bondosas” (nota marginal: em vez de “bondosas”, diz “como as da cegonha”). O objetivo desse versículo um tanto obscuro parece ser apontar um contraste entre a cegonha, que se destaca por seu afeto pelos filhotes, e a avestruz, que se destaca por sua indiferença. Zacarias (5:9) faz alusão à beleza e ao poder das asas da cegonha."
+      },
+      {
+        "source": "SMI",
+        "text": "(Hebraico: chasidah), uma grande ave migratória da família das garças. É uma das maiores e mais chamativas aves terrestres, com quase quatro pés de altura; o preto azeviche de suas asas e seu bico e patas vermelhos brilhantes contrastam lindamente com o branco puro de sua plumagem. (Zacarias 6:9) Nas proximidades do homem, ela devora avidamente todos os tipos de restos e lixo. Por essa razão, sem dúvida, foi incluída na lista de aves impuras pela Lei Mosaica. (Levítico 11:19; 14:18) A área de distribuição da cegonha-branca abrange toda a Europa, exceto as Ilhas Britânicas, onde hoje é uma visitante rara, e se estende pelo norte da África e pela Ásia, pelo menos até a Birmânia. A cegonha-preta (Ciconia nigra, Linn.), embora menos abundante em alguns locais, tem uma distribuição quase tão ampla quanto a da cegonha-branca, mas sua área de distribuição se estende mais para o leste do que a de sua congênere. Ambas as espécies são muito numerosas na Palestina. Enquanto a cegonha-preta nunca é encontrada perto de edifícios, preferindo locais pantanosos nas florestas e reproduzindo-se no topo das árvores mais altas, a cegonha-branca se apega ao homem e, pelo serviço que presta na destruição de répteis e na remoção de resíduos, tem sido recompensada desde os tempos mais remotos com proteção e reverência, A derivação de chasidah (de chesed, “bondade”) aponta para o apego paternal e filial, do qual a cegonha parece ter sido um símbolo entre os hebreus, não menos do que entre os gregos e romanos. Acreditava-se que os filhotes retribuíam os cuidados dos pais mantendo-se ligados a eles por toda a vida e cuidando deles na velhice. O fato de o vínculo parental da cegonha ser muito forte já foi comprovado em muitas ocasiões. Poucas aves migratórias são mais pontuais quanto à época de seu retorno do que a cegonha-branca. A cegonha não emite nenhum canto, e o único som que produz é aquele causado pelo estalo repentino de suas longas mandíbulas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:19",
+        "original": "Lev. 11:19"
+      },
+      {
+        "reference": "Deuteronomy 14:18",
+        "original": "Deut. 14:18"
+      },
+      {
+        "reference": "Jeremiah 8:7",
+        "original": "Jer. 8:7"
+      },
+      {
+        "reference": "Job 39:13",
+        "original": "Job 39:13"
+      },
+      {
+        "reference": "Zechariah 6:9",
+        "original": "Zechariah 6:9"
+      },
+      {
+        "reference": "Leviticus 14:18",
+        "original": "Leviticus 14:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "susi": {
+    "name": "Chave",
+    "slug": "susi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O pai de Gaddi, que foi um dos doze espiões (Nm 13,11)."
+      },
+      {
+        "source": "SMI",
+        "text": "o pai de Gaddi, o espião de Manassés. (Números 13:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:11",
+        "original": "Num. 13:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "swan": {
+    "name": "Cisne",
+    "slug": "swan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionada na lista de aves impuras (Lv 11,18; Dt 14,16), é encontrada ocasionalmente no rio Jordão e no Mar da Galiléia."
+      },
+      {
+        "source": "SMI",
+        "text": "(hebraico: tinshemeth), assim traduzido pela Versão Autorizada em (Levítico 11:18; 14:16), onde aparece na lista de aves impuras, nenhuma das traduções “porphyrio” (galinha-d’água roxa) e “íbis” é mais provável. Nenhuma dessas aves aparece em outra parte do catálogo; ambas seriam familiares aos residentes do Egito, e o original parece indicar alguma ave aquática. A galinha-d’água-púrpura é parente do nosso codornizão-do-milho e da galinha-d’água, e é a maior e mais bela da família Rallidae. Ela frequenta pântanos e juncos nas margens dos rios em todos os países banhados pelo Mediterrâneo e é abundante no Baixo Egito."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:18",
+        "original": "Lev. 11:18"
+      },
+      {
+        "reference": "Deuteronomy 14:16",
+        "original": "Deut. 14:16"
+      },
+      {
+        "reference": "Leviticus 14:16",
+        "original": "Leviticus 14:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "tabbath": {
+    "name": "Certamente",
+    "slug": "tabbath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Famous, uma cidade da tribo de Efraim (Juízes 7:22), ao sul de Bet-Seã, perto do Jordão."
+      },
+      {
+        "source": "SMI",
+        "text": "(famoso), um local mencionado apenas em (Juízes 7:25) ao descrever a fuga do exército midianita após o ataque noturno de Gideão; (provavelmente a atual Tubukhat-Fahil, um penhasco natural impressionante de 600 pés de altura, com um topo horizontal extenso, erguido contra a face ocidental das montanhas a leste do Jordão e descendo com uma face íngreme até o rio.—Robinson, Bib. Res.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:22",
+        "original": "Judg. 7:22"
+      },
+      {
+        "reference": "Judges 7:25",
+        "original": "Judges 7:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "tappush": {
+    "name": "Cala a boca",
+    "slug": "tappush",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a cidade da maçã)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:34",
+        "original": "Joshua 15:34"
+      },
+      {
+        "reference": "Joshua 16:8",
+        "original": "Joshua 16:8"
+      },
+      {
+        "reference": "Joshua 17:8",
+        "original": "Joshua 17:8"
+      },
+      {
+        "reference": "Joshua 17:7",
+        "original": "Joshua 17:7"
+      },
+      {
+        "reference": "1 Chronicles 2:43",
+        "original": "1 Chronicles 2:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "temeni": {
+    "name": "Coroa da cabeça",
+    "slug": "temeni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um dos filhos de Ashur, pai de Tecoá (1 Crônicas 4:6)."
+      },
+      {
+        "source": "SMI",
+        "text": "filho de Ashur, pai de Tecoá, de sua esposa Naará. (1 Crônicas 4:6) (cerca de 1450 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:6",
+        "original": "1 Chr. 4:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "thistle": {
+    "name": "Cardo",
+    "slug": "thistle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Hebr. hoah (2 Reis 14:9; Jó 31:40). Em Jó 41:2, a palavra hebraica é traduzida como “espinho”, mas na Versão Revisada como “gancho”. Também é traduzida como “espinho” em 2 Crônicas 33:11; Provérbios 26:9; Cântico dos Cânticos 2:2; e como “espinheiros” em Isaías 34:13. Supõe-se que seja uma variedade da ameixeira silvestre, mas por alguns é considerada o cardo comum, do qual há muitas variedades na Palestina. (2.) Heb. dardar, que significa “uma planta que cresce exuberantemente” (Gênesis 3:18; Oséias 10:8); grego tribolos, “uma ponta tripla” (Mateus 7:16; Hebreus 6:8, “espinheiro”, R.V. “cardo”). Provavelmente tratava-se do cardo-estrela, chamado pelos botânicos de Centaurea calcitropa, ou “caltrops”, uma erva daninha comum nos campos de milho. (Veja ESPINHOS.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Espinhos E CARDOS]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 14:9",
+        "original": "2 Kings 14:9"
+      },
+      {
+        "reference": "Job 31:40",
+        "original": "Job 31:40"
+      },
+      {
+        "reference": "Job 41:2",
+        "original": "Job 41:2"
+      },
+      {
+        "reference": "2 Chronicles 33:11",
+        "original": "2 Chr. 33:11"
+      },
+      {
+        "reference": "Proverbs 26:9",
+        "original": "Prov. 26:9"
+      },
+      {
+        "reference": "Song of Solomon 2:2",
+        "original": "Cant. 2:2"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa. 34:13"
+      },
+      {
+        "reference": "Genesis 3:18",
+        "original": "Gen. 3:18"
+      },
+      {
+        "reference": "Hosea 10:8",
+        "original": "Hos. 10:8"
+      },
+      {
+        "reference": "Matthew 7:16",
+        "original": "Matt. 7:16"
+      },
+      {
+        "reference": "Hebrews 6:8",
+        "original": "Heb. 6:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "tithe": {
+    "name": "Casas",
+    "slug": "tithe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um décimo dos frutos da terra, consagrado e separado para fins especiais. A dedicação de um décimo a Deus já era reconhecida como um dever antes da época de Moisés. Abraão pagou o dízimo a Melquisedeque (Gênesis 14:20; Hebreus 7:6); e Jacó fez um voto ao Senhor, dizendo: “De tudo o que tu me deres, certamente te darei o dízimo.” A primeira lei mosaica sobre esse assunto está registrada em Levítico 27:30-32. Legislações posteriores regulamentaram o destino dos dízimos (Números 18:21-24, 26-28; Deuteronômio 12:5, 6, 11, 17; 14:22, 23). O pagamento dos dízimos era uma parte importante do culto religioso judaico. Nos dias de Ezequias, um dos primeiros resultados da reforma religiosa foi o entusiasmo com que o povo trazia seus dízimos (2 Crônicas 31:5, 6). A negligência desse dever foi severamente repreendida pelos profetas (Amós 4:4; Malaquias 3:8-10). Não se pode afirmar que a lei do dízimo do Antigo Testamento seja vinculativa para a Igreja Cristã; no entanto, o princípio dessa lei permanece e está incorporado no evangelho (1 Coríntios 9:13, 14); e se, como de fato ocorre, o motivo que deveria levar à generosidade em prol da religião e do serviço a Deus for maior agora do que nos tempos do Antigo Testamento, então os cristãos deveriam ir além dos antigos hebreus ao consagrar tanto a si mesmos quanto seus bens a Deus. A lei levítica exigia que todo judeu pagasse três dízimos de seus bens: (1) um dízimo para os levitas; (2) um para o uso do templo e das grandes festas; e (3) um para os pobres da terra."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:20",
+        "original": "Gen. 14:20"
+      },
+      {
+        "reference": "Hebrews 7:6",
+        "original": "Heb. 7:6"
+      },
+      {
+        "reference": "Leviticus 27:30-32",
+        "original": "Lev. 27:30-32"
+      },
+      {
+        "reference": "Numbers 18:21-24",
+        "original": "Num. 18:21-24"
+      },
+      {
+        "reference": "Numbers 18:26-28",
+        "original": "Num 18:26-28"
+      },
+      {
+        "reference": "Deuteronomy 12:5",
+        "original": "Deut. 12:5"
+      },
+      {
+        "reference": "Deuteronomy 12:6",
+        "original": "Deut. 12:6"
+      },
+      {
+        "reference": "Deuteronomy 12:11",
+        "original": "Deut. 12:11"
+      },
+      {
+        "reference": "Deuteronomy 12:17",
+        "original": "Deut. 12:17"
+      },
+      {
+        "reference": "2 Chronicles 31:5",
+        "original": "2 Chr. 31:5"
+      },
+      {
+        "reference": "2 Chronicles 31:6",
+        "original": "2 Chr. 31:6"
+      },
+      {
+        "reference": "Amos 4:4",
+        "original": "Amos 4:4"
+      },
+      {
+        "reference": "Malachi 3:8-10",
+        "original": "Mal. 3:8-10"
+      },
+      {
+        "reference": "1 Corinthians 9:13",
+        "original": "1 Cor. 9:13"
+      },
+      {
+        "reference": "1 Corinthians 9:14",
+        "original": "1 Cor. 9:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "treasure-cities": {
+    "name": "Cidades do tesouro",
+    "slug": "treasure-cities",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cidades-armazéns que os israelitas construíram para os egípcios (Êxodo 1:11). (Ver PITHOM.) As cidades onde eram guardados os tesouros dos reis de Judá recebiam essa denominação (1 Crônicas 27:25)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 1:11",
+        "original": "Ex. 1:11"
+      },
+      {
+        "reference": "1 Chronicles 27:25",
+        "original": "1 Chr. 27:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "treasure-houses": {
+    "name": "Câmaras do tesouro",
+    "slug": "treasure-houses",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "As casas ou depósitos construídos para guardar tesouros e objetos de valor de qualquer tipo (Esdras 5:17; 7:20; Neemias 10:38; Daniel 1:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 5:17",
+        "original": "Ezra 5:17"
+      },
+      {
+        "reference": "Ezra 7:20",
+        "original": "Ezra 7:20"
+      },
+      {
+        "reference": "Nehemiah 10:38",
+        "original": "Neh. 10:38"
+      },
+      {
+        "reference": "Daniel 1:2",
+        "original": "Dan. 1:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "treasurecities": {
+    "name": "Cidades-tesouro",
+    "slug": "treasurecities",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Os reis de Judá tinham guardiões de seus tesouros tanto na cidade quanto no campo (1 Crônicas 27:25), e os locais onde esses depósitos eram mantidos eram chamados de “cidades-tesouro”, e os edifícios, de “câmaras do tesouro”. O Faraó obrigou os hebreus a construir para ele cidades do tesouro. (Êxodo 1:11) — McClintock e Strong. [Pithom]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:25",
+        "original": "1 Chronicles 27:25"
+      },
+      {
+        "reference": "Exodus 1:11",
+        "original": "Exodus 1:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "ummah": {
+    "name": "comunidade",
+    "slug": "ummah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vicinity, uma cidade da tribo de Aser (Josué 19:30)."
+      },
+      {
+        "source": "SMI",
+        "text": "(União), uma das cidades da porção de Aser. (Josué 10:30) apenas. Provavelmente ’Alma, nas terras altas do litoral, a cerca de cinco milhas a leste-nordeste de Ras en-Nakhura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:30",
+        "original": "Josh. 19:30"
+      },
+      {
+        "reference": "Joshua 10:30",
+        "original": "Joshua 10:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "unclean-meats": {
+    "name": "Carnes impuras",
+    "slug": "unclean-meats",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Eram animais estrangulados, ou que morreram por si mesmos ou às mãos de feras ou aves de rapina; qualquer animal que não tivesse casco fendido e não ruminasse; e certos outros animais menores classificados como “répteis”; certas classes de aves mencionadas em Levítico 11 e Deuteronômio 14 — vinte ou vinte e uma no total; qualquer coisa nas águas que não tivesse barbatanas e escamas; qualquer inseto alado que, além de quatro patas, não tivesse as duas patas traseiras para saltar; além disso, coisas oferecidas em sacrifício aos ídolos; e todo o sangue ou qualquer coisa que o contivesse (exceto, talvez, o sangue de peixes, como parece deduzir-se do fato de que apenas o de animais e aves ser proibido), (Levítico 7:26) e, portanto, a carne cortada do animal vivo; assim como toda a gordura, pelo menos aquela que se encontrava em massas entre os intestinos e, provavelmente, toda aquela que fosse discernível e separável da carne. (Levítico 3:14-17; 7:23) O consumo de sangue era proibido até mesmo para “o estrangeiro que peregrina entre vós”. (Levítico 17:10; 12:14) No que diz respeito ao sangue, a proibição remonta, de fato, à declaração feita a Noé contra “a carne com a sua vida, que é o seu sangue” em (Gênesis 9:4), a qual talvez tenha sido considerada por Moisés como ainda vinculativa para todos os descendentes de Noé. Vale ressaltar que o efeito prático da regra estabelecida é excluir todos os carnívoros entre os quadrúpedes e, na medida em que podemos interpretar a nomenclatura, as aves de rapina entre as aves. Provavelmente foram excluídos por não terem aversão a carcaças humanas e, na maioria dos países orientais, atuarem como “servidores” do campo de batalha e da forca. Entre os peixes, aqueles que foram permitidos incluem, sem dúvida, as variedades mais saudáveis, exceto pela exclusão da ostra. Na prática, a lei deixou, entre as carnes permitidas, uma ampla variedade. Como os orientais têm mentes sensíveis ao ensino por meio de símbolos, não há dúvida de que tais distinções cerimoniais não apenas tendiam a manter judeus e gentios separados (e, assim, impediam que os judeus fossem contaminados pela idolatria dos gentios), mas serviam como um lembrete perpétuo para os primeiros de que eles e os segundos não estavam no mesmo nível perante Deus. Portanto, quando essa cerimônia foi alterada, constatamos que esse foi justamente o símbolo escolhido para instruir São Pedro sobre a verdade de que Deus não faz “distinção de pessoas”. Resta mencionar o aspecto sanitário da questão. Diz-se que os suínos são particularmente propensos a doenças em seus próprios corpos. Isso provavelmente significa que eles são mais facilmente levados, do que outras criaturas, à alimentação imprópria que as causa. No que diz respeito aos animais permitidos para alimentação, comparando-os com os proibidos, não há dúvida de para que lado pende a balança da salubridade."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 14",
+        "original": "Deuteronomy 14"
+      },
+      {
+        "reference": "Leviticus 7:26",
+        "original": "Leviticus 7:26"
+      },
+      {
+        "reference": "Leviticus 3:14-17",
+        "original": "Leviticus 3:14-17"
+      },
+      {
+        "reference": "Leviticus 7:23",
+        "original": "Leviticus 7:23"
+      },
+      {
+        "reference": "Leviticus 17:10",
+        "original": "Leviticus 17:10"
+      },
+      {
+        "reference": "Leviticus 12:14",
+        "original": "Leviticus 12:14"
+      },
+      {
+        "reference": "Genesis 9:4",
+        "original": "Genesis 9:4"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "vaticanus-codex": {
+    "name": "Códice Vaticano",
+    "slug": "vaticanus-codex",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Diz-se que é o mais antigo manuscrito em pergaminho ainda existente. Ele e o Codex Sinaiticus são os dois manuscritos onciais mais antigos. Provavelmente foram escritos no século IV. O Vaticanus foi depositado na Biblioteca do Vaticano, em Roma, pelo Papa Nicolau V, em 1448, sendo desconhecida sua história anterior. Originalmente, consistia, muito provavelmente, em uma cópia completa da Septuaginta e do Novo Testamento. Atualmente, está incompleto e é composto por 759 folhas finas e delicadas, das quais 142 contêm o Novo Testamento. Assim como o Sinaítico, ele é de grande valor para os estudiosos da Bíblia, auxiliando na elaboração de um texto correto do Novo Testamento. É referido pelos críticos como Códice B."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "wedding": {
+    "name": "Casamento",
+    "slug": "wedding",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Casamento]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "yoke-fellow": {
+    "name": "Companheiro de jugo",
+    "slug": "yoke-fellow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Fil. 4:3), um dos companheiros de trabalho do apóstolo. Alguns supõem que se trate de Epafrodito. Wyckliffe traduz a frase como “the german felowe”, ou seja, “tu, companheiro genuíno”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Philippians 4:3",
+        "original": "Phil. 4:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "zalaph": {
+    "name": "Curar",
+    "slug": "zalaph",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(ferido) pai de Hanun, que ajudou na reconstrução da muralha da cidade. (Neemias 3:30)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:30",
+        "original": "Nehemiah 3:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "zareth-shahar": {
+    "name": "Cidade de Zareth",
+    "slug": "zareth-shahar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O esplendor do amanhecer, uma cidade “no monte do vale” (Josué 13:19). Ela é identificada com as ruínas de Zara, perto da foz do Wadi Zerka Main, na margem oriental do Mar Morto, a cerca de 3 milhas ao sul de Calirrhoe. Dessa cidade, pouco resta. “Algumas colunas basálticas quebradas e pedaços de muro a cerca de 200 jardas da costa, além de um forte em ruínas um pouco mais próximo do mar, mais ou menos no meio da linha costeira da planície, são tudo o que restou” (Land of Moab, de Tristram)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 13:19",
+        "original": "Josh. 13:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "zarethshahar": {
+    "name": "Cidade de Zareth",
+    "slug": "zarethshahar",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(esplendor do amanhecer), um lugar mencionado apenas em (Josué 13:19) no catálogo das cidades atribuídas à tribo de Rúben."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 13:19",
+        "original": "Joshua 13:19"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "raven": {
+    "name": "Corvo",
+    "slug": "raven",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. 'orebh, de uma raiz que significa “ser preto” (comp. Cânt. 5:11); mencionado pela primeira vez como sendo “enviado” por Noé da arca (Gn. 8:7). “Todo corvo conforme a sua espécie” era proibido como alimento (Lv. 11:15; Dt. 14:14). Os corvos alimentam-se principalmente de carniça e, portanto, seu alimento é obtido com dificuldade (Jó 38:41; Sal. 147:9). Quando atacam cabritos, cordeiros ou animais fracos, diz-se que primeiro arrancam os olhos de suas vítimas (Pv. 30:17). Quando Elias estava escondido junto ao ribeiro de Querite, Deus ordenou aos corvos que lhe trouxessem “pão e carne pela manhã, e pão e carne à tarde” (1 Reis 17:3-6). (Ver ELIAS.) Existem oito espécies de corvos na Palestina, e eles são muito numerosos em toda aquela terra."
+      },
+      {
+        "source": "SMI",
+        "text": "(preto). O termo hebraico oreb é aplicado às várias espécies da família dos corvos, um número das quais é encontrado na Palestina. O corvo pertence à ordem Insessores, família Corvidae. (Assemelha-se à gralha, mas é maior, pesando cerca de um quilo e meio; sua cor preta é mais iridescente e é dotado de maior sagacidade. “Há algo de estranho e astuto na expressão do rosto do corvo, uma união de astúcia e malignidade que pode ter contribuído para lhe dar, entre nações amplamente reverenciadas, uma reputação de conhecimento sobrenatural.” Um escritor diz que o cheiro da morte é tão agradável para eles que, ao passar sobre ovelhas e perceber um cheiro de putrefação, gritam e grasnam veementemente. Pode ser que, ao passar sobre uma habitação humana, se surgir um cheiro doentio ou cadavérico, eles o anunciem com seus gritos, e assim surgiu a ideia de que o grasnido de um corvo é o presságio da morte.—ED.) Um corvo foi enviado por Noé da arca. (Gênesis 8:7) Esta ave não era permitida como alimento pela lei mosaica. (Levítico 11:15) Elias foi cuidado por corvos. (1 Reis 17:4,6) Eles são expressamente mencionados como exemplos do amor e bondade protetores de Deus. (Jó 38:41; Lucas 12:24) Os hábitos carnívoros do corvo, e especialmente sua prontidão para atacar os olhos, são mencionados em (Provérbios 30:17). Ao fato de o corvo ser uma ave comum na Palestina, e ao seu hábito de voar inquietamente em busca constante de alimento para satisfazer seu apetite voraz, talvez se possa atribuir a razão de ter sido selecionado por nosso Senhor e pelos escritores inspirados como o objeto especial do cuidado providencial de Deus."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 5:11",
+        "original": "Cant. 5:11"
+      },
+      {
+        "reference": "Genesis 8:7",
+        "original": "Gen. 8:7"
+      },
+      {
+        "reference": "Leviticus 11:15",
+        "original": "Lev. 11:15"
+      },
+      {
+        "reference": "Deuteronomy 14:14",
+        "original": "Deut. 14:14"
+      },
+      {
+        "reference": "Job 38:41",
+        "original": "Job 38:41"
+      },
+      {
+        "reference": "Psalms 147:9",
+        "original": "Ps. 147:9"
+      },
+      {
+        "reference": "Proverbs 30:17",
+        "original": "Prov. 30:17"
+      },
+      {
+        "reference": "1 Kings 17:3-6",
+        "original": "1 Kings 17:3-6"
+      },
+      {
+        "reference": "1 Kings 17:4",
+        "original": "1 Kings 17:4"
+      },
+      {
+        "reference": "1 Kings 17:6",
+        "original": "1 Kings 17:6"
+      },
+      {
+        "reference": "Luke 12:24",
+        "original": "Luke 12:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "reed": {
+    "name": "Caniço",
+    "slug": "reed",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) “Caniços de papiro” (Is 19:7; ARC, “caniços”). Heb. ‘aroth, propriamente erva verde crescendo em lugares pantanosos. (2.) Heb. kaneh (1 Rs 14:15; Jó 40:21; Is 19:6), de onde vem o gr. kanna, uma “cana”, um nome genérico para um caniço de qualquer tipo. O caniço do Egito e da Palestina é o Arundo donax, que cresce até a altura de 12 pés (aprox. 3,6m), seu caule articulado como o bambu, “com uma magnífica panícula de flores no topo, e tão fino e flexível que fica perfeitamente plano sob uma rajada de vento e imediatamente retoma sua posição vertical.” É usado para ilustrar fraqueza (2 Rs 18:21; Ez 29:6), também inconstância ou instabilidade (Mt 11:7; comp. Ef 4:14). Um “caniço trilado” (Is 42:3; Mt 12:20) é um emblema de um crente fraco na graça. Um caniço foi colocado nas mãos de nosso Senhor em zombaria (Mt 27:29); e “tomaram o caniço e batiam-lhe com ele na cabeça” (30). O “caniço” no qual colocaram a esponja cheia de vinagre (Mt 27:48) era, de acordo com João (19:29), um talo de hissopo, que deve ter tido algum comprimento, ou talvez um feixe de ramos de hissopo presos a uma vara com a esponja. (Ver CANA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "Sob este nome podem ser notadas as seguintes palavras hebraicas:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 19:7",
+        "original": "Isa. 19:7"
+      },
+      {
+        "reference": "1 Kings 14:15",
+        "original": "1 Kings 14:15"
+      },
+      {
+        "reference": "Job 40:21",
+        "original": "Job 40:21"
+      },
+      {
+        "reference": "Isaiah 19:6",
+        "original": "Isa. 19:6"
+      },
+      {
+        "reference": "2 Kings 18:21",
+        "original": "2 Kings 18:21"
+      },
+      {
+        "reference": "Ezekiel 29:6",
+        "original": "Ezek. 29:6"
+      },
+      {
+        "reference": "Matthew 11:7",
+        "original": "Matt. 11:7"
+      },
+      {
+        "reference": "Ephesians 4:14",
+        "original": "Eph. 4:14"
+      },
+      {
+        "reference": "Isaiah 42:3",
+        "original": "Isa. 42:3"
+      },
+      {
+        "reference": "Matthew 12:20",
+        "original": "Matt. 12:20"
+      },
+      {
+        "reference": "Matthew 27:29",
+        "original": "Matt. 27:29"
+      },
+      {
+        "reference": "Matthew 27:48",
+        "original": "Matt. 27:48"
+      },
+      {
+        "reference": "Job 40:12",
+        "original": "Job 40:12"
+      },
+      {
+        "reference": "Job 40:16",
+        "original": "Job 40:16"
+      },
+      {
+        "reference": "Isaiah 9:14",
+        "original": "Isaiah 9:14"
+      },
+      {
+        "reference": "Isaiah 58:5",
+        "original": "Isaiah 58:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
   }
 }

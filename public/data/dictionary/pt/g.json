@@ -8291,5 +8291,155 @@
       "SMI"
     ],
     "letter": "g"
+  },
+  "recorder": {
+    "name": "Gravador",
+    "slug": "recorder",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebraico: mazkir, ou seja, “aquele que menciona”, “aquele que recorda”), cargo ocupado pela primeira vez por Jeosafá na corte de Davi (2 Samuel 8:16) e também na corte de Salomão (1 Reis 4:3). O próximo registrador mencionado é Joá, no reinado de Ezequias (2 Reis 18:18, 37; Isaías 36:3, 22). No reinado de Josias, outro indivíduo chamado Joá ocupou esse cargo (2 Crônicas 34:8). O “escrivão” era o chanceler ou vizir do reino. Ele levava todos os assuntos importantes ao conhecimento do rei, “tais como queixas, petições e pedidos de súditos ou estrangeiros”. Ele também redigia documentos para orientação do rei e preparava rascunhos do testamento real para os escribas. Todos os tratados estavam sob sua supervisão; e ele era responsável pelos arquivos ou registros nacionais, aos quais, como historiógrafo real — assim como o mesmo funcionário público na Assíria e no Egito —, acrescentava os anais atuais do reino.”"
+      },
+      {
+        "source": "SMI",
+        "text": "um oficial de alto escalão no Estado judeu, exercendo as funções, não apenas de cronista, mas de chanceler ou presidente do conselho privado. Na corte de Davi, o cronista figura entre os altos oficiais de sua casa. (2 Samuel 8:16; 20:24; 1 Crônicas 18:15) Na corte de Salomão, ele está associado aos três secretários. (1 Reis 4:3) comp. 2 Reis 18:18,37; 2 Crônicas 34:8"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 8:16",
+        "original": "2 Sam. 8:16"
+      },
+      {
+        "reference": "1 Kings 4:3",
+        "original": "1 Kings 4:3"
+      },
+      {
+        "reference": "2 Kings 18:18",
+        "original": "2 Kings 18:18"
+      },
+      {
+        "reference": "2 Kings 18:37",
+        "original": "2 Kings 18:37"
+      },
+      {
+        "reference": "Isaiah 36:3",
+        "original": "Isa. 36:3"
+      },
+      {
+        "reference": "Isaiah 36:22",
+        "original": "Isa. 36:22"
+      },
+      {
+        "reference": "2 Chronicles 34:8",
+        "original": "2 Chr. 34:8"
+      },
+      {
+        "reference": "2 Samuel 20:24",
+        "original": "2 Samuel 20:24"
+      },
+      {
+        "reference": "1 Chronicles 18:15",
+        "original": "1 Chronicles 18:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "rereward": {
+    "name": "Guardião",
+    "slug": "rereward",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Josué 6:9), as tropas na retaguarda de um exército em marcha, a retaguarda. Essa palavra é uma deformação do francês “arrière-garde”. Durante a marcha pelo deserto, a tribo de Dã formava a retaguarda (Nm 10,25; cf. 1 Sm 29,2; Is 52,12; 58,8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 6:9",
+        "original": "Josh. 6:9"
+      },
+      {
+        "reference": "Numbers 10:25",
+        "original": "Num. 10:25"
+      },
+      {
+        "reference": "1 Samuel 29:2",
+        "original": "1 Sam. 29:2"
+      },
+      {
+        "reference": "Isaiah 52:12",
+        "original": "Isa. 52:12"
+      },
+      {
+        "reference": "Isaiah 58:8",
+        "original": "Isa 58:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "shiza": {
+    "name": "Grito",
+    "slug": "shiza",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(esplendor), um rubenita, pai de Adina, (1 Crônicas 11:42) um dos guerreiros de Davi. (1043 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:42",
+        "original": "1 Chronicles 11:42"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "shomer": {
+    "name": "Guardião",
+    "slug": "shomer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vigia. (1.) A mãe de Jeozabade, que assassinou Joás (2 Reis 12:21); também chamada Shimrith, uma moabita (2 Crônicas 24:26). (2.) Um homem da tribo de Aser (1 Crônicas 7:32); também chamado de Shamer (34)."
+      },
+      {
+        "source": "SMI",
+        "text": "(goleiro)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 12:21",
+        "original": "2 Kings 12:21"
+      },
+      {
+        "reference": "2 Chronicles 24:26",
+        "original": "2 Chr. 24:26"
+      },
+      {
+        "reference": "1 Chronicles 7:32",
+        "original": "1 Chr. 7:32"
+      },
+      {
+        "reference": "1 Chronicles 7:34",
+        "original": "1 Chronicles 7:34"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

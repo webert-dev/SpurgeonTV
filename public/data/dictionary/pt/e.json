@@ -14386,5 +14386,2897 @@
       "SMI"
     ],
     "letter": "e"
+  },
+  "mirror": {
+    "name": "Espelho",
+    "slug": "mirror",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Êxodo 38:8; Jó 37:18) As mulheres hebraicas, ao saírem do Egito, provavelmente trouxeram consigo espelhos como os que eram usados pelos egípcios, e eram feitos de um metal misto, principalmente cobre, trabalhado com habilidade admirável e suscetível a um brilho intenso. (1 Crônicas 13:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 38:8",
+        "original": "Exodus 38:8"
+      },
+      {
+        "reference": "Job 37:18",
+        "original": "Job 37:18"
+      },
+      {
+        "reference": "1 Chronicles 13:12",
+        "original": "1 Chronicles 13:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "nurse": {
+    "name": "Enfermeira",
+    "slug": "nurse",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Nos tempos antigos, a posição da ama de leite, onde quer que fosse mantida, era uma de muita honra e importância. Ver (Gênesis 24:59; 36:8; 2 Samuel 4:4; 2 Reis 11:2). O mesmo termo é aplicado a um pai ou mãe adotivo, p.ex. (Números 11:12; Rute 4:16; Isaías 49:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:59",
+        "original": "Genesis 24:59"
+      },
+      {
+        "reference": "Genesis 36:8",
+        "original": "Genesis 36:8"
+      },
+      {
+        "reference": "2 Samuel 4:4",
+        "original": "2 Samuel 4:4"
+      },
+      {
+        "reference": "2 Kings 11:2",
+        "original": "2 Kings 11:2"
+      },
+      {
+        "reference": "Numbers 11:12",
+        "original": "Numbers 11:12"
+      },
+      {
+        "reference": "Ruth 4:16",
+        "original": "Ruth 4:16"
+      },
+      {
+        "reference": "Isaiah 49:23",
+        "original": "Isaiah 49:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ouches": {
+    "name": "Encaixes",
+    "slug": "ouches",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma palavra do inglês antigo que denota cavidades ou encaixes nos quais as gemas eram fixadas (Êx 28:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:11",
+        "original": "Ex. 28:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "propitiation": {
+    "name": "Expição",
+    "slug": "propitiation",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aquilo pelo qual Deus se torna propício, ou seja, aquilo que torna coerente com seu caráter e governo o perdão e a bênção ao pecador. A propiciação não conquista o amor de Deus nem o torna amoroso; ela apenas torna coerente que Ele exerça seu amor para com os pecadores. Em Rm 3,25 e Hb 9,5 (A.V., “propiciatório”) é usada a palavra grega hilasterion. É a palavra empregada pelos tradutores da LXX em Êxodo 25:17 e em outros trechos como equivalente ao hebraico kapporeth, que significa “cobertura” e é usada para designar a tampa da arca da aliança (Êxodo 25:21; 30:6). Essa palavra grega (hilasterion) passou a denotar não apenas o propiciatório ou tampa da arca, mas também a propiciação ou reconciliação pelo sangue. No grande dia da expiação, o sumo sacerdote levava o sangue do sacrifício que oferecia por todo o povo para dentro do véu e o aspergia sobre o “propiciatório”, realizando assim a propiciação. Em 1 João 2:2; 4:10, Cristo é chamado de “propiciação pelos nossos pecados”. Aqui é usada uma palavra grega diferente (hilasmos). Cristo é “a propiciação”, porque, ao tornar-se nosso substituto e assumir nossas obrigações, ele expiou nossa culpa, cobrindo-a por meio do castigo vicário que suportou. (Comp. Hb 2:17, onde a expressão “fazer reconciliação” da A.V. é traduzida mais corretamente na R.V. como “fazer propiciação”.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 3:25",
+        "original": "Rom. 3:25"
+      },
+      {
+        "reference": "Hebrews 9:5",
+        "original": "Heb. 9:5"
+      },
+      {
+        "reference": "Exodus 25:17",
+        "original": "Ex. 25:17"
+      },
+      {
+        "reference": "Exodus 25:21",
+        "original": "Ex. 25:21"
+      },
+      {
+        "reference": "Exodus 30:6",
+        "original": "Ex 30:6"
+      },
+      {
+        "reference": "1 John 2:2",
+        "original": "1 John 2:2"
+      },
+      {
+        "reference": "1 John 4:10",
+        "original": "1 John 4:10"
+      },
+      {
+        "reference": "Hebrews 2:17",
+        "original": "Heb. 2:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "raddai": {
+    "name": "Eu me formaria",
+    "slug": "raddai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Trampling), um dos irmãos de Davi, quinto filho de Jessé. (1 Crônicas 2:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:14",
+        "original": "1 Chronicles 2:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ragau": {
+    "name": "Experimento",
+    "slug": "ragau",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um dos antepassados de nosso Senhor, filho de Peleg. (Lucas 3:35) Ele é a mesma pessoa que Reu, filho de Peleg."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:35",
+        "original": "Luke 3:35"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "rehob": {
+    "name": "Expansão",
+    "slug": "rehob",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Rua; praça ampla. (1.) Pai de Hadadezer, rei de Tobá (2 Sm 8:3, 12). (2.) Ne 10:11. (3.) Provavelmente o mesmo que Bet-Rehob (2 Sm 10,6.8; Jz 18,28), um local no norte da Palestina (Nm 13,21). Supõe-se hoje que corresponda ao castelo de Hunin, a sudoeste de Dan, na estrada que vai de Hamate até a Coele-Síria. (4.) Uma cidade de Aser (Josué 19:28), a leste de Sidom. (5.) Outra cidade de Aser (Josué 19:30), que permaneceu sob o domínio dos cananeus (Juízes 1:31)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 8:3",
+        "original": "2 Sam. 8:3"
+      },
+      {
+        "reference": "2 Samuel 8:12",
+        "original": "2 Sam. 8:12"
+      },
+      {
+        "reference": "Nehemiah 10:11",
+        "original": "Neh. 10:11"
+      },
+      {
+        "reference": "2 Samuel 10:6",
+        "original": "2 Sam. 10:6"
+      },
+      {
+        "reference": "2 Samuel 10:8",
+        "original": "2 Sam. 10:8"
+      },
+      {
+        "reference": "Judges 18:28",
+        "original": "Judg. 18:28"
+      },
+      {
+        "reference": "Numbers 13:21",
+        "original": "Num. 13:21"
+      },
+      {
+        "reference": "Joshua 19:28",
+        "original": "Josh. 19:28"
+      },
+      {
+        "reference": "Joshua 19:30",
+        "original": "Josh. 19:30"
+      },
+      {
+        "reference": "Judges 1:31",
+        "original": "Judg. 1:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "rhodes": {
+    "name": "Estradas",
+    "slug": "rhodes",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma ilha chamada Rose, situada ao sul do extremo ocidental da Ásia Menor, entre Coos e Patara, com cerca de 46 milhas de comprimento e 18 milhas de largura. Foi aqui que o apóstolo provavelmente desembarcou em sua viagem da Grécia para a Síria (Atos 21:1), ao retornar de sua terceira viagem missionária."
+      },
+      {
+        "source": "SMI",
+        "text": "(Rosy), uma ilha famosa no Mar Mediterrâneo. (Tem forma triangular, com 60 milhas de comprimento de norte a sul e cerca de 18 de largura. É conhecida hoje, assim como na antiguidade, por seu clima agradável e pela fertilidade de seu solo. A cidade de Rodes, sua capital, era famosa por sua enorme estátua de bronze de Apolo, chamada de Colosso de Rodes. Ela ficava na entrada do porto e era tão grande que navios a toda vela podiam passar entre suas pernas. (ED.) Rodes fica exatamente em frente aos altos promontórios da Cária e da Lícia, na extremidade sudoeste da península da Ásia Menor. Sua localização teve grande influência em sua história. Sua verdadeira proeminência teve início por volta de 400 a.C., com a fundação da cidade de Rodes, na extremidade nordeste da ilha, que ainda hoje continua sendo a capital. Após a morte de Alexandre, a cidade entrou em um período glorioso, com grande desenvolvimento de sua prosperidade material e suas instituições merecendo e obtendo estima geral. Temos menção aos residentes judeus em Rodes em 1 Mac. 15:23. Os romanos, após a derrota de Antíoco, atribuíram, por algum tempo, a Rodes certos distritos no continente. Sua história bizantina é novamente notável. Sob Constantino, foi a metrópole da “Província das Ilhas”; foi o último lugar onde os cristãos do Oriente resistiram ao avanço dos sarracenos; e, posteriormente, tornou-se mais uma vez famosa como o lar e a fortaleza dos Cavaleiros de São João. (Atualmente, está reduzida à pobreza abjeta. Há duas cidades — Rodes, a capital, e Lindos — e quarenta ou cinquenta vilarejos. A população, segundo Turner, é de 20.000 habitantes, dos quais 6.000 são turcos e o restante, gregos, além de alguns judeus.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 21:1",
+        "original": "Acts 21:1"
+      },
+      {
+        "reference": "1Macc 15:23",
+        "original": "1 Macc. 15:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "riddle": {
+    "name": "Enigma",
+    "slug": "riddle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. hodah). O mais antigo e, estritamente falando, o único exemplo de um enigma foi o proposto por Sansão (Juízes 14:12-18). A profecia parabólica em Ezequiel 17:2-18 é chamada de “enigma”. Era, no entanto, mais uma alegoria. A palavra “obscuramente” em 1 Coríntios 13:12 é a tradução do enigma grego; marg., “em um enigma”."
+      },
+      {
+        "source": "SMI",
+        "text": "Sabe-se que todas as nações antigas, e especialmente os orientais, eram apreciadoras de enigmas. Os enigmas que a rainha de Sabá veio fazer a Salomão (1 Reis 10:1; 2 Crônicas 9:1) eram mais “perguntas difíceis” referindo-se a investigações profundas. Diz-se, porém, que Salomão era muito afeiçoado a enigmas. Os enigmas eram geralmente propostos em versos, como o célebre enigma de Sansão. (Juízes 14:14-19)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 14:12-18",
+        "original": "Judg. 14:12-18"
+      },
+      {
+        "reference": "Ezekiel 17:2-18",
+        "original": "Ezek. 17:2-18"
+      },
+      {
+        "reference": "1 Corinthians 13:12",
+        "original": "1 Cor. 13:12"
+      },
+      {
+        "reference": "1 Kings 10:1",
+        "original": "1 Kings 10:1"
+      },
+      {
+        "reference": "2 Chronicles 9:1",
+        "original": "2 Chronicles 9:1"
+      },
+      {
+        "reference": "Judges 14:14-19",
+        "original": "Judges 14:14-19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "road": {
+    "name": "Estrada",
+    "slug": "road",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Sm 27:10; R.V., “incursão”), uma invasão, uma incursão. Essa palavra nunca é usada nas Escrituras no sentido de caminho ou trilha."
+      },
+      {
+        "source": "SMI",
+        "text": "Essa palavra aparece apenas uma vez na Versão Autorizada da Bíblia, a saber, em (1 Samuel 37:10), onde é usada no sentido de “ataque” ou “incursão”. Quando se refere a uma estrada transitada, utiliza-se “caminho” ou “trilha”, já que as estradas orientais se assemelham mais às nossas trilhas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 27:10",
+        "original": "1 Sam. 27:10"
+      },
+      {
+        "reference": "1 Samuel 37:10",
+        "original": "1 Samuel 37:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "romans-epistle-to-the": {
+    "name": "Epístola aos Romanos",
+    "slug": "romans-epistle-to-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esta epístola foi provavelmente escrita em Corinto. Febe (Rm 16,1), de Cencréia, levou-a a Roma, e Gaio, de Corinto, hospedou o apóstolo na época em que ele a escreveu (16,23; 1 Cor. 1:14), e Erasto era tesoureiro da cidade, ou seja, de Corinto (2 Tim. 4:20). O momento exato em que foi escrita não é mencionado na epístola, mas foi obviamente redigida quando o apóstolo estava prestes a “ir a Jerusalém para ministrar aos santos”, ou seja, no final de sua segunda visita à Grécia, durante o inverno que antecedeu sua última visita àquela cidade (Rom. 15:25; comp. Atos 19:21; 20:2, 3, 16; 1 Coríntios 16:1-4), no início do ano 58 d.C. É altamente provável que o cristianismo tenha sido introduzido em Roma por alguns daqueles que estiveram em Jerusalém no dia de Pentecostes (Atos 2:10). Naquela época, os judeus eram muito numerosos em Roma, e suas sinagogas provavelmente eram frequentadas também por romanos, que, dessa forma, tomaram conhecimento dos grandes fatos relativos a Jesus, conforme eram relatados entre os judeus. Assim, formou-se em Roma uma igreja composta tanto de judeus quanto de gentios. Muitos dos irmãos saíram ao encontro de Paulo quando ele se aproximava de Roma. Há evidências de que os cristãos já estavam em Roma em número considerável e provavelmente tinham mais de um local de reunião (Rom. 16:14, 15). O objetivo do apóstolo ao escrever para essa igreja era explicar-lhes as grandes doutrinas do evangelho. Sua epístola foi uma “palavra oportuna”. Ele próprio profundamente impressionado com a consciência do valor das doutrinas da salvação, expõe de forma clara e coerente todo o sistema do evangelho em sua relação tanto com judeus quanto com gentios. Esta epístola é singular por ser uma exposição sistemática do evangelho de aplicação universal. O assunto é aqui tratado de forma argumentativa e constitui uma defesa dos gentios dirigida aos judeus. Na Epístola aos Gálatas, o mesmo assunto é discutido, mas ali o apóstolo invoca sua própria autoridade, pois a igreja na Galácia havia sido fundada por ele. Após a introdução (1:1-15), o apóstolo apresenta, em diversos aspectos e relações, a doutrina da justificação pela fé (1:16-11:36) com base na justiça imputada de Cristo. Ele mostra que a salvação é inteiramente pela graça e somente pela graça. Essa seção principal de sua carta é seguida por várias exortações práticas (12:1-15:13), às quais se segue uma conclusão contendo explicações pessoais e saudações, que incluem os nomes de vinte e quatro cristãos em Roma, uma bênção e uma doxologia (Rm 15,14–cap. 16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:1",
+        "original": "Rom. 16:1"
+      },
+      {
+        "reference": "1 Corinthians 1:14",
+        "original": "1 Cor. 1:14"
+      },
+      {
+        "reference": "2 Timothy 4:20",
+        "original": "2 Tim. 4:20"
+      },
+      {
+        "reference": "Romans 15:25",
+        "original": "Rom. 15:25"
+      },
+      {
+        "reference": "Acts 19:21",
+        "original": "Acts 19:21"
+      },
+      {
+        "reference": "Acts 20:2",
+        "original": "Acts 20:2"
+      },
+      {
+        "reference": "Acts 20:3",
+        "original": "Acts 20:3"
+      },
+      {
+        "reference": "Acts 20:16",
+        "original": "Acts 20:16"
+      },
+      {
+        "reference": "1 Corinthians 16:1-4",
+        "original": "1 Cor. 16:1-4"
+      },
+      {
+        "reference": "Acts 2:10",
+        "original": "Acts 2:10"
+      },
+      {
+        "reference": "Romans 16:14",
+        "original": "Rom. 16:14"
+      },
+      {
+        "reference": "Romans 16:15",
+        "original": "Rom. 16:15"
+      },
+      {
+        "reference": "Romans 15:14",
+        "original": "Rom. 15:14"
+      },
+      {
+        "reference": "Romans 16:2",
+        "original": "Romans 16:2"
+      },
+      {
+        "reference": "Romans 16:22",
+        "original": "Romans 16:22"
+      },
+      {
+        "reference": "Acts 8:4",
+        "original": "Acts 8:4"
+      },
+      {
+        "reference": "Acts 11:10",
+        "original": "Acts 11:10"
+      },
+      {
+        "reference": "Acts 18:25",
+        "original": "Acts 18:25"
+      },
+      {
+        "reference": "Acts 19:1-3",
+        "original": "Acts 19:1-3"
+      },
+      {
+        "reference": "Romans 1:16",
+        "original": "Romans 1:16"
+      },
+      {
+        "reference": "Romans 1:17",
+        "original": "Romans 1:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "scarlet": {
+    "name": "Escarlate",
+    "slug": "scarlet",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esse corante era obtido pelos egípcios a partir do inseto Carthamus tinctorius; e pelos hebreus a partir do Coccus ilicis, um inseto que infesta os carvalhos, chamado kermes pelos árabes. Essa cor já era conhecida desde cedo (Gênesis 38:28). Era uma das cores do éfode (Êxodo 28:6), do cinto (8) e do peitoral (15) do sumo sacerdote. Também é mencionada em vários outros contextos (Josué 2:18; 2 Samuel 1:24; Lamentações 4:5; Naum 2:3). Um manto escarlate foi colocado em nosso Senhor a título de escárnio (Mateus 27:28; Lucas 23:11). “Pecados como o escarlate” (Isaías 1:18), ou seja, como mantos escarlates “chamativos e habituais”. O escarlate e o carmesim eram os corantes mais resistentes e, portanto, não saíam facilmente com a lavagem."
+      },
+      {
+        "source": "SMI",
+        "text": "[Cores]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:28",
+        "original": "Gen. 38:28"
+      },
+      {
+        "reference": "Exodus 28:6",
+        "original": "Ex. 28:6"
+      },
+      {
+        "reference": "Joshua 2:18",
+        "original": "Josh. 2:18"
+      },
+      {
+        "reference": "2 Samuel 1:24",
+        "original": "2 Sam. 1:24"
+      },
+      {
+        "reference": "Lamentations 4:5",
+        "original": "Lam. 4:5"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nahum 2:3"
+      },
+      {
+        "reference": "Matthew 27:28",
+        "original": "Matt. 27:28"
+      },
+      {
+        "reference": "Luke 23:11",
+        "original": "Luke 23:11"
+      },
+      {
+        "reference": "Isaiah 1:18",
+        "original": "Isa. 1:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "schools": {
+    "name": "Escolas",
+    "slug": "schools",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Nos tempos antigos, a maior parte da educação das crianças pequenas era ministrada pelos pais. As horas de lazer dos sábados e dos dias festivos mantinham os pais em contato constante com os filhos. Após o cativeiro, as escolas passaram a ser mais utilizadas e, na época de Cristo, eram muito numerosas. As escolas estavam ligadas às sinagogas, que se encontravam em todas as aldeias, cidades e regiões. A noção que se tinha do valor das escolas pode ser percebida em ditos do Talmude, como: “O mundo é preservado pelo sopro das crianças nas escolas”; “Uma cidade na qual não há escolas está fadada à perdição”; “Jerusalém foi destruída porque a educação das crianças foi negligenciada”. Josefo afirma: “Nosso principal cuidado é educar nossos filhos”. O Talmude afirma que em Bechar havia 400 escolas, cada uma com 400 professores e 400 crianças, e que havia 4.000 alunos na casa de Rabban Simeão Ben-Gamaliel. Maimônides descreve assim uma escola: “O professor sentava-se à cabeceira, e os alunos o cercavam como a coroa cerca a cabeça, de modo que todos pudessem ver o professor e ouvir suas palavras. O professor não se sentava em uma cadeira enquanto os alunos se sentavam no chão, mas todos se sentavam em cadeiras ou no chão.” As crianças liam em voz alta para adquirir fluência. O número de horas letivas era limitado e, durante o calor do verão, era de apenas quatro horas. A punição empregada era a surra com uma tira de couro, nunca com uma vara. As principais disciplinas eram a própria língua e a literatura; o principal livro didático eram as Sagradas Escrituras; e havia esforços especiais para incutir lições de moralidade e castidade. Além disso, estudavam matemática, astronomia e ciências naturais. Para além das escolas de educação popular, havia escolas superiores ou faculdades espalhadas pelas cidades onde havia grande concentração de judeus. — ED.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "schools-of-the-prophets": {
+    "name": "Escolas dos Profetas",
+    "slug": "schools-of-the-prophets",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Samuel 19:18-24; 2 Reis 2:3, 5, 7, 12, 15) foram instituídas com o objetivo de preparar jovens para os ofícios proféticos e sacerdotais. (Ver PROFETA; SAMUEL.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 19:18-24",
+        "original": "1 Sam. 19:18-24"
+      },
+      {
+        "reference": "2 Kings 2:3",
+        "original": "2 Kings 2:3"
+      },
+      {
+        "reference": "2 Kings 2:5",
+        "original": "2 Kings 2:5"
+      },
+      {
+        "reference": "2 Kings 2:7",
+        "original": "2 Kings 2:7"
+      },
+      {
+        "reference": "2 Kings 2:12",
+        "original": "2 Kings 2:12"
+      },
+      {
+        "reference": "2 Kings 2:15",
+        "original": "2 Kings 2:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "scorpion": {
+    "name": "Escorpião",
+    "slug": "scorpion",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Hebr. ’akrab), um inseto venenoso bem conhecido em climas quentes, com formato muito semelhante ao de uma lagosta. Geralmente não tem mais do que duas ou três polegadas de comprimento, mas em climas tropicais chega, às vezes, a seis polegadas. O deserto do Sinai é especialmente mencionado como sendo habitado por escorpiões na época do Êxodo, e até hoje esses animais são comuns na mesma região, bem como em algumas partes da Palestina. Os escorpiões são geralmente encontrados em locais secos e escuros, sob pedras e em ruínas. São carnívoros por natureza e se movimentam com uma postura ameaçadora, com a cauda erguida. O ferrão, situado na ponta da cauda, possui na base uma glândula que secreta um fluido venenoso, o qual é descarregado na ferida por meio de dois minúsculos orifícios em sua extremidade. Em climas quentes, a picada costuma causar muito sofrimento e, às vezes, sintomas alarmantes. Os “escorpiões” de (1 Reis 12:1, 14; 2 Crônicas 10:11, 14) claramente não fazem qualquer alusão ao animal, mas a algum instrumento de flagelação — a menos, é claro, que a expressão seja uma mera figura de linguagem."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 12:1",
+        "original": "1 Kings 12:1"
+      },
+      {
+        "reference": "1 Kings 12:14",
+        "original": "1 Kings 12:14"
+      },
+      {
+        "reference": "2 Chronicles 10:11",
+        "original": "2 Chronicles 10:11"
+      },
+      {
+        "reference": "2 Chronicles 10:14",
+        "original": "2 Chronicles 10:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "scorpions": {
+    "name": "Escorpiões",
+    "slug": "scorpions",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado juntamente com as serpentes (Dt 8,15). Também usado figurativamente para designar pessoas perversas (Ez 2,6; Lc 10,19); além disso, um tipo específico de chicote ou fusta (1 Reis 12,11). Os escorpiões eram uma espécie de aranha. Abundavam no vale do Jordão."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 8:15",
+        "original": "Deut. 8:15"
+      },
+      {
+        "reference": "Ezekiel 2:6",
+        "original": "Ezek. 2:6"
+      },
+      {
+        "reference": "Luke 10:19",
+        "original": "Luke 10:19"
+      },
+      {
+        "reference": "1 Kings 12:11",
+        "original": "1 Kings 12:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "scribes": {
+    "name": "Escritores",
+    "slug": "scribes",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Antigamente, ocupavam vários cargos importantes nos assuntos públicos da nação. A palavra hebraica assim traduzida (sopher) é usada pela primeira vez para designar o titular de algum cargo militar (Juízes 5:14; A.V., “caneta do escriba”; R.V., “o bastão do marechal”; nota marginal, “o bastão do escriba”). Os escribas atuavam como secretários de Estado, cuja função era preparar e emitir decretos em nome do rei (2 Samuel 8:17; 20:25; 1 Crôn. 18:16; 24:6; 1 Reis 4:3; 2 Reis 12:9-11; 18:18-37, etc.). Desempenhavam várias outras funções públicas importantes como homens de alta autoridade e influência nos assuntos do Estado. Havia também uma classe subordinada de escribas, a maioria dos quais eram levitas. Eles atuavam de várias maneiras como escritores. Tal era, por exemplo, Baruc, que “escreveu da boca de Jeremias todas as palavras do Senhor” (Jer. 36:4, 32). Em épocas posteriores, após o Cativeiro, quando a nação perdeu sua independência, os escribas voltaram sua atenção para a lei, ganhando prestígio por seu profundo conhecimento de seu conteúdo. A eles coube o dever de multiplicar cópias da lei e de ensiná-la aos outros (Esdras 7:6, 10-12; Ne 8:1, 4, 9, 13). É evidente que, nos tempos do Novo Testamento, os escribas pertenciam à seita dos fariseus, que complementavam a antiga lei escrita com suas tradições (Mt 23), obscurecendo-a assim e tornando-a ineficaz. Os títulos “escribas” e “juristas” (ver) são intercambiáveis nos Evangelhos (Mateus 22:35; Marcos 12:28; Lucas 20:39, etc.). Eles eram, na época de nosso Senhor, os mestres públicos do povo e frequentemente entravam em conflito com ele. Posteriormente, mostraram-se extremamente hostis aos apóstolos (Atos 4:5; 6:12). Alguns dos escribas, no entanto, eram homens de espírito diferente e mostraram-se favoráveis ao evangelho e aos seus pregadores. Assim, Gamaliel aconselhou o Sinédrio, quando os apóstolos estavam perante eles acusados de “ensinar em nome deste”, a “abster-se de intervir contra esses homens e deixá-los em paz” (Atos 5:34-39; comp. 23:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Hebr. sopherim), I. Nome .— (1) Três significados estão associados ao verbo saphar, a raiz de sopherim — (a) escrever, (b) organizar, (c) contar. A explicação da palavra tem sido atribuída a cada um desses significados. Os sopherim eram assim chamados porque redigiam a lei, ou porque classificavam e organizavam seus preceitos, ou porque contavam com minuciosidade escrupulosa cada versículo e letra que ela continha. (2) O nome de Quiriate-Sefer (Josué 15:15; Juízes 1:12) pode, possivelmente, estar relacionado a algum uso antigo do título e parece indicar funções militares de algum tipo. (Juízes 5:14) Esses homens são mencionados como desempenhando o cargo de escribas sob Davi e Salomão. (2 Samuel 8:17; 20:25; 1 Reis 4:3) Podemos considerá-los como os secretários do rei, redigindo suas cartas, elaborando seus decretos e administrando suas finanças. Comp. (2 Reis 12:10) Na época de Ezequias, transcreveram registros antigos e tornaram-se uma classe de estudiosos e intérpretes da lei, vangloriando-se de sua sabedoria. (Jeremias 8:8) Após o cativeiro, o ofício ganhou maior destaque, pois os exilados estavam, acima de tudo, empenhados em preservar os livros sagrados, as leis, os hinos e as profecias do passado. II. Desenvolvimento da doutrina. — Dos escribas desse período, com exceção de Esdras e Zadoque (Neemias 13:13), não temos registros. Uma época posterior os honrou coletivamente como os homens da Grande Sinagoga. Talvez nunca uma obra tão importante tenha sido realizada de forma tão silenciosa. Eles se dedicaram ao estudo cuidadoso do texto e estabeleceram regras para transcrevê-lo com a mais escrupulosa precisão. Com o passar do tempo, as “palavras dos escribas” passaram a ser honradas acima da lei. Era um crime maior ofendê-las do que ofender a lei. O primeiro passo foi dado no sentido de anular os mandamentos de Deus em nome de suas próprias tradições (Marcos 7:13). A casuística tornou-se ao mesmo tempo sutil e lasciva, esquivando-se dos deveres mais evidentes e manipulando a consciência. (Mateus 15:1-6; 23:16-23) Podemos, portanto, compreender por que eram constantemente denunciados por nosso Senhor, juntamente com os fariseus. Enquanto os escribas repetiam as tradições dos anciãos, ele “falava como quem tem autoridade”, “não como os escribas”. (Mateus 7:29) Enquanto eles limitavam seus ensinamentos à classe dos eruditos, ele “tinha compaixão das multidões”. (Mateus 9:36) Enquanto eles só podiam ser encontrados no conselho ou em suas escolas, ele percorria as cidades e aldeias. (Mateus 4:23; 9:35) etc. Enquanto eles falavam do reino de Deus de forma vaga, como algo distante, ele proclamava que ele já havia se aproximado dos homens. (Mateus 4:17) Na época de nosso Senhor, havia dois grupos principais:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 5:14",
+        "original": "Judg. 5:14"
+      },
+      {
+        "reference": "2 Samuel 8:17",
+        "original": "2 Sam. 8:17"
+      },
+      {
+        "reference": "2 Samuel 20:25",
+        "original": "2 Sam. 20:25"
+      },
+      {
+        "reference": "1 Chronicles 18:16",
+        "original": "1 Chr. 18:16"
+      },
+      {
+        "reference": "1 Chronicles 24:6",
+        "original": "1 Chr. 24:6"
+      },
+      {
+        "reference": "1 Kings 4:3",
+        "original": "1 Kings 4:3"
+      },
+      {
+        "reference": "2 Kings 12:9-11",
+        "original": "2 Kings 12:9-11"
+      },
+      {
+        "reference": "2 Kings 18:18-37",
+        "original": "2 Kings 18:18-37"
+      },
+      {
+        "reference": "Jeremiah 36:4",
+        "original": "Jer. 36:4"
+      },
+      {
+        "reference": "Jeremiah 36:32",
+        "original": "Jer. 36:32"
+      },
+      {
+        "reference": "Ezra 7:6",
+        "original": "Ezra 7:6"
+      },
+      {
+        "reference": "Ezra 7:10-12",
+        "original": "Ezra 7:10-12"
+      },
+      {
+        "reference": "Nehemiah 8:1",
+        "original": "Neh. 8:1"
+      },
+      {
+        "reference": "Nehemiah 8:4",
+        "original": "Neh. 8:4"
+      },
+      {
+        "reference": "Nehemiah 8:9",
+        "original": "Neh. 8:9"
+      },
+      {
+        "reference": "Nehemiah 8:13",
+        "original": "Neh. 8:13"
+      },
+      {
+        "reference": "Matthew 23",
+        "original": "Matt. 23"
+      },
+      {
+        "reference": "Matthew 22:35",
+        "original": "Matt. 22:35"
+      },
+      {
+        "reference": "Mark 12:28",
+        "original": "Mark 12:28"
+      },
+      {
+        "reference": "Luke 20:39",
+        "original": "Luke 20:39"
+      },
+      {
+        "reference": "Acts 4:5",
+        "original": "Acts 4:5"
+      },
+      {
+        "reference": "Acts 6:12",
+        "original": "Acts 6:12"
+      },
+      {
+        "reference": "Acts 5:34-39",
+        "original": "Acts 5:34-39"
+      },
+      {
+        "reference": "Joshua 15:15",
+        "original": "Joshua 15:15"
+      },
+      {
+        "reference": "Judges 1:12",
+        "original": "Judges 1:12"
+      },
+      {
+        "reference": "2 Kings 12:10",
+        "original": "2 Kings 12:10"
+      },
+      {
+        "reference": "Jeremiah 8:8",
+        "original": "Jeremiah 8:8"
+      },
+      {
+        "reference": "Nehemiah 13:13",
+        "original": "Nehemiah 13:13"
+      },
+      {
+        "reference": "Mark 7:13",
+        "original": "Mark 7:13"
+      },
+      {
+        "reference": "Matthew 15:1-6",
+        "original": "Matthew 15:1-6"
+      },
+      {
+        "reference": "Matthew 23:16-23",
+        "original": "Matthew 23:16-23"
+      },
+      {
+        "reference": "Matthew 7:29",
+        "original": "Matthew 7:29"
+      },
+      {
+        "reference": "Matthew 9:36",
+        "original": "Matthew 9:36"
+      },
+      {
+        "reference": "Matthew 4:23",
+        "original": "Matthew 4:23"
+      },
+      {
+        "reference": "Matthew 9:35",
+        "original": "Matthew 9:35"
+      },
+      {
+        "reference": "Matthew 4:17",
+        "original": "Matthew 4:17"
+      },
+      {
+        "reference": "Luke 12:14",
+        "original": "Luke 12:14"
+      },
+      {
+        "reference": "Matthew 23:7",
+        "original": "Matthew 23:7"
+      },
+      {
+        "reference": "Matthew 23:9",
+        "original": "Matthew 23:9"
+      },
+      {
+        "reference": "Matthew 23:5",
+        "original": "Matthew 23:5"
+      },
+      {
+        "reference": "Matthew 23:6",
+        "original": "Matthew 23:6"
+      },
+      {
+        "reference": "Luke 14:7",
+        "original": "Luke 14:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "scripture": {
+    "name": "Escritura",
+    "slug": "scripture",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No Novo Testamento, o termo “Invariavelmente” se refere à coleção específica de livros sagrados, considerados como inspirados por Deus, que costumamos chamar de Antigo Testamento (2 Tim. 3:15, 16; João 20:9; Gál. 3:22; 2 Ped. 1:20). Era propósito de Deus, assim, perpetuar sua vontade revelada. De tempos em tempos, ele levantou homens para registrar por escrito, em um testemunho infalível, a revelação que ele concedeu. A “Escritura”, ou coleção de escritos sagrados, foi assim ampliada de tempos em tempos, conforme Deus julgou necessário. Temos agora uma “Escritura” completa, composta pelo Antigo e pelo Novo Testamento. O cânon do Antigo Testamento na época de nosso Senhor era exatamente o mesmo que o que possuímos hoje sob esse nome. Ele colocou o selo de sua própria autoridade sobre essa coleção de escritos, pois todos foram igualmente inspirados (Mt 5,17; 7,12; 22,40; Lc 16,29, 31). (Ver BÍBLIA; CÂNONE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Veja a Bíblia]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 3:15",
+        "original": "2 Tim. 3:15"
+      },
+      {
+        "reference": "2 Timothy 3:16",
+        "original": "2 Tim. 3:16"
+      },
+      {
+        "reference": "John 20:9",
+        "original": "John 20:9"
+      },
+      {
+        "reference": "Galatians 3:22",
+        "original": "Gal. 3:22"
+      },
+      {
+        "reference": "Matthew 5:17",
+        "original": "Matt. 5:17"
+      },
+      {
+        "reference": "Matthew 7:12",
+        "original": "Matt 7:12"
+      },
+      {
+        "reference": "Matthew 22:40",
+        "original": "Matt 22:40"
+      },
+      {
+        "reference": "Luke 16:29",
+        "original": "Luke 16:29"
+      },
+      {
+        "reference": "Luke 16:31",
+        "original": "Luke 16:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "seasons": {
+    "name": "Estações do ano",
+    "slug": "seasons",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gênesis 8:22). Veja AGRICULTURA; MÊS."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 8:22",
+        "original": "Gen. 8:22"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "shamed": {
+    "name": "Envergonhado",
+    "slug": "shamed",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(guardião), cujo nome correto é Shamer ou Shemer; um dos pastores de Elpaal, o benjamita. (1 Crônicas 8:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:12",
+        "original": "1 Chronicles 8:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "shedeur": {
+    "name": "Ela é um gênio.",
+    "slug": "shedeur",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(“raio de luz”), pai de Elizur, chefe da tribo de Rúben na época do Êxodo. (Números 1:5; 2:10; 7:30, 35; 10:18) (1491 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 1:5",
+        "original": "Numbers 1:5"
+      },
+      {
+        "reference": "Numbers 2:10",
+        "original": "Numbers 2:10"
+      },
+      {
+        "reference": "Numbers 7:30",
+        "original": "Numbers 7:30"
+      },
+      {
+        "reference": "Numbers 7:35",
+        "original": "Numbers 7:35"
+      },
+      {
+        "reference": "Numbers 10:18",
+        "original": "Numbers 10:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sheep-gate": {
+    "name": "Escândalo das ovelhas",
+    "slug": "sheep-gate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um dos portões de Jerusalém mencionados por Neemias (3:1, 32; 12:39). Ficava na muralha oriental da cidade."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "shen": {
+    "name": "Ele é",
+    "slug": "shen",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um dente, provavelmente alguma rocha ou penhasco proeminente em forma de dente (1 Sm 7,12), um local entre o qual e Mizpá Samuel ergueu seu “Ebenezer”. No hebraico, a palavra vem precedida pelo artigo “o Shen”. A localização é desconhecida."
+      },
+      {
+        "source": "SMI",
+        "text": "(dente), um lugar mencionado apenas em (1 Samuel 7:12). Não se sabe nada sobre ele."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 7:12",
+        "original": "1 Sam. 7:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sheol": {
+    "name": "Ela lançou",
+    "slug": "sheol",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Do hebraico, “o mundo que tudo exige” = do grego Hades, “a região desconhecida”), o mundo invisível das almas que partiram. (Veja INFERNO.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "sheth": {
+    "name": "Ela é uma mulher.",
+    "slug": "sheth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tumulto. (1.) “Os filhos de Set” (Nm 24:17); R.V., “os filhos do tumulto”, o que provavelmente é a tradução correta, já que não há evidência de que se trate de um nome próprio neste contexto. (2.) O patriarca antediluviano (1 Crôn. 1:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "(indenização)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 24:17",
+        "original": "Num. 24:17"
+      },
+      {
+        "reference": "1 Chronicles 1:1",
+        "original": "1 Chr. 1:1"
+      },
+      {
+        "reference": "Jeremiah 48:45",
+        "original": "Jeremiah 48:45"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "shield": {
+    "name": "Escudo",
+    "slug": "shield",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Utilizado na guerra defensiva, variando em diferentes épocas e sob diferentes circunstâncias quanto ao tamanho, forma e material (1 Sm 17,7; 2 Sm 1,21; 1 Reis 10,17; 1 Cr 12,8, 24, 34; Isaías 22:6; Ezequiel 39:9; Naum 2:3). Usado figurativamente para se referir a Deus e aos príncipes terrenos como defensores de seus povos (Gênesis 15:1; Deuteronômio 33:29; Salmos 33:20; 84:11). A fé é comparada a um escudo (Efésios 6:16). Os escudos eram geralmente “ungidos” (Isaías 21:5), a fim de preservá-los e, ao mesmo tempo, fazer com que os projéteis do inimigo deslizassem por eles com mais facilidade."
+      },
+      {
+        "source": "SMI",
+        "text": "O escudo comum consistia em uma estrutura de madeira revestida de couro; por isso, podia ser queimado. (Ezequiel 39:9) Frequentemente era revestido de metal, seja latão ou cobre; nesse caso, sua aparência se assemelhava ao ouro quando o sol incidia sobre ele (1 Macabeus 6:39), e é a isso, e não à prática de untar sangue no escudo, que podemos atribuir a cor avermelhada observada por... Naum. (Naum 2:3) A superfície do escudo era mantida brilhante pela aplicação de óleo, conforme sugerido em (Isaías 21:5). O escudo era usado no braço esquerdo, ao qual era preso por uma alça. Os escudos de estado eram revestidos de ouro batido. Os escudos eram suspensos em edifícios públicos para fins ornamentais. (1 Reis 10:17) Na linguagem metafórica da Bíblia, o escudo geralmente representa a proteção de Deus: por exemplo, (Salmos 3:3; 28:7), mas em (Salmos 47:9) é aplicado aos governantes terrenos e em (Efésios 6:18) à fé. [Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:7",
+        "original": "1 Sam. 17:7"
+      },
+      {
+        "reference": "2 Samuel 1:21",
+        "original": "2 Sam. 1:21"
+      },
+      {
+        "reference": "1 Kings 10:17",
+        "original": "1 Kings 10:17"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chr. 12:8"
+      },
+      {
+        "reference": "1 Chronicles 12:24",
+        "original": "1 Chr. 12:24"
+      },
+      {
+        "reference": "1 Chronicles 12:34",
+        "original": "1 Chr. 12:34"
+      },
+      {
+        "reference": "Isaiah 22:6",
+        "original": "Isa. 22:6"
+      },
+      {
+        "reference": "Ezekiel 39:9",
+        "original": "Ezek. 39:9"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nahum 2:3"
+      },
+      {
+        "reference": "Genesis 15:1",
+        "original": "Gen. 15:1"
+      },
+      {
+        "reference": "Deuteronomy 33:29",
+        "original": "Deut. 33:29"
+      },
+      {
+        "reference": "Psalms 33:20",
+        "original": "Ps. 33:20"
+      },
+      {
+        "reference": "Psalms 84:11",
+        "original": "Ps 84:11"
+      },
+      {
+        "reference": "Ephesians 6:16",
+        "original": "Eph. 6:16"
+      },
+      {
+        "reference": "Isaiah 21:5",
+        "original": "Isa. 21:5"
+      },
+      {
+        "reference": "1Macc 6:39",
+        "original": "1 Macc. 6:39"
+      },
+      {
+        "reference": "Psalms 3:3",
+        "original": "Psalms 3:3"
+      },
+      {
+        "reference": "Psalms 28:7",
+        "original": "Psalms 28:7"
+      },
+      {
+        "reference": "Psalms 47:9",
+        "original": "Psalms 47:9"
+      },
+      {
+        "reference": "Ephesians 6:18",
+        "original": "Ephesians 6:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sirach": {
+    "name": "Eclesiástico",
+    "slug": "sirach",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "o pai de Jesus (Josué), autor do original hebraico do livro de Eclesiástico. (310-220 a.C.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "slave": {
+    "name": "Escravo",
+    "slug": "slave",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Jer. 2:14 (A.V.), mas não consta no original. Em Ap. 18:13, a palavra “escravos” é a tradução de um termo grego que significa “corpos”. As palavras hebraicas e gregas para “escravo” são geralmente traduzidas simplesmente como “servo”, “servo de contrato” ou “servo subjugado”. A escravidão, tal como existia sob a Lei mosaica, não tem paralelo na sociedade moderna. Essa lei não criou, mas apenas regulamentou o costume já existente da escravidão (Êxodo 21:20, 21, 26, 27; Levítico 25:44-46; Josué 9:6-27). O evangelho, em seu espírito e essência, é hostil à escravidão em todas as suas formas, a qual, sob sua influência, está gradualmente desaparecendo dentre os homens."
+      },
+      {
+        "source": "SMI",
+        "text": "A instituição da escravidão foi reconhecida, embora não estabelecida, pela Lei Mosaica, com o objetivo de amenizar suas dificuldades e garantir a cada homem seus direitos básicos. I. Escravos hebreus.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 2:14",
+        "original": "Jer. 2:14"
+      },
+      {
+        "reference": "Revelation 18:13",
+        "original": "Rev. 18:13"
+      },
+      {
+        "reference": "Exodus 21:20",
+        "original": "Ex. 21:20"
+      },
+      {
+        "reference": "Exodus 21:21",
+        "original": "Ex. 21:21"
+      },
+      {
+        "reference": "Exodus 21:26",
+        "original": "Ex. 21:26"
+      },
+      {
+        "reference": "Exodus 21:27",
+        "original": "Ex. 21:27"
+      },
+      {
+        "reference": "Leviticus 25:44-46",
+        "original": "Lev. 25:44-46"
+      },
+      {
+        "reference": "Joshua 9:6-27",
+        "original": "Josh. 9:6-27"
+      },
+      {
+        "reference": "Leviticus 25:25",
+        "original": "Leviticus 25:25"
+      },
+      {
+        "reference": "Leviticus 25:39",
+        "original": "Leviticus 25:39"
+      },
+      {
+        "reference": "Exodus 22:1",
+        "original": "Exodus 22:1"
+      },
+      {
+        "reference": "Exodus 22:3",
+        "original": "Exodus 22:3"
+      },
+      {
+        "reference": "Exodus 21:7",
+        "original": "Exodus 21:7"
+      },
+      {
+        "reference": "Leviticus 25:40",
+        "original": "Leviticus 25:40"
+      },
+      {
+        "reference": "Exodus 21:2",
+        "original": "Exodus 21:2"
+      },
+      {
+        "reference": "Exodus 15:12",
+        "original": "Exodus 15:12"
+      },
+      {
+        "reference": "Exodus 21:6",
+        "original": "Exodus 21:6"
+      },
+      {
+        "reference": "Leviticus 25:43",
+        "original": "Leviticus 25:43"
+      },
+      {
+        "reference": "Leviticus 25:47-55",
+        "original": "Leviticus 25:47-55"
+      },
+      {
+        "reference": "Exodus 21:4",
+        "original": "Exodus 21:4"
+      },
+      {
+        "reference": "Exodus 21:5",
+        "original": "Exodus 21:5"
+      },
+      {
+        "reference": "Exodus 21:7-9",
+        "original": "Exodus 21:7-9"
+      },
+      {
+        "reference": "Exodus 21:7-11",
+        "original": "Exodus 21:7-11"
+      },
+      {
+        "reference": "Joel 3:6",
+        "original": "Joel 3:6"
+      },
+      {
+        "reference": "Amos 1:6",
+        "original": "Amos 1:6"
+      },
+      {
+        "reference": "1Macc 3:42",
+        "original": "1 Macc. 3:42"
+      },
+      {
+        "reference": "2Macc 8:11",
+        "original": "2 Macc. 8:11"
+      },
+      {
+        "reference": "Numbers 31:26",
+        "original": "Numbers 31:26"
+      },
+      {
+        "reference": "Leviticus 25:44",
+        "original": "Leviticus 25:44"
+      },
+      {
+        "reference": "Leviticus 25:45",
+        "original": "Leviticus 25:45"
+      },
+      {
+        "reference": "Genesis 14:14",
+        "original": "Genesis 14:14"
+      },
+      {
+        "reference": "Genesis 17:12",
+        "original": "Genesis 17:12"
+      },
+      {
+        "reference": "Ecclesiastes 2:7",
+        "original": "Ecclesiastes 2:7"
+      },
+      {
+        "reference": "Exodus 21:32",
+        "original": "Exodus 21:32"
+      },
+      {
+        "reference": "Leviticus 19:20",
+        "original": "Leviticus 19:20"
+      },
+      {
+        "reference": "Leviticus 25:46",
+        "original": "Leviticus 25:46"
+      },
+      {
+        "reference": "Leviticus 24:17",
+        "original": "Leviticus 24:17"
+      },
+      {
+        "reference": "Leviticus 24:22",
+        "original": "Leviticus 24:22"
+      },
+      {
+        "reference": "Exodus 12:44",
+        "original": "Exodus 12:44"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "smyrna": {
+    "name": "Esmirna",
+    "slug": "smyrna",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mirra, uma antiga cidade da Jônia, na costa ocidental da Ásia Menor, a cerca de 40 milhas ao norte de Éfeso. Atualmente, é a principal cidade da Anatólia, com uma população mista de cerca de 200.000 habitantes, dos quais cerca de um terço são cristãos professos. A igreja fundada aqui foi uma das sete às quais nosso Senhor se dirigiu (Apocalipse 2:8-11). O célebre Policarpo, discípulo do apóstolo João, foi, no século II, um líder proeminente na igreja de Esmirna. Foi aqui que ele sofreu o martírio, no ano de 155 d.C."
+      },
+      {
+        "source": "SMI",
+        "text": "(mirra), uma cidade da Ásia Menor, situada às margens do Mar Egeu, a 40 milhas ao norte de Éfeso. Há uma alusão a ela em (Apocalipse 2:8-11). Foi fundada por Alexandre, o Grande, e ficava a vinte shades (2 1/2 milhas) da cidade de mesmo nome, que, após uma longa série de guerras com os lídios, havia sido finalmente tomada e saqueada por Haliates. A cidade antiga foi construída por alguns gregos piratas 1.500 anos antes de Cristo. Não parece impossível que a mensagem à igreja em Esmirna contenha alusões ao ritual dos mistérios pagãos que prevaleciam naquela cidade. Na época de Estrabão, as ruínas da antiga Esmirna ainda existiam e eram parcialmente habitadas, mas a nova cidade era uma das mais belas de toda a Ásia. As ruas eram traçadas, na medida do possível, em ângulos retos. Havia ali uma grande biblioteca pública e também um belo edifício cercado por pórticos que servia como museu. Ele foi consagrado como um heroum em homenagem a Homero, a quem os esmirnenses consideravam seu conterrâneo. Os Jogos Olímpicos eram celebrados ali e despertavam grande interesse. (Esmirna ainda é uma grande cidade com 180.000 a 200.000 habitantes, dos quais uma proporção maior é de francos do que em qualquer outra cidade da Turquia; 20.000 são gregos, 9.000 judeus, 8.000 armênios, 1.000 europeus e o restante são muçulmanos.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 2:8-11",
+        "original": "Rev. 2:8-11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "spain": {
+    "name": "Espanha",
+    "slug": "spain",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Paulo expressa sua intenção (Rm 15,24, 28) de visitar a Espanha. Não há, no entanto, nenhuma evidência de que ele tenha realmente concretizado essa intenção, embora alguns acreditem que ele provavelmente o tenha feito entre sua primeira e sua segunda prisão. (Ver TARSHISH.)"
+      },
+      {
+        "source": "SMI",
+        "text": "1 Mac. 8:3; (Romanos 15:24,28) A denominação local, Társis, que corresponde ao Tartessos dos gregos, provavelmente prevaleceu até que a notícia das guerras romanas naquele país chegasse ao Oriente, quando foi substituída por seu nome clássico. A mera intenção de São Paulo de visitar a Espanha (se ele realmente a visitou é uma questão controversa — ED.) implica dois fatos interessantes, a saber: o estabelecimento de uma comunidade cristã naquele país e o fato de que isso foi feito por judeus helenísticos residentes ali. A introdução precoce do cristianismo naquele país é atestada por Irineu e Tertuliano."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 15:24",
+        "original": "Rom. 15:24"
+      },
+      {
+        "reference": "Romans 15:28",
+        "original": "Rom. 15:28"
+      },
+      {
+        "reference": "1Macc 8:3",
+        "original": "1 Macc. 8:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sparta": {
+    "name": "Esparta",
+    "slug": "sparta",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "uma cidade famosa da Grécia, entre cujos habitantes e os judeus acreditava-se que houvesse uma relação. Entre as duas nações, estabeleceu-se uma correspondência.—Whitney. A menção aos judeus e espartanos, em 2 Mac. 5:9, constitui um erro etnológico, cuja origem é difícil de identificar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2Macc 5:9",
+        "original": "2 Macc. 5:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "spice-spices": {
+    "name": "Especiaria, Especiarias",
+    "slug": "spice-spices",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 37:25",
+        "original": "Genesis 37:25"
+      },
+      {
+        "reference": "Genesis 43:11",
+        "original": "Genesis 43:11"
+      },
+      {
+        "reference": "John 19:39",
+        "original": "John 19:39"
+      },
+      {
+        "reference": "John 19:40",
+        "original": "John 19:40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "spices": {
+    "name": "Especiarias",
+    "slug": "spices",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Substâncias aromáticas, várias das quais são mencionadas em Êxodo 30. Elas eram utilizadas no óleo sagrado de unção (Êxodo 25:6; 35:8; 1 Crônicas 9:29) e no embalsamamento dos mortos (2 Crônicas 16:14; Lucas 23:56; 24:1; João 19:39, 40). As especiarias eram armazenadas por Ezequias em seu tesouro (2 Reis 20:13; Isaías 39:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30",
+        "original": "Ex. 30"
+      },
+      {
+        "reference": "Exodus 25:6",
+        "original": "Ex. 25:6"
+      },
+      {
+        "reference": "Exodus 35:8",
+        "original": "Ex 35:8"
+      },
+      {
+        "reference": "1 Chronicles 9:29",
+        "original": "1 Chr. 9:29"
+      },
+      {
+        "reference": "2 Chronicles 16:14",
+        "original": "2 Chr. 16:14"
+      },
+      {
+        "reference": "Luke 23:56",
+        "original": "Luke 23:56"
+      },
+      {
+        "reference": "Luke 24:1",
+        "original": "Luke 24:1"
+      },
+      {
+        "reference": "John 19:39",
+        "original": "John 19:39"
+      },
+      {
+        "reference": "John 19:40",
+        "original": "John 19:40"
+      },
+      {
+        "reference": "2 Kings 20:13",
+        "original": "2 Kings 20:13"
+      },
+      {
+        "reference": "Isaiah 39:2",
+        "original": "Isa. 39:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "spies": {
+    "name": "Espiões",
+    "slug": "spies",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Quando os israelitas chegaram a Cades pela primeira vez e acamparam ali, Moisés escolheu doze espiões dentre os chefes das divisões das tribos e os enviou para explorar a terra de Canaã (Nm 13) e trazer-lhe um relatório sobre sua situação real. Eles imediatamente partiram para cumprir essa importante missão e percorreram a terra até o norte, chegando à região ao redor do Lago Merom. Após cerca de seis semanas de ausência, eles retornaram. Seu relatório foi muito desanimador, e o povo ficou profundamente alarmado; com espírito rebelde, propôs eleger um novo líder e retornar ao Egito. Apenas dois dos espiões, Calebe e Josué, mostraram-se, nessa ocasião, corajosos e fiéis. Todos os seus apelos e protestos foram em vão. Moisés anunciou que, como punição por sua rebelião, eles deveriam agora vagar pelo deserto até que surgisse uma nova geração que subisse e tomasse posse da terra. Os espiões estiveram ausentes por quarenta dias em sua expedição, e por cada dia os israelitas deveriam vagar pelo deserto por um ano. (Ver ESHCOL.) Dois espiões foram enviados por Josué “secretamente”, ou seja, sem o conhecimento do povo (Josué 2:1), “para examinar a terra e Jericó” após a morte de Moisés, e pouco antes de as tribos sob sua liderança estarem prestes a cruzar o Jordão. Eles souberam por Raabe (ver), em cuja casa encontraram um esconderijo, que o terror havia se abatido sobre todos os habitantes da terra por causa das grandes coisas que haviam ouvido dizer que Jeová havia feito por eles (Êx. 15:14-16; comp. 23:27; Dt 2:25; 11:25). Como resultado de sua missão, eles relataram: “Na verdade, o Senhor entregou toda a terra em nossas mãos; pois até mesmo todos os habitantes do país estão desanimados por nossa causa.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13",
+        "original": "Num. 13"
+      },
+      {
+        "reference": "Joshua 2:1",
+        "original": "Josh. 2:1"
+      },
+      {
+        "reference": "Exodus 15:14-16",
+        "original": "Ex. 15:14-16"
+      },
+      {
+        "reference": "Deuteronomy 2:25",
+        "original": "Deut. 2:25"
+      },
+      {
+        "reference": "Deuteronomy 11:25",
+        "original": "Deut 11:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "spirit": {
+    "name": "Espírito",
+    "slug": "spirit",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebr. ruah; Gr. pneuma), propriamente vento ou sopro. Em 2 Tess. 2:8 significa “sopro”, e em Ecl. 8:8, o princípio vital do homem. Também denota a alma racional e imortal pela qual o homem se distingue (Atos 7:59; 1 Coríntios 5:5; 6:20; 7:34), bem como a alma em seu estado separado (Hb 12:23) e, portanto, também uma aparição (Jó 4:15; Lucas 24:37, 39), um anjo (Hebreus 1:14) e um demônio (Lucas 4:36; 10:20). Essa palavra também é usada metaforicamente para denotar uma tendência (Zacarias 12:10; Lucas 13:11). Em Romanos 1:4, 1 Timóteo 3:16, 2 Coríntios 3:17 e 1 Pedro 3:18, ela designa a natureza divina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Thessalonians 2:8",
+        "original": "2 Thess. 2:8"
+      },
+      {
+        "reference": "Ecclesiastes 8:8",
+        "original": "Eccl. 8:8"
+      },
+      {
+        "reference": "Acts 7:59",
+        "original": "Acts 7:59"
+      },
+      {
+        "reference": "1 Corinthians 5:5",
+        "original": "1 Cor. 5:5"
+      },
+      {
+        "reference": "1 Corinthians 6:20",
+        "original": "1 Cor. 6:20"
+      },
+      {
+        "reference": "1 Corinthians 7:34",
+        "original": "1 Cor. 7:34"
+      },
+      {
+        "reference": "Hebrews 12:23",
+        "original": "Heb. 12:23"
+      },
+      {
+        "reference": "Job 4:15",
+        "original": "Job 4:15"
+      },
+      {
+        "reference": "Luke 24:37",
+        "original": "Luke 24:37"
+      },
+      {
+        "reference": "Luke 24:39",
+        "original": "Luke 24:39"
+      },
+      {
+        "reference": "Hebrews 1:14",
+        "original": "Heb. 1:14"
+      },
+      {
+        "reference": "Luke 4:36",
+        "original": "Luke 4:36"
+      },
+      {
+        "reference": "Luke 10:20",
+        "original": "Luke 10:20"
+      },
+      {
+        "reference": "Zechariah 12:10",
+        "original": "Zech. 12:10"
+      },
+      {
+        "reference": "Luke 13:11",
+        "original": "Luke 13:11"
+      },
+      {
+        "reference": "Romans 1:4",
+        "original": "Rom. 1:4"
+      },
+      {
+        "reference": "Romans 1:1",
+        "original": "Rom. 1:1"
+      },
+      {
+        "reference": "2 Corinthians 3:17",
+        "original": "2 Cor. 3:17"
+      },
+      {
+        "reference": "2 Corinthians 3:1",
+        "original": "2 Cor. 3:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "spirit-holy": {
+    "name": "Espírito Santo",
+    "slug": "spirit-holy",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Veja ESPÍRITO SANTO."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "sponge": {
+    "name": "Esponja",
+    "slug": "sponge",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocorre apenas na narrativa da crucificação (Mt 27,48; Mc 15,36; Jo 19,29). É classificado como um zoófito. É encontrado fixado às rochas no fundo do mar."
+      },
+      {
+        "source": "SMI",
+        "text": "uma substância marinha macia e porosa. Por muito tempo, acreditava-se que as esponjas fossem plantas, mas hoje são consideradas pelos melhores naturalistas como pertencentes ao reino animal. A esponja é mencionada apenas no Novo Testamento. (Mateus 27:48; Marcos 15:36; João 19:29) O valor comercial da esponja era conhecido desde tempos muito remotos; e, embora não pareça haver nenhuma menção a ela no Antigo Testamento, é provável que fosse utilizada pelos antigos hebreus, que poderiam obtê-la facilmente no Mediterrâneo, onde era encontrada principalmente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:48",
+        "original": "Matt. 27:48"
+      },
+      {
+        "reference": "Mark 15:36",
+        "original": "Mark 15:36"
+      },
+      {
+        "reference": "John 19:29",
+        "original": "John 19:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "stars": {
+    "name": "Estrelas",
+    "slug": "stars",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "As onze estrelas (Gênesis 37:9); as sete (Amós 5:8); errantes (Judas 1:13); vistas no Oriente no nascimento de Cristo, provavelmente alguns meteoros luminosos formados milagrosamente para esse propósito específico (Mateus 2:2-10); estrelas adoradas (Dt 4:19; 2 Reis 17:16; 21:3; Jr 19:13); mencionadas simbolicamente (Nm 24:17; Ap 1:16, 20; 12:1). (Veja ASTROLOGOS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 37:9",
+        "original": "Gen. 37:9"
+      },
+      {
+        "reference": "Amos 5:8",
+        "original": "Amos 5:8"
+      },
+      {
+        "reference": "Jude 1:1",
+        "original": "Jude 1"
+      },
+      {
+        "reference": "Matthew 2:2-10",
+        "original": "Matt. 2:2-10"
+      },
+      {
+        "reference": "Deuteronomy 4:19",
+        "original": "Deut. 4:19"
+      },
+      {
+        "reference": "2 Kings 17:16",
+        "original": "2 Kings 17:16"
+      },
+      {
+        "reference": "2 Kings 21:3",
+        "original": "2 Kings 21:3"
+      },
+      {
+        "reference": "Jeremiah 19:13",
+        "original": "Jer. 19:13"
+      },
+      {
+        "reference": "Numbers 24:17",
+        "original": "Num. 24:17"
+      },
+      {
+        "reference": "Revelation 1:16",
+        "original": "Rev. 1:16"
+      },
+      {
+        "reference": "Revelation 1:20",
+        "original": "Rev. 1:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "stater": {
+    "name": "Estados",
+    "slug": "stater",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Palavra grega traduzida como “moeda” (Mateus 17:27, A.V.; e “shekel” na R.V.). Equivalia a duas didrácmias (“dinheiro do tributo”, 17:24), ou quatro drácmias, e a cerca de 2 xelins e 6 pence da nossa moeda. (Veja SHEKEL.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Dinheiro]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 17:27",
+        "original": "Matt. 17:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "stoics": {
+    "name": "Estóicos",
+    "slug": "stoics",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma seita de filósofos gregos de Atenas, assim chamada a partir da palavra grega stoa, ou seja, um “pórtico”, onde foram chamados de “os fariseus do paganismo grego”. O fundador dos estóicos foi Zenão, que viveu por volta de 300 a.C. Ele ensinava a seus discípulos que a felicidade do homem consistia em colocar-se em harmonia com o curso do universo. Eles eram treinados para suportar os males com indiferença e, assim, tornarem-se independentes das circunstâncias externas. Materialismo, panteísmo, fatalismo e orgulho eram as principais características dessa filosofia."
+      },
+      {
+        "source": "SMI",
+        "text": "Os estóicos e os epicuristas, mencionados em conjunto em (Atos 17:18), representam as duas escolas opostas de filosofia prática que sobreviveram ao declínio da especulação mais elevada na Grécia. A escola estoica foi fundada por Zenão de Cítio (cerca de 280 a.C.) e derivou seu nome do “pórtico” (stoa) pintado em Atenas, no qual ele ensinava. Zenão foi sucedido por Cleantes (cerca de 260 a.C.); Cleantes por Crisipo (por volta de 240 a.C.), considerado o fundador do sistema estoico. “Eles viam Deus e o mundo como poder e sua manifestação, sendo a matéria um terreno passivo no qual habita a energia divina. Sua ética era um protesto contra a indiferença moral, e viver em harmonia com a natureza, em conformidade com a razão e as exigências do bem universal, e com a máxima indiferença em relação ao prazer, à dor e a todo bem ou mal externo, era sua máxima fundamental.” — American Cyclopaedia. Costuma-se supor que o sistema ético dos estóicos tenha uma estreita conexão com a moral cristã; mas a moral do estoicismo baseia-se essencialmente no orgulho, enquanto a do cristianismo se baseia na humildade; uma defende a independência individual, a outra, a fé absoluta em outrem; uma busca consolo no desfecho do destino, a outra, na Providência; um está limitado por períodos de ruína cósmica, o outro se consuma em uma ressurreição pessoal. (Atos 17:18) Mas, apesar do erro fundamental do estoicismo, que reside em um egoísmo supremo, os ensinamentos dessa escola deram ampla difusão às nobres doutrinas da paternidade de Deus, dos laços comuns da humanidade e da soberania da alma. Entre seus representantes mais proeminentes estavam Zenão e Antípatro de Tarso, Sêneca e Marco Aurélio."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 17:18",
+        "original": "Acts 17:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "strain-at": {
+    "name": "Esforçar-se para",
+    "slug": "strain-at",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Trata-se simplesmente de um erro de impressão em vez de “coar” (Mt 23,24)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Assim traduzido na Versão Autorizada, mas na Versão Revisada aparece “coar” (Mateus 23:24), o que é, sem dúvida, a leitura correta. — ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 23:24",
+        "original": "Matt. 23:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "stranger": {
+    "name": "Estranho",
+    "slug": "stranger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Essa palavra geralmente se refere a uma pessoa proveniente de uma terra estrangeira que residia na Palestina. Essas pessoas desfrutavam de muitos privilégios em comum com os judeus, mas ainda assim eram separadas deles. A relação dos judeus com os estrangeiros era regulada por leis especiais (Dt 23:3; 24:14-21; 25:5; 26:10-13). Às vezes, também se atribui um significado especial a essa palavra. Em Gênesis 23:4, ela se refere a alguém que reside em uma terra estrangeira; em Êxodo 23:9, a alguém que não é judeu; em Números 3:10, a alguém que não pertence à família de Aarão; em Salmos 69:8, um estrangeiro ou uma pessoa desconhecida. Os judeus tinham permissão para comprar estrangeiros como escravos (Levítico 25:44, 45) e cobrar juros deles (Deuteronômio 23:20)."
+      },
+      {
+        "source": "SMI",
+        "text": "Um “estrangeiro”, no sentido técnico do termo, pode ser definido como uma pessoa de origem estrangeira, ou seja, não israelita, residente dentro dos limites da terra prometida. Ele se distinguia do “estrangeiro” propriamente dito, na medida em que este último ainda pertencia a outro país e apenas visitava a Palestina como viajante; distinguia-se ainda mais das “nações”, ou povos não israelitas. O termo pode ser comparado à nossa expressão “estrangeiro naturalizado”. Os termos aplicados ao “estranho” referem-se especialmente ao fato de residir na terra. A existência de tal classe de pessoas entre os israelitas é facilmente explicada pela “multidão mista” que os acompanhou ao sair do Egito, (Êxodo 12:38); a população cananeia, que nunca foi totalmente extirpada de seu solo natal, constituía um elemento; os cativos capturados na guerra, outro ainda mais importante; e fugitivos, servos contratados, comerciantes etc., formavam um quarto. Com exceção dos moabitas e amonitas (23:3), todas as nações tinham direito à cidadania sob certas condições. O estrangeiro parece ter sido elegível para todos os cargos civis, com exceção do de rei. (17:15) No que diz respeito à religião, era absolutamente necessário que o estrangeiro não infringisse nenhuma das leis fundamentais do Estado israelita. Se fosse um servo, era obrigado a submeter-se à circuncisão (Êxodo 12:44); se fosse independente, a circuncisão era opcional para ele, mas, caso permanecesse incircunciso, era proibido de participar da Páscoa, (Êxodo 12:48) e não poderia ser considerado um cidadão de pleno direito. Também era concedida liberdade ao estrangeiro incircunciso no que diz respeito ao consumo de alimentos proibidos. Supondo, no entanto, que o estrangeiro fosse circuncidado, não havia distinção quanto aos direitos legais entre o estrangeiro e o israelita; ao israelita é ordenado que o trate como um irmão. (Levítico 19:34; 10:19) Parece também que o “estrangeiro” constituía a classe da qual provinham os mercenários; os termos são associados em (Êxodo 12:45; Levítico 22:10; 25:6,40). O espírito liberal das normas mosaicas em relação aos estrangeiros contrasta fortemente com o rígido exclusivismo dos judeus no início da era cristã. O desenvolvimento desse espírito remonta à época do cativeiro babilônico."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 23:3",
+        "original": "Deut. 23:3"
+      },
+      {
+        "reference": "Deuteronomy 24:14-21",
+        "original": "Deut 24:14-21"
+      },
+      {
+        "reference": "Deuteronomy 25:5",
+        "original": "Deut 25:5"
+      },
+      {
+        "reference": "Deuteronomy 26:10-13",
+        "original": "Deut 26:10-13"
+      },
+      {
+        "reference": "Genesis 23:4",
+        "original": "Gen. 23:4"
+      },
+      {
+        "reference": "Exodus 23:9",
+        "original": "Ex. 23:9"
+      },
+      {
+        "reference": "Numbers 3:10",
+        "original": "Num. 3:10"
+      },
+      {
+        "reference": "Psalms 69:8",
+        "original": "Ps. 69:8"
+      },
+      {
+        "reference": "Leviticus 25:44",
+        "original": "Lev. 25:44"
+      },
+      {
+        "reference": "Leviticus 25:45",
+        "original": "Lev. 25:45"
+      },
+      {
+        "reference": "Deuteronomy 23:20",
+        "original": "Deut. 23:20"
+      },
+      {
+        "reference": "Exodus 12:38",
+        "original": "Exodus 12:38"
+      },
+      {
+        "reference": "Exodus 12:44",
+        "original": "Exodus 12:44"
+      },
+      {
+        "reference": "Exodus 12:48",
+        "original": "Exodus 12:48"
+      },
+      {
+        "reference": "Leviticus 19:34",
+        "original": "Leviticus 19:34"
+      },
+      {
+        "reference": "Leviticus 10:19",
+        "original": "Leviticus 10:19"
+      },
+      {
+        "reference": "Exodus 12:45",
+        "original": "Exodus 12:45"
+      },
+      {
+        "reference": "Leviticus 22:10",
+        "original": "Leviticus 22:10"
+      },
+      {
+        "reference": "Leviticus 25:6",
+        "original": "Leviticus 25:6"
+      },
+      {
+        "reference": "Leviticus 25:40",
+        "original": "Leviticus 25:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "succoth": {
+    "name": "Estandes",
+    "slug": "succoth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Booths. (1.) O primeiro acampamento dos israelitas após deixarem Ramsés (Êxodo 12:37); o nome civil de Pithom (ver lá). (2.) Uma cidade a leste do Jordão, identificada com Tell Dar’ala, um monte elevado, uma pilha de escombros, na planície ao norte de Jaboque e a cerca de uma milha dela (Josué 13:27). Aqui Jacó (Gênesis 32:17, 30; 33:17), ao retornar de Padã-Arã após seu encontro com Esaú, construiu uma casa para si e fez cabanas para seu gado. Os príncipes dessa cidade recusaram-se grosseiramente a prestar ajuda a Gideão e seus 300 homens quando, “exaustos, mas ainda em perseguição”, eles seguiam um dos bandos dos midianitas fugitivos após a grande vitória em Gilboa. Depois de alcançar e derrotar esse grupo em Karkor, Gideão, ao retornar, infligiu severo castigo aos governantes da cidade. “Ele tomou os anciãos da cidade, e espinhos do deserto e sarças, e com eles castigou os homens de Sucote” (Juízes 8:13-16). Nesse local foram erguidas as fundições para a fabricação das peças de metal destinadas ao templo (1 Reis 7:46)."
+      },
+      {
+        "source": "SMI",
+        "text": "(estandes)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 12:37",
+        "original": "Ex. 12:37"
+      },
+      {
+        "reference": "Joshua 13:27",
+        "original": "Josh. 13:27"
+      },
+      {
+        "reference": "Genesis 32:17",
+        "original": "Gen. 32:17"
+      },
+      {
+        "reference": "Genesis 32:30",
+        "original": "Gen. 32:30"
+      },
+      {
+        "reference": "Judges 8:13-16",
+        "original": "Judg. 8:13-16"
+      },
+      {
+        "reference": "1 Kings 7:46",
+        "original": "1 Kings 7:46"
+      },
+      {
+        "reference": "Genesis 35:17",
+        "original": "Genesis 35:17"
+      },
+      {
+        "reference": "Judges 5:5-17",
+        "original": "Judges 5:5-17"
+      },
+      {
+        "reference": "2 Chronicles 4:17",
+        "original": "2 Chronicles 4:17"
+      },
+      {
+        "reference": "Exodus 13:20",
+        "original": "Exodus 13:20"
+      },
+      {
+        "reference": "Numbers 33:5",
+        "original": "Numbers 33:5"
+      },
+      {
+        "reference": "Numbers 33:6",
+        "original": "Numbers 33:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sun": {
+    "name": "Eles",
+    "slug": "sun",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebr. shemesh), mencionado pela primeira vez juntamente com a lua como os dois grandes astros do céu (Gênesis 1:14-18). Por meio de seus movimentos e influência, eles tinham a função de marcar e dividir os tempos e as estações. A adoração ao sol era uma das formas mais antigas de religião falsa (Jó 31:26, 27) e era comum entre os egípcios, os caldeus e outras nações pagãs. Os judeus foram advertidos contra essa forma de idolatria (Dt 4:19; 17:3; cf. 2 Reis 23:11; Jr 19:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "Na história da “luz maior”, da criação, o sol é descrito como a “luz maior”, em contraste com a lua, a “luz menor”, em conjunto com a qual deveria servir “para sinais, para estações, para dias e para anos”, enquanto sua função especial era “governar o dia”. (Gênesis 1:14-16) Os “sinais” mencionados eram provavelmente fenômenos extraordinários, como eclipses, que eram considerados portadores de premonições de eventos futuros. (Jeremias 10:2; Mateus 24:29) e Lucas 21:25. A influência conjunta atribuída ao sol e à lua na determinação das “estações”, tanto para as atividades agrícolas quanto para as festas religiosas, e também na regulação da duração e das subdivisões dos anos, “descreve corretamente a combinação do ano lunar e do ano solar que prevaleceu em todos os eventos posteriores ao período mosaico. O nascer e o pôr do sol são os únicos pontos definidos no tempo, na ausência de dispositivos artificiais para indicar a hora do dia. Entre esses dois pontos, os judeus reconheciam três períodos, a saber: quando o sol ficava quente, por volta das 9h da manhã (1 Samuel 11:9; Neemias 7:3); a luz dupla, ou meio-dia (Gênesis 43:16; 2 Samuel 4:5) e “o frescor do dia”, pouco antes do pôr do sol. (Gênesis 3:8) O sol também servia para definir os pontos cardeais do hemisfério — leste, oeste, norte e sul —, que eram representados, respectivamente, pelo sol nascente, pelo sol poente (Isaías 45:6; Salmos 50:1), pelo quarto escuro (Gênesis 13:14; Joel 2:20) e o quadrante brilhante (33:23; Jó 37:17; Ezequiel 40:24) ou, ainda, por sua posição em relação a uma pessoa voltada para o sol nascente — à frente, atrás, à esquerda e à direita. (Jó 23:8,9) A adoração ao sol, como o agente mais proeminente e poderoso no reino da natureza, estava amplamente difundida por todos os países adjacentes à Palestina. Os árabes parecem ter prestado culto direto a ele, sem a intervenção de qualquer estátua ou símbolo (Jó 31:26,27), e esse estilo simples de adoração provavelmente era familiar aos ancestrais dos judeus na Caldeia e na Mesopotâmia. Os hebreus devem ter se familiarizado bem com a adoração idólatra do sol durante o cativeiro no Egito, tanto pela proximidade de On, a principal sede da adoração ao sol, como sugere o próprio nome (On sendo o equivalente ao hebraico Bet-Semes, “casa do sol”) (Jeremias 43:13) e também pela conexão entre José e Potifar (“aquele que pertence a Ela”), o sacerdote de On (Gênesis 41:45) Após sua mudança para Canaã, os hebreus entraram em contato com várias formas de idolatria originadas no culto ao sol; tais como o Baal dos fenícios, o Molech ou Milcom dos amonitas e o Hadad dos sírios. A importância atribuída à adoração do sol pelos reis judeus pode ser inferida do fato de que os cavalos sagrados para o sol ficavam alojados dentro do recinto do templo (2 Reis 23:11). Na linguagem metafórica das Escrituras, o sol simboliza a lei de Deus (Salmos 19:7), a presença reconfortante de Deus (Salmos 84:11), a pessoa do Salvador (João 1:9; Malaquias 4:2) e da glória e pureza dos seres celestiais. (Apocalipse 1:16; 10:1)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:14-18",
+        "original": "Gen. 1:14-18"
+      },
+      {
+        "reference": "Job 31:26",
+        "original": "Job 31:26"
+      },
+      {
+        "reference": "Job 31:27",
+        "original": "Job 31:27"
+      },
+      {
+        "reference": "Deuteronomy 4:19",
+        "original": "Deut. 4:19"
+      },
+      {
+        "reference": "Deuteronomy 17:3",
+        "original": "Deut 17:3"
+      },
+      {
+        "reference": "2 Kings 23:11",
+        "original": "2 Kings 23:11"
+      },
+      {
+        "reference": "Jeremiah 19:13",
+        "original": "Jer. 19:13"
+      },
+      {
+        "reference": "Genesis 1:14-16",
+        "original": "Genesis 1:14-16"
+      },
+      {
+        "reference": "Jeremiah 10:2",
+        "original": "Jeremiah 10:2"
+      },
+      {
+        "reference": "Matthew 24:29",
+        "original": "Matthew 24:29"
+      },
+      {
+        "reference": "Luke 21:25",
+        "original": "Luke 21:25"
+      },
+      {
+        "reference": "1 Samuel 11:9",
+        "original": "1 Samuel 11:9"
+      },
+      {
+        "reference": "Nehemiah 7:3",
+        "original": "Nehemiah 7:3"
+      },
+      {
+        "reference": "Genesis 43:16",
+        "original": "Genesis 43:16"
+      },
+      {
+        "reference": "2 Samuel 4:5",
+        "original": "2 Samuel 4:5"
+      },
+      {
+        "reference": "Genesis 3:8",
+        "original": "Genesis 3:8"
+      },
+      {
+        "reference": "Isaiah 45:6",
+        "original": "Isaiah 45:6"
+      },
+      {
+        "reference": "Psalms 50:1",
+        "original": "Psalms 50:1"
+      },
+      {
+        "reference": "Genesis 13:14",
+        "original": "Genesis 13:14"
+      },
+      {
+        "reference": "Joel 2:20",
+        "original": "Joel 2:20"
+      },
+      {
+        "reference": "Job 37:17",
+        "original": "Job 37:17"
+      },
+      {
+        "reference": "Ezekiel 40:24",
+        "original": "Ezekiel 40:24"
+      },
+      {
+        "reference": "Job 23:8",
+        "original": "Job 23:8"
+      },
+      {
+        "reference": "Job 23:9",
+        "original": "Job 23:9"
+      },
+      {
+        "reference": "Jeremiah 43:13",
+        "original": "Jeremiah 43:13"
+      },
+      {
+        "reference": "Genesis 41:45",
+        "original": "Genesis 41:45"
+      },
+      {
+        "reference": "Psalms 19:7",
+        "original": "Psalms 19:7"
+      },
+      {
+        "reference": "Psalms 84:11",
+        "original": "Psalms 84:11"
+      },
+      {
+        "reference": "John 1:9",
+        "original": "John 1:9"
+      },
+      {
+        "reference": "Malachi 4:2",
+        "original": "Malachi 4:2"
+      },
+      {
+        "reference": "Revelation 1:16",
+        "original": "Revelation 1:16"
+      },
+      {
+        "reference": "Revelation 10:1",
+        "original": "Revelation 10:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "suph": {
+    "name": "E aí, tudo bem?",
+    "slug": "suph",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dt 1:1, R.V.; nota marginal: “algumas versões antigas mencionam o Mar Vermelho”, como na A.V.). Alguns identificam esse local com Suphah (Nm 21:14, nota marginal, A.V.), provavelmente como o nome de um lugar. Outros identificam-no com es-Sufah = Maaleh-acrabbim (Josué 15:3), e outros ainda com Zuf (1 Samuel 9:5). É mais provável, no entanto, que, de acordo com as versões antigas, essa palavra deva ser considerada simplesmente uma abreviação de Yam-suph, ou seja, o “Mar Vermelho”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 1:1",
+        "original": "Deut. 1:1"
+      },
+      {
+        "reference": "Numbers 21:14",
+        "original": "Num. 21:14"
+      },
+      {
+        "reference": "Joshua 15:3",
+        "original": "Josh. 15:3"
+      },
+      {
+        "reference": "1 Samuel 9:5",
+        "original": "1 Sam. 9:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "sword": {
+    "name": "Espada",
+    "slug": "sword",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A espada hebraica era pontiaguda, às vezes de dois gumes, era guardada em uma bainha e pendurada no cinto (Êx. 32:27; 1 Sam. 31:4; 1 Crôn. 21:27; Sal. 149:6; Prov. 5:4; Ez. 16:40; 21:3-5). É um símbolo do castigo divino (Dt 32,25; Sl 7,12; 78,62) e de uma língua caluniosa (Sl 57,4; 64,3; Pv 12,18). A palavra de Deus também é comparada a uma espada (Hb 4,12; Ef 6,17; Ap 1,16). A palavra de ordem de Gideão era: “A espada do Senhor” (Jz 7,20)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Armas, Armaduras]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 32:27",
+        "original": "Ex. 32:27"
+      },
+      {
+        "reference": "1 Samuel 31:4",
+        "original": "1 Sam. 31:4"
+      },
+      {
+        "reference": "1 Chronicles 21:27",
+        "original": "1 Chr. 21:27"
+      },
+      {
+        "reference": "Psalms 149:6",
+        "original": "Ps. 149:6"
+      },
+      {
+        "reference": "Proverbs 5:4",
+        "original": "Prov. 5:4"
+      },
+      {
+        "reference": "Ezekiel 16:40",
+        "original": "Ezek. 16:40"
+      },
+      {
+        "reference": "Ezekiel 21:3-5",
+        "original": "Ezek 21:3-5"
+      },
+      {
+        "reference": "Deuteronomy 32:25",
+        "original": "Deut. 32:25"
+      },
+      {
+        "reference": "Psalms 7:12",
+        "original": "Ps. 7:12"
+      },
+      {
+        "reference": "Psalms 78:62",
+        "original": "Ps 78:62"
+      },
+      {
+        "reference": "Psalms 57:4",
+        "original": "Ps. 57:4"
+      },
+      {
+        "reference": "Psalms 64:3",
+        "original": "Ps 64:3"
+      },
+      {
+        "reference": "Proverbs 12:18",
+        "original": "Prov. 12:18"
+      },
+      {
+        "reference": "Hebrews 4:12",
+        "original": "Heb. 4:12"
+      },
+      {
+        "reference": "Ephesians 6:17",
+        "original": "Eph. 6:17"
+      },
+      {
+        "reference": "Revelation 1:16",
+        "original": "Rev. 1:16"
+      },
+      {
+        "reference": "Judges 7:20",
+        "original": "Judg. 7:20"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "tema": {
+    "name": "Ele",
+    "slug": "tema",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sul; deserto, um dos filhos de Ismael e pai de uma tribo que leva esse nome (Gên. 25:15; 1 Crôn. 1:30; Jó 6:19; Isaías 21:14; Jeremias 25:23), que se estabeleceu em um local ao qual deu seu nome, a cerca de 250 milhas a sudeste de Edom, na rota entre Damasco e Meca, na parte norte da Península Arábica, em direção ao deserto da Síria; a atual Teyma’."
+      },
+      {
+        "source": "SMI",
+        "text": "(um deserto), o nono filho de Ismael (Gênesis 25:15; 1 Crônicas 1:30), de onde deriva o nome da tribo que leva seu nome, mencionada em (Jó 6:19; Jeremias 25:23), bem como o nome da terra ocupada por essa tribo. (Isaías 21:13,14) (após 1850 a.C.) O nome é identificado com Teyma, uma pequena cidade na fronteira com a Síria."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:15",
+        "original": "Gen. 25:15"
+      },
+      {
+        "reference": "1 Chronicles 1:30",
+        "original": "1 Chr. 1:30"
+      },
+      {
+        "reference": "Job 6:19",
+        "original": "Job 6:19"
+      },
+      {
+        "reference": "Isaiah 21:14",
+        "original": "Isa. 21:14"
+      },
+      {
+        "reference": "Jeremiah 25:23",
+        "original": "Jer. 25:23"
+      },
+      {
+        "reference": "Isaiah 21:13",
+        "original": "Isaiah 21:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "thessalonians-epistles-to-the": {
+    "name": "Epístolas aos Tessalonicenses",
+    "slug": "thessalonians-epistles-to-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A Primeira Epístola aos Tessalonicenses foi a primeira de todas as epístolas de Paulo. Foi, muito provavelmente, escrita em Corinto, onde ele permaneceu por um “longo tempo” (Atos 18:11, 18), no início de sua estada naquela cidade, por volta do final do ano 52 d.C. O motivo de sua redação foi o retorno de Timóteo da Macedônia, trazendo notícias de Tessalônica sobre a situação da igreja local (Atos 18:1-5; 1 Tess. 3:6). Embora, no geral, o relato de Timóteo fosse encorajador, ele também revelava que diversos erros e mal-entendidos a respeito do teor do ensino de Paulo haviam se infiltrado entre eles. Ele se dirige a eles nesta carta com o objetivo de corrigir esses erros e, especialmente, para exortá-los à pureza de vida, lembrando-lhes que sua santificação era o grande objetivo desejado por Deus para eles. A assinatura indica erroneamente que esta epístola foi escrita em Atenas. A segunda epístola aos Tessalonicenses provavelmente também foi escrita de Corinto, poucos meses após a primeira. O motivo para a redação desta epístola foi a chegada de notícias de que o teor da primeira epístola havia sido mal interpretado, especialmente no que se refere à segunda vinda de Cristo. Os tessalonicenses haviam abraçado a ideia de que Paulo havia ensinado que “o dia de Cristo estava próximo”, que a vinda de Cristo estava prestes a acontecer. Esse erro é corrigido (2:1-12), e o apóstolo anuncia profeticamente o que deve ocorrer primeiro. “A apostasia” era o que deveria surgir primeiro. Várias explicações para essa expressão já foram apresentadas, mas a mais satisfatória refere-se à Igreja de Roma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 18:11",
+        "original": "Acts 18:11"
+      },
+      {
+        "reference": "Acts 18:18",
+        "original": "Acts 18:18"
+      },
+      {
+        "reference": "Acts 18:1-5",
+        "original": "Acts 18:1-5"
+      },
+      {
+        "reference": "1 Thessalonians 3:6",
+        "original": "1 Thess. 3:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "thorn-in-the-flesh": {
+    "name": "Espinho na carne",
+    "slug": "thorn-in-the-flesh",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(2 Cor. 12:7-10). Muitas interpretações já foram feitas sobre essa passagem. (1.) Os autores católicos romanos acreditam que ela se refere a sugestões de impiedade. (2.) Lutero, Calvino e outros reformadores interpretam a expressão como uma referência à tentação de descrença. (3.) Outros supõem que a expressão se refira a “uma dor no ouvido ou na cabeça”, crises epilépticas ou, em geral, a alguma enfermidade física grave, que constituía um obstáculo para o apóstolo em seu trabalho (cf. 1 Cor. 2:3; 2 Cor. 10:10; 11:30; Gálatas 4:13, 14; 6:17). Com grande probabilidade, tem-se alegado que sua doença era um defeito de visão, consequência da luz ofuscante que brilhou ao seu redor na época de sua conversão, ou seja, uma oftalmia aguda. Isso explicaria as afirmações em Gálatas 4:14; 2 Coríntios 10:10; também Atos 23:5, e o fato de ele geralmente recorrer à ajuda de um amanuense (comp. Romanos 16:22, etc.). (4.) Outra interpretação que tem sido defendida é que esse “espinho” consistia em uma fraqueza de temperamento, à qual ele ocasionalmente cedia e que interferia em seu sucesso (comp. Atos 15:39; 23:2-5). Se considerarmos o fato — “que a experiência dos santos de Deus em todas as épocas estabeleceu de forma conclusiva” — da dificuldade de subjugar uma fraqueza de temperamento, bem como a dor, o remorso e a humilhação que tal fraqueza costuma causar àqueles que gemem sob seu peso, podemos nos sentir inclinados a acreditar que uma das hipóteses mais prováveis a respeito do ‘espinho’ ou ‘estaca’ na carne é que o coração amoroso do apóstolo lamentava, como sua provação mais dolorosa, o infortúnio de que, por impaciência na palavra, ele muitas vezes havia ferido aqueles por quem de bom grado teria dado a vida” (Lias, 2 Coríntios, Introdução)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Corinthians 12:7-10",
+        "original": "2 Cor. 12:7-10"
+      },
+      {
+        "reference": "1 Corinthians 2:3",
+        "original": "1 Cor. 2:3"
+      },
+      {
+        "reference": "2 Corinthians 10:10",
+        "original": "2 Cor. 10:10"
+      },
+      {
+        "reference": "2 Corinthians 11:30",
+        "original": "2 Cor. 11:30"
+      },
+      {
+        "reference": "Galatians 4:13",
+        "original": "Gal. 4:13"
+      },
+      {
+        "reference": "Galatians 4:14",
+        "original": "Gal. 4:14"
+      },
+      {
+        "reference": "Acts 23:5",
+        "original": "Acts 23:5"
+      },
+      {
+        "reference": "Romans 16:22",
+        "original": "Rom. 16:22"
+      },
+      {
+        "reference": "Acts 15:39",
+        "original": "Acts 15:39"
+      },
+      {
+        "reference": "Acts 23:2-5",
+        "original": "Acts 23:2-5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "thorns": {
+    "name": "Espinhos",
+    "slug": "thorns",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "e cardos. Parece haver dezoito ou vinte palavras hebraicas que se referem a diferentes tipos de arbustos espinhosos ou com espinhos. Essas palavras são traduzidas de diversas maneiras na Versão Autorizada como “espinhos”, “arbustos espinhosos”, “cardos”, etc. A Palestina era rica em uma grande variedade dessas plantas. (“Os viajantes chamam a Terra Santa de ‘terra de espinhos’. Cardo-gigantes, que crescem até a altura de um homem a cavalo, frequentemente se espalham por regiões outrora ricas e férteis, assim como ocorrem nos pampas da América do Sul; e muitos dos locais históricos e ruínas mais interessantes tornam-se quase inacessíveis devido a matagais de espinheiros ferozmente armados. Campos inteiros estão cobertos pelos incômodos caules rastejantes do ononis espinhoso, enquanto as encostas nuas estão repletas das perigosas cápsulas dos puliuris e tribulus. Rosas das variedades mais espinhosas abundam nas encostas mais baixas do Hermon; enquanto os vales subtropicais da Judéia estão obstruídos em muitos lugares pelo espinhoso lycium.” — Coisas bíblicas geralmente desconhecidas.) Coroa de espinhos.—A coroa que foi colocada em sinal de escárnio sobre a cabeça de nosso Senhor antes de sua crucificação é, segundo alguns, supostamente o Rhamnus, ou Spina Christi; mas, embora seja abundante nas proximidades de Jerusalém, não pode ser a planta em questão, pois seus espinhos são tão fortes e grandes que não poderiam ter sido entrelaçados para formar uma coroa. O acanto de folhas grandes (pé-de-urso) é totalmente inadequado para esse fim. Se a acácia fosse a planta pretendida, como alguns supõem, a expressão teria sido ex akanthes. Obviamente, trata-se de algum arbusto pequeno, flexível e espinhoso; talvez Capparis spinosae. Hasselquist (“Travels”, p. 260) afirma que o espinho utilizado foi o nabk árabe. “Era muito adequado para o propósito deles, pois possui muitos espinhos afiados, que causam feridas dolorosas; e seus galhos flexíveis, maleáveis e arredondados podiam ser facilmente trançados na forma de uma coroa.” Ela também se assemelha ao verde escuro e intenso da coroa triunfal de hera, o que conferiria um tom ainda mais pungente ao seu propósito irônico."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "quartus": {
+    "name": "Erasto",
+    "slug": "quartus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Quarto, um cristão coríntio que enviou por meio de Paulo suas saudações aos amigos em Roma (Romanos 16:23)."
+      },
+      {
+        "source": "SMI",
+        "text": "(quarto), um cristão de Corinto, (Romanos 16:23) diz-se ter sido um dos setenta discípulos e, posteriormente, bispo de Berito. (cerca de 50 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:23",
+        "original": "Rom. 16:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "tibni": {
+    "name": "Ela constrói",
+    "slug": "tibni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A ascensão de Jeová, filho de Ginate, um homem de certa influência, que foi escolhido como monarca por um número considerável do povo. Durante quatro anos, ele disputou o trono com Omri (1 Reis 16:21, 22), que acabou por sair vitorioso e tornou-se o único monarca de Israel."
+      },
+      {
+        "source": "SMI",
+        "text": "(inteligente). Depois que Zimri se imolou em seu palácio, houve uma divisão no reino do norte: metade do povo seguiu Tibni, filho de Ginate, e a outra metade seguiu Omri. (1 Reis 16:21,22) Omri foi a escolha do exército; Tibni provavelmente foi indicado pelo povo de Tirza, que na época estava sitiada por Omri e seu exército. A luta entre as facções rivais durou quatro anos (comp.) (1 Reis 16:16,23) (926-922 a.C.), quando Tibni morreu."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 16:21",
+        "original": "1 Kings 16:21"
+      },
+      {
+        "reference": "1 Kings 16:22",
+        "original": "1 Kings 16:22"
+      },
+      {
+        "reference": "1 Kings 16:16",
+        "original": "1 Kings 16:16"
+      },
+      {
+        "reference": "1 Kings 16:23",
+        "original": "1 Kings 16:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "tinkling-ornaments": {
+    "name": "Enfeites que tilintam",
+    "slug": "tinkling-ornaments",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Is 3,18), tornozeleiras de prata ou ouro, etc., como as que ainda são usadas pelas mulheres na Síria e no Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "titus-epistle-to": {
+    "name": "Epístola a Tito",
+    "slug": "titus-epistle-to",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Provavelmente foi escrita mais ou menos na mesma época que a primeira epístola a Timóteo, com a qual apresenta muitas semelhanças. “Ambas as cartas foram endereçadas a pessoas designadas pelo autor para presidir suas respectivas igrejas durante sua ausência. Ambas as cartas se dedicam principalmente a descrever as qualificações que devem ser buscadas naqueles que deveriam ser nomeados para cargos na igreja; e os elementos dessa descrição são, em ambas as cartas, praticamente os mesmos. Timóteo e Tito são igualmente alertados contra as mesmas corrupções predominantes e, em particular, contra o mesmo desvio de seus cuidados e estudos. Essa semelhança se dá não apenas no tema das cartas — que, dada a semelhança de situação das pessoas a quem foram endereçadas, seria de se esperar que fossem um tanto semelhantes —, mas se estende, em uma grande variedade de casos, às frases e expressões. O autor dirige-se aos seus dois amigos com a mesma saudação e passa ao assunto da carta por meio da mesma transição (compare 1 Tim. 1:2, 3 com Tito 1:4, 5; 1 Tim. 1:4 com Tito 1:13, 14; 3:9; 1 Tim. 4:12 com Tito 2:7, 15)”, Horae Paulinae, de Paley. A data de sua composição pode ser deduzida do fato de que foi escrita após a visita de Paulo a Creta (Tito 1:5). Essa visita não poderia ser a mencionada em Atos 27:7, quando Paulo estava em sua viagem para Roma como prisioneiro e onde permaneceu preso por dois anos. Podemos supor, com razão, que, após sua libertação, Paulo partiu de Roma rumo à Ásia e passou por Creta no caminho, e que lá deixou Tito “para pôr em ordem as coisas que faltavam”. De lá, ele seguiu para Éfeso, onde deixou Timóteo, e de Éfeso para a Macedônia, onde escreveu a Primeira Carta a Timóteo, e de lá para Nicópolis, no Épiro, de onde escreveu a Tito, por volta de 66 ou 67 d.C. Na assinatura da epístola, afirma-se que ela foi escrita de “Nicópolis da Macedônia”, mas não se conhece nenhum lugar com esse nome. As assinaturas das epístolas não têm valor como fonte, pois não são autênticas."
+      },
+      {
+        "source": "SMI",
+        "text": "Não há aspectos específicos nesta epístola que exijam uma análise muito aprofundada, distinta das outras Cartas Pastorais de São Paulo. Ela foi escrita aproximadamente na mesma época e em circunstâncias semelhantes às das outras duas, ou seja, de Éfeso, no outono de 67, no intervalo entre as duas prisões de Paulo em Roma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Timothy 1:2",
+        "original": "1 Tim. 1:2"
+      },
+      {
+        "reference": "1 Timothy 1:3",
+        "original": "1 Tim. 1:3"
+      },
+      {
+        "reference": "Titus 1:4",
+        "original": "Titus 1:4"
+      },
+      {
+        "reference": "Titus 1:5",
+        "original": "Titus 1:5"
+      },
+      {
+        "reference": "1 Timothy 1:4",
+        "original": "1 Tim. 1:4"
+      },
+      {
+        "reference": "Titus 1:13",
+        "original": "Titus 1:13"
+      },
+      {
+        "reference": "Titus 1:14",
+        "original": "Titus 1:14"
+      },
+      {
+        "reference": "1 Timothy 4:12",
+        "original": "1 Tim. 4:12"
+      },
+      {
+        "reference": "Titus 2:7",
+        "original": "Titus 2:7"
+      },
+      {
+        "reference": "Titus 2:15",
+        "original": "Titus 2:15"
+      },
+      {
+        "reference": "Acts 27:7",
+        "original": "Acts 27:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "viol": {
+    "name": "Estupro",
+    "slug": "viol",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hebraico: nebel (Isaías 5:12, R.V., “alaúde”; 14:11), um instrumento musical, geralmente traduzido como “saltério” (ver essa entrada)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Saltério]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 5:12",
+        "original": "Isa. 5:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "war": {
+    "name": "Em",
+    "slug": "war",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Os israelitas tiveram que tomar posse da Terra Prometida por meio da conquista. Eles tiveram que travar uma guerra longa e sangrenta antes que as tribos cananeias fossem finalmente subjugadas. Exceto no caso de Jericó e Ai, a guerra só se tornou agressiva após a morte de Josué. Até então, o ataque era sempre iniciado pelos cananeus. Agora, a medida da iniquidade dos cananeus estava cheia, e Israel foi designado por Deus para varrê-los da face da terra. Ao entrar nessa nova fase da guerra, a tribo de Judá, de acordo com a orientação divina, assumiu a liderança. Nos dias de Saul e Davi, o povo de Israel travou muitas guerras com as nações vizinhas e, após a divisão do reino em dois, frequentemente guerreava entre si. Também teve de se defender contra as incursões dos egípcios, dos assírios e dos babilônios. Toda a história de Israel, do início ao fim, apresenta apenas alguns poucos períodos de paz. A vida cristã é representada como uma batalha, e as virtudes cristãs também são representadas sob a figura de peças de armadura (Ef 6,11-17; 1 Tess. 5:8; 2 Tim. 2:3, 4). A bem-aventurança final dos crentes é alcançada como fruto da vitória (Ap. 3:21)."
+      },
+      {
+        "source": "SMI",
+        "text": "O tema mais importante no que diz respeito à guerra é a formação do exército destinado a conduzi-la. [Exército] Em (1 Reis 9:22), num período (o reinado de Salomão) em que a organização do exército estava completa, temos, aparentemente, uma lista das várias categorias de posto no serviço, conforme segue:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 6:11-17",
+        "original": "Eph. 6:11-17"
+      },
+      {
+        "reference": "1 Thessalonians 5:8",
+        "original": "1 Thess. 5:8"
+      },
+      {
+        "reference": "2 Timothy 2:3",
+        "original": "2 Tim. 2:3"
+      },
+      {
+        "reference": "2 Timothy 2:4",
+        "original": "2 Tim. 2:4"
+      },
+      {
+        "reference": "Revelation 3:21",
+        "original": "Rev. 3:21"
+      },
+      {
+        "reference": "1 Kings 9:22",
+        "original": "1 Kings 9:22"
+      },
+      {
+        "reference": "Numbers 13:17",
+        "original": "Numbers 13:17"
+      },
+      {
+        "reference": "Joshua 2:1",
+        "original": "Joshua 2:1"
+      },
+      {
+        "reference": "Judges 7:10",
+        "original": "Judges 7:10"
+      },
+      {
+        "reference": "1 Samuel 26:4",
+        "original": "1 Samuel 26:4"
+      },
+      {
+        "reference": "2 Samuel 1:23",
+        "original": "2 Samuel 1:23"
+      },
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Samuel 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chronicles 12:8"
+      },
+      {
+        "reference": "Joshua 8:2",
+        "original": "Joshua 8:2"
+      },
+      {
+        "reference": "Joshua 8:12",
+        "original": "Joshua 8:12"
+      },
+      {
+        "reference": "Judges 20:36",
+        "original": "Judges 20:36"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judges 7:16"
+      },
+      {
+        "reference": "2 Samuel 5:23",
+        "original": "2 Samuel 5:23"
+      },
+      {
+        "reference": "1 Samuel 17",
+        "original": "1 Samuel 17"
+      },
+      {
+        "reference": "2 Samuel 2:14",
+        "original": "2 Samuel 2:14"
+      },
+      {
+        "reference": "1 Samuel 17:25",
+        "original": "1 Samuel 17:25"
+      },
+      {
+        "reference": "1 Samuel 18:25",
+        "original": "1 Samuel 18:25"
+      },
+      {
+        "reference": "2 Samuel 18:11",
+        "original": "2 Samuel 18:11"
+      },
+      {
+        "reference": "1 Chronicles 11:6",
+        "original": "1 Chronicles 11:6"
+      },
+      {
+        "reference": "2 Samuel 2:28",
+        "original": "2 Samuel 2:28"
+      },
+      {
+        "reference": "2 Samuel 18:16",
+        "original": "2 Samuel 18:16"
+      },
+      {
+        "reference": "2 Samuel 20:22",
+        "original": "2 Samuel 20:22"
+      },
+      {
+        "reference": "Ezekiel 4:2",
+        "original": "Ezekiel 4:2"
+      },
+      {
+        "reference": "Micah 5:1",
+        "original": "Micah 5:1"
+      },
+      {
+        "reference": "2 Samuel 20:15",
+        "original": "2 Samuel 20:15"
+      },
+      {
+        "reference": "2 Kings 19:32",
+        "original": "2 Kings 19:32"
+      },
+      {
+        "reference": "Isaiah 37:33",
+        "original": "Isaiah 37:33"
+      },
+      {
+        "reference": "2 Kings 25:1",
+        "original": "2 Kings 25:1"
+      },
+      {
+        "reference": "Jeremiah 52:4",
+        "original": "Jeremiah 52:4"
+      },
+      {
+        "reference": "Ezekiel 17:17",
+        "original": "Ezekiel 17:17"
+      },
+      {
+        "reference": "Ezekiel 21:22",
+        "original": "Ezekiel 21:22"
+      },
+      {
+        "reference": "Ezekiel 26:8",
+        "original": "Ezekiel 26:8"
+      },
+      {
+        "reference": "1 Samuel 31:8",
+        "original": "1 Samuel 31:8"
+      },
+      {
+        "reference": "2Macc 8:27",
+        "original": "2 Macc 8:27"
+      },
+      {
+        "reference": "Judges 9:45",
+        "original": "Judges 9:45"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Samuel 12:31"
+      },
+      {
+        "reference": "2 Chronicles 25:12",
+        "original": "2 Chronicles 25:12"
+      },
+      {
+        "reference": "Judges 1:6",
+        "original": "Judges 1:6"
+      },
+      {
+        "reference": "1 Samuel 11:2",
+        "original": "1 Samuel 11:2"
+      },
+      {
+        "reference": "Numbers 31:26",
+        "original": "Numbers 31:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "wife": {
+    "name": "Esposa",
+    "slug": "wife",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A instituição do casamento foi sancionada no Paraíso (Gênesis 2:24; Mateus 19:4-6). A monogamia era a lei original sob a qual o homem vivia, mas a poligamia surgiu logo no início (Gênesis 4:19) e continuou a prevalecer ao longo de toda a história judaica. A lei de Moisés regulamentava, mas não proibia a poligamia. Um homem podia ter várias esposas, mas uma esposa só podia ter um marido. Os direitos legais da esposa (Êxodo 21:10) e seus deveres (Provérbios 31:10-31; 1 Tim. 5:14) são especificados. Ela podia ser divorciada em casos especiais (Dt. 22:13-21), mas não podia se divorciar do marido. O divórcio foi restrito por nosso Senhor ao único caso de adultério (Mt. 19:3-9). Os deveres dos maridos e das esposas em suas relações mútuas são claramente estabelecidos no Novo Testamento (1 Coríntios 7:2-5; Efésios 5:22-33; Colossenses 3:18, 19; 1 Pedro 3:1-7)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Casamento]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:24",
+        "original": "Gen. 2:24"
+      },
+      {
+        "reference": "Matthew 19:4-6",
+        "original": "Matt. 19:4-6"
+      },
+      {
+        "reference": "Genesis 4:19",
+        "original": "Gen. 4:19"
+      },
+      {
+        "reference": "Exodus 21:10",
+        "original": "Ex. 21:10"
+      },
+      {
+        "reference": "Proverbs 31:10-31",
+        "original": "Prov. 31:10-31"
+      },
+      {
+        "reference": "1 Timothy 5:14",
+        "original": "1 Tim. 5:14"
+      },
+      {
+        "reference": "Deuteronomy 22:13-21",
+        "original": "Deut. 22:13-21"
+      },
+      {
+        "reference": "Matthew 19:3-9",
+        "original": "Matt. 19:3-9"
+      },
+      {
+        "reference": "1 Corinthians 7:2-5",
+        "original": "1 Cor. 7:2-5"
+      },
+      {
+        "reference": "Ephesians 5:22-33",
+        "original": "Eph. 5:22-33"
+      },
+      {
+        "reference": "Colossians 3:18",
+        "original": "Col. 3:18"
+      },
+      {
+        "reference": "Colossians 3:19",
+        "original": "Col. 3:19"
+      },
+      {
+        "reference": "1 Peter 3:1-7",
+        "original": "1 Pet. 3:1-7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "zabbud": {
+    "name": "Escolha",
+    "slug": "zabbud",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Casado, Esdras 8:14."
+      },
+      {
+        "source": "SMI",
+        "text": "(segundo consta) um dos filhos de Bigvai, que retornou na segunda caravana com Esdras. (Esdras 8:14) (459 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 8:14",
+        "original": "Ezra 8:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "zabud": {
+    "name": "Esqueça",
+    "slug": "zabud",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Gift, filho de Natã, que era “amigo do rei” na corte de Salomão (1 Reis 4:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Gui), filho de Natã, (1 Reis 4:5) é descrito como sacerdote (Versão Autorizada: “oficial principal”) e como ocupante, na corte de Salomão, do cargo confidencial de “amigo do rei”, que havia sido ocupado por Husai, o arquita, durante o reinado de Davi. (2 Samuel 15:37; 16:16; 1 Crônicas 27:33) (1012 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 4:5",
+        "original": "1 Kings 4:5"
+      },
+      {
+        "reference": "2 Samuel 15:37",
+        "original": "2 Samuel 15:37"
+      },
+      {
+        "reference": "2 Samuel 16:16",
+        "original": "2 Samuel 16:16"
+      },
+      {
+        "reference": "1 Chronicles 27:33",
+        "original": "1 Chronicles 27:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
   }
 }

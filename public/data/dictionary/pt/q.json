@@ -3125,5 +3125,261 @@
       "SMI"
     ],
     "letter": "q"
+  },
+  "mite": {
+    "name": "Quadrante (ou Lepto)",
+    "slug": "mite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Contração de minuto, do latim minutum, a tradução da palavra grega lepton, a menor moeda de bronze ou cobre (Lc 12:59; 21:2). Dois leptos formavam um quadrante, isto é, a quarta parte de um as romano, que valia quase meio centavo. (Veja FARTHING / CEITIL.)"
+      },
+      {
+        "source": "SMI",
+        "text": "uma moeda em circulação na Palestina na época de nosso Senhor. (Marcos 12:41-44; Lucas 21:1-4) Parece que na Palestina era a menor unidade monetária (valendo cerca de um quinto de centavo), sendo a metade do quadrante, que era uma moeda de valor muito baixo. Pela explicação de São Marcos, “dois leptos, que valem um quadrante”, v. 42, pode-se talvez inferir que o quadrante era a moeda mais comum."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 12:59",
+        "original": "Luke 12:59"
+      },
+      {
+        "reference": "Luke 21:2",
+        "original": "Luke 21:2"
+      },
+      {
+        "reference": "Mark 12:41-44",
+        "original": "Mark 12:41-44"
+      },
+      {
+        "reference": "Luke 21:1-4",
+        "original": "Luke 21:1-4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "ossifrage": {
+    "name": "Quebra-ossos",
+    "slug": "ossifrage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. peres = “quebrar” ou “esmagar”, o abutre-barbudo (Gypaetus barbatus), o maior de toda a tribo dos abutres. Era uma ave imunda (Lv 11:13; Dt 14:12). Não é uma ave gregária e é encontrada raramente na Palestina. “Quando os outros abutres removeram a carne de qualquer animal, ele entra no final do banquete e engole os ossos, ou os quebra e engole os pedaços se não puder extrair a medula de outra forma. Os ossos ele quebra [daí a adequação do nome quebra-ossos] deixando-os cair sobre uma rocha de grande altura. Ele não se limita, porém, a essas iguarias, mas sempre que tem oportunidade, devora cordeiros, cabritos ou lebres. Estes ele geralmente obtém empurrando-os sobre penhascos; e sabe-se que atacou homens enquanto escalavam rochas, lançando-os contra o fundo. Mas tartarugas e serpentes são seu alimento comum... Sem dúvida, foi um abutre-barbudo que confundiu a cabeça careca do poeta Ésquilo com uma pedra e deixou cair sobre ela a tartaruga que o matou” (Tristram’s Nat. Hist.)."
+      },
+      {
+        "source": "SMI",
+        "text": "(o quebra-ossos). A palavra hebraica ocorre, como nome de uma ave imunda, em (Levítico 11:13) e (Deuteronômio 14:12). Provavelmente é o abutre-barbudo, como é às vezes chamado, uma das maiores aves de rapina. Ele faz jus ao seu nome quebra-ossos, pois “não apenas empurra cabritos, cordeiros e até homens das rochas, mas leva os ossos de animais que outras aves de rapina desnudaram de carne para bem alto no ar e os deixa cair sobre uma pedra para quebrá-los e torná-los mais digeríveis, mesmo para seus enormes poderes de deglutição. Ossos com tutano são as iguarias que ele adora. Esta é provavelmente a ave que deixou cair uma tartaruga na cabeça careca do pobre e velho Ésquilo”.—N. H. Simpson."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:13",
+        "original": "Lev. 11:13"
+      },
+      {
+        "reference": "Deuteronomy 14:12",
+        "original": "Deut. 14:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "quarantania": {
+    "name": "Quarantania",
+    "slug": "quarantania",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma montanha com cerca de 365 metros de altura, cerca de 11 km a noroeste de Jericó, o cenário tradicional da tentação de nosso Senhor (Mateus 4:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 4:8",
+        "original": "Matt. 4:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "quartus": {
+    "name": "Quarto",
+    "slug": "quartus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Em quarto lugar, um cristão de Corinto que, por intermédio de Paulo, enviou saudações aos amigos em Roma (Rm 16,23)."
+      },
+      {
+        "source": "SMI",
+        "text": "(quarto), um cristão de Corinto (Romanos 16:23), que se diz ter sido um dos setenta discípulos e, posteriormente, bispo de Berito. (cerca de 50 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:23",
+        "original": "Rom. 16:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "quaternion": {
+    "name": "Quaternio",
+    "slug": "quaternion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um destacamento de quatro soldados. Pedro foi entregue por Herodes à custódia de quatro quaternios, isto é, um quaternião para cada vigília da noite (Atos 12:4). Assim, todas as precauções foram tomadas contra sua fuga da prisão. Dois de cada quaternião ficavam de turno à porta (12:6), e a dois o apóstolo estava acorrentado de acordo com o costume romano."
+      },
+      {
+        "source": "SMI",
+        "text": "um termo militar que significa uma guarda de quatro soldados, dois dos quais eram ligados à pessoa de um prisioneiro, enquanto os outros dois faziam guarda do lado de fora da porta de sua cela. (Atos 12:4)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 12:4",
+        "original": "Acts 12:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "room": {
+    "name": "Quarto",
+    "slug": "room",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "As menções a “lugar” em (Mateus 23:6; Marcos 12:39; Lucas 14:7,8; 20:46) significam o lugar mais alto no divã mais elevado ao redor da mesa de jantar ou ceia — o “lugar de honra”, como é traduzido com mais precisão em (Lucas 11:43)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 23:6",
+        "original": "Matthew 23:6"
+      },
+      {
+        "reference": "Mark 12:39",
+        "original": "Mark 12:39"
+      },
+      {
+        "reference": "Luke 14:7",
+        "original": "Luke 14:7"
+      },
+      {
+        "reference": "Luke 14:8",
+        "original": "Luke 14:8"
+      },
+      {
+        "reference": "Luke 20:46",
+        "original": "Luke 20:46"
+      },
+      {
+        "reference": "Luke 11:43",
+        "original": "Luke 11:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "shallun": {
+    "name": "Que tal se a gente",
+    "slug": "shallun",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(retribuição), filho de Cohoze, e governante de um distrito de Mizpá. (Neemias 3:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:15",
+        "original": "Nehemiah 3:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "shimi": {
+    "name": "Química",
+    "slug": "shimi",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "= Simei, 1. (Êxodo 6:17)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 6:17",
+        "original": "Exodus 6:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "ulla": {
+    "name": "Qualquer",
+    "slug": "ulla",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Yoke), um aserita, chefe de família em sua tribo. (1 Crônicas 7:30) (cerca de 1014 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zephi": {
+    "name": "Quais?",
+    "slug": "zephi",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(1 Crônicas 1:36) [Zefo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 1:36",
+        "original": "1 Chronicles 1:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
   }
 }
