@@ -1,15 +1,18 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useSearchParams } from 'next/navigation';
 import '../../dictionary.css';
 
 export default function DictionaryClient({ lang }) {
-  const [query, setQuery] = useState('');
-  const [currentLetter, setCurrentLetter] = useState('a');
+  const searchParams = useSearchParams();
+  const initialQuery = searchParams.get('q') || '';
+  const [query, setQuery] = useState(initialQuery);
+  const [currentLetter, setCurrentLetter] = useState(initialQuery ? '' : 'a');
   const [words, setWords] = useState([]);
   const [selectedWord, setSelectedWord] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
-  const [isSearching, setIsSearching] = useState(false);
+  const [isSearching, setIsSearching] = useState(!!initialQuery);
 
   const alphabet = Array.from('abcdefghijklmnopqrstuvwxyz');
 

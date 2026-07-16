@@ -1,4 +1,5 @@
 import DictionaryClient from './DictionaryClient';
+import { Suspense } from 'react';
 
 export const metadata = {
   title: 'Dictionary | Spurgeon TV',
@@ -10,7 +11,9 @@ export default async function DictionaryPage({ params }) {
 
   return (
     <div style={{ padding: '2rem 1rem' }}>
-      <DictionaryClient lang={lang} />
+      <Suspense fallback={<div>Loading Dictionary...</div>}>
+        <DictionaryClient lang={lang} />
+      </Suspense>
     </div>
   );
 }

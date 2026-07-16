@@ -40,12 +40,6 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
       // Global search uses the API
       const delayDebounceFn = setTimeout(async () => {
         try {
-          // Dictionary and Bible might not be fully supported in global search API yet
-          if (searchType === 'dictionary' || searchType === 'bible') {
-            setResults([]);
-            setIsOpen(false);
-            return;
-          }
           const res = await fetch(`/api/global-search?q=${encodeURIComponent(q)}&type=${searchType}&lang=${lang}`);
           if (res.ok) {
             const data = await res.json();
@@ -184,9 +178,9 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
               )}
             </Link>
           ))}
-          {results.length === 0 && searchType !== 'sermons' && searchType !== 'articles' && searchType !== 'videos' && (
+          {results.length === 0 && (
              <div className="search-result-item" style={{ pointerEvents: 'none', color: 'var(--text-muted)' }}>
-                Search for {searchType} coming soon...
+                No results found for {searchType}.
              </div>
           )}
         </div>

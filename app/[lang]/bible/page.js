@@ -1,6 +1,7 @@
 import BibleReader from './BibleReader';
 import { getSearchIndex } from '../../../lib/sermons';
 import { getDictionary } from '../../../lib/dictionaries';
+import { Suspense } from 'react';
 
 export const metadata = {
   title: 'Bible | SpurgeonTV',
@@ -26,7 +27,9 @@ export default async function BiblePage({ params }) {
         </p>
       </div>
       
-      <BibleReader lang={lang} sermons={sermonsIndex} dict={dict} />
+      <Suspense fallback={<div>Loading Bible...</div>}>
+        <BibleReader lang={lang} sermons={sermonsIndex} dict={dict} />
+      </Suspense>
     </div>
   );
 }

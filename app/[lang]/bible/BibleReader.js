@@ -1,13 +1,22 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useSearchParams } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
 
 export default function BibleReader({ lang, sermons = [], dict }) {
+  const searchParams = useSearchParams();
   const defaultTranslation = lang === 'pt' ? 'acf' : (lang === 'es' ? 'rvr' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
-  const [selectedBook, setSelectedBook] = useState(BIBLE_BOOKS[0]);
-  const [selectedChapter, setSelectedChapter] = useState(1);
+  
+  const urlBook = searchParams.get('book');
+  const urlChapter = searchParams.get('chapter');
+  
+  const initialBook = urlBook ? BIBLE_BOOKS.find(b => b.name === urlBook) || BIBLE_BOOKS[0] : BIBLE_BOOKS[0];
+  const initialChapter = urlChapter ? parseInt(urlChapter, 10) : 1;
+  
+  const [selectedBook, setSelectedBook] = useState(initialBook);
+  const [selectedChapter, setSelectedChapter] = useState(initialChapter);
   const [verses, setVerses] = useState([]);
   
   // Cache the bibles so we don't re-fetch when switching back and forth

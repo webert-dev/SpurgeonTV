@@ -1,12 +1,6 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
-
-let cache = {
-  sermons: null,
-  videos: null,
-  articles: null,
-};
+import videosData from '../../../lib/videosData.json';
+import sermonsData from '../../../public/search-index.json';
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
@@ -20,70 +14,92 @@ export async function GET(request) {
   
   try {
     if (type === 'sermons') {
-      if (!cache.sermons) {
-        const filePath = path.join(process.cwd(), 'public', 'search-index.json');
-        if (fs.existsSync(filePath)) {
-          cache.sermons = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-        }
-      }
+      const filtered = sermonsData.filter(s => {
+        const titleMatch = s.title.toLowerCase().includes(q);
+        const refMatch = s.scripture?.reference?.toLowerCase().includes(q);
+        const verseMatch = s.scripture?.verse?.toLowerCase().includes(q);
+        return titleMatch || refMatch || verseMatch;
+      }).slice(0, 15);
       
-      if (cache.sermons) {
-        const filtered = cache.sermons.filter(s => {
-          const titleMatch = s.title.toLowerCase().includes(q);
-          const refMatch = s.scripture?.reference?.toLowerCase().includes(q);
-          const verseMatch = s.scripture?.verse?.toLowerCase().includes(q);
-          return titleMatch || refMatch || verseMatch;
-        }).slice(0, 15);
-        
-        filtered.forEach(s => {
-          results.push({
-            title: s.title,
-            subtitle: `${s.scripture?.reference || 'Sermon'} • Vol ${s.volumeNum} (${s.year})`,
-            href: `/${lang}/volume/${s.volume}/${s.slug}`
-          });
+      filtered.forEach(s => {
+        results.push({
+          title: s.title,
+          subtitle: `${s.scripture?.reference || 'Sermon'} • Vol ${s.volumeNum} (${s.year})`,
+          href: `/${lang}/volume/${s.volume}/${s.slug}`
         });
-      }
+      });
       
     } else if (type === 'videos') {
-      if (!cache.videos) {
-        const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
-        if (fs.existsSync(filePath)) {
-          cache.videos = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-        }
-      }
+      const videosLang = videosData[lang] || [];
+      const filtered = videosLang.filter(v => v.title.toLowerCase().includes(q)).slice(0, 15);
       
-      if (cache.videos) {
-        const videosLang = cache.videos[lang] || [];
-        const filtered = videosLang.filter(v => v.title.toLowerCase().includes(q)).slice(0, 15);
-        
-        filtered.forEach(v => {
-          results.push({
-            title: v.title,
-            subtitle: `Video`,
-            href: `/${lang}/videos/watch/${v.id}`
-          });
+      filtered.forEach(v => {
+        results.push({
+          title: v.title,
+          subtitle: `Video`,
+          href: `/${lang}/videos/watch/${v.id}`
         });
-      }
+      });
       
     } else if (type === 'articles') {
-      if (!cache.articles) {
-        const filePath = path.join(process.cwd(), 'lib', 'aboutArticles.json');
-        if (fs.existsSync(filePath)) {
-          cache.articles = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-        }
-      }
+      const { getAllArticles } = require('../../../lib/articles');
+      const articles = getAllArticles(lang);
       
-      if (cache.articles) {
-        const articles = cache.articles[lang] || [];
-        const filtered = articles.filter(a => a.title.toLowerCase().includes(q) || a.desc.toLowerCase().includes(q)).slice(0, 15);
-        
-        filtered.forEach(a => {
-          results.push({
-            title: a.title,
-            subtitle: `Article • ${a.category}`,
-            href: `/${lang}${a.href}`
-          });
+      const filtered = articles.filter(a => a.title.toLowerCase().includes(q) || (a.desc && a.desc.toLowerCase().includes(q))).slice(0, 15);
+      
+      filtered.forEach(a => {
+        results.push({
+          title: a.title,
+          subtitle: `Article • ${a.category.charAt(0).toUpperCase() + a.category.slice(1)}`,
+          href: `/${lang}${a.href}`
         });
+      });
+      
+    } else if (type === 'dictionary') {
+      const dictionaryIndex = require('../../../public/data/dictionary/en/search_index.json');
+      const filtered = dictionaryIndex.filter(d => d.name.toLowerCase().includes(q)).slice(0, 15);
+      
+      filtered.forEach(d => {
+        results.push({
+          title: d.name,
+          subtitle: `Dictionary`,
+          href: `/${lang}/dictionary?q=${encodeURIComponent(d.name)}`
+        });
+      });
+      
+    } else if (type === 'bible') {
+      const biblesMap = {
+        en: 'kjv.json',
+        pt: 'acf.json',
+        es: 'rvr.json'
+      };
+      const bibleFile = biblesMap[lang] || 'kjv.json';
+      
+      const origin = request.headers.get('host') ? `http://${request.headers.get('host')}` : request.nextUrl.origin;
+      const res = await fetch(`${origin}/bibles/${bibleFile}`);
+      if (res.ok) {
+        const bible = await res.json();
+        let count = 0;
+        
+        for (const book of bible) {
+          for (let c = 0; c < book.chapters.length; c++) {
+            const chapter = book.chapters[c];
+            for (let v = 0; v < chapter.length; v++) {
+              const verse = chapter[v];
+              if (verse.toLowerCase().includes(q)) {
+                results.push({
+                  title: `${book.name} ${c + 1}:${v + 1}`,
+                  subtitle: verse.length > 80 ? verse.substring(0, 80) + '...' : verse,
+                  href: `/${lang}/bible?book=${encodeURIComponent(book.name)}&chapter=${c + 1}`
+                });
+                count++;
+                if (count >= 15) break;
+              }
+            }
+            if (count >= 15) break;
+          }
+          if (count >= 15) break;
+        }
       }
     }
 
