@@ -1,18 +1,63 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
-import allArticles from '@/lib/aboutArticles.json';
 
-export default function AboutArticleList({ lang = 'en' }) {
+const translations = {
+  en: {
+    title: "All Articles",
+    searchPlaceholder: "Search articles by title or description...",
+    showing: "Showing",
+    article: "article",
+    articles: "articles",
+    noArticles: "No articles found matching",
+    prev: "← Previous",
+    next: "Next →",
+    page: "Page",
+    of: "of"
+  },
+  pt: {
+    title: "Todos os Artigos",
+    searchPlaceholder: "Buscar artigos por título ou descrição...",
+    showing: "Mostrando",
+    article: "artigo",
+    articles: "artigos",
+    noArticles: "Nenhum artigo encontrado para",
+    prev: "← Anterior",
+    next: "Próxima →",
+    page: "Página",
+    of: "de"
+  },
+  es: {
+    title: "Todos los Artículos",
+    searchPlaceholder: "Buscar artículos por título o descripción...",
+    showing: "Mostrando",
+    article: "artículo",
+    articles: "artículos",
+    noArticles: "No se encontraron artículos para",
+    prev: "← Anterior",
+    next: "Siguiente →",
+    page: "Página",
+    of: "de"
+  }
+};
+
+export default function AboutArticleList({ lang = 'en', initialArticles = [] }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
+  const [articles, setArticles] = useState(initialArticles);
+  
+  const t = translations[lang] || translations.en;
+
+  useEffect(() => {
+    setArticles(initialArticles);
+  }, [initialArticles]);
 
   // Sort articles by date descending
   const sortedArticles = useMemo(() => {
-    return [...allArticles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-  }, []);
+    return [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  }, [articles]);
 
   // Filter articles based on search query
   const filteredArticles = useMemo(() => {
@@ -38,13 +83,13 @@ export default function AboutArticleList({ lang = 'en' }) {
 
   return (
     <div className="container" style={{ marginTop: '4rem', paddingBottom: '6rem' }}>
-      <h2 className="section-title" style={{ textAlign: 'center', marginBottom: '2rem' }}>All Articles</h2>
+      <h2 className="section-title" style={{ textAlign: 'center', marginBottom: '2rem' }}>{t.title}</h2>
       
       {/* Search Bar */}
       <div style={{ maxWidth: '600px', margin: '0 auto 3rem auto', position: 'relative' }}>
         <input
           type="search"
-          placeholder="Search articles by title or description..."
+          placeholder={t.searchPlaceholder}
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           style={{
@@ -67,7 +112,7 @@ export default function AboutArticleList({ lang = 'en' }) {
 
       {/* Results Count */}
       <div style={{ marginBottom: '1.5rem', color: 'var(--text-muted)', fontSize: '0.9rem', textAlign: 'center' }}>
-        Showing {filteredArticles.length} {filteredArticles.length === 1 ? 'article' : 'articles'}
+        {t.showing} {filteredArticles.length} {filteredArticles.length === 1 ? t.article : t.articles}
       </div>
 
       {/* Articles Grid */}
@@ -95,7 +140,7 @@ export default function AboutArticleList({ lang = 'en' }) {
           })
         ) : (
           <div style={{ textAlign: 'center', padding: '3rem', color: 'var(--text-muted)' }}>
-            No articles found matching "{searchQuery}".
+            {t.noArticles} "{searchQuery}".
           </div>
         )}
       </div>
@@ -116,11 +161,11 @@ export default function AboutArticleList({ lang = 'en' }) {
               transition: 'background 0.2s'
             }}
           >
-            &larr; Previous
+            {t.prev}
           </button>
           
           <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-            Page {safePage} of {totalPages}
+            {t.page} {safePage} {t.of} {totalPages}
           </span>
           
           <button
@@ -136,7 +181,7 @@ export default function AboutArticleList({ lang = 'en' }) {
               transition: 'background 0.2s'
             }}
           >
-            Next &rarr;
+            {t.next}
           </button>
         </div>
       )}

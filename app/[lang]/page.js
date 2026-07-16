@@ -2,55 +2,12 @@ import Link from 'next/link';
 import { getPaginatedSermons } from '../../lib/sermons';
 import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
+import { getAllArticles } from '../../lib/articles';
 
 export const metadata = {
   title: 'SPURGEON TV | Charles Haddon Spurgeon — The Complete Sermon Collection',
   description: 'Explore over 3,500 sermons by Charles Haddon Spurgeon — the most prolific preacher in Church history. Read, search, and study the complete collection across 63 volumes.',
 };
-
-// The 4 most recently published About articles (hand-curated)
-const recentArticles = [
-  {
-    category: 'Theology',
-    categoryHref: '/about/theology',
-    title: 'The Puritan Influence',
-    subtitle: 'How Spurgeon Became "The Last of the Puritans"',
-    href: '/about/theology/the-puritan-influence',
-    date: 'Oct 5, 2025',
-    readTime: '3 min',
-    icon: '📖',
-  },
-  {
-    category: 'Theology',
-    categoryHref: '/about/theology',
-    title: 'The Tender Compassion of Christ',
-    subtitle: 'Spurgeon on the heart of Jesus for the suffering',
-    href: '/about/theology/the-tender-compassion-of-christ',
-    date: 'Oct 3, 2025',
-    readTime: '4 min',
-    icon: '✝️',
-  },
-  {
-    category: 'Biography',
-    categoryHref: '/about/biography',
-    title: 'The Mentone Retreats',
-    subtitle: 'Rest, recovery, and reflection in southern France',
-    href: '/about/biography/the-mentone-retreats',
-    date: 'Sep 28, 2025',
-    readTime: '3 min',
-    icon: '🌿',
-  },
-  {
-    category: 'Controversies',
-    categoryHref: '/about/controversies',
-    title: 'The Downgrade Controversy',
-    subtitle: 'Spurgeon\'s lonely stand against theological drift',
-    href: '/about/controversies',
-    date: 'Sep 20, 2025',
-    readTime: '5 min',
-    icon: '⚔️',
-  },
-];
 
 export default async function HomePage({ params }) {
   const { lang } = await params;
@@ -58,6 +15,40 @@ export default async function HomePage({ params }) {
 
   // Fetch first 4 sermons for the featured section
   const { sermons: featuredSermons } = await getPaginatedSermons(lang, 1, 4);
+
+  // Fetch all localized articles and pick the 4 featured ones
+  const allArticles = getAllArticles(lang);
+  
+  // The slugs of the hand-curated featured articles
+  const featuredArticleSlugs = [
+    'the-puritan-influence',
+    'the-tender-compassion-of-christ',
+    'the-mentone-retreats',
+    'the-downgrade-controversy-part-1'
+  ];
+
+  const recentArticles = featuredArticleSlugs.map(slug => {
+    const article = allArticles.find(a => a.href.endsWith(slug));
+    if (!article) return null;
+    
+    // Assign icons based on category/slug
+    let icon = '📖';
+    if (article.category === 'theology') icon = '✝️';
+    if (article.category === 'biography') icon = '🌿';
+    if (article.category === 'controversies') icon = '⚔️';
+
+    return {
+      category: article.category.charAt(0).toUpperCase() + article.category.slice(1),
+      categoryHref: `/about/${article.category}`,
+      title: article.title,
+      subtitle: article.desc.substring(0, 70) + '...', // Shortened desc as subtitle
+      href: article.href,
+      date: article.date,
+      readTime: article.readTime,
+      icon: icon,
+    };
+  }).filter(Boolean);
+
 
   return (
     <div className="home-page">

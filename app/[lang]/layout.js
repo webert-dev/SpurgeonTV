@@ -2,6 +2,7 @@ import '../globals.css';
 import Link from 'next/link';
 import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
 import { getDictionary } from '../../lib/dictionaries';
+import LanguageSwitcher from '../components/LanguageSwitcher';
 
 export const metadata = {
   title: 'SPURGEON TV | The Complete Sermon Collection',
@@ -32,6 +33,7 @@ export default async function RootLayout({ children, params }) {
                 <Link href={`/${lang}/bible`} className="nav-link">{dict.navigation.bible}</Link>
                 <Link href={`/${lang}/dictionary`} className="nav-link">{dict.navigation.dictionary}</Link>
                 <Link href={`/${lang}/about`} className="nav-link">{dict.navigation.about}</Link>
+                <LanguageSwitcher currentLang={lang} />
               </nav>
             </div>
           </header>

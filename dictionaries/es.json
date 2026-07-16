@@ -3,6 +3,9 @@
     "home": "Inicio",
     "sermons": "Todos los Sermones",
     "volumes": "Colección Completa",
+    "bible": "Biblia",
+    "dictionary": "Diccionario",
+    "about": "Sobre",
     "theology": "Teología",
     "biography": "Biografía",
     "search": "Buscar",
@@ -10,8 +13,7 @@
     "previousSermon": "Sermón Anterior",
     "nextSermon": "Próximo Sermón",
     "firstSermon": "Primer Sermón",
-    "lastSermon": "Último Sermón",
-    "about": "Sobre Spurgeon"
+    "lastSermon": "Último Sermón"
   },
   "footer": {
     "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
