@@ -13,7 +13,8 @@
     "previousSermon": "Previous Sermon",
     "nextSermon": "Next Sermon",
     "firstSermon": "First Sermon",
-    "lastSermon": "Last Sermon"
+    "lastSermon": "Last Sermon",
+    "videos": "Videos"
   },
   "footer": {
     "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
@@ -151,5 +152,47 @@
       "previous": "Previous",
       "next": "Next"
     }
+  },
+  "videosHub": {
+    "pageTitle": "Videos & Sermons",
+    "pageSubtitle": "Watch Charles Spurgeon sermons narrated in multiple languages.",
+    "channels": {
+      "pt": {
+        "title": "Portuguese Channel",
+        "desc": "The largest collection of Spurgeon narrated in Portuguese."
+      },
+      "en": {
+        "title": "English Channel",
+        "desc": "Original sermons narrated in English."
+      },
+      "es": {
+        "title": "Spanish Channel",
+        "desc": "Sermons translated and narrated for the Hispanic audience."
+      }
+    },
+    "viewAll": "View All Videos →",
+    "noVideos": "No videos found.",
+    "play": "Play"
+  },
+  "channelVideos": {
+    "backToHub": "← Back to Videos Hub",
+    "page": "Page {current} of {total}",
+    "totalVideos": "({total} videos)",
+    "previous": "← Previous",
+    "next": "Next →",
+    "noVideos": "No videos found.",
+    "play": "Play",
+    "channels": {
+      "pt": "Portuguese Channel",
+      "en": "English Channel",
+      "es": "Spanish Channel"
+    }
+  },
+  "watchVideo": {
+    "back": "← Back to Videos",
+    "watchOnYoutube": "Watch on YouTube ↗",
+    "share": "Share",
+    "videoNotFound": "Video not found.",
+    "loading": "Loading video..."
   }
 }

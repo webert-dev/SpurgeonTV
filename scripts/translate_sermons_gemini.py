@@ -14,7 +14,7 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-2.5-flash",
     system_instruction=(
         "Você é um tradutor teológico profissional. Seu trabalho é traduzir "
         "sermões de Charles Spurgeon do inglês para o português do Brasil. "

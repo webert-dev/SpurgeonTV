@@ -1,0 +1,110 @@
+import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
+import { getDictionary } from '../../../lib/dictionaries';
+
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const dict = await getDictionary(lang);
+  return {
+    title: dict.videosHub?.pageTitle + " | Charles Spurgeon" || "Charles Spurgeon Videos | Sermons & Documentaries",
+    description: dict.videosHub?.pageSubtitle || "Watch the largest collection of Charles Spurgeon sermons, documentaries, and teachings in English, Portuguese, and Spanish.",
+  };
+}
+
+// We will read the local json directly on the server
+function getVideosData() {
+  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
+  if (!fs.existsSync(filePath)) return { pt: [], en: [], es: [] };
+  const fileContents = fs.readFileSync(filePath, 'utf8');
+  return JSON.parse(fileContents);
+}
+
+export default async function VideosHubPage({ params }) {
+  const { lang = 'en' } = await params;
+  const data = getVideosData();
+  const dict = await getDictionary(lang);
+
+  const channels = [
+    {
+      id: 'pt',
+      title: dict.videosHub.channels.pt.title,
+      desc: dict.videosHub.channels.pt.desc,
+      videos: data.pt.slice(0, 3)
+    },
+    {
+      id: 'en',
+      title: dict.videosHub.channels.en.title,
+      desc: dict.videosHub.channels.en.desc,
+      videos: data.en.slice(0, 3)
+    },
+    {
+      id: 'es',
+      title: dict.videosHub.channels.es.title,
+      desc: dict.videosHub.channels.es.desc,
+      videos: data.es.slice(0, 3)
+    }
+  ];
+
+  return (
+    <div className="container" style={{ padding: '4rem 2rem', minHeight: '80vh', maxWidth: '1200px', margin: '0 auto' }}>
+      <header style={{ marginBottom: '4rem', textAlign: 'center' }}>
+        <h1 className="title-gold" style={{ fontSize: '3rem', marginBottom: '1.5rem' }}>
+          {dict.videosHub.pageTitle}
+        </h1>
+        <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', maxWidth: '600px', margin: '0 auto' }}>
+          {dict.videosHub.pageSubtitle}
+        </p>
+      </header>
+
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '5rem' }}>
+        {channels.map(channel => (
+          <section key={channel.id}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '2rem', borderBottom: '1px solid var(--border)', paddingBottom: '1rem' }}>
+              <div>
+                <h2 style={{ fontSize: '2rem', fontFamily: 'var(--font-serif)', color: 'var(--text-primary)', marginBottom: '0.5rem' }}>
+                  {channel.title}
+                </h2>
+                <p style={{ color: 'var(--text-secondary)' }}>{channel.desc}</p>
+              </div>
+              <Link href={`/${lang}/videos/${channel.id}`} style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: 'bold', textTransform: 'uppercase', fontSize: '0.9rem', letterSpacing: '1px', whiteSpace: 'nowrap', marginLeft: '1rem' }}>
+                {dict.videosHub.viewAll}
+              </Link>
+            </div>
+
+            {channel.videos.length > 0 ? (
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '2rem' }}>
+                {channel.videos.map(video => (
+                  <a key={video.id} href={`/${lang}/videos/watch/${video.id}`} style={{ textDecoration: 'none', color: 'inherit', display: 'block', transition: 'transform 0.2s', background: 'var(--surface)', borderRadius: '12px', overflow: 'hidden', border: '1px solid var(--border)' }} className="video-card">
+                    <div style={{ position: 'relative', paddingTop: '56.25%' }}>
+                      <img src={video.thumbnail} alt={video.title} style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover' }} loading="lazy" />
+                      <div style={{ position: 'absolute', bottom: '0.5rem', right: '0.5rem', background: 'rgba(0,0,0,0.8)', color: 'white', padding: '0.2rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', fontWeight: 'bold' }}>
+                        ▶ {dict.videosHub.play}
+                      </div>
+                    </div>
+                    <div style={{ padding: '1.2rem' }}>
+                      <h3 style={{ fontSize: '1.1rem', marginBottom: '0.5rem', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden', lineHeight: '1.4' }}>
+                        {video.title}
+                      </h3>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            ) : (
+              <p style={{ color: 'var(--text-muted)' }}>{dict.videosHub.noVideos}</p>
+            )}
+          </section>
+        ))}
+      </div>
+      
+      {/* Add a tiny CSS for hover effect in line */}
+      <style dangerouslySetInnerHTML={{__html: `
+        .video-card:hover {
+          transform: translateY(-5px);
+          border-color: var(--accent) !important;
+          box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+      `}} />
+    </div>
+  );
+}

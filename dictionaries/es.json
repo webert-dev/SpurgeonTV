@@ -13,7 +13,8 @@
     "previousSermon": "Sermón Anterior",
     "nextSermon": "Próximo Sermón",
     "firstSermon": "Primer Sermón",
-    "lastSermon": "Último Sermón"
+    "lastSermon": "Último Sermón",
+    "videos": "Videos"
   },
   "footer": {
     "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
@@ -151,5 +152,47 @@
       "previous": "Anterior",
       "next": "Próximo"
     }
+  },
+  "videosHub": {
+    "pageTitle": "Videos y Sermones",
+    "pageSubtitle": "Mira los sermones de Charles Spurgeon narrados en varios idiomas.",
+    "channels": {
+      "pt": {
+        "title": "Canal en Portugués",
+        "desc": "La colección más grande de Spurgeon narrada en portugués."
+      },
+      "en": {
+        "title": "Canal en Inglés",
+        "desc": "Sermones originales narrados en inglés."
+      },
+      "es": {
+        "title": "Canal en Español",
+        "desc": "Sermones traducidos y narrados para el público hispano."
+      }
+    },
+    "viewAll": "Ver Todos los Videos →",
+    "noVideos": "No se encontraron videos.",
+    "play": "Ver"
+  },
+  "channelVideos": {
+    "backToHub": "← Volver a Videos",
+    "page": "Página {current} de {total}",
+    "totalVideos": "({total} videos)",
+    "previous": "← Anterior",
+    "next": "Siguiente →",
+    "noVideos": "No se encontraron videos.",
+    "play": "Ver",
+    "channels": {
+      "pt": "Canal en Portugués",
+      "en": "Canal en Inglés",
+      "es": "Canal en Español"
+    }
+  },
+  "watchVideo": {
+    "back": "← Volver a Videos",
+    "watchOnYoutube": "Ver en YouTube ↗",
+    "share": "Compartir",
+    "videoNotFound": "Video no encontrado.",
+    "loading": "Cargando video..."
   }
 }
