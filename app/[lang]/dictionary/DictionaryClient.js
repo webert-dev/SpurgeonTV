@@ -23,7 +23,7 @@ export default function DictionaryClient({ lang }) {
     async function fetchLetter() {
       setIsLoading(true);
       try {
-        const res = await fetch(`/api/dictionary/letter/${currentLetter}`);
+        const res = await fetch(`/api/dictionary/letter/${currentLetter}?lang=${lang}`);
         if (res.ok) {
           const data = await res.json();
           // Data is an object { "A": { name: "A", definitions: [...] }, "Aaron": ... }
@@ -47,7 +47,7 @@ export default function DictionaryClient({ lang }) {
     }
     
     fetchLetter();
-  }, [currentLetter, isSearching]);
+  }, [currentLetter, isSearching, lang]);
 
   // Handle Search
   useEffect(() => {
@@ -60,12 +60,11 @@ export default function DictionaryClient({ lang }) {
       setIsSearching(true);
       setIsLoading(true);
       try {
-        const res = await fetch(`/api/dictionary/search?q=${encodeURIComponent(query)}`);
+        const res = await fetch(`/api/dictionary/search?q=${encodeURIComponent(query)}&lang=${lang}`);
         if (res.ok) {
           const searchResults = await res.json();
           // searchResults only has { name, slug, letter }
-          // we need to fetch the full details for the first one, or we can just list them
-          // and fetch full details on click. Let's adapt our words state.
+          // we need to fetch the full details for the first one
           setWords(searchResults);
           if (searchResults.length > 0) {
             fetchWordDetails(searchResults[0].slug, searchResults[0].letter);
@@ -81,7 +80,7 @@ export default function DictionaryClient({ lang }) {
     }, 500); // 500ms debounce
 
     return () => clearTimeout(delayDebounceFn);
-  }, [query]);
+  }, [query, lang]);
 
   async function fetchWordDetails(slug, letter) {
     if (!letter) {
@@ -89,7 +88,7 @@ export default function DictionaryClient({ lang }) {
       letter = slug.charAt(0).toLowerCase();
     }
     try {
-      const res = await fetch(`/api/dictionary/letter/${letter}`);
+      const res = await fetch(`/api/dictionary/letter/${letter}?lang=${lang}`);
       if (res.ok) {
         const data = await res.json();
         // Find the word by slug in the letter data

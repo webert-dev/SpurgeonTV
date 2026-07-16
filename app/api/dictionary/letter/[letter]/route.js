@@ -4,6 +4,8 @@ import path from 'path';
 
 export async function GET(request, { params }) {
   const { letter } = await params;
+  const { searchParams } = new URL(request.url);
+  const lang = searchParams.get('lang') || 'en';
 
   if (!letter || letter.length !== 1) {
     return NextResponse.json({ error: 'Invalid letter parameter' }, { status: 400 });
@@ -11,7 +13,7 @@ export async function GET(request, { params }) {
 
   try {
     const safeLetter = letter.toLowerCase();
-    const filePath = path.join(process.cwd(), 'public', 'data', 'dictionary', 'en', `${safeLetter}.json`);
+    const filePath = path.join(process.cwd(), 'public', 'data', 'dictionary', lang, `${safeLetter}.json`);
     
     // Check if file exists
     try {
