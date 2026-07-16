@@ -1,0 +1,21 @@
+{
+  "title": "{datos.título}",
+  "seoTitle": "",
+  "description": "",
+  "keywords": [],
+  "date": "{datos.fecha} {datos.readTime && `",
+  "readTime": "${datos.readTime}`}",
+  "content": [],
+  "bibliography": [],
+  "tags": [],
+  "prev": {
+    "title": "",
+    "slug": "",
+    "category": ""
+  },
+  "next": {
+    "title": "",
+    "slug": "",
+    "category": ""
+  }
+}
