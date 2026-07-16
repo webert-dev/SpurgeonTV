@@ -1,0 +1,94 @@
+{
+  "age": {
+    "name": "Idade",
+    "slug": "age",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado para denotar o período da vida de um homem (Gn 47:28), a maturidade da vida (Jo 9:21), o fim da vida (Jó 11:17), uma geração da raça humana (Jó 8:8), e um período indefinido (Ef 2:7; 3:5, 21; Cl 1:26). Deve-se mostrar respeito aos idosos (Lv 19:32). É uma bênção para as comunidades terem homens velhos entre si (Is 65:20; Zc 8:4). Supõe-se que os idosos sobressaiam no entendimento (Jó 12:20; 15:10; 32:4, 9; 1 Rs 12:6, 8). Uma idade plena é a recompensa da piedade (Jó 5:26; Gn 15:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 47:28",
+        "original": "Gen. 47:28"
+      },
+      {
+        "reference": "John 9:21",
+        "original": "John 9:21"
+      },
+      {
+        "reference": "Job 11:17",
+        "original": "Job 11:17"
+      },
+      {
+        "reference": "Job 8:8",
+        "original": "Job 8:8"
+      },
+      {
+        "reference": "Ephesians 2:7",
+        "original": "Eph. 2:7"
+      },
+      {
+        "reference": "Ephesians 3:5",
+        "original": "Eph 3:5"
+      },
+      {
+        "reference": "Ephesians 3:21",
+        "original": "Eph 3:21"
+      },
+      {
+        "reference": "Colossians 1:26",
+        "original": "Col. 1:26"
+      },
+      {
+        "reference": "Leviticus 19:32",
+        "original": "Lev. 19:32"
+      },
+      {
+        "reference": "Isaiah 65:20",
+        "original": "Isa. 65:20"
+      },
+      {
+        "reference": "Zechariah 8:4",
+        "original": "Zech. 8:4"
+      },
+      {
+        "reference": "Job 12:20",
+        "original": "Job 12:20"
+      },
+      {
+        "reference": "Job 15:10",
+        "original": "Job 15:10"
+      },
+      {
+        "reference": "Job 32:4",
+        "original": "Job 32:4"
+      },
+      {
+        "reference": "Job 32:9",
+        "original": "Job 32:9"
+      },
+      {
+        "reference": "1 Kings 12:6",
+        "original": "1 Kings 12:6"
+      },
+      {
+        "reference": "1 Kings 12:8",
+        "original": "1 Kings 12:8"
+      },
+      {
+        "reference": "Job 5:26",
+        "original": "Job 5:26"
+      },
+      {
+        "reference": "Genesis 15:15",
+        "original": "Gen. 15:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  }
+}

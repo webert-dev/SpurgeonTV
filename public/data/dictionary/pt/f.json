@@ -1,0 +1,17 @@
+{
+  "ague": {
+    "name": "Febre",
+    "slug": "ague",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A tradução em Levítico 26:16 (R.V., “febre”) da palavra hebraica kaddah’ath, que significa “acendimento”, ou seja, uma febre inflamatória ou ardente. Em Deuteronômio 28:22 a palavra é traduzida como “febre”."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  }
+}

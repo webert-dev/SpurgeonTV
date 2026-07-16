@@ -1,0 +1,138 @@
+{
+  "aholah": {
+    "name": "Oolá",
+    "slug": "aholah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ela tem sua própria tenda, um nome usado por Ezequiel (23:4, 5, 36, 44) como símbolo da idolatria do reino de Israel. Este reino é descrito como uma mulher lasciva, uma adúltera, entregue às abominações e idolatrias dos egípcios e assírios. Devido aos seus crimes, ela foi levada cativa e deixou de ser um reino. (Comp. Sl. 78:67-69; 1 Reis 12:25-33; 2 Cr. 11:13-16.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 78:67-69",
+        "original": "Ps. 78:67-69"
+      },
+      {
+        "reference": "1 Kings 12:25-33",
+        "original": "1 Kings 12:25-33"
+      },
+      {
+        "reference": "2 Chronicles 11:13-16",
+        "original": "2 Chr. 11:13-16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "aholah-and-aholibah": {
+    "name": "Oolá e Oolibá",
+    "slug": "aholah-and-aholibah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(meu tabernáculo) dois nomes simbólicos, são descritos como meretrizes, o primeiro representando Samaria e o segundo Judá. Ez. 23."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 23",
+        "original": "Ezek. 23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "aholibah": {
+    "name": "Oolibá",
+    "slug": "aholibah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Minha tenda está nela, o nome de uma meretriz imaginária, aplicada simbolicamente a Jerusalém, porque ela abandonou a adoração ao Deus verdadeiro e entregou-se às idolatrias das nações estrangeiras. (Ez. 23:4, 11, 22, 36, 44)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 23:4",
+        "original": "Ezek. 23:4"
+      },
+      {
+        "reference": "Ezekiel 23:11",
+        "original": "Ezek. 23:11"
+      },
+      {
+        "reference": "Ezekiel 23:22",
+        "original": "Ezek. 23:22"
+      },
+      {
+        "reference": "Ezekiel 23:36",
+        "original": "Ezek. 23:36"
+      },
+      {
+        "reference": "Ezekiel 23:44",
+        "original": "Ezek. 23:44"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "aholibamah": {
+    "name": "Oolibama",
+    "slug": "aholibamah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tenda da altura, o nome dado a Judite, filha de Beeri = Aná (Gn. 26:34; 36:2), quando ela se tornou esposa de Esaú. Um distrito entre as montanhas de Edom, provavelmente perto do Monte Hor, foi chamado com o seu nome, ou pode ser que ela tenha recebido seu nome do distrito. Dela descenderam três tribos de edomitas, fundadas por seus três filhos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 26:34",
+        "original": "Gen. 26:34"
+      },
+      {
+        "reference": "Genesis 36:2",
+        "original": "Gen 36:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "aholibamah-or-abolibamah": {
+    "name": "Oolibama ou Abolibama",
+    "slug": "aholibamah-or-abolibamah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(meu tabernáculo é exaltado), uma das três esposas de Esaú. (A.C. 1797.) Ela era filha de Aná. (Gênesis 36:2,26) Na narrativa anterior, (Gênesis 26:34) Oolibama é chamada de Judite, que pode ter sido seu nome original."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:2",
+        "original": "Genesis 36:2"
+      },
+      {
+        "reference": "Genesis 36:26",
+        "original": "Genesis 36:26"
+      },
+      {
+        "reference": "Genesis 26:34",
+        "original": "Genesis 26:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  }
+}

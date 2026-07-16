@@ -4,7 +4,8 @@ import json
 import time
 import unicodedata
 import string
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -14,20 +15,10 @@ if not GEMINI_API_KEY:
     print("GEMINI_API_KEY not found in .env")
     exit(1)
 
-genai.configure(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Use system instruction for translation
-model_pt = genai.GenerativeModel(
-    model_name="gemini-2.5-flash",
-    system_instruction="Você é um tradutor teológico profissional. Seu trabalho é receber uma lista de verbetes de dicionário em JSON e retornar a MESMA lista em JSON, traduzindo apenas os campos 'name' e o campo 'text' (dentro de 'definitions') para o português do Brasil. Deixe o campo 'slug', 'scripture_refs', 'source' e 'sources' perfeitamente intactos. Retorne APENAS um array JSON válido, sem markdown envolta (sem ```json).",
-    generation_config={"response_mime_type": "application/json"}
-)
-
-model_es = genai.GenerativeModel(
-    model_name="gemini-2.5-flash",
-    system_instruction="Eres un traductor teológico profesional. Tu trabajo es recibir una lista de entradas de diccionario en JSON y devolver la MISMA lista en JSON, traduciendo solo los campos 'name' y el campo 'text' (dentro de 'definitions') al español. Deja los campos 'slug', 'scripture_refs', 'source' y 'sources' perfectamente intactos. Devuelve SOLO un array JSON válido, sin formato markdown (sin ```json).",
-    generation_config={"response_mime_type": "application/json"}
-)
+sys_inst_pt = "Você é um tradutor teológico profissional. Seu trabalho é receber uma lista de verbetes de dicionário em JSON e retornar a MESMA lista em JSON, traduzindo apenas os campos 'name' e o campo 'text' (dentro de 'definitions') para o português do Brasil. Deixe o campo 'slug', 'scripture_refs', 'source' e 'sources' perfeitamente intactos. Retorne APENAS um array JSON válido."
+sys_inst_es = "Eres un traductor teológico profesional. Tu trabajo es recibir una lista de entradas de diccionario en JSON y devolver la MISMA lista en JSON, traduciendo solo los campos 'name' y el campo 'text' (dentro de 'definitions') al español. Deja los campos 'slug', 'scripture_refs', 'source' y 'sources' perfectamente intactos. Devuelve SOLO un array JSON válido."
 
 BATCH_SIZE = 15
 PROGRESS_FILE = "dictionary_progress.json"
@@ -43,16 +34,23 @@ def get_letter_from_name(name):
     return 'a' # Fallback
 
 def translate_batch(batch, lang="pt"):
-    model = model_pt if lang == "pt" else model_es
+    instruction = sys_inst_pt if lang == "pt" else sys_inst_es
     
-    # We pass the batch as a JSON string
     text = json.dumps(batch, ensure_ascii=False)
     
     retries = 5
     for attempt in range(retries):
         try:
             time.sleep(3) # Rate limit protection
-            response = model.generate_content(text)
+            response = client.models.generate_content(
+                model='gemini-flash-lite-latest',
+                contents=text,
+                config=types.GenerateContentConfig(
+                    system_instruction=instruction,
+                    response_mime_type="application/json",
+                )
+            )
+            
             resp_text = response.text.strip()
             if resp_text.startswith("```json"):
                 resp_text = resp_text[7:]
@@ -61,7 +59,6 @@ def translate_batch(batch, lang="pt"):
                 
             translated = json.loads(resp_text.strip())
             
-            # Validate output structure length
             if len(translated) != len(batch):
                 print(f"Warning: Batch length mismatch! Expected {len(batch)}, got {len(translated)}")
                 raise ValueError("Length mismatch")
@@ -69,9 +66,9 @@ def translate_batch(batch, lang="pt"):
             return translated
         except Exception as e:
             err_msg = str(e).lower()
-            if "quota" in err_msg or "429" in err_msg or "too many requests" in err_msg:
-                print(f"Rate limit hit. Waiting 60s... (Attempt {attempt+1}/{retries})")
-                time.sleep(60)
+            if "quota" in err_msg or "429" in err_msg or "too many requests" in err_msg or "503" in err_msg or "unavailable" in err_msg:
+                print(f"Service busy/Rate limit. Waiting 30s... (Attempt {attempt+1}/{retries}) | Error: {e}")
+                time.sleep(30)
             else:
                 print(f"Exception during translation ({lang}): {e}")
                 time.sleep(10)

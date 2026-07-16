@@ -1,0 +1,35 @@
+{
+  "adamant": {
+    "name": "Diamante",
+    "slug": "adamant",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. shamir), Eze. 3:9. A palavra grega adamas significa diamante. Esta pedra não é referida, mas corindo ou algum tipo de aço duro. É um emblema de firmeza na resistência aos adversários da verdade (Zac. 7:12), e de dureza de coração contra a verdade (Jer. 17:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "a tradução da palavra hebraica Shamir em (Ezequiel 3:9) e Zacarias 7:12. Em (Jeremias 17:1) é traduzida como \"diamante\". Nestas três passagens, a palavra é o representante de alguma pedra de dureza excessiva, e é usada metaforicamente. É muito provável que por Shamir se pretenda esmeril, uma variedade de corindo, um mineral inferior apenas ao diamante em dureza."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 3:9",
+        "original": "Ezek. 3:9"
+      },
+      {
+        "reference": "Zechariah 7:12",
+        "original": "Zech. 7:12"
+      },
+      {
+        "reference": "Jeremiah 17:1",
+        "original": "Jer. 17:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "d"
+  }
+}

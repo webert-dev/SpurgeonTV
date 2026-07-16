@@ -1,0 +1,42 @@
+{
+  "age-old": {
+    "name": "Velhice",
+    "slug": "age-old",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Os idosos ocupavam um lugar de destaque no sistema social e político dos judeus. Na vida privada, eram vistos como depositários de conhecimento (Jó 15:10); os jovens eram ordenados a levantar-se na sua presença (Levítico 19:32); permitiam-lhes dar a sua opinião primeiro (Jó 32:4); eram ensinados a considerar as cãs como uma \"coroa de honra\" (Provérbios 16:31; 20:29). A obtenção da velhice era considerada uma bênção especial (Jó 5:26). Na vida pública, era a principal qualificação daqueles que atuavam como representantes do povo em todas as questões de dificuldade e deliberação. [ANCIÃOS]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 15:10",
+        "original": "Job 15:10"
+      },
+      {
+        "reference": "Leviticus 19:32",
+        "original": "Leviticus 19:32"
+      },
+      {
+        "reference": "Job 32:4",
+        "original": "Job 32:4"
+      },
+      {
+        "reference": "Proverbs 16:31",
+        "original": "Proverbs 16:31"
+      },
+      {
+        "reference": "Proverbs 20:29",
+        "original": "Proverbs 20:29"
+      },
+      {
+        "reference": "Job 5:26",
+        "original": "Job 5:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  }
+}

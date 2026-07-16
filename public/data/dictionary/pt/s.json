@@ -1,0 +1,30 @@
+{
+  "abraham-s-bosom": {
+    "name": "Seio de Abraão",
+    "slug": "abraham-s-bosom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lucas 16:22, 23) refere-se ao costume de reclinar-se em divãs à mesa, que era predominante entre os judeus, um arranjo que trazia a cabeça de uma pessoa quase ao seio daquela que estava sentada ou reclinada acima dela. \"Estar no seio de Abraão\", portanto, significava desfrutar de felicidade e descanso (Mat. 8:11; Lucas 16:23) no banquete no Paraíso. (Ver banquete; REFEIÇÕES.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 16:22",
+        "original": "Luke 16:22"
+      },
+      {
+        "reference": "Luke 16:23",
+        "original": "Luke 16:23"
+      },
+      {
+        "reference": "Matthew 8:11",
+        "original": "Matt. 8:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  }
+}

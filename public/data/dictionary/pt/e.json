@@ -1,0 +1,511 @@
+{
+  "aegypt": {
+    "name": "Egito",
+    "slug": "aegypt",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Egito]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "aeneas": {
+    "name": "Eneias",
+    "slug": "aeneas",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(louvável), um paralítico em Lida curado por São Pedro (Atos 9:33, 34)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 9:33",
+        "original": "Acts 9:33"
+      },
+      {
+        "reference": "Acts 9:34",
+        "original": "Acts 9:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "aenon": {
+    "name": "Enom",
+    "slug": "aenon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fontes, um lugar perto de Salim onde João batizava (João 3:23). Ficava provavelmente perto da nascente superior de Wady Far’ah, um vale aberto que se estende do Monte Ebal até o Jordão. Está cheio de fontes. Um lugar foi encontrado chamado ‘Ainun, quatro milhas ao norte das fontes."
+      },
+      {
+        "source": "SMI",
+        "text": "(fontes), um lugar “perto de Salim”, onde João batizava (João 3:23). Ficava evidentemente a oeste do Jordão, comp. (João 3:22) com João 3:26 e com João 1:28, e abundava em água. É mencionado no Onomasticon como estando a oito milhas ao sul de Ciciópolis, “perto de Salim e do Jordão”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 3:23",
+        "original": "John 3:23"
+      },
+      {
+        "reference": "John 3:22",
+        "original": "John 3:22"
+      },
+      {
+        "reference": "John 3:26",
+        "original": "John 3:26"
+      },
+      {
+        "reference": "John 1:28",
+        "original": "John 1:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "aethiopia": {
+    "name": "Etiópia",
+    "slug": "aethiopia",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Etiópia]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "alien": {
+    "name": "Estrangeiro",
+    "slug": "alien",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um estrangeiro, ou pessoa nascida em outro país, e, portanto, sem direito aos direitos e privilégios do país onde reside. Entre os hebreus, havia duas classes de estrangeiros. (1.) Aqueles que eram estranhos em geral, e que não possuíam propriedade fundiária. (2.) Estranhos morando em outro país sem serem naturalizados (Lev. 22:10; Sal. 39:12). Ambas as classes deveriam desfrutar, sob certas condições, dos mesmos direitos que os outros cidadãos (Lev. 19:33, 34; Deut. 10:19). Eles poderiam ser naturalizados e permitidos a entrar na congregação do Senhor submetendo-se à circuncisão e abandonando a idolatria (Deut. 23:3-8). Este termo é usado (Ef. 2:12) para denotar pessoas que não têm interesse em Cristo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 22:10",
+        "original": "Lev. 22:10"
+      },
+      {
+        "reference": "Psalms 39:12",
+        "original": "Ps. 39:12"
+      },
+      {
+        "reference": "Leviticus 19:33",
+        "original": "Lev. 19:33"
+      },
+      {
+        "reference": "Leviticus 19:34",
+        "original": "Lev. 19:34"
+      },
+      {
+        "reference": "Deuteronomy 10:19",
+        "original": "Deut. 10:19"
+      },
+      {
+        "reference": "Deuteronomy 23:3-8",
+        "original": "Deut. 23:3-8"
+      },
+      {
+        "reference": "Ephesians 2:12",
+        "original": "Eph. 2:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  },
+  "alms": {
+    "name": "Esmolas",
+    "slug": "alms",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Não encontrada no Antigo Testamento, mas repetidamente no Novo. A legislação mosaica (Lv 25:35; Dt 15:7) tendia a promover um espírito de caridade e a evitar a ocorrência de miséria entre o povo. Passagens como estas, Sl 41:1; 112:9; Pv 14:31; Is 10:2; Am 2:7; Jr 5:28; Ez 22:29, também cultivariam naturalmente o mesmo espírito benevolente. No tempo de nosso Senhor, a mendicância era comum (Mc 10:46; At 3:2). Os fariseus eram muito ostensivos em suas esmolas (Mt 6:2). O espírito pelo qual o cristão deve ser movido neste dever está exposto em 1 Jo 3:17. A atenção aos pobres e necessitados é ordenada como um dever cristão (Lc 3:11; 6:30; Mt 6:1; At 9:36; 10:2, 4), um dever que não foi negligenciado pelos primeiros cristãos (Lc 14:13; At 20:35; Gl 2:10; Rm 15:25-27; 1 Co 16:1-4). Eles cuidavam não apenas dos pobres entre si, mas também contribuíam para as necessidades dos que estavam distantes (At 11:29; 24:17; 2 Co 9:12). Nosso Senhor e seus seguidores também deram o exemplo nisso (Jo 13:29). Nos tempos modernos, as “leis dos pobres” introduziram um elemento que modifica consideravelmente a forma como podemos cumprir este dever cristão."
+      },
+      {
+        "source": "SMI",
+        "text": "O dever da esmola, especialmente em espécie, consistindo principalmente em porções a serem deixadas deliberadamente dos produtos do campo, da vinha e do olival (Lv 19:9, 10; 23:22; 15:11; 24:19; 26:2-13; Rt 2:2), é estritamente ordenado pela lei. A cada terceiro ano também (Dt 14:28), cada proprietário era instruído a compartilhar o dízimo de seus produtos com “o levita, o estrangeiro, o órfão e a viúva”. A estimativa teológica da esmola entre os judeus é indicada nas seguintes passagens: (Jó 31:17; Pv 10:2; 11:4; Et 9:22; Sl 112:9; At 9:36) o caso de Dorcas; (At 10:2) de Cornélio; ao que se pode acrescentar Tobias 4:10, 11; 14:10, 11 e Eclesiástico 3:30; 40:24. Os fariseus eram zelosos na esmola, mas muito ostensivos em seu modo de atuação, pelo que nosso Senhor os repreende (Mt 6:2). O dever de socorrer os pobres não foi negligenciado pelos cristãos (Mt 6:1-4; Lc 14:13; At 20:35; Gl 2:10). Esperava-se uma doação regular e proporcional (At 11:30; Rm 15:25-27; 1 Co 16:1-4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:35",
+        "original": "Lev. 25:35"
+      },
+      {
+        "reference": "Deuteronomy 15:7",
+        "original": "Deut. 15:7"
+      },
+      {
+        "reference": "Psalms 41:1",
+        "original": "Ps. 41:1"
+      },
+      {
+        "reference": "Psalms 112:9",
+        "original": "Ps 112:9"
+      },
+      {
+        "reference": "Proverbs 14:31",
+        "original": "Prov. 14:31"
+      },
+      {
+        "reference": "Isaiah 10:2",
+        "original": "Isa. 10:2"
+      },
+      {
+        "reference": "Amos 2:7",
+        "original": "Amos 2:7"
+      },
+      {
+        "reference": "Jeremiah 5:28",
+        "original": "Jer. 5:28"
+      },
+      {
+        "reference": "Ezekiel 22:29",
+        "original": "Ezek. 22:29"
+      },
+      {
+        "reference": "Mark 10:46",
+        "original": "Mark 10:46"
+      },
+      {
+        "reference": "Acts 3:2",
+        "original": "Acts 3:2"
+      },
+      {
+        "reference": "Matthew 6:2",
+        "original": "Matt. 6:2"
+      },
+      {
+        "reference": "1 John 3:17",
+        "original": "1 John 3:17"
+      },
+      {
+        "reference": "Luke 3:11",
+        "original": "Luke 3:11"
+      },
+      {
+        "reference": "Luke 6:30",
+        "original": "Luke 6:30"
+      },
+      {
+        "reference": "Matthew 6:1",
+        "original": "Matt. 6:1"
+      },
+      {
+        "reference": "Acts 9:36",
+        "original": "Acts 9:36"
+      },
+      {
+        "reference": "Acts 10:2",
+        "original": "Acts 10:2"
+      },
+      {
+        "reference": "Acts 10:4",
+        "original": "Acts 10:4"
+      },
+      {
+        "reference": "Luke 14:13",
+        "original": "Luke 14:13"
+      },
+      {
+        "reference": "Acts 20:35",
+        "original": "Acts 20:35"
+      },
+      {
+        "reference": "Galatians 2:10",
+        "original": "Gal. 2:10"
+      },
+      {
+        "reference": "Romans 15:25-27",
+        "original": "Rom. 15:25-27"
+      },
+      {
+        "reference": "1 Corinthians 16:1-4",
+        "original": "1 Cor. 16:1-4"
+      },
+      {
+        "reference": "Acts 11:29",
+        "original": "Acts 11:29"
+      },
+      {
+        "reference": "Acts 24:17",
+        "original": "Acts 24:17"
+      },
+      {
+        "reference": "2 Corinthians 9:12",
+        "original": "2 Cor. 9:12"
+      },
+      {
+        "reference": "John 13:29",
+        "original": "John 13:29"
+      },
+      {
+        "reference": "Leviticus 19:9",
+        "original": "Leviticus 19:9"
+      },
+      {
+        "reference": "Leviticus 19:10",
+        "original": "Leviticus 19:10"
+      },
+      {
+        "reference": "Leviticus 23:22",
+        "original": "Leviticus 23:22"
+      },
+      {
+        "reference": "Leviticus 15:11",
+        "original": "Leviticus 15:11"
+      },
+      {
+        "reference": "Leviticus 24:19",
+        "original": "Leviticus 24:19"
+      },
+      {
+        "reference": "Leviticus 26:2-13",
+        "original": "Leviticus 26:2-13"
+      },
+      {
+        "reference": "Ruth 2:2",
+        "original": "Ruth 2:2"
+      },
+      {
+        "reference": "Job 31:17",
+        "original": "Job 31:17"
+      },
+      {
+        "reference": "Proverbs 10:2",
+        "original": "Proverbs 10:2"
+      },
+      {
+        "reference": "Proverbs 11:4",
+        "original": "Proverbs 11:4"
+      },
+      {
+        "reference": "Esther 9:22",
+        "original": "Esther 9:22"
+      },
+      {
+        "reference": "Tob 4:10",
+        "original": "Tobit 4:10"
+      },
+      {
+        "reference": "Tob 4:11",
+        "original": "Tobit 4:11"
+      },
+      {
+        "reference": "Tob 14:10",
+        "original": "Tobit 14:10"
+      },
+      {
+        "reference": "Tob 14:11",
+        "original": "Tobit 14:11"
+      },
+      {
+        "reference": "Sir 3:30",
+        "original": "Ecclus. 3:30"
+      },
+      {
+        "reference": "Sir 40:24",
+        "original": "Ecclus 40:24"
+      },
+      {
+        "reference": "Matthew 6:1-4",
+        "original": "Matthew 6:1-4"
+      },
+      {
+        "reference": "Acts 11:30",
+        "original": "Acts 11:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ambassador": {
+    "name": "Embaixador",
+    "slug": "ambassador",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No Antigo Testamento, a palavra hebraica tsir, que significa “aquele que vai a uma missão”, é traduzida desta forma (Josué 9:4; Prov. 13:17; Isa. 18:2; Jer. 49:14; Obad. 1:1). Esta é também a tradução de melits, que significa “um intérprete”, em 2 Crôn. 32:31; e de malak, um “mensageiro”, em 2 Crôn. 35:21; Isa. 30:4; 33:7; Ezeq. 17:15. Este é o nome usado pelo apóstolo para designar aqueles que são nomeados por Deus para declarar a sua vontade (2 Cor. 5:20; Efé. 6:20). Os hebreus em várias ocasiões e para diversos propósitos recorreram aos serviços de embaixadores, por exemplo, para contratar alianças (Josué 9:4), para solicitar favores (Núm. 20:14), para protestar quando um mal era feito (Juízes 11:12), para consolar um jovem rei pela morte de seu pai (2 Sam. 10:2), e para parabenizar um rei pela sua ascensão ao trono (1 Reis 5:1). Causar dano a um embaixador era insultar o rei que o enviou (2 Sam. 10:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "uma pessoa de alto escalão empregada por um governo para representá-lo e tratar de seus negócios na sede do governo de outra potência. Os exemplos mais antigos de embaixadores empregados ocorrem em (Números 20:14; 21:21; Juízes 11:7-19) depois nos dos gibeonitas fraudulentos, (Josué 9:4) etc., e nas instâncias de conflito cívico mencionadas em (Juízes 11:12) e 20:12. Constata-se que os embaixadores foram empregados não apenas em ocasiões de desafio hostil ou ameaça insolente, (1 Reis 20:2,6; 2 Reis 14:8) mas de elogio amigável, de pedido de aliança ou outra ajuda, de deprecação submissa e de inquérito curioso. (2 Reis 14:8; 16:7; 18:14; 2 Crônicas 32:31) Os ministros são chamados embaixadores de Cristo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 9:4",
+        "original": "Josh. 9:4"
+      },
+      {
+        "reference": "Proverbs 13:17",
+        "original": "Prov. 13:17"
+      },
+      {
+        "reference": "Isaiah 18:2",
+        "original": "Isa. 18:2"
+      },
+      {
+        "reference": "Jeremiah 49:14",
+        "original": "Jer. 49:14"
+      },
+      {
+        "reference": "2 Chronicles 32:31",
+        "original": "2 Chr. 32:31"
+      },
+      {
+        "reference": "2 Chronicles 35:21",
+        "original": "2 Chr. 35:21"
+      },
+      {
+        "reference": "Isaiah 30:4",
+        "original": "Isa. 30:4"
+      },
+      {
+        "reference": "Isaiah 33:7",
+        "original": "Isa 33:7"
+      },
+      {
+        "reference": "Ezekiel 17:15",
+        "original": "Ezek. 17:15"
+      },
+      {
+        "reference": "2 Corinthians 5:20",
+        "original": "2 Cor. 5:20"
+      },
+      {
+        "reference": "Ephesians 6:20",
+        "original": "Eph. 6:20"
+      },
+      {
+        "reference": "Numbers 20:14",
+        "original": "Num. 20:14"
+      },
+      {
+        "reference": "Judges 11:12",
+        "original": "Judg. 11:12"
+      },
+      {
+        "reference": "2 Samuel 10:2",
+        "original": "2 Sam. 10:2"
+      },
+      {
+        "reference": "1 Kings 5:1",
+        "original": "1 Kings 5:1"
+      },
+      {
+        "reference": "2 Samuel 10:5",
+        "original": "2 Sam. 10:5"
+      },
+      {
+        "reference": "Numbers 21:21",
+        "original": "Numbers 21:21"
+      },
+      {
+        "reference": "Judges 11:7-19",
+        "original": "Judges 11:7-19"
+      },
+      {
+        "reference": "Judges 20:12",
+        "original": "Judg 20:12"
+      },
+      {
+        "reference": "1 Kings 20:2",
+        "original": "1 Kings 20:2"
+      },
+      {
+        "reference": "1 Kings 20:6",
+        "original": "1 Kings 20:6"
+      },
+      {
+        "reference": "2 Kings 14:8",
+        "original": "2 Kings 14:8"
+      },
+      {
+        "reference": "2 Kings 16:7",
+        "original": "2 Kings 16:7"
+      },
+      {
+        "reference": "2 Kings 18:14",
+        "original": "2 Kings 18:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ambassage": {
+    "name": "Embaixada",
+    "slug": "ambassage",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "embaixada, uma mensagem de natureza pública trazida por embaixadores. A palavra também às vezes inclui os próprios embaixadores. (Lucas 14:32)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 14:32",
+        "original": "Luke 14:32"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ambush": {
+    "name": "Emboscada",
+    "slug": "ambush",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Josué, na captura de Ai, preparou uma emboscada e enganou os habitantes de tal forma que obteve uma vitória fácil (Josué 8:4-26). Siquém foi tomada dessa maneira (Juízes 9:30-45; comp. Jeremias 51:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 8:4-26",
+        "original": "Josh. 8:4-26"
+      },
+      {
+        "reference": "Judges 9:30-45",
+        "original": "Judg. 9:30-45"
+      },
+      {
+        "reference": "Jeremiah 51:12",
+        "original": "Jer. 51:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "e"
+  }
+}

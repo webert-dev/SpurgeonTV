@@ -1,0 +1,26 @@
+{
+  "absaloms-pillar-or-place": {
+    "name": "Pilar ou Lugar de Absalão",
+    "slug": "absaloms-pillar-or-place",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Um monumento de túmulo que Absalão construíra durante sua vida no vale do rei, isto é, o vale de Cedrom, ao pé do Monte das Oliveiras, perto de Jerusalém (2 Samuel 18:18), comparado com 2Sam 14:27, para seus três filhos, e onde ele provavelmente esperava ser enterrado. O túmulo que existe lá agora, e chamado pelo nome de Absalão, foi provavelmente construído em uma data posterior."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 18:18",
+        "original": "2 Samuel 18:18"
+      },
+      {
+        "reference": "2 Samuel 14:27",
+        "original": "2Sam 14:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  }
+}
