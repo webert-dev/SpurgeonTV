@@ -126,7 +126,13 @@ export default function AboutArticleList({ lang = 'en', initialArticles = [] }) 
                 <article style={{ background: 'var(--surface)', padding: '1.5rem', borderRadius: '8px', border: '1px solid var(--border)', transition: 'all 0.2s', cursor: 'pointer', height: '100%', display: 'flex', flexDirection: 'column' }} className="article-card">
                   <div style={{ color: 'var(--text-muted)', fontSize: '0.75rem', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '1px', display: 'flex', justifyContent: 'space-between' }}>
                     <span>{article.date} • {article.readTime}</span>
-                    <span style={{ color: 'var(--accent)', opacity: 0.8, fontWeight: 'bold' }}>{article.category.toUpperCase()}</span>
+                    <span style={{ color: 'var(--accent)', opacity: 0.8, fontWeight: 'bold' }}>
+                      {{
+                        en: { preacher: "PREACHER", biography: "BIOGRAPHY", theology: "THEOLOGY", controversies: "CONTROVERSIES" },
+                        pt: { preacher: "PREGADOR", biography: "BIOGRAFIA", theology: "TEOLOGIA", controversies: "CONTROVÉRSIAS" },
+                        es: { preacher: "PREDICADOR", biography: "BIOGRAFÍA", theology: "TEOLOGÍA", controversies: "CONTROVERSIAS" }
+                      }[lang]?.[article.category?.toLowerCase()] || article.category?.toUpperCase()}
+                    </span>
                   </div>
                   <h3 style={{ color: 'var(--accent)', marginBottom: '0.5rem', fontFamily: 'var(--font-serif)', fontSize: '1.25rem' }}>
                     {article.title}
