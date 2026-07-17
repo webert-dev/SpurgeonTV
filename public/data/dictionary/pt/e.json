@@ -17346,12 +17346,12 @@
     "letter": "e"
   },
   "star-of-the-wise-men": {
-    "name": "Estrela dos Magos",
+    "name": "Estrela dos Reis Magos",
     "slug": "star-of-the-wise-men",
     "definitions": [
       {
         "source": "SMI",
-        "text": "[Magos]"
+        "text": "[Mágico]"
       }
     ],
     "scripture_refs": [],
@@ -17511,6 +17511,74 @@
     ],
     "sources": [
       "EAS",
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "ethiopian-eunuch-the": {
+    "name": "Eunuco etíope",
+    "slug": "ethiopian-eunuch-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um prosélito judeu, (Atos 8:26) etc., que era tesoureiro de Candace, rainha da Etiópia, mas que foi convertido ao cristianismo em uma visita a Jerusalém, através de Filipe, o evangelista. Nada se sabe sobre ele após seu retorno à Etiópia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 8:26",
+        "original": "Acts 8:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "sheepgate-the": {
+    "name": "Escândalo das Ovelhas",
+    "slug": "sheepgate-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um dos portões de Jerusalém, conforme reconstruído por Neemias. (Neemias 3:1,32; 12:39) Ficava entre a torre de Meá e a câmara do canto, cap. (Neemias 3:1,32) ou portão do posto de guarda, cap. (Neemias 12:39) Versão Autorizada: “portão da prisão”. Este último parece ter ficado no ângulo formado pela junção do muro da cidade de Davi com o da cidade de Jerusalém propriamente dita, tendo o Portão das Ovelhas ao norte dele. A localização do Portão das Ovelhas pode, portanto, ter sido no mesmo local ou próximo ao do Bab el Kattanin."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:1",
+        "original": "Nehemiah 3:1"
+      },
+      {
+        "reference": "Nehemiah 3:32",
+        "original": "Nehemiah 3:32"
+      },
+      {
+        "reference": "Nehemiah 12:39",
+        "original": "Nehemiah 12:39"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
+  },
+  "tilon": {
+    "name": "Espaço",
+    "slug": "tilon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(presente), um dos quatro filhos de Simeão, cuja família é mencionada nas genealogias de Judá. (1 Crônicas 4:20) (1451 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:20",
+        "original": "1 Chronicles 4:20"
+      }
+    ],
+    "sources": [
       "SMI"
     ],
     "letter": "e"

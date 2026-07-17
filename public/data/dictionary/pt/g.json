@@ -8441,5 +8441,97 @@
       "SMI"
     ],
     "letter": "g"
+  },
+  "wars-of-the-lord-the-book-of-the": {
+    "name": "Guerras do Senhor, O Livro das",
+    "slug": "wars-of-the-lord-the-book-of-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Nm 21:14, 15), um livro desconhecido assim chamado (comp. Gn 14:14-16; Êx 17:8-16; Nm 14:40-45; 21:1-3, 21-25, 33-35; 31. As guerras aqui registradas poderiam ser assim designadas)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 21:14",
+        "original": "Num. 21:14"
+      },
+      {
+        "reference": "Numbers 21:15",
+        "original": "Num. 21:15"
+      },
+      {
+        "reference": "Genesis 14:14-16",
+        "original": "Gen. 14:14-16"
+      },
+      {
+        "reference": "Exodus 17:8-16",
+        "original": "Ex. 17:8-16"
+      },
+      {
+        "reference": "Numbers 14:40-45",
+        "original": "Num. 14:40-45"
+      },
+      {
+        "reference": "Numbers 21:1-3",
+        "original": "Num 21:1-3"
+      },
+      {
+        "reference": "Numbers 21:21-25",
+        "original": "Num 21:21-25"
+      },
+      {
+        "reference": "Numbers 21:33-35",
+        "original": "Num 21:33-35"
+      },
+      {
+        "reference": "Numbers 31",
+        "original": "Num 31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "gederathite-the": {
+    "name": "Gederatita",
+    "slug": "gederathite-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O nativo de um lugar chamado Gederá, aparentemente em Benjamim (1 Crônicas 12:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 12:4",
+        "original": "1 Chronicles 12:4"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "gederite-the": {
+    "name": "Gederita",
+    "slug": "gederite-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "O nativo de algum lugar chamado Geder ou Gederá (1 Crônicas 27:28)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:28",
+        "original": "1 Chronicles 27:28"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

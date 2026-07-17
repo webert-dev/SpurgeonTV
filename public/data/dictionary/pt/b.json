@@ -14139,5 +14139,30 @@
       "SMI"
     ],
     "letter": "b"
+  },
+  "tebeth": {
+    "name": "Bethel",
+    "slug": "tebeth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Ester 2:16), palavra provavelmente de origem persa, que designa a época fria do ano; usada pelos judeus posteriores para designar o décimo mês do ano. Do assírio tebituv, “chuva”."
+      },
+      {
+        "source": "SMI",
+        "text": "[Mês]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 2:16",
+        "original": "Esther 2:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
   }
 }

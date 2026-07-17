@@ -2701,12 +2701,12 @@
     "letter": "t"
   },
   "tachmonite-the": {
-    "name": "Tachmonita, A",
+    "name": "Tacmonita",
     "slug": "tachmonite-the",
     "definitions": [
       {
         "source": "SMI",
-        "text": "“O tachmonita que ocupava o assento”, o principal entre os capitães de Davi (2 Samuel 23:8); em 1 Crônicas 11:11, chamado de “Jashobeam, o hacmonita” ou, conforme indica a nota de margem, “filho de Hacmoni”. Kennicott demonstrou que as palavras traduzidas como “aquele que ocupava o assento” são uma corruptela de Jashobeam, e que “o tachmonita” é uma corruptela de “filho de Hachmoni”, que era o nome da família ou o nome local de Jashobeam. Portanto, ele conclui que “Jashobeam, o Hachmonita” seria a leitura correta."
+        "text": "“O tacmonita que estava assentado no assento”, chefe entre os capitães de Davi, (2 Samuel 23:8) em 1 Cr 11:11 chamado “Jasobeão, um hacmonita”, ou, como a margem indica, “filho de Hacmoni”. Kennicott mostrou que as palavras traduzidas como “aquele que estava assentado no assento” são uma corrupção de Jasobeão, e que “o tacmonita” é uma corrupção de “filho de Hacmoni”, que era o nome familiar ou local de Jasobeão. Portanto, ele conclui que “Jasobeão, o hacmonita” seria a leitura verdadeira."
       }
     ],
     "scripture_refs": [
@@ -9833,12 +9833,12 @@
     "letter": "t"
   },
   "tahanites-the": {
-    "name": "Taânitas, Os",
+    "name": "Tahanitas",
     "slug": "tahanites-the",
     "definitions": [
       {
         "source": "SMI",
-        "text": "(Números 26:35) [Taã]"
+        "text": "(Números 26:35) [Aguente firme]"
       }
     ],
     "scripture_refs": [
@@ -10226,12 +10226,12 @@
     "letter": "t"
   },
   "tarpelites-the": {
-    "name": "Tarpelitas",
+    "name": "Tarpelites",
     "slug": "tarpelites-the",
     "definitions": [
       {
         "source": "SMI",
-        "text": "Uma raça de colonos assírios que foram estabelecidos nas cidades de Samaria após o cativeiro do reino do norte de Israel. (Esdras 4:9) Eles não foram identificados com certeza."
+        "text": "Um povo de colonos assírios que foi estabelecido nas cidades de Samaria após o cativeiro do reino do norte de Israel. (Esdras 4:9) Sua identidade não foi identificada com certeza."
       }
     ],
     "scripture_refs": [
@@ -10246,16 +10246,16 @@
     "letter": "t"
   },
   "taverns-the-three": {
-    "name": "Três Vendas (Três Tabernas)",
+    "name": "Três tabernas",
     "slug": "taverns-the-three",
     "definitions": [
       {
         "source": "EAS",
-        "text": "Um lugar na grande “Via Ápia”, cerca de 18 km de Roma, projetado para a recepção de viajantes, como o nome indica. Aqui Paulo, a caminho de Roma, foi encontrado por um grupo de cristãos romanos (Atos 28:15). As “Tres Tabernae” eram a primeira mansio ou mutatio, isto é, local de parada para descanso, a partir de Roma, ou a última a caminho da cidade. Neste ponto, três estradas se juntam à Via Ápia: a de Tusculum, a de Alba Longa e a de Antium; por isso, necessariamente, haveria aqui um local de parada, que recebeu seu nome das três lojas lá existentes: a mercearia, a ferraria e a casa de refrescos... Tres Tabernae é traduzido como Três Tabernas, mas significa mais corretamente três lojas” (Forbes’s Footsteps of St. Paul, p. 20)."
+        "text": "Um local situado na grande “Via Ápia”, a cerca de 11 milhas de Roma, destinado a receber viajantes, como o próprio nome indica. Aqui, Paulo, a caminho de Roma, foi recebido por um grupo de cristãos romanos (Atos 28:15). A “Tres Tabernae” era a primeira mansio ou mutatio — ou seja, ponto de parada para a troca de cavalos — partindo de Roma, ou a última no caminho para a cidade. Nesse ponto, três estradas se unem à Via Ápia: a que vem de Tusculum, a que vem de Alba Longa e a que vem de Antium; por isso, necessariamente haveria ali um ponto de parada, que recebeu esse nome devido às três lojas existentes no local: a loja geral, a ferraria e a casa de refrescos...“Tres Tabernae” é traduzido como “Três Tabernas”, mas significa, mais corretamente, “três lojas” (Forbes, *Footsteps of St. Paul*, p. 20)."
       },
       {
         "source": "SMI",
-        "text": "[Três Tabernas]"
+        "text": "[Três Tabernas TABERNAS]"
       }
     ],
     "scripture_refs": [
@@ -10283,6 +10283,239 @@
       {
         "reference": "1 Chronicles 7:25",
         "original": "1 Chronicles 7:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "transfiguration-the": {
+    "name": "Transfiguração, a",
+    "slug": "transfiguration-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A aparição de nosso Senhor em uma “montanha alta e isolada” é descrita por cada um dos três evangelistas (Mt 17,1-8; Mc 9,2-8; Lc 9,28-36). O relato mais completo é dado por Lucas, que, sem dúvida, foi informado por Pedro, que estava presente na ocasião. O que esses evangelistas registram foi uma realidade histórica absoluta, e não uma mera visão. A concordância entre eles em todas as circunstâncias do incidente é exata. João parece fazer alusão a isso também (João 1:14). Quarenta anos após o evento, Pedro faz menção clara a ele (2 Pedro 1:16-18). Ao descrever a santificação dos crentes, Paulo também parece aludir a essa aparição majestosa e gloriosa de nosso Senhor no “monte santo” (Romanos 12:2; 2 Coríntios 3:18). O local da transfiguração foi provavelmente o Monte Hermon (ver), e não o Monte Tabor, como se supõe comumente."
+      },
+      {
+        "source": "SMI",
+        "text": "(O evento na vida terrena de Cristo que marca o ponto culminante de seu ministério público e se situa a meio caminho entre a tentação no deserto e a agonia no Getsêmani (Mateus 17:1-13; Marcos 9:2-13; Lucas 9:28-36). Local. Embora a tradição situe a transfiguração no Monte Tabor, há poucos indícios que confirmem essa visão, e os críticos modernos defendem o Monte Hermon, o pico mais alto da Gaulanitis, ou um dos contrafortes do Anti-Líbano. Hora. — A transfiguração provavelmente ocorreu à noite, pois assim poderia ser vista com mais clareza do que à luz do dia, e Jesus costumava ir às montanhas para passar a noite em oração. (Mateus 14:23,24; Lucas 6:12; 21:37) Os apóstolos estavam dormindo e são descritos como tendo se mantido acordados durante o ato da transfiguração. (Lucas 9:32) Os participantes e testemunhas. — Cristo era a figura central, o objeto da transfiguração. Moisés e Elias apareceram do mundo celestial, como representantes do Antigo Testamento — um da lei e o outro da profecia —, para prestar homenagem àquele que era o cumprimento de ambos. O Sr. Ellicott diz: “O fim do ministério de cada um não foi após a ‘morte comum de todos os homens’. Ninguém sabia onde estava o sepulcro de Moisés (34:6), e Elias havia partido na carruagem e nos cavalos de fogo. (2 Reis 2:11) Ambos eram associados, na mente das pessoas, à glória do reino de Cristo. O Targum de Jerusalém sobre (Êxodo 12:1) [...] relaciona a vinda de Moisés com a do Messias. Outra tradição judaica prevê seu aparecimento juntamente com o de Elias.” Moisés, o legislador, e Elias, o chefe dos profetas, aparecem conversando com Cristo, a fonte do evangelho, para mostrar que todos são um e estão de acordo em um só. São Lucas (Lucas 9:31) acrescenta o tema de sua conversa: “Eles falavam da sua morte, que ele deveria cumprir em Jerusalém.” Entre os apóstolos, os três discípulos favoritos — Pedro, Tiago e João — foram as únicas testemunhas da cena — “os filhos do trovão e o homem da rocha”. O evento em si — A transfiguração, ou transformação, ou, como os alemães a chamam, a glorificação, consistiu em uma manifestação visível da glória interior da pessoa de Cristo, acompanhada por uma voz audível vinda do céu. Foi a revelação e a antecipação de seu futuro estado de glória, que estava oculto sob o véu de sua humanidade no estado de humilhação. A nuvem que cobria as testemunhas era brilhante ou semelhante à luz, luminosa, do mesmo tipo que a nuvem na ascensão. Significado do milagre. —"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 17:1-8",
+        "original": "Matt. 17:1-8"
+      },
+      {
+        "reference": "Mark 9:2-8",
+        "original": "Mark 9:2-8"
+      },
+      {
+        "reference": "Luke 9:28-36",
+        "original": "Luke 9:28-36"
+      },
+      {
+        "reference": "John 1:14",
+        "original": "John 1:14"
+      },
+      {
+        "reference": "Romans 12:2",
+        "original": "Rom. 12:2"
+      },
+      {
+        "reference": "2 Corinthians 3:18",
+        "original": "2 Cor. 3:18"
+      },
+      {
+        "reference": "Matthew 17:1-13",
+        "original": "Matthew 17:1-13"
+      },
+      {
+        "reference": "Mark 9:2-13",
+        "original": "Mark 9:2-13"
+      },
+      {
+        "reference": "Matthew 14:23",
+        "original": "Matthew 14:23"
+      },
+      {
+        "reference": "Matthew 14:24",
+        "original": "Matthew 14:24"
+      },
+      {
+        "reference": "Luke 6:12",
+        "original": "Luke 6:12"
+      },
+      {
+        "reference": "Luke 21:37",
+        "original": "Luke 21:37"
+      },
+      {
+        "reference": "Luke 9:32",
+        "original": "Luke 9:32"
+      },
+      {
+        "reference": "2 Kings 2:11",
+        "original": "2 Kings 2:11"
+      },
+      {
+        "reference": "Exodus 12:1",
+        "original": "Exodus 12:1"
+      },
+      {
+        "reference": "Luke 9:31",
+        "original": "Luke 9:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "fear-of-the-lord-the": {
+    "name": "Temor do Senhor",
+    "slug": "fear-of-the-lord-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "É usado no Antigo Testamento como uma designação de verdadeira piedade (Provérbios 1:7; Jó 28:28; Salmos 19:9). É um temor unido ao amor e à esperança, e, portanto, não é um pavor servil, mas sim uma reverência filial. (Comparar Deuteronômio 32:6; Oseias 11:1; Isaías 1:2; 63:16; 64:8.) Deus é chamado de “o Temor de Isaque” (Gênesis 31:42, 53), isto é, o Deus a quem Isaque temia. Um temor santo é também ordenado no Novo Testamento como um preventivo contra o descuido na religião e como um incentivo ao arrependimento (Mateus 10:28; 2 Coríntios 5:11; 7:1; Filipenses 2:12; Efésios 5:21; Hebreus 12:28, 29)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 1:7",
+        "original": "Prov. 1:7"
+      },
+      {
+        "reference": "Job 28:28",
+        "original": "Job 28:28"
+      },
+      {
+        "reference": "Psalms 19:9",
+        "original": "Ps. 19:9"
+      },
+      {
+        "reference": "Deuteronomy 32:6",
+        "original": "Deut. 32:6"
+      },
+      {
+        "reference": "Hosea 11:1",
+        "original": "Hos. 11:1"
+      },
+      {
+        "reference": "Isaiah 1:2",
+        "original": "Isa. 1:2"
+      },
+      {
+        "reference": "Isaiah 63:16",
+        "original": "Isa 63:16"
+      },
+      {
+        "reference": "Isaiah 64:8",
+        "original": "Isa 64:8"
+      },
+      {
+        "reference": "Genesis 31:42",
+        "original": "Gen. 31:42"
+      },
+      {
+        "reference": "Genesis 31:53",
+        "original": "Gen. 31:53"
+      },
+      {
+        "reference": "Matthew 10:28",
+        "original": "Matt. 10:28"
+      },
+      {
+        "reference": "2 Corinthians 5:11",
+        "original": "2 Cor. 5:11"
+      },
+      {
+        "reference": "2 Corinthians 7:1",
+        "original": "2 Cor. 7:1"
+      },
+      {
+        "reference": "Philippians 2:12",
+        "original": "Phil. 2:12"
+      },
+      {
+        "reference": "Ephesians 5:21",
+        "original": "Eph. 5:21"
+      },
+      {
+        "reference": "Hebrews 12:28",
+        "original": "Heb. 12:28"
+      },
+      {
+        "reference": "Hebrews 12:29",
+        "original": "Heb. 12:29"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "tirathites-the": {
+    "name": "Tirathitas",
+    "slug": "tirathites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "uma das três famílias de escribas que residiam em Jabez (1 Crônicas 2:55), sendo as outras os shimeatitas e os sucatitas. A passagem é extremamente obscura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:55",
+        "original": "1 Chronicles 2:55"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "tishbite-the": {
+    "name": "Tishbita",
+    "slug": "tishbite-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a conhecida designação de Elias. (1 Reis 17:1; 21:17,28; 2 Reis 1:3,8; 9:36) O nome remete naturalmente a um lugar chamado Tisbe, Tisbi ou, talvez, Tesheb, como sendo a residência do profeta. Supondo que se faça alusão a uma cidade como local de nascimento de Elias, não é necessário inferir que ela estivesse propriamente em Gileade, como muitos imaginaram. Os comentaristas e lexicógrafos, com poucas exceções, adotam o nome “tishbita” como referência ao lugar Tisbe, em Naftali, que é mencionado no texto da Septuaginta de Tobias 1:2."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 17:1",
+        "original": "1 Kings 17:1"
+      },
+      {
+        "reference": "1 Kings 21:17",
+        "original": "1 Kings 21:17"
+      },
+      {
+        "reference": "1 Kings 21:28",
+        "original": "1 Kings 21:28"
+      },
+      {
+        "reference": "2 Kings 1:3",
+        "original": "2 Kings 1:3"
+      },
+      {
+        "reference": "2 Kings 1:8",
+        "original": "2 Kings 1:8"
+      },
+      {
+        "reference": "2 Kings 9:36",
+        "original": "2 Kings 9:36"
+      },
+      {
+        "reference": "Tob 1:2",
+        "original": "Tobit 1:2"
       }
     ],
     "sources": [

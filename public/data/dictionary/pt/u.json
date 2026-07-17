@@ -765,26 +765,6 @@
     ],
     "letter": "u"
   },
-  "secacah": {
-    "name": "Um número",
-    "slug": "secacah",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Enclosure, uma das seis cidades do deserto de Judá, conhecida por sua “grande cisterna” (Josué 15:61). Foi identificada com as ruínas de Sikkeh, a leste de Betânia."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Joshua 15:61",
-        "original": "Josh. 15:61"
-      }
-    ],
-    "sources": [
-      "EAS"
-    ],
-    "letter": "u"
-  },
   "ulai": {
     "name": "Ulai",
     "slug": "ulai",
@@ -1797,6 +1777,30 @@
     ],
     "sources": [
       "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzielites-the": {
+    "name": "Uzzielitas, Os",
+    "slug": "uzzielites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "os descendentes de Uziel e uma das quatro grandes famílias dos coatitas. (Números 3:27; 1 Crônicas 26:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 3:27",
+        "original": "Numbers 3:27"
+      },
+      {
+        "reference": "1 Chronicles 26:23",
+        "original": "1 Chronicles 26:23"
+      }
+    ],
+    "sources": [
       "SMI"
     ],
     "letter": "u"

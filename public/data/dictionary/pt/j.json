@@ -16498,5 +16498,89 @@
       "EAS"
     ],
     "letter": "j"
+  },
+  "sabbath-day-s-journey": {
+    "name": "Jornada do dia de descanso",
+    "slug": "sabbath-day-s-journey",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Supostamente uma distância de 2.000 côvados, ou menos de meia milha, distância até a qual, segundo a tradição judaica, era permitido viajar no dia de sábado sem violar a lei (Atos 1:12; comp. Êxodo 16:29; Nm 35,5; Js 3,4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Exodus 16:29",
+        "original": "Ex. 16:29"
+      },
+      {
+        "reference": "Numbers 35:5",
+        "original": "Num. 35:5"
+      },
+      {
+        "reference": "Joshua 3:4",
+        "original": "Josh. 3:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "sabbathdays-journey": {
+    "name": "Jornada de Sabbathdays",
+    "slug": "sabbathdays-journey",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Atos 1:12) A lei relativa às viagens no sábado encontra-se em (Êxodo 16:29). Como era inevitável que uma pessoa se afastasse de seu próprio local, considerou-se necessário determinar a distância permitida, que foi fixada em 2.000 passos, ou cerca de seis estádios a partir da muralha da cidade. A distância permitida parece ter se baseado no espaço a ser mantido entre a arca e o povo (Josué 3:4) no deserto, que, segundo a tradição, era o espaço entre a arca e as tendas. Encontramos a mesma distância indicada como a circunferência fora dos muros das cidades levíticas, a ser considerada como seus subúrbios (Números 33:5). O ponto de partida não era, portanto, a própria casa de cada um, mas o muro da cidade onde ele morava."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Exodus 16:29",
+        "original": "Exodus 16:29"
+      },
+      {
+        "reference": "Joshua 3:4",
+        "original": "Joshua 3:4"
+      },
+      {
+        "reference": "Numbers 33:5",
+        "original": "Numbers 33:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "shaasgaz": {
+    "name": "Jornal",
+    "slug": "shaasgaz",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(servo das belas), o eunuco do palácio de Xerxes que era responsável pela custódia das mulheres na segunda casa. (Ester 2:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 2:14",
+        "original": "Esther 2:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
   }
 }

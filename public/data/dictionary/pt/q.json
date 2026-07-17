@@ -3381,5 +3381,309 @@
       "SMI"
     ],
     "letter": "q"
+  },
+  "sela": {
+    "name": "Questão",
+    "slug": "sela",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "=Se’lah, rocha, a capital de Edom, situada no grande vale que se estende do Mar Morto ao Mar Vermelho (2 Reis 14:7). Ficava perto do Monte Hor, nas proximidades do deserto de Zin. É chamada de “a rocha” (Juízes 1:36). Quando Amazias a conquistou, chamou-a de Jokteel (ver). É mencionada pelos profetas (Isaías 16:1; Obadias 1:3) como condenada à destruição. Aparece na história posterior e na Versão Vulgata sob o nome de Petra. “As caravanas de todas as épocas, vindas do interior da Arábia e do Golfo da Pérsia, de Hadramaut à beira-mar e até mesmo de Sabeia ou Iêmen, parecem ter apontado Petra como um centro comum; e a partir de Petra, o fluxo parece ter se ramificado novamente em todas as direções, rumo ao Egito, à Palestina e à Síria, passando por Arsinoé, Gaza, Tiro, Jerusalém e Damasco, e por outras rotas, terminando no Mediterrâneo.” (Ver EDOM [2].)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 14:7",
+        "original": "2 Kings 14:7"
+      },
+      {
+        "reference": "Judges 1:36",
+        "original": "Judg. 1:36"
+      },
+      {
+        "reference": "Isaiah 16:1",
+        "original": "Isa. 16:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "kenite-the": {
+    "name": "Queneu",
+    "slug": "kenite-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "e Queneus (ferreiros), habitavam a região rochosa e desértica entre o sul da Palestina e as montanhas do Sinai, a leste do Golfo de Ácaba. Eram um ramo da nação maior de Midiã — pelo fato de Jetro, que no Êxodo (veja Êxodo 2:15,16; 4:19 etc.) é representado como habitando a terra de Midiã, e como sacerdote ou príncipe daquela nação, é em Juízes 1:16; 4:11 distintamente dito ter sido um queneu. Os importantes serviços prestados pelo xeique dos queneus a Moisés durante um tempo de grande pressão e dificuldade foram recompensados por este último com uma promessa de firme amizade entre os dois povos. Eles parecem ter acompanhado os hebreus durante suas peregrinações (Números 24:21,22; Juízes 1:16), comp. 2 Crônicas 28:15. Mas, terminadas as peregrinações de Israel, eles abandonaram a vizinhança das cidades e dirigiram-se para um ar mais livre — para “o deserto de Judá, que está ao sul de Arade” (Juízes 1:16). Mas um dos xeiques da tribo, de nome Héber, havia vagado para o norte em vez de para o sul (Juízes 4:11). O desenvolvimento mais notável deste povo encontra-se na seita ou família dos recabitas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 2:15",
+        "original": "Exodus 2:15"
+      },
+      {
+        "reference": "Exodus 2:16",
+        "original": "Exodus 2:16"
+      },
+      {
+        "reference": "Exodus 4:19",
+        "original": "Exodus 4:19"
+      },
+      {
+        "reference": "Judges 1:16",
+        "original": "Judges 1:16"
+      },
+      {
+        "reference": "Judges 4:11",
+        "original": "Judges 4:11"
+      },
+      {
+        "reference": "Numbers 24:21",
+        "original": "Numbers 24:21"
+      },
+      {
+        "reference": "Numbers 24:22",
+        "original": "Numbers 24:22"
+      },
+      {
+        "reference": "2 Chronicles 28:15",
+        "original": "2Chr 28:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "raham": {
+    "name": "Que é isso?",
+    "slug": "raham",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mercurial, um dos descendentes de Calebe, filho de Hezrão (1 Crônicas 2:44)."
+      },
+      {
+        "source": "SMI",
+        "text": "(ventre). Na genealogia dos descendentes de Calebe, filho de Hezron (1 Crônicas 2:44), Raham é descrito como filho de Shema e pai de Jorkoam."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:44",
+        "original": "1 Chr. 2:44"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "sela-hammahlekoth": {
+    "name": "Que é um problema",
+    "slug": "sela-hammahlekoth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Penhasco das Divisões: nome do grande desfiladeiro situado entre Hachilah e Maon, a sudeste de Hebrom. Esse desfiladeiro é hoje conhecido como Wadi Malaky. Foi ali que ocorreu o encontro entre Davi e Saul mencionado em 1 Samuel 26:13. Cada um estava em um penhasco oposto, com esse abismo profundo entre eles."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 26:13",
+        "original": "1 Sam. 26:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "q"
+  },
+  "seneh": {
+    "name": "Que aconteceu?",
+    "slug": "seneh",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A acácia; espinho-da-rocha, o penhasco ao sul do Wadi es-Suweinit, um vale ao sul de Micmás, que Jônatas escalou com seu escudeiro (1 Sm 14:4, 5). A rocha em frente, do outro lado do wadi, chamava-se Bozez."
+      },
+      {
+        "source": "SMI",
+        "text": "(espinho), o nome de uma das duas rochas isoladas que se erguiam na “passagem de Micmás” (1 Samuel 14:4), a 6 milhas e meia ao norte de Jerusalém."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 14:4",
+        "original": "1 Sam. 14:4"
+      },
+      {
+        "reference": "1 Samuel 14:5",
+        "original": "1 Sam. 14:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zavan": {
+    "name": "Que é isso?",
+    "slug": "zavan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(1 Crônicas 1:42) [Zaavan, ou Zavan]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 1:42",
+        "original": "1 Chronicles 1:42"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zer": {
+    "name": "Que",
+    "slug": "zer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Flint), uma cidade fortificada na porção de Naftali (Josué 19:35), provavelmente nas proximidades da margem sudoeste do Lago de Genesaré."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:35",
+        "original": "Joshua 19:35"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zered": {
+    "name": "Que é isso?",
+    "slug": "zered",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "=Zared, exuberância; arbusto de salgueiro, um riacho ou vale que se comunica com o Mar Morto próximo à sua extremidade sul (Nm 21,12; Dt 2,14). É chamado de “riacho dos salgueiros” (Isaías 15:7) e de “rio do deserto” (Amós 6:14). Tem sido identificado com o Wadi el-Aksy."
+      },
+      {
+        "source": "SMI",
+        "text": "(riacho dos salgueiros), (2:13,14) ou Za’red, (Números 21:12) — um riacho ou vale que deságua no Mar Morto próximo ao seu canto sudeste, que o Dr. Robinson, com certa probabilidade, sugere ser idêntico ao Wadi el-Ahsy. Ele ficava entre Moabe e Edom e marca o limite do período propriamente dito da peregrinação dos israelitas. (2:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 21:12",
+        "original": "Num. 21:12"
+      },
+      {
+        "reference": "Deuteronomy 2:14",
+        "original": "Deut. 2:14"
+      },
+      {
+        "reference": "Isaiah 15:7",
+        "original": "Isa. 15:7"
+      },
+      {
+        "reference": "Amos 6:14",
+        "original": "Amos 6:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zereda": {
+    "name": "Que é isso?",
+    "slug": "zereda",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A fortaleza, uma cidade ao norte do Monte Efraim; local de nascimento de Jeroboão (1 Reis 11:26). Provavelmente é a mesma que Zaretã (Josué 3:16), Zererate (Juízes 7:22), Zartã (1 Reis 4:12) ou as seguintes."
+      },
+      {
+        "source": "SMI",
+        "text": "(a fortaleza) a cidade natal de Jeroboão. (1 Reis 11:26) Supõe-se que Zereda ou Zeredá seja idêntica a Zeredata e Zartã ou Zartana; mas as duas últimas ficavam no vale do Jordão, enquanto Zeredá ficava, de acordo com a afirmação repetida da LXX, no Monte Efraim."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 11:26",
+        "original": "1 Kings 11:26"
+      },
+      {
+        "reference": "Joshua 3:16",
+        "original": "Josh. 3:16"
+      },
+      {
+        "reference": "Judges 7:22",
+        "original": "Judg. 7:22"
+      },
+      {
+        "reference": "1 Kings 4:12",
+        "original": "1 Kings 4:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zeri": {
+    "name": "Que",
+    "slug": "zeri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(construído), um dos filhos de Jedutun, no reinado de Davi. (1 Crônicas 25:3) (1043 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 25:3",
+        "original": "1 Chronicles 25:3"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
+  },
+  "zeror": {
+    "name": "Que é o zero?",
+    "slug": "zeror",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(um feixe), benjamita, antepassado de Quis, pai de Saul. (1 Samuel 9:1) (cerca de 1730 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 9:1",
+        "original": "1 Samuel 9:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "q"
   }
 }

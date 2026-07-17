@@ -4593,5 +4593,81 @@
       "EAS"
     ],
     "letter": "z"
+  },
+  "zareathites-the": {
+    "name": "Zareatitas",
+    "slug": "zareathites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "os habitantes de Zareá ou Zora. (1 Crônicas 2:53)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:53",
+        "original": "1 Chronicles 2:53"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "z"
+  },
+  "zarhites-the": {
+    "name": "Zarhitas",
+    "slug": "zarhites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "um ramo da tribo de Judá, descendente de Zera, filho de Judá. (Números 26:13, 20; Josué 7:17; 1 Crônicas 27:11, 15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:13",
+        "original": "Numbers 26:13"
+      },
+      {
+        "reference": "Numbers 26:20",
+        "original": "Numbers 26:20"
+      },
+      {
+        "reference": "Joshua 7:17",
+        "original": "Joshua 7:17"
+      },
+      {
+        "reference": "1 Chronicles 27:11",
+        "original": "1 Chronicles 27:11"
+      },
+      {
+        "reference": "1 Chronicles 27:15",
+        "original": "1 Chronicles 27:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "z"
+  },
+  "zebulunites-the": {
+    "name": "Zebulonitas",
+    "slug": "zebulunites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "os membros da tribo de Zebulom. (Números 26:27) apenas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:27",
+        "original": "Numbers 26:27"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "z"
   }
 }

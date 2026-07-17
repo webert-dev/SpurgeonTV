@@ -2528,12 +2528,12 @@
     "letter": "r"
   },
   "ramathite-the": {
-    "name": "Ramathite, O",
+    "name": "Ramatita",
     "slug": "ramathite-the",
     "definitions": [
       {
         "source": "SMI",
-        "text": "Shimei, o ramatita — ou seja, natural de Ramá —, era responsável pelas vinhas reais do rei Davi. (1 Crônicas 27:27) (1050 a.C.)"
+        "text": "Simei, o ramatita, isto é, um nativo de Ramá, tinha o encargo das vinhas reais do Rei Davi. (1 Crônicas 27:27) (1050 a.C.)"
       }
     ],
     "scripture_refs": [
@@ -7723,12 +7723,12 @@
     "letter": "r"
   },
   "regemmelech": {
-    "name": "Regém-Meleque",
+    "name": "Rei do mel",
     "slug": "regemmelech",
     "definitions": [
       {
         "source": "SMI",
-        "text": "(amigo do rei). Os nomes de Sarezer e Regém-Meleque ocorrem em uma passagem obscura de Zacarias. (Zacarias 7:2) Eles foram enviados em nome de alguns dos cativos para fazer perguntas no templo sobre o jejum (617 a.C.)."
+        "text": "(amigo do rei). Os nomes de Sherezer e Regem-melech aparecem em uma passagem pouco conhecida do livro de Zacarias. (Zacarias 7:2) Eles foram enviados em nome de alguns dos cativos para obter informações no templo a respeito do jejum (617 a.C.)."
       }
     ],
     "scripture_refs": [
@@ -8582,6 +8582,35 @@
       {
         "reference": "Joshua 15:52",
         "original": "Joshua 15:52"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "wise-men": {
+    "name": "Reis Magos",
+    "slug": "wise-men",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionados em Dn 2,12, incluíam três categorias: (1) astrólogos, (2) caldeus e (3) adivinhos. A palavra no original (hakamim) provavelmente significa “curandeiros”. Na Caldeia, a medicina era apenas um ramo da magia. Os “sábios” de Mateus 2:7, que vieram do Oriente para Jerusalém, eram magos da Pérsia ou da Arábia."
+      },
+      {
+        "source": "SMI",
+        "text": "[Mágico]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 2:12",
+        "original": "Dan. 2:12"
+      },
+      {
+        "reference": "Matthew 2:7",
+        "original": "Matt. 2:7"
       }
     ],
     "sources": [

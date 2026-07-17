@@ -4744,5 +4744,75 @@
       "SMI"
     ],
     "letter": "v"
+  },
+  "vulgate-the": {
+    "name": "Vulgata",
+    "slug": "vulgate-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a versão latina da Bíblia. A influência que ela exerceu sobre o cristianismo ocidental é quase tão grande quanto a da LXX sobre as igrejas gregas. Tanto a versão grega quanto a Vulgata latina foram negligenciadas por muito tempo; no entanto, a Vulgata deveria suscitar um interesse muito profundo em todas as igrejas ocidentais, pois, por muitos séculos, foi a única Bíblia amplamente utilizada; e, direta ou indiretamente, é a verdadeira progenitora de todas as versões vernáculas da Europa Ocidental. Apenas a versão gótica de Ulfilas é independente dela. O nome é equivalente a Vulgata editio (o texto atual das Sagradas Escrituras). Essa tradução foi feita por Jerônimo — Eusébio Hieronymus —, que nasceu em 329 d.C. em Stridon, na Dalmácia, e faleceu em Belém em 420 d.C. Esse grande estudioso foi provavelmente o único, por 1.500 anos, a possuir as qualificações necessárias para produzir uma versão original das Escrituras para uso das igrejas latinas. Ao se mudar para Roma, foi solicitado pelo Papa Damasco, em 383 d.C., que fizesse uma revisão da antiga versão latina do Novo Testamento, cuja história se perdeu na obscuridade. Na meia-idade, Jerônimo iniciou o estudo do hebraico e elaborou uma nova versão do Antigo Testamento a partir do hebraico original, que foi concluída em 404 d.C. Os trabalhos críticos de Jerônimo foram recebidos com uma forte onda de críticas. Ele foi acusado de perturbar a tranquilidade da Igreja e abalar os alicerces da fé. Mas o clamor baseado na ignorância logo se dissipou; e a nova tradução passou gradualmente a ser usada em pé de igualdade com a antiga, acabando por suplantá-la. O imenso poder que a Vulgata exerceu na definição dos termos teológicos da cristandade ocidental dificilmente pode ser superestimado. A maior parte, de longe, da terminologia doutrinária atual baseia-se na Vulgata. Predestinação, justificação, supererogação (supererogo), santificação, salvação, mediação, regeneração, revelação, visitação (met.), propiciação — todos esses termos aparecem pela primeira vez na Vulgata Antiga. Graça, redenção, eleição, reconciliação, satisfação, inspiração e Escritura receberam ali um uso novo e sagrado. Sacramento e comunhão têm a mesma origem; e, embora batismo seja de origem grega, chegou até nós pelo latim. Seria fácil ampliar a lista com a adição de termos como “ordens”, “penitência”, “congregação” e “sacerdote”; mas já se pode perceber, a partir das formas já mencionadas, que a Vulgata deixou sua marca tanto em nossa língua quanto em nossos pensamentos. Foi a única versão conhecida por aqueles que transmitiram aos reformadores os ricos tesouros da sabedoria medieval; a versão com a qual os maiores reformadores estavam mais familiarizados e da qual extraíram seus primeiros conhecimentos sobre a verdade divina."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "veil-of-the-tabernacle-and-temple": {
+    "name": "Véu do Tabernáculo e do Templo",
+    "slug": "veil-of-the-tabernacle-and-temple",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Tabernáculo; Templo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "word-the": {
+    "name": "Verbo",
+    "slug": "word-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(grego: Logos), um dos títulos de nosso Senhor, encontrado apenas nos escritos de João (João 1:1-14; 1 João 1:1; Apocalipse 19:13). Como tal, Cristo é o revelador de Deus. Sua função é dar a conhecer a Deus. “Ninguém jamais viu a Deus; o Filho unigênito, que está no seio do Pai, é quem o revelou” (João 1:18). Esse título designa a natureza divina de Cristo. Como o Verbo, ele “estava no princípio” e “se fez carne”. “O Verbo estava com Deus” e “era Deus”, e era o Criador de todas as coisas (cf. Salmos 33:6; 107:20; 119:89; 147:18; Isaías 40:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 1:1-14",
+        "original": "John 1:1-14"
+      },
+      {
+        "reference": "1 John 1:1",
+        "original": "1 John 1:1"
+      },
+      {
+        "reference": "Revelation 19:13",
+        "original": "Rev. 19:13"
+      },
+      {
+        "reference": "John 1:18",
+        "original": "John 1:18"
+      },
+      {
+        "reference": "Psalms 33",
+        "original": "Ps. 33"
+      },
+      {
+        "reference": "Isaiah 40:8",
+        "original": "Isa. 40:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
   }
 }

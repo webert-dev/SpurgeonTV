@@ -202,5 +202,25 @@
       "SMI"
     ],
     "letter": "k"
+  },
+  "tikvath": {
+    "name": "Kvaath",
+    "slug": "tikvath",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(compilação) (corretamente Tokehath ou Tokhath), Tikvá, pai de Salum. (2 Crônicas 34:22)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 34:22",
+        "original": "2 Chronicles 34:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "k"
   }
 }

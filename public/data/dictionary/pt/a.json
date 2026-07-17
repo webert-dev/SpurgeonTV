@@ -27056,26 +27056,6 @@
     ],
     "letter": "a"
   },
-  "moabite-stone-the": {
-    "name": "A Pedra Moabita",
-    "slug": "moabite-stone-the",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "No ano de 1868, o Rev. F. Klein, da Sociedade Missionária da Igreja em Jerusalém, encontrou em Dhiban (o Dibom bíblico), em Moabe, uma pedra notável, desde então chamada de Pedra Moabita. Estava deitada no chão, com a inscrição voltada para cima, e mede cerca de 1,15 m de comprimento, 70 cm de largura e 35 cm de espessura. É um basalto preto compacto muito pesado. Foi feita uma impressão do bloco principal e de certas partes recuperadas quebradas pelos árabes. Foi quebrada pelos árabes, mas os fragmentos foram adquiridos pelo governo francês por 32.000 francos e estão no Louvre, em Paris. A face gravada tem o formato de uma lápide comum, arredondada no topo. Nesta pedra está o registro em caracteres fenícios das guerras de Mesa, rei de Moabe, com Israel (2 Reis 3:4). Fala do Rei Onri e de outros nomes de lugares e pessoas mencionados na Bíblia, e pertence a este período exato da história judaica e moabita. Os nomes dados na Pedra Moabita, gravados por alguém que os conhecia na vida diária, são, em quase todos os casos, idênticos aos encontrados na própria Bíblia e testemunham a maravilhosa integridade com que as Escrituras foram preservadas. “A inscrição é lida como uma folha arrancada de um livro perdido de Crônicas. As expressões são as mesmas; os nomes de deuses, reis e cidades são os mesmos.” — (Veja “Historical Illustrations” de Rawlinson; American Cyclopedia; e Bibliotheca Sacra, 20 de outubro de 1870.—ED.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "2 Kings 3:4",
-        "original": "2 Kings 3:4"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "mortar": {
     "name": "Argamassa",
     "slug": "mortar",
@@ -27788,98 +27768,6 @@
     ],
     "letter": "a"
   },
-  "plague-the": {
-    "name": "A Praga",
-    "slug": "plague-the",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "A praga é considerada como um tipo severo de tifo, acompanhada por bubões (tumores). Como a cólera, é mais violenta no primeiro surto, causando morte quase instantânea. Grande diferença de opinião surgiu quanto a ser contagiosa ou não. Era muito prevalente no Oriente e ainda prevalece no Egito. Várias palavras hebraicas são traduzidas como “pestilência” ou “praga”, mas nenhuma dessas palavras pode ser considerada como designando, por sua significação, a doença agora chamada de praga. Se a doença é mencionada, deve ser julgado pelo sentido das passagens, não pelo sentido das palavras. Aquelas pestilências que foram enviadas como julgamentos especiais, e foram ou sobrenaturalmente rápidas em seus efeitos ou foram adicionalmente direcionadas contra culpados específicos, estão além do alcance da investigação humana. Mas também lemos sobre pestilências que, embora enviadas como julgamentos, têm as características das epidemias modernas, não sendo rápidas além da natureza nem direcionadas contra indivíduos. (Levítico 26:25; 28:21). Em nenhuma dessas passagens parece certo que a praga esteja especificada. Os avisos nos profetas apresentam a mesma dificuldade. A doença de Ezequias foi considerada como sendo a praga, e sua natureza fatal, bem como a menção de uma úlcera, torna isso não improvável. Por outro lado, não há menção de uma pestilência entre seu povo na época."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Leviticus 26:25",
-        "original": "Leviticus 26:25"
-      },
-      {
-        "reference": "Leviticus 28:21",
-        "original": "Leviticus 28:21"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "plagues-the-ten": {
-    "name": "As Dez Pragas",
-    "slug": "plagues-the-ten",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "A ocasião em que as pragas foram enviadas está descrita em Êx 3-12."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Exodus 3",
-        "original": "Exod 3"
-      },
-      {
-        "reference": "Exodus 7:3-12",
-        "original": "Exodus 7:3-12"
-      },
-      {
-        "reference": "Exodus 7:16-25",
-        "original": "Exodus 7:16-25"
-      },
-      {
-        "reference": "Exodus 8:1-15",
-        "original": "Exodus 8:1-15"
-      },
-      {
-        "reference": "Exodus 8:16-19",
-        "original": "Exodus 8:16-19"
-      },
-      {
-        "reference": "Exodus 8:20-32",
-        "original": "Exodus 8:20-32"
-      },
-      {
-        "reference": "Exodus 9:1-7",
-        "original": "Exodus 9:1-7"
-      },
-      {
-        "reference": "Exodus 9:8-12",
-        "original": "Exodus 9:8-12"
-      },
-      {
-        "reference": "Exodus 9:13-34",
-        "original": "Exodus 9:13-34"
-      },
-      {
-        "reference": "Exodus 10:1-20",
-        "original": "Exodus 10:1-20"
-      },
-      {
-        "reference": "Exodus 10:21-29",
-        "original": "Exodus 10:21-29"
-      },
-      {
-        "reference": "Exodus 11:4",
-        "original": "Exodus 11:4"
-      },
-      {
-        "reference": "Exodus 11:5",
-        "original": "Exodus 11:5"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "plough": {
     "name": "Arado",
     "slug": "plough",
@@ -28076,7 +27964,7 @@
     "letter": "a"
   },
   "quicksands-the": {
-    "name": "As Areias Movediças",
+    "name": "Areias Movediças",
     "slug": "quicksands-the",
     "definitions": [
       {
@@ -28319,90 +28207,6 @@
     ],
     "letter": "a"
   },
-  "rohgah": {
-    "name": "A lacuna",
-    "slug": "rohgah",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(Clamor), um aserita, dos filhos de Shamer. (1 Crônicas 7:34) (cerca de 1490 a.C.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 7:34",
-        "original": "1 Chronicles 7:34"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "sabbath-day-s-journey": {
-    "name": "A jornada do dia de descanso",
-    "slug": "sabbath-day-s-journey",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Supostamente uma distância de 2.000 côvados, ou menos de meia milha, distância até a qual, segundo a tradição judaica, era permitido viajar no dia de sábado sem violar a lei (Atos 1:12; comp. Êxodo 16:29; Nm 35,5; Js 3,4)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Acts 1:12",
-        "original": "Acts 1:12"
-      },
-      {
-        "reference": "Exodus 16:29",
-        "original": "Ex. 16:29"
-      },
-      {
-        "reference": "Numbers 35:5",
-        "original": "Num. 35:5"
-      },
-      {
-        "reference": "Joshua 3:4",
-        "original": "Josh. 3:4"
-      }
-    ],
-    "sources": [
-      "EAS"
-    ],
-    "letter": "a"
-  },
-  "sabbathdays-journey": {
-    "name": "A Jornada de Sabbathdays",
-    "slug": "sabbathdays-journey",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(Atos 1:12) A lei relativa às viagens no sábado encontra-se em (Êxodo 16:29). Como era inevitável que uma pessoa se afastasse de seu próprio local, considerou-se necessário determinar a distância permitida, que foi fixada em 2.000 passos, ou cerca de seis estádios a partir da muralha da cidade. A distância permitida parece ter se baseado no espaço a ser mantido entre a arca e o povo (Josué 3:4) no deserto, que, segundo a tradição, era o espaço entre a arca e as tendas. Encontramos a mesma distância indicada como a circunferência fora dos muros das cidades levíticas, a ser considerada como seus subúrbios (Números 33:5). O ponto de partida não era, portanto, a própria casa de cada um, mas o muro da cidade onde ele morava."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Acts 1:12",
-        "original": "Acts 1:12"
-      },
-      {
-        "reference": "Exodus 16:29",
-        "original": "Exodus 16:29"
-      },
-      {
-        "reference": "Joshua 3:4",
-        "original": "Joshua 3:4"
-      },
-      {
-        "reference": "Numbers 33:5",
-        "original": "Numbers 33:5"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "sabbatical-year": {
     "name": "Ano sabático",
     "slug": "sabbatical-year",
@@ -28518,34 +28322,6 @@
     "sources": [
       "EAS",
       "SMI"
-    ],
-    "letter": "a"
-  },
-  "sela": {
-    "name": "A questão",
-    "slug": "sela",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "=Se’lah, rocha, a capital de Edom, situada no grande vale que se estende do Mar Morto ao Mar Vermelho (2 Reis 14:7). Ficava perto do Monte Hor, nas proximidades do deserto de Zin. É chamada de “a rocha” (Juízes 1:36). Quando Amazias a conquistou, chamou-a de Jokteel (ver). É mencionada pelos profetas (Isaías 16:1; Obadias 1:3) como condenada à destruição. Aparece na história posterior e na Versão Vulgata sob o nome de Petra. “As caravanas de todas as épocas, vindas do interior da Arábia e do Golfo da Pérsia, de Hadramaut à beira-mar e até mesmo de Sabeia ou Iêmen, parecem ter apontado Petra como um centro comum; e a partir de Petra, o fluxo parece ter se ramificado novamente em todas as direções, rumo ao Egito, à Palestina e à Síria, passando por Arsinoé, Gaza, Tiro, Jerusalém e Damasco, e por outras rotas, terminando no Mediterrâneo.” (Ver EDOM [2].)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "2 Kings 14:7",
-        "original": "2 Kings 14:7"
-      },
-      {
-        "reference": "Judges 1:36",
-        "original": "Judg. 1:36"
-      },
-      {
-        "reference": "Isaiah 16:1",
-        "original": "Isa. 16:1"
-      }
-    ],
-    "sources": [
-      "EAS"
     ],
     "letter": "a"
   },
@@ -28828,69 +28604,6 @@
     ],
     "letter": "a"
   },
-  "shulamite-the": {
-    "name": "A Sulamita",
-    "slug": "shulamite-the",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "uma das personagens do poema de Salomão (Cântico de Salomão 6:13). O nome se refere a uma mulher originária de um lugar chamado Shulem, que provavelmente é o mesmo que Suném. [Suném] Se, portanto, “sulamita” e “sunamita” são equivalentes, podemos supor que a sunamita que foi objeto da paixão de Salomão era Abisague, a moça mais encantadora de sua época e, na época da morte de Davi, a pessoa mais proeminente em Jerusalém."
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "shunammite-the": {
-    "name": "A Sunamita",
-    "slug": "shunammite-the",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "ou seja, “a natural de Suném”, é aplicado a duas pessoas: Abisague, a ama do rei Davi (1 Reis 1:3, 15; 2:17, 21, 22) e a anfitriã anônima de Eliseu. (2 Reis 4:12, 25; 36)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Kings 1:3",
-        "original": "1 Kings 1:3"
-      },
-      {
-        "reference": "1 Kings 1:15",
-        "original": "1 Kings 1:15"
-      },
-      {
-        "reference": "1 Kings 2:17",
-        "original": "1 Kings 2:17"
-      },
-      {
-        "reference": "1 Kings 2:21",
-        "original": "1 Kings 2:21"
-      },
-      {
-        "reference": "1 Kings 2:22",
-        "original": "1 Kings 2:22"
-      },
-      {
-        "reference": "2 Kings 4:12",
-        "original": "2 Kings 4:12"
-      },
-      {
-        "reference": "2 Kings 4:25",
-        "original": "2 Kings 4:25"
-      },
-      {
-        "reference": "2 Kings 36",
-        "original": "2 Kings 36"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "sidon": {
     "name": "À beira-mar",
     "slug": "sidon",
@@ -29014,21 +28727,6 @@
     ],
     "sources": [
       "EAS",
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "star-of-the-wise-men": {
-    "name": "A Estrela dos Reis Magos",
-    "slug": "star-of-the-wise-men",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "[Mágico]"
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
       "SMI"
     ],
     "letter": "a"
@@ -29244,106 +28942,6 @@
     ],
     "letter": "a"
   },
-  "tabernacles-the-feast-of": {
-    "name": "A Festa dos Tabernáculos",
-    "slug": "tabernacles-the-feast-of",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(Êxodo 23:16) (“a festa da colheita”), a terceira das três grandes festas dos hebreus, que durava do dia 15 ao dia 22 de Tisri."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Exodus 23:16",
-        "original": "Exodus 23:16"
-      },
-      {
-        "reference": "Leviticus 23:34-36",
-        "original": "Leviticus 23:34-36"
-      },
-      {
-        "reference": "Numbers 29:12-38",
-        "original": "Numbers 29:12-38"
-      },
-      {
-        "reference": "Numbers 16:13-15",
-        "original": "Numbers 16:13-15"
-      },
-      {
-        "reference": "Numbers 31:10-13",
-        "original": "Numbers 31:10-13"
-      },
-      {
-        "reference": "Leviticus 23:39",
-        "original": "Leviticus 23:39"
-      },
-      {
-        "reference": "Leviticus 15:13-15",
-        "original": "Leviticus 15:13-15"
-      },
-      {
-        "reference": "Ezekiel 45:25",
-        "original": "Ezekiel 45:25"
-      },
-      {
-        "reference": "Leviticus 23:36",
-        "original": "Leviticus 23:36"
-      },
-      {
-        "reference": "Nehemiah 8:18",
-        "original": "Nehemiah 8:18"
-      },
-      {
-        "reference": "Nehemiah 8:15",
-        "original": "Nehemiah 8:15"
-      },
-      {
-        "reference": "Nehemiah 8:16",
-        "original": "Nehemiah 8:16"
-      },
-      {
-        "reference": "Numbers 29:36",
-        "original": "Numbers 29:36"
-      },
-      {
-        "reference": "Numbers 29:38",
-        "original": "Numbers 29:38"
-      },
-      {
-        "reference": "John 7:37",
-        "original": "John 7:37"
-      },
-      {
-        "reference": "John 7:38",
-        "original": "John 7:38"
-      },
-      {
-        "reference": "John 8:12",
-        "original": "John 8:12"
-      },
-      {
-        "reference": "1 Kings 8:2",
-        "original": "1 Kings 8:2"
-      },
-      {
-        "reference": "1 Kings 8:65",
-        "original": "1 Kings 8:65"
-      },
-      {
-        "reference": "Nehemiah 8:13-18",
-        "original": "Nehemiah 8:13-18"
-      },
-      {
-        "reference": "2Macc 10:5-8",
-        "original": "2 Macc. 10:5-8"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "tabor": {
     "name": "Acampamento",
     "slug": "tabor",
@@ -29493,31 +29091,6 @@
       }
     ],
     "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "taverns-the-three": {
-    "name": "As três tabernas",
-    "slug": "taverns-the-three",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Um local situado na grande “Via Ápia”, a cerca de 11 milhas de Roma, destinado a receber viajantes, como o próprio nome indica. Aqui, Paulo, a caminho de Roma, foi recebido por um grupo de cristãos romanos (Atos 28:15). A “Tres Tabernae” era a primeira mansio ou mutatio — ou seja, ponto de parada para a troca de cavalos — partindo de Roma, ou a última no caminho para a cidade. Nesse ponto, três estradas se unem à Via Ápia: a que vem de Tusculum, a que vem de Alba Longa e a que vem de Antium; por isso, necessariamente haveria ali um ponto de parada, que recebeu esse nome devido às três lojas existentes no local: a loja geral, a ferraria e a casa de refrescos...“Tres Tabernae” é traduzido como “Três Tabernas”, mas significa, mais corretamente, “três lojas” (Forbes, *Footsteps of St. Paul*, p. 20)."
-      },
-      {
-        "source": "SMI",
-        "text": "[Três Tabernas TABERNAS]"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Acts 28:15",
-        "original": "Acts 28:15"
-      }
-    ],
-    "sources": [
-      "EAS",
       "SMI"
     ],
     "letter": "a"
@@ -29783,91 +29356,6 @@
       {
         "reference": "1 Chronicles 6:34",
         "original": "1Chr 6:34"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "transfiguration-the": {
-    "name": "A Transfiguração, a",
-    "slug": "transfiguration-the",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "A aparição de nosso Senhor em uma “montanha alta e isolada” é descrita por cada um dos três evangelistas (Mt 17,1-8; Mc 9,2-8; Lc 9,28-36). O relato mais completo é dado por Lucas, que, sem dúvida, foi informado por Pedro, que estava presente na ocasião. O que esses evangelistas registram foi uma realidade histórica absoluta, e não uma mera visão. A concordância entre eles em todas as circunstâncias do incidente é exata. João parece fazer alusão a isso também (João 1:14). Quarenta anos após o evento, Pedro faz menção clara a ele (2 Pedro 1:16-18). Ao descrever a santificação dos crentes, Paulo também parece aludir a essa aparição majestosa e gloriosa de nosso Senhor no “monte santo” (Romanos 12:2; 2 Coríntios 3:18). O local da transfiguração foi provavelmente o Monte Hermon (ver), e não o Monte Tabor, como se supõe comumente."
-      },
-      {
-        "source": "SMI",
-        "text": "(O evento na vida terrena de Cristo que marca o ponto culminante de seu ministério público e se situa a meio caminho entre a tentação no deserto e a agonia no Getsêmani (Mateus 17:1-13; Marcos 9:2-13; Lucas 9:28-36). Local. Embora a tradição situe a transfiguração no Monte Tabor, há poucos indícios que confirmem essa visão, e os críticos modernos defendem o Monte Hermon, o pico mais alto da Gaulanitis, ou um dos contrafortes do Anti-Líbano. Hora. — A transfiguração provavelmente ocorreu à noite, pois assim poderia ser vista com mais clareza do que à luz do dia, e Jesus costumava ir às montanhas para passar a noite em oração. (Mateus 14:23,24; Lucas 6:12; 21:37) Os apóstolos estavam dormindo e são descritos como tendo se mantido acordados durante o ato da transfiguração. (Lucas 9:32) Os participantes e testemunhas. — Cristo era a figura central, o objeto da transfiguração. Moisés e Elias apareceram do mundo celestial, como representantes do Antigo Testamento — um da lei e o outro da profecia —, para prestar homenagem àquele que era o cumprimento de ambos. O Sr. Ellicott diz: “O fim do ministério de cada um não foi após a ‘morte comum de todos os homens’. Ninguém sabia onde estava o sepulcro de Moisés (34:6), e Elias havia partido na carruagem e nos cavalos de fogo. (2 Reis 2:11) Ambos eram associados, na mente das pessoas, à glória do reino de Cristo. O Targum de Jerusalém sobre (Êxodo 12:1) [...] relaciona a vinda de Moisés com a do Messias. Outra tradição judaica prevê seu aparecimento juntamente com o de Elias.” Moisés, o legislador, e Elias, o chefe dos profetas, aparecem conversando com Cristo, a fonte do evangelho, para mostrar que todos são um e estão de acordo em um só. São Lucas (Lucas 9:31) acrescenta o tema de sua conversa: “Eles falavam da sua morte, que ele deveria cumprir em Jerusalém.” Entre os apóstolos, os três discípulos favoritos — Pedro, Tiago e João — foram as únicas testemunhas da cena — “os filhos do trovão e o homem da rocha”. O evento em si — A transfiguração, ou transformação, ou, como os alemães a chamam, a glorificação, consistiu em uma manifestação visível da glória interior da pessoa de Cristo, acompanhada por uma voz audível vinda do céu. Foi a revelação e a antecipação de seu futuro estado de glória, que estava oculto sob o véu de sua humanidade no estado de humilhação. A nuvem que cobria as testemunhas era brilhante ou semelhante à luz, luminosa, do mesmo tipo que a nuvem na ascensão. Significado do milagre. —"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Matthew 17:1-8",
-        "original": "Matt. 17:1-8"
-      },
-      {
-        "reference": "Mark 9:2-8",
-        "original": "Mark 9:2-8"
-      },
-      {
-        "reference": "Luke 9:28-36",
-        "original": "Luke 9:28-36"
-      },
-      {
-        "reference": "John 1:14",
-        "original": "John 1:14"
-      },
-      {
-        "reference": "Romans 12:2",
-        "original": "Rom. 12:2"
-      },
-      {
-        "reference": "2 Corinthians 3:18",
-        "original": "2 Cor. 3:18"
-      },
-      {
-        "reference": "Matthew 17:1-13",
-        "original": "Matthew 17:1-13"
-      },
-      {
-        "reference": "Mark 9:2-13",
-        "original": "Mark 9:2-13"
-      },
-      {
-        "reference": "Matthew 14:23",
-        "original": "Matthew 14:23"
-      },
-      {
-        "reference": "Matthew 14:24",
-        "original": "Matthew 14:24"
-      },
-      {
-        "reference": "Luke 6:12",
-        "original": "Luke 6:12"
-      },
-      {
-        "reference": "Luke 21:37",
-        "original": "Luke 21:37"
-      },
-      {
-        "reference": "Luke 9:32",
-        "original": "Luke 9:32"
-      },
-      {
-        "reference": "2 Kings 2:11",
-        "original": "2 Kings 2:11"
-      },
-      {
-        "reference": "Exodus 12:1",
-        "original": "Exodus 12:1"
-      },
-      {
-        "reference": "Luke 9:31",
-        "original": "Luke 9:31"
       }
     ],
     "sources": [
@@ -30307,21 +29795,6 @@
     ],
     "letter": "a"
   },
-  "vulgate-the": {
-    "name": "A Vulgata",
-    "slug": "vulgate-the",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "a versão latina da Bíblia. A influência que ela exerceu sobre o cristianismo ocidental é quase tão grande quanto a da LXX sobre as igrejas gregas. Tanto a versão grega quanto a Vulgata latina foram negligenciadas por muito tempo; no entanto, a Vulgata deveria suscitar um interesse muito profundo em todas as igrejas ocidentais, pois, por muitos séculos, foi a única Bíblia amplamente utilizada; e, direta ou indiretamente, é a verdadeira progenitora de todas as versões vernáculas da Europa Ocidental. Apenas a versão gótica de Ulfilas é independente dela. O nome é equivalente a Vulgata editio (o texto atual das Sagradas Escrituras). Essa tradução foi feita por Jerônimo — Eusébio Hieronymus —, que nasceu em 329 d.C. em Stridon, na Dalmácia, e faleceu em Belém em 420 d.C. Esse grande estudioso foi provavelmente o único, por 1.500 anos, a possuir as qualificações necessárias para produzir uma versão original das Escrituras para uso das igrejas latinas. Ao se mudar para Roma, foi solicitado pelo Papa Damasco, em 383 d.C., que fizesse uma revisão da antiga versão latina do Novo Testamento, cuja história se perdeu na obscuridade. Na meia-idade, Jerônimo iniciou o estudo do hebraico e elaborou uma nova versão do Antigo Testamento a partir do hebraico original, que foi concluída em 404 d.C. Os trabalhos críticos de Jerônimo foram recebidos com uma forte onda de críticas. Ele foi acusado de perturbar a tranquilidade da Igreja e abalar os alicerces da fé. Mas o clamor baseado na ignorância logo se dissipou; e a nova tradução passou gradualmente a ser usada em pé de igualdade com a antiga, acabando por suplantá-la. O imenso poder que a Vulgata exerceu na definição dos termos teológicos da cristandade ocidental dificilmente pode ser superestimado. A maior parte, de longe, da terminologia doutrinária atual baseia-se na Vulgata. Predestinação, justificação, supererogação (supererogo), santificação, salvação, mediação, regeneração, revelação, visitação (met.), propiciação — todos esses termos aparecem pela primeira vez na Vulgata Antiga. Graça, redenção, eleição, reconciliação, satisfação, inspiração e Escritura receberam ali um uso novo e sagrado. Sacramento e comunhão têm a mesma origem; e, embora batismo seja de origem grega, chegou até nós pelo latim. Seria fácil ampliar a lista com a adição de termos como “ordens”, “penitência”, “congregação” e “sacerdote”; mas já se pode perceber, a partir das formas já mencionadas, que a Vulgata deixou sua marca tanto em nossa língua quanto em nossos pensamentos. Foi a única versão conhecida por aqueles que transmitiram aos reformadores os ricos tesouros da sabedoria medieval; a versão com a qual os maiores reformadores estavam mais familiarizados e da qual extraíram seus primeiros conhecimentos sobre a verdade divina."
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
   "vulture": {
     "name": "Abutre",
     "slug": "vulture",
@@ -30356,58 +29829,6 @@
     "sources": [
       "EAS",
       "SMI"
-    ],
-    "letter": "a"
-  },
-  "wars-of-the-lord-the-book-of-the": {
-    "name": "As Guerras do Senhor, O Livro das",
-    "slug": "wars-of-the-lord-the-book-of-the",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "(Nm 21:14, 15), um livro desconhecido assim chamado (comp. Gn 14:14-16; Êx 17:8-16; Nm 14:40-45; 21:1-3, 21-25, 33-35; 31. As guerras aqui registradas poderiam ser assim designadas)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Numbers 21:14",
-        "original": "Num. 21:14"
-      },
-      {
-        "reference": "Numbers 21:15",
-        "original": "Num. 21:15"
-      },
-      {
-        "reference": "Genesis 14:14-16",
-        "original": "Gen. 14:14-16"
-      },
-      {
-        "reference": "Exodus 17:8-16",
-        "original": "Ex. 17:8-16"
-      },
-      {
-        "reference": "Numbers 14:40-45",
-        "original": "Num. 14:40-45"
-      },
-      {
-        "reference": "Numbers 21:1-3",
-        "original": "Num 21:1-3"
-      },
-      {
-        "reference": "Numbers 21:21-25",
-        "original": "Num 21:21-25"
-      },
-      {
-        "reference": "Numbers 21:33-35",
-        "original": "Num 21:33-35"
-      },
-      {
-        "reference": "Numbers 31",
-        "original": "Num 31"
-      }
-    ],
-    "sources": [
-      "EAS"
     ],
     "letter": "a"
   },
@@ -30491,49 +29912,6 @@
       }
     ],
     "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "wilderness-of-the-wandering": {
-    "name": "A Selva do Errante",
-    "slug": "wilderness-of-the-wandering",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(A região na qual os israelitas passaram quase 38 anos de sua existência após terem saído do Egito, e onde permaneceram por um ano antes de chegarem ao Monte Sinai. Eles chegaram até Cades, na fronteira mais ao sul da Palestina, de onde foram enviados batedores à terra prometida. Estes retornaram com um relato tão desanimador sobre os habitantes e suas cidades fortificadas que o povo ficou desanimado e começou a murmurar e a se rebelar. Por causa desse pecado, foram obrigados a permanecer mais 38 anos no deserto, pois isso demonstrava que ainda não estavam preparados nem treinados para conquistar e manter as possessões prometidas. O deserto da peregrinação era o grande planalto central de calcário da península do Sinai. Era delimitado a leste pelo vale do Arabá, que se estende do Mar Morto até a nascente do braço oriental do Mar Vermelho. Ao sul e sudoeste ficavam as montanhas graníticas do Sinai e, ao norte, o Mar Mediterrâneo e a região montanhosa ao sul da Judéia. É chamado de Deserto de Parã e Badiet et-Tih, que significa “Deserto da Peregrinação”. Provavelmente, os filhos de Israel não estavam marchando como uma nação de um lugar para outro nessa nova região mais selvagem durante esses 38 anos, mas provavelmente tinham uma espécie de quartel-general em Cades e eram “obrigados a permanecer ali, assim como fazem os árabes beduínos dos dias de hoje, em um estado semicivilizado e sem lar, deslocando-se de um lugar para outro e armando suas tendas onde quer que encontrassem pastagem para seus rebanhos.” — E.H. Palmer. Perto do fim dos quarenta anos desde a saída do Egito, eles se reuniram novamente em Cades e, mais uma vez sob a liderança da Shechinah, marcharam pelo Arabá a caminho da terra prometida.—ED.)"
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "a"
-  },
-  "wisdom-the-of-solomon": {
-    "name": "A Sabedoria de Salomão",
-    "slug": "wisdom-the-of-solomon",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "a, livro dos Apócrifos, pode ser dividido em duas partes: a primeira, capítulos 1 a 9, contém a doutrina da sabedoria em seus aspectos morais e intelectuais; a segunda, a doutrina da sabedoria tal como se manifesta na história, capítulos 10 a 19. A primeira parte contém o louvor à sabedoria como fonte da imortalidade, em contraste com os ensinamentos dos sensualistas; e, em seguida, o louvor à sabedoria como guia da vida prática e intelectual, o esteio dos príncipes e a intérprete do universo. A segunda parte, por sua vez, acompanha resumidamente a ação da sabedoria, ao preservar os servos de Deus, de Adão a Moisés, e mais particularmente no castigo dos egípcios e dos cananeus. Estilo e linguagem. — O caráter literário do livro é notável e interessante. Pela riqueza e liberdade de seu vocabulário, assemelha-se muito ao Quarto Livro dos Macabeus, mas é superior àquela bela declamação tanto em força quanto em variedade de dicção. A magnífica descrição da sabedoria (cap. 7:22-8:1) deve ser classificada entre as passagens mais nobres da eloquência humana, e talvez seja impossível apontar qualquer trecho de comprimento equivalente nos vestígios da Antiguidade clássica que seja mais repleto de pensamentos nobres ou mais rico em fraseologia expressiva. Caráter doutrinário.—O ensinamento teológico do livro oferece, em muitos aspectos, a aproximação mais próxima da linguagem e das doutrinas da filosofia grega que se encontra em qualquer escrito judaico até a época de Filo. Há muito, nas visões que ele apresenta sobre o mundo do homem e da natureza divina, que decorre mais da combinação ou do conflito entre o pensamento hebraico e o grego do que do desenvolvimento independente do pensamento hebraico por si só. Apresenta-se a concepção do corpo como mero peso e obstáculo para a alma. cap. 9:15; contraste (2 Coríntios 5:1-4). Por outro lado, não há nenhum traço da doutrina cristã característica da ressurreição do corpo. A identificação do tentador (Gênesis 3:1) [...] direta ou indiretamente com o diabo, como aquele que trouxe “a morte ao mundo” (cap. 2:23, 24), é o desenvolvimento mais notável da doutrina bíblica que o livro contém. De modo geral, também, pode-se observar que, assim como nos livros afins, Provérbios e Eclesiastes, há poucos indícios do reconhecimento da pecaminosidade até mesmo do sábio em sua sabedoria, o que, nos Salmos e nos profetas, constitui a base da doutrina cristã da expiação: contudo, comp. (Gênesis 15:2) Em relação às Escrituras do Antigo Testamento, o livro, como um todo, pode ser considerado como levando um passo adiante o grande problema da vida contido em Eclesiastes e Jó. Data.—Com base em evidências internas, parece mais razoável acreditar que a obra tenha sido composta em grego em Alexandria algum tempo antes da época de Filo — por volta de 120-80 a.C. Parece impossível estudar este livro com imparcialidade e não sentir que ele constitui um dos últimos elos na cadeia de conexões providenciais entre a Antiga e a Nova Aliança. Não seria fácil encontrar em outro lugar qualquer visão pré-cristã da religião igualmente ampla, consistente e definida."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "2 Corinthians 5:1-4",
-        "original": "2 Corinthians 5:1-4"
-      },
-      {
-        "reference": "Genesis 3:1",
-        "original": "Genesis 3:1"
-      },
-      {
-        "reference": "Genesis 15:2",
-        "original": "Genesis 15:2"
-      }
-    ],
     "sources": [
       "SMI"
     ],
@@ -31090,6 +30468,30 @@
     ],
     "sources": [
       "EAS"
+    ],
+    "letter": "a"
+  },
+  "arkite-the": {
+    "name": "Arquita",
+    "slug": "arkite-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "de Arca, uma das famílias dos cananeus (Gênesis 10:17; 1 Crônicas 1:16) e, pelo contexto, evidentemente localizada no norte da Fenícia. O local que hoje leva o nome de ’Arka fica na costa, a 2 a 2,5 horas da margem, cerca de 12 milhas ao norte de Trípoli e 5 ao sul do Nahr el-Kebir."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:17",
+        "original": "Genesis 10:17"
+      },
+      {
+        "reference": "1 Chronicles 1:16",
+        "original": "1 Chronicles 1:16"
+      }
+    ],
+    "sources": [
+      "SMI"
     ],
     "letter": "a"
   }
