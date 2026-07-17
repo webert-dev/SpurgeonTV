@@ -4,22 +4,13 @@ import json
 import time
 import unicodedata
 import string
-from google import genai
-from google.genai import types
-from dotenv import load_dotenv
+import requests
 import copy
 
-load_dotenv()
-
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    print("GEMINI_API_KEY not found in .env")
-    exit(1)
-
-client = genai.Client(api_key=GEMINI_API_KEY)
+DEEPSEEK_API_KEY = "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"
 
 sys_inst_pt = "Você é um tradutor teológico profissional. Seu trabalho é receber uma lista de verbetes de dicionário em JSON e retornar a MESMA lista em JSON, traduzindo apenas os campos 'name' e o campo 'text' (dentro de 'definitions') para o português do Brasil. Deixe o campo 'slug', 'scripture_refs', 'source' e 'sources' perfeitamente intactos. Retorne APENAS um array JSON válido."
-sys_inst_es = "Eres un traductor teológico profesional. Tu trabajo es recibir una lista de entradas de diccionario en JSON y devolver la MISMA lista en JSON, traduciendo solo los campos 'name' y el campo 'text' (dentro de 'definitions') al español. Deja los campos 'slug', 'scripture_refs', 'source' y 'sources' perfectamente intactos. Devuelve SOLO un array JSON válido."
+sys_inst_es = "Eres un traductor teológico profesional. Tu trabajo es recibir una lista de entradas de diccionario en JSON y devolver la MISMA lista en JSON, traduciendo solo los campos 'name' y el campo 'text' (dentro de 'definitions') al español. Deja los campos 'slug', 'scripture_refs', 'source' y 'sources' perfectamente intactos. Devuelve SOLO un array JSON válido sin bloques markdown."
 
 BATCH_SIZE = 15
 PROGRESS_FILE = "dictionary_progress.json"
@@ -39,43 +30,73 @@ def translate_batch(batch, lang="pt"):
     
     text = json.dumps(batch, ensure_ascii=False)
     
-    retries = 5
-    for attempt in range(retries):
-        try:
-            time.sleep(3) # Rate limit protection
-            response = client.models.generate_content(
-                model='gemini-2.0-flash-lite',
-                contents=text,
-                config=types.GenerateContentConfig(
-                    system_instruction=instruction,
-                    response_mime_type="application/json",
-                )
-            )
-            
-            resp_text = response.text
-            if not resp_text:
-                raise ValueError("Empty response from Gemini")
-            resp_text = resp_text.strip()
-            if resp_text.startswith("```json"):
-                resp_text = resp_text[7:]
-            if resp_text.endswith("```"):
-                resp_text = resp_text[:-3]
+    models = ["meta-llama/llama-3.3-70b-instruct:free", "google/gemma-4-31b-it:free", "qwen/qwen3-next-80b-a3b-instruct:free"]
+    
+    headers = {
+        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    for model in models:
+        data = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": instruction},
+                {"role": "user", "content": text}
+            ],
+            "temperature": 0.0,
+            "response_format": {"type": "json_object"}
+        }
+        
+        retries = 3
+        for attempt in range(retries):
+            try:
+                time.sleep(2) # Rate limit protection for OpenRouter free models
+                response = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=data, timeout=60)
                 
-            translated = json.loads(resp_text.strip())
-            
-            if len(translated) != len(batch):
-                print(f"Warning: Batch length mismatch! Expected {len(batch)}, got {len(translated)}")
-                raise ValueError("Length mismatch")
+                if response.status_code != 200:
+                    if response.status_code == 429:
+                        print(f"429 Rate limit on {model}. Waiting 20s...")
+                        time.sleep(20)
+                        continue
+                    # If json format is not supported, it might fail. Let's try without it
+                    if "json_object" in response.text:
+                        data.pop("response_format", None)
+                        raise ValueError(f"Retry without json_object. Code: {response.status_code}")
+                    raise ValueError(f"HTTP Error {response.status_code}: {response.text}")
+                    
+                resp_json = response.json()
+                resp_text = resp_json['choices'][0]['message']['content']
                 
-            return translated
-        except Exception as e:
-            err_msg = str(e).lower()
-            if "quota" in err_msg or "429" in err_msg or "too many requests" in err_msg or "503" in err_msg or "unavailable" in err_msg:
-                print(f"Service busy/Rate limit. Waiting 30s... (Attempt {attempt+1}/{retries}) | Error: {e}")
-                time.sleep(30)
-            else:
-                print(f"Exception during translation ({lang}): {e}")
-                time.sleep(10)
+                if not resp_text:
+                    raise ValueError("Empty response from DeepSeek")
+                    
+                resp_text = resp_text.strip()
+                if resp_text.startswith("```json"):
+                    resp_text = resp_text[7:]
+                if resp_text.startswith("```"):
+                    resp_text = resp_text[3:]
+                if resp_text.endswith("```"):
+                    resp_text = resp_text[:-3]
+                    
+                # Find the first [ and last ]
+                start_idx = resp_text.find('[')
+                end_idx = resp_text.rfind(']')
+                if start_idx != -1 and end_idx != -1:
+                    resp_text = resp_text[start_idx:end_idx+1]
+                    
+                translated = json.loads(resp_text.strip())
+                
+                if len(translated) != len(batch):
+                    print(f"Warning: Batch length mismatch! Expected {len(batch)}, got {len(translated)}")
+                    raise ValueError("Length mismatch")
+                    
+                return translated
+            except Exception as e:
+                err_msg = str(e).lower()
+                print(f"Exception during translation ({lang}) on model {model}: {e}")
+                if "retry without" not in err_msg:
+                    time.sleep(5)
     return None
 
 def load_progress():

@@ -23834,5 +23834,360 @@
       "SMI"
     ],
     "letter": "a"
+  },
+  "bitter": {
+    "name": "Amargo",
+    "slug": "bitter",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La amargura es símbolo de aflicción, miseria y servidumbre (Éx. 1:14; Rut 1:20; Jer. 9:15). Los caldeos son llamados la «nación amarga y presurosa» (Hab. 1:6). La «hiel de amargura» expresa un estado de gran maldad (Hechos 8:23). Una «raíz de amargura» es una persona impía o un pecado peligroso (Heb. 12:15). La Pascua debía comerse con «hierbas amargas» (Éx. 12:8; Núm. 9:11). No se conoce el tipo de hierbas así designadas. Probablemente era cualquier hierba amarga que se pudiera obtener en el lugar y momento en que se celebraba la Pascua. Representaban la severidad de la servidumbre bajo la cual gemía el pueblo; y también se han considerado como un símbolo de los sufrimientos de Cristo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 1:14",
+        "original": "Ex. 1:14"
+      },
+      {
+        "reference": "Ruth 1:20",
+        "original": "Ruth 1:20"
+      },
+      {
+        "reference": "Jeremiah 9:15",
+        "original": "Jer. 9:15"
+      },
+      {
+        "reference": "Habakkuk 1:6",
+        "original": "Hab. 1:6"
+      },
+      {
+        "reference": "Acts 8:23",
+        "original": "Acts 8:23"
+      },
+      {
+        "reference": "Hebrews 12:15",
+        "original": "Heb. 12:15"
+      },
+      {
+        "reference": "Exodus 12:8",
+        "original": "Ex. 12:8"
+      },
+      {
+        "reference": "Numbers 9:11",
+        "original": "Num. 9:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "bittern": {
+    "name": "Avetoro",
+    "slug": "bittern",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se encuentra tres veces en relación con las desolaciones que vendrían sobre Babilonia, Idumea y Nínive (Is. 14:23; 34:11; Sof. 2:14). Esta ave pertenece a la clase de las grullas. Su nombre científico es Botaurus stellaris. Es un ave solitaria que frecuenta terrenos pantanosos. La palabra hebrea (kippod) traducida así en la Versión Autorizada se traduce como «puercoespín» en la Versión Revisada. Pero en los pasajes señalados, el kippod se asocia con aves, con estanques de agua, y con la soledad y la desolación. Esto favorece la idea de que la palabra realmente se refiere al «avetoro» y no al «puercoespín»."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra aparece en (Isaías 14:23; 34:11; Sofonías 2:14) y nos inclinamos a creer que la Versión Autorizada es correcta. El avetoro (Botaurus stellaris) pertenece a las Ardeidae, la familia de las garzas, y es famoso por el peculiar sonido retumbante nocturno que emite."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 14:23",
+        "original": "Isa. 14:23"
+      },
+      {
+        "reference": "Isaiah 34:11",
+        "original": "Isa 34:11"
+      },
+      {
+        "reference": "Zephaniah 2:14",
+        "original": "Zeph. 2:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "blue": {
+    "name": "Azul",
+    "slug": "blue",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Generalmente asociado con el púrpura (Éx. 25:4; 26:1, 31, 36, etc.). Se supone que se obtenía de un molusco del Mediterráneo, la Helix ianthina de Linneo. El manto del efod del sumo sacerdote debía ser todo de este color (Éx. 28:31), también las lazadas de las cortinas (26:4) y la cinta del pectoral (28:28). También se hacían lienzos azules para diversos propósitos sagrados (Núm. 4:6, 7, 9, 11, 12). (Ver COLOR)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:4",
+        "original": "Ex. 25:4"
+      },
+      {
+        "reference": "Exodus 26:1",
+        "original": "Ex 26:1"
+      },
+      {
+        "reference": "Exodus 26:31",
+        "original": "Ex 26:31"
+      },
+      {
+        "reference": "Exodus 26:36",
+        "original": "Ex 26:36"
+      },
+      {
+        "reference": "Exodus 28:31",
+        "original": "Ex. 28:31"
+      },
+      {
+        "reference": "Numbers 4:6",
+        "original": "Num. 4:6"
+      },
+      {
+        "reference": "Numbers 4:7",
+        "original": "Num. 4:7"
+      },
+      {
+        "reference": "Numbers 4:9",
+        "original": "Num. 4:9"
+      },
+      {
+        "reference": "Numbers 4:11",
+        "original": "Num. 4:11"
+      },
+      {
+        "reference": "Numbers 4:12",
+        "original": "Num. 4:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "brimstone": {
+    "name": "Azufre",
+    "slug": "brimstone",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sustancia mineral inflamable que se encuentra en grandes cantidades en las orillas del mar Muerto. Las ciudades de la llanura fueron destruidas por una lluvia de fuego y azufre (Gén. 19:24, 25). En Is. 34:9 se hace alusión a la destrucción de estas ciudades. Esta palabra denota figuradamente destrucción o castigo (Job 18:15; Is. 30:33; 34:9; Sal. 11:6; Ez. 38:22). Se utiliza para expresar la idea de un tormento insoportable en Apoc. 14:10; 19:20; 20:10."
+      },
+      {
+        "source": "SMI",
+        "text": "El azufre se encuentra en cantidades considerables en las orillas del mar Muerto (Génesis 19:24). Es una sustancia mineral simple muy conocida, cristalina, fácil de fundir, muy inflamable, y que al arder emite un olor sofocante característico. Se encuentra en gran abundancia cerca de los volcanes. El suelo alrededor de Sodoma y Gomorra abundaba en azufre y asfalto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 19:24",
+        "original": "Gen. 19:24"
+      },
+      {
+        "reference": "Genesis 19:25",
+        "original": "Gen. 19:25"
+      },
+      {
+        "reference": "Isaiah 34:9",
+        "original": "Isa. 34:9"
+      },
+      {
+        "reference": "Job 18:15",
+        "original": "Job 18:15"
+      },
+      {
+        "reference": "Isaiah 30:33",
+        "original": "Isa. 30:33"
+      },
+      {
+        "reference": "Psalms 11:6",
+        "original": "Ps. 11:6"
+      },
+      {
+        "reference": "Ezekiel 38:22",
+        "original": "Ezek. 38:22"
+      },
+      {
+        "reference": "Revelation 14:10",
+        "original": "Rev. 14:10"
+      },
+      {
+        "reference": "Revelation 19:20",
+        "original": "Rev 19:20"
+      },
+      {
+        "reference": "Revelation 20:10",
+        "original": "Rev 20:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "brook": {
+    "name": "Arroyo",
+    "slug": "brook",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un torrente. (1.) Se aplica a corrientes de agua pequeñas, como el Arnón, el Jaboc, etc. Isaías (15:7) habla del “arroyo de los sauces”, probablemente el Uadi el-Ahsa. (2.) También se aplica a los torrentes invernales (Job 6:15; Núm. 34:5; Jos. 15:4, 47), y tanto al lecho del torrente o uadi como al torrente mismo (Núm. 13:23; 1 Rey. 17:3). (3.) En Is. 19:7 se refiere al río Nilo, tal como se traduce en la Versión Revisada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 6:15",
+        "original": "Job 6:15"
+      },
+      {
+        "reference": "Numbers 34:5",
+        "original": "Num. 34:5"
+      },
+      {
+        "reference": "Joshua 15:4",
+        "original": "Josh. 15:4"
+      },
+      {
+        "reference": "Joshua 15:47",
+        "original": "Josh. 15:47"
+      },
+      {
+        "reference": "Numbers 13:23",
+        "original": "Num. 13:23"
+      },
+      {
+        "reference": "1 Kings 17:3",
+        "original": "1 Kings 17:3"
+      },
+      {
+        "reference": "Isaiah 19:7",
+        "original": "Isa. 19:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "bushel": {
+    "name": "Almud",
+    "slug": "bushel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Pesos y Medidas]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "camphire": {
+    "name": "Alheña",
+    "slug": "camphire",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. copher), mencionado en Cant. 1:14 (V.R., «flores de alheña»); 4:13 (V.R., «alheña»), es el al-henna de los árabes, una planta nativa de Egipto que produce racimos de flores olorosas pequeñas de color blanco y amarillo, de donde se extrae el Oleum Cyprineum. De sus hojas se elabora el peculiar tinte castaño rojizo con el que las mujeres orientales se tiñen las uñas y las palmas de las manos. Se encuentra únicamente en En-gadi, a orillas del Mar Muerto. Es conocida por los botánicos con el nombre de Lawsonia alba o inermis, una especie de aligustre que crece de 6 a 8 pies de altura. El margen de la Versión Autorizada de los pasajes citados anteriormente tiene «o ciprés», no en referencia a la conífera llamada así, sino a la circunstancia de que una de las especies más apreciadas de esta planta crecía en la isla de Chipre."
+      },
+      {
+        "source": "SMI",
+        "text": "No cabe duda de que la «alheña» es la Lawsonia alba de los botánicos, la henna de los naturalistas árabes. La planta de alheña crece en Egipto, Siria, Arabia y el norte de la India. Las flores son blancas, crecen en racimos y son muy fragantes. Todo el arbusto mide de cuatro a seis pies de altura, (Cantares 4:13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 1:14",
+        "original": "Cant. 1:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "chamber": {
+    "name": "Aposento",
+    "slug": "chamber",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "«En la pared», que la sunamita preparó para el profeta Eliseo (2 Reyes 4:10), era un aposento alto sobre el pórtico que daba al vestíbulo hacia la calle. Este era el «aposento de huéspedes» donde se preparaban los banquetes (Marcos 14:14). También había «aposentos dentro de aposentos» (1 Reyes 22:25; 2 Reyes 9:2). Entrar en un aposento se utiliza metafóricamente para referirse a la oración y la comunión con Dios (Is. 26:20). Las «cámaras del sur» (Job 9:9) son probablemente las constelaciones del hemisferio sur. Las «cámaras de imaginería», es decir, cámaras pintadas con imágenes, como las menciona Ezequiel (8:12), es una expresión que denota la visión que tuvo el profeta de las abominaciones practicadas por los judíos en Jerusalén."
+      },
+      {
+        "source": "SMI",
+        "text": "(Génesis 43:30; 2 Samuel 18:33; Salmos 19:5; Daniel 6:10) La palabra aposento en estos pasajes tiene casi el mismo significado que para nosotros, refiriéndose a las habitaciones privadas de la casa; el aposento de huéspedes, al igual que entre nosotros, significa una habitación reservada para el alojamiento de un amigo visitante. (Marcos 14:14,15; Lucas 22:12) El aposento alto se utilizaba más particularmente para el alojamiento de extraños. (Hechos 9:37)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 4:10",
+        "original": "2 Kings 4:10"
+      },
+      {
+        "reference": "Mark 14:14",
+        "original": "Mark 14:14"
+      },
+      {
+        "reference": "1 Kings 22:25",
+        "original": "1 Kings 22:25"
+      },
+      {
+        "reference": "2 Kings 9:2",
+        "original": "2 Kings 9:2"
+      },
+      {
+        "reference": "Isaiah 26:20",
+        "original": "Isa. 26:20"
+      },
+      {
+        "reference": "Job 9:9",
+        "original": "Job 9:9"
+      },
+      {
+        "reference": "Genesis 43:30",
+        "original": "Genesis 43:30"
+      },
+      {
+        "reference": "2 Samuel 18:33",
+        "original": "2 Samuel 18:33"
+      },
+      {
+        "reference": "Psalms 19:5",
+        "original": "Psalms 19:5"
+      },
+      {
+        "reference": "Daniel 6:10",
+        "original": "Daniel 6:10"
+      },
+      {
+        "reference": "Mark 14:15",
+        "original": "Mark 14:15"
+      },
+      {
+        "reference": "Luke 22:12",
+        "original": "Luke 22:12"
+      },
+      {
+        "reference": "Acts 9:37",
+        "original": "Acts 9:37"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
   }
 }

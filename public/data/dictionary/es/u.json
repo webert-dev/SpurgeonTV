@@ -346,5 +346,91 @@
       "EAS"
     ],
     "letter": "u"
+  },
+  "blains": {
+    "name": "Úlceras",
+    "slug": "blains",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre solo en relación con la sexta plaga de Egipto (Éx. 9:9, 10). En Deut. 28:27, 35, se le llama «la sarna de Egipto» o «el tumor de Egipto». Parece haber sido la temible enfermedad de la lepra negra, una clase de elefantiasis que produce úlceras ardientes."
+      },
+      {
+        "source": "SMI",
+        "text": "inflamaciones ulcerosas violentas, la sexta plaga de Egipto (Éxodo 9:9, 10) y por lo tanto llamada en (28:27,35) «la sarna de Egipto». Parece haber sido la lepra negra, un temible tipo de elefantiasis."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex 9:10"
+      },
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "boil": {
+    "name": "Úlcera",
+    "slug": "boil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(traducido como «sarna» o «llagas» en Deut. 28:27, 35), una úlcera grave, como en el caso de Ezequías (2 Reyes 20:7; Is. 38:21) o de los egipcios (Éx. 9:9, 10, 11; Deut. 28:27, 35). Designa la enfermedad de Job (2:7), que probablemente era la lepra negra."
+      },
+      {
+        "source": "SMI",
+        "text": "[Medicina]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      },
+      {
+        "reference": "2 Kings 20:7",
+        "original": "2 Kings 20:7"
+      },
+      {
+        "reference": "Isaiah 38:21",
+        "original": "Isa. 38:21"
+      },
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex. 9:10"
+      },
+      {
+        "reference": "Exodus 9:11",
+        "original": "Ex. 9:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
   }
 }

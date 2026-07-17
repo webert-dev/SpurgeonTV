@@ -110,5 +110,371 @@
       "EAS"
     ],
     "letter": "t"
+  },
+  "bonnet": {
+    "name": "Turbante",
+    "slug": "bonnet",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. peer), Éx. 39:28 (V.R., «tocados de cabeza»); Ez. 44:18 (V.R., «turbantes»), denota propiamente un turbante usado por los sacerdotes, y en Is. 3:20 (V.R., «tocados») un tocado o tiara usado por las mujeres. La palabra hebrea así traducida significa literalmente un adorno, como en Is. 61:10 (V.R., «guirnalda»), y en Ez. 24:17, 23 «tocado» (V.R., «tocado de cabeza»). Consistía en una pieza de tela enrollada de la cabeza. En Éx. 28:40; 29:9 es la traducción de una palabra hebrea diferente (migba'ah), que denota el turbante (V.R., «tocado de cabeza») del sacerdote común, a diferencia de la mitra del sumo sacerdote. (Ver MITRA)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 39:28",
+        "original": "Ex. 39:28"
+      },
+      {
+        "reference": "Ezekiel 44:18",
+        "original": "Ezek. 44:18"
+      },
+      {
+        "reference": "Isaiah 3:20",
+        "original": "Isa. 3:20"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isa. 61:10"
+      },
+      {
+        "reference": "Ezekiel 24:17",
+        "original": "Ezek. 24:17"
+      },
+      {
+        "reference": "Ezekiel 24:23",
+        "original": "Ezek. 24:23"
+      },
+      {
+        "reference": "Exodus 28:40",
+        "original": "Ex. 28:40"
+      },
+      {
+        "reference": "Exodus 29:9",
+        "original": "Ex 29:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "bull-bullock": {
+    "name": "Toro, Novillo",
+    "slug": "bull-bullock",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "términos usados como sinónimos de buey, bueyes, y propiamente un nombre genérico para el ganado con cuernos cuando tiene la edad completa y es apto para el arado. Se traduce de diversas maneras como «becerro» o «novillo» (Isaías 65:25), «vaca» (Ezequiel 4:15), «bueyes» (Génesis 12:16). Las vacas se mencionan en la Biblia. En (Isaías 51:20) el «toro salvaje» («buey salvaje» en (14:5)) era posiblemente una de las especies más grandes de antílopes, y tomó su nombre de su rapidez. El Dr. Robinson menciona que aún existen en Palestina manadas más grandes de búfalos negros y casi inofensivos, y estos podrían ser el animal indicado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isaiah 65:25"
+      },
+      {
+        "reference": "Ezekiel 4:15",
+        "original": "Ezekiel 4:15"
+      },
+      {
+        "reference": "Genesis 12:16",
+        "original": "Genesis 12:16"
+      },
+      {
+        "reference": "Isaiah 51:20",
+        "original": "Isaiah 51:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "cake": {
+    "name": "Torta",
+    "slug": "cake",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las tortas hechas de trigo o cebada se ofrecían en el templo. Eran saladas, pero sin levadura (Éx. 29:2; Lev. 2:4). En el culto idólatra se ofrecían tortas delgadas u hojuelas «a la reina del cielo» (Jer. 7:18; 44:19). Las hojuelas o pasteles se describen en 2 Sam. 13:8, 9. Las tortas amasadas con aceite y cocidas al horno se mencionan en Lev. 2:4, y las «hojuelas sin levadura untadas con aceite», en Éx. 29:2; Lev. 8:26; 1 Crón. 23:29. Las «galletas» (cracknels), una especie de tortas crujientes, estaban entre las cosas que Jeroboam ordenó a su esposa que llevara consigo cuando fuera a consultar al profeta Ahías en Silo (1 Reyes 14:3). Tales tortas duras eran llevadas por los gabaonitas cuando se presentaron ante Josué (9:5, 12). Describieron su pan como «mohoso»; pero la palabra hebrea nikuddim, aquí utilizada, debería traducirse más bien como «duro como bizcocho». Se traduce como «galletas» en 1 Reyes 14:3. El pan ordinario, cuando se guardaba durante unos días, se secaba y se ponía excesivamente duro. Los gabaonitas señalaron esta dureza de su pan como prueba de que venían de un largo viaje. Leemos también de tortas de miel (Éx. 16:31), «tortas de higos» (1 Sam. 25:18), «torta» para referirse a un pedazo entero de pan (1 Reyes 17:12), y «una torta [redonda] de pan de cebada» (Jue. 7:13). En Lev. 2 hay una lista de los diferentes tipos de pan y tortas que eran aptos para las ofrendas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:2",
+        "original": "Ex. 29:2"
+      },
+      {
+        "reference": "Leviticus 2:4",
+        "original": "Lev. 2:4"
+      },
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Jeremiah 44:19",
+        "original": "Jer 44:19"
+      },
+      {
+        "reference": "2 Samuel 13:8",
+        "original": "2 Sam. 13:8"
+      },
+      {
+        "reference": "2 Samuel 13:9",
+        "original": "2 Sam. 13:9"
+      },
+      {
+        "reference": "Leviticus 8:26",
+        "original": "Lev. 8:26"
+      },
+      {
+        "reference": "1 Chronicles 23:29",
+        "original": "1 Chr. 23:29"
+      },
+      {
+        "reference": "1 Kings 14:3",
+        "original": "1 Kings 14:3"
+      },
+      {
+        "reference": "Exodus 16:31",
+        "original": "Ex. 16:31"
+      },
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Sam. 25:18"
+      },
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "Judges 7:13",
+        "original": "Judg. 7:13"
+      },
+      {
+        "reference": "Leviticus 2",
+        "original": "Lev. 2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "carve": {
+    "name": "Tallar",
+    "slug": "carve",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las artes del grabado y la talla eran muy practicadas entre los judíos. Se practicaban en relación con la construcción del tabernáculo y del templo (Éx. 31:2, 5; 35:33; 1 Re. 6:18, 35; Sal. 74:6), así como en la ornamentación de las vestiduras sacerdotales (Éx. 28:9-36; Zac. 3:9; 2 Cró. 2:7, 14). Isaías (44:13-17) ofrece una descripción detallada del proceso de tallar ídolos de madera."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 31:2",
+        "original": "Ex. 31:2"
+      },
+      {
+        "reference": "Exodus 31:5",
+        "original": "Ex. 31:5"
+      },
+      {
+        "reference": "1 Kings 6:18",
+        "original": "1 Kings 6:18"
+      },
+      {
+        "reference": "1 Kings 6:35",
+        "original": "1 Kings 6:35"
+      },
+      {
+        "reference": "Psalms 74:6",
+        "original": "Ps. 74:6"
+      },
+      {
+        "reference": "Exodus 28:9-36",
+        "original": "Ex. 28:9-36"
+      },
+      {
+        "reference": "Zechariah 3:9",
+        "original": "Zech. 3:9"
+      },
+      {
+        "reference": "2 Chronicles 2:7",
+        "original": "2 Chr. 2:7"
+      },
+      {
+        "reference": "2 Chronicles 2:14",
+        "original": "2 Chr. 2:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "carving": {
+    "name": "Talla",
+    "slug": "carving",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Las artes de la talla y el grabado eran muy solicitadas tanto en la construcción del tabernáculo como del templo (Éxodo 31:5; 35:33; 1 Reyes 6:18,35; Salmos 74:6), así como en la ornamentación de las vestiduras sacerdotales (Éxodo 28:9-36; 2 Crónicas 2:7,14; Zacarías 3:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 31:5",
+        "original": "Exodus 31:5"
+      },
+      {
+        "reference": "Exodus 35:33",
+        "original": "Exodus 35:33"
+      },
+      {
+        "reference": "1 Kings 6:18",
+        "original": "1 Kings 6:18"
+      },
+      {
+        "reference": "1 Kings 6:35",
+        "original": "1 Kings 6:35"
+      },
+      {
+        "reference": "Psalms 74:6",
+        "original": "Psalms 74:6"
+      },
+      {
+        "reference": "Exodus 28:9-36",
+        "original": "Exodus 28:9-36"
+      },
+      {
+        "reference": "2 Chronicles 2:7",
+        "original": "2 Chronicles 2:7"
+      },
+      {
+        "reference": "2 Chronicles 2:14",
+        "original": "2 Chronicles 2:14"
+      },
+      {
+        "reference": "Zechariah 3:9",
+        "original": "Zechariah 3:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "ceiling": {
+    "name": "Techo",
+    "slug": "ceiling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La cubierta (1 Reyes 7:3, 7) del techo interior y las paredes de una casa con tablones de madera (2 Cr. 3:5; Jer. 22:14). Los techos a veces se adornaban con diversos ornamentos de estuco, oro, plata, gemas y marfil. Los techos del templo y del palacio de Salomón se describen en 1 Reyes 6:9, 15; 7:3; 2 Cr. 3:5, 9."
+      },
+      {
+        "source": "SMI",
+        "text": "Las descripciones de las Escrituras (1 Reyes 6:9, 15; 7:3; 2 Crónicas 3:5, 9; Jeremías 22:14; Hageo 1:4) y de Josefo muestran que los techos del templo y de los palacios de los reyes judíos estaban formados por tablones de cedro aplicados a las vigas o viguetas que cruzaban de pared a pared. «Las casas orientales parecen haber sido lo contrario de las nuestras, teniendo el techo de madera ricamente ornamentado y el piso de yeso o baldosas»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 7:3",
+        "original": "1 Kings 7:3"
+      },
+      {
+        "reference": "1 Kings 7:7",
+        "original": "1 Kings 7:7"
+      },
+      {
+        "reference": "2 Chronicles 3:5",
+        "original": "2 Chr. 3:5"
+      },
+      {
+        "reference": "Jeremiah 22:14",
+        "original": "Jer. 22:14"
+      },
+      {
+        "reference": "1 Kings 6:9",
+        "original": "1 Kings 6:9"
+      },
+      {
+        "reference": "1 Kings 6:15",
+        "original": "1 Kings 6:15"
+      },
+      {
+        "reference": "2 Chronicles 3:9",
+        "original": "2 Chr. 3:9"
+      },
+      {
+        "reference": "Haggai 1:4",
+        "original": "Haggai 1:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "chaff": {
+    "name": "Tamo",
+    "slug": "chaff",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El desecho del grano aventado. Por lo general se quemaba (Éx. 15:7; Is. 5:24; Mat. 3:12). Sin embargo, esta palabra a veces significa hierba seca o heno (Is. 5:24; 33:11). El tamo se utiliza como figura de la maldad abortiva (Sal. 1:4; Mat. 3:12). Las falsas doctrinas también son llamadas tamo (Jer. 23:28), o más correctamente traducido como “paja picada”. La destrucción de los impíos y su impotencia se comparan con el tamo que se lleva el viento (Is. 17:13; Os. 13:3; Sof. 2:2)."
+      },
+      {
+        "source": "SMI",
+        "text": "La cáscara del maíz o del trigo que se separaba del grano al ser arrojada al aire, soplando el viento el tamo mientras el grano se salvaba. El tamo llevado por el viento es una imagen bíblica común de la destrucción de los impíos y de su impotencia para resistir los juicios de Dios. (Salmos 1:4; Isaías 17:13; Oseas 13:3; Sofonías 2:2)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 15:7",
+        "original": "Ex. 15:7"
+      },
+      {
+        "reference": "Isaiah 5:24",
+        "original": "Isa. 5:24"
+      },
+      {
+        "reference": "Matthew 3:12",
+        "original": "Matt. 3:12"
+      },
+      {
+        "reference": "Isaiah 33:11",
+        "original": "Isa 33:11"
+      },
+      {
+        "reference": "Psalms 1:4",
+        "original": "Ps. 1:4"
+      },
+      {
+        "reference": "Jeremiah 23:28",
+        "original": "Jer. 23:28"
+      },
+      {
+        "reference": "Isaiah 17:13",
+        "original": "Isa. 17:13"
+      },
+      {
+        "reference": "Hosea 13:3",
+        "original": "Hos. 13:3"
+      },
+      {
+        "reference": "Zephaniah 2:2",
+        "original": "Zeph. 2:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
   }
 }

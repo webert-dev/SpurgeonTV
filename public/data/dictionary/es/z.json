@@ -1,0 +1,164 @@
+{
+  "bramble": {
+    "name": "Zarza",
+    "slug": "bramble",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) En hebreo atad, Jue. 9:14; traducido como “espino” en Sal. 58:9. La LXX y la Vulgata lo traducen por rhamnus, un arbusto espinoso común en Palestina, que se asemeja al espino blanco. (2.) En hebreo hoah, Is. 34:13 (R.V. “cardos”); “espesuras” en 1 Sam. 13:6; “cardos” en 2 Rey. 14:9, 2 Crón. 25:18, Job 31:40; “espinas” en 2 Crón. 33:11, Cant. 2:2, Os. 9:6. Se puede considerar que la palabra denota el cardo común, del cual hay muchas especies que invaden los campos de trigo de Palestina. (Ver ESPINAS)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Espinas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 9:14",
+        "original": "Judg. 9:14"
+      },
+      {
+        "reference": "Psalms 58:9",
+        "original": "Ps. 58:9"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa. 34:13"
+      },
+      {
+        "reference": "1 Samuel 13:6",
+        "original": "1 Sam. 13:6"
+      },
+      {
+        "reference": "2 Kings 14:9",
+        "original": "2 Kings 14:9"
+      },
+      {
+        "reference": "2 Kings 14:2",
+        "original": "2 Kings 14:2"
+      },
+      {
+        "reference": "Job 31:40",
+        "original": "Job 31:40"
+      },
+      {
+        "reference": "2 Chronicles 33:11",
+        "original": "2 Chr. 33:11"
+      },
+      {
+        "reference": "Song of Solomon 2:2",
+        "original": "Cant. 2:2"
+      },
+      {
+        "reference": "Hosea 9:6",
+        "original": "Hos. 9:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "z"
+  },
+  "brier": {
+    "name": "Zarza",
+    "slug": "brier",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esta palabra aparece con frecuencia y es la traducción de varios términos diferentes. (1.) En Miqueas 7:4, denota una especie de arbusto espinoso utilizado para setos. En Prov. 15:19 la palabra se traduce como “espina” (heb. hedek, “punzante”), que algunos suponen que es la llamada “manzana de Sodoma” (ver). (2.) En Ez. 28:24, sallon’, propiamente un “aguijón” o “espina”, como el que se encuentra en los brotes de la palmera. (3.) En Is. 55:13, probablemente simplemente un arbusto espinoso. Algunos, siguiendo la versión de la Vulgata, lo consideran como la “ortiga”. (4.) En Is. 5:6; 7:23-25, etc., se utiliza con frecuencia para denotar arbustos espinosos en general. En 10:17; 27:4, significa hombres problemáticos. (5.) En Heb. 6:8, la palabra griega (tribolos) así traducida significa “de tres puntas”, y denota el abrojo terrestre, un arbusto espinoso bajo que se asemeja en sus púas al abrojo militar. Comp. Mt. 7:16, “cardo”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Micah 7:4",
+        "original": "Micah 7:4"
+      },
+      {
+        "reference": "Proverbs 15:19",
+        "original": "Prov. 15:19"
+      },
+      {
+        "reference": "Ezekiel 28:24",
+        "original": "Ezek. 28:24"
+      },
+      {
+        "reference": "Isaiah 55:13",
+        "original": "Isa. 55:13"
+      },
+      {
+        "reference": "Isaiah 5:6",
+        "original": "Isa. 5:6"
+      },
+      {
+        "reference": "Isaiah 7:23-25",
+        "original": "Isa 7:23-25"
+      },
+      {
+        "reference": "Hebrews 6:8",
+        "original": "Heb. 6:8"
+      },
+      {
+        "reference": "Matthew 7:16",
+        "original": "Matt. 7:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "z"
+  },
+  "bush": {
+    "name": "Zarza",
+    "slug": "bush",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En la cual Jehová se apareció a Moisés en el desierto (Éx. 3:2; Hech. 7:30). Es difícil decir qué clase particular de planta o arbusto se quiere decir aquí. Probablemente era la mimosa o acacia. Las palabras «en la zarza» en Marcos 12:26; Lucas 20:37, significan «en el pasaje o párrafo sobre la zarza»; es decir, en Éx. 3."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea seneh aparece únicamente en aquellos pasajes que se refieren a la aparición de Jehová a Moisés «en la llama de fuego en la zarza». (Éxodo 3:2,3,4; 33:16) Es completamente imposible decir qué clase de arbusto espinoso se refiere; pero probablemente era la acacia, una variedad pequeña del árbol de sitim que se encuentra en la región del Sinaí."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 3:2",
+        "original": "Ex. 3:2"
+      },
+      {
+        "reference": "Acts 7:30",
+        "original": "Acts 7:30"
+      },
+      {
+        "reference": "Mark 12:26",
+        "original": "Mark 12:26"
+      },
+      {
+        "reference": "Luke 20:37",
+        "original": "Luke 20:37"
+      },
+      {
+        "reference": "Exodus 3",
+        "original": "Ex. 3"
+      },
+      {
+        "reference": "Exodus 3:3",
+        "original": "Exodus 3:3"
+      },
+      {
+        "reference": "Exodus 3:4",
+        "original": "Exodus 3:4"
+      },
+      {
+        "reference": "Exodus 33:16",
+        "original": "Exodus 33:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "z"
+  }
+}

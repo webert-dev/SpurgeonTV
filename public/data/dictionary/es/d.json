@@ -258,5 +258,65 @@
       "EAS"
     ],
     "letter": "d"
+  },
+  "blemish": {
+    "name": "Defecto",
+    "slug": "blemish",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Imperfección o deformidad corporal que excluía a los hombres del sacerdocio y hacía que los animales no fueran aptos para ser ofrecidos en sacrificio (Lev. 21:17-23; 22:19-25). La iglesia cristiana, como justificada en Cristo, está «sin mancha» (Ef. 5:27). Cristo se ofreció a sí mismo como sacrificio «sin mancha», aceptable para Dios (1 Ped. 1:19)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 21:17-23",
+        "original": "Lev. 21:17-23"
+      },
+      {
+        "reference": "Leviticus 22:19-25",
+        "original": "Lev 22:19-25"
+      },
+      {
+        "reference": "Ephesians 5:27",
+        "original": "Eph. 5:27"
+      },
+      {
+        "reference": "1 Peter 1:19",
+        "original": "1 Pet. 1:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "d"
+  },
+  "canopy": {
+    "name": "Dosel",
+    "slug": "canopy",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Judit 10:21; 13:9; 16:19. El dosel de Holofernes es el único mencionado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jdt 10:21",
+        "original": "Judith 10:21"
+      },
+      {
+        "reference": "Jdt 13:9",
+        "original": "Judith 13:9"
+      },
+      {
+        "reference": "Jdt 16:19",
+        "original": "Judith 16:19"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "d"
   }
 }

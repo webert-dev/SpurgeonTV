@@ -30,5 +30,335 @@
       "EAS"
     ],
     "letter": "g"
+  },
+  "bravery": {
+    "name": "Gala",
+    "slug": "bravery",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Is. 3:18), una palabra en inglés antiguo que significa gallardía, compostura o hermosura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "canker": {
+    "name": "Gangrena",
+    "slug": "canker",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una gangrena o mortificación que se extiende gradualmente por todo el cuerpo (2 Tim. 2:17). En Santiago 5:3, «corroído» (cankered) significa «oxidado» (R.V.) o empañado."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 2:17",
+        "original": "2 Tim. 2:17"
+      },
+      {
+        "reference": "James 5:3",
+        "original": "James 5:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "cattle": {
+    "name": "Ganado",
+    "slug": "cattle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Abundaba en la Tierra Santa. A su crianza y cuidado se dedicaban principalmente los habitantes (Dt. 8:13; 12:21; 1 Sam. 11:5; 12:3; Sal. 144:14; Jer. 3:24). Se pueden clasificar en: (1.) Ganado vacuno. Muchos cientos de estos se consumían anualmente en sacrificios o se usaban como alimento. Los mejores rebaños se encontraban en Basán, más allá del Jordán (Nm. 32:4). También pastaban grandes manadas en las amplias y fértiles llanuras de Sarón. Se uncían al arado (1 Reyes 19:19) y se empleaban para transportar cargas (1 Cr. 12:40). Se les conducía con una vara puntiaguda (Jue. 3:31) o aguijón (ver). Según la ley mosaica, no se debía bozalear la boca del ganado empleado en la era para trillar, a fin de evitar que comieran del forraje sobre el cual pisaban (Dt. 25:4). El que robara y vendiera o sacrificara un buey debía dar cinco en restitución (Éx. 22:1); pero si se encontraba vivo en posesión de quien lo robó, se le exigía que hiciera solo una restitución doble (22:4). Si un buey se extraviaba, quien lo encontrara debía devolverlo a su dueño (23:4; Dt. 22:1, 4). No se podía uncir juntos en el arado a un buey y a un asno (Dt. 22:10). (2.) Ganado menor. Después de las vacas, las ovejas constituían la posesión más importante de los habitantes de Palestina (Gén. 12:16; 13:5; 26:14; 21:27; 29:2, 3). Con frecuencia se mencionan entre el botín tomado en la guerra (Nm. 31:32; Jos. 6:21; 1 Sam. 14:32; 15:3). Había muchos que eran dueños de grandes rebaños (1 Sam. 25:2; 2 Sam. 12:2, comp. Job 1:3). Los reyes también tenían pastores «sobre sus rebaños» (1 Cr. 27:31), de los cuales obtenían una gran parte de sus ingresos (2 Sam. 17:29; 1 Cr. 12:40). Los distritos más famosos por sus rebaños de ovejas eran la llanura de Sarón (Is. 65:10), el monte Carmelo (Miq. 7:14), Basán y Galaad (Miq. 7:14). En la época patriarcal, los rebaños de ovejas a veces eran atendidos por las hijas de los propietarios. Así, Raquel, la hija de Labán, cuidaba las ovejas de su padre (Gén. 29:9); asimismo Séfora y sus seis hermanas estaban a cargo de los rebaños de su padre Jetró (Éx. 2:16). A veces eran cuidadas por pastores contratados (Juan 10:12) y a veces por los hijos de la familia (1 Sam. 16:11; 17:15). Los cuidadores familiarizaban tanto a sus ovejas con sus voces que estas las reconocían y las seguían a su llamado. Las ovejas, pero muy especialmente los carneros y los corderos, se ofrecían con frecuencia en sacrificio. El esquileo de las ovejas era una gran ocasión festiva (1 Sam. 25:4; 2 Sam. 13:23). Se las encerraba por la noche y sus cuidadores las protegían contra los ataques del león (Miq. 5:8), el oso (1 Sam. 17:34) y el lobo (Mt. 10:16; Juan 10:12). Eran propensas a deambular por los amplios pastizales y extraviarse (Sal. 119:176; Is. 53:6; Os. 4:16; Mt. 18:12). Las cabras también formaban parte de la riqueza pastoril de Palestina (Gén. 15:9; 32:14; 37:31). Se utilizaban tanto para el sacrificio como para el alimento (Dt. 14:4), especialmente los machos jóvenes (Gén. 27:9, 14, 17; Jue. 6:19; 13:15; 1 Sam. 16:20). El pelo de cabra se usaba para hacer telas de tiendas (Éx. 26:7; 36:14) y para colchones y ropa de cama (1 Sam. 19:13, 16). (Ver CABRA)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Toro, Novillo]."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 8:13",
+        "original": "Deut. 8:13"
+      },
+      {
+        "reference": "Deuteronomy 12:21",
+        "original": "Deut 12:21"
+      },
+      {
+        "reference": "1 Samuel 11:5",
+        "original": "1 Sam. 11:5"
+      },
+      {
+        "reference": "1 Samuel 12:3",
+        "original": "1 Sam. 12:3"
+      },
+      {
+        "reference": "Psalms 144:14",
+        "original": "Ps. 144:14"
+      },
+      {
+        "reference": "Jeremiah 3:24",
+        "original": "Jer. 3:24"
+      },
+      {
+        "reference": "Numbers 32:4",
+        "original": "Num. 32:4"
+      },
+      {
+        "reference": "1 Kings 19:19",
+        "original": "1 Kings 19:19"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chr. 12:40"
+      },
+      {
+        "reference": "Judges 3:31",
+        "original": "Judg. 3:31"
+      },
+      {
+        "reference": "Deuteronomy 25:4",
+        "original": "Deut. 25:4"
+      },
+      {
+        "reference": "Exodus 22:1",
+        "original": "Ex. 22:1"
+      },
+      {
+        "reference": "Deuteronomy 22:1",
+        "original": "Deut. 22:1"
+      },
+      {
+        "reference": "Deuteronomy 22:4",
+        "original": "Deut 22:4"
+      },
+      {
+        "reference": "Deuteronomy 22:10",
+        "original": "Deut. 22:10"
+      },
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Genesis 13:5",
+        "original": "Gen 13:5"
+      },
+      {
+        "reference": "Genesis 26:14",
+        "original": "Gen 26:14"
+      },
+      {
+        "reference": "Genesis 21:27",
+        "original": "Gen 21:27"
+      },
+      {
+        "reference": "Genesis 29:2",
+        "original": "Gen 29:2"
+      },
+      {
+        "reference": "Genesis 29:3",
+        "original": "Gen 29:3"
+      },
+      {
+        "reference": "Numbers 31:32",
+        "original": "Num. 31:32"
+      },
+      {
+        "reference": "Joshua 6:21",
+        "original": "Josh. 6:21"
+      },
+      {
+        "reference": "1 Samuel 14:32",
+        "original": "1 Sam. 14:32"
+      },
+      {
+        "reference": "1 Samuel 15:3",
+        "original": "1 Sam. 15:3"
+      },
+      {
+        "reference": "1 Samuel 25:2",
+        "original": "1 Sam. 25:2"
+      },
+      {
+        "reference": "2 Samuel 12:2",
+        "original": "2 Sam. 12:2"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "1 Chronicles 27:31",
+        "original": "1 Chr. 27:31"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Sam. 17:29"
+      },
+      {
+        "reference": "Isaiah 65",
+        "original": "Isa. 65"
+      },
+      {
+        "reference": "Micah 7:14",
+        "original": "Micah 7:14"
+      },
+      {
+        "reference": "Genesis 29:9",
+        "original": "Gen. 29:9"
+      },
+      {
+        "reference": "Exodus 2:16",
+        "original": "Ex. 2:16"
+      },
+      {
+        "reference": "John 10:12",
+        "original": "John 10:12"
+      },
+      {
+        "reference": "1 Samuel 16:11",
+        "original": "1 Sam. 16:11"
+      },
+      {
+        "reference": "1 Samuel 17:15",
+        "original": "1 Sam. 17:15"
+      },
+      {
+        "reference": "1 Samuel 25:4",
+        "original": "1 Sam. 25:4"
+      },
+      {
+        "reference": "2 Samuel 13:23",
+        "original": "2 Sam. 13:23"
+      },
+      {
+        "reference": "Micah 5:8",
+        "original": "Micah 5:8"
+      },
+      {
+        "reference": "1 Samuel 17:34",
+        "original": "1 Sam. 17:34"
+      },
+      {
+        "reference": "Matthew 10:16",
+        "original": "Matt. 10:16"
+      },
+      {
+        "reference": "Psalms 119:176",
+        "original": "Ps. 119:176"
+      },
+      {
+        "reference": "Isaiah 53:6",
+        "original": "Isa. 53:6"
+      },
+      {
+        "reference": "Hosea 4:16",
+        "original": "Hos. 4:16"
+      },
+      {
+        "reference": "Matthew 18:12",
+        "original": "Matt. 18:12"
+      },
+      {
+        "reference": "Genesis 15:9",
+        "original": "Gen. 15:9"
+      },
+      {
+        "reference": "Genesis 32:14",
+        "original": "Gen 32:14"
+      },
+      {
+        "reference": "Genesis 37:31",
+        "original": "Gen 37:31"
+      },
+      {
+        "reference": "Deuteronomy 14:4",
+        "original": "Deut. 14:4"
+      },
+      {
+        "reference": "Genesis 27:9",
+        "original": "Gen. 27:9"
+      },
+      {
+        "reference": "Genesis 27:14",
+        "original": "Gen 27:14"
+      },
+      {
+        "reference": "Genesis 27:17",
+        "original": "Gen 27:17"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judg. 6:19"
+      },
+      {
+        "reference": "Judges 13:15",
+        "original": "Judg 13:15"
+      },
+      {
+        "reference": "1 Samuel 16:20",
+        "original": "1 Sam. 16:20"
+      },
+      {
+        "reference": "Exodus 26:7",
+        "original": "Ex. 26:7"
+      },
+      {
+        "reference": "Exodus 36:14",
+        "original": "Ex 36:14"
+      },
+      {
+        "reference": "1 Samuel 19:13",
+        "original": "1 Sam. 19:13"
+      },
+      {
+        "reference": "1 Samuel 19:16",
+        "original": "1 Sam. 19:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "chamois": {
+    "name": "Gamuza",
+    "slug": "chamois",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Solo en Deut. 14:5 (heb. zemer), un animal de la especie de los ciervos o gacelas. Lleva este nombre hebreo por sus saltos o brincos. El animal al que se refiere es probablemente la oveja salvaje (Ovis tragelaphus), que todavía se encuentra en el Sinaí y en las crestas escarpadas de la Arabia Pétrea. La LXX y la Vulgata traducen la palabra como camelopardus, es decir, la jirafa; pero este es un animal del África central y no es conocido en absoluto en Siria."
+      },
+      {
+        "source": "SMI",
+        "text": "la traducción del hebreo zemer en (14:5). Pero la traducción es incorrecta; ya que no hay evidencia de que la gamuza haya sido vista alguna vez en Palestina o el Líbano. Es probable que se refiera a alguna oveja de montaña."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 14:5",
+        "original": "Deut. 14:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

@@ -282,5 +282,374 @@
       "SMI"
     ],
     "letter": "h"
+  },
+  "bitter-herbs": {
+    "name": "Hierbas amargas",
+    "slug": "bitter-herbs",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A los israelitas se les ordenó comer el cordero pascual «con pan sin levadura y con hierbas amargas». (Éxodo 12:8) Estas «hierbas amargas» consistían en plantas como la achicoria, berros amargos, hierba del gavilán, cerrajas y lechugas silvestres, que crecen abundantemente en la península del Sinaí, en Palestina y en Egipto. El propósito de esta observancia era recordar a los israelitas su liberación de la amarga esclavitud de los egipcios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 12:8",
+        "original": "Exodus 12:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "blade": {
+    "name": "Hoja",
+    "slug": "blade",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se aplica a la punta brillante de una lanza (Job 39:23) o espada (Nah. 3:3), la hoja de un puñal (Jue. 3:22); la «paletilla» u omóplato (Job 31:22); y la «hoja» o tallo de los cereales (Mt. 13:26)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 39:23",
+        "original": "Job 39:23"
+      },
+      {
+        "reference": "Nahum 3:3",
+        "original": "Nah. 3:3"
+      },
+      {
+        "reference": "Judges 3:22",
+        "original": "Judg. 3:22"
+      },
+      {
+        "reference": "Job 31:22",
+        "original": "Job 31:22"
+      },
+      {
+        "reference": "Matthew 13:26",
+        "original": "Matt. 13:26"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "brethren-of-jesus": {
+    "name": "Hermanos de Jesús",
+    "slug": "brethren-of-jesus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jacobo el menor]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "brother": {
+    "name": "Hermano",
+    "slug": "brother",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) En el sentido natural y común (Mt. 1:2; Lc. 3:1, 19). (2.) Un pariente cercano, un primo (Gén. 13:8; 14:16; Mt. 12:46; Juan 7:3; Hechos 1:14; Gál. 1:19). (3.) Simplemente un compatriota (Mt. 5:47; Hechos 3:22; Heb. 7:5). (4.) Un discípulo o seguidor (Mt. 25:40; Heb. 2:11, 12). (5.) Uno de la misma fe (Amós 1:9; Hechos 9:30; 11:29; 1 Cor. 5:11); de ahí que los primeros discípulos de nuestro Señor se conocieran entre sí como hermanos. (6.) Un colega en el cargo (Esd. 3:2; 1 Cor. 1:1; 2 Cor. 1:1). (7.) Un semejante (Gén. 9:5; 19:7; Mt. 5:22, 23, 24; 7:5; Heb. 2:17). (8.) Uno amado o estrechamente unido a otro en afecto (2 Sam. 1:26; Hechos 6:3; 1 Tes. 5:1). Los hermanos de Jesús (Mt. 1:25; 12:46, 50; Mc. 3:31, 32; Gál. 1:19; 1 Cor. 9:5, etc.) eran probablemente los hijos menores de José y María. Algunos han supuesto que pudieron haber sido hijos de José de un matrimonio anterior, y otros que eran hijos de María, la hermana de la Virgen y esposa de Cleofas. Sin embargo, la primera interpretación es la más natural."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea se utiliza en varios sentidos en el Antiguo Testamento, como por ejemplo:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:2",
+        "original": "Matt. 1:2"
+      },
+      {
+        "reference": "Luke 3:1",
+        "original": "Luke 3:1"
+      },
+      {
+        "reference": "Luke 3:19",
+        "original": "Luke 3:19"
+      },
+      {
+        "reference": "Genesis 13:8",
+        "original": "Gen. 13:8"
+      },
+      {
+        "reference": "Genesis 14:16",
+        "original": "Gen 14:16"
+      },
+      {
+        "reference": "Matthew 12:46",
+        "original": "Matt. 12:46"
+      },
+      {
+        "reference": "John 7:3",
+        "original": "John 7:3"
+      },
+      {
+        "reference": "Acts 1:14",
+        "original": "Acts 1:14"
+      },
+      {
+        "reference": "Galatians 1:19",
+        "original": "Gal. 1:19"
+      },
+      {
+        "reference": "Matthew 5:47",
+        "original": "Matt. 5:47"
+      },
+      {
+        "reference": "Acts 3:22",
+        "original": "Acts 3:22"
+      },
+      {
+        "reference": "Hebrews 7:5",
+        "original": "Heb. 7:5"
+      },
+      {
+        "reference": "Matthew 25:40",
+        "original": "Matt. 25:40"
+      },
+      {
+        "reference": "Hebrews 2:11",
+        "original": "Heb. 2:11"
+      },
+      {
+        "reference": "Hebrews 2:12",
+        "original": "Heb. 2:12"
+      },
+      {
+        "reference": "Amos 1:9",
+        "original": "Amos 1:9"
+      },
+      {
+        "reference": "Acts 9:30",
+        "original": "Acts 9:30"
+      },
+      {
+        "reference": "Acts 11:29",
+        "original": "Acts 11:29"
+      },
+      {
+        "reference": "1 Corinthians 5:11",
+        "original": "1 Cor. 5:11"
+      },
+      {
+        "reference": "Ezra 3:2",
+        "original": "Ezra 3:2"
+      },
+      {
+        "reference": "1 Corinthians 1:1",
+        "original": "1 Cor. 1:1"
+      },
+      {
+        "reference": "2 Corinthians 1:1",
+        "original": "2 Cor. 1:1"
+      },
+      {
+        "reference": "Genesis 9:5",
+        "original": "Gen. 9:5"
+      },
+      {
+        "reference": "Genesis 19:7",
+        "original": "Gen 19:7"
+      },
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      },
+      {
+        "reference": "Matthew 5:23",
+        "original": "Matt. 5:23"
+      },
+      {
+        "reference": "Matthew 5:24",
+        "original": "Matt. 5:24"
+      },
+      {
+        "reference": "Hebrews 2:17",
+        "original": "Heb. 2:17"
+      },
+      {
+        "reference": "2 Samuel 1:26",
+        "original": "2 Sam. 1:26"
+      },
+      {
+        "reference": "Acts 6:3",
+        "original": "Acts 6:3"
+      },
+      {
+        "reference": "1 Thessalonians 5:1",
+        "original": "1 Thess. 5:1"
+      },
+      {
+        "reference": "Matthew 1:25",
+        "original": "Matt. 1:25"
+      },
+      {
+        "reference": "Matthew 12:50",
+        "original": "Matt 12:50"
+      },
+      {
+        "reference": "Mark 3:31",
+        "original": "Mark 3:31"
+      },
+      {
+        "reference": "Mark 3:32",
+        "original": "Mark 3:32"
+      },
+      {
+        "reference": "1 Corinthians 9:5",
+        "original": "1 Cor. 9:5"
+      },
+      {
+        "reference": "2 Samuel 19:13",
+        "original": "2 Samuel 19:13"
+      },
+      {
+        "reference": "Exodus 2:11",
+        "original": "Exodus 2:11"
+      },
+      {
+        "reference": "Numbers 20:14",
+        "original": "Numbers 20:14"
+      },
+      {
+        "reference": "Job 5:15",
+        "original": "Job 5:15"
+      },
+      {
+        "reference": "1 Kings 9:13",
+        "original": "1 Kings 9:13"
+      },
+      {
+        "reference": "Leviticus 19:17",
+        "original": "Leviticus 19:17"
+      },
+      {
+        "reference": "Job 30:19",
+        "original": "Job 30:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "burnt-offering": {
+    "name": "Holocausto",
+    "slug": "burnt-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En hebreo olah; es decir, «que asciende», siendo todo consumido por el fuego y considerado como que asciende a Dios mientras se consume. Parte de cada ofrenda se quemaba en el fuego sagrado, pero esta se quemaba por completo, un «holocausto completo». Era la forma más frecuente de sacrificio y, al parecer, la única mencionada en el libro del Génesis. Tales fueron los sacrificios ofrecidos por Abel (Gén. 4:3, 4, aquí llamado minhah; es decir, «una ofrenda» o «un regalo»), Noé (Gén. 8:20), Abraham (Gén. 22:2, 7, 8, 13) y por los hebreos en Egipto (Éx. 10:25). La ley de Moisés prescribió más tarde las ocasiones y la manera en que se debían ofrecer los holocaustos. Estaban «el holocausto continuo» (Éx. 29:38-42; Lev. 6:9-13), «el holocausto de cada día de reposo», que era el doble del diario (Núm. 28:9, 10), «el holocausto de cada mes» (28:11-15), las ofrendas en la Pascua (19-23), en Pentecostés (Lev. 23:16), la fiesta de las Trompetas (23:23-25) y en el día de la Expiación (Lev. 16). En otras ocasiones se ofrecían sacrificios especiales, como en la consagración de Aarón (Éx. 29) y la dedicación del templo (1 Rey. 8:5, 62-64). También se permitían holocaustos voluntarios (Lev. 1:13), y se ofrecieron al ascender Salomón al trono (1 Cró. 29:21) y en la reforma llevada a cabo por Ezequías (2 Cró. 29:31-35). Estas ofrendas significaban la consagración completa de los oferentes a Dios. A esto se hace referencia en Rom. 12:1. (Ver ALTAR, SACRIFICIO)."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra se aplica a la ofrenda que era consumida enteramente por el fuego sobre el altar, y cuya totalidad, excepto las cenizas de desecho, «ascendía» en el humo a Dios. El significado del holocausto completo era el que constituye la idea original de todo sacrificio: la ofrenda que el sacrificador hace de sí mismo, alma y cuerpo, a Dios; el sometimiento de su voluntad a la voluntad del Señor. Las ceremonias del holocausto se detallan en el libro de Levítico. [Sacrificio]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:3",
+        "original": "Gen. 4:3"
+      },
+      {
+        "reference": "Genesis 4:4",
+        "original": "Gen. 4:4"
+      },
+      {
+        "reference": "Genesis 8:20",
+        "original": "Gen. 8:20"
+      },
+      {
+        "reference": "Genesis 22:2",
+        "original": "Gen. 22:2"
+      },
+      {
+        "reference": "Genesis 22:7",
+        "original": "Gen. 22:7"
+      },
+      {
+        "reference": "Genesis 22:8",
+        "original": "Gen. 22:8"
+      },
+      {
+        "reference": "Genesis 22:13",
+        "original": "Gen. 22:13"
+      },
+      {
+        "reference": "Exodus 10:25",
+        "original": "Ex. 10:25"
+      },
+      {
+        "reference": "Exodus 29:38-42",
+        "original": "Ex. 29:38-42"
+      },
+      {
+        "reference": "Leviticus 6:9-13",
+        "original": "Lev. 6:9-13"
+      },
+      {
+        "reference": "Numbers 28:9",
+        "original": "Num. 28:9"
+      },
+      {
+        "reference": "Numbers 28:10",
+        "original": "Num. 28:10"
+      },
+      {
+        "reference": "Leviticus 23:16",
+        "original": "Lev. 23:16"
+      },
+      {
+        "reference": "Leviticus 16",
+        "original": "Lev. 16"
+      },
+      {
+        "reference": "Exodus 29",
+        "original": "Ex. 29"
+      },
+      {
+        "reference": "1 Kings 8:5",
+        "original": "1 Kings 8:5"
+      },
+      {
+        "reference": "1 Kings 8:62",
+        "original": "1 Kings 8:62"
+      },
+      {
+        "reference": "Leviticus 1:13",
+        "original": "Lev. 1:13"
+      },
+      {
+        "reference": "1 Chronicles 29:21",
+        "original": "1 Chr. 29:21"
+      },
+      {
+        "reference": "2 Chronicles 29",
+        "original": "2 Chr. 29"
+      },
+      {
+        "reference": "Romans 12:1",
+        "original": "Rom. 12:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
   }
 }

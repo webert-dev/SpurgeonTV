@@ -182,5 +182,139 @@
       "SMI"
     ],
     "letter": "f"
+  },
+  "bier": {
+    "name": "Fretro",
+    "slug": "bier",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El armazón en el que se transportaban los cadáveres a la tumba (Lucas 7:14)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Entierro, Sepulcros.1]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 7:14",
+        "original": "Luke 7:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "bridle": {
+    "name": "Freno",
+    "slug": "bridle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tres palabras hebreas se traducen así en la Versión Autorizada (KJV). (1.) El heb. mahsom’ significa un bozal, cabestro o freno, mediante el cual el jinete domina a su caballo (Sal. 39:1). (2.) Me’theg, traducido también como “freno” o “bocado” en Sal. 32:9, que es su significado propio. Se encuentra en 2 Reyes 19:28, donde las restricciones de la providencia de Dios son llamadas metafóricamente su “freno” y su “gancho”. El que Dios ponga un “freno en las mandíbulas de los pueblos” (Is. 30:28; 37:29) significa que impide a los asirios llevar a cabo su propósito contra Jerusalén. (3.) Otra palabra, re’sen, se empleaba para representar un cabestro o la rienda del freno, como se usa en Sal. 32:9; Is. 30:28. En Job 30:11, las restricciones de la ley y la humanidad son llamadas freno."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 39:1",
+        "original": "Ps. 39:1"
+      },
+      {
+        "reference": "Psalms 32:9",
+        "original": "Ps. 32:9"
+      },
+      {
+        "reference": "2 Kings 19:28",
+        "original": "2 Kings 19:28"
+      },
+      {
+        "reference": "Isaiah 30:28",
+        "original": "Isa. 30:28"
+      },
+      {
+        "reference": "Isaiah 37:29",
+        "original": "Isa 37:29"
+      },
+      {
+        "reference": "Job 30:11",
+        "original": "Job 30:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "charger": {
+    "name": "Fuente",
+    "slug": "charger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un tazón o plato hondo. Así se denominan las vasijas de plata entregadas por los jefes de las tribus para los servicios del tabernáculo (Núm. 7:13, etc.). El «plato» en el que se presentó la cabeza del Bautista era una bandeja o plato de madera plano (Mt. 14:8, 11; Mr. 6:25, 28). Los tazones de oro y plata de Esdras 1:9 eran probablemente vasijas para recibir la sangre de los sacrificios."
+      },
+      {
+        "source": "SMI",
+        "text": "una vasija poco profunda para recibir agua o sangre, también para presentar ofrendas de flor de harina con aceite. (Números 7:79) La hija de Herodías trajo la cabeza de San Juan Bautista en un plato, (Mateo 14:8) probablemente una bandeja o fuente. [Vasija]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 7:13",
+        "original": "Num. 7:13"
+      },
+      {
+        "reference": "Matthew 14:8",
+        "original": "Matt. 14:8"
+      },
+      {
+        "reference": "Matthew 14:11",
+        "original": "Matt. 14:11"
+      },
+      {
+        "reference": "Mark 6:25",
+        "original": "Mark 6:25"
+      },
+      {
+        "reference": "Mark 6:28",
+        "original": "Mark 6:28"
+      },
+      {
+        "reference": "Ezra 1:9",
+        "original": "Ezra 1:9"
+      },
+      {
+        "reference": "Numbers 7:79",
+        "original": "Numbers 7:79"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "christs-false": {
+    "name": "Falsos Cristos",
+    "slug": "christs-false",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nuestro Señor advirtió a sus discípulos que surgirían (Mat. 24:24). Se dice que no menos de veinticuatro personas han aparecido en diferentes épocas (la última en 1682) pretendiendo ser el Mesías de los profetas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 24:24",
+        "original": "Matt. 24:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
   }
 }

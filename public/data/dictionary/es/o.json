@@ -265,5 +265,199 @@
       "SMI"
     ],
     "letter": "o"
+  },
+  "bishop": {
+    "name": "Obispo",
+    "slug": "bishop",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un veedor o supervisor. En los tiempos apostólicos, es bastante manifiesto que no había diferencia en cuanto al orden entre obispos y ancianos o presbíteros (Hechos 20:17-28; 1 Pe. 5:1, 2; Fil. 1:1; 1 Tim. 3). El término obispo nunca se usa para denotar un oficio diferente al de anciano o presbítero. Estos diferentes nombres son simplemente títulos del mismo oficio; «obispo» designa la función, a saber, la de supervisión, y «presbítero» la dignidad que corresponde al oficio. Cristo es llamado figuradamente «el obispo [episcopos] de vuestras almas» (1 Pe. 2:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra significaba originalmente un «veedor» o superintendente espiritual. Los títulos de obispo y anciano, o presbítero, eran esencialmente equivalentes. Obispo proviene del griego y denota a aquel que ejerce la función de supervisar. Presbítero se derivó del oficio en la sinagoga. Del orden en que fueron nombrados los primeros ancianos u obispos, así como de la ocasión que dio lugar a la institución del oficio, no tenemos registro. Los deberes de los obispos-ancianos parecen haber sido los siguientes:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 20:17-28",
+        "original": "Acts 20:17-28"
+      },
+      {
+        "reference": "1 Peter 5:1",
+        "original": "1 Pet. 5:1"
+      },
+      {
+        "reference": "1 Peter 5:2",
+        "original": "1 Pet. 5:2"
+      },
+      {
+        "reference": "Philippians 1:1",
+        "original": "Phil. 1:1"
+      },
+      {
+        "reference": "1 Timothy 3",
+        "original": "1 Tim. 3"
+      },
+      {
+        "reference": "1 Peter 2:25",
+        "original": "1 Pet. 2:25"
+      },
+      {
+        "reference": "1 Thessalonians 5:12",
+        "original": "1 Thessalonians 5:12"
+      },
+      {
+        "reference": "Titus 1:9",
+        "original": "Titus 1:9"
+      },
+      {
+        "reference": "1 Timothy 5:17",
+        "original": "1 Timothy 5:17"
+      },
+      {
+        "reference": "James 5:14",
+        "original": "James 5:14"
+      },
+      {
+        "reference": "1 Timothy 3:2",
+        "original": "1 Timothy 3:2"
+      },
+      {
+        "reference": "Titus 1:8",
+        "original": "Titus 1:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "bishopric": {
+    "name": "Obispado",
+    "slug": "bishopric",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "el distrito sobre el cual se extendía la jurisdicción de un obispo. (Hechos 1:20; 1 Timoteo 3:1)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 1:20",
+        "original": "Acts 1:20"
+      },
+      {
+        "reference": "1 Timothy 3:1",
+        "original": "1 Timothy 3:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "by-word": {
+    "name": "Objeto de burla",
+    "slug": "by-word",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hebreo millah (Job 30:9), una palabra o discurso, y por lo tanto, objeto de conversación; hebreo mashal (Sal. 44:14), un proverbio o parábola. Cuando denota una palabra mordaz de escarnio, como en Deut. 28:37, 1 Reyes 9:7, 2 Crón. 7:20, se utiliza el hebreo sheninah. En Jer. 24:9 se traduce como «burla»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 30:9",
+        "original": "Job 30:9"
+      },
+      {
+        "reference": "Psalms 44:14",
+        "original": "Ps. 44:14"
+      },
+      {
+        "reference": "Deuteronomy 28:37",
+        "original": "Deut. 28:37"
+      },
+      {
+        "reference": "Deuteronomy 28:1",
+        "original": "Deut. 28:1"
+      },
+      {
+        "reference": "2 Chronicles 7:20",
+        "original": "2 Chr. 7:20"
+      },
+      {
+        "reference": "Jeremiah 24:9",
+        "original": "Jer. 24:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "caterpillar": {
+    "name": "Oruga",
+    "slug": "caterpillar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El consumidor. Se utiliza en el Antiguo Testamento (1 Reyes 8:37; 2 Cr. 6:28; Sal. 78:46; Is. 33:4) como traducción de una palabra (hasil) cuya raíz significa «devorar» o «consumir», y que también se usa con referencia a la langosta en Dt. 28:38. Pudo haber sido una especie de langosta, o el nombre de una de las transformaciones por las que pasa la langosta, la larva de langosta. También se encuentra (Sal. 105:34; Jer. 51:14, 27; R.V., «pulgón») como traducción de una palabra hebrea diferente, yelek, vocablo traducido en otros pasajes como «pulgón» (ver), Joel 1:4; 2:25. (Ver LANGOSTA)."
+      },
+      {
+        "source": "SMI",
+        "text": "El representante en la Versión Autorizada de la palabra hebrea chasil y yelek."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 8:37",
+        "original": "1 Kings 8:37"
+      },
+      {
+        "reference": "2 Chronicles 6:28",
+        "original": "2 Chr. 6:28"
+      },
+      {
+        "reference": "Psalms 78:46",
+        "original": "Ps. 78:46"
+      },
+      {
+        "reference": "Isaiah 33:4",
+        "original": "Isa. 33:4"
+      },
+      {
+        "reference": "Deuteronomy 28:38",
+        "original": "Deut. 28:38"
+      },
+      {
+        "reference": "Psalms 105:34",
+        "original": "Ps. 105:34"
+      },
+      {
+        "reference": "Jeremiah 51:14",
+        "original": "Jer. 51:14"
+      },
+      {
+        "reference": "Jeremiah 51:27",
+        "original": "Jer. 51:27"
+      },
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
   }
 }

@@ -400,5 +400,141 @@
       "EAS"
     ],
     "letter": "v"
+  },
+  "blood-revenger-of": {
+    "name": "Vengador de la sangre",
+    "slug": "blood-revenger-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Aquel que vengaba la sangre de alguien que había sido asesinado. El pariente más cercano del difunto se convertía en el vengador autorizado de la sangre (Números 35:19). La ley del talión no debía extenderse más allá del ofensor inmediato (Deuteronomio 24:16; 2 Reyes 14:6; 2 Crónicas 25:4; Jeremías 31:29,30; Ezequiel 18:20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 35:19",
+        "original": "Numbers 35:19"
+      },
+      {
+        "reference": "2 Kings 14:6",
+        "original": "2 Kings 14:6"
+      },
+      {
+        "reference": "2 Chronicles 25:4",
+        "original": "2 Chronicles 25:4"
+      },
+      {
+        "reference": "Jeremiah 31:29",
+        "original": "Jeremiah 31:29"
+      },
+      {
+        "reference": "Jeremiah 31:30",
+        "original": "Jeremiah 31:30"
+      },
+      {
+        "reference": "Ezekiel 18:20",
+        "original": "Ezekiel 18:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "bond": {
+    "name": "Vínculo",
+    "slug": "bond",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una obligación de cualquier tipo (Núm. 30:2, 4, 12). La palabra significa también opresión o aflicción (Sal. 116:16; Fil. 1:7). El amor cristiano es el «vínculo de la perfección» (Col. 3:14), y las influencias del Espíritu son el «vínculo de la paz» (Ef. 4:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 30:2",
+        "original": "Num. 30:2"
+      },
+      {
+        "reference": "Numbers 30:4",
+        "original": "Num. 30:4"
+      },
+      {
+        "reference": "Numbers 30:12",
+        "original": "Num. 30:12"
+      },
+      {
+        "reference": "Psalms 116:16",
+        "original": "Ps. 116:16"
+      },
+      {
+        "reference": "Philippians 1:7",
+        "original": "Phil. 1:7"
+      },
+      {
+        "reference": "Colossians 3:14",
+        "original": "Col. 3:14"
+      },
+      {
+        "reference": "Ephesians 4:3",
+        "original": "Eph. 4:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "candle": {
+    "name": "Vela",
+    "slug": "candle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. ner, Job 18:6; 29:3; Sal. 18:28; Prov. 24:20, en todos cuyos pasajes la Versión Revisada y el margen de la Versión Autorizada tienen «lámpara», término por el cual la palabra se traduce con frecuencia en otros lugares. La palabra hebrea denota propiamente cualquier tipo de vela, lámpara o antorcha. Se utiliza como figura de la conciencia (Prov. 20:27), de un ejemplo cristiano (Mt. 5:14, 15) y de la prosperidad (Job 21:17; Prov. 13:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 18:6",
+        "original": "Job 18:6"
+      },
+      {
+        "reference": "Job 29:3",
+        "original": "Job 29:3"
+      },
+      {
+        "reference": "Psalms 18:28",
+        "original": "Ps. 18:28"
+      },
+      {
+        "reference": "Proverbs 24:20",
+        "original": "Prov. 24:20"
+      },
+      {
+        "reference": "Proverbs 20:27",
+        "original": "Prov. 20:27"
+      },
+      {
+        "reference": "Matthew 5:14",
+        "original": "Matt. 5:14"
+      },
+      {
+        "reference": "Matthew 5:15",
+        "original": "Matt. 5:15"
+      },
+      {
+        "reference": "Job 21:17",
+        "original": "Job 21:17"
+      },
+      {
+        "reference": "Proverbs 13:9",
+        "original": "Prov. 13:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
   }
 }

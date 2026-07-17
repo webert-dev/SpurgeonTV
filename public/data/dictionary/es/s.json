@@ -122,5 +122,458 @@
       "EAS"
     ],
     "letter": "s"
+  },
+  "blood": {
+    "name": "Sangre",
+    "slug": "blood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Como alimento, prohibida en Gén. 9:4, donde se permite por primera vez el uso de alimentos de origen animal. Comp. Deut. 12:23; Lev. 3:17; 7:26; 17:10-14. La orden de abstenerse de sangre se renueva en el decreto del concilio de Jerusalén (Hechos 15:29). Algunos han sostenido, y creemos correctamente, que esta ley de prohibición era solo ceremonial y temporal; mientras que otros consideran que sigue siendo vinculante para todos. Los israelitas comieron sangre después de la batalla de Gilboa (1 Sam. 14:32-34). (2.) El sacerdote recibía la sangre de los sacrificios en un recipiente y luego la rociaba siete veces sobre el altar; la de la pascua en los postes y dinteles de las casas (Éx. 12; Lev. 4:5-7; 16:14-19). Al darse la ley (Éx. 24:8), la sangre de los sacrificios fue rociada sobre el pueblo así como sobre el altar, y de este modo el pueblo fue consagrado a Dios, o entró en pacto con Él; de ahí la sangre del pacto (Mat. 26:28; Heb. 9:19, 20; 10:29; 13:20). (3.) Sangre humana. El asesino debía ser castigado (Gén. 9:5). La sangre del asesinado «clama por venganza» (Gén. 4:10). El «vengador de la sangre» era el pariente más cercano del asesinado, y se le exigía vengar su muerte (Núm. 35:24, 27). No se podía hacer ninguna satisfacción por la culpa de un asesinato (Núm. 35:31). (4.) Sangre utilizada metafóricamente para denotar raza (Hechos 17:26), y como símbolo de matanza (Is. 34:3). «Lavar los pies en sangre» significa obtener una gran victoria (Sal. 58:10). El vino, por su color rojo, es llamado «la sangre de la uva» (Gén. 49:11). Sangre y agua brotaron del costado de nuestro Salvador cuando fue traspasado por el soldado romano (Juan 19:34). Esto ha llevado a los patólogos a la conclusión de que la causa real de la muerte de Cristo fue la ruptura del corazón. (Comp. Sal. 69:20.)"
+      },
+      {
+        "source": "SMI",
+        "text": "A la sangre se le atribuye en las Escrituras la santidad misteriosa que pertenece a la vida, y Dios se la reservó para sí mismo al permitir al hombre el dominio y el uso de los animales inferiores como alimento. Así reservada, adquiere un doble poder: (1) el de la expiación sacrificial; y (2) el de convertirse en una maldición cuando se derrama injustificadamente, a menos que sea debidamente expiada (Génesis 9:4; Levítico 7:26; 17:11-13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:4",
+        "original": "Gen. 9:4"
+      },
+      {
+        "reference": "Deuteronomy 12:23",
+        "original": "Deut. 12:23"
+      },
+      {
+        "reference": "Leviticus 3:17",
+        "original": "Lev. 3:17"
+      },
+      {
+        "reference": "Leviticus 7:26",
+        "original": "Lev 7:26"
+      },
+      {
+        "reference": "Leviticus 17:10-14",
+        "original": "Lev 17:10-14"
+      },
+      {
+        "reference": "Acts 15:29",
+        "original": "Acts 15:29"
+      },
+      {
+        "reference": "1 Samuel 14:32-34",
+        "original": "1 Sam. 14:32-34"
+      },
+      {
+        "reference": "Exodus 12",
+        "original": "Ex. 12"
+      },
+      {
+        "reference": "Leviticus 4:5-7",
+        "original": "Lev. 4:5-7"
+      },
+      {
+        "reference": "Leviticus 16:14-19",
+        "original": "Lev 16:14-19"
+      },
+      {
+        "reference": "Exodus 24:8",
+        "original": "Ex. 24:8"
+      },
+      {
+        "reference": "Matthew 26:28",
+        "original": "Matt. 26:28"
+      },
+      {
+        "reference": "Hebrews 9:19",
+        "original": "Heb. 9:19"
+      },
+      {
+        "reference": "Hebrews 9:20",
+        "original": "Heb. 9:20"
+      },
+      {
+        "reference": "Genesis 9:5",
+        "original": "Gen. 9:5"
+      },
+      {
+        "reference": "Genesis 4:10",
+        "original": "Gen. 4:10"
+      },
+      {
+        "reference": "Numbers 35:24",
+        "original": "Num. 35:24"
+      },
+      {
+        "reference": "Numbers 35:27",
+        "original": "Num. 35:27"
+      },
+      {
+        "reference": "Numbers 35:31",
+        "original": "Num. 35:31"
+      },
+      {
+        "reference": "Acts 17:26",
+        "original": "Acts 17:26"
+      },
+      {
+        "reference": "Isaiah 34:3",
+        "original": "Isa. 34:3"
+      },
+      {
+        "reference": "Psalms 58:10",
+        "original": "Ps. 58:10"
+      },
+      {
+        "reference": "Genesis 49:11",
+        "original": "Gen. 49:11"
+      },
+      {
+        "reference": "John 19:34",
+        "original": "John 19:34"
+      },
+      {
+        "reference": "Psalms 69:20",
+        "original": "Ps. 69:20"
+      },
+      {
+        "reference": "Leviticus 17:11-13",
+        "original": "Leviticus 17:11-13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "bloody-sweat": {
+    "name": "Sudor de sangre",
+    "slug": "bloody-sweat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La señal y muestra de la gran agonía de nuestro Señor (Lucas 22:44)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 22:44",
+        "original": "Luke 22:44"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "bondage": {
+    "name": "Servidumbre",
+    "slug": "bondage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De Israel en Egipto (Éx. 2:23, 25; 5), que es llamada la «casa de servidumbre» (13:3; 20:2). Esta palabra se usa también con referencia al cautiverio en Babilonia (Is. 14:3), y a la opresión del rey persa (Esd. 9:8, 9)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Esclavo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 2:23",
+        "original": "Ex. 2:23"
+      },
+      {
+        "reference": "Exodus 2:25",
+        "original": "Ex. 2:25"
+      },
+      {
+        "reference": "Isaiah 14:3",
+        "original": "Isa. 14:3"
+      },
+      {
+        "reference": "Ezra 9:8",
+        "original": "Ezra 9:8"
+      },
+      {
+        "reference": "Ezra 9:9",
+        "original": "Ezra 9:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "brazen-serpent": {
+    "name": "Serpiente de bronce",
+    "slug": "brazen-serpent",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Serpiente]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "bribe": {
+    "name": "Soborno",
+    "slug": "bribe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No debe aceptarse ninguno; “porque el soborno ciega a los que ven, y pervierte las palabras de los justos” (Éx. 23:8, traducido literalmente)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 23:8",
+        "original": "Ex. 23:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "burial": {
+    "name": "Sepultura",
+    "slug": "burial",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El primer entierro del que se tiene constancia es el de Sara (Gén. 23). La primera transacción comercial registrada es la de la compra de un lugar de sepultura, por el cual Abraham pesó a Efrón «cuatrocientos siclos de plata de buena ley entre mercaderes». Así, el patriarca se convirtió en dueño de una parte de la tierra de Canaán, la única parte que llegó a poseer. Cuando él mismo murió, «sus hijos Isaac e Ismael lo sepultaron en la cueva de Macpela», junto a Sara su esposa (Gén. 25:9). Débora, la nodriza de Rebeca, fue sepultada bajo Alón-bacut, «la encina del llanto» (Gén. 35:8), cerca de Betel. Raquel murió y fue sepultada cerca de Efrata; «y Jacob levantó un pinar sobre su sepulcro» (16-20). Isaac fue sepultado en Hebrón, donde había muerto (27, 29). Jacob, al encargar a sus hijos que lo sepultaran en la cueva de Macpela, dijo: «Allí sepultaron a Abraham y a Sara su mujer; allí sepultaron a Isaac y a Rebeca su mujer; y allí sepulté yo a Lea» (49:31). En cumplimiento del juramento que le hizo hacer (47:29-31), José, ayudado por sus hermanos, sepultó a Jacob en la cueva de Macpela (50:2, 13). En el Éxodo, Moisés «tomó consigo los huesos de José», y fueron sepultados en la «parcela de tierra» que Jacob había comprado a los hijos de Hamor (Jos. 24:32), que pasó a ser heredad de José (Gén. 48:22; 1 Cró. 5:1; Juan 4:5). Se mencionan dos entierros ocurridos en el desierto: el de María (Núm. 20:1) y el de Moisés, «en la tierra de Moab» (Deut. 34:5, 6, 8). No hay relato del entierro real de Aarón, el cual probablemente, sin embargo, tuvo lugar en la cumbre del monte Hor (Núm. 20:28, 29). Josué fue sepultado «en el territorio de su heredad, en Timnat-sera» (Jos. 24:30). En Job encontramos una referencia a los lugares de sepultura, que probablemente eran las pirámides (3:14, 15). La palabra hebrea para «lugares desolados» aquí se asemeja en sonido a la palabra egipcia para «pirámides». Samuel, al igual que Moisés, fue honrado con un entierro nacional (1 Sam. 25:1). Joab (1 Rey. 2:34) «fue sepultado en su propia casa en el desierto». En relación con el entierro de Saúl y sus tres hijos nos encontramos por primera vez con la práctica de quemar a los muertos (1 Sam. 31:11-13). Amós se refiere nuevamente a la misma práctica (6:10). Absalón fue sepultado «en el bosque» donde fue muerto (2 Sam. 18:17, 18). El levantamiento de un montón de piedras sobre su tumba tenía como objeto marcar el aborrecimiento hacia la persona enterrada (comp. Jos. 7:26 y 8:29). No había un lugar de sepultura real fijo para los reyes hebreos. Encontramos, sin embargo, que varios entierros reales tuvieron lugar «en la ciudad de David» (1 Rey. 2:10; 11:43; 15:8; 2 Rey. 14:19, 20; 15:38; 1 Rey. 14:31; 22:50; 2 Cró. 21:19, 20; 2 Cró. 24:25, etc.). Ezequías fue sepultado en la subida de los sepulcros de los hijos de David; «y todo Judá y los habitantes de Jerusalén le rindieron honores a su muerte» (2 Cró. 32:33). Poco se dice sobre el entierro de los reyes de Israel. Algunos de ellos fueron sepultados en Samaria, la capital de su reino (2 Rey. 10:35; 13:9; 14:16). Nuestro Señor fue sepultado en una tumba nueva, cavada en la roca, que José de Arimatea había preparado para sí mismo (Mat. 27:57-60; Mar. 15:46; Juan 19:41, 42). La tumba de Lázaro era «una cueva, y tenía una piedra puesta encima» (Juan 11:38). Las tumbas eran frecuentemente cavernas naturales o excavaciones artificiales formadas en las laderas de las rocas (Gén. 23:9; Mat. 27:60); y rara vez se usaban ataúdes, a menos que el cuerpo fuera traído desde lejos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23",
+        "original": "Gen. 23"
+      },
+      {
+        "reference": "Genesis 25:9",
+        "original": "Gen. 25:9"
+      },
+      {
+        "reference": "Genesis 35:8",
+        "original": "Gen. 35:8"
+      },
+      {
+        "reference": "Joshua 24:32",
+        "original": "Josh. 24:32"
+      },
+      {
+        "reference": "Genesis 48:22",
+        "original": "Gen. 48:22"
+      },
+      {
+        "reference": "1 Chronicles 5:1",
+        "original": "1 Chr. 5:1"
+      },
+      {
+        "reference": "John 4:5",
+        "original": "John 4:5"
+      },
+      {
+        "reference": "Numbers 20:1",
+        "original": "Num. 20:1"
+      },
+      {
+        "reference": "Deuteronomy 34:5",
+        "original": "Deut. 34:5"
+      },
+      {
+        "reference": "Deuteronomy 34:6",
+        "original": "Deut 34:6"
+      },
+      {
+        "reference": "Deuteronomy 34:8",
+        "original": "Deut 34:8"
+      },
+      {
+        "reference": "Numbers 20:28",
+        "original": "Num. 20:28"
+      },
+      {
+        "reference": "Numbers 20:29",
+        "original": "Num 20:29"
+      },
+      {
+        "reference": "Joshua 24",
+        "original": "Josh. 24"
+      },
+      {
+        "reference": "1 Samuel 25:1",
+        "original": "1 Sam. 25:1"
+      },
+      {
+        "reference": "1 Kings 2:34",
+        "original": "1 Kings 2:34"
+      },
+      {
+        "reference": "1 Samuel 31:11-13",
+        "original": "1 Sam. 31:11-13"
+      },
+      {
+        "reference": "2 Samuel 18:17",
+        "original": "2 Sam. 18:17"
+      },
+      {
+        "reference": "2 Samuel 18:18",
+        "original": "2 Sam. 18:18"
+      },
+      {
+        "reference": "Joshua 7:26",
+        "original": "Josh. 7:26"
+      },
+      {
+        "reference": "1 Kings 2:10",
+        "original": "1 Kings 2:10"
+      },
+      {
+        "reference": "1 Kings 11:43",
+        "original": "1 Kings 11:43"
+      },
+      {
+        "reference": "1 Kings 15:8",
+        "original": "1 Kings 15:8"
+      },
+      {
+        "reference": "2 Kings 14:19",
+        "original": "2 Kings 14:19"
+      },
+      {
+        "reference": "2 Kings 14:20",
+        "original": "2 Kings 14:20"
+      },
+      {
+        "reference": "2 Kings 15:38",
+        "original": "2 Kings 15:38"
+      },
+      {
+        "reference": "1 Kings 14:31",
+        "original": "1 Kings 14:31"
+      },
+      {
+        "reference": "1 Kings 22:50",
+        "original": "1 Kings 22:50"
+      },
+      {
+        "reference": "2 Chronicles 21:19",
+        "original": "2 Chr. 21:19"
+      },
+      {
+        "reference": "2 Chronicles 21:20",
+        "original": "2 Chr. 21:20"
+      },
+      {
+        "reference": "2 Chronicles 24:25",
+        "original": "2 Chr. 24:25"
+      },
+      {
+        "reference": "2 Chronicles 32:33",
+        "original": "2 Chr. 32:33"
+      },
+      {
+        "reference": "2 Kings 10:35",
+        "original": "2 Kings 10:35"
+      },
+      {
+        "reference": "2 Kings 13:9",
+        "original": "2 Kings 13:9"
+      },
+      {
+        "reference": "2 Kings 14:16",
+        "original": "2 Kings 14:16"
+      },
+      {
+        "reference": "Matthew 27:57-60",
+        "original": "Matt. 27:57-60"
+      },
+      {
+        "reference": "Mark 15:46",
+        "original": "Mark 15:46"
+      },
+      {
+        "reference": "John 19:41",
+        "original": "John 19:41"
+      },
+      {
+        "reference": "John 19:42",
+        "original": "John 19:42"
+      },
+      {
+        "reference": "John 11:38",
+        "original": "John 11:38"
+      },
+      {
+        "reference": "Genesis 23:9",
+        "original": "Gen. 23:9"
+      },
+      {
+        "reference": "Matthew 27:60",
+        "original": "Matt. 27:60"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "burial-sepulchres": {
+    "name": "Sepultura, Sepulcros",
+    "slug": "burial-sepulchres",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[TUMBAS] Sobre este tema debemos notar—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 2:10",
+        "original": "1 Kings 2:10"
+      },
+      {
+        "reference": "1 Kings 16:6",
+        "original": "1 Kings 16:6"
+      },
+      {
+        "reference": "1 Kings 16:28",
+        "original": "1 Kings 16:28"
+      },
+      {
+        "reference": "Ezekiel 39:15",
+        "original": "Ezekiel 39:15"
+      },
+      {
+        "reference": "Matthew 23:27",
+        "original": "Matthew 23:27"
+      },
+      {
+        "reference": "2 Chronicles 16:10",
+        "original": "2 Chronicles 16:10"
+      },
+      {
+        "reference": "Acts 5:6",
+        "original": "Acts 5:6"
+      },
+      {
+        "reference": "Acts 5:10",
+        "original": "Acts 5:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
   }
 }

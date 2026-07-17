@@ -384,5 +384,225 @@
       "EAS"
     ],
     "letter": "m"
+  },
+  "blot": {
+    "name": "Mancha",
+    "slug": "blot",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una mancha o reproche (Job 31:7; Prov. 9:7). Borrar el pecado es perdonarlo (Sal. 51:1, 9; Is. 44:22; Hechos 3:19). El que Cristo borrara el acta de los decretos fue su cumplimiento de la ley en nuestro favor (Col. 2:14)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 31:7",
+        "original": "Job 31:7"
+      },
+      {
+        "reference": "Proverbs 9:7",
+        "original": "Prov. 9:7"
+      },
+      {
+        "reference": "Psalms 51:1",
+        "original": "Ps. 51:1"
+      },
+      {
+        "reference": "Psalms 51:9",
+        "original": "Ps. 51:9"
+      },
+      {
+        "reference": "Isaiah 44:22",
+        "original": "Isa. 44:22"
+      },
+      {
+        "reference": "Acts 3:19",
+        "original": "Acts 3:19"
+      },
+      {
+        "reference": "Colossians 2:14",
+        "original": "Col. 2:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "bunch": {
+    "name": "Manojo",
+    "slug": "bunch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Un manojo de ramas (Éx. 12:22). (2.) Racimo o torta de uvas pasas (2 Sam. 16:1). (3.) La «giba o joroba de un camello» (Is. 30:6)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 12:22",
+        "original": "Ex. 12:22"
+      },
+      {
+        "reference": "2 Samuel 16:1",
+        "original": "2 Sam. 16:1"
+      },
+      {
+        "reference": "Isaiah 30:6",
+        "original": "Isa. 30:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "butter": {
+    "name": "Mantequilla",
+    "slug": "butter",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. hemah), leche cuajada (Gén. 18:8; Jue. 5:25; 2 Sam. 17:29), o mantequilla en forma de la nata de la leche caliente o crema, llamada por los árabes kaimak, un semifluido (Job 20:17; 29:6; Deut. 32:14). Las palabras de Prov. 30:33 han sido traducidas por algunos como «la presión [no el batido] de la leche produce queso»."
+      },
+      {
+        "source": "SMI",
+        "text": "Leche cuajada. (Génesis 18:8; 32:14; Jueces 5:25; Job 20:17) Por lo general, la leche se ofrece a los viajeros en Palestina en un estado cuajado o agrio, leben, espeso, casi como la mantequilla. Hasselquist describe el método para hacer mantequilla empleado por las mujeres árabes: «hacían mantequilla en un odre de cuero, colgado de tres postes erigidos para tal fin, en forma de cono, y sacudido de un lado a otro por dos mujeres»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 18:8",
+        "original": "Gen. 18:8"
+      },
+      {
+        "reference": "Judges 5:25",
+        "original": "Judg. 5:25"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Sam. 17:29"
+      },
+      {
+        "reference": "Job 20:17",
+        "original": "Job 20:17"
+      },
+      {
+        "reference": "Job 29:6",
+        "original": "Job 29:6"
+      },
+      {
+        "reference": "Deuteronomy 32:14",
+        "original": "Deut. 32:14"
+      },
+      {
+        "reference": "Proverbs 30:33",
+        "original": "Prov. 30:33"
+      },
+      {
+        "reference": "Genesis 32:14",
+        "original": "Genesis 32:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "changes-of-raiment": {
+    "name": "Mudas de vestidos",
+    "slug": "changes-of-raiment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Eran consideradas entre los tesoros de los hombres ricos (Gén. 45:22; Jue. 14:12, 13; 2 Reyes 5:22, 23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 45:22",
+        "original": "Gen. 45:22"
+      },
+      {
+        "reference": "Judges 14:12",
+        "original": "Judg. 14:12"
+      },
+      {
+        "reference": "Judges 14:13",
+        "original": "Judg 14:13"
+      },
+      {
+        "reference": "2 Kings 5:22",
+        "original": "2 Kings 5:22"
+      },
+      {
+        "reference": "2 Kings 5:23",
+        "original": "2 Kings 5:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "chapman": {
+    "name": "Mercader",
+    "slug": "chapman",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(es decir, hombre de negocios o buhonero), comerciante."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "cheek": {
+    "name": "Mejilla",
+    "slug": "cheek",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Herir en la mejilla se consideraba una grave ofensa e insulto (Job 16:10; Lam. 3:30; Miq. 5:1). La amonestación (Lucas 6:29), «Al que te hiera en una mejilla, preséntale también la otra», significa simplemente: «No resistáis al mal» (Mt. 5:39; 1 Pe. 2:19-23). Sal. 3:7 = significa que Dios había privado a sus enemigos del poder de hacerle daño."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 16:10",
+        "original": "Job 16:10"
+      },
+      {
+        "reference": "Lamentations 3:30",
+        "original": "Lam. 3:30"
+      },
+      {
+        "reference": "Micah 5:1",
+        "original": "Micah 5:1"
+      },
+      {
+        "reference": "Luke 6:29",
+        "original": "Luke 6:29"
+      },
+      {
+        "reference": "Matthew 5:39",
+        "original": "Matt. 5:39"
+      },
+      {
+        "reference": "1 Peter 2:19-23",
+        "original": "1 Pet. 2:19-23"
+      },
+      {
+        "reference": "Psalms 3:7",
+        "original": "Ps. 3:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
   }
 }

@@ -74,5 +74,196 @@
       "EAS"
     ],
     "letter": "n"
+  },
+  "black": {
+    "name": "Negro",
+    "slug": "black",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Propiamente, la ausencia de todo color. En Prov. 7:9, la palabra hebrea significa, como en el margen de la Versión Revisada, «la pupila del ojo». Se traduce como «niña» del ojo en Deut. 32:10; Sal. 17:8; Prov. 7:2. Es una palabra diferente la que se traduce como «negro» en Lev. 13:31, 37; Cant. 1:5; 5:11; y Zac. 6:2, 6. Es incierto qué era el «mármol negro» de Ester 1:6 que formaba parte del pavimento de mosaico."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 7:9",
+        "original": "Prov. 7:9"
+      },
+      {
+        "reference": "Deuteronomy 32:10",
+        "original": "Deut. 32:10"
+      },
+      {
+        "reference": "Psalms 17:8",
+        "original": "Ps. 17:8"
+      },
+      {
+        "reference": "Proverbs 7:2",
+        "original": "Prov. 7:2"
+      },
+      {
+        "reference": "Leviticus 13:31",
+        "original": "Lev. 13:31"
+      },
+      {
+        "reference": "Leviticus 13:37",
+        "original": "Lev. 13:37"
+      },
+      {
+        "reference": "Song of Solomon 1:5",
+        "original": "Cant. 1:5"
+      },
+      {
+        "reference": "Song of Solomon 5:11",
+        "original": "Cant 5:11"
+      },
+      {
+        "reference": "Zechariah 6:2",
+        "original": "Zech. 6:2"
+      },
+      {
+        "reference": "Zechariah 6:6",
+        "original": "Zech. 6:6"
+      },
+      {
+        "reference": "Esther 1:6",
+        "original": "Esther 1:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  },
+  "bride": {
+    "name": "Novia",
+    "slug": "bride",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Frecuentemente utilizado en su sentido ordinario (Is. 49:18; 61:10, etc.). La relación entre Cristo y su iglesia se presenta bajo la figura de la relación entre un novio y una novia (Juan 3:29). La iglesia es llamada “la novia” (Apoc. 21:9; 22:17). Compárese con la parábola de las diez vírgenes (Mt. 25:1-13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 49:18",
+        "original": "Isa. 49:18"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isa 61:10"
+      },
+      {
+        "reference": "John 3:29",
+        "original": "John 3:29"
+      },
+      {
+        "reference": "Revelation 21:9",
+        "original": "Rev. 21:9"
+      },
+      {
+        "reference": "Revelation 22:17",
+        "original": "Rev 22:17"
+      },
+      {
+        "reference": "Matthew 25:1-13",
+        "original": "Matt. 25:1-13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  },
+  "bride-bridegroom": {
+    "name": "Novia, Novio",
+    "slug": "bride-bridegroom",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Matrimonio]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "bullock": {
+    "name": "Novillo",
+    "slug": "bullock",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Traducción de una palabra que es un nombre genérico para el ganado con cuernos (Is. 65:25). También se traduce como «vaca» (Ez. 4:15), «buey» (Gén. 12:16). (2.) Traducción de una palabra que siempre significa un animal de la especie bovina, sin distinción de edad o sexo (Os. 12:11). Se traduce como «vaca» (Núm. 18:17) y «buey» (Lev. 17:3). (3.) Otra palabra se traduce de la misma manera (Jer. 31:18). También se traduce como «becerro» (Lev. 9:3; Miq. 6:6). Es la misma palabra usada para el «becerro de fundición» (Éx. 32:4, 8) y «el becerro de oro» (1 Rey. 12:28). (4.) En Jue. 6:25; Is. 34:7, la palabra hebrea es diferente. Es la palabra habitual para los toros ofrecidos en sacrificio. En Os. 14:2, la Versión Autorizada tiene «becerros», la Versión Revisada «novillos»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isa. 65:25"
+      },
+      {
+        "reference": "Ezekiel 4:15",
+        "original": "Ezek. 4:15"
+      },
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Hosea 12:11",
+        "original": "Hos. 12:11"
+      },
+      {
+        "reference": "Numbers 18:17",
+        "original": "Num. 18:17"
+      },
+      {
+        "reference": "Leviticus 17:3",
+        "original": "Lev. 17:3"
+      },
+      {
+        "reference": "Jeremiah 31:18",
+        "original": "Jer. 31:18"
+      },
+      {
+        "reference": "Leviticus 9:3",
+        "original": "Lev. 9:3"
+      },
+      {
+        "reference": "Micah 6:6",
+        "original": "Micah 6:6"
+      },
+      {
+        "reference": "Exodus 32:4",
+        "original": "Ex. 32:4"
+      },
+      {
+        "reference": "Exodus 32:8",
+        "original": "Ex 32:8"
+      },
+      {
+        "reference": "1 Kings 12:28",
+        "original": "1 Kings 12:28"
+      },
+      {
+        "reference": "Judges 6:25",
+        "original": "Judg. 6:25"
+      },
+      {
+        "reference": "Isaiah 34:7",
+        "original": "Isa. 34:7"
+      },
+      {
+        "reference": "Hosea 14:2",
+        "original": "Hos. 14:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
   }
 }

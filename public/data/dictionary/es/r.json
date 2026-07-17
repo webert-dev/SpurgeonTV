@@ -62,5 +62,141 @@
       "EAS"
     ],
     "letter": "r"
+  },
+  "branch": {
+    "name": "Rama",
+    "slug": "branch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Símbolo de reyes descendientes de antepasados reales (Ez. 17:3, 10; Dan. 11:7); de prosperidad (Job 8:16); del Mesías, una rama o renuevo de la raíz del tronco de Isaí (Is. 11:1), el “renuevo hermoso” (4:2), un “renuevo justo” (Jer. 23:5), “el Renuevo” (Zac. 3:8; 6:12). Los discípulos son ramas de la vid verdadera (Juan 15:5, 6). “La rama de los terribles” (Is. 25:5) se traduce correctamente en la Versión Revisada como “el canto de los terribles”, es decir, el canto de victoria será humillado por la destrucción de Babilonia y el regreso de los judíos del cautiverio. La “rama abominable” es un árbol en el que se ha colgado a un malhechor (Is. 14:19). La “rama más alta” en Ez. 17:3 representa al rey Joaquín."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 17:3",
+        "original": "Ezek. 17:3"
+      },
+      {
+        "reference": "Ezekiel 17:10",
+        "original": "Ezek 17:10"
+      },
+      {
+        "reference": "Daniel 11:7",
+        "original": "Dan. 11:7"
+      },
+      {
+        "reference": "Job 8:16",
+        "original": "Job 8:16"
+      },
+      {
+        "reference": "Isaiah 11:1",
+        "original": "Isa. 11:1"
+      },
+      {
+        "reference": "Jeremiah 23:5",
+        "original": "Jer. 23:5"
+      },
+      {
+        "reference": "Zechariah 3:8",
+        "original": "Zech. 3:8"
+      },
+      {
+        "reference": "Zechariah 6:12",
+        "original": "Zech 6:12"
+      },
+      {
+        "reference": "John 15:5",
+        "original": "John 15:5"
+      },
+      {
+        "reference": "John 15:6",
+        "original": "John 15:6"
+      },
+      {
+        "reference": "Isaiah 25:5",
+        "original": "Isa. 25:5"
+      },
+      {
+        "reference": "Isaiah 14:19",
+        "original": "Isa. 14:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "bruit": {
+    "name": "Rumor",
+    "slug": "bruit",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un rumor o reporte (Jer. 10:22, RV “rumor”; Nah. 3:19)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 10:22",
+        "original": "Jer. 10:22"
+      },
+      {
+        "reference": "Nahum 3:19",
+        "original": "Nah. 3:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "cauls": {
+    "name": "Redecillas",
+    "slug": "cauls",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Is. 3:18 esta palabra (Heb. shebisim), en el margen «redes», denota gorros de malla o redecillas para contener el cabello, usados por las mujeres. Otros lo explican en el sentido de «guirnaldas o diademas que se usan alrededor de la frente, y que van de una oreja a la otra»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "churl": {
+    "name": "Ruín / Mezquino",
+    "slug": "churl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Is. 32:5 (R.V. margen, «astuto»), significa un engañador. En 1 Sam. 25:3, la palabra churlish (áspero/mezquino) denota a un hombre que es tosco y de mal carácter, o, como la palabra significa literalmente, «duro». La misma palabra griega utilizada aquí por la LXX se encuentra en Mat. 25:24, y allí se traduce como «duro»."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 32:5",
+        "original": "Isa. 32:5"
+      },
+      {
+        "reference": "1 Samuel 25:3",
+        "original": "1 Sam. 25:3"
+      },
+      {
+        "reference": "Matthew 25:24",
+        "original": "Matt. 25:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
   }
 }

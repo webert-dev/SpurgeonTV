@@ -247,5 +247,238 @@
       "EAS"
     ],
     "letter": "p"
+  },
+  "bread": {
+    "name": "Pan",
+    "slug": "bread",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Entre los judíos generalmente se hacía de trigo (Éx. 29:2; Jue. 6:19), aunque a veces también de otros granos (Gén. 14:18; Jue. 7:13). El grano tostado se usaba a veces como alimento sin ninguna otra preparación (Rut 2:14). El pan se preparaba amasando en fuentes de madera o “artesas de amasar” (Gén. 18:6; Éx. 12:34; Jer. 7:18). La masa se mezclaba con levadura y se le daba forma de tortas delgadas, redondas u ovaladas, y luego se horneaba. El pan que se comía en la Pascua siempre era sin levadura (Éx. 12:15-20; Deut. 16:3). En las ciudades había hornos públicos, que se utilizaban mucho para cocer pan; también había panaderos de oficio (Os. 7:4; Jer. 37:21). Sus hornos no eran muy diferentes a los de los tiempos modernos. Pero a veces el pan se horneaba colocándolo sobre el suelo que había sido calentado por un fuego y cubriéndolo con las brasas (1 Reyes 19:6). Este fue probablemente el modo en que Sara preparó el pan en la ocasión mencionada en Gén. 18:6. En Lev. 2 hay una descripción de los diferentes tipos de pan y tortas que usaban los judíos. (Ver COCER). El pan de la proposición consistía en doce panes sin levadura preparados y presentados calientes sobre la mesa de oro cada sábado. Eran cuadrados u oblongos y representaban a las doce tribus de Israel. Los panes viejos se quitaban cada sábado y debían ser comidos únicamente por los sacerdotes en el atrio del santuario (Éx. 25:30; Lev. 24:8; 1 Sam. 21:1-6; Mat. 12:4). La palabra pan se usa figuradamente en expresiones como “pan de dolores” (Sal. 127:2), “pan de lágrimas” (80:5), es decir, el dolor y las lágrimas son como el pan de cada día, forman una parte muy importante de la vida. El pan de “impiedad” (Prov. 4:17) y “de mentira” (20:17) denotan de igual manera que la impiedad y el engaño son parte de la vida diaria."
+      },
+      {
+        "source": "SMI",
+        "text": "La preparación del pan como artículo de consumo data de una época muy temprana (Génesis 18:6). El grano empleado era de varios tipos. El mejor pan se hacía de trigo, pero también se usaban “cebada” y espelta (Juan 6:9,13; Isaías 28:25). El proceso de elaboración del pan era el siguiente: primero se mezclaba la harina con agua o leche; luego se amasaba con las manos (en Egipto también con los pies) en un recipiente pequeño de madera o “artesa de amasar” hasta convertirse en masa (Éxodo 12:34,39; 2 Samuel 13:3; Jeremías 7:18). Una vez finalizado el amasado, generalmente se añadía levadura [ver Levadura]; pero cuando el tiempo de preparación era corto, se omitía, y se comían panes sin levadura, cocidos rápidamente, como sigue siendo costumbre habitual entre los beduinos (Génesis 18:6; 19:3; Éxodo 12:39; Jueces 6:19; 1 Samuel 28:24). Se dejaba reposar la masa con levadura durante algún tiempo (Mateo 13:33; Lucas 13:21), luego la masa se dividía en tortas redondas (Éxodo 29:23; Jueces 7:13; 8:5; 1 Samuel 10:3; Proverbios 6:26), no muy diferentes de piedras planas en forma y apariencia (Mateo 7:9), comp. Mat 4:8, de aproximadamente un palmo de diámetro y un dedo de grosor. En las ciudades donde residían panaderos profesionales, sin duda había hornos fijos, de forma y tamaño semejantes a los nuestros; pero más comúnmente cada hogar poseía un horno portátil, que consistía en una vasija de piedra o metal, de unos tres pies de altura, que se calentaba por dentro con leña (1 Reyes 17:12; Isaías 44:15; Jeremías 7:18) o hierba seca y tallos de flores (Mateo 6:30)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:2",
+        "original": "Ex. 29:2"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judg. 6:19"
+      },
+      {
+        "reference": "Genesis 14:18",
+        "original": "Gen. 14:18"
+      },
+      {
+        "reference": "Judges 7:13",
+        "original": "Judg. 7:13"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Gen. 18:6"
+      },
+      {
+        "reference": "Exodus 12:34",
+        "original": "Ex. 12:34"
+      },
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Exodus 12:15-20",
+        "original": "Ex. 12:15-20"
+      },
+      {
+        "reference": "Deuteronomy 16:3",
+        "original": "Deut. 16:3"
+      },
+      {
+        "reference": "Hosea 7:4",
+        "original": "Hos. 7:4"
+      },
+      {
+        "reference": "Jeremiah 37:21",
+        "original": "Jer. 37:21"
+      },
+      {
+        "reference": "1 Kings 19:6",
+        "original": "1 Kings 19:6"
+      },
+      {
+        "reference": "Leviticus 2",
+        "original": "Lev. 2"
+      },
+      {
+        "reference": "Exodus 25:30",
+        "original": "Ex. 25:30"
+      },
+      {
+        "reference": "Leviticus 24:8",
+        "original": "Lev. 24:8"
+      },
+      {
+        "reference": "1 Samuel 21:1-6",
+        "original": "1 Sam. 21:1-6"
+      },
+      {
+        "reference": "Matthew 12:4",
+        "original": "Matt. 12:4"
+      },
+      {
+        "reference": "Psalms 127:2",
+        "original": "Ps. 127:2"
+      },
+      {
+        "reference": "Proverbs 4:17",
+        "original": "Prov. 4:17"
+      },
+      {
+        "reference": "John 6:9",
+        "original": "John 6:9"
+      },
+      {
+        "reference": "John 6:13",
+        "original": "John 6:13"
+      },
+      {
+        "reference": "Isaiah 28:25",
+        "original": "Isaiah 28:25"
+      },
+      {
+        "reference": "Exodus 12:39",
+        "original": "Exodus 12:39"
+      },
+      {
+        "reference": "2 Samuel 13:3",
+        "original": "2 Samuel 13:3"
+      },
+      {
+        "reference": "Genesis 19:3",
+        "original": "Genesis 19:3"
+      },
+      {
+        "reference": "1 Samuel 28:24",
+        "original": "1 Samuel 28:24"
+      },
+      {
+        "reference": "Matthew 13:33",
+        "original": "Matthew 13:33"
+      },
+      {
+        "reference": "Luke 13:21",
+        "original": "Luke 13:21"
+      },
+      {
+        "reference": "Exodus 29:23",
+        "original": "Exodus 29:23"
+      },
+      {
+        "reference": "Judges 8:5",
+        "original": "Judges 8:5"
+      },
+      {
+        "reference": "1 Samuel 10:3",
+        "original": "1 Samuel 10:3"
+      },
+      {
+        "reference": "Proverbs 6:26",
+        "original": "Proverbs 6:26"
+      },
+      {
+        "reference": "Matthew 7:9",
+        "original": "Matthew 7:9"
+      },
+      {
+        "reference": "Matthew 4:8",
+        "original": "Matt 4:8"
+      },
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "Isaiah 44:15",
+        "original": "Isaiah 44:15"
+      },
+      {
+        "reference": "Matthew 6:30",
+        "original": "Matthew 6:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "cankerworm": {
+    "name": "Pulgón",
+    "slug": "cankerworm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. yelek), «la langosta lamedora», que lame la hierba del campo; probablemente la langosta en cierta etapa de su crecimiento, justo cuando emerge del estado de oruga (Joel 1:4; 2:25). La palabra se traduce como «oruga» en Sal. 105:34; Jer. 51:14, 17 (pero en la R.V. «pulgón»). «Se despoja y vuela» (Nah. 3:16), o como algunos leen el pasaje, «el pulgón se despoja [es decir, de la envoltura de sus alas] y vuela»."
+      },
+      {
+        "source": "SMI",
+        "text": "[Langosta]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      },
+      {
+        "reference": "Psalms 105:34",
+        "original": "Ps. 105:34"
+      },
+      {
+        "reference": "Jeremiah 51:14",
+        "original": "Jer. 51:14"
+      },
+      {
+        "reference": "Jeremiah 51:17",
+        "original": "Jer. 51:17"
+      },
+      {
+        "reference": "Nahum 3:16",
+        "original": "Nah. 3:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "chalk-stones": {
+    "name": "Piedras de cal",
+    "slug": "chalk-stones",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Cal]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
   }
 }

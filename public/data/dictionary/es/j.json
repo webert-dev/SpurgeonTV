@@ -1,0 +1,133 @@
+{
+  "boar": {
+    "name": "Jabalí",
+    "slug": "boar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre solo en el Sal. 80:13. La misma palabra hebrea se traduce en otros lugares como «cerdo» (Lev. 11:7; Deut. 14:8; Prov. 11:22; Is. 65:4; 66:3, 17). Los hebreos aborrecían la carne de cerdo y, por consiguiente, no se criaba ninguno de estos animales, excepto en la región más allá del Mar de Galilea. En el salmo citado anteriormente, los poderes que destruyeron a la nación judía se comparan con jabalíes y bestias salvajes del campo."
+      },
+      {
+        "source": "SMI",
+        "text": "[Cerdo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 80:13",
+        "original": "Ps. 80:13"
+      },
+      {
+        "reference": "Leviticus 11:7",
+        "original": "Lev. 11:7"
+      },
+      {
+        "reference": "Deuteronomy 14:8",
+        "original": "Deut. 14:8"
+      },
+      {
+        "reference": "Proverbs 11:22",
+        "original": "Prov. 11:22"
+      },
+      {
+        "reference": "Isaiah 65:4",
+        "original": "Isa. 65:4"
+      },
+      {
+        "reference": "Isaiah 66:3",
+        "original": "Isa 66:3"
+      },
+      {
+        "reference": "Isaiah 66:17",
+        "original": "Isa 66:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "bulrush": {
+    "name": "Junco",
+    "slug": "bulrush",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) En Is. 58:5 la traducción de una palabra que denota «perteneciente a un pantano», por la naturaleza del suelo en el que crece (Is. 18:2). A veces se trenzaba en cuerdas (Job 41:2; versión KJV, «gancho», versión RV, «cuerda», lit. «cuerda de juncos»). (2.) En Éx. 2:3, Is. 18:2 (RV, «papiro») esta palabra es la traducción del hebreo gome, que designa a la planta como absorbente de humedad. En Is. 35:7 y Job 8:11 se traduce como «junco». Este era el papiro egipcio (papyrus Nilotica). Antiguamente era muy abundante en Egipto. Los egipcios hacían de él vestidos, calzado y diversos utensilios. Se utilizó para la construcción del arca de Moisés (Éx. 2:3, 5). Las partes de la raíz del tallo se utilizaban como alimento. La corteza interior se cortaba en tiras, que se cosían y se secaban al sol, formando el papiro utilizado para escribir. Ya no se encuentra en Egipto, pero crece exuberantemente en Palestina, en los pantanos del Huleh y en las ciénagas del extremo norte del lago de Genesaret. (Ver CAÑA)."
+      },
+      {
+        "source": "SMI",
+        "text": "(o papiro), una caña que crece en las aguas poco profundas a las orillas del Nilo. Crece hasta una altura de 12 o 15 pies, con un tallo de dos o tres pulgadas de diámetro. Los tallos son muy flexibles y se pueden entrelazar de forma muy estrecha, como lo demuestra el hecho de haber sido utilizados en la construcción de arcas. (Éxodo 2:3,5) De esta planta se hacía el papel, de donde deriva su nombre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 58:5",
+        "original": "Isa. 58:5"
+      },
+      {
+        "reference": "Isaiah 18:2",
+        "original": "Isa. 18:2"
+      },
+      {
+        "reference": "Job 41:2",
+        "original": "Job. 41:2"
+      },
+      {
+        "reference": "Exodus 2:3",
+        "original": "Ex. 2:3"
+      },
+      {
+        "reference": "Isaiah 35:7",
+        "original": "Isa. 35:7"
+      },
+      {
+        "reference": "Job 8:11",
+        "original": "Job 8:11"
+      },
+      {
+        "reference": "Exodus 2:5",
+        "original": "Ex. 2:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "cage": {
+    "name": "Jaula",
+    "slug": "cage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. kelub, Jer. 5:27, marg. «jaula»; traducido «canasta» en Amós 8:1), una cesta de mimbre en la que se colocaban las aves después de ser capturadas. En Apoc. 18:2 es la traducción del griego phulake, propiamente una prisión o lugar de confinamiento."
+      },
+      {
+        "source": "SMI",
+        "text": "El término así traducido en (Jeremías 5:27) es más propiamente una trampa en la que se colocaban aves señuelo. En (Apocalipsis 18:2) el término griego significa una prisión."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 5:27",
+        "original": "Jer. 5:27"
+      },
+      {
+        "reference": "Amos 8:1",
+        "original": "Amos 8:1"
+      },
+      {
+        "reference": "Revelation 18:2",
+        "original": "Rev. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  }
+}
