@@ -16105,26 +16105,6 @@
     ],
     "letter": "j"
   },
-  "telah": {
-    "name": "Já",
-    "slug": "telah",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(vigor), descendente de Efraim e antepassado de Josué. (1 Crônicas 7:25) (antes de 1491 a.C.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 7:25",
-        "original": "1 Chronicles 7:25"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "j"
-  },
   "telmelah": {
     "name": "Já foi",
     "slug": "telmelah",
@@ -16480,6 +16460,42 @@
     "scripture_refs": [],
     "sources": [
       "SMI"
+    ],
+    "letter": "j"
+  },
+  "winnow": {
+    "name": "Joeirar",
+    "slug": "winnow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O milho era peneirado: (1.) Lançando-o para cima com uma pá, contra o vento. Via de regra, isso era feito à tarde ou durante a noite, quando soprava o vento oeste vindo do mar, que era uma brisa moderada e adequada para esse fim. O vento norte era forte demais, e o vento leste soprava em rajadas. (2.) Com o uso de um leque ou pá de joeirar, com o qual o joio era soprado para longe (Rute 3:2; Isaías 30:24; Jeremias 4:11, 12; Mateus 3:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Isaiah 30:24",
+        "original": "Isa. 30:24"
+      },
+      {
+        "reference": "Jeremiah 4:11",
+        "original": "Jer. 4:11"
+      },
+      {
+        "reference": "Jeremiah 4:12",
+        "original": "Jer. 4:12"
+      },
+      {
+        "reference": "Matthew 3:12",
+        "original": "Matt. 3:12"
+      }
+    ],
+    "sources": [
+      "EAS"
     ],
     "letter": "j"
   }

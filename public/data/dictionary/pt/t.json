@@ -10269,5 +10269,25 @@
       "SMI"
     ],
     "letter": "t"
+  },
+  "telah": {
+    "name": "Telah",
+    "slug": "telah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(vigor), descendente de Efraim e antepassado de Josué. (1 Crônicas 7:25) (antes de 1491 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:25",
+        "original": "1 Chronicles 7:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
   }
 }

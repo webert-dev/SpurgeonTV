@@ -5194,34 +5194,6 @@
     ],
     "letter": "o"
   },
-  "shaalabbin": {
-    "name": "O arco-íris",
-    "slug": "shaalabbin",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Ou Shaal’bim, um lugar de raposas, uma cidade da tribo de Dã (Josué 19:42; Juízes 1:35). Era uma das principais cidades de onde Salomão obtinha seus suprimentos (1 Reis 4:9). Provavelmente corresponde à aldeia moderna de Selbit, 3 milhas ao norte de Ajalon."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Joshua 19:42",
-        "original": "Josh. 19:42"
-      },
-      {
-        "reference": "Judges 1:35",
-        "original": "Judg. 1:35"
-      },
-      {
-        "reference": "1 Kings 4:9",
-        "original": "1 Kings 4:9"
-      }
-    ],
-    "sources": [
-      "EAS"
-    ],
-    "letter": "o"
-  },
   "shaaph": {
     "name": "O Pastor",
     "slug": "shaaph",
@@ -7123,6 +7095,46 @@
     ],
     "sources": [
       "SMI"
+    ],
+    "letter": "o"
+  },
+  "word-the": {
+    "name": "O Verbo",
+    "slug": "word-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(grego: Logos), um dos títulos de nosso Senhor, encontrado apenas nos escritos de João (João 1:1-14; 1 João 1:1; Apocalipse 19:13). Como tal, Cristo é o revelador de Deus. Sua função é dar a conhecer a Deus. “Ninguém jamais viu a Deus; o Filho unigênito, que está no seio do Pai, é quem o revelou” (João 1:18). Esse título designa a natureza divina de Cristo. Como o Verbo, ele “estava no princípio” e “se fez carne”. “O Verbo estava com Deus” e “era Deus”, e era o Criador de todas as coisas (cf. Salmos 33:6; 107:20; 119:89; 147:18; Isaías 40:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 1:1-14",
+        "original": "John 1:1-14"
+      },
+      {
+        "reference": "1 John 1:1",
+        "original": "1 John 1:1"
+      },
+      {
+        "reference": "Revelation 19:13",
+        "original": "Rev. 19:13"
+      },
+      {
+        "reference": "John 1:18",
+        "original": "John 1:18"
+      },
+      {
+        "reference": "Psalms 33",
+        "original": "Ps. 33"
+      },
+      {
+        "reference": "Isaiah 40:8",
+        "original": "Isa. 40:8"
+      }
+    ],
+    "sources": [
+      "EAS"
     ],
     "letter": "o"
   }

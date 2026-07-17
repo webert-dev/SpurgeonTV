@@ -8577,131 +8577,6 @@
     ],
     "letter": "l"
   },
-  "seal": {
-    "name": "Lá",
-    "slug": "seal",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Geralmente, um anel gravado com algum símbolo (Gênesis 38:18, 25). Jezabel “escreveu cartas em nome de Acabe e as selou com o selo dele” (1 Reis 21:8). Os selos são frequentemente mencionados na história judaica (Dt 32:34; Ne 9:38; 10:1; Ester 3:12; Cânt. 8:6; Isaías 8:16; Jeremias 22:24; 32:44, etc.). Selar um documento equivalia à assinatura do proprietário do selo. “O uso de um anel com sinete pelo monarca recebeu recentemente uma ilustração notável com a descoberta de uma impressão desse sinete em argila fina em Koyunjik, local da antiga Nínive. Esse selo parece ter sido impresso a partir da moldura de um anel metálico. É oval, com 2 polegadas de comprimento por 1 polegada de largura, e traz a imagem, o nome e os títulos do rei egípcio Sabaco” (Hist. Illus. of the O.T., de Rawlinson, p. 46). Foram descobertos os anéis-sinete de dois reis egípcios (Quíops e Hórus). (Ver SINETE.) O uso de selos é mencionado no Novo Testamento apenas em relação ao relato do sepultamento de nosso Senhor (Mt 27,66). O túmulo foi selado pelos fariseus e pelos sumos sacerdotes com o objetivo de garantir que os discípulos não viessem e roubassem o corpo (versículos 63 e 64). Provavelmente, isso foi feito esticando-se uma corda sobre a pedra e selando-a em ambas as extremidades com argila de selagem. Quando se diz que Deus selou o Redentor, o significado é que Ele atestou sua missão divina (João 6:27). A circuncisão é um selo, um atestado da aliança (Rom. 4:11). Os crentes são selados com o Espírito, como marca de Deus colocada sobre eles (Ef 1,13; 4,30). Os convertidos são chamados por Paulo de “selo do seu apostolado”, ou seja, são a atestação deste (1 Cor 9,2). Selos e o ato de selar são frequentemente mencionados no livro do Apocalipse (5:1; 6:1; 7:3; 10:4; 22:10)."
-      },
-      {
-        "source": "SMI",
-        "text": "A importância atribuída aos selos no Oriente é tão grande que, sem um selo, nenhum documento é considerado autêntico. Entre os métodos de selagem utilizados no Egito em um período muito antigo estavam pedras gravadas, perfuradas ao longo de seu comprimento e penduradas por um cordão ou corrente no braço ou no pescoço, ou encaixadas em anéis para o dedo. A forma mais antiga utilizada para esse fim era o escaravelho, feito de pedra preciosa ou comum, ou mesmo de cerâmica azul ou porcelana, em cujo lado plano era gravada a inscrição ou o símbolo. Em muitos casos, o selo consistia em um pedaço de argila, impresso com o selo e preso ao documento — fosse de papiro ou outro material — por meio de cordões. Em outros casos, utilizava-se cera. Ao selar um sepulcro ou uma caixa, a fechadura era coberta com argila ou cera, e a impressão de um selo de alguém com autoridade era estampada sobre ela, de modo que não pudesse ser aberta sem ser descoberta. O anel com sinete era um item comum no equipamento de um homem. (Gênesis 38:18) O anel ou o selo como emblema de autoridade no Egito, na Pérsia e em outros lugares é mencionado em (Gênesis 41:42; 1 Reis 21:8; Ester 3:10,12; 8:2; Daniel 6:17) e como prova de uma aliança, em (Jeremias 32:10,44; Neemias 9:38; 10:1; Ageu 2:23). Selos gravados eram usados entre os hebreus nos tempos antigos. (Êxodo 28:11, 36; 39:6)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Genesis 38:18",
-        "original": "Gen. 38:18"
-      },
-      {
-        "reference": "Genesis 38:25",
-        "original": "Gen. 38:25"
-      },
-      {
-        "reference": "1 Kings 21:8",
-        "original": "1 Kings 21:8"
-      },
-      {
-        "reference": "Deuteronomy 32:34",
-        "original": "Deut. 32:34"
-      },
-      {
-        "reference": "Nehemiah 9:38",
-        "original": "Neh. 9:38"
-      },
-      {
-        "reference": "Nehemiah 10:1",
-        "original": "Neh 10:1"
-      },
-      {
-        "reference": "Esther 3:12",
-        "original": "Esther 3:12"
-      },
-      {
-        "reference": "Song of Solomon 8:6",
-        "original": "Cant. 8:6"
-      },
-      {
-        "reference": "Isaiah 8:16",
-        "original": "Isa. 8:16"
-      },
-      {
-        "reference": "Jeremiah 22:24",
-        "original": "Jer. 22:24"
-      },
-      {
-        "reference": "Jeremiah 32:44",
-        "original": "Jer 32:44"
-      },
-      {
-        "reference": "Matthew 27:66",
-        "original": "Matt. 27:66"
-      },
-      {
-        "reference": "John 6:27",
-        "original": "John 6:27"
-      },
-      {
-        "reference": "Romans 4:11",
-        "original": "Rom. 4:11"
-      },
-      {
-        "reference": "Ephesians 1:13",
-        "original": "Eph. 1:13"
-      },
-      {
-        "reference": "Ephesians 4:30",
-        "original": "Eph 4:30"
-      },
-      {
-        "reference": "1 Corinthians 9:2",
-        "original": "1 Cor. 9:2"
-      },
-      {
-        "reference": "Genesis 41:42",
-        "original": "Genesis 41:42"
-      },
-      {
-        "reference": "Esther 3:10",
-        "original": "Esther 3:10"
-      },
-      {
-        "reference": "Esther 8:2",
-        "original": "Esther 8:2"
-      },
-      {
-        "reference": "Daniel 6:17",
-        "original": "Daniel 6:17"
-      },
-      {
-        "reference": "Jeremiah 32:10",
-        "original": "Jeremiah 32:10"
-      },
-      {
-        "reference": "Haggai 2:23",
-        "original": "Haggai 2:23"
-      },
-      {
-        "reference": "Exodus 28:11",
-        "original": "Exodus 28:11"
-      },
-      {
-        "reference": "Exodus 28:36",
-        "original": "Exodus 28:36"
-      },
-      {
-        "reference": "Exodus 39:6",
-        "original": "Exodus 39:6"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "l"
-  },
   "semitic-languages": {
     "name": "Línguas Semíticas",
     "slug": "semitic-languages",
@@ -9643,6 +9518,30 @@
     ],
     "sources": [
       "SMI"
+    ],
+    "letter": "l"
+  },
+  "winefat": {
+    "name": "Lagar",
+    "slug": "winefat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 12:1). A palavra original (hypolenion), traduzida dessa forma, ocorre apenas aqui no Novo Testamento. Ela se refere, propriamente, à cuba ou lago (lacus) — como era chamado pelos romanos —, para o qual o suco das uvas escorria da cuba situada acima dela. Aqui, porém, é usada para designar todo o aparelho. Na passagem paralela em Mateus 21:33, é usada a palavra grega lenos. Esta denota propriamente a mais alta das duas cubas. (Veja PRENSA DE VINHO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 12:1",
+        "original": "Mark 12:1"
+      },
+      {
+        "reference": "Matthew 21:33",
+        "original": "Matt. 21:33"
+      }
+    ],
+    "sources": [
+      "EAS"
     ],
     "letter": "l"
   }

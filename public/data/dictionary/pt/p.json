@@ -17576,5 +17576,53 @@
       "SMI"
     ],
     "letter": "p"
+  },
+  "wafers": {
+    "name": "Pães Ázimos",
+    "slug": "wafers",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Bolinhos finos (Êx. 16:31; 29:2, 23; Lv. 2:4; 7:12; 8:26; Nm. 6:15, 19) utilizados em diversas ofertas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:31",
+        "original": "Ex. 16:31"
+      },
+      {
+        "reference": "Exodus 29:2",
+        "original": "Ex 29:2"
+      },
+      {
+        "reference": "Exodus 29:23",
+        "original": "Ex 29:23"
+      },
+      {
+        "reference": "Leviticus 2:4",
+        "original": "Lev. 2:4"
+      },
+      {
+        "reference": "Leviticus 7:12",
+        "original": "Lev 7:12"
+      },
+      {
+        "reference": "Leviticus 8:26",
+        "original": "Lev 8:26"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 6:19",
+        "original": "Num 6:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
   }
 }

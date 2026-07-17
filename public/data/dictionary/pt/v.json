@@ -4614,5 +4614,135 @@
       "EAS"
     ],
     "letter": "v"
+  },
+  "wimple": {
+    "name": "Véu",
+    "slug": "wimple",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Isaías 3:22 (R.V., “xales”), um xale ou véu. A mesma palavra hebraica é traduzida como “véu” (R.V., “manto”) em Rute 3:15."
+      },
+      {
+        "source": "SMI",
+        "text": "uma antiga palavra inglesa que significa capuz ou véu, usada na Versão Autorizada de (Isaías 3:22). A mesma palavra hebraica é traduzida como “véu” em (Rute 3:15), mas significa, na verdade, uma espécie de xale ou manto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "worm": {
+    "name": "Verme",
+    "slug": "worm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) O termo hebraico “sas” (Is 51,8) refere-se à lagarta da traça das roupas. (2.) O maná criava vermes (tola’im), mas no sábado não havia nenhum verme (rimmah) nele (Êxodo 16:20, 24). Aqui, essas palavras se referem a lagartas ou larvas, que se alimentam de matéria em decomposição. Essas duas palavras hebraicas parecem ser intercambiáveis (Jó 25:6; Isaías 14:11). Tola’im, em alguns trechos, denota a lagarta (Dt 28:39; Jonas 4:7), e rimmah, as larvas, geradas a partir da putrefação (Jó 17:14; 21:26; 24:20). Em Miquéias 7:17, onde se diz: “Eles sairão de seus buracos como vermes”, talvez se refira a serpentes ou “animais rastejantes”, ou, como na Versão Revisada, “criaturas rastejantes”. A palavra é usada figurativamente em Jó 25:6; Salmos 22:6; Isaías 41:14; Marcos 9:44, 46, 48; Isaías 66:24."
+      },
+      {
+        "source": "SMI",
+        "text": "o termo utilizado na Versão Autorizada para designar várias palavras hebraicas. “Sas”, que aparece em (Isaías 51:18), provavelmente se refere a alguma espécie específica de mariposa, cuja larva causa danos à lã. “Rimmah” (Êxodo 16:20) refere-se evidentemente a vários tipos de larvas de insetos que se alimentam de matéria animal em decomposição, e não a minhocas. “Toleah” é aplicada em (28:39) a certos tipos de larvas que destroem as videiras. Em (Jó 19:26; 21:26; 24:20) há uma alusão a vermes (larvas de insetos) que se alimentam dos cadáveres dos enterrados. Há a mesma alusão em (Isaías 66:24), cujas palavras são aplicadas por nosso Senhor (Marcos 9:44, 46, 48) metaforicamente aos tormentos dos culpados no mundo dos espíritos falecidos. O vale de Hinom, próximo a Jerusalém, onde o lixo da cidade era jogado, estava repleto de vermes. A morte de Herodes Agripa I foi causada por vermes. (Atos 12:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 51:8",
+        "original": "Isa. 51:8"
+      },
+      {
+        "reference": "Exodus 16:20",
+        "original": "Ex. 16:20"
+      },
+      {
+        "reference": "Exodus 16:24",
+        "original": "Ex. 16:24"
+      },
+      {
+        "reference": "Job 25:6",
+        "original": "Job 25:6"
+      },
+      {
+        "reference": "Isaiah 14:11",
+        "original": "Isa. 14:11"
+      },
+      {
+        "reference": "Deuteronomy 28:39",
+        "original": "Deut. 28:39"
+      },
+      {
+        "reference": "Jonah 4:7",
+        "original": "Jonah 4:7"
+      },
+      {
+        "reference": "Job 17:14",
+        "original": "Job 17:14"
+      },
+      {
+        "reference": "Job 21:26",
+        "original": "Job 21:26"
+      },
+      {
+        "reference": "Job 24:20",
+        "original": "Job 24:20"
+      },
+      {
+        "reference": "Micah 7:17",
+        "original": "Micah 7:17"
+      },
+      {
+        "reference": "Psalms 22:6",
+        "original": "Ps. 22:6"
+      },
+      {
+        "reference": "Isaiah 41:14",
+        "original": "Isa. 41:14"
+      },
+      {
+        "reference": "Mark 9:44",
+        "original": "Mark 9:44"
+      },
+      {
+        "reference": "Mark 9:46",
+        "original": "Mark 9:46"
+      },
+      {
+        "reference": "Mark 9:48",
+        "original": "Mark 9:48"
+      },
+      {
+        "reference": "Isaiah 66:24",
+        "original": "Isa. 66:24"
+      },
+      {
+        "reference": "Isaiah 51:18",
+        "original": "Isaiah 51:18"
+      },
+      {
+        "reference": "Job 19:26",
+        "original": "Job 19:26"
+      },
+      {
+        "reference": "Acts 12:23",
+        "original": "Acts 12:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
   }
 }

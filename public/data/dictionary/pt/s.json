@@ -17745,21 +17745,6 @@
     ],
     "letter": "s"
   },
-  "sara": {
-    "name": "Sara",
-    "slug": "sara",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "Forma grega de Sarah."
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "s"
-  },
   "saraph": {
     "name": "Serafe",
     "slug": "saraph",
@@ -18095,11 +18080,11 @@
     "definitions": [
       {
         "source": "EAS",
-        "text": "Comumente um anel gravado com algum símbolo (Gn 38:18, 25). Jezabel “escreveu cartas em nome de Acabe e selou-as com o seu selo” (1 Reis 21:8). Selos são frequentemente mencionados na história judaica (Dt 32:34; Ne 9:38; 10:1; Et 3:12; Ct 8:6; Is 8:16; Jr 22:24; 32:44, etc.). Selar um documento era equivalente à assinatura do proprietário do selo. “O uso de um anel de sinete pelo monarca recebeu recentemente uma notável ilustração pela descoberta de uma impressão de tal sinete em argila fina em Koyunjik, o local da antiga Nínive. Este selo parece ter sido impresso a partir do aro de um anel de metal. É oval, 2 polegadas de comprimento por 1 polegada de largura, e traz a imagem, nome e títulos do rei egípcio Sabaco” (Rawlinson’s Hist. Illus. of the O.T., p. 46). Os anéis de sinete reais de dois reis egípcios (Quéops e Hórus) foram descobertos. (Ver SINETE.) O uso de selos é mencionado no Novo Testamento apenas em conexão com o registro do sepultamento de nosso Senhor (Mt 27:66). O túmulo foi selado pelos fariseus e principais sacerdotes com o propósito de garantir que os discípulos não viessem e roubassem o corpo (vv. 63, 64). O modo de fazer isto era provavelmente esticando um cordão através da pedra e selando-o em ambas as extremidades com argila de selagem. Quando se diz que Deus selou o Redentor, o significado é que Ele atestou sua missão divina (Jo 6:27). A circuncisão é um selo, um atestado da aliança (Rm 4:11). Os crentes são selados com o Espírito, como uma marca de Deus colocada sobre eles (Ef 1:13; 4:30). Os convertidos são chamados por Paulo de selo de seu apostolado, isto é, eles são o atestado disso (1 Co 9:2). Selos e selagem são frequentemente mencionados no livro de Apocalipse (5:1; 6:1; 7:3; 10:4; 22:10)."
+        "text": "Geralmente, um anel gravado com algum símbolo (Gênesis 38:18, 25). Jezabel “escreveu cartas em nome de Acabe e as selou com o selo dele” (1 Reis 21:8). Os selos são frequentemente mencionados na história judaica (Dt 32:34; Ne 9:38; 10:1; Ester 3:12; Cânt. 8:6; Isaías 8:16; Jeremias 22:24; 32:44, etc.). Selar um documento equivalia à assinatura do proprietário do selo. “O uso de um anel com sinete pelo monarca recebeu recentemente uma ilustração notável com a descoberta de uma impressão desse sinete em argila fina em Koyunjik, local da antiga Nínive. Esse selo parece ter sido impresso a partir da moldura de um anel metálico. É oval, com 2 polegadas de comprimento por 1 polegada de largura, e traz a imagem, o nome e os títulos do rei egípcio Sabaco” (Hist. Illus. of the O.T., de Rawlinson, p. 46). Foram descobertos os anéis-sinete de dois reis egípcios (Quíops e Hórus). (Ver SINETE.) O uso de selos é mencionado no Novo Testamento apenas em relação ao relato do sepultamento de nosso Senhor (Mt 27,66). O túmulo foi selado pelos fariseus e pelos sumos sacerdotes com o objetivo de garantir que os discípulos não viessem e roubassem o corpo (versículos 63 e 64). Provavelmente, isso foi feito esticando-se uma corda sobre a pedra e selando-a em ambas as extremidades com argila de selagem. Quando se diz que Deus selou o Redentor, o significado é que Ele atestou sua missão divina (João 6:27). A circuncisão é um selo, um atestado da aliança (Rom. 4:11). Os crentes são selados com o Espírito, como marca de Deus colocada sobre eles (Ef 1,13; 4,30). Os convertidos são chamados por Paulo de “selo do seu apostolado”, ou seja, são a atestação deste (1 Cor 9,2). Selos e o ato de selar são frequentemente mencionados no livro do Apocalipse (5:1; 6:1; 7:3; 10:4; 22:10)."
       },
       {
         "source": "SMI",
-        "text": "A importância atribuída aos selos no Oriente é tão grande que, sem um, nenhum documento é considerado autêntico. Entre os métodos de selagem usados no Egito em um período muito antigo, estavam pedras gravadas, perfuradas em seu comprimento e penduradas por um cordão ou corrente no braço ou pescoço, ou colocadas em anéis para o dedo. A forma mais antiga usada para este propósito era o escaravelho, formado de pedra preciosa ou comum, ou mesmo de cerâmica azul ou porcelana, no lado plano do qual a inscrição ou desenho era gravado. Em muitos casos, o selo consistia em um torrão de argila, impresso com o selo e ligado ao documento, seja de papiro ou outro material, por fios. Em outros casos, usava-se cera. Ao selar um sepulcro ou caixa, a fixação era coberta com argila ou cera, e a impressão de um selo de alguém com autoridade era estampada sobre ela, de modo que não pudesse ser aberta sem que fosse descoberto. O anel de sinete era uma parte comum do equipamento de um homem. (Gênesis 38:18). O anel ou o selo como emblema de autoridade no Egito, na Pérsia e em outros lugares é mencionado em (Gênesis 41:42; 1 Reis 21:8; Ester 3:10, 12; 8:2; Daniel 6:17) e como evidência de uma aliança, em (Jeremias 32:10, 44; Neemias 9:38; 10:1; Ageu 2:23). Sinetes gravados estavam em uso entre os hebreus nos tempos antigos. (Êxodo 28:11, 36; 39:6)"
+        "text": "A importância atribuída aos selos no Oriente é tão grande que, sem um selo, nenhum documento é considerado autêntico. Entre os métodos de selagem utilizados no Egito em um período muito antigo estavam pedras gravadas, perfuradas ao longo de seu comprimento e penduradas por um cordão ou corrente no braço ou no pescoço, ou encaixadas em anéis para o dedo. A forma mais antiga utilizada para esse fim era o escaravelho, feito de pedra preciosa ou comum, ou mesmo de cerâmica azul ou porcelana, em cujo lado plano era gravada a inscrição ou o símbolo. Em muitos casos, o selo consistia em um pedaço de argila, impresso com o selo e preso ao documento — fosse de papiro ou outro material — por meio de cordões. Em outros casos, utilizava-se cera. Ao selar um sepulcro ou uma caixa, a fechadura era coberta com argila ou cera, e a impressão de um selo de alguém com autoridade era estampada sobre ela, de modo que não pudesse ser aberta sem ser descoberta. O anel com sinete era um item comum no equipamento de um homem. (Gênesis 38:18) O anel ou o selo como emblema de autoridade no Egito, na Pérsia e em outros lugares é mencionado em (Gênesis 41:42; 1 Reis 21:8; Ester 3:10,12; 8:2; Daniel 6:17) e como prova de uma aliança, em (Jeremias 32:10,44; Neemias 9:38; 10:1; Ageu 2:23). Selos gravados eram usados entre os hebreus nos tempos antigos. (Êxodo 28:11, 36; 39:6)"
       }
     ],
     "scripture_refs": [
@@ -18654,7 +18639,7 @@
     "definitions": [
       {
         "source": "EAS",
-        "text": "Ou Saalbim, lugar de raposas, uma cidade da tribo de Dã (Jos. 19:42; Jz. 1:35). Era uma das principais cidades de onde Salomão extraía seus suprimentos (1 Reis 4:9). É provavelmente a moderna vila de Selbit, 3 milhas ao norte de Ajalom."
+        "text": "Ou Shaal’bim, um lugar de raposas, uma cidade da tribo de Dã (Josué 19:42; Juízes 1:35). Era uma das principais cidades de onde Salomão obtinha seus suprimentos (1 Reis 4:9). Provavelmente corresponde à aldeia moderna de Selbit, 3 milhas ao norte de Ajalon."
       }
     ],
     "scripture_refs": [
@@ -20991,6 +20976,21 @@
     ],
     "sources": [
       "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "sara": {
+    "name": "Sara",
+    "slug": "sara",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Forma grega de Sarah."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
       "SMI"
     ],
     "letter": "s"
