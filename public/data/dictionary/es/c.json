@@ -1,0 +1,704 @@
+{
+  "ashes": {
+    "name": "Cenizas",
+    "slug": "ashes",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las cenizas de una becerra roja quemada en su totalidad (Núm. 19:5), al ser rociadas sobre los inmundos, los hacían ceremonialmente limpios (Heb. 9:13). Cubrirse la cabeza con ceniza era una muestra de autodesprecio y humillación (2 Sam. 13:19; Ester 4:3; Jer. 6:26, etc.). Alimentarse de cenizas (Isa. 44:20) significa buscar aquello que resultará vano e insatisfactorio, y por lo tanto denota la naturaleza insatisfactoria de la idolatría. (Comp. Os. 12:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "Las cenizas sobre el altar del holocausto se reunían en una cavidad en su superficie. Las cenizas de una becerra roja quemada por completo, según las regulaciones prescritas en Números 19, tenían la eficacia ceremonial de purificar al inmundo (Hebreos 9:13), pero contaminaban al limpio. [Sacrificio] Las cenizas sobre la persona, especialmente en la cabeza, se usaban como señal de dolor. [Luto]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 19:5",
+        "original": "Num. 19:5"
+      },
+      {
+        "reference": "Hebrews 9:13",
+        "original": "Heb. 9:13"
+      },
+      {
+        "reference": "2 Samuel 13:19",
+        "original": "2 Sam. 13:19"
+      },
+      {
+        "reference": "Esther 4:3",
+        "original": "Esther 4:3"
+      },
+      {
+        "reference": "Jeremiah 6:26",
+        "original": "Jer. 6:26"
+      },
+      {
+        "reference": "Isaiah 44:20",
+        "original": "Isa. 44:20"
+      },
+      {
+        "reference": "Hosea 12:1",
+        "original": "Hos. 12:1"
+      },
+      {
+        "reference": "Numbers 19",
+        "original": "Numb. 19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "augustus-band": {
+    "name": "Compañía Augusta",
+    "slug": "augustus-band",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hechos 27:1: literalmente, de Sebaste, la forma griega de Augusta, nombre dado a Cesarea en honor a Augusto César). Probablemente esta “compañía” o cohorte consistía en soldados samaritanos pertenecientes a Cesarea."
+      },
+      {
+        "source": "SMI",
+        "text": "(Hechos 27:1) [Ejército]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:1",
+        "original": "Acts 27:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "backbite": {
+    "name": "Calumniar / Difamar",
+    "slug": "backbite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Sal. 15:3, la traducción de una palabra que significa andar chismeando, calumniando; en Prov. 25:23, chismorreo secreto o difamación; en Rom. 1:30 y 2 Cor. 12:20, hablar mal, difamar maliciosamente al ausente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 15:3",
+        "original": "Ps. 15:3"
+      },
+      {
+        "reference": "Proverbs 25:23",
+        "original": "Prov. 25:23"
+      },
+      {
+        "reference": "Romans 1:30",
+        "original": "Rom. 1:30"
+      },
+      {
+        "reference": "2 Corinthians 12:20",
+        "original": "2 Cor. 12:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "baldness": {
+    "name": "Calvicie",
+    "slug": "baldness",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Por causas naturales era poco común (2 Reyes 2:23; Isa. 3:24). Aparentemente estaba incluida bajo “sarna” y “tiña”, que inhabilitaban para el sacerdocio (Lev. 21:20). Los egipcios rara vez la padecían. Esto probablemente se debía a su costumbre de afeitarse constantemente la cabeza, permitiendo que el cabello creciera solo como señal de duelo. Entre los judíos, la calvicie artificial era una señal de luto (Isa. 22:12; Jer. 7:29; 16:6); también marcaba la conclusión del voto de un nazareo (Hechos 18:18; 21:24; Núm. 6:9). Se menciona con frecuencia (Miq. 1:16; Amós 8:10; Jer. 47:5). A los judíos se les prohibió seguir las costumbres de las naciones circundantes al hacerse calvos (Deut. 14:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "La calvicie natural parece haber sido poco común, ya que exponía a las personas a la burla pública. (Levítico 13:29; 2 Reyes 2:23; Isaías 3:24; 15:2; Jeremías 47:5; Ezequiel 7:18). La calvicie artificial marcaba la conclusión del voto de un nazareo (Números 6:9; Hechos 18:18) y era una señal de duelo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 2:23",
+        "original": "2 Kings 2:23"
+      },
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isa. 3:24"
+      },
+      {
+        "reference": "Leviticus 21:20",
+        "original": "Lev. 21:20"
+      },
+      {
+        "reference": "Isaiah 22:12",
+        "original": "Isa. 22:12"
+      },
+      {
+        "reference": "Jeremiah 7:29",
+        "original": "Jer. 7:29"
+      },
+      {
+        "reference": "Jeremiah 16:6",
+        "original": "Jer 16:6"
+      },
+      {
+        "reference": "Acts 18:18",
+        "original": "Acts 18:18"
+      },
+      {
+        "reference": "Acts 21:24",
+        "original": "Acts 21:24"
+      },
+      {
+        "reference": "Numbers 6:9",
+        "original": "Num. 6:9"
+      },
+      {
+        "reference": "Micah 1:16",
+        "original": "Micah 1:16"
+      },
+      {
+        "reference": "Amos 8:10",
+        "original": "Amos 8:10"
+      },
+      {
+        "reference": "Jeremiah 47:5",
+        "original": "Jer. 47:5"
+      },
+      {
+        "reference": "Deuteronomy 14:1",
+        "original": "Deut. 14:1"
+      },
+      {
+        "reference": "Leviticus 13:29",
+        "original": "Leviticus 13:29"
+      },
+      {
+        "reference": "Isaiah 15:2",
+        "original": "Isaiah 15:2"
+      },
+      {
+        "reference": "Ezekiel 7:18",
+        "original": "Ezekiel 7:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "barley": {
+    "name": "Cebada",
+    "slug": "barley",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un grano muy cultivado en Egipto (Éx. 9:31) y en Palestina (Lv. 27:16; Dt. 8:8). Por lo general, era el alimento de los caballos (1 R. 4:28). El pan de cebada era utilizado por las personas más pobres (Jue. 7:13; 2 R. 4:42). La cebada de la primera cosecha estaba lista para la siega en el tiempo de la Pascua, a mediados de abril (Rut 1:22; 2 S. 21:9). Se menciona la harina de cebada (Núm. 5:15). Nuestro Señor alimentó a cinco mil con \"cinco panes de cebada y dos pececillos\" (Jn. 6:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "es uno de los granos de cereal más importantes, y el más resistente de todos. Era cultivado por los hebreos, (Levítico 27:16; 8:8; Rut 2:17) etc., quienes lo usaban principalmente para hornear pan entre los pobres, (Jueces 7:13; 2 Reyes 4:42; Juan 6:9,13) y como forraje para los caballos. (1 Reyes 4:28) La cosecha de cebada, (Rut 1:22; 2:23; 2 Samuel 21:9;10) tiene lugar en Palestina en marzo y abril, y en la zona montañosa llega hasta mayo. Siempre precede a la cosecha de trigo, en algunos lugares por una semana, en otros por hasta tres semanas completas. En Egipto, la cebada está madura aproximadamente un mes antes que el trigo; de ahí su destrucción total por la tormenta de granizo. (Éxodo 9:31)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 9:31",
+        "original": "Ex. 9:31"
+      },
+      {
+        "reference": "Leviticus 27:16",
+        "original": "Lev. 27:16"
+      },
+      {
+        "reference": "Deuteronomy 8:8",
+        "original": "Deut. 8:8"
+      },
+      {
+        "reference": "1 Kings 4:28",
+        "original": "1 Kings 4:28"
+      },
+      {
+        "reference": "Judges 7:13",
+        "original": "Judg. 7:13"
+      },
+      {
+        "reference": "2 Kings 4:42",
+        "original": "2 Kings 4:42"
+      },
+      {
+        "reference": "Ruth 1:22",
+        "original": "Ruth 1:22"
+      },
+      {
+        "reference": "2 Samuel 21:9",
+        "original": "2 Sam. 21:9"
+      },
+      {
+        "reference": "Numbers 5:15",
+        "original": "Num. 5:15"
+      },
+      {
+        "reference": "John 6:9",
+        "original": "John 6:9"
+      },
+      {
+        "reference": "Leviticus 8:8",
+        "original": "Leviticus 8:8"
+      },
+      {
+        "reference": "Ruth 2:17",
+        "original": "Ruth 2:17"
+      },
+      {
+        "reference": "John 6:13",
+        "original": "John 6:13"
+      },
+      {
+        "reference": "Ruth 2:23",
+        "original": "Ruth 2:23"
+      },
+      {
+        "reference": "2 Samuel 10",
+        "original": "2 Samuel 10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "basket": {
+    "name": "Canasta",
+    "slug": "basket",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hay cinco palabras hebreas diferentes traducidas así en la Versión Autorizada: (1.) Una canasta (Heb. sal, una ramita u mimbre) para contener pan (Gn. 40:16; Ex. 29:3, 23; Lev. 8:2, 26, 31; Núm. 6:15, 17, 19). A veces las canastas estaban hechas de ramitas peladas; su fabricación era un oficio reconocido entre los hebreos. (2.) La utilizada (Heb. salsilloth) para recoger uvas (Jer. 6:9). (3.) Aquella en la que se presentaban las primicias de la cosecha, Heb. tene, (Dt. 26:2, 4). También se usaba para fines domésticos. En forma, se estrechaba hacia abajo como la llamada corbis por los romanos. (4.) Una canasta (Heb. kelub) que tenía tapa, que se asemejaba a una jaula para pájaros. Estaba hecha de hojas o juncos. El nombre también se aplica a cestas de frutas (Am. 8:1, 2). (5.) Una canasta (Heb. dud) para llevar higos (Jer. 24:2), también arcilla al ladrillar (V.R., Sal. 81:6), y artículos voluminosos (2 R. 10:7). Esta palabra también se traduce en la Versión Autorizada como “tetera” (1 S. 2:14), “caldero” (2 Cr. 35:13), “olla” (Job 41:20). En el Nuevo Testamento se hace mención de la canasta (Gr. kophinos, pequeña “canasta de mimbre”) para los “fragmentos” en el milagro registrado en Marcos 6:43, y en el registrado en Mateo 15:37 (Gr. spuris, grande “canasta de cuerda”); también de la canasta en la que Pablo escapó (Hch. 9:25, Gr. spuris; 2 Co. 11:33, Gr. sargane, “canasta de cuerdas trenzadas”)."
+      },
+      {
+        "source": "SMI",
+        "text": "Los términos hebreos utilizados en la descripción de este artículo son los siguientes: (1) Sal, llamado así por las ramitas de las que estaba originalmente hecho, especialmente utilizado para contener pan. (Génesis 40:16) y ss. (Éxodo 29:3, 23; Levítico 8:2, 26, 31; Números 6:15, 17, 19) (2) Salsilloth, una palabra de origen similar, aplicada a la canasta utilizada para recoger uvas. (Jeremías 6:9) (3) Tene, en la que se presentaban las primicias de la cosecha. (26:2, 4) (4) Celub, llamado así por su similitud con una jaula para pájaros. (5) Dud, utilizado para llevar frutas, (Jeremías 24:1, 2) así como a mayor escala para llevar arcilla a la fábrica de ladrillos, (Salmos 81:6) (ollas, Versión Autorizada), o para contener artículos voluminosos. (2 Reyes 10:7) En el Nuevo Testamento, las canastas se describen bajo tres términos diferentes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:16",
+        "original": "Gen. 40:16"
+      },
+      {
+        "reference": "Exodus 29:3",
+        "original": "Ex. 29:3"
+      },
+      {
+        "reference": "Exodus 29:23",
+        "original": "Ex. 29:23"
+      },
+      {
+        "reference": "Leviticus 8:2",
+        "original": "Lev. 8:2"
+      },
+      {
+        "reference": "Leviticus 8:26",
+        "original": "Lev. 8:26"
+      },
+      {
+        "reference": "Leviticus 8:31",
+        "original": "Lev. 8:31"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 6:17",
+        "original": "Num. 6:17"
+      },
+      {
+        "reference": "Numbers 6:19",
+        "original": "Num. 6:19"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jer. 6:9"
+      },
+      {
+        "reference": "Deuteronomy 26:2",
+        "original": "Deut. 26:2"
+      },
+      {
+        "reference": "Deuteronomy 26:4",
+        "original": "Deut. 26:4"
+      },
+      {
+        "reference": "Amos 8:1",
+        "original": "Amos 8:1"
+      },
+      {
+        "reference": "Amos 8:2",
+        "original": "Amos 8:2"
+      },
+      {
+        "reference": "Jeremiah 24:2",
+        "original": "Jer. 24:2"
+      },
+      {
+        "reference": "Psalms 81:6",
+        "original": "Ps. 81:6"
+      },
+      {
+        "reference": "2 Kings 10:7",
+        "original": "2 Kings 10:7"
+      },
+      {
+        "reference": "1 Samuel 2:14",
+        "original": "1 Sam. 2:14"
+      },
+      {
+        "reference": "2 Chronicles 35:13",
+        "original": "2 Chr. 35:13"
+      },
+      {
+        "reference": "Job 41:20",
+        "original": "Job 41:20"
+      },
+      {
+        "reference": "Mark 6:43",
+        "original": "Mark 6:43"
+      },
+      {
+        "reference": "Matthew 15:37",
+        "original": "Matt. 15:37"
+      },
+      {
+        "reference": "Acts 9:25",
+        "original": "Acts 9:25"
+      },
+      {
+        "reference": "2 Corinthians 11",
+        "original": "2 Cor. 11"
+      },
+      {
+        "reference": "Jeremiah 24:1",
+        "original": "Jeremiah 24:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "bed": {
+    "name": "Cama",
+    "slug": "bed",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. mittah), para descansar por la noche (Éx. 8:3; 1 Sam. 19:13, 15, 16, etc.); durante la enfermedad (Gén. 47:31; 48:2; 49:33, etc.); como sofá para descansar (1 Sam. 28:23; Amós 3:12). Otra palabra hebrea (er’es) traducida así denota una cama con dosel, o una cama con cortinas (Deut. 3:11; Sal. 132:3), para la enfermedad (Sal. 6:6; 41:3). En el Nuevo Testamento denota a veces una litera con una colcha (Mat. 9:2, 6; Luc. 5:18; Hch. 5:15). La cama judía era frecuentemente solo el diván o plataforma a lo largo de los lados de la casa, a veces un marco portátil muy ligero, a veces solo una estera o uno o más edredones. El único material para la ropa de cama se menciona en 1 Sam. 19:13. Dormir al aire libre no era poco común, envolviéndose el durmiente en su manto exterior (Éx. 22:26, 27; Deut. 24:12, 13)."
+      },
+      {
+        "source": "SMI",
+        "text": "La cama judía consistía en el colchón, una simple estera, o uno o más edredones; la cubierta, un edredón más fino, o a veces la prenda exterior usada durante el día (1 Samuel 19:13), que la ley disponía que no se debía guardar en prenda después del atardecer, para que el pobre no careciera de su cubierta necesaria (24:13); la almohada (1 Samuel 19:13), probablemente formada de vellón de oveja o piel de cabra con un relleno de algodón, etc.; el armazón de la cama, un diván o banco a lo largo del lado o extremo de la habitación, suficiente como soporte para la ropa de cama. Además, tenemos armazones de cama hechos de marfil, madera, etc., referidos en (3:11; Amós 6:4). Las partes ornamentales eran pilares y un dosel (Judit 13:9), tallas de marfil, oro y plata, y probablemente trabajo de mosaico, púrpura y lino fino (Ester 1:6; Cantar de los Cantares 3:9, 10). El mobiliario ordinario de una alcoba en la vida privada se da en (2 Reyes 4:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 8:3",
+        "original": "Ex. 8:3"
+      },
+      {
+        "reference": "1 Samuel 19:13",
+        "original": "1 Sam. 19:13"
+      },
+      {
+        "reference": "1 Samuel 19:15",
+        "original": "1 Sam. 19:15"
+      },
+      {
+        "reference": "1 Samuel 19:16",
+        "original": "1 Sam. 19:16"
+      },
+      {
+        "reference": "Genesis 47:31",
+        "original": "Gen. 47:31"
+      },
+      {
+        "reference": "Genesis 48:2",
+        "original": "Gen 48:2"
+      },
+      {
+        "reference": "Genesis 49:33",
+        "original": "Gen 49:33"
+      },
+      {
+        "reference": "1 Samuel 28:23",
+        "original": "1 Sam. 28:23"
+      },
+      {
+        "reference": "Amos 3:12",
+        "original": "Amos 3:12"
+      },
+      {
+        "reference": "Deuteronomy 3:11",
+        "original": "Deut. 3:11"
+      },
+      {
+        "reference": "Psalms 132:3",
+        "original": "Ps. 132:3"
+      },
+      {
+        "reference": "Psalms 6:6",
+        "original": "Ps. 6:6"
+      },
+      {
+        "reference": "Psalms 41:3",
+        "original": "Ps 41:3"
+      },
+      {
+        "reference": "Matthew 9:2",
+        "original": "Matt. 9:2"
+      },
+      {
+        "reference": "Matthew 9:6",
+        "original": "Matt. 9:6"
+      },
+      {
+        "reference": "Luke 5:18",
+        "original": "Luke 5:18"
+      },
+      {
+        "reference": "Acts 5:15",
+        "original": "Acts 5:15"
+      },
+      {
+        "reference": "Exodus 22:26",
+        "original": "Ex. 22:26"
+      },
+      {
+        "reference": "Exodus 22:27",
+        "original": "Ex. 22:27"
+      },
+      {
+        "reference": "Deuteronomy 24:12",
+        "original": "Deut. 24:12"
+      },
+      {
+        "reference": "Deuteronomy 24:13",
+        "original": "Deut. 24:13"
+      },
+      {
+        "reference": "Amos 6:4",
+        "original": "Amos 6:4"
+      },
+      {
+        "reference": "Jdt 13:9",
+        "original": "Judith 13:9"
+      },
+      {
+        "reference": "Esther 1:6",
+        "original": "Esther 1:6"
+      },
+      {
+        "reference": "2 Kings 4:10",
+        "original": "2 Kings 4:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "bell": {
+    "name": "Campana",
+    "slug": "bell",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las campanas mencionadas por primera vez en las Escrituras son las pequeñas campanas de oro adheridas al dobladillo del efod del sumo sacerdote (Éx. 28:33, 34, 35). Las \"campanas de los caballos\" mencionadas por Zacarías (14:20) estaban atadas a las bridas o cinturones alrededor de los cuellos de los caballos entrenados para la guerra, para acostumbrarlos al ruido y al tumulto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:33",
+        "original": "Ex. 28:33"
+      },
+      {
+        "reference": "Exodus 28:34",
+        "original": "Ex 28:34"
+      },
+      {
+        "reference": "Exodus 28:35",
+        "original": "Ex 28:35"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "bells": {
+    "name": "Campanillas",
+    "slug": "bells",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "En (Éxodo 28:33) las campanillas a las que se alude eran las de oro, en número de 72, alrededor del borde del efod del sacerdote. El objetivo de ellas era que su sonido pudiera ser escuchado (Éxodo 28:34; Eclesiástico 45:9). Hasta el día de hoy, las campanillas se sujetan con frecuencia a las tobilleras de las mujeres por su sonido agradable. Las niñas de El Cairo usan hileras de ellas alrededor de sus pies. En (Zacarías 14:20) las \"campanillas de los caballos\" eran piezas de bronce cóncavas o planas, que a veces se sujetaban a los caballos como adorno."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:33",
+        "original": "Exodus 28:33"
+      },
+      {
+        "reference": "Exodus 28:34",
+        "original": "Exodus 28:34"
+      },
+      {
+        "reference": "Sir 45:9",
+        "original": "Ecclus. 45:9"
+      },
+      {
+        "reference": "Zechariah 14:20",
+        "original": "Zechariah 14:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "birthday": {
+    "name": "Cumpleaños",
+    "slug": "birthday",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La costumbre de observar los cumpleaños es muy antigua (Génesis 40:20; Jeremías 20:15) y en (Job 1:4), etc., leemos que los hijos de Job \"iban y hacían banquetes en casa de cada uno en su día\". En Persia, los cumpleaños se celebraban con honores y banquetes especiales, y en Egipto los de los reyes se celebraban con gran pompa. Es muy probable que en (Mateo 14:6) se trate del banquete para conmemorar el ascenso de Herodes, pues sabemos que tales banquetes eran comunes y se llamaban \"el día del rey\". (Oseas 7:5)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:20",
+        "original": "Genesis 40:20"
+      },
+      {
+        "reference": "Jeremiah 20:15",
+        "original": "Jeremiah 20:15"
+      },
+      {
+        "reference": "Job 1:4",
+        "original": "Job 1:4"
+      },
+      {
+        "reference": "Matthew 14:6",
+        "original": "Matthew 14:6"
+      },
+      {
+        "reference": "Hosea 7:5",
+        "original": "Hosea 7:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "bowl": {
+    "name": "Cuenco",
+    "slug": "bowl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los receptáculos de las lámparas del candelabro de oro del tabernáculo se llaman cuencos (Éx. 25:31, 33, 34; 37:17, 19, 20); la misma palabra traducida así se traduce en otros lugares como “copa” (Gén. 44:2, 12, 16), y “vasija” de vino (Jer. 35:5). El depósito para el aceite, del cual salían tubos hacia cada lámpara en la visión del candelabro de Zacarías, también se llama por este nombre (Zac. 4:2, 3); así también los recipientes usados para libaciones (Éx. 25:29; 37:16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:31",
+        "original": "Ex. 25:31"
+      },
+      {
+        "reference": "Exodus 25:33",
+        "original": "Ex. 25:33"
+      },
+      {
+        "reference": "Exodus 25:34",
+        "original": "Ex. 25:34"
+      },
+      {
+        "reference": "Genesis 44:2",
+        "original": "Gen. 44:2"
+      },
+      {
+        "reference": "Genesis 44:12",
+        "original": "Gen 44:12"
+      },
+      {
+        "reference": "Genesis 44:16",
+        "original": "Gen 44:16"
+      },
+      {
+        "reference": "Jeremiah 35:5",
+        "original": "Jer. 35:5"
+      },
+      {
+        "reference": "Zechariah 4:2",
+        "original": "Zech. 4:2"
+      },
+      {
+        "reference": "Zechariah 4:3",
+        "original": "Zech. 4:3"
+      },
+      {
+        "reference": "Exodus 25:29",
+        "original": "Ex. 25:29"
+      },
+      {
+        "reference": "Exodus 37:16",
+        "original": "Ex 37:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "box": {
+    "name": "Caja",
+    "slug": "box",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Para contener aceite o perfumes (Mar. 14:3). Tenía la forma de un frasco o botella. La palabra hebrea (pak) usada para ello se traduce más apropiadamente como “frasco” en 1 Sam. 10:1, y también debería traducirse así en 2 Reyes 9:1, donde aparece por única otra vez."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 14:3",
+        "original": "Mark 14:3"
+      },
+      {
+        "reference": "1 Samuel 10:1",
+        "original": "1 Sam. 10:1"
+      },
+      {
+        "reference": "2 Kings 9:1",
+        "original": "2 Kings 9:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  }
+}

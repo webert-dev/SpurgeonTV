@@ -1,0 +1,186 @@
+{
+  "ague": {
+    "name": "Fiebre",
+    "slug": "ague",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La traducción en Lev. 26:16 (R.V., “fiebre”) de la palabra hebrea kaddah’ath, que significa “encender”, i.e., una fiebre inflamatoria o ardiente. En Deut. 28:22 la palabra se traduce como “fiebre”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Levítico 26:16",
+        "original": "Lev. 26:16"
+      },
+      {
+        "reference": "Deuteronomio 28:22",
+        "original": "Deut. 28:22"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "appii-forum": {
+    "name": "Foro de Apio",
+    "slug": "appii-forum",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Es decir, “el mercado de Apio” (Hechos 28:15, R.V.), una ciudad en el camino, la “Vía Apia”, desde Roma a Brundusium. Estaba a 43 millas de Roma. Aquí Pablo fue recibido por algunos cristianos romanos en su camino a la capital. Era natural que se detuvieran aquí y esperaran por él, porque desde este lugar había dos caminos por los cuales los viajeros podían viajar a Roma."
+      },
+      {
+        "source": "SMI",
+        "text": "(mercado de Apio), una estación bien conocida en la Vía Apia, el gran camino que conducía desde Roma a las cercanías de la Bahía de Nápoles. (Hechos 28:15) No hay dificultad en identificar el sitio con algunas ruinas cerca de Treponti. [Tres Tabernas, Las Tres]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 28:15",
+        "original": "Acts 28:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "arrows": {
+    "name": "Flechas",
+    "slug": "arrows",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Al principio hechas de cañas, y luego de madera con punta de hierro. Las flechas se usan a veces figurativamente para referirse a los relámpagos (Dt. 32:23, 42; Sal. 7:13; 18:14; 144:6; Zac. 9:14). Se usaban tanto en la guerra como en la caza (Gn. 27:3; 49:23). También se usaban en la adivinación (Ez. 21:21). La palabra se emplea con frecuencia como símbolo de calamidad o enfermedad infligida por Dios (Job 6:4; 34:6; Sal. 38:2; Dt. 32:23; comp. Ez. 5:16), o de algún peligro repentino (Sal. 91:5), palabras amargas (Sal. 64:3), o falso testimonio (Pr. 25:18)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:23",
+        "original": "Deut. 32:23"
+      },
+      {
+        "reference": "Deuteronomy 32:42",
+        "original": "Deut 32:42"
+      },
+      {
+        "reference": "Psalms 7:13",
+        "original": "Ps. 7:13"
+      },
+      {
+        "reference": "Psalms 18:14",
+        "original": "Ps 18:14"
+      },
+      {
+        "reference": "Psalms 144:6",
+        "original": "Ps 144:6"
+      },
+      {
+        "reference": "Zechariah 9:14",
+        "original": "Zech. 9:14"
+      },
+      {
+        "reference": "Genesis 27:3",
+        "original": "Gen. 27:3"
+      },
+      {
+        "reference": "Genesis 49:23",
+        "original": "Gen 49:23"
+      },
+      {
+        "reference": "Ezekiel 21:21",
+        "original": "Ezek. 21:21"
+      },
+      {
+        "reference": "Job 6:4",
+        "original": "Job 6:4"
+      },
+      {
+        "reference": "Job 34:6",
+        "original": "Job 34:6"
+      },
+      {
+        "reference": "Psalms 38:2",
+        "original": "Ps. 38:2"
+      },
+      {
+        "reference": "Ezekiel 5:16",
+        "original": "Ezek. 5:16"
+      },
+      {
+        "reference": "Psalms 91:5",
+        "original": "Ps. 91:5"
+      },
+      {
+        "reference": "Psalms 64:3",
+        "original": "Ps. 64:3"
+      },
+      {
+        "reference": "Proverbs 25:18",
+        "original": "Prov. 25:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "ash": {
+    "name": "Fresno",
+    "slug": "ash",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. o’ren, “trémulo”), mencionado solo en Isa. 44:14 (V.R., “abeto”). Es traducido como “pino” tanto en la LXX como en la Vulgata. Existe un árbol llamado por los árabes aran, que aún se encuentra en los valles de Arabia Pétrea, cuya hoja se asemeja a la del fresno de montaña. Este podría ser el árbol al que se hace referencia. Nuestro fresno no es conocido en Siria."
+      },
+      {
+        "source": "SMI",
+        "text": "(heb. oren), solo en (Isaías 44:14). Como el verdadero fresno no es nativo de Palestina, algunos entienden que se trata de una especie de pino. Quizás se refiera al alerce (Larix europaea)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 44:14",
+        "original": "Isa. 44:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "bellows": {
+    "name": "Fuelles",
+    "slug": "bellows",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aparece solo en Jer. 6:29, en relación con la fundición de metal. Probablemente consistían en bolsas de cuero similares a las comunes en Egipto."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra ocurre solo en (Jeremías 6:29) donde denota un instrumento para calentar un horno de fundición. Wilkinson en \"Ancient Egypt\", iii. 338, dice: \"Consistían en una piel, asegurada y ajustada en un marco, del cual se extendía un tubo largo para llevar el viento al fuego. Eran operados por los pies, el operador de pie sobre ellos, con uno debajo de cada pie, y presionándolos alternativamente, mientras levantaba cada piel agotada con una cuerda que sostenía en su mano\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 6:29",
+        "original": "Jer. 6:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "birth": {
+    "name": "Nacimiento",
+    "slug": "birth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tan pronto como nacía un niño, era lavado y frotado con sal (Ez. 16:4), y luego envuelto en vendas (Job 38:9; Luc. 2:7, 12). Una madre hebrea permanecía cuarenta días en reclusión después del nacimiento de un hijo, y después del nacimiento de una hija el doble de ese número de días. Al finalizar ese período, entraba en el tabernáculo o templo y ofrecía un sacrificio de purificación (Lev. 12:1-8; Luc. 2:22). Un hijo era circuncidado al octavo día después de su nacimiento, siendo así consagrado a Dios (Gén. 17:10-12; comp. Rom. 4:11). Las épocas de desgracia se comparan con los dolores de una mujer de parto, y las épocas de prosperidad con el gozo que sigue al parto (Isa. 13:8; Jer. 4:31; Juan 16:21, 22). El nacimiento natural se menciona como emblema del nuevo nacimiento (Juan 3:3-8; Gál. 6:15; Tito 3:5, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 16:4",
+        "original": "Ezek. 16:4"
+      },
+      {
+        "reference": "Job 38:9",
+        "original": "Job 38:9"
+      },
+      {
+        "reference": "Luke 2:7",
+        "original": "Luke 2:7"
+      },
+      {
+        "reference": "Luke 2:12",
+        "original": "Luke 2:12"
+      },
+      {
+        "reference": "Leviticus 12:1-8",
+        "original": "Lev. 12:1-8"
+      },
+      {
+        "reference": "Luke 2:22",
+        "original": "Luke 2:22"
+      },
+      {
+        "reference": "Genesis 17:10-12",
+        "original": "Gen. 17:10-12"
+      },
+      {
+        "reference": "Romans 4:11",
+        "original": "Rom. 4:11"
+      },
+      {
+        "reference": "Isaiah 13:8",
+        "original": "Isa. 13:8"
+      },
+      {
+        "reference": "Jeremiah 4:31",
+        "original": "Jer. 4:31"
+      },
+      {
+        "reference": "John 16:21",
+        "original": "John 16:21"
+      },
+      {
+        "reference": "John 16:22",
+        "original": "John 16:22"
+      },
+      {
+        "reference": "John 3:3-8",
+        "original": "John 3:3-8"
+      },
+      {
+        "reference": "Galatians 6:15",
+        "original": "Gal. 6:15"
+      },
+      {
+        "reference": "Titus 3:5",
+        "original": "Titus 3:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "n"
+  }
+}

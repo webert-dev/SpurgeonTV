@@ -1,0 +1,22 @@
+{
+  "anvil": {
+    "name": "Yunque",
+    "slug": "anvil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La traducción de la palabra hebrea que significa \"batido\", que solo se encuentra en Isaías 41:7."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 41:7",
+        "original": "Isa. 41:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "y"
+  }
+}

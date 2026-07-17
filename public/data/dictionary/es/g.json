@@ -1,0 +1,34 @@
+{
+  "barn": {
+    "name": "Granero",
+    "slug": "barn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un almacén (Dt. 28:8; Job 39:12; Hag. 2:19) para grano, que usualmente estaba bajo tierra, aunque a veces también sobre tierra (Lc. 12:18)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:8",
+        "original": "Deut. 28:8"
+      },
+      {
+        "reference": "Job 39:12",
+        "original": "Job 39:12"
+      },
+      {
+        "reference": "Haggai 2:19",
+        "original": "Hag. 2:19"
+      },
+      {
+        "reference": "Luke 12:18",
+        "original": "Luke 12:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  }
+}

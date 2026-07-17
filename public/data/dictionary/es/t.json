@@ -1,0 +1,114 @@
+{
+  "anklet": {
+    "name": "Tobillera",
+    "slug": "anklet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Esta palabra no aparece en la Versión Autorizada; pero se hace referencia a las tobilleras en (Isaías 3:16, 18, 20). Se sujetaban a la banda del tobillo de cada pierna; eran tan comunes como los brazaletes y las pulseras, y estaban hechas casi del mismo material. El tintineo agradable que producían al chocar entre sí era, sin duda, una de las razones por las que eran admiradas. Todavía se usan en Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:16",
+        "original": "Isaiah 3:16"
+      },
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isaiah 3:18"
+      },
+      {
+        "reference": "Isaiah 3:20",
+        "original": "Isaiah 3:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "badger": {
+    "name": "Tejón",
+    "slug": "badger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esta palabra se encuentra en Éx. 25:5; 26:14; 35:7, 23; 36:19; 39:34; Núm. 4:6, etc. El tabernáculo estaba cubierto con pieles de tejón; los zapatos de las mujeres también estaban hechos de ellas (Ez. 16:10). Nuestros traductores parecen haber sido engañados por la similitud de sonido entre el hebreo 'tachash' y el latín 'taxus', \"tejón\". Los revisores han sustituido correctamente por \"pieles de foca\". Los árabes de la península del Sinaí aplican el nombre 'tucash' a las focas y dugongos que son comunes en el Mar Rojo, y cuyas pieles se utilizan ampliamente como cuero y para sandalias. Aunque el tejón es común en Palestina y podría encontrarse en el desierto, su piel pequeña habría sido inútil como cubierta de tienda. El dugongo, muy abundante en las aguas poco profundas de las costas del Mar Rojo, es un animal marino de 12 a 30 pies de largo, algo intermedio entre una ballena y una foca, que nunca abandona el agua, pero es muy fácil de atrapar. Se alimenta de algas marinas y es conocido por los naturalistas como Halicore tabernaculi."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:5",
+        "original": "Ex. 25:5"
+      },
+      {
+        "reference": "Exodus 26:14",
+        "original": "Ex 26:14"
+      },
+      {
+        "reference": "Exodus 35:7",
+        "original": "Ex 35:7"
+      },
+      {
+        "reference": "Exodus 35:23",
+        "original": "Ex 35:23"
+      },
+      {
+        "reference": "Exodus 36:19",
+        "original": "Ex 36:19"
+      },
+      {
+        "reference": "Exodus 39:34",
+        "original": "Ex 39:34"
+      },
+      {
+        "reference": "Numbers 4:6",
+        "original": "Num. 4:6"
+      },
+      {
+        "reference": "Ezekiel 16:10",
+        "original": "Ezek. 16:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "barrel": {
+    "name": "Tinaja",
+    "slug": "barrel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una vasija utilizada para guardar harina (1 R. 17:12, 14, 16). La misma palabra (cad) así traducida también se traduce como \"cántaro\", una vasija para llevar agua (Gn. 24:14; Jue. 7:16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "1 Kings 17:14",
+        "original": "1 Kings 17:14"
+      },
+      {
+        "reference": "1 Kings 17:16",
+        "original": "1 Kings 17:16"
+      },
+      {
+        "reference": "Genesis 24:14",
+        "original": "Gen. 24:14"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judg. 7:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  }
+}

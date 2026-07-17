@@ -1,0 +1,102 @@
+{
+  "anger": {
+    "name": "Ira",
+    "slug": "anger",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La emoción de desagrado instantáneo a causa de algo malo que se presenta a nuestra vista. En sí misma es una susceptibilidad original de nuestra naturaleza, tal como lo es el amor, y no es necesariamente pecaminosa. Sin embargo, puede volverse pecaminosa cuando es injustificada, excesiva o prolongada (Mat. 5:22; Efe. 4:26; Col. 3:8). Cuando se atribuye a Dios, simplemente denota su desagrado con el pecado y con los pecadores (Sal. 7:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      },
+      {
+        "reference": "Ephesians 4:26",
+        "original": "Eph. 4:26"
+      },
+      {
+        "reference": "Colossians 3:8",
+        "original": "Col. 3:8"
+      },
+      {
+        "reference": "Psalms 7:11",
+        "original": "Ps. 7:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  },
+  "bowing": {
+    "name": "Inclinarse",
+    "slug": "bowing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un modo de mostrar respeto. Abraham “se inclinó ante el pueblo de la tierra” (Gén. 23:7); Jacob ante Esaú (Gén. 33:3); y los hermanos de José ante él como gobernador de la tierra (Gén. 43:28). Inclinarse también se menciona frecuentemente como un acto de adoración a los ídolos (Jos. 23:7; 2 Reyes 5:18; Jue. 2:19; Isa. 44:15), y a Dios (Jos. 5:14; Sal. 22:29; 72:9; Miq. 6:6; Sal. 95:6; Efe. 3:14)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23:7",
+        "original": "Gen. 23:7"
+      },
+      {
+        "reference": "Genesis 33:3",
+        "original": "Gen. 33:3"
+      },
+      {
+        "reference": "Genesis 43:28",
+        "original": "Gen. 43:28"
+      },
+      {
+        "reference": "Joshua 23:7",
+        "original": "Josh. 23:7"
+      },
+      {
+        "reference": "2 Kings 5:18",
+        "original": "2 Kings 5:18"
+      },
+      {
+        "reference": "Judges 2:19",
+        "original": "Judg. 2:19"
+      },
+      {
+        "reference": "Isaiah 44:15",
+        "original": "Isa. 44:15"
+      },
+      {
+        "reference": "Joshua 5:14",
+        "original": "Josh. 5:14"
+      },
+      {
+        "reference": "Psalms 22:29",
+        "original": "Ps. 22:29"
+      },
+      {
+        "reference": "Psalms 72:9",
+        "original": "Ps 72:9"
+      },
+      {
+        "reference": "Micah 6:6",
+        "original": "Micah 6:6"
+      },
+      {
+        "reference": "Psalms 95:6",
+        "original": "Ps. 95:6"
+      },
+      {
+        "reference": "Ephesians 3:14",
+        "original": "Eph. 3:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
+  }
+}

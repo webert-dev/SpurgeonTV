@@ -1,0 +1,388 @@
+{
+  "ape": {
+    "name": "Mono",
+    "slug": "ape",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un animal de la tribu de los monos (1 Reyes 10:22; 2 Crónicas 9:21). Fue traído de la India por las flotas de Salomón e Hiram, y los hebreos lo llamaban koph, y los griegos kepos, siendo ambas palabras simplemente el nombre tamil indio para el mono, kapi, es decir, rápido, ágil, activo. Nunca se ha encontrado ninguna especie de mono en Palestina o en las regiones adyacentes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:22",
+        "original": "1 Kings 10:22"
+      },
+      {
+        "reference": "2 Chronicles 9:21",
+        "original": "2 Chr. 9:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "apes": {
+    "name": "Monos",
+    "slug": "apes",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(heb. kophim) se mencionan en 1 Reyes 10:22 y 2 Crónicas 9:21. No cabe duda de que los monos fueron traídos del mismo país que suministraba el marfil y los pavos reales, los cuales son comunes en Ceilán; y Sir E. Tennent ha llamado la atención sobre el hecho de que los nombres tamiles para monos, marfil y pavos reales son idénticos a los hebreos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:22",
+        "original": "1 Kings 10:22"
+      },
+      {
+        "reference": "2 Chronicles 9:21",
+        "original": "2Chr 9:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "apple": {
+    "name": "Manzana",
+    "slug": "apple",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tappuah, que significa “fragancia”). Probablemente la palabra se refiera al albaricoque o al membrillo, ya que Palestina era demasiado cálida para el cultivo de manzanas propiamente dichas. Se enumera entre los árboles más valiosos de Palestina (Joel 1:12), y se menciona frecuentemente en el Cantar de los Cantares, destacando por su belleza (2:3, 5; 8:5). No hay nada que indique que fue el “árbol del conocimiento del bien y del mal”. El Dr. Tristram ha sugerido que el albaricoque tiene más méritos que cualquier otro árbol frutal para ser la manzana de las Escrituras. Crece hasta una altura de 30 pies, tiene una masa redondeada de hojas brillantes y da una fruta de color naranja que desprende un perfume delicioso. La “niña de los ojos” es el hebreo ishon, que significa hombrecito, es decir, la pupila del ojo (Prov. 7:2). (Comp. la promesa, Zac. 2:8; la oración, Sal. 17:8; y su cumplimiento, Deut. 32:10.) La llamada “manzana de Sodoma” algunos han supuesto que es el Solanum sanctum (Heb. hedek), traducido como “zarza” (q.v.) en Miqueas 7:4, una planta espinosa que da frutos como la manzana de patata. Este arbusto abunda en el valle del Jordán. (Ver ENGEDI.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:12",
+        "original": "Joel 1:12"
+      },
+      {
+        "reference": "Proverbs 7:2",
+        "original": "Prov. 7:2"
+      },
+      {
+        "reference": "Zechariah 2:8",
+        "original": "Zech. 2:8"
+      },
+      {
+        "reference": "Psalms 17:8",
+        "original": "Ps. 17:8"
+      },
+      {
+        "reference": "Deuteronomy 32:10",
+        "original": "Deut. 32:10"
+      },
+      {
+        "reference": "Micah 7:4",
+        "original": "Micah 7:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "apple-tree-apple": {
+    "name": "Manzano, Manzana",
+    "slug": "apple-tree-apple",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Heb. tappuach). La mención del manzano aparece en la Versión Autorizada en (Cantares 2:3; 8:5) y Joel 1:12. El fruto de este árbol se alude en (Proverbios 25:11) y Cantares 2:5; 7:8. Es un asunto difícil decir cuál es el árbol específico denotado por la palabra hebrea tappuach. (“La manzana propiamente dicha es rara en Siria, y su fruto inferior”.) La mayoría de los escritores modernos sostienen que es el membrillo o el cidro; (otros hablan del albaricoque, que es abundante y deliciosamente perfumado.) El membrillo tenía algunos argumentos plausibles a su favor. Su fragancia era tenida en alta estima por los antiguos. El membrillo era sagrado para Venus. Por otro lado, el Dr. Royle dice: “El color rico, el olor fragante y la apariencia hermosa del cidro, ya sea en flor o en fruto, son particularmente adecuados para los pasajes de las Escrituras mencionados anteriormente”. Pero ni el membrillo, ni el cidro, ni la manzana parecen responder completamente a todas las alusiones de las Escrituras. El naranjo respondería a todas las demandas de los pasajes bíblicos, y los naranjos se encuentran en Palestina; pero no parece haber pruebas suficientes de que este árbol fuera conocido en los primeros tiempos por los habitantes de Palestina. La cuestión de la identificación, por tanto, debe seguir siendo una cuestión abierta."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:12",
+        "original": "Joel 1:12"
+      },
+      {
+        "reference": "Proverbs 25:11",
+        "original": "Proverbs 25:11"
+      },
+      {
+        "reference": "Song of Solomon 2:5",
+        "original": "Song 2:5"
+      },
+      {
+        "reference": "Song of Solomon 7:8",
+        "original": "Song 7:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "babylonish-garment": {
+    "name": "Manto babilónico",
+    "slug": "babylonish-garment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una túnica de ricos colores fabricada en Babilonia, y por lo tanto de gran valor (Josué 7:21)."
+      },
+      {
+        "source": "SMI",
+        "text": "literalmente “manto de Sinar” (Josué 7:21), una amplia túnica, probablemente hecha de la piel o pelaje de un animal, comp. (Génesis 25:25), y ornamentada con bordados o quizás una prenda abigarrada con figuras tejidas al estilo por el cual los babilonios eran famosos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 7:21",
+        "original": "Josh. 7:21"
+      },
+      {
+        "reference": "Genesis 25:25",
+        "original": "Genesis 25:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "bake-meats": {
+    "name": "Manjares horneados",
+    "slug": "bake-meats",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Provisiones horneadas (Gén. 40:17), literalmente \"obras del panadero\", tales como galletas y pasteles."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:17",
+        "original": "Gen. 40:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "bat": {
+    "name": "Murciélago",
+    "slug": "bat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La palabra hebrea (atalleph) traducida así (Levítico 11:19; Deuteronomio 14:18) implica \"volar en la oscuridad\". El murciélago es contado entre las aves en la lista de animales inmundos. Arrojar ídolos a los \"topos y a los murciélagos\" significa llevarlos a cavernas oscuras o lugares desolados a los que estos animales acuden (Isaías 2:20), es decir, consignarlos a la desolación o ruina."
+      },
+      {
+        "source": "SMI",
+        "text": "(Levítico 11:19; 14:18) Muchos viajeros han notado el inmenso número de murciélagos que se encuentran en las cavernas en Oriente, y el Sr. Layard dijo que en ocasión de una visita a una caverna, estas bestias nocivas lo obligaron a retirarse."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:19",
+        "original": "Lev. 11:19"
+      },
+      {
+        "reference": "Deuteronomy 14:18",
+        "original": "Deut. 14:18"
+      },
+      {
+        "reference": "Isaiah 2:20",
+        "original": "Isa. 2:20"
+      },
+      {
+        "reference": "Leviticus 14:18",
+        "original": "Leviticus 14:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "battleaxe": {
+    "name": "Maza",
+    "slug": "battleaxe",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Jeremías 51:20) [Maza de guerra]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 51:20",
+        "original": "Jeremiah 51:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "beg": {
+    "name": "Mendigar",
+    "slug": "beg",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Que los pobres existían entre los hebreos tenemos abundante evidencia (Éx. 23:11; Deut. 15:11), pero no hay mención de mendigos propiamente dichos en el Antiguo Testamento. Los pobres eran provistos por la ley de Moisés (Lev. 19:10; Deut. 12:12; 14:29). Se predice de la descendencia de los impíos que serán mendigos (Sal. 37:25; 109:10). En el Nuevo Testamento encontramos menciones no infrecuentes de mendigos (Marcos 10:46; Lucas 16:20, 21; Hechos 3:2), sin embargo, no hay mención de una clase de mendigos vagabundos, tan numerosos en el Oriente. \"Mendicante\", en Gálatas 4:9, significa despreciable."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 23:11",
+        "original": "Ex. 23:11"
+      },
+      {
+        "reference": "Deuteronomy 15:11",
+        "original": "Deut. 15:11"
+      },
+      {
+        "reference": "Leviticus 19:10",
+        "original": "Lev. 19:10"
+      },
+      {
+        "reference": "Deuteronomy 12:12",
+        "original": "Deut. 12:12"
+      },
+      {
+        "reference": "Deuteronomy 14:29",
+        "original": "Deut 14:29"
+      },
+      {
+        "reference": "Psalms 37:25",
+        "original": "Ps. 37:25"
+      },
+      {
+        "reference": "Psalms 109:10",
+        "original": "Ps 109:10"
+      },
+      {
+        "reference": "Mark 10:46",
+        "original": "Mark 10:46"
+      },
+      {
+        "reference": "Luke 16:20",
+        "original": "Luke 16:20"
+      },
+      {
+        "reference": "Luke 16:21",
+        "original": "Luke 16:21"
+      },
+      {
+        "reference": "Acts 3:2",
+        "original": "Acts 3:2"
+      },
+      {
+        "reference": "Galatians 4:9",
+        "original": "Gal. 4:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "beggar-begging": {
+    "name": "Mendigo, Mendicidad",
+    "slug": "beggar-begging",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los pobres entre los hebreos eran muy favorecidos. Se les permitía espigar en los campos y recoger lo que la tierra producía en el año en que no era labrada (Levítico 19:10; 25:5,6; 24:19). También eran invitados a las fiestas (14:29 y Deuteronomio 26:12). El israelita no podía ser un indigente absoluto. Su tierra era inalienable, excepto por cierto término, cuando revertía a él o a su posteridad. Y si este recurso era insuficiente, podía empeñar los servicios de sí mismo y de su familia por una suma valiosa. Aquellos que eran indigentes debido a enfermedades corporales solían ser atendidos por sus parientes. Sin embargo, a veces se veía a un mendigo, y era considerado y aborrecido como un vagabundo (Salmos 109:10). En tiempos posteriores, los mendigos estaban acostumbrados, al parecer, a tener un lugar fijo en las esquinas de las calles (Marcos 10:46), en las puertas del templo (Hechos 3:2), o de casas privadas (Lucas 16:20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 19:10",
+        "original": "Leviticus 19:10"
+      },
+      {
+        "reference": "Leviticus 25:5",
+        "original": "Leviticus 25:5"
+      },
+      {
+        "reference": "Leviticus 25:6",
+        "original": "Leviticus 25:6"
+      },
+      {
+        "reference": "Leviticus 24:19",
+        "original": "Leviticus 24:19"
+      },
+      {
+        "reference": "Deuteronomy 26:12",
+        "original": "Deuteronomy 26:12"
+      },
+      {
+        "reference": "Psalms 109:10",
+        "original": "Psalms 109:10"
+      },
+      {
+        "reference": "Mark 10:46",
+        "original": "Mark 10:46"
+      },
+      {
+        "reference": "Acts 3:2",
+        "original": "Acts 3:2"
+      },
+      {
+        "reference": "Luke 16:20",
+        "original": "Luke 16:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "beyond": {
+    "name": "Más allá",
+    "slug": "beyond",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cuando se usa con referencia al Jordán, significa en los escritos de Moisés el lado oeste del río, ya que él escribía desde la orilla este (Génesis 50:10, 11; Deuteronomio 1:1, 5; 3:8, 20; 4:46); pero en los escritos de Josué, después de que hubo cruzado el río, significa el lado este (Josué 5:1; 12:7; 22:7)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 50:10",
+        "original": "Gen. 50:10"
+      },
+      {
+        "reference": "Genesis 50:11",
+        "original": "Gen. 50:11"
+      },
+      {
+        "reference": "Deuteronomy 1:1",
+        "original": "Deut. 1:1"
+      },
+      {
+        "reference": "Deuteronomy 1:5",
+        "original": "Deut. 1:5"
+      },
+      {
+        "reference": "Joshua 5:1",
+        "original": "Josh. 5:1"
+      },
+      {
+        "reference": "Joshua 12:7",
+        "original": "Josh 12:7"
+      },
+      {
+        "reference": "Joshua 22:7",
+        "original": "Josh 22:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  }
+}

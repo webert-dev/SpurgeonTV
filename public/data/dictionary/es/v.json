@@ -1,0 +1,404 @@
+{
+  "apparel": {
+    "name": "Vestimenta",
+    "slug": "apparel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En los tiempos del Antiguo Testamento, la distinción entre la vestimenta masculina y femenina no estaba muy marcada. El estatuto que prohibía a los hombres usar ropa femenina (Deuteronomio 22:5) se refería especialmente a los adornos y tocados. Tanto hombres como mujeres usaban (1) una prenda interior o túnica, que estaba ceñida por un cinturón. A quien solo llevaba esta túnica se le consideraba \"desnudo\" (1 Samuel 19:24; Job 24:10; Isaías 20:2). Los que ocupaban altos cargos a veces llevaban dos túnicas, siendo la exterior llamada \"manto\" (1 Samuel 15:27; 18:4; 24:5; Job 1:20). (2.) Llevaban en común una prenda exterior (\"manto\", Isaías 3:22; 1 Reyes 19:13; 2 Reyes 2:13), una túnica holgada y fluida. Los pliegues de esta prenda exterior podían formarse en un regazo (Rut 3:15; Salmos 79:12; Proverbios 17:23; Lucas 6:38). Los generales de los ejércitos solían llevar túnicas escarlata (Jueces 8:26; Nahum 2:3). Una forma de vestimenta llamativa se menciona en Lucas 20:46; comp. Mateo 23:5. Solo los sacerdotes usaban pantalones. Tanto hombres como mujeres usaban turbantes. Los reyes y los nobles solían tener una reserva de prendas costosas para ocasiones festivas (Isaías 3:22; Zacarías 3:4) y para regalos (Génesis 45:22; Ester 4:4; 6:8, 11; 1 Samuel 18:4; 2 Reyes 5:5; 10:22). Los profetas y ascetas usaban prendas toscas (Isaías 20:2; Zacarías 13:4; Mateo 3:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 22:5",
+        "original": "Deut. 22:5"
+      },
+      {
+        "reference": "1 Samuel 19:24",
+        "original": "1 Sam. 19:24"
+      },
+      {
+        "reference": "Job 24:10",
+        "original": "Job 24:10"
+      },
+      {
+        "reference": "Isaiah 20:2",
+        "original": "Isa. 20:2"
+      },
+      {
+        "reference": "1 Samuel 15:27",
+        "original": "1 Sam. 15:27"
+      },
+      {
+        "reference": "1 Samuel 18:4",
+        "original": "1 Sam. 18:4"
+      },
+      {
+        "reference": "1 Samuel 24:5",
+        "original": "1 Sam. 24:5"
+      },
+      {
+        "reference": "Job 1:20",
+        "original": "Job 1:20"
+      },
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "1 Kings 19:13",
+        "original": "1 Kings 19:13"
+      },
+      {
+        "reference": "2 Kings 2:13",
+        "original": "2 Kings 2:13"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      },
+      {
+        "reference": "Psalms 79:12",
+        "original": "Ps. 79:12"
+      },
+      {
+        "reference": "Proverbs 17:23",
+        "original": "Prov. 17:23"
+      },
+      {
+        "reference": "Luke 6:38",
+        "original": "Luke 6:38"
+      },
+      {
+        "reference": "Judges 8:26",
+        "original": "Judg. 8:26"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nah. 2:3"
+      },
+      {
+        "reference": "Luke 20:46",
+        "original": "Luke 20:46"
+      },
+      {
+        "reference": "Matthew 23:5",
+        "original": "Matt. 23:5"
+      },
+      {
+        "reference": "Zechariah 3:4",
+        "original": "Zech. 3:4"
+      },
+      {
+        "reference": "Genesis 45:22",
+        "original": "Gen. 45:22"
+      },
+      {
+        "reference": "Esther 4:4",
+        "original": "Esther 4:4"
+      },
+      {
+        "reference": "Esther 6:8",
+        "original": "Esther 6:8"
+      },
+      {
+        "reference": "Esther 6:11",
+        "original": "Esther 6:11"
+      },
+      {
+        "reference": "2 Kings 5:5",
+        "original": "2 Kings 5:5"
+      },
+      {
+        "reference": "2 Kings 10:22",
+        "original": "2 Kings 10:22"
+      },
+      {
+        "reference": "Zechariah 13:4",
+        "original": "Zech. 13:4"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matt. 3:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "avenger-of-blood": {
+    "name": "Vengador de la sangre",
+    "slug": "avenger-of-blood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. goel, del verbo gaal, “ser pariente cercano”, “redimir”), el pariente más cercano de una persona asesinada. Era su derecho y deber matar al asesino (2 Sam. 14:7, 11) si lo encontraba fuera de una ciudad de refugio. Para que esta ley estuviera protegida contra abusos, Moisés designó seis ciudades de refugio (Éx. 21:13; Núm. 35:13; Deut. 19:1, 9). Estas estaban en diferentes partes del país, y se facilitaba al homicida que pudiera huir a la ciudad más cercana para ponerse a salvo. El vengador no podía seguirle dentro de la ciudad de refugio. Esta disposición se aplicaba solo a casos donde la muerte no era premeditada. El caso debía ser investigado por las autoridades de la ciudad, y el asesino voluntario de ninguna manera debía ser perdonado. Era considerado una persona impura y contaminada, y era entregado al goel (Deut. 19:11-13). Si el delito era simplemente homicidio involuntario, el fugitivo debía permanecer dentro de la ciudad hasta la muerte del sumo sacerdote (Núm. 35:25)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 14:7",
+        "original": "2 Sam. 14:7"
+      },
+      {
+        "reference": "2 Samuel 14:11",
+        "original": "2 Sam. 14:11"
+      },
+      {
+        "reference": "Exodus 21:13",
+        "original": "Ex. 21:13"
+      },
+      {
+        "reference": "Numbers 35:13",
+        "original": "Num. 35:13"
+      },
+      {
+        "reference": "Deuteronomy 19:1",
+        "original": "Deut. 19:1"
+      },
+      {
+        "reference": "Deuteronomy 19:9",
+        "original": "Deut. 19:9"
+      },
+      {
+        "reference": "Deuteronomy 19:11-13",
+        "original": "Deut. 19:11-13"
+      },
+      {
+        "reference": "Numbers 35:25",
+        "original": "Num. 35:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "basin": {
+    "name": "Vasija (o Tazón)",
+    "slug": "basin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O Bazón. (1.) Un abrevadero o fuente (Heb. aggan) para lavar (Ex. 24:6); traducido también como “copa” (Cant. 7:2) y “tazas” (Is. 22:24). (2.) Un plato cubierto o urna (Heb. k’for) entre los utensilios del templo (1 Cr. 28:17; Esd. 1:10; 8:27). (3.) Un jarrón (Heb. mizrak) desde el cual rociar algo. Un recipiente metálico; a veces traducido como “tazón” (Am. 6:6; Zac. 9:15). Los utensilios del tabernáculo eran de bronce (Ex. 27:3), mientras que los del templo eran de oro (2 Cr. 4:8). (4.) Un utensilio (Heb. saph) para contener la sangre de las víctimas (Ex. 12:22); también una vasija para propósitos domésticos (2 S. 17:28). Los diversos utensilios mencionados con los nombres “tazón, fuente, cargador, copa y plato”, no pueden distinguirse hoy con precisión. La vasija en la que nuestro Señor lavó los pies de los discípulos (Jn. 13:5) debe haber sido más grande y profunda que la palangana para las manos."
+      },
+      {
+        "source": "SMI",
+        "text": "Entre los utensilios más pequeños para el servicio del tabernáculo o del templo, se debieron requerir muchos para recibir de las víctimas sacrificadas la sangre que debía rociarse para la purificación. El “tazón” del cual nuestro Señor lavó los pies de los discípulos probablemente era más profundo y grande que la palangana para rociar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 24:6",
+        "original": "Ex. 24:6"
+      },
+      {
+        "reference": "Song of Solomon 7:2",
+        "original": "Cant. 7:2"
+      },
+      {
+        "reference": "Isaiah 22:24",
+        "original": "Isa. 22:24"
+      },
+      {
+        "reference": "1 Chronicles 28:17",
+        "original": "1 Chr. 28:17"
+      },
+      {
+        "reference": "Ezra 1:10",
+        "original": "Ezra 1:10"
+      },
+      {
+        "reference": "Ezra 8:27",
+        "original": "Ezra 8:27"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "Zechariah 9:15",
+        "original": "Zech. 9:15"
+      },
+      {
+        "reference": "Exodus 27:3",
+        "original": "Ex. 27:3"
+      },
+      {
+        "reference": "2 Chronicles 4:8",
+        "original": "2 Chr. 4:8"
+      },
+      {
+        "reference": "Exodus 12:22",
+        "original": "Ex. 12:22"
+      },
+      {
+        "reference": "2 Samuel 17:28",
+        "original": "2 Sam. 17:28"
+      },
+      {
+        "reference": "John 13:5",
+        "original": "John 13:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "beam": {
+    "name": "Viga",
+    "slug": "beam",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aparece en la Versión Autorizada como traducción de varias palabras hebreas. En 1 Sam. 17:7, significa un marco de tejedor o viga principal; en Hab. 2:11, una viga transversal o vigueta; 2 Reyes 6:2, 5, una pieza transversal o viga de una casa; 1 Reyes 7:6, un adorno arquitectónico como un escalón saliente o moldura; Ezeq. 41:25, un tablón grueso. En el Nuevo Testamento, la palabra aparece solo en Mat. 7:3, 4, 5, y Luc. 6:41, 42, donde significa (Gr. dokos) una pieza grande de madera utilizada para fines de construcción, en contraste con \"paja\" (Gr. karphos), una pieza pequeña o simple astilla. \"Paja\" y \"viga\" se convirtieron en proverbiales para las faltas pequeñas y grandes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:7",
+        "original": "1 Sam. 17:7"
+      },
+      {
+        "reference": "Habakkuk 2:11",
+        "original": "Hab. 2:11"
+      },
+      {
+        "reference": "2 Kings 6:2",
+        "original": "2 Kings 6:2"
+      },
+      {
+        "reference": "2 Kings 6:5",
+        "original": "2 Kings 6:5"
+      },
+      {
+        "reference": "1 Kings 7:6",
+        "original": "1 Kings 7:6"
+      },
+      {
+        "reference": "Ezekiel 41:25",
+        "original": "Ezek. 41:25"
+      },
+      {
+        "reference": "Matthew 7:3",
+        "original": "Matt. 7:3"
+      },
+      {
+        "reference": "Matthew 7:4",
+        "original": "Matt. 7:4"
+      },
+      {
+        "reference": "Matthew 7:5",
+        "original": "Matt. 7:5"
+      },
+      {
+        "reference": "Luke 6:41",
+        "original": "Luke 6:41"
+      },
+      {
+        "reference": "Luke 6:42",
+        "original": "Luke 6:42"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "beeves": {
+    "name": "Vacuno",
+    "slug": "beeves",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(antiguo plural inglés de la palabra beef), un nombre aplicable a todos los animales rumiantes excepto los camellos, y especialmente a los Bovidce, o ganado cornudo (Lev. 22:19, 21; Núm. 31:28, 30, 33, 38, 44)."
+      },
+      {
+        "source": "SMI",
+        "text": "Igual que ganado. (Levítico 22:19) [Ver Toro, Novillo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 22:19",
+        "original": "Lev. 22:19"
+      },
+      {
+        "reference": "Leviticus 22:21",
+        "original": "Lev. 22:21"
+      },
+      {
+        "reference": "Numbers 31:28",
+        "original": "Num. 31:28"
+      },
+      {
+        "reference": "Numbers 31:30",
+        "original": "Num 31:30"
+      },
+      {
+        "reference": "Numbers 31:33",
+        "original": "Num 31:33"
+      },
+      {
+        "reference": "Numbers 31:38",
+        "original": "Num 31:38"
+      },
+      {
+        "reference": "Numbers 31:44",
+        "original": "Num 31:44"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "belly": {
+    "name": "Vientre",
+    "slug": "belly",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El asiento de los afectos carnales (Tito 1:12; Fil. 3:19; Rom. 16:18). La palabra se usa simbólicamente para el corazón (Prov. 18:8; 20:27; 22:18, nota al margen). El \"vientre del infierno\" significa la tumba o el inframundo (Jonás 2:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Titus 1:12",
+        "original": "Titus 1:12"
+      },
+      {
+        "reference": "Philippians 3:19",
+        "original": "Phil. 3:19"
+      },
+      {
+        "reference": "Romans 16:18",
+        "original": "Rom. 16:18"
+      },
+      {
+        "reference": "Proverbs 18:8",
+        "original": "Prov. 18:8"
+      },
+      {
+        "reference": "Proverbs 20:27",
+        "original": "Prov 20:27"
+      },
+      {
+        "reference": "Proverbs 22:18",
+        "original": "Prov 22:18"
+      },
+      {
+        "reference": "Jonah 2:2",
+        "original": "Jonah 2:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "ahaziah": {
+    "name": "Ocozías",
+    "slug": "ahaziah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sostenido por Jehová. (1.) El hijo y sucesor de Acab. Siguió los consejos de su madre Jezabel e imitó en maldad los caminos de su padre. En su reinado, los moabitas se rebelaron contra su autoridad (2 Reyes 3:5-7). Se unió con Josafat en un intento de revivir el comercio marítimo por el mar Rojo, lo cual resultó un fracaso (2 Cr. 20:35-37). Sus mensajeros, enviados a consultar al dios de Ecrón respecto a su recuperación tras los efectos de una caída desde la galería del techo de su palacio, fueron interceptados en el camino por Elías, quien los envió de regreso para decirle al rey que nunca se levantaría de su cama (1 Reyes 22:51; 2 Reyes 1:18). (2.) El hijo de Joram, o Jehoram, y sexto rey de Judá. Llamado Joacaz (2 Cr. 21:17; 25:23), y Azarías (2 Cr. 22:6). Guiado por su madre idólatra Atalía, su reinado fue desastroso (2 Reyes 8:24-29; 9:29). Se unió a su tío Joram, rey de Israel, en una expedición contra Hazael, rey de Damasco; pero fue herido en el paso de Gur cuando intentaba escapar, y solo tuvo fuerzas para llegar a Meguido, donde murió (2 Reyes 9:22-28). Reinó solo un año."
+      },
+      {
+        "source": "SMI",
+        "text": "(sostenido por el Señor)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 3:5-7",
+        "original": "2 Kings 3:5-7"
+      },
+      {
+        "reference": "2 Chronicles 20:35-37",
+        "original": "2 Chr. 20:35-37"
+      },
+      {
+        "reference": "1 Kings 22:51",
+        "original": "1 Kings 22:51"
+      },
+      {
+        "reference": "2 Kings 1:18",
+        "original": "2 Kings 1:18"
+      },
+      {
+        "reference": "2 Chronicles 21:17",
+        "original": "2 Chr. 21:17"
+      },
+      {
+        "reference": "2 Chronicles 25:23",
+        "original": "2 Chr. 25:23"
+      },
+      {
+        "reference": "2 Chronicles 22:6",
+        "original": "2 Chr. 22:6"
+      },
+      {
+        "reference": "2 Kings 8:24-29",
+        "original": "2 Kings 8:24-29"
+      },
+      {
+        "reference": "2 Kings 9:29",
+        "original": "2 Kings 9:29"
+      },
+      {
+        "reference": "2 Kings 9:22-28",
+        "original": "2 Kings 9:22-28"
+      },
+      {
+        "reference": "Isaiah 16:1",
+        "original": "Isaiah 16:1"
+      },
+      {
+        "reference": "1 Kings 22:49-53",
+        "original": "1 Kings 22:49-53"
+      },
+      {
+        "reference": "2 Kings 1:1",
+        "original": "2 Kings 1:1"
+      },
+      {
+        "reference": "2 Chronicles 22:2",
+        "original": "2 Chronicles 22:2"
+      },
+      {
+        "reference": "2 Kings 8:26",
+        "original": "2 Kings 8:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "bear": {
+    "name": "Oso",
+    "slug": "bear",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nativo de las regiones montañosas de Asia Occidental, frecuentemente mencionado en las Escrituras. David defendió sus rebaños contra los ataques de un oso (1 Sam. 17:34-37). Los osos salieron del bosque y destruyeron a los niños que se burlaban del profeta Eliseo (2 Reyes 2:24). Sus hábitos se mencionan en Isa. 59:11; Prov. 28:15; Lam. 3:10. Se habla de la furia de la osa cuando le roban sus crías (2 Sam. 17:8; Prov. 17:12; Oseas 13:8). En la visión de Daniel de las cuatro grandes monarquías, el imperio medo-persa está representado por un oso (7:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "(1 Samuel 17:34; 2 Samuel 17:8) El oso sirio, Ursus syriacus, que es sin duda el animal mencionado en la Biblia, todavía se encuentra en las montañas más altas de Palestina. Durante los meses de verano, estos osos permanecen en las partes nevadas del Líbano, pero descienden en invierno a las aldeas y jardines. También es probable que en este periodo en días pasados extendieran sus visitas a otras partes de Palestina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:34-37",
+        "original": "1 Sam. 17:34-37"
+      },
+      {
+        "reference": "2 Kings 2:24",
+        "original": "2 Kings 2:24"
+      },
+      {
+        "reference": "Isaiah 59:11",
+        "original": "Isa. 59:11"
+      },
+      {
+        "reference": "Proverbs 28:15",
+        "original": "Prov. 28:15"
+      },
+      {
+        "reference": "Lamentations 3:10",
+        "original": "Lam. 3:10"
+      },
+      {
+        "reference": "2 Samuel 17:8",
+        "original": "2 Sam. 17:8"
+      },
+      {
+        "reference": "Proverbs 17:12",
+        "original": "Prov. 17:12"
+      },
+      {
+        "reference": "Hosea 13:8",
+        "original": "Hos. 13:8"
+      },
+      {
+        "reference": "1 Samuel 17:34",
+        "original": "1 Samuel 17:34"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "beaten-gold": {
+    "name": "Oro batido",
+    "slug": "beaten-gold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Núm. 8:4, significa trabajo \"torneado\" o redondeado en oro. La versión griega, sin embargo, traduce la palabra como \"oro sólido\"; la Versión Revisada, \"trabajo batido de oro\". En 1 Reyes 10:16, 17, probablemente significa oro \"mezclado\", como debería traducirse, es decir, no oro puro. Otros traducen la palabra en estos lugares como \"láminas finas de oro\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 8:4",
+        "original": "Num. 8:4"
+      },
+      {
+        "reference": "1 Kings 10:16",
+        "original": "1 Kings 10:16"
+      },
+      {
+        "reference": "1 Kings 10:17",
+        "original": "1 Kings 10:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "bottle": {
+    "name": "Odre",
+    "slug": "bottle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un recipiente hecho de pieles para contener vino (Jos. 9:4, 13; 1 Sam. 16:20; Mat. 9:17; Mar. 2:22; Luc. 5:37, 38), leche (Jue. 4:19), agua (Gén. 21:14, 15, 19) o bebida fuerte (Hab. 2:15). Los recipientes de barro también se usaban de manera similar (Jer. 19:1-10; 1 Reyes 14:3; Isa. 30:14). En Job 32:19 (comp. Mat. 9:17; Luc. 5:37, 38; Mar. 2:22) la referencia es a un odre de vino a punto de estallar por la fermentación del vino. “Odres de vino” en la versión Autorizada de Oseas 7:5 se traduce correctamente en la Versión Revisada como “el calor del vino”, es decir, la fiebre del vino, su fuerza embriagadora. Las nubes se llaman figurativamente los “odres del cielo” (Job 38:37). Un odre ennegrecido o marchitado por el humo se menciona en Sal. 119:83 como una imagen a la que el salmista se compara a sí mismo."
+      },
+      {
+        "source": "SMI",
+        "text": "Los árabes guardan el agua, la leche y otros líquidos en odres de cuero. Estos están hechos de pieles de cabra. Cuando el animal es sacrificado, cortan sus patas y su cabeza, y lo extraen de esta manera de la piel sin abrir su vientre. Los grandes odres de cuero están hechos de la piel de un macho cabrío, y los pequeños, que sirven como odre de agua en el camino, están hechos de la piel de un cabrito. El efecto del calor externo sobre un odre de piel se indica en (Salmos 119:83) “odre en el humo”, y la expansión producida por la fermentación en (Mateo 9:17) “vino nuevo en odres viejos”. Los recipientes de metal, barro o vidrio para líquidos estaban en uso entre los griegos, egipcios, etruscos y asirios, y sin duda también entre los judíos, especialmente en tiempos posteriores. Así (Jeremías 19:1) “una vasija de barro de alfarero”. (Los antiguos egipcios fabricaban botellas de alabastro, oro, marfil y piedra. Eran de una mano de obra exquisita y formas elegantes. Los frascos de lágrimas eran pequeñas urnas de vidrio o cerámica, hechas para contener las lágrimas de los dolientes en los funerales, y colocadas en los sepulcros en Roma y en Palestina. En algunas tumbas antiguas se encuentran en gran número. (Salmos 56:8) hace referencia a esta costumbre.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 9:4",
+        "original": "Josh. 9:4"
+      },
+      {
+        "reference": "1 Samuel 16:20",
+        "original": "1 Sam. 16:20"
+      },
+      {
+        "reference": "Matthew 9:17",
+        "original": "Matt. 9:17"
+      },
+      {
+        "reference": "Mark 2:22",
+        "original": "Mark 2:22"
+      },
+      {
+        "reference": "Luke 5:37",
+        "original": "Luke 5:37"
+      },
+      {
+        "reference": "Luke 5:38",
+        "original": "Luke 5:38"
+      },
+      {
+        "reference": "Judges 4:19",
+        "original": "Judg. 4:19"
+      },
+      {
+        "reference": "Genesis 21:14",
+        "original": "Gen. 21:14"
+      },
+      {
+        "reference": "Genesis 21:15",
+        "original": "Gen. 21:15"
+      },
+      {
+        "reference": "Genesis 21:19",
+        "original": "Gen. 21:19"
+      },
+      {
+        "reference": "Habakkuk 2:15",
+        "original": "Hab. 2:15"
+      },
+      {
+        "reference": "Jeremiah 19:1-10",
+        "original": "Jer. 19:1-10"
+      },
+      {
+        "reference": "1 Kings 14:3",
+        "original": "1 Kings 14:3"
+      },
+      {
+        "reference": "Isaiah 30:14",
+        "original": "Isa. 30:14"
+      },
+      {
+        "reference": "Job 32:19",
+        "original": "Job 32:19"
+      },
+      {
+        "reference": "Hosea 7:5",
+        "original": "Hos. 7:5"
+      },
+      {
+        "reference": "Job 38:37",
+        "original": "Job 38:37"
+      },
+      {
+        "reference": "Psalms 119:83",
+        "original": "Ps. 119:83"
+      },
+      {
+        "reference": "Jeremiah 19:1",
+        "original": "Jeremiah 19:1"
+      },
+      {
+        "reference": "Psalms 56:8",
+        "original": "Psalms 56:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  }
+}

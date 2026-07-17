@@ -52,7 +52,10 @@ def translate_batch(batch, lang="pt"):
                 )
             )
             
-            resp_text = response.text.strip()
+            resp_text = response.text
+            if not resp_text:
+                raise ValueError("Empty response from Gemini")
+            resp_text = resp_text.strip()
             if resp_text.startswith("```json"):
                 resp_text = resp_text[7:]
             if resp_text.endswith("```"):
@@ -158,8 +161,8 @@ def process_dictionary():
             
             result = translate_batch(batch, lang=lang)
             if not result:
-                print(f"Fatal error translating batch at index {i}. Aborting.")
-                return
+                print(f"Fatal error translating batch at index {i}. Skipping this batch.")
+                continue
                 
             for item in result:
                 slug = item.get("slug")

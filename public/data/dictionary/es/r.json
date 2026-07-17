@@ -1,0 +1,66 @@
+{
+  "backslide": {
+    "name": "Retroceder / Apostatar",
+    "slug": "backslide",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Retroceder o apostatar en asuntos de religión (Hch. 21:21; 2 Tes. 2:3; 1 Tim. 4:1). Esto puede ser parcial (Prov. 14:14) o completo (Heb. 6:4-6; 10:38, 39). La apostasía puede ser tanto doctrinal como moral."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 21:21",
+        "original": "Acts 21:21"
+      },
+      {
+        "reference": "2 Thessalonians 2:3",
+        "original": "2 Thess. 2:3"
+      },
+      {
+        "reference": "1 Timothy 4:1",
+        "original": "1 Tim. 4:1"
+      },
+      {
+        "reference": "Proverbs 14:14",
+        "original": "Prov. 14:14"
+      },
+      {
+        "reference": "Hebrews 6:4-6",
+        "original": "Heb. 6:4-6"
+      },
+      {
+        "reference": "Hebrews 10:38",
+        "original": "Heb 10:38"
+      },
+      {
+        "reference": "Hebrews 10:39",
+        "original": "Heb 10:39"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "bosses": {
+    "name": "Resaltes",
+    "slug": "bosses",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las partes salientes de un escudo (Job 15:26). La palabra hebrea traducida así significa cualquier cosa convexa o arqueada, y por tanto la espalda, como la de los animales."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 15:26",
+        "original": "Job 15:26"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  }
+}

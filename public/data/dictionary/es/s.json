@@ -26,5 +26,101 @@
       "EAS"
     ],
     "letter": "s"
+  },
+  "assurance": {
+    "name": "Seguridad (o Certeza)",
+    "slug": "assurance",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La resurrección de Jesús (Hechos 17:31) es la \"seguridad\" (gr. pistis, generalmente traducido como \"fe\") o garantía que Dios ha dado de que su revelación es verdadera y digna de aceptación. La \"plena seguridad [gr. plerophoria, 'plena convicción'] de fe\" (Hebreos 10:22) es una plenitud de fe en Dios que no deja lugar a dudas. La \"plena seguridad de entendimiento\" (Colosenses 2:2) es una convicción inquebrantable de la verdad de las declaraciones de las Escrituras, una firmeza gozosa por parte de quien está convencido de haber captado la verdad misma. La \"plena seguridad de esperanza\" (Hebreos 6:11) es una expectativa segura y bien fundamentada de la gloria eterna (2 Timoteo 4:7, 8). Esta seguridad de esperanza es la seguridad de la salvación particular de cada persona. Esta seguridad infalible, que los creyentes pueden alcanzar respecto a su propia salvación personal, se fundamenta en la verdad de las promesas (Hebreos 6:18), en la evidencia interna de las gracias cristianas y en el testimonio del Espíritu de adopción (Romanos 8:16). Que tal certeza puede ser alcanzada se desprende del testimonio de las Escrituras (Romanos 8:16; 1 Juan 2:3; 3:14), del mandato de buscarla (Hebreos 6:11; 2 Pedro 1:10) y del hecho de que ha sido alcanzada (2 Timoteo 1:12; 4:7, 8; 1 Juan 2:3; 4:16). Esta plena seguridad no es de la esencia de la fe salvadora. Es el resultado de la fe, y posterior a ella en el orden de la naturaleza, y frecuentemente también en el orden del tiempo. Los verdaderos creyentes pueden carecer de ella. La confianza misma es algo diferente de la evidencia de que confiamos. Los creyentes, además, son exhortados a buscar algo más allá de lo que poseen actualmente cuando se les insta a procurar la gracia de la plena seguridad (Hebreos 10:22; 2 Pedro 1:5-10). El logro de esta gracia es un deber, y debe buscarse diligentemente. \"La seguridad genuina conduce naturalmente a una paz y un gozo legítimos y duraderos, y al amor y agradecimiento a Dios; y esto, por las leyes mismas de nuestro ser, conlleva una mayor vitalidad, fuerza y alegría en la práctica de la obediencia en cada departamento del deber\". Esta seguridad puede verse sacudida, disminuida e interrumpida de diversas maneras, pero el principio del cual brota nunca puede perderse. (Véase FE)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 17:31",
+        "original": "Acts 17:31"
+      },
+      {
+        "reference": "Hebrews 10:22",
+        "original": "Heb. 10:22"
+      },
+      {
+        "reference": "Colossians 2:2",
+        "original": "Col. 2:2"
+      },
+      {
+        "reference": "Hebrews 6:11",
+        "original": "Heb. 6:11"
+      },
+      {
+        "reference": "2 Timothy 4:7",
+        "original": "2 Tim. 4:7"
+      },
+      {
+        "reference": "2 Timothy 4:8",
+        "original": "2 Tim. 4:8"
+      },
+      {
+        "reference": "Hebrews 6:18",
+        "original": "Heb. 6:18"
+      },
+      {
+        "reference": "Romans 8:16",
+        "original": "Rom. 8:16"
+      },
+      {
+        "reference": "1 John 2:3",
+        "original": "1 John 2:3"
+      },
+      {
+        "reference": "1 John 3:14",
+        "original": "1 John 3:14"
+      },
+      {
+        "reference": "2 Timothy 1:12",
+        "original": "2 Tim. 1:12"
+      },
+      {
+        "reference": "1 John 4:16",
+        "original": "1 John 4:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "bosom": {
+    "name": "Seno",
+    "slug": "bosom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En el Oriente se llevan en el seno objetos que los europeos llevan en el bolsillo. Tener algo en el seno indica bondad, secreto o intimidad (Gén. 16:5; 2 Sam. 12:8). Se dice que Cristo estuvo en “el seno del Padre”, es decir, tenía el conocimiento más perfecto del Padre, tenía la más estrecha intimidad con él (Juan 1:18). Juan (13:23) estaba “recostado en el seno de Jesús” en la última cena. Nuestro Señor lleva a sus corderos en su seno, es decir, tiene un cuidado tierno y vigilante sobre ellos (Isa. 40:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 16:5",
+        "original": "Gen. 16:5"
+      },
+      {
+        "reference": "2 Samuel 12:8",
+        "original": "2 Sam. 12:8"
+      },
+      {
+        "reference": "John 1:18",
+        "original": "John 1:18"
+      },
+      {
+        "reference": "Isaiah 40:11",
+        "original": "Isa. 40:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
   }
 }

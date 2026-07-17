@@ -1,0 +1,277 @@
+{
+  "alms": {
+    "name": "Limosna",
+    "slug": "alms",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No se encuentra en el Antiguo Testamento, pero sí repetidamente en el Nuevo. La legislación mosaica (Lev. 25:35; Deut. 15:7) tendía a promover un espíritu de caridad y a prevenir la ocurrencia de la indigencia entre el pueblo. Pasajes como estos: Sal. 41:1; 112:9; Prov. 14:31; Isa. 10:2; Amós 2:7; Jer. 5:28; Ez. 22:29, también fomentarían naturalmente el mismo espíritu benevolente. En la época de nuestro Señor, la mendicidad era común (Marcos 10:46; Hechos 3:2). Los fariseos eran muy ostentosos en sus limosnas (Mat. 6:2). El espíritu por el cual el cristiano debe ser movido en este deber se expone en 1 Juan 3:17. Prestar atención al estado de los pobres y necesitados se ordena como un deber cristiano (Luc. 3:11; 6:30; Mat. 6:1; Hechos 9:36; 10:2, 4), un deber que no fue descuidado por los primeros cristianos (Luc. 14:13; Hechos 20:35; Gál. 2:10; Rom. 15:25-27; 1 Cor. 16:1-4). Se preocupaban no solo por los pobres entre ellos, sino que también contribuían a las necesidades de los que estaban a distancia (Hechos 11:29; 24:17; 2 Cor. 9:12). Nuestro Señor y sus acompañantes también mostraron un ejemplo en esto (Juan 13:29). En los tiempos modernos, las “leyes de pobres” han introducido un elemento que modifica considerablemente la forma en que podemos cumplir con este deber cristiano."
+      },
+      {
+        "source": "SMI",
+        "text": "El deber de dar limosna, especialmente en especie, que consiste principalmente en porciones que deben dejarse deliberadamente del producto del campo, el viñedo y el olivar (Levítico 19:9, 10; 23:22; 15:11; 24:19; 26:2-13; Rut 2:2), es estrictamente ordenado por la ley. Cada tercer año también (14:28), se indicó a cada propietario que compartiera el diezmo de sus productos con “el levita, el extranjero, el huérfano y la viuda”. La estimación teológica de la limosna entre los judíos se indica en los siguientes pasajes: (Job 31:17; Proverbios 10:2; 11:4; Ester 9:22; Salmos 112:9; Hechos 9:36) el caso de Dorcas; (Hechos 10:2) de Cornelio; a lo cual se pueden añadir Tobías 4:10, 11; 14:10, 11, y Eclesiástico 3:30; 40:24. Los fariseos eran celosos en la limosna, pero demasiado ostentosos en su modo de actuar, por lo cual nuestro Señor los reprende (Mateo 6:2). El deber de socorrer a los pobres no fue descuidado por los cristianos (Mateo 6:1-4; Lucas 14:13; Hechos 20:35; Gálatas 2:10). Se esperaba una entrega regular y proporcionada (Hechos 11:30; Romanos 15:25-27; 1 Corintios 16:1-4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:35",
+        "original": "Lev. 25:35"
+      },
+      {
+        "reference": "Deuteronomy 15:7",
+        "original": "Deut. 15:7"
+      },
+      {
+        "reference": "Psalms 41:1",
+        "original": "Ps. 41:1"
+      },
+      {
+        "reference": "Psalms 112:9",
+        "original": "Ps 112:9"
+      },
+      {
+        "reference": "Proverbs 14:31",
+        "original": "Prov. 14:31"
+      },
+      {
+        "reference": "Isaiah 10:2",
+        "original": "Isa. 10:2"
+      },
+      {
+        "reference": "Amos 2:7",
+        "original": "Amos 2:7"
+      },
+      {
+        "reference": "Jeremiah 5:28",
+        "original": "Jer. 5:28"
+      },
+      {
+        "reference": "Ezekiel 22:29",
+        "original": "Ezek. 22:29"
+      },
+      {
+        "reference": "Mark 10:46",
+        "original": "Mark 10:46"
+      },
+      {
+        "reference": "Acts 3:2",
+        "original": "Acts 3:2"
+      },
+      {
+        "reference": "Matthew 6:2",
+        "original": "Matt. 6:2"
+      },
+      {
+        "reference": "1 John 3:17",
+        "original": "1 John 3:17"
+      },
+      {
+        "reference": "Luke 3:11",
+        "original": "Luke 3:11"
+      },
+      {
+        "reference": "Luke 6:30",
+        "original": "Luke 6:30"
+      },
+      {
+        "reference": "Matthew 6:1",
+        "original": "Matt. 6:1"
+      },
+      {
+        "reference": "Acts 9:36",
+        "original": "Acts 9:36"
+      },
+      {
+        "reference": "Acts 10:2",
+        "original": "Acts 10:2"
+      },
+      {
+        "reference": "Acts 10:4",
+        "original": "Acts 10:4"
+      },
+      {
+        "reference": "Luke 14:13",
+        "original": "Luke 14:13"
+      },
+      {
+        "reference": "Acts 20:35",
+        "original": "Acts 20:35"
+      },
+      {
+        "reference": "Galatians 2:10",
+        "original": "Gal. 2:10"
+      },
+      {
+        "reference": "Romans 15:25-27",
+        "original": "Rom. 15:25-27"
+      },
+      {
+        "reference": "1 Corinthians 16:1-4",
+        "original": "1 Cor. 16:1-4"
+      },
+      {
+        "reference": "Acts 11:29",
+        "original": "Acts 11:29"
+      },
+      {
+        "reference": "Acts 24:17",
+        "original": "Acts 24:17"
+      },
+      {
+        "reference": "2 Corinthians 9:12",
+        "original": "2 Cor. 9:12"
+      },
+      {
+        "reference": "John 13:29",
+        "original": "John 13:29"
+      },
+      {
+        "reference": "Leviticus 19:9",
+        "original": "Leviticus 19:9"
+      },
+      {
+        "reference": "Leviticus 19:10",
+        "original": "Leviticus 19:10"
+      },
+      {
+        "reference": "Leviticus 23:22",
+        "original": "Leviticus 23:22"
+      },
+      {
+        "reference": "Leviticus 15:11",
+        "original": "Leviticus 15:11"
+      },
+      {
+        "reference": "Leviticus 24:19",
+        "original": "Leviticus 24:19"
+      },
+      {
+        "reference": "Leviticus 26:2-13",
+        "original": "Leviticus 26:2-13"
+      },
+      {
+        "reference": "Ruth 2:2",
+        "original": "Ruth 2:2"
+      },
+      {
+        "reference": "Job 31:17",
+        "original": "Job 31:17"
+      },
+      {
+        "reference": "Proverbs 10:2",
+        "original": "Proverbs 10:2"
+      },
+      {
+        "reference": "Proverbs 11:4",
+        "original": "Proverbs 11:4"
+      },
+      {
+        "reference": "Esther 9:22",
+        "original": "Esther 9:22"
+      },
+      {
+        "reference": "Tob 4:10",
+        "original": "Tobit 4:10"
+      },
+      {
+        "reference": "Tob 4:11",
+        "original": "Tobit 4:11"
+      },
+      {
+        "reference": "Tob 14:10",
+        "original": "Tobit 14:10"
+      },
+      {
+        "reference": "Tob 14:11",
+        "original": "Tobit 14:11"
+      },
+      {
+        "reference": "Sir 3:30",
+        "original": "Ecclus. 3:30"
+      },
+      {
+        "reference": "Sir 40:24",
+        "original": "Ecclus 40:24"
+      },
+      {
+        "reference": "Matthew 6:1-4",
+        "original": "Matthew 6:1-4"
+      },
+      {
+        "reference": "Acts 11:30",
+        "original": "Acts 11:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "awl": {
+    "name": "Lesna",
+    "slug": "awl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un instrumento mencionado solo en relación con la costumbre de horadar la oreja de un esclavo (Éx. 21:6; Deut. 15:17), como señal de que se ofrece voluntariamente a un servicio perpetuo cuando podría ser libre. (Comp. Sal. 40:6; Isa. 50:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "una herramienta cuya forma antigua desconocemos. La única mención de ella es en relación con la costumbre de horadar la oreja del esclavo. (Éxodo 21:6; 15:17)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 21:6",
+        "original": "Ex. 21:6"
+      },
+      {
+        "reference": "Deuteronomy 15:17",
+        "original": "Deut. 15:17"
+      },
+      {
+        "reference": "Psalms 40:6",
+        "original": "Ps. 40:6"
+      },
+      {
+        "reference": "Isaiah 50:5",
+        "original": "Isa. 50:5"
+      },
+      {
+        "reference": "Exodus 15:17",
+        "original": "Exodus 15:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "bay-tree": {
+    "name": "Laurel",
+    "slug": "bay-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado solo en Sal. 37:35, Versión Autorizada. La palabra hebrea traducida así es ereh, que simplemente significa \"nativo\", es decir, un árbol no trasplantado, sino que crece en su suelo natal, y por lo tanto, exuberantemente. Si el salmista pretendía designar algún árbol en particular, pudo haber sido el laurel perenne (Laurus nobilis), que es nativo de Palestina. En lugar de \"como un laurel verde\" en la Versión Autorizada, la Versión Revisada dice: \"como un árbol verde en su suelo nativo\"."
+      },
+      {
+        "source": "SMI",
+        "text": "Una especie de laurel. Laurus nobilis. Un árbol de hoja perenne, con hojas como nuestro laurel de montaña. (Salmos 37:35)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 37:35",
+        "original": "Ps. 37:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  }
+}
