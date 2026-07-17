@@ -1,4 +1,33 @@
 {
+  "ulai": {
+    "name": "Ulai",
+    "slug": "ulai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O Eulaus dos gregos; um rio da Susiana. Provavelmente tratava-se do braço oriental do Choasper (Kerkhan), que se dividia em dois braços cerca de 20 milhas rio acima da cidade de Susa. Por isso, Daniel (8:2, 16) fala de estar “entre as margens do Ulai”, ou seja, entre os dois braços do rio dividido."
+      },
+      {
+        "source": "SMI",
+        "text": "(água pura) é mencionado por Daniel (Daniel 8:2, 16) como um rio próximo a Susa, onde ele teve sua visão do carneiro e do bode. Tem sido geralmente identificado com o Eulaeus dos geógrafos gregos e romanos, um grande curso d’água nas imediações daquela cidade. O Eulseus tem sido identificado por muitos com o Choaspes, que é, sem dúvida, o atual Kerkhah, um afluente do Tigre, que deságua nele um pouco abaixo de Kurnah. Pesquisas recentes mostram que o Choaspes outrora se dividia em dois cursos d’água cerca de 20 milhas acima de Susa. O ramo oriental era o Ulai. Essa bifurcação explica (Daniel 8:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 8:2",
+        "original": "Daniel 8:2"
+      },
+      {
+        "reference": "Daniel 8:16",
+        "original": "Daniel 8:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
   "anoint": {
     "name": "Ungir",
     "slug": "anoint",
@@ -156,6 +185,185 @@
     ],
     "sources": [
       "EAS"
+    ],
+    "letter": "u"
+  },
+  "ointment": {
+    "name": "Unguento",
+    "slug": "ointment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Várias preparações perfumadas, também compostos para fins médicos, são assim chamados (Êx. 30:25; Sal. 133:2; Isa. 1:6; Amós 6:6; João 12:3; Apo. 18:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Uma substância oleosa ou untuosa, geralmente composta de óleo com várias especiarias, resinas e aromáticos, e preservada em pequenos frascos ou vasos de alabastro, nos quais o aroma delicioso era melhor preservado. Sabe-se que alguns dos unguentos retêm sua fragrância por várias centenas de anos. Eram um luxo muito cobiçado e, muitas vezes, muito caros.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:25",
+        "original": "Ex. 30:25"
+      },
+      {
+        "reference": "Psalms 133:2",
+        "original": "Ps. 133:2"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "Revelation 18:13",
+        "original": "Rev. 18:13"
+      },
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matthew 26:12"
+      },
+      {
+        "reference": "Jeremiah 8:22",
+        "original": "Jeremiah 8:22"
+      },
+      {
+        "reference": "John 9:6",
+        "original": "John 9:6"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Revelation 3:18"
+      },
+      {
+        "reference": "Exodus 30:23",
+        "original": "Exodus 30:23"
+      },
+      {
+        "reference": "Exodus 30:33",
+        "original": "Exodus 30:33"
+      },
+      {
+        "reference": "Exodus 29:7",
+        "original": "Exodus 29:7"
+      },
+      {
+        "reference": "Exodus 37:29",
+        "original": "Exodus 37:29"
+      },
+      {
+        "reference": "Exodus 40:9",
+        "original": "Exodus 40:9"
+      },
+      {
+        "reference": "Exodus 40:15",
+        "original": "Exodus 40:15"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Nehemiah 3:8"
+      },
+      {
+        "reference": "1 Samuel 8:13",
+        "original": "1 Samuel 8:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "unni": {
+    "name": "Uni",
+    "slug": "unni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Afecito. (1.) Um levita que Davi designou para participar da traslação da arca de Jerusalém, da casa de Obede-Edom, tocando o saltério nessa ocasião (1 Crôn. 15:18, 20). (2.) Um levita que retornou com Zorobabel do cativeiro (Neemias 12:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(deprimido)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chr. 15:18"
+      },
+      {
+        "reference": "1 Chronicles 15:20",
+        "original": "1 Chr. 15:20"
+      },
+      {
+        "reference": "Nehemiah 12:9",
+        "original": "Neh. 12:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "unicorn": {
+    "name": "Unicórnio",
+    "slug": "unicorn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Descrito como um animal de grande ferocidade e força (Nm 23:22, R.V., “boi selvagem”, nota marginal, “antílope-boi”; 24:8; Isaías 34:7, R.V., “bois selvagens”), e indomável (Jó 39:9). Na realidade, era um animal com dois chifres; mas a referência exata da palavra assim traduzida (reem) é duvidosa. Alguns supõem que se trate do búfalo; outros, do antílope branco, chamado pelos árabes de rim. Muito provavelmente, porém, a palavra denota o Bos primigenius (“boi primitivo”), que hoje está extinto em todo o mundo. Esse era o auerochs dos germânicos e o urus descrito por César (Galaecia, vi. 28) como habitante da floresta hercínica. A palavra assim traduzida foi encontrada em uma inscrição assíria escrita sobre o boi selvagem ou bisão, que alguns também supõem ser o animal a que se refere (comp. Dt 33,17; Sl 22,21; 29,6; 92,10)."
+      },
+      {
+        "source": "SMI",
+        "text": "a tradução da Versão Autorizada do termo hebraico “reem”, uma palavra que aparece sete vezes no Antigo Testamento como o nome de algum animal selvagem de grande porte. O “reem” da Bíblia hebraica, no entanto, não tem absolutamente nada a ver com o animal de um único chifre descrito pelos escritores gregos e romanos, como fica evidente em (33:17), onde, na bênção de José, está escrito: “sua glória é como a do primogênito de seu novilho, e seus chifres são como os chifres de um unicórnio”; e não, como traduz o texto da Versão Autorizada, “os chifres de unicórnios”. Os dois chifres do carneiro são “os dez mil de Efraim e os mil de Manassés”. Esse texto descarta totalmente a possibilidade de um animal com um único chifre. Considerando que o reem é descrito como um animal de dois chifres, de grande força e ferocidade; que era evidentemente bem conhecido e frequentemente avistado pelos judeus; que é mencionado como um animal adequado para fins sacrificiais; e que é frequentemente associado a touros e bois, acreditamos que não haja dúvida de que se trata de alguma espécie de boi selvagem. A alusão em (Salmos 92:10) “Mas tu elevarás, como um reem, o meu chifre”, parece indicar a maneira como os bovídeos usam seus chifres, abaixando a cabeça e, em seguida, lançando-a para cima. Mas é impossível determinar qual espécie específica de boi selvagem está sendo referida; provavelmente trata-se de algum urus gigantesco. (É provável que se trate do gigantesco Bos primigenius, ou auroque, hoje extinto, mas sobre o qual César diz: “Esses uri são de tamanho quase igual ao dos elefantes, mas, em sua natureza, cor e forma, são touros. Grande é a sua força e grande a sua velocidade; não poupam nem homem nem animal, uma vez que os avistam” — Bell. Gall. vi. 20. — ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 23:22",
+        "original": "Num. 23:22"
+      },
+      {
+        "reference": "Isaiah 34:7",
+        "original": "Isa. 34:7"
+      },
+      {
+        "reference": "Job 39:9",
+        "original": "Job 39:9"
+      },
+      {
+        "reference": "Deuteronomy 33:17",
+        "original": "Deut. 33:17"
+      },
+      {
+        "reference": "Psalms 22:21",
+        "original": "Ps. 22:21"
+      },
+      {
+        "reference": "Psalms 29:6",
+        "original": "Ps 29:6"
+      },
+      {
+        "reference": "Psalms 92:10",
+        "original": "Ps 92:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
     ],
     "letter": "u"
   },
@@ -319,481 +527,6 @@
     ],
     "letter": "u"
   },
-  "bear": {
-    "name": "Urso",
-    "slug": "bear",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Nativo das regiões montanhosas da Ásia Ocidental, frequentemente mencionado nas Escrituras. Davi defendeu seus rebanhos contra os ataques de um urso (1 Sm 17:34-37). Ursos saíram do bosque e despedaçaram as crianças que zombaram do profeta Eliseu (2 Rs 2:24). Seus hábitos são referidos em Is 59:11; Pv 28:15; Lm 3:10. A fúria da ursa privada de seus filhotes é mencionada (2 Sm 17:8; Pv 17:12; Os 13:8). Na visão de Daniel sobre as quatro grandes monarquias, o império medo-persa é representado por um urso (7:5)."
-      },
-      {
-        "source": "SMI",
-        "text": "(1 Samuel 17:34; 2 Samuel 17:8) O urso sírio, Ursus syriacus, que é sem dúvida o animal mencionado na Bíblia, ainda é encontrado nas montanhas mais altas da Palestina. Durante os meses de verão, esses ursos permanecem nas partes nevadas do Líbano, mas descem no inverno para as aldeias e jardins. É provável também que, neste período, em tempos passados, eles estendessem suas visitas a outras partes da Palestina."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Samuel 17:34-37",
-        "original": "1 Sam. 17:34-37"
-      },
-      {
-        "reference": "2 Kings 2:24",
-        "original": "2 Kings 2:24"
-      },
-      {
-        "reference": "Isaiah 59:11",
-        "original": "Isa. 59:11"
-      },
-      {
-        "reference": "Proverbs 28:15",
-        "original": "Prov. 28:15"
-      },
-      {
-        "reference": "Lamentations 3:10",
-        "original": "Lam. 3:10"
-      },
-      {
-        "reference": "2 Samuel 17:8",
-        "original": "2 Sam. 17:8"
-      },
-      {
-        "reference": "Proverbs 17:12",
-        "original": "Prov. 17:12"
-      },
-      {
-        "reference": "Hosea 13:8",
-        "original": "Hos. 13:8"
-      },
-      {
-        "reference": "1 Samuel 17:34",
-        "original": "1 Samuel 17:34"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "blains": {
-    "name": "Úlceras",
-    "slug": "blains",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Ocorre apenas em conexão com a sexta praga do Egito (Êx 9:9, 10). Em Dt 28:27, 35, é chamada de \"úlcera do Egito\". Parece ter sido a terrível doença da lepra negra, uma espécie de elefantíase que produz úlceras ardentes."
-      },
-      {
-        "source": "SMI",
-        "text": "inflamações ulcerosas violentas, a sexta praga do Egito (Êxodo 9:9,10) e, portanto, chamada em (Dt 28:27,35) de \"úlcera do Egito\". Parece ter sido a lepra negra, uma forma terrível de elefantíase."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Exodus 9:9",
-        "original": "Ex. 9:9"
-      },
-      {
-        "reference": "Exodus 9:10",
-        "original": "Ex 9:10"
-      },
-      {
-        "reference": "Deuteronomy 28:27",
-        "original": "Deut. 28:27"
-      },
-      {
-        "reference": "Deuteronomy 28:35",
-        "original": "Deut. 28:35"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "boil": {
-    "name": "Úlcera",
-    "slug": "boil",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "(traduzido como \"ferida\" em Dt 28:27, 35), uma úlcera agravada, como no caso de Ezequias (2 Reis 20:7; Is 38:21) ou dos egípcios (Êx 9:9, 10, 11; Dt 28:27, 35). Designa a doença de Jó (2:7), que provavelmente era a lepra negra."
-      },
-      {
-        "source": "SMI",
-        "text": "[Medicina]"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Deuteronomy 28:27",
-        "original": "Deut. 28:27"
-      },
-      {
-        "reference": "Deuteronomy 28:35",
-        "original": "Deut. 28:35"
-      },
-      {
-        "reference": "2 Kings 20:7",
-        "original": "2 Kings 20:7"
-      },
-      {
-        "reference": "Isaiah 38:21",
-        "original": "Isa. 38:21"
-      },
-      {
-        "reference": "Exodus 9:9",
-        "original": "Ex. 9:9"
-      },
-      {
-        "reference": "Exodus 9:10",
-        "original": "Ex. 9:10"
-      },
-      {
-        "reference": "Exodus 9:11",
-        "original": "Ex. 9:11"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "botch": {
-    "name": "Úlcera (ou Pústula)",
-    "slug": "botch",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "O nome dado em Deut. 28:27, 35 a uma das pragas egípcias (Êx. 9:9). A palavra assim traduzida é geralmente traduzida como “úlcera” ou “ferida”."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Deuteronomy 28:27",
-        "original": "Deuteronomy 28:27"
-      },
-      {
-        "reference": "Deuteronomy 28:35",
-        "original": "Deuteronomy 28:35"
-      },
-      {
-        "reference": "Exodus 9:9",
-        "original": "Exodus 9:9"
-      }
-    ],
-    "sources": [
-      "EAS"
-    ],
-    "letter": "u"
-  },
-  "earthenware": {
-    "name": "Utensílios de barro (Earthenware)",
-    "slug": "earthenware",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "[Olaria]"
-      }
-    ],
-    "scripture_refs": [],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "grape": {
-    "name": "Uva",
-    "slug": "grape",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "O fruto da videira, que era extensivamente cultivado na Palestina. As uvas são mencionadas como “tenras” (Ct 2:13, 15), “verdes” (Jó 15:33), “azedas” (Is 18:5), “bravas” (Is 5:2, 4). (Veja Ap 14:18; Mq 7:1; Jr 6:9; Ez 18:2, para o uso figurado da palavra.) (Veja VIDEIRA.)"
-      },
-      {
-        "source": "SMI",
-        "text": "[Videira]"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Song of Solomon 2:13",
-        "original": "Cant. 2:13"
-      },
-      {
-        "reference": "Song of Solomon 2:15",
-        "original": "Cant. 2:15"
-      },
-      {
-        "reference": "Job 15:33",
-        "original": "Job 15:33"
-      },
-      {
-        "reference": "Isaiah 18:5",
-        "original": "Isa. 18:5"
-      },
-      {
-        "reference": "Isaiah 5:2",
-        "original": "Isa. 5:2"
-      },
-      {
-        "reference": "Isaiah 5:4",
-        "original": "Isa. 5:4"
-      },
-      {
-        "reference": "Revelation 14:18",
-        "original": "Rev. 14:18"
-      },
-      {
-        "reference": "Micah 7:1",
-        "original": "Micah 7:1"
-      },
-      {
-        "reference": "Jeremiah 6:9",
-        "original": "Jer. 6:9"
-      },
-      {
-        "reference": "Ezekiel 18:2",
-        "original": "Ezek. 18:2"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "huz": {
-    "name": "Uz",
-    "slug": "huz",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(solo leve e arenoso), o filho primogênito de Naor e Milca. (Gênesis 22:21) (A.C. cerca de 1900)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Genesis 22:21",
-        "original": "Genesis 22:21"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "nettle": {
-    "name": "Urtiga",
-    "slug": "nettle",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "(1.) Heb. haral, “picante” ou “queimante”, Provérbios 24:30, 31 (R.V. marg., “ervilhacas bravas”); Jó 30:7; Sofonias 2:9. Muitos supuseram que alguma planta espinhosa ou pungente é pretendida por esta palavra, como a sarça, o cardo, a ameixeira brava, o cacto ou figo-da-índia, etc. Provavelmente pode ser uma espécie de mostarda, a Sinapis arvensis, que é uma erva daninha nociva abundante nos campos de milho. Tristram pensa que esta palavra “designa o acanto espinhoso (Acanthus spinosus), uma erva daninha muito comum e incômoda nas planícies da Palestina.” (2.) Heb. qimmosh, Isaías 34:13; Oséias 9:6; Provérbios 24:31 (em ambas as versões, “espinhos”). Esta palavra tem sido considerada como denotando espinhos, cardos, camomila brava; mas provavelmente é traduzida corretamente como “urtiga”, a Urtica pilulifera, “uma planta alta e vigorosa, muitas vezes com 6 pés de altura, cuja picada é muito mais severa e irritante do que a da nossa urtiga comum.”"
-      },
-      {
-        "source": "SMI",
-        "text": "uma planta bem conhecida coberta com minúsculos pelos afiados; contendo um veneno que produz uma sensação dolorosa e sufocante. Cresce em terreno negligenciado. Uma palavra hebraica diferente em (Jó 30:7; Provérbios 24:31; Sofonias 2:9) parece indicar uma espécie diferente."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Proverbs 24:30",
-        "original": "Prov. 24:30"
-      },
-      {
-        "reference": "Proverbs 24:31",
-        "original": "Prov. 24:31"
-      },
-      {
-        "reference": "Job 30:7",
-        "original": "Job 30:7"
-      },
-      {
-        "reference": "Zephaniah 2:9",
-        "original": "Zeph. 2:9"
-      },
-      {
-        "reference": "Isaiah 34:13",
-        "original": "Isa. 34:13"
-      },
-      {
-        "reference": "Hosea 9:6",
-        "original": "Hos. 9:6"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "ointment": {
-    "name": "Unguento",
-    "slug": "ointment",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Várias preparações perfumadas, também compostos para fins médicos, são assim chamados (Êx. 30:25; Sal. 133:2; Isa. 1:6; Amós 6:6; João 12:3; Apo. 18:13)."
-      },
-      {
-        "source": "SMI",
-        "text": "(Uma substância oleosa ou untuosa, geralmente composta de óleo com várias especiarias, resinas e aromáticos, e preservada em pequenos frascos ou vasos de alabastro, nos quais o aroma delicioso era melhor preservado. Sabe-se que alguns dos unguentos retêm sua fragrância por várias centenas de anos. Eram um luxo muito cobiçado e, muitas vezes, muito caros.—ED.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Exodus 30:25",
-        "original": "Ex. 30:25"
-      },
-      {
-        "reference": "Psalms 133:2",
-        "original": "Ps. 133:2"
-      },
-      {
-        "reference": "Isaiah 1:6",
-        "original": "Isa. 1:6"
-      },
-      {
-        "reference": "Amos 6:6",
-        "original": "Amos 6:6"
-      },
-      {
-        "reference": "John 12:3",
-        "original": "John 12:3"
-      },
-      {
-        "reference": "Revelation 18:13",
-        "original": "Rev. 18:13"
-      },
-      {
-        "reference": "Ruth 3:2",
-        "original": "Ruth 3:2"
-      },
-      {
-        "reference": "Matthew 26:12",
-        "original": "Matthew 26:12"
-      },
-      {
-        "reference": "Jeremiah 8:22",
-        "original": "Jeremiah 8:22"
-      },
-      {
-        "reference": "John 9:6",
-        "original": "John 9:6"
-      },
-      {
-        "reference": "Revelation 3:18",
-        "original": "Revelation 3:18"
-      },
-      {
-        "reference": "Exodus 30:23",
-        "original": "Exodus 30:23"
-      },
-      {
-        "reference": "Exodus 30:33",
-        "original": "Exodus 30:33"
-      },
-      {
-        "reference": "Exodus 29:7",
-        "original": "Exodus 29:7"
-      },
-      {
-        "reference": "Exodus 37:29",
-        "original": "Exodus 37:29"
-      },
-      {
-        "reference": "Exodus 40:9",
-        "original": "Exodus 40:9"
-      },
-      {
-        "reference": "Exodus 40:15",
-        "original": "Exodus 40:15"
-      },
-      {
-        "reference": "Nehemiah 3:8",
-        "original": "Nehemiah 3:8"
-      },
-      {
-        "reference": "1 Samuel 8:13",
-        "original": "1 Samuel 8:13"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "raisins": {
-    "name": "Uvas",
-    "slug": "raisins",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Uvas secas; mencionadas em 1 Samuel 25:18; 30:12; 2 Samuel 16:1; 1 Crônicas 12:40."
-      },
-      {
-        "source": "SMI",
-        "text": "[Está chegando]"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Samuel 25:18",
-        "original": "1 Sam. 25:18"
-      },
-      {
-        "reference": "1 Samuel 30:12",
-        "original": "1 Sam. 30:12"
-      },
-      {
-        "reference": "2 Samuel 16:1",
-        "original": "2 Sam. 16:1"
-      },
-      {
-        "reference": "1 Chronicles 12:40",
-        "original": "1 Chr. 12:40"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "ulai": {
-    "name": "Ulai",
-    "slug": "ulai",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "O Eulaus dos gregos; um rio da Susiana. Provavelmente tratava-se do braço oriental do Choasper (Kerkhan), que se dividia em dois braços cerca de 20 milhas rio acima da cidade de Susa. Por isso, Daniel (8:2, 16) fala de estar “entre as margens do Ulai”, ou seja, entre os dois braços do rio dividido."
-      },
-      {
-        "source": "SMI",
-        "text": "(água pura) é mencionado por Daniel (Daniel 8:2, 16) como um rio próximo a Susa, onde ele teve sua visão do carneiro e do bode. Tem sido geralmente identificado com o Eulaeus dos geógrafos gregos e romanos, um grande curso d’água nas imediações daquela cidade. O Eulseus tem sido identificado por muitos com o Choaspes, que é, sem dúvida, o atual Kerkhah, um afluente do Tigre, que deságua nele um pouco abaixo de Kurnah. Pesquisas recentes mostram que o Choaspes outrora se dividia em dois cursos d’água cerca de 20 milhas acima de Susa. O ramo oriental era o Ulai. Essa bifurcação explica (Daniel 8:16)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Daniel 8:2",
-        "original": "Daniel 8:2"
-      },
-      {
-        "reference": "Daniel 8:16",
-        "original": "Daniel 8:16"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
   "unction": {
     "name": "Unção",
     "slug": "unction",
@@ -815,55 +548,6 @@
     ],
     "sources": [
       "EAS"
-    ],
-    "letter": "u"
-  },
-  "unicorn": {
-    "name": "Unicórnio",
-    "slug": "unicorn",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Descrito como um animal de grande ferocidade e força (Nm 23:22, R.V., “boi selvagem”, nota marginal, “antílope-boi”; 24:8; Isaías 34:7, R.V., “bois selvagens”), e indomável (Jó 39:9). Na realidade, era um animal com dois chifres; mas a referência exata da palavra assim traduzida (reem) é duvidosa. Alguns supõem que se trate do búfalo; outros, do antílope branco, chamado pelos árabes de rim. Muito provavelmente, porém, a palavra denota o Bos primigenius (“boi primitivo”), que hoje está extinto em todo o mundo. Esse era o auerochs dos germânicos e o urus descrito por César (Galaecia, vi. 28) como habitante da floresta hercínica. A palavra assim traduzida foi encontrada em uma inscrição assíria escrita sobre o boi selvagem ou bisão, que alguns também supõem ser o animal a que se refere (comp. Dt 33,17; Sl 22,21; 29,6; 92,10)."
-      },
-      {
-        "source": "SMI",
-        "text": "a tradução da Versão Autorizada do termo hebraico “reem”, uma palavra que aparece sete vezes no Antigo Testamento como o nome de algum animal selvagem de grande porte. O “reem” da Bíblia hebraica, no entanto, não tem absolutamente nada a ver com o animal de um único chifre descrito pelos escritores gregos e romanos, como fica evidente em (33:17), onde, na bênção de José, está escrito: “sua glória é como a do primogênito de seu novilho, e seus chifres são como os chifres de um unicórnio”; e não, como traduz o texto da Versão Autorizada, “os chifres de unicórnios”. Os dois chifres do carneiro são “os dez mil de Efraim e os mil de Manassés”. Esse texto descarta totalmente a possibilidade de um animal com um único chifre. Considerando que o reem é descrito como um animal de dois chifres, de grande força e ferocidade; que era evidentemente bem conhecido e frequentemente avistado pelos judeus; que é mencionado como um animal adequado para fins sacrificiais; e que é frequentemente associado a touros e bois, acreditamos que não haja dúvida de que se trata de alguma espécie de boi selvagem. A alusão em (Salmos 92:10) “Mas tu elevarás, como um reem, o meu chifre”, parece indicar a maneira como os bovídeos usam seus chifres, abaixando a cabeça e, em seguida, lançando-a para cima. Mas é impossível determinar qual espécie específica de boi selvagem está sendo referida; provavelmente trata-se de algum urus gigantesco. (É provável que se trate do gigantesco Bos primigenius, ou auroque, hoje extinto, mas sobre o qual César diz: “Esses uri são de tamanho quase igual ao dos elefantes, mas, em sua natureza, cor e forma, são touros. Grande é a sua força e grande a sua velocidade; não poupam nem homem nem animal, uma vez que os avistam” — Bell. Gall. vi. 20. — ED.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Numbers 23:22",
-        "original": "Num. 23:22"
-      },
-      {
-        "reference": "Isaiah 34:7",
-        "original": "Isa. 34:7"
-      },
-      {
-        "reference": "Job 39:9",
-        "original": "Job 39:9"
-      },
-      {
-        "reference": "Deuteronomy 33:17",
-        "original": "Deut. 33:17"
-      },
-      {
-        "reference": "Psalms 22:21",
-        "original": "Ps. 22:21"
-      },
-      {
-        "reference": "Psalms 29:6",
-        "original": "Ps 29:6"
-      },
-      {
-        "reference": "Psalms 92:10",
-        "original": "Ps 92:10"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
     ],
     "letter": "u"
   },
@@ -1204,6 +888,108 @@
     ],
     "letter": "u"
   },
+  "bear": {
+    "name": "Urso",
+    "slug": "bear",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nativo das regiões montanhosas da Ásia Ocidental, frequentemente mencionado nas Escrituras. Davi defendeu seus rebanhos contra os ataques de um urso (1 Sm 17:34-37). Ursos saíram do bosque e despedaçaram as crianças que zombaram do profeta Eliseu (2 Rs 2:24). Seus hábitos são referidos em Is 59:11; Pv 28:15; Lm 3:10. A fúria da ursa privada de seus filhotes é mencionada (2 Sm 17:8; Pv 17:12; Os 13:8). Na visão de Daniel sobre as quatro grandes monarquias, o império medo-persa é representado por um urso (7:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "(1 Samuel 17:34; 2 Samuel 17:8) O urso sírio, Ursus syriacus, que é sem dúvida o animal mencionado na Bíblia, ainda é encontrado nas montanhas mais altas da Palestina. Durante os meses de verão, esses ursos permanecem nas partes nevadas do Líbano, mas descem no inverno para as aldeias e jardins. É provável também que, neste período, em tempos passados, eles estendessem suas visitas a outras partes da Palestina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:34-37",
+        "original": "1 Sam. 17:34-37"
+      },
+      {
+        "reference": "2 Kings 2:24",
+        "original": "2 Kings 2:24"
+      },
+      {
+        "reference": "Isaiah 59:11",
+        "original": "Isa. 59:11"
+      },
+      {
+        "reference": "Proverbs 28:15",
+        "original": "Prov. 28:15"
+      },
+      {
+        "reference": "Lamentations 3:10",
+        "original": "Lam. 3:10"
+      },
+      {
+        "reference": "2 Samuel 17:8",
+        "original": "2 Sam. 17:8"
+      },
+      {
+        "reference": "Proverbs 17:12",
+        "original": "Prov. 17:12"
+      },
+      {
+        "reference": "Hosea 13:8",
+        "original": "Hos. 13:8"
+      },
+      {
+        "reference": "1 Samuel 17:34",
+        "original": "1 Samuel 17:34"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "nettle": {
+    "name": "Urtiga",
+    "slug": "nettle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. haral, “picante” ou “queimante”, Provérbios 24:30, 31 (R.V. marg., “ervilhacas bravas”); Jó 30:7; Sofonias 2:9. Muitos supuseram que alguma planta espinhosa ou pungente é pretendida por esta palavra, como a sarça, o cardo, a ameixeira brava, o cacto ou figo-da-índia, etc. Provavelmente pode ser uma espécie de mostarda, a Sinapis arvensis, que é uma erva daninha nociva abundante nos campos de milho. Tristram pensa que esta palavra “designa o acanto espinhoso (Acanthus spinosus), uma erva daninha muito comum e incômoda nas planícies da Palestina.” (2.) Heb. qimmosh, Isaías 34:13; Oséias 9:6; Provérbios 24:31 (em ambas as versões, “espinhos”). Esta palavra tem sido considerada como denotando espinhos, cardos, camomila brava; mas provavelmente é traduzida corretamente como “urtiga”, a Urtica pilulifera, “uma planta alta e vigorosa, muitas vezes com 6 pés de altura, cuja picada é muito mais severa e irritante do que a da nossa urtiga comum.”"
+      },
+      {
+        "source": "SMI",
+        "text": "uma planta bem conhecida coberta com minúsculos pelos afiados; contendo um veneno que produz uma sensação dolorosa e sufocante. Cresce em terreno negligenciado. Uma palavra hebraica diferente em (Jó 30:7; Provérbios 24:31; Sofonias 2:9) parece indicar uma espécie diferente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 24:30",
+        "original": "Prov. 24:30"
+      },
+      {
+        "reference": "Proverbs 24:31",
+        "original": "Prov. 24:31"
+      },
+      {
+        "reference": "Job 30:7",
+        "original": "Job 30:7"
+      },
+      {
+        "reference": "Zephaniah 2:9",
+        "original": "Zeph. 2:9"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa. 34:13"
+      },
+      {
+        "reference": "Hosea 9:6",
+        "original": "Hos. 9:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
   "usury": {
     "name": "Usura",
     "slug": "usury",
@@ -1273,6 +1059,139 @@
     ],
     "letter": "u"
   },
+  "earthenware": {
+    "name": "Utensílios de barro (Earthenware)",
+    "slug": "earthenware",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Olaria]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "grape": {
+    "name": "Uva",
+    "slug": "grape",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O fruto da videira, que era extensivamente cultivado na Palestina. As uvas são mencionadas como “tenras” (Ct 2:13, 15), “verdes” (Jó 15:33), “azedas” (Is 18:5), “bravas” (Is 5:2, 4). (Veja Ap 14:18; Mq 7:1; Jr 6:9; Ez 18:2, para o uso figurado da palavra.) (Veja VIDEIRA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Videira]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 2:13",
+        "original": "Cant. 2:13"
+      },
+      {
+        "reference": "Song of Solomon 2:15",
+        "original": "Cant. 2:15"
+      },
+      {
+        "reference": "Job 15:33",
+        "original": "Job 15:33"
+      },
+      {
+        "reference": "Isaiah 18:5",
+        "original": "Isa. 18:5"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isa. 5:2"
+      },
+      {
+        "reference": "Isaiah 5:4",
+        "original": "Isa. 5:4"
+      },
+      {
+        "reference": "Revelation 14:18",
+        "original": "Rev. 14:18"
+      },
+      {
+        "reference": "Micah 7:1",
+        "original": "Micah 7:1"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jer. 6:9"
+      },
+      {
+        "reference": "Ezekiel 18:2",
+        "original": "Ezek. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "raisins": {
+    "name": "Uvas",
+    "slug": "raisins",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uvas secas; mencionadas em 1 Samuel 25:18; 30:12; 2 Samuel 16:1; 1 Crônicas 12:40."
+      },
+      {
+        "source": "SMI",
+        "text": "[Está chegando]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Sam. 25:18"
+      },
+      {
+        "reference": "1 Samuel 30:12",
+        "original": "1 Sam. 30:12"
+      },
+      {
+        "reference": "2 Samuel 16:1",
+        "original": "2 Sam. 16:1"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chr. 12:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "huz": {
+    "name": "Uz",
+    "slug": "huz",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(solo leve e arenoso), o filho primogênito de Naor e Milca. (Gênesis 22:21) (A.C. cerca de 1900)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 22:21",
+        "original": "Genesis 22:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
   "uz-the-land-of": {
     "name": "Uz, a terra de",
     "slug": "uz-the-land-of",
@@ -1294,147 +1213,6 @@
     ],
     "sources": [
       "EAS"
-    ],
-    "letter": "u"
-  },
-  "uzai": {
-    "name": "Uzai",
-    "slug": "uzai",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(forte), pai de Palal, que ajudou Neemias na reconstrução da muralha da cidade. (Neemias 3:25) (antes de 446 a.C.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Nehemiah 3:25",
-        "original": "Nehemiah 3:25"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "uzza": {
-    "name": "Uzza",
-    "slug": "uzza",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Strengh, um jardim no qual Manassés e Amon foram sepultados (2 Reis 21:18, 26). Provavelmente ficava próximo ao palácio do rei em Jerusalém, ou talvez fizesse parte dos terrenos do palácio. É provável que Manassés o tenha adquirido de alguém com esse nome."
-      },
-      {
-        "source": "SMI",
-        "text": "(força)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "2 Kings 21:18",
-        "original": "2 Kings 21:18"
-      },
-      {
-        "reference": "2 Kings 21:26",
-        "original": "2 Kings 21:26"
-      },
-      {
-        "reference": "1 Chronicles 8:7",
-        "original": "1 Chronicles 8:7"
-      },
-      {
-        "reference": "1 Chronicles 13:7",
-        "original": "1 Chronicles 13:7"
-      },
-      {
-        "reference": "1 Chronicles 13:9",
-        "original": "1 Chronicles 13:9"
-      },
-      {
-        "reference": "1 Chronicles 13:10",
-        "original": "1 Chronicles 13:10"
-      },
-      {
-        "reference": "1 Chronicles 13:11",
-        "original": "1 Chronicles 13:11"
-      },
-      {
-        "reference": "Ezra 2:49",
-        "original": "Ezra 2:49"
-      },
-      {
-        "reference": "Nehemiah 7:51",
-        "original": "Nehemiah 7:51"
-      },
-      {
-        "reference": "1 Chronicles 6:29",
-        "original": "1 Chronicles 6:29"
-      },
-      {
-        "reference": "1 Chronicles 23:10",
-        "original": "1 Chronicles 23:10"
-      },
-      {
-        "reference": "1 Chronicles 23:11",
-        "original": "1 Chronicles 23:11"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "uzza-or-uzzah": {
-    "name": "Uzza, ou Uzzah",
-    "slug": "uzza-or-uzzah",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(força), um dos filhos de Abinadabe, em cuja casa, em Quiriate-Jearim, a arca permaneceu por vinte anos. Uzá provavelmente foi o segundo e Aió, o terceiro. Ambos acompanharam a transferência da arca quando Davi se propôs, pela primeira vez, a levá-la para Jerusalém. (1043 a.C.) Aparentemente, Aió ia à frente da nova carroça (1 Crônicas 13:7), na qual a arca estava colocada, e Uza caminhava ao lado. “Na eira de Naom” (2 Samuel 6:6) ou Quidom (1 Crônicas 13:9), talvez escorregando na rocha lisa, os bois tropeçaram. Uza segurou a arca para impedir que ela caísse. A profanação foi punida com sua morte imediata, para grande pesar de Davi, que batizou o lugar de Peres-Uza (a ruptura sobre Uza). Mas o destino de Uza não foi meramente a punição por sua própria imprudência. A forma inadequada de transportar a arca, que deveria ter sido carregada nos ombros dos levitas, foi a causa principal de seu ato profano; e Davi reconheceu claramente isso como um castigo para o povo em geral, “porque não o buscamos segundo a devida ordem”."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 13:7",
-        "original": "1 Chronicles 13:7"
-      },
-      {
-        "reference": "2 Samuel 6:6",
-        "original": "2 Samuel 6:6"
-      },
-      {
-        "reference": "1 Chronicles 13:9",
-        "original": "1 Chronicles 13:9"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "uzza-the-garden-of": {
-    "name": "Uzza, O Jardim de",
-    "slug": "uzza-the-garden-of",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "o local onde Manassés, rei de Judá, e seu filho Amon foram sepultados. (2 Reis 21:18, 26) Era o jardim anexo ao palácio de Manassés. v. 18. O fato de ser mencionado indica que não era onde ficavam os túmulos habituais dos reis. No entanto, não há nenhuma pista sobre sua localização."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "2 Kings 21:18",
-        "original": "2 Kings 21:18"
-      },
-      {
-        "reference": "2 Kings 21:26",
-        "original": "2 Kings 21:26"
-      }
-    ],
-    "sources": [
-      "SMI"
     ],
     "letter": "u"
   },
@@ -1474,124 +1252,19 @@
     ],
     "letter": "u"
   },
-  "uzzen-sherah": {
-    "name": "Uzzen-sherah",
-    "slug": "uzzen-sherah",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Uma cidade provavelmente próxima a Bet-Horom. Seu nome deriva da filha de Efraim (1 Crônicas 7:24)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 7:24",
-        "original": "1 Chr. 7:24"
-      }
-    ],
-    "sources": [
-      "EAS"
-    ],
-    "letter": "u"
-  },
-  "uzzensherah": {
-    "name": "Uzzensherah",
-    "slug": "uzzensherah",
+  "uzai": {
+    "name": "Uzai",
+    "slug": "uzai",
     "definitions": [
       {
         "source": "SMI",
-        "text": "(Orelha (ou ponta) de Sherá) — cidade fundada ou reconstruída por Sherá, uma mulher efraimita, filha do próprio Efraim ou de Beria. É mencionada apenas em (1 Crônicas 7:24), em relação às duas Bet-Horons."
+        "text": "(forte), pai de Palal, que ajudou Neemias na reconstrução da muralha da cidade. (Neemias 3:25) (antes de 446 a.C.)"
       }
     ],
     "scripture_refs": [
       {
-        "reference": "1 Chronicles 7:24",
-        "original": "1 Chronicles 7:24"
-      }
-    ],
-    "sources": [
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "uzzi": {
-    "name": "Uzzi",
-    "slug": "uzzi",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "O Senhor é a minha força. (1.) Filho de Buki e descendente de Aarão (1 Crôn. 6:5, 51; Esdras 7:4). (2.) Neto de Issacar (1 Crôn. 7:2, 3). (3.) Filho de Bela e neto de Benjamim (1 Crôn. 7:7). (4.) Um benjamita, chefe da tribo (1 Crôn. 9:8). (5.) Filho de Bani. Ele supervisionava os levitas após o retorno do cativeiro (Neemias 11:22). (6.) O chefe da casa de Jedaías, um dos “principais sacerdotes” (Neemias 12:19). (7.) Um sacerdote que auxiliou na dedicação dos muros de Jerusalém (Neemias 12:42)."
-      },
-      {
-        "source": "SMI",
-        "text": "(negrito)."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 6:5",
-        "original": "1 Chr. 6:5"
-      },
-      {
-        "reference": "1 Chronicles 6:51",
-        "original": "1 Chr. 6:51"
-      },
-      {
-        "reference": "Ezra 7:4",
-        "original": "Ezra 7:4"
-      },
-      {
-        "reference": "1 Chronicles 7:2",
-        "original": "1 Chr. 7:2"
-      },
-      {
-        "reference": "1 Chronicles 7:3",
-        "original": "1 Chr. 7:3"
-      },
-      {
-        "reference": "1 Chronicles 7:7",
-        "original": "1 Chr. 7:7"
-      },
-      {
-        "reference": "1 Chronicles 9:8",
-        "original": "1 Chr. 9:8"
-      },
-      {
-        "reference": "Nehemiah 11:22",
-        "original": "Neh. 11:22"
-      },
-      {
-        "reference": "Nehemiah 12:19",
-        "original": "Neh. 12:19"
-      },
-      {
-        "reference": "Nehemiah 12:42",
-        "original": "Neh. 12:42"
-      },
-      {
-        "reference": "1 Chronicles 6:61",
-        "original": "1 Chronicles 6:61"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "u"
-  },
-  "uzzia": {
-    "name": "Uzzia",
-    "slug": "uzzia",
-    "definitions": [
-      {
-        "source": "SMI",
-        "text": "(força de Jeová), um dos guardas de Davi e, aparentemente, natural de Astarote, além do Jordão. (1 Crônicas 11:44) (1053 a.C.)"
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "1 Chronicles 11:44",
-        "original": "1 Chronicles 11:44"
+        "reference": "Nehemiah 3:25",
+        "original": "Nehemiah 3:25"
       }
     ],
     "sources": [
@@ -1720,6 +1393,252 @@
     ],
     "letter": "u"
   },
+  "uzza": {
+    "name": "Uzza",
+    "slug": "uzza",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Strengh, um jardim no qual Manassés e Amon foram sepultados (2 Reis 21:18, 26). Provavelmente ficava próximo ao palácio do rei em Jerusalém, ou talvez fizesse parte dos terrenos do palácio. É provável que Manassés o tenha adquirido de alguém com esse nome."
+      },
+      {
+        "source": "SMI",
+        "text": "(força)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:18",
+        "original": "2 Kings 21:18"
+      },
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kings 21:26"
+      },
+      {
+        "reference": "1 Chronicles 8:7",
+        "original": "1 Chronicles 8:7"
+      },
+      {
+        "reference": "1 Chronicles 13:7",
+        "original": "1 Chronicles 13:7"
+      },
+      {
+        "reference": "1 Chronicles 13:9",
+        "original": "1 Chronicles 13:9"
+      },
+      {
+        "reference": "1 Chronicles 13:10",
+        "original": "1 Chronicles 13:10"
+      },
+      {
+        "reference": "1 Chronicles 13:11",
+        "original": "1 Chronicles 13:11"
+      },
+      {
+        "reference": "Ezra 2:49",
+        "original": "Ezra 2:49"
+      },
+      {
+        "reference": "Nehemiah 7:51",
+        "original": "Nehemiah 7:51"
+      },
+      {
+        "reference": "1 Chronicles 6:29",
+        "original": "1 Chronicles 6:29"
+      },
+      {
+        "reference": "1 Chronicles 23:10",
+        "original": "1 Chronicles 23:10"
+      },
+      {
+        "reference": "1 Chronicles 23:11",
+        "original": "1 Chronicles 23:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzza-the-garden-of": {
+    "name": "Uzza, O Jardim de",
+    "slug": "uzza-the-garden-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "o local onde Manassés, rei de Judá, e seu filho Amon foram sepultados. (2 Reis 21:18, 26) Era o jardim anexo ao palácio de Manassés. v. 18. O fato de ser mencionado indica que não era onde ficavam os túmulos habituais dos reis. No entanto, não há nenhuma pista sobre sua localização."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:18",
+        "original": "2 Kings 21:18"
+      },
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kings 21:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzza-or-uzzah": {
+    "name": "Uzza, ou Uzzah",
+    "slug": "uzza-or-uzzah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(força), um dos filhos de Abinadabe, em cuja casa, em Quiriate-Jearim, a arca permaneceu por vinte anos. Uzá provavelmente foi o segundo e Aió, o terceiro. Ambos acompanharam a transferência da arca quando Davi se propôs, pela primeira vez, a levá-la para Jerusalém. (1043 a.C.) Aparentemente, Aió ia à frente da nova carroça (1 Crônicas 13:7), na qual a arca estava colocada, e Uza caminhava ao lado. “Na eira de Naom” (2 Samuel 6:6) ou Quidom (1 Crônicas 13:9), talvez escorregando na rocha lisa, os bois tropeçaram. Uza segurou a arca para impedir que ela caísse. A profanação foi punida com sua morte imediata, para grande pesar de Davi, que batizou o lugar de Peres-Uza (a ruptura sobre Uza). Mas o destino de Uza não foi meramente a punição por sua própria imprudência. A forma inadequada de transportar a arca, que deveria ter sido carregada nos ombros dos levitas, foi a causa principal de seu ato profano; e Davi reconheceu claramente isso como um castigo para o povo em geral, “porque não o buscamos segundo a devida ordem”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 13:7",
+        "original": "1 Chronicles 13:7"
+      },
+      {
+        "reference": "2 Samuel 6:6",
+        "original": "2 Samuel 6:6"
+      },
+      {
+        "reference": "1 Chronicles 13:9",
+        "original": "1 Chronicles 13:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzen-sherah": {
+    "name": "Uzzen-sherah",
+    "slug": "uzzen-sherah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uma cidade provavelmente próxima a Bet-Horom. Seu nome deriva da filha de Efraim (1 Crônicas 7:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:24",
+        "original": "1 Chr. 7:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uzzensherah": {
+    "name": "Uzzensherah",
+    "slug": "uzzensherah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Orelha (ou ponta) de Sherá) — cidade fundada ou reconstruída por Sherá, uma mulher efraimita, filha do próprio Efraim ou de Beria. É mencionada apenas em (1 Crônicas 7:24), em relação às duas Bet-Horons."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:24",
+        "original": "1 Chronicles 7:24"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzi": {
+    "name": "Uzzi",
+    "slug": "uzzi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O Senhor é a minha força. (1.) Filho de Buki e descendente de Aarão (1 Crôn. 6:5, 51; Esdras 7:4). (2.) Neto de Issacar (1 Crôn. 7:2, 3). (3.) Filho de Bela e neto de Benjamim (1 Crôn. 7:7). (4.) Um benjamita, chefe da tribo (1 Crôn. 9:8). (5.) Filho de Bani. Ele supervisionava os levitas após o retorno do cativeiro (Neemias 11:22). (6.) O chefe da casa de Jedaías, um dos “principais sacerdotes” (Neemias 12:19). (7.) Um sacerdote que auxiliou na dedicação dos muros de Jerusalém (Neemias 12:42)."
+      },
+      {
+        "source": "SMI",
+        "text": "(negrito)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:5",
+        "original": "1 Chr. 6:5"
+      },
+      {
+        "reference": "1 Chronicles 6:51",
+        "original": "1 Chr. 6:51"
+      },
+      {
+        "reference": "Ezra 7:4",
+        "original": "Ezra 7:4"
+      },
+      {
+        "reference": "1 Chronicles 7:2",
+        "original": "1 Chr. 7:2"
+      },
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chr. 7:3"
+      },
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chr. 7:7"
+      },
+      {
+        "reference": "1 Chronicles 9:8",
+        "original": "1 Chr. 9:8"
+      },
+      {
+        "reference": "Nehemiah 11:22",
+        "original": "Neh. 11:22"
+      },
+      {
+        "reference": "Nehemiah 12:19",
+        "original": "Neh. 12:19"
+      },
+      {
+        "reference": "Nehemiah 12:42",
+        "original": "Neh. 12:42"
+      },
+      {
+        "reference": "1 Chronicles 6:61",
+        "original": "1 Chronicles 6:61"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzia": {
+    "name": "Uzzia",
+    "slug": "uzzia",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(força de Jeová), um dos guardas de Davi e, aparentemente, natural de Astarote, além do Jordão. (1 Crônicas 11:44) (1053 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:44",
+        "original": "1 Chronicles 11:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
   "uzziel": {
     "name": "Uzziel",
     "slug": "uzziel",
@@ -1801,6 +1720,120 @@
       }
     ],
     "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "boil": {
+    "name": "Úlcera",
+    "slug": "boil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(traduzido como \"ferida\" em Dt 28:27, 35), uma úlcera agravada, como no caso de Ezequias (2 Reis 20:7; Is 38:21) ou dos egípcios (Êx 9:9, 10, 11; Dt 28:27, 35). Designa a doença de Jó (2:7), que provavelmente era a lepra negra."
+      },
+      {
+        "source": "SMI",
+        "text": "[Medicina]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      },
+      {
+        "reference": "2 Kings 20:7",
+        "original": "2 Kings 20:7"
+      },
+      {
+        "reference": "Isaiah 38:21",
+        "original": "Isa. 38:21"
+      },
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex. 9:10"
+      },
+      {
+        "reference": "Exodus 9:11",
+        "original": "Ex. 9:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "botch": {
+    "name": "Úlcera (ou Pústula)",
+    "slug": "botch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O nome dado em Deut. 28:27, 35 a uma das pragas egípcias (Êx. 9:9). A palavra assim traduzida é geralmente traduzida como “úlcera” ou “ferida”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deuteronomy 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deuteronomy 28:35"
+      },
+      {
+        "reference": "Exodus 9:9",
+        "original": "Exodus 9:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "blains": {
+    "name": "Úlceras",
+    "slug": "blains",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocorre apenas em conexão com a sexta praga do Egito (Êx 9:9, 10). Em Dt 28:27, 35, é chamada de \"úlcera do Egito\". Parece ter sido a terrível doença da lepra negra, uma espécie de elefantíase que produz úlceras ardentes."
+      },
+      {
+        "source": "SMI",
+        "text": "inflamações ulcerosas violentas, a sexta praga do Egito (Êxodo 9:9,10) e, portanto, chamada em (Dt 28:27,35) de \"úlcera do Egito\". Parece ter sido a lepra negra, uma forma terrível de elefantíase."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex 9:10"
+      },
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      }
+    ],
+    "sources": [
+      "EAS",
       "SMI"
     ],
     "letter": "u"

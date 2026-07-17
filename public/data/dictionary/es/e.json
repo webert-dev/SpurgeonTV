@@ -13000,47 +13000,6 @@
     ],
     "letter": "e"
   },
-  "on": {
-    "name": "En",
-    "slug": "on",
-    "definitions": [
-      {
-        "source": "EAS",
-        "text": "Luz; el sol (Gén. 41:45, 50), la gran sede del culto al sol, llamada también Betsemes (Jer. 43:13) y Avén (Eze. 30:17), se encontraba en la orilla oriental del Nilo, a unas pocas millas al norte de Menfis, y cerca de El Cairo, en el noreste. La Vulgata y la LXX. Las versiones tienen “Heliópolis” (“ciudad del sol”) en lugar de On en Génesis y de Aven en Ezequiel. La “ciudad de destrucción” de la que habla Isaías (19:18, marg. “de Heres;” heb. ‘Ir-ha-heres, que algunos manuscritos leen Ir-ha-heres, es decir, “ciudad del sol”) puede ser el nombre dado a On, siendo la profecía que llegará el tiempo en que esa ciudad que era conocida como la “ciudad del dios sol” se convertirá en la “ciudad de destrucción” del dios sol, es decir, cuando cese la idolatría y se establezca la adoración del Dios verdadero. En la antigüedad esta ciudad estaba llena de obeliscos dedicados al sol. De ellos sólo uno permanece en pie. La “Aguja de Cleopatra” era una de las que se encontraban en esta ciudad frente al Templo de Tum, es decir, “el sol”. Ahora está erigido en Thames Embankment, Londres. “Fue en On donde José cortejó y conquistó a Asenat, de piel oscura, hija del sumo sacerdote de su gran templo”. Esta era una destacada ciudad universitaria, y aquí Moisés conoció “toda la sabiduría de los egipcios”."
-      },
-      {
-        "source": "SMI",
-        "text": "(morada o ciudad del sol), un pueblo del bajo Egipto, llamado BETH-SHEMESH en (Jeremías 43:13) On es más conocido por su nombre griego Heliópolis. Estaba situada en el lado este del brazo pelusíaco del Nilo, justo debajo de la punta del Delta, y a unas veinte millas al noreste de Menfis. El principal objeto de adoración en Heliópolis era el sol, cuyo templo, descrito por Estrabón, ahora sólo está representado por un único y hermoso obelisco, de granito rojo, de unos 5 centímetros de alto por encima del pedestal que ha estado en pie durante más de 4.000 años y que fue erigido por Usirtesen, el segundo rey de la duodécima dinastía. Heliópolis era antiguamente famosa por su saber, y Eudoxo y Platón estudiaron con sus sacerdotes. La primera mención de este lugar en la Biblia se encuentra en la historia de José, a quien leemos que el faraón le dio “por esposa a Asenat, hija de Potifera, sacerdote de On”. (Génesis 41:45) comp. ver, Génesis 41:60 y Génesis 46:20 (On debe ser recordado no sólo como el hogar de José, sino también como el lugar tradicional al que su lejano homónimo llevó a María y al niño Jesús en su huida a Egipto. Los dos famosos obeliscos, llamados durante mucho tiempo “Las Agujas de Cleopatra”, uno de los cuales ahora se encuentra en Londres y el otro en Central Park en la ciudad de Nueva York, una vez estuvieron frente a esta ciudad, y fueron vistos por los hijos de Israel antes del éxodo, habiendo sido extraídos de una cantera. en Syene en el Nilo, erigido en On (Heliópolis) por Totmes III., 1500 a.C., e inscripciones agregadas por Ramsés II (Sesostris) doscientos años después. Fueron llevados a Alejandría por Augusto César el año 23 d.C., de donde fueron trasladados a sus lugares actuales.—ED.) el hijo de Peleth y uno de los jefes de la tribu de Rubén, que participó con Coré, Datán y Abiram en su rebelión contra Moisés. (Números 16:1) (1491 a. C.) Su nombre no vuelve a aparecer en la narración de la conspiración, ni se alude a él cuando se hace referencia a la catástrofe final."
-      }
-    ],
-    "scripture_refs": [
-      {
-        "reference": "Genesis 41:45",
-        "original": "Gen. 41:45"
-      },
-      {
-        "reference": "Genesis 41:50",
-        "original": "Gen. 41:50"
-      },
-      {
-        "reference": "Jeremiah 43:13",
-        "original": "Jer. 43:13"
-      },
-      {
-        "reference": "Ezekiel 30:17",
-        "original": "Ezek. 30:17"
-      },
-      {
-        "reference": "Numbers 16:1",
-        "original": "Numbers 16:1"
-      }
-    ],
-    "sources": [
-      "EAS",
-      "SMI"
-    ],
-    "letter": "e"
-  },
   "pond": {
     "name": "Estanque",
     "slug": "pond",
