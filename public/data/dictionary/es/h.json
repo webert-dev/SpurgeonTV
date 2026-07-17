@@ -12554,5 +12554,145 @@
       "EAS"
     ],
     "letter": "h"
+  },
+  "northward": {
+    "name": "Hacia el norte",
+    "slug": "northward",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tsaphon), un “lugar escondido” u “oscuro”, a diferencia del sur soleado (Deuteronomio 3:27). Al hablar de los puntos cardinales, se consideraba que un hebreo siempre miraba hacia el este, y por eso “la mano izquierda” (Gén. 14:15; Job 23:9) denota el norte. Los “reinos del norte” son Caldea, Asiria, Media, etc."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 3:27",
+        "original": "Deut. 3:27"
+      },
+      {
+        "reference": "Genesis 14:15",
+        "original": "Gen. 14:15"
+      },
+      {
+        "reference": "Job 23:9",
+        "original": "Job 23:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "orchard": {
+    "name": "Huerta",
+    "slug": "orchard",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jardín]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "orphans": {
+    "name": "Huérfanos",
+    "slug": "orphans",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lam. 5:3), es decir, desolado y sin protectores. La palabra sólo aparece aquí. En Juan 14:18 la palabra allí traducida “incómodo” (R.V., “desolado”; marg., “huérfanos”) significa propiamente “huérfanos”. La misma palabra griega se traduce “huérfano de padre” en Santiago 1:27."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Lamentations 5:3",
+        "original": "Lam. 5:3"
+      },
+      {
+        "reference": "John 14:18",
+        "original": "John 14:18"
+      },
+      {
+        "reference": "James 1:27",
+        "original": "James 1:27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "oven": {
+    "name": "Horno",
+    "slug": "oven",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. tannur (Oseas 7:4). En las ciudades parece haber hornos públicos. Había una calle en Jerusalén (Jer. 37:21) llamada “calle de los panaderos” (el único caso en el que se conserva el nombre de una calle en Jerusalén). Las palabras “torre de los hornos” (Neh. 3:11; 12:38) son más propiamente “torre de los hornos” (heb. tannurim). Estos se parecen a los hornos que utilizamos entre nosotros. Había otros hornos privados de diferente tipo. Algunas eran como tinajas grandes hechas de barro o cobre, que se calentaban por dentro con leña (1 Reyes 17:12; Isa. 44:15; Jer. 7:18) o pasto (Mat. 6:30), y cuando el fuego se apagaba, se colocaban pequeños trozos de masa en el interior o se extendían en finas capas por fuera, y así se cocían. (Ver HORNO.) También se formaron pozos para los mismos propósitos y se revestiron con cemento. Estos se utilizaron de la misma manera. Piedras calientes o arena calentada por el fuego amontonadas sobre ella, y también planchas, sartenes, servían todas como hornos para la preparación del pan. (Ver Génesis 18:6; 1 Reyes 19:6.)"
+      },
+      {
+        "source": "SMI",
+        "text": "El horno oriental es de dos tipos: fijo y portátil. El primero sólo se encuentra en las ciudades, donde se emplean panaderos habituales. (Oseas 7:4) Este último, adaptado al estado nómada, consiste en una vasija grande hecha de barro, de unos tres pies de alto y que se ensancha hacia el fondo, con un agujero para la extracción de las cenizas. Cada hogar poseía un artículo de este tipo (Éxodo 8:3) y sólo en tiempos de extrema escasez el mismo horno era suficiente para varias familias. (Levítico 26:26) Se calentaba con ramitas secas y pasto, (Mateo 6:30) y se colocaban los panes tanto dentro como fuera de él."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 7:4",
+        "original": "Hos. 7:4"
+      },
+      {
+        "reference": "Jeremiah 37:21",
+        "original": "Jer. 37:21"
+      },
+      {
+        "reference": "Nehemiah 3:11",
+        "original": "Neh. 3:11"
+      },
+      {
+        "reference": "Nehemiah 12:38",
+        "original": "Neh 12:38"
+      },
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "Isaiah 44:15",
+        "original": "Isa. 44:15"
+      },
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Matthew 6:30",
+        "original": "Matt. 6:30"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Gen. 18:6"
+      },
+      {
+        "reference": "1 Kings 19:6",
+        "original": "1 Kings 19:6"
+      },
+      {
+        "reference": "Exodus 8:3",
+        "original": "Exodus 8:3"
+      },
+      {
+        "reference": "Leviticus 26:26",
+        "original": "Leviticus 26:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
   }
 }

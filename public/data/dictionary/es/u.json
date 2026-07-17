@@ -493,5 +493,102 @@
       "SMI"
     ],
     "letter": "u"
+  },
+  "ointment": {
+    "name": "Ungüento",
+    "slug": "ointment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se llaman así varias preparaciones fragantes, también compuestos para fines médicos (Éxodo 30:25; Salmo 133:2; Isaías 1:6; Amós 6:6; Juan 12:3; Apocalipsis 18:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Una sustancia aceitosa o untuosa, generalmente compuesta de aceite con diversas especias, resinas y aromáticos, y conservada en pequeñas cajas o vasijas de alabastro, en las que se conservaba mejor el delicioso aroma. Se sabe que algunos de los ungüentos conservan su fragancia durante varios cientos de años. Eran un lujo muy codiciado y, a menudo, muy caro.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:25",
+        "original": "Ex. 30:25"
+      },
+      {
+        "reference": "Psalms 133:2",
+        "original": "Ps. 133:2"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "Revelation 18:13",
+        "original": "Rev. 18:13"
+      },
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matthew 26:12"
+      },
+      {
+        "reference": "Jeremiah 8:22",
+        "original": "Jeremiah 8:22"
+      },
+      {
+        "reference": "John 9:6",
+        "original": "John 9:6"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Revelation 3:18"
+      },
+      {
+        "reference": "Exodus 30:23",
+        "original": "Exodus 30:23"
+      },
+      {
+        "reference": "Exodus 30:33",
+        "original": "Exodus 30:33"
+      },
+      {
+        "reference": "Exodus 29:7",
+        "original": "Exodus 29:7"
+      },
+      {
+        "reference": "Exodus 37:29",
+        "original": "Exodus 37:29"
+      },
+      {
+        "reference": "Exodus 40:9",
+        "original": "Exodus 40:9"
+      },
+      {
+        "reference": "Exodus 40:15",
+        "original": "Exodus 40:15"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Nehemiah 3:8"
+      },
+      {
+        "reference": "1 Samuel 8:13",
+        "original": "1 Samuel 8:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
   }
 }

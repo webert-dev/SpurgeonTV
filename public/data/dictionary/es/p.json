@@ -3940,5 +3940,2275 @@
       "SMI"
     ],
     "letter": "p"
-  }
-}
+  },
+  "north-country": {
+    "name": "país del norte",
+    "slug": "north-country",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre general para los países que se encuentran al norte de Palestina. La mayoría de los ejércitos invasores entraron a Palestina desde el norte (Isaías 41:25; Jer. 1:14, 15; 50:3, 9, 41; 51:48; Ezequiel 26:7)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 41:25",
+        "original": "Isa. 41:25"
+      },
+      {
+        "reference": "Jeremiah 1:14",
+        "original": "Jer. 1:14"
+      },
+      {
+        "reference": "Jeremiah 1:15",
+        "original": "Jer. 1:15"
+      },
+      {
+        "reference": "Ezekiel 26:7",
+        "original": "Ezek. 26:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "old-gate": {
+    "name": "Puerta vieja",
+    "slug": "old-gate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una de las puertas del muro norte de Jerusalén, llamada así porque fue construida por los jebuseos (Neh. 3:6; 12:39)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:6",
+        "original": "Neh. 3:6"
+      },
+      {
+        "reference": "Nehemiah 12:39",
+        "original": "Neh 12:39"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "olivet": {
+    "name": "Perla artificial",
+    "slug": "olivet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(lugar de aceitunas). (2 Samuel 15:30; Hechos 1:12) [Olivos, Monte De, Monte, Monte, Montaña DE]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Samuel 15:30"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paarai": {
+    "name": "paarai",
+    "slug": "paarai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Apertura del Señor, “el Arbite”, uno de los héroes de David (2 Sam. 23:35); llamado también Naarai, 1 Crón. 11:37."
+      },
+      {
+        "source": "SMI",
+        "text": "En la lista de (2 Samuel 23:35) “Paarai el Arbita” es uno de los hombres de David. En (1 Crónicas 11:37) él es Naarai hijo de Ezbai”. (1015 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:35",
+        "original": "2 Sam. 23:35"
+      },
+      {
+        "reference": "1 Chronicles 11:37",
+        "original": "1 Chr. 11:37"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "padan": {
+    "name": "Padán",
+    "slug": "padan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una llanura que aparece sólo en Gén. 48:7, donde designa a Padan-aram."
+      },
+      {
+        "source": "SMI",
+        "text": "(campo). Padan-aram. (Génesis 48:7)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 48:7",
+        "original": "Gen. 48:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "padan-aram": {
+    "name": "Padan-aram",
+    "slug": "padan-aram",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La llanura de Aram, o la llanura de las tierras altas (Gén. 25:20; 28:2, 5-7; 31:18, etc.), comúnmente considerada como el distrito de Mesopotamia (q.v.) que se extiende alrededor de Harán."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 25:20",
+        "original": "Gen. 25:20"
+      },
+      {
+        "reference": "Genesis 28:2",
+        "original": "Gen 28:2"
+      },
+      {
+        "reference": "Genesis 28:5-7",
+        "original": "Gen 28:5-7"
+      },
+      {
+        "reference": "Genesis 31:18",
+        "original": "Gen 31:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "padanaram": {
+    "name": "Padanaram",
+    "slug": "padanaram",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Con este nombre, que significa la meseta de Aram, es decir, siríaco, los hebreos designaron la extensión del país que de otra manera llamaban Aram-naharaim, \"Aram de los dos ríos\", la Mesopotamia griega (Génesis 24:10) y \"el campo (versión autorizada, 'país') de Siria\". (Oseas 12:13.) El término tal vez se aplicó más especialmente a la parte que limitaba con el Éufrates, para distinguirla de los distritos montañosos del norte y noreste de Mesopotamia. En otros lugares se le llama simplemente Padan. (Génesis 48:7) Abraham obtuvo una esposa para Isaac de Padan-aram. (Génesis 25:20) Las esposas de Jacob también eran de Padan-aram, (Génesis 28:2,5,6,7; 31:1-8; 33:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:10",
+        "original": "Genesis 24:10"
+      },
+      {
+        "reference": "Hosea 12:13",
+        "original": "Hosea 12:13"
+      },
+      {
+        "reference": "Genesis 48:7",
+        "original": "Genesis 48:7"
+      },
+      {
+        "reference": "Genesis 25:20",
+        "original": "Genesis 25:20"
+      },
+      {
+        "reference": "Genesis 28:2",
+        "original": "Genesis 28:2"
+      },
+      {
+        "reference": "Genesis 28:5",
+        "original": "Genesis 28:5"
+      },
+      {
+        "reference": "Genesis 28:6",
+        "original": "Genesis 28:6"
+      },
+      {
+        "reference": "Genesis 28:7",
+        "original": "Genesis 28:7"
+      },
+      {
+        "reference": "Genesis 31:1-8",
+        "original": "Genesis 31:1-8"
+      },
+      {
+        "reference": "Genesis 33:18",
+        "original": "Genesis 33:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "padon": {
+    "name": "Padón",
+    "slug": "padon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(liberación) el antepasado de una familia de Nethinim que regresó con Zorobabel. (Esdras 2:41; Nehemías 7:47) (A.C. antes del 529.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:41",
+        "original": "Ezra 2:41"
+      },
+      {
+        "reference": "Nehemiah 7:47",
+        "original": "Nehemiah 7:47"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pagiel": {
+    "name": "pagiel",
+    "slug": "pagiel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dios asigna, un príncipe de la tribu de Aser (Núm. 1:13), en el desierto."
+      },
+      {
+        "source": "SMI",
+        "text": "(Dios asigna) al hijo de Ocrán y jefe de la tribu de Aser en el momento del éxodo. (Números 1:13; 2:27; 7:72,77; 10:26) (1491 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 1:13",
+        "original": "Num. 1:13"
+      },
+      {
+        "reference": "Numbers 2:27",
+        "original": "Numbers 2:27"
+      },
+      {
+        "reference": "Numbers 7:72",
+        "original": "Numbers 7:72"
+      },
+      {
+        "reference": "Numbers 7:77",
+        "original": "Numbers 7:77"
+      },
+      {
+        "reference": "Numbers 10:26",
+        "original": "Numbers 10:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pahath-moab": {
+    "name": "Pahat-moab",
+    "slug": "pahath-moab",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Gobernador de Moab, persona cuyos descendientes regresaron del cautiverio y ayudaron a reconstruir Jerusalén (Esdras 2:6; 8:4; 10:30)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:6",
+        "original": "Ezra 2:6"
+      },
+      {
+        "reference": "Ezra 8:4",
+        "original": "Ezra 8:4"
+      },
+      {
+        "reference": "Ezra 10:30",
+        "original": "Ezra 10:30"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "pahathmoab": {
+    "name": "Pahatmoab",
+    "slug": "pahathmoab",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(gobernador de Moab), jefe de una de las casas principales de la tribu de Judá. Del individuo o de la ocasión en que recibió un nombre tan singular no se sabe nada con certeza, pero como leemos en (1 Crónicas 4:22) de una familia de silonitas, de la tribu de Judá, que en tiempos muy antiguos “tenían dominio en Moab”, se puede conjeturar que este era el origen del nombre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:22",
+        "original": "1 Chronicles 4:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pai": {
+    "name": "pai",
+    "slug": "pai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(bendición). [Pau]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paial": {
+    "name": "Paial",
+    "slug": "paial",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(juez), el hijo de Uzai que ayudó a restaurar los muros de Jerusalén en la época de Nehemías, (Nehemías 3:25) (446 a. C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:25",
+        "original": "Nehemiah 3:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paint": {
+    "name": "Pintar",
+    "slug": "paint",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Jezabel “se pintó la cara” (2 Reyes 9:30); y la práctica de pintarse la cara y los ojos parece haber sido común (Jer. 4:30; Eze. 23:40). Una alusión a esta práctica se encuentra en el nombre de la hija de Job (42:14), Kerenhappuch (q.v.). Las pinturas en el sentido moderno de la palabra eran desconocidas para los antiguos judíos."
+      },
+      {
+        "source": "SMI",
+        "text": "(como cosmético). El uso de tintes cosméticos ha prevalecido en todas las épocas en los países orientales. Tenemos abundante evidencia de la práctica de pintar los ojos tanto en el antiguo Egipto como en Asiria; y en los tiempos modernos ningún uso es más general. Sin embargo, no parece haber sido de ninguna manera universal entre los hebreos. Los avisos al respecto son pocos; y en cada caso parece haber sido utilizado como un arte meritorio, indigno de una mujer de alto carácter. La Biblia no da ninguna indicación de la sustancia a partir de la cual se formó el tinte. Las versiones antiguas coinciden en afirmar que el tinte se produjo a partir de antimonio. El antimonio todavía se utiliza con este propósito en Arabia y Persia, pero en Egipto el kohl es una raíz que se produce al quemar una especie de incienso o cáscaras de almendras. El tinte se humedecía con aceite y se guardaba en un frasco pequeño. Es dudoso que los hebreos conocieran la costumbre de teñirse las manos y los pies, especialmente las uñas, tan frecuente en el pasado. La pintura como arte no era cultivada por los hebreos, pero decoraban sus edificios con pintura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 9:30",
+        "original": "2 Kings 9:30"
+      },
+      {
+        "reference": "Jeremiah 4:30",
+        "original": "Jer. 4:30"
+      },
+      {
+        "reference": "Ezekiel 23:40",
+        "original": "Ezek. 23:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palace": {
+    "name": "Palacio",
+    "slug": "palace",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Actualmente se utiliza sólo para las viviendas reales, aunque originalmente significaba simplemente (como muestra la palabra latina palatium, de la que deriva) un edificio rodeado por una valla o una empalizada. En la versión autorizada hay muchas palabras diferentes traducidas de esta manera, que presentan diferentes ideas, como la de ciudadela o fortaleza elevada o residencia real (Neh. 1:1; Dan. 8:2). Es el nombre que se le da al templo fortaleza (Neh. 2:8) y al templo mismo (1 Cr. 29:1). Denota también un edificio espacioso o una casa grande (Dan. 1:4; 4:4, 29: Ester 1:5; 7:7), y un lugar fortificado o un recinto (Eze. 25:4). El palacio de Salomón se describe en 1 Reyes 7:1-12 como una serie de edificios en lugar de una sola gran estructura. Se emplearon trece años en su erección. Este palacio se encontraba en la colina oriental, contiguo al templo por el sur. En el Nuevo Testamento designa la residencia oficial de Pilato o la del sumo sacerdote (Mat. 26:3, 58, 69; Marcos 14:54, 66; Juan 18:15). En Fil. 1:13 esta palabra es la traducción del griego praitorion, que significa las cohortes pretorianas en Roma (el salvavidas de los Césares). Pablo estuvo continuamente encadenado a un soldado de ese cuerpo (Hechos 28:16), y de ahí que su nombre y sus sufrimientos fueran conocidos en todo el pretorio. Los “soldados que lo retenían”, al relevarse unos a otros en la guardia, naturalmente difundirían las noticias sobre él entre sus camaradas. Algunos, sin embargo, consideran el pretroium (q.v.) como el cuartel dentro del palacio (el palatium) de los Césares en Roma donde estaba estacionado un destacamento de estos guardias pretorianos, o como el campamento de los guardias ubicado fuera de los muros orientales de Roma. \"En las cámaras que eran ocupadas como salas de guardia\", dice el Dr. Manning, \"por las tropas pretorianas de servicio en el palacio, se encuentran varias caricaturas toscamente garabateadas en las paredes, como las que se pueden ver en las paredes de los cuarteles en todas partes del mundo. Entre ellas se encuentra una de una figura humana clavada en una cruz. Para añadir a la 'ofensa de la cruz', el crucificado está representado con la cabeza de un animal, probablemente la de un asno. se encuentra la figura de un legionario romano con una mano levantada en actitud de adoración. Debajo está la inscripción grosera, mal escrita y agramatical: Alexamenos adora a su dios. Difícilmente se puede dudar de que tenemos aquí una caricatura contemporánea, ejecutada por un miembro de la guardia pretoriana, que ridiculiza la fe de un camarada cristiano."
+      },
+      {
+        "source": "SMI",
+        "text": "Palacio en la Biblia, en singular y plural, es la traducción de varias palabras de diverso significado. (1 Crónicas 29:1; Esdras 4:14; Amós 4:3), etc. A menudo designa la residencia real y generalmente sugiere una fortaleza o una casa almenada. La palabra ocasionalmente incluía toda la ciudad como en (Ester 9:12) y nuevamente, como en (1 Reyes 16:18) está restringida a una parte de los aposentos reales. Se aplica, como en (1 Crónicas 29:1) al templo de Jerusalén. Es casi seguro que el sitio del palacio de Salomón estaba en la ciudad misma, en la cima opuesta al templo, y dominaba este y toda la ciudad de David. Es imposible, por supuesto, estar del todo seguro de cuál era la forma o la disposición exacta de tal palacio; pero, como tenemos las dimensiones de los tres edificios principales dadas en el libro de los Reyes y confirmadas por Josefo, podemos, tomándolas como escala, determinar con bastante precisión que el edificio cubría alrededor de 150.000 o 160.000 pies cuadrados. Si era un cuadrado de 400 pies en cada lado, o un oblongo de aproximadamente 550 pies por 300, siempre debe ser más o menos una cuestión de conjetura. El edificio principal situado dentro del palacio era, como en todos los palacios orientales, el gran salón de estado y audiencia, llamado “la casa del bosque del Líbano”, aparentemente por las cuatro hileras de pilares de cedro que lo sostenían. Tenía 100 codos (175 pies) de largo, 50 (88 pies) de ancho y 30 (52 pies) de alto. Le seguía en importancia la sala o “pórtico del juicio”, un edificio cuadrangular sostenido por columnas, como aprendemos frente a Josefo, que aparentemente se encontraba al otro lado del gran atrio, frente a la casa del bosque del Líbano. El tercer edificio se llama simplemente “pórtico de columnas”. Sus dimensiones eran de 50 por 30 codos. Su uso no puede considerarse dudoso, ya que era un complemento indispensable de un palacio oriental. Era el lugar habitual de negocios del palacio y la sala de recepción cuando el rey recibía a los visitantes habituales y se sentaba, excepto en grandes ocasiones solemnes, para tramitar los asuntos del reino. Detrás de esto, se nos dice, estaba el patio interior, adornado con jardines y fuentes, y rodeado de claustros para dar sombra; y había otros patios para la residencia de los servidores y guardias, y para las mujeres del harén. Aparte de este palacio, pero adjunto, como nos dice Josefo, a la sala del juicio, estaba el palacio de la hija del faraón, un personaje demasiado orgulloso e importante para ser agrupado con las damas del harén y que requería una residencia propia. Los recientes descubrimientos en Nínive nos han permitido comprender muchos de los detalles arquitectónicos de este palacio, que antes de su construcción eran casi totalmente inexplicables. Salomón construyó un ascenso desde su propia casa hasta el templo, “la casa de Jehová”, (1 Reyes 10:5), que era un pasaje subterráneo de 250 pies de largo por 42 pies de ancho, del cual aún se pueden rastrear restos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 1:1",
+        "original": "Neh. 1:1"
+      },
+      {
+        "reference": "Daniel 8:2",
+        "original": "Dan. 8:2"
+      },
+      {
+        "reference": "Nehemiah 2:8",
+        "original": "Neh. 2:8"
+      },
+      {
+        "reference": "1 Chronicles 29:1",
+        "original": "1 Chr. 29:1"
+      },
+      {
+        "reference": "Daniel 1:4",
+        "original": "Dan. 1:4"
+      },
+      {
+        "reference": "Daniel 4:4",
+        "original": "Dan 4:4"
+      },
+      {
+        "reference": "Daniel 4:29",
+        "original": "Dan 4:29"
+      },
+      {
+        "reference": "Esther 1:5",
+        "original": "Esther 1:5"
+      },
+      {
+        "reference": "Esther 7:7",
+        "original": "Esther 7:7"
+      },
+      {
+        "reference": "Ezekiel 25:4",
+        "original": "Ezek. 25:4"
+      },
+      {
+        "reference": "1 Kings 7:1-12",
+        "original": "1 Kings 7:1-12"
+      },
+      {
+        "reference": "Matthew 26:3",
+        "original": "Matt. 26:3"
+      },
+      {
+        "reference": "Matthew 26:58",
+        "original": "Matt. 26:58"
+      },
+      {
+        "reference": "Matthew 26:69",
+        "original": "Matt. 26:69"
+      },
+      {
+        "reference": "Mark 14:54",
+        "original": "Mark 14:54"
+      },
+      {
+        "reference": "Mark 14:66",
+        "original": "Mark 14:66"
+      },
+      {
+        "reference": "John 18:15",
+        "original": "John 18:15"
+      },
+      {
+        "reference": "Philippians 1:13",
+        "original": "Phil. 1:13"
+      },
+      {
+        "reference": "Acts 28:16",
+        "original": "Acts 28:16"
+      },
+      {
+        "reference": "Ezra 4:14",
+        "original": "Ezra 4:14"
+      },
+      {
+        "reference": "Amos 4:3",
+        "original": "Amos 4:3"
+      },
+      {
+        "reference": "Esther 9:12",
+        "original": "Esther 9:12"
+      },
+      {
+        "reference": "1 Kings 16:18",
+        "original": "1 Kings 16:18"
+      },
+      {
+        "reference": "1 Kings 10:5",
+        "original": "1 Kings 10:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palestina-and-palestine": {
+    "name": "Palestina y Palestina",
+    "slug": "palestina-and-palestine",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(tierra de extraños). Estas dos formas aparecen en la Versión Autorizada pero cuatro veces en total, siempre en pasajes poéticos; el primero en (Éxodo 15:14) e Isaías 14:29 El segundo (Joel 3:4) En cada caso, el hebreo es Pelesheth, una palabra que se encuentra, además de lo anterior, sólo en (Salmo 60:8; 83:7; 87:4) y Salmo 108:9 En todos los cuales nuestros traductores lo han traducido por \"Filistia\" o \"Filisteos\". Palestina en la versión autorizada realmente no significa nada más que Filistea. La palabra hebrea original Pelesheth para los hebreos significaba simplemente la larga y ancha franja de llanura marítima habitada por sus vecinos invasores; Tampoco parece que al principio significara más para los griegos. Por estar situada junto al mar, y por ser también el camino real de Egipto a Fenicia y las regiones más ricas de ella, la llanura filistea llegó a ser conocida antes por el mundo occidental que el país más al interior, y fue llamada por ellos Siria Palestina-Siria filistea. Desde allí se fue extendiendo gradualmente al país más hacia el interior, hasta que en los autores romanos y griegos posteriores, ambos paganos y cristianos, se convirtió en la denominación habitual para todo el país de los judíos, tanto al oeste como al este del Jordán. La palabra ahora se emplea tan comúnmente en nuestro lenguaje más familiar para designar a todo el país de Israel que, aunque bíblicamente es un nombre inapropiado, se ha elegido aquí como el título más conveniente para dar una descripción general de LA TIERRA SANTA, abarcando aquellos puntos que no han sido tratados bajo los títulos separados de ciudades o tribus. Esta descripción se dividirá más convenientemente en tres secciones: I. Los nombres aplicados al país de Israel en la Biblia y en otros lugares. II. La Tierra; su situación, aspecto, ascenso, características físicas en relación con su historia, su estructura, botánica e historia natural. III. La Historia del país se presenta tan completamente bajo sus diversos títulos a lo largo de la obra que es innecesario recapitularla aquí. I. [LOS NOMBRES].—Palestina, entonces, es designada en la Biblia con más de un nombre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 15:14",
+        "original": "Exodus 15:14"
+      },
+      {
+        "reference": "Isaiah 14:29",
+        "original": "Isai 14:29"
+      },
+      {
+        "reference": "Joel 3:4",
+        "original": "Joel 3:4"
+      },
+      {
+        "reference": "Psalms 60:8",
+        "original": "Psalms 60:8"
+      },
+      {
+        "reference": "Psalms 83:7",
+        "original": "Psalms 83:7"
+      },
+      {
+        "reference": "Psalms 87:4",
+        "original": "Psalms 87:4"
+      },
+      {
+        "reference": "Psalms 108:9",
+        "original": "Psal 108:9"
+      },
+      {
+        "reference": "Psalms 105:11",
+        "original": "Psalms 105:11"
+      },
+      {
+        "reference": "1 Samuel 13:19",
+        "original": "1 Samuel 13:19"
+      },
+      {
+        "reference": "Matthew 19:1",
+        "original": "Matthew 19:1"
+      },
+      {
+        "reference": "Mark 10:1",
+        "original": "Mark 10:1"
+      },
+      {
+        "reference": "Numbers 13:29",
+        "original": "Numbers 13:29"
+      },
+      {
+        "reference": "Joshua 11:16",
+        "original": "Joshua 11:16"
+      },
+      {
+        "reference": "Joshua 12:8",
+        "original": "Joshua 12:8"
+      },
+      {
+        "reference": "1 Chronicles 27:28",
+        "original": "1 Chronicles 27:28"
+      },
+      {
+        "reference": "Luke 12:64",
+        "original": "Luke 12:64"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pallu": {
+    "name": "pallú",
+    "slug": "pallu",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Separado, el segundo hijo de Rubén (1 Crónicas 5:3); llamado Falu, Génesis 46:9. Fue el padre de los faluitas (Éxo. 6:14; Núm. 26:5, 8)."
+      },
+      {
+        "source": "SMI",
+        "text": "(distinguido), segundo hijo de Rubén, padre de Eliab, (Isaías 6:14; Números 26:5,8; 1 Crónicas 5:3) y fundador de la familia de los palluitas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 5:3",
+        "original": "1 Chr. 5:3"
+      },
+      {
+        "reference": "Genesis 46:9",
+        "original": "Gen. 46:9"
+      },
+      {
+        "reference": "Exodus 6:14",
+        "original": "Ex. 6:14"
+      },
+      {
+        "reference": "Numbers 26:5",
+        "original": "Num. 26:5"
+      },
+      {
+        "reference": "Numbers 26:8",
+        "original": "Num 26:8"
+      },
+      {
+        "reference": "Isaiah 6:14",
+        "original": "Isaiah 6:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palluites": {
+    "name": "Palluitas",
+    "slug": "palluites",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(descendientes de Pullu), Los. (Números 26:5)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 26:5",
+        "original": "Numbers 26:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palm-tree": {
+    "name": "Palmera",
+    "slug": "palm-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tamar), la palmera datilera característica de Palestina. Se la describe como “floreciente” (Sal. 92:12), alta (Cant. 7:7), “recta” (Jer. 10:5). Sus ramas son un símbolo de victoria (Apocalipsis 7:9). “Elevándose con un tallo delgado de 40 o 50, a veces hasta 80 pies de altura, sus únicas ramas, las hojas plumosas, parecidas a la nieve, de color verde pálido de 6 a 12 pies de largo, doblándose desde su parte superior, la palma atrae la atención dondequiera que se la vea”. Toda la tierra de Palestina fue llamada por los griegos y romanos Fenicia, es decir, “la tierra de las palmeras”. Tadmor, en el desierto, fue llamada por los griegos y romanos Palmira, es decir, \"la ciudad de las palmeras\". Los mejores ejemplares de este árbol crecieron en Jericó (Deut. 34:3) y Engedi y a lo largo de las orillas del Jordán. En la fiesta de los Tabernáculos se llevaban ramas de palmera (Levítico 23:40). En la entrada triunfal de nuestro Señor en Jerusalén, las multitudes tomaron ramas de palma y salieron a recibirlo clamando: “Hosanna: Bendito el Rey de Israel que viene en el nombre del Señor” (Mateo 21:8; Juan 12:13). (Ver FECHA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(heb. tamar). Bajo este término genérico se incluyen botánicamente muchas especies; pero aquí sólo nos ocupamos de la palmera datilera, la Phoenix dactylifera de Linneo. Si bien este árbol abundaba en general en el Levante, los antiguos lo consideraban peculiarmente característico de Palestina y las regiones vecinas, aunque ahora es raro. (“La palmera frecuentemente alcanza una altura de veinticinco metros, pero más comúnmente entre cuarenta y cincuenta. Comienza a dar frutos después de haber sido plantada seis u ocho años, y continúa siendo productiva durante un siglo. Su tronco es recto, alto e intacto, y termina en una corona de penachos de color verde esmeralda, como una diadema de gigantescas plumas de avestruz; estas hojas frecuentemente miden seis metros de largo, caen ligeramente en los extremos y susurran musicalmente con la brisa. La palma es, en verdad, un árbol hermoso y sumamente útil. Su fruto es el alimento diario de millones; su savia proporciona un vino agradable; las fibras de la base de sus hojas se tejen en cuerdas y aparejos; su tallo alto proporciona una madera valiosa; Elim, donde crecieron sesenta y diez palmeras (Éxodo 15:27) y Elat. (2:8) Jericó era la ciudad de las “palmeras”. (31:3) Hazezon-tamar, “la tala de la palmera”, es clara en su derivación. También está Tamar, “la palma”. (Ezequiel 47:19.) Betania significa “casa de dátiles”. La palabra Fenicia, que aparece dos veces en el Nuevo Testamento (Hechos 11:19; 15:3), se deriva con toda probabilidad de la palabra griega que significa palma. La llamativa apariencia del árbol, su rectitud y belleza, sugerirían naturalmente que ocasionalmente se le diera su nombre a las mujeres. (Génesis 38:6; 2 Samuel 13:1; 14:27) Hay en los Salmos (Salmo 92:12) la familiar comparación: “El justo florecerá como la palmera”. lo que sugiere un mundo de ilustración ya sea que se respete el aspecto ordenado y regular del árbol, su fecundidad, el perpetuo verdor de su follaje o la altura a la que crece el follaje, lo más lejos posible de la tierra y lo más cerca posible del cielo. Quizás ningún punto sea más digno de mención, queremos continuar con la comparación, que la elasticidad de la fibra de la palma y su decidido crecimiento hacia arriba incluso cuando se carga con pesos. El pasaje de (Apocalipsis 7:9) donde se describe a los glorificados de todas las naciones como “vestidos de vestiduras blancas y con palmas en las manos”, podría parecernos una imagen puramente clásica; pero los judíos usaban ramas de palma en señal de victoria y paz. (A estos puntos de comparación se puede agregar su principio de crecimiento: es endógeno y crece desde adentro; su utilidad; los sirios enumeran 360 usos diferentes que se le pueden dar; y la afirmación de que da sus mejores frutos en la vejez.—ED.) Es curioso que este árbol, que alguna vez fue tan abundante en Judea, ahora sea comparativamente raro, excepto en la llanura filistea y en la antigua Fenicia alrededor de Beyrout."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 92:12",
+        "original": "Ps. 92:12"
+      },
+      {
+        "reference": "Song of Solomon 7:7",
+        "original": "Cant. 7:7"
+      },
+      {
+        "reference": "Jeremiah 10:5",
+        "original": "Jer. 10:5"
+      },
+      {
+        "reference": "Revelation 7:9",
+        "original": "Rev. 7:9"
+      },
+      {
+        "reference": "Deuteronomy 34:3",
+        "original": "Deut. 34:3"
+      },
+      {
+        "reference": "Leviticus 23:40",
+        "original": "Lev. 23:40"
+      },
+      {
+        "reference": "Matthew 21:8",
+        "original": "Matt. 21:8"
+      },
+      {
+        "reference": "John 12:13",
+        "original": "John 12:13"
+      },
+      {
+        "reference": "Exodus 15:27",
+        "original": "Exodus 15:27"
+      },
+      {
+        "reference": "Ezekiel 47:19",
+        "original": "Ezekiel 47:19"
+      },
+      {
+        "reference": "Acts 11:19",
+        "original": "Acts 11:19"
+      },
+      {
+        "reference": "Acts 15:3",
+        "original": "Acts 15:3"
+      },
+      {
+        "reference": "Genesis 38:6",
+        "original": "Genesis 38:6"
+      },
+      {
+        "reference": "2 Samuel 13:1",
+        "original": "2 Samuel 13:1"
+      },
+      {
+        "reference": "2 Samuel 14:27",
+        "original": "2 Samuel 14:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palm-trees-the-city-of": {
+    "name": "Palmeras, La ciudad de",
+    "slug": "palm-trees-the-city-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El nombre dado a Jericó (q.v.), Deut. 34:3; Juez. 1:16; 3:13."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 34:3",
+        "original": "Deut. 34:3"
+      },
+      {
+        "reference": "Judges 1:16",
+        "original": "Judg. 1:16"
+      },
+      {
+        "reference": "Judges 3:13",
+        "original": "Judg 3:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "palsy": {
+    "name": "Parálisis",
+    "slug": "palsy",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una forma más corta de \"parálisis\". Muchas personas así afligidas fueron curadas por nuestro Señor (Mateo 4:24; 8:5-13; 9:2-7; Marcos 2:3-11; Lucas 7:2-10; Juan 5:5-7) y los apóstoles (Hechos 8:7; 9:33, 34)."
+      },
+      {
+        "source": "SMI",
+        "text": "(contraído por parálisis). La pérdida de sensación o de la capacidad de movimiento, o ambas, en cualquier parte del cuerpo. Las enfermedades incluidas bajo este nombre en el Nuevo Testamento fueron varias:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 4:24",
+        "original": "Matt. 4:24"
+      },
+      {
+        "reference": "Matthew 8:5-13",
+        "original": "Matt 8:5-13"
+      },
+      {
+        "reference": "Matthew 9:2-7",
+        "original": "Matt 9:2-7"
+      },
+      {
+        "reference": "Mark 2:3-11",
+        "original": "Mark 2:3-11"
+      },
+      {
+        "reference": "Luke 7:2-10",
+        "original": "Luke 7:2-10"
+      },
+      {
+        "reference": "John 5:5-7",
+        "original": "John 5:5-7"
+      },
+      {
+        "reference": "Acts 8:7",
+        "original": "Acts 8:7"
+      },
+      {
+        "reference": "Acts 9:33",
+        "original": "Acts 9:33"
+      },
+      {
+        "reference": "Acts 9:34",
+        "original": "Acts 9:34"
+      },
+      {
+        "reference": "Matthew 12:10-13",
+        "original": "Matthew 12:10-13"
+      },
+      {
+        "reference": "Matthew 8:13",
+        "original": "Matthew 8:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "palti": {
+    "name": "paltí",
+    "slug": "palti",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Liberación del Señor, uno de los espías que representaban a la tribu de Benjamín (Núm. 13:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quien Jehová libera), el espía benjamita, hijo de Raphu. (Números 13:9) (1490 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:9",
+        "original": "Num. 13:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paltiel": {
+    "name": "Paltiel",
+    "slug": "paltiel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Liberación de Dios, el príncipe de Isacar que ayudó “a dividir la tierra en herencia” (Núm. 34:26)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quien Dios libra), hijo de Azán y príncipe de la tribu de Isacar. (Números 34:26) Fue uno de los doce designados para dividir la tierra de Canaán entre las tribus al oeste del Jordán. (1450 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 34:26",
+        "original": "Num. 34:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paltite": {
+    "name": "paltita",
+    "slug": "paltite",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La designación de uno de los héroes de David (2 Sam. 23:26); llamado también pelonita (1 Crónicas 11:27)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 23:26",
+        "original": "2 Sam. 23:26"
+      },
+      {
+        "reference": "1 Chronicles 11:27",
+        "original": "1 Chr. 11:27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "pamphylia": {
+    "name": "Panfilia",
+    "slug": "pamphylia",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Pablo y su compañía, liberados de Pafos, navegaron hacia el noroeste y llegaron a Perge, la capital de Panfilia (Hechos 13:13, 14), una provincia aproximadamente en la mitad de la costa sur de Asia Menor. Se encontraba entre Licia al oeste y Cilicia al este. Había extranjeros de Panfilia en Jerusalén el día de Pentecostés (2:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "(de cada tribu), una de las regiones costeras del sur de Asia Menor, que tiene Cilicia al este y Licia al oeste. En tiempos de San Pablo no sólo era una provincia regular, sino que el emperador Claudio había unido a ella Licia, y probablemente también una buena parte de Pisidia. Fue en Panfilia donde San Pablo entró por primera vez en Asia Menor, después de predicar el evangelio en Chipre. Él y Bernabé navegaron río arriba por el río Cetrus hasta Perge. (Hechos 13:13.) Los dos misioneros finalmente abandonaron Panfilia por su principal puerto marítimo, Attalia. Muchos años después San Pablo navegó cerca de la costa. (Hechos 27:5)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 13:13",
+        "original": "Acts 13:13"
+      },
+      {
+        "reference": "Acts 13:14",
+        "original": "Acts 13:14"
+      },
+      {
+        "reference": "Acts 27:5",
+        "original": "Acts 27:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pannag": {
+    "name": "Pannag",
+    "slug": "pannag",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Ezequiel 27:17; marg. R.V., “quizás una especie de dulce”) los judíos explican como el nombre de una especie de pastel dulce. Otros lo toman como nombre de algún lugar, identificándolo con Pingi, en el camino entre Damasco y Baalbec. “Pannaga” es el nombre sánscrito de una planta aromática (comp. Génesis 43:11)."
+      },
+      {
+        "source": "SMI",
+        "text": "(dulce), un artículo comercial exportado de Palestina a Tiro, (Ezequiel 27:17) cuya naturaleza es una pura cuestión de conjetura, ya que el término no aparece en ningún otro lugar. Una comparación del pasaje de Ezequiel con (Génesis 43:11) lleva a la suposición de que el pannag representa algunas de las especias cultivadas en Palestina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 27:17",
+        "original": "Ezek. 27:17"
+      },
+      {
+        "reference": "Genesis 43:11",
+        "original": "Gen. 43:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paper": {
+    "name": "Papel",
+    "slug": "paper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La expresión en la Versión Autorizada (Isa. 19:7), “las cañas de papel junto a los arroyos”, en la Versión Revisada es más correctamente “los prados junto al Nilo”. Sin duda, las palabras se refieren a un lugar cubierto de hierba a orillas del Nilo apto para pastos. En 2 Juan 1:12 la palabra se usa en su sentido propio. El material al que se hace referencia se fabricó a partir de papiro, y de ahí su nombre. El papiro (heb. gome) era una especie de espadaña (q.v.). Es mencionado por Job (8:11) e Isaías (35:7). Fue utilizado para muchos propósitos. Esta planta (Papyrus Nilotica) ahora es desconocida en Egipto; no se puede encontrar ningún rastro de ello. Isaías (19:6, 7) predijo la inexplicable desaparición de esta planta de Egipto como parte del juicio divino sobre esa tierra. Los crecimientos de papiro más extensos que se conocen ahora se encuentran en las marismas del extremo norte del lago de Merom."
+      },
+      {
+        "source": "SMI",
+        "text": "[Escribiendo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 19:7",
+        "original": "Isa. 19:7"
+      },
+      {
+        "reference": "2 John 1:1",
+        "original": "2 John 1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paphos": {
+    "name": "Pafos",
+    "slug": "paphos",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La capital de la isla de Chipre y, por tanto, la residencia del gobernador romano. Fue visitada por Pablo y Bernabé en su primer viaje misionero (Hechos 13:6). Es el nuevo Paphos al que nos referimos aquí. Se encontraba en la costa occidental de la isla, a unas 8 millas al norte de la antigua Paphos. Su nombre moderno es Baffa."
+      },
+      {
+        "source": "SMI",
+        "text": "(hirviente o caliente), una ciudad en el extremo occidental de Chipre, conectada por una vía con Salamina en el extremo este. Fue fundada A.C. 1184 (durante el período de los jueces en Israel). Pablo y Bernabé viajaron, en su primera expedición misionera, “a través de la isla” desde el último lugar al primero (Hechos 13:6). La gran característica de Pafos era la adoración de Afrodita o Venus, de quien, según la leyenda, había surgido aquí del mar. Su templo, sin embargo, estaba en el \"Viejo Paphos\", ahora llamado Kuklia. El puerto y la ciudad principal estaban en \"Nueva Pafos\", diez millas al noroeste. El lugar todavía se llama Baffa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 13:6",
+        "original": "Acts 13:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parable": {
+    "name": "Parábola",
+    "slug": "parable",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. parábola), colocar al lado; una comparación; equivalente al heb. mashal, una similitud. En el Antiguo Testamento esto se usa para denotar (1) un proverbio (1 Sam. 10:12; 24:13; 2 Cr. 7:20), (2) una expresión profética (Núm. 23:7; Eze. 20:49), (3) un dicho enigmático (Sal. 78:2; Prov. 1:6). En el Nuevo Testamento, (1) un proverbio (Marcos 7:17; Lucas 4:23), (2) un emblema típico (Heb. 9:9; 11:19), (3) una similitud o alegoría (Mat. 15:15; 24:32; Marcos 3:23; Lucas 5:36; 14:7); (4) normalmente, en un sentido más restringido, una comparación de las cosas terrenales con las celestiales, \"una historia terrenal con un significado celestial\", como en las parábolas de nuestro Señor. La instrucción mediante parábolas se ha utilizado desde los primeros tiempos. Una gran parte de la enseñanza pública de nuestro Señor consistió en parábolas. Él mismo explica las razones de esto en su respuesta a la pregunta de los discípulos: \"¿Por qué les hablas en parábolas?\" (Mateo 13:13-15; Marcos 4:11, 12; Lucas 8:9, 10). Al hacerlo, siguió la regla de los procedimientos divinos, como se registra en Mat. 13:13. Todas las parábolas dichas por nuestro Señor están registradas en los evangelios sinópticos (es decir, los tres primeros). El cuarto Evangelio no contiene ninguna parábola propiamente dicha, aunque la ilustración del buen pastor (Juan 10:1-16) tiene todas las características esenciales de una parábola. (Vea la lista de parábolas en el Apéndice)."
+      },
+      {
+        "source": "SMI",
+        "text": "(La palabra parábola está en griego parábola (parábola) que significa colocar al lado o juntos, una comparación, una parábola es, por lo tanto, literalmente un colocar al lado, una comparación, una similitud, una ilustración de un tema por otro.—McClintock y Strong. Tal como se usa en el Nuevo Testamento tuvo una aplicación muy amplia, aplicándose a veces a los proverbios más breves (1 Samuel 10:12; 24:13; 2 Crónicas 7:20) a veces a oscuros proverbios proféticos. declaraciones (Números 23:7,18; 24:3; Ezequiel 20:49) a veces hasta máximas enigmáticas (Salmo 78:2; Proverbios 1:6) o metáforas expandidas a una narrativa (Ezequiel 12:22). En el Nuevo Testamento mismo, la palabra se usa con una latitud similar en (Mateo 24:32; Lucas 4:23; Hebreos). 9:9) A menudo se usaba en un sentido más restringido para denotar una breve narración bajo la cual se vela alguna verdad importante. De este tipo eran las parábolas de Cristo. La parábola difiere de la fábula (1) en que excluye a las criaturas brutas e inanimadas que se salen de las leyes de su naturaleza y hablan o actúan como hombres; (2) en su significado ético superior, se diferencia de la alegoría en que esta última, con su personificación directa de ideas o atributos, y los nombres que los designan. Realmente no hay comparación. Las virtudes y los vicios de la humanidad aparecen como en un drama, en su propio carácter y vestimenta. La alegoría se autointerpreta; la parábola exige atención, perspicacia, a veces una explicación real en que debe incluir una similitud de algún tipo, mientras que el proverbio puede afirmar, sin una similitud, alguna generalización amplia de la experiencia.—ED.) Durante algunos meses Jesús enseñó en las sinagogas y en la costa de Galilea como lo había enseñado antes. Jerusalén, y todavía sin parábola. Pero luego se produjo un cambio. La enseñanza directa fue recibida con desprecio, incredulidad y dureza, y por un tiempo pareció abandonarla por la que tomó la forma de parábolas. El valor de las parábolas como instrumentos de enseñanza radica en que son a la vez una prueba de carácter y en que presentan cada forma de carácter con aquello que, como castigo o bendición, se adapta a él. Quitan la luz a los que aman las tinieblas. Protegen la verdad que consagran de la burla del burlador. Incluso en los descuidados, dejan algo que puede ser interpretado y comprendido después. Revelan, por otro lado, a los buscadores de la verdad. Estos preguntan el significado de la parábola y no descansarán hasta que el maestro se la haya explicado. De esta manera la parábola funcionó, encontró a los oyentes aptos y los guió. En la mayoría de las parábolas es posible rastrear algo así como un orden."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 10:12",
+        "original": "1 Sam. 10:12"
+      },
+      {
+        "reference": "1 Samuel 24:13",
+        "original": "1 Sam. 24:13"
+      },
+      {
+        "reference": "2 Chronicles 7:20",
+        "original": "2 Chr. 7:20"
+      },
+      {
+        "reference": "Numbers 23:7",
+        "original": "Num. 23:7"
+      },
+      {
+        "reference": "Ezekiel 20:49",
+        "original": "Ezek. 20:49"
+      },
+      {
+        "reference": "Psalms 78:2",
+        "original": "Ps. 78:2"
+      },
+      {
+        "reference": "Proverbs 1:6",
+        "original": "Prov. 1:6"
+      },
+      {
+        "reference": "Mark 7:17",
+        "original": "Mark 7:17"
+      },
+      {
+        "reference": "Luke 4:23",
+        "original": "Luke 4:23"
+      },
+      {
+        "reference": "Hebrews 9:9",
+        "original": "Heb. 9:9"
+      },
+      {
+        "reference": "Hebrews 11:19",
+        "original": "Heb 11:19"
+      },
+      {
+        "reference": "Matthew 15:15",
+        "original": "Matt. 15:15"
+      },
+      {
+        "reference": "Matthew 24:32",
+        "original": "Matt 24:32"
+      },
+      {
+        "reference": "Mark 3:23",
+        "original": "Mark 3:23"
+      },
+      {
+        "reference": "Luke 5:36",
+        "original": "Luke 5:36"
+      },
+      {
+        "reference": "Luke 14:7",
+        "original": "Luke 14:7"
+      },
+      {
+        "reference": "Matthew 13:13-15",
+        "original": "Matt. 13:13-15"
+      },
+      {
+        "reference": "Mark 4:11",
+        "original": "Mark 4:11"
+      },
+      {
+        "reference": "Mark 4:12",
+        "original": "Mark 4:12"
+      },
+      {
+        "reference": "Luke 8:9",
+        "original": "Luke 8:9"
+      },
+      {
+        "reference": "Luke 8:10",
+        "original": "Luke 8:10"
+      },
+      {
+        "reference": "Matthew 13:13",
+        "original": "Matt. 13:13"
+      },
+      {
+        "reference": "John 10:1-16",
+        "original": "John 10:1-16"
+      },
+      {
+        "reference": "Numbers 23:18",
+        "original": "Numbers 23:18"
+      },
+      {
+        "reference": "Numbers 24:3",
+        "original": "Numbers 24:3"
+      },
+      {
+        "reference": "Ezekiel 12:22",
+        "original": "Ezekiel 12:22"
+      },
+      {
+        "reference": "Matthew 13:1",
+        "original": "Matthew 13:1"
+      },
+      {
+        "reference": "Mark 4:1",
+        "original": "Mark 4:1"
+      },
+      {
+        "reference": "Luke 8:1",
+        "original": "Luke 8:1"
+      },
+      {
+        "reference": "Luke 7:1",
+        "original": "Luke 7:1"
+      },
+      {
+        "reference": "Matthew 18:1",
+        "original": "Matthew 18:1"
+      },
+      {
+        "reference": "Luke 10:1",
+        "original": "Luke 10:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paradise": {
+    "name": "Paraíso",
+    "slug": "paradise",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una palabra persa (pardes), que significa propiamente “lugar de placer”, “parque” o “jardín del rey”. (Véase EDÉN.) Con el tiempo llegó a usarse como nombre para el mundo de felicidad y descanso en el más allá (Lucas 23:43; 2 Cor. 12:4; Apocalipsis 2:7). Para “huerto” en Gén. 2:8 de la LXX. tiene \"paraíso\"."
+      },
+      {
+        "source": "SMI",
+        "text": "Esta es una palabra de origen persa y se usa en la Septuaginta como traducción de Edén. Significa “un huerto de placeres y frutos”, un “jardín” o “terreno de placer”, algo así como un parque inglés. Se aplica en sentido figurado a la morada celestial de los justos, en alusión al jardín del Edén. (2 Corintios 12:4; Apocalipsis 2:7.) Por eso se ha vuelto de uso familiar para denotar tanto ese jardín como el cielo de los justos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 23:43",
+        "original": "Luke 23:43"
+      },
+      {
+        "reference": "2 Corinthians 12:4",
+        "original": "2 Cor. 12:4"
+      },
+      {
+        "reference": "Revelation 2:7",
+        "original": "Rev. 2:7"
+      },
+      {
+        "reference": "Genesis 2:8",
+        "original": "Gen. 2:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parah": {
+    "name": "Parah",
+    "slug": "parah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La Vaca, un pueblo en Benjamín (Josué 18:23), se supone que es idéntico a las ruinas llamadas Far’ah, a unas 6 millas al noreste de Jerusalén, en Wady Far’ah, que es una rama del Wady Kelt."
+      },
+      {
+        "source": "SMI",
+        "text": "(villa-pueblo) una de las ciudades del territorio asignado a Benjamín, nombrada sólo en las listas de la conquista. (Josué 18:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:23",
+        "original": "Josh. 18:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paran": {
+    "name": "Paran",
+    "slug": "paran",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Abundante en follaje, o abundando en cavernas (Génesis 21:21), una zona desértica que forma la división nororiental de la península del Sinaí, situada entre el Arabá al este y el desierto de Shur al oeste. Está cruzado en dirección noroeste por el Wady el-'Arish. Lleva el nombre moderno de Badiet et-Tih, es decir, “el desierto de los vagabundos”. Este distrito, por el cual vagaron los hijos de Israel, se encontraba a tres días de marcha del Sinaí (Núm. 10:12, 33). Desde Cades, en este desierto, se enviaron espías (q.v.) para espiar la tierra (13:3, 26). Aquí, mucho después, David encontró refugio de Saúl (1 Sam. 25:1, 4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 21:21",
+        "original": "Gen. 21:21"
+      },
+      {
+        "reference": "Numbers 10:12",
+        "original": "Num. 10:12"
+      },
+      {
+        "reference": "Numbers 10:33",
+        "original": "Num. 10:33"
+      },
+      {
+        "reference": "1 Samuel 25:1",
+        "original": "1 Sam. 25:1"
+      },
+      {
+        "reference": "1 Samuel 25:4",
+        "original": "1 Sam. 25:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "paran-elparan": {
+    "name": "Paran, Elparán",
+    "slug": "paran-elparan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(paz de las cavernas), un desierto o desierto, limitado al norte con Palestina, al este con el valle de Arabá, al sur con el desierto del Sinaí y al oeste con el desierto de Etam, que lo separaba del golfo de Suez y Egipto. La primera noticia de Parán está relacionada con la invasión de los reyes confederados. (Génesis 14:6) El itinerario detallado de los hijos de Israel en (Números 33:1)... no menciona a Parán porque era el nombre de una región amplia; pero se registran las muchas estaciones en Paran, caps. 17-36. y probablemente las dieciocho estaciones mencionadas entre Hazerot y Kadesh estaban en Parán. A través de este vasto desierto, de pasto en pasto como lo hacen las tribus árabes modernas, los israelitas vagaban en líneas de marcha irregulares. Esta región por la que los israelitas viajaron durante tanto tiempo recibe ahora el nombre que ha llevado durante siglos: Bedu et-Tih, “el desierto de la errancia”. (“Bible Geography”, Whitney.) “Mount” Paran aparece sólo en dos pasajes poéticos (33:2); Habb 3:3 Probablemente denota el miembro noroccidental del grupo montañoso del Sinaí que se encuentra adyacente al Wady Teiran. (Probablemente sea la cresta o serie de crestas que se encuentran en la parte noreste del desierto de Parán, no lejos de Kadesh.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:6",
+        "original": "Genesis 14:6"
+      },
+      {
+        "reference": "Numbers 33:1",
+        "original": "Numbers 33:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paran-mount": {
+    "name": "Paran, Monte",
+    "slug": "paran-mount",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Probablemente la región montañosa o las tierras altas del desierto al norte del desierto de Parán que forman el límite sur de la Tierra Prometida (Deuteronomio 33:2; Hab. 3:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 33:2",
+        "original": "Deut. 33:2"
+      },
+      {
+        "reference": "Habakkuk 3:3",
+        "original": "Hab. 3:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "parbar": {
+    "name": "parbar",
+    "slug": "parbar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Crónicas 26:18), un lugar aparentemente conectado con el templo, probablemente un “suburbio” (q.v.), como se traduce la palabra en 2 Reyes 23:11; un espacio entre el muro del templo y el muro del atrio; un pórtico abierto al que se abrían las cámaras de los funcionarios (1 Crónicas 26:18)."
+      },
+      {
+        "source": "SMI",
+        "text": "(apartamento abierto), palabra que aparece en hebreo y en la versión autorizada sólo en (1 Crónicas 26:18). Parecería que Parbar era algún lugar en el lado oeste del recinto del templo, probablemente el suburbio mencionado por Josefo como situado en el profundo valle que separaba el muro oeste del templo de la ciudad opuesta a él."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 26:18",
+        "original": "1 Chr. 26:18"
+      },
+      {
+        "reference": "2 Kings 23:11",
+        "original": "2 Kings 23:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parchment": {
+    "name": "Pergamino",
+    "slug": "parchment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una piel preparada para escribir; llamado así desde Pérgamo (q.v.), donde esto se hizo por primera vez (2 Tim. 4:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Escribiendo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 4:13",
+        "original": "2 Tim. 4:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parmashta": {
+    "name": "Parmashta",
+    "slug": "parmashta",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fuerte, hijo de Amán, asesinado en Susa (Ester 9:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(superior), uno de los diez hijos de Amán asesinados por los judíos en Susa. (Ester 9:9) (473 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 9:9",
+        "original": "Esther 9:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parmenas": {
+    "name": "Pármenas",
+    "slug": "parmenas",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Constant, uno de los siete “diáconos” (Hechos 6:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "(permanente), uno de los siete diáconos, “hombres de buen testimonio, llenos del Espíritu Santo y de sabiduría”. (Hechos 8:5) Hay una tradición de que sufrió el martirio en Filipos durante el reinado de Trajano."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 6:5",
+        "original": "Acts 6:5"
+      },
+      {
+        "reference": "Acts 8:5",
+        "original": "Acts 8:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parnaeh": {
+    "name": "Parnaeh",
+    "slug": "parnaeh",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(delicado), padre o antepasado de Elizafán, príncipe de la tribu de Zabulón. (Números 34:25) (A.C. antes de 1452.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 34:25",
+        "original": "Numbers 34:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parshandatha": {
+    "name": "Parshandatha",
+    "slug": "parshandatha",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un intérprete de la ley, el mayor de los hijos de Amán, asesinado en Susa (Ester 9:7)."
+      },
+      {
+        "source": "SMI",
+        "text": "(dado por oración), el mayor de los diez hijos de Amán que fueron asesinados por los judíos en Susa. (Ester 9:7) (473 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 9:7",
+        "original": "Esther 9:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parthians": {
+    "name": "partos",
+    "slug": "parthians",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Estuvieron presentes en Jerusalén en Pentecostés (Hechos 2:9). Partia se encontraba al este de Media y al sur de Hircania, que la separaba del mar Caspio. Correspondía a la mitad occidental del moderno Khorasan y ahora forma parte de Persia."
+      },
+      {
+        "source": "SMI",
+        "text": "Este nombre aparece sólo en (Hechos 2:9) donde designa a los judíos asentados en Partia. Partia propiamente dicha era la región que se extendía a lo largo del flanco sur de las montañas que separan el gran desierto persa del desierto de Kharesm. Se encontraba al sur de Hircania, al este de Media y al norte de Sagartia. Los antiguos partos son llamados una raza \"escítica\" y probablemente pertenecían a la gran familia turaniana. Después de estar sujetos sucesivamente a los persas y a los seléucidas, se rebelaron en B.C. 256. y bajo Arsaces lograron establecer su independencia. Partia, en la mente del escritor de las Actas, designaría este imperio, que se extendía desde la India hasta el Tigris y desde el desierto de Corasmio hasta las costas del Océano Austral; de ahí la posición prominente del nombre Partos en la lista de los que fueron prevenidos en Pentecostés. Partia era una potencia que casi rivalizaba con Roma: la única potencia existente que había probado su fuerza contra Roma y no había sido derrotada en el encuentro. El dominio parto duró casi cinco siglos, comenzando en el siglo III antes y terminando en el siglo III después de nuestra era. Los partos hablaban el idioma persa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 2:9",
+        "original": "Acts 2:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "partridge": {
+    "name": "Perdiz",
+    "slug": "partridge",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. kore, es decir, “persona que llama”). Esta ave, a diferencia de nuestra propia perdiz, se distingue por “su timbre sonoro, que temprano en la mañana resuena de acantilado en acantilado en medio de la esterilidad del desierto de Judea y las cañadas del bosque del Carmelo”, de ahí su nombre hebreo. Este nombre aparece sólo dos veces en las Escrituras. En 1 Sam. 26:20 “David alude al modo de caza que se practicaba ahora, como en la antigüedad, cuando la perdiz, continuamente perseguida, al final, cuando estaba fatigada, era derribada por palos arrojados por el suelo”. Se esfuerza por salvarse \"corriendo, antes que huyendo, a menos que se inicie repentinamente. No es un habitante de la llanura o del campo de maíz, sino de las laderas rocosas de las colinas\" (Nat. Hist. de Tristram). En Jer. 17:11 el profeta ilustra el hecho de que las riquezas adquiridas ilícitamente son precarias y de corta duración. No se puede determinar con precisión la naturaleza exacta de la ilustración. Algunos interpretan las palabras en el sentido de que el hombre codicioso seguramente quedará decepcionado como la perdiz que recoge huevos que no ha puesto y no puede incubarlos; otros (Tristram), con más probabilidad, denotan que el hombre que se enriquece por medios injustos “se sentirá tan decepcionado como la perdiz que comienza a posarse, pero rápidamente pierde sus esperanzas de tener una cría” cuando le roban los huevos. La perdiz más común en Palestina es la Caccabis saxatilis, la perdiz griega. La perdiz del monte (Ammo-perdix heyi) es una especie más pequeña. Ambos son esencialmente pájaros de montaña y de roca, diferenciándose así de la perdiz inglesa, que ama los campos de cultivo."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. Kore) ocurre sólo (1 Samuel 26:20) y Jer 17:11. La \"caza de esta ave en las montañas\" (1 Samuel 26:20) concuerda completamente con los hábitos de dos especies bien conocidas de perdiz, a saber. Caccabis saxatilis, la perdiz griega (que es la perdiz más común de tierra santa), y Ammoperdix heyii. Nuestra perdiz común, Perdix cinerea, no se encuentra en Palestina. (La perdiz griega se parece un poco a nuestra perdiz de patas rojas en plumaje, pero es mucho más grande. Abunda en todas partes de la región montañosa, y su timbre sonoro a primera hora de la mañana resuena de acantilado en acantilado por igual en medio de la esterilidad de las colinas de Judea y en las cañadas del bosque del Carmelo. Nat. Hist. of Bible de Tristram. La carne de la perdiz y los huevos son muy apreciados como alimento, y la búsqueda de los huevos en la época adecuada del año se hace un negocio regular.-ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 26:20",
+        "original": "1 Sam. 26:20"
+      },
+      {
+        "reference": "Jeremiah 17:11",
+        "original": "Jer. 17:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paruah": {
+    "name": "parua",
+    "slug": "paruah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Floreciente, padre de Josafat, designado para proporcionar suministros mensuales a Salomón de la tribu de Isacar (1 Reyes 4:17)."
+      },
+      {
+        "source": "SMI",
+        "text": "(floreciente), padre de Josafat, oficial del comisariado de Salomón en Isacar. (1 Reyes 4:17) (a.C. alrededor del año 1017.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 4:17",
+        "original": "1 Kings 4:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "parvaim": {
+    "name": "Parvaim",
+    "slug": "parvaim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre de un país del cual Salomón obtuvo oro para el templo (2 Crónicas 3:6). Algunos lo han identificado con Ofir, pero no se sabe si es siquiera el nombre de un lugar. Puede que, como algunos piensan, simplemente denote “regiones orientales”."
+      },
+      {
+        "source": "SMI",
+        "text": "(regiones orientales), nombre de un lugar o país desconocido de donde se obtuvo el oro para la decoración del templo de Salomón. (2 Crónicas 3:6.) Podemos notar la conjetura de que se deriva del sánscrito purva, “oriental”, y es un término general para el este."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 3:6",
+        "original": "2 Chr. 3:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pas-dammim": {
+    "name": "Pas-dammim",
+    "slug": "pas-dammim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La frontera de sangre = Efes-dammim (q.v.), entre Shojoh y Azekah (1 Sam. 17:1; 1 Cr. 11:13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:1",
+        "original": "1 Sam. 17:1"
+      },
+      {
+        "reference": "1 Chronicles 11:13",
+        "original": "1 Chr. 11:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "pasach": {
+    "name": "Pasach",
+    "slug": "pasach",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Clearing, uno de los hijos de Jaflet, de la tribu de Aser (1 Crónicas 7:33)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cortado), hijo de Jaflet, de la tribu de Aser. (1 Crónicas 7:33)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:33",
+        "original": "1 Chr. 7:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pasdammim": {
+    "name": "Pasdamim",
+    "slug": "pasdammim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(límite de sangre). [EFES-DAMMIM]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "paseah": {
+    "name": "pasaah",
+    "slug": "paseah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(aburrido)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:12",
+        "original": "1 Chronicles 4:12"
+      },
+      {
+        "reference": "Ezra 2:49",
+        "original": "Ezra 2:49"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pashur": {
+    "name": "Pashur",
+    "slug": "pashur",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Liberar. (1.) El hijo de Imer (probablemente el mismo que Amarías, Neh. 10:3; 12:2), el jefe de uno de los cursos sacerdotales, era “gobernador principal [heb. paqid nagid, que significa “gobernador adjunto”] del templo” (Jer. 20:1, 2). En esa época el naguid, o “gobernador”, del templo era Seraías, el sumo sacerdote (1 Crónicas 6:14), y Pasur era su paqid, o “suplente”. Enfurecido por la sencillez con la que Jeremías pronunció sus solemnes advertencias sobre los juicios venideros, debido a la abundante iniquidad de los tiempos, Pashur ordenó a la policía del templo que lo apresaran y, después de infligirle castigo corporal (cuarenta azotes menos uno, Deut. 25:3; comp. 2 Cor. 11:24), lo pusieran en el cepo en la puerta alta de Benjamín, donde permaneció toda la noche. Al ser liberado por la mañana, Jeremías fue a Pasur (Jer. 20:3, 5) y le anunció que Dios había cambiado su nombre a Magor-missabib, es decir, “terror por todos lados”. El castigo que cayó sobre él probablemente fue el remordimiento, cuando vio la ruina que había traído a su país al aconsejar una estrecha alianza con Egipto en oposición a los consejos de Jeremías (20:4-6). Fue llevado cautivo a Babilonia y allí murió. (2.) Un sacerdote enviado por el rey Sedequías a Jeremías para consultar al Señor (1 Crónicas 24:9; Jer. 21:1; 38:1-6). Aconsejó que el profeta fuera ejecutado. (3.) El padre de Gedalías. Probablemente era el mismo que (1)."
+      },
+      {
+        "source": "SMI",
+        "text": "(libertad)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 10:3",
+        "original": "Neh. 10:3"
+      },
+      {
+        "reference": "Nehemiah 12:2",
+        "original": "Neh 12:2"
+      },
+      {
+        "reference": "Jeremiah 20:1",
+        "original": "Jer. 20:1"
+      },
+      {
+        "reference": "Jeremiah 20:2",
+        "original": "Jer 20:2"
+      },
+      {
+        "reference": "1 Chronicles 6:14",
+        "original": "1 Chr. 6:14"
+      },
+      {
+        "reference": "Deuteronomy 25:3",
+        "original": "Deut. 25:3"
+      },
+      {
+        "reference": "2 Corinthians 11:24",
+        "original": "2 Cor. 11:24"
+      },
+      {
+        "reference": "Jeremiah 20:3",
+        "original": "Jer. 20:3"
+      },
+      {
+        "reference": "Jeremiah 20:5",
+        "original": "Jer. 20:5"
+      },
+      {
+        "reference": "1 Chronicles 24:9",
+        "original": "1 Chr. 24:9"
+      },
+      {
+        "reference": "Jeremiah 21:1",
+        "original": "Jer. 21:1"
+      },
+      {
+        "reference": "Jeremiah 38:1-6",
+        "original": "Jer 38:1-6"
+      },
+      {
+        "reference": "1 Chronicles 9:12",
+        "original": "1 Chronicles 9:12"
+      },
+      {
+        "reference": "Nehemiah 11:12",
+        "original": "Nehemiah 11:12"
+      },
+      {
+        "reference": "Jeremiah 38:1",
+        "original": "Jeremiah 38:1"
+      },
+      {
+        "reference": "Ezra 2:38",
+        "original": "Ezra 2:38"
+      },
+      {
+        "reference": "Nehemiah 7:41",
+        "original": "Nehemiah 7:41"
+      },
+      {
+        "reference": "Jeremiah 38:4",
+        "original": "Jeremiah 38:4"
+      },
+      {
+        "reference": "1 Chronicles 24:14",
+        "original": "1 Chronicles 24:14"
+      },
+      {
+        "reference": "Jeremiah 20:1-6",
+        "original": "Jeremiah 20:1-6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "passage": {
+    "name": "Paso",
+    "slug": "passage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Denota en Josh. 22:11, como generalmente se entiende, el lugar por donde los hijos de Israel pasaron el Jordán. Sin embargo, las palabras “el paso de” se traducen más correctamente “al lado de” o “al otro lado de”, designando así la posición del gran altar erigido por las tribus orientales a su regreso a casa. Esta palabra también designa los vados del Jordán al sur del mar de Galilea (Jue. 12:5, 6), y un paso o desfiladero rocoso (1 Sam. 13:23; 14:4). “Pasajes” en Jer. 22:20 es en la versión revisada más correctamente “Abarim” (q.v.), un nombre propio."
+      },
+      {
+        "source": "SMI",
+        "text": "Usado en plural (Jeremías 22:20) probablemente para denotar la región montañosa de Abarim en el lado este del Jordán. También denota un vado de río o un desfiladero o paso de montaña."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 22:11",
+        "original": "Josh. 22:11"
+      },
+      {
+        "reference": "Judges 12:5",
+        "original": "Judg. 12:5"
+      },
+      {
+        "reference": "Judges 12:6",
+        "original": "Judg. 12:6"
+      },
+      {
+        "reference": "1 Samuel 13:23",
+        "original": "1 Sam. 13:23"
+      },
+      {
+        "reference": "1 Samuel 14:4",
+        "original": "1 Sam. 14:4"
+      },
+      {
+        "reference": "Jeremiah 22:20",
+        "original": "Jer. 22:20"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "passion": {
+    "name": "Pasión",
+    "slug": "passion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sólo se encuentra una vez, en Hechos 1:3, que significa sufrimiento, refiriéndose a los sufrimientos de nuestro Señor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 1:3",
+        "original": "Acts 1:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "patara": {
+    "name": "patara",
+    "slug": "patara",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ciudad en la costa suroeste de Licia a la que desembarcó Pablo a su regreso de su tercer viaje misionero (Hechos 21:1, 2). Aquí encontró un barco más grande, que estaba a punto de navegar a través del mar abierto hacia la costa de Fenicia. En este barco partió y llegó a la ciudad de Tiro quizás en dos o tres días."
+      },
+      {
+        "source": "SMI",
+        "text": "(ciudad de Patarus), una ciudad licia situada en la costa suroeste de Licia, no lejos de la margen izquierda del río Xanthus. La costa aquí es muy montañosa y audaz. Justo enfrente se encuentra la isla de Rodas. Patara era prácticamente el puerto marítimo de la ciudad de Xanto, que estaba a diez millas de distancia. Estos avisos de su posición e importancia marítima nos introducen a la única mención del lugar en la Biblia— (Hechos 21:1,2)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 21:1",
+        "original": "Acts 21:1"
+      },
+      {
+        "reference": "Acts 21:2",
+        "original": "Acts 21:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pathros": {
+    "name": "Patros",
+    "slug": "pathros",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre dado generalmente al Alto Egipto (la Tebaida de los griegos), a diferencia de Matsor, o Bajo Egipto (Isa. 11:11; Jer. 44:1, 15; Eze. 30:14), los dos formando Mizraim. Después de la destrucción de Jerusalén por Nabucodonosor, colonias de judíos se establecieron “en el país de Patros” y otras partes de Egipto."
+      },
+      {
+        "source": "SMI",
+        "text": "(región del sur), una parte de Egipto, y una tribu mizraita cuyo pueblo se llamaba Pathrusim. En la lista de los Mizraítas, los Pathrusim aparecen después de los Naftuhim y antes de los Caluhim; A este último le siguió la noticia de los filisteos y de los caftoreos. (Génesis 10:13,14; 1 Crónicas 1:12) Pathros se menciona en las profecías de Isaías, (Isaías 11:11) Jeremías (Jeremías 44:1,15) y Ezequiel. (Ezequiel 29:14; 30:13-18.) Probablemente formaba parte o la totalidad del alto Egipto, y podemos rastrear su nombre en el nombre patirita, en el que estaba situada Tebas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 11:11",
+        "original": "Isa. 11:11"
+      },
+      {
+        "reference": "Jeremiah 44:1",
+        "original": "Jer. 44:1"
+      },
+      {
+        "reference": "Jeremiah 44:15",
+        "original": "Jer. 44:15"
+      },
+      {
+        "reference": "Ezekiel 30:14",
+        "original": "Ezek. 30:14"
+      },
+      {
+        "reference": "Genesis 10:13",
+        "original": "Genesis 10:13"
+      },
+      {
+        "reference": "Genesis 10:14",
+        "original": "Genesis 10:14"
+      },
+      {
+        "reference": "1 Chronicles 1:12",
+        "original": "1 Chronicles 1:12"
+      },
+      {
+        "reference": "Ezekiel 29:14",
+        "original": "Ezekiel 29:14"
+      },
+      {
+        "reference": "Ezekiel 30:13-18",
+        "original": "Ezekiel 30:13-18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pathrusim": {
+    "name": "Patrusim",
+    "slug": "pathrusim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "gente de Pathros. [Pathros]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "patmos": {
+    "name": "Patmos",
+    "slug": "patmos",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una pequeña isla rocosa y árida, una del grupo llamado \"Esporadas\", en el Mar Egeo. Se menciona en las Escrituras sólo en Apocalipsis 1:9. Fue en esta isla, a la que Juan fue desterrado por el emperador Domiciano (95 d.C.), donde recibió de Dios la maravillosa revelación registrada en su libro. Naturalmente, esto le ha otorgado el interés más profundo de todos los tiempos. Ahora se llama Patmo. (Ver JUAN.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(Apocalipsis 1:9) una isla escarpada y desnuda en el mar Egeo, a 20 millas al sur de Samos y 24 al oeste de Asia Menor. Fue el escenario del destierro de San Juan durante el reinado de Domiciano, en el año 95 d.C. Patmos está dividida en dos partes casi iguales, una al norte y otra al sur, por un istmo muy estrecho donde, en el lado este, están el puerto y la ciudad. En la colina del sur, coronando una altura imponente, se encuentra el célebre monasterio que lleva el nombre de \"Juan el Divino\". A mitad del descenso se encuentra la cueva o gruta donde la tradición dice que San Juan recibió la Revelación."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 1:9",
+        "original": "Rev. 1:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "patriarch": {
+    "name": "Patriarca",
+    "slug": "patriarch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre empleado en el Nuevo Testamento con referencia a Abraham (Heb. 7:4), los hijos de Jacob (Hechos 7:8, 9) y David (2:29). Este nombre se aplica generalmente a los progenitores de familias o “cabezas de padres” (Josué 14:1) mencionados en las Escrituras, y se les llama patriarcas antediluvianos (desde Adán hasta Noé) y posdiluvianos (desde Noé hasta Jacob). Pero la expresión \"el patriarca\", a modo de eminencia, se aplica a los doce hijos de Jacob, o a Abraham, Isaac y Jacob. \"La longevidad patriacal se presenta como uno de los hechos más sorprendentes relacionados con la humanidad que la historia temprana del Libro del Génesis nos presenta... Hay una gran cantidad de tradición consentida en el sentido de que la vida del hombre era originalmente mucho más prolongada de lo que es en la actualidad, extendiéndose al menos a varios cientos de años. Los babilonios, egipcios y chinos exageraron estos cientos hasta convertirlos en miles. Los griegos y romanos, con más moderación, limitaron la vida humana a mil u ochocientos años. Los hindúes todavía acortaron aún más el plazo, sus libros enseñaban que en la primera era del mundo el hombre estaba libre de enfermedades y vivía normalmente cuatrocientos años; en la segunda edad, el término de vida se redujo de cuatrocientos a trescientos; en la tercera, se redujo a cien;"
+      },
+      {
+        "source": "SMI",
+        "text": "(padre de una tribu), nombre dado al jefe de una familia o tribu en los tiempos del Antiguo Testamento. En el uso común, el título de patriarca se asigna especialmente a aquellos cuyas vidas están registradas en las Escrituras antes del tiempo de Moisés, como Adán, Abraham, Isaac y Jacob. (“En la historia temprana de los hebreos encontramos que el antepasado o padre de una familia retenía autoridad sobre sus hijos y los hijos de sus hijos mientras viviera; cualesquiera que fueran las nuevas conexiones que pudieran formar cuando el padre moría, las familias filiales no se separaban ni formaban nuevas comunidades, sino que generalmente se unían bajo otro jefe común. El hijo mayor generalmente estaba investido de esta dignidad. Su autoridad era paternal. Se le honraba como punto central de conexión y como representante de todo el linaje. Así, cada gran familia tenía su patriarca o jefe, y cada tribu su príncipe, seleccionado entre los diversos jefes de familias que abrazaba.”—McClintock y Strong.) (“Después de la destrucción de Jerusalén, patriarca era el título de los principales gobernantes religiosos de los judíos en Asia y en los primeros tiempos cristianos se convirtió en la designación de los obispos de Roma, Constantinopla, Alejandría, Antioquía y Jerusalén.”—American Cyclopedia.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hebrews 7:4",
+        "original": "Heb. 7:4"
+      },
+      {
+        "reference": "Acts 7:8",
+        "original": "Acts 7:8"
+      },
+      {
+        "reference": "Acts 7:9",
+        "original": "Acts 7:9"
+      },
+      {
+        "reference": "Joshua 14:1",
+        "original": "Josh. 14:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "patrobas": {
+    "name": "Patrobas",
+    "slug": "patrobas",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un cristiano en Roma a quien Pablo envió saludos (Rom. 16:14)."
+      },
+      {
+        "source": "SMI",
+        "text": "(paterno), un cristiano en Roma a quien San Pablo envía su saludo. (Romanos 16:14.) Como muchos otros nombres mencionados en Roma 16, este lo llevaba al menos un miembro de la casa del emperador. Sebo. Galba. 20; Marcial, Ep. ii. 32, 3. (55 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:14",
+        "original": "Rom. 16:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pau": {
+    "name": "pau",
+    "slug": "pau",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gén. 36:39) o Pai (1 Cr. 1:50), balido, una ciudad edomita gobernada por Hadar."
+      },
+      {
+        "source": "SMI",
+        "text": "(balido) (pero en (1 Crónicas 1:50) Pai), la capital de Hadar rey de Edom. (Génesis 36:39) Se desconoce su posición."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:39",
+        "original": "Gen. 36:39"
+      },
+      {
+        "reference": "1 Chronicles 1:50",
+        "original": "1 Chr. 1:50"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pavilion": {
+    "name": "Pabellón",
+    "slug": "pavilion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una tienda o tabernáculo (2 Sam. 22:12; 1 Reyes 20:12-16), o recinto (Sal. 18:11; 27:5). En Jer. 43:10 probablemente denota el dosel suspendido sobre el tribunal del rey."
+      },
+      {
+        "source": "SMI",
+        "text": "una tienda de campaña o habitación móvil temporal."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 22:12",
+        "original": "2 Sam. 22:12"
+      },
+      {
+        "reference": "1 Kings 20:12-16",
+        "original": "1 Kings 20:12-16"
+      },
+      {
+        "reference": "Psalms 18:11",
+        "original": "Ps. 18:11"
+      },
+      {
+        "reference": "Psalms 27:5",
+        "original": "Ps 27:5"
+      },
+      {
+        "reference": "Jeremiah 43:10",
+        "original": "Jer. 43:10"
+      },
+      {
+        "reference": "Jeremiah 49:10",
+        "original": "Jeremiah 49:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "peacock": {
+    "name": "Pavo real",
+    "slug": "peacock",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tuk, aparentemente tomado del tamil tokei). Esta ave es autóctona de la India. Fue llevado a Salomón en sus barcos desde Tarsis (1 Reyes 10:22; 2 Crónicas 9:21), que en este caso probablemente era un distrito en la costa de Malabar de la India, o en Ceilán. La palabra así traducida en Job 39:13 significa literalmente llanto salvaje y tumultuoso, y denota apropiadamente a la hembra de avestruz (q.v.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:22",
+        "original": "1 Kings 10:22"
+      },
+      {
+        "reference": "2 Chronicles 9:21",
+        "original": "2 Chr. 9:21"
+      },
+      {
+        "reference": "Job 39:13",
+        "original": "Job 39:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "peacocks": {
+    "name": "pavos reales",
+    "slug": "peacocks",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Heb. tuccyyim). Entre los productos naturales que la flota de Salomón trajo a Jerusalén, se mencionan los \"pavos reales\" (1 Reyes 10:22; 2 Crónicas 9:21), que probablemente sea la traducción correcta. La palabra hebrea se remonta al Talmud o Malabaric togei, \"pavo real\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:22",
+        "original": "1 Kings 10:22"
+      },
+      {
+        "reference": "2 Chronicles 9:21",
+        "original": "2 Chronicles 9:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pearl": {
+    "name": "Perla",
+    "slug": "pearl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. gabish, Job 28:18; gr. margarites, Mateo 7:6; 13:46; Apocalipsis 21:21). La ostra perla se encuentra en el Golfo Pérsico y el Mar Rojo. Su concha es el “nácar”, que es de gran valor con fines ornamentales (1 Tim. 2:9; Apocalipsis 17:4). Cada concha contiene ocho o diez perlas de distintos tamaños."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. gabish). La palabra hebrea en (Job 28:18) probablemente significa \"cristal\". Las perlas, sin embargo, se mencionan con frecuencia en el Nuevo Testamento (Mateo 13:45; 1 Timoteo 2:9; Apocalipsis 17:4; 21:21) y los antiguos las consideraban entre las gemas más preciosas y eran muy apreciadas como adornos. El reino de los cielos se compara con una “perla de gran precio”. En (Mateo 7:6) las perlas se usan metafóricamente para cualquier cosa de valor, o quizás más especialmente para \"dichos sabios\". (Los mejores ejemplares de la perla los produce la ostra perla (Avicula margaritifera), que todavía se encuentra en abundancia en el Golfo Pérsico y cerca de las costas de Ceilán, Java y Sumatra. Las ostras crecen en racimos sobre rocas en aguas profundas, y la perla se encuentra dentro de la concha, y es el resultado de una secreción enfermiza causada por la introducción de cuerpos extraños, como arena, etc., entre el manto y la concha. Son obtenidas por buzos entrenados para Marzo o abril es el momento para la pesca de perlas. Una sola concha a veces produce de ocho a doce perlas. El tamaño de una buena perla oriental varía desde el de un guisante hasta aproximadamente tres veces ese tamaño."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 28:18",
+        "original": "Job 28:18"
+      },
+      {
+        "reference": "Matthew 7:6",
+        "original": "Matt. 7:6"
+      },
+      {
+        "reference": "Matthew 13:46",
+        "original": "Matt 13:46"
+      },
+      {
+        "reference": "Revelation 21:21",
+        "original": "Rev. 21:21"
+      },
+      {
+        "reference": "1 Timothy 2:9",
+        "original": "1 Tim. 2:9"
+      },
+      {
+        "reference": "Revelation 17:4",
+        "original": "Rev. 17:4"
+      },
+      {
+        "reference": "Matthew 13:45",
+        "original": "Matthew 13:45"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "peculiar": {
+    "name": "Peculiar",
+    "slug": "peculiar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como se usa en la frase “gente peculiar” en 1 Ped. 2:9, se deriva del lat. peculium, y denota, como se traduce en la versión revisada (“un pueblo para posesión de Dios”), una posesión o propiedad especial. La iglesia es la “propiedad” de Dios, su “posesión adquirida” (Efesios 1:14; R.V., “posesión propia de Dios”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Peter 2:9",
+        "original": "1 Pet. 2:9"
+      },
+      {
+        "reference": "Ephesians 1:14",
+        "original": "Eph. 1:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "pedahel": {
+    "name": "Pedahel",
+    "slug": "pedahel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Redimido de Dios, hijo de Ammihud, príncipe de Neftalí (Números 34:28)."
+      },
+      {
+        "source": "SMI",
+        "text": "(a quien Dios redime), hijo de Ammihud y príncipe de la tribu de Neftalí. (Números 34:28)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 34:28",
+        "original": "Num. 34:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "pedahzur": {
+    "name": "Pedahzur",
+    "slug": "pedahzur",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Roca de la redención, padre de Gamaliel y príncipe de Manasés en el momento del Éxodo (Números 1:10; 2:20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 1:10",
+        "original": "Num. 1:10"
+      },
+      {
+        "reference": "Numbers 2:20",
+        "original": "Num 2:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },

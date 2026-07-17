@@ -1511,5 +1511,25 @@
       "SMI"
     ],
     "letter": "t"
+  },
+  "parched-ground": {
+    "name": "Tierra reseca",
+    "slug": "parched-ground",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 35:7), Heb. sharab, un “espejismo”, un fenómeno provocado por la refracción de los rayos del sol sobre las brillantes arenas del desierto, haciendo que de repente asuman la apariencia de un hermoso lago. Los árabes modernos lo llaman serab con el mismo nombre hebreo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 35:7",
+        "original": "Isa. 35:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
   }
 }

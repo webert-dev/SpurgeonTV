@@ -14645,5 +14645,238 @@
       "EAS"
     ],
     "letter": "j"
+  },
+  "nose-jewel": {
+    "name": "Joya para la nariz",
+    "slug": "nose-jewel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Génesis 24:22; Éxodo 35:22) \"oreja\"; (Isaías 3:21; Ezequiel 16:12) “joya en la frente”, un anillo de metal, a veces de oro o plata, que generalmente pasaba por la fosa nasal derecha y que las mujeres de Oriente usaban a modo de adorno. Sobre él se ensartan cuentas, corales o joyas. En Egipto ahora está casi confinado a las clases bajas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:22",
+        "original": "Genesis 24:22"
+      },
+      {
+        "reference": "Exodus 35:22",
+        "original": "Exodus 35:22"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isaiah 3:21"
+      },
+      {
+        "reference": "Ezekiel 16:12",
+        "original": "Ezekiel 16:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "nose-jewels": {
+    "name": "Joyas para la nariz",
+    "slug": "nose-jewels",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sólo se menciona en Isa. 3:21, aunque se menciona en Génesis 24:47, Prov. 11:22, Os. 2:13. Se encontraban entre los adornos femeninos antiguos más valorados. \"Estaban hechos de marfil o metal, y ocasionalmente adornados con joyas. Tenían más de una pulgada de diámetro y colgaban sobre la boca. Eliezer le dio uno a Rebeca que era de oro y pesaba medio siclo... En la actualidad, las mujeres en el campo y en el desierto usan estos adornos en uno de los lados de las fosas nasales, que en consecuencia caen como las orejas\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isa. 3:21"
+      },
+      {
+        "reference": "Genesis 24:47",
+        "original": "Gen. 24:47"
+      },
+      {
+        "reference": "Proverbs 11:22",
+        "original": "Prov. 11:22"
+      },
+      {
+        "reference": "Hosea 2:13",
+        "original": "Hos. 2:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "oath": {
+    "name": "Juramento",
+    "slug": "oath",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un llamamiento solemne a Dios, permitido en ocasiones apropiadas (Deuteronomio 6:13; Jer. 4:2), en diversas formas (Gén. 16:5; 2 Sam. 12:5; Rut 1:17; Os. 4:15; Rom. 1:9), y tomado de diferentes maneras (Gén. 14:22; 24:2; 2 Cr. 6:22). Se representa a Dios prestando juramento (Heb. 6:16-18), así también a Cristo (Mat. 26:64) y a Pablo (Rom. 9:1; Gá. 1:20; Fil. 1:8). El precepto “No juréis en absoluto” probablemente se refiere a la conversación ordinaria entre un hombre y otro (Mat. 5:34, 37). Pero si se considera que las palabras se refieren a juramentos, entonces su intención puede haber sido mostrar \"que el estado apropiado de los cristianos es no requerir juramentos; que cuando el mal sea expulsado de entre ellos, cada sí y cada no será tan decisivo como un juramento, cada promesa tan vinculante como un voto\"."
+      },
+      {
+        "source": "SMI",
+        "text": "El principio por el cual un juramento se considera vinculante se establece incidentalmente en (Hebreos 6:16), a saber. como un llamamiento último a la autoridad divina para ratificar una afirmación. Según el mismo principio, siempre se ha considerado más vinculante aquel juramento que apela a la autoridad más alta, tanto en lo que respecta a los individuos como a las comunidades. Como consecuencia de este principio, las apelaciones al nombre de Dios, por un lado, y a las deidades paganas, por el otro, se tratan en las Escrituras como pruebas de lealtad. (Éxodo 23:13; 34:6; 29:12), etc. Así también el nombre del soberano se usa a veces como una forma de obligación. (Génesis 42:15; 2 Samuel 11:11; 14:19) Se mencionan otras formas de juramento, graves o frívolos, algunos de los cuales son condenados por nuestro Señor. (Mateo 6:33; 23:16-22) y ver (Santiago 5:12) (Sin embargo, existe una diferencia mundial entre una apelación solemne a Dios y un juramento profano). Las formas de conjuración mencionadas en las Escrituras son:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 6:13",
+        "original": "Deut. 6:13"
+      },
+      {
+        "reference": "Jeremiah 4:2",
+        "original": "Jer. 4:2"
+      },
+      {
+        "reference": "Genesis 16:5",
+        "original": "Gen. 16:5"
+      },
+      {
+        "reference": "2 Samuel 12:5",
+        "original": "2 Sam. 12:5"
+      },
+      {
+        "reference": "Ruth 1:17",
+        "original": "Ruth 1:17"
+      },
+      {
+        "reference": "Hosea 4:15",
+        "original": "Hos. 4:15"
+      },
+      {
+        "reference": "Romans 1:9",
+        "original": "Rom. 1:9"
+      },
+      {
+        "reference": "Genesis 14:22",
+        "original": "Gen. 14:22"
+      },
+      {
+        "reference": "Genesis 24:2",
+        "original": "Gen 24:2"
+      },
+      {
+        "reference": "2 Chronicles 6:22",
+        "original": "2 Chr. 6:22"
+      },
+      {
+        "reference": "Hebrews 6:16-18",
+        "original": "Heb. 6:16-18"
+      },
+      {
+        "reference": "Matthew 26:64",
+        "original": "Matt. 26:64"
+      },
+      {
+        "reference": "Romans 9:1",
+        "original": "Rom. 9:1"
+      },
+      {
+        "reference": "Galatians 1:20",
+        "original": "Gal. 1:20"
+      },
+      {
+        "reference": "Philippians 1:8",
+        "original": "Phil. 1:8"
+      },
+      {
+        "reference": "Matthew 5:34",
+        "original": "Matt. 5:34"
+      },
+      {
+        "reference": "Matthew 5:37",
+        "original": "Matt. 5:37"
+      },
+      {
+        "reference": "Hebrews 6:16",
+        "original": "Hebrews 6:16"
+      },
+      {
+        "reference": "Exodus 23:13",
+        "original": "Exodus 23:13"
+      },
+      {
+        "reference": "Exodus 34:6",
+        "original": "Exodus 34:6"
+      },
+      {
+        "reference": "Exodus 29:12",
+        "original": "Exodus 29:12"
+      },
+      {
+        "reference": "Genesis 42:15",
+        "original": "Genesis 42:15"
+      },
+      {
+        "reference": "2 Samuel 11:11",
+        "original": "2 Samuel 11:11"
+      },
+      {
+        "reference": "2 Samuel 14:19",
+        "original": "2 Samuel 14:19"
+      },
+      {
+        "reference": "Matthew 6:33",
+        "original": "Matthew 6:33"
+      },
+      {
+        "reference": "Matthew 23:16-22",
+        "original": "Matthew 23:16-22"
+      },
+      {
+        "reference": "James 5:12",
+        "original": "James 5:12"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Leviticus 24:14"
+      },
+      {
+        "reference": "Leviticus 17:7",
+        "original": "Leviticus 17:7"
+      },
+      {
+        "reference": "Isaiah 3:7",
+        "original": "Isaiah 3:7"
+      },
+      {
+        "reference": "Genesis 47:29",
+        "original": "Genesis 47:29"
+      },
+      {
+        "reference": "1 Kings 8:31",
+        "original": "1 Kings 8:31"
+      },
+      {
+        "reference": "Genesis 15:10",
+        "original": "Genesis 15:10"
+      },
+      {
+        "reference": "Genesis 15:17",
+        "original": "Genesis 15:17"
+      },
+      {
+        "reference": "Jeremiah 34:18",
+        "original": "Jeremiah 34:18"
+      },
+      {
+        "reference": "Exodus 20:7",
+        "original": "Exodus 20:7"
+      },
+      {
+        "reference": "Leviticus 19:12",
+        "original": "Leviticus 19:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
   }
 }

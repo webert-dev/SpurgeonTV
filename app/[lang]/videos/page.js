@@ -25,26 +25,33 @@ export default async function VideosHubPage({ params }) {
   const data = getVideosData();
   const dict = await getDictionary(lang);
 
-  const channels = [
-    {
-      id: 'pt',
-      title: dict.videosHub.channels.pt.title,
-      desc: dict.videosHub.channels.pt.desc,
-      videos: data.pt.slice(0, 3)
-    },
-    {
-      id: 'en',
-      title: dict.videosHub.channels.en.title,
-      desc: dict.videosHub.channels.en.desc,
-      videos: data.en.slice(0, 3)
-    },
-    {
-      id: 'es',
-      title: dict.videosHub.channels.es.title,
-      desc: dict.videosHub.channels.es.desc,
-      videos: data.es.slice(0, 3)
-    }
-  ];
+  const ptChannel = {
+    id: 'pt',
+    title: dict.videosHub.channels.pt.title,
+    desc: dict.videosHub.channels.pt.desc,
+    videos: data.pt.slice(0, 3)
+  };
+  const enChannel = {
+    id: 'en',
+    title: dict.videosHub.channels.en.title,
+    desc: dict.videosHub.channels.en.desc,
+    videos: data.en.slice(0, 3)
+  };
+  const esChannel = {
+    id: 'es',
+    title: dict.videosHub.channels.es.title,
+    desc: dict.videosHub.channels.es.desc,
+    videos: data.es.slice(0, 3)
+  };
+
+  let channels = [];
+  if (lang === 'pt') {
+    channels = [ptChannel, enChannel, esChannel];
+  } else if (lang === 'es') {
+    channels = [esChannel, enChannel, ptChannel];
+  } else {
+    channels = [enChannel, ptChannel, esChannel];
+  }
 
   return (
     <div className="container" style={{ padding: '4rem 2rem', minHeight: '80vh', maxWidth: '1200px', margin: '0 auto' }}>

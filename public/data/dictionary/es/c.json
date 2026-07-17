@@ -18848,5 +18848,237 @@
       "EAS"
     ],
     "letter": "c"
+  },
+  "night-hawk": {
+    "name": "Chotacabras",
+    "slug": "night-hawk",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. tahmas) aparece sólo en la lista de aves inmundas (Lev. 11:16; Deut. 14:15). Se suponía que era el chotacabras (Caprimulgus), aliado de los vencejos. La palabra hebrea se deriva de una raíz que significa \"rascar o rasgar la cara\" y, según las versiones antiguas, la mejor forma de traducirla es \"un búho\" (Strix flammea). La versión revisada traduce \"halcón nocturno\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:16",
+        "original": "Lev. 11:16"
+      },
+      {
+        "reference": "Deuteronomy 14:15",
+        "original": "Deut. 14:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "nighthawk": {
+    "name": "Chotacabras",
+    "slug": "nighthawk",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea así traducida (Levítico 11:10; 14:15) probablemente denota algún tipo de búho."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:10",
+        "original": "Leviticus 11:10"
+      },
+      {
+        "reference": "Leviticus 14:15",
+        "original": "Leviticus 14:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "nob": {
+    "name": "Cabeza",
+    "slug": "nob",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Lugar alto, ciudad de los sacerdotes, mencionada por primera vez en la historia de los viajes de David (1 Sam. 21:1). Aquí estaba entonces el tabernáculo, y aquí residía el sacerdote Ahimelec. (Ver AHIMELECH.) De Isa. 10:28-32 parece haber estado cerca de Jerusalén. Algunos lo han identificado con el-Isawiyeh, a una milla y media al noreste de Jerusalén. Pero según Isa. 10:28-32 estaba al sur de Geba, en el camino a Jerusalén, y a la vista de la ciudad. Esta identificación no cumple con estas condiciones, y de ahí que otros (como Dean Stanley) piensen que fue la cumbre norte del Monte de los Olivos, el lugar donde David “adoraba a Dios” cuando huía de Absalón (2 Sam. 15:32), o más probablemente (Conder) que era lo mismo que Mizpa (q.v.), Jue. 20:1; José. 18:26; 1 Sam. 7:16, en Nebi Samwil, a unas 5 millas al noroeste de Jerusalén. Después de recibir los panes sagrados de la proposición y ceñirse la espada de Goliat, que fue sacada de detrás del efod, David huyó de Nob y buscó refugio en la corte de Aquis, el rey de Gat, donde fue encarcelado. (Comp. títulos de Ps. 34 y 56.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(lugar alto) (1 Samuel 22:19; Nehemías 11:32) una ciudad sacerdotal de la tribu de Benjamín y situada en alguna eminencia cerca de Jerusalén. Fue uno de los lugares donde se guardó el arca de Jehová por un tiempo durante los días de su peregrinaje. (2 Samuel 6:1), etc. Pero el evento por el cual Nob fue más conocido en los anales de las Escrituras fue una masacre espantosa que ocurrió allí durante el reinado de Saúl. (1 Samuel 22:17-19)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 21:1",
+        "original": "1 Sam. 21:1"
+      },
+      {
+        "reference": "Isaiah 10:28-32",
+        "original": "Isa. 10:28-32"
+      },
+      {
+        "reference": "2 Samuel 15:32",
+        "original": "2 Sam. 15:32"
+      },
+      {
+        "reference": "Judges 20:1",
+        "original": "Judg. 20:1"
+      },
+      {
+        "reference": "Joshua 18:26",
+        "original": "Josh. 18:26"
+      },
+      {
+        "reference": "1 Samuel 7:16",
+        "original": "1 Sam. 7:16"
+      },
+      {
+        "reference": "Psalms 34",
+        "original": "Ps. 34"
+      },
+      {
+        "reference": "1 Samuel 22:19",
+        "original": "1 Samuel 22:19"
+      },
+      {
+        "reference": "Nehemiah 11:32",
+        "original": "Nehemiah 11:32"
+      },
+      {
+        "reference": "2 Samuel 6:1",
+        "original": "2 Samuel 6:1"
+      },
+      {
+        "reference": "1 Samuel 22:17-19",
+        "original": "1 Samuel 22:17-19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "nuts": {
+    "name": "Cojones",
+    "slug": "nuts",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Estaban entre los regalos que Jacob envió a Egipto con el propósito de conciliar a José (Gén. 43:11). Este era el fruto del pistacho, que se parece al zumaque. Es del tamaño de una aceituna. En canto. 6:11 se usa una palabra hebrea diferente ('egoz), que significa \"nueces\"."
+      },
+      {
+        "source": "SMI",
+        "text": "se mencionan entre las cosas buenas que los hijos de Israel debían llevar como regalo a José en Egipto. (Génesis 43:11) No cabe duda de que la palabra hebrea aquí denota el fruto del pistacho (Pistacia vera), porque Siria y Palestina son famosas desde hace mucho tiempo. En (Cantares de los Cantares 6:11) una palabra hebrea diferente se traduce como “nueces”. Con toda probabilidad aquí se refiere al nogal. Según Josefo, el nogal era antiguamente común y crecía con mayor exuberancia alrededor del lago de Genesareth."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 43:11",
+        "original": "Gen. 43:11"
+      },
+      {
+        "reference": "Song of Solomon 6:11",
+        "original": "Cant. 6:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "onion": {
+    "name": "Cebolla",
+    "slug": "onion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los israelitas en el desierto anhelaban las “cebollas y el ajo de Egipto” (Números 11:5). Este era el betsel de los hebreos, el Allium cepe de los botánicos, del que se dice que hoy crecen en Palestina unas treinta o cuarenta especies. La cebolla es “el puerro ‘indiviso’, unio_, _unus, uno”."
+      },
+      {
+        "source": "SMI",
+        "text": "Este producto se menciona sólo en (Números 11:5) como una de las cosas buenas de Egipto cuya pérdida Israel lamentó. Las cebollas han sido desde tiempos inmemoriales un alimento favorito entre los egipcios. Las cebollas de Egipto tienen un sabor mucho más suave y menos picante que las de este país."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:5",
+        "original": "Num. 11:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "pan": {
+    "name": "Cacerola",
+    "slug": "pan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Recipiente de metal o loza utilizado en operaciones culinarias; una cacerola o sartén a la que se hace referencia frecuentemente en el Antiguo Testamento (Lev. 2:5; 6:21; Núm. 11:8; 1 Sam. 2:14, etc.). Los “ceniceros” mencionados en Éx. 27:3 estaban hechos de cobre y se usaban en relación con el altar de los holocaustos. La “bandeja de hierro” mencionada en Ezek. 4:3 (marg., “plato plano” o “rebanada”) probablemente era un simple plato de hierro usado para hornear. Los “peces” de Éx. 27:3 eran palas de fuego utilizadas para recoger carbones. La misma palabra hebrea se traduce “platos de rapé” (25:38; 37:23) e “incensarios” (Levítico 10:1; 16:12; Números 4:14, etc.). Probablemente se trataba simplemente de vasijas de metal empleadas para transportar brasas encendidas desde el altar de bronce hasta el altar del incienso. La “sartén” mencionada en Lev. 2:7; 7:9 era una olla para hervir."
+      },
+      {
+        "source": "SMI",
+        "text": "De las seis palabras así traducidas en la versión autorizada, dos parecen implicar una cacerola o plato poco profundo, como el que usan los beduinos y sirios para hornear o aderezar rápidamente sus pasteles de harina, como los que se usaban en las oblaciones legales; los otros, una vasija o caldero más profundo para hervir la carne, colocado durante el proceso sobre tres piedras."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 2:5",
+        "original": "Lev. 2:5"
+      },
+      {
+        "reference": "Leviticus 6:21",
+        "original": "Lev 6:21"
+      },
+      {
+        "reference": "Numbers 11:8",
+        "original": "Num. 11:8"
+      },
+      {
+        "reference": "1 Samuel 2:14",
+        "original": "1 Sam. 2:14"
+      },
+      {
+        "reference": "Exodus 27:3",
+        "original": "Ex. 27:3"
+      },
+      {
+        "reference": "Ezekiel 4:3",
+        "original": "Ezek. 4:3"
+      },
+      {
+        "reference": "Leviticus 10:1",
+        "original": "Lev. 10:1"
+      },
+      {
+        "reference": "Leviticus 16:12",
+        "original": "Lev 16:12"
+      },
+      {
+        "reference": "Numbers 4:14",
+        "original": "Num. 4:14"
+      },
+      {
+        "reference": "Leviticus 2:7",
+        "original": "Lev. 2:7"
+      },
+      {
+        "reference": "Leviticus 7:9",
+        "original": "Lev 7:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
   }
 }

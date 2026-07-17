@@ -8210,5 +8210,57 @@
       "EAS"
     ],
     "letter": "g"
+  },
+  "palmer-worm": {
+    "name": "Gusano Palmer",
+    "slug": "palmer-worm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. gazam). La palabra inglesa puede denotar una oruga (como se traduce en la LXX), que deambula como un palmer o un peregrino, o que viaja como peregrinos en bandas (Joel 1:4; 2:25), las langostas sin alas o la langosta migratoria en su estado de larva."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "palmerworm": {
+    "name": "Gusano de la palmera",
+    "slug": "palmerworm",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Heb. gazam) ocurre (Joel 1:4; 2:25; Amós 4:9). Muchos sostienen que gazam denota algunas especies de langosta. pero lo más probable es que sea una oruga."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:4",
+        "original": "Joel 1:4"
+      },
+      {
+        "reference": "Joel 2:25",
+        "original": "Joel 2:25"
+      },
+      {
+        "reference": "Amos 4:9",
+        "original": "Amos 4:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

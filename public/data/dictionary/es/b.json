@@ -13525,5 +13525,207 @@
       "EAS"
     ],
     "letter": "b"
+  },
+  "owl": {
+    "name": "Búho",
+    "slug": "owl",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. bath-haya’anah, “hija de la avaricia” o del “grito”. En la lista de aves inmundas (Lev. 11:16; Deut. 14:15); también mencionado en Job 30:29; Isa. 13:21; 34:13; 43:20; Jer. 50:39; Miqueas 1:8. En todos estos pasajes la versión revisada traduce “avestruz” (q.v.), que es la traducción correcta. (2.) Heb. yanshuph, traducido “gran búho” en Lev. 11:17; Deut. 14:16, y “búho” en Isa. 34:11. Se supone que se trata del búho real egipcio (Bubo ascalaphus), que reemplaza al búho real (Bubo maximus) que se encuentra en el sur de Europa. Se encuentra frecuentando las ruinas de Egipto y también de Tierra Santa. \"Su grito es un ulular fuerte, prolongado y muy poderoso. No conozco nada que me haya traído más vívidamente a la mente la sensación de desolación y soledad que el eco del ulular de dos o tres de estos grandes búhos mientras estaba a medianoche entre los templos en ruinas de Baalbek\" (Tristram). La LXX. y la Vulgata traduce esta palabra por \"ibis\", es decir, la garza egipcia. (3.) Heb. kos, traducido “pequeño búho” en Lev. 11:17; Deut. 14:16, y “búho” en Sal. 102:6. Los árabes llaman a esta ave \"la madre de las ruinas\". Es, con diferencia, el más común de todos los búhos de Palestina. Es la Atenea persica, el ave de Minerva, símbolo de la antigua Atenas. (4.) Heb. kippoz, el “gran búho” (Isaías 34:15); Versión revisada, “serpiente flecha”; LXX. y Vulgata, “erizo”, que se lee en el texto, kippod, en lugar de kippoz. No hay razón para dudar de la exactitud de la interpretación de la Versión Autorizada. Tristram dice: “La palabra [es decir, kippoz] es muy posiblemente una imitación del grito del autillo (scops giu), que es muy común entre ruinas, cuevas y antiguas murallas de las ciudades... Es un migrante que regresa a Palestina en primavera”. (5.) Heb. lilith, “búho chillón” (Isaías 34:14, marg. y R.V., “monstruo nocturno”). La palabra hebrea proviene de una raíz que significa \"noche\". Obviamente, esta palabra se refiere a algunas especies de búhos. Puede ser el cárabo ululante o cárabo (Syrnium aluco), común en Egipto y en muchas partes de Palestina. Este versículo de Isaías “describe una desolación total y perpetua, una tierra que debería estar llena de ruinas y habitada por los animales que habitualmente hacen de esas ruinas su morada”."
+      },
+      {
+        "source": "SMI",
+        "text": "En la Biblia se mencionan varias especies de búho (Levítico 11:17; 14:16; Isaías 14:23; 34:15; Sofonías 2:14) y en varios otros lugares se usa la misma palabra hebrea donde se traduce avestruz. (Job 30:29; Jeremías 50:39.) Algunas de estas especies eran comunes en Palestina y, como es bien sabido, a menudo se las encontraba habitando ruinas. (Isaías 34:11,13-15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:16",
+        "original": "Lev. 11:16"
+      },
+      {
+        "reference": "Deuteronomy 14:15",
+        "original": "Deut. 14:15"
+      },
+      {
+        "reference": "Job 30:29",
+        "original": "Job 30:29"
+      },
+      {
+        "reference": "Isaiah 13:21",
+        "original": "Isa. 13:21"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa 34:13"
+      },
+      {
+        "reference": "Isaiah 43:20",
+        "original": "Isa 43:20"
+      },
+      {
+        "reference": "Jeremiah 50:39",
+        "original": "Jer. 50:39"
+      },
+      {
+        "reference": "Micah 1:8",
+        "original": "Micah 1:8"
+      },
+      {
+        "reference": "Leviticus 11:17",
+        "original": "Lev. 11:17"
+      },
+      {
+        "reference": "Deuteronomy 14:16",
+        "original": "Deut. 14:16"
+      },
+      {
+        "reference": "Isaiah 34:11",
+        "original": "Isa. 34:11"
+      },
+      {
+        "reference": "Psalms 102:6",
+        "original": "Ps. 102:6"
+      },
+      {
+        "reference": "Isaiah 34:15",
+        "original": "Isa. 34:15"
+      },
+      {
+        "reference": "Isaiah 34:14",
+        "original": "Isa. 34:14"
+      },
+      {
+        "reference": "Leviticus 14:16",
+        "original": "Leviticus 14:16"
+      },
+      {
+        "reference": "Isaiah 14:23",
+        "original": "Isaiah 14:23"
+      },
+      {
+        "reference": "Zephaniah 2:14",
+        "original": "Zephaniah 2:14"
+      },
+      {
+        "reference": "Isaiah 34:13-15",
+        "original": "Isaiah 34:13-15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "ox": {
+    "name": "Buey",
+    "slug": "ox",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. bakar, “ganado”; “ganado limpio” (Gén. 12:16; 34:28; Job 1:3, 14; 42:12, etc.); no llevar bozal al pisar el maíz (Deuteronomio 25:4). Mencionado por nuestro Señor en su reprensión a los fariseos (Lucas 13:15; 14:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "No había ningún animal en la economía rural de los israelitas, ni siquiera en la de los antiguos orientales en general, que fuera tenido en mayor estima que el buey y con razón, porque el buey era el animal de cuyo paciente trabajo dependían todas las operaciones ordinarias de la agricultura. Los bueyes se usaban para arar (22:10; 1 Samuel 14:14), etc.; para trillar maíz, (25:4; Oseas 10:11), etc.; para propósitos de borrador, cuando generalmente estaban unidos en pares, (Números 7:3; 1 Samuel 6:7), etc.; como bestias de carga, (1 Crónicas 12:40) se comía su carne, (14:4; 1 Reyes 1:9), etc.; fueron utilizados en los sacrificios; las vacas suministraban leche, mantequilla, etc. (32:14; 2 Samuel 17:29; Isaías 7:22) Relacionado con la importancia de los bueyes en la economía rural de los judíos está el estricto código de leyes que misericordiosamente fue promulgado por Dios para su protección y preservación. El buey que trillaba el maíz no debía llevar bozal; él debía disfrutar del descanso el sábado al igual que su maestro. (Éxodo 23:12; 5:14.) Rara vez se sacrificaba al buey. (Levítico 17:1-6) Parece claro en (Proverbios 15:17) y 1 Reyes 4:23 que el ganado a veces era alimentado en establos, aunque como regla general es probable que se alimentara en las llanuras o en las colinas de Palestina. Sin duda, el ganado que pastaba libremente en campo abierto se volvería feroz y salvaje, pues debe recordarse que en tiempos primitivos el león y otras bestias salvajes de presa vagaban por Palestina. De ahí la fuerza de la queja del salmista contra sus enemigos. (Salmo 22:13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Genesis 34:28",
+        "original": "Gen 34:28"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "Job 1:14",
+        "original": "Job 1:14"
+      },
+      {
+        "reference": "Job 42:12",
+        "original": "Job 42:12"
+      },
+      {
+        "reference": "Deuteronomy 25:4",
+        "original": "Deut. 25:4"
+      },
+      {
+        "reference": "Luke 13:15",
+        "original": "Luke 13:15"
+      },
+      {
+        "reference": "Luke 14:5",
+        "original": "Luke 14:5"
+      },
+      {
+        "reference": "1 Samuel 14:14",
+        "original": "1 Samuel 14:14"
+      },
+      {
+        "reference": "Hosea 10:11",
+        "original": "Hosea 10:11"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Numbers 7:3"
+      },
+      {
+        "reference": "1 Samuel 6:7",
+        "original": "1 Samuel 6:7"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chronicles 12:40"
+      },
+      {
+        "reference": "1 Kings 1:9",
+        "original": "1 Kings 1:9"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Samuel 17:29"
+      },
+      {
+        "reference": "Isaiah 7:22",
+        "original": "Isaiah 7:22"
+      },
+      {
+        "reference": "Exodus 23:12",
+        "original": "Exodus 23:12"
+      },
+      {
+        "reference": "Exodus 5:14",
+        "original": "Exodus 5:14"
+      },
+      {
+        "reference": "Leviticus 17:1-6",
+        "original": "Leviticus 17:1-6"
+      },
+      {
+        "reference": "Proverbs 15:17",
+        "original": "Proverbs 15:17"
+      },
+      {
+        "reference": "1 Kings 4:23",
+        "original": "1Kin 4:23"
+      },
+      {
+        "reference": "Psalms 22:13",
+        "original": "Psalms 22:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
   }
 }

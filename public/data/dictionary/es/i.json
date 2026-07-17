@@ -5165,5 +5165,41 @@
       "SMI"
     ],
     "letter": "i"
+  },
+  "pardon": {
+    "name": "Indulto",
+    "slug": "pardon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El perdón de los pecados se concede gratuitamente (Isaías 43:25), fácilmente (Nehemías 9:17; Sal. 86:5), abundantemente (Isaías 55:7; Romanos 5:20). El perdón es un acto de un soberano, en pura soberanía, que concede simplemente una remisión de la pena debida al pecado, pero no garantiza ni honor ni recompensa al perdonado. La justificación (q.v.), por otra parte, es el acto de un juez, y no de un soberano, e incluye el perdón y, al mismo tiempo, el título de todas las recompensas y bendiciones prometidas en el pacto de vida."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 43:25",
+        "original": "Isa. 43:25"
+      },
+      {
+        "reference": "Nehemiah 9:17",
+        "original": "Neh. 9:17"
+      },
+      {
+        "reference": "Psalms 86:5",
+        "original": "Ps. 86:5"
+      },
+      {
+        "reference": "Isaiah 55:7",
+        "original": "Isa. 55:7"
+      },
+      {
+        "reference": "Romans 5:20",
+        "original": "Rom. 5:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "i"
   }
 }

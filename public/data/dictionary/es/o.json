@@ -1625,5 +1625,2011 @@
       "SMI"
     ],
     "letter": "o"
+  },
+  "obal": {
+    "name": "Obal",
+    "slug": "obal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Despojado, el octavo hijo de Joctán (Génesis 10:28); llamado también Ebal (1 Crónicas 1:22)."
+      },
+      {
+        "source": "SMI",
+        "text": "(desnudo), hijo de Joctán y, como el resto de la familia, aparentemente fundador de una tribu árabe. (Génesis 10:28) En (1 Crónicas 1:22) el nombre está escrito Ebal."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:28",
+        "original": "Gen. 10:28"
+      },
+      {
+        "reference": "1 Chronicles 1:22",
+        "original": "1 Chr. 1:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "obed": {
+    "name": "Obed",
+    "slug": "obed",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Servicio; adorando. (1.) Hijo de Booz y Rut (Rut 4:21, 22), y abuelo de David (Mat. 1:5). (2.) 1 Cr. 2:34-38. (3.) 1 Cr. 26:7. (4.) 2 Cr. 23:1."
+      },
+      {
+        "source": "SMI",
+        "text": "(servicio)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 4:21",
+        "original": "Ruth 4:21"
+      },
+      {
+        "reference": "Ruth 4:22",
+        "original": "Ruth 4:22"
+      },
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matt. 1:5"
+      },
+      {
+        "reference": "1 Chronicles 2:34-38",
+        "original": "1 Chr. 2:34-38"
+      },
+      {
+        "reference": "1 Chronicles 26:7",
+        "original": "1 Chr. 26:7"
+      },
+      {
+        "reference": "2 Chronicles 23:1",
+        "original": "2 Chr. 23:1"
+      },
+      {
+        "reference": "Ruth 4:17",
+        "original": "Ruth 4:17"
+      },
+      {
+        "reference": "1 Chronicles 2:12",
+        "original": "1 Chronicles 2:12"
+      },
+      {
+        "reference": "Luke 3:32",
+        "original": "Luke 3:32"
+      },
+      {
+        "reference": "1 Chronicles 2:37",
+        "original": "1 Chronicles 2:37"
+      },
+      {
+        "reference": "1 Chronicles 2:38",
+        "original": "1 Chronicles 2:38"
+      },
+      {
+        "reference": "1 Chronicles 11:47",
+        "original": "1 Chronicles 11:47"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "obed-edom": {
+    "name": "Obed-Edom",
+    "slug": "obed-edom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Siervo de Edom. (1.) “El geteo” (probablemente llamado así porque era nativo de Gat-rimón), un levita de la familia de los coritas (1 Cr. 26:1, 4-8), a quien se le confió especialmente la custodia del arca (1 Cr. 15:18). Cuando David estaba subiendo el arca “desde la casa de Abinadab, que estaba en Gabaa” (probablemente alguna colina o eminencia cerca de Quiriat-jearim), y había llegado a la era de Najón, tuvo miedo a causa de la “brecha sobre Uza” y la llevó a la casa de Obededom (2 Sam. 6:1-12). Allí permaneció durante seis meses, y fue para él y su casa motivo de gran bendición. Entonces David lo llevó con gran alegría a Jerusalén y lo puso en medio del tabernáculo que le había levantado. (2.) Un levita merarita, portero del templo, que con sus ocho hijos custodiaba la puerta sur (1 Crónicas 15:18, 21; 26:4, 8, 15). (3.) Alguien que estaba a cargo de los tesoros del templo (2 Crónicas 25:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 26:1",
+        "original": "1 Chr. 26:1"
+      },
+      {
+        "reference": "1 Chronicles 26:4",
+        "original": "1 Chr. 26:4"
+      },
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chr. 15:18"
+      },
+      {
+        "reference": "2 Samuel 6:1-12",
+        "original": "2 Sam. 6:1-12"
+      },
+      {
+        "reference": "1 Chronicles 15:21",
+        "original": "1 Chr. 15:21"
+      },
+      {
+        "reference": "2 Chronicles 25:24",
+        "original": "2 Chr. 25:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "obededom": {
+    "name": "Obededom",
+    "slug": "obededom",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(siervo de Edom)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 6:10",
+        "original": "2 Samuel 6:10"
+      },
+      {
+        "reference": "2 Samuel 6:11",
+        "original": "2 Samuel 6:11"
+      },
+      {
+        "reference": "Joshua 21:25",
+        "original": "Joshua 21:25"
+      },
+      {
+        "reference": "2 Samuel 6:12",
+        "original": "2 Samuel 6:12"
+      },
+      {
+        "reference": "1 Chronicles 15:25",
+        "original": "1 Chronicles 15:25"
+      },
+      {
+        "reference": "1 Chronicles 16:38",
+        "original": "1 Chronicles 16:38"
+      },
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chronicles 15:18"
+      },
+      {
+        "reference": "1 Chronicles 15:24",
+        "original": "1 Chronicles 15:24"
+      },
+      {
+        "reference": "1 Chronicles 15:21",
+        "original": "1 Chronicles 15:21"
+      },
+      {
+        "reference": "1 Chronicles 16:5",
+        "original": "1 Chronicles 16:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "obil": {
+    "name": "Obil",
+    "slug": "obil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un cuidador de camellos, un ismaelita que estaba “sobre los camellos” en la época de David (1 Crónicas 27:30)."
+      },
+      {
+        "source": "SMI",
+        "text": "(jefe de los camellos), guardián de las manadas de camellos en el reinado de David. (1 Crónicas 27:30) (1050 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:30",
+        "original": "1 Chr. 27:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oblation": {
+    "name": "Oblación",
+    "slug": "oblation",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Sacrificio]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oboth": {
+    "name": "O ambos",
+    "slug": "oboth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Botellas, un campamento de los israelitas durante sus peregrinaciones por el desierto (Números 33:43), el primero después del levantamiento de la serpiente de bronce."
+      },
+      {
+        "source": "SMI",
+        "text": "(botellas), uno de los campamentos de los israelitas, al este de Moab. (Números 21:10; 33:43.) Se desconoce su sitio exacto, pero probablemente estaba al sur del mar Muerto, en el límite entre Moab y Edom.—La dirección)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 33:43",
+        "original": "Num. 33:43"
+      },
+      {
+        "reference": "Numbers 21:10",
+        "original": "Numbers 21:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ocran": {
+    "name": "Ocrán",
+    "slug": "ocran",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(preocupado), aserita, padre de Pagiel. (Números 1:13; 2:27; 7:72,77; 10:26) (A.C. antes de 1658.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 1:13",
+        "original": "Numbers 1:13"
+      },
+      {
+        "reference": "Numbers 2:27",
+        "original": "Numbers 2:27"
+      },
+      {
+        "reference": "Numbers 7:72",
+        "original": "Numbers 7:72"
+      },
+      {
+        "reference": "Numbers 7:77",
+        "original": "Numbers 7:77"
+      },
+      {
+        "reference": "Numbers 10:26",
+        "original": "Numbers 10:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oded": {
+    "name": "Oded",
+    "slug": "oded",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Restaurar o configurar. (1.) Padre del profeta Azarías (2 Crónicas 15:1, 8). (2.) Un profeta en el tiempo de Acaz y Pekah (2 Crónicas 28:9-15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(restaurar)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 15:1",
+        "original": "2 Chr. 15:1"
+      },
+      {
+        "reference": "2 Chronicles 15:8",
+        "original": "2 Chr. 15:8"
+      },
+      {
+        "reference": "2 Chronicles 28:9-15",
+        "original": "2 Chr. 28:9-15"
+      },
+      {
+        "reference": "2 Chronicles 28:9",
+        "original": "2 Chronicles 28:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "odollam": {
+    "name": "odollam",
+    "slug": "odollam",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Adulam]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "offence": {
+    "name": "Ofensa",
+    "slug": "offence",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Una lesión o mal hecho a alguien (1 Sam. 25:31; Rom. 5:15). (2.) Una piedra de tropiezo o causa de tentación (Isaías 8:14; Mateo 16:23; 18:7). Skandalon griego, propiamente aquello con lo que uno tropieza o se ofende. La “ofensa de la cruz” (Gálatas 5:11) es la ofensa que sufrieron los judíos ante la enseñanza de que la salvación era por el crucificado, y sólo por él. La salvación por la cruz fue un obstáculo para su orgullo nacional."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 25:31",
+        "original": "1 Sam. 25:31"
+      },
+      {
+        "reference": "Romans 5:15",
+        "original": "Rom. 5:15"
+      },
+      {
+        "reference": "Isaiah 8:14",
+        "original": "Isa. 8:14"
+      },
+      {
+        "reference": "Matthew 16:23",
+        "original": "Matt. 16:23"
+      },
+      {
+        "reference": "Matthew 18:7",
+        "original": "Matt 18:7"
+      },
+      {
+        "reference": "Galatians 5:11",
+        "original": "Gal. 5:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "offering": {
+    "name": "Ofrenda",
+    "slug": "offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una oblación, dedicada a Dios. Así Caín consagró a Dios las primicias de la tierra, y Abel las primicias del rebaño (Gén. 4:3, 4). Bajo el sistema levítico se especifican diferentes tipos de ofrendas y se establecen leyes en cuanto a su presentación. Estos se describen bajo sus nombres distintivos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:3",
+        "original": "Gen. 4:3"
+      },
+      {
+        "reference": "Genesis 4:4",
+        "original": "Gen. 4:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "offerings": {
+    "name": "Ofrendas",
+    "slug": "offerings",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Sacrificio]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "officer": {
+    "name": "Oficial",
+    "slug": "officer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Es obvio que la mayoría, si no todas, de las palabras hebreas traducidas como \"oficial\" son de carácter indefinido o son términos sinónimos para funcionarios conocidos con otros nombres más específicos, como \"escriba\", \"eunuco\", etc. Las dos palabras así traducidas en el Nuevo Testamento denotan:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:25",
+        "original": "Matthew 5:25"
+      },
+      {
+        "reference": "Acts 5:22",
+        "original": "Acts 5:22"
+      },
+      {
+        "reference": "Luke 12:58",
+        "original": "Luke 12:58"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "og": {
+    "name": "og",
+    "slug": "og",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Gigantesco, el rey de Basán, que fue derrotado por Moisés en una batalla campal en Edrei, y fue asesinado junto con sus hijos (Deuteronomio 1:4), y cuyo reino fue dado a las tribus de Rubén y Gad y a la media tribu de Manasés (Números 21:32-35; Deuteronomio 3:1-13). Su cama (o más bien sarcófago) era de hierro (o piedra de hierro), de 9 codos de largo y 4 codos de ancho. Su derrocamiento fue posteriormente celebrado con canciones (Sal. 135:11; 136:20). (Ver SIHÓN.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(gigante, literalmente de cuello largo), rey amorreo de Basán, cuyo gobierno se extendió sobre sesenta ciudades. (Josué 13:12.) Fue uno de los últimos representantes de la raza gigante de Refaim y, junto con sus hijos y su pueblo, fue derrotado y exterminado por los israelitas en Edrei inmediatamente después de la conquista de Sehón. (Números 32:33; 3:1-13) También (1:4; 4:47; 31:4; Josué 2:10; 9:10; 13:12,30) La creencia en la enorme estatura de Og se corrobora con una alusión a su cama de hierro conservada en “Rabbath de los hijos de Ammón”. (3:11) (1461 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 1:4",
+        "original": "Deut. 1:4"
+      },
+      {
+        "reference": "Numbers 21:32-35",
+        "original": "Num. 21:32-35"
+      },
+      {
+        "reference": "Deuteronomy 3:1-13",
+        "original": "Deut. 3:1-13"
+      },
+      {
+        "reference": "Psalms 135:11",
+        "original": "Ps. 135:11"
+      },
+      {
+        "reference": "Psalms 136:20",
+        "original": "Ps 136:20"
+      },
+      {
+        "reference": "Joshua 13:12",
+        "original": "Joshua 13:12"
+      },
+      {
+        "reference": "Numbers 32:33",
+        "original": "Numbers 32:33"
+      },
+      {
+        "reference": "Numbers 3:1-13",
+        "original": "Numbers 3:1-13"
+      },
+      {
+        "reference": "Joshua 2:10",
+        "original": "Joshua 2:10"
+      },
+      {
+        "reference": "Joshua 9:10",
+        "original": "Joshua 9:10"
+      },
+      {
+        "reference": "Joshua 13:30",
+        "original": "Joshua 13:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ohad": {
+    "name": "Ohad",
+    "slug": "ohad",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Unido, o poder, el tercer hijo de Simeón (Gén. 46:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:10",
+        "original": "Gen. 46:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "ohel": {
+    "name": "ohel",
+    "slug": "ohel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una casa; tienda, el cuarto hijo de Zorobabel (1 Crónicas 3:20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 3:20",
+        "original": "1 Chr. 3:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "olive-tree": {
+    "name": "olivo",
+    "slug": "olive-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se menciona con frecuencia en las Escrituras. La paloma del arca trajo una rama de olivo a Noé (Génesis 8:11). Se menciona entre los árboles más notables de Palestina, donde se cultivaba mucho antes de la época de los hebreos (Deuteronomio 6:11; 8:8). Se menciona en la primera parábola del Antiguo Testamento, la de Jotam (Jueces 9:9), y se le nombra entre las bendiciones de la “buena tierra”, y en la actualidad es el único árbol característico de Palestina. Los olivos más antiguos del país son los que están encerrados en el Huerto de Getsemaní. Se le conoce como un emblema de prosperidad, belleza y privilegio religioso (Sal. 52:8; Jer. 11:16; Os. 14:6). Se habla de los dos “testigos” mencionados en Apocalipsis 11:4 como “dos olivos que están delante del Dios de la tierra”. (Comp. Zac. 4:3, 11-14.) El “olivo, silvestre por naturaleza” (Rom. 11:24), es el vástago o corte del buen olivo que, si no se injerta, crece hasta convertirse en un “olivo silvestre”. En Rom. 11:17 Pablo se refiere a la práctica de injertar retoños de acebuche en una “buena” aceituna que se ha vuelto infructuosa. Mediante tal proceso, la savia del buen olivo, al impregnar la rama que está “injertada”, la convierte en una buena rama que produce buenas aceitunas. Así, los gentiles, siendo un “olivo silvestre”, pero ahora “injertados”, dan fruto, pero sólo a través de la savia del árbol en el que han sido injertados. Este es un proceso “contrario a naturaleza” (11:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 8:11",
+        "original": "Gen. 8:11"
+      },
+      {
+        "reference": "Deuteronomy 6:11",
+        "original": "Deut. 6:11"
+      },
+      {
+        "reference": "Deuteronomy 8:8",
+        "original": "Deut 8:8"
+      },
+      {
+        "reference": "Judges 9:9",
+        "original": "Judg. 9:9"
+      },
+      {
+        "reference": "Psalms 52:8",
+        "original": "Ps. 52:8"
+      },
+      {
+        "reference": "Jeremiah 11:16",
+        "original": "Jer. 11:16"
+      },
+      {
+        "reference": "Hosea 14:6",
+        "original": "Hos. 14:6"
+      },
+      {
+        "reference": "Revelation 11:4",
+        "original": "Rev. 11:4"
+      },
+      {
+        "reference": "Zechariah 4:3",
+        "original": "Zech. 4:3"
+      },
+      {
+        "reference": "Zechariah 4:11",
+        "original": "Zech. 4:11"
+      },
+      {
+        "reference": "Romans 11:24",
+        "original": "Rom. 11:24"
+      },
+      {
+        "reference": "Romans 11:17",
+        "original": "Rom. 11:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "olives-mount-of": {
+    "name": "Olivos, Monte De",
+    "slug": "olives-mount-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "“El Monte de los Olivos” aparece en el Antiguo Testamento únicamente en (Zacarías 14:4). En (2 Samuel 15:30) se le llama \"Olivet\"; en otros lugares simplemente “el monte” (Nehemías 8:15), “el monte que mira a Jerusalén” (1 Reyes 11:7) o “el monte que está en el lado este de la ciudad”. (Ezequiel 11:23) En el Nuevo Testamento la forma habitual es “el Monte de los Olivos”. También se le llama \"Olivet\". (Hechos 1:12) Esta montaña es la conocida eminencia al este de Jerusalén, íntimamente relacionada con algunos de los eventos más graves de la historia del Antiguo y Nuevo Testamento, el escenario de la huida de David y el progreso triunfal del Hijo de David, de la idolatría de Salomón, y la agonía y traición de Cristo. Es una cresta de algo más de una milla de largo, que corre en dirección general de norte a sur y cubre todo el lado este de la ciudad. En su extremo norte, la cresta se curva hacia el oeste para formar un recinto para la ciudad también por ese lado. Al norte, un espacio de casi una milla de superficie tolerablemente nivelada se interpone entre las murallas de la ciudad y el terreno elevado; al este, el monte está cerca de las murallas, separado sólo por el estrecho barranco del Cedrón. Es esta porción la que constituye el verdadero Monte de los Olivos de la historia. En general, su altura no está muy por encima de la ciudad: 300 pies más alto que el monte del templo, apenas más de 100 por encima de la llamada Sión. Es redondeado, hinchado y de forma regular. De norte a sur se encuentran cuatro cumbres independientes, llamadas: 1, “Viri Galilaei”: 2, “Monte de la Ascensión”; 3, “Profetas”, subordinado al último y casi parte de él; 4, “Monte de la ofensa”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Zechariah 14:4",
+        "original": "Zechariah 14:4"
+      },
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Samuel 15:30"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Nehemiah 8:15"
+      },
+      {
+        "reference": "1 Kings 11:7",
+        "original": "1 Kings 11:7"
+      },
+      {
+        "reference": "Ezekiel 11:23",
+        "original": "Ezekiel 11:23"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Matthew 23:29",
+        "original": "Matthew 23:29"
+      },
+      {
+        "reference": "2 Kings 23:13",
+        "original": "2 Kings 23:13"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "olves-mount-of": {
+    "name": "Olves, Monte de",
+    "slug": "olves-mount-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Llamada así por los olivos que cubren sus costados, es una cadena montañosa al este de Jerusalén (1 Reyes 11:7; Ezequiel 11:23; Zac. 14:4), de la cual está separada por el valle de Cedrón. Se menciona por primera vez en relación con la huida de David de Jerusalén debido a la rebelión de Absalón (2 Sam. 15:30), y sólo se menciona una vez más en el Antiguo Testamento, en Zac. 14:4. Sin embargo, se alude con frecuencia (1 Reyes 11:7; 2 Reyes 23:13; Nehemías 8:15; Ezequiel 11:23). Se menciona con frecuencia en el Nuevo Testamento (Mateo 21:1; 26:30, etc.). Ahora lleva el nombre de Jebel et-Tur, es decir, \"Monte de la Cumbre\"; A veces también se le llama Jebel ez-Zeitun, es decir, “Monte de los Olivos”. Está a unos 200 pies sobre el nivel de la ciudad. El camino de Jerusalén a Betania pasa, como en la antigüedad, por este monte. Fue en este monte donde Jesús estuvo de pie cuando lloró sobre Jerusalén. \"Ningún nombre en las Escrituras\", dice el Dr. Porter, \"evoca asociaciones tan sagradas y tan agradables a la vez como el Monte de los Olivos. El 'monte' está tan íntimamente conectado con la vida privada y devocional del Salvador, que lo leemos y lo miramos con sentimientos de profundo interés y afecto. Aquí a menudo se sentaba con sus discípulos, hablándoles de los maravillosos acontecimientos que aún estaban por venir, de la destrucción de la Ciudad Santa; de los sufrimientos, la persecución y el final. triunfo de sus seguidores (Mateo 24) aquí les dio las hermosas parábolas de las diez vírgenes y los cinco talentos (25); aquí solía retirarse cada noche para meditar, orar y descansar el cuerpo, cuando estaba cansado y acosado por los trabajos y pruebas del día (Lucas 21:37); no como yo quiero, sino como tú quieres” (Mateo 26:39). Y cuando la copa de la ira de Dios estuvo bebida y la muerte y la tumba conquistadas, condujo a sus discípulos nuevamente por el Monte de los Olivos hasta Betania, y después de una bendición de despedida ascendió al cielo (Lucas 24:50, 51; Hechos 1:12)”. Este monte, o más bien cordillera, tiene cuatro cumbres o picos: (1) el pico “Galilea”, llamado así por una tradición de que los ángeles estaban aquí cuando hablaban con los discípulos (Hechos 1:11); (2) el “Monte de la Ascensión”, el supuesto lugar de ese evento, que, sin embargo, probablemente estaba en algún lugar más cercano a Betania (Lucas 24:51, 52); (3) los \"Profetas\", de las catacumbas de su lado, llamadas \"tumbas de los profetas\"; y (4) el “Monte de la Corrupción”, llamado así debido a los “lugares altos” que Salomón erigió allí para el culto idólatra de sus esposas extranjeras (1 Reyes 11:7; 2 Reyes 23:13; Vulg., “Monte de la Ofensa”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 11:7",
+        "original": "1 Kings 11:7"
+      },
+      {
+        "reference": "Ezekiel 11:23",
+        "original": "Ezek. 11:23"
+      },
+      {
+        "reference": "Zechariah 14:4",
+        "original": "Zech. 14:4"
+      },
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Sam. 15:30"
+      },
+      {
+        "reference": "2 Kings 23:13",
+        "original": "2 Kings 23:13"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Neh. 8:15"
+      },
+      {
+        "reference": "Matthew 21:1",
+        "original": "Matt. 21:1"
+      },
+      {
+        "reference": "Matthew 26:30",
+        "original": "Matt 26:30"
+      },
+      {
+        "reference": "Matthew 24",
+        "original": "Matt. 24"
+      },
+      {
+        "reference": "Luke 21:37",
+        "original": "Luke 21:37"
+      },
+      {
+        "reference": "Matthew 26:39",
+        "original": "Matt. 26:39"
+      },
+      {
+        "reference": "Luke 24:50",
+        "original": "Luke 24:50"
+      },
+      {
+        "reference": "Luke 24:51",
+        "original": "Luke 24:51"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Acts 1:11",
+        "original": "Acts 1:11"
+      },
+      {
+        "reference": "Luke 24:52",
+        "original": "Luke 24:52"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "olympas": {
+    "name": "Olimpo",
+    "slug": "olympas",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un cristiano romano a quien Pablo saluda (Romanos 16:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(celestial), un cristiano en Roma. (Romanos 16:15) (65 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:15",
+        "original": "Rom. 16:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "omar": {
+    "name": "Omar",
+    "slug": "omar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Elocuente, hijo de Elifaz, que era el hijo mayor de Esaú (Gén. 36:11-15)."
+      },
+      {
+        "source": "SMI",
+        "text": "(elocuente, hablador), hijo de Elifaz, el primogénito de Esaú. (Génesis 36:11,15; 1 Crónicas 1:38) (1750 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:11-15",
+        "original": "Gen. 36:11-15"
+      },
+      {
+        "reference": "Genesis 36:11",
+        "original": "Genesis 36:11"
+      },
+      {
+        "reference": "Genesis 36:15",
+        "original": "Genesis 36:15"
+      },
+      {
+        "reference": "1 Chronicles 1:38",
+        "original": "1 Chronicles 1:38"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "omega": {
+    "name": "Omega",
+    "slug": "omega",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Apocalipsis 1:8), la última letra del alfabeto griego. (Ver A.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 1:8",
+        "original": "Rev. 1:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "omega-or-omega": {
+    "name": "Omega u Omega",
+    "slug": "omega-or-omega",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La última letra del alfabeto griego. Se usa metafóricamente para denotar el fin de cualquier cosa (Apocalipsis 1:8,11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 1:8",
+        "original": "Revelation 1:8"
+      },
+      {
+        "reference": "Revelation 1:11",
+        "original": "Revelation 1:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "omer": {
+    "name": "ómer",
+    "slug": "omer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un puñado, una décima parte de un efa = medio galón de medida seca (Éxodo 16:22, 32, 33, 36) = “décima parte”."
+      },
+      {
+        "source": "SMI",
+        "text": "[Pesos Y Medidas Y Medidas.]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:22",
+        "original": "Ex. 16:22"
+      },
+      {
+        "reference": "Exodus 16:32",
+        "original": "Ex 16:32"
+      },
+      {
+        "reference": "Exodus 16:33",
+        "original": "Ex 16:33"
+      },
+      {
+        "reference": "Exodus 16:36",
+        "original": "Ex 16:36"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "omri": {
+    "name": "Omrí",
+    "slug": "omri",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Siervo de Jehová. Cuando Ela fue asesinado por Zimri en Tirsa (1 Reyes 16:15-27), Omri, su capitán, fue nombrado rey (931 a.C.). Durante cuatro años hubo una oposición continua a su reinado; Tibni, otro pretendiente al trono, encabezó el partido contrario; pero al final de ese período todos sus rivales fueron derrotados y él se convirtió en rey de Israel: “Tibni murió y Omri reinó” (927 a.C.). Por su vigor y poder ganó gran eminencia y consolidó el reino. Fijó su dinastía en el trono con tanta firmeza que continuó durante cuatro reinados sucesivos. Tirza fue durante seis años la sede de su gobierno. Luego trasladó la capital a Samaria (q.v.), donde murió, y fue sucedido por su hijo Acab. “Hizo lo malo ante los ojos del Señor, e hizo peor que todos los que le precedieron”. Bet-omri, “la casa” o “ciudad de Omri”, es el nombre que suele encontrarse en las inscripciones asirias de Samaria. En la estela de Mesa (la “piedra moabita”), que fue erigida en Moab unos veinte o treinta años después de la muerte de Omri, se registra que Omri oprimió a Moab hasta que Mesa liberó la tierra: “Omri, rey de Israel, oprimió a Moab muchos días, porque Quemos estaba enojado con su tierra. Su hijo lo sucedió, y también dijo: Oprimiré a Moab” (comp. 2 Reyes 1:1; 3:4, 5). La “piedra moabita” también registra que “Omri tomó la tierra de Medeba y la ocupó en sus días y en los días de su hijo cuarenta años”."
+      },
+      {
+        "source": "SMI",
+        "text": "(alumno de Jehová)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 16:15-27",
+        "original": "1 Kings 16:15-27"
+      },
+      {
+        "reference": "2 Kings 1:1",
+        "original": "2 Kings 1:1"
+      },
+      {
+        "reference": "2 Kings 3:4",
+        "original": "2 Kings 3:4"
+      },
+      {
+        "reference": "2 Kings 3:5",
+        "original": "2 Kings 3:5"
+      },
+      {
+        "reference": "1 Kings 16:21",
+        "original": "1 Kings 16:21"
+      },
+      {
+        "reference": "1 Kings 16:15",
+        "original": "1 Kings 16:15"
+      },
+      {
+        "reference": "1 Kings 16:23",
+        "original": "1Kin 16:23"
+      },
+      {
+        "reference": "1 Chronicles 7:8",
+        "original": "1 Chronicles 7:8"
+      },
+      {
+        "reference": "1 Chronicles 9:4",
+        "original": "1 Chronicles 9:4"
+      },
+      {
+        "reference": "1 Chronicles 27:18",
+        "original": "1 Chronicles 27:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onam": {
+    "name": "onam",
+    "slug": "onam",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fuerte)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:23",
+        "original": "Genesis 36:23"
+      },
+      {
+        "reference": "1 Chronicles 1:40",
+        "original": "1 Chronicles 1:40"
+      },
+      {
+        "reference": "1 Chronicles 2:26",
+        "original": "1 Chronicles 2:26"
+      },
+      {
+        "reference": "1 Chronicles 2:28",
+        "original": "1 Chronicles 2:28"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onan": {
+    "name": "Onán",
+    "slug": "onan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Strong, el segundo hijo de Judá (Génesis 38:4-10; comp. Deuteronomio 25:5; Mateo 22:24). Murió antes del descenso de Jacob y su familia a Egipto."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerte), el segundo hijo de Judá con la cananea, “la hija de Súa”. (Génesis 38:4; 1 Crónicas 2:3) \"Lo que hizo fue malo a los ojos de Jehová y lo mató también a él, como había matado a su hermano mayor. (Génesis 38:9) Su muerte tuvo lugar antes de que la familia de Jacob descendiera a Egipto. (Génesis 46:12; Números 26:19) (1706 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:4-10",
+        "original": "Gen. 38:4-10"
+      },
+      {
+        "reference": "Deuteronomy 25:5",
+        "original": "Deut. 25:5"
+      },
+      {
+        "reference": "Matthew 22:24",
+        "original": "Matt. 22:24"
+      },
+      {
+        "reference": "Genesis 38:4",
+        "original": "Genesis 38:4"
+      },
+      {
+        "reference": "1 Chronicles 2:3",
+        "original": "1 Chronicles 2:3"
+      },
+      {
+        "reference": "Genesis 38:9",
+        "original": "Genesis 38:9"
+      },
+      {
+        "reference": "Genesis 46:12",
+        "original": "Genesis 46:12"
+      },
+      {
+        "reference": "Numbers 26:19",
+        "original": "Numbers 26:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onesimus": {
+    "name": "Onésimo",
+    "slug": "onesimus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Útil, un esclavo que, después de robar a su amo Filemón (q.v.) en Colosas, huyó a Roma, donde fue convertido por el apóstol Pablo, quien lo envió de regreso a su amo con la epístola que lleva su nombre. En él suplica a Filemón que reciba a su esclavo como a un “hermano fiel y amado”. Pablo se ofrece a pagarle a Filemón todo lo que su esclavo había tomado y a cargar con el mal que le había hecho. A su regreso lo acompañó Tíquico, el portador de la Epístola a los Colosenses (Filemón 1:16, 18). La historia de este esclavo colosense fugitivo es una evidencia notable de la libertad de acceso al prisionero que se concedía a todos, y “una hermosa ilustración tanto del carácter de San Pablo como del poder transfigurador y los justos principios del evangelio”."
+      },
+      {
+        "source": "SMI",
+        "text": "(rentable, útil), el nombre del siervo o esclavo en cuyo nombre Pablo escribió la Epístola a Filemón. Era nativo, o ciertamente habitante, de Colosas. (Colosenses 4:9) (58 d.C.) Huyó de su maestro y escapó a Roma, donde fue llevado a abrazar el evangelio por medio de Pablo. Después de su conversión surgieron las relaciones más felices y amistosas entre maestro y discípulo. Si Pablo deseaba su presencia como asistente personal o como ministro del evangelio no está claro en el versículo 13 de la epístola."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Philemon 1:1",
+        "original": "Philemon 1"
+      },
+      {
+        "reference": "Colossians 4:9",
+        "original": "Colossians 4:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onesiphorus": {
+    "name": "Onesíforo",
+    "slug": "onesiphorus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Trayendo provecho, un cristiano de Efeso que mostró gran bondad a Pablo en Roma. Le sirvió en muchas cosas y muchas veces le había refrescado. Pablo expresa un cálido interés en él y su casa (2 Ti. 1:16-18; 4:19)."
+      },
+      {
+        "source": "SMI",
+        "text": "(que genera ganancias) se menciona sólo dos veces en el Nuevo Testamento, a saber. (2 Timoteo 1:16-18) y 2 Timoteo 4:19 Pablo lo menciona en términos de amor agradecido por tener un valor noble y generosidad a su favor, en medio de sus pruebas como prisionero en Roma, cuando otros de quienes esperaba cosas mejores lo habían abandonado. (2 Timoteo 4:16.) Probablemente otros miembros de la familia también eran cristianos activos. (2 Timoteo 4:19) De (2 Timoteo 1:18) se desprende claramente que Onesíforo tenía su hogar en Éfeso. (64 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 1:16-18",
+        "original": "2 Tim. 1:16-18"
+      },
+      {
+        "reference": "2 Timothy 4:19",
+        "original": "2 Tim. 4:19"
+      },
+      {
+        "reference": "2 Timothy 4:16",
+        "original": "2 Timothy 4:16"
+      },
+      {
+        "reference": "2 Timothy 1:18",
+        "original": "2 Timothy 1:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onias": {
+    "name": "Onías",
+    "slug": "onias",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "el nombre de cinco sumos sacerdotes en el período comprendido entre el Antiguo y el Nuevo Testamento."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ono": {
+    "name": "Ono",
+    "slug": "ono",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un pueblo de Benjamín, en la “llanura de Ono” (1 Crónicas 8:12; Esdras 2:33); ahora Kefr ‘Ana, a 5 millas al norte de Lydda y a unas 30 millas al noroeste de Jerusalén. Al no tener éxito en sus intentos de disuadir a Nehemías de reconstruir los muros de Jerusalén, Sanbalat y Tobías recurrieron a una estratagema y, fingiendo desear una conferencia con él, lo invitaron a reunirse con ellos en Ono. Cuatro veces hicieron la petición, y cada vez Nehemías se negó a venir. Su objetivo era hacerlo prisionero."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerte), uno de los pueblos de Benjamín, se encuentra por primera vez en (1 Crónicas 8:12) Una llanura estaba adjunta a la ciudad llamada “la llanura de Ono” (Nehemías 6:2) tal vez idéntica al valle de los artesanos” (Nehemías 11:35)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:12",
+        "original": "1 Chr. 8:12"
+      },
+      {
+        "reference": "Ezra 2:33",
+        "original": "Ezra 2:33"
+      },
+      {
+        "reference": "Nehemiah 6:2",
+        "original": "Nehemiah 6:2"
+      },
+      {
+        "reference": "Nehemiah 11:35",
+        "original": "Nehemiah 11:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onycha": {
+    "name": "Onycha",
+    "slug": "onycha",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un clavo; garra; pezuña (heb. sheheleth; Éxodo 30:34), palabra latina aplicada al opérculo, es decir, la garra o uña del estrombo o caparazón del ala, una univalva común en el Mar Rojo. Los opérculos de estos mariscos al quemarse emiten un fuerte olor “como castóreo”. Este era un ingrediente del incienso sagrado."
+      },
+      {
+        "source": "SMI",
+        "text": "del que se habla en (Éxodo 30:34) era uno de los ingredientes del perfume sagrado. Está formado por las conchas de varias clases de mejillones, que al quemarse emiten un fuerte olor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:34",
+        "original": "Ex. 30:34"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "onyx": {
+    "name": "Ónix",
+    "slug": "onyx",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un granizo; garra; pezuña (heb. shoham), piedra preciosa que adornaba el pectoral del sumo sacerdote y los hombros del efod (Éxodo 28:9-12, 20; 35:27; Job 28:16; Ezequiel 28:13). Fue encontrado en la tierra de Havilah (Génesis 2:12). La LXX. traduce la palabra hebrea por smaragdos, una esmeralda. Algunos piensan que se refiere al sardónice. Pero el ónix se diferencia del sardónice en que, mientras este último tiene dos capas (blanca y negra), el primero tiene tres (negra, blanca y roja)."
+      },
+      {
+        "source": "SMI",
+        "text": "(un clavo) es la traducción del hebreo shoham; pero existen algunas dudas sobre su significado. Algunos escritores creen que se pretende referirse al \"berilo\"; pero el equilibrio de autoridad está a favor de alguna variedad de ónix. (“El ónix no es una piedra transparente, pero así como el color de la carne aparece a través de la uña (ónix griego) del cuerpo humano, así la masa rojiza que está debajo brilla delicadamente a través de la superficie blanquecina del ónix. Hay varias variedades. Franjas blancas y rojizas alternas forman el sardónice; blanca y gris rojiza, la calcedonia. Cuando se pule tiene un brillo fino y se labra fácilmente en una gema de gran belleza.”-Rosenmiller."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:9-12",
+        "original": "Ex. 28:9-12"
+      },
+      {
+        "reference": "Exodus 28:20",
+        "original": "Ex 28:20"
+      },
+      {
+        "reference": "Exodus 35:27",
+        "original": "Ex 35:27"
+      },
+      {
+        "reference": "Job 28:16",
+        "original": "Job 28:16"
+      },
+      {
+        "reference": "Ezekiel 28:13",
+        "original": "Ezek. 28:13"
+      },
+      {
+        "reference": "Genesis 2:12",
+        "original": "Gen. 2:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ophel": {
+    "name": "Ofel",
+    "slug": "ophel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Colina; montículo, el promontorio largo, estrecho y redondeado en la ladera sur de la colina del templo, entre el Tiropeón y el valle de Cedrón (2 Crónicas 27:3; 33:14; Nehemías 3:26, 27). Estaba rodeada por un muro separado y fue ocupada por los netineos después del cautiverio. Este muro ha sido descubierto por los ingenieros del Fondo de Exploración de Palestina en el ángulo sureste del área del templo. Está a 4 pies por debajo de la superficie actual. En 2 Reyes 5:24 esta palabra se traduce “torre” (R.V., “colina”), y probablemente denota alguna eminencia cerca de la casa de Eliseo."
+      },
+      {
+        "source": "SMI",
+        "text": "(colina), una parte de la antigua Jerusalén. Ofel era el declive creciente por el cual el monte del templo desciende en su lado sur hacia el valle de Hinnom, un espolón o promontorio largo, estrecho y redondeado, que se interpone entre la desembocadura del valle central de Jerusalén (el Tiropeón) y el Cedrón, o valle de Josafat. A mitad de camino en su cara oriental está la (“Fuente de la Virgen”, así llamada; y a su pie la salida inferior del mismo manantial: el estanque de Siloé. En (2 Crónicas 27:3) se dice que Jotam construyó mucho “sobre el muro de Ofel”. Manasés, entre sus otras obras defensivas, “rodeó Ofel”. Ibíd. (2 Crónicas 33:14) Parece haber estado cerca de la “puerta de las Aguas”. (Nehemías 3:26) y la “gran torre que se eleva”. ver. (Nehemías 3:27) Evidentemente era la residencia de los levitas (Nehemías 11:21)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 27:3",
+        "original": "2 Chr. 27:3"
+      },
+      {
+        "reference": "2 Chronicles 33:14",
+        "original": "2 Chr. 33:14"
+      },
+      {
+        "reference": "Nehemiah 3:26",
+        "original": "Neh. 3:26"
+      },
+      {
+        "reference": "Nehemiah 3:27",
+        "original": "Neh. 3:27"
+      },
+      {
+        "reference": "2 Kings 5:24",
+        "original": "2 Kings 5:24"
+      },
+      {
+        "reference": "Nehemiah 11:21",
+        "original": "Nehemiah 11:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ophir": {
+    "name": "Ofir",
+    "slug": "ophir",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Uno de los hijos de Joctán (Génesis 10:29). (2.) Alguna región famosa por su oro (1 Reyes 9:28; 10:11; 22:48; Job 22:24; 28:16; Isaías 13:12). En la LXX. esta palabra se traduce \"Sophir\" y \"Sofir\" es el nombre copto de la India, que es la traducción de la versión árabe, así como también de la Vulgata. Josefo lo ha identificado con el Quersoneso Dorado, es decir, la península malaya. Actualmente se le identifica generalmente con Abhira, en la desembocadura del Indo. Sin embargo, se puede decir mucho a favor de la opinión de que estaba en algún lugar de Arabia."
+      },
+      {
+        "source": "SMI",
+        "text": "(abundante)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:29",
+        "original": "Gen. 10:29"
+      },
+      {
+        "reference": "1 Kings 9:28",
+        "original": "1 Kings 9:28"
+      },
+      {
+        "reference": "1 Kings 10:11",
+        "original": "1 Kings 10:11"
+      },
+      {
+        "reference": "1 Kings 22:48",
+        "original": "1 Kings 22:48"
+      },
+      {
+        "reference": "Job 22:24",
+        "original": "Job 22:24"
+      },
+      {
+        "reference": "Job 28:16",
+        "original": "Job 28:16"
+      },
+      {
+        "reference": "Isaiah 13:12",
+        "original": "Isa. 13:12"
+      },
+      {
+        "reference": "1 Chronicles 1:23",
+        "original": "1 Chronicles 1:23"
+      },
+      {
+        "reference": "1 Chronicles 29:4",
+        "original": "1 Chronicles 29:4"
+      },
+      {
+        "reference": "Psalms 45:9",
+        "original": "Psalms 45:9"
+      },
+      {
+        "reference": "1 Kings 22:18",
+        "original": "1 Kings 22:18"
+      },
+      {
+        "reference": "2 Chronicles 8:18",
+        "original": "2 Chronicles 8:18"
+      },
+      {
+        "reference": "2 Chronicles 9:10",
+        "original": "2 Chronicles 9:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ophni": {
+    "name": "Ofni",
+    "slug": "ophni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mohosa, ciudad de Benjamín (Josué 18:24)."
+      },
+      {
+        "source": "SMI",
+        "text": "(mohoso), una ciudad de Benjamín, mencionada en (Josué 18:24) lo mismo que la Gofna de Josefo, un lugar que en el momento de la invasión de Vespasiano era aparentemente tan importante que ocupaba el segundo lugar después de Jerusalén. Todavía sobrevive en la moderna Jifna o Jufna, 23 millas al noroeste de Betel."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:24",
+        "original": "Josh. 18:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ophrah": {
+    "name": "Ofra",
+    "slug": "ophrah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un cervatillo. 1 Cr. 4:14. (1.) Una ciudad de Benjamín (Josué 18:23); probablemente idéntico a Efrón (2 Crónicas 13:19) y Efraín (Juan 11:54). (2.) “De los abi-ezritas”. Ciudad de Manasés, a 6 millas al suroeste de Siquem, la residencia de Gedeón (Jueces 6:11; 8:27, 32). Después de su gran victoria sobre los madianitas, mató en este lugar a los reyes cautivos (8:18-21). Luego asumió la función de sumo sacerdote y buscó hacer de Ofra lo que debería haber sido Silo. Esto “llegó a ser una trampa” para Gedeón y su casa. Después de la muerte de Gedeón, su familia residió aquí hasta que Abimelec los ejecutó (Jueces 9:5). Se identifica con Ferata."
+      },
+      {
+        "source": "SMI",
+        "text": "(adular)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:14",
+        "original": "1 Chr. 4:14"
+      },
+      {
+        "reference": "Joshua 18:23",
+        "original": "Josh. 18:23"
+      },
+      {
+        "reference": "2 Chronicles 13:19",
+        "original": "2 Chr. 13:19"
+      },
+      {
+        "reference": "John 11:54",
+        "original": "John 11:54"
+      },
+      {
+        "reference": "Judges 6:11",
+        "original": "Judg. 6:11"
+      },
+      {
+        "reference": "Judges 8:27",
+        "original": "Judg 8:27"
+      },
+      {
+        "reference": "Judges 8:32",
+        "original": "Judg 8:32"
+      },
+      {
+        "reference": "Judges 9:5",
+        "original": "Judg. 9:5"
+      },
+      {
+        "reference": "1 Samuel 13:17",
+        "original": "1 Samuel 13:17"
+      },
+      {
+        "reference": "Judges 6:24",
+        "original": "Judges 6:24"
+      },
+      {
+        "reference": "Judges 6:15",
+        "original": "Judges 6:15"
+      },
+      {
+        "reference": "Judges 9:1",
+        "original": "Judges 9:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oracle": {
+    "name": "Oráculo",
+    "slug": "oracle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En el Antiguo Testamento se usa en todos los casos, excepto 2 Sam. 16:23, para denotar el lugar santísimo en el templo (1 Reyes 6:5, 19-23; 8:6). En 2 Sam. 16:23 significa la Palabra de Dios. Un hombre preguntó “ante el oráculo de Dios” por medio del Urim y Tumim en el pectoral del efod del sumo sacerdote. En el Nuevo Testamento se usa sólo en plural y siempre denota la Palabra de Dios (Rom. 3:2; Heb. 5:12, etc.). Las Escrituras se llaman “oráculos vivientes” (comp. Heb. 4:12) debido a su poder vivificante (Hechos 7:38)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 16:23",
+        "original": "2 Sam. 16:23"
+      },
+      {
+        "reference": "1 Kings 6:5",
+        "original": "1 Kings 6:5"
+      },
+      {
+        "reference": "1 Kings 6:19",
+        "original": "1 Kings 6:19"
+      },
+      {
+        "reference": "Romans 3:2",
+        "original": "Rom. 3:2"
+      },
+      {
+        "reference": "Hebrews 5:12",
+        "original": "Heb. 5:12"
+      },
+      {
+        "reference": "Hebrews 4:12",
+        "original": "Heb. 4:12"
+      },
+      {
+        "reference": "Acts 7:38",
+        "original": "Acts 7:38"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "orator": {
+    "name": "Orador",
+    "slug": "orator",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:3",
+        "original": "Isaiah 3:3"
+      },
+      {
+        "reference": "Acts 24:1",
+        "original": "Acts 24:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oreb": {
+    "name": "oreb",
+    "slug": "oreb",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cuervo, un príncipe de Madián, quien, siendo derrotado por Gedeón y puesto en apuros, fue asesinado junto con Zeeb (Jueces 7:20-25). Muchos de los madianitas perecieron junto con él (Sal. 83:9; Isa. 10:26)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cuervo), uno de los jefes del ejército madianita que invadió Israel y fue derrotado y rechazado por Gedeón. (Jueces 7:25) (1362 a.C.) Isaías, (Isaías 10:26) se refiere a la magnitud de este desastre. comp. (Salmos 83:1)..."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:20-25",
+        "original": "Judg. 7:20-25"
+      },
+      {
+        "reference": "Psalms 83:9",
+        "original": "Ps. 83:9"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isa. 10:26"
+      },
+      {
+        "reference": "Judges 7:25",
+        "original": "Judges 7:25"
+      },
+      {
+        "reference": "Psalms 83:1",
+        "original": "Psalms 83:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oreb-the-rock": {
+    "name": "Oreb, La Roca",
+    "slug": "oreb-the-rock",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "el “peñasco del cuervo”, el lugar, al este del Jordán, en el que el caudillo madianita Oreb con miles de sus compatriotas cayó a manos de los efraimitas, y que probablemente adquirió su nombre de allí. Se menciona en (Jueces 7:25; Isaías 10:26). Quizás el lugar llamado 'Orbo que en Bereshith Rabba se dice que estuvo en las cercanías de Betshean, pueda tener alguna conexión con él."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:25",
+        "original": "Judges 7:25"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isaiah 10:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oreb-the-rock-of": {
+    "name": "Oreb, la roca de",
+    "slug": "oreb-the-rock-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El lugar donde Gedeón mató a Oreb después de la derrota de los madianitas (Jue. 7:25; Isa. 10:26). Probablemente era el lugar que hoy se llama Orbo, al este del Jordán, cerca de Bet-seán."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:25",
+        "original": "Judg. 7:25"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isa. 10:26"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "oren": {
+    "name": "oren",
+    "slug": "oren",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fresno o pino, hijo de Jerahmeel (1 Crónicas 2:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "(pino), uno de los hijos de Jerameel, el primogénito de Hezrón. (1 Crónicas 2:25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:25",
+        "original": "1 Chr. 2:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "organ": {
+    "name": "Órgano",
+    "slug": "organ",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Algún tipo de instrumento de viento, probablemente una especie de flauta de Pan (Gén. 4:21; Job 21:12; Sal. 150:4), que constaba de siete u ocho cañas de longitud desigual."
+      },
+      {
+        "source": "SMI",
+        "text": "(Génesis 4:21; Job 21:12; 30:31; Salmo 150:4.) La palabra hebrea así traducida probablemente denota una pipa o un instrumento de viento perforado. En (Génesis 4:21) parece ser un término general para todos los instrumentos de viento. En (Job 21:12) se enumeran tres tipos de instrumentos musicales que son posibles bajo los términos generales de arpa pandero y oryan. Algunos lo identifican con la flauta pandeana o siringe, instrumento de indiscutible origen antiguo, y común en Oriente. [Ver Música]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:21",
+        "original": "Gen. 4:21"
+      },
+      {
+        "reference": "Job 21:12",
+        "original": "Job 21:12"
+      },
+      {
+        "reference": "Psalms 150:4",
+        "original": "Ps. 150:4"
+      },
+      {
+        "reference": "Job 30:31",
+        "original": "Job 30:31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "orion": {
+    "name": "Orión",
+    "slug": "orion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. Kesil; es decir, “el necio”, el nombre de una constelación (Job 9:9; 38:31; Amós 5:8) que consta de unas ochenta estrellas. La Vulgata dice así, pero la LXX. traduce por Hesperus, es decir, \"la estrella de la tarde\", Venus. Los orientales “parecen haber concebido esta constelación bajo la figura de un gigante impío atado al cielo”. Este gigante era, según la tradición, Nimrod, el tipo de la locura que contiende contra Dios. En Isa. 13:10 la forma plural de la palabra hebrea se traduce “constelaciones”."
+      },
+      {
+        "source": "SMI",
+        "text": "(el gigante), una gran y brillante constelación de 80 estrellas, 17 de ellas grandes, atravesada por la línea equinoccial. Lleva el nombre de un personaje mítico de los griegos, de estatura gigantesca y “el hombre más guapo del mundo”. Los árabes lo llamaban \"el gigante\", en referencia a Nimrod, el poderoso cazador que, según la leyenda, fue atado al cielo por su impiedad. (Job 9:9) También aludido en (Job 38:31)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 9:9",
+        "original": "Job 9:9"
+      },
+      {
+        "reference": "Job 38:31",
+        "original": "Job 38:31"
+      },
+      {
+        "reference": "Amos 5:8",
+        "original": "Amos 5:8"
+      },
+      {
+        "reference": "Isaiah 13:10",
+        "original": "Isa. 13:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ornan": {
+    "name": "Ornán",
+    "slug": "ornan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "1 Cr. 21:15. (Ver ARAUNÁ.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(activo). (1 Crónicas 21:15; 2 Crónicas 3:1) [Araunah]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 21:15",
+        "original": "1 Chr. 21:15"
+      },
+      {
+        "reference": "2 Chronicles 3:1",
+        "original": "2 Chronicles 3:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "orpah": {
+    "name": "Orfa",
+    "slug": "orpah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Copete o cervatillo, una moabita, la esposa de Quelión (Rut 1:4; 4:10). A la muerte de su marido, acompañó a Noemí, su suegra, durante parte del camino hasta Belén y luego regresó a Moab."
+      },
+      {
+        "source": "SMI",
+        "text": "(una gacela), una mujer moabita, esposa de Quilión, hijo de Noemí, y por tanto cuñada de Rut. (Rut 2:4,14) (1360 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 1:4",
+        "original": "Ruth 1:4"
+      },
+      {
+        "reference": "Ruth 4:10",
+        "original": "Ruth 4:10"
+      },
+      {
+        "reference": "Ruth 2:4",
+        "original": "Ruth 2:4"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "oshea": {
+    "name": "Oseas",
+    "slug": "oshea",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(salvación). [Josué]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ossifrage": {
+    "name": "Osífraga",
+    "slug": "ossifrage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. peres = “romper” o “aplastar” al lammer-geier, o quebrantahuesos, el más grande de toda la tribu de los buitres. Era un ave inmunda (Levítico 11:13; Deuteronomio 14:12). No es un ave gregaria y rara vez se encuentra en Palestina. \"Cuando los otros buitres han arrancado la carne de cualquier animal, él viene al final del festín y se traga los huesos, o los rompe, y se traga los pedazos si no puede extraer la médula. Los huesos los rompe [de ahí lo apropiado del nombre ossifrage, es decir, \"rompehuesos\"] dejándolos caer sobre una roca desde una gran altura. Sin embargo, no se limita a estas delicias, sino que siempre que tiene la oportunidad lo hará. devora corderos, cabritos o liebres, que generalmente obtiene empujándolos por los acantilados, cuando ha aprovechado su oportunidad; y se le conoce por atacar a los hombres mientras escalaban rocas y estrellarlos contra el fondo, pero las tortugas y las serpientes son su alimento habitual... Sin duda, fue un lammer-geier el que confundió la cabeza calva del poeta Esquilo con una piedra y arrojó sobre ella la tortuga que lo mató” (Tristram). Nat. Hist.)."
+      },
+      {
+        "source": "SMI",
+        "text": "(el rompehuesos). La palabra hebrea aparece, como el nombre de un ave inmunda, en (Levítico 11:13) y Deuteronomio 14:12. Probablemente sea el quebrantahuesos, o quebrantahuesos como a veces se le llama, una de las aves rapaces más grandes. Bien merece su nombre de osifraga, rompehuesos, porque \"no sólo empuja a cabritos y corderos e incluso a hombres fuera de las rocas, sino que toma en el aire huesos de animales que otras aves rapaces han despojado de su carne y los deja caer sobre una piedra para romperlos y hacerlos más digeribles incluso para su enorme poder de deglución. Los huesos de médula son los manjares que le encantan. Este es probablemente el pájaro que dejó caer una tortuga en la calva del pobre viejo Esquilo.”—N. H. Simpson."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:13",
+        "original": "Lev. 11:13"
+      },
+      {
+        "reference": "Deuteronomy 14:12",
+        "original": "Deut. 14:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "othni": {
+    "name": "Otni",
+    "slug": "othni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un león de Jehová, un hijo de Semaías y uno de los porteros del templo en el tiempo de David (1 Crónicas 26:7). Era un “hombre valiente y valiente”."
+      },
+      {
+        "source": "SMI",
+        "text": "(león de Jehová), hijo de Semaías, primer cuerno de Obed-edom. (1 Crónicas 26:7) (1013 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 26:7",
+        "original": "1 Chr. 26:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "othniel": {
+    "name": "Otoniel",
+    "slug": "othniel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "León de Dios, el primero de los jueces. Su esposa Acsa era hija de Caleb (Jos. 15:16, 17; Jue. 1:13). Obtuvo su mano como recompensa por su valentía al liderar una expedición exitosa contra Debir (q.v.). Unos treinta años después de la muerte de Josué, los israelitas cayeron bajo el sometimiento de Chushan-risataim (q.v.), el rey de Mesopotamia. Los oprimió durante ocho años completos, cuando “clamaron” a Jehová y Otoniel fue levantado para ser su libertador. Era el hermano menor de Caleb (Jueces 3:8, 9-11). Es el único juez mencionado relacionado con la tribu de Judá. Bajo su mando la tierra descansó cuarenta años."
+      },
+      {
+        "source": "SMI",
+        "text": "(león de Dios), hijo de Kenaz y hermano menor de Caleb. (Josué 15:17; Jueces 1:13; 3:9; 1 Crónicas 4:13) (1460 a. C.) La primera mención de Otoniel se produce con ocasión de la toma de Quiriat-sefer, o Debir, como se la llamó más tarde. Caleb prometió dar a su hija Acsa a cualquiera que atacara y tomara la ciudad. Otoniel ganó el premio. La siguiente mención de él es en (Jueces 3:9) donde aparece como el primer juez de Israel después de la muerte de Josué, y el libertador de sus compatriotas de la opresión de Chushahrishathaim (Jueces 3:8-9)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:16",
+        "original": "Josh. 15:16"
+      },
+      {
+        "reference": "Joshua 15:17",
+        "original": "Josh. 15:17"
+      },
+      {
+        "reference": "Judges 1:13",
+        "original": "Judg. 1:13"
+      },
+      {
+        "reference": "Judges 3:8",
+        "original": "Judg. 3:8"
+      },
+      {
+        "reference": "Judges 3:9",
+        "original": "Judg. 3:9"
+      },
+      {
+        "reference": "1 Chronicles 4:13",
+        "original": "1 Chronicles 4:13"
+      },
+      {
+        "reference": "Judges 3:8-9",
+        "original": "Judges 3:8-9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ozem": {
+    "name": "Ozem",
+    "slug": "ozem",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fuerte. (1.) Uno de los hermanos de David; el sexto hijo de Jesé (1 Crónicas 2:15). (2.) Un hijo de Jerahmeel (1 Crónicas 2:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerza)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:15",
+        "original": "1 Chr. 2:15"
+      },
+      {
+        "reference": "1 Chronicles 2:25",
+        "original": "1 Chr. 2:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ozias": {
+    "name": "Ozías",
+    "slug": "ozias",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hijo de Joram (Mateo 1:8); llamado también Uzías (2 Reyes 15:32, 34)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerza del Señor)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:8",
+        "original": "Matt. 1:8"
+      },
+      {
+        "reference": "2 Kings 15:32",
+        "original": "2 Kings 15:32"
+      },
+      {
+        "reference": "2 Kings 15:34",
+        "original": "2 Kings 15:34"
+      },
+      {
+        "reference": "Ezra 2",
+        "original": "Ezra. 2"
+      },
+      {
+        "reference": "Matthew 1:9",
+        "original": "Matthew 1:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "ozni": {
+    "name": "Ozni",
+    "slug": "ozni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Oyendo, uno de los hijos de Gad; También llamado Ezbón (Gén. 46:16; Números 26:16)."
+      },
+      {
+        "source": "SMI",
+        "text": "(audiencia), uno de los hijos de Gad (Números 26:16) y fundador de la familia de los oznitas. (Números 26:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:16",
+        "original": "Gen. 46:16"
+      },
+      {
+        "reference": "Numbers 26:16",
+        "original": "Num. 26:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "peace-offerings": {
+    "name": "Ofrendas de paz",
+    "slug": "peace-offerings",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. shelamim), regulaciones detalladas con respecto a lo dado en Lev. 3; 7:11-21, 29-34. Eran de tres tipos: (1) ofrendas eucarísticas o de acción de gracias, que expresaban gratitud por las bendiciones recibidas; (2) en cumplimiento de un voto, pero también expresivo de agradecimiento por los beneficios recibidos; y (3) ofrendas voluntarias, algo espontáneamente dedicado a Dios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 3",
+        "original": "Lev. 3"
+      },
+      {
+        "reference": "Leviticus 7:11-21",
+        "original": "Lev 7:11-21"
+      },
+      {
+        "reference": "Leviticus 7:29-34",
+        "original": "Lev 7:29-34"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
   }
 }

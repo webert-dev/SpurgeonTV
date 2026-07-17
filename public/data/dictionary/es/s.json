@@ -1718,5 +1718,57 @@
       "EAS"
     ],
     "letter": "s"
+  },
+  "parlor": {
+    "name": "Salón",
+    "slug": "parlor",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una palabra en el uso inglés que significa la sala común de la familia y, por lo tanto, probablemente en la versión autorizada denota la cámara de audiencias del rey, así se usa en referencia a Eglón. (Jueces 3:20-25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 3:20-25",
+        "original": "Judges 3:20-25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "parlour": {
+    "name": "Salón",
+    "slug": "parlour",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(del p. parler, “hablar”) denota una “sala de audiencias”, pero ese no es el significado de la palabra hebrea así traducida. Corresponde a lo que los turcos llaman quiosco, como en Jue. 3:20 (la “sala de verano”), o como en el margen de la versión revisada (“la cámara superior de enfriamiento”), una pequeña habitación construida en el techo de la casa, con ventanas abiertas para recibir la brisa y que tiene una puerta que comunica con el exterior por la cual pueden ser admitidas las personas que buscan audiencia. Mientras Eglón descansaba en tal salón, Aod, con el pretexto de tener un mensaje de Dios para él, fue admitido en su presencia y asesinamente hundió su daga en su cuerpo (21, 22). Los “salas interiores” en 1 Crón. 28:11 fueron las pequeñas habitaciones o cámaras que Salomón construyó alrededor de dos lados y un extremo del templo (1 Reyes 6:5), “cámaras laterales”; o pueden haber sido, como algunos piensan, el pórtico y el lugar santo. En 1 Sam. 9:22 la versión revisada dice \"cámara de invitados\", una cámara en el lugar alto especialmente utilizada para fiestas de sacrificios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 3:20",
+        "original": "Judg. 3:20"
+      },
+      {
+        "reference": "1 Chronicles 28:11",
+        "original": "1 Chr. 28:11"
+      },
+      {
+        "reference": "1 Kings 6:5",
+        "original": "1 Kings 6:5"
+      },
+      {
+        "reference": "1 Samuel 9:22",
+        "original": "1 Sam. 9:22"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
   }
 }

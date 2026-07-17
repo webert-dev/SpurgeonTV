@@ -8262,5 +8262,33 @@
       "EAS"
     ],
     "letter": "l"
+  },
+  "open-place": {
+    "name": "lugar abierto",
+    "slug": "open-place",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Génesis 38:14, 21, mar. apuntar; Probablemente lo mismo que Enam (Josué 15:34), una ciudad en las tierras bajas o Sefelá."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:14",
+        "original": "Gen. 38:14"
+      },
+      {
+        "reference": "Genesis 38:21",
+        "original": "Gen. 38:21"
+      },
+      {
+        "reference": "Joshua 15:34",
+        "original": "Josh. 15:34"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
   }
 }

@@ -27244,5 +27244,680 @@
       "SMI"
     ],
     "letter": "a"
+  },
+  "nod": {
+    "name": "Asentir",
+    "slug": "nod",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Exilio; errante; malestar, nombre dado al país al que huyó Caín (Gén. 4:16). Estaba al este del Edén."
+      },
+      {
+        "source": "SMI",
+        "text": "(huida), la tierra a la que huyó Caín tras el asesinato de Abel. [Caín]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:16",
+        "original": "Gen. 4:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "obadiah": {
+    "name": "Abdías",
+    "slug": "obadiah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Siervo de dios. (1.) Un israelita que era jefe de la casa del rey Acab (1 Reyes 18:3). En medio de una gran degeneración espiritual, mantuvo su fidelidad a Dios e intervino para proteger a los profetas del Señor, escondiendo a cien de los cuales, con gran riesgo personal, en una cueva (4, 13). Acab parece haber tenido gran honor en Abdías, aunque no simpatizaba con su piedad (5, 6, 7). La última noticia de él es que trae noticias a Acab de que Elías, a quien había buscado durante tanto tiempo, estaba cerca (9-16). “Ve”, le dijo Elías cuando lo encontró en el camino, “ve y dile a tu señor: He aquí, Elías está aquí”. (2.) Un jefe de la tribu de Isacar (1 Crónicas 7:3). (3.) Descendiente de Saúl (1 Crónicas 8:38). (4.) Un levita, después del cautiverio (1 Crónicas 9:16). (5.) Un gadita que se unió a David en Siclag (1 Crónicas 12:9). (6.) Un príncipe de Zabulón en tiempos de David (1 Crónicas 27:19). (7.) Uno de los príncipes enviado por Josafat para instruir al pueblo en la ley (2 Crónicas 17:7). (8.) Un levita que supervisó las reparaciones del templo bajo Josías (2 Crónicas 34:12). (9.) Uno que acompañó a Esdras a su regreso de Babilonia (Esdras 8:9). (10.) Profeta, cuarto de los profetas menores en el canon hebreo y quinto en la LXX. Probablemente fue contemporáneo de Jeremías y Ezequiel. De su historia personal no se sabe nada."
+      },
+      {
+        "source": "SMI",
+        "text": "(siervo de dios),"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 18:3",
+        "original": "1 Kings 18:3"
+      },
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chr. 7:3"
+      },
+      {
+        "reference": "1 Chronicles 8:38",
+        "original": "1 Chr. 8:38"
+      },
+      {
+        "reference": "1 Chronicles 9:16",
+        "original": "1 Chr. 9:16"
+      },
+      {
+        "reference": "1 Chronicles 12:9",
+        "original": "1 Chr. 12:9"
+      },
+      {
+        "reference": "1 Chronicles 27:19",
+        "original": "1 Chr. 27:19"
+      },
+      {
+        "reference": "2 Chronicles 17:7",
+        "original": "2 Chr. 17:7"
+      },
+      {
+        "reference": "2 Chronicles 34:12",
+        "original": "2 Chr. 34:12"
+      },
+      {
+        "reference": "Ezra 8:9",
+        "original": "Ezra 8:9"
+      },
+      {
+        "reference": "1 Chronicles 3:21",
+        "original": "1 Chronicles 3:21"
+      },
+      {
+        "reference": "1 Chronicles 8:33",
+        "original": "1 Chronicles 8:33"
+      },
+      {
+        "reference": "1 Chronicles 9:44",
+        "original": "1 Chronicles 9:44"
+      },
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Nehemiah 12:25"
+      },
+      {
+        "reference": "Nehemiah 10:5",
+        "original": "Nehemiah 10:5"
+      },
+      {
+        "reference": "1 Kings 18:3-16",
+        "original": "1 Kings 18:3-16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "obadiah-book-of": {
+    "name": "Abdías, Libro de",
+    "slug": "obadiah-book-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Consta de un capítulo, “acerca de Edom”, su ruina inminente (1:1-16) y la restauración de Israel (1:17-21). Este es el libro más corto del Antiguo Testamento. Está registrado el relato de cuatro capturas de Jerusalén, (1) por Sishak durante el reinado de Roboam (1 Reyes 14:25); (2) por los filisteos y árabes durante el reinado de Joram (2 Crónicas 21:16); (3) por Joás, el rey de Israel, durante el reinado de Amasías (2 Reyes 14:13); y (4) por los babilonios, cuando Nabucodonosor tomó y destruyó Jerusalén (586 a. C.). Abdías (1:11-14) habla de esta captura como algo pasado. Considera que la calamidad ya había sobrevenido a Jerusalén, y que los edomitas unieron sus fuerzas a las de los caldeos para provocar la degradación y la ruina de Israel. De hecho, no leemos que los edomitas realmente participaron con los caldeos, pero lo más probable es que lo hicieran, y esto explica las palabras de Abdías al denunciar contra Edom los juicios de Dios. Por tanto, la fecha de sus profecías fue en o alrededor del año de la destrucción de Jerusalén. Edom es el tipo de Israel y del último enemigo de Dios (Isaías 63:1-4). Finalmente todos serán vencidos y el reino será del Señor (comp. Sal. 22:28)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 14:25",
+        "original": "1 Kings 14:25"
+      },
+      {
+        "reference": "2 Chronicles 21:16",
+        "original": "2 Chr. 21:16"
+      },
+      {
+        "reference": "2 Kings 14:13",
+        "original": "2 Kings 14:13"
+      },
+      {
+        "reference": "Isaiah 63:1-4",
+        "original": "Isa. 63:1-4"
+      },
+      {
+        "reference": "Psalms 22:28",
+        "original": "Ps. 22:28"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "oil": {
+    "name": "Aceite",
+    "slug": "oil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Parece que entre los hebreos sólo se utilizaba aceite de oliva. Se usaba para muchos propósitos: para ungir el cuerpo o el cabello (Éxodo 29:7; 2 Sam. 14:2; Sal. 23:5; 92:10; 104:15; Lucas 7:46); en algunas de las ofrendas (Éxodo 29:40; Levítico 7:12; Números 6:15; 15:4), pero fue excluido de la ofrenda por el pecado (Levítico 5:11) y de la ofrenda de los celos (Números 5:15); para arder en lámparas (Éxodo 25:6; 27:20; Mateo 25:3); con fines medicinales (Isaías 1:6; Lucas 10:34; Santiago 5:14); y para ungir a los muertos (Mateo 26:12; Lucas 23:56). Era uno de los productos más valiosos del país (Deuteronomio 32:13; Ezequiel 16:13) y constituía un artículo de amplio comercio con Tiro (27:17). Su uso era una señal de alegría (Sal. 92:10; Isa. 61:3), y su omisión una señal de tristeza (2 Sam. 14:2; Mat. 6:17). Era muy abundante en Galilea. (Ver OLIVA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "De las numerosas sustancias, animales y vegetales, que los antiguos conocían como productoras de aceite, la olivo es la que se menciona con más frecuencia en las Escrituras."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:7",
+        "original": "Ex. 29:7"
+      },
+      {
+        "reference": "2 Samuel 14:2",
+        "original": "2 Sam. 14:2"
+      },
+      {
+        "reference": "Psalms 23:5",
+        "original": "Ps. 23:5"
+      },
+      {
+        "reference": "Psalms 92:10",
+        "original": "Ps 92:10"
+      },
+      {
+        "reference": "Psalms 104:15",
+        "original": "Ps 104:15"
+      },
+      {
+        "reference": "Luke 7:46",
+        "original": "Luke 7:46"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex. 29:40"
+      },
+      {
+        "reference": "Leviticus 7:12",
+        "original": "Lev. 7:12"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 15:4",
+        "original": "Num 15:4"
+      },
+      {
+        "reference": "Leviticus 5:11",
+        "original": "Lev. 5:11"
+      },
+      {
+        "reference": "Numbers 5:15",
+        "original": "Num. 5:15"
+      },
+      {
+        "reference": "Exodus 25:6",
+        "original": "Ex. 25:6"
+      },
+      {
+        "reference": "Exodus 27:20",
+        "original": "Ex 27:20"
+      },
+      {
+        "reference": "Matthew 25:3",
+        "original": "Matt. 25:3"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Luke 10:34",
+        "original": "Luke 10:34"
+      },
+      {
+        "reference": "James 5:14",
+        "original": "James 5:14"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matt. 26:12"
+      },
+      {
+        "reference": "Luke 23:56",
+        "original": "Luke 23:56"
+      },
+      {
+        "reference": "Deuteronomy 32:13",
+        "original": "Deut. 32:13"
+      },
+      {
+        "reference": "Ezekiel 16:13",
+        "original": "Ezek. 16:13"
+      },
+      {
+        "reference": "Isaiah 61:3",
+        "original": "Isa. 61:3"
+      },
+      {
+        "reference": "Matthew 6:17",
+        "original": "Matt. 6:17"
+      },
+      {
+        "reference": "Leviticus 24:2",
+        "original": "Leviticus 24:2"
+      },
+      {
+        "reference": "Numbers 28:6",
+        "original": "Numbers 28:6"
+      },
+      {
+        "reference": "Exodus 29:2",
+        "original": "Exodus 29:2"
+      },
+      {
+        "reference": "Mark 6:13",
+        "original": "Mark 6:13"
+      },
+      {
+        "reference": "Leviticus 8:12",
+        "original": "Leviticus 8:12"
+      },
+      {
+        "reference": "Exodus 22:29",
+        "original": "Exodus 22:29"
+      },
+      {
+        "reference": "Exodus 23:16",
+        "original": "Exodus 23:16"
+      },
+      {
+        "reference": "Numbers 18:12",
+        "original": "Numbers 18:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "oil-tree": {
+    "name": "árbol de aceite",
+    "slug": "oil-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isa. 41:19; R.V. marg., “oleaster”), heb. 'etz shemen, traducido “olivo” en 1 Reyes 6:23, 31, 32, 33 (R.V., “madera de olivo”) y “ramas de pino” en Neh. 8:15 (R.V., “ramas de olivo silvestre”), era algún árbol distinto del olivo. Probablemente fue la oleastra (Eleagnus angustifolius), que crece abundantemente en casi todas partes de Palestina, especialmente en Hebrón y Samaria. \"Tiene una madera dura y fina\", dice Tristram, \"y produce un aceite inferior, pero no tiene ninguna relación con la aceituna, a la que, sin embargo, se parece en apariencia general\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 41:19",
+        "original": "Isa. 41:19"
+      },
+      {
+        "reference": "1 Kings 6:23",
+        "original": "1 Kings 6:23"
+      },
+      {
+        "reference": "1 Kings 6:31",
+        "original": "1 Kings 6:31"
+      },
+      {
+        "reference": "1 Kings 6:32",
+        "original": "1 Kings 6:32"
+      },
+      {
+        "reference": "1 Kings 6:33",
+        "original": "1 Kings 6:33"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Neh. 8:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "old-testament": {
+    "name": "Antiguo Testamento",
+    "slug": "old-testament",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "I. TEXTO DEL ANTIGUO TESTAMENTO.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 40:7",
+        "original": "Psalms 40:7"
+      },
+      {
+        "reference": "Jeremiah 36:14",
+        "original": "Jeremiah 36:14"
+      },
+      {
+        "reference": "Ezekiel 2:9",
+        "original": "Ezekiel 2:9"
+      },
+      {
+        "reference": "Zechariah 5:1",
+        "original": "Zechariah 5:1"
+      },
+      {
+        "reference": "Acts 1:20",
+        "original": "Acts 1:20"
+      },
+      {
+        "reference": "1 Corinthians 1:31",
+        "original": "1 Corinthians 1:31"
+      },
+      {
+        "reference": "Luke 4:18",
+        "original": "Luke 4:18"
+      },
+      {
+        "reference": "Luke 4:19",
+        "original": "Luke 4:19"
+      },
+      {
+        "reference": "Isaiah 61:1",
+        "original": "Isaiah 61:1"
+      },
+      {
+        "reference": "Isaiah 58:6",
+        "original": "Isaiah 58:6"
+      },
+      {
+        "reference": "Romans 11:8",
+        "original": "Romans 11:8"
+      },
+      {
+        "reference": "Romans 29:4",
+        "original": "Romans 29:4"
+      },
+      {
+        "reference": "Isaiah 29:10",
+        "original": "Isaiah 29:10"
+      },
+      {
+        "reference": "Matthew 27:9",
+        "original": "Matthew 27:9"
+      },
+      {
+        "reference": "Jeremiah 18:1",
+        "original": "Jeremiah 18:1"
+      },
+      {
+        "reference": "Jeremiah 19:1",
+        "original": "Jeremiah 19:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "olive": {
+    "name": "Aceituna",
+    "slug": "olive",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El fruto del olivo. Este árbol producía un aceite muy valorado. El mejor aceite era el de aceitunas que se arrancaban antes de que estuvieran completamente maduras y luego se golpeaban o exprimiban (Deuteronomio 24:20; Isaías 17:6; 24:13). Se le llamaba “aceite batido” o “aceite fresco” (Éxodo 27:20). También había prensas de aceite, en las que el aceite era pisado con los pies (Miqueas 6:15). Santiago (3:12) llama al fruto “bayas de olivo”. La frase “viñedos y olivos” (Jue. 15:5, A.V.) debería ser simplemente “olivar” o “olivar”, como en la versión revisada. (Ver ACEITE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "El olivo se encontraba entre la vegetación más abundante y característica de Judea. El olivo crece libremente en casi todas partes de las costas del Mediterráneo, pero era especialmente abundante en Palestina. Ver (6:11; 8:8; 28:40). Los olivares son algo natural en las descripciones del país, como las vides y los campos de maíz. (Jueces 15:5; 1 Samuel 8:14) Los reyes tenían unos muy extensos. (1 Crónicas 27:28) Aún ahora abunda mucho en el país. Casi todos los pueblos tienen su olivar. Se pueden especificar ciertos distritos donde en diversas épocas este árbol fue muy frondoso. El cultivo del olivo tenía la conexión más cercana con la vida doméstica de los israelitas (2 Crónicas 2:10), su comercio (Ezequiel 27:17; Oseas 12:1) e incluso sus ceremonias públicas y culto religioso. En el templo de Salomón los querubines eran “de olivo” (1 Reyes 6:23), al igual que las puertas, vs. (1 Reyes 6:31,32) y los postes. ver. (1 Reyes 6:33) Para conocer los diversos usos del aceite de oliva, consulte Aceite. El cultivador de olivos temía el viento, ya que la más mínima brisa podía hacer caer las flores. (Job 15:33) No hace falta agregar que la langosta era un enemigo formidable del olivo. No era raro que las esperanzas fueran defraudadas y que “el trabajo de la aceituna fracasara”. (Habacuc 3:17) En cuanto al crecimiento del árbol, prospera mejor en situaciones cálidas y soleadas. Es de altura moderada, con tronco nudoso y nudoso y corteza lisa de color ceniza. Crece lentamente, pero vive hasta una edad inmensa. Su aspecto es singularmente indicativo de un vigor tenaz, y esta es la fuerza de lo que se dice en las Escrituras sobre su \"verdor, como símbolo de fuerza y prosperidad. Las hojas tampoco son caducas. Aquellos que ven las aceitunas por primera vez se sienten ocasionalmente decepcionados por el color polvoriento de su follaje; pero aquellos que están familiarizados con ellas encuentran un encanto inexpresable en los cambios ondulados de sus esbeltas hojas de color verde grisáceo. (Ver \"Piedras de Venecia\" de Ruskin,\" iii. 175-177.) El olivo proporciona la base de una de las alegorías de Pablo (Romanos 11:16-25). Los gentiles son el “olivo silvestre” injertado en el “buen olivo”, al que una vez pertenecieron los judíos, y al que pueden incorporarse nuevamente (el olivo crece de 20 a 40 pies de altura. En apariencia general se parece al manzano; en hojas y tallos, el Sauce. Las flores son blancas y aparecen en junio. El fruto es como una ciruela en forma y tamaño, y al principio es verde, pero gradualmente se vuelve púrpura, e incluso negro, con un núcleo duro y pedregoso, y se destaca por la parte carnosa exterior en la que se aloja mucho aceite, y no, como es habitual, en la almendra de la semilla. El fruto madura de agosto a septiembre. A veces se come verde, pero su valor principal está en su aceite. Los olivos abiertos utilizados para trabajos de ebanistería eran tan abundantes en Galilea que durante el asedio de Jotapata por Vespasiano el ejército romano fue expulsado de la subida de las murallas al verterles aceite de oliva caliente y escaldarlos debajo de sus armaduras.—Josefo, Guerras, 3;"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 24:20",
+        "original": "Deut. 24:20"
+      },
+      {
+        "reference": "Isaiah 17:6",
+        "original": "Isa. 17:6"
+      },
+      {
+        "reference": "Isaiah 24:13",
+        "original": "Isa 24:13"
+      },
+      {
+        "reference": "Exodus 27:20",
+        "original": "Ex. 27:20"
+      },
+      {
+        "reference": "Micah 6:15",
+        "original": "Micah 6:15"
+      },
+      {
+        "reference": "Judges 15:5",
+        "original": "Judg. 15:5"
+      },
+      {
+        "reference": "1 Samuel 8:14",
+        "original": "1 Samuel 8:14"
+      },
+      {
+        "reference": "1 Chronicles 27:28",
+        "original": "1 Chronicles 27:28"
+      },
+      {
+        "reference": "2 Chronicles 2:10",
+        "original": "2 Chronicles 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:17",
+        "original": "Ezekiel 27:17"
+      },
+      {
+        "reference": "Hosea 12:1",
+        "original": "Hosea 12:1"
+      },
+      {
+        "reference": "1 Kings 6:23",
+        "original": "1 Kings 6:23"
+      },
+      {
+        "reference": "1 Kings 6:31",
+        "original": "1 Kings 6:31"
+      },
+      {
+        "reference": "1 Kings 6:32",
+        "original": "1 Kings 6:32"
+      },
+      {
+        "reference": "1 Kings 6:33",
+        "original": "1 Kings 6:33"
+      },
+      {
+        "reference": "Job 15:33",
+        "original": "Job 15:33"
+      },
+      {
+        "reference": "Habakkuk 3:17",
+        "original": "Habakkuk 3:17"
+      },
+      {
+        "reference": "Romans 11:16-25",
+        "original": "Romans 11:16-25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "ornaments-personal": {
+    "name": "Adornos personales",
+    "slug": "ornaments-personal",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El número, variedad y peso de los adornos que normalmente se usan sobre la persona forman uno de los rasgos característicos del traje oriental, tanto en la antigüedad como en la actualidad. Los monumentos del antiguo Egipto exhiben figuras de damas cargadas con anillos, aretes de muy gran tamaño, tobilleras, brazaletes, pulseras de las más variadas formas, collares ricamente ornamentados y cadenas de diversas clases. Hay pruebas suficientes en la Biblia de que los habitantes de Palestina eran igualmente devotos de las galas. En el Antiguo Testamento. Isaías (Isaías 3:18-23) nos proporciona una descripción detallada de los artículos con los que estaban adornadas las mujeres lujosas de su época. Eliezer decoró a Rebeca con “un aro de oro para la nariz que pesaba medio siclo (1/4 oz) y dos brazaletes para sus manos que pesaban diez siclos (4 1/2 oz) de oro”. (Génesis 23:22.) Las esposas de Jacob usaban aretes. (Génesis 35:4) El número de adornos personales que usaban los egipcios, particularmente las mujeres, 19 se notó incidentalmente en (Éxodo 3:22)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18-23",
+        "original": "Isaiah 3:18-23"
+      },
+      {
+        "reference": "Genesis 23:22",
+        "original": "Genesis 23:22"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Genesis 35:4"
+      },
+      {
+        "reference": "Exodus 3:22",
+        "original": "Exodus 3:22"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "osprey": {
+    "name": "Águila pescadora",
+    "slug": "osprey",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. 'ozniyyah, un ave inmunda según la ley mosaica (Lev. 11:13; Deut. 14:12); el águila piscívora (Pandion haliaetus); una de las águilas menores. Pero la palabra hebrea puede usarse para denotar el águila culebrera (Circaetus gallicus del sur de Europa), una de las tribus de águilas más abundantes que se encuentran en Palestina."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea aparece en (Levítico 11:13) y Deuteronomio 14:12 Entonces, el nombre de algún ave inmunda. Probablemente sea el águila pescadora (Pandion haliaetus) o el águila de cola blanca (Haliaetus albicella)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:13",
+        "original": "Lev. 11:13"
+      },
+      {
+        "reference": "Deuteronomy 14:12",
+        "original": "Deut. 14:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "ostrich": {
+    "name": "Avestruz",
+    "slug": "ostrich",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lam. 4:3), la traducción del hebreo pl. enim; Llamado así por su avaricia y glotonería. La alusión aquí es al hábito del avestruz con referencia a sus huevos, que se describe así: “La capa exterior de los huevos generalmente está tan mal cubierta que son destruidos en cantidades por chacales, gatos monteses, etc., y que los nativos se los llevan, sólo teniendo cuidado de no dejar las huellas de sus pisadas, ya que, cuando el avestruz llega y descubre que se descubre su nido, aplasta a toda la cría y construye un nido en otro lugar”. En Job 39:13, esta palabra en la versión autorizada es la traducción de una palabra hebrea (notsah) que significa \"plumas\", como en la versión revisada. En el mismo versículo, la palabra \"pavos reales\" de la versión autorizada es la traducción del hebreo pl. renanim, que significa propiamente “avestruces”, como en la versión revisada. (Ver BÚHO [1])."
+      },
+      {
+        "source": "SMI",
+        "text": "un ave grande, originaria de África y Arabia, de casi tres metros de altura, con cuello largo y alas cortas. Busca lugares retirados (Job 30:29; Lamentaciones 4:13) y tiene un grito lúgubre peculiar que a veces los árabes confunden con el del león. (Miqueas 1:8) En (Job 39:13-18) se encontrará una descripción de los hábitos del pájaro. Los avestruces son polígamos; las gallinas ponen sus huevos promiscuamente en un nido, que no es más que un agujero excavado en la arena; Luego se cubren los huevos hasta una profundidad de aproximadamente un pie y, en el caso de las aves que se encuentran en los trópicos, generalmente se dejan durante la mayor parte del día al calor del sol, mientras los padres se turnan para la incubación durante la noche. Generalmente se apela a la costumbre del avestruz de dejar sus huevos para que maduren con el calor del sol para confirmar el relato bíblico: \"deja sus huevos a la tierra\"; pero probablemente éste sea el caso sólo de las aves tropicales. Creemos que la verdadera explicación de este pasaje es que algunos de los huevos quedan expuestos alrededor del nido para la alimentación de los pájaros jóvenes. Es una creencia generalizada entre los árabes que el avestruz es un pájaro muy estúpido; de hecho, tienen un proverbio: \"estúpido como un avestruz\". Como es bien sabido, el avestruz traga casi cualquier sustancia, hierro, piedras, e incluso se sabe que traga “varias balas de plomo abrasadoras del molde”. Pero en muchos otros aspectos el avestruz no es tan estúpido como parecería, y es muy difícil de capturar. Es la más grande de todas las aves conocidas y quizás el más rápido de todos los animales corredores. -Las plumas más apreciadas son los largos penachos blancos de las alas. Los mejores son traídos de Berbería y de la costa occidental de África."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Lamentations 4:3",
+        "original": "Lam. 4:3"
+      },
+      {
+        "reference": "Job 39:13",
+        "original": "Job 39:13"
+      },
+      {
+        "reference": "Job 30:29",
+        "original": "Job 30:29"
+      },
+      {
+        "reference": "Lamentations 4:13",
+        "original": "Lamentations 4:13"
+      },
+      {
+        "reference": "Micah 1:8",
+        "original": "Micah 1:8"
+      },
+      {
+        "reference": "Job 39:13-18",
+        "original": "Job 39:13-18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "ouches": {
+    "name": "¡Ay!",
+    "slug": "ouches",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Palabra en inglés antiguo que denota cavidades o encajes en los que se engastaron gemas (Éxodo 28:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:11",
+        "original": "Ex. 28:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "ox-goad": {
+    "name": "aguijón de buey",
+    "slug": "ox-goad",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado sólo en Jue. 3:31, el arma con la que Samgar mató a seiscientos filisteos. \"El labrador todavía lleva su aguijón, un arma aparentemente más adecuada para la mano del soldado que para la del pacífico labrador. La que vi era del 'roble de Basán' y medía más de diez pies de largo. En un extremo había una lanza de hierro, y en el otro un trozo del mismo metal aplanado. Uno puede entender bien cómo un guerrero podría usar tal arma con efecto en el campo de batalla\" (La Siria de Porter, etc.). (Ver GOAD.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 3:31",
+        "original": "Judg. 3:31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "pavement": {
+    "name": "Acera",
+    "slug": "pavement",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Era costumbre de los gobernadores romanos erigir sus tribunales en lugares abiertos, como la plaza del mercado, el circo o incluso la carretera. Pilato hizo que su tribunal se estableciera en un lugar llamado “el pavimento” (Juan 19:13), es decir, un lugar pavimentado con un mosaico de piedras de colores. Probablemente era un lugar así preparado frente a la “sala del juicio”. (Ver GABATA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Gabata]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 19:13",
+        "original": "John 19:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
   }
 }

@@ -16271,5 +16271,34 @@
       "EAS"
     ],
     "letter": "m"
+  },
+  "nun": {
+    "name": "Monja",
+    "slug": "nun",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Más allá del hecho de que fue el padre de Josué, no se sabe nada más de él (Éxodo 33:11)."
+      },
+      {
+        "source": "SMI",
+        "text": "(pez, o posteridad), el padre del capitán judío Josué. (Éxodo 33:11), etc. Su descendencia genealógica de Efraín está registrada en (1 Crónicas 7:1)... (A.C. antes de 1530.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 33:11",
+        "original": "Ex. 33:11"
+      },
+      {
+        "reference": "1 Chronicles 7:1",
+        "original": "1 Chronicles 7:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
   }
 }
