@@ -16439,5 +16439,33 @@
       "SMI"
     ],
     "letter": "j"
+  },
+  "rush": {
+    "name": "Junco",
+    "slug": "rush",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O papiro (Jó 8:11). (Veja JUNCAL.) A expressão “ramo e junco” em Isaías 9:14; 19:15 significa “completamente”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 8:11",
+        "original": "Job 8:11"
+      },
+      {
+        "reference": "Isaiah 9:14",
+        "original": "Isa. 9:14"
+      },
+      {
+        "reference": "Isaiah 19:15",
+        "original": "Isa 19:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
   }
 }

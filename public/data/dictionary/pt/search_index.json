@@ -3525,7 +3525,7 @@
     "letter": "a"
   },
   {
-    "name": "Árvore-de-Shittah",
+    "name": "Árvore de Sitim",
     "slug": "shittah-tree",
     "letter": "a"
   },
@@ -3545,7 +3545,7 @@
     "letter": "a"
   },
   {
-    "name": "Adivinho",
+    "name": "Adivinhador",
     "slug": "soothsayer",
     "letter": "a"
   },
@@ -3782,6 +3782,36 @@
   {
     "name": "Ano, Licença sabática",
     "slug": "year-sabbatical",
+    "letter": "a"
+  },
+  {
+    "name": "Anel",
+    "slug": "ring",
+    "letter": "a"
+  },
+  {
+    "name": "Arruda",
+    "slug": "rue",
+    "letter": "a"
+  },
+  {
+    "name": "Aio",
+    "slug": "schoolmaster",
+    "letter": "a"
+  },
+  {
+    "name": "Alforge",
+    "slug": "scrip",
+    "letter": "a"
+  },
+  {
+    "name": "Aprisco",
+    "slug": "sheep-fold",
+    "letter": "a"
+  },
+  {
+    "name": "Assembleia solene",
+    "slug": "solemn-meeting",
     "letter": "a"
   },
   {
@@ -5660,7 +5690,7 @@
     "letter": "b"
   },
   {
-    "name": "Bode expiatório",
+    "name": "Bode Expiatório",
     "slug": "scapegoat",
     "letter": "b"
   },
@@ -5742,6 +5772,16 @@
   {
     "name": "Bom dia",
     "slug": "zebah",
+    "letter": "b"
+  },
+  {
+    "name": "Betume",
+    "slug": "slime",
+    "letter": "b"
+  },
+  {
+    "name": "Bocado",
+    "slug": "sop",
     "letter": "b"
   },
   {
@@ -7840,7 +7880,7 @@
     "letter": "c"
   },
   {
-    "name": "Chifres de carneiro",
+    "name": "Chifres de Carneiro",
     "slug": "rams-horns",
     "letter": "c"
   },
@@ -7880,7 +7920,7 @@
     "letter": "c"
   },
   {
-    "name": "Cidade de Salt",
+    "name": "Cidade do Sal",
     "slug": "salt-city-of",
     "letter": "c"
   },
@@ -7905,7 +7945,7 @@
     "letter": "c"
   },
   {
-    "name": "cita",
+    "name": "Cita",
     "slug": "scythian",
     "letter": "c"
   },
@@ -7950,7 +7990,7 @@
     "letter": "c"
   },
   {
-    "name": "Crânio, O lugar de um",
+    "name": "Caveira, lugar da",
     "slug": "skull-the-place-of-a",
     "letter": "c"
   },
@@ -7965,7 +8005,7 @@
     "letter": "c"
   },
   {
-    "name": "Cântico de Salomão",
+    "name": "Cântico dos Cânticos",
     "slug": "solomon-song-of",
     "letter": "c"
   },
@@ -8077,6 +8117,86 @@
   {
     "name": "Cidade de Zareth",
     "slug": "zarethshahar",
+    "letter": "c"
+  },
+  {
+    "name": "Corvo",
+    "slug": "raven",
+    "letter": "c"
+  },
+  {
+    "name": "Caniço",
+    "slug": "reed",
+    "letter": "c"
+  },
+  {
+    "name": "Corça",
+    "slug": "roe",
+    "letter": "c"
+  },
+  {
+    "name": "Corça, Cabrito Montês",
+    "slug": "roe-roebuck",
+    "letter": "c"
+  },
+  {
+    "name": "Cordas do leme",
+    "slug": "rudder-bands",
+    "letter": "c"
+  },
+  {
+    "name": "Caminhada de um sábado",
+    "slug": "sabbath-day-s-journey",
+    "letter": "c"
+  },
+  {
+    "name": "Caminhada de dia de sábado",
+    "slug": "sabbathdays-journey",
+    "letter": "c"
+  },
+  {
+    "name": "Cidade do Sal",
+    "slug": "salt-the-city-of",
+    "letter": "c"
+  },
+  {
+    "name": "Ceva",
+    "slug": "sceva",
+    "letter": "c"
+  },
+  {
+    "name": "Citópolis",
+    "slug": "scythopolis",
+    "letter": "c"
+  },
+  {
+    "name": "Cozinhar",
+    "slug": "seethe",
+    "letter": "c"
+  },
+  {
+    "name": "Casa de Tosa",
+    "slug": "shearing-house",
+    "letter": "c"
+  },
+  {
+    "name": "Casa de Tosa, A",
+    "slug": "shearinghouse-the",
+    "letter": "c"
+  },
+  {
+    "name": "Chibolete",
+    "slug": "shibboleth",
+    "letter": "c"
+  },
+  {
+    "name": "Calçado",
+    "slug": "shoe",
+    "letter": "c"
+  },
+  {
+    "name": "Cânticos",
+    "slug": "songs",
     "letter": "c"
   },
   {
@@ -10695,7 +10815,7 @@
     "letter": "e"
   },
   {
-    "name": "Escritores",
+    "name": "Escribas",
     "slug": "scribes",
     "letter": "e"
   },
@@ -10705,7 +10825,7 @@
     "letter": "e"
   },
   {
-    "name": "Estações do ano",
+    "name": "Estações",
     "slug": "seasons",
     "letter": "e"
   },
@@ -11667,6 +11787,26 @@
   {
     "name": "Fanático",
     "slug": "zelotes",
+    "letter": "f"
+  },
+  {
+    "name": "Fileiras",
+    "slug": "ranges",
+    "letter": "f"
+  },
+  {
+    "name": "Funda",
+    "slug": "sling",
+    "letter": "f"
+  },
+  {
+    "name": "Ferreiro",
+    "slug": "smith",
+    "letter": "f"
+  },
+  {
+    "name": "Filho",
+    "slug": "son",
     "letter": "f"
   },
   {
@@ -17115,6 +17255,11 @@
     "letter": "j"
   },
   {
+    "name": "Junco",
+    "slug": "rush",
+    "letter": "j"
+  },
+  {
     "name": "Kabzeel",
     "slug": "kabzeel",
     "letter": "k"
@@ -18000,7 +18145,7 @@
     "letter": "l"
   },
   {
-    "name": "Línguas semíticas",
+    "name": "Línguas Semíticas",
     "slug": "semitic-languages",
     "letter": "l"
   },
@@ -18010,7 +18155,7 @@
     "letter": "l"
   },
   {
-    "name": "Línguas semíticas",
+    "name": "Línguas Semíticas",
     "slug": "shemitic-languages",
     "letter": "l"
   },
@@ -18102,6 +18247,16 @@
   {
     "name": "Luta livre",
     "slug": "wrestling",
+    "letter": "l"
+  },
+  {
+    "name": "Lugar",
+    "slug": "room",
+    "letter": "l"
+  },
+  {
+    "name": "Laço",
+    "slug": "snare",
     "letter": "l"
   },
   {
@@ -20365,12 +20520,12 @@
     "letter": "m"
   },
   {
-    "name": "Mar, Derretido",
+    "name": "Mar, Fundido",
     "slug": "sea-molten",
     "letter": "m"
   },
   {
-    "name": "Mar, O derretido",
+    "name": "Mar, O fundido",
     "slug": "sea-the-molten",
     "letter": "m"
   },
@@ -20385,7 +20540,7 @@
     "letter": "m"
   },
   {
-    "name": "Mercado de ovinos",
+    "name": "Mercado de Ovelhas",
     "slug": "sheep-market",
     "letter": "m"
   },
@@ -20447,6 +20602,26 @@
   {
     "name": "Mulher",
     "slug": "zenan",
+    "letter": "m"
+  },
+  {
+    "name": "Mar",
+    "slug": "sea",
+    "letter": "m"
+  },
+  {
+    "name": "Mar, O",
+    "slug": "sea-the",
+    "letter": "m"
+  },
+  {
+    "name": "Mar, O Mar Salgado",
+    "slug": "sea-the-salt",
+    "letter": "m"
+  },
+  {
+    "name": "Mercado de Ovelhas, O",
+    "slug": "sheepmarket-the",
     "letter": "m"
   },
   {
@@ -21310,6 +21485,11 @@
     "letter": "n"
   },
   {
+    "name": "Navalha",
+    "slug": "razor",
+    "letter": "n"
+  },
+  {
     "name": "Oolá",
     "slug": "aholah",
     "letter": "o"
@@ -21935,7 +22115,7 @@
     "letter": "o"
   },
   {
-    "name": "Ovelhas",
+    "name": "Ovelha",
     "slug": "sheep",
     "letter": "o"
   },
@@ -21955,7 +22135,7 @@
     "letter": "o"
   },
   {
-    "name": "Os Shillemitas, Os",
+    "name": "Os Silemitas",
     "slug": "shillemites-the",
     "letter": "o"
   },
@@ -22222,6 +22402,21 @@
   {
     "name": "O Ramatita",
     "slug": "ramathite-the",
+    "letter": "o"
+  },
+  {
+    "name": "O Livro de Rute",
+    "slug": "ruth-the-book-of",
+    "letter": "o"
+  },
+  {
+    "name": "Oficiais (Lictores)",
+    "slug": "sergeants",
+    "letter": "o"
+  },
+  {
+    "name": "O Sifita",
+    "slug": "shiphmite-the",
     "letter": "o"
   },
   {
@@ -23750,7 +23945,7 @@
     "letter": "p"
   },
   {
-    "name": "Panela fervendo",
+    "name": "Panela fervente",
     "slug": "seething-pot",
     "letter": "p"
   },
@@ -23795,7 +23990,7 @@
     "letter": "p"
   },
   {
-    "name": "Pães da Presença",
+    "name": "Pães da Proposição",
     "slug": "shewbread",
     "letter": "p"
   },
@@ -23830,7 +24025,7 @@
     "letter": "p"
   },
   {
-    "name": "Pele, casacos feitos de",
+    "name": "Peles, túnicas feitas de",
     "slug": "skin-coats-made-of",
     "letter": "p"
   },
@@ -24002,6 +24197,36 @@
   {
     "name": "Passas",
     "slug": "raisins",
+    "letter": "p"
+  },
+  {
+    "name": "Porta das Ovelhas",
+    "slug": "sheep-gate",
+    "letter": "p"
+  },
+  {
+    "name": "Porta das Ovelhas, A",
+    "slug": "sheepgate-the",
+    "letter": "p"
+  },
+  {
+    "name": "Pratinha",
+    "slug": "silverling",
+    "letter": "p"
+  },
+  {
+    "name": "Pratinhas",
+    "slug": "silverlings",
+    "letter": "p"
+  },
+  {
+    "name": "Pecado",
+    "slug": "sin",
+    "letter": "p"
+  },
+  {
+    "name": "Pórtico de Salomão",
+    "slug": "solomons-porch",
     "letter": "p"
   },
   {
@@ -24830,17 +25055,17 @@
     "letter": "r"
   },
   {
-    "name": "Ramsés, ou Raamses",
+    "name": "Ramsés, ou Raamsés",
     "slug": "rameses-or-raamses",
     "letter": "r"
   },
   {
-    "name": "Ramiah",
+    "name": "Ramias",
     "slug": "ramiah",
     "letter": "r"
   },
   {
-    "name": "Ramoth",
+    "name": "Ramote",
     "slug": "ramoth",
     "letter": "r"
   },
@@ -24860,7 +25085,7 @@
     "letter": "r"
   },
   {
-    "name": "Rafael",
+    "name": "Rafa",
     "slug": "rapha",
     "letter": "r"
   },
@@ -24870,12 +25095,12 @@
     "letter": "r"
   },
   {
-    "name": "Raphon",
+    "name": "Rafom",
     "slug": "raphon",
     "letter": "r"
   },
   {
-    "name": "Rafael",
+    "name": "Rafu",
     "slug": "raphu",
     "letter": "r"
   },
@@ -24885,12 +25110,12 @@
     "letter": "r"
   },
   {
-    "name": "Realia",
+    "name": "Reaías",
     "slug": "reaia",
     "letter": "r"
   },
   {
-    "name": "Reaiah",
+    "name": "Reaías",
     "slug": "reaiah",
     "letter": "r"
   },
@@ -24900,17 +25125,17 @@
     "letter": "r"
   },
   {
-    "name": "Rebecca",
+    "name": "Rebeca",
     "slug": "rebecca",
     "letter": "r"
   },
   {
-    "name": "Rebekah",
+    "name": "Rebeca",
     "slug": "rebekah",
     "letter": "r"
   },
   {
-    "name": "Rechabita",
+    "name": "Recabe",
     "slug": "rechab",
     "letter": "r"
   },
@@ -24940,7 +25165,7 @@
     "letter": "r"
   },
   {
-    "name": "Reelaiah",
+    "name": "Reelaías",
     "slug": "reelaiah",
     "letter": "r"
   },
@@ -24955,12 +25180,12 @@
     "letter": "r"
   },
   {
-    "name": "Rei",
+    "name": "Regém",
     "slug": "regem",
     "letter": "r"
   },
   {
-    "name": "Rei-melech",
+    "name": "Regém-Meleque",
     "slug": "regem-melech",
     "letter": "r"
   },
@@ -24970,7 +25195,7 @@
     "letter": "r"
   },
   {
-    "name": "Rehabia",
+    "name": "Reabias",
     "slug": "rehabiah",
     "letter": "r"
   },
@@ -24980,7 +25205,7 @@
     "letter": "r"
   },
   {
-    "name": "Rehoboth",
+    "name": "Reobote",
     "slug": "rehoboth",
     "letter": "r"
   },
@@ -24995,42 +25220,42 @@
     "letter": "r"
   },
   {
-    "name": "Rekem",
+    "name": "Requém",
     "slug": "rekem",
     "letter": "r"
   },
   {
-    "name": "Remaliah",
+    "name": "Remalias",
     "slug": "remaliah",
     "letter": "r"
   },
   {
-    "name": "Remeth",
+    "name": "Remete",
     "slug": "remeth",
     "letter": "r"
   },
   {
-    "name": "Remmon",
+    "name": "Remom",
     "slug": "remmon",
     "letter": "r"
   },
   {
-    "name": "Remmon-methoar",
+    "name": "Remom-Metôar",
     "slug": "remmon-methoar",
     "letter": "r"
   },
   {
-    "name": "Remmonmethoar",
+    "name": "Remom-Metôar",
     "slug": "remmonmethoar",
     "letter": "r"
   },
   {
-    "name": "Rephael",
+    "name": "Refael",
     "slug": "rephael",
     "letter": "r"
   },
   {
-    "name": "Repetir",
+    "name": "Refá",
     "slug": "rephah",
     "letter": "r"
   },
@@ -25040,17 +25265,17 @@
     "letter": "r"
   },
   {
-    "name": "Refaim",
+    "name": "Refains",
     "slug": "rephaim",
     "letter": "r"
   },
   {
-    "name": "Rephaim, O Vale de",
+    "name": "Refains, o Vale de",
     "slug": "rephaim-the-valley-of",
     "letter": "r"
   },
   {
-    "name": "Rephan",
+    "name": "Refã",
     "slug": "rephan",
     "letter": "r"
   },
@@ -25070,17 +25295,17 @@
     "letter": "r"
   },
   {
-    "name": "Rir",
+    "name": "Reú",
     "slug": "reu",
     "letter": "r"
   },
   {
-    "name": "Reuben",
+    "name": "Rúben",
     "slug": "reuben",
     "letter": "r"
   },
   {
-    "name": "Régua",
+    "name": "Reuel",
     "slug": "reuel",
     "letter": "r"
   },
@@ -25090,7 +25315,7 @@
     "letter": "r"
   },
   {
-    "name": "Rezeph",
+    "name": "Rezefe",
     "slug": "rezeph",
     "letter": "r"
   },
@@ -25100,57 +25325,57 @@
     "letter": "r"
   },
   {
-    "name": "Regium",
+    "name": "Régio",
     "slug": "rhegium",
     "letter": "r"
   },
   {
-    "name": "Rhesa",
+    "name": "Resa",
     "slug": "rhesa",
     "letter": "r"
   },
   {
-    "name": "Ribai, ou Ribai",
+    "name": "Ribai",
     "slug": "ribai-or-ribai",
     "letter": "r"
   },
   {
-    "name": "Riblah",
+    "name": "Ribla",
     "slug": "riblah",
     "letter": "r"
   },
   {
-    "name": "Rimmon",
+    "name": "Rimon",
     "slug": "rimmon",
     "letter": "r"
   },
   {
-    "name": "Rimmon-Parez",
+    "name": "Rimom-Parez",
     "slug": "rimmon-parez",
     "letter": "r"
   },
   {
-    "name": "Rinnah",
+    "name": "Rina",
     "slug": "rinnah",
     "letter": "r"
   },
   {
-    "name": "Riphath",
+    "name": "Rifate",
     "slug": "riphath",
     "letter": "r"
   },
   {
-    "name": "Rissah",
+    "name": "Rissa",
     "slug": "rissah",
     "letter": "r"
   },
   {
-    "name": "Rithmah",
+    "name": "Ritma",
     "slug": "rithmah",
     "letter": "r"
   },
   {
-    "name": "Riusah",
+    "name": "Riusa",
     "slug": "riusah",
     "letter": "r"
   },
@@ -25165,7 +25390,7 @@
     "letter": "r"
   },
   {
-    "name": "Rio de Gad",
+    "name": "Rio de Gade",
     "slug": "river-of-gad",
     "letter": "r"
   },
@@ -25175,7 +25400,7 @@
     "letter": "r"
   },
   {
-    "name": "Rios da Babilônia",
+    "name": "Rios de Babilônia",
     "slug": "rivers-of-babylon",
     "letter": "r"
   },
@@ -25190,7 +25415,7 @@
     "letter": "r"
   },
   {
-    "name": "Rizpa",
+    "name": "Rispa",
     "slug": "rizpah",
     "letter": "r"
   },
@@ -25200,7 +25425,7 @@
     "letter": "r"
   },
   {
-    "name": "Rock",
+    "name": "Rocha",
     "slug": "rock",
     "letter": "r"
   },
@@ -25215,7 +25440,7 @@
     "letter": "r"
   },
   {
-    "name": "Romântico",
+    "name": "Romamtiezer",
     "slug": "romamtiezer",
     "letter": "r"
   },
@@ -25225,7 +25450,7 @@
     "letter": "r"
   },
   {
-    "name": "Rose",
+    "name": "Rosa",
     "slug": "rose",
     "letter": "r"
   },
@@ -25240,7 +25465,7 @@
     "letter": "r"
   },
   {
-    "name": "Ruby",
+    "name": "Rubi",
     "slug": "ruby",
     "letter": "r"
   },
@@ -25250,17 +25475,17 @@
     "letter": "r"
   },
   {
-    "name": "Ruivo",
+    "name": "Rufo",
     "slug": "rufus",
     "letter": "r"
   },
   {
-    "name": "Ruhamah",
+    "name": "Ruama",
     "slug": "ruhamah",
     "letter": "r"
   },
   {
-    "name": "Ruhamah, ou Ruhamah",
+    "name": "Ruama, ou Ruama",
     "slug": "ruhamah-or-ruhamah",
     "letter": "r"
   },
@@ -25270,7 +25495,7 @@
     "letter": "r"
   },
   {
-    "name": "Ruth",
+    "name": "Rute",
     "slug": "ruth",
     "letter": "r"
   },
@@ -25412,6 +25637,136 @@
   {
     "name": "Ramate-Leí",
     "slug": "ramathlehi",
+    "letter": "r"
+  },
+  {
+    "name": "Recá",
+    "slug": "rechah",
+    "letter": "r"
+  },
+  {
+    "name": "Registrador",
+    "slug": "recorder",
+    "letter": "r"
+  },
+  {
+    "name": "Refúgio, Cidades de",
+    "slug": "refuges-cities-of",
+    "letter": "r"
+  },
+  {
+    "name": "Regém-Meleque",
+    "slug": "regemmelech",
+    "letter": "r"
+  },
+  {
+    "name": "Reobe",
+    "slug": "rehob",
+    "letter": "r"
+  },
+  {
+    "name": "Reum",
+    "slug": "rehum",
+    "letter": "r"
+  },
+  {
+    "name": "Renfã",
+    "slug": "remphan",
+    "letter": "r"
+  },
+  {
+    "name": "Rasgado",
+    "slug": "rent",
+    "letter": "r"
+  },
+  {
+    "name": "Refains, Vale de",
+    "slug": "rephaim-valley-of",
+    "letter": "r"
+  },
+  {
+    "name": "Réprobo",
+    "slug": "reprobate",
+    "letter": "r"
+  },
+  {
+    "name": "Retaguarda",
+    "slug": "rereward",
+    "letter": "r"
+  },
+  {
+    "name": "Resém",
+    "slug": "resen",
+    "letter": "r"
+  },
+  {
+    "name": "Resefe",
+    "slug": "resheph",
+    "letter": "r"
+  },
+  {
+    "name": "Rúben, Tribo de",
+    "slug": "reuben-tribe-of",
+    "letter": "r"
+  },
+  {
+    "name": "Reumá",
+    "slug": "reumah",
+    "letter": "r"
+  },
+  {
+    "name": "Revelação",
+    "slug": "revelation",
+    "letter": "r"
+  },
+  {
+    "name": "Rezim",
+    "slug": "rezin",
+    "letter": "r"
+  },
+  {
+    "name": "Rezon",
+    "slug": "rezon",
+    "letter": "r"
+  },
+  {
+    "name": "Rode",
+    "slug": "rhoda",
+    "letter": "r"
+  },
+  {
+    "name": "Rodes",
+    "slug": "rhodes",
+    "letter": "r"
+  },
+  {
+    "name": "Rogá",
+    "slug": "rohgah",
+    "letter": "r"
+  },
+  {
+    "name": "Rolo",
+    "slug": "roll",
+    "letter": "r"
+  },
+  {
+    "name": "Romamti-Ezer",
+    "slug": "romamti-ezer",
+    "letter": "r"
+  },
+  {
+    "name": "Romanos, Epístola aos",
+    "slug": "romans-epistle-to-the",
+    "letter": "r"
+  },
+  {
+    "name": "Resina",
+    "slug": "rosin",
+    "letter": "r"
+  },
+  {
+    "name": "Ruma",
+    "slug": "rumah",
     "letter": "r"
   },
   {
@@ -25635,17 +25990,17 @@
     "letter": "s"
   },
   {
-    "name": "Sabachthani, ou Sabachthani",
+    "name": "Sabactâni, ou Sabactâni",
     "slug": "sabachthani-or-sabachthani",
     "letter": "s"
   },
   {
-    "name": "Sabaoth",
+    "name": "Sabaot",
     "slug": "sabaoth",
     "letter": "s"
   },
   {
-    "name": "Sabaoth, O Senhor de",
+    "name": "Sabaot, O Senhor dos",
     "slug": "sabaoth-the-lord-of",
     "letter": "s"
   },
@@ -25655,17 +26010,17 @@
     "letter": "s"
   },
   {
-    "name": "Sabeanos",
+    "name": "Sabeus",
     "slug": "sabeans",
     "letter": "s"
   },
   {
-    "name": "Sabtecha",
+    "name": "Sabtecá",
     "slug": "sabtecha",
     "letter": "s"
   },
   {
-    "name": "Sábado, o nosso sábado",
+    "name": "Sabtecá, ou Sabtecá",
     "slug": "sabtecha-or-sabtechah",
     "letter": "s"
   },
@@ -25675,7 +26030,7 @@
     "letter": "s"
   },
   {
-    "name": "Saco de cilício",
+    "name": "Saco (Sackcloth)",
     "slug": "sackcloth",
     "letter": "s"
   },
@@ -25700,27 +26055,27 @@
     "letter": "s"
   },
   {
-    "name": "Sala, ou Salah",
+    "name": "Sala, ou Salá",
     "slug": "sala-or-salah",
     "letter": "s"
   },
   {
-    "name": "Salamis",
+    "name": "Salamina",
     "slug": "salamis",
     "letter": "s"
   },
   {
-    "name": "Salatiél",
+    "name": "Salatiel",
     "slug": "salathiel",
     "letter": "s"
   },
   {
-    "name": "Salcah",
+    "name": "Salcá",
     "slug": "salcah",
     "letter": "s"
   },
   {
-    "name": "Salcah, ou Salchah",
+    "name": "Salcá, ou Salca",
     "slug": "salcah-or-salchah",
     "letter": "s"
   },
@@ -25730,17 +26085,17 @@
     "letter": "s"
   },
   {
-    "name": "Salma ou Salmão",
+    "name": "Salma, ou Salmom",
     "slug": "salma-or-salmon",
     "letter": "s"
   },
   {
-    "name": "Salmão",
+    "name": "Salmom",
     "slug": "salmon",
     "letter": "s"
   },
   {
-    "name": "Salmão",
+    "name": "Salmone",
     "slug": "salmone",
     "letter": "s"
   },
@@ -25755,7 +26110,7 @@
     "letter": "s"
   },
   {
-    "name": "Saudações",
+    "name": "Saudação",
     "slug": "salutation",
     "letter": "s"
   },
@@ -25780,7 +26135,7 @@
     "letter": "s"
   },
   {
-    "name": "Samgar-ou",
+    "name": "Samgar-Nebo",
     "slug": "samgar-nebo",
     "letter": "s"
   },
@@ -25815,7 +26170,7 @@
     "letter": "s"
   },
   {
-    "name": "Sanbalate",
+    "name": "Sambalate",
     "slug": "sanballat",
     "letter": "s"
   },
@@ -25840,17 +26195,17 @@
     "letter": "s"
   },
   {
-    "name": "Sanhedrin",
+    "name": "Sinédrio (Sanhedrim)",
     "slug": "sanhedrim",
     "letter": "s"
   },
   {
-    "name": "Sanhedrin",
+    "name": "Sinédrio",
     "slug": "sanhedrin",
     "letter": "s"
   },
   {
-    "name": "Safira",
+    "name": "Safir",
     "slug": "saphir",
     "letter": "s"
   },
@@ -25860,32 +26215,32 @@
     "letter": "s"
   },
   {
-    "name": "Safira",
+    "name": "Safira (Pedra)",
     "slug": "sapphire",
     "letter": "s"
   },
   {
-    "name": "Sarah",
+    "name": "Sara",
     "slug": "sarah",
     "letter": "s"
   },
   {
-    "name": "Sarah",
+    "name": "Sarai",
     "slug": "sarai",
     "letter": "s"
   },
   {
-    "name": "Sardinhas, Sardius",
+    "name": "Sárdio, Sardônio",
     "slug": "sardine-sardius",
     "letter": "s"
   },
   {
-    "name": "Sárdis",
+    "name": "Sardes",
     "slug": "sardis",
     "letter": "s"
   },
   {
-    "name": "Sardônica",
+    "name": "Sardônio",
     "slug": "sardonyx",
     "letter": "s"
   },
@@ -25900,12 +26255,12 @@
     "letter": "s"
   },
   {
-    "name": "Sardinha",
+    "name": "Saride",
     "slug": "sarid",
     "letter": "s"
   },
   {
-    "name": "Sarothie",
+    "name": "Saroti",
     "slug": "sarothie",
     "letter": "s"
   },
@@ -25950,27 +26305,27 @@
     "letter": "s"
   },
   {
-    "name": "Seah",
+    "name": "Sea (Seá)",
     "slug": "seah",
     "letter": "s"
   },
   {
-    "name": "Sebat",
+    "name": "Sebate",
     "slug": "sebat",
     "letter": "s"
   },
   {
-    "name": "Secacah, ou Secacah",
+    "name": "Secaca, ou Secaca",
     "slug": "secacah-or-secacah",
     "letter": "s"
   },
   {
-    "name": "Seção",
+    "name": "Seita",
     "slug": "sect",
     "letter": "s"
   },
   {
-    "name": "Segundo",
+    "name": "Secundo",
     "slug": "secundus",
     "letter": "s"
   },
@@ -25980,22 +26335,22 @@
     "letter": "s"
   },
   {
-    "name": "Seirath",
+    "name": "Seirate",
     "slug": "seirath",
     "letter": "s"
   },
   {
-    "name": "Sela, ou Selá",
+    "name": "Sela, ou Sela",
     "slug": "sela-or-selah",
     "letter": "s"
   },
   {
-    "name": "Selahammahlekoth",
+    "name": "Sela-Hamalecote",
     "slug": "selahammahlekoth",
     "letter": "s"
   },
   {
-    "name": "Selecionado",
+    "name": "Seled",
     "slug": "seled",
     "letter": "s"
   },
@@ -26020,7 +26375,7 @@
     "letter": "s"
   },
   {
-    "name": "Semacias",
+    "name": "Semaquias",
     "slug": "semachiah",
     "letter": "s"
   },
@@ -26035,7 +26390,7 @@
     "letter": "s"
   },
   {
-    "name": "Senaah",
+    "name": "Senaá",
     "slug": "senaah",
     "letter": "s"
   },
@@ -26055,7 +26410,7 @@
     "letter": "s"
   },
   {
-    "name": "Senuah",
+    "name": "Senuá",
     "slug": "senuah",
     "letter": "s"
   },
@@ -26065,12 +26420,12 @@
     "letter": "s"
   },
   {
-    "name": "Separar",
+    "name": "Sefar",
     "slug": "sephar",
     "letter": "s"
   },
   {
-    "name": "Sefarad",
+    "name": "Sefarade",
     "slug": "sepharad",
     "letter": "s"
   },
@@ -26085,7 +26440,7 @@
     "letter": "s"
   },
   {
-    "name": "Serah",
+    "name": "Sera",
     "slug": "serah",
     "letter": "s"
   },
@@ -26095,7 +26450,7 @@
     "letter": "s"
   },
   {
-    "name": "Serafim",
+    "name": "Serafins",
     "slug": "seraphim",
     "letter": "s"
   },
@@ -26105,7 +26460,7 @@
     "letter": "s"
   },
   {
-    "name": "Sermão da Montanha",
+    "name": "Sermão do monte",
     "slug": "sermon-on-the-mount",
     "letter": "s"
   },
@@ -26115,12 +26470,12 @@
     "letter": "s"
   },
   {
-    "name": "Serpente, Ígnea",
+    "name": "Serpente, Ardente",
     "slug": "serpent-fiery",
     "letter": "s"
   },
   {
-    "name": "Serug",
+    "name": "Serugue",
     "slug": "serug",
     "letter": "s"
   },
@@ -26130,17 +26485,17 @@
     "letter": "s"
   },
   {
-    "name": "Servo",
+    "name": "Servidor",
     "slug": "servitor",
     "letter": "s"
   },
   {
-    "name": "Seth",
+    "name": "Sete",
     "slug": "seth",
     "letter": "s"
   },
   {
-    "name": "Sete",
+    "name": "Sete (número)",
     "slug": "seven",
     "letter": "s"
   },
@@ -26150,27 +26505,27 @@
     "letter": "s"
   },
   {
-    "name": "Shaalbim, ou Shaalabbin",
+    "name": "Saalabim, ou Saalabim",
     "slug": "shaalbim-or-shaalabbin",
     "letter": "s"
   },
   {
-    "name": "Shaalbonita, A",
+    "name": "Saalbonita, O",
     "slug": "shaalbonite-the",
     "letter": "s"
   },
   {
-    "name": "Se apresse",
+    "name": "Saasgaz",
     "slug": "shaashgaz",
     "letter": "s"
   },
   {
-    "name": "Shabbethai",
+    "name": "Sabetai",
     "slug": "shabbethai",
     "letter": "s"
   },
   {
-    "name": "Shachia",
+    "name": "Saquia",
     "slug": "shachia",
     "letter": "s"
   },
@@ -26180,92 +26535,92 @@
     "letter": "s"
   },
   {
-    "name": "Shadrach",
+    "name": "Sadraque",
     "slug": "shadrach",
     "letter": "s"
   },
   {
-    "name": "Shage",
+    "name": "Sage",
     "slug": "shage",
     "letter": "s"
   },
   {
-    "name": "Shalem",
+    "name": "Salém",
     "slug": "shalem",
     "letter": "s"
   },
   {
-    "name": "Shalim, Terra de",
+    "name": "Salim, Terra de",
     "slug": "shalim-land-of",
     "letter": "s"
   },
   {
-    "name": "Shalim, a Terra de",
+    "name": "Salim, A Terra de",
     "slug": "shalim-the-land-of",
     "letter": "s"
   },
   {
-    "name": "Shalisha, Terra de",
+    "name": "Salisa, Terra de",
     "slug": "shalisha-land-of",
     "letter": "s"
   },
   {
-    "name": "Shalisha, a Terra de",
+    "name": "Salisa, A Terra de",
     "slug": "shalisha-the-land-of",
     "letter": "s"
   },
   {
-    "name": "Shallecheth",
+    "name": "Salequete",
     "slug": "shallecheth",
     "letter": "s"
   },
   {
-    "name": "Shallecheth, O portão de",
+    "name": "Salequete, A porta de",
     "slug": "shallecheth-the-gate-of",
     "letter": "s"
   },
   {
-    "name": "Shallum",
+    "name": "Salum",
     "slug": "shallum",
     "letter": "s"
   },
   {
-    "name": "Shalmai",
+    "name": "Salmai",
     "slug": "shalmai",
     "letter": "s"
   },
   {
-    "name": "Shalman",
+    "name": "Salman",
     "slug": "shalman",
     "letter": "s"
   },
   {
-    "name": "Salmanasar",
+    "name": "Salmaneser",
     "slug": "shalmaneser",
     "letter": "s"
   },
   {
-    "name": "Shama",
+    "name": "Sama",
     "slug": "shama",
     "letter": "s"
   },
   {
-    "name": "Shamariah",
+    "name": "Samarias",
     "slug": "shamariah",
     "letter": "s"
   },
   {
-    "name": "Shamer",
+    "name": "Samer",
     "slug": "shamer",
     "letter": "s"
   },
   {
-    "name": "Shamgar",
+    "name": "Sangár",
     "slug": "shamgar",
     "letter": "s"
   },
   {
-    "name": "Shamir",
+    "name": "Samir",
     "slug": "shamir",
     "letter": "s"
   },
@@ -26275,67 +26630,67 @@
     "letter": "s"
   },
   {
-    "name": "Shammah",
+    "name": "Samá",
     "slug": "shammah",
     "letter": "s"
   },
   {
-    "name": "Shammai",
+    "name": "Samai",
     "slug": "shammai",
     "letter": "s"
   },
   {
-    "name": "Shammoth",
+    "name": "Samote",
     "slug": "shammoth",
     "letter": "s"
   },
   {
-    "name": "Shammua",
+    "name": "Samua",
     "slug": "shammua",
     "letter": "s"
   },
   {
-    "name": "Shammuah",
+    "name": "Samua",
     "slug": "shammuah",
     "letter": "s"
   },
   {
-    "name": "Shamsherai",
+    "name": "Samserai",
     "slug": "shamsherai",
     "letter": "s"
   },
   {
-    "name": "Shapham",
+    "name": "Safã",
     "slug": "shapham",
     "letter": "s"
   },
   {
-    "name": "Shaphan",
+    "name": "Safã",
     "slug": "shaphan",
     "letter": "s"
   },
   {
-    "name": "Shaphat",
+    "name": "Safate",
     "slug": "shaphat",
     "letter": "s"
   },
   {
-    "name": "Shapher",
+    "name": "Safer",
     "slug": "shapher",
     "letter": "s"
   },
   {
-    "name": "Sharaim",
+    "name": "Saraim",
     "slug": "sharaim",
     "letter": "s"
   },
   {
-    "name": "Sharezer",
+    "name": "Sarezer",
     "slug": "sharezer",
     "letter": "s"
   },
   {
-    "name": "Sharon",
+    "name": "Sarom",
     "slug": "sharon",
     "letter": "s"
   },
@@ -26345,42 +26700,42 @@
     "letter": "s"
   },
   {
-    "name": "Sharonita",
+    "name": "Saronita",
     "slug": "sharonite",
     "letter": "s"
   },
   {
-    "name": "Shashak",
+    "name": "Sasaque",
     "slug": "shashak",
     "letter": "s"
   },
   {
-    "name": "Shaul",
+    "name": "Saul",
     "slug": "shaul",
     "letter": "s"
   },
   {
-    "name": "Shaveh",
+    "name": "Savé",
     "slug": "shaveh",
     "letter": "s"
   },
   {
-    "name": "Shaveh-Kiriathaim",
+    "name": "Savé-Quiriataim",
     "slug": "shaveh-kiriathaim",
     "letter": "s"
   },
   {
-    "name": "Shaveh, Vale do",
+    "name": "Savé, Vale de",
     "slug": "shaveh-valley-of",
     "letter": "s"
   },
   {
-    "name": "Shavsha",
+    "name": "Savsa",
     "slug": "shavsha",
     "letter": "s"
   },
   {
-    "name": "Shawm",
+    "name": "Shawm (Flauta)",
     "slug": "shawm",
     "letter": "s"
   },
@@ -26390,17 +26745,17 @@
     "letter": "s"
   },
   {
-    "name": "Shealtiel",
+    "name": "Sealtiel",
     "slug": "shealtiel",
     "letter": "s"
   },
   {
-    "name": "Shear-Jashub",
+    "name": "Sear-Jasube",
     "slug": "shear-jashub",
     "letter": "s"
   },
   {
-    "name": "Sharia",
+    "name": "Sheariah",
     "slug": "sheariah",
     "letter": "s"
   },
@@ -26410,42 +26765,42 @@
     "letter": "s"
   },
   {
-    "name": "Shearjashub",
+    "name": "Sear-Jasube",
     "slug": "shearjashub",
     "letter": "s"
   },
   {
-    "name": "Shebaniah",
+    "name": "Sebanias",
     "slug": "shebaniah",
     "letter": "s"
   },
   {
-    "name": "Shebarim",
+    "name": "Sebarim",
     "slug": "shebarim",
     "letter": "s"
   },
   {
-    "name": "Shebna",
+    "name": "Sebna",
     "slug": "shebna",
     "letter": "s"
   },
   {
-    "name": "Shebuel",
+    "name": "Sebuel",
     "slug": "shebuel",
     "letter": "s"
   },
   {
-    "name": "Shebuel, ou Shebuel",
+    "name": "Sebuel, Ou Sebuel",
     "slug": "shebuel-or-shebuel",
     "letter": "s"
   },
   {
-    "name": "Shecaniah",
+    "name": "Secanias",
     "slug": "shecaniah",
     "letter": "s"
   },
   {
-    "name": "Shechaniah",
+    "name": "Secanias",
     "slug": "shechaniah",
     "letter": "s"
   },
@@ -26455,7 +26810,7 @@
     "letter": "s"
   },
   {
-    "name": "Shechinah",
+    "name": "Shechinah (Shekinah)",
     "slug": "shechinah",
     "letter": "s"
   },
@@ -26465,32 +26820,32 @@
     "letter": "s"
   },
   {
-    "name": "Shehariah",
+    "name": "Searias",
     "slug": "shehariah",
     "letter": "s"
   },
   {
-    "name": "Shekel",
+    "name": "Siclo",
     "slug": "shekel",
     "letter": "s"
   },
   {
-    "name": "Shelah",
+    "name": "Selá",
     "slug": "shelah",
     "letter": "s"
   },
   {
-    "name": "Shelemiah",
+    "name": "Selemias",
     "slug": "shelemiah",
     "letter": "s"
   },
   {
-    "name": "Sheleph",
+    "name": "Selefe",
     "slug": "sheleph",
     "letter": "s"
   },
   {
-    "name": "Shelesh",
+    "name": "Sheles",
     "slug": "shelesh",
     "letter": "s"
   },
@@ -26500,12 +26855,12 @@
     "letter": "s"
   },
   {
-    "name": "Shelomith",
+    "name": "Shelomite",
     "slug": "shelomith",
     "letter": "s"
   },
   {
-    "name": "Shelomoth",
+    "name": "Shelomote",
     "slug": "shelomoth",
     "letter": "s"
   },
@@ -26515,117 +26870,117 @@
     "letter": "s"
   },
   {
-    "name": "Shem",
+    "name": "Sem",
     "slug": "shem",
     "letter": "s"
   },
   {
-    "name": "Shemaah",
+    "name": "Semáa",
     "slug": "shemaah",
     "letter": "s"
   },
   {
-    "name": "Shemaiah",
+    "name": "Semaías",
     "slug": "shemaiah",
     "letter": "s"
   },
   {
-    "name": "Shemariah",
+    "name": "Semarias",
     "slug": "shemariah",
     "letter": "s"
   },
   {
-    "name": "Shember",
+    "name": "Semeber",
     "slug": "shemeber",
     "letter": "s"
   },
   {
-    "name": "Shemer",
+    "name": "Semer",
     "slug": "shemer",
     "letter": "s"
   },
   {
-    "name": "Shemida",
+    "name": "Semida",
     "slug": "shemida",
     "letter": "s"
   },
   {
-    "name": "Shemidah",
+    "name": "Semida",
     "slug": "shemidah",
     "letter": "s"
   },
   {
-    "name": "Sheminith",
+    "name": "Seminite",
     "slug": "sheminith",
     "letter": "s"
   },
   {
-    "name": "Shemiramoth",
+    "name": "Semiramote",
     "slug": "shemiramoth",
     "letter": "s"
   },
   {
-    "name": "Shemuel",
+    "name": "Semuel",
     "slug": "shemuel",
     "letter": "s"
   },
   {
-    "name": "Shenazar",
+    "name": "Senazar",
     "slug": "shenazar",
     "letter": "s"
   },
   {
-    "name": "Shenir",
+    "name": "Senir",
     "slug": "shenir",
     "letter": "s"
   },
   {
-    "name": "Shephathiah",
+    "name": "Sefatias (filho de Benjamim)",
     "slug": "shephathiah",
     "letter": "s"
   },
   {
-    "name": "Shephatiah",
+    "name": "Sefatias",
     "slug": "shephatiah",
     "letter": "s"
   },
   {
-    "name": "Shepho",
+    "name": "Sefo",
     "slug": "shepho",
     "letter": "s"
   },
   {
-    "name": "Shephuphan",
+    "name": "Shefufã",
     "slug": "shephuphan",
     "letter": "s"
   },
   {
-    "name": "Sherah",
+    "name": "Seerá",
     "slug": "sherah",
     "letter": "s"
   },
   {
-    "name": "Sherebiah",
+    "name": "Serebias",
     "slug": "sherebiah",
     "letter": "s"
   },
   {
-    "name": "Sheresh",
+    "name": "Seres",
     "slug": "sheresh",
     "letter": "s"
   },
   {
-    "name": "Sherezer",
+    "name": "Serezer",
     "slug": "sherezer",
     "letter": "s"
   },
   {
-    "name": "Sheshach",
+    "name": "Sesaque",
     "slug": "sheshach",
     "letter": "s"
   },
   {
-    "name": "Sheshan",
+    "name": "Sesã",
     "slug": "sheshan",
     "letter": "s"
   },
@@ -26635,22 +26990,22 @@
     "letter": "s"
   },
   {
-    "name": "Shethar",
+    "name": "Setar",
     "slug": "shethar",
     "letter": "s"
   },
   {
-    "name": "Shethar-boznai",
+    "name": "Setar-Boznai",
     "slug": "shethar-boznai",
     "letter": "s"
   },
   {
-    "name": "Shetharboznai",
+    "name": "Setarbosnai",
     "slug": "shetharboznai",
     "letter": "s"
   },
   {
-    "name": "Sheva",
+    "name": "Seva",
     "slug": "sheva",
     "letter": "s"
   },
@@ -26660,42 +27015,42 @@
     "letter": "s"
   },
   {
-    "name": "Shibmah",
+    "name": "Sibma",
     "slug": "shibmah",
     "letter": "s"
   },
   {
-    "name": "Shiv'á",
+    "name": "Sicrom",
     "slug": "shicron",
     "letter": "s"
   },
   {
-    "name": "Shiggaion",
+    "name": "Sigaiom",
     "slug": "shiggaion",
     "letter": "s"
   },
   {
-    "name": "Shihon",
+    "name": "Siom",
     "slug": "shihon",
     "letter": "s"
   },
   {
-    "name": "Shihor do Egito",
+    "name": "Sior do Egito",
     "slug": "shihor-of-egypt",
     "letter": "s"
   },
   {
-    "name": "Shihor-Libnath",
+    "name": "Sior-Libnate",
     "slug": "shihor-libnath",
     "letter": "s"
   },
   {
-    "name": "Shihorlibnath",
+    "name": "Sior-Libnate",
     "slug": "shihorlibnath",
     "letter": "s"
   },
   {
-    "name": "Shillem",
+    "name": "Silem",
     "slug": "shillem",
     "letter": "s"
   },
@@ -26705,52 +27060,52 @@
     "letter": "s"
   },
   {
-    "name": "Shiloni",
+    "name": "Silonita",
     "slug": "shiloni",
     "letter": "s"
   },
   {
-    "name": "Shilohita",
+    "name": "Silonita",
     "slug": "shilonite",
     "letter": "s"
   },
   {
-    "name": "Shilonite, A",
+    "name": "Silonita, O",
     "slug": "shilonite-the",
     "letter": "s"
   },
   {
-    "name": "Shilshah",
+    "name": "Silsa",
     "slug": "shilshah",
     "letter": "s"
   },
   {
-    "name": "Shimea",
+    "name": "Simeia",
     "slug": "shimea",
     "letter": "s"
   },
   {
-    "name": "Shimeah",
+    "name": "Simeia",
     "slug": "shimeah",
     "letter": "s"
   },
   {
-    "name": "Shimeam",
+    "name": "Simeão",
     "slug": "shimeam",
     "letter": "s"
   },
   {
-    "name": "Shimeath",
+    "name": "Simeate",
     "slug": "shimeath",
     "letter": "s"
   },
   {
-    "name": "Simon",
+    "name": "Simeom",
     "slug": "shimeon",
     "letter": "s"
   },
   {
-    "name": "Shimhi",
+    "name": "Simi",
     "slug": "shimhi",
     "letter": "s"
   },
@@ -26785,7 +27140,7 @@
     "letter": "s"
   },
   {
-    "name": "Shimron-Meron",
+    "name": "Shimron-merom",
     "slug": "shimron-meron",
     "letter": "s"
   },
@@ -26815,12 +27170,12 @@
     "letter": "s"
   },
   {
-    "name": "Shinar, a Terra de",
+    "name": "Sinar, A terra de",
     "slug": "shinar-the-land-of",
     "letter": "s"
   },
   {
-    "name": "Shiphmite",
+    "name": "Sifita",
     "slug": "shiphmite",
     "letter": "s"
   },
@@ -26835,27 +27190,27 @@
     "letter": "s"
   },
   {
-    "name": "Shiphtan",
+    "name": "Siftã",
     "slug": "shiphtan",
     "letter": "s"
   },
   {
-    "name": "Shiramoth",
+    "name": "Siramote",
     "slug": "shiramoth",
     "letter": "s"
   },
   {
-    "name": "Shishak",
+    "name": "Sisaque",
     "slug": "shishak",
     "letter": "s"
   },
   {
-    "name": "Shishak I",
+    "name": "Sisaque I",
     "slug": "shishak-i",
     "letter": "s"
   },
   {
-    "name": "Shittim",
+    "name": "Sitim",
     "slug": "shittim",
     "letter": "s"
   },
@@ -26885,7 +27240,7 @@
     "letter": "s"
   },
   {
-    "name": "Socoh",
+    "name": "Shochoh",
     "slug": "shochoh",
     "letter": "s"
   },
@@ -26925,7 +27280,7 @@
     "letter": "s"
   },
   {
-    "name": "Santuários, Prata",
+    "name": "Santuários de Prata",
     "slug": "shrines-silver",
     "letter": "s"
   },
@@ -26945,7 +27300,7 @@
     "letter": "s"
   },
   {
-    "name": "Shual, a terra de",
+    "name": "Shual, A terra de",
     "slug": "shual-the-land-of",
     "letter": "s"
   },
@@ -26960,12 +27315,12 @@
     "letter": "s"
   },
   {
-    "name": "Shuhite",
+    "name": "Shuhita",
     "slug": "shuhite",
     "letter": "s"
   },
   {
-    "name": "Sulamita",
+    "name": "Shulamita",
     "slug": "shulamite",
     "letter": "s"
   },
@@ -26975,67 +27330,67 @@
     "letter": "s"
   },
   {
-    "name": "Shuppim",
+    "name": "Supim",
     "slug": "shuppim",
     "letter": "s"
   },
   {
-    "name": "Shur",
+    "name": "Sur",
     "slug": "shur",
     "letter": "s"
   },
   {
-    "name": "Shushan",
+    "name": "Susã",
     "slug": "shushan",
     "letter": "s"
   },
   {
-    "name": "Shushan, ou Susa",
+    "name": "Susã, ou Susa",
     "slug": "shushan-or-susa",
     "letter": "s"
   },
   {
-    "name": "Shushan-Eduth",
+    "name": "Susã-Edute",
     "slug": "shushan-eduth",
     "letter": "s"
   },
   {
-    "name": "Shushaneduth",
+    "name": "Susanedute",
     "slug": "shushaneduth",
     "letter": "s"
   },
   {
-    "name": "Shuthelah",
+    "name": "Sutela",
     "slug": "shuthelah",
     "letter": "s"
   },
   {
-    "name": "Seja",
+    "name": "Sia",
     "slug": "sia",
     "letter": "s"
   },
   {
-    "name": "Siaha",
+    "name": "Sia",
     "slug": "siaha",
     "letter": "s"
   },
   {
-    "name": "Sibbecai",
+    "name": "Sibecai",
     "slug": "sibbecai",
     "letter": "s"
   },
   {
-    "name": "Sibbechai",
+    "name": "Sibecai",
     "slug": "sibbechai",
     "letter": "s"
   },
   {
-    "name": "Sibboleth",
+    "name": "Sibolete",
     "slug": "sibboleth",
     "letter": "s"
   },
   {
-    "name": "Sibmah",
+    "name": "Sibma",
     "slug": "sibmah",
     "letter": "s"
   },
@@ -27045,17 +27400,17 @@
     "letter": "s"
   },
   {
-    "name": "Sichem",
+    "name": "Siquém",
     "slug": "sichem",
     "letter": "s"
   },
   {
-    "name": "Sicyon",
+    "name": "Sicião",
     "slug": "sicyon",
     "letter": "s"
   },
   {
-    "name": "Siddim",
+    "name": "Sidim",
     "slug": "siddim",
     "letter": "s"
   },
@@ -27080,7 +27435,7 @@
     "letter": "s"
   },
   {
-    "name": "Sihor",
+    "name": "Sior",
     "slug": "sihor",
     "letter": "s"
   },
@@ -27095,12 +27450,12 @@
     "letter": "s"
   },
   {
-    "name": "Silla",
+    "name": "Sila",
     "slug": "silla",
     "letter": "s"
   },
   {
-    "name": "Siloé, a piscina de",
+    "name": "Siloé, O tanque de",
     "slug": "siloah-the-pool-of",
     "letter": "s"
   },
@@ -27110,7 +27465,7 @@
     "letter": "s"
   },
   {
-    "name": "Siloé, Lagoa de",
+    "name": "Siloé, Tanque de",
     "slug": "siloam-pool-of",
     "letter": "s"
   },
@@ -27120,7 +27475,7 @@
     "letter": "s"
   },
   {
-    "name": "Siloé, Torre, em",
+    "name": "Siloé, Torre, Em",
     "slug": "siloam-tower-in",
     "letter": "s"
   },
@@ -27145,22 +27500,22 @@
     "letter": "s"
   },
   {
-    "name": "Simeão do Níger",
+    "name": "Simeão Níger",
     "slug": "simeon-niger",
     "letter": "s"
   },
   {
-    "name": "Simeão, a tribo de",
+    "name": "Simeão, A tribo de",
     "slug": "simeon-the-tribe-of",
     "letter": "s"
   },
   {
-    "name": "Simon",
+    "name": "Simão",
     "slug": "simon",
     "letter": "s"
   },
   {
-    "name": "Silêncio",
+    "name": "Simri",
     "slug": "simri",
     "letter": "s"
   },
@@ -27175,27 +27530,27 @@
     "letter": "s"
   },
   {
-    "name": "Sinai, ou Sinai",
+    "name": "Sinai, Ou Sinai",
     "slug": "sinai-or-sinai",
     "letter": "s"
   },
   {
-    "name": "Sinim, a terra de",
+    "name": "Sinim, A terra de",
     "slug": "sinim-the-land-of",
     "letter": "s"
   },
   {
-    "name": "Sion",
+    "name": "Sião",
     "slug": "sion",
     "letter": "s"
   },
   {
-    "name": "Sippai",
+    "name": "Sipai",
     "slug": "sippai",
     "letter": "s"
   },
   {
-    "name": "Síria",
+    "name": "Siriom",
     "slug": "sirion",
     "letter": "s"
   },
@@ -27205,12 +27560,12 @@
     "letter": "s"
   },
   {
-    "name": "Sitnah",
+    "name": "Sitna",
     "slug": "sitnah",
     "letter": "s"
   },
   {
-    "name": "Sentado",
+    "name": "Sentar",
     "slug": "sitting",
     "letter": "s"
   },
@@ -27230,22 +27585,22 @@
     "letter": "s"
   },
   {
-    "name": "São",
+    "name": "So",
     "slug": "so",
     "letter": "s"
   },
   {
-    "name": "Sabonete",
+    "name": "Sabão",
     "slug": "soap",
     "letter": "s"
   },
   {
-    "name": "Sochoh",
+    "name": "Socó (Sochoh)",
     "slug": "sochoh",
     "letter": "s"
   },
   {
-    "name": "Socoh",
+    "name": "Socó (Socoh)",
     "slug": "socoh",
     "letter": "s"
   },
@@ -27260,7 +27615,7 @@
     "letter": "s"
   },
   {
-    "name": "Sodoma",
+    "name": "Sodoma (Sodoma)",
     "slug": "sodoma",
     "letter": "s"
   },
@@ -27275,7 +27630,7 @@
     "letter": "s"
   },
   {
-    "name": "Salomão, Sabedoria de",
+    "name": "Sabedoria de Salomão",
     "slug": "solomon-wisdom-of",
     "letter": "s"
   },
@@ -27592,6 +27947,541 @@
   {
     "name": "Sião",
     "slug": "zion",
+    "letter": "s"
+  },
+  {
+    "name": "Sabactâni",
+    "slug": "sabachthani",
+    "letter": "s"
+  },
+  {
+    "name": "Sabtá",
+    "slug": "sabtah",
+    "letter": "s"
+  },
+  {
+    "name": "Sacar",
+    "slug": "sacar",
+    "letter": "s"
+  },
+  {
+    "name": "Sachar",
+    "slug": "sachar",
+    "letter": "s"
+  },
+  {
+    "name": "Sala",
+    "slug": "sala",
+    "letter": "s"
+  },
+  {
+    "name": "Salém",
+    "slug": "salem",
+    "letter": "s"
+  },
+  {
+    "name": "Salai",
+    "slug": "sallai",
+    "letter": "s"
+  },
+  {
+    "name": "Salu",
+    "slug": "sallu",
+    "letter": "s"
+  },
+  {
+    "name": "Salomé",
+    "slug": "salome",
+    "letter": "s"
+  },
+  {
+    "name": "Salu",
+    "slug": "salu",
+    "letter": "s"
+  },
+  {
+    "name": "Samla",
+    "slug": "samlah",
+    "letter": "s"
+  },
+  {
+    "name": "Samuel, Livros de",
+    "slug": "samuel-books-of",
+    "letter": "s"
+  },
+  {
+    "name": "Sansana",
+    "slug": "sansannah",
+    "letter": "s"
+  },
+  {
+    "name": "Safe",
+    "slug": "saph",
+    "letter": "s"
+  },
+  {
+    "name": "Sara",
+    "slug": "sara",
+    "letter": "s"
+  },
+  {
+    "name": "Serafe",
+    "slug": "saraph",
+    "letter": "s"
+  },
+  {
+    "name": "Sárdio (Pedra)",
+    "slug": "sardine-stone",
+    "letter": "s"
+  },
+  {
+    "name": "Sarditas, Os",
+    "slug": "sardites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sarom",
+    "slug": "saron",
+    "letter": "s"
+  },
+  {
+    "name": "Sarsequim",
+    "slug": "sarsechim",
+    "letter": "s"
+  },
+  {
+    "name": "Saruque",
+    "slug": "saruch",
+    "letter": "s"
+  },
+  {
+    "name": "Satanás",
+    "slug": "satan",
+    "letter": "s"
+  },
+  {
+    "name": "Selo",
+    "slug": "seal",
+    "letter": "s"
+  },
+  {
+    "name": "Sebá",
+    "slug": "seba",
+    "letter": "s"
+  },
+  {
+    "name": "Secaca",
+    "slug": "secacah",
+    "letter": "s"
+  },
+  {
+    "name": "Sequ",
+    "slug": "sechu",
+    "letter": "s"
+  },
+  {
+    "name": "Segube",
+    "slug": "segub",
+    "letter": "s"
+  },
+  {
+    "name": "Sela",
+    "slug": "sela",
+    "letter": "s"
+  },
+  {
+    "name": "Sela-Hamalecote",
+    "slug": "sela-hammahlekoth",
+    "letter": "s"
+  },
+  {
+    "name": "Selá",
+    "slug": "selah",
+    "letter": "s"
+  },
+  {
+    "name": "Sem",
+    "slug": "sem",
+    "letter": "s"
+  },
+  {
+    "name": "Sene",
+    "slug": "seneh",
+    "letter": "s"
+  },
+  {
+    "name": "Senir",
+    "slug": "senir",
+    "letter": "s"
+  },
+  {
+    "name": "Sefarvaim",
+    "slug": "sepharvaim",
+    "letter": "s"
+  },
+  {
+    "name": "Sefela",
+    "slug": "sephela",
+    "letter": "s"
+  },
+  {
+    "name": "Serede",
+    "slug": "sered",
+    "letter": "s"
+  },
+  {
+    "name": "Sérgio Paulo",
+    "slug": "sergius-paulus",
+    "letter": "s"
+  },
+  {
+    "name": "Setur",
+    "slug": "sethur",
+    "letter": "s"
+  },
+  {
+    "name": "Saalabim",
+    "slug": "shaalabbin",
+    "letter": "s"
+  },
+  {
+    "name": "Saaf",
+    "slug": "shaaph",
+    "letter": "s"
+  },
+  {
+    "name": "Saaraim",
+    "slug": "shaaraim",
+    "letter": "s"
+  },
+  {
+    "name": "Saasgaz",
+    "slug": "shaasgaz",
+    "letter": "s"
+  },
+  {
+    "name": "Sadai",
+    "slug": "shaddai",
+    "letter": "s"
+  },
+  {
+    "name": "Saaraim",
+    "slug": "shaharaim",
+    "letter": "s"
+  },
+  {
+    "name": "Saazima",
+    "slug": "shahazimah",
+    "letter": "s"
+  },
+  {
+    "name": "Salum",
+    "slug": "shallun",
+    "letter": "s"
+  },
+  {
+    "name": "Samed",
+    "slug": "shamed",
+    "letter": "s"
+  },
+  {
+    "name": "Samute",
+    "slug": "shamhuth",
+    "letter": "s"
+  },
+  {
+    "name": "Samá",
+    "slug": "shamma",
+    "letter": "s"
+  },
+  {
+    "name": "Sarai",
+    "slug": "sharai",
+    "letter": "s"
+  },
+  {
+    "name": "Sarar",
+    "slug": "sharar",
+    "letter": "s"
+  },
+  {
+    "name": "Saruhen",
+    "slug": "sharuhen",
+    "letter": "s"
+  },
+  {
+    "name": "Sasai",
+    "slug": "shashai",
+    "letter": "s"
+  },
+  {
+    "name": "Sabá",
+    "slug": "sheba",
+    "letter": "s"
+  },
+  {
+    "name": "Sebá",
+    "slug": "shebah",
+    "letter": "s"
+  },
+  {
+    "name": "Sebão",
+    "slug": "shebam",
+    "letter": "s"
+  },
+  {
+    "name": "Seber",
+    "slug": "sheber",
+    "letter": "s"
+  },
+  {
+    "name": "Siquemitas, Os",
+    "slug": "shechemites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sedeur",
+    "slug": "shedeur",
+    "letter": "s"
+  },
+  {
+    "name": "Selaítas, Os",
+    "slug": "shelanites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Semá",
+    "slug": "shema",
+    "letter": "s"
+  },
+  {
+    "name": "Semidaítas, Os",
+    "slug": "shemidaites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sen",
+    "slug": "shen",
+    "letter": "s"
+  },
+  {
+    "name": "Seol",
+    "slug": "sheol",
+    "letter": "s"
+  },
+  {
+    "name": "Sefã",
+    "slug": "shepham",
+    "letter": "s"
+  },
+  {
+    "name": "Sefi",
+    "slug": "shephi",
+    "letter": "s"
+  },
+  {
+    "name": "Sesai",
+    "slug": "sheshai",
+    "letter": "s"
+  },
+  {
+    "name": "Sete",
+    "slug": "sheth",
+    "letter": "s"
+  },
+  {
+    "name": "Sior",
+    "slug": "shihor",
+    "letter": "s"
+  },
+  {
+    "name": "Silhi",
+    "slug": "shilhi",
+    "letter": "s"
+  },
+  {
+    "name": "Silim",
+    "slug": "shilhim",
+    "letter": "s"
+  },
+  {
+    "name": "Siló",
+    "slug": "shiloh",
+    "letter": "s"
+  },
+  {
+    "name": "Silonitas, Os",
+    "slug": "shilonites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Simei",
+    "slug": "shimei",
+    "letter": "s"
+  },
+  {
+    "name": "Simi",
+    "slug": "shimi",
+    "letter": "s"
+  },
+  {
+    "name": "Shimitas, Os",
+    "slug": "shimites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Shimronitas, Os",
+    "slug": "shimronites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sifi",
+    "slug": "shiphi",
+    "letter": "s"
+  },
+  {
+    "name": "Sisa",
+    "slug": "shisha",
+    "letter": "s"
+  },
+  {
+    "name": "Sitim (Árvore)",
+    "slug": "shittah-tree-shittim",
+    "letter": "s"
+  },
+  {
+    "name": "Siza",
+    "slug": "shiza",
+    "letter": "s"
+  },
+  {
+    "name": "Shoa",
+    "slug": "shoa",
+    "letter": "s"
+  },
+  {
+    "name": "Shobai",
+    "slug": "shobai",
+    "letter": "s"
+  },
+  {
+    "name": "Shobal",
+    "slug": "shobal",
+    "letter": "s"
+  },
+  {
+    "name": "Shomer",
+    "slug": "shomer",
+    "letter": "s"
+  },
+  {
+    "name": "Suamitas, Os",
+    "slug": "shuhamites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Shulamita, A",
+    "slug": "shulamite-the",
+    "letter": "s"
+  },
+  {
+    "name": "Shumathitas, Os",
+    "slug": "shumathites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sunamita, A",
+    "slug": "shunammite-the",
+    "letter": "s"
+  },
+  {
+    "name": "Suném",
+    "slug": "shunem",
+    "letter": "s"
+  },
+  {
+    "name": "Suni",
+    "slug": "shuni",
+    "letter": "s"
+  },
+  {
+    "name": "Sunitas, Os",
+    "slug": "shunites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sufã",
+    "slug": "shupham",
+    "letter": "s"
+  },
+  {
+    "name": "Sufamitas, Os",
+    "slug": "shuphamites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Sutalitas, Os",
+    "slug": "shuthalhites-the",
+    "letter": "s"
+  },
+  {
+    "name": "Side",
+    "slug": "side",
+    "letter": "s"
+  },
+  {
+    "name": "Sidom",
+    "slug": "sidon",
+    "letter": "s"
+  },
+  {
+    "name": "Sime",
+    "slug": "sihimma",
+    "letter": "s"
+  },
+  {
+    "name": "Sim, Deserto de",
+    "slug": "sin-wilderness-of",
+    "letter": "s"
+  },
+  {
+    "name": "Sinim",
+    "slug": "sinim",
+    "letter": "s"
+  },
+  {
+    "name": "Sinite",
+    "slug": "sinite",
+    "letter": "s"
+  },
+  {
+    "name": "Sifmote",
+    "slug": "siphmoth",
+    "letter": "s"
+  },
+  {
+    "name": "Siraque",
+    "slug": "sirach",
+    "letter": "s"
+  },
+  {
+    "name": "Sira",
+    "slug": "sirah",
+    "letter": "s"
+  },
+  {
+    "name": "Sísera",
+    "slug": "sisera",
+    "letter": "s"
+  },
+  {
+    "name": "Sivã",
+    "slug": "sivan",
+    "letter": "s"
+  },
+  {
+    "name": "Socó",
+    "slug": "socho",
     "letter": "s"
   },
   {
@@ -29397,6 +30287,16 @@
   {
     "name": "Vela",
     "slug": "zattu",
+    "letter": "v"
+  },
+  {
+    "name": "Vidente",
+    "slug": "seer",
+    "letter": "v"
+  },
+  {
+    "name": "Vale de Sidim",
+    "slug": "siddim-vale-of",
     "letter": "v"
   },
   {

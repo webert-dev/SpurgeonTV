@@ -1917,11 +1917,11 @@
     "definitions": [
       {
         "source": "EAS",
-        "text": "Um lugar onde se diz que Davi derrotou os sírios (2 Sm 8,13). Este vale (o ‘Arabá) fica entre Judá e Edom, ao sul do Mar Morto. Por isso, alguns intérpretes inseririam as palavras “e ele derrotou Edom” após as palavras “sírios” no texto acima. Supõe-se que, enquanto Davi liderava seu exército contra os amonitas e os sírios, os edomitas invadiram o sul de Judá, e que Davi enviou Joabe ou Abisai contra eles, os quais os repeliram e, por fim, subjugaram Edom. (Comp. título do Salmo 60.) Aqui também Amazias “matou dez mil homens de Edom” (2 Reis 14:7; cf. 8:20-22 e 2 Crônicas 25:5-11)."
+        "text": "Um lugar onde se diz que Davi derrotou os sírios (2 Samuel 8:13). Este vale (a Arabá) fica entre Judá e Edom, ao sul do Mar Morto. Por isso, alguns intérpretes inserem as palavras \"e ele derrotou Edom\" após as palavras \"sírios\" no texto acima. Conjectura-se que, enquanto Davi liderava seu exército contra os amonitas e sírios, os edomitas invadiram o sul de Judá, e que Davi enviou Joabe ou Abisai contra eles, que os expulsaram e finalmente subjugaram Edom. (Comparar com o título do Salmo 60). Aqui também Amazias \"matou dez mil edomitas\" (2 Reis 14:7; cf. 8:20-22 e 2 Crônicas 25:5-11)."
       },
       {
         "source": "SMI",
-        "text": "um vale no qual ocorreram duas vitórias memoráveis das forças israelitas:"
+        "text": "um vale no qual ocorreram duas vitórias memoráveis das armas israelitas:"
       }
     ],
     "scripture_refs": [
@@ -4528,6 +4528,90 @@
     "sources": [
       "EAS",
       "SMI"
+    ],
+    "letter": "v"
+  },
+  "seer": {
+    "name": "Vidente",
+    "slug": "seer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um nome por vezes aplicado aos profetas devido às visões que lhes eram concedidas. É encontrado pela primeira vez em 1 Sm 9:9. Posteriormente, é aplicado a Zadoque, Gade, etc. (2 Sm 15:27; 24:11; 1 Cr 9:22; 25:5; 2 Cr 9:29; Amós 7:12; Miqueias 3:7). Os \"dizeres dos videntes\" (2 Cr 33:18, 19) é traduzido na Versão Revisada como \"a história de Hozai\" (margem: os videntes; assim também na LXX.), de quem, no entanto, nada se sabe. (Veja PROFETA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 9:9",
+        "original": "1 Sam. 9:9"
+      },
+      {
+        "reference": "2 Samuel 15:27",
+        "original": "2 Sam. 15:27"
+      },
+      {
+        "reference": "2 Samuel 24:11",
+        "original": "2 Sam. 24:11"
+      },
+      {
+        "reference": "1 Chronicles 9:22",
+        "original": "1 Chr. 9:22"
+      },
+      {
+        "reference": "1 Chronicles 25:5",
+        "original": "1 Chr. 25:5"
+      },
+      {
+        "reference": "2 Chronicles 9:29",
+        "original": "2 Chr. 9:29"
+      },
+      {
+        "reference": "Amos 7:12",
+        "original": "Amos 7:12"
+      },
+      {
+        "reference": "Micah 3:7",
+        "original": "Micah 3:7"
+      },
+      {
+        "reference": "2 Chronicles 33:18",
+        "original": "2 Chr. 33:18"
+      },
+      {
+        "reference": "2 Chronicles 33:19",
+        "original": "2 Chr. 33:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "siddim-vale-of": {
+    "name": "Vale de Sidim",
+    "slug": "siddim-vale-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vale das vastas planícies, \"que é o mar Salgado\" (Gênesis 14:3, 8, 10), entre En-Gedi e as cidades da planície, no extremo sul do Mar Morto. Estava \"cheio de poços de betume\" (Versão Revisada, \"poços de betume\"). Ali, Quedorlaomer e os reis confederados derrotaram os reis de Sodoma e as cidades da planície. Deus, depois, por causa de sua maldade, \"subverteu aquelas cidades, e toda a planície, e todos os moradores das cidades\"; e a fumaça de sua destruição \"subiu como a fumaça de uma fornalha\" (19:24-28), e era visível de Manre, onde Abraão habitava. Alguns, contudo, sustentam que as \"cidades da planície\" ficavam em algum lugar ao norte do Mar Morto. (Ver SODOMA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:3",
+        "original": "Gen. 14:3"
+      },
+      {
+        "reference": "Genesis 14:8",
+        "original": "Gen 14:8"
+      },
+      {
+        "reference": "Genesis 14:10",
+        "original": "Gen 14:10"
+      }
+    ],
+    "sources": [
+      "EAS"
     ],
     "letter": "v"
   }

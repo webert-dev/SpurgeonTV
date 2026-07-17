@@ -8514,7 +8514,7 @@
     "definitions": [
       {
         "source": "SMI",
-        "text": "contém a história de Rute, conforme narrada no artigo anterior. O objetivo principal do autor é, evidentemente, relatar a genealogia de Davi; e o livro foi declaradamente composto muito tempo depois da época da heroína. Veja (Rute 1:1; 4:7,17). Sua data e autor são bastante incertos. A tradição aponta para Samuel. É provável que os livros de Juízes, Rute, Samuel e Reis tenham originalmente formado uma única obra. O livro de Rute claramente faz parte dos livros de Samuel, pois fornece o ponto essencial da genealogia de Davi e da história inicial de sua família, e está não menos claramente ligado ao livro de Juízes por seu versículo inicial e pela época à qual todo o livro se refere."
+        "text": "contém a história de Rute, conforme narrada no artigo anterior. O objetivo principal do escritor é evidentemente dar um relato dos ancestrais de Davi; e o livro foi declaradamente composto muito depois do tempo da heroína. Veja (Rute 1:1; 4:7,17). Sua data e autor são bastante incertos. A tradição é favorável a Samuel. É provável que os livros de Juízes, Rute, Samuel e Reis formassem originalmente apenas uma obra. O livro de Rute claramente faz parte dos livros de Samuel, fornecendo, como faz, o ponto essencial da genealogia e da história familiar primitiva de Davi, e não é menos claramente ligado ao livro de Juízes pelo seu versículo de abertura e pela época a que todo o livro se refere."
       }
     ],
     "scripture_refs": [
@@ -8703,12 +8703,12 @@
     "letter": "l"
   },
   "semitic-languages": {
-    "name": "Línguas semíticas",
+    "name": "Línguas Semíticas",
     "slug": "semitic-languages",
     "definitions": [
       {
         "source": "SMI",
-        "text": "[Línguas semíticas; Língua hebraica]"
+        "text": "[Línguas Semíticas; Língua Hebraica]"
       }
     ],
     "scripture_refs": [],
@@ -8742,12 +8742,12 @@
     "letter": "l"
   },
   "shemitic-languages": {
-    "name": "Línguas semíticas",
+    "name": "Línguas Semíticas",
     "slug": "shemitic-languages",
     "definitions": [
       {
         "source": "SMI",
-        "text": "a família de línguas faladas pelos descendentes de Sem, principalmente o hebraico, o caldeu, o assírio, o árabe, o fenício e o aramaico ou siríaco. Os judeus, em sua história mais antiga, falavam o hebraico, mas, na época de Cristo, falavam o aramaico, às vezes chamado de sírio-caldeu."
+        "text": "a família de línguas faladas pelos descendentes de Sem, principalmente o hebraico, caldaico, assírio, árabe, fenício e aramaico ou siríaco. Os judeus em sua história inicial falavam hebraico, mas no tempo de Cristo falavam aramaico, às vezes chamado de siro-caldaico."
       }
     ],
     "scripture_refs": [],
@@ -9561,6 +9561,86 @@
       }
     ],
     "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "room": {
+    "name": "Lugar",
+    "slug": "room",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "As referências a “lugar” em (Mateus 23:6; Marcos 12:39; Lucas 14:7,8; 20:46) significam o lugar mais importante no sofá mais alto ao redor da mesa de jantar ou ceia — o “lugar de honra”, como é mais precisamente traduzido em (Lucas 11:43)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 23:6",
+        "original": "Matthew 23:6"
+      },
+      {
+        "reference": "Mark 12:39",
+        "original": "Mark 12:39"
+      },
+      {
+        "reference": "Luke 14:7",
+        "original": "Luke 14:7"
+      },
+      {
+        "reference": "Luke 14:8",
+        "original": "Luke 14:8"
+      },
+      {
+        "reference": "Luke 20:46",
+        "original": "Luke 20:46"
+      },
+      {
+        "reference": "Luke 11:43",
+        "original": "Luke 11:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "snare": {
+    "name": "Laço",
+    "slug": "snare",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A expressão (Amós 3:5), “Levantar-se-á o laço da terra?”, etc. (Versão Autorizada), deveria ser, como na Versão Revisada, “Acaso o laço salta do chão?”, etc. (Veja ARMADILHA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Amos 3:5",
+        "original": "Amos 3:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "spearmen": {
+    "name": "Lanceiros",
+    "slug": "spearmen",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Atos 23:23) Eram provavelmente tropas tão levemente armadas que podiam manter o passo na marcha com soldados montados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 23:23",
+        "original": "Acts 23:23"
+      }
+    ],
     "sources": [
       "SMI"
     ],

@@ -13432,16 +13432,16 @@
     "letter": "b"
   },
   "scapegoat": {
-    "name": "Bode expiatório",
+    "name": "Bode Expiatório",
     "slug": "scapegoat",
     "definitions": [
       {
         "source": "EAS",
-        "text": "Lev. 16:8-26; R.V., “o bode para Azazel” (ver), nome dado ao bode que era levado para o deserto no Dia da Expiação (16:20-22). O sacerdote fazia expiação sobre o bode expiatório, transferindo sobre ele a culpa de Israel, e então o mandava embora; o bode levava “sobre si todas as suas iniquidades para uma terra desabitada”. Posteriormente, os judeus introduziram uma evasão ou modificação da lei de Moisés. “O bode era conduzido a uma montanha chamada Tzuk, situada a uma distância de dez dias de viagem de sábado, ou cerca de seis milhas e meia inglesas, de Jerusalém. Nesse local, supunha-se que começasse o deserto da Judéia; e o homem encarregado de conduzir o bode, ao libertá-lo, recebia instruções para empurrar o infeliz animal pela encosta da montanha, que era tão íngreme a ponto de garantir a morte do bode, cujos ossos se quebravam com a queda. A razão desse costume bárbaro era que, em certa ocasião, o bode expiatório retornou a Jerusalém após ser solto, o que foi considerado um presságio tão mau que sua repetição foi impedida no futuro pela morte do bode” (Vinte e um Anos de Trabalho na Terra Santa). Essa montanha é hoje chamada de el-Muntar."
+        "text": "Lv 16:8-26; V.R., o bode para Azazel (q.v.), o nome dado ao bode que era levado para o deserto no dia da Expiação (16:20-22). O sacerdote fazia expiação sobre o bode expiatório, colocando a culpa de Israel sobre ele, e então o enviava para longe, o bode levando sobre si todas as suas iniquidades para uma terra não habitada. Num período posterior, uma evasão ou modificação da lei de Moisés foi introduzida pelos judeus. O bode era conduzido a uma montanha chamada Tzuk, situada a uma distância de dez dias de jornada de sábado, ou cerca de dez quilômetros e meio de Jerusalém. Supunha-se que neste lugar começava o deserto da Judeia; e o homem encarregado de levar o bode, ao soltá-lo, recebia instruções de empurrar o infeliz animal pela encosta da montanha, que era tão íngreme que garantia a morte do bode, cujos ossos eram quebrados pela queda. A razão desse costume bárbaro era que, em uma ocasião, o bode expiatório retornou a Jerusalém depois de ter sido solto, o que foi considerado um presságio tão maligno que sua reincidência foi evitada no futuro pela morte do bode (Twenty-one Years’ Work in the Holy Land). Esta montanha é agora chamada de el-Muntar."
       },
       {
         "source": "SMI",
-        "text": "[Dia da Expiação, O Dia da Expiação, Dia da Expiação]"
+        "text": "[Expiação, O Dia da, Dia da]"
       }
     ],
     "scripture_refs": [
@@ -14066,6 +14066,72 @@
       {
         "reference": "Judges 8:5-21",
         "original": "Judges 8:5-21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "slime": {
+    "name": "Betume",
+    "slug": "slime",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gên. 11:3; LXX., “asfalto;” R.V. marg., “betume”). O vale de Sidim estava cheio de poços de betume (14:10). Joquebede calafetou a “arca de juncos” com betume (Êx. 2:3). (Veja PEZ.)"
+      },
+      {
+        "source": "SMI",
+        "text": "traduzido como betume na Vulgata. Os três casos em que é mencionado no Antigo Testamento são ilustrados por viajantes e historiadores. É primeiramente mencionado como usado para cimento pelos construtores na planície de Sinar ou Babilônia. (Gênesis 11:3) Os poços de betume no vale de Sidim são mencionados no antigo fragmento da história cananeia, (Gênesis 14:10) e a arca de papiro em que Moisés foi colocado foi tornada impermeável à água por um revestimento de betume e pez. (Êxodo 2:3) Heródoto, i. 179, fala-nos do betume encontrado em Is, a moderna Heet, uma cidade da Babilônia, a oito dias de viagem da Babilônia. (O betume, ou asfalto, é “o produto da decomposição de substâncias vegetais e animais. Geralmente é encontrado com uma cor preta ou preta-acastanhada, externamente não muito diferente do carvão, mas varia em consistência desde um estado brilhante e pegajoso, com uma fratura concoide, até massas espessas e viscosas de alcatrão mineral”.—Encyc. Brit. Neste último estado é chamado na Bíblia de betume, e é da mesma natureza que o nosso petróleo, mas mais espesso, e endurece em asfalto. É obtido em vários lugares na Europa, e ainda ocasionalmente do Mar Morto.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:3",
+        "original": "Gen. 11:3"
+      },
+      {
+        "reference": "Exodus 2:3",
+        "original": "Ex. 2:3"
+      },
+      {
+        "reference": "Genesis 14:10",
+        "original": "Genesis 14:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "sop": {
+    "name": "Bocado",
+    "slug": "sop",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Um pedaço de pão (Jo 13:26; comp. Rt 2:14). Nosso Senhor tomou um pedaço de pão ázimo e, molhando-o no caldo de ervas amargas na refeição pascal, deu-o a Judas."
+      },
+      {
+        "source": "SMI",
+        "text": "Em terras orientais, onde nossos utensílios de mesa são desconhecidos, a carne, com o caldo, é trazida à mesa em um prato grande, e é comida geralmente por meio de pedaços de pão mergulhados no prato comum. O pão assim mergulhado é chamado de bocado. Foi esse pedaço de pão, um bocado mergulhado no caldo, que Jesus deu a Judas (Jo 13:26), e novamente, em Mt 26:23, é dito: “o que põe comigo a mão no prato”, isto é, para fazer um bocado mergulhando um pedaço de pão no prato central."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 13:26",
+        "original": "John 13:26"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      },
+      {
+        "reference": "Matthew 26:23",
+        "original": "Matt 26:23"
       }
     ],
     "sources": [
