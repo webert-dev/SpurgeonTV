@@ -16300,5 +16300,25 @@
       "SMI"
     ],
     "letter": "m"
+  },
+  "physician": {
+    "name": "Médico",
+    "slug": "physician",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Asa, afligido por alguna enfermedad corporal, \"no consultó al Señor sino a los médicos\" (2 Crónicas 16:12). Los \"médicos\" eran aquellos que \"practicaban artes paganas de magia, repudiando métodos de curación reconocidos y disociando el arte de curar de la dependencia del Dios de Israel. Por lo tanto, el pecado de Asa no fue buscar consejo médico, como entendemos la frase, sino olvidar a Jehová\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 16:12",
+        "original": "2 Chr. 16:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
   }
 }

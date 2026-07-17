@@ -1531,5 +1531,99 @@
       "EAS"
     ],
     "letter": "t"
+  },
+  "pipe": {
+    "name": "Tubo",
+    "slug": "pipe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Sam. 10:5; 1 Reyes 1:40; Isa. 5:12; 30:29). La palabra hebrea halil, así traducida, significa “perforado” y es el nombre que se da a varias clases de instrumentos de viento, como el pífano, la flauta, la flauta de pan, etc. En Amós 6:5 esta palabra se traduce “instrumento de música”. Este instrumento se menciona también en el Nuevo Testamento (Mat. 11:17; 1 Cor. 14:7). Todavía se utiliza en Palestina y, como en la antigüedad, está hecho de diferentes materiales, como caña, cobre, bronce, etc."
+      },
+      {
+        "source": "SMI",
+        "text": "(heb. chalil). La palabra hebrea así traducida se deriva de una raíz que significa “perforar, perforar” y se representa con suficiente exactitud mediante la palabra inglesa “flauta” o “flauta”, como en el margen de (1 Reyes 1:40). La flauta era el tipo de instrumentos de viento perforados, como el arpa lo era de los instrumentos de cuerda. Estaba hecho de caña, bronce o cobre. Es uno de los instrumentos musicales más simples y, por tanto, probablemente uno de los más antiguos. Se asocia al tabret como instrumento de carácter pacífico y social. La flauta y el tamboril se usaban en los banquetes de los hebreos (Isaías 5:12) y acompañaban los servicios religiosos más simples cuando los jóvenes profetas, regresando del lugar alto, se inspiraban en la armonía (1 Samuel 10:5) o los peregrinos, de camino a las grandes fiestas de su ritual, seducían el cansancio de la marcha con salmos cantados con la sencilla música de la flauta. (Isaías 30:29.) Al parecer, el sonido de la flauta era una suave nota de lamento, por lo que era apropiada para usarla en duelos y funerales (Mateo 9:23) y en el lamento del profeta por la destrucción de Moab. (Jeremías 48:36) Incluso se usaba en el coro del templo, como se desprende de (Salmo 87:7). En épocas posteriores, el funeral y el lecho de muerte nunca estuvieron sin los gaiteros o flautistas profesionales, (Mateo 9:23), una costumbre que todavía existe. En la vida social y festiva de los egipcios, la flauta desempeñaba un papel tan destacado como entre los hebreos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 10:5",
+        "original": "1 Sam. 10:5"
+      },
+      {
+        "reference": "1 Kings 1:40",
+        "original": "1 Kings 1:40"
+      },
+      {
+        "reference": "Isaiah 5:12",
+        "original": "Isa. 5:12"
+      },
+      {
+        "reference": "Isaiah 30:29",
+        "original": "Isa 30:29"
+      },
+      {
+        "reference": "Amos 6:5",
+        "original": "Amos 6:5"
+      },
+      {
+        "reference": "Matthew 11:17",
+        "original": "Matt. 11:17"
+      },
+      {
+        "reference": "1 Corinthians 14:7",
+        "original": "1 Cor. 14:7"
+      },
+      {
+        "reference": "Matthew 9:23",
+        "original": "Matthew 9:23"
+      },
+      {
+        "reference": "Jeremiah 48:36",
+        "original": "Jeremiah 48:36"
+      },
+      {
+        "reference": "Psalms 87:7",
+        "original": "Psalms 87:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "potsherd": {
+    "name": "Tiesto",
+    "slug": "potsherd",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un “trozo”, es decir, cualquier cosa cortada, como un fragmento de loza (Job 2:8; Prov. 26:23; Isa. 45:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "también en la versión autorizada “pedazo”, un trozo de loza roto. (Proverbios 26:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 2:8",
+        "original": "Job 2:8"
+      },
+      {
+        "reference": "Proverbs 26:23",
+        "original": "Prov. 26:23"
+      },
+      {
+        "reference": "Isaiah 45:9",
+        "original": "Isa. 45:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
   }
 }

@@ -13727,5 +13727,20 @@
       "SMI"
     ],
     "letter": "b"
+  },
+  "pen": {
+    "name": "Bolígrafo",
+    "slug": "pen",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Escribiendo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
   }
 }

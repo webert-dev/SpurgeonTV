@@ -2099,5 +2099,970 @@
       "EAS"
     ],
     "letter": "r"
+  },
+  "presents": {
+    "name": "regalos",
+    "slug": "presents",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Regalo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "queen": {
+    "name": "Reina",
+    "slug": "queen",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No se hace ninguna mención explícita de las reinas hasta que leemos acerca de la \"reina de Saba\". Las esposas de los reyes de Israel no son designadas así. En sal. 45:9, la palabra hebrea para “reina” no es malkah, alguien que en realidad gobierna como la reina de Saba, sino shegal, que simplemente significa esposa del rey. En 1 Reyes 11:19, la esposa de Faraón es llamada “la reina”, pero la palabra hebrea así traducida (g’birah) es simplemente un título de honor, que denota una dama real, usada a veces para “reina-madre” (1 Reyes 15:13; 2 Crón. 15:16). En canto. 6:8, 9, a las esposas del rey se les llama “reinas” (heb. melakhoth). En el Nuevo Testamento leemos acerca de la “reina del sur”, es decir, del sur de Arabia, Seba (Mateo 12:42; Lucas 11:31) y de la “reina de los etíopes” (Hechos 8:27), Candace."
+      },
+      {
+        "source": "SMI",
+        "text": "Este título se aplica propiamente a la reina madre, ya que en una casa oriental no es la esposa sino la madre del amo quien ejerce la máxima autoridad. Por extraño que parezca a primera vista tal disposición, es uno de los resultados inevitables de la poligamia. Un ejemplo de la influencia de la reina madre se da en (1 Reyes 2:19) y sigs. El término se aplica a Maachah (1 Reyes 15:13; 2 Crónicas 16:16) y a Jezetiel (2 Reyes 10:13) y a la madre de Joaquín o Jeconías (Jeremias 13:18) compare 2 Reyes 24:12; Jeremías 29:2"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 45:9",
+        "original": "Ps. 45:9"
+      },
+      {
+        "reference": "1 Kings 11:19",
+        "original": "1 Kings 11:19"
+      },
+      {
+        "reference": "1 Kings 15:13",
+        "original": "1 Kings 15:13"
+      },
+      {
+        "reference": "2 Chronicles 15:16",
+        "original": "2 Chron. 15:16"
+      },
+      {
+        "reference": "Song of Solomon 6:8",
+        "original": "Cant. 6:8"
+      },
+      {
+        "reference": "Song of Solomon 6:9",
+        "original": "Cant. 6:9"
+      },
+      {
+        "reference": "Matthew 12:42",
+        "original": "Matt. 12:42"
+      },
+      {
+        "reference": "Luke 11:31",
+        "original": "Luke 11:31"
+      },
+      {
+        "reference": "Acts 8:27",
+        "original": "Acts 8:27"
+      },
+      {
+        "reference": "1 Kings 2:19",
+        "original": "1 Kings 2:19"
+      },
+      {
+        "reference": "2 Chronicles 16:16",
+        "original": "2 Chronicles 16:16"
+      },
+      {
+        "reference": "2 Kings 10:13",
+        "original": "2 Kings 10:13"
+      },
+      {
+        "reference": "Jeremiah 13:18",
+        "original": "Jeremiah 13:18"
+      },
+      {
+        "reference": "2 Kings 24:12",
+        "original": "2Kin 24:12"
+      },
+      {
+        "reference": "Jeremiah 29:2",
+        "original": "Jere 29:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "queen-of-heaven": {
+    "name": "reina del cielo",
+    "slug": "queen-of-heaven",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Jer. 7:18; 44:17, 25), la luna, adorada por los asirios como el poder receptivo de la naturaleza."
+      },
+      {
+        "source": "SMI",
+        "text": "(Jeremías 7:18; 45:17,18,19,25) es la luna Astarot o Astarté a quien adoraban como mujeres hebreas ofrecían tortas en las calles de Jerusalén."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Jeremiah 44:17",
+        "original": "Jer 44:17"
+      },
+      {
+        "reference": "Jeremiah 44:25",
+        "original": "Jer 44:25"
+      },
+      {
+        "reference": "Jeremiah 45:17",
+        "original": "Jeremiah 45:17"
+      },
+      {
+        "reference": "Jeremiah 45:18",
+        "original": "Jeremiah 45:18"
+      },
+      {
+        "reference": "Jeremiah 45:19",
+        "original": "Jeremiah 45:19"
+      },
+      {
+        "reference": "Jeremiah 45:25",
+        "original": "Jeremiah 45:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raamah": {
+    "name": "Ramah",
+    "slug": "raamah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Trueno. (1.) Uno de los hijos de Cus (Génesis 10:7). (2.) Un país que comerciaba con Tiro (Ezequiel 27:22)."
+      },
+      {
+        "source": "SMI",
+        "text": "(crin de caballo), hijo de Cus y padre de los cusitas Seba y Dedán. (Génesis 10:7) (a.C. después de 2513.) La tribu de Rama se hizo famosa después como comerciantes. (Ezequiel 27:22) Se establecieron en el Golfo Pérsico."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:7",
+        "original": "Gen. 10:7"
+      },
+      {
+        "reference": "Ezekiel 27:22",
+        "original": "Ezek. 27:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raamiah": {
+    "name": "raamiá",
+    "slug": "raamiah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Trueno del Señor, uno de los príncipes que regresaron del exilio (Nehemías 7:7); llamado también Reelaías (Esdras 2:2)."
+      },
+      {
+        "source": "SMI",
+        "text": "(trueno de Jehová), uno de los jefes que regresaron con Zorobabel. (Nehemías 7:7) En (Esdras 2:2) se le llama Reelaías. (445 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 7:7",
+        "original": "Neh. 7:7"
+      },
+      {
+        "reference": "Ezra 2:2",
+        "original": "Ezra 2:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raamses": {
+    "name": "Ramsés",
+    "slug": "raamses",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Éxodo 1:11). (Ver RAMÉSÉS.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(Éxodo 1:11) [Ramsés, O Raamsés]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 1:11",
+        "original": "Ex. 1:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabbah": {
+    "name": "rabá",
+    "slug": "rabbah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O Rab'bath, genial. (1.) “Rabbath de los hijos de Ammón”, la ciudad principal de los amonitas, entre las colinas orientales, a unas 20 millas al este del Jordán, al sur de los dos arroyos que se unían con el Jaboc. Aquí se conservó la cama de Og (Deuteronomio 3:11), tal vez como trofeo de alguna victoria obtenida por los amonitas sobre el rey de Basán. Después de que David sometió a todos sus aliados en una gran guerra, envió a Joab con una fuerza poderosa para tomar su ciudad. Durante dos años resistió a sus agresores. Fue mientras su ejército estaba ocupado en este prolongado asedio que David fue culpable de ese acto vergonzoso que dejó una mancha en su carácter y ensombreció el resto de su vida. Finalmente, habiendo tomado la “ciudad real” (o la “ciudad de las aguas”, 2 Sam. 12:27, es decir, la ciudad baja sobre el río, a diferencia de la ciudadela), Joab envió a buscar a David para que dirigiera el asalto final (11:1; 12:26-31). La ciudad fue entregada al saqueo y el pueblo fue ejecutado sin piedad, y “así hizo con todas las ciudades de los hijos de Amón”. La destrucción de Rabbath fue la última de las conquistas de David. Su reino ahora alcanzó sus límites más lejanos (2 Sam. 8:1-15; 1 Cr. 18:1-15). Amós (1:14), Jeremías (49:2, 3) y Ezequiel (21:20; 25:5) hacen referencia a la captura de esta ciudad. (2.) Una ciudad en la región montañosa de Judá (Josué 15:60), posiblemente la ruina de Rubba, seis millas al noreste de Beit-Jibrin."
+      },
+      {
+        "source": "SMI",
+        "text": "(excelente)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 3:11",
+        "original": "Deut. 3:11"
+      },
+      {
+        "reference": "2 Samuel 12:27",
+        "original": "2 Sam. 12:27"
+      },
+      {
+        "reference": "2 Samuel 8:1-15",
+        "original": "2 Sam. 8:1-15"
+      },
+      {
+        "reference": "1 Chronicles 18:1-15",
+        "original": "1 Chr. 18:1-15"
+      },
+      {
+        "reference": "Joshua 15:60",
+        "original": "Josh. 15:60"
+      },
+      {
+        "reference": "2 Samuel 12:26",
+        "original": "2 Samuel 12:26"
+      },
+      {
+        "reference": "2 Samuel 17:27",
+        "original": "2 Samuel 17:27"
+      },
+      {
+        "reference": "Jeremiah 49:2",
+        "original": "Jeremiah 49:2"
+      },
+      {
+        "reference": "Ezekiel 21:20",
+        "original": "Ezekiel 21:20"
+      },
+      {
+        "reference": "Joshua 13:25",
+        "original": "Joshua 13:25"
+      },
+      {
+        "reference": "2 Samuel 11:1",
+        "original": "2 Samuel 11:1"
+      },
+      {
+        "reference": "2 Samuel 12:29",
+        "original": "2 Samuel 12:29"
+      },
+      {
+        "reference": "1 Chronicles 20:1",
+        "original": "1 Chronicles 20:1"
+      },
+      {
+        "reference": "Jeremiah 49:3",
+        "original": "Jeremiah 49:3"
+      },
+      {
+        "reference": "2 Samuel 11:17",
+        "original": "2 Samuel 11:17"
+      },
+      {
+        "reference": "2 Samuel 12:26-31",
+        "original": "2 Samuel 12:26-31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabbath-of-the-children-of-ammon": {
+    "name": "Rabbat de los hijos de Amón",
+    "slug": "rabbath-of-the-children-of-ammon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "y Rabbath de los amonitas, [Ver RABBATH]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabbathmoab": {
+    "name": "Rabbathmoab",
+    "slug": "rabbathmoab",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Arkansas]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabbi": {
+    "name": "Rabino",
+    "slug": "rabbi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Maestro mío, título de dignidad dado por los judíos a sus doctores de la ley y a sus distinguidos maestros. A veces se aplica a Cristo (Mateo 23:7, 8; Marcos 9:5 (R.V.); Juan 1:38, 49; 3:2; 6:25, etc.); también a Juan (3:26)."
+      },
+      {
+        "source": "SMI",
+        "text": "un título de respeto que significa maestro, maestro, dado por los judíos a sus médicos y maestros, y a menudo dirigido a nuestro Señor. (Mateo 23:7,8; 26:25,49; Marcos 9:6; 11:21; 14:45; Juan 1:38,49; 3:2,26; 4:31; 6:25; 9:2; 11:8) Otra forma del título era Raboni. (Juan 20:16) Los títulos se usaban con diferentes grados de honor; el más bajo es rab, maestro y luego rabino, mi maestro; el siguiente rabán, nuestro maestro; y el mayor de todos, Raboni, mi gran maestro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 23:7",
+        "original": "Matt. 23:7"
+      },
+      {
+        "reference": "Matthew 23:8",
+        "original": "Matt. 23:8"
+      },
+      {
+        "reference": "Mark 9:5",
+        "original": "Mark 9:5"
+      },
+      {
+        "reference": "John 1:38",
+        "original": "John 1:38"
+      },
+      {
+        "reference": "John 1:49",
+        "original": "John 1:49"
+      },
+      {
+        "reference": "John 3:2",
+        "original": "John 3:2"
+      },
+      {
+        "reference": "John 6:25",
+        "original": "John 6:25"
+      },
+      {
+        "reference": "Matthew 26:25",
+        "original": "Matthew 26:25"
+      },
+      {
+        "reference": "Matthew 26:49",
+        "original": "Matthew 26:49"
+      },
+      {
+        "reference": "Mark 9:6",
+        "original": "Mark 9:6"
+      },
+      {
+        "reference": "Mark 11:21",
+        "original": "Mark 11:21"
+      },
+      {
+        "reference": "Mark 14:45",
+        "original": "Mark 14:45"
+      },
+      {
+        "reference": "John 3:26",
+        "original": "John 3:26"
+      },
+      {
+        "reference": "John 4:31",
+        "original": "John 4:31"
+      },
+      {
+        "reference": "John 9:2",
+        "original": "John 9:2"
+      },
+      {
+        "reference": "John 11:8",
+        "original": "John 11:8"
+      },
+      {
+        "reference": "John 20:16",
+        "original": "John 20:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabboni": {
+    "name": "Raboni",
+    "slug": "rabboni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(id.) aparece sólo dos veces en el Nuevo Testamento (Marcos 10:51, A.V., “Señor”, R.V., “Rabboni”; Juan 20:16). Fue el más honorable de todos los títulos."
+      },
+      {
+        "source": "SMI",
+        "text": "(Juan 30:18) [Rabino]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 10:51",
+        "original": "Mark 10:51"
+      },
+      {
+        "reference": "John 20:16",
+        "original": "John 20:16"
+      },
+      {
+        "reference": "John 30:18",
+        "original": "John 30:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabmag": {
+    "name": "Rabmag",
+    "slug": "rabmag",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El asirio Rab-mugi, \"médico jefe\", \"que estaba adjunto al rey (Jer. 39:3, 13), título de uno de los oficiales de Senaquerib enviado con mensajes a Ezequías y al pueblo de Jerusalén (2 Reyes 18:17-19:13; Isa. 36:12-37:13) exigiendo la rendición de la ciudad. Estaba acompañado por un \"gran ejército\"; pero su misión no tuvo éxito."
+      },
+      {
+        "source": "SMI",
+        "text": "(Jeremías 39:3,13) título que llevaba Nergal-sarezer, probablemente idéntico al rey llamado por los griegos Neriglissar. [NERGAL-SHAREZER] (probablemente significa jefe de los magos; en todo caso era “un cargo de gran poder y dignidad en la corte babilónica, y probablemente daba a su poseedor facilidades especiales para ganar el trono”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 39:3",
+        "original": "Jer. 39:3"
+      },
+      {
+        "reference": "Jeremiah 39:13",
+        "original": "Jer. 39:13"
+      },
+      {
+        "reference": "2 Kings 18:17-19:13",
+        "original": "2 Kings 18:17-19:13"
+      },
+      {
+        "reference": "Isaiah 36:12-37:13",
+        "original": "Isa. 36:12-37:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabsaris": {
+    "name": "rabsaris",
+    "slug": "rabsaris",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Jefe de los Jefes, uno de los tres oficiales que Senaquerib envió desde Laquis con un mensaje amenazador a Jerusalén (2 Reyes 18:17; Jer. 39:3, 13)."
+      },
+      {
+        "source": "SMI",
+        "text": "(jefe de los eunucos)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 18:17",
+        "original": "2 Kings 18:17"
+      },
+      {
+        "reference": "Jeremiah 39:3",
+        "original": "Jer. 39:3"
+      },
+      {
+        "reference": "Jeremiah 39:13",
+        "original": "Jer. 39:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rabshakeh": {
+    "name": "Rabsaces",
+    "slug": "rabshakeh",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Jefe de los príncipes, nombre dado al principal copero o al visir de la corte asiria; uno de los mensajeros de Senaquerib a Ezequías. Vea el discurso que pronunció, en idioma hebreo, a oídos de todo el pueblo, mientras estaba cerca del muro al norte de la ciudad (2 Reyes 18:17-37). Él y los demás enviados regresaron a su señor y le informaron que Ezequías y su pueblo eran obstinados y no se sometían."
+      },
+      {
+        "source": "SMI",
+        "text": "(principal copero), (2 Reyes 19:1; Isaías 36:1; Isaías 37:1) ... uno de los oficiales del rey de Asiria enviado contra Jerusalén en el reinado de Ezequías. [Ezequías] (713 a.C.) La versión inglesa toma Rabsaces como el nombre de una persona; pero es más probable que sea el nombre del cargo que desempeñaba en la corte, el de jefe de coperos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 18:17-37",
+        "original": "2 Kings 18:17-37"
+      },
+      {
+        "reference": "2 Kings 19:1",
+        "original": "2 Kings 19:1"
+      },
+      {
+        "reference": "Isaiah 36:1",
+        "original": "Isaiah 36:1"
+      },
+      {
+        "reference": "Isaiah 37:1",
+        "original": "Isaiah 37:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raca": {
+    "name": "Raca",
+    "slug": "raca",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vano, vacío, sin valor, sólo se encuentra en Matt. 5:22. Los judíos lo usaron como una palabra de desprecio. Se deriva de una raíz que significa \"escupir\"."
+      },
+      {
+        "source": "SMI",
+        "text": "término de reproche derivado del caldeo reka, inútil. (“Raca denota cierta laxitud en la vida y en los modales, mientras que ‘tonto’, en el mismo pasaje, significa una persona completamente malvada y reprobada”) (Mateo 5:22)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rachab": {
+    "name": "Rajab",
+    "slug": "rachab",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "= Rahab, un nombre que se encuentra en la genealogía de nuestro Señor (Mateo 1:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Rahab la ramera. (Mateo 1:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matt. 1:5"
+      },
+      {
+        "reference": "Matthew 1:15",
+        "original": "Matthew 1:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rachal": {
+    "name": "Raquel",
+    "slug": "rachal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Traffic, ciudad de la tribu de Judá, a la que David envió regalos del botín de sus enemigos (1 Sam. 30:29)."
+      },
+      {
+        "source": "SMI",
+        "text": "(comercio), (1 Samuel 30:29) una ciudad en la parte sur de la tribu de Judá, una de las ciudades a las que David envió regalos del botín de los amalecitas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 30:29",
+        "original": "1 Sam. 30:29"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rachel": {
+    "name": "raquel",
+    "slug": "rachel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Oveja, “la hija”, “la hija menor algo petulante, malhumorada y obstinada aunque hermosa” de Labán, y una de las esposas de Jacob (Gén. 29:6, 28). Sirvió a Labán catorce años por ella, tan profundo era el afecto de Jacob por ella. Ella fue la madre de José (Génesis 30:22-24). Posteriormente, cuando Jacob salió de Mesopotamia, ella se llevó consigo los terafines de su padre (31:34, 35). Mientras viajaban desde Betel, Raquel murió al dar a luz a Benjamín (35:18, 19), y fue sepultada \"en el camino de Efrata, que es Belén; y Jacob puso una columna sobre su tumba\". Su sepulcro todavía es considerado con gran veneración por los judíos. Su sitio tradicional está aproximadamente a media milla de Jerusalén. Jeremías (31:15-17) usa poéticamente este nombre para denotar el duelo del pueblo de Dios bajo sus calamidades. Mateo también cita este pasaje como cumplido en el lamento en Belén a causa de la matanza de los niños allí por orden de Herodes (Mateo 2:17, 18)."
+      },
+      {
+        "source": "SMI",
+        "text": "(oveja u oveja), la menor de las hijas de Labán, esposa de Jacob (1753 a. C.) y madre de José y Benjamín. Los incidentes de su vida se pueden encontrar en Génesis 29-33, 35. La historia de Jacob y Raquel siempre ha tenido un interés peculiar. La belleza de Raquel, el profundo amor de Jacob y su larga servidumbre, su matrimonio y la muerte de Raquel al dar a luz a Benjamín, con el dolor de Jacob por su pérdida (Génesis 48:7) constituyen una historia conmovedora. Sin embargo, por lo que nos cuentan sobre su carácter, no parece haber mucho que pueda reclamar un alto grado de admiración y estima. Parece haber compartido toda la duplicidad y falsedad de su familia. Véase, por ejemplo, el robo de las imágenes de su padre por parte de Rachel y la destreza y presencia de ánimo con las que ocultó su robo. (Génesis 31:1)... \"Raquel murió y fue sepultada en el camino a Efrata, que es Belén. (1729 a.C.) Y Jacob puso una columna sobre su tumba, que es la columna de la tumba de Raquel hasta el día de hoy\". (Génesis 35:19,20) El sitio de la tumba de Raquel, “en el camino a Belén”, “un poco más lejos para llegar a Efrata”, “en la frontera de Benjamín”, nunca ha sido cuestionado. Está a unas dos millas al sur de Jerusalén y una milla al norte de Belén."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 29:6",
+        "original": "Gen. 29:6"
+      },
+      {
+        "reference": "Genesis 29:28",
+        "original": "Gen. 29:28"
+      },
+      {
+        "reference": "Genesis 30:22-24",
+        "original": "Gen. 30:22-24"
+      },
+      {
+        "reference": "Matthew 2:17",
+        "original": "Matt. 2:17"
+      },
+      {
+        "reference": "Matthew 2:18",
+        "original": "Matt. 2:18"
+      },
+      {
+        "reference": "Genesis 48:7",
+        "original": "Genesis 48:7"
+      },
+      {
+        "reference": "Genesis 31:1",
+        "original": "Genesis 31:1"
+      },
+      {
+        "reference": "Genesis 35:19",
+        "original": "Genesis 35:19"
+      },
+      {
+        "reference": "Genesis 35:20",
+        "original": "Genesis 35:20"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raddai": {
+    "name": "Raddai",
+    "slug": "raddai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(pisoteo), uno de los hermanos de David, quinto hijo de Jesé. (1 Crónicas 2:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:14",
+        "original": "1 Chronicles 2:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "ragau": {
+    "name": "ragau",
+    "slug": "ragau",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "uno de los antepasados ​​de nuestro Señor, hijo de Peleg. (Lucas 3:35) Es la misma persona que Reu, hijo de Peleg."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:35",
+        "original": "Luke 3:35"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rages": {
+    "name": "rabias",
+    "slug": "rages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una ciudad importante en el noreste de Media, donde ese país limitaba con sus ruinas, todavía conocida con el nombre de Rhey, se encuentra a unas cinco millas al sureste de Teherán."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raguel": {
+    "name": "Ragüel",
+    "slug": "raguel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Amigo de Dios, (Núm. 10:29) = Reuel (q.v.), Éx. 2:18, suegro de Moisés, y probablemente idéntico a Jetro (q.v.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 10:29",
+        "original": "Num. 10:29"
+      },
+      {
+        "reference": "Exodus 2:18",
+        "original": "Ex. 2:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "raguel-or-reuel": {
+    "name": "Raguel o Reuel",
+    "slug": "raguel-or-reuel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(amigo de Dios)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Tob 3:7",
+        "original": "Tob. 3:7"
+      },
+      {
+        "reference": "Tob 3:17",
+        "original": "Tob 3:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rahab": {
+    "name": "Rahab",
+    "slug": "rahab",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Insolencia; orgullo, nombre poético aplicado a Egipto en el sal. 87:4; 89:10; Isa. 51:9, como “el orgulloso”. Rahab, (heb. Rahab; es decir, “ancho”, “grande”). Cuando los hebreos acamparon en Sitim, en el “Arabah” o valle del Jordán, frente a Jericó, listos para cruzar el río, Josué, como preparación final, envió dos espías para “espiar la tierra”. Después de cinco días regresaron, después de haber cruzado a nado el río, que en aquella época, el mes de Abib, se había desbordado por el derretimiento de las nieves en el Líbano. Los espías informaron cómo les había ido (Josué 2:1-7). Habían estado expuestos al peligro en Jericó y habían sido salvados por la fidelidad de Rahab la ramera, a cuya casa habían ido en busca de protección. Cuando cayó la ciudad de Jericó (6:17-25), Rahab y toda su familia fueron preservadas según la promesa de los espías y fueron incorporados al pueblo judío. Posteriormente se convirtió en la esposa de Salmón, un príncipe de la tribu de Judá (Rut 4:21; 1 Crónicas 2:11; Mateo 1:5). \"El hecho de que se le pidiera a Rahab que trajera espías a los soldados (Josué 2:3) enviados a buscarlos, está en estricta conformidad con las costumbres orientales, que no permitirían que ningún hombre entrara en la casa de una mujer sin su permiso. El hecho de que ella cubriera a los espías con manojos de lino que había en el techo de su casa (2:6) es una \"coincidencia no deseada\" que corrobora estrictamente la narración. Era el tiempo de la cosecha de cebada, y el lino y la cebada están maduros al mismo tiempo en el valle del Jordán, de modo que se podría haber esperado que los manojos de tallos de lino se estuvieran secando en ese momento” (Geikie’s Hours, etc., ii., 390)."
+      },
+      {
+        "source": "SMI",
+        "text": "un nombre poético de Egipto (Salmo 89:10; Isaías 51:9) que significa \"fiereza, insolencia, orgullo\". Rahab, como nombre de Egipto, aparece solo una vez sin referencia al éxodo: esto es en (Salmo 87:4). En (Isaías 30:7) se alude al nombre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 87:4",
+        "original": "Ps. 87:4"
+      },
+      {
+        "reference": "Psalms 89:10",
+        "original": "Ps 89:10"
+      },
+      {
+        "reference": "Isaiah 51:9",
+        "original": "Isa. 51:9"
+      },
+      {
+        "reference": "Joshua 2:1-7",
+        "original": "Josh. 2:1-7"
+      },
+      {
+        "reference": "Ruth 4:21",
+        "original": "Ruth 4:21"
+      },
+      {
+        "reference": "1 Chronicles 2:11",
+        "original": "1 Chr. 2:11"
+      },
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matt. 1:5"
+      },
+      {
+        "reference": "Joshua 2:3",
+        "original": "Josh. 2:3"
+      },
+      {
+        "reference": "Isaiah 30:7",
+        "original": "Isaiah 30:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rahab-or-rachab": {
+    "name": "Rahab o Rajab",
+    "slug": "rahab-or-rachab",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(ancho), una célebre mujer de Jericó que recibió a los espías enviados por Josué para espiar la tierra, los escondió en su casa de la persecución de sus compatriotas, se salvó con toda su familia cuando los israelitas saquearon la ciudad, y se convirtió en la esposa de Salmón y antepasada del Mesías. (Josué 2:1; Mateo 1:5) (1450 a.C.) Ella era una “ramera”, y probablemente combinaba el oficio de posadera con hombres caminantes. Su recepción de los espías, el artificio mediante el cual los ocultó del rey: su fuga y la salvación de Rahab y su familia en la captura de la ciudad de acuerdo con su promesa, se encuentran reflejados en la narración de (Josué 2:1)... En lo que respecta a la propia Rahab, probablemente se arrepintió, y aprendemos de (Mateo 1:5) que se convirtió en la esposa de Salmón, hijo de Naasón, y madre de Booz, el abuelo de Jesé. El autor de la Epístola a los Hebreos nos dice que “por la fe Rahab la ramera no pereció con los incrédulos, cuando recibió en paz a los espías” (Hebreos 11:31) y Santiago fortalece su doctrina de la justificación por las obras al preguntar: “¿No fue justificada por las obras la ramera Rahab, cuando recibió a los mensajeros y los envió por otro camino?” (Santiago 2:25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 2:1",
+        "original": "Joshua 2:1"
+      },
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matthew 1:5"
+      },
+      {
+        "reference": "Hebrews 11:31",
+        "original": "Hebrews 11:31"
+      },
+      {
+        "reference": "James 2:25",
+        "original": "James 2:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "raham": {
+    "name": "raham",
+    "slug": "raham",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Misericordioso, uno de los descendientes de Caleb, hijo de Hezrón (1 Crónicas 2:44)."
+      },
+      {
+        "source": "SMI",
+        "text": "(barriga). En la genealogía de los descendientes de Caleb hijo de Hezrón, (1 Crónicas 2:44) Raham es descrito como hijo de Sema y padre de Jorkoam."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:44",
+        "original": "1 Chr. 2:44"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rahel": {
+    "name": "Raquel",
+    "slug": "rahel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la forma original en nuestra versión autorizada de la ahora familiar Rachel. (Jeremías 31:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 31:15",
+        "original": "Jeremiah 31:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "rakem": {
+    "name": "Rakem",
+    "slug": "rakem",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(jardín de flores), descendiente de Maquir hijo de Manasés. (1 Crónicas 7:16) (A.C. antes de 1451.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:16",
+        "original": "1 Chronicles 7:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
   }
 }

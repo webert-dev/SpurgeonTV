@@ -19080,5 +19080,922 @@
       "SMI"
     ],
     "letter": "c"
+  },
+  "penny": {
+    "name": "Centavo",
+    "slug": "penny",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. denarion), una moneda de plata con un valor de aproximadamente 7 1/2 peniques. o 8d. de nuestro dinero actual. Así se traduce en el Nuevo Testamento y se menciona con más frecuencia que cualquier otra moneda (Mat. 18:28; 20:2, 9, 13; Marcos 6:37; 14:5, etc.). Era la paga diaria de un soldado romano en los tiempos de Cristo. En el reinado de Eduardo III. un penique inglés era el jornal de un trabajador. Este era el “dinero del tributo” con referencia al cual nuestro Señor dijo: “¿De quién es esta imagen y esta inscripción?” Cuando respondieron: “Del César”, él respondió: “Dad, pues, al César lo que es del César, y a Dios lo que es de Dios” (Mateo 22:19; Marcos 12:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 18:28",
+        "original": "Matt. 18:28"
+      },
+      {
+        "reference": "Matthew 20:2",
+        "original": "Matt 20:2"
+      },
+      {
+        "reference": "Matthew 20:9",
+        "original": "Matt 20:9"
+      },
+      {
+        "reference": "Matthew 20:13",
+        "original": "Matt 20:13"
+      },
+      {
+        "reference": "Mark 6:37",
+        "original": "Mark 6:37"
+      },
+      {
+        "reference": "Mark 14:5",
+        "original": "Mark 14:5"
+      },
+      {
+        "reference": "Matthew 22:19",
+        "original": "Matt. 22:19"
+      },
+      {
+        "reference": "Mark 12:15",
+        "original": "Mark 12:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "post": {
+    "name": "Correo",
+    "slug": "post",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Un corredor o mensajero para la rápida transmisión de cartas, etc. (2 Crónicas 30:6; Ester 3:13, 15; 8:10, 14; Job 9:25; Jer. 51:31). Estos mensajeros se utilizaron desde tiempos muy antiguos. Los empleados por los reyes hebreos tenían un carácter militar (1 Sam. 22:17; 2 Reyes 10:25, “guardia”, marg. “corredores”). El moderno sistema de comunicación postal fue establecido por primera vez por Luis XI. de Francia en 1464 d.C. (2.) Esta palabra a veces también se usa para dintel o umbral (Isaías 6:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 30:6",
+        "original": "2 Chr. 30:6"
+      },
+      {
+        "reference": "Esther 3:13",
+        "original": "Esther 3:13"
+      },
+      {
+        "reference": "Esther 3:15",
+        "original": "Esther 3:15"
+      },
+      {
+        "reference": "Job 9:25",
+        "original": "Job 9:25"
+      },
+      {
+        "reference": "Jeremiah 51:31",
+        "original": "Jer. 51:31"
+      },
+      {
+        "reference": "1 Samuel 22:17",
+        "original": "1 Sam. 22:17"
+      },
+      {
+        "reference": "2 Kings 10:25",
+        "original": "2 Kings 10:25"
+      },
+      {
+        "reference": "Isaiah 6:4",
+        "original": "Isa. 6:4"
+      },
+      {
+        "reference": "1 Kings 6:33",
+        "original": "1 Kings 6:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "potters-field": {
+    "name": "Campo de alfareros",
+    "slug": "potters-field",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre que se le dio al terreno que luego se compró con el dinero que le habían dado a Judas. Se le llamó “campo de sangre” (Mateo 27:7-10). La tradición lo sitúa en el valle de Hinom. (Ver ACELDAMA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:7-10",
+        "original": "Matt. 27:7-10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "potters-field-the": {
+    "name": "Campo de alfareros, el",
+    "slug": "potters-field-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "un terreno que, según dice San Mateo (Mateo 27,7), fue comprado por los sacerdotes con las treinta piezas de plata rechazadas por Judas, y convertido en lugar de sepultura para judíos no pertenecientes a la ciudad. [Aceldama]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:7",
+        "original": "Matthew 27:7"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "pottery": {
+    "name": "Cerámica",
+    "slug": "pottery",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El arte de se practicó desde el principio en todas las naciones. El alfarero parece haber empleado diversos materiales. La loza de barro se menciona en relación con la historia de Melquisedec (Gén. 14:18), de Abraham (18:4-8), de Rebeca (27:14), de Raquel (29:2, 3, 8, 10). Jeremías menciona el torno del alfarero (18:3). Véase también 1 Crón. 4:23; PD. 2:9; Isa. 45:9; 64:8; Jer. 19:1; Justicia. 4:2; Zac. 11:13; Memoria de sólo lectura. 9:21."
+      },
+      {
+        "source": "SMI",
+        "text": "El arte de la alfarería es una de las manufacturas más comunes y antiguas. Es muy evidente que los hebreos utilizaban vasijas de barro en el desierto y que el comercio del alfarero se desarrolló posteriormente en Palestina. Ellos mismos habían estado involucrados en el comercio del alfarero en Egipto (Salmo 81:6) y las pinturas murales ilustran minuciosamente el proceso egipcio. El barro, una vez excavado, era pisado por los pies de los hombres para formar una pasta (Isaías 41:25). 15:7; Luego el alfarero lo colocaba en el torno junto al cual estaba sentado y le daba forma con sus manos. Se desconoce cuándo se empezó a utilizar la rueda en Palestina, pero parece probable que fuera adoptada en Egipto. (Isaías 45:9; Jeremías 15:3.) Luego, la vasija se alisaba y se recubría con un vidriado y finalmente se quemaba en un horno. Había en Jerusalén un establecimiento real de alfareros (1 Crónicas 4:23), de cuyo empleo, y de los fragmentos desechados en el proceso, el Campo del Alfarero tal vez recibió su nombre. (Isaías 30:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:18",
+        "original": "Gen. 14:18"
+      },
+      {
+        "reference": "1 Chronicles 4:23",
+        "original": "1 Chr. 4:23"
+      },
+      {
+        "reference": "Psalms 2:9",
+        "original": "Ps. 2:9"
+      },
+      {
+        "reference": "Isaiah 45:9",
+        "original": "Isa. 45:9"
+      },
+      {
+        "reference": "Isaiah 64:8",
+        "original": "Isa 64:8"
+      },
+      {
+        "reference": "Jeremiah 19:1",
+        "original": "Jer. 19:1"
+      },
+      {
+        "reference": "Lamentations 4:2",
+        "original": "Lam. 4:2"
+      },
+      {
+        "reference": "Zechariah 11:13",
+        "original": "Zech. 11:13"
+      },
+      {
+        "reference": "Romans 9:21",
+        "original": "Rom. 9:21"
+      },
+      {
+        "reference": "Psalms 81:6",
+        "original": "Psalms 81:6"
+      },
+      {
+        "reference": "Isaiah 41:25",
+        "original": "Isaiah 41:25"
+      },
+      {
+        "reference": "Wis 15:7",
+        "original": "Wisd. 15:7"
+      },
+      {
+        "reference": "Jeremiah 15:3",
+        "original": "Jeremiah 15:3"
+      },
+      {
+        "reference": "Isaiah 30:11",
+        "original": "Isaiah 30:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "punishment": {
+    "name": "Castigo",
+    "slug": "punishment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El Nuevo Testamento establece los principios generales del buen gobierno, pero no contiene ningún código de leyes para el castigo de los infractores. El castigo se basa en el principio de que existe una distinción eterna entre el bien y el mal, y que esta distinción debe mantenerse por sí misma. No está destinado principalmente a reformar a los criminales ni a disuadir a otros del pecado. Se pueden obtener estos resultados, pero el delito en sí mismo exige castigo. (Ver ASESINATO; ROBO.) Infinito, de los impenitentes e incrédulos. El rechazo de esta doctrina “corta el terreno debajo del evangelio... borra el atributo de la justicia retributiva; transmuta el pecado en desgracia en lugar de culpa; convierte todo sufrimiento en castigo; convierte la obra picacular de Cristo en influencia moral... El intento de retener la teología evangélica en relación con ella es inútil” (Shedd)."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "punishments": {
+    "name": "Castigos",
+    "slug": "punishments",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La teoría más antigua del castigo que existe entre la humanidad es sin duda la de la simple represalia, “sangre por sangre”. Visto históricamente, el primer caso de castigo por un crimen mencionado en la Escritura, después de la Caída misma, es el de Caín, el primer asesino. Que la muerte se consideraba el castigo adecuado por asesinato se desprende claramente del comentario de Lamec. (Génesis 4:24) En el código posdiluviano, si así podemos llamarlo, la retribución por la mano del hombre, incluso en el caso de un animal ofensor, por el derramamiento de sangre, está claramente establecida. (Génesis 9:5,6) Pasando a los tiempos mosaicos, encontramos que la pena capital, en caso de asesinato, estaba claramente establecida en la ley. El asesino debía ser ejecutado, incluso si se hubiera refugiado en el altar de Dios o en una ciudad de refugio, y el mismo principio debía aplicarse incluso en el caso de un animal. Delitos castigados con la muerte.— I. También se señalan en la ley como punibles con la pena de muerte los siguientes delitos:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:24",
+        "original": "Genesis 4:24"
+      },
+      {
+        "reference": "Genesis 9:5",
+        "original": "Genesis 9:5"
+      },
+      {
+        "reference": "Genesis 9:6",
+        "original": "Genesis 9:6"
+      },
+      {
+        "reference": "Exodus 21:15",
+        "original": "Exodus 21:15"
+      },
+      {
+        "reference": "Exodus 21:17",
+        "original": "Exodus 21:17"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Leviticus 24:14"
+      },
+      {
+        "reference": "Leviticus 24:16",
+        "original": "Leviticus 24:16"
+      },
+      {
+        "reference": "Leviticus 24:23",
+        "original": "Leviticus 24:23"
+      },
+      {
+        "reference": "Exodus 31:14",
+        "original": "Exodus 31:14"
+      },
+      {
+        "reference": "Exodus 35:2",
+        "original": "Exodus 35:2"
+      },
+      {
+        "reference": "Numbers 15:32-36",
+        "original": "Numbers 15:32-36"
+      },
+      {
+        "reference": "Exodus 22:18",
+        "original": "Exodus 22:18"
+      },
+      {
+        "reference": "Leviticus 20:27",
+        "original": "Leviticus 20:27"
+      },
+      {
+        "reference": "Leviticus 13:5",
+        "original": "Leviticus 13:5"
+      },
+      {
+        "reference": "Leviticus 18:20",
+        "original": "Leviticus 18:20"
+      },
+      {
+        "reference": "Leviticus 20:10",
+        "original": "Leviticus 20:10"
+      },
+      {
+        "reference": "Leviticus 22:22",
+        "original": "Leviticus 22:22"
+      },
+      {
+        "reference": "Leviticus 21:9",
+        "original": "Leviticus 21:9"
+      },
+      {
+        "reference": "Leviticus 22:21",
+        "original": "Leviticus 22:21"
+      },
+      {
+        "reference": "Leviticus 22:23",
+        "original": "Leviticus 22:23"
+      },
+      {
+        "reference": "Exodus 22:19",
+        "original": "Exodus 22:19"
+      },
+      {
+        "reference": "Leviticus 20:11",
+        "original": "Leviticus 20:11"
+      },
+      {
+        "reference": "Leviticus 20:14",
+        "original": "Leviticus 20:14"
+      },
+      {
+        "reference": "Leviticus 20:16",
+        "original": "Leviticus 20:16"
+      },
+      {
+        "reference": "Exodus 21:16",
+        "original": "Exodus 21:16"
+      },
+      {
+        "reference": "Exodus 24:7",
+        "original": "Exodus 24:7"
+      },
+      {
+        "reference": "Leviticus 20:2",
+        "original": "Leviticus 20:2"
+      },
+      {
+        "reference": "Leviticus 13:8",
+        "original": "Leviticus 13:8"
+      },
+      {
+        "reference": "Leviticus 13:10",
+        "original": "Leviticus 13:10"
+      },
+      {
+        "reference": "Leviticus 13:15",
+        "original": "Leviticus 13:15"
+      },
+      {
+        "reference": "Leviticus 17:2-7",
+        "original": "Leviticus 17:2-7"
+      },
+      {
+        "reference": "Joshua 7:1",
+        "original": "Josh 7:1"
+      },
+      {
+        "reference": "Joshua 22:20",
+        "original": "Josh 22:20"
+      },
+      {
+        "reference": "Numbers 25:8",
+        "original": "Numb 25:8"
+      },
+      {
+        "reference": "Exodus 17:4",
+        "original": "Exodus 17:4"
+      },
+      {
+        "reference": "Luke 20:6",
+        "original": "Luke 20:6"
+      },
+      {
+        "reference": "John 10:31",
+        "original": "John 10:31"
+      },
+      {
+        "reference": "Acts 14:5",
+        "original": "Acts 14:5"
+      },
+      {
+        "reference": "Acts 7:58",
+        "original": "Acts 7:58"
+      },
+      {
+        "reference": "Numbers 25:4",
+        "original": "Numbers 25:4"
+      },
+      {
+        "reference": "2 Samuel 21:6",
+        "original": "2 Samuel 21:6"
+      },
+      {
+        "reference": "2 Samuel 21:9",
+        "original": "2 Samuel 21:9"
+      },
+      {
+        "reference": "Genesis 38:24",
+        "original": "Genesis 38:24"
+      },
+      {
+        "reference": "Exodus 19:13",
+        "original": "Exodus 19:13"
+      },
+      {
+        "reference": "Exodus 32:27",
+        "original": "Exodus 32:27"
+      },
+      {
+        "reference": "Numbers 25:7",
+        "original": "Numbers 25:7"
+      },
+      {
+        "reference": "1 Kings 2:25",
+        "original": "1 Kings 2:25"
+      },
+      {
+        "reference": "1 Kings 2:34",
+        "original": "1 Kings 2:34"
+      },
+      {
+        "reference": "1 Kings 19:1",
+        "original": "1 Kings 19:1"
+      },
+      {
+        "reference": "2 Chronicles 21:4",
+        "original": "2 Chronicles 21:4"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Samuel 12:31"
+      },
+      {
+        "reference": "Proverbs 20:26",
+        "original": "Proverbs 20:26"
+      },
+      {
+        "reference": "Hebrews 11:37",
+        "original": "Hebrews 11:37"
+      },
+      {
+        "reference": "Proverbs 27:22",
+        "original": "Proverbs 27:22"
+      },
+      {
+        "reference": "2Macc 6:28",
+        "original": "2 Macc. 6:28"
+      },
+      {
+        "reference": "2Macc 6:30",
+        "original": "2 Macc. 6:30"
+      },
+      {
+        "reference": "Joshua 7:25",
+        "original": "Joshua 7:25"
+      },
+      {
+        "reference": "Joshua 7:26",
+        "original": "Joshua 7:26"
+      },
+      {
+        "reference": "2 Samuel 18:17",
+        "original": "2 Samuel 18:17"
+      },
+      {
+        "reference": "Jeremiah 22:19",
+        "original": "Jeremiah 22:19"
+      },
+      {
+        "reference": "Exodus 21:24",
+        "original": "Exodus 21:24"
+      },
+      {
+        "reference": "Exodus 21:25",
+        "original": "Exodus 21:25"
+      },
+      {
+        "reference": "Exodus 21:18-36",
+        "original": "Exodus 21:18-36"
+      },
+      {
+        "reference": "Leviticus 24:18-21",
+        "original": "Leviticus 24:18-21"
+      },
+      {
+        "reference": "Leviticus 19:21",
+        "original": "Leviticus 19:21"
+      },
+      {
+        "reference": "2 Corinthians 11:24",
+        "original": "2 Corinthians 11:24"
+      },
+      {
+        "reference": "Judges 8:16",
+        "original": "Judges 8:16"
+      },
+      {
+        "reference": "Jeremiah 20:2",
+        "original": "Jeremiah 20:2"
+      },
+      {
+        "reference": "Judges 1:6",
+        "original": "Judges 1:6"
+      },
+      {
+        "reference": "2Macc 7:4",
+        "original": "2 Macc. 7:4"
+      },
+      {
+        "reference": "2 Samuel 4:12",
+        "original": "2 Samuel 4:12"
+      },
+      {
+        "reference": "Isaiah 50:6",
+        "original": "Isaiah 50:6"
+      },
+      {
+        "reference": "Ezra 7:26",
+        "original": "Ezra 7:26"
+      },
+      {
+        "reference": "Jeremiah 37:15",
+        "original": "Jeremiah 37:15"
+      },
+      {
+        "reference": "Jeremiah 38:6",
+        "original": "Jeremiah 38:6"
+      },
+      {
+        "reference": "Acts 4:3",
+        "original": "Acts 4:3"
+      },
+      {
+        "reference": "Acts 5:18",
+        "original": "Acts 5:18"
+      },
+      {
+        "reference": "Acts 12:4",
+        "original": "Acts 12:4"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "purse": {
+    "name": "Cartera",
+    "slug": "purse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) gr. equilibrio, una bolsa (Lucas 10:4; 22:35, 36). (2.) gr. zona, propiamente un cinturón (Mat. 10:9; Marcos 6:8), un cinturón de dinero. En cuanto al hecho de que nuestro Señor enviara a sus discípulos sin dinero en sus carteras, se ha hecho la observación de que en esto \"no hubo ninguna desviación de las costumbres sencillas del país. En la actualidad, el granjero emprende excursiones igualmente extensas sin un para en su cartera; y un profeta musulmán moderno de Tarshisha envía así a sus apóstoles a esta región idéntica. Ningún viajero del Este dudaría en confiarse a la hospitalidad de cualquier aldea\". La tierra y el libro de Thomson. (Ver guión)."
+      },
+      {
+        "source": "SMI",
+        "text": "una bolsa por dinero. Los hebreos, cuando estaban de viaje, se les proporcionaba una bolsa en la que llevaban su dinero (Génesis 42:35; Proverbios 1:14; 7:20; Isaías 46:6) y, si eran comerciantes, también sus pesas. (25:13; Miqueas 6:11) Esta bolsa se describe en el Nuevo Testamento con los términos balantion (bolsa) (Lucas 10:4; 12:33; 22:35,38) y glosokomon (originalmente la bolsa en la que los músicos llevaban las boquillas de sus instrumentos). (Juan 12:6; 13:29) El cinto también servía como bolso. (Mateo 10:9; Marcos 6:8.) Las damas llevaban carteras ornamentales. (Isaías 3:24)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 10:4",
+        "original": "Luke 10:4"
+      },
+      {
+        "reference": "Luke 22:35",
+        "original": "Luke 22:35"
+      },
+      {
+        "reference": "Luke 22:36",
+        "original": "Luke 22:36"
+      },
+      {
+        "reference": "Matthew 10:9",
+        "original": "Matt. 10:9"
+      },
+      {
+        "reference": "Mark 6:8",
+        "original": "Mark 6:8"
+      },
+      {
+        "reference": "Genesis 42:35",
+        "original": "Genesis 42:35"
+      },
+      {
+        "reference": "Proverbs 1:14",
+        "original": "Proverbs 1:14"
+      },
+      {
+        "reference": "Proverbs 7:20",
+        "original": "Proverbs 7:20"
+      },
+      {
+        "reference": "Isaiah 46:6",
+        "original": "Isaiah 46:6"
+      },
+      {
+        "reference": "Micah 6:11",
+        "original": "Micah 6:11"
+      },
+      {
+        "reference": "Luke 12:33",
+        "original": "Luke 12:33"
+      },
+      {
+        "reference": "Luke 22:38",
+        "original": "Luke 22:38"
+      },
+      {
+        "reference": "John 12:6",
+        "original": "John 12:6"
+      },
+      {
+        "reference": "John 13:29",
+        "original": "John 13:29"
+      },
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isaiah 3:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quails": {
+    "name": "codornices",
+    "slug": "quails",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los israelitas fueron aliviados dos veces de sus privaciones por un suministro milagroso de codornices, (1) en el desierto de Sin (Éxodo 16:13), y (2) nuevamente en Kibrot-hataava (q.v.), Núm. 11:31. Dios “hizo llover sobre ellos carne como polvo, y aves emplumadas como arena del mar” (Sal. 78:27). Las palabras en Núm. 11:31, según la versión autorizada, parece indicar que las codornices yacían una encima de otra hasta un espesor de dos codos sobre el suelo. La versión revisada, sin embargo, dice, \"como dos codos sobre la faz de la tierra\", es decir, las codornices volaban a esta altura y eran fáciles de matar o atrapar con la mano. Una vez conseguidos así en grandes cantidades por el pueblo, “los esparcieron todos” (11:32) para salarlos y secarlos. Estas aves (las Coturnix vulgaris de los naturalistas) se encuentran en innumerables cantidades en las costas del Mediterráneo, y su migración anual es un acontecimiento que causa gran expectación."
+      },
+      {
+        "source": "SMI",
+        "text": "No puede haber duda de que la palabra hebrea en el Pentateuco (Éxodo 16:13; Números 11:31,32) y en el Salmo 105 denota la codorniz común, Coturnix dactylisonans. (La enorme cantidad de codornices capturadas por los israelitas tiene su paralelo en los tiempos modernos. Plinio afirma que a veces se posan en barcos en el Mediterráneo y los hunden. Colenel Sykes afirma que se han capturado 160.000 codornices en una temporada en la isla de Capri.—ED.) La expresión “como dos codos (alto) sobre la faz de la tierra” (Números 11:31) se refiere probablemente a la altura a la que las codornices volaban sobre la superficie de la tierra. tierra, exhaustos por el largo vuelo. En cuanto a las enormes cantidades que se dice que tomó el israelita menos exitoso, a saber. “diez jonrones” (es decir, ochenta fanegas) en el espacio de una noche y dos días, hay muchas razones para creer que los “jonrones aquí mencionados no denotan estrictamente la medida de ese nombre sino simplemente “un montón”. Los israelitas no habrían tenido dificultades para capturar grandes cantidades de estas aves, ya que se sabe que llegan a lugares a veces tan completamente exhaustos por el vuelo que son fácilmente capturados, no sólo en redes, sino también de la mano. Ellos \"esparcieron las codornices alrededor del campamento\"; esto fue con el propósito de secarlos. Los egipcios prepararon estas aves de manera similar. La expresión “codornices del mar” (Números 11:31) no debe limitarse a denotar que las aves vinieron del mar, como punto de partida, sino que debe tomarse para mostrar la dirección de donde venían. Las codornices se encontraban en el momento del suceso narrado en las sagradas escrituras, en su viaje primaveral de migración hacia el norte. Es interesante notar la hora especificada: “era a la tarde” que comenzaron a llegar; y sin duda continuaron viniendo toda la noche. Muchos observadores han registrado que las codornices migran de noche."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:13",
+        "original": "Ex. 16:13"
+      },
+      {
+        "reference": "Numbers 11:31",
+        "original": "Num. 11:31"
+      },
+      {
+        "reference": "Psalms 78:27",
+        "original": "Ps. 78:27"
+      },
+      {
+        "reference": "Numbers 11:32",
+        "original": "Numbers 11:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quarantania": {
+    "name": "cuarentena",
+    "slug": "quarantania",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una montaña de unos 1.200 pies de altura, a unas 7 millas al noroeste de Jericó, el escenario tradicional de la tentación de nuestro Señor (Mat. 4:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 4:8",
+        "original": "Matt. 4:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "quarries": {
+    "name": "Canteras",
+    "slug": "quarries",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Las “Canteras Reales” (no se encuentran en las Escrituras) es el nombre dado a las vastas cavernas que se extienden muy por debajo de la colina norte, Bezeta, sobre la cual está construida Jerusalén. De estas cavernas gigantescas se han extraído piedras, una dura piedra caliza, en tiempos antiguos para los edificios de la ciudad y para los templos de Salomón, Zorobabel y Herodes. En estas cuevas todavía se encuentran enormes bloques de piedra con marcas de pico y cincel. El aspecto general del conjunto sugiere al explorador la idea de que los canteros fenicios acaban de suspender sus trabajos. La suposición de que los bloques de piedra pulidos para el templo de Salomón fueron enviados por Hiram desde el Líbano o Tiro no está respaldada por ninguna evidencia (comp. 1 Reyes 5:8). Hiram envió albañiles y canteros a Jerusalén para ayudar a los trabajadores de Salomón en su gran empresa, pero no envió piedras a Jerusalén, donde, en realidad, no eran necesarias, como atestiguan abundantemente estas canteras reales. (2.) Las “canteras” (heb. pesilim) de Gilgal (Jueces 3:19), de las cuales Ehud regresó con el propósito de llevar a cabo su plan de matar a Eglón, rey de Moab, eran probablemente las “imágenes talladas” (como se traduce la palabra en la LXX. y la Vulgata y en el marg. A.V. y R.V.), o los templos de ídolos que los moabitas habían erigido en Gilgal, donde Los hijos de Israel acamparon por primera vez después de cruzar el Jordán. La palabra hebrea se traduce “imágenes talladas” en Deut. 7:25, y no se traduce en ningún otro lugar como \"canteras\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 5:8",
+        "original": "1 Kings 5:8"
+      },
+      {
+        "reference": "Judges 3:19",
+        "original": "Judg. 3:19"
+      },
+      {
+        "reference": "Deuteronomy 7:25",
+        "original": "Deut. 7:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "quartus": {
+    "name": "Cuarto",
+    "slug": "quartus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cuarto, un cristiano corintio que envió por medio de Pablo sus saludos a sus amigos en Roma (Rom. 16:23)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cuarto), un cristiano de Corinto (Romanos 16:23), se dice que fue uno de los setenta discípulos y luego obispo de Berytus. (AD alrededor del año 50.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:23",
+        "original": "Rom. 16:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quaternion": {
+    "name": "Cuaternio",
+    "slug": "quaternion",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una banda de cuatro soldados. Pedro fue confiado por Herodes a la custodia de cuatro cuaterniones, es decir, un cuaternión por cada vigilia de la noche (Hechos 12:4). Por lo tanto, se tomaron todas las precauciones para evitar que escapara de la prisión. Dos de cada cuaternión estaban a su vez apostados a la puerta (12:6), y a dos de ellos estaba encadenado el apóstol según la costumbre romana."
+      },
+      {
+        "source": "SMI",
+        "text": "término militar que significa una guardia de cuatro soldados, dos de los cuales estaban adscritos a la persona de un prisionero, mientras los otros dos vigilaban fuera de la puerta de su celda. (Hechos 12:4)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 12:4",
+        "original": "Acts 12:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quiver": {
+    "name": "Carcaj",
+    "slug": "quiver",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La funda para flechas. La palabra hebrea (aspah) así comúnmente traducida se encuentra en Job 39:23; PD. 127:5; Isa. 22:6; 49:2; Jer. 5:16; Justicia. 3:13. En Génesis 27:3 esta palabra es la traducción del hebreo teli, que se supone que significa más bien un arma suspendida, literalmente \"lo que cuelga de uno\", es decir, que está suspendido del hombro o del cinto."
+      },
+      {
+        "source": "SMI",
+        "text": "una caja hecha con el propósito de contener flechas. (Génesis 27:3) No hay nada en la Biblia que indique su forma o material, ni de qué manera se transportaba."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 39:23",
+        "original": "Job 39:23"
+      },
+      {
+        "reference": "Psalms 127:5",
+        "original": "Ps. 127:5"
+      },
+      {
+        "reference": "Isaiah 22:6",
+        "original": "Isa. 22:6"
+      },
+      {
+        "reference": "Isaiah 49:2",
+        "original": "Isa 49:2"
+      },
+      {
+        "reference": "Jeremiah 5:16",
+        "original": "Jer. 5:16"
+      },
+      {
+        "reference": "Lamentations 3:13",
+        "original": "Lam. 3:13"
+      },
+      {
+        "reference": "Genesis 27:3",
+        "original": "Gen. 27:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "quotations": {
+    "name": "Cotizaciones",
+    "slug": "quotations",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Del Antiguo Testamento al Nuevo, que son muy numerosos, no se elaboran según ningún método uniforme. Cuando se escribió el Nuevo Testamento, el Antiguo no estaba dividido, como ahora, en capítulos y versículos, y de ahí peculiaridades como estas: Cuando Lucas (20:37) se refiere a Éx. 3:6, cita “Moisés en la zarza”, es decir, la sección que contiene el registro de Moisés en la zarza. Así también Marcos (2:26) se refiere a 1 Sam. 21:1-6, en las palabras, \"en los días de Abiatar\"; y Pablo (Rom. 11:2) se refiere a 1 Reyes cap. 17-19, en las palabras “en Elías”, es decir, en la parte de la historia relativa a Elías. En general, los escritores del Nuevo Testamento citan la versión Septuaginta del Antiguo Testamento, tal como era de uso común entre los judíos. Pero es evidente que estas citas no se hacen de manera uniforme. A veces, por ejemplo, la cita tampoco concuerda literalmente con la LXX. o el texto hebreo. Esto ocurre en unos cien casos. A veces la LXX. se cita literalmente (en unas noventa ocasiones) y, a veces, se corrige o modifica en las citas (en más de ochenta ocasiones). A veces también se hacen citas directamente del texto hebreo (Mat. 4:15, 16; Juan 19:37; 1 Cor. 15:54). Además de las citas hechas directamente, se encuentran innumerables alusiones, más o menos distintas, que muestran que las mentes de los escritores del Nuevo Testamento estaban llenas de expresiones e ideas, así como de hechos históricos registrados en el Antiguo. Hay en total doscientas ochenta y tres citas directas del Antiguo Testamento en el Nuevo, pero ni un solo caso claro y seguro de cita de los Apócrifos (q.v.). Además de las citas del Nuevo Testamento en el Nuevo Testamento, en los escritos de Pablo hay tres citas de ciertos poetas griegos: Hechos 17:28; 1 Cor. 15:33; Tito 1:12. Estas citas son monumentos de su educación clásica temprana."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 3:6",
+        "original": "Ex. 3:6"
+      },
+      {
+        "reference": "1 Samuel 21:1-6",
+        "original": "1 Sam. 21:1-6"
+      },
+      {
+        "reference": "Romans 11:2",
+        "original": "Rom. 11:2"
+      },
+      {
+        "reference": "Matthew 4:15",
+        "original": "Matt. 4:15"
+      },
+      {
+        "reference": "Matthew 4:16",
+        "original": "Matt. 4:16"
+      },
+      {
+        "reference": "John 19:37",
+        "original": "John 19:37"
+      },
+      {
+        "reference": "1 Corinthians 15:54",
+        "original": "1 Cor. 15:54"
+      },
+      {
+        "reference": "Acts 17:28",
+        "original": "Acts 17:28"
+      },
+      {
+        "reference": "1 Corinthians 15:33",
+        "original": "1 Cor. 15:33"
+      },
+      {
+        "reference": "Titus 1:12",
+        "original": "Titus 1:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "c"
+  },
+  "rabbith": {
+    "name": "conejo",
+    "slug": "rabbith",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(multitud) una ciudad en el territorio, quizás en el límite, de Isacar. (Josué 18:20) únicamente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:20",
+        "original": "Joshua 18:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
+  },
+  "race": {
+    "name": "Carrera",
+    "slug": "race",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Juegos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "c"
   }
 }

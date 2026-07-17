@@ -9,6 +9,8 @@ import SermonTags from './SermonTags';
 import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRenderer';
 import { getDictionary } from '../../../../../lib/dictionaries';
 
+import ScriptureSettings from './ScriptureSettings';
+
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
   const paramSet = new Set();
@@ -115,6 +117,7 @@ export default async function SermonPage({ params }) {
                    dangerouslySetInnerHTML={{ __html: `&mdash; ${linkifyBibleReferences(sermon.scripture.reference)}` }} 
                 />
               )}
+              <ScriptureSettings dict={dict} />
             </div>
           )}
         </header>

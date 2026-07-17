@@ -27919,5 +27919,164 @@
       "SMI"
     ],
     "letter": "a"
+  },
+  "plough": {
+    "name": "Arado",
+    "slug": "plough",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado por primera vez en Génesis 45:6, donde la versión autorizada dice \"escuchar\", pero la versión revisada \"arar\"; siguiente en Éx. 34:21 y Deut. 21:4. Originariamente el arado lo tiraban bueyes, pero a veces también lo hacían asnos y hombres. (Ver AGRICULTURA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "Los arados del antiguo Egipto consistían en una reja, a menudo puntiaguda con hierro o bronce, dos mangos y un palo que se insertaba en la base de los dos mangos. Los arados en Palestina suelen tener un solo mango con un palo unido cerca del suelo y tirado por bueyes, vacas o camellos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 45:6",
+        "original": "Gen. 45:6"
+      },
+      {
+        "reference": "Exodus 34:21",
+        "original": "Ex. 34:21"
+      },
+      {
+        "reference": "Deuteronomy 21:4",
+        "original": "Deut. 21:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "poplar": {
+    "name": "Álamo",
+    "slug": "poplar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. libneh, “blanco”, (Génesis 30:37; Oseas 4:13), con toda probabilidad el árbol de estoraque (Styrax officinalis) o álamo blanco, que se distingue por sus flores blancas y hojas pálidas. Es común en el Antilíbano. Otras especies de álamo se encuentran en Palestina, como el álamo blanco (P. alba) de nuestro propio país, el álamo negro (P. nigra) y el álamo temblón (P. tremula). (Ver SAUCE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "Esta es la traducción de la palabra hebrea libneh, que aparece en (Génesis 30:37) y Oseas 4:13. Varias autoridades están a favor de la traducción de la Versión Autorizada y piensan que “álamo blanco” (Populus alba) es el árbol al que se refiere: otros entienden el “árbol de estoraque” (Styrax officinale, Linn.). Tanto los álamos como los árboles de estorax o styrax son comunes en Palestina, y cualquiera de ellos encajaría en los pasajes donde aparece el término hebreo. El estoraque se menciona en Ecclus. 24:15, junto con otras sustancias aromáticas. El Styrax officinale es un arbusto de nueve a doce pies de altura, con hojas ovadas, blancas en el envés; las flores están en racimos y son de color blanco o crema."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 30:37",
+        "original": "Gen. 30:37"
+      },
+      {
+        "reference": "Hosea 4:13",
+        "original": "Hos. 4:13"
+      },
+      {
+        "reference": "Sir 24:15",
+        "original": "Ecclus. 24:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "quicksands": {
+    "name": "arenas movedizas",
+    "slug": "quicksands",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se encuentra únicamente en Hechos 27:17, la traducción del griego Syrtis. En la costa norte de África había dos localidades peligrosas para los marineros, llamadas Syrtis Mayor y Menor. Probablemente aquí se refiera al primero de ellos. Se encuentra entre Trípoli y Barça, y cerca de Cirene. La Syrtis Menor se encontraba más al oeste."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:17",
+        "original": "Acts 27:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "quicksands-the": {
+    "name": "arenas movedizas, las",
+    "slug": "quicksands-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "más propiamente LA Syrtis, The, (Hechos 27:17) la amplia, una ensenada profunda en la costa norte de África entre Cartago y Cirene. En realidad, había dos Syrtes: la oriental o más grande, ahora llamada Golfo de Sidra, y la occidental o más pequeña, ahora Golfo de Cabes. Es al primero al que se dirige nuestra atención en este pasaje de los Hechos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:17",
+        "original": "Acts 27:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "rainbow": {
+    "name": "Arcoíris",
+    "slug": "rainbow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Causado por la reflexión y refracción de los rayos del sol que brillan sobre la lluvia que cae. Fue designado como testigo de la fidelidad divina (Génesis 9:12-17). Existió ciertamente antes, pero luego se constituyó como signo de la alianza. Otros, sin embargo (como Delitzsch, Comentario al Pentateuco), piensan que “apareció entonces por primera vez en la bóveda y las nubes del cielo”. Quienes sostienen esta opinión argumentan que la atmósfera estaba constituida de manera diferente antes del Diluvio. Se hace referencia a él otras tres veces en las Escrituras (Ezequiel 1:27, 28; Apocalipsis 4:1-3; 10:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "la señal del pacto que Dios hizo con Noé cuando salió del arca de que las aguas ya no se convertirían en un diluvio para destruir toda carne. La interpretación correcta de (Génesis 9:13) parece ser que Dios tomó el arco iris, que hasta entonces no había sido más que un hermoso objeto que brillaba en los cielos cuando los rayos del sol caían sobre la lluvia, y lo consagró como signo de su amor y testimonio de su promesa. Eclus. 43:11. El arco iris es un símbolo de la fidelidad y la misericordia de Dios. En el “arco iris alrededor del trono” (Apocalipsis 4:3) se ve el símbolo de la esperanza y el brillante emblema de la misericordia y el amor, tanto más verdadero como símbolo porque se refleja en la tormenta misma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:12-17",
+        "original": "Gen. 9:12-17"
+      },
+      {
+        "reference": "Ezekiel 1:27",
+        "original": "Ezek. 1:27"
+      },
+      {
+        "reference": "Ezekiel 1:28",
+        "original": "Ezek. 1:28"
+      },
+      {
+        "reference": "Revelation 4:1-3",
+        "original": "Rev. 4:1-3"
+      },
+      {
+        "reference": "Revelation 10:1",
+        "original": "Rev 10:1"
+      },
+      {
+        "reference": "Genesis 9:13",
+        "original": "Genesis 9:13"
+      },
+      {
+        "reference": "Sir 43:11",
+        "original": "Ecclus. 43:11"
+      },
+      {
+        "reference": "Revelation 4:3",
+        "original": "Revelation 4:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
   }
 }

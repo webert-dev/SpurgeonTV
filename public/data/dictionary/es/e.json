@@ -13040,5 +13040,33 @@
       "SMI"
     ],
     "letter": "e"
+  },
+  "pond": {
+    "name": "Estanque",
+    "slug": "pond",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los estanques de Egipto (Éxodo 7:19; 13:5) eran sin duda agua dejada por la inundación del Nilo. Estanques para peces mencionados en (Isaías 19:10)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 7:19",
+        "original": "Exodus 7:19"
+      },
+      {
+        "reference": "Exodus 13:5",
+        "original": "Exodus 13:5"
+      },
+      {
+        "reference": "Isaiah 19:10",
+        "original": "Isaiah 19:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "e"
   }
 }

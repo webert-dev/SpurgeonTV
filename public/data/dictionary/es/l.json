@@ -8290,5 +8290,385 @@
       "EAS"
     ],
     "letter": "l"
+  },
+  "pharaoh-s-daughters": {
+    "name": "las hijas del faraón",
+    "slug": "pharaoh-s-daughters",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Así, en las Escrituras se mencionan tres princesas: (1.) La princesa que adoptó al niño Moisés (q.v.), Éx. 2:10. Ella es mencionada dos veces en el Nuevo Testamento (Hechos 7:21: Heb. 11:24). Parecería que ella estaba viva y en alguna posición de influencia en la corte cuando Moisés se vio obligado a huir de Egipto y, por lo tanto, durante cuarenta años él había estado de alguna manera bajo su influencia. Con toda probabilidad era hermana de Ramsés e hija de Seti I. Josefo la llama Termutis. Algunos suponen que ella era Nefert-ari, la esposa y hermana de Ramsés. La momia de esta reina se encontraba entre los tesoros encontrados en Deir-el-Bahari. (2.) \"Bitías, la hija de Faraón, que tomó Mered (1 Crónicas 4:18). (3.) La esposa de Salomón (1 Reyes 3:1). Esta es la primera referencia desde el Éxodo a cualquier conexión de Israel con Egipto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 2:10",
+        "original": "Ex. 2:10"
+      },
+      {
+        "reference": "Acts 7:21",
+        "original": "Acts 7:21"
+      },
+      {
+        "reference": "Hebrews 11:24",
+        "original": "Heb. 11:24"
+      },
+      {
+        "reference": "1 Chronicles 4:18",
+        "original": "1 Chr. 4:18"
+      },
+      {
+        "reference": "1 Kings 3:1",
+        "original": "1 Kings 3:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "pitcher": {
+    "name": "Lanzador",
+    "slug": "pitcher",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Recipiente para contener líquidos. En Oriente los cántaros generalmente se llevaban sobre la cabeza o los hombros (Gén. 24:15-20; Jue. 7:16, 19; Marcos 14:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "Esta palabra se usa en la Versión Autorizada para denotar las tinajas o cántaros de barro con una o dos asas, utilizados principalmente por las mujeres para transportar agua, como en la historia de Rebeca. (Génesis 24:15-20) pero ver Marcos 14:13; Lucas 22:10 Este modo de transporte ha sido y sigue siendo costumbre en Oriente y en otros lugares. Los vasos utilizados para este fin generalmente se llevan en la cabeza o en el hombro. Las mujeres beduinas suelen utilizar botellas de piel. Tal era la “botella” que llevaba Agar (Génesis 21:14). La misma palabra se usa para los cántaros empleados por los trescientos hombres de Gedeón. (Jueces 7:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:15-20",
+        "original": "Gen. 24:15-20"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judg. 7:16"
+      },
+      {
+        "reference": "Judges 7:19",
+        "original": "Judg 7:19"
+      },
+      {
+        "reference": "Mark 14:13",
+        "original": "Mark 14:13"
+      },
+      {
+        "reference": "Luke 22:10",
+        "original": "Luke 22:10"
+      },
+      {
+        "reference": "Genesis 21:14",
+        "original": "Genesis 21:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "plain-of-mamre": {
+    "name": "Llanura de Mamre",
+    "slug": "plain-of-mamre",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gén. 13:18; 14:13; R.V., “robles de Mamre”; marg., “encinares”). (Ver MAMRE; TEIL-ÁRBOL.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 13:18",
+        "original": "Gen. 13:18"
+      },
+      {
+        "reference": "Genesis 14:13",
+        "original": "Gen 14:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "plains": {
+    "name": "llanuras",
+    "slug": "plains",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Este término cumple su función en la Versión Autorizada para no menos de siete palabras hebreas distintas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 11:33",
+        "original": "Judges 11:33"
+      },
+      {
+        "reference": "Genesis 11:2",
+        "original": "Genesis 11:2"
+      },
+      {
+        "reference": "Ezekiel 3:22",
+        "original": "Ezekiel 3:22"
+      },
+      {
+        "reference": "Ezekiel 3:23",
+        "original": "Ezekiel 3:23"
+      },
+      {
+        "reference": "Ezekiel 8:4",
+        "original": "Ezekiel 8:4"
+      },
+      {
+        "reference": "Ezekiel 37:1",
+        "original": "Ezekiel 37:1"
+      },
+      {
+        "reference": "Ezekiel 37:2",
+        "original": "Ezekiel 37:2"
+      },
+      {
+        "reference": "Daniel 3:1",
+        "original": "Daniel 3:1"
+      },
+      {
+        "reference": "Genesis 12:6",
+        "original": "Genesis 12:6"
+      },
+      {
+        "reference": "Genesis 11:30",
+        "original": "Genesis 11:30"
+      },
+      {
+        "reference": "Genesis 13:18",
+        "original": "Genesis 13:18"
+      },
+      {
+        "reference": "Genesis 14:13",
+        "original": "Genesis 14:13"
+      },
+      {
+        "reference": "Genesis 18:1",
+        "original": "Genesis 18:1"
+      },
+      {
+        "reference": "Judges 4:11",
+        "original": "Judges 4:11"
+      },
+      {
+        "reference": "Judges 9:6",
+        "original": "Judges 9:6"
+      },
+      {
+        "reference": "Judges 9:37",
+        "original": "Judges 9:37"
+      },
+      {
+        "reference": "1 Samuel 10:5",
+        "original": "1 Samuel 10:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "pound": {
+    "name": "Libra",
+    "slug": "pound",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Un peso. heb. maneh, equivalente a 100 siclos (1 Reyes 10:17; Esdras 2:69; Nehemías 7:71, 72). Gramo. litros, equivalente a aproximadamente 12 oz. avoirdupois (Juan 12:3; 19:39). (2.) Una suma de dinero; el gr. mna o mina (Lucas 19:13, 16, 18, 20, 24, 25). Equivalía a 100 dracmas y valía unos 3,6 chelines. 8d. de nuestro dinero. (Ver DINERO)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:17",
+        "original": "1 Kings 10:17"
+      },
+      {
+        "reference": "Ezra 2:69",
+        "original": "Ezra 2:69"
+      },
+      {
+        "reference": "Nehemiah 7:71",
+        "original": "Neh. 7:71"
+      },
+      {
+        "reference": "Nehemiah 7:72",
+        "original": "Neh. 7:72"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "John 19:39",
+        "original": "John 19:39"
+      },
+      {
+        "reference": "Luke 19:13",
+        "original": "Luke 19:13"
+      },
+      {
+        "reference": "Luke 19:16",
+        "original": "Luke 19:16"
+      },
+      {
+        "reference": "Luke 19:18",
+        "original": "Luke 19:18"
+      },
+      {
+        "reference": "Luke 19:20",
+        "original": "Luke 19:20"
+      },
+      {
+        "reference": "Luke 19:24",
+        "original": "Luke 19:24"
+      },
+      {
+        "reference": "Luke 19:25",
+        "original": "Luke 19:25"
+      },
+      {
+        "reference": "Luke 19:12-27",
+        "original": "Luke 19:12-27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "pulse": {
+    "name": "Legumbres",
+    "slug": "pulse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dan. 1:12, 16), R.V. “hierbas”, alimentos vegetales en general."
+      },
+      {
+        "source": "SMI",
+        "text": "(semillas) generalmente significa guisantes, frijoles y las semillas que crecen en vainas. En la Versión Autorizada aparece sólo en (Lamentaciones 1:12,16) como la traducción de palabras cuyo significado literal es “semillas” de cualquier tipo. Probablemente el término denota cereales crudos de cualquier tipo, como cebada, trigo, mijo, arvejas, etc."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 1:12",
+        "original": "Dan. 1:12"
+      },
+      {
+        "reference": "Daniel 1:16",
+        "original": "Dan. 1:16"
+      },
+      {
+        "reference": "Lamentations 1:12",
+        "original": "Lamentations 1:12"
+      },
+      {
+        "reference": "Lamentations 1:16",
+        "original": "Lamentations 1:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "rain": {
+    "name": "Lluvia",
+    "slug": "rain",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hay tres palabras hebreas que se usan para denotar las lluvias de diferentes estaciones: (1.) Yoreh (Oseas 6:3), o moreh (Joel 2:23), que denota la lluvia temprana o temprana. (2.) Melqosh, la “lluvia tardía” (Proverbios 16:15). (3.) Gesem, la lluvia de invierno, “las lluvias”. La fuerte lluvia invernal se menciona en Génesis 7:12; Esdras 10:9; No poder. 2:11. Las lluvias “tempranas” o “anteriores” comienzan en otoño, a finales de octubre o principios de noviembre (Deuteronomio 11:14; Joel 2:23; comp. Jer. 3:3), y continúan cayendo intensamente durante dos meses. Luego caen las fuertes “lluvias invernales” desde mediados de diciembre hasta marzo. Entre octubre y marzo no hay buen tiempo prolongado en Palestina. Las lluvias “tardías” o primaverales caen en marzo y abril y sirven para hinchar el grano que está llegando a su madurez (Deuteronomio 11:14; Oseas 6:3). Después de esto normalmente no llueve, el cielo está brillante y sin nubes hasta octubre o noviembre. En Deut. se hace referencia simbólica a la lluvia. 32:2; PD. 72:6; Isa. 44:3, 4; Hos. 10:12."
+      },
+      {
+        "source": "SMI",
+        "text": "En la Biblia, “lluvia temprana” significa la lluvia del otoño (11:14) y “lluvia tardía”, la lluvia de primavera. (Proverbios 16:1,5) Durante seis meses al año, de mayo a octubre, no llueve, toda la tierra se vuelve seca, reseca y marrón. Se esperan con ansias las lluvias otoñales, para preparar la tierra para la recepción de la semilla. Estas, las lluvias tempranas, comienzan a finales de octubre y continúan durante noviembre y diciembre. Enero y febrero son los meses más fríos, y cae nieve, a veces hasta una profundidad de un pie o más, en Jerusalén, pero no dura mucho; Rara vez se lo ve a lo largo de la costa y en las llanuras bajas. La lluvia continúa cayendo más o menos durante el mes de marzo, siendo muy rara en abril. Robinson observa que en la actualidad no hay \"ningún período particular de lluvia o sucesión de aguaceros que puedan considerarse como estaciones lluviosas distintas. Todo el período de octubre a marzo constituye ahora sólo una estación continua de lluvias, sin ningún período regular de buen tiempo prolongado. A menos que haya habido algún cambio en el clima, las lluvias tempranas y tardías, que el agricultor esperaba con anhelo, parecen más bien implicadas las primeras lluvias de otoño, que revivieron el tierra reseca y sedienta y la preparó para la semilla, y las lluvias posteriores de la primavera, que continuaron refrescando y promoviendo tanto las cosechas maduras como los productos primaverales de los campos”. (Santiago 5:7; Proverbios 16:15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 6:3",
+        "original": "Hos. 6:3"
+      },
+      {
+        "reference": "Joel 2:23",
+        "original": "Joel 2:23"
+      },
+      {
+        "reference": "Proverbs 16:15",
+        "original": "Prov. 16:15"
+      },
+      {
+        "reference": "Genesis 7:12",
+        "original": "Gen. 7:12"
+      },
+      {
+        "reference": "Ezra 10:9",
+        "original": "Ezra 10:9"
+      },
+      {
+        "reference": "Song of Solomon 2:11",
+        "original": "Cant. 2:11"
+      },
+      {
+        "reference": "Deuteronomy 11:14",
+        "original": "Deut. 11:14"
+      },
+      {
+        "reference": "Jeremiah 3:3",
+        "original": "Jer. 3:3"
+      },
+      {
+        "reference": "Deuteronomy 32:2",
+        "original": "Deut. 32:2"
+      },
+      {
+        "reference": "Psalms 72:6",
+        "original": "Ps. 72:6"
+      },
+      {
+        "reference": "Isaiah 44:3",
+        "original": "Isa. 44:3"
+      },
+      {
+        "reference": "Isaiah 44:4",
+        "original": "Isa 44:4"
+      },
+      {
+        "reference": "Hosea 10:12",
+        "original": "Hos. 10:12"
+      },
+      {
+        "reference": "Proverbs 16:1",
+        "original": "Proverbs 16:1"
+      },
+      {
+        "reference": "Proverbs 16:5",
+        "original": "Proverbs 16:5"
+      },
+      {
+        "reference": "James 5:7",
+        "original": "James 5:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
   }
 }

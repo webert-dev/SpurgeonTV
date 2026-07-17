@@ -1854,5 +1854,77 @@
       "EAS"
     ],
     "letter": "v"
+  },
+  "poison": {
+    "name": "Veneno",
+    "slug": "poison",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. hemah, \"calor\", el veneno de ciertos reptiles venenosos (Deut. 32:24, 33; Job 6:4; Sal. 58:4), que causa inflamación. (2.) Heb. rosh, “una cabeza”, una planta venenosa (Deut. 29:18), que crece exuberantemente (Ose. 10:4), de sabor amargo (Sal. 69:21; Lam. 3:5), y unida a ajenjo; probablemente la amapola. Esta palabra se traduce “hiel”, q.v. (Deut. 29:18; 32:33; Sal. 69:21; Jer. 8:14, etc.), “cicuta” (Ose. 10:4; Amós 6:12) y “veneno” (Job 20:16), “el veneno de áspides”, lo que muestra que el rosh no era exclusivamente un veneno vegetal. (3.) En Rom. 3:13 (comp. Job 20:16; Sal. 140:3), Santiago 3:8, como la traducción del griego ios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:24",
+        "original": "Deut. 32:24"
+      },
+      {
+        "reference": "Deuteronomy 32:33",
+        "original": "Deut. 32:33"
+      },
+      {
+        "reference": "Job 6:4",
+        "original": "Job 6:4"
+      },
+      {
+        "reference": "Psalms 58:4",
+        "original": "Ps. 58:4"
+      },
+      {
+        "reference": "Deuteronomy 29:18",
+        "original": "Deut. 29:18"
+      },
+      {
+        "reference": "Hosea 10:4",
+        "original": "Hos. 10:4"
+      },
+      {
+        "reference": "Psalms 69:21",
+        "original": "Ps. 69:21"
+      },
+      {
+        "reference": "Lamentations 3:5",
+        "original": "Lam. 3:5"
+      },
+      {
+        "reference": "Jeremiah 8:14",
+        "original": "Jer. 8:14"
+      },
+      {
+        "reference": "Amos 6:12",
+        "original": "Amos 6:12"
+      },
+      {
+        "reference": "Job 20:16",
+        "original": "Job 20:16"
+      },
+      {
+        "reference": "Romans 3:13",
+        "original": "Rom. 3:13"
+      },
+      {
+        "reference": "Psalms 140:3",
+        "original": "Ps. 140:3"
+      },
+      {
+        "reference": "James 3:8",
+        "original": "James 3:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
   }
 }

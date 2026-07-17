@@ -8262,5 +8262,62 @@
       "SMI"
     ],
     "letter": "g"
+  },
+  "pomegranate": {
+    "name": "Granada",
+    "slug": "pomegranate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Es decir, “manzana en grano” (pomum granatum), heb. rimmón. Común en Egipto (Núm. 20:5) y Palestina (13:23; Deut. 8:8). Los romanos la llamaron Punicum malum, es decir, manzana cartaginesa, porque la recibieron de Cartago. Pertenece a la familia de árboles de los mirtos. El marchitamiento del granado se menciona entre los juicios de Dios (Joel 1:12). Se menciona con frecuencia en el Cantar de los Cantares (Cant. 4:3, 13, etc.). La falda del manto azul y del efod del sumo sacerdote estaba adornada con la representación de granadas, alternadas con campanillas de oro (Éxodo 28:33, 34), al igual que los \"capítulos sobre las dos columnas\" (1 Reyes 7:20) que \"estaban delante de la casa\"."
+      },
+      {
+        "source": "SMI",
+        "text": "El granado, Punicu granatum, deriva su nombre del latín pomum granatum, \"manzana de grano\". Los romanos le dieron el nombre de Punica, ya que el árbol fue introducido desde Cartago. Pertenece al orden natural Myrtaceae (Myrtle), siendo, sin embargo, más un arbusto alto que un árbol. El follaje es de color verde oscuro, las flores son carmesí, el fruto, que es aproximadamente del tamaño de una naranja artística, es rojo cuando en Palestina es a mediados de octubre. Contiene una cantidad de jugo. Se hace mención en (Cantares de los Cantares 8:2) del vino especiado del jugo de la granada. La corteza se utiliza en la fabricación de cuero de tafilete y, junto con la corteza, a veces se utiliza con fines medicinales. El Sr. Royle (Kitto’s Cyc., arte “Rimmon”) afirma que este árbol es originario de Asia y se puede rastrear desde Siria a través de Persia, incluso hasta las montañas del norte de la India. La granada se cultivó tempranamente en Egipto; de ahí la queja de los israelitas en el desierto de Zin, (Números 20:5) este “no es lugar de higueras, ni de vides, ni de granados”. Figuras talladas de granadas adornaban la parte superior de los pilares del templo de Salomón (1 Reyes 7:18,20), etc.; y representaciones labradas de este fruto, en azul, púrpura y escarlata, adornaban el borde del manto del efod. (Éxodo 28:33,34)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 20:5",
+        "original": "Num. 20:5"
+      },
+      {
+        "reference": "Deuteronomy 8:8",
+        "original": "Deut. 8:8"
+      },
+      {
+        "reference": "Joel 1:12",
+        "original": "Joel 1:12"
+      },
+      {
+        "reference": "Song of Solomon 4:3",
+        "original": "Cant. 4:3"
+      },
+      {
+        "reference": "Song of Solomon 4:13",
+        "original": "Cant. 4:13"
+      },
+      {
+        "reference": "Exodus 28:33",
+        "original": "Ex. 28:33"
+      },
+      {
+        "reference": "Exodus 28:34",
+        "original": "Ex. 28:34"
+      },
+      {
+        "reference": "1 Kings 7:20",
+        "original": "1 Kings 7:20"
+      },
+      {
+        "reference": "1 Kings 7:18",
+        "original": "1 Kings 7:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

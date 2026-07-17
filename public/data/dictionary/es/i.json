@@ -5201,5 +5201,29 @@
       "EAS"
     ],
     "letter": "i"
+  },
+  "picture": {
+    "name": "Imagen",
+    "slug": "picture",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "En dos de los tres pasajes en los que se usa “imagen” en la Versión Autorizada, denota representaciones idólatras, ya sean imágenes independientes o, más generalmente, piedras “retratadas”, es decir, esculpidas en bajo relieve o grabadas y coloreadas. (Ezequiel 23:14) Layard, Nin. y Rob. ii. 306, 308. Los cuadros móviles, en el sentido moderno, eran sin duda desconocidos para los judíos. Los “imágenes de plata” de (Proverbios 25:11) probablemente eran superficies de pozo o cornisas con tallas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 23:14",
+        "original": "Ezekiel 23:14"
+      },
+      {
+        "reference": "Proverbs 25:11",
+        "original": "Proverbs 25:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "i"
   }
 }
