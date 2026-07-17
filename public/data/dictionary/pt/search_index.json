@@ -3815,6 +3815,11 @@
     "letter": "a"
   },
   {
+    "name": "Aço",
+    "slug": "steel",
+    "letter": "a"
+  },
+  {
     "name": "Bigorna",
     "slug": "anvil",
     "letter": "b"
@@ -8200,6 +8205,16 @@
     "letter": "c"
   },
   {
+    "name": "Coar",
+    "slug": "strain-at",
+    "letter": "c"
+  },
+  {
+    "name": "Chicotadas",
+    "slug": "stripes",
+    "letter": "c"
+  },
+  {
     "name": "Diamante",
     "slug": "adamant",
     "letter": "d"
@@ -10925,12 +10940,12 @@
     "letter": "e"
   },
   {
-    "name": "Estados",
+    "name": "Estater",
     "slug": "stater",
     "letter": "e"
   },
   {
-    "name": "Estóicos",
+    "name": "Estoicos",
     "slug": "stoics",
     "letter": "e"
   },
@@ -10940,7 +10955,7 @@
     "letter": "e"
   },
   {
-    "name": "Estranho",
+    "name": "Estrangeiro",
     "slug": "stranger",
     "letter": "e"
   },
@@ -10955,9 +10970,9 @@
     "letter": "e"
   },
   {
-    "name": "E aí, tudo bem?",
+    "name": "Sufe",
     "slug": "suph",
-    "letter": "e"
+    "letter": "s"
   },
   {
     "name": "Espada",
@@ -11027,6 +11042,51 @@
   {
     "name": "Esqueça",
     "slug": "zabud",
+    "letter": "e"
+  },
+  {
+    "name": "Especiaria",
+    "slug": "spicery",
+    "letter": "e"
+  },
+  {
+    "name": "Esposa/Esposo",
+    "slug": "spouse",
+    "letter": "e"
+  },
+  {
+    "name": "Estaquis",
+    "slug": "stachys",
+    "letter": "e"
+  },
+  {
+    "name": "Estacte",
+    "slug": "stacte",
+    "letter": "e"
+  },
+  {
+    "name": "Estrela dos Magos",
+    "slug": "star-of-the-wise-men",
+    "letter": "e"
+  },
+  {
+    "name": "Estrela da Manhã",
+    "slug": "star-morning",
+    "letter": "e"
+  },
+  {
+    "name": "Estéfanas",
+    "slug": "stephanas",
+    "letter": "e"
+  },
+  {
+    "name": "Estêvão",
+    "slug": "stephen",
+    "letter": "e"
+  },
+  {
+    "name": "Estomáquero (Peitoral)",
+    "slug": "stomacher",
     "letter": "e"
   },
   {
@@ -11807,6 +11867,16 @@
   {
     "name": "Filho",
     "slug": "son",
+    "letter": "f"
+  },
+  {
+    "name": "Fiandeira",
+    "slug": "spinning",
+    "letter": "f"
+  },
+  {
+    "name": "Fonte",
+    "slug": "spring",
     "letter": "f"
   },
   {
@@ -18260,6 +18330,11 @@
     "letter": "l"
   },
   {
+    "name": "Lanceiros",
+    "slug": "spearmen",
+    "letter": "l"
+  },
+  {
     "name": "Macaco",
     "slug": "ape",
     "letter": "m"
@@ -24080,7 +24155,7 @@
     "letter": "p"
   },
   {
-    "name": "Pedras preciosas",
+    "name": "Pedras Preciosas",
     "slug": "stones-precious",
     "letter": "p"
   },
@@ -24227,6 +24302,16 @@
   {
     "name": "Pórtico de Salomão",
     "slug": "solomons-porch",
+    "letter": "p"
+  },
+  {
+    "name": "Porca",
+    "slug": "sow",
+    "letter": "p"
+  },
+  {
+    "name": "Padrões",
+    "slug": "standards",
     "letter": "p"
   },
   {
@@ -25525,7 +25610,7 @@
     "letter": "r"
   },
   {
-    "name": "Ramoth do Sul",
+    "name": "Ramote do Sul",
     "slug": "south-ramoth",
     "letter": "r"
   },
@@ -25535,7 +25620,7 @@
     "letter": "r"
   },
   {
-    "name": "Rio do Egito",
+    "name": "Ribeiro do Egito",
     "slug": "stream-of-egypt",
     "letter": "r"
   },
@@ -27650,27 +27735,27 @@
     "letter": "s"
   },
   {
-    "name": "Sopater",
+    "name": "Sópatro",
     "slug": "sopater",
     "letter": "s"
   },
   {
-    "name": "Sophereth",
+    "name": "Soferete",
     "slug": "sophereth",
     "letter": "s"
   },
   {
-    "name": "Sorek",
+    "name": "Soreque",
     "slug": "sorek",
     "letter": "s"
   },
   {
-    "name": "Sosipater",
+    "name": "Sosípatro",
     "slug": "sosipater",
     "letter": "s"
   },
   {
-    "name": "Sosthenes",
+    "name": "Sóstenes",
     "slug": "sosthenes",
     "letter": "s"
   },
@@ -27690,7 +27775,7 @@
     "letter": "s"
   },
   {
-    "name": "Semeador, Semeadura",
+    "name": "Semeador, Semear",
     "slug": "sower-sowing",
     "letter": "s"
   },
@@ -28482,6 +28567,21 @@
   {
     "name": "Socó",
     "slug": "socho",
+    "letter": "s"
+  },
+  {
+    "name": "Sua",
+    "slug": "suah",
+    "letter": "s"
+  },
+  {
+    "name": "Subscrições",
+    "slug": "subscriptions",
+    "letter": "s"
+  },
+  {
+    "name": "Sucote",
+    "slug": "succoth",
     "letter": "s"
   },
   {
@@ -29657,6 +29757,11 @@
   {
     "name": "Tribo de Zebulom",
     "slug": "zebulun-tribe-of",
+    "letter": "t"
+  },
+  {
+    "name": "Tronco/Cepo",
+    "slug": "stocks",
     "letter": "t"
   },
   {

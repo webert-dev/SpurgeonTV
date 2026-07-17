@@ -16082,11 +16082,11 @@
     "definitions": [
       {
         "source": "EAS",
-        "text": "O joio barbudo, mencionado apenas em Mateus 13:25-30. Trata-se do Lolium temulentum, uma espécie de azevém, cujas sementes contêm um forte veneno soporífero. Ela se assemelha muito ao trigo até o aparecimento da espiga, e somente então a diferença é percebida. Cresce em abundância na Síria e na Palestina."
+        "text": "O joio barbado, mencionado apenas em Mateus 13:25-30. É a Lolium temulentum, uma espécie de gramínea cujas sementes contêm um veneno soporífero forte. Ele se assemelha muito ao trigo até que a espiga apareça, e só então a diferença é descoberta. Cresce abundantemente na Síria e na Palestina."
       },
       {
         "source": "SMI",
-        "text": "Não há dúvida de que a “zizania” da parábola (Mateus 13:25) se refere à erva daninha chamada “joio” (Lolium temulentum). O joio, antes de espigar, é muito semelhante em aparência ao trigo; daí a ordem de que a zizânia fosse deixada até a colheita, para que, ao arrancarem o joio, “não arrancassem também o trigo junto com ele”. O Dr. Stanley, no entanto, fala de mulheres e crianças colhendo, entre o trigo nos campos de Samaria, os caules altos e verdes, ainda chamados pelos árabes de zuwan. “Esses caules”, continua ele, “se semeados propositalmente pelos campos, seriam inseparáveis do trigo, do qual, mesmo quando crescem naturalmente e por acaso, são à primeira vista dificilmente distinguíveis”. Veja também Thomson (“The Land and the Book”, p. 420): “O grão está exatamente no estágio adequado para ilustrar a parábola. Nas áreas onde o grão já espigou, o joio também o fez, e então uma criança não pode confundi-lo com trigo ou cevada; mas onde ambos estão menos desenvolvidos, mesmo o exame mais minucioso muitas vezes não consegue detectá-los. Mesmo os agricultores, que neste país geralmente capinam seus campos, não tentam separar um do outro.” Os grãos da L. temulentum, se ingeridos, provocam convulsões e até mesmo a morte."
+        "text": "Não há dúvida de que o zizania da parábola (Mateus 13:25) denota a erva daninha chamada “joio” (Lolium temulentum). Antes de espigar, o joio é muito semelhante ao trigo em aparência; daí a ordem de que o zizania fosse deixado até a colheita, para que, ao arrancar o joio, “não arrancassem também o trigo com ele”. O Dr. Stanley, contudo, fala de mulheres e crianças colhendo nos campos de trigo de Samaria os talos verdes altos, ainda chamados pelos árabes de zuwan. “Esses talos”, continua ele, “se semeados propositalmente por todos os campos, seriam inseparáveis do trigo, do qual, mesmo quando crescem naturalmente e por acaso, são à primeira vista quase indistinguíveis.” Veja também Thomson (“The Land and the Book”, p. 420): “O grão está exatamente no estágio adequado para ilustrar a parábola. Nas partes onde o grão espigou, o joio fez o mesmo, e então uma criança não pode confundi-lo com trigo ou cevada; mas onde ambos estão menos desenvolvidos, a inspeção mais rigorosa muitas vezes não consegue detectá-los. Mesmo os agricultores, que neste país geralmente capinam seus campos, não tentam separar um do outro.” Os grãos de L. temulentum, se ingeridos, produzem convulsões e até a morte."
       }
     ],
     "scripture_refs": [
@@ -16465,6 +16465,21 @@
     ],
     "sources": [
       "EAS"
+    ],
+    "letter": "j"
+  },
+  "swearing": {
+    "name": "Juramento",
+    "slug": "swearing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Juramento]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
     ],
     "letter": "j"
   }

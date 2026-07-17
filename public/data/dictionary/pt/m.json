@@ -18683,5 +18683,25 @@
       "SMI"
     ],
     "letter": "m"
+  },
+  "tables": {
+    "name": "Mesas",
+    "slug": "tables",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 7:4) significa sofás ou bancos de banquete, nos quais os judeus se reclinavam durante as refeições. Esse costume, juntamente com o uso de mesas elevadas como as nossas, foi introduzido entre os judeus após o Cativeiro. Antes disso, eles não tinham, propriamente falando, nenhuma mesa. O que servia ao propósito era uma pele ou pedaço de couro estendido sobre o chão acarpetado. Às vezes, um banco era colocado no meio dessa pele. (Veja SEIO DE ABRAÃO; BANQUETE; REFEIÇÕES.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:4",
+        "original": "Mark 7:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
   }
 }

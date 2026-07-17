@@ -6864,12 +6864,12 @@
     "letter": "f"
   },
   "surety": {
-    "name": "Fiança",
+    "name": "Fiador",
     "slug": "surety",
     "definitions": [
       {
         "source": "EAS",
-        "text": "Aquele que se torna responsável por outra pessoa. Cristo é o fiador da aliança superior (Hb 7,22). Nele temos a certeza de que todas as suas disposições serão cumpridas de forma plena e fiel. Salomão adverte contra assumir imprudentemente a responsabilidade por outra pessoa (Provérbios 6:1-5; 11:15; 17:18; 20:16)."
+        "text": "Aquele que se torna responsável por outro. Cristo é o fiador da melhor aliança (Hebreus 7:22). Nele, temos a garantia de que todas as suas provisões serão plena e fielmente cumpridas. Salomão alerta contra se tornar imprudentemente fiador de outro (Provérbios 6:1-5; 11:15; 17:18; 20:16)."
       }
     ],
     "scripture_refs": [
@@ -6905,7 +6905,7 @@
     "definitions": [
       {
         "source": "SMI",
-        "text": "Na ausência total de comércio, a lei não estabelecia regras sobre o tema da fiança; mas é evidente que, na época de Salomão, as transações comerciais haviam se multiplicado a tal ponto que a fiança, no sentido comercial, era comum. (Provérbios 6:1; 11:15; 17:18; 20:16; 22:26; 27:13) Mas, em épocas mais antigas, a noção de um homem se tornar fiador de um serviço a ser cumprido por outro já estava plenamente em vigor. Veja (Gênesis 44:32). O fiador, é claro, tornava-se responsável pelas dívidas de seu cliente em caso de inadimplência deste."
+        "text": "Na ausência total de comércio, a lei não estabelecia regras sobre o assunto da fiança; mas é evidente que, no tempo de Salomão, as transações comerciais tinham se multiplicado tanto que a fiança, no sentido comercial, era comum. (Provérbios 6:1; 11:15; 17:18; 20:16; 22:26; 27:13). Mas, nos tempos antigos, a noção de um homem se tornar fiador por um serviço a ser prestado por outro estava em pleno vigor. Veja (Gênesis 44:32). O fiador, é claro, tornava-se responsável pelas dívidas de seu cliente em caso de falha deste."
       }
     ],
     "scripture_refs": [
@@ -6949,7 +6949,7 @@
     "definitions": [
       {
         "source": "EAS",
-        "text": "A terceira das grandes festas anuais dos judeus (Lv 23,33-43). Também é chamada de “festa da colheita” (Êx 23,16; Dt 16,13). Era celebrada imediatamente após a colheita, no mês de Tisri, e a celebração durava oito dias (Lv 23,33-43). Durante esse período, o povo deixava suas casas e vivia em cabanas feitas de galhos de árvores. Os sacrifícios oferecidos nessa ocasião são mencionados em Números 29:13-38. Foi na época dessa festa que o templo de Salomão foi dedicado (1 Reis 8:2). Há menção a ela após o retorno do cativeiro. Essa festa foi concebida (1) para ser uma comemoração das andanças no deserto, quando o povo habitava em cabanas (Lv 23,43), e (2) para ser uma ação de graças pela colheita (Ne 8,9-18). Os judeus, posteriormente, introduziram dois elementos adicionais à festa original, a saber: (1) o de tirar água da piscina de Siloé e derramá-la sobre o altar (João 7:2, 37), como memória da água que jorrou da rocha em Horebe; e (2) acender as lâmpadas à noite, em memória da coluna de fogo que os guiava durante a noite em suas andanças. “A Festa dos Tabernáculos, a festa da colheita da Igreja judaica, era a festa mais popular e importante após o Cativeiro. Em Jerusalém, era um dia de festa. Para os peregrinos do outono, que chegavam no dia 14 (do mês de Tisri, já que a festa começava no dia 15), era como entrar em uma cidade silvestre. Telhados e pátios, ruas e praças, estradas e jardins estavam verdejantes com ramos de cidra e murta, palmeira e salgueiro. As cabanas relembravam a peregrinação pelo deserto. A colheita dos frutos profetizava a colheita espiritual.”, Jesus Cristo, de Valling, p. 133."
+        "text": "O terceiro dos grandes festivais anuais dos judeus (Lv 23:33-43). Também é chamado de “festa da colheita” (Êx 23:16; Dt 16:13). Era celebrada imediatamente após a colheita, no mês de Tisri, e a celebração durava oito dias (Lv 23:33-43). Durante esse período, o povo deixava suas casas e vivia em cabanas formadas pelos galhos das árvores. Os sacrifícios oferecidos neste momento são mencionados em Nm 29:13-38. Foi na época desta festa que o templo de Salomão foi dedicado (1 Reis 8:2). É feita menção a ela após o retorno do Cativeiro. Esta festa foi projetada (1) para ser um memorial das peregrinações no deserto, quando o povo habitava em cabanas (Lv 23:43), e (2) para ser um agradecimento pela colheita (Ne 8:9-18). Os judeus, em um período posterior, introduziram dois apêndices ao festival original, a saber: (1) o de tirar água do Tanque de Siloé e derramá-la sobre o altar (Jo 7:2, 37), como um memorial da água da rocha em Horebe; e (2) de acender as lâmpadas à noite, um memorial da coluna de fogo à noite durante suas peregrinações. “A festa dos Tabernáculos, a festa da colheita da Igreja Judaica, foi a festa mais popular e importante após o Cativeiro. Em Jerusalém, era um dia de gala. Era para os peregrinos do outono, que chegavam no 14º dia (do mês de Tisri, a festa começando no 15º), como a entrada em uma cidade silvestre. Telhados e pátios, ruas e praças, estradas e jardins estavam verdes com ramos de cidra e murta, palmeira e salgueiro. As cabanas lembravam a peregrinação pelo deserto. A colheita dos frutos profetizava a colheita espiritual.”, Valling’s Jesus Christ, p. 133."
       }
     ],
     "scripture_refs": [
@@ -7530,6 +7530,106 @@
     ],
     "sources": [
       "EAS"
+    ],
+    "letter": "f"
+  },
+  "tabernacles-the-feast-of": {
+    "name": "Festa dos Tabernáculos",
+    "slug": "tabernacles-the-feast-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Êxodo 23:16) (“a festa da colheita”), o terceiro dos três grandes festivais dos hebreus, que durava do dia 15 ao dia 22 de Tisri."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 23:16",
+        "original": "Exodus 23:16"
+      },
+      {
+        "reference": "Leviticus 23:34-36",
+        "original": "Leviticus 23:34-36"
+      },
+      {
+        "reference": "Numbers 29:12-38",
+        "original": "Numbers 29:12-38"
+      },
+      {
+        "reference": "Numbers 16:13-15",
+        "original": "Numbers 16:13-15"
+      },
+      {
+        "reference": "Numbers 31:10-13",
+        "original": "Numbers 31:10-13"
+      },
+      {
+        "reference": "Leviticus 23:39",
+        "original": "Leviticus 23:39"
+      },
+      {
+        "reference": "Leviticus 15:13-15",
+        "original": "Leviticus 15:13-15"
+      },
+      {
+        "reference": "Ezekiel 45:25",
+        "original": "Ezekiel 45:25"
+      },
+      {
+        "reference": "Leviticus 23:36",
+        "original": "Leviticus 23:36"
+      },
+      {
+        "reference": "Nehemiah 8:18",
+        "original": "Nehemiah 8:18"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Nehemiah 8:15"
+      },
+      {
+        "reference": "Nehemiah 8:16",
+        "original": "Nehemiah 8:16"
+      },
+      {
+        "reference": "Numbers 29:36",
+        "original": "Numbers 29:36"
+      },
+      {
+        "reference": "Numbers 29:38",
+        "original": "Numbers 29:38"
+      },
+      {
+        "reference": "John 7:37",
+        "original": "John 7:37"
+      },
+      {
+        "reference": "John 7:38",
+        "original": "John 7:38"
+      },
+      {
+        "reference": "John 8:12",
+        "original": "John 8:12"
+      },
+      {
+        "reference": "1 Kings 8:2",
+        "original": "1 Kings 8:2"
+      },
+      {
+        "reference": "1 Kings 8:65",
+        "original": "1 Kings 8:65"
+      },
+      {
+        "reference": "Nehemiah 8:13-18",
+        "original": "Nehemiah 8:13-18"
+      },
+      {
+        "reference": "2Macc 10:5-8",
+        "original": "2 Macc. 10:5-8"
+      }
+    ],
+    "sources": [
+      "SMI"
     ],
     "letter": "f"
   }
