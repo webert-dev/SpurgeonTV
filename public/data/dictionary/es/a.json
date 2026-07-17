@@ -28078,5 +28078,1283 @@
       "SMI"
     ],
     "letter": "a"
+  },
+  "rent": {
+    "name": "Alquilar",
+    "slug": "rent",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 3:24), probablemente una cuerda, como se presenta en la LXX. y Vulgata y Versión Revisada, o como algunos prefieren interpretar la frase, “el cinto y el manto se rasgan [es decir, son ‘un desgarro’] por la mano de la violencia”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isa. 3:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "repentance": {
+    "name": "Arrepentimiento",
+    "slug": "repentance",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hay tres palabras griegas utilizadas en el Nuevo Testamento para denotar arrepentimiento. (1.) El verbo metamelomai se usa para un cambio de opinión, como producir arrepentimiento o incluso remordimiento a causa del pecado, pero no necesariamente un cambio de opinión. Esta palabra se usa con referencia al arrepentimiento de Judas (Mateo 27:3). (2.) Metanoeo, que significa cambiar la mente y el propósito de uno, como resultado del conocimiento posterior. Este verbo, con (3) el sustantivo afín metanoia, se usa para referirse al verdadero arrepentimiento, un cambio de mentalidad, propósito y vida, al que se promete la remisión del pecado. El arrepentimiento evangélico consiste en (1) un verdadero sentido de la propia culpa y pecaminosidad; (2) una aprehensión de la misericordia de Dios en Cristo; (3) un odio real al pecado (Sal. 119:128; Job 42:5, 6; 2 Cor. 7:10) y volverse de él hacia Dios; y (4) un esfuerzo persistente por llevar una vida santa caminando con Dios en el camino de sus mandamientos. El verdadero penitente es consciente de su culpa (Sal. 51:4, 9), de su contaminación (51:5, 7, 10) y de su impotencia (51:11; 109:21, 22). Por lo tanto, se percibe a sí mismo como exactamente lo que Dios siempre ha visto que es y declara que es. Pero el arrepentimiento comprende no sólo ese sentimiento de pecado, sino también una aprehensión de misericordia, sin la cual no puede haber verdadero arrepentimiento (Sal. 51:1; 130:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 27:3",
+        "original": "Matt. 27:3"
+      },
+      {
+        "reference": "Psalms 119:128",
+        "original": "Ps. 119:128"
+      },
+      {
+        "reference": "Job 42:5",
+        "original": "Job 42:5"
+      },
+      {
+        "reference": "Job 42:6",
+        "original": "Job 42:6"
+      },
+      {
+        "reference": "2 Corinthians 7:10",
+        "original": "2 Cor. 7:10"
+      },
+      {
+        "reference": "Psalms 51:4",
+        "original": "Ps. 51:4"
+      },
+      {
+        "reference": "Psalms 51:9",
+        "original": "Ps. 51:9"
+      },
+      {
+        "reference": "Psalms 51:1",
+        "original": "Ps. 51:1"
+      },
+      {
+        "reference": "Psalms 130:4",
+        "original": "Ps 130:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "revelation-book-of": {
+    "name": "Apocalipsis, Libro de",
+    "slug": "revelation-book-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "=El Apocalipsis, el libro final y el único libro profético del canon del Nuevo Testamento. El autor de este libro fue sin duda el apóstol Juan. Su nombre aparece cuatro veces en el libro mismo (1:1, 4, 9; 22:8), y hay muchas razones para concluir que el “Juan” aquí mencionado era el apóstol. En un manuscrito de aproximadamente el siglo XII se le llama “Juan el Divino”, pero no se puede asignar ninguna razón para tal denominación. La fecha de redacción de este libro generalmente se ha fijado en el año 96 d.C., durante el reinado de Domiciano. Hay algunos, sin embargo, que defienden una fecha anterior, 68 o 69 d.C., durante el reinado de Nerón. Los que están a favor de una fecha posterior apelan al testimonio del padre cristiano Ireneo, quien recibió información relativa a este libro de quienes habían visto a Juan cara a cara. Dice que el Apocalipsis “fue visto no hace mucho tiempo”. En cuanto a la relación entre este libro y el Evangelio de Juan, se ha observado bien que \"las ideas principales de ambos son las mismas. El uno nos presenta en una visión magnífica, el otro en un gran drama histórico, el conflicto supremo entre el bien y el mal y su resultado. En ambos, Jesucristo es la figura central, cuya victoria a través de la derrota es el resultado del conflicto. En ambos, la dispensación judía es la preparación para el evangelio, y la guerra y el triunfo de Cristo se describen en un lenguaje saturado del Antiguo Testamento. La diferencia de fecha aumentará Hay un largo camino para explicar la diferencia de estilo”. Evangelio de San Juan de Plummer, Introducción."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "ring": {
+    "name": "Anillo",
+    "slug": "ring",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se utiliza como adorno para decorar los dedos, brazos, muñecas y también las orejas y la nariz. Los anillos se usaban como sello (Génesis 38:18). Fueron dados como muestra de investidura de autoridad (Génesis 41:42; Ester 3:8-10; 8:2), y de favor y dignidad (Lucas 15:22). Generalmente los usaban los hombres ricos (Santiago 2:2). Son mencionadas por Isaías (3:21) entre los adornos de las mujeres hebreas."
+      },
+      {
+        "source": "SMI",
+        "text": "El anillo se consideraba una prenda indispensable del atuendo hebreo, ya que contenía su sello. Era, por tanto, el símbolo de la autoridad. (Génesis 41:42; Ester 3:10) Los anillos no solo los usaban los hombres, sino también las mujeres. (Isaías 3:21) Podemos concluir de (Éxodo 28:11) que los anillos contenían una piedra grabada con una inscripción o con el nombre del propietario. La costumbre parece haber prevalecido también entre los judíos de la época apostólica. (Santiago 2:2)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:18",
+        "original": "Gen. 38:18"
+      },
+      {
+        "reference": "Genesis 41:42",
+        "original": "Gen. 41:42"
+      },
+      {
+        "reference": "Esther 3:8-10",
+        "original": "Esther 3:8-10"
+      },
+      {
+        "reference": "Esther 8:2",
+        "original": "Esther 8:2"
+      },
+      {
+        "reference": "Luke 15:22",
+        "original": "Luke 15:22"
+      },
+      {
+        "reference": "James 2:2",
+        "original": "James 2:2"
+      },
+      {
+        "reference": "Esther 3:10",
+        "original": "Esther 3:10"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isaiah 3:21"
+      },
+      {
+        "reference": "Exodus 28:11",
+        "original": "Exodus 28:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "sabbatical-year": {
+    "name": "año sabático",
+    "slug": "sabbatical-year",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Cada séptimo año, durante el cual la tierra, según la ley de Moisés, debía permanecer inculta (Levítico 25:2-7; comp. Éxodo 23:10, 11, 12; Lev. 26:34, 35). Todo lo que creció por sí solo durante ese año no fue para el dueño de la tierra, sino para los pobres, los extranjeros y las bestias del campo. Todas las deudas, excepto las de los extranjeros, debían ser perdonadas (Deuteronomio 15:1-11). Hay poca mención de la observancia de este año en la historia bíblica. Parece haber sido muy descuidado (2 Crónicas 36:20, 21)."
+      },
+      {
+        "source": "SMI",
+        "text": "Cada séptimo año, según el código mosaico, debía santificarse. (Éxodo 23:10,11) El mandamiento es sembrar y cosechar durante seis años, y dejar descansar la tierra en el séptimo, \"para que coman los pobres de tu pueblo; y lo que dejen, lo comerán las bestias de la hacienda. Se agrega en (15:1)... que el séptimo año también debería ser uno de liberación para los deudores. (15:1-11) No se debía practicar ni labranza ni cultivo de ninguna clase. Se abrió el año sabático. en el mes sabático, y toda la ley debía leerse cada uno de esos años, durante la fiesta de los Tabernáculos, al pueblo reunido. Al completarse una semana de años sabáticos, la escala sabática se completaba en el año del jubileo. De la observancia del año sabático después del cautiverio tenemos una prueba. 1 Mac 6:49."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:2-7",
+        "original": "Lev. 25:2-7"
+      },
+      {
+        "reference": "Exodus 23:10",
+        "original": "Ex. 23:10"
+      },
+      {
+        "reference": "Exodus 23:11",
+        "original": "Ex 23:11"
+      },
+      {
+        "reference": "Exodus 23:12",
+        "original": "Ex 23:12"
+      },
+      {
+        "reference": "Leviticus 26:34",
+        "original": "Lev. 26:34"
+      },
+      {
+        "reference": "Leviticus 26:35",
+        "original": "Lev. 26:35"
+      },
+      {
+        "reference": "Deuteronomy 15:1-11",
+        "original": "Deut. 15:1-11"
+      },
+      {
+        "reference": "2 Chronicles 36:20",
+        "original": "2 Chr. 36:20"
+      },
+      {
+        "reference": "2 Chronicles 36:21",
+        "original": "2 Chr. 36:21"
+      },
+      {
+        "reference": "1Macc 6:49",
+        "original": "1 Macc. 6:49"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "sackcloth": {
+    "name": "Arpillera",
+    "slug": "sackcloth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Paño hecho de pelo de cabra negro, áspero, áspero y grueso, usado para sacos y también usado por los dolientes (Gén. 37:34; 42:25; 2 Sam. 3:31; Ester 4:1, 2; Sal. 30:11, etc.), y como señal de arrepentimiento (Mat. 11:21). El pueblo de Nínive lo puso sobre los animales (Jonás 3:8)."
+      },
+      {
+        "source": "SMI",
+        "text": "Tela usada para hacer sacos o bolsas, una tela tosca, de color oscuro, hecha de pelo de cabra, (Isaías 50:3; Apocalipsis 6:12) extremo parecido al eilicium de los romanos. También se utilizaba para confeccionar las toscas prendas utilizadas por los dolientes, que en casos extremos se llevaban junto a la piel. (1 Reyes 21:27; 2 Reyes 6:30; Job 16:15; Isaías 32:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 37:34",
+        "original": "Gen. 37:34"
+      },
+      {
+        "reference": "Genesis 42:25",
+        "original": "Gen 42:25"
+      },
+      {
+        "reference": "2 Samuel 3:31",
+        "original": "2 Sam. 3:31"
+      },
+      {
+        "reference": "Esther 4:1",
+        "original": "Esther 4:1"
+      },
+      {
+        "reference": "Esther 4:2",
+        "original": "Esther 4:2"
+      },
+      {
+        "reference": "Psalms 30:11",
+        "original": "Ps. 30:11"
+      },
+      {
+        "reference": "Matthew 11:21",
+        "original": "Matt. 11:21"
+      },
+      {
+        "reference": "Jonah 3:8",
+        "original": "Jonah 3:8"
+      },
+      {
+        "reference": "Isaiah 50:3",
+        "original": "Isaiah 50:3"
+      },
+      {
+        "reference": "Revelation 6:12",
+        "original": "Revelation 6:12"
+      },
+      {
+        "reference": "1 Kings 21:27",
+        "original": "1 Kings 21:27"
+      },
+      {
+        "reference": "2 Kings 6:30",
+        "original": "2 Kings 6:30"
+      },
+      {
+        "reference": "Job 16:15",
+        "original": "Job 16:15"
+      },
+      {
+        "reference": "Isaiah 32:11",
+        "original": "Isaiah 32:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "saffron": {
+    "name": "Azafrán",
+    "slug": "saffron",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. karkom, árabe. zafran (es decir, “amarillo”), mencionado sólo en Cant. 4:13, 14; el azafrán sativus. Muchas especies de azafrán se encuentran en Palestina. Los pistilos y estigmas, del centro de sus flores, se prensan para formar “tortas de azafrán”, comunes en Oriente. \"Descubrimos\", dice Tristram, \"que el azafrán es un condimento muy útil en la cocina ambulante; una pizca muy pequeña da no sólo un rico color amarillo sino también un sabor agradable a un plato de arroz o a un guiso insípido\"."
+      },
+      {
+        "source": "SMI",
+        "text": "(amarillo). (Cantares de los Cantares 4:14) Desde los primeros tiempos, el azafrán ha sido muy apreciado como perfume. \"Se utilizaba\", dice Rosenmuller, \"para los mismos fines que el popurrí moderno\". La palabra azafrán se deriva del árabe zafran, \"amarillo\". (El azafrán (Crocus sativus) es una especie de azafrán de la familia del iris. Se utiliza como medicina, como saborizante y como tinte amarillo. Homero, Virgilio y Milton se refieren a su belleza en el paisaje. Abunda en Palestina. El nombre del azafrán generalmente se aplica sólo a los estigmas y parte del estilo, que se arrancan y se secan.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 4:13",
+        "original": "Cant. 4:13"
+      },
+      {
+        "reference": "Song of Solomon 4:14",
+        "original": "Cant. 4:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "shamed": {
+    "name": "avergonzado",
+    "slug": "shamed",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(guardián), propiamente Shamer o Shemer; una de las plumas de Elpaal el benjamita. (1 Crónicas 8:12)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:12",
+        "original": "1 Chronicles 8:12"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "shaveh": {
+    "name": "afeitado",
+    "slug": "shaveh",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(llanura), El valle de, descrito (Génesis 14:17) como “el valle del rey”, se menciona nuevamente en (2 Samuel 18:18) como el sitio de una columna levantada por Absalón."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:17",
+        "original": "Genesis 14:17"
+      },
+      {
+        "reference": "2 Samuel 18:18",
+        "original": "2 Samuel 18:18"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "sheep-fold": {
+    "name": "Aprisco",
+    "slug": "sheep-fold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un cercado fuerte para la protección de las ovejas reunidas dentro de él (Núm. 32:24; 1 Cr. 17:7; Sal. 50:9; 78:70). En Juan 10:16, la versión autorizada traduce por \"pliegue\" dos palabras griegas distintas, aule y poimne, la última de las cuales significa propiamente \"rebaño\", y así se traduce en la versión revisada. (Ver también Mateo 26:31; Lucas 2:8; 1 Cor. 9:7.) (Ver FOLD.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 32:24",
+        "original": "Num. 32:24"
+      },
+      {
+        "reference": "1 Chronicles 17:7",
+        "original": "1 Chr. 17:7"
+      },
+      {
+        "reference": "Psalms 50:9",
+        "original": "Ps. 50:9"
+      },
+      {
+        "reference": "Psalms 78:70",
+        "original": "Ps 78:70"
+      },
+      {
+        "reference": "John 10:16",
+        "original": "John 10:16"
+      },
+      {
+        "reference": "Matthew 26:31",
+        "original": "Matt. 26:31"
+      },
+      {
+        "reference": "Luke 2:8",
+        "original": "Luke 2:8"
+      },
+      {
+        "reference": "1 Corinthians 9:7",
+        "original": "1 Cor. 9:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "shittah-tree-shittim": {
+    "name": "Árbol de Shittah, Shittim",
+    "slug": "shittah-tree-shittim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(heb. shittah, el espinoso), sin duda se refiere correctamente a algunas especies de Acacia, de las cuales tres o cuatro especies se encuentran en las tierras bíblicas. La trama de este árbol (quizás el significado más definido sea Acacia seyal) se empleó ampliamente en la construcción del tabernáculo. Ver Éxodo 25,26,36,37,38. (Este árbol mide a veces tres o cuatro pies de diámetro (Tristram). La madera es de fibra densa y dura, de un fino color marrón anaranjado y admirablemente adaptada al trabajo de ebanistería.—ED.) El A. seyal es muy común en algunas partes de la península del Sinaí. De ella se obtiene la conocida sustancia llamada goma arábiga, que se obtiene mediante incisiones en la corteza, pero es imposible decir si los antiguos judíos conocían su uso. Desde la enmarañada maleza en la que se expande el tallo de este árbol, Stanley observa bien que de ahí se puede rastrear el uso de la forma plural del heb. sustantivo shitim, el número singular que aparece solo una vez en la Biblia. Esta acacia no debe confundirse con el árbol (Robinia pseudo-acacia) conocido popularmente con este nombre en Inglaterra, que es una planta norteamericana, y pertenece a un género y suborden diferente. Las verdaderas acacias pertenecen al orden Leguminosae, suborden Mimoseae."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:0-0;",
+        "original": "Exod 25,26,36,37,38"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "shittah-tree": {
+    "name": "árbol de mierda",
+    "slug": "shittah-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 41:19; R.V., “acacia”). La madera de Shittah se empleó para fabricar las diversas partes del tabernáculo en el desierto y, por lo tanto, debe haber sido autóctona del desierto por el que vagaban los israelitas. Se trataba de la acacia o mimosa (Acacia Nilotica y A. seyal). \"La acacia silvestre (Mimosa Nilotica), bajo el nombre de sunt, representa en todas partes el seneh, o sen, de la zarza ardiente. Una forma ligeramente diferente del árbol, igualmente común bajo el nombre de seyal, es la antigua 'shittah' o, como se expresa más habitualmente en forma plural, el 'shittim', del cual estaba hecho el tabernáculo\". El Sinaí de Stanley, etc. (Éxodo 25:10, 13, 23, 28)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 41:19",
+        "original": "Isa. 41:19"
+      },
+      {
+        "reference": "Exodus 25:10",
+        "original": "Ex. 25:10"
+      },
+      {
+        "reference": "Exodus 25:13",
+        "original": "Ex. 25:13"
+      },
+      {
+        "reference": "Exodus 25:23",
+        "original": "Ex. 25:23"
+      },
+      {
+        "reference": "Exodus 25:28",
+        "original": "Ex. 25:28"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "soothsayer": {
+    "name": "Adivino",
+    "slug": "soothsayer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aquel que pretende pronosticar acontecimientos futuros. A Baalam se le llama así (Jos. 13:22; heb. kosem, un “adivinador”, como se traduce en 1 Sam. 6:2; se traduce como “prudente”, Isa. 3:2). En Isa. 2:6 y Miqueas 5:12 (heb. yonenim, es decir, “adivinos de las nubes”) la palabra se usa para los adivinos caldeos que estudiaban las nubes. En Dan. 2:27; 5:7 la palabra es la traducción del caldeo gazrin, es decir, “decisores” o “determinantes”, aquí aplicado a los astrólogos caldeos, “quienes, al arrojar natividades del lugar de las estrellas en el momento del nacimiento, y mediante diversas artes de computación y adivinación, predijeron las fortunas y los destinos de los individuos”., Gesenius, Lex. heb. (Ver HECHICERO.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Divinidad]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 13:22",
+        "original": "Josh. 13:22"
+      },
+      {
+        "reference": "1 Samuel 6:2",
+        "original": "1 Sam. 6:2"
+      },
+      {
+        "reference": "Isaiah 3:2",
+        "original": "Isa. 3:2"
+      },
+      {
+        "reference": "Isaiah 2:6",
+        "original": "Isa. 2:6"
+      },
+      {
+        "reference": "Micah 5:12",
+        "original": "Micah 5:12"
+      },
+      {
+        "reference": "Daniel 2:27",
+        "original": "Dan. 2:27"
+      },
+      {
+        "reference": "Daniel 5:7",
+        "original": "Dan 5:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "spider": {
+    "name": "Araña",
+    "slug": "spider",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La confianza del hipócrita se compara con la telaraña o la casa (Job 8:14). Isaías dice de los malvados que “tejen la telaraña” (59:5), es decir, sus obras y diseños son, como la telaraña, vanos e inútiles. La palabra hebrea que se utiliza aquí es 'akkabish, \"un tejedor rápido\". En Prov. 30:28 se usa una palabra hebrea diferente (semamit). En la Vulgata se traduce como stellio y en la versión revisada como \"lagarto\". Sin embargo, puede representar la araña, de la que se dice que hay unas setecientas especies en Palestina."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea 'accabish en (Job 8:24; Isaías 59:5) se traduce correctamente como \"araña\". Puesto que semamith se traduce erróneamente como “araña” en (Proverbios 30:28), probablemente se refiere a algún tipo de lagarto. (Pero “hay muchas especies de arañas en Palestina: algunas que tejen telas, como la araña de jardín común; algunas que excavan celdas subterráneas y hacen puertas en ellas, como la conocida araña trampilla del sur de Europa; y algunas que no tienen tela, pero persiguen a sus presas en el suelo, como la araña cazadora y la araña lobo.”—Wood’s Bible Animals.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 8:14",
+        "original": "Job 8:14"
+      },
+      {
+        "reference": "Proverbs 30:28",
+        "original": "Prov. 30:28"
+      },
+      {
+        "reference": "Job 8:24",
+        "original": "Job 8:24"
+      },
+      {
+        "reference": "Isaiah 59:5",
+        "original": "Isaiah 59:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "steel": {
+    "name": "Acero",
+    "slug": "steel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El “arco de acero” en (A.V.) 2 Sam. 22:35; Trabajo 20:24; PD. 18:34 está en la versión revisada “arco de bronce” (heb. kesheth-nehushah). En Jer. 15:12 se usa la misma palabra, y también se traduce en la versión revisada \"bronce\". Pero más correctamente es cobre (q.v.), ya que los antiguos no conocían el latón en el sentido ordinario de la palabra (una aleación de cobre y zinc)."
+      },
+      {
+        "source": "SMI",
+        "text": "En todos los casos donde aparece la palabra “acero” en la Versión Autorizada, la verdadera traducción del hebreo es “cobre”. No se sabe con certeza si los antiguos hebreos conocían el acero. Se ha inferido de un pasaje en (Jeremías 15:12) que el “hierro del norte” del que se habla allí denotaba una clase superior de metal, endurecido de una manera inusual, como el acero obtenido de los Cálibes del Ponto, los herreros del mundo antiguo. El endurecimiento del hierro para cortar instrumentos se practicaba en el Ponto, Lidia y Laconia. Sin embargo, hay una palabra en hebreo, paldah, que aparece sólo en (Nahúm 2:3) (4) y allí se traduce “antorchas”, pero que muy probablemente denota acero o hierro endurecido, y se refiere a las deslumbrantes guadañas de los carros asirios. Parece que los egipcios conocían el acero. Las armas de acero de la tumba de Ramsés III, dice Wilkinson, están pintadas de azul y las de bronce, de rojo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 22:35",
+        "original": "2 Sam. 22:35"
+      },
+      {
+        "reference": "Job 20:24",
+        "original": "Job 20:24"
+      },
+      {
+        "reference": "Psalms 18:34",
+        "original": "Ps. 18:34"
+      },
+      {
+        "reference": "Jeremiah 15:12",
+        "original": "Jer. 15:12"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nahum 2:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "suburbs": {
+    "name": "Afueras",
+    "slug": "suburbs",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La vecindad inmediata de una ciudad o pueblo (Núm. 35:3, 7; Eze. 45:2). En 2 Reyes 23:11 la palabra hebrea que se usa allí (parvarim) no aparece en ningún otro lugar. La versión revisada lo traduce como \"recintos\". Algunos suponen que la forma singular de esta palabra hebrea (parvar) es la misma que Parbar (q.v.), que aparece dos veces en 1 Crón. 26:18."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 35:3",
+        "original": "Num. 35:3"
+      },
+      {
+        "reference": "Numbers 35:7",
+        "original": "Num. 35:7"
+      },
+      {
+        "reference": "Ezekiel 45:2",
+        "original": "Ezek. 45:2"
+      },
+      {
+        "reference": "2 Kings 23:11",
+        "original": "2 Kings 23:11"
+      },
+      {
+        "reference": "1 Chronicles 26:18",
+        "original": "1 Chr. 26:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "sycamine-tree": {
+    "name": "árbol sicamino",
+    "slug": "sycamine-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado sólo en Lucas 17:6. Lutero lo tradujo “morera” (q.v.), que probablemente sea la traducción correcta. Se encuentra en dos especies, la morera negra (Morus nigra) y la morera blanca (Mourea), que son comunes en Palestina. El gusano de seda se alimenta de sus hojas. Su cría es una de las principales industrias del campesinado del Líbano y de otras partes del país. Es del orden de la higuera. Algunos sostienen, sin embargo, que este nombre denota el higo sicomoro de Lucas 19:4."
+      },
+      {
+        "source": "SMI",
+        "text": "se menciona sólo en (Lucas 17:6) No hay razón para dudar de que el sicómoro es distinto del sicomoro del mismo evangelista. (Lucas 19:4) El sicómoro es la morera (Morus). Tanto las moreras blancas como las negras son comunes en Siria y Palestina."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 17:6",
+        "original": "Luke 17:6"
+      },
+      {
+        "reference": "Luke 19:4",
+        "original": "Luke 19:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "tackling": {
+    "name": "abordar",
+    "slug": "tackling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 33:23), las cuerdas atadas al mástil de un barco. En Hechos 27:19 esta palabra significa generalmente los muebles del barco o el “equipo” (27:17), todo lo que se podía sacar del barco."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 33:23",
+        "original": "Isa. 33:23"
+      },
+      {
+        "reference": "Acts 27:19",
+        "original": "Acts 27:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "taxing": {
+    "name": "Agotador",
+    "slug": "taxing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lucas 2:2; R.V., “registro”), “cuando Cirenio era gobernador de Siria”, es simplemente un censo del pueblo, o un registro de ellos con miras a sus impuestos. El decreto de inscripción fue con ocasión de la subida de José y María a Belén. Algunos han argumentado que Cirenio era gobernador de Cilicia y Siria tanto en el momento del nacimiento de nuestro Señor como algunos años después. Este decreto sobre el impuesto se refería a todo el mundo romano, y no sólo a Judea. (Ver CENSO.)"
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra inglesa ahora nos transmite más claramente la noción de impuesto o tributo realmente recaudado; pero parece haber sido utilizado en el siglo XVI para la simple evaluación de un subsidio sobre la propiedad de un condado determinado, o para el registro de la gente a los efectos de un impuesto de capitación. En el Nuevo Testamento se mencionan dos registros o impuestos distintos, ambos de San Lucas. Se dice que el primero fue el resultado de un edicto del emperador Augusto, según el cual “todo el mundo (es decir, el imperio romano) debería pagar impuestos” (Lucas 2:1) y el evangelista lo relaciona con el nombre de Cirenio Quirino. [Cirenio] El segundo y más importante (Hechos 6:37) está claramente asociado, en el momento, con la rebelión de Judas de Galilea."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 2:2",
+        "original": "Luke 2:2"
+      },
+      {
+        "reference": "Luke 2:1",
+        "original": "Luke 2:1"
+      },
+      {
+        "reference": "Acts 6:37",
+        "original": "Acts 6:37"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "teil-tree": {
+    "name": "árbol de teil",
+    "slug": "teil-tree",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(un nombre antiguo para el tilo, la tilia), Isa. 6:13, el terebinto o árbol de trementina, la Pistacia terebinthus de los botánicos. La palabra hebrea aquí usada (elah) se traduce roble (q.v.) en Génesis 35:4; Juez. 6:11, 19; Isa. 1:29, etc. En Isa. 61:3 se traduce en plural \"árboles\"; Hos. 4:13, “olmo” (R.V., “terebinto”). Hos. 4:13, “olmo” (R.V., “terebinto”). En 1 Sam. 17:2, 19 se toma como nombre propio, “Elah” (R.V. marg., “terebinto”). “El terebinto de Mamre, o su sucesor lineal, permaneció desde los días de Abraham hasta el siglo IV de la era cristiana, y en su lugar Constantino erigió una iglesia cristiana, cuyas ruinas aún permanecen”. Este árbol “rara vez se ve en macizos o arboledas, nunca en bosques, sino que se encuentra aislado y de manera extraña en algún barranco desnudo o en la ladera de una colina donde nada más se eleva sobre la maleza baja” (Tristram)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Roble]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 6:13",
+        "original": "Isa. 6:13"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Gen. 35:4"
+      },
+      {
+        "reference": "Judges 6:11",
+        "original": "Judg. 6:11"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judg. 6:19"
+      },
+      {
+        "reference": "Isaiah 1:29",
+        "original": "Isa. 1:29"
+      },
+      {
+        "reference": "Isaiah 61:3",
+        "original": "Isa. 61:3"
+      },
+      {
+        "reference": "Hosea 4:13",
+        "original": "Hos. 4:13"
+      },
+      {
+        "reference": "1 Samuel 17:2",
+        "original": "1 Sam. 17:2"
+      },
+      {
+        "reference": "1 Samuel 17:19",
+        "original": "1 Sam. 17:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "thick-clay": {
+    "name": "arcilla espesa",
+    "slug": "thick-clay",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hab. 2:6) se traduce correctamente en la versión revisada “promesas”. El poder caldeo se representa aquí como un usurero rapaz, que acumula riquezas que pertenecían a otros."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Habakkuk 2:6",
+        "original": "Hab. 2:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "tinkling-ornaments": {
+    "name": "Adornos tintineantes",
+    "slug": "tinkling-ornaments",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 3:18), tobilleras de plata u oro, etc., como las que todavía usan las mujeres en Siria y Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "tittle": {
+    "name": "Ápice",
+    "slug": "tittle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un punto (Mateo 5:18; Lucas 16:17), el punto diminuto o trazo agregado a algunas letras del alfabeto hebreo para distinguirlas de otras a las que se parecen; de ahí el punto mínimo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:18",
+        "original": "Matt. 5:18"
+      },
+      {
+        "reference": "Luke 16:17",
+        "original": "Luke 16:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "torches": {
+    "name": "Antorchas",
+    "slug": "torches",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En la noche de su traición, cuando nuestro Señor estaba en el huerto de Getsemaní, Judas, “habiendo recibido un grupo de hombres y oficiales de parte de los principales sacerdotes y de los fariseos, vino allí con linternas, antorchas y armas” (Juan 18:1-3). Aunque era tiempo de luna llena, en el valle del Cedrón “cayeron grandes y profundas sombras provenientes del declive de la montaña y de las rocas salientes; había cavernas y grutas a las que un fugitivo podría retirarse; finalmente, probablemente había una casa-jardín y una torre, en cuya penumbra podría ser necesario que un buscador arrojara luz”. Comentario de Lange. (Nahúm 2:3, “antorchas”, versión revisada, “acero”, probablemente debería ser “guadañas” para carros de guerra.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 18:1-3",
+        "original": "John 18:1-3"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nahum 2:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "tree-of-life": {
+    "name": "árbol de la vida",
+    "slug": "tree-of-life",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Estuvo también en medio del jardín del Edén (Gén. 2:9; 3:22). Algunos escritores han avanzado la opinión de que este árbol tenía alguna virtud secreta que le permitía preservar la vida. Probablemente la lección transmitida fue que el hombre debía buscar la vida, no en sí mismo ni en su propio poder, sino desde afuera, de Aquel que es enfáticamente la Vida (Juan 1:4; 14:6). La sabiduría se compara con el árbol de la vida (Proverbios 3:18). El “árbol de la vida” del que se habla en el Libro de Revelación (Apocalipsis 2:7; 22:2, 14) es un emblema de los gozos del paraíso celestial."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:9",
+        "original": "Gen. 2:9"
+      },
+      {
+        "reference": "Genesis 3:22",
+        "original": "Gen 3:22"
+      },
+      {
+        "reference": "John 1:4",
+        "original": "John 1:4"
+      },
+      {
+        "reference": "John 14:6",
+        "original": "John 14:6"
+      },
+      {
+        "reference": "Proverbs 3:18",
+        "original": "Prov. 3:18"
+      },
+      {
+        "reference": "Revelation 2:7",
+        "original": "Rev. 2:7"
+      },
+      {
+        "reference": "Revelation 22:2",
+        "original": "Rev 22:2"
+      },
+      {
+        "reference": "Revelation 22:14",
+        "original": "Rev 22:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "tree-of-the-knowledge-of-good-and-evil": {
+    "name": "Árbol del conocimiento del bien y del mal.",
+    "slug": "tree-of-the-knowledge-of-good-and-evil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Estaba en medio del jardín del Edén, junto al árbol de la vida (Gén. 2, 3). A Adán y Eva se les prohibió tomar del fruto que crecía en ellos. Pero desobedecieron el mandato divino, y así el pecado y la muerte por pecado entraron en nuestro mundo y llegaron a ser herencia de la posteridad de Adán. (Ver ADÁN.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2",
+        "original": "Gen. 2"
+      },
+      {
+        "reference": "Genesis 3",
+        "original": "Gen. 3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "turpentine-tree": {
+    "name": "árbol de trementina",
+    "slug": "turpentine-tree",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "ocurre solo una vez, vía. en los apócrifos. Eclus. 24:16. Se trata de la Pistacia terebinthus, árbol de terebinto, común en Palestina y Oriente. El terebinto ocasionalmente crece hasta alcanzar un tamaño grande. Pertenece al orden natural Anacurdiaceas, cuyas plantas generalmente contienen secreciones resinosas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Sir 24:16",
+        "original": "Ecclus. 24:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "undergirding": {
+    "name": "apuntalar",
+    "slug": "undergirding",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Hechos 27:17) [Barco]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:17",
+        "original": "Acts 27:17"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "village": {
+    "name": "Aldea",
+    "slug": "village",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Esta palabra, además de su sentido ordinario, se usa a menudo, especialmente en la enumeración de ciudades en (Josué 13:15,19) para implicar suburbios no amurallados fuera de las ciudades amuralladas. Las aldeas árabes, como las que se encuentran en Arabia, son a menudo simples conjuntos de chozas de piedra, “cabañas largas, bajas y toscas, techadas sólo con tallos de hojas de palma”, o cubiertas por un tiempo con telas de tienda, que se quitan cuando la tribu cambia de alojamiento. Otros tienen una construcción más sólida, como la mayoría de los habitantes de Palestina, aunque en algunos las viviendas son meras chozas de barro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 13:15",
+        "original": "Joshua 13:15"
+      },
+      {
+        "reference": "Joshua 13:19",
+        "original": "Joshua 13:19"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "water-of-jealousy": {
+    "name": "agua de celos",
+    "slug": "water-of-jealousy",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Frase empleada (sin embargo, no en las Escrituras) para denotar el agua utilizada en la solemne prueba prescrita por la ley de Moisés (Núm. 5:11-31) en casos de “celos”."
+      },
+      {
+        "source": "SMI",
+        "text": "(Números 5:11-31) El ritual prescrito consistía en que el marido llevara ante el sacerdote a la mujer sospechosa de infidelidad, y la parte esencial del mismo es, sin duda, el juramento al que el “agua” era subsidiario, simbólico y ministerial. Con ella debía traer una ofrenda de harina de cebada. Mientras ella estaba sosteniendo la ofrenda, así el sacerdote estaba sosteniendo hasta que una vasija de barro con agua bendita se mezclara con el polvo del piso del santuario y, declarándola libre de todas las malas consecuencias si era inocente, la consagró solemnemente en el nombre de Jehová para ser “una maldición y un juramento entre su pueblo” si era culpable. Luego “escribió estas maldiciones en un libro y las borró con agua amarga”. y habiendo arrojado el puñado de harina sobre el altar, \"hizo que la mujer bebiera\" la poción así preparada, respondiendo además a las palabras de su imprecación: \"Amén, amén\". Josefo añade que si la sospecha era infundada, ella obtuvo la concepción; de ser cierto, murió infamemente (esto fue completamente diferente de la mayoría de los juicios de este tipo, porque el agua amarga que la mujer debía beber era inofensiva en sí misma, y ​​solo por un acto directo de Dios podría dañarla mientras era culpable, mientras que en la mayoría de los juicios paganos la parte sospechosa debe tomar veneno o sufrir aquello de lo que solo un milagro los salvaría si fueran inocentes.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 5:11-31",
+        "original": "Num. 5:11-31"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "water-of-purification": {
+    "name": "agua de purificacion",
+    "slug": "water-of-purification",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado en casos de limpiezas ceremoniales en la consagración de los levitas (Números 8:7). Significaba, en sentido figurado, esa purificación del corazón que debe caracterizar a los siervos de Dios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 8:7",
+        "original": "Num. 8:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "water-of-separation": {
+    "name": "agua de separación",
+    "slug": "water-of-separation",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado junto con las cenizas de una novilla alazana para la limpieza ceremonial de personas contaminadas por el contacto con un cadáver (Núm. 19)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Purificación]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 19",
+        "original": "Num. 19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "weapons": {
+    "name": "Armas",
+    "slug": "weapons",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "winnow": {
+    "name": "Aventar",
+    "slug": "winnow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El maíz fue aventado (1.) arrojándolo con una pala contra el viento. Por regla general, esto se hacía al atardecer o durante la noche, cuando soplaba el viento del mar del oeste, que era una brisa moderada y adecuada para ese fin. El viento del norte era demasiado fuerte y el viento del este soplaba en ráfagas. (2.) Mediante el uso de un ventilador o una camioneta, mediante el cual se quitaba la paja (Rut 3:2; Isa. 30:24; Jer. 4:11, 12; Mat. 3:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Isaiah 30:24",
+        "original": "Isa. 30:24"
+      },
+      {
+        "reference": "Jeremiah 4:11",
+        "original": "Jer. 4:11"
+      },
+      {
+        "reference": "Jeremiah 4:12",
+        "original": "Jer. 4:12"
+      },
+      {
+        "reference": "Matthew 3:12",
+        "original": "Matt. 3:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "a"
+  },
+  "winnowing": {
+    "name": "aventar",
+    "slug": "winnowing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Agricultura]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "wormwood": {
+    "name": "Ajenjo",
+    "slug": "wormwood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. la'anah, la Artemisia absinthium de los botánicos. Se destaca por su intensa amargura (Deut. 29:18; Prov. 5:4; Jer. 9:15; Amós 5:7). Es un tipo de amargura, aflicción, remordimiento, sufrimiento punitivo. En Amós 6:12 esta palabra hebrea se traduce “cicuta” (R.V., “ajenjo”). En el lenguaje simbólico del Apocalipsis (Apocalipsis 8:10, 11) se representa una estrella que cae sobre las aguas de la tierra, haciendo que la tercera parte del agua se convierta en ajenjo. El nombre con el que lo designaban los griegos, absintion, significa “no potable”. La absenta de Francia se destila a partir de una especie de esta planta. El \"bosque sureño\" o \"viejo\", cultivado en los jardines de las casas debido a su fragancia, es otra especie."
+      },
+      {
+        "source": "SMI",
+        "text": "En Palestina se encuentran cuatro tipos de ajenjo: Artemisia nilotica, A. judaica, A. fructicosa y A. cinerea. La palabra aparece con frecuencia en la Biblia y generalmente en un sentido metafórico. En (Jeremías 9:15; 23:15; Lamentaciones 3:15,19) el ajenjo simboliza la amarga calamidad y el dolor; Se dice que los jueces injustos “convierten el juicio en ajenjo”. (Amós 5:7) Los orientales tipificaban los dolores, las crueldades y las calamidades de cualquier tipo mediante plantas de naturaleza venenosa o amarga."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 29:18",
+        "original": "Deut. 29:18"
+      },
+      {
+        "reference": "Proverbs 5:4",
+        "original": "Prov. 5:4"
+      },
+      {
+        "reference": "Jeremiah 9:15",
+        "original": "Jer. 9:15"
+      },
+      {
+        "reference": "Amos 5:7",
+        "original": "Amos 5:7"
+      },
+      {
+        "reference": "Amos 6:12",
+        "original": "Amos 6:12"
+      },
+      {
+        "reference": "Revelation 8:10",
+        "original": "Rev. 8:10"
+      },
+      {
+        "reference": "Revelation 8:11",
+        "original": "Rev. 8:11"
+      },
+      {
+        "reference": "Jeremiah 23:15",
+        "original": "Jeremiah 23:15"
+      },
+      {
+        "reference": "Lamentations 3:15",
+        "original": "Lamentations 3:15"
+      },
+      {
+        "reference": "Lamentations 3:19",
+        "original": "Lamentations 3:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "worshipper": {
+    "name": "Adorador",
+    "slug": "worshipper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. neocoros = barrendero de templos (Hechos 19:35) de la gran diosa Diana). Este nombre neocoros aparece en la mayoría de las monedas de Éfeso existentes."
+      },
+      {
+        "source": "SMI",
+        "text": "una traducción de la palabra griega neocoros, usada una sola vez (Hechos 19:35) en el margen, “guardián del templo”. El neocoros originalmente era un asistente en un templo probablemente al que se le había confiado su cargo. El término neocoros pasó a aplicarse así a ciudades o comunidades que practicaban el culto a determinados emperadores incluso durante sus vidas. La primera aparición del término en relación con Éfeso se encuentra en monedas de la época de Nerón, 54-68 d.C."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 19:35",
+        "original": "Acts 19:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "year": {
+    "name": "Año",
+    "slug": "year",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. shanah, que significa “repetición” o “revolución” (Génesis 1:14; 5:3). Entre los antiguos egipcios, el año constaba de doce meses de treinta días cada uno, a los que se añadían cinco días para que fuera una revolución completa de la Tierra alrededor del sol. Los judíos contaban el año de dos maneras: (1) según un calendario sagrado, en el que el año comenzaba aproximadamente en la época del equinoccio de primavera, con el mes Abib; y (2) según un calendario civil, en el que el año comenzaba aproximadamente en la época del equinoccio de otoño, con el mes de Nisán. El mes Tisri es ahora el comienzo del año judío."
+      },
+      {
+        "source": "SMI",
+        "text": "la división ordinaria más alta del tiempo. Los hebreos conocían y aparentemente usaban dos años."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:14",
+        "original": "Gen. 1:14"
+      },
+      {
+        "reference": "Genesis 5:3",
+        "original": "Gen 5:3"
+      },
+      {
+        "reference": "Psalms 74:17",
+        "original": "Psalms 74:17"
+      },
+      {
+        "reference": "Zechariah 14:18",
+        "original": "Zechariah 14:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "year-of-jubilee": {
+    "name": "año de jubileo",
+    "slug": "year-of-jubilee",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jubileo, El Año De, AÑO DE]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
+  },
+  "year-sabbatical": {
+    "name": "Año Sabático",
+    "slug": "year-sabbatical",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Año sabático AÑO]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "a"
   }
 }

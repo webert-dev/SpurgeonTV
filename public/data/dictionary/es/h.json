@@ -12730,5 +12730,706 @@
       "SMI"
     ],
     "letter": "h"
+  },
+  "roe": {
+    "name": "Hueva",
+    "slug": "roe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. tsebi), propiamente la gacela (árabe ghazal), permitida como alimento (Deut. 14:5; comp. Deut. 12:15, 22; 15:22; 1 Reyes 4:23), destacada por su rapidez, belleza y gracia de forma (2 Sam. 2:18; 1 Cr. 12:8; Cant. 2:9; 7:3; 8:14). La gacela (Gazella dorcas) se encuentra en gran número en Palestina. “Entre las colinas grises de Galilea todavía hay ‘las huevas en los montes de Beter’, y he visto un pequeño grupo de gacelas alimentándose en el Monte de los Olivos, cerca de la misma Jerusalén” (Tristram). La palabra hebrea (‘ayyalah) en Prov. 5: 19 traducido así (R.V., “cierva”), es propiamente la “cabra montés”, la cabra montesa, la cabra montés. (Véase 1 Sam. 24:2; Sal. 104:18; Job 39:1.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 14:5",
+        "original": "Deut. 14:5"
+      },
+      {
+        "reference": "Deuteronomy 12:15",
+        "original": "Deut. 12:15"
+      },
+      {
+        "reference": "Deuteronomy 12:22",
+        "original": "Deut. 12:22"
+      },
+      {
+        "reference": "1 Kings 4:23",
+        "original": "1 Kings 4:23"
+      },
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Sam. 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chr. 12:8"
+      },
+      {
+        "reference": "Song of Solomon 2:9",
+        "original": "Cant. 2:9"
+      },
+      {
+        "reference": "Song of Solomon 7:3",
+        "original": "Cant 7:3"
+      },
+      {
+        "reference": "Song of Solomon 8:14",
+        "original": "Cant 8:14"
+      },
+      {
+        "reference": "Proverbs 5",
+        "original": "Prov. 5"
+      },
+      {
+        "reference": "1 Samuel 24:2",
+        "original": "1 Sam. 24:2"
+      },
+      {
+        "reference": "Psalms 104:18",
+        "original": "Ps. 104:18"
+      },
+      {
+        "reference": "Job 39:1",
+        "original": "Job 39:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "roe-roebuck": {
+    "name": "hueva, corzo",
+    "slug": "roe-roebuck",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Las palabras hebreas así traducidas denotan algunas especies de antílope, probablemente la Gazella arabica de Siria y Arabia. Se permitía la gacela como alimento (12:15,22), etc.; se menciona como muy veloz (2 Samuel 2:18; 1 Crónicas 12:8), fue cazado (Isaías 13:14; Proverbios 6:5), fue celebrado por su belleza. (Cantares de los Cantares 2:9,17; 8:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Samuel 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chronicles 12:8"
+      },
+      {
+        "reference": "Isaiah 13:14",
+        "original": "Isaiah 13:14"
+      },
+      {
+        "reference": "Proverbs 6:5",
+        "original": "Proverbs 6:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "room": {
+    "name": "Habitación",
+    "slug": "room",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Las referencias a “habitación” en (Mateo 23:6; Marcos 12:39; Lucas 14:7,8; 20:46) significan el lugar más alto en el sofá más alto alrededor de la mesa de la cena o de la cena: el “asiento más alto”, como se traduce con mayor precisión en (Lucas 11:43)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 23:6",
+        "original": "Matthew 23:6"
+      },
+      {
+        "reference": "Mark 12:39",
+        "original": "Mark 12:39"
+      },
+      {
+        "reference": "Luke 14:7",
+        "original": "Luke 14:7"
+      },
+      {
+        "reference": "Luke 14:8",
+        "original": "Luke 14:8"
+      },
+      {
+        "reference": "Luke 20:46",
+        "original": "Luke 20:46"
+      },
+      {
+        "reference": "Luke 11:43",
+        "original": "Luke 11:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "seethe": {
+    "name": "Hervir",
+    "slug": "seethe",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hervir (Éxodo 16:23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:23",
+        "original": "Ex. 16:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "sickle": {
+    "name": "Hoz",
+    "slug": "sickle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De los egipcios se parecía al del uso moderno. Con él se cortaban las mazorcas de maíz cerca de la parte superior de la paja. También se usaba una hoz con fines bélicos, aunque más correctamente se la llamaba poda (Deut. 16:9; Jer. 50:16, marg., “guadaña”; Joel 3:13; Marcos 4:29)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 16:9",
+        "original": "Deut. 16:9"
+      },
+      {
+        "reference": "Jeremiah 50:16",
+        "original": "Jer. 50:16"
+      },
+      {
+        "reference": "Joel 3:13",
+        "original": "Joel 3:13"
+      },
+      {
+        "reference": "Mark 4:29",
+        "original": "Mark 4:29"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "sling": {
+    "name": "Honda",
+    "slug": "sling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Con una honda y una piedra, David hirió al gigante filisteo (1 Sam. 17:40, 49). Había 700 benjamitas que eran tan hábiles en su uso que con la mano izquierda “podían lanzar piedras al ancho de un cabello, y no fallar” (Jue. 20:16; 1 Cr. 12:2). Fue utilizado por los israelitas en la guerra (2 Reyes 3:25). (Ver BRAZOS.) Las palabras en Prov. 26:8, “Como el que ata una piedra en la honda”, etc. (Versión autorizada), debería ser más bien, como en la Versión revisada, “Como una bolsa de gemas en un montón de piedras”, etc."
+      },
+      {
+        "source": "SMI",
+        "text": "[Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:40",
+        "original": "1 Sam. 17:40"
+      },
+      {
+        "reference": "1 Samuel 17:49",
+        "original": "1 Sam. 17:49"
+      },
+      {
+        "reference": "Judges 20:16",
+        "original": "Judg. 20:16"
+      },
+      {
+        "reference": "1 Chronicles 12:2",
+        "original": "1 Chr. 12:2"
+      },
+      {
+        "reference": "2 Kings 3:25",
+        "original": "2 Kings 3:25"
+      },
+      {
+        "reference": "Proverbs 26:8",
+        "original": "Prov. 26:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "smith": {
+    "name": "Herrero",
+    "slug": "smith",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los filisteos no permitieron a los hebreos en los días de Samuel tener un herrero entre ellos, para que no les hiciera espadas y lanzas (1 Sam. 13:19). Así, los filisteos buscaron hacer permanente su conquista (comp. 2 Reyes 24:16)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Artesanía]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 13:19",
+        "original": "1 Sam. 13:19"
+      },
+      {
+        "reference": "2 Kings 24:16",
+        "original": "2 Kings 24:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "son": {
+    "name": "Hijo",
+    "slug": "son",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El término “hijo” se usa en el lenguaje de las Escrituras para implicar casi cualquier tipo de descendencia o sucesión, como ben shanah, “hijo de un año”, es decir, de un año; ben kesheth, \"hijo de un arco\", es decir, una flecha. La palabra barra se encuentra a menudo en la composición del Nuevo Testamento, como Bartimeo."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "son-of-god": {
+    "name": "hijo de dios",
+    "slug": "son-of-god",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El plural “hijos de Dios” se usa (Gén. 6:2, 4) para denotar a los piadosos descendientes de Set. En Job 1:6; 38:7 este nombre se aplica a los ángeles. Oseas usa la frase (1:10) para designar la relación de gracia que los hombres tienen con Dios. En el Nuevo Testamento esta frase frecuentemente denota la relación a la cual somos traídos a Dios por la adopción (Rom. 8:14, 19; 2 Cor. 6:18; Gá. 4:5, 6; Fil. 2:15; 1 Juan 3:1, 2). Aparece treinta y siete veces en el Nuevo Testamento como título distintivo de nuestro Salvador. No lleva este título como consecuencia de su nacimiento milagroso, ni de su encarnación, su resurrección y exaltación a la diestra del Padre. Este es un título de naturaleza y no de oficio. La filiación de Cristo denota su igualdad con el Padre. Llamar a Cristo Hijo de Dios es afirmar su verdadera y propia divinidad. La segunda Persona de la Trinidad, debido a su relación eterna con la primera Persona, es el Hijo de Dios. Él es el Hijo de Dios en cuanto a su naturaleza divina, mientras que en cuanto a su naturaleza humana es el Hijo de David (Rom. 1:3, 4. Comp. Gal. 4:4; Juan 1:1-14; 5:18-25; 10:30-38, que prueban que Cristo era el Hijo de Dios antes de su encarnación, y que su reclamo de este título es un reclamo de igualdad con Dios). Cuando se usa con referencia a criaturas, ya sean hombres o ángeles, esta palabra siempre está en plural. En singular siempre se usa para la segunda Persona de la Trinidad, con la única excepción de Lucas 3:38, donde se usa para Adán."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 6:2",
+        "original": "Gen. 6:2"
+      },
+      {
+        "reference": "Genesis 6:4",
+        "original": "Gen. 6:4"
+      },
+      {
+        "reference": "Job 1:6",
+        "original": "Job 1:6"
+      },
+      {
+        "reference": "Job 38:7",
+        "original": "Job 38:7"
+      },
+      {
+        "reference": "Romans 8:14",
+        "original": "Rom. 8:14"
+      },
+      {
+        "reference": "Romans 8:19",
+        "original": "Rom 8:19"
+      },
+      {
+        "reference": "2 Corinthians 6:18",
+        "original": "2 Cor. 6:18"
+      },
+      {
+        "reference": "Galatians 4:5",
+        "original": "Gal. 4:5"
+      },
+      {
+        "reference": "Galatians 4:6",
+        "original": "Gal. 4:6"
+      },
+      {
+        "reference": "Philippians 2:15",
+        "original": "Phil. 2:15"
+      },
+      {
+        "reference": "1 John 3:1",
+        "original": "1 John 3:1"
+      },
+      {
+        "reference": "1 John 3:2",
+        "original": "1 John 3:2"
+      },
+      {
+        "reference": "Romans 1:3",
+        "original": "Rom. 1:3"
+      },
+      {
+        "reference": "Romans 1:4",
+        "original": "Rom. 1:4"
+      },
+      {
+        "reference": "Galatians 4:4",
+        "original": "Gal. 4:4"
+      },
+      {
+        "reference": "John 1:1-14",
+        "original": "John 1:1-14"
+      },
+      {
+        "reference": "John 5:18-25",
+        "original": "John 5:18-25"
+      },
+      {
+        "reference": "John 10:30-38",
+        "original": "John 10:30-38"
+      },
+      {
+        "reference": "Luke 3:38",
+        "original": "Luke 3:38"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "son-of-man": {
+    "name": "hijo del hombre",
+    "slug": "son-of-man",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Denota a la humanidad en general, con especial referencia a su debilidad y fragilidad (Job 25:6; Sal. 8:4; 144:3; 146:3; Isa. 51:12, etc.). (2.) Es un título que se le da frecuentemente al profeta Ezequiel, probablemente para recordarle su debilidad humana. (3.) En el Nuevo Testamento se usa cuarenta y tres veces como título distintivo del Salvador. En el Antiguo Testamento se usa sólo en Sal. 80:17 y Dan. 7:13 con esta aplicación. Denota la verdadera humanidad de nuestro Señor. Tenía un cuerpo verdadero (Heb. 2:14; Lucas 24:39) y un alma racional. Era un hombre perfecto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 25:6",
+        "original": "Job 25:6"
+      },
+      {
+        "reference": "Psalms 8:4",
+        "original": "Ps. 8:4"
+      },
+      {
+        "reference": "Psalms 144:3",
+        "original": "Ps 144:3"
+      },
+      {
+        "reference": "Psalms 146:3",
+        "original": "Ps 146:3"
+      },
+      {
+        "reference": "Isaiah 51:12",
+        "original": "Isa. 51:12"
+      },
+      {
+        "reference": "Psalms 80:17",
+        "original": "Ps. 80:17"
+      },
+      {
+        "reference": "Daniel 7:13",
+        "original": "Dan. 7:13"
+      },
+      {
+        "reference": "Hebrews 2:14",
+        "original": "Heb. 2:14"
+      },
+      {
+        "reference": "Luke 24:39",
+        "original": "Luke 24:39"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "sorcerer": {
+    "name": "Hechicero",
+    "slug": "sorcerer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Del latín sortiarius, el que echa suertes, o el que cuenta la suerte de los demás. (Ver ADIVINACIÓN.) En Dan. 2:2 es la traducción del hebreo mekhashphim, es decir, murmuradores, hombres que profesaban tener poder con los espíritus malignos. La práctica de la hechicería expuesta al castigo más severo (Mal. 3:5; Apoc. 21:8; 22:15)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Divinidad]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 2:2",
+        "original": "Dan. 2:2"
+      },
+      {
+        "reference": "Malachi 3:5",
+        "original": "Mal. 3:5"
+      },
+      {
+        "reference": "Revelation 21:8",
+        "original": "Rev. 21:8"
+      },
+      {
+        "reference": "Revelation 22:15",
+        "original": "Rev 22:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "spinning": {
+    "name": "Hilado",
+    "slug": "spinning",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los avisos sobre el hilado en la Biblia se limitan a (Éxodo 35:25,26; Proverbios 31:19; Mateo 6:28). Este último pasaje implica (según la versión autorizada) el uso de los mismos instrumentos que han estado de moda para hilar a mano hasta el día de hoy, a saber. la rueca y el huso. Sin embargo, parece que se ha prescindido de la rueca, y el término así traducido significa el huso mismo, mientras que el \"huso\" representado representa el giro del huso, un botón de borde circular que estaba adherido a él y daba estabilidad a su movimiento circular. El “remolino” de las mujeres sirias estaba hecho de ámbar en tiempos de Plinio. El huso se sostenía perpendicularmente con una mano, mientras con la otra se empleaba para sacar el hilo. Hilar era asunto de mujeres, tanto entre los judíos como, en su mayor parte, entre los egipcios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 35:25",
+        "original": "Exodus 35:25"
+      },
+      {
+        "reference": "Exodus 35:26",
+        "original": "Exodus 35:26"
+      },
+      {
+        "reference": "Proverbs 31:19",
+        "original": "Proverbs 31:19"
+      },
+      {
+        "reference": "Matthew 6:28",
+        "original": "Matthew 6:28"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "swelling": {
+    "name": "Hinchazón",
+    "slug": "swelling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Del Jordán (Jer. 12:5), literalmente el “orgullo” del Jordán (como en R.V.), es decir, los exuberantes matorrales de tamariscos, álamos, juncos, etc., que eran guarida de leones y otras bestias de presa. La referencia no es al desbordamiento de las riberas de los ríos. (Comp. 49:19; 50:44; Zacarías 11:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 12:5",
+        "original": "Jer. 12:5"
+      },
+      {
+        "reference": "Zechariah 11:3",
+        "original": "Zech. 11:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "tribute": {
+    "name": "Homenaje",
+    "slug": "tribute",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Impuesto impuesto por un rey a sus súbditos (2 Sam. 20:24; 1 Reyes 4:6; Rom. 13:6). En Mate. 17:24-27 la palabra denota la tasa del templo (el “didracma”, el “medio siclo”, como se traduce en la R.V.) que todo judío mayor de veinte años debía pagar para el sustento del templo (Éxodo 30:12; 2 Reyes 12:4; 2 Crónicas 24:6, 9). No era un impuesto civil sino religioso. En Mate. 22:17, Marcos 12:14, Lucas 20:22, la palabra puede interpretarse como que denota el impuesto de capitación que los romanos imponían al pueblo judío. Sin embargo, puede considerarse legítimamente que denota cualquier impuesto impuesto por una potencia extranjera al pueblo de Israel. El “dinero del tributo” mostrado a nuestro Señor (Mat. 22:19) era el denario, que llevaba la inscripción de César. Era el impuesto que todo judío pagaba a los romanos. (Ver PENNY.)"
+      },
+      {
+        "source": "SMI",
+        "text": "Los principales hechos bíblicos relacionados con el pago del tributo ya se han expuesto en Impuestos. El tributo (dinero) mencionado en (Mateo 17:24,25) era el medio siclo (con un valor de 25 a 27 centavos) aplicado para sufragar los gastos generales del templo. Después de la destrucción del templo, Vespasiano y sus sucesores lo secuestraron y lo trasladaron al templo de Júpiter Capitolino. Este “tributo” de (Mateo 17:24) no debe confundirse con el tributo pagado al emperador romano. (Mateo 22:17) La tasa del templo, aunque se basaba en un precedente antiguo (Éxodo 30:13), era como un tributo anual fijo de origen comparativamente tardío."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 20:24",
+        "original": "2 Sam. 20:24"
+      },
+      {
+        "reference": "1 Kings 4:6",
+        "original": "1 Kings 4:6"
+      },
+      {
+        "reference": "Romans 13:6",
+        "original": "Rom. 13:6"
+      },
+      {
+        "reference": "Matthew 17:24-27",
+        "original": "Matt. 17:24-27"
+      },
+      {
+        "reference": "Exodus 30:12",
+        "original": "Ex. 30:12"
+      },
+      {
+        "reference": "2 Kings 12:4",
+        "original": "2 Kings 12:4"
+      },
+      {
+        "reference": "2 Chronicles 24:6",
+        "original": "2 Chr. 24:6"
+      },
+      {
+        "reference": "2 Chronicles 24:9",
+        "original": "2 Chr. 24:9"
+      },
+      {
+        "reference": "Matthew 22:17",
+        "original": "Matt. 22:17"
+      },
+      {
+        "reference": "Mark 12:14",
+        "original": "Mark 12:14"
+      },
+      {
+        "reference": "Luke 20:22",
+        "original": "Luke 20:22"
+      },
+      {
+        "reference": "Matthew 22:19",
+        "original": "Matt. 22:19"
+      },
+      {
+        "reference": "Matthew 17:24",
+        "original": "Matthew 17:24"
+      },
+      {
+        "reference": "Matthew 17:25",
+        "original": "Matthew 17:25"
+      },
+      {
+        "reference": "Exodus 30:13",
+        "original": "Exodus 30:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "twin-brothers": {
+    "name": "Hermanos gemelos",
+    "slug": "twin-brothers",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Este término se usa en la versión revisada de (Hechos 28:11) para Castor Y Pólux Y Pólux, que ver."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 28:11",
+        "original": "Acts 28:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "westward": {
+    "name": "Hacia el oeste",
+    "slug": "westward",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hacia el mar, es decir, hacia el Mediterráneo (Deuteronomio 3:27)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 3:27",
+        "original": "Deut. 3:27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "h"
+  },
+  "wise-men": {
+    "name": "hombres sabios",
+    "slug": "wise-men",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado en Dan. 2:12 incluía tres clases: (1) astrólogos, (2) caldeos y (3) adivinos. La palabra en el original (hakamim) probablemente significa \"curanderos. En Caldea la medicina era sólo una rama de la magia. Los \"sabios\" de Mateo 2:7, que vinieron del Este a Jerusalén, eran magos de Persia o Arabia."
+      },
+      {
+        "source": "SMI",
+        "text": "[Los reyes magos]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 2:12",
+        "original": "Dan. 2:12"
+      },
+      {
+        "reference": "Matthew 2:7",
+        "original": "Matt. 2:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
+  },
+  "yarn": {
+    "name": "Hilo",
+    "slug": "yarn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se encuentra sólo en 1 Reyes 10:28, 2 Crón. 1:16. El heb. La palabra mikveh, es decir, “una cuerda”, así traducida, significa más bien un anfitrión, una compañía o una retaguardia de caballos. La versión autorizada dice: “Y Salomón hizo sacar caballos de Egipto e hilo de lino: los mercaderes del rey recibieron el hilo de lino por un precio”; pero la versión revisada dice correctamente: \"Y los caballos que tenía Salomón fueron sacados de Egipto; los mercaderes del rey los recibieron en manadas, cada uno de ellos a un precio\"."
+      },
+      {
+        "source": "SMI",
+        "text": "El aviso del hilo está contenido en un pasaje extremadamente oscuro en (1 Reyes 10:28; 2 Crónicas 1:16). El texto hebreo recibido es cuestionable. Gesenius da el sentido de \"número\" aplicándose igualmente a los comerciantes y a los caballos: \"Un grupo de comerciantes del rey compró una manada (de caballos) a un precio\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:28",
+        "original": "1 Kings 10:28"
+      },
+      {
+        "reference": "1 Kings 10:2",
+        "original": "1 Kings 10:2"
+      },
+      {
+        "reference": "2 Chronicles 1:16",
+        "original": "2 Chronicles 1:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "h"
   }
 }

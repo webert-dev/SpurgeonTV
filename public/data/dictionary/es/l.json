@@ -8670,5 +8670,885 @@
       "SMI"
     ],
     "letter": "l"
+  },
+  "semitic-languages": {
+    "name": "Lenguas semíticas",
+    "slug": "semitic-languages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Lenguas Shemíticas IDIOMAS; Idioma hebreo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "shemitic-languages": {
+    "name": "Lenguas shemíticas",
+    "slug": "shemitic-languages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la familia de lenguas habladas por los descendientes de Sem, principalmente el hebreo, el caldeo, el asirio, el árabe fenicio y el arameo o siríaco. Los judíos en su historia anterior hablaban hebreo, pero en tiempos de Cristo hablaban arameo, a veces llamado siro-caldaico."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "side": {
+    "name": "Lado",
+    "slug": "side",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una ciudad en la costa de Panfilia, a 10 o 12 millas al este del río Eurimedon. Se menciona en 1 Macc. 15:23, y era una colonia de cumanos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1Macc 15:23",
+        "original": "1 Macc. 15:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "slime": {
+    "name": "Limo",
+    "slug": "slime",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gén. 11:3; LXX.: “asfalto”; R.V. marg., “betún”). El valle de Siddim estaba lleno de pozos de cieno (14:10). Jocabed untó el “arca de juncos” con limo (Éxodo 2:3). (Ver TONO.)"
+      },
+      {
+        "source": "SMI",
+        "text": "betún traducido en la Vulgata. Los tres casos en que se menciona en el Antiguo Testamento están ilustrados por viajeros e historiadores. Se dice por primera vez que los constructores lo utilizaban como cemento en la llanura de Sinar o Babilonia. (Génesis 11:3) Los pozos de betún en el valle de Siddim se mencionan en el antiguo fragmento de la historia cananea (Génesis 14:10) y el arca de papiro en la que se colocó a Moisés se hizo impermeable al agua mediante una capa de betún y brea. (Éxodo 2:3) Heródoto, i. 179, nos habla del betún encontrado en Is, la moderna Heet, una ciudad de Babilonia, a ocho días de viaje desde Babilonia. (El betún, o asfalto, es “el producto de la descomposición de sustancias vegetales y animales. Generalmente se encuentra de un color negro o negro pardusco, externamente no muy diferente del carbón, pero su consistencia varía desde una condición brillante y brea, con una fractura concoidea, hasta masas espesas y viscosas de alquitrán mineral”.—Encyc. Brit. En este último estado se le llama en la Biblia limo, y es de la misma naturaleza que nuestro petróleo, pero más espeso y se endurece. El asfalto se obtiene en varios lugares de Europa, e incluso ahora ocasionalmente en el Mar Muerto.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:3",
+        "original": "Gen. 11:3"
+      },
+      {
+        "reference": "Exodus 2:3",
+        "original": "Ex. 2:3"
+      },
+      {
+        "reference": "Genesis 14:10",
+        "original": "Genesis 14:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "spear": {
+    "name": "Lanza",
+    "slug": "spear",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "spearmen": {
+    "name": "lanceros",
+    "slug": "spearmen",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Hechos 23:23.) Probablemente se trataba de tropas tan ligeramente armadas que podían seguir el ritmo de la marcha de los soldados montados."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 23:23",
+        "original": "Acts 23:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "stoning": {
+    "name": "Lapidación",
+    "slug": "stoning",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una forma de castigo (Lev. 20:2; 24:14; Deut. 13:10; 17:5; 22:21) prescrita para ciertas ofensas. De Acán (Jos. 7:25), Nabot (1 Reyes 21), Esteban (Hechos 7:59), Pablo (Hechos 14:19; 2 Cor. 11:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Castigos]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 20:2",
+        "original": "Lev. 20:2"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Lev 24:14"
+      },
+      {
+        "reference": "Deuteronomy 13:10",
+        "original": "Deut. 13:10"
+      },
+      {
+        "reference": "Deuteronomy 17:5",
+        "original": "Deut 17:5"
+      },
+      {
+        "reference": "Deuteronomy 22:21",
+        "original": "Deut 22:21"
+      },
+      {
+        "reference": "Joshua 7:25",
+        "original": "Josh. 7:25"
+      },
+      {
+        "reference": "1 Kings 21",
+        "original": "1 Kings 21"
+      },
+      {
+        "reference": "Acts 7:59",
+        "original": "Acts 7:59"
+      },
+      {
+        "reference": "Acts 14:19",
+        "original": "Acts 14:19"
+      },
+      {
+        "reference": "2 Corinthians 11:25",
+        "original": "2 Cor. 11:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "thieves-the-two": {
+    "name": "Ladrones, Los dos",
+    "slug": "thieves-the-two",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lucas 23:32, 39-43), ladrones, más bien bandoleros, probablemente seguidores de Barrabás. La cruz de Nuestro Señor fue colocada entre las de los “malhechores”, para aumentar la ignominia de su posición. Según la tradición, Demas o Dismas era el nombre del ladrón penitente colgado a la derecha, y Gestas del impenitente a la izquierda."
+      },
+      {
+        "source": "SMI",
+        "text": "Los hombres que bajo este nombre aparecen en la historia de la crucifixión eran más ladrones que ladrones, pertenecientes a las bandas ilegales que Palestina estaba infestada en ese momento y después. Cada procurador romano tenía que librar una guerra continua contra estos bandidos. Fue necesario utilizar una policía armada para enfrentarlos. (Lucas 22:62) De la historia previa de los dos que sufrieron en el Gólgota no sabemos nada. Habían sido juzgados y condenados, y esperaban su ejecución antes de que nuestro Señor fuera acusado. Es bastante probable, ya que claramente se esperaba la muerte de Barrabás al mismo tiempo que ellos habían participado en su insurrección y esperaban morir con Jesús Barrabás. Se encuentran con uno que llevaba el mismo nombre, pero que fue descrito en la inscripción de su cruz como Jesús de Nazaret. Difícilmente podrían haber dejado de escuchar algo de su fama como profeta, de su entrada triunfal como rey; Al principio captan el tono predominante de desprecio. Pero en uno de ellos se produjo un cambio. Miró hacia atrás, a su vida pasada, y vio un mal infinito. Miró al hombre que moría en la cruz a su lado y vio una compasión infinita. De hecho, hubo uno diferente a todos los demás “reyes de los judíos” que el ladrón había conocido. Alguien así debía ser todo lo que había afirmado ser. Ser olvidado por ese rey le parece ahora el más terrible de todos los castigos; para participar en el triunfo de su regreso, la más bendita de todas las esperanzas. La anhelante oración fue respondida, no en la letra, sino en el espíritu."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 23:32",
+        "original": "Luke 23:32"
+      },
+      {
+        "reference": "Luke 23:39",
+        "original": "Luke 23:39"
+      },
+      {
+        "reference": "Luke 22:62",
+        "original": "Luke 22:62"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "threshold": {
+    "name": "Límite",
+    "slug": "threshold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. miphtan, probablemente una viga que sobresale en un punto más alto que el umbral propiamente dicho (1 Sam. 5:4, 5; Eze. 9:3; 10:4, 18; 46:2; 47:1); también traducido como \"puerta\" y \"poste de puerta\". (2.) 'Asuppim, pl. (Neh. 12:25), traducido correctamente “almacenes” en la versión revisada. En 1 Cr. 26:15, 17 la versión autorizada conserva la palabra como nombre propio, mientras que en la versión revisada se traduce “almacenes”."
+      },
+      {
+        "source": "SMI",
+        "text": "De las dos palabras así traducidas es la versión autorizada, una, miphthan, parece significar a veces una viga o ménsula saliente. (Ezequiel 9:3; 10:4,18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 5:4",
+        "original": "1 Sam. 5:4"
+      },
+      {
+        "reference": "1 Samuel 5:5",
+        "original": "1 Sam. 5:5"
+      },
+      {
+        "reference": "Ezekiel 9:3",
+        "original": "Ezek. 9:3"
+      },
+      {
+        "reference": "Ezekiel 10:4",
+        "original": "Ezek 10:4"
+      },
+      {
+        "reference": "Ezekiel 10:18",
+        "original": "Ezek 10:18"
+      },
+      {
+        "reference": "Ezekiel 46:2",
+        "original": "Ezek 46:2"
+      },
+      {
+        "reference": "Ezekiel 47:1",
+        "original": "Ezek 47:1"
+      },
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Neh. 12:25"
+      },
+      {
+        "reference": "1 Chronicles 26:15",
+        "original": "1 Chr. 26:15"
+      },
+      {
+        "reference": "1 Chronicles 26:17",
+        "original": "1 Chr. 26:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tires": {
+    "name": "Llantas",
+    "slug": "tires",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "“Cansar” la cabeza es adornarla (2 Reyes 9:30). Como sustantivo, la palabra se deriva de \"tiara\" y es la traducción del heb. p’er, un “turbante” o un adorno para la cabeza (Ezequiel 24:17; R.V., “tocado”; 24:23). En Isa. 3:18 la palabra saharonim se traduce “llantas redondas como la luna”, y en Jue. 8:21, 26 “adornos”, pero en ambos casos “medialunas” en la versión revisada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 9:30",
+        "original": "2 Kings 9:30"
+      },
+      {
+        "reference": "Ezekiel 24:17",
+        "original": "Ezek. 24:17"
+      },
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      },
+      {
+        "reference": "Judges 8:21",
+        "original": "Judg. 8:21"
+      },
+      {
+        "reference": "Judges 8:26",
+        "original": "Judg. 8:26"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "tongues-confusion-of": {
+    "name": "Lenguas, confusión de",
+    "slug": "tongues-confusion-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Babel, la causa de la temprana separación de la humanidad y su división en naciones. Los descendientes de Noé construyeron una torre para evitar su dispersión; pero Dios “confundió su lengua” (Génesis 11:1-8), y fueron esparcidos por toda la tierra. Hasta ese momento “toda la tierra era de un solo idioma y de un mismo habla”. (Ver SHINAR.)"
+      },
+      {
+        "source": "SMI",
+        "text": "La unidad de la raza humana está más claramente implícita, si no afirmada positivamente, en los escritos mosaicos. El historiador sagrado asume la unidad del lenguaje aparentemente como corolario de la unidad de la raza. (Esta afirmación es confirmada por los filólogos.) No se da ninguna explicación sobre el origen del habla, pero su ejercicio evidentemente se considera contemporáneo de la creación del hombre. La unidad original del habla fue restaurada en Noé. Sin embargo, desde el principio surgieron causas perturbadoras que disolvieron esta doble unión de comunidad y palabra. La familia humana se esforzó por frenar la tendencia a la separación mediante el establecimiento de un gran edificio central y una ciudad que sirviera como metrópoli del mundo entero. El proyecto fue derrotado por la interposición de Jehová, quien determinó “confundir su lengua, para que no entiendan el habla de los demás”. Al mismo tiempo que esta confusión de lenguas, y quizás como resultado de ella, el pueblo fue esparcido desde allí sobre la faz de toda la tierra, y el recuerdo del gran acontecimiento se conservó en el nombre de Babel. [Babel. Torre DE] Inscripción de Nabucodonosor.—En la inscripción Borsippa de Nabucodonosor hay una alusión a la confusión de lenguas. \"Dicemos que para el otro, es decir, este edificio, la casa de las Siete Luces de la Tierra, el monumento más antiguo de Borsippa, un rey anterior lo construyó [calculan cuarenta y dos edades], pero no completó su cabeza. Desde tiempos remotos la gente lo había abandonado, sin orden para expresar sus palabras. Desde entonces el terremoto y el trueno habían dispersado su arcilla secada al sol; los ladrillos de la carcasa se habían partido, y la tierra del interior se había esparcido en montones”. Es innecesario suponer que el juicio infligido a los constructores de Babel equivalía a una pérdida, o incluso a una suspensión del discurso articulado. El objetivo deseado se alcanzaría igualmente mediante una milagrosa prevención de esas diferencias dialécticas del lenguaje que están constantemente en proceso de producción. Es posible que los elementos de la lengua original hayan permanecido, pero tan disfrazados por variaciones de pronunciación y por la introducción de nuevas combinaciones que prácticamente han desaparecido. En la Biblia se habla de la confusión de lenguas y la dispersión de las naciones como acontecimientos contemporáneos. La divergencia de las diversas familias en distintas tribus y naciones fue paralela a la divergencia del habla en dialectos y lenguas y, por tanto, el capítulo décimo del Génesis es posterior en secuencia histórica a los acontecimientos registrados en el capítulo undécimo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:1-8",
+        "original": "Gen. 11:1-8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "tongues-gift-of": {
+    "name": "Lenguas, Don de",
+    "slug": "tongues-gift-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Concedido el día de Pentecostés (Hechos 2:4), en cumplimiento de una promesa que Cristo había hecho a sus discípulos (Marcos 16:17). Lo que realmente fue este regalo ha sido tema de mucha discusión. Algunos han argumentado que fue simplemente una señal externa de la presencia del Espíritu Santo entre los discípulos, que tipifica sus múltiples dones y muestra que la salvación se extendería a todas las naciones. Pero las palabras de Lucas (Hechos 2:9) muestran claramente que los diversos pueblos de Jerusalén en el momento de Pentecostés realmente escucharon que se les hablaba en su propio idioma especial que conocían naturalmente (comp. Joel 2:28, 29). Entre los dones del Espíritu el apóstol enumera en 1 Cor. 12:10-14:30, “diversos tipos de lenguas” y la “interpretación de lenguas”. Este “don” fue una manifestación del Espíritu diferente a la de Pentecostés, aunque se parecía en muchos detalles. Las lenguas debían ser “una señal para los incrédulos”."
+      },
+      {
+        "source": "SMI",
+        "text": "I. glotta, o glosa, la palabra empleada en todo el Nuevo Testamento para el don que ahora estamos considerando, se usa: (1) para el órgano corporal del habla; (2) para una palabra extranjera importada y medio naturalizada en griego; (3) en griego helenístico, para \"habla\" o \"lenguaje\". La visión tradicional recibida, que parte del tercer significado y ve en el don de lenguas un poder claramente lingüístico, es la más correcta. II. Los principales pasajes de los cuales debemos sacar nuestra conclusión en cuanto a la naturaleza y el propósito del obsequio en cuestión son:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 2:4",
+        "original": "Acts 2:4"
+      },
+      {
+        "reference": "Mark 16:17",
+        "original": "Mark 16:17"
+      },
+      {
+        "reference": "Acts 2:9",
+        "original": "Acts 2:9"
+      },
+      {
+        "reference": "Joel 2:28",
+        "original": "Joel 2:28"
+      },
+      {
+        "reference": "Joel 2:29",
+        "original": "Joel 2:29"
+      },
+      {
+        "reference": "1 Corinthians 12:10-14:30",
+        "original": "1 Cor. 12:10-14:30"
+      },
+      {
+        "reference": "Acts 2:1-13",
+        "original": "Acts 2:1-13"
+      },
+      {
+        "reference": "Acts 10:46",
+        "original": "Acts 10:46"
+      },
+      {
+        "reference": "Acts 19:6",
+        "original": "Acts 19:6"
+      },
+      {
+        "reference": "2 Corinthians 12:1",
+        "original": "2 Corinthians 12:1"
+      },
+      {
+        "reference": "2 Corinthians 14:1",
+        "original": "2 Corinthians 14:1"
+      },
+      {
+        "reference": "Matthew 10:19",
+        "original": "Matthew 10:19"
+      },
+      {
+        "reference": "Matthew 10:20",
+        "original": "Matthew 10:20"
+      },
+      {
+        "reference": "Mark 13:11",
+        "original": "Mark 13:11"
+      },
+      {
+        "reference": "Acts 2:1-12",
+        "original": "Acts 2:1-12"
+      },
+      {
+        "reference": "Acts 14:11",
+        "original": "Acts 14:11"
+      },
+      {
+        "reference": "1 Corinthians 12",
+        "original": "1Cor 12"
+      },
+      {
+        "reference": "1 Corinthians 14:1",
+        "original": "1 Corinthians 14:1"
+      },
+      {
+        "reference": "1 Chronicles 25:1",
+        "original": "1 Chronicles 25:1"
+      },
+      {
+        "reference": "Ezekiel 13:9",
+        "original": "Ezekiel 13:9"
+      },
+      {
+        "reference": "1 Samuel 10:5-13",
+        "original": "1 Samuel 10:5-13"
+      },
+      {
+        "reference": "1 Samuel 19:20-24",
+        "original": "1 Samuel 19:20-24"
+      },
+      {
+        "reference": "1 Chronicles 25:3",
+        "original": "1 Chronicles 25:3"
+      },
+      {
+        "reference": "Acts 14:16-10",
+        "original": "Acts 14:16-10"
+      },
+      {
+        "reference": "Acts 10:47",
+        "original": "Acts 10:47"
+      },
+      {
+        "reference": "Acts 11:15",
+        "original": "Acts 11:15"
+      },
+      {
+        "reference": "Acts 11:17",
+        "original": "Acts 11:17"
+      },
+      {
+        "reference": "1 Corinthians 12:8-10",
+        "original": "1 Corinthians 12:8-10"
+      },
+      {
+        "reference": "1 Corinthians 12:28-30",
+        "original": "1 Corinthians 12:28-30"
+      },
+      {
+        "reference": "1 Corinthians 14:15",
+        "original": "1 Corinthians 14:15"
+      },
+      {
+        "reference": "1 Corinthians 14:16",
+        "original": "1 Corinthians 14:16"
+      },
+      {
+        "reference": "1 Corinthians 12:28",
+        "original": "1 Corinthians 12:28"
+      },
+      {
+        "reference": "1 Corinthians 13:1",
+        "original": "1 Corinthians 13:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wailing-place-jews": {
+    "name": "Lugar de lamentos, de los judíos",
+    "slug": "wailing-place-jews",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una sección del muro occidental del área del templo, donde los judíos se reúnen todos los viernes por la tarde para lamentarse de su condición desolada (Sal. 79:1, 4, 5). Las piedras de esta parte del muro son de gran tamaño, y fueron colocadas, como generalmente se cree, en la posición en que ahora se encuentran en tiempos de Salomón. \"La congregación en el lugar de los lamentos es una de las reuniones más solemnes que le quedan a la Iglesia judía, y mientras el escritor contemplaba la abigarrada concurrencia, experimentó un sentimiento de tristeza porque los restos de la raza elegida debían ser arrojados sin piedad fuera del recinto sagrado del santo templo de sus padres por hombres de una raza y un credo extraños. Muchos de los ancianos, sentados en el suelo, con la espalda contra la pared, en el lado oeste del área, y con sus rostros vueltos hacia la casa eterna, leen en sus manoseados libros hebreos pasajes de los escritos proféticos, como Isa. 64:9-12” (King’s Recent Discoveries, etc.). El lugar de los lamentos de los judíos, visto en sus pasadas relaciones espirituales e históricas, es en verdad “el rincón más triste de este valle de lágrimas”. (Ver LAMENTACIONES, LIBRO DE.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 79:1",
+        "original": "Ps. 79:1"
+      },
+      {
+        "reference": "Psalms 79:4",
+        "original": "Ps. 79:4"
+      },
+      {
+        "reference": "Psalms 79:5",
+        "original": "Ps. 79:5"
+      },
+      {
+        "reference": "Isaiah 64:9-12",
+        "original": "Isa. 64:9-12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "washing": {
+    "name": "Lavado",
+    "slug": "washing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 7:1-9). Los judíos, al igual que otros orientales, usaban los dedos al comer y, por lo tanto, se lavaban las manos antes de hacerlo, en aras de la limpieza. Aquí se hace referencia a las abluciones prescritas por la tradición, según las cuales “los discípulos deberían haber bajado a la orilla del lago, lavarse bien las manos, ‘frotando el puño de una mano en el hueco de la otra, luego juntar las yemas de los diez dedos, manteniendo las manos en alto, para que el agua sobrante fluyera hasta el codo y de allí al suelo’”. mandamientos. Moisés había ordenado lavarse con frecuencia, pero siempre por alguna causa definida; pero los judíos multiplicaron la observancia legal hasta formar un gran cuerpo de preceptos. A tales preceptos sobre el lavado ceremonial se refiere aquí Marcos. (Ver ABLUCIÓN)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:1-9",
+        "original": "Mark 7:1-9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "washing-the-hands-and-feet": {
+    "name": "Lavarse las manos y los pies",
+    "slug": "washing-the-hands-and-feet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Como en Oriente no se utilizaban cuchillos ni tenedores, en los tiempos de las Escrituras para comer era necesario que la mano, que se metía en el plato común, estuviera escrupulosamente limpia; y además, como las sandalias eran ineficaces contra el polvo y el calor del clima, lavar los pies al entrar en una casa era un acto tanto de respeto hacia la compañía como de refrigerio para el viajero. El primero de estos usos fue transformado por los fariseos de la época del Nuevo Testamento en una cuestión de observancia ritual (Marcos 7:3) y se establecieron reglas especiales en cuanto al momento y la manera de su realización. Lavarse los pies no alcanzaba la dignidad de una observancia ritual excepto en conexión con los servicios del santuario. (Éxodo 30:19,21.) Sin embargo, ocupaba un lugar destacado entre los ritos de la hospitalidad. Tan pronto como un invitado se presentaba a la puerta de la tienda, era habitual ofrecerle los materiales necesarios para el lavado de los pies. (Génesis 18:4; 19:2; 24:32; 43:24; Jueces 19:21.) Era un acto aún más elogioso, que presagiaba igualmente humildad y afecto, si el anfitrión mismo desempeñaba el oficio para su invitado. (1 Samuel 25:41; Lucas 7:38,44; Juan 13:5-14; 1 Timoteo 5:10.) Esta muestra de hospitalidad todavía se exhibe ocasionalmente en Oriente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:3",
+        "original": "Mark 7:3"
+      },
+      {
+        "reference": "Exodus 30:19",
+        "original": "Exodus 30:19"
+      },
+      {
+        "reference": "Exodus 30:21",
+        "original": "Exodus 30:21"
+      },
+      {
+        "reference": "Genesis 18:4",
+        "original": "Genesis 18:4"
+      },
+      {
+        "reference": "Genesis 19:2",
+        "original": "Genesis 19:2"
+      },
+      {
+        "reference": "Genesis 24:32",
+        "original": "Genesis 24:32"
+      },
+      {
+        "reference": "Genesis 43:24",
+        "original": "Genesis 43:24"
+      },
+      {
+        "reference": "Judges 19:21",
+        "original": "Judges 19:21"
+      },
+      {
+        "reference": "1 Samuel 25:41",
+        "original": "1 Samuel 25:41"
+      },
+      {
+        "reference": "Luke 7:38",
+        "original": "Luke 7:38"
+      },
+      {
+        "reference": "Luke 7:44",
+        "original": "Luke 7:44"
+      },
+      {
+        "reference": "John 13:5-14",
+        "original": "John 13:5-14"
+      },
+      {
+        "reference": "1 Timothy 5:10",
+        "original": "1 Timothy 5:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wine-press": {
+    "name": "Lagar",
+    "slug": "wine-press",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Constaba de dos tinajas o receptáculos, (1) una artesa (heb. gath, gr. lenos) en la que se arrojaban las uvas y donde eran pisoteadas y magulladas (Isaías 16:10; Lamentaciones 1:15; Joel 3:13); y (2) una artesa o tinaja (heb. yekebh, gr. hipolenion) en la cual corría el jugo desde la artesa de arriba, el gath (Neh. 13:15; Job 24:11; Isa. 63:2, 3; Hag. 2:16; Joel 2:24). Los lagares se encuentran en casi todas partes de Palestina. Son \"las únicas reliquias seguras que tenemos de los viejos tiempos de Israel antes del cautiverio. Entre Hebrón y Beerseba se encuentran en todas las laderas de las colinas; abundan en el sur de Judea; no son menos comunes en los numerosos valles del Carmelo; y son numerosos en Galilea\". El “pisar el lagar” es emblemático del juicio divino (Isaías 63:2; Lamentaciones 1:15; Apocalipsis 14:19, 20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 16:10",
+        "original": "Isa. 16:10"
+      },
+      {
+        "reference": "Lamentations 1:15",
+        "original": "Lam. 1:15"
+      },
+      {
+        "reference": "Joel 3:13",
+        "original": "Joel 3:13"
+      },
+      {
+        "reference": "Nehemiah 13:15",
+        "original": "Neh. 13:15"
+      },
+      {
+        "reference": "Job 24:11",
+        "original": "Job 24:11"
+      },
+      {
+        "reference": "Isaiah 63:2",
+        "original": "Isa. 63:2"
+      },
+      {
+        "reference": "Isaiah 63:3",
+        "original": "Isa. 63:3"
+      },
+      {
+        "reference": "Haggai 2:16",
+        "original": "Hag. 2:16"
+      },
+      {
+        "reference": "Joel 2:24",
+        "original": "Joel 2:24"
+      },
+      {
+        "reference": "Revelation 14:19",
+        "original": "Rev. 14:19"
+      },
+      {
+        "reference": "Revelation 14:20",
+        "original": "Rev. 14:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "winepress": {
+    "name": "Lagar",
+    "slug": "winepress",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "De las escasas noticias contenidas en la Biblia se desprende que, los lagares de los judíos consistían en dos receptáculos de tinajas colocadas a diferentes alturas, en la superior de las cuales se pisaba la uva, mientras que en la inferior recibía el mosto exprimido. Las dos tinajas se mencionan juntas sólo en (Joel 3:13) “El lagar está lleno, la grosura rebosa”: la tinaja superior está llena de frutos y la inferior rebosa de mosto. [Vino] Las dos tinajas generalmente estaban excavadas en la roca sólida. (Isaías 5:2) margen; (Mateo 21:33.) En Palestina todavía se ven antiguos lagares construidos de esta manera."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 3:13",
+        "original": "Joel 3:13"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isaiah 5:2"
+      },
+      {
+        "reference": "Matthew 21:33",
+        "original": "Matthew 21:33"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wolf": {
+    "name": "Lobo",
+    "slug": "wolf",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. zeeb, frecuentemente referido en las Escrituras como un emblema de traición y crueldad. La profecía de Jacob, “Benjamín desvariará como un lobo” (Gén. 49:27), representa el carácter guerrero de esa tribu (ver Jue. 19-21). Isaías representa la paz del reino del Mesías con las palabras: “Y el lobo morará con el cordero” (Isaías 11:6). Los hábitos del lobo se describen en Jer. 5:6; Hab. 1:8; Sofo. 3:3; Ezeq. 22:27; Mate. 7:15; 10:16; Hechos 20:29. A veces todavía se encuentran lobos en Palestina y, como antaño, son el temor de los pastores."
+      },
+      {
+        "source": "SMI",
+        "text": "No cabe duda de que el lobo de Palestina es el Canis lupus común, y que éste es el animal que se menciona con tanta frecuencia en la Biblia. (El lobo es un animal feroz de la misma especie que el perro, al que se parece. El color común es gris con un tinte leonado, y el pelo es largo y negro. El lobo sirio es de color más claro que el lobo de Europa; es el temor de los pastores de Palestina.—ED.) Sin duda, los lobos eran mucho más comunes en los tiempos bíblicos que ahora, aunque los viajeros modernos los ven ocasionalmente. Las siguientes son las alusiones bíblicas al lobo: Su ferocidad se menciona en (Génesis 49:27; Ezequiel 22:27); Hab 1:8; Mateo 7:15 Sus hábitos nocturnos, en (Jeremias 5:6; Sofonías 3:3); Habb 1:8 Ataca a ovejas y corderos, (Mateo 10:16; Lucas 10:3; Juan 10:12) Isaías (Isaías 11:6; 65:25) predice el reinado pacífico del Mesías bajo la metáfora de un lobo que habita con un cordero: los crueles perseguidores son comparados con lobos. (Mateo 10:16; Hechos 20:29)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:27",
+        "original": "Gen. 49:27"
+      },
+      {
+        "reference": "Judges 19",
+        "original": "Judg. 19"
+      },
+      {
+        "reference": "Isaiah 11:6",
+        "original": "Isa. 11:6"
+      },
+      {
+        "reference": "Jeremiah 5:6",
+        "original": "Jer. 5:6"
+      },
+      {
+        "reference": "Habakkuk 1:8",
+        "original": "Hab. 1:8"
+      },
+      {
+        "reference": "Zephaniah 3:3",
+        "original": "Zeph. 3:3"
+      },
+      {
+        "reference": "Ezekiel 22:27",
+        "original": "Ezek. 22:27"
+      },
+      {
+        "reference": "Matthew 7:15",
+        "original": "Matt. 7:15"
+      },
+      {
+        "reference": "Matthew 10:16",
+        "original": "Matt 10:16"
+      },
+      {
+        "reference": "Acts 20:29",
+        "original": "Acts 20:29"
+      },
+      {
+        "reference": "Luke 10:3",
+        "original": "Luke 10:3"
+      },
+      {
+        "reference": "John 10:12",
+        "original": "John 10:12"
+      },
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isaiah 65:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wool": {
+    "name": "Lana",
+    "slug": "wool",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uno de los primeros materiales utilizados para fabricar telas tejidas (Levítico 13:47, 48, 52, 59; 19:19). Las primicias de la lana debían ofrecerse a los sacerdotes (Deuteronomio 18:4). La ley que prohibía el uso de prendas de vestir “de diversas clases, como de lana y de lino juntamente” (Deuteronomio 22:11), tal vez, al igual que otras leyes de carácter similar, haya tenido la intención de expresar simbólicamente la separación y sencillez del pueblo del pacto de Dios. La lana de Damasco, famosa por su blancura, tenía gran reputación en el mercado de Tiro (Ezequiel 27:18)."
+      },
+      {
+        "source": "SMI",
+        "text": "Era un artículo de gran valor entre los judíos, como material básico para la confección de prendas de vestir. (Levítico 13:47; 22:11; Job 31:20; Proverbios 31:13; Ezequiel 34:3; Oseas 2:5.) La importancia de la lana se muestra incidentalmente en la noticia de que el tributo de Mesa se pagaba en cierta cantidad de carneros “con la lana”. (2 Reyes 3:1.) La lana de Damasco era muy apreciada en el mercado de Tiro. (Ezequiel 27:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Lev. 13:47"
+      },
+      {
+        "reference": "Leviticus 13:48",
+        "original": "Lev 13:48"
+      },
+      {
+        "reference": "Leviticus 13:52",
+        "original": "Lev 13:52"
+      },
+      {
+        "reference": "Leviticus 13:59",
+        "original": "Lev 13:59"
+      },
+      {
+        "reference": "Leviticus 19:19",
+        "original": "Lev 19:19"
+      },
+      {
+        "reference": "Deuteronomy 18:4",
+        "original": "Deut. 18:4"
+      },
+      {
+        "reference": "Deuteronomy 22:11",
+        "original": "Deut. 22:11"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezek. 27:18"
+      },
+      {
+        "reference": "Leviticus 22:11",
+        "original": "Leviticus 22:11"
+      },
+      {
+        "reference": "Job 31:20",
+        "original": "Job 31:20"
+      },
+      {
+        "reference": "Proverbs 31:13",
+        "original": "Proverbs 31:13"
+      },
+      {
+        "reference": "Ezekiel 34:3",
+        "original": "Ezekiel 34:3"
+      },
+      {
+        "reference": "Hosea 2:5",
+        "original": "Hosea 2:5"
+      },
+      {
+        "reference": "2 Kings 3:1",
+        "original": "2 Kings 3:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "l"
+  },
+  "wrestle": {
+    "name": "Luchar",
+    "slug": "wrestle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Efesios 6:12). Ver JUEGOS."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 6:12",
+        "original": "Eph. 6:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "l"
+  },
+  "wrestling": {
+    "name": "Lucha",
+    "slug": "wrestling",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Juegos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "l"
   }
 }

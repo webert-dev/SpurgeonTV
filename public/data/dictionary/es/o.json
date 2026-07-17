@@ -4248,5 +4248,615 @@
       "SMI"
     ],
     "letter": "o"
+  },
+  "seething-pot": {
+    "name": "Olla hirviendo",
+    "slug": "seething-pot",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un recipiente para hervir provisiones (Job 41:20; Jer. 1:13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 41:20",
+        "original": "Job 41:20"
+      },
+      {
+        "reference": "Jeremiah 1:13",
+        "original": "Jer. 1:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "sheep": {
+    "name": "Oveja",
+    "slug": "sheep",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Son de diferentes variedades. Probablemente los rebaños de Abraham e Isaac eran de especies salvajes que aún se encuentran en las regiones montañosas de Persia y Kurdistán. Después del Éxodo, y como resultado de las relaciones con las naciones vecinas, sin duda se introdujeron otras especies en los rebaños del pueblo de Israel. Se mencionan con frecuencia en las Escrituras. Se hace referencia al cuidado de un pastor sobre su rebaño como una ilustración del cuidado de Dios sobre su pueblo (Sal. 23:1, 2; 74:1; 77:20; Isa. 40:11; 53:6; Juan 10:1-5, 7-16). \"Las ovejas de Palestina tienen la cabeza más larga que las nuestras y tienen colas que van desde 5 pulgadas de ancho en la parte más estrecha hasta 15 pulgadas en la más ancha, siendo el peso proporcional y oscilando generalmente entre 10 y 14 libras, pero a veces se extienden hasta 30 libras. Las colas son en verdad enormes masas de grasa\" (Tierra Santa de Geikie, etc.). La cola era sin duda la “grupa” a la que tan frecuentemente se hace referencia en los sacrificios levíticos (Éxodo 29:22; Levítico 3:9; 7:3; 9:19). La esquila de ovejas era generalmente una ocasión de gran festividad (Gén. 31:19; 38:12, 13; 1 Sam. 25:4-8, 36; 2 Sam. 13:23-28)."
+      },
+      {
+        "source": "SMI",
+        "text": "Las ovejas eran una parte importante de las posesiones de los antiguos hebreos y de las naciones orientales en general. La primera mención de las ovejas ocurre en (Génesis 4:2). Se usaban en la ofrenda del sacrificio, tanto como el animal adulto (Éxodo 20:24) como como el cordero. Ver (Éxodo 29:28; Levítico 9:3; 12:6). Las ovejas y los corderos constituían un importante artículo alimenticio. (1 Samuel 25:18) La lana se usaba como vestimenta. (Levítico 13:47) Se utilizaban “piel de carnero teñida de rojo” como cubierta para el tabernáculo. (Éxodo 25:5.) A veces se pagaba como tributo a ovejas y corderos. (2 Reyes 3:4) Es muy sorprendente notar la inmensa cantidad de ovejas que se criaban en Palestina en los tiempos bíblicos. (Chardin dice que vio un clan de pastores turcomanos cuyo rebaño constaba de 3.000.000 de ovejas y cabras, además de 400.000 caballos, asnos y camellos.) Se alude al esquileo de ovejas (Génesis 31:19). Los perros pastores se empleaban en tiempos bíblicos. (Job 30:1) Los pastores en Palestina y Oriente generalmente van delante de sus rebaños, a los que inducen a seguir llamándolos, comp. (Juan 10:4; Salmos 77:20; 80:1) aunque también los impulsan. (Génesis 33:13.) La siguiente cita de “Researches in Greek and the Levant” de Hartley, pág. 321, es sorprendentemente ilustrativo de las alusiones en (Juan 10:1-16) \"Habiendo dirigido mi atención anoche a las palabras en (Juan 10:3), le pregunté a mi hombre si era habitual en Grecia dar nombres a las ovejas. Él me informó que así era, y que las ovejas obedecían al pastor cuando él las llamaba por sus nombres. Esta mañana tuve la oportunidad de verificar la verdad de esta observación. Al pasar por un rebaño de ovejas, pregunté El pastor hizo la misma pregunta que le había hecho al sirviente, y él me dio la misma respuesta. Entonces le pedí que llamara a una de sus ovejas. Así lo hizo, y ésta inmediatamente dejó su pasto y a sus compañeros y corrió hacia las manos del pastor con señales de placer y con una pronta obediencia que nunca antes había observado en ningún otro animal. También es cierto que en este país no seguirán a un extraño, sino que huirán de él. salvajes, que aún no habían aprendido sus nombres, pero que enseñándolos todos los aprenderían”. Los puros comunes, de Siria y Palestina, son los de cola ancha. Como la oveja es un emblema de mansedumbre, paciencia y sumisión, se menciona expresamente como tipificando estas cualidades en la persona de nuestro bendito Señor. (Isaías 53:7; Hechos 8:32), etc. La relación que existe entre Cristo, “el Pastor principal”, y sus miembros se compara maravillosamente con la que en Oriente exhiben tan sorprendentemente los pastores hacia sus rebaños [Pastor]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 23:1",
+        "original": "Ps. 23:1"
+      },
+      {
+        "reference": "Psalms 23:2",
+        "original": "Ps 23:2"
+      },
+      {
+        "reference": "Psalms 74:1",
+        "original": "Ps 74:1"
+      },
+      {
+        "reference": "Psalms 77:20",
+        "original": "Ps 77:20"
+      },
+      {
+        "reference": "Isaiah 40:11",
+        "original": "Isa. 40:11"
+      },
+      {
+        "reference": "Isaiah 53:6",
+        "original": "Isa 53:6"
+      },
+      {
+        "reference": "John 10:1-5",
+        "original": "John 10:1-5"
+      },
+      {
+        "reference": "John 10:7-16",
+        "original": "John 10:7-16"
+      },
+      {
+        "reference": "Exodus 29:22",
+        "original": "Ex. 29:22"
+      },
+      {
+        "reference": "Leviticus 3:9",
+        "original": "Lev. 3:9"
+      },
+      {
+        "reference": "Leviticus 7:3",
+        "original": "Lev 7:3"
+      },
+      {
+        "reference": "Leviticus 9:19",
+        "original": "Lev 9:19"
+      },
+      {
+        "reference": "Genesis 31:19",
+        "original": "Gen. 31:19"
+      },
+      {
+        "reference": "Genesis 38:12",
+        "original": "Gen 38:12"
+      },
+      {
+        "reference": "Genesis 38:13",
+        "original": "Gen 38:13"
+      },
+      {
+        "reference": "1 Samuel 25:4-8",
+        "original": "1 Sam. 25:4-8"
+      },
+      {
+        "reference": "1 Samuel 25:36",
+        "original": "1 Sam. 25:36"
+      },
+      {
+        "reference": "2 Samuel 13:23-28",
+        "original": "2 Sam. 13:23-28"
+      },
+      {
+        "reference": "Genesis 4:2",
+        "original": "Genesis 4:2"
+      },
+      {
+        "reference": "Exodus 20:24",
+        "original": "Exodus 20:24"
+      },
+      {
+        "reference": "Exodus 29:28",
+        "original": "Exodus 29:28"
+      },
+      {
+        "reference": "Leviticus 9:3",
+        "original": "Leviticus 9:3"
+      },
+      {
+        "reference": "Leviticus 12:6",
+        "original": "Leviticus 12:6"
+      },
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Samuel 25:18"
+      },
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Leviticus 13:47"
+      },
+      {
+        "reference": "Exodus 25:5",
+        "original": "Exodus 25:5"
+      },
+      {
+        "reference": "2 Kings 3:4",
+        "original": "2 Kings 3:4"
+      },
+      {
+        "reference": "Job 30:1",
+        "original": "Job 30:1"
+      },
+      {
+        "reference": "John 10:4",
+        "original": "John 10:4"
+      },
+      {
+        "reference": "Psalms 80:1",
+        "original": "Psalms 80:1"
+      },
+      {
+        "reference": "Genesis 33:13",
+        "original": "Genesis 33:13"
+      },
+      {
+        "reference": "John 10:1-16",
+        "original": "John 10:1-16"
+      },
+      {
+        "reference": "John 10:3",
+        "original": "John 10:3"
+      },
+      {
+        "reference": "Isaiah 53:7",
+        "original": "Isaiah 53:7"
+      },
+      {
+        "reference": "Acts 8:32",
+        "original": "Acts 8:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "sin-offering": {
+    "name": "Ofrenda por el pecado",
+    "slug": "sin-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. Hattath), la ley de, se da en detalle en Lev. 4-6:13; 9:7-11, 22-24; 12:6-8; 15:2, 14, 25-30; 14:19, 31; Núm. 6:10-14. El día de la Expiación se hacía con especial solemnidad (Levítico 16:5, 11, 15). Luego la sangre era llevada al lugar santísimo y rociada sobre el propiciatorio. También se presentaban ofrendas por el pecado en las cinco fiestas anuales (Números 28, 29) y con ocasión de la consagración de los sacerdotes (Éxodo 29:10-14, 36). Como cada individuo, incluso el miembro más privado de la congregación, así como la congregación en general y el sumo sacerdote, estaban obligados, al ser convencidos por su conciencia de cualquier pecado en particular, a presentar una ofrenda por el pecado, vemos así impresionantemente revelada la necesidad que todo pecador tiene de la salvación de Cristo, y la necesidad de aplicarla tan a menudo como la culpa del pecado se renueva en su conciencia. Este recurso de la fe al sacrificio perfecto de Cristo es el único camino que está abierto para que el pecador alcance el perdón y la restauración de la paz. Y luego, en el sacrificio mismo está la realidad de ese valor y preciosidad incomparables que fueron representados de manera tan significativa en la ofrenda por el pecado por el carácter sagrado de su sangre y el destino sagrado de su carne. Con referencia a esto, la sangre de Cristo se llama enfáticamente “la sangre preciosa” y la sangre que “limpia de todo pecado” (1 Juan 1:7)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 4",
+        "original": "Lev. 4"
+      },
+      {
+        "reference": "Numbers 6:10-14",
+        "original": "Num. 6:10-14"
+      },
+      {
+        "reference": "Leviticus 16:5",
+        "original": "Lev. 16:5"
+      },
+      {
+        "reference": "Leviticus 16:11",
+        "original": "Lev 16:11"
+      },
+      {
+        "reference": "Leviticus 16:15",
+        "original": "Lev 16:15"
+      },
+      {
+        "reference": "Numbers 28",
+        "original": "Num. 28"
+      },
+      {
+        "reference": "Numbers 29",
+        "original": "Num. 29"
+      },
+      {
+        "reference": "Exodus 29:10-14",
+        "original": "Ex. 29:10-14"
+      },
+      {
+        "reference": "Exodus 29:36",
+        "original": "Ex 29:36"
+      },
+      {
+        "reference": "1 John 1:7",
+        "original": "1 John 1:7"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "stargazers": {
+    "name": "Observadores de estrellas",
+    "slug": "stargazers",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 47:13), aquellos que pretenden decir lo que sucederá mirando las estrellas. Los astrólogos caldeos “adivinaban por la salida y la puesta, los movimientos, aspectos, color, grado de luz, etc., de las estrellas”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 47:13",
+        "original": "Isa. 47:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "target": {
+    "name": "Objetivo",
+    "slug": "target",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Sam. 17:6, A.V., después de la LXX. y Vulg.), una especie de escudo pequeño. El margen tiene una “gorguera”, una pieza de armadura para la garganta. La versión revisada traduce más correctamente la palabra hebrea (kidon) como \"jabalina\". La misma palabra hebrea se usa en Josué. 8:18 (A.V., “lanza”; R.V., “jabalina”); Job 39:23 (A.V., “escudo”; R.V., “jabalina”); 41:29 (A.V., “lanza”; R.V., “jabalina”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:6",
+        "original": "1 Sam. 17:6"
+      },
+      {
+        "reference": "Joshua 8:18",
+        "original": "Josh. 8:18"
+      },
+      {
+        "reference": "Job 39:23",
+        "original": "Job 39:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "thank-offering-or-peace-offering": {
+    "name": "Ofrenda de agradecimiento u ofrenda de paz",
+    "slug": "thank-offering-or-peace-offering",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la ofrenda propiamente eucarística entre los judíos, que en su teoría se asemeja a la ofrenda de carne y por lo tanto indica que el oferente ya estaba reconciliado y en alianza con Dios. Su ceremonial se describe en (Levítico 3:1)... Las ofrendas de paz, a diferencia de otros sacrificios, no estaban ordenadas para ofrecerse en un curso fijo y regular. La única ofrenda de paz que se repetía constantemente parece haber sido la de los dos corderos primogénitos en Pentecostés. (Levítico 23:19) El principio general de la ofrenda de paz parece haber sido que debería ser completamente espontánea, ofrecida según surgiera la ocasión, a partir del sentimiento del propio sacrificador. (Levítico 19:5) En la primera institución, (Levítico 7:11-17) las ofrendas de paz se dividen en “ofrendas de acción de gracias” y “votos u ofrendas voluntarias”; de esta última clase, la ofrenda de un nazareo al cumplir su voto es la más notable. (Números 6:14.) En consecuencia, encontramos ofrendas de paz ofrecidas para el pueblo en gran escala en períodos de solemnidad o regocijo inusuales. Sólo en dos casos (Jueces 20:26; 2 Samuel 24:26) se mencionan ofrendas de paz junto con holocaustos en un momento de dolor y ayuno nacional."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 3:1",
+        "original": "Leviticus 3:1"
+      },
+      {
+        "reference": "Leviticus 23:19",
+        "original": "Leviticus 23:19"
+      },
+      {
+        "reference": "Leviticus 19:5",
+        "original": "Leviticus 19:5"
+      },
+      {
+        "reference": "Leviticus 7:11-17",
+        "original": "Leviticus 7:11-17"
+      },
+      {
+        "reference": "Numbers 6:14",
+        "original": "Numbers 6:14"
+      },
+      {
+        "reference": "Judges 20:26",
+        "original": "Judges 20:26"
+      },
+      {
+        "reference": "2 Samuel 24:26",
+        "original": "2 Samuel 24:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "trespass-offering": {
+    "name": "Oferta de invasión",
+    "slug": "trespass-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. 'asham, \"deuda\"), la ley relativa, dada en Lev. 5:14-6:7; también en Núm. 5:5-8. La idea del pecado como una “deuda” impregna esta legislación. El asham, que siempre era un carnero, se ofrecía en los casos en que los pecados eran más privados. (Ver OFERTA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Ofrenda por el pecado OFRENDA]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 5:14-6:7",
+        "original": "Lev. 5:14-6:7"
+      },
+      {
+        "reference": "Numbers 5:5-8",
+        "original": "Num. 5:5-8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "wafers": {
+    "name": "Obleas",
+    "slug": "wafers",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tortas finas (Éxodo 16:31; 29:2, 23; Levítico 2:4; 7:12; 8:26; Números 6:15, 19) utilizadas en diversas ofrendas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:31",
+        "original": "Ex. 16:31"
+      },
+      {
+        "reference": "Exodus 29:2",
+        "original": "Ex 29:2"
+      },
+      {
+        "reference": "Exodus 29:23",
+        "original": "Ex 29:23"
+      },
+      {
+        "reference": "Leviticus 2:4",
+        "original": "Lev. 2:4"
+      },
+      {
+        "reference": "Leviticus 7:12",
+        "original": "Lev 7:12"
+      },
+      {
+        "reference": "Leviticus 8:26",
+        "original": "Lev 8:26"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 6:19",
+        "original": "Num 6:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "watchings": {
+    "name": "Observaciones",
+    "slug": "watchings",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(2 Cor. 6:5), lit. “insomnio”, el resultado del “trabajo manual, la enseñanza, los viajes, la meditación, la oración, los cuidados y cosas similares” (Meyer's Com.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Corinthians 6:5",
+        "original": "2 Cor. 6:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "wave-offering": {
+    "name": "Ofrenda Ola",
+    "slug": "wave-offering",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Este rito, junto con el de “levantar” o “levantar” la ofrenda, era un acompañamiento inseparable de las ofrendas de paz. En tales casos, el hombro derecho, considerado la parte más selecta de la víctima, debía ser (“alzado” y visto como santo para el Señor, por lo tanto, sólo el sacerdote lo comía; el pecho debía ser “agitado” y comido por el adorador. Los avisos bíblicos de estos ritos se encuentran en (Éxodo 29:24,28; Levítico 7:30,34; 8:27; 9:21; 10:14,15; 23:10,15,20; Números 6:20; 18:11,18,26-29), etc. Al conjeturar el significado de este rito, se debe tener en cuenta que era el acompañamiento de ofrendas de paz, que eran testigos de un pacto ratificado: una comunión establecida entre Dios y el hombre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:24",
+        "original": "Exodus 29:24"
+      },
+      {
+        "reference": "Exodus 29:28",
+        "original": "Exodus 29:28"
+      },
+      {
+        "reference": "Leviticus 7:30",
+        "original": "Leviticus 7:30"
+      },
+      {
+        "reference": "Leviticus 7:34",
+        "original": "Leviticus 7:34"
+      },
+      {
+        "reference": "Leviticus 8:27",
+        "original": "Leviticus 8:27"
+      },
+      {
+        "reference": "Leviticus 9:21",
+        "original": "Leviticus 9:21"
+      },
+      {
+        "reference": "Leviticus 10:14",
+        "original": "Leviticus 10:14"
+      },
+      {
+        "reference": "Leviticus 10:15",
+        "original": "Leviticus 10:15"
+      },
+      {
+        "reference": "Leviticus 23:10",
+        "original": "Leviticus 23:10"
+      },
+      {
+        "reference": "Leviticus 23:15",
+        "original": "Leviticus 23:15"
+      },
+      {
+        "reference": "Leviticus 23:20",
+        "original": "Leviticus 23:20"
+      },
+      {
+        "reference": "Numbers 6:20",
+        "original": "Numbers 6:20"
+      },
+      {
+        "reference": "Numbers 18:11",
+        "original": "Numbers 18:11"
+      },
+      {
+        "reference": "Numbers 18:18",
+        "original": "Numbers 18:18"
+      },
+      {
+        "reference": "Numbers 18:26-29",
+        "original": "Numbers 18:26-29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "wave-offerings": {
+    "name": "Ofrendas onduladas",
+    "slug": "wave-offerings",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las partes de las ofrendas de paz se llamaban así porque eran agitadas por los sacerdotes (Éxodo 29:24, 26, 27; Levítico 7:20-34; 8:27; 9:21; 10:14, 15, etc.), en señal de una presentación especial solemne a Dios. Luego pasaron a ser propiedad de los sacerdotes. Las primicias, una gavilla de cebada, ofrecida en la fiesta de Pentecostés (Lev. 23:17-20), y el pan de trigo, las primicias de la segunda cosecha, ofrecidas en la Pascua (10-14), eran ofrendas mecidas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:24",
+        "original": "Ex. 29:24"
+      },
+      {
+        "reference": "Exodus 29:26",
+        "original": "Ex. 29:26"
+      },
+      {
+        "reference": "Exodus 29:27",
+        "original": "Ex. 29:27"
+      },
+      {
+        "reference": "Leviticus 7:20-34",
+        "original": "Lev. 7:20-34"
+      },
+      {
+        "reference": "Leviticus 8:27",
+        "original": "Lev 8:27"
+      },
+      {
+        "reference": "Leviticus 9:21",
+        "original": "Lev 9:21"
+      },
+      {
+        "reference": "Leviticus 10:14",
+        "original": "Lev 10:14"
+      },
+      {
+        "reference": "Leviticus 10:15",
+        "original": "Lev 10:15"
+      },
+      {
+        "reference": "Leviticus 23:17-20",
+        "original": "Lev. 23:17-20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "wood-offering": {
+    "name": "Ofrenda de madera",
+    "slug": "wood-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Nehemías 10:34; 13:31). Parecería que en tiempos de Nehemías se hicieron arreglos, probablemente debido a la relativa escasez de leña, por los cuales se requirió que ciertos distritos, elegidos por sorteo, proporcionaran leña para mantener el fuego del altar ardiendo perpetuamente (Levítico 6:13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 10:34",
+        "original": "Neh. 10:34"
+      },
+      {
+        "reference": "Nehemiah 13:31",
+        "original": "Neh 13:31"
+      },
+      {
+        "reference": "Leviticus 6:13",
+        "original": "Lev. 6:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "works-covenant-of": {
+    "name": "Obras, Pacto de",
+    "slug": "works-covenant-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Entró Dios con Adán como representante de la raza humana (comp. Génesis 9:11, 12; 17:1-21), llamado así porque su condición era la obediencia perfecta, distinguiéndolo así del pacto de gracia. (Ver PACTO DE OBRAS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:11",
+        "original": "Gen. 9:11"
+      },
+      {
+        "reference": "Genesis 9:12",
+        "original": "Gen. 9:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
   }
 }

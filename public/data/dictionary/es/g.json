@@ -8319,5 +8319,562 @@
       "SMI"
     ],
     "letter": "g"
+  },
+  "recorder": {
+    "name": "Grabadora",
+    "slug": "recorder",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. mazkir, es decir, “el que menciona”, “que recuerda”), el cargo que ocupó por primera vez Josafat en la corte de David (2 Sam. 8:16), también en la corte de Salomón (1 Reyes 4:3). El siguiente registrador mencionado es Joá, durante el reinado de Ezequías (2 Reyes 18:18, 37; Isaías 36:3, 22). En el reinado de Josías, otro llamado Joa ocupó este cargo (2 Crónicas 34:8). El “registrador” era el canciller o visir del reino. Puso todos los asuntos importantes bajo la atención del rey, \"tales como quejas, peticiones y deseos de súbditos o extranjeros. También redactó documentos para la guía del rey y preparó borradores del testamento real para los escribas. Todos los tratados estaban bajo su supervisión; y tenía el cuidado de los archivos o registros nacionales, a los cuales, como historiógrafo real, como el mismo funcionario estatal en Asiria y Egipto, agregaba los anales actuales del reino\"."
+      },
+      {
+        "source": "SMI",
+        "text": "un funcionario de alto rango en el estado judío, que ejercía las funciones, no simplemente de analista, sino de canciller o presidente del consejo privado. En el tribunal de David, el registrador apela entre los altos funcionarios de su casa. (2 Samuel 8:16; 20:24; 1 Crónicas 18:15) En el de Salomón se le empareja con los tres secretarios. (1 Reyes 4:3) comp. 2 Reyes 18:18,37; 2Cr 34:8"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 8:16",
+        "original": "2 Sam. 8:16"
+      },
+      {
+        "reference": "1 Kings 4:3",
+        "original": "1 Kings 4:3"
+      },
+      {
+        "reference": "2 Kings 18:18",
+        "original": "2 Kings 18:18"
+      },
+      {
+        "reference": "2 Kings 18:37",
+        "original": "2 Kings 18:37"
+      },
+      {
+        "reference": "Isaiah 36:3",
+        "original": "Isa. 36:3"
+      },
+      {
+        "reference": "Isaiah 36:22",
+        "original": "Isa. 36:22"
+      },
+      {
+        "reference": "2 Chronicles 34:8",
+        "original": "2 Chr. 34:8"
+      },
+      {
+        "reference": "2 Samuel 20:24",
+        "original": "2 Samuel 20:24"
+      },
+      {
+        "reference": "1 Chronicles 18:15",
+        "original": "1 Chronicles 18:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "sparrow": {
+    "name": "Gorrión",
+    "slug": "sparrow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado entre las ofrendas que hacen los muy pobres. Se vendieron dos gorriones por un cuarto (Mateo 10:29) y cinco por dos cuartos (Lucas 12:6). La palabra hebrea así traducida es tsippor, que propiamente denota toda la familia de pájaros pequeños que se alimentan de grano (Lev. 14:4; Sal. 84:3; 102:7). La palabra griega del Nuevo Testamento es struthion (Mateo 10:29-31), que por lo tanto se traduce correctamente."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. tzippor, de una raíz que significa “chirrido” o “gorjeo”, que parece ser una representación fonética de la nota de llamada de cualquier ave paseriforme (parecida a un gorrión)). Esta palabra hebrea aparece más de cuarenta veces en el Antiguo Testamento. En todos los pasajes excepto dos, la Versión Autorizada lo traduce indistintamente \"pájaro\" o \"ave\". y denota cualquier ave pequeña, tanto de especies parecidas a gorriones como como estornino, pinzón, verderón, pardillo, jilguero, escribano maíz, bisbita, mirlo, zorzal, etc. En (Salmo 84:3) y Salmo 102:7 se traduce \"gorrión\". El stauthion griego (versión autorizada “gorrión”) aparece dos veces en el Nuevo Testamento (Mateo 10:29; Lucas 12:6,7) (Las aves mencionadas anteriormente se encuentran en grandes cantidades en Palestina y son de muy poco valor, se venden por una bagatela y, por lo tanto, son sorprendentemente utilizadas por nuestro Salvador (Mateo 10:20) como una ilustración del cuidado de nuestro Padre por sus hijos.—ED.) El zorzal azul (Petrocossyphus cyaneus) es probablemente el pájaro al que alude el salmista en (Proverbios 102:7) como \"el gorrión que se sienta solo en la azotea\". Es un ave solitaria, que evita la sociedad de su propia especie, y rara vez se ven más de una pareja juntos. El gorrión arbóreo inglés (Passer montanus, Linn.) también es muy común y puede verse en gran número en el Monte de los Olivos y también en los alrededores del recinto sagrado de la mezquita de Omar. Esta es quizás la especie exacta a la que se refiere el Dr. Thompson (Salmo 84:3), al hablar de la gran cantidad de gorriones domésticos y gorriones de campo en generación problemática e impertinente, y anidan justo donde no los quieres. Te tapan la estufa y las tuberías de agua con su basura, construyen las ventanas y debajo de las vigas del techo, y en medio día te llenarían el sombrero de rastrojos si lo encontraran colgado en un lugar que les conviene."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 10:29",
+        "original": "Matt. 10:29"
+      },
+      {
+        "reference": "Luke 12:6",
+        "original": "Luke 12:6"
+      },
+      {
+        "reference": "Leviticus 14:4",
+        "original": "Lev. 14:4"
+      },
+      {
+        "reference": "Psalms 84:3",
+        "original": "Ps. 84:3"
+      },
+      {
+        "reference": "Psalms 102:7",
+        "original": "Ps 102:7"
+      },
+      {
+        "reference": "Matthew 10:29-31",
+        "original": "Matt. 10:29-31"
+      },
+      {
+        "reference": "Luke 12:7",
+        "original": "Luke 12:7"
+      },
+      {
+        "reference": "Matthew 10:20",
+        "original": "Matthew 10:20"
+      },
+      {
+        "reference": "Proverbs 102:7",
+        "original": "Proverbs 102:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "surety": {
+    "name": "Garantía",
+    "slug": "surety",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Uno que se hace responsable de otro. Cristo es la garantía del mejor pacto (Heb. 7:22). En él tenemos la seguridad de que todas sus disposiciones serán íntegra y fielmente cumplidas. Salomón advierte contra el peligro de convertirse en seguridad para otro (Pr. 6:1-5; 11:15; 17:18; 20:16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hebrews 7:22",
+        "original": "Heb. 7:22"
+      },
+      {
+        "reference": "Proverbs 6:1-5",
+        "original": "Prov. 6:1-5"
+      },
+      {
+        "reference": "Proverbs 11:15",
+        "original": "Prov 11:15"
+      },
+      {
+        "reference": "Proverbs 17:18",
+        "original": "Prov 17:18"
+      },
+      {
+        "reference": "Proverbs 20:16",
+        "original": "Prov 20:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "war": {
+    "name": "Guerra",
+    "slug": "war",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los israelitas tuvieron que tomar posesión de la Tierra Prometida mediante la conquista. Tuvieron que participar en una guerra larga y sangrienta antes de que las tribus cananeas fueran finalmente sometidas. Excepto en el caso de Jericó y Hai, la guerra no se volvió agresiva hasta después de la muerte de Josué. Hasta entonces el ataque siempre lo hacían primero los cananeos. Ahora la medida de la iniquidad de los cananeos estaba llena, y Dios empleó a Israel para barrerlos de la faz de la tierra. Al entrar en esta nueva etapa de la guerra, la tribu de Judá, siguiendo la dirección divina, tomó la delantera. En los días de Saúl y David, el pueblo de Israel participó en muchas guerras con las naciones circundantes, y después de la división del reino en dos, a menudo peleaban entre sí. Tuvieron que defenderse también de las incursiones de los egipcios, los asirios y los babilonios. Toda la historia de Israel, desde el principio hasta el último, presenta sólo unos pocos períodos de paz. La vida cristiana se representa como una guerra, y las gracias cristianas también se representan bajo la figura de piezas de armadura (Ef. 6:11-17; 1 Tes. 5:8; 2 Tim. 2:3, 4). La bienaventuranza final de los creyentes se logra como fruto de la victoria (Apocalipsis 3:21)."
+      },
+      {
+        "source": "SMI",
+        "text": "El tema más importante en relación con la guerra es la formación del ejército destinado a llevarla a cabo. [Ejército] En (1 Reyes 9:22) en un período (el reinado de Salomón) cuando la organización del ejército estaba completa, aparentemente tenemos una lista de las diversas gradaciones de rango en el servicio, como sigue:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 6:11-17",
+        "original": "Eph. 6:11-17"
+      },
+      {
+        "reference": "1 Thessalonians 5:8",
+        "original": "1 Thess. 5:8"
+      },
+      {
+        "reference": "2 Timothy 2:3",
+        "original": "2 Tim. 2:3"
+      },
+      {
+        "reference": "2 Timothy 2:4",
+        "original": "2 Tim. 2:4"
+      },
+      {
+        "reference": "Revelation 3:21",
+        "original": "Rev. 3:21"
+      },
+      {
+        "reference": "1 Kings 9:22",
+        "original": "1 Kings 9:22"
+      },
+      {
+        "reference": "Numbers 13:17",
+        "original": "Numbers 13:17"
+      },
+      {
+        "reference": "Joshua 2:1",
+        "original": "Joshua 2:1"
+      },
+      {
+        "reference": "Judges 7:10",
+        "original": "Judges 7:10"
+      },
+      {
+        "reference": "1 Samuel 26:4",
+        "original": "1 Samuel 26:4"
+      },
+      {
+        "reference": "2 Samuel 1:23",
+        "original": "2 Samuel 1:23"
+      },
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Samuel 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chronicles 12:8"
+      },
+      {
+        "reference": "Joshua 8:2",
+        "original": "Joshua 8:2"
+      },
+      {
+        "reference": "Joshua 8:12",
+        "original": "Joshua 8:12"
+      },
+      {
+        "reference": "Judges 20:36",
+        "original": "Judges 20:36"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judges 7:16"
+      },
+      {
+        "reference": "2 Samuel 5:23",
+        "original": "2 Samuel 5:23"
+      },
+      {
+        "reference": "1 Samuel 17",
+        "original": "1 Samuel 17"
+      },
+      {
+        "reference": "2 Samuel 2:14",
+        "original": "2 Samuel 2:14"
+      },
+      {
+        "reference": "1 Samuel 17:25",
+        "original": "1 Samuel 17:25"
+      },
+      {
+        "reference": "1 Samuel 18:25",
+        "original": "1 Samuel 18:25"
+      },
+      {
+        "reference": "2 Samuel 18:11",
+        "original": "2 Samuel 18:11"
+      },
+      {
+        "reference": "1 Chronicles 11:6",
+        "original": "1 Chronicles 11:6"
+      },
+      {
+        "reference": "2 Samuel 2:28",
+        "original": "2 Samuel 2:28"
+      },
+      {
+        "reference": "2 Samuel 18:16",
+        "original": "2 Samuel 18:16"
+      },
+      {
+        "reference": "2 Samuel 20:22",
+        "original": "2 Samuel 20:22"
+      },
+      {
+        "reference": "Ezekiel 4:2",
+        "original": "Ezekiel 4:2"
+      },
+      {
+        "reference": "Micah 5:1",
+        "original": "Micah 5:1"
+      },
+      {
+        "reference": "2 Samuel 20:15",
+        "original": "2 Samuel 20:15"
+      },
+      {
+        "reference": "2 Kings 19:32",
+        "original": "2 Kings 19:32"
+      },
+      {
+        "reference": "Isaiah 37:33",
+        "original": "Isaiah 37:33"
+      },
+      {
+        "reference": "2 Kings 25:1",
+        "original": "2 Kings 25:1"
+      },
+      {
+        "reference": "Jeremiah 52:4",
+        "original": "Jeremiah 52:4"
+      },
+      {
+        "reference": "Ezekiel 17:17",
+        "original": "Ezekiel 17:17"
+      },
+      {
+        "reference": "Ezekiel 21:22",
+        "original": "Ezekiel 21:22"
+      },
+      {
+        "reference": "Ezekiel 26:8",
+        "original": "Ezekiel 26:8"
+      },
+      {
+        "reference": "1 Samuel 31:8",
+        "original": "1 Samuel 31:8"
+      },
+      {
+        "reference": "2Macc 8:27",
+        "original": "2 Macc 8:27"
+      },
+      {
+        "reference": "Judges 9:45",
+        "original": "Judges 9:45"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Samuel 12:31"
+      },
+      {
+        "reference": "2 Chronicles 25:12",
+        "original": "2 Chronicles 25:12"
+      },
+      {
+        "reference": "Judges 1:6",
+        "original": "Judges 1:6"
+      },
+      {
+        "reference": "1 Samuel 11:2",
+        "original": "1 Samuel 11:2"
+      },
+      {
+        "reference": "Numbers 31:26",
+        "original": "Numbers 31:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "wars-of-the-lord-the-book-of-the": {
+    "name": "Guerras del Señor, El Libro del",
+    "slug": "wars-of-the-lord-the-book-of-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Núm. 21:14, 15), algún libro desconocido llamado así (comp. Gén. 14:14-16; Éx. 17:8-16; Núm. 14:40-45; 21:1-3, 21-25, 33-35; 31. Las guerras aquí registradas podrían designarse así)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 21:14",
+        "original": "Num. 21:14"
+      },
+      {
+        "reference": "Numbers 21:15",
+        "original": "Num. 21:15"
+      },
+      {
+        "reference": "Genesis 14:14-16",
+        "original": "Gen. 14:14-16"
+      },
+      {
+        "reference": "Exodus 17:8-16",
+        "original": "Ex. 17:8-16"
+      },
+      {
+        "reference": "Numbers 14:40-45",
+        "original": "Num. 14:40-45"
+      },
+      {
+        "reference": "Numbers 21:1-3",
+        "original": "Num 21:1-3"
+      },
+      {
+        "reference": "Numbers 21:21-25",
+        "original": "Num 21:21-25"
+      },
+      {
+        "reference": "Numbers 21:33-35",
+        "original": "Num 21:33-35"
+      },
+      {
+        "reference": "Numbers 31",
+        "original": "Num 31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "wimple": {
+    "name": "Griñón",
+    "slug": "wimple",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Isa. 3:22, (R.V., “mantones”), una envoltura o velo. La misma palabra hebrea se traduce “vail” (R.V., “manto”) en Rut 3:15."
+      },
+      {
+        "source": "SMI",
+        "text": "una antigua palabra inglesa para capucha o velo, utilizada en la versión autorizada de (Isaías 3:22). La misma palabra hebrea se traduce “velo” en (Rut 3:15), pero significa más bien una especie de chal o manto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
+  },
+  "winefat": {
+    "name": "grasa de vino",
+    "slug": "winefat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 12:1). La palabra original (hypolenion) así traducida aparece sólo aquí en el Nuevo Testamento. Denota propiamente el abrevadero o lago (lacus), como lo llamaban los romanos, al que corría el jugo de las uvas desde el abrevadero que estaba encima. Sin embargo, aquí se utiliza para todo el aparato. En el pasaje paralelo de Matt. 21:33 se usa la palabra griega lenos. Esto denota propiamente la superior de las dos tinas. (Ver LAGAR DE VINO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 12:1",
+        "original": "Mark 12:1"
+      },
+      {
+        "reference": "Matthew 21:33",
+        "original": "Matt. 21:33"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "g"
+  },
+  "worm": {
+    "name": "Gusano",
+    "slug": "worm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. sas (Isaías 51:8), denota la oruga de la polilla de la ropa. (2.) El maná engendró gusanos (tola’im), pero en el sábado no había ningún gusano (rimmah) en él (Éxodo 16:20, 24). Aquí estas palabras se refieren a orugas o larvas, que se alimentan de materia corruptora. Estas dos palabras hebreas parecen ser intercambiables (Job 25:6; Isaías 14:11). Tola’im en algunos lugares denota la oruga (Deut. 28:39; Jonás 4:7), y rimmah, las larvas, nacidas de la putrefacción (Job 17:14; 21:26; 24:20). En Miqueas 7:17, donde se dice: “Saldrán de sus cuevas como gusanos”, tal vez se refiera a serpientes o “animales que se arrastran”, o como en la versión revisada, “animales que se arrastran”. La palabra se usa en sentido figurado en Job 25:6; PD. 22:6; Isa. 41:14; Marcos 9:44, 46, 48; Isa. 66:24."
+      },
+      {
+        "source": "SMI",
+        "text": "el representante en la Versión Autorizada de varias palabras hebreas. Sas, que aparece en (Isaías 51:18), probablemente denota alguna especie particular de polilla, cuya larva es perjudicial para la lana. Rimmah (Éxodo 16:20) señala evidentemente varios tipos de gusanos y larvas de insectos que se alimentan de materia animal putrefacta, en lugar de lombrices de tierra. Toleah se aplica en (28:39) a algunos tipos de larvas destructivas para las vides. En (Job 19:26; 21:26; 24:20) hay una alusión a gusanos (larvas de insectos) que se alimentan de los cadáveres de los enterrados. Hay la misma alusión en (Isaías 66:24), palabras que nuestro Señor aplica (Marcos 9:44,46,48) metafóricamente a los tormentos de los culpables en el mundo de los espíritus difuntos. El valle de Hinnom, cerca de Jerusalén, donde se arrojaba la inmundicia de la ciudad, estaba lleno de gusanos. La muerte de Herodes Agripa I, fue causada por gusanos. (Hechos 12:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 51:8",
+        "original": "Isa. 51:8"
+      },
+      {
+        "reference": "Exodus 16:20",
+        "original": "Ex. 16:20"
+      },
+      {
+        "reference": "Exodus 16:24",
+        "original": "Ex. 16:24"
+      },
+      {
+        "reference": "Job 25:6",
+        "original": "Job 25:6"
+      },
+      {
+        "reference": "Isaiah 14:11",
+        "original": "Isa. 14:11"
+      },
+      {
+        "reference": "Deuteronomy 28:39",
+        "original": "Deut. 28:39"
+      },
+      {
+        "reference": "Jonah 4:7",
+        "original": "Jonah 4:7"
+      },
+      {
+        "reference": "Job 17:14",
+        "original": "Job 17:14"
+      },
+      {
+        "reference": "Job 21:26",
+        "original": "Job 21:26"
+      },
+      {
+        "reference": "Job 24:20",
+        "original": "Job 24:20"
+      },
+      {
+        "reference": "Micah 7:17",
+        "original": "Micah 7:17"
+      },
+      {
+        "reference": "Psalms 22:6",
+        "original": "Ps. 22:6"
+      },
+      {
+        "reference": "Isaiah 41:14",
+        "original": "Isa. 41:14"
+      },
+      {
+        "reference": "Mark 9:44",
+        "original": "Mark 9:44"
+      },
+      {
+        "reference": "Mark 9:46",
+        "original": "Mark 9:46"
+      },
+      {
+        "reference": "Mark 9:48",
+        "original": "Mark 9:48"
+      },
+      {
+        "reference": "Isaiah 66:24",
+        "original": "Isa. 66:24"
+      },
+      {
+        "reference": "Isaiah 51:18",
+        "original": "Isaiah 51:18"
+      },
+      {
+        "reference": "Job 19:26",
+        "original": "Job 19:26"
+      },
+      {
+        "reference": "Acts 12:23",
+        "original": "Acts 12:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "g"
   }
 }

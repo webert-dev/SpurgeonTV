@@ -29,20 +29,22 @@ const translations = {
       articles: "Articles"
     },
     quote: "Visit many good books, but live in the Bible.",
+    readMore: "Read related articles",
+    readMoreLess: "Hide articles",
     timeline: [
-      { year: '1834', title: 'Birth in Kelvedon', desc: 'Charles Haddon Spurgeon was born on June 19, 1834, in Kelvedon, Essex, England, to a Nonconformist minister.' },
-      { year: '1835', title: 'With his Grandparents', desc: 'Spurgeon spent formative years with his grandfather, a Congregational pastor, which deeply shaped his early faith.' },
-      { year: '1850', title: 'Conversion at 15', desc: 'On a snowy morning, a severe storm forced him into a small Primitive Methodist chapel on Artillery Street. A substitute lay-preacher preached from Isaiah 45:22.', quote: '"Just fixing his eyes on me, as if he knew all my heart, he said, \'Young man, you look very miserable. ... Young man, look to Jesus Christ. Look! Look! Look! You have nothin’ to do but to look and live.\' ... I looked until I could almost have looked my eyes away. There and then the cloud was gone, the darkness had rolled away, and that moment I saw the sun."', quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 1' },
-      { year: '1851', title: 'First Sermon Preached', desc: 'At 16, Spurgeon preached his first sermon in a cottage in Teversham, quickly becoming recognized for his extraordinary gifts.' },
-      { year: '1852', title: 'Pastor in Waterbeach', desc: 'At just 17 years old, he became pastor of the Waterbeach Baptist Chapel, transforming a small village congregation.' },
-      { year: '1854', title: 'Called to New Park Street', desc: 'At 19, he was called to the historic New Park Street Chapel in London. Crowds quickly overflowed the building.' },
-      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Services were moved to the Surrey Gardens Music Hall, attracting over 10,000 people — a historical record for preaching.' },
-      { year: '1857', title: 'Preaches to 23,000', desc: 'Spurgeon preached to 23,654 people at the Crystal Palace. Days before, he tested the acoustics, inadvertently leading to the conversion of a worker.', quote: '"In order to test the acoustic properties of the building, I cried in a loud voice, \'Behold the Lamb of God, which taketh away the sin of the world.\' In one of the galleries, a workman, who knew nothing of what was being done, heard the words, and they came like a message from heaven to his soul."', quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 2' },
-      { year: '1861', title: 'Opening of the Metropolitan Tabernacle', desc: 'The Metropolitan Tabernacle, with a seating capacity of 6,000, opened its doors and became the epicenter of his ministry for three decades.' },
-      { year: '1865', title: 'The Sword and the Trowel Magazine', desc: 'Launched the monthly magazine "The Sword and the Trowel", sharing sermons, reviews, and ministry news.' },
-      { year: '1867', title: 'Stockwell Orphanage', desc: 'Spurgeon opened the Stockwell Orphanage, which eventually housed and educated over 500 children at a time.' },
-      { year: '1887', title: 'Downgrade Controversy', desc: 'Withdrew from the Baptist Union over doctrinal compromises — a courageous stand that cost him many friendships.' },
-      { year: '1892', title: 'Eternal Legacy', desc: 'Spurgeon went to glory on January 31, 1892. He left behind 63 volumes of sermons, over 135 books, and a legacy that shaped the global Church.' },
+      { year: '1834', title: 'Birth in Kelvedon', desc: 'Charles Haddon Spurgeon was born on June 19, 1834, in Kelvedon, Essex, England, to a Nonconformist minister.', relatedSlugs: ['biography/the-kelvedon-years'] },
+      { year: '1835', title: 'With his Grandparents', desc: 'Spurgeon spent formative years with his grandfather, a Congregational pastor, which deeply shaped his early faith.', relatedSlugs: ['biography/the-stambourne-influence'] },
+      { year: '1850', title: 'Conversion at 15', desc: 'On a snowy morning, a severe storm forced him into a small Primitive Methodist chapel on Artillery Street. A substitute lay-preacher preached from Isaiah 45:22.', quote: '"Just fixing his eyes on me, as if he knew all my heart, he said, \'Young man, you look very miserable. ... Young man, look to Jesus Christ. Look! Look! Look! You have nothin’ to do but to look and live.\' ... I looked until I could almost have looked my eyes away. There and then the cloud was gone, the darkness had rolled away, and that moment I saw the sun."', quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 1', relatedSlugs: ['biography/the-snowstorm-conversion'] },
+      { year: '1851', title: 'First Sermon Preached', desc: 'At 16, Spurgeon preached his first sermon in a cottage in Teversham, quickly becoming recognized for his extraordinary gifts.', relatedSlugs: ['biography/the-boy-preacher-of-the-fens'] },
+      { year: '1852', title: 'Pastor in Waterbeach', desc: 'At just 17 years old, he became pastor of the Waterbeach Baptist Chapel, transforming a small village congregation.', relatedSlugs: ['biography/the-waterbeach-ministry'] },
+      { year: '1854', title: 'Called to New Park Street', desc: 'At 19, he was called to the historic New Park Street Chapel in London. Crowds quickly overflowed the building.', relatedSlugs: ['biography/the-call-to-london'] },
+      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Services were moved to the Surrey Gardens Music Hall, attracting over 10,000 people — a historical record for preaching.', relatedSlugs: ['biography/the-surrey-gardens-tragedy'] },
+      { year: '1857', title: 'Preaches to 23,000', desc: 'Spurgeon preached to 23,654 people at the Crystal Palace. Days before, he tested the acoustics, inadvertently leading to the conversion of a worker.', quote: '"In order to test the acoustic properties of the building, I cried in a loud voice, \'Behold the Lamb of God, which taketh away the sin of the world.\' In one of the galleries, a workman, who knew nothing of what was being done, heard the words, and they came like a message from heaven to his soul."', quoteSource: 'C. H. Spurgeon’s Autobiography, Vol. 2', relatedSlugs: ['preacher/the-voice-of-spurgeon'] },
+      { year: '1861', title: 'Opening of the Metropolitan Tabernacle', desc: 'The Metropolitan Tabernacle, with a seating capacity of 6,000, opened its doors and became the epicenter of his ministry for three decades.', relatedSlugs: ['biography/the-metropolitan-tabernacle'] },
+      { year: '1865', title: 'The Sword and the Trowel Magazine', desc: 'Launched the monthly magazine "The Sword and the Trowel", sharing sermons, reviews, and ministry news.', relatedSlugs: ['preacher/the-printed-page'] },
+      { year: '1867', title: 'Stockwell Orphanage', desc: 'Spurgeon opened the Stockwell Orphanage, which eventually housed and educated over 500 children at a time.', relatedSlugs: ['preacher/the-stockwell-orphanage'] },
+      { year: '1887', title: 'Downgrade Controversy', desc: 'Withdrew from the Baptist Union over doctrinal compromises — a courageous stand that cost him many friendships.', relatedSlugs: ['controversies/the-downgrade-controversy-part-1', 'controversies/the-downgrade-controversy-part-2', 'controversies/the-downgrade-controversy-part-3'] },
+      { year: '1892', title: 'Eternal Legacy', desc: 'Spurgeon went to glory on January 31, 1892. He left behind 63 volumes of sermons, over 135 books, and a legacy that shaped the global Church.', relatedSlugs: ['biography/the-prince-goes-to-glory', 'biography/the-final-years', 'biography/the-mentone-retreats'] },
     ]
   },
   pt: {
@@ -71,20 +73,22 @@ const translations = {
       articles: "Artigos"
     },
     quote: "Visite muitos livros bons, mas viva na Bíblia.",
+    readMore: "Ler artigos relacionados",
+    readMoreLess: "Ocultar artigos",
     timeline: [
-      { year: '1834', title: 'Nascimento em Kelvedon', desc: 'Charles Haddon Spurgeon nasceu em 19 de junho de 1834, em Kelvedon, Essex, Inglaterra, filho de um ministro Não-Conformista.' },
-      { year: '1835', title: 'Com os Avós', desc: 'Spurgeon passou os anos de formação com seu avô, um pastor congregacional, o que moldou profundamente sua fé inicial.' },
-      { year: '1850', title: 'Conversão aos 15', desc: 'Em uma manhã nevada, uma forte tempestade o forçou a entrar em uma pequena capela Metodista Primitiva na Artillery Street. Um pregador leigo substituto pregou em Isaías 45:22.', quote: '"Apenas fixando seus olhos em mim, como se conhecesse todo o meu coração, ele disse: \'Jovem, você parece muito miserável. ... Jovem, olhe para Jesus Cristo. Olhe! Olhe! Olhe! Você não tem nada a fazer senão olhar e viver.\' ... Olhei até quase perder a visão. Ali mesmo a nuvem se foi, a escuridão se dissipou, e naquele momento eu vi o sol."', quoteSource: 'Autobiografia de C. H. Spurgeon, Vol. 1' },
-      { year: '1851', title: 'Primeiro Sermão', desc: 'Aos 16 anos, Spurgeon pregou seu primeiro sermão numa cabana em Teversham, sendo rapidamente reconhecido por seus dons extraordinários.' },
-      { year: '1852', title: 'Pastor em Waterbeach', desc: 'Com apenas 17 anos, tornou-se pastor da Capela Batista de Waterbeach, transformando uma pequena congregação de vilarejo.' },
-      { year: '1854', title: 'Chamado para New Park Street', desc: 'Aos 19 anos, foi chamado para a histórica Capela de New Park Street em Londres. Multidões rapidamente lotaram o prédio.' },
-      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Os cultos foram transferidos para o Surrey Gardens Music Hall, atraindo mais de 10.000 pessoas — um recorde histórico para pregação.' },
-      { year: '1857', title: 'Pregando para 23.000', desc: 'Spurgeon pregou para 23.654 pessoas no Crystal Palace. Dias antes, ao testar a acústica, levou inadvertidamente um trabalhador à conversão.', quote: '"Para testar as propriedades acústicas do prédio, gritei em alta voz: \'Eis o Cordeiro de Deus, que tira o pecado do mundo.\' Numa das galerias, um trabalhador que nada sabia do que estava sendo feito ouviu as palavras, e elas vieram como uma mensagem do céu à sua alma."', quoteSource: 'Autobiografia de C. H. Spurgeon, Vol. 2' },
-      { year: '1861', title: 'Abertura do Tabernáculo Metropolitano', desc: 'O Tabernáculo Metropolitano, com capacidade para 6.000 pessoas sentadas, abriu as portas e tornou-se o epicentro do seu ministério por três décadas.' },
-      { year: '1865', title: 'Revista A Espada e a Espátula', desc: 'Lançou a revista mensal "A Espada e a Espátula", compartilhando sermões, resenhas e notícias do ministério.' },
-      { year: '1867', title: 'Orfanato Stockwell', desc: 'Spurgeon abriu o Orfanato Stockwell, que chegou a abrigar e educar mais de 500 crianças simultaneamente.' },
-      { year: '1887', title: 'Controvérsia do Declínio', desc: 'Retirou-se da União Batista devido a concessões doutrinárias — uma posição corajosa que lhe custou muitas amizades.' },
-      { year: '1892', title: 'Legado Eterno', desc: 'Spurgeon foi para a glória em 31 de janeiro de 1892. Deixou para trás 63 volumes de sermões, mais de 135 livros e um legado que moldou a Igreja global.' },
+      { year: '1834', title: 'Nascimento em Kelvedon', desc: 'Charles Haddon Spurgeon nasceu em 19 de junho de 1834, em Kelvedon, Essex, Inglaterra, filho de um ministro Não-Conformista.', relatedSlugs: ['biography/the-kelvedon-years'] },
+      { year: '1835', title: 'Com os Avós', desc: 'Spurgeon passou os anos de formação com seu avô, um pastor congregacional, o que moldou profundamente sua fé inicial.', relatedSlugs: ['biography/the-stambourne-influence'] },
+      { year: '1850', title: 'Conversão aos 15', desc: 'Em uma manhã nevada, uma forte tempestade o forçou a entrar em uma pequena capela Metodista Primitiva na Artillery Street. Um pregador leigo substituto pregou em Isaías 45:22.', quote: '"Apenas fixando seus olhos em mim, como se conhecesse todo o meu coração, ele disse: \'Jovem, você parece muito miserável. ... Jovem, olhe para Jesus Cristo. Olhe! Olhe! Olhe! Você não tem nada a fazer senão olhar e viver.\' ... Olhei até quase perder a visão. Ali mesmo a nuvem se foi, a escuridão se dissipou, e naquele momento eu vi o sol."', quoteSource: 'Autobiografia de C. H. Spurgeon, Vol. 1', relatedSlugs: ['biography/the-snowstorm-conversion'] },
+      { year: '1851', title: 'Primeiro Sermão', desc: 'Aos 16 anos, Spurgeon pregou seu primeiro sermão numa cabana em Teversham, sendo rapidamente reconhecido por seus dons extraordinários.', relatedSlugs: ['biography/the-boy-preacher-of-the-fens'] },
+      { year: '1852', title: 'Pastor em Waterbeach', desc: 'Com apenas 17 anos, tornou-se pastor da Capela Batista de Waterbeach, transformando uma pequena congregação de vilarejo.', relatedSlugs: ['biography/the-waterbeach-ministry'] },
+      { year: '1854', title: 'Chamado para New Park Street', desc: 'Aos 19 anos, foi chamado para a histórica Capela de New Park Street em Londres. Multidões rapidamente lotaram o prédio.', relatedSlugs: ['biography/the-call-to-london'] },
+      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Os cultos foram transferidos para o Surrey Gardens Music Hall, atraindo mais de 10.000 pessoas — um recorde histórico para pregação.', relatedSlugs: ['biography/the-surrey-gardens-tragedy'] },
+      { year: '1857', title: 'Pregando para 23.000', desc: 'Spurgeon pregou para 23.654 pessoas no Crystal Palace. Dias antes, ao testar a acústica, levou inadvertidamente um trabalhador à conversão.', quote: '"Para testar as propriedades acústicas do prédio, gritei em alta voz: \'Eis o Cordeiro de Deus, que tira o pecado do mundo.\' Numa das galerias, um trabalhador que nada sabia do que estava sendo feito ouviu as palavras, e elas vieram como uma mensagem do céu à sua alma."', quoteSource: 'Autobiografia de C. H. Spurgeon, Vol. 2', relatedSlugs: ['preacher/the-voice-of-spurgeon'] },
+      { year: '1861', title: 'Abertura do Tabernáculo Metropolitano', desc: 'O Tabernáculo Metropolitano, com capacidade para 6.000 pessoas sentadas, abriu as portas e tornou-se o epicentro do seu ministério por três décadas.', relatedSlugs: ['biography/the-metropolitan-tabernacle'] },
+      { year: '1865', title: 'Revista A Espada e a Espátula', desc: 'Lançou a revista mensal "A Espada e a Espátula", compartilhando sermões, resenhas e notícias do ministério.', relatedSlugs: ['preacher/the-printed-page'] },
+      { year: '1867', title: 'Orfanato Stockwell', desc: 'Spurgeon abriu o Orfanato Stockwell, que chegou a abrigar e educar mais de 500 crianças simultaneamente.', relatedSlugs: ['preacher/the-stockwell-orphanage'] },
+      { year: '1887', title: 'Controvérsia do Declínio', desc: 'Retirou-se da União Batista devido a concessões doutrinárias — uma posição corajosa que lhe custou muitas amizades.', relatedSlugs: ['controversies/the-downgrade-controversy-part-1', 'controversies/the-downgrade-controversy-part-2', 'controversies/the-downgrade-controversy-part-3'] },
+      { year: '1892', title: 'Legado Eterno', desc: 'Spurgeon foi para a glória em 31 de janeiro de 1892. Deixou para trás 63 volumes de sermões, mais de 135 livros e um legado que moldou a Igreja global.', relatedSlugs: ['biography/the-prince-goes-to-glory', 'biography/the-final-years', 'biography/the-mentone-retreats'] },
     ]
   },
   es: {
@@ -113,20 +117,22 @@ const translations = {
       articles: "Artículos"
     },
     quote: "Visita muchos libros buenos, pero vive en la Biblia.",
+    readMore: "Leer artículos relacionados",
+    readMoreLess: "Ocultar artículos",
     timeline: [
-      { year: '1834', title: 'Nacimiento en Kelvedon', desc: 'Charles Haddon Spurgeon nació el 19 de junio de 1834, en Kelvedon, Essex, Inglaterra, hijo de un ministro inconformista.' },
-      { year: '1835', title: 'Con sus Abuelos', desc: 'Spurgeon pasó sus años de formación con su abuelo, un pastor congregacional, lo que moldeó profundamente su fe temprana.' },
-      { year: '1850', title: 'Conversión a los 15', desc: 'En una mañana nevada, una fuerte tormenta lo obligó a entrar en una pequeña capilla Metodista Primitiva en Artillery Street. Un predicador laico sustituto predicó de Isaías 45:22.', quote: '"Fijando sus ojos en mí, como si conociera todo mi corazón, dijo: \'Joven, te ves muy miserable. ... Joven, mira a Jesucristo. ¡Mira! ¡Mira! ¡Mira! No tienes nada que hacer sino mirar y vivir.\' ... Miré hasta casi perder la vista. Allí mismo la nube se fue, la oscuridad desapareció, y en ese momento vi el sol."', quoteSource: 'Autobiografía de C. H. Spurgeon, Vol. 1' },
-      { year: '1851', title: 'Primer Sermón Predicado', desc: 'A los 16 años, Spurgeon predicó su primer sermón en una cabaña en Teversham, siendo rápidamente reconocido por sus dones extraordinarios.' },
-      { year: '1852', title: 'Pastor en Waterbeach', desc: 'Con solo 17 años, se convirtió en pastor de la Capilla Bautista de Waterbeach, transformando una pequeña congregación de aldea.' },
-      { year: '1854', title: 'Llamado a New Park Street', desc: 'A los 19 años, fue llamado a la histórica Capilla de New Park Street en Londres. Las multitudes desbordaron rápidamente el edificio.' },
-      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Los servicios se trasladaron al Surrey Gardens Music Hall, atrayendo a más de 10,000 personas — un récord histórico de predicación.' },
-      { year: '1857', title: 'Predica a 23,000', desc: 'Spurgeon predicó a 23,654 personas en el Crystal Palace. Días antes, al probar la acústica, llevó inadvertidamente a un trabajador a la conversión.', quote: '"Para probar las propiedades acústicas del edificio, grité con voz fuerte: \'He aquí el Cordero de Dios, que quita el pecado del mundo.\' En una de las galerías, un trabajador que no sabía nada de lo que se estaba haciendo escuchó las palabras, y llegaron como un mensaje del cielo a su alma."', quoteSource: 'Autobiografía de C. H. Spurgeon, Vol. 2' },
-      { year: '1861', title: 'Apertura del Tabernáculo Metropolitano', desc: 'El Tabernáculo Metropolitano, con capacidad para 6,000 personas, abrió sus puertas y se convirtió en el epicentro de su ministerio durante tres décadas.' },
-      { year: '1865', title: 'Revista La Espada y la Cuchara', desc: 'Lanzó la revista mensual "La Espada y la Cuchara", compartiendo sermones, reseñas y noticias del ministerio.' },
-      { year: '1867', title: 'Orfanato Stockwell', desc: 'Spurgeon abrió el Orfanato Stockwell, que llegó a albergar y educar a más de 500 niños a la vez.' },
-      { year: '1887', title: 'Controversia del Declive', desc: 'Se retiró de la Unión Bautista por compromisos doctrinales — una postura valiente que le costó muchas amistades.' },
-      { year: '1892', title: 'Legado Eterno', desc: 'Spurgeon fue a la gloria el 31 de enero de 1892. Dejó atrás 63 volúmenes de sermones, más de 135 libros y un legado que moldeó a la Iglesia global.' },
+      { year: '1834', title: 'Nacimiento en Kelvedon', desc: 'Charles Haddon Spurgeon nació el 19 de junio de 1834, en Kelvedon, Essex, Inglaterra, hijo de un ministro inconformista.', relatedSlugs: ['biography/the-kelvedon-years'] },
+      { year: '1835', title: 'Con sus Abuelos', desc: 'Spurgeon pasó sus años de formación con su abuelo, un pastor congregacional, lo que moldeó profundamente su fe temprana.', relatedSlugs: ['biography/the-stambourne-influence'] },
+      { year: '1850', title: 'Conversión a los 15', desc: 'En una mañana nevada, una fuerte tormenta lo obligó a entrar en una pequeña capilla Metodista Primitiva en Artillery Street. Un predicador laico sustituto predicó de Isaías 45:22.', quote: '"Fijando sus ojos en mí, como si conociera todo mi corazón, dijo: \'Joven, te ves muy miserable. ... Joven, mira a Jesucristo. ¡Mira! ¡Mira! ¡Mira! No tienes nada que hacer sino mirar y vivir.\' ... Miré hasta casi perder la vista. Allí mismo la nube se fue, la oscuridad desapareció, y en ese momento vi el sol."', quoteSource: 'Autobiografía de C. H. Spurgeon, Vol. 1', relatedSlugs: ['biography/the-snowstorm-conversion'] },
+      { year: '1851', title: 'Primer Sermón Predicado', desc: 'A los 16 años, Spurgeon predicó su primer sermón en una cabaña en Teversham, siendo rápidamente reconocido por sus dones extraordinarios.', relatedSlugs: ['biography/the-boy-preacher-of-the-fens'] },
+      { year: '1852', title: 'Pastor en Waterbeach', desc: 'Con solo 17 años, se convirtió en pastor de la Capilla Bautista de Waterbeach, transformando una pequeña congregación de aldea.', relatedSlugs: ['biography/the-waterbeach-ministry'] },
+      { year: '1854', title: 'Llamado a New Park Street', desc: 'A los 19 años, fue llamado a la histórica Capilla de New Park Street en Londres. Las multitudes desbordaron rápidamente el edificio.', relatedSlugs: ['biography/the-call-to-london'] },
+      { year: '1856', title: 'Surrey Gardens Music Hall', desc: 'Los servicios se trasladaron al Surrey Gardens Music Hall, atrayendo a más de 10,000 personas — un récord histórico de predicación.', relatedSlugs: ['biography/the-surrey-gardens-tragedy'] },
+      { year: '1857', title: 'Predica a 23,000', desc: 'Spurgeon predicó a 23,654 personas en el Crystal Palace. Días antes, al probar la acústica, llevó inadvertidamente a un trabajador a la conversión.', quote: '"Para probar las propiedades acústicas del edificio, grité con voz fuerte: \'He aquí el Cordero de Dios, que quita el pecado del mundo.\' En una de las galerías, un trabajador que no sabía nada de lo que se estaba haciendo escuchó las palabras, y llegaron como un mensaje del cielo a su alma."', quoteSource: 'Autobiografía de C. H. Spurgeon, Vol. 2', relatedSlugs: ['preacher/the-voice-of-spurgeon'] },
+      { year: '1861', title: 'Apertura del Tabernáculo Metropolitano', desc: 'El Tabernáculo Metropolitano, con capacidad para 6,000 personas, abrió sus puertas y se convirtió en el epicentro de su ministerio durante tres décadas.', relatedSlugs: ['biography/the-metropolitan-tabernacle'] },
+      { year: '1865', title: 'Revista La Espada y la Cuchara', desc: 'Lanzó la revista mensual "La Espada y la Cuchara", compartiendo sermones, reseñas y noticias del ministerio.', relatedSlugs: ['preacher/the-printed-page'] },
+      { year: '1867', title: 'Orfanato Stockwell', desc: 'Spurgeon abrió el Orfanato Stockwell, que llegó a albergar y educar a más de 500 niños a la vez.', relatedSlugs: ['preacher/the-stockwell-orphanage'] },
+      { year: '1887', title: 'Controversia del Declive', desc: 'Se retiró de la Unión Bautista por compromisos doctrinales — una postura valiente que le costó muchas amistades.', relatedSlugs: ['controversies/the-downgrade-controversy-part-1', 'controversies/the-downgrade-controversy-part-2', 'controversies/the-downgrade-controversy-part-3'] },
+      { year: '1892', title: 'Legado Eterno', desc: 'Spurgeon fue a la gloria el 31 de enero de 1892. Dejó atrás 63 volúmenes de sermones, más de 135 libros y un legado que moldeó a la Iglesia global.', relatedSlugs: ['biography/the-prince-goes-to-glory', 'biography/the-final-years', 'biography/the-mentone-retreats'] },
     ]
   }
 };
@@ -190,6 +196,30 @@ export default async function SobrePage({ params }) {
                       <p style={{ fontStyle: 'italic', fontSize: '0.95rem', marginBottom: '0.5rem' }}>{item.quote}</p>
                       <cite style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'block', textAlign: 'right' }}>— {item.quoteSource}</cite>
                     </div>
+                  )}
+                  {item.relatedSlugs && (
+                    <details style={{ marginTop: '1rem' }} className="timeline-related-articles">
+                      <summary style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 'bold', fontSize: '0.9rem', listStyle: 'none', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                        <span>{t.readMore}</span>
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ transition: 'transform 0.2s' }} className="summary-chevron">
+                          <polyline points="6 9 12 15 18 9"></polyline>
+                        </svg>
+                      </summary>
+                      <ul style={{ marginTop: '0.75rem', paddingLeft: '1.2rem', listStyle: 'none' }}>
+                        {item.relatedSlugs.map(slug => {
+                          const article = allArticles.find(a => a.href === `/about/${slug}`);
+                          if (!article) return null;
+                          return (
+                            <li key={slug} style={{ marginBottom: '0.5rem', position: 'relative' }}>
+                              <span style={{ position: 'absolute', left: '-1rem', color: 'var(--accent)', fontSize: '0.8rem' }}>•</span>
+                              <Link href={`/${lang}/about/${slug}`} style={{ color: 'var(--text)', textDecoration: 'none', fontSize: '0.9rem', transition: 'color 0.2s' }} className="article-hover-link">
+                                {article.title}
+                              </Link>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </details>
                   )}
                 </div>
               </div>

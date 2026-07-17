@@ -4147,5 +4147,178 @@
       "SMI"
     ],
     "letter": "f"
+  },
+  "scourging": {
+    "name": "flagelación",
+    "slug": "scourging",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Reyes 12:11). Administrado de diversas formas. En ningún caso los azotes debían exceder de cuarenta (Deuteronomio 25:3; comp. 2 Corintios 11:24). En tiempos de los apóstoles, como consecuencia de la aprobación de lo que se llamó la ley porciana, ningún ciudadano romano podía ser azotado en ningún caso (Hechos 16:22-37). (Ver BASTINADO.) En los azotes de nuestro Señor (Mateo 27:26; Marcos 15:15) se cumplieron las palabras de profecía (Isaías 53:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "El castigo de los azotes era común entre los judíos. El instrumento de castigo en el antiguo Egipto, como también lo es en los tiempos modernos en general en Oriente, era generalmente el palo, aplicado a las plantas de los pies: el bastinado. Según el método romano, el culpable era desnudado, estirado con cuerdas o correas sobre un marco y golpeado con varas. (Otra forma de azote consistía en un mango con tres latigazos o correas de cuero o cordón, a veces con piezas de metal sujetas a ellos. Los ciudadanos romanos estaban exentos por ley de azotar)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 12:11",
+        "original": "1 Kings 12:11"
+      },
+      {
+        "reference": "Deuteronomy 25:3",
+        "original": "Deut. 25:3"
+      },
+      {
+        "reference": "2 Corinthians 11:24",
+        "original": "2 Cor. 11:24"
+      },
+      {
+        "reference": "Acts 16:22-37",
+        "original": "Acts 16:22-37"
+      },
+      {
+        "reference": "Matthew 27:26",
+        "original": "Matt. 27:26"
+      },
+      {
+        "reference": "Mark 15:15",
+        "original": "Mark 15:15"
+      },
+      {
+        "reference": "Isaiah 53:5",
+        "original": "Isa. 53:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "suretyship": {
+    "name": "fianza",
+    "slug": "suretyship",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "En ausencia total de comercio, la ley no establecía normas sobre la materia de fianzas; pero es evidente que en tiempos de Salomón los tratos comerciales se habían multiplicado tanto que la garantía en el sentido comercial era común. (Proverbios 6:1; 11:15; 17:18; 20:16; 22:26; 27:13.) Pero en tiempos más antiguos estaba en plena vigencia la idea de que un hombre se convirtiera en fiador de un servicio que otro debía desempeñar. Ver (Génesis 44:32) El fiador, por supuesto, se hizo responsable de las deudas de su cliente en caso de incumplimiento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 6:1",
+        "original": "Proverbs 6:1"
+      },
+      {
+        "reference": "Proverbs 11:15",
+        "original": "Proverbs 11:15"
+      },
+      {
+        "reference": "Proverbs 17:18",
+        "original": "Proverbs 17:18"
+      },
+      {
+        "reference": "Proverbs 20:16",
+        "original": "Proverbs 20:16"
+      },
+      {
+        "reference": "Proverbs 22:26",
+        "original": "Proverbs 22:26"
+      },
+      {
+        "reference": "Proverbs 27:13",
+        "original": "Proverbs 27:13"
+      },
+      {
+        "reference": "Genesis 44:32",
+        "original": "Genesis 44:32"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "works-good": {
+    "name": "Funciona, bien",
+    "slug": "works-good",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La antigua objeción contra la doctrina de la salvación por gracia, de que elimina la necesidad de las buenas obras y reduce el sentido de su importancia (Rom. 6), aunque ha sido contestada mil veces, todavía es alegada por muchos. Dicen que si los hombres no son salvos por las obras, entonces las obras no son necesarias. Si los hombres más morales se salvan de la misma manera que los principales pecadores, entonces las buenas obras no tienen importancia. Y más que esto, si la gracia de Dios se muestra más claramente en la salvación de los hombres más viles, entonces los peores son los mejores. La objeción no tiene validez. El evangelio de la salvación por gracia muestra que las buenas obras son necesarias. Es cierto, inmutablemente cierto, que sin santidad ningún hombre verá al Señor. “Ni los adúlteros, ni los ladrones, ni los avaros, ni los borrachos” heredarán el reino de Dios. Las obras son “buenas” sólo cuando (1) surgen del principio del amor a Dios. El carácter moral de un acto está determinado por el principio moral que lo impulsa. La fe y el amor en el corazón son los elementos esenciales de toda verdadera obediencia. Por lo tanto, las buenas obras sólo surgen de un corazón creyente y sólo pueden ser realizadas por alguien reconciliado con Dios (Efesios 2:10; Santiago 2:18:22). (2.) Las buenas obras tienen como objeto la gloria de Dios; y (3) tienen la voluntad revelada de Dios como su única regla (Deuteronomio 12:32; Apocalipsis 22:18, 19). Las buenas obras son una expresión de gratitud en el corazón del creyente (Juan 14:15, 23; Gálatas 5:6). Son frutos del Espíritu (Tito 2:10-12), y por tanto brotan de la gracia, que ilustran y fortalecen en el corazón. Las buenas obras de los creyentes más sinceros son todas imperfectas, sin embargo, al igual que sus personas, son aceptadas por la mediación de Jesucristo (Col. 3:17), y por eso son recompensadas; no tienen ningún mérito intrínseco, sino que son recompensados ​​enteramente por la gracia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 6",
+        "original": "Rom. 6"
+      },
+      {
+        "reference": "Ephesians 2:10",
+        "original": "Eph. 2:10"
+      },
+      {
+        "reference": "James 2:18",
+        "original": "James 2:18"
+      },
+      {
+        "reference": "Deuteronomy 12:32",
+        "original": "Deut. 12:32"
+      },
+      {
+        "reference": "Revelation 22:18",
+        "original": "Rev. 22:18"
+      },
+      {
+        "reference": "Revelation 22:19",
+        "original": "Rev 22:19"
+      },
+      {
+        "reference": "John 14:15",
+        "original": "John 14:15"
+      },
+      {
+        "reference": "John 14:23",
+        "original": "John 14:23"
+      },
+      {
+        "reference": "Galatians 5:6",
+        "original": "Gal. 5:6"
+      },
+      {
+        "reference": "Titus 2:10-12",
+        "original": "Titus 2:10-12"
+      },
+      {
+        "reference": "Colossians 3:17",
+        "original": "Col. 3:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "zealots": {
+    "name": "Fanáticos",
+    "slug": "zealots",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una secta de judíos que se originó con Judas el Gaulonita (Hechos 5:37). Se negaron a pagar tributo a los romanos, basándose en que esto era una violación del principio de que Dios era el único rey de Israel. Se rebelaron contra los romanos, pero pronto se dispersaron y se convirtieron en una banda sin ley de simples bandidos. Posteriormente fueron llamados Sicarii, por el uso de la sica, es decir, la daga romana."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 5:37",
+        "original": "Acts 5:37"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
   }
 }

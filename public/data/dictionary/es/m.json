@@ -16320,5 +16320,977 @@
       "EAS"
     ],
     "letter": "m"
+  },
+  "red-sea": {
+    "name": "Mar Rojo",
+    "slug": "red-sea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El llamado mar se extiende a lo largo de la costa occidental de Arabia por unas 1.400 millas y separa Asia de África. Está conectado con el Océano Índico, del que es un brazo, por el estrecho de Bab-el-Mandeb. En un punto (Ras Mohammed) a unas 200 millas de su extremo norte, se divide en dos brazos, el que está al este llamado Golfo Elanítico, ahora Bahr el-'Akabah, de unas 100 millas de largo por 15 de ancho, y el que está al oeste, el Golfo de Suez, de unas 150 millas de largo por unas 20 de ancho. Este ramal está ahora conectado con el Mediterráneo por el Canal de Suez. Entre estos dos brazos se encuentra la península del Sinaí. El nombre hebreo que generalmente se le da a este mar es Yam Suph. Esta palabra suph significa una especie de alga lanuda que el mar arroja en gran abundancia a sus orillas. En estos pasajes, Éx. 10:19; 13:18; 15:4, 22; 23:31; Núm. 14:25, etc., el nombre hebreo siempre se traduce “Mar Rojo”, que era el nombre que le daban los griegos. El origen de este nombre (Mar Rojo) es incierto. Algunos piensan que se deriva del color rojo de las montañas de la costa occidental; otros, del coral rojo que se encuentra en el mar, o del aspecto rojo que a veces dan al agua ciertos zoófitos que flotan en ella. En el Nuevo Testamento (Hechos 7:36; Heb. 11:29) se le da este nombre al Golfo de Suez. Este mar también fue llamado por los hebreos Yam-mitstraim, es decir, “el mar egipcio” (Isaías 11:15), y simplemente Ha-yam, “el mar” (Éxodo 14:2, 9, 16, 21, 28; Josué 24:6, 7; Isaías 10:26, etc.). El gran acontecimiento histórico relacionado con el Mar Rojo es el paso de los hijos de Israel y el derrocamiento de los egipcios, al cual hay referencia frecuente en las Escrituras (Éxo. 14, 15; Núm. 33:8; Deut. 11:4; Jos. 2:10; Jue. 11:16; 2 Sam. 22:16; Neh. 9:9-11; Sal. 66:6; Isaías 10:26; Hechos 7:36, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 10:19",
+        "original": "Ex. 10:19"
+      },
+      {
+        "reference": "Exodus 13:18",
+        "original": "Ex 13:18"
+      },
+      {
+        "reference": "Exodus 15:4",
+        "original": "Ex 15:4"
+      },
+      {
+        "reference": "Exodus 15:22",
+        "original": "Ex 15:22"
+      },
+      {
+        "reference": "Exodus 23:31",
+        "original": "Ex 23:31"
+      },
+      {
+        "reference": "Numbers 14:25",
+        "original": "Num. 14:25"
+      },
+      {
+        "reference": "Acts 7:36",
+        "original": "Acts 7:36"
+      },
+      {
+        "reference": "Hebrews 11:29",
+        "original": "Heb. 11:29"
+      },
+      {
+        "reference": "Isaiah 11:15",
+        "original": "Isa. 11:15"
+      },
+      {
+        "reference": "Exodus 14:2",
+        "original": "Ex. 14:2"
+      },
+      {
+        "reference": "Exodus 14:9",
+        "original": "Ex. 14:9"
+      },
+      {
+        "reference": "Exodus 14:16",
+        "original": "Ex. 14:16"
+      },
+      {
+        "reference": "Exodus 14:21",
+        "original": "Ex. 14:21"
+      },
+      {
+        "reference": "Exodus 14:28",
+        "original": "Ex. 14:28"
+      },
+      {
+        "reference": "Joshua 24:6",
+        "original": "Josh. 24:6"
+      },
+      {
+        "reference": "Joshua 24:7",
+        "original": "Josh. 24:7"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isa. 10:26"
+      },
+      {
+        "reference": "Exodus 14",
+        "original": "Ex. 14"
+      },
+      {
+        "reference": "Exodus 15",
+        "original": "Ex. 15"
+      },
+      {
+        "reference": "Numbers 33:8",
+        "original": "Num. 33:8"
+      },
+      {
+        "reference": "Deuteronomy 11:4",
+        "original": "Deut. 11:4"
+      },
+      {
+        "reference": "Joshua 2:10",
+        "original": "Josh. 2:10"
+      },
+      {
+        "reference": "Judges 11:16",
+        "original": "Judg. 11:16"
+      },
+      {
+        "reference": "2 Samuel 22:16",
+        "original": "2 Sam. 22:16"
+      },
+      {
+        "reference": "Nehemiah 9:9-11",
+        "original": "Neh. 9:9-11"
+      },
+      {
+        "reference": "Psalms 66:6",
+        "original": "Ps. 66:6"
+      },
+      {
+        "reference": "Exodus 15:1",
+        "original": "Exodus 15:1"
+      },
+      {
+        "reference": "Exodus 15:8",
+        "original": "Exodus 15:8"
+      },
+      {
+        "reference": "Exodus 15:10",
+        "original": "Exodus 15:10"
+      },
+      {
+        "reference": "Exodus 15:19",
+        "original": "Exodus 15:19"
+      },
+      {
+        "reference": "Isaiah 10:5",
+        "original": "Isaiah 10:5"
+      },
+      {
+        "reference": "1 Kings 9:20",
+        "original": "1 Kings 9:20"
+      },
+      {
+        "reference": "1 Kings 22:48",
+        "original": "1 Kings 22:48"
+      },
+      {
+        "reference": "Exodus 13:20",
+        "original": "Exodus 13:20"
+      },
+      {
+        "reference": "Numbers 33:6",
+        "original": "Numbers 33:6"
+      },
+      {
+        "reference": "Exodus 14:23-25",
+        "original": "Exodus 14:23-25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "red-sea-passage-of": {
+    "name": "Mar Rojo, Paso de",
+    "slug": "red-sea-passage-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El relato de la marcha de los israelitas a través del Mar Rojo se da en Éx. 14:22-31. Ha habido una gran diversidad de opiniones sobre el lugar preciso donde esto ocurrió. La dificultad de llegar a una conclusión definitiva sobre el asunto aumenta mucho si se considera que la cabecera del golfo de Suez, que era el brazo del mar que se cruzó, debe haberse extendido en el momento del Éxodo probablemente 50 millas más al norte que en la actualidad. Algunos han argumentado que el cruce tuvo lugar frente al Wady Tawarik, donde el mar tiene actualmente unas 7 millas de ancho. Pero la opinión que parece mejor sustentada es la que apunta al barrio de Suez. Esta posición satisface perfectamente todas las condiciones del estupendo milagro registrado en la narración sagrada. (Ver ÉXODO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 14:22-31",
+        "original": "Ex. 14:22-31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "salt-sea": {
+    "name": "mar salado",
+    "slug": "salt-sea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Josué 3:16). Ver MAR MUERTO."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 3:16",
+        "original": "Josh. 3:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "salt-sea-or-dead-sea": {
+    "name": "Mar Salado O Mar Muerto",
+    "slug": "salt-sea-or-dead-sea",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Mar, La Sal, LA SAL]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "schoolmaster": {
+    "name": "Maestro",
+    "slug": "schoolmaster",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La ley así designada por Pablo (Gálatas 3:24, 25). Tal como se usa, la palabra no significa maestro, sino pedagogo (abreviado a la página moderna), es decir, alguien a quien se le confiaba la supervisión de una familia, llevándolos hacia y desde la escuela, siendo responsable de su seguridad y buenos modales. De ahí que el pedagogo fuera severo y severo en su disciplina. Así, la ley era un pedagogo para los judíos, con miras a Cristo, es decir, para prepararlos para la fe en Cristo produciendo convicciones de culpa e impotencia. El oficio de pedagogo cesó cuando “vino la fe”, es decir, el objeto de esa fe, la semilla, que es Cristo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Galatians 3:24",
+        "original": "Gal. 3:24"
+      },
+      {
+        "reference": "Galatians 3:25",
+        "original": "Gal. 3:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sea": {
+    "name": "Mar",
+    "slug": "sea",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El mar, ñame, se usa en las Escrituras para denotar:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:2",
+        "original": "Genesis 1:2"
+      },
+      {
+        "reference": "Genesis 1:10",
+        "original": "Genesis 1:10"
+      },
+      {
+        "reference": "Genesis 30:13",
+        "original": "Genesis 30:13"
+      },
+      {
+        "reference": "Joel 2:20",
+        "original": "Joel 2:20"
+      },
+      {
+        "reference": "Exodus 23:31",
+        "original": "Exodus 23:31"
+      },
+      {
+        "reference": "Numbers 36:6",
+        "original": "Numbers 36:6"
+      },
+      {
+        "reference": "Numbers 36:7",
+        "original": "Numbers 36:7"
+      },
+      {
+        "reference": "Joshua 15:47",
+        "original": "Joshua 15:47"
+      },
+      {
+        "reference": "Psalms 80:11",
+        "original": "Psal 80:11"
+      },
+      {
+        "reference": "Exodus 15:4",
+        "original": "Exodus 15:4"
+      },
+      {
+        "reference": "Isaiah 19:5",
+        "original": "Isaiah 19:5"
+      },
+      {
+        "reference": "Jeremiah 51:36",
+        "original": "Jeremiah 51:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "sea-of-glass": {
+    "name": "mar de cristal",
+    "slug": "sea-of-glass",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una expresión figurada utilizada en Apocalipsis 4:6 y 15:2. Según la interpretación de algunos, “este mar tranquilo, cristalino, que nunca está en tormenta, sino sólo entremezclado con llamas, representa los consejos de Dios, esos propósitos de justicia y amor que a menudo son insondables pero nunca oscuros, siempre los mismos, aunque a veces resplandecen con santa ira”. (Comp. Sal. 36:6; 77:19; Rom. 11:33-36.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 4:6",
+        "original": "Rev. 4:6"
+      },
+      {
+        "reference": "Psalms 36:6",
+        "original": "Ps. 36:6"
+      },
+      {
+        "reference": "Psalms 77:19",
+        "original": "Ps 77:19"
+      },
+      {
+        "reference": "Romans 11:33-36",
+        "original": "Rom. 11:33-36"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sea-of-jazer": {
+    "name": "Mar de Jazer",
+    "slug": "sea-of-jazer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Jer. 48:32), un lago, ahora representado por algunos estanques en el alto valle en el que se encuentra la ciudad amonita de Jazer, cuyas ruinas se llaman Sar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 48:32",
+        "original": "Jer. 48:32"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sea-molten": {
+    "name": "mar, fundido",
+    "slug": "sea-molten",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "En lugar de la fuente del tabernáculo, Salomón hizo fundir una fuente similar, que por su tamaño se llamaba mar. Estaba hecho total o parcialmente de bronce, o más bien de cobre, que David capturó en \"Tibhat y Chun, ciudades de Hadad-ezer, rey de Soba\". (1 Reyes 7:23-26; 1 Crónicas 18:8) Se dice que tenía 15 pies de diámetro y 7 1/2 pies de profundidad, y que podía contener 2000, o según (2 Crónicas 4:5) 3000 baños (16.000 a 24.000 galones). La palanca estaba apoyada sobre doce bueyes, tres hacia cada cuarto del cielo, y todos mirando hacia afuera. Acaz lo mutiló al quitarlo de su base de bueyes y colocarlo sobre una base de piedra, y finalmente fue destrozado por los asirios. (2 Reyes 16:14,17; 25:13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 7:23-26",
+        "original": "1 Kings 7:23-26"
+      },
+      {
+        "reference": "1 Chronicles 18:8",
+        "original": "1 Chronicles 18:8"
+      },
+      {
+        "reference": "2 Chronicles 4:5",
+        "original": "2 Chronicles 4:5"
+      },
+      {
+        "reference": "2 Kings 16:14",
+        "original": "2 Kings 16:14"
+      },
+      {
+        "reference": "2 Kings 16:17",
+        "original": "2 Kings 16:17"
+      },
+      {
+        "reference": "2 Kings 25:13",
+        "original": "2 Kings 25:13"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "sea-the": {
+    "name": "mar, el",
+    "slug": "sea-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. yam), significa (1) “la reunión de las aguas”, el océano (Gén. 1:10); (2) un río, como el Nilo (Isaías 19:5), el Éufrates (Isaías 21:1; Jer. 51:36); (3) el Mar Rojo (Éxodo 14:16, 27; 15:4, etc.); (4) el Mediterráneo (Éxodo 23:31; Núm. 34:6, 7; Josué 15:47; Sal. 80:11, etc.); (5) el “mar de Galilea”, un lago interior de agua dulce, y (6) el Mar Muerto o “mar salado” (Gén. 14:3; Núm. 34:3, 12, etc.). La palabra \"mar\" se usa simbólicamente en Isa. 60:5, donde probablemente significa las naciones alrededor del Mediterráneo. En Dan. 7:3, Apocalipsis 13:1 puede significar los cambios tumultuosos entre las naciones de la tierra."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:10",
+        "original": "Gen. 1:10"
+      },
+      {
+        "reference": "Isaiah 19:5",
+        "original": "Isa. 19:5"
+      },
+      {
+        "reference": "Isaiah 21:1",
+        "original": "Isa. 21:1"
+      },
+      {
+        "reference": "Jeremiah 51:36",
+        "original": "Jer. 51:36"
+      },
+      {
+        "reference": "Exodus 14:16",
+        "original": "Ex. 14:16"
+      },
+      {
+        "reference": "Exodus 14:27",
+        "original": "Ex. 14:27"
+      },
+      {
+        "reference": "Exodus 23:31",
+        "original": "Ex. 23:31"
+      },
+      {
+        "reference": "Numbers 34:6",
+        "original": "Num. 34:6"
+      },
+      {
+        "reference": "Numbers 34:7",
+        "original": "Num. 34:7"
+      },
+      {
+        "reference": "Joshua 15:47",
+        "original": "Josh. 15:47"
+      },
+      {
+        "reference": "Psalms 80:11",
+        "original": "Ps. 80:11"
+      },
+      {
+        "reference": "Genesis 14:3",
+        "original": "Gen. 14:3"
+      },
+      {
+        "reference": "Numbers 34:3",
+        "original": "Num. 34:3"
+      },
+      {
+        "reference": "Numbers 34:12",
+        "original": "Num. 34:12"
+      },
+      {
+        "reference": "Isaiah 60:5",
+        "original": "Isa. 60:5"
+      },
+      {
+        "reference": "Daniel 7:3",
+        "original": "Dan. 7:3"
+      },
+      {
+        "reference": "Revelation 13:1",
+        "original": "Rev. 13:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sea-the-molten": {
+    "name": "Mar, El fundido",
+    "slug": "sea-the-molten",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La gran fuente hecha por Salomón para uso de los sacerdotes en el templo, descrita en 1 Reyes 7:23-26; 2 Cr. 4:2-5. Se encontraba en la esquina sureste del patio interior. Tenía 5 codos de alto, 10 de diámetro de borde a borde y 30 de circunferencia. Se colocaba sobre los lomos de doce bueyes, de pie con la cara hacia afuera. Era capaz de contener dos o tres mil baños de agua (comp. 2 Crónicas 4:5), que originalmente fue suministrada por los gabaonitas, pero luego fue traída por un conducto desde los estanques de Belén. Estaba hecho de “bronce” (cobre), que Salomón había tomado de las ciudades capturadas de Hadarezer, el rey de Soba (1 Crónicas 18:8). Posteriormente, Acaz quitó esta fuente de los bueyes y la colocó sobre un pavimento de piedra (2 Reyes 16:17). Fue destruida por los caldeos (25:13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 7:23-26",
+        "original": "1 Kings 7:23-26"
+      },
+      {
+        "reference": "2 Chronicles 4:2-5",
+        "original": "2 Chr. 4:2-5"
+      },
+      {
+        "reference": "2 Chronicles 4:5",
+        "original": "2 Chr. 4:5"
+      },
+      {
+        "reference": "1 Chronicles 18:8",
+        "original": "1 Chr. 18:8"
+      },
+      {
+        "reference": "2 Kings 16:17",
+        "original": "2 Kings 16:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "seah": {
+    "name": "mar",
+    "slug": "seah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En medida terrestre, un espacio de 50 codos de largo por 50 de ancho. En términos de capacidad, un mar equivalía a poco más de un picotazo. (Ver MEDIDA.)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sheep-market": {
+    "name": "Mercado de ovejas",
+    "slug": "sheep-market",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre sólo en Juan 5:2 (marg., también R.V., “puerta de las ovejas”). La palabra así traducida es un adjetivo, y no está claro si el sustantivo que se debe proporcionar debe ser “puerta” o, siguiendo la versión Vulgata, “piscina”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 5:2",
+        "original": "John 5:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "sheepmarket-the": {
+    "name": "Mercado de ovejas, el",
+    "slug": "sheepmarket-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Juan 5:2) El “mercado” mundial es una interpolación de nuestros traductores. Probablemente deberíamos utilizar la palabra \"puerta\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 5:2",
+        "original": "John 5:2"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "tables": {
+    "name": "Mesas",
+    "slug": "tables",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 7:4) significa bancos o sofás para banquetes, en los que los judíos se reclinaban durante las comidas. Esta costumbre, junto con el uso de mesas elevadas como las nuestras, se introdujo entre los judíos después del Cautiverio. Antes, propiamente hablando, no tenían mesa. Lo que servía para ese propósito era una piel o un trozo de cuero extendido sobre el suelo alfombrado. A veces se colocaba un taburete en medio de esta piel. (Ver EL SENO DE ABRAHAM; BANQUETE; COMIDAS.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:4",
+        "original": "Mark 7:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "thousands": {
+    "name": "Miles",
+    "slug": "thousands",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Miqueas 5:2), otro nombre para “familias” o “clanes” (ver Núm. 1:16; 10:4; Josué 22:14, 21). Varios “miles” o “familias” formaban una “tribu”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Micah 5:2",
+        "original": "Micah 5:2"
+      },
+      {
+        "reference": "Numbers 1:16",
+        "original": "Num. 1:16"
+      },
+      {
+        "reference": "Numbers 10:4",
+        "original": "Num 10:4"
+      },
+      {
+        "reference": "Joshua 22:14",
+        "original": "Josh. 22:14"
+      },
+      {
+        "reference": "Joshua 22:21",
+        "original": "Josh. 22:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "wall": {
+    "name": "Muro",
+    "slug": "wall",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las ciudades estaban rodeadas por murallas, a diferencia de las “aldeas sin murallas” (Ezequiel 38:11; Levítico 25:29-34). Se hicieron gruesos y fuertes (Números 13:28; Deuteronomio 3:5). Entre los judíos los muros eran construidos de piedra, siendo algunos de los del templo de gran tamaño (1 Reyes 6:7; 7:9-12; 20:30; Marcos 13:1, 2). El término se usa metafóricamente para referirse a seguridad y protección (Isaías 26:1; 60:18; Apocalipsis 21:12-20). (Ver CERCA)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 38:11",
+        "original": "Ezek. 38:11"
+      },
+      {
+        "reference": "Leviticus 25:29-34",
+        "original": "Lev. 25:29-34"
+      },
+      {
+        "reference": "Numbers 13:28",
+        "original": "Num. 13:28"
+      },
+      {
+        "reference": "Deuteronomy 3:5",
+        "original": "Deut. 3:5"
+      },
+      {
+        "reference": "1 Kings 6:7",
+        "original": "1 Kings 6:7"
+      },
+      {
+        "reference": "1 Kings 7:9-12",
+        "original": "1 Kings 7:9-12"
+      },
+      {
+        "reference": "1 Kings 20:30",
+        "original": "1 Kings 20:30"
+      },
+      {
+        "reference": "Mark 13:1",
+        "original": "Mark 13:1"
+      },
+      {
+        "reference": "Mark 13:2",
+        "original": "Mark 13:2"
+      },
+      {
+        "reference": "Isaiah 26:1",
+        "original": "Isa. 26:1"
+      },
+      {
+        "reference": "Isaiah 60:18",
+        "original": "Isa 60:18"
+      },
+      {
+        "reference": "Revelation 21:12-20",
+        "original": "Rev. 21:12-20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "wizard": {
+    "name": "Mago",
+    "slug": "wizard",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un pretendiente a conocimiento y poder sobrenaturales, “un conocedor”, como significa la palabra hebrea original. A tal persona se le prohibía, bajo pena de muerte, practicar sus engaños (Lev. 19:31; 20:6, 27; 1 Sam. 28:3; Isa. 8:19; 19:3)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Divinidad; Magia, Magos]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 19:31",
+        "original": "Lev. 19:31"
+      },
+      {
+        "reference": "Leviticus 20:6",
+        "original": "Lev 20:6"
+      },
+      {
+        "reference": "Leviticus 20:27",
+        "original": "Lev 20:27"
+      },
+      {
+        "reference": "1 Samuel 28:3",
+        "original": "1 Sam. 28:3"
+      },
+      {
+        "reference": "Isaiah 8:19",
+        "original": "Isa. 8:19"
+      },
+      {
+        "reference": "Isaiah 19:3",
+        "original": "Isa 19:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "woman": {
+    "name": "Mujer",
+    "slug": "woman",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fue “tomado del hombre” (Gén. 2:23), y por tanto el hombre tiene la preeminencia. “La cabeza de la mujer es el hombre”; pero, aun así, se debe mostrar honor a la esposa, “como a vaso más frágil” (1 Cor. 11:3, 8, 9; 1 Ped. 3:7). En las Escrituras se menciona a varias mujeres dotadas de dones proféticos, como Miriam (Éxodo 15:20), Débora (Jueces 4:4, 5), Hulda (2 Reyes 22:14), Noadías (Nehemías 6:14), Ana (Lucas 2:36, 37) y las hijas de Felipe el evangelista (Hechos 21:8, 9). A las mujeres se les prohíbe enseñar públicamente (1 Cor. 14:34, 35; 1 Tim. 2:11, 12). Entre los hebreos correspondía a las mujeres preparar las comidas del hogar (Gén. 18:6; 2 Sam. 13:8), atender el trabajo de hilado (Éxo. 35:26; Prov. 31:19) y confeccionar ropa (1 Sam. 2:19; Prov. 31:21), sacar agua del pozo (Gén. 24:15; 1 Sam. 9:11) y cuidar para los rebaños (Génesis 29:6; Éxodo 2:16). La palabra \"mujer\", tal como se usa en Matt. 15:28, Juan 2:4 y 20:13, 15, implica ternura y cortesía y no falta de respeto. Sólo donde se conoce la revelación se le asigna a la mujer el lugar de honor que le corresponde."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:23",
+        "original": "Gen. 2:23"
+      },
+      {
+        "reference": "1 Corinthians 11:3",
+        "original": "1 Cor. 11:3"
+      },
+      {
+        "reference": "1 Corinthians 11:8",
+        "original": "1 Cor. 11:8"
+      },
+      {
+        "reference": "1 Corinthians 11:9",
+        "original": "1 Cor. 11:9"
+      },
+      {
+        "reference": "1 Peter 3:7",
+        "original": "1 Pet. 3:7"
+      },
+      {
+        "reference": "Exodus 15:20",
+        "original": "Ex. 15:20"
+      },
+      {
+        "reference": "Judges 4:4",
+        "original": "Judg. 4:4"
+      },
+      {
+        "reference": "Judges 4:5",
+        "original": "Judg. 4:5"
+      },
+      {
+        "reference": "2 Kings 22:14",
+        "original": "2 Kings 22:14"
+      },
+      {
+        "reference": "Nehemiah 6:14",
+        "original": "Neh. 6:14"
+      },
+      {
+        "reference": "Luke 2:36",
+        "original": "Luke 2:36"
+      },
+      {
+        "reference": "Luke 2:37",
+        "original": "Luke 2:37"
+      },
+      {
+        "reference": "Acts 21:8",
+        "original": "Acts 21:8"
+      },
+      {
+        "reference": "Acts 21:9",
+        "original": "Acts 21:9"
+      },
+      {
+        "reference": "1 Corinthians 14:34",
+        "original": "1 Cor. 14:34"
+      },
+      {
+        "reference": "1 Corinthians 14:35",
+        "original": "1 Cor. 14:35"
+      },
+      {
+        "reference": "1 Timothy 2:11",
+        "original": "1 Tim. 2:11"
+      },
+      {
+        "reference": "1 Timothy 2:12",
+        "original": "1 Tim. 2:12"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Gen. 18:6"
+      },
+      {
+        "reference": "2 Samuel 13:8",
+        "original": "2 Sam. 13:8"
+      },
+      {
+        "reference": "Exodus 35:26",
+        "original": "Ex. 35:26"
+      },
+      {
+        "reference": "Proverbs 31:19",
+        "original": "Prov. 31:19"
+      },
+      {
+        "reference": "1 Samuel 2:19",
+        "original": "1 Sam. 2:19"
+      },
+      {
+        "reference": "Proverbs 31:21",
+        "original": "Prov. 31:21"
+      },
+      {
+        "reference": "Genesis 24:15",
+        "original": "Gen. 24:15"
+      },
+      {
+        "reference": "1 Samuel 9:11",
+        "original": "1 Sam. 9:11"
+      },
+      {
+        "reference": "Genesis 29:6",
+        "original": "Gen. 29:6"
+      },
+      {
+        "reference": "Exodus 2:16",
+        "original": "Ex. 2:16"
+      },
+      {
+        "reference": "Matthew 15:28",
+        "original": "Matt. 15:28"
+      },
+      {
+        "reference": "John 2:4",
+        "original": "John 2:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "m"
+  },
+  "women": {
+    "name": "Mujer",
+    "slug": "women",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La posición de las mujeres en la comunidad hebrea contrasta favorablemente con la que hoy en día se les asigna generalmente en los países orientales. El punto de contraste más destacado entre las costumbres de la sociedad oriental antigua y la moderna era la gran libertad de la que disfrutaban las mujeres. En lugar de estar encerrados en un harén o aparecer en público con el rostro cubierto. Las esposas y doncellas de la antigüedad se mezclaban libre y abiertamente con el otro sexo en los deberes y comodidades de la vida ordinaria. Rebeca viajó en un camello con el rostro descubierto hasta llegar a la presencia de su prometido. (Génesis 24:64,65) Jacob saludó a Raquel con un beso en presencia de los pastores. (Génesis 29:11) Las mujeres desempeñaron un papel nada despreciable en las celebraciones públicas (Éxodo 15:20,21; Jueces 11:34) Las odas de Débora, Jueces 5, y de Ana (1 Samuel 2:1), etc., exhiben un grado de cultivo intelectual que es en sí mismo una prueba de la posición del sexo en ese período. Las mujeres también ocuparon ocasionalmente cargos públicos, particularmente el de profetisa o maestra inspirada. (Éxodo 15:20; Jueces 4:4; 2 Reyes 22:14; Nehemías 6:14; Lucas 2:36) La administración de los asuntos domésticos recaía principalmente en las mujeres. El valor de un ama de casa virtuosa y activa constituye un tema frecuente en el libro de Proverbios. cap. (Proverbios 11:16; 12:4; 14:1; 31:10) etc. Su influencia fue, por supuesto, proporcionalmente grande."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:64",
+        "original": "Genesis 24:64"
+      },
+      {
+        "reference": "Genesis 24:65",
+        "original": "Genesis 24:65"
+      },
+      {
+        "reference": "Genesis 29:11",
+        "original": "Genesis 29:11"
+      },
+      {
+        "reference": "Exodus 15:20",
+        "original": "Exodus 15:20"
+      },
+      {
+        "reference": "Exodus 15:21",
+        "original": "Exodus 15:21"
+      },
+      {
+        "reference": "Judges 11:34",
+        "original": "Judges 11:34"
+      },
+      {
+        "reference": "Judges 5",
+        "original": "Judg 5"
+      },
+      {
+        "reference": "1 Samuel 2:1",
+        "original": "1 Samuel 2:1"
+      },
+      {
+        "reference": "Judges 4:4",
+        "original": "Judges 4:4"
+      },
+      {
+        "reference": "2 Kings 22:14",
+        "original": "2 Kings 22:14"
+      },
+      {
+        "reference": "Nehemiah 6:14",
+        "original": "Nehemiah 6:14"
+      },
+      {
+        "reference": "Luke 2:36",
+        "original": "Luke 2:36"
+      },
+      {
+        "reference": "Proverbs 11:16",
+        "original": "Proverbs 11:16"
+      },
+      {
+        "reference": "Proverbs 12:4",
+        "original": "Proverbs 12:4"
+      },
+      {
+        "reference": "Proverbs 14:1",
+        "original": "Proverbs 14:1"
+      },
+      {
+        "reference": "Proverbs 31:10",
+        "original": "Proverbs 31:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "m"
+  },
+  "wood": {
+    "name": "Madera",
+    "slug": "wood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ver BOSQUE."
+      },
+      {
+        "source": "SMI",
+        "text": "[Bosque]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "m"
   }
 }

@@ -13742,5 +13742,587 @@
       "SMI"
     ],
     "letter": "b"
+  },
+  "rudder-bands": {
+    "name": "Bandas de timón",
+    "slug": "rudder-bands",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los barcos antiguos tenían dos grandes remos de palas anchas a modo de timones. Estos, cuando no estaban en uso, eran sacados del agua y atados o amarrados. Cuando era necesario su uso, estas correas se soltaban y se dejaba que los timones cayeran al agua (Hechos 27:40)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:40",
+        "original": "Acts 27:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "shield": {
+    "name": "Blindaje",
+    "slug": "shield",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado en guerra defensiva, variando en diferentes momentos y bajo diferentes circunstancias en tamaño, forma y material (1 Sam. 17:7; 2 Sam. 1:21; 1 Reyes 10:17; 1 Cr. 12:8, 24, 34; Isa. 22:6; Eze. 39:9; Nahúm 2:3). Usado en sentido figurado para referirse a Dios y a los príncipes terrenales como defensores de su pueblo (Gén. 15:1; Deuteronomio 33:29; Sal. 33:20; 84:11). La fe se compara con un escudo (Efesios 6:16). Los escudos generalmente eran “ungidos” (Isaías 21:5), para preservarlos y al mismo tiempo hacer que los proyectiles del enemigo se deslizaran más fácilmente."
+      },
+      {
+        "source": "SMI",
+        "text": "El escudo ordinario consistía en un armazón de madera recubierto de cuero; admitió así haber sido quemado. (Ezequiel 39:9.) Con frecuencia estaba revestido de metal, ya fuera latón o cobre; su apariencia en este caso se parecía al oro cuando el sol brillaba sobre él, 1 Macc. 6:39 y a esto, en lugar de a la práctica de untar sangre en el escudo, podemos referirnos al enrojecimiento notado por. Nahúm. (Nahúm 2:3.) La superficie del escudo se mantenía brillante mediante la aplicación de aceite, como se implica en (Isaías 21:5). El escudo se llevaba en el brazo izquierdo, al que estaba sujeto con una correa. Los escudos del estado estaban cubiertos de oro batido. Se suspendieron escudos alrededor de edificios públicos con fines ornamentales. (1 Reyes 10:17) En el lenguaje metafórico de la Biblia, el escudo generalmente representa la protección de Dios: p.e. (Salmo 3:3; 28:7) pero en (Salmo 47:9) se aplica a los gobernantes terrenales y en (Efesios 6:18) a la fe. [Armas, Armadura]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:7",
+        "original": "1 Sam. 17:7"
+      },
+      {
+        "reference": "2 Samuel 1:21",
+        "original": "2 Sam. 1:21"
+      },
+      {
+        "reference": "1 Kings 10:17",
+        "original": "1 Kings 10:17"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chr. 12:8"
+      },
+      {
+        "reference": "1 Chronicles 12:24",
+        "original": "1 Chr. 12:24"
+      },
+      {
+        "reference": "1 Chronicles 12:34",
+        "original": "1 Chr. 12:34"
+      },
+      {
+        "reference": "Isaiah 22:6",
+        "original": "Isa. 22:6"
+      },
+      {
+        "reference": "Ezekiel 39:9",
+        "original": "Ezek. 39:9"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nahum 2:3"
+      },
+      {
+        "reference": "Genesis 15:1",
+        "original": "Gen. 15:1"
+      },
+      {
+        "reference": "Deuteronomy 33:29",
+        "original": "Deut. 33:29"
+      },
+      {
+        "reference": "Psalms 33:20",
+        "original": "Ps. 33:20"
+      },
+      {
+        "reference": "Psalms 84:11",
+        "original": "Ps 84:11"
+      },
+      {
+        "reference": "Ephesians 6:16",
+        "original": "Eph. 6:16"
+      },
+      {
+        "reference": "Isaiah 21:5",
+        "original": "Isa. 21:5"
+      },
+      {
+        "reference": "1Macc 6:39",
+        "original": "1 Macc. 6:39"
+      },
+      {
+        "reference": "Psalms 3:3",
+        "original": "Psalms 3:3"
+      },
+      {
+        "reference": "Psalms 28:7",
+        "original": "Psalms 28:7"
+      },
+      {
+        "reference": "Psalms 47:9",
+        "original": "Psalms 47:9"
+      },
+      {
+        "reference": "Ephesians 6:18",
+        "original": "Ephesians 6:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "ship": {
+    "name": "Barco",
+    "slug": "ship",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Ningún escritor en toda la literatura griega y romana nos ha proporcionado tanta información sobre los barcos mercantes de la antigüedad como San Lucas en la narración del viaje de San Pablo a Roma. Hechos 27,28. Es importante recordar que lo logró en tres barcos: primero, el barco adramitio que lo llevó de Cesarea a Mira, y que probablemente era un barco costero de no gran tamaño, (Hechos 27:1-6); segundo, el gran barco alejandrino, en el que naufragó en la costa de Malta (Hechos 27:6-28):1; y en tercer lugar, otro gran barco de trigo alejandrino, en el que navegó desde Malta pasando por Siracusa y Regio hasta Puteoli. (Hechos 28:11-13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:0-0;",
+        "original": "Acts 27,28"
+      },
+      {
+        "reference": "Acts 27:1-6",
+        "original": "Acts 27:1-6"
+      },
+      {
+        "reference": "Acts 27:6-28",
+        "original": "Acts 27:6-28"
+      },
+      {
+        "reference": "Acts 28:11-13",
+        "original": "Acts 28:11-13"
+      },
+      {
+        "reference": "Acts 27:37",
+        "original": "Acts 27:37"
+      },
+      {
+        "reference": "Acts 27:10",
+        "original": "Acts 27:10"
+      },
+      {
+        "reference": "Acts 27:38",
+        "original": "Acts 27:38"
+      },
+      {
+        "reference": "Acts 28:11",
+        "original": "Acts 28:11"
+      },
+      {
+        "reference": "Acts 27:40",
+        "original": "Acts 27:40"
+      },
+      {
+        "reference": "Jonah 1:5",
+        "original": "Jonah 1:5"
+      },
+      {
+        "reference": "Acts 27:15",
+        "original": "Acts 27:15"
+      },
+      {
+        "reference": "Acts 27:17",
+        "original": "Acts 27:17"
+      },
+      {
+        "reference": "Acts 27:29",
+        "original": "Acts 27:29"
+      },
+      {
+        "reference": "Isaiah 50",
+        "original": "Isai l."
+      },
+      {
+        "reference": "Isaiah 30:17",
+        "original": "Isaiah 30:17"
+      },
+      {
+        "reference": "Acts 16:11",
+        "original": "Acts 16:11"
+      },
+      {
+        "reference": "Acts 16:12",
+        "original": "Acts 16:12"
+      },
+      {
+        "reference": "Acts 20:6",
+        "original": "Acts 20:6"
+      },
+      {
+        "reference": "Acts 27:16",
+        "original": "Acts 27:16"
+      },
+      {
+        "reference": "Matthew 4:18-22",
+        "original": "Matthew 4:18-22"
+      },
+      {
+        "reference": "Mark 1:16",
+        "original": "Mark 1:16"
+      },
+      {
+        "reference": "Mark 1:20",
+        "original": "Mark 1:20"
+      },
+      {
+        "reference": "Luke 5:1-11",
+        "original": "Luke 5:1-11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "ships": {
+    "name": "Barcos",
+    "slug": "ships",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Utilizado tempranamente en el comercio exterior por los fenicios (Gén. 49:13). Moisés (Deuteronomio 28:68) y Job (9:26) hacen referencia a ellos, y Balaam habla de las “barcas de Quitim” (Números 24:24). Salomón construyó una armada en Ezión-geber con la ayuda de los marineros de Hiram (1 Reyes 9:26-28; 2 Crónicas 8:18). Posteriormente, Josafat trató de conseguir una armada en el mismo puerto, pero sus barcos parecen haber naufragado antes de zarpar (1 Reyes 22:48, 49; 2 Crónicas 20:35-37). En los tiempos de nuestro Señor, las barcas de pescadores que navegaban en el mar de Galilea se llamaban “barcos”. Se puede aprender mucho acerca de la construcción de los antiguos barcos mercantes y la navegación del registro de Hechos 27, 28."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:13",
+        "original": "Gen. 49:13"
+      },
+      {
+        "reference": "Deuteronomy 28:68",
+        "original": "Deut. 28:68"
+      },
+      {
+        "reference": "Numbers 24:24",
+        "original": "Num. 24:24"
+      },
+      {
+        "reference": "1 Kings 9:26-28",
+        "original": "1 Kings 9:26-28"
+      },
+      {
+        "reference": "2 Chronicles 8:18",
+        "original": "2 Chr. 8:18"
+      },
+      {
+        "reference": "1 Kings 22:48",
+        "original": "1 Kings 22:48"
+      },
+      {
+        "reference": "1 Kings 22:49",
+        "original": "1 Kings 22:49"
+      },
+      {
+        "reference": "2 Chronicles 20:35-37",
+        "original": "2 Chr. 20:35-37"
+      },
+      {
+        "reference": "Acts 27",
+        "original": "Acts 27"
+      },
+      {
+        "reference": "Acts 28",
+        "original": "Acts 28"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "vulture": {
+    "name": "Buitre",
+    "slug": "vulture",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. da'ah (Levítico 11:14). En el pasaje paralelo (Deuteronomio 14:13) la palabra hebrea utilizada es ra'ah, traducida \"glede\"; LXX.: “gups”; Vulg.: “milvus”. Especie de ave voraz que se distingue por su rápido vuelo. \"Cuando se usa sin el epíteto 'rojo', el nombre comúnmente se limita al milano negro. Los hábitos del pájaro confirman la alusión en Isaías 34:15, porque, excepto durante los tres meses de invierno, es tan numeroso en todas partes de Palestina que es casi gregario\". (Ver ÁGUILA.) (2.) En Job 28:7 el heb. 'ayyah se traduce así. La palabra denota un ave de presa clamorosa y perspicaz. En Lev. 11:14 y Deut. 14:13 se traduce “cometa” (q.v.)."
+      },
+      {
+        "source": "SMI",
+        "text": "La traducción en la versión autorizada del hebreo daah, dayyah, y también en (Job 28:7) de ayyah. No parece haber duda de que la traducción de las Versiones Autorizadas es incorrecta y que las palabras originales se refieren a algunas de las especies más pequeñas de aves rapaces, como milanos o buitres. [Cometa] Pero la palabra hebrea nesher, invariablemente traducida “águila” en la versión autorizada, es probablemente el buitre. [Águila]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:14",
+        "original": "Lev. 11:14"
+      },
+      {
+        "reference": "Deuteronomy 14:13",
+        "original": "Deut. 14:13"
+      },
+      {
+        "reference": "Isaiah 34:15",
+        "original": "Isa. 34:15"
+      },
+      {
+        "reference": "Job 28:7",
+        "original": "Job 28:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "wedding": {
+    "name": "Boda",
+    "slug": "wedding",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Casamiento]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "well": {
+    "name": "Bien",
+    "slug": "well",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. cerveza), para distinguirse de una fuente (heb. 'ain). Una “cerveza” era un pozo profundo, excavado muy por debajo de la superficie rocosa por el arte del hombre, que contenía agua que se filtraba a través de los estratos de sus lados. Tales pozos eran los de Jacob y Beerseba, etc. (ver Gén. 21:19, 25, 30, 31; 24:11; 26:15, 18-25, 32, etc.). En el Pentateuco, esta palabra cerveza, así traducida, aparece veinticinco veces."
+      },
+      {
+        "source": "SMI",
+        "text": "Los pozos en Palestina suelen excavarse en la roca caliza sólida, a veces con escalones para descender hasta ellos. (Génesis 24:16.) Los bordes están provistos de un bordillo o muro bajo de piedra, que presenta marcas de gran antigüedad en los surcos que marcaban las cuerdas utilizadas para sacar agua. Fue en un bordillo de este tipo donde nuestro Señor se sentó cuando conversó con la mujer de Samaria (Juan 4:6) y fue esta, la cubierta de piedra habitual, que la mujer colocó en la boca del pozo en Bahurim, (2 Samuel 17:19) donde la versión autorizada debilita el sentido al omitir el artículo. Los métodos habituales para subir agua son los siguientes:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 21:19",
+        "original": "Gen. 21:19"
+      },
+      {
+        "reference": "Genesis 21:25",
+        "original": "Gen. 21:25"
+      },
+      {
+        "reference": "Genesis 21:30",
+        "original": "Gen. 21:30"
+      },
+      {
+        "reference": "Genesis 21:31",
+        "original": "Gen. 21:31"
+      },
+      {
+        "reference": "Genesis 24:16",
+        "original": "Genesis 24:16"
+      },
+      {
+        "reference": "John 4:6",
+        "original": "John 4:6"
+      },
+      {
+        "reference": "2 Samuel 17:19",
+        "original": "2 Samuel 17:19"
+      },
+      {
+        "reference": "Genesis 24:14-20",
+        "original": "Genesis 24:14-20"
+      },
+      {
+        "reference": "John 4:11",
+        "original": "John 4:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "whale": {
+    "name": "Ballena",
+    "slug": "whale",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La palabra hebrea tan (plural, tanino) se traduce así en Job 7:12 (A.V.; pero R.V., “monstruo marino”). Se traduce por “dragones” en Deut. 32:33; PD. 91:13; Jer. 51:34; PD. 74:13 (marg., “ballenas”; y marg. de R.V., “monstruos marinos”); Isa. 27:1; y “serpiente” en Éx. 7:9 (R.V. marg., “cualquier reptil grande”, y así en los vers. 10, 12). Las palabras de Job (7:12), pronunciadas con amarga ironía, donde pregunta: \"¿Soy un mar o una ballena?\" simplemente significa: \"¿Tengo una naturaleza salvaje e indomable, como las olas del mar, que deben ser confinadas y mantenidas dentro de límites, para que no puedan pasar?\" “La serpiente del mar, que no era más que el mar salvaje y tormentoso mismo, se enroscó alrededor de la tierra y amenazó con tragársela... Job pregunta si debe ser vigilado y plagado como este monstruo, para que no ponga al mundo en desorden” (Job de Davidson). La tribu de las ballenas está incluida bajo el nombre general hebreo tanino (Gén. 1:21; Lam. 4:3). “Incluso los monstruos marinos [tanninim] sacan el pecho”. La ballena da a luz a sus crías vivas y las amamanta. Es de notar la historia de Jonás que estuvo “tres días y tres noches en el vientre de la ballena”, como se registra en Matt. 12:40, que aquí el Gr. ketos significa propiamente cualquier clase de monstruo marino de la tribu del tiburón o de las ballenas, y que en el libro de Jonás (1:17) sólo se dice que “un gran pez” estaba preparado para tragarse a Jonás. Este pez pudo haber sido, por tanto, algún gran tiburón. Se sabe que el tiburón blanco frecuenta el mar Mediterráneo y, a veces, se le encuentra hasta 30 pies de largo."
+      },
+      {
+        "source": "SMI",
+        "text": "En cuanto al significado de los términos hebreos tan y tanino, traducidos de diversas formas en la Versión Autorizada por “dragón”, “ballena”, “serpiente”, “monstruo marino”, véase Dragón. Nos queda en este artículo considerar la transacción registrada en el libro de Jonás, de aquel profeta que fue tragado por un gran pez” que en (Mateo 12:40) se llama cetos (ketos), traducido en nuestra versión por “ballena”. En primer lugar, es necesario observar que la palabra griega cetos, utilizada por San Mateo, no se limita en su significado a \"una ballena\" o cualquier cetáceo; al igual que el latín cete o cetus, puede denotar cualquier monstruo marino, ya sea \"una ballena\", \"un tiburón\", \"una foca\" o \"un atún de enorme tamaño\". Aunque en el Mar Mediterráneo se encuentran dos o tres especies de ballenas, el “gran pez” que se tragó al profeta no puede identificarse adecuadamente con ningún cetáceo, porque, aunque el cachalote tiene una garganta lo suficientemente grande como para admitir el cuerpo de un hombre, difícilmente puede ser el pez al que se refiere, ya que el alimento natural de los cetáceos consiste en animales pequeños, como medusas y crustáceos. El único pez, entonces, capaz de tragarse a un hombre sería un gran ejemplar de tiburón blanco (Carcharias vulgaris), ese temible enemigo de los marineros, y el más voraz de la familia de los Squalidae. Este tiburón, que a veces alcanza los diez metros de longitud, es capaz de tragarse a un hombre entero. Se ha encontrado el cuerpo entero de un hombre con armadura en el estómago de un tiburón blanco, y el Capitán King, en su estudio de Australia, dice que había capturado uno que podría haberse tragado a un hombre con la mayor facilidad. Blumenbach menciona que se ha encontrado un caballo entero en un tiburón, y el capitán Basil Hall informa de la captura de uno en el que, además de otras cosas, encontró toda la piel de un búfalo que poco antes había sido arrojado por la borda desde su barco (p. 27). El tiburón blanco no es infrecuente en el Mediterráneo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 7:12",
+        "original": "Job 7:12"
+      },
+      {
+        "reference": "Deuteronomy 32:33",
+        "original": "Deut. 32:33"
+      },
+      {
+        "reference": "Psalms 91:13",
+        "original": "Ps. 91:13"
+      },
+      {
+        "reference": "Jeremiah 51:34",
+        "original": "Jer. 51:34"
+      },
+      {
+        "reference": "Psalms 74:13",
+        "original": "Ps. 74:13"
+      },
+      {
+        "reference": "Isaiah 27:1",
+        "original": "Isa. 27:1"
+      },
+      {
+        "reference": "Exodus 7:9",
+        "original": "Ex. 7:9"
+      },
+      {
+        "reference": "Genesis 1:21",
+        "original": "Gen. 1:21"
+      },
+      {
+        "reference": "Lamentations 4:3",
+        "original": "Lam. 4:3"
+      },
+      {
+        "reference": "Matthew 12:40",
+        "original": "Matt. 12:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "white": {
+    "name": "Blanco",
+    "slug": "white",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un símbolo de pureza (2 Crónicas 5:12; Salmo 51:7; Isaías 1:18; Apocalipsis 3:18; 7:14). Nuestro Señor, en su transfiguración, apareció con vestiduras “blancas como la luz” (Mateo 17:2, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 5:12",
+        "original": "2 Chr. 5:12"
+      },
+      {
+        "reference": "Psalms 51:7",
+        "original": "Ps. 51:7"
+      },
+      {
+        "reference": "Isaiah 1:18",
+        "original": "Isa. 1:18"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Rev. 3:18"
+      },
+      {
+        "reference": "Revelation 7:14",
+        "original": "Rev 7:14"
+      },
+      {
+        "reference": "Matthew 17:2",
+        "original": "Matt. 17:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "witch": {
+    "name": "Bruja",
+    "slug": "witch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre sólo en Éx. 22:18, como traducción de mekhashshepheh, la forma femenina de la palabra, que significa “hechicera” (R.V., “hechicera”), y en Deut. 18:10, como traducción de mekhashshepheth, la forma masculina de la palabra, que significa “encantador”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 22:18",
+        "original": "Ex. 22:18"
+      },
+      {
+        "reference": "Deuteronomy 18:10",
+        "original": "Deut. 18:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
+  },
+  "witch-witchcrafts": {
+    "name": "Bruja, Brujerías",
+    "slug": "witch-witchcrafts",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Divinidad; Magia, Magos]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "b"
+  },
+  "witchcraft": {
+    "name": "Brujería",
+    "slug": "witchcraft",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Sam. 15:23; 2 Reyes 9:22; 2 Crónicas 33:6; Miqueas 5:12; Nahúm 3:4; Gálatas 5:20). En el sentido popular de la palabra no se hace mención ni de brujas ni de brujería en las Escrituras. La “bruja de En-dor” (1 Sam. 28) era una nigromante, es decir, alguien que fingía mantener una conversación con los muertos. La doncella con “un espíritu de adivinación” (Hechos 16:16) estaba poseída por un espíritu maligno o, como se traducen literalmente las palabras, “teniendo un espíritu, un pitón”. La referencia es al dios pagano Apolo, a quien se consideraba el dios de la profecía."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 15:23",
+        "original": "1 Sam. 15:23"
+      },
+      {
+        "reference": "2 Kings 9:22",
+        "original": "2 Kings 9:22"
+      },
+      {
+        "reference": "2 Chronicles 33:6",
+        "original": "2 Chr. 33:6"
+      },
+      {
+        "reference": "Micah 5:12",
+        "original": "Micah 5:12"
+      },
+      {
+        "reference": "Nahum 3:4",
+        "original": "Nahum 3:4"
+      },
+      {
+        "reference": "Galatians 5:20",
+        "original": "Gal. 5:20"
+      },
+      {
+        "reference": "1 Samuel 28",
+        "original": "1 Sam. 28"
+      },
+      {
+        "reference": "Acts 16:16",
+        "original": "Acts 16:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "b"
   }
 }

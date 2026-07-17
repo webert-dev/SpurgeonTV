@@ -2374,3 +2374,9 @@ body.zen-mode-active .sermon-info-body {
   .home-hero { min-height: auto; padding: 4rem 1.5rem; }
 }
 
+
+
+/* Details chevron rotation */
+details[open] .summary-chevron {
+  transform: rotate(180deg);
+}

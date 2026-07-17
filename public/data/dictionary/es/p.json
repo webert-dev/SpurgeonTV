@@ -13256,5 +13256,1699 @@
       "SMI"
     ],
     "letter": "p"
+  },
+  "ruth": {
+    "name": "Piedad",
+    "slug": "ruth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una amiga, una moabita, esposa de Mahlón, cuyo padre, Elimelec, se había establecido en la tierra de Moab. A la muerte de Elimelec y Mahlón, Noemí vino con Rut, su nuera, quien se negó a dejarla, a Belén, el antiguo hogar de donde había emigrado Elimelec. Allí tenía un pariente rico, Booz, con quien finalmente se casó Rut. Se convirtió en madre de Obed, el abuelo de David. Así, Rut, una gentil, se encuentra entre las progenitoras maternas de nuestro Señor (Mat. 1:5). La historia de “Rut, la espigadora, ilustra las relaciones amistosas entre el buen Booz y sus segadores, el sistema de tierras judío, el método de transferir la propiedad de una persona a otra, el funcionamiento de la ley mosaica para el alivio de las familias afligidas y arruinadas; pero, sobre todo, transmite el altruismo, el amor valiente, la confianza inquebrantable de ella que, aunque no era de la raza elegida, era como la cananea Tamar (Gén. 38:29; Mat. 1:3) y la cananea Rahab (Mat. 1:5), privilegiada de convertirse en antepasada de David, y por tanto del 'hijo mayor del gran David'” (Rut 4:18-22)."
+      },
+      {
+        "source": "SMI",
+        "text": "(una amiga) una mujer moabita, esposa, primero de Mahlón, segunda de Booz, antepasada de David y de Cristo, y una de las cuatro mujeres nombradas por San Mateo en la genealogía de Cristo. Una grave hambruna en la tierra de Judá indujo a Elimelec, natural de Belén-Efratá, a emigrar a la tierra de Moab, con su esposa Noemí y sus dos hijos, Mahlón y Quelión. Esto probablemente fue en la época de Gedeón, B.C. 1250. Al cabo de diez años, Noemí quedó viuda y sin hijos, habiendo oído que nuevamente había abundancia en Judá, resolvió regresar a Belén, y su nuera Rut regresó con ella. Llegaron a Belén justo al comienzo de la cosecha de cebada, y Rut, saliendo a espigar, por casualidad entró en el campo de trigo, un hombre rico y pariente cercano de su suegro, Elimelec. Al enterarse de quién era la extraña, Booz la trató con la mayor amabilidad y respeto, y la envió a casa cargada con el maíz que había recogido. Alentada por este incidente, Noemí ordenó a Rut que reclamara de mano de Booz que él debía desempeñar el papel de pariente cercano de su marido, comprando la herencia de Elimelec y tomándola como esposa. Con toda la debida solemnidad, Booz tomó a Rut como esposa, en medio de las bendiciones y felicitaciones de sus vecinos. Su hijo, Obed, fue \"el padre de Jesé, quien fue el padre de David\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matt. 1:5"
+      },
+      {
+        "reference": "Genesis 38:29",
+        "original": "Gen. 38:29"
+      },
+      {
+        "reference": "Matthew 1:3",
+        "original": "Matt. 1:3"
+      },
+      {
+        "reference": "Ruth 4:18-22",
+        "original": "Ruth 4:18-22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "samaritan-pentateuch": {
+    "name": "Pentateuco samaritano",
+    "slug": "samaritan-pentateuch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Al regresar del exilio, los judíos negaron a los samaritanos participar con ellos en el culto en Jerusalén, y estos últimos se separaron de toda comunión con ellos y construyeron un templo para ellos en el monte Gerizim. Este templo fue arrasado hace más de cien años a.C. Luego se instituyó un sistema de adoración similar al del templo de Jerusalén. Estaba fundada sobre la Ley, cuyas copias se habían multiplicado tanto en Israel como en Judá. Así se conservó entre los samaritanos el Pentateuco, aunque nunca lo llamaron con este nombre, sino siempre “la Ley”, que leían como un solo libro. Sin embargo, la división en cinco libros, tal como la tenemos ahora, fue adoptada por los samaritanos, como lo fue por los judíos, en todos los ejemplares de “la Ley” de sus sacerdotes, por razones de conveniencia. Esta fue la única porción del Antiguo Testamento que los samaritanos aceptaron como de autoridad divina. La forma de las letras en las copias manuscritas del Pentateuco samaritano es diferente de la de las copias hebreas, y probablemente sea la misma que era de uso general antes del cautiverio. Hay otras peculiaridades en la escritura que no es necesario especificar aquí. Hay diferencias importantes entre las copias hebrea y samaritana del Pentateuco en la lectura de muchas oraciones. En aproximadamente dos mil casos en los que los textos samaritano y judío difieren, la LXX. coincide con lo anterior. El Nuevo Testamento también, al citar el Antiguo Testamento, concuerda por regla general con el texto samaritano, en lo que difiere del texto judío. Así, Éx. 12:40 en el Samaritano dice: “La permanencia de los hijos de Israel y de sus padres que habían habitado en la tierra de Canaán y en Egipto fue de cuatrocientos treinta años” (comp. Gál. 3:17). Cabe señalar que la LXX. tiene la misma lectura de este texto."
+      },
+      {
+        "source": "SMI",
+        "text": "una recensión del texto hebreo comúnmente recibido de la ley mosaica, en uso entre los samaritanos, y escrito en hebreo antiguo o el llamado carácter samaritano. El origen del Pentateuco samaritano ha dado lugar a mucha controversia, en la que no podemos entrar aquí. Las dos opiniones más habituales son:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 12:40",
+        "original": "Ex. 12:40"
+      },
+      {
+        "reference": "Galatians 3:17",
+        "original": "Gal. 3:17"
+      },
+      {
+        "reference": "Genesis 2:2",
+        "original": "Genesis 2:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "sardine-stone": {
+    "name": "piedra de sardina",
+    "slug": "sardine-stone",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Apocalipsis 4:3, R.V., “sardius”; heb. ‘odhem; LXX., gr. sardion, de una raíz que significa “rojo”), una gema de color rojo sangre. Se le llamó “sardius” porque se obtuvo de Sardis en Lidia. Se enumera entre las piedras preciosas del pectoral del sumo sacerdote (Éxodo 28:17; 39:10). Es nuestra cornalina roja."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 4:3",
+        "original": "Rev. 4:3"
+      },
+      {
+        "reference": "Exodus 28:17",
+        "original": "Ex. 28:17"
+      },
+      {
+        "reference": "Exodus 39:10",
+        "original": "Ex 39:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "sheep-gate": {
+    "name": "puerta de ovejas",
+    "slug": "sheep-gate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una de las puertas de Jerusalén mencionada por Nehemías (3:1, 32; 12:39). Estaba en el muro oriental de la ciudad."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "sheepgate-the": {
+    "name": "Puerta de ovejas, el",
+    "slug": "sheepgate-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una de las puertas de Jerusalén reconstruida por Nehemías. (Nehemías 3:1,32; 12:39) Estaba entre la torre de Meah y la cámara de la esquina, cap. (Nehemías 3:1,32) o puerta de la caseta de vigilancia, cap. (Nehemías 12:39) Versión autorizada, “puerta de la prisión”. Este último parece haber estado en el ángulo formado por la unión del muro de la ciudad de David con el de la ciudad de Jerusalén propiamente dicha, teniendo la puerta de las ovejas al norte. Por lo tanto, la posición de la puerta de las ovejas puede haber estado en o cerca de la de Bab el Kattanin."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:1",
+        "original": "Nehemiah 3:1"
+      },
+      {
+        "reference": "Nehemiah 3:32",
+        "original": "Nehemiah 3:32"
+      },
+      {
+        "reference": "Nehemiah 12:39",
+        "original": "Nehemiah 12:39"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "shepherd": {
+    "name": "Pastor",
+    "slug": "shepherd",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una palabra que naturalmente aparece con frecuencia en las Escrituras. A veces se usa en su lugar la palabra “pastor” (Jer. 2:8; 3:15; 10:21; 12:10; 17:16). Esta palabra se usa en sentido figurado para representar la relación de los gobernantes con sus súbditos y de Dios con su pueblo (Sal. 23:1; 80:1; Isa. 40:11; 44:28; Jer. 25:34, 35; Nahúm. 3:18; Juan 10:11, 14; Heb. 13:20; 1 Ped. 2:25; 5:4). Los deberes de un pastor en un país no cerrado como Palestina eran muy onerosos. \"Temprano en la mañana, sacó el rebaño del redil, marchando a la cabeza hacia el lugar donde debían ser pastados. Allí los vigiló todo el día, cuidando de que ninguna de las ovejas se extraviara, y si alguna eludía su vigilancia por un tiempo y se alejaba del resto, buscándola diligentemente hasta que la encontraba y la traía de regreso. En esas tierras, las ovejas necesitan recibir agua regularmente, y el pastor para este propósito tiene que guiarlas a algún arroyo o a pozos excavados en el desierto. y por la noche llevaba el rebaño al redil, contándolos a medida que pasaban bajo la vara de la puerta para asegurarse de que no faltaba ninguno. A menudo sus labores no terminaban con la puesta del sol, durante las horas oscuras, contra el ataque de las bestias salvajes o los astutos intentos del ladrón que merodeaba (ver 1 Sam. 17:34)."
+      },
+      {
+        "source": "SMI",
+        "text": "En un estado nómada de sociedad, todo hombre, desde el jeque hasta el esclavo, es más o menos un pastor. Los progenitores de los judíos en la época patriarcal eran nómadas y su historia es rica en escenas de vida pastoral. La ocupación de cuidar los rebaños era asumida, no sólo por los hijos de los jefes ricos, (Génesis 30:29) ss.; Génesis 37:12 ss., pero incluso por sus hijas. (Génesis 29:6,8; Éxodo 2:10.) El cautiverio egipcio marchó para implantar el amor por la morada estable y, en consecuencia, encontramos que las tribus que todavía conservaban el gusto por la vida de pastores seleccionaban sus propios alojamientos aparte de los de sus hermanos en el distrito transjordano. (Números 32:1) ss. A partir de entonces, en la Palestina propiamente dicha, el pastor ocupó una posición subordinada. El oficio del pastor oriental, tal como se describe en la Biblia, entrañaba muchas dificultades e incluso peligros. Estuvo expuesto a los extremos del calor y el frío, (Génesis 31:40) su alimento consistía frecuentemente en los precarios suministros que le brinda la naturaleza, como el fruto del “sicomoro” o higo egipcio, (Amós 7:14) las “cáscaras” del algarrobo, (Lucas 15:16) y tal vez las langostas y la miel silvestre que sustentaban al Bautista, (Mateo 3:4) tuvo que enfrentar los ataques de bestias salvajes, ocasionalmente de especies más grandes, como leones, nervios, panteras y osos (1 Samuel 17:34; Isaías 31:4; Jeremias 5:6; Amós 5:12) ni estaba libre del riesgo de hordas de ladrones o depredadores. (Génesis 31:39) Para hacer frente a estos diversos enemigos, el equipo del pastor consistía en los siguientes artículos: un manto, probablemente hecho de piel de oveja con vellón, que le daba la vuelta cuando hacía frío, como se implica en la comparación en (Jeremías 43:12) (cf. Juv. xiv. 187.); una bolsa o billetera, que contenía una pequeña cantidad de comida (1 Samuel 17:40), una honda, que sigue siendo el arma favorita del pastor beduino (1 Samuel 17:40) y, por último, una que cumplía el doble propósito de arma contra los enemigos y cayado para el manejo del rebaño. (1 Samuel 17:40; Salmo 23:4; Zacarías 11:7) Si el pastor estaba lejos de su casa, se le proporcionaba una tienda ligera (Cantares de los Cantares 1:8; Jeremias 35:7) cuya remoción se realizaba fácilmente. (Isaías 38:12.) En ciertas localidades, además, se erigieron torres con el doble propósito de espiar a un enemigo a distancia y de proteger al rebaño; tales torres fueron erigidas por Uzías y Jotam (2 Crónicas 26:10; 27:4), mientras que su existencia en épocas anteriores se atestigua con el nombre Migdal-edar (Génesis 35:21) Versión autorizada \"una torre de Edar\"; (Miqueas 4:8) Versión autorizada “torre del rebaño”. La rutina de los deberes del pastor parece haber sido la siguiente: Por la mañana sacaba a su rebaño del redil (Juan 10:4), lo que hacía yendo delante de ellos y llamándolos, como todavía es habitual en Oriente; llegaba al pasto vigilaba el rebaño con la ayuda de perros, (Job 30:1) y si alguna oveja se extraviaba, tenía que buscarla hasta encontrarla, (Ezequiel 34:12; Lucas 15:4) les abastecía de agua, ya fuera en un arroyo o en abrevaderos pegados a pozos, (Génesis 29:7; 30:38; Éxodo 2:16; Salmos 23:2) al atardecer las llevaba de regreso al redil, y las contaba para ver que no faltara ninguna, pasándolas “debajo de la vara” cuando entraban por la puerta del recinto (Levítico 27:32; Ezequiel 20:37), revisando cada oveja a su paso, con un movimiento de la mano (Jeremías 33:13) y, finalmente, vigilaba la entrada del redil durante toda la noche, actuando como portero. (Juan 10:3) [Ver Redil, bajo Ovejas] Por lo tanto, el oficio del pastor requería gran vigilancia, particularmente de noche. (Lucas 2:8) cf. Nahu 3:18 También requería ternura hacia los jóvenes y débiles (Isaías 40:11), particularmente al conducirlos hacia y desde los pastos. (Génesis 33:13.) En los establecimientos grandes hay varios grados de pastores, siendo el más alto el llamado “gobernantes” (Génesis 47:6) o “pastores principales” (1 Pedro 5:4). En una casa real, el título de abbir “poderoso” se otorgaba a la persona que ocupaba el puesto. (1 Samuel 21:7) [Ovejas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 2:8",
+        "original": "Jer. 2:8"
+      },
+      {
+        "reference": "Jeremiah 3:15",
+        "original": "Jer 3:15"
+      },
+      {
+        "reference": "Jeremiah 10:21",
+        "original": "Jer 10:21"
+      },
+      {
+        "reference": "Jeremiah 12:10",
+        "original": "Jer 12:10"
+      },
+      {
+        "reference": "Jeremiah 17:16",
+        "original": "Jer 17:16"
+      },
+      {
+        "reference": "Psalms 23:1",
+        "original": "Ps. 23:1"
+      },
+      {
+        "reference": "Psalms 80:1",
+        "original": "Ps 80:1"
+      },
+      {
+        "reference": "Isaiah 40:11",
+        "original": "Isa. 40:11"
+      },
+      {
+        "reference": "Isaiah 44:28",
+        "original": "Isa 44:28"
+      },
+      {
+        "reference": "Jeremiah 25:34",
+        "original": "Jer. 25:34"
+      },
+      {
+        "reference": "Jeremiah 25:35",
+        "original": "Jer. 25:35"
+      },
+      {
+        "reference": "Nahum 3:18",
+        "original": "Nahum 3:18"
+      },
+      {
+        "reference": "John 10:11",
+        "original": "John 10:11"
+      },
+      {
+        "reference": "John 10:14",
+        "original": "John 10:14"
+      },
+      {
+        "reference": "Hebrews 13:20",
+        "original": "Heb. 13:20"
+      },
+      {
+        "reference": "1 Peter 2:25",
+        "original": "1 Pet. 2:25"
+      },
+      {
+        "reference": "1 Peter 5:4",
+        "original": "1 Pet. 5:4"
+      },
+      {
+        "reference": "1 Samuel 17:34",
+        "original": "1 Sam. 17:34"
+      },
+      {
+        "reference": "Genesis 30:29",
+        "original": "Genesis 30:29"
+      },
+      {
+        "reference": "Genesis 29:6",
+        "original": "Genesis 29:6"
+      },
+      {
+        "reference": "Genesis 29:8",
+        "original": "Genesis 29:8"
+      },
+      {
+        "reference": "Exodus 2:10",
+        "original": "Exodus 2:10"
+      },
+      {
+        "reference": "Numbers 32:1",
+        "original": "Numbers 32:1"
+      },
+      {
+        "reference": "Genesis 31:40",
+        "original": "Genesis 31:40"
+      },
+      {
+        "reference": "Amos 7:14",
+        "original": "Amos 7:14"
+      },
+      {
+        "reference": "Luke 15:16",
+        "original": "Luke 15:16"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matthew 3:4"
+      },
+      {
+        "reference": "Isaiah 31:4",
+        "original": "Isaiah 31:4"
+      },
+      {
+        "reference": "Jeremiah 5:6",
+        "original": "Jeremiah 5:6"
+      },
+      {
+        "reference": "Amos 5:12",
+        "original": "Amos 5:12"
+      },
+      {
+        "reference": "Genesis 31:39",
+        "original": "Genesis 31:39"
+      },
+      {
+        "reference": "Jeremiah 43:12",
+        "original": "Jeremiah 43:12"
+      },
+      {
+        "reference": "1 Samuel 17:40",
+        "original": "1 Samuel 17:40"
+      },
+      {
+        "reference": "Psalms 23:4",
+        "original": "Psalms 23:4"
+      },
+      {
+        "reference": "Zechariah 11:7",
+        "original": "Zechariah 11:7"
+      },
+      {
+        "reference": "Jeremiah 35:7",
+        "original": "Jeremiah 35:7"
+      },
+      {
+        "reference": "Isaiah 38:12",
+        "original": "Isaiah 38:12"
+      },
+      {
+        "reference": "2 Chronicles 26:10",
+        "original": "2 Chronicles 26:10"
+      },
+      {
+        "reference": "2 Chronicles 27:4",
+        "original": "2 Chronicles 27:4"
+      },
+      {
+        "reference": "Genesis 35:21",
+        "original": "Genesis 35:21"
+      },
+      {
+        "reference": "Micah 4:8",
+        "original": "Micah 4:8"
+      },
+      {
+        "reference": "John 10:4",
+        "original": "John 10:4"
+      },
+      {
+        "reference": "Job 30:1",
+        "original": "Job 30:1"
+      },
+      {
+        "reference": "Ezekiel 34:12",
+        "original": "Ezekiel 34:12"
+      },
+      {
+        "reference": "Luke 15:4",
+        "original": "Luke 15:4"
+      },
+      {
+        "reference": "Genesis 29:7",
+        "original": "Genesis 29:7"
+      },
+      {
+        "reference": "Genesis 30:38",
+        "original": "Genesis 30:38"
+      },
+      {
+        "reference": "Exodus 2:16",
+        "original": "Exodus 2:16"
+      },
+      {
+        "reference": "Psalms 23:2",
+        "original": "Psalms 23:2"
+      },
+      {
+        "reference": "Leviticus 27:32",
+        "original": "Leviticus 27:32"
+      },
+      {
+        "reference": "Ezekiel 20:37",
+        "original": "Ezekiel 20:37"
+      },
+      {
+        "reference": "Jeremiah 33:13",
+        "original": "Jeremiah 33:13"
+      },
+      {
+        "reference": "John 10:3",
+        "original": "John 10:3"
+      },
+      {
+        "reference": "Luke 2:8",
+        "original": "Luke 2:8"
+      },
+      {
+        "reference": "Genesis 33:13",
+        "original": "Genesis 33:13"
+      },
+      {
+        "reference": "Genesis 47:6",
+        "original": "Genesis 47:6"
+      },
+      {
+        "reference": "1 Samuel 21:7",
+        "original": "1 Samuel 21:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "shewbread": {
+    "name": "pan de la proposición",
+    "slug": "shewbread",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ex. 25:30 (R.V. marg., “pan de presencia”); 1 Cr. 9:32 (marg., “pan de ordenar”); Núm. 4:7: llamado “pan santo” (R.V., “pan santo”) en 1 Sam. 21:1-6. Este pan constaba de doce panes hechos con la mejor harina. Eran planos y delgados, y estaban colocados en dos filas de seis cada una sobre una mesa en el lugar santo delante del Señor. Se renovaban cada sábado (Levítico 24:5-9), y los que eran removidos para dar lugar a los nuevos debían ser comidos por los sacerdotes sólo en el lugar santo (ver 1 Sam. 21:3-6; comp. Mateo 12:3, 4). El número de los panes representaba a las doce tribus de Israel, y también a todo el Israel espiritual, \"el verdadero Israel\"; y colocarlos sobre la mesa simbolizaba la entera consagración de Israel al Señor y su aceptación de Dios como su Dios. La mesa para el pan estaba hecha de madera de acacia y medía 3 pies de largo, 18 pulgadas de ancho y 2 pies y 3 pulgadas de alto. Estaba bañado en oro puro. Para transportarlo se utilizaban dos bastones bañados en oro y pasados ​​por anillos de oro."
+      },
+      {
+        "source": "SMI",
+        "text": "(Éxodo 25:30; 35:13; 39:36) etc. literalmente “pan de la cara” o “rostros”. El pan de la proposición era pan sin levadura colocado sobre una mesa que estaba en el santuario junto con el candelero de siete brazos y el altar del incienso. Consulte (Éxodo 25:23-30) para obtener una descripción de esta tabla. Cada sábado se colocaban sobre él doce panes recién horneados, que representaban a las doce tribus de Israel, en dos filas, seis en cada una, y se rociaban con incienso, donde permanecían hasta el sábado siguiente. Luego fueron reemplazados por doce nuevos, se quemó incienso y los sacerdotes los comieron en el lugar santo, del cual no podían ser retirados. El título \"pan del rostro\" parece indicar ese pan a través del cual se ve a Dios, es decir, con cuya participación está ligada la visión de Dios, o mediante cuya participación el hombre alcanza la vista de Dios, de donde se sigue que no debemos pensar en el pan simplemente como un medio para nutrir la vida corporal, sino como alimento espiritual como medio para apropiarse y retener esa vida que consiste en ver el rostro de Dios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:30",
+        "original": "Ex. 25:30"
+      },
+      {
+        "reference": "1 Chronicles 9:32",
+        "original": "1 Chr. 9:32"
+      },
+      {
+        "reference": "Numbers 4:7",
+        "original": "Num. 4:7"
+      },
+      {
+        "reference": "1 Samuel 21:1-6",
+        "original": "1 Sam. 21:1-6"
+      },
+      {
+        "reference": "Leviticus 24:5-9",
+        "original": "Lev. 24:5-9"
+      },
+      {
+        "reference": "1 Samuel 21:3-6",
+        "original": "1 Sam. 21:3-6"
+      },
+      {
+        "reference": "Matthew 12:3",
+        "original": "Matt. 12:3"
+      },
+      {
+        "reference": "Matthew 12:4",
+        "original": "Matt. 12:4"
+      },
+      {
+        "reference": "Exodus 35:13",
+        "original": "Exodus 35:13"
+      },
+      {
+        "reference": "Exodus 39:36",
+        "original": "Exodus 39:36"
+      },
+      {
+        "reference": "Exodus 25:23-30",
+        "original": "Exodus 25:23-30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "silver": {
+    "name": "Plata",
+    "slug": "silver",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se utiliza para una gran variedad de propósitos, como se puede juzgar por las frecuentes referencias a él en las Escrituras. Aparece por primera vez en el comercio en Génesis 13:2; 23:15, 16. Se empleaba en gran medida para fabricar vasos para el santuario en el desierto (Éxo. 26:19; 27:17; Núm. 7:13, 19; 10:2). No hay constancia de que haya sido encontrado en Siria o Palestina. Fue traído en grandes cantidades por comerciantes extranjeros del extranjero, probablemente de España, la India y otros países."
+      },
+      {
+        "source": "SMI",
+        "text": "En tiempos muy antiguos la plata se usaba para adornos (Génesis 24:53) y para vasijas de diversas clases. Las imágenes para el culto idólatra estaban hechas de plata o recubiertas con ella (Éxodo 20:23; Oseas 13:2); Hab 2:19 Bar. 6:39, y la fabricación de altares de plata para Diana era un comercio en Éfeso. (Hechos 19:24) Pero su uso principal era como medio de cambio, y en todo el Antiguo Testamento encontramos que la “plata” se utiliza como dinero, como el argent francés. La plata fue traída a Salomón desde Arabia (2 Crónicas 9:14) y desde Tarsis (2 Crónicas 9:21), que abastecía los mercados de Tiro. (Ezequiel 27:12) De Tarsis vino en forma de planchas (Jeremías 10:9) como aquellas en las que están escritos los libros sagrados de los cingaleses hasta el día de hoy. España parece haber sido la principal fuente de donde los antiguos obtenían la plata. Posiblemente las colinas de Palestina hayan proporcionado algún suministro de este metal. En (Jeremías 6:30) se hace referencia a la plata mezclada con aleación y en (Proverbios 8:19) se menciona una clase más fina, ya sea más pura en sí misma o más completamente purificada."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 13:2",
+        "original": "Gen. 13:2"
+      },
+      {
+        "reference": "Genesis 23:15",
+        "original": "Gen 23:15"
+      },
+      {
+        "reference": "Genesis 23:16",
+        "original": "Gen 23:16"
+      },
+      {
+        "reference": "Exodus 26:19",
+        "original": "Ex. 26:19"
+      },
+      {
+        "reference": "Exodus 27:17",
+        "original": "Ex 27:17"
+      },
+      {
+        "reference": "Numbers 7:13",
+        "original": "Num. 7:13"
+      },
+      {
+        "reference": "Numbers 7:19",
+        "original": "Num. 7:19"
+      },
+      {
+        "reference": "Genesis 24:53",
+        "original": "Genesis 24:53"
+      },
+      {
+        "reference": "Exodus 20:23",
+        "original": "Exodus 20:23"
+      },
+      {
+        "reference": "Hosea 13:2",
+        "original": "Hosea 13:2"
+      },
+      {
+        "reference": "Bar 6:39",
+        "original": "Bar. 6:39"
+      },
+      {
+        "reference": "Acts 19:24",
+        "original": "Acts 19:24"
+      },
+      {
+        "reference": "2 Chronicles 9:14",
+        "original": "2 Chronicles 9:14"
+      },
+      {
+        "reference": "2 Chronicles 9:21",
+        "original": "2 Chronicles 9:21"
+      },
+      {
+        "reference": "Ezekiel 27:12",
+        "original": "Ezekiel 27:12"
+      },
+      {
+        "reference": "Jeremiah 10:9",
+        "original": "Jeremiah 10:9"
+      },
+      {
+        "reference": "Jeremiah 6:30",
+        "original": "Jeremiah 6:30"
+      },
+      {
+        "reference": "Proverbs 8:19",
+        "original": "Proverbs 8:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "silverling": {
+    "name": "plateado",
+    "slug": "silverling",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 7:23). Literalmente las palabras son “a mil de plata”, es decir, “piezas de plata” o siclos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 7:23",
+        "original": "Isa. 7:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "silverlings": {
+    "name": "Plateados",
+    "slug": "silverlings",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una palabra utilizada solo una vez en la versión autorizada (Isaías 7:23) como traducción de la palabra hebrea en otros lugares traducida como \"plata\" o \"dinero\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 7:23",
+        "original": "Isaiah 7:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "sin-wilderness-of": {
+    "name": "Pecado, desierto de",
+    "slug": "sin-wilderness-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Yaciendo entre Elim y el Sinaí (Éxodo 16:1; comp. Números 33:11, 12). Probablemente se trataba de la estrecha llanura de el-Markha, que se extiende a lo largo de la costa oriental del Mar Rojo durante varios kilómetros hacia el promontorio de Ras Mohammed, el extremo sur de la península Sinítica. Mientras los israelitas descansaban aquí algunos días, comenzaron a murmurar por la falta de alimento, ya que para entonces ya habían consumido todo el maíz que habían traído de Egipto. Dios escuchó sus murmuraciones y les dio “maná” y luego codornices en abundancia."
+      },
+      {
+        "source": "SMI",
+        "text": "una zona del desierto a la que llegaron los israelitas después de abandonar el campamento junto al Mar Rojo. (Números 33:11,23) Su siguiente lugar de parada (Éxodo 16:1; 17:1) fue Refidim, probablemente el Wady Feiran [Rephidim]; de cuya suposición se seguiría que Sin debe estar entre ese camino y la costa del Golfo de Suez y, por supuesto, al oeste del Sinaí. En el desierto de Sin se recogió por primera vez el maná, y quienes adoptan la suposición de que se trataba simplemente del producto natural del arbusto tarfa encuentran en la abundancia de ese arbusto en Wady es-Sheikh, al sureste de Wady Ghurundel, una prueba de identidad local."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:1",
+        "original": "Ex. 16:1"
+      },
+      {
+        "reference": "Numbers 33:11",
+        "original": "Num. 33:11"
+      },
+      {
+        "reference": "Numbers 33:12",
+        "original": "Num. 33:12"
+      },
+      {
+        "reference": "Numbers 33:23",
+        "original": "Numbers 33:23"
+      },
+      {
+        "reference": "Exodus 17:1",
+        "original": "Exodus 17:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "skin-coats-made-of": {
+    "name": "Piel, Abrigos hechos de",
+    "slug": "skin-coats-made-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Génesis 3:21). Se usaban pieles de carneros y tejones como cubierta para el tabernáculo (Éxodo 25:5; Números 4:8-14)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:21",
+        "original": "Gen. 3:21"
+      },
+      {
+        "reference": "Exodus 25:5",
+        "original": "Ex. 25:5"
+      },
+      {
+        "reference": "Numbers 4:8-14",
+        "original": "Num. 4:8-14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "solomons-porch": {
+    "name": "Porche de las Salomón",
+    "slug": "solomons-porch",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Palacio; Templo]."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "spring": {
+    "name": "Primavera",
+    "slug": "spring",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. 'ain, “la fuente abierta y brillante, el ojo del paisaje”). Debe distinguirse cuidadosamente de \"bien\" (q.v.). \"Manantiales\" mencionados en Josh. 10:40 (heb. ‘ashdoth) debería ser más bien “descensos” o “pendientes” (R.V.), es decir, el terreno ondulado que se extiende entre las tierras bajas (la sefelá) y la cadena central de colinas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 10:40",
+        "original": "Josh. 10:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "stone": {
+    "name": "Piedra",
+    "slug": "stone",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Las piedras se usaban comúnmente para edificios, también como memoriales de eventos importantes (Gén. 28:18; Josué 24:26, 27; 1 Sam. 7:12, etc.). Fueron recogidos de los campos cultivados (Isaías 5:2; comp. 2 Reyes 3:19). Esta palabra también se usa en sentido figurado para los creyentes (1 Ped. 2:4, 5) y para el Mesías (Sal. 118:22; Isa. 28:16; Mat. 21:42; Hechos 4:11, etc.). En Dan. 2:45 se refiere también al Mesías. Allí se le describe como “cortado del monte”. (Ver ROCA.) Un “corazón de piedra” denota gran insensibilidad (1 Sam. 25:37). Se colocaron piedras para conmemorar acontecimientos notables, como el de Jacob en Betel (Gén. 28:18), en Padan-aram (35:4) y con ocasión de su separación de Labán (31:45-47); por Josué en el lugar a orillas del Jordán donde el pueblo “se alojó” por primera vez después de cruzar el río (Josué 6:8), y también en “medio del Jordán”, donde erigió otro conjunto de doce piedras (4:1-9); y por Samuel en “Ebenezer” (1 Sam. 7:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 28:18",
+        "original": "Gen. 28:18"
+      },
+      {
+        "reference": "Joshua 24:26",
+        "original": "Josh. 24:26"
+      },
+      {
+        "reference": "Joshua 24:27",
+        "original": "Josh. 24:27"
+      },
+      {
+        "reference": "1 Samuel 7:12",
+        "original": "1 Sam. 7:12"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isa. 5:2"
+      },
+      {
+        "reference": "2 Kings 3:19",
+        "original": "2 Kings 3:19"
+      },
+      {
+        "reference": "1 Peter 2:4",
+        "original": "1 Pet. 2:4"
+      },
+      {
+        "reference": "1 Peter 2:5",
+        "original": "1 Pet. 2:5"
+      },
+      {
+        "reference": "Psalms 118:22",
+        "original": "Ps. 118:22"
+      },
+      {
+        "reference": "Isaiah 28:16",
+        "original": "Isa. 28:16"
+      },
+      {
+        "reference": "Matthew 21:42",
+        "original": "Matt. 21:42"
+      },
+      {
+        "reference": "Acts 4:11",
+        "original": "Acts 4:11"
+      },
+      {
+        "reference": "Daniel 2:45",
+        "original": "Dan. 2:45"
+      },
+      {
+        "reference": "1 Samuel 25:37",
+        "original": "1 Sam. 25:37"
+      },
+      {
+        "reference": "Joshua 6:8",
+        "original": "Josh. 6:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "stones": {
+    "name": "piedras",
+    "slug": "stones",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Además de los usos ordinarios a los que se aplicaban las piedras, podemos mencionar que se colocaban grandes piedras para conmemorar cualquier acontecimiento notable. (Génesis 28:18; 35:14; 31:45; Josué 4:9; 1 Samuel 7:12) En ocasiones, estas piedras eran consagradas mediante unción. (Génesis 28:18) Se amontonaron montones de piedras en varias ocasiones, como en señal de un tratado (Génesis 31:47) o sobre la tumba de algún delincuente notorio. (Josué 7:26; 8:29; 2 Samuel 18:17.) Se ha considerado de diversas maneras que la “piedra blanca” que se menciona en (Apocalipsis 2:17) se refiere al guijarro de absolución que se usaba en los tribunales griegos; a la suerte echada en las elecciones en Grecia para ambos combinados; a las piedras del pectoral del sumo sacerdote; a las entradas entregadas al vencedor en los juegos públicos; o, por último, a la costumbre de escribir sobre piedras. Jerónimo remite el aviso en (Zacarías 12:3) de la “piedra gravosa” a la costumbre de levantar piedras como ejercicio de fuerza, comp. Eclus. 6:21; pero también se puede explicar que una gran piedra angular es un símbolo de fuerza. (Isaías 28:16) Las piedras se usan metafóricamente para denotar dureza o insensibilidad (1 Samuel 25:37; Ezequiel 11:19; 36:26), así como firmeza o fuerza. (Génesis 49:24) A los miembros de la Iglesia se les llama “piedras vivas”, porque contribuyen a levantar ese templo viviente en el que Cristo, él mismo “una piedra viva”, es el jefe o cabeza del ángulo. (Efesios 2:20-22; 1 Pedro 2:4-8)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 28:18",
+        "original": "Genesis 28:18"
+      },
+      {
+        "reference": "Genesis 35:14",
+        "original": "Genesis 35:14"
+      },
+      {
+        "reference": "Genesis 31:45",
+        "original": "Genesis 31:45"
+      },
+      {
+        "reference": "Joshua 4:9",
+        "original": "Joshua 4:9"
+      },
+      {
+        "reference": "1 Samuel 7:12",
+        "original": "1 Samuel 7:12"
+      },
+      {
+        "reference": "Genesis 31:47",
+        "original": "Genesis 31:47"
+      },
+      {
+        "reference": "Joshua 7:26",
+        "original": "Joshua 7:26"
+      },
+      {
+        "reference": "Joshua 8:29",
+        "original": "Joshua 8:29"
+      },
+      {
+        "reference": "2 Samuel 18:17",
+        "original": "2 Samuel 18:17"
+      },
+      {
+        "reference": "Revelation 2:17",
+        "original": "Revelation 2:17"
+      },
+      {
+        "reference": "Zechariah 12:3",
+        "original": "Zechariah 12:3"
+      },
+      {
+        "reference": "Sir 6:21",
+        "original": "Ecclus. 6:21"
+      },
+      {
+        "reference": "Isaiah 28:16",
+        "original": "Isaiah 28:16"
+      },
+      {
+        "reference": "1 Samuel 25:37",
+        "original": "1 Samuel 25:37"
+      },
+      {
+        "reference": "Ezekiel 11:19",
+        "original": "Ezekiel 11:19"
+      },
+      {
+        "reference": "Ezekiel 36:26",
+        "original": "Ezekiel 36:26"
+      },
+      {
+        "reference": "Genesis 49:24",
+        "original": "Genesis 49:24"
+      },
+      {
+        "reference": "Ephesians 2:20-22",
+        "original": "Ephesians 2:20-22"
+      },
+      {
+        "reference": "1 Peter 2:4-8",
+        "original": "1 Peter 2:4-8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "stones-precious": {
+    "name": "Piedras, Preciosas",
+    "slug": "stones-precious",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Frecuentemente referido (1 Reyes 10:2; 2 Crónicas 3:6; 9:10; Apocalipsis 18:16; 21:19). Hay una veintena de nombres diferentes para estas piedras en la Biblia. Se introducen en sentido figurado para denotar valor, belleza y durabilidad (Cant. 5:14; Isa. 54:11, 12; Lam. 4:7)."
+      },
+      {
+        "source": "SMI",
+        "text": "En las Escrituras se alude con frecuencia a las piedras preciosas; eran conocidos y muy valorados en los primeros tiempos. Los tirios comerciaban con piedras preciosas suministradas por Siria. (Ezequiel 27:16.) Los comerciantes de Saba y Rama en el sur de Arabia, y sin duda de la India y Ceilán, abastecían los mercados de Tiro con diversas piedras preciosas. El arte del grabado sobre piedras preciosas se conoce desde los tiempos más remotos. (Génesis 38:18) Las doce expiaciones del pectoral estaban grabadas cada una con el nombre de una de las tribus. (Éxodo 28:17-21.) Aún no se ha decidido si las primeras naciones de la antigüedad conocían el diamante. La versión autorizada da si como la traducción del heb. yahalom, pero es probable que se trate del jaspe. Las piedras preciosas se utilizan en las Escrituras en sentido figurado, para significar valor, belleza, durabilidad, etc., en aquellos objetos con los que se comparan. Ver (Cantares de los Cantares 5:14; Isaías 54:11,12; Lamentaciones 4:7; Apocalipsis 4:3; 21:10,21)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:2",
+        "original": "1 Kings 10:2"
+      },
+      {
+        "reference": "2 Chronicles 3:6",
+        "original": "2 Chr. 3:6"
+      },
+      {
+        "reference": "2 Chronicles 9:10",
+        "original": "2 Chr. 9:10"
+      },
+      {
+        "reference": "Revelation 18:16",
+        "original": "Rev. 18:16"
+      },
+      {
+        "reference": "Revelation 21:19",
+        "original": "Rev 21:19"
+      },
+      {
+        "reference": "Song of Solomon 5:14",
+        "original": "Cant. 5:14"
+      },
+      {
+        "reference": "Isaiah 54:11",
+        "original": "Isa 54:11"
+      },
+      {
+        "reference": "Isaiah 54:12",
+        "original": "Isa 54:12"
+      },
+      {
+        "reference": "Lamentations 4:7",
+        "original": "Lam. 4:7"
+      },
+      {
+        "reference": "Ezekiel 27:16",
+        "original": "Ezekiel 27:16"
+      },
+      {
+        "reference": "Genesis 38:18",
+        "original": "Genesis 38:18"
+      },
+      {
+        "reference": "Exodus 28:17-21",
+        "original": "Exodus 28:17-21"
+      },
+      {
+        "reference": "Revelation 4:3",
+        "original": "Revelation 4:3"
+      },
+      {
+        "reference": "Revelation 21:10",
+        "original": "Revelation 21:10"
+      },
+      {
+        "reference": "Revelation 21:21",
+        "original": "Revelation 21:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "straw": {
+    "name": "Paja",
+    "slug": "straw",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado en la fabricación de ladrillos (Éxodo 5:7-18). Usado en sentido figurado en Job 41:27; Isa. 11:7; 25:10; 65:25."
+      },
+      {
+        "source": "SMI",
+        "text": "Los antiguos hebreos utilizaban tanto el trigo como la paja de cebada principalmente como forraje para los caballos, el ganado y los camellos. (Génesis 24:25; 1 Reyes 4:28; Isaías 11:7; 66:25.) No hay indicios de que se utilizara paja como basura. Los egipcios lo empleaban para fabricar ladrillos (Éxodo 5:7,16), cortándolo y mezclándolo con arcilla para hacerlos más compactos y evitar que se agrietaran. [Ver Ladrillo] Los antiguos egipcios cosechaban el maíz cerca de la espiga y luego cortaban la paja cerca del suelo y la dejaban a un lado. Esta fue la paja que Faraón se negó a dar a los israelitas, quienes, por lo tanto, se vieron obligados a recolectar \"rastrojo\", una cuestión de considerable dificultad, ya que la paja misma había sido cortada cerca del suelo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 5:7-18",
+        "original": "Ex. 5:7-18"
+      },
+      {
+        "reference": "Job 41:27",
+        "original": "Job 41:27"
+      },
+      {
+        "reference": "Isaiah 11:7",
+        "original": "Isa. 11:7"
+      },
+      {
+        "reference": "Isaiah 25:10",
+        "original": "Isa 25:10"
+      },
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isa 65:25"
+      },
+      {
+        "reference": "Genesis 24:25",
+        "original": "Genesis 24:25"
+      },
+      {
+        "reference": "1 Kings 4:28",
+        "original": "1 Kings 4:28"
+      },
+      {
+        "reference": "Isaiah 66:25",
+        "original": "Isaiah 66:25"
+      },
+      {
+        "reference": "Exodus 5:7",
+        "original": "Exodus 5:7"
+      },
+      {
+        "reference": "Exodus 5:16",
+        "original": "Exodus 5:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "tappush": {
+    "name": "Pulsar",
+    "slug": "tappush",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(la ciudad de las manzanas)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:34",
+        "original": "Joshua 15:34"
+      },
+      {
+        "reference": "Joshua 16:8",
+        "original": "Joshua 16:8"
+      },
+      {
+        "reference": "Joshua 17:8",
+        "original": "Joshua 17:8"
+      },
+      {
+        "reference": "Joshua 17:7",
+        "original": "Joshua 17:7"
+      },
+      {
+        "reference": "1 Chronicles 2:43",
+        "original": "1 Chronicles 2:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "toll": {
+    "name": "Peaje",
+    "slug": "toll",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una de las ramas de los ingresos del rey de Persia (Esdras 4:13; 7:24), probablemente un impuesto cobrado a quienes usaban los puentes, vados y carreteras."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 4:13",
+        "original": "Ezra 4:13"
+      },
+      {
+        "reference": "Ezra 7:24",
+        "original": "Ezra 7:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "villages": {
+    "name": "Pueblos",
+    "slug": "villages",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Jueces 5:7, 11). La palabra hebrea así traducida (perazon) significa habitaciones en campo abierto, aldeas sin murallas (Deut. 3:5; 1 Sam. 6:18). Otros, sin embargo, siguen la LXX. y las versiones Vulgata traducen la palabra “gobernantes”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 5:7",
+        "original": "Judg. 5:7"
+      },
+      {
+        "reference": "Judges 5:11",
+        "original": "Judg. 5:11"
+      },
+      {
+        "reference": "Deuteronomy 3:5",
+        "original": "Deut. 3:5"
+      },
+      {
+        "reference": "1 Samuel 6:18",
+        "original": "1 Sam. 6:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "walls": {
+    "name": "Paredes",
+    "slug": "walls",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Sólo es necesario señalar algunos puntos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 6:48",
+        "original": "Luke 6:48"
+      },
+      {
+        "reference": "Numbers 22:24",
+        "original": "Numbers 22:24"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "ward": {
+    "name": "Pabellón",
+    "slug": "ward",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una prisión (Génesis 40:3, 4); una estación de vigilancia (Isaías 21:8); un guardia (Nehemías 13:30)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:3",
+        "original": "Gen. 40:3"
+      },
+      {
+        "reference": "Genesis 40:4",
+        "original": "Gen. 40:4"
+      },
+      {
+        "reference": "Isaiah 21:8",
+        "original": "Isa. 21:8"
+      },
+      {
+        "reference": "Nehemiah 13:30",
+        "original": "Neh. 13:30"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "weights": {
+    "name": "Pesos",
+    "slug": "weights",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Reducidos al peso troy inglés, los pesos hebreos eran: (1.) El gerah (Levítico 27:25; Números 3:47), una palabra hebrea que significa grano o semilla y, por tanto, un peso pequeño. Era la vigésima parte de un siclo y equivalía a 12 granos. (2.) Bekah (Éxodo 38:26), que significa “la mitad”, es decir, “medio siclo”, equivalente a 5 centavos. (3.) Shekel, “un peso”, sólo en el Antiguo Testamento, y frecuentemente en su forma original (Gén. 23:15, 16; Éxo. 21:32; 30:13, 15; 38:24-29, etc.). Era igual a 10 pennyweight. (4.) Ma’neh, “una parte” o “porción” (Ezequiel 45:12), igual a 60 siclos, es decir, 2 libras. 6 onzas (5.) Talento de plata (2 Reyes 5:22), equivalente a 3.000 siclos, es decir, 125 libras. (6.) Talento de oro (Éxodo 25:39), el doble del anterior, es decir, 250 libras."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 27:25",
+        "original": "Lev. 27:25"
+      },
+      {
+        "reference": "Numbers 3:47",
+        "original": "Num. 3:47"
+      },
+      {
+        "reference": "Exodus 38:26",
+        "original": "Ex. 38:26"
+      },
+      {
+        "reference": "Genesis 23:15",
+        "original": "Gen. 23:15"
+      },
+      {
+        "reference": "Genesis 23:16",
+        "original": "Gen. 23:16"
+      },
+      {
+        "reference": "Exodus 21:32",
+        "original": "Ex. 21:32"
+      },
+      {
+        "reference": "Exodus 30:13",
+        "original": "Ex 30:13"
+      },
+      {
+        "reference": "Exodus 30:15",
+        "original": "Ex 30:15"
+      },
+      {
+        "reference": "Exodus 38:24-29",
+        "original": "Ex 38:24-29"
+      },
+      {
+        "reference": "Ezekiel 45:12",
+        "original": "Ezek. 45:12"
+      },
+      {
+        "reference": "2 Kings 5:22",
+        "original": "2 Kings 5:22"
+      },
+      {
+        "reference": "Exodus 25:39",
+        "original": "Ex. 25:39"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "weights-and-measures": {
+    "name": "Pesos y medidas",
+    "slug": "weights-and-measures",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A. PESOS.—El principio general de la presente investigación es dar preferencia a la evidencia de los monumentos en todos los puntos dudosos. Todos los sistemas de peso griegos antiguos se derivaron, directa o indirectamente, de una fuente oriental. Los sistemas más antiguos de la antigua Grecia y Persia fueron el eginetano, el ático, el babilónico y el eubeico."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 6:15",
+        "original": "Genesis 6:15"
+      },
+      {
+        "reference": "Genesis 6:16",
+        "original": "Genesis 6:16"
+      },
+      {
+        "reference": "Genesis 7:20",
+        "original": "Genesis 7:20"
+      },
+      {
+        "reference": "Jeremiah 52:21",
+        "original": "Jeremiah 52:21"
+      },
+      {
+        "reference": "Exodus 25:25",
+        "original": "Exodus 25:25"
+      },
+      {
+        "reference": "1 Kings 7:26",
+        "original": "1 Kings 7:26"
+      },
+      {
+        "reference": "2 Chronicles 4:5",
+        "original": "2 Chronicles 4:5"
+      },
+      {
+        "reference": "Psalms 39:5",
+        "original": "Psalms 39:5"
+      },
+      {
+        "reference": "Exodus 28:16",
+        "original": "Exodus 28:16"
+      },
+      {
+        "reference": "1 Samuel 17:4",
+        "original": "1 Samuel 17:4"
+      },
+      {
+        "reference": "Ezekiel 43:13",
+        "original": "Ezekiel 43:13"
+      },
+      {
+        "reference": "Isaiah 40:12",
+        "original": "Isaiah 40:12"
+      },
+      {
+        "reference": "Ezekiel 40:5-8",
+        "original": "Ezekiel 40:5-8"
+      },
+      {
+        "reference": "Ezekiel 41:8",
+        "original": "Ezekiel 41:8"
+      },
+      {
+        "reference": "Ezekiel 42:16-29",
+        "original": "Ezekiel 42:16-29"
+      },
+      {
+        "reference": "2 Samuel 6:13",
+        "original": "2 Samuel 6:13"
+      },
+      {
+        "reference": "Matthew 5:41",
+        "original": "Matthew 5:41"
+      },
+      {
+        "reference": "Genesis 30:36",
+        "original": "Genesis 30:36"
+      },
+      {
+        "reference": "Genesis 31:23",
+        "original": "Genesis 31:23"
+      },
+      {
+        "reference": "Exodus 3:18",
+        "original": "Exodus 3:18"
+      },
+      {
+        "reference": "Exodus 5:3",
+        "original": "Exodus 5:3"
+      },
+      {
+        "reference": "Numbers 10:33",
+        "original": "Numbers 10:33"
+      },
+      {
+        "reference": "Numbers 11:31",
+        "original": "Numbers 11:31"
+      },
+      {
+        "reference": "Numbers 33:8",
+        "original": "Numbers 33:8"
+      },
+      {
+        "reference": "Numbers 1:2",
+        "original": "Numbers 1:2"
+      },
+      {
+        "reference": "1 Kings 19:4",
+        "original": "1 Kings 19:4"
+      },
+      {
+        "reference": "2 Kings 3:9",
+        "original": "2 Kings 3:9"
+      },
+      {
+        "reference": "Jonah 3:3",
+        "original": "Jonah 3:3"
+      },
+      {
+        "reference": "1Macc 5:24",
+        "original": "1 Macc. 5:24"
+      },
+      {
+        "reference": "1Macc 7:45",
+        "original": "1 Macc. 7:45"
+      },
+      {
+        "reference": "Tob 6:1",
+        "original": "Tobit 6:1"
+      },
+      {
+        "reference": "Luke 2:44",
+        "original": "Luke 2:44"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Exodus 16:29",
+        "original": "Exodus 16:29"
+      },
+      {
+        "reference": "Numbers 35:5",
+        "original": "Numbers 35:5"
+      },
+      {
+        "reference": "2Macc 11:5",
+        "original": "2 Macc. 11:5"
+      },
+      {
+        "reference": "2Macc 12:9",
+        "original": "2 Macc. 12:9"
+      },
+      {
+        "reference": "2Macc 12:17",
+        "original": "2 Macc. 12:17"
+      },
+      {
+        "reference": "2Macc 12:29",
+        "original": "2 Macc. 12:29"
+      },
+      {
+        "reference": "Luke 24:13",
+        "original": "Luke 24:13"
+      },
+      {
+        "reference": "John 6:19",
+        "original": "John 6:19"
+      },
+      {
+        "reference": "John 11:18",
+        "original": "John 11:18"
+      },
+      {
+        "reference": "Revelation 14:20",
+        "original": "Revelation 14:20"
+      },
+      {
+        "reference": "Revelation 21:18",
+        "original": "Revelation 21:18"
+      },
+      {
+        "reference": "Numbers 35:4",
+        "original": "Numbers 35:4"
+      },
+      {
+        "reference": "Ezekiel 40:27",
+        "original": "Ezekiel 40:27"
+      },
+      {
+        "reference": "Ezekiel 42:16-19",
+        "original": "Ezekiel 42:16-19"
+      },
+      {
+        "reference": "Revelation 21:16",
+        "original": "Revelation 21:16"
+      },
+      {
+        "reference": "Leviticus 14:10",
+        "original": "Leviticus 14:10"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Exodus 29:40"
+      },
+      {
+        "reference": "Exodus 30:24",
+        "original": "Exodus 30:24"
+      },
+      {
+        "reference": "Numbers 15:4",
+        "original": "Numbers 15:4"
+      },
+      {
+        "reference": "Numbers 15:7",
+        "original": "Numbers 15:7"
+      },
+      {
+        "reference": "Numbers 15:8",
+        "original": "Numbers 15:8"
+      },
+      {
+        "reference": "Ezekiel 4:11",
+        "original": "Ezekiel 4:11"
+      },
+      {
+        "reference": "1 Kings 7:38",
+        "original": "1 Kings 7:38"
+      },
+      {
+        "reference": "2 Chronicles 2:10",
+        "original": "2 Chronicles 2:10"
+      },
+      {
+        "reference": "Ezra 7:22",
+        "original": "Ezra 7:22"
+      },
+      {
+        "reference": "Isaiah 5:10",
+        "original": "Isaiah 5:10"
+      },
+      {
+        "reference": "2 Kings 6:25",
+        "original": "2 Kings 6:25"
+      },
+      {
+        "reference": "Exodus 16:16-36",
+        "original": "Exodus 16:16-36"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Genesis 18:6"
+      },
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Samuel 25:18"
+      },
+      {
+        "reference": "2 Kings 7:1",
+        "original": "2 Kings 7:1"
+      },
+      {
+        "reference": "2 Kings 7:16",
+        "original": "2 Kings 7:16"
+      },
+      {
+        "reference": "Matthew 13:33",
+        "original": "Matthew 13:33"
+      },
+      {
+        "reference": "Luke 13:21",
+        "original": "Luke 13:21"
+      },
+      {
+        "reference": "Exodus 16:36",
+        "original": "Exodus 16:36"
+      },
+      {
+        "reference": "Leviticus 5:11",
+        "original": "Leviticus 5:11"
+      },
+      {
+        "reference": "Leviticus 6:20",
+        "original": "Leviticus 6:20"
+      },
+      {
+        "reference": "Numbers 5:15",
+        "original": "Numbers 5:15"
+      },
+      {
+        "reference": "Numbers 28:5",
+        "original": "Numbers 28:5"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judges 6:19"
+      },
+      {
+        "reference": "Ruth 2:17",
+        "original": "Ruth 2:17"
+      },
+      {
+        "reference": "1 Samuel 1:24",
+        "original": "1 Samuel 1:24"
+      },
+      {
+        "reference": "1 Samuel 17:17",
+        "original": "1 Samuel 17:17"
+      },
+      {
+        "reference": "Ezekiel 45:11",
+        "original": "Ezekiel 45:11"
+      },
+      {
+        "reference": "Ezekiel 45:13",
+        "original": "Ezekiel 45:13"
+      },
+      {
+        "reference": "Ezekiel 46:5",
+        "original": "Ezekiel 46:5"
+      },
+      {
+        "reference": "Ezekiel 46:7",
+        "original": "Ezekiel 46:7"
+      },
+      {
+        "reference": "Ezekiel 46:11",
+        "original": "Ezekiel 46:11"
+      },
+      {
+        "reference": "Ezekiel 46:14",
+        "original": "Ezekiel 46:14"
+      },
+      {
+        "reference": "Hosea 3:2",
+        "original": "Hosea 3:2"
+      },
+      {
+        "reference": "Leviticus 27:16",
+        "original": "Leviticus 27:16"
+      },
+      {
+        "reference": "Numbers 11:32",
+        "original": "Numbers 11:32"
+      },
+      {
+        "reference": "1 Kings 4:22",
+        "original": "1 Kings 4:22"
+      },
+      {
+        "reference": "1 Kings 5:11",
+        "original": "1 Kings 5:11"
+      },
+      {
+        "reference": "2 Chronicles 27:5",
+        "original": "2 Chronicles 27:5"
+      },
+      {
+        "reference": "Ezekiel 45:14",
+        "original": "Ezekiel 45:14"
+      },
+      {
+        "reference": "Luke 16:7",
+        "original": "Luke 16:7"
+      },
+      {
+        "reference": "John 2:6",
+        "original": "John 2:6"
+      },
+      {
+        "reference": "Revelation 6:6",
+        "original": "Revelation 6:6"
+      },
+      {
+        "reference": "Mark 7:4",
+        "original": "Mark 7:4"
+      },
+      {
+        "reference": "Mark 7:8",
+        "original": "Mark 7:8"
+      },
+      {
+        "reference": "Matthew 5:15",
+        "original": "Matthew 5:15"
+      },
+      {
+        "reference": "Mark 4:21",
+        "original": "Mark 4:21"
+      },
+      {
+        "reference": "Luke 11:33",
+        "original": "Luke 11:33"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "p"
+  },
+  "word-of-god": {
+    "name": "Palabra de Dios",
+    "slug": "word-of-god",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Hebreos 4:12, etc.). La Biblia se llama así porque los escritores de sus diversos libros fueron los órganos de Dios para comunicar su voluntad a los hombres. Es su “palabra”, porque nos habla en sus páginas sagradas. Cualquier cosa que los escritores inspirados declaren aquí como verdadera y vinculante para nosotros, Dios declara que es verdadera y vinculante. Esta palabra es infalible, porque está escrita bajo la guía del Espíritu Santo y, por tanto, libre de todo error de hecho, doctrina o precepto. (Ver INSPIRACIÓN; BIBLIA.) Todo conocimiento salvador se obtiene de la palabra de Dios. En el caso de los adultos, es un medio indispensable de salvación, y es eficaz para ello por la influencia misericordiosa del Espíritu Santo (Juan 17:17; 2 Timoteo 3:15, 16; 1 Pedro 1:23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hebrews 4:12",
+        "original": "Heb. 4:12"
+      },
+      {
+        "reference": "John 17:17",
+        "original": "John 17:17"
+      },
+      {
+        "reference": "2 Timothy 3:15",
+        "original": "2 Tim. 3:15"
+      },
+      {
+        "reference": "2 Timothy 3:16",
+        "original": "2 Tim. 3:16"
+      },
+      {
+        "reference": "1 Peter 1:23",
+        "original": "1 Pet. 1:23"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
+  },
+  "word-the": {
+    "name": "palabra, la",
+    "slug": "word-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. Logos), uno de los títulos de nuestro Señor, que se encuentra sólo en los escritos de Juan (Juan 1:1-14; 1 Juan 1:1; Apocalipsis 19:13). Como tal, Cristo es el revelador de Dios. Su oficio es dar a conocer a Dios. “A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha declarado” (Juan 1:18). Este título designa la naturaleza divina de Cristo. Como Verbo, él “estaba en el principio” y “se hizo carne”. “El Verbo estaba con Dios” y “era Dios”, y era el Creador de todas las cosas (comp. Sal. 33:6; 107:20; 119:89; 147:18; Isa. 40:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 1:1-14",
+        "original": "John 1:1-14"
+      },
+      {
+        "reference": "1 John 1:1",
+        "original": "1 John 1:1"
+      },
+      {
+        "reference": "Revelation 19:13",
+        "original": "Rev. 19:13"
+      },
+      {
+        "reference": "John 1:18",
+        "original": "John 1:18"
+      },
+      {
+        "reference": "Psalms 33",
+        "original": "Ps. 33"
+      },
+      {
+        "reference": "Isaiah 40:8",
+        "original": "Isa. 40:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "p"
   }
 }

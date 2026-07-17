@@ -14878,5 +14878,72 @@
       "SMI"
     ],
     "letter": "j"
+  },
+  "righteousness": {
+    "name": "Justicia",
+    "slug": "righteousness",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ver JUSTIFICACIÓN."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "j"
+  },
+  "soap": {
+    "name": "Jabón",
+    "slug": "soap",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Jer. 2:22; Mal. 3:2; heb. borith), propiamente un álcali vegetal, obtenido de las cenizas de ciertas plantas, particularmente la salsola kali (salwort), que abunda en las costas del Mar Muerto y del Mediterráneo. No parece que los hebreos conocieran lo que hoy se llama “jabón”, que es un compuesto de carbonatos alcalinos con materia oleaginosa. La palabra “puramente” en Isa. 1:25 (R.V., “completamente”; marg., “como con lejía”) está encendido. “como con bor”. Esta palabra significa \"claridad\" y, por tanto, también lo que hace que el álcali sea claro o puro. “Los antiguos usaban álcali mezclado con aceite, en lugar de jabón (Job 9:30), y también en la fundición de metales, para hacerlos fundir y fluir más fácilmente y puramente” (Gesenius)."
+      },
+      {
+        "source": "SMI",
+        "text": "El término hebreo borith es un término general para cualquier sustancia con cualidades limpiadoras. Sin embargo, como aparece en (Jeremías 2:22) en contraposición a nether, que sin duda significa \"natrón\" o álcali mineral, es justo inferir que borith se refiere a álcali vegetal, o algún tipo de potasa, que forma uno de los ingredientes habituales de nuestro jabón. En Palestina y los países vecinos existen numerosas plantas capaces de producir álcalis; podemos notar uno llamado hubeibeh (el Salsola kali de los botánicos) encontrado cerca del Mar Muerto, cuyas cenizas se llaman el-kuli, por sus fuertes propiedades alcalinas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 2:22",
+        "original": "Jer. 2:22"
+      },
+      {
+        "reference": "Malachi 3:2",
+        "original": "Mal. 3:2"
+      },
+      {
+        "reference": "Isaiah 1:25",
+        "original": "Isa. 1:25"
+      },
+      {
+        "reference": "Job 9:30",
+        "original": "Job 9:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "j"
+  },
+  "swearing": {
+    "name": "Jurar",
+    "slug": "swearing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Juramento]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "j"
   }
 }

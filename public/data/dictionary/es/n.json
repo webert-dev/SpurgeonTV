@@ -6082,5 +6082,220 @@
       "EAS"
     ],
     "letter": "n"
+  },
+  "razor": {
+    "name": "Navaja",
+    "slug": "razor",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A los nazareos se les prohibió hacer uso de la navaja (Núm. 6:5; Jue. 13:5). En el momento de su consagración, los levitas fueron afeitados por completo con una navaja (Núm. 8:7; comp. Sal. 52:2; Eze. 5:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "Además de otros usos, la práctica de afeitarse la cabeza después de cumplir un voto debe haber creado entre los judíos la necesidad del oficio especial de barbero. (Levítico 14:8; Números 6:9,18; 8:7; Jueces 13:5; Isaías 7:20; Ezequiel 5:1; Hechos 18:18.) Los instrumentos de su trabajo probablemente fueron, como en los tiempos modernos, la navaja, la palangana, el espejo y quizás también las tijeras. Ver (2 Samuel 14:26) Al igual que los levitas, los sacerdotes egipcios estaban acostumbrados a afeitarse todo el cuerpo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 6:5",
+        "original": "Num. 6:5"
+      },
+      {
+        "reference": "Judges 13:5",
+        "original": "Judg. 13:5"
+      },
+      {
+        "reference": "Numbers 8:7",
+        "original": "Num. 8:7"
+      },
+      {
+        "reference": "Psalms 52:2",
+        "original": "Ps. 52:2"
+      },
+      {
+        "reference": "Ezekiel 5:1",
+        "original": "Ezek. 5:1"
+      },
+      {
+        "reference": "Leviticus 14:8",
+        "original": "Leviticus 14:8"
+      },
+      {
+        "reference": "Numbers 6:9",
+        "original": "Numbers 6:9"
+      },
+      {
+        "reference": "Numbers 6:18",
+        "original": "Numbers 6:18"
+      },
+      {
+        "reference": "Isaiah 7:20",
+        "original": "Isaiah 7:20"
+      },
+      {
+        "reference": "Acts 18:18",
+        "original": "Acts 18:18"
+      },
+      {
+        "reference": "2 Samuel 14:26",
+        "original": "2 Samuel 14:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "snow": {
+    "name": "Nieve",
+    "slug": "snow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Común en Palestina en invierno (Sal. 147:16). La nieve en las cimas de la cordillera del Líbano casi siempre está a la vista durante todo el año. Los escritores sagrados usan frecuentemente la palabra en sentido figurado (Job 24:19; Sal. 51:7; 68:14; Isa. 1:18). Se menciona sólo una vez en los libros históricos (2 Sam. 23:20). Fue \"llevada a Tiro, Sidón y Damasco como un lujo, y los trabajadores que se sofocaban en los calurosos campos de cosecha la usaban para enfriar el agua que bebían (Prov. 25:13; Jer. 18:14). Sin duda, Herodes Antipas, en sus fiestas en Tiberíades, disfrutaba también de esta misma fuente el lujo moderno del agua helada\"."
+      },
+      {
+        "source": "SMI",
+        "text": "Estos libros históricos de la Biblia contienen sólo dos avisos de nieve que realmente cae: (2 Samuel 23:20) 1 Mac 13:22; pero las alusiones en los libros poéticos son tan numerosas que no cabe duda de que se trata de un hecho común en los meses de invierno. (Salmos 147:16; 148:8.) La nieve se acumula en lo profundo de los barrancos de la cresta más alta del Líbano hasta que el verano está muy avanzado y, de hecho, nunca desaparece por completo; La cima del Hermón también brilla perpetuamente con nieve helada. Probablemente los judíos obtenían de estas fuentes sus suministros de hielo para enfriar sus bebidas en verano. (Proverbios 25:13.) Por supuesto, la probabilidad de nevar debe variar considerablemente en un país de altitud tan variable como Palestina. En Jerusalén la nieve suele caer hasta una profundidad de un pie o más en enero o febrero, pero rara vez cae. En Nazaret cae con mayor frecuencia y profundidad, y se ha observado que cae incluso en la llanura marítima de Jope y alrededor del Carmelo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 147:16",
+        "original": "Ps. 147:16"
+      },
+      {
+        "reference": "Job 24:19",
+        "original": "Job 24:19"
+      },
+      {
+        "reference": "Psalms 51:7",
+        "original": "Ps. 51:7"
+      },
+      {
+        "reference": "Psalms 68:14",
+        "original": "Ps 68:14"
+      },
+      {
+        "reference": "Isaiah 1:18",
+        "original": "Isa. 1:18"
+      },
+      {
+        "reference": "2 Samuel 23:20",
+        "original": "2 Sam. 23:20"
+      },
+      {
+        "reference": "Proverbs 25:13",
+        "original": "Prov. 25:13"
+      },
+      {
+        "reference": "Jeremiah 18:14",
+        "original": "Jer. 18:14"
+      },
+      {
+        "reference": "1Macc 13:22",
+        "original": "1Macc 13:22"
+      },
+      {
+        "reference": "Psalms 148:8",
+        "original": "Psalms 148:8"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "spikenard": {
+    "name": "Nardo",
+    "slug": "spikenard",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. nerd), un perfume muy apreciado (Cant. 1:12; 4:13, 14). Era “muy precioso”, es decir, muy costoso (Marcos 14:3; Juan 12:3, 5). Es la raíz de una planta india, la Nardostachys jatamansi, de la familia de las Valeriana, que crece en las montañas del Himalaya. Se distingue por tener muchas púas peludas que salen de una raíz. Los árabes lo llaman sunbul hindi, “la espiga india”. En el Nuevo Testamento esta palabra es la traducción del griego nardos pistike. El margen de la versión revisada en estos pasajes tiene “nardo pístico”, siendo quizás pístico un nombre local. Algunos lo interpretan como genuino y otros como líquido. La opinión más probable es que la palabra pistike designa al nardo como genuino o fielmente preparado."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. nerd) se menciona dos veces en el Antiguo Testamento, a saber. en (Cantares de los Cantares 1:12; 4:13,14) El ungüento con el que nuestro Señor fue ungido mientras estaba sentado a la mesa en la casa de Simón en Betania consistía en esta preciosa sustancia, cuyo costo puede inferirse de la sorpresa indignada manifestada por algunos de los testigos de la transacción. Ver (Marcos 14:3-5; Juan 12:3,5) (La nardo, de la cual se hizo el ungüento, era una hierba aromática de la familia de la valeriana (Nardostachys jatamansi). Fue importada desde una edad temprana de Arabia, India y el Lejano Oriente. El costo de la ofrenda de María (300 peniques =) puede verse por el hecho de que un centavo (denario, 15 a 17 centavos) estaba en esos días el jornal de un trabajador (Mateo 20:2) En nuestros días esto equivaldría al menos a o .-ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 1:12",
+        "original": "Cant. 1:12"
+      },
+      {
+        "reference": "Song of Solomon 4:13",
+        "original": "Cant 4:13"
+      },
+      {
+        "reference": "Song of Solomon 4:14",
+        "original": "Cant 4:14"
+      },
+      {
+        "reference": "Mark 14:3",
+        "original": "Mark 14:3"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "John 12:5",
+        "original": "John 12:5"
+      },
+      {
+        "reference": "Mark 14:3-5",
+        "original": "Mark 14:3-5"
+      },
+      {
+        "reference": "Matthew 20:2",
+        "original": "Matthew 20:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "n"
+  },
+  "tire": {
+    "name": "Neumático",
+    "slug": "tire",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "una antigua palabra inglesa para tocado. Era un tocado ornamental usado en ocasiones festivas (Ezequiel 24:17,23) y quizás, como algunos suponen, también un adorno para el cuello usado tanto por mujeres (Isaías 3:18) como por hombres, e incluso en el cuello de los camellos. (Jueces 8:21,26)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 24:17",
+        "original": "Ezekiel 24:17"
+      },
+      {
+        "reference": "Ezekiel 24:23",
+        "original": "Ezekiel 24:23"
+      },
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isaiah 3:18"
+      },
+      {
+        "reference": "Judges 8:21",
+        "original": "Judges 8:21"
+      },
+      {
+        "reference": "Judges 8:26",
+        "original": "Judges 8:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "n"
   }
 }
